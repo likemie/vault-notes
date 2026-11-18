@@ -1119,6 +1119,26 @@
     {
       "sentence": "结合课堂教学实证观察文献与社会分层统计，评估微观教学法演进与宏观阶层再生产之间的双向制约。",
       "target": "wiki/concepts/research-methodology/Document.md"
+    },
+    {
+      "sentence": "建国初期面临严重的失业危机与转口贸易萎缩，政府聚焦纺织、成衣与船舶维修等劳动密集型轻工业，教育领域优先普及小学义务教育与基础读写算能力，推行基础技术训练以迅速提供顺从守纪的产业工人。",
+      "target": "wiki/concepts/educational-policy-reform/Foundational Literacy and Numeracy.md"
+    },
+    {
+      "sentence": "制造业向电子组装与精密工程迈进，经济发展局（Economic Development Board, EDB）与飞利浦（Philips）、塔塔（Tata）等跨国企业联合创办专业培训中心，迅速培育中级工艺技术人员，扩充中等教育与职业教育规模。",
+      "target": "wiki/concepts/comparative-education/Assemblage.md"
+    }
+  ],
+  "wiki/concepts/sociology-of-education/Singlish.md": [
+    {
+      "sentence": "**新加坡式英语（Singlish）**，语言学上亦称**新加坡口语英语（Colloquial Singapore English, CSE）**，是指在新加坡特定多语生态下由英语与本土多种方言（闽南语、粤语、潮州话）、马来语及泰米尔语高强度长期接触而自发演化出的一种本土接触变体（contact variety）。",
+      "target": "wiki/concepts/competency-and-assessment/Creative Self-Efficacy.md"
+    }
+  ],
+  "wiki/concepts/educational-policy-reform/English-Knowing Bilingualism.md": [
+    {
+      "sentence": "**英文主导的双语主义（English-Knowing Bilingualism）** 是指多民族社会中由国家主导建立的一种特定双语体制：将既非本土土著语言、亦不专属任一族群的中立国际语言（英语）确立为全体国民通晓的第一语言与通用工作语，并要求各族群同时掌握一门官方规定的族群母语（如华语、马来语、泰米尔语）作为文化身份依托。",
+      "target": "wiki/concepts/educational-technology/Avatar.md"
     }
   ]
 }

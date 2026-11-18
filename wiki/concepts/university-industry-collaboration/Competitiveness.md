@@ -11,7 +11,7 @@ aliases:
 summary: "驱动国家科技战略、大学治理变革与劳动力技能重塑的核心逻辑与地缘政治装置。在新自由主义社会想象下，国家经济竞争力被假定为直接取决于由国际标准衡量的教育质量；在宏观上体现为长程战略计算、先进制造、跨国多边监测与地缘威慑；在中观上体现为产学中心破除学科壁垒与排名审计重塑大学；在微观上体现为产线组织学习与学习分析；创始人长期主义与全员股权模式构成了抵御短期金融化的深层制度基石。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 97
+related_count: 99
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -79,6 +79,7 @@ related_theories:
   - "[[Governmentality]]"
   - "[[Panopticism]]"
   - "[[Societies of Control]]"
+  - "[[Developmental State]]"
 related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[External Auditor]]"
@@ -128,6 +129,7 @@ related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Deng_2016_CE]]"
+  - "[[Argument_Gopinathan_2007_GSE]]"
 confidence: high
 status: active
 created: 2026-05-19
@@ -422,4 +424,5 @@ updated: 2026-11-18
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 结合福柯全景敞视理论批判解构欧盟教育话语，揭示里斯本战略如何以全球竞争力为驱动，依托开放协调法与量化指标构筑超国家规训建筑（pp. 480, 486–487, 492–493）。
 > - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 揭示芬兰教育出口政策如何将公共教育质量窄化为国际竞争力与财政创收指标，将全球声誉转化为商业变现资本。
 > - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 批判以 OECD 与 PISA 国际测验为代表的经济主义治理取向，揭示将教育目标狭隘化为 21 世纪经济竞争力对国家认同与社会多元价值的排斥。
+> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 剖析新加坡[[Developmental State|发展型国家]]如何将整个教育体系全方位嵌入全球经济竞争力诉求，并反思单纯追求经济竞争优势对公民与人文教育价值的挤出效应。
 

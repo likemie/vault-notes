@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 42
+person_related_count: 44
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Policy Network]]"
   - "[[Venture Philanthropy]]"
+  - "[[School Leadership]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -73,10 +74,11 @@ related_arguments:
   - "[[Argument_Cowen_2023_CE]]"
   - "[[Argument_Ball_2008_SR]]"
   - "[[Argument_ONeill_2016_Report]]"
+  - "[[Argument_Deng_2016_CE]]"
 confidence: high
 status: completed
 created: 2026-07-04
-updated: 2026-11-11
+updated: 2026-11-18
 ---
 
 ---
@@ -142,14 +144,14 @@ updated: 2026-11-11
 > [!influence-path] 影响路径
 > - **理论与[[Discourse|话语]]路径** 将“交付学”确立为跨国公共管理与[[New Public Management\|新公共管理]]（New Public Management, NPM）晚期的显学话语，使“指标追踪”、“例行审议（Stocktakes）”与“交付机构（Delivery Units）”成为数十个主权国家与[[World Bank\|世界银行]]、[[OECD\|经合组织]]等国际组织的通用治理词汇。
 > - **政策与组织路径** 领导英国首相交付组与学校标准与效能组，彻底将目标设定与表格化绩效审计制度化；其麦肯锡报告的政策建议直接被英国教育大臣[[Michael Gove\|戈夫]]采纳并写入 2010 年白皮书[[The Importance of Teaching\|《教学的重要性》]]，奠定了以 1.25 亿英镑政府资金创设英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）的政策法理基石（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 6]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）。
-> - **跨国与跨界商业化路径** 从英国白厅内阁流转至麦肯锡战略咨询，再流动至跨国教育出版寡头培生集团，巴伯开创了教育专家跨越政、商、学三界的高级“旋转门”轨迹。在 Gephi 网络拓扑分析中，巴伯处于连接英国国际发展部（Department for International Development, DfID）、[[HM Treasury|英国财政部]]（HM Treasury）、世界经济论坛（World Economic Forum, WEF）、全球商业战略咨询与跨国教育资本（Pearson）的核心跨界[[Policy Network|政策网络]]枢纽（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 81–82]]），深刻推动了跨国商业咨询网络与教育跨国寡头对主权国家公共教育改革的深度介入与议程统摄。
+> - **跨国与跨界商业化路径** 从英国白厅内阁流转至麦肯锡战略咨询，再流动至跨国教育出版寡头培生集团，巴伯开创了教育专家跨越政、商、学三界的高级“旋转门”轨迹。在 Gephi 网络拓扑分析中，巴伯处于连接英国国际发展部（Department for International Development, DfID）、[[HM Treasury|英国财政部]]（HM Treasury）、世界经济论坛（World Economic Forum, WEF）、全球商业战略咨询与跨国教育资本（Pearson）的核心跨界[[Policy Network|政策网络]]枢纽（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 81–82]]），深刻推动了跨国商业咨询网络与教育跨国寡头对主权国家公共教育改革的深度介入与议程塑造。
 
 ---
 
 > [!person-network] 关系网络
 > - **政界盟友与委托人** 托尼·布莱尔（Tony Blair，英国前首相）— 亲自设立并授权首相交付组，为其交付学体系提供国家中枢政治后盾；[[Michael Gove|迈克尔·戈夫]]（Michael Gove，英国前教育大臣）— 深度接受其麦肯锡咨询理念，在白皮书中规划设立 [[Education Endowment Foundation|EEF]]。
 > - **政策咨询与智库网络** [[Michael Traill|迈克尔·特雷尔]]（Michael Traill） — 其全球咨询网络与麦肯锡前高管网络协同，推动英国 EEF 证据中介模式向[[Evidence for Learning|澳大利亚证据学习中心]]（[[Evidence for Learning|E4L]]）转译（[[Argument_Rowe_2023_ECNUROE|Rowe, 2023, p. 530]]）。
-> - **批评者与学术论敌** [[Paul Morris|保罗·莫里斯]]（Paul Morris）与尤恩·奥尔德（Euan Auld）— 深入剖析巴伯思想中救赎主义政治神学修辞与技术官僚霸权（[[Argument_Cowen_2023_CE|Cowen, 2023, p. 334]]）；[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen Ball）— 批判其推动[[School Effectiveness|学校效能]]与绩效度量入侵国家行政机器（[[Argument_Ball_2008_SR|Ball, 2008, p. 663]]）；埃德温娜·罗威（Edwina Rowe）— 揭示其代表的麦肯锡全球网络对英澳两国[[Evidence-Based Education|循证教育]]与[[Venture Philanthropy|风险慈善]]中介的深层装配（[[Argument_Rowe_2022_IJER|Rowe, 2022, p. 6]]；[[Argument_Rowe_2023_ECNUROE|Rowe, 2023, pp. 530–531]]）。
+> - **批评者与学术论敌** [[Paul Morris|保罗·莫里斯]]（Paul Morris）与尤恩·奥尔德（Euan Auld）— 深入剖析巴伯思想中救赎主义政治神学修辞与技术官僚霸权（[[Argument_Cowen_2023_CE|Cowen, 2023, p. 334]]）；[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen Ball）— 批判其推动[[School Effectiveness|学校效能]]与绩效度量入侵国家行政机器（[[Argument_Ball_2008_SR|Ball, 2008, p. 663]]）；埃德温娜·罗威（Edwina Rowe）— 揭示其代表的麦肯锡全球网络对英澳两国[[Evidence-Based Education|循证教育]]与[[Venture Philanthropy|风险慈善]]中介的深层装配（[[Argument_Rowe_2022_IJER|Rowe, 2022, p. 6]]；[[Argument_Rowe_2023_ECNUROE|Rowe, 2023, pp. 530–531]]）；邓宗怡（Zongyi Deng）与高平纳坦（S. Gopinathan）— 系统解构其主导的麦肯锡高绩效报告将新加坡成功化约为去情境化输入-产出公式的致命偏误（[[Argument_Deng_2016_CE|Deng & Gopinathan, 2016]]）。
 
 ---
 
@@ -158,7 +160,7 @@ updated: 2026-11-11
 > > [!axis] “交付科学” vs 政治神学化与教育伦理剥夺
 > > 探讨围绕巴伯将政府与学校系统改造为指标达标机器的哲学与伦理争议。
 > >
-> > - **批判比较教育学视角** [[Argument_Cowen_2023_CE|Cowen (2023, p. 334)]] 与 Auld and Morris (2023) 尖锐指出，巴伯所宣扬的“交付科学”并非纯粹客观的行政技术，其实质是一种世俗化的“末日政治神学”。巴伯将自身包装成带来危机救赎的先知，将复杂深沉的教育价值彻底缩减为冰冷的比较指标和效率达标率，使国家行政机器沦为指标管理的附属品，在根本上挤压了教育的公共伦理与人性培育本质。
+> > - **批判比较教育学视角** [[Argument_Cowen_2023_CE|Cowen (2023, p. 334)]] 与 Auld and Morris (2023) 尖锐指出，巴伯所宣扬的“交付科学”实质是一种世俗化的“末日政治神学”。巴伯将自身包装成带来危机救赎的先知，将复杂深沉的教育价值彻底缩减为冰冷的比较指标和效率达标率，使国家行政机器沦为指标管理的附属品，在根本上挤压了教育的公共伦理与人性培育本质。
 > > - **技术官僚与政策辩护视角** 认为传统[[Bureaucracy|科层制]]官僚主义充斥拖延与推诿，在未建立严密交付追踪前，公共财政的巨额投入往往在漫长的行政链条中消解；交付学为政府落实选民承诺提供了清晰的执行纪律与可量化的问责依据。
 >
 > > [!axis] 独立专业建议 vs 商业咨询与教育产业化旋转门
@@ -169,12 +171,13 @@ updated: 2026-11-11
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cowen_2023_CE\|Cowen (2023)]] — 评析 Auld and Morris (2023) 采用神学与哲学透镜解构巴伯“交付学”全球教育改革，批判其将国家机器降格为指标管理附属品及挤压教育本真伦理的机制。
-> - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 揭示英国 [[Education Endowment Foundation\|EEF]] 的创设深植于前麦肯锡掌门人巴伯的全球咨询网络，并剖析跨国商业咨询网络如何协同[[Venture Philanthropy\|风险慈善]]渗透公立教育治理。
-> - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 剖析前麦肯锡全球总裁巴伯的理念如何影响英国教育大臣[[Michael Gove\|戈夫]]在 2010 年白皮书中规划设立 EEF，追踪跨国因果证据中介的[[Policy Network\|政策网络]]源头。
-> - [[Argument_Ball_2008_SR\|Ball (2008)]] — 追踪新工党教育政策演进，记录巴伯领导学校标准与效能组标志着[[School Effectiveness\|学校效能]]语言正式进入英国国家政策机器的历史过程。
-> - [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] — 诊断新西兰与全球教育改革中的[[Policy Entrepreneur\|政策企业家]]现象，剖析巴伯如何无缝穿梭于公共福利、非营利组织与跨国营利咨询公司之间。
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 系统批判巴伯主导的两份麦肯锡全球教育报告（2007, 2011），解构其将新加坡成功化约为“延揽前三分之一优等生+[[School Leadership|学校领导力]]”的去情境化输入-产出公式，揭示跨国商业咨询报告对制度历史与本土文化的遮蔽。
+> - [[Argument_Cowen_2023_CE|Cowen (2023)]] — 评析 Auld and Morris (2023) 采用神学与哲学透镜解构巴伯“交付学”全球教育改革，批判其将国家机器降格为指标管理附属品及挤压教育本真伦理的机制。
+> - [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]] — 揭示英国 [[Education Endowment Foundation|EEF]] 的创设深植于前麦肯锡掌门人巴伯的全球咨询网络，并剖析跨国商业咨询网络如何协同[[Venture Philanthropy|风险慈善]]渗透公立教育治理。
+> - [[Argument_Rowe_2022_IJER|Rowe (2022)]] — 剖析前麦肯锡全球总裁巴伯的理念如何影响英国教育大臣[[Michael Gove|戈夫]]在 2010 年白皮书中规划设立 EEF，追踪跨国因果证据中介的[[Policy Network|政策网络]]源头。
+> - [[Argument_Ball_2008_SR|Ball (2008)]] — 追踪新工党教育政策演进，记录巴伯领导学校标准与效能组标志着[[School Effectiveness|学校效能]]语言正式进入英国国家政策机器的历史过程。
+> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 诊断新西兰与全球教育改革中的[[Policy Entrepreneur|政策企业家]]现象，剖析巴伯如何无缝穿梭于公共福利、非营利组织与跨国营利咨询公司之间。
 
 ---
 

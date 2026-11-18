@@ -8,9 +8,9 @@ aliases:
 summary: "研究共同体共享的世界观、信念体系与原则集合，涵盖本体论、认识论与方法论承诺，决定何为合法的科学知识；在科学学与社会科学中历经科学革命、实证论战与当代跨学科计量对范式开创成果注意力极化的实证确证。"
 type: concept
 domain: "educational-philosophy"
-related_count: 108
-related_level: 10
-related_stars: "💎💎💎⭐"
+related_count: 110
+related_level: 11
+related_stars: "💎💎💎⭐⭐"
 related_color: "#ddd6fe"
 tags:
   - theme/epistemology
@@ -104,6 +104,7 @@ related_persons:
   - "[[Niklas Luhmann]]"
   - "[[Sotiria Grek]]"
   - "[[Jurgen Schriewer]]"
+  - "[[Karl Marx]]"
   - "[[Robert K. Merton]]"
 related_facts:
   - "[[Positivist Dispute in German Sociology]]"
@@ -131,10 +132,11 @@ related_arguments:
   - "[[Argument_Hao_2026_Nature]]"
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Barrenechea_2023_JEC]]"
+  - "[[Argument_Gopinathan_2007_GSE]]"
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-11-15
+updated: 2026-11-18
 ---
 
 ---
@@ -262,7 +264,7 @@ updated: 2026-11-15
 
 > [!dev-timeline] 概念演变
 > - **1962 — 库恩科学哲学奠基** [[Thomas Kuhn|托马斯·库恩]]出版《科学革命的结构》，确立常规科学、异常、危机与范式转换理论，打破了逻辑[[Positivism|实证主义]]平稳线性积累的科学进步观。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
-> - **1960s–1980s — 社会科学实证主义大论战与比较教育方法转向** 德国社会学界爆发波普尔与[[Jürgen Habermas|哈贝马斯]]的[[Positivist Dispute in German Sociology|实证主义争论]]（Positivismusstreit），新马克思主义批判兴起；比较教育学界以[[Brian Holmes|布莱恩·霍姆斯]]引入波普尔[[Critical Dualism|批判二元论]]为契机，在伦敦大学 IOE 掀起文化主义与实证主义[[Problem Approach|问题法]]的激烈范式论战。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–93)]]
+> - **1960s–1980s — 社会科学实证主义大论战与比较教育方法转向** 德国社会学界爆发波普尔与[[Jürgen Habermas|哈贝马斯]]的[[Positivist Dispute in German Sociology|实证主义争论]]（Positivismusstreit），新[[Karl Marx|马克思]]主义批判兴起；比较教育学界以[[Brian Holmes|布莱恩·霍姆斯]]引入波普尔[[Critical Dualism|批判二元论]]为契机，在伦敦大学 IOE 掀起文化主义与实证主义[[Problem Approach|问题法]]的激烈范式论战。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–93)]]
 > - **1980s–1990s — 教育研究中的“[[Paradigm Wars|范式战争]]”与[[Mixed Methods Research|混合方法]]调和** 教育学术界在定量实证范式与质性[[Constructivist Paradigm|建构主义范式]]之间展开长达十余年的“范式战争”；随后[[Mixed Methods Research|混合方法研究]]确立以[[Pragmatic Paradigm|实用主义]]（Pragmatism）为哲学根基，架桥弥合二元对立。（Gage, 1989; Tashakkori & Teddlie, 1998）
 > - **1990s–2010s — 后现代解构、系统论[[Autopoiesis|自创生]]与跨文化融合** 斯坦福[[World-Systems Theory|世界体系理论]]、后现代文化[[Pluralism|多元主义]]与[[Niklas Luhmann|尼克拉斯·卢曼]]的自创生系统论进入比较教育；施里维尔开创意义[[Externalization|外化]]比较范式，同时比较教育与多民族移民社会的[[Intercultural Education|跨文化教育]]实现范式合流。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94, 97–98)]]
 > - **2009 — 评价功能化与软性数字治理双重范式确立** 索蒂里亚·格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, pp. 26–27, 32–35]]）阐释全球教育领域中两项相互交织的范式转变：评价范式脱离民族国家课程大纲、转向考查成人生活功能性应用能力；治理范式则在欧盟辅助性原则限制下，从传统的条约立法与信贷强制转向依托跨国测评与量化基准的软性数字治理。
@@ -346,3 +348,4 @@ updated: 2026-11-15
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 历史社会学解构欧盟教育治理范式从《马斯特里赫特条约》辅助性原则向[[Lisbon Strategy|里斯本战略]][[Open Method of Coordination|开放协调法]]（OMC）[[Panopticism|全景敞视]]治理范式的断裂性重构（pp. 488–491）。
 > - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 系统揭示当代同行评审与量化考评如何作为既有主流范式的守门机制，抑制高风险的非典型理论假说并阻碍科学范式更迭。
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 对[[System-Wide Improvement|教育系统改进]]文献开展主题综合，提炼出理性选择、文化制度、课程规制与能力建设四大理论范式，解析不同范式的认识论假定与政策干预张力。
+> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 阐明新加坡教育政策从生存与效率驱动范式向能力驱动与知识经济范式的转型历程，揭示旧范式留存的统考机制对新范式落地的制度性摩擦。

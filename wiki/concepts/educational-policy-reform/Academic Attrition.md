@@ -66,6 +66,8 @@ related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"
   - "[[Argument_Hattie_2005_ACER]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
+  - "[[Argument_Deng_2016_CE]]"
+  - "[[Argument_Gopinathan_2007_GSE]]"
 confidence: high
 status: draft
 created: 2026-09-18
@@ -149,7 +151,7 @@ updated: 2026-11-15
 
 ---
 
-> [!concept-proposition] 命题二｜高利害问责指标倒逼学校制度化排斥后进生以维护达标率
+> [!concept-proposition] 命题二｜高利害问责指标迫使学校制度化排斥后进生以维护达标率
 > **政策问责扭曲维度** 考察当宏观政策将学校存续与单一标准化测验分数紧密绑定时，基层学校管理层所采取的防御性生源排斥策略。
 
 > [!claim] [[Yong Zhao\|Zhao, Y.]]
@@ -185,7 +187,7 @@ updated: 2026-11-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **惩戒推挤异化命题** | 零容忍排斥性惩戒并未增进校园安全，反而系统性加速边缘族裔学生的学业流失 | 校园安全治理、惩戒规程修订、国会立法听证 | [[Argument_Serpell_2020_EducPsychol\|Serpell (2020, p. 45)]]; Skiba (2014) |
-> | **问责逆向淘汰命题** | 高利害问责指标倒逼学校制度化排斥后进生以维护达标率，推高隐性学业流失 | 联邦及州绩效问责评估、学校评价体系重构 | [[Argument_Zhao_2017_JEC\|Zhao (2017, pp. 13–15)]] |
+> | **问责逆向淘汰命题** | 高利害问责指标迫使学校制度化排斥后进生以维护达标率，推高隐性学业流失 | 联邦及州绩效问责评估、学校评价体系重构 | [[Argument_Zhao_2017_JEC\|Zhao (2017, pp. 13–15)]] |
 > | **[[Grade Retention\|留级]]负向催化命题** | 学业留级惩戒破坏了学生的同伴纽带与[[Self-Efficacy\|自我效能感]]，是中途辍学最强烈的预测源 | K–12 留级政策制定、早期阅读法案审查 | [[Argument_Hattie_2005_ACER\|Hattie (2005, p. 12)]]; Jimerson (2001) |
 > | **多元留存干预命题** | 基于预警大数据的综合干预与导师连接能显著阻断学业脱落进程 | 区域教育治理、预防辍学中心运营、循证项目采纳 | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024, pp. 223, 263)]] |
 > | **超国家基准规训命题** | 将早期离校率固化为全欧量化基准线，通过常态化汇报与横向排名施加全景敞视审查 | 区域一体化教育治理、开放协调法（OMC）与跨国基准比较 | [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]] |
@@ -194,7 +196,7 @@ updated: 2026-11-15
 
 > [!dev-timeline] 概念演变
 > - **1970–1980 年代** 文森特·廷托（Vincent Tinto）提出学生整合模型（Student Integration Model），开启对学业流失（学生留存）的系统理论建构。
-> - **1979 年** 新加坡发布《[[Goh Report|吴庆瑞报告]]》，针对建国初期统一大纲下高达 20% 的学业辍学流失率，建立自小学到中学的因材施教分流体制（PSLE 与特选/快捷/普通轨），通过结构化分流将学生学业流失率大幅降至 1% 以下。[[Argument_Deng_2016_CE|(Goh, 1979; Deng & Gopinathan, 2016)]]
+> - **1979 年** 新加坡发布《[[Goh Report|吴庆瑞报告]]》，针对建国初期统一大纲下高达 20% 的学业辍学流失率，建立自小学到中学的因材施教分流体制（PSLE 与特选/快捷/普通轨），通过结构化分流将学生学业流失率（educational wastage）大幅降至 1% 以下。[[Argument_Deng_2016_CE|(Goh, 1979; Deng & Gopinathan, 2016)]]; [[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, p. 58)]]
 > - **1990 年代** “零容忍”校园纪律政策在美国广泛立法，停课率与排斥性管教急剧攀升。
 > - **2001 年** [[No Child Left Behind Act 2001\|NCLB]] 出台，高风险标准化[[Test-Based Accountability\|考试问责]]加剧了学校针对弱势群体的排挤现象。
 > - **2009 年** 帕西亚斯与鲁萨基斯阐明欧盟《教育与培训 2010》工作规划将早期离校率低于 10% 确立为全欧五大核心基准线之一，依托常设指标工作组与开放协调法实施全景敞视审查。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 491–492)]]
@@ -233,8 +235,9 @@ updated: 2026-11-15
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Deng_2016_CE]] — 考察新加坡教育现代化进程中通过制度设计治理学业流失的历史实践，揭示 1979 年《吴庆瑞报告》如何针对早期一刀切教学导致两成学生辍学的沉痛教训，通过确立精细化能力分流将学业淘汰率压缩至 1% 以下。
+> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 阐明新加坡在效率驱动阶段如何通过 1979 年《吴庆瑞报告》建立能力分流制度，系统降低学生学业流失率（educational wastage）以支撑技术密集型产业对劳动力留存与技能积累的需求（p. 58）。
 > - [[Argument_Serpell_2020_EducPsychol|Serpell (2020)]] — 援引斯基巴实证数据，揭示校园零容忍排斥性管教导致弱势族裔学生学业流失并加剧学校到监狱管道的结构性机制（p. 45）。
-> - [[Argument_Zhao_2017_JEC|Zhao (2017)]] — 论证高利害标准化测试问责（[[No Child Left Behind Act 2001|NCLB]]）倒逼学校防御性推挤边缘学生以保全达标率的坎贝尔定律[[Alienation|异化]]机制（pp. 13–15）。
+> - [[Argument_Zhao_2017_JEC|Zhao (2017)]] — 论证高利害标准化测试问责（[[No Child Left Behind Act 2001|NCLB]]）迫使学校防御性推挤边缘学生以保全达标率的坎贝尔定律[[Alienation|异化]]机制（pp. 13–15）。
 > - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — [[Meta-analysis|元分析]]论证学业[[Grade Retention|留级]]对学生[[Academic Achievement|学业成就]]的负向效应（$d = -0.16$）及其作为中途辍学最强预测因子的长期破坏性后果（p. 12）。
 > - [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] — 系统评估全美证据清算平台中预防辍学中心（[[National Dropout Prevention Center|NDPC]]）的早期预警与多维[[Mentorship|导师制]]干预模型（pp. 223, 263）。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 剖析[[EU|欧盟]][[Lisbon Strategy|里斯本战略]]与《[[Education and Training 2010|教育与培训 2010]]》工作规划将早期离校率低于 10% 转化为超国家量化基准指标并实施[[Panopticism|全景敞视]]审查的规训机制（pp. 491–492）。

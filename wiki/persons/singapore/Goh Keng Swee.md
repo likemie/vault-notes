@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: singapore
 person_region: "singapore"
-person_related_count: 10
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,6 +25,8 @@ tags:
   - region/singapore
 related_concepts:
   - "[[Industrial District]]"
+  - "[[Academic Attrition]]"
+  - "[[Language-of-State]]"
   - "[[Geopolitics]]"
   - "[[Technological Republic]]"
   - "[[Hard Power]]"
@@ -33,12 +35,13 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Lee Kuan Yew]]"
+  - "[[Thomas Stamford Raffles]]"
 related_facts:
   - "[[Goh Report]]"
   - "[[Speak Mandarin Campaign]]"
 related_arguments:
-  - "[[Argument_Deng_2016_CE]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
+  - "[[Argument_Deng_2016_CE]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 confidence: high
 status: active
@@ -61,10 +64,10 @@ updated: 2026-11-18
 ---
 
 > [!timeline] 生平与职涯
-> - **1918** 出生于海峡殖民地马六甲，后毕业于莱佛士学院并在伦敦政治经济学院（London School of Economics, LSE）获得经济学博士学位。
+> - **1918** 出生于海峡殖民地马六甲，后毕业于[[Thomas Stamford Raffles|莱佛士]]学院并在伦敦政治经济学院（London School of Economics, LSE）获得经济学博士学位。
 > - **1959** 当选议员并出任新加坡首任财政部长，主导裕廊[[Industrial District|工业区]]开发。
 > - **1970–1979** 历任国防部长与副总理，创建新加坡武装部队（Singapore Armed Forces, SAF）。
-> - **1979** 兼任教育部长，发布里程碑式的《[[Goh Report|吴庆瑞报告]]》，启动双语教育改革与能力分流。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
+> - **1979** 兼任教育部长，发布里程碑式的《[[Goh Report|吴庆瑞报告]]》，创立新教育体制（New Education System, NES），建立小学与初中三轨分流机制，并创设新加坡课程发展署（CDIS），将基础教育[[Academic Attrition|学生流失]]率从 20% 以上压缩至 1% 以下。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 453–455)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
 > - **2010** 在新加坡逝世，享年 91 岁。
 
 ---
@@ -76,7 +79,7 @@ updated: 2026-11-18
 ---
 
 > [!claim] 核心思想
-> 国家生存不仅依赖于经济繁荣与硬军事防卫，更依赖于公民对一套核心道德价值观与国家认同的深层承诺；在多族群移民社会中，单纯的世俗外语教育可能导致传统伦理根基断裂，必须通过强有力的国家语言与教育政策整合，构建抵御外部危机与维护共同体集体利益的文化屏障。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
+> 国家生存不仅依赖于经济繁荣与硬军事防卫，更依赖于公民对一套核心道德价值观与国家认同的深层承诺；在多族群移民社会中，单纯的世俗外语教育可能导致传统伦理根基断裂，必须通过强有力的[[Language-of-State|国家语言]]与教育政策整合，构建抵御外部危机与维护共同体集体利益的文化屏障。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
 
 > [!citation-card] 吴庆瑞论共同道德价值观与国家防卫意志
 > 一个缺乏道德价值观引导的社会，在面临压力时很难指望能保持凝聚力。正是对一套共同价值观的承诺，将决定来自近代移民背景的人民在多大程度上愿意并能够捍卫他们的集体利益。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Goh, 1979; Karp & Zamiska, 2025, p. 196)]]
@@ -87,10 +90,12 @@ updated: 2026-11-18
 
 > [!influence-path] 影响路径
 > - **教育与语言政策路径** 奠定了新加坡数十年来实行的“英语作为工作语言 + 母语保留文化根基”的双语教育国策与能力分流体制。
+> - **高绩效体制奠基路径** 确立以效率为导向的集中化教育治理基础设施，包括中小学能力分流、课程发展署（CDIS）统编教材与统一师训，为新加坡日后成为全球高绩效系统奠定了制度基石。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 453–455)]]
 > - **国家能力建构** 为后发国家将产业政策、国防动员与公民伦理教育高度整合提供了经典的现代治理范例。
 > - **科技[[Geopolitics|地缘政治]]论证** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《[[Technological Republic|技术共和国]]》中高度赞扬吴庆瑞在价值观维系与国家威慑力构建上的远见。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 系统考证吴庆瑞主持《吴庆瑞报告》（1979）与创立新教育体制（NES）的历史进程，剖析其通过能力分流将辍学率压降至 1% 以下并创设课程发展署（CDIS）的制度奠基作用。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 论证吴庆瑞主持的教育与语言政策对新加坡确立国家威慑意志与凝聚力的决定性贡献。
 
 ---

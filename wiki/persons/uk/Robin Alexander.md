@@ -3,13 +3,13 @@ title: Robin Alexander
 aliases:
   - 罗宾·亚历山大
   - Robin J. Alexander
-summary: "剑桥大学教育学教授、英国学术院院士，跨国课堂教学文化比较与“比较教学论”（Comparative Pedagogy）奠基人，英法印俄美五国初等教育里程碑研究《文化与教学》（2000）作者，对话教学（Dialogic Teaching）理论开创者，英国《剑桥初等教育调查》领衔主持者。"
+summary: "剑桥大学教育学教授、英国学术院院士，跨国课堂教学文化比较与比较教学论（Comparative Pedagogy）奠基人，著有英法印俄美五国初等教育里程碑研究《文化与教学》（2000），对话教学（Dialogic Teaching）理论开创者，英国《剑桥初等教育调查》领衔主持者。"
 type: person
 cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 30
+person_related_count: 32
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Effective Teaching]]"
   - "[[Personalized Learning]]"
   - "[[Rich and Thick Description]]"
+  - "[[Policy Borrowing]]"
   - "[[Construct]]"
   - "[[Intangible Spiritual Forces]]"
   - "[[Scholiocentric Approach]]"
@@ -58,10 +59,11 @@ related_facts:
   - "[[World Bank]]"
 related_arguments:
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
+  - "[[Argument_Deng_2016_CE]]"
 confidence: high
 status: completed
 created: 2026-10-01
-updated: 2026-11-11
+updated: 2026-11-18
 ---
 
 ---
@@ -120,12 +122,13 @@ updated: 2026-11-11
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 深度援引亚历山大关于“教学法深嵌于文化与制度之中”的理论核心，解构经合组织（OECD）与麦肯锡报告的去情境化[[Policy Borrowing|政策借用]]假设，论证新加坡教学模式与本土制度文化的共生性。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 权威评述亚历山大倡导的比较教学论在英国比较教育抵御经济主义短视中的里程碑意义。
 
 ---
 
-> [!entry-map] 条目关联
+> [!entry-map|notitle] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
@@ -137,6 +140,6 @@ updated: 2026-11-11
 > | [[Protean Episteme\|普罗透斯式认识体系]] | 概念 | 作为第四代际晚期英国比较教育学派的代表人物，展现了学科回归教学与文化关怀的形态。 |
 > | [[Fieldwork\|田野调查]] | 方法 | 倡导深入跨国五国数十所小学教室展开长时段第一手观察与田野互动。 |
 > | [[Ethnography\|民族志]] | 方法 | 运用录像[[Rich and Thick Description\|深描]]与跨文化话语微观分析，确立了课堂民族志的标准[[Paradigm\|范式]]。 |
-> | [[Michael Sadler\|迈克尔·萨德勒]] | 人物 | 英国比较教育思想先驱，其文化情境与活体有机体观构成了亚历山大理论的精神底座。 |
+> | [[Michael Sadler\|迈克尔·萨德勒]] | 人物 | 英国比较教育思想先驱，其文化情境与活体有机体观构成了亚历山大理论的精神渊源。 |
 > | [[Patricia Broadfoot\|帕特丽夏·布罗德富特]] | 人物 | 英国学派长期核心合作学者，联合开辟初等教育课堂比较跨国网络。 |
 > | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 在学科史反思中将亚历山大的比较教学论定性为英国比较教育抵御美国机械[[Positivism\|实证主义]]的杰出代表。 |

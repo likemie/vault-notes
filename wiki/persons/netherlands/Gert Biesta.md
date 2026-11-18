@@ -4,7 +4,7 @@ aliases:
   - Biesta, G.
   - 格特·比斯塔
   - Gert J. J. Biesta
-summary: "荷兰教育哲学家，教育的美丽风险作者与教育目的论重构者，为教育研究反思证据本位、学习化与主体形成提供核心批判。"
+summary: "荷兰当代教育哲学家，以《教育的美丽风险》与教育目的论重构著称，为教育研究反思证据本位、学习化与主体形成提供核心批判。"
 type: person
 cssclasses:
   - person-page
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Positivism]]"
   - "[[Paradigm]]"
-  - "[[Document]]"
   - "[[Deficiencies Model for an Introduction]]"
   - "[[Interpretive Paradigm]]"
   - "[[New Public Management]]"
@@ -70,6 +69,7 @@ related_facts:
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Biesta_2010_SPE]]"
+  - "[[Argument_Deng_2016_CE]]"
   - "[[Argument_Rømer_2018_EPT]]"
   - "[[Argument_Wrigley_2019_ERE]]"
   - "[[Argument_Larsen_2019_EducSci]]"
@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-11-15
+updated: 2026-11-18
 ---
 
 ---
@@ -88,7 +88,7 @@ updated: 2026-11-15
 > - **代表贡献** 提出教育目的三维框架（资格化、社会化、主体化）、构建对循证教育的三重缺陷（[[Epistemology|认识论]]、[[Ontology|本体论]]、实践论）批判模型（[[Argument_Biesta_2010_SPE|Biesta, 2010]]）、阐发“被动性”（Passivity）与“领受教学之礼”的教育存在论哲学。
 
 > [!citation-card] 论教育作为目的驱动的规范性实践
-> 教育是一项目的性实践——一项由目的（Telos）所规约的实践。[[Argument_Biesta_2010_SPE|(Biesta, 2010, p. 500)]]
+> 教育是一项以目的为导向的实践，其行动框架始终由目的（Telos）所规定。[[Argument_Biesta_2010_SPE|(Biesta, 2010, p. 500)]]
 >
 > *Education is a teleological practice — a practice framed by a telos: an aim or purpose.*
 
@@ -97,7 +97,7 @@ updated: 2026-11-15
 > [!timeline] 生平与职涯
 > - **1957** 出生于荷兰，接受教育哲学与社会学训练。
 > - **2003** 与尼古拉斯·伯布利斯（Nicholas Burbules）合作出版《[[Pragmatic Paradigm|实用主义]]与教育研究》，系统奠定基于[[John Dewey|杜威]]交易[[Epistemology|认识论]]（[[Transactional Epistemology]]）的哲学基础。
-> - **2007** 发表论文 *Why 'what works' won't work*，首次提出[[Evidence-Based Education|循证教育]]的“民主缺陷”，成为全球批判[[Positivism|实证主义]]循证[[Paradigm|范式]]的标志性[[Document|文献]]。
+> - **2007** 发表 *Why 'what works' won't work*，首次提出[[Evidence-Based Education|循证教育]]的“民主缺陷”，成为全球批判[[Positivism|实证主义]]循证[[Paradigm|范式]]的标志性成果。
 > - **2010** 出版代表作《测量时代的好教育》（*Good Education in an Age of Measurement*），确立资格化、社会化与主体化三维目的论框架，并在 *Studies in Philosophy and Education* 发表教育三重[[Deficiencies Model for an Introduction|缺陷模型]]（[[Argument_Biesta_2010_SPE|Biesta, 2010]]）。
 > - **2013** 提出“被动性”（Passivity）与“被教导”（being taught）概念，将教学界定为个体向外部世界开放的“礼物”。
 > - **2017** 出版《重新发现教学》（*The Rediscovery of Teaching*），深入反思以学代教的“[[Learnification|学习化]]”危机，捍卫教师在主体显现中的核心引导地位。
@@ -141,7 +141,8 @@ updated: 2026-11-15
 > - **政策与实践路径** 深刻影响了英国、荷兰、北欧等国教师教育体系与课程哲学重构，为一线教师抗拒官僚化数据考核、捍卫课堂[[Professional Judgment|专业判断力]]（[[Phronesis|实践智慧]]）提供了关键思想武器。
 > - **跨国传播与论辩** 理论被广泛引入政策社会学与实证教育研究批判：里格利（Wrigley）援引其系统论反驳循证医学模型；罗默（Rømer）借用其被动性概念解构可见学习对被动维度的偏狭排斥；考恩（Cowen）在比较教育制度分析中印证其哲学诊断。
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 援引比斯塔关于学校教育三维目的论（资格化、社会化、主体化）框架，批判[[OECD|经合组织]]（OECD）[[PISA]] 评估与麦肯锡报告将教育价值化约为狭隘经济资格化的片面倾向。
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 援引比斯塔的“被动性”与“被教导”论述，批判[[John Hattie|哈蒂]]可见学习排斥被动性、割裂西方教育哲学传统的认识论缺陷。
 > - [[Argument_Wrigley_2019_ERE|Wrigley and McCusker (2019)]] — 援引比斯塔关于教育属于“开放、递归、符号系统”的本体论论断，批判循证教育将社会情境生物学化的方法论错误。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 借用比斯塔的“学习化”概念，批判北欧教育改革将教师降格为学习促进者的去专业化趋势。

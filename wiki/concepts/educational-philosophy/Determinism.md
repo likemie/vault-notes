@@ -8,7 +8,7 @@ aliases:
 summary: "关于宇宙与人类行为根本特性的本体论假设，主张任何事件与行为均由先前条件与客观规律所决定，反对任性与偶然性；在现代科学与认识论演进中，经典钟表式因果决定论受到波普尔云状现实、刺猬与狐狸认知模型以及工程思维概率探索的深刻反思与超越。"
 type: concept
 domain: "educational-philosophy"
-related_count: 36
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -44,6 +44,7 @@ related_theories:
   - "[[Behaviorism]]"
   - "[[Hedgehog and Fox Model]]"
   - "[[Critical Realism]]"
+  - "[[Dependency Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Experimental Research]]"
@@ -60,10 +61,11 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
+  - "[[Argument_Gopinathan_2007_GSE]]"
 confidence: high
 status: active
 created: 2026-09-09
-updated: 2026-11-03
+updated: 2026-11-18
 ---
 
 ---
@@ -191,12 +193,6 @@ updated: 2026-11-03
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011)]] — 系统论述决定论作为科学第一假设、Burrell & Morgan 人性维度木偶模型，以及[[Complexity Theory|复杂性理论]]对线性决定论的超越（pp. 8, 15, 29–31）。
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 结合波普尔云钟模型与[[Philip Tetlock|泰特洛克]]狐狸刺猬研究，论证克服意识形态决定论、践行工程实测[[Epistemology|认识论]]的制度价值（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]]）。
-
----
-
 > [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联与贡献 |
@@ -210,3 +206,10 @@ updated: 2026-11-03
 > | [[Karl Popper]] | 人物 | 哲学先驱：发表《论云与钟》，系统解构将一切云团强行视为机械钟表的物理决定论。 |
 > | [[Philip Tetlock]] | 人物 | 心理学家：通过长期实证检验揭示刺猬型决定论预测能力的系统性破产。 |
 > | [[Alexander Karp]] | 人物 | 现代学者：《[[Technological Republic\|技术共和国]]》撰写者，倡导以工程思维破除公共治理中的意识形态决定论。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011)]] — 系统论述决定论作为科学第一假设、Burrell & Morgan 人性维度木偶模型，以及[[Complexity Theory|复杂性理论]]对线性决定论的超越（pp. 8, 15, 29–31）。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 结合波普尔云钟模型与[[Philip Tetlock|泰特洛克]]狐狸刺猬研究，论证克服意识形态决定论、践行工程实测[[Epistemology|认识论]]的制度价值（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]]）。
+> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 以东亚新兴工业化经济体（新加坡等）的崛起实证反驳经典[[Dependency Theory|依附理论]]的结构决定论预设，论证强国家能力与战略性市场治理能够打破外围锁定。
