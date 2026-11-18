@@ -63,8 +63,8 @@ updated: 2026-11-19
 ---
 
 > [!feature] 核心要素
-> - **共享内在自我（Shared Inner Self）** 确立自他一体的深度同理心，瓦解统治者与被统治者、权威知识者与被动受知者的二元身份对立。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 11–12)]]
-> - **扁平化协商共识（Consensus-Building Conversations）** 在教学与治理场景中搭建无威权压制的讨论空间，保障边缘群体平等表达独特经验与诉求。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 11–12)]]
+> - **共享内在自我（Shared Inner Self）** 确立自他一体的深度同理心，瓦解统治者与被统治者、权威知识者与被动受知者的二元身份对立。
+> - **扁平化协商共识（Consensus-Building Conversations）** 在教学与治理场景中搭建无威权压制的讨论空间，保障边缘群体平等表达独特经验与诉求。
 > - **跨异质性社群团结（Relational Solidarity across Differences）** 尊重参与主体的多元文化背景与发展阶梯，在承认差异的基础之上凝聚集体行动合力。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 11–12)]]
 
 > [!logic-map]- 要素关系

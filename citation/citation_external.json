@@ -2511,6 +2511,8 @@
     "Bhaskar, 1979": "Bhaskar, 1979",
     "Bhaskar, 1986": "Bhaskar, 1986",
     "Bhaskar, 2013": "Bhaskar, 2013",
+    "Bhatta et al. (2024)": "Bhatta et al., 2024",
+    "Bhatta et al., 2024": "Bhatta et al., 2024",
     "Bhattacharya (1998)": "Bhattacharya, 1998",
     "Bhattacharya (2004)": "Bhattacharya, 2004",
     "Bhattacharya (2007)": "Bhattacharya, 2007",
@@ -8607,6 +8609,8 @@
     "Friedrich, 1997": "Friedrich, 1997",
     "Friedrichs (1970)": "Friedrichs, 1970",
     "Friedrichs, 1970": "Friedrichs, 1970",
+    "Friesen & Purc-Stephenson (2016)": "Friesen & Purc-Stephenson, 2016",
+    "Friesen & Purc-Stephenson, 2016": "Friesen & Purc-Stephenson, 2016",
     "Frigotto (1995)": "Frigotto, 1995",
     "Frigotto, 1995": "Frigotto, 1995",
     "Frisbie (1981)": "Frisbie, 1981",
@@ -15268,6 +15272,8 @@
     "Liu & Chen, 2023": "Liu & Chen, 2023",
     "Liu & Lipowski (2021)": "Liu & Lipowski, 2021",
     "Liu & Lipowski, 2021": "Liu & Lipowski, 2021",
+    "Liu & Ma (2018)": "Liu & Ma, 2018",
+    "Liu & Ma, 2018": "Liu & Ma, 2018",
     "Liu & Pásztor (2022)": "Liu & Pásztor, 2022",
     "Liu & Pásztor, 2022": "Liu & Pásztor, 2022",
     "Liu & Yang (2015)": "Liu & Yang, 2015",
@@ -16086,12 +16092,14 @@
     "Marginson & Van der Wende, 2007": "Marginson & Van der Wende, 2007",
     "Marginson (2009)": "Marginson, 2009",
     "Marginson (2014)": "Marginson, 2014",
+    "Marginson (2016)": "Marginson, 2016",
     "Marginson (2022a)": "Marginson, 2022a",
     "Marginson (2022b)": "Marginson, 2022b",
     "Marginson (2023)": "Marginson, 2023",
     "Marginson (2024)": "Marginson, 2024",
     "Marginson, 2009": "Marginson, 2009",
     "Marginson, 2014": "Marginson, 2014",
+    "Marginson, 2016": "Marginson, 2016",
     "Marginson, 2022": "Marginson, 2022a",
     "Marginson, 2022a": "Marginson, 2022a",
     "Marginson, 2022b": "Marginson, 2022b",
@@ -20184,6 +20192,8 @@
     "Puntambekar (2021)": "Puntambekar, 2021",
     "Puntambekar, 2003": "Puntambekar, 2003",
     "Puntambekar, 2021": "Puntambekar, 2021",
+    "Punyasavatsut (2013)": "Punyasavatsut, 2013",
+    "Punyasavatsut, 2013": "Punyasavatsut, 2013",
     "Puranik (2017)": "Puranik, 2017",
     "Puranik (2018)": "Puranik, 2018",
     "Puranik, 2017": "Puranik, 2017",
@@ -22823,6 +22833,8 @@
     "Shoval, 2018": "Shoval, 2018",
     "Shrout & Fleiss (1979)": "Shrout & Fleiss, 1979",
     "Shrout & Fleiss, 1979": "Shrout & Fleiss, 1979",
+    "Shukla & Mishra (2024)": "Shukla & Mishra, 2024",
+    "Shukla & Mishra, 2024": "Shukla & Mishra, 2024",
     "Shukry-Balaa (2018)": "Shukry-Balaa, 2018",
     "Shukry-Balaa, 2018": "Shukry-Balaa, 2018",
     "Shulman (1986)": "Shulman, 1986",
@@ -27163,6 +27175,8 @@
     "Xie, 2018": "Xie, 2018",
     "Xie, 2019": "Xie, 2019",
     "Xie, 2020": "Xie, 2020",
+    "Ximenes (2024)": "Ximenes, 2024",
+    "Ximenes, 2024": "Ximenes, 2024",
     "Xin & Jitendra (1999)": "Xin & Jitendra, 1999",
     "Xin & Jitendra, 1999": "Xin & Jitendra, 1999",
     "Xin (1999)": "Xin, 1999",
@@ -27681,8 +27695,10 @@
     "Zhao Tingyang, 2006": "Zhao Tingyang, 2006",
     "Zhao et al. (2005)": "Zhao et al., 2005",
     "Zhao et al. (2020)": "Zhao et al., 2020",
+    "Zhao et al. (2023)": "Zhao et al., 2023",
     "Zhao et al., 2005": "Zhao et al., 2005",
     "Zhao et al., 2020": "Zhao et al., 2020",
+    "Zhao et al., 2023": "Zhao et al., 2023",
     "Zhao, 2003": "Zhao, 2003a",
     "Zhao, 2003a": "Zhao, 2003b",
     "Zhao, 2003b": "Zhao, 2003b",
@@ -33728,7 +33744,7 @@
         "Altbach et al., 2019",
         "Altbach et al. (2019)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.1163/9789004406155",
       "identity_keys": [
         "Altbach et al., 2019"
       ],
@@ -33736,7 +33752,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "Trends in Global Higher Education: A Tracking an Academic Revolution"
     },
     "Altbach, 1971": {
       "aliases": [
@@ -44827,7 +44843,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "The Coming of Post-Industrial Society"
     },
     "Bellah, 1967": {
       "aliases": [
@@ -47083,6 +47099,21 @@
         "wiki/concepts/research-methodology/Theoretical Standpoint.md"
       ],
       "title": ""
+    },
+    "Bhatta et al., 2024": {
+      "aliases": [
+        "Bhatta et al., 2024",
+        "Bhatta et al. (2024)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bhatta et al., 2024"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+      ],
+      "title": "Reimagining Higher Education in Cambodia: Modernizing Governance for Improved Access and Relevance"
     },
     "Bhattacharya, 1998": {
       "aliases": [
@@ -51288,7 +51319,7 @@
         "Bourdieu & Passeron, 1990",
         "Bourdieu & Passeron (1990)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.4135/9781446218310",
       "identity_keys": [
         "Bourdieu & Passeron, 1990"
       ],
@@ -51296,7 +51327,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "Reproduction in Education, Society and Culture"
     },
     "Bourdieu & Wacquant, 1992": {
       "aliases": [
@@ -52772,7 +52803,7 @@
         "Breen & Jonsson, 2005",
         "Breen & Jonsson (2005)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.1146/annurev.soc.31.041304.122232",
       "identity_keys": [
         "Breen & Jonsson, 2005"
       ],
@@ -52780,7 +52811,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "Inequality of Opportunity in Comparative Perspective: Recent Research on Educational Attainment and Social Mobility"
     },
     "Brehm, 2023": {
       "aliases": [
@@ -53024,7 +53055,7 @@
         "Brewis, 2019",
         "Brewis (2019)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.1080/03057925.2018.1425132",
       "identity_keys": [
         "Brewis, 2019"
       ],
@@ -53032,7 +53063,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "Fair Access to Higher Education and Discourses of Development: A Policy Analysis from Indonesia"
     },
     "Brian Holmes, 1965": {
       "aliases": [
@@ -55163,7 +55194,7 @@
         "Buchmann & Hannum, 2001",
         "Buchmann & Hannum (2001)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.1146/annurev.soc.27.1.77",
       "identity_keys": [
         "Buchmann & Hannum, 2001"
       ],
@@ -55171,7 +55202,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "Education and Stratification in Developing Countries: A Review of Theories and Research"
     },
     "Buchsbauma et al., 2011": {
       "aliases": [
@@ -55238,7 +55269,7 @@
         "Buckner & Abdelaziz, 2023",
         "Buckner & Abdelaziz (2023)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.3102/0013189X231194307",
       "identity_keys": [
         "Buckner & Abdelaziz, 2023"
       ],
@@ -55246,7 +55277,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "Wealth-Based Inequalities in Higher Education Attendance: A Global Snapshot"
     },
     "Budd L. Hall, 1996": {
       "aliases": [
@@ -56557,7 +56588,7 @@
         "Byun et al., 2012",
         "Byun et al. (2012)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.3102/0002831211416344",
       "identity_keys": [
         "Byun et al., 2012"
       ],
@@ -56565,7 +56596,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "Rural-nonrural disparities in postsecondary educational attainment revisited"
     },
     "Bächle, 2016": {
       "aliases": [
@@ -59628,7 +59659,7 @@
         "Carpentier & Unterhalter, 2011",
         "Carpentier & Unterhalter (2011)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.4337/9780857936233.00018",
       "identity_keys": [
         "Carpentier & Unterhalter, 2011"
       ],
@@ -59636,7 +59667,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "Globalization, Higher Education and Inequalities: Problems and Prospects"
     },
     "Carr & Kemmis, 1986": {
       "aliases": [
@@ -67064,7 +67095,7 @@
         "Collins, 2019",
         "Collins (2019)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.7312/coll19234",
       "identity_keys": [
         "Collins, 2019"
       ],
@@ -67072,7 +67103,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "The Credential Society: An Historical Sociology of Education and Stratification"
     },
     "Collis & Margaryan, 2004": {
       "aliases": [
@@ -69555,7 +69586,7 @@
         "Crenshaw, 1989",
         "Crenshaw (1989)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.4324/9780429500480-5",
       "identity_keys": [
         "Crenshaw, 1989"
       ],
@@ -69563,7 +69594,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics"
     },
     "Crenshaw, 1997": {
       "aliases": [
@@ -69947,7 +69978,7 @@
         "Crocco, 2018",
         "Crocco (2018)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.1007/978-981-10-7857-6_9",
       "identity_keys": [
         "Crocco, 2018"
       ],
@@ -69955,7 +69986,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "Thai Higher Education: Privatization and Massification"
     },
     "Crockett, 2017": {
       "aliases": [
@@ -75628,7 +75659,7 @@
         "DiPrete & Grusky, 1990",
         "DiPrete & Grusky (1990)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.2307/271090",
       "identity_keys": [
         "DiPrete & Grusky, 1990"
       ],
@@ -75636,7 +75667,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "The Multilevel Analysis of Trends with Repeated Cross-Sectional Data"
     },
     "Diah et al., 2022": {
       "aliases": [
@@ -85820,7 +85851,7 @@
         "Fairlie & Sundstrom, 1999",
         "Fairlie & Sundstrom (1999)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.1177/001979399905200206",
       "identity_keys": [
         "Fairlie & Sundstrom, 1999"
       ],
@@ -85828,7 +85859,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "The Emergence, Persistence, and Recent Widening of the Racial Unemployment Gap"
     },
     "Fajari et al., 2023": {
       "aliases": [
@@ -91835,6 +91866,21 @@
       ],
       "title": ""
     },
+    "Friesen & Purc-Stephenson, 2016": {
+      "aliases": [
+        "Friesen & Purc-Stephenson, 2016",
+        "Friesen & Purc-Stephenson (2016)"
+      ],
+      "doi": "https://doi.org/10.47678/cjhe.v46i1.185944",
+      "identity_keys": [
+        "Friesen & Purc-Stephenson, 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+      ],
+      "title": "Should I Stay or Should I Go? Perceived Barriers to Pursuing a University Education for Persons in Rural Areas"
+    },
     "Frigotto, 1995": {
       "aliases": [
         "Frigotto, 1995",
@@ -95394,7 +95440,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "Students’ View On Free Higher Education Policy In A University In The Philippines"
     },
     "Gerring, 2005": {
       "aliases": [
@@ -109935,7 +109981,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "Encountering Internationalisation: Higher Education and Social Justice in Myanmar"
     },
     "Hesse, 1982": {
       "aliases": [
@@ -114731,7 +114777,7 @@
         "Hun, 2024",
         "Hun (2024)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.1057/s41307-024-00369-w",
       "identity_keys": [
         "Hun, 2024"
       ],
@@ -114739,7 +114785,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "Scholarship Schemes in Cambodian Higher Education: Unpacking Why Lower-Income Students Are Lagging Behind"
     },
     "Hund-Reid, 2013": {
       "aliases": [
@@ -115932,7 +115978,7 @@
         "Ilie & Rose, 2016",
         "Ilie & Rose (2016)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.1007/s10734-016-0039-3",
       "identity_keys": [
         "Ilie & Rose, 2016"
       ],
@@ -115940,14 +115986,14 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "Is Equal Access to Higher Education in South Asia and Sub-Saharan Africa Achievable by 2030? Higher Education 72: 435–55"
     },
     "Ilie et al., 2021": {
       "aliases": [
         "Ilie et al., 2021",
         "Ilie et al. (2021)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.1002/berj.3723",
       "identity_keys": [
         "Ilie et al., 2021"
       ],
@@ -115955,7 +116001,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "Understanding higher education access: Inequalities and early learning in low and lower—middle—income Countries"
     },
     "Iliff, 1994": {
       "aliases": [
@@ -117741,7 +117787,7 @@
         "James, 1991",
         "James (1991)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.1007/BF00137073",
       "identity_keys": [
         "James, 1991"
       ],
@@ -117749,7 +117795,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "Private Higher Education: The Philippines as a Prototype"
     },
     "James, 1993": {
       "aliases": [
@@ -118863,7 +118909,7 @@
         "Jeong & Hardy, 2025",
         "Jeong & Hardy (2025)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.1080/03057925.2023.2292522",
       "identity_keys": [
         "Jeong & Hardy, 2025"
       ],
@@ -118871,7 +118917,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "Imagining Educational Futures? SDG4 Enactment for Ethnic Minorities in Laos"
     },
     "Jeong & Rim, 2018": {
       "aliases": [
@@ -126491,7 +126537,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "Cambodia"
     },
     "Kheir, 2021b": {
       "aliases": [
@@ -126506,7 +126552,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "Thailand"
     },
     "Khine, 1996": {
       "aliases": [
@@ -133316,7 +133362,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "Myanmar’s Education Reforms: A Pathway to Social Justice? London: UCL Press"
     },
     "Lam & Chan, 2008": {
       "aliases": [
@@ -140144,6 +140190,21 @@
       ],
       "title": ""
     },
+    "Liu & Ma, 2018": {
+      "aliases": [
+        "Liu & Ma, 2018",
+        "Liu & Ma (2018)"
+      ],
+      "doi": "https://doi.org/10.1007/s11516-018-0005-1",
+      "identity_keys": [
+        "Liu & Ma, 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+      ],
+      "title": "Regional Inequality of Higher Education Resources in China"
+    },
     "Liu & Pásztor, 2022": {
       "aliases": [
         "Liu & Pásztor, 2022",
@@ -142218,7 +142279,7 @@
         "Lucas, 2001",
         "Lucas (2001)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.1086/321300",
       "identity_keys": [
         "Lucas, 2001"
       ],
@@ -142228,7 +142289,7 @@
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md",
         "wiki/concepts/sociology-of-education/Credential Inflation.md"
       ],
-      "title": ""
+      "title": "Effectively Maintained Inequality: Education Transitions, Track Mobility, and Social Background Effects"
     },
     "Lucas, 2006": {
       "aliases": [
@@ -143793,7 +143854,7 @@
         "Maber, 2014",
         "Maber (2014)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.1080/13552074.2014.889340",
       "identity_keys": [
         "Maber, 2014"
       ],
@@ -143801,7 +143862,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "(In)Equality and Action: The Role of Women’s Training Initiatives in Promoting Women’s Leadership Opportunities in Myanmar"
     },
     "Mac Iver, 2017": {
       "aliases": [
@@ -146043,6 +146104,21 @@
         "wiki/theories/political-economy-geopolitics/Power-Geometries.md"
       ],
       "title": ""
+    },
+    "Marginson, 2016": {
+      "aliases": [
+        "Marginson, 2016",
+        "Marginson (2016)"
+      ],
+      "doi": "https://doi.org/10.1007/978-3-319-21512-9_2",
+      "identity_keys": [
+        "Marginson, 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+      ],
+      "title": "Global Stratification in Higher Education"
     },
     "Marginson, 2022a": {
       "aliases": [
@@ -149366,7 +149442,7 @@
         "McCowan, 2007",
         "McCowan (2007)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.1007/s10734-005-0097-4",
       "identity_keys": [
         "McCowan, 2007"
       ],
@@ -149374,7 +149450,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "Expansion without Equity: An Analysis of Current Policy on Access to Higher Education in Brazil"
     },
     "McCoy et al., 2017": {
       "aliases": [
@@ -168816,7 +168892,7 @@
         "Parsons, 1964",
         "Parsons (1964)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.2307/2091479",
       "identity_keys": [
         "Parsons, 1964"
       ],
@@ -168824,7 +168900,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "Evolutionary Universals in Society"
     },
     "Parsons, 1991": {
       "aliases": [
@@ -169373,7 +169449,7 @@
         "Patrinos, 2021",
         "Patrinos (2021)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.4324/9780429293467",
       "identity_keys": [
         "Patrinos, 2021"
       ],
@@ -169381,7 +169457,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "The Changing Pattern of Returns to Education"
     },
     "Patti Lather, 1991": {
       "aliases": [
@@ -176059,6 +176135,21 @@
       ],
       "title": ""
     },
+    "Punyasavatsut, 2013": {
+      "aliases": [
+        "Punyasavatsut, 2013",
+        "Punyasavatsut (2013)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Punyasavatsut, 2013"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+      ],
+      "title": "Thailand: Issues in Education"
+    },
     "Puranik, 2017": {
       "aliases": [
         "Puranik, 2017",
@@ -177315,7 +177406,7 @@
         "Raftery & Hout, 1993",
         "Raftery & Hout (1993)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.2307/2112784",
       "identity_keys": [
         "Raftery & Hout, 1993"
       ],
@@ -177323,7 +177414,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "Maximally Maintained Inequality: Expansion, Reform, and Opportunity in Irish Education, 1921–1975"
     },
     "Ragin, 2000": {
       "aliases": [
@@ -183884,7 +183975,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "The Early College Challenge: Navigating Disadvantaged Students’ Transition to College"
     },
     "Rosenbaum & Rubin, 1983": {
       "aliases": [
@@ -185973,7 +186064,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "The DHS Wealth Index"
     },
     "Rutt et al., 2014": {
       "aliases": [
@@ -187067,7 +187158,7 @@
         "Saguin, 2022",
         "Saguin (2022)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.1016/j.chieco.2022.101761",
       "identity_keys": [
         "Saguin, 2022"
       ],
@@ -187075,7 +187166,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "Like Father, like Son? Parental Input, Access to Higher Education, and Social Mobility in China"
     },
     "Sahin & Bae, 2020": {
       "aliases": [
@@ -187580,7 +187671,7 @@
         "Salmi, 2023",
         "Salmi (2023)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.1016/j.worlddev.2018.04.015",
       "identity_keys": [
         "Salmi, 2023"
       ],
@@ -187588,7 +187679,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "Equity and Inclusion in Higher Education"
     },
     "Salminen, 2015": {
       "aliases": [
@@ -194424,7 +194515,7 @@
         "Shavit & Blossfeld, 1994",
         "Shavit & Blossfeld (1994)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.2307/3121687",
       "identity_keys": [
         "Shavit & Blossfeld, 1994"
       ],
@@ -194432,7 +194523,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "Persistent Inequality: Changing Educational Attainment in Thirteen Countries"
     },
     "Shaw & Thomas, 1978": {
       "aliases": [
@@ -195365,6 +195456,21 @@
       ],
       "title": ""
     },
+    "Shukla & Mishra, 2024": {
+      "aliases": [
+        "Shukla & Mishra, 2024",
+        "Shukla & Mishra (2024)"
+      ],
+      "doi": "https://doi.org/10.1177/00490857231221206",
+      "identity_keys": [
+        "Shukla & Mishra, 2024"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+      ],
+      "title": "Reading Progress in Attainment of Higher Education Goals in India: Features and Characteristics"
+    },
     "Shukry-Balaa, 2018": {
       "aliases": [
         "Shukry-Balaa, 2018",
@@ -196046,7 +196152,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "The Higher Education in Lao PDR and Roles of International Cooperation for Its University Development—National University of Laos"
     },
     "Sikes, 2006": {
       "aliases": [
@@ -206540,7 +206646,7 @@
         "Sánchez & Singh, 2018",
         "Sánchez & Singh (2018)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.1016/j.worlddev.2018.04.015",
       "identity_keys": [
         "Sánchez & Singh, 2018"
       ],
@@ -206548,7 +206654,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "Accessing Higher Education in Developing Countries: Panel Data Analysis from India, Peru, and Vietnam"
     },
     "Sánchez-Meca et al., 2003": {
       "aliases": [
@@ -208545,7 +208651,7 @@
         "Tentshol et al., 2019",
         "Tentshol et al. (2019)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.5539/ass.v15n7p49",
       "identity_keys": [
         "Tentshol et al., 2019"
       ],
@@ -208553,7 +208659,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "Determinants of University Dropout: A Case of Thailand"
     },
     "Teo et al., 2013": {
       "aliases": [
@@ -213244,7 +213350,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "Unintended Consequences of Free Education in Public Colleges and Universities in the Philippines 1"
     },
     "Tullock, 2005": {
       "aliases": [
@@ -225925,7 +226031,7 @@
         "Wu & Hawkins, 2018",
         "Wu & Hawkins (2018)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.1177/27526461221140570",
       "identity_keys": [
         "Wu & Hawkins, 2018"
       ],
@@ -225933,7 +226039,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
-      "title": ""
+      "title": "Massification of Higher Education in Asia: Consequences, Policy Responses and Changing Governance"
     },
     "Wu & Jessop, 2018": {
       "aliases": [
@@ -226595,6 +226701,21 @@
         "wiki/persons/china/Chen Xie.md"
       ],
       "title": ""
+    },
+    "Ximenes, 2024": {
+      "aliases": [
+        "Ximenes, 2024",
+        "Ximenes (2024)"
+      ],
+      "doi": "https://doi.org/10.1007/978-981-13-0248-0",
+      "identity_keys": [
+        "Ximenes, 2024"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+      ],
+      "title": "Higher Education in Timor-Leste"
     },
     "Xin & Jitendra, 1999": {
       "aliases": [
@@ -230186,6 +230307,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "The effectiveness of virtual reality-based technology on anatomy teaching: A meta-analysis of randomized controlled studies"
+    },
+    "Zhao et al., 2023": {
+      "aliases": [
+        "Zhao et al., 2023",
+        "Zhao et al. (2023)"
+      ],
+      "doi": "https://doi.org/10.1093/geronb/gbad193",
+      "identity_keys": [
+        "Zhao et al., 2023"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+      ],
+      "title": "A Slippery Slope: Early Learning and Equity in Rural India"
     },
     "Zhao, 2003a": {
       "aliases": [

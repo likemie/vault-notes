@@ -63,8 +63,8 @@ updated: 2026-11-19
 ---
 
 > [!feature] 核心要素
-> - **和乐福祉与全人平衡（Harmonious Wellbeing & Holistic Education）** 主张统筹学术研究与非学术身心修养，强调维护全人健康，抵制资本积累逻辑对学生精神与躯体的工具化榨取。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 10–11)]]
-> - **生态永续与生存伦理（Sustainability & Ecological Ethics）** 将可持续生存视作达成心灵和平与生活幸福的物质与伦理前设，强调教育活动顺应自然生态承载规律。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 10–11)]]
+> - **和乐福祉与全人平衡（Harmonious Wellbeing & Holistic Education）** 主张统筹学术研究与非学术身心修养，强调维护全人健康，抵制资本积累逻辑对学生精神与躯体的工具化榨取。
+> - **生态永续与生存伦理（Sustainability & Ecological Ethics）** 将可持续生存视作达成心灵和平与生活幸福的物质与伦理前设，强调教育活动顺应自然生态承载规律。
 > - **本土知识生产自立（Indigenous Knowledge Production at Home）** 主张知识生产议程必须扎根在地社群，以本土优先事项、实践经验与民众期盼为核心，阻断对西方学术体系的单向智力依附。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 10–11)]]
 
 > [!logic-map]- 要素关系
@@ -107,7 +107,7 @@ updated: 2026-11-19
 
 > [!dev-timeline] 概念演变
 > - **传统起源 — 马来群岛传统宇宙观** 奠定兼顾社会安定、个体幸福与自然环境平衡的本土生命哲学基础。
-> - **2018–2023 — 可持续发展与高教理论化** 马来西亚理科大学等机构学者系统将 Sejahtera 提炼为契合联合国可持续发展目标的原住民可持续发展范式。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 10–11)]]
+> - **2018–2023 — 可持续发展与高教理论化** 马来西亚理科大学等机构学者系统将 Sejahtera 提炼为契合联合国可持续发展目标的原住民可持续发展范式。
 > - **2026 — 区域高等教育去殖民化转型** 这一哲学被纳入东南亚跨国高等教育区域主义重构框架，成为重塑东盟方式、抵御新殖民主义的核心哲学支柱。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 10–11)]]
 
 ---
