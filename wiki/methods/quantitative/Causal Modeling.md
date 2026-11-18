@@ -8,9 +8,9 @@ summary: "通过结构方程等统计模型表示变量之间因果路径并同�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 29
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 31
+method_related_level: 3
+method_related_stars: "💎"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -33,8 +33,9 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Screening Off]]"
   - "[[Causal Processes]]"
-  - "[[Operationalization]]"
   - "[[Cultural Capital]]"
+  - "[[Direct Instruction]]"
+  - "[[Co-regulated Learning]]"
 related_theories:
   - "[[Potential Outcomes Framework]]"
 related_methods:
@@ -43,9 +44,9 @@ related_methods:
   - "[[Multiple Regression]]"
   - "[[Matching]]"
   - "[[Correlational Research]]"
+  - "[[Meta-regression]]"
   - "[[Covariate Adjustment]]"
   - "[[Effect Size]]"
-  - "[[Standard Error]]"
 related_persons:
   - "[[Herbert Blalock]]"
 related_arguments:
@@ -54,6 +55,7 @@ related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Brady_2023_EPR]]"
   - "[[Argument_Trautwein_2007_CEP]]"
+  - "[[Argument_Hogan_2013_ROE]]"
 confidence: medium
 status: draft
 created: 2026-05-03
@@ -69,8 +71,10 @@ updated: 2026-11-18
 > - **[[Unit of Analysis\|分析单位]]** 个体、群体或组织层面的观察数据。
 > - **输出形式** 路径系数、[[Model Fit Indices in SEM and CFA\|模型拟合指数]]、直接效应与间接效应估计、总效应分解。
 
-> [!citation-card] 关键定义
-> Its aim is to impose on an observational study a model of how nature generated the data and then from the data, to estimate the values of the parameters nature employed. [[Argument_Berk_2011_EvalRev\|(Berk, 2011, p.196)]]
+> [!citation-card] 统计建模与自然数据生成
+> 其目标是对观察性研究施加一个关于自然如何生成数据的模型，然后从数据中估计自然所使用的参数值。[[Argument_Berk_2011_EvalRev|(Berk, 2011, p. 196)]]
+>
+> *Its aim is to impose on an observational study a model of how nature generated the data and then from the data, to estimate the values of the parameters nature employed.*
 
 ---
 
@@ -93,19 +97,15 @@ updated: 2026-11-18
 
 ---
 
-### 递归与非递归模型
-
-因果建模中的因果方向可以通过两种模型结构来描述（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 66–67]]）：
-
 > [!contrast-table] 递归模型 vs 非递归模型
+> 因果建模中的因果方向可通过两种模型结构来描述（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 66–67]]）：
+>
 > | 维度 | 递归模型（Recursive） | 非递归模型（Non-Recursive） |
-> |------|---------------------|--------------------------|
-> | **因果方向** | 单向——外生变量 → 内生变量 | 一个或多个方向——因果可以双向或多向流动 |
-> | **变量关系** | 变量角色固定：外生或内生 | 变量可以同时是外生和内生——取决于因果链中的位置 |
-> | **复杂性** | 可能过度简化因果方向 | 更能捕捉因果网络——原因集群以多方向共同作用 |
-> | **典型应用** | 简单因果链 | 许多结构方程模型 |
-
-许多结构方程模型是非递归的，因为它们捕捉了变量之间更复杂的双向或多向因果依赖关系。外生变量的值在模型外部确定，内生变量的值由模型内的其他变量所解释。
+> |---|---|---|
+> | **因果方向** | 单向：外生变量 $\rightarrow$ 内生变量 | 双向或反馈回路：因果可多向流动 |
+> | **变量角色** | 变量角色固定为外生或内生 | 变量可同时具有外生与内生属性 |
+> | **复杂程度** | 简化因果链条 | 完整表征网状多[[Dependent Variable\|因变量]]集群相互作用 |
+> | **典型应用** | 简单路径分析 | 复杂结构方程模型（SEM） |
 
 ---
 
@@ -168,28 +168,19 @@ updated: 2026-11-18
 
 ---
 
-> [!frames-ref] 相关理论
-> - [[Potential Outcomes Framework]] — 为评估因果建模的因果主张提供了替代性概念框架，强调因果效应的定义独立于估计模型
-
-> [!ref-table] 相关概念
-> | 概念 | 关系 | 说明 |
-> |------|------|------|
-> | [[Causality]] | 核心对象 | 因果性是因果建模所[[Operationalization\|操作化]]的核心概念，时间顺序是构建因果模型的基本前提 |
-> | [[Exogenous and Endogenous Variables]] | 结构基础 | 外生和内生[[Variable\|变量]]的区分是因果模型结构的基础，递归与非递归模型的选择决定了因果方向的设定 |
-> | [[Variable]] | [[Unit of Analysis\|分析单位]] | 因果模型中的基本分析单位，包括[[Independent Variable\|自变量]]、[[Dependent Variable\|因变量]]、中介变量和调节变量 |
-> | [[Screening Off]] | 辅助工具 | Pearl 的图形方法可用于识别因果模型中应被筛选掉的因素（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]） |
-
-> [!ref-table] 相关方法
-> | 方法 | 关系 | 说明 |
-> |------|------|------|
-> | [[Correlational Research]] | 数据来源 | 因果建模通常在此类数据中估计因果路径，推论风险直接相关 |
-> | [[Matching]] | 替代策略 | [[Argument_Berk_2011_EvalRev\|Berk (2011)]] 推荐的替代方法，以协变量平衡降低混杂风险 |
-> | [[Covariate Adjustment]] | 配套技术 | 通过纳入协变量调整效应估计，变量选择影响[[Effect Size\|效应量]]与显著性 |
-> | [[Multiple Regression]] | 基本构件 | 估计单个路径系数；[[Standard Error\|SEM]] 扩展了多元回归以同时处理多方程系统 |
-> | [[Recommendations for Practice]] | 风险关联 | [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] 关注建模语汇推动越界实践建议的风险 |
+> [!entry-map] 相关理论与方法
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Potential Outcomes Framework]] | 理论 | 审视因果推断基础的对立理论框架，强调因果效应定义独立于统计估计模型。 |
+> | [[Multiple Regression]] | 前置方法 | 基础建模构件，因果建模将多[[Meta-regression\|元回归]]拓展至包含潜在变量与联立方程的复杂网络。 |
+> | [[Correlational Research]] | 数据来源 | 因果建模通常基于相关性横截面或面板观察数据估计因果路径。 |
+> | [[Matching]] | 替代方法 | 观测研究中降低混杂偏误的非参数替代策略，更受实证诊断约束。 |
+> | [[Model Fit Indices in SEM and CFA]] | 检验方法 | 提供 CFI、RMSEA 与 SRMR 等模型整体拟合优度与参数诊断准则。 |
+> | [[Covariate Adjustment]] | 辅助技术 | 纳入协变量控制以调整因果路径系数的[[Effect Size\|效应量]]与显著性。 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] — 在 Mplus 中使用复合抽样校正（Type=Complex）构建潜[[Variable\|变量]]结构方程模型，检验了科学知识确定性信念在中介认知能力、家庭[[Cultural Capital\|文化资本]]与高中毕业成绩之间的因果路径，并估计了跨期潜变量回归。
-> - [[Argument_Hogan_2013_ROE|Hogan et al. (2013)]] — 运用结构方程模型（SEM）整合潜变量测量与结构路径，实证检验新加坡中学课堂中传统教学、直接教学、理解教学与共同调节学习的因果层级依赖网络。
+> - [[Argument_Hogan_2013_ROE|Hogan et al. (2013)]] — 运用结构方程模型（SEM）整合潜变量测量与结构路径，实证检验新加坡中学课堂中传统教学、[[Direct Instruction|直接教学]]、理解教学与[[Co-regulated Learning|共同调节学习]]的因果层级依赖网络。

@@ -7,13 +7,17 @@ summary: "一种用于检验观测变量（如问卷题项）与潜在结构（�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 21
+method_related_count: 27
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
-tags: []
+tags:
+  - method/quantitative
+  - statistics/cfa
+  - statistics/sem
+  - theme/scale-development
 related_concepts:
   - "[[Variable]]"
   - "[[Construct Validity]]"
@@ -22,6 +26,9 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Epistemological Beliefs]]"
   - "[[Convergent and Discriminant Validity]]"
+  - "[[Direct Instruction]]"
+  - "[[Teaching for Understanding]]"
+  - "[[Co-regulated Learning]]"
 related_theories: []
 related_methods:
   - "[[Exploratory Factor Analysis]]"
@@ -34,6 +41,8 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Confidence Interval]]"
   - "[[Standard Error]]"
+  - "[[Composite Reliability]]"
+  - "[[Internal Consistency]]"
   - "[[Average Variance Extracted]]"
 related_instruments:
   - "[[Epistemic and Ontological Cognition Questionnaire]]"
@@ -42,8 +51,9 @@ related_facts: []
 related_arguments:
   - "[[Argument_Greene_2010_JEP]]"
   - "[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO]]"
-confidence: medium
-status: draft
+  - "[[Argument_Hogan_2013_ROE]]"
+confidence: high
+status: active
 created: 2026-08-15
 updated: 2026-11-18
 ---
@@ -58,6 +68,11 @@ updated: 2026-11-18
 > - **问题类型** 回答预设的测量模型是否具有良好的[[Construct Validity\|结构效度]]（[[Construct]] Validity）。
 > - **[[Unit of Analysis\|分析单位]]** 个体。
 > - **输出形式** 因子载荷估计值、模型整体拟合指数（如 $\chi^2$, [[Model Fit Indices in SEM and CFA\|RMSEA]], CFI, SRMR 等）。
+
+> [!citation-card] 验证性因子分析的核心特征
+> 验证性因子分析使研究者能够明确指定观测变量与潜在因子之间的对应关系，并通过检验协方差矩阵的契合度来确证理论测量模型。[[Argument_Greene_2010_JEP|(Greene et al., 2010, p. 1157)]]
+>
+> *Confirmatory factor analysis allows researchers to explicitly specify the relations between observed variables and underlying factors, testing whether the hypothesized measurement model fits the sample covariance structure.*
 
 ---
 
@@ -138,11 +153,23 @@ updated: 2026-11-18
 
 > [!method-limits] 方法局限
 > - **误用风险** 为了追求好的拟合指数，无视理论依据盲目释放误差协方差（ correlated errors）。
-> - **适用边界** [[Sample Size Determination\|样本量]]过小时估计不稳定；当观测指标不是连续[[Variable\|变量]]而是 Likert 等级评分时，使用传统 ML 估计可能导致[[Standard Error\|标准误]]偏误。
+> - **适用边界** [[Sample Size Determination\|样本量]]过小时估计不稳定；当观测指标属于 Likert 等级评分等离散有序[[Variable\|变量]]时，使用传统 ML 估计可能导致[[Standard Error\|标准误]]偏误。
+
+---
+
+> [!entry-map] 相关理论与方法
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Causal Modeling]] | 上位方法 | CFA 构成结构方程模型（SEM）中的测量模型部分，为结构模型提供潜变量参数。 |
+> | [[Exploratory Factor Analysis]] | 前置方法 | 探索性因子分析用于前期识别题项潜变量结构，CFA 则在独立样本中确证该结构。 |
+> | [[Model Fit Indices in SEM and CFA]] | 检验方法 | 提供评价 CFA 测量模型拟合优度的核心统计指标（CFI、TLI、RMSEA、SRMR）。 |
+> | [[Composite Reliability]] | 配套方法 | 基于 CFA 因子载荷与误差方差精确估计多指标潜变量的[[Internal Consistency\|内部一致性信度]]。 |
+> | [[Average Variance Extracted]] | 配套方法 | 与 CFA 载荷共同用于评估潜变量的聚合效度与[[Convergent and Discriminant Validity\|区分效度]]。 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] —  使用验证性因子分析（CFA）评估了《[[Epistemic and Ontological Cognition Questionnaire\|认识论与本体论认知问卷]]》（EOCQ）在数学和历史领域的维度结构及其数据拟合度。
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 以 258 名教师数据比较单因子、一阶与二阶模型，确立四因子二阶结构，并以 [[Average Variance Extracted\|AVE]] 检验[[Convergent and Discriminant Validity\|区分效度]]、以多组 CFA 检验跨性别测量等值。
-> - [[Argument_Hogan_2013_ROE|Hogan et al. (2013)]] — 使用高阶验证性因子分析确立传统教学、直接教学、理解性教学和共同调节学习四个潜在教学策略模型在中学数学与英语课堂中的多维测量效度。
+> - [[Argument_Hogan_2013_ROE|Hogan et al. (2013)]] — 使用高阶验证性因子分析确立传统教学、[[Direct Instruction|直接教学]]、[[Teaching for Understanding|理解性教学]]和[[Co-regulated Learning|共同调节学习]]四个潜在教学策略模型在中学数学与英语课堂中的多维测量效度。

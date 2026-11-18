@@ -11,7 +11,7 @@ subtype: policy
 region: "singapore"
 fact_region: "singapore"
 fact_kind: "policy"
-fact_related_count: 13
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -29,7 +29,9 @@ related_concepts:
   - "[[Bilingual Education Policy]]"
   - "[[Academic Attrition]]"
   - "[[Emergence]]"
-related_theories: []
+  - "[[Socioeconomic Status]]"
+related_theories:
+  - "[[Developmental State]]"
 related_methods: []
 related_instruments: []
 related_persons:
@@ -43,6 +45,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
   - "[[Argument_Deng_2016_CE]]"
+  - "[[Argument_Gopinathan_2007_GSE]]"
 confidence: high
 status: draft
 created: 2026-10-08
@@ -117,6 +120,9 @@ updated: 2026-11-18
 >
 > > [!axis] 工具理性与人文价值观平衡
 > > 评论家指出报告具有强烈的技术官僚与经济功能主义色彩；[[Goh Keng Swee|吴庆瑞]]与[[Lee Kuan Yew|李光耀]]则回应在资源匮乏的小国，教育的首要使命是确保全民族的经济生存与社会凝聚。
+>
+> > [!axis] 技能阶梯对接与早期分流固化
+> > [[Argument_Gopinathan_2007_GSE|Gopinathan (2007, pp. 57–58)]] 指出，《吴庆瑞报告》设立的特别、快捷与普通三轨分流体制，精密适应了第二次工业革命中技术密集型工业对梯级技能工人的刚性需求，大幅降低了辍学率；但这种早期分流体制将个人能力早期定型，且优势源流不成比例地被高[[Socioeconomic Status|社会经济地位]]家庭占据，构成了后续教育改革中深层阶层再生产与避险应试文化的制度源头。
 
 ---
 
@@ -128,3 +134,10 @@ updated: 2026-11-18
 > | [[Lee Kuan Yew]] | 人物 | 委托吴庆瑞进行教育审计并强力推行改革的建国总理。 |
 > | [[Speak Mandarin Campaign]] | 事实 | 依据报告调研结果直接启动的全国性语言整合运动。 |
 > | [[Thinking Schools, Learning Nation]] | 事实 | 承接效率驱动阶段后，于1997年引领新加坡转向能力驱动型教育的后续宏观政策愿景。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 系统考据《吴庆瑞报告》如何开启新加坡“效率驱动型教育”阶段，确立以小学离校考试（PSLE）和学术分流为轴心的制度基础。
+> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 从[[Developmental State|发展型国家]]产业升级与外向型工业化视角剖析《吴庆瑞报告》，阐明能力分流体制在定制阶段化技术劳动力中的功能以及固化文凭主义竞争的长期制度遗存（pp. 57–58）。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025)]] — 考据吴庆瑞特别工作组通过系统工程审计揭示家庭语言割裂、推动双语教育与讲华语运动的历史过程（pp. 195–196）。

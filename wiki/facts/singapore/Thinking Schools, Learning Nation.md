@@ -11,7 +11,7 @@ subtype: policy
 region: "singapore"
 fact_region: "singapore"
 fact_kind: "policy"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -46,6 +46,8 @@ related_facts:
 related_arguments:
   - "[[Argument_Deng_2016_CE]]"
   - "[[Argument_Gopinathan_2007_GSE]]"
+related_theories:
+  - "[[Developmental State]]"
 confidence: medium
 status: draft
 created: 2026-11-17
@@ -95,3 +97,9 @@ updated: 2026-11-18
 
 > [!debates] 政策成效与局限
 > 政策在宏观层面确立了现代教育理念与先进信息技术基础设施，使新加坡在国际评估界赢得了高度的创新美誉。但在实际课堂落地层面，受制于依然存在的高利害[[Primary School Leaving Examination|小六离校考试]]（Primary School Leaving Examination, PSLE）与严格的学术分流问责，广大一线教师普遍发展出[[Hybrid Pedagogy|混合教学法]]，在形式上整合[[Constructivist Paradigm|建构主义]]策略的同时，依然保持了对应试技巧与学科知识体系的高度控制（[[Argument_Deng_2016_CE|Deng & Gopinathan, 2016]]）。此外，大[[Class Size|班额]]教学与繁重的大纲内容迫使教师将思维训练[[Alienation|异化]]为可机械操练的套路化程序（technique-oriented view of creativity），导致微观教学法重构未能充分突破传统应试定势（[[Argument_Gopinathan_2007_GSE|Gopinathan, 2007, pp. 67–68]]）。
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 系统考据思考型学校，学习型国家（TSLN）作为新加坡由效率驱动转向能力驱动型教育的顶层愿景，分析其四大核心支柱与课程改革成效。
+> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 从全球化与[[Developmental State|发展型国家]]重构视角阐释 TSLN 的政策动因、资源投入（信息技术总蓝图、课程精简）以及受制于高利害统考的基层落地困境（pp. 60–63, 67–68）。

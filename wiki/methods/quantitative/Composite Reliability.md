@@ -11,7 +11,7 @@ summary: "在结构方程模型与验证性因子分析中评估潜变量多指�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 14
+method_related_count: 18
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -28,6 +28,9 @@ related_concepts:
   - "[[Variable]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
+  - "[[Direct Instruction]]"
+  - "[[Teaching for Understanding]]"
+  - "[[Co-regulated Learning]]"
 related_theories: []
 related_methods:
   - "[[Confirmatory Factor Analysis]]"
@@ -41,10 +44,11 @@ related_instruments:
   - "[[Research Literacy Scale for Teachers]]"
 related_arguments:
   - "[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO]]"
+  - "[[Argument_Hogan_2013_ROE]]"
 confidence: high
-status: draft
+status: active
 created: 2026-08-28
-updated: 2026-10-29
+updated: 2026-11-18
 ---
 
 ---
@@ -121,12 +125,7 @@ updated: 2026-10-29
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — [[Confirmatory Factor Analysis\|CFA]] 显示量表四个维度的组合[[Reliability\|信度]]为 .75–.90，均超过 .70，[[Internal Consistency\|内部一致性]]良好。
-
----
-
-> [!entry-map] 条目关联
+> [!entry-map] 相关理论与方法
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -135,3 +134,9 @@ updated: 2026-10-29
 > | [[Average Variance Extracted]] | 配套方法 | 与 CR 共同构成衡量潜[[Variable\|变量]]效度与信度的一体化指标。 |
 > | [[Internal Consistency]] | 理论概念 | CR 是现代内部一致性信度估计的理论金标准。 |
 > | [[Research Literacy Scale for Teachers]] | 测量工具 | 运用 CR 确立四维度内部一致性的实证代表量表。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — [[Confirmatory Factor Analysis\|CFA]] 显示量表四个维度的组合[[Reliability\|信度]]为 .75–.90，均超过 .70，[[Internal Consistency\|内部一致性]]良好。
+> - [[Argument_Hogan_2013_ROE|Hogan et al. (2013)]] — 在高阶验证性因子分析中评估新加坡中三数学与英语教学策略测量模型，报告传统教学、[[Direct Instruction|直接教学]]、[[Teaching for Understanding|理解性教学]]与[[Co-regulated Learning|共同调节学习]]四个潜在维度的组合信度（.79–.90）（p. 91）。
