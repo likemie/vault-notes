@@ -14,7 +14,7 @@ subtype: policy
 region: singapore
 fact_region: "singapore"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -26,20 +26,26 @@ tags:
   - theme/primary-education
   - theme/educational-equity
 related_concepts:
+  - "[[Socioeconomic Status]]"
+  - "[[Academic Achievement]]"
+  - "[[Active Learning]]"
+  - "[[School Autonomy]]"
   - "[[Educational Meritocracy]]"
   - "[[Cultural Capital]]"
-  - "[[Socioeconomic Status]]"
-related_theories:
-  - "[[Bernstein's Theory of Pedagogic Codes]]"
+  - "[[Class Size]]"
+  - "[[Formative Assessment]]"
+related_theories: []
 related_methods:
   - "[[Critical Policy Analysis]]"
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[Teach Less, Learn More]]"
-  - "[[Thinking Schools, Learning Nation]]"
+  - "[[Ministry of Education of the People's Republic of China]]"
   - "[[Primary School Leaving Examination]]"
-  - "[[Integrated Programme]]"
+  - "[[Cram Schools]]"
+  - "[[Thinking Schools, Learning Nation]]"
+  - "[[Teach Less, Learn More]]"
+  - "[[Education for All]]"
 related_arguments:
   - "[[Argument_Lim_2013_APJE]]"
 confidence: high
@@ -51,9 +57,9 @@ updated: 2026-11-19
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2008 年由新加坡教育部（Ministry of Education, MOE）设立小学教育审查与实施委员会（Primary Education Review and Implementation, PERI），由教育部高级政务部长傅海燕（Grace Fu）担任主席；委员会于 2009 年正式发布报告并获教育部全盘采纳实施。[[Argument_Lim_2013_APJE|(Lim, 2013, pp. 6–7)]]
+> - **发布时间 / 发布主体** 2008 年由新加坡教育部（Ministry of Education, [[Ministry of Education of the People's Republic of China|MOE]]）设立小学教育审查与实施委员会（Primary Education Review and Implementation, PERI），由教育部高级政务部长傅海燕（Grace Fu）担任主席；委员会于 2009 年正式发布报告并获教育部全盘采纳实施。[[Argument_Lim_2013_APJE|(Lim, 2013, pp. 6–7)]]
 > - **适用地区 / 对象** 覆盖新加坡全岛所有公立小学、初等教育阶段学生、小学任课教师与学校管理层。[[Argument_Lim_2013_APJE|(Lim, 2013, pp. 6–8)]]
-> - **问题背景** 长期以来，新加坡初等教育深受以[[Primary School Leaving Examination|小学离校考试]]（Primary School Leaving Examination, PSLE）为代表的高利害选拔机制支配。早期应试竞争导致优势阶层家长提前购买校外影子教育与补习服务，加剧不同社会经济背景学生在学龄初期的学业成就差距与阶层隔阂，传统半日双班制亦限制了学校提供课后补救辅导的物理空间与教学时间。[[Argument_Lim_2013_APJE|(Lim, 2013, pp. 2, 7–8)]]
+> - **问题背景** 长期以来，新加坡初等教育深受以[[Primary School Leaving Examination|小学离校考试]]（Primary School Leaving Examination, PSLE）为代表的高利害选拔机制支配。早期应试竞争导致优势阶层家长提前购买校外[[Cram Schools|影子教育]]与补习服务，加剧不同[[Socioeconomic Status|社会经济背景]]学生在学龄初期的[[Academic Achievement|学业成就]]差距与阶层隔阂，传统半日双班制亦限制了学校提供课后补救辅导的物理空间与教学时间。[[Argument_Lim_2013_APJE|(Lim, 2013, pp. 2, 7–8)]]
 > - **制度位置** 该政策衔接[[Thinking Schools, Learning Nation|思考型学校，学习型国家]]（Thinking Schools, Learning Nation, TSLN）宏观愿景与[[Teach Less, Learn More|少教多学]]（Teach Less, Learn More, TLLM）微观课改，专门针对小学低幼学段设计整全育人与制度兜底机制。[[Argument_Lim_2013_APJE|(Lim, 2013, p. 7)]]
 
 ---
@@ -70,14 +76,14 @@ updated: 2026-11-19
 > > [!index-table] 政策三大支柱与具体落地规程
 > > | 支柱架构 | 重点政策方案 | 资源投入与考核标准 | 预期均等化功能 |
 > > |:---|:---|:---|:---|
-> > | **平衡知识与技能价值观** | 引入生动教学法（engaging pedagogies）；在小学一二年级推行全面学习计划（Program for Active Learning, PAL），开设体育、户外及表演与视觉艺术；落实整全评价，取消小一期中期末纸笔考试。 | 每年每校最高 17 万新元专款；一次性 9 万新元器材补贴；建立质性评价指引。 | 阻断学前抢跑应试优势，保障全体学童无论家庭背景均享有接受高品质艺体熏陶的普惠机会。 |
+> > | **平衡知识与技能价值观** | 引入生动教学法（engaging pedagogies）；在小学一二年级推行全面学习计划（Program for [[Active Learning]], PAL），开设体育、户外及表演与视觉艺术；落实整全评价，取消小一期中期末纸笔考试。 | 每年每校最高 17 万新元专款；一次性 9 万新元器材补贴；建立质性评价指引。 | 阻断学前抢跑应试优势，保障全体学童无论家庭背景均享有接受高品质艺体熏陶的普惠机会。 |
 > > | **投资高素质专业师资团队** | 全面推行全员大学学历教师招募；为在职非大学学历教师提供提升通道；扩充教育协作人员（AED）；建立专职英语语言辅导员团队。 | 教师大学学历占比向全员提升；教育协作人员规模扩增至 2,800 名；针对无学前教育经历学童开展小班浸润辅导。 | 平抑名校与邻里小学间的师资质量差距，为弱势学童提供专门课堂辅导与心理健康关怀。 |
-> > | **改善基础设施与优化时空** | 将全岛所有公立小学改建为单班全日制运营模式；校内普遍配建学生托管中心；赋予学校自主调节上放学作息弹性。 | 彻底改建 2009 年存在的 102 所半日双班制学校；为低收入工薪家庭提供课后校内看护与托管补贴。 | 释放下午校园物理空间与教师工时，为落后学童提供课后针对性补救教学，构筑校内庇护环境。 |
+> > | **改善基础设施与优化时空** | 将全岛所有公立小学改建为单班全日制运营模式；校内普遍配建学生托管中心；赋予[[School Autonomy\|学校自主]]调节上放学作息弹性。 | 彻底改建 2009 年存在的 102 所半日双班制学校；为低收入工薪家庭提供课后校内看护与托管补贴。 | 释放下午校园物理空间与教师工时，为落后学童提供课后针对性补救教学，构筑校内庇护环境。 |
 
 > [!citation-card] 初等教育的整全育人与质量提升
 > 小学教育审查与实施委员会的核心职责，在于探索学校如何强化整全学习，使学童做好应对未来的准备，在夯实基础知识技能与涵育面向生活的技能价值观之间取得更佳平衡，全面提升新加坡所有儿童的小学教育品质。[[Argument_Lim_2013_APJE|(Lim, 2013, pp. 6–7)]]
 >
-> *The PERI committee was tasked with exploring "how schools can enhance holistic learning to better prepare our pupils for the future... to strike a better balance between equipping our pupils with foundational knowledge and developing in them the skills and values that will prepare them for life"... aimed at "raising the quality of primary education for all children in Singapore".*
+> *The PERI committee was tasked with exploring "how schools can enhance holistic learning to better prepare our pupils for the future... to strike a better balance between equipping our pupils with foundational knowledge and developing in them the skills and values that will prepare them for life"... aimed at "raising the quality of primary [[Education for All|education for all]] children in Singapore".*
 
 ---
 
@@ -113,17 +119,17 @@ updated: 2026-11-19
 > | 新加坡教育部（MOE） | 行政权威与财政预算 | 维系国家治理合法性与唯才公信力 | 主导倡议 | 推进软硬件均等化投入与全人评价 |
 > | 优势阶层家长 | 经济资本与文化资本 | 确保子女在精英选拔中占据排头地位 | 策略性适应 | 采购高端艺体培优与利用直接招生机制 |
 > | 工薪阶层家长 | 劳动工时受限与社会资本匮乏 | 渴望子女获得公平社会向上流动通道 | 被动参与 | 依赖学校单班制补救辅导与校内托管 |
-> | 公立小学教师队伍 | 专业知识与日常教学自主权 | 降低班级规模并提升专业发展空间 | 积极执行 | 参加大学学位提升并协同辅导人员 |
+> | 公立小学教师队伍 | 专业知识与日常教学自主权 | 降低[[Class Size\|班级规模]]并提升专业发展空间 | 积极执行 | 参加大学学位提升并协同辅导人员 |
 > | 外部专业师资与教练 | 艺体与户外技能专长 | 获得校本课程购买订单与培训劳务 | 合作融入 | 承接全面学习计划外包艺体教学 |
 
 ---
 
 > [!indicators] 评价指标
 > - **投入指标** 单班制校舍改建率（覆盖 102 所学校）；教育协作人员编制增长至 2,800 名；小学教师全员大学化招募比例；各校每年最高 17 万新元专款。[[Argument_Lim_2013_APJE|(Lim, 2013, pp. 7–8)]]
-> - **过程指标** 小学一年级总结性考试取消落实率；形成性评价与分段测验实施频率；小学一二年级全面学习计划课程开出率。[[Argument_Lim_2013_APJE|(Lim, 2013, pp. 7, 9)]]
+> - **过程指标** 小学一年级总结性考试取消落实率；[[Formative Assessment|形成性评价]]与分段测验实施频率；小学一二年级全面学习计划课程开出率。[[Argument_Lim_2013_APJE|(Lim, 2013, pp. 7, 9)]]
 > - **成效与公平风险指标** 弱势学童学龄初期阅读技能追赶成效；不同阶层家庭在直接招生渠道（Direct School Admissions, DSA）中的录取分布均衡度。[[Argument_Lim_2013_APJE|(Lim, 2013, pp. 8, 10)]]
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Lim_2013_APJE|Lim (2013)]] — 对该政策进行批判性政策分析，评估其均等主义举措对弥合教育鸿沟的制度潜能与被中产阶层资本反向殖民的风险（pp. 1–14）。
+> - [[Argument_Lim_2013_APJE|Lim (2013)]] — 对该政策进行[[Critical Policy Analysis|批判性政策分析]]，评估其均等主义举措对弥合教育鸿沟的制度潜能与被中产阶层资本反向殖民的风险（pp. 1–14）。

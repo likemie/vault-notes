@@ -9,7 +9,7 @@ summary: "批判取向的质性教育政策研究方法与认识论范式，将�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 51
+method_related_count: 57
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#dbeafe"
@@ -70,13 +70,19 @@ related_facts:
   - "[[National Reading Panel]]"
   - "[[Reading Excellence Act]]"
   - "[[No Child Left Behind Act 2001]]"
+  - "[[Primary Education Review and Implementation]]"
+  - "[[Integrated Programme]]"
+  - "[[Independent Schools Initiative]]"
+  - "[[ASEAN]]"
   - "[[Belt and Road Initiative]]"
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Edmondson_2005_EPAA]]"
   - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Woo_2023_HEP]]"
+  - "[[Argument_Lim_2013_APJE]]"
   - "[[Argument_Gopinathan_2007_GSE]]"
+  - "[[Argument_Indrarajah_2026_NJCIE]]"
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
 confidence: high
 status: active
@@ -169,10 +175,10 @@ updated: 2026-11-19
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Lim_2013_APJE|Lim (2013)]] — 运用批判性政策分析透视新加坡小学教育审查与实施委员会（Primary Education Review and Implementation, PERI）政策文本，揭示初等教育均等化投入修辞如何掩盖精英主义分流结构与拓宽才能定义后的阶层特权再生产（pp. 1–14）。
-> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 运用批判性政策分析透视新加坡能力驱动与自主[[School Choice|择校]]课改修辞，揭示直通车计划与顶尖独立学校等去中心化举措实质服务于强[[Developmental State|发展型国家]]对高附加值全球资本的吸纳与认知精英再生产，剖析机会均等表象下的阶级优势巩固机制（pp. 60–64）。
+> - [[Argument_Lim_2013_APJE|Lim (2013)]] — 运用批判性政策分析透视新加坡[[Primary Education Review and Implementation|小学教育审查与实施委员会]]（Primary Education Review and Implementation, PERI）政策文本，揭示初等教育均等化投入修辞如何掩盖精英主义分流结构与拓宽才能定义后的阶层特权再生产（pp. 1–14）。
+> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 运用批判性政策分析透视新加坡能力驱动与自主[[School Choice|择校]]课改修辞，揭示[[Integrated Programme|直通车计划]]与顶尖[[Independent Schools Initiative|独立学校]]等去中心化举措实质服务于强[[Developmental State|发展型国家]]对高附加值全球资本的吸纳与认知精英再生产，剖析机会均等表象下的阶级优势巩固机制（pp. 60–64）。
 > - [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] — 运用批判性政策分析系统剖析美国《[[Reading Excellence Act|卓越阅读法案]]》立法演进，揭示[[Pluralism|多元主义]]、[[Neocorporatism|法团主义]]、次政府与[[Elite Theory|精英理论]]对[[Evidence Standards|证据标准]]的法定重塑（pp. 11–14）。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 综合运用批判性政策分析、计量文本法医解构与[[Ideology Critique|意识形态批判]]，解构新西兰 [[Visible Learning]] 品牌的政商旋转门资本化、[[Neo-Taylorism|新泰勒主义]]教师监控及[[Global Education Reform Movement|全球教育改革运动]]紧缩议程（pp. 23–36）。
-> - [[Argument_Indrarajah_2026_NJCIE|Indrarajah (2026)]] — 运用批判性政策分析透视东盟高教政策文本与地缘权力结构，解构欧美与东亚新殖民性对区域一体化的隐性渗透，提出基于本土哲学的去殖民区域主义进路（pp. 3–4）。
+> - [[Argument_Indrarajah_2026_NJCIE|Indrarajah (2026)]] — 运用批判性政策分析透视[[ASEAN|东盟]]高教政策文本与地缘权力结构，解构欧美与东亚新殖民性对区域一体化的隐性渗透，提出基于本土哲学的去殖民区域主义进路（pp. 3–4）。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 结合费尔克拉夫三维[[Discourse Analysis|话语分析]]、政策三维视角（驱动力、工具、价值）与巴斯卡[[Explanatory Critique|解释性批判]]，系统解构中国“[[Belt and Road Initiative|一带一路]]”跨国高等教育政策的文本框架、地缘[[Hard Power|硬实力]]配套与国家复兴[[Grand Theory|宏大叙事]]（pp. 677–699）。
 > - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 运用教育政策社会学批判分析视角，解构 [[PISA]] 测评框架背后的新自由主义意识形态预设及其作为跨国治理工具的运作逻辑（pp. 418–419）。

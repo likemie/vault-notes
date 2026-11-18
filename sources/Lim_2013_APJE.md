@@ -1,6 +1,7 @@
 ---
 citation: "Lim, L. (2013). Meritocracy, elitism, and egalitarianism: A preliminary and provisional assessment of Singapore’s primary education review. Asia Pacific Journal of Education, 33(1), 1–14. https://doi.org/10.1080/02188791.2012.711294"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Lim_2013_APJE]]"
 processed_date: 2026-11-19
 ---
 

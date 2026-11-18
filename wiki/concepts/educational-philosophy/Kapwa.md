@@ -8,10 +8,10 @@ aliases:
 summary: "源自菲律宾本土心理学与原住民传统的互依关系哲学，核心指涉将他人视为与自我休戚与共的“共享内在自我”；在教育与区域治理中，主张通过扁平化、开放协商与共识构建对话化解新殖民等级制与内化自卑，确立包容互惠的社群合作伦理"
 type: concept
 domain: "educational-philosophy"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 18
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 concept_field: "educational-philosophy"
 tags:
   - concept/educational-philosophy
@@ -19,13 +19,31 @@ tags:
   - theme/decoloniality
   - region/southeast-asia
   - theme/relational-ontology
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Construct]]"
+  - "[[Critical Pedagogy]]"
+  - "[[Epistemology]]"
+  - "[[Ontology]]"
+  - "[[Paradigm]]"
+  - "[[Heterogeneity]]"
+  - "[[Ubuntu]]"
+  - "[[Sejahtera]]"
+  - "[[Knowledge Production]]"
+  - "[[Dialogue in Education]]"
+  - "[[Operationalization]]"
+  - "[[ASEAN Way]]"
+  - "[[Buen Vivir]]"
+  - "[[Epistemic Coloniality]]"
+  - "[[Geopolitics of Knowledge]]"
+related_theories:
+  - "[[Decolonial Geopolitics of Knowledge]]"
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[ASEAN]]"
+related_arguments:
+  - "[[Argument_Indrarajah_2026_NJCIE]]"
 confidence: medium
 status: draft
 created: 2026-11-19
@@ -35,21 +53,21 @@ updated: 2026-11-19
 ---
 
 > [!def] Kapwa
-> **Kapwa**（他加禄语，直译为伙伴、同胞或休戚与共者；核心意涵为“共享内在自我”）是菲律宾本土心理学（*Sikolohiyang Pilipino*）与南岛语族原住民文化传统的基石性哲学构念。该构念将自我界定为根植于人际关系网络之中的互依存在，认为他者是自我的延伸而非彼此孤立的客体。在批判教育学与去殖民区域治理视野中，Kapwa 主张通过平权开放的对话打破西方认识论自上而下的等级依附，以包容性共识协商促进弱势社群的自主赋权与跨群体团结。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 11–12)]]
+> **Kapwa**（他加禄语，直译为伙伴、同胞或休戚与共者；核心意涵为“共享内在自我”）是菲律宾本土心理学（*Sikolohiyang Pilipino*）与南岛语族原住民文化传统的基石性哲学[[Construct|构念]]。该构念将自我界定为根植于人际关系网络之中的互依存在，认为他者是自我的延伸而非彼此孤立的客体。在[[Critical Pedagogy|批判教育学]]与去殖民区域治理视野中，Kapwa 主张通过平权开放的对话打破西方[[Epistemology|认识论]]自上而下的等级依附，以包容性共识协商促进弱势社群的自主赋权与跨群体团结。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 11–12)]]
 
 > [!concept-lens|notitle] 概念透镜
-> - **含义** 指向个体在深层互惠与心理共鸣中体认到与他者休戚与共、共享人性的关系本体论状态。
-> - **用途** 帮助研究者透视殖民主义在被殖民者心理结构中造成的内化劣等感与原子化孤立，为倡导扁平化协商、消除知识等级制提供南方伦理范式。
-> - **边界** 区别于压制个体异质性的集体主义顺从要求；该构念始终强调在接纳多元差异与平等发声的前提下达成有机共识。
+> - **含义** 指向个体在深层互惠与心理共鸣中体认到与他者休戚与共、共享人性的关系[[Ontology|本体论]]状态。
+> - **用途** 帮助研究者透视殖民主义在被殖民者心理结构中造成的内化劣等感与原子化孤立，为倡导扁平化协商、消除知识等级制提供南方伦理[[Paradigm|范式]]。
+> - **边界** 区别于压制个体[[Heterogeneity|异质性]]的集体主义顺从要求；该构念始终强调在接纳多元差异与平等发声的前提下达成有机共识。
 
 > [!citation-card|notitle] 关键表述：共享自我认同与去殖民共识构建
-> 菲律宾原住民理念 Kapwa 展现出将他人视为共享认同的关怀传统。该理念推崇包容多元观点的价值，倡导展开开放且注重达成共识的深度对话。这种对话机制有效拉平了新殖民主义强加的知识等级体系，赋予每一个人平等的阐述空间。在教育领域，Kapwa 哲学对于破除青年学生内化的新殖民自卑感、培育自主发声与自我实现的行动能力具有关键效能。践行这一关系哲学将社群成员的共享认同置于核心，致力于跨越差异构建坚固纽带，这与东盟注重协商一致与互信合作的组织原则高度契合。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 11–12)]]
+> 菲律宾原住民理念 Kapwa 展现出将他人视为共享认同的关怀传统。该理念推崇包容多元观点的价值，倡导展开开放且注重达成共识的深度对话。这种对话机制有效拉平了新殖民主义强加的知识等级体系，赋予每一个人平等的阐述空间。在教育领域，Kapwa 哲学对于破除青年学生内化的新殖民自卑感、培育自主发声与自我实现的行动能力具有关键效能。践行这一关系哲学将社群成员的共享认同置于核心，致力于跨越差异构建坚固纽带，这与[[ASEAN|东盟]]注重协商一致与互信合作的组织原则高度契合。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 11–12)]]
 >
 > *The recognition of one’s shared identity with others is manifested in the Filipino indigenous concept of kapwa... Dayson et al. (2024) discuss the importance of kapwa as a value that promotes acceptance of diverse perspectives through the encouragement of open, consensus-building conversations. This flattens established neocolonial understandings of knowledge hierarchies and instead allows for every person to articulate their valuable perspective on the topic discussed. A kapwa educational philosophy is essential in dismantling the existing internalized neocoloniality students in the region are already exposed to and strive to build their confidence and capacity in self-advocacy and self-actualization...*
 
 > [!boundary]- 概念边界
 > - 不等于 [[Ubuntu]] 非洲 Ubuntu 哲学以班图社会亲族互惠与公共道德秩序为核心组织架构；Kapwa 在菲律宾语境中更加侧重人际相遇时的内在感知共鸣与打破新殖民心理依附。
-> - 不等于 [[Sejahtera]] 马来群岛 Sejahtera 聚焦身心健康、生态共生与在地知识生产的整体福祉；Kapwa 更加聚焦人际交往平权、接纳异质差异与共识协商对话。
+> - 不等于 [[Sejahtera]] 马来群岛 Sejahtera 聚焦身心健康、生态共生与在地[[Knowledge Production|知识生产]]的整体福祉；Kapwa 更加聚焦人际交往平权、接纳异质差异与共识协商对话。
 
 ---
 
@@ -100,15 +118,15 @@ updated: 2026-11-19
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **平权心理重塑** | 消除内化殖民自卑与建立对等知识发声空间 | 批判教学法、原住民心理赋能与课堂对话 | [[Argument_Indrarajah_2026_NJCIE\|Indrarajah (2026)]]; Dayson et al. (2024) |
+> | **平权心理重塑** | 消除内化殖民自卑与建立对等知识发声空间 | 批判教学法、原住民心理赋能与[[Dialogue in Education\|课堂对话]] | [[Argument_Indrarajah_2026_NJCIE\|Indrarajah (2026)]]; Dayson et al. (2024) |
 > | **互惠资源再平衡** | 以共享自我伦理引导跨区域优势高校帮扶弱势伙伴 | 高等教育区域治理、多边教育协作与政策分析 | [[Argument_Indrarajah_2026_NJCIE\|Indrarajah (2026)]]; Rungduin et al. (2014) |
 
 ---
 
 > [!dev-timeline] 概念演变
 > - **1970年代 — 菲律宾本土心理学确立** 恩里克兹（Virgilio Enriquez）等学者系统阐发 Kapwa，标志着菲律宾社会科学摆脱西方个体主义心理学范式殖民的开端。
-> - **2014–2024 — 价值观教育与跨文化深化** 菲律宾教育学者将 Kapwa 操作化为品德教育与越轨调解的核心伦理指标，推动其在学校人际交往中的实践应用。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 11–12)]]
-> - **2026 — 区域高等教育去殖民重构** 该构念跨出单一国别范畴，被阐发为重构东盟方式协商机制与推进高教资源均等化再分配的区域性哲学工具。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 11–13)]]
+> - **2014–2024 — 价值观教育与跨文化深化** 菲律宾教育学者将 Kapwa [[Operationalization|操作化]]为品德教育与越轨调解的核心伦理指标，推动其在学校人际交往中的实践应用。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 11–12)]]
+> - **2026 — 区域高等教育去殖民重构** 该构念跨出单一国别范畴，被阐发为重构[[ASEAN Way|东盟方式]]协商机制与推进高教资源均等化再分配的区域性哲学工具。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 11–13)]]
 
 ---
 
@@ -121,7 +139,7 @@ updated: 2026-11-19
 > | [[Sejahtera]] | Concept | 同为东南亚本土哲学支柱，协同构建抗击新自由主义高教治理的多元图景。 |
 > | [[Epistemic Coloniality]] | Concept | Kapwa 所致力消除的内化心理依附与学术等级合法性体系。 |
 > | [[ASEAN Way]] | Concept | 为提升东盟方式的实质合作深度、推动成员国跨梯队资源分享提供价值指引。 |
-> | [[Decolonial Geopolitics of Knowledge]] | Theory | Kapwa 构成南方知识地缘政治中重估原住民精神价值与交往理性的生动范例。 |
+> | [[Decolonial Geopolitics of Knowledge]] | Theory | Kapwa 构成南方[[Geopolitics of Knowledge\|知识地缘政治]]中重估原住民精神价值与交往理性的生动范例。 |
 
 ---
 

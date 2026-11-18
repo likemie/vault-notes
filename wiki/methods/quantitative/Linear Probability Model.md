@@ -32,7 +32,7 @@ updated: 2026-11-19
 ---
 
 > [!def] Linear Probability Model
-> 线性概率模型（Linear Probability Model，LPM）是将二值因变量（$Y \in \{0, 1\}$）直接作为被解释变量、通过普通最小二乘法（OLS）估计参数的线性回归方法；自变量系数向量直接反映协变量变动引起的事件发生概率的边际变化。[[Argument_Phyo_2025_SocSci|(Phyo & Ilie, 2025, p. 9)]]
+> 线性概率模型（Linear Probability Model, LPM）是将二值因变量（$Y \in \{0, 1\}$）直接作为被解释变量、通过普通最小二乘法（Ordinary Least Squares, OLS）估计参数的线性回归方法；自变量系数向量直接反映协变量变动引起的事件发生概率的边际变化。[[Argument_Phyo_2025_SocSci|(Phyo & Ilie, 2025, p. 9)]]
 
 > [!method-scope] 方法范围
 > - **测量或估计对象** 估算自变量（如社会经济地位、人口学特征、干预政策）对二元教育结局（如 [[Higher Education Access|高等教育获得]]、升学决策、学业留存或辍学）发生概率的边际影响。
