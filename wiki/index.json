@@ -1816,6 +1816,17 @@
     ]
   },
   {
+    "title": "Policy Learning",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Policy Learning.md",
+    "aliases": [
+      "政策学习",
+      "教育政策学习",
+      "比较政策学习",
+      "Cross-National Policy Learning"
+    ]
+  },
+  {
     "title": "Policy Science in Comparative Education",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Policy Science in Comparative Education.md",
@@ -46971,6 +46982,40 @@
     "subtype": "event"
   },
   {
+    "title": "Centre for Research in Pedagogy and Practice",
+    "type": "fact",
+    "path": "wiki/facts/singapore/Centre for Research in Pedagogy and Practice.md",
+    "aliases": [
+      "教学与实践研究中心",
+      "CRPP"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "Curriculum Development Institute of Singapore",
+    "type": "fact",
+    "path": "wiki/facts/singapore/Curriculum Development Institute of Singapore.md",
+    "aliases": [
+      "新加坡课程发展署",
+      "CDIS",
+      "课程发展署"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "National Institute of Education",
+    "type": "fact",
+    "path": "wiki/facts/singapore/National Institute of Education.md",
+    "aliases": [
+      "新加坡国立教育学院",
+      "NIE",
+      "教师教育学院",
+      "Institute of Education",
+      "IE"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "All-Party Report on Chinese Education",
     "type": "fact",
     "path": "wiki/facts/singapore/All-Party Report on Chinese Education.md",
@@ -46991,6 +47036,17 @@
       "1979年新加坡教育部报告",
       "Report on the Ministry of Education Singapore",
       "1979 Goh Report"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Primary School Leaving Examination",
+    "type": "fact",
+    "path": "wiki/facts/singapore/Primary School Leaving Examination.md",
+    "aliases": [
+      "小六离校考试",
+      "小学离校考试",
+      "PSLE"
     ],
     "subtype": "policy"
   },

@@ -7,6 +7,10 @@ aliases:
 summary: "新加坡在多语高强度接触生态中自发形成的本土英语变体（新加坡口语英语）。其以英语词汇为基底，融合了闽南语、粤语、马来语和泰米尔语的句法与语调特征，从早期非受教育阶层的交际工具演化为年轻一代彰显本土文化认同与内部凝聚力的核心载体。"
 type: concept
 domain: "sociology-of-education"
+related_count: 8
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/sociolinguistics
   - theme/language-policy
@@ -107,7 +111,7 @@ updated: 2026-11-18
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **代际认同演进命题** | 语言接触变体从实用工具向社群情感认同与文化壁垒的跃迁 | 多语后殖民社会、移民国家接触语言学与青年亚文化 | Chua, S. K. C. |
+> | **代际认同演进命题** | 语言接触变体从实用工具向社群情感认同与文化壁垒的深化演进 | 多语后殖民社会、移民国家接触语言学与青年亚文化 | Chua, S. K. C. |
 
 ---
 

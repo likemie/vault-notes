@@ -8,7 +8,7 @@ aliases:
 summary: "由公共财政出资但引入市场化竞争与自由选择机制的公共服务配置制度。在教育领域，准市场通过券款随生、多元供给者竞争与契约化管理打破国家直接垄断；晚近批判政策分析揭示，主权国家亦通过公共采购与试验床建设，在公立系统内人为培植支撑私营资本向海外扩张的非对称国内准市场。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -43,10 +43,11 @@ related_facts:
   - "[[Finnish Government Education Export Programme]]"
 related_arguments:
   - "[[Argument_Kuortti_2025_JEdPolicy]]"
+  - "[[Argument_Gopinathan_2007_GSE]]"
 confidence: high
 status: completed
 created: 2026-11-09
-updated: 2026-11-15
+updated: 2026-11-18
 ---
 
 ---
@@ -129,6 +130,7 @@ updated: 2026-11-15
 > [!dev-timeline] 概念演变
 > - **1990 年代 — 理论奠基与福利制度重构** 英国社会学家勒格兰德与巴特利特（1993）系统提出“准市场”[[Analytic Framework|分析框架]]，为撒切尔与大西洋两岸新公共管理改革提供理论阐释，界定公有资金与市场化多元供给结合的治理机制。
 > - **2000 年代 — 批判政策社会学审视** 鲍尔（2007）等学者深入剖析英美基础教育准市场改革，揭示教育准市场如何促使学校管理层[[Alienation|异化]]为追逐排位与高阶生源的企业家主体，导致社会不平等制度化。
+> - **2007 年 — 东亚发展型国家的战术性准市场治理** 戈皮纳坦（[[Argument_Gopinathan_2007_GSE|Gopinathan, 2007, pp. 54–55]]）指出，与英美新自由主义削弱国家规制的准市场不同，新加坡等东亚强国家采取“战术性市场化”进路，通过创办自主学校、大学公司化及学校群分权引入准市场机制，将其作为“远距离治理”以提升系统敏捷度并维系国家战略领导力的新型治理工具。
 > - **2020 年代 — 产业生态化与国家测试床转向** 库尔蒂（[[Argument_Kuortti_2025_JEdPolicy|Kuortti, 2025]]）等学者将准市场分析推向国家教育出口与产业创新领域，揭示后福利国家如何通过“生态系统”[[Discourse|话语]]在国内人为制造准市场，将公立教育降格为私人资本出海的孵化测试场。
 
 ---
@@ -151,6 +153,8 @@ updated: 2026-11-15
 > | [[School Choice]] | Concept | 赋予家长与学生自由择校权是驱动准市场机构间竞争的关键需求端前提。 |
 > | [[Public-Private Partnership]] | Concept | 准市场中公立部门与私营资本联合提供公共服务的微观契约组织形态。 |
 > | [[New Public Management]] | Concept | 为准市场提供分权改革、契约外包、绩效审计与客户导向理论支撑的行政[[Paradigm\|范式]]。 |
+> | [[Steering at a Distance]] | Concept | 强国家机器运用准市场机制赋予微观办学自主权同时维系宏观战略调控的核心治理技术。[[Argument_Gopinathan_2007_GSE\|(Gopinathan, 2007, p. 55)]] |
+> | [[Developmental State]] | Concept | 区别于西方新自由主义撤资范式，运用战术性准市场重构公共教育竞争力的宏观国家体制。[[Argument_Gopinathan_2007_GSE\|(Gopinathan, 2007, pp. 54–55)]] |
 > | [[Global Education Industry]] | Concept | 准市场通过政府采购与测试床建设，为全球教育产业扩张培育本土母港与实验空间。 |
 > | [[Governmentality]] | Theory | 解释国家如何通过准市场竞争指标与自我审计技术对教育从业人员实施规训的理论框架。 |
 
@@ -158,3 +162,4 @@ updated: 2026-11-15
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 剖析芬兰教育出口政策中文献如何通过“生态系统”话语在公立体系内人工培植国内准市场，揭示公立学校沦为私营教育科技测试床与公信力背书跳板的治理机制（pp. 385–386, 391–393）。
+> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 阐明新加坡强发展型国家如何运用战术性市场化改革引入准市场机制（自主学校、学校群分权与大学公司化），揭示准市场作为国家“远距离治理”工具在维系战略控制与激发系统灵活性之间的运作机理（pp. 54–55）。

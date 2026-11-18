@@ -20205,8 +20205,10 @@
     "Raento et al., 2009": "Raento et al., 2009",
     "Rafdal (2011)": "Rafdal, 2011",
     "Rafdal, 2011": "Rafdal, 2011",
+    "Raffe (2011)": "Raffe, 2011",
     "Raffe et al. (1989)": "Raffe et al., 1989",
     "Raffe et al., 1989": "Raffe et al., 1989",
+    "Raffe, 2011": "Raffe, 2011",
     "Ragin (2000)": "Ragin, 2000",
     "Ragin, 2000": "Ragin, 2000",
     "Ragnar Nurkse (1953)": "Ragnar Nurkse, 1953",
@@ -126988,8 +126990,7 @@
       ],
       "isbn": "9789888028788",
       "seen_in": [
-        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md",
-        "wiki/concepts/educational-policy-reform/English-Knowing Bilingualism.md"
+        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md"
       ],
       "title": "English as a lingua franca in ASEAN: A multilingual model"
     },
@@ -175979,6 +175980,21 @@
       ],
       "title": ""
     },
+    "Raffe, 2011": {
+      "aliases": [
+        "Raffe, 2011",
+        "Raffe (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Raffe, 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Policy Learning.md"
+      ],
+      "title": ""
+    },
     "Ragin, 2000": {
       "aliases": [
         "Ragin, 2000",
@@ -194692,8 +194708,7 @@
       ],
       "isbn": "9789810476489",
       "seen_in": [
-        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md",
-        "wiki/concepts/educational-policy-reform/English-Knowing Bilingualism.md"
+        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md"
       ],
       "title": "Policies on English Language education and economic development"
     },
@@ -200972,6 +200987,7 @@
         "wiki/arguments/journal-articles/Educational Research and Evaluation/Argument_Cowen_2019_ERE.md",
         "wiki/arguments/journal-articles/Journal of Curriculum Studies/Argument_Yan_2025_JCS.md",
         "wiki/concepts/comparative-education/Policy Borrowing.md",
+        "wiki/concepts/comparative-education/Policy Learning.md",
         "wiki/concepts/comparative-education/Travelling Policy.md",
         "wiki/theories/political-economy-geopolitics/Tullock's Bureaucracy Theory.md"
       ],

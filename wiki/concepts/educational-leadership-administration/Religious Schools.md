@@ -9,7 +9,7 @@ aliases:
 summary: "依托特定宗教信仰团体、教区或教派传统创办并管理的教育机构；在历史演进中历经传统经院学徒制向近现代科层化学校系统的转型，通过整合宗教伦理、严密社群网络与学术大纲提供有别于世俗公学的教育模式。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -45,10 +45,11 @@ related_facts:
   - "[[Common School Movement]]"
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch07]]"
+  - "[[Argument_Gopinathan_2007_GSE]]"
 confidence: medium
 status: completed
 created: 2026-10-22
-updated: 2026-11-15
+updated: 2026-11-18
 ---
 
 ---
@@ -128,6 +129,7 @@ updated: 2026-11-15
 > - **19世纪 — 世俗[[Common School Movement|公学运动]]与公私办学区隔** 随着欧美现代民族国家崛起，公立学校运动强调国家教育权与世俗化大纲，宗教学校逐步确立为独立的私立教育形态。
 > - **20世纪初 — 亚非前殖民地的教育现代转型** 现代殖民学校系统引入标准化考核与年龄分级，促使传统宗教学校逐步改革大纲并纳入国家认证框架。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 123–124)]]
 > - **20世纪末至今 — [[School Vouchers|教育券]]计划与学校效能实证量化** 随着[[School Choice|学校选择]]权政策的推行，实证研究界通过大规模元分析系统测量宗教学校对学术产出的净增量贡献（Jeynes, 2004, 2012b）。
+> - **2000 年代 — 后九一一地缘安全震荡与国家课程规范介入** 新加坡强发展型国家在后九一一[[Geopolitics|地缘政治]]震荡与反恐背景下，对传统伊斯兰宗教学校（madrasah）实施课程规制，强制推行基础教育国家统一大纲与统考基准，在尊重族群宗教办学自主与维系国家认同、社会凝聚之间展开制度协商。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, p. 57)]]
 
 ---
 
@@ -144,8 +146,6 @@ updated: 2026-11-15
 
 ---
 
----
-
 > [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关系 |
@@ -153,6 +153,7 @@ updated: 2026-11-15
 > | [[Common School Movement]] | 概念 | 公立学校运动确立世俗国家办学垄断，促成宗教学校转向独立私立形态。 |
 > | [[State Educational Sovereignty]] | 概念 | 现代国家通过课程审核与学位认证将宗教学校纳入主权监管范畴。 |
 > | [[Educational Pilgrimage]] | 概念 | 现代公立学校的向心朝圣阶梯逐步边缘化了传统宗教求学的离散网络。[[Argument_Anderson_2016_Verso_Ch07\|(Anderson, 2016, pp. 123–124)]] |
+> | [[Bilingual Education Policy]] | 概念 | 新加坡在规制传统宗教学校时强制嵌入双语与国民教育大纲以保障国家凝聚力。[[Argument_Gopinathan_2007_GSE\|(Gopinathan, 2007, p. 57)]] |
 > | [[William Jeynes]] | 人物 | 开展宗教学校效应大规模元分析并论证其社会资本补偿价值的代表学者。 |
 > | [[Benedict Anderson]] | 人物 | 阐释传统伊斯兰宗教学校导师漫游制与现代标准化学校系统断裂的历史学者。[[Argument_Anderson_2016_Verso_Ch07\|(Anderson, 2016, pp. 123–124)]] |
 
@@ -176,3 +177,4 @@ updated: 2026-11-15
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Anderson_2016_Verso_Ch07|Anderson (2016)]] — 剖析荷属东印度传统伊斯兰宗教学校以学者为中心的人身依附网络，对比现代殖民学校基于年龄分级与标准化[[Knowledge Building Theory|知识建构]]统一认知坐标的机制。
+> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 探讨后九一一地缘政治背景下新加坡政府对伊斯兰宗教学校（madrasah）的治理介入，分析国家如何在推行义务教育国家课程基准与尊重少数族群宗教教育自主之间维持脆弱平衡（p. 57）。

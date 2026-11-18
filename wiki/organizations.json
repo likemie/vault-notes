@@ -616,6 +616,14 @@
         "英国CPS智库"
       ]
     },
+    "Centre for Research in Pedagogy and Practice": {
+      "path": "wiki/facts/singapore/Centre for Research in Pedagogy and Practice.md",
+      "names": [
+        "Centre for Research in Pedagogy and Practice",
+        "教学与实践研究中心",
+        "CRPP"
+      ]
+    },
     "Centre for the Use of Research and Evidence in Education": {
       "path": "wiki/facts/uk/Centre for the Use of Research and Evidence in Education.md",
       "names": [
@@ -849,6 +857,15 @@
         "ECJ",
         "CJEU",
         "European Court of Justice"
+      ]
+    },
+    "Curriculum Development Institute of Singapore": {
+      "path": "wiki/facts/singapore/Curriculum Development Institute of Singapore.md",
+      "names": [
+        "Curriculum Development Institute of Singapore",
+        "新加坡课程发展署",
+        "CDIS",
+        "课程发展署"
       ]
     },
     "Danish Clearinghouse for Educational Research": {
@@ -2283,6 +2300,17 @@
         "国家儿童健康与人类发展研究所",
         "尤妮斯·肯尼迪·施莱佛国家儿童健康与人类发展研究所",
         "Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+      ]
+    },
+    "National Institute of Education": {
+      "path": "wiki/facts/singapore/National Institute of Education.md",
+      "names": [
+        "National Institute of Education",
+        "新加坡国立教育学院",
+        "NIE",
+        "教师教育学院",
+        "Institute of Education",
+        "IE"
       ]
     },
     "National Institute of Standards and Technology": {
@@ -3830,6 +3858,11 @@
     "Singapore Economic Development Board; Ministry of Trade and Industry; Ministry of Education": {
       "seen_in": [
         "wiki/facts/singapore/Singapore Education Hub Policy.md"
+      ]
+    },
+    "Singapore Examinations and Assessment Board": {
+      "seen_in": [
+        "wiki/facts/singapore/Primary School Leaving Examination.md"
       ]
     },
     "Students & Intellectuals (Beijing University / Student Unions)": {
