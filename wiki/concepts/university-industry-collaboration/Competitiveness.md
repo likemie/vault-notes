@@ -327,7 +327,7 @@ updated: 2026-11-18
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **国家千年期长程决断** | 设立数百年乃至千年尺度的战略规划，以共同价值观与强大人力资本投资驱动现代化经济繁荣与地缘突破 | 资源匮乏国家的制度突围、长期战略规划与国家安全威慑 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025, Ch. 17); [[Lee Kuan Yew]] (1965); World Bank (2023) |
-> | **国家产业中心动员** | 宏观产业竞争力危机倒逼联邦资助打破学科壁垒，设立产学协同[[Big Science\|大科学]]中心 | 面对全球经贸竞争的国家科技战略与大学科研转型 | [[Argument_Bozeman_2004_JTT\|Bozeman and Boardman (2004, pp. 365, 367)]] |
+> | **国家产业中心动员** | 宏观产业竞争力危机促使联邦资助打破学科壁垒，设立产学协同[[Big Science\|大科学]]中心 | 面对全球经贸竞争的国家科技战略与大学科研转型 | [[Argument_Bozeman_2004_JTT\|Bozeman and Boardman (2004, pp. 365, 367)]] |
 > | **实体承接制造锚定** | 单纯文章卓越无法维系国家竞争力，必须打破规制阻滞并锚定本土试验场与先进制造 | 国家硬科技战略、[[Regulatory Sandbox\|规制沙盒]]改革与前竞争联合体攻坚 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 33–46)]] |
 > | **微观工程组织学习** | 产业竞争力源于产线以人为本的组织数据学习与工程排障，优于纯硬件机械自动化 | 先进制造业工艺优化、半导体晶圆制造与组织学习 | [[Argument_Macher_1998_CMR\|Macher et al. (1998, pp. 108, 117–118)]] |
 > | **机构卓越生产机制** | 排名与指标化基础设施作为[[Geopolitics\|地缘政治]]装置，通过审判网络生产量化卓越标准 | [[Global Universities Rankings\|全球大学排名]]与国家科研卓越评估（REF/卓越计划） | [[Argument_Thompson_2022_Promising_Student\|Thompson et al. (2022, p. 220)]] |
