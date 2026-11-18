@@ -1231,6 +1231,26 @@
     {
       "sentence": "优势家庭擅长与教师建立专业对话解码评语；弱势家庭缺乏明确的学业反馈参考。",
       "target": "wiki/concepts/educational-philosophy/Decodification.md"
+    },
+    {
+      "sentence": "新加坡教育部（Ministry of Education, MOE）于 2009 年采纳小学教育审查与实施委员会（Primary Education Review and Implementation, PERI）报告，试图在初等教育学龄起点推行均等化资源倾斜与整全育人改革。",
+      "target": "wiki/facts/china/Ministry of Education of the People's Republic of China.md"
+    },
+    {
+      "sentence": "**直通车计划（IP）** 允许顶尖学术优胜者跳过中学阶段剑桥普通教育证书（General Certificate of Education, GCE）普通水准（O-Level）统考，直通高级水准（A-Level）或国际文凭（International Baccalaureate, IB），名校得以利用省下的应试时间拓展深层研学，进一步拉大与主流学校的办学差距（MOE, 2011b）。",
+      "target": "wiki/facts/global/Global Campaign for Education.md"
+    }
+  ],
+  "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md": [
+    {
+      "sentence": "**法定干预架构** 印尼 2012 年第 12 号《高等教育法》（Law 12/2012）强制要求全国公立大学（Perguruan Tinggi Negeri, PTN）必须将至少 20% 的招生席位保留给来自经济困难家庭或农村偏远地区的优秀学生。",
+      "target": "wiki/facts/us/Higher Education Act of 1965.md"
+    }
+  ],
+  "wiki/facts/singapore/Primary Education Review and Implementation.md": [
+    {
+      "sentence": "**发布时间 / 发布主体** 2008 年由新加坡教育部（Ministry of Education, MOE）设立小学教育审查与实施委员会（Primary Education Review and Implementation, PERI），由教育部高级政务部长傅海燕（Grace Fu）担任主席；委员会于 2009 年正式发布报告并获教育部全盘采纳实施。",
+      "target": "wiki/facts/china/Ministry of Education of the People's Republic of China.md"
     }
   ]
 }

@@ -49,7 +49,6 @@ related_facts:
   - "[[UN Sustainable Development Goals]]"
   - "[[Demographic and Health Surveys]]"
   - "[[Multiple Indicator Cluster Surveys]]"
-  - "[[Higher Education Act of 1965]]"
   - "[[ASEAN]]"
 related_arguments: []
 sources:
@@ -64,7 +63,7 @@ title: "Argument_Phyo_2025_SocSci"
 argument_key: "Argument_Phyo_2025_SocSci"
 argument_display_title: "Toward 2030: Inequities in higher education access in Southeast Asia"
 argument_kind: "journal-article"
-argument_related_count: 27
+argument_related_count: 26
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -341,7 +340,7 @@ issuing_organization: ""
 > [!sub-claim] 2. 助学金资格屡遭虚报冒领，弱势学生因基础学业差距难以按期读完
 
 > [!case] 案例二｜印度尼西亚：第 12/2012 号法案配额与 Bidikmisi 奖学金机制
-> - **法定干预架构** 印尼 2012 年第 12 号《[[Higher Education Act of 1965|高等教育法]]》（Law 12/2012）强制要求全国公立大学（Perguruan Tinggi Negeri, PTN）必须将至少 20% 的招生席位保留给来自经济困难家庭或农村偏远地区的优秀学生。(Brewis, 2019)
+> - **法定干预架构** 印尼 2012 年第 12 号《高等教育法》（Law 12/2012）强制要求全国公立大学（Perguruan Tinggi Negeri, PTN）必须将至少 20% 的招生席位保留给来自经济困难家庭或农村偏远地区的优秀学生。(Brewis, 2019)
 > - **专项资助工具** 同步推进 Bidikmisi 奖学金项目，向经济困难学生全额提供学费资助与生活津贴；针对巴布亚及边境偏远落后地区实施高等教育平权计划（Afirmasi Pendidikan Tinggi, ADIK）与边远、边境和欠发达地区（Terdepan, Terluar, Tertinggal; 3T）专项倾斜方案，下调录取分数线并提供全额补贴。
 > - **实施阻碍与制度张力** 在选拔过程中，由于家庭收入核查机制薄弱，出现部分优势家庭伪造经济困难证明以争夺名额的资格失真现象；更为根本的是，偏远地区薄弱的基础教育质量使得受助学生进入大学后难以适应学术要求，暴露出单纯大学入口端配额无法补足前期[[Human Capital Theory|人力资本]]赤字的根本缺陷。
 
