@@ -8,10 +8,10 @@ aliases:
 summary: "罗伯特·卡普兰与理查德·鲍尔道夫于1997年提出的语言教育规划系统分析框架，将教育领域的语言规划分解为准入、师资、课程、教学法、教材、资源、社区与评估八个政策维度，用以解释国家语言目标向学校微观实践的制度转化。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 8
-theory_related_level: 0
-theory_related_stars: "☆"
-theory_related_color: "#e5e7eb"
+theory_related_count: 14
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - theory/language-planning
   - theme/language-policy
@@ -19,18 +19,24 @@ tags:
   - theme/comparative-education
   - region/global
 related_concepts:
+  - "[[Language-of-State]]"
+  - "[[Champ]]"
+  - "[[Operationalization]]"
+  - "[[Paradigm]]"
   - "[[Bilingual Education Policy]]"
-  - "[[Language Skills]]"
-  - "[[Curriculum]]"
+  - "[[Immersion Approach]]"
+  - "[[Academic Achievement]]"
+  - "[[Whole Language]]"
+  - "[[Singlish]]"
 related_theories: []
 related_methods:
-  - "[[Documentary Analysis]]"
-  - "[[Comparative Policy Analysis]]"
+  - "[[Analytic Framework]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Niall Ferguson]]"
 related_facts:
-  - "[[Speak Good English Movement]]"
   - "[[STELLAR Program]]"
+  - "[[Speak Good English Movement]]"
 related_arguments:
   - "[[Argument_Chua_2011_CILP]]"
 confidence: high
@@ -44,11 +50,11 @@ updated: 2026-11-18
 > [!theory-position] 理论定位
 > - **解释对象** 解释主权国家与教育行政机构如何通过自上而下的制度设计，将宏观语言政策目标转化为正规教育体系与社会生活中的具体语言使用行为。
 > - **理论问题** 传统语言规划研究往往侧重宏观的本体规划（corpus planning）与地位规划（status planning），忽视了学校教育系统内部从课程大纲、师资配置到财政拨款等结构性配套措施如何决定习得规划（acquisition planning）的成败。
-> - **理论类型** 属于教育政策学与社会语言学交叉的系统分析框架。
-> - **知识位置** 承接社会语言学家查尔斯·弗格森（Charles Ferguson）与约书亚·菲什曼（Joshua Fishman）的语言规划传统，直接桥接宏观国家建构战略与微观学校课程实践。
+> - **理论类型** 属于教育政策学与社会语言学交叉的系统[[Analytic Framework|分析框架]]。
+> - **知识位置** 承接社会语言学家查尔斯·[[Niall Ferguson|弗格森]]（Charles Ferguson）与约书亚·菲什曼（Joshua Fishman）的语言规划传统，直接桥接宏观国家建构战略与微观学校课程实践。
 
 > [!claim] 核心判断
-> 语言教育规划是一套旨在改变社区语言使用行为的法律、规章、理念与实践综合体；国家语言政策的有效落地依赖于准入、师资、课程、教学法、教材、资源、社区与评估八大政策维度的系统协同与全方位干预，任何单一维度的孤立推进均会导致政策失真或产生非预期后果。[[Argument_Chua_2011_CILP|(Kaplan & Baldauf, 1997; quoted in Chua, 2011, p. 127)]]
+> 语言教育规划是一套旨在改变社区语言使用行为的法律、规章、理念与实践综合体；[[Language-of-State|国家语言]]政策的有效落地依赖于准入、师资、课程、教学法、教材、资源、社区与评估八大政策维度的系统协同与全方位干预，任何单一维度的孤立推进均会导致政策失真或产生非预期后果。[[Argument_Chua_2011_CILP|(Kaplan & Baldauf, 1997; quoted in Chua, 2011, p. 127)]]
 
 ---
 
@@ -56,10 +62,10 @@ updated: 2026-11-18
 > - **提出者与原始文本** 由应用语言学家罗伯特·卡普兰（Robert B. Kaplan）与理查德·鲍尔道夫（Richard B. Baldauf Jr.）在 1997 年出版的专著《语言规划：从实践到理论》（*Language Planning: From Practice to Theory*）中系统提出。[[Argument_Chua_2011_CILP|(Kaplan & Baldauf, 1997; Chua, 2011, p. 127)]]
 > - **原初问题** 许多多语国家在后殖民转型期盲目颁布语言法定地位，却因缺乏正规教育系统的结构性支持而陷入政策溃败或族群教育不平等。
 > - **理论资源与材料** 综合了全球多语社会（如太平洋岛国、东南亚、非洲与北美）的语言复兴、外语教学与双语教育成败案例，提炼出正规教育机构作为国家语言习得规划主战场的运行机理。
-> - **形成路径** 将宏观社会语言规划框架聚焦于教育场域，细化出教育决策者必须逐一回答的八项操作化规程。
+> - **形成路径** 将宏观社会语言规划框架聚焦于教育[[Champ|场域]]，细化出教育决策者必须逐一回答的八项[[Operationalization|操作化]]规程。
 
 > [!dev-timeline] 理论应用与发展
-> - **1997 — 框架确立** 卡普兰与鲍尔道夫系统界定教育语言规划的八维分析框架，奠定了该领域的标准分析范式。[[Argument_Chua_2011_CILP|(Kaplan & Baldauf, 1997)]]
+> - **1997 — 框架确立** 卡普兰与鲍尔道夫系统界定教育语言规划的八维分析框架，奠定了该领域的标准分析[[Paradigm|范式]]。[[Argument_Chua_2011_CILP|(Kaplan & Baldauf, 1997)]]
 > - **2003 — 区域政策比较** 鲍尔道夫与卡普兰主持泛太平洋与亚洲语言教育政策调查，检验该框架在不同政治体制下的解释力。
 > - **2011 — 新加坡全方位整合案例** 蔡秀琼（Siew Kheng Catherine Chua）将该框架运用于新加坡[[Bilingual Education Policy|双语教育政策]]实证剖析，证实了政府在全部八个维度上的严密干预是新加坡成功转型为懂英语社会的核心机制，同时也揭示出过度强势的英语规划对族群母语造成的挤出效应。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 127–130)]]
 
@@ -72,19 +78,24 @@ updated: 2026-11-18
 > | 准入政策（Access Policy） | 制度维度 | 界定何种群体在何时具备学习目标语言的法定权利与强制义务。 |
 > | 师资政策（Personnel Policy） | 资源维度 | 规范语言教师的准入门槛、招聘渠道、学历资质与专业化在职培训。 |
 > | 课程政策（Curriculum Policy） | 教学维度 | 规定目标语言在各学段周课时比例、能力大纲标准与跨学科教学媒介地位。 |
-> | 方法学政策（Methodology Policy） | 实践维度 | 指引课堂语言教学的指导性范式（如沉浸法、直接法、任务型或结构法）。 |
+> | 方法学政策（Methodology Policy） | 实践维度 | 指引课堂语言教学的指导性范式（如[[Immersion Approach\|沉浸法]]、直接法、任务型或结构法）。 |
 > | 教材政策（Materials Policy） | 载体维度 | 确立官方审定教科书、阅读分级材料、数字化教辅与视听资源的供给机制。 |
 > | 资源政策（Resourcing Policy） | 物质维度 | 确定国家公共财政预算投入、专项语言教学设施与数字化硬件保障。 |
 > | 社区政策（Community Policy） | 社会维度 | 推动家长参与、公共媒体倡导与全国性社会语言运动以营造语言沉浸场域。 |
-> | 评估政策（Evaluation Policy） | 质量维度 | 设立高利害标准化语言检定考试与学业成就评估指标以监控产出效能。 |
+> | 评估政策（Evaluation Policy） | 质量维度 | 设立高利害标准化语言检定考试与[[Academic Achievement\|学业成就]]评估指标以监控产出效能。 |
 
 ---
 
 > [!feature] 语言教育规划八大操作化维度的功能剖析
 > - **制度准入与普惠强制** 明确语言学习在全学段的法定必修属性。在新加坡案例中，准入政策表现为自幼儿园起全员强制修习第一语言英语与对应的官方族群母语，实现零排斥准入。[[Argument_Chua_2011_CILP|(Chua, 2011, p. 128)]]
-> - **专业师资统筹培养** 克服非母语环境下教师语言素养不足的瓶颈。新加坡通过[[National Institute of Education|国立教育学院]]（National Institute of Education, NIE）统一实施职前与在职严格培训，确保全国教师具备教授国际认可标准英语的专业素养。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 127–128)]]
-> - **进阶课程与教学法改革** 伴随学生水平发展持续演进课程目标。课程政策从早期的结构性语法训练演变为强调交际流利度与国际接轨的听说大纲；方法学政策则通过[[STELLAR Program|英文学习与阅读策略项目]]（STELLAR）由传统灌输转向大书阅读与全语言体验。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 132–136)]]
+> - **专业师资统筹培养** 克服非母语环境下教师语言素养不足的瓶颈。新加坡通过国立教育学院（National Institute of Education, NIE）统一实施职前与在职严格培训，确保全国教师具备教授国际认可标准英语的专业素养。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 127–128)]]
+> - **进阶课程与教学法改革** 伴随学生水平发展持续演进课程目标。课程政策从早期的结构性语法训练演变为强调交际流利度与国际接轨的听说大纲；方法学政策则通过[[STELLAR Program|英文学习与阅读策略项目]]（STELLAR）由传统灌输转向大书阅读与[[Whole Language|全语言]]体验。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 132–136)]]
 > - **财政资源与全社会协同** 提供长期稳定的资金后盾与课外使用场域。新加坡教育部财政预算常年占政府总支出 20% 以上，并同步发起[[Speak Good English Movement|讲正确英语运动]]，联合社区媒体构建多维支持网络。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 128–130)]]
+
+> [!case] 比较案例：东南亚语言教育规划的成败对照
+> - **新加坡全域贯通模式** 在八个维度上形成高度同步的整体布局：自学前起强制修习（准入）、NIE 统筹专职师资（人员）、历次大纲演进（课程）、STELLAR 大书阅读（方法）、统编正规绘本（教材）、财政常年占比超 20%（资源）、讲正确英语运动（社区）以及 PSLE 严格分级（评估），使标准英语及格率保持在 97.5% 以上。
+> - **马来西亚局部推进与反复** 2003 年试图通过行政命令强行推行英语教授数理（PPSMI），但在师资培训、教材供给与社区认同等配套维度缺乏足够支撑，导致农村与非精英阶层学业受挫，最终于 2012 年宣告终止。
+> - **文莱课堂内外脱节** 虽自 1984 年确立双语体制（Dwibahasa），但校外社区缺乏高频度英语环境，课堂教学常退化为马来语和英语杂糅的语码转换。
 
 ---
 

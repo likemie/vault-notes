@@ -10,7 +10,7 @@ aliases:
 summary: "指个体在面对阻碍且无直接算法可用时，通过表征初始状态、搜索算子空间、在多重约束下权衡取舍、应用启发式策略与现场排障调试，以克服障碍并达成目标状态的高级认知与实践过程。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 45
+related_count: 49
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Transfer Strategies]]"
   - "[[Metacognition]]"
   - "[[Wicked Problem]]"
+  - "[[Mimesis]]"
   - "[[Concept Mapping]]"
   - "[[Working Memory]]"
   - "[[Cognitive Offloading]]"
@@ -50,8 +51,10 @@ related_concepts:
   - "[[Variable]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Computer Simulation]]"
-  - "[[Learning Gain]]"
   - "[[Process Knowledge]]"
+  - "[[Learning Gain]]"
+  - "[[Direct Instruction]]"
+  - "[[Hybrid Pedagogy]]"
 related_theories:
   - "[[Creative Problem Solving]]"
   - "[[Cognitive Load Theory]]"
@@ -72,10 +75,11 @@ related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
   - "[[Argument_Kelly_Licona_2018_EpistemicPractices]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
+  - "[[Argument_Deng_2016_CE]]"
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-11-11
+updated: 2026-11-18
 ---
 
 ---
@@ -83,7 +87,7 @@ updated: 2026-11-11
 > [!def] Problem Solving
 > **问题解决（Problem Solving）** 是指个体在面对情境阻碍且没有现成、自动化算法或直接反应程序可用时，运用一系列有目的的高级认知与实践规程，将“初始状态（Initial State）”逐步转化为“目标状态（Goal State）”的复杂心智与操作过程。在认知心理学经典传统中，该过程被形式化为“问题空间（Problem Space）”内的状态搜索与算子（Operators）应用；在当代学习科学、[[OECD|经合组织]]（OECD）素养框架以及[[Engineering Education|工程教育]][[Epistemology|认识论]]中，它进一步拓展为**复杂问题解决（Complex Problem Solving, [[Creative Problem Solving|CPS]]）** 与**现场故障排查（Troubleshooting）**，强调在高度动态、信息不完备、多重物理/成本约束且具劣构特征的真实情境中进行系统表征、多路径探索、算法调试、权衡折中（Trade-offs）与物理干预。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 10–11, 14)]]; [[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4–5, 24–25)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 154–157)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 52, 56)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 指向个体克服心智与物理阻碍、弥合“现状与目标之间差距”的非算法性高阶行动体系，涵盖[[Problematisation|问题表征]]、多约束权衡、策略搜索、现场排障与结果反思。
 > - **用途** 既作为衡量[[Higher-Order Thinking Skills|高阶思维]]能力的核心[[Dependent Variable|因变量]]（用于检验教学设计与生成式 AI 的增值效能），也是评价拔尖工程科技人才与现场技术专家核心实践能力的关键指标。
 > - **边界** 区别于已有现成套路的机械常规练习（Exercise）；亦区别于前期的敏锐察觉（[[Problem Finding|问题发现]]）与纯[[Reflexivity|反思性]]证据挑错（[[Critical Thinking|批判性思维]]）。
@@ -105,7 +109,7 @@ updated: 2026-11-11
 
 ---
 
-> [!contrast-table] 问题解决与相近高阶认知与实践能力对比
+> [!contrast-table|notitle] 概念辨析
 > | 比较维度 | 问题解决（Problem Solving） | [[Critical Thinking\|批判性思维（Critical Thinking）]] | [[Creativity\|创造力（Creativity）]] | 现场故障排查（Troubleshooting） |
 > |---|---|---|---|---|
 > | **核心心智目标** | 消除当前状态与目标状态之间的阻碍 | 审视论据效力、识别偏差与理性抗辩 | 突破常规思维定势并生成新颖独特方案 | 定位复杂物理/代码系统故障并恢复稳定运行 |
@@ -116,7 +120,7 @@ updated: 2026-11-11
 
 ---
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **问题表征与约束空间界定（Problem Space Representation）** 理解问题语义、识别初始状态、明确目标状态并解析材料、物理、成本与安全边界约束，建立内在心智模型。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 156–157)]]
 > - **解题路径搜索与启发式策略应用（Heuristic Search）** 结合领域特定知识，在潜在解空间中运用手段-目的分析（Means-Ends Analysis）、分治法或类比[[Transfer Strategies|迁移策略]]探索前进步骤。
 > - **多约束权衡与折中决策（Multi-Constraint Trade-offs）** 在相互冲突的指标（如性能 vs 功耗、精度 vs 成本）之间寻找[[Vilfredo Pareto|帕累托]]最优解，制定工程折中方案。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, p. 157)]]
@@ -141,7 +145,7 @@ updated: 2026-11-11
 > **问题空间表征与认知负荷调控** 探讨个体在面对非良构复杂问题时，如何通过准确表征初始状态与约束条件，避免陷入盲目试错的无序搜索，并借助[[Metacognition|元认知监控]]实现自适应路径调整。
 
 > [!claim] Zhao et al.
-> **深层问题表征与逻辑推演机制** 复杂情境中的问题解决是学习者主动进行问题空间表征、边界约束分析与多路径方案构建的高阶认知探索，有别于被动的步骤模仿。优质的问题解决表现依赖于个体在头脑中构建清晰的[[Concept Mapping|概念图]]式，进而有效分配[[Working Memory|工作记忆]]资源以推演多种可行性解法。在此过程中，元认知监控发挥着核心导航作用，使解题者能够敏锐识别推理死胡同并及时调整搜索算子。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 7–8, 14)]]
+> **深层问题表征与逻辑推演机制** 复杂情境中的问题解决是学习者主动进行问题空间表征、边界约束分析与多路径方案构建的高阶认知探索，有别于被动的步骤[[Mimesis|模仿]]。优质的问题解决表现依赖于个体在头脑中构建清晰的[[Concept Mapping|概念图]]式，进而有效分配[[Working Memory|工作记忆]]资源以推演多种可行性解法。在此过程中，元认知监控发挥着核心导航作用，使解题者能够敏锐识别推理死胡同并及时调整搜索算子。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 7–8, 14)]]
 
 ---
 
@@ -161,7 +165,7 @@ updated: 2026-11-11
 
 ---
 
-> [!contrast-table] 所有命题归纳
+> [!contrast-table|notitle] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **问题表征与元认知监控** | 优质表征与反思导航是克服劣构阻碍的前提 | 复杂工程任务、数学建模、真实生活挑战 | Zhao et al.; [[Herbert A. Simon\|Simon, H. A.]] |
@@ -179,7 +183,7 @@ updated: 2026-11-11
 
 ---
 
-> [!debates] 问题解决的核心学术争议
+> [!debates] 学术争议
 >
 > > [!axis] 通用解题策略 vs. 领域专用知识的基础性争论
 > > 围绕高阶问题解决能力究竟是跨学科通用的认知策略，还是高度受制于具体学科领域的先验知识图式。
@@ -193,30 +197,29 @@ updated: 2026-11-11
 > > - **认知手段支持者** 主张 AI 承担了低阶语法与繁琐代码编写，使学习者得以专注于更高层级的问题空间建构与方案评估。
 > > - **[[Cognitive Offloading|认知外包]]批评者** 警告过度依赖[[Computer Simulation|虚拟仿真]]与代码生成会导致“捷径式学习”，削弱工程师在真实物理世界中的异常诊断与排障手感。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 14–15)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 48, 52)]]
 
-> [!warning] 测量与评价局限
+> [!warning|limits] 适用局限
 > 纸笔标准化测验往往只能测查静态的陈述性推导，难以有效评估动态复杂问题解决（[[Creative Problem Solving|CPS]]）中的自适应调控能力与物理排障手艺；高阶表现性测验（如 [[Collegiate Learning Assessment|CLA+]] 任务）评分成本高昂，且易受被试作答动机波动影响。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 12–14)]]
 
 ---
 
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Higher-Order Thinking Skills]] | 概念 | 问题解决作为高阶思维能力体系中面向目标推进与障碍消除的核心支柱。 |
+> | [[Engineering Education]] | 概念 | 将多约束问题解决、原型迭代与车间排障作为核心培养目标的专门教育[[Paradigm\|范式]]。 |
+> | [[Epistemic Practices]] | 概念 | 问题解决在表征空间、搜索算子与多约束权衡中遵循的认知与实践规程。 |
+> | [[Process Knowledge]] | 概念 | 在物理设备与产线排障问题解决中积累的不可编码默会经验。 |
+> | [[Phronesis]] | 概念 | 在复杂动态现场面对突发故障与价值冲突时开展即兴问题解决的实践智慧。 |
+> | [[Generative Artificial Intelligence]] | 概念 | 与问题解决的程序性推演高度契合、充当思维副驾驶的生成式认知工具。 |
+> | [[Herbert A. Simon]] | 人物 | 提出问题空间与启发式搜索理论、奠定信息加工问题解决范式的认知科学先驱。 |
+> | [[Michael Kratsios]] | 人物 | 主张在工程教育中重塑现场排障考核与动手问题解决能力的科技政策学者。 |
+
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 在关于[[Generative Artificial Intelligence|生成式人工智能]]促进[[Higher-Order Thinking Skills|高阶思维]]的一阶[[Meta-analysis|元分析]]中，将问题解决能力作为首要[[Dependent Variable|因变量]]维度展开综合检验，发现其获得的促学增益最大（$g = 0.745$），并深入阐释了技术算法与程序性心智的高适配机制。
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — 在 [[OECD]] 高等教育[[Learning Gain|增值评价]]研究中，将复杂问题解决界定为大学生跨学科通用[[21st Century Skills and Competencies Discourse|核心素养]]，系统评述了 [[Collegiate Learning Assessment|CLA+]]、[[ETS HEIghten Critical Thinking Assessment|HEIghten]] 及真实表现性任务对复杂问题解决能力的测量有效性与实施边界。
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]] — 从[[Epistemic Practices|认识论实践]]视角界定工程问题解决在多重约束权衡、原型设计迭代与数据决策中的独特规程。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，强调现场排障（Troubleshooting）手艺与默会[[Phronesis|实践智慧]]在现代科研与工程体系中的不可替代性。
-
----
-
-> [!entry-map] 相关条目网络
->
-> | 条目 | 类型 | 关系 |
-> |:-----|:-----|:-----|
-> | [[Higher-Order Thinking Skills]] | Concept | 问题解决作为高阶思维能力体系中面向目标推进与障碍消除的核心支柱。 |
-> | [[Engineering Education]] | Concept | 将多约束问题解决、原型迭代与车间排障作为核心培养目标的专门教育[[Paradigm\|范式]]。 |
-> | [[Epistemic Practices]] | Concept | 问题解决在表征空间、搜索算子与多约束权衡中遵循的认知与实践规程。 |
-> | [[Process Knowledge]] | Concept | 在物理设备与产线排障问题解决中积累积累的不可编码默会经验。 |
-> | [[Phronesis]] | Concept | 在复杂动态现场面对突发故障与价值冲突时开展即兴问题解决的实践智慧。 |
-> | [[Generative Artificial Intelligence]] | Concept | 与问题解决的程序性推演高度契合、充当思维副驾驶的生成式认知工具。 |
-> | [[Herbert A. Simon]] | Person | 提出问题空间与启发式搜索理论、奠定信息加工问题解决范式的认知科学先驱。 |
-> | [[Michael Kratsios]] | Person | 主张在工程教育中重塑现场排障考核与动手问题解决能力的科技政策学者。 |
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 结合新加坡在 PISA 2012 复杂问题解决测评中位列全球第一的实证表现，阐释以[[Direct Instruction|直接讲授]]为基础、结合形成性反馈的[[Hybrid Pedagogy|混合教学模式]]对复杂问题解决能力的支撑作用。

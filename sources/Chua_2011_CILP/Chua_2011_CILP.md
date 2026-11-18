@@ -1,6 +1,7 @@
 ---
 citation: "Chua, S. K. C. (2011). Singapore’s E(Si)nglish-knowing bilingualism. Current Issues in Language Planning, 12(2), 125–145. https://doi.org/10.1080/14664208.2011.602816"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Chua_2011_CILP]]"
 processed_date: 2026-11-18
 ---
 

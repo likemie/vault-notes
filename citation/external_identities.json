@@ -2383,6 +2383,14 @@
       ],
       "title": ""
     },
+    "Ali et al., 2011": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md"
+      ],
+      "title": ""
+    },
     "Ali et al., 2021": {
       "doi": "",
       "isbn": "",
@@ -19088,6 +19096,14 @@
       "seen_in": [],
       "title": "A meta-analysis of the impact of service-learning on students"
     },
+    "Cenoz, 2003": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md"
+      ],
+      "title": ""
+    },
     "Centeio, 2021": {
       "datasets": [
         "eef:physical-activity"
@@ -19892,7 +19908,8 @@
       "doi": "10.1080/09500789808666746",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
       ],
       "title": "The Examination Culture and Its Impact on Literacy Innovations: The Case of Singapore"
     },
@@ -20502,6 +20519,14 @@
         "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
       ],
       "title": "Primary Teachers’ Classroom Practices in Singapore: Preliminary Findings"
+    },
+    "Chew, 2007": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md"
+      ],
+      "title": ""
     },
     "Chiang, 2017": {
       "datasets": [
@@ -21361,8 +21386,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Ryan(Ed.)_2010_HKUP/Argument_Ryan_2010_ChineseLearner.md",
-        "wiki/concepts/chinese-philosophy/Chinese Learner.md",
-        "wiki/concepts/comparative-education/Confucian Heritage Cultures.md"
+        "wiki/concepts/chinese-philosophy/Chinese Learner.md"
       ],
       "title": ""
     },
@@ -24693,6 +24717,14 @@
       "seen_in": [],
       "title": "Fluency training for struggling readers  Examining the effects of a tier-2 intervention in third graders"
     },
+    "Crystal, 2003": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md"
+      ],
+      "title": ""
+    },
     "Csapó, 1992": {
       "datasets": [
         "eef:metacognition-and-self-regulation"
@@ -25201,13 +25233,14 @@
       "title": ""
     },
     "Dahlin & Watkins, 2000": {
-      "doi": "",
+      "doi": "10.1348/000709900158044",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
-        "wiki/concepts/chinese-philosophy/Chinese Learner.md"
+        "wiki/concepts/chinese-philosophy/Chinese Learner.md",
+        "wiki/concepts/comparative-education/Confucian Heritage Cultures.md"
       ],
-      "title": ""
+      "title": "The role of repetition in the processes of memorising and understanding: A comparison of the views of German and Chinese secondary school students in Hong Kong"
     },
     "Dai et al., 2024": {
       "doi": "",
@@ -28429,6 +28462,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "The effects of class size on student performance in reading in the primary grades"
+    },
+    "Dixon, 2009": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md"
+      ],
+      "title": ""
     },
     "Dixon-Woods et al., 2001": {
       "doi": "",
@@ -40962,10 +41003,16 @@
     "Goh, 1997": {
       "doi": "",
       "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
-      ],
+      "seen_in": [],
       "title": "Shaping our future: Thinking schools, learning nation"
+    },
+    "Goh, 2000": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/singapore/Speak Good English Movement.md"
+      ],
+      "title": ""
     },
     "Goksu & Bolat, 2021": {
       "datasets": [
@@ -45161,6 +45208,14 @@
       "seen_in": [],
       "title": "Inductive Reasoning in Third Grade  Intervention Promises and Constraints"
     },
+    "Hamid, 2010": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md"
+      ],
+      "title": ""
+    },
     "Hamilton, 1976": {
       "doi": "",
       "isbn": "",
@@ -45373,6 +45428,14 @@
       "seen_in": [
         "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Rowe_2023_ECNUROE.md",
         "wiki/concepts/educational-policy-reform/Policy Network.md"
+      ],
+      "title": ""
+    },
+    "Han et al., 2011": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md"
       ],
       "title": ""
     },
@@ -58989,6 +59052,15 @@
       ],
       "title": ""
     },
+    "Kirkpatrick, 2010": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md",
+        "wiki/concepts/educational-policy-reform/English-Knowing Bilingualism.md"
+      ],
+      "title": ""
+    },
     "Kirschner & Erkens, 2013": {
       "doi": "",
       "isbn": "",
@@ -60630,6 +60702,14 @@
         "wiki/concepts/educational-policy-reform/Catalytic Philanthropy.md"
       ],
       "title": ""
+    },
+    "Kramer-Dahl, 2008": {
+      "doi": "10.1080/01434630802147926",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Negotiating what counts as English: A study of secondary school teachers' and students' responses to a new curriculum"
     },
     "Krammer et al., 2019": {
       "doi": "",
@@ -63982,11 +64062,12 @@
     },
     "Lee, 1996": {
       "doi": "",
-      "isbn": "",
+      "isbn": "978-0864311825",
       "seen_in": [
-        "wiki/arguments/books/Ryan(Ed.)_2010_HKUP/Argument_Ryan_2010_ChineseLearner.md"
+        "wiki/arguments/books/Ryan(Ed.)_2010_HKUP/Argument_Ryan_2010_ChineseLearner.md",
+        "wiki/concepts/comparative-education/Confucian Heritage Cultures.md"
       ],
-      "title": ""
+      "title": "The cultural context for Chinese learners: Conceptions of learning in the Confucian tradition"
     },
     "Lee, 1999": {
       "datasets": [
@@ -71242,6 +71323,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "The Effects of Adult-Interactive Behaviors within the Context of Repeated Storybook Readings upon the Language Development and Selected Prereading Skills of Prekindergarten At-Risk Students"
+    },
+    "Mauzy & Milne, 2002": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md"
+      ],
+      "title": ""
     },
     "Mavilidi, 2015": {
       "datasets": [
@@ -79028,6 +79117,14 @@
       ],
       "title": ""
     },
+    "Ng, 2011": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md"
+      ],
+      "title": ""
+    },
     "Ng, 2013": {
       "datasets": [
         "eef:metacognition-and-self-regulation",
@@ -82772,6 +82869,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Industrial and Corporate Change/Argument_Kattel_Mazzucato_2018_ICC.md"
+      ],
+      "title": ""
+    },
+    "Pakir, 1991": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md"
       ],
       "title": ""
     },
@@ -99631,6 +99736,15 @@
       ],
       "title": ""
     },
+    "Silver, 2002": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md",
+        "wiki/concepts/educational-policy-reform/English-Knowing Bilingualism.md"
+      ],
+      "title": ""
+    },
     "Silver, 2024": {
       "doi": "",
       "isbn": "",
@@ -108386,6 +108500,14 @@
       "seen_in": [],
       "title": "Cognitive task analysis–based training: A meta-analysis of studies"
     },
+    "Toh, 2008": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md"
+      ],
+      "title": ""
+    },
     "Tohidi et al., 1986": {
       "datasets": [
         "metax:S0209"
@@ -109988,6 +110110,14 @@
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07.md",
         "wiki/concepts/research-methodology/Front-loaded and End-loaded Research.md"
+      ],
+      "title": ""
+    },
+    "Turnbull, 2009": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md"
       ],
       "title": ""
     },
@@ -114099,11 +114229,12 @@
     },
     "Watkins & Biggs, 1996": {
       "doi": "",
-      "isbn": "",
+      "isbn": "978-0864311825",
       "seen_in": [
+        "wiki/concepts/comparative-education/Confucian Heritage Cultures.md",
         "wiki/concepts/comparative-education/Paradox of the Chinese Learner.md"
       ],
-      "title": ""
+      "title": "The Chinese Learner: Cultural, Psychological, and Contextual Influences"
     },
     "Watkins & Biggs, 2001": {
       "doi": "",
@@ -114111,7 +114242,6 @@
       "seen_in": [
         "wiki/arguments/books/Ryan(Ed.)_2010_HKUP/Argument_Ryan_2010_ChineseLearner.md",
         "wiki/concepts/chinese-philosophy/Chinese Learner.md",
-        "wiki/concepts/comparative-education/Confucian Heritage Cultures.md",
         "wiki/concepts/comparative-education/Paradox of the Chinese Learner.md",
         "wiki/concepts/sociology-of-education/Stereotype Threat.md"
       ],
@@ -117012,6 +117142,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/learning-science-cognitive-science/Zone of Proximal Development.md"
+      ],
+      "title": ""
+    },
+    "Wood et al., 2009": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md"
       ],
       "title": ""
     },
