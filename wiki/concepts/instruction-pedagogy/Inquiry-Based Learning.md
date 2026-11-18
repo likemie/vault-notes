@@ -10,7 +10,7 @@ aliases:
 summary: "以学习者自主生成新知、依托经验证据推论、行使认识能动性并参与共同体批判协商为核心的教学取向，在适切支架与指导协同下对促进概念理解与远迁移显著优于单一直接讲授"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 67
+related_count: 68
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -95,6 +95,7 @@ related_arguments:
   - "[[Argument_Sahlgren_2015_CPS]]"
   - "[[Argument_Zhang_2022_SE]]"
   - "[[Argument_Deng_2016_CE]]"
+  - "[[Argument_Gopinathan_2007_GSE]]"
 confidence: high
 status: active
 created: 2026-09-20
@@ -224,6 +225,8 @@ updated: 2026-11-18
 
 > [!warning|limits] 适用局限
 > 探究式教学的顺利实施对师资专业素养与教学环境设计提出了极高要求。若教师缺乏实时诊断学生推理困境的能力，或数字化平台缺乏自适应[[Scaffolding\|脚手架]]，探究活动极易退化为低效的形式主义或造成严重认知超载。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 8–9)]]
+>
+> 此外，探究式教学的常态化落地深度受制于宏观制度环境与评价机制。在新加坡“思考型学校，学习型国家”（Thinking Schools, Learning Nation, TSLN）与“少教多学”（Teach Less, Learn More, TLLM）改革实证中，尽管国家削减教学大纲并投入丰富探究资源，但在高利害升学统考与严密绩效指标锁定的制度约束下，基层教师普遍采取避险策略，倾向于将探究思维矮化为可操练的答题技巧，使探究实践边缘化并退回机械讲授模式。[[Argument_Gopinathan_2007_GSE\|(Gopinathan, 2007, pp. 60–63)]]
 
 ---
 
@@ -317,6 +320,7 @@ updated: 2026-11-18
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 分析新加坡能力导向课改中探究式教学的制度困境，指出高利害升学统考与绩效指标促使基层教师避险，导致探究实践退化为解题套路并受制于传统讲授规程（pp. 60–63）。
 > - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 考察新加坡高表现教育系统中探究式教学改革的制度现实，揭示跨国借用者将 PISA 高分误归因于探究式课改的修辞陷阱，实证表明常态课堂仍以高度结构化的直接教学为主导，探究活动多停留在表层或边缘。
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 反驳 [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 的[[Direct Instruction\|直接教学]]优越论，整合受控实验、[[PISA]] 与课程级证据，确立指导式探究在深层理解上的优势及两者的协同模型。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 针对 26 项实验与准实验[[Intervention Research\|干预研究]]开展[[Meta-analysis\|元分析]]，证实指导式探究（$d = 0.808$）是促进[[Epistemic Cognition\|认识论认知]]发展与提升[[Academic Achievement\|学业成就]]最有效的[[Framework for Teaching|教学框架]]，显著优于缺乏显性支架的问题驱动学习（$d = 0.340$）与开放辩论（$d = 0.134$）。

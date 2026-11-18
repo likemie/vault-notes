@@ -9,7 +9,7 @@ summary: "质性研究中依据研究问题与理论意图系统选取具有丰�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 44
+method_related_count: 45
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -68,10 +68,11 @@ related_arguments:
   - "[[Argument_Liu_2025_IndHE]]"
   - "[[Argument_Cai_Gao_Liu_2025_HE]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
+  - "[[Argument_Lim_2015_CurricInq]]"
 confidence: high
 status: completed
 created: 2026-06-01
-updated: 2026-10-29
+updated: 2026-11-18
 ---
 
 ---
@@ -189,3 +190,4 @@ updated: 2026-10-29
 > - [[Argument_Liu_2025_IndHE|Liu et al. (2025)]] — 遵循斯塔勒（Staller, 2021）抽样标准，从[[University Alliance of the Silk Road|丝绸之路大学联盟]]中目的性选取三所在石油、水利与交通领域与跨国重大工程深度合作的代表性行业高校。
 > - [[Argument_Cai_Gao_Liu_2025_HE|Cai et al. (2025)]] — 结合档案分析与目的性抽样，从[[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]]高校中锁定 30 位跨部门关键学者开展深入访谈。
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 采用目的性抽样结合追踪设计，分阶段选取 62 名不同阶层背景的名校大学生探究[[Cultural Capital|文化资本]]与生涯决策。
+> - [[Argument_Lim_2015_CurricInq|Lim and Apple (2015)]] — 采用最大变异目的性抽样（Purposeful Maximal Sampling），对比选取一所主流公立邻里中学与一所顶尖独立精英高中，探究思维课程形态的阶层再生产机制。

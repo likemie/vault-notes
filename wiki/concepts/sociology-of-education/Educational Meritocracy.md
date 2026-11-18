@@ -11,7 +11,7 @@ aliases:
 summary: "将标准化考试成绩作为衡量个人能力与努力的客观标尺，并据此进行课程分流、高等教育选拔与社会经济地位分配的制度与意识形态安排，在为社会流动提供形式平等合法性的同时，深层加剧阶层优势再生产并固化应试教学体制"
 type: concept
 domain: "sociology-of-education"
-related_count: 17
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -34,8 +34,10 @@ related_concepts:
   - "[[High-Stakes Testing]]"
   - "[[Pedagogical Hybridity]]"
   - "[[Curriculum Alignment]]"
+  - "[[Curricular Form]]"
 related_arguments:
   - "[[Argument_Deng_2016_CE]]"
+  - "[[Argument_Lim_2015_CurricInq]]"
 related_facts:
   - "[[Primary School Leaving Examination]]"
   - "[[Research in Schools Evaluation]]"
@@ -154,9 +156,11 @@ updated: 2026-11-18
 > | [[High-Stakes Testing]] | 概念 | 高利害考试是唯才是用制赖以运转的核心操作工具与测度手段。 |
 > | [[Pedagogical Hybridity]] | 概念 | 唯才是用竞争与统考要求推动教师形成讲授操练并重的混合教学法。 |
 > | [[Curriculum Alignment]] | 概念 | 考试大纲与教学目标的严格对齐是维系唯才是用测评效度的制度基础。 |
+> | [[Curricular Form]] | 概念 | 差异化的课程形态使得阶层优势在统一考核中被误认为中立的个人才能。 |
 > | [[Primary School Leaving Examination]] | 事实 | 新加坡小学离校考试是唯才是用体系中最关键的早期分流节点。 |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 系统阐述新加坡五十年来如何以考试唯才是用意识形态建构教育体系，揭示其与高利害分流、混合教学法及课外补习的共生互动机制。
+> - [[Argument_Lim_2015_CurricInq|Lim and Apple (2015)]] — 揭示新加坡唯才是用体制中课程形态的阶层再生产机制，精英学校与主流学校的思维课程形态差异导致阶级特权被系统性误认为中立的个人才能。

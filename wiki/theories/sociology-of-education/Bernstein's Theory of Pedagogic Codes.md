@@ -11,10 +11,10 @@ aliases:
 summary: "英国社会学家巴兹尔·伯恩斯坦（Basil Bernstein）提出的结构社会学分析理论，以权力划界形成的分类与控制分配构成的框架为双重视角，阐明学校课程形态与教学互动如何作为中介代码，将宏观权力结构转化为行动者的微观意识、知识取向与等级身份。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 13
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 8
+theory_related_level: 0
+theory_related_stars: "☆"
+theory_related_color: "#e5e7eb"
 tags:
   - theory/bernstein
   - theme/sociology-of-education
@@ -22,17 +22,12 @@ tags:
   - paradigm/critical
 related_concepts:
   - "[[Curricular Form]]"
-  - "[[Critical Thinking]]"
-  - "[[Infusion Approach]]"
-  - "[[Immersion Approach]]"
   - "[[Educational Meritocracy]]"
   - "[[Official Knowledge]]"
   - "[[Regulative and Instructional Discourse]]"
 related_theories:
   - "[[Social Realism]]"
-related_methods:
-  - "[[Discourse Analysis]]"
-  - "[[Case Study]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Basil Bernstein]]"
@@ -60,7 +55,7 @@ updated: 2026-11-18
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 英国社会学家巴兹尔·伯恩斯坦（Basil Bernstein）在 1971 年论文《论教育知识的分类与框架》（*On the Classification and Framing of Educational Knowledge*）及后续专著《阶级、代码与控制》（*Class, Codes and Control*，第三卷，1975/1977）中确立核心体系。
+> - **提出者与原始文本** 英国社会学家巴兹尔·伯恩斯坦（Basil Bernstein）在 1971 年发表的《论教育知识的分类与框架》（*On the Classification and Framing of Educational Knowledge*）及后续专著《阶级、代码与控制》（*Class, Codes and Control*，第三卷，1975/1977）中确立核心体系。
 > - **原初问题** 战后英国扩张中等教育后工人阶级子弟学业失败依然普遍，既有微观互动论缺乏宏观制度制约解释力，宏观对应论又无法剖析课堂内部黑箱。
 > - **理论资源与材料** 汲取涂尔干关于宗教生活基本形式中“神圣（Sacred）与世俗（Profane）”的原初二元区分，结合结构语言学规则观念与伦敦大学教育学院社会学研究单元的多年田野观察。
 > - **形成路径** 从早期的家庭语言代码（限制代码与精致代码）拓展至学校教育知识的宏观结构，抽象出跨越学科边界的“分类”维度与微观师生权力关系的“框架”维度，构筑代码转换模型。

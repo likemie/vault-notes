@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 46
+person_related_count: 49
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Habitus]]"
   - "[[Determinism]]"
+  - "[[Curricular Form]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Thomas Theorem]]"
@@ -55,6 +56,7 @@ related_theories:
   - "[[Curriculum Design Coherence Model]]"
   - "[[Radical Constructivism]]"
   - "[[Critical Theory]]"
+  - "[[Bernstein's Theory of Pedagogic Codes]]"
 related_methods:
   - "[[Discourse Analysis]]"
   - "[[Analytic Framework]]"
@@ -73,13 +75,14 @@ related_arguments:
   - "[[Argument_Cowen_2023_CE]]"
   - "[[Argument_McPhail_2023_JCS]]"
   - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
+  - "[[Argument_Lim_2015_CurricInq]]"
 related_facts:
   - "[[NZ Curriculum Refresh 2021-2026]]"
   - "[[Swedish Schools Inspectorate]]"
 confidence: high
 status: stable
 created: 2026-05-23
-updated: 2026-11-15
+updated: 2026-11-18
 ---
 
 ---
@@ -212,8 +215,15 @@ updated: 2026-11-15
 > | [[Recontextualization]] | 概念 | 阐明学术原初知识经由官方与教学场域层层重构而转化为课堂内容的再脉络化规则机制。 |
 > | [[Regulative and Instructional Discourse]] | 概念 | 提出教学性话语深嵌于规约性话语之中，论证任何课程均不具备[[Value Neutrality\|价值中立]]性。 |
 > | [[Totally Pedagogised Society]] | 概念 | 前瞻性预见教学与评估关系向全社会弥散、个体终身被纳入符号控制的现代社会趋势。 |
+> | [[Curricular Form]] | 概念 | 课程形态作为符号中介承载分类与框架原则，直接塑造学生的认知取向与社会等级身份。 |
 > | [[Social Realism]] | 理论 | 为后继学者超越[[Radical Constructivism\|激进建构主义]]与后现代相对主义、恢复学科核心知识合法地位提供坚实理论基石。 |
 > | [[Critical Theory]] | 理论 | 为批判理论与课程社会学批判意识形态再生产提供了深度的符号与制度结构[[Analytic Framework\|分析框架]]。 |
+> | [[Bernstein's Theory of Pedagogic Codes]] | 理论 | 系统建构教学代码、分类与框架矩阵，阐明宏观权力结构如何转化为微观认知秩序。 |
 > | [[Discourse Analysis]] | 方法 | 奠定[[Critical Discourse Analysis\|批判性话语分析]]在课程政策与教科书研究中的分类、框架与编码分析操作规程。 |
 > | [[NZ Curriculum Refresh 2021-2026]] | 政策 | 其理论被作为诊断该国新课程改革中科学概念知识流失与[[Regulative and Instructional Discourse\|规约性话语]]过度扩张的核心分析框架。 |
 > | [[Swedish Schools Inspectorate]] | 政策 | 其循证督导实践被实证研究用以检验伯恩斯坦关于弱语法学科难以转化为单一行政常模的认识论命题。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Lim_2015_CurricInq|Lim and Apple (2015)]] — 将伯恩斯坦教学代码、分类与框架以及神圣与世俗知识理论作为核心分析框架，实证剖析新加坡中等教育思维课程与精英阶级再生产。

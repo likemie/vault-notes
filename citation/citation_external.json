@@ -2419,6 +2419,7 @@
     "Bernstein (1971)": "Bernstein, 1971",
     "Bernstein (1974)": "Bernstein, 1974",
     "Bernstein (1975)": "Bernstein, 1975",
+    "Bernstein (1977)": "Bernstein, 1977",
     "Bernstein (1983)": "Bernstein, 1983",
     "Bernstein (1990)": "Bernstein, 1990",
     "Bernstein (2000)": "Bernstein, 2000",
@@ -2428,6 +2429,7 @@
     "Bernstein, 1971": "Bernstein, 1971",
     "Bernstein, 1974": "Bernstein, 1974",
     "Bernstein, 1975": "Bernstein, 1975",
+    "Bernstein, 1977": "Bernstein, 1977",
     "Bernstein, 1983": "Bernstein, 1983",
     "Bernstein, 1990": "Bernstein, 1990",
     "Bernstein, 2000": "Bernstein, 2000",
@@ -12391,6 +12393,8 @@
     "John Backus, 1977": "John Backus, 1977",
     "John Bangs (2020)": "John Bangs, 2020",
     "John Bangs, 2020": "John Bangs, 2020",
+    "John Creswell (2007)": "John Creswell, 2007",
+    "John Creswell, 2007": "John Creswell, 2007",
     "John Dewey (1922)": "John Dewey, 1922",
     "John Dewey, 1922": "John Dewey, 1922",
     "John E. Tilton (1971)": "John E. Tilton, 1971",
@@ -15065,6 +15069,8 @@
     "Lincoln et al., 2011": "Lincoln et al., 2011",
     "Lincoln, 1990": "Lincoln, 1990",
     "Lincoln, 2009": "Lincoln, 2009",
+    "Linda Elder (2005)": "Linda Elder, 2005",
+    "Linda Elder, 2005": "Linda Elder, 2005",
     "Linda Zagzebski (1996)": "Linda Zagzebski, 1996",
     "Linda Zagzebski, 1996": "Linda Zagzebski, 1996",
     "Lindbeck & Nyberg (2006)": "Lindbeck & Nyberg, 2006",
@@ -19687,7 +19693,9 @@
     "Pintrich & De Groot, 1990": "Pintrich & De Groot, 1990",
     "Pintrich (2000)": "Pintrich, 2000",
     "Pintrich (2002)": "Pintrich, 2002",
+    "Pintrich et al. (1991)": "Pintrich et al., 1991",
     "Pintrich et al. (1993)": "Pintrich et al., 1993",
+    "Pintrich et al., 1991": "Pintrich et al., 1991",
     "Pintrich et al., 1993": "Pintrich et al., 1993",
     "Pintrich, 2000": "Pintrich, 2000",
     "Pintrich, 2002": "Pintrich, 2002",
@@ -26219,6 +26227,8 @@
     "Weingart (2003)": "Weingart, 2003",
     "Weingart, 1999": "Weingart, 1999",
     "Weingart, 2003": "Weingart, 2003",
+    "Weinstein & Mayer (1986)": "Weinstein & Mayer, 1986",
+    "Weinstein & Mayer, 1986": "Weinstein & Mayer, 1986",
     "Weinstein (1991)": "Weinstein, 1991",
     "Weinstein (2013)": "Weinstein, 2013",
     "Weinstein et al. (1982)": "Weinstein et al., 1982",
@@ -46207,6 +46217,22 @@
       ],
       "title": ""
     },
+    "Bernstein, 1977": {
+      "aliases": [
+        "Bernstein, 1977",
+        "Bernstein (1977)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bernstein, 1977"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md",
+        "wiki/concepts/curriculum/Curricular Form.md"
+      ],
+      "title": ""
+    },
     "Bernstein, 1983": {
       "aliases": [
         "Bernstein, 1983",
@@ -46249,6 +46275,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md",
         "wiki/concepts/curriculum/Regulative and Instructional Discourse.md",
         "wiki/persons/uk/Basil Bernstein.md"
       ],
@@ -75512,7 +75539,9 @@
         "Dignath et al., 2008"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/learning-science-cognitive-science/Learning Strategies.md"
+      ],
       "title": "How can primary school students learn self-regulated learning strategies most effectively?: A meta-analysis on self-regulation training programmes"
     },
     "Dignath et al., 2022": {
@@ -119183,6 +119212,21 @@
       ],
       "title": ""
     },
+    "John Creswell, 2007": {
+      "aliases": [
+        "John Creswell, 2007",
+        "John Creswell (2007)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "John Creswell, 2007"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
+      ],
+      "title": ""
+    },
     "John Dewey, 1922": {
       "aliases": [
         "John Dewey, 1922",
@@ -138407,6 +138451,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/research-methodology/Research Ethics.md"
+      ],
+      "title": ""
+    },
+    "Linda Elder, 2005": {
+      "aliases": [
+        "Linda Elder, 2005",
+        "Linda Elder (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Linda Elder, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
       ],
       "title": ""
     },
@@ -172123,6 +172182,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/competency-and-assessment/Self-Efficacy.md"
+      ],
+      "title": ""
+    },
+    "Pintrich et al., 1991": {
+      "aliases": [
+        "Pintrich et al., 1991",
+        "Pintrich et al. (1991)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Pintrich et al., 1991"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/learning-science-cognitive-science/Learning Strategies.md"
       ],
       "title": ""
     },
@@ -219494,6 +219568,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Volmari_2025_CE.md"
+      ],
+      "title": ""
+    },
+    "Weinstein & Mayer, 1986": {
+      "aliases": [
+        "Weinstein & Mayer, 1986",
+        "Weinstein & Mayer (1986)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Weinstein & Mayer, 1986"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/learning-science-cognitive-science/Learning Strategies.md"
       ],
       "title": ""
     },

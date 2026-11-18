@@ -2,14 +2,16 @@
 summary: "Lim and Apple (2015) 采用比较案例研究设计，运用伯恩斯坦教学代码理论对比新加坡主流邻里中学与顶尖独立精英高中的批判性思维课程，揭示课程形态（分类与框架）而非显性内容构成了精英再生产的核心中介：主流学校将思维技能融入常规学科（弱分类、强框架），依托工具理性培养适应劳动力市场的世俗知识工人；精英学校开设四年制独立哲学课程（强分类、弱框架），依托自恋理性涵育反思自主的神圣身份与领导阶层意识，使阶层特权在唯才是用制话语下被系统性误认为中立的个人才能。"
 type: argument
 authors:
-  - "Leonel Lim"
-  - "Michael W. Apple"
+  - "Lim, L."
+  - "[[Michael W. Apple|Apple, M. W.]]"
 source_language: en
 citation: "Lim, L., & Apple, M. W. (2015). Elite rationalities and curricular form: “Meritorious” class reproduction in the elite thinking curriculum in Singapore. Curriculum Inquiry, 45(5), 472–490. https://doi.org/10.1080/03626784.2015.1095622"
 year: 2015
 doi: "10.1080/03626784.2015.1095622"
+citation_aliases:
+  - "Lim & Apple, 2015"
+  - "Lim and Apple (2015)"
 isbn: ""
-citation_aliases: []
 tags:
   - theme/curriculum
   - theme/critical-thinking
@@ -21,25 +23,17 @@ tags:
 related_concepts:
   - "[[Curricular Form]]"
   - "[[Critical Thinking]]"
-  - "[[Infusion Approach]]"
-  - "[[Immersion Approach]]"
-  - "[[Educational Meritocracy]]"
   - "[[Official Knowledge]]"
-  - "[[Cultural Capital]]"
-  - "[[Habitus]]"
-  - "[[Tracking]]"
-  - "[[Regulative and Instructional Discourse]]"
+  - "[[Infusion Approach]]"
+  - "[[Educational Meritocracy]]"
 related_theories:
   - "[[Bernstein's Theory of Pedagogic Codes]]"
-  - "[[Ennis's Curricular Typology]]"
 related_methods:
   - "[[Purposeful Sampling]]"
   - "[[Case Study]]"
   - "[[Semi-structured Interview]]"
 related_instruments: []
-related_persons:
-  - "[[Basil Bernstein]]"
-  - "[[Michael W. Apple]]"
+related_persons: []
 related_facts: []
 related_arguments: []
 sources:
@@ -54,9 +48,9 @@ title: "Argument_Lim_2015_CurricInq"
 argument_key: "Argument_Lim_2015_CurricInq"
 argument_display_title: "Elite rationalities and curricular form: “Meritorious” class reproduction in the elite thinking curriculum in Singapore"
 argument_kind: "journal-article"
-argument_related_count: 17
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 9
+argument_related_level: 0
+argument_related_stars: "☆"
 argument_related_color: "#dbeafe"
 journal: "Curriculum Inquiry"
 book_title: ""
@@ -138,14 +132,14 @@ issuing_organization: ""
 
 ---
 
-> [!claim|step] 论证步骤二　主流中学通过弱分类与强框架的学科融入模式规约出工具理性与世俗知识工人认同
+> [!claim|step] 论证步骤二　主流中学通过弱分类与强框架的学科融入模式塑造出工具理性与世俗知识工人认同
 > 主流邻里中学采用将思维技能打散融入常规科目的弱分类形态，辅以教师高度主导的强框架教学，将知识转化为外在消费性的世俗工具，塑造出顺从外部任务调遣的平民劳动者认同。
 
 > [!sub-claim] 1. 跨学科融入模式模糊了批判性思维的专门化规则并将其降格为封闭应试技能
 > 在主流学校 Valley Point Secondary，校方推行[[Infusion Approach|融入式教学]]（Infusion Approach），要求各学科教师将思维技能嵌合在既有科目中。这种模式导致思维知识的弱分类（$C^-$）：批判性思维缺乏独立的学科理论架构，被等同于一般的解题技巧或高阶应试策略，其运用高度依附于具体学科的事实细节与记忆性公式。
 
 > [!sub-claim] 2. 强框架的课堂步调与预设唯一答案在文本与学习者之间筑起清晰边界
-> 在具体课堂中，教学呈现出极强的框架控制（$F^+$）。例如在化学实验课中，教师指导沉淀反应时要求学生严格套用 $AB+CD \to AD+CB$ 的字母公式，教学互动中学生发言被严格限定在得出预设的唯一标准答案上。教师严密掌控议题的选择、时序、进度与评价准则，在知识文本与接收者之间建立起深层隔绝。知识呈现为一种外在的、可消耗的“世俗知识”（Profane Knowledge），思维被工具理性所支配，其价值仅体现在满足劳动力市场对信息处理技能的技术性需求。
+> 在具体课堂中，教学呈现出极强的框架控制（$F^+$）。例如在化学实验课中，教师指导生成不溶性盐反应时要求学生严格套用 $AB+CD \to AD+CB$ 的字母公式，教学互动中学生发言被严格限定在得出预设的唯一标准答案上。教师严密掌控议题的选择、时序、进度与评价准则，在知识文本与接收者之间建立起深层隔绝。知识呈现为一种外在的、可消耗的“世俗知识”（Profane Knowledge），思维被工具理性所支配，其价值仅体现在满足劳动力市场对信息处理技能的技术性需求。
 
 ---
 
@@ -196,7 +190,7 @@ issuing_organization: ""
 ---
 
 > [!citation-card] 伯恩斯坦论教育知识的神圣感与学科忠诚
-> 教育知识所具备的神圣感或外在崇高性，并非源自纯粹为求知而求知的求知伦理，而是源于社会化过程中对学科忠诚的建构。
+> 教育知识所具备的神圣感或外在崇高性，主要源于社会化过程中对学科忠诚的建构，超越了单纯为求知而求知的伦理设想。
 >
 > *As Bernstein (1977, p. 96) reminds us, a “sense of the sacred, the ‘otherness’ of educational knowledge … does not arise so much out of an ethic of knowledge for its own sake, but is more a function of socialization into subject loyalty.”*
 

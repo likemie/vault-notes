@@ -8,7 +8,7 @@ aliases:
 summary: "在常规学科教学中引导学生深入探究学科问题，但不显性讲授通用批判性思维规则与元认知准则的隐性渗透式课程模式"
 type: concept
 domain: "curriculum"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -37,10 +37,11 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Abrami_2015_RER]]"
+  - "[[Argument_Lim_2015_CurricInq]]"
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-22
+updated: 2026-11-18
 ---
 
 ---
@@ -70,7 +71,7 @@ updated: 2026-10-22
 > [!warning] 沉浸模式的三大方法论缺陷
 > 1. **“自发领悟”假设落空** 认知心理学表明，深层思维策略（如识别隐含假设、多源证据交叉验证）极其抽象，若无显性指导，绝大多数初学者无法自发从具体学科细节中提炼出通用的思维策略。
 > 2. **认知负荷过载** 在高难度的学科探究中，学生的有限[[Working Memory\|工作记忆]]被学科特定事实与计算占满，难以同时兼顾对思维过程本身的[[Metacognition\|元认知]]监控。
-> 3. **迁移壁垒** 由于学生未能在脑海中将“思维方法”与“特定学科事实”解耦，在历史课上学会的史料批判极难自发迁移到科学实验或日常社会新闻甄别中。
+> 3. **迁移壁垒** 由于学生未能在脑海中将“思维方法”与“特定学科事实”有效分离，在历史课上学会的史料批判极难自发迁移到科学实验或日常社会新闻甄别中。
 
 ---
 
@@ -88,5 +89,6 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 综合 341 项实验实证，证明隐性沉浸模式在[[Critical Thinking\|批判性思维]]培养中的局限性。
+> - [[Argument_Lim_2015_CurricInq|Lim and Apple (2015)]] — 考察新加坡顶尖精英高中的哲学沉浸式思维课程，揭示强分类与弱框架的沉浸形态促使学生内化反思性思维品质并建构神圣精英认同。
 > - [[Ennis's Curricular Typology]] — 系统阐释 Ennis 课程模式四分法的理论脉络。
 > - [[Infusion Approach]] — 阐明通过显性化改造将沉浸模式升级为融入模式的操作路径。

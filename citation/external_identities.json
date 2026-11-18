@@ -10603,6 +10603,15 @@
       ],
       "title": ""
     },
+    "Bernstein, 1977": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md",
+        "wiki/concepts/curriculum/Curricular Form.md"
+      ],
+      "title": ""
+    },
     "Bernstein, 1983": {
       "doi": "",
       "isbn": "",
@@ -10624,6 +10633,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md",
         "wiki/concepts/curriculum/Regulative and Instructional Discourse.md",
         "wiki/persons/uk/Basil Bernstein.md"
       ],
@@ -28208,7 +28218,9 @@
       ],
       "doi": "",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/learning-science-cognitive-science/Learning Strategies.md"
+      ],
       "title": "How can primary school students learn self-regulated learning strategies most effectively?: A meta-analysis on self-regulation training programmes"
     },
     "Dignath et al., 2022": {
@@ -54420,6 +54432,14 @@
       ],
       "title": ""
     },
+    "John Creswell, 2007": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
+      ],
+      "title": ""
+    },
     "John Dewey, 1922": {
       "doi": "",
       "isbn": "",
@@ -66156,6 +66176,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/research-methodology/Research Ethics.md"
+      ],
+      "title": ""
+    },
+    "Linda Elder, 2005": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
       ],
       "title": ""
     },
@@ -86435,6 +86463,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/competency-and-assessment/Self-Efficacy.md"
+      ],
+      "title": ""
+    },
+    "Pintrich et al., 1991": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/learning-science-cognitive-science/Learning Strategies.md"
       ],
       "title": ""
     },
@@ -115038,6 +115074,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Volmari_2025_CE.md"
+      ],
+      "title": ""
+    },
+    "Weinstein & Mayer, 1986": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/learning-science-cognitive-science/Learning Strategies.md"
       ],
       "title": ""
     },
