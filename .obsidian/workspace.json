@@ -113,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -329,8 +329,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "96c685dea1ff308e",
+  "active": "dcfc1210476513af",
   "lastOpenFiles": [
+    "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/ireader-work-access-master-plan-v4.md",
+    "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md",
     "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/ireader-work-access-master-plan-v3.md",
     "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md",
     "raw/lim2013.pdf",
@@ -365,8 +367,6 @@
     "wiki/persons/australia/David Hogan.md",
     "wiki/persons/china/Zongyi Deng.md",
     "wiki/persons/singapore/Saravanan Gopinathan.md",
-    "output/related-updates/Argument_Hogan_2013_ROE-e3def70d/batch-016/prompt.md",
-    "output/related-updates/Argument_Hogan_2013_ROE-e3def70d/batch-015/prompt.md",
     "sources/Hogan_2013_ROE/figures/Hogan_2013_ROE_Fig11_Integrated_SEM_English.jpg",
     "sources/Hogan_2013_ROE/figures/Hogan_2013_ROE_Fig10_Integrated_SEM_Math.jpg",
     "sources/Hogan_2013_ROE/figures/Hogan_2013_ROE_Fig9_Task_Agency_KB.jpg",
