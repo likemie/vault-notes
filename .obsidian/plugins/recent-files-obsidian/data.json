@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Binary Logistic Regression",
+      "path": "wiki/methods/quantitative/Binary Logistic Regression.md"
+    },
+    {
+      "basename": "ireader-reusable-components",
+      "path": "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/ireader-reusable-components.md"
+    },
+    {
       "basename": "Visible Learning Branding and Global Influences",
       "path": "wiki/facts/new-zealand/Visible Learning Branding and Global Influences.md"
     },
@@ -133,10 +141,6 @@
       "path": "wiki/templates/template-argument-monograph.md"
     },
     {
-      "basename": "Binary Logistic Regression",
-      "path": "wiki/methods/quantitative/Binary Logistic Regression.md"
-    },
-    {
       "basename": "Veil of Maya",
       "path": "wiki/concepts/educational-philosophy/Veil of Maya.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Study Abroad",
       "path": "wiki/concepts/educational-technology/Study Abroad.md"
-    },
-    {
-      "basename": "Extracurricular Activities",
-      "path": "wiki/concepts/educational-technology/Extracurricular Activities.md"
     }
   ],
   "omittedPaths": [],
