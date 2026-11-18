@@ -103,6 +103,7 @@ updated: 2026-11-19
 > - **2018 — 多元世界转向** [[Arturo Escobar|阿图罗·埃斯科瓦尔]]（Arturo Escobar）出版 *Designs for the Pluriverse*，将去殖民视角从认识论批判深化至[[Ontology|本体论]]设计，倡导容纳多元世界（Pluriverse）的共生格局。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|(Parreira do Amaral, 2022, pp. 38–39)]]
 > - **2022 — 新知识地缘政治综合与高等教育批判** [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] 将去殖民脉络与批判地缘政治学整合成“新知识地缘政治”分析框架，剖析全球高等教育中创新[[Discourse|话语]]的认识论暴力与学科等级；[[Argument_Partaken_2022_Springer|Partaken (2022)]] 则提出内部批评，主张去殖民研究应突破单一的知识生产视角，转向涵盖挪用、监视、审查与破坏的[[Knowledge Transfer|知识转移]]分析。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|(Parreira do Amaral, 2022, pp. 39–42)]]; [[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 74–75)]]
 > - **2026 — 全球教育治理与危机话语去殖民解构** [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] 将去殖民理论与[[Crisis Epistemology|危机认识论]]结合，揭示[[World Bank|世界银行]]、[[UNESCO|联合国教科文组织]]等机构构造的“[[Learning Crisis|全球学习危机]]”话语如何掩盖殖民掠夺历史与地缘经济不平等，剖析外部援助中的[[White Saviour Mentality|白人救世主心态]]与家长制技术干预对受援国教育主权与本土教学生态的侵蚀。[[Argument_Santos_Silova_2026_Discourse|(Santos & Silova, 2026, pp. 669–681)]]
+> - **2026 — 东南亚双重新殖民解构与本土哲学多元世界实践** [[Argument_Indrarajah_2026_NJCIE|Indrarajah (2026)]] 运用认识论去殖民化框架透视东南亚高教中欧美与东亚新殖民势力的双重渗透，驳斥将去殖民贬为西方文化战的保守论调，依托马来和乐福祉（[[Sejahtera]]）、巴布亚社会生态学与菲律宾同胞共享（[[Kapwa]]）三大原住民哲学重塑东盟方式，将多元世界构想具象化为区域教育治理中资源再分配与本土人才内生循环的制度支柱（pp. 4–15）。
 
 ---
 

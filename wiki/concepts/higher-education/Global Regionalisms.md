@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-07
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -190,6 +190,7 @@ updated: 2026-11-15
 > - **2016 年 — 罗伯逊团队确立教育建构世界区域的认识论框架** 苏珊·罗伯逊团队（Robertson et al., 2016）系统论证高等教育政策是国家主动想象、划定地理边界与中介社会关系的关键力量，完成了从“区域对教育的影响”向“教育生产世界区域”的学术转向。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|(Parreira do Amaral, 2022, p. 41)]]
 > - **2017 年 — 部门跨区域比较确立与博洛尼亚扩散论证伪** 周孟萱与拉维内（[[Argument_Chou_2017_PolSoc|Chou & Ravinet, 2017]]）提出以高等教育政策部门为分析单位的比较区域主义路径，实证证伪了欧洲单向扩散假说，提炼出欧洲“旗舰模式”与东南亚“多轨竞逐模式”的制度类型学。
 > - **2020 年代至今 — 知识地缘政治回潮与使命导向科研规训** 伴随全球地缘大国博弈加剧，区域治理转向以“地平线欧洲”为代表的使命导向资助体系；高等教育与学术研究被深度卷入抗衡性地缘知识网络，规制区域主义对学术自主性构成了持续挑战。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|(Parreira do Amaral, 2022, pp. 42–43)]]
+> - **2026 年 — 东南亚高教区域主义的认识论去殖民重塑** [[Argument_Indrarajah_2026_NJCIE|Indrarajah (2026)]] 批判传统东盟高教区域主义消极不干涉导致的碎片化与对欧美、东亚双重新殖民依附，提出融合 Sejahtera、巴布亚社会生态学与 Kapwa 等本土哲学，以资源再分配与内生人才循环重构去殖民高教区域主义认同（pp. 4–15）。
 
 ---
 
@@ -220,3 +221,4 @@ updated: 2026-11-15
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] — 基于话语制度主义框架与两地 53 场深度访谈，跨区域比较欧洲与东南亚高等教育合作演进，确立欧洲旗舰模式与东南亚竞逐模式，实证证伪博洛尼亚单向扩散论，并倡导以政策部门为分析单位的比较区域主义进路。
 > - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] — 结合罗伯逊团队理论，系统阐述高等教育全球区域主义的认识论转向、知识地缘政治格局，并解构“地平线欧洲”使命导向科研资助下的学科层级化与工具化异化。
+> - [[Argument_Indrarajah_2026_NJCIE|Indrarajah (2026)]] — 从认识论去殖民化视角反思东南亚高等教育区域主义的传统东盟方式，提出依托三大本土哲学重构去殖民高教区域主义认同，推进跨国资源再分配与本土人才内生循环（pp. 4–15）。
