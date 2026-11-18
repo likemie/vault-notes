@@ -10906,6 +10906,17 @@
     ]
   },
   {
+    "title": "Higher Education Access",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Higher Education Access.md",
+    "aliases": [
+      "高等教育机会获得",
+      "高等教育准入",
+      "高等教育入学机会",
+      "HE Access"
+    ]
+  },
+  {
     "title": "Horizontal Stratification in Higher Education",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Horizontal Stratification in Higher Education.md",
@@ -29221,6 +29232,15 @@
     ]
   },
   {
+    "title": "Linear Probability Model",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Linear Probability Model.md",
+    "aliases": [
+      "线性概率模型",
+      "LPM"
+    ]
+  },
+  {
     "title": "LISA Spatiotemporal Transition",
     "type": "method",
     "path": "wiki/methods/quantitative/LISA Spatiotemporal Transition.md",
@@ -44727,6 +44747,17 @@
     "subtype": "program"
   },
   {
+    "title": "Demographic and Health Surveys",
+    "type": "fact",
+    "path": "wiki/facts/global/Demographic and Health Surveys.md",
+    "aliases": [
+      "DHS",
+      "人口与健康调查",
+      "USAID DHS"
+    ],
+    "subtype": "program"
+  },
+  {
     "title": "Dimensions",
     "type": "fact",
     "path": "wiki/facts/global/Dimensions.md",
@@ -55280,6 +55311,11 @@
     "title": "Argument_Lin_2023_SciData",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Scientific Data/Argument_Lin_2023_SciData.md"
+  },
+  {
+    "title": "Argument_Phyo_2025_SocSci",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
   },
   {
     "title": "Argument_Downey_2016_SoE",

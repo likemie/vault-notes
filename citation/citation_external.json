@@ -2191,6 +2191,7 @@
     "Bell (2004b)": "Bell, 2004b",
     "Bell (2008)": "Bell, 2008",
     "Bell (2015)": "Bell, 2015",
+    "Bell (2018)": "Bell, 2018",
     "Bell et al. (2002)": "Bell et al., 2002",
     "Bell et al. (2010)": "Bell et al., 2010",
     "Bell et al., 2002": "Bell et al., 2002",
@@ -2204,6 +2205,7 @@
     "Bell, 2004b": "Bell, 2004b",
     "Bell, 2008": "Bell, 2008",
     "Bell, 2015": "Bell, 2015",
+    "Bell, 2018": "Bell, 2018",
     "Bellah (1967)": "Bellah, 1967",
     "Bellah, 1967": "Bellah, 1967",
     "Bellamy et al. (2013)": "Bellamy et al., 2013",
@@ -19146,10 +19148,12 @@
     "Parsons & Burkey, 2011": "Parsons & Burkey, 2011",
     "Parsons (1947)": "Parsons, 1947",
     "Parsons (1951)": "Parsons, 1951",
+    "Parsons (1964)": "Parsons, 1964",
     "Parsons (1991)": "Parsons, 1991",
     "Parsons (1992)": "Parsons, 1992",
     "Parsons, 1947": "Parsons, 1947",
     "Parsons, 1951": "Parsons, 1951",
+    "Parsons, 1964": "Parsons, 1964",
     "Parsons, 1991": "Parsons, 1991",
     "Parsons, 1992": "Parsons, 1992",
     "Partanen (2015)": "Partanen, 2015",
@@ -20292,6 +20296,8 @@
     "Raffe et al. (1989)": "Raffe et al., 1989",
     "Raffe et al., 1989": "Raffe et al., 1989",
     "Raffe, 2011": "Raffe, 2011",
+    "Raftery & Hout (1993)": "Raftery & Hout, 1993",
+    "Raftery & Hout, 1993": "Raftery & Hout, 1993",
     "Ragin (2000)": "Ragin, 2000",
     "Ragin, 2000": "Ragin, 2000",
     "Ragnar Nurkse (1953)": "Ragnar Nurkse, 1953",
@@ -24290,6 +24296,8 @@
     "Szumski et al., 2017": "Szumski et al., 2017",
     "Sáenz et al. (2005)": "Sáenz et al., 2005",
     "Sáenz et al., 2005": "Sáenz et al., 2005",
+    "Sánchez & Singh (2018)": "Sánchez & Singh, 2018",
+    "Sánchez & Singh, 2018": "Sánchez & Singh, 2018",
     "Sánchez-Meca et al. (2003)": "Sánchez-Meca et al., 2003",
     "Sánchez-Meca et al., 2003": "Sánchez-Meca et al., 2003",
     "Sánchez‐López (2019)": "Sánchez‐López, 2019",
@@ -44701,6 +44709,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "An investigation of the impact of a flipped classroom instructional approach on high school students' content knowledge and attitudes toward the learning environment"
+    },
+    "Bell, 2018": {
+      "aliases": [
+        "Bell, 2018",
+        "Bell (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bell, 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+      ],
+      "title": ""
     },
     "Bellah, 1967": {
       "aliases": [
@@ -141723,6 +141746,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md",
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md",
         "wiki/concepts/sociology-of-education/Credential Inflation.md"
       ],
       "title": ""
@@ -168262,6 +168286,21 @@
       ],
       "title": ""
     },
+    "Parsons, 1964": {
+      "aliases": [
+        "Parsons, 1964",
+        "Parsons (1964)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Parsons, 1964"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+      ],
+      "title": ""
+    },
     "Parsons, 1991": {
       "aliases": [
         "Parsons, 1991",
@@ -176728,6 +176767,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/comparative-education/Policy Learning.md"
+      ],
+      "title": ""
+    },
+    "Raftery & Hout, 1993": {
+      "aliases": [
+        "Raftery & Hout, 1993",
+        "Raftery & Hout (1993)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Raftery & Hout, 1993"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
       "title": ""
     },
@@ -205788,6 +205842,21 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Review of Educational Research/Argument_Wadhwa_2024_RER.md",
         "wiki/facts/us/Peer-Assisted Learning Strategies.md"
+      ],
+      "title": ""
+    },
+    "Sánchez & Singh, 2018": {
+      "aliases": [
+        "Sánchez & Singh, 2018",
+        "Sánchez & Singh (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Sánchez & Singh, 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
       "title": ""
     },

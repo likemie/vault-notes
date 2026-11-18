@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -134,7 +134,7 @@ updated: 2026-11-11
 > > - **UNICEF 治理回应** 坚称 MICS 始终坚持与国家统计局共同拥有版权，调查过程本身已成为全球南方本土统计官员最重要的数据实战熔炉。
 
 > [!lessons] 经验教训与启示
-> - **实施教训** 单纯收集庞大的家庭描述性数据若缺乏国家政策转化通道，容易导致数据沉淀为学术档案而无法及时转化为具体的民生立法干预。
+> - **实施教训** 单纯收集庞大的家庭描述性数据若缺乏国家政策转化通道，容易导致数据仅停留在学术档案层面而无法及时转化为具体的民生立法干预。
 > - **对未来改革的启示** 促使儿童基金会与[[UNESCO\|教科文组织]]、世行于 2021 年联手推进[[Learning Data Compact\|学习数据契约]]，推动微观家庭数据与宏观学校评价数据的全面打通与政策赋权。
 
 ---
@@ -148,3 +148,9 @@ updated: 2026-11-11
 > | [[World Bank]] | 事实 (机构) | 与 UNICEF 联合推进[[Learning Data Compact\|学习数据契约]]以整合宏微观教育数据的开发中枢。 |
 > | [[Learning Data Compact]] | 事实 (项目) | MICS 作为家庭微观数据基石深度参与其中的全球学习数据联盟。 |
 > | [[UN Sustainable Development Goals]] | 事实 (政策) | MICS 服务于其儿童受教育权与公平指标核验的核心全球政策目标。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024, pp. 544–545)]] — 论述联合国儿童基金会以 MICS 微观家庭调查为工具参与全球教育治理的知识中介路径。
+> - [[Argument_Phyo_2025_SocSci|Phyo and Ilie (2025)]] — 结合 MICS 与 DHS 微观调查数据对老挝、越南与泰国等国高等教育获得的多维不平等进行跨期建模。

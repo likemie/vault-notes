@@ -32,7 +32,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-17
-updated: 2026-11-17
+updated: 2026-11-19
 ---
 
 ---
@@ -59,6 +59,7 @@ updated: 2026-11-17
 > - **2001 年 — 质性区隔视角拓展（EMI）** Samuel R. Lucas 提出[[Effectively Maintained Inequality|有效维持的不平等（EMI）假说]]，指出 MMI 仅刻画了数量获得的饱和逻辑，而一旦数量饱和达成，优势阶层将转向教育内部的“质量区隔”（学校层级、学科专业与分轨）。
 > - **2006 年 — 理论边界深化与比较** Michael Hout 发表专题研究，系统辨析 MMI 与 EMI 的解释分工，强调 MMI 适用于解释大众化初期的门槛跨越与数量垄断机制。
 > - **2023 年 — 中国高校扩招背景下的本土应用** [[Yajun Zheng|郑雅君]]在《金榜题名之后》中将 MMI 与 EMI 引入当代中国高等教育大众化语境，分析大学扩招导致文凭通胀后，重点高校与优势出路竞争机制的演变历程。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(郑雅君, 2023, p. 75)]]
+- **2025 年 — 东南亚跨国实证检验与交叉性拓展** Lin Wai Phyo 与 Sonia Ilie 基于东南亚八国微观调查数据，证实半个世纪的高等教育扩张伴随着贫富入学鸿沟的显著扩大，MMI 假说在发展中国家高教大众化进程中得到系统验证。[[Argument_Phyo_2025_SocSci|(Phyo & Ilie, 2025, pp. 10–13)]]
 
 ---
 
@@ -102,3 +103,4 @@ updated: 2026-11-17
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian_Ch01|Zheng (2023, p. 75)]] — 结合 EMI 与 MMI 剖析高校扩招对中国阶层教育竞争重心的转移影响。
+> - [[Argument_Phyo_2025_SocSci|Phyo and Ilie (2025)]] — 基于东南亚八国出生队列微观数据检验高等教育扩张下贫富阶层入学差距持续扩大的 MMI 效应。
