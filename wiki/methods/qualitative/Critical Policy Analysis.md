@@ -169,6 +169,7 @@ updated: 2026-11-18
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Lim_2013_APJE|Lim (2013)]] — 运用批判性政策分析透视新加坡小学教育审查与实施委员会（PERI）政策文本，揭示初等教育均等化投入修辞如何掩盖精英主义分流结构与拓宽才能定义后的阶层特权再生产（pp. 1–14）。
 > - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 运用批判性政策分析透视新加坡能力驱动与自主[[School Choice|择校]]课改修辞，揭示直通车计划与顶尖独立学校等去中心化举措实质服务于强[[Developmental State|发展型国家]]对高附加值全球资本的吸纳与认知精英再生产，剖析机会均等表象下的阶级优势巩固机制（pp. 60–64）。
 > - [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] — 运用批判性政策分析系统剖析美国《[[Reading Excellence Act|卓越阅读法案]]》立法演进，揭示[[Pluralism|多元主义]]、[[Neocorporatism|法团主义]]、次政府与[[Elite Theory|精英理论]]对[[Evidence Standards|证据标准]]的法定重塑（pp. 11–14）。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 综合运用批判性政策分析、计量文本法医解构与[[Ideology Critique|意识形态批判]]，解构新西兰 [[Visible Learning]] 品牌的政商旋转门资本化、[[Neo-Taylorism|新泰勒主义]]教师监控及[[Global Education Reform Movement|全球教育改革运动]]紧缩议程（pp. 23–36）。

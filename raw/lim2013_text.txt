@@ -1,0 +1,775 @@
+=== PAGE 1 ===
+This article was downloaded by: [Michigan State University]
+On: 06 March 2015, At: 19:25
+Publisher: Routledge
+Informa Ltd Registered in England and Wales Registered Number: 1072954 Registered
+office: Mortimer House, 37-41 Mortimer Street, London W1T 3JH, UK
+Asia Pacific Journal of Education
+Publication details, including instructions for authors and
+subscription information:
+http://www.tandfonline.com/loi/cape20
+Meritocracy, elitism, and egalitarianism:
+a preliminary and provisional
+assessment of Singapore's primary
+education review
+Leonel Lim a
+a Department of Curriculum and Instruction , University of
+Wisconsin-Madison , Wisconsin , USA
+Published online: 29 Aug 2012.
+To cite this article: Leonel Lim (2013) Meritocracy, elitism, and egalitarianism: a preliminary and
+provisional assessment of Singapore's primary education review, Asia Pacific Journal of Education,
+33:1, 1-14, DOI: 10.1080/02188791.2012.711294
+To link to this article:  http://dx.doi.org/10.1080/02188791.2012.711294
+PLEASE SCROLL DOWN FOR ARTICLE
+Taylor & Francis makes every effort to ensure the accuracy of all the information (the
+“Content”) contained in the publications on our platform. However, Taylor & Francis,
+our agents, and our licensors make no representations or warranties whatsoever as to
+the accuracy, completeness, or suitability for any purpose of the Content. Any opinions
+and views expressed in this publication are the opinions and views of the authors,
+and are not the views of or endorsed by Taylor & Francis. The accuracy of the Content
+should not be relied upon and should be independently verified with primary sources
+of information. Taylor and Francis shall not be liable for any losses, actions, claims,
+proceedings, demands, costs, expenses, damages, and other liabilities whatsoever or
+howsoever caused arising directly or indirectly in connection with, in relation to or arising
+out of the use of the Content.
+This article may be used for research, teaching, and private study purposes. Any
+substantial or systematic reproduction, redistribution, reselling, loan, sub-licensing,
+systematic supply, or distribution in any form to anyone is expressly forbidden. Terms &
+Conditions of access and use can be found at http://www.tandfonline.com/page/terms-
+and-conditions
+=== PAGE 2 ===
+Meritocracy, elitism, and egalitarianism: a preliminary and
+provisional assessment of Singapore’s primary education review
+Leonel Lim*
+Department of Curriculum and Instruction, University of Wisconsin-Madison, Wisconsin, USA
+(Received 1 January 2011; ﬁnal version received 12 September 2011 )
+Meritocracy functions in Singapore as the key principle of governance and educational
+distribution. However, the concept of meritocracy itself contains a number of inherent
+contradictions, most evidently witnessed in the tension between its egalitarian and
+elitist strands. This tension is documented in the recommendations of Singapore’s
+recent primary education review, already accepted by the Ministry of Education and to
+be implemented in the coming years. This article considers these recommendations
+against the backdrop of a tentative movement towards egalitarianism in educational
+distribution. Speciﬁcally, it provides a preliminary and provisional assessment of how
+far they would go towards providing for greater educational equity and, therefore, in
+recovering the ideology of meritocracy in the nation-state.
+Keywords: educational equity; educational policy; meritocracy; primary education;
+Singapore
+Since its inception as a nation-state in 1965, the notion of meritocracy has remained a key
+principle of governance and educational distribution in Singapore (K.Y. Lee, 2000; Mauzy
+& Milne, 2002; J. Tan, 2008a). Through a highly competitive education system culminating
+in “bonded” government scholarships, top positions in the civil service administration and
+political leadership are staffed by individuals with demonstrated track records of merit
+(Barr & Skrbis, 2008). However, the concept and practice of meritocracy contains a number
+of inherent contradictions, most evidently witnessed in the tension between its egalitarian
+and elitist strands (C. Tan, 2008; J. Tan, 2008a; K.P. Tan, 2008). As early as 1978, for
+example, the Report on the Ministry of Education, by targeting such phenomena as the
+“failure to achieve the expected standards, premature school leaving, repetition of grades,
+and unemployable school leavers” (as cited in Barr & Skrbis, 2008, p. 84), sought to ensure
+that the education system would serve to beneﬁt the lowest common denominator of
+Singapore’s society. Yet despite this assumed role of education as a crucial instrument of
+social mobility, in the decades that followed levels of educational attainment have
+persistently reﬂected class and ethnic biases. Indeed, as income gaps in Singapore continue
+to widen conspicuously, it seems inevitable that “the old consensus on meritocracy” would
+need to be reinforced by new measures “in order to contain an emerging politics of
+disillusionment and resistance” (K.P. Tan, 2008, p. 7).
+q 2013 National Institute of Education, Singapore
+*Email: leonel.lim@gmail.com
+Asia Paciﬁc Journal of Education , 2013
+Vol. 33, No. 1, 1–14, http://dx.doi.org/10.1080/02188791.2012.711294
+Downloaded by [Michigan State University] at 19:25 06 March 2015 
+
+=== PAGE 3 ===
+This article examines in depth one such measure that relates to Singapore’s educational
+policy – the recent report of the Primary Education Review and Implementation (PERI)
+committee, published in 2009 and to be implemented in the coming years. Speciﬁcally, it
+considers its recommendations against the backdrop of a tentative movement towards
+egalitarianism in educational distribution and provides a preliminary and provisional
+assessment of how far they would go towards providing for greater educational equity in
+the near future. The discussion is prefaced by an exposition of how the key tenets of
+egalitarianism and elitism constitute an inherent instability in the concept of meritocracy.
+Managing, if not giving the semblance of resolving, these tensions requires substantial
+intervention by governments that espouse a principle of meritocracy, and the section details
+such efforts in the education system by Singapore’s leaders.
+Egalitarianism and elitism in the concept of meritocracy
+Meritocracy, as the rule of merit, may be understood broadly as the rewarding of
+individual merit with social rank, job positions, higher incomes, general recognition and
+prestige, and, in the education system, greater educational resources (Jencks, 1988; K.P.
+Tan, 2008). As Swift (2003, p. 24) notes, “people with the same level of merit – IQ plus
+effort – should have the same chance of success.” Meritocracy, in its egalitarian moment,
+by focusing on “careers open to talents” (Rawls, 1971, p. 65), signals merit as the rule or
+principle that governs how limited resources and rewards in a society are to be distributed.
+This ensemble of ideas central to the concept of meritocracy, however, is potentially
+contradictory. As Satz (2007) points out, equality of opportunity here requires as well a
+principle of non-discrimination: social positions, careers and rewards should be open to all
+individuals and individuals should be selected based only on their talents and qualiﬁcations
+for the position and not their race, class, or gender. Yet, as has been demonstrated many
+times in the US and elsewhere, categories of race, gender, and class do afford unequal social
+beneﬁts, both within and outside of schools (Mills, 2008; Lareau, 2003; Pateman, 1988).
+This contradiction seems most prominent in Singapore, where the twin national beliefs
+of meritocracy and multiracialism (or non-discrimination) are simultaneously invoked to
+both emphasize the “fairness” of the socio-political system and to “explain” (away) the
+subordinate role of the large population of non-Chinese minority races who lag behind in
+areas of life such as politics, income, language dominance and education (Barr & Low,
+2005; Moore, 2000; Rahim, 1998). In such a context, meritocracy can in fact give the veneer
+of equality while simultaneously masking the real advantages and disadvantages that have
+been differentially distributed across a society (Jencks, 1988). Or worse, it can lead to the
+privatization of blame – as biological/cultural determinism (Barr, 1999) – amongst groups
+that have traditionally been underserved by society. As Rahim (1998, p. 58) puts it,
+[t]he rhetoric that Singapore is a meritocratic society where equal opportunities are available
+to all has also served to add legitimacy to the cultural deﬁcit thesis which infers that Malays
+have not been able to make it in a meritocratic society because they have not worked hard
+enough and thus have only themselves to blame.
+Indeed, to the extent that such a “charade of meritocracy” (Barr, 2006a) evacuates a
+concerted focus at a politics of difference – one that foregrounds what Fraser (1997) calls
+needs recognition and needs redistribution – the egalitarian dimension of meritocracy is
+surely threatened.
+This moves us to another understanding of meritocracy, one that is less interested in
+providing everyone with equal rights to resources, and more concerned about revealing the
+right person to manage resources (Cavanagh, 2002; Jencks, 1988; K.P. Tan, 2008). From
+2 L. Lim
+Downloaded by [Michigan State University] at 19:25 06 March 2015 
+
+=== PAGE 4 ===
+this utilitarian perspective, meritocracy functions as an efﬁcient system that sorts
+individuals for positions of leadership in order to maximize the average level of well-being
+in a society. This latter rendering of meritocracy often involves motivating individuals to
+do the best they can. Implicit is the idea that through a ﬁerce competition for educational
+resources and, later, material rewards, human talents may be developed to their potential
+(K.P. Tan, 2008).
+Given, however, the ways in which the economic and cultural capital of one generation
+may be converted into the educational capital of the next (Bourdieu, 1984; Lareau, 2003),
+such a focus on efﬁciency and competition can as well displace the egalitarian aspects of
+meritocracy and lead to the legitimization of an unequal distribution of resources both
+within and beyond the education system. Indeed, the then Singapore Prime Minister Goh
+Chok Tong once warned that if social disparities and unequal rewards did not exist, those
+with initiative and skills “will lose the incentive to contribute their utmost to the economy.
+Then everyone will be poorer off. Do not begrudge them their high salaries ... for getting
+the big prizes in the free market” (as cited in Kang, 2005, p. 3).
+Thus, as pointed out by K.P. Tan (2008, p. 9), meritocracy in practice often translates
+into “an ideology of inequality”, a belief that an unequal distribution of resources will
+ultimately be beneﬁcial to the general if not entire population. In Singapore this emphasis
+on developing a small group of talented individuals who will eventually work to maximize
+the overall well-being of society clearly shows itself in the policies of the education
+system. Beginning at the primary level, for example, the Gifted Education Programme
+identiﬁes and tracks the top 1% of 9-year-olds into a special and separate academic route
+in order to “develop [in them] intellectual rigour, humane values and creativity [and] to
+prepare them for responsible leadership and service to country and society” (Ministry of
+Education, 2011a). To be sure, the socio-political rationale for such an elitist impulse
+explicitly alludes to the (putative) fact that “Singapore is a small nation with only human
+resources to rely on for its progress and prosperity. It is to the advantage of the nation that
+the gifted are helped and nurtured” (Ministry of Education, 2011a).
+At the secondary level, the Integrated Programme allows students who are “clearly
+university-bound” to enrol into programmes that bypass the standard General Certiﬁcate of
+Education Ordinary Level examinations at the end of secondary school and to proceed
+directly to the Advanced Level examinations at the end of high school (Ministry of
+Education, 2011b). Such a provision further demonstrates the elitist strand in the education
+system; schools offering the Integrated Programme, by optimizing the time freed up from
+preparing for the Ordinary Level examinations, will be able to “stretch pupils and provide
+greater breadth in the academic and non-academic curriculum” (Ministry of Education,
+2011b). And for this cre `me de la cre`me, yet another option consists in bypassing the
+Advanced Level examinations altogether, obtaining instead the more prestigious
+International Baccalaureate diploma or one from the local National University of
+Singapore High School of Mathematics and Science.
+Other measures that make clear the system’s elitist orientation include the Independent
+Schools scheme under which selected top performing (academically) schools enjoy greater
+ﬁnancial and curricular autonomy, which translate into the school-based development of
+niche programmes that heightens the prestige of the schools and their students; the families
+of schools structure that allows well-established secondary schools and junior colleges to
+provide preferential admission for students from their feeder schools, effectively making it
+more difﬁcult for students from mainstream schools to gain a place of study; and the Special
+Assistance Plan schools, where academic high-performers may enrol into schools designed
+to immerse students in Chinese culture and values, triggering concerns of ethnic
+Asia Paciﬁc Journal of Education 3
+Downloaded by [Michigan State University] at 19:25 06 March 2015 
+
+=== PAGE 5 ===
+segregation, as well as the apprehension that, in a multicultural society, these Chinese-
+cultured elites will ﬁnd difﬁculty in connecting to non-elite and non-Chinese counterparts
+in their professional and social adult lives.
+This meritocratic drive to nurture a pool of elites, however, takes place largely in the
+absence of a level playing ﬁeld and, as alluded to above, coupled with an overt principle of
+non-discrimination, obscures the fact that students in Singapore stem from different socio-
+economic backgrounds and go to school differently prepared (Barr, 2006b; Kang, 2005;
+C. Tan, 2008). As a survey conducted in 2007 by the leading national newspaper reveals,
+wealthier students from English-speaking homes predominate in the elite schools (Kwek,
+2007). Seventy-one per cent of students from these schools speak English (the major
+medium of instruction in all Singapore schools) at home while only 34% of students
+from non-elite schools do so. Even among students who speak English at home, those from
+elite schools come from families with a median monthly household income of S$7100
+(US$5900), compared to those from non-elite schools whose median family income trails
+at S$3,560. From 2001 to 2005, one third of the government’s Public Service Commission
+scholarship holders in Singapore came from families with household incomes of more than
+S$10,000 a month, while only 7% came from families with monthly household incomes of
+less than S$2000 (Lim & Kwek, 2006). Most recently, former Prime Minister Lee Kuan
+Yew has admitted that 60% of the students at Rafﬂes Institution, one of the most prestigious
+secondary schools, “have parents who are both university graduates, making them of high
+socio-economic background” with the other 40% “probably not far behind” (quoted in
+Chang, 2011a). He also acknowledged that other “brand name” schools share similar
+student proﬁles. Nearly 72% of the students at Anglo-Chinese School (Independent) have
+graduate parents; at Crescent Girls the ﬁgure is about 50%; and Victoria School 45%. These
+ﬁgures contrast sharply with those of less prestigious mainstream schools that range from
+7 to 13% (Chang, 2011b).
+As J. Tan (2008a) adds, further entangled with the problem of class-based disparities is
+that of ethnic inequalities. Data from the 2010 population census indicate that the Chinese
+are signiﬁcantly overrepresented in local universities, forming 86% of the total enrolment
+in 2010, while constituting 77% of the overall population. Malays (5.5%) and Indians
+(6.8%) are correspondingly underrepresented in tertiary institutions (Department of
+Statistics, 2011). From 1966 to 2005, of the 200 winners of Singapore’s most prestigious
+scholarship, the President’s Scholarship, only 14 (6.4%) were non-Chinese (Barr & Skrbis,
+2008). To be sure, this educational gap is already present at lower levels of schooling, only
+perpetuating itself at the tertiary level. Arguing that education in Singapore is “racialized”,
+Barr’s (2006b, p. 15) historical analysis of primary school English textbooks documents
+how these curricular materials have been “systemically designed [to] evoke high levels of
+racial consciousness [and] have displayed a pro-Chinese bias that has deprived non-Chinese
+children of inspiring role models”. Indeed, and in this connection, Barr & Low (2005) have
+gone further to demonstrate how, even at the pre-school level, state-supported kindergartens
+engage in a form of socialization that, by implicitly eulogizing the cultural attitudes, norms
+and values of the Chinese, estranges the Malay population. While we note that Malay and
+Indian students have made signiﬁcant improvements in educational attainment over the last
+decades, their public examination results continue to lag behind those of their Chinese
+counterparts (Ministry of Education, 2010a; see also Kang, 2005). Indeed, Lee has recently
+asserted that the Malays would never close the gap in educational attainment with the
+Indians and Chinese “because as they improve, the others also improve” (K.Y. Lee, 2011).
+1
+These divisive impacts and elitist orientations of the education system have at times
+required explicit mitigation by the Ministry of Education (MOE). In a bid to ensure that
+4 L. Lim
+Downloaded by [Michigan State University] at 19:25 06 March 2015 
+
+=== PAGE 6 ===
+students from the lower socio-economic classes would not be left behind, in the early
+1990s, the government started providing educational grants to individual students between
+the ages of 6 and 16 (now extended to 17) that could be used towards paying for
+supplemental school-based programmes, and also launched the Learning Support
+Programme that catered speciﬁcally to Primary 1 and 2 students who lacked basic literacy
+skills (J. Tan, 2006). Later in 1997 – and in the years that followed – several policies
+under the “Thinking Schools, Learning Nation” framework also aimed to contain the
+growing disparity in educational provision. Amongst others, these included the
+promulgation of an Ability-Driven Education philosophy that promised to develop
+every child’s talents and abilities to the maximum; a new National Education curriculum
+that sought to create a shared sense of nationhood and social cohesion; and the promotion
+of educational marketization and competition in schools that was to serve as a catalyst for
+greater diversity and choice in the educational system and improve overall standards for
+everyone (J. Tan & Ng, 2008). More recently, since 2004 efforts have been taken to soften
+the harshness and rigidity of the system’s tracking mechanism. These have proceeded by
+merging the different academic tracks at both the primary and secondary levels (Ministry
+of Education, 2004a, 2007a); gradually abolishing the Gifted Education Programme at the
+secondary school level so that there would be no separate track for gifted students
+2;
+encouraging greater interaction between students in the Special Assistance Plan schools
+and students of other ethnicities, as well as between students in the Gifted Education
+Programme at the primary level and their mainstream schoolmates (Ministry of Education,
+2007b, 2008a); providing more support and opportunities to students with special
+educational needs (Ministry of Education, 2007c); introducing avenues of upward
+mobility from lower prestige academic tracks to higher prestige ones (Ministry of
+Education, 2004b; 2007d); and allowing, under the Direct School Admissions exercise,
+select secondary schools (and later junior colleges and polytechnics) the autonomy to
+provide preferential admission to a predetermined percentage of students on the grounds
+of non-academic achievements (Ministry of Education, 2004c).
+The outcomes of these policies and initiatives, however, have been largely mixed. The
+National Education curriculum, for instance, continued to reﬂect the deep divisions of the
+education system by prescribing different messages for students of different academic
+groups (J. Tan, 2006); distinguishing between potential leaders and other postsecondary
+students, the former were to be imbued with “creative and imaginative capacities” in order
+for them to “forge breakthroughs in the knowledge-based economy”, while the latter were
+to be “willing to strive, take pride in work, [and] value working with others” (Ministry of
+Education, 1997, p. 2)
+3. In a way, the removal of a separate and centrally regulated gifted
+track at the secondary level was largely inconsequential in bridging the elite-mainstream
+divide; most of the gifted students graduating from primary schools were already opting
+for the elite Integrated Programme schools, and most of these schools had developed their
+own school-based gifted education programmes.
+4 And despite the overtones of fair
+equality of opportunity and a larger deﬁnition of what counts as merit that accompanied
+the philosophy of an Ability-Driven Education, much of the actual efforts that went into its
+instantiation remained focused on strengthening the infrastructure for elite education; the
+introduction of the Integrated Programme, the International Baccalaureate diploma, and
+the Direct School Admissions exercise, as well as the increase in the number of schools
+under the Independent Schools scheme and the family of schools network, have all been
+premised on such a philosophy (see, for example, C. Tan, 2008). In this connection it is
+also worth noting that the schools offering direct admissions are mostly well-established
+schools and interested students with non-academic talents still need to score close to the
+Asia Paciﬁc Journal of Education 5
+Downloaded by [Michigan State University] at 19:25 06 March 2015 
+
+=== PAGE 7 ===
+school’s regular cut-off score to be eligible. Finally, as J. Tan (2008b, p. 28) surmises on
+reviewing the literature on educational marketization, “it is highly contestable whether
+fostering competition does improve the quality of education for all students and promote
+greater choice and diversity for parents and students” (emphasis added). Indeed, the ways
+in which the market typically responds to the demands of the middle class have been well-
+documented in the US and elsewhere (Apple, 2006; Ball, 1993; Gewirtz, Ball, & Bowe,
+1995), so much so that the possibility that the introduction of neoliberal educational
+policies in Singapore would instead reinforce the elitist strand in the system remains one
+that cannot be dismissed.
+5
+Regardless of their impact and efﬁcacy, these efforts nonetheless represent incipient
+attempts at breaking away from the education system’s long-standing history of fostering
+competition, with an emphasis on talent allocation and unequal rewards. Instead, they seem
+targeted at recovering the egalitarian strand of meritocracy, one that explicitly commits
+itself to the establishment of an “education system [that] provides equal opportunities for
+each student to learn and achieve his or her potential” (Wong, 2000). Yet, as the
+stratiﬁcation of educational achievement along ethnic and class lines becomes increasingly
+apparent (Ministry of Education, 2010c), and as individuals’ social mobility continues to be
+indexed by their educational attainment, the piecemeal manner of their conception and
+implementation would ultimately prove insufﬁcient in engendering a common commitment
+towards meritocracy. Consequently, a more concerted effort at containing the tensions
+between egalitarianism and elitism becomes increasingly exigent. Such an effort, this
+article suggests, is most evident in the recent report of the PERI committee.
+PERI: a preliminary and provisional assessment
+The PERI committee
+6 was set up by the MOE in 2008 and tasked with exploring “how
+schools can enhance holistic learning to better prepare our pupils for the future... to strike a
+better balance between equipping our pupils with foundational knowledge and developing
+in them the skills and values that will prepare them for life” (Ministry of Education, 2008b).
+The next year, the committee responded with a list of recommendations aimed at “rais[ing]
+the quality of primary education for all children in Singapore” (Ministry of Education,
+2009a). Key features of the proposal may be broadly grouped into three categories, and are
+as follows:
+Balancing knowledge with skills and values
+. Introduce more engaging teaching methods and pedagogies through strengthening
+training of teachers in content mastery and teaching methods
+. Expose all Primary 1 and 2 pupils to sports and outdoor education and performing
+and visual arts programmes, and provide greater resources for schools to conduct
+these programmes
+. Implement forms of holistic assessment to support learning, through both training
+teachers to employ a range of assessment techniques and qualitative feedback, and
+reduce the emphasis on mid- and end-of-year summative examinations in primary
+one
+Investing in a quality teaching force
+. Provide additional manpower to schools by increasing the number of teachers and
+Allied Educators
+7, and by introducing a new team of language facilitators that
+would complement the teaching and learning of the English language
+6 L. Lim
+Downloaded by [Michigan State University] at 19:25 06 March 2015 
+
+=== PAGE 8 ===
+. Put in place all-graduate teacher recruitment and provide current non-graduate
+teachers with avenues for academic upgrading
+Enhancing infrastructure
+. Move all primary schools to single-session8 to allow more time and space to support
+students’ academic and non-academic needs
+. Provide schools with the ﬂexibility to adjust start and end times considering both the
+academic needs of their students and their transportation arrangements
+. Provide more facilities in schools to support Student Care Centres for pupils from
+disadvantaged families
+These recommendations have been accepted by the MOE and are to be implemented
+progressively in the following years (Ministry of Education, 2009b). While some of them
+connect to directions that educational policies in Singapore have in recent years been
+moving towards – such as curricular and pedagogical innovation (Ng, 2008), greater
+decentralization of school management (J. Tan, 1998), alternative forms of assessment
+(K.P. Tan, 2008) – directions that may or may not be expressly committed to greater equity,
+taken together, the egalitarian emphasis on levelling up features signiﬁcantly. Also worth
+pointing out is the extent to which these recommendations resonate with efforts in the US
+and elsewhere that seek to mitigate disparities in educational achievement by focusing
+directly at the stage of primary education, when the gap is at its smallest (V.E. Lee &
+Burkam, 2002).
+9 To be sure, and as I will show, many of them connect to the literature on
+both in- and out-of-school reforms that are principled upon providing the most beneﬁt to the
+least advantaged in society.
+The move towards all single-session primary schools, for instance, allows the
+lengthening of the school day, providing more time and space for students to master
+skills/content through after-school remediation. Teachers, being freed of their duties for
+the next session, would be able to engage in higher quality interaction with needy students
+after classes, and have access to more venues and spaces to hold such sessions. As
+documented by various studies on closing achievement gaps, increasing curricular time
+beneﬁts less advantaged students more than they do for able ones (Neuman, 2009;
+Rothstein, 2004; Thernstrom & Thernstrom, 2003). Given that many of the former come
+from working-class families that often possess the least access to educational resources
+outside of the school, keeping them in school for longer hours and having them engaged in
+meaningful academic (and non-academic) tasks provides them with a conducive learning
+environment which they might otherwise not have access to when the school day has
+ended. In this connection, the provision made to house Student Care Centres in schools
+raises the level of in-school support available to students from disadvantaged families,
+providing them with a familiar and ready source of advice in times of need.
+Providing primary schools with the discretion to determine their own start and end
+times, taking into account the educational needs of the students as well as the demographic
+proﬁle of their families and their transportation arrangements would allow schools to
+better cater to the needs of less advantaged families in two ways. First, in less afﬂuent
+neighbourhoods where parents commonly walk their young children to school (instead of
+driving, or paying for the services of a school bus), schools have the ﬂexibility to start a
+half hour later, thereby reducing the very real chances that students miss the early morning
+lessons. Second, schools in less advantaged neighbourhoods where students on average
+require more curricular time to master the skills and content would be able to lengthen the
+school day accordingly to accommodate these needs.
+Asia Paciﬁc Journal of Education 7
+Downloaded by [Michigan State University] at 19:25 06 March 2015 
+
+=== PAGE 9 ===
+The decision to recruit only graduates, or those who qualify for an undergraduate
+education also signals a clear attempt at raising and standardizing overall teacher quality.10
+As of 2008, while 55% of primary school teachers are graduates (Ministry of Education,
+2008b), it is likely that the more prestigious primary schools would nevertheless be able to
+attract and retain a greater number of these through, amongst other things, more ﬂexible
+and challenging curricula, greater teacher autonomy, social and occupational prestige. The
+move towards all-graduate recruitment thus serves to ensure a more equitable distribution
+of teacher quality.
+Providing language facilitators to ease students’ transition from their home mother
+tongue languages to English, the medium of instruction in schools, also serves to better
+prepare less advantaged children for learning. As highlighted above, in Singapore, the
+majority of working-class families do not speak English at home. As a consequence, the
+children of these families are ill-equipped to beneﬁt from the teaching and learning
+activities in their ﬁrst years of school – especially if, as Barr & Low (2005) note, a larger
+proportion of children from the minority races have not beneﬁtted from kindergarten
+education – a handicap that contributes signiﬁcantly to their placement in lower academic
+tracks in later years. By conducting before- and after-school enrichment lessons in areas
+such as story-telling and drama, language facilitators can work to complement these
+students’ acquisition and use of the English language, enabling them to beneﬁt more
+equally from the classroom instruction and interaction as compared to their counterparts
+from English-speaking families.
+While increasing the number of Allied Educators (school counsellors, special needs
+educators, and co-teachers) would, at some level, be of use to all students, those from less
+advantaged communities would, again, seem to beneﬁt more from such support. For one,
+we know that students from low-income communities are more likely to come to school
+burdened with social and emotional problems. These problems could be related to the lack
+of ﬁnancial stability at home, various forms of institutional and social discrimination,
+(their own or their parents’ or siblings’) involvement in crime, and suchlike. If left
+unattended, these issues are likely to turn the student’s attention away from matters of
+academic importance. Additionally, in the case of special educational needs, whereas
+more afﬂuent families will have the means to provide costly out-of-school learning
+support for their children’s particular needs, less advantaged families often can only rely
+on the support provided by public schools. Increasing the number of co-teachers, who in
+addition to helping out with the teaching and learning activities in the classroom also assist
+in providing pastoral care and support to students, thus constitutes a reduction in the
+student-teacher ratio. We note that the MOE has plans to reduce the ratio in primary
+schools from 21:1 to 16:1 by 2015 (Ministry of Education, 2009b). While empirical
+studies remain inconclusive as to whether reducing the student-teacher ratio improves
+overall teaching and learning processes in the classroom, there is evidence that
+academically weaker students tend to beneﬁt more than their academically stronger
+counterparts from the increased interaction and attention afforded by teachers in smaller
+classes (Rothstein, 2004).
+By recommending that all Primary 1 and 2 students be exposed to the broad areas of
+sports and outdoor education, and performing and visual arts, the PERI committee in effect
+advocates a widening of what counts as merit in the education system that goes beyond
+traditional academic success. This move to “provide opportunities for exposure to a broad
+range of activities so that children can discover their aptitudes and interests” (Ministry of
+Education, 2009a) provides more avenues for children – especially those who might
+otherwise lack the means to do so – to enjoy and experience a variety of activities, and to
+8 L. Lim
+Downloaded by [Michigan State University] at 19:25 06 March 2015 
+
+=== PAGE 10 ===
+develop their talents in these areas. To ensure that all schools would be able to provide
+these opportunities, following the PERI committee’s recommendations, the MOE will
+disburse up to S$170,000 per year to each school to engage instructors for these
+programmes, and a S$90,000 one-off sum to purchase necessary equipment and resources.
+Perhaps one of the strongest signs of a commitment to egalitarianism in the PERI
+committee’s recommendations is reﬂected in its direction for schools to move away from
+the overly strong emphasis on major summative examinations in Primary 1 and 2 as the
+dominant form of assessment. In a highly competitive education system that centres on the
+use of high-stakes examinations as a sorting mechanism for the distribution of unequal
+resources, many wealthy and middle-class families have taken to procuring key
+examination skills for their children by sending them to reputable and expensive learning
+centres, engaging private tutors, and suchlike, often as early as when the latter are in pre-
+school. As a result, these students would sit more comfortably with, and hence perform
+better in, the existing examination-oriented culture of schools, beginning at the early
+primary levels. Reducing the emphasis on such major summative examinations in Primary
+1 and 2 as the principal form of assessment then, and exploring the use of bite-sized forms of
+assessment such as, amongst other things, topical tests, regular class work, does more than
+just improve students’ conﬁdence and desire to learn, or provide more timely and regular
+feedback to parents. More signiﬁcantly, it works to level the playing ﬁeld for students from
+less advantaged backgrounds who, prior to starting formal primary education, have little
+means to access these crucial examination skills.
+Finally, the PERI committee’s recommendation that assessment rubrics should include
+richer and more holistic evaluations of students and that schools and teachers should not
+only provide feedback on students’ academic, but also non-academic performance,
+resounds with the increasing awareness in research on how non-cognitive skills contribute
+to improvements in educational attainment as well as social and emotional well-being in
+their adult lives (Carneiro & Heckman, 2003; Raver, 2004; Rothstein, 2004). Such
+research reveals that while the possession of character traits (perseverance, motivation,
+self-conﬁdence, discipline, etc.) and social skills (cooperation, conﬂict resolution, self-
+management, etc.) signiﬁcantly enable children to both enjoy and better perform in school,
+these non-cognitive skills are also found most wanting among children of low-income and
+disadvantaged communities. By requiring that evaluations of students include these
+attributes, the recommendation directs teachers’ and schools’ efforts towards making gains
+in these areas. If such initiatives translate into well-conceptualized curricular programmes
+at the school and/or classroom level, we can expect that students from less advantaged
+families, those who stand most in need of these skills, will have the most to gain.
+Future challenges
+Understood thus, the PERI report indicates a clear desire for greater equity in educational
+policy, and functions critically to recover the egalitarian strand in the government’s
+meritocratic ideology. However, just as new measures may be needed to contain a new
+“politics of disillusionment and resistance”, these will in turn open up new sites of struggle
+as different groups in society continue to press for greater egalitarian or elitist impulses and
+rework the system in ways that beneﬁt them. To the extent then, that the ability of the PERI
+recommendations to actually effect a more equitable distribution of educational resources
+remains contingent on conditions extraneous to the policies themselves, our preliminary
+assessment should remain cautious of any outright congratulatory pronouncements. In the
+remaining space I highlight how in the near future, if left unchecked some of these
+Asia Paciﬁc Journal of Education 9
+Downloaded by [Michigan State University] at 19:25 06 March 2015 
+
+=== PAGE 11 ===
+recommendations might instead serve to further instantiate the ideology of inequality,
+ultimately solidifying the elitist structure of the education system.
+First, while the decision to expose all Primary 1 and 2 students to the broad areas of
+sports education and the performing arts in order that they may be able to discover and
+hone their skills in a variety of non-academic pursuits constitutes a widening of what
+counts as merit, it is not clear that all students are equally placed to do well in these new
+arenas. To be sure, even if the MOE were able to provide similar amounts of ﬁnancial
+support to all schools to fund these non-academic programmes, it remains likely that
+middle-class parents, by possessing the time and the ﬁnancial wherewithal to enrol their
+children in such activities as exclusive sports camps, tennis lessons, and dance classes that
+engage expensive and exceedingly qualiﬁed instructors, would still be able to secure
+signiﬁcantly higher achievements for their children in these domains (Lareau, 2003).
+These parents would also be more likely to go on to use their children’s achievements in
+these extra-curricular areas to secure placements for them in elite schools through the
+Direct School Admissions exercise (discussed above), and/or to increase their chances of
+winning prestigious scholarships. Ironically then, in this case, the widening of what counts
+as merit can lead to a greater monopolization of success by select groups.
+Likewise, situating the move towards all graduate teacher recruitment amidst an
+increasingly neo-liberal educational climate characterized by school-choice impulses and
+the celebration of merit pay for teachers as a means of “sifting the wheat from the chaff”
+cautions us against the romantic assumption that all schools will thus be staffed by teachers
+of similar expertise. As schools strive to differentiate themselves from the competition, the
+calibre and credentials of their teachers ﬁgure as a crucial selling point. Schools that enjoy
+more regulatory autonomy – and in Singapore’s case, these are schools that demonstrate
+excellent academic results – will continue to possess greater means (such as offering
+higher salaries, increased professional autonomy, more ﬂexible working schedules, etc.) of
+attracting and retaining teachers with a proven and impressive track record.
+The PERI committee has also recommended that schools employ more “innovative
+and engaging pedagogies” in order to reach out to the interests of the child. Instead of
+traditional didactic forms of teacher-centred instructional processes, schools are
+encouraged to develop forms of teaching and learning that actively draw on the interests
+and abilities of students. Following Bernstein’s (1977) inﬂuential work in understanding
+the forms of transmission of educational knowledge and their differing effects on the
+larger social order, we might surmise that such a change in pedagogical emphasis replaces
+notions of adult’s time with notions of child’s time, and notions of adult’s space with
+notions of child’s space. Thus, facilitation takes over imposition in curricular strategies
+such as, amongst other things, Learning by Doing, Learning by Inquiry, Understanding by
+Design, Teaching for Understanding, all already extensively used by schools praised for
+their innovativeness (see, for example, Ng, 2008).
+While there certainly is good sense in having schools assume greater responsibility
+in effectively delivering the curriculum, yet, as Bernstein (1977) and other critical
+sociologists of education (e.g., Apple, 2006; Bourdieu, 1984; Bourdieu & Passeron, 1977)
+have demonstrated powerfully, the principles and assumptions of such child-centred
+approaches to curriculum design are fundamentally rooted in middle-class patterns of child
+socialization and interaction. When enacted in the formal curriculum, these pedagogies
+typically presuppose, amongst other things, students’ familiarity and facility with particular
+middle-class language codes, a long educational life, as well as the presence of middle-
+class mothers as both crucial agents of cultural transmission and catalysts in the educative
+process (Bernstein, 1977, 1990).
+10 L. Lim
+Downloaded by [Michigan State University] at 19:25 06 March 2015 
+
+=== PAGE 12 ===
+Perhaps of a more detrimental consequence, the theories and principles that underpin and
+render sensible these pedagogies may not be known or understood by most working-class parents
+who themselves have not enjoyed high levels of education and, as it is, can ill-afford time off from
+making ends meet. To be sure, these pedagogies contain a different theory of transmission that
+views the parents’ own informal teaching, where it occurs, or their pedagogical values, as
+irrelevant if not downright harmful. There are new reading schemes, new mathematics that
+replace arithmetic, and a focus on ways of knowing that displaces previous emphases on states of
+knowledge. As Bernstein (1977, p. 139) puts it, “[i]f the [parents are] to be helpful, [they] must be
+re-socialized or be kept out of the way.” If the former, they may well ﬁnd themselves at the mercy
+of complex psychological theories of child development. Depending on the speciﬁcities of how
+such “engaging teaching methods and pedagogies” would be implemented by the MOE and
+communicated to families then, these could possibly (intended or otherwise) add to the
+educational advantages already afforded to advantaged groups in society, leaving instead
+working-class families further removed from the instrumental and moral orders of the school.
+Together with the egalitarian promises found in the recommendations of the PERI
+report, these concerns need to occupy any longer term assessment of the consequences of
+adopting them. Our preliminary and provisional assessment suggests that, contained in the
+recommendations are very real possibilities for both greater educational equity and
+stratiﬁcation. While of course in all societies social groups with privilege and power will
+always ﬁnd ways to work (and rework) the system in order to translate these advantages to
+their children, what is noteworthy is that in the case of Singapore, the principle of
+meritocracy that underpins the education system has for a long time actively perpetuated
+the ideology of inequality, under the guise of equality.
+As globalization continues to widen the income gap in Singapore, making social
+divisions more pronounced and the lifestyles of wealthy and elite Singaporeans more
+conspicuous, and as the less advantaged in society, with greater access to alternative views
+via the Internet and other social media, are beginning to disbelieve the promises of upward
+mobility through education and are less inclined to internalize their own and their
+children’s misfortunes (K.P. Tan, 2008), a continued focus on a manifest egalitarianism in
+Singapore’s educational policy will prove indispensible in upholding the collective faith in
+meritocracy. Yet, if such efforts – as encapsulated in the recommendations of the PERI
+report – are to advance further than those of earlier reforms in concretely establishing a
+more level playing ﬁeld, the education system would also need to in the coming years
+devote an unwavering attention to how these recommendations, well-intended as they may
+be to improving the prospects of the less advantaged, when translated into policies and
+implemented on the ground might concurrently instigate the deep-seated elitist impulses of
+a social structure well used to an ethos of competition and individualized notions of merit.
+Acknowledgements
+Thanks are due to Michael Apple and Jason Tan for their very insightful comments on an earlier
+draft. The article has also beneﬁted from the careful reading of the journal’s three reviewers.
+Notes
+1. Members of Lee’s cabinet have since distanced themselves from these remarks, urging the
+public to put them – as well as Lee’s other remarks on the integration of Muslims into Singapore
+society – “in perspective” (Ibrahim, quoted in Hoe, 2011; see also Hussain, 2011).
+2. Although a separate gifted track was still in place at the Primary level. See the MOE’s Gifted
+Education Programme website at http://www.moe.gov.sg/education/programmes/gifted-educati
+on-programme/.
+Asia Paciﬁc Journal of Education 11
+Downloaded by [Michigan State University] at 19:25 06 March 2015 
+
+=== PAGE 13 ===
+3. These messages are contained in the MOE’s Desired Outcomes of Education , a document that
+establishes the goals and purposes of formal education for Singaporeans. An updated version of
+the document is now available at http://www.moe.gov.sg/education/desired-outcomes/.
+4. For the list of schools, see http://www.moe.gov.sg/education/programmes/gifted-educati
+on-programme/integrated-programmes/.
+5. See Hack (2011) who makes the case that the mentioned reforms amounted to very substantial
+and positive changes. A more in depth discussion of the impacts of these earlier reforms
+deserves separate attention elsewhere.
+6. The committee, chaired by a Senior Minister of State, comprises representatives from the public
+and private sector, including educators, academia, parents, and industry leaders. The list of
+members may be found at http://www.moe.gov.sg/media/press/2008/10/ms-grace-fu-forms
+-primary-educ.php.
+7. These include school counsellors, special needs educators, and co-teachers who work closely
+with teachers at the school and classroom level. As of 2008, there are about 600 Allied Educators
+in schools. The MOE plans to increase the number to 2,800 by 2016 (Ministry of Education,
+2008b).
+8. As of 2009, 102 out of 178 primary schools in Singapore operate on a double-session basis
+(Ministry of Education, 2010b).
+9. See also, for example, studies on Head Start and the Perry Preschool in the US.
+10. Although opportunities will remain for non-graduates who have specialized skills in select areas
+such as art, music, and mother tongue languages to join the teaching profession.
+References
+Apple, M.W. (2006). Educating the “right” way: Markets, standards, God, and inequality (2nd ed.).
+New York: Routledge.
+Ball, S.J. (1993). Education markets, choice and social class: The market as a class strategy in the
+UK and US. British Journal of Sociology of Education , 14(1), 3–19.
+Barr, M.D. (1999). Lee Kuan Yew: Race, culture and genes. Journal of Contemporary Asia , 29(2),
+145–166.
+Barr, M.D. (2006a). The charade of meritocracy. Far Eastern Economic Review , 169(8), 18–22.
+Barr, M.D. (2006b). Racialised education in Singapore. Educational Research for Policy and
+Practice, 5, 15–31.
+Barr, M.D., & Low, J. (2005). Assimilation as multiculturalism: The case of Singapore’s Malays.
+Asian Ethnicity, 6(3), 161–182.
+Barr, M.D., & Skrbis, Z. (2008). Constructing Singapore: Elitism, ethnicity and the nation-building
+project. Copenhagen: Nordic Institute of Asian Studies Press.
+Bernstein, B. (1977). Class, codes and control: Vol. 3. Towards a theory of educational transmission
+(2nd ed.). New York: Routledge.
+Bernstein, B. (1990). Class, codes and control: Vol. 4. The structuring of pedagogical discourse (2nd
+ed.). New York: Routledge.
+Bourdieu, P. (1984). Distinction: A social critique on the judgement of taste . Cambridge, MA:
+Harvard University Press.
+Bourdieu, P., & Passeron, J.C. (1977). Reproduction in education, society and culture . London:
+Sage.
+Carneiro, P., & Heckman, J.J. (2003). Human capital policy. In J.J. Heckman, A.B. Krueger, & B.M.
+Friedman (Eds.), Inequality in America: What role for human capital policies? (pp. 77–240).
+Cambridge, MA: MIT Press.
+Cavanagh, M. (2002). Against equality of opportunity . Oxford: Clarendon Press.
+Chang, R. (2011a, January 14). RI honours Minister Mentor with new award. The Straits Times ,
+p. A4.
+Chang, R. (2011b, January 25). Parents’ background the edge for students at top schools: MM. The
+Straits Times, p. A3.
+Department of Statistics (2011). Singapore census of population 2010 statistical release 1:
+Demographic characteristics, education, language and religion . Singapore: Author.
+Fraser, N. (1997). Justice interruptus: Critical reﬂections on the “postsocialist” condition . New
+York: Routledge.
+12 L. Lim
+Downloaded by [Michigan State University] at 19:25 06 March 2015 
+
+=== PAGE 14 ===
+Gewirtz, S., Ball, S.J., & Bowe, R. (1995). Markets, choice and equity in education . Buckingham:
+Open University Press.
+Hack, K. (2011). Remaking Singapore, 1990–2004: From disciplinarian development to
+bureaucratic proxy democracy. In K. Hack & J. Margolin (Eds.), Singapore from Temasek to
+the 21st century: Reinventing the global city (pp. 345–383). Singapore: National University of
+Singapore Press.
+Hoe, Y.N. (2011, January 29). MM Lee was describing “worst-case scenario”: Dr Yaacob.
+Channelnewsasia.com . Retrieved from http://www.channelnewsasia.com/stories/si
+ngaporelocalnews/view/1107702/1/.html
+Hussain, Z. (2011, January 30). Muslims have helped strengthen integration: PM. The Straits Times.
+Retrieved from http://www.straitstimes.com/BreakingNews/Singapore/Story/STIStory_630050.
+html
+Jencks, C. (1988). Whom must we treat equally for educational opportunity to be equal? Ethics, 98,
+518–533.
+Kang, T. (2005). Creating educational dreams: The intersection of ethnicity, families and schools .
+Singapore: Marshall Cavendish Academic.
+Kwek, K. (2007, May 18). Students of top schools worry more about elitism. The Straits Times ,
+p. H18.
+Lareau, A. (2003). Unequal childhoods: Class, race, and family life . Berkeley: University of
+California Press.
+Lee, K.Y. (2000). From third world to ﬁrst: The Singapore story 1965 – 2000 . Singapore: Times
+Publishing.
+Lee, K.Y. (2011). Hard truths to keep Singapore going . Singapore: Singapore Press Holdings.
+Lee, V.E., & Burkam, D.T. (2002). Inequality at the starting gate: Social background differences in
+achievement as children begin school . Washington, DC: Economic Policy Institute.
+Lim, L., & Kwek, K. (2006, June 20). Why the elite envy? The Straits Times , p. 10.
+Mauzy, D.K., & Milne, R.S. (2002). Singapore politics under the People’s Action Party. New York:
+Routledge.
+Mills, C. (2008). The racial contract . New York: Cornell University Press.
+Ministry of Education (1997). Desired outcomes of education . Singapore: Author.
+Ministry of Education (2004a). Reﬁnements to primary school streaming . Retrieved from http://
+www.moe.gov.sg/media/press/2004/pr20040318.htm
+Ministry of Education (2004b). Review of the Normal (Technical) course . Retrieved from http://
+www.moe.gov.sg/media/press/2004/pr20040929a.htm
+Ministry of Education (2004c). Greater ﬂexibility in the school admission system . Retrieved from
+http://www.moe.gov.sg/media/press/2004/pr20040317b.htm
+Ministry of Education (2007a). Special and Express courses at secondary schools to merge .
+Retrieved from http://www.moe.gov.sg/media/press/2007/pr20070803.htm
+Ministry of Education (2007b). Greater integration for pupils in the Gifted Education Programme .
+Retrieved from http://www.moe.gov.sg/media/press/2007/pr20071102.htm
+Ministry of Education (2007c). Levelling up opportunities: Raising the quality of education for
+children with special educational needs . Retrieved from http://www.moe.gov.sg/media/press/
+2007/pr20070307b.htm
+Ministry of Education (2007d). Enhancing learning experiences for students in the Normal course .
+Retrieved from http://www.moe.gov.sg/media/press/2007/pr20071002.htm
+Ministry of Education (2008a). Enhanced programmes by Special Assistance Plan schools to
+enrich students’ learning of Chinese language and values . Retrieved from http://www.moe.
+gov.sg/media/press/2008/02/enhanced-programmes-by-special.php
+Ministry of Education (2008b). Developing a new generation school team . Retrieved from http://
+www.moe.gov.sg/media/press/2008/09/developing-a-new-generation-sc.php
+Ministry of Education (2009a). Strong fundamentals for future learning . Retrieved from http://
+www.moe.gov.sg/media/press/2009/01/strong-fundamentals-for-future.php
+Ministry of Education (2009b). Government accepts recommendations on primary education .
+Retrieved from http://www.moe.gov.sg/m edia/press/2009/04/gove rnment-accepts-recomm
+endat.php
+Ministry of Education (2010a). Performance by ethnic group 2000 – 2009 . Retrieved from http://
+www.moe.gov.sg/media/press/2010/12/performance-by-ethnic-group-2000-2009.php
+Asia Paciﬁc Journal of Education 13
+Downloaded by [Michigan State University] at 19:25 06 March 2015 
+
+=== PAGE 15 ===
+Ministry of Education (2010b). FY 2010 Committee of Supply debate: 2nd reply by Senior Minister
+of State Ms Grace Fu . Retrieved from http://www.moe.gov.sg/media/speeches/2010/03/10/
+fy-2010-committee-of-supply-de-1.php
+Ministry of Education (2010c). Education Statistics Digest 2010 . Singapore: Author.
+Ministry of Education (2011a). Gifted Education Programme: Rationale and goals . Retrieved from
+http://www.moe.gov.sg/education/programmes/g ifted-education-programme/rationale-and-
+goals
+Ministry of Education (2011b). Integrated Programmes (IP). Retrieved from http://www.moe.gov.s
+g/education/secondary/other/integrated-programme
+Moore, R.Q. (2000). Multiracialism and meritocracy: Singapore’s approach to race and inequality.
+Review of Social Economy , 58(3), 339–360.
+Neuman, S.B. (2009). Changing the odds for children at risk . New York: Teachers College Press.
+Ng, P. T. (2008). Teach less, learn more: Seeking curricular and pedagogical innovation. In J. Tan &
+P. T. Ng (Eds.), Thinking schools, learning nation: Contemporary issues and challenges
+(pp. 61–71). Singapore: Prentice Hall.
+Pateman, C. (1988). The sexual contract . Stanford, CA: Stanford University Press.
+Rahim, L.Z. (1998). The Singapore dilemma: The political and educational marginality of the Malay
+community. Kuala Lumpur: Oxford University Press.
+Raver, C.C. (2004). Placing emotional self-regulation in sociocultural and socioeconomic contexts.
+Child Development, 75, 346–353.
+Rawls, J. (1971). A theory of justice . Cambridge, MA: Harvard University Press.
+Rothstein, R. (2004). Class and schools: Using social, economic, and educational reform to close the
+black-white achievement gap . New York: Teachers College Press.
+Satz, D. (2007). Equality, adequacy, and education for citizenship. Ethics, 117(July), 623–648.
+Swift, A. (2003). How not to be a hypocrite: School choice for the morally perplexed parent .
+London: Routledge.
+Tan, C. (2008). Tensions in an ability-driven education. In J. Tan & P.T. Ng (Eds.),Thinking schools,
+learning nation (pp. 7–18). Singapore: Prentice Hall.
+Tan, J. (1998). The marketisation of education in Singapore: Policies and implications.International
+Review of Education , 44(1), 47–63.
+Tan, J. (2006). Key educational policy initiatives and trends in Singapore, 1956– 2006. In C. Tan, B.
+Wong, J. Chua, & T. Kang (Eds.),Critical perspectives on education (pp. 192–211). Singapore:
+Pearson Prentice Hall.
+Tan, J. (2008a). Whither National Education? In J. Tan & P.T. Ng (Eds.),Thinking schools, learning
+nation (pp. 72–86). Singapore: Prentice Hall.
+Tan, J. (2008b). The marketisation of education in Singapore. In J. Tan & P.T. Ng (Eds.), Thinking
+schools, learning nation (pp. 19–38). Singapore: Prentice Hall.
+Tan, J., & Ng, P.T. (2008). Thinking schools, learning nation . Singapore: Prentice Hall.
+Tan, K.P. (2008). Meritocracy and elitism in a global city: Ideological shifts in Singapore.
+International Political Science Review , 29(1), 7–27.
+Thernstrom, A., & Thernstrom, S. (2003). No excuses: Closing the racial gap in learning . New
+York: Simon & Schuster Paperbacks.
+Wong, A. (2000, November 24).Keynote address by the Senior Minister of State for Education at the
+International Baccalaureate Asia Paciﬁc 16th Annual Regional Conference . Retrieved from
+http://www.moe.gov.sg/media/speeches/2000/sp24112000.htm
+14 L. Lim
+Downloaded by [Michigan State University] at 19:25 06 March 2015 
