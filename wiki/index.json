@@ -4814,7 +4814,11 @@
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Alienation.md",
     "aliases": [
-      "异化"
+      "异化",
+      "疏离",
+      "人性异化",
+      "劳动异化",
+      "Entfremdung"
     ]
   },
   {
@@ -37960,6 +37964,7 @@
     "path": "wiki/persons/us/Larry Cuban.md",
     "aliases": [
       "Cuban, L.",
+      "拉里·古巴",
       "拉里·库班"
     ]
   },

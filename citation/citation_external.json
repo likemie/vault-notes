@@ -2324,7 +2324,9 @@
     "Berg, 2003": "Berg, 2003",
     "Bergen (2009)": "Bergen, 2009",
     "Bergen, 2009": "Bergen, 2009",
+    "Berger & Hsiao (1988)": "Berger & Hsiao, 1988",
     "Berger & Hsiao (1990)": "Berger & Hsiao, 1990",
+    "Berger & Hsiao, 1988": "Berger & Hsiao, 1988",
     "Berger & Hsiao, 1990": "Berger & Hsiao, 1990",
     "Berger & Luckmann (1966)": "Berger & Luckmann, 1966",
     "Berger & Luckmann (1967)": "Berger & Luckmann, 1967",
@@ -4912,7 +4914,6 @@
     "Clarke & Dawson, 1999": "Clarke & Dawson, 1999",
     "Clarke & Thom (2011)": "Clarke & Thom, 2011",
     "Clarke & Thom, 2011": "Clarke & Thom, 2011",
-    "Clarke (1940)": "Clarke, 1940",
     "Clarke (2005)": "Clarke, 2005",
     "Clarke (2006)": "Clarke, 2006",
     "Clarke (2010)": "Clarke, 2010",
@@ -4932,7 +4933,6 @@
     "Clarke et al., 2014": "Clarke et al., 2014",
     "Clarke et al., 2015": "Clarke et al., 2015",
     "Clarke et al., 2016": "Clarke et al., 2016",
-    "Clarke, 1940": "Clarke, 1940",
     "Clarke, 2005": "Clarke, 2005",
     "Clarke, 2006": "Clarke, 2006",
     "Clarke, 2010": "Clarke, 2010",
@@ -37563,7 +37563,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md",
+        "wiki/theories/political-economy-geopolitics/Human Capital Theory.md"
       ],
       "title": "Education, skill formation and economic development: The Singaporean approach"
     },
@@ -45510,6 +45511,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26.md"
+      ],
+      "title": ""
+    },
+    "Berger & Hsiao, 1988": {
+      "aliases": [
+        "Berger & Hsiao, 1988",
+        "Berger & Hsiao (1988)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Berger & Hsiao, 1988"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/comparative-education/Dependency Theory.md"
       ],
       "title": ""
     },
@@ -64561,21 +64577,6 @@
       ],
       "title": ""
     },
-    "Clarke, 1940": {
-      "aliases": [
-        "Clarke, 1940",
-        "Clarke (1940)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Clarke, 1940"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/research-methodology/Document.md"
-      ],
-      "title": ""
-    },
     "Clarke, 2005": {
       "aliases": [
         "Clarke, 2005",
@@ -69820,7 +69821,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19.md",
-        "wiki/concepts/educational-technology/Virtual World.md"
+        "wiki/concepts/educational-technology/Virtual World.md",
+        "wiki/persons/us/Larry Cuban.md"
       ],
       "title": ""
     },
@@ -89759,7 +89761,8 @@
       ],
       "isbn": "9780862322366",
       "seen_in": [
-        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md",
+        "wiki/theories/comparative-education/Dependency Theory.md"
       ],
       "title": "Critique and anti-critique: Essays on dependence and reformism"
     },
@@ -113637,8 +113640,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Beech_2009_GlobalGarden.md",
-        "wiki/concepts/comparative-education/International Schools.md"
+        "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Beech_2009_GlobalGarden.md"
       ],
       "title": ""
     },
@@ -117490,7 +117492,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/comparative-education/Global Educational Discourse.md",
-        "wiki/concepts/comparative-education/International Schools.md",
         "wiki/concepts/comparative-education/Policy Borrowing.md",
         "wiki/concepts/educational-policy-reform/School Inspection.md",
         "wiki/concepts/higher-education/Grandes Ecoles.md"
@@ -122354,7 +122355,8 @@
       ],
       "isbn": "9781853593710",
       "seen_in": [
-        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md"
+        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md",
+        "wiki/concepts/comparative-education/Policy Translation.md"
       ],
       "title": "Language planning from practice to theory"
     },
@@ -138671,7 +138673,8 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
         "wiki/concepts/comparative-education/Policy Learning.md",
-        "wiki/concepts/educational-policy-reform/Policy Mobility.md"
+        "wiki/concepts/educational-policy-reform/Policy Mobility.md",
+        "wiki/persons/australia/Bob Lingard.md"
       ],
       "title": "Policy Borrowing, Policy Learning: Testing Times in Australian Schooling"
     },
@@ -212134,7 +212137,8 @@
         "wiki/concepts/comparative-education/Grammar of Schooling.md",
         "wiki/concepts/educational-policy-reform/Silver-Bullet Fallacy.md",
         "wiki/facts/us/Tinkering Toward Utopia 1995.md",
-        "wiki/persons/us/David Tyack.md"
+        "wiki/persons/us/David Tyack.md",
+        "wiki/persons/us/Larry Cuban.md"
       ],
       "title": "Tinkering Toward Utopia: A Century of Public School Reform"
     },

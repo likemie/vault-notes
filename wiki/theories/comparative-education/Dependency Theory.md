@@ -97,7 +97,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-06-08
-updated: 2026-11-15
+updated: 2026-11-18
 ---
 
 ---
@@ -109,7 +109,7 @@ updated: 2026-11-15
 > - **知识位置** 植根于拉丁美洲依附论经济学传统（Prebisch, Furtado, Frank, Cardoso & Faletto, dos Santos），在比较教育学中由[[Martin Carnoy|马丁·卡诺伊]]（[[Martin Carnoy]]）、[[Robert Arnove|罗伯特·阿诺夫]]（[[Robert Arnove]]）、菲利普·阿尔特巴赫（[[Philip Altbach]]）以及[[Carlos Alberto Torres|卡洛斯·阿尔贝托·托雷斯]]（[[Carlos Alberto Torres]]）与利利亚娜·埃丝特·[[Liliana Esther Olmos|奥尔莫斯]]（[[Liliana Esther Olmos]]）等学者深度拓展。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101, 104–106)]]
 
 > [!claim] 核心判断
-> 第三世界国家的欠发展并非源于现代性制度要素的匮乏，而是西方宗主国长期剥削与资本主义世界体系结构性约束的直接产物。教育系统绝非中立的技能分配器，而是中心跨国资本与外围买办[[Pact of Domination|统治同盟]]维系政治霸权、输出文化帝国主义并推行[[Compensatory Legitimation|补偿性合法化]]的核心[[Champ|场域]]。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 426–427)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 73–75)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]
+> 第三世界国家的欠发展根源于西方宗主国长期剥削与资本主义世界体系的结构性约束。教育系统作为中心跨国资本与外围买办[[Pact of Domination|统治同盟]]维系政治霸权、输出文化帝国主义并推行[[Compensatory Legitimation|补偿性合法化]]的核心[[Champ|场域]]，承担着再生产依附性权力关系的制度功能。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 426–427)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 73–75)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]
 
 > [!citation-card] 卡扎米亚斯论依附理论破除学校中立神话与第四代际范式转向
 > [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（[[Andreas Kazamias]]）指出，1970 年代兴起的马克思主义、依附理论与[[World-Systems Theory|世界体系分析]]构成了学科史第四代际。批判学者将权力、阶级剥削、意识形态霸权与不依附理论引入教育研究，彻底打破了把学校视为中立育人机构的传统幻想，指出学校既是维系阶级不平等的工具，也是大众争取平等权利的博弈场所。阿诺夫等人基于[[Immanuel Wallerstein|沃勒斯坦]]世界体系论，论证全球教育呈现出深刻的依附关系：发达中心对发展中国家形成[[Hegemony|文化霸权]]，而发展中国家的政治经济精英又在本土社会中维持对边缘群体的支配，形成了[[Transnational Education|跨国教育]]资源的层层倾斜与支配链条。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–153)]]
@@ -140,7 +140,7 @@ updated: 2026-11-15
 > |:-----|:-----|:--------------|
 > | [[Conditioned State Theory\|受限国家]] | 概念 / 机制 | 刻画外围国家双重受限于外部跨国资本积累边界与内部寡头同盟利益，无法代表公共利益的依附性国家机器。 |
 > | 中心-边缘利益联盟 | 机制 | 揭示“中心中的中心”（西方科研核心、多边机构）与“边缘中的中心”（本土买办精英）如何通过[[Policy Borrowing\|政策借用]]与文凭垄断共同剥削边缘大众。 |
-> | [[Dual School System\|外围双轨学制]] | 概念 / 结果 | 表征依附性资本积累下优质私立/高阶公立教育归精英所有、低劣公立初职教育沉淀工农的制度区隔。 |
+> | [[Dual School System\|外围双轨学制]] | 概念 / 结果 | 表征依附性资本积累下优质私立/高阶公立教育归精英所有、低质公立初职教育留给工农群体的制度区隔。 |
 > | [[Compensatory Legitimation\|补偿性合法化]] | 机制 | 说明国家在资本积累受挫与财政债务危机时，利用过度供给边际文凭与扫盲运动换取政治顺从的代偿性治理手段。 |
 > | [[Financial-Intellectual Complex\|金融-智识复合体]] | 概念 / 机构 | 揭示[[World Bank\|世界银行]]等国际金融组织将资本借贷与新自由主义私有化议程深度捆绑的跨国知识霸权垄断。 |
 > | [[Shadow State\|影子国家]] | 概念 / 机制 | 国际援助方绕过受援国政府直接资助非政府组织提供教育，使民间机构异化为缺乏公共问责的合同承包商并架空国家主权。 |
@@ -229,12 +229,19 @@ updated: 2026-11-15
 > > 批评者指出，经典依附论往往将外围[[State Simplification|国家简化]]为被动承受跨国资本宰割的受害者，在理论上抹杀了边缘本土学校、教师工会与基层社区的选择性抵抗与[[Creativity|创造性]]重构潜能。
 > >
 > > - **传统结构主义依附论** 强调资本主义世界体系对教育系统的单向塑造与剥削。
-> > - **全球与本土辩证法学者（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]; Monkman & Baird, 2002）** 论证边缘行动者绝非消极受害者；在巴布亚新几内亚乡村、印度女教师培训以及基层合作社网络中，底层行动者始终在通过文化抵制和[[Globalization from Below|自下而上的全球化]]展开生动的反抗。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–110, 113–114)]]
+> > - **全球与本土辩证法学者（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]; Monkman & Baird, 2002）** 论证边缘行动者具备积极的能动主体性；在巴布亚新几内亚乡村、印度女教师培训以及基层合作社网络中，底层行动者始终在通过文化抵制和[[Globalization from Below|自下而上的全球化]]展开生动的反抗。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–110, 113–114)]]
+>
+> > [!axis] 外围依附宿命论 vs 东亚强国家战略干预突破
+> > 争论全球资本主义世界体系中的外围去殖民化国家能否实现自主产业与教育升级。
+> >
+> > - **经典依附理论（Frank, 1984; Carnoy, 1974）** 断言全球资本分工注定将外围边缘地带锁定在初级产品供应与低工资廉价劳动力中，其教育体系仅能依附于宗主国需求。
+> > - **东亚发展型国家视角（[[Argument_Gopinathan_2007_GSE|Gopinathan, 2007]]; Berger & Hsiao, 1988）** 实证指出新加坡、韩国等东亚新兴经济体依托国家高度自主的战略规划，以教育体系精密对接产业升级阶梯，成功跨越依附陷阱，推翻了依附论的决定论预设。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 55–58)]]
 
 > [!critique] 批评索引
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 深刻指出第四代际批判学者虽揭露了教育维系不平等的阶级本质与依附结构，但在方法论上由于过度执迷于宏观当代社会学与政治经济学抽象模型，严重放逐了历史维度，促成了学科的[[Historical Amnesia|历史健忘症]]。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 批评依附论过于强调资本主义世界体系对边缘教育系统的结构性决定作用，导致边缘能动主体的杂糅与抵抗实践在理论上被过度消解。
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 指出在新自由主义全球化分散权威与多中心[[Network Governance|网络化治理]]现实下，单纯二元单向的“中心-边缘”模型难以全面涵盖跨国非政府组织与数字平台的复杂博弈。
+> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 指出经典依附理论（Frank, 1984）将外围国家永久锁定在低端分工与依附性劳动力培养的悲观假定被东亚经验推翻；新加坡等东亚后发经济体依托强发展型国家的战略干预与阶梯化技能形成，成功打破跨国资本与技术从属地位，实现从劳动密集型向高技术知识经济的产业与教育跨越（pp. 55–58）。
 
 ---
 
@@ -257,3 +264,13 @@ updated: 2026-11-15
 > | [[Liliana Esther Olmos\|莉莉安娜·埃丝特·奥尔莫斯]] | 人物 | 与托雷斯合作系统运用依附论框架剖析第三世界教育扩张畸变与全球化危机。 |
 > | [[Martin Carnoy\|马丁·卡诺伊]] | 人物 | 出版《作为文化帝国主义的教育》，开创依附论比较教育研究传统。 |
 > | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 确立依附理论在战后第四代际批判冲突范式中的核心地位，并提出历史健忘症的[[Epistemology\|认识论]]批评。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 梳理比较教育第四代际冲突范式演进，指出依附理论虽深化了阶级与依附批判，但放逐历史研究方法诱发了学科历史健忘症。
+> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合世界体系与依附论视角，批判跨国教育援助霸权，并提出全球与本土辩证法以弥合宏观结构决定论缺陷。
+> - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 批评依附论过度强调中心国结构性压迫，遮蔽了边缘行动主体的转译、杂糅与抵制能动性。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 从依附论与后殖民国家理论出发，剖析第三世界教育体系在资本积累与合法化危机下的制度扭曲。
+> - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 检验新自由主义全球化下高等教育跨国流动与多中心网络治理对依附理论二元中心-边缘范式的重构。
+> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 以东亚新兴工业化经济体（新加坡）的高速增长与技能阶梯跃升经验，实证反驳经典依附理论关于外围国家永久技术从属与低端锁定的决定论假定（pp. 55–58）。
