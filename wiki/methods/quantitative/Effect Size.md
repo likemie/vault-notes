@@ -6,7 +6,7 @@ summary: "比较不同干预或变量影响强度的标准化统计指标，被�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 90
+method_related_count: 91
 method_related_level: 9
 method_related_stars: "💎💎💎"
 method_related_color: "#dcfce7"
@@ -111,6 +111,7 @@ related_arguments:
   - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
+  - "[[Argument_Hogan_2013_ROE]]"
   - "[[Argument_Bergeron_2017_MJE]]"
 related_instruments:
   - "[[EEF Padlock Security Rating]]"
@@ -118,7 +119,7 @@ related_instruments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-11-11
+updated: 2026-11-18
 ---
 
 ---
@@ -297,7 +298,8 @@ updated: 2026-11-11
 
 ---
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Hogan_2013_ROE|Hogan et al. (2013)]] — 测度新加坡中三数学与英语课堂中四类教学策略之间的两两配对效应量（Cohen's $d = 0.03\sim 0.96$），实证揭示直接教学与共同调节学习之间高达 $d = 0.91\sim 0.96$ 的实施差距（pp. 95–96）。
 > - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 提倡将效应量直接作为学校与教师评估教学成效的通用工具，基于 100 余项[[Meta-analysis|元分析]]确立 $d=0.40$ 为判断干预增值的关节点基准，并揭示“零门槛谬误”。
 > - [[Argument_Kraft_2023_ER|Kraft (2023)]] — 基于 3,426 个教育 [[Randomised Controlled Trials|RCT]] 效应量构建经验分布，提出以实证分布与失败频率替代传统 Cohen 经验法则。
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 运用变差系数对 133 项效应量指标展开统计检验，证实二阶综合效应量极度离散（$V_\sigma = 56.87\%$），揭示未经同质性控制的宏观效应量排名无法作为普适性教育政策工具。

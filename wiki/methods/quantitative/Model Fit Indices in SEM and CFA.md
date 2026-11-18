@@ -15,7 +15,7 @@ summary: "验证性因子分析与结构方程模型中评估理论假设模型�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 12
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -45,16 +45,22 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO]]"
+  - "[[Argument_Hogan_2013_ROE]]"
 confidence: high
-status: draft
+status: active
 created: 2026-08-29
-updated: 2026-10-29
+updated: 2026-11-18
 ---
 
 ---
 
 > [!def] Model Fit Indices in SEM and CFA
 > **结构方程模型与[[Confirmatory Factor Analysis\|验证性因子分析]]拟合指数（Model Fit Indices in [[Causal Modeling\|SEM]] and CFA）** 是一套用于检验理论假设模型所蕴含的协方差矩阵 $\boldsymbol{\Sigma}(\boldsymbol{\theta})$ 与样本实际观测协方差矩阵 $\mathbf{S}$ 之间吻合程度（Goodness of Fit）的多维度量化评价体系。它弥补了传统[[Chi-Squared Test\|卡方拟合优度检验]]（$\chi^2$）对大样本过度敏感而必然拒绝正确模型的缺陷，为评估测量模型（CFA）与结构路径模型（SEM）的经验合法性提供客观决策标准。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, p. 9)]]
+
+> [!citation-card] 拟合指数对模型评价的核心功能
+> 结构方程模型与验证性因子分析拟合指数通过度量样本协方差矩阵与模型推导协方差矩阵的残差偏离，为确定潜变量测量模型和结构路径的经验适切性提供客观判定标准。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, p. 9)]]
+>
+> *Model fit indices assess the degree of congruence between the sample covariance matrix and the model-implied covariance matrix, providing objective criteria for evaluating structural and measurement models.*
 
 > [!method-scope] 方法范围
 > - **研究对象** 验证性因子分析模型（一阶、高阶或双因子结构）、路径分析模型及完全潜[[Variable\|变量]]结构方程模型。
@@ -117,6 +123,14 @@ updated: 2026-10-29
 
 ---
 
+> [!method-limits] 方法局限
+> - **样本量敏感性偏差** 卡方检验对大样本过度敏感导致易于拒绝适切模型，而部分拟合指数在小样本（$N < 200$）下产生不可靠的高变异性。
+> - **参数调整风险** 依赖修正指数（Modification Indices, MI）机械释放误差协方差，容易导致模型过度拟合并损害理论构念效度。
+> - **经验截断值适用边界** Hu and Bentler (1999) 阈值主要基于连续正态数据模拟，在类别有序变量或非正态分布下需结合情境审慎判断。
+> - **补救方式** 采用双指标联合判定策略（如 SRMR 结合 RMSEA/CFI）；依据理论逻辑调整参数；在非正态或有序类别数据中选用稳健估计量（如 MLR 或 WLSMV）。
+
+---
+
 > [!entry-map] 相关理论与方法
 >
 > | 条目 | 类型 | 关系 |
@@ -128,4 +142,5 @@ updated: 2026-10-29
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Hogan_2013_ROE|Hogan et al. (2013)]] — 运用 CFI、TLI、RMSEA 与 SRMR 拟合指标检验新加坡中三数学与英语教学策略高阶测量模型，证实四因子结构具备优良的模型拟合优度（CFI: .94–.95; RMSEA: .04）（p. 91）。
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 在独立样本（N = 258）中比较三种因子模型的拟合指数，确立教师[[Research Literacy\|研究素养]]的二阶因子结构。

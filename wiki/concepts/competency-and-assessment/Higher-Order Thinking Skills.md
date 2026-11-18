@@ -10,7 +10,7 @@ aliases:
 summary: "超越基础事实再认与机械程序算法的复杂心智加工能力，植根于布鲁姆认知目标分类学高阶层级并涵盖批判性思维、问题解决、元认知、协作与创造力"
 type: concept
 domain: "competency-and-assessment"
-related_count: 93
+related_count: 94
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -120,6 +120,7 @@ related_arguments:
   - "[[Argument_Deng_2016_CE]]"
   - "[[Argument_Gopinathan_2007_GSE]]"
   - "[[Argument_Bouckaert_2023_OECD]]"
+  - "[[Argument_Lim_2015_CurricInq]]"
 status: active
 created: 2026-08-24
 updated: 2026-11-18
@@ -286,6 +287,7 @@ updated: 2026-11-18
 > - **1980 年代 认知科学转向与思维教学运动** Resnick（1987）系统阐述“教育与学习思考”，明确高阶思维的非算法性、复杂性与自我调节属性，推动思维技能显性教学与[[Metacognition\|元认知]]研究兴起。
 > - **2001 年 [[Bloom's Taxonomy\|布鲁姆分类学]]二维修订** Anderson & Krathwohl 对分类学进行重构（知识维度 $\times$ 认知过程维度），将“创造”（Create）置于认知过程最高层级，突出[[Knowledge Production\|知识生成]]的综合性。
 > - **2010 年代 [[Computational Thinking\|计算思维]]与多维技能拓展** Korkmaz et al. (2017) 研制[[Computational Thinking Scale\|计算思维量表]]（CTS），将算法思维、[[Critical Thinking\|批判性思维]]、[[Problem Solving\|问题解决]]与[[Creativity\|创造力]]整合为可测量的技术高阶认知[[Construct\|构念]]。
+> - **2015 年 官方高阶思维倡议的阶层化课程形态分流** [[Argument_Lim_2015_CurricInq|Lim and Apple (2015)]] 揭示高阶思维政策话语在落地过程中受制于微观课程形态，在精英学校培育探究掌控理性，而在普通学校被窄化为标准化解题技术，暴露了高阶思维倡议的阶层分化与再生产机制。
 > - **2019 年 全球南方大样本课堂高阶思维观测规程与实证基准确立** [[World Bank|世界银行]]发布 Teach 工具，将高阶思维（批判性思维）[[Operationalization|操作化]]为“开放式提问—认知任务—思维阐释与论证”三阶行为锚定指标，在四国实测中揭示了高阶思维在发展中国家基础教育课堂中处于得分最低的结构性洼地。[[Argument_WorldBank_2019_Teach\|(World Bank Group, 2019)]]
 > - **2020 年代 21世纪[[21st Century Skills and Competencies Discourse\|核心素养]]与二阶证据确证** [[Meta-meta-analysis\|二阶元分析]]相继证实[[Constructivist Paradigm\|建构主义]][[Cooperative Learning\|合作学习]]（$ES = 0.76$）与人工智能技术支架（$ES = 0.63$）对高阶思维的显著促进效应，确立了宏观证据基准。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026)]]; [[Argument_Unal_2026_JECR\|(Ünal et al., 2026)]]
 > - **2025 年 认知加工深度级差与算法心智适配模型确立** [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] 揭示技术效应从表层语言向高阶思维及元认知单调递减规律（$g^+ = 0.580 \to 0.078$）；[[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] 综合 29 项实验确立生成式 AI 促进高阶思维总体中等偏大基准（$g = 0.609$），解构出“问题解决（$0.745$）$>$ 批判性思维（$0.691$）$>$ 创造力（$0.444$）”的结构性级差，并揭示[[Self-Regulated Learning\|自主调节学习]]能力（$Q_b = 40.962$）与 8–16 周倒 U 型周期对抵御[[Cognitive Offloading\|认知外包]]的决定性边界。
@@ -398,6 +400,7 @@ updated: 2026-11-18
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 考察新加坡高表现教育系统中高阶思维改革的制度悖论，揭示“思考型学校”政策下批判与创造性思维倡导与国家高利害考试制度之间的张力，及其催生的[[Hybrid Pedagogy|混合教学形态]]。
+> - [[Argument_Lim_2015_CurricInq|Lim and Apple (2015)]] — 揭示官方高阶思维技能普及倡议在微观实施中的阶层化分异，精英学校与普通学校的课程形态差异导致高阶思维被重构为截然不同的阶层知识理性与社会认同。
 > - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 阐明新加坡在[[Knowledge-Based Economy|知识经济]]转型中由效率驱动转向能力驱动的政策动因，分析国家如何通过削减课程内容与推行“思考型学校”倡议为培育高阶思维拓展空间，并揭示其与传统应试惯性之间的体制博弈（pp. 58–61）。
 > - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — [[Meta-analysis|元分析]] 29 项实验证实生成式 AI 促进高阶思维总体效应（$g = 0.609$），解构出[[Problem Solving|问题解决]] $>$ 批判思维 $>$ [[Creativity|创造力]]的效应梯度与[[Self-Regulated Learning|自主调节学习]]的显著调节。
 > - [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] — [[Meta-analysis\|元分析]] 57 项[[Experimental Research\|实验研究]]中生成式 AI 对大学生高阶思维（HOT）的促进效应（$g^+ = 0.580$），严格控制[[Baseline Standardized Mean Difference\|基线等效性]]（$d < 0.25$），揭示了生成式技术对高校批判反思与发散创造的中等显著赋能。

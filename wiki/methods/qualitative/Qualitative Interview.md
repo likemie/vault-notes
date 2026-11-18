@@ -8,7 +8,7 @@ summary: "与参与者进行开放式对话以理解其主观经验和意义建�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 52
+method_related_count: 53
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#dbeafe"
@@ -74,10 +74,11 @@ related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21]]"
   - "[[Argument_ODwyer_Filieri_OMalley_2023_JTT]]"
-confidence: medium
-status: draft
+  - "[[Argument_Hogan_2013_ROE]]"
+confidence: high
+status: active
 created: 2026-06-01
-updated: 2026-10-30
+updated: 2026-11-18
 ---
 
 ---
@@ -176,3 +177,4 @@ updated: 2026-10-30
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 系统梳理质性[[Interview Protocol|访谈协议]]编制、追问技术、现场互动管理与录音[[Transcription in Qualitative Research|转录]]的核心操作规范。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al. (2011, Ch. 21)]] — 全面阐述访谈的[[Epistemology|认识论]]定位、规划实施七阶段、转录数据损失挑战以及全流程伦理规范。
 > - [[Argument_ODwyer_Filieri_OMalley_2023_JTT|O'Dwyer et al. (2023)]] — 结合 10 次跨国企业与学术机构[[Semi-structured Interview|半结构化访谈]]，深入剖析产学研发合作网络的动态演化机制。
+> - [[Argument_Hogan_2013_ROE|Hogan et al. (2013)]] — 在大规模量化调查与课堂观察之余，对新加坡典型中学教师实施深度质性访谈，揭示教师面对考试锦标赛与课程创新双重压力时的叙事建构与应对机制（p. 89）。

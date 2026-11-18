@@ -68,15 +68,15 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
 confidence: high
-status: draft
+status: active
 created: 2026-06-21
-updated: 2026-11-11
+updated: 2026-11-18
 ---
 
 ---
 
 > [!def] Sample Size Determination
-> **样本量确定（Sample Size Determination）** 是指在实证研究设计阶段，研究者依据[[Research Purpose|研究目的]]、总体规模与[[Heterogeneity|异质性]]、期望统计功效（Power, $1-\beta$）、名义显著性水平（$\alpha$）、容许误差界线（[[Confidence Interval|margin of error]]）以及具体统计模型要求，科学测算并规划所需观测案例规模（学生个体、教师、学校或集群）的量化决策过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|(Cohen et al., 2011, pp. 143–145)]]
+> **样本量确定（Sample Size Determination）** 是指在实证研究设计阶段，研究者依据[[Research Purpose|研究目的]]、总体规模与[[Heterogeneity|异质性]]、期望统计功效（Power, $1-\beta$）、名义显著性水平（$\alpha$）、容许误差界线（[[Confidence Interval|边际误差]]，Margin of Error）以及具体统计模型要求，科学测算并规划所需观测案例规模（学生个体、教师、学校或集群）的量化决策过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|(Cohen et al., 2011, pp. 143–145)]]
 >
 > 在[[Meta-analysis|元分析]]与[[Meta-meta-analysis|二阶元分析]]中，受试样本量（$N$ 或 $n$）不仅是计算[[Effect Size|效应量]]精度与逆方差权重（$w_i = 1/v_i$）的数学输入，更是[[Metascience|元科学]]质量审计中核验底层[[Document|文献]]数据提取可复现性的生命线。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 18–19)]]
 
@@ -97,6 +97,12 @@ updated: 2026-11-11
 > - **统计功效平衡** 样本量确定本质上是在 I 型错误率（$\alpha$）与 II 型错误率（$\beta$）之间进行理性权衡，防范因样本过小导致统计检出力不足（Underpowered Studies），亦防范盲目超大样本使得微不足道的细微差异呈现伪显著。
 > - **代表性与规模辩证** 样本绝对规模并不天然等同于代表性。缺乏良好[[Sampling Frame|抽样框架]]的大样本（如对偏态子群的过度访问）无法克服选择偏差；反之，在分层良好的前提下，中小规模概率样本亦能提供稳健推断。
 > - **二阶综合中的[[Reliability|信度]]锚点** 在宏观[[Meta-meta-analysis|二阶元分析]]中，报告的样本量是判定一阶证据规模真实性的唯一客观依据。主观估算或缺失样本量将破坏证据的透明度与可审计性。
+
+> [!method-stack] 数据口径
+> - **数据来源** 调查抽样框、行政登记数据、教育追踪数据库或元分析纳入文献。
+> - **时间与范围** 抽样调查时间窗、受试者纳入与排除标准（学段、地区、年龄等）。
+> - **清洗与归属** 剔除无效作答与极端异常值，对[[Questionnaire|问卷]]无应答与长期追踪中的被试损耗进行 20%–50% 的安全冗余预留。
+> - **有效性校正** 在[[Cluster Randomized Trials|集群随机试验]]中基于[[Intraclass Correlation Coefficient|群内相关系数]]（ICC）校正[[Effective Sample Size|有效样本量]]；在元分析中严格核验[[Primary and Secondary Documents|初级文献]]报告的真实受试样本数。
 
 ---
 
@@ -126,12 +132,6 @@ updated: 2026-11-11
 > - $k$：纳入回归模型的自变量（协变量）总数。
 >
 > **数学直觉** 每一个引入模型的自由参数都需要一定自由度的残差方差进行锚定，样本与变量比值低于 5:1 将导致普通最小二乘估计极不稳定。
-
-> [!method-stack] 数据口径
-> - **数据来源** 调查抽样框、行政登记数据、教育追踪数据库或元分析纳入文献。
-> - **时间与范围** 抽样调查时间窗、受试者纳入与排除标准（学段、地区、年龄等）。
-> - **清洗与归属** 剔除无效作答与极端异常值，对[[Questionnaire|问卷]]无应答与长期追踪中的被试损耗进行 20%–50% 的安全冗余预留。
-> - **有效性校正** 在[[Cluster Randomized Trials|集群随机试验]]中基于[[Intraclass Correlation Coefficient|群内相关系数]]（ICC）校正[[Effective Sample Size|有效样本量]]；在元分析中严格核验[[Primary and Secondary Documents|初级文献]]报告的真实受试样本数。
 
 ---
 
