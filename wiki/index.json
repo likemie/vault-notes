@@ -3819,7 +3819,9 @@
     "type": "concept",
     "path": "wiki/concepts/curriculum/Reading Strategies.md",
     "aliases": [
-      "阅读策略"
+      "阅读策略",
+      "阅读理解策略",
+      "Reading comprehension strategies"
     ]
   },
   {
@@ -11813,7 +11815,10 @@
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Counseling Effects.md",
     "aliases": [
-      "心理辅导"
+      "心理辅导",
+      "学校心理辅导",
+      "辅导效应",
+      "School Counseling"
     ]
   },
   {
@@ -12125,7 +12130,11 @@
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Language Experience Approach.md",
     "aliases": [
-      "语言经验法"
+      "语言经验法",
+      "经验语言法",
+      "LEA",
+      "Modified Language Experience Approach",
+      "MLEA"
     ]
   },
   {

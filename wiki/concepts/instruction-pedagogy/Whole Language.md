@@ -31,6 +31,7 @@ related_concepts:
   - "[[Simple View of Reading]]"
   - "[[Direct Instruction]]"
   - "[[Empiricism]]"
+  - "[[Early Literacy Approaches]]"
   - "[[Construct]]"
   - "[[Visible Learning]]"
   - "[[Primary and Secondary Documents]]"
@@ -38,11 +39,14 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Causality]]"
   - "[[Teacher Professional Agency]]"
+  - "[[Scaffolding]]"
+  - "[[Reading Strategies]]"
+  - "[[Academic Achievement]]"
+  - "[[Science Programs]]"
   - "[[Socioeconomic Status]]"
   - "[[Homework]]"
   - "[[Student Motivation]]"
   - "[[Phonological Awareness]]"
-  - "[[Reading Strategies]]"
 related_theories:
   - "[[Behaviorism]]"
   - "[[Cognitive Constructivism]]"
@@ -64,10 +68,10 @@ related_facts:
   - "[[Open Court Reading]]"
   - "[[Reading Excellence Act]]"
   - "[[National Reading Panel]]"
+  - "[[STELLAR Program]]"
   - "[[Primary School Leaving Examination]]"
   - "[[United States Congress]]"
   - "[[No Child Left Behind Act 2001]]"
-  - "[[STELLAR Program]]"
 related_arguments:
   - "[[Argument_Edmondson_2005_EPAA]]"
   - "[[Argument_Chua_2011_CILP]]"
@@ -118,7 +122,7 @@ updated: 2026-11-18
 > - **技能情境化流动（Contextualized Skills）** 拼读、拼写与[[Decodification|解码]]技巧深度依托课文语境，在文学共读与创意表达的真实互动中顺势点拨（Hornsby & Powell, 1993）。
 > - **国家课程的制度化适配（Curricular Institutionalization）** 在高利害应试分流体系中，通过结合共享阅读法（SBA）与修正语言体验法（MLEA），全语言能够被制度化改造为兼顾流利度与规范标准英语的宏观课程工程。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 131–134)]]
 
-> [!logic-map]- 全语言哲学与早期读写教学机制模型
+> [!logic-map]- 全语言哲学与[[Early Literacy Approaches|早期读写教学]]机制模型
 > ```mermaid
 > flowchart TD
 >     A["真实儿童文学大书 (Big Books) 与生活体验"] --> B["完整交际情境浸润"]
@@ -162,10 +166,10 @@ updated: 2026-11-18
 ---
 
 > [!concept-proposition] 命题四｜全语言在国家课程改造中能够通过共享阅读与体验支架实现高标准化英语产出
-> **国家课程工程化落地与实证成效** 探讨全语言在非母语后殖民社会中经由系统性脚手架改造后的制度化生命力，解构全语言必然导致学业产出下滑的技术主义偏见。
+> **国家课程工程化落地与实证成效** 探讨全语言在非母语后殖民社会中经由系统性[[Scaffolding|脚手架]]改造后的制度化生命力，解构全语言必然导致学业产出下滑的技术主义偏见。
 
 > [!claim] [[Argument_Chua_2011_CILP|Chua (2011)]]
-> **STELLAR 课程改革中的全语言支架化落地与卓越达标率** 蔡欣美（Sok Hoon Chua）深入解构新加坡教育部自 2006 年起在全岛公立小学实施的 STELLAR 项目（英文学习与阅读策略项目），论证了全语言哲学如何转化为高绩效国家课程工程：面对死记硬背与孤立语法操练造成的听说交际瓶颈，新加坡官方系统整合全语言原则，以共享阅读法（SBA）大书共读与修正语言体验法（MLEA）为支柱，将真实语境浸润与系统教学法有机结合。官方统考统计证实，该项目推行后公立小学小学会考（[[Primary School Leaving Examination|PSLE]]）的标准英语合格率常年保持在 97.5%–98.9% 的极高水准，实证证明了全语言在融入系统性教学法支架与国家统筹保障后，完全能够兼容高标准的学业产出要求。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 131–134, 141)]]
+> **[[STELLAR Program|STELLAR]] 课程改革中的全语言支架化落地与卓越达标率** 蔡欣美（Sok Hoon Chua）深入解构新加坡教育部自 2006 年起在全岛公立小学实施的 STELLAR 项目（英文学习与[[Reading Strategies|阅读策略]]项目），论证了全语言哲学如何转化为高绩效国家课程工程：面对死记硬背与孤立语法操练造成的听说交际瓶颈，新加坡官方系统整合全语言原则，以共享阅读法（SBA）大书共读与修正语言体验法（MLEA）为支柱，将真实语境浸润与系统教学法有机结合。官方统考统计证实，该项目推行后公立小学小学会考（[[Primary School Leaving Examination|PSLE]]）的标准英语合格率常年保持在 97.5%–98.9% 的极高水准，实证证明了全语言在融入系统性教学法支架与国家统筹保障后，完全能够兼容高标准的学业产出要求。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 131–134, 141)]]
 
 ---
 
@@ -203,13 +207,13 @@ updated: 2026-11-18
 > > [!axis] 二阶元分析简单合成 vs 连续谱变量分类偏倚
 > > 争论将界定标准不一的初级研究进行统计加权平均是否具有科学有效性。
 > >
-> > - **宏观量化综合派（Hattie, 2009）** 主张通过统计效应量汇总呈现全语言对学业成就的总体微弱效应（$d = 0.06$）。
+> > - **宏观量化综合派（Hattie, 2009）** 主张通过统计效应量汇总呈现全语言对[[Academic Achievement|学业成就]]的总体微弱效应（$d = 0.06$）。
 > > - **方法论批判派（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]; [[Argument_OConnor_2020_AJLL|O'Connor, 2020]]）** 指出全语言与拼读处于连续谱上，编码偏见直接导致元分析结论截然相反，简单算术平均掩盖了真实分歧。
 >
 > > [!axis] 科学本位修辞中立性 vs 次政府商业利益寻租
 > > 围绕科学本位阅读法案究竟是基于客观循证证据，还是政商寡头结盟的制度性清洗展开论辩。
 > >
-> > - **官方技术官僚立场** 宣称排他性资助政策是确保公共教育资金投向“有实验因果证据支持”的科学项目。
+> > - **官方技术官僚立场** 宣称排他性资助政策是确保公共教育资金投向“有实验因果证据支持”的[[Science Programs|科学项目]]。
 > > - **批判政策社会学立场（[[Argument_Edmondson_2005_EPAA|Edmondson, 2005]]）** 揭示这是联邦科研官僚、保守派议员与商业教材出版商联手推销昂贵消耗性练习册、削弱教师专业自主权的政治经济建构。
 
 > [!warning|limits] 适用局限

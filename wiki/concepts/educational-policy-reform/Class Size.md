@@ -68,7 +68,6 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Chi-Squared Test]]"
   - "[[Ethnography]]"
-  - "[[Randomised Controlled Trials]]"
 related_instruments:
   - "[[Teach Classroom Observation Tool]]"
 related_persons:
@@ -87,6 +86,7 @@ related_facts:
   - "[[UNESCO]]"
   - "[[Tennessee STAR Project 1985-1989]]"
   - "[[California Class Size Reduction 1996]]"
+  - "[[Teach Less, Learn More]]"
 related_arguments:
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_ONeill_2012_NZJES]]"
@@ -102,8 +102,8 @@ related_arguments:
   - "[[Argument_Bergeron_2017_MJE]]"
   - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Cowen_2015_CHESS]]"
-  - "[[Argument_Deng_2016_CE]]"
   - "[[Argument_Gopinathan_2007_GSE]]"
+  - "[[Argument_Deng_2016_CE]]"
 confidence: high
 status: completed
 created: '2026-05-03'
@@ -508,4 +508,5 @@ updated: 2026-11-18
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 汇聚安德森-莱维特等跨国[[Ethnography|民族志]]，阐明全球南方极端大班额作为阻滞西方通用教学法落地的物质基础设施约束。
 > - [[Argument_ONeill_2012_NZJES|O'Neill (2012)]] — 剖析新西兰财政部借生师比证据推行紧缩政策的多重[[Material Fallacies|实质谬误]]与对哈蒂原意的断章取义。
 > - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 分析新加坡在 35–40 人大班额下通过师资优质化与高效全班讲授达成国际顶尖学业表现的机制，打破小班化作为高绩效唯一路径的迷思。
+> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 考察新加坡在“少教多学”改革中系统增聘近 3,000 名教师编制，将小学班级规模从 40 人缩减至 30 人，为个别化差异教学与深度概念互动提供结构性空间支持（p. 62）。
 
