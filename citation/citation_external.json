@@ -709,6 +709,8 @@
     "Altbach (1998)": "Altbach, 1998",
     "Altbach (2004)": "Altbach, 2004",
     "Altbach (2011)": "Altbach, 2011",
+    "Altbach et al. (2019)": "Altbach et al., 2019",
+    "Altbach et al., 2019": "Altbach et al., 2019",
     "Altbach, 1971": "Altbach, 1971",
     "Altbach, 1977": "Altbach, 1977",
     "Altbach, 1981": "Altbach, 1981",
@@ -957,8 +959,6 @@
     "Ann Swidler, 1986": "Ann Swidler, 1986",
     "Anne Schneider & Helen Ingram (1997)": "Anne Schneider & Helen Ingram, 1997",
     "Anne Schneider & Helen Ingram, 1997": "Anne Schneider & Helen Ingram, 1997",
-    "Annette Lareau (2003)": "Annette Lareau, 2003",
-    "Annette Lareau, 2003": "Annette Lareau, 2003",
     "Annie Dillard (1989)": "Annie Dillard, 1989",
     "Annie Dillard, 1989": "Annie Dillard, 1989",
     "Annie Piolat & Jean-Yves Roussey (1996)": "Annie Piolat & Jean-Yves Roussey, 1996",
@@ -1038,11 +1038,13 @@
     "Apple (1990)": "Apple, 1990",
     "Apple (1993)": "Apple, 1993",
     "Apple (1996)": "Apple, 1996",
+    "Apple (2006)": "Apple, 2006",
     "Apple, 1982": "Apple, 1982",
     "Apple, 1986": "Apple, 1986",
     "Apple, 1990": "Apple, 1990",
     "Apple, 1993": "Apple, 1993",
     "Apple, 1996": "Apple, 1996",
+    "Apple, 2006": "Apple, 2006",
     "Applebaum (2022)": "Applebaum, 2022",
     "Applebaum, 2022": "Applebaum, 2022",
     "Applebee (1974)": "Applebee, 1974",
@@ -3071,9 +3073,11 @@
     "Bourdieu & Passeron (1970)": "Bourdieu & Passeron, 1970",
     "Bourdieu & Passeron (1977)": "Bourdieu & Passeron, 1977",
     "Bourdieu & Passeron (1979)": "Bourdieu & Passeron, 1979",
+    "Bourdieu & Passeron (1990)": "Bourdieu & Passeron, 1990",
     "Bourdieu & Passeron, 1970": "Bourdieu & Passeron, 1970",
     "Bourdieu & Passeron, 1977": "Bourdieu & Passeron, 1977",
     "Bourdieu & Passeron, 1979": "Bourdieu & Passeron, 1979",
+    "Bourdieu & Passeron, 1990": "Bourdieu & Passeron, 1990",
     "Bourdieu & Wacquant (1992)": "Bourdieu & Wacquant, 1992",
     "Bourdieu & Wacquant, 1992": "Bourdieu & Wacquant, 1992",
     "Bourdieu (1967)": "Bourdieu, 1967",
@@ -3271,6 +3275,8 @@
     "Bredow et al., 2021": "Bredow et al., 2021",
     "Breen & Goldthorpe (1997)": "Breen & Goldthorpe, 1997",
     "Breen & Goldthorpe, 1997": "Breen & Goldthorpe, 1997",
+    "Breen & Jonsson (2005)": "Breen & Jonsson, 2005",
+    "Breen & Jonsson, 2005": "Breen & Jonsson, 2005",
     "Brehm (2023)": "Brehm, 2023",
     "Brehm, 2023": "Brehm, 2023",
     "Breidenstine (1936)": "Breidenstine, 1936",
@@ -3591,6 +3597,8 @@
     "Buch & Wetzel, 2001": "Buch & Wetzel, 2001",
     "Buchanan (2003)": "Buchanan, 2003",
     "Buchanan, 2003": "Buchanan, 2003",
+    "Buchmann & Hannum (2001)": "Buchmann & Hannum, 2001",
+    "Buchmann & Hannum, 2001": "Buchmann & Hannum, 2001",
     "Buchsbauma et al. (2011)": "Buchsbauma et al., 2011",
     "Buchsbauma et al., 2011": "Buchsbauma et al., 2011",
     "Buchwald (2015)": "Buchwald, 2015",
@@ -3599,6 +3607,8 @@
     "Buckland, 1991": "Buckland, 1991",
     "Buckley & Waring (2009)": "Buckley & Waring, 2009",
     "Buckley & Waring, 2009": "Buckley & Waring, 2009",
+    "Buckner & Abdelaziz (2023)": "Buckner & Abdelaziz, 2023",
+    "Buckner & Abdelaziz, 2023": "Buckner & Abdelaziz, 2023",
     "Budd (2020)": "Budd, 2020",
     "Budd L. Hall (1996)": "Budd L. Hall, 1996",
     "Budd L. Hall, 1996": "Budd L. Hall, 1996",
@@ -3777,6 +3787,8 @@
     "Byun & Joung, 2018": "Byun & Joung, 2018",
     "Byun & Kim (2011)": "Byun & Kim, 2011",
     "Byun & Kim, 2011": "Byun & Kim, 2011",
+    "Byun et al. (2012)": "Byun et al., 2012",
+    "Byun et al., 2012": "Byun et al., 2012",
     "Bächle (2016)": "Bächle, 2016",
     "Bächle, 2016": "Bächle, 2016",
     "Béland & Cox (2011)": "Béland & Cox, 2011",
@@ -4130,6 +4142,8 @@
     "Carmichael, 2024": "Carmichael, 2024",
     "Carmines & Zeller (1979)": "Carmines & Zeller, 1979",
     "Carmines & Zeller, 1979": "Carmines & Zeller, 1979",
+    "Carneiro & Heckman (2003)": "Carneiro & Heckman, 2003",
+    "Carneiro & Heckman, 2003": "Carneiro & Heckman, 2003",
     "Carnevale & Strohl (2010)": "Carnevale & Strohl, 2010",
     "Carnevale & Strohl, 2010": "Carnevale & Strohl, 2010",
     "Carney (2008)": "Carney, 2008",
@@ -4182,6 +4196,8 @@
     "Carpenter et al. (2024)": "Carpenter et al., 2024",
     "Carpenter et al., 2024": "Carpenter et al., 2024",
     "Carpenter, 2007": "Carpenter, 2007",
+    "Carpentier & Unterhalter (2011)": "Carpentier & Unterhalter, 2011",
+    "Carpentier & Unterhalter, 2011": "Carpentier & Unterhalter, 2011",
     "Carr & Kemmis (1986)": "Carr & Kemmis, 1986",
     "Carr & Kemmis, 1986": "Carr & Kemmis, 1986",
     "Carr (1986)": "Carr, 1986",
@@ -5211,6 +5227,7 @@
     "Collins (2007)": "Collins, 2007",
     "Collins (2011)": "Collins, 2011",
     "Collins (2018)": "Collins, 2018",
+    "Collins (2019)": "Collins, 2019",
     "Collins, 1963": "Collins, 1963",
     "Collins, 1974": "Collins, 1974",
     "Collins, 1979": "Collins, 1979",
@@ -5222,6 +5239,7 @@
     "Collins, 2007": "Collins, 2007",
     "Collins, 2011": "Collins, 2011",
     "Collins, 2018": "Collins, 2018",
+    "Collins, 2019": "Collins, 2019",
     "Collis & Margaryan (2004)": "Collis & Margaryan, 2004",
     "Collis & Margaryan, 2004": "Collis & Margaryan, 2004",
     "Collyer (2018)": "Collyer, 2018",
@@ -5567,7 +5585,9 @@
     "Cremin (1980)": "Cremin, 1980",
     "Cremin, 1957": "Cremin, 1957",
     "Cremin, 1980": "Cremin, 1980",
+    "Crenshaw (1989)": "Crenshaw, 1989",
     "Crenshaw (1997)": "Crenshaw, 1997",
+    "Crenshaw, 1989": "Crenshaw, 1989",
     "Crenshaw, 1997": "Crenshaw, 1997",
     "Crespo (2018)": "Crespo, 2018",
     "Crespo, 2018": "Crespo, 2018",
@@ -6049,6 +6069,8 @@
     "Dawson, 2019": "Dawson, 2019",
     "Day et al. (2016)": "Day et al., 2016",
     "Day et al., 2016": "Day et al., 2016",
+    "Dayson et al. (2024)": "Dayson et al., 2024",
+    "Dayson et al., 2024": "Dayson et al., 2024",
     "De Bondt et al. (2020)": "De Bondt et al., 2020",
     "De Bondt et al., 2020": "De Bondt et al., 2020",
     "De Bruijn (2020)": "De Bruijn, 2020",
@@ -7768,6 +7790,8 @@
     "Fairclough, 1995": "Fairclough, 1995",
     "Fairclough, 1998": "Fairclough, 1998",
     "Fairclough, 2003": "Fairclough, 2003",
+    "Fairlie & Sundstrom (1999)": "Fairlie & Sundstrom, 1999",
+    "Fairlie & Sundstrom, 1999": "Fairlie & Sundstrom, 1999",
     "Fajari et al. (2023)": "Fajari et al., 2023",
     "Fajari et al., 2023": "Fajari et al., 2023",
     "Fakour & Imani (2025)": "Fakour & Imani, 2025",
@@ -11877,6 +11901,10 @@
     "Ilgun Dibek et al., 2024": "Ilgun Dibek et al., 2024",
     "Ili et al. (2021)": "Ili et al., 2021",
     "Ili et al., 2021": "Ili et al., 2021",
+    "Ilie & Rose (2016)": "Ilie & Rose, 2016",
+    "Ilie & Rose, 2016": "Ilie & Rose, 2016",
+    "Ilie et al. (2021)": "Ilie et al., 2021",
+    "Ilie et al., 2021": "Ilie et al., 2021",
     "Iliff (1994)": "Iliff, 1994",
     "Iliff, 1994": "Iliff, 1994",
     "Illich (1971)": "Illich, 1971",
@@ -12092,6 +12120,7 @@
     "James & Busher, 2007": "James & Busher, 2007",
     "James & Lodge (2003)": "James & Lodge, 2003",
     "James & Lodge, 2003": "James & Lodge, 2003",
+    "James (1991)": "James, 1991",
     "James (1993)": "James, 1993",
     "James (2012)": "James, 2012",
     "James (2017)": "James, 2017",
@@ -12123,6 +12152,7 @@
     "James R. Bartholomew, 1989": "James R. Bartholomew, 1989",
     "James Scott (1998)": "James Scott, 1998",
     "James Scott, 1998": "James Scott, 1998",
+    "James, 1991": "James, 1991",
     "James, 1993": "James, 1993",
     "James, 2012": "James, 2012",
     "James, 2017": "James, 2017",
@@ -12242,7 +12272,9 @@
     "Jen Webb (2003)": "Jen Webb, 2003",
     "Jen Webb, 2003": "Jen Webb, 2003",
     "Jencks (1972)": "Jencks, 1972",
+    "Jencks (1988)": "Jencks, 1988",
     "Jencks, 1972": "Jencks, 1972",
+    "Jencks, 1988": "Jencks, 1988",
     "Jenkins (1991)": "Jenkins, 1991",
     "Jenkins (1994)": "Jenkins, 1994",
     "Jenkins (2004)": "Jenkins, 2004",
@@ -13247,8 +13279,6 @@
     "Kenneth Clark, 1969": "Kenneth Clark, 1969",
     "Kenneth Goodman (1999)": "Kenneth Goodman, 1999",
     "Kenneth Goodman, 1999": "Kenneth Goodman, 1999",
-    "Kenneth Paul Tan (2008)": "Kenneth Paul Tan, 2008",
-    "Kenneth Paul Tan, 2008": "Kenneth Paul Tan, 2008",
     "Kennett et al. (2008)": "Kennett et al., 2008",
     "Kennett et al., 2008": "Kennett et al., 2008",
     "Kenni (2020)": "Kenni, 2020",
@@ -14626,6 +14656,8 @@
     "Lederman, 1992": "Lederman, 1992",
     "Lee & Bak (2018)": "Lee & Bak, 2018",
     "Lee & Bak, 2018": "Lee & Bak, 2018",
+    "Lee & Burkam (2002)": "Lee & Burkam, 2002",
+    "Lee & Burkam, 2002": "Lee & Burkam, 2002",
     "Lee & Gage (2020)": "Lee & Gage, 2020",
     "Lee & Gage, 2020": "Lee & Gage, 2020",
     "Lee & Genovese (1988a)": "Lee & Genovese, 1988a",
@@ -16518,6 +16550,8 @@
     "McCorkle-Benz, 1994": "McCorkle-Benz, 1994",
     "McCormick & James (1988)": "McCormick & James, 1988",
     "McCormick & James, 1988": "McCormick & James, 1988",
+    "McCowan (2007)": "McCowan, 2007",
+    "McCowan, 2007": "McCowan, 2007",
     "McCoy et al. (2017)": "McCoy et al., 2017",
     "McCoy et al., 2017": "McCoy et al., 2017",
     "McCracken (1988)": "McCracken, 1988",
@@ -18285,6 +18319,8 @@
     "Nixon, 1981": "Nixon, 1981",
     "Niza & Suyanto (2023)": "Niza & Suyanto, 2023",
     "Niza & Suyanto, 2023": "Niza & Suyanto, 2023",
+    "Nkrumah (1965)": "Nkrumah, 1965",
+    "Nkrumah, 1965": "Nkrumah, 1965",
     "Nnamani (2020)": "Nnamani, 2020",
     "Nnamani, 2020": "Nnamani, 2020",
     "No. 16 (2017)": "No. 16, 2017",
@@ -19250,6 +19286,8 @@
     "Patrick, 2013": "Patrick, 2013",
     "Patrik Scheinin (2014)": "Patrik Scheinin, 2014",
     "Patrik Scheinin, 2014": "Patrik Scheinin, 2014",
+    "Patrinos (2021)": "Patrinos, 2021",
+    "Patrinos, 2021": "Patrinos, 2021",
     "Patti Lather (1991)": "Patti Lather, 1991",
     "Patti Lather, 1991": "Patti Lather, 1991",
     "Patton (1980)": "Patton, 1980",
@@ -20326,6 +20364,8 @@
     "Ragnar Nurkse, 1953": "Ragnar Nurkse, 1953",
     "Ragosta (2010)": "Ragosta, 2010",
     "Ragosta, 2010": "Ragosta, 2010",
+    "Rahim (1998)": "Rahim, 1998",
+    "Rahim, 1998": "Rahim, 1998",
     "Rahimi & Becker (2018)": "Rahimi & Becker, 2018",
     "Rahimi & Becker, 2018": "Rahimi & Becker, 2018",
     "Rahman et al. (2023)": "Rahman et al., 2023",
@@ -20471,6 +20511,10 @@
     "Raymond Boudon, 1982": "Raymond Boudon, 1982",
     "Rayner et al. (2013)": "Rayner et al., 2013",
     "Rayner et al., 2013": "Rayner et al., 2013",
+    "Razak & Sanusi (2023)": "Razak & Sanusi, 2023",
+    "Razak & Sanusi, 2023": "Razak & Sanusi, 2023",
+    "Razak et al. (2018)": "Razak et al., 2018",
+    "Razak et al., 2018": "Razak et al., 2018",
     "Razel (2001)": "Razel, 2001",
     "Razel, 2001": "Razel, 2001",
     "Readence & Moore (1981)": "Readence & Moore, 1981",
@@ -21213,6 +21257,8 @@
     "Rosen & Salomon, 2007": "Rosen & Salomon, 2007",
     "Rosen (2003)": "Rosen, 2003",
     "Rosen, 2003": "Rosen, 2003",
+    "Rosenbaum & Becker (2011)": "Rosenbaum & Becker, 2011",
+    "Rosenbaum & Becker, 2011": "Rosenbaum & Becker, 2011",
     "Rosenbaum & Rubin (1983)": "Rosenbaum & Rubin, 1983",
     "Rosenbaum & Rubin, 1983": "Rosenbaum & Rubin, 1983",
     "Rosenbaum (1983)": "Rosenbaum, 1983",
@@ -21442,6 +21488,8 @@
     "Runco, 2023": "Runco, 2023",
     "Runco, 2024": "Runco, 2024",
     "Runco, 2026": "Runco, 2026",
+    "Rungduin et al. (2014)": "Rungduin et al., 2014",
+    "Rungduin et al., 2014": "Rungduin et al., 2014",
     "Runyan (1987)": "Runyan, 1987",
     "Runyan, 1987": "Runyan, 1987",
     "Ruppert (2012)": "Ruppert, 2012",
@@ -21492,6 +21540,8 @@
     "Rutkowski & Rutkowski, 2016": "Rutkowski & Rutkowski, 2016",
     "Rutkowski (2007)": "Rutkowski, 2007",
     "Rutkowski, 2007": "Rutkowski, 2007",
+    "Rutstein & Johnson (2004)": "Rutstein & Johnson, 2004",
+    "Rutstein & Johnson, 2004": "Rutstein & Johnson, 2004",
     "Rutt (2014)": "Rutt, 2014",
     "Rutt (2015)": "Rutt, 2015",
     "Rutt et al. (2014)": "Rutt et al., 2014",
@@ -21636,6 +21686,8 @@
     "Sagasti, 1976": "Sagasti, 1976",
     "Sagor (2005)": "Sagor, 2005",
     "Sagor, 2005": "Sagor, 2005",
+    "Saguin (2022)": "Saguin, 2022",
+    "Saguin, 2022": "Saguin, 2022",
     "Sahin & Bae (2020)": "Sahin & Bae, 2020",
     "Sahin & Bae, 2020": "Sahin & Bae, 2020",
     "Sahin & Polatcan (2019)": "Sahin & Polatcan, 2019",
@@ -21707,6 +21759,8 @@
     "Sallis, 1999": "Sallis, 1999",
     "Salmeron et al. (2023)": "Salmeron et al., 2023",
     "Salmeron et al., 2023": "Salmeron et al., 2023",
+    "Salmi (2023)": "Salmi, 2023",
+    "Salmi, 2023": "Salmi, 2023",
     "Salminen (2015)": "Salminen, 2015",
     "Salminen, 2015": "Salminen, 2015",
     "Salmon (1976)": "Salmon, 1976",
@@ -24605,6 +24659,8 @@
     "Tengberg, 2015": "Tengberg, 2015",
     "Tennessee STAR (1990)": "Tennessee STAR, 1990",
     "Tennessee STAR, 1990": "Tennessee STAR, 1990",
+    "Tentshol et al. (2019)": "Tentshol et al., 2019",
+    "Tentshol et al., 2019": "Tentshol et al., 2019",
     "Teo et al. (2013)": "Teo et al., 2013",
     "Teo et al., 2013": "Teo et al., 2013",
     "Teong (2003)": "Teong, 2003",
@@ -24655,6 +24711,8 @@
     "Theodore W. Schultz, 1961": "Theodore W. Schultz, 1961",
     "Theodoulou & Cahn (1995)": "Theodoulou & Cahn, 1995",
     "Theodoulou & Cahn, 1995": "Theodoulou & Cahn, 1995",
+    "Thernstrom & Thernstrom (2003)": "Thernstrom & Thernstrom, 2003",
+    "Thernstrom & Thernstrom, 2003": "Thernstrom & Thernstrom, 2003",
     "Therrien (2004)": "Therrien, 2004",
     "Therrien et al. (2011)": "Therrien et al., 2011",
     "Therrien et al., 2011": "Therrien et al., 2011",
@@ -27010,6 +27068,8 @@
     "Wright, 2003": "Wright, 2003",
     "Wu & Davidson (1989)": "Wu & Davidson, 1989",
     "Wu & Davidson, 1989": "Wu & Davidson, 1989",
+    "Wu & Hawkins (2018)": "Wu & Hawkins, 2018",
+    "Wu & Hawkins, 2018": "Wu & Hawkins, 2018",
     "Wu & Jessop (2018)": "Wu & Jessop, 2018",
     "Wu & Jessop, 2018": "Wu & Jessop, 2018",
     "Wu & Li (2024)": "Wu & Li, 2024",
@@ -33663,6 +33723,21 @@
       ],
       "title": ""
     },
+    "Altbach et al., 2019": {
+      "aliases": [
+        "Altbach et al., 2019",
+        "Altbach et al. (2019)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Altbach et al., 2019"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+      ],
+      "title": ""
+    },
     "Altbach, 1971": {
       "aliases": [
         "Altbach, 1971",
@@ -35553,21 +35628,6 @@
       ],
       "title": ""
     },
-    "Annette Lareau, 2003": {
-      "aliases": [
-        "Annette Lareau, 2003",
-        "Annette Lareau (2003)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Annette Lareau, 2003"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md"
-      ],
-      "title": ""
-    },
     "Annie Dillard, 1989": {
       "aliases": [
         "Annie Dillard, 1989",
@@ -36195,6 +36255,21 @@
         "wiki/theories/educational-philosophy/Postmodernism.md"
       ],
       "title": ""
+    },
+    "Apple, 2006": {
+      "aliases": [
+        "Apple, 2006",
+        "Apple (2006)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Apple, 2006"
+      ],
+      "isbn": "9780415952712",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md"
+      ],
+      "title": "Educating the \"Right\" Way: Markets, Standards, God, and Inequality"
     },
     "Applebaum, 2022": {
       "aliases": [
@@ -40457,19 +40532,20 @@
         "Ball, 1993",
         "Ball (1993)"
       ],
-      "doi": "",
+      "doi": "10.1080/0268093930080102",
       "identity_keys": [
         "Ball, 1993"
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md",
         "wiki/concepts/educational-policy-reform/Educational Privatisation.md",
         "wiki/concepts/educational-policy-reform/Endogenous Privatisation.md",
         "wiki/concepts/sociology-of-education/Educational Level.md",
         "wiki/concepts/sociology-of-education/Post-Fordism.md",
         "wiki/persons/uk/Stephen Ball.md"
       ],
-      "title": ""
+      "title": "Education Markets, Choice and Social Class: The Market as a Class Strategy in the UK and US"
     },
     "Ball, 1994a": {
       "aliases": [
@@ -42129,7 +42205,7 @@
         "Barr & Low, 2005",
         "Barr & Low (2005)"
       ],
-      "doi": "",
+      "doi": "10.1080/14631360500226599",
       "identity_keys": [
         "Barr & Low, 2005"
       ],
@@ -42137,7 +42213,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md"
       ],
-      "title": ""
+      "title": "Assimilation as Multiculturalism: The Case of Singapore’s Malays"
     },
     "Barr & Skrbis, 2008": {
       "aliases": [
@@ -51207,6 +51283,21 @@
       ],
       "title": "The Inheritors: French Students and Their Relation to Culture"
     },
+    "Bourdieu & Passeron, 1990": {
+      "aliases": [
+        "Bourdieu & Passeron, 1990",
+        "Bourdieu & Passeron (1990)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bourdieu & Passeron, 1990"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+      ],
+      "title": ""
+    },
     "Bourdieu & Wacquant, 1992": {
       "aliases": [
         "Bourdieu & Wacquant, 1992",
@@ -51307,7 +51398,7 @@
       "identity_keys": [
         "Bourdieu, 1984"
       ],
-      "isbn": "",
+      "isbn": "9780674212770",
       "seen_in": [
         "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md",
         "wiki/arguments/journal-articles/Higher Education/Argument_Schulze-Cleven_2017_HE.md",
@@ -51317,7 +51408,7 @@
         "wiki/concepts/university-industry-collaboration/Non-monetary Competition.md",
         "wiki/theories/higher-education/Neo-feudalism in Higher Education.md"
       ],
-      "title": ""
+      "title": "Distinction: A Social Critique of the Judgement of Taste"
     },
     "Bourdieu, 1986": {
       "aliases": [
@@ -52675,6 +52766,21 @@
         "wiki/theories/sociology-of-education/Rational Action Theory.md"
       ],
       "title": "Explaining Educational Differentials: Towards a Formal Rational Action Theory"
+    },
+    "Breen & Jonsson, 2005": {
+      "aliases": [
+        "Breen & Jonsson, 2005",
+        "Breen & Jonsson (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Breen & Jonsson, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+      ],
+      "title": ""
     },
     "Brehm, 2023": {
       "aliases": [
@@ -55052,6 +55158,21 @@
       ],
       "title": ""
     },
+    "Buchmann & Hannum, 2001": {
+      "aliases": [
+        "Buchmann & Hannum, 2001",
+        "Buchmann & Hannum (2001)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Buchmann & Hannum, 2001"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+      ],
+      "title": ""
+    },
     "Buchsbauma et al., 2011": {
       "aliases": [
         "Buchsbauma et al., 2011",
@@ -55109,6 +55230,21 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30.md",
         "wiki/methods/qualitative/Axial Coding.md",
         "wiki/methods/qualitative/Coding in Qualitative Research.md"
+      ],
+      "title": ""
+    },
+    "Buckner & Abdelaziz, 2023": {
+      "aliases": [
+        "Buckner & Abdelaziz, 2023",
+        "Buckner & Abdelaziz (2023)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Buckner & Abdelaziz, 2023"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
       "title": ""
     },
@@ -56416,6 +56552,21 @@
       ],
       "title": ""
     },
+    "Byun et al., 2012": {
+      "aliases": [
+        "Byun et al., 2012",
+        "Byun et al. (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Byun et al., 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+      ],
+      "title": ""
+    },
     "Bächle, 2016": {
       "aliases": [
         "Bächle, 2016",
@@ -56683,11 +56834,11 @@
       "identity_keys": [
         "C. Tan, 2008"
       ],
-      "isbn": "",
+      "isbn": "9789810679781",
       "seen_in": [
         "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md"
       ],
-      "title": ""
+      "title": "Tensions in an Ability-Driven Education"
     },
     "C. Wright Mills, 1956": {
       "aliases": [
@@ -59050,6 +59201,21 @@
       ],
       "title": ""
     },
+    "Carneiro & Heckman, 2003": {
+      "aliases": [
+        "Carneiro & Heckman, 2003",
+        "Carneiro & Heckman (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Carneiro & Heckman, 2003"
+      ],
+      "isbn": "9780262083287",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md"
+      ],
+      "title": "Human Capital Policy"
+    },
     "Carnevale & Strohl, 2010": {
       "aliases": [
         "Carnevale & Strohl, 2010",
@@ -59456,6 +59622,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "A comparison of the relationships of students' self-efficacy, goal orientation, and achievement across grade levels: a meta-analysis"
+    },
+    "Carpentier & Unterhalter, 2011": {
+      "aliases": [
+        "Carpentier & Unterhalter, 2011",
+        "Carpentier & Unterhalter (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Carpentier & Unterhalter, 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+      ],
+      "title": ""
     },
     "Carr & Kemmis, 1986": {
       "aliases": [
@@ -60622,15 +60803,15 @@
         "Cavanagh, 2002",
         "Cavanagh (2002)"
       ],
-      "doi": "",
+      "doi": "10.1093/019924978X.001.0001",
       "identity_keys": [
         "Cavanagh, 2002"
       ],
-      "isbn": "",
+      "isbn": "9780199249787",
       "seen_in": [
         "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md"
       ],
-      "title": ""
+      "title": "Against Equality of Opportunity"
     },
     "Cavanaugh et al., 2000": {
       "aliases": [
@@ -66878,6 +67059,21 @@
       ],
       "title": ""
     },
+    "Collins, 2019": {
+      "aliases": [
+        "Collins, 2019",
+        "Collins (2019)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Collins, 2019"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+      ],
+      "title": ""
+    },
     "Collis & Margaryan, 2004": {
       "aliases": [
         "Collis & Margaryan, 2004",
@@ -69351,6 +69547,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Cowen_2009_CE.md"
+      ],
+      "title": ""
+    },
+    "Crenshaw, 1989": {
+      "aliases": [
+        "Crenshaw, 1989",
+        "Crenshaw (1989)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Crenshaw, 1989"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
       "title": ""
     },
@@ -72972,6 +73183,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Zeitschrift für Bildungsforschung/Argument_Altrichter_2019_ZfB.md"
+      ],
+      "title": ""
+    },
+    "Dayson et al., 2024": {
+      "aliases": [
+        "Dayson et al., 2024",
+        "Dayson et al. (2024)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Dayson et al., 2024"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Kapwa.md"
       ],
       "title": ""
     },
@@ -85589,6 +85815,21 @@
       ],
       "title": ""
     },
+    "Fairlie & Sundstrom, 1999": {
+      "aliases": [
+        "Fairlie & Sundstrom, 1999",
+        "Fairlie & Sundstrom (1999)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Fairlie & Sundstrom, 1999"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+      ],
+      "title": ""
+    },
     "Fajari et al., 2023": {
       "aliases": [
         "Fajari et al., 2023",
@@ -90472,12 +90713,12 @@
       "identity_keys": [
         "Fraser, 1997"
       ],
-      "isbn": "",
+      "isbn": "9780415917957",
       "seen_in": [
         "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md",
         "wiki/theories/educational-policy-reform/Critical Pluralism.md"
       ],
-      "title": ""
+      "title": "Justice Interruptus: Critical Reflections on the \"Postsocialist\" Condition"
     },
     "Fraser, 2004": {
       "aliases": [
@@ -115686,6 +115927,36 @@
       "seen_in": [],
       "title": "Relationship between student learning interest and mathematics learning achievement: A meta-analysis."
     },
+    "Ilie & Rose, 2016": {
+      "aliases": [
+        "Ilie & Rose, 2016",
+        "Ilie & Rose (2016)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ilie & Rose, 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+      ],
+      "title": ""
+    },
+    "Ilie et al., 2021": {
+      "aliases": [
+        "Ilie et al., 2021",
+        "Ilie et al. (2021)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ilie et al., 2021"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+      ],
+      "title": ""
+    },
     "Iliff, 1994": {
       "aliases": [
         "Iliff, 1994",
@@ -116713,11 +116984,11 @@
       "identity_keys": [
         "J. Tan, 2008b"
       ],
-      "isbn": "",
+      "isbn": "9789810679781",
       "seen_in": [
         "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md"
       ],
-      "title": ""
+      "title": "The Marketisation of Education in Singapore"
     },
     "J. W., 1992": {
       "aliases": [
@@ -117462,6 +117733,21 @@
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Hartmann_2022_CorporateEducation.md",
         "wiki/concepts/political-economy-geopolitics/Geopolitical Subject.md",
         "wiki/concepts/university-industry-collaboration/Corporate Education.md"
+      ],
+      "title": ""
+    },
+    "James, 1991": {
+      "aliases": [
+        "James, 1991",
+        "James (1991)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "James, 1991"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
       "title": ""
     },
@@ -118353,6 +118639,21 @@
         "wiki/theories/sociology-of-education/Refraction Framework.md"
       ],
       "title": ""
+    },
+    "Jencks, 1988": {
+      "aliases": [
+        "Jencks, 1988",
+        "Jencks (1988)"
+      ],
+      "doi": "10.1086/292969",
+      "identity_keys": [
+        "Jencks, 1988"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md"
+      ],
+      "title": "Whom Must We Treat Equally for Educational Opportunity to be Equal?"
     },
     "Jenkins, 1991": {
       "aliases": [
@@ -121872,7 +122173,7 @@
         "K. P. Tan, 2008",
         "K. P. Tan (2008)"
       ],
-      "doi": "",
+      "doi": "10.1177/0020834507084818",
       "identity_keys": [
         "K. P. Tan, 2008"
       ],
@@ -121880,7 +122181,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md"
       ],
-      "title": ""
+      "title": "Meritocracy and Elitism in a Global City: Ideological Shifts in Singapore"
     },
     "K.-H., 2005": {
       "aliases": [
@@ -125558,21 +125859,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Education Policy Analysis Archives/Argument_Edmondson_2005_EPAA.md"
-      ],
-      "title": ""
-    },
-    "Kenneth Paul Tan, 2008": {
-      "aliases": [
-        "Kenneth Paul Tan, 2008",
-        "Kenneth Paul Tan (2008)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Kenneth Paul Tan, 2008"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md"
       ],
       "title": ""
     },
@@ -132182,7 +132468,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md"
       ],
-      "title": ""
+      "title": "Students of Top Schools Worry More About Elitism"
     },
     "Kwok, 2005": {
       "aliases": [
@@ -133662,11 +133948,11 @@
       "identity_keys": [
         "Lareau, 2003"
       ],
-      "isbn": "",
+      "isbn": "9780520239500",
       "seen_in": [
         "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md"
       ],
-      "title": ""
+      "title": "Unequal Childhoods: Class, Race, and Family Life"
     },
     "Lareau, 2015": {
       "aliases": [
@@ -135483,6 +135769,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "A Meta-Analysis of Feedback Effects on Academic Achievement"
+    },
+    "Lee & Burkam, 2002": {
+      "aliases": [
+        "Lee & Burkam, 2002",
+        "Lee & Burkam (2002)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Lee & Burkam, 2002"
+      ],
+      "isbn": "9780877667100",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md"
+      ],
+      "title": "Inequality at the Starting Gate: Social Background Differences in Achievement as Children Begin School"
     },
     "Lee & Gage, 2020": {
       "aliases": [
@@ -138648,7 +138949,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md"
       ],
-      "title": ""
+      "title": "Why the Elite Envy?"
     },
     "Lim & Renandya, 2020": {
       "aliases": [
@@ -143288,7 +143589,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md"
       ],
-      "title": ""
+      "title": "Gifted Education Programme: Rationale and Goals"
     },
     "MOE, 2011b": {
       "aliases": [
@@ -143303,7 +143604,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md"
       ],
-      "title": ""
+      "title": "Integrated Programmes (IP)"
     },
     "MOE, 2016": {
       "aliases": [
@@ -149057,6 +149358,21 @@
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10.md",
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18.md"
+      ],
+      "title": ""
+    },
+    "McCowan, 2007": {
+      "aliases": [
+        "McCowan, 2007",
+        "McCowan (2007)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "McCowan, 2007"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
       "title": ""
     },
@@ -155394,7 +155710,7 @@
         "Moore, 2000",
         "Moore (2000)"
       ],
-      "doi": "",
+      "doi": "10.1080/00346760050132303",
       "identity_keys": [
         "Moore, 2000"
       ],
@@ -155405,7 +155721,7 @@
         "wiki/concepts/research-methodology/Alternative Hypothesis.md",
         "wiki/concepts/research-methodology/Hypothesis.md"
       ],
-      "title": ""
+      "title": "Multiracialism and Meritocracy: Singapore’s Approach to Race and Inequality"
     },
     "Moore, 2006": {
       "aliases": [
@@ -160582,14 +160898,14 @@
       "identity_keys": [
         "Neuman, 2009"
       ],
-      "isbn": "",
+      "isbn": "9780807749555",
       "seen_in": [
         "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
         "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md",
         "wiki/concepts/educational-philosophy/Transformative Paradigm.md",
         "wiki/concepts/research-methodology/Research Ethics.md"
       ],
-      "title": ""
+      "title": "Changing the Odds for Children at Risk: Seven Essential Principles of Educational Programs That Break the Cycle of Poverty"
     },
     "Neuman, 2016": {
       "aliases": [
@@ -161956,6 +162272,22 @@
       "isbn": "",
       "seen_in": [],
       "title": "Impact of innovative learning in mathematics and natural sciences on student learning achievements: A meta-analysis."
+    },
+    "Nkrumah, 1965": {
+      "aliases": [
+        "Nkrumah, 1965",
+        "Nkrumah (1965)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Nkrumah, 1965"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
+        "wiki/concepts/political-economy-geopolitics/ASEAN Way.md"
+      ],
+      "title": ""
     },
     "Nnamani, 2020": {
       "aliases": [
@@ -169033,6 +169365,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/instruction-pedagogy/Eget Arbete.md"
+      ],
+      "title": ""
+    },
+    "Patrinos, 2021": {
+      "aliases": [
+        "Patrinos, 2021",
+        "Patrinos (2021)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Patrinos, 2021"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
       "title": ""
     },
@@ -177022,6 +177369,21 @@
       "seen_in": [],
       "title": "The effectiveness of intervention programs to help college students acquire self-regulated learning strategies: A meta-analysis"
     },
+    "Rahim, 1998": {
+      "aliases": [
+        "Rahim, 1998",
+        "Rahim (1998)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Rahim, 1998"
+      ],
+      "isbn": "9789835600326",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md"
+      ],
+      "title": "The Singapore Dilemma: The Political and Educational Marginality of the Malay Community"
+    },
     "Rahimi & Becker, 2018": {
       "aliases": [
         "Rahimi & Becker, 2018",
@@ -177888,11 +178250,11 @@
       "identity_keys": [
         "Rawls, 1971"
       ],
-      "isbn": "",
+      "isbn": "9780674000780",
       "seen_in": [
         "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md"
       ],
-      "title": ""
+      "title": "A Theory of Justice"
     },
     "Rawls, 1988": {
       "aliases": [
@@ -178058,6 +178420,36 @@
       "isbn": "",
       "seen_in": [],
       "title": "A Meta-Analysis of Transfer of Learning in Mathematics with a Focus on Teaching Interventions"
+    },
+    "Razak & Sanusi, 2023": {
+      "aliases": [
+        "Razak & Sanusi, 2023",
+        "Razak & Sanusi (2023)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Razak & Sanusi, 2023"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Sejahtera.md"
+      ],
+      "title": ""
+    },
+    "Razak et al., 2018": {
+      "aliases": [
+        "Razak et al., 2018",
+        "Razak et al. (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Razak et al., 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Sejahtera.md"
+      ],
+      "title": ""
     },
     "Razel, 2001": {
       "aliases": [
@@ -183479,6 +183871,21 @@
       ],
       "title": ""
     },
+    "Rosenbaum & Becker, 2011": {
+      "aliases": [
+        "Rosenbaum & Becker, 2011",
+        "Rosenbaum & Becker (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Rosenbaum & Becker, 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+      ],
+      "title": ""
+    },
     "Rosenbaum & Rubin, 1983": {
       "aliases": [
         "Rosenbaum & Rubin, 1983",
@@ -184158,11 +184565,11 @@
       "identity_keys": [
         "Rothstein, 2004"
       ],
-      "isbn": "",
+      "isbn": "9780807744567",
       "seen_in": [
         "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md"
       ],
-      "title": ""
+      "title": "Class and Schools: Using Social, Economic, and Educational Reform to Close the Black-White Achievement Gap"
     },
     "Rothwell et al., 1974": {
       "aliases": [
@@ -185159,6 +185566,21 @@
       ],
       "title": ""
     },
+    "Rungduin et al., 2014": {
+      "aliases": [
+        "Rungduin et al., 2014",
+        "Rungduin et al. (2014)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Rungduin et al., 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Kapwa.md"
+      ],
+      "title": ""
+    },
     "Runyan, 1987": {
       "aliases": [
         "Runyan, 1987",
@@ -185535,6 +185957,21 @@
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Rizvi_Lingard_2009_OECDEducationPolicy.md",
         "wiki/facts/global/World Bank.md",
         "wiki/facts/global/World Education Indicators.md"
+      ],
+      "title": ""
+    },
+    "Rutstein & Johnson, 2004": {
+      "aliases": [
+        "Rutstein & Johnson, 2004",
+        "Rutstein & Johnson (2004)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Rutstein & Johnson, 2004"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
       "title": ""
     },
@@ -186625,6 +187062,21 @@
       ],
       "title": ""
     },
+    "Saguin, 2022": {
+      "aliases": [
+        "Saguin, 2022",
+        "Saguin (2022)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Saguin, 2022"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+      ],
+      "title": ""
+    },
     "Sahin & Bae, 2020": {
       "aliases": [
         "Sahin & Bae, 2020",
@@ -187122,6 +187574,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Reading comprehension on handheld devices versus on paper: A narrative review and meta-analysis of the medium effect and its moderators."
+    },
+    "Salmi, 2023": {
+      "aliases": [
+        "Salmi, 2023",
+        "Salmi (2023)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Salmi, 2023"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+      ],
+      "title": ""
     },
     "Salminen, 2015": {
       "aliases": [
@@ -188409,7 +188876,7 @@
         "Satz, 2007",
         "Satz (2007)"
       ],
-      "doi": "",
+      "doi": "10.1086/518805",
       "identity_keys": [
         "Satz, 2007"
       ],
@@ -188417,7 +188884,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md"
       ],
-      "title": ""
+      "title": "Equality, Adequacy, and Education for Citizenship"
     },
     "Saunders, 2014": {
       "aliases": [
@@ -205961,11 +206428,11 @@
       "identity_keys": [
         "Swift, 2003"
       ],
-      "isbn": "",
+      "isbn": "9780415306638",
       "seen_in": [
         "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md"
       ],
-      "title": ""
+      "title": "How Not to Be a Hypocrite: School Choice for the morally Perplexed Parent"
     },
     "Sykes, 2024": {
       "aliases": [
@@ -208073,6 +208540,21 @@
       ],
       "title": ""
     },
+    "Tentshol et al., 2019": {
+      "aliases": [
+        "Tentshol et al., 2019",
+        "Tentshol et al. (2019)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Tentshol et al., 2019"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+      ],
+      "title": ""
+    },
     "Teo et al., 2013": {
       "aliases": [
         "Teo et al., 2013",
@@ -208455,6 +208937,21 @@
         "wiki/arguments/journal-articles/Education Policy Analysis Archives/Argument_Edmondson_2005_EPAA.md"
       ],
       "title": ""
+    },
+    "Thernstrom & Thernstrom, 2003": {
+      "aliases": [
+        "Thernstrom & Thernstrom, 2003",
+        "Thernstrom & Thernstrom (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Thernstrom & Thernstrom, 2003"
+      ],
+      "isbn": "9780743204811",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md"
+      ],
+      "title": "No Excuses: Closing the Racial Gap in Learning"
     },
     "Therrien et al., 2011": {
       "aliases": [
@@ -225420,6 +225917,21 @@
       "seen_in": [
         "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
         "wiki/concepts/comparative-education/Learning Gap.md"
+      ],
+      "title": ""
+    },
+    "Wu & Hawkins, 2018": {
+      "aliases": [
+        "Wu & Hawkins, 2018",
+        "Wu & Hawkins (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Wu & Hawkins, 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
       "title": ""
     },

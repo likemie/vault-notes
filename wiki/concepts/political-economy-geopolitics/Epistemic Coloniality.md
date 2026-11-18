@@ -41,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-29
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -89,4 +89,5 @@ updated: 2026-11-11
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Indrarajah_2026_NJCIE|Indrarajah (2026)]] — 阐释东南亚高等教育中欧洲中心主义与东亚新殖民性的隐性知识垄断，提出依托本土哲学开辟去殖民多元世界可能。
 > - [[Argument_Yu_Xie_2025_JHE\|余婧然和谢爱磊 (2025)]] — 在[[Knowledge Production\|知识生产]]的论证步骤（论证步骤四）中系统阐述了[[Epistemology\|认识论]]殖民的结构性基础、三层制度机制（排名、出版平台、学者自我规训）以及全球南方国家的策略性回应。

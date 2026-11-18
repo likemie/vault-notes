@@ -5823,6 +5823,17 @@
     ]
   },
   {
+    "title": "Kapwa",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Kapwa.md",
+    "aliases": [
+      "共享认同",
+      "互为同人",
+      "伙伴同胞",
+      "菲律宾互依伦理"
+    ]
+  },
+  {
     "title": "Kunstformen",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Kunstformen.md",
@@ -6524,6 +6535,17 @@
     "aliases": [
       "筛选隔离",
       "条件独立屏蔽"
+    ]
+  },
+  {
+    "title": "Sejahtera",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Sejahtera.md",
+    "aliases": [
+      "繁荣安宁",
+      "繁荣福祉",
+      "和乐福祉",
+      "马来安宁哲学"
     ]
   },
   {
@@ -55066,6 +55088,11 @@
     "title": "Argument_Snook_2010_NZJES",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/New Zealand Journal of Educational Studies/Argument_Snook_2010_NZJES.md"
+  },
+  {
+    "title": "Argument_Indrarajah_2026_NJCIE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
   },
   {
     "title": "Argument_Knudsen_2017_NordSTEP",

@@ -75,7 +75,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 > [!theory-position] 理论定位
@@ -198,6 +198,7 @@ updated: 2026-11-14
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Indrarajah_2026_NJCIE|Indrarajah (2026)]] — 运用认识论去殖民化框架解构东南亚高教的双重新殖民渗透，论证依托本土哲学重构东盟方式以开辟多元世界可能。
 > - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] — 将去殖民知识地缘政治与批判地缘政治学结合构建新知识地缘政治框架，剖析全球高等教育创新话语的认识论等级。
 > - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — 回溯法农与陈光兴思想谱系，检视知识生产与知识转移在大国博弈中的权力模态。
 > - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 结合去殖民视角与危机认识论，剖析国际组织关于全球学习危机话语中的白人救世主心态、技术主义赤字建构与国家教育主权侵蚀。
