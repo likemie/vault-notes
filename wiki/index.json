@@ -47190,6 +47190,21 @@
     "subtype": "policy"
   },
   {
+    "title": "Primary Education Review and Implementation",
+    "type": "fact",
+    "path": "wiki/facts/singapore/Primary Education Review and Implementation.md",
+    "aliases": [
+      "小学教育审查与实施委员会",
+      "小学教育审查报告",
+      "小学教育审查与实施",
+      "PERI",
+      "Primary Education Review",
+      "PERI Committee",
+      "PERI Report"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Primary School Leaving Examination",
     "type": "fact",
     "path": "wiki/facts/singapore/Primary School Leaving Examination.md",
@@ -54155,6 +54170,11 @@
     "title": "Argument_Huang_2020_APJE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Huang_2020_APJE.md"
+  },
+  {
+    "title": "Argument_Lim_2013_APJE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md"
   },
   {
     "title": "Argument_SpronkenSmith_2024_AEHE",

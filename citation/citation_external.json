@@ -1842,6 +1842,8 @@
     "Baroody, 2009": "Baroody, 2009",
     "Baroutsis & Lingard (2016)": "Baroutsis & Lingard, 2016",
     "Baroutsis & Lingard, 2016": "Baroutsis & Lingard, 2016",
+    "Barr & Low (2005)": "Barr & Low, 2005",
+    "Barr & Low, 2005": "Barr & Low, 2005",
     "Barr & Skrbis (2008)": "Barr & Skrbis, 2008",
     "Barr & Skrbis, 2008": "Barr & Skrbis, 2008",
     "Barr Greenfield (1975)": "Barr Greenfield, 1975",
@@ -4329,6 +4331,8 @@
     "Cavalluzzo et al., 2014": "Cavalluzzo et al., 2014",
     "Cavan (1977)": "Cavan, 1977",
     "Cavan, 1977": "Cavan, 1977",
+    "Cavanagh (2002)": "Cavanagh, 2002",
+    "Cavanagh, 2002": "Cavanagh, 2002",
     "Cavanaugh (2001)": "Cavanaugh, 2001",
     "Cavanaugh (2017)": "Cavanaugh, 2017",
     "Cavanaugh et al. (2000)": "Cavanaugh et al., 2000",
@@ -12712,6 +12716,8 @@
     "Jürgen Schriewer, 2012": "Jürgen Schriewer, 2012",
     "K. J. (2015)": "K. J., 2015",
     "K. J., 2015": "K. J., 2015",
+    "K. P. Tan (2008)": "K. P. Tan, 2008",
+    "K. P. Tan, 2008": "K. P. Tan, 2008",
     "K.-H. (2005)": "K.-H., 2005",
     "K.-H. (2010)": "K.-H., 2010",
     "K.-H., 2005": "K.-H., 2005",
@@ -14341,7 +14347,9 @@
     "Lapping, 2004": "Lapping, 2004",
     "Lareau & Cox (2011)": "Lareau & Cox, 2011",
     "Lareau & Cox, 2011": "Lareau & Cox, 2011",
+    "Lareau (2003)": "Lareau, 2003",
     "Lareau (2015)": "Lareau, 2015",
+    "Lareau, 2003": "Lareau, 2003",
     "Lareau, 2015": "Lareau, 2015",
     "Larivière et al. (2015)": "Larivière et al., 2015",
     "Larivière et al., 2015": "Larivière et al., 2015",
@@ -20273,6 +20281,8 @@
     "Ragnar Nurkse, 1953": "Ragnar Nurkse, 1953",
     "Ragosta (2010)": "Ragosta, 2010",
     "Ragosta, 2010": "Ragosta, 2010",
+    "Rahim (1998)": "Rahim, 1998",
+    "Rahim, 1998": "Rahim, 1998",
     "Rahimi & Becker (2018)": "Rahimi & Becker, 2018",
     "Rahimi & Becker, 2018": "Rahimi & Becker, 2018",
     "Rahman et al. (2023)": "Rahman et al., 2023",
@@ -21251,6 +21261,8 @@
     "Roth-van, 2002": "Roth-van, 2002",
     "Rothman (2011)": "Rothman, 2011",
     "Rothman, 2011": "Rothman, 2011",
+    "Rothstein (2004)": "Rothstein, 2004",
+    "Rothstein, 2004": "Rothstein, 2004",
     "Rothwell et al. (1974)": "Rothwell et al., 1974",
     "Rothwell et al., 1974": "Rothwell et al., 1974",
     "Rotter (1954)": "Rotter, 1954",
@@ -24243,6 +24255,8 @@
     "Sweller, 2022": "Sweller, 2022",
     "Swidler (1986)": "Swidler, 1986",
     "Swidler, 1986": "Swidler, 1986",
+    "Swift (2003)": "Swift, 2003",
+    "Swift, 2003": "Swift, 2003",
     "Sykes (2024)": "Sykes, 2024",
     "Sykes, 2024": "Sykes, 2024",
     "Sylva (2008)": "Sylva, 2008",
@@ -42040,6 +42054,21 @@
       ],
       "title": ""
     },
+    "Barr & Low, 2005": {
+      "aliases": [
+        "Barr & Low, 2005",
+        "Barr & Low (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Barr & Low, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md"
+      ],
+      "title": ""
+    },
     "Barr & Skrbis, 2008": {
       "aliases": [
         "Barr & Skrbis, 2008",
@@ -46344,6 +46373,7 @@
       ],
       "isbn": "9780710086433",
       "seen_in": [
+        "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md",
         "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md",
         "wiki/concepts/curriculum/Curricular Form.md"
       ],
@@ -60468,6 +60498,21 @@
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05.md",
         "wiki/concepts/research-methodology/Research Ethics.md"
+      ],
+      "title": ""
+    },
+    "Cavanagh, 2002": {
+      "aliases": [
+        "Cavanagh, 2002",
+        "Cavanagh (2002)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Cavanagh, 2002"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md"
       ],
       "title": ""
     },
@@ -90283,6 +90328,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md",
         "wiki/theories/educational-policy-reform/Critical Pluralism.md"
       ],
       "title": ""
@@ -121600,6 +121646,21 @@
       ],
       "title": ""
     },
+    "K. P. Tan, 2008": {
+      "aliases": [
+        "K. P. Tan, 2008",
+        "K. P. Tan (2008)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "K. P. Tan, 2008"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md"
+      ],
+      "title": ""
+    },
     "K.-H., 2005": {
       "aliases": [
         "K.-H., 2005",
@@ -133293,6 +133354,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md"
+      ],
+      "title": ""
+    },
+    "Lareau, 2003": {
+      "aliases": [
+        "Lareau, 2003",
+        "Lareau (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Lareau, 2003"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md"
       ],
       "title": ""
     },
@@ -154968,6 +155044,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
+        "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md",
         "wiki/concepts/research-methodology/Alternative Hypothesis.md",
         "wiki/concepts/research-methodology/Hypothesis.md"
       ],
@@ -160151,6 +160228,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
+        "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md",
         "wiki/concepts/educational-philosophy/Transformative Paradigm.md",
         "wiki/concepts/research-methodology/Research Ethics.md"
       ],
@@ -176557,6 +176635,21 @@
       "seen_in": [],
       "title": "The effectiveness of intervention programs to help college students acquire self-regulated learning strategies: A meta-analysis"
     },
+    "Rahim, 1998": {
+      "aliases": [
+        "Rahim, 1998",
+        "Rahim (1998)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Rahim, 1998"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md"
+      ],
+      "title": ""
+    },
     "Rahimi & Becker, 2018": {
       "aliases": [
         "Rahimi & Becker, 2018",
@@ -183668,6 +183761,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Do school-based tutoring programs significantly improve student performance on standardized tests?"
+    },
+    "Rothstein, 2004": {
+      "aliases": [
+        "Rothstein, 2004",
+        "Rothstein (2004)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Rothstein, 2004"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md"
+      ],
+      "title": ""
     },
     "Rothwell et al., 1974": {
       "aliases": [
@@ -205411,6 +205519,21 @@
         "wiki/theories/sociology-of-education/Culture as Toolkit.md"
       ],
       "title": "Culture in Action: Symbols and Strategies"
+    },
+    "Swift, 2003": {
+      "aliases": [
+        "Swift, 2003",
+        "Swift (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Swift, 2003"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md"
+      ],
+      "title": ""
     },
     "Sykes, 2024": {
       "aliases": [
