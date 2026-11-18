@@ -53,9 +53,9 @@ related_facts:
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
 confidence: high
-status: draft
+status: active
 created: 2026-10-23
-updated: 2026-10-26
+updated: 2026-11-18
 ---
 
 ---
@@ -103,6 +103,21 @@ updated: 2026-10-26
 > [!tension] 公民生成数据与官方统计指标的互补张力
 > - **数据严谨性与草根合法性的博弈** 技术官僚与部分计量经济学者有时质疑公民生成数据缺乏严格的抽样控制与测量效度；GCE 则指出官方宏观聚合数据往往掩盖了族裔、性别与贫富维度的极端不公，两者具有不可替代的互补价值。
 > - **[[Two-Mode Network Analysis|两模网络分析]]中的高频咨询实体** 在联合国教科文组织报告对 286 位受访者的两模从属[[Network Analysis|网络分析]]中，GCE 在经常查阅的机构中高居全球并列第 6 名（与 [[INEE]] 同列，仅次于 UNESCO、[[OECD]]、[[World Bank|世行]]、[[UNICEF]]、[[International Institute for Educational Planning|IIEP]]、[[Global Partnership for Education|GPE]]），展现了国际民间组织在实务决策咨询中的深厚穿透力。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 23–24)]]
+
+---
+
+> [!entry-map] 相关条目网络
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[International Education]] | 概念 | GCE 开展全球倡导与跨境民间社会动员的核心业务领域。 |
+> | [[Quality Education]] | 概念 | GCE 致力于捍卫的全民公立优质教育法定人权目标。 |
+> | [[Structural Adjustment Programs]] | 概念 | GCE 在全球教育财政监督中持续批判的紧缩性宏观经济政策。 |
+> | [[Education for All]] | 事实 | GCE 成立初期直接推动并监督各国兑现的核心全球倡议。 |
+> | [[UN Sustainable Development Goals]] | 事实 | GCE 参与全球教育治理与多边政策监督的当代核心行动框架。 |
+> | [[UNESCO]] | 事实 | GCE 作为主要非政府组织代表参与高级别指导委员会的核心多边合作机构。 |
+> | [[Global Partnership for Education]] | 事实 | GCE 持续监督国际发展援助资金流向与民间社会参与的跨国基金。 |
+> | [[Two-Mode Network Analysis]] | 方法 | 测度 GCE 在全球证据生态网络中咨询频次与中介中心度的分析方法。 |
 
 ---
 

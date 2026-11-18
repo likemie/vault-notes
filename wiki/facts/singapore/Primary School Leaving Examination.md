@@ -10,7 +10,7 @@ subtype: policy
 region: singapore
 fact_region: "singapore"
 fact_kind: "policy"
-fact_related_count: 13
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -96,9 +96,9 @@ updated: 2026-11-18
 > > [!axis] 全民学业基准达标 vs 高利害淘汰引发的严重评估反拨与应试规锁
 > > 从[[Developmental State|发展型国家]]治理效能来看，PSLE 结合初中能力分流将早期高逾 20% 的基础教育流失率控制在 1% 以下，确保了全民[[Human Capital Theory|人力资本]]的充分开发与大众化学术基线达标；然而作为决定学生未来学术前途与社会分层的超级高利害考试，PSLE 在整个基础教育系统中产生了压倒性的[[Assessment Backwash|评估反拨]]效应。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 454–458)]]
 > >
-> > - **Deng & Gopinathan（2016）** 指出无论宏观政策如何倡导探究性与创新思维，微观课堂师生始终将教学实践紧紧锚定于[[Direct Instruction|直接讲授]]与题型操练；同时催生了全岛庞大的影子教育补习市场，使[[Socioeconomic Status|家庭背景]]差距通过强化应试被系统性放大（pp. 454–458）。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 454–458)]]
-> > - **Hogan et al.（2013）** 大规模课堂实证论证以 PSLE 和 O 水准为锚点的国家高利害考试制度激励并奖赏了追求考试成绩最大化的直接教学，制度性规锁了向理解与共同调节学习的教学法转型（pp. 58–60, 98–101）。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 58–60, 98–101)]]
-> > - **Gopinathan（2007）** 探讨 PSLE 作为精英选拔工具在社会阶层分化加剧背景下遭遇的公平性拷问，以及对学校微观课程创新的刚性制约（pp. 67–68）。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 67–68)]]
+> > - **[[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]]** 指出无论宏观政策如何倡导探究性与创新思维，微观课堂师生始终将教学实践紧紧锚定于[[Direct Instruction|直接讲授]]与题型操练；同时催生了全岛庞大的影子教育补习市场，使[[Socioeconomic Status|家庭背景]]差距通过强化应试被系统性放大。
+> > - **[[Argument_Hogan_2013_ROE|Hogan et al. (2013)]]** 大规模课堂实证论证以 PSLE 和 O 水准为锚点的国家高利害考试制度激励并奖赏了追求考试成绩最大化的直接教学，制度性规锁了向理解与共同调节学习的教学法转型（pp. 58–60, 98–101）。
+> > - **[[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]]** 探讨 PSLE 作为精英选拔工具在社会阶层分化加剧背景下遭遇的公平性拷问，以及对学校微观课程创新的刚性制约（pp. 67–68）。
 
 ---
 
@@ -112,7 +112,7 @@ updated: 2026-11-18
 > | [[Teach Less, Learn More]] | 事实 | 力图缩减大纲知识负荷以化解 PSLE 高利害应试刚性规锁的微观课改。 |
 > | [[Goh Report]] | 事实 | 1979 年正式将 PSLE 确立为初中分流关键依据的历史性制度文献。 |
 > | [[Cram Schools]] | 事实 | PSLE 激烈选拔直接催生并维系庞大规模的校外课后补习产业。 |
-> | [[Assessment Backwash]] | 概念 | PSLE 终结性考核倒逼微观课堂教学窄化为机械操练的典型制度机制。 |
+> | [[Assessment Backwash]] | 概念 | PSLE 终结性考核促使微观课堂教学窄化为机械操练的典型制度机制。 |
 > | [[Curriculum Alignment]] | 概念 | 新加坡课程大纲、课堂教学与 PSLE 测评标准高度协同的制度设计。 |
 > | [[Educational Meritocracy]] | 概念 | PSLE 作为基于客观考试分数选拔拔尖英才与分配升学机会的意识形态基石。 |
 > | [[Direct Instruction]] | 概念 | 教师在 PSLE 高利害问责约束下最常采用且最为高效的应试讲授形态。 |

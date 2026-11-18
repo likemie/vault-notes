@@ -27,9 +27,9 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Counseling Effects]]"
   - "[[Cooperative Learning]]"
+  - "[[Epistemology]]"
   - "[[Creativity]]"
   - "[[Direct Instruction]]"
-  - "[[Epistemology]]"
   - "[[Test-Based Accountability]]"
 related_theories:
   - "[[Developmental State]]"
@@ -39,9 +39,9 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Thinking Schools, Learning Nation]]"
+  - "[[School Excellence Model]]"
   - "[[National Institute of Education]]"
   - "[[Primary School Leaving Examination]]"
-  - "[[School Excellence Model]]"
 related_arguments:
   - "[[Argument_Gopinathan_2007_GSE]]"
   - "[[Argument_Hogan_2013_ROE]]"
@@ -101,9 +101,9 @@ updated: 2026-11-18
 > [!debates] 政策争议
 >
 > > [!axis] 探究取向倡导 vs 高利害考试问责刚性规锁
-> > 政策向基层学校注入了前所未有的物质与人力资源，推动了[[Cooperative Learning|合作学习]]与专题研究等探究性教学实验。然而面对[[Primary School Leaving Examination|小六离校考试]]（Primary School Leaving Examination, PSLE）与剑桥普通水准（General Certificate of Education Ordinary Level, O-Level）等高利害升学淘汰关口，家长与教师的安全感依然绑定在考试成绩上。一线教师普遍将思维技能转化为形式化的应对技巧，在维持传统讲授主框架的同时附加零散改革环节，使教学法深层[[Epistemology|认识论]]依然受制于应试逻辑。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 67–68)]]
+> > 政策向基层学校注入了前所未有的物质与人力资源，推动了[[Cooperative Learning|合作学习]]与专题研究等探究性教学实验。然而面对[[Primary School Leaving Examination|小六离校考试]]（Primary School Leaving Examination, PSLE）与剑桥普通水准（General Certificate of Education Ordinary Level, O-Level）等高利害升学淘汰关口，家长与教师的安全感依然绑定在考试成绩上。一线教师普遍将思维技能转化为形式化的应对技巧，在维持传统讲授主框架的同时附加零散改革环节，使教学法深层[[Epistemology|认识论]]依然受制于应试逻辑。
 > >
-> > - **[[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]]** 指出多数教师将[[Creativity|创造力]]窄化为应对技巧，在维持原有高密度[[Direct Instruction|直接教学]]主框架下附加零散环节，未能撼动底层的应试认识论（pp. 67–68）。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 67–68)]]
+> > - **[[Argument_Gopinathan_2007_GSE|Gopinathan (2007, pp. 67–68)]]** 指出多数教师将[[Creativity|创造力]]窄化为应对技巧，在维持原有高密度[[Direct Instruction|直接教学]]主框架下附加零散环节，未能撼动底层的应试认识论。
 > > - **[[Argument_Hogan_2013_ROE|Hogan et al. (2013)]]** 通过大规模课堂实证调查揭示，政策推行五年后中三课堂中直接教学实施均分（3.45–3.69）仍显著压倒探究理解（3.38–3.43）与协作自评（3.01–3.28），证实未改变高利害考试制度的教学倡议难以重塑课堂生态（pp. 58–60, 98–101）。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 58–60, 98–101)]]
 > > - **[[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]]** 考证少教多学虽调减了 10%–20% 的课程大纲负荷以释放白空间，但由于国家考试高利害问责未变，宏观改革在基层学校遭遇了显著的实践脱节（loose coupling），核心教学实践依然牢牢锚定于直接教学与应试巩固（pp. 456–457）。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 456–457)]]
 

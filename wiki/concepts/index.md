@@ -1215,7 +1215,7 @@ Total entries: **2139**
 > - [[Peer Friendship]] — Visible Learning MetaX 因素友谊的条目，归属课堂 › 课堂氛围；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
 > - [[Peer-Supported Learning]] — 涵盖学生间协同探究与教师间教研协作的双层互助学习范式；在学生层面通过认知外显与包容试错促进深度理解，在教师层面依托教研室信任文化与经验共享维系专业共同体，构成抵御新自由主义绩效工资零和竞争侵蚀的核心屏障。
 > - [[Phenomenon-Based Learning]] — 芬兰课程语境中的现象本位学习，以复杂现象组织跨学科探究，强调学科深度、生活世界、协作和共同责任。
-> - [[Philosophy in Schools]] — Visible Learning MetaX 因素儿童哲学的条目，归属教学策略 › 教学方法；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
+> - [[Philosophy in Schools]] — 以哲学对话与探究共同体为核心、旨在提升儿童与青少年批判性、创造性与关怀性思维能力的教学取向与课程实践
 > - [[Planning and Prediction]] — Visible Learning MetaX 因素计划与预测的条目，归属教学策略 › 学习意图；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
 > - [[Popular Education]] — 发端于拉丁美洲的解放教育范式，主张立足被压迫工农大众的生活经验与阶级境遇，通过提问式对话教学激发批判意识觉醒，培养改造社会结构的政治能动性，与国家威权自上而下的补偿性恩庇扫盲相对立
 > - [[Practical Inquiry in Science Education]] — 指学生通过亲自动手实验、野外考察和真实科学问题探究，体验知识生成过程、发展实证思维并加深对科学本质理解的教学实践

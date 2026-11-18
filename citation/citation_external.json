@@ -93409,7 +93409,9 @@
         "Garcia-Moriyon et al., 2005"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Philosophy in Schools.md"
+      ],
       "title": "Evaluating Philosophy for Children: A meta-analysis."
     },
     "García-Hermoso, 2020": {
@@ -97250,8 +97252,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md",
-        "wiki/facts/singapore/Speak Good English Movement.md"
+        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md"
       ],
       "title": "Speech by Prime Minister Goh Chok Tong at the launch of the Speak Good English Movement"
     },
@@ -206255,6 +206256,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md",
+        "wiki/facts/singapore/Independent Schools Initiative.md",
         "wiki/facts/singapore/Integrated Programme.md"
       ],
       "title": "Independent schools and autonomous schools in Singapore: A study of two school categorization schemes"
@@ -211496,7 +211498,9 @@
         "Trickey & Topping, 2007"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Philosophy in Schools.md"
+      ],
       "title": "Collaborative philosophical enquiry for school children: participant evaluation at 11-12 years."
     },
     "Triebkräfte, 1947": {
@@ -225857,7 +225861,9 @@
         "Yan et al., 2018"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Philosophy in Schools.md"
+      ],
       "title": "Meta-analysis of the effectiveness of philosophy for children programs on students' cognitive outcomes"
     },
     "Yan et al., 2021": {
