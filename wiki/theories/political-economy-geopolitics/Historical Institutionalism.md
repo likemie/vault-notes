@@ -7,7 +7,7 @@ aliases:
 summary: "当代政治学与社会学核心制度分析范式；主张制度是承载权力分配后果的持久组织安排，强调历史时间性、路径依赖与关键节点；早期侧重外生危机冲击下的间断均衡，后经施特雷克、马奥尼与希伦发展，将制度重构为包含第三方强制力与执行缝隙的社会规制，全面转向常态历史时期的内生渐进演变分析。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 44
+theory_related_count: 45
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -64,13 +64,14 @@ related_facts: []
 related_arguments:
   - "[[Argument_Streeck_Thelen_2005_OUP]]"
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
+  - "[[Argument_Deng_2016_CE]]"
   - "[[Argument_Verger_2019_Discourse]]"
   - "[[Argument_VanDerHeijden_2011_Politics]]"
   - "[[Argument_Murray_Moxon-Browne_2013_JCMS]]"
 confidence: high
 status: active
 created: 2026-10-11
-updated: 2026-11-15
+updated: 2026-11-18
 ---
 
 ---
@@ -97,11 +98,12 @@ updated: 2026-11-15
 > - **2000 年代初 — [[Path Dependence|路径依赖]]的形式化[[Causal Modeling|因果建模]]** [[Paul Pierson|保罗·皮尔逊]]（Paul Pierson, 2000, 2004）与[[James Mahoney|詹姆斯·马奥尼]]（James Mahoney）（2000）系统引入经济学报酬递增概念，建构[[Path Dependence|路径依赖]]、关键节点与反应序列的形式化因果分析模型。
 > - **2005 年 — 内生渐进演进形态学奠基** [[Wolfgang Streeck|沃尔夫冈·施特雷克]]（Wolfgang Streeck）与希伦（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005]]）反思历史制度主义早期过度沉迷路径锁定的保守偏误，将制度重构为包含第三方强制力与执行缝隙的社会规制，系统提出置换、分层、漂移、转换与耗竭五大变迁形态，彻底扭转了将重大变迁等同于外生危机突变的二元论。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 1–39)]]
 > - **2009 年 — 行动者博弈模型确立与分析扩展** 马奥尼与希伦（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009]]）出版《解释制度变迁》，建构“[[Veto Possibilities|否决可能性]] × [[Enforcement Discretion|执行裁量权]]”双维矩阵与四类行动者微观博弈模型，确立[[Theory of Gradual Institutional Change|渐进制度变迁理论]]，并被广泛应用于比较政治学与公共政策分析。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 1–37)]]
-> - **2019 年 — 教育政策领域的历史制度主义分析** 安东尼·维格（Antoni Verger）、路易斯·帕塞里萨（Lluís Parcerisa）与克拉拉·丰德维拉（Clara Fontdevila）将历史制度主义渐进演变理论（[[Institutional Layering|制度分层]]、[[Institutional Conversion|制度转换]]与[[Institutional Drift|制度漂移]]）引入全球教育治理分析，揭示全球测试问责政策在英美[[New Public Management|新公共管理]]传统、欧洲[[Neo-Weberian State|新韦伯主义]]与[[Napoleonic Administrative Tradition|拿破仑行政传统]]下的差[[Alienation|异化]]折射轨迹。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 250–252, 262–263)]]
+> - **2016 年 — 跨国比较教育中的历史制度主义应用** 邓宗怡与高平纳坦（[[Argument_Deng_2016_CE|Deng & Gopinathan, 2016]]）将历史制度主义视角引入东亚高绩效教育系统研究，证明微观常态课堂教学实践深嵌于半个世纪以来的宏观国家制度演变（统一大纲、小学离校考试早期高利害分流、考试唯才是用意识形态与课外补习生态），有力解构了跨国咨询机构去情境化的输入-产出因果神话。
+> - **2019 年 — 全球教育治理与问责扩散的制度演变** 安东尼·维格（Antoni Verger）、路易斯·帕塞里萨（Lluís Parcerisa）与克拉拉·丰德维拉（Clara Fontdevila）将历史制度主义渐进演变理论（[[Institutional Layering|制度分层]]、[[Institutional Conversion|制度转换]]与[[Institutional Drift|制度漂移]]）引入全球教育治理分析，揭示全球测试问责政策在英美[[New Public Management|新公共管理]]传统、欧洲[[Neo-Weberian State|新韦伯主义]]与[[Napoleonic Administrative Tradition|拿破仑行政传统]]下的差[[Alienation|异化]]折射轨迹。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 250–252, 262–263)]]
 
 ---
 
-> [!entry-map] 关键概念与理论构件
+> [!theory-constructs] 关键概念与理论构件
 > | 构件 | 类型 | 在理论中的功能 |
 > |:---|:---|:---|
 > | **[[Historical Institutionalism\|历史制度主义]]** | 核心[[Paradigm\|范式]] | 整合时间性、权力分配属性与组织中介维度的总体历史政治分析学派。 |
@@ -181,11 +183,13 @@ updated: 2026-11-15
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 评述历史制度主义[[Institutional Layering|制度分层]]概念在当代公共政策中的经验演化与理论反思。
 > - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 将历史制度主义渐进变迁机制（制度分层、[[Institutional Conversion|制度转换]]与[[Institutional Drift|制度漂移]]）应用于全球教育治理与国家大尺度测评（[[National Large-Scale Assessments|NLSA]]）扩散研究，解释全球测评问责[[Discourse|话语]]如何与不同国家行政传统发生折射。（pp. 250–252, 262–263）
 > - [[Argument_Murray_Moxon-Browne_2013_JCMS|Murray and Moxon-Browne (2013)]] — 结合历史制度主义比较战后欧洲主权危机与东南亚后殖民建国历程，阐释区域组织对不同历史路径的制度依赖与规范锁闭（pp. 524–527）。
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 运用历史制度主义视角阐释新加坡五十年教育演进，揭示宏观集权考试分流制度对微观教学杂糅的支撑、规范与约束机制。（pp. 450–454, 460–464）
 
 ---
 
 ## 参考文献
 
+- Deng, Z., & Gopinathan, S. (2016). PISA and high-performing education systems: explaining Singapore's education success. *Comparative Education*, 52(4), 449–472.
 - Hall, P. A. (1986). *Governing the economy: The politics of state intervention in Britain and France*. New York: Oxford University Press.
 - [[Peter A. Hall|Hall, P. A.]], & Soskice, D. (Eds.). (2001). *[[Varieties of Capitalism]]: The institutional foundations of comparative advantage*. Oxford: Oxford University Press.
 - Hall, P. A., & Taylor, R. C. R. (1996). Political science and the three new institutionalisms. *Political Studies*, 44(5), 936–957.

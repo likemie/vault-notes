@@ -8,10 +8,10 @@ aliases:
 summary: "由专业辅导员或学校教员提供的系统性心理支持与行为干预机制，涵盖情绪疏导、行为矫治、学习策略与认知发展，旨在通过改善学生心理状态与分担教师非教学负荷，促进身心健康与学业成就。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 6
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept
   - instruction-pedagogy
@@ -19,14 +19,14 @@ tags:
   - mental-health
   - metax
 related_concepts:
+  - "[[Visible Learning]]"
   - "[[Classroom Management]]"
   - "[[Academic Achievement]]"
   - "[[Differentiated Instruction]]"
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_facts:
   - "[[Teach Less, Learn More]]"
 related_arguments:
@@ -94,6 +94,17 @@ updated: 2026-11-18
 
 ---
 
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Teach Less, Learn More]] | 事实 | 新加坡全面配置专职学校辅导员以推进教师减负与教学深化的宏观倡议。[[Argument_Gopinathan_2007_GSE\|(Gopinathan, 2007, p. 62)]] |
+> | [[Classroom Management]] | 概念 | 心理辅导在 Visible Learning MetaX 分类体系中所归属的课堂生态维度。 |
+> | [[Academic Achievement]] | 概念 | 心理辅导通过情绪调节与技能支持所致力于改善的核心认知与学业结果。 |
+> | [[Differentiated Instruction]] | 概念 | 辅导员分担教师非教学负荷后，一线教师得以投入实施的高阶教学形态。 |
+
 > [!metax-divider]
 
 > [!metax] [心理辅导 · Counseling effects](https://www.visiblelearningmetax.com/influences/view/counseling_effects)
@@ -111,17 +122,6 @@ updated: 2026-11-18
 > > | Reese et al. (2010) | Counseling on cognitive outcomes | 25 | NA | 25 | 0.55 |  |
 > > | Villares, Frain, Brigman, Webb, & Peluso (2012b) | Counseling Student Success Skills | 5 | 1,279 | 5 | 0.29 |  |
 > > | Baskin et al. (2010) | Psychotherapy on academic outcomes | 83 | NA | 102 | 0.38 |  |
-
----
-
-> [!entry-map] 条目关联
->
-> | 条目 | 类型 | 关系 |
-> |:-----|:-----|:-----|
-> | [[Teach Less, Learn More]] | 事实 | 新加坡全面配置专职学校辅导员以推进教师减负与教学深化的宏观倡议。[[Argument_Gopinathan_2007_GSE\|(Gopinathan, 2007, p. 62)]] |
-> | [[Classroom Management]] | 概念 | 心理辅导在 Visible Learning MetaX 分类体系中所归属的课堂生态维度。 |
-> | [[Academic Achievement]] | 概念 | 心理辅导通过情绪调节与技能支持所致力于改善的核心认知与学业结果。 |
-> | [[Differentiated Instruction]] | 概念 | 辅导员分担教师非教学负荷后，一线教师得以投入实施的高阶教学形态。 |
 
 ---
 

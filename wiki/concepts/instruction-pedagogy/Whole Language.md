@@ -8,10 +8,10 @@ aliases:
 summary: "强调儿童在真实完整的交际与文学语境中整体习得语言与读写的教学哲学，主张阅读是读者协同调动语义、句法与字形线索的心理语言学猜测游戏；反对将读写能力机械拆解为脱离语境的孤立子技能灌输，并作为新加坡英文学习与阅读策略项目（STELLAR）等宏观课程改革的核心教学法基石。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 48
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 52
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - whole-language
   - literacy

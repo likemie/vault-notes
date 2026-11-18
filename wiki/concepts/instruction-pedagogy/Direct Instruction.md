@@ -7,7 +7,7 @@ aliases:
 summary: "由教师主动主导、以明确目标说明、分步示范、有指导练习、理解检查与即时反馈为核心的高结构化教学模式，在程序性知识与基础技能教学中成效显著，但在高阶思维培养中需与情境探究结合以避免教育副作用"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 81
+related_count: 80
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -48,7 +48,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Productive Failure]]"
   - "[[Control of Variables Strategy]]"
-  - "[[Procedural Knowledge]]"
   - "[[Incommensurability]]"
   - "[[Commensuration]]"
   - "[[Category Mistake]]"
@@ -329,6 +328,7 @@ updated: 2026-11-18
 > | [[Argument_Sahlgren_2015_CPS\|Sahlgren (2015)]] | 芬兰基础教育课堂长期观察、[[TIMSS]]与PISA历史数据库及国际计量[[Document\|文献]] | 历史比较与教学法效应综合审查 | 教师主导直接教学对比学生中心探究教学对认知学业表现的影响 | 证实芬兰在国际测验中的历史高分与教师长期保留高结构直接教学密切相关；1990年代后期转向以学生为中心的探究发现法导致认知成绩系统性下降 | 跨国与跨期历史实证一致 | 提供了宏观国家教育系统因过早放弃直接教学而导致认知绩效滑坡的系统性案例 |
 > | [[Argument_DeJong_2023_ERR\|Dean & Kuhn (2007, cited in De Jong et al., 2023, p. 3)]] | 六年级学生 | [[Control of Variables Strategy\|变量控制策略]]教学：直接教学组 vs. 直接教学+探究组 vs. 纯探究组 | 13 周延迟保持测验成绩 | 直接教学组保持率 31%；直接+探究组保持率 83%；纯探究组保持率 78% | 组间差异显著（$p < .05$） | 纵向对比实验；证实直接教学若脱离自主探究练习，长效保持率发生显著退化 |
 > | [[Argument_DeJong_2023_ERR\|Strand-Cary & Klahr (2008, cited in De Jong et al., 2023, p. 3)]] | 小学三、四年级学生 | 变量控制策略教学：显性直接教学 vs. 探究式主动发现 | 即时掌握率与跨情境迁移测验 | 即时与延迟测验两组得分高度均等（Equivalence） | 差异无统计学显著性 | 受控实验；表明直接教学并未展现出压倒[[Inquiry-Based Learning\|探究式学习]]的绝对优势 |
+> | [[Argument_Hogan_2013_ROE\|Hogan et al. (2013)]] | 新加坡全国 39 所中学 101 个中三班级（英语 51 班，数学 50 班），918 位教师 | 大规模问卷调查、课堂观察与验证性因子分析 | 显性直接教学实施知觉均值及因子载荷 | 英语直接教学 $M = 3.47$ ($SD = 0.57$)，数学 $M = 3.60$ ($SD = 0.52$)；示范解题因子载荷 $\lambda = .868$–$.897$；模型拟合良好（RMSEA $= .047$, CFI $= .989$） | $p < .001$ | 确证直接教学在高绩效课堂中作为高频主干且连接传统讲授与理解探究的中介定位（pp. 77, 91–94） |
 
 ---
 

@@ -69,8 +69,7 @@ related_methods:
   - "[[Critical Policy Analysis]]"
   - "[[Causal Modeling]]"
 related_instruments: []
-related_persons:
-  - "[[Saravanan Gopinathan]]"
+related_persons: []
 related_facts:
   - "[[National Education]]"
   - "[[Thinking Schools, Learning Nation]]"
@@ -89,7 +88,7 @@ title: "Argument_Gopinathan_2007_GSE"
 argument_key: "Argument_Gopinathan_2007_GSE"
 argument_display_title: "Globalisation, the Singapore developmental state and education policy: a thesis revisited"
 argument_kind: "journal-article"
-argument_related_count: 51
+argument_related_count: 50
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -106,7 +105,7 @@ issuing_organization: ""
 > 在经济全球化加速整合、新自由主义思潮扩散、1997年亚洲金融风暴冲击与九一一事件后[[Geopolitics|地缘政治]]重构的多重挤压下，以新加坡为代表的东亚强[[Developmental State|发展型国家]]究竟是在全面撤退与权能削弱，还是通过策略性调整维系着对教育治理体制的深层主导？这种由国家主导的市场化改革在微观课堂与宏观社会结构层面面临哪些深层矛盾？
 
 > [!claim] 核心主张
-> 高平纳坦（[[Saravanan Gopinathan]]）指出，全球化与[[Knowledge-Based Economy|知识经济]]转型并未导致新加坡强发展型国家的权能衰微，国家主动采纳了去中心化、校本自主权与学制分轨等战术性市场化改革以维系对全球资本的吸引力，在核心课程标准、[[Bilingual Education Policy|双语政策]]与[[National Education|国民教育]]上始终保持严密调控；这一国家主导的改革悖论在于，既依赖过度筛选的精英分流体制支撑文凭经济，又渴望培育敢于冒险创新的知识劳动力，加剧了微观教学的程序化惯性与宏观社会阶层固化。
+> 全球化与[[Knowledge-Based Economy|知识经济]]转型并未导致新加坡强发展型国家的权能衰微，国家主动采纳了去中心化、校本自主权与学制分轨等战术性市场化改革以维系对全球资本的吸引力，在核心课程标准、[[Bilingual Education Policy|双语政策]]与[[National Education|国民教育]]上始终保持严密调控；这一国家主导的改革悖论在于，既依赖过度筛选的精英分流体制支撑文凭经济，又渴望培育敢于冒险创新的知识劳动力，加剧了微观教学的程序化惯性与宏观社会阶层固化。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 新加坡自1990年代中叶至2000年代中期的宏观教育政策演进、国家治理技术重构及学校微观教学法变革。

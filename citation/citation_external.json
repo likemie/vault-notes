@@ -6938,6 +6938,7 @@
     "EEF (2019d)": "EEF, 2019d",
     "EEF (2021)": "EEF, 2021",
     "EEF (2024)": "EEF, 2024",
+    "EEF (2026)": "EEF, 2026",
     "EEF, 2012": "EEF, 2012",
     "EEF, 2012b": "EEF, 2012",
     "EEF, 2015": "EEF, 2015",
@@ -6950,6 +6951,7 @@
     "EEF, 2019d": "EEF, 2019d",
     "EEF, 2021": "EEF, 2021",
     "EEF, 2024": "EEF, 2024",
+    "EEF, 2026": "EEF, 2026",
     "EIC (2021)": "EIC, 2021",
     "EIC, 2021": "EIC, 2021",
     "EPG (2007)": "EPG, 2007",
@@ -79350,6 +79352,21 @@
       ],
       "title": ""
     },
+    "EEF, 2026": {
+      "aliases": [
+        "EEF, 2026",
+        "EEF (2026)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "EEF, 2026"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/curriculum/Reading Strategies.md"
+      ],
+      "title": ""
+    },
     "EIC, 2021": {
       "aliases": [
         "EIC, 2021",
@@ -107634,7 +107651,9 @@
         "Hebert et al., 2016"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/curriculum/Reading Strategies.md"
+      ],
       "title": "The effects of text structure instruction on expository reading comprehension: A meta-analysis."
     },
     "Hecht, 2002": {
@@ -157966,6 +157985,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/curriculum/Reading Strategies.md",
         "wiki/concepts/instruction-pedagogy/Whole Language.md"
       ],
       "title": ""
@@ -164282,7 +164302,9 @@
         "Okkinga et al., 2018"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/curriculum/Reading Strategies.md"
+      ],
       "title": "Effectiveness of reading-strategy interventions in whole classrooms: A meta-analysis."
     },
     "Okkinga, 2018a": {
@@ -168061,7 +168083,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/instruction-pedagogy/Language Experience Approach.md",
         "wiki/concepts/instruction-pedagogy/Whole Language.md",
         "wiki/concepts/learning-science-cognitive-science/Simple View of Reading.md",
         "wiki/facts/australia/Victorian HITS and Literacy Toolkit.md",
