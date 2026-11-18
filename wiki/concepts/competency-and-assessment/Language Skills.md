@@ -10,7 +10,7 @@ aliases:
 summary: "在课程与教学论及应用语言学中，指学习者在第一语言（L1）或第二语言/外语（L2/FL）中理解、组织与表达意义的多维可测量能力构念，涵盖听、说、读、写四大技能及语法词汇、体裁结构与交际流利度。在教育技术干预中表现出对自然语言模型的强敏感性（g+ = 2.331），在语言教育政策中则关涉目标语高产出与母语素养维系的结构性平衡。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 31
+related_count: 39
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -20,13 +20,12 @@ tags:
   - theme/second-language-acquisition
   - level/higher-education
 related_concepts:
-  - "[[Academic Achievement]]"
-  - "[[Higher-Order Thinking Skills]]"
   - "[[Operationalization]]"
-  - "[[English-Knowing Bilingualism]]"
-  - "[[Singlish]]"
+  - "[[Academic Achievement]]"
   - "[[Metacognition]]"
+  - "[[Higher-Order Thinking Skills]]"
   - "[[Problem Solving]]"
+  - "[[Wicked Problem]]"
   - "[[Dialogue in Education]]"
   - "[[Cognitive Offloading]]"
   - "[[Decodification]]"
@@ -34,10 +33,18 @@ related_concepts:
   - "[[Publication Bias]]"
   - "[[Text Generation]]"
   - "[[Critical Thinking]]"
+  - "[[Mimesis]]"
+  - "[[Bilingual Education Policy]]"
+  - "[[Whole Language]]"
+  - "[[Champ]]"
+  - "[[Reading Strategies]]"
+  - "[[Singlish]]"
+  - "[[Language-of-State]]"
   - "[[Oral Language Interventions]]"
   - "[[AI Agent in Education]]"
   - "[[Heterogeneity]]"
   - "[[Dependent Variable]]"
+  - "[[English-Knowing Bilingualism]]"
 related_theories:
   - "[[Behaviorism]]"
 related_methods:
@@ -53,10 +60,11 @@ related_instruments:
 related_persons: []
 related_facts:
   - "[[STELLAR Program]]"
+  - "[[Primary School Leaving Examination]]"
 related_arguments:
   - "[[Argument_Chen_Cheung_2025_ERR]]"
-  - "[[Argument_Liu_2025_IndHE]]"
   - "[[Argument_Chua_2011_CILP]]"
+  - "[[Argument_Liu_2025_IndHE]]"
 confidence: medium
 status: draft
 created: 2026-09-04
@@ -88,7 +96,7 @@ updated: 2026-11-18
 > [!contrast-table|notitle] 概念辨析
 > | 维度 | 语言技能（Language Skills） | [[Academic Achievement\|学业成绩]] | [[Higher-Order Thinking Skills\|高阶思维技能]] |
 > |---|---|---|---|
-> | **核心关注** | 符号组织、句法结构、词汇运用与听说读写交际流利度 | 学科事实识记、公式推导、概念理解与期末测验分数 | 逻辑推理、批判性审视、多视角反思与劣构问题解决 |
+> | **核心关注** | 符号组织、句法结构、词汇运用与听说读写交际流利度 | 学科事实识记、公式推导、概念理解与期末测验分数 | 逻辑推理、批判性审视、多视角反思与[[Wicked Problem\|劣构问题]]解决 |
 > | **典型评价工具** | 托福/雅思写作量规、口语即时[[Dialogue in Education\|对话]]流利度、词汇语法测验 | 标准化学科考试、课程期末统考、平时绩点（GPA） | 真实任务表现量规、[[California Critical Thinking Skills Test\|加州批判性思维测验]]、反思辩护报告 |
 > | **AI 干预敏感度** | **极高** — 自然语言模型底层基于符号概率分布，即时纠错赋能显著 | **中等** — 依赖于概念解释、例题练习与助教答疑 | **中等至审慎** — 易诱发[[Cognitive Offloading\|认知卸载]]，表面文本流畅掩盖深层推理缺陷 |
 
@@ -130,15 +138,15 @@ updated: 2026-11-18
 > **符号操纵与深层心智脱钩** [[Text Generation|文本生成]]的表观完善容易遮蔽学生在认知加工深度上的不足，语言技能维度的单向突进并不必然带动元认知监控与[[Critical Thinking|批判性思维]]的同步提升。
 
 > [!claim] Chen & Cheung
-> **学习产出呈现语言技能向元认知单调递减的心智加工深度级差** 促学[[Effect Size|效应量]]呈现“语言技能（$2.331$）$>$ 学业成绩（$0.633$）$>$ 情感动机（$0.617$）$>$ 高阶思维（$0.580$）$>$ 元认知（$0.078$，不显著）”的显著阶梯结构，推翻了技术全能主义假设。这证明智能工具对表层符号转换与规则模仿能提供强效手段，但若缺乏显性的反思与策略训练，学生往往难以将语言技能获益自动迁移为深层自我监控与高阶思维能力。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 15–16)]]
+> **学习产出呈现语言技能向元认知单调递减的心智加工深度级差** 促学[[Effect Size|效应量]]呈现“语言技能（$2.331$）$>$ 学业成绩（$0.633$）$>$ 情感动机（$0.617$）$>$ 高阶思维（$0.580$）$>$ 元认知（$0.078$，不显著）”的显著阶梯结构，推翻了技术全能主义假设。这证明智能工具对表层符号转换与规则[[Mimesis|模仿]]能提供强效手段，但若缺乏显性的反思与策略训练，学生往往难以将语言技能获益自动迁移为深层自我监控与高阶思维能力。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 15–16)]]
 
 ---
 
 > [!concept-proposition] 命题三｜早期全浸润教学法能有效提升通用工作语达标率但伴随母语技能的非对称衰退
-> **语言教育规划与双语技能非对称性** 在双轨双语政策下，将核心资源前移至学前与小学早期的全语言浸润教学法，能确立第一媒介语的高通过率，但会在家庭与非正式场域诱发母语读写技能的代际弱化。
+> **语言教育规划与双语技能非对称性** 在双轨[[Bilingual Education Policy|双语政策]]下，将核心资源前移至学前与小学早期的[[Whole Language|全语言]]浸润教学法，能确立第一媒介语的高通过率，但会在家庭与非正式[[Champ|场域]]诱发母语读写技能的代际弱化。
 
 > [!claim] Chua, S. K. C.
-> **全浸润课改的技能转化效能与母语代际代价** 新加坡实施 [[STELLAR Program|STELLAR 项目]]（基于大书共享阅读法 SBA 与修正语言体验法 MLEA），使公立小学生在习得母语读写前率先巩固了英语阅读策略，小学离校考试（PSLE）标准英语合格率长年稳定在 97.5% 以上；但这一自上而下的全英语技能工程导致年轻一代家庭语言全面倒向英语，引发华语、马来语与泰米尔语读写素养的系统性下滑，促使年轻群体在标准语与本土混合口语（[[Singlish|新加坡式英语]]）之间演化出独特的双层语言切换技能（diglossia）。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 129–137, 141)]]
+> **全浸润课改的技能转化效能与母语代际代价** 新加坡实施 [[STELLAR Program|STELLAR]] 项目（基于大书共享阅读法 SBA 与修正语言体验法 MLEA），使公立小学生在习得母语读写前率先巩固了英语[[Reading Strategies|阅读策略]]，[[Primary School Leaving Examination|小学离校考试]]（PSLE）标准英语合格率长年稳定在 97.5% 以上；但这一自上而下的全英语技能工程导致年轻一代家庭语言全面倒向英语，引发华语、马来语与泰米尔语读写素养的系统性下滑，促使年轻群体在标准语与本土混合口语（[[Singlish|新加坡式英语]]）之间演化出独特的双层语言切换技能（diglossia）。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 129–137, 141)]]
 
 ---
 
@@ -147,7 +155,7 @@ updated: 2026-11-18
 > |---|---|---|---|
 > | **符号干预超强赋能** | 语言模型对听说读写各技能提供强力即时反馈与低焦虑练习（$g^+ = 2.331 \to 1.009$） | 二语习得、外语学术写作、人机对话演练 | Chen & Cheung |
 > | **心智深度分化断层** | 语言技能的剧烈提升与元认知的停滞形成对比，表层流畅不等于深层理解 | 智能技术与课程整合、学习评价体系重构 | Chen & Cheung |
-> | **双语技能非对称演化** | 早期全浸润课改实现极高标准语及格率，但伴生母语素养萎缩与双层语言转换 | 国家语言教育规划、后殖民双语政策、基础教育课改 | Chua, S. K. C. |
+> | **双语技能非对称演化** | 早期全浸润课改实现极高标准语及格率，但伴生母语素养萎缩与双层语言转换 | [[Language-of-State\|国家语言]]教育规划、后殖民双语政策、基础教育课改 | Chua, S. K. C. |
 
 ---
 
@@ -180,7 +188,7 @@ updated: 2026-11-18
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | 异质性与预测区间 | 关键解释边界 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|---|
 > | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 2.331"><span class="b28"></span></span>2.331 | [1.617, 3.044] | Hedges' $g^+$ / 随机效应模型 | $k = 21$ / $N = —$ | [[Dependent Variable\|结果变量]]：生成式 AI 对大学生语言技能（Language Skills）的促学效应 | $Q(20) = 596.21, p < .001, I^2 = 96.65\%$；剪补法填补 4 项后调整为 $g^+_{\text{adj}} = 1.009$ $[0.177, 0.841]$ | 严格限定前测基线等效（$d < 0.25$）；聚焦二语/外语高等教育情境；存在极显著小研究效应与发表偏倚 |
 

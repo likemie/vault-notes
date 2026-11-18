@@ -8,7 +8,7 @@ aliases:
 summary: "评估任务、评分规则、成绩权重及其利害关系提前进入教学与学习决策，进而改变实际课程的机制；方向取决于获分活动与课程目标是否一致，强度取决于后果、权重、任务组合和制度环境。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 21
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,21 +27,25 @@ related_concepts:
   - "[[Teaching and Learning Activities]]"
   - "[[Constructive Alignment]]"
   - "[[International Baccalaureate]]"
+  - "[[Judgment of Taste]]"
   - "[[Extended Essay]]"
+  - "[[Direct Instruction]]"
   - "[[Whole Person Education]]"
+  - "[[High-Stakes Testing]]"
 related_persons:
   - "[[John Biggs]]"
   - "[[Alec Peterson]]"
 related_arguments:
   - "[[Argument_Biggs_1999_HERD]]"
-  - "[[Argument_Deng_2016_CE]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch03]]"
+  - "[[Argument_Deng_2016_CE]]"
 related_methods:
   - "[[Multiple-Choice Questions]]"
   - "[[Classroom Observation]]"
   - "[[Pilot Testing]]"
 related_facts:
   - "[[Global Campaign for Education]]"
+  - "[[Primary School Leaving Examination]]"
 confidence: high
 status: draft
 created: 2026-08-01
@@ -159,7 +163,7 @@ updated: 2026-11-18
 ### IB 语言 A：任务要求改变文学教学
 
 > [!case] 国家评价传统形成三种备考方向
-> [[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）语言与文学小组认同广泛阅读、个人表达、文学鉴赏、道德判断与审美判断等目标，评价形式却存在明显分歧。英国普通教育证书高级程度考试（General Certificate of Education Advanced Level，[[Global Campaign for Education|GCE]] A-level）通常要求考生在两小时半内回答四至五道复杂题，每题不足三十分钟，也奖励快速、整洁而清晰的书写。法国和德国常给出四至五小时完成一篇作文或未见诗歌分析，并辅以口试；美国方案则是三篇各一小时的文学文章（pp. 50–52）。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, pp. 50–52)]]
+> [[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）语言与文学小组认同广泛阅读、个人表达、文学鉴赏、道德判断与[[Judgment of Taste|审美判断]]等目标，评价形式却存在明显分歧。英国普通教育证书高级程度考试（General Certificate of Education Advanced Level，[[Global Campaign for Education|GCE]] A-level）通常要求考生在两小时半内回答四至五道复杂题，每题不足三十分钟，也奖励快速、整洁而清晰的书写。法国和德国常给出四至五小时完成一篇作文或未见诗歌分析，并辅以口试；美国方案则是三篇各一小时的文学文章（pp. 50–52）。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, pp. 50–52)]]
 
 > [!claim] 预期课堂后果推翻了[[Reliability\|可靠性]]较高的方案
 > 英国模式能够抽样指定书目和主要批评观点，评分也较稳定。若课程追求终身阅读兴趣、个人表达及成熟判断，多数学生在时间压力下更可能复述教材、教师笔记或已经准备的相近答案。短时多题会使师生把迅速回忆作品内容和标准观点视为课程目标。IB 因此接受长文章、未见文本鉴赏和结构化口试较大的评分误差，以保护深入阅读、经过思考的写作和对话式教学（pp. 51–52）。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, pp. 51–52)]]
@@ -189,7 +193,7 @@ updated: 2026-11-18
 ### 新加坡：国家统一考试的高利害反拨与影子教育
 
 > [!case] 国家考试对课堂教学与校外辅导的深度重塑
-> 新加坡基础教育中的小六离校考试（Primary School Leaving Examination, PSLE）与剑桥普通水准（GCE O-Level）直接决定中等教育能力分流与大学准入资格，发出高强度的评价信号。实证课堂观察表明，国家考试的题型与评分规程深度界定了实际教学内容与进度节奏；即使在推行面向综合素养的改革中，一线教学仍主要围绕考点覆盖、练习册演练与题型解析展开。这种高利害考试反拨效应进一步扩散至家庭教育消费领域，催生出超过十亿新元规模的影子教育补习市场。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 456–458)]]
+> 新加坡基础教育中的[[Primary School Leaving Examination|小六离校考试]]（Primary School Leaving Examination, PSLE）与剑桥普通水准（GCE O-Level）直接决定中等教育能力分流与大学准入资格，发出高强度的评价信号。实证[[Classroom Observation|课堂观察]]表明，国家考试的题型与评分规程深度界定了实际教学内容与进度节奏；即使在推行面向综合素养的改革中，一线教学仍主要围绕考点覆盖、练习册演练与题型解析展开。这种高利害考试反拨效应进一步扩散至家庭教育消费领域，催生出超过十亿新元规模的影子教育补习市场。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 456–458)]]
 
 ---
 
@@ -198,7 +202,7 @@ updated: 2026-11-18
 > - **1970 年** 首批正式文凭评价由九所学校、29 名考生参加，多种任务进入真实的大学升学路径，预期反拨开始通过跨国考试制度作用于学校（pp. 56–57；Ch. 2, pp. 30–31）。
 > - **随后十五年** 规模扩展至近 300 所学校、约 6,000 名考生。成本和出分速度推动程序调整，[[Multiple-Choice Questions\|选择题]]出现规模经济，口试更多依赖当地考官（p. 57）。
 > - **1999 年** Biggs 将相近机制纳入[[Constructive Alignment\|建构性对齐]]：学生依照评价要求选择活动，目标、教学活动和评价任务的一致性可以把反拨转化为促进[[Surface and Deep Learning\|深层学习]]的设计资源。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 68–74)]]
-> - **2010 年代** [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] 结合东亚高绩效系统经验，证实国家高利害统考的强反拨效应不仅规锁了课堂直接教学与重复练习，更直接驱动了庞大的校外影子教育体系。
+> - **2010 年代** [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] 结合东亚高绩效系统经验，证实国家高利害统考的强反拨效应不仅规锁了课堂[[Direct Instruction|直接教学]]与重复练习，更直接驱动了庞大的校外影子教育体系。
 
 ---
 
@@ -212,5 +216,5 @@ updated: 2026-11-18
 
 > [!evidence-grid] 相关研究索引
 > - [[Argument_Biggs_1999_HERD\|Biggs (1999)]]：说明得分条件如何成为实际课程，并以心理学考试和[[Learning Portfolio\|学习档案袋]]展示负向与建设性反拨。
-> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]]：揭示新加坡小六离校考试（PSLE）与剑桥 GCE O/A 水准等高利害评估所产生的巨大考试反拨效应，分析其如何将课堂教学牢牢锚定于讲授与练习，并催生出十亿新元规模的影子教育体系。
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]]：揭示新加坡小六离校考试（PSLE）与剑桥 GCE O/A 水准等[[High-Stakes Testing|高利害评估]]所产生的巨大考试反拨效应，分析其如何将课堂教学牢牢锚定于讲授与练习，并催生出十亿新元规模的影子教育体系。
 > - [[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987)]]：通过 IB 语言 A、语言 B 和综合评价，展示任务要求、权重、证据组合及制度约束如何共同塑造反拨。

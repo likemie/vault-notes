@@ -59,8 +59,8 @@ related_concepts:
   - "[[Open-Mindedness]]"
   - "[[Epistemic Agency]]"
   - "[[Inquiry-Based Learning]]"
-  - "[[Critical Thinking]]"
   - "[[Divergent Thinking]]"
+  - "[[Critical Thinking]]"
   - "[[Alienation]]"
   - "[[Causality]]"
   - "[[Pragmatic Paradigm]]"
@@ -82,7 +82,6 @@ related_methods:
   - "[[Model Fit Indices in SEM and CFA]]"
   - "[[Sample Size Determination]]"
   - "[[Confidence Interval]]"
-  - "[[Ethnography]]"
 related_instruments:
   - "[[Framework for Teaching]]"
 related_persons:
@@ -90,6 +89,7 @@ related_persons:
 related_facts:
   - "[[Teach Less, Learn More]]"
   - "[[Global Campaign for Education]]"
+  - "[[Primary School Leaving Examination]]"
 related_arguments: []
 sources:
   - "[[sources/Hogan_2013_ROE/Hogan_2013_ROE|Hogan_2013_ROE]]"
@@ -196,7 +196,7 @@ issuing_organization: ""
 
 > [!sub-claim] 1. 机械背诵与作业本刷题占据日常教学最高频次
 
-> [!result-reading] 传统教学量化测查与师生互动话语规程（Alexander, 2001; Cazden, 1988; Galton, 2007）
+> [!result-reading] 传统教学量化测查与师生互动[[Discourse|话语]]规程（Alexander, 2001; Cazden, 1988; Galton, 2007）
 > - **高频操练与作业主导** 传统教学在两门学科中均获得极高知觉均分，且数学显著高于英语（数学 3.78，英语 3.46，[[Effect Size|效应量]] $d = 0.49$）。练习册作业（数学均分 3.93，英语 3.63）与机械记忆（数学 4.06，英语 3.47）构成了发生频次最高的教学行为。
 > - **IRE 三段式话语垄断** 课堂[[Discourse|话语]]呈现典型的教师主导特征，言语互动严格局限于引发—应答—评估（Initiation-Response-Evaluation, IRE）三段式结构，教材大纲覆盖与背诵复述主导了日常作息。
 > - **测量模型信效度** 验证性因子分析显示，五项一阶指标的因子载荷介于 .426 至 .841 之间，比较拟合指数（Comparative Fit Index, [[Model Fit Indices in SEM and CFA|CFI]]，数学 .993，英语 .996）与近似误差均方根（Root Mean Square Error of Approximation, RMSEA，数学 .029，英语 .026）均达到优良拟合标准。
@@ -241,7 +241,7 @@ issuing_organization: ""
 > [!contrast-table] 表 6 直接教学策略在中三数学与英语课堂中的实施均分与效应量
 > | 测量构件维度 | 数学均分 | 数学标准差 | 英语均分 | 英语标准差 | 学科间差异（Cohen's d） |
 > |---|---|---|---|---|---|
-> | **直接教学总构念（[[Direct Instruction|DI]] 量表）** | 3.61 | 0.668 | 3.53 | 0.650 | 0.12 |
+> | **直接教学总构念（[[Direct Instruction\|DI]] 量表）** | 3.61 | 0.668 | 3.53 | 0.650 | 0.12 |
 > | **示范演练与教学时间最大化（MLT）** | 3.89 | 0.767 | 3.84 | 0.780 | 0.06 |
 > | **内容结构与清晰度（SNC）** | 3.61 | 0.812 | 3.56 | 0.780 | 0.06 |
 > | **教师复习与检查（REV）** | 3.59 | 0.835 | 3.52 | 0.770 | 0.09 |
@@ -293,7 +293,7 @@ issuing_organization: ""
 > [!result-reading] 理解与共同调节策略的边缘化分布（Alexander, 2008; Barnes, 2008; Mercer & Littleton, 2007; Resnick et al., 2010）
 > - **教师主导环节相对维持** 教师在教学中主动融入了[[Teaching for Understanding|理解性教学]]中的目标说明（均分 3.55–3.57）、集体反馈（3.58–3.59）与持续监控（3.46–3.48）。
 > - **学生能动探究严重受限** 需要学生深度能动参与的对话研讨与协作探究均分显著偏低（全班研讨在数学中仅 2.97，小组协作在数学中仅 2.87，支架仅 2.79）。在[[Co-regulated Learning|共同调节学习]]维度中，同伴互评与自评均分同样处于全量表最低区间（2.80–2.92）。
-> - **探索性谈话与对话教学缺位** 这一分布反映出，旨在引发深层认知重组的探索性谈话与[[Dialogue in Education|对话教学]]在实际课堂中长期缺位，讨论往往退化为确认标准答案的浅层互动。
+> - **探索性谈话与[[Dialogue in Education|对话教学]]缺位** 这一分布反映出，旨在引发深层认知重组的探索性谈话与[[Dialogue in Education|对话教学]]在实际课堂中长期缺位，讨论往往退化为确认标准答案的浅层互动。
 
 > [!contrast-table] 表 9 理解性教学策略在中三数学与英语课堂中的实施均分与效应量
 > | 测量构件维度 | 数学均分 | 数学标准差 | 英语均分 | 英语标准差 | 学科间差异（Cohen's d） |
@@ -346,7 +346,7 @@ issuing_organization: ""
 > [!contrast-table] 表 16 四类教学策略在中三数学与英语学科中的总览均分及策略间差异效应量
 > | 教学策略维度 | 中三数学均分（标准差） | 中三英语均分（标准差） | 学科间差异（Cohen's d） | 策略间配对效应量（数学 d） | 策略间配对效应量（英语 d） |
 > |---|---|---|---|---|---|
-> | **传统教学（TI）** | 3.69（0.642） | 3.45（0.669） | 0.37 | TI vs [[Direct Instruction\|DI]]: 0.03 | TI vs DI: 0.24 |
+> | **传统教学（TI）** | 3.69（0.642） | 3.45（0.669） | 0.37 | TI vs [[Direct Instruction\|DI]]: 0.03 | TI vs [[Discursive Institutionalism\|DI]]: 0.24 |
 > | **直接教学（DI）** | 3.67（0.670） | 3.61（0.655） | 0.09 | TI vs TfU: 0.50 | TI vs TfU: 0.03 |
 > | **理解性教学（TfU）** | 3.38（0.602） | 3.43（0.564） | 0.09 | TI vs CRLS: 0.96 | TI vs CRLS: 0.25 |
 > | **共同调节学习（CRLS）** | 3.01（0.770） | 3.28（0.688） | 0.37 | DI vs TfU: 0.46 | DI vs TfU: 0.30 |
@@ -385,7 +385,7 @@ issuing_organization: ""
 > | **相对卡方（$\chi^2/df$）** | 2.12 | 1.82 |
 > | **比较拟合指数（CFI）** | 0.986 | 0.989 |
 > | **非规范拟合指数（TLI / NNFI）** | 0.982 | 0.986 |
-> | **近似误差均方根（RMSEA）及 90% [[Confidence Interval|置信区间]]** | 0.031（0.027 – 0.035） | 0.028（0.024 – 0.033） |
+> | **近似误差均方根（RMSEA）及 90% [[Confidence Interval\|置信区间]]** | 0.031（0.027 – 0.035） | 0.028（0.024 – 0.033） |
 > | **标准化残差均方根（SRMR）** | 0.028 | 0.031 |
 >
 > **表格解读** 模型在两门学科中均达到优异拟合标准（CFI/TLI 远超 .95，RMSEA 与 SRMR 均远低于 .05），确证了四类教学策略层级整合模型的理论稳健性。
@@ -401,7 +401,7 @@ issuing_organization: ""
 > [!sub-claim] 2. 封闭死板的练习任务严重压制学生的思考与表达空间
 
 > [!critique] 任务低认知需求对四重主体性的结构性剥夺（Hattie, 2009; Hattie & Timperley, 2007; Newmann et al., 1995; Stein et al., 1996）
-> - **可见学习维度的实质落差** 将课堂教学指标与[[John Hattie|约翰·哈蒂]]（John Hattie）的[[Visible Learning|可见学习]]及[[Knowledge Building Theory|知识建构理论]]对质，扩展测量清单揭示除检查先备知识达到中等水准外，传达标准、范例示范、形成性监控、高阶提问与理解对话全线处于低频水准。
+> - **可见学习维度的实质落差** 将课堂教学指标与[[John Hattie|约翰·哈蒂]]（John Hattie）的可见学习及[[Knowledge Building Theory|知识建构理论]]对质，扩展测量清单揭示除检查先备知识达到中等水准外，传达标准、范例示范、形成性监控、高阶提问与理解对话全线处于低频水准。
 > - **四重主体性的全面压制** 任务设计评估表明，学生的[[Epistemology|认识论]]主体性、认知主体性、元认知主体性与[[Discourse|话语]]主体性被普遍压制在极低区间。狭窄、封闭的低认知需求习题直接剥夺了真实探究与高阶思维的发生契机。
 
 > [!figure]- 图 9：任务设置与实施、学生主体性与知识建构模型
@@ -421,7 +421,7 @@ issuing_organization: ""
 > | **概念表征与知识表征** | 偏低 | 偏低 | 面板 2、3（问卷与观察） |
 > | **聚焦元认知知识** | 偏低 | 偏低 | 面板 2、3、5（多源测量） |
 > | **知识工作的认识论清晰度** | 偏低 | 偏低 | 面板 2、3、5（多源测量） |
-> | **[[Open-Mindedness|开放性]]提问与长回应** | 偏低 | 偏低 | 面板 2、3（问卷与观察） |
+> | **[[Open-Mindedness\|开放性]]提问与长回应** | 偏低 | 偏低 | 面板 2、3（问卷与观察） |
 > | **理解性对话交流** | 偏低 | 偏低 | 面板 2、3（问卷与观察） |
 > | **显性讲授研讨与合作规则** | 偏低 | 偏低 | 面板 3（课堂观察） |
 >
@@ -430,7 +430,7 @@ issuing_organization: ""
 > [!contrast-table] 表 19 课堂任务设计对学生主体性与知识建构教学法的制约评估
 > | 评价准则维度 | 测得执行水准（数学） | 测得执行水准（英语） | 对应数据来源面板 |
 > |---|---|---|---|
-> | **[[Epistemic Agency|认识论主体性]]** | 偏低 | 偏低 | 面板 2、3、5 |
+> | **[[Epistemic Agency\|认识论主体性]]** | 偏低 | 偏低 | 面板 2、3、5 |
 > | **认知主体性** | 偏低 | 极低 | 面板 2、3、5 |
 > | **元认知主体性** | 偏低 | 偏低 | 面板 2、3、5 |
 > | **话语主体性** | 极低 | 极低 | 面板 2、3 |
@@ -440,12 +440,12 @@ issuing_organization: ""
 ---
 
 > [!claim|step] 论证步骤四　全国统一升学考试死死锁住课堂，阻碍[[Inquiry-Based Learning|探究式教学]]改革落地
-> 新加坡教师的教学杂糅与绩效导向深刻植根于制度环境，受到剑桥普通水准考试（Singapore-Cambridge General Certificate of Education Ordinary Level, GCE O-Level）与小六离校考试（Primary School Leaving Examination, PSLE）等高利害考试体制的刚性规锁。
+> 新加坡教师的教学杂糅与绩效导向深刻植根于制度环境，受到剑桥普通水准考试（Singapore-Cambridge General Certificate of Education Ordinary Level, [[Global Campaign for Education|GCE]] O-Level）与[[Primary School Leaving Examination|小六离校考试]]（Primary School Leaving Examination, PSLE）等高利害考试体制的刚性规锁。
 
 > [!sub-claim] 1. 升学考试压倒教学改革，教师为求稳重回题海应试
 
 > [!tension] 探究大纲话语与应试评价标准的脱节（Kramer-Dahl, 2008）
-> - **大纲倡导理念** 英语新课程大纲强调打破填鸭教学，推行过程写作法、发散思维、真实交际与高级思维读写素养。
+> - **大纲倡导理念** 英语新课程大纲强调打破填鸭教学，推行过程写作法、[[Divergent Thinking|发散思维]]、真实交际与高级思维读写素养。
 > - **统考评价标准** 剑桥 O 水准考试评价依然严格侧重语法精度、固定文体结构与标准化题型套路。
 >
 > **生存理性妥协** 面对两者的深层断裂，一线教师迅速放弃探究尝试，全线退守至强化习题演练、词汇填空与样板背诵的基础回归防线。个案印证了 Cheah（1998）提出的应试型读写能力（examination-type literacy）机制：教师教学决策紧密服从于怎样做才能让最多学生通过统考的现实生存理性。
@@ -462,9 +462,9 @@ issuing_organization: ""
 
 > [!sub-claim] 2. 改革留给基层的两成自主时间被考前补习迅速占领
 
-> [!challenges] 自上而下分权倡议在基层的应试异化（Goh, 1997; Scott, 1995）
+> [!challenges] 自上而下分权倡议在基层的应试[[Alienation|异化]]（Goh, 1997; Scott, 1995）
 > - **政策自主授权** 为推动[[Teach Less, Learn More|少教多学]]（TLLM），教育部推行留白空间（White Space）倡议，正式授权学校和教师将高达 20% 的正式课程课时自由支配，用于校本特色课程或探究性学习。
-> - **制度同构吸纳** 实证调查与访谈显示，这 20% 的留白时间迅速转化为巩固知识点、加码模拟考刷题与查漏补缺的补习课时，偏离了预期的探究研讨设想。只要国家统考的题型难度与选拔功能保持刚性，给予基层的课时自主权必然被应试焦虑机制重新吸纳，呈现典型的组织社会学[[Institutional Isomorphism|制度同构]]与惯性复制。
+> - **[[Institutional Isomorphism|制度同构]]吸纳** 实证调查与访谈显示，这 20% 的留白时间迅速转化为巩固知识点、加码模拟考刷题与查漏补缺的补习课时，偏离了预期的探究研讨设想。只要国家统考的题型难度与选拔功能保持刚性，给予基层的课时自主权必然被应试焦虑机制重新吸纳，呈现典型的组织社会学[[Institutional Isomorphism|制度同构]]与惯性复制。
 
 > [!case] 制度性同化案例：留白空间（White Space）倡议被应试训练挤占
 > **政策设计** 新加坡教育部在 TLLM 框架下扣减 20% 统一大纲内容，设立 20% 课程留白，旨在为教师提供探索非应试、以学习者为中心的教学实验空间。

@@ -8,7 +8,7 @@ aliases:
 summary: "学习者在明确目标与支架支持下对自身学习过程主动承担责任、进行批判性反思与元认知调节的能力与意愿。在现代因果试验中，技术辅助的自主学习需与教师主导教学脱钩并析因测量，缺乏支架的放任个别化易诱发认知负荷失控与弱势学童掉队。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 53
+related_count: 56
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Creativity]]"
   - "[[Document]]"
+  - "[[Knowledge-Based Economy]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Technology Infusion]]"
   - "[[Epistemological Vigilance]]"
@@ -65,6 +66,8 @@ related_methods:
 related_facts:
   - "[[TIMSS]]"
   - "[[PISA]]"
+  - "[[Thinking Schools, Learning Nation]]"
+  - "[[Teach Less, Learn More]]"
   - "[[Education Endowment Foundation]]"
 related_arguments:
   - "[[Argument_Lakhani_2012_AKUIED]]"
@@ -73,8 +76,8 @@ related_arguments:
   - "[[Argument_Sahlgren_2015_CPS]]"
   - "[[Argument_Cole_2015_AJE]]"
   - "[[Argument_Li_2026_CEAI]]"
-  - "[[Argument_Rømer_2018_EPT]]"
   - "[[Argument_Gopinathan_2007_GSE]]"
+  - "[[Argument_Rømer_2018_EPT]]"
 related_instruments:
   - "[[Watson-Glaser Critical Thinking Appraisal]]"
 confidence: high
@@ -178,7 +181,7 @@ updated: 2026-11-18
 > [!dev-timeline] 学习者自主性概念演进脉络
 > - **1970s–1980s — 欧洲成人与应用语言学奠基** 法国南锡大学 CRAPEL 中心（Holec, 1981）首次系统提出自主学习理论，旨在打破传统以教师为中心的语言灌输，确立学习者自我规划、执行与评估的主体地位。
 > - **1990s — 课堂反思、元认知与社会相互依存转向** Little (1991) 与 Dam (1995) 丰富了自主性的理论内涵，阐明自主性是在内部反思、元认知自评与同伴对话互动中生成的相互依存的自主，拓展了早期个人主义孤独学习的狭隘视阈。
-> - **1997–2000s — 国家知识经济转型中的自主性政策诉求** 新加坡在知识经济转型中发起“[[Thinking Schools, Learning Nation|思考型学校，学习型国家]]”与“[[Teach Less, Learn More|少教多学]]”改革，明确将培育批判思考与自主学习素养列为国家劳动力升级的核心目标，但该政策导向受到高度竞争性统考筛选与程序化教学惯性的深层制约。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 58–60)]]
+> - **1997–2000s — 国家[[Knowledge-Based Economy|知识经济]]转型中的自主性政策诉求** 新加坡在知识经济转型中发起“[[Thinking Schools, Learning Nation|思考型学校，学习型国家]]”与“[[Teach Less, Learn More|少教多学]]”改革，明确将培育批判思考与自主学习素养列为国家劳动力升级的核心目标，但该政策导向受到高度竞争性统考筛选与程序化教学惯性的深层制约。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 58–60)]]
 > - **2010s — 国际文凭跨学科素养与认识论深化** [[Argument_Lakhani_2012_AKUIED|Lakhani (2012)]] 与 [[Argument_Cole_2015_AJE|Cole et al. (2015)]] 将自主性拓展为现代教育的[[21st Century Skills and Competencies Discourse|核心素养]]，依托 IB 知识论课程揭示认识论严谨性与元认知自信对培养自主思考者的决定性价值。
 > - **2015 — 激进自主学习转型的宏观滑坡审查** 萨尔格伦（[[Argument_Sahlgren_2015_CPS|Sahlgren, 2015, p. 47]]）结合瑞典教育统计局微观调查，揭示 1990 年代瑞典自主学习课时比例激增（26% 增至 41%）直接伴随其国际测验成绩的断崖式暴跌，从经验时序上反驳了激进自主化自发促成卓越的假设。
 > - **2018 — 大规模现场因果试验对自主学习的实证解构** [[Education Endowment Foundation|EEF]] 在全英小学开展 ABRA 在线阅读多臂集群 RCT（McNally et al., 2018; [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]]），运用析因设计将技术软件支持的自主学习与教师课堂辅导进行实验性剥离。

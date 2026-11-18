@@ -8,7 +8,7 @@ aliases:
 summary: "罗伯特·卡普兰与理查德·鲍尔道夫于1997年提出的语言教育规划系统分析框架，将教育领域的语言规划分解为准入、师资、课程、教学法、教材、资源、社区与评估八个政策维度，用以解释国家语言目标向学校微观实践的制度转化。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 14
+theory_related_count: 16
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -35,8 +35,10 @@ related_instruments: []
 related_persons:
   - "[[Niall Ferguson]]"
 related_facts:
+  - "[[National Institute of Education]]"
   - "[[STELLAR Program]]"
   - "[[Speak Good English Movement]]"
+  - "[[Primary School Leaving Examination]]"
 related_arguments:
   - "[[Argument_Chua_2011_CILP]]"
 confidence: high
@@ -88,12 +90,12 @@ updated: 2026-11-18
 
 > [!feature] 语言教育规划八大操作化维度的功能剖析
 > - **制度准入与普惠强制** 明确语言学习在全学段的法定必修属性。在新加坡案例中，准入政策表现为自幼儿园起全员强制修习第一语言英语与对应的官方族群母语，实现零排斥准入。[[Argument_Chua_2011_CILP|(Chua, 2011, p. 128)]]
-> - **专业师资统筹培养** 克服非母语环境下教师语言素养不足的瓶颈。新加坡通过国立教育学院（National Institute of Education, NIE）统一实施职前与在职严格培训，确保全国教师具备教授国际认可标准英语的专业素养。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 127–128)]]
+> - **专业师资统筹培养** 克服非母语环境下教师语言素养不足的瓶颈。新加坡通过国立教育学院（[[National Institute of Education]], NIE）统一实施职前与在职严格培训，确保全国教师具备教授国际认可标准英语的专业素养。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 127–128)]]
 > - **进阶课程与教学法改革** 伴随学生水平发展持续演进课程目标。课程政策从早期的结构性语法训练演变为强调交际流利度与国际接轨的听说大纲；方法学政策则通过[[STELLAR Program|英文学习与阅读策略项目]]（STELLAR）由传统灌输转向大书阅读与[[Whole Language|全语言]]体验。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 132–136)]]
 > - **财政资源与全社会协同** 提供长期稳定的资金后盾与课外使用场域。新加坡教育部财政预算常年占政府总支出 20% 以上，并同步发起[[Speak Good English Movement|讲正确英语运动]]，联合社区媒体构建多维支持网络。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 128–130)]]
 
 > [!case] 东南亚语言教育规划的成败对照
-> - **新加坡全域贯通模式** 在八个维度上形成高度同步的整体布局：自学前起强制修习（准入）、NIE 统筹专职师资（人员）、历次大纲演进（课程）、STELLAR 大书阅读（方法）、统编正规绘本（教材）、财政常年占比超 20%（资源）、讲正确英语运动（社区）以及 PSLE 严格分级（评估），使标准英语及格率保持在 97.5% 以上。
+> - **新加坡全域贯通模式** 在八个维度上形成高度同步的整体布局：自学前起强制修习（准入）、NIE 统筹专职师资（人员）、历次大纲演进（课程）、STELLAR 大书阅读（方法）、统编正规绘本（教材）、财政常年占比超 20%（资源）、讲正确英语运动（社区）以及 [[Primary School Leaving Examination|PSLE]] 严格分级（评估），使标准英语及格率保持在 97.5% 以上。
 > - **马来西亚局部推进与反复** 2003 年试图通过行政命令强行推行英语教数理政策（Teaching and Learning of Science and Mathematics in English, PPSMI），但在师资培训、教材供给与社区认同等配套维度缺乏足够支撑，导致农村与非精英阶层学业受挫，最终于 2012 年宣告终止。
 > - **文莱课堂内外脱节** 虽自 1984 年确立双语教育体制（Dwibahasa），但校外社区缺乏高频度英语环境，课堂教学常退化为马来语和英语杂糅的语码转换。
 

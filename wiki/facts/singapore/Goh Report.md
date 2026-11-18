@@ -11,9 +11,9 @@ subtype: policy
 region: "singapore"
 fact_region: "singapore"
 fact_kind: "policy"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 13
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "Singapore Ministry of Education"
 tags:
@@ -36,13 +36,17 @@ related_persons:
   - "[[Goh Keng Swee]]"
   - "[[Lee Kuan Yew]]"
 related_facts:
+  - "[[Primary School Leaving Examination]]"
   - "[[Speak Mandarin Campaign]]"
+  - "[[Curriculum Development Institute of Singapore]]"
+  - "[[Thinking Schools, Learning Nation]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
+  - "[[Argument_Deng_2016_CE]]"
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-17
+updated: 2026-11-18
 ---
 
 ---
@@ -51,7 +55,7 @@ updated: 2026-11-17
 > - **发布时间 / 发布主体** 1979 年 2 月 10 日，由新加坡副总理[[Goh Keng Swee|吴庆瑞]]（[[Goh Keng Swee]]）领衔的特别研究小组向新加坡教育部正式提交并发布。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
 > - **适用地区 / 对象** 新加坡全国中小学教育体系、全体教师、在校学生及其家庭。
 > - **问题背景** 独立初期的新加坡由多元移民群体组成，多达 12 种汉语方言与英语、马来语、泰米尔语并存；调查发现 85% 的儿童在家中使用方言，导致学校双语教学流失率高、社群隔阂严重。
-> - **制度位置** 标志着新加坡由生存驱动型教育正式转向“效率驱动型教育（Efficiency-Driven Education, 1979–1996）”阶段，确立了以小学离校考试（PSLE）和特选、快捷、普通三轨分流为核心的制度架构，并直接催生了[[Speak Mandarin Campaign|讲华语运动]]。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 454–455)]]
+> - **制度位置** 标志着新加坡由生存驱动型教育正式转向“效率驱动型教育（Efficiency-Driven Education, 1979–1996）”阶段，确立了以[[Primary School Leaving Examination|小学离校考试]]（PSLE）和特选、快捷、普通三轨分流为核心的制度架构，并直接催生了[[Speak Mandarin Campaign|讲华语运动]]。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 454–455)]]
 
 ---
 
@@ -81,7 +85,7 @@ updated: 2026-11-17
 
 > [!actor-grid] 实施角色分工
 > - **发布与督导主体** 新加坡副总理公署与教育部团队。
-> - **执行主体** 全国公立中小学校长、教师与课程发展署（CDIS）。
+> - **执行主体** 全国公立中小学校长、教师与[[Curriculum Development Institute of Singapore|课程发展署]]（CDIS）。
 > - **适用对象** 全体在校学生及其家长。
 > - **政策工具** 分流测评标准、统一母语教材与教师双语强化培训。
 

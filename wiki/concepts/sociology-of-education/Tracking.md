@@ -9,10 +9,10 @@ aliases:
 summary: "根据学术能力、测试成绩或职业取向将学生分配至不同课程轨道、教学班组或学校类型的制度化分流实践，在宏观上加剧社会阶层隔离并削弱公平与动机，在微观上强化能力固化信念与自我实现预言"
 type: concept
 domain: "sociology-of-education"
-related_count: 49
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 54
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - theme/inequality
   - theme/stratification
@@ -43,14 +43,16 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Interaction Effect]]"
   - "[[Variable]]"
+  - "[[Academic Attrition]]"
   - "[[Emergence]]"
   - "[[Policy Avoidance]]"
   - "[[Moral Sidestep]]"
   - "[[Media Logic]]"
-  - "[[Document]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Structural Functionalism]]"
   - "[[Human Capital Theory]]"
+  - "[[Historical Institutionalism]]"
   - "[[Growth Mindset]]"
 related_methods:
   - "[[Random Assignment]]"
@@ -58,6 +60,7 @@ related_methods:
   - "[[Quasi-Experimental Designs]]"
   - "[[Experimental Research]]"
   - "[[Effect Size]]"
+  - "[[Discourse Analysis]]"
   - "[[Meta-analysis]]"
 related_instruments: []
 related_persons:
@@ -72,11 +75,13 @@ related_facts:
   - "[[Researching School Choices]]"
   - "[[Gaokao]]"
   - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[Primary School Leaving Examination]]"
+  - "[[Goh Report]]"
 related_arguments:
-  - "[[Argument_Deng_2016_CE]]"
   - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Li_2012_Cambridge]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
+  - "[[Argument_Deng_2016_CE]]"
 confidence: high
 status: active
 created: 2026-05-25
@@ -343,7 +348,7 @@ updated: 2026-11-18
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Deng_2016_CE\|Deng and Gopinathan (2016)]] | 新加坡基础教育体系（1979 年《吴庆瑞报告》至 2010 年代） | 历史制度主义与政策话语分析 | 能力分流（Streaming）、初中升学考试（PSLE）、辍学率、教学对齐 | 确立小学与中学三轨分流体系（Normal/Extended/Monolingual 及 Special/Express/Normal）；将基础教育学生流失率从 20% 以上降至 1% 以下；通过分流锁定教材大纲与考试标准 | 宏观制度追踪与官方统计档案 | 揭示国家发展型逻辑下能力分流在兼顾大众化普及与精英选拔的同时，加剧课程分化与考试焦虑 |
+> | [[Argument_Deng_2016_CE\|Deng and Gopinathan (2016)]] | 新加坡基础教育体系（1979 年《吴庆瑞报告》至 2010 年代） | [[Historical Institutionalism\|历史制度主义]]与政策[[Discourse Analysis\|话语分析]] | 能力分流（Streaming）、初中升学考试（[[Primary School Leaving Examination\|PSLE]]）、辍学率、教学对齐 | 确立小学与中学三轨分流体系（Normal/Extended/Monolingual 及 Special/Express/Normal）；将基础教育[[Academic Attrition\|学生流失]]率从 20% 以上降至 1% 以下；通过分流锁定教材大纲与考试标准 | 宏观制度追踪与官方统计档案 | 揭示国家发展型逻辑下能力分流在兼顾大众化普及与精英选拔的同时，加剧课程分化与考试焦虑 |
 > | [[Argument_Grey_2018_CE\|Grey and Morris (2018)]]（引述 OECD, 2013b） | [[PISA]] 2012 跨国青少年样本（涵盖数十个[[OECD\|经合组织]]国家） | 跨国大规模学业评估二次分析与跨层回归 | 学校层化与分轨（Stratification & Tracking）、教育公平、学习动机、家庭 [[Socioeconomic Status\|SES]] 隔离 | 学校系统层化与早期分轨与教育公平呈显著负相关；高分层系统学生动机显著更低；成绩分流在统计上高度重合于家庭 SES 隔离与形式数学暴露频率剥夺 | 跨国大样本多层回归高度显著 | 确立国家级中等教育分轨体制对教育公平与动机的宏观破坏效应 |
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, pp. 55–56)]]（引述 Roy et al., 2014） | 英格兰中小学（[[Education Endowment Foundation\|EEF]] 委托大规模能力分组试验） | 多中心学校级[[Randomised Controlled Trials\|随机对照试验（RCT）]] | 混合能力分组 vs 基于能力的分轨分流（Mixed ability vs Setting/Streaming） | 试验因学校坚决拒绝由外部随机决定本校能力分组政策而彻底流产（招募失败）；直接促成 2019 年 EEF 设立“研究[[School Choice\|学校选择]]”准实验资助序列 | 试验因样本招募归零终止 | 揭示学校核心组织决策对完全[[Random Assignment\|随机分配]]的天然生态排斥，确立 [[Quasi-Experimental Designs\|QED]] 的方法学必要性 |
 > | [[EEF Teaching and Learning Toolkit\|EEF Toolkit]]（Setting and Streaming 专题，2021） | 英格兰及国际中等学校能力分组[[Meta-analysis\|元分析]]与长期试验数据池 | 循证清算综合元分析与试验长期追踪 | 单科分组与全科分流（Setting and Streaming）对学业产出与阶层差距的影响 | 总体学业增益几乎为零（0 个月）；对处于低轨的弱势学生产生净损害（$-1$ 个月学业倒退），低轨学生普遍遭遇教学降阶与师资边缘化；高阶学生微弱获益以加剧群体间差距为代价 | 累积证据安全性评定为低至中等 | 证实能力分流不仅无助于整体学业提升，反倒是制度化扩大贫富差距与阶层隔离的组织手段 |
@@ -373,7 +378,7 @@ updated: 2026-11-18
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Deng_2016_CE\|Deng and Gopinathan (2016)]] — 系统考证新加坡自 1979 年《吴庆瑞报告》建立的中小学能力分轨分流机制（Streaming），揭示其在将早期高辍学流失率降至 1% 以下的同时，如何固化了差异化课程大纲与高利害考试竞争。
+> - [[Argument_Deng_2016_CE\|Deng and Gopinathan (2016)]] — 系统考证新加坡自 1979 年《[[Goh Report|吴庆瑞报告]]》建立的中小学能力分轨分流机制（Streaming），揭示其在将早期高辍学流失率降至 1% 以下的同时，如何固化了差[[Alienation|异化]]课程大纲与高利害考试竞争。
 > - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 基于 [[PISA]] 跨国大样本数据实证揭示分轨制对教育公平与学生动机的系统性损害，并深度解构英格兰执政精英在[[Mediatised Governance\|媒介化治理]]中对[[OECD\|经合组织]]分轨警告的“遗漏[[Discourse|话语]]”策略。
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 从东西方文化心理与自我观差异切入，批判西方分轨制的实体能力论与被动适应逻辑，揭示低轨学生遭遇的“个人降级”与自我实现的失败预言。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 记录[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）在能力分组因果试验招募失败（Roy et al., 2014）后，转向利用自然变异与[[Quasi-Experimental Designs\|准实验设计]]（QEDs）评估学校内生组织选择的方法学制度转型。

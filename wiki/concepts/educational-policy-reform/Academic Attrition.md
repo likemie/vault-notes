@@ -11,10 +11,10 @@ aliases:
 summary: "在校学生在完成既定学业或获得法定文凭证书之前非自愿或自愿脱离学校教育系统的现象，由制度性惩戒排斥、高利害问责推挤、学业挫败及社会经济压力等多维机制引发，是教育公平、学校治理与辍学预防的核心议题"
 type: concept
 domain: "educational-policy-reform"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 43
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - concept
   - theme/educational-equity
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Home Environment]]"
   - "[[Socioeconomic Status]]"
   - "[[Paradigm]]"
+  - "[[Theoretical Perspective]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Panopticism]]"
@@ -51,6 +52,7 @@ related_persons:
   - "[[Zewelanji N. Serpell]]"
   - "[[Yong Zhao]]"
   - "[[John Hattie]]"
+  - "[[Vincent Tinto]]"
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[Adequate Yearly Progress]]"
@@ -58,6 +60,8 @@ related_facts:
   - "[[EU]]"
   - "[[Education and Training 2010]]"
   - "[[European Commission]]"
+  - "[[Goh Report]]"
+  - "[[Primary School Leaving Examination]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Lisbon Strategy]]"
 related_arguments:
@@ -195,8 +199,8 @@ updated: 2026-11-18
 ---
 
 > [!dev-timeline] 概念演变
-> - **1970–1980 年代** 文森特·廷托（Vincent Tinto）提出学生整合模型（Student Integration Model），开启对学业流失（学生留存）的系统理论建构。
-> - **1979 年** 新加坡发布《[[Goh Report|吴庆瑞报告]]》，针对建国初期统一大纲下高达 20% 的学业辍学流失率，建立自小学到中学的因材施教分流体制（PSLE 与特选/快捷/普通轨），通过结构化分流将学生学业流失率（educational wastage）大幅降至 1% 以下。[[Argument_Deng_2016_CE|(Goh, 1979; Deng & Gopinathan, 2016)]]; [[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, p. 58)]]
+> - **1970–1980 年代** 文森特·廷托（[[Vincent Tinto]]）提出学生整合模型（Student Integration Model），开启对学业流失（学生留存）的系统理论建构。
+> - **1979 年** 新加坡发布《[[Goh Report|吴庆瑞报告]]》，针对建国初期统一大纲下高达 20% 的学业辍学流失率，建立自小学到中学的因材施教分流体制（[[Primary School Leaving Examination|PSLE]] 与特选/快捷/普通轨），通过结构化分流将学生学业流失率（educational wastage）大幅降至 1% 以下。[[Argument_Deng_2016_CE|(Goh, 1979; Deng & Gopinathan, 2016)]]; [[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, p. 58)]]
 > - **1990 年代** “零容忍”校园纪律政策在美国广泛立法，停课率与排斥性管教急剧攀升。
 > - **2001 年** [[No Child Left Behind Act 2001\|NCLB]] 出台，高风险标准化[[Test-Based Accountability\|考试问责]]加剧了学校针对弱势群体的排挤现象。
 > - **2009 年** 帕西亚斯与鲁萨基斯阐明欧盟《教育与培训 2010》工作规划将早期离校率低于 10% 确立为全欧五大核心基准线之一，依托常设指标工作组与开放协调法实施全景敞视审查。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 491–492)]]
@@ -229,7 +233,7 @@ updated: 2026-11-18
 > | [[Goh Report]] | 治理案例 | 1979 年通过精细化能力分流改革成功将两成学业辍学率压缩至 1% 以下。 |
 > | [[National Dropout Prevention Center]] | 专业机构 | 整合大数据早期预警与导师制干预的预防辍学证据清算平台。 |
 > | [[Differentiated Instruction]] | 应对机制 | 早期精准辅导与差异化教学支持作为替代排斥性推挤的正向留存策略。 |
-> | [[Human Capital Theory]] | 理论视角 | 将学业流失视作国家人力资本积累中断与劳动力生产率损失的核心议题。 |
+> | [[Human Capital Theory]] | [[Theoretical Perspective\|理论视角]] | 将学业流失视作国家人力资本积累中断与劳动力生产率损失的核心议题。 |
 
 ---
 

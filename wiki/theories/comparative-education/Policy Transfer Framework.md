@@ -8,7 +8,7 @@ aliases:
 summary: "由戴维·多洛维茨与戴维·马什系统建构的比较公共政策与政策科学分析框架，围绕转移主体、动机、客体、来源、程度与制约因素六大维度，解构知识、制度安排与治理工具跨越管辖边界的流动与本土重塑机制。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 38
+theory_related_count: 39
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Heterogeneity]]"
+  - "[[Policy Learning]]"
   - "[[Welfare-to-Work]]"
   - "[[Cumulative Innovation]]"
   - "[[Alienation]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-19
-updated: 2026-11-15
+updated: 2026-11-18
 ---
 
 ---
@@ -111,7 +112,7 @@ updated: 2026-11-15
 ---
 
 > [!theory-proposition] 命题一｜政策转移动机沿行动者自主性与外部强制力构成连续谱系
-> 多洛维茨与马什指出，政策转移在经验上呈现为从自愿性政策学习（Rational Lesson-Drawing）延伸至超国家机构直接施加（Coercive Transfer）的连续谱。在自愿转移区间，对既有政策成效的审视、国际对标诉求、意识形态亲和性与语言制度的相近性共同构成核心动力；在此机制下，战略行动者展现出克服本土制度阻碍、积极吸纳外来经验的能动特征。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 332–333)]]
+> 多洛维茨与马什指出，政策转移在经验上呈现为从自愿性[[Policy Learning|政策学习]]（Rational Lesson-Drawing）延伸至超国家机构直接施加（Coercive Transfer）的连续谱。在自愿转移区间，对既有政策成效的审视、国际对标诉求、意识形态亲和性与语言制度的相近性共同构成核心动力；在此机制下，战略行动者展现出克服本土制度阻碍、积极吸纳外来经验的能动特征。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 332–333)]]
 
 > [!example|notitle]
 > 英国新工党在 1997 年执政后，出于兑现破除福利依赖竞选承诺的治理需求，主动面向具有相同语言与相近自由主义福利传统的美国系统搜寻[[Welfare-to-Work|积极劳动力市场政策]][[Paradigm|范式]]。

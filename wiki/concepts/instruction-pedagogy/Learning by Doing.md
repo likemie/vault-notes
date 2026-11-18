@@ -8,7 +8,7 @@ aliases:
 summary: "个体、组织与公共治理系统通过实际行动、工程实践、政策试错与自适应排障获取并内化深层知识的认识与生产率演进机制。在杜威进步主义教育中指通过真实探究建构批判性思维的核心教学法；在产业组织与创新经济学中指随累积产量爬坡带来的动态良率提升与单位成本下降（学习曲线效应）；在现代产业战略中指通过执行中的自适应规制调整、审批改革与反馈纠偏实现政策实效的关键过程准则。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 45
+related_count: 46
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Variable]]"
   - "[[General Purpose Technology]]"
+  - "[[Policy Learning]]"
   - "[[Epistemology]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Reflective Thinking]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-11-03
+updated: 2026-11-18
 ---
 
 ---
@@ -114,7 +115,7 @@ updated: 2026-11-03
 > - **受控假设检验与[[Statistical Process Control|统计过程控制]]（Controlled Process Control）** 在工业制造车间，干中学通过严格控制工艺[[Variable|变量]]、记录缺陷晶圆切片与微观化学归因展开，将隐性试错转化为显性知识。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 195–199)]]
 > - **首发采购支持下的规模累积爬坡（Scale-Accumulation under Lead Procurement）** 在[[General Purpose Technology|通用技术]]商业前景不明的萌芽期，政府与军方首发采购订单为供应商提供了不计短期成本的试验田，支撑企业在大规模生产中沿学习曲线快速下滑。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 31)]]
 > - **累积产量带来的动态成本陡降（Dynamic Learning Curve）** 半导体工业实证表明，累积产量每翻一番，单位芯片生产成本通常下降 20%–30%，使先发企业构筑起强大的动态成本护城河。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 81, 83)]]
-> - **自适应规制学习与政策弹性调整（Adaptive Policy Learning）** 在产业政策推进中，监管机构依托干中学吸收产业实际运行反馈，适时调整行政审批规则与过渡性采购豁免，避免政策僵化。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 4–5, 13–14)]]
+> - **自适应规制学习与政策弹性调整（Adaptive [[Policy Learning]]）** 在产业政策推进中，监管机构依托干中学吸收产业实际运行反馈，适时调整行政审批规则与过渡性采购豁免，避免政策僵化。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 4–5, 13–14)]]
 
 ---
 
@@ -203,7 +204,7 @@ updated: 2026-11-03
 > [!case] 案例五：美国绿色转型与基础设施推进中的自适应规制学习
 > 拜登政府在推进《[[Infrastructure Investment and Jobs Act|基础设施投资与就业法案]]》与《[[Inflation Reduction Act|通胀削减法案]]》落地中的干中学实践：
 > - **电网互联并网改革** 面临清洁能源项目因电网容量不足与互联排队积压数年之久的瓶颈，联邦能源监管委员会（FERC）在干中学中出台 2023 年新规（Order 2023），由以往逐个审查转向“先到先得整批集群研究”，大幅压缩并网审批周期；
-> - **本土采购动态豁免复核** 针对国内暂无成熟产能的电动汽车充电桩与光纤设备，白宫美国制造办公室（MIAO）核发有明确宽限期的过渡豁免，并定期复核本土企业产能扩张进展，通过逐步收紧豁免倒逼产业链向本土分阶段迁移，避免教条脱钩引发工程延误。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 5, 13–14)]]
+> - **本土采购动态豁免复核** 针对国内暂无成熟产能的电动汽车充电桩与光纤设备，白宫美国制造办公室（MIAO）核发有明确宽限期的过渡豁免，并定期复核本土企业产能扩张进展，通过逐步收紧豁免引导产业链向本土分阶段迁移，避免教条脱钩引发工程延误。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 5, 13–14)]]
 
 ---
 

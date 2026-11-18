@@ -11,7 +11,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 20
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -26,12 +26,14 @@ tags:
   - theme/educational-governance
 related_concepts:
   - "[[Open Method of Coordination]]"
+  - "[[Policy Learning]]"
   - "[[Individualised Instruction]]"
   - "[[Scientific Method]]"
   - "[[Policy Borrowing]]"
   - "[[Evaluator Independence]]"
   - "[[Policy Network]]"
   - "[[Discourse]]"
+  - "[[Mimesis]]"
   - "[[Theoretical Standpoint]]"
   - "[[European Education Space]]"
   - "[[Discursive Field]]"
@@ -54,13 +56,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-21
-updated: 2026-11-13
+updated: 2026-11-18
 ---
 
 ---
 
 > [!claim] 项目定位
-> [[EU|欧盟]]同行学习活动（Peer-Learning Activities, PLAs）是欧洲委员会教育与文化总司在[[Lisbon Strategy|里斯本战略]]与[[Open Method of Coordination|开放协调法]]（OMC）框架下设立的常态化政策交流机制。该项目通过组织成员国教育专家赴高绩效国家开展实地考察与政策对话，旨在促进国家间“最佳实践”辨识与自下而上的政策学习。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 33–34)]]
+> [[EU|欧盟]]同行学习活动（Peer-Learning Activities, PLAs）是欧洲委员会教育与文化总司在[[Lisbon Strategy|里斯本战略]]与[[Open Method of Coordination|开放协调法]]（OMC）框架下设立的常态化政策交流机制。该项目通过组织成员国教育专家赴高绩效国家开展实地考察与政策对话，旨在促进国家间“最佳实践”辨识与自下而上的[[Policy Learning|政策学习]]。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 33–34)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2005 年前后正式制度化启动，作为“[[Education and Training 2010|教育与培训 2010]]/2020”（ET 2010/2020）工作规划的核心实践机制并持续至今。
@@ -114,7 +116,7 @@ updated: 2026-11-13
 
 > [!finding-cards] 关键机制成效与局限
 > - **构筑非正式跨国[[Policy Network|政策网络]]** 同行学习打破了成员国教育官僚的孤立隔阂，培育了共享欧洲政策[[Discourse|话语]]的专业共同体。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 33)]]
-> - **遭遇[[Policy Borrowing|政策借用]]的脱嵌困境** 实证调查表明，各国在同行学习中往往缺乏[[Scientific Method|科学方法]]去剥离特定文化历史制度背景，容易陷入盲目崇拜“芬兰奇迹”或表层模仿的误区。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 33)]]
+> - **遭遇[[Policy Borrowing|政策借用]]的脱嵌困境** 实证调查表明，各国在同行学习中往往缺乏[[Scientific Method|科学方法]]去剥离特定文化历史制度背景，容易陷入盲目崇拜“芬兰奇迹”或表层[[Mimesis|模仿]]的误区。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 33)]]
 
 ---
 

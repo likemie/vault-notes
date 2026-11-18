@@ -9,7 +9,7 @@ aliases:
 summary: "依托特定宗教信仰团体、教区或教派传统创办并管理的教育机构；在历史演进中历经传统经院学徒制向近现代科层化学校系统的转型，通过整合宗教伦理、严密社群网络与学术大纲提供有别于世俗公学的教育模式。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 21
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,9 +30,12 @@ related_concepts:
   - "[[Boarding Schools]]"
   - "[[School Vouchers]]"
   - "[[School Choice]]"
+  - "[[Geopolitics]]"
   - "[[Alienation]]"
   - "[[Educational Pilgrimage]]"
+  - "[[Bilingual Education Policy]]"
 related_theories:
+  - "[[Developmental State]]"
   - "[[Knowledge Building Theory]]"
 related_methods:
   - "[[Meta-analysis]]"
@@ -129,7 +132,7 @@ updated: 2026-11-18
 > - **19世纪 — 世俗[[Common School Movement|公学运动]]与公私办学区隔** 随着欧美现代民族国家崛起，公立学校运动强调国家教育权与世俗化大纲，宗教学校逐步确立为独立的私立教育形态。
 > - **20世纪初 — 亚非前殖民地的教育现代转型** 现代殖民学校系统引入标准化考核与年龄分级，促使传统宗教学校逐步改革大纲并纳入国家认证框架。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 123–124)]]
 > - **20世纪末至今 — [[School Vouchers|教育券]]计划与学校效能实证量化** 随着[[School Choice|学校选择]]权政策的推行，实证研究界通过大规模元分析系统测量宗教学校对学术产出的净增量贡献（Jeynes, 2004, 2012b）。
-> - **2000 年代 — 后九一一地缘安全震荡与国家课程规范介入** 新加坡强发展型国家在后九一一[[Geopolitics|地缘政治]]震荡与反恐背景下，对传统伊斯兰宗教学校（madrasah）实施课程规制，强制推行基础教育国家统一大纲与统考基准，在尊重族群宗教办学自主与维系国家认同、社会凝聚之间展开制度协商。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, p. 57)]]
+> - **2000 年代 — 后九一一地缘安全震荡与国家课程规范介入** 新加坡强[[Developmental State|发展型国家]]在后九一一[[Geopolitics|地缘政治]]震荡与反恐背景下，对传统伊斯兰宗教学校（madrasah）实施课程规制，强制推行基础教育国家统一大纲与统考基准，在尊重族群宗教办学自主与维系国家认同、社会凝聚之间展开制度协商。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, p. 57)]]
 
 ---
 

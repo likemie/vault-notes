@@ -12,7 +12,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Online Education]]"
   - "[[Gamification]]"
   - "[[School Autonomy]]"
+  - "[[Policy Learning]]"
   - "[[Discourse]]"
   - "[[Epistemic Governance]]"
   - "[[Lifelong Learning]]"
@@ -56,7 +57,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-23
+updated: 2026-11-18
 ---
 
 # World Bank Institute
@@ -144,7 +145,7 @@ updated: 2026-10-23
 
 > [!indicators] 影响力维度与指标
 > - **受训人员覆盖规模** 年均动员数以万计的借贷国政策制定者、行政官僚、地方校长与智库学者参与各类在线与面授进修。
-> - **跨国课程网络辐射度** 数字化在线平台覆盖全球所有发展中国家，构建了多语种政策学习资料库。
+> - **跨国课程网络辐射度** 数字化在线平台覆盖全球所有发展中国家，构建了多语种[[Policy Learning|政策学习]]资料库。
 > - **政策议程塑造与规范引导效能** 深度塑造了全球南方受援国官僚的专业[[Discourse|话语]]体系，使其主动采纳[[World Bank|世行]]所倡导的管理主义评估标准。
 
 > [!finding-cards] 关键成效与辐射影响

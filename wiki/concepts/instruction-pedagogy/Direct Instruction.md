@@ -7,7 +7,7 @@ aliases:
 summary: "由教师主动主导、以明确目标说明、分步示范、有指导练习、理解检查与即时反馈为核心的高结构化教学模式，在程序性知识与基础技能教学中成效显著，但在高阶思维培养中需与情境探究结合以避免教育副作用"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 80
+related_count: 81
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -39,8 +39,7 @@ related_concepts:
   - "[[Success Criteria]]"
   - "[[Academic Achievement]]"
   - "[[Zone of Desired Effects]]"
-  - "[[Lesson Study]]"
-  - "[[High-Performing Education Systems]]"
+  - "[[Teaching for Understanding]]"
   - "[[Critical Thinking]]"
   - "[[Creativity Training]]"
   - "[[Divergent Thinking]]"
@@ -66,6 +65,7 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Document]]"
   - "[[Infusion Approach]]"
+  - "[[Lesson Study]]"
 related_theories:
   - "[[Discursive Institutionalism]]"
   - "[[Cognitive Load Theory]]"
@@ -89,10 +89,10 @@ related_persons:
   - "[[John Sweller]]"
   - "[[Deanna Kuhn]]"
 related_facts:
-  - "[[PISA]]"
-  - "[[TIMSS]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Top Institute for Evidence-Based Education Research]]"
+  - "[[PISA]]"
+  - "[[TIMSS]]"
   - "[[Australian Curriculum]]"
 related_arguments:
   - "[[Argument_Zhao_2017_JEC]]"
@@ -100,6 +100,7 @@ related_arguments:
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Slavin_2019_EducPsychol]]"
   - "[[Argument_DeJong_2023_ERR]]"
+  - "[[Argument_Hogan_2013_ROE]]"
   - "[[Argument_Deng_2016_CE]]"
   - "[[Argument_Park_2026_TSC]]"
   - "[[Argument_Wecker_2016_ZfE]]"
@@ -178,7 +179,7 @@ updated: 2026-11-18
 > **[[Cognitive Load Theory\|认知负荷理论]]对显性直接指导的辩护** 初学者在面对新领域时缺乏长时记忆中的知识图式（Schemata）。若采用未加指导的自由探索，有限的工作记忆会瞬间被盲目搜寻的外在负荷挤爆；直接教学通过“专家示范 + 样例解析 + 指导练习”，将外部认知负荷降至最低，使认知资源完全聚焦于图式建构与技能自动化。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 1–2)]]
 
 > [!claim] [[Argument_Hogan_2013_ROE|Hogan et al. (2013)]]; [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]]
-> **高绩效系统中的主干规程与因果中介中枢** 新加坡中学课堂大规模实证表明，直接教学由示范、复习、新内容结构化、提问和反馈五项行为构成，在数学与英语课中均保持高频实施（均分 3.67 与 3.61）；结构方程模型证实直接教学是连接传统讲授与高阶理解性教学的必要中介中枢（相关度 .68 至 .75），构成了维系高水平学术成就的基石规程。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 69–73, 90–93)]]; [[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 458–460)]]
+> **高绩效系统中的主干规程与因果中介中枢** 新加坡中学课堂大规模实证表明，直接教学由示范、复习、新内容结构化、提问和反馈五项行为构成，在数学与英语课中均保持高频实施（均分 3.67 与 3.61）；结构方程模型证实直接教学是连接传统讲授与高阶[[Teaching for Understanding|理解性教学]]的必要中介中枢（相关度 .68 至 .75），构成了维系高水平学术成就的基石规程。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 69–73, 90–93)]]; [[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 458–460)]]
 
 ---
 
@@ -353,6 +354,6 @@ updated: 2026-11-18
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统检视直接教学在科学教育中的适用边界，指出脱离探究练习的单一直接讲授无法保障长效保持与迁移，主张将直接教学适时嵌入探究全周期。
 > - [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]] — 历史实证考证芬兰保留教师主导直接教学对国际测验高分的因果贡献，揭示转向学生中心探究法诱发学业滑坡（pp. 38–48, 58–62）。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 系统审计 Hattie 直接教学元分析汇总，揭露 Haas (2005) [[Standard Error|标准误]]伪造导致权重缩水 53.5% 的计算缺陷，并提出[[Category Mistake|德甲联赛隐喻]]论证全学年直接教学与瞬时实验的[[Incommensurability|不可通约性]]。
-> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 结合新加坡实证课堂研究（CRPP 数据；Hogan et al., 2013; Hogan, 2014），确证直接讲授在大纲知识覆盖与应试解题中的支柱功能，揭示以直接教学为主干的混合规程造就高绩效系统国际测验高分的机理。
-> - Hogan et al. (2013) — 运用高阶因子分析确立直接教学由示范、复习、内容结构化、提问与反馈构成的测量结构，并证明其作为传统与理解策略间因果中介的作用。
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 结合新加坡实证[[Lesson Study|课堂研究]]（CRPP 数据；Hogan et al., 2013; Hogan, 2014），确证直接讲授在大纲知识覆盖与应试解题中的支柱功能，揭示以直接教学为主干的混合规程造就高绩效系统国际测验高分的机理。
+> - [[Argument_Hogan_2013_ROE|Hogan et al. (2013)]] — 运用高阶因子分析确立直接教学由示范、复习、内容结构化、提问与反馈构成的测量结构，并证明其作为传统与理解策略间因果中介的作用。
 

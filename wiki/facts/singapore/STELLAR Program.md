@@ -10,9 +10,9 @@ subtype: program
 region: "singapore"
 fact_region: "singapore"
 fact_kind: "program"
-fact_related_count: 8
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "2006–至今"
 initiator_organization: "Ministry of Education, Singapore"
@@ -34,6 +34,8 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Ministry of Education of the People's Republic of China]]"
+  - "[[National Institute of Education]]"
+  - "[[Primary School Leaving Examination]]"
 related_arguments:
   - "[[Argument_Chua_2011_CILP]]"
 confidence: high
@@ -49,7 +51,7 @@ updated: 2026-11-18
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2006 年于部分先导小学启动实验，2009 年推广至全岛公立小学一年级至三年级，随后常态化覆盖至小学六年级。[[Argument_Chua_2011_CILP|(Chua, 2011, p. 136)]]
-> - **发起方与资助机制** 由新加坡教育部课程规划与发展司（Curriculum Planning and Development Division, CPDD）主导研发并全额财政拨款，协同南洋理工大学国立教育学院（National Institute of Education, NIE）为全国教师提供专业在职辅导。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 128, 136)]]
+> - **发起方与资助机制** 由新加坡教育部课程规划与发展司（Curriculum Planning and Development Division, CPDD）主导研发并全额财政拨款，协同南洋理工大学国立教育学院（[[National Institute of Education]], NIE）为全国教师提供专业在职辅导。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 128, 136)]]
 > - **覆盖范围与对象** 覆盖全国所有公立小学全体一至六年级学生及全体英语专职教师。
 > - **核心问题导向** 应对传统以试题为中心、孤立背诵语法规则导致的应试分数尚可但交际能力欠缺与阅读兴趣匮乏难题，打破机械教学束缚。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 135–136)]]
 
@@ -67,7 +69,7 @@ updated: 2026-11-18
 >   1. **共享阅读法（Shared Book Approach, SBA）** 教师使用印刷放大的大书（Big Books）与全班共同朗读、讨论插图与预测情节；
 >   2. **修正语言体验法（Modified Language Experience Approach, MLEA）** 组织全班参与共同活动（如科学小实验、做手工艺），由教师引导学生口述经历并由师生共同执笔记录成文；
 >   3. **学习中心活动（Learning Centres）** 设立阅读区、词汇区与听力区进行小组自适应探究。[[Argument_Chua_2011_CILP|(MOE, 2008; Chua, 2011, p. 136)]]
-> - **高年级技能进阶（P4–P6）** 转向支持式阅读、跨学科批判性阅读与引导式写作，衔接小学离校考试（Primary School Leaving Examination, PSLE）的综合学业评价。
+> - **高年级技能进阶（P4–P6）** 转向支持式阅读、跨学科批判性阅读与引导式写作，衔接[[Primary School Leaving Examination|小学离校考试]]（Primary School Leaving Examination, PSLE）的综合学业评价。
 > - **教学材料官方配套供给** 教育部统一部署成套经典绘本读物与数字化互动媒介，替代传统枯燥的单张练习纸。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 128, 136)]]
 
 > [!case] 课堂教学实施细节

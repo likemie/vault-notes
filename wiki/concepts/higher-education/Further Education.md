@@ -8,10 +8,10 @@ aliases:
 summary: "位于义务教育和正规高等教育之外的中学后非正规教育形态，以非学位证书、职业技能重塑与终身学习为核心，与正规高等教育共同构成后福特经济与跨国产业链协同的技能支柱。"
 type: concept
 domain: "higher-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 22
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - level/adult
   - region/global
@@ -28,11 +28,13 @@ related_concepts:
   - "[[European Education Space]]"
   - "[[Internationalization of Vocational Education]]"
   - "[[Education Going Global]]"
+  - "[[Workforce Development]]"
   - "[[Research Universities]]"
   - "[[Variable]]"
   - "[[Performance Indicators]]"
 related_theories:
   - "[[Human Capital Theory]]"
+  - "[[Developmental State]]"
 related_methods:
   - "[[Effect Size]]"
 related_persons: []
@@ -43,10 +45,11 @@ related_arguments:
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
   - "[[Argument_Wang_Liang_Chen_2025_CES]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
+  - "[[Argument_Gopinathan_2007_GSE]]"
 confidence: high
 status: completed
 created: 2026-05-18
-updated: 2026-11-11
+updated: 2026-11-18
 ---
 
 ---
@@ -139,6 +142,7 @@ updated: 2026-11-11
 > - **1990年代 — 后福特转型与再技能化觉醒** 制造业向知识密集型经济转型，Morris-Suzuki 提出“永久创新经济”命题，揭示劳动力持续技能迭代对经济体系的基础支撑作用。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, p. 179)]]
 > - **2000 年代 — 欧洲制度化教育空间的一体化整合** 欧盟通过白皮书倡议与资助网络，推动将初始教育与继续教育体系（initial and further education systems）进行深度贯通与学分互认，以构筑制度化的欧洲教育空间。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 485)]]
 > - **2000–2010年代 — 参与率攀升与多边统计建制** 欧盟启动继续职业教育培训调查（CVTS），数据显示 25–64 岁成人教育培训年参与率突破 40%，继续教育被纳入跨国终身学习政策指标体系。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, pp. 179–180)]]
+> - **2003 年 — 东亚[[Developmental State|发展型国家]]的定向职业技能重组** 新加坡成立[[Workforce Development|劳动力发展]]局（WDA），由国家紧密围绕经济发展局（EDB）确立的生物医药、精密工程与数字创意等高附加值产业目录，定向资助成人继续教育与在职转岗培训，将继续教育作为支撑国家产业结构转型的战略性远距离治理工具。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, p. 66)]]
 > - **2010年代末 — 微证书繁荣与商业寡头集聚** 替代性微证书（Micro-credentials）快速崛起，Skillsoft 等跨国在线商业培训机构依靠资本并购与平台效应形成全球性市场集聚。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, pp. 190–193)]]
 > - **2020年代至今 — 全周期技能贯通与跨国数字走廊** 在跨国工程合作与职业教育开放实践中，继续教育深度融入“职前、入职、在职”全生命周期资源库，依托多语种数字平台支撑区域技能标准化协同。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 300–301)]]
 
@@ -170,6 +174,8 @@ updated: 2026-11-11
 > |:-----|:-----|:-----|
 > | [[Post-Fordism]] | 概念 | 驱动劳动力技能快速折旧与终身学习培训需求的宏观生产范式。 |
 > | [[Lifelong Learning]] | 概念 | 贯穿全生命周期的上位教育理念，继续教育为其关键实践支柱。 |
+> | [[Workforce Development]] | 概念 | 国家通过统筹非学历继续教育与在职培训以动态匹配高科技产业诉求的技能重组机制。[[Argument_Gopinathan_2007_GSE\|(Gopinathan, 2007, p. 66)]] |
+> | [[Developmental State]] | 概念 | 紧扣产业升级目录、定向资助成人职业继续教育与转岗培训的强国家治理体制。[[Argument_Gopinathan_2007_GSE\|(Gopinathan, 2007, p. 66)]] |
 > | [[Externalization]] | 概念 | 企业在继续教育供给中将内部培训向外部专业机构采购外化的机制。 |
 > | [[Corporate Education]] | 概念 | 由用人单位直接出资和定制的继续教育子集。 |
 > | [[Competitiveness]] | 概念 | 产业与国家通过持续劳动力技能重塑维持的全球经贸竞争优势。 |
@@ -187,3 +193,4 @@ updated: 2026-11-11
 > - [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] — 梳理继续教育与企业教育的政治经济学脉络，揭示永久创新经济驱动机制、企业培训外化率以及跨国商业培训市场的运作逻辑。
 > - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 结合区域产教协同与职教出海实践，阐明在职继续教育在打通全周期人才培养链条与支撑跨国产业用工中的关键枢纽功能（pp. 300–301）。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 考察欧盟教育政策演进，指出构筑制度化欧洲教育空间的关键目标之一是推进初始教育与继续教育体系的一体化整合（p. 485）。
+> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 阐明新加坡强发展型国家如何于 2003 年设立劳动力发展局（WDA），通过政策激励与财政定向资助推动成人继续教育与转岗培训，使其紧密服务于战略性新兴产业布局（p. 66）。

@@ -7,34 +7,39 @@ aliases:
 summary: "指国家或地区课程标准、教学资源材料、课堂教学实践与学生学业测评之间在内容广度与认知要求层面的结构性匹配状态，由安德鲁·波特与苏珊·福尔曼等学者建立为衡量系统性教育改革执行效能与宏微观治理连贯性的关键分析构念。"
 type: concept
 domain: "curriculum"
-related_count: 15
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/curriculum
   - theme/curriculum-governance
   - theme/educational-reform
   - theme/instructional-improvement
 related_concepts:
-  - "[[Curriculum Coherence]]"
-  - "[[Curricular Governance]]"
-  - "[[Instructional Core]]"
-  - "[[Output-Oriented Governance]]"
-  - "[[High-Stakes Testing]]"
+  - "[[Construct]]"
   - "[[System-Wide Improvement]]"
+  - "[[Curriculum Coherence]]"
+  - "[[Epistemology]]"
+  - "[[Epistemic Ascent]]"
+  - "[[Curricular Governance]]"
+  - "[[Concept Mapping]]"
+  - "[[Learning Progression]]"
+  - "[[Academic Achievement]]"
+  - "[[Instructional Core]]"
+  - "[[Document]]"
 related_theories:
   - "[[Backward Mapping]]"
-related_methods:
-  - "[[Analytic Framework]]"
-  - "[[Documentary Analysis]]"
+related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Ben Levin]]"
-  - "[[Richard Elmore]]"
+  - "[[Andrew Porter]]"
+  - "[[Susan Fuhrman]]"
 related_facts:
+  - "[[Gaokao]]"
+  - "[[Curriculum Development Institute of Singapore]]"
+  - "[[National Institute of Education]]"
   - "[[Long Beach Unified School District]]"
-  - "[[Polish Education Reform of 1999]]"
 related_arguments:
   - "[[Argument_Barrenechea_2023_JEC]]"
   - "[[Argument_Deng_2016_CE]]"
@@ -47,7 +52,7 @@ updated: 2026-11-18
 ---
 
 > [!def] Curriculum Alignment
-> 课程对齐（Curriculum Alignment）指既定教育系统内部的书面课程标准（Content Standards）、教材与教具支持（Instructional Materials）、教师实际课堂教学实践（Enacted Curriculum）以及学生学业成效测评（Assessments）四个关键构件之间，在学科知识主题广度与认知过程要求深度上的结构匹配与逻辑衔接状态；该构念是分析宏观教育政策决策能否穿透层级官僚并有效引导微观课堂教学实践的核心中介机制。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 492, 495)]]
+> 课程对齐（Curriculum Alignment）指既定教育系统内部的书面课程标准（Content Standards）、教材与教具支持（Instructional Materials）、教师实际课堂教学实践（Enacted Curriculum）以及学生学业成效测评（Assessments）四个关键构件之间，在学科知识主题广度与认知过程要求深度上的结构匹配与逻辑衔接状态；该[[Construct|构念]]是分析宏观教育政策决策能否穿透层级官僚并有效引导微观课堂教学实践的核心中介机制。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 492, 495)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向宏观教育政策文本、物化教材资源、日常课堂师生互动与外部评价指标之间的结构性吻合度。
@@ -55,12 +60,12 @@ updated: 2026-11-18
 > - **边界** 聚焦于课程构件外部的系统结构性对应，不直接等同于学习者个体心智结构内部的认知连贯体验（课程连贯性）。
 
 > [!citation-card] 巴雷内切亚等论课程对齐作为宏微观治理桥梁（[[Argument_Barrenechea_2023_JEC|Barrenechea et al., 2023]]）
-> 全系统改进研究表明，设计能够连接宏观课程决策与日常教学实践的治理机制是一项根本性挑战。教学各组件之间的对齐概念是经典课程治理研究的核心所在。良好对齐的系统通过一套旨在引导教与学的连贯‘课程环境’工具，为广大教师确立清晰明确的实践预期。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 494–495)]]
+> [[System-Wide Improvement|全系统改进]]研究表明，设计能够连接宏观课程决策与日常教学实践的治理机制是一项根本性挑战。教学各组件之间的对齐概念是经典课程治理研究的核心所在。良好对齐的系统通过一套旨在引导教与学的连贯‘课程环境’工具，为广大教师确立清晰明确的实践预期。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 494–495)]]
 >
 > *Our review shows that the need to design governance mechanisms that could bridge macro curricular decisions with everyday pedagogical practices is a fundamental challenge for the improvement of educational systems. The notion of alignment between different instructional components is key in classical studies of curriculum governance... Well-aligned systems provide common expectations to teachers through a coherent 'curricular environment' of instruments intended to steer teaching and learning.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Curriculum Coherence]]（课程连贯性） — 课程对齐聚焦于标准、教材、教学与测评等制度构件间的外在对应程度，依托二维矩阵开展测量；课程连贯性聚焦于学科知识结构内部的内在认识论逻辑以及学习者概念进阶的连续性。
+> - 不等于 [[Curriculum Coherence]]（课程连贯性） — 课程对齐聚焦于标准、教材、教学与测评等制度构件间的外在对应程度，依托二维矩阵开展测量；课程连贯性聚焦于学科知识结构内部的内在[[Epistemology|认识论]]逻辑以及学习者[[Epistemic Ascent|概念进阶]]的连续性。
 > - 不适用于微观个体偶发教学策略分析 — 该构念专用于系统性、跨学校与全学段的制度结构匹配度研究，不宜用于解释单体教师偶发性的人际教学风格差异。
 
 ---
@@ -70,14 +75,14 @@ updated: 2026-11-18
 > |------|-----------------------------------|--------------------------|---------------------------|
 > | 分析对象 | 标准、教材、课堂教学与测试之间的匹配度 | 学科知识内在的逻辑架构与心智进阶顺序 | 国家或地方政府分配课程决策权的权力机制 |
 > | 核心机制 | 借助二维内容与认知量表进行双向对标 | 依照学科结构组织循序渐进的螺旋上升结构 | 依托法规、大纲审定与统测进行规制引导 |
-> | 评估工具 | 波特对齐指数（Porter Alignment Index） | 概念图谱、学习进阶模型分析 | 政策文本分析、权力结构关系映射 |
+> | 评估工具 | 波特对齐指数（Porter Alignment Index） | [[Concept Mapping\|概念图]]谱、[[Learning Progression\|学习进阶]]模型分析 | 政策文本分析、权力结构关系映射 |
 
 ---
 
 > [!feature] 核心要素
 > - **书面课程标准（Intended Curriculum）** 国家或地方教育行政部门颁布的法定学业质量标准与各学段内容目标，规定系统预期学生达到的学力基准。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 492)]]
 > - **实施课程（Enacted Curriculum）** 教师在真实课堂场景中实际讲授的学科内容深度、时间分配以及师生互动模式。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 495)]]
-> - **测定课程（Assessed Curriculum）** 高利害中考高考、全州统考或国际测评实际测量的知识点分布与思维要求层级。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 495)]]
+> - **测定课程（Assessed Curriculum）** 高利害中考[[Gaokao|高考]]、全州统考或国际测评实际测量的知识点分布与思维要求层级。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 495)]]
 > - **支持性资源环境（Curricular Environment）** 统编教材、教学指导用书、分级读物以及常态化教学教练网络，为对齐提供物化支撑。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 492)]]
 
 > [!logic-map]- 要素关系
@@ -104,10 +109,10 @@ updated: 2026-11-18
 > **系统协同与行为锚定** 课程治理理论认为，当标准、教学与测试出现断层时，教师倾向于退回各自封闭的个体经验；高度对齐的系统能够向一线发出清晰无歧义的专业预期，降低教师在海量资源中的筛选成本。
 >
 > > [!claim] Porter, A.
-> > **内容覆盖与认知要求的对标决定学习机会** 波特（Andrew Porter）通过实施课程调查证实，学生学业成就的高低直接取决于教师实际讲授内容与外部评估内容之间的重合度；开发标准对测试的对齐矩阵能够量化检验系统改进的真实教学机会（Opportunity to Learn, OTL）。（Porter, 2002，引自 [[Argument_Barrenechea_2023_JEC|Barrenechea et al., 2023, p. 495]]）
+> > **内容覆盖与认知要求的对标决定学习机会** 波特（[[Andrew Porter]]）通过实施课程调查证实，学生[[Academic Achievement|学业成就]]的高低直接取决于教师实际讲授内容与外部评估内容之间的重合度；开发标准对测试的对齐矩阵能够量化检验系统改进的真实教学机会（Opportunity to Learn, OTL）。（Porter, 2002，引自 [[Argument_Barrenechea_2023_JEC|Barrenechea et al., 2023, p. 495]]）
 >
 > > [!claim] Fuhrman, S.
-> > **系统性政策设计消除分散化治理弊端** 福尔曼（Susan Fuhrman）主张系统性教育改革的成败取决于州级政策组合的连贯性，唯有将教学大纲、教师职后研修与终结性测试紧密铆合，才能克服基层分散自治造成的政策抵消。（Fuhrman, 1993，引自 [[Argument_Barrenechea_2023_JEC|Barrenechea et al., 2023, p. 492]]）
+> > **系统性政策设计消除分散化治理弊端** 福尔曼（[[Susan Fuhrman]]）主张系统性教育改革的成败取决于州级政策组合的连贯性，唯有将教学大纲、教师职后研修与终结性测试紧密铆合，才能克服基层分散自治造成的政策抵消。（Fuhrman, 1993，引自 [[Argument_Barrenechea_2023_JEC|Barrenechea et al., 2023, p. 492]]）
 
 ---
 
@@ -134,7 +139,7 @@ updated: 2026-11-18
 > - **1990年代初 — 系统性改革运动兴起** Fuhrman 等学者提出系统性教育改革，呼吁以课程对齐克服美国公立教育分散化困局。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 492)]]
 > - **2002 — 波特对齐指数与量化评估成熟** Porter 建立实施课程调查（SEC），提出运用二维拓扑矩阵计算对齐指数（Alignment Index）。
 > - **2010年代至今 — 全系统改进实证综合应用** Barrenechea 等学者在系统改进综述中将其提炼为解释加州长滩、南非豪登等系统成功跨周期提质的关键宏微观治理机制。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 492, 495)]]
-> - **2016 — 东亚高绩效系统的集中化对齐模式** [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] 揭示新加坡通过国家课程大纲、课程发展署（CDIS）教材、国家统一考试与国立教育学院（NIE）师资培训四位一体的高度对齐，构建起高绩效系统的制度基石。
+> - **2016 — 东亚高绩效系统的集中化对齐模式** [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] 揭示新加坡通过国家课程大纲、[[Curriculum Development Institute of Singapore|课程发展署]]（CDIS）教材、国家统一考试与国立教育学院（[[National Institute of Education|NIE]]）师资培训四位一体的高度对齐，构建起高绩效系统的制度基石。
 
 ---
 
@@ -164,5 +169,5 @@ updated: 2026-11-18
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 对 43 篇全系统改进实证文献的质性综合将课程对齐确定为连接宏观治理与微观教学的核心机制。
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 对 43 篇全系统改进实证[[Document|文献]]的质性综合将课程对齐确定为连接宏观治理与微观教学的核心机制。
 > - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 系统剖析新加坡国家大纲、统编教材（CDIS）、国家统考与统一师训（NIE）之间严密的课程对齐机制，揭示其作为东亚高绩效系统制度基石的运转逻辑。

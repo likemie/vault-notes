@@ -7,10 +7,10 @@ aliases:
 summary: "描述全球资本积累由流水线集中生产转向弹性灵活积累的生产组织范式，在教育系统体现为由标准化大众供给转向技能模块化、绩效问责、数字化全景监视与市场竞争性治理。"
 type: concept
 domain: "sociology-of-education"
-related_count: 37
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 41
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - sociology-of-education
   - political-economy
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Teacher Professional Agency]]"
   - "[[Champ]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Problem Solving]]"
   - "[[Creativity]]"
   - "[[Informationalization]]"
   - "[[Epistemology]]"
@@ -44,6 +45,7 @@ related_concepts:
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Panopticism]]"
+  - "[[Developmental State]]"
   - "[[Conditioned State Theory]]"
   - "[[Dependency Theory]]"
 related_methods:
@@ -55,9 +57,11 @@ related_instruments:
 related_persons:
   - "[[Tim Cain]]"
   - "[[Michael W. Apple]]"
+  - "[[Charles Taylor]]"
   - "[[John Hattie]]"
   - "[[Liliana Esther Olmos]]"
-related_facts: []
+related_facts:
+  - "[[Thinking Schools, Learning Nation]]"
 related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
   - "[[Argument_Johnson_2023_CritEduc]]"
@@ -106,7 +110,7 @@ updated: 2026-11-18
 > - **弹性技能与[[Cognitive Deskilling|去技能化]]/再技能化辩证法** 资本不再保障长周期终身雇佣，要求学校破除传统人文知识体系，拆解出高度可拆卸、即插即用的模块化技能；在此过程中，劳动者对生产过程的整体理解力被剥离（去技能化），同时被要求持续学习碎片化软件与操作规程（再技能化）。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 79)]]
 > - **课程形式的技术控制逻辑** 遵循[[Michael W. Apple|迈克尔·阿普尔]]（Michael Apple, 1982）的批判分析，后福特制将[[Technical Rationality|技术理性]]内置于课程设计中，通过标准化测试、行为目标量规与教案脚本化，剥夺一线教师的专业自主权，将其降格为课程生产流水线的[[Assemblage|组装]]工。
 > - **公共性收缩与市场化准则注入** 伴随跨国资本对公共财政支出的挤压，国家逐步削减基础教育与高等教育的无偿转移支付，引入使用者付费（User Fees）、[[School Vouchers|教育券]]制度与院校绩效竞争，将教育转变为个体积累竞争优势的私人商品。
-> - **微观车间级数字化信息收集与全景监视渗透** 伴随工业生产由泰勒制、福特制向后福特制演进，现代工作场所的核心特征从实体传送带控制转向无处不在的数字化信息收集与全景监视（Portnoi, 2016; Rosenblat et al., 2014）。这一逻辑在教育领域的投射，体现为通过网络化评估软件（如 [[Assessment Tools for Teaching and Learning|asTTle]]）与气压计式绩效仪表盘（如 [[Barometer of Achievement|成就气压计]]），支持行政管理层对教师的软件使用、测试进度及[[Effect Size|效应量]]产出进行全网实时追踪，将学校微观课堂重构为受[[Panopticism|全景敞视]]技术控制的数据车间。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]
+> - **微观车间级数字化信息收集与全景监视渗透** 伴随工业生产由[[Charles Taylor|泰勒]]制、福特制向后福特制演进，现代工作场所的核心特征从实体传送带控制转向无处不在的数字化信息收集与全景监视（Portnoi, 2016; Rosenblat et al., 2014）。这一逻辑在教育领域的投射，体现为通过网络化评估软件（如 [[Assessment Tools for Teaching and Learning|asTTle]]）与气压计式绩效仪表盘（如 [[Barometer of Achievement|成就气压计]]），支持行政管理层对教师的软件使用、测试进度及[[Effect Size|效应量]]产出进行全网实时追踪，将学校微观课堂重构为受[[Panopticism|全景敞视]]技术控制的数据车间。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]
 
 > [!logic-map]- 后福特制生产[[Paradigm|范式]]对教育系统的结构重组机制
 > ```mermaid
@@ -163,7 +167,7 @@ updated: 2026-11-18
 > - **1980 年代 — 文化与[[Ideology Critique|意识形态批判]]** [[Michael W. Apple|迈克尔·阿普尔]]（Apple, 1982）将后福特制劳动过程分析引入教育学，揭示课程编码中的技术控制逻辑。
 > - **1990 年代 — 教育市场化与比较研究** 布朗与劳德（Brown & Lauder, 1992, 1996）系统辨析福特制与后福特制教育路线分歧；鲍尔（Ball, 1993）指出教育市场化实质是后福特资本主义下维系优势阶层特权的新阶级策略。
 > - **2000 年代 — 全球化与外围批判** [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）将后福特制置于世界体系与拉美外围国家依附发展情境，揭示跨国金融机构如何通过后福特制修辞将教育剥削机制输出至全球南方。
-> - **2007 年 — 东亚强发展型国家面对后福特转型的制度摩擦** 戈皮纳坦（[[Argument_Gopinathan_2007_GSE|Gopinathan, 2007, pp. 58–60]]）指出，新加坡为摆脱传统装配流水线福特制模式，主动将教育战略转向培养后福特制知识经济所需的问题解决、创新与批判思考能力；然而，这一追求灵活创新的改革愿景与国家根深蒂固的高风险考试分流、文凭主义及自上而下的行政控制体制发生了深刻的制度摩擦。
+> - **2007 年 — 东亚强[[Developmental State|发展型国家]]面对后福特转型的制度摩擦** 戈皮纳坦（[[Argument_Gopinathan_2007_GSE|Gopinathan, 2007, pp. 58–60]]）指出，新加坡为摆脱传统装配流水线福特制模式，主动将教育战略转向培养后福特制[[Knowledge-Based Economy|知识经济]]所需的[[Problem Solving|问题解决]]、创新与批判思考能力；然而，这一追求灵活创新的改革愿景与国家根深蒂固的高风险考试分流、文凭主义及自上而下的行政控制体制发生了深刻的制度摩擦。
 > - **2014–2023 年 — 数字化职场监视与微观教学劳动规训** Rosenblat et al. (2014) 系统考察现代职场数字化监控；[[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] 将后福特制信息收集与福柯[[Panopticism|全景敞视]]理论结合，揭露网络化测评系统（如 [[Assessment Tools for Teaching and Learning|asTTle]]）与[[Effect Size|效应量]]仪表盘对教师日常教学劳动的车间级技术控制。
 
 ---

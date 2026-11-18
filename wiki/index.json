@@ -6364,6 +6364,18 @@
     ]
   },
   {
+    "title": "Purposes of Schooling",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Purposes of Schooling.md",
+    "aliases": [
+      "学校教育目的",
+      "教育目的三维论",
+      "学校教育的功能与目的",
+      "Functions of Schooling",
+      "Aims of Education"
+    ]
+  },
+  {
     "title": "Purposiveness without Purpose",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Purposiveness without Purpose.md",
@@ -6841,7 +6853,8 @@
       "双语政策",
       "Singapore Bilingual Education",
       "新加坡双语教育模式",
-      "语言政策与双语制"
+      "语言政策与双语制",
+      "Bilingual Education"
     ]
   },
   {
@@ -20236,6 +20249,20 @@
       "教育阶梯",
       "educational attainment",
       "level of education"
+    ]
+  },
+  {
+    "title": "Educational Meritocracy",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Educational Meritocracy.md",
+    "aliases": [
+      "唯才是用",
+      "教育唯才是用制",
+      "教育功绩制",
+      "教育择优制",
+      "考试唯才是用",
+      "Meritocracy in Education",
+      "Examination-Based Meritocracy"
     ]
   },
   {

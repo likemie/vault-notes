@@ -2188,7 +2188,9 @@
       "isbn": "9780631220510",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10.md",
-        "wiki/concepts/comparative-education/Comparative Pedagogy.md"
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
+        "wiki/concepts/comparative-education/Comparative Pedagogy.md",
+        "wiki/concepts/comparative-education/Policy Learning.md"
       ],
       "title": "Culture and Pedagogy: International Comparisons in Primary Education"
     },
@@ -7667,6 +7669,7 @@
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/concepts/comparative-education/High-Performing Education Systems.md",
         "wiki/concepts/comparative-education/Performative Turn.md",
+        "wiki/facts/singapore/Centre for Research in Pedagogy and Practice.md",
         "wiki/persons/uk/Michael Barber.md"
       ],
       "title": "How the World’s Best-Performing School Systems Come Out on Top"
@@ -11193,6 +11196,7 @@
       "doi": "10.1007/s11092-008-9064-9",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
         "wiki/concepts/comparative-education/High-Performing Education Systems.md"
       ],
       "title": "Good Education in an Age of Measurement: On the Need to Reconnect with the Question of Purpose in Education"
@@ -66267,6 +66271,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
+        "wiki/concepts/comparative-education/Policy Learning.md",
         "wiki/concepts/educational-policy-reform/Policy Mobility.md"
       ],
       "title": "Policy Borrowing, Policy Learning: Testing Times in Australian Schooling"
@@ -94387,6 +94392,7 @@
         "wiki/concepts/comparative-education/Cross-National Attraction.md",
         "wiki/concepts/comparative-education/Influences Across Cultures.md",
         "wiki/concepts/comparative-education/Policy Borrowing.md",
+        "wiki/concepts/comparative-education/Policy Learning.md",
         "wiki/concepts/comparative-education/Policy Science in Comparative Education.md",
         "wiki/concepts/comparative-education/Sadler's Garden Metaphor.md",
         "wiki/concepts/educational-philosophy/Geisteswissenschaften.md",
@@ -96399,6 +96405,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
         "wiki/arguments/journal-articles/Educational Research/Argument_Nelson_2017_EducRes.md"
       ],
       "title": ""

@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ tags:
   - theme/lesson-drawing
 related_concepts:
   - "[[Policy Borrowing]]"
+  - "[[Policy Learning]]"
   - "[[Document]]"
   - "[[Construct]]"
   - "[[Alienation]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-15
+updated: 2026-11-18
 ---
 
 ---
@@ -57,7 +58,7 @@ updated: 2026-11-15
 > [!person-profile] 人物档案
 > - **身份位置** 英国比较政治学家（1933–2019），英国格拉斯哥斯特拉斯克莱德大学（University of Strathclyde）政治学荣誉教授，曾任英国政治研究学会主席（1976–1979）。
 > - **核心角色** 比较政治学与公共政策研究的权威学者，以"经验汲取"（Lesson-Drawing）与"政策转移"（Policy Transfer）研究闻名于世；其理论框架是当代比较教育[[Policy Borrowing\|政策借用]]研究的核心理论来源之一。
-> - **代表贡献** 系统区分跨国政策学习的不同路径类型（复制、仿效、启发等），阐明政策移植是充满政治与情境选择的社会行动；其经验汲取概念在比较教育政策、社会政策与公共行政领域均产生了深远影响。
+> - **代表贡献** 系统区分跨国[[Policy Learning|政策学习]]的不同路径类型（复制、仿效、启发等），阐明政策移植是充满政治与情境选择的社会行动；其经验汲取概念在比较教育政策、社会政策与公共行政领域均产生了深远影响。
 
 > [!citation-card] 经验汲取：从他处汲取解决本国问题的启示
 > 经验汲取（Lesson-Drawing）指决策者基于对其他时间或地点已运转项目的认识，提出行动方案的过程。罗斯指出这一过程涉及对经验的主动提炼、情境适配与政治诠释；引发经验汲取冲动的首要诱因在于国内压力（现行政策挫折、公众批评或议程危机），体现出明确的本土问题导向。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 545–546)]]

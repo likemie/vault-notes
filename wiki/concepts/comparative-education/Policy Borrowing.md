@@ -7,7 +7,7 @@ aliases:
 summary: "教育改革选择性参照外部政策经验并在本地重新解释、合法化和变形的过程，是比较教育分析跨国改革流动的核心概念"
 type: concept
 domain: "comparative-education"
-related_count: 136
+related_count: 139
 related_level: 13
 related_stars: "💎💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -43,6 +43,8 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Reference Society]]"
   - "[[Hard Power]]"
+  - "[[Policy Learning]]"
+  - "[[High-Performing Education Systems]]"
   - "[[Mediatised Governance]]"
   - "[[Performance Pay]]"
   - "[[Policy Avoidance]]"
@@ -150,6 +152,7 @@ related_arguments:
   - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Amos_2022_Springer]]"
   - "[[Argument_Klerides_2023_CE]]"
+  - "[[Argument_Deng_2016_CE]]"
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Mitter_2009_Europe]]"
@@ -163,7 +166,7 @@ related_arguments:
 confidence: high
 status: stable
 created: '2026-05-01'
-updated: 2026-11-15
+updated: 2026-11-18
 ---
 
 ---
@@ -368,8 +371,8 @@ updated: 2026-11-15
 > [!claim] [[Eleftherios Klerides|Klerides, E.]]
 > **生存与地缘焦虑的驱动** 在国际自助竞争和主权无政府状态下，国家出于地缘竞争、工业落后恐慌或生存焦虑（如 19 世纪普法竞争、德美工业竞争、明治维新的黑船冲击、冷战[[Sputnik Shock 1957|人造卫星冲击]]等），会将地缘位阶更高的强国体制建构为“[[Reference Society|参考社会]]”（Reference Societies），试图将其教育经验视为保障主权安全、赶超地缘对手并提升[[Hard Power|硬实力]]的工具性资本进行借用。（[[Argument_Klerides_2023_CE|Klerides, 2023, p. 420]]）
 
-> [!claim] Deng & Gopinathan (2016)
-> **去情境化输入要素借用与政策学习转向** 邓宗怡与高平纳坦（Deng & Gopinathan, 2016）批判了围绕[[High-Performing Education Systems|卓越表现教育系统]]（HPES）构建的跨国政策借用文献。该类文献将复杂的系统绩效还原为师资准入门槛、领导力培训与问责标准等可任意挑选的输入要素，完全忽略了这些要素深嵌其中的社会文化、考试分流体制与本土教学规程。任何脱离制度生态与课堂教学实际的政策拼贴均难以在借入国复制成效；跨国借鉴必须以结合源系统历史文化实证审视的“政策学习（Policy Learning）”取代去情境化的浅层借用。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 463–464)]]
+> [!claim] [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]]
+> **去情境化输入要素借用与[[Policy Learning|政策学习]]转向** 邓宗怡与高平纳坦（[[Argument_Deng_2016_CE|Deng & Gopinathan, 2016]]）批判了围绕[[High-Performing Education Systems|卓越表现教育系统]]（HPES）构建的跨国政策借用[[Document|文献]]。该类文献将复杂的系统绩效还原为师资准入门槛、领导力培训与问责标准等可任意挑选的输入要素，完全忽略了这些要素深嵌其中的社会文化、考试分流体制与本土教学规程。任何脱离制度生态与课堂教学实际的政策拼贴均难以在借入国复制成效；跨国借鉴必须以结合源系统历史文化实证审视的“政策学习（Policy Learning）”取代去情境化的浅层借用。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 463–464)]]
 
 ---
 
@@ -574,7 +577,7 @@ updated: 2026-11-15
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 批判围绕卓越表现教育系统（HPES）构建的去情境化政策借用范式，论证制度生态与教学实践对跨国政策移植的刚性制约。
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 批判围绕[[High-Performing Education Systems|卓越表现教育系统]]（HPES）构建的去情境化政策借用范式，论证制度生态与教学实践对跨国政策移植的刚性制约。
 > - [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] — 结合拉美减贫、交通与减害治理案例，解构政策借用框架的方法论国家主义与南北单向扩散假定，阐发依托[[Representational Knowledge|代表性知识]]与[[Policy Ambassador|政策大使]]的多标量政策循环（pp. 2–6）。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 比较德国、英格兰、苏格兰与芬兰对 [[PISA]] 的政策吸纳，实证揭示跨国政策借用作为“策略性外在化”平息国内争议、推行争议性改革或确证既有路线的政治合法化机制。
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 批判正统政策借用与新制度主义对微观技术物质性的忽视，以德国 [[PISA]] 震荡后教育监测改革为例，揭示跨尺度[[Data Infrastructure\|数据基础设施]]与[[Center of Calculation\|计算中心]]如何实现教育政策的[[Topological Spatialisation\|拓扑学重组]]。

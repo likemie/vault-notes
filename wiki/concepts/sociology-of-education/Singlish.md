@@ -7,22 +7,24 @@ aliases:
 summary: "新加坡在多语高强度接触生态中自发形成的本土英语变体（新加坡口语英语）。其以英语词汇为基底，融合了闽南语、粤语、马来语和泰米尔语的句法与语调特征，从早期非受教育阶层的交际工具演化为年轻一代彰显本土文化认同与内部凝聚力的核心载体。"
 type: concept
 domain: "sociology-of-education"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/sociolinguistics
   - theme/language-policy
   - theme/national-identity
   - region/singapore
 related_concepts:
-  - "[[English-Knowing Bilingualism]]"
+  - "[[Creative Self-Efficacy]]"
   - "[[Language-of-State]]"
-  - "[[Language Skills]]"
-  - "[[Competitiveness]]"
-  - "[[Champ]]"
   - "[[Discourse]]"
+  - "[[Champ]]"
+  - "[[Competitiveness]]"
+  - "[[Language Skills]]"
+  - "[[English-Knowing Bilingualism]]"
+  - "[[Bilingual Education Policy]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -40,7 +42,7 @@ updated: 2026-11-18
 ---
 
 > [!def] Singlish
-> **新加坡式英语（Singlish）**，语言学上亦称**新加坡口语英语（Colloquial Singapore English, CSE）**，是指在新加坡特定多语生态下由英语与本土多种汉语方言（闽南语、粤语、潮州话）、马来语及泰米尔语高强度长期接触而自发演化出的一种本土接触变体（contact variety）。其特征表现为在英语核心词汇框架内深度嵌入本土语词、句末语气助词（如 lah、leh、lor）及源自汉语和马来语的话题优先句法结构。它早期作为未受正规英语教育民众的日常交际工具，后演变为各族群在非正式社会互动中表达内部亲近感与本土新加坡人身份归属的文化符号。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 126, 137–139)]]
+> **新加坡式英语（Singlish）**，语言学上亦称**新加坡口语英语（Colloquial Singapore English, [[Creative Self-Efficacy|CSE]]）**，是指在新加坡特定多语生态下由英语与本土多种汉语方言（闽南语、粤语、潮州话）、马来语及泰米尔语高强度长期接触而自发演化出的一种本土接触变体（contact variety）。其特征表现为在英语核心词汇框架内深度嵌入本土语词、句末语气助词（如 lah、leh、lor）及源自汉语和马来语的话题优先句法结构。它早期作为未受正规英语教育民众的日常交际工具，后演变为各族群在非正式社会互动中表达内部亲近感与本土新加坡人身份归属的文化符号。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 126, 137–139)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向语言接触在后殖民与移民社会中催生的混杂化语言实践及其社会身份建构机制。
@@ -55,7 +57,7 @@ updated: 2026-11-18
 > [!boundary]- 概念边界
 > - 不等于 新加坡标准英语（Standard Singapore English, SSE） — 新加坡标准英语严格遵循国际公认的英语语法规则，仅在部分发音与词汇上具地域特色，是官方教学、行政与跨国贸易的正统媒介；新加坡式英语则是用于家庭、朋辈和市井交往的非正式口语变体。
 > - 不等于 单纯的语码转换（Code-Switching） — 新加坡式英语超越了英语加单一语言的双语切换，其底层句法结构与词义形态已经过本土多元母语的深度重构与词汇化。
-> - 不适用于 正式学术公文与跨国经贸契约 — 新加坡式英语主要流通于非正式社会交往场域，在正式跨国商务与国际司法环境中缺乏通用合法性。
+> - 不适用于 正式学术公文与跨国经贸契约 — 新加坡式英语主要流通于非正式社会交往[[Champ|场域]]，在正式跨国商务与国际司法环境中缺乏通用合法性。
 
 ---
 
@@ -140,7 +142,7 @@ updated: 2026-11-18
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[English-Knowing Bilingualism]] | 概念 | 懂英语双语政策为全岛普及英语奠定制度基础，并在高强度接触中不可逆地衍生出新加坡式英语。 |
+> | [[English-Knowing Bilingualism]] | 概念 | 懂英语[[Bilingual Education Policy\|双语政策]]为全岛普及英语奠定制度基础，并在高强度接触中不可逆地衍生出新加坡式英语。 |
 > | [[Language-of-State]] | 概念 | 国家将标准英语确立为官方施政语言，与民间自发流通的新加坡式英语形成二元结构。 |
 > | [[Language Skills]] | 概念 | 双语教育规划追求标准语言技能达标，而民间自发演化出情境自适应的双层语言切换能力。 |
 > | [[Speak Good English Movement]] | 事实 | 新加坡政府为遏制新加坡式英语蔓延、推行标准英语而自 2000 年起持续开展的全国性语言净化运动。 |

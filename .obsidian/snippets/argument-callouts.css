@@ -29786,23 +29786,59 @@ body .callout.callout.callout:is([data-callout="option-pool"], [data-callout="wo
   background: var(--ac-tint) !important;
 }
 
-/* ── 受访者个案全景描述表专属紧凑排版（保障一个case一行） ── */
-body .callout.callout.callout:is([data-callout="ref-table"], [data-callout="sample-panel"], [data-callout="contrast-table"])[data-callout-metadata*="roster"] > .callout-content :is(th, td):first-child {
-  min-width: 0 !important;
-  width: auto !important;
-  text-align: center !important;
-}
-
+/* ── 受访者个案全景描述表专属紧凑排版（保障一个case一行，精准锁定列宽与各列对齐） ── */
 body .callout.callout.callout:is([data-callout="ref-table"], [data-callout="sample-panel"], [data-callout="contrast-table"])[data-callout-metadata*="roster"] > .callout-content table {
   font-size: 0.84em !important;
   margin: 0.35rem 0 0.8rem !important;
   width: 100% !important;
+  min-width: 100% !important;
+  table-layout: fixed !important;
+  border-collapse: collapse !important;
 }
 
 body .callout.callout.callout:is([data-callout="ref-table"], [data-callout="sample-panel"], [data-callout="contrast-table"])[data-callout-metadata*="roster"] > .callout-content :is(th, td) {
   padding: 0.26rem 0.55rem !important;
   line-height: 1.4 !important;
   white-space: nowrap !important;
+  text-indent: 0 !important;
+  letter-spacing: normal !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+}
+
+/* 编号列：居中 */
+body .callout.callout.callout:is([data-callout="ref-table"], [data-callout="sample-panel"], [data-callout="contrast-table"])[data-callout-metadata*="roster"] > .callout-content :is(th, td):nth-child(1) {
+  width: 7.5% !important;
+  min-width: 46px !important;
+  text-align: center !important;
+}
+
+/* 化名列：居中 */
+body .callout.callout.callout:is([data-callout="ref-table"], [data-callout="sample-panel"], [data-callout="contrast-table"])[data-callout-metadata*="roster"] > .callout-content :is(th, td):nth-child(2) {
+  width: 8.5% !important;
+  min-width: 52px !important;
+  text-align: center !important;
+}
+
+/* 社会出身特征：靠左对齐，锁死起始边界与左内边距 */
+body .callout.callout.callout:is([data-callout="ref-table"], [data-callout="sample-panel"], [data-callout="contrast-table"])[data-callout-metadata*="roster"] > .callout-content :is(th, td):nth-child(3) {
+  width: 50% !important;
+  text-align: left !important;
+  padding-left: 0.55rem !important;
+}
+
+/* 专业大类列：居中 */
+body .callout.callout.callout:is([data-callout="ref-table"], [data-callout="sample-panel"], [data-callout="contrast-table"])[data-callout-metadata*="roster"] > .callout-content :is(th, td):nth-child(4) {
+  width: 12% !important;
+  min-width: 74px !important;
+  text-align: center !important;
+}
+
+/* 毕业去向列：靠左对齐，锁死起始边界与左内边距 */
+body .callout.callout.callout:is([data-callout="ref-table"], [data-callout="sample-panel"], [data-callout="contrast-table"])[data-callout-metadata*="roster"] > .callout-content :is(th, td):nth-child(5) {
+  width: 22% !important;
+  text-align: left !important;
+  padding-left: 0.55rem !important;
 }
 
 body .callout.callout.callout:is([data-callout="ref-table"], [data-callout="sample-panel"], [data-callout="contrast-table"])[data-callout-metadata*="roster"] > .callout-content h4 {

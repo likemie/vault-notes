@@ -7,7 +7,7 @@ aliases:
 summary: "由语言学家安妮·帕基尔于1991年提出、后经蔡秀琼等学者深化发展的语言政策构念。指以英语作为跨族群共同行政工作语言与主导教学媒介语、同时将官方指定母语作为族群文化防线的双轨双语制度架构及其在多元社会中塑造的语言生存形态。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 12
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,13 +17,16 @@ tags:
   - theme/sociology-of-education
   - region/singapore
 related_concepts:
-  - "[[Singlish]]"
-  - "[[Language-of-State]]"
-  - "[[Bilingual Education Policy]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Language Skills]]"
-  - "[[Competitiveness]]"
+  - "[[Bilingual Education Policy]]"
   - "[[Champ]]"
+  - "[[Singlish]]"
+  - "[[Foreign Languages]]"
+  - "[[Construct]]"
+  - "[[Competitiveness]]"
+  - "[[Language-of-State]]"
+  - "[[Language Skills]]"
+  - "[[Whole Language]]"
 related_theories:
   - "[[Kaplan and Baldauf's Language-in-Education Planning Framework]]"
 related_methods: []
@@ -31,8 +34,8 @@ related_instruments: []
 related_persons:
   - "[[Lee Kuan Yew]]"
 related_facts:
+  - "[[National Institute of Education]]"
   - "[[STELLAR Program]]"
-  - "[[Speak Good English Movement]]"
 related_arguments:
   - "[[Argument_Chua_2011_CILP]]"
 confidence: high
@@ -52,14 +55,14 @@ updated: 2026-11-18
 > - **边界** 区别于西方传统的母语为主、外语为辅的渐进式双语教学，亦不同于旨在完全同化少数族裔的单语浸润模式。
 
 > [!citation-card|notitle] 关键表述
-> 新加坡推行的双语政策创造了一个全民广泛掌握英语的社会，但这一成功直接重塑了语言生态：英语逐渐渗透入私人家庭[[Champ|场域]]，与各类地方方言及母语深度接触交织，促使懂英语的双语社会演变为混杂着本土英语变体的懂新式英语的双语社会（E(Si)nglish-knowing bilingualism），对母语熟练度构成了严峻挑战。[[Argument_Chua_2011_CILP|(Pakir, 1991, 1999; Chua, 2011, pp. 125, 136–138)]]
+> 新加坡推行的[[Bilingual Education Policy|双语政策]]创造了一个全民广泛掌握英语的社会，但这一成功直接重塑了语言生态：英语逐渐渗透入私人家庭[[Champ|场域]]，与各类地方方言及母语深度接触交织，促使懂英语的双语社会演变为混杂着本土英语变体的懂新式英语的双语社会（E(Si)nglish-knowing bilingualism），对母语熟练度构成了严峻挑战。[[Argument_Chua_2011_CILP|(Pakir, 1991, 1999; Chua, 2011, pp. 125, 136–138)]]
 >
 > *Singapore’s bilingual policy has transformed the country into an English-knowing society... The interaction of English along with the three cultural/ethnic languages as well as other vernacular languages has contributed to forming [[Singlish]]... challenging the maintenance of the other pillar of the 'English + 1' bilingual policy.*
 
 > [!boundary]- 概念边界
 > - 不等于 [[Bilingual Education Policy|双语教育政策]] — 双语教育政策是宏观的法定公共教育制度范畴，而懂英语的双语主义聚焦于以英语为中枢枢纽的具体功能分工模式与社会语言格局。
 > - 不等于 自由选修双语模式（Liberal Bilingualism） — 懂英语的双语主义依赖高度自上而下的国家规制，严格限制个人对第二语言的选择（华人必修华语、马来人必修马来语、印度人必修泰米尔语），具有鲜明的族群规制特征。
-> - 不适用于 单一主体民族国家 — 在主体民族人口占绝大多数且语言高度统一的国家，外语学习多作为选修或涉外工具，缺乏由国家强力建构跨族群工作语的政治动力。
+> - 不适用于 单一主体民族国家 — 在主体民族人口占绝大多数且语言高度统一的国家，[[Foreign Languages|外语学习]]多作为选修或涉外工具，缺乏由国家强力建构跨族群工作语的政治动力。
 
 ---
 
@@ -76,7 +79,7 @@ updated: 2026-11-18
 > [!feature] 核心要素
 > - **工具理性与中立原则** 将前宗主国语言确立为中立公共语，化解了多族群社会因争夺国语地位引发的政治动荡，并使国民直接获取连接西方科技与国际贸易的资本通道。[[Argument_Chua_2011_CILP|(Chua, 2011, p. 126)]]
 > - **英语+1的双轨结构** 要求每位公民在掌握标准英语的同时，必须且只能修习所属族群的官方指定母语，建立起对外求经济发展、对内守文化根基的双重心理构架。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 125–127)]]
-> - **全系统沉浸制度支撑** 依靠学前教育、基础教育与高等教育的全面英语教学媒介语实施，并配套南洋理工大学国立教育学院（NIE）统筹师资，确保极高的语言准入与达标率。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 128, 134)]]
+> - **全系统沉浸制度支撑** 依靠学前教育、基础教育与高等教育的全面英语教学媒介语实施，并配套南洋理工大学国立教育学院（[[National Institute of Education|NIE]]）统筹师资，确保极高的语言准入与达标率。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 128, 134)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -132,7 +135,7 @@ updated: 2026-11-18
 > - **1966 — 政策奠基** 新加坡正式推行双语教育政策，规定全体学生必须修习英语及官方指定母语。
 > - **1979–1987 — 全英语媒介语统一** 逐步停办华语、马来语和泰米尔语媒介学校，确立标准英语在正规教育体系中的唯一通用媒介语地位。
 > - **1991 — 理论概念化** 语言学家安妮·帕基尔（Anne Pakir）正式提出“懂英语的双语主义”（English-Knowing Bilingualism），将其界定为小国生存与族群中立的语言政策模式。[[Argument_Chua_2011_CILP|(Chua, 2011, p. 125)]]
-> - **2011 — 懂新式英语的双语主义深化** 蔡秀琼（Siew Kheng Catherine Chua）将该构念拓展为懂新式英语的双语主义（E(Si)nglish-knowing bilingualism），揭示出英语全浸润引发的母语素养断裂与混合变体认同反弹。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 125–142)]]
+> - **2011 — 懂新式英语的双语主义深化** 蔡秀琼（Siew Kheng Catherine Chua）将该[[Construct|构念]]拓展为懂新式英语的双语主义（E(Si)nglish-knowing bilingualism），揭示出英语全浸润引发的母语素养断裂与混合变体认同反弹。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 125–142)]]
 
 ---
 
@@ -158,7 +161,7 @@ updated: 2026-11-18
 > | [[Bilingual Education Policy]] | 概念 | 双语教育政策构成了懂英语双语主义落地的法定公共教育制度框架。 |
 > | [[Pragmatic Paradigm]] | 概念 | 懂英语双语政策的哲学基础，以国家经济生存与外向引资为最高准则。 |
 > | [[Language Skills]] | 概念 | 双语政策通过全浸润教学法提升标准语言技能，亦重塑了国民的语言能力结构。 |
-> | [[STELLAR Program]] | 事实 | 新加坡小学推行全语言阅读以保障标准英语技能转化的核心课程改革。 |
+> | [[STELLAR Program]] | 事实 | 新加坡小学推行[[Whole Language\|全语言]]阅读以保障标准英语技能转化的核心课程改革。 |
 > | [[Lee Kuan Yew]] | 人物 | 新加坡建国总理，主导确立英语+1双轨架构与实用主义语言规划战略。 |
 > | [[Kaplan and Baldauf's Language-in-Education Planning Framework]] | 理论 | 用于解构新加坡懂英语双语政策八维系统协同与执行力度的理论框架。 |
 

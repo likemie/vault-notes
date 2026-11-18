@@ -8,7 +8,7 @@ aliases:
 summary: "政策转移研究中指代评估技术、实验设计、统计测量模型及研究规程跨越国界直接输入的理论概念，表明循证治理不仅促进政策实质内容的借用，而且驱动底层科学评估方法论与专业智库机构的跨国流动。"
 type: concept
 domain: "comparative-education"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Evidence-Based Policy-Making]]"
   - "[[Policy Borrowing]]"
   - "[[Paradigm]]"
+  - "[[Policy Learning]]"
   - "[[Hard Policy Transfer]]"
   - "[[Causality]]"
   - "[[Soft Policy Transfer]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-11-03
+updated: 2026-11-18
 ---
 
 ---
@@ -52,7 +53,7 @@ updated: 2026-11-03
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向研究方法论、实证评价技术标准与实验设计规程在国家之间的流动与制度化植入。
-> - **用途** 帮助研究者透视跨国政策学习从政策内容借鉴向底层科学规程移植的深化，揭示量化实证范式如何重塑跨国制度流动。
+> - **用途** 帮助研究者透视跨国[[Policy Learning|政策学习]]从政策内容借鉴向底层科学规程移植的深化，揭示量化实证范式如何重塑跨国制度流动。
 > - **边界** 区别于宽泛的[[Hard Policy Transfer|硬政策转移]]，专门聚焦于科学研究、项目评估与[[Causality|因果推断]]方法学规程本身的跨境转移。
 
 > [!citation-card] 评估方法论与政策内容并行的跨国输入

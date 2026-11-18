@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 17
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -28,9 +28,11 @@ tags:
 related_concepts:
   - "[[Knowledge Exchange]]"
   - "[[Grandes Ecoles]]"
+  - "[[Mimesis]]"
   - "[[School Inspection]]"
   - "[[Educational Decentralization]]"
   - "[[South-South Cooperation]]"
+  - "[[Policy Learning]]"
   - "[[Network Governance]]"
   - "[[Massive Open Online Courses]]"
   - "[[Virtual University]]"
@@ -52,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-11-18
 ---
 
 # Global Development Learning Network
@@ -76,7 +78,7 @@ updated: 2026-10-23
 ## 方案设计与运行机制
 
 > [!claim] 核心机制假说
-> 该项目确立了“视讯互联与网络化同行互鉴”的治理干预假说：通过将分散在世界各地的决策群体汇聚至实时的交互式视讯研讨现场，能够以较低的边际成本组织跨国政策辩论与高层培训，促使发展中国家在对话与示范模仿中接受[[World Bank|世界银行]]认可的技术规范与治理准则。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 8)]]
+> 该项目确立了“视讯互联与网络化同行互鉴”的治理干预假说：通过将分散在世界各地的决策群体汇聚至实时的交互式视讯研讨现场，能够以较低的边际成本组织跨国政策辩论与高层培训，促使发展中国家在对话与示范[[Mimesis|模仿]]中接受[[World Bank|世界银行]]认可的技术规范与治理准则。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 8)]]
 
 > [!policy-design] 方案设计
 > - **全球视讯中心分布式网络布局** 采取“世界银行提供技术标准与核心内容、在地机构提供场地与日常运维”的伙伴联盟机制，依托著名大学（如坦桑尼亚达累斯萨拉姆大学、清华大学、复旦大学等）设立 GDLN 远程研讨中心。
@@ -120,7 +122,7 @@ updated: 2026-10-23
 > [!indicators] 评估指标体系
 > - **网络覆盖与物理站点数** 全球运营的 GDLN 附属中心总数（120+ 所）、覆盖主权国家数（80+ 个）。
 > - **活动规模与受众辐射** 年均跨国研讨场次、年累计参训政策官员与学者人次。
-> - **跨国政策学习转化度** 借款国公职人员对外部实证指标的知晓度、南南互鉴案例在本土政策文本中的引用率。
+> - **跨国[[Policy Learning|政策学习]]转化度** 借款国公职人员对外部实证指标的知晓度、南南互鉴案例在本土政策文本中的引用率。
 
 > [!finding-cards] 核心实证结论
 > - **打破国际组织政策灌输的时空成本约束** 扎普（[[Argument_Zapp_2017_IJED|Zapp, 2017]]）指出，GDLN 为[[World Bank|世界银行]]提供了一种高度经济的政策扩散渠道，使华盛顿的技术权威能够以接近零边际成本的方式长程渗透进发展中国家官僚系统的日常学习中。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 8)]]

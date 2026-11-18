@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: singapore
 person_region: "singapore"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -39,6 +39,7 @@ related_persons:
 related_facts:
   - "[[Goh Report]]"
   - "[[Speak Mandarin Campaign]]"
+  - "[[Curriculum Development Institute of Singapore]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
   - "[[Argument_Deng_2016_CE]]"
@@ -67,7 +68,7 @@ updated: 2026-11-18
 > - **1918** 出生于海峡殖民地马六甲，后毕业于[[Thomas Stamford Raffles|莱佛士]]学院并在伦敦政治经济学院（London School of Economics, LSE）获得经济学博士学位。
 > - **1959** 当选议员并出任新加坡首任财政部长，主导裕廊[[Industrial District|工业区]]开发。
 > - **1970–1979** 历任国防部长与副总理，创建新加坡武装部队（Singapore Armed Forces, SAF）。
-> - **1979** 兼任教育部长，发布里程碑式的《[[Goh Report|吴庆瑞报告]]》，创立新教育体制（New Education System, NES），建立小学与初中三轨分流机制，并创设新加坡课程发展署（CDIS），将基础教育[[Academic Attrition|学生流失]]率从 20% 以上压缩至 1% 以下。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 453–455)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
+> - **1979** 兼任教育部长，发布里程碑式的《[[Goh Report|吴庆瑞报告]]》，创立新教育体制（New Education System, NES），建立小学与初中三轨分流机制，并创设[[Curriculum Development Institute of Singapore|新加坡课程发展署]]（CDIS），将基础教育[[Academic Attrition|学生流失]]率从 20% 以上压缩至 1% 以下。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 453–455)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
 > - **2010** 在新加坡逝世，享年 91 岁。
 
 ---

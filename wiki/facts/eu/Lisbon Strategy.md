@@ -11,7 +11,7 @@ subtype: event
 region: eu
 fact_region: "eu"
 fact_kind: "event"
-fact_related_count: 51
+fact_related_count: 52
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[European Education Space]]"
   - "[[Performance Indicators]]"
   - "[[Academic Attrition]]"
+  - "[[Policy Learning]]"
   - "[[State Educational Sovereignty]]"
   - "[[Mutual Learning]]"
   - "[[Paradigm]]"
@@ -83,7 +84,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-09
-updated: 2026-11-02
+updated: 2026-11-18
 ---
 
 ---
@@ -132,7 +133,7 @@ updated: 2026-11-02
 > | 维度 | 超国家软性治理阵营 | 成员国主权维稳阵营 |
 > |:---|:---|:---|
 > | 核心行动者 | [[EU\|欧盟委员会]]、[[OECD\|经合组织]]教育局 | 成员国教育部、[[Eurydice]] 传统专家 |
-> | 治理基础与正当性 | 循证政策学习、跨国可比数据、经济竞争力 | 辅助性原则、[[State Educational Sovereignty\|国家教育主权]]、文化多样性保障 |
+> | 治理基础与正当性 | 循证[[Policy Learning\|政策学习]]、跨国可比数据、经济竞争力 | 辅助性原则、[[State Educational Sovereignty\|国家教育主权]]、文化多样性保障 |
 > | 核心诉求 | 建立通用指标基准、量化监测、推动欧洲体系趋同 | 保障各国自主办学、拒绝排位机制、避免单一指标治教 |
 > | 运作策略 | 开放协调法、全额或大额资助跨国测评、同行审视 | 法律抗辩、选择性外在化利用指标、抵制强加统一教学大纲 |
 >
@@ -201,7 +202,7 @@ updated: 2026-11-02
 > | [[Competitiveness]] | Concept | 战略追求的核心经济目标，推动教育评价向技能与产出绩效对标转移。 |
 > | [[Performance Indicators]] | Concept | 里斯本战略实施软性跨国监控与同侪比较的核心技术工具。 |
 > | [[Governing by Numbers]] | Concept | 揭示里斯本战略如何借助量化指标与跨国排名实施[[Soft Power\|软性权力]]和制度引导的理论范式。 |
-> | [[Subsidiarity Principle]] | Concept | 欧盟条约中限制超国家教育立法权的宪制原则，倒逼里斯本战略走向软性数据治理。 |
+> | [[Subsidiarity Principle]] | Concept | 欧盟条约中限制超国家教育立法权的宪制原则，促使里斯本战略走向软性数据治理。 |
 > | [[Externalization]] | Concept | 成员国政府借助里斯本战略指标与跨国测评合法化国内争议性改革的策略机制。 |
 > | [[Policy Borrowing]] | Concept | 成员国在里斯本战略同行学习机制中开展跨国政策经验借鉴与移用的[[Theoretical Perspective\|理论视角]]。 |
 

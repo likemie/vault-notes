@@ -10,7 +10,7 @@ aliases:
 summary: "超越基础事实再认与机械程序算法的复杂心智加工能力，植根于布鲁姆认知目标分类学高阶层级并涵盖批判性思维、问题解决、元认知、协作与创造力"
 type: concept
 domain: "competency-and-assessment"
-related_count: 90
+related_count: 93
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -75,6 +75,8 @@ related_concepts:
   - "[[Cooperative Integrated Reading and Composition]]"
   - "[[Task Structure]]"
   - "[[Scoring Rubrics]]"
+  - "[[Hybrid Pedagogy]]"
+  - "[[Knowledge-Based Economy]]"
   - "[[AI Agent in Education]]"
   - "[[Inquiry-Based Learning]]"
 related_theories:
@@ -115,11 +117,12 @@ related_arguments:
   - "[[Argument_Zhao_2025_JIntell]]"
   - "[[Argument_WorldBank_2019_Teach]]"
   - "[[Argument_Liu_2026_CHBR]]"
-  - "[[Argument_Bouckaert_2023_OECD]]"
   - "[[Argument_Deng_2016_CE]]"
+  - "[[Argument_Gopinathan_2007_GSE]]"
+  - "[[Argument_Bouckaert_2023_OECD]]"
 status: active
 created: 2026-08-24
-updated: 2026-11-17
+updated: 2026-11-18
 ---
 
 ---
@@ -264,7 +267,7 @@ updated: 2026-11-17
 
 ---
 
-> [!contrast-table|notitle] 所有命题归纳
+> [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **社会建构赋能** | 异质性同伴互动与结构化协商是激发分析、评价、创造与批判性思维的核心机制。 | 课堂教学设计、探究式学习与[[21st Century Skills and Competencies Discourse\|核心素养]]改革 | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]]; Siagian et al. (2023); Solissa et al. (2023) |
@@ -394,7 +397,8 @@ updated: 2026-11-17
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 考察新加坡高表现教育系统中高阶思维改革的制度悖论，揭示“思考型学校”政策下批判与创造性思维倡导与国家高利害考试制度之间的张力，及其催生的混合教学形态。
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 考察新加坡高表现教育系统中高阶思维改革的制度悖论，揭示“思考型学校”政策下批判与创造性思维倡导与国家高利害考试制度之间的张力，及其催生的[[Hybrid Pedagogy|混合教学形态]]。
+> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 阐明新加坡在[[Knowledge-Based Economy|知识经济]]转型中由效率驱动转向能力驱动的政策动因，分析国家如何通过削减课程内容与推行“思考型学校”倡议为培育高阶思维拓展空间，并揭示其与传统应试惯性之间的体制博弈（pp. 58–61）。
 > - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — [[Meta-analysis|元分析]] 29 项实验证实生成式 AI 促进高阶思维总体效应（$g = 0.609$），解构出[[Problem Solving|问题解决]] $>$ 批判思维 $>$ [[Creativity|创造力]]的效应梯度与[[Self-Regulated Learning|自主调节学习]]的显著调节。
 > - [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] — [[Meta-analysis\|元分析]] 57 项[[Experimental Research\|实验研究]]中生成式 AI 对大学生高阶思维（HOT）的促进效应（$g^+ = 0.580$），严格控制[[Baseline Standardized Mean Difference\|基线等效性]]（$d < 0.25$），揭示了生成式技术对高校批判反思与发散创造的中等显著赋能。
 > - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 运用[[Random-Effects Model|随机效应]][[Meta-analysis\|元分析]]综合 66 项实验与准[[Experimental Research\|实验研究]]（72 个[[Effect Size\|效应量]]，$N = 4{,}824$），系统检验[[Graphic Organizer\|图形组织器]]对高阶思维的促进效应（$g = 0.778$），揭示了思维倾向与认知过程收益显著高于技能结果、[[Divergent Thinking\|发散思维]]收益显著高于[[Convergent Thinking\|聚合思维]]的层级调节特征。

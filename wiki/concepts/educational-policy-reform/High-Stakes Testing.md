@@ -9,10 +9,10 @@ aliases:
 summary: "测验结果对受试者、教师或学校产生重大后果的评估情境，风险程度与不伦理行为发生率正相关，表现为从回冲效应到直接泄题的准备方式连续体；在读写教育中诱发套路化公式写作并驱逐主观阐释，与生成式人工智能合谋加剧成长性认识不正义。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 34
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - theme/assessment
   - theme/ethics
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Alienation]]"
   - "[[Evaluation Research]]"
   - "[[Formative Assessment]]"
-  - "[[Paradigm]]"
   - "[[Placement, Formative, Diagnostic, and Summative Testing]]"
   - "[[Authentic Assessment]]"
   - "[[Reflexivity]]"
@@ -34,6 +33,8 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Areas of Knowledge]]"
   - "[[Performance Indicators]]"
+  - "[[Teaching for Understanding]]"
+  - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Computerization of Education]]"
   - "[[Cognitive Offloading]]"
@@ -42,16 +43,21 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
 related_theories:
   - "[[Formative Epistemic Injustice]]"
+  - "[[Path Dependence]]"
   - "[[Epistemic Injustice]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]]"
   - "[[Argument_Smith_2026_SPE]]"
   - "[[Argument_Yang_2023_ICE]]"
+  - "[[Argument_Hogan_2013_ROE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Barrenechea_2023_JEC]]"
   - "[[Argument_Deng_2016_CE]]"
 related_methods:
   - "[[Knowledge Extent]]"
+related_facts:
+  - "[[Teach Less, Learn More]]"
+  - "[[Primary School Leaving Examination]]"
 confidence: high
 status: active
 created: 2026-07-25
@@ -119,7 +125,7 @@ updated: 2026-11-18
 > 为防止学校整体[[Performance Indicators|绩效指标]]下滑，管理者在公开问责压力下往往产生故意劝阻、隐瞒或禁止学业低表现学生、残障学生及边缘群体参与正式测验的制度性冲动。这证明高利害环境的根本问题在于其激励结构系统性惩罚真实教学，诱发以分数粉饰为导向的制度性排斥。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24|(Ch24, 24.8 节)]]
 
 > [!claim] [[Argument_Hogan_2013_ROE|Hogan et al. (2013)]]
-> **制度性权威与微观教学规程锁定效应** 新加坡中学实证表明，全国高利害统一考试（小六会考与剑桥 O 水准考试）对课堂教学施加绝对的制度性权威；教师即使认同少教多学与理解性教学改革愿景，在应试升学与家长期待约束下，依然被迫将教学牢固锚定在大纲内容全覆盖、教材刷题和重复演练上，导致探究性研讨与个性化反馈被系统性边缘化，阻碍了教学范式向以学习者为中心的实质性转型。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 58–60, 98–101)]]
+> **制度性权威与微观教学规程[[Path Dependence|锁定效应]]** 新加坡中学实证表明，全国高利害统一考试（小六会考与剑桥 O 水准考试）对课堂教学施加绝对的制度性权威；教师即使认同[[Teach Less, Learn More|少教多学]]与[[Teaching for Understanding|理解性教学]]改革愿景，在应试升学与家长期待约束下，依然被迫将教学牢固锚定在大纲内容全覆盖、教材刷题和重复演练上，导致探究性研讨与个性化反馈被系统性边缘化，阻碍了教学[[Paradigm|范式]]向以学习者为中心的实质性转型。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 58–60, 98–101)]]
 
 ---
 
@@ -188,4 +194,4 @@ updated: 2026-11-18
 > - [[Argument_Yang_2023_ICE|杨明全和邓丽 (2023)]] — 结合芬兰考试少成绩好的微观悖论，探讨以形成性反馈和师生信任为主导的支持性评价文化对高利害测验外部问责与纪律管制的超越（pp. 6, 8）。
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 对系统改进实证文献开展质性综合，指出新公共管理将高利害测验作为核心问责工具，易催生应试导向与校际分化，背离全人发展目标。
 > - [[Argument_Hogan_2013_ROE|Hogan et al. (2013)]] — 实证揭示新加坡全国统一高利害考试对中学课堂施加的制度性权威，证明其将教学实践规锁于大纲覆盖与机械操练。
-> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 系统阐明以小六会考（PSLE）与剑桥 O/A 水准为代表的高利害考试体系如何作为终极制度锚点，强力规训微观课堂教学并驱动庞大的校外补习产业，解释了新加坡在国际测验中持续名列前茅的制度动力。
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 系统阐明以小六会考（[[Primary School Leaving Examination|PSLE]]）与剑桥 O/A 水准为代表的高利害考试体系如何作为终极制度锚点，强力规训微观课堂教学并驱动庞大的校外补习产业，解释了新加坡在国际测验中持续名列前茅的制度动力。

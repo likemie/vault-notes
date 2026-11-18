@@ -10,9 +10,9 @@ subtype: organization
 region: singapore
 fact_region: "singapore"
 fact_kind: "organization"
-fact_related_count: 11
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 9
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
 tags:
   - fact/organization
@@ -20,21 +20,19 @@ tags:
   - theme/curriculum-policy
   - theme/instructional-materials
 related_concepts:
-  - "[[Curriculum Alignment]]"
-  - "[[High-Stakes Testing]]"
-  - "[[Pedagogy]]"
+  - "[[Alienation]]"
+  - "[[Scaffolding]]"
   - "[[Direct Instruction]]"
-related_theories:
-  - "[[Developmental State]]"
-related_methods: []
+related_theories: []
+related_methods:
+  - "[[Critical Policy Analysis]]"
+  - "[[Audiovisual, Social Media, and Digital Materials]]"
 related_instruments: []
 related_persons:
   - "[[Goh Keng Swee]]"
 related_facts:
-  - "[[National Institute of Education]]"
   - "[[Goh Report]]"
-  - "[[Primary School Leaving Examination]]"
-  - "[[Teach Less, Learn More]]"
+  - "[[National Institute of Education]]"
 related_arguments:
   - "[[Argument_Deng_2016_CE]]"
 confidence: high
@@ -61,14 +59,14 @@ updated: 2026-11-18
 >
 >   集中调配教育部课程专家与一线资深教师，打破学科割裂，快速攻克英语、数学、母语及科学各主干学科成套标准化教材开发。
 >
->   - **1980** 正式挂牌成立，由吴庆瑞委派高级政务官直接领导教材编写组。
->   - **1982** 首批配套小学能力分流体系（特别、快捷、普通轨）的差异化数学与英语教材全面进入公立小学课堂。
+>   - **1980** 正式挂牌成立，由[[Goh Keng Swee|吴庆瑞]]委派高级政务官直接领导教材编写组。
+>   - **1982** 首批配套小学能力分流体系（特别、快捷、普通轨）的差[[Alienation|异化]]数学与英语教材全面进入公立小学课堂。
 >
 > - **1986–1995** **体系成熟与高绩效课堂规范巩固期**
 >
->   教材与教学配套延伸至初中全部阶段，教材不仅行销全岛，其小学数学教材更以注重概念理解与具象表征（CPA 方法）享誉国际。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 454)]]
+>   教材与教学配套延伸至初中全部阶段，教材不仅行销全岛，其小学数学教材更以注重概念理解与具象表征（[[Critical Policy Analysis|CPA]] 方法）享誉国际。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 454)]]
 >
->   - **1992** 配合新修订初中科学与人文学科大纲，完成第二代整合型互动习题册与视听材料研发。
+>   - **1992** 配合新修订初中科学与人文学科大纲，完成第二代整合型互动习题册与[[Audiovisual, Social Media, and Digital Materials|视听材料]]研发。
 >
 > - **1996–至今** **职能重组与市场化开放期**
 >
@@ -81,13 +79,13 @@ updated: 2026-11-18
 > [!actor-grid] 组织协同与课程治理机制
 > - **教育部课程司** 制定全国各学科的统一大纲目标与考查要求。
 > - **课程发展署（CDIS）** 将大纲细化分解为逐课教案、详尽的教师教学步骤指南（脚本化指导）、配套例题与针对性课后练习题。
-> - **[[National Institute of Education|国立教育学院]]（NIE）** 在职前职后师训中以 CDIS 教材教法作为核心训练范本，确保新任教师无缝对接课堂物化工具。
+> - **国立教育学院（[[National Institute of Education|NIE]]）** 在职前职后师训中以 CDIS 教材教法作为核心训练范本，确保新任教师无缝对接课堂物化工具。
 > - **剑桥考试委员会与统考机构** 严格依据统编教材与大纲命制考题，促成教、学、考一体化的高效对齐。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 453–455)]]
 
 ---
 
 > [!debates] 制度贡献与实践争议
-> 邓宗怡与高平纳坦论证指出，CDIS 是理解新加坡从早期落后系统转变为全球高绩效系统的“缺失制度环节”：它通过提供高质量、结构化、包含详尽教学法指引的成套教材教参，实质性解决了发展中国家普遍面临的师资水平参差不齐与教学资源匮乏难题，为全系统教师提供了可靠的教学质量脚手架。然而，这种高度脚本化与标准化的大纲材料组合，也从制度深处规训了一线教师对教材的高度依赖，使得注重统一标准答案复现的直接教学模式成为微观课堂的稳定常态。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 454–455)]]
+> 邓宗怡与高平纳坦论证指出，CDIS 是理解新加坡从早期落后系统转变为全球高绩效系统的“缺失制度环节”：它通过提供高质量、结构化、包含详尽教学法指引的成套教材教参，实质性解决了发展中国家普遍面临的师资水平参差不齐与教学资源匮乏难题，为全系统教师提供了可靠的教学质量[[Scaffolding|脚手架]]。然而，这种高度脚本化与标准化的大纲材料组合，也从制度深处规训了一线教师对教材的高度依赖，使得注重统一标准答案复现的[[Direct Instruction|直接教学]]模式成为微观课堂的稳定常态。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 454–455)]]
 
 ---
 

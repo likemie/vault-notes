@@ -10,7 +10,7 @@ aliases:
 summary: "起源于循证医学并在公共行政与教育治理中广泛扩散的决策范式与认识论要求，强调以严格实证科学证据（尤其是量化实验评估、随机分配规程与系统评价）作为检验何者有效、制定干预方案与配置公共财政资源的核心依据，并在跨国政策流动中重构了行动者的搜寻机会结构与评估技术硬转移。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 56
+related_count: 57
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Counterfactual]]"
   - "[[Output-Oriented Governance]]"
+  - "[[Policy Learning]]"
   - "[[Hard Policy Transfer]]"
   - "[[Policy Borrowing]]"
   - "[[Policy Mobility]]"
@@ -85,7 +86,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-11-11
+updated: 2026-11-18
 ---
 
 ---
@@ -131,7 +132,7 @@ updated: 2026-11-11
 > - **标准化行政规程规训（Institutionalised Guideline Disciplining）** 通过中央政府颁布标准化政策检验手册（如英国《[[The Green Book|绿皮书]]》《紫红皮书》），将先行评估与因果审计确立为刚性行政审批标准。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 335)]]
 > - **前置试点与实验性试验（Pilot Schemes and Experimental Trials）** 强制要求重大社会改革在全面铺开之前，必须在特定地理区域设立原型试点与对照测试，以提前识别执行风险。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 335, 343)]]
 
-> [!logic-map]- [[Output-Oriented Governance|循证治理]]驱动跨国政策学习与技术[[Hard Policy Transfer|硬转移]]机制
+> [!logic-map]- [[Output-Oriented Governance|循证治理]]驱动跨国[[Policy Learning|政策学习]]与技术[[Hard Policy Transfer|硬转移]]机制
 > ```mermaid
 > flowchart TD
 >     A["中央确立何者有效循证刚性指令"] --> B["科层机构面临快速提供成熟证据压力"]

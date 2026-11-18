@@ -9,10 +9,10 @@ aliases:
 summary: "沙维尔·庞斯在追踪欧洲各国对 PISA 测评的政策吸纳过程中提出的知识分类学构念。区分了两类截然不同的知识形态：学习性知识（为深入理解测评数据库、挖掘学生认知规律而展开的专门认知操作结果，如复杂多层回归与参数表）与政策性知识（一套基于证据外表但高度简化、用于为既定公共政策提供诊断与正当性辩护的修辞话语）。实证表明两类知识在公共辩论中存在严重的结构性脱节，政治精英仅剪裁吸纳政策性知识作为执政弹药，导致跨国测评难以自发催生理性的跨国政策学习与政策趋同。"
 type: concept
 domain: "comparative-education"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - concept/comparative-education
   - subject/sociology-of-education
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Habitus]]"
   - "[[Construct]]"
   - "[[Policy Network]]"
+  - "[[Policy Learning]]"
   - "[[Technical Rationality]]"
   - "[[Policy Translation]]"
   - "[[Discourse]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-27
-updated: 2026-11-11
+updated: 2026-11-18
 ---
 
 ---
@@ -70,7 +71,7 @@ updated: 2026-11-11
 
 > [!concept-lens] 概念透镜
 > - **含义** 剖析跨国实证评估数据在从国际技术中心下沉至民族国家[[Policy Network|政策网络]]的过程中，如何被剪裁、简化并重组为截然不同的知识形态。
-> - **用途** 帮助研究者破除“数据越客观、政策学习越充分”的[[Technical Rationality|技术理性]]迷信，精准识别政治精英如何策略性利用量化指标的科学外衣推销既定意识形态议程。
+> - **用途** 帮助研究者破除“数据越客观、[[Policy Learning|政策学习]]越充分”的[[Technical Rationality|技术理性]]迷信，精准识别政治精英如何策略性利用量化指标的科学外衣推销既定意识形态议程。
 > - **边界** 该构念聚焦于知识在政策网络中的流转与功能转化，不用于评价测量学统计模型本身在心理计量学层面的数学优劣。
 
 > [!citation-card] [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] 论两类知识形态与[[Policy Translation|政策转译]]的脱节

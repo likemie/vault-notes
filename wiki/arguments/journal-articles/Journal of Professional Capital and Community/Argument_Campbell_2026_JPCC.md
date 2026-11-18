@@ -45,6 +45,7 @@ related_concepts:
   - "[[Epistemic Inequality]]"
   - "[[Knowledge Mediation]]"
   - "[[Gatekeepers]]"
+  - "[[Policy Learning]]"
   - "[[Consultocracy]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Document]]"
@@ -95,14 +96,14 @@ sources:
 part_of:
 status: completed
 created: 2026-10-23
-updated: 2026-11-15
+updated: 2026-11-18
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Campbell_2026_JPCC"
 argument_key: "Argument_Campbell_2026_JPCC"
 argument_display_title: "Research and evidence use in education policy: supranational discourses, systemic conditions and implications for decision-making communities"
 argument_kind: "journal-article"
-argument_related_count: 58
+argument_related_count: 59
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -147,7 +148,7 @@ issuing_organization: ""
 > |---|---|---|
 > | **[[Evidence Culture\|证据观念]]**<br>Conceptions of Evidence | • 多元认识论（科学、经验与本土知识）<br>• 情境与政治影响<br>• 证据层级与战略框定 | 审视政策文本对“何为有效证据”的边界界定，识别因果实验与实践经验的权力层级，解构证据作为中立技术输入或政治合法化资源的战略修辞。 |
 > | **行动者与网络**<br>Actors and Networks | • [[Epistemic Community\|认识共同体]]与[[Knowledge Mediation\|知识中介]]<br>• 作为守门人的超国家组织<br>• 权力、代表性与话语权 | 分析跨国专家网络如何通过特定话语建立共识，揭示国际组织作为知识[[Gatekeepers\|守门人]]对证据流通的垄断，剖析地方实践者在议程设置中的代表性缺失。 |
-> | **[[Research Utilization\|使用过程]]**<br>Processes of Use | • 非线性演进阶段（从传递到应用）<br>• 工具性、象征性与概念性使用<br>• 知识共同生产与政策学习 | 突破线性传递假设，系统区分解决具体问题的工具性采纳、后置合理化的象征性辩护与重塑认知地图的概念性启发，关注协同政策学习。 |
+> | **[[Research Utilization\|使用过程]]**<br>Processes of Use | • 非线性演进阶段（从传递到应用）<br>• 工具性、象征性与概念性使用<br>• 知识共同生产与政策学习 | 突破线性传递假设，系统区分解决具体问题的工具性采纳、后置合理化的象征性辩护与重塑认知地图的概念性启发，关注协同[[Policy Learning\|政策学习]]。 |
 > | **整合机制**<br>Mechanisms of Integration | • 工具载体（仪表板、政策简报、指标）<br>• 知识传播与中介平台<br>• 反馈回路与战略框定 | 考察数据仪表板、政策摘要与中介智库等技术载体对证据的浓缩封装与转译机制，分析科研与决策间断裂或维系的反馈回路。 |
 > | **系统性条件**<br>Systemic Conditions | • 治理传统与制度能力<br>• 激励机制与结构性障碍<br>• [[Epistemic Inequality\|认识论不平等]]与获取限制 | 揭示国家治理体制（集权与分权）、公职人员分析素养、党派[[Consultocracy\|咨询政治]]周期以及全球顶层供给与本土需求脱节等深层宏观结构约束。 |
 >

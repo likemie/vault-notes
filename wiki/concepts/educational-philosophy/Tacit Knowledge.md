@@ -9,7 +9,7 @@ aliases:
 summary: "由迈克尔·波兰尼（Michael Polanyi）提出、福雷与伦德瓦尔（Foray & Lundvall）引入知识经济学的认识论概念。指植根于个体实践行动、经验感知与身体机能之中，难以用形式化语言、符号或数字完全编码和传授的个人知识；在数字时代与编码知识形成互补，成为决定持续学习力与创新能力的核心资本。"
 type: concept
 domain: "educational-philosophy"
-related_count: 54
+related_count: 56
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Procedural Knowledge]]"
   - "[[Rote Learning]]"
   - "[[Learning Economy]]"
+  - "[[Mimesis]]"
   - "[[Apprenticeship]]"
   - "[[Reflexivity]]"
   - "[[Epistemic Governance]]"
@@ -35,6 +36,7 @@ related_concepts:
   - "[[Knowledge Power]]"
   - "[[Transnational Education]]"
   - "[[Knowledge Diplomacy]]"
+  - "[[Policy Learning]]"
   - "[[Intellectual Capital]]"
   - "[[Lifelong Learning]]"
   - "[[Positivism]]"
@@ -84,7 +86,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-11-11
+updated: 2026-11-18
 ---
 
 ---
@@ -104,7 +106,7 @@ updated: 2026-11-11
 
 > [!boundary]- 概念边界
 > - 不等于编码知识（Codified Knowledge） — 编码知识是以文字、数字、图表或代码形式客观记录的公共信息，能够以极低边际成本进行远程复制和传输；默会知识则依附于活生生的实践主体。
-> - 不等于纯粹神秘直觉 — 默会知识具备严密的实践逻辑与神经认知基础，能够通过长期试错、观察模仿以及[[Apprenticeship|师徒制]]度在特定情境中被有效习得，具有现实可认识性。
+> - 不等于纯粹神秘直觉 — 默会知识具备严密的实践逻辑与神经认知基础，能够通过长期试错、观察[[Mimesis|模仿]]以及[[Apprenticeship|师徒制]]度在特定情境中被有效习得，具有现实可认识性。
 > - 不等于程序性知识的机械执行 — 自动化条件反射不具备[[Reflexivity|反思性]]，而高阶默会知识包含根据不确定情境灵活调动策略的“反思性实践”。
 
 ---
@@ -124,7 +126,7 @@ updated: 2026-11-11
 > - **不可完全编码性（Inarticulability）** 个体在进行精熟判断与操作时所调动的多维线索超越了语言符号的承载能力，无法被穷尽表述为公理规则。
 > - **实践导向性（Action-Orientation）** 核心指向“如何做”（know-how）与“与谁协作”（know-who），而非孤立的客观事实储备（know-what）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 > - **动态转化潜能（SECI 转化动力）** 尽管难以完全编码，默会知识仍可通过观察模仿（社会化）和实践反思（外显化）与编码知识形成动态互生循环。
-> - **全球[[Epistemic Governance|知识治理]]与[[Geopolitics|地缘政治]]动员中的隐性知识（Tacit Knowledge in Global Governance & [[Knowledge Power]]）** 在[[Transnational Education|跨国高等教育]]与[[Knowledge Diplomacy|知识外交]]中，隐性知识体现为制度性惯例、非正式网络规范与文化交往直觉，难以被直接文本化或条约化，却深刻制约着跨国科研协作与政策学习成效。国家与多边机构通过构建“知识网络”，不仅流通显性学术成果，更动员隐性[[Intellectual Capital|知识资本]]以确立治理议程的结构性主导权。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1697)]]
+> - **全球[[Epistemic Governance|知识治理]]与[[Geopolitics|地缘政治]]动员中的隐性知识（Tacit Knowledge in Global Governance & [[Knowledge Power]]）** 在[[Transnational Education|跨国高等教育]]与[[Knowledge Diplomacy|知识外交]]中，隐性知识体现为制度性惯例、非正式网络规范与文化交往直觉，难以被直接文本化或条约化，却深刻制约着跨国科研协作与[[Policy Learning|政策学习]]成效。国家与多边机构通过构建“知识网络”，不仅流通显性学术成果，更动员隐性[[Intellectual Capital|知识资本]]以确立治理议程的结构性主导权。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1697)]]
 
 ---
 

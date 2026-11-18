@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-11-11
+updated: 2026-11-18
 ---
 
 ---
@@ -70,12 +70,12 @@ updated: 2026-11-11
 > - **用途** 确立理论建构的核心概念实体，并指导[[Scale of Measurement|测量量表]]、测试题目与观测指标的编制与效度验证。
 > - **边界** 构念独立于具体测量工具与经验数值；在[[Meta-analysis|元分析]]中，构念必须具备严密的 [[PICO Framework|PICO]] 边界，缺乏构念一致性的粗糙合并会导致因果解释力彻底瓦解。
 
-> [!citation-card|notitle] 关键表述：构念在理论与变量间的桥接角色
+> [!citation-card|notitle] 构念在理论与变量间的桥接角色
 > 构念是用于变量的更抽象、更一般意义的术语。它位于理论空间，代表研究者假设存在但无法直接触及的实体；而变量存在于测量空间，是研究者通过工具获得的数值表达。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 130)]]
 >
 > *Constructs is a term used for a more [[Abstract|abstract]], general meaning of a variable.*
 
-> [!citation-card|notitle] 关键表述：宏观[[Research Synthesis|证据综合]]中的构念一致性门禁
+> [!citation-card|notitle] 宏观[[Research Synthesis|证据综合]]中的构念一致性门禁
 > 缺乏严格 PICO 门禁的宏观综合会导致构念严重错配并破坏证据的因果解释力。在二阶综合中，将名不副实的干预、非学业结局测试或异质对照混为一谈，会使合并[[Effect Size|效应量]]丧失明确的理论所指与政策指导价值。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 14–16)]]
 >
 > *Without rigorous PICO criteria, secondary synthesis suffers severe construct misalignment, eroding the causal interpretability of effect sizes and invalidating policy guidance.*

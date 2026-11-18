@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 30
+fact_related_count: 31
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Grandes Ecoles]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Transnational Education]]"
+  - "[[Policy Learning]]"
   - "[[New Public Management]]"
   - "[[Entrepreneurial University]]"
   - "[[Global Universities Rankings]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-11-15
+updated: 2026-11-18
 ---
 
 ---
@@ -87,7 +88,7 @@ updated: 2026-11-15
 > - **项目目标** 提升大学高级管理者的战略规划能力；建立高等教育机构治理与绩效评价的跨国参照框架；促进大学内部学术自治与外部公共利益的平衡协调。
 > - **机构战略同行评估（Institutional Reviews）** 组织跨国[[Grandes Ecoles|大学校]]长与高教专家组，应邀进驻申请评估的成员国高校，针对其治理架构、科研商业化路径及[[Transnational Education|跨国教育]]项目展开实地诊断并出具权威政策咨询报告。
 > - **跨国专题调研与基准对标** 围绕高校财政多元化、学术职业生涯变革、大学国际化战略、校本学习成果测评（如后续孵化的 [[OECD AHELO Project|AHELO]] 项目）等关键主题开展周期性比较调查。
-> - **高等教育管理国际学术旗舰会议** 隔年举办大规模全球高等教育总理事会（IMHE General Conference），出版专业会刊《高等教育管理与政策》（*Higher Education Management and Policy*），构建跨国政策学习网络。
+> - **高等教育管理国际学术旗舰会议** 隔年举办大规模全球高等教育总理事会（IMHE General Conference），出版专业会刊《高等教育管理与政策》（*Higher Education Management and Policy*），构建跨国[[Policy Learning|政策学习]]网络。
 
 > [!citation-card] [[OECD|经合组织]]战后四大教育支柱的制度分工
 > 在整个 20 世纪 70 和 80 年代，经合组织的教育活动主要围绕四大业务板块展开，其中两项来自教育委员会和[[Centre for Educational Research and Innovation|教育研究与创新中心]]（CERI）理事会，另外两项则是更为专业化的[[Programme on Educational Building|教育建筑计划]]（PEB）以及高等教育机构管理计划（IMHE）。在这一架构下，经合组织充分尊重各成员国的多元立场与制度特色，维持了弹性协商机制。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 439)]]

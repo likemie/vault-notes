@@ -30,10 +30,12 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Hard Policy Transfer]]"
   - "[[Chain of Evidence]]"
+  - "[[Policy Learning]]"
   - "[[Policy Borrowing]]"
   - "[[Scientific Method]]"
   - "[[Demonstration Effect]]"
   - "[[New Public Management]]"
+  - "[[Typicality]]"
   - "[[Heterogeneity]]"
 related_theories:
   - "[[Policy Transfer Framework]]"
@@ -66,14 +68,14 @@ sources:
 part_of:
 status: draft
 created: 2026-10-19
-updated: 2026-10-29
+updated: 2026-11-18
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Legrand_2012_PolStud"
 argument_key: "Argument_Legrand_2012_PolStud"
 argument_display_title: "Overseas and over here: policy transfer and evidence-based policy-making"
 argument_kind: "journal-article"
-argument_related_count: 36
+argument_related_count: 38
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -147,7 +149,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim|step] 论证步骤一　新工党何者有效循证范式重塑了跨国政策学习的制度环境
+> [!claim|step] 论证步骤一　新工党何者有效循证范式重塑了跨国[[Policy Learning|政策学习]]的制度环境
 > 传统政策转移研究偏重意识形态契合或外部强制，忽视了自主借用背后的实际动因；英国新工党确立的[[Evidence-Based Policy-Making|循证决策]]规范，促使行政体系优先搜寻具备严密评估记录的海外方案。
 
 > [!sub-claim] 1. 既有政策转移框架缺乏因果驱动机制与客体技术维度的审视
@@ -255,7 +257,7 @@ issuing_organization: ""
 这一演进逻辑证明，国家治理[[Paradigm|范式]]的[[Epistemology|认识论]]转型构成了深层的因果纽带。
 
 > [!chain-link] 循证驱动型政策转移的深层因果链条
-> - **前提：新工党确立何者有效循证治理刚性约束**
+> - **前提：新工党确立何者有效循证治理的法定规制**
 >   中央政策规程强制要求重大改革必须具备扎实的量化评估证据方可立项与拨款。
 > - **机制：面对紧迫执政日程产生定向实证数据依赖**
 >   政策官员为快速回应内阁大臣并证明方案可行性，主动搜寻具备数十次随机实验记录的美国模式。
@@ -309,7 +311,7 @@ issuing_organization: ""
 
 > [!warning] 自述局限
 > - **访谈样本的时间与层级局限** [[Elite Interview|精英访谈]]集中在 1999 年 7 月至 8 月新政方案成型期的 6 位高层政策制定者与智库专家，虽深度揭示了内阁与中央部委的战略考量，但未能涵盖后续长期政策执行阶段地方就业服务中心（Jobcentre）一线经办官僚的微观实践。
-> - **政策领域实验传统的特殊性** [[Welfare-to-Work|福利到工作]]领域在美国具备自 1970 年代中叶以来长达 20 余年的[[Randomised Controlled Trials|随机对照实验]]传统与海量数据积累，这种由成熟评估数据驱动跨国转移的机制，在缺乏大规模量化实验传统的政策领域（如外交决策、宪政改革或国家安全危机应对）可能不具有同等解释力。
+> - **政策领域实验传统的[[Typicality|特殊性]]** [[Welfare-to-Work|福利到工作]]领域在美国具备自 1970 年代中叶以来长达 20 余年的[[Randomised Controlled Trials|随机对照实验]]传统与海量数据积累，这种由成熟评估数据驱动跨国转移的机制，在缺乏大规模量化实验传统的政策领域（如外交决策、宪政改革或国家安全危机应对）可能不具有同等解释力。
 > - **理性搜寻与事后合理化修辞的边界** 难以在经验上完全剥离战略行动者究竟是纯粹基于客观实证证据做出理性决策，还是主动将美国令人瞩目的降幅数据作为向内阁大臣与公众辩护既定政治议程的事后合法化修辞工具。
 > - **制度土壤差异对移植成效的制约** 英美两国的劳动力市场规制、医疗保障及社会安全网底线存在结构性[[Heterogeneity|异质性]]，成套引进的[[Random Assignment|随机分配]]实验技术能否在不同福利体制中产生同等有效的政策改良，仍受制于本土制度情境。
 

@@ -6,7 +6,7 @@ aliases:
 summary: "跨越单一国家教育体系、服务跨国流动家庭或本地国际课程需求的学校类型，其历史从侨民国家通道逐步发展出共同课程、跨国资格协调与市场化运营。"
 type: concept
 domain: "comparative-education"
-related_count: 32
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -25,9 +25,11 @@ related_concepts:
   - "[[Document]]"
   - "[[Advanced Placement Program]]"
   - "[[Fourth Culture]]"
+  - "[[Bilingual Education Policy]]"
   - "[[Teacher Collaboration]]"
   - "[[Avatar]]"
-related_theories: []
+related_theories:
+  - "[[Developmental State]]"
 related_methods: []
 related_persons:
   - "[[Alec Peterson]]"
@@ -41,6 +43,7 @@ related_facts:
   - "[[Science Technology and Social Change Curriculum Pilot]]"
   - "[[GEMS Education]]"
   - "[[Nord Anglia Education]]"
+  - "[[National Education]]"
   - "[[English Schools Foundation Hong Kong]]"
   - "[[UNESCO]]"
   - "[[Transformation of Singapore International School into United World College of South East Asia]]"
@@ -51,10 +54,11 @@ related_arguments:
   - "[[Argument_Slethaug_2010_InternationalEducation]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch08]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
+  - "[[Argument_Gopinathan_2007_GSE]]"
 confidence: high
 status: draft
 created: '2026-05-17'
-updated: 2026-11-11
+updated: 2026-11-18
 ---
 
 ---
@@ -158,6 +162,7 @@ updated: 2026-11-11
 > - **1964–2005 年　学校数量与学生规模迅速增长** 1964 年全球约有 50 所国际学校；1994 年约 1,000 所，拥有约 5 万名教师和 50 万名学生；2005 年约 3,000 所、200 万名学生。2008 年香港有 58 所，中国大陆有 64 所，印度有 76 所。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 22–23)]]
 > - **殖民体系瓦解后　生源从创始国侨民转向本地与多国家庭** 创始国学生比例从 1960 年约 70% 降至 2005 年约 30%。布鲁塞尔国际学校的美国学生比例在十年间从 70% 降至 29%，雇主支付学费的比例也从 98% 降至 89%。本地富裕家庭日益把国际学校视为进入澳大利亚、加拿大、英国和美国大学的升学通道。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 23–25)]]
 > - **2000 年代中叶至今　跨国教育管理财团与全球精英连锁网络** 国际学校发展超越单一院校自发设立，大型跨国教育集团（如 [[GEMS Education|GEMS]]、[[Nord Anglia Education|Nord Anglia]]）以跨国连锁模式在亚欧非多国运营数十所高端国际学校；国际学校兼具商业营利机构、全球精英培育温床与政府政策咨询中介三重属性，标志着全球教育空间向多标量、商业化网络的深刻转变。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 343–344)]]
+> - **2000 年代 — 东亚强[[Developmental State|发展型国家]]的特许规制型国际学校** 戈皮纳坦（[[Argument_Gopinathan_2007_GSE|Gopinathan, 2007, pp. 67–68]]）指出，新加坡为吸纳海外归国人才并拓展高中多元化选择，特许英华国际学校与华中国际学校等本土名校创设私立国际部，但政府实施了强力规制：强制要求公民生源占比不低于 50%，并严格执行双语教育与[[National Education|国民教育]]大纲，开创了区别于自由放任跨国连锁的国家调控型国际学校治理模式。
 
 ---
 
@@ -225,6 +230,8 @@ updated: 2026-11-11
 > | [[Waterford Kamhlaba Admission to United World Colleges]] | 事件 | 多种族全龄学校以反种族隔离使命、社区服务和课程转换进入跨国书院网络。 |
 > | [[Fourth Culture]] | 概念 | 本地学生在本国就读国际学校形成的特殊文化空间。 |
 > | [[International Baccalaureate]] | 概念 | 国际学校广泛采用的跨国课程与升学资格。 |
+> | [[Developmental State]] | 概念 | 区别于西方市场化放任，通过配额管制与国家课程准入规制国际学校的宏观国家体制。[[Argument_Gopinathan_2007_GSE\|(Gopinathan, 2007, pp. 67–68)]] |
+> | [[Bilingual Education Policy]] | 概念 | 新加坡在特许国内名校设立国际学校时强制要求本土生源履行的法定语言规程。[[Argument_Gopinathan_2007_GSE\|(Gopinathan, 2007, p. 68)]] |
 > | [[Jason Beech]] | 人物 | 比较教育学者，深入剖析国际学校作为跨国[[Policy Brokerage\|政策中介]]网络与全球精英生产空间的机制。 |
 
 ---
@@ -234,3 +241,4 @@ updated: 2026-11-11
 > - [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 20–33)]] — 市场化、生源变化、文[[Avatar|化身]]份及师资培养条件。
 > - [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–216)]] — 地方社会联系、创新课程实施、[[United World Colleges|UWC]] 多样化与公共支持边界。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b, pp. 343–344)]] — 跨国教育集团连锁、全球精英形成与政府政策咨询网络。
+> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 考察新加坡强发展型国家在教育治理中特许名校创办国际学校（英华、华中等）的政策试验，揭示国家如何通过 50% 公民配额、双语政策与国民教育规训防范本土精英去国家化（pp. 67–68）。

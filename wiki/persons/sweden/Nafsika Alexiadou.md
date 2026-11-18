@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: sweden
 person_region: "sweden"
-person_related_count: 24
+person_related_count: 27
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -31,6 +31,8 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Transnational Education]]"
   - "[[Internationalization of Higher Education]]"
+  - "[[Policy Learning]]"
+  - "[[Mimesis]]"
   - "[[Champ]]"
   - "[[Subsidiarity Principle]]"
   - "[[Lifelong Learning]]"
@@ -45,7 +47,8 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Triangulation]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Alexandre de Rhodes]]"
 related_facts:
   - "[[EU]]"
   - "[[European Education Area]]"
@@ -57,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-28
-updated: 2026-11-15
+updated: 2026-11-18
 ---
 
 ---
@@ -75,7 +78,7 @@ updated: 2026-11-15
 ---
 
 > [!timeline] 生平与职涯
-> - **1990 年代末** 获得罗德学者资助赴英国牛津大学攻读博士学位，师从比较教育政策名家，于 1999 年完成教育政策与学校治理主题的博士学位研究。
+> - **1990 年代末** 获得[[Alexandre de Rhodes|罗德]]学者资助赴英国牛津大学攻读博士学位，师从比较教育政策名家，于 1999 年完成教育政策与学校治理主题的博士学位研究。
 > - **2001 年** 发表方法论专论《制度情境中的政策执行研究：访谈数据分析》，确立将微观[[Elite Interview|精英访谈]]材料置于宏观制度科层脉络中进行结构化解读的分析规程。
 > - **2006–2011 年** 执教于英国基尔大学教育学院任高级讲师，与贝蒂娜·兰格（Bettina Lange）展开密集合作，针对欧盟教育开放协调法推出一系列奠基性成果。
 > - **2011 年至今** 加盟瑞典于默奥大学任全职正教授，领衔创建 PEPP 政策研究团队，持续主持欧洲多国[[Transnational Education|跨国教育]]治理、[[Internationalization of Higher Education|高等教育国际化]]、教师教育与市场化改革等大型研究项目。
@@ -86,7 +89,7 @@ updated: 2026-11-15
 > [!work-line] 主要著作
 > - **2001 — *Researching policy implementation: Interview data analysis in institutional contexts*** 系统阐述政策执行与制度情境下的质性访谈编码方法，提出连接行动者主观表述与客观科层规则的释义学框架。
 > - **2007 — *New forms of European Union governance in the education sector? A conceptual and analytical perspective*** （与 Bettina Lange 合著）系统提出审视欧盟教育治理软法的概念框架，界定开放协调法对国家事权的渗透途径。
-> - **2010 — *Policy learning and governance of education policy in the EU*** （与 Bettina Lange 合著）提出跨国教育政策学习的四元类型学，阐述竞争性、反射性、模仿性与互惠性学习在超国家软法监督中的运作机制。
+> - **2010 — *[[Policy Learning|Policy learning]] and governance of education policy in the EU*** （与 Bettina Lange 合著）提出跨国教育政策学习的四元类型学，阐述竞争性、反射性、[[Mimesis|模仿]]性与互惠性学习在超国家软法监督中的运作机制。
 > - **2019 — *Educational policy-making in Europe 1986–2018: Towards convergence?*** 梳理欧洲教育政策三十年演进历程，分析[[European Semester|欧洲学期]]与财政紧缩对各国教育公平造成的制度冲击。
 > - **2023 — *Education policy governance and the power of ideas in constructing the new European Education Area*** （与 Xavier Rambla 合著）结合欧盟决策精英访谈与跨期政策文本对比，揭示[[European Commission|欧盟委员会]]激进认知重构方案遭遇理事会主权否决纠偏的深层机制。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 852–869)]]
 

@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-17
+updated: 2026-11-18
 ---
 
 ---
@@ -50,7 +50,7 @@ updated: 2026-11-17
 > - **用途** 用于衡量国家或学校系统的师资准入门槛与制度投入，为宏观教育供给提供行政规范标准。
 > - **边界** 教师资质属于静态输入性指标，不等于实际发生的微观教学质量（Teaching Quality），无法单独决定课堂内的教学规程与师生互动深度。
 
-> [!citation-card|notitle] 关键表述
+> [!citation-card|notitle] 教师资质与教学质量的概念界分
 > 跨国咨询报告往往将选拔顶尖毕业生作为教育成功的首要经验，宣称系统的质量完全由师资资质决定。这种推论将教师资质（Qualifications）混同于教学质量（Quality）。国际实证研究表明，教师资质（如学术成绩与学位等级）与实际课堂教学表现之间不存在必然对应；教师在课堂内的具体教学行为才是学业成就的决定因素。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 453–454)]]
 >
 > *Popular literature conflates teacher qualifications with teaching quality. International empirical evidence shows that teacher qualifications are not necessarily predictive of student academic achievement; it is what teachers do in classrooms that matters.*

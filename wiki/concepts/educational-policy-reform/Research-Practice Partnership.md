@@ -8,7 +8,7 @@ aliases:
 summary: "研究者与实践组织之间长期、互惠的协作机制，通过共同确定问题、协同生产与情境化运用知识，被视为弥合研究-实践鸿沟并打破线性知识转移瓶颈的重要制度安排。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 61
+related_count: 63
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Research-Engaged School]]"
   - "[[Academic Achievement]]"
   - "[[School Inspection]]"
+  - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[External Validity]]"
   - "[[Operationalization]]"
   - "[[Variable]]"
@@ -80,6 +81,7 @@ related_facts:
   - "[[OECD]]"
   - "[[Swedish ULF Project]]"
   - "[[Complex Instruction Programme]]"
+  - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments:
   - "[[Argument_Nelson_2017_EducRes]]"
   - "[[Argument_Revai_2022_ChangingLandscape]]"
@@ -90,7 +92,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-26
-updated: 2026-11-11
+updated: 2026-11-18
 ---
 
 ---
@@ -227,7 +229,7 @@ updated: 2026-11-11
 > > [!axis] 知识生产所有权与话语霸权
 > > 学界围绕 RPP 中究竟谁主导研究议程展开深刻反思。批评者指出，许多表面上的伙伴关系实际上仍是大学研究者单方面设计方案、把中小学视作廉价的“实验田”与“数据采集工场”；真正平等互惠的共创要求实践者拥有实质性的议题否决权与成果解释权。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 131)]]
 >
-> > [!axis] 本地知识能否升级为普遍科学证据
+> > [!axis] [[Local Knowledge in Evidence-Based Policy|本地知识]]能否升级为普遍科学证据
 > > 围绕 RPP 产出的深植于单一学区的定制化知识究竟是提升了适切性，还是阻碍了向其他情境的因果概化。
 > >
 > > - **循证复现派（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019]]）** 批评以 Bryk et al. 倡导的单学区 RPP 模式虽然契合本地，但过度贴合特定学区的特殊政治与人事微观生态，反而可能在向外推推广时遭遇严重的[[External Validity\|外部效度]]障碍；解决概化问题的唯一科学途径是在广泛多元情境中的成功复现，而非固守单一学区的定制化开发。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 8)]]
@@ -269,8 +271,8 @@ updated: 2026-11-11
 > [!index-table] 亨里克等（Henrick et al., 2017）RPP 有效性五大维度评估操作矩阵
 > | 评估维度 | 核心衡量内涵 | [[Operationalization\|操作化]]落地指标 | 对资助与治理机构的导向功能 |
 > |---|---|---|---|
-> | **维度一：建立互信与培育伙伴关系** | 跨组织信任累积与对彼此专业文化、制度约束的深度认同。 | 双方交流频次、共处工作时间、危机调解协议与坦诚沟通氛围。 | 倒逼资助机构为早期磨合与信任建立提供规划期预备资金。 |
-> | **维度二：开展指引实践行动的严谨科研** | 在确保方法学严谨度的同时，研究设计高度契合实际工作节奏。 | 测量工具的情境适应性、分析结果对当前教学政策决策的启示度。 | 避免课题成为纯理论操练，确保研究结论具备明确的实操指导性。 |
+> | **维度一：建立互信与培育伙伴关系** | 跨组织信任累积与对彼此专业文化、制度约束的深度认同。 | 双方交流频次、共处工作时间、危机调解协议与坦诚沟通氛围。 | 促使资助机构为早期磨合与信任建立提供规划期预备资金。 |
+> | **维度二：开展指引实践行动的严谨科研** | 在确保方法学严谨度的同时，研究设计高度契合实际工作节奏。 | 测量工具的情境适应性、分析结果对当前教学政策决策的启示度。 | 避免课题成为纯理论操练，确[[Recommendation-Based Graduate Admission System\|保研]]究结论具备明确的实操指导性。 |
 > | **维度三：支持实践机构实现其核心目标** | 将伙伴关系成果直接服务于学区或学校自身的战略改进攻坚。 | 实践机构所确立的办学目标达成度、弱势学生[[Academic Achievement\|学业成绩]]的实质改进。 | 确保合作将实践者的议程置于核心地位，规避学者单向立项偏差。 |
 > | **维度四：产出辐射更广系统的公共知识** | 提炼不仅限于单校、具备理论与分析推广价值的普适性洞见。 | 研发可移植的教学模块、跨校通用的评价量规与同行学术论著。 | 兼顾个案独特性与宏观系统累积，推动知识生态全域升级。 |
 > | **维度五：建设多方长期协作的组织能力** | 参与各方在理念、人员与组织基建层面形成可持续的科研应用素养。 | 教师科研识读力与循证领导力提升；大学学者跨界协同技能增强。 | 摆脱对单一明星学者的个人依赖，积累持久的机构协作资本。 |
