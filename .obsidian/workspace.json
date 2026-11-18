@@ -346,7 +346,10 @@
   },
   "active": "a56d43867912ecb5",
   "lastOpenFiles": [
+    "raw/indrarajah_extracted.txt",
     "raw/fig1_extracted.png",
+    "raw/fig1.png",
+    "sources/Phyo_2025_SocSci/figures/Phyo_2025_SocSci_Fig1_Patterns_HE_Access.jpg",
     "sources/Phyo_2025_SocSci/Phyo_2025_SocSci.pdf",
     "sources/Phyo_2025_SocSci/figures",
     "sources/Phyo_2025_SocSci/Phyo_2025_SocSci.md",
@@ -358,7 +361,6 @@
     "wiki/facts/global/Demographic and Health Surveys.md",
     "wiki/concepts/higher-education/Higher Education Access.md",
     "wiki/methods/quantitative/Linear Probability Model.md",
-    "raw/indrarajah_extracted.txt",
     "raw/socsci_text.txt",
     "output/related-updates/Argument_Lim_2015_CurricInq-97dc601b/batch-009/result.json",
     "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md",
@@ -389,9 +391,6 @@
     "sources/Hogan_2013_ROE/figures/Hogan_2013_ROE_Fig7_SEM_TfU_CRLS_Math.jpg",
     "sources/Hogan_2013_ROE/figures/Hogan_2013_ROE_Fig6_SEM_TI_DI_English.jpg",
     "sources/Hogan_2013_ROE/figures/Hogan_2013_ROE_Fig5_SEM_TI_DI_Math.jpg",
-    "sources/Hogan_2013_ROE/figures/Hogan_2013_ROE_Fig4_SEM_DI_English.jpg",
-    "sources/Hogan_2013_ROE/figures/Hogan_2013_ROE_Fig3_SEM_DI_Math.jpg",
-    "sources/Hogan_2013_ROE/figures/Hogan_2013_ROE_Fig2_SEM_TI_English.jpg",
     "未命名.canvas"
   ]
 }
