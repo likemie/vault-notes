@@ -3311,6 +3311,16 @@
     ]
   },
   {
+    "title": "Curricular Form",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Curricular Form.md",
+    "aliases": [
+      "课程形态",
+      "课程形式",
+      "curriculum form"
+    ]
+  },
+  {
     "title": "Curricular Governance",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Curricular Governance.md"
@@ -5231,7 +5241,8 @@
       "教育对话",
       "对话教学",
       "educational dialogue",
-      "dialogic teaching"
+      "dialogic teaching",
+      "课堂对话"
     ]
   },
   {
@@ -25767,6 +25778,20 @@
       "问题表征方法",
       "Bacchi WPR",
       "WPR"
+    ]
+  },
+  {
+    "title": "Bernstein's Theory of Pedagogic Codes",
+    "type": "theory",
+    "path": "wiki/theories/sociology-of-education/Bernstein's Theory of Pedagogic Codes.md",
+    "aliases": [
+      "伯恩斯坦教学代码理论",
+      "教学代码理论",
+      "教学话语代码理论",
+      "分类与框架理论",
+      "Pedagogic Code Theory",
+      "Bernstein's Code Theory",
+      "Theory of Pedagogic Codes"
     ]
   },
   {
@@ -54250,6 +54275,11 @@
     "title": "Argument_Gungor_2026_CP",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Current Psychology/Argument_Gungor_2026_CP.md"
+  },
+  {
+    "title": "Argument_Lim_2015_CurricInq",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
   },
   {
     "title": "Argument_Gorur_2014_Discourse",

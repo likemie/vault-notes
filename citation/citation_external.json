@@ -2419,7 +2419,6 @@
     "Bernstein (1971)": "Bernstein, 1971",
     "Bernstein (1974)": "Bernstein, 1974",
     "Bernstein (1975)": "Bernstein, 1975",
-    "Bernstein (1977)": "Bernstein, 1977",
     "Bernstein (1983)": "Bernstein, 1983",
     "Bernstein (1990)": "Bernstein, 1990",
     "Bernstein (2000)": "Bernstein, 2000",
@@ -2429,7 +2428,6 @@
     "Bernstein, 1971": "Bernstein, 1971",
     "Bernstein, 1974": "Bernstein, 1974",
     "Bernstein, 1975": "Bernstein, 1975",
-    "Bernstein, 1977": "Bernstein, 1977",
     "Bernstein, 1983": "Bernstein, 1983",
     "Bernstein, 1990": "Bernstein, 1990",
     "Bernstein, 2000": "Bernstein, 2000",
@@ -12393,8 +12391,6 @@
     "John Backus, 1977": "John Backus, 1977",
     "John Bangs (2020)": "John Bangs, 2020",
     "John Bangs, 2020": "John Bangs, 2020",
-    "John Creswell (2007)": "John Creswell, 2007",
-    "John Creswell, 2007": "John Creswell, 2007",
     "John Dewey (1922)": "John Dewey, 1922",
     "John Dewey, 1922": "John Dewey, 1922",
     "John E. Tilton (1971)": "John E. Tilton, 1971",
@@ -15069,8 +15065,6 @@
     "Lincoln et al., 2011": "Lincoln et al., 2011",
     "Lincoln, 1990": "Lincoln, 1990",
     "Lincoln, 2009": "Lincoln, 2009",
-    "Linda Elder (2005)": "Linda Elder, 2005",
-    "Linda Elder, 2005": "Linda Elder, 2005",
     "Linda Zagzebski (1996)": "Linda Zagzebski, 1996",
     "Linda Zagzebski, 1996": "Linda Zagzebski, 1996",
     "Lindbeck & Nyberg (2006)": "Lindbeck & Nyberg, 2006",
@@ -24859,11 +24853,13 @@
     "Topping (2004a)": "Topping, 2004a",
     "Topping (2004b)": "Topping, 2004b",
     "Topping (2004c)": "Topping, 2004c",
+    "Topping (2009)": "Topping, 2009",
     "Topping (2011)": "Topping, 2011",
     "Topping, 2004": "Topping, 2004c",
     "Topping, 2004a": "Topping, 2004b",
     "Topping, 2004b": "Topping, 2004a",
     "Topping, 2004c": "Topping, 2004c",
+    "Topping, 2009": "Topping, 2009",
     "Topping, 2011": "Topping, 2011",
     "Torbeyns (2017)": "Torbeyns, 2017",
     "Torbeyns, 2017": "Torbeyns, 2017",
@@ -46211,21 +46207,6 @@
       ],
       "title": ""
     },
-    "Bernstein, 1977": {
-      "aliases": [
-        "Bernstein, 1977",
-        "Bernstein (1977)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Bernstein, 1977"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
-      ],
-      "title": ""
-    },
     "Bernstein, 1983": {
       "aliases": [
         "Bernstein, 1983",
@@ -46268,7 +46249,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md",
         "wiki/concepts/curriculum/Regulative and Instructional Discourse.md",
         "wiki/persons/uk/Basil Bernstein.md"
       ],
@@ -47874,6 +47854,7 @@
         "wiki/concepts/competency-and-assessment/Formative Assessment.md",
         "wiki/concepts/curriculum/Learning Intentions.md",
         "wiki/concepts/educational-policy-reform/High-Stakes Testing.md",
+        "wiki/concepts/instruction-pedagogy/Peer Assessment.md",
         "wiki/theories/educational-policy-reform/Research Utilization Models.md"
       ],
       "title": "Assessment and classroom learning"
@@ -90783,7 +90764,6 @@
         "wiki/arguments/books/Darwish_2009_Queens/Argument_Darwish_2009_Queens.md",
         "wiki/concepts/educational-philosophy/Decodification.md",
         "wiki/concepts/educational-philosophy/Dehumanization.md",
-        "wiki/concepts/educational-philosophy/Dialogue in Education.md",
         "wiki/concepts/educational-philosophy/Generative Themes.md",
         "wiki/concepts/educational-philosophy/Narration Sickness.md",
         "wiki/concepts/educational-philosophy/Problem-Posing Education.md",
@@ -119203,21 +119183,6 @@
       ],
       "title": ""
     },
-    "John Creswell, 2007": {
-      "aliases": [
-        "John Creswell, 2007",
-        "John Creswell (2007)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "John Creswell, 2007"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
-      ],
-      "title": ""
-    },
     "John Dewey, 1922": {
       "aliases": [
         "John Dewey, 1922",
@@ -138442,21 +138407,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/research-methodology/Research Ethics.md"
-      ],
-      "title": ""
-    },
-    "Linda Elder, 2005": {
-      "aliases": [
-        "Linda Elder, 2005",
-        "Linda Elder (2005)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Linda Elder, 2005"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
       ],
       "title": ""
     },
@@ -209805,6 +209755,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Tutoring in mathematics  A generic method"
+    },
+    "Topping, 2009": {
+      "aliases": [
+        "Topping, 2009",
+        "Topping (2009)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Topping, 2009"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Peer Assessment.md"
+      ],
+      "title": ""
     },
     "Topping, 2011": {
       "aliases": [

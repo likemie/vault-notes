@@ -10603,14 +10603,6 @@
       ],
       "title": ""
     },
-    "Bernstein, 1977": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
-      ],
-      "title": ""
-    },
     "Bernstein, 1983": {
       "doi": "",
       "isbn": "",
@@ -10632,7 +10624,6 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md",
         "wiki/concepts/curriculum/Regulative and Instructional Discourse.md",
         "wiki/persons/uk/Basil Bernstein.md"
       ],
@@ -11599,6 +11590,7 @@
         "wiki/concepts/competency-and-assessment/Formative Assessment.md",
         "wiki/concepts/curriculum/Learning Intentions.md",
         "wiki/concepts/educational-policy-reform/High-Stakes Testing.md",
+        "wiki/concepts/instruction-pedagogy/Peer Assessment.md",
         "wiki/theories/educational-policy-reform/Research Utilization Models.md"
       ],
       "title": "Assessment and classroom learning"
@@ -37322,7 +37314,6 @@
         "wiki/arguments/books/Darwish_2009_Queens/Argument_Darwish_2009_Queens.md",
         "wiki/concepts/educational-philosophy/Decodification.md",
         "wiki/concepts/educational-philosophy/Dehumanization.md",
-        "wiki/concepts/educational-philosophy/Dialogue in Education.md",
         "wiki/concepts/educational-philosophy/Generative Themes.md",
         "wiki/concepts/educational-philosophy/Narration Sickness.md",
         "wiki/concepts/educational-philosophy/Problem-Posing Education.md",
@@ -54429,14 +54420,6 @@
       ],
       "title": ""
     },
-    "John Creswell, 2007": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
-      ],
-      "title": ""
-    },
     "John Dewey, 1922": {
       "doi": "",
       "isbn": "",
@@ -66173,14 +66156,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/research-methodology/Research Ethics.md"
-      ],
-      "title": ""
-    },
-    "Linda Elder, 2005": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
       ],
       "title": ""
     },
@@ -109138,6 +109113,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Cross-age peer tutoring of reading and thinking  Influence on thinking skills"
+    },
+    "Topping, 2009": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Peer Assessment.md"
+      ],
+      "title": ""
     },
     "Topping, 2011": {
       "datasets": [
