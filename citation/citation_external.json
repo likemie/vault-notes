@@ -13432,6 +13432,8 @@
     "Kenneth Clark, 1969": "Kenneth Clark, 1969",
     "Kenneth Goodman (1999)": "Kenneth Goodman, 1999",
     "Kenneth Goodman, 1999": "Kenneth Goodman, 1999",
+    "Kenneth Pike (1954)": "Kenneth Pike, 1954",
+    "Kenneth Pike, 1954": "Kenneth Pike, 1954",
     "Kennett et al. (2008)": "Kennett et al., 2008",
     "Kennett et al., 2008": "Kennett et al., 2008",
     "Kenni (2020)": "Kenni, 2020",
@@ -20001,8 +20003,6 @@
     "Pigott et al., 2013": "Pigott et al., 2013",
     "Pike & Kuh (2005)": "Pike & Kuh, 2005",
     "Pike & Kuh, 2005": "Pike & Kuh, 2005",
-    "Pike (1954)": "Pike, 1954",
-    "Pike, 1954": "Pike, 1954",
     "Pilli (2012)": "Pilli, 2012",
     "Pilli, 2012": "Pilli, 2012",
     "Pilliner (1973)": "Pilliner, 1973",
@@ -127372,6 +127372,21 @@
       ],
       "title": ""
     },
+    "Kenneth Pike, 1954": {
+      "aliases": [
+        "Kenneth Pike, 1954",
+        "Kenneth Pike (1954)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Kenneth Pike, 1954"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/research-methodology/Emic and Etic.md"
+      ],
+      "title": ""
+    },
     "Kennett et al., 2008": {
       "aliases": [
         "Kennett et al., 2008",
@@ -175096,21 +175111,6 @@
       ],
       "title": "First-and Second-Generation College Students: A Comparison of Their Engagement and Intellectual Development"
     },
-    "Pike, 1954": {
-      "aliases": [
-        "Pike, 1954",
-        "Pike (1954)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Pike, 1954"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/research-methodology/Emic and Etic.md"
-      ],
-      "title": ""
-    },
     "Pilli, 2012": {
       "aliases": [
         "Pilli, 2012",
@@ -175733,8 +175733,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md",
-        "wiki/concepts/research-methodology/Document.md"
+        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md"
       ],
       "title": ""
     },

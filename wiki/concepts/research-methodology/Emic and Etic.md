@@ -6,7 +6,10 @@ aliases:
   - etic perspective
   - emic approach
   - etic approach
-summary: "跨文化与质性研究方法论的核心区分。来自语言学类比（音位学/语音学），主位（emic）从文化内部理解参与者的主观意义与结构，客位（etic）从文化外部使用研究者范畴进行比较分析。"
+  - 主位视角
+  - 客位视角
+  - 主位逻辑
+summary: "跨文化与质性研究方法论的核心区分；源自音位学与语音学的语言学类比，主位从文化内部理解行动者的主观意义结构并抵制外部病理化标签，客位使用研究者范畴开展跨情境比较，二者在反身性双重诠释中实现互补整合。"
 type: concept
 domain: "research-methodology"
 related_count: 22
@@ -45,75 +48,143 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28]]"
+  - "[[Argument_Xie_2017_PKUER]]"
 confidence: medium
-status: draft
+status: active
 created: 2026-05-25
-updated: 2026-11-14
+updated: 2026-11-19
+---
+
 ---
 
 > [!def] Emic and Etic
-> Emic（主位）视角是从被研究者内部出发的视角，旨在理解文化内部成员自身的概念、意义与结构。Etic（客位）视角则是从外部观察者或研究者出发的视角，使用研究者自带的范畴和理论框架进行分析与比较。跨文化研究要真正实现文化间的理解，必须同时纳入两种视角（[[Argument_Li_2012_Cambridge\|Li, 2012, p.77]]）。在教育研究的质性方法论中，这对概念由 LeCompte and Preissle（1993, p. 45）从语言学类比出发阐明：主位进路取音位学（phonemic）类比，关注捕捉参与者赋予情境的主观意义；客位进路取语音学（phonetic）类比，意在识别和理解研究者的客观建构。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 405)]]
+> 主位与客位（Emic and Etic）源自语言学家肯尼斯·派克（Kenneth Pike, 1954）对音位学（phonemics）与语音学（phonetics）的类比，构成跨文化研究与质性方法论的核心范畴。主位进路从被研究社群内部出发，旨在捕捉与理解行动者自身赋予世界的主观意义、概念范畴与行为逻辑（[[Argument_Li_2012_Cambridge|Li, 2012, p. 77]]）；客位进路则从外部观察者或研究者的理论框架出发，使用跨情境的外部基准对文化现象开展比较与分类（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011, p. 405]]）。在教育社会学实地调查中，主位视角是破除外部观察者病理化偏见、还原弱势群体原生实践理性的认识论基石（[[Argument_Xie_2017_PKUER|Xie, 2017, pp. 69–73]]）。
 
-> [!citation-card] LeCompte & Preissle 的经典定义
-> 主位进路（取音位学类比）关注捕捉参与者赋予情境的主观意义；客位进路（取语音学类比）意在识别和理解研究者的客观意义和情境建构。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 405)]]
+> [!concept-lens|notitle] 概念透镜
+> - **含义** 指涉研究者在认识论上立足行动者内部的生活世界与原生意义范畴（主位），还是依托外部研究者的理论框架与比较尺度（客位）。
+> - **用途** 帮助研究者规避外部范畴强加与道德化污名，洞察行动者的情境化理性，并在双重诠释中搭建本土经验与跨情境理论对话的桥梁。
+> - **边界** 主位与客位构成认识论连续体中的互补维度；主位不等于毫无批判的经验盲从，客位亦不可滑向脱离本土脉络的抽象虚构。
+
+> [!citation-card] LeCompte & Preissle 的经典界定
+> 主位进路（取音位学类比）关注捕捉参与者赋予情境的主观意义；客位进路（取语音学类比）意在识别和理解研究者的客观意义和情境建构。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 405)]]
 >
 > *The authors distinguish between emic approaches (as in the term 'phonemic', where the concern is to catch the subjective meanings placed on situations by participants) and etic approaches (as in the term 'phonetic', where the intention is to identify and understand the objective or researcher's meaning and constructions of a situation). (LeCompte & Preissle, 1993, p. 45)*
 
-> [!quote|notitle]
-> 主位视角是源自被研究者的内部人视角，与源自外部观察者或研究者的客位视角相对。[[Argument_Li_2012_Cambridge\|(Li, 2012, p.77)]]
+> [!boundary]- 概念边界
+> - 不等于 经验相对主义（Relativism） — 主位视角要求深入参与者的生活世界，但仍需接受学术规范的系统考证，并非无原则认同受访者的所有主观宣称。
+> - 不等于 抽象实证主义（Abstract Empiricism） — 客位视角依托外部概念工具开展跨情境比较，但必须以对本土情境的深刻理解为前提，防止将外部特权范畴伪装为普世真理。
+> - 不适用于 脱离双重诠释的单向度研究 — 质性探究天然包含行动者自我理解与研究者理论建构的相互转化；完全排斥客位将丧失跨案例理论对话能力，完全抽离主位则会导致生态效度瓦解。
+
+---
+
+> [!contrast-table|notitle] 概念辨析
+> | 维度 | 主位视角（Emic Perspective） | 客位视角（Etic Perspective） |
+> |---|---|---|
+> | **语言学类比** | 音位学（Phonemics）：特定语言系统内部有意义的声音差异 | 语音学（Phonetics）：跨语言普遍适用的发音物理与声学规律 |
+> | **立场定位** | 文化与社群内部参与者（Insider）的主体感知与定义 | 外部研究者（Outsider）预设的理论概念与评价尺度 |
+> | **核心追求** | 揭示原生意义系统与行动逻辑，保障高[[Ecological Validity\|生态效度]] | 建立跨文化与跨群体的比较基准，追求理论概括度 |
+> | **方法论载体** | [[Ethnography\|民族志]]田野、深度访谈、[[Rich and Thick Description\|深描]]、原型联想 | 标准化问卷、跨文化量表测量、假设检验与模型建构 |
+> | **潜在认知风险** | 容易陷入部落主义或对行动者叙事的非批判性沉溺 | 容易产生范畴强加、道德化归咎或外部病理化偏见 |
+
+---
+
+> [!feature] 核心要素
+> - **内部主体意义范畴（Insider Conceptual Frameworks）** 强调以行动者原生的语言、分类体系与价值感知为起点，真实还原受访者对所处情境的界定。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 77)]]
+> - **外部比较分析支架（Comparative Analytical Scaffolding）** 为本土经验材料提供跨情境对话的概念透镜，使具体个案能够上升为具有普遍解释力的理论知识。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 405)]]
+> - **病理化标签的解构功能（De-pathologizing Diagnostic Power）** 借助主位生活史还原，透视行动者表层退却背后的深层结构约束与实践理性，打破外部精英话语的道德污名。[[Argument_Xie_2017_PKUER|(Xie, 2017, pp. 69–73)]]
+> - **反身性双重诠释（Reflexive Double Hermeneutic）** 研究者在数据分析与报告过程中，自觉审视自身的立场性与先入之见，在参与者意义建构与学术理论建构之间展开辩证综合。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
+
+> [!logic-map]- 主位与客位的双重诠释互动机制
+> ```mermaid
+> flowchart LR
+>     subgraph InsiderField ["行动者主位场域 (Emic)"]
+>         A1["本土日常生活世界"] --> A2["原生概念与生活体验"]
+>         A2 --> A3["情境化实践理性"]
+>     end
+>     subgraph DoubleHermeneutic ["反身性双重诠释过程"]
+>         B1["深描与主位经验还原"] <--> B2["理论提炼与客位比较"]
+>     end
+>     subgraph OutsiderTheory ["研究者客位场域 (Etic)"]
+>         C1["跨情境理论分析框架"] --> C2["结构因果机制解释"]
+>         C2 --> C3["学术对话与知识积累"]
+>     end
+>     A3 --> B1
+>     B2 --> C1
+> ```
+
+---
+
+> [!concept-proposition] 命题一｜主位视角是打破外部病理化标签与揭示弱势群体情境化实践理性的认识论基石
+> **内部经验还原与去病理化反思** 探讨从内部行动者的生活世界出发如何推翻外部主流精英建构的道德污名，确立弱势群体行动选择的理性根基。
+
+> [!claim] 谢爱磊
+> **“读书无望”对“读书无用论”病理化标签的主位重构** 外部观察者与公共话语常站在客位立场，将农村底层家庭的教育冷漠与初中辍学归咎为“读书无用论”或反智主义情绪；谢爱磊（[[Argument_Xie_2017_PKUER|Xie, 2017, pp. 69–73]]）深入农村基层开展生活史与田野调查，从行动者主位逻辑揭示，底层居民深谙教育的流动功能，其展现的退却实质源于“读书无望”——在宏观机会结构固化、高校文凭贬值、高昂就学成本与社会资本匮乏的重压下，调低期望是弱势家庭规避因教致贫的防御性实践理性，主位探究有力纠正了客位视角下的文化落后与反智假说。
+
+> [!claim] Li, J.
+> **跨文化学习信念的原生文化模型建构** 传统跨文化心理学研究长期受西方客位范畴主导，将非西方学习者套入既定问卷框架；李瑾（[[Argument_Li_2012_Cambridge|Li, 2012, pp. 77–85]]）立足主位视角，借助中英文母语者对学习词汇的自由联想与原型聚类分析，发掘出中国特有的“美德导向”学习信念与欧美“心智导向”信念的原生系统差异，印证了主位进路在揭示文化深层心理图式时的生态效度。
+
+---
+
+> [!concept-proposition] 命题二｜质性研究的方法论有效性依托主位深描与客位反身性理论化的辩证综合
+> **双重诠释与主客位动态互补** 探讨质性研究如何协调行动者内部体验与学术理论建构，避免经验相对主义与概念殖民主义的双重偏颇。
+
+> [!claim] Cohen, L., Manion, L., & Morrison, K.
+> **诠释范式下主位与客位的方法论整合** 基于 LeCompte and Preissle（1993）与 Lincoln and Guba（1985），质性研究以民族志为主位探究的典范载体，依托厚描述忠实呈现参与者对世界的理解与感受；在资料分析与成文阶段，研究者必须运用反身性（Reflexivity）开展双重诠释，将原生主位数据与客位概念框架有机对接，兼顾研究的生态效度与学术对话效力。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 405, 443–444)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
+
+---
+
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **去病理化与生活史还原** | 以主位经验推翻外部病理化污名，揭示弱势行动者的情境化实践理性 | 阶层边缘社群研究、教育不平等及底层社会心理分析 | [[Argument_Xie_2017_PKUER\|谢爱磊 (2017)]]; [[Argument_Li_2012_Cambridge\|Li (2012)]] |
+> | **双重诠释与反身性整合** | 主位深描与客位理论化辩证互补，确立质性研究的方法论信度 | 民族志调查、跨文化比较与质性资料分析规范 | LeCompte & Preissle; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|Cohen et al. (2011)]] |
+
+---
+
+> [!dev-timeline] 概念演变
+> - **1954 — 语言学起源** 肯尼斯·派克（Kenneth Pike）在语言学中创立音位学（phonemics，特定语言内部声音系统）与语音学（phonetics，跨语言普遍发音规律）的分析类比。
+> - **1970s–1980s — 人类学田野采纳** 文化人类学系统吸收主位视角，强调深入部落生活世界与内部意义系统，抵制传统实证主义的客位西方中心主义框架。
+> - **1993 — 教育研究方法论系统整合** 玛格丽特·勒孔特（Margaret LeCompte）与朱迪丝·普莱斯尔（Judith Preissle）将主位/客位区分正式引入教育民族志方法论，确立其作为诠释主义范式基石的地位。
+> - **2012 — 跨文化学习信念模型建构** 李瑾（[[Argument_Li_2012_Cambridge|Li, 2012]]）运用主位路径采集母语词汇联想并结合聚类分析，打破传统跨文化心理学的西方范式垄断，系统呈现中西学习模型的结构差异。
+> - **2017 — 中国底层教育社会学的主位解构** 谢爱磊（[[Argument_Xie_2017_PKUER|Xie, 2017]]）将主位视角运用于中国农村底层居民教育观念研究，提出“读书无望”概念，推翻了公共舆论长期建构的“读书无用论”客位病理化偏见。
+
+---
+
+> [!tension|notitle] 核心张力
+> - **原生情境忠实性（主位立场）** 强调研究应最大限度保留本土行动者的主观经验与语境细节，警惕外部预设概念对生活世界的扭曲与遮蔽。
+> - **跨案例理论可通约性（客位立场）** 强调研究若脱离跨情境理论分析框架与分类标准，将退化为琐碎的经验拼贴，难以实现知识积累与跨案例对话。
+
+> [!warning|limits] 适用局限
+> 主位与客位划分主要服务于认识论与质性研究设计分析；在纯粹技术性的封闭自然实验或统计物理测量中解释力有限；过度割裂主客位容易导致方法论教条主义。
+
+---
+
+> [!empirical-divider]
+
+> [!ref-table]- 其他实证结果（无效应量）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> *An emic perspective is the insider perspective, originating with the people being studied, as opposed to the one originating with the outside observer/researcher, which is called an etic perspective.*
+> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Li_2012_Cambridge\|Li (2012)]] | 中美两国母语大学生群体 | 主位自由联想与原型聚类分析 | 学习信念词汇联想规模与文化模型类目 | 分别提炼出 225 个中文核心词汇与 203 个英文核心词汇；聚类形成中国美德模型与欧美心智模型 | — | 质性联想与探索性聚类，印证主位进路在提取深层文化图式上的生态效度 |
+> | [[Argument_Xie_2017_PKUER\|Xie (2017)]] | 中部中县农村基层社区与学校 | 田野调查、生活史与深度访谈 | 底层家庭教育观念、期望演化与行为决策 | 农户年均纯农业收入约 1 万元；揭示底层教育退却实质为规避破产的实践理性自保（读书无望） | — | 质性生活史个案印证主位视角对外部“读书无用论”病理化标签的实证解构力 |
 
 ---
 
-> [!feature] Emic/Etic 的核心要素
-> - **内部人视角（Emic）** 从文化成员的立场出发，理解其自身的概念范畴、意义系统和行为逻辑，试图像内部人一样看世界。
-> - **外部人视角（Etic）** 从研究者自带的范畴和理论框架出发，对文化现象进行跨情境的比较和分析，使用外部比较的标准。
-> - **互补而非对立** 缺乏 emic 则无法理解文化内部逻辑，缺乏 etic 则无法进行跨文化对话。两者是[[Epistemology\|认识论]]策略的连续体而非二元对立。
-> - **语言学基础** 源自音位学（phonemic，特定语言的内部声音系统）与语音学（phonetic，跨语言的普遍声音规律）的类比。
-
----
-
-> [!entry-map] 在[[Qualitative Research|质性研究]]中的位置
+> [!entry-map] 条目关联
 >
-> | 关联项 | 类型 | 关系 |
-> |:-------|:-----|:-----|
-> | [[Interpretive Paradigm\|诠释范式]] | [[Paradigm\|范式]]基础 | 诠释范式以主位进路为核心方法论承诺——从参与者内部视角理解社会世界。LeCompte and Preissle（1993, pp. 39–44）将主位/客位区分纳入民族志方法与实证主义方法的五项系统对比中（描述vs预测、归纳vs演绎、理论生成vs验证、建构vs枚举、主观性vs客观性）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 405)]] |
-> | [[Ethnography\|民族志]] | 核心方法 | 民族志被 Lincoln and Guba（1985, p. 359）描述为"主位探究的理想工具"。案例研究作为民族志的自然报告模式，能容纳厚描述和默会知识，服务于主位探究。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 443–444)]] |
-> | [[Rich and Thick Description\|厚描述]] | 核心概念 | 厚描述服务于主位进路——从内部人视角呈现参与者对世界的理解和感受，将读者"传送"到研究现场。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 403–404)]] |
-> | [[Visual Data\|视觉数据]] | 相关概念 | 照片同时承载主位与客位意义，既是受访者生活世界的内部呈现（主位），也承载可供外部解读的客位信息。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|(Cohen et al., 2011, 27.2)]] |
-
-在[[Qualitative Research|质性研究]]数据分析与报告阶段，应捕捉不同参与者对情境的不同定义，并综合主位与客位分析；由于数据包裹在社会事件之中，报告涉及[[Double Hermeneutic|双重诠释]]过程，这一综合正是对缺乏客观性批评的回应，也以[[Reflexivity|反身性]]加以支持。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
-
----
-
-> [!contrast-table] Emic vs Etic
-> | 维度 | Emic（主位） | Etic（客位） |
-> |------|------------|------------|
-> | 语言学类比 | 音位学（phonemic）：研究特定语言的内部声音系统。 | 语音学（phonetic）：研究跨语言的普遍声音规律。 |
-> | 视角定位 | 内部人——参与者如何理解和体验自己的世界。 | 外部人——研究者如何使用自身范畴分析对象。 |
-> | 核心追求 | 高[[Ecological Validity\|生态效度]]，揭示文化原生的概念与信念。 | 跨文化可比性，追求普遍性解释框架。 |
-> | 方法论传统 | [[Ethnography\|民族志]]、[[Phenomenology\|现象学]]、[[Symbolic Interactionism\|符号互动论]]。 | [[Positivism\|实证主义]]、跨文化比较研究。 |
-> | 互补关系 | 缺乏 emic 则无法理解文化内部逻辑。 | 缺乏 etic 则无法进行跨文化[[Dialogue in Education\|对话]]和比较。 |
-
-两者不是对立关系，而是互补（[[Argument_Li_2012_Cambridge|Li, 2012, p.77]]）。LeCompte and Preissle（1993, pp. 39–44）将这对区分纳入民族志方法与实证主义方法的系统性对比框架中：民族志以主位为核心，但承认客位在研究者的理论建构中不可避免。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 405)]]
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Interpretive Paradigm]] | 概念 | 诠释范式以主位进路为核心方法论承诺，强调从行动者内部理解社会现实。 |
+> | [[Ethnography]] | 方法 | 民族志被视为开展主位探究的典范工具，通过长期田野融入获取内部人洞察。 |
+> | [[Rich and Thick Description]] | 概念 | 厚描述是主位探究的关键表达载体，用于详尽呈现生活情境与主体意义。 |
+> | [[Double Hermeneutic]] | 概念 | 双重诠释要求研究者在主位行动者自我理解与客位理论建构之间展开循环对话。 |
+> | [[Reflexivity]] | 概念 | 反身性是研究者平衡主位经验沉浸与客位批判分析的重要自省机制。 |
+> | [[Ecological Validity]] | 概念 | 采纳主位视角有助于忠实呈现文化原生结构，从而显著提升研究的生态效度。 |
 
 ---
 
-> [!dev-timeline] Emic/Etic 的概念演变
-> - **1950s–1960s — 语言学起源**Pike（1954）从音位学（phonemic，语言内部的声音系统）和语音学（phonetic，跨语言的普遍声音规律）的区分中类比出这对概念——emic 研究特定文化的内部结构，etic 寻求跨文化的普遍框架。
-> - **1970s–1980s — 人类学采纳**[[Ethnography\|人类学研究]]率先系统性地将 emic 视角引入田野方法，以此增进对世界各文化内在逻辑的理解。传统跨文化心理学研究同期长期由 etic 视角主导，以西方科学[[Paradigm\|范式]]为模板进行理论驱动、假设检验式比较（[[Argument_Li_2012_Cambridge\|Li, 2012, p.77]]）。
-> - **1993 — 教育研究方法论的系统整合** LeCompte and Preissle（1993, p. 45）从语言学类比出发，将这对概念引入教育研究的[[Ethnography\|民族志]]方法论，纳入民族志方法与[[Positivism\|实证主义]]方法的五项系统对比框架中（描述vs预测、归纳vs演绎、理论生成vs验证、建构vs枚举、主观性vs客观性）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 405)]]
-> - **2012 — 跨文化学习研究的应用**[[Argument_Li_2012_Cambridge\|Li (2012)]]有意识地以 emic 视角为方法论基础研究中国与欧[[Philosophical Aesthetics|美学]]习信念差异。借助 [[Prototype Methods]] 和 [[Cultural Models]] 等人类学方法，获取中英文母语者对"学习"的自由联想词汇（225个中文，203个英文），通过[[Cluster Analysis\|聚类分析]]生成文化层面的学习模型，揭示了两种文化在学习目的、能动过程、情感维度和成就标准上的系统性差异（[[Argument_Li_2012_Cambridge\|Li, 2012, pp.77-85]]）。
-
----
-
-> [!success] 实证发现
-> - Emic 视角在研究文化原生概念及行为底层信念方面具有更高的效度，优于单纯依赖外部范畴的 etic 路径（[[Argument_Li_2012_Cambridge\|Li, 2012, p.77-78]]）。
-> - [[Argument_Li_2012_Cambridge\|Li (2012)]]运用 emic 路径，让中英文母语大学生自由联想"学习"（xuexi / learn/learning）相关词汇，分别获得 225 个中文核心词汇和 203 个英文核心词汇。[[Cluster Analysis\|聚类分析]]生成了欧美与中国两种文化层面的学习模型，揭示了二者在学习目的、能动过程、情感维度和成就标准上的系统性差异（[[Argument_Li_2012_Cambridge\|Li, 2012, p.79-85]]）。
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 在主位/客位框架下研究中国与欧美学习信念差异，以 emic 视角为核心方法论基础，运用[[Prototype Methods\|原型方法]]和[[Cultural Models\|文化模型]]生成两种文化层面的学习模型。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|Cohen et al. (2011)]] — 从 LeCompte and Preissle（1993）的语言学类比出发，将主位/客位区分系统纳入[[Ethnography\|民族志]]方法与[[Positivism\|实证主义]]方法的对比框架，并阐明其在[[Interpretive Paradigm\|诠释范式]]和[[Rich and Thick Description\|厚描述]]中的方法论位置。
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Li_2012_Cambridge|Li (2012)]] — 在跨文化学习信念比较中立足主位视角，运用原型分析构建中西学习文化模型（pp. 77–85）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011)]] — 系统阐释主位/客位概念的语言学渊源及其在教育民族志与诠释范式中的方法论定位（pp. 405, 443–444）。
+> - [[Argument_Xie_2017_PKUER|Xie (2017)]] — 运用主位生活史探究深入中国农村基层，提出“读书无望”概念，解构外部客位视角的“读书无用论”病理化标签（pp. 69–73）。
