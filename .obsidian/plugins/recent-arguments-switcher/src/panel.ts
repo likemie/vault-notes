@@ -1,9 +1,9 @@
 import { setIcon } from "obsidian";
 import { dateDescription, displayDate, type RecentNote } from "./recent-store";
-import type { PanelState, Position } from "./settings";
+import type { PanelState } from "./settings";
 
 const MARGIN = 8;
-const ROW_HEIGHT = 28;
+const ROW_HEIGHT = 26;
 
 function append<K extends keyof HTMLElementTagNameMap>(
   parent: HTMLElement, tag: K, className?: string, text?: string,
@@ -32,15 +32,16 @@ interface ViewData {
 
 export class RecentPanel {
   private readonly root: HTMLElement;
-  private readonly capsule: HTMLButtonElement;
-  private readonly capsuleCount: HTMLElement;
+  private readonly rail: HTMLButtonElement;
+  private readonly railCount: HTMLElement;
   private readonly body: HTMLElement;
   private readonly count: HTMLElement;
   private readonly list: HTMLElement;
   private readonly status: HTMLElement;
   private readonly events = new AbortController();
   private rowButtons: HTMLButtonElement[] = [];
-  private drag: { pointer: number; x: number; y: number; origin: Position; moved: boolean } | null = null;
+  private unread = 0;
+  private drag: { pointer: number; startY: number; center: number; moved: boolean } | null = null;
 
   constructor(
     private readonly window: Window,
@@ -51,11 +52,13 @@ export class RecentPanel {
     const { document } = window;
     this.root = append(document.body, "aside", "ras-float");
     this.root.setAttribute("aria-label", "最近论证切换器");
-    this.capsule = button(this.root, "ras-capsule", "展开最近论证");
-    this.capsule.setAttribute("aria-controls", "ras-expanded");
-    setIcon(append(this.capsule, "span", "ras-icon"), "history");
-    append(this.capsule, "span", "", "论证");
-    this.capsuleCount = append(this.capsule, "span", "ras-capsule-count", "0");
+    this.rail = button(this.root, "ras-rail", "展开最近论证");
+    this.rail.setAttribute("aria-controls", "ras-expanded");
+    const railIcon = append(this.rail, "span", "ras-rail-icon");
+    railIcon.setAttribute("aria-hidden", "true");
+    for (let i = 0; i < 3; i++) append(railIcon, "span");
+    append(this.rail, "span", "ras-rail-label", "论证");
+    this.railCount = append(this.rail, "span", "ras-rail-count", "0");
 
     this.body = append(this.root, "section", "ras-body");
     this.body.id = "ras-expanded";
@@ -65,11 +68,8 @@ export class RecentPanel {
     const title = append(handle, "h2", "ras-heading", "最新论证");
     title.id = "ras-heading";
     this.body.setAttribute("aria-labelledby", title.id);
-    handle.title = "拖动调整位置";
+    handle.title = "沿右边拖动面板";
     this.count = append(handle, "span", "ras-today", "今日 0");
-    const collapse = button(header, "ras-collapse", "收起最近论证");
-    collapse.title = "收起（Esc）";
-    setIcon(collapse, "chevron-down");
     this.list = append(this.body, "ul", "ras-items");
     this.list.setAttribute("aria-label", "最近 100 条论证");
     this.status = append(this.body, "p", "ras-status");
@@ -77,8 +77,7 @@ export class RecentPanel {
     this.status.hidden = true;
 
     const signal = this.events.signal;
-    this.capsule.addEventListener("click", () => this.toggle(true), { signal });
-    collapse.addEventListener("click", () => this.toggle(true), { signal });
+    this.rail.addEventListener("click", () => this.toggle(true), { signal });
     this.list.addEventListener("click", event => { void this.openRow(event); }, { signal });
     this.root.addEventListener("keydown", event => this.onKey(event), { signal });
     window.addEventListener("resize", () => this.place(), { signal });
@@ -93,8 +92,9 @@ export class RecentPanel {
     const firstPath = this.rowButtons[Math.floor(oldScroll / ROW_HEIGHT)]?.dataset.path;
     this.count.textContent = "今日 " + data.today;
     this.count.title = "今天创建 " + data.today + " 条论证";
-    this.capsuleCount.textContent = String(data.unread);
-    this.capsule.setAttribute("aria-label", "展开最近论证，" + data.unread + " 条未读");
+    this.unread = data.unread;
+    this.railCount.textContent = String(data.unread);
+    this.updateRail();
 
     const fragment = this.window.document.createDocumentFragment();
     this.rowButtons = [];
@@ -152,8 +152,8 @@ export class RecentPanel {
     this.updateVisibility();
     this.save();
     if (focus) {
-      if (this.state.collapsed) this.capsule.focus();
-      else (this.rowButtons.find(control => control.tabIndex === 0) ?? this.body.querySelector("button"))?.focus();
+      const target = this.state.collapsed ? this.rail : this.rowButtons.find(control => control.tabIndex === 0) ?? this.rail;
+      target.focus({preventScroll: true});
     }
   }
 
@@ -164,51 +164,47 @@ export class RecentPanel {
 
   private updateVisibility(): void {
     this.body.hidden = this.state.collapsed;
-    this.capsule.hidden = !this.state.collapsed;
-    this.capsule.setAttribute("aria-expanded", String(!this.state.collapsed));
+    this.updateRail();
     this.place();
   }
 
-  private place(position = this.drag?.moved ? this.currentDragPosition() : this.state.position): Position {
-    const width = this.root.offsetWidth;
-    const height = this.root.offsetHeight;
-    const right = this.window.innerWidth - width;
-    const bottom = this.window.innerHeight - height;
-    const x = Math.min(Math.max(MARGIN, position?.x ?? right - 18), Math.max(MARGIN, right - MARGIN));
-    const y = Math.min(Math.max(MARGIN, position?.y ?? bottom - 36), Math.max(MARGIN, bottom - MARGIN));
-    this.root.style.left = x + "px";
-    this.root.style.top = y + "px";
-    return { x, y };
+  private updateRail(): void {
+    const action = this.state.collapsed ? "展开最近论证" : "收起最近论证";
+    this.rail.setAttribute("aria-expanded", String(!this.state.collapsed));
+    this.rail.setAttribute("aria-label", action + "，" + this.unread + " 条未读");
+    this.rail.title = action + " · " + this.unread + " 条未读";
   }
 
-  private currentDragPosition(): Position | null {
-    if (!this.drag) return null;
-    return { x: this.drag.origin.x + this.drag.x, y: this.drag.origin.y + this.drag.y };
+  private place(center = this.drag?.moved ? this.drag.center : this.state.centerY): number {
+    const height = this.root.offsetHeight;
+    const viewport = this.window.innerHeight;
+    const top = Math.min(Math.max(MARGIN, (center ?? viewport * .68) - height / 2),
+      Math.max(MARGIN, viewport - height - MARGIN));
+    this.root.style.top = top + "px";
+    return top + height / 2;
   }
 
   private bindDrag(handle: HTMLElement, signal: AbortSignal): void {
-    let start: Position | null = null;
     handle.addEventListener("pointerdown", event => {
       if (event.button !== 0 || this.drag) return;
       const rect = this.root.getBoundingClientRect();
-      start = { x: event.clientX, y: event.clientY };
-      this.drag = { pointer: event.pointerId, x: 0, y: 0, origin: { x: rect.x, y: rect.y }, moved: false };
+      this.drag = { pointer: event.pointerId, startY: event.clientY - rect.top - rect.height / 2,
+        center: rect.top + rect.height / 2, moved: false };
       handle.setPointerCapture(event.pointerId);
     }, { signal });
     handle.addEventListener("pointermove", event => {
-      if (!start || !this.drag || event.pointerId !== this.drag.pointer) return;
-      this.drag.x = event.clientX - start.x;
-      this.drag.y = event.clientY - start.y;
-      this.drag.moved ||= Math.abs(this.drag.x) + Math.abs(this.drag.y) >= 4;
+      if (!this.drag || event.pointerId !== this.drag.pointer) return;
+      const center = event.clientY - this.drag.startY;
+      this.drag.moved ||= Math.abs(center - this.drag.center) >= 4;
+      if (this.drag.moved) this.drag.center = center;
       if (this.drag.moved) this.place();
     }, { signal });
     const end = (event: PointerEvent) => {
       if (!this.drag || event.pointerId !== this.drag.pointer) return;
-      const position = this.drag.moved ? this.place() : null;
+      const center = this.drag.moved ? this.place() : null;
       this.drag = null;
-      start = null;
-      if (position) {
-        this.state.position = position;
+      if (center !== null) {
+        this.state.centerY = center;
         this.save();
       }
     };

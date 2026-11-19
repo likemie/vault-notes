@@ -180,6 +180,7 @@ updated: 2026-11-15
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
+> | [[Vertical Case Study]] | 前身方法 | 垂直案例研究是 CCS 的直接前身，为其确立了贯通微观场所与宏观全球力量的垂直轴认识论基石。 |
 > | [[Case Study]] | 基础[[Paradigm\|范式]] | CCS 是对传统静态、封闭式案例研究在[[Epistemology\|认识论]]与操作架构上的重大革新。 |
 > | [[Cultural Political Economy]] | 理论支撑 | 文化政治经济学对语义、制度与结构的选择保留机制为 CCS 提供理论基础。 |
 > | [[Fieldwork]] | 核心技术 | 深入微观学校与社区的多地点田野调查为 CCS 垂直轴底层提供厚实的实证材料。 |
@@ -189,6 +190,7 @@ updated: 2026-11-15
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Vavrus_Bartlett_2006_CICE|Vavrus and Bartlett (2006)]] — 提出作为 CCS 前身的垂直案例研究方法，奠定了跨越微观实践与宏观政策尺度的垂直轴认识论基础。
 > - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 采用部门间对照比较案例研究设计，对比全球教育治理与全球公共卫生部门在证据层级、知识转化平台与多边治理机制上的异同，提炼教育[[Evidence-Based Policy-Making|循证决策]]改革的借鉴路径（pp. 28–29）。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 108–110, 112)]] — 评析比较教育学者如何通过精细的多地点多标度比较[[Case Study|案例研究]]（CCS），结合几内亚与美法阅读教学、以色列分权改革、印度女教师培训、巴布亚新几内亚乡村反抗及巴勒斯坦幼教机构，示范贯通跨国标准、国家中介与微观课堂的跨尺度“双重视野”分析策略。
 > - [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] — 运用 CCS 框架比较新加坡与阿联酋的[[International Education Hubs|国际教育枢纽]]建设，重点利用横贯维度追溯 1990–2018 年间全球金融危机与[[Geopolitics|地缘政治]]对多领域政策混合体的历史重塑。

@@ -3,13 +3,12 @@ import type { Checkpoint } from "./recent-store";
 export const ARGUMENT_ROOT = "wiki/arguments/";
 export const BATCH_MS = 200;
 
-export interface Position { x: number; y: number }
-export interface PanelState { collapsed: boolean; position: Position | null }
+export interface PanelState { dock: "right"; collapsed: boolean; centerY: number | null }
 export interface SaveState { panel: PanelState; checkpoint: Checkpoint | null }
 
 export function readSaved(value: Partial<SaveState> | null): SaveState {
   const panel = value?.panel;
-  const position = panel?.position;
+  const docked = panel?.dock === "right";
   const old = value?.checkpoint;
   const checkpoint = old && Number.isFinite(old.at) && typeof old.day === "string" && Array.isArray(old.recent)
     ? {
@@ -22,8 +21,9 @@ export function readSaved(value: Partial<SaveState> | null): SaveState {
     : null;
   return {
     panel: {
-      collapsed: typeof panel?.collapsed === "boolean" ? panel.collapsed : false,
-      position: position && Number.isFinite(position.x) && Number.isFinite(position.y) ? position : null,
+      dock: "right",
+      collapsed: docked && typeof panel.collapsed === "boolean" ? panel.collapsed : true,
+      centerY: docked && typeof panel.centerY === "number" && Number.isFinite(panel.centerY) ? panel.centerY : null,
     },
     checkpoint,
   };

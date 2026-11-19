@@ -3799,7 +3799,7 @@
       "title": ""
     },
     "Anderson, 1961": {
-      "doi": "",
+      "doi": "10.1007/BF01424911",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings.md",
@@ -3813,7 +3813,7 @@
         "wiki/persons/uk/Brian Holmes.md",
         "wiki/persons/us/C. Arnold Anderson.md"
       ],
-      "title": ""
+      "title": "Methodology of comparative education"
     },
     "Anderson, 1977": {
       "doi": "",
@@ -10316,6 +10316,12 @@
       ],
       "title": ""
     },
+    "Bereday & Pennar, 1960": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The politics of Soviet education"
+    },
     "Bereday's book, 1964": {
       "doi": "",
       "isbn": "",
@@ -10350,13 +10356,14 @@
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mattheou_2009_ScientificParadigm.md",
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Rust_2009_Reflections.md",
         "wiki/arguments/journal-articles/Comparative Education/Argument_Cowen_2009_CE.md",
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md",
         "wiki/concepts/comparative-education/Academic Iconography.md",
         "wiki/concepts/comparative-education/Scientific Paradigm.md",
         "wiki/concepts/comparative-education/Whiggism.md",
         "wiki/methods/qualitative/Bereday's Comparative Method.md",
         "wiki/persons/us/George Bereday.md"
       ],
-      "title": ""
+      "title": "Comparative method in education"
     },
     "Bereday, 1965": {
       "doi": "",
@@ -10374,6 +10381,14 @@
         "wiki/persons/us/Isaac Kandel.md"
       ],
       "title": ""
+    },
+    "Bereday, 1969": {
+      "doi": "10.2753/EUE1056-4934010106",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
+      ],
+      "title": "Greetings from advisory board members"
     },
     "Bereiter, 2002": {
       "doi": "",
@@ -14599,12 +14614,12 @@
       "title": ""
     },
     "Bray, 2008": {
-      "doi": "",
+      "doi": "10.1007/s11159-008-9089-6",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
       ],
-      "title": ""
+      "title": "The WCCES and intercultural dialogue: Historical perspectives and continuing challenges"
     },
     "Brazziel & Terrell, 1962": {
       "doi": "",
@@ -14960,12 +14975,12 @@
       "title": ""
     },
     "Brickman, 1981": {
-      "doi": "",
+      "doi": "10.2753/EUE1056-4934130103",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
       ],
-      "title": ""
+      "title": "Editor's introduction"
     },
     "Brickman, 2002": {
       "datasets": [
@@ -19510,6 +19525,12 @@
         "wiki/concepts/instruction-pedagogy/Funds of Knowledge.md"
       ],
       "title": ""
+    },
+    "Catlaks, 2009": {
+      "doi": "10.2753/EUE1056-4934410102",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Greetings from the advisory board members"
     },
     "Cattan, 2014": {
       "datasets": [
@@ -41445,7 +41466,6 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md",
         "wiki/concepts/comparative-education/Development Turn in Comparative Education.md"
       ],
       "title": ""
@@ -46774,11 +46794,11 @@
     },
     "Hans, 1950": {
       "doi": "",
-      "isbn": "",
+      "isbn": "9780415175968",
       "seen_in": [
         "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
       ],
-      "title": ""
+      "title": "Comparative education: A study of educational factors and traditions"
     },
     "Hans, 1952": {
       "doi": "",
@@ -53124,6 +53144,14 @@
       ],
       "title": ""
     },
+    "Idenburg, 1969": {
+      "doi": "10.2753/EUE1056-4934010106",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
+      ],
+      "title": "Greetings from advisory board members"
+    },
     "Igel, 2010": {
       "datasets": [
         "metax:S2187"
@@ -57361,7 +57389,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
       ],
-      "title": ""
+      "title": "Studies in comparative education"
     },
     "Kandel, 1933b": {
       "doi": "",
@@ -57369,7 +57397,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
       ],
-      "title": ""
+      "title": "Comparative education"
     },
     "Kandel, 1955": {
       "doi": "",
@@ -58442,7 +58470,7 @@
       "title": ""
     },
     "Kazamias & Schwartz, 1977": {
-      "doi": "",
+      "doi": "10.1086/445946",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_ForgottenThemes.md",
@@ -58452,7 +58480,7 @@
         "wiki/persons/us/Andreas Kazamias.md",
         "wiki/persons/us/Isaac Kandel.md"
       ],
-      "title": ""
+      "title": "Intellectual and ideological perspectives in comparative education: An interpretation"
     },
     "Kazamias, 1961": {
       "doi": "",
@@ -80023,13 +80051,13 @@
       "title": ""
     },
     "Nash, 1977": {
-      "doi": "",
+      "doi": "10.1086/445945",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_ForgottenThemes.md",
         "wiki/persons/us/Robert Ulich.md"
       ],
-      "title": ""
+      "title": "A humanistic gift from Europe: Robert Ulich's contribution to comparative education"
     },
     "Nash, 2003": {
       "doi": "",
@@ -81635,7 +81663,7 @@
     },
     "Noah & Eckstein, 1969": {
       "doi": "",
-      "isbn": "",
+      "isbn": "9780023884108",
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Beech_2009_GlobalGarden.md",
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Cowen_2009_HistoryCreation.md",
@@ -81678,7 +81706,7 @@
         "wiki/persons/switzerland/Johann Heinrich Pestalozzi.md",
         "wiki/persons/uk/Nicholas Hans.md"
       ],
-      "title": ""
+      "title": "Toward a science of comparative education"
     },
     "Noah W. Sobe & Trevor Fischer, 2009": {
       "doi": "",
@@ -81709,12 +81737,12 @@
       "title": ""
     },
     "Noah, 2006": {
-      "doi": "",
+      "doi": "10.2753/EUE1056-4934380301",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
       ],
-      "title": ""
+      "title": "U.S. social and educational research during the cold war: An interview with Harold J. Noah by Gita Steiner-Khamsi"
     },
     "Noble, 1967": {
       "datasets": [
@@ -87552,14 +87580,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Competition State.md"
-      ],
-      "title": ""
-    },
-    "Philip J. Idenburg, 1969": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
       ],
       "title": ""
     },
@@ -93732,12 +93752,12 @@
       "title": ""
     },
     "Robinsohn, 1969": {
-      "doi": "",
+      "doi": "10.2753/EUE1056-4934010106",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
       ],
-      "title": ""
+      "title": "Greetings from advisory board members"
     },
     "Robinson & Kelley, 2007": {
       "doi": "",
@@ -96567,17 +96587,17 @@
         "wiki/concepts/research-methodology/Unit of Analysis.md",
         "wiki/persons/uk/Michael Sadler.md"
       ],
-      "title": ""
+      "title": "How far can we learn anything of practical value from the study of foreign systems of education?"
     },
     "Sadler, 1964": {
-      "doi": "",
+      "doi": "10.1086/445016",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Cowen_2009_HistoryCreation.md",
         "wiki/concepts/comparative-education/Academic Iconography.md",
         "wiki/concepts/comparative-education/Intangible Spiritual Forces.md"
       ],
-      "title": ""
+      "title": "How can we learn anything of practical value from the study of foreign systems of education?"
     },
     "Sadler, 1979": {
       "doi": "",
@@ -97759,14 +97779,6 @@
         "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md"
       ],
       "title": "Equality, Adequacy, and Education for Citizenship"
-    },
-    "Saul Robinsohn, 1969": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
-      ],
-      "title": ""
     },
     "Saunders, 2014": {
       "datasets": [
@@ -102147,6 +102159,14 @@
       ],
       "title": ""
     },
+    "Silova & Brehm, 2009": {
+      "doi": "10.2753/EUE1056-4934410201",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
+      ],
+      "title": "Education and geopolitics in a changing Europe: Forty years of scholarship in European Education"
+    },
     "Silova & Brehm, 2015": {
       "doi": "",
       "isbn": "",
@@ -104160,6 +104180,12 @@
       ],
       "title": ""
     },
+    "Sobe, 2009": {
+      "doi": "10.2753/EUE1056-4934410102",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Greetings from the advisory board members"
+    },
     "Sobe, 2017": {
       "doi": "",
       "isbn": "",
@@ -105193,6 +105219,46 @@
       "seen_in": [],
       "title": "Measuring the success of small-group learning in college-level SMET teaching: A meta-analysis."
     },
+    "Springer, 1969": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
+      ],
+      "title": "Recent Curriculum Developments in France, West Germany and Italy"
+    },
+    "Springer, 1969a": {
+      "doi": "10.2753/EUE1056-4934010101",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
+      ],
+      "title": "Editor's introduction"
+    },
+    "Springer, 1969b": {
+      "doi": "10.2753/EUE1056-4934010201",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Editor's introduction"
+    },
+    "Springer, 1977": {
+      "doi": "10.1086/445958",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Education, curriculum, and pedagogy"
+    },
+    "Springer, 2006": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Ursula Springer"
+    },
+    "Springer, 2008": {
+      "doi": "",
+      "isbn": "9780826111128",
+      "seen_in": [],
+      "title": "The history of Springer Publishing Company"
+    },
     "Springer, 2010": {
       "datasets": [
         "eef:performance-pay"
@@ -105954,6 +106020,14 @@
       ],
       "title": ""
     },
+    "Steiner-Khamsi & deJong-Lambert, 2006": {
+      "doi": "10.2753/EUE1056-4934380300",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
+      ],
+      "title": "Special issue: Post–Cold War studies in education (Part I)"
+    },
     "Steiner-Khamsi et al., 2020": {
       "doi": "",
       "isbn": "",
@@ -106023,7 +106097,7 @@
       "title": ""
     },
     "Steiner-Khamsi, 2006": {
-      "doi": "",
+      "doi": "10.2753/EUE1056-4934380302",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Klerides_2023_CE.md",
@@ -106031,7 +106105,7 @@
         "wiki/facts/global/1967 Williamsburg Conference on the World Crisis in Education.md",
         "wiki/facts/global/International Institute for Educational Planning.md"
       ],
-      "title": ""
+      "title": "The development turn in comparative education"
     },
     "Steiner-Khamsi, 2012": {
       "doi": "",
@@ -113403,7 +113477,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
       ],
-      "title": ""
+      "title": "Some observations concerning the study of comparative education"
     },
     "Ulich, 1961": {
       "doi": "",
@@ -119190,12 +119264,12 @@
       "title": "Relationship of diagnostic-cooperative teaching approach to mathematics achievement and personal-social adjustment of inner city intermediate students"
     },
     "Wilson, 1994": {
-      "doi": "",
+      "doi": "10.1086/447271",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
       ],
-      "title": ""
+      "title": "Comparative and international education: Fraternal or Siamese twins? A preliminary genealogy of our twin fields"
     },
     "Wilson, 1998": {
       "datasets": [

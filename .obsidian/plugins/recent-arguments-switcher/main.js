@@ -173,7 +173,7 @@ var ARGUMENT_ROOT = "wiki/arguments/";
 var BATCH_MS = 200;
 function readSaved(value) {
   const panel = value?.panel;
-  const position = panel?.position;
+  const docked = panel?.dock === "right";
   const old = value?.checkpoint;
   const checkpoint = old && Number.isFinite(old.at) && typeof old.day === "string" && Array.isArray(old.recent) ? {
     at: old.at,
@@ -183,8 +183,9 @@ function readSaved(value) {
   } : null;
   return {
     panel: {
-      collapsed: typeof panel?.collapsed === "boolean" ? panel.collapsed : false,
-      position: position && Number.isFinite(position.x) && Number.isFinite(position.y) ? position : null
+      dock: "right",
+      collapsed: docked && typeof panel.collapsed === "boolean" ? panel.collapsed : true,
+      centerY: docked && typeof panel.centerY === "number" && Number.isFinite(panel.centerY) ? panel.centerY : null
     },
     checkpoint
   };
@@ -193,7 +194,7 @@ function readSaved(value) {
 // src/panel.ts
 var import_obsidian = require("obsidian");
 var MARGIN = 8;
-var ROW_HEIGHT = 28;
+var ROW_HEIGHT = 26;
 function append(parent, tag, className, text) {
   const node = parent.ownerDocument.createElement(tag);
   if (className) node.className = className;
@@ -215,15 +216,18 @@ var RecentPanel = class {
     this.save = save;
     this.events = new AbortController();
     this.rowButtons = [];
+    this.unread = 0;
     this.drag = null;
     const { document } = window2;
     this.root = append(document.body, "aside", "ras-float");
     this.root.setAttribute("aria-label", "\u6700\u8FD1\u8BBA\u8BC1\u5207\u6362\u5668");
-    this.capsule = button(this.root, "ras-capsule", "\u5C55\u5F00\u6700\u8FD1\u8BBA\u8BC1");
-    this.capsule.setAttribute("aria-controls", "ras-expanded");
-    (0, import_obsidian.setIcon)(append(this.capsule, "span", "ras-icon"), "history");
-    append(this.capsule, "span", "", "\u8BBA\u8BC1");
-    this.capsuleCount = append(this.capsule, "span", "ras-capsule-count", "0");
+    this.rail = button(this.root, "ras-rail", "\u5C55\u5F00\u6700\u8FD1\u8BBA\u8BC1");
+    this.rail.setAttribute("aria-controls", "ras-expanded");
+    const railIcon = append(this.rail, "span", "ras-rail-icon");
+    railIcon.setAttribute("aria-hidden", "true");
+    for (let i = 0; i < 3; i++) append(railIcon, "span");
+    append(this.rail, "span", "ras-rail-label", "\u8BBA\u8BC1");
+    this.railCount = append(this.rail, "span", "ras-rail-count", "0");
     this.body = append(this.root, "section", "ras-body");
     this.body.id = "ras-expanded";
     const header = append(this.body, "header", "ras-header");
@@ -232,19 +236,15 @@ var RecentPanel = class {
     const title = append(handle, "h2", "ras-heading", "\u6700\u65B0\u8BBA\u8BC1");
     title.id = "ras-heading";
     this.body.setAttribute("aria-labelledby", title.id);
-    handle.title = "\u62D6\u52A8\u8C03\u6574\u4F4D\u7F6E";
+    handle.title = "\u6CBF\u53F3\u8FB9\u62D6\u52A8\u9762\u677F";
     this.count = append(handle, "span", "ras-today", "\u4ECA\u65E5 0");
-    const collapse = button(header, "ras-collapse", "\u6536\u8D77\u6700\u8FD1\u8BBA\u8BC1");
-    collapse.title = "\u6536\u8D77\uFF08Esc\uFF09";
-    (0, import_obsidian.setIcon)(collapse, "chevron-down");
     this.list = append(this.body, "ul", "ras-items");
     this.list.setAttribute("aria-label", "\u6700\u8FD1 100 \u6761\u8BBA\u8BC1");
     this.status = append(this.body, "p", "ras-status");
     this.status.setAttribute("role", "status");
     this.status.hidden = true;
     const signal = this.events.signal;
-    this.capsule.addEventListener("click", () => this.toggle(true), { signal });
-    collapse.addEventListener("click", () => this.toggle(true), { signal });
+    this.rail.addEventListener("click", () => this.toggle(true), { signal });
     this.list.addEventListener("click", (event) => {
       void this.openRow(event);
     }, { signal });
@@ -260,8 +260,9 @@ var RecentPanel = class {
     const firstPath = this.rowButtons[Math.floor(oldScroll / ROW_HEIGHT)]?.dataset.path;
     this.count.textContent = "\u4ECA\u65E5 " + data.today;
     this.count.title = "\u4ECA\u5929\u521B\u5EFA " + data.today + " \u6761\u8BBA\u8BC1";
-    this.capsuleCount.textContent = String(data.unread);
-    this.capsule.setAttribute("aria-label", "\u5C55\u5F00\u6700\u8FD1\u8BBA\u8BC1\uFF0C" + data.unread + " \u6761\u672A\u8BFB");
+    this.unread = data.unread;
+    this.railCount.textContent = String(data.unread);
+    this.updateRail();
     const fragment = this.window.document.createDocumentFragment();
     this.rowButtons = [];
     if (!data.rows.length) {
@@ -315,8 +316,8 @@ var RecentPanel = class {
     this.updateVisibility();
     this.save();
     if (focus) {
-      if (this.state.collapsed) this.capsule.focus();
-      else (this.rowButtons.find((control) => control.tabIndex === 0) ?? this.body.querySelector("button"))?.focus();
+      const target = this.state.collapsed ? this.rail : this.rowButtons.find((control) => control.tabIndex === 0) ?? this.rail;
+      target.focus({ preventScroll: true });
     }
   }
   destroy() {
@@ -325,49 +326,51 @@ var RecentPanel = class {
   }
   updateVisibility() {
     this.body.hidden = this.state.collapsed;
-    this.capsule.hidden = !this.state.collapsed;
-    this.capsule.setAttribute("aria-expanded", String(!this.state.collapsed));
+    this.updateRail();
     this.place();
   }
-  place(position = this.drag?.moved ? this.currentDragPosition() : this.state.position) {
-    const width = this.root.offsetWidth;
-    const height = this.root.offsetHeight;
-    const right = this.window.innerWidth - width;
-    const bottom = this.window.innerHeight - height;
-    const x = Math.min(Math.max(MARGIN, position?.x ?? right - 18), Math.max(MARGIN, right - MARGIN));
-    const y = Math.min(Math.max(MARGIN, position?.y ?? bottom - 36), Math.max(MARGIN, bottom - MARGIN));
-    this.root.style.left = x + "px";
-    this.root.style.top = y + "px";
-    return { x, y };
+  updateRail() {
+    const action = this.state.collapsed ? "\u5C55\u5F00\u6700\u8FD1\u8BBA\u8BC1" : "\u6536\u8D77\u6700\u8FD1\u8BBA\u8BC1";
+    this.rail.setAttribute("aria-expanded", String(!this.state.collapsed));
+    this.rail.setAttribute("aria-label", action + "\uFF0C" + this.unread + " \u6761\u672A\u8BFB");
+    this.rail.title = action + " \xB7 " + this.unread + " \u6761\u672A\u8BFB";
   }
-  currentDragPosition() {
-    if (!this.drag) return null;
-    return { x: this.drag.origin.x + this.drag.x, y: this.drag.origin.y + this.drag.y };
+  place(center = this.drag?.moved ? this.drag.center : this.state.centerY) {
+    const height = this.root.offsetHeight;
+    const viewport = this.window.innerHeight;
+    const top = Math.min(
+      Math.max(MARGIN, (center ?? viewport * 0.68) - height / 2),
+      Math.max(MARGIN, viewport - height - MARGIN)
+    );
+    this.root.style.top = top + "px";
+    return top + height / 2;
   }
   bindDrag(handle, signal) {
-    let start = null;
     handle.addEventListener("pointerdown", (event) => {
       if (event.button !== 0 || this.drag) return;
       const rect = this.root.getBoundingClientRect();
-      start = { x: event.clientX, y: event.clientY };
-      this.drag = { pointer: event.pointerId, x: 0, y: 0, origin: { x: rect.x, y: rect.y }, moved: false };
+      this.drag = {
+        pointer: event.pointerId,
+        startY: event.clientY - rect.top - rect.height / 2,
+        center: rect.top + rect.height / 2,
+        moved: false
+      };
       handle.setPointerCapture(event.pointerId);
     }, { signal });
     handle.addEventListener("pointermove", (event) => {
       var _a;
-      if (!start || !this.drag || event.pointerId !== this.drag.pointer) return;
-      this.drag.x = event.clientX - start.x;
-      this.drag.y = event.clientY - start.y;
-      (_a = this.drag).moved || (_a.moved = Math.abs(this.drag.x) + Math.abs(this.drag.y) >= 4);
+      if (!this.drag || event.pointerId !== this.drag.pointer) return;
+      const center = event.clientY - this.drag.startY;
+      (_a = this.drag).moved || (_a.moved = Math.abs(center - this.drag.center) >= 4);
+      if (this.drag.moved) this.drag.center = center;
       if (this.drag.moved) this.place();
     }, { signal });
     const end = (event) => {
       if (!this.drag || event.pointerId !== this.drag.pointer) return;
-      const position = this.drag.moved ? this.place() : null;
+      const center = this.drag.moved ? this.place() : null;
       this.drag = null;
-      start = null;
-      if (position) {
-        this.state.position = position;
+      if (center !== null) {
+        this.state.centerY = center;
         this.save();
       }
     };

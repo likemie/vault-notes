@@ -2360,11 +2360,14 @@
     "Benz, 2010": "Benz, 2010",
     "Bercovitz & Feldman (2007)": "Bercovitz & Feldman, 2007",
     "Bercovitz & Feldman, 2007": "Bercovitz & Feldman, 2007",
+    "Bereday & Pennar (1960)": "Bereday & Pennar, 1960",
+    "Bereday & Pennar, 1960": "Bereday & Pennar, 1960",
     "Bereday (1957)": "Bereday, 1957",
     "Bereday (1960)": "Bereday, 1960",
     "Bereday (1964)": "Bereday, 1964",
     "Bereday (1965)": "Bereday, 1965",
     "Bereday (1966)": "Bereday, 1966",
+    "Bereday (1969)": "Bereday, 1969",
     "Bereday's book (1964)": "Bereday's book, 1964",
     "Bereday's book, 1964": "Bereday's book, 1964",
     "Bereday, 1957": "Bereday, 1957",
@@ -2372,6 +2375,7 @@
     "Bereday, 1964": "Bereday, 1964",
     "Bereday, 1965": "Bereday, 1965",
     "Bereday, 1966": "Bereday, 1966",
+    "Bereday, 1969": "Bereday, 1969",
     "Bereiter (2002)": "Bereiter, 2002",
     "Bereiter (2006)": "Bereiter, 2006",
     "Bereiter, 2002": "Bereiter, 2002",
@@ -4421,6 +4425,8 @@
     "Catalini et al., 2015": "Catalini et al., 2015",
     "Cathy Amanti (1992)": "Cathy Amanti, 1992",
     "Cathy Amanti, 1992": "Cathy Amanti, 1992",
+    "Catlaks (2009)": "Catlaks, 2009",
+    "Catlaks, 2009": "Catlaks, 2009",
     "Cattan (2014)": "Cattan, 2014",
     "Cattan, 2014": "Cattan, 2014",
     "Catts (1992)": "Catts, 1992",
@@ -12086,6 +12092,8 @@
     "Ide et al. (1980)": "Ide et al., 1980",
     "Ide et al., 1980": "Ide et al., 1980",
     "Ide, 2016": "Ide, 2016",
+    "Idenburg (1969)": "Idenburg, 1969",
+    "Idenburg, 1969": "Idenburg, 1969",
     "Igel (2010)": "Igel, 2010",
     "Igel, 2010": "Igel, 2010",
     "Ignotus (1972)": "Ignotus, 1972",
@@ -13077,8 +13085,8 @@
     "Kandel (1955)": "Kandel, 1955",
     "Kandel (1959)": "Kandel, 1959",
     "Kandel, 1933": "Kandel, 1933a",
-    "Kandel, 1933a": "Kandel, 1933b",
-    "Kandel, 1933b": "Kandel, 1933c",
+    "Kandel, 1933a": "Kandel, 1933c",
+    "Kandel, 1933b": "Kandel, 1933b",
     "Kandel, 1933c": "Kandel, 1933c",
     "Kandel, 1955": "Kandel, 1955",
     "Kandel, 1959": "Kandel, 1959",
@@ -19955,8 +19963,6 @@
     "Philip Cooke, 1992": "Philip Cooke, 1992",
     "Philip G. Cerny (1990)": "Philip G. Cerny, 1990",
     "Philip G. Cerny, 1990": "Philip G. Cerny, 1990",
-    "Philip J. Idenburg (1969)": "Philip J. Idenburg, 1969",
-    "Philip J. Idenburg, 1969": "Philip J. Idenburg, 1969",
     "Philip Y. Gee (1995)": "Philip Y. Gee, 1995",
     "Philip Y. Gee, 1995": "Philip Y. Gee, 1995",
     "Philipp Mayring (2000)": "Philipp Mayring, 2000",
@@ -22287,8 +22293,6 @@
     "Satterfield et al., 2009": "Satterfield et al., 2009",
     "Satz (2007)": "Satz, 2007",
     "Satz, 2007": "Satz, 2007",
-    "Saul Robinsohn (1969)": "Saul Robinsohn, 1969",
-    "Saul Robinsohn, 1969": "Saul Robinsohn, 1969",
     "Saunders (2014)": "Saunders, 2014",
     "Saunders (2015)": "Saunders, 2015",
     "Saunders, 2014": "Saunders, 2014",
@@ -23280,7 +23284,9 @@
     "Silk & Stern, 1981": "Silk & Stern, 1981",
     "Silova & Auld (2019)": "Silova & Auld, 2019",
     "Silova & Auld, 2019": "Silova & Auld, 2019",
+    "Silova & Brehm (2009)": "Silova & Brehm, 2009",
     "Silova & Brehm (2015)": "Silova & Brehm, 2015",
+    "Silova & Brehm, 2009": "Silova & Brehm, 2009",
     "Silova & Brehm, 2015": "Silova & Brehm, 2015",
     "Silova (2020)": "Silova, 2020",
     "Silova et al. (2020)": "Silova et al., 2020",
@@ -23746,7 +23752,9 @@
     "So, 2013": "So, 2013",
     "Sobe & Kowalczyk (2012)": "Sobe & Kowalczyk, 2012",
     "Sobe & Kowalczyk, 2012": "Sobe & Kowalczyk, 2012",
+    "Sobe (2009)": "Sobe, 2009",
     "Sobe (2017)": "Sobe, 2017",
+    "Sobe, 2009": "Sobe, 2009",
     "Sobe, 2017": "Sobe, 2017",
     "Sobel (1982)": "Sobel, 1982",
     "Sobel, 1982": "Sobel, 1982",
@@ -23977,6 +23985,12 @@
     "Spring, 1998": "Spring, 1998",
     "Spring, 2013": "Spring, 2013",
     "Spring, 2015": "Spring, 2015",
+    "Springer (1969a)": "Springer, 1969a",
+    "Springer (1969b)": "Springer, 1969b",
+    "Springer (1969c)": "Springer, 1969c",
+    "Springer (1977)": "Springer, 1977",
+    "Springer (2006)": "Springer, 2006",
+    "Springer (2008)": "Springer, 2008",
     "Springer (2010)": "Springer, 2010",
     "Springer (2012a)": "Springer, 2012a",
     "Springer (2012b)": "Springer, 2012b",
@@ -23984,6 +23998,13 @@
     "Springer (2023)": "Springer, 2023",
     "Springer et al. (1999)": "Springer et al., 1999",
     "Springer et al., 1999": "Springer et al., 1999",
+    "Springer, 1969": "Springer, 1969c",
+    "Springer, 1969a": "Springer, 1969a",
+    "Springer, 1969b": "Springer, 1969b",
+    "Springer, 1969c": "Springer, 1969c",
+    "Springer, 1977": "Springer, 1977",
+    "Springer, 2006": "Springer, 2006",
+    "Springer, 2008": "Springer, 2008",
     "Springer, 2010": "Springer, 2010",
     "Springer, 2012": "Springer, 2012a",
     "Springer, 2012a": "Springer, 2012b",
@@ -24155,6 +24176,8 @@
     "Steinberg, 1955": "Steinberg, 1955",
     "Steiner-Khamsi & Stolpe (2006)": "Steiner-Khamsi & Stolpe, 2006",
     "Steiner-Khamsi & Stolpe, 2006": "Steiner-Khamsi & Stolpe, 2006",
+    "Steiner-Khamsi & deJong-Lambert (2006)": "Steiner-Khamsi & deJong-Lambert, 2006",
+    "Steiner-Khamsi & deJong-Lambert, 2006": "Steiner-Khamsi & deJong-Lambert, 2006",
     "Steiner-Khamsi (2000)": "Steiner-Khamsi, 2000",
     "Steiner-Khamsi (2003)": "Steiner-Khamsi, 2003",
     "Steiner-Khamsi (2004)": "Steiner-Khamsi, 2004",
@@ -35532,7 +35555,7 @@
         "Anderson, 1961",
         "Anderson (1961)"
       ],
-      "doi": "",
+      "doi": "10.1007/BF01424911",
       "identity_keys": [
         "Anderson, 1961"
       ],
@@ -35549,7 +35572,7 @@
         "wiki/persons/uk/Brian Holmes.md",
         "wiki/persons/us/C. Arnold Anderson.md"
       ],
-      "title": ""
+      "title": "Methodology of comparative education"
     },
     "Anderson, 1977": {
       "aliases": [
@@ -46394,6 +46417,19 @@
       ],
       "title": ""
     },
+    "Bereday & Pennar, 1960": {
+      "aliases": [
+        "Bereday & Pennar, 1960",
+        "Bereday & Pennar (1960)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bereday & Pennar, 1960"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "The politics of Soviet education"
+    },
     "Bereday's book, 1964": {
       "aliases": [
         "Bereday's book, 1964",
@@ -46456,13 +46492,14 @@
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mattheou_2009_ScientificParadigm.md",
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Rust_2009_Reflections.md",
         "wiki/arguments/journal-articles/Comparative Education/Argument_Cowen_2009_CE.md",
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md",
         "wiki/concepts/comparative-education/Academic Iconography.md",
         "wiki/concepts/comparative-education/Scientific Paradigm.md",
         "wiki/concepts/comparative-education/Whiggism.md",
         "wiki/methods/qualitative/Bereday's Comparative Method.md",
         "wiki/persons/us/George Bereday.md"
       ],
-      "title": ""
+      "title": "Comparative method in education"
     },
     "Bereday, 1965": {
       "aliases": [
@@ -46494,6 +46531,21 @@
         "wiki/persons/us/Isaac Kandel.md"
       ],
       "title": ""
+    },
+    "Bereday, 1969": {
+      "aliases": [
+        "Bereday, 1969",
+        "Bereday (1969)"
+      ],
+      "doi": "10.2753/EUE1056-4934010106",
+      "identity_keys": [
+        "Bereday, 1969"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
+      ],
+      "title": "Greetings from advisory board members"
     },
     "Bereiter, 2002": {
       "aliases": [
@@ -53536,7 +53588,7 @@
         "Bray, 2008",
         "Bray (2008)"
       ],
-      "doi": "",
+      "doi": "10.1007/s11159-008-9089-6",
       "identity_keys": [
         "Bray, 2008"
       ],
@@ -53544,7 +53596,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
       ],
-      "title": ""
+      "title": "The WCCES and intercultural dialogue: Historical perspectives and continuing challenges"
     },
     "Brazziel & Terrell, 1962": {
       "aliases": [
@@ -54133,7 +54185,7 @@
         "Brickman, 1981",
         "Brickman (1981)"
       ],
-      "doi": "",
+      "doi": "10.2753/EUE1056-4934130103",
       "identity_keys": [
         "Brickman, 1981"
       ],
@@ -54141,7 +54193,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
       ],
-      "title": ""
+      "title": "Editor's introduction"
     },
     "Brickman, 2002": {
       "aliases": [
@@ -61756,6 +61808,19 @@
         "wiki/concepts/instruction-pedagogy/Funds of Knowledge.md"
       ],
       "title": ""
+    },
+    "Catlaks, 2009": {
+      "aliases": [
+        "Catlaks, 2009",
+        "Catlaks (2009)"
+      ],
+      "doi": "10.2753/EUE1056-4934410102",
+      "identity_keys": [
+        "Catlaks, 2009"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Greetings from the advisory board members"
     },
     "Cattan, 2014": {
       "aliases": [
@@ -98362,7 +98427,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md",
         "wiki/concepts/comparative-education/Development Turn in Comparative Education.md"
       ],
       "title": ""
@@ -107207,11 +107271,11 @@
       "identity_keys": [
         "Hans, 1950"
       ],
-      "isbn": "",
+      "isbn": "9780415175968",
       "seen_in": [
         "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
       ],
-      "title": ""
+      "title": "Comparative education: A study of educational factors and traditions"
     },
     "Hans, 1952": {
       "aliases": [
@@ -117809,6 +117873,21 @@
       ],
       "title": ""
     },
+    "Idenburg, 1969": {
+      "aliases": [
+        "Idenburg, 1969",
+        "Idenburg (1969)"
+      ],
+      "doi": "10.2753/EUE1056-4934010106",
+      "identity_keys": [
+        "Idenburg, 1969"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
+      ],
+      "title": "Greetings from advisory board members"
+    },
     "Igel, 2010": {
       "aliases": [
         "Igel, 2010",
@@ -124901,13 +124980,13 @@
       ],
       "doi": "",
       "identity_keys": [
-        "Kandel, 1933a"
+        "Kandel, 1933b"
       ],
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
       ],
-      "title": ""
+      "title": "Comparative education"
     },
     "Kandel, 1933c": {
       "aliases": [
@@ -124916,13 +124995,13 @@
       ],
       "doi": "",
       "identity_keys": [
-        "Kandel, 1933b"
+        "Kandel, 1933a"
       ],
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
       ],
-      "title": ""
+      "title": "Studies in comparative education"
     },
     "Kandel, 1955": {
       "aliases": [
@@ -126670,7 +126749,7 @@
         "Kazamias & Schwartz, 1977",
         "Kazamias & Schwartz (1977)"
       ],
-      "doi": "",
+      "doi": "10.1086/445946",
       "identity_keys": [
         "Kazamias & Schwartz, 1977"
       ],
@@ -126683,7 +126762,7 @@
         "wiki/persons/us/Andreas Kazamias.md",
         "wiki/persons/us/Isaac Kandel.md"
       ],
-      "title": ""
+      "title": "Intellectual and ideological perspectives in comparative education: An interpretation"
     },
     "Kazamias, 1961": {
       "aliases": [
@@ -162283,7 +162362,7 @@
         "Nash, 1977",
         "Nash (1977)"
       ],
-      "doi": "",
+      "doi": "10.1086/445945",
       "identity_keys": [
         "Nash, 1977"
       ],
@@ -162292,7 +162371,7 @@
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_ForgottenThemes.md",
         "wiki/persons/us/Robert Ulich.md"
       ],
-      "title": ""
+      "title": "A humanistic gift from Europe: Robert Ulich's contribution to comparative education"
     },
     "Nash, 2003": {
       "aliases": [
@@ -165003,7 +165082,7 @@
       "identity_keys": [
         "Noah & Eckstein, 1969"
       ],
-      "isbn": "",
+      "isbn": "9780023884108",
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Beech_2009_GlobalGarden.md",
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Cowen_2009_HistoryCreation.md",
@@ -165046,7 +165125,7 @@
         "wiki/persons/switzerland/Johann Heinrich Pestalozzi.md",
         "wiki/persons/uk/Nicholas Hans.md"
       ],
-      "title": ""
+      "title": "Toward a science of comparative education"
     },
     "Noah W. Sobe & Trevor Fischer, 2009": {
       "aliases": [
@@ -165102,7 +165181,7 @@
         "Noah, 2006",
         "Noah (2006)"
       ],
-      "doi": "",
+      "doi": "10.2753/EUE1056-4934380301",
       "identity_keys": [
         "Noah, 2006"
       ],
@@ -165110,7 +165189,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
       ],
-      "title": ""
+      "title": "U.S. social and educational research during the cold war: An interview with Harold J. Noah by Gita Steiner-Khamsi"
     },
     "Noble, 1967": {
       "aliases": [
@@ -174880,21 +174959,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Competition State.md"
-      ],
-      "title": ""
-    },
-    "Philip J. Idenburg, 1969": {
-      "aliases": [
-        "Philip J. Idenburg, 1969",
-        "Philip J. Idenburg (1969)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Philip J. Idenburg, 1969"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
       ],
       "title": ""
     },
@@ -185255,7 +185319,7 @@
         "Robinsohn, 1969",
         "Robinsohn (1969)"
       ],
-      "doi": "",
+      "doi": "10.2753/EUE1056-4934010106",
       "identity_keys": [
         "Robinsohn, 1969"
       ],
@@ -185263,7 +185327,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
       ],
-      "title": ""
+      "title": "Greetings from advisory board members"
     },
     "Robinson & Kelley, 2007": {
       "aliases": [
@@ -190047,14 +190111,14 @@
         "wiki/concepts/research-methodology/Unit of Analysis.md",
         "wiki/persons/uk/Michael Sadler.md"
       ],
-      "title": ""
+      "title": "How far can we learn anything of practical value from the study of foreign systems of education?"
     },
     "Sadler, 1964": {
       "aliases": [
         "Sadler, 1964",
         "Sadler (1964)"
       ],
-      "doi": "",
+      "doi": "10.1086/445016",
       "identity_keys": [
         "Sadler, 1964"
       ],
@@ -190064,7 +190128,7 @@
         "wiki/concepts/comparative-education/Academic Iconography.md",
         "wiki/concepts/comparative-education/Intangible Spiritual Forces.md"
       ],
-      "title": ""
+      "title": "How can we learn anything of practical value from the study of foreign systems of education?"
     },
     "Sadler, 1979": {
       "aliases": [
@@ -192028,21 +192092,6 @@
         "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md"
       ],
       "title": "Equality, Adequacy, and Education for Citizenship"
-    },
-    "Saul Robinsohn, 1969": {
-      "aliases": [
-        "Saul Robinsohn, 1969",
-        "Saul Robinsohn (1969)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Saul Robinsohn, 1969"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
-      ],
-      "title": ""
     },
     "Saunders, 2014": {
       "aliases": [
@@ -199283,6 +199332,21 @@
       ],
       "title": ""
     },
+    "Silova & Brehm, 2009": {
+      "aliases": [
+        "Silova & Brehm, 2009",
+        "Silova & Brehm (2009)"
+      ],
+      "doi": "10.2753/EUE1056-4934410201",
+      "identity_keys": [
+        "Silova & Brehm, 2009"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
+      ],
+      "title": "Education and geopolitics in a changing Europe: Forty years of scholarship in European Education"
+    },
     "Silova & Brehm, 2015": {
       "aliases": [
         "Silova & Brehm, 2015",
@@ -202591,6 +202655,19 @@
       ],
       "title": ""
     },
+    "Sobe, 2009": {
+      "aliases": [
+        "Sobe, 2009",
+        "Sobe (2009)"
+      ],
+      "doi": "10.2753/EUE1056-4934410102",
+      "identity_keys": [
+        "Sobe, 2009"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Greetings from the advisory board members"
+    },
     "Sobe, 2017": {
       "aliases": [
         "Sobe, 2017",
@@ -204295,6 +204372,88 @@
       "seen_in": [],
       "title": "Measuring the success of small-group learning in college-level SMET teaching: A meta-analysis."
     },
+    "Springer, 1969a": {
+      "aliases": [
+        "Springer, 1969a",
+        "Springer (1969a)"
+      ],
+      "doi": "10.2753/EUE1056-4934010101",
+      "identity_keys": [
+        "Springer, 1969a"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
+      ],
+      "title": "Editor's introduction"
+    },
+    "Springer, 1969b": {
+      "aliases": [
+        "Springer, 1969b",
+        "Springer (1969b)"
+      ],
+      "doi": "10.2753/EUE1056-4934010201",
+      "identity_keys": [
+        "Springer, 1969b"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Editor's introduction"
+    },
+    "Springer, 1969c": {
+      "aliases": [
+        "Springer, 1969c",
+        "Springer (1969c)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Springer, 1969"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
+      ],
+      "title": "Recent Curriculum Developments in France, West Germany and Italy"
+    },
+    "Springer, 1977": {
+      "aliases": [
+        "Springer, 1977",
+        "Springer (1977)"
+      ],
+      "doi": "10.1086/445958",
+      "identity_keys": [
+        "Springer, 1977"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Education, curriculum, and pedagogy"
+    },
+    "Springer, 2006": {
+      "aliases": [
+        "Springer, 2006",
+        "Springer (2006)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Springer, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Ursula Springer"
+    },
+    "Springer, 2008": {
+      "aliases": [
+        "Springer, 2008",
+        "Springer (2008)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Springer, 2008"
+      ],
+      "isbn": "9780826111128",
+      "seen_in": [],
+      "title": "The history of Springer Publishing Company"
+    },
     "Springer, 2010": {
       "aliases": [
         "Springer, 2010",
@@ -205557,6 +205716,21 @@
       ],
       "title": ""
     },
+    "Steiner-Khamsi & deJong-Lambert, 2006": {
+      "aliases": [
+        "Steiner-Khamsi & deJong-Lambert, 2006",
+        "Steiner-Khamsi & deJong-Lambert (2006)"
+      ],
+      "doi": "10.2753/EUE1056-4934380300",
+      "identity_keys": [
+        "Steiner-Khamsi & deJong-Lambert, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
+      ],
+      "title": "Special issue: Post–Cold War studies in education (Part I)"
+    },
     "Steiner-Khamsi et al., 2020": {
       "aliases": [
         "Steiner-Khamsi et al., 2020",
@@ -205679,7 +205853,7 @@
         "Steiner-Khamsi, 2006",
         "Steiner-Khamsi (2006)"
       ],
-      "doi": "",
+      "doi": "10.2753/EUE1056-4934380302",
       "identity_keys": [
         "Steiner-Khamsi, 2006"
       ],
@@ -205690,7 +205864,7 @@
         "wiki/facts/global/1967 Williamsburg Conference on the World Crisis in Education.md",
         "wiki/facts/global/International Institute for Educational Planning.md"
       ],
-      "title": ""
+      "title": "The development turn in comparative education"
     },
     "Steiner-Khamsi, 2012": {
       "aliases": [
@@ -217907,7 +218081,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
       ],
-      "title": ""
+      "title": "Some observations concerning the study of comparative education"
     },
     "Ulich, 1961": {
       "aliases": [
@@ -227355,7 +227529,7 @@
         "Wilson, 1994",
         "Wilson (1994)"
       ],
-      "doi": "",
+      "doi": "10.1086/447271",
       "identity_keys": [
         "Wilson, 1994"
       ],
@@ -227363,7 +227537,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
       ],
-      "title": ""
+      "title": "Comparative and international education: Fraternal or Siamese twins? A preliminary genealogy of our twin fields"
     },
     "Wilson, 1998": {
       "aliases": [
