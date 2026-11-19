@@ -1,6 +1,7 @@
 ---
 citation: "Dang, Q. A. (2017). Regionalising higher education for repositioning Southeast Asia. Oxford Review of Education, 43(4), 417–432. https://doi.org/10.1080/03054985.2017.1327427"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Dang_2017_ORE]]"
 processed_date: 2026-11-19
 ---
 
