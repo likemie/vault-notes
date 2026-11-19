@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-23
-updated: 2026-11-03
+updated: 2026-11-20
 ---
 
 ---
@@ -57,12 +57,12 @@ updated: 2026-11-03
 > [!def] Open-Mindedness
 > 思想开放（Open-Mindedness / Intellectual Open-Mindedness）是指认识主体在面临未知、分歧或挑战性证据时，能够自发、公允地生成并审视替代性观点，并依据更具合理性的理由与证据随时准备调整或修正原有立场的稳定理智品格与认知习惯。在[[Virtue Epistemology|美德认识论]]（Virtue [[Epistemology]]）的德性责任论视角下，思想开放不仅要求主体熟练掌握多角度论证的技术性智力技能，更必须以对真理、知识与理解等认知善品的真诚热爱为内在动机；若仅能罗列多元观点却将其用于诡辩或博取名利，则属于[[Value Neutrality|价值中立]]的操作技能而非真正的[[Epistemic Virtues and Vices|理智美德]]。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 270, 273–274, 278–281)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 指向认识主体克服信念固着、自我辩护与确认偏差，以求真为导向向异见和新事实保持理智开放的品格特质。
 > - **用途** 帮助教育哲学与学习科学研究者突破单纯灌输多元观点表象的技巧化训练，解释为何掌握批判性质疑技能的学生在现实辩论中仍可能固执己见，为通过[[Man-Computer Symbiosis|人机协同]]和叙事引导培育深层品格提供规范依据。
 > - **边界** 思想开放不等于相对主义（认为所有观点等价正确）或毫无立场的轻信盲从；它要求主体基于证据质量进行理智审裁，核心在于公允对待异见，而非无条件接纳错误信念。
 
-> [!citation-card] 思想开放的德性责任论内涵与动机本质
+> [!citation-card|notitle] 思想开放的德性责任论内涵与动机本质
 > 具有思想开放美德的人，倾向于高效生成并公允审视替代性观点，并且出于对认知善品的热爱来行使这些技能。一个人可以拥有高超的多角度论证技能却选择从不使用它，或者仅在对自己有利时展现它；但他绝不能因此被称为思想开放的人。思想开放表征了个体的持久品格特质与认识论德性，要求主体在情境需要时持续、稳定地展现对异见的公允审视与求真承诺。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 273–274, 278)]]
 >
 > *Someone who is virtuously open-minded is disposed to efficiently generating and appropriately considering alternative perspectives and exercises these skills for the love of epistemic goods... an intellectual virtue says something about the person's character (not just about something they do, but who they are).*
@@ -74,7 +74,7 @@ updated: 2026-11-03
 
 ---
 
-> [!contrast-table] 思想开放与相邻理智品格及技能的辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 思想开放（Open-Mindedness） | 理智谦逊（[[Humility\|Intellectual Humility]]） | 多元视角生成技能 | 盲目顺从（Dogmatic Deference） |
 > |---|---|---|---|---|
 > | **本质属性** | 稳定[[Epistemic Virtues and Vices\|理智美德]]（品格特质） | 稳定理智美德（品格特质） | 程序性智力技能（认知操作） | 认识恶习（反向偏差） |
@@ -147,7 +147,7 @@ updated: 2026-11-03
 
 ---
 
-> [!contrast-table] 思想开放命题归纳
+> [!contrast-table|notitle] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **技能与动机结合命题** | 思想开放体现为多视角胜任技能与求真内在动机的紧密结合 | 教育哲学认知目标设定、品格教育理论阐释 | Baehr (2011) |
@@ -156,7 +156,7 @@ updated: 2026-11-03
 
 ---
 
-> [!dev-timeline] 思想开放概念的演变脉络
+> [!dev-timeline] 概念演变
 > - **古典时期 — [[Socrates|苏格拉底]]反讽与自知无知** 苏格拉底通过承认自身一无所知并在辩证法中向一切可能的真知敞开，奠定了思想开放作为哲学求知底色的古典传统。
 > - **20 世纪末 — [[Critical Thinking|批判性思维]]与认知倾向研究** 认知心理学（如 Baron, 1988）将思想开放（Actively Open-Minded Thinking, AOT）作为克服确认偏差、评估相反证据的独立思考倾向进行量化测量。
 > - **2010 年代 — [[Virtue Epistemology|美德认识论]]责任论体系化** Jason Baehr (2011) 与 Linda Zagzebski (1996) 确立德性责任论框架，将思想开放明确界定为由求真动机与多视角审视技能构成的核心[[Epistemic Virtues and Vices|理智美德]]。
@@ -164,7 +164,7 @@ updated: 2026-11-03
 
 ---
 
-> [!debates] 学术争议与哲学反思
+> [!debates|notitle] 学术争议
 >
 > > [!axis] 思想开放与坚守信念（Intellectual Tenacity）之间的张力平衡
 > > [[Epistemology|认识论]]学者探讨思想开放是否会导致立场摇摆不定，如何在接纳新证据与对已有坚实信念保持坚守之间取得平衡。
@@ -180,5 +180,27 @@ updated: 2026-11-03
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!warning|limits] 适用局限
+> 思想开放的培养与评估高度依赖具体的探究情境与求真动机。在面对恶意虚假信息、阴谋论或缺乏基本经验证据支撑的伪科学言论时，无界限的开放容易滑向理智轻信或认知混乱；探究者必须依托证据审裁与批判性评估保持规范性约束。[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 273–274)]]
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Epistemic Virtues and Vices]] | 概念 | 思想开放所属的美德认识论上位分类系统与品格框架。 |
+> | [[Humility]] | 概念 | 思想开放所必需的互补理智美德，承认自身知识局限与可错性。 |
+> | [[Critical Thinking]] | 概念 | 为思想开放提供证据评估、论证辨析与逻辑推理的认知技能支撑。 |
+> | [[Skill of Questioning]] | 概念 | 激发替代性视角生成并打破认知固着的核心操作性提问技能。 |
+> | [[Intellectual Emotions]] | 概念 | 好奇与着迷等积极情感，驱动思想开放由操作技能向内在德性内化。 |
+> | [[Cognitive Deskilling]] | 概念 | 算法全盘代劳导致深层思维退化，思想开放是抵御此类异化的核心品格。 |
+> | [[Man-Computer Symbiosis]] | 概念 | 人机协同探究中通过智能体交互规制促进思想开放培育的情境场域。 |
+> | [[Intelligent Tutoring Systems]] | 概念 | 承载追问启发与个性化叙事示范的智能教学系统载体。 |
+> | [[Virtue Epistemology]] | 理论 | 将求知焦点从信念属性转向认识者品格特质的哲学理论基础。 |
+> | [[Socrates]] | 人物 | 古希腊哲学家，以自知无知与辩证反讽开创思想开放的古典精神先驱。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Naeem_2026_Episteme|Naeem (2026)]] — 系统界定思想开放作为核心[[Epistemic Virtues and Vices|理智美德]]的理论构件，阐明其在抵御生成式 AI [[Cognitive Deskilling|去技能化]]危机中的关键育人价值，并设计了结合提问导师与兴趣故事叙事的人工智能培育方案。

@@ -1329,6 +1329,10 @@
     {
       "sentence": "**前沿演进兼顾制度文脉与理论创新** 四十年来期刊在坚守历史制度文脉的同时，向后社会主义转型、政策借用与批判地缘理论全面拓展，保持了比较研究的开放性与生命力。",
       "target": "wiki/concepts/educational-psychology/Open-Mindedness.md"
+    },
+    {
+      "sentence": "这一回顾聚焦于《欧洲教育》四十年办刊历程、主编群体学术旨趣与编委会制度化实践，未对期刊四十年间刊载的数百项实证成果展开细粒度的量化引文网络与主题图谱统计；后续研究可针对欧洲大学治理演进或后社会主义转型等议题开展历时性文献计量考证。",
+      "target": "wiki/concepts/science-policy/Cumulative Innovation.md"
     }
   ],
   "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md": [
@@ -1343,6 +1347,10 @@
     {
       "sentence": "系统研习定性与定量多重研究工具，使研究者具备同时穿透政策宏观数据与微观田野细节的技术能力。",
       "target": "wiki/concepts/science-policy/Research Tool.md"
+    },
+    {
+      "sentence": "反对普遍主义立场，我们主张比较教育的方法应当导向对差异的解释以及对他者的承认……反对极端相对主义立场，我们主张比较教育需要将个别差异置于更广泛的变异脉络中，超越将差异视作孤立终点的局限，认识到存在由他者之间以及他者与自我之间的关系所构成的共通性。",
+      "target": "wiki/concepts/educational-psychology/Multiplist.md"
     }
   ]
 }

@@ -12911,6 +12911,8 @@
     "Joseph (1999)": "Joseph, 1999",
     "Joseph Lauwerys (1957)": "Joseph Lauwerys, 1957",
     "Joseph Lauwerys, 1957": "Joseph Lauwerys, 1957",
+    "Joseph Schwab (1969)": "Joseph Schwab, 1969",
+    "Joseph Schwab, 1969": "Joseph Schwab, 1969",
     "Joseph, 1999": "Joseph, 1999",
     "Josephson (1991)": "Josephson, 1991",
     "Josephson (1998)": "Josephson, 1998",
@@ -14981,6 +14983,8 @@
     "Lee Cronbach, 1971": "Lee Cronbach, 1971",
     "Lee Kuan Yew (2000)": "Lee Kuan Yew, 2000",
     "Lee Kuan Yew, 2000": "Lee Kuan Yew, 2000",
+    "Lee Shulman (1987)": "Lee Shulman, 1987",
+    "Lee Shulman, 1987": "Lee Shulman, 1987",
     "Lee et al. (2014a)": "Lee et al., 2014a",
     "Lee et al. (2014b)": "Lee et al., 2014b",
     "Lee et al. (2016)": "Lee et al., 2016",
@@ -16067,6 +16071,8 @@
     "Ma, 2009": "Ma, 2009a",
     "Ma, 2009a": "Ma, 2009b",
     "Ma, 2009b": "Ma, 2009b",
+    "Maag Merki (2003)": "Maag Merki, 2003",
+    "Maag Merki, 2003": "Maag Merki, 2003",
     "Maasen & Weingart (2005)": "Maasen & Weingart, 2005",
     "Maasen & Weingart, 2005": "Maasen & Weingart, 2005",
     "Mabe & West (1982)": "Mabe & West, 1982",
@@ -17325,6 +17331,8 @@
     "Meyer, 2013": "Meyer, 2013",
     "Meyer, 2014": "Meyer, 2014",
     "Meyer, 2019": "Meyer, 2019",
+    "Meyerhöfer (2005)": "Meyerhöfer, 2005",
+    "Meyerhöfer, 2005": "Meyerhöfer, 2005",
     "Mezcua-Hidalgo (2019)": "Mezcua-Hidalgo, 2019",
     "Mezcua-Hidalgo, 2019": "Mezcua-Hidalgo, 2019",
     "Mezirow (1991)": "Mezirow, 1991",
@@ -21822,6 +21830,8 @@
     "Ruddock, 1981": "Ruddock, 1981",
     "Rudestam & Newton (2014)": "Rudestam & Newton, 2014",
     "Rudestam & Newton, 2014": "Rudestam & Newton, 2014",
+    "Rudolf Künzli (2002)": "Rudolf Künzli, 2002",
+    "Rudolf Künzli, 2002": "Rudolf Künzli, 2002",
     "Rueda (2012)": "Rueda, 2012",
     "Rueda, 2012": "Rueda, 2012",
     "Ruff et al. (2019)": "Ruff et al., 2019",
@@ -27376,6 +27386,8 @@
     "Wolff, 2011": "Wolff, 2011",
     "Wolff-Grosser (2018)": "Wolff-Grosser, 2018",
     "Wolff-Grosser, 2018": "Wolff-Grosser, 2018",
+    "Wolfgang Klafki (1958)": "Wolfgang Klafki, 1958",
+    "Wolfgang Klafki, 1958": "Wolfgang Klafki, 1958",
     "Wolfgang Mitter (2009)": "Wolfgang Mitter, 2009",
     "Wolfgang Mitter, 2009": "Wolfgang Mitter, 2009",
     "Wolfgang Sandner (1979)": "Wolfgang Sandner, 1979",
@@ -27992,6 +28004,8 @@
     "Yusuf, 2013": "Yusuf, 2013",
     "Yuwono & Sujono (2018)": "Yuwono & Sujono, 2018",
     "Yuwono & Sujono, 2018": "Yuwono & Sujono, 2018",
+    "Yves Chevallard (2006)": "Yves Chevallard, 2006",
+    "Yves Chevallard, 2006": "Yves Chevallard, 2006",
     "Yörük & Sen (2022)": "Yörük & Sen, 2022",
     "Yörük & Sen, 2022": "Yörük & Sen, 2022",
     "Yıldız (2014)": "Yıldız, 2014",
@@ -32690,7 +32704,7 @@
       "seen_in": [
         "wiki/concepts/educational-philosophy/Objectivism.md"
       ],
-      "title": ""
+      "title": "Reflections on the World Bank and UNESCO"
     },
     "Albert O. Hirschman, 1958": {
       "aliases": [
@@ -62889,8 +62903,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Cognitive Development/Argument_Kuhn_2000_CD.md",
-        "wiki/concepts/educational-psychology/Multiplist.md"
+        "wiki/arguments/journal-articles/Cognitive Development/Argument_Kuhn_2000_CD.md"
       ],
       "title": ""
     },
@@ -123769,6 +123782,21 @@
       ],
       "title": ""
     },
+    "Joseph Schwab, 1969": {
+      "aliases": [
+        "Joseph Schwab, 1969",
+        "Joseph Schwab (1969)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Joseph Schwab, 1969"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
+      ],
+      "title": ""
+    },
     "Joseph, 1999": {
       "aliases": [
         "Joseph, 1999",
@@ -131066,6 +131094,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md",
         "wiki/facts/germany/Klieme Report.md"
       ],
       "title": ""
@@ -138595,6 +138624,21 @@
         "wiki/concepts/ethics-of-technology/Effective Altruism.md",
         "wiki/concepts/ethics-of-technology/Technological Agnosticism.md",
         "wiki/concepts/political-economy-geopolitics/Civic Rituals.md"
+      ],
+      "title": ""
+    },
+    "Lee Shulman, 1987": {
+      "aliases": [
+        "Lee Shulman, 1987",
+        "Lee Shulman (1987)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Lee Shulman, 1987"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
       ],
       "title": ""
     },
@@ -146519,6 +146563,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "The effect size of variables associated with creativity: A meta-analysis"
+    },
+    "Maag Merki, 2003": {
+      "aliases": [
+        "Maag Merki, 2003",
+        "Maag Merki (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Maag Merki, 2003"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
+      ],
+      "title": ""
     },
     "Maasen & Weingart, 2005": {
       "aliases": [
@@ -155576,6 +155635,21 @@
       "seen_in": [
         "wiki/concepts/sociology-of-education/Otherhood.md",
         "wiki/persons/us/John W. Meyer.md"
+      ],
+      "title": ""
+    },
+    "Meyerhöfer, 2005": {
+      "aliases": [
+        "Meyerhöfer, 2005",
+        "Meyerhöfer (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Meyerhöfer, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
       ],
       "title": ""
     },
@@ -188670,6 +188744,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md"
+      ],
+      "title": ""
+    },
+    "Rudolf Künzli, 2002": {
+      "aliases": [
+        "Rudolf Künzli, 2002",
+        "Rudolf Künzli (2002)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Rudolf Künzli, 2002"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
       ],
       "title": ""
     },
@@ -228864,6 +228953,21 @@
       ],
       "title": ""
     },
+    "Wolfgang Klafki, 1958": {
+      "aliases": [
+        "Wolfgang Klafki, 1958",
+        "Wolfgang Klafki (1958)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Wolfgang Klafki, 1958"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
+      ],
+      "title": ""
+    },
     "Wolfgang Mitter, 2009": {
       "aliases": [
         "Wolfgang Mitter, 2009",
@@ -233227,6 +233331,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "The effectiveness of E-learning: a meta-analysis."
+    },
+    "Yves Chevallard, 2006": {
+      "aliases": [
+        "Yves Chevallard, 2006",
+        "Yves Chevallard (2006)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Yves Chevallard, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
+      ],
+      "title": ""
     },
     "Yörük & Sen, 2022": {
       "aliases": [
