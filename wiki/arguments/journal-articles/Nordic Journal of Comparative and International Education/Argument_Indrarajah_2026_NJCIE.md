@@ -40,6 +40,7 @@ related_concepts:
   - "[[Scientific Mobility]]"
   - "[[Neoliberalism]]"
   - "[[Knowledge Production]]"
+  - "[[Avatar]]"
   - "[[Soft Power]]"
   - "[[Study Abroad]]"
   - "[[Construct]]"
@@ -82,14 +83,14 @@ sources:
 part_of:
 status: draft
 created: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Indrarajah_2026_NJCIE"
 argument_key: "Argument_Indrarajah_2026_NJCIE"
 argument_display_title: "Challenging neocoloniality in Southeast Asian higher education: Charting the ASEAN way of regionalization through a decolonial lens"
 argument_kind: "journal-article"
-argument_related_count: 52
+argument_related_count: 53
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -126,7 +127,7 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **认识论去殖民化**<br>[[Epistemic Coloniality]] / [[Decolonial Geopolitics of Knowledge]] | 解构以西方为绝对参照的普适主义真理宣称，揭示教育现代性背后的殖民性依附，主张重估受压制的南方原住民知识体系（Alcoff, 2007; Mignolo & Walsh, 2018; [[Aníbal Quijano|Quijano]], 2000）。 |
+> | **认识论去殖民化**<br>[[Epistemic Coloniality]] / [[Decolonial Geopolitics of Knowledge]] | 解构以西方为绝对参照的普适主义真理宣称，揭示教育现代性背后的殖民性依附，主张重估受压制的南方原住民知识体系（Alcoff, 2007; Mignolo & Walsh, 2018; [[Aníbal Quijano\|Quijano]], 2000）。 |
 > | **新殖民主义理论**<br>[[Dependency Theory]] | 阐明国家在取得政治独立后，外部强权如何通过操纵经济流向、教育援助特权与知识标准持续维系间接支配（Nkrumah, 1965）。 |
 > | **多元世界构想**<br>[[Pluriverse]] / [[Decolonial Geopolitics of Knowledge]] | 设想由多元认识论、[[Ontology\|本体论]]与文化传统共存共生的去中心化世界秩序，抵御全球资本主义与同质化现代化叙事的吞噬（Escobar, 2018; Mignolo & Walsh, 2018）。 |
 > | **东盟方式**<br>[[ASEAN Way]] | 提供剖析不干涉内政、协商一致与主权防御规范的制度透镜，检视其历史反殖合法性及演变过程中的碎片化局限（Caballero-Anthony, 2014; Koga, 2010; Visone, 2017）。 |
@@ -141,8 +142,8 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **方法论取向**<br>[[Critical Policy Analysis\|批判性政策分析]]（Critical Policy Analysis, CPA） | 运用批判性政策分析透视东盟高教治理的历史渊源、权力拓扑、决策主体代表性与政策分配效应，解构[[Discourse\|话语]]背后的新殖民利益关联（Diem et al., 2014; Taylor, 1997）。 |
-> | **材料范围**<br>概念综合与政策文本分析 | 综合分析[[ASEAN Work Plan on Education 2021-2025|东盟教育工作计划（2021–2025）]]、东南亚高教共同空间联合声明、AUN与SEAMEO-RIHED章程及公开政策文件（ASEAN, 2022, 2024）。 |
-> | **[[Analytical Stance\|批判立场]]与学者位置性** | 扎根东南亚本土多元族群生活经验与跨国高教学术合作实践，优先阐发赛义德·法里德·阿拉塔斯（[[Syed Farid Alatas]]）等学者关于摆脱[[Captive Mind|被俘获的心智（Captive Mind）]]与去殖民学术重构的见解（Grande, 2018; Moosavi & Alatas, 2024）。 |
+> | **材料范围**<br>概念综合与政策文本分析 | 综合分析[[ASEAN Work Plan on Education 2021-2025\|东盟教育工作计划（2021–2025）]]、东南亚高教共同空间联合声明、AUN与SEAMEO-RIHED章程及公开政策文件（ASEAN, 2022, 2024）。 |
+> | **[[Analytical Stance\|批判立场]]与学者位置性** | 扎根东南亚本土多元族群生活经验与跨国高教学术合作实践，优先阐发赛义德·法里德·阿拉塔斯（[[Syed Farid Alatas]]）等学者关于摆脱[[Captive Mind\|被俘获的心智（Captive Mind）]]与去殖民学术重构的见解（Grande, 2018; Moosavi & Alatas, 2024）。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -188,7 +189,7 @@ issuing_organization: ""
 > [!sub-claim] 2. 成员国防范邻国干涉的避险心态使高教政策退守为封闭自保
 
 > [!mechanism] 主权防卫逻辑向封闭自保的异化机制
-> 经历过印尼与马来西亚对抗（Konfrontasi）以及冷战地缘震荡的东南亚国家，将不干涉内政与协商一致确立为区域治理红线（Koga, 2010; Loo, 2013; Visone, 2017）。这种避险机制虽然维系了政局稳定，却使高教决策退缩为狭隘的国家利益优先倾向；各国大学只顾本国发展，事实上陷入类似夸梅·恩克鲁玛（[[Kwame Nkrumah]]）所批判的殖民时代分而治之割裂状态（Nkrumah, 1965）。
+> 经历过印尼与马来西亚对抗（Konfrontasi）以及冷战地缘震荡的东南亚国家，将不干涉内政与协商一致确立为区域治理红线（Koga, 2010; Loo, 2013; Visone, 2017）。这种避险机制虽然维系了政局稳定，却使高教决策退缩为狭隘的国家利益优先倾向；各国大学只顾本国发展，事实上陷入类似[[Kwame Nkrumah|夸梅·恩克鲁玛]]（[[Kwame Nkrumah]]）所批判的殖民时代分而治之割裂状态（Nkrumah, 1965）。
 
 > [!case] 战后地缘冲突与东盟方式的防御性制度形成
 > 东南亚国家在二十世纪六十年代初经历激烈的国家边界与地缘对抗，特别是印度尼西亚与马来西亚之间的军事与政治对抗（Konfrontasi），给新独立国家带来深刻震荡（Loo, 2013）。在冷战时期共产主义意识形态渗透的共同担忧下，各国领导人于1967年创建东盟，确立不干涉内部事务、协商一致与严格尊重国家主权为基石原则（Visone, 2017）。这种东盟方式具有鲜明的二战后反殖自卫色彩，旨在防范邻国重演宗主国越界干涉的霸权行径（Caballero-Anthony, 2014; Koga, 2010）。然而这一自卫逻辑在高等教育领域演化为向内自保心态，各国在制定高教规划时优先考量本国单独发展，缺乏区域协同的顶层设计，使成员国客观上面临类似殖民时代分而治之的发展割裂格局（Nkrumah, 1965）。
@@ -206,7 +207,7 @@ issuing_organization: ""
 > [!tension] 比较教育学去殖民化学术论争：南方觉醒诉求 vs 保守文化战指责
 > - **南方觉醒与去殖民诉求（蓝方）** 《比较教育评论》（Comparative Education Review, CER）主编团队主张全面去殖民化教育系统、课程与研究议程，正视过去与当代政策中延续的殖民遗产，将全球南方原住民与被殖民社群学者的发声权置于学术生产中心（jules & Salajan, 2024, p. 5）。
 > - **保守反动与文化战指责（红方）** 部分比较教育学者批评去殖民诉求沦为教条主义的身份表演与文化战，指责其制造西方与非西方的二元受害者迷思，甚至认为强调学者位置性会削弱学术批评的连贯性与严谨性（Vickers & Epstein, 2024, p. 2）。
-> - **批判哲学反驳与辩护** 现代认识论批判（Alcoff, 2007）表明，全球知识等级秩序自确立之初便与种族化身份和殖民暴力紧密绑定，并不存在脱离具体情境的中立客观立场；倡导去殖民化并关注边缘学者位置性，是校正全球知识生产历史偏差的正当学术实践。
+> - **批判哲学反驳与辩护** 现代认识论批判（Alcoff, 2007）表明，全球知识等级秩序自确立之初便与种族[[Avatar|化身]]份和殖民暴力紧密绑定，并不存在脱离具体情境的中立客观立场；倡导去殖民化并关注边缘学者位置性，是校正全球知识生产历史偏差的正当学术实践。
 
 > [!sub-claim] 2. 欧美制度输出与东亚单向吸纳共同侵蚀了东盟的教育自主权
 

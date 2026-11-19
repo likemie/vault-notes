@@ -8,10 +8,10 @@ aliases:
 summary: "本尼迪克特·安德森界定现代民族意识形成机制的核心构念，指资本主义印刷技术在方言中筛选并标准化确立的书面语系统。印刷语言通过构筑统一交流领域、赋予词汇抗变固定性并将特定方言升格为权力语言，为匿名个体提供了想象政治共同体的纽带；美洲经验证实，报纸市场局域化流通决定了主权实体的分立；官方同化教育普及的帝国印刷语言最终反噬统治，成为亚非精英动员反殖民独立的主权武器。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 34
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 concept_field: "political-economy-geopolitics"
 concept_related_count: 9
 concept_related_level: 0
@@ -23,24 +23,38 @@ tags:
   - concept/linguistics
   - theme/media-studies
 related_concepts:
-  - "[[Print-Capitalism]]"
+  - "[[Construct]]"
+  - "[[Commensuration]]"
+  - "[[Assemblage]]"
   - "[[Truth-Language]]"
-  - "[[Nationalism]]"
-  - "[[Homogeneous, Empty Time]]"
-  - "[[Modular Nationalism]]"
-  - "[[Horizontal Comradeship]]"
+  - "[[Language-of-Power]]"
+  - "[[Print-Capitalism]]"
   - "[[Administrative Vernacular]]"
-  - "[[Creole Nationalism]]"
+  - "[[Necessary and Sufficient Conditions]]"
+  - "[[Horizontal Comradeship]]"
+  - "[[Champ]]"
+  - "[[Dialect Use]]"
+  - "[[Homophily]]"
+  - "[[Regionness]]"
+  - "[[Official Nationalism]]"
+  - "[[Nationalism]]"
+  - "[[Philological Revolution]]"
+  - "[[Bilingual Intelligentsia]]"
   - "[[Administrative Pilgrimage]]"
+  - "[[Homogeneous, Empty Time]]"
+  - "[[Creole Nationalism]]"
+  - "[[Modular Nationalism]]"
 related_theories:
   - "[[Imagined Community]]"
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Benedict Anderson]]"
-  - "[[Martin Luther]]"
   - "[[Lucien Febvre]]"
+  - "[[Martin Luther]]"
 related_facts:
+  - "[[Civil Service Examination]]"
+  - "[[Sumpah Pemuda]]"
   - "[[Edict of Villers-Cotterêts]]"
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch03]]"
@@ -48,16 +62,17 @@ related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch05]]"
   - "[[Argument_Anderson_2016_Verso_Ch06]]"
   - "[[Argument_Anderson_2016_Verso_Ch07]]"
+  - "[[Argument_Anderson_2016_Verso]]"
 confidence: high
 status: active
 created: 2026-11-11
-updated: 2026-11-13
+updated: 2026-11-20
 ---
 
 ---
 
 > [!def] Print-Language
-> 印刷语言（Print-Language）是[[Benedict Anderson|本尼迪克特·安德森]]在阐明现代民族意识起源时确立的核心构念，指资本主义印刷技术将自发流变且难以通约的地方口语方言依据语法规则筛选、汇聚并标准化组装而成的机械复制书写符号系统。印刷语言处于神圣[[Truth-Language|真理语言]]之下与各地方言口语之上，通过确立统一的书面交换领域、赋予词汇跨越时空的稳定性，以及将特定方言抬升为权力语言，使互不相识的单语读者能够意识到彼此共属于同一个政治共同体。美洲土生白人先驱的历史经验进一步表明，共享相同的印刷语言并不必然导致统一的政治共同体，印刷资本主义与报纸发行的在地化市场边界对塑造分立的主权国家具有决定性作用。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, pp. 45–48)]]; [[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 47, 61–63)]]
+> 印刷语言（Print-Language）是[[Benedict Anderson|本尼迪克特·安德森]]在阐明现代民族意识起源时确立的核心[[Construct|构念]]，指资本主义印刷技术将自发流变且难以[[Commensuration|通约]]的地方口语方言依据语法规则筛选、汇聚并标准化[[Assemblage|组装]]而成的机械复制书写符号系统。印刷语言处于神圣[[Truth-Language|真理语言]]之下与各地方言口语之上，通过确立统一的书面交换领域、赋予词汇跨越时空的稳定性，以及将特定方言抬升为[[Language-of-Power|权力语言]]，使互不相识的单语读者能够意识到彼此共属于同一个政治共同体。美洲土生白人先驱的历史经验进一步表明，共享相同的印刷语言并不必然导致统一的政治共同体，[[Print-Capitalism|印刷资本主义]]与报纸发行的在地化市场边界对塑造分立的主权国家具有决定性作用。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, pp. 45–48)]]; [[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 47, 61–63)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向经由大众印刷媒介机械复制、由语法字典固定并作为跨地域公共交流通约标准的书面语系统。
@@ -67,21 +82,21 @@ updated: 2026-11-13
 > [!citation-card] 安德森论印刷语言奠定民族意识的三种方式
 > 印刷语言通过三种不同方式为民族意识奠定了基础。首要之处在于，它们在拉丁文之下、口语方言之上构筑了统一的交换与沟通领域。使用繁复多样法语、英语或西班牙语口语的人们在口头交谈中或许难以相互理解，却借由印刷品与纸张获得了相互领会的能力。在这一过程中，他们逐渐意识到所属特定语言领域内数十万甚至数百万同胞的存在，且唯有这些人隶属于这一领域。这些通过印刷媒介相连结的共读同胞，在世俗、特定且可见的不可见性中，构成了民族想象共同体的胚胎。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, pp. 46–47)]]
 >
-> *These print-languages laid the bases for national consciousnesses in three distinct ways. First and foremost, they created unified fields of exchange and communication below Latin and above the spoken vernaculars. . . . These fellow-readers, to whom they were connected through print, formed, in their secular, particular, visible invisibility, the embryo of the nationally imagined community.*
+> *These print-languages laid the bases for national consciousnesses in three distinct ways. First and foremost, they created unified fields of exchange and communication below Latin and above the spoken vernaculars. . . . These fellow-readers, to whom they were connected through print, formed, in their secular, particular, visible invisibility, the embryo of the nationally [[Imagined Community|imagined community]].*
 
 > [!boundary]- 概念边界
 > - 不等于地方口语方言 — 口语方言存在无限细微的声调与词汇差异，空间阻隔易导致口头交流障碍；印刷语言具有超越口语差异的书面通约度。
 > - 不等于早期[[Administrative Vernacular|行政方言]] — 早期王室行政用语仅用于官吏自身行政办公便利，未打算强加给大众；印刷语言面向大众消费市场发行。
-> - 不等于单一主权国家的绝对充分条件 — 共享同一种印刷语言（如西属美洲的西班牙语或英美之间的英语）并不必然形成单一国家，地方化报纸市场与行政边界会将其切割为复数主权实体。
+> - 不等于单一主权国家的绝对[[Necessary and Sufficient Conditions|充分条件]] — 共享同一种印刷语言（如西属美洲的西班牙语或英美之间的英语）并不必然形成单一国家，地方化报纸市场与行政边界会将其切割为复数主权实体。
 
 ---
 
 > [!contrast-table|notitle] 概念辨析
-> | 维度 | 印刷语言 | [[Truth-Language|真理语言]] | 口语方言 | [[Administrative Vernacular|行政方言]] |
+> | 维度 | 印刷语言 | [[Truth-Language\|真理语言]] | 口语方言 | [[Administrative Vernacular\|行政方言]] |
 > |------|----------|--------------|----------------------|----------------------|
 > | 适用范围 | 特定民族国家或跨国印刷市场的大众读者群 | 跨洲际跨族群的先验神职与官僚知识精英 | 地方村落与熟人面对面日常口头社群 | 王室宫廷、中央法庭与领地官吏内部 |
-> | 规范机制 | 印刷语法书、出版规范与大众词典的机械化固定 | 宗教神圣经典或科举定本的排他性解释垄断 | 口耳相传的习惯重构与即兴演变 | 司法判例卷宗与王家文书习惯格式 |
-> | 政治功能 | 确立有限政治主权、界定民族边界并激发横向情谊 | 维系神权大一统统治与跨国宗教精神归属 | 维持熟人微观互动与地方社区内聚 | 理顺中央集权税收核查与司法裁判效率 |
+> | 规范机制 | 印刷语法书、出版规范与大众词典的机械化固定 | 宗教神圣经典或[[Civil Service Examination\|科举]]定本的排他性解释垄断 | 口耳相传的习惯重构与即兴演变 | 司法判例卷宗与王家文书习惯格式 |
+> | 政治功能 | 确立有限政治主权、界定民族边界并激发[[Horizontal Comradeship\|横向情谊]] | 维系神权大一统统治与跨国宗教精神归属 | 维持熟人微观互动与地方社区内聚 | 理顺中央集权税收核查与司法裁判效率 |
 > | 阶级覆盖 | 跨越商人、平民乃至女性的广谱大众读写阶层 | 极少数受过严格双语训练的教士与士大夫精英 | 基层文盲农牧人口与市井平民 | 朝廷显贵、法官、书记官与特许公证人 |
 
 ---
@@ -109,8 +124,8 @@ updated: 2026-11-13
 
 ---
 
-> [!concept-proposition] 命题一｜印刷语言通过构筑统一交流场域孕育了可见的不可见性认同
-> **统一交流场域确立机制** 印刷文本为使用不同口音的方言使用者搭建了横向相认的平台，使个体从局部地域的狭隘视野扩展为对宏观民族共同体的自觉认同。
+> [!concept-proposition] 命题一｜印刷语言通过构筑统一交流[[Champ|场域]]孕育了可见的不可见性认同
+> **统一交流场域确立机制** 印刷文本为使用不同口音的[[Dialect Use|方言使用]]者搭建了横向相认的平台，使个体从局部地域的狭隘视野扩展为对宏观民族共同体的自觉认同。
 
 > [!claim] Anderson, B.
 > **共读体验与胚胎期民族共同体** 在缺乏直接面对面接触的情况下，同一种印刷语言的使用者通过每日阅读报纸、书籍或法案，深知数以百万计的匿名读者正与自己在同一时刻消费着完全相同的符号文本。这种连接虽然在物理层面彼此不可见，却在世俗社会中展现出坚固的确定性，构成了民族想象共同体的最初胚胎。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, p. 46)]]
@@ -134,10 +149,10 @@ updated: 2026-11-13
 ---
 
 > [!concept-proposition] 命题四｜共享印刷语言无法单独决定共同体边界，在地化报纸流通圈决定了复数民族主权的分立
-> **语言同质性与市场边界机制** 阐明完全共享同一种印刷语言（英语或西班牙语）的跨大西洋殖民地为何并未与宗主国合并为一个帝国，反而分裂为十余个独立共和国。
+> **语言[[Homophily|同质性]]与市场边界机制** 阐明完全共享同一种印刷语言（英语或西班牙语）的跨大西洋殖民地为何并未与宗主国合并为一个帝国，反而分裂为十余个独立共和国。
 
 > [!claim] Anderson, B.
-> **共享母语的政治分裂与报纸市场的局域化界定** 美洲独立先驱的历史经验表明，语言同一性不足以保证政治统一。北美独立反叛者与英国王室共享英语，西属美洲各革命政权与马德里政权共享西班牙语；在西属美洲内部，尽管所有土生精英共享同一门西班牙印刷语言，但由于报纸出版高度依赖地方性的总督区行政边界、市场规模与有限的陆路水路邮政网络，波哥大、加拉加斯或布宜诺斯艾利斯分别形成了互不流通的区域性读者市场。报纸在齐一空洞时间中塑造的共读同胞，其地理感知被牢牢限制在各自的殖民地行政单位之内，使得同一门跨大西洋印刷语言孕育出了彼此割裂的十多个主权民族国家。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 47, 61–63)]]
+> **共享母语的政治分裂与报纸市场的局域化界定** 美洲独立先驱的历史经验表明，语言同一性不足以保证政治统一。北美独立反叛者与英国王室共享英语，西属美洲各革命政权与马德里政权共享西班牙语；在西属美洲内部，尽管所有土生精英共享同一门西班牙印刷语言，但由于报纸出版高度依赖地方性的总督区行政边界、市场规模与有限的陆路水路邮政网络，波哥大、加拉加斯或布宜诺斯艾利斯分别形成了互不流通的[[Regionness|区域性]]读者市场。报纸在齐一空洞时间中塑造的共读同胞，其地理感知被牢牢限制在各自的殖民地行政单位之内，使得同一门跨大西洋印刷语言孕育出了彼此割裂的十多个主权民族国家。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 47, 61–63)]]
 
 ---
 
@@ -153,7 +168,7 @@ updated: 2026-11-13
 > **帝国同化教育与反殖民逆向动员机制** 阐述宗主国推行的高阶帝国印刷语言如何超越本土方言碎裂格局，反向转变为殖民地双语知识精英跨越族群壁垒、动员大众反抗帝国统治的主权武器。
 
 > [!claim] Anderson, B.
-> **帝国语言的逆向挪用与反殖民解放动员** 安德森在第六章深入论述指出，帝国主义官方民族主义推行的强制语言同化教育产生了一场历史讽刺剧。宗主国为了降低庞大帝国疆域的治理成本，在殖民地设立现代学校并强制灌输宗主国标准印刷语言（如英属印度的全英语教育、荷属东印度的荷语与马来语印刷出版）。这套同化教育原本旨在培育效忠帝国的买办阶层，然而当被剥夺帝国中枢仕途攀升通道的本土双语精英认清种族隔离现实后，正是借助在帝国学校中掌握的标准印刷语言、近代历史编纂法与主权公民权蓝图，打破了本土数以百计地方口语方言的地理阻隔，成功动员起跨族群的现代反殖民解放运动，最终在帝国废墟上建立起独立的主权民族国家。[[Argument_Anderson_2016_Verso_Ch06|(Anderson, 2016, pp. 112–113)]]
+> **帝国语言的逆向挪用与反殖民解放动员** 安德森在第六章深入论述指出，帝国主义[[Official Nationalism|官方民族主义]]推行的强制语言同化教育产生了一场历史讽刺剧。宗主国为了降低庞大帝国疆域的治理成本，在殖民地设立现代学校并强制灌输宗主国标准印刷语言（如英属印度的全英语教育、荷属东印度的荷语与马来语印刷出版）。这套同化教育原本旨在培育效忠帝国的买办阶层，然而当被剥夺帝国中枢仕途攀升通道的本土双语精英认清种族隔离现实后，正是借助在帝国学校中掌握的标准印刷语言、近代历史编纂法与主权公民权蓝图，打破了本土数以百计地方口语方言的地理阻隔，成功动员起跨族群的现代反殖民解放运动，最终在帝国废墟上建立起独立的主权民族国家。[[Argument_Anderson_2016_Verso_Ch06|(Anderson, 2016, pp. 112–113)]]
 
 ---
 
@@ -163,20 +178,20 @@ updated: 2026-11-13
 > | **统一交流场域命题** | 印刷语言在真理语言与口语之间构筑横向相认平台，孕育可见的不可见性共同体胚胎 | 现代民族意识萌芽、大众共读经验分析 | [[Benedict Anderson]] |
 > | **时间固定性命题** | 机械印刷减缓语言流变并定型书面语，赋予现代民族以深沉古老的时间深度 | 民族历史连续性建构、媒介技术史考察 | [[Benedict Anderson]]; [[Lucien Febvre]] |
 > | **方言权力重组命题** | 印刷资本主义将优势方言抬升为特权国语，将次要方言边缘化 | 官方国语确立、少数族群语言维权政治 | [[Benedict Anderson]] |
-> | **市场边界分立命题** | 报纸流通圈与行政边界制约读者共读范围，同一印刷语言可分化为复数独立国家 | 美洲土生白人先驱民族主义、殖民地解体分析 | [[Benedict Anderson]] |
+> | **市场边界分立命题** | 报纸流通圈与行政边界制约读者共读范围，同一印刷语言可分化为复数独立国家 | 美洲土生白人先驱[[Nationalism\|民族主义]]、殖民地解体分析 | [[Benedict Anderson]] |
 > | **语言平权与阶级连带命题** | 双语词典赋予方言对等符号位阶，大众印刷语言赋能资产阶级达成纯粹想象的阶级团结 | 欧洲第二波语言民族主义、新兴资产阶级与科层官僚研究 | [[Benedict Anderson]] |
 > | **殖民逆向动员命题** | 官方同化教育普及的帝国印刷语言打破本土方言碎裂，成为殖民地精英反抗宗主国的主权武器 | 殖民地双语教育、亚非反殖民民族主义运动 | [[Benedict Anderson]] |
 
 ---
 
 > [!dev-timeline] 概念演变
-> - **16世纪 — 宗教改革与方言印刷普及** 路德将德语翻译为标准印刷语言，加尔文以法语写作，打破教会拉丁文排他垄断。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, pp. 39–41)]]
+> - **16世纪 — 宗教改革与方言印刷普及** [[Martin Luther|路德]]将德语翻译为标准印刷语言，加尔文以法语写作，打破教会拉丁文排他垄断。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, pp. 39–41)]]
 > - **17世纪 — 欧洲主要印刷语言定型** 机械复制固化了词汇与语法规范，语言流变速度大幅放缓，赋予民族历史以时间深度。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, pp. 46–47)]]
 > - **18世纪末–19世纪初 — 美洲共享印刷语言与在地化报纸市场** 英语与西班牙语印刷品在大西洋两岸跨海传播，但各殖民地行政管区的区域性报纸发行圈将同一门印刷语言切割为十余个彼此独立的民族想象共同体。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 47, 61–63)]]
-> - **19世纪 — 欧洲语文学革命与双语词典平等主义** 语文学家通过词典与语法书将各地方言提升为印刷国语，双语词典在形式上确立了边缘方言与统治语种的平等地位，资产阶级与科层官僚借助印刷语言在世界历史上首次实现了基于纯粹想象的阶级团结。[[Argument_Anderson_2016_Verso_Ch05|(Anderson, 2016, pp. 71–80)]]
-> - **19世纪中叶至20世纪初 — 帝国官方同化与反殖民逆向挪用** 欧洲帝国与明治日本在海外属地推行官方民族主义与帝国印刷语言教育，意外为亚非被压迫民族培育了跨越本土方言隔阂、动员现代反殖民独立运动的双语知识分子阶层。[[Argument_Anderson_2016_Verso_Ch06|(Anderson, 2016, pp. 112–113)]]
-> - **20世纪初 — 超越母语同一性与印尼青年誓言** 多语种瑞士与印尼青年誓言确立印尼语，证实印刷语言无需求助于原生母语同一性，行政通用语经印刷媒介与政治决断即可确立为主权国语。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 134–137)]]
-> - **1983年 — 安德森《想象的共同体》提出核心构念** 系统确立印刷语言作为介于真理语言与口语方言之间的民族意识奠基构念。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, pp. 45–48)]]
+> - **19世纪 — 欧洲[[Philological Revolution|语文学革命]]与双语词典平等主义** 语文学家通过词典与语法书将各地方言提升为印刷国语，双语词典在形式上确立了边缘方言与统治语种的平等地位，资产阶级与科层官僚借助印刷语言在世界历史上首次实现了基于纯粹想象的阶级团结。[[Argument_Anderson_2016_Verso_Ch05|(Anderson, 2016, pp. 71–80)]]
+> - **19世纪中叶至20世纪初 — 帝国官方同化与反殖民逆向挪用** 欧洲帝国与明治日本在海外属地推行官方民族主义与帝国印刷语言教育，意外为亚非被压迫民族培育了跨越本土方言隔阂、动员现代反殖民独立运动的[[Bilingual Intelligentsia|双语知识分子]]阶层。[[Argument_Anderson_2016_Verso_Ch06|(Anderson, 2016, pp. 112–113)]]
+> - **20世纪初 — 超越母语同一性与印尼[[Sumpah Pemuda|青年誓言]]** 多语种瑞士与印尼青年誓言确立印尼语，证实印刷语言无需求助于原生母语同一性，行政通用语经印刷媒介与政治决断即可确立为主权国语。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 134–137)]]
+> - **1983年 — 安德森《想象的共同体》提出核心构念** 系统确立印刷语言作为介于真理语言与口语方言之间的民族意识核心构念。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, pp. 45–48)]]
 
 ---
 
@@ -186,7 +201,7 @@ updated: 2026-11-13
 > > 争论印刷语言的标准化与普及究竟是机械印刷技术的自发产物，还是资本市场与阶级行动者政治博弈的结果。
 > >
 > > - **媒介唯物主义学派（Febvre; Eisenstein）** 强调印刷机的机械复制与标准化技术是打破封建割据、统一语言市场并型塑现代心智的决定性动力。
-> > - **文化政治学派（Anderson, 1983/2016）** 强调印刷技术必须与资本主义生产关系、行政朝圣体系以及特定阶级（如美洲土生官僚）的在地化实践相结合，才能形成现实的政治认同。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, pp. 42–45)]]; [[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 61–63)]]
+> > - **文化政治学派（Anderson, 1983/2016）** 强调印刷技术必须与资本主义生产关系、[[Administrative Pilgrimage|行政朝圣]]体系以及特定阶级（如美洲土生官僚）的在地化实践相结合，才能形成现实的政治认同。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, pp. 42–45)]]; [[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 61–63)]]
 >
 > > [!axis] 语言同质性必然导致国家统一 vs 市场区隔造就政治碎片化
 > > 争论共享语言的族群是否天然趋向于建立统一的单一主权国家。
@@ -214,10 +229,10 @@ updated: 2026-11-13
 > | [[Martin Luther]] | 人物 | 德语圣经翻译为德意志印刷语言确立与标准化树立了典范。 |
 > | [[Lucien Febvre]] | 人物 | 考证印刷书籍对近代欧洲语言形态固定与稳定化作用的史学学者。 |
 > | [[Edict of Villers-Cotterêts]] | 事实 | 法国王室用法兰西法语取代拉丁文，推动了王室行政方言向国家印刷语言的演进。 |
-> | [[Benedict Anderson]] | 人物 | 在《想象的共同体》中系统论证印刷语言作为民族意识奠基载体。 |
+> | [[Benedict Anderson]] | 人物 | 在《想象的共同体》中系统论证印刷语言作为民族意识媒介载体。 |
 > | [[Philological Revolution]] | 概念 | 19世纪推动方言标准化并确立印刷语言平等主义地位的学术与媒介浪潮。 |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 阐明印刷语言奠基机制（第3章）、美洲报纸边界（第4章）、资产阶级连带（第5章）、帝国语言反噬（第6章）及印尼与瑞士超母语国语建构（第7章）。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 阐明印刷语言形成机制（第3章）、美洲报纸边界（第4章）、资产阶级连带（第5章）、帝国语言反噬（第6章）及印尼与瑞士超母语国语建构（第7章）。

@@ -7,16 +7,54 @@ aliases:
 summary: "吉塔·施泰纳-哈姆西（Steiner-Khamsi, 2006）提出的概念，指二战后去殖民化与冷战博弈背景下，比较教育的资助、研究重心与方法系统性转向第三世界教育的过程。该转向重构了学科的政治经济属性，造成传统西欧研究边缘化，并在后冷战时期演化为基于国际指标的新自由主义远处治理。"
 type: concept
 domain: "comparative-education"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 34
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - subject/comparative-education
   - theme/development
   - theme/colonialism
   - theme/cold-war
   - region/global
+related_concepts:
+  - "[[Paradigm]]"
+  - "[[Development Education]]"
+  - "[[Discourse]]"
+  - "[[Geopolitics]]"
+  - "[[Knowledge Production]]"
+  - "[[Disciplinary Institutionalization]]"
+  - "[[Governing by Numbers]]"
+  - "[[International Education]]"
+  - "[[Policy Borrowing]]"
+  - "[[Mutual Learning]]"
+  - "[[Neoliberalism]]"
+  - "[[Methodological Statism]]"
+  - "[[Regionness]]"
+  - "[[Scientism]]"
+  - "[[Competitiveness]]"
+  - "[[Post-Fordism]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Unit of Analysis]]"
+related_theories:
+  - "[[Human Capital Theory]]"
+  - "[[Dependency Theory]]"
+  - "[[Governing at a Distance]]"
+  - "[[Critical Theory]]"
+  - "[[Wight's Three Traditions of International Theory]]"
+related_facts:
+  - "[[World Bank]]"
+  - "[[OECD]]"
+  - "[[PISA]]"
+  - "[[Comparative Education Center at Chicago 1958]]"
+  - "[[Mediterranean Regional Project]]"
+  - "[[Sputnik Shock 1957]]"
+  - "[[Economics of Education Movement]]"
+  - "[[National Defense Education Act of 1958]]"
+  - "[[International Institute for Educational Planning]]"
+related_arguments:
+  - "[[Argument_Klerides_2023_CE]]"
+  - "[[Argument_Silova_2009_EE]]"
 confidence: medium
 status: active
 created: 2026-06-08
@@ -47,9 +85,9 @@ updated: 2026-11-20
 > [!contrast-table|notitle] 概念辨析
 > | 维度 | 本概念（发展转向） | 殖民时期的比较教育 | 全球化时代的比较教育 |
 > |------|--------|----------------|----------------|
-> | **分析对象** | 发展中国家的教育规划与[[Human Capital Theory|人力资本]]开发。 | 帝国统治下的殖民地教育与土著学校。 | 全球多边治理网络中的政策流转与标准数据。 |
+> | **分析对象** | 发展中国家的教育规划与[[Human Capital Theory\|人力资本]]开发。 | 帝国统治下的殖民地教育与土著学校。 | 全球多边治理网络中的政策流转与标准数据。 |
 > | **核心机制** | 冷战博弈中的“技术援助”与人力资本理论输出。 | 协助帝国行政管理的文明化使命与行政控制。 | 依托大数据和基准测试（如[[PISA]]）的远处治理。 |
-> | **权力结构** | 主权平等名义下的依附关系与不对称技术专家统治。 | 领土占领与赤裸裸的文化殖民压迫。 | 去政治化、去中心化网络中的[[Neoliberalism|新自由主义]]资本统治。 |
+> | **权力结构** | 主权平等名义下的依附关系与不对称技术专家统治。 | 领土占领与赤裸裸的文化殖民压迫。 | 去政治化、去中心化网络中的[[Neoliberalism\|新自由主义]]资本统治。 |
 
 ---
 
@@ -58,7 +96,7 @@ updated: 2026-11-20
 > - **“技术顾问”身份确立** 比较教育学者从传统的“观察者”转变为新政府的“国别专家”和技术援助顾问，[[Disciplinary Institutionalization|学科建制]]全面融入国家对外援助与发展政策体系。
 > - **[[Methodological Statism|方法论国家主义]]内化** 单一国家/区域研究取代了多国互惠比较，其底层逻辑在于默认发展中国家的教育属于“滞后”范畴，因而无法与发达国家进行平等的横向对比。
 > - **学术系所与学会重组** 传统的殖民教育研究部门纷纷更名为“[[Development Education|发展中国家教育]]”，美国学会等机构在名称中加入“国际（International）”一词，反映学科对多边援助[[Discourse|话语]]的全面收编。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 422)]]
-> - **传统西欧研究腹地抽空** 联邦与基金会资助全方位倾斜于苏联研究与第三世界，导致西欧教育研究陷入严重资金匮乏与学术边缘化危机（1956 年学会年会中苏联主题占半数，1958 年《比较教育评论》中苏联研究占三分之一），促使学者创设《西欧教育》等区域性专业刊物以填补知识空白。[[Argument_Silova_2009_EE|(Silova, 2009, pp. 19–21)]]
+> - **传统西欧研究腹地抽空** 联邦与基金会资助全方位倾斜于苏联研究与第三世界，导致西欧教育研究陷入严重资金匮乏与学术边缘化危机（1956 年学会年会中苏联主题占半数，1958 年《比较教育评论》中苏联研究占三分之一），促使学者创设《西欧教育》等[[Regionness|区域性]]专业刊物以填补知识空白。[[Argument_Silova_2009_EE|(Silova, 2009, pp. 19–21)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -102,13 +140,13 @@ updated: 2026-11-20
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **地缘知识型合谋** | 探讨[[Geopolitics|地缘政治]]利益如何催生科学主义的人力资本评估以实现合法干预，以及资助转移对学科腹地的抽空效应。 | 冷战时期美苏对第三世界的教育援助、防务资助分配与[[Disciplinary Institutionalization|学科建制]]。 | Steiner-Khamsi (2006); Anderson (1958); [[Argument_Silova_2009_EE\|Silova (2009)]] |
-> | **新自由主义延续** | 探讨冷战后的发展话语如何演变为以数据和指标为基础的全球新自由主义[[Governing at a Distance|远处治理]]。 | 后冷战时代超国家组织对全球教育系统的评估与重塑。 | Tikly (2004); Brehm (2023) |
+> | **地缘知识型合谋** | 探讨[[Geopolitics\|地缘政治]]利益如何催生科学主义的人力资本评估以实现合法干预，以及资助转移对学科腹地的抽空效应。 | 冷战时期美苏对第三世界的教育援助、防务资助分配与[[Disciplinary Institutionalization\|学科建制]]。 | Steiner-Khamsi (2006); Anderson (1958); [[Argument_Silova_2009_EE\|Silova (2009)]] |
+> | **新自由主义延续** | 探讨冷战后的发展话语如何演变为以数据和指标为基础的全球新自由主义[[Governing at a Distance\|远处治理]]。 | 后冷战时代超国家组织对全球教育系统的评估与重塑。 | Tikly (2004); Brehm (2023) |
 
 ---
 
 > [!dev-timeline] 概念演变
-> - **1950s–1970s — 冷战驱动的发展转向与多边建制化** [[Sputnik Shock 1957|Sputnik]] 人造卫星发射成功在美国激发了地缘与科技恐慌，直接催生了[[Economics of Education Movement|教育经济学运动]]与《国防教育法案》（NDEA）。联邦经费涌向第三世界与苏联研究，西欧教育研究被抽空边缘化。芝加哥大学促进了学科融合，协助[[Human Capital Theory|人力资本理论]]在国际项目（如[[Mediterranean Regional Project|地中海区域项目]]）中全球扩散；[[OECD|经合组织]]（1961 年）与国际教育规划研究所（1963 年）等机构成立，为[[Development Education|发展中国家教育]]规划提供技术援助。[[Argument_Silova_2009_EE|(Silova, 2009, pp. 19–21)]]
+> - **1950s–1970s — 冷战驱动的发展转向与多边建制化** [[Sputnik Shock 1957|Sputnik]] 人造卫星发射成功在美国激发了地缘与科技恐慌，直接催生了[[Economics of Education Movement|教育经济学运动]]与《[[National Defense Education Act of 1958|国防教育法案]]》（NDEA）。联邦经费涌向第三世界与苏联研究，西欧教育研究被抽空边缘化。芝加哥大学促进了学科融合，协助[[Human Capital Theory|人力资本理论]]在国际项目（如[[Mediterranean Regional Project|地中海区域项目]]）中全球扩散；[[OECD|经合组织]]（1961 年）与[[International Institute for Educational Planning|国际教育规划研究所]]（1963 年）等机构成立，为[[Development Education|发展中国家教育]]规划提供技术援助。[[Argument_Silova_2009_EE|(Silova, 2009, pp. 19–21)]]
 > - **1990s 至今 — 新自由主义远处治理下的“最佳实践”输出** 苏联解体后，“发展[[Paradigm|范式]]”平稳过渡为新自由主义的全球标准[[Discourse|话语]]。OECD 通过[[PISA]] 测验等量化指标实施远处治理，将早期的“技术援助”升级为制造高效教育系统模型的“最佳实践”，以维持[[Post-Fordism|后福特主义]]的全球资本积累与西方知识霸权。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 422)]]
 
 ---
@@ -135,7 +173,7 @@ updated: 2026-11-20
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Human Capital Theory]] | 理论 | 为发展转向提供核心经济学合法性与技术援助测量工具的理论基石。 |
-> | [[Dependency Theory]] | 理论 | 批判发展转向将第三世界锁定于边缘依附地位的批判理论框架。 |
+> | [[Dependency Theory]] | 理论 | 批判发展转向将第三世界锁定于边缘依附地位的[[Critical Theory\|批判理论]]框架。 |
 > | [[Governing at a Distance]] | 理论 | 后冷战时期发展范式演变为国际指标远处治理的核心运作机制。 |
 > | [[Development Education]] | 概念 | 发展转向催生的专门针对后发国家与技术援助的教育研究分支。 |
 > | [[Geopolitics]] | 概念 | 驱动比较教育学科资源和研究焦点重组的底层国际政治结构。 |
@@ -145,5 +183,5 @@ updated: 2026-11-20
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 系统探讨了 Wight 的三大国际关系理论如何折射于比较教育的学科历史中，将“发展转向”定位为冷战时期现实主义地缘竞争以及后冷战时期新自由主义全球化话语统治的关键知识载体。
+> - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 系统探讨了 Wight 的三大[[Wight's Three Traditions of International Theory|国际关系理论]]如何折射于比较教育的学科历史中，将“发展转向”定位为冷战时期现实主义地缘竞争以及后冷战时期新自由主义全球化话语统治的关键知识载体。
 > - [[Argument_Silova_2009_EE|Silova (2009)]] — 考证冷战地缘博弈驱动的“发展转向”对比较教育学科版图的重构，揭示联邦资助向苏联与第三世界倾斜如何导致西欧教育研究遭遇资金抽空与边缘化危机（pp. 19–21）。

@@ -26001,6 +26001,9 @@
     "Urbina, 2017": "Urbina, 2017",
     "Urhan et al. (2024)": "Urhan et al., 2024",
     "Urhan et al., 2024": "Urhan et al., 2024",
+    "Ursula Springer (1969)": "Ursula Springer, 1969",
+    "Ursula Springer, 1969": "Ursula Springer, 1969",
+    "Ursula Springer, 1969a": "Ursula Springer, 1969",
     "Useem (1984)": "Useem, 1984",
     "Useem, 1984": "Useem, 1984",
     "Usher & Savino (2007)": "Usher & Savino, 2007",
@@ -30548,9 +30551,7 @@
         "Acharya, 2005"
       ],
       "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
-      ],
+      "seen_in": [],
       "title": "Do norms and identity matter? Community and power in Southeast Asia’s regional order"
     },
     "Acharya, 2012a": {
@@ -41587,6 +41588,7 @@
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Rizvi_2022_Springer.md",
         "wiki/arguments/journal-articles/Global Education Outlook/Argument_Xie_Li_Huang_2021_GEO.md",
+        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md",
         "wiki/arguments/reports-policy-documents/Argument_ONeill_2016_Report.md",
         "wiki/concepts/educational-policy-reform/Dual-Entity Legal Structure.md",
         "wiki/concepts/educational-policy-reform/Efficacy Framework.md",
@@ -46582,6 +46584,7 @@
         "wiki/concepts/comparative-education/Scientific Paradigm.md",
         "wiki/concepts/comparative-education/The Nation-State as the Unit of Comparison.md",
         "wiki/concepts/comparative-education/Whiggism.md",
+        "wiki/concepts/educational-philosophy/Scientism.md",
         "wiki/concepts/research-methodology/Unit of Analysis.md",
         "wiki/methods/qualitative/Bereday's Comparative Method.md",
         "wiki/persons/us/George Bereday.md"
@@ -53652,7 +53655,8 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md",
         "wiki/concepts/comparative-education/The Nation-State as the Unit of Comparison.md",
-        "wiki/concepts/research-methodology/Unit of Analysis.md"
+        "wiki/concepts/research-methodology/Unit of Analysis.md",
+        "wiki/methods/qualitative/Vertical Case Study.md"
       ],
       "title": "Levels of comparison in educational studies: Different insights from different literatures and the value of multilevel analyses"
     },
@@ -96916,6 +96920,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/educational-philosophy/Scientism.md",
         "wiki/persons/france/Victor Cousin.md"
       ],
       "title": ""
@@ -130126,7 +130131,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Nordtveit_2011_IJED.md"
+        "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Nordtveit_2011_IJED.md",
+        "wiki/concepts/comparative-education/Context in Comparative Education.md"
       ],
       "title": "China and Africa: New approaches to aid, trade and international cooperation"
     },
@@ -136525,7 +136531,9 @@
         "Lareau, 2000"
       ],
       "isbn": "9780742501584",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md"
+      ],
       "title": "Home Advantage: Social Class and Parental Intervention in Elementary Education"
     },
     "Lareau, 2003": {
@@ -160104,7 +160112,9 @@
         "Motivans, 2006"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/comparative-education/Context in Comparative Education.md"
+      ],
       "title": "Comparative education, area studies, and the disciplines"
     },
     "Motteram, 2016": {
@@ -172323,16 +172333,15 @@
         "Patricia Broadfoot, 1999",
         "Patricia Broadfoot (1999)"
       ],
-      "doi": "",
+      "doi": "10.1080/0305792990290302",
       "identity_keys": [
         "Patricia Broadfoot, 1999"
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/comparative-education/Context in Comparative Education.md",
         "wiki/concepts/comparative-education/Learnology.md"
       ],
-      "title": ""
+      "title": "Stones from other hills may serve to polish the jade of this one: Towards a neo-comparative 'learnology' of education"
     },
     "Patrick Le Galès, 2016": {
       "aliases": [
@@ -181847,6 +181856,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md",
         "wiki/persons/uk/Stephen Ball.md"
       ],
       "title": "Choices of Degree or Degrees of Choice? Class, Race and the Higher Education Choice Process"
@@ -181864,6 +181874,7 @@
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md",
+        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md",
         "wiki/concepts/sociology-of-education/Cultural Disorientation.md",
         "wiki/concepts/sociology-of-education/Habitus.md",
         "wiki/concepts/sociology-of-education/The Shock of the Elite.md"
@@ -181880,7 +181891,9 @@
         "Reay et al., 2010"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md"
+      ],
       "title": "'Fitting in' or 'Standing out': Working Class Students in UK Higher Education"
     },
     "Reay, 1998": {
@@ -181910,6 +181923,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
+        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md",
         "wiki/concepts/sociology-of-education/The Shock of the Elite.md",
         "wiki/persons/uk/Diane Reay.md"
       ],
@@ -204680,7 +204694,9 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md",
+        "wiki/concepts/comparative-education/Comprehensive Education.md",
+        "wiki/concepts/sociology-of-education/Tracking.md"
       ],
       "title": "Editor's introduction"
     },
@@ -218965,6 +218981,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Computers and Education Artificial Intelligence/Argument_Li_2026_CEAI.md"
+      ],
+      "title": ""
+    },
+    "Ursula Springer, 1969": {
+      "aliases": [
+        "Ursula Springer, 1969",
+        "Ursula Springer (1969)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ursula Springer, 1969a"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Comprehensive Education.md"
       ],
       "title": ""
     },

@@ -11,7 +11,7 @@ aliases:
 summary: "英国社会学家巴兹尔·伯恩斯坦（Basil Bernstein）提出的结构社会学分析理论，以权力划界形成的分类与控制分配构成的框架为双重视角，阐明学校课程形态与教学互动如何作为中介代码，将宏观权力结构转化为行动者的微观意识、知识取向与等级身份。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 35
+theory_related_count: 37
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Alienation]]"
   - "[[New Sociology of Education]]"
+  - "[[Pedagogic Identity]]"
   - "[[Code-Switching]]"
   - "[[Discourse]]"
   - "[[Recontextualization]]"
@@ -57,6 +58,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Basil Bernstein]]"
+  - "[[Leonel Lim]]"
   - "[[Michael W. Apple]]"
 related_facts: []
 related_arguments:
@@ -65,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-18
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 
 ---
@@ -106,7 +108,7 @@ updated: 2026-11-19
 > | 聚集型代码（Collection Codes） | 代码形态 | 由强分类与强框架组合而成，学科边界清晰，教师严格掌控教学节奏与标准答案。 |
 > | 整合型代码（Integrated Codes） | 代码形态 | 由弱分类与弱框架组合而成，打破学科界限，赋予学习者自主探究与意义协商空间。 |
 > | 神圣知识与世俗知识（Sacred and Profane Knowledge） | 知识属性 | 区分追求知识内在自主性与超脱性的神圣取向，以及追求市场交换价值与外在任务达成的世俗取向。 |
-> | [[Pedagogic Identity|教学身份]]（Pedagogic Identity） | 主体机制 | 教学话语专门化在行动者身上产生的微观主观认同，将外部社会秩序内化为心理结构。 |
+> | [[Pedagogic Identity\|教学身份]]（Pedagogic Identity） | 主体机制 | 教学话语专门化在行动者身上产生的微观主观认同，将外部社会秩序内化为心理结构。 |
 
 ---
 

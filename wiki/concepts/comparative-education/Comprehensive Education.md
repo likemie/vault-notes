@@ -10,10 +10,10 @@ aliases:
 summary: "打破按能力或社会阶层过早分流、在统一学校内向所有适龄学生提供相同或共通基础课程的教育组织原则；欧洲战后普遍通过综合化改革促进教育民主化与社会融合，但其实施过程中在追求形式平等与应对学生资质异质性之间持续面临张力。"
 type: concept
 domain: "comparative-education"
-related_count: 16
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 22
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept
   - comparative-education
@@ -29,22 +29,28 @@ related_concepts:
   - "[[Professional Interest]]"
   - "[[Champ]]"
   - "[[Academic Achievement]]"
+  - "[[Differentiated Instruction]]"
   - "[[Variable]]"
 related_methods:
   - "[[Effect Size]]"
 related_persons:
   - "[[José Luis García Garrido]]"
+  - "[[Iveta Silova]]"
 related_facts:
   - "[[General Act of Education of 1970]]"
   - "[[PISA]]"
-  - "[[Eleven-plus Exam]]"
+  - "[[Integrated Programme]]"
+  - "[[Grammar School]]"
+  - "[[Comparative and International Education Society]]"
   - "[[Organic Law on the General Organization of the Education System 1990]]"
+  - "[[Eleven-plus Exam]]"
 related_arguments:
   - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
+  - "[[Argument_Silova_2009_EE]]"
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-11-15
+updated: 2026-11-20
 ---
 
 ---
@@ -104,7 +110,7 @@ updated: 2026-11-15
 
 ---
 
-> [!concept-proposition] 命题一｜均质综合课程的机械延展易导致学生动力分化与学业平庸
+> [!concept-proposition] 命题一｜均质[[Integrated Programme|综合课程]]的机械延展易导致学生动力分化与学业平庸
 > **课程均质性与学业抗拒** 探讨综合教育在延至 14 至 16 岁高龄时，若缺乏弹性化路径，形式上的平等如何异化为大面积的学业失败与厌学情绪。
 
 > [!claim] [[José Luis García Garrido|García Garrido]], J. L.
@@ -120,16 +126,25 @@ updated: 2026-11-15
 
 ---
 
+> [!concept-proposition] 命题三｜战后西欧综合教育改革在打破双轨壁垒与因应历史制度惰性之间呈现多元调和路径
+> **战后中等教育综合化改革的跨国调和** 探讨欧洲各国在由双轨学制向大众综合中等教育转型过程中，如何依据本土国家治理体制与历史传统因地制宜形成多样化改革模式。
+
+> [!claim] [[Argument_Silova_2009_EE|Silova (2009)]] & Springer (1969a)
+> **战后西欧中等教育综合化改革的多国调和路径** 施普林格（Ursula Springer, 1969a）跨国比较考证表明，二战后西欧主要国家普遍面临中等教育从精英双轨向大众综合化转型的历史挑战：瑞典以九年一贯制基础学校（Grundskola）实行最彻底的延迟分流与全纳综合；英国推进综合中学逐步取代[[Grammar School|文法学校]]旧轨并在校内探索能力分组教学；法国设立统一初中（[[Comparative and International Education Society|CES]]）设置两年观察期实现渐进式定向；西德则在保留三轨传统框架下试点综合学校（Gesamtschule），反映出联邦分权体制下学术传统对综合化的体制抵抗。施洛娃指出，这一多国主题化比较揭示了西欧各国在推进综合教育机会均等与因应制度历史惰性之间的复杂调和机制。[[Argument_Silova_2009_EE|(Silova, 2009, pp. 22–24)]]
+
+---
+
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **均质课程平庸化命题** | 硬性将单一学术课程延长至 16 岁会脱离青少年发展分化规律，滋生大量学业抗拒者并压低卓越率 | 中等综合中学改革、课程分化设计、义务教育年限延长批判 | [[José Luis García Garrido\|García Garrido (2009)]] |
 > | **民主符号与分流修正摆动命题** | 综合教育常被后发转型国家符号化为民主正统，与发达国家向多样化（Diversification）分流务实修正的演进形成脱节 | 比较中等教育体制演进、教育民主化意识形态分析、欧洲学制调适 | [[José Luis García Garrido\|García Garrido (2009)]] |
+> | **战后多国制度调和命题** | 西欧各国在推进综合化以打破双轨阶级壁垒时，呈现出从彻底全纳到渐进观察及有限试点的多样化调和路径 | 战后西欧中等教育结构转型、比较课程改革、制度历史惰性考证 | Springer (1969a); [[Argument_Silova_2009_EE\|Silova (2009, pp. 22–24)]] |
 
 ---
 
 > [!dev-timeline] 概念演变
-> - **1950–1960 年代 — 战后欧洲综合中学运动萌发** 英国工党政府推行综合中学政策（Comprehensive Schools），瑞典率先完成 9 年一贯制综合基础学校改革，旨在打破 11 岁考试（[[Eleven-plus Exam|Eleven-plus]]）等早熟分流体制对工薪阶层的制度性淘汰。
+> - **1950–1960 年代 — 战后欧洲综合中学运动展开与多国比较** 英国推行综合中学政策（Comprehensive Schools），瑞典率先完成 9 年一贯制综合基础学校改革；施普林格（Springer, 1969a）系统开展英、法、德、意中等综合课程与结构改革跨国比较，考证欧洲打破早熟分流体制的多国调和路径。[[Argument_Silova_2009_EE|(Silova, 2009, pp. 22–24)]]
 > - **1970 年代 — 南欧转型国家确立综合原则** 西班牙 1970 年《[[General Act of Education of 1970|普通教育法]]》（[[General Act of Education of 1970|LGE]]）在初等学段确立综合教育原则，将基础教育统一整合为 8 年。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 323)]]
 > - **1980–1990 年代 — 义务教育延长与均质化硬性推行** 西班牙 1990 年《[[Organic Law on the General Organization of the Education System 1990|教育体制总体组织法]]》（[[Organic Law on the General Organization of the Education System 1990|LOGSE]]）将义务教育延长至 16 岁，并强制实施单一且相同的综合课程，取消 14 岁实质分流。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 330–331)]]
 > - **2000 年代至今 — 均质化反思与多样化修正** 英法等国通过高中模块化深度研习或初中后期选修强化拔尖与因材施教；比较教育学者（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009]]）批判均质综合制导致的学业抗拒者泛滥与学术平庸化。
@@ -145,6 +160,9 @@ updated: 2026-11-15
 > > [!axis] 一体化共通课程 vs 适度多样化分流（Diversification）
 > > - **绝对综合论者** 任何在 16 岁前设置分轨的做法都会重蹈阶级筛选覆辙，必须坚持单一核心课程。
 > > - **适度多元修正论者** 14 岁之后青少年的资质与抱负已显著分化，欧洲先进经验表明必须引入技术、艺术与学术选修路径，因势利导才能降低抵触情绪。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 330–331)]]
+
+> [!warning|limits] 适用局限
+> 综合教育改革能否达成教育机会均等，高度依赖配套的财政投入、[[Differentiated Instruction|差异化教学]]支持与公平的高中衔接机制；若仅在形式上取消物理分轨而未改革评价标准或提供多元选修，极易在校内隐性滋生学力抗拒或导致中等教育整体学术平庸化。
 
 ---
 
@@ -170,6 +188,7 @@ updated: 2026-11-15
 > | [[Champ]] | 概念 | 综合中学内部多元背景学生汇聚并发生文化区隔博弈的社会场域。 |
 > | [[Academic Achievement]] | 概念 | 均质综合课程评价中涉及的学业成就与卓越率受抑维度。 |
 > | [[José Luis García Garrido]] | 人物 | 深刻剖析西班牙与欧洲综合教育改革演进及其平庸化风险的比较教育学者。 |
+> | [[Iveta Silova]] | 人物 | 考证比较教育学者对战后西欧中等综合教育改革的多国主题化比较与课程演进。[[Argument_Silova_2009_EE\|(Silova, 2009, pp. 22–24)]] |
 > | [[General Act of Education of 1970]] | 事实 | 西班牙在基础教育阶段确立 8 年一贯综合教育原则的里程碑法律。 |
 > | [[Organic Law on the General Organization of the Education System 1990]] | 事实 | 西班牙将均质综合教育硬性延长至 16 岁的关键改革立法。 |
 > | [[Eleven-plus Exam]] | 事实 | 英国战后综合中学运动旨在废除的 11 岁小学升初中淘汰性分选考试。 |
@@ -178,4 +197,5 @@ updated: 2026-11-15
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Silova_2009_EE|Silova (2009)]] — 考证施普林格对战后西欧（瑞典、英、法、德）中等综合教育改革与课程分化的跨国主题比较研究（pp. 22–24）。
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 比较西班牙、英、法、德等国中等学制演进，批判西班牙 LOGSE 将均质综合中学硬性延展至 16 岁所导致的学业抗拒者泛滥与系统性平庸。

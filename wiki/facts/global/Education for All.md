@@ -11,10 +11,10 @@ subtype: policy
 region: "global"
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 50
-fact_related_level: 5
-fact_related_stars: "💎⭐⭐"
-fact_related_color: "#fecdd3"
+fact_related_count: 49
+fact_related_level: 4
+fact_related_stars: "💎⭐"
+fact_related_color: "#dbeafe"
 issuing_organization: "[[UNESCO]], [[World Bank]], [[UNICEF]], UNDP"
 tags:
   - fact/policy
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Neoliberalism]]"
   - "[[Disbursement-Driven Evaluation]]"
   - "[[Learning Crisis]]"
-  - "[[Transnational Education]]"
   - "[[Counterpart Funds]]"
   - "[[Policy Conditionalities]]"
   - "[[School Choice]]"
@@ -76,14 +75,14 @@ related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Freeman_1995_CJE]]"
   - "[[Argument_Castro_2009_MultilateralBanks]]"
+  - "[[Argument_Nordtveit_2011_IJED]]"
   - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Santos_Silova_2026_Discourse]]"
   - "[[Argument_King_2007_CE]]"
-  - "[[Argument_Nordtveit_2011_IJED]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 
 ---
@@ -140,9 +139,9 @@ updated: 2026-11-19
 >
 > | 维度 | 人文主义受教育权联盟 | 财政管理新自由主义联盟 |
 > |:---|:---|:---|
-> | 核心行动者 | [[UNESCO|联合国教科文组织]]、国际乐施会、教师工会、南半球公民社会 | [[World Bank|世界银行]]、国际货币基金组织、美国及西欧核心捐资国 |
+> | 核心行动者 | [[UNESCO\|联合国教科文组织]]、国际乐施会、教师工会、南半球公民社会 | [[World Bank\|世界银行]]、国际货币基金组织、美国及西欧核心捐资国 |
 > | 资源基础 | 联合国大会道德合法性、《人权宣言》法理、草根动员网络 | 巨额政策贷款资金池、外债重组审批权、财政问责规制工具 |
-> | 利益框架 | 受教育权是神圣基本人权，国家承担免费优质教育全额公共财政义务。 | 教育是推动经济增长与减贫的[[Human Capital Theory|人力资本]]投资，主张成本分担与效率问责。 |
+> | 利益框架 | 受教育权是神圣基本人权，国家承担免费优质教育全额公共财政义务。 | 教育是推动经济增长与减贫的[[Human Capital Theory\|人力资本]]投资，主张成本分担与效率问责。 |
 > | 主要策略 | 倡导国际公约、动员草根游说、定期发布全球教育人权监测报告。 | 将入学率指标与借贷审批硬挂钩、推行学校管理私营化试点。 |
 >
 > **关键分歧** 围绕全民教育究竟是国家必须无条件供给的公共福利，还是受制于财政效率与偿债能力的投资方案，两大阵营在整个 1990 年代至 2000 年代展开了长期的政策拉锯。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
@@ -219,18 +218,18 @@ updated: 2026-11-19
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[UN Sustainable Development Goals]] | 政策事实 | [[Education for All|EFA]] 达喀尔目标的直接制度继承者，升级为包容优质的 SDG 4 目标。 |
-> | [[Millennium Development Goals]] | 政策事实 | 承接 EFA 初等教育普及与性别均等指标的核心跨国发展架构。 |
-> | [[Global Partnership for Education]] | 国际组织 | 由全民教育快车道倡议（EFA-FTI）演变重组而成的全球[[CORE Education|核心教育]]基金机构。 |
-> | [[National Innovation System]] | 概念 | EFA 所推动的初等普及构成国家[[Systems of Innovation|创新系统]]人才储备，但必须与中高等工科教育全链条协同才能形成[[Absorptive Capacity|吸收能力]]。 |
-> | [[Chris Freeman]] | Person | 考察东亚与拉美后发赶超分歧，论证基础教育普及与工科高等教育协同构成国家创新系统基石的核心学者。 |
-> | [[Human Capital Theory]] | 理论 | 为[[World Bank|世界银行]]在 EFA 中大力投资初等教育提供实证收益率依据的核心经济学理论。 |
-> | [[Typology of Educational Responses to Globalization]] | 理论 | 将全民教育中的依附性借调与古巴式自主抵抗置于全球化教育响应类型学中加以理论化。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, pp. 133–134)]] |
+> | [[UN Sustainable Development Goals]] | 事实 (政策) | [[Education for All\|EFA]] 达喀尔目标的直接制度继承者，升级为包容优质的 SDG 4 目标。 |
+> | [[Millennium Development Goals]] | 事实 (政策) | 承接 EFA 初等教育普及与性别均等指标的核心跨国发展架构。 |
+> | [[Global Partnership for Education]] | 事实 (机构) | 由全民教育快车道倡议（EFA-FTI）演变重组而成的全球[[CORE Education\|核心教育]]基金机构。 |
+> | [[National Innovation System]] | 概念 | EFA 所推动的初等普及构成国家[[Systems of Innovation\|创新系统]]人才储备，但必须与中高等工科教育全链条协同才能形成[[Absorptive Capacity\|吸收能力]]。 |
 > | [[Governing by Numbers]] | 概念 | EFA 开启了将全球南方国家纳入跨国量化指标多边规制的历史先河。 |
 > | [[Multilateral Development Bank]] | 概念 | 凭借巨额主权贷款资金接管全民教育实质组织与政策议程的核心金融主体。[[Argument_Castro_2009_MultilateralBanks\|(Castro, 2009, pp. 466, 474)]] |
-> | [[Claudio de Moura Castro]] | 人物 | 亲历多边银行主导宗迪恩大会并揭示[[UNESCO|教科文组织]]理念领导权易手的高阶实务学者。 |
 > | [[Counterpart Funds]] | 概念 | 多边银行在全民教育贷款中强制锁定借款国本国财政预算的核心机制。[[Argument_Castro_2009_MultilateralBanks\|(Castro, 2009, p. 458)]] |
 > | [[Disbursement-Driven Evaluation]] | 概念 | 导致全民教育贷款陷入“数校舍、点人头”与在校无学质量危机的内部评估异化机制。[[Argument_Castro_2009_MultilateralBanks\|(Castro, 2009, pp. 470–471)]] |
+> | [[Human Capital Theory]] | 理论 | 为[[World Bank\|世界银行]]在 EFA 中大力投资初等教育提供实证收益率依据的核心经济学理论。 |
+> | [[Typology of Educational Responses to Globalization]] | 理论 | 将全民教育中的依附性借调与古巴式自主抵抗置于全球化教育响应类型学中加以理论化。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, pp. 133–134)]] |
+> | [[Chris Freeman]] | 人物 | 考察东亚与拉美后发赶超分歧，论证基础教育普及与工科高等教育协同构成国家创新系统基石的核心学者。 |
+> | [[Claudio de Moura Castro]] | 人物 | 亲历多边银行主导宗迪恩大会并揭示[[UNESCO\|教科文组织]]理念领导权易手的高阶实务学者。 |
 > | [[Val D. Rust]] | 人物 | 援引教科文组织 2006 年 EFA 监测报告，批判外部结构调整借贷对普及目标的阻碍，确立古巴主权动员的对照典范。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, p. 134)]] |
 
 ---

@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-18
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 
 ---
@@ -74,7 +74,7 @@ updated: 2026-11-19
 ---
 
 > [!org-evolution] 组织发展与代表性项目
-> - **2003–2007** **初创奠基与核心项目一期（Core 1）**
+> - **2003–2007** **机构创建与核心项目一期（Core 1）**
 >
 >   汇聚跨国顶尖教育学者团队，研制适用于新加坡多语与多族群文化生态的微观[[Classroom Observation|课堂观察]]与录像编码系统。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 456–457)]]
 >
@@ -115,7 +115,7 @@ updated: 2026-11-19
 > | [[Core 2 Research Program]] | 事实 | CRPP 实施的核心纵向课堂追踪研究项目（2008–2012）。 |
 > | [[David Hogan]] | 人物 | 曾任 CRPP 研究总监，领衔开展 Core 2 研究并系统建构教学杂糅分析模型。 |
 > | [[Pedagogical Hybridity]] | 概念 | CRPP 课堂实证研究所揭示的新加坡微观课堂核心教学形态。 |
-> | [[Direct Instruction]] | 概念 | CRPP 调查证实构成新加坡课堂稳固基础的[[Structured Teaching|结构化教学]]法。 |
+> | [[Direct Instruction]] | 概念 | CRPP 调查证实构成新加坡课堂稳固基础的[[Structured Teaching\|结构化教学]]法。 |
 > | [[Curriculum Alignment]] | 概念 | CRPP 揭示的新加坡高利害考试与课堂练习题集紧密铆合的治理特征。 |
 
 ---

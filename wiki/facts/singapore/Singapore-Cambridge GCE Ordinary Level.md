@@ -12,7 +12,7 @@ subtype: policy
 region: "singapore"
 fact_region: "singapore"
 fact_kind: "policy"
-fact_related_count: 26
+fact_related_count: 25
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -50,7 +50,6 @@ related_facts:
   - "[[Singapore Ministry of Education]]"
   - "[[Ministry of Education of the People's Republic of China]]"
   - "[[Primary School Leaving Examination]]"
-  - "[[Global Campaign for Education]]"
   - "[[Goh Report]]"
   - "[[Teach Less, Learn More]]"
   - "[[Thinking Schools, Learning Nation]]"
@@ -59,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 
 ---
@@ -73,7 +72,7 @@ updated: 2026-11-19
 ---
 
 > [!claim] 政策核心
-> 新加坡剑桥普通教育证书普通水准会考（Singapore-Cambridge General Certificate of Education Ordinary Level, [[Global Campaign for Education|GCE]] O-Level）是新加坡针对中等教育修业期满学生举行的全国终结性资格与升学检定考试。考试由新加坡教育部、SEAB 与剑桥大学考评部共同研发、命题与阅卷，考查英语、母语、人文、数学与科学等主干学科；测试成绩以积分评级（L1R5 或 EL1R2B2）直接调控高级中等教育与大专职业教育轨道的录取准入，构成了新加坡英才主义分流治理体系的法定枢纽。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 58–60)]]
+> 新加坡剑桥普通教育证书普通水准会考（Singapore-Cambridge General Certificate of Education Ordinary Level, GCE O-Level）是新加坡针对中等教育修业期满学生举行的全国终结性资格与升学检定考试。考试由新加坡教育部、SEAB 与剑桥大学考评部共同研发、命题与阅卷，考查英语、母语、人文、数学与科学等主干学科；测试成绩以积分评级（L1R5 或 EL1R2B2）直接调控高级中等教育与大专职业教育轨道的录取准入，构成了新加坡英才主义分流治理体系的法定枢纽。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 58–60)]]
 
 > [!policy-design] 政策设计
 > - **政策目标** 客观测量中学生在国家规定课程大纲下的学科知识掌握度与基本认知技能，为不同学术资质与[[Professional Interest|志趣]]倾向的学生提供差[[Alienation|异化]]后中等教育升学通道，支撑[[Developmental State|发展型国家]]对技术工人、行政官僚与拔尖专业人才的分层配置需求。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 58–60)]]
@@ -148,7 +147,7 @@ updated: 2026-11-19
 > |:-----|:-----|:-----|
 > | [[Developmental State]] | 理论 | 为新加坡依托国家标准化考试实施人力资源分层配置提供政治经济学解释。 |
 > | [[Human Capital Theory]] | 理论 | 会考确立了全民高质量学术知识储备，为国家经济增长提供人力资本支撑。 |
-> | [[Discursive Institutionalism]] | 理论 | 阐释会考问责制度如何在微观教学实践中形成压倒性的制度[[Discourse|话语]]力量。 |
+> | [[Discursive Institutionalism]] | 理论 | 阐释会考问责制度如何在微观教学实践中形成压倒性的制度[[Discourse\|话语]]力量。 |
 > | [[Primary School Leaving Examination]] | 政策 | 与 O 水准会考共同构筑新加坡基础教育两次关键的高利害能力分流关口。 |
 > | [[Teach Less, Learn More]] | 政策 | 试图缩减课程大纲以缓解 O 水准会考高利害应试压力的课程改革。 |
 > | [[Thinking Schools, Learning Nation]] | 政策 | 新加坡国家宏观教育愿景，致力于平衡会考学术基线与创新思维培育。 |

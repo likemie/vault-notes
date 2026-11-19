@@ -5,7 +5,7 @@ aliases:
 summary: "跨越单一国家教育边界组织人员、共同生活、课程、评价与资格承认的教育实践和制度。既包含以跨文化理解为目的的教育计划，也包含全球化推动的流动市场扩张，以及当代发展型国家依托地缘战略资助推进南南合作的新型治理形态。"
 type: concept
 domain: "higher-education"
-related_count: 63
+related_count: 65
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -58,19 +58,18 @@ related_persons:
 related_facts:
   - "[[Founding of the International Baccalaureate]]"
   - "[[PISA]]"
-  - "[[Global Campaign for Education]]"
   - "[[UNESCO]]"
   - "[[World Bank]]"
   - "[[World Trade Organization]]"
   - "[[GATS and Trade in Education Services]]"
   - "[[Belt and Road Initiative]]"
+  - "[[Comparative and International Education Society]]"
   - "[[International Monetary Fund]]"
   - "[[National Education]]"
   - "[[Education for All]]"
   - "[[Education International]]"
   - "[[United World Colleges]]"
   - "[[English Schools Foundation Hong Kong]]"
-  - "[[Comparative and International Education Society]]"
 related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt_Ch01]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch02]]"
@@ -83,9 +82,10 @@ related_arguments:
   - "[[Argument_Qu_2024_IJED]]"
   - "[[Argument_Liu_2025_IndHE]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch04]]"
+  - "[[Argument_Silova_2009_EE]]"
   - "[[Argument_Kuortti_2025_JEdPolicy]]"
   - "[[Argument_Rust_2009_Reflections]]"
-  - "[[Argument_Silova_2009_EE]]"
+  - "[[Argument_Vavrus_2006_CICE]]"
 confidence: high
 status: active
 created: 2026-05-16
@@ -160,7 +160,7 @@ updated: 2026-11-20
 > **教育价值与资格制度维度** 国际教育需要把共同生活、课程目标与跨国资格连接起来，才能取得连续运行的组织能力。
 
 > [!claim] [[Argument_Peterson_1987_OpenCourt|Peterson (1987)]]
-> **国际课程的制度支柱超越单一教学大纲** 大西洋学院采用英国普通教育证书高级程度考试（[[Global Campaign for Education|GCE]] A-level）可以暂时维持共同教学，却无法解决国家偏向、语言公平、学科广度、录取时序和学生回国升学问题。[[International Baccalaureate|国际文凭]]（IB）随后把教师倡议、独立法律组织、连续资金、六学科、[[Theory of Knowledge|知识论]]（TOK）、试验学校、家庭风险和大学有限承认连接起来，才使国际教育从共同生活实验扩展为可用于升学的资格。[[Argument_Peterson_1987_OpenCourt_Ch01|(Peterson, 1987, pp. 9–13)]]; [[Argument_Peterson_1987_OpenCourt_Ch02|(Peterson, 1987, pp. 17–31)]]
+> **国际课程的制度支柱超越单一教学大纲** 大西洋学院采用英国普通教育证书高级程度考试（GCE A-level）可以暂时维持共同教学，却无法解决国家偏向、语言公平、学科广度、录取时序和学生回国升学问题。[[International Baccalaureate|国际文凭]]（IB）随后把教师倡议、独立法律组织、连续资金、六学科、[[Theory of Knowledge|知识论]]（TOK）、试验学校、家庭风险和大学有限承认连接起来，才使国际教育从共同生活实验扩展为可用于升学的资格。[[Argument_Peterson_1987_OpenCourt_Ch01|(Peterson, 1987, pp. 9–13)]]; [[Argument_Peterson_1987_OpenCourt_Ch02|(Peterson, 1987, pp. 17–31)]]
 
 > [!claim] [[Argument_Peterson_1987_OpenCourt|Peterson (1987)]]
 > **考试是缺乏行政权力时的课程实施工具** 国际文凭办公室（IBO）无法像国家系统那样以法律、师训和督学规定学校，只能主要通过考试规则保护课程。课程必须先规定希望形成的思维方式和经验，评价再在效度、[[Reliability|可靠性]]、反拨、成本与速度之间权衡；否则升学压力会把国际教育重新缩减为最容易计分的内容。[[Argument_Peterson_1987_OpenCourt_Ch03|(Peterson, 1987, pp. 33–57)]]
@@ -209,7 +209,7 @@ updated: 2026-11-20
 > [!dev-timeline] 概念演变
 > - **20 世纪中期以前 — 民族国家教育基线与殖民前哨** 中小学由地方税收支持，早期海外学校多是殖民或侨民前哨，把母国课程移植到境外，尚未建立真正共同的国际课程。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 3–5, 19–24)]]
 > - **1945–1970 年代 — 共同生活实验与战后有限再分配多边主义** [[UNESCO|联合国教科文组织]]主导战后多边主义，支持新兴民族国家扫盲与公立教育建设。同时大西洋学院开展跨文化实验，推动六学科与考试网络建立，1976 年确立常设国际组织。[[Argument_Peterson_1987_OpenCourt_Ch01|(Peterson, 1987, pp. 1–13)]]; [[Argument_Peterson_1987_OpenCourt_Ch04|(Peterson, 1987, pp. 61–97)]]
-> - **1968 — 比较与国际教育学会（CIES）定名与建制整合** 北美比较教育学会（CES）正式更名为比较与国际教育学会（Comparative and International Education Society, CIES），标志着比较学术研究与战后国际教育援助、技术咨询及跨国交流项目的建制融合。[[Argument_Silova_2009_EE|(Silova, 2009, pp. 20–22)]]
+> - **1968 — [[Comparative and International Education Society|比较与国际教育学会]]（CIES）定名与建制整合** 北美比较教育学会（CES）正式更名为比较与国际教育学会（Comparative and International Education Society, CIES），标志着比较学术研究与战后国际教育援助、技术咨询及跨国交流项目的建制融合。[[Argument_Silova_2009_EE|(Silova, 2009, pp. 20–22)]]
 > - **1980 年代 — 债务危机与防卫性规训多边主义** 全球南方债务危机爆发后，国际教育治理主导权自教科文组织转向[[World Bank|世界银行]]与 [[International Monetary Fund|IMF]]，通过结构调整推行紧缩与收取学杂费，教育被重塑为服务经济增长的工具。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
 > - **1990 年代至 2000 年代初 — 大众流动与 WTO/GATS 贸易规制扩张** 留学生流动急剧增长；1995 年世贸组织实施《服务贸易总协定》，国际教育确立为跨国服务贸易门类；2000 年 PISA 与大学排名系统将教育机构置入全球共同测量序列。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 1–18)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 > - **2020 年代 — 发展型国家地缘战略资助模式** [[Argument_Woo_2023_HEP|Woo (2023)]] 系统剖析国际教育从西方新自由主义主导的高额学费出口创汇市场，拓展为由国家全额奖学金与基建产能配套支撑的地缘战略公法工具，并实证诊断其内在脆弱性。
@@ -276,14 +276,17 @@ updated: 2026-11-20
 > | [[South-South Cooperation]] | 概念 | 发展型国家推进国际教育合作所依托的新型地缘战略框架。 |
 > | [[Student Mobility]] | 概念 | 国际教育中最直观的跨境人员流动表现形式。 |
 > | [[Teacher Mobility]] | 概念 | 支撑国际教育课程实施的跨国师资流动形态。 |
-> | [[Alec Peterson]] | 人物 | 国际文凭组织首任总干事，现代国际教育制度奠基者。 |
+> | [[Alec Peterson]] | 人物 | 国际文凭组织首任总干事，现代国际教育制度创立者之一。 |
 > | [[Robert Arnove]] | 人物 | 批判世界体系下国际教育与比较教育制度演化的学者。 |
-> | [[UNESCO]] | 机构事实 | 战后倡导国际教育人道主义价值与社会福利的主导多边机构。 |
-> | [[World Trade Organization]] | 机构事实 | 通过服务贸易总协定将国际教育纳入跨国服务贸易规则的机构。 |
+> | [[Iveta Silova]] | 人物 | 考证比较与国际教育学会建制史，剖析国际教育实务与比较学术传统的制度整合。[[Argument_Silova_2009_EE\|(Silova, 2009, pp. 20–22)]] |
+> | [[UNESCO]] | 事实 | 战后倡导国际教育人道主义价值与社会福利的主导多边机构。 |
+> | [[World Trade Organization]] | 事实 | 通过服务贸易总协定将国际教育纳入跨国服务贸易规则的机构。 |
+> | [[Comparative and International Education Society]] | 事实 | 1968年学会定名标志着比较学术研究与战后国际教育援助及交流实务的建制整合。[[Argument_Silova_2009_EE\|(Silova, 2009, pp. 20–22)]] |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Silova_2009_EE|Silova (2009)]] — 考证战后北美比较与国际教育学会（CIES）建制史，阐明 1968 年国际教育实务与比较学术传统的制度化整合（pp. 20–22）。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 考察中国高等教育国际化与地缘战略的交织，揭示发展型国家如何突破西方教育出口准市场模式，通过战略奖学金与基建配套开展南南国际教育合作（pp. 688–694）。
 > - [[Argument_Peterson_1987_OpenCourt|Peterson (1987)]] — 从大西洋学院共同生活追踪到教师倡议、独立组织、课程与考试设计，阐明国际教育目标如何转化为常设制度（Chs. 1–4, 8）。
 > - [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010)]] — 描述国际教育从国家绑定走向大众流动、全球比较、市场化和去国家化，并深入探讨文化预设与师资缺口。

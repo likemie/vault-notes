@@ -7,7 +7,7 @@ aliases:
 summary: "由雷默（J. C. Ramo）于2004年提出并在后危机时代演进的非西方发展范式与治理模式，强调国家战略规划、实验主义渐进改革、社会稳定与自主创新，在跨国高等教育中体现为国家战略驱动、全额奖学金供给与治国理政经验输出，与新自由主义华盛顿共识形成深刻对照。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 40
+related_count: 42
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -52,6 +52,7 @@ related_theories:
   - "[[Developmental State]]"
 related_methods:
   - "[[Discourse Analysis]]"
+  - "[[Fieldwork]]"
   - "[[Effect Size]]"
   - "[[Case Study]]"
   - "[[In-depth Interview]]"
@@ -63,11 +64,12 @@ related_facts:
   - "[[University Alliance of the Silk Road]]"
 related_arguments:
   - "[[Argument_Woo_2023_HEP]]"
+  - "[[Argument_Nordtveit_2011_IJED]]"
   - "[[Argument_Zhu_Yang_2023_HEP]]"
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 
 ---
@@ -137,6 +139,7 @@ updated: 2026-11-19
 > [!dev-timeline] 概念演变
 > - **2004 — 概念正式提出** 雷默（Joshua Cooper Ramo, 2004）发表研究报告《北京共识》，概括中国创新驱动、非均质发展与国家主权防卫的发展经验，将其视为对抗[[Washington Consensus|华盛顿共识]]的新[[Paradigm|范式]]。
 > - **2010 — 威权市场主义模式定性** 斯蒂芬·哈尔珀（Stefan Halper, 2010）出版专论，分析北京共识以经济高增长与社会稳定置换政治多元的威权市场模式，指出其对寻求摆脱西方霸权的发展中国家具有强大感召力。
+> - **2010–2011 — 非洲受援国田野实证与模式认同** 诺特维特（[[Argument_Nordtveit_2011_IJED|Nordtveit, 2011]]）在喀麦隆的质性[[Fieldwork|田野调查]]证实，受援国政治精英与官员高度认同作为发展替代模型的“北京共识”，在经历布雷顿森林机构结构调整挫败后，将中国不附带政治条件、以基础设施换取市场空间的务实合作视作摆脱西方后殖民家长式说教的制度选择。
 > - **2013–至今 — 全球战略倡议与[[Education Going Global|高教出海]]实践** 随着[[Belt and Road Initiative|一带一路倡议]]的提出，[[China Solution|中国方案]]与中国经验从被动发展概括演进为主动的对外制度化供给；吴（[[Argument_Woo_2023_HEP|Woo, 2023]]）将其引入教育政策社会学，全面解构中国高教出海中北京共识的文本框架、[[Discourse|话语实践]]与[[Geopolitics|地缘政治]]意图。
 
 ---
@@ -166,9 +169,11 @@ updated: 2026-11-19
 > | [[Argument_Woo_2023_HEP\|Woo (2023)]] | 截至2019年沿线签约国 | 双边外交与教育协定 | 学历学位互认协议签署国数 | 24 个国家 | 官方统计 | 反映中国高等教育制度标准在沿线国家的制度化吸纳程度（p. 680） |
 > | [[Argument_Woo_2023_HEP\|Woo (2023)]] | [[University Alliance of the Silk Road\|丝绸之路大学联盟]]（UASR） | 跨国高等教育多边联盟 | 吸纳海内外高校成员数 | 130+ 所 | 组织名册统计 | 汇聚五大洲30余个国家和地区院校，构建非西方多边学术合作网络（p. 680） |
 | [[Argument_Zhu_Yang_2023_HEP\|Zhu and Yang (2023)]] | 40 名中柬高教拓展知情人及深圳城市规划院涉外档案 | 定性[[Case Study\|案例研究]]（半结构化[[In-depth Interview\|深度访谈]]与规划文本互证） | 治理经验认同度、特区模式制度化输出机制 | 14 名知情人自发深入探讨中国发展治理经验；柬埔寨财经部委托深圳市城市规划[[Design-Based Research\|设计研究]]院编制总体规划，以深圳经济特区为蓝本规划建设西哈努克港经济特区（SSEZ） | — | 聚焦东南亚友好邻国精英，证实中国发展模式在空间规划层面对发展中国家决策层的务实吸引力（pp. 649–650） |
+| [[Argument_Nordtveit_2011_IJED\|Nordtveit (2011)]] | 喀麦隆 31 名关键知情人（涵盖政府高官、总理府顾问、高校师生及外交官） | 单国度定性[[Case Study\|案例研究]]（分层半结构化访谈与多源互证） | 受援国决策层对中国替代发展模式与援助风格认同度 | 喀麦隆政界与教育管理层明确将中国发展经验定性为替代性发展模型；对比法国家长式管教与挪威纯粹人道援助，盛赞中国基础设施合作的务实性与对受援国主权的尊重 | — | 实证揭示北京共识在撒哈拉以南非洲后殖民受援国决策层的深度制度吸引力与务实合作认同（pp. 105–106） |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Nordtveit_2011_IJED|Nordtveit (2011)]] — 基于喀麦隆一手田野访谈，揭示受援国决策精英在经历西方结构调整紧缩挫败后，对作为替代性发展模式的“北京共识”及其不附加政治条件的务实基础设施合作的深度认同。
 > - [[Argument_Zhu_Yang_2023_HEP|Zhu and Yang (2023)]] — 结合中柬高教拓展实证，论证中国经济发展模式作为独立软实力资源的合法性，并以柬埔寨以深圳特区为蓝本规划西哈努克港特区为例，揭示北京共识在东南亚决策层的务实认同机制。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 运用批判政策[[Discourse Analysis|话语分析]]系统对比[[Washington Consensus|华盛顿共识]]与北京共识在高等教育跨国治理中的理念分歧与[[Discourse|话语]]建构，解构中国[[Education Going Global|高教出海]]的意识形态与[[Geopolitics|地缘政治]]动因。

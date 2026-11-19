@@ -6,7 +6,7 @@ aliases:
 summary: "Bourdieu 场域理论概念，指场域中被自然化为理所当然的正统信念，通过结构安排而非显性强制维持其合法性"
 type: concept
 domain: "sociology-of-education"
-related_count: 21
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -18,17 +18,17 @@ tags:
   - region/france
 related_concepts:
   - "[[Champ]]"
-  - "[[Tracking]]"
-  - "[[Paradigm]]"
+  - "[[Epistemological Break]]"
   - "[[Habitus]]"
   - "[[Discourse]]"
+  - "[[Tracking]]"
+  - "[[Paradigm]]"
+  - "[[School Leadership]]"
   - "[[Intellectual-Social Divide]]"
-  - "[[Nerd]]"
   - "[[Talent Assumption]]"
-  - "[[Peer-Supported Learning]]"
+  - "[[Nerd]]"
   - "[[New Public Management]]"
   - "[[Epistemology]]"
-  - "[[Epistemological Break]]"
   - "[[Operationalization]]"
   - "[[Determinism]]"
 related_theories:
@@ -37,8 +37,11 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Pierre Bourdieu]]"
+  - "[[Scott Eacott]]"
+  - "[[Jin Li]]"
   - "[[Plato]]"
   - "[[Aristotle]]"
+  - "[[Edmund Husserl]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Eacott_2011_JEAH]]"
@@ -47,7 +50,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-09
-updated: 2026-11-16
+updated: 2026-11-20
 ---
 
 ---
@@ -73,7 +76,7 @@ updated: 2026-11-16
 
 ---
 
-> [!contrast-table|notitle] 场域话语斗争的三层光谱
+> [!contrast-table|notitle] 场域[[Discourse|话语]]斗争的三层光谱
 > | 层次 | 运作状态 | 话语特征 | 支配效力 |
 > |------|----------|----------|----------|----------|
 > | **Doxa（自明正统）** | 不被言说、不被感知为可争辩的共识 | “事情本就如此” | 支配力最强，作为隐性前提免于质疑 |
@@ -94,10 +97,10 @@ updated: 2026-11-16
 > [!concept-proposition] 命题一｜场域内的 doxa 通过制度结构自然化特定标准，从而排除了对评估前提的追问
 > **制度安排的去政治化机制** 在教育治理与学校场域中，doxa 将特定知识观、能力观或成败归因固化为自然秩序，使“谁设定标准”退出公共讨论。
 
-> [!claim] Eacott, S.
-> **学校领导力中的“证据本位”doxa** 澳大利亚新南威尔士州校长培养项目将“证据本位策略”作为“什么有效”的自明框架，从而把“学校成功的衡量标准由谁设定”与“谁决定什么重要”等根本前提排除在讨论之外。[[Argument_Eacott_2011_JEAH|(Eacott, 2011, p. 50)]]
+> [!claim] [[Scott Eacott|Eacott, S.]]
+> **[[School Leadership|学校领导力]]中的“证据本位”doxa** 澳大利亚新南威尔士州校长培养项目将“证据本位策略”作为“什么有效”的自明框架，从而把“学校成功的衡量标准由谁设定”与“谁决定什么重要”等根本前提排除在讨论之外。[[Argument_Eacott_2011_JEAH|(Eacott, 2011, p. 50)]]
 
-> [!claim] Li, J.
+> [!claim] [[Jin Li|Li, J.]]
 > **[[Intellectual-Social Divide|智识-社交分离]]作为学校 doxa** 西方学校文化将学术追求与社交生活设为互斥（擅长学习者被视为不会社交，受欢迎者被视为不学习），并通过将之归因为“人性使然”以及依赖[[Tracking|分轨制]]和教师固定标记加以制度性再生产；而转入不同学校结构后该现象随之消解，证明其属于特定场域的 doxa。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 91–94, 98–99)]]
 
 ---
@@ -105,7 +108,7 @@ updated: 2026-11-16
 > [!contrast-table] 所有命题归纳
 > | 命题 | 核心论点 | 关键机制与依据 | 理论旨趣 |
 > |---|---|---|---|
-> | **命题一｜场域自明标准的自然化** | 场域 doxa 通过制度结构将特定评判标准自然化，排除对前提的质疑 | 制度安排将评估指标转化为常识，再生产既有权力关系（[[Argument_Eacott_2011_JEAH|Eacott, 2011]]; [[Argument_Li_2012_Cambridge|Li, 2012]]） | 揭示教育治理与学校文化中的符号支配 |
+> | **命题一｜场域自明标准的自然化** | 场域 doxa 通过制度结构将特定评判标准自然化，排除对前提的质疑 | 制度安排将评估指标转化为常识，再生产既有权力关系（[[Argument_Eacott_2011_JEAH\|Eacott, 2011]]; [[Argument_Li_2012_Cambridge\|Li, 2012]]） | 揭示教育治理与学校文化中的符号支配 |
 
 ---
 
@@ -117,8 +120,8 @@ updated: 2026-11-16
 ---
 
 > [!dev-timeline] 概念演变
-> - **古希腊时期 — 哲学认识论起点** 在[[Plato|柏拉图]]与[[Aristotle|亚里士多德]]处，*doxa* 指与真知（*epistēmē*）相对的“意见”或“信念”，属于个体认知层面的概念；柏拉图视其为不可靠的感官产物，亚里士多德则部分恢复其认识论地位。
-> - **20 世纪初 — 胡塞尔[[Phenomenology|现象学]]激活** 埃德蒙·胡塞尔（Edmund Husserl）以 *Ur-doxa*（原初信念）指称生活世界中先于一切理论判断的根本存在信念，关注意识如何构成世界经验的前提。
+> - **古希腊时期 — 哲学[[Epistemology|认识论]]起点** 在[[Plato|柏拉图]]与[[Aristotle|亚里士多德]]处，*doxa* 指与真知（*epistēmē*）相对的“意见”或“信念”，属于个体认知层面的概念；柏拉图视其为不可靠的感官产物，亚里士多德则部分恢复其认识论地位。
+> - **20 世纪初 — 胡塞尔[[Phenomenology|现象学]]激活** 埃德蒙·胡塞尔（[[Edmund Husserl]]）以 *Ur-doxa*（原初信念）指称生活世界中先于一切理论判断的根本存在信念，关注意识如何构成世界经验的前提。
 > - **1970s–1980s — 布尔迪厄的社会学转化** 布尔迪厄将 doxa 从普遍个体认知范畴转化为特定[[Champ|场域]]中历史建构并被自然化的社会共识，提出 doxa—orthodoxy—heterodoxy 的[[Discourse|话语]]斗争光谱。
 
 ---

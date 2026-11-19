@@ -9,10 +9,10 @@ aliases:
 summary: "根据学术能力、测试成绩或职业取向将学生分配至不同课程轨道、教学班组或学校类型的制度化分流实践，在宏观上加剧社会阶层隔离并削弱公平与动机，在微观上强化能力固化信念与自我实现预言"
 type: concept
 domain: "sociology-of-education"
-related_count: 54
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 60
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - theme/inequality
   - theme/stratification
@@ -22,6 +22,7 @@ tags:
   - metax
   - eef
 related_concepts:
+  - "[[Social Economy]]"
   - "[[Student Motivation]]"
   - "[[Academic Achievement]]"
   - "[[Differentiated Instruction]]"
@@ -39,6 +40,7 @@ related_concepts:
   - "[[Nerd]]"
   - "[[Discourse]]"
   - "[[Mediatised Governance]]"
+  - "[[Curricular Form]]"
   - "[[Paradigm]]"
   - "[[Competitiveness]]"
   - "[[Interaction Effect]]"
@@ -48,6 +50,7 @@ related_concepts:
   - "[[Policy Avoidance]]"
   - "[[Moral Sidestep]]"
   - "[[Media Logic]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Structural Functionalism]]"
   - "[[Human Capital Theory]]"
@@ -66,12 +69,14 @@ related_persons:
   - "[[Jin Li]]"
   - "[[Michael Gove]]"
   - "[[Paul Morris]]"
+  - "[[Iveta Silova]]"
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
   - "[[Grammar School]]"
   - "[[Education Endowment Foundation]]"
   - "[[Researching School Choices]]"
+  - "[[Zhongkao]]"
   - "[[Gaokao]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Primary School Leaving Examination]]"
@@ -80,16 +85,17 @@ related_arguments:
   - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Li_2012_Cambridge]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
+  - "[[Argument_Silova_2009_EE]]"
   - "[[Argument_Lim_2015_CurricInq]]"
   - "[[Argument_Deng_2016_CE]]"
 confidence: high
 status: active
 created: 2026-05-25
-updated: 2026-11-18
+updated: 2026-11-20
 ---
 
 > [!def] Tracking
-> 分轨制（Tracking）指根据学生的学业能力评估、标准化测验成绩或既定职业取向，将其系统性分配至不同课程难度轨道（Tracks）、教学班组或不同类型中等学校的制度化组织实践。在宏观制度层面，跨国比较实证研究表明，学校体系的分层与早期分轨不仅未能促进卓越，反而加剧了社会经济阶层隔离，对教育公平（Equity）与学生的[[Student Motivation|学习动机]]产生显著负面抑制（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]；OECD, 2013b）；在微观文化心理层面，分轨制深植于西方文化的“固定自我观”与天赋论假设，通过“适应学生已有特征”而非“通过教学发展学生”的组织逻辑，促使低轨学生在长期的认知降级中陷入自我实现的失败预言（[[Argument_Li_2012_Cambridge\|Li, 2012]]）。
+> 分轨制（Tracking）指根据学生的学业能力评估、标准化测验成绩或既定职业取向，将其系统性分配至不同课程难度轨道（Tracks）、教学班组或不同类型中等学校的制度化组织实践。在宏观制度层面，跨国比较实证研究表明，学校体系的分层与早期分轨不仅未能促进卓越，反而加剧了[[Social Economy|社会经济]]阶层隔离，对教育公平（Equity）与学生的[[Student Motivation|学习动机]]产生显著负面抑制（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]；OECD, 2013b）；在微观文化心理层面，分轨制深植于西方文化的“固定自我观”与天赋论假设，通过“适应学生已有特征”而非“通过教学发展学生”的组织逻辑，促使低轨学生在长期的认知降级中陷入自我实现的失败预言（[[Argument_Li_2012_Cambridge\|Li, 2012]]）。
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向中等教育中依据[[Academic Achievement\|学业表现]]对学生实施的结构性分流与层化机制，涵盖校内课程分轨、全科分班以及校际选拔等形态。
@@ -175,7 +181,7 @@ updated: 2026-11-18
 ---
 
 > [!case] 东亚教育对分轨的排斥与努力可变自我观
-> [[Jin Li\|李瑾]]（Jin Li）指出，尽管东亚中等教育存在激烈的高利害中考与[[Gaokao\|高考]]选拔，但东亚学校在日常组织中高度排斥校内永久性的“能力分轨制”（[[Argument_Li_2012_Cambridge\|Li, 2012, pp. 109–110]]）：
+> [[Jin Li\|李瑾]]（Jin Li）指出，尽管东亚中等教育存在激烈的高利害[[Zhongkao|中考]]与[[Gaokao\|高考]]选拔，但东亚学校在日常组织中高度排斥校内永久性的“能力分轨制”（[[Argument_Li_2012_Cambridge\|Li, 2012, pp. 109–110]]）：
 > - **哲学根基** 根植于儒家文化的可变自我观（Malleable Self）与环境可塑性信念。东亚文化坚信人的智力与品格是通过坚持不懈的努力（Effort / 刻苦）逐步建构的，早期将学生定性为不可改变的“低学术轨”在[[Ontology\|本体论]]上不具备正当性。
 > - **教学实践** 在完成学段升学选拔后，学校内部极其强调全体学生共享统一高标准的学术大纲与高阶核心知识，有别于针对所谓“笨学生”提供降阶教材。
 > - **[[Peer-Supported Learning|同伴文化]]对照** 在美国分轨学校中，由于知性—社交二分（[[Intellectual-Social Divide]]）与实体能力论，学生演化出“努力但不能过于费力”的小群体潜规则，高努力学者被贬为“[[Nerd\|书呆子]]（Nerd）”；而在东亚非分轨语境下，[[Academic Engagement\|学业投入]]被公认为普遍的美德标准。
@@ -190,15 +196,16 @@ updated: 2026-11-18
 
 > [!dev-timeline] 概念演变与学术脉络
 > - **20 世纪初至中叶 — [[Structural Functionalism|结构功能主义]]与选拔效率论** 英国 1944 年《巴特勒法案》确立文法中学、现代中学与技术学校三部制，欧洲大陆全面普及基于学力考试的多轨中等教育；此时分轨被视作依据社会分工合理分配[[Human Capital Theory\|人力资本]]的“科学效率工具”。
-> - **1985 — 冲突论与批判教育社会学奠基** Jeannie Oakes 出版划时代著作 *Keeping Track: How Schools Structure Inequality*，开创了对校内分轨（Tracking）的系统实证批判，论证分轨如何剥夺有色人种与工人阶级子弟的优质知识获取权。[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 98)]]
+> - **1969 — 战后欧洲中等教育分流与课程改革跨国比较** 施普林格（Springer, 1969a）系统开展英、法、德、意跨国课程比较，揭示二战后西欧各国在废除 11 岁考试、试点综合中学与因应三轨传统阻力中的不同分流调整路径。[[Argument_Silova_2009_EE|(Silova, 2009, pp. 22–24)]]
+> - **1985 — 冲突论视角的系统实证批判确立** 珍妮·奥克斯（Jeannie Oakes）出版著作 *Keeping Track: How Schools Structure Inequality*，开创了对校内分轨（Tracking）的系统实证批判，论证分轨如何剥夺有色人种与工人阶级子弟的优质知识获取权。[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 98)]]
 > - **2000 年代初 — 文化心理学与微观认知机制深化** [[Jin Li\|李瑾]]将分轨制置于西方文化“固定自我观”与[[Talent Assumption\|天赋假设]]框架下展开跨文化解构，揭示其引发个人降级与自我实现预言的心理微观发生学机制。[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 98–99, 109–110)]]
 > - **2012–2018 — 跨国量化实证与政策政治学解构** [[OECD]] 通过 [[PISA]] 跨国大样本实证确立了分轨与教育公平的负相关定律，推动去分轨综合化改革；[[Paul Morris]] 与 Sue Grey 则进一步揭示英格兰政客在[[Mediatised Governance\|媒介化治理]]中如何策略性过滤分轨负面证据并强行逆流推行选拔制度。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 114, 117–118)]]
-> - **2015 — 课程形态与分轨才能误认批判** [[Argument_Lim_2015_CurricInq|Lim and Apple (2015)]] 揭示新加坡分轨制（快捷轨 vs 普通轨）在微观课堂中如何依托强控制的教学代码将思维技能降格为应试技术，而精英学校则通过弱控制探究课程培育支配性特权理性，使结构性分轨不平等被系统性误认为个人才能差异。
+> - **2015 — [[Curricular Form|课程形态]]与分轨才能误认批判** [[Argument_Lim_2015_CurricInq|Lim and Apple (2015)]] 揭示新加坡分轨制（快捷轨 vs 普通轨）在微观课堂中如何依托强控制的教学代码将思维技能降格为应试技术，而精英学校则通过弱控制探究课程培育支配性特权理性，使结构性分轨不平等被系统性误认为个人才能差异。
 > - **2014–2021 — 因果试验招募挫败与准实验方法转向** [[Education Endowment Foundation\|EEF]] 资助的能力分班大规模 [[Randomised Controlled Trials\|RCT]] 因学校拒绝[[Random Assignment\|随机化]]而招募失败（Roy et al., 2014）；EEF [[EEF Teaching and Learning Toolkit\|教学与学习工具包]]（Toolkit）实证定性能力分班对弱势学童带来净损失（$-1$ 个月），加剧阶层固化；2019 年 EEF 正式设立“研究[[School Choice\|学校选择]]”资助序列，确立利用自然变异与[[Quasi-Experimental Designs\|准实验设计]]（QEDs）评估能力分组政策的因果研究新[[Paradigm\|范式]]。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 55–56)]]
 
 ---
 
-> [!debates] 学术争议与制度博弈
+> [!debates|notitle] 学术争议与制度博弈
 >
 > > [!axis] 效率主义因材施教 vs 阶层再生产与公平剥夺
 > > 争论分轨制究竟是实现因材施教、保障精英卓越的必要组织技术，还是固化社会阶层特权的隐蔽再生产机器。
@@ -211,6 +218,9 @@ updated: 2026-11-18
 > >
 > > - **早期分轨模式** 如部分欧陆体系在 10–12 岁即完成小学毕业升学分流；实证表明该模式对家庭背景高度敏感，极易剥夺后发儿童的发展权利。
 > > - **延迟分轨与全纳综合模式** 如北欧及波兰改革经验，主张将综合义务教育至少延续至 15–16 岁，通过推迟分流保障全体学生的共同知识基线与发展可能性。
+
+> [!warning|limits] 适用局限
+> 跨国评估对分轨制的批判聚焦于其早期不可逆的行政定轨与阶层隔离效应，有别于彻底否定在特定学科内基于动态诊断的个别化辅导或弹性走班教学；评估分轨政策需紧密结合具体国家的福利体制、劳动力市场资格认证及高中衔接机制。
 
 ---
 
@@ -356,30 +366,32 @@ updated: 2026-11-18
 
 ---
 
-> [!entry-map|notitle] 相关条目网络
+> [!entry-map] 条目关联
 > 
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Academic Achievement]] | Concept | 分轨制所依据的分配标准，同时也是分轨体制再生产和拉大差距的产出指标。 |
-> | [[Talent Assumption]] | Concept | 支撑西方分轨制度的先验哲学假设，认为才能是天生且难以通过后天教学根本改变的。 |
-> | [[Growth Mindset\|成长型思维与固定型思维]] | Theory | 实体论智力观为分轨提供了认知合法性，而分轨制度反向强化了师生的实体论信念。 |
-> | [[Intellectual-Social Divide]] | Concept | 分轨制在微观学校生活中所制度化再生产的知性与社交二元对立结构。 |
-> | [[Nerd]] | Concept | 在分轨与知性-社交二分语境下[[Emergence\|涌现]]的边缘化同伴亚文化标签。 |
-> | [[PISA]] | Fact (Program) | 提供了证实分轨与教育公平、学习动机显著负相关的全球跨国大样本经验数据库。 |
-> | [[OECD]] | Fact (Organization) | 倡导波兰与德国去分轨综合化改革经验、警示学校层化风险的超国家智库机构。 |
-> | [[Grammar School]] | Fact (Policy) | 英国中等教育早期能力选拔物理分轨的经典制度实体，屡屡成为政客借机复辟的焦点。 |
-> | [[Policy Avoidance]] | Concept | 媒体与政客在讨论教育改革时，系统性回避分轨负面证据与具体政策细节的[[Discourse\|话语]]机制。 |
-> | [[Moral Sidestep]] | Concept | 政客借“好学校”等道德辞藻回避选择性分轨学校破坏社会公平证据的修辞策略。 |
-> | [[Mediatised Governance]] | Concept | 导致跨国评估中关于分轨的严谨实证建议被本土政治与[[Media Logic\|媒介逻辑]]联合绑架的宏观治理形态。 |
-> | [[Quasi-Experimental Designs]] | Method | 当学校抵制[[Random Assignment\|随机分配]]导致能力分班 [[Randomised Controlled Trials\|RCT]] 招募失败时，评估分班政策的替代因果设计。 |
-> | [[Education Endowment Foundation]] | Fact | 资助能力分班 RCT 并设立“研究[[School Choice\|学校选择]]”资助序列以评估能力分组政策的循证机构。 |
-> | [[Jin Li]] | Person | 从文化心理学与固定自我观视角深度解构美中分轨差异的核心学者。 |
-> | [[Paul Morris]] | Person | 揭示英格兰执政精英在应对 PISA 时选择性遗漏分轨负面实证结论的比较教育学者。 |
+> | [[Academic Achievement]] | 概念 | 分轨制所依据的分配标准，同时也是分轨体制再生产和拉大差距的产出指标。 |
+> | [[Talent Assumption]] | 概念 | 支撑西方分轨制度的先验哲学假设，认为才能是天生且难以通过后天教学根本改变的。 |
+> | [[Intellectual-Social Divide]] | 概念 | 分轨制在微观学校生活中所制度化再生产的知性与社交二元对立结构。 |
+> | [[Nerd]] | 概念 | 在分轨与知性-社交二分语境下[[Emergence\|涌现]]的边缘化同伴亚文化标签。 |
+> | [[Policy Avoidance]] | 概念 | 媒体与政客在讨论教育改革时，系统性回避分轨负面证据与具体政策细节的[[Discourse\|话语]]机制。 |
+> | [[Moral Sidestep]] | 概念 | 政客借“好学校”等道德辞藻回避选择性分轨学校破坏社会公平证据的修辞策略。 |
+> | [[Mediatised Governance]] | 概念 | 导致跨国评估中关于分轨的严谨实证建议被本土政治与[[Media Logic\|媒介逻辑]]联合绑架的宏观治理形态。 |
+> | [[Growth Mindset\|成长型思维与固定型思维]] | 理论 | 实体论智力观为分轨提供了认知合法性，而分轨制度反向强化了师生的实体论信念。 |
+> | [[Quasi-Experimental Designs]] | 方法 | 当学校抵制[[Random Assignment\|随机分配]]导致能力分班 [[Randomised Controlled Trials\|RCT]] 招募失败时，评估分班政策的替代因果设计。 |
+> | [[Jin Li]] | 人物 | 从文化心理学与固定自我观视角深度解构美中分轨差异的核心学者。 |
+> | [[Paul Morris]] | 人物 | 揭示英格兰执政精英在应对 PISA 时选择性遗漏分轨负面实证结论的比较教育学者。 |
+> | [[Iveta Silova]] | 人物 | 考证比较教育学者对战后西欧中等教育分流与课程改革的多国主题化比较。[[Argument_Silova_2009_EE\|(Silova, 2009, pp. 22–24)]] |
+> | [[PISA]] | 事实 | 提供了证实分轨与教育公平、学习动机显著负相关的全球跨国大样本经验数据库。 |
+> | [[OECD]] | 事实 | 倡导波兰与德国去分轨综合化改革经验、警示学校层化风险的超国家智库机构。 |
+> | [[Grammar School]] | 事实 | 英国中等教育早期能力选拔物理分轨的经典制度实体，屡屡成为政客借机复辟的焦点。 |
+> | [[Education Endowment Foundation]] | 事实 | 资助能力分班 RCT 并设立“研究[[School Choice\|学校选择]]”资助序列以评估能力分组政策的循证机构。 |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Deng_2016_CE\|Deng and Gopinathan (2016)]] — 系统考证新加坡自 1979 年《[[Goh Report|吴庆瑞报告]]》建立的中小学能力分轨分流机制（Streaming），揭示其在将早期高辍学流失率降至 1% 以下的同时，如何固化了差异化课程大纲与高利害考试竞争。
+> - [[Argument_Silova_2009_EE|Silova (2009)]] — 考证施普林格对战后西欧中等教育分流、追踪与课程改革的多国主题比较（pp. 22–24）。
+> - [[Argument_Deng_2016_CE\|Deng and Gopinathan (2016)]] — 系统考证新加坡自 1979 年《[[Goh Report|吴庆瑞报告]]》建立的中小学能力分轨分流机制（Streaming），揭示其在将早期高辍学流失率降至 1% 以下的同时，如何固化了差[[Alienation|异化]]课程大纲与高利害考试竞争。
 > - [[Argument_Lim_2015_CurricInq|Lim and Apple (2015)]] — 考察新加坡中学分轨体制（快捷轨与普通轨）与独立精英学校的微观课程形态分异，揭示差异化教学代码如何将分轨再生产转化为中立才能差异的合法化功能。
 > - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 基于 [[PISA]] 跨国大样本数据实证揭示分轨制对教育公平与学生动机的系统性损害，并深度解构英格兰执政精英在[[Mediatised Governance\|媒介化治理]]中对[[OECD\|经合组织]]分轨警告的“遗漏[[Discourse|话语]]”策略。
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 从东西方文化心理与自我观差异切入，批判西方分轨制的实体能力论与被动适应逻辑，揭示低轨学生遭遇的“个人降级”与自我实现的失败预言。

@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Cluster Analysis",
+      "path": "wiki/methods/quantitative/Cluster Analysis.md"
+    },
+    {
+      "basename": "Clique Percolation Method",
+      "path": "wiki/methods/quantitative/Clique Percolation Method.md"
+    },
+    {
+      "basename": "Chi-Squared Test",
+      "path": "wiki/methods/quantitative/Chi-Squared Test.md"
+    },
+    {
+      "basename": "Bernstein's Theory of Pedagogic Codes",
+      "path": "wiki/theories/sociology-of-education/Bernstein's Theory of Pedagogic Codes.md"
+    },
+    {
+      "basename": "Argument_Dang_2017_ORE",
+      "path": "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
+    },
+    {
+      "basename": "Argument_Indrarajah_2026_NJCIE",
+      "path": "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+    },
+    {
+      "basename": "Argument_Nordtveit_2011_IJED",
+      "path": "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Nordtveit_2011_IJED.md"
+    },
+    {
+      "basename": "Argument_Phyo_2025_SocSci",
+      "path": "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+    },
+    {
       "basename": "Argument_Xie_2017_PKUER",
       "path": "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md"
     },
@@ -11,10 +43,6 @@
     {
       "basename": "Emic and Etic",
       "path": "wiki/concepts/research-methodology/Emic and Etic.md"
-    },
-    {
-      "basename": "Argument_Nordtveit_2011_IJED",
-      "path": "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Nordtveit_2011_IJED.md"
     },
     {
       "basename": "Argument_Natario_2025_IndHE",
@@ -29,14 +57,6 @@
       "path": "wiki/arguments/journal-articles/Comparative Education Review/Argument_McCormick_2012_CER.md"
     },
     {
-      "basename": "Argument_Phyo_2025_SocSci",
-      "path": "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
-    },
-    {
-      "basename": "Argument_Dang_2017_ORE",
-      "path": "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
-    },
-    {
       "basename": "Knowledge Dashboard",
       "path": "_system/dashboard/Knowledge Dashboard.md"
     },
@@ -45,20 +65,8 @@
       "path": "bases/arguments.md"
     },
     {
-      "basename": "Clique Percolation Method",
-      "path": "wiki/methods/quantitative/Clique Percolation Method.md"
-    },
-    {
       "basename": "ireader-bundle-resolution-plan",
       "path": "file:/Users/shaoyangwu/Documents/zhangyue/docs/ireader-bundle-resolution-plan.md"
-    },
-    {
-      "basename": "Cluster Analysis",
-      "path": "wiki/methods/quantitative/Cluster Analysis.md"
-    },
-    {
-      "basename": "Chi-Squared Test",
-      "path": "wiki/methods/quantitative/Chi-Squared Test.md"
     },
     {
       "basename": "Co-relational Study",
@@ -105,10 +113,6 @@
       "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md"
     },
     {
-      "basename": "Bernstein's Theory of Pedagogic Codes",
-      "path": "wiki/theories/sociology-of-education/Bernstein's Theory of Pedagogic Codes.md"
-    },
-    {
       "basename": "Global Campaign for Education",
       "path": "wiki/facts/global/Global Campaign for Education.md"
     },
@@ -135,10 +139,6 @@
     {
       "basename": "Sacred and Profane Knowledge",
       "path": "wiki/concepts/curriculum/Sacred and Profane Knowledge.md"
-    },
-    {
-      "basename": "Argument_Indrarajah_2026_NJCIE",
-      "path": "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
     },
     {
       "basename": "Knowledge Production",

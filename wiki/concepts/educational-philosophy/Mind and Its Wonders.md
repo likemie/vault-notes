@@ -6,25 +6,34 @@ aliases:
 summary: "文化心理学与教育哲学概念，李瑾界定的西方学习传统四大基石之一；指涉西方文化将人类理智、心智与认知能力确立为探究核心的传统，涵盖先天论、经验论与批判哲学的持久论辩，并在现代认知科学与发展心理学中延续为对范畴分类与理性思维机制的系统探究。"
 type: concept
 domain: "educational-philosophy"
-related_count: 16
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 25
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/epistemology
   - theme/learning
   - comparative-education
   - cultural-psychology
 related_concepts:
-  - "[[Certainty of Knowledge]]"
-  - "[[Examined Life]]"
-  - "[[Western Learner]]"
   - "[[Self-Cultivation]]"
-  - "[[Metacognition]]"
+  - "[[Ontology]]"
+  - "[[Certainty of Knowledge]]"
+  - "[[Social-Emotional Learning]]"
   - "[[Empiricism]]"
+  - "[[Paradigm]]"
+  - "[[Metacognition]]"
+  - "[[Operationalization]]"
+  - "[[Theory of Knowledge]]"
+  - "[[Meno]]"
+  - "[[Epistemology]]"
+  - "[[Western Learner]]"
+  - "[[Examined Life]]"
+  - "[[Source of Knowledge]]"
   - "[[Causality]]"
   - "[[Language Skills]]"
-related_theories: []
+related_theories:
+  - "[[Cultural Models]]"
 related_methods: []
 related_instruments: []
 related_persons:
@@ -41,17 +50,17 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-11-11
+updated: 2026-11-20
 ---
 
 ---
 
 > [!def] Mind and Its Wonders
-> 心智及其惊奇（Mind and Its Wonders）是[[Jin Li|李瑾]]在建构东西方学习信念文化模型时提炼的核心概念，代表西方学习传统的第三大基石。该概念回应“我们身上的什么东西在进行认知？”（What in us does the knowing?）的核心追问，指西方传统将对知识的探究牢固锚定在人类心智（mind）、理智官能（intellect）乃至现代大脑神经回路之上，视心智为遵循逻辑、对比分析、抽象概括与保持理性的终极认知载体。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 26–27, 37)]]
+> 心智及其惊奇（Mind and Its Wonders）是[[Jin Li|李瑾]]在建构东西方学习信念[[Cultural Models|文化模型]]时提炼的核心概念，代表西方学习传统的第三大基石。该概念回应“我们身上的什么东西在进行认知？”（What in us does the knowing?）的核心追问，指西方传统将对知识的探究牢固锚定在人类心智（mind）、理智官能（intellect）乃至现代大脑神经回路之上，视心智为遵循逻辑、对比分析、抽象概括与保持理性的终极认知载体。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 26–27, 37)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向西方智识传统对认知主体内在智力官能与心理运作机制的系统性聚焦与理论赋权。
-> - **用途** 帮助比较教育学与文化心理学研究者透视西方“以心智为本”（mind-oriented）的学习信念模型，与东亚儒家“以美德为本”（virtue-oriented）的修身取向形成系统对勘。
+> - **用途** 帮助比较教育学与文化心理学研究者透视西方“以心智为本”（mind-oriented）的学习信念模型，与东亚儒家“以美德为本”（virtue-oriented）的[[Self-Cultivation|修身]]取向形成系统对勘。
 > - **边界** 该概念特指作为文化模型维度的西方心智崇奉传统，不同于生理学意义上的大脑生物构造，亦不涵盖非西方文化中将心智融于道德修养与整体人格的认知哲学。
 
 > [!citation-card|notitle] 李瑾论西方学习传统的心智核心地位
@@ -60,25 +69,25 @@ updated: 2026-11-11
 > *The human intellect, the mind, conceived as a human faculty, later termed ability in psychology, and most recently brain circuitry in neuroscience... To me, it does not matter whether the human mind is rational or subjective and experience-dependent. What matters is that the mind as a topic has received so much philosophical contemplation that many marvelous functions have been identified for it.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Self-Cultivation|修身（Self-Cultivation）]] 修身聚焦于在社会伦理关系网络中完善整全道德人格，心智及其惊奇则聚焦于作为认知工具的心智官能如何精确表象外部世界。
-> - 不等于 唯心理论（Mentalism） 唯心理论属于哲学本体论范畴，心智及其惊奇则属于文化学习信念模型，探讨文化群体如何将智力探索与理性运用视为学习的核心目的与能力标志。
+> - 不等于 修身（Self-Cultivation） 修身聚焦于在社会伦理关系网络中完善整全道德人格，心智及其惊奇则聚焦于作为认知工具的心智官能如何精确表象外部世界。
+> - 不等于 唯心理论（Mentalism） 唯心理论属于哲学[[Ontology|本体论]]范畴，心智及其惊奇则属于文化学习信念模型，探讨文化群体如何将智力探索与理性运用视为学习的核心目的与能力标志。
 
 ---
 
 > [!contrast-table|notitle] 东西方学习传统核心取向辨析
-> | 维度 | 心智及其惊奇（西方传统） | [[Self-Cultivation|修身之道（儒家传统）]] |
+> | 维度 | 心智及其惊奇（西方传统） | [[Self-Cultivation\|修身之道（儒家传统）]] |
 > |---|---|---|
 > | **核心问题** | 我们内部的什么官能进行认知？如何精确认识外部客体？ | 我应当如何通过践行成为一个在道德与社会上更完善的人？ |
 > | **认知载体** | 智识、理性心智、逻辑推理官能与神经回路 | 整全人格、心性道德、知行合一的主体修养 |
 > | **学习目的** | 认识外在世界规律，追求[[Certainty of Knowledge\|知识的确定性]]与个体卓越 | 追求道德美德、家庭责任与社会和谐 |
-> | **现代科学表象** | 智力测验、认知心理学、人工智能与大脑神经科学 | 道德品格教育、情感陶冶与社会情感学习 |
+> | **现代科学表象** | 智力测验、认知心理学、人工智能与大脑神经科学 | 道德品格教育、情感陶冶与[[Social-Emotional Learning\|社会情感学习]] |
 
 ---
 
 > [!feature] 核心要素
 > - **认知官能的优先性** 将理智（intellect）与心智置于感官经验之上，视其为人类遵循逻辑、分析概括与保持理性的独有禀赋。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 27–28, 37)]]
-> - **跨越学派的共同焦点** 无论先天论（苏格拉底、柏拉图、笛卡尔）与经验论（洛克、休谟）在知识起源上存在何种争论，双方均将心智自身运作机制置于哲学的核心地位。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 27–30, 40)]]
-> - **现代科学的范式承继** 现代认知科学与实验心理学对范畴分类、元认知意识与神经回路的探究，构成了西方心智探索传统的当代实证延展。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 30, 39–40)]]
+> - **跨越学派的共同焦点** 无论先天论（[[Socrates|苏格拉底]]、[[Plato|柏拉图]]、[[René Descartes|笛卡尔]]）与[[Empiricism|经验论]]（洛克、休谟）在知识起源上存在何种争论，双方均将心智自身运作机制置于哲学的核心地位。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 27–30, 40)]]
+> - **现代科学的[[Paradigm|范式]]承继** 现代认知科学与实验心理学对范畴分类、[[Metacognition|元认知]]意识与神经回路的探究，构成了西方心智探索传统的当代实证延展。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 30, 39–40)]]
 
 > [!logic-map]- 西方学习模型中因果系统与心智定位
 > ```mermaid
@@ -99,25 +108,25 @@ updated: 2026-11-11
 
 ---
 
-> [!concept-proposition] 命题二｜现代认知科学是对西方心智传统的实证操作化，重构了古典理念论的范畴分类机制
+> [!concept-proposition] 命题二｜现代认知科学是对西方心智传统的实证[[Operationalization|操作化]]，重构了古典理念论的范畴分类机制
 > **认知机制的现代科学再阐释** 说明当代发展心理学与神经科学如何以经验实证工具继承并重释古典哲学对心智奇迹的探寻。
 
 > [!claim] Li, J.
-> **理念论的发展认知科学重构** 李瑾基于认知发展研究指出，柏拉图的“理念论”在现代认知科学中可以重新理解为儿童将客观对象按层级结构分类（从具体实例到抽象范畴）并使用语言映射该结构的认知能力；乔姆斯基关于语言先天规则与生成性禀赋的发现，以及现代婴儿认知研究关于早期心智能力的成果，表明现代认知心理学与神经科学延续了西方“心智及其惊奇”的探索传统。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 30, 38–40)]]
+> **理念论的发展认知科学重构** 李瑾基于认知发展研究指出，柏拉图的“理念论”在现代认知科学中可以重新理解为儿童将客观对象按层级结构分类（从具体实例到抽象范畴）并使用语言映射该结构的认知能力；[[Noam Chomsky|乔姆斯基]]关于语言先天规则与生成性禀赋的发现，以及现代婴儿认知研究关于早期心智能力的成果，表明现代认知心理学与神经科学延续了西方“心智及其惊奇”的探索传统。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 30, 38–40)]]
 
 ---
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **理智崇奉命题** | 将心智确立为超越感官的认知载体，视心智运作机制为探究焦点 | 西方思想史、知识论哲学与学习信念溯源 | [[Jin Li]] |
+> | **理智崇奉命题** | 将心智确立为超越感官的认知载体，视心智运作机制为探究焦点 | 西方思想史、[[Theory of Knowledge\|知识论]]哲学与学习信念溯源 | [[Jin Li]] |
 > | **认知科学重构命题** | 现代认知发展与神经科学是对古典哲学心智探究的经验化延续 | 认知心理学、跨文化学习模型与范畴分类机制 | [[Jin Li]] |
 
 ---
 
 > [!dev-timeline] 概念演变
-> - **古典哲学奠基（公元前5–4世纪）** 苏格拉底回忆说与柏拉图理念论确立心智与普遍概念优于感官表象的理性主义基石。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 27–28, 37–38)]]
-> - **近代认识论分化与融合（17–18世纪）** 笛卡尔以“我思”确立元认知怀疑主体；洛克白板说、休谟印象论与贝克莱心智实在论展开经验论论战；康德以先验范畴调和先天论与经验论。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 28–30, 39–40)]]
+> - **古典哲学源流（公元前5–4世纪）** 苏格拉底[[Meno|回忆说]]与柏拉图理念论确立心智与普遍概念优于感官表象的理性主义基石。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 27–28, 37–38)]]
+> - **近代[[Epistemology|认识论]]分化与融合（17–18世纪）** 笛卡尔以“我思”确立元认知怀疑主体；洛克白板说、休谟印象论与[[George Berkeley|贝克莱]]心智实在论展开经验论论战；[[Immanuel Kant|康德]]以先验范畴调和先天论与经验论。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 28–30, 39–40)]]
 > - **现代认知革命与语言学突破（20世纪中叶）** 乔姆斯基提出先天生成语法；认知心理学将心智操作化为信息加工系统。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 28–29, 39)]]
 > - **2012 — 文化心理学学习信念模型确立** 李瑾出版《文化学习模型》（*Cultural Foundations of Learning*），系统提炼“心智及其惊奇”作为西方学习传统四大基石之一，与东亚儒家修身模型形成文化对比。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 26–41)]]
 
@@ -151,7 +160,7 @@ updated: 2026-11-11
 > | [[Examined Life]] | 概念 | 审视反思态度推动心智突破权威盲从并开展持续的批判性探究。 |
 > | [[Self-Cultivation]] | 概念 | 东亚儒家文化对应的核心学习模型，强调德性修养与整全人格建构。 |
 > | [[Metacognition]] | 概念 | 笛卡尔“我思”展示的心智对自我思维过程的反思与监控能力。 |
-> | [[Empiricism]] | 概念 | 围绕心智知识来源与先天论展开长达两个世纪理论论战的经验论立场。 |
+> | [[Empiricism]] | 概念 | 围绕心智[[Source of Knowledge\|知识来源]]与先天论展开长达两个世纪理论论战的经验论立场。 |
 > | [[Causality]] | 概念 | 休谟在心智反思中阐述的由习惯性联想与期待推导而出的因果信念。 |
 > | [[Language Skills]] | 概念 | 乔姆斯基证明人类心智先天拥有生成性规则的典型能力载体。 |
 > | [[Jin Li]] | 人物 | 文化心理学者，系统建构东西方学习信念文化模型并阐明该概念。 |

@@ -4,7 +4,7 @@ aliases:
   - 哲学美学
   - 美学
   - Aesthetics
-summary: "以感性认识、美与艺术的本体论、认识论及实践功能为研究对象的独立哲学分支，18世纪中期由鲍姆嘉通在德国首次命名并奠基。"
+summary: "以感性认识、美与艺术的本体论、认识论及实践功能为研究对象的独立哲学分支，18世纪中期由鲍姆嘉通在德国首次命名并开创体系。"
 type: concept
 domain: "educational-philosophy"
 related_count: 87
@@ -109,9 +109,9 @@ related_facts:
   - "[[Philosophy of Art]]"
   - "[[Aesthetic Theory]]"
 confidence: high
-status: draft
+status: active
 created: "2026-11-14"
-updated: 2026-11-17
+updated: 2026-11-20
 ---
 
 ---
@@ -124,10 +124,37 @@ updated: 2026-11-17
 > - **用途** 为比较不同时代哲学家的艺术理论提供三大分析维度：艺术的本体论追问（何为艺术）、认识论价值（美与艺术提供何种真理）与实践功能（艺术对人有何作用）。
 > - **边界** 18 世纪德国理性主义美学尚未彻底确立艺术自主性，且早期定义深受修辞学生产阶段（构思、布局、措辞）和理性主义形而上学的双重制约。
 
-> [!citation-card|notitle] 美学的五重奠基定义
+> [!citation-card|notitle] 鲍姆嘉通论美学的五重定义
 > 美学（作为自由艺术的理论、下级[[Epistemology|认识论]]、优美思维的艺术以及类似理性的思维艺术）是感性认识的科学。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 7)]]
 >
 > *Aesthetics (as the theory of the liberal arts, as inferior cognition, as the art of beautiful thinking and as the art of thinking analogous to reason) is the science of sensual cognition.*
+
+> [!boundary]- 概念边界
+> - 不等于 艺术批评（Art Criticism）— 艺术批评侧重对具体作品的价值判断与文本细读，哲学美学侧重对美、艺术与感性认识的本体论地位与认识论合法性展开先验探究。
+> - 不等于 实验心理美学（Empirical Aesthetics）— 实验心理学运用生理与量化测量分析审美快感与反应，哲学美学聚焦审美经验的意义建构、真理承诺与伦理维度。
+> - 不等于 传统规则诗学（Regelpoetik）— 规则诗学提供规范性的创作技法指南，哲学美学将感性提升为与理性并立的独立认知方式。
+
+---
+
+> [!contrast-table|notitle] 概念辨析
+> | 维度 | 哲学美学（Philosophical Aesthetics） | 艺术批评（Art Criticism） | 规则诗学（Regelpoetik） | 艺术史（Art History） |
+> |---|---|---|---|---|
+> | **核心对象** | 感性认识、美与艺术的本体论与认识论地位 | 具体艺术作品的阐释、鉴赏与价值评定 | 指导具体门类艺术创作的技术准则与风格法则 | 艺术风格、媒介流变与社会历史情境的演进史 |
+> | **探究方法** | 先验批判、范畴推导、存在论解构与辩证法 | 文本细读、修辞分析与审美直觉评价 | 规范性法则传授与范本模仿操练 | 历史文献考证、图像学分析与社会学阐释 |
+> | **理论旨趣** | 确立感性认识合法性与艺术真理器官功能 | 引导公众鉴赏并确立当代文化评判标准 | 保障作品符合古典和谐与修辞得体规程 | 重构艺术作品的历史发生学与语境意义 |
+
+---
+
+> [!logic-map]- 德国哲学美学核心范式演进机制
+> ```mermaid
+> flowchart LR
+>     A["理性主义附庸<br/>（莱布尼茨/沃尔夫）"] --> B["感性认识科学确立<br/>（鲍姆嘉通命名）"]
+>     B --> C["先验感性与自律范式<br/>（康德《判断力批判》）"]
+>     C --> D["艺术作为绝对真理器官<br/>（早期浪漫派/谢林）"]
+>     D --> E["历史唯心论与艺术终结论<br/>（黑格尔绝对精神）"]
+>     E --> F["唯意志论与解构转向<br/>（叔本华/尼采/克尔凯郭尔）"]
+>     F --> G["现当代重构与超验守候<br/>（海德格尔/阿多诺/卡西尔）"]
+> ```
 
 ---
 

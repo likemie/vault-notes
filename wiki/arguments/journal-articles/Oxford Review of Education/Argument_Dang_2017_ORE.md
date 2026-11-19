@@ -20,33 +20,32 @@ tags:
   - theme/inter-regionalism
 related_concepts:
   - "[[Geopolitics]]"
-  - "[[The Strength of Weak Ties]]"
   - "[[Mutual Learning]]"
   - "[[Regionness]]"
   - "[[Heterogeneity]]"
   - "[[Paradigm]]"
   - "[[Constructivist Paradigm]]"
   - "[[Networked Regionalism]]"
+  - "[[The Strength of Weak Ties]]"
   - "[[Mosaic Harmonisation]]"
-  - "[[ASEAN Way]]"
-  - "[[Global Regionalisms]]"
-  - "[[Unit of Analysis]]"
-  - "[[Theoretical Perspective]]"
   - "[[Normative Power Europe]]"
-  - "[[Document]]"
-  - "[[Grandes Ecoles]]"
-  - "[[Soft Power]]"
-  - "[[Knowledge Production]]"
-  - "[[Lifelong Learning]]"
   - "[[Discourse]]"
+  - "[[Document]]"
+  - "[[Global Regionalisms]]"
+  - "[[Soft Power]]"
+  - "[[ASEAN Way]]"
+  - "[[Knowledge Production]]"
+  - "[[Grandes Ecoles]]"
+  - "[[Lifelong Learning]]"
+  - "[[Student Mobility]]"
   - "[[State Educational Sovereignty]]"
-  - "[[Total War]]"
   - "[[Network Governance]]"
   - "[[Virtual University]]"
   - "[[Instrumental Rationality]]"
   - "[[Bureaucracy]]"
 related_theories:
   - "[[Comparative Regionalism]]"
+  - "[[Network Society]]"
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[In-depth Interview]]"
@@ -54,45 +53,43 @@ related_methods:
   - "[[Triangulation]]"
   - "[[Expert Interview]]"
 related_instruments: []
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_facts:
   - "[[ASEAN]]"
   - "[[Asia-Europe Meeting]]"
+  - "[[EU]]"
   - "[[ASEAN University Network]]"
   - "[[SEAMEO]]"
+  - "[[ASEAN Education Ministers Meeting]]"
   - "[[SEAMEO RIHED]]"
+  - "[[Asia-Europe Foundation]]"
   - "[[AIMS Programme]]"
   - "[[ASEAN Qualifications Reference Framework]]"
-  - "[[ASEAN Education Ministers Meeting]]"
   - "[[ASEAN Plus Three Working Group on Mobility and Quality Assurance of Higher Education]]"
   - "[[CAMPUS Asia]]"
-  - "[[European Commission]]"
-  - "[[Asia-Europe Foundation]]"
   - "[[SHARE Programme]]"
-  - "[[EU]]"
+  - "[[European Commission]]"
   - "[[European Qualifications Framework]]"
   - "[[1997 Asian Financial Crisis]]"
   - "[[Bologna Process]]"
   - "[[European University Association]]"
-  - "[[National Education]]"
 related_arguments: []
 sources:
   - "[[sources/Dang_2017_ORE/Dang_2017_ORE|Dang_2017_ORE]]"
 part_of:
 status: completed
 created: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Dang_2017_ORE"
 argument_key: "Argument_Dang_2017_ORE"
 argument_display_title: "Regionalising higher education for repositioning Southeast Asia"
 argument_kind: "journal-article"
-argument_related_count: 52
-argument_related_level: 5
-argument_related_stars: "💎⭐⭐"
-argument_related_color: "#fecdd3"
+argument_related_count: 49
+argument_related_level: 4
+argument_related_stars: "💎⭐"
+argument_related_color: "#dbeafe"
 journal: "Oxford Review of Education"
 book_title: ""
 publication_place: ""
@@ -106,7 +103,7 @@ issuing_organization: ""
 > 在成员国宗教信仰、语言文化、政治体制与经济发展水平高度异质且缺乏超国家行政实体的背景下，[[ASEAN|东南亚国家联盟]]（Association of Southeast Asian Nations, ASEAN）究竟通过何种具体机制推进内部高等教育整合、拓展东盟与中日韩（ASEAN Plus Three, ASEAN+3）次区域协作并参与[[Asia-Europe Meeting|亚欧会议]]（Asia-Europe Meeting, ASEM）跨洲对话？这些机制如何促使区域行动者重塑自我与他者认知，并推动东南亚在国际地缘格局中实现集体重新定位？
 
 > [!claim] 核心主张
-> 区域不仅由[[Geopolitics|地缘政治]]或市场等物质力量塑造，更由规范与认同等文化观念结构动态建构（Acharya, 2012b; Katzenstein, 2005; Söderbaum, 2016）。东南亚依托[[The Strength of Weak Ties|非正式弱连接]]网络，在内部推行以自愿包容为原则的协调机制、对中日韩实施规范互动的双向社会化、对欧洲展开平权对话的[[Mutual Learning|互学互鉴]]，三项机制协同推动东南亚在[[Regionness|区域度]]（Regionness）层级上发生历史性转变，从基于地理邻近的自在区域演进为具备集体行动自觉的自为区域。
+> 区域不仅由[[Geopolitics|地缘政治]]或市场等物质力量塑造，更由规范与认同等文化观念结构动态建构（Acharya, 2012b; Katzenstein, 2005; Söderbaum, 2016）。东南亚依托非正式弱连接网络，在内部推行以自愿包容为原则的协调机制、对中日韩实施规范互动的双向社会化、对欧洲展开平权对话的[[Mutual Learning|互学互鉴]]，三项机制协同推动东南亚在[[Regionness|区域度]]（Regionness）层级上发生历史性转变，从基于地理邻近的自在区域演进为具备集体行动自觉的自为区域。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 东南亚国家联盟（ASEAN）及其主导发起的东盟与中日韩（ASEAN+3）及亚欧会议（ASEM）跨洲高等教育合作实践。
@@ -118,18 +115,14 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
+> | **[[Comparative Regionalism\|比较区域主义]]**<br>[[Comparative Regionalism]] | 突破欧洲中心主义的超国家整合模板，比较欧洲硬性规制趋同与东南亚柔性网络模式的治理哲学差异，确立非西方区域研究的自主性（Acharya, 2012a; Yeo, 2010）。 |
 > | **[[Regionness\|区域度]]**<br>[[Regionness]] | 赫特内与瑟德鲍姆提出的五级区域度演进模型，阐释东南亚如何从被动承受外部经贸冲击的“自在区域”转变为拥有战略自觉与自决主体性的“自为区域”（Hettne & Söderbaum, 2000; Hettne, 2005）。 |
-> | **[[The Strength of Weak Ties\|弱连接优势]]**<br>[[The Strength of Weak Ties]] | 格兰诺维特在网络社会学中提出的命题，解释多元异质的非西方区域如何在缺乏常设超国家行政总署的情境下依托横向松散网络降低主权防备、培育战略互信（Granovetter, 1973; Yeo, 2010）。 |
-> | **[[Networked Regionalism\|网络化区域主义]]**<br>[[Networked Regionalism]] | 提炼依托弱连接、非正式磋商与议题导向领导权展开的治理形态，解释多元异质成员国在避免紧密层级制约的同时维系战略协同的制度逻辑（Granovetter, 1973; Yeo, 2010）。 |
+> | **[[The Strength of Weak Ties\|弱连接优势]]**<br>[[The Strength of Weak Ties]] | 格兰诺维特在[[Network Society\|网络社会]]学中提出的命题，解释多元异质的非西方区域如何在缺乏常设超国家行政总署的情境下依托横向松散网络降低主权防备、培育战略互信（Granovetter, 1973; Yeo, 2010）。 |
 > | **[[Mosaic Harmonisation\|马赛克式协调]]**<br>[[Mosaic Harmonisation]] | 黑田一雄提出的比较高教一体化概念，与欧洲熔炉式趋同对照，阐明东盟如何在保护成员国教育主权的前提下依托转换接口实现求同存异与交响协奏（Kuroda, 2009）。 |
-> | **[[ASEAN Way\|东盟方式]]**<br>[[ASEAN Way]] | 提供以不干涉内政、非正式磋商与协商一致为准则的行为规范，解释协调机制如何在包容多样性的前提下演化为具有广泛正当性的区域规范（Acharya, 2001; Acharya, 2005; Stubbs, 2009）。 |
-> | **[[Global Regionalisms\|高等教育区域主义]]**<br>[[Global Regionalisms]] | 确立将高等教育政策部门作为[[Unit of Analysis\|分析单位]]的[[Theoretical Perspective\|理论视角]]，阐明教育合作如何从最初服务于经贸增长转向主动生产区域认同与地缘再定位（Söderbaum, 2016）。 |
-> | **[[Comparative Regionalism\|比较区域主义]]**<br>[[Comparative Regionalism]] | 突破欧洲中心主义的超国家整合模板，比较欧洲刚性制度一体化与东南亚柔性网络模式的治理哲学差异（Acharya, 2012a; Yeo, 2010）。 |
-> | **[[Normative Power Europe\|规范性力量欧洲]]**<br>[[Normative Power Europe]] | 曼纳斯提出的对外规范输出范式，揭示欧盟视博洛尼亚为全球典范并试图输出的单向霸权逻辑，以及该逻辑在亚欧对等互学中的瓦解（Manners, 2002）。 |
-> | **[[Mutual Learning\|互学互鉴]]**<br>[[Mutual Learning]] | 解释跨区域对话中平权伙伴关系的建构逻辑，阐明亚洲行动者如何通过重塑自我与他者认知抵御外部政策单向输入（Doidge, 2007; Manners, 2002）。 |
+> | **[[Normative Power Europe\|规范性力量欧洲]]**<br>[[Normative Power Europe]] | 曼纳斯提出的对外规范输出范式，揭示[[EU\|欧盟]]视博洛尼亚为全球典范并试图输出的单向霸权逻辑，以及亚洲如何通过[[Discourse\|话语]]抗争促使亚欧合作转向对等的双向互学互鉴（Manners, 2002; Doidge, 2007）。 |
 
 > [!warrant]- 理论如何支撑论证
-> 社会建构主义与新区域主义方法强调区域属于社会、经济与政治的建构产物，观念与规范结构深刻规定了行动者的身份认同与利益边界（Acharya, 2012b; Checkel, 1999; Söderbaum, 2016）。网络化区域主义与[[The Strength of Weak Ties|弱连接]]概念将宏观外交规范与微观高等教育实践紧密连接（Granovetter, 1973; Yeo, 2010）：东盟方式的不干涉与协商规范孕育了自愿协调机制（Acharya, 2001; Stubbs, 2014），弱连接多边网络支撑了与东亚邻国的社会化进程（Checkel, 2005; Tan, 2013），对等平权观念则引导亚欧关系走向双向互学互鉴（Doidge, 2007）。这一理论框架系统阐明了行动者如何跨越物质利益计算，在规范协商与制度实践中完成自为区域的身份建构。
+> 社会建构主义与新区域主义方法强调区域属于社会、经济与政治的建构产物，观念与规范结构深刻规定了行动者的身份认同与利益边界（Acharya, 2012b; Checkel, 1999; Söderbaum, 2016）。比较区域主义打破欧洲中心主义的单一制度预设，将高等教育确立为观察区域身份重塑的能动切口；区域度演进模型提供了衡量东南亚由自在向自为演进的理论标尺；弱连接网络阐释了在缺乏常设官僚机构的情境下非正式多边协同的社会学动力；马赛克式协调与规范性力量欧洲则分别精准支撑了东盟内部自愿协调与亚欧跨区互学互鉴的因果机制推演。这一理论组合将宏观地缘观念、中观制度接口与微观网络互动紧密连通，系统阐明了非西方中小国家跨越物质力量约束实现战略再定位的治理逻辑。
 
 ---
 
@@ -138,7 +131,7 @@ issuing_organization: ""
 > |------|----------------|
 > | **材料分析**<br>Document Analysis | 系统梳理历届东盟峰会声明、教育部长联合公报、[[ASEAN University Network\|东盟大学联盟]]与[[SEAMEO\|东南亚教育部长组织]]工作规划，以及亚欧会议主席声明等官方政策[[Document\|文献]]。 |
 > | **现场直接观察**<br>Direct Observation | 深度介入 10 场区域与跨区域高层政策研讨及部长级会议，记录多国外交官员、学者与多边组织代表的非正式互动、发言争议及修辞演变。 |
-> | **半结构化深度访谈**<br>Semi-Structured Interviews | 面向政府部委高官、[[Grandes Ecoles\|大学校]]长、区域组织专家与师生开展 30 余场半结构化[[In-depth Interview\|深度访谈]]，挖掘政策制定背后的观念认知与动机权衡。 |
+> | **半结构化深度访谈**<br>Semi-Structured Interviews | 面向政府部委高官、大学校长、区域组织专家与师生开展 30 余场半结构化[[In-depth Interview\|深度访谈]]，挖掘政策制定背后的观念认知与动机权衡。 |
 > | **因果机制分析**<br>[[Process Tracing\|Process Tracing]] | 运用过程追踪法（Falleti, 2016）与扩展个案法（Burawoy, 1998），追踪关键决策节点的演进脉络，识别连接宏观规范环境与微观制度产出的三项核心机制。 |
 
 > [!sample-panel]- 样本与材料快照
@@ -150,12 +143,16 @@ issuing_organization: ""
 
 ---
 
-> [!row-contrast] 高等教育区域主义三维因果机制对比矩阵
-> | 机制类型 | 空间维度与分析层次 | 核心驱动导向 | 规范基础与运作原则 | 关键机构与多边对话平台 | 标志性工程与规制工具 | 经验案例与言论表述 | 治理张力与现实局限 |
-> |---|---|---|---|---|---|---|---|
-> | **趋同协调**<br>（Harmonisation） | **东盟内部**<br>（Intra-ASEAN） | 经贸整合与[[Human Capital Theory\|人力资本]]储备提升 | 尊重多样性、自愿参与、循序渐进与求同存异 | [[SEAMEO\|东南亚教育部长组织（Southeast Asian Ministers of Education Organisation, SEAMEO）]] 与 [[ASEAN\|东盟]]教育部长会议（ASEAN Education Ministers Meeting, ASED）；[[SEAMEO RIHED\|东南亚教育部长组织高等教育与发展区域中心（SEAMEO Regional Centre for Higher Education and Development, SEAMEO RIHED）]] 与 [[ASEAN University Network\|东盟大学联盟（ASEAN University Network, AUN）]] | [[AIMS Programme|东盟国际学生流动项目]]（ASEAN International Mobility for Students Programme, AIMS）、东盟质量保障网络（ASEAN Quality Assurance Network, AQAN）、东盟引文索引（ASEAN Citation Index, ACI）、[[ASEAN Qualifications Reference Framework|东盟资历参考框架]]（ASEAN Qualifications Reference Framework, AQRF） | 亚洲专家提出交响乐团隐喻，将各成员国比作不同乐器协同演奏和谐乐章；东盟官员以教育领域的兄弟关系界定 SEAMEO 与 [[ASEAN Education Ministers Meeting\|ASED]] 的分工 | 协调进展缓慢，柬埔寨、老挝、缅甸等后发成员受制于财政与行政能力，在会议中往往陷入被动沉默 |
-> | **双向社会化**<br>（Socialisation） | **东亚次区域**<br>（ASEAN+3） | 平衡地缘大国竞争、扩大区域生源市场与提升[[Soft Power\|软实力]] | 适当性逻辑、照顾各方舒适度、协商一致与非正式多边规范 | 东盟与中日韩教育部长会议（ASEAN Plus Three Education Ministers Meeting, ASED+3）、高级官员会议（Senior Officials Meeting, SOM）与大学校长论坛 | [[ASEAN Plus Three Working Group on Mobility and Quality Assurance of Higher Education\|东盟与中日韩高等教育流动与质量保障工作组（ASEAN Plus Three Working Group on Mobility and Quality Assurance of Higher Education, APT-WG）]]、[[CAMPUS Asia|亚洲校园]]（Collective Action for Mobility Program of University Students in Asia, CAMPUS Asia）、东盟—韩国网络大学 | 中国官方以远亲不如近邻阐发睦邻政策；日方官员指出亚洲即便缺乏[[European Commission\|欧盟委员会]]同样能够连接多元流动机制 | 外部大国凭借优势资源主导优先议程设置，东盟内部学生流动占比仍偏低，面临单向人才流失风险 |
-> | **双向互学互鉴**<br>（Mutual Learning） | **亚欧跨洲区域**<br>（Inter-regional / ASEM） | 重塑对等伙伴关系、消解欧洲中心主义单向规制输出 | 主权平等、互相尊重、对等分享与双向[[Knowledge Production\|知识生成]] | [[Asia-Europe Meeting\|亚欧会议（ASEM）]]、亚欧教育部长会议（Asia-Europe Meeting of Ministers for Education, ASEM ME）与[[Asia-Europe Foundation\|亚欧基金会（Asia-Europe Foundation, ASEF）]] | 亚欧教育区（ASEM Education Area）、[[SHARE Programme\|欧盟支持东盟高等教育项目]]（[[EU\|European Union]] Support to Higher Education in the ASEAN Region, SHARE）、亚欧[[Lifelong Learning\|终身学习]]研究网络（ASEM Education and Research Hub for Lifelong Learning, ASEM LLL Hub） | 东盟秘书处官员明确拒绝克隆博洛尼亚模式并主张双向分享；欧洲专家借道东盟反思欧洲资历框架（[[European Qualifications Framework]], EQF）应用困境 | 欧洲资助计划存在跨区插手他人事务的外部干预疑虑，双向学生流动在规模上仍存在跨洲失衡现象 |
+> [!contrast-table] [[Global Regionalisms|高等教育区域主义]]三维因果机制对比矩阵
+> | 比较维度 | 趋同协调（东盟内部）<br>Harmonisation | 双向社会化（东亚次区域）<br>Socialisation | 双向互学互鉴（亚欧跨区域）<br>Mutual Learning |
+> |---|---|---|---|
+> | **空间维度与分析层次** | **东盟内部（Intra-ASEAN）**<br>微观与中观教育体系整合 | **东亚次区域（ASEAN+3）**<br>次区域大国互动与邻里交往 | **亚欧跨洲区域（Inter-regional / ASEM）**<br>宏观跨大陆多边对话平台 |
+> | **核心驱动导向** | 经贸整合与[[Human Capital Theory\|人力资本]]储备提升，服务共同体建设 | 平衡地缘大国竞争、扩大区域生源市场与提升[[Soft Power\|软实力]] | 重塑对等跨洲伙伴关系、消解欧洲中心主义单向规制输出 |
+> | **规范基础与运作原则** | [[ASEAN Way\|东盟方式]]（尊重多样性、自愿参与、循序渐进与求同存异） | 适当性逻辑（照顾各方舒适度、协商一致与非正式多边规范） | 主权平等、互相尊重、对等分享与双向[[Knowledge Production\|知识生成]] |
+> | **关键机构与多边平台** | [[SEAMEO\|东南亚教育部长组织]] 与 [[ASEAN Education Ministers Meeting\|东盟教育部长会议]] 双轨并行；[[SEAMEO RIHED]] 与 [[ASEAN University Network\|AUN]] 协同落实 | 东盟与中日韩教育部长会议（ASED+3）、高级官员会议（SOM）及[[Grandes Ecoles\|大学校]]长论坛 | [[Asia-Europe Meeting\|亚欧会议（ASEM）]]、亚欧教育部长会议（ASEM ME）及[[Asia-Europe Foundation\|亚欧基金会（ASEF）]] |
+> | **标志工程与规制工具** | [[AIMS Programme\|东盟学生流动项目（AIMS）]]、[[ASEAN Qualifications Reference Framework\|东盟资历参考框架（AQRF）]]、东盟质保网络（AQAN）、东盟引文索引（ACI） | [[ASEAN Plus Three Working Group on Mobility and Quality Assurance of Higher Education\|东盟与中日韩流动与质保工作组（APT-WG）]]、[[CAMPUS Asia\|亚洲校园]]、东盟—韩国网络大学 | 亚欧教育区、[[SHARE Programme\|欧盟支持东盟高教项目（SHARE）]]、亚欧[[Lifelong Learning\|终身学习]]研究网络（ASEM LLL Hub） |
+> | **经验案例与代表表述** | 亚洲专家提出交响乐团隐喻（各奏其乐，融汇和谐）；官员以兄弟关系界定 SEAMEO 与 ASED 的分工默契 | 中国官员援引“远亲不如近邻”阐发睦邻方针；日本官员指出亚洲即便缺乏[[European Commission\|欧盟委员会]]同样能够连接多元流动机制 | 东盟代表明确拒绝克隆博洛尼亚模式并主张双向分享；欧洲专家借道 AQRF 反思欧洲资历框架（[[European Qualifications Framework\|EQF]]）应用困境 |
+> | **治理张力与现实局限** | 协调进展缓慢；柬埔寨、老挝、缅甸（CLM）后发成员因财政与专业能力不足在会场陷入被动沉默 | 外部大国凭借优势资源主导优先议程设置；东盟内部[[Student Mobility\|学生流动]]占比仍偏低（约 10%），面临单向人才流失风险 | 欧洲资助计划引发涉嫌越界插手他人势力的争议；亚欧双向学生流动规模依然存在显著逆差 |
 
 ---
 
@@ -203,7 +200,7 @@ issuing_organization: ""
 > | **[[SEAMEO\|东南亚教育部长组织]]（SEAMEO）** | 1965 年成立以来的历史积淀，区域专业声誉卓越 | 方案专业研发、技术标准研制与项目具体落地 | [[SEAMEO RIHED]] 曼谷高等教育专门中心 |
 
 > [!voice] 东盟秘书处官员谈“教育领域的兄弟协作”
-> “面对双轨并行的制度现状，东盟秘书处将 SEAMEO 视作东盟在教育领域的亲兄弟：ASED 依靠首脑峰会的国家元首政治授权掌握[[Total War|总体战]]略方向；SEAMEO 则凭借半个世纪积累的专业声誉和曼谷中心网络承担方案研发与技术落地。这种兄弟般的默契分工避免了争权内耗，展现出东盟用传统亲缘信任化解行政管辖争议的治理智慧。”（Granovetter, 1973; Yeo, 2010）
+> “面对双轨并行的制度现状，东盟秘书处将 SEAMEO 视作东盟在教育领域的亲兄弟：ASED 依靠首脑峰会的国家元首政治授权掌握总体战略方向；SEAMEO 则凭借半个世纪积累的专业声誉和曼谷中心网络承担方案研发与技术落地。这种兄弟般的默契分工避免了争权内耗，展现出东盟用传统亲缘信任化解行政管辖争议的治理智慧。”（Granovetter, 1973; Yeo, 2010）
 
 > [!figure]- 图1：东盟区域教育合作架构
 > ![](https://img.mylikemie.icu/sources/Dang_2017_ORE/figures/Dang_2017_ORE_Fig1_ASEAN_Education_Cooperation_Structure.jpg)
@@ -240,7 +237,7 @@ issuing_organization: ""
 > [!sub-claim] 1. 东盟主动搭建多边平台，促使中日韩为争夺生源和威信接受东盟规则
 
 > [!timeline] 东亚多边教育合作架构的演进脉络
-> - **1990** 马来西亚总理马[[John Hattie|哈蒂]]尔倡议成立东亚经济集团（East Asia Economic Group, EAEG），但因美日等外部大国反对而搁浅（Terada, 2003）。
+> - **1990** 马来西亚总理马哈蒂尔倡议成立东亚经济集团（East Asia Economic Group, EAEG），但因美日等外部大国反对而搁浅（Terada, 2003）。
 > - **1997** [[1997 Asian Financial Crisis|亚洲金融危机]]爆发，东亚各国意识到休戚与共的命运纽带，东盟抓住契机稳步推动 10+3 合作机制成型（Pempel, 2010）。
 > - **2009** 泰国教育部于 3 月率先发起东盟与中日韩高教政策对话，将高等教育正式列为区域多边合作新支柱。
 > - **2012** 东盟教育部长会议正式吸纳中日韩，建立常态化的东盟与中日韩教育部长会议（ASED+3）与高级官员会议（SOM）对话机制（Tan, 2013）。
@@ -321,7 +318,7 @@ issuing_organization: ""
 > [!citation-card] 协调在东南亚与欧洲的语境差异
 > 尽管亚洲人欣然接纳协调并用其表达对多样性的尊重，欧洲人却将协调视作禁忌之词，因为在欧洲语境中该词意味着对统一规制的屈从，压缩了各国的自主空间。例如[[European University Association|欧洲大学协会]]官网曾公开发表声明，明确博洛尼亚进程并不旨在协调各国教育体系。与此相反，协调在东盟内部具有积极进步的内涵，它指在充分理解彼此体制差异的基础上，理清各国如何相互包容与参照。这是一项持续推进的事业，是一场奔向更优办学水平的共同旅程。
 >
-> *Whilst Asians embrace harmonisation and use it as a way to speak to diversity, the Europeans see it as a taboo word because it implies conformity to common rules and little room for countries to take their own initiatives. For instance, the European University Association’s website states ‘the Bologna Process does not aim to harmonise [[National Education|national education]] systems’... By contrast, harmonisation has positive and progressive connotations in ASEAN. It is about having a common understanding of different processes and how each nation fits and compares to each other. It is a ‘work-in-progress’, a journey towards something better.*
+> *Whilst Asians embrace harmonisation and use it as a way to speak to diversity, the Europeans see it as a taboo word because it implies conformity to common rules and little room for countries to take their own initiatives. For instance, the European University Association’s website states ‘the Bologna Process does not aim to harmonise national education systems’... By contrast, harmonisation has positive and progressive connotations in ASEAN. It is about having a common understanding of different processes and how each nation fits and compares to each other. It is a ‘work-in-progress’, a journey towards something better.*
 
 > [!citation-card] 弱连接在网络化区域主义中的治理优势
 > 在网络化区域主义中，不存在严密的[[Bureaucracy|科层制]]层级，内部沟通与对外联络主要体现为协商与协调。跨群体网络同时连接着个人与各类组织（如政策共同体、商业协会、专业学术圈与社会团体）。这种弱连接虽然看似松散，却是贯通多元群体、提升集体协同行动能力的战略纽带；相比之下，具有法律强约束力的紧密条约往往容易演化为排他性的封闭小圈子。弱连接的优势恰恰在于打破壁垒连接多元主体，并在其间建立起持久的互信基础。

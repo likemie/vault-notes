@@ -84,7 +84,7 @@ sources:
 part_of:
 status: draft
 created: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Silova_2009_EE"
@@ -249,8 +249,8 @@ issuing_organization: ""
 
 ---
 
-> [!claim|step] 论证步骤三　系统英译欧洲一手文献打破了英[[Philosophical Aesthetics|美学]]界的单语自负，促进双向学术流通
-> 创刊之初的文献英译定位打破了英语学术界对外国成果的盲目自满，既为英美学者提供了未见英译的一手欧洲政策与档案，也为非英语欧洲学者打开了通往国际公共学术领域的窗口。
+> [!claim|step] 论证步骤三　系统英译欧洲一手文献打破了英美学界的单语自负，促进双向学术流通
+> 创刊之初的文献英译定位打破了英语学术界对外国成果的盲目自满，既为英[[Philosophical Aesthetics|美学]]者提供了未见英译的一手欧洲政策与档案，也为非英语欧洲学者打开了通往国际公共学术领域的窗口。
 
 > [!sub-claim] 1. 系统英译文献打破了重要著作皆已译出的自满假定，填补一手史料空白
 

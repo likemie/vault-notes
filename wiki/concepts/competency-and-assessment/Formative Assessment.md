@@ -9,10 +9,10 @@ aliases:
 summary: "在教学过程中系统收集学生理解与表现证据、提供指向改进的对话式反馈并动态调整教与学行动的评价范式"
 type: concept
 domain: "competency-and-assessment"
-related_count: 26
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 37
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - theme/assessment
   - subject/instruction
@@ -34,28 +34,39 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Peer Assessment]]"
   - "[[Metacognition]]"
+  - "[[Mastery Learning]]"
+  - "[[Creativity Assessment]]"
+  - "[[Alienation]]"
+  - "[[Self-Efficacy]]"
+  - "[[Learning Progression]]"
   - "[[Constructive Alignment]]"
-  - "[[Learning Portfolio]]"
+  - "[[Curriculum Alignment]]"
   - "[[Surface and Deep Learning]]"
+  - "[[Learning Portfolio]]"
 related_theories: []
 related_methods:
   - "[[Formative Program Evaluation]]"
   - "[[Experimental Research]]"
+  - "[[Meta-analysis]]"
 related_instruments:
   - "[[VALUE Rubrics]]"
   - "[[Assessment Tools for Teaching and Learning]]"
-related_persons: []
+related_persons:
+  - "[[Dylan Wiliam]]"
+  - "[[John Hattie]]"
+  - "[[Zongyi Deng]]"
 related_facts:
+  - "[[Teach Less, Learn More]]"
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
   - "[[Argument_Hattie_2005_ACER]]"
-  - "[[Argument_Biggs_1999_HERD]]"
   - "[[Argument_Deng_2016_CE]]"
+  - "[[Argument_Biggs_1999_HERD]]"
 confidence: high
 status: active
 created: 2026-05-25
-updated: 2026-11-18
+updated: 2026-11-20
 ---
 
 > [!def] Formative Assessment
@@ -84,9 +95,9 @@ updated: 2026-11-18
 > | **主要目的** | 促进学习、诊断困难、指导改进教学 | 认证资格、评定等级、分流选拔与外部问责 |
 > | **实施时机** | 教学过程中持续嵌入 | 单元、学期或课程结束时集中实施 |
 > | **利害关系** | **低利害（Low-Stakes）** 鼓励试错与反思 | **高利害（High-Stakes）** 决定学分与名次 |
-> | **反馈形式** | 定性描述、针对性建议与双向[[Dialogue in Education|对话]]（Comments only） | 定量分数、等级符号与相对排位（Grades / Marks） |
+> | **反馈形式** | 定性描述、针对性建议与双向[[Dialogue in Education\|对话]]（Comments only） | 定量分数、等级符号与相对排位（Grades / Marks） |
 > | **学生动机影响** | 激发内部动机与任务卷入（Task-Involving） | 易诱发自我卷入（Ego-Involving）与避错行为 |
-> | **适用认知目标** | 复杂问题解决、论证构建、批判审视与[[Creativity|创造性]]构想 | 既定标准达标判定、大范围常模比较与知识覆盖 |
+> | **适用认知目标** | 复杂问题解决、论证构建、批判审视与[[Creativity\|创造性]]构想 | 既定标准达标判定、大范围常模比较与知识覆盖 |
 
 ---
 
@@ -142,12 +153,12 @@ updated: 2026-11-18
 
 > [!dev-timeline] 概念演变
 > - **1967 年 — 斯克里文提出“形成性评价”概念** 迈克尔·斯克里文（Michael Scriven）在课程评估中首次区分“形成性评价（Formative Evaluation）”与“总结性评价（Summative Evaluation）”，前者旨在为正在进行的课程开发提供改进线索。
-> - **1971 年 — 布卢姆拓展至课堂教学** 本杰明·布卢姆（Benjamin Bloom）将形成性评价延伸至单元教学，用于诊断掌握学习中的个体困难并提供矫正指导。
-> - **1998 年 — 黑色箱子（Inside the Black Box）与 AfL 运动** 保罗·布莱克（Paul Black）与迪伦·威廉（Dylan Wiliam）发表元分析综述，确立高质量形成性评价能够产生实质学业增益（$d = 0.4 \sim 0.7$），催生英国及全球“促学评价（Assessment for Learning, AfL）”改革浪潮。
+> - **1971 年 — 布卢姆拓展至课堂教学** 本杰明·布卢姆（Benjamin Bloom）将形成性评价延伸至单元教学，用于诊断[[Mastery Learning|掌握学习]]中的个体困难并提供矫正指导。
+> - **1998 年 — 黑色箱子（Inside the Black Box）与 AfL 运动** 保罗·布莱克（Paul Black）与[[Dylan Wiliam|迪伦·威廉]]（Dylan Wiliam）发表[[Meta-analysis|元分析]]综述，确立高质量形成性评价能够产生实质学业增益（$d = 0.4 \sim 0.7$），催生英国及全球“促学评价（Assessment for Learning, AfL）”改革浪潮。
 > - **2000 年代中叶 — 形成性评价五大关键策略确立** 威廉与布莱克等（Black & Wiliam, 2007）将促学评价系统提炼为五大核心策略（澄清标准、设计任务、前瞻反馈、同伴互评与自我调节）。
-> - **2005 年 — 形成性数据系统与教师反思支持** 哈蒂（[[Argument_Hattie_2005_ACER|Hattie, 2005]]）在新西兰研发 asTTle 形成性评价工具，推动将评价数据由外部监控转向教师自我教学诊断。
-> - **2016 年 — 高利害选拔体制中的工具性吸纳** 邓宗怡与戈皮纳坦（[[Argument_Deng_2016_CE|Deng & Gopinathan, 2016]]）记录新加坡在实施“少教多学”时引入形成性评价，揭示在统考支配下形成性工具常被教师改造为快速筛查应试盲区的诊断手段。
-> - **2023 年 — 批判性思维与创造力评价整合** 布卡尔特（[[Argument_Bouckaert_2023_OECD|Bouckaert, 2023]]）结合 [[OECD]] 跨国项目，倡导将形成性评价作为培养学生高阶思维与创新素养的核心脚手架。
+> - **2005 年 — 形成性数据系统与教师反思支持** [[John Hattie|哈蒂]]（[[Argument_Hattie_2005_ACER|Hattie, 2005]]）在新西兰研发 [[Assessment Tools for Teaching and Learning|asTTle]] 形成性评价工具，推动将评价数据由外部监控转向教师自我教学诊断。
+> - **2016 年 — 高利害选拔体制中的工具性吸纳** [[Zongyi Deng|邓宗怡]]与戈皮纳坦（[[Argument_Deng_2016_CE|Deng & Gopinathan, 2016]]）记录新加坡在实施“[[Teach Less, Learn More|少教多学]]”时引入形成性评价，揭示在统考支配下形成性工具常被教师改造为快速筛查应试盲区的诊断手段。
+> - **2023 年 — 批判性思维与[[Creativity Assessment|创造力评价]]整合** 布卡尔特（[[Argument_Bouckaert_2023_OECD|Bouckaert, 2023]]）结合 [[OECD]] 跨国项目，倡导将形成性评价作为培养学生高阶思维与创新素养的核心脚手架。
 
 ---
 
@@ -159,14 +170,14 @@ updated: 2026-11-18
 > > - **质性描述论（Butler, 1988）** 坚信唯有不带分数的质性批注才能保护学生的任务卷入与探索意愿，避免分数诱发自我防卫心态。
 > > - **量化激励论** 认为在竞争性学制下，适度量化反馈能提供清晰的常模坐标与外在驱动力，完全剥离分数难以应对标准化认证需求。
 >
-> > [!axis] 育人促学导向 vs 应试工具性异化
+> > [!axis] 育人促学导向 vs 应试工具性[[Alienation|异化]]
 > > 探讨形成性评价在嵌入高利害选拔体制时的实践走样。
 > >
 > > - **深度促学理想（Black & Wiliam, 1998）** 强调形成性评价应服务于促进概念理解、暴露思维过程与培育自主调节。
 > > - **应试诊断现实（[[Argument_Deng_2016_CE|Deng & Gopinathan, 2016]]）** 在升学大考压力下，教师倾向于将形成性评价技术化为高频错题筛查与答题技巧纠偏工具，服务于终结性分流成绩的提升。
 
 > [!warning|limits] 适用局限
-> 形成性评价依赖于教师高水平的诊断胜任力与安全的班级文化；若外部高利害统考问责压力过大，形成性评价极易退化为变相的密集模拟考，不仅无法培育高阶思维，反而放大应试焦虑；此外，仅提供负面纠偏而缺乏可行前瞻性路径（Feedforward）的反馈往往削弱学生的自我效能感。
+> 形成性评价依赖于教师高水平的诊断胜任力与安全的班级文化；若外部高利害统考问责压力过大，形成性评价极易退化为变相的密集模拟考，不仅无法培育高阶思维，反而放大应试焦虑；此外，仅提供负面纠偏而缺乏可行前瞻性路径（Feedforward）的反馈往往削弱学生的[[Self-Efficacy|自我效能感]]。
 
 ---
 
@@ -176,12 +187,12 @@ updated: 2026-11-18
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Feedback]] | 概念 | 核心机制：形成性评价通过即时针对性反馈弥合当前表现与学业进阶目标之间的鸿沟。 |
+> | [[Feedback]] | 概念 | 核心机制：形成性评价通过即时针对性反馈弥合当前表现与[[Learning Progression\|学业进阶]]目标之间的鸿沟。 |
 > | [[Learning Intentions]] | 概念 | 前提要素：形成性评价的展开必须以清晰明确的学习意图为导向基准。 |
 > | [[Success Criteria]] | 概念 | 评价参照：向学生明晰达标标准与量规，支持自我评估与同伴反思。 |
 > | [[Higher-Order Thinking Skills]] | 概念 | 培育目标：低利害形成性评价为批判性思维与创造力的多轮试错提供安全探索空间。 |
 > | [[Peer Assessment]] | 概念 | 实施方式：激活学生作为学习资源，通过同伴互评促进元认知反思。 |
-> | [[Constructive Alignment]] | 概念 | 课程对齐：将形成性评价任务与教学目标及深层学习成果实现系统建构性对齐。 |
+> | [[Constructive Alignment]] | 概念 | [[Curriculum Alignment\|课程对齐]]：将形成性评价任务与教学目标及[[Surface and Deep Learning\|深层学习]]成果实现系统建构性对齐。 |
 > | [[Assessment Tools for Teaching and Learning]] | 工具 | 实践系统：以教师为核心的形成性评价系统，辅助教学诊断与数据反思。 |
 > | [[Formative Program Evaluation]] | 方法 | 概念对照：区分微观课堂教学中的认知评价与宏观教育改革方案的过程性评估。 |
 
