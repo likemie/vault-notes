@@ -1,6 +1,7 @@
 ---
 citation: "Nordtveit, B. H. (2011). An emerging donor in education and development: A case study of China in Cameroon. *International Journal of Educational Development*, *31*(1), 99–108. https://doi.org/10.1016/j.ijedudev.2010.01.004"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Nordtveit_2011_IJED]]"
 processed_date: 2026-11-19
 ---
 

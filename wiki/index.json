@@ -20869,6 +20869,19 @@
     ]
   },
   {
+    "title": "Hopelessness in Schooling",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Hopelessness in Schooling.md",
+    "aliases": [
+      "读书无望",
+      "读书无望论",
+      "教育无望感",
+      "防御性实践理性",
+      "hopelessness in schooling",
+      "defensive practical rationality"
+    ]
+  },
+  {
     "title": "Horizontal Knowledge Structure",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Horizontal Knowledge Structure.md",
@@ -35447,6 +35460,16 @@
     ]
   },
   {
+    "title": "Diane Reay",
+    "type": "person",
+    "path": "wiki/persons/uk/Diane Reay.md",
+    "aliases": [
+      "戴安·雷伊",
+      "雷伊",
+      "Reay, D."
+    ]
+  },
+  {
     "title": "Doreen Massey",
     "type": "person",
     "path": "wiki/persons/uk/Doreen Massey.md",
@@ -36061,6 +36084,17 @@
     "aliases": [
       "Morris, P.",
       "保罗·莫里斯"
+    ]
+  },
+  {
+    "title": "Paul Willis",
+    "type": "person",
+    "path": "wiki/persons/uk/Paul Willis.md",
+    "aliases": [
+      "保罗·威利斯",
+      "威利斯",
+      "Willis, P.",
+      "Paul E. Willis"
     ]
   },
   {
@@ -41418,6 +41452,18 @@
       "新疆教培中心",
       "Xinjiang re-education camps",
       "新疆再教育营"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Zhongkao",
+    "type": "fact",
+    "path": "wiki/facts/china/Zhongkao.md",
+    "aliases": [
+      "中考",
+      "初中学业水平考试",
+      "初中毕业升学考试",
+      "Senior High School Entrance Examination"
     ],
     "subtype": "policy"
   },

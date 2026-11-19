@@ -62,11 +62,11 @@ related_arguments:
 > *Subordinated minority students often face a powerful psychological and social dilemma: the burden of 'acting white'. Academic striving, standard speech, and high achievement are perceived by peers as capitulation to the dominant white society and betrayal of minority collective identity, forcing high-achieving students to camouflage their academic abilities.* (Fordham & Ogbu, 1986, p. 177)
 
 > [!contrast-table|notitle] 概念辨析
-> | 维度 | “扮白人”负担 (Burden of Acting White) | [[Counter-School Culture\|反学校文化]] | [[Cultural Disembedding\|文化脱嵌]] |
-> |---|---|---|---|
-> | **社会群体** | 渴望学业晋升但面临同辈制裁的边缘优等生 | 彻底唾弃学校规训的工薪体力阶层子弟 | 初入异质精英场域而面临生活语码隔阂的新生 |
-> | **制裁来源** | 原生社群与同伴网络基于“文化忠诚”的横向制裁 | 同阶级小团体内部对“书呆子”的男子气概抵制 | 精英大学组织制度与中产阶级日常规范的隐性排斥 |
-> | **典型应对** | 隐藏实力、双面生活或扮演小丑以求共存 | 逃课、违反校纪、拥抱体力劳动与反叛权威 | 退守同质老乡圈子，体验急性羞怯与疏离 |
+> | 维度 | “扮白人”负担 (Burden of Acting White) | [[Counter-School Culture\|反学校文化]] | [[Cultural Disembedding\|文化脱嵌]] | [[Hopelessness in Schooling\|读书无望自保]] |
+> |---|---|---|---|---|
+> | **社会群体** | 渴望学业晋升但面临同辈制裁的边缘优等生 | 彻底唾弃学校规训的工薪体力阶层子弟 | 初入异质精英场域而面临生活语码隔阂的新生 | 承受高额就学成本与文凭贬值挤压的农村底层家庭 |
+> | **制裁来源** | 原生社群与同伴网络基于“文化忠诚”的横向制裁 | 同阶级小团体内部对“书呆子”的男子气概抵制 | 精英大学组织制度与中产阶级日常规范的隐性排斥 | 客观机会结构与就业市场门槛的制度性排斥，缺乏社群内部文化惩戒 |
+> | **典型应对** | 隐藏实力、双面生活或扮演小丑以求共存 | 逃课、违反校纪、拥抱体力劳动与反叛权威 | 退守同质老乡圈子，体验急性羞怯与疏离 | 降低升学期望，提早分流务工补贴家用 |
 
 ---
 
@@ -114,8 +114,9 @@ related_arguments:
 ---
 
 > [!dev-timeline] 概念演变
-> - **1986 — 经典理论提出** Fordham 与 Ogbu 在《城市评论》发表奠基研究，基于华盛顿特区黑人中学的民族志调查，系统提出“扮白人”负担理论。[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|(Fordham & Ogbu, 1986)]]
+> - **1986 — 经典理论提出** Fordham 与 Ogbu 在《城市评论》发表开创性研究，基于华盛顿特区黑人中学的民族志调查，系统提出“扮白人”负担理论。[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|(Fordham & Ogbu, 1986)]]
 > - **1990–2010 — 争论与跨群体迁移** 概念引发了关于少数族裔学业差距根源的激烈学术争辩，并被拓展应用至拉丁裔、印第安原住民以及英国工人阶级学生等多样弱势群体。
+> - **2017 — 中国农村底层教育退守对比** 谢爱磊在《北京大学教育评论》发文，以“装白负担”等对抗性亚文化理论为理论对照，指出中国农村底层并不存在将学业追求视为背叛族群的道德惩戒，底层行动者的教育退缩属于面对高昂求学成本与文凭贬值时的防御性实践理性自保。[[Argument_Xie_2017_PKUER|(谢爱磊, 2017, p. 95)]]
 > - **2023 — 中国教育社会学情境引述** 郑雅君在《金榜题名之后》中将该概念作为教育文化障碍经典学术谱系的重要环节，用以透视寒门学子在名校习得精英社交语码时面临的忘本自责与原生群体疏离。[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|(郑雅君, 2023, p. 361)]]
 
 ---
@@ -135,8 +136,10 @@ related_arguments:
 > | [[Habitus Divided Against Itself]] | 概念 | 在同辈忠诚与学业追求之间摇摆诱发的内在心理撕裂。 |
 > | [[Conspiracy of Reflexivity]] | 概念 | 与被迫隐藏实力的初阶伪装相比，合谋展现了更深入的精英收编。 |
 > | [[Subaltern Cultural Capital]] | 概念 | 为跨文化学子提供化解忘本负罪感、重塑群体代表性的认同锚点。 |
+> | [[Hopelessness in Schooling]] | 概念 | 理论对照参照，装白负担强调同辈亚文化对学业优异的道德惩戒，读书无望强调面对经济成本与流动壁垒时的理性自保。 |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian_Ch06|郑雅君 (2023)]] — 梳理教育社会学从反学校文化到“扮白人”的理论脉络，揭示学校隐性文化要求对弱势阶层造成的排斥与道德两难。
+> - [[Argument_Xie_2017_PKUER|谢爱磊 (2017)]] — 以“装白负担”等对抗性亚文化理论为理论对照，指出中国农村底层并不存在将学业优异污名化的社群惩戒，其教育退缩源于客观机会与成本制约。

@@ -50,6 +50,7 @@ updated: 2026-10-30
 > - **2002 年** — Aronson 在 social psychology 领域正式提出 stereotype threat 概念，最初用于解释标准化测试中的种族和性别成绩差距
 > - **2007 年** — Ryan & Louie 将这一概念引入[[Intercultural Education|跨文化教育]]研究，观察到[[Chinese Learner\|中国学习者]]在西方课堂中**内化**了关于自己"被动"的刻板描述，甚至为不够主动而主动道歉([[Argument_Ryan_2010_ChineseLearner\|Ryan, 2010, p.44]])
 > - **2010 年** — [[Argument_Ryan_2010_ChineseLearner\|Ryan (2010)]]在 [[Chinese Learner]] 的批判分析中，系统展示了刻板印象威胁在跨文化教育中的完整运作链条，并将其与 [[Orientalism]] 的理论框架对接
+> - **2017 年** — 谢爱磊在农村弱势群体教育观念研究中评析刻板印象威胁假说，指出单纯将底层低教育期望归因于心理层面的负面图式内化是不充分的，必须结合宏观机会结构固化与求学成本收益的现实算计。([[Argument_Xie_2017_PKUER|谢爱磊, 2017, p. 94]])
 
 > [!abstract] 核心要素
 > 刻板印象威胁在教育跨文化语境中的因果链([[Argument_Ryan_2010_ChineseLearner\|Ryan, 2010, pp.44, 49–50]])：
@@ -76,10 +77,12 @@ updated: 2026-10-30
 > [!warning] 争议与批评
 > - 该概念最初在社会心理学实验室环境中发展，其在 **[[Intercultural Education|跨文化教育]]** 领域的适用性尚未经过独立的实证检验——Ryan 的论述是理论应用而非实验验证
 > - 在内化/去认同化的链条中，哪些环节是刻板印象威胁特有的、哪些与其他因素（如语言障碍、社会孤立）重叠，尚未被清晰区分
+> - 社会学进路指出，心理学模型的刻板印象威胁将成就差距局限于个体心理防御与认知负担，忽视了宏观机会结构、高校直接就学成本与劳动力市场变现壁垒对行动者学业退却的根本规制。([[Argument_Xie_2017_PKUER|谢爱磊, 2017, p. 94]])
 
 > [!example] 相关案例／政策
 > - [[Chinese Learner]] — 刻板印象威胁在[[Intercultural Education|跨文化教育]]中的主要应用案例：中国学习者如何在西方课堂中经历威胁感知 → 内化 → 自我实现的完整链条
 > - [[Argument_Ryan_2010_ChineseLearner|Ryan (2010)]] — [[Argument_Ryan_2010_ChineseLearner\|Ryan (2010)]] 对刻板印象威胁在中国学习者案例中的系统论证
+> - [[Argument_Xie_2017_PKUER|谢爱磊 (2017)]] — 在农村底层居民教育观念研究中评估刻板印象威胁理论，指出心理学解释必须结合宏观机会结构与家庭成本收益核算。
 
 > [!metax-divider]
 

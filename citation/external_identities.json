@@ -37147,7 +37147,8 @@
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md",
         "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md",
-        "wiki/concepts/sociology-of-education/Burden of Acting White.md"
+        "wiki/concepts/sociology-of-education/Burden of Acting White.md",
+        "wiki/concepts/sociology-of-education/Hopelessness in Schooling.md"
       ],
       "title": "Black Students’ School Success: Coping with the “Burden of ‘Acting White’”"
     },
@@ -70187,6 +70188,14 @@
       ],
       "title": ""
     },
+    "MOFA, 2003": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Nordtveit_2011_IJED.md"
+      ],
+      "title": "China and Cameroon"
+    },
     "Ma & Kishor, 1997": {
       "datasets": [
         "metax:S0112"
@@ -89227,6 +89236,14 @@
       ],
       "title": ""
     },
+    "Prah & Burnett, 2007": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Nordtveit_2011_IJED.md"
+      ],
+      "title": "Africa and China: Then and now"
+    },
     "Prais & Wagner, 1986": {
       "doi": "",
       "isbn": "",
@@ -91354,9 +91371,7 @@
     "Reay et al., 2001": {
       "doi": "10.1177/0038038501035004004",
       "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md"
-      ],
+      "seen_in": [],
       "title": "Choices of Degree or Degrees of Choice? Class, Race and the Higher Education Choice Process"
     },
     "Reay et al., 2009": {
@@ -91365,7 +91380,6 @@
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md",
-        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md",
         "wiki/concepts/sociology-of-education/Cultural Disorientation.md",
         "wiki/concepts/sociology-of-education/Habitus.md",
         "wiki/concepts/sociology-of-education/The Shock of the Elite.md"
@@ -91375,9 +91389,7 @@
     "Reay et al., 2010": {
       "doi": "10.1080/01411920903540171",
       "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md"
-      ],
+      "seen_in": [],
       "title": "'Fitting in' or 'Standing out': Working Class Students in UK Higher Education"
     },
     "Reay, 1998": {
@@ -91393,8 +91405,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
-        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md",
-        "wiki/concepts/sociology-of-education/The Shock of the Elite.md"
+        "wiki/concepts/sociology-of-education/The Shock of the Elite.md",
+        "wiki/persons/uk/Diane Reay.md"
       ],
       "title": "Finding or Losing Yourself?: Working-class Relationships to Education"
     },
@@ -91402,8 +91414,8 @@
       "doi": "10.1080/0268093042000269940",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md",
-        "wiki/concepts/sociology-of-education/Cultural Capital.md"
+        "wiki/concepts/sociology-of-education/Cultural Capital.md",
+        "wiki/persons/uk/Diane Reay.md"
       ],
       "title": "'It's All Becoming a Habitus': Beyond the Habitual Use of Habitus in Educational Research"
     },
@@ -95934,6 +95946,7 @@
       "isbn": "9780394722269",
       "seen_in": [
         "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md",
+        "wiki/concepts/sociology-of-education/Hopelessness in Schooling.md",
         "wiki/facts/us/Coleman Report 1966.md"
       ],
       "title": "Blaming the Victim"
@@ -118931,11 +118944,12 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14.md",
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch05.md",
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md",
-        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md",
         "wiki/concepts/research-methodology/Front-loaded and End-loaded Research.md",
         "wiki/concepts/sociology-of-education/Counter-School Culture.md",
+        "wiki/concepts/sociology-of-education/Hopelessness in Schooling.md",
         "wiki/methods/qualitative/Non-participant Observation.md",
-        "wiki/methods/qualitative/Participant Observation.md"
+        "wiki/methods/qualitative/Participant Observation.md",
+        "wiki/persons/uk/Paul Willis.md"
       ],
       "title": "Learning to Labor: How Working Class Kids Get Working Class Jobs"
     },
