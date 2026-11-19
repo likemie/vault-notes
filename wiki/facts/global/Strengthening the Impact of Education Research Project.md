@@ -114,7 +114,7 @@ updated: 2026-11-19
 > [!dev-timeline] 项目推进历程
 > - **2021年上半年 — 理论综合与[[Questionnaire\|问卷]]框架研制** [[Centre for Educational Research and Innovation\|CERI]] 梳理卫生、农业与公共行政领域的跨学科[[Knowledge Mobilisation\|知识动员]]模型，确立线性-关系-复杂系统三代嵌套理论框架，完成跨国政策调查问卷（[[Strengthening the Impact of Education Research Policy Survey]]）设计。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 18–25)]]
 > - **2021年6月–9月 — 跨国政策调查大规模施测** 针对 [[OECD]] 成员国教育部实施标准化问卷调研，正式采集到 29 个国家共计 37 个教育系统的高级行政数据，建立跨国政策端[[Research Utilization\|研究利用]]的首个基准数据库。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, p. 25)]]
-> - **2021年秋季 — 典型国家高层[[In-depth Interview\|深度访谈]]** 选取日本、新西兰、挪威、葡萄牙、斯洛文尼亚与南非 6 国教育部司局长及高级战略主管展开深入[[Qualitative Interview\|质性访谈]]，核验调查数据的[[Ecological Validity\|生态效度]]并沉淀典型治理案例。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, p. 26)]]
+> - **2021年秋季 — 典型国家高层[[In-depth Interview\|深度访谈]]** 选取日本、新西兰、挪威、葡萄牙、斯洛文尼亚与南非 6 国教育部司局长及高级战略主管展开深入[[Qualitative Interview\|质性访谈]]，核验调查数据的[[Ecological Validity\|生态效度]]并提炼典型治理案例。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, p. 26)]]
 > - **2022年11月 — 旗舰专著发布与理论成型** 出版旗舰专著《Who Cares about Using Education Research in Policy and Practice?: Strengthening [[Engagement in and with Research\|Research Engagement]]》，系统发布导论理论框架（Révai）、跨领域模型比较（Torres）、系统组织与中介网络实证摸排（Hill）等全景成果，全面确立[[Evidence Ecosystem\|证据生态系统]][[Paradigm\|范式]]。[[Argument_Revai(Ed.)_2022_OECD\|(Révai, 2022, pp. 11–13)]]
 > - **2023年至今 — 深化微观机制实证评估** 项目进入第二阶段，聚焦中介机制有效性因果检验、学校循证文化培育与大学学术考评改革试验。
 
@@ -126,7 +126,7 @@ updated: 2026-11-19
 > - **受测核心执行方（各国教育部系统）** 各国教育部常务秘书、战略司局长及联邦制下各省/州教育厅协调中心，承担官方答卷与访谈对接。
 > - **生态延伸节点（中介机构与大学）** 将英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）、新西兰[[Best Evidence Synthesis\|最佳证据综合]]（BES）、大学科研团队等纳入跨国机制案例池。
 
-> [!case] 项目沉淀的代表性国家制度治理[[Paradigm\|范式]]（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, pp. 80–92]]）
+> [!case] 项目提炼的代表性国家制度治理[[Paradigm\|范式]]（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, pp. 80–92]]）
 > - **行政中枢常设内部中介单元（斯洛文尼亚与挪威）** 斯洛文尼亚教育部质量与分析处与挪威教育与研究部政策分析处设于行政中枢内部，由高级公务员与资深研究员混合组成，充当部内专职[[Boundary Spanner\|知识经纪人]]，快速响应司局决策需求，分发研究要报并开展定制化量化分析，有效突破外部中介响应滞后壁垒。
 > - **政学整合型博士联合培养模式（挪威 [[Public Sector PhD Scheme\|OFFPHD]] 与荷兰 NWO）** 挪威公共部门博士计划（OFFPHD）仅向公共部门常任雇员开放，围绕重大教育政策开展应用研究；荷兰科学研究组织（NWO）教师博士计划面向学前至高职一线教师开放，由国家拨款承担代课聘用成本，保障教师在最长 5 年内享有最高 0.4 全职当量的法定带薪科研时间。
 > - **教师专业职级与科研终身激励突破（匈牙利）** 设立研究型教师（Researcher Teacher）终身职级体系，要求博士学位与严苛考核，配备 5 年可续科研规划并大幅提高法定薪酬补贴，打破大学对[[Knowledge Production\|知识生产]]的垄断，在行政中枢与微观教学间构筑起独立造血的中介支点。

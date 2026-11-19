@@ -254,7 +254,7 @@ updated: 2026-11-19
 >   - **1957** 苏联人造卫星（[[Sputnik Shock 1957|Sputnik]]）升空，引发西方世界的科技危机与教育动员浪潮。
 >   - **1958** [[Comparative Education Center at Chicago 1958|芝加哥大学比较教育中心]]建立，推动教育经济学与比较教育深度融合。
 >
-> - **1961–1970s** **OECD 改组、科技统计奠基与冷战[[Development Turn in Comparative Education|发展转向]]**
+> - **1961–1970s** **OECD 改组、科技统计体系建立与冷战[[Development Turn in Comparative Education|发展转向]]**
 >
 >   美欧国家将 OECD 打造为抗衡苏联意识形态与综合国力竞争的制度堡垒，在[[Economics of Education Movement|教育经济学运动]]影响下确立教育是经济增长生产性投资的新[[Paradigm|范式]]。副司长[[George Papadopoulos|乔治·帕帕多普洛斯]]（George Papadopoulos）所总结的 1960–1990 年阶段中，欧洲成员国的社会民主主义议程缓冲了美国的自由市场取向，形成恩斯特·哈斯（Ernst Haas）所谓美国与欧洲成员国之间不连贯的妥协（Haas, 1990, p. 159）：教育被视为培育批判性民主公民与维护社会凝聚力的公共物品，工作模式以自愿性的国别审查（*sui generis*）与宽容的广泛意识形态教会为特征。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 420–423)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 437–439, 442, 451)]]
 >

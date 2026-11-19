@@ -78,13 +78,13 @@ updated: 2026-11-19
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1993 年 11 月 23 日由比尔·克林顿（Bill Clinton）总统签署第 12881 号行政令设立；其动因是在冷战结束与国防军费削减的背景下，克服联邦科技管理各自为政的官僚壁垒，确立国家经济[[Competitiveness|竞争力]]导向的科技新秩序。
 > - **总部地点 / 业务辐射** 设于白宫执行办公室，由[[Office of Science and Technology Policy|白宫科学技术政策办公室]]（OSTP）提供常设幕僚支持；统筹业务覆盖国防部、能源部、卫生与公众服务部、[[National Science Foundation|NSF]]、[[National Aeronautics and Space Administration|NASA]] 等全美 20 余个涉及研发的联邦部委与独立机构。
-> - **法人属性与经费基础** 总统直属内阁级协调机构；运行依托白宫行政预算，本身不直接管理独立分发性科研资金，而是通过审查、整合与指导各部委研发预算优先序行使法定统筹权。
+> - **法人属性与经费基础** 总统直属内阁级协调机构；运行依托白宫行政预算，主要通过审查、整合与指导各部委研发预算优先序行使法定统筹权，并不直接经办独立分发性科研资金。
 > - **核心宗旨与法定职责** 确保联邦科技政策与国家经济增长、国家安全、环境保护及社会福祉等宏观目标高度一致；协调跨部委重大前沿研发项目，消除部门间职能重叠与资源浪费。
 
 ---
 
 > [!dev-timeline] 组织发展历程
-> - **1993–2000 — 创设奠基与经济[[Competitiveness|竞争力]]导向确立** 克林顿政府组建 NSTC，确立总统挂帅、内阁成员参与的高规格架构；深度主导 1994 年《[[Science in the National Interest 1994|科学与国家利益]]》白皮书落地，统筹推动[[National Nanotechnology Initiative|国家纳米技术倡议]]（NNI）等跨部门公私协同旗舰计划。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
+> - **1993–2000 — 创设起步与经济[[Competitiveness|竞争力]]导向确立** 克林顿政府组建 NSTC，确立总统挂帅、内阁成员参与的高规格架构；深度主导 1994 年《[[Science in the National Interest 1994|科学与国家利益]]》白皮书落地，统筹推动[[National Nanotechnology Initiative|国家纳米技术倡议]]（NNI）等跨部门公私协同旗舰计划。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
 > - **2001–2016 — 职能深化与[[Grand Challenges|重大挑战]]导向重塑** 小布什与奥巴马时期，NSTC 下设委员会制度化扩容，聚焦反恐国家安全、气候变化监测、先进制造（Advanced Manufacturing）及干细胞/生命伦理准则，推动科研向重大社会挑战聚焦。
 > - **2017–至今 — 大国竞争加剧与再集中转向** 特朗普第一任期与拜登时期，NSTC 重点转向关键与新兴技术清单制定、量子与人工智能跨部门行动计划推进，以及[[Research Security|科研安全]]跨部门联合审查标准的出台；在《[[CHIPS and Science Act|芯片与科学法案]]》与 2021 财年《国防授权法案》第 9906 条落地后，通过下设的[[Subcommittee on Microelectronics Leadership|微电子领导力小组委员会]]（SML）正式发布并修订《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》，统筹商务部、国防部、能源部与国家科学基金会（[[National Science Foundation|NSF]]）的半导体研发与劳动力布局；2025 年起在[[Technology-Oriented Social Contract|技术型社会契约]]导向下，成为落实总统定向技术攻关指令的核心行政中枢。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1061–1062)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 17–20)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. ii, 1–2, 48)]]
 
@@ -97,7 +97,7 @@ updated: 2026-11-19
 > - **会员与外部利益相关者** 深度联动[[National Science Board|国家科学委员会]]（NSB）、总统科技顾问委员会（PCAST）、芯片[[Industrial Advisory Committee|工业咨询委员会]]（IAC）及工业界代表，吸纳外部建议。
 
 > [!pathways] 业务运行机制
-> - **议程设置** 每年联合白宫管理与预算办公室（OMB）发布《联邦研发预算优先序联合备忘录》，直接规约各部委下一财年研发经费报送。
+> - **议程设置** 每年联合白宫管理与预算办公室（OMB）发布《联邦研发预算优先序联合备忘录》，直接规范各部委下一财年研发经费报送。
 > - **研究与开发** 跨部委设立联合项目办公室，协调各部委所属国家实验室、大学合作中心共同参与重大技术攻关。
 > - **微电子与关键技术跨部门统筹** 通过 SML 定期组织微电子能力审查与联合 RFI 发布，统筹商务部（NSTC/[[National Advanced Packaging Manufacturing Program|NAPMP]]）、国防部（[[Microelectronics Commons]]）与 [[National Science Foundation|NSF]]/[[Department of Energy|DOE]] 的基础设施开放与技术路线对齐。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 9–10, 48)]]
 > - **质量控制与透明度** 制定统领全美联邦基金的[[Research Security|科研安全]]披露、利益冲突防范与数据合规指引，确保政策执行的一致性。
@@ -112,7 +112,7 @@ updated: 2026-11-19
 > - **年度战略报告与优先序指南** 每年发布跨部门战略投资指引，为国会科技拨款与部委预算编制提供法定参考基准。
 
 > [!citation-card] 代表性章程／使命宣言
-> 建立国家科学技术委员会（NSTC）跨部门统筹协调机制，是联邦在国家安全统摄性减退下维系公共资助合法性与经济服务功能的核心组合方案之一，旨在克服官僚壁垒，确立国家战略导向的科技新秩序。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1059)]]
+> 建立国家科学技术委员会（NSTC）跨部门统筹协调机制，是联邦在国家安全主导地位减退下维系公共资助合法性与经济服务功能的核心组合方案之一，旨在克服官僚壁垒，确立国家战略导向的科技新秩序。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1059)]]
 >
 > *Establishing the interagency coordination mechanism of the National Science and Technology Council (NSTC) was one of the core measures for the federal government to sustain funding legitimacy and economic service functions amid waning national security supremacy.*
 

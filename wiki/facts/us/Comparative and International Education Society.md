@@ -111,14 +111,14 @@ updated: 2026-11-19
 > [!pathways] 业务运行机制
 > - **议程设置** 每年由当任会长确立年度学术年会（CIES Annual Conference）的核心主题，通过会长就职演讲（Presidential Address）直接向国际学界抛出前沿理论与[[Epistemology|认识论]]倡议。
 > - **[[Knowledge Production|知识生产]]与同行评议** CER 期刊实行极为严谨的同行双盲评审规程，每年系统编纂年度比较教育文献索引，定期发布针对前沿方法与跨国政策的专题审议报告。
-> - **学术奖掖与档案建设** 设立[[George Bereday|乔治·贝雷迪]]奖（George Bereday Award）等学术重奖表彰杰出年度论文；与各大[[Research Universities|研究型大学]]档案馆合作推进早期学者手稿保护与学术口述史数字化。
+> - **学术奖掖与档案建设** 设立[[George Bereday|乔治·贝雷迪]]奖（George Bereday Award）等学术重奖表彰杰出年度成果；与各大[[Research Universities|研究型大学]]档案馆合作推进早期学者手稿保护与学术口述史数字化。
 
 ---
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **旗舰学术期刊** 《比较教育评论》（*Comparative Education Review*, CER, 1957 年创刊，全球历史最悠久、引文影响力最高的比较教育学科顶级权威期刊）。
 > - **年度国际学术年会** CIES Annual Conference，每年吸引全球超三千名学者参会，是[[International Education|国际教育]]学界规模最庞大的跨国学术集会。
-> - **学科史料库与口述史工程** 沉淀于哈佛大学、哥伦比亚大学等高校档案馆的珍贵通信与学术档案，以及抢救性记录的创会先驱口述实录。
+> - **学科史料库与口述史工程** 保存在哈佛大学、哥伦比亚大学等高校档案馆的珍贵通信与学术档案，以及抢救性记录的创会先驱口述实录。
 > - **政策与学术咨询专刊** 针对全球教育危机、大规模量化测评与去殖民化议题出版的专题论集与政策简报。
 
 > [!citation-card] 学会章程宗旨声明
@@ -127,12 +127,12 @@ updated: 2026-11-19
 > *The purposes of the Society shall be: to foster cross-cultural understanding, scholarship, [[Academic Achievement]] and societal development through the international study of educational ideas, systems, and practices. The Society shall promote and assist in: the comparative study of education; the study of international education...*
 
 > [!citation-card] Rust, Johnstone, & Allaf 论学会建制化与理论[[Paradigm|范式]]从一元向多元演进
-> 1956 年比较教育学会及其会刊《比较教育评论》的成立，标志着专业学者共同体正式制度化。对该刊 50 年发表史的实证考察表明，学会见证了学科研究策略向经验量化的拓展，以及从战后单一功能主义主导向 26 种范式并存之理论[[Pluralism|多元主义]]的历史演进。多元主义不仅不是学科碎片化，反而是比较学术心智成熟与学者[[Academic Freedom|学术自由]]的制度明证。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 122–123, 131–132)]]
+> 1956 年比较教育学会及其会刊《比较教育评论》的成立，标志着专业学者共同体正式制度化。对该刊 50 年发表史的实证考察表明，学会见证了学科研究策略向经验量化的拓展，以及从战后单一功能主义主导向 26 种范式并存之理论[[Pluralism|多元主义]]的历史演进。这种多元主义体现了比较学术心智的成熟，是学者[[Academic Freedom|学术自由]]的制度明证。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 122–123, 131–132)]]
 
 ---
 
 > [!indicators] 影响力维度与指标
-> - **资源与网络规模** 拥有逾三千名注册专业会员，覆盖全球超百个主权国家；年均汇聚数千篇国际学术论文评审与宣读。
+> - **资源与网络规模** 拥有逾三千名注册专业会员，覆盖全球超百个主权国家；年均汇聚数千项国际学术成果评审与宣读。
 > - **学术与[[Knowledge Production|知识生产]]** 会刊 CER 的总被引量与[[Journal Impact Factor|影响因子]]长期稳居[[International Education|国际教育]]学科前列，构成了衡量比较教育学理论[[Paradigm|范式]]演进与方法论创新的世界风向标。
 > - **政策与制度渗透** 学会历任骨干学者深度参与[[World Bank|世界银行]]、[[UNESCO|联合国教科文组织]]、[[OECD|经合组织]]（[[OECD]]）与美国国际开发署的[[CORE Education|核心教育]]援助决策，直接塑造了全球教育[[Policy Borrowing|政策借用]]与技术治理的模型库。
 

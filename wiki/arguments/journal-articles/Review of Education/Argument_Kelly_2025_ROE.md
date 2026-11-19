@@ -111,7 +111,7 @@ issuing_organization: ""
 > 尽管[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）等国际组织与各国政府极力倡导一线教育者践行[[Evidence-Informed Practice\|证据知情实践]]（Evidence-Informed Practice, EIP），但在真实学校[[Champ\|场域]]中，将外部[[Research Translation\|研究转化]]为[[Academic Achievement\|学业成就]]提升的努力普遍陷入困境。本研究旨在回答：在英格兰、苏格兰与德国这三个政策传统与治理体制截然不同的欧洲教育体系中，国家治理机制与[[Knowledge Mediation\|知识中介]]生态如何塑造[[School Leadership\|学校领导]]者的证据接触经验？学校领导者在何种制度约束下接触、筛选、吸收或排斥研究证据？
 
 > [!claim] 核心主张
-> 学校领导者的[[Research Utilization\|研究使用]]经验并非单纯由个体信息获取能力或[[Research Literacy\|研究素养]]决定，而是受制于宏观政治语境与教育治理机制。英格兰的高度市场化与高利害问责催生了过剩的知识中介与[[Performativity|表演性]]依从，使研究[[Alienation|异化]]为向督导证明专业合法性的防御工具；而在具备地方缓冲与低利害传统的苏格兰和德国，根植于日常教学的[[Contributory Expertise\|贡献型专长]]为抵制抽象证据教条与开展合作探究保留了关键的专业空间。
+> 学校领导者的[[Research Utilization\|研究使用]]经验主要受制于宏观政治语境与教育治理机制，超越了个体信息获取能力或[[Research Literacy\|研究素养]]的单一范畴。英格兰的高度市场化与高利害问责催生了过剩的知识中介与[[Performativity|表演性]]依从，使研究[[Alienation|异化]]为向督导证明专业合法性的防御工具；而在具备地方缓冲与低利害传统的苏格兰和德国，根植于日常教学的[[Contributory Expertise\|贡献型专长]]为抵制抽象证据教条与开展合作探究保留了关键的专业空间。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 英格兰、苏格兰与德国汉堡三地的基础教育治理政策与中介[[Document|文献]]（49 份），以及 9 位对应学段中小学校长与高级管理者的深度[[Semi-structured Interview\|半结构化访谈]]。
@@ -200,7 +200,7 @@ issuing_organization: ""
 > - **医学化循证范式在教育场域的制度错位**
 >   强行将基于 [[Randomised Controlled Trials\|RCT]] 与[[Systematic Review\|系统综述]]的临床给药模式套用于充斥着偶发[[Variable\|变量]]与价值权衡的教育现场，导致标准证据严重水土不服。
 
-一线校长与教师面对外部研究并非出于无知，其实践本质上是在资源匮乏与多重制度期望之间斡旋的政治博弈。
+一线校长与教师面对外部研究时的实践反应，本质上是在资源匮乏与多重制度期望之间斡旋的政治博弈。
 
 > [!warrant]- 专长合法性冲突的理论推论
 > 专长社会学揭示了专长合法性来源的根本分裂：交互型专家的信誉建立在文献规范与方法论修辞的严密性之上，而贡献型专家的权威则完全取决于其在特定物理时空中解决具体复杂问题的实际成效。当政策制定者试图以交互专长的技术客观性凌驾并规训一线实践者的受训判断力时，必然引发基层的疏离、敷衍与防御性抗拒。
@@ -208,7 +208,7 @@ issuing_organization: ""
 ---
 
 > [!claim|step] 论证步骤二 国家教育治理架构决定知识中介形态并分化学校领导者的证据接触负荷
-> 宏观国家治理架构决定了中观中介体系的发展生态，进而直接规约了一线校长接触、理解和筛选研究证据的途径、广度与心理负荷。
+> 宏观国家治理架构决定了中观中介体系的发展生态，进而直接塑造并约束了一线校长接触、理解和筛选研究证据的途径、广度与心理负荷。
 
 > [!sub-claim] 1. 治理体制分化塑造市场竞争、行政缓冲与官僚监测三种中介图景
 
@@ -219,7 +219,7 @@ issuing_organization: ""
 > |---|---|---|---|
 > | **国家治理逻辑** | 高度市场化、学校准自主竞争、高利害产出问责制（[[Ofsted\|英国教育标准局（Office for Standards in Education, Children's Services and Skills, Ofsted）]]督导） | 集中宏观统筹与地方自治结合，强调弱问责与协商共治 | 稳定的联邦州官僚行政体制，低利害形成性监测（[[Institute for Educational Monitoring and Quality Improvement\|汉堡教育监测与质量发展院（Institut für Bildungsmonitoring und Qualitätsentwicklung, IfBQ）]]） |
 > | **中介机构生态** | 商业组织与慈善智库极度繁荣（如 [[Education Endowment Foundation\|EEF]]、Ark、Thrive、Challenge Partners） | 地方当局（Local Authority）扮演核心[[Gatekeepers\|守门人]]与采购中介，大学联系紧密 | 缺乏全国性主导中介，高度依托汉堡州立师训与学校发展院（Landesinstitut für Lehrerbildung und Schulentwicklung, LI） |
-> | **财政政策杠杆** | [[Pupil Premium\|学生津贴（Pupil Premium）]]明确绑定外部循证采购要求 | [[Pupil Equity Funding\|学童公平资助（Pupil Equity Funding, PEF）]]直拨学校，赋予社区自主权 | 州政府常规预算拨款，无强制性商业循证干预采购机制 |
+> | **财政政策工具** | [[Pupil Premium\|学生津贴（Pupil Premium）]]明确绑定外部循证采购要求 | [[Pupil Equity Funding\|学童公平资助（Pupil Equity Funding, PEF）]]直拨学校，赋予社区自主权 | 州政府常规预算拨款，无强制性商业循证干预采购机制 |
 > | **[[School Autonomy\|学校自主权]]性质** | [[Quasi-market\|准市场]]中的法人独立核算与品牌竞争，伴随接管与降级风险 | 扎根于社区服务维度的专业裁量权，接受地方当局行政支持 | 严格受制于法定大纲与人事编制的有限行政自主，职业风险极低 |
 
 > [!sub-claim] 2. 治理机制分流三地校长的证据接触体验与认知负荷
@@ -265,7 +265,7 @@ issuing_organization: ""
 围绕课堂教学助教（[[Teaching Assistant]], TA）成效这一典型争议议题，英格兰与苏格兰校长在官方循证结论与微观现场经验发生冲突时，展现出鲜明的应对策略分野。
 
 > [!line-a] 英格兰校长的表演性依从与经济合理化辩护
-> - **引用证据确立权威** Leader A 指出在教研会与校长联席会上，校长们频繁引用 EEF 词句为自身管理决策增添权威感，[[Reflexivity\|反思性]]实践被完全边缘化，蜕变为看数据、查现成方案和直接采购资源的机械流程。
+> - **引用证据确立权威** Leader A 指出在教研会与校长联席会上，校长们频繁引用 EEF 词句为自身管理决策增添权威感，[[Reflexivity\|反思性]]实践被完全边缘化，转变为看数据、查现成方案和直接采购资源的机械流程。
 > - **借用证据辩护财政紧缩** Leader B 指出尽管专业培训（如 Thrive）表明助教对特殊需求儿童具有不可替代的价值，但部分学校直接借用 EEF 将助教判定为高成本、低成效的结论，为削减助教编制的紧缩决策提供道德与学术借口。
 
 > [!line-b] 苏格兰校长的一线手艺坚守与批判性抵制
@@ -278,7 +278,7 @@ issuing_organization: ""
 > - **前提：高利害市场竞争与督导问责** 学校生源与财政拨款与标准化测验和督导评级直接绑定，校长处于极高职业不安全感中。
 > - **中介：交互专长资本化与工具包神圣化** 商业与慈善中介将医学化研究包装为标准工具包，官方督导将其确立为理性决策的考核范式。
 > - **机制：专业反思让位于防御性依从** 校长无暇深究研究方法缺陷，被迫购买号称基于研究的现成方案，用以抵御督导质疑并展示专业区隔。
-> - **结论：证据沦为维持合法性的表演性修辞** 研究使用脱离教学真实改进，蜕变为巩固专业地位与规避治理惩罚的话语屏障。
+> - **结论：证据沦为维持合法性的表演性修辞** 研究使用脱离教学真实改进，转变为巩固专业地位与规避治理惩罚的话语屏障。
 
 ---
 
@@ -306,14 +306,14 @@ issuing_organization: ""
 > *We had our fairly new Director of Education saying things like ‘I don't want to see that you're hiring classroom assistants in your PEF plans because … that makes absolutely no difference whatsoever’. Now at ground level, we're saying ‘that is nonsense, a good classroom assistant is worth their weight in gold’.*
 
 > [!citation-card] 政治语境与教育治理对[[Research Utilization\|研究使用]]经验的决定性塑造
-> 我们的比较分析表明，不同国家在研究使用进路上的差异取决于学校教育的政治语境。具体而言，国家体制是高度统合且相对协调，还是因市场化而四分五裂，至关重要，因为后者会导致更多利益群体在学校参与教育市场竞争的同时争夺校长与教师的注意力；学校属于稳定但欠缺灵活性的官僚体制，还是处于充满不确定性的市场环境，至关重要，因为后者促使人们为了寻求确定性而转向管理主义与科学理性；市场问责对学校领导者具有低利害还是高利害，至关重要，因为高利害迫使实践者战略性地专注于产出指标的最大化，甚至导致专业利益与部分学生的利益发生冲突；最后，对学校领导者和教师的公众审视程度至关重要，因为这会侵蚀公众对[[Professional Judgment\|专业判断]]的信任，并迫使校长使用所谓的客观研究来为决策辩护。
+> 我们的比较分析表明，不同国家在研究使用进路上的差异取决于学校教育的政治语境。具体而言，国家体制是高度集中统一且相对协调，还是因市场化而四分五裂，至关重要，因为后者会导致更多利益群体在学校参与教育市场竞争的同时争夺校长与教师的注意力；学校属于稳定但欠缺灵活性的官僚体制，还是处于充满不确定性的市场环境，至关重要，因为后者促使人们为了寻求确定性而转向管理主义与科学理性；市场问责对学校领导者具有低利害还是高利害，至关重要，因为高利害迫使实践者战略性地专注于产出指标的最大化，甚至导致专业利益与部分学生的利益发生冲突；最后，对学校领导者和教师的公众审视程度至关重要，因为这会侵蚀公众对[[Professional Judgment\|专业判断]]的信任，并迫使校长使用所谓的客观研究来为决策辩护。
 >
 > *More broadly, our comparative analysis suggests that variations in approaches to research use between countries depend on the political context of schooling. Specifically, it matters whether the state is unified and relatively coherent or disaggregated through marketisation... It matters whether schools are part of a stable but inflexible [[Bureaucracy]] or a more uncertain market... It matters whether market accountabilities have low or high stakes for school leaders and teachers... And finally, the extent to which there is public scrutiny of school leaders and teachers matters because this can erode public trust in professional judgement.*
 
 ---
 
 > [!warning] 自述局限
-> 原文作者明确指出的研究局限包括：（1）本研究为小规模、探索性质性比较研究，每国仅[[In-depth Interview\|深度访谈]] 3 位[[School Leadership\|学校领导]]者，其经验叙述仅代表特定视角的经验切片，不能简单推论代表全体校长群体的普遍态度；（2）德国样本全部来自汉堡单个联邦州，未考察德国其他联邦州在教育监测与中介支持上的潜在区域[[Heterogeneity\|异质性]]；（3）研究仅聚焦于校长与高级管理层的经验感知，未能直接检验其观点是否与校内中层领导及一线任课教师的真实体验相吻合。
+> 文献明确指出的研究局限包括：（1）该项调查为小规模、探索性质性比较研究，每国仅[[In-depth Interview\|深度访谈]] 3 位[[School Leadership\|学校领导]]者，其经验叙述仅代表特定视角的经验切片，不能简单推论代表全体校长群体的普遍态度；（2）德国样本全部来自汉堡单个联邦州，未考察德国其他联邦州在教育监测与中介支持上的潜在区域[[Heterogeneity\|异质性]]；（3）研究仅聚焦于校长与高级管理层的经验感知，未能直接检验其观点是否与校内中层领导及一线任课教师的真实体验相吻合。
 
 ---
 

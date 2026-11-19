@@ -116,7 +116,7 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **研究设计与情境**<br>Qualitative Research Design | 采用质性[[Case Study\|个案研究]]设计，在韩国京畿道一所初中开展课后科学探究拓展活动。探究包含两个主题：第 1 课（2 课时）利用 Canva 协同建构“植物为何生长良好”的图文解释；第 2 课（1 课时）利用 ChatGPT 协同建构“蘑菇为何不是植物”的概念分类解释。 |
+> | **研究设计与情境**<br>Qualitative Research Design | 采用质性[[Case Study\|个案研究]]设计，在韩国京畿道一所初中开展课后科学探究拓展活动。探究包含两个主题：第 1 课（2 课时）利用 Canva 协同建构“植物为何生长良好”的图文解释；第 2 课（1 课时）利用 ChatGPT 协同建构“蘑菇不属于植物”的概念分类解释。 |
 > | **质性材料收集**<br>Multi-source Qualitative Data | 同步录制 4 组配对学生与人工智能交互的全程屏幕操作与言语录像（[[Transcription in Qualitative Research\|转录]]为韩语文本并抽取典型片段英译）；收集学生迭代生成的数字化图文制品（Canva 画板与 ChatGPT [[Dialogue in Education\|对话]]记录）；实施半结构化回溯性学生访谈。 |
 > | **多模态话语分析策略**<br>[[Multimodal Discourse Analysis]] | 采用多层归纳质性[[Analytic Framework\|分析框架]]（Yin & Zeng, 2025），整合学生的言语交流、提示词输入、人工智能文本输出、图像生成及界面修改操作，进行逐回合微观话语与多模态互动解析。 |
 
@@ -131,7 +131,7 @@ issuing_organization: ""
 > | 课时主题与时长 | 人机协同建构目标 | 课堂协作规范与具体要求 |
 > |---|---|---|
 > | **第 1 课（2 课时）**<br>植物为何生长良好？<br>（Why do plants grow well?） | 运用 **Canva**，依据植物根、茎、叶等器官的结构与功能，协同建构植物茁壮生长的科学因果解释与图解。 | **同伴全程联合审议（joint peer deliberation）**<br>每个小组必须对每一个输入的提示词和每一条人工智能输出进行充分协商；唯有双方达成共识的想法才能进入下一轮提示词。 |
-> | **第 2 课（1 课时）**<br>蘑菇为何不是植物？<br>（Why is a fungus not a plant?） | 运用 **ChatGPT**，从营养方式、细胞壁成分、繁殖方式与分类地位，协同建构蘑菇不属于植物的科学分类解释。 | **对照四项认识论标准评估（evaluation against epistemic criteria）**<br>严格对照优质科学解释的四项标准（相关性、因果叙事、概念框架、适切表征水平）审查生成输出。<br><br>**迭代重构提示词与修正（iterative reprompting and revision）**<br>将人工智能输出视为暂定草案；当输出未达标准时，重新组织提示词，删改并重组内容。<br><br>**调取先验知识与预判受众理解（anticipation of peers and reflection）**<br>调取先前科学课知识，预判同伴可能提出的质疑，据此调整提示词用词与多模态表征呈现。 |
+> | **第 2 课（1 课时）**<br>蘑菇为何不属于植物？<br>（Why is a fungus not a plant?） | 运用 **ChatGPT**，从营养方式、细胞壁成分、繁殖方式与分类地位，协同建构蘑菇不属于植物的科学分类解释。 | **对照四项认识论标准评估（evaluation against epistemic criteria）**<br>严格对照优质科学解释的四项标准（相关性、因果叙事、概念框架、适切表征水平）审查生成输出。<br><br>**迭代重构提示词与修正（iterative reprompting and revision）**<br>将人工智能输出视为暂定草案；当输出未达标准时，重新组织提示词，删改并重组内容。<br><br>**调取先验知识与预判受众理解（anticipation of peers and reflection）**<br>调取先前科学课知识，预判同伴可能提出的质疑，据此调整提示词用词与多模态表征呈现。 |
 
 > [!example] 图2：四层多模态质性话语分析框架
 > ![](https://img.mylikemie.icu/sources/Han_Gutierez_2026_IJSE/figures/Han_Gutierez_2026_IJSE_Fig2_Analytical_Framework.jpg)
@@ -173,15 +173,15 @@ issuing_organization: ""
 > | 行 14 | **A & B** "It gives lots of ideas, but does it explain why plants grow?" | 依据**相关性**与**因果叙事**标准，审问事实罗列背后的因果解释力 |
 > | 行 17a | **学生 B** "The answer talks about each part separately. I think we should ask how they work together." | 依据**概念框架**标准，指出各器官功能割裂、缺乏系统协同 |
 > | 行 18 | **学生 B** "What if we ask it to explain how the interaction between the roots, stems, and leaves helps plants thrive?" | 迭代重构提示词，明确要求生成器官间因果交互机制 |
-> | 行 30 | **学生 B** "Now our explanation tells what happens and why it happens. That makes it clearer." | 评估新生成内容，确认已形成清晰的因果解释闭环 |
+> | 行 30 | **学生 B** "Now our explanation tells what happens and why it happens. That makes it clearer." | 评估新生成内容，确认已形成清晰完整的因果解释链条 |
 
 > [!example] 图解：对话 1 多模态[[Transcription in Qualitative Research\|转录]]片段
 > ![](https://img.mylikemie.icu/sources/Han_Gutierez_2026_IJSE/figures/Han_Gutierez_2026_IJSE_Dialogue1_Part1.jpg)
 > ![](https://img.mylikemie.icu/sources/Han_Gutierez_2026_IJSE/figures/Han_Gutierez_2026_IJSE_Dialogue1_Part2.jpg)
 
 > [!line-a] 案例二：学生 C 与 D 补充真菌界上位分类概念（对话 2）
-> - **初始提示词设计** 学生 C 和 D 在 ChatGPT 中输入结构化提示词：“告诉我蘑菇与植物的主要区别。给出 3–4 条蘑菇不是植物的科学原因。”（行 4）。ChatGPT 生成了四项区别：不进行光合作用（吸收有机养分）、细胞壁含几丁质而非纤维素、以孢子繁殖、储能物质为糖原（行 5）。
-> - **发现分类学上位概念缺失** 虽然 ChatGPT 给出的生理特征很准确，但学生 C 依据“概念框架”标准指出：“是不是漏掉了最重要的东西？它没有说明蘑菇属于一个完全不同的界——真菌界（fungi kingdom）。我认为这也是关键原因。”（行 10）。
+> - **初始提示词设计** 学生 C 和 D 在 ChatGPT 中输入结构化提示词：“告诉我蘑菇与植物的主要区别。给出 3–4 条蘑菇不属于植物的科学原因。”（行 4）。ChatGPT 生成了四项区别：不进行光合作用（吸收有机养分）、细胞壁含几丁质而非纤维素、以孢子繁殖、储能物质为糖原（行 5）。
+> - **发现分类学上位概念缺失** 虽然 ChatGPT 给出的生理特征很准确，但学生 C 依据“概念框架”标准指出：“是否漏掉了最重要的东西？它没有说明蘑菇属于一个完全不同的界——真菌界（fungi kingdom）。我认为这也是关键原因。”（行 10）。
 > - **完善生物分类网络** 两位学生随后查阅课本，确认教科书也是从真菌界这一上位分类切入的（行 13, 22），并在最终制品中补齐了这一分类层级，使解释具备了完整的系统性。
 
 > [!table] 对话 2 核心交互片段（Sample Dialogue 2, p. 15）
@@ -233,7 +233,7 @@ issuing_organization: ""
 这些课堂交互过程表明，显性学科标准发挥了认知滤镜的作用，帮助学生穿透生成文本与图像的表象，精准找出机制断裂处，并主动指导算法进行修改与完善。
 
 > [!warrant]- 推理桥梁
-> 上述四个案例表明，当学生掌握了因果链条、概念结构与微观表征等明确标准时，他们就不会停留在对生成内容的简单接受上，而是能够针对内容实质展开深度的审查与迭代改进。
+> 上述四个案例表明，当学生掌握了因果链条、概念结构与微观表征等明确标准时，能够超越对生成内容的简单接受，针对内容实质展开深度的审查与迭代改进。
 
 ---
 
@@ -261,9 +261,9 @@ issuing_organization: ""
 > [!tension] 表面流畅的诱惑 vs 真实理解的自我监控
 > - **表面顺畅的诱惑（容易导致盲目接受）** 算法生成的语言优美、句式工整，初学者容易产生一种“听懂了”的错觉，从而放弃深入思考。
 > - **真实理解的监控（对自身认知状态的审省）** 学生 B 坦率承认，虽然生成解释“听起来很专业”，但由于夹杂了许多没学过的生僻词汇，自己其实并没有真正理解；学生 A 随后修改提示词，要求模型“用初中生能懂的日常语言重新解释各个器官是如何配合的”，直到两人能用自己的话把因果机制讲通。
-> - **人工智能免责声明的积极作用（促发警觉的契机）** 访谈中学生提到，ChatGPT 页面底部的提示语“ChatGPT can make mistakes. Check important info”并不是一句空话，而是一个关键的提醒信号，促使他们随时保持警惕并主动去查书核对。
+> - **人工智能免责声明的积极作用（促发警觉的契机）** 访谈中学生提到，ChatGPT 页面底部的提示语“ChatGPT can make mistakes. Check important info”充当了关键的提醒信号，促使他们随时保持警惕并主动查书核对。
 
-学生对自身认知状态的监控，确保了他们采纳的每一条知识都建立在真正理解的基础之上，而不是对复杂术语的被动照搬。
+学生对自身认知状态的监控，确保他们采纳的每一条知识都建立在真正理解的基础之上，避免了对复杂术语的被动照搬。
 
 > [!warrant]- 推理桥梁
 > 信源评估与自身理解监控的结合，说明反思性提问语能够有效引导学生跳出盲从，促使他们在核验外部证据的同时审视自身思维，从而建立起稳固的[[Critical Thinking\|批判性思维]]习惯。
@@ -271,7 +271,7 @@ issuing_organization: ""
 ---
 
 > [!claim|step] 论证步骤三　双轨显性支架与课堂协作规范协同保障了学生在人机交互中的认知主体地位
-> 学科评价标准与反思性提问语并非各自分立，而是形成了优势互补的双轨支架体系；在同伴充分协商与多轮修改的课堂规范支持下，二者共同促使学生牢牢掌握对科学解释的最终裁决权，将生成式人工智能转化为提供灵感与激发思考的对话伙伴，有效防止了思维的被动外包。
+> 学科评价标准与反思性提问语形成了优势互补的双轨支架体系；在同伴充分协商与多轮修改的课堂规范支持下，二者共同促使学生牢牢掌握对科学解释的最终裁决权，将生成式人工智能转化为提供灵感与激发思考的对话伙伴，有效防止了思维的被动外包。
 
 课堂互动的全过程及最终生成的图文制品表明，这一教学设计成功化解了人工智能技术进课堂可能带来的认知惰性风险。
 
@@ -308,7 +308,7 @@ issuing_organization: ""
 
 ---
 
-> [!warning] 原文自述局限
+> [!warning] 自述局限
 > 1. **样本规模与抽样范围限制** 8 名初中生（4 个小组）均来自京畿道同一所学校，且此前系统学习过[[Scientific Explanation\|科学解释]]评价标准，良好的协作默契可能强化了对评价规范的遵从，结论向更广泛初中生群体的推广性仍需进一步检验。
 > 2. **活动情境的非正式性** 探究在非计分的课后拓展活动中展开，学生未承受常规考试与分数评定压力，在正式、限时且存在学业评价竞争的科学课堂中，学生的警觉程度可能发生变化。
 > 3. **学科主题与软件工具的特异性** 案例仅涉及植物生理与真菌分类两个具体的生物学主题，且依托 Canva 与 ChatGPT 两款工具展开，向其他学科领域（如物理、化学）及不同交互界面的迁移效能仍需深入考察。
