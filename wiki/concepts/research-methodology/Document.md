@@ -7,7 +7,7 @@ aliases:
 summary: "对事件或过程的持久性人为记录，文献研究与历史教育分析的基本单位。兼具非反应性与立场建构性双重特征，划分为一手与二手形态并受数字化重塑。"
 type: concept
 domain: "research-methodology"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -23,15 +23,14 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Reflexivity]]"
   - "[[Hawthorne Effect]]"
-  - "[[Literature Search]]"
+  - "[[Construct]]"
   - "[[Virtual Documents]]"
-  - "[[Presence]]"
-  - "[[Official Knowledge]]"
   - "[[Discourse]]"
+  - "[[Official Knowledge]]"
   - "[[Positivism]]"
   - "[[Linguistic Turn]]"
   - "[[Tacit Knowledge]]"
-  - "[[Paradigm]]"
+  - "[[Problematisation]]"
   - "[[Bilingual Education Policy]]"
 related_theories:
   - "[[Bacchi's WPR Approach]]"
@@ -40,21 +39,23 @@ related_methods:
   - "[[Documentary Analysis]]"
   - "[[Questionnaire]]"
   - "[[Transcription in Qualitative Research]]"
+  - "[[Secondary Analysis]]"
   - "[[Ethnography]]"
   - "[[Coding in Qualitative Research]]"
 related_instruments: []
 related_persons:
   - "[[Louis Cohen]]"
-  - "[[James C. Scott]]"
+  - "[[Lawrence Manion]]"
+  - "[[Keith Morrison]]"
   - "[[Eric Hobsbawm]]"
   - "[[Carol Bacchi]]"
 related_facts:
   - "[[CORE Education]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Kuortti_2025_JEdPolicy]]"
   - "[[Argument_Chua_2011_CILP]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 confidence: high
 status: active
 created: 2026-06-24
@@ -95,11 +96,11 @@ updated: 2026-11-19
 
 > [!feature] 核心要素
 > - **持久性人为记录（Durable Inscriptions）** 由个人或社会组织在具体历史情境中生产，涵盖文字文本、视觉图像、声音音频及物质媒介形态，构成历史与政策分析的基础单位。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(Cohen et al., 2011, Ch. 12, pp. 249–250)]]
-> - **非反应性（Non-reactivity）** 独立于具体研究议程自然生成，在资料收集阶段免受研究者介入或提问情境带来的霍桑效应干扰。
+> - **非反应性（Non-reactivity）** 独立于具体研究议程自然生成，在资料收集阶段免受研究者介入或提问情境带来的[[Hawthorne Effect|霍桑效应]]干扰。
 > - **立场建构性（Positionality）** 承载生产者的立场、受众预设与制度利益，呈现特定权力关系下的选择性叙事与意识形态预设。
-> - **一手与二手形态的情境转换（Contextual Duality）** 一手见证史料与二手后摄分析文献的界限并非僵化绝对，而是随着研究问题与提问视角的转换动态流动。
+> - **一手与二手形态的情境转换（Contextual Duality）** 一手见证史料与二手后摄分析文献的界限具有情境相对性，随着研究问题与提问视角的转换动态流动。
 
-> [!logic-map]- 文献构念核心特征与分析应用逻辑
+> [!logic-map]- 文献[[Construct|构念]]核心特征与分析应用逻辑
 > ```mermaid
 > flowchart TD
 >     subgraph Producers ["文献生产主体"]
@@ -126,10 +127,10 @@ updated: 2026-11-19
 > [!concept-proposition] 命题一｜文献记录兼具非反应性与立场建构性双重特征
 > **非反应性优势与立场考证规程** 说明文献独立于当前研究控制而事先存在，免受研究者提问的反应性干扰，但蕴含生产者的微观政治与立场预设。
 
-> [!claim] [[Louis Cohen|Cohen, L.]], Manion, L., & Morrison, K.
+> [!claim] [[Louis Cohen|Cohen, L.]], [[Lawrence Manion|Manion, L.]], & [[Keith Morrison|Morrison, K.]]
 > **非反应性与立场建构性的二重辩证** 文献通常因研究控制之外的行政、通信或宣传目的而事先生产，因而在数据收集阶段免受研究者提问带来的反应性干扰，排除了[[Hawthorne Effect|霍桑效应]]；但无论官方报告还是个人日志均嵌入在特定的权力关系与受众考量之中，撰写者通过选择性叙事、措辞修饰乃至刻意沉默来达成特定目标，必须结合外在考证（authenticity）与内在考证（credibility）进行批判性审验。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(Cohen et al., 2011, Ch. 12, pp. 249–250)]]
 
-> [!claim] [[James C. Scott|Scott, J. C.]]
+> [!claim] Scott, J. C.
 > **官方档案的意识形态预设与私人文献的微观抗衡** 官方档案承载着国家机器与治理制度的合法化预设，反映统治阶层的治理意志；私人书信、日记与生活史记录则构成了抗衡官方叙事的重要证词，为研究边缘群体被压抑的声音提供了非官方文献通道。
 
 ---
@@ -138,21 +139,21 @@ updated: 2026-11-19
 > **情境相对性与史料功能转换** 探讨文献分类依据研究视角与历史距离在直接见证与后摄分析之间的动态转换规律。
 
 > [!claim] [[Louis Cohen|Cohen, L.]], Manion, L., & Morrison, K.
-> **分类的情境依赖与角色转换机制** [[Primary and Secondary Documents|一手文献]]（直接见证）与二手文献（后摄分析）展现出显著的情境相对性。当代学术专著在常规研究中被视作二手分析文献；但当[[Research Question|研究问题]]转向分析特定时代学术共同体的思想演进或意识形态变迁时，该专著即转换为反映特定时代精神的一手原初史料，文献属性由分析提问所锚定。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(Cohen et al., 2011, Ch. 12, pp. 250–251)]]
+> **分类的情境依赖与角色转换机制** [[Primary and Secondary Documents|一手文献]]（直接见证）与二手文献（后摄分析）展现出显著的情境相对性。当代学术专著在常规研究中被视作[[Secondary Analysis|二手分析]]文献；但当[[Research Question|研究问题]]转向分析特定时代学术共同体的思想演进或意识形态变迁时，该专著即转换为反映特定时代精神的一手原初史料，文献属性由分析提问所锚定。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(Cohen et al., 2011, Ch. 12, pp. 250–251)]]
 
 > [!claim] [[Eric Hobsbawm|Hobsbawm, E.]]
 > **历史目击与自传文本的双重属性** 个人回忆录与自传既是一手历史目击记录，又包含当事人晚年的理论化反思与经验重构，呈现一手见证与二手阐释交融的特征。
 
 ---
 
-> [!concept-proposition] 命题三｜数字化与虚拟文献突破时空壁垒但伴生物质性消解与呈现偏误风险
+> [!concept-proposition] 命题三｜数字化与[[Virtual Documents|虚拟文献]]突破时空壁垒但伴生物质性消解与呈现偏误风险
 > **虚拟化转型与考证挑战** 探讨在线档案检索普及对文献研究带来的效率红利以及由此引发的真伪考据与语境脱落风险。
 
 > [!claim] Kuortti, K. & Chua, C.
-> **官方政策文献解构国家治理隐性逻辑的实证效能** 结合[[Carol Bacchi|卡罗尔·巴奇]]（Carol Bacchi）的 [[Bacchi's WPR Approach|WPR]] 框架与鲍尔道夫政策分析模型，对芬兰与新加坡官方教育大纲及政策文件的编码分析证实，系统性的官方[[Documentary Analysis|文献分析]]能够有效揭示国家治理中危机叙事的制度化生产与政策话语演进轨迹。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025)]]; [[Argument_Chua_2011_CILP|(Chua, 2011)]]
+> **官方政策文献解构国家治理隐性逻辑的实证效能** 结合[[Carol Bacchi|卡罗尔·巴奇]]（Carol Bacchi）的 [[Bacchi's WPR Approach|WPR]] 框架与鲍尔道夫政策分析模型，对芬兰与新加坡官方教育大纲及政策文件的编码分析证实，系统性的官方[[Documentary Analysis|文献分析]]能够有效揭示国家治理中危机叙事的制度化生产与政策[[Discourse|话语]]演进轨迹。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025)]]; [[Argument_Chua_2011_CILP|(Chua, 2011)]]
 
 > [!claim] Schama, S.
-> **屏幕呈现对实物档案物质感的消解** 屏幕扫描件脱离了原始纸张装订、墨迹层次与边缘批注等微观物质信息（[[Presence|物质感]]），且容易受托管平台算法筛选与机构选择性呈现的偏误干扰，引发脱离历史情境的过度解读风险。
+> **屏幕呈现对实物档案物质感的消解** 屏幕扫描件脱离了原始纸张装订、墨迹层次与边缘批注等微观物质信息（物质感），且容易受托管平台算法筛选与机构选择性呈现的偏误干扰，引发脱离历史情境的过度解读风险。
 
 ---
 
@@ -201,12 +202,12 @@ updated: 2026-11-19
 > | [[Primary and Secondary Documents]] | 概念 | 一手与二手文献构成了文献分类与史料性质判断的基础维度。 |
 > | [[Virtual Documents]] | 概念 | 虚拟文献是数字化转型下突破物理载体限制的新型文献形态。 |
 > | [[Artefact]] | 概念 | 物质人工制品与文献相互补充，共同承载历史社会的制度与文化记忆。 |
-> | [[Bacchi's WPR Approach]] | 理论 | WPR 分析法将政策文献视为问题表征的建构产物，用于解构官方话语。 |
+> | [[Bacchi's WPR Approach]] | 理论 | WPR 分析法将政策文献视为[[Problematisation\|问题表征]]的建构产物，用于解构官方话语。 |
 > | [[Hawthorne Effect]] | 概念 | 文献的自然生成排除了调查介入引发的霍桑效应，保障了非反应性。 |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|Cohen et al. (2011)]] — 提出文献四轴分类体系，系统阐明一手与二手文献划分标准以及虚拟文献的方法论特征。
-> - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 汇编 16 份芬兰[[CORE Education|核心教育]]政策文献开展计算机辅助质性编码与 WPR 后结构分析，解构官方文献中危机叙事与商业需求的制度生产。
+> - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 汇编 16 份芬兰[[CORE Education|核心教育]]政策文献开展计算机辅助[[Coding in Qualitative Research|质性编码]]与 WPR 后结构分析，解构官方文献中危机叙事与商业需求的制度生产。
 > - [[Argument_Chua_2011_CILP|Chua (2011)]] — 运用卡普兰与鲍尔道夫框架对新加坡建国以来多份官方教育大纲与考试统计文献开展综合分析，揭示[[Bilingual Education Policy|双语政策]]的制度化实施轨迹。

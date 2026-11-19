@@ -112,8 +112,7 @@
               "title": "Argument_Phyo_2025_SocSci"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -329,8 +328,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "8cf060930e9cdf12",
+  "active": "3ac2639cc8584945",
   "lastOpenFiles": [
+    "output/related-updates/Argument_Xie_2017_PKUER-2b70011c/batch-003/result.json",
+    "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md",
+    "wiki/methods/quantitative/Chi-Squared Test.md",
+    "raw/06-The changing frontiers of comparative education： A forty-year retrospective on European Education..pdf",
+    "raw/05-Comparatively Knowing： Making a Case for the Vertical Case Study..pdf",
     "output/related-updates/Argument_Xie_2017_PKUER-2b70011c/batch-002/result.json",
     "output/related-updates/Argument_Xie_2017_PKUER-2b70011c/batch-001/result.json",
     "output/related-updates/Argument_Xie_2017_PKUER-2b70011c/batch-009/prompt.md",
@@ -346,11 +350,8 @@
     "output/related-updates/Argument_Xie_2017_PKUER-2b70011c/batch-004/prompt.md",
     "output/related-updates/Argument_Xie_2017_PKUER-2b70011c/batch-004/batch-result.schema.json",
     "output/related-updates/Argument_Xie_2017_PKUER-2b70011c/batch-002/prompt.md",
-    "output/related-updates/Argument_Xie_2017_PKUER-2b70011c/batch-002/batch-result.schema.json",
     "output/related-updates/Argument_Xie_2017_PKUER-2b70011c/batch-003/prompt.md",
     "output/related-updates/Argument_Xie_2017_PKUER-2b70011c/batch-001/prompt.md",
-    "output/related-updates/Argument_Xie_2017_PKUER-2b70011c/batch-001/batch-result.schema.json",
-    "output/related-updates/Argument_Xie_2017_PKUER-2b70011c/batch-003/batch-result.schema.json",
     "wiki/concepts/university-industry-collaboration/Entrepreneurial Ecosystem.md",
     "wiki/concepts/economics/Social Economy.md",
     "wiki/facts/portugal/Regional Innovation Offices.md",
@@ -366,8 +367,6 @@
     "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch05.md",
     "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md",
     "sources/McCormick_2012_CER.md",
-    "wiki/arguments/journal-articles/Comparative Education Review/Argument_McCormick_2012_CER.md",
-    "wiki/theories/comparative-education/Critical Development Theory.md",
     "sources/Natario_2025_IndHE/figures/Natario_2025_IndHE_Fig1_Portuguese_Polytechnic_Network.jpg",
     "sources/Indrarajah_2026_NJCIE/figures/Indrarajah_2026_NJCIE_Fig1_Epistemic_Decolonization_Framework.jpg",
     "raw/fig1_extracted.png",
