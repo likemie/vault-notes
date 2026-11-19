@@ -308,7 +308,7 @@ updated: 2026-11-16
 > **概括性科学与基于预测而非因果渊源的科学比较观** 历史比较教育无法替代真正的“科学比较教育”；作为社会科学的比较教育学必须是一门“概括性科学”（generalising science），其本质特征在于具备对未来行动后果的“预测”（prediction）能力，而非仅仅回溯既往原因的“解释”（explanation）。教育改革者首要关切的是政策干预的未来实际后果，而非历史渊源或现状不满的远因；真正的学术理解来自于成功的经验预测，历史分析唯有作为提供指导性或预测性权力的实用工具时才具有辅助价值。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 54; Holmes, 1965, pp. 19–21, 30)]]
 
 > [!claim] Epstein, E. H.
-> **[[Michael Sadler\|萨德勒]]式[[Intangible Spiritual Forces\|无形精神力量]]对神秘主义的滑向与非经验力贬斥** [[Michael Sadler\|萨德勒]]与坎德尔将学校外部无形、不可捉摸的精神力量置于分析核心的做法“濒临神秘主义”（borders on mysticism），其极端形态会导致关于教育本质的无端虚妄推论。将比较教育奠基于非经验力量之上的人文主义预设，实质上是在引导学者仅仅描述学校外部表象结构，而将核心解释机制诉诸松散的主观臆想乃至灵性启示，严重背离了现代[[Scientific Method\|经验科学]]的实证规范。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 54; Epstein, 1970, p. 45)]]
+> **[[Michael Sadler\|萨德勒]]式[[Intangible Spiritual Forces\|无形精神力量]]对神秘主义的滑向与非经验力贬斥** [[Michael Sadler\|萨德勒]]与坎德尔将学校外部无形、不可捉摸的精神力量置于分析核心的做法“濒临神秘主义”（borders on mysticism），其极端形态会导致关于教育本质的无端虚妄推论。将比较教育建立在非经验力量之上的人文主义预设，实质上是在引导学者仅仅描述学校外部表象结构，而将核心解释机制诉诸松散的主观臆想乃至灵性启示，严重背离了现代[[Scientific Method\|经验科学]]的实证规范。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 54; Epstein, 1970, p. 45)]]
 
 > [!claim] [[C. Arnold Anderson\|Anderson, C. A.]] & [[Philip Foster\|Foster, P. J.]]
 > **历史主义个殊性排斥比较与重复模式探寻** 历史学派陷入了波普尔所批评的历史主义（historicism）陷阱，或者固守于处理具有特定时空坐标且不可重复的个殊事件。既然个殊事物不可比较，以寻求跨国抽象、法则概括与重复规律为天职的比较教育学者，其任务就不能等同于历史学家，而必须彻底转向探寻社会关系规律性与重复模式的经验社会科学家。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 54, 56; Foster, 1960; Anderson, 1961)]]
@@ -367,7 +367,7 @@ updated: 2026-11-16
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **经典实证统一法则** | 自然与社会探究方法论统一与产出同构，追求跨情境客观普遍规律 | 实证哲学发轫、社会物理学与量化测量规范确立 | Comte; Giddens; Oldroyd |
-> | **启蒙准实证伦理导向** | 经验事实分类归属于欧陆二级精神科学，全面服务于全人教化与社会改良 | 19 世纪初现代主义比较教育奠基期 | Jullien; Kaloyannaki & Kazamias; Palmer |
+> | **启蒙准实证伦理导向** | 经验事实分类归属于欧陆二级精神科学，全面服务于全人教化与社会改良 | 19 世纪初现代主义比较教育发轫期 | Jullien; Kaloyannaki & Kazamias; Palmer |
 > | **学科科学化范式围剿** | 以前科学和主观神秘为由贬斥历史学派，确立可[[Operationalization\|操作化]]假设检验与未来预测力标尺 | 20 世纪 60 年代比较教育学科范式转型与实证主义鼎盛期 | Noah & Eckstein; Holmes; Epstein; Anderson & Foster; Mattheou; Kazamias |
 > | **技术异化与主体遮蔽** | 揭示去情境客观性与价值中立导致科学主义异化、工具理性极权并抽空教育交往本体 | 批判理论、存在主义哲学与当代[[Critique of Evidence-Based Education\|循证教育批判]] | Habermas; Horkheimer; Kierkegaard; Skourdoumbis & Rowe; Nielsen & Klitmøller; [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] |
 > | **政治规划合法化借口** | 实证量化垄断根源于充当国家五年计划与技术官僚的政治借口（alibi），并在危机后向多元范式演进 | 战后教育扩张、跨国政策规划与全球治理制度化分析 | Mattheou; Husén; Cowen; Carnoy; Kazamias |
@@ -396,10 +396,6 @@ updated: 2026-11-16
 > - **2026 年 — 跨国[[Output-Oriented Governance|循证治理]]中绝对客观性神话与实证主义采购清单解构** [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] 解构全球教育证据顾问小组（[[Global Education Evidence Advisory Panel|GEEAP]]）与跨国组织将证据视为中立客观输入的实证假定，揭示“[[Smart Buys|智能购买]]”成本效益排序背后的去情境化技术治理与认识论压制（pp. 341, 346–348）。
 
 ---
-
-## 争议与批评
-
-围绕实证主义的合法性限度与意识形态属性，学术界展开了持续至今的深刻论辩。
 
 > [!debates] 学术争议
 > 
@@ -450,7 +446,7 @@ updated: 2026-11-16
 > - **抹杀价值反思的技术自满** 将教育问题完全置换为“什么有效”（What Works）的工程学计算，直接剥夺了公众关于教育根本目的与社会公平正义的民主[[Deliberative Space|审议空间]]。
 > - **历史维度的系统性流失与[[Historical Amnesia|历史健忘症]]** 唯方法论实证主义对短期跨国变量的迷恋，导致历史比较研究在主流期刊急剧边缘化（发文占比跌破 5%），使学科丧失了反思制度历史根由的文化记忆与深层审辨力（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a, pp. 155–156]]）。
 
-> [!warning] 适用局限与[[Epistemology\|认识论]]盲区
+> [!warning|limits] 适用局限
 > 实证主义无法跨越逻辑上的休谟鸿沟——绝不能从“实然数据”直接推导“应然价值”；对于教育公平、人性尊严与道德选择等涉及终极关怀的命题，实证主义方法在原则上不具备判定权力。
 
 ---
@@ -467,12 +463,26 @@ updated: 2026-11-16
 
 ---
 
-> [!evidence-grid] 相关研究索引
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Epistemology]] | 概念 | 实证主义所属的研究哲学认识论范畴，确立有效知识的感官经验判准。 |
+> | [[Postpositivism]] | 概念 | 承认理论负载与可错论、对经典实证主义进行批判理性主义修正的范式。 |
+> | [[Interpretive Paradigm]] | 概念 | 强调主体间性与意义理解、与实证主义形成两极对照的质性范式。 |
+> | [[Scientism]] | 概念 | 实证主义发生意识形态异化后将科学方法垄断为真理唯一化身的极端形态。 |
+> | [[Critical Theory]] | 理论 | 法兰克福学派用于解构实证主义工具理性极权与虚假价值中立的批判框架。 |
+> | [[Randomised Controlled Trials]] | 方法 | 实证主义范式在当代教育因果推断中的黄金标准与代表性实验设计。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 113)]] — 系统复原孔德实证主义的起源、四[[Big Science|大科学]]假设、Giddens 识别的方法论统一与产出同构双重预设，展现当代教育研究向后实证与批判[[Paradigm|范式]]演进的完整版图。
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 剖析比较教育学奠基人朱利安构建的准实证科学体系，澄清其事实分析图表与跨国[[Questionnaire\|问卷]]归属于欧陆二级[[Geisteswissenschaften|精神科学]]，揭示其经验收集始终从属于全人教化与社会改良，强力反驳 20 世纪[[Behaviorism|行为主义]]实证派以[[Value Neutrality\|价值中立]]为由指责其带有主观偏见的辉格史错置。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 剖析比较教育学早期开拓者朱利安构建的准实证科学体系，澄清其事实分析图表与跨国[[Questionnaire\|问卷]]归属于欧陆二级[[Geisteswissenschaften|精神科学]]，揭示其经验收集始终从属于全人教化与社会改良，强力反驳 20 世纪[[Behaviorism|行为主义]]实证派以[[Value Neutrality\|价值中立]]为由指责其带有主观偏见的辉格史错置。
 > - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] — 梳理 1960 年代 Noah、Eckstein、Holmes 等实证学者对历史学派的围剿，揭示其如何把历史传统贬为“前科学”，并反思对 *Science* 狭义的[[Epistemology\|认识论]]垄断。
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 剖析 1960 年代比较教育[[Scientific Paradigm\|科学范式]]内部对“法则”的分歧，指出实证主义胜出源于充当国家计划与技术援助的[[Social Science as Legitimation Alibi\|合法化借口]]。
 > - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 剖析比较教育两百年的四代论述，批判 1960 年代的科学一元论与方法论主义，借 Carnoy（1983）揭示实证主义的意识形态借口性质，并诊断[[Historical Amnesia|历史健忘症]]。
+> - [[Argument_Silova_2009_EE|Silova (2009)]] — 考证 20 世纪 60 年代比较教育学科历史主义与跨国实证主义的极化对峙，揭示施普林格与贝雷迪的主题化多案例比较如何构建兼具历史文脉与跨国分析的实证替代路径（pp. 22–24）。
 > - [[Argument_Sandoval_2005_SE\|Sandoval (2005)]] — 揭示中小学科学教育深受教条实证主义影响，呼吁突破[[Formal Epistemology|形式认识论]]转向[[Practical Epistemology|实践认识论]]。
 > - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] — 剖析当代[[Evidence-Based Education|循证教育]]狂热标榜的实证主义科学[[Discourse|话语]]，揭示将教学质量简化为[[Meta-analysis|元分析]][[Effect Size|效应量]]对微观教学[[Ontology|本体论]]的抽空。
 > - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 运用舍恩与[[Jürgen Habermas|哈贝马斯]]的[[Critical Theory|批判理论]]，解构[[John Hattie|约翰·哈蒂]]《[[Visible Learning|可见的学习]]》背后的实证主义与“无意识理论”预设，揭示其实证手段-目的控制回路如何将教学异化为流水线，并充当现代国家规避教育[[Legitimation Crisis|合法化危机]]的技术工具（pp. 79–83, 86–89）。
