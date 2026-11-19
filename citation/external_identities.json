@@ -10375,6 +10375,7 @@
         "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md",
         "wiki/concepts/comparative-education/Academic Iconography.md",
         "wiki/concepts/comparative-education/Scientific Paradigm.md",
+        "wiki/concepts/comparative-education/The Nation-State as the Unit of Comparison.md",
         "wiki/concepts/comparative-education/Whiggism.md",
         "wiki/methods/qualitative/Bereday's Comparative Method.md",
         "wiki/persons/us/George Bereday.md"
@@ -40534,7 +40535,6 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/educational-philosophy/Positivism.md",
         "wiki/persons/france/Victor Cousin.md"
       ],
       "title": ""
@@ -105338,7 +105338,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md",
+        "wiki/concepts/comparative-education/The Nation-State as the Unit of Comparison.md"
       ],
       "title": "Recent Curriculum Developments in France, West Germany and Italy"
     },
@@ -113938,14 +113939,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Computers and Education Artificial Intelligence/Argument_Li_2026_CEAI.md"
-      ],
-      "title": ""
-    },
-    "Ursula Springer, 1969": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/educational-philosophy/Positivism.md"
       ],
       "title": ""
     },

@@ -25995,8 +25995,6 @@
     "Urbina, 2017": "Urbina, 2017",
     "Urhan et al. (2024)": "Urhan et al., 2024",
     "Urhan et al., 2024": "Urhan et al., 2024",
-    "Ursula Springer (1969)": "Ursula Springer, 1969",
-    "Ursula Springer, 1969": "Ursula Springer, 1969",
     "Useem (1984)": "Useem, 1984",
     "Useem, 1984": "Useem, 1984",
     "Usher & Savino (2007)": "Usher & Savino, 2007",
@@ -46563,6 +46561,7 @@
         "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md",
         "wiki/concepts/comparative-education/Academic Iconography.md",
         "wiki/concepts/comparative-education/Scientific Paradigm.md",
+        "wiki/concepts/comparative-education/The Nation-State as the Unit of Comparison.md",
         "wiki/concepts/comparative-education/Whiggism.md",
         "wiki/methods/qualitative/Bereday's Comparative Method.md",
         "wiki/persons/us/George Bereday.md"
@@ -96898,7 +96897,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/educational-philosophy/Positivism.md",
         "wiki/persons/france/Victor Cousin.md"
       ],
       "title": ""
@@ -204662,7 +204660,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md",
+        "wiki/concepts/comparative-education/The Nation-State as the Unit of Comparison.md"
       ],
       "title": "Recent Curriculum Developments in France, West Germany and Italy"
     },
@@ -218914,21 +218913,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Computers and Education Artificial Intelligence/Argument_Li_2026_CEAI.md"
-      ],
-      "title": ""
-    },
-    "Ursula Springer, 1969": {
-      "aliases": [
-        "Ursula Springer, 1969",
-        "Ursula Springer (1969)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Ursula Springer, 1969"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/educational-philosophy/Positivism.md"
       ],
       "title": ""
     },
