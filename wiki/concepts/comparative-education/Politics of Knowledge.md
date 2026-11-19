@@ -9,7 +9,7 @@ aliases:
 summary: "在比较教育与全球治理研究中，特指行动者将科研、教育与培训重构为服务于宏观政治经济竞争的战略资产，或多边机构将自身政策偏好包装为普遍基准以建立跨国规训与监控矩阵的权力运作范式；涵盖欧盟内部以知识经济与软法指标为核心的区域治理，以及全球南方发展援助中北方多边机构主导的议程设置与指标化监控。"
 type: concept
 domain: "comparative-education"
-related_count: 33
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -48,6 +48,7 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Kenneth King]]"
+  - "[[Iveta Silova]]"
 related_facts:
   - "[[EU]]"
   - "[[Lisbon Strategy]]"
@@ -62,10 +63,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
   - "[[Argument_King_2007_CE]]"
+  - "[[Argument_Silova_2009_EE]]"
 confidence: high
 status: completed
 created: 2026-10-28
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 
 ---
@@ -134,7 +136,7 @@ updated: 2026-11-19
 
 ---
 
-> [!contrast-table] 所有命题归纳
+> [!contrast-table|notitle] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **超国家无形资产与监控母体** | 将教育科研重塑为地缘竞争无形资产，为软法基准监控搭建制度母体 | 欧盟区域一体化与知识经济战略治理 | [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]] |
@@ -149,6 +151,7 @@ updated: 2026-11-19
 > - **2000 — 区域战略与全球发展目标双重确立** 里斯本峰会将知识政治升格为欧盟最高战略；同年的[[Millennium Development Goals|联合国千年发展目标]]（MDGs）将教育愿景再次压缩为初等与性别两项指标。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 487–488)]]; [[Argument_King_2007_CE|(King, 2007, pp. 383–386)]]
 > - **2007 — 比较教育批判解构全球援助议程** 肯尼斯·金系统考证多边机构在教育议程建构中的知识政治学机制，揭示概念窄化与国家自主修辞背后的治理技术。[[Argument_King_2007_CE|(King, 2007, pp. 377–389)]]
 > - **2009 — [[Critical Pedagogy|批判教育学]]剖析欧洲全景敞视式治理** 帕西亚斯与鲁萨基斯从知识政治与[[Neoliberalism|新自由主义意识形态]]视角，阐明知识政治作为欧洲教育全景敞视式软法监控母体的深层功能。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 486–487)]]
+> - **2009 — 后社会主义转型与去殖民地缘认识论拓展** 伊维塔·西洛娃等学者将知识政治批判拓展至后社会主义中东欧与中亚转型语境，揭示西方单向政策借用模式与新自由主义全球指标对后苏维埃本土教育主权的侵蚀，确立批判去殖民地缘认识论视角（[[Argument_Silova_2009_EE|Silova, 2009, pp. 24–27]]）。
 
 ---
 
@@ -166,6 +169,9 @@ updated: 2026-11-19
 > > - **多边援助机构立场（OECD-DAC & UNDP）** 宣称全球量化目标与减贫战略由受援国自主拥有，监测报告仅充当追踪进展的中立技术工具。[[Argument_King_2007_CE|(King, 2007, pp. 386–388)]]
 > > - **发展援助批判学者（[[Argument_King_2007_CE|King, 2007]]）** 指出受援国实际上被排除在议程制定之外，极简初等指标排挤中高等教育资源，导致国家自主修辞与被动从属现实严重脱节。[[Argument_King_2007_CE|(King, 2007, pp. 387–389)]]
 
+> [!warning|limits] 适用局限
+> 知识政治视角侧重于揭示超国家与多边组织在政策文本、指标构建与监控技术中的权力运作，其分析多集中于宏观战略与制度规训层面。在考察微观课堂教学、多元本土主体的能动抗争以及非正式知识传统时，若缺乏微观民族志或深描支持，容易高估宏观话语权力的整齐划一性。[[Argument_King_2007_CE|(King, 2007, pp. 387–389)]]; [[Argument_Silova_2009_EE|(Silova, 2009, pp. 24–27)]]
+
 ---
 
 > [!entry-map] 条目关联
@@ -176,14 +182,16 @@ updated: 2026-11-19
 > | [[Knowledge-Based Economy]] | 概念 | 知识政治在经济学层面的目标对应物，要求教育直接服务其技能需求。 |
 > | [[Aggressive Intergovernmentalism]] | 概念 | 成员国推进知识政治战略时所采纳的主动协调机制。 |
 > | [[Open Method of Coordination]] | 概念 | 知识政治落地实施时所依托的核心软法监控治理工具。 |
-> | [[Education for All]] | 概念 | 国际多边机构在知识政治博弈中加以转译与窄化的全球教育愿景。 |
-> | [[Millennium Development Goals]] | 概念 | 北方多边机构通过知识政治技术确立的极简化跨国发展与监测目标。 |
 > | [[Human Capital Theory]] | 理论 | 将教育定性为生产性无形投资的核心理论支撑。 |
 > | [[Panopticism]] | 理论 | 知识政治所衍生出的跨国数据监测与基准化考核网络展现出的权力机制。 |
 > | [[Kenneth King]] | 人物 | 系统揭示全球教育发展议程中多边机构知识政治运作机制的比较教育学者。 |
+> | [[Iveta Silova]] | 人物 | 将知识政治批判拓展至后社会主义中东欧与中亚转型语境的比较教育学者。 |
+> | [[Education for All]] | 事实 | 国际多边机构在知识政治博弈中加以转译与窄化的全球教育愿景。 |
+> | [[Millennium Development Goals]] | 事实 | 北方多边机构通过知识政治技术确立的极简化跨国发展与监测目标。 |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 剖析欧盟知识政治如何将教育重构为核心无形投资，并为里斯本战略与全景敞视式软法监控奠定话语母体（pp. 486–487）。
 > - [[Argument_King_2007_CE|King (2007)]] — 考证多边援助机构建构全球教育议程的历史脉络，揭示概念窄化技术与国家自主修辞背后的知识政治规训（pp. 377–389）。
+> - [[Argument_Silova_2009_EE|Silova (2009)]] — 将知识政治批判拓展至后社会主义中东欧与中亚转型语境，揭示西方单向政策借用模式与新自由主义全球指标对后苏维埃本土教育主权的侵蚀，确立批判去殖民地缘认识论视角（pp. 24–27）。

@@ -1,5 +1,5 @@
 ---
-citation: ""
+citation: "Hopmann, S. (2007). Restrained teaching: The common core of Didaktik. European Educational Research Journal, 6(2), 109–124. https://doi.org/10.2304/eerj.2007.6.2.109"
 extracted_to: []
 processed_date: 2026-11-20
 ---

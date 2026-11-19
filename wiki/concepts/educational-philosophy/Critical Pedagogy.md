@@ -203,7 +203,7 @@ updated: 2026-11-20
 
 ---
 
-> [!contrast-table] 批判教育学四大命题归纳
+> [!contrast-table|notitle] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **文化政治命题** | 课程与教学非中立，属于再生产或挑战意识形态霸权的政治场域 | 国家课程改革、教科书[[Discourse Analysis\|话语分析]]、多元文化教育审查 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|Cohen et al. (2011)]]; Masschelein (1991) |
@@ -215,6 +215,7 @@ updated: 2026-11-20
 
 > [!dev-timeline] 概念演变
 > - **1960–1970s — 解放实践形成期** [[Paulo Freire|保罗·弗莱雷]]在巴西贫困农村扫盲运动中践行批判意识培养，1968/1972 年出版《被压迫者教育学》，提出[[Banking Model of Education|储蓄式教育]]批判、[[Problem-Posing Education|提问式教育]]与反思实践（[[Praxis]]），确立批判教育学的理论基石。
+> - **1960s–1970s — 南欧反法西斯与战后批判教育网络联结** 兰伯托·博尔吉等学者将反法西斯民主诉求与批判教育学理念结合，依托跨大西洋刊物与比较教育学会推介南欧草根改革与反权威教育实践（[[Argument_Silova_2009_EE|Silova, 2009, pp. 20–21]]）。
 > - **1970s — 南方向北方反向流动与跨国解放范式确立** 弗莱雷流亡日内瓦并与坦桑尼亚总统尼雷尔展开[[South-South Cooperation|南南合作]]，推动批判教育学作为代表性知识向欧洲与北美学界反向流动，确立全球跨国教育扩散的解放范式。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 6–7)]]
 > - **1980–1990s — 北美理论建构与文化政治转向** [[Henry Giroux|亨利·吉鲁]]（Henry Giroux）、彼得·麦克拉伦（Peter McLaren）与[[Michael W. Apple|迈克尔·阿普尔]]（Michael Apple）等学者将法兰克福学派[[Critical Theory|批判理论]]引入北美课程领域，提出可能性的语言与抵制理论，将学校定义为阶级、种族与性别[[Discourse|话语]]争夺的文化政治[[Champ|场域]]。
 > - **2000–2010s — 全球化反思、[[Geopolitics of Knowledge|知识地缘政治]]与跨国再生产批判** 批判教育学进一步与[[Post-colonial Theory|后殖民理论]]、全球南方视角以及[[Geopolitics of Knowledge|知识地缘政治]]交织；学者运用储蓄式教育概念剖析[[Forced Knowledge Transfer|强制知识转移]]与跨国[[Policy Borrowing|政策借用]]中的隐性权力梯度（[[Argument_Partaken_2022_Springer|Partaken, 2022]]）；拉斯特等学者（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）将吉鲁与弗莱雷的再生产批判引入全球化教育响应研究，确立了跨国解放实践[[Paradigm|范式]]。
@@ -222,7 +223,7 @@ updated: 2026-11-20
 
 ---
 
-> [!debates] 学术争议
+> [!debates|notitle] 学术争议
 >
 > > [!axis] 解放希望之光 vs 缺乏实证检验的乌托邦修辞
 > > 争论焦点在于批判教育学究竟是一套切实改变课堂的解放纲领，还是停留在政治宣教层面的空洞修辞。
@@ -233,7 +234,7 @@ updated: 2026-11-20
 > > [!axis] 技术工具中立论 vs 数字[[Banking Model of Education|储蓄式教育]]规训论
 > > 在智能时代，技术乐观派主张大模型能民主化知识获取与因材施教；批判派则警告全盘代劳构成新型的数字储蓄式教育压迫。
 > >
-> > - **技术平权工具论** 坚信人手一台 AI 即实现了教育正义，技术仅为中性赋能工具。
+> > - **技术平权工具论** 坚信人手一台 AI 即实现了教育正义，技术仅为中性辅助工具。
 > > - **批判认识正义论（[[Argument_Smith_2026_SPE|Smith, 2026]]）** 论证将思考外包给 AI 是私厨代劳，使学生沦为算法产出的被动享用者，剥夺内生认识能力，必须通过对抗性质询重构主体性。
 >
 > > [!axis] 资本主义现代性普遍进步论 vs 跨国结构再生产与解放实践论
@@ -241,17 +242,47 @@ updated: 2026-11-20
 > > - **[[Modernization Theory|现代化理论]]与技术官僚借用论** 认为资本主义现代性与市场竞争能驱动生产力腾飞，发展中国家应当通过吸引外部跨国资本和技术援助缩小教育差距。
 > > - **批判教育学与再生产批判论（Shor & Freire, 1987; [[Argument_Rust_2009_Reflections|Rust et al., 2009]]）** 强调教育本质上是高度政治化的事业，将西方现代性等同于教育实质上掩盖了跨国资本对边缘国家的结构再生产与依附控制；比较教育学必须转向促进主权自决与社会正义的解放实践。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 134–135)]]
 
-> [!warning] 适用局限与实施边界
+> [!warning|limits] 适用局限
 > - **修辞丰富与实践指导的脱节** 部分理论论述高度抽象，在缺乏配套评价改革的情境中，容易沦为宏大政治口号而难以转化为具体的课堂干预方案。
 > - **制度化规训阻力** 现存教育体系高度依赖标准化测验与分数排位，批判教育学对传统知识体系与等级结构的解构尝试往往遭遇强大的体制惯性反弹。
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Banking Model of Education]] | 概念 | 批判教育学所批判的传统灌输式教育模式。 |
+> | [[Problem-Posing Education]] | 概念 | 弗莱雷提出的解放性对话教学范式。 |
+> | [[Praxis]] | 概念 | 批判意识觉醒过程中行动与反思的辩证统一。 |
+> | [[Conscientization]] | 概念 | 学习者洞悉结构性压迫并采取解放行动的意识觉醒过程。 |
+> | [[Epistemic Agency]] | 概念 | 批判教育学在数智时代致力于捍卫的学生认识主体性。 |
+> | [[Alien Intelligence]] | 概念 | 生成式大模型在批判教育学视阈下的定位。 |
+> | [[Cognitive Deskilling]] | 概念 | 全盘外包思考于算法导致的内生认知能力退化。 |
+> | [[Hidden Curriculum]] | 概念 | 掩盖在显性课程之下、再生产阶级与资本主义秩序的潜规则。 |
+> | [[Structural Adjustment Programs]] | 概念 | 跨国资本迫使发展中国家推行教育私有化与紧缩政策的工具。 |
+> | [[Representational Knowledge]] | 概念 | 植根于全球南方经验并在跨国流动中抗衡北方垄断的代表性知识。 |
+> | [[Formative Epistemic Injustice]] | 理论 | 算法代劳剥夺认知锻炼机会所构成的成长性认识不正义。 |
+> | [[Critical Theory]] | 理论 | 批判教育学的法兰克福学派哲学渊源。 |
+> | [[Post-colonial Theory]] | 理论 | 批判教育学解构跨国教育殖民与北方中心主义的理论资源。 |
+> | [[Modernization Theory]] | 理论 | 批判教育学所解构的西方工业资本主义普世叙事。 |
+> | [[Discourse Analysis]] | 方法 | 剖析课程与政策文本中权力争夺的核心质性方法。 |
+> | [[Paulo Freire]] | 人物 | 巴西批判教育学家，《被压迫者教育学》主要代表。 |
+> | [[Henry Giroux]] | 人物 | 将批判理论与抵制理论引入北美课程研究的核心代表。 |
+> | [[Val D. Rust]] | 人物 | 运用批判教育学剖析全球化跨国教育干预与再生产的学者。 |
+> | [[Michael W. Apple]] | 人物 | 批判课程意识形态与教育政治经济学分析的代表学者。 |
+> | [[Jürgen Habermas]] | 人物 | 提出解放兴趣与沟通行动理论的批判理论代表人物。 |
+> | [[Education for All]] | 事实 | 联合国教科文组织发起的全球教育倡议，其实施在南方受制于结构调整。 |
+> | [[UNESCO]] | 事实 | 联合国教育、科学及文化组织，跨国教育政策话语的交锋场域。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011)]] — 阐释批判教育学作为[[Jürgen Habermas|哈贝马斯]]解放兴趣在课程论中的体现，系统梳理活经验、可能性的语言与文化政治[[Champ|场域]]。
 > - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — 将[[Paulo Freire|弗莱雷]][[Banking Model of Education|储蓄式教育]]模型拓展为[[Geopolitics of Knowledge|知识地缘政治]]分析工具，揭示殖民教育与[[Forced Knowledge Transfer|强制知识转移]]中不可化约的权力不对等。
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 系统阐明弗莱雷的[[Problem-Posing Education|提问式教育]]、[[Conscientization|批判意识觉醒]]（Conscientização）与反思实践（[[Praxis]]）[[Central Phenomenon|核心范畴]]。
 > - [[Argument_Smith_2026_SPE|Smith (2026)]] — 将批判教育学对话精神引入生成式 AI 时代，针对[[Formative Epistemic Injustice|成长性认识不正义]]与[[Cognitive Deskilling|认知去技能化]]，提出基于[[Alien Intelligence|异己智能]]与思维步骤全外显的防御教学方案。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 结合[[Henry Giroux|吉鲁]]再生产理论与弗莱雷解放教育学，解构全球化背景下跨国教育干预的强制再生产机制，依据[[Education for All|全民教育]]（EFA）监测数据论证主权自决与人道主义解放实践。
 > - [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] — 阐明弗莱雷批判教育学植根于巴西东北部底层生存体验与代表性知识，揭示其在 20 世纪 70 年代经由日内瓦与坦桑尼亚反向流动至北方的跨国解放扩散机制（pp. 6–7）。
+> - [[Argument_Silova_2009_EE|Silova (2009)]] — 呈现战后意大利教育哲学家博尔吉等学者依托跨大西洋比较学术平台，将反法西斯抗争经验转化为批判教育理论的实践脉络（pp. 20–21）。
 

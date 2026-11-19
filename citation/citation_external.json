@@ -487,6 +487,8 @@
     "Albergaria-Almeida, 2011": "Albergaria-Almeida, 2011",
     "Albert Hirschman (1958)": "Albert Hirschman, 1958",
     "Albert Hirschman, 1958": "Albert Hirschman, 1958",
+    "Albert Motivans (2006)": "Albert Motivans, 2006",
+    "Albert Motivans, 2006": "Albert Motivans, 2006",
     "Albert O. Hirschman (1958)": "Albert O. Hirschman, 1958",
     "Albert O. Hirschman, 1958": "Albert O. Hirschman, 1958",
     "Albert-László Barabási & Albert (1999)": "Albert-László Barabási & Albert, 1999",
@@ -32672,6 +32674,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Industrial and Corporate Change/Argument_Kattel_Mazzucato_2018_ICC.md"
+      ],
+      "title": ""
+    },
+    "Albert Motivans, 2006": {
+      "aliases": [
+        "Albert Motivans, 2006",
+        "Albert Motivans (2006)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Albert Motivans, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Objectivism.md"
       ],
       "title": ""
     },
@@ -160094,7 +160111,9 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/comparative-education/Context in Comparative Education.md"
+        "wiki/concepts/comparative-education/Context in Comparative Education.md",
+        "wiki/concepts/educational-philosophy/Objectivism.md",
+        "wiki/concepts/educational-philosophy/Positivism.md"
       ],
       "title": "Comparative education, area studies, and the disciplines"
     },

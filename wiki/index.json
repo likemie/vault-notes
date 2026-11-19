@@ -6628,6 +6628,16 @@
     ]
   },
   {
+    "title": "Restrained Teaching",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Restrained Teaching.md",
+    "aliases": [
+      "克制型教学",
+      "克制性教学",
+      "审慎教学"
+    ]
+  },
+  {
     "title": "Rhetorical Irony",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Rhetorical Irony.md",
@@ -55951,6 +55961,11 @@
     "title": "Argument_Grek_2024_EERJ",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Grek_2024_EERJ.md"
+  },
+  {
+    "title": "Argument_Hopmann_2007_EERJ",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
   },
   {
     "title": "Argument_Møller_2017_EERJ",

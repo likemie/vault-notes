@@ -9,7 +9,7 @@ aliases:
 summary: "一种主张真正知识唯独建立在感官经验、观察与实验基础之上的认识论立场，预设自然与社会遵循同质客观法则；在启蒙发轫期曾从属于全人道德教化与社会改良，而在20世纪演化为追求价值中立与法则概括的统治性实证范式。"
 type: concept
 domain: "educational-philosophy"
-related_count: 148
+related_count: 149
 related_level: 14
 related_stars: "💎💎💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -173,10 +173,11 @@ related_arguments:
   - "[[Argument_Brady_2023_EPR]]"
   - "[[Argument_Sandoval_2005_SE]]"
   - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Argument_Vavrus_2006_CICE]]"
 confidence: high
 status: completed
 created: 2026-06-13
-updated: 2026-11-16
+updated: 2026-11-20
 ---
 
 ## 定义
@@ -445,6 +446,7 @@ updated: 2026-11-16
 > - **抹杀情境深度的去情境化偏向** 实证主义追求普适法则，往往通过统计控制强行剔除地方性文化、历史脉络与微观交往细节，导致研究成果高度贫瘠且脱离教育现场。
 > - **抹杀价值反思的技术自满** 将教育问题完全置换为“什么有效”（What Works）的工程学计算，直接剥夺了公众关于教育根本目的与社会公平正义的民主[[Deliberative Space|审议空间]]。
 > - **历史维度的系统性流失与[[Historical Amnesia|历史健忘症]]** 唯方法论实证主义对短期跨国变量的迷恋，导致历史比较研究在主流期刊急剧边缘化（发文占比跌破 5%），使学科丧失了反思制度历史根由的文化记忆与深层审辨力（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a, pp. 155–156]]）。
+> - **国际机构统计文化中的实证主义还原偏差（Motivans, 2006; [[Argument_Vavrus_2006_CICE|Vavrus & Bartlett, 2006]]）** 国际组织统计界长期推崇实证主义统计文化，偏好去情境化的宏观量化汇总，将复杂的地方教育现实还原为孤立指标，在机构制度文化层面构成了重视微观情境的深层认识论障碍（p. 97）。
 
 > [!warning|limits] 适用局限
 > 实证主义无法跨越逻辑上的休谟鸿沟——绝不能从“实然数据”直接推导“应然价值”；对于教育公平、人性尊严与道德选择等涉及终极关怀的命题，实证主义方法在原则上不具备判定权力。
@@ -492,3 +494,4 @@ updated: 2026-11-16
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 从[[Niklas Luhmann|卢曼]]二阶观察与[[Phenomenology|现象学]]批判哈蒂《可见的学习》背后的评价实证主义与“超实证可见性意识形态”，揭示其将具身心智降解为表象化[[Performance Indicators|绩效指标]]的认识论盲点与规范遮蔽（pp. 3–10）。
 > - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026, pp. 341, 346–348)]] — 解构[[Transnational Education|跨国教育]]治理中全球教育证据顾问小组（[[Global Education Evidence Advisory Panel|GEEAP]]）所标榜的实证绝对客观性神话，揭示“[[Smart Buys|智能购买]]”等成本效益排序对地方制度土壤的剥离与实证主义采购清单异化。
 > - [[Argument_Hammermeister_2002_Cambridge_Ch07|Hammermeister (2002, Ch. 7)]] — 析尼采《人性的，太人性的》的实证主义转向，及晚期排斥[[Natural Beauty|自然美]]与支配自然科学精神的合谋（pp. 137, 144–145, 149）；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析卡西尔新康德主义美学对生理还原实证主义的抵制（pp. 153–154）。
+> - [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] — 结合 Motivans（2006）反思国际组织统计界的客观实证主义文化，指出还原主义统计偏好构成了重视复杂教育情境的认识论障碍（p. 97）。

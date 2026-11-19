@@ -2059,6 +2059,14 @@
       ],
       "title": ""
     },
+    "Albert Motivans, 2006": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Objectivism.md"
+      ],
+      "title": ""
+    },
     "Albert O. Hirschman, 1958": {
       "doi": "",
       "isbn": "",
@@ -78682,7 +78690,9 @@
       "doi": "10.1086/498471",
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/comparative-education/Context in Comparative Education.md"
+        "wiki/concepts/comparative-education/Context in Comparative Education.md",
+        "wiki/concepts/educational-philosophy/Objectivism.md",
+        "wiki/concepts/educational-philosophy/Positivism.md"
       ],
       "title": "Comparative education, area studies, and the disciplines"
     },
