@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 
 ---
@@ -79,7 +79,7 @@ updated: 2026-11-19
 > - **[[Unit of Analysis|分析单位]]** 垂直限定的多层级个案，涵盖微观行动者（学生、教师、社区成员）、中观机构（学校、地方学区、国家教育部）以及宏观超国家实体（国际援助机构、跨国[[Policy Network|政策网络]]）。
 > - **输出形式** 跨尺度的[[Rich and Thick Description|深描]]叙事、权力与知识的位序对照图景、政策修辞与地方实践的鸿沟解析，以及制度运行的多层机制推演。
 
-> [!citation-card] 垂直个案研究的核心界定
+> [!citation-card] 瓦夫鲁斯与巴特利特论垂直个案研究的核心界定
 > 垂直个案研究作为一种比较处于不同社会位置的行动者知识主张的途径，旨在将地方行动和解释置于更广泛的文化、历史与政治考察之中……对情境和地方层面的关注是生成可信知识所必须履行的义务。[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, pp. 95–96)]]
 >
 > *Based on our view of comparative knowledge, we propose the vertical case study as a means of comparing knowledge claims among actors with different social locations in an attempt to situate local action and interpretation within a broader cultural, historical, and political investigation... attention to context and the local level is not optional but obligatory in order to generate trustworthy knowledge.*
@@ -89,7 +89,7 @@ updated: 2026-11-19
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** [[Critical Realism|批判实在论]]与情境[[Constructivist Paradigm|建构主义]]；认为比较知识必须兼具微观情境的[[Ecological Validity|生态效度]]与宏观结构的政治经济学洞察，知识始终带有行动者的社会位置烙印，必须通过跨尺度对照获得[[Reflexivity|反思性]]认知。
 > - **研究者角色** 跨尺度的意义挖掘者与反思性对话者；要求研究者深入地方社区进行长期[[Fieldwork|田野工作]]，同时反思自身作为外部专家可能再生产的支配性权力/知识关系。
-> - **有效性标准** 生态效度（Ecological Validity）、微观深描的质感、跨尺度解释的融贯性与[[Chain of Evidence|证据链]]条的严密性。
+> - **有效性标准** 生态效度、微观深描的质感、跨尺度解释的融贯性与[[Chain of Evidence|证据链]]条的严密性。
 > - **不声称回答的问题** 不用于测量脱离情境的孤立[[Variable|变量]]因果[[Effect Size|效应量]]；不声称从单一微观案例直接进行大样本统计总体推论。
 
 > [!method-stack] 方法层级
@@ -118,7 +118,7 @@ updated: 2026-11-19
 > [!proc] 质性分析程序
 > 1. [[Transcription in Qualitative Research|转录]]访谈文本并整理多层[[Field Notes|田野笔记]]与政策档案，建立按空间层级编排的质性数据库。
 > 2. 针对微观行动者、中观官员与宏观专家的知识主张进行社会位置编码与意义分类。
-> 3. 识别官方政策修辞（“应然”）与地方实际样貌（“实然”）之间的裂隙与衔接点。
+> 3. 识别官方政策修辞所宣称的应然要求与地方实然处境之间的裂隙与衔接点。
 > 4. 运用[[Triangulation|三角互证]]检验口头陈述、书面文本与实际观察行为的一致性，构建贯通微观与宏观的证据链条。
 
 ---

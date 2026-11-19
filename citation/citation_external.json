@@ -1946,9 +1946,11 @@
     "Bartlett & Vavrus, 2017a": "Bartlett & Vavrus, 2017b",
     "Bartlett & Vavrus, 2017b": "Bartlett & Vavrus, 2017b",
     "Bartlett (2006)": "Bartlett, 2006",
+    "Bartlett (2007)": "Bartlett, 2007",
     "Bartlett et al. (2001)": "Bartlett et al., 2001",
     "Bartlett et al., 2001": "Bartlett et al., 2001",
     "Bartlett, 2006": "Bartlett, 2006",
+    "Bartlett, 2007": "Bartlett, 2007",
     "Bartolini (2018)": "Bartolini, 2018",
     "Bartolini, 2018": "Bartolini, 2018",
     "Barton (1964)": "Barton, 1964",
@@ -12228,6 +12230,8 @@
     "Iversen, 2005": "Iversen, 2005",
     "Iverson & Walberg (1982)": "Iverson & Walberg, 1982",
     "Iverson & Walberg, 1982": "Iverson & Walberg, 1982",
+    "Iveta Silova (2009)": "Iveta Silova, 2009",
+    "Iveta Silova, 2009": "Iveta Silova, 2009",
     "Iyengar & Lepper (1999)": "Iyengar & Lepper, 1999",
     "Iyengar & Lepper, 1999": "Iyengar & Lepper, 1999",
     "Izci & Akkoc (2024)": "Izci & Akkoc, 2024",
@@ -43449,6 +43453,19 @@
       ],
       "title": "The Comparative Ethnography of Educational Projects"
     },
+    "Bartlett, 2007": {
+      "aliases": [
+        "Bartlett, 2007",
+        "Bartlett (2007)"
+      ],
+      "doi": "10.1177/016146810710900704",
+      "identity_keys": [
+        "Bartlett, 2007"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Human Capital or Human Connections? The Cultural Meanings of Education"
+    },
     "Bartolini, 2018": {
       "aliases": [
         "Bartolini, 2018",
@@ -46565,6 +46582,7 @@
         "wiki/concepts/comparative-education/Scientific Paradigm.md",
         "wiki/concepts/comparative-education/The Nation-State as the Unit of Comparison.md",
         "wiki/concepts/comparative-education/Whiggism.md",
+        "wiki/concepts/research-methodology/Unit of Analysis.md",
         "wiki/methods/qualitative/Bereday's Comparative Method.md",
         "wiki/persons/us/George Bereday.md"
       ],
@@ -54601,6 +54619,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md",
+        "wiki/concepts/comparative-education/Context in Comparative Education.md",
         "wiki/concepts/comparative-education/Learnology.md",
         "wiki/persons/uk/Patricia Broadfoot.md",
         "wiki/persons/uk/Robin Alexander.md"
@@ -118912,6 +118931,21 @@
       "seen_in": [],
       "title": "Home environment and school learning: A quantitative synthesis"
     },
+    "Iveta Silova, 2009": {
+      "aliases": [
+        "Iveta Silova, 2009",
+        "Iveta Silova (2009)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Iveta Silova, 2009"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Policy Borrowing.md"
+      ],
+      "title": ""
+    },
     "Iyengar & Lepper, 1999": {
       "aliases": [
         "Iyengar & Lepper, 1999",
@@ -124458,11 +124492,11 @@
       "identity_keys": [
         "K. Watkins, 2001"
       ],
-      "isbn": "",
+      "isbn": "978-0855984281",
       "seen_in": [
         "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md"
       ],
-      "title": ""
+      "title": "The Oxfam Education Report"
     },
     "K.-H., 2005": {
       "aliases": [
@@ -126852,7 +126886,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/comparative-education/Policy Borrowing.md",
         "wiki/concepts/comparative-education/Protean Episteme.md"
       ],
       "title": ""
@@ -148763,7 +148796,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md"
+        "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md",
+        "wiki/concepts/educational-psychology/Epistemic Stances.md"
       ],
       "title": "\"The door opens and the tiger leaps\": Theories and reflexivities of comparative education for a global millennium"
     },
@@ -172295,6 +172329,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/comparative-education/Context in Comparative Education.md",
         "wiki/concepts/comparative-education/Learnology.md"
       ],
       "title": ""
@@ -204689,7 +204724,9 @@
         "Springer, 1977"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/research-methodology/Unit of Analysis.md"
+      ],
       "title": "Education, curriculum, and pedagogy"
     },
     "Springer, 2006": {
@@ -240540,7 +240577,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/research-methodology/Ecological Validity.md",
         "wiki/methods/quantitative/Random Assignment.md"
       ],
       "title": ""

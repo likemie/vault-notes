@@ -82,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 
 ---
@@ -136,6 +136,7 @@ updated: 2026-11-19
 > - **工作假设姿态（[[Working Hypothesis]] Stance）** 将某一主张或 AI 提议作为推演下一步行动的临时[[Scaffolding|脚手架]]，在后续检验中持续观察其因果解释力。
 > - **适应性调适能力（Epistemic Adaptability）** 学习者依据任务风险（低风险[[Brainstorming|头脑风暴]] vs 高风险评价性裁决）自适应调整对外部中介的批判距离。
 > - **跨国机构[[Epistemology|认识论]]立场的表层分化与深层共识（Institutional Epistemic Stances & Deep Consensus）** 跨国组织在认识论表层呈现出鲜明的[[Paradigm|范式]]对峙——[[World Bank|世界银行]]视教育为纯粹生产性投资，追求私人与社会回报率；[[UNESCO|联合国教科文组织]]秉持人文主义终极价值；[[OECD|经合组织]]追求经济活力与社会凝聚力的结合。然而在深层结构上，它们共同确立了关于“信息时代”必然来临的认识论断言，达成将传统学校教育病理化并强推新自由主义治理五大支柱的深层规训共识。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 346–348)]]
+> - **比较探究中的双重认识立场陷阱与多尺度审视（Universalist vs. Relativist Stances & Multi-Scalar Synthesis）** [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] 结合马金森与莫利斯（Marginson & Mollis, 2001）的论断，揭示跨国比较研究面临的双重极端认识立场陷阱：普遍主义立场强求同质通则而遮蔽文化特异性与他者；极端相对主义立场将个体差异绝对化为孤立终点而放弃比较对话。垂直案例研究提出多尺度反思性认识立场，将地方行动者的微观情境知识置于与官方权威知识平等的地位，在跨尺度关系共通性中实现对相似性与差异性的双重审视。[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, pp. 97–100)]]
 
 > [!logic-map]- 人工智能交互中适应性认识立场的动态调节机制
 > ```mermaid
@@ -203,6 +204,7 @@ updated: 2026-11-19
 
 > [!dev-timeline] 概念演变脉络
 > - **1970–1990 年代 — 确定性阶段论主导** 威廉·佩里（William G. Perry）、帕特里夏·金（Patricia King）与凯伦·基奇纳（Karen Kitchener）等学者将个人[[Epistemology|认识论]]视为由绝对主义（二元确定）向相对主义、再向[[Reflexivity|反思性]]承诺发展的单向阶梯。
+> - **2006 年 — 比较教育认识立场转向与多尺度超越** [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] 批判国际机构统计文化中的还原主义客观立场，提出兼顾微观情境与宏观结构的多尺度垂直比较认识立场，超越普遍主义与极端相对主义二元陷阱（pp. 97–101）。
 > - **2009 年 — 跨国政策[[Discourse|话语]]与机构认识论立场解构** [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] 将认识论立场概念延伸至超国家治理领域，系统解构[[World Bank|世界银行]]（[[Human Capital Theory|人力资本]]投资）、[[UNESCO|联合国教科文组织]]（人文主义）与[[OECD|经合组织]]（混合新自由主义）的表层认识论对立及其深层治理方案同构。
 > - **2011 年 — 扩展[[Epistemic Cognition|认识论认知]]与立场重构** [[Argument_Chinn_2011_EducPsychol|Chinn et al. (2011)]] 正式提出“认识立场（Epistemic Stances）”作为五大核心构件之一，彻底打破单一确定性维度，奠定命题情境化态度研究基石。
 > - **2025–2026 年 — 人工智能中介与自适应立场转向** [[Argument_Wu_2025_ER|Wu et al. (2025)]] 与 [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] 将其引入[[Man-Computer Symbiosis|人机共生]]学习，确立“自适应认识立场”与双轨支架干预矩阵，作为防范有害[[Epistemic Dependence|认识依赖]]、维系关系性[[Epistemic Agency|认识主体性]]的核心机制。
@@ -235,9 +237,10 @@ updated: 2026-11-19
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wu_2025_ER|Wu et al. (2025)]] — 提出人机自适应认识立场框架，系统解构绝对论、多元论与评价论在[[Man-Computer Symbiosis|人机协同]]解决问题中的表现与转化机制，并建立双轨支架干预模型。
-> - [[Argument_Chinn_2011_EducPsychol|Chinn et al. (2011)]] — 奠基性专论，系统将确定性重构为个体的情境化认识立场，确立[[Epistemic Cognition|认识论认知]]扩展框架。
+> - [[Argument_Chinn_2011_EducPsychol|Chinn et al. (2011)]] — 开拓性专论，系统将确定性重构为个体的情境化认识立场，确立[[Epistemic Cognition|认识论认知]]扩展框架。
 > - [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] — 将适应性认识立场引入人工智能中介学习审思，论证根据中介形态自适应调整立场是抵御[[Epistemic Dependence|认识依赖]]与维护主体性的关键机制。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 比较[[World Bank|世行]]、[[UNESCO|教科文组织]]与[[OECD|经合组织]]在[[Human Capital Theory|人力资本]]与人文主义上的[[Epistemology|认识论]]立场分歧，揭示其在信息时代设想与五大支柱治理处方上的深层同构。
+> - [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] — 剖析比较教育与国际发展中的认识立场对立，批判国际机构统计还原主义立场对复杂情境的压制，确立超越普遍主义与极端相对主义的多尺度垂直认识立场（pp. 97–101）。
 
 ---
 

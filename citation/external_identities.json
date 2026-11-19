@@ -8512,6 +8512,12 @@
       ],
       "title": "The Comparative Ethnography of Educational Projects"
     },
+    "Bartlett, 2007": {
+      "doi": "10.1177/016146810710900704",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Human Capital or Human Connections? The Cultural Meanings of Education"
+    },
     "Bartolini, 2018": {
       "doi": "",
       "isbn": "",
@@ -10377,6 +10383,7 @@
         "wiki/concepts/comparative-education/Scientific Paradigm.md",
         "wiki/concepts/comparative-education/The Nation-State as the Unit of Comparison.md",
         "wiki/concepts/comparative-education/Whiggism.md",
+        "wiki/concepts/research-methodology/Unit of Analysis.md",
         "wiki/methods/qualitative/Bereday's Comparative Method.md",
         "wiki/persons/us/George Bereday.md"
       ],
@@ -15204,6 +15211,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md",
+        "wiki/concepts/comparative-education/Context in Comparative Education.md",
         "wiki/concepts/comparative-education/Learnology.md",
         "wiki/persons/uk/Patricia Broadfoot.md",
         "wiki/persons/uk/Robin Alexander.md"
@@ -53727,6 +53735,14 @@
       "seen_in": [],
       "title": "Home environment and school learning: A quantitative synthesis"
     },
+    "Iveta Silova, 2009": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Policy Borrowing.md"
+      ],
+      "title": ""
+    },
     "Iyengar & Lepper, 1999": {
       "doi": "",
       "isbn": "",
@@ -57030,11 +57046,11 @@
     },
     "K. Watkins, 2001": {
       "doi": "",
-      "isbn": "",
+      "isbn": "978-0855984281",
       "seen_in": [
         "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md"
       ],
-      "title": ""
+      "title": "The Oxfam Education Report"
     },
     "K.-H., 2005": {
       "doi": "",
@@ -58504,7 +58520,6 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/comparative-education/Policy Borrowing.md",
         "wiki/concepts/comparative-education/Protean Episteme.md"
       ],
       "title": ""
@@ -71827,7 +71842,8 @@
       "doi": "10.1086/324149",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md"
+        "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md",
+        "wiki/concepts/educational-psychology/Epistemic Stances.md"
       ],
       "title": "\"The door opens and the tiger leaps\": Theories and reflexivities of comparative education for a global millennium"
     },
@@ -85965,12 +85981,13 @@
       "title": ""
     },
     "Patricia Broadfoot, 1999": {
-      "doi": "",
+      "doi": "10.1080/0305792990290302",
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/comparative-education/Context in Comparative Education.md",
         "wiki/concepts/comparative-education/Learnology.md"
       ],
-      "title": ""
+      "title": "Stones from other hills may serve to polish the jade of this one: Towards a neo-comparative 'learnology' of education"
     },
     "Patrick Le Galès, 2016": {
       "doi": "",
@@ -105365,7 +105382,9 @@
     "Springer, 1977": {
       "doi": "10.1086/445958",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/research-methodology/Unit of Analysis.md"
+      ],
       "title": "Education, curriculum, and pedagogy"
     },
     "Springer, 2006": {
@@ -126912,7 +126931,6 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/research-methodology/Ecological Validity.md",
         "wiki/methods/quantitative/Random Assignment.md"
       ],
       "title": ""

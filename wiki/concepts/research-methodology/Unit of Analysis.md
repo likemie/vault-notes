@@ -13,7 +13,7 @@ aliases:
 summary: "研究设计、质性编码与内容分析中确定数据切片与分类基本边界的核心概念，涵盖抽样单位、记录单位与语境单位三层体系，量化证据综合中底层独立原始研究与高阶汇聚元分析层级的对齐，以及宏观比较研究中从19世纪以校为中心的孤立办学考察向萨德勒民族国家整体教育体系、世界体系整体、超国家度量网络与流动空间多标度结构位置的历史演进"
 type: concept
 domain: "research-methodology"
-related_count: 103
+related_count: 106
 related_level: 10
 related_stars: "💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -23,6 +23,7 @@ tags:
   - content-analysis
   - data-analysis
 related_concepts:
+  - "[[The Nation-State as the Unit of Comparison]]"
   - "[[Variable]]"
   - "[[Construct]]"
   - "[[Heterogeneity]]"
@@ -113,6 +114,7 @@ related_persons:
   - "[[Keith Morrison]]"
   - "[[Isaac Kandel]]"
   - "[[Nicholas Hans]]"
+  - "[[Iveta Silova]]"
 related_facts:
   - "[[National Education]]"
   - "[[IEA]]"
@@ -132,10 +134,11 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Barrenechea_2023_JEC]]"
+  - "[[Argument_Silova_2009_EE]]"
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-11-11
+updated: 2026-11-20
 ---
 
 ---
@@ -143,7 +146,7 @@ updated: 2026-11-11
 > [!def] Unit of Analysis
 > **分析单位（Unit of Analysis，又称分析单元）** 是指在经验研究设计、[[Coding in Qualitative Research|质性编码]]与[[Content Analysis|内容分析]]中，被观察、测量、描述和解释的基本实体、信息载体或文本片段。在[[Qualitative Research|质性研究]]与[[Content Analysis|内容分析]]中，分析单位界定了数据拆解切片、赋予编码与范畴聚合的最小操作基准与最大语境边界（Krippendorff, 2004；[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 565]]）。分析单位的界定直接决定了研究结论的可推广范围、统计推论的聚合尺度以及理论命题的解释力度。
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 研究者在收集和分析数据时聚焦审视的最小独立实体，从微观的词汇、句子、意群，到中观的命题、事件、段落，直至宏观的个体、学校、学区、政策文本，以及宏观比较教育中的民族国家制度容器、资本主义世界经济体整体与跨国[[Pluri-Scalar Governance|多标度治理]]空间矩阵。
 > - **用途** 为质性编码与量化比较建立稳定一致的分析基准，防止在同一范畴内混合不同抽象层级的材料，保障数据聚合与跨案比较的有效性。
 > - **边界** 不等于分析范畴（Category）或[[Variable|变量]]（Variable）。分析单位是承载变量与范畴属性的具体实体载体，而非属性特征本身；亦不同于研究对象（Object of Study）的抽象议题。
@@ -160,21 +163,15 @@ updated: 2026-11-11
 
 ---
 
-## 概念辨析
-
-在研究方法论中，分析单位易与相邻[[Construct|构念]]产生混淆，其核心差异体现在功能定位与操作尺度上：
-
-> [!contrast-table] 分析单位与相邻方法学构念辨析
-> | 维度 | 分析单位（Unit of Analysis） | 分析范畴（Category） | 观测[[Variable\|变量]]（Variable） | 案例（Case） |
+> [!contrast-table|notitle] 概念辨析
+> | 维度 | 分析单位（Unit of Analysis） | 分析范畴（Category） | 观测[[Variable|变量]]（Variable） | 案例（Case） |
 > |---|---|---|---|---|
 > | **核心定位** | 承载信息的测量/编码实体载体 | 聚合编码的上层概念类属 | 分析单位所具备的可变属性特征 | 具备边界的完整经验研究对象 |
 > | **操作形式** | 文本切片（词句段）、个体、组织、世界体系 | 概念标签（如“管理失职”、“阶级再生产”） | 测量维度、数值或定性属性值 | 独立学校、特定人群、历史事件 |
-> | **主要功能** | 确立数据切分与统计聚合边界 | 实现[[Data Reduction\|数据缩减]]与理论生成 | 描述特征[[Heterogeneity\|异质性]]与检验关系 | 提供[[Rich and Thick Description\|深描]]语境与整体分析透镜 |
-> | **错误风险** | 尺度混淆引发生态/原子谬误或[[Methodological Nationalism\|方法论民族主义]] | 范畴重叠或分类漂移 | 测量误差与[[Operationalization\|操作化]]失真 | 个案边界不清导致去情境化 |
+> | **主要功能** | 确立数据切分与统计聚合边界 | 实现[[Data Reduction|数据缩减]]与理论生成 | 描述特征[[Heterogeneity|异质性]]与检验关系 | 提供[[Rich and Thick Description|深描]]语境与整体分析透镜 |
+> | **错误风险** | 尺度混淆引发生态/原子谬误或[[Methodological Nationalism|方法论民族主义]] | 范畴重叠或分类漂移 | 测量误差与[[Operationalization|操作化]]失真 | 个案边界不清导致去情境化 |
 
 ---
-
-## 核心要素
 
 在[[Content Analysis|内容分析]]与质性探究体系中，分析单位呈现为结构化的多层嵌套体系（Krippendorff, 2004；Lincoln & Guba, 1985；[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 565]]）：
 
@@ -185,7 +182,7 @@ updated: 2026-11-11
 
 > [!taxonomy] 宏观比较教育分析单位的演变谱系（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]; [[Argument_Mitter_2009_Europe|Mitter, 2009]]; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]; Dale, 2005）
 > - **“[[Scholiocentric Approach|以校为中心]]”的微观孤立办学单位（Scholiocentric Unit, 19 世纪第一代）** [[Victor Cousin|维克多·库森]]（Victor Cousin, 1831）、[[Horace Mann|霍勒斯·曼]]（Horace Mann, 1844）与[[Henry Barnard|亨利·巴纳德]]（Henry Barnard, 1854）等 19 世纪行政视察官员将具体学校作为孤立的教学场所进行描述（scholiocentric），聚焦于校舍规程、科目大纲与教学法，服务于本土公共教育立法游说与行政借用。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 140–141)]]
-> - **“民族国家整体教育体系”分析单位的奠定（Holistic National System, 20 世纪初第二代）** [[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler, 1900）在牛津演讲中终结了孤立考察学校的传统，明确将“民族国家教育体系（National Systems of Education）”及其深嵌的社会文化传统确立为比较分析的核心单位；指出决定教育成败的关键力量深藏于校外的[[Intangible Spiritual Forces|无形精神力量]]之中。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 141–142)]]
+> - **“民族国家整体教育体系”分析单位的确立（Holistic National System, 20 世纪初第二代）** [[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler, 1900）在牛津演讲中终结了孤立考察学校的传统，明确将“民族国家教育体系（National Systems of Education）”及其深嵌的社会文化传统确立为比较分析的核心单位；指出决定教育成败的关键力量深藏于校外的[[Intangible Spiritual Forces|无形精神力量]]之中。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 141–142)]]
 > - **民族国家制度容器（The Nation-State Container）** 19 至 20 世纪随着现代民族国家确立对公共教育主权的垄断，以领土主权为边界的[[National Education|国民教育]]学制成为最主导、最持久且被视为理所当然的经验分析单位。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 87, 94)]]
 > - **资本主义世界体系整体（The Historical World-Economy as Single Unit）** [[Immanuel Wallerstein|沃勒斯坦]]（Wallerstein, 1974）与[[Robert Arnove|阿诺夫]]（Arnove, 1980, 2009）指出，孤立民族国家有别于自给自足的社会系统；比较分析的根本基准单位是作为一个统一整体运转的资本主义世界经济体及其不平等的中心-边缘劳动分工，超越“[[Methodological Nationalism|方法论民族主义]]”。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101, 104)]]
 > - **次区域地缘板块（Sub-regional / Transnational Blocs）** 突破单一国家边界的跨国地缘与政治文化单元，如[[Nordic Model of Education|北欧模式]]、地中海区域、冷战时期的社会主义东欧阵营等，在阵营对抗与区域一体化进程中展现出结构性分析意义。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 91–92, 95)]]
@@ -287,9 +284,14 @@ updated: 2026-11-11
 
 > [!concept-proposition] 命题七｜宏观比较分析单位由“[[Scholiocentric Approach|以校为中心]]”的孤立办学考察向“民族国家整体教育体系”的历史性转变
 > **从孤立办学视察向社会文化整体系统的历史[[Paradigm|范式]]更迭** 本命题探讨比较教育宏观研究中，分析单位如何从 19 世纪第一代对外国具体学校的孤立技术性描述，转向 20 世纪第二代以民族国家整体教育体系及其深层无形文化力量为分析单位。
+> 
+> 在战后学科制度化发展中，学者们进一步探索了超越单国封闭叙述的主题化多案例横向比较网络。
 
 > [!claim] Kazamias & Sadler
 > **从[[Scholiocentric Approach|以校为中心]]向民族国家整体系统分析单位的转变** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias, 2009a）系统论证，19 世纪[[Victor Cousin|维克多·库森]]、[[Horace Mann|霍勒斯·曼]]与[[Henry Barnard|亨利·巴纳德]]等官方视察官员的跨国报告，呈现出“以校为中心（scholiocentric）”的特征，即把学校孤立起来当成单纯的教学场所进行描述，较少深入分析学校背后的社会文化结构，主要服务于国内立法游说与公共财政争取。直到 1900 年[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler）发表划时代的牛津演讲，比较教育学才从根本上超越了以校为中心的技术局限，确立了以“民族国家教育体系（National Systems of Education）”为整体分析单位的文化研究传统。萨德勒断言，决定教育体系运行的核心因素深藏在学校大门之外的家庭、社区和传统之中，是无形的心灵精神力量（intangible spiritual force），必须以民族国家的整体社会文化土壤作为比较探究的根本基准。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 140–142)]]
+
+> [!claim] [[Argument_Silova_2009_EE|Silova (2009)]]
+> **主题化多案例跨国比较对单国分析单位的拓展** 施洛娃考证指出，战后比较教育研究在分析单位上面临两极困境：一方是固守单一民族国家叙述的历史主义个案，另一方是抽离制度情境的跨国多变量去文脉量化。贝雷迪与施普林格倡导的主题化多案例横向比较，将分析单位从孤立的单一主权国家容器拓展为深嵌历史文脉的多国主题比较网络，既保留了具体国家的深厚制度文脉，又在多案例对照中提炼跨国共通模式。[[Argument_Silova_2009_EE|(Silova, 2009, pp. 22–25)]]
 
 > [!citation-card] Kazamias论萨德勒终结“以校为中心”并将民族国家整体系统确立为分析单位
 > 萨德勒的文化研究取向改变了比较教育的分析单位。19 世纪诸如库森、曼与巴纳德等人的报告以学校为中心（scholiocentric），将学校孤立地视为教学场所；萨德勒则认为学校绝不能与社会背景割裂开来。不仅如此，萨德勒将‘民族国家教育体系’明确界定为核心分析单位……研究外国体系的最高价值，在于帮助我们更深刻地理解本国教育体系。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 141–142)]]
@@ -334,6 +336,7 @@ updated: 2026-11-11
 > | **空间迁移命题** | 宏观比较分析单位由领土主权边界的民族国家容器向去情境化的超国家标准化指标空间演进 | [[State Educational Sovereignty\|国家教育主权]]垄断、地缘阵营重组、大规模测评治理 | [[Wolfgang Mitter\|Mitter (2009)]]; [[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 87, 94–96)]] |
 > | **世界体系与多标度命题** | 解构方法论民族主义，将基准分析单位重构为资本主义世界经济体整体与[[Pluri-Scalar Governance\|多标度治理]]空间矩阵 | 中心-边缘国际分工、超国家规范、空间标度流动 | Wallerstein (1974); Robertson et al. (2002); [[Argument_Arnove_2009_WorldSystems\|Arnove (2009, pp. 104, 110–111)]] |
 > | **体系转变命题** | 宏观比较分析单位由 19 世纪“以校为中心”的孤立办学视察向 20 世纪初“民族国家整体教育体系”发生历史性转变 | 办学行政借用与立法合法化、文化[[Situative Perspective\|情境主义]]、[[Intangible Spiritual Forces\|无形精神力量]]探究 | Sadler (1900); [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 140–142)]] |
+> | **主题多案例命题** | 主题化多案例横向比较超越孤立单国容器与去文脉量化两极，将分析单位拓展为深嵌制度文脉的多国主题比较网络 | 跨国平行个案对照、制度文脉保留、主题式概念提炼 | Bereday (1964); Springer (1977); [[Argument_Silova_2009_EE\|Silova (2009, pp. 22–25)]] |
 > | **网络位置命题** | 解构方法论国家主义，将分析单位从领土国家容器重构为跨国流动空间中的五大结构性话语位置 | 流动空间覆盖地方空间、多标度话语流通、结构位置权力不对称 | [[Jason Beech\|Beech (2009b)]]; [[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 349–351)]] |
 > | **证据综合错位命题** | 二级元分析误将元分析作为独立分析单位引发文献重叠多重计数，破坏独立性公理并导致虚假精度 | 抽样单位与因果单位错位、文献重叠协方差失效、一步式直接汇总 | Cooper and Koenka (2012); [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, pp. 24–25, 29–30)]] |
 
@@ -341,11 +344,12 @@ updated: 2026-11-11
 
 > [!dev-timeline] 概念演变
 > - **1810s–1880s — 第一代“[[Scholiocentric Approach|以校为中心]]”孤立微观办学单位** [[Victor Cousin|库森]]（Cousin, 1831）、[[Horace Mann|霍勒斯·曼]]（Mann, 1844）与巴纳德（Barnard, 1854）等行政视察官员将学校视作单纯的教学场所进行孤立描述（scholiocentric），以学校内部章程与科目教法为考察单元，充当立法游说的合法化工具。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 140–141)]]
-> - **1900 — 第二代“民族国家整体体系”分析单位奠定** [[Michael Sadler|迈克尔·萨德勒]]（Sadler, 1900）在牛津演讲中确立“民族国家教育体系”为核心分析单位，强调[[Intangible Spiritual Forces|校外无形精神力量]]的决定性作用，终结了以校为中心的碎片化借用。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 141–142)]]
+> - **1900 — 第二代“民族国家整体体系”分析单位确立** [[Michael Sadler|迈克尔·萨德勒]]（Sadler, 1900）在牛津演讲中确立“民族国家教育体系”为核心分析单位，强调[[Intangible Spiritual Forces|校外无形精神力量]]的决定性作用，终结了以校为中心的碎片化借用。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 141–142)]]
 > - **19 世纪中叶–20 世纪 — 民族国家制度容器确立** 随着现代民族国家确立公共教育主权垄断，以领土主权为边界的国民教育学制成为比较教育学最持久、最主要且被视为[[Doxa|不言自明]]的经验分析单位。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 87, 94)]]
 > - **1950s — [[Positivism|实证主义]]量化单元确立** 经典传播学与社会调查确立分析单位概念，聚焦于[[Questionnaire|问卷]]个体受访者与报刊印刷行数等物理测量单元，强调统计独立性。
+> - **1960s–1970s — 主题化多案例跨国比较分析单位探索** 贝雷迪（Bereday, 1964）与施普林格（Springer, 1977）倡导以跨国共同教育主题为牵引的多国平行对照，将分析单位从单一民族国家叙述拓展为深嵌制度文脉的多案例比较网络。[[Argument_Silova_2009_EE|(Silova, 2009, pp. 22–25)]]
 > - **1974–1980 — 世界体系整体分析单位确立** [[Immanuel Wallerstein|沃勒斯坦]]（Wallerstein, 1974）与[[Robert Arnove|阿诺夫]]（Arnove, 1980）打破[[Methodological Nationalism|方法论民族主义]]，确立以资本主义世界经济体为宏观比较教育的单一基准分析单位。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101, 104)]]
-> - **1980s — 传播[[Content Analysis|内容分析]]三级体系** 克里彭多夫（Krippendorff, 1980, 2004）系统提出抽样单位、记录单位与语境单位的三层划分，奠定内容分析单位化标准。
+> - **1980s — 传播[[Content Analysis|内容分析]]三级体系** 克里彭多夫（Krippendorff, 1980, 2004）系统提出抽样单位、记录单位与语境单位的三层划分，确立内容分析单位化标准。
 > - **1985 — 质性自然主义单位化规程** 林肯与古巴（Lincoln & Guba, 1985）将单位化引入[[Interpretive Paradigm|自然主义探究]]，确立具有独立语义完整性的“意义单位（Meaning units）”。
 > - **1990s — 聚合[[Reliability|信度]]律与多层比较模型** 罗伯特·韦伯（Weber, 1990）总结聚合尺度与信度的反比关系；布雷与托马斯（Bray & Thomas, 1995）构建比较教育多维分析单位立方体框架。
 > - **2000s–2010s — [[Complexity Theory|复杂性理论]]的生态网络转向** [[Keith Morrison|莫里森]]（Morrison, 2008）与卡普拉（Capra, 1996）推动分析单位从离散原子实体转向围绕奇异吸引子生成的共生生态系统，实现宏微观研究的方法论贯通。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 31)]]
@@ -357,7 +361,7 @@ updated: 2026-11-11
 
 ---
 
-> [!debates] 学术争议
+> [!debates|notitle] 学术争议
 >
 > > [!axis] “[[Scholiocentric Approach|以校为中心]]”（Scholiocentric）孤立办学考察 vs 民族国家整体教育体系与深层文化精神
 > > 争论宏观比较教育的研究单元应当聚焦于具体的学校内部事务与规程，还是必须以民族国家整体教育系统及其背后的社会文化土壤为分析单位。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 140–144)]]
@@ -407,7 +411,7 @@ updated: 2026-11-11
 > > - **传统经验实证取向** 坚持将分析单位限定为个体学生、教师或学校，强调变量边界清晰与测量独立性。
 > > - **[[Complexity Theory|复杂性理论]]取向（Morrison, 2008; Capra, 1996）** 认为孤立原子化切片割裂了内在必然共生联系，主张将整个互动网络与生态[[Champ|场域]]作为统一分析单位。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 31)]]
 
-> [!warning] 分析单位确定中的五大典型方法论陷阱
+> [!warning|limits] 分析单位确定中的五大典型方法论陷阱
 > - **聚合层级错位（Level Mismatch）** 在理论假设中关注个体教师心态，但在数据分析中直接以学校或教研组为单位实施合并，导致分析层级与[[Research Question|研究问题]]脱节。
 > - **分析单位错位（Unit-of-Analysis Error in Synthesis）** 在二阶证据综合中误将一级元分析作为独立分析单位，忽视底层原始研究的交叉重叠，导致同一批学生被重复计算，产生虚假统计精度与假阳性偏差。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–25, 29–30)]]
 > - **语境单位人为剥离（Context Severing）** 在 [[Qualitative Computer Software|CAQDAS]] 检索或自动提取中只截取命中关键词的单句，忽略前因后果语境，导致反讽、双关与深层隐喻被严重曲解。
@@ -424,34 +428,37 @@ updated: 2026-11-11
 
 ---
 
-> [!entry-map] 相关概念
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
+> | [[The Nation-State as the Unit of Comparison\|民族国家作为比较单位]] | 概念 | 战后比较教育学将主权民族国家视为核心分析单位的历史传统与方法论争鸣。[[Argument_Silova_2009_EE\|(Silova, 2009, pp. 22–25)]] |
+> | [[Pluri-Scalar Governance\|多标度治理]] | 概念 | 将分析单位扩展为横跨超国家、国家、次国家与社区的多标度立体空间网络。[[Argument_Arnove_2009_WorldSystems\|(Arnove, 2009, pp. 110–111)]] |
+> | [[Domain Analysis\|领域分析]] | 概念 | 领域分析是建立分析单位之后的关键第二步，旨在将切碎的微观编码单元重新聚合为上位领域范畴。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 440)]] |
+> | [[State Educational Sovereignty\|国家教育权]] | 概念 | 现代民族国家对公共教育主权的垄断，确立了以主权领土为边界的国民学制作为宏观比较教育最持久的经验分析单位容器。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 87, 94)]] |
+> | [[Variable\|变量]] | 概念 | 变量是分析单位所呈现的量化或定性属性，分析单位则是承载变量取值的主体物理实体。 |
+> | [[Central Phenomenon\|核心现象]] | 概念 | 在扎根理论主轴编码中，核心现象往往作为处于分析中心位置的统领性主题单位存在。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 561)]] |
+> | [[Emergence\|涌现]] | 概念 | 复杂系统分析单位所展现的核心特征，整体属性无法简单还原为个体分析单位的线性相加。 |
+> | [[World-Systems Theory\|世界体系理论]] | 理论 | 彻底解构比较教育的方法论民族主义，主张以资本主义世界经济体整体为根本分析单位。[[Argument_Arnove_2009_WorldSystems\|(Arnove, 2009, pp. 101, 104)]] |
+> | [[Dialectic of the Global and the Local\|全球与本土的辩证法]] | 理论 | 倡导通过微观比较案例研究（CCS）将宏观体系与微观生活世界作为辩证互动的分析单位。[[Argument_Arnove_2009_WorldSystems\|(Arnove, 2009, pp. 108–110)]] |
+> | [[Complexity Theory\|复杂性理论]] | 理论 | 复杂性理论打破个体与系统的传统界限，将分析单位重构为围绕奇异吸引子演化的共生生态系统网络。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 31)]] |
+> | [[Beech's Model of Discourse Circulation\|比奇话语流通模型]] | 理论 | 将分析单位从封闭国家容器重构为跨国网络流通中的五大结构性话语位置。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 349–351)]] |
 > | [[Meta-analysis\|元分析]] | 方法 | 一阶元分析以独立原始实证研究为分析单位，遵循独立抽样与方差反比赋权公理。 |
 > | [[Meta-meta-analysis\|二级元分析]] | 方法 | 宏观伞状综述中必须解决分析单位错位问题，避免将包含重复文献的一级元分析当作独立单位。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 24–25)]] |
 > | [[Inverse-Variance Weighting\|逆方差加权法]] | 方法 | 逆方差加权依赖分析单位的相互独立性；若分析单位存在重叠，协方差失效将导致估计偏差。 |
-> | [[World-Systems Theory\|世界体系理论]] | 理论 | 彻底解构比较教育的方法论民族主义，主张以资本主义世界经济体整体为根本分析单位。[[Argument_Arnove_2009_WorldSystems\|(Arnove, 2009, pp. 101, 104)]] |
-> | [[Pluri-Scalar Governance\|多标度治理]] | 概念 | 将分析单位扩展为横跨超国家、国家、次国家与社区的多标度立体空间网络。[[Argument_Arnove_2009_WorldSystems\|(Arnove, 2009, pp. 110–111)]] |
-> | [[Dialectic of the Global and the Local\|全球与本土的辩证法]] | 理论 | 倡导通过微观比较案例研究（CCS）将宏观体系与微观生活世界作为辩证互动的分析单位。[[Argument_Arnove_2009_WorldSystems\|(Arnove, 2009, pp. 108–110)]] |
-> | [[Complexity Theory\|复杂性理论]] | 理论 | 复杂性理论打破个体与系统的传统界限，将分析单位重构为围绕奇异吸引子演化的共生生态系统网络。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 31)]] |
 > | 编码 | 方法 | 分析单位构成了质性编码的操作载体；编码是对分析单位赋予概念化标签的过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 560)]] |
-> | [[Domain Analysis\|领域分析]] | 概念 | 领域分析是建立分析单位之后的关键第二步，旨在将切碎的微观编码单元重新聚合为上位领域范畴。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 440)]] |
 > | [[Content Analysis\|内容分析]] | 方法 | 分析单位的科学划分（抽样、记录、语境单位）是内容分析 11 步标准化操作规程的核心前置环节。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, pp. 564–565)]] |
-> | [[State Educational Sovereignty\|国家教育权]] | 概念 | 现代民族国家对公共教育主权的垄断，奠定了以主权领土为边界的国民学制作为宏观比较教育最持久的经验分析单位容器。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 87, 94)]] |
+> | [[Iveta Silova\|伊维塔·施洛娃]] | 人物 | 考证比较教育学会建制化历程，分析单国历史分析单位与主题化多案例跨国比较的方法论演进。[[Argument_Silova_2009_EE\|(Silova, 2009, pp. 22–25)]] |
 > | [[Wolfgang Mitter\|沃尔夫冈·米特]] | 人物 | 梳理欧洲比较教育宏观空间分析单位的演进，揭示民族国家容器、次区域地缘板块与超国家度量空间的结构张力。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 87–88, 94–96)]] |
 > | [[Robert Arnove\|罗伯特·阿诺夫]] | 人物 | 将沃勒斯坦世界体系引入比较教育，解构国家容器假定并发展微观多点案例分析。[[Argument_Arnove_2009_WorldSystems\|(Arnove, 2009, pp. 101, 104, 108–111)]] |
 > | [[Michael Sadler\|迈克尔·萨德勒]] | 人物 | 1900 年牛津演讲终结“以校为中心”孤立考察，确立“民族国家教育体系”为比较分析核心单位。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 141–142)]] |
 > | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 提出普罗透斯式认识体系框架，系统梳理从第一代“以校为中心”向第二代“民族国家整体体系”的分析单位历史演变。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 140–142)]] |
-> | [[Variable\|变量]] | 概念 | 变量是分析单位所呈现的量化或定性属性，分析单位则是承载变量取值的主体物理实体。 |
-> | [[Central Phenomenon\|核心现象]] | 概念 | 在扎根理论主轴编码中，核心现象往往作为处于分析中心位置的统领性主题单位存在。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 561)]] |
-> | [[Emergence\|涌现]] | 概念 | 复杂系统分析单位所展现的核心特征，整体属性无法简单还原为个体分析单位的线性相加。 |
-> | [[Beech's Model of Discourse Circulation\|比奇话语流通模型]] | 理论 | 将分析单位从封闭国家容器重构为跨国网络流通中的五大结构性话语位置。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 349–351)]] |
-> | [[Jason Beech\|杰森·比奇]] | 人物 | 批判方法论国家主义，整合伯恩斯坦与卡斯特理论开创跨国流动空间结构位置分析单位。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 341–344, 349–351)]] |
+> | [[Jason Beech\|杰森·比奇]] | 人物 | 批判方法论国家主义，整合伯恩斯坦与卡斯特理论开创跨国流动空间结构位置分析单位。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 349–351)]] |
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Silova_2009_EE|Silova (2009)]] — 考证战后北美比较教育学会（CIES）发展史，剖析以民族国家为分析单位的历史主义传统与主题化多案例跨国比较对单国容器的拓展（pp. 22–25）。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 系统剖析[[Meta-meta-analysis|二级元分析]]中的“分析单位错位错误（Unit-of-Analysis Error）”，论证文献重叠如何破坏独立性假定，确立宏观[[Research Synthesis|证据综合]]必须穿透至底层独立原始研究的技术基准（pp. 24–25, 29–30）。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 批判比较教育学中的“[[Methodological Nationalism|方法论民族主义]]”，系统确立资本主义世界经济体作为基准分析单位，并运用[[Pluri-Scalar Governance|多标度治理]]与微观[[Comparative Case Study|比较案例研究]]重构空间与行动者分析单位（pp. 101, 104, 108–111）。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 批判比较教育的[[Methodological Statism|方法论国家主义]]，整合[[Basil Bernstein|伯恩斯坦]]语篇位置与卡斯特[[Space of Flows|流动空间]]，将分析单位重构为由五大结构位置构成的跨国网络流通模型（pp. 341–344, 349–351）。

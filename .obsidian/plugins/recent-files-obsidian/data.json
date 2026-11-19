@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Xie_2017_PKUER",
+      "path": "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md"
+    },
+    {
+      "basename": "School Choice",
+      "path": "wiki/concepts/sociology-of-education/School Choice.md"
+    },
+    {
+      "basename": "Emic and Etic",
+      "path": "wiki/concepts/research-methodology/Emic and Etic.md"
+    },
+    {
       "basename": "Argument_Nordtveit_2011_IJED",
       "path": "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Nordtveit_2011_IJED.md"
     },
@@ -23,10 +35,6 @@
     {
       "basename": "Argument_Dang_2017_ORE",
       "path": "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
-    },
-    {
-      "basename": "Argument_Xie_2017_PKUER",
-      "path": "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md"
     },
     {
       "basename": "Knowledge Dashboard",
@@ -191,14 +199,6 @@
     {
       "basename": "Career Shuffling Method",
       "path": "wiki/methods/quantitative/Career Shuffling Method.md"
-    },
-    {
-      "basename": "Campbell and Stanley Notation System",
-      "path": "wiki/methods/quantitative/Campbell and Stanley Notation System.md"
-    },
-    {
-      "basename": "Blinding",
-      "path": "wiki/methods/quantitative/Blinding.md"
     }
   ],
   "omittedPaths": [],

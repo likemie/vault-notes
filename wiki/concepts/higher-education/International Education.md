@@ -54,6 +54,7 @@ related_methods: []
 related_persons:
   - "[[Robert Arnove]]"
   - "[[Alec Peterson]]"
+  - "[[Iveta Silova]]"
 related_facts:
   - "[[Founding of the International Baccalaureate]]"
   - "[[PISA]]"
@@ -84,6 +85,7 @@ related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt_Ch04]]"
   - "[[Argument_Kuortti_2025_JEdPolicy]]"
   - "[[Argument_Rust_2009_Reflections]]"
+  - "[[Argument_Silova_2009_EE]]"
 confidence: high
 status: active
 created: 2026-05-16
@@ -95,7 +97,7 @@ updated: 2026-11-20
 > [!def] International Education
 > **国际教育（International Education）** 是跨越单一国家教育边界组织人员、共同生活、课程、教学、评价和资格承认的教育实践与制度。它既指以跨文化理解、共同责任和多元思维方式为目的的教育计划，也指全球化条件下学生与[[Teacher Mobility|教师流动]]、课程跨境采用、[[International Schools|国际学校]]、[[International Branch Campus|海外分校]]、跨国评价和教育市场形成的制度现象；当代进一步拓展出由[[Developmental State|发展型国家]]通过全额资助推动南南产能与地缘走廊建设的战略性治理形态。前者强调教育要改变怎样的人与关系，后者强调教育活动如何跨越国家管辖、进入全球网络与地缘战略协作。[[Argument_Peterson_1987_OpenCourt_Ch01|(Peterson, 1987, pp. 1–13)]]; [[Argument_Peterson_1987_OpenCourt_Ch02|(Peterson, 1987, pp. 15–31)]]; [[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 1–5, 19–31)]]; [[Argument_Woo_2023_HEP|(Woo, 2023, pp. 688–692)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 国家边界不再独占学生归属、课程内容、评价标准和资格效力；人员与制度可在多个教育系统之间流动、组合或受国家地缘战略统筹调度。
 > - **用途** 帮助研究者透视跨文化共同生活如何被组织，以及学校、课程、考试、大学承认、流动市场、全球比较与国家对外合作走廊如何共同构成[[Transnational Education|跨国教育]]空间。
 > - **边界** 仅有外国学生、英语教学、海外校址或全球排名，不足以自动证明教育具有跨文化理解和制度去国家化；需要继续检验课程来源、互动方式、权力结构与资格承认。
@@ -207,6 +209,7 @@ updated: 2026-11-20
 > [!dev-timeline] 概念演变
 > - **20 世纪中期以前 — 民族国家教育基线与殖民前哨** 中小学由地方税收支持，早期海外学校多是殖民或侨民前哨，把母国课程移植到境外，尚未建立真正共同的国际课程。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 3–5, 19–24)]]
 > - **1945–1970 年代 — 共同生活实验与战后有限再分配多边主义** [[UNESCO|联合国教科文组织]]主导战后多边主义，支持新兴民族国家扫盲与公立教育建设。同时大西洋学院开展跨文化实验，推动六学科与考试网络建立，1976 年确立常设国际组织。[[Argument_Peterson_1987_OpenCourt_Ch01|(Peterson, 1987, pp. 1–13)]]; [[Argument_Peterson_1987_OpenCourt_Ch04|(Peterson, 1987, pp. 61–97)]]
+> - **1968 — 比较与国际教育学会（CIES）定名与建制整合** 北美比较教育学会（CES）正式更名为比较与国际教育学会（Comparative and International Education Society, CIES），标志着比较学术研究与战后国际教育援助、技术咨询及跨国交流项目的建制融合。[[Argument_Silova_2009_EE|(Silova, 2009, pp. 20–22)]]
 > - **1980 年代 — 债务危机与防卫性规训多边主义** 全球南方债务危机爆发后，国际教育治理主导权自教科文组织转向[[World Bank|世界银行]]与 [[International Monetary Fund|IMF]]，通过结构调整推行紧缩与收取学杂费，教育被重塑为服务经济增长的工具。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
 > - **1990 年代至 2000 年代初 — 大众流动与 WTO/GATS 贸易规制扩张** 留学生流动急剧增长；1995 年世贸组织实施《服务贸易总协定》，国际教育确立为跨国服务贸易门类；2000 年 PISA 与大学排名系统将教育机构置入全球共同测量序列。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 1–18)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 > - **2020 年代 — 发展型国家地缘战略资助模式** [[Argument_Woo_2023_HEP|Woo (2023)]] 系统剖析国际教育从西方新自由主义主导的高额学费出口创汇市场，拓展为由国家全额奖学金与基建产能配套支撑的地缘战略公法工具，并实证诊断其内在脆弱性。
