@@ -73,7 +73,7 @@ title: "Argument_Lim_2013_APJE"
 argument_key: "Argument_Lim_2013_APJE"
 argument_display_title: "Meritocracy, elitism, and egalitarianism: A preliminary and provisional assessment of Singapore’s primary education review"
 argument_kind: "journal-article"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"

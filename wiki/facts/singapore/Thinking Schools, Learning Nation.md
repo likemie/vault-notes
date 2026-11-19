@@ -53,6 +53,7 @@ related_methods:
   - "[[External Auditor]]"
 related_instruments: []
 related_persons:
+  - "[[Goh Chok Tong]]"
   - "[[Zongyi Deng]]"
   - "[[Saravanan Gopinathan]]"
 related_facts:
@@ -80,7 +81,7 @@ updated: 2026-11-19
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 1997 年 6 月由新加坡总理吴作栋（Goh Chok Tong）在第七届国际思维大会上正式宣告。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 456)]]
+> - **发布时间 / 发布主体** 1997 年 6 月由新加坡总理[[Goh Chok Tong|吴作栋]]（Goh Chok Tong）在第七届国际思维大会上正式宣告。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 456)]]
 > - **适用地区 / 对象** 新加坡全国中小学、初级学院、理工学院及高等学府，覆盖全体在校师生与教育行政管理人员。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 60–61)]]
 > - **问题背景** 1990 年代末[[1997 Asian Financial Crisis|亚洲金融危机]]前夕，全球化与[[Knowledge-Based Economy|知识经济]]崛起对传统劳动力密集型和[[Rote Learning|死记硬背]]式技能提出严峻挑战，单一[[Examination-Oriented Education|应试教育]]无法支撑以技术创新和[[Knowledge Production|知识生产]]为驱动的产业格局。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 456)]]
 > - **制度位置** 构成了新加坡自独立以来继生存驱动型（1959–1978）、效率驱动型（1979–1996，以《[[Goh Report|吴庆瑞报告]]》为标志）之后的第三个重大历史阶段——[[Ability-Driven Education|能力驱动型教育]]（1997 至今）的顶层政策纲领。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 456)]]

@@ -30,6 +30,8 @@ related_concepts:
   - "[[Pedagogical Hybridity]]"
   - "[[Direct Instruction]]"
   - "[[Academic Achievement]]"
+  - "[[Structured Teaching]]"
+  - "[[Curriculum Alignment]]"
 related_theories: []
 related_methods:
   - "[[Survey Research]]"
@@ -104,6 +106,20 @@ updated: 2026-11-19
 
 ---
 
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Singapore Ministry of Education]] | 事实 | CRPP 的发起设立部门与重大研究经费全额资助方。 |
+> | [[National Institute of Education]] | 事实 | CRPP 的依托母体机构，新加坡唯一的国立师资培训学院。 |
+> | [[Core 2 Research Program]] | 事实 | CRPP 实施的核心纵向课堂追踪研究项目（2008–2012）。 |
+> | [[David Hogan]] | 人物 | 曾任 CRPP 研究总监，领衔开展 Core 2 研究并系统建构教学杂糅分析模型。 |
+> | [[Pedagogical Hybridity]] | 概念 | CRPP 课堂实证研究所揭示的新加坡微观课堂核心教学形态。 |
+> | [[Direct Instruction]] | 概念 | CRPP 调查证实构成新加坡课堂稳固基础的[[Structured Teaching|结构化教学]]法。 |
+> | [[Curriculum Alignment]] | 概念 | CRPP 揭示的新加坡高利害考试与课堂练习题集紧密铆合的治理特征。 |
+
+---
+
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 系统整合 CRPP 核心项目收集的大规模课堂录像实证，解构跨国咨询报告对新加坡高绩效模式的去情境化神话。
-> - [[Argument_Hogan_2013_ROE|Hogan et al. (2013)]] — 基于 CRPP 对新加坡中学课堂的多变量统计建模，提出教学杂糅理论并验证直接教学对应试成就的预测力。
+> - [[Argument_Hogan_2013_ROE|Hogan et al. (2013)]] — 基于 CRPP Core 2 项目对新加坡 32 所中学课堂的多变量统计建模，提出教学杂糅理论并验证直接教学对应试成就的预测力。

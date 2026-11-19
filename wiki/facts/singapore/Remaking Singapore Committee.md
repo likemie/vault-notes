@@ -24,14 +24,24 @@ tags:
   - theme/citizenship-education
   - theme/educational-governance
 related_concepts:
+  - "[[Soft Power]]"
+  - "[[Creativity]]"
+  - "[[School Autonomy]]"
+  - "[[Early-Career Researchers]]"
+  - "[[Success Criteria]]"
+  - "[[Discourse]]"
   - "[[Tactical Marketisation]]"
 related_theories:
   - "[[Developmental State]]"
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Goh Chok Tong]]"
+  - "[[Saravanan Gopinathan]]"
 related_facts:
   - "[[Economic Review Committee 2002]]"
+  - "[[Engineering Research Centers]]"
+  - "[[National Education]]"
   - "[[Singapore National Education]]"
 related_arguments:
   - "[[Argument_Gopinathan_2007_GSE]]"
@@ -44,10 +54,10 @@ updated: 2026-11-19
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2002 年 2 月由新加坡总理吴作栋倡议成立，国家发展部兼贸易及工业部高级政务部长维文（Vivian Balakrishnan）出任主席，于 2003 年 7 月向内阁正式递交总报告。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 64–65)]]
+> - **发布时间 / 发布主体** 2002 年 2 月由新加坡总理[[Goh Chok Tong|吴作栋]]倡议成立，国家发展部兼贸易及工业部高级政务部长维文（Vivian Balakrishnan）出任主席，于 2003 年 7 月向内阁正式递交总报告。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 64–65)]]
 > - **适用地区 / 对象** 新加坡全国年轻一代公民、各级学校师生、民间社会团体与各族群社团。
 > - **问题背景** 世纪之交的新加坡面对经济放缓与地缘极端主义暗流，社会深层积累了青年流动倾向严重、过度依赖政府保姆式管控、畏惧冒险失败以及文化均质僵化等结构性弊端，亟需从制度文化上打破“自上而下”一元包办的规制旧规。
-> - **制度位置** 作为与“2002年经济检讨委员会”（ERC）并驾齐驱的社会政治重塑工程，ERC 聚焦于经济产业与市场硬件重组，而重塑新加坡委员会则侧重于社会价值、教育文化与公民软实力的制度焕新。
+> - **制度位置** 作为与“[[Economic Review Committee 2002|2002年经济检讨委员会]]”（[[Engineering Research Centers|ERC]]）并驾齐驱的社会政治重塑工程，ERC 聚焦于经济产业与市场硬件重组，而重塑新加坡委员会则侧重于社会价值、教育文化与公民[[Soft Power|软实力]]的制度焕新。
 
 ---
 
@@ -55,13 +65,13 @@ updated: 2026-11-19
 > 委员会通过倡导包容多元选择、鼓励自主探索与宽容创新失败的新社会价值观，推动国家治理体制在文化与教育层面松绑，为年轻一代开辟个性化才能发挥通道，以巩固城邦国家的社会凝聚力与本土认同。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 64–66)]]
 
 > [!policy-design] 政策设计
-> - **政策目标** 激发全社会民间能动性，消除压抑创造力与个人主动性的陈旧规则，将新加坡塑造为充满生机、富有同情心与高度韧性的多元现代家园。
+> - **政策目标** 激发全社会民间能动性，消除压抑[[Creativity|创造力]]与个人主动性的陈旧规则，将新加坡塑造为充满生机、富有同情心与高度韧性的多元现代家园。
 > - **适用对象** 青少年学生、创意文化从业者、草根公益组织及各类跨文化社群。
-> - **政策工具** 设立超越单一指标（Beyond SBS - Single Benchmark of Success）工作小组，倡导多元评价基准；建议政府进一步放宽学校自主办学与多元学轨准入；支持设立艺术专门学校与扩大课外社区志愿服务自主权；出台包容边缘弱势群体参与社会建设的制度保障。
-> - **约束机制** 所有放权举措依然牢牢维系在国家宪法框架、族群和谐底线与国民教育核心信条之内，确保开放多元不以牺牲国家安全与政治稳定为代价。
+> - **政策工具** 设立超越单一指标（Beyond SBS - Single Benchmark of Success）工作小组，倡导多元评价基准；建议政府进一步放宽[[School Autonomy|学校自主]]办学与多元学轨准入；支持设立艺术专门学校与扩大课外社区志愿服务自主权；出台包容边缘弱势群体参与社会建设的制度保障。
+> - **约束机制** 所有放权举措依然牢牢维系在国家宪法框架、族群和谐底线与[[National Education|国民教育]]核心信条之内，确保开放多元不以牺牲国家安全与政治稳定为代价。
 
 > [!citation-card] 重塑委员会与经济检讨委员会的政策协同
-> 高平纳坦深入指出，在评估强发展型国家是否在全球化压力下退场时，必须注意到政府在 2002 年设立的经济检讨委员会与 2003 年重塑新加坡委员会。这两大专责委员会的建言深刻塑造了教育政策的走势。其核心共识在于全球化带来的挑战无法回避，必须通过制度变革正面应对。政策制定者认同国家需要从原有的管控与限制立场，转向为社会和企业赋予更多空间、选择与灵活性。这一系列的战略逻辑，直接对应并推动了教育系统内部由一元统管走向结构放权的深层调整。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 64–65)]]
+> [[Saravanan Gopinathan|高平纳坦]]深入指出，在评估强[[Developmental State|发展型国家]]是否在全球化压力下退场时，必须注意到政府在 2002 年设立的经济检讨委员会与 2003 年重塑新加坡委员会。这两大专责委员会的建言深刻塑造了教育政策的走势。其核心共识在于全球化带来的挑战无法回避，必须通过制度变革正面应对。政策制定者认同国家需要从原有的管控与限制立场，转向为社会和企业赋予更多空间、选择与灵活性。这一系列的战略逻辑，直接对应并推动了教育系统内部由一元统管走向结构放权的深层调整。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 64–65)]]
 >
 > *Most notable of the review efforts are the Economic Review (2002) and the Remaking Singapore (2003) committees set up by the Government to review policies, and many recommendations from these reports touch on education policy. The essential thrust of these reports is that globalisation's challenges cannot be avoided... There is an acceptance that the state ought to reduce its roles... to a more facilitative stance, and generally allow businesses more space, choice and flexibility...*
 
@@ -77,13 +87,13 @@ updated: 2026-11-19
 ---
 
 > [!actor-grid] 实施角色分工
-> - **领导机构** 重塑新加坡委员会指导委员会，由青年学者、非政府组织代表及商界新锐跨界组成。
+> - **领导机构** 重塑新加坡委员会指导委员会，由[[Early-Career Researchers|青年学者]]、非政府组织代表及商界新锐跨界组成。
 > - **对接部门** 教育部、文化社区及青年部（MCCY）与国家发展部，负责将报告建议转化为具体法规政策。
 > - **执行载体** 中小学、青年志愿团体及社区基层发展理事会，打造多元创新试验项目。
 > - **政策工具** 公众对话机制、青年创意基金、非学术才艺孵化项目及社会参与试点特许。
 
 > [!pathways] 实施路径
-> - **破除单一成功标准** 推动教育系统打破以学业总分为唯一通衢的制度惯性，在公共话语中确立对工匠精神、艺术创造及社会奉献的同等尊崇。
+> - **破除单一[[Success Criteria|成功标准]]** 推动教育系统打破以学业总分为唯一通衢的制度惯性，在公共[[Discourse|话语]]中确立对工匠精神、艺术创造及社会奉献的同等尊崇。
 > - **扩大基层试错空间** 降低草根社团与青年自发组织公益活动的行政申报审批门槛，培育敢为人先的公民自主精神。
 > - **赋权学校特色实验** 鼓励公立学校结合社区资源开发校本非传统课程模块，为不同背景学生提供展示自我价值的平台。
 

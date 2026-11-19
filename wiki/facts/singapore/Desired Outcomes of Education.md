@@ -46,6 +46,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Saravanan Gopinathan]]"
+  - "[[Goh Chok Tong]]"
 related_facts:
   - "[[Singapore Ministry of Education]]"
   - "[[Ministry of Education of the People's Republic of China]]"
@@ -89,7 +90,7 @@ updated: 2026-11-19
 ---
 
 > [!timeline] 政策时间线
-> - 1997 年 6 月 教育部在时任总理吴作栋宣布 TSLN 后，正式出台首版分学段《教育期望成果》框架。
+> - 1997 年 6 月 教育部在时任总理[[Goh Chok Tong|吴作栋]]宣布 TSLN 后，正式出台首版分学段《教育期望成果》框架。
 > - 1998 期望成果指标全面嵌入全岛中小学各学科大纲的前言与课程总目标规程。
 > - 2000 依托学校卓越成就模型（SEM），期望成果被纳为学校质量保证自评体系的核心产出维度。
 > - 2009 教育部展开系统检讨，正式发布《21 世纪核心素养与教育期望成果》（21st Century Competencies and Desired Outcomes of Education），确立四大核心品格总括画像。

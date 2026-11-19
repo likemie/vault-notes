@@ -51,12 +51,14 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Anne Pakir]]"
+  - "[[Goh Chok Tong]]"
   - "[[Lee Kuan Yew]]"
 related_facts:
   - "[[National Institute of Education]]"
   - "[[STELLAR Program]]"
   - "[[Primary School Leaving Examination]]"
   - "[[Singapore Ministry of Education]]"
+  - "[[Teaching and Learning of Science and Mathematics in English]]"
   - "[[OECD]]"
   - "[[Speak Good English Movement]]"
 related_arguments: []
@@ -72,7 +74,7 @@ title: "Argument_Chua_2011_CILP"
 argument_key: "Argument_Chua_2011_CILP"
 argument_display_title: "Singapore’s E(Si)nglish-knowing bilingualism"
 argument_kind: "journal-article"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -115,7 +117,7 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |---|---|
 > | **政策文献与大纲文本分析**<br>[[Documentary Analysis]] | 系统梳理新加坡 1958 年《教育法令》、1988 年《托儿所法令》、1981/1991/2001/2010 年四版公立小学英语教学大纲（English Language Syllabus, EL Syllabus）及 STELLAR 规程文本。 |
-> | **跨国制度与成效比较分析** | 将新加坡的语言教育规划模式与马来西亚英语教数理政策（Teaching and Learning of Science and Mathematics in English, PPSMI）撤回、文莱双语模式（Dwibahasa）及孟加拉国英语媒介语短板的制度执行力度与社会语境展开横向对照。 |
+> | **跨国制度与成效比较分析** | 将新加坡的语言教育规划模式与[[Teaching and Learning of Science and Mathematics in English\|马来西亚英语教数理政策（Teaching and Learning of Science and Mathematics in English, PPSMI）]]撤回、文莱双语模式（Dwibahasa）及孟加拉国英语媒介语短板的制度执行力度与社会语境展开横向对照。 |
 > | **官方财政与学业实证统计追踪** | 汇总新加坡财政部 2001 至 2010 财年教育预算总表、[[OECD\|经济合作与发展组织（Organisation for Economic Co-operation and Development, OECD）]]2007 年公共教育支出数据、2000 至 2009 年小学离校考试（PSLE）标准英语及格率与 2000 年人口普查语言数据。 |
 > | **大众媒体与社会语言案例考察** | 追踪[[Speak Good English Movement\|讲正确英语运动（Speak Good English Movement, SGEM）]]历年宣传物料、官方讲话，并调取海峡时报在线互动平台（Straits Times Online Mobile Print, STOMP）日常商业广告中的语言混杂实例展开语用分析。 |
 
@@ -124,7 +126,7 @@ issuing_organization: ""
 > |---|---|
 > | **政策法规与指导文件** | 新加坡 1958 年《教育法令》（Education Act）、1988 年《托儿所法令》（Childcare Centres Act）、教育部四版小学英语大纲、2008 年 STELLAR 官方手册、2011 年学前培育大纲。 |
 > | **财政与学业统计序列** | 2001–2010 财年新加坡教育部支出（62.40 亿至 96.92 亿新元）与总预算比率；2000–2009 年小学离校考试（PSLE）英文 A*–C 级通过率统计（97.5%–98.9%）；OECD 2007 年公共教育支出占 GDP 比率。 |
-> | **历史演讲与田野语料** | 李光耀建国演讲与 2009 年讲华语运动三十周年演讲；吴作栋 2000 年讲正确英语运动启动演说；新加坡报章《星期日泰晤士报》补习调查（Toh, 2008）；STOMP 商业广告语料。 |
+> | **历史演讲与田野语料** | 李光耀建国演讲与 2009 年讲华语运动三十周年演讲；[[Goh Chok Tong\|吴作栋]] 2000 年讲正确英语运动启动演说；新加坡报章《星期日泰晤士报》补习调查（Toh, 2008）；STOMP 商业广告语料。 |
 
 ---
 
@@ -186,7 +188,7 @@ issuing_organization: ""
 > [!row-contrast] 东南亚及南亚国家英语媒介语政策横向对比
 > | 国家 | 政策举措与实施机制 | 受挫症结与实践困境 | 制度结果与现状 |
 > |---|---|---|---|
-> | **马来西亚** | 2003 年推行英语教数理政策（PPSMI） | 农村学校师资英语水平薄弱，引发母语团体强烈政治反弹（Ali et al., 2011；Hamid, 2010） | 2009 年宣布废止，2012 年重回马来语和族群母语为主导的媒介语体系 |
+> | **马来西亚** | 2003 年推行[[Teaching and Learning of Science and Mathematics in English\|英语教数理政策（PPSMI）]] | 农村学校师资英语水平薄弱，引发母语团体强烈政治反弹（Ali et al., 2011；Hamid, 2010） | 2009 年宣布废止，2012 年重回马来语和族群母语为主导的媒介语体系 |
 > | **文莱** | 1984 年确立双语教育体制（Dwibahasa） | 课堂教学中师生频繁在马来语与英语间杂糅[[Code-Switching\|语码转换]]（Wood et al., 2009） | 标准英语流利度未能达到预期标准，双语转译存在断层 |
 > | **孟加拉国** | 尝试在基础教育引入英语媒介课程 | 缺乏统一师资培训与教材配套，大众教育缺少浸润时间（Hamid, 2010） | 英语沦为少数精英阶层的阶级特权工具，大众普及受挫 |
 > | **新加坡** | 构建准入、师资、课程与财政八维全方位干预网络 | 早期面临族群母语藩篱与文化认同抗拒，后转向实用主义双语制 | 英语成为行政、司法与商务中枢语言，实现全员普惠掌握 |

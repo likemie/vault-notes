@@ -33,7 +33,8 @@ related_theories:
   - "[[Kaplan and Baldauf's Language-in-Education Planning Framework]]"
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Goh Chok Tong]]"
 related_facts:
   - "[[National Institute of Education]]"
 related_arguments:
@@ -47,7 +48,7 @@ updated: 2026-11-18
 ---
 
 > [!claim] 项目定位
-> 讲正确英语运动（Speak Good English Movement, SGEM）是由新加坡时任总理吴作栋（Goh Chok Tong）于 2000 年 4 月发起的全国性语言倡导项目，旨在全社会推行语法规范、发音清晰、国际认可的标准英语，遏制并扭转[[Singlish|新加坡式英语]]的流行态势，确立国民在国际化经济分工中的优质语言资本。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 128, 139–140)]]
+> 讲正确英语运动（Speak Good English Movement, SGEM）是由新加坡时任总理[[Goh Chok Tong|吴作栋]]（Goh Chok Tong）于 2000 年 4 月发起的全国性语言倡导项目，旨在全社会推行语法规范、发音清晰、国际认可的标准英语，遏制并扭转[[Singlish|新加坡式英语]]的流行态势，确立国民在国际化经济分工中的优质语言资本。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 128, 139–140)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2000 年 4 月 29 日在新加坡工艺教育学院（Institute of Technical Education, [[Initial Teacher Training|ITE]]）总部礼堂正式启动，作为年度常态化运动持续开展至今。[[Argument_Chua_2011_CILP|(Chua, 2011, p. 139)]]

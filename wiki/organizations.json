@@ -229,6 +229,8 @@
         "ASEAN Plus Three Working Group on Mobility and Quality Assurance of Higher Education",
         "东盟与中日韩高等教育流动与质量保障工作组",
         "东盟10+3高等教育流动与质量保障工作组",
+        "东盟+3 高教流动与质保工作组",
+        "东盟+3高教流动与质保工作组",
         "APT-WG",
         "ASEAN Plus Three Working Group"
       ]
@@ -3772,6 +3774,11 @@
     "Ministry of Education and Science of the Russian Federation": {
       "seen_in": [
         "wiki/facts/russia/Project 5-100.md"
+      ]
+    },
+    "Ministry of Education Malaysia": {
+      "seen_in": [
+        "wiki/facts/malaysia/Teaching and Learning of Science and Mathematics in English.md"
       ]
     },
     "Ministry of Education of the Republic of China": {

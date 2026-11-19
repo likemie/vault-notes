@@ -40,6 +40,7 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Saravanan Gopinathan]]"
+  - "[[Goh Chok Tong]]"
 related_facts:
   - "[[Singapore Ministry of Education]]"
   - "[[Ministry of Education of the People's Republic of China]]"
@@ -82,7 +83,7 @@ updated: 2026-11-19
 ---
 
 > [!timeline] 政策时间线
-> - 1996 时任总理吴作栋在国庆群众大会上指出年轻一代对国家历史与生存考验认识不足，指示展开国家认同教育改革。
+> - 1996 时任总理[[Goh Chok Tong|吴作栋]]在国庆群众大会上指出年轻一代对国家历史与生存考验认识不足，指示展开国家认同教育改革。
 > - 1997 年 5 月 副总理李显龙正式发布国民教育政策，明确六大核心信条（新加坡是我们的家园、我们必须守护族群与宗教和谐等）。
 > - 1998 社区参与计划（CIP）全面列为中小学必修课外评价要求，要求每名学生每年至少完成特定时数的公益志愿服务。
 > - 2000 结合四大节庆纪念日的国民教育体验学习日成为全岛所有学校的制度化校历规范。

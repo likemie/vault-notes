@@ -34706,6 +34706,15 @@
     ]
   },
   {
+    "title": "Goh Chok Tong",
+    "type": "person",
+    "path": "wiki/persons/singapore/Goh Chok Tong.md",
+    "aliases": [
+      "吴作栋",
+      "Goh, C. T."
+    ]
+  },
+  {
     "title": "Goh Keng Swee",
     "type": "person",
     "path": "wiki/persons/singapore/Goh Keng Swee.md",
@@ -46254,6 +46263,19 @@
     "subtype": "program"
   },
   {
+    "title": "Teaching and Learning of Science and Mathematics in English",
+    "type": "fact",
+    "path": "wiki/facts/malaysia/Teaching and Learning of Science and Mathematics in English.md",
+    "aliases": [
+      "英语教数理政策",
+      "PPSMI",
+      "Pengajaran dan Pembelajaran Sains dan Matematik dalam Bahasa Inggeris",
+      "ETeMS",
+      "English for the Teaching of Mathematics and Science"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Mexican Educational Modernization of 1992",
     "type": "fact",
     "path": "wiki/facts/mexico/Mexican Educational Modernization of 1992.md",
@@ -46392,6 +46414,8 @@
     "aliases": [
       "东盟与中日韩高等教育流动与质量保障工作组",
       "东盟10+3高等教育流动与质量保障工作组",
+      "东盟+3 高教流动与质保工作组",
+      "东盟+3高教流动与质保工作组",
       "APT-WG",
       "ASEAN Plus Three Working Group"
     ],

@@ -35,6 +35,7 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Lee Kuan Yew]]"
+  - "[[Goh Chok Tong]]"
 related_facts:
   - "[[ASEAN Credit Transfer System]]"
   - "[[Speak Good English Movement]]"
@@ -96,7 +97,7 @@ updated: 2026-11-19
 > [!person-network] 关系网络
 > - **学术同仁与研究伙伴** 埃琳·胡（Guangwei Hu）— 共同开展新加坡双语教育与阅读素养研究。
 > - **理论对话者** 布拉杰·卡克鲁（Braj Kachru）— 借鉴其世界英语同心圆模型，发展出新加坡懂英语者扩展三角架构。
-> - **政策分析对象** [[Lee Kuan Yew|李光耀]]与吴作栋 — 深入分析两位政治领袖主导的语言政策与国家运动。
+> - **政策分析对象** [[Lee Kuan Yew|李光耀]]与[[Goh Chok Tong|吴作栋]] — 深入分析两位政治领袖主导的语言政策与国家运动。
 
 ---
 

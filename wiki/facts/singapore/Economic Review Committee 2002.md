@@ -39,6 +39,7 @@ related_theories:
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Goh Chok Tong]]"
   - "[[Saravanan Gopinathan]]"
 related_facts:
   - "[[Dot-Com Bubble]]"
@@ -59,7 +60,7 @@ updated: 2026-11-19
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2001 年 12 月由新加坡总理吴作栋宣布成立，副总理兼财政部长李显龙（Lee Hsien Loong）担任委员会主席，于 2002 年至 2003 年陆续出台核心报告。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 64–65)]]
+> - **发布时间 / 发布主体** 2001 年 12 月由新加坡总理[[Goh Chok Tong|吴作栋]]宣布成立，副总理兼财政部长李显龙（Lee Hsien Loong）担任委员会主席，于 2002 年至 2003 年陆续出台核心报告。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 64–65)]]
 > - **适用地区 / 对象** 新加坡全国宏观产业部门、公私营企业、劳动力市场管理机构及大专院校与职业教育系统。
 > - **问题背景** 2001 年新加坡遭遇建国以来最严重的经济衰退，GDP 负增长逾 2%，失业率飙升至接近 5%；受外商直接投资（FDI）占比下滑、中印庞大低薪劳动力池分流制造业以及全球[[Dot-Com Bubble|互联网泡沫]]破灭等多重冲击，传统的国家过度管制型模式难以为继，亟待系统重构经济生存基石。
 > - **制度位置** 属于新加坡国家发展史上的宏观经济重塑总纲，与同期的“[[Remaking Singapore Committee|重塑新加坡委员会]]”（Remaking Singapore Committee）并称新世纪城邦治理转型的双翼，其政策外溢效应深远重塑了教育与[[Human Capital Theory|人力资本]]战略。

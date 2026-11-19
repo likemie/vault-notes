@@ -11,9 +11,9 @@ subtype: policy
 region: singapore
 fact_region: "singapore"
 fact_kind: "policy"
-fact_related_count: 17
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 29
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "[[Singapore Ministry of Education]]"
 tags:
@@ -102,7 +102,7 @@ updated: 2026-11-19
 ---
 
 > [!actor-grid] 实施角色分工
-> - **[[Singapore Ministry of Education|新加坡教育部]]（Ministry of Education, MOE）** 统一编制两轮保密遴选测验试卷，全额核拨专属高额科研与教学经费，审批指定办学学校资质。
+> - **[[Singapore Ministry of Education|新加坡教育部]]（Ministry of Education, [[Ministry of Education of the People's Republic of China|MOE]]）** 统一编制两轮保密遴选测验试卷，全额核拨专属高额科研与教学经费，审批指定办学学校资质。
 > - **教育部资优教育处（GE Branch）** 专职负责研发 GEP 专属核心课程教材、追踪毕业生学业发展并对带教教师开展系统认证培训。
 > - **9 所指定小学（GEP Centres）** 设立独立于常规班级的特设教学班，提供高端实验室、多功能研讨室与[[Mentorship|导师制]]关怀。
 > - **受训骨干教师团队** 放弃照本宣科的传统讲授，依托启发式对话、探究性实验与个性化课题探究指导引导学生自主[[Constructed Knowledge|建构知识]]。
@@ -158,5 +158,5 @@ updated: 2026-11-19
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Lim_2015_CurricInq|Lim and Apple (2015)]] — 实证剖析新加坡小学三年级 GEP 选拔如何作为早期分轨节点，与独立高中课程形态共同维系社会优势阶层的权力再生产。
-> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 结合发展型国家人力规划，论述新加坡早期分流与资优英才培育对支撑国家工业化跃迁的制度逻辑。
+> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 结合发展型国家人力规划，论述新加坡早期分流与资优英才培育对支撑国家工业化结构升级的制度逻辑。
 > - [[Argument_Lim_2013_APJE|Lim (2013)]] — 探讨小学教育改革中均等化口号与 GEP 等传统拔尖通道之间的结构性张力。

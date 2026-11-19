@@ -71,6 +71,7 @@ related_persons:
   - "[[Goh Keng Swee]]"
   - "[[David Hogan]]"
   - "[[Larry Cuban]]"
+  - "[[Goh Chok Tong]]"
   - "[[Bob Lingard]]"
 related_facts:
   - "[[PISA]]"
@@ -248,7 +249,7 @@ issuing_organization: ""
 >
 > - **[[Ability-Driven Education|能力驱动型教育]]（1997 至今）**
 >
->   面对[[Knowledge-Based Economy|知识经济]]冲击，1997 年吴作栋总理宣告实施 TSLN。统一削减一至两成教材内容，连续推出三轮 ICT Masterplan，引入专题[[Homework|作业]]与创新创业倡议，并深化为[[Teach Less, Learn More|少教多学]]（TLLM）。但高利害升学分流大考始终占据支配地位，促使学校在应试基本功与创新素养之间形成精明的[[Pragmatic Paradigm|实用主义]]平衡，更带动了全岛庞大的校外补习产业。
+>   面对[[Knowledge-Based Economy|知识经济]]冲击，1997 年[[Goh Chok Tong|吴作栋]]总理宣告实施 TSLN。统一削减一至两成教材内容，连续推出三轮 ICT Masterplan，引入专题[[Homework|作业]]与创新创业倡议，并深化为[[Teach Less, Learn More|少教多学]]（TLLM）。但高利害升学分流大考始终占据支配地位，促使学校在应试基本功与创新素养之间形成精明的[[Pragmatic Paradigm|实用主义]]平衡，更带动了全岛庞大的校外补习产业。
 
 > [!timeline] 新加坡半个世纪重大教育政策推进脉络
 > - 1956 《各党派华文教育委员会报告书》确立四种官方语言平等待遇与统一国家大纲。

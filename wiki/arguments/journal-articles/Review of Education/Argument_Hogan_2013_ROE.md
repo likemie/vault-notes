@@ -40,8 +40,9 @@ related_concepts:
   - "[[Co-regulated Learning]]"
   - "[[Metacognition]]"
   - "[[High-Stakes Testing]]"
+  - "[[Curriculum Alignment]]"
   - "[[Confucian Heritage Cultures]]"
-  - "[[Champ]]"
+  - "[[Academic Achievement]]"
   - "[[Operationalization]]"
   - "[[Homework]]"
   - "[[Rote Learning]]"
@@ -51,7 +52,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Peer-Supported Learning]]"
   - "[[Scaffolding]]"
-  - "[[Academic Achievement]]"
   - "[[Peer Assessment]]"
   - "[[Discourse]]"
   - "[[Reliability]]"
@@ -90,6 +90,7 @@ related_instruments: []
 related_persons:
   - "[[David Hogan]]"
   - "[[John Hattie]]"
+  - "[[Goh Chok Tong]]"
 related_facts:
   - "[[Teach Less, Learn More]]"
   - "[[National Institute of Education]]"
@@ -112,7 +113,7 @@ title: "Argument_Hogan_2013_ROE"
 argument_key: "Argument_Hogan_2013_ROE"
 argument_display_title: "Assessment and the logic of instructional practice in Secondary 3 English and mathematics classrooms in Singapore"
 argument_kind: "journal-article"
-argument_related_count: 66
+argument_related_count: 68
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -147,9 +148,10 @@ issuing_organization: ""
 > | **显性直接教学模型**<br>[[Direct Instruction]] | 刻画教师通过分步示范、内容结构化呈现、复习检测与针对性练习引导学生系统掌握[[Procedural Skill\|程序技能]]与良构知识的中介性策略。 |
 > | **共同调节学习理论**<br>[[Co-regulated Learning]] | 刻画学生在教师支架与同伴互动下，逐步将学习目标设立、反思监控与表现自评内化为[[Metacognition\|元认知调节]]能力的过程。 |
 > | **高利害评估与制度同构**<br>[[High-Stakes Testing]] | 剖析全国统一考试体制如何通过刚性升学问责与反向回冲效应，将学校微观教学牢固锁定在应试复现轨道上。 |
+> | **课程对齐理论**<br>[[Curriculum Alignment]] | 剖析全国统考大纲、商业复习题集与微观讲授操练之间的超强对齐，以及该对齐结构对渐进式大纲改革政策所造成的结构性阻断与规锁。 |
 
 > [!warrant]- 理论如何支撑论证
-> Hogan et al. (2013) 将社会学的新制度主义（Powell & DiMaggio, 1991; Scott, 1995）、文化认知论中的民俗教学法（Folk Pedagogy）（Bruner, 1996; Cohen, 1988）与认知学习论（Perkins, 1993, 1998; Rosenshine & Stevens, 1986）有机整合：在文化与心理层面，深植于[[Confucian Heritage Cultures|儒家文化圈]]（Confucian Heritage Cultures）的民俗教学法赋予了讲授操练以直觉合理性；在宏观制度层面，国家高利害考试构成了不可动摇的刚性制度[[Champ|场域]]，促使教师采取务实折衷的杂糅适应策略；在微观教学互动层面，结构方程模型检验了从低阶讲授到高阶探究之间的逐级依赖关系，论证了缺乏基础直接教学支撑的探究性改革在现实应试体系中无法孤立存活的认知与制度必然性。
+> Hogan et al. (2013) 将社会学的新制度主义（Powell & DiMaggio, 1991; Scott, 1995）、文化认知论中的民俗教学法（Folk Pedagogy）（Bruner, 1996; Cohen, 1988）与认知学习论（Perkins, 1993, 1998; Rosenshine & Stevens, 1986）有机整合：在文化与制度辨析层面，研究直接对话[[Confucian Heritage Cultures|儒家文化圈]]（Confucian Heritage Cultures）假说（Biggs & Watkins, 2001; Cheng, 1996），实证因果全模型确证教师的教学杂糅实质上是对国家高利害统考与升学问责环境的理性制度调适，打破了将东亚高[[Academic Achievement|学业表现]]归因于单一文化宿命论的理论设想；在宏观制度层面，国家统考与课堂练习之间构成了超强密度的[[Curriculum Alignment|课程对齐]]，将学校微观教学牢固锁定在应试复现轨道上，形成了对少教多学等探究性改革的刚性制度规锁；在微观教学互动层面，结构方程模型检验了从低阶讲授到高阶探究之间的逐级依赖关系，论证了缺乏基础直接教学支撑的探究性改革在现实应试体系中无法孤立存活的认知与制度必然性。
 
 ### 核心变量与操作化编码表
 
@@ -451,15 +453,15 @@ issuing_organization: ""
 ---
 
 > [!claim|step] 论证步骤四　全国统一升学考试死死锁住课堂，阻碍[[Inquiry-Based Learning|探究式教学]]改革落地
-> 新加坡教师的教学杂糅与绩效导向深刻植根于制度环境，受到[[Singapore-Cambridge GCE Ordinary Level|新加坡剑桥普通教育证书普通水准会考]]（Singapore-Cambridge [[Global Campaign for Education|GCE]] Ordinary Level, GCE O-Level）与[[Primary School Leaving Examination|小六离校考试]]（Primary School Leaving Examination, PSLE）等高利害考试体制的刚性规锁。
+> 新加坡教师的教学杂糅与绩效导向深刻植根于制度环境，受到[[Singapore-Cambridge GCE Ordinary Level|新加坡剑桥普通教育证书普通水准会考]]（Singapore-Cambridge [[Global Campaign for Education|GCE]] Ordinary Level, GCE O-Level）与[[Primary School Leaving Examination|小六离校考试]]（Primary School Leaving Examination, PSLE）等高利害考试体制的刚性规锁。微观教学实践与国家统考之间形成了极强的课程对齐（Curriculum Alignment），但与宏观渐进式课程改革政策构成了深刻的结构性脱节。
 
 > [!sub-claim] 1. 升学考试压倒教学改革，教师为求稳重回题海应试
 
-> [!tension] 探究大纲话语与应试评价标准的脱节（Kramer-Dahl, 2008）
+> [!tension] 双重课程对齐悖论：探究大纲话语与应试评价标准的脱节（Kramer-Dahl, 2008）
 > - **大纲倡导理念** 英语新课程大纲强调打破填鸭教学，推行过程写作法、[[Divergent Thinking|发散思维]]、真实交际与高级思维读写素养。
 > - **统考评价标准** 剑桥 O 水准考试评价依然严格侧重语法精度、固定文体结构与标准化题型套路。
 >
-> **生存理性妥协** 面对两者的深层断裂，一线教师迅速放弃探究尝试，全线退守至强化习题演练、词汇填空与样板背诵的基础回归防线。个案印证了 Cheah（1998）提出的应试型读写能力（examination-type literacy）机制：教师教学决策紧密服从于怎样做才能让最多学生通过统考的现实生存理性。
+> **生存理性妥协** 微观课堂教学、商业练习题集与高利害统考之间维持着紧密的结构对齐，而宏观探究大纲与统考评价指标之间发生深层断裂。面对这种双重课程对齐悖论，一线教师迅速放弃探究尝试，全线退守至强化习题演练、词汇填空与样板背诵的基础回归防线。个案印证了 Cheah（1998）提出的应试型读写能力（examination-type literacy）机制：教师教学决策紧密服从于怎样做才能让最多学生通过统考的现实生存理性。
 
 > [!case] 质性田野追踪个案：英语教师 Elise 在考试压力下的教学规避与回退
 > **个案背景** Elise 是新加坡一所普通中学的资深英语教师，参与了[[Singapore Ministry of Education|新加坡教育部]] 2001 年英语课程大纲实施实验。新大纲要求打破填鸭教学，推行过程写作法与[[Critical Thinking|批判性思维]]探究。
@@ -473,7 +475,7 @@ issuing_organization: ""
 
 > [!sub-claim] 2. 改革留给基层的两成自主时间被考前补习迅速占领
 
-> [!challenges] 自上而下分权倡议在基层的应试[[Alienation|异化]]（Goh, 1997; Scott, 1995）
+> [!challenges] 自上而下分权倡议在基层的应试[[Alienation|异化]]（[[Goh Chok Tong|吴作栋]]，Goh, 1997; Scott, 1995）
 > - **政策自主授权** 为推动[[Teach Less, Learn More|少教多学]]（TLLM），[[Singapore Ministry of Education|新加坡教育部]]推行留白空间（White Space）倡议，正式授权学校和教师将高达 20% 的正式课程课时自由支配，用于校本特色课程或探究性学习。
 > - **[[Institutional Isomorphism|制度同构]]吸纳** 实证调查与访谈显示，这 20% 的留白时间迅速转化为巩固知识点、加码模拟考刷题与查漏补缺的补习课时，偏离了预期的探究研讨设想。只要国家统考的题型难度与选拔功能保持刚性，给予基层的课时自主权必然被应试焦虑机制重新吸纳，呈现典型的组织社会学[[Institutional Isomorphism|制度同构]]与惯性复制。
 
