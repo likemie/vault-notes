@@ -46943,6 +46943,17 @@
     "subtype": "organization"
   },
   {
+    "title": "ASEAN Qualifications Reference Framework",
+    "type": "fact",
+    "path": "wiki/facts/multi/ASEAN Qualifications Reference Framework.md",
+    "aliases": [
+      "东盟资历参考框架",
+      "东盟资格参考框架",
+      "AQRF"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "ASEAN Work Plan on Education 2021-2025",
     "type": "fact",
     "path": "wiki/facts/multi/ASEAN Work Plan on Education 2021-2025.md",
@@ -47024,7 +47035,11 @@
     "path": "wiki/facts/multi/AIMS Programme.md",
     "aliases": [
       "亚洲国际学生流动计划",
+      "东盟国际学生流动项目",
       "Asian International Mobility for Students",
+      "ASEAN International Mobility for Students",
+      "ASEAN International Mobility for Students Programme",
+      "AIMS",
       "AIMS 项目"
     ],
     "subtype": "program"

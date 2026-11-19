@@ -37,8 +37,8 @@ related_persons: []
 related_facts:
   - "[[ASEAN Plus Three Working Group on Mobility and Quality Assurance of Higher Education]]"
   - "[[ASEAN University Network]]"
+  - "[[AIMS Programme]]"
   - "[[Bologna Process]]"
-  - "[[ASEAN International Mobility for Students]]"
 related_arguments:
   - "[[Argument_Dang_2017_ORE]]"
 confidence: high

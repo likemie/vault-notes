@@ -1,0 +1,14 @@
+{
+  "name": "recent-arguments-switcher",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "check": "tsc --noEmit",
+    "build": "esbuild src/main.ts --bundle --external:obsidian --format=cjs --platform=browser --target=es2020 --outfile=main.js"
+  },
+  "devDependencies": {
+    "esbuild": "0.27.3",
+    "obsidian": "1.12.2",
+    "typescript": "5.9.3"
+  }
+}

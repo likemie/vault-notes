@@ -35,7 +35,6 @@ related_concepts:
   - "[[Normative Power Europe]]"
   - "[[Document]]"
   - "[[Grandes Ecoles]]"
-  - "[[Student Mobility]]"
   - "[[Soft Power]]"
   - "[[Knowledge Production]]"
   - "[[Lifelong Learning]]"
@@ -63,8 +62,11 @@ related_facts:
   - "[[ASEAN University Network]]"
   - "[[SEAMEO]]"
   - "[[SEAMEO RIHED]]"
+  - "[[AIMS Programme]]"
+  - "[[ASEAN Qualifications Reference Framework]]"
   - "[[ASEAN Education Ministers Meeting]]"
   - "[[ASEAN Plus Three Working Group on Mobility and Quality Assurance of Higher Education]]"
+  - "[[CAMPUS Asia]]"
   - "[[European Commission]]"
   - "[[Asia-Europe Foundation]]"
   - "[[SHARE Programme]]"
@@ -87,7 +89,7 @@ title: "Argument_Dang_2017_ORE"
 argument_key: "Argument_Dang_2017_ORE"
 argument_display_title: "Regionalising higher education for repositioning Southeast Asia"
 argument_kind: "journal-article"
-argument_related_count: 50
+argument_related_count: 52
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -151,8 +153,8 @@ issuing_organization: ""
 > [!row-contrast] 高等教育区域主义三维因果机制对比矩阵
 > | 机制类型 | 空间维度与分析层次 | 核心驱动导向 | 规范基础与运作原则 | 关键机构与多边对话平台 | 标志性工程与规制工具 | 经验案例与言论表述 | 治理张力与现实局限 |
 > |---|---|---|---|---|---|---|---|
-> | **趋同协调**<br>（Harmonisation） | **东盟内部**<br>（Intra-ASEAN） | 经贸整合与[[Human Capital Theory\|人力资本]]储备提升 | 尊重多样性、自愿参与、循序渐进与求同存异 | [[SEAMEO\|东南亚教育部长组织（Southeast Asian Ministers of Education Organisation, SEAMEO）]] 与 [[ASEAN\|东盟]]教育部长会议（ASEAN Education Ministers Meeting, ASED）；[[SEAMEO RIHED\|东南亚教育部长组织高等教育与发展区域中心（SEAMEO Regional Centre for Higher Education and Development, SEAMEO RIHED）]] 与 [[ASEAN University Network\|东盟大学联盟（ASEAN University Network, AUN）]] | 东盟国际[[Student Mobility\|学生流动]]项目（ASEAN International Mobility for Students Programme, AIMS）、东盟质量保障网络（ASEAN Quality Assurance Network, AQAN）、东盟引文索引（ASEAN Citation Index, ACI）、东盟资历参考框架（ASEAN Qualifications Reference Framework, AQRF） | 亚洲专家提出交响乐团隐喻，将各成员国比作不同乐器协同演奏和谐乐章；东盟官员以教育领域的兄弟关系界定 SEAMEO 与 [[ASEAN Education Ministers Meeting\|ASED]] 的分工 | 协调进展缓慢，柬埔寨、老挝、缅甸等后发成员受制于财政与行政能力，在会议中往往陷入被动沉默 |
-> | **双向社会化**<br>（Socialisation） | **东亚次区域**<br>（ASEAN+3） | 平衡地缘大国竞争、扩大区域生源市场与提升[[Soft Power\|软实力]] | 适当性逻辑、照顾各方舒适度、协商一致与非正式多边规范 | 东盟与中日韩教育部长会议（ASEAN Plus Three Education Ministers Meeting, ASED+3）、高级官员会议（Senior Officials Meeting, SOM）与大学校长论坛 | [[ASEAN Plus Three Working Group on Mobility and Quality Assurance of Higher Education\|东盟与中日韩高等教育流动与质量保障工作组（ASEAN Plus Three Working Group on Mobility and Quality Assurance of Higher Education, APT-WG）]]、亚洲校园（Collective Action for Mobility Program of University Students in Asia, CAMPUS Asia）、东盟—韩国网络大学 | 中国官方以远亲不如近邻阐发睦邻政策；日方官员指出亚洲即便缺乏[[European Commission\|欧盟委员会]]同样能够连接多元流动机制 | 外部大国凭借优势资源主导优先议程设置，东盟内部学生流动占比仍偏低，面临单向人才流失风险 |
+> | **趋同协调**<br>（Harmonisation） | **东盟内部**<br>（Intra-ASEAN） | 经贸整合与[[Human Capital Theory\|人力资本]]储备提升 | 尊重多样性、自愿参与、循序渐进与求同存异 | [[SEAMEO\|东南亚教育部长组织（Southeast Asian Ministers of Education Organisation, SEAMEO）]] 与 [[ASEAN\|东盟]]教育部长会议（ASEAN Education Ministers Meeting, ASED）；[[SEAMEO RIHED\|东南亚教育部长组织高等教育与发展区域中心（SEAMEO Regional Centre for Higher Education and Development, SEAMEO RIHED）]] 与 [[ASEAN University Network\|东盟大学联盟（ASEAN University Network, AUN）]] | [[AIMS Programme|东盟国际学生流动项目]]（ASEAN International Mobility for Students Programme, AIMS）、东盟质量保障网络（ASEAN Quality Assurance Network, AQAN）、东盟引文索引（ASEAN Citation Index, ACI）、[[ASEAN Qualifications Reference Framework|东盟资历参考框架]]（ASEAN Qualifications Reference Framework, AQRF） | 亚洲专家提出交响乐团隐喻，将各成员国比作不同乐器协同演奏和谐乐章；东盟官员以教育领域的兄弟关系界定 SEAMEO 与 [[ASEAN Education Ministers Meeting\|ASED]] 的分工 | 协调进展缓慢，柬埔寨、老挝、缅甸等后发成员受制于财政与行政能力，在会议中往往陷入被动沉默 |
+> | **双向社会化**<br>（Socialisation） | **东亚次区域**<br>（ASEAN+3） | 平衡地缘大国竞争、扩大区域生源市场与提升[[Soft Power\|软实力]] | 适当性逻辑、照顾各方舒适度、协商一致与非正式多边规范 | 东盟与中日韩教育部长会议（ASEAN Plus Three Education Ministers Meeting, ASED+3）、高级官员会议（Senior Officials Meeting, SOM）与大学校长论坛 | [[ASEAN Plus Three Working Group on Mobility and Quality Assurance of Higher Education\|东盟与中日韩高等教育流动与质量保障工作组（ASEAN Plus Three Working Group on Mobility and Quality Assurance of Higher Education, APT-WG）]]、[[CAMPUS Asia|亚洲校园]]（Collective Action for Mobility Program of University Students in Asia, CAMPUS Asia）、东盟—韩国网络大学 | 中国官方以远亲不如近邻阐发睦邻政策；日方官员指出亚洲即便缺乏[[European Commission\|欧盟委员会]]同样能够连接多元流动机制 | 外部大国凭借优势资源主导优先议程设置，东盟内部学生流动占比仍偏低，面临单向人才流失风险 |
 > | **双向互学互鉴**<br>（Mutual Learning） | **亚欧跨洲区域**<br>（Inter-regional / ASEM） | 重塑对等伙伴关系、消解欧洲中心主义单向规制输出 | 主权平等、互相尊重、对等分享与双向[[Knowledge Production\|知识生成]] | [[Asia-Europe Meeting\|亚欧会议（ASEM）]]、亚欧教育部长会议（Asia-Europe Meeting of Ministers for Education, ASEM ME）与[[Asia-Europe Foundation\|亚欧基金会（Asia-Europe Foundation, ASEF）]] | 亚欧教育区（ASEM Education Area）、[[SHARE Programme\|欧盟支持东盟高等教育项目]]（[[EU\|European Union]] Support to Higher Education in the ASEAN Region, SHARE）、亚欧[[Lifelong Learning\|终身学习]]研究网络（ASEM Education and Research Hub for Lifelong Learning, ASEM LLL Hub） | 东盟秘书处官员明确拒绝克隆博洛尼亚模式并主张双向分享；欧洲专家借道东盟反思欧洲资历框架（[[European Qualifications Framework]], EQF）应用困境 | 欧洲资助计划存在跨区插手他人事务的外部干预疑虑，双向学生流动在规模上仍存在跨洲失衡现象 |
 
 ---
@@ -207,7 +209,7 @@ issuing_organization: ""
 > ![](https://img.mylikemie.icu/sources/Dang_2017_ORE/figures/Dang_2017_ORE_Fig1_ASEAN_Education_Cooperation_Structure.jpg)
 
 > [!feature] 自愿协调机制的务实技术工程支撑
-> - **学生流动网络（AIMS）** 在自愿互惠基础上连接 7 个成员国的 60 余所骨干大学，推行灵活学分转移，规避了刚性学制限制。
+> - **学生流动网络（[[AIMS Programme|AIMS]]）** 在自愿互惠基础上连接 7 个成员国的 60 余所骨干大学，推行灵活学分转移，规避了刚性学制限制。
 > - **本土质量保障（AQAN）** 协同东盟大学联盟质量保障网络（ASEAN University Network-Quality Assurance, AUN-QA）制定切合本土实情的质保指南，以同行评审代替超国家行政督导。
 > - **学术评价自主（ACI）** 创设东盟引文索引，填补东南亚本土科研成果长期被国际商业核心数据库边缘化的空白，建立区域学术评价话语权。
 
@@ -289,7 +291,7 @@ issuing_organization: ""
 > “启动 SHARE 项目时，欧洲伙伴必须认真倾听我们的声音。我们绝不盲目照搬博洛尼亚模式，我们只吸收符合本土需要的实践……分享绝不能是单方面的，必须建立双向机制让欧盟也能向东盟学习，东盟在许多领域完全有值得欧洲借鉴的好做法。”（东盟秘书处官员论 1000 万欧元欧盟支持东盟高等教育项目）
 
 > [!case] 欧洲专家的制度反思与涉嫌越界插手的争议
-> 欧洲教育专家在跨大洲研讨中坦率反思了欧洲自身政策工具的现实境遇：在欧洲本土，普通学生和雇主在求职招聘中很少把 EQF 当作过硬凭证。因此，欧洲专家渴望借道 AQRF 的比对协作，以发展中地区的试验田来反观欧洲本土工具的实效。与此同时，由于东盟框架本由澳大利亚与新西兰出资协助开发，欧洲 SHARE 项目的贸然插手引来了欧洲人插手他人势力范围的争议与质疑，迫使欧洲在亚洲同行面前放下优越心态，转入平等的务实技术对齐（Gilson, 2005）。
+> 欧洲教育专家在跨大洲研讨中坦率反思了欧洲自身政策工具的现实境遇：在欧洲本土，普通学生和雇主在求职招聘中很少把 EQF 当作过硬凭证。因此，欧洲专家渴望借道 [[ASEAN Qualifications Reference Framework|AQRF]] 的比对协作，以发展中地区的试验田来反观欧洲本土工具的实效。与此同时，由于东盟框架本由澳大利亚与新西兰出资协助开发，欧洲 SHARE 项目的贸然插手引来了欧洲人插手他人势力范围的争议与质疑，迫使欧洲在亚洲同行面前放下优越心态，转入平等的务实技术对齐（Gilson, 2005）。
 
 > [!quad-grid] 亚欧教育区（ASEM Education Area）四大常设优先支柱
 > - **质量保障与资历认证**
@@ -312,7 +314,7 @@ issuing_organization: ""
 > - **10** 成员国数量：东盟涵盖 10 个体制与文化高度异质的东南亚主权国家。
 > - **7400** 高等教育机构：东盟区域内部涵盖约 7400 所高校。
 > - **12M** 在校生规模：东盟内部高校在校生达到约 1200 万人。
-> - **> 60** 骨干高校：截至 2015 年，参与东盟国际学生流动项目（AIMS）的骨干大学超过 60 所。
+> - **> 60** 骨干高校：截至 2015 年，参与东盟国际学生流动项目（[[AIMS Programme|AIMS]]）的骨干大学超过 60 所。
 
 ---
 

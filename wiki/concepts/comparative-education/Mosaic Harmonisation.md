@@ -9,10 +9,10 @@ aliases:
 summary: "日本比较教育学者黑田一雄提出的跨国高等教育区域整合概念，用于概括非西方多元异质区域在推进跨国高等教育衔接时所采取的包容性合作范式；该模式与欧洲高等教育区消除体制分歧的“熔炉式协调”形成鲜明对照：马赛克式协调保留成员国的本土学制和教育主权，允许各国维持既有教育结构；各国通过自愿对标的转换接口、学分互认网络与资历元框架，逐步寻找教育体系的共同之处与衔接方式，形如形态色彩各异但拼合有序的马赛克整体图景。"
 type: concept
 domain: "comparative-education"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/comparative-education
   - concept/higher-education-regionalism
@@ -29,7 +29,9 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[ASEAN Qualifications Reference Framework]]"
   - "[[Bologna Process]]"
+  - "[[AIMS Programme]]"
   - "[[SEAMEO RIHED]]"
 related_arguments:
   - "[[Argument_Dang_2017_ORE]]"
@@ -42,7 +44,7 @@ updated: 2026-11-19
 ---
 
 > [!def] Mosaic Harmonisation
-> 马赛克式协调（Mosaic Harmonisation）是日本比较教育学者黑田一雄（Kazuo Kuroda, 2009）提出的跨国高等教育一体化概念，用于概括政治、经济、宗教与语言高度异质的区域（如东南亚）在推动跨国高等教育对接时所采取的包容性合作范式。该模式与欧洲高等教育区（EHEA）消除体制差异的“熔炉式协调（Melting Pot Harmonisation）”形成鲜明对照：马赛克式协调严格遵循“不干涉”规范与保护民族国家教育主权的底线，允许成员国保留现行学制法律和各自的学位周期。各国通过自愿对标的元框架（如 AQRF）、弹性学分转换接口与区域网络，以求同存异的审慎步骤寻找体系间的连接点，形如色彩各异但拼贴和谐的马赛克瓷砖整体图景。[[Argument_Dang_2017_ORE|(Dang, 2017, pp. 423–424)]]
+> 马赛克式协调（Mosaic Harmonisation）是日本比较教育学者黑田一雄（Kazuo Kuroda, 2009）提出的跨国高等教育一体化概念，用于概括政治、经济、宗教与语言高度异质的区域（如东南亚）在推动跨国高等教育对接时所采取的包容性合作范式。该模式与欧洲高等教育区（EHEA）消除体制差异的“熔炉式协调（Melting Pot Harmonisation）”形成鲜明对照：马赛克式协调严格遵循“不干涉”规范与保护民族国家教育主权的底线，允许成员国保留现行学制法律和各自的学位周期。各国通过自愿对标的元框架（如 [[ASEAN Qualifications Reference Framework|AQRF]]）、弹性学分转换接口与区域网络，以求同存异的审慎步骤寻找体系间的连接点，形如色彩各异但拼贴和谐的马赛克瓷砖整体图景。[[Argument_Dang_2017_ORE|(Dang, 2017, pp. 423–424)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向在完全承认与尊重各体系原生多样性的前提下，依托接口转换而非强制同质化推进跨国衔接的高教治理模式。
@@ -56,7 +58,7 @@ updated: 2026-11-19
 
 > [!boundary]- 概念边界
 > - 不等于 [[Bologna Process|博洛尼亚进程]]所推行的熔炉式结构趋同 — 博洛尼亚进程要求候选国接受统一的结构性改革问责，推行标准化的“3+2+3”学制对齐与资格框架立法；马赛克协调完全接纳各成员国学制现状。
-> - 不等于体制无序碎片化（Uncoordinated Fragmentation） — 马赛克协调借助明确的区域参照系与对标工具（如 AQRF、AIMS、ACTS）协调各国制度。
+> - 不等于体制无序碎片化（Uncoordinated Fragmentation） — 马赛克协调借助明确的区域参照系与对标工具（如 [[ASEAN Qualifications Reference Framework|AQRF]]、[[AIMS Programme|AIMS]]、ACTS）协调各国制度。
 
 ---
 
@@ -67,13 +69,13 @@ updated: 2026-11-19
 > | 实施路径 | 依托对标元框架设立转换接口 | 修改国内立法，强推统一学位周期 | 维持封闭的双边零星协议 |
 > | 文化隐喻 | 交响乐团（各自乐器奏出和谐交响） | 大熔炉（将所有金属熔铸为单一合金） | 散乱孤立的单件乐器 |
 > | 准入门槛 | 零门槛现状承认，自愿逐步对齐 | 刚性准入问卷与结构改革问责要求 | 无区域合作准入标准 |
-> | 代表案例 | 东南亚东盟（AQRF、AIMS） | 欧洲高等教育区博洛尼亚进程（EHEA） | 1990 年代以前的东南亚高教格局 |
+> | 代表案例 | 东南亚东盟（[[ASEAN Qualifications Reference Framework|AQRF]]、[[AIMS Programme|AIMS]]） | 欧洲高等教育区博洛尼亚进程（EHEA） | 1990 年代以前的东南亚高教格局 |
 
 ---
 
 > [!feature] 核心要素
-> - **原生多样性保护与现状承认（Status Quo Recognition）** 拒绝将任何单一成员国的体制奉为不可动摇的普适范本，充分包容各国的殖民历史渊源、宗教传统与学制差异。[[Argument_Dang_2017_ORE|(Dang, 2017, pp. 423–424)]]
-> - **接口对标与互换转换器（Interface Referencing）** 各国保留本土文凭，并借助东盟资历参考框架等工具，建立国家框架与区域框架之间的透明对应关系。[[Argument_Dang_2017_ORE|(Dang, 2017, pp. 423–424)]]
+> - **原生多样性保护与现状承认（Status Quo Recognition）** 拒绝将任何单一成员国的体制奉为不可动摇的普适范本，充分包容各国的殖民历史渊源、宗教传统与学制差异。
+> - **接口对标与互换转换器（Interface Referencing）** 各国保留本土文凭，并借助东盟资历参考框架等工具，建立国家框架与区域框架之间的透明对应关系。
 > - **交响乐团协奏哲学（Orchestra Metaphor）** 视各国独特办学传统为交响乐中不可替代的专属乐器，将跨国治理定性为共同演奏和谐乐章的持续旅程，而非设定一刀切终点的赛跑。[[Argument_Dang_2017_ORE|(Dang, 2017, pp. 423–424)]]
 
 > [!logic-map]- 要素关系
@@ -91,7 +93,7 @@ updated: 2026-11-19
 > **主权保护与功能整合的平衡** 阐明在制度差异悬殊的区域，马赛克范式如何化解超国家一体化与国家主权防卫之间的根本张力。
 
 > [!claim] Kuroda, K. & Dang, Q. A.
-> **多样性保护与区域互联的有机兼顾** 黑田一雄（Kuroda, 2009）与邓桂英（[[Argument_Dang_2017_ORE|Dang, 2017]]）实证揭示，东盟 10 国涵盖了由英美殖民遗产、大陆法系、苏联体制以及本土宗教传统遗留下来的高度碎片化高教生态，横跨 7,400 余所高校与 1,200 万学生。在此情境下，若照搬欧洲博洛尼亚的熔炉模式推行强制学制同质化，必然因触动各国的[[State Educational Sovereignty|国家教育主权]]而引发激烈反弹。马赛克式协调通过自愿参与和接口转换，使得越南、新加坡、缅甸与印度尼西亚等异质体制能够在不变更国内宪制的前提下，依托 AIMS 与 AQRF 建立人员流动与学分互认网络，创造性地平衡了主权独立与跨国流动的双重诉求。[[Argument_Dang_2017_ORE|(Dang, 2017, pp. 423–424)]]
+> **多样性保护与区域互联的有机兼顾** 黑田一雄（Kuroda, 2009）与邓桂英（[[Argument_Dang_2017_ORE|Dang, 2017]]）实证揭示，东盟 10 国涵盖了由英美殖民遗产、大陆法系、苏联体制以及本土宗教传统遗留下来的高度碎片化高教生态，横跨 7,400 余所高校与 1,200 万学生。在此情境下，若照搬欧洲博洛尼亚的熔炉模式推行强制学制同质化，必然因触动各国的[[State Educational Sovereignty|国家教育主权]]而引发激烈反弹。马赛克式协调通过自愿参与和接口转换，使得越南、新加坡、缅甸与印度尼西亚等异质体制能够在不变更国内宪制的前提下，依托 [[AIMS Programme|AIMS]] 与 [[ASEAN Qualifications Reference Framework|AQRF]] 建立人员流动与学分互认网络，创造性地平衡了主权独立与跨国流动的双重诉求。[[Argument_Dang_2017_ORE|(Dang, 2017, pp. 423–424)]]
 
 ---
 
@@ -114,7 +116,7 @@ updated: 2026-11-19
 > [!dev-timeline] 概念演变
 > - **2007 — 东南亚高教协调话语萌生** SEAMEO RIHED 举办“博洛尼亚进程的经验启示”高级研修班，协调一词首次进入东南亚区域高教官方视野。
 > - **2009 — 黑田一雄提出马赛克对偶范式** 黑田一雄系统提炼“马赛克式协调”与“熔炉式协调”的二元模型，奠定比较理论基石。
-> - **2012–2015 — 东盟标志性接口机制落地** 东盟资历参考框架（AQRF）与东盟国际学生流动项目（AIMS）相继建立，全面践行马赛克对齐哲学。
+> - **2012–2015 — 东盟标志性接口机制落地** [[ASEAN Qualifications Reference Framework|东盟资历参考框架]]（AQRF）与[[AIMS Programme|东盟国际学生流动项目]]（AIMS）相继建立，全面践行马赛克对齐哲学。
 > - **2017 — 邓桂英展开文化与因果机制实证** 结合交响乐团隐喻与亚欧比较，系统论证马赛克式协调在建构自为区域中的决定性动能。
 
 ---
@@ -146,6 +148,8 @@ updated: 2026-11-19
 > | [[Normative Power Europe]] | 概念 | 马赛克协调所坚决抵制的熔炉式单向规制输出力量。 |
 > | [[Bologna Process]] | 政策事实 | 熔炉式趋同的典型代表与东盟马赛克模式的参照系。 |
 > | [[SEAMEO RIHED]] | 组织事实 | 率先引介协调概念并组织高教马赛克接口研发的区域专门机构。 |
+| [[ASEAN Qualifications Reference Framework]] | 政策事实 | 东盟在尊重各国主权前提下设立的 8 级元参照系与通用翻译接口。[[Argument_Dang_2017_ORE\|(Dang, 2017, pp. 424–425)]] |
+| [[AIMS Programme]] | 项目事实 | 依托自愿对口学科互认践行马赛克协调范式的区域学生流动旗舰。[[Argument_Dang_2017_ORE\|(Dang, 2017, pp. 424–425)]] |
 
 ---
 

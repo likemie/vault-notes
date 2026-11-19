@@ -14,7 +14,7 @@ subtype: program
 region: multi
 fact_region: "multi"
 fact_kind: "program"
-fact_related_count: 16
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -29,8 +29,8 @@ tags:
   - region/southeast-asia
 related_concepts:
   - "[[Student Mobility]]"
-  - "[[ASEAN Way]]"
   - "[[Mosaic Harmonisation]]"
+  - "[[ASEAN Way]]"
   - "[[Regionness]]"
 related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"
@@ -42,16 +42,16 @@ related_facts:
   - "[[SEAMEO RIHED]]"
   - "[[Erasmus Programme]]"
   - "[[ASEAN Economic Community]]"
-  - "[[Southeast Asian Higher Education Common Space]]"
-  - "[[SEAMEO]]"
-  - "[[ASEAN University Network]]"
-  - "[[CAMPUS Asia]]"
-  - "[[ASEAN Qualifications Reference Framework]]"
   - "[[ASEAN Plus Three Working Group on Mobility and Quality Assurance of Higher Education]]"
+  - "[[CAMPUS Asia]]"
+  - "[[ASEAN University Network]]"
+  - "[[SEAMEO]]"
+  - "[[ASEAN Qualifications Reference Framework]]"
+  - "[[Southeast Asian Higher Education Common Space]]"
 related_arguments:
   - "[[Argument_Chou_2017_PolSoc]]"
-  - "[[Argument_Indrarajah_2026_NJCIE]]"
   - "[[Argument_Dang_2017_ORE]]"
+  - "[[Argument_Indrarajah_2026_NJCIE]]"
 confidence: high
 status: active
 created: 2026-10-29
@@ -67,7 +67,7 @@ updated: 2026-11-19
 > - **立项时间 / 周期** 启动于 2009 年（前身为马来西亚、印度尼西亚与泰国联合实施的 M-I-T 流动试点计划），2012 年正式更名为 AIMS 并实现全域扩容，目前常态化多边运行。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]
 > - **发起方与资助机制** 由[[SEAMEO RIHED]]联合各参与国教育部共同设立；资助模式采取“自愿参与、本国政府与派出高校自行筹措匹配资金”（Cost-sharing），区别于欧洲[[Erasmus Programme|伊拉斯谟计划]]依靠超国家机构集中划拨专款的集权模式。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151, 154)]]
 > - **覆盖范围与对象** 参与范围由最初 3 个创始国逐步扩展至马来西亚、印度尼西亚、泰国、越南、菲律宾、文莱、新加坡以及东亚对话伙伴国（日本、韩国）；截至 2015 年已连接超过 60 所骨干大学与 10 个专业学科群。[[Argument_Dang_2017_ORE|(Dang, 2017, p. 425)]]
-> - **核心问题导向** 应对东南亚各国学制多元、学分互换困难及跨境学习成本高昂等现实壁垒，支撑[[ASEAN Economic Community|东盟经济共同体]]建设对跨国技术人才与高素质劳动力的紧迫需求。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151, 154)]]
+> - **核心问题导向** 应对东南亚各国学制多元、学分互换困难及跨境学习成本高昂等现实壁垒，支撑[[ASEAN Economic Community|东盟经济共同体]]建设对跨国技术人才与高素质劳动力的紧迫需求。
 
 ---
 
@@ -83,7 +83,7 @@ updated: 2026-11-19
 > [!citation-card] 邓桂英论趋同协调话语与 AIMS 项目实践
 > 政策话语在政策过程中具有动员行动者的‘协调性’权力，而在公共领域中则具有向公众倡导政策必要性与合理性的‘沟通性’权力。趋同协调是一种将部委官员、大学校长与专家吸纳进区域政策制定、阐发与论证过程中的协调机制。在公共领域中，趋同协调具体呈现在标志性项目之中，例如截至 2015 年已连接超过 60 所大学的东盟国际学生流动项目（AIMS）、东盟质量保障网络以及东盟引文索引。[[Argument_Dang_2017_ORE|(Dang, 2017, pp. 424–425)]]
 >
-> *In the policy process, discourse possesses a 'coordinative' power to engage policy actors in policy development, whilst in the public sphere, discourse has 'communicative' power to engage the public in promoting the necessity and appropriateness of such policies... Harmonisation is a coordinative mechanism to involve ministerial officials, university rectors, and experts... In the public sphere, harmonisation is presented in concrete projects, such as ASEAN International Mobility for Students (AIMS) among more than 60 universities as of 2015.* (Dang, 2017, pp. 424–425)
+> *In the policy process, discourse possesses a 'coordinative' power to engage policy actors in policy development, whilst in the public sphere, discourse has 'communicative' power to engage the public in promoting the necessity and appropriateness of such policies... Harmonisation is a coordinative mechanism to involve ministerial officials, university rectors, and experts... In the public sphere, harmonisation is presented in concrete projects, such as ASEAN International Mobility for Students (AIMS) among more than 60 universities as of 2015.*
 
 ---
 
@@ -136,12 +136,12 @@ updated: 2026-11-19
 > >
 > > - **批评观点** 批评指出，由于成员国经济发展水平与财政投入差距明显，流动机会多集中于经济较发达国家及办学资源雄厚的知名高校，欠发达地区及经济困难学生参与率较低。
 > > - **辩护观点** 辩护强调，在缺乏超国家财政转移支付工具的东南亚地缘现实下，自愿匹配出资是维系项目长期运行且不侵犯国家教育财政主权的有效路径。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151, 154)]]
+>
+> > [!axis] 认识论殖民性与成员国包容性壁垒
+> > 围绕 AIMS 是否实质上再生产了区域核心国家对边缘国家的排斥展开批判。
 > >
-> > > [!axis] 认识论殖民性与成员国包容性壁垒
-> > > 围绕 AIMS 是否实质上再生产了区域核心国家对边缘国家的排斥展开批判。
-> > >
-> > > - **去殖民批判视角** [[Argument_Indrarajah_2026_NJCIE|Indrarajah (2026, pp. 6–7, 13–15)]] 批评指出，AIMS 项目长期排除了老挝、缅甸等后发国家，未能触动区域内部的经济与知识层级；官方应取消单向资助学生流向东亚大国的奖学金，将公共资金集中投入区域内部高校的联合培养，建立全域无国别壁垒的包容性流动网络。
-> > > - **务实渐进视角** 组织方认为从具备条件的高校先行试验，待学分与质保体系成熟后再稳步吸纳新成员，是保障项目跨国学术信誉与平稳落地的理性选择。
+> > - **去殖民批判视角** [[Argument_Indrarajah_2026_NJCIE|Indrarajah (2026, pp. 6–7, 13–15)]] 批评指出，AIMS 项目长期排除了老挝、缅甸等后发国家，未能触动区域内部的经济与知识层级；官方应取消单向资助学生流向东亚大国的奖学金，将公共资金集中投入区域内部高校的联合培养，建立全域无国别壁垒的包容性流动网络。
+> > - **务实渐进视角** 组织方认为从具备条件的高校先行试验，待学分与质保体系成熟后再稳步吸纳新成员，是保障项目跨国学术信誉与平稳落地的理性选择。
 
 > [!lessons] 经验教训与启示
 > - **对等互换中的隐性壁垒防范** 证明在缺乏区域集中救助基金的前提下，单纯依靠院校对等免学费极易使经济脆弱家庭学生因生活成本被阻隔在外，未来需设立区域倾斜性生活补助机制。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 13–14)]]

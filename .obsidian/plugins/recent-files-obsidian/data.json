@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_McCormick_2012_CER",
+      "path": "wiki/arguments/journal-articles/Comparative Education Review/Argument_McCormick_2012_CER.md"
+    },
+    {
+      "basename": "Argument_Dang_2017_ORE",
+      "path": "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
+    },
+    {
+      "basename": "Argument_Xie_2017_PKUER",
+      "path": "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md"
+    },
+    {
       "basename": "Knowledge Dashboard",
       "path": "_system/dashboard/Knowledge Dashboard.md"
     },
@@ -47,10 +59,6 @@
     {
       "basename": "vault-schema",
       "path": "vault-schema.md"
-    },
-    {
-      "basename": "Argument_Xie_2017_PKUER",
-      "path": "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md"
     },
     {
       "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch05",
@@ -191,14 +199,6 @@
     {
       "basename": "Binary Logistic Regression",
       "path": "wiki/methods/quantitative/Binary Logistic Regression.md"
-    },
-    {
-      "basename": "Developmental State",
-      "path": "wiki/theories/political-economy-geopolitics/Developmental State.md"
-    },
-    {
-      "basename": "Dependency Theory",
-      "path": "wiki/theories/comparative-education/Dependency Theory.md"
     }
   ],
   "omittedPaths": [],

@@ -12,7 +12,7 @@ subtype: program
 region: multi
 fact_region: "multi"
 fact_kind: "program"
-fact_related_count: 24
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -25,18 +25,13 @@ tags:
   - region/southeast-asia
   - theme/regional-cooperation
 related_concepts:
-  - "[[Student Mobility]]"
-  - "[[Epistemic Friction]]"
   - "[[Norm Localisation]]"
-  - "[[Bologna Process Export Thesis]]"
   - "[[ASEAN Way]]"
-  - "[[State Educational Sovereignty]]"
-  - "[[Dialogue in Education]]"
+  - "[[Bologna Process Export Thesis]]"
   - "[[Mutual Learning]]"
-  - "[[Global Regionalisms]]"
+  - "[[Student Mobility]]"
 related_theories: []
-related_methods:
-  - "[[Cohort Study]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
@@ -46,6 +41,7 @@ related_facts:
   - "[[European Association for Quality Assurance in Higher Education]]"
   - "[[ASEAN Economic Community]]"
   - "[[Bologna Process]]"
+  - "[[ASEAN Qualifications Reference Framework]]"
   - "[[ASEAN Credit Transfer System]]"
   - "[[ASEAN University Network]]"
   - "[[SEAMEO RIHED]]"
@@ -78,7 +74,7 @@ updated: 2026-11-19
 > 项目早期预设通过输送欧洲[[Bologna Process|博洛尼亚进程]]的成熟规制模板（如学分转换与资历框架），能够自上而下加速东盟构建一体化教育空间；实证表明，忽视东南亚内生机制与主权多元诉求直接引发了认知摩擦，促使项目回归对本土主导权的尊重并转向平等的双向互学互鉴。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 156)]]; [[Argument_Dang_2017_ORE|(Dang, 2017, pp. 12–13)]]
 
 > [!policy-design] 方案设计
-> - **项目目标** 协助东盟建立区域资历参考框架（AQRF）、推广东盟质量保障框架（AQAF）、测试[[ASEAN Credit Transfer System|东盟学分转移系统]]（ACTS/AIMS 对接）并建立区域奖学金平台。
+> - **项目目标** 协助东盟建立[[ASEAN Qualifications Reference Framework|东盟资历参考框架]]（AQRF）、推广东盟质量保障框架（AQAF）、测试[[ASEAN Credit Transfer System|东盟学分转移系统]]（ACTS/AIMS 对接）并建立区域奖学金平台。
 > - **覆盖对象** 参与试点的数十所东盟高等学府、数百名跨国流动本科生、成员国资历评定部门与质量审核官员。
 > - **干预措施** 设立四大核心工作成果包（Result Areas）：
 >   1. 政策对话（Policy Dialogues）：举办高阶部长级与利益相关方多边圆桌论坛；
@@ -97,7 +93,7 @@ updated: 2026-11-19
 > [!dev-timeline] 项目推进历程
 > - **2014–2015 — 框架确立与雅加达启动** 欧盟驻东盟使团与东盟秘书处签署筹备协议，2015 年 1 月正式启动项目，确立四大成果领域。
 > - **2015–2017 — 单向移植受挫与认知摩擦爆发** 欧洲执行团队试图将欧洲标准原样推行，忽视了东南亚长期运转的 [[ASEAN University Network|AUN]]-QA 与 [[SEAMEO RIHED]] 工具包，引发东盟部委官员与高校校长的强烈抵触与主权警惕。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 156)]]
-> - **2017–2019 — 策略重塑与本土机制深度嵌合** 执行团队及时修正方针，采纳[[Norm Localisation|规范本土化]]路径，放弃强推欧洲统一模板，转为辅助东盟建立自身主导的东盟资历参考框架（AQRF）并认可本土多边机构的既有贡献。[[Argument_Dang_2017_ORE|(Dang, 2017, pp. 11–13)]]
+> - **2017–2019 — 策略重塑与本土机制深度嵌合** 执行团队及时修正方针，采纳[[Norm Localisation|规范本土化]]路径，放弃强推欧洲统一模板，转为辅助东盟建立自身主导的[[ASEAN Qualifications Reference Framework|东盟资历参考框架]]（AQRF）并认可本土多边机构的既有贡献。[[Argument_Dang_2017_ORE|(Dang, 2017, pp. 11–13)]]
 > - **2019–2022 — 项目延期结项与成果移交** 欧盟追加无偿资助延长执行期，累计完成多轮跨国流动资助与质量对标报告，2022 年底正式将相关数据资产与对话机制完整移交给东盟秘书处自主运营。
 
 ---
@@ -160,6 +156,7 @@ updated: 2026-11-19
 > | [[Southeast Asian Higher Education Common Space]] | Fact (Policy) | SHARE 项目旨在协助构建与支撑的东南亚区域高等教育空间愿景。 |
 > | [[Bologna Process]] | Fact (Policy) | 欧洲高等教育区旗舰模式，SHARE 项目早期借鉴的原型。 |
 > | [[European Qualifications Framework]] | Fact (Policy) | 欧洲资历框架，在 SHARE 项目中作为比较与互学对象。 |
+> | [[ASEAN Qualifications Reference Framework]] | Fact (Policy) | 东盟资历参考框架，SHARE 项目第三工作成果包重点支持并开展对标的技术元框架。[[Argument_Dang_2017_ORE\|(Dang, 2017, pp. 11–13)]] |
 > | [[Bologna Process Export Thesis]] | Concept | SHARE 项目启动时所依循、后在实施摩擦中被实证推翻的单向扩散预设。 |
 > | [[Norm Localisation]] | Concept | 解释 SHARE 项目中东南亚行动者如何修剪欧洲外来要求、实现本土适切的理论机制。 |
 > | [[Mutual Learning]] | Concept | SHARE 项目经过实践摩擦后确立的双向对等互学交往范式。 |

@@ -12,7 +12,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -50,6 +50,7 @@ related_facts:
   - "[[Bologna Process]]"
   - "[[ASEAN]]"
   - "[[SHARE Programme]]"
+  - "[[ASEAN Qualifications Reference Framework]]"
   - "[[Comparative Education Society in Europe]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
@@ -144,8 +145,8 @@ updated: 2026-11-19
 > > [!axis] 区域元框架的全球扩散：单向制度输出 vs 跨区域双向互鉴
 > > 争论 EQF 究竟应作为发展中国家区域一体化的标准出口范本，还是在平等伙伴关系中接受反思与检验的参照系。
 > >
-> > - **单向规制输出预设** 传统欧洲中心主义视角倾向于将 EQF 视为全球最具先进性的元框架标准，推动东盟（AQRF）等非欧洲区域进行单向政策借用与技术复制。
-> > - **双向互鉴与反思立场** 邓（[[Argument_Dang_2017_ORE|Dang, 2017]]）揭示，欧洲学者与技术专家在参与东盟高等教育支持项目（SHARE）时坦承，EQF 在欧洲本土面临劳动力市场认可度有限的现实困境；跨区域互动推动欧洲放弃居高临下的制度优越感，借道东盟资历参考框架反思自身工具实效，促成平等技术协商。[[Argument_Dang_2017_ORE|(Dang, 2017, p. 12)]]
+> > - **单向规制输出预设** 传统欧洲中心主义视角倾向于将 EQF 视为全球最具先进性的元框架标准，推动东盟（[[ASEAN Qualifications Reference Framework|AQRF]]）等非欧洲区域进行单向政策借用与技术复制。
+> > - **双向互鉴与反思立场** 邓（[[Argument_Dang_2017_ORE|Dang, 2017]]）揭示，欧洲学者与技术专家在参与东盟高等教育支持项目（SHARE）时坦承，EQF 在欧洲本土面临劳动力市场认可度有限的现实困境；跨区域互动推动欧洲放弃居高临下的制度优越感，借道[[ASEAN Qualifications Reference Framework|东盟资历参考框架]]反思自身工具实效，促成平等技术协商。[[Argument_Dang_2017_ORE|(Dang, 2017, p. 12)]]
 
 > [!citation-card] 米特论欧洲资格框架与比较教育的“务实欧洲维度”
 > 米特指出，自 1990 年代[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）哥本哈根会议（1994）至格拉纳达会议（2006），欧洲比较教育学界经历了一场深刻转向：学者们逐渐告别了早年对“欧洲精神”或“欧洲维度”的形而上学哲学玄思（如 Hans 或 Schneider 的经典论述），转而紧密追踪并批判性分析欧洲一体化进程中的具体政策工具。欧洲资格框架（EQF）与[[Bologna Process|博洛尼亚进程]]（Bologna Process）、欧洲委员会倡议一同，构成了这一“务实欧洲维度”（pragmatic European dimension）的核心分析载体。比较教育学者通过对 EQF 文本及其在各国落地引发的[[Policy Borrowing|政策借用]]与制度趋同进行实证比较，使该学科深度介入欧洲教育政策与治理秩序的重塑过程。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 98)]]
@@ -166,6 +167,7 @@ updated: 2026-11-19
 > | [[EU]] | 组织事实 | EQF 的制度发起与统筹推进主体。 |
 > | [[Comparative Education Society in Europe]] | 组织事实 | 欧洲比较教育学者追踪 EQF 跨国借用与制度趋同的重要学术平台。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, p. 98)]] |
 > | [[SHARE Programme]] | 政策事实 | 欧盟支持东盟高等教育项目，欧洲专家借此平台与东盟 AQRF 对接并反思 EQF 实效。[[Argument_Dang_2017_ORE\|(Dang, 2017, p. 12)]] |
+> | [[ASEAN Qualifications Reference Framework]] | 政策事实 | 东盟 8 级区域元框架，欧洲专家通过 SHARE 项目与其对接并反思 EQF 实操局限。[[Argument_Dang_2017_ORE\|(Dang, 2017, p. 12)]] |
 
 ---
 
