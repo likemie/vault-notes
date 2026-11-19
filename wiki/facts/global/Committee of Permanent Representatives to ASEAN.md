@@ -100,7 +100,7 @@ updated: 2026-11-19
 > [!pathways] 业务运行机制与外交社会化
 > - **雅加达集中办公的孵化器效应** 十国大使长驻雅加达且物理距离高度邻近，客观上脱离了本国行政科层的瞬时牵制，在高频次日常非正式交往中培养出默契与合作[[Habitus|惯习]]。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 532)]]
 > - **弥补东盟秘书处的科层资源约束** 在东盟秘书处编制有限的现实下，CPR 承担了跨部门统筹与部长会议预备工作，拓展了自身的官僚协调空间。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 532)]]
-> - **外部驱动型多边凝聚路径** CPR 将大量精力倾注于与大国对话伙伴的密集磋商，通过“外部伙伴多边化”倒逼内部机制团结。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 534)]]
+> - **外部驱动型多边凝聚路径** CPR 将大量精力倾注于与大国对话伙伴的密集磋商，通过“外部伙伴多边化”促成内部机制团结。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 534)]]
 > - **协商一致与非约束性沟通** 恪守东盟方式，不推行强制多数表决，所有成果文件与行动计划均以全体成员国舒适度与底线共识为前提。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 528)]]
 
 ---

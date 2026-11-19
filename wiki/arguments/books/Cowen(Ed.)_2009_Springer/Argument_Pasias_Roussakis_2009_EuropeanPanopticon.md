@@ -191,7 +191,7 @@ updated: 2026-11-19
 > [!claim|step] 论证步骤二　借就业指标与专项资助绕开主权限制，把教育绑定为经济资产（1997–1999）
 > 欧盟避开条约法律僵局，借[[European Employment Strategy|欧洲就业战略]]和结构基金建立非正式控制通道，并提出[[Politics of Knowledge|知识政治]]命题，把教育与科研定性为关乎欧洲存亡的核心无形投资。（pp. 484–487）
 
-> [!sub-claim] 1. 把就业定为硬任务，借结构基金倒逼各国教育服从经济目标
+> [!sub-claim] 1. 把就业定为硬任务，借结构基金促使各国教育服从经济目标
 
 > [!quad-grid] 欧洲就业战略四大支柱对教育功能的重塑
 > 1997 年卢森堡欧洲理事会确立包含四大支柱的[[European Employment Strategy|欧洲就业战略]]（European Employment Strategy, [[European Education Space|EES]]），直接将各成员国的教育体系纳入就业硬任务考核体系。（pp. 484–485）
@@ -285,7 +285,7 @@ updated: 2026-11-19
 
 ---
 
-> [!citation-card] 索邦宣言关于知识欧洲与博洛尼亚进程的奠基性陈述
+> [!citation-card] 索邦宣言关于知识欧洲与博洛尼亚进程的纲领性陈述
 > 作为开启欧洲高等教育[[Bologna Process|博洛尼亚进程]]的基础文献，1999 年《索邦宣言》指出：欧洲进程最近迈出了极其重要的步伐。无论这些进展多么重要，都不应让人忘记：欧洲不仅属于欧元、银行和经济，它也必须成为一个知识欧洲。我们必须强化并巩固我们大陆的智识、文化、社会与技术维度。
 >
 > *The European process has very recently moved some extremely important steps ahead. Relevant as they are, they should not make one forget that Europe is not only that of the Euro, of the banks and the economy: it must be a Europe of knowledge as well. We must strengthen and build upon the intellectual, cultural, social and technical [[Dimensions|dimensions]] of our continent.* (Sorbonne Declaration, 1999, p. 1; cited on p. 480)

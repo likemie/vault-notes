@@ -77,7 +77,7 @@ updated: 2026-11-19
 ---
 
 > [!dev-timeline] 组织发展历程
-> - **1990–1996 — 创设与独立奠基期** 聚焦于揭示全美[[Academic Achievement|学业成就]]鸿沟的严峻现实，率先利用国家教育统计数据绘制州与学区层面的种族与收入学力差距图谱，打破当时学界与公众对贫困学生无法达到高学业标准的刻板赤字观念。
+> - **1990–1996 — 创设与独立发展期** 聚焦于揭示全美[[Academic Achievement|学业成就]]鸿沟的严峻现实，率先利用国家教育统计数据绘制州与学区层面的种族与收入学力差距图谱，打破当时学界与公众对贫困学生无法达到高学业标准的刻板赤字观念。
 > - **1997–2008 — 介入联邦问责立法与跨州标准联盟** 深度介入 2001 年《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）立法辩论，推动将亚群数据分解写入法案；与此同时，联合[[Achieve|阿奇夫]]（Achieve）与[[Thomas B. Fordham Institute|福特汉姆基金会]]（Thomas B. Fordham Foundation）发起[[American Diploma Project|美国文凭项目]]（ADP），持续发布各州标准质量评价报告，成为跨州标准改革的核心智囊。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]
 > - **2009–2014 — 推动[[Common Core State Standards|共同核心标准]]与民权价值绑定** 作为推动[[Common Core State Standards|共同核心州立标准]]（CCSS）的关键[[Policy Entrepreneur|政策企业家]]之一，卡蒂·海科克等机构领袖密集动员[[National Assessment of Educational Progress|全国教育进展评估]]（NAEP）映射数据，揭露各州自设标准虚假高及格率的向下沉沦现象，成功将统一学术标准与消除教育不平等、促进社会流动的民权叙事深度绑定。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 9–11)]]
 > - **2015–至今 — 跨部门多元治理与高等教育公平扩展** 在 2015 年《每个学生都成功法》（[[Every Student Succeeds Act|ESSA]]）制定过程中，积极捍卫弱势亚群问责底线；同时将研究与倡导职能系统拓展至高等教育领域，重点攻坚大学资助分配不均、低收入学生毕业率差距及少数族裔师资队伍建设等系统性议题。[[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, pp. 41–42)]]

@@ -36,6 +36,7 @@ related_concepts:
   - "[[Alienation]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Document]]"
+  - "[[Educational Expectations]]"
   - "[[Academic Achievement]]"
   - "[[Concept Mapping]]"
   - "[[Independent Variable]]"
@@ -53,6 +54,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Judgment of Taste]]"
   - "[[Education as Initiation]]"
+  - "[[Objective Spirit]]"
   - "[[Falsification]]"
   - "[[Central Phenomenon]]"
   - "[[Feedback]]"
@@ -86,16 +88,16 @@ related_arguments:
   - "[[Argument_Qvortrup_2015_Paideia]]"
 status: completed
 created: '2026-05-03'
-updated: 2026-11-15
+updated: 2026-11-19
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Rømer_2018_EPT"
 argument_key: "Argument_Rømer_2018_EPT"
 argument_display_title: "A critique of John Hattie's theory of Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 59
-argument_related_level: 5
-argument_related_stars: "💎⭐⭐"
+argument_related_count: 61
+argument_related_level: 6
+argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
 journal: Educational Philosophy and Theory
 ---
@@ -182,7 +184,7 @@ journal: Educational Philosophy and Theory
 > - **奠基[[Document|文献]]的领域偏向** 哈蒂开篇核心引证几乎全部来自评价理论学者（如 Biggs、Walberg、Glass、Bloom、Cronbach、Scriven），缺乏系统性的教学论与教育哲学文献支撑。
 > - **核心座右铭的技术化定调** 了解自身影响（Know thy impact）将教学转译为数据驱动的统计效应检验，宣称教师应当成为自身教学效果的学习者，直接置换了教育学的问题意识。
 > - **学科内容与精神的退场** 哈蒂虽提及教师应热爱所教学科，但在后续论述中完全蒸发，教师的专业热爱被替换为对提升效应量数值的亢奋激情。
-> - **对规范性教育哲学的轻慢排除** [[Gert Biesta|格特·比斯塔]]（[[Gert Biesta]]）追问教育效率应当服务于何种教育期望，哈蒂仅用四行文字回应称[[Academic Achievement|学业成就]]正是核心期望所在，甚至将 Biesta 误称为女性代词 she，折射出评价范式对规范性质询的拒斥。
+> - **对规范性教育哲学的轻慢排除** [[Gert Biesta|格特·比斯塔]]（[[Gert Biesta]]）追问教育效率应当服务于何种[[Educational Expectations|教育期望]]，哈蒂仅用四行文字回应称[[Academic Achievement|学业成就]]正是核心期望所在，甚至将 Biesta 误称为女性代词 she，折射出评价范式对规范性质询的拒斥。
 
 > [!sub-claim] 2. 原子化指标推崇瓦解整体教育实践
 
@@ -333,7 +335,7 @@ journal: Educational Philosophy and Theory
 波普尔的三个世界涵盖物理世界（世界一）、主观经验世界（世界二）以及由科学理论、书籍与艺术杰作等经典对象构成的思想内容世界（世界三）。
 
 > [!contrast-table] 波普尔三世界理论在教育学中的逐级衰变
-> | 思想家 | 对世界三（客观精神产物）的界定 | [[Epistemic Stances\|认识论立场]]与教育学后果 |
+> | 思想家 | 对世界三（[[Objective Spirit\|客观精神]]产物）的界定 | [[Epistemic Stances\|认识论立场]]与教育学后果 |
 > |---|---|---|
 > | **卡尔·波普尔**<br>（Popper, 2011） | 涵盖科学理论、猜想、客观问题以及贝多芬交响乐等人类文化精髓，具有独立客观实在性。 | **科学实在论** 强调客观知识超越任何个体心理，允许公开批评与反驳。 |
 > | **卡尔·贝雷特**<br>（Bereiter, 2002） | 将文化对象缩减为科学真假命题体系，将大量人文学科、艺术与神学排除在世界三之外。 | **[[Knowledge Building Theory\|知识建构]]论** 虽保留了心灵之外的知识与理论客观性，但抽空了广泛的人文教化内涵。 |

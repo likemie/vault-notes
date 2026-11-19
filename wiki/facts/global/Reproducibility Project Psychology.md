@@ -54,7 +54,7 @@ updated: 2026-11-19
 ---
 
 > [!claim] 项目定位
-> **心理学可重复性项目（Reproducibility Project: Psychology, [[Research-Practice Partnership|RPP]]）** 是 2011–2015 年由开放科学中心（Center for Open Science, COS）与开放科学合作组织（Open Science Collaboration）协调全球 270 位学者共同开展的大规模科学学实证检验工程。该工程严格遵从原始研究实验协议，对 3 种权威心理学期刊在 2008 年发表的 100 项代表性实证研究进行高保真独立重复实验，为现代科学界诊断系统性验证困境确立了奠基性的量化基准。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 237–238)]]
+> **心理学可重复性项目（Reproducibility Project: Psychology, [[Research-Practice Partnership|RPP]]）** 是 2011–2015 年由开放科学中心（Center for Open Science, COS）与开放科学合作组织（Open Science Collaboration）协调全球 270 位学者共同开展的大规模科学学实证检验工程。该工程严格遵从原始研究实验协议，对 3 种权威心理学期刊在 2008 年发表的 100 项代表性实证研究进行高保真独立重复实验，为现代科学界诊断系统性验证困境确立了关键的量化基准。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 237–238)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2011 年由布莱恩·诺塞克（Brian Nosek）等学者联合发起，历经方案设计、跨国实验室协议匹配、[[Blinding|盲法]]质控与复验实施，于 2015 年在《科学》（*Science*）发表终期综合评估报告。

@@ -120,7 +120,7 @@ updated: 2026-11-19
 > - **研究简要评价（Kurzreviews）** 针对前沿教学[[Meta-analysis\|元分析]]提炼的德语通俗化评介，系统解构数字化教学、[[Inquiry-Based Learning\|探究式学习]]、[[Flipped Classrooms|翻转课堂]]、游戏化学习、[[Self-Regulated Learning\|自我调节学习]]等策略的因果[[Effect Size\|效应量]]、前提条件与教学建议，配套提供评分表（Rating Sheets）与材料下载。
 > - **在线进修学院（CHU-Academy）** 提供体系化在线自学进修课程，涵盖科学证据导论课、[[Effective Teaching\|有效教学]]专题课程，以及最新生成的[[Generative Artificial Intelligence\|生成式人工智能]]在教学中的应用模块。
 > - **概念导引与在线术语表（Online-Glossar）** 针对效应量（Effektstärke）、统计控制、元分析与[[Causality\|因果推断]]等核心概念编制专业教学指南与交互术语表，正文专业术语均内嵌跳转链接。
-> - **专题学术播客与微视频（Podcasts & Videos）** 对接元分析作者与教学实践专家，以音频访谈与动画讲解形式生动解读实证研究结论与课堂落地细节。
+> - **专题学术播客与微视频（Podcasts & Videos）** 对接元分析学者与教学实践专家，以音频访谈与动画讲解形式生动解读实证研究结论与课堂落地细节。
 > - **[[Design-Based Research\|设计实验]]室（DesignLabs）** 开展多阶段行动转移，组织跨学科师范生团队基于前沿证据开发教学实训与沙盘模拟原型（如针对气候危机的 NextGeneration 气候委员会跨校实测与研修开发）。
 
 在知识生态协同层面，清算中心与同设于慕尼黑工业大学的[[Zentrum für internationale Bildungsvergleichsstudien|德国国际教育比较研究中心]]（ZIB）结成战略同盟，开辟了宏观教育监测与微观教学干预二元互补的整合机制：
@@ -154,8 +154,8 @@ updated: 2026-11-19
 > > [!axis] 项目制思维（Projektitis）与中介机构可持续机制建设
 > > 德国乃至欧洲诸多教育清算机构（如丹麦 DPU 清算所）均依附于政府为期 2–3 年的短期课题合同，在合同期满后往往面临资金断裂甚至实体解散的困局；CHU 创设早期同样依托联邦 [[Qualitätsoffensive Lehrerbildung\|QLB]] 阶段性课题（2015/2016–2023），但其通过迅速建立高质量产品矩阵与广泛用户网络，在联邦项目收官之际成功获得威廉·施特默基金会延续至 2029 年的长期慈善注资，开辟了政府项目孵化—高校常设支持—私人基金会长期资助支持的混合中介治理新[[Paradigm\|范式]]。
 >
-> > [!axis] 乘数群体的支持依赖与最终穿透链路
-> > 将资源重点配置于大学教师教育者与在职进修负责人（乘数群体）虽能实现杠杆扩散，但这批骨干群体自身同样高度依赖成套易用的教学工具；且与 [[Forschungsmonitor Schule\|学校研究监测平台]] 相比，CHU 重点聚焦 MINT 学科及高阶[[Meta-analysis\|元分析]]，其学术成果从大学研训课堂向中小学[[Business as Usual\|常态教学]]法渗透的链路较长，仍需各州在职进修督导体制与大众化科学传播格式的深度协同。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 16)]]; [[Argument_Besa_2024_UW\|(Besa, 2024, pp. 256–257)]]
+> > [!axis] 乘数群体的支持依赖与最终转化通道
+> > 将资源重点配置于大学教师教育者与在职进修负责人（乘数群体）虽能实现放大扩散，但这批骨干群体自身同样高度依赖成套易用的教学工具；且与 [[Forschungsmonitor Schule\|学校研究监测平台]] 相比，CHU 重点聚焦 MINT 学科及高阶[[Meta-analysis\|元分析]]，其学术成果从大学研训课堂向中小学[[Business as Usual\|常态教学]]法渗透的链路较长，仍需各州在职进修督导体制与大众化科学传播格式的深度协同。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 16)]]; [[Argument_Besa_2024_UW\|(Besa, 2024, pp. 256–257)]]
 >
 > > [!axis] 底层转移模型的反思贫困与微观教学有效性证据赤字
 > > 清算平台的迅猛扩增掩盖了其底层[[Knowledge Transfer|知识转移]]模型与因果作用假设（Wirkannahmen）的学术反思贫困。[[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, p. 10)]]

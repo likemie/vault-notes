@@ -8,17 +8,25 @@ aliases:
 summary: "行动者基于对自身社会阶层地位、家庭资源禀赋与宏观机会结构的理性评估，对个体或子女未来实际可能达到的受教育程度做出的现实性概率判断，区别于脱离现实约束的主观教育抱负。"
 type: concept
 domain: "sociology-of-education"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/sociology-of-education
   - educational-stratification
   - social-mobility
   - habitus
 related_concepts:
+  - "[[Construct]]"
+  - "[[Teacher Expectations]]"
+  - "[[Phronesis]]"
+  - "[[Aspiration Interventions]]"
+  - "[[Cultural Capital]]"
   - "[[Habitus]]"
+  - "[[Academic Achievement]]"
+  - "[[Variable]]"
+  - "[[Reflexivity]]"
   - "[[Credential Inflation]]"
   - "[[Socioeconomic Status]]"
   - "[[Tracking]]"
@@ -26,6 +34,9 @@ related_concepts:
 related_theories:
   - "[[Rational Action Theory]]"
 related_methods:
+  - "[[Classroom Observation]]"
+  - "[[Fieldwork]]"
+  - "[[Effect Size]]"
   - "[[Ethnography]]"
 related_instruments: []
 related_persons:
@@ -43,19 +54,19 @@ updated: 2026-11-19
 ---
 
 > [!def] Educational Expectations
-> 教育期望（Educational Expectations）指行动者考量客观生存条件、制度性筛选门槛与资源约束后，对未来学业获得水平所形成的现实性主观概率评估。在教育社会学中，该构念区别于脱离现实条件约束的主观向往（教育抱负或希望），是连接宏观机会分配格局与微观学业决策的枢纽认知倾向（[[Argument_Xie_2017_PKUER|谢爱磊, 2017]]）。
+> 教育期望（Educational Expectations）指行动者考量客观生存条件、制度性筛选门槛与资源约束后，对未来学业获得水平所形成的现实性主观概率评估。在教育社会学中，该[[Construct|构念]]区别于脱离现实条件约束的主观向往（教育抱负或希望），是连接宏观机会分配格局与微观学业决策的枢纽认知倾向（[[Argument_Xie_2017_PKUER|谢爱磊, 2017]]）。
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 行动者将宏观教育机会结构内化为对自身学业可达终点的分层判断。
 > - **用途** 解释不同阶层家庭在面对看似均等化的教育扩张时，在主观投入动力和学业选择上出现的系统性分化。
-> - **边界** 聚焦现实条件约束下的概率判断，不涵盖脱离资源约束的理想愿望（教育抱负），也区别于教师对学生的单向学业期待（教师期望）。
+> - **边界** 聚焦现实条件约束下的概率判断，不涵盖脱离资源约束的理想愿望（教育抱负），也区别于教师对学生的单向学业期待（[[Teacher Expectations|教师期望]]）。
 
 > [!citation-card|notitle] 期望与希望的结构性分野
 > 农村底层家长对子女学业抱有一定希望，却对实际教育结果抱持有限的期望；宏观社会结构塑造的教育机会分配格局，直接转化为不同阶层对自身教育机会与社会流动终点的分层判断。[[Argument_Xie_2017_PKUER|(谢爱磊, 2017, p. 101)]]
 
 > [!boundary]- 概念边界
-> - 不等同于 [[Aspiration Interventions\|教育抱负]]（Educational Aspirations）：抱负体现不受资源限制的理想愿望（如“希望孩子读名校”），期望体现嵌入现实约束的可行性判断（如评估家庭经济与升学概率后“期望读大专或中职”）。
-> - 区别于 [[Teacher Expectations\|教师期望]]（Teacher Expectations）：教师期望为教育者对受教育者发展潜力的外部评价，教育期望则来自行动者或家庭自身的内部实践理性。
+> - 不等同于 教育抱负（Educational Aspirations）：抱负体现不受资源限制的理想愿望（如“希望孩子读名校”），期望体现嵌入现实约束的可行性判断（如评估家庭经济与升学概率后“期望读大专或中职”）。
+> - 区别于 [[Teacher Expectations\|教师期望]]（Teacher Expectations）：教师期望为教育者对受教育者发展潜力的外部评价，教育期望则来自行动者或家庭自身的内部[[Phronesis|实践理性]]。
 
 ---
 
@@ -63,13 +74,13 @@ updated: 2026-11-19
 > | 维度 | 教育期望（Educational Expectations） | [[Aspiration Interventions\|教育抱负（Educational Aspirations）]] | [[Teacher Expectations\|教师期望（Teacher Expectations）]] |
 > |---|---|---|---|
 > | **认知基础** | 考虑现实约束与成本收益后的概率判断 | 脱离资源壁垒与现实限制的理想向往 | 专业教育者对学生学业潜能的外部预设 |
-> | **形成机制** | 宏观机会结构与家庭资本的微观内化 | 文化价值观或社会规范引导下的普遍期待 | 课堂观察、过往成绩与教师先验偏见 |
+> | **形成机制** | 宏观机会结构与家庭资本的微观内化 | 文化价值观或社会规范引导下的普遍期待 | [[Classroom Observation\|课堂观察]]、过往成绩与教师先验偏见 |
 > | **行为后果** | 决定实际教育投资强度与升学选择分流 | 提供情感动力，缺乏可行资源时易脱节 | 产生皮格马利翁效应，影响师生互动质量 |
 
 ---
 
 > [!feature] 核心要素
-> - **现实约束内化** 家庭经济资本、文化资本与社会资本的占有状况界定了教育投资的可承受边界，将外在客观限制转化为内在心理门槛。[[Argument_Xie_2017_PKUER|(谢爱磊, 2017, pp. 101–102)]]
+> - **现实约束内化** 家庭经济资本、[[Cultural Capital|文化资本]]与社会资本的占有状况界定了教育投资的可承受边界，将外在客观限制转化为内在心理门槛。[[Argument_Xie_2017_PKUER|(谢爱磊, 2017, pp. 101–102)]]
 > - **分层概率判断** 行动者依据所属群体在升学筛选与劳动力市场中的历史经验，形成对特定文凭层次（重点本科、普通本科、高职专科）获取可能性的主观概率赋权。[[Argument_Xie_2017_PKUER|(谢爱磊, 2017, p. 102)]]
 > - **流动回报预期** 将特定教育结果与未来社会流动机会挂钩，评估教育投资的边际效益与沉没风险。[[Argument_Xie_2017_PKUER|(谢爱磊, 2017, pp. 104–105)]]
 
@@ -84,7 +95,7 @@ updated: 2026-11-19
 
 ---
 
-> [!concept-proposition] 命题一｜阶层化的机会结构通过生存心态转化为分层的教育期望
+> [!concept-proposition] 命题一｜阶层化的机会结构通过[[Habitus|生存心态]]转化为分层的教育期望
 > **机会内化机制** 客观教育与社会流动机会在不同社会阶层之间的非均衡分配，经由日常社会化与实践经验内化为主观倾向系统，构成个体判断自身教育前途的认知图式。
 >
 > > [!claim] 谢爱磊
@@ -103,15 +114,15 @@ updated: 2026-11-19
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **机会内化命题** | 宏观机会结构向个体主观期望的图式转化 | 教育扩张背景下的阶层化升学分流 | 谢爱磊；皮埃尔·布迪厄（Pierre Bourdieu） |
+> | **机会内化命题** | 宏观机会结构向个体主观期望的图式转化 | 教育扩张背景下的阶层化升学分流 | 谢爱磊；[[Pierre Bourdieu\|皮埃尔·布迪厄]]（Pierre Bourdieu） |
 > | **实践理性命题** | 低期望作为应对流动壁垒的风险规避策略 | 文凭贬值与劳动力市场结构性阻隔情境 | 谢爱磊 |
 
 ---
 
 > [!dev-timeline] 概念演变
-> - **1960s — 地位获得模型开端** 威廉·休厄尔（William H. Sewell）等在威斯康星模型中将教育期望作为家庭背景与学业成就之间的核心中介变量。
+> - **1960s — 地位获得模型开端** 威廉·休厄尔（William H. Sewell）等在威斯康星模型中将教育期望作为家庭背景与[[Academic Achievement|学业成就]]之间的核心中介[[Variable|变量]]。
 > - **1970s — 文化再生产理论引入** [[Pierre Bourdieu\|布迪厄]]提出[[Habitus\|习性]]理论，揭示教育期望是客观机会概率在行动者心理图式中的投射。
-> - **2017 — 转型社会中的实践理性转向** [[Argument_Xie_2017_PKUER|谢爱磊 (2017)]]基于中县田野调查重构教育期望概念，揭示中国转型期底层居民的低教育期望植根于反身性实践理性，区别于西方工人阶级的反学校亚文化。[[Argument_Xie_2017_PKUER|(谢爱磊, 2017, pp. 106–107)]]
+> - **2017 — 转型社会中的实践理性转向** [[Argument_Xie_2017_PKUER|谢爱磊 (2017)]]基于中县[[Fieldwork|田野调查]]重构教育期望概念，揭示中国转型期底层居民的低教育期望植根于[[Reflexivity|反身性]]实践理性，区别于西方工人阶级的反学校亚文化。[[Argument_Xie_2017_PKUER|(谢爱磊, 2017, pp. 106–107)]]
 
 ---
 
@@ -127,7 +138,7 @@ updated: 2026-11-19
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |

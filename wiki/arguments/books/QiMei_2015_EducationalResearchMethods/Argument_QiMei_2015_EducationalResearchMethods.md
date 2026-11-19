@@ -10,7 +10,7 @@ title: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_key: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_display_title: "教育研究方法"
 argument_kind: "book"
-argument_related_count: 132
+argument_related_count: 134
 argument_related_level: 13
 argument_related_stars: "💎💎💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -67,6 +67,7 @@ related_concepts:
   - "[[Content Validity]]"
   - "[[Construct Validity]]"
   - "[[Criterion-related Validity]]"
+  - "[[Educational Expectations]]"
   - "[[Emergence]]"
   - "[[Performance Pay]]"
   - "[[Chain of Evidence]]"
@@ -77,6 +78,7 @@ related_concepts:
   - "[[Saturation]]"
   - "[[Epistemology]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
+  - "[[Counter-School Culture]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Open-Mindedness]]"
   - "[[Problem Finding]]"
@@ -170,7 +172,7 @@ related_instruments:
   - "[[Flanders Interaction Analysis Categories]]"
 status: draft
 created: 2026-06-25
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 > [!textbook-overview] 章节总览
 > | 章节 | 内容概要 | 主要关联条目 |
@@ -711,7 +713,7 @@ Campbell and Stanley (1963) 识别了影响内在效度的九类因素：
 
 问卷调查和访谈调查不是对立的方法，而是互补的资料收集方式。互补体现在两个方向：
 
-**访谈补充问卷** 量化实证研究对大量数据进行分析后，结果往往与现有理论难以吻合，让研究者难以准确解释。计算机对量化数据的分析以数理统计原理为基础，但无法提供解释——任何两组数据都可以通过统计得出相关系数，但这种相关性如何解释需要研究者完成。当研究者难以解释时，通过少数调查对象的深入访谈可以有效地进行补充性或矫正性的解释。例如，问卷调查发现某校学生课外辅导参与率异常高，但统计数字本身不能说明原因；通过访谈几位家长和学生，可能发现是该校周边补习机构密集、同学间的从众压力或是家长群体的特定教育期望所驱动。
+**访谈补充问卷** 量化实证研究对大量数据进行分析后，结果往往与现有理论难以吻合，让研究者难以准确解释。计算机对量化数据的分析以数理统计原理为基础，但无法提供解释——任何两组数据都可以通过统计得出相关系数，但这种相关性如何解释需要研究者完成。当研究者难以解释时，通过少数调查对象的深入访谈可以有效地进行补充性或矫正性的解释。例如，问卷调查发现某校学生课外辅导参与率异常高，但统计数字本身不能说明原因；通过访谈几位家长和学生，可能发现是该校周边补习机构密集、同学间的从众压力或是家长群体的特定[[Educational Expectations|教育期望]]所驱动。
 
 **问卷扩展访谈** 访谈研究虽然深入但样本量小（通常只有几十人），难以判断发现的现象有多大的普遍性。将访谈中[[Emergence|涌现]]的模式、主题或初步假设转化为问卷题目，进行大范围调查，可以检验这些定性发现在更大群体中的分布和代表性。例如，访谈几位教师后发现"[[Performance Pay|绩效工资]]降低了同事合作意愿"这一模式，随后通过问卷调查几百名教师来检验这一假设是否普遍成立。
 
@@ -807,7 +809,7 @@ Campbell and Stanley (1963) 识别了影响内在效度的九类因素：
 
 > [!feature] 田野调查的三个特点
 > - **田野调查是一种实证调查**（相对于思辨而言） 根本目的是获得研究对象真实、自然的状况。研究者通常不带明确定义的理论假设，先从无法预测的进程中发现有意义的东西，然后观察、得出结论、再观察、修正结论，以此循环，螺旋式上升。结论得出是"自下而上"的过程，理论建构是扎根理论的方式。
-> - **田野调查实质是一种文化研究** 文化现象分散琐碎，体现在研究情境的方方面面。Willis 为了搜集男孩的反学校文化资料，甚至到学校所有能去的场合观察学生画过的涂鸦。研究者通过观察、参与、访谈、体验等方式去感悟、认知和诠释研究对象的文化。
+> - **田野调查实质是一种文化研究** 文化现象分散琐碎，体现在研究情境的方方面面。Willis 为了搜集男孩的[[Counter-School Culture|反学校文化]]资料，甚至到学校所有能去的场合观察学生画过的涂鸦。研究者通过观察、参与、访谈、体验等方式去感悟、认知和诠释研究对象的文化。
 > - **田野调查强调整体性和比较的分析方法** 不仅注重微观层面的个案研究，也强调从整体的社会体系和跨文化比较的视角进行全面把握。教育问题从来不只是教育领域的问题，它是社会架构、社会变迁综合变化的产物。
 
 ##### 资料搜集方式

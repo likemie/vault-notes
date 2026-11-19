@@ -235,7 +235,7 @@ updated: 2026-11-19
 ---
 
 > [!claim] 核心定位
-> 经济合作与发展组织（Organisation for Economic Co-operation and Development，OECD，简称经合组织）是由市场经济发达国家组成的跨政府间国际经济组织。作为二战后西方阵营构建的重要多边协调中枢，该机构不仅是全球科技创新政策与研发统计标准的奠基者（从 1963 年《弗拉斯卡蒂手册》到 1990 年代[[National Innovation System|国家创新系统]]框架），还在后冷战时代演进为[[Global Education Governing Complex\|全球教育治理复合体]]事实上的核心协调者与国际基准制定者。OECD 通过研发以[[PISA\|国际学生评估项目]]（Programme for International Student Assessment，PISA）为代表的跨国标准化大型学生学业与技能测评体系，开创了以量化指标、公开排行、[[Policy Brokerage\|政策中介]]与[[Peer Debriefing\|同行审议]]为基础的[[Governing at a Distance\|远处治理]]（Governing at a Distance）模式，系统地将各成员国科技研发与教育体系重塑为服务于[[Human Capital Theory\|人力资本]]积累与经济增长的战略工具。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 422–425)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 538–540)]]; [[Argument_Freeman_1995_CJE\|(Freeman, 1995, pp. 8–11)]]
+> 经济合作与发展组织（Organisation for Economic Co-operation and Development，OECD，简称经合组织）是由市场经济发达国家组成的跨政府间国际经济组织。作为二战后西方阵营构建的重要多边协调中枢，该机构不仅是全球科技创新政策与研发统计标准的开创者（从 1963 年《弗拉斯卡蒂手册》到 1990 年代[[National Innovation System|国家创新系统]]框架），还在后冷战时代演进为[[Global Education Governing Complex\|全球教育治理复合体]]事实上的核心协调者与国际基准制定者。OECD 通过研发以[[PISA\|国际学生评估项目]]（Programme for International Student Assessment，PISA）为代表的跨国标准化大型学生学业与技能测评体系，开创了以量化指标、公开排行、[[Policy Brokerage\|政策中介]]与[[Peer Debriefing\|同行审议]]为基础的[[Governing at a Distance\|远处治理]]（Governing at a Distance）模式，系统地将各成员国科技研发与教育体系重塑为服务于[[Human Capital Theory\|人力资本]]积累与经济增长的战略工具。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 422–425)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 538–540)]]; [[Argument_Freeman_1995_CJE\|(Freeman, 1995, pp. 8–11)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1961 年正式改组成立（前身为 1948 年为管理马歇尔计划而设立的[[Organisation for European Economic Co-operation|欧洲经济合作组织]]，OEEC）；深层背景为冷战前沿[[Geopolitics|地缘政治]]对抗与美国[[Economics of Education Movement|教育经济学运动]]的兴起。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 420)]]
@@ -246,7 +246,7 @@ updated: 2026-11-19
 ---
 
 > [!org-evolution] 组织发展历程
-> - **1948–1960** **[[Organisation for European Economic Co-operation|欧洲经济合作组织]]（OEEC）的奠基**
+> - **1948–1960** **[[Organisation for European Economic Co-operation|欧洲经济合作组织]]（OEEC）的创设与初步实践**
 >
 >   美国政府为管理二战后欧洲复兴的马歇尔计划而主导创立 OEEC。该援助框架从一开始就将科技人力供给与西欧工业复兴紧密绑定，为后来的教育规划与科技统计奠定了技术官僚雏形。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 422)]]
 >
@@ -275,7 +275,7 @@ updated: 2026-11-19
 >   - **1994** 日本与东亚后发追赶的成功暴露了单纯依赖弗拉斯卡蒂研发投入指标的局限，OECD 科技政策委员会（Committee for Scientific and Technological Policy，CSTP）在弗里曼、本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（Bengt-Åke Lundvall）等[[Evolutionary Economics|演化经济学]]家影响下，启动国家[[Systems of Innovation|创新系统]]大型国际研究项目。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 10–11, 19–20)]]
 >   - **1994** 帕帕多普洛斯指出经合组织形成了一种混合型[[Neoliberalism|新自由主义]]视角：经济增长居于主导地位，但必须受到社会维度与人类福祉的适度调和。[[Argument_Beech_2009_GlobalGarden|(Papadopoulos, 1994, cited in Beech, 2009b, p. 347)]]
 >   - **1995** 发布《转型中的治理》（*Governance in Transition*），系统推广以分权、绩效管理与问责为特征的新公共管理原则；[[Cumulative Innovation|后续研究]]表明，经合组织倡导的 NPM 与[[Test-Based Accountability|考试问责]]（TBA）在各成员国落地时受到英美市场模式、欧洲大陆新韦伯模式与[[Napoleonic Administrative Tradition|拿破仑模式]]等行政传统的深刻过滤与折射。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 250)]]
->   - **1996** [[Development Assistance Committee|经合组织发展援助委员会]]（Development Assistance Committee, DAC）在巴黎召开第 34 届高级别会议，在广大发展中国家缺席的情境下通过《塑造21世纪：发展合作的贡献》（*Shaping the 21st Century*）报告。该报告将宗滴恩大会的宽泛基础教育议程精简为两项具有刚性时间表的量化指标：2015 年普及初等教育（UPE）与 2005 年在初中等教育消除性别差距。这套由北方捐助国闭门制定的[[International Development Targets|国际开发目标]]（IDTs），直接奠定了 2000 年[[Millennium Development Goals|联合国千年发展目标]]（MDGs）教育条款的底层框架。[[Argument_King_2007_CE|(King, 2007, pp. 380–382)]]
+>   - **1996** [[Development Assistance Committee|经合组织发展援助委员会]]（Development Assistance Committee, DAC）在巴黎召开第 34 届高级别会议，在广大发展中国家缺席的情境下通过《塑造21世纪：发展合作的贡献》（*Shaping the 21st Century*）报告。该报告将宗滴恩大会的宽泛基础教育议程精简为两项具有刚性时间表的量化指标：2015 年普及初等教育（UPE）与 2005 年在初中等教育消除性别差距。这套由北方捐助国闭门制定的[[International Development Targets|国际开发目标]]（IDTs），直接成为 2000 年[[Millennium Development Goals|联合国千年发展目标]]（MDGs）教育条款的底层框架。[[Argument_King_2007_CE|(King, 2007, pp. 380–382)]]
 >   - **1996** 发布《以知识为基础的经济》（*The Knowledge Based Economy*），结合[[New Growth Theory|内生新增长理论]]建构起全球共享的知识经济社会想象。经合组织在北方发达国家的强势扩张侵蚀了教科文组织的传统权威，诱发其领导权危机并促成《[[Delors Report|德洛尔报告]]》的反击。[[Argument_Beech_2009_GlobalGarden|(Jones & Coleman, 2005, cited in Beech, 2009b, pp. 347–348)]]
 >   - **1996 起** 协同[[World Bank|世行]]与教科文组织共同预设单一平面的信息时代，成套推销由分权化、[[School Autonomy|学校自主权]]、教师专业化、能力本位课程与中央质量评估构成的五大支柱模型，将阿根廷、巴西等受援国注重系统记忆的[[Encyclopaedic Definition of Knowledge|百科全书式知识传统]]贬斥为落后低效。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349)]]
 >   - **1997** 发布纲领性报告《[[National Innovation System|国家创新系统]]》（*National Innovation Systems*），官方科技政策范式从布什单向线性模型跨越至多主体互动学习的[[Innovation Policy Paradigms|创新系统范式]]。

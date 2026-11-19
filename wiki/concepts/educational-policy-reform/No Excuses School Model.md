@@ -9,7 +9,7 @@ aliases:
 summary: "兴起于美国城市特许学校的高期望、严纪律与高结构直接讲授办学范式，拒绝将贫困或家庭劣势作为学业失败的借口，通过严明行为规范、延长有效教学时间与显性讲授显著提升弱势学生认知成绩。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Charter Schools]]"
+  - "[[Educational Expectations]]"
   - "[[Direct Instruction]]"
   - "[[Structured Teaching]]"
   - "[[Creativity]]"
@@ -51,13 +52,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-06
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
 
 > [!def] No Excuses School Model
-> 免借口学校[[Paradigm|范式]]（No Excuses School Model）是 1990 年代末在美国城市[[Charter Schools|特许学校]]（如 KIPP、Uncommon Schools、Achievement First）中兴起的一种高度结构化办学与教学模式。该范式以“对全体学生保持高学业期望、拒绝将贫困或家庭阶层背景作为学业不良的借口”为核心信条，依靠统一的行为规范、严格的纪律管理、延长的学习时间以及教师主导的[[Direct Instruction|直接教学]]，实现弱势学生认知测试成绩的大幅提升。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 41)]]
+> 免借口学校[[Paradigm|范式]]（No Excuses School Model）是 1990 年代末在美国城市[[Charter Schools|特许学校]]（如 KIPP、Uncommon Schools、Achievement First）中兴起的一种高度结构化办学与教学模式。该范式以“对全体学生保持高[[Educational Expectations|学业期望]]、拒绝将贫困或家庭阶层背景作为学业不良的借口”为核心信条，依靠统一的行为规范、严格的纪律管理、延长的学习时间以及教师主导的[[Direct Instruction|直接教学]]，实现弱势学生认知测试成绩的大幅提升。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 41)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向一种以权威主义学校文化、严格行为规范、密集学术补习与教师高掌控度讲授为特征的补偿性教育治理模式。

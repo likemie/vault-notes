@@ -61,7 +61,7 @@ updated: 2026-11-19
 > 地中海区域项目（Mediterranean Regional Project，MRP）是由[[Organisation for European Economic Co-operation\|欧洲经济合作组织]]（OEEC，1961 年改组为经合组织 [[OECD]]）与美国福特基金会联合资助，在南欧六国（希腊、意大利、葡萄牙、西班牙、土耳其、南斯拉夫）展开的划时代[[Transnational Education|跨国教育]]规划试点；旨在通过定量预测未来十五年的经济增长与劳动力需求，为落后国家编制国家级中长期教育扩招与投资蓝图。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 
 > [!program-context] 项目背景
-> - **立项时间 / 周期** 1960 年底正式启动，历经第一阶段规划编制（1960–1962）与第二阶段国家政策执行评估（1962–1965），成果以六国国别报告与综合评估报告形式常态化沉淀。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
+> - **立项时间 / 周期** 1960 年底正式启动，历经第一阶段规划编制（1960–1962）与第二阶段国家政策执行评估（1962–1965），成果以六国国别报告与综合评估报告形式系统呈现。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 > - **发起方与资助机制** 由经合组织科学技术人员理事会（Directorate for Scientific Affairs）直接发起，福特基金会提供配套资助，各参与国教育部与国家规划委员会承担对等本地筹资与人力保障。
 > - **覆盖范围与对象** 涵盖当时处于欧洲工业化边缘的南欧六国（总人口超 1.2 亿），涉及六国各级各类正规公立学校、职业技术培训体系、[[Normal School\|师范教育]]与高等院校。
 > - **核心问题导向** 应对冷战初期苏联人造卫星升空（[[Sputnik Shock 1957\|斯普特尼克冲击]]）所诱发的西方危机焦虑，试图打破地中海沿岸国家的贫困技术陷阱，以现代教育体系替代传统宗法与古典精英学校制度。
@@ -78,7 +78,7 @@ updated: 2026-11-19
 > - **实施控制** 统一采用赫伯特·帕内斯（Herbert Parnes, 1962）编写的《经济与社会[[Development Education|发展教育]]需求预测手册》作为六国通用的标准化方法学指导规程。
 
 > [!citation-card] 地中海区域项目的方法学宗旨与政策雄心
-> 地中海区域项目代表了一种人类历史上前所未有的制度尝试：它不再将教育预算视为社会救济或奢侈消费，而是依据现代经济计量模型，把各级学校系统严密编织进国家工业化腾飞的总体蓝图中；这是西方多边机构将教育政策彻底技术官僚化与投资化的历史起点。Parnes (1962, 转引自 [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al., 2024, p. 541]])
+> 地中海区域项目代表了一种人类历史上前所未有的制度尝试：它将教育预算从传统社会救济或消费支出，重构为依据现代经济计量模型、与国家工业化进程深度绑定的生产性投资；这是西方多边机构将教育政策彻底技术官僚化与投资化的历史起点。Parnes (1962, 转引自 [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al., 2024, p. 541]])
 >
 > *The Mediterranean Regional Project represents an unprecedented institutional attempt: it ceased to view the educational budget as social relief or luxury consumption; instead, grounded in modern econometric models, it tightly wove school systems into the overarching blueprint of national industrial take-off; this was the historical starting point for Western multilateral agencies to technocratise and capitalise educational policy.*
 
@@ -107,7 +107,7 @@ updated: 2026-11-19
 > [!indicators] 评估指标体系
 > - **投入指标** 教育支出占国民生产总值（GNP）比重（普遍要求提升至 4%–5%）、公立学校基础设施基建投资额。
 > - **过程与依从性指标** 职业分类编码与 ISCED 标准衔接完整率、各学段招生配额执行达标率。
-> - **产出与结果指标** 中等教育普及率跃升、工程与技术类高等教育毕业生占比、劳动力文盲率降幅。
+> - **产出与结果指标** 中等教育普及率快速攀升、工程与技术类高等教育毕业生占比、劳动力文盲率降幅。
 
 > [!finding-cards] 核心实证结论
 > - **公立教育财政跨越式翻倍** 项目成功迫使南欧六国政府在财政紧缩压力下将教育开支列为法定优先序列，1960–1970 年间六国公共教育经费年均复合增长率超 10%。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]

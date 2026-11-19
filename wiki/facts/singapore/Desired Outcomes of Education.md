@@ -11,7 +11,7 @@ subtype: policy
 region: singapore
 fact_region: "singapore"
 fact_kind: "policy"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Whole Person Education]]"
   - "[[Ability-Driven Education]]"
   - "[[Learner Autonomy]]"
+  - "[[Educational Expectations]]"
   - "[[Formative Assessment]]"
   - "[[Curriculum Alignment]]"
   - "[[University Motto]]"
@@ -83,7 +84,7 @@ updated: 2026-11-19
 > - **约束机制** 要求各科统编教学大纲与校本特色项目必须对齐期望成果，并作为学校卓越成就模型（SEM）中“学生综合素质发展”维度的外部督导指标。
 
 > [!citation-card] 全人教育意图与能力驱动课程的对接
-> [[Saravanan Gopinathan|高平纳坦]]论述，思考型学校，学习型国家的目标在于实现教育期望成果（[[Department of Energy|DOE]]）。教育期望成果试图对全人教育的目标作出界定，并在教育周期的不同阶段对学生应当掌握的价值观、技能与态度进行系统分类。这不仅是对整全儿童发展需求的有力重申，更体现了对学生所拥有的广泛天赋、能力、倾向与技能的正式确认。为了推进实现教育期望成果，必须开发出更具弹性、更能包容学生能力与才干差异的能力驱动型课程。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 60–61)]]
+> [[Saravanan Gopinathan|高平纳坦]]论述，思考型学校，学习型国家的目标在于实现[[Educational Expectations|教育期望]]成果（[[Department of Energy|DOE]]）。教育期望成果试图对全人教育的目标作出界定，并在教育周期的不同阶段对学生应当掌握的价值观、技能与态度进行系统分类。这不仅是对整全儿童发展需求的有力重申，更体现了对学生所拥有的广泛天赋、能力、倾向与技能的正式确认。为了推进实现教育期望成果，必须开发出更具弹性、更能包容学生能力与才干差异的能力驱动型课程。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 60–61)]]
 >
 > *'Thinking Schools Learning Nation' and its goal the 'Desired Outcomes of Education'. The DOE was an attempt to define the aims of holistic education and in categorising the values, skills and attitudes that Singaporean students should attain at different stages of the education cycle. It was a strong restatement of the need to develop the whole child, and recognition of the wide range of talents, abilities, aptitudes and skills that students possess. An ability driven curriculum was to be developed which would be more flexible and accommodating of variability...*
 

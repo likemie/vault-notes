@@ -7,10 +7,10 @@ aliases:
 summary: "中国农村与小城镇家庭为获取优质教育资源而由成年亲属进城租房陪伴子女求学的迁移行为；既反映撤并背景下以教促城的资源重构，也承载着倾注全家资源的伦理期许，易使学生陷入唯分数导向的直觉依赖。"
 type: concept
 domain: "sociology-of-education"
-related_count: 13
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - region/china
   - theme/rural-education
@@ -20,28 +20,35 @@ tags:
   - theme/family-education
 related_concepts:
   - "[[School Choice]]"
+  - "[[Habitus]]"
   - "[[Charter Schools]]"
   - "[[School Vouchers]]"
-  - "[[Cultural Capital]]"
-  - "[[Habitus]]"
+  - "[[Champ]]"
+  - "[[Habitus Hysteresis]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[First-Generation College Student]]"
-  - "[[Sense of Shame]]"
+  - "[[Emergence]]"
+  - "[[Variable]]"
+  - "[[Cultural Capital]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Effect Size]]"
+  - "[[Fieldwork]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Yajun Zheng]]"
 related_facts:
   - "[[Rural School Consolidation]]"
-  - "[[Hukou System]]"
   - "[[Gaokao]]"
+  - "[[Hukou System]]"
 related_arguments:
   - "[[Argument_Teng_2025_CE]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
 confidence: high
 status: draft
 created: 2026-05-26
-updated: 2026-11-17
+updated: 2026-11-19
 ---
 
 ---
@@ -51,7 +58,7 @@ updated: 2026-11-17
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 陪读指向教育资源空间重组中，家庭以代际照料与居住迁移为手段吸纳教育资源、维系或争取阶层流动的日常实践。
-> - **用途** 帮助研究者透视中国城乡转型中以教育拉动城镇化的行政逻辑、底层家庭在教育锦标赛中的资本动员极限，以及密集家庭干预对学生认知习性的深层形塑。
+> - **用途** 帮助研究者透视中国城乡转型中以教育拉动城镇化的行政逻辑、底层家庭在教育锦标赛中的资本动员极限，以及密集家庭干预对学生认知[[Habitus|习性]]的深层形塑。
 > - **边界** 陪读以子女求学为单一目的，不属于旨在获取迁入地工资收入的典型劳动力迁移，也不等同于基于多元办学体制的国际市场化择校。
 
 > [!citation-card|notitle] 陪读迁移的核心定义与社会学界定
@@ -106,10 +113,10 @@ updated: 2026-11-17
 ---
 
 > [!concept-proposition] 命题二｜倾尽家庭资源的密集陪读模式在强化应试动力的同时易塑造学生被动依附的行动习性
-> **高压伦理契约与大学场域适应困境** 母亲进城陪读与严格管控构成了沉重的道德催化机制，促使学生将全部精力集中于高考答卷；但也剥夺了其自主规划的实践机会，导致进入异质大学场域后显现习性滞后。
+> **高压伦理契约与大学[[Champ|场域]]适应困境** 母亲进城陪读与严格管控构成了沉重的道德催化机制，促使学生将全部精力集中于[[Gaokao|高考]]答卷；但也剥夺了其自主规划的实践机会，导致进入异质大学场域后显现[[Habitus Hysteresis|习性滞后]]。
 
-> [!claim] 郑雅君
-> **道德化应试动力与直觉依赖模式的生成** 在对名校大学生的生活史追溯中，农村与县镇背景学子普遍经历过初高中时期的家庭陪读与全方位生活托管。甘肃乡镇学子大成由母亲前往外地县中租房陪读，全家经济极度紧绷，成绩单成为报答母亲与改变家族命运的唯一凭证；湖南农村学子牛铭因高强度苦读重病手术后，母亲进城租房陪读并实施作息管控。这种陪读机制将全部生活简化为考分回报，使学子建立起高度依赖外在规则与道德驱动的行动惯性。当脱离封闭高中考场进入自主开放的高校场域后，受陪读庇护的学生往往缺乏对制度规则的批判审视与自主目标设定能力，演变为盲目摸索的[[Intuition-Dependent Mode|直觉依赖模式]]。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 67–68, 76–79)]]
+> [!claim] [[Yajun Zheng|郑雅君]]
+> **道德化应试动力与[[Intuition-Dependent Mode|直觉依赖模式]]的生成** 在对名校大学生的生活史追溯中，农村与县镇背景学子普遍经历过初高中时期的家庭陪读与全方位生活托管。甘肃乡镇学子大成由母亲前往外地县中租房陪读，全家经济极度紧绷，成绩单成为报答母亲与改变家族命运的唯一凭证；湖南农村学子牛铭因高强度苦读重病手术后，母亲进城租房陪读并实施作息管控。这种陪读机制将全部生活简化为考分回报，使学子建立起高度依赖外在规则与道德驱动的行动惯性。当脱离封闭高中考场进入自主开放的高校场域后，受陪读庇护的学生往往缺乏对制度规则的批判审视与自主目标设定能力，演变为盲目摸索的[[Intuition-Dependent Mode|直觉依赖模式]]。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 67–68, 76–79)]]
 
 ---
 
@@ -117,12 +124,12 @@ updated: 2026-11-17
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **空间与资本筛选机制** | 陪读是资源集中与空间排斥交织的变相择校，强化城乡阶层分化 | 农村学校撤并、新型城镇化推进与县域择校竞争 | [[Argument_Teng_2025_CE\|Teng and Wang (2025)]] |
-> | **习性塑造与适应代价** | 陪读的高压伦理契约将学习窄化为分数回报，诱发后续发展自主性缺失 | 县中高强度升学竞争、第一代大学生高等教育适应 | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] |
+> | **习性塑造与适应代价** | 陪读的高压伦理契约将学习窄化为分数回报，诱发后续发展自主性缺失 | 县中高强度升学竞争、[[First-Generation College Student\|第一代大学生]]高等教育适应 | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] |
 
 ---
 
 > [!dev-timeline] 概念演变
-> - **2000s — 撤并推力与初期陪读潮涌现** 伴随农村布局调整，乡村教学点锐减，部分有条件的家庭开始在乡镇及县城租房就读。
+> - **2000s — 撤并推力与初期陪读潮[[Emergence|涌现]]** 伴随农村布局调整，乡村教学点锐减，部分有条件的家庭开始在乡镇及县城租房就读。
 > - **2010s — “以教促城”政策催化与县域陪读规模化** 地方政府将优质教育集中到县城以拉动房产销售与消费，陪读成为县域普遍社会景观。
 > - **2020s — 空间资本再生产机制与学生阶层习性反思** 学界深入揭示陪读背后的资本转化与空间排斥[[Argument_Teng_2025_CE|(Teng & Wang, 2025)]]，并进一步追踪陪读经验对拔尖学生大学就学经历与习性塑造的深远影响（郑雅君 2023）。
 
@@ -139,12 +146,12 @@ updated: 2026-11-17
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Teng_2025_CE\|Teng and Wang (2025)]] | 2000—2022 年全国教育统计数据及湖北 G 县实地调查 | 官方统计历时分析与实地质性个案 | 农村小学办学规模变动及陪读成本 | 全国农村小学由 440,284 所降至 76,093 所（降幅 83%）；县城陪读年租金 2000–4000 元 | — | 宏观统计印证撤并推力与以教促城吸纳农村生源的现实机制 |
+> | [[Argument_Teng_2025_CE\|Teng and Wang (2025)]] | 2000—2022 年全国教育统计数据及湖北 G 县[[Fieldwork\|实地调查]] | 官方统计历时分析与实地质性个案 | 农村小学办学规模变动及陪读成本 | 全国农村小学由 440,284 所降至 76,093 所（降幅 83%）；县城陪读年租金 2000–4000 元 | — | 宏观统计印证撤并推力与以教促城吸纳农村生源的现实机制 |
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 citation: "谢爱磊. (2017). “读书无用”还是“读书无望”——对农村底层居民教育观念的再认识. 北京大学教育评论, 15(3), 92–108."
-extracted_to: []
+extracted_to:
+  - "[[Argument_Xie_2017_PKUER]]"
 processed_date: 2026-11-19
 ---
 

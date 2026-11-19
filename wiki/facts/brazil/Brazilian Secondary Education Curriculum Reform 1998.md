@@ -107,7 +107,7 @@ updated: 2026-11-19
 > - **1998 年底** 创设国家中等教育考试（Exame Nacional do Ensino Médio, ENEM），引入跨学科与能力评估框架，配合课程改革实施。
 > - **1999–2000 年** 巴西教育部出台《国家中等教育课程参数》（PCNEM），向各州推介跨学科模块与教学案例。
 > - **2005 年** [[Jason Beech|杰森·比奇]]完成针对阿根廷与巴西课程和师资改革的实证调研，阐明该政策作为“[[Floating Signifier|漂浮能指]]”并置革新与保守的话语功能。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 356–357)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 354–356)]]
-> - **2009 年** 比奇通过两篇代表性专论将该改革确立为比较教育学空间转向与[[Policy Mobility|政策流动]]转译理论的奠基实证案例。[[Argument_Beech_2009_CE|(Beech, 2009a)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b)]]
+> - **2009 年** 比奇通过两篇代表性专论将该改革确立为比较教育学空间转向与[[Policy Mobility|政策流动]]转译理论的核心实证案例。[[Argument_Beech_2009_CE|(Beech, 2009a)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b)]]
 
 ---
 

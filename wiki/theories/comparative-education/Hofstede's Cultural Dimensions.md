@@ -30,6 +30,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Avatar]]"
   - "[[Student-Teacher Relationship]]"
+  - "[[Educational Expectations]]"
   - "[[Heterogeneity]]"
   - "[[Cultural Capital]]"
   - "[[Western Learner]]"
@@ -43,7 +44,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Rote Learning]]"
   - "[[Grit]]"
-  - "[[Mind and Its Wonders]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Teacher Questioning]]"
   - "[[Epistemic Stances]]"
@@ -82,7 +82,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-05
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 > [!theory-position] 理论定位
@@ -146,7 +146,7 @@ updated: 2026-11-11
 > [!proposition-chain] 核心命题三｜教学法跨文化转译的制度适配与阶级折射命题（[[Argument_Laursen_2015_Paideia\|Laursen, 2015]]）
 > - **前提一** 低权力距离、低不确定性规避与高度个人主义的文化特征（如丹麦），理论上使学习者天然偏好开放、弱控制、学生中心的对话式教学。[[Argument_Laursen_2015_Paideia\|(Laursen, 2015, pp. 36–37)]]
 >   > [!evidence-grid]- 证据
->   > - **证据一** 丹麦国家社会科学研究所（[[Science Foundation Ireland|SFI]]）与高绩效学校大规模实证显示，国际[[Effective Teaching\|有效教学]]综合（Hattie, Helmke, Meyer）所揭示的核心基本质量（清晰教学目标、明确教师领导、有序[[Classroom Management\|课堂管理]]、高学业期望）在丹麦本土同样跨文化稳健，并未因“丹麦文化追求平等自由”而失效。[[Argument_Laursen_2015_Paideia\|(Laursen, 2015, pp. 37–38)]]
+>   > - **证据一** 丹麦国家社会科学研究所（[[Science Foundation Ireland|SFI]]）与高绩效学校大规模实证显示，国际[[Effective Teaching\|有效教学]]综合（Hattie, Helmke, Meyer）所揭示的核心基本质量（清晰教学目标、明确教师领导、有序[[Classroom Management\|课堂管理]]、高[[Educational Expectations|学业期望]]）在丹麦本土同样跨文化稳健，并未因“丹麦文化追求平等自由”而失效。[[Argument_Laursen_2015_Paideia\|(Laursen, 2015, pp. 37–38)]]
 >   > - **证据二** 经验数据进一步证实，开放式、弱教师控制的教学主要使社会文化背景较强（优势阶层）的学生获益；相反，家庭背景较弱的学生更加绝对地依赖明确的教师领导与结构化指导。[[Argument_Laursen_2015_Paideia\|(Laursen, 2015, pp. 38, 40)]]
 > - **前提二** 宏观国家文化维度往往以受教育中产阶级为默认常模，抽象掉了民族国家内部由于家庭资本、阶层地位与亚文化差异造成的结构性[[Heterogeneity\|异质性]]。
 > - **推导** 因此，教学法的有效性无法直接从宏观国家文化维度中先验推导；有效教学存在超越文化维度的普适基础质量，而微观层面的学生社会阶层背景比宏观国家文化更具决定性解释力。[[Argument_Laursen_2015_Paideia\|(Laursen, 2015, p. 40)]]
@@ -205,7 +205,7 @@ updated: 2026-11-11
 > > [!example] 案例二：儒家传统文化二元对立与本质化批判（[[Argument_Ryan_2010_ChineseLearner\|Ryan, 2010]]）
 > > - **研究背景** 伴随国际[[Study Abroad|留学]]生的大规模流动，西方高校[[Emergence\|涌现]]出大量关于“[[Chinese Learner\|中国学习者]]”的指导指南与学术讨论。Hofstede 的文化维度框架常被作为权威理论支柱，用于测绘所谓的 [[Confucian Heritage Cultures\|CHC]]（儒家文化圈）特征。
 > > - **[[Discourse|话语]]建构与批判** Ryan 指出，学者们援引高权力距离与集体主义等标签，制造出一种“文化地图绘制（cultural cartography）”（P. Smith, 1996），将中国学生单向本质化为：盲从师长、被动接受、缺乏批判性思维、依赖[[Rote Learning\|死记硬背]]的“缺陷型学习者”。
-> > - **第五维度的理论吊诡** 尽管香港学者联合发起的“中国文化建设（CCC, 1987）”曾针对 Hofstede [[Questionnaire\|问卷]]的西方中心主义偏见，建构了涵盖“坚韧[[Grit|毅力]]、依地位排序、节俭”等特质的第五维度“儒家工作动力（Confucian work dynamism）”，但 Hofstede（1997）将其吸纳为“长期导向（LTO）”后，却反过来被用于坐实“东方心灵（Eastern mind）”与“西方心灵（[[Mind and Its Wonders\|western mind]]）”的僵化二分法（Louie, 2005, p. 20）。这种机械的文化维度推导严重遮蔽了中国内部巨大的阶层与区域异质性，忽视了 2001 年基础教育课程改革中发生的深层课堂互动重构，更诱发了自证预言式的[[Stereotype Threat\|刻板印象威胁]]。
+> > - **第五维度的理论吊诡** 尽管香港学者联合发起的“中国文化建设（CCC, 1987）”曾针对 Hofstede [[Questionnaire\|问卷]]的西方中心主义偏见，建构了涵盖“坚韧[[Grit|毅力]]、依地位排序、节俭”等特质的第五维度“儒家工作动力（Confucian work dynamism）”，但 Hofstede（1997）将其吸纳为“长期导向（LTO）”后，却反过来被用于坐实“东方心灵（Eastern mind）”与“西方心灵（western mind）”的僵化二分法（Louie, 2005, p. 20）。这种机械的文化维度推导严重遮蔽了中国内部巨大的阶层与区域异质性，忽视了 2001 年基础教育课程改革中发生的深层课堂互动重构，更诱发了自证预言式的[[Stereotype Threat\|刻板印象威胁]]。
 >
 > > [!example] 案例三：高等教育生成式 AI 跨越权力距离的壁垒破除实证（[[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung, 2025]]）
 > > - **研究背景** 在全球高等教育涌入[[Generative Artificial Intelligence\|生成式人工智能]]的背景下，学界关于技术促学效果存在高度异质性争议。传统课堂中，学生提问与探究行为深度受制于本土师生交往规约。

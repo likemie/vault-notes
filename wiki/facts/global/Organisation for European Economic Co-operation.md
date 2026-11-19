@@ -78,7 +78,7 @@ updated: 2026-11-19
 ---
 
 > [!dev-timeline] 组织发展历程
-> - **1948–1956 — 战后物资协调与“经济版 NATO”奠基期** 在美国国务卿马歇尔倡导下成立，核心任务聚焦于跨国宏观收支协调、关税削减与生产力提升。德国学者莱姆格鲁伯（Leimgruber）与施梅尔策尔（Schmelzer）将其定性为“经济版 NATO”，以多边经济合作替代直接的意识形态同盟，夯实资本主义西欧的物质防线。在此阶段，组织内完全没有涉足正规学校教育与文化事务。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
+> - **1948–1956 — 战后物资协调与“经济版 NATO”初创期** 在美国国务卿马歇尔倡导下成立，核心任务聚焦于跨国宏观收支协调、关税削减与生产力提升。德国学者莱姆格鲁伯（Leimgruber）与施梅尔策尔（Schmelzer）将其定性为“经济版 NATO”，以多边经济合作替代直接的意识形态同盟，夯实资本主义西欧的物质防线。在此阶段，组织内完全没有涉足正规学校教育与文化事务。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 > - **1957–1960 — [[Sputnik Shock 1957|斯普特尼克冲击]]、科技人力办公室与全球[[Development Turn in Comparative Education|发展转向]]** 1957 年苏联成功发射首颗人造卫星（[[Sputnik Shock 1957|Sputnik]] 冲击），西方世界陷入深重的技术落后焦虑。OEEC 设立科技人力办公室（Office for Scientific and Technical Personnel），将测度欧美科技差距确立为核心议题；随着欧洲本土重建任务基本达成，机构职能开始由欧洲重建向第三世界发展援助与教育规划扩散（Beech, 2006b；[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, pp. 344–345]]）；1960 年主持召开[[1960 Bellagio Conference|贝拉吉奥会议]]，启动[[Mediterranean Regional Project|地中海区域项目]]，确立以[[Manpower Requirements Approach|人力需求法]]为核心的教育规划实验。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 540–541)]]
 > - **1961 — 跨大西洋改组与 [[OECD]] 的诞生** 随着欧洲经济重建完成，1960 年 12 月签署《经济合作与发展组织公约》，美加两国作为完全成员加入，OEEC 于 1961 年 9 月 30 日正式终结并改组为跨大西洋的 [[OECD]]。原 OEEC 的科技人力与教育事务被整编入 OECD 早期架构，为后续设立教育委员会及 [[Centre for Educational Research and Innovation|教育研究与创新中心]]（CERI）奠定了组织基座。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–439)]]; [[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, p. 58)]]
 

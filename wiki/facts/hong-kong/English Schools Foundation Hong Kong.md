@@ -11,7 +11,7 @@ subtype: organization
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Fourth Culture]]"
   - "[[International Schools]]"
+  - "[[Educational Expectations]]"
   - "[[Chinese Learner]]"
   - "[[Paradigm]]"
   - "[[General Education]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-16'
-updated: 2026-11-02
+updated: 2026-11-19
 ---
 
 ---
@@ -109,7 +110,7 @@ updated: 2026-11-02
 > > 争论 ESF 规模扩张吸纳优秀本地华人学生，究竟是满足多元需求还是削弱了公立教育的生源基础。
 > >
 > > - **批评视角（教育公平派）** 学者指出，公立英文授课学额供给不足，促使中产家庭转向半私立的 ESF 与高收费[[International Schools|国际学校]]，在香港出生率下行背景下，这一学生转移对公立学校体系形成“生源抽吸”效应，引发教育阶层极化风险。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, p. 5)]]
-> > - **机构与家长立场** 强调多元办学选择权，指出其全英语沉浸环境与现代国际课程满足了家庭参与全球竞争的合理教育期望。
+> > - **机构与家长立场** 强调多元办学选择权，指出其全英语沉浸环境与现代国际课程满足了家庭参与全球竞争的合理[[Educational Expectations|教育期望]]。
 >
 > > [!axis] 政府经常性资助公平性辩论
 > > 历史上一度引发争议的议题在于：政府动用纳税人公共财政补贴主要面向高收入与中产家庭的英语学校是否合乎社会正义。该争论最终促成香港政府于 2016 年起分阶段取消对 ESF 的长年政府补贴。

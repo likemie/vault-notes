@@ -9,7 +9,7 @@ aliases:
 summary: "受儒家学习传统深刻塑造的东亚与东南亚文化区域分析框架，涵盖中国大陆、香港、台湾、新加坡、日本、韩国与越南。该概念旨在超越国族与政治边界，探究共享的儒家信念（勤勉努力、道德自我完善、考试选拔与尊师重道）及制度架构如何塑造高学业成就与独特学习过程，并反思文化本质主义与制度主义建构的理论张力。"
 type: concept
 domain: "comparative-education"
-related_count: 57
+related_count: 59
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -20,6 +20,7 @@ tags:
   - theory/confucianism
 related_concepts:
   - "[[Chinese Learner]]"
+  - "[[Educational Expectations]]"
   - "[[Academic Achievement]]"
   - "[[Paradox of the Chinese Learner]]"
   - "[[High-Performing Education Systems]]"
@@ -41,6 +42,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Formative Assessment]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Instrumental Rationality]]"
   - "[[Teaching for Understanding]]"
   - "[[Student Motivation]]"
   - "[[Epistemological Beliefs]]"
@@ -90,7 +92,7 @@ updated: 2026-11-19
 ---
 
 > [!def] Confucian Heritage Cultures
-> **儒家文化圈（Confucian Heritage Cultures, CHC）** 是指由[[David Watkins|戴维·沃特金斯]]（David Watkins）与[[John Biggs|约翰·比格斯]]（John Biggs）在 1996 年《[[Chinese Learner|中国学习者]]》（*The Chinese Learner*）中确立的跨国比较教育与学习科学分析范畴，专门涵盖受[[Confucian Learning Tradition|儒家学习传统]]历史熏陶的国家与地区（主要包括中国大陆、香港、台湾、新加坡、日本、韩国与越南）。该概念旨在超越单一国族或主权地理的政治界限，以共享的儒家文化基因（强调努力可塑性、道德自我完善、高利害考试选拔与家庭教育期望）为分析纽带，解释跨国测评中东亚学习者在缺乏西方渐进式教学法的情况下依然展现极高[[Academic Achievement|学业成就]]的“[[Paradox of the Chinese Learner|中国学习者悖论]]”。当代制度主义研究进一步拓展了该范畴，强调东亚[[High-Performing Education Systems|高绩效教育系统]]兼具独特的国家制度动员与教学法杂糅机制，警惕将其简化为同质化的文化本质主义解释。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 82–84)]]; [[Argument_Ryan_2010_ChineseLearner|(Ryan, 2010, pp. 38–41)]]; [[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 450–452)]]
+> **儒家文化圈（Confucian Heritage Cultures, CHC）** 是指由[[David Watkins|戴维·沃特金斯]]（David Watkins）与[[John Biggs|约翰·比格斯]]（John Biggs）在 1996 年《[[Chinese Learner|中国学习者]]》（*The Chinese Learner*）中确立的跨国比较教育与学习科学分析范畴，专门涵盖受[[Confucian Learning Tradition|儒家学习传统]]历史熏陶的国家与地区（主要包括中国大陆、香港、台湾、新加坡、日本、韩国与越南）。该概念旨在超越单一国族或主权地理的政治界限，以共享的儒家文化基因（强调努力可塑性、道德自我完善、高利害考试选拔与家庭[[Educational Expectations|教育期望]]）为分析纽带，解释跨国测评中东亚学习者在缺乏西方渐进式教学法的情况下依然展现极高[[Academic Achievement|学业成就]]的“[[Paradox of the Chinese Learner|中国学习者悖论]]”。当代制度主义研究进一步拓展了该范畴，强调东亚[[High-Performing Education Systems|高绩效教育系统]]兼具独特的国家制度动员与教学法杂糅机制，警惕将其简化为同质化的文化本质主义解释。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 82–84)]]; [[Argument_Ryan_2010_ChineseLearner|(Ryan, 2010, pp. 38–41)]]; [[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 450–452)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向受儒家经典思想、家庭伦理与[[Civil Service Examination|科举]]考选制度长期塑造，在学习信念、[[Epistemology|认识论]]定位与师生权力互动中共享核心文化图式的东亚与东南亚教育区域。
@@ -156,7 +158,7 @@ updated: 2026-11-19
 > **国家能力、严密协调与混合教学法支持** 邓宗怡与戈皮纳坦（[[Argument_Deng_2016_CE|Deng & Gopinathan, 2016]]）指出，将新加坡等东亚系统的优异测评表现单维归因于儒家文化遗产或家庭重教传统，遮蔽了具体制度架构的建构性作用。新加坡的高绩效是强有力的发展型国家能力主导下的系统性工程：国家建立了与课程标准高度对齐的高利害考试体系、高度专业化的师资培养生态（国立教育学院 [[National Institute of Education|NIE]]），并[[Creativity|创造性]]地融合了以直接讲授奠定扎实学科基础、以[[Formative Assessment|形成性评估]]引导[[Higher-Order Thinking Skills|高阶思维]]的混合教学法。制度能力的有效运作才是将文化期望转化为卓越学业表现的关键支柱。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 450–455)]]
 
 > [!claim] [[David Hogan|Hogan, D.]] et al.
-> **解构文化宿命论与教学杂糅的制度适应机理** 霍根等（[[Argument_Hogan_2013_ROE|Hogan et al., 2013]]）在对新加坡 32 所中学开展的大规模[[Causal Modeling|结构方程建模]]中，直接实证检验了儒家文化圈假说。研究证实，新加坡课堂广泛存在的结构化讲授与解题操练植根于国家统一高利害考试体系（小六离校会考 [[Primary School Leaving Examination|PSLE]] 与剑桥 O 水准）的刚性规锁，体现了教师面对问责考核时的务实制度适应。教师展现出工具理性的无宗派教学杂糅（pedagogical hybridity）：以直接讲授稳固基础学科知识，同时按需嵌合[[Teaching for Understanding|理解性教学]]策略。实证因果全模型表明，高学业绩效的生产依托微观教学实践与宏观考试选拔机制之间的紧密制度嵌合，挑战了单纯依赖文化宿命论（cultural fatalism）解释东亚教育表现的理论预设。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 58–61, 94–101)]]
+> **解构文化宿命论与教学杂糅的制度适应机理** 霍根等（[[Argument_Hogan_2013_ROE|Hogan et al., 2013]]）在对新加坡 32 所中学开展的大规模[[Causal Modeling|结构方程建模]]中，直接实证检验了儒家文化圈假说。研究证实，新加坡课堂广泛存在的结构化讲授与解题操练植根于国家统一高利害考试体系（小六离校会考 [[Primary School Leaving Examination|PSLE]] 与剑桥 O 水准）的刚性规锁，体现了教师面对问责考核时的务实制度适应。教师展现出[[Instrumental Rationality|工具理性]]的无宗派教学杂糅（pedagogical hybridity）：以直接讲授稳固基础学科知识，同时按需嵌合[[Teaching for Understanding|理解性教学]]策略。实证因果全模型表明，高学业绩效的生产依托微观教学实践与宏观考试选拔机制之间的紧密制度嵌合，挑战了单纯依赖文化宿命论（cultural fatalism）解释东亚教育表现的理论预设。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 58–61, 94–101)]]
 
 ---
 

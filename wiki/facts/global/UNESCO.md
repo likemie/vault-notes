@@ -153,7 +153,7 @@ updated: 2026-11-19
 ---
 
 > [!org-evolution] 组织发展历程
-> - **1945–1965** **战后人权奠基与有限再分配性多边主义**
+> - **1945–1965** **战后人权体系建立与有限再分配性多边主义**
 >
 >   卡伦·蒙迪（Karen Mundy, 1998）将这一时期概括为以教科文组织为中枢的有限再分配性多边主义（Limited Redistributive Multilateralism）：强调人道主义价值与社会福利，支持新兴独立国家建设公共教育体系。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 541, 543)]]
 >
@@ -307,7 +307,7 @@ updated: 2026-11-19
 > > *UNESCO’s report Learning: The Treasure Within (1996) can be seen as an outcome of a crisis of leadership in an organisation that felt that its authority was being eroded by the OECD in the North and the World Bank in the South; the Delors Report was a clear public offensive to regain political legitimacy.*
 
 > [!citation-card] 战后多边教育危机的普遍主义建构
-> [[Philip H. Coombs|菲利普·库姆斯]]（Philip H. Coombs）曾任美国助理国务卿，不仅是教科文组织[[International Institute for Educational Planning|国际教育规划研究所]]（IIEP）的首任所长，更撰写了极具影响力的奠基之作《世界教育危机》（1968）。他比任何人都更鲜明地人格化体现了西方多边体系的普遍主义主张；尽管冷战时期铁幕对岸对这部著作提出过严厉的[[Ideology Critique|意识形态批判]]，但它成功将教育危机塑造成一个全人类共同面对的不可逆转的全球命题。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
+> [[Philip H. Coombs|菲利普·库姆斯]]（Philip H. Coombs）曾任美国助理国务卿，不仅是教科文组织[[International Institute for Educational Planning|国际教育规划研究所]]（IIEP）的首任所长，更撰写了极具影响力的开创性著作《世界教育危机》（1968）。他比任何人都更鲜明地人格化体现了西方多边体系的普遍主义主张；尽管冷战时期铁幕对岸对这部著作提出过严厉的[[Ideology Critique|意识形态批判]]，但它成功将教育危机塑造成一个全人类共同面对的不可逆转的全球命题。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
 >
 > *Philip H. Coombs, the first Assistant Secretary of State for Education and Culture (appointed by President John F. Kennedy), the first Director of the UNESCO International Institute for Educational Planning, and author of the influential book The World Educational Crisis (Coombs 1968), personified more than anyone else the universalist claim. Published in a divided world during the Cold War, Coombs’ book was harshly criticised on the other side of the Iron Curtain.*
 

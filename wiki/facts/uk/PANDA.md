@@ -127,7 +127,7 @@ updated: 2026-11-19
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Ofsted]] | Fact (Organization) | 研制并运用 PANDA 报告对英格兰学校实施现场视导与分级评价的国家专门机构。 |
-> | [[Education Reform Act 1988]] | Fact (Policy) | 确立全国关键学段统考体系，为 PANDA 报告提供底层标准化数据的奠基性法案。 |
+> | [[Education Reform Act 1988]] | Fact (Policy) | 确立全国关键学段统考体系，为 PANDA 报告提供底层标准化数据的先驱法案。 |
 > | [[Value-Added Model]] | Method | PANDA 报告在构建情境化增值模型与排除生源差异时所应用的关键统计分析方法。 |
 > | [[Data Infrastructure]] | Concept | PANDA 及后续数据库作为现代规制型治理所依赖的国家教育数据基础设施形态。 |
 > | [[Test-Based Accountability]] | Concept | PANDA 系统为英国中央政府实施精细化表现主义督导所支撑的测试问责[[Paradigm\|范式]]。 |

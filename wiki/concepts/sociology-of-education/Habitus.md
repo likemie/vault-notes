@@ -7,10 +7,10 @@ aliases:
 summary: "Pierre Bourdieu 实践理论的核心枢纽概念，指行动者在特定社会生存条件中具身化的持久行为倾向系统，用于解释客观结构、身体实践与阶层再生产。"
 type: concept
 domain: "sociology-of-education"
-related_count: 37
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 53
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - habitus
   - bourdieu
@@ -27,6 +27,10 @@ related_concepts:
   - "[[Determinism]]"
   - "[[External Validity]]"
   - "[[Reflexivity]]"
+  - "[[Habitus Hysteresis]]"
+  - "[[The Shock of the Elite]]"
+  - "[[Habitus Divided Against Itself]]"
+  - "[[Personal Myth]]"
   - "[[New Public Management]]"
   - "[[Performance Indicators]]"
   - "[[Alienation]]"
@@ -35,8 +39,19 @@ related_concepts:
   - "[[Intuition-Dependent Mode]]"
   - "[[Self-Authorship]]"
   - "[[Talent Assumption]]"
+  - "[[Mimesis]]"
+  - "[[Cultural Code]]"
+  - "[[Discourse]]"
+  - "[[Reliability]]"
   - "[[Mentorship]]"
   - "[[Operationalization]]"
+  - "[[Academic Engagement]]"
+  - "[[Social Engagement]]"
+  - "[[Extracurricular Activities]]"
+  - "[[Performance Capital]]"
+  - "[[Cultural Capital]]"
+  - "[[Educational Expectations]]"
+  - "[[Phronesis]]"
   - "[[Recontextualization]]"
   - "[[Paradigm]]"
 related_theories:
@@ -47,7 +62,6 @@ related_methods:
   - "[[Ethnography]]"
   - "[[In-depth Interview]]"
   - "[[Constructivist Grounded Theory]]"
-  - "[[Grounded Theory]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[Yajun Zheng]]"
@@ -56,9 +70,11 @@ related_persons:
   - "[[Aristotle]]"
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
-  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]"
-  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch06]]"
   - "[[Argument_Eacott_2011_JEAH]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch06]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch04]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch05]]"
+  - "[[Argument_Xie_2017_PKUER]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
 confidence: high
 status: active
@@ -120,23 +136,23 @@ updated: 2026-11-19
 > **惯习错配的三种形态与主观危机** 当行动者携带着原有社会化阶段内化的倾向系统进入异质场域时，主客观条件的不协调将激发心理脱节、认同撕裂或行为失调，展现出惯习与场域相互碰撞的动力学过程。
 
 > [!claim] [[Pierre Bourdieu|Bourdieu, P.]] / Wacquant, L.
-> **惯习滞后与错置** Bourdieu 指出，当行动者跨入异质场域时，原初惯习无法有效驾驭新规则，而适配的新倾向尚未养成，这种时间差即构成“惯习滞后（habitus hysteresis）”，往往导致发展机遇被错过；而行动者置身于异己场域时产生的如同“鱼离了水”般的不适感，则构成“惯习错置（habitus dislocation）”（Bourdieu and Wacquant, 1992；[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。在英国工人阶层学生进入精英大学的研究中，这种错置表现为强烈的“精英休克”（Reay et al., 2009）。
+> **惯习滞后与错置** Bourdieu 指出，当行动者跨入异质场域时，原初惯习无法有效驾驭新规则，而适配的新倾向尚未养成，这种时间差即构成“惯习滞后（[[Habitus Hysteresis|habitus hysteresis]]）”，往往导致发展机遇被错过；而行动者置身于异己场域时产生的如同“鱼离了水”般的不适感，则构成“惯习错置（habitus dislocation）”（Bourdieu and Wacquant, 1992；[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。在英国工人阶层学生进入精英大学的研究中，这种错置表现为强烈的“[[The Shock of the Elite|精英休克]]”（Reay et al., 2009）。
 
 > [!claim] [[Yajun Zheng|Zheng, Y.]]
-> **惯习分裂与身份迷失** [[Yajun Zheng|郑雅君]]在考察中国顶尖大学弱势家庭学生时发现，个体在异质场域中承受维持旧有联系与建立新倾向的双重撕裂，陷入“惯习分裂（a habitus divided against itself）”的痛苦境地（引 Bourdieu, 1999）；在[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|第六章]]中，她进一步提出借助自传体个人神话与原生文化和解以缝合断裂自我的超越路径。
+> **惯习分裂与身份迷失** [[Yajun Zheng|郑雅君]]在考察中国顶尖大学弱势家庭学生时发现，个体在异质场域中承受维持旧有联系与建立新倾向的双重撕裂，陷入“惯习分裂（a [[Habitus Divided Against Itself|habitus divided against itself]]）”的痛苦境地（引 Bourdieu, 1999）；在[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|第六章]]中，她进一步提出借助自传体[[Personal Myth|个人神话]]与原生文化和解以缝合断裂自我的超越路径。
 
 > [!claim] [[Scott Eacott|Eacott, S.]]
 > **专业身份转型中的领导惯习分裂** [[Argument_Eacott_2011_JEAH|Eacott (2011)]] 揭示，当公立学校教师升任校长时，其领导惯习呈现自我撕裂状态：既要坚守教师群体内化的教育本位价值，又必须回应[[New Public Management|新公共管理]]体制强加的[[Performance Indicators|绩效指标]]（如标准化统测分数与学校排名），这种双重忠诚在资源分配决策中激化了内在价值张力。
 
 ---
 
-> [!concept-proposition] 命题二｜阶层特异性惯习形塑了高等教育场域中差异化的生活组织模式与分流路径
+> [!concept-proposition] 命题二｜阶层特异性惯习形塑了高等教育场域中差[[Alienation|异化]]的生活组织模式与分流路径
 > **文化常识与大学实践图式** 家庭社会化赋予个体的阶层惯习，直接规定了其在高等教育制度环境中识别机遇、动员资源与制定生涯规划的认知框架。
 
 > [!claim] Zheng, Y.
 > **两种生活组织模式的阶层根源** [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君（2023）]] 证实，精英大学学生的生活组织方式深受家庭社会化塑造的惯习所分化：优势阶层学生内化了长线规划与制度通晓倾向，自然呈现为具备清晰路径的[[Goal-Controlled Mode|目标掌控模式]]；弱势阶层学生因缺乏高等教育[[Tacit Knowledge|隐性知识]]，沿用应试阶段被动服从指令的倾向，陷入浑然不觉的[[Intuition-Dependent Mode|直觉依赖模式]]。
 
-> [!claim] Baxter Magolda, M. / Zheng, Y.
+> [!claim] [[Marcia Baxter Magolda|Baxter Magolda]], M. / Zheng, Y.
 > **自我主导能力背后的阶层惯习支撑** 将布迪厄惯习理论与马西亚·巴克斯特·马戈尔达（[[Marcia Baxter Magolda]]）的[[Self-Authorship|自我主导性]]理论结合，能够阐明“目标掌控”所依赖的高阶认知与认同能力实为优势阶层中等教育环境长期培育的具身化惯习成果，超越了单纯的[[Talent Assumption|天赋假设]]（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。
 
 ---
@@ -145,13 +161,13 @@ updated: 2026-11-19
 > **转型场域中的倾向调适与时间代价** 惯习虽然具有较强的历史惯性，但仍可在密集的文化互动与新制度经验浸润中发生结构性重组。
 
 > [!claim] Stevens et al. (2008); [[Argument_Zheng_2023_ShanghaiSanlian_Ch04|郑雅君 (2023, 第四章)]]
-> **大学作为再社会化孵化器与同辈文化内化** 高等教育机构扮演着文化再社会化的“孵化器（incubator）”角色，学生的认知图式、文化修养与价值倾向在此经历重组（Stevens et al., 2008）。郑雅君（[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|2023, 第四章]]）实证论证了顶尖大学对弱势背景学生原初惯习的再社会化机制：弱势学生初入名校时，以应试苦学与服从安排为特征的原级惯习容易遭遇文化休克与策略失灵；但在学术圈子、骨干学生工作或名企实习等密集社会交往中，通过与学术导师、优秀同辈的近距离互动，学生能够逐步观察、模仿并内化优势群体的文化语码与前瞻规划图式，实现向[[Goal-Controlled Mode|目标掌控模式]]的转换与跨越。
+> **大学作为再社会化孵化器与同辈文化内化** 高等教育机构扮演着文化再社会化的“孵化器（incubator）”角色，学生的认知图式、文化修养与价值倾向在此经历重组（Stevens et al., 2008）。郑雅君（[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|2023, 第四章]]）实证论证了顶尖大学对弱势背景学生原初惯习的再社会化机制：弱势学生初入名校时，以应试苦学与服从安排为特征的原级惯习容易遭遇文化休克与策略失灵；但在学术圈子、骨干学生工作或名企实习等密集社会交往中，通过与学术导师、优秀同辈的近距离互动，学生能够逐步观察、[[Mimesis|模仿]]并内化优势群体的[[Cultural Code|文化语码]]与前瞻规划图式，实现向[[Goal-Controlled Mode|目标掌控模式]]的转换与跨越。
 
 > [!claim] Zheng, Y.
 > **[[Culture as Toolkit|文化工具箱]]充实与时间成本补偿** 惯习转换伴随着行动者[[Culture as Toolkit|文化工具箱]]中策略性知识的扩充，使行动者习得主动规划的方法论；但转换过程往往伴随一至两年的认知时差代价，构成代际流动中的隐性门槛（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]；[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|2023, 第四章]]）。
 
-> [!claim] [[Pierre Bourdieu|Bourdieu (1967)]]; [[Argument_Zheng_2023_ShanghaiSanlian_Ch05|郑雅君 (2023, 第五章)]]
-> **学校化惯习与制度规范认同** Bourdieu (1967) 阐明正规教育系统具有形塑受教育者思维体系的功能，使经历严格学术与德育选拔的胜出者共享深层思想规范。郑雅君（[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|2023, 第五章]]）进一步揭示，弱势背景学生在顶尖高校深造中深度内化学校倡导的德育话语，具身化为遵从体制规范的学校化惯习；这套倾向虽然未赋予其市场求职策略优势，却在选调生遴选与重点科研院所考察中展现出高度的可靠性与认同感，成为对接体制赞助通道的核心依托。[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|(Zheng, 2023, pp. 287–292)]]
+> [!claim] Bourdieu (1967); [[Argument_Zheng_2023_ShanghaiSanlian_Ch05|郑雅君 (2023, 第五章)]]
+> **学校化惯习与制度规范认同** Bourdieu (1967) 阐明正规教育系统具有形塑受教育者思维体系的功能，使经历严格学术与德育选拔的胜出者共享深层思想规范。郑雅君（[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|2023, 第五章]]）进一步揭示，弱势背景学生在顶尖高校深造中深度内化学校倡导的德育[[Discourse|话语]]，具身化为遵从体制规范的学校化惯习；这套倾向虽然未赋予其市场求职策略优势，却在选调生遴选与重点科研院所考察中展现出高度的[[Reliability|可靠性]]与认同感，成为对接体制赞助通道的核心依托。[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|(Zheng, 2023, pp. 287–292)]]
 
 ---
 
@@ -192,15 +208,15 @@ updated: 2026-11-19
 > | [[Goal-Controlled Mode]] | 概念 | 优势阶层家庭惯习在大学场域具体生成的长程规划与主动生活组织形态。 |
 > | [[Intuition-Dependent Mode]] | 概念 | 弱势阶层家庭惯习在大学场域展现的无规划、被动服从与探索滞后状态。 |
 > | [[Academic Engagement]] | 概念 | 惯习在学业精力配置、选课策略与学分绩点管理上的具体实践维度。 |
-> | [[Social Engagement]] | 概念 | 惯习在课外实践、人际交往与表现性资本积累中的具体实践维度。 |
-> | [[Pierre Bourdieu]] | 人物 | 创立文化资本与实践理论、系统建构惯习概念的法国社会学家。 |
+> | [[Social Engagement]] | 概念 | 惯习在[[Extracurricular Activities\|课外实践]]、人际交往与[[Performance Capital\|表现性资本]]积累中的具体实践维度。 |
+> | [[Pierre Bourdieu]] | 人物 | 创立[[Cultural Capital\|文化资本]]与实践理论、系统建构惯习概念的法国社会学家。 |
 > | [[Yajun Zheng]] | 人物 | 将阶层惯习理论应用于中国精英高校学生生活组织模式与分流机制的教育社会学者。 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 将阶层惯习操作化为目标掌控与直觉依赖模式（第三章），在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]论述再社会化重塑，在[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|第五章]]分析学校化惯习，并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|第六章]]论述惯习裂化的叙事弥合路径。
-> - [[Argument_Xie_2017_PKUER|谢爱磊 (2017)]] — 借助生存心态视角解构中国农村底层教育观念，揭示宏观机会结构如何转化为分层教育期望与实践理性防御。
+> - [[Argument_Xie_2017_PKUER|谢爱磊 (2017)]] — 借助生存心态视角解构中国农村底层教育观念，揭示宏观机会结构如何转化为分层[[Educational Expectations|教育期望]]与[[Phronesis|实践理性]]防御。
 > - [[Argument_Eacott_2011_JEAH|Eacott (2011)]] — 追踪澳大利亚公立学校校长在教育价值守正与绩效考核问责之间的领导惯习分裂。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 探讨地方教育行动者如何在既有制度常识与实践惯性中[[Recontextualization|再情境化]]跨国政策[[Paradigm|范式]]。
 

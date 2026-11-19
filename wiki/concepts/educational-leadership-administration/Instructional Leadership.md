@@ -8,7 +8,7 @@ aliases:
 summary: "学校管理中聚焦课程、教学与评估核心系统，直接参与教师专业学习与发展以提升学生学业成就的学校领导模式；在学校效能与循证证据推动下成为主流范式，但在微观实践中面临校长日常工时碎片化冲突，并在政商网络推动下呈现向可见学习效应量账本与新泰勒主义微观规训异化的治理风险。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -51,6 +51,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"
+  - "[[Charles Taylor]]"
   - "[[Scott Eacott]]"
   - "[[Viviane Robinson]]"
 related_facts:
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -84,7 +85,7 @@ updated: 2026-11-15
 > [!boundary]- 概念边界
 > - 不等于 [[Transformative Leadership|变革型领导力]] — 变革型领导力侧重组织整体愿景塑造、文化变革与成员情感激励，对学业产出的影响主要为间接路径；教学领导力直接介入课堂教学设计、课程评价与教师专业研修。
 > - 不等于纯粹科层行政管理 — 纯科层管理将校长定位于行政总监（CEO），关注流程合规与资源调度；教学领导力强调深入教研现场与课堂微观互动。
-> - 不适用于去专业化的量化打卡控制 — 当教学领导力被降格为依据外部效应量清单对教师进行微观打卡与新泰勒主义规训时，背离了支持教师专业发展的本质属性。
+> - 不适用于去专业化的量化打卡控制 — 当教学领导力被降格为依据外部效应量清单对教师进行微观打卡与新[[Charles Taylor|泰勒]]主义规训时，背离了支持教师专业发展的本质属性。
 
 ---
 

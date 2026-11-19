@@ -9,7 +9,7 @@ aliases:
 summary: "依托特定宗教信仰团体、教区或教派传统创办并管理的教育机构；在历史演进中历经传统经院学徒制向近现代科层化学校系统的转型，通过整合宗教伦理、严密社群网络与学术大纲提供有别于世俗公学的教育模式。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[General Education]]"
   - "[[State Educational Sovereignty]]"
   - "[[Bureaucracy]]"
+  - "[[Educational Expectations]]"
   - "[[Socioeconomic Status]]"
   - "[[Apprenticeship]]"
   - "[[School Effectiveness]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: medium
 status: completed
 created: 2026-10-22
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -107,7 +108,7 @@ updated: 2026-11-18
 > **社会资本与学业补偿机制** 阐述宗教学校依托教会网络与规范共识，如何有效弥补弱势生源家庭资本的不足。
 >
 > > [!claim] [[William Jeynes|Jeynes, W. H.]]
-> > **宗教学校微观环境对学业成绩的促进作用** 威廉·杰恩斯（William Jeynes）通过多项[[Meta-analysis|元分析]]系统检验了宗教学校对中小学生学业成绩的影响。实证数据表明，相比世俗公立学校，宗教学校学生在核心学术测试中保持持续正向优势；这种优势在少数族裔及低收入家庭学生中尤为显著。其核心机理在于宗教学校构建了高度同质且紧密的社群社会资本，学校对学生抱有高学业期望并推行更严谨的行为行为规范，有效对冲了家庭[[Socioeconomic Status|社会经济地位]]的不利冲击。
+> > **宗教学校微观环境对学业成绩的促进作用** 威廉·杰恩斯（William Jeynes）通过多项[[Meta-analysis|元分析]]系统检验了宗教学校对中小学生学业成绩的影响。实证数据表明，相比世俗公立学校，宗教学校学生在核心学术测试中保持持续正向优势；这种优势在少数族裔及低收入家庭学生中尤为显著。其核心机理在于宗教学校构建了高度同质且紧密的社群社会资本，学校对学生抱有高[[Educational Expectations|学业期望]]并推行更严谨的行为行为规范，有效对冲了家庭[[Socioeconomic Status|社会经济地位]]的不利冲击。
 
 ---
 

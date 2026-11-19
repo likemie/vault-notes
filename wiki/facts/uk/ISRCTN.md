@@ -73,12 +73,12 @@ updated: 2026-11-19
 
 > [!policy-design] 方案设计与注册规程
 > - **时间戳硬约束机制** 要求试验团队在第一名受试者入组或基线[[Pre-test and Post-test\|前测]]采集前，向注册库提交完整的方案细则；平台审核通过后生成带不可篡改时间戳的唯一 ISRCTN 编号。
-> - **核心[[Variable\|变量]]先验规约** 注册信息必须硬性锁定：试验假设、主要与次要结局指标的测量工具、[[Sample Size Determination\|样本量]]计算依据、[[Random Assignment\|随机分配]]层级与屏蔽方法，以及预先指定的统计分析模型。
+> - **核心[[Variable\|变量]]预先界定** 注册信息必须硬性锁定：试验假设、主要与次要结局指标的测量工具、[[Sample Size Determination\|样本量]]计算依据、[[Random Assignment\|随机分配]]层级与屏蔽方法，以及预先指定的统计分析模型。
 > - **实施变更透明化跟踪** 若在实地现场不可抗力下必须变更方案（如[[Attrition\|样本流失]]过大或追加中间指标），所有变更记录必须在平台历史版本树中全量公开留痕，并注明变更理由。
 > - **结局全量公布绑定** 无论试验最终呈现显著正向效应、零效应还是负向效应，试验结束后必须在注册条目中回填主要结局数据与结题公开报告链接。
 
 > [!citation-card] 强制全流程[[Preregistration\|预注册]]与消解[[Publication Bias\|发表偏倚]]的制度红线（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）
-> 为最大程度降低选择性报告（即排除负面或不利结果所产生的发表偏倚），英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）强制要求每项受资助试验在官网公开发布方案与预先制定的统计分析计划（SAP），并在 ISRCTN 等一级[[Clinical Trial\|临床试验]]注册库完成登记。初代方案与报告模板基于 CONSORT 标准建立，并持续演进以对标社会干预规范（[[CONSORT-SPI]]）。得益于这一刚性约束，EEF 资助试验的所有结果无论好坏均 100% 全量公开，从体制上消除了传统社会科学正向结果发表率虚高 40% 的顽疾。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 52)]]
+> 为最大程度降低选择性报告（即排除负面或不利结果所产生的发表偏倚），英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）强制要求每项受资助试验在官网公开发布方案与预先制定的统计分析计划（SAP），并在 ISRCTN 等一级[[Clinical Trial\|临床试验]]注册库完成登记。初代方案与报告模板基于 CONSORT 标准建立，并持续演进以对标社会干预规范（[[CONSORT-SPI]]）。得益于这一严格规范，EEF 资助试验的所有结果无论好坏均 100% 全量公开，从体制上消除了传统社会科学正向结果发表率虚高 40% 的顽疾。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 52)]]
 >
 > *“For this reason and to minimize selective reporting (i.e., the bias that derives from the exclusion of negative or undesirable results), the EEF requires a prespecified protocol and statistical analysis plan for every trial to be published on its website and the trial registered on ISRCTN registry, a primary clinical trial registry... All EEF’s findings are published, whatever the result.”*
 
@@ -116,7 +116,7 @@ updated: 2026-11-19
 > > - **灵活探索立场** 担忧过度严苛的时间戳惩罚机制可能诱导评估团队在注册时故意撰写模棱两可的模糊方案，导致预注册沦为形式主义走过场。
 
 > [!lessons] 经验教训与启示
-> - **制度必须协同咬合** 孤立的公共注册平台若缺乏资助机构的强硬扣款或挂锁惩罚，往往沦为空架子；[[Education Endowment Foundation\|EEF]] 的成功经验在于将 ISRCTN 登记与三方资助协议、独立评估防火墙及公开微观数据库（NPD）无缝咬合，形成了刚性的制度闭环。
+> - **制度必须协同咬合** 孤立的公共注册平台若缺乏资助机构的强硬扣款或挂锁惩罚，往往沦为空架子；[[Education Endowment Foundation\|EEF]] 的成功经验在于将 ISRCTN 登记与三方资助协议、独立评估防火墙及公开微观数据库（NPD）无缝咬合，形成了严密的制度链条。
 
 ---
 

@@ -85,7 +85,7 @@ updated: 2026-11-19
 ---
 
 > [!dev-timeline] 项目推进历程
-> - **1984–1997 年 — 调查体系奠基与健康指标拓展期（DHS-I 至 DHS-III）** 建立全球通用的标准化问卷框架，重点收集妇幼卫生、避孕与人口出生数据。
+> - **1984–1997 年 — 调查体系建立与健康指标拓展期（DHS-I 至 DHS-III）** 建立全球通用的标准化问卷框架，重点收集妇幼卫生、避孕与人口出生数据。
 > - **1997–2010 年 — 财富资产指数引入与社会分层监测期（DHS-[[Instrumental Variables|IV]] 至 DHS-V）** 引入基于主成分分析的家庭财富五等分指数（Wealth Index），使家庭经济分层测量摆脱了单纯依赖货币收入的局限。[[Argument_Phyo_2025_SocSci|(Phyo & Ilie, 2025, p. 8)]]
 > - **2010 年至今 — 跨国教育公平与发展目标追踪期（DHS-VI 至 DHS-8）** 成为全球评估[[UN Sustainable Development Goals|联合国可持续发展目标]]（SDG 4）教育获得平等进程的支柱数据库，与 [[Multiple Indicator Cluster Surveys|MICS]] 构成发展中国家微观民生测查的双重基石。
 

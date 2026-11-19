@@ -10,7 +10,7 @@ summary: "源自人类学与社会学的质性研究设计，要求研究者在�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 64
+method_related_count: 67
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#dbeafe"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Doxa]]"
   - "[[Informed Consent]]"
+  - "[[Dialogue in Education]]"
   - "[[Transnational Education]]"
   - "[[Hawthorne Effect]]"
   - "[[Halo Effect]]"
@@ -79,6 +80,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Comparative Case Study]]"
   - "[[Case Study]]"
+  - "[[Fieldwork]]"
 related_persons:
   - "[[Derek de Solla Price]]"
   - "[[Robin Alexander]]"
@@ -88,6 +90,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
+  - "[[Argument_Xie_2017_PKUER]]"
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Rust_2009_Reflections]]"
 confidence: high
@@ -156,7 +159,7 @@ updated: 2026-11-19
 > | 资料边界 | 明确自然生活场景的时空跨度、群体交往边界、社会网络范围与守门人准入权限。 |
 
 > [!proc] 质性分析程序
-> 1. **田野日志整理与[[Transcription in Qualitative Research|转录]]** 及时整理描述性与反思性田野笔记，将课堂对话或访谈录音转录建档，保留时空环境与身体互动线索。
+> 1. **田野日志整理与[[Transcription in Qualitative Research|转录]]** 及时整理描述性与反思性田野笔记，将[[Dialogue in Education|课堂对话]]或访谈录音转录建档，保留时空环境与身体互动线索。
 > 2. **主位构念提取与逐步聚焦** 依据本土主位视角（Emic）展开[[Open Coding|开放编码]]与[[Domain Analysis|领域分析]]，从广角扫描逐步聚焦至核心文化模式与共享意义体系。
 > 3. **宏微观情境连接与备忘录审视** 撰写理论备忘录，将微观互动与场外宏观结构线索（国家政策文本、劳动力市场指标与历史档案）相互咬合。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 106, 110)]]
 > 4. **三角互证与厚描述撰写** 综合访谈、观察与实物证据进行[[Triangulation|三角互证]]，实施[[Member Checking|成员核查]]与团队反身性审查，以[[Rich and Thick Description|厚描述]]生动再现群体的文化全貌。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 405–408)]]
@@ -197,7 +200,7 @@ updated: 2026-11-19
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011)]] — 经典教育研究方法教材，系统阐述民族志的[[Epistemology|认识论]]基础、12 阶段实施规程、实地进入角色演变及有效性判准。
-> - [[Argument_Xie_2017_PKUER|谢爱磊 (2017)]] — 在中部县域开展为期一年的教育民族志田野工作，采用撒大网策略与四类田野日志，从内部人视角探究底层教育观念。
+> - [[Argument_Xie_2017_PKUER|谢爱磊 (2017)]] — 在中部县域开展为期一年的教育民族志[[Fieldwork|田野工作]]，采用撒大网策略与四类田野日志，从内部人视角探究底层教育观念。
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — [[Qualitative Research|质性研究]]设计专著，详细介绍文化共享群体界定、民族志提问分类法（Spradley）及[[Critical Ethnography|批判民族志]]定位。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 评述多项比较教育人类学民族志经典（Demerath, 1999; Anderson-Levitt, 2003, 2004; Stacki, 1999），论证民族志作为揭示全球化微观运行机制的核心工具，并剖析单点田野与宏观体系分析之间的尺度张力。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 128, 130–131)]] — 考证比较教育学研究策略的演进，指出民族志等常规社会[[Scientific Method|科学方法]]的激增标志着学科摆脱[[Primary and Secondary Documents|二手文献]]综述；将民族志确立为打破战后单一功能主义霸权的 26 种重要[[Paradigm|范式]]传统之一。

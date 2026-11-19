@@ -10,7 +10,7 @@ aliases:
 summary: "个体或家庭在社会结构中所处层级位置与资源占有状况的综合度量指标，在教育实证中是学业表现最强的解释变量，其在元分析中被剔除为调节变量引发了阶级盲教学思维批判"
 type: concept
 domain: "sociology-of-education"
-related_count: 50
+related_count: 51
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Construct]]"
   - "[[Habitus]]"
+  - "[[Educational Expectations]]"
   - "[[Student Attitude]]"
   - "[[School Effectiveness]]"
   - "[[Neoliberalism]]"
@@ -108,7 +109,7 @@ updated: 2026-11-19
 > | 维度 | 社会经济地位（SES） | [[Cultural Capital\|文化资本]] | 经济资本（Economic Capital） |
 > |---|---|---|---|
 > | **分析对象** | 个体或家庭在整体社会分层中的综合层级位置 | 嵌入于个体[[Habitus\|惯习]]、家庭藏书与文化习惯中的隐性符号资源 | 家庭拥有的实物资产、现金存款与可兑换金融财富 |
-> | **核心机制** | 通过多维资源复合传递形塑儿童的发展生态与教育期望 | 通过与学校正统评价体系的阶层亲和力赋予特权优势 | 直接通过购买学区房、私立学校学费及昂贵校外辅导变现 |
+> | **核心机制** | 通过多维资源复合传递形塑儿童的发展生态与[[Educational Expectations\|教育期望]] | 通过与学校正统评价体系的阶层亲和力赋予特权优势 | 直接通过购买学区房、私立学校学费及昂贵校外辅导变现 |
 > | **教育测量方式** | 父母学历、国际社会经济职业地位指数（ISEI）、家庭拥有物 | 课外阅读量、艺术欣赏参与度、学术语言熟练度 | 家庭年收入绝对值、不动产价值与家庭可支配财富 |
 > | **政策干预取向** | 宏观财政转移支付、按需补偿性教育资源分配 | 课程文化去阶层化、增加公共文化设施向弱势群体开放 | 直接实施学生餐费补贴、学费全额减免与助学贷款 |
 

@@ -108,7 +108,7 @@ updated: 2026-11-19
 
 > [!dev-timeline] 项目演进历程
 > - **2014–2018 — 强推 [[Randomised Controlled Trials\|RCT]] 的挫败与方法学反思期** 能力分班与 [[Teensleep]] 现场试验相继因招募归零而夭折，学界批评单一 RCT [[Paradigm\|范式]]将复杂学校生态削足适履（Edovald & Firpo, 2016; Roy et al., 2018）。
-> - **2019 — 资助机制破局与 [[Quasi-Experimental Designs\|QED]] 专属通道确立** [[Education Endowment Foundation\|EEF]] 董事会正式批准设立 Researching School Choices 资助流，制定前置准实验审查标准，开创了英国循证资助从单一 RCT 向多方法学生态的重大转型。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 56)]]
+> - **2019 — 资助机制创新与 [[Quasi-Experimental Designs\|QED]] 专属通道确立** [[Education Endowment Foundation\|EEF]] 董事会正式批准设立 Researching School Choices 资助流，制定前置准实验审查标准，开创了英国循证资助从单一 RCT 向多方法学生态的重大转型。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 56)]]
 > - **2020–至今 — NPD 普查大数据赋能与宏观政策反哺** 深度结合英格兰[[National Pupil Database\|国家学生数据库]] 105 项完成试验微观档案与全英普查底册，系统产出针对能力编班、校本弹性课表的高公信力准实验报告。
 
 ---

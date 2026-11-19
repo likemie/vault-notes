@@ -10,9 +10,9 @@ title: "Argument_Zheng_2023_ShanghaiSanlian_Ch02"
 argument_key: "Argument_Zheng_2023_ShanghaiSanlian_Ch02"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book-chapter"
-argument_related_count: 78
-argument_related_level: 7
-argument_related_stars: "💎💎⭐"
+argument_related_count: 81
+argument_related_level: 8
+argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
 book_title: "金榜题名之后：大学生出路分化之谜"
 publisher: "上海三联书店"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[First-Generation College Student]]"
   - "[[Variable]]"
   - "[[Educational Level]]"
+  - "[[Educational Expectations]]"
   - "[[Horizontal Stratification in Higher Education]]"
   - "[[Ontology]]"
   - "[[Symbolic Boundary]]"
@@ -58,9 +59,11 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Reflexivity]]"
   - "[[General Education]]"
+  - "[[Alienation]]"
   - "[[Academic Achievement]]"
   - "[[Homophily]]"
   - "[[Heterogeneity]]"
+  - "[[Smart Specialisation]]"
   - "[[Study Abroad]]"
   - "[[Continuous Doctoral Training]]"
   - "[[Cultural Knowledge]]"
@@ -117,7 +120,7 @@ related_facts:
   - "[[Gaokao]]"
 status: draft
 created: 2026-11-17
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -162,7 +165,7 @@ updated: 2026-11-18
 > [!sub-claim] 1. 单纯计算[[Educational Level|受教育年限]]，无法解释同一学历水平内部的横向出路分化
 
 > [!warrant] 地位获得传统的度量逻辑
-> 主流社会流动研究承袭阶级理论与统计度量技术，将受教育年限与学历层级作为核心变量，运用[[Multiple Regression|多元回归]]模型测算家庭背景与能力对职业地位的回报（Blau & Duncan, 1967；Collins, 1979；Sewell & Shah, 1968；Sorokin, 1927；pp. 35–37）。以[[Wisconsin Model of Status Attainment|威斯康辛地位获得模型]]（Sewell & Shah, 1968）为代表的研究进路，进一步引入教育期望与重要他人影响来解释家庭背景向地位获得的中介传导。
+> 主流社会流动研究承袭阶级理论与统计度量技术，将受教育年限与学历层级作为核心变量，运用[[Multiple Regression|多元回归]]模型测算家庭背景与能力对职业地位的回报（Blau & Duncan, 1967；Collins, 1979；Sewell & Shah, 1968；Sorokin, 1927；pp. 35–37）。以[[Wisconsin Model of Status Attainment|威斯康辛地位获得模型]]（Sewell & Shah, 1968）为代表的研究进路，进一步引入[[Educational Expectations|教育期望]]与重要他人影响来解释家庭背景向地位获得的中介传导。
 
 > [!critique] 扩招后教育年限测量的局限与黑箱遮蔽
 > - **横向质量差异显著拉大** 高校文凭普及使得单纯测量受教育年限的边际区分力日趋模糊；扩招虽然缩小了纵向学历年限差距，却系统性激活并加剧了[[Horizontal Stratification in Higher Education|高等教育横向分层]]，拉大了同一学历水平内部质的横向就读体验与资源分配差异（Gerber & Cheung, 2008）。
@@ -252,7 +255,7 @@ updated: 2026-11-18
 
 > [!tension] 重点大学田野场域的精神传统与地缘文化张力
 > - **北方大学（工科重镇 · 政治权力中心）** 传承 1952 年院系调整后的多科性工业大学底色，工科门类占本科生 80% 以上；坐落于北京，校友政界英才辈出；以红色工程师的摇篮与又红又专为核心精神，倡导集体主义、爱国政治觉悟与专业素养并重，毕业去向集中于体制内与国有企业。
-> - **南方大学（人文社科与理科重镇 · 金融商业中心）** 人文社科门类占本科生 40% 以上；位于上海金融贸易中心，倚重宽口径[[General Education|通识教育]]；推崇自由而无用的情怀，保持对现实功利的疏离与个体精神自由，毕业生进入外资、民营等非公有制经济部门的比例居高不下（pp. 53–55）。
+> - **南方大学（人文社科与理科重镇 · 金融商业中心）** 人文社科门类占本科生 40% 以上；位于上海金融贸易中心，倚重宽口径[[General Education|通识教育]]；推崇自由而无用的情怀，保持对现实功利的[[Alienation|疏离]]与个体精神自由，毕业生进入外资、民营等非公有制经济部门的比例居高不下（pp. 53–55）。
 
 > [!contrast-table]- 表 2-1　田野高校特征速览（北方大学 vs 南方大学）
 > | 特征 | 北方大学 | 南方大学 |
@@ -319,7 +322,7 @@ updated: 2026-11-18
 > | :---: | :---: | :--- | :---: | :--- |
 > | S1 | 鹏程 | 农村 · 父母务农 · 一代 · 东部 | 经管商科 | 某知名通信科技公司 |
 > | S2 | 一帆 | 农村 · 父亲工厂工人／母亲在家 · 一代 · 东部 | 社会科学 | 某外资咨询公司 |
-> | S3 | 田野 | 城市 · 父母大学教授 · 非一代 · 东部 | 社会科学 | 某大型国有企业 |
+> | [[Smart Specialisation\|S3]] | 田野 | 城市 · 父母大学教授 · 非一代 · 东部 | 社会科学 | 某大型国有企业 |
 > | S4 | 初晓 | 城市 · 父母私企普通员工 · 一代 · 东部 | 工程科学 | 出国读研 |
 > | S5 | 晓刚 | 城市 · 父母技术员与小业主 · 一代 · 东部 | 社会科学 | 某大型地产集团 |
 > | S6 | 王冰 | 城市 · 父母中学教师 · 一代 · 西部 | 经管商科 | 出国读研 |
@@ -519,7 +522,7 @@ updated: 2026-11-18
 > [!dev-timeline] 附录 C《深度[[Interview Protocol|访谈提纲]]》三阶段发问逻辑与机制解析
 > - **第一阶段：个人生活史** 生活史回溯与家庭先赋资本显影
 >   - *优等生身份建构与归因（Q1–Q3）* 回溯求学经历，探讨从小到大是否一直是优等生及对成就的因果解释；透视自我认同的阶层印记并[[Decodification|解码]]归因图式（优势生多归因于个性志趣、视野与批判思维，弱势生多归因于严苛自律、服从与应试）。
->   - *家庭教养与价值代际传承（Q4–Q5）* 考察父母期望设定、培养模式（放任／督促／长程规划）及人生追求引导；辨识父母期望是战略性保驾护航还是粗放型“争口气”，提炼行动者的初始[[Cultural Toolkits|文化工具箱]]与先赋[[Habitus|习性]]底色。
+>   - *家庭教养与价值代际传承（Q4–Q5）* 考察父母期望设定、培养模式（放任／督促／长程规划）及人生追求引导；辨识父母期望是战略性保驾护航还是粗放型“争口气”，提炼行动者的初始文化工具箱与先赋[[Habitus|习性]]底色。
 > - **第二阶段：大学就读体验** 微观场域实践与资本转换测度
 >   - *名校准入与专业抉择（Q1–Q2）* 录取始末与考取难易度感知；专业选择原由、信息完备度与真实志趣。考取难易度折射与精英大学的心理距离，专业填报检验是长程生涯筹划还是盲目跟风。
 >   - *期望现实落差与适应融入（Q3–Q4）* 初入名校的心理落差与适应困难；主动融入组织与校园活动的能动性，直接探测习性脱嵌与[[The Shock of the Elite|精英休克]]。
