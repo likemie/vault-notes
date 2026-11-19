@@ -8,7 +8,12 @@ summary: "加纳开国总统、泛非主义运动先驱与反帝反殖理论家�
 type: person
 cssclasses:
   - person-page
-nationality: "Ghana"
+nationality: ghana
+person_region: "ghana"
+person_related_count: 9
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1909"
 died: "1972"
 lifespan: "1909–1972"
@@ -25,8 +30,8 @@ related_concepts:
   - "[[Pluriverse]]"
   - "[[Global Regionalisms]]"
 related_theories:
-  - "[[Dependency Theory]]"
   - "[[Decolonial Geopolitics of Knowledge]]"
+  - "[[Dependency Theory]]"
 related_methods: []
 related_instruments: []
 related_persons: []

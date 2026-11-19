@@ -59,7 +59,9 @@ related_methods:
   - "[[Critical Policy Analysis]]"
 related_instruments: []
 related_persons:
+  - "[[Aníbal Quijano]]"
   - "[[Syed Farid Alatas]]"
+  - "[[Anthony Welch]]"
   - "[[Kwame Nkrumah]]"
 related_facts:
   - "[[EU]]"
@@ -87,10 +89,10 @@ title: "Argument_Indrarajah_2026_NJCIE"
 argument_key: "Argument_Indrarajah_2026_NJCIE"
 argument_display_title: "Challenging neocoloniality in Southeast Asian higher education: Charting the ASEAN way of regionalization through a decolonial lens"
 argument_kind: "journal-article"
-argument_related_count: 49
-argument_related_level: 4
-argument_related_stars: "💎⭐"
-argument_related_color: "#dbeafe"
+argument_related_count: 53
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 journal: "Nordic Journal of Comparative and International Education"
 book_title: ""
 publication_place: ""
@@ -124,7 +126,7 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **认识论去殖民化**<br>[[Epistemic Coloniality]] / [[Decolonial Geopolitics of Knowledge]] | 解构以西方为绝对参照的普适主义真理宣称，揭示教育现代性背后的殖民性依附，主张重估受压制的南方原住民知识体系（Alcoff, 2007; Mignolo & Walsh, 2018; Quijano, 2000）。 |
+> | **认识论去殖民化**<br>[[Epistemic Coloniality]] / [[Decolonial Geopolitics of Knowledge]] | 解构以西方为绝对参照的普适主义真理宣称，揭示教育现代性背后的殖民性依附，主张重估受压制的南方原住民知识体系（Alcoff, 2007; Mignolo & Walsh, 2018; [[Aníbal Quijano|Quijano]], 2000）。 |
 > | **新殖民主义理论**<br>[[Dependency Theory]] | 阐明国家在取得政治独立后，外部强权如何通过操纵经济流向、教育援助特权与知识标准持续维系间接支配（Nkrumah, 1965）。 |
 > | **多元世界构想**<br>[[Pluriverse]] / [[Decolonial Geopolitics of Knowledge]] | 设想由多元认识论、[[Ontology\|本体论]]与文化传统共存共生的去中心化世界秩序，抵御全球资本主义与同质化现代化叙事的吞噬（Escobar, 2018; Mignolo & Walsh, 2018）。 |
 > | **东盟方式**<br>[[ASEAN Way]] | 提供剖析不干涉内政、协商一致与主权防御规范的制度透镜，检视其历史反殖合法性及演变过程中的碎片化局限（Caballero-Anthony, 2014; Koga, 2010; Visone, 2017）。 |
@@ -174,7 +176,7 @@ issuing_organization: ""
 > [!sub-claim] 1. 宗主国的制度移植使各国大学发展基础高度悬殊
 
 > [!mechanism] 殖民制度移植与高教底盘的历史分化机制
-> 英国与美国在马来西亚、新加坡和菲律宾的殖民统治确立了英语的学术霸权，使三国在战后迅速接入以西方为中心的学术评价网络（Altbach, 2007; Phillipson, 2012）；印度尼西亚在荷兰殖民后需优先整合1.7万座岛屿与多元族群，形成了公立系统与融合伊斯兰传统的穆罕默迪亚大学并行的庞大格局（Welch, 2012）；越南等中南半岛国家则在中法美苏等多重外部势力影响下，形成了依托国语字、兼具法式学院制与苏式工科的混合高教系统（Trinh, 2018）。这种历史起点差异使各国大学缺乏共同的制度底盘。
+> 英国与美国在马来西亚、新加坡和菲律宾的殖民统治确立了英语的学术霸权，使三国在战后迅速接入以西方为中心的学术评价网络（Altbach, 2007; Phillipson, 2012）；印度尼西亚在荷兰殖民后需优先整合1.7万座岛屿与多元族群，形成了公立系统与融合伊斯兰传统的穆罕默迪亚大学并行的庞大格局（[[Anthony Welch|安东尼·韦尔奇]]，Welch, 2012）；越南等中南半岛国家则在中法美苏等多重外部势力影响下，形成了依托国语字、兼具法式学院制与苏式工科的混合高教系统（Trinh, 2018）。这种历史起点差异使各国大学缺乏共同的制度底盘。
 
 > [!row-contrast] 东南亚重点国别高等教育历史演进与殖民地缘特征对比
 > | 案例国别与组群 | 殖民宗主与地缘力量 | 语言与制度遗产 | 战后高教模式与制度混合 | 对区域一体化的制度含义 |

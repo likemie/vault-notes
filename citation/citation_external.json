@@ -28345,6 +28345,8 @@
     "埃德蒙森, 2005": "埃德蒙森, 2005",
     "培生集团 (2013)": "培生集团, 2013",
     "培生集团, 2013": "培生集团, 2013",
+    "基哈诺 (2000)": "基哈诺, 2000",
+    "基哈诺, 2000": "基哈诺, 2000",
     "基尔比 (1958)": "基尔比, 1958",
     "基尔比, 1958": "基尔比, 1958",
     "基辛格 (2000)": "基辛格, 2000",
@@ -28449,6 +28451,8 @@
     "思想先声, 1925": "思想先声, 1925",
     "思想实验与防御策略分析 (2019)": "思想实验与防御策略分析, 2019",
     "思想实验与防御策略分析, 2019": "思想实验与防御策略分析, 2019",
+    "恩克鲁玛 (1965)": "恩克鲁玛, 1965",
+    "恩克鲁玛, 1965": "恩克鲁玛, 1965",
     "情报 (2006)": "情报, 2006",
     "情报, 2006": "情报, 2006",
     "戈登 (2016)": "戈登, 2016",
@@ -28874,6 +28878,8 @@
     "霍耐特 (2008)": "霍耐特, 2008",
     "霍耐特, 1996": "霍耐特, 1996",
     "霍耐特, 2008": "霍耐特, 2008",
+    "韦尔奇 (2012)": "韦尔奇, 2012",
+    "韦尔奇, 2012": "韦尔奇, 2012",
     "项目 (1980)": "项目, 1980",
     "项目, 1980": "项目, 1980",
     "项目, 1980s": "项目, 1980",
@@ -163531,7 +163537,8 @@
         "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
         "wiki/concepts/educational-philosophy/Captive Mind.md",
         "wiki/concepts/educational-philosophy/Papuan Social Ecology.md",
-        "wiki/concepts/political-economy-geopolitics/ASEAN Way.md"
+        "wiki/concepts/political-economy-geopolitics/ASEAN Way.md",
+        "wiki/persons/ghana/Kwame Nkrumah.md"
       ],
       "title": "Neo-Colonialism, the Last Stage of Imperialism"
     },
@@ -178117,7 +178124,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+        "wiki/persons/peru/Aníbal Quijano.md"
       ],
       "title": "Coloniality of power and Eurocentrism in Latin America"
     },
@@ -223074,7 +223081,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
+        "wiki/persons/australia/Anthony Welch.md"
       ],
       "title": "The limits of regionalism in Indonesian higher education"
     },
@@ -235287,6 +235295,21 @@
       ],
       "title": ""
     },
+    "基哈诺, 2000": {
+      "aliases": [
+        "基哈诺, 2000",
+        "基哈诺 (2000)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "基哈诺, 2000"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/peru/Aníbal Quijano.md"
+      ],
+      "title": ""
+    },
     "基尔比, 1958": {
       "aliases": [
         "基尔比, 1958",
@@ -236046,6 +236069,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/uk/Adrian Simpson.md"
+      ],
+      "title": ""
+    },
+    "恩克鲁玛, 1965": {
+      "aliases": [
+        "恩克鲁玛, 1965",
+        "恩克鲁玛 (1965)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "恩克鲁玛, 1965"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/ghana/Kwame Nkrumah.md"
       ],
       "title": ""
     },
@@ -239233,6 +239271,21 @@
         "wiki/theories/educational-philosophy/Recognition Theory.md"
       ],
       "title": ""
+    },
+    "韦尔奇, 2012": {
+      "aliases": [
+        "韦尔奇, 2012",
+        "韦尔奇 (2012)"
+      ],
+      "doi": "https://doi.org/10.1108/20463161211194441",
+      "identity_keys": [
+        "韦尔奇, 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/australia/Anthony Welch.md"
+      ],
+      "title": "The limits of regionalism in Indonesian higher education"
     },
     "项目, 1980": {
       "aliases": [
