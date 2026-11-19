@@ -10,10 +10,10 @@ alias_reviewed:
 summary: "主权国家将高等教育体系、国际学生流动、海外分校与语言文化机构等教育资源体系化纳入对外政策与公共外交战略，旨在培育他国精英好感、形塑地缘规范认同与构建准外交纽带的权力投射机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 55
-related_level: 6
-related_stars: "💎💎⭐"
-related_color: "#ddd6fe"
+related_count: 56
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - concept/geopolitics
   - theme/educational-diplomacy

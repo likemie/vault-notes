@@ -8,7 +8,7 @@ aliases:
 summary: "比较教育与教育政策中指向学生跨校、跨区或跨国空间位移的核心构念；在欧美政策话语中呈现对立的治理逻辑，既被欧洲一体化塑造成培育公民认同与灵活就业能力的制度资产，又在美国绩效问责制下被问题化为表征贫困、学业阻滞与学校失范的流动漂泊；在发展型大国南南合作中则体现为国家奖学金驱动的双向话语与单向供给张力，并推动合作载体由单纯留学生流动迈向产教融合实体共建。"
 type: concept
 domain: "comparative-education"
-related_count: 71
+related_count: 72
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
