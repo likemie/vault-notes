@@ -113,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -329,15 +329,17 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "96c685dea1ff308e",
+  "active": "8cf060930e9cdf12",
   "lastOpenFiles": [
+    "output/related-updates/Argument_Natario_2025_IndHE-83df927e/batch-007/result.json",
+    "output/related-updates/Argument_Natario_2025_IndHE-83df927e/batch-006/result.json",
+    "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch05.md",
     "output/related-updates/Argument_Natario_2025_IndHE-83df927e/batch-005/result.json",
     "wiki/assets/geogebra/chi_squared_test.ggb",
     "raw/Louis Cohen, Lawrence Manion, Keith Morrison, Richard Bell - Research Methods in Education (Routledge Ltd) - libgen.li/“读书无用”还是“读书无望...村底层居民教育观念的再认识_谢爱磊_副本.pdf",
     "output/related-updates/Argument_Natario_2025_IndHE-83df927e/batch-004/result.json",
     "output/related-updates/Argument_Natario_2025_IndHE-83df927e/batch-003/result.json",
     "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md",
-    "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch05.md",
     "sources/McCormick_2012_CER.md",
     "sources/McCormick_2012_CER.pdf",
     "wiki/arguments/journal-articles/Comparative Education Review/Argument_McCormick_2012_CER.md",
@@ -357,9 +359,7 @@
     "wiki/persons/singapore/Leonel Lim.md",
     "wiki/persons/us/Richard Paul.md",
     "output/related-updates/Argument_Natario_2025_IndHE-83df927e/batch-012/prompt.md",
-    "output/related-updates/Argument_Natario_2025_IndHE-83df927e/batch-012/batch-result.schema.json",
     "output/related-updates/Argument_Natario_2025_IndHE-83df927e/batch-011/prompt.md",
-    "output/related-updates/Argument_Natario_2025_IndHE-83df927e/batch-011/batch-result.schema.json",
     "output/related-updates/Argument_Natario_2025_IndHE-83df927e/batch-009/prompt.md",
     "output/related-updates/Argument_Natario_2025_IndHE-83df927e/batch-008/prompt.md",
     "output/related-updates/Argument_Natario_2025_IndHE-83df927e/batch-007/prompt.md",
