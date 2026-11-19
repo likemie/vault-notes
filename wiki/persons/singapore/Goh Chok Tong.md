@@ -9,10 +9,10 @@ cssclasses:
   - person-page
 nationality: singapore
 person_region: "singapore"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 17
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1941"
 died: ""
 lifespan: "1941–至今"

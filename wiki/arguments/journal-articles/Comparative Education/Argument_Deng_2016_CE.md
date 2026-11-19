@@ -86,6 +86,7 @@ related_facts:
   - "[[Teach Less, Learn More]]"
   - "[[All-Party Report on Chinese Education]]"
   - "[[Goh Report]]"
+  - "[[Singapore Streaming System]]"
   - "[[Cram Schools]]"
   - "[[Independent Schools Initiative]]"
   - "[[Core 2 Research Program]]"
@@ -104,7 +105,7 @@ title: "Argument_Deng_2016_CE"
 argument_key: "Argument_Deng_2016_CE"
 argument_display_title: "PISA and high-performing education systems: explaining Singapore’s education success"
 argument_kind: "journal-article"
-argument_related_count: 63
+argument_related_count: 65
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -226,7 +227,7 @@ issuing_organization: ""
 > [!sub-claim] 2. [[Goh Keng Swee|吴庆瑞]]报告建立小学离校大考与中学分流，把应试竞争彻底制度化
 
 > [!evidence-grid] 效率驱动阶段机制：大考分流、绩效审计与竞争硬化
-> - **小学离校统考与中学三轨分流** 针对早期统一教学引发的高辍学率，1979 年[[Goh Keng Swee|吴庆瑞]]主持的《[[Goh Report|吴庆瑞报告]]》（Goh et al., 1979）推行新教育制度（New Education System, NES），在六年级末设置高利害[[Primary School Leaving Examination|小学离校考试]]（PSLE），并在初中分设特选、快捷与普通学术/工艺三轨分流，将学业淘汰率从两成以上骤降至 1% 以下（Tan, 2010）。
+> - **小学离校统考与中学三轨分流** 针对早期统一教学引发的高辍学率，1979 年[[Goh Keng Swee|吴庆瑞]]主持的《[[Goh Report|吴庆瑞报告]]》（Goh et al., 1979）推行[[Singapore Streaming System|新教育制度]]（New Education System, NES），在六年级末设置高利害[[Primary School Leaving Examination|小学离校考试]]（PSLE），并在初中分设特选、快捷与普通学术/工艺三轨分流，将学业淘汰率从两成以上骤降至 1% 以下（Tan, 2010）。
 > - **学校排行榜与外部绩效问责** 1987 年设立自治学校下放自主权，1992 年教育部发布中小学年度排行榜，将各校升学战果公之于众，配合 [[Causal Modeling|SEM]] 实施严密绩效审计，进一步把层层选拔与应试竞争刻进了教育系统的骨髓（Tan et al., 2008）。
 
 > [!sub-claim] 3. 后来虽倡导素质改革与大纲减负，升学硬仗依然让[[Cram Schools|补习班]]开遍全岛

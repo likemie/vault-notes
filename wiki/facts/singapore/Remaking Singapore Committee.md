@@ -11,9 +11,9 @@ subtype: policy
 region: singapore
 fact_region: "singapore"
 fact_kind: "policy"
-fact_related_count: 5
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 15
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "Singapore Ministry of National Development"
 tags:

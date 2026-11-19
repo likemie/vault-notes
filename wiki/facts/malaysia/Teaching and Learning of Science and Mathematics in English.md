@@ -12,9 +12,9 @@ subtype: policy
 region: malaysia
 fact_region: "malaysia"
 fact_kind: "policy"
-fact_related_count: 5
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 15
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "Ministry of Education Malaysia"
 tags:

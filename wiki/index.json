@@ -47805,6 +47805,19 @@
     "subtype": "policy"
   },
   {
+    "title": "Singapore Streaming System",
+    "type": "fact",
+    "path": "wiki/facts/singapore/Singapore Streaming System.md",
+    "aliases": [
+      "新加坡教育分流制度",
+      "新加坡分流制度",
+      "新加坡学制分流",
+      "New Education System",
+      "Streaming in Singapore"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Singapore University Corporatisation",
     "type": "fact",
     "path": "wiki/facts/singapore/Singapore University Corporatisation.md",

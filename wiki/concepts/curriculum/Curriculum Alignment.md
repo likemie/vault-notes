@@ -7,7 +7,7 @@ aliases:
 summary: "指国家或地区课程标准、教学资源材料、课堂教学实践与学生学业测评之间在内容广度与认知要求层面的结构性匹配状态，由安德鲁·波特与苏珊·福尔曼等学者建立为衡量系统性教育改革执行效能与宏微观治理连贯性的关键分析构念。"
 type: concept
 domain: "curriculum"
-related_count: 20
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,8 +27,6 @@ related_concepts:
   - "[[Learning Progression]]"
   - "[[Academic Achievement]]"
   - "[[Instructional Core]]"
-  - "[[Pedagogical Hybridity]]"
-  - "[[Direct Instruction]]"
   - "[[Document]]"
 related_theories:
   - "[[Backward Mapping]]"
@@ -37,7 +35,6 @@ related_instruments: []
 related_persons:
   - "[[Andrew Porter]]"
   - "[[Susan Fuhrman]]"
-  - "[[David Hogan]]"
 related_facts:
   - "[[Gaokao]]"
   - "[[Curriculum Development Institute of Singapore]]"
@@ -47,12 +44,12 @@ related_facts:
   - "[[Core 2 Research Program]]"
 related_arguments:
   - "[[Argument_Barrenechea_2023_JEC]]"
-  - "[[Argument_Deng_2016_CE]]"
   - "[[Argument_Hogan_2013_ROE]]"
+  - "[[Argument_Deng_2016_CE]]"
 confidence: high
 status: draft
 created: 2026-11-13
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -86,10 +83,12 @@ updated: 2026-11-18
 ---
 
 > [!feature] 核心要素
-> - **书面课程标准（Intended Curriculum）** 国家或地方教育行政部门颁布的法定学业质量标准与各学段内容目标，规定系统预期学生达到的学力基准。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 492)]]
-> - **实施课程（Enacted Curriculum）** 教师在真实课堂场景中实际讲授的学科内容深度、时间分配以及师生互动模式。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 495)]]
-> - **测定课程（Assessed Curriculum）** 高利害中考[[Gaokao|高考]]、全州统考或国际测评实际测量的知识点分布与思维要求层级。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 495)]]
-> - **支持性资源环境（Curricular Environment）** 统编教材、教学指导用书、分级读物以及常态化教学教练网络，为对齐提供物化支撑。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 492)]]
+> - **书面课程标准（Intended Curriculum）** 国家或地方教育行政部门颁布的法定学业质量标准与各学段内容目标，规定系统预期学生达到的学力基准。
+> - **实施课程（Enacted Curriculum）** 教师在真实课堂场景中实际讲授的学科内容深度、时间分配以及师生互动模式。
+> - **测定课程（Assessed Curriculum）** 高利害中考[[Gaokao|高考]]、全州统考或国际测评实际测量的知识点分布与思维要求层级。
+> - **支持性资源环境（Curricular Environment）** 统编教材、教学指导用书、分级读物以及常态化教学教练网络，为对齐提供物化支撑。
+>
+> 核心要素涵盖预期标准、实施教学、外部测验与物化支持环境四个维度，共同构成衡量系统对齐的分析支柱。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 492, 495)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -146,7 +145,7 @@ updated: 2026-11-18
 > |---|---|---|---|
 > | **结构协同命题** | 标准、课堂实施与测试的一致性决定教学机会与系统效能 | 各类推行标准化学业评估与大纲改革的国家与学区 | Porter (2002); Fuhrman (1993) |
 > | **环境物化命题** | 依靠脚本化资源与现场教练将对齐要求具象下沉至课堂 | 师资力量薄弱、教学资源匮乏的发展中系统与薄弱校集中区域 | Valverde (2014); Fleisch (2016) |
-> | **考试规锁与双重对齐命题** | 统考与习题的超强对齐保障基本学力，但排挤缺乏测评支持的探究改革 | 高利害问责体制、统考选拔主导的东亚系统与应试密集型学区 | [[Argument_Hogan_2013_ROE|Hogan et al. (2013)]] |
+> | **考试规锁与双重对齐命题** | 统考与习题的超强对齐保障基本学力，但排挤缺乏测评支持的探究改革 | 高利害问责体制、统考选拔主导的东亚系统与应试密集型学区 | [[Argument_Hogan_2013_ROE\|Hogan et al. (2013)]] |
 
 ---
 
@@ -180,8 +179,8 @@ updated: 2026-11-18
 > | [[Curriculum Coherence]] | 概念 | 与课程对齐互为表里，共同构成全系统课程治理的结构与认知两翼。 |
 > | [[Curricular Governance]] | 概念 | 课程对齐所依赖的宏观制度设计与行政权力调控机制。 |
 > | [[Instructional Core]] | 概念 | 课程对齐一切外部标准与教材最终试图穿透并改进的课堂师生互动核心。 |
-> | [[Long Beach Unified School District]] | 事实 | 通过保持全系统课程教材与进度对齐实现跨校稳定提质的代表学区。 |
 > | [[Backward Mapping]] | 理论 | 指导课程标准与资源配置以课堂最终学习产出为端点进行逆向对齐的政策理论。 |
+> | [[Long Beach Unified School District]] | 事实 | 通过保持全系统课程教材与进度对齐实现跨校稳定提质的代表学区。 |
 > | [[Centre for Research in Pedagogy and Practice]] | 事实 | 开展新加坡微观课堂实证、揭示微观教学与高利害考试超强对齐的研究基地。 |
 > | [[Core 2 Research Program]] | 事实 | CRPP 实施的微观课堂追踪项目，提供大规模课程对齐与教学杂糅实证数据。 |
 

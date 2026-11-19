@@ -10,7 +10,7 @@ subtype: program
 region: "singapore"
 fact_region: "singapore"
 fact_kind: "program"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-18
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---

@@ -9,7 +9,7 @@ aliases:
 summary: "受儒家学习传统深刻塑造的东亚与东南亚文化区域分析框架，涵盖中国大陆、香港、台湾、新加坡、日本、韩国与越南。该概念旨在超越国族与政治边界，探究共享的儒家信念（勤勉努力、道德自我完善、考试选拔与尊师重道）及制度架构如何塑造高学业成就与独特学习过程，并反思文化本质主义与制度主义建构的理论张力。"
 type: concept
 domain: "comparative-education"
-related_count: 50
+related_count: 57
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"

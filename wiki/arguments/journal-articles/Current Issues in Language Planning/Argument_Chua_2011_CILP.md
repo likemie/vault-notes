@@ -74,7 +74,7 @@ title: "Argument_Chua_2011_CILP"
 argument_key: "Argument_Chua_2011_CILP"
 argument_display_title: "Singapore’s E(Si)nglish-knowing bilingualism"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 38
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
