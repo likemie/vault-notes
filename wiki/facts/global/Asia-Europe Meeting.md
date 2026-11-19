@@ -7,6 +7,12 @@ summary: "1996年由东南亚国家联盟与欧洲联盟成员国共同倡议创
 type: fact
 subtype: organization
 region: global
+fact_region: "global"
+fact_kind: "organization"
+fact_related_count: 0
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dcfce7"
 org_type: intergovernmental-forum
 headquarters: ""
 established: "1996"
@@ -36,7 +42,7 @@ updated: 2026-11-19
 ---
 
 > [!org-evolution] 组织发展历程
-> - **1996–2006** **创设与经贸安全奠基期**
+> - **1996–2006** **创设与经贸安全初建期**
 >
 >   以经贸投资往来与地缘安全对话为主导，逐步拓展人文交流纽带，创立亚欧基金会作为社会文化合作的执行支柱。[[Argument_Dang_2017_ORE|(Dang, 2017, p. 417)]]
 >

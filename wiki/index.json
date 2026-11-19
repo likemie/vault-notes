@@ -15475,6 +15475,15 @@
     ]
   },
   {
+    "title": "Networked Regionalism",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Networked Regionalism.md",
+    "aliases": [
+      "网络化区域主义",
+      "网络型区域主义"
+    ]
+  },
+  {
     "title": "New Geopolitics",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/New Geopolitics.md",
@@ -44239,6 +44248,16 @@
     "subtype": "organization"
   },
   {
+    "title": "Asia-Europe Meeting",
+    "type": "fact",
+    "path": "wiki/facts/global/Asia-Europe Meeting.md",
+    "aliases": [
+      "亚欧会议",
+      "ASEM"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "Asian Infrastructure Investment Bank",
     "type": "fact",
     "path": "wiki/facts/global/Asian Infrastructure Investment Bank.md",
@@ -47700,6 +47719,19 @@
       "Portuguese Schools Evaluation Programme",
       "学校外部评估计划",
       "PEE (葡萄牙)"
+    ],
+    "subtype": "program"
+  },
+  {
+    "title": "Regional Innovation Offices",
+    "type": "fact",
+    "path": "wiki/facts/portugal/Regional Innovation Offices.md",
+    "aliases": [
+      "区域创新办公室",
+      "科英布拉理工学院区域创新办公室",
+      "GIR",
+      "Gabinetes de Inovação Regional",
+      "Regional Innovation Offices (Polytechnic of Coimbra)"
     ],
     "subtype": "program"
   },
@@ -56015,6 +56047,11 @@
     "title": "Argument_Nielsen_2021_NordPsych",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Nordic Psychology/Argument_Nielsen_2021_NordPsych.md"
+  },
+  {
+    "title": "Argument_Dang_2017_ORE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
   },
   {
     "title": "Argument_Allerup_2015_Paideia",

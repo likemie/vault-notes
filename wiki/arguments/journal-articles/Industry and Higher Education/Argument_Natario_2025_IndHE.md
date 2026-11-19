@@ -59,6 +59,7 @@ related_facts:
   - "[[Web of Science]]"
   - "[[Google Scholar]]"
   - "[[Link Me Up - 1000 ideas]]"
+  - "[[Regional Innovation Offices]]"
   - "[[INOV C + Smart Innovation Ecosystem]]"
   - "[[Centre for Social Economy and Innovation]]"
   - "[[EU]]"
@@ -79,7 +80,7 @@ title: "Argument_Natario_2025_IndHE"
 argument_key: "Argument_Natario_2025_IndHE"
 argument_display_title: "How higher education institutions may catalyse regional innovation ecosystems: The case of polytechnics in Portugal"
 argument_kind: "journal-article"
-argument_related_count: 40
+argument_related_count: 41
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -232,10 +233,10 @@ issuing_organization: ""
 > - **1,076** 产出的提案与创意总量（项），含 491 项共创创新方案（3,017 家企业参与）及 585 份商业计划。
 > - **65** 由参与学生成功创立的新增企业数量（家）。
 
-> [!sub-claim] 2. 科英布拉创新办公室与瓜尔达社会经济中心扎根内陆，以技能培训和就业留住青年人口
+> [!sub-claim] 2. [[Regional Innovation Offices|科英布拉创新办公室]]与瓜尔达社会经济中心扎根内陆，以技能培训和就业留住青年人口
 
-> [!case] 案例二：科英布拉理工学院区域创新办公室（@GIR 项目，2022 年 5 月起）
-> - **区域锚定定位** 科英布拉理工学院于 2022 年 5 月启动区域创新办公室（@GIR），在科英布拉省内陆市镇设立实体办公空间，直接将高校与内陆领土相连接并开展联合行动（Politécnico de Coimbra, 2023）。
+> [!case] 案例二：科英布拉理工学院[[Regional Innovation Offices|区域创新办公室]]（GIR 项目，2022 年 5 月起）
+> - **区域锚定定位** 科英布拉理工学院于 2022 年 5 月启动[[Regional Innovation Offices|区域创新办公室]]（Regional Innovation Offices, GIR），在科英布拉区内陆市镇设立实体办公空间，直接将高校与内陆领土相连接并开展联合行动（Politécnico de Coimbra, 2023）。
 > - **核心目标与行动内容** 项目致力于打通知识转移通道、开发本地创新项目、推动科英布拉理工学院学生与本地失业群体融入劳动力市场，并提升区域企业与机构的资质能力。
 > - **结构性回应** 该倡议精准面向历史上以微小型企业为主体的本地商业结构，通过在内陆市镇创造青年就业机会，力图遏制青年人口向沿海城市迁移，进而推动外围区域的经济与社会发展。
 

@@ -758,6 +758,14 @@
       ],
       "title": "Comparing Regional Institutions: An Introduction"
     },
+    "Acharya, 2014": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/political-economy-geopolitics/Networked Regionalism.md"
+      ],
+      "title": ""
+    },
     "Achieve, 2004": {
       "doi": "",
       "isbn": "",
@@ -13773,17 +13781,18 @@
       "title": "Systems of Education and Systems of Thought"
     },
     "Bourdieu, 1977": {
-      "doi": "",
-      "isbn": "",
+      "doi": "10.1017/CBO9780511812507",
+      "isbn": "9780521291644",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
+        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md",
         "wiki/arguments/journal-articles/Sociology of Education/Argument_Downey_2016_SoE.md",
         "wiki/concepts/educational-philosophy/Anthropomorphic Model.md",
         "wiki/concepts/sociology-of-education/Cultural Capital.md",
         "wiki/theories/sociology-of-education/Refraction Framework.md",
         "wiki/theories/sociology-of-education/Wisconsin Model of Status Attainment.md"
       ],
-      "title": ""
+      "title": "Outline of a Theory of Practice"
     },
     "Bourdieu, 1980": {
       "doi": "",
@@ -13802,6 +13811,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md",
         "wiki/arguments/journal-articles/Higher Education/Argument_Schulze-Cleven_2017_HE.md",
+        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md",
         "wiki/concepts/political-economy-geopolitics/Discursive Stratification.md",
         "wiki/concepts/sociology-of-education/Cultural Capital.md",
         "wiki/concepts/sociology-of-education/Symbolic Boundary.md",
@@ -13812,16 +13822,18 @@
     },
     "Bourdieu, 1986": {
       "doi": "",
-      "isbn": "",
+      "isbn": "9780313236013",
       "seen_in": [
+        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md",
         "wiki/theories/sociology-of-education/Social Capital Theory.md"
       ],
-      "title": ""
+      "title": "The Forms of Capital"
     },
     "Bourdieu, 1990": {
       "doi": "",
       "isbn": "9780745605999",
       "seen_in": [
+        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md",
         "wiki/concepts/sociology-of-education/Champ.md",
         "wiki/concepts/sociology-of-education/Habitus Transformation.md",
         "wiki/concepts/sociology-of-education/Sense of the Game.md"
@@ -14049,16 +14061,17 @@
     },
     "Bowles & Gintis, 1976": {
       "doi": "",
-      "isbn": "",
+      "isbn": "9780465072309",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11.md",
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Amos_2022_Springer.md",
+        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md",
         "wiki/arguments/journal-articles/Sociology of Education/Argument_Downey_2016_SoE.md",
         "wiki/facts/us/Coleman Report 1966.md",
         "wiki/methods/qualitative/Critical Ethnography.md",
         "wiki/theories/sociology-of-education/Refraction Framework.md"
       ],
-      "title": ""
+      "title": "Schooling in Capitalist America: Educational Reform and the Contradictions of Economic Life"
     },
     "Bowman, 1992": {
       "datasets": [
@@ -23227,12 +23240,13 @@
     },
     "Collins, 1979": {
       "doi": "",
-      "isbn": "",
+      "isbn": "9780121808501",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
+        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md",
         "wiki/concepts/sociology-of-education/Credential Inflation.md"
       ],
-      "title": ""
+      "title": "The Credential Society: An Historical Sociology of Education and Stratification"
     },
     "Collins, 1984": {
       "datasets": [
@@ -27035,6 +27049,14 @@
         "wiki/arguments/journal-articles/Policy and Society/Argument_Stone_2020_PolSoc.md"
       ],
       "title": ""
+    },
+    "De Francesco, 1980": {
+      "doi": "10.2307/1502758",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md"
+      ],
+      "title": "Myths and Realities of Mass Secondary Schooling in Italy"
     },
     "De Ketele, 2008": {
       "doi": "",
@@ -32761,6 +32783,14 @@
       ],
       "title": ""
     },
+    "Emerson et al., 2011": {
+      "doi": "",
+      "isbn": "9780226206837",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md"
+      ],
+      "title": "Writing Ethnographic Fieldnotes"
+    },
     "Emery, 1992": {
       "datasets": [
         "eef:oral-language-interventions"
@@ -35526,11 +35556,12 @@
     },
     "Fetterman, 2010": {
       "doi": "",
-      "isbn": "",
+      "isbn": "9781412959889",
       "seen_in": [
+        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md",
         "wiki/methods/qualitative/Ethnography.md"
       ],
-      "title": ""
+      "title": "Ethnography: Step-by-Step"
     },
     "Feucht, 2010": {
       "doi": "",
@@ -36989,6 +37020,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md",
+        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md",
         "wiki/concepts/sociology-of-education/Burden of Acting White.md"
       ],
       "title": "Black Students’ School Success: Coping with the “Burden of ‘Acting White’”"
@@ -46199,6 +46231,14 @@
       ],
       "title": ""
     },
+    "Hammersley & Atkinson, 2007": {
+      "doi": "",
+      "isbn": "9780415396455",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md"
+      ],
+      "title": "Ethnography: Principles in Practice"
+    },
     "Hammersley, 1992a": {
       "doi": "",
       "isbn": "",
@@ -52327,11 +52367,12 @@
     },
     "Hurn, 1978": {
       "doi": "",
-      "isbn": "",
+      "isbn": "9780205058785",
       "seen_in": [
-        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11.md"
+        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11.md",
+        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md"
       ],
-      "title": ""
+      "title": "The Limits and Possibilities of Schooling: An Introduction to the Sociology of Education"
     },
     "Hurry, 2007": {
       "datasets": [
@@ -63924,6 +63965,14 @@
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md"
       ],
       "title": ""
+    },
+    "Lareau, 2000": {
+      "doi": "",
+      "isbn": "9780742501584",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md"
+      ],
+      "title": "Home Advantage: Social Class and Parental Intervention in Elementary Education"
     },
     "Lareau, 2003": {
       "doi": "",
@@ -76143,6 +76192,14 @@
       ],
       "title": ""
     },
+    "Mills, 2000": {
+      "doi": "",
+      "isbn": "9780195133738",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md"
+      ],
+      "title": "The Sociological Imagination"
+    },
     "Mills, 2001": {
       "doi": "",
       "isbn": "",
@@ -88254,7 +88311,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
+        "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
+        "wiki/facts/portugal/Regional Innovation Offices.md"
       ],
       "title": "Projeto @GIR Arranca No Terreno"
     },
@@ -91053,17 +91111,34 @@
       ],
       "title": ""
     },
+    "Reay et al., 2001": {
+      "doi": "10.1177/0038038501035004004",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md"
+      ],
+      "title": "Choices of Degree or Degrees of Choice? Class, Race and the Higher Education Choice Process"
+    },
     "Reay et al., 2009": {
       "doi": "10.1177/0038038509345700",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md",
+        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md",
         "wiki/concepts/sociology-of-education/Cultural Disorientation.md",
         "wiki/concepts/sociology-of-education/Habitus.md",
         "wiki/concepts/sociology-of-education/The Shock of the Elite.md"
       ],
       "title": "'Strangers in Paradise'? Working-class Students in Elite Universities"
+    },
+    "Reay et al., 2010": {
+      "doi": "10.1080/01411920903540171",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md"
+      ],
+      "title": "'Fitting in' or 'Standing out': Working Class Students in UK Higher Education"
     },
     "Reay, 1998": {
       "doi": "",
@@ -91078,17 +91153,19 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
+        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md",
         "wiki/concepts/sociology-of-education/The Shock of the Elite.md"
       ],
       "title": "Finding or Losing Yourself?: Working-class Relationships to Education"
     },
     "Reay, 2004": {
-      "doi": "",
+      "doi": "10.1080/0268093042000269940",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md",
         "wiki/concepts/sociology-of-education/Cultural Capital.md"
       ],
-      "title": ""
+      "title": "'It's All Becoming a Habitus': Beyond the Habitual Use of Habitus in Educational Research"
     },
     "Rebecca Blank, 1991": {
       "doi": "",
@@ -95590,11 +95667,12 @@
     },
     "Ryan, 1976": {
       "doi": "",
-      "isbn": "",
+      "isbn": "9780394722269",
       "seen_in": [
+        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md",
         "wiki/facts/us/Coleman Report 1966.md"
       ],
-      "title": ""
+      "title": "Blaming the Victim"
     },
     "Ryan, 1984": {
       "doi": "",
@@ -106807,6 +106885,14 @@
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23.md",
         "wiki/methods/qualitative/Structured Observation.md"
+      ],
+      "title": ""
+    },
+    "Stubbs, 2014": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/political-economy-geopolitics/Networked Regionalism.md"
       ],
       "title": ""
     },
@@ -118539,6 +118625,7 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14.md",
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch05.md",
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md",
+        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md",
         "wiki/concepts/research-methodology/Front-loaded and End-loaded Research.md",
         "wiki/concepts/sociology-of-education/Counter-School Culture.md",
         "wiki/methods/qualitative/Non-participant Observation.md",
@@ -120951,6 +121038,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Associations of childhood adversity with emotional well-being and educational achievement: A review and meta-analysis."
+    },
+    "Yeo, 2010": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/political-economy-geopolitics/Networked Regionalism.md"
+      ],
+      "title": ""
     },
     "Yernazar, 2020": {
       "datasets": [
@@ -124138,6 +124233,14 @@
       ],
       "title": ""
     },
+    "刘欣, 2003": {
+      "doi": "10.19934/j.cnki.shxyj.2003.06.003",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md"
+      ],
+      "title": "阶级惯习与品味：布迪厄的阶级理论"
+    },
     "刘欣, 2021": {
       "doi": "10.19934/j.cnki.shxyj.2021.04.008",
       "isbn": "",
@@ -124146,6 +124249,14 @@
         "wiki/theories/sociology-of-education/Dual Elite Career Paths.md"
       ],
       "title": "英才之路：通往转型社会二元精英地位的双重路径"
+    },
+    "刘精明, 2006": {
+      "doi": "10.15992/j.cnki.31-1123/c.2006.03.007",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md"
+      ],
+      "title": "高等教育扩展与入学机会差异: 1978～2003"
     },
     "创立, 1955": {
       "doi": "",
@@ -125441,6 +125552,14 @@
       ],
       "title": "突破再生产：布迪厄理论的另一面"
     },
+    "朱永新, 2008": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md"
+      ],
+      "title": "“读书无用”与“读无用书”——观“新读书无用论”的背后"
+    },
     "李军, 2018": {
       "doi": "",
       "isbn": "",
@@ -125448,6 +125567,14 @@
         "wiki/facts/china/ECNU Declaration on Evidence-Based Research.md"
       ],
       "title": ""
+    },
+    "李涛和邬志辉, 2015": {
+      "doi": "10.15983/j.cnki.sxzm.2015.06.002",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md"
+      ],
+      "title": "“乡土中国”中的新“读书无用论”——基于社会分层视角下的雍村调查"
     },
     "李瑾, 2012": {
       "doi": "",
