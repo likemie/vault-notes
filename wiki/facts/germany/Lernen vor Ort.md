@@ -10,7 +10,7 @@ subtype: program
 region: "germany"
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Rescaling]]"
   - "[[Comprehensive Education]]"
   - "[[Topological Spatialisation]]"
+  - "[[Neoliberalism]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-11-19
 ---
 
 ---
@@ -115,7 +116,7 @@ updated: 2026-10-22
 > > [!axis] 公私治理与私营基金会影响力扩张
 > > 针对未受民主选举问责的私人基金会（如贝塔斯曼）在公共教育决策中扮演关键角色的争议。
 > >
-> > - **批评观点** 批评者指出私人智库借由技术标准与管理工具向公立教育体制渗透新自由主义问责与竞争逻辑。
+> > - **批评观点** 批评者指出私人智库借由技术标准与管理工具向公立教育体制渗透[[Neoliberalism|新自由主义]]问责与竞争逻辑。
 > > - **回应辩护** 支持者认为基金会带来了灵活的创新活力与专业数据工具，有效弥补了地方科层体制的僵化。
 
 > [!warning] 适用局限

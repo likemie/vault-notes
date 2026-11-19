@@ -9,7 +9,7 @@ aliases:
 summary: "指德语区（德国与奥地利）在经历 PISA 冲击后确立的国家教育监测战略下发展出的学校自主治理与持续改进范式；主张学校管理者与教职工基于标准化测试、外部督导与校内诊断等多源实证数据，系统开展现状诊断、目标协商与微观教学干预，推动教育质量管理由传统投入规制转向产出与循证数据驱动。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[School Inspection]]"
   - "[[School Leadership]]"
+  - "[[Neoliberalism]]"
   - "[[School Autonomy]]"
   - "[[Professional Judgment]]"
   - "[[Construct]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-11-03
+updated: 2026-11-19
 ---
 
 ---
@@ -81,7 +82,7 @@ updated: 2026-11-03
 > *Evidence-based school development in Germany highlights the systematic use of empirical data from state-wide monitoring systems for school-level quality improvement. However, transferring monitoring data into classroom-level pedagogical adjustments requires sophisticated [[School Leadership]] and collaborative professional culture.*
 
 > [!boundary]- 概念边界
-> - 不等于单纯的数据驱动问责（Data-Driven Accountability） — 英美新自由主义模式下的大规模测试常与高利害惩戒或绩效挂钩；德国循证学校发展立足于“[[School Autonomy|学校自主]]与发展导向”，严禁公开学校排名榜，强调数据作为学校自我诊断与专业协商的资源。
+> - 不等于单纯的数据驱动问责（Data-Driven Accountability） — 英美[[Neoliberalism|新自由主义]]模式下的大规模测试常与高利害惩戒或绩效挂钩；德国循证学校发展立足于“[[School Autonomy|学校自主]]与发展导向”，严禁公开学校排名榜，强调数据作为学校自我诊断与专业协商的资源。
 > - 不等于无反思的数据技术主义 — 循证学校发展强调实证数据必须经由教师[[Professional Judgment\|专业判断]]、教育教学目标与学生具体情境的批判性审议，而非机械根据测试分数制定应试训练策略。
 > - 不等于传统的经验型校本教研 — 传统校本教研多以教师主观经验交流为主；该[[Construct\|构念]]要求必须系统引入标准化的外部实证比较数据与科学测评工具。
 

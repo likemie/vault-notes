@@ -9,7 +9,7 @@ subtype: organization
 region: "new-zealand"
 fact_region: "new-zealand"
 fact_kind: "organization"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Document]]"
   - "[[School Leadership]]"
   - "[[New Managerialism]]"
+  - "[[Neoliberalism]]"
 related_theories: []
 related_methods:
   - "[[Cost-Benefit Analysis]]"
@@ -45,7 +46,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 status: active
 created: '2026-10-16'
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -145,7 +146,7 @@ updated: 2026-11-15
 > | [[New Managerialism]] | Concept | 信托推行的商业化管理主义与校长能力重塑取向。 |
 > | [[NEXT Foundation]] | Fact (Organization) | 为该信托提供全额战略注资的超级风险慈善母体。 |
 > | [[Teach First New Zealand]] | Fact (Organization) | 同受 NEXT 资助、与跳板信托紧密协同的替代性师训机构。 |
-> | [[New Zealand Initiative]] | Fact (Organization) | 共享跨界企业董事网络并共同倡导绩效管理的新自由主义智库。 |
+> | [[New Zealand Initiative]] | Fact (Organization) | 共享跨界企业董事网络并共同倡导绩效管理的[[Neoliberalism\|新自由主义]]智库。 |
 
 ---
 

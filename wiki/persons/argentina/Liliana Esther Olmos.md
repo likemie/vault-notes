@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: argentina
 person_region: "argentina"
-person_related_count: 20
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -25,6 +25,7 @@ tags:
   - latin-america
   - region/argentina
 related_concepts:
+  - "[[Neoliberalism]]"
   - "[[Compensatory Legitimation]]"
   - "[[Financial-Intellectual Complex]]"
   - "[[Discourse]]"
@@ -45,6 +46,7 @@ related_methods:
   - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
+  - "[[Karl Marx]]"
   - "[[Carlos Alberto Torres]]"
   - "[[Paulo Freire]]"
 related_facts:
@@ -54,14 +56,14 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-28
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 阿根廷裔比较教育社会学者，长期在加州大学洛杉矶分校（UCLA）拉丁美洲中心与教育研究生院从事研究工作。
-> - **核心角色** 从新马克思主义政治经济学与批判政治社会学视角，深入考察第三世界与拉丁美洲教育扩张的制度动力、依附性国家机器的运作机制以及全球化与新自由主义调整对公共教育公平的冲击。
+> - **核心角色** 从新[[Karl Marx|马克思]]主义政治经济学与批判政治社会学视角，深入考察第三世界与拉丁美洲教育扩张的制度动力、依附性国家机器的运作机制以及全球化与[[Neoliberalism|新自由主义]]调整对公共教育公平的冲击。
 > - **代表贡献** 与[[Carlos Alberto Torres|卡洛斯·阿尔贝托·托雷斯]]（Carlos Alberto Torres）合作系统阐述[[Conditioned State Theory|受限国家理论]]在教育扩张中的解释机制，剖析拉美双轨教育体制与[[State Corporatism|国家法团主义]]下的[[Compensatory Legitimation|补偿性合法化]]，批判[[World Bank|世界银行]][[Financial-Intellectual Complex|金融-智识复合体]]的[[Discourse|话语]]垄断。
 
 > [!citation-card] 奥尔莫斯与托雷斯论国家与教育扩张

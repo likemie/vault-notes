@@ -10,9 +10,9 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 21
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "statutory authority"
 headquarters: "Sydney, Australia"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Curriculum Connection]]"
   - "[[Teacher Collaboration]]"
   - "[[Creativity]]"
+  - "[[Neoliberalism]]"
   - "[[School Choice]]"
 related_theories: []
 related_methods: []
@@ -38,6 +39,7 @@ related_persons: []
 related_facts:
   - "[[Australian Curriculum]]"
   - "[[Melbourne Declaration]]"
+  - "[[Independent Schools Initiative]]"
   - "[[NAPLAN]]"
   - "[[My School Website]]"
   - "[[Educational Services Australia]]"
@@ -52,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-10
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -62,7 +64,7 @@ updated: 2026-11-11
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 2008 年 12 月由澳大利亚联邦议会通过《2008年[[Australian Curriculum|澳大利亚课程]]、评估与报告局法案》（ACARA Act 2008）正式批准设立，直接响应《[[Melbourne Declaration|墨尔本宣言]]》确立的全国统一教育卓越与公平目标。
-> - **总部地点 / 业务辐射** 总部设于悉尼，法定管辖与业务服务范围覆盖全澳八个州和领地的公立学校、天主教教育系统及独立学校系统。
+> - **总部地点 / 业务辐射** 总部设于悉尼，法定管辖与业务服务范围覆盖全澳八个州和领地的公立学校、天主教教育系统及[[Independent Schools Initiative|独立学校]]系统。
 > - **法人属性与经费基础** 独立的联邦法人实体（Corporate Commonwealth Entity），运营经费由澳大利亚联邦政府（50%）与各州/领地政府（合计 50%）共同出资分担。
 > - **核心宗旨与法定职责** 研制并维护国家级《[[Australian Curriculum|澳大利亚课程]]》；主导实施全国读写与算术统考（[[NAPLAN]]）；管理汇聚全国基础教育数据并运营“我的学校”（[[My School Website|My School]]）信息公开网站。
 
@@ -122,7 +124,7 @@ updated: 2026-11-11
 > > - **批评视角** 一线教师与教育工会认为过细的细目规定限制了教学[[Creativity|创造力]]，加剧了基层课业负担。
 > > - **机构立场** ACARA 强调统一国家基准是保障弱势群体教育公平的基础，并在修订中持续赋予学校校本裁剪空间。
 > 
-> > [!axis] 公开排名与新自由主义竞争争议
+> > [!axis] 公开排名与[[Neoliberalism|新自由主义]]竞争争议
 > > My School 平台公开学校横向数据引发加剧学校间不当竞争、促使中产家庭[[School Choice|择校]]外流及应试教学窄化课程的广泛批评；官方与支持者则坚持公共资金资助的学校必须接受公众透明度审计与学业成效问责（[[Argument_Verger_2019_Discourse|Verger et al., 2019, p. 259]]）。
 > > 
 > > - **外部批判视角** 学者指出简单发布横向比对数据强化了教育市场化与阶层分化。

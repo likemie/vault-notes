@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 44
+person_related_count: 45
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Developer-Made Measures]]"
   - "[[Philosophical Aesthetics]]"
+  - "[[Neoliberalism]]"
   - "[[Phronesis]]"
   - "[[Cognitive Deskilling]]"
   - "[[Internal Validity]]"
@@ -80,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 （罗伯特·斯拉文）
@@ -171,7 +172,7 @@ updated: 2026-11-15
 > >
 > > | 维度 | Slavin ([[Evidence-Based Education\|EBE]] 支持者) | [[Gert Biesta\|Biesta]] (哲学批评者) | Cowen (比较教育批评者) |
 > > |---|---|---|---|
-> > | **研究证据的角色** | 应作为教育决策与财政拨款的核心标准 | 从属于教育价值目的的从属判断 | 在制度上沦为新自由主义官僚委托工具 |
+> > | **研究证据的角色** | 应作为教育决策与财政拨款的核心标准 | 从属于教育价值目的的从属判断 | 在制度上沦为[[Neoliberalism\|新自由主义]]官僚委托工具 |
 > > | **[[Causality\|因果推断]][[Paradigm\|范式]]** | 极度推崇 [[Randomised Controlled Trials\|RCT]] 与高内效准实验 | 批评将教育降格为“输入-产出”的机械工程学 | 强调情境的不可移植性与本土历史独特性 |
 > > | **教师专业自主** | 教师应严格执行经实证验证有效的成熟项目 | 教师应拥有基于教育伦理的[[Phronesis\|实践智慧]]（Phronesis） | 教师成为被动执行外部证据的[[Cognitive Deskilling\|去技能化]]劳动者 |
 >

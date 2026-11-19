@@ -15,12 +15,14 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Discursive Opportunity Structures]]"
   - "[[Literature Review]]"
+  - "[[Neoliberalism]]"
   - "[[Theory of Knowledge]]"
   - "[[Assemblage]]"
   - "[[Success Criteria]]"
   - "[[Self-Entrepreneur]]"
   - "[[Employability]]"
   - "[[Lifelong Learning]]"
+  - "[[Typicality]]"
   - "[[Problematisation]]"
   - "[[VUCA]]"
   - "[[Knowledge Production]]"
@@ -44,14 +46,14 @@ sources:
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 status: draft
 created: 2026-05-20
-updated: 2026-11-11
+updated: 2026-11-19
 subtype: book-chapter
 publication_type: book
 title: "Argument_Zelinka_2022_SCD_subjectivity"
 argument_key: "Argument_Zelinka_2022_SCD_subjectivity"
 argument_display_title: "Subjects and subjectivities of the (new) geopolitics of knowledge"
 argument_kind: "book"
-argument_related_count: 26
+argument_related_count: 28
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -85,7 +87,7 @@ citation_aliases:
 
 ### 第一层：高等教育的新自由主义转型与（新）知识地缘政治的浮现
 
-论证起点是一个已被广泛认可的经验观察：高等教育已经持续经历了新自由主义化和产业化，大学之间相互竞争(Hazelkorn, 2017)、发展新型商业模式(Kehm & Lanzendorf, 2005)、不断追求卓越和全球领导地位(Altbach & Salmi, 2011)。教育被转型为以经济增长和提高生产力为主要目标(Spring, 2015)。
+论证起点是一个已被广泛认可的经验观察：高等教育已经持续经历了[[Neoliberalism|新自由主义]]化和产业化，大学之间相互竞争(Hazelkorn, 2017)、发展新型商业模式(Kehm & Lanzendorf, 2005)、不断追求卓越和全球领导地位(Altbach & Salmi, 2011)。教育被转型为以经济增长和提高生产力为主要目标(Spring, 2015)。
 
 这一全球转型同时被理解为[[Theory of Knowledge|知识论]]转变和[[Geopolitics|地缘政治]]博弈，由此催生了"（新）[[Geopolitics of Knowledge|知识地缘政治]]"（(new) [[Geopolitics of Knowledge]]）概念(Mignolo, 2002)。关键的特征是它嵌入新自由主义之中——新自由主义作为一种**理性（rationality）**，重新想象、解释和[[Assemblage|组装]]人与物之间的关系以实现 **[[Governing at a Distance|远距治理]](governing at a distance, Ward & England, 2007; Bell & Green, 2016, p.240)**。新自由主义[[Governmentality|治理术]]**远距组织**全球教育转型(Ball, 2010, p.135)，试图通过创造可欲的自我引导形式来操控个体。
 
@@ -128,7 +130,7 @@ SCD 将焦点从结构变革转向个体技能发展，主体有义务获取新�
 
 多个全球政策议程同时宣称追求经济增长和社会包容。但 Joynes et al.（2019, p.6）指出，全球层面的广泛需求预测忽视了不同区域（如东亚 vs 撒哈拉以南非洲）的多样性需求。同一项素养在不同区域是否具有同等价值？关键技能框架在多大程度上承认区域差异？(p.263)
 
-这一步将前面的"同质化"论证推向了地缘政治维度：SCD 推广的全球技能集合不仅同质化了个体，也同质化了区域发展路径，忽视了后殖民差异和区域特殊性。
+这一步将前面的"同质化"论证推向了地缘政治维度：SCD 推广的全球技能集合不仅同质化了个体，也同质化了区域发展路径，忽视了后殖民差异和区域[[Typicality|特殊性]]。
 
 ### 综合：将（新）知识地缘政治概念化为全球治理术
 

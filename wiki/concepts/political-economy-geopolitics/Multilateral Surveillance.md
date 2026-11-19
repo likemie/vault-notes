@@ -7,7 +7,7 @@ aliases:
 summary: "指主权国家之间或在国际组织框架下，通过制度化、常态化的信息披露、跨国数据收集、相互审议与横向监控机制，对各成员国的政策制定与执行进行全方位监督与评估的软法治理机制；它通过建构透明度预期与政策解释义务，形成超越传统主权管辖的跨国政策协调与合规网络，无需依赖硬性法律制裁。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Open Method of Coordination]]"
   - "[[Governing by Numbers]]"
+  - "[[Neoliberalism]]"
 related_theories:
   - "[[Governmentality]]"
   - "[[Panopticism]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -161,7 +162,7 @@ updated: 2026-11-11
 > > 争论多边监督究竟是主权国家平等交流与提升政策反思能力的互助网络，还是国际官僚借技术客观性侵蚀民族国家教育自主权的隐形手段。
 > >
 > > - **经合组织官方治理立场（1998）** 认为多边监督与同行质询是主权国家在复杂世界中克服本位主义、提升公共治理透明度与现代化的必要制度保障。
-> > - **[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]]** 批评当代多边监督已演变为高度集权的数据霸权，通过预设新自由主义市场指标强行格式化各国的教育目的，严重损害了本土民主审议主权。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 440–442)]]
+> > - **[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]]** 批评当代多边监督已演变为高度集权的数据霸权，通过预设[[Neoliberalism|新自由主义]]市场指标强行格式化各国的教育目的，严重损害了本土民主审议主权。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 440–442)]]
 
 ---
 

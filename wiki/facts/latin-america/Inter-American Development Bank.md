@@ -11,7 +11,7 @@ subtype: organization
 region: latin-america
 fact_region: "latin-america"
 fact_kind: "organization"
-fact_related_count: 33
+fact_related_count: 34
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Mimesis]]"
   - "[[State Educational Sovereignty]]"
   - "[[Aidland]]"
+  - "[[Neoliberalism]]"
   - "[[Multilateral Development Bank]]"
   - "[[Washington Consensus]]"
   - "[[Knowledge Bank]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -211,7 +212,7 @@ updated: 2026-11-15
 > > [!axis] 南方专家收编与经验技术化稀释风险
 > > 探讨多边机构吸纳南方本土实践专家是推动对等合作还是收编本土批判性经验。
 > >
-> > - **批判视角（Mosse, 2011; [[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）** 援引莫斯对[[Aidland|援助国度]]封闭官僚文化的审视，指出多边机构的人事循环容易将南方专家收编入新自由主义话语体系，导致其原初扎根经验遭受技术化稀释。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 238–239)]]
+> > - **批判视角（Mosse, 2011; [[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）** 援引莫斯对[[Aidland|援助国度]]封闭官僚文化的审视，指出多边机构的人事循环容易将南方专家收编入[[Neoliberalism|新自由主义]]话语体系，导致其原初扎根经验遭受技术化稀释。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 238–239)]]
 > > - **多边合作倡导者** 强调熟悉本土实务的南方专家进入泛美开发银行与世行等机构后组建起有实质影响力的政策社群，直接改变了国际金融机构将发展中国家视作纯粹受援客体的偏见。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 241–244)]]
 
 > [!citation-card] 代表性批评与反思文献

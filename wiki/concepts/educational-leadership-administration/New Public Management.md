@@ -7,7 +7,7 @@ aliases:
 summary: "以企业管理与市场竞争逻辑重塑公共部门的治理范式，强调绩效指标、产出控制、性价比核算、供给竞争与服务外包；经合组织等借“良治”话语将教育治理从目的辩论置换为投入产出效率与比较绩效远处掌舵，在带来微观成本控制的同时导致公共部门去技能化与创新治理的青蛙视角。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 94
+related_count: 95
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Source of Knowledge]]"
   - "[[Consultocracy]]"
   - "[[Polymath]]"
+  - "[[Neoliberalism]]"
   - "[[Externalization]]"
   - "[[Study Abroad]]"
   - "[[Knowledge-Based Economization]]"
@@ -121,7 +122,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-02
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -175,7 +176,7 @@ updated: 2026-11-15
 
 > [!feature] 核心要素
 > - **绩效标准与量化测量** 将标准化测试成绩、基准测试与质量保证框架作为核心管理工具，形成贯穿全系统的[[Governing by Numbers|数字治理]]机制。[[Argument_Møller_2017_EERJ|(Møller, 2017, pp. 381–382)]]
-> - **“良治”（Good Governance）修辞与治理目的的技术化置换** 依托[[OECD|经合组织]] 1995 年《转型中的治理》纲领，新公共管理以中立的“良治”修辞遮蔽其新自由主义意识形态转型，将教育治理的焦点从“教育目的与社会公平的政治哲学辩论”彻底置换为问责机制、质量保证、投入产出效率与国际基准对标等技术程序。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
+> - **“良治”（Good Governance）修辞与治理目的的技术化置换** 依托[[OECD|经合组织]] 1995 年《转型中的治理》纲领，新公共管理以中立的“良治”修辞遮蔽其[[Neoliberalism|新自由主义意识形态]]转型，将教育治理的焦点从“教育目的与社会公平的政治哲学辩论”彻底置换为问责机制、质量保证、投入产出效率与国际基准对标等技术程序。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 > - **产出控制与性价比核算** 以可量化的产出指标评价机构，将投入产出比（Value for Money, VfM）作为资源配置的核心前提。[[Argument_Helgetun_2022_JEdPolicy|(Helgetun & Menter, 2022, p. 90)]]
 > - **准市场竞争与供给多元化** 推动学校、大学与研究机构为生源与科研经费展开竞争，引入多元民营与社会供给主体。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 96–97)]]
 > - **管理主义问责替代专业自主** 要求机构领导者对运行效率承担直接责任，使专业人员身份演变为国家改革政令的执行交付者。[[Argument_Eacott_2011_JEAH|(Eacott, 2011, p. 52)]]

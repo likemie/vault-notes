@@ -10,7 +10,7 @@ aliases:
 summary: "Fred Block（2008）与 Christopher Ansell（2000）提出的科技创新政治经济学理论，指区别于东亚集权科层发展型国家与英美放任规制国家的全新国家形态，强调国家通过分布式、去中心化的联邦机构网络与产学研多方协同促进颠覆性创新。Fuchs（2010）在此基础上提出批判性修正，证明国家公共代理人超越消极中介撮合，通过嵌入型网络治理主动引导国家战略技术轨道。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 53
+theory_related_count: 55
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Valley of Death]]"
   - "[[National Innovation System]]"
+  - "[[Neoliberalism]]"
   - "[[Metacognition]]"
   - "[[Network Governance]]"
   - "[[Embedded Autonomy]]"
@@ -52,6 +53,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Alienation]]"
 related_theories:
+  - "[[Developmental State]]"
   - "[[Systems of Innovation]]"
   - "[[Pasteur's Quadrant]]"
   - "[[Evolutionary Economics]]"
@@ -83,14 +85,14 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
 
 > [!theory-position] 理论定位
 > - **解释对象** 解释当代发达经济体（特别是美国）如何在维持自由市场[[Discourse|话语]]与反国家干预修辞的同时，依托分散化公共科研机构网络实质性主导前沿科技突破、跨越概念验证“[[Valley of Death|死亡之谷]]”并重构[[National Innovation System|国家创新系统]]。
-> - **理论问题** 破解传统政治经济学在“新自由主义放任规制国家（Regulatory State）”与“东亚自上而下科层发展型国家（Developmental Bureaucratic State, DBS）”之间的二[[Metacognition|元认知]]困境。
+> - **理论问题** 破解传统政治经济学在“[[Neoliberalism|新自由主义]]放任规制国家（Regulatory State）”与“东亚自上而下科层[[Developmental State|发展型国家]]（Developmental Bureaucratic State, DBS）”之间的二[[Metacognition|元认知]]困境。
 > - **理论类型** 中观与宏观国家政治经济学理论、国家[[Systems of Innovation|创新系统]][[Analytic Framework|分析框架]]。
 > - **知识位置** 处于国家理论（State Theory）、创新系统论（Systems of Innovation）、技术社会学与经济社会学[[Network Governance|网络治理]]理论的交叉界面。
 

@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: brazil
 person_region: "brazil"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Counterpart Funds]]"
   - "[[Paradigm]]"
+  - "[[Neoliberalism]]"
   - "[[Disbursement-Driven Evaluation]]"
   - "[[Policy Conditionalities]]"
   - "[[Policy Borrowing]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -93,7 +94,7 @@ updated: 2026-11-15
 ---
 
 > [!claim] 核心学术主张
-> 卡斯特罗的核心思想立足于新制度主义经济学、组织社会学与政治博弈论的交汇点。他主张分析国际多边机构不能停留在空洞的[[Ideology Critique|意识形态批判]]（如简单斥为“新自由主义剥削机器”），而必须深挖其制度内核：多边银行在金融本质上是依托发达成员国信用担保发债的主权信用合作社；推动教育改革的真正动力在于数以亿计的信贷资金杠杆，而非单纯的学术理念宣讲；在现实借贷运作中，借款国内部政治生存逻辑始终支配着外部技术约束；而多边机构最深刻的危机在于执行端深陷合规报销与[[Disbursement-Driven Evaluation|投入导向评估]]泥潭，从而使其宏大改革构想频繁蜕变为“重物轻人”的现代白象工程。
+> 卡斯特罗的核心思想立足于新制度主义经济学、组织社会学与政治博弈论的交汇点。他主张分析国际多边机构不能停留在空洞的[[Ideology Critique|意识形态批判]]（如简单斥为“[[Neoliberalism|新自由主义]]剥削机器”），而必须深挖其制度内核：多边银行在金融本质上是依托发达成员国信用担保发债的主权信用合作社；推动教育改革的真正动力在于数以亿计的信贷资金杠杆，而非单纯的学术理念宣讲；在现实借贷运作中，借款国内部政治生存逻辑始终支配着外部技术约束；而多边机构最深刻的危机在于执行端深陷合规报销与[[Disbursement-Driven Evaluation|投入导向评估]]泥潭，从而使其宏大改革构想频繁蜕变为“重物轻人”的现代白象工程。
 
 > [!citation-card] [[Multilateral Development Bank|多边开发银行]]的主权信用合作社本质与金融发债逻辑
 > 多边开发银行究竟完成了怎样的金融魔术？在纯粹的财务层面上，究竟是什么证明了它们存在的合法性？几十年前，许多国家走到一起建立了自己的银行，使其中一部分国家能够以更低的利率和长达 15 至 30 年的更长周期借款。从技术上讲，它们根本不是商业银行，更像是仅供成员借款的信用合作社——或者更确切地说，是参与国的主权信用合作社。当[[World Bank|世界银行]]或[[Inter-American Development Bank|泛美开发银行]]在金融市场发行债券时，可以享受到市场上的最低利率。因此，“开发银行”的整个构想只不过是一种市场技巧，允许贫困国家以其自身单打独斗时一半的利率和更长的偿还周期获得贷款。大国的信誉——美国、德国、日本、英国等——赋予了银行 AAA 评级。这种评级使银行能够在全球任何地方以最低利率借款。银行借出的不是富裕国家的钱，而是从金融市场借来的资本；只要在利息中额外增加一个百分点以支付庞大员工的薪水，就能实现收支平衡。克劳迪奥·德·莫拉·卡斯特罗（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 456–457]]）

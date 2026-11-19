@@ -11,7 +11,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 15
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -32,9 +32,11 @@ related_theories: []
 related_methods:
   - "[[Peer Debriefing]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Raymond Boudon]]"
 related_facts:
   - "[[ASEAN]]"
+  - "[[1997 Asian Financial Crisis]]"
   - "[[Master Plan on ASEAN Connectivity]]"
   - "[[European Commission]]"
   - "[[SEAMEO RIHED]]"
@@ -46,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-29
-updated: 2026-11-02
+updated: 2026-11-19
 ---
 
 ---
@@ -54,7 +56,7 @@ updated: 2026-11-02
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2003 年第 9 届[[ASEAN|东盟]]峰会通过《巴厘第二协约》确立构想；2007 年 1 月第 12 届东盟峰会签署《关于在 2015 年前建立东盟共同体的宿务宣言》正式确立时间表；由[[ASEAN|东南亚国家联盟]]首脑峰会发布。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 153)]]
 > - **适用地区 / 对象** 覆盖东南亚国家联盟全体 10 个成员国（文莱、柬埔寨、印度尼西亚、老挝、马来西亚、缅甸、菲律宾、新加坡、泰国、越南）及全域工商业界与专业劳动力。
-> - **问题背景** 应对亚洲金融危机后区域经济一体化动力不足、中国与印度经济崛起带来的外资竞争压力，力求打破成员国间关税壁垒，构建单一市场与生产基地。
+> - **问题背景** 应对[[1997 Asian Financial Crisis|亚洲金融危机]]后区域经济一体化动力不足、中国与印度经济崛起带来的外资竞争压力，力求打破成员国间关税壁垒，构建单一市场与生产基地。
 > - **制度位置** 构成东盟共同体（ASEAN Community）三大支柱之一，与东盟政治安全共同体（APSC）和东盟社会文化共同体（ASCC）协同并立。
 
 ---
@@ -80,7 +82,7 @@ updated: 2026-11-02
 > - **2007-01 — 《宿务宣言》加速时间表** 第 12 届东盟峰会签署宣言，将原定 2020 年建成的 AEC 目标提前至 2015 年 12 月 31 日，释放出强烈的政治加速信号。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 153)]]
 > - **2007-11 — 《AEC 蓝图 2015》通过** 第 13 届东盟峰会正式批准战略蓝图，制定实现商品、服务、投资和熟练劳动力自由流动的战略路线图与里程碑评估指标。
 > - **2008–2012 — 倒逼高教合作与资历互认** AEC 建设时间表对社会文化支柱形成外生倒逼；[[SEAMEO RIHED]] 与 [[ASEAN University Network|AUN]] 相继研制质量保障指南与学分转移系统（[[ASEAN Credit Transfer System|ACTS]]），呼应劳动力自由流动需求。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151–153)]]
-> - **2015-12 — 共同体正式宣告建成** 2015 年 12 月 31 日东盟领导人正式宣布东盟经济共同体成立，全域货物关税减免达到 96% 以上，并发布《AEC 蓝图 2025》深化单一市场与制度互通。
+> - **2015-12 — 共同体正式宣告建成** 2015 年 12 月 31 日东盟领导人正式宣[[Raymond Boudon|布东]]盟经济共同体成立，全域货物关税减免达到 96% 以上，并发布《AEC 蓝图 2025》深化单一市场与制度互通。
 
 ---
 

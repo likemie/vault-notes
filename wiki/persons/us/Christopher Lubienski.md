@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -27,6 +27,7 @@ tags:
   - theme/neoliberal-education
 related_concepts:
   - "[[Policy Brokerage]]"
+  - "[[Neoliberalism]]"
   - "[[School Choice]]"
   - "[[Surplus of Evidence]]"
   - "[[Academic Achievement]]"
@@ -61,14 +62,14 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国教育政策学者，印第安纳大学布卢明顿分校（Indiana University Bloomington）教育领导与政策研究教授，教育评估与政策中心（CEEP）主任，曾任伊利诺伊大学厄巴纳-香槟分校教授。
-> - **核心角色** 教育政策智库、[[Policy Brokerage|政策中介]]网络与新自由主义教育改革（[[School Choice|择校]]制、私立化）的批判研究学者；以“思想市场”（Marketplace of Ideas）[[Analytic Framework|分析框架]]揭示[[Surplus of Evidence|证据过剩]]环境下中介机构的证据挑拣与包装机制。
+> - **核心角色** 教育政策智库、[[Policy Brokerage|政策中介]]网络与[[Neoliberalism|新自由主义]]教育改革（[[School Choice|择校]]制、私立化）的批判研究学者；以“思想市场”（Marketplace of Ideas）[[Analytic Framework|分析框架]]揭示[[Surplus of Evidence|证据过剩]]环境下中介机构的证据挑拣与包装机制。
 > - **代表贡献** 实证检验公私立学校[[Academic Achievement|学业表现]]以反思择校假设；系统解构右翼智库绕过同行评审直接向政客兜售定制方案的政治操作；其思想市场与中介分析成为全球教育治理剖析政策脱节的核心理论来源。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 537)]]
 
 > [!citation-card] 思想市场中的逆向选择：政策中介的意识形态证据挑拣

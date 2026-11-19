@@ -7,7 +7,7 @@ aliases:
 summary: "把世界想象为由枢纽中心和边缘区域构成流动结构的空间想象，用于解释知识经济中的集中、连接和不平等。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[International Education Hubs]]"
   - "[[Emergence]]"
   - "[[International Branch Campus]]"
+  - "[[Mimesis]]"
   - "[[Progressive Neoliberalism]]"
   - "[[Nationalism]]"
   - "[[Geopolitical Subject]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 > [!info] 定义
@@ -108,7 +109,7 @@ Moisio 借用 Jessop（2005）对"想象"（imaginaries）的分析——想象�
 - **[[International Education Hubs|国际教育枢纽]]（IEHs）的[[Emergence|涌现]]** IEHs 是 枢纽与流动想象在高等教育领域最直接的国家层面物质化——多个国家（集中于东亚和中东）将自身建设为全球教育、培训和知识创新活动的"枢纽"。从学生枢纽到人才枢纽再到知识/[[Innovation Hub|创新枢纽]]的梯级升级，代表了与知识经济流动逻辑越来越深度的整合([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.43–45]])
 - **[[Minerva University]]作为"纯流动"极值** Minerva 是 枢纽与流动想象中"流动"维度的极端案例——一所没有校园、脱离领土锚定的全球营利性大学，仅通过数字平台将分散在全球七大城市的学生串联起来，呈现自身为"场所无涉"的存在([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.48]])。与 IEHs 代表的"国家锚定式枢纽"策略形成鲜明对照，两者共同展示了 枢纽与流动想象从"领土固着"到"完全流动"的完整光谱
 - **新加坡"[[Singapore Education Hub Policy|东方波士顿]]"作为枢纽想象的教科书案例** 新加坡 1996–1997 年推出"东方波士顿"战略，其逻辑完美体现了 枢纽与流动想象——决策者观察到"亚洲缺少一个像波士顿那样的科学、创新和经济权力中心"，于是通过按哈佛/MIT 模式重塑 NUS and NTU、吸引[[International Branch Campus|国际分校]]和全球人才，将新加坡**制造**为亚洲的知识流动枢纽。这精确印证了 Jessop 的论点：想象不仅是描述现实，更在制造现实([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.206–208]])。详见 [[Singapore Education Hub Policy]]
-- **迪拜经济区作为纯枢纽基础设施** 迪拜的高等教育经济区——模仿英国法律使国际分校可以"仿佛在伦敦金融城一样运作"——代表了 枢纽与流动想象最极端的物质化形式：整个治理和法律框架为**吸引和锚定**全球教育流动而被改造，国家领土的功能被简化为提供流动所需的物理和法律基础设施([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.210–211]])。详见 [[UAE Education Hub Projects]]
+- **迪拜经济区作为纯枢纽基础设施** 迪拜的高等教育经济区——[[Mimesis|模仿]]英国法律使国际分校可以"仿佛在伦敦金融城一样运作"——代表了 枢纽与流动想象最极端的物质化形式：整个治理和法律框架为**吸引和锚定**全球教育流动而被改造，国家领土的功能被简化为提供流动所需的物理和法律基础设施([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.210–211]])。详见 [[UAE Education Hub Projects]]
 
 ### 枢纽的结构条件
 

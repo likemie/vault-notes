@@ -11,9 +11,9 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "[[World Bank]]; [[International Monetary Fund]]"
 tags:
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Country Ownership]]"
   - "[[Performance Indicators]]"
   - "[[Policy Conditionalities]]"
+  - "[[Neoliberalism]]"
   - "[[Document]]"
   - "[[Soft Power by Hard Facts]]"
 related_theories: []
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -136,7 +137,7 @@ updated: 2026-11-11
 
 > [!debates] 政策争议
 >
-> > [!axis] 国家自主权争鸣：赋权民主协商 vs 强加新自由主义议程
+> > [!axis] 国家自主权争鸣：赋权民主协商 vs 强加[[Neoliberalism|新自由主义]]议程
 > > 围绕受援国政府与公民社会在 PRSP 制定中是否真正享有决策自主权。
 > >
 > > - **[[World Bank\|世界银行]]官方修辞** 坚持认为 PRSP 打破了传统的外部强加模式，首次实现了由受援国政府自主制定、全社会广泛参与的民主减贫战略。

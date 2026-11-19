@@ -7,7 +7,7 @@ aliases:
 summary: "知识的创造、建构与合法化过程。在宏观治理与地缘场域揭示资本偏向、跨国指标自指性、国家教育督导对单一范式知识的行政建构与清洗，以及大国脱钩对知识策源地地位的冲击；在微观教学场域指向学习者在协商共同体中依托证据协调自主生成新知并内化审议价值。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 155
+related_count: 156
 related_level: 15
 related_stars: "💎💎💎💎💎"
 related_color: "#ddd6fe"
@@ -100,6 +100,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Creativity]]"
   - "[[Internationalization of Higher Education]]"
+  - "[[Neoliberalism]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
   - "[[Pool of Knowledge]]"
@@ -186,7 +187,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-10
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -519,7 +520,7 @@ updated: 2026-11-15
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从科技政策演进视角，揭示大国地缘博弈下战后基础科学契约向技术导向型契约的让渡，阐明知识生产向国家技术能力组件的降维及三轨分化生态。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统批判 17 世纪静态期刊出版与封闭同行评议，提出依托[[Genesis Mission|创世纪计划]]重塑国家算力仪器网络，推行[[Dynamic Research Notebook|动态研究笔记本]]、黄金标准机器复现与生成-核验平衡。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 阐述国家半导体体系中大学知识生产的角色重构，揭示高校如何通过开源架构课程内生化（教育即标准）与 300 毫米晶圆中试线共置攻关，打通工程转化断层。
-> - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — 基于欧洲学术专利数据，批判新自由主义[[University-Industry Collaboration|产学合作]]中工业资本对高校知识生产成果所有权的剥离与[[Academic Capitalism|学术资本主义]]扩张。
+> - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — 基于欧洲学术专利数据，批判[[Neoliberalism|新自由主义]][[University-Industry Collaboration|产学合作]]中工业资本对高校知识生产成果所有权的剥离与[[Academic Capitalism|学术资本主义]]扩张。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 揭露[[World Bank|世界银行]]等超国家机构如何依托自指性量化指标生产行使[[Soft Power by Hard Facts|硬事实软权力]]，构建封闭的政策[[Epistemic Governance|知识治理]]体系。
 > - [[Argument_Zapp_2017_IJED|Zapp (2017)]] — 实证解构世界银行发展经济学研究局（DEC）的实体科研建制与出版物数据库，揭示其自主知识生产规模达到顶尖大学均值三倍的制度化机制。
 > - [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] — 证实微观课堂中学生通过[[Reflective Structuration|反思性结构化]]动态重组探究小组，能将观点作为客观制品持续改进并实质推进公共知识前沿。

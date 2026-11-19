@@ -6,7 +6,7 @@ aliases:
 summary: "Jacqueline Edmondson 提出的教育政策分析理论框架，将批判理论与参与式多元主义相结合，主张政策是负载权威价值观的社会建构，倡导教育者通过三类政策研究与多阵线政治策略实现实质性民主参与"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 22
+theory_related_count: 23
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Discourse]]"
   - "[[Ontology]]"
+  - "[[Neoliberalism]]"
   - "[[Decodification]]"
   - "[[Paradigm]]"
   - "[[Theories of Policy Change]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-24
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 > [!theory-position] 理论定位
@@ -72,7 +73,7 @@ updated: 2026-11-11
 > [!dev-timeline] 理论版本与演变脉络
 > - **1995 — 基础分类学引入** 斯黛拉·西奥杜卢（Stella Theodoulou）与马修·卡恩（Matthew Cahn）梳理公共政策学四大经典模型（多元主义、[[Elite Theory|精英理论]]、[[Neocorporatism|法团主义]]与[[Subgovernment Theory|次政府理论]]），确立制度分析的多维透镜。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 2–4)]]
 > - **1997 — 政策本质的批判转向** 安妮·施耐德（Anne Schneider）与海伦·英格拉姆（Helen Ingram）提出政策是承载权威价值观的人为社会建构，为破除政策技术中立迷思奠定[[Ontology|本体论]]基石。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 11–12)]]
-> - **2005 — 批判性替代模型系统阐发** 埃德蒙森（Edmondson）将[[Critical Theory|批判理论]]与参与式民主融合，针对新自由主义教育立法建构出批判性多元主义框架，系统提出统整三类政策研究与三维行动阵线。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 10–14)]]
+> - **2005 — 批判性替代模型系统阐发** 埃德蒙森（Edmondson）将[[Critical Theory|批判理论]]与参与式民主融合，针对[[Neoliberalism|新自由主义]]教育立法建构出批判性多元主义框架，系统提出统整三类政策研究与三维行动阵线。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 10–14)]]
 
 ---
 

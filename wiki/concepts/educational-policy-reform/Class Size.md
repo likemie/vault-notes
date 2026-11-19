@@ -6,9 +6,9 @@ aliases:
 summary: "班级学生人数这一关键教育组织变量，其对教学互动与学业成果的影响取决于人数变化、教师质量、物质资源、教学方式调整以及跨情境测量精度的系统协同。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 79
-related_level: 7
-related_stars: "💎💎⭐"
+related_count: 86
+related_level: 8
+related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
 tags:
   - class-size
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Epistemology]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Neoliberalism]]"
   - "[[Socioeconomic Status]]"
   - "[[Neo-Taylorism]]"
   - "[[Visible Learning]]"
@@ -50,9 +51,13 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Effective Teaching]]"
   - "[[Evidence-Based Education]]"
+  - "[[Typicality]]"
   - "[[Evidence-Based Policy-Making]]"
+  - "[[Direct Instruction]]"
+  - "[[Inquiry-Based Learning]]"
   - "[[Primary and Secondary Documents]]"
 related_theories:
+  - "[[Developmental State]]"
   - "[[Critical Theory]]"
 related_methods:
   - "[[Classroom Observation]]"
@@ -68,12 +73,14 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Chi-Squared Test]]"
   - "[[Ethnography]]"
+  - "[[Randomised Controlled Trials]]"
 related_instruments:
   - "[[Teach Classroom Observation Tool]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Ivan Snook]]"
   - "[[José Luis García Garrido]]"
+  - "[[Charles Taylor]]"
   - "[[Kathryn Anderson-Levitt]]"
   - "[[Pierre-Jérôme Bergeron]]"
 related_facts:
@@ -107,7 +114,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-03'
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 > [!def] Class Size
@@ -225,7 +232,7 @@ updated: 2026-11-18
 
 ---
 
-> [!concept-proposition] 命题四｜班级规模无效论被建构为新自由主义财政紧缩与[[Socioeconomic Status|阶级盲教学思维]]的实证护盾
+> [!concept-proposition] 命题四｜班级规模无效论被建构为[[Neoliberalism|新自由主义]]财政紧缩与[[Socioeconomic Status|阶级盲教学思维]]的实证护盾
 > **政治经济学动因与阶级盲技术主义批判** 探讨元分析如何通过清洗社会阶层变量与高频修辞轰炸，将班级规模转化为免除国家办学责任并推行[[Neo-Taylorism|新泰勒主义]]管理的实证工具。
 
 > [!claim] [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]
@@ -439,7 +446,7 @@ updated: 2026-11-18
 ---
 
 > [!case] 欧美代表性政策案例
-> - **田纳西州 STAR 项目（[[Tennessee STAR Project 1985-1989]]）** 严格[[Random Assignment|随机分配]]学生与教师至小班与大班，小班学生到二年级末累计领先约 3 个月学力，证实低年级小班对弱势群体的扶持效应，但威廉指出其实验条件的特殊性制约了向常规师资不足学校的直接外推。[[Argument_Wiliam_2019_ERE|(Wiliam, 2019, pp. 5–7)]]
+> - **田纳西州 STAR 项目（[[Tennessee STAR Project 1985-1989]]）** 严格[[Random Assignment|随机分配]]学生与教师至小班与大班，小班学生到二年级末累计领先约 3 个月学力，证实低年级小班对弱势群体的扶持效应，但威廉指出其实验条件的[[Typicality|特殊性]]制约了向常规师资不足学校的直接外推。[[Argument_Wiliam_2019_ERE|(Wiliam, 2019, pp. 5–7)]]
 > - **加州 1996 年全州缩班工程（[[California Class Size Reduction 1996]]）** 试图将 STAR 模式快速复制至全州。[[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023, p. 33)]] 考证指出，该改革实质是加州州长为了与教师工会政治斗争而仓促立法的产物，导致全州紧急招募数万名未获充分认证的代课教师，大量学生被安置在临时板房上课，师资与设施配套断裂导致预期效果彻底归零，成为政策外推忽视系统支持条件的反面教材。[[Argument_Cowen_2015_CHESS|(Cowen et al., 2015, pp. 17–18)]]; [[Argument_Wiliam_2019_ERE|(Wiliam, 2019, p. 7)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 33)]]
 > - **法国优先教育区缩班改革（[[French Class Size Reduction]]）** 针对重点扶困小学低段推行 12 人超小班，因伴随巨额财政支出且数学增益微弱，成为欧洲[[Evidence-Based Policy-Making|循证决策]]中权衡高昂缩班成本与定向课后辅导替代方案的典型案例。[[Argument_Pellegrini_2021_ECNUROE|(Pellegrini & Vivanet, 2021, pp. 27–28)]]
 
@@ -451,8 +458,8 @@ updated: 2026-11-18
 > - **几内亚小学阅读教学的物质约束基础设施** 安德森-莱维特（Anderson-Levitt, 2003, 2004）跨国[[Ethnography|民族志]]证实，几内亚小学面临 60 人以上的巨型班额与严重教材短缺，西方主流的儿童中心与[[Individualised Instruction|个别化教学]]失去物质可行性，教师被迫退守全班齐读与严苛纪律，确立了班级规模作为依附性物质约束的理论视野。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–109)]]
 > - **世界银行 Teach 工具的大班额实证与测量挑战** 在巴基斯坦旁遮普省大样本计量模型中，研究团队将班级规模作为关键控制[[Variable|变量]]，证实无论班额大小，教师在 Teach 上的[[Effective Teaching|有效教学]]行为均能稳定解释学生学业增值（0.08–0.12 SD）；同时在莫桑比克等非洲多国试点中，世界银行团队记录了 60–100 人超大班额对 1–10 秒时间快照（Snapshot）扫描精度的严峻考验，推动了对超大班额微观观察规程的本土化改进。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 4, 12, 16–17)]]
 
-> [!case] 亚洲发展型国家的班级规模政策调控
-> - **新加坡“少教多学”与编制扩充配套小班化** 戈皮纳坦考察新加坡教育改革指出，为动摇以直接讲授为主导的传统规程、释放探究式学习空间，政府在[[Teach Less, Learn More|少教多学]]倡议中系统增聘近 3,000 名教师编制（小学 1,000 名、中学 1,400 名、初级学院 550 名），推动小学班级规模从 40 人分阶段压缩至 30 人，为实施[[Differentiated Instruction|差异化教学]]与深度概念互动提供结构性空间支持。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, p. 62)]]
+> [!case] 亚洲[[Developmental State|发展型国家]]的班级规模政策调控
+> - **新加坡“[[Teach Less, Learn More|少教多学]]”与编制扩充配套小班化** 戈皮纳坦考察新加坡教育改革指出，为动摇以[[Direct Instruction|直接讲授]]为主导的传统规程、释放[[Inquiry-Based Learning|探究式学习]]空间，政府在[[Teach Less, Learn More|少教多学]]倡议中系统增聘近 3,000 名教师编制（小学 1,000 名、中学 1,400 名、初级学院 550 名），推动小学班级规模从 40 人分阶段压缩至 30 人，为实施[[Differentiated Instruction|差异化教学]]与深度概念互动提供结构性空间支持。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, p. 62)]]
 
 ---
 
@@ -479,11 +486,11 @@ updated: 2026-11-18
 > |:-----|:-----|:-----|
 > | [[Classroom Management]] | 概念 | 机制链条：班级规模直接放大或缓解课堂管理压力，是大班教师耗费认知负荷的主要来源。 |
 > | [[Effective Teaching]] | 概念 | 效能交互：班级规模是物理容器，唯有配合有效教学行为（如高质量提问与反馈）方能转化出学业增益。 |
-> | [[Neo-Taylorism]] | 概念 | 批判透镜：新泰勒主义将教学还原为离散输入-输出控制，将班额孤立为技术参数以推行量化考核。 |
+> | [[Neo-Taylorism]] | 概念 | 批判透镜：新[[Charles Taylor\|泰勒]]主义将教学还原为离散输入-输出控制，将班额孤立为技术参数以推行量化考核。 |
 > | [[Critical Theory]] | 理论 | 认识论批判：揭露班额无效论背后的意识形态功能，穿透技术中立外衣批判政商紧缩联盟。 |
 > | [[Observation Protocol]] | 方法 | 测量载体：课堂观察规程将班级规模细化为分时段、分性别的现场在席计数，并受大班额扫描精度制约。 |
 > | [[Teach Classroom Observation Tool]] | 测量工具 | 落地工具：在跨国大样本中将班级规模作为核心控制变量，并确立每 15 分钟片段实测班额的标准化记录单。 |
-> | [[Tennessee STAR Project 1985-1989]] | 事实 | 经典实验：为小班在低年级与弱势学生中的长期学业优势提供了最具代表性的随机对照试验（RCT）证据。 |
+> | [[Tennessee STAR Project 1985-1989]] | 事实 | 经典实验：为小班在低年级与弱势学生中的长期学业优势提供了最具代表性的[[Randomised Controlled Trials\|随机对照试验]]（RCT）证据。 |
 > | [[California Class Size Reduction 1996]] | 事实 | 反面警示：仓促全州推广导致未认证师资充斥弱势学区，展示了脱离师资供给生态盲目缩班的政策后果。 |
 > | [[French Class Size Reduction]] | 事实 | 成本案例：法国重点扶困区 12 人超小班改革，成为权衡高昂缩班成本与定向个别辅导性价比的代表案例。 |
 > | [[Treasury Briefing on Student-Teacher Ratios]] | 事实 | 政策误用：新西兰财政部简报片面曲解实证研究，以生师比证据掩饰削减教育预算的官僚修辞。 |

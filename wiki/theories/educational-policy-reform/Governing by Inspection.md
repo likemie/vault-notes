@@ -9,7 +9,7 @@ aliases:
 summary: "索蒂里亚·格雷克与约阿基姆·林德格伦主编的比较教育研究确立的核心理论；分析现代国家在分权化与办学市场化后，放弃传统的直接行政命令，转而依托外部学校督导、专项质量审计、统一评估常模与公开评级，建立起新型的远程治理网络；督察人员被赋予知识中介与中继站功能，借助循证修辞与合规问责，促使学校在自主假象下达成对国家宏观目标的自我规训。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 24
+theory_related_count: 25
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[School Inspection]]"
   - "[[Boundary Spanner]]"
   - "[[European Education Space]]"
+  - "[[Neoliberalism]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Performativity]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-11-02
+updated: 2026-11-19
 ---
 
 ---
@@ -72,7 +73,7 @@ updated: 2026-11-02
 
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 欧洲教育治理学者索蒂里亚·格雷克与约阿基姆·林德格伦（Sotiria Grek & Joakim Lindgren, 2015）主编出版跨国比较里程碑著作《借督导治理》（*Governing by Inspection*，Routledge 出版社）。
-> - **原初问题** 21 世纪初，伴随[[European Education Space|欧洲教育空间]]（[[Bologna Process|EHEA]]）形成与 [[PISA]] 测验冲击，英国、瑞典、荷兰等国纷纷重建或大幅升级国家学校督导局，学者急需一套能够整合新自由主义叙事、知识数据化与制度比较的宏观[[Analytic Framework|分析框架]]。
+> - **原初问题** 21 世纪初，伴随[[European Education Space|欧洲教育空间]]（[[Bologna Process|EHEA]]）形成与 [[PISA]] 测验冲击，英国、瑞典、荷兰等国纷纷重建或大幅升级国家学校督导局，学者急需一套能够整合[[Neoliberalism|新自由主义]]叙事、知识数据化与制度比较的宏观[[Analytic Framework|分析框架]]。
 > - **理论资源与材料** 汲取[[Jenny Ozga|珍妮·奥兹加]]（[[Jenny Ozga]]）的治理知识转型理论、约翰·克拉克（John Clarke）的远程督导理论，以及瑞典与英国大规模督察田野实证材料。
 > - **形成路径** 从英格兰、苏格兰与瑞典三国督导体制的跨国比较中提炼出“借督导治理”[[Paradigm|范式]]，系统揭示督导如何成为欧洲教育软治理与硬问责的核心枢纽。
 
@@ -110,7 +111,7 @@ updated: 2026-11-02
 
 > [!debates] 理论争鸣
 >
-> > [!axis] 国家质量保障机制还是新自由主义监控装置
+> > [!axis] 国家质量保障机制还是[[Neoliberalism|新自由主义]]监控装置
 > > 围绕督导机构在现代民主社会中的性质定位展开深刻分歧。
 > >
 > > - **公共治理改良派** 督导是克服教育不平等与学校怠惰的最后防线，公开透明的[[External Auditor|外部审计]]能够有效打破教育系统的行业壁垒，保障所有学生获得均等受教育机会。

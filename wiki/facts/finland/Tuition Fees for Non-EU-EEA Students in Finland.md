@@ -12,7 +12,7 @@ subtype: policy
 region: "finland"
 fact_region: "finland"
 fact_kind: "policy"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Research Universities]]"
   - "[[Study Abroad]]"
+  - "[[Neoliberalism]]"
   - "[[Global Education Industry]]"
   - "[[International Education]]"
   - "[[Education Export]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-10
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -56,7 +57,7 @@ updated: 2026-11-11
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2015 年 12 月由芬兰议会（Parliament of Finland, Eduskunta）表决通过，修正《大学法》（Yliopistolaki）与《应用科学大学法》（Ammattikorkeakoululaki）。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 384, 387)]]
 > - **适用地区 / 对象** 全芬兰 13 所公立[[Research Universities|研究型大学]]与 22 所应用科学大学（UAS），面向所有申请攻读英语授课学士与硕士学位的非[[EU|欧盟]]／欧洲经济区（Non-EU/[[European Education Area|EEA]]）国际[[Study Abroad|留学]]生。
-> - **问题背景** 2000 年代初期起，[[OECD|经济合作与发展组织]]（OECD）新自由主义教育思潮渗透芬兰；部分政客与大学管理层认为免费接收海外留学生耗费了国内纳税人资源，呼吁将国际生源转化为创收来源。自 2005 年教育部留学生收费工作组提出建议以来，该议题引发了长达十年的全国激烈辩论。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, p. 382)]]
+> - **问题背景** 2000 年代初期起，[[OECD|经济合作与发展组织]]（OECD）[[Neoliberalism|新自由主义]]教育思潮渗透芬兰；部分政客与大学管理层认为免费接收海外留学生耗费了国内纳税人资源，呼吁将国际生源转化为创收来源。自 2005 年教育部留学生收费工作组提出建议以来，该议题引发了长达十年的全国激烈辩论。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, p. 382)]]
 > - **制度位置** 这是芬兰战后高等教育制度最深刻的变革之一，彻底终结了北欧福利社会在高等教育领域长期奉行的高等教育免收学费传统，成为芬兰向[[GATS and Trade in Education Services|教育服务贸易]]与[[Global Education Industry|全球教育产业]]开放的突破口。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 376–377)]]
 
 ---

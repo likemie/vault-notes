@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 10
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
   - theme/justice
   - theme/liberalism
 related_concepts:
+  - "[[Neoliberalism]]"
   - "[[Paradigm]]"
   - "[[The Right and the Good]]"
   - "[[Buen Vivir]]"
@@ -39,6 +40,7 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06]]"
+  - "[[Argument_Lim_2013_APJE]]"
 confidence: high
 status: draft
 created: 2026-10-08
@@ -48,7 +50,7 @@ updated: 2026-11-19
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国当代著名哲学家、政治思想家，哈佛大学哲学系讲座教授（[[James B. Conant|James Bryant Conant]] University Professor），20 世纪新自由主义与契约论政治哲学的奠基人。
+> - **身份位置** 美国当代著名哲学家、政治思想家，哈佛大学哲学系讲座教授（[[James B. Conant|James Bryant Conant]] University Professor），20 世纪[[Neoliberalism|新自由主义]]与契约论政治哲学的奠基人。
 > - **核心角色** 通过《正义论》终结了功利主义在规范伦理学长达一个多世纪的支配地位，开创了当代自由主义分配正义、公共理性与政治自由主义[[Paradigm|研究范式]]。
 > - **代表贡献** 提出“作为公平的正义”（Justice as Fairness）、“无知之幕”（Veil of Ignorance）以及区分宪政基本权利原则与实质人生价值追求的[[The Right and the Good|正当与善]]（The Priority of Right and Ideas of the Good）理论。
 

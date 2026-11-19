@@ -8,7 +8,7 @@ aliases:
 summary: "由帕特丽夏·布罗姆利等学者基于全球147国6700项教育改革大数据计量证实、并在施泰纳-哈姆西报告中用于诊断证据利用转型的宏观理论构念，揭示全球新自由主义教育改革浪潮在2000年前后达峰并在2017年前后陷入停滞的全球现象，解释了国际多边组织近年来从倡导自上而下宏观制度立法转向投资中观与基层学校创新规模化的治理转向。"
 type: concept
 domain: "comparative-education"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
   - theme/evidence-informed-policy
 related_concepts:
   - "[[Institutional Exhaustion]]"
+  - "[[Neoliberalism]]"
   - "[[Construct]]"
   - "[[Absorptive Capacity]]"
   - "[[Paradigm]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-30
+updated: 2026-11-19
 ---
 
 ---
@@ -50,7 +51,7 @@ updated: 2026-10-30
 > [!concept-lens] 概念透镜
 > - **含义** 指主权国家在经历密集的多轮跨国政策引进、自上而下宏观立法与标准规训后，政策系统、行政官僚与一线学校出现吸收过载、抵触懈怠及实质停滞的[[Institutional Exhaustion|制度耗竭]]状态。
 > - **用途** 帮助比较教育与公共政策学者透视为何全球自上而下的政策趋同浪潮在 2017 年前后陷入停滞，并解释国际组织为何转向投资中观（meso-level）与基层学校的具体教学创新规模化。
-> - **边界** 区别于国家放弃所有渐进式改良，特指新自由主义式大包大揽、根本性宏观制度推倒重来的退潮与微观务实化。
+> - **边界** 区别于国家放弃所有渐进式改良，特指[[Neoliberalism|新自由主义]]式大包大揽、根本性宏观制度推倒重来的退潮与微观务实化。
 
 > [!def] Reform Fatigue
 > 改革疲惫（Reform Fatigue，亦称政策疲惫或改革巩固期）是由斯坦福大学学者帕特丽夏·布罗姆利（Patricia Bromley）等人基于对 1960–2017 年间全球 147 个国家共 6,700 项教育改革的大数据计量所证实，并在吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）等学者的[[UNESCO|教科文组织]]全球战略审查中被用于诊断当代教育证据利用转型的宏观历史[[Construct|构念]]。该构念揭示，新自由主义全球教育改革浪潮在 2000 年前后达到峰值，并在 2017 年前后几乎停滞；伴随新冠疫情对基层教育系统的严重破坏，教育治理进入深度改革疲惫与消化巩固期。这一趋势促使国际多边机构逐步放弃推动自上而下全盘制度推倒重建的冲动，转向聚焦于中观治理（meso-level）与学校微观层面具体教学创新的适切性规模化。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 16–17)]]

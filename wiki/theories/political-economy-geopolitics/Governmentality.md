@@ -9,7 +9,7 @@ aliases:
 summary: "米歇尔·福柯提出的权力分析核心理论，指一种以人口为对象、以安全配置为技术、通过塑造主体的自我理解来引导个体行为的治理理性；该理论指出自由与主体化是现代治理的运作条件而非对立面，并通过远距治理与空间化规训将学校和制度环境建构为可计算、可干预的治理单元。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 68
+theory_related_count: 69
 theory_related_level: 6
 theory_related_stars: "💎💎"
 theory_related_color: "#fef3c7"
@@ -22,6 +22,7 @@ tags:
   - theme/educational-governance
 related_concepts:
   - "[[Self-control]]"
+  - "[[Neoliberalism]]"
   - "[[Paradigm]]"
   - "[[Document]]"
   - "[[Political Arithmetic]]"
@@ -98,12 +99,12 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-20
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 > [!theory-position] 理论定位
 > - **解释对象** 现代国家与非国家机制如何超越单纯的法律禁止与肉体强制，通过制度理性、专家知识与分类标准，将“人口”（Population）组织为可计算、可干预的对象，并引导个体实现自愿的“自我调节”（[[Self-control|self-regulation]]）。
-> - **理论问题** 传统法学与政治哲学将权力狭隘地等同于主权者的专制压迫或国家机器的垄断暴力，将自由视为治理的对立面；该理论旨在破解现代自由主义与新自由主义体制如何在“保障自由、尊重选择”的表象下，实现更为严密、深层的全景式社会控制。
+> - **理论问题** 传统法学与政治哲学将权力狭隘地等同于主权者的专制压迫或国家机器的垄断暴力，将自由视为治理的对立面；该理论旨在破解现代自由主义与[[Neoliberalism|新自由主义]]体制如何在“保障自由、尊重选择”的表象下，实现更为严密、深层的全景式社会控制。
 > - **理论类型** 元理论（Meta-theory）、权力分析学批判视角、[[Post-structuralism|后结构主义]]政治社会学[[Paradigm|范式]]。
 > - **知识位置** 由米歇尔·福柯（Michel Foucault）在法兰西学院后期讲座中正式确立，构成了现代权力分析谱系中整合规训权力（Discipline）与生命政治（Biopolitics）的**上位理论框架**；后经[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose）等学者拓展至[[Spatial Governmentality|空间化治理]]与[[Governing at a Distance|远距治理]]，并广泛辐射至教育社会学、高等教育与比较教育学研究。
 
@@ -175,7 +176,7 @@ graph TD
 > 在高等教育中，大学并不强迫学生选择特定专业，但通过引入在线自测系统（[[Online Self-Assessment|OSA]]），让申请者自行评估胜任力；测试反馈诱导学生主动将自身理解为“自负盈亏的学术企业家”，若遭遇失败则归咎于自身储备不足，从而使大学零阻力地完成了生源筛选。
 
 > [!theory-proposition] 命题二｜自由是现代治理的必要技术条件而非对立面
-> 新自由主义治理理性最深沉的悖论在于：越是鼓吹“自由选择”与“去中心化”，治理权力的毛细血管渗透就越彻底。当政府赋予学校[[School Choice|择校]]权或赋予学生[[Learner Autonomy|自主学习]]权时，实际上是将宏观的结构性风险（失业、贫困、教育不公）个体化、道德化为个人选择的后果，从而免除了国家作为最终责任人的负担。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, pp. 222–223)]]
+> [[Neoliberalism|新自由主义治理]]理性最深沉的悖论在于：越是鼓吹“自由选择”与“去中心化”，治理权力的毛细血管渗透就越彻底。当政府赋予学校[[School Choice|择校]]权或赋予学生[[Learner Autonomy|自主学习]]权时，实际上是将宏观的结构性风险（失业、贫困、教育不公）个体化、道德化为个人选择的后果，从而免除了国家作为最终责任人的负担。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, pp. 222–223)]]
 
 > [!example|notitle]
 > [[EU|欧洲联盟]]通过[[Erasmus Programme|伊拉斯谟计划]]（ERASMUS）赋予大学生跨国求学的充分自由，并将其赞美为自由探索未来的美德；然而学者指出，这实质上是要求青年个体自发承担打造跨文化“就业[[Competitiveness|竞争力]]”的责任，把应对全球劳动力市场波动的压力内化为个人的道德修行。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 363)]]

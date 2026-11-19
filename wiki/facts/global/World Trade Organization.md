@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 30
+fact_related_count: 31
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Paradigm]]"
   - "[[Competitiveness]]"
+  - "[[Neoliberalism]]"
   - "[[Technology Transfer]]"
   - "[[Document]]"
   - "[[Modern Industrial Policy]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -136,7 +137,7 @@ updated: 2026-11-11
 > > [!axis] 公民基本人权与公益性质 vs 商业消费品与服务贸易[[Liberalization|自由化]]
 > > 争论教育究竟是国家必须财政保障的公共产品与公民基本人权，还是应当消除边境壁垒、交由市场竞争配置的商业服务。
 > >
-> > - **批判学者与教师工会（Collins, 2007; Education International）** 强烈抨击 WTO 推动的新自由主义议程，指出将教育降格为商业商品严重侵蚀了教育促进社会公平的民主本质，使富裕阶层垄断优质资源而底层沦为教育买卖的受害者。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, p. 97)]]
+> > - **批判学者与教师工会（Collins, 2007; Education International）** 强烈抨击 WTO 推动的[[Neoliberalism|新自由主义]]议程，指出将教育降格为商业商品严重侵蚀了教育促进社会公平的民主本质，使富裕阶层垄断优质资源而底层沦为教育买卖的受害者。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, p. 97)]]
 > > - **WTO 与自由贸易倡导方** 辩称 [[GATS and Trade in Education Services|GATS]] 允许成员国自主决定开放承诺，服务贸易自由化有助于提高教育供给效率、促进跨国[[Technology Transfer|技术转移]]并扩大学习者的选择权。
 >
 > > [!axis] 大国战略主动性 vs 边缘小国宏观教育调控权流失

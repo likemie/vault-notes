@@ -9,9 +9,9 @@ title: "Argument_Moisio_2022_Springer"
 argument_key: "Argument_Moisio_2022_Springer"
 argument_display_title: "In what sense a geopolitical knowledge-based economy? In M"
 argument_kind: "book"
-argument_related_count: 39
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 40
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#ede9fe"
 book_title: 'Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation'
 citation: "Moisio, S. (2022). In what sense a geopolitical knowledge-based economy? In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical transformations in higher education: Imagining, fabricating and contesting innovation (pp. 21–33). Springer."
@@ -50,6 +50,7 @@ related_concepts:
   - "[[Research Problem]]"
   - "[[Progressive Neoliberalism]]"
   - "[[Nationalism]]"
+  - "[[Neoliberalism]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -74,7 +75,7 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-07'
-updated: 2026-11-11
+updated: 2026-11-19
 year: 2022
 doi: ""
 citation_aliases:
@@ -205,7 +206,7 @@ Moisio 以对批判研究者的呼吁结束：(1) 不仅要审视 KBE 的空间�
 - Harvey 的[[Fixity-Motion Tension|固着-流动张力]]（fixity-motion tension）构成[[Knowledge-Based Economy|知识经济]]化的核心地缘政治悖论：国家和地方配置被创造出来以促进资本流动，但流动本身又不断动摇这些配置的稳定性(pp.27–28)
 - 知识经济化涉及系统性的[[Spatial Sortings|空间分选]]（spatial sortings）：将某些地点和人群置于发展和资本积累的中心，同时将其他地点和人群边缘化。公共和私人投资是这一结构过程的核心驱动因素(pp.30–31)
 - 国家在知识经济化过程中扮演关键角色——通过选择性空间政策（spatial [[Selectivity]]）、创业型城市化（entrepreneurial urbanisation）和[[Geopolitical Subject|地缘政治主体]]生产（crafting of geopolitical subjects）来中介空间分选过程(pp.28–32)
-- [[Progressive Neoliberalism|进步新自由主义]]（progressive neoliberalism）作为一种主要的"硅谷世界观"——强调无国界世界——推动了过去三十年的知识经济化。但这一意识形态政治形态可能正在消退，替代性的地缘政治世界观正在浮现(pp.31–32)
+- [[Progressive Neoliberalism|进步新自由主义]]（progressive [[Neoliberalism|neoliberalism]]）作为一种主要的"硅谷世界观"——强调无国界世界——推动了过去三十年的知识经济化。但这一意识形态政治形态可能正在消退，替代性的地缘政治世界观正在浮现(pp.31–32)
 
 > [!info] 核心概念框架
 > 知识经济化中的"知识"有四种含义：(1) 思想和创新在创造价值中的作用；(2) 专家对知识密集型资本主义本身的[[Knowledge Production\|知识生产]]（履行性知识）；(3) 对政治社区作为知识经济体的表现和发展数据的持续收集；(4) 社会的普遍数据化——数据成为关于人类行为、需求和欲望的有价值信息池(p.25)

@@ -9,7 +9,7 @@ aliases:
 summary: "战后发展中国家通过关税与外汇保护扶持本土工业体系的宏观发展模式；在教育领域诱发了拉美1960年代中高等教育超常规大扩张，但因其依附性与精英偏向，导致基础初等识字停滞与结构性倒金字塔断裂"
 type: concept
 domain: "comparative-education"
-related_count: 22
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ tags:
   - industrialization
 related_concepts:
   - "[[Washington Consensus]]"
+  - "[[Neoliberalism]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Educational Privatisation]]"
   - "[[Dual School System]]"
@@ -43,6 +44,7 @@ related_persons:
   - "[[Carlos Alberto Torres]]"
   - "[[Martin Carnoy]]"
 related_facts:
+  - "[[Sturm und Drang]]"
   - "[[Latin American Debt Crisis of 1982]]"
   - "[[World Bank]]"
   - "[[International Monetary Fund]]"
@@ -51,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-11-03
+updated: 2026-11-19
 ---
 
 ---
@@ -62,7 +64,7 @@ updated: 2026-11-03
 > [!concept-lens] 概念透镜
 > - **含义** 指向宏观经济积累体制（贸易保护与本土制造业扶持）与国家教育体系层级结构重塑之间的结构性对应机制。
 > - **用途** 帮助比较教育学研究者解释发展中国家在战后早期工业化阶段为何普遍出现中高等教育过度扩张，以及为何教育规模增长未能转化为社会平等，反而加剧了双轨阶级分化。
-> - **边界** 解释力主要集中于内向型工业化时期的国家资本主义体制，不适合解释 1980 年代后[[Washington Consensus|华盛顿共识]]主导下的外向型新自由主义出口经济或全球离散产业链。
+> - **边界** 解释力主要集中于内向型工业化时期的国家资本主义体制，不适合解释 1980 年代后[[Washington Consensus|华盛顿共识]]主导下的外向型[[Neoliberalism|新自由主义]]出口经济或全球离散产业链。
 
 > [!citation-card] 拉美工业化初期的超常规教育大扩张
 > 拉丁美洲在 20 世纪 60 年代工业化初期阶段的教育扩张，创下了当时全球最高的教育增长率。在 1960 至 1970 年间，高等教育与中等教育的增长指数分别高达 247.9% 和 258.3%；然而在此之后增速放缓至 167.6%，同时该地区绝大多数国家的成人文盲率却基本保持停滞不前。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 81–82)]]
@@ -113,7 +115,7 @@ updated: 2026-11-03
 > **积累体制对教育层级扩张的非均衡塑造** 探讨内向型保护主义工业化如何改变国家教育资源的分配优先级，导致中高等教育过度膨胀与基础教育严重欠账。
 
 > [!claim] [[Liliana Esther Olmos|Olmos, L. E.]] & [[Carlos Alberto Torres|Torres, C. A.]]
-> **工业化早期的教育扩张悖论** 在 20 世纪 60 年代拉美实施进口替代工业化初期，拉美各国为了满足本土工业化对于技术官僚和专业管理人才的急迫需求，集中举国公共财政向公立大学和学术型中学倾斜。这导致拉美高等教育与中等教育以年均创世界纪录的速度狂飙突进（1960–1970 年间增长率分别高达 247.9% 与 258.3%），而初等大众教育与成人基础识字却长期被漠视，文盲率居高不下。这场教育大扩张不仅没有兑现自由主义者许诺的社会平等与阶级流动，反而将公共财政变成了城市精英锁闭阶层优势的合法化工具。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 81–82)]]
+> **工业化早期的教育扩张悖论** 在 20 世纪 60 年代拉美实施进口替代工业化初期，拉美各国为了满足本土工业化对于技术官僚和专业管理人才的急迫需求，集中举国公共财政向公立大学和学术型中学倾斜。这导致拉美高等教育与中等教育以年均创世界纪录的速度[[Sturm und Drang|狂飙突进]]（1960–1970 年间增长率分别高达 247.9% 与 258.3%），而初等大众教育与成人基础识字却长期被漠视，文盲率居高不下。这场教育大扩张不仅没有兑现自由主义者许诺的社会平等与阶级流动，反而将公共财政变成了城市精英锁闭阶层优势的合法化工具。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 81–82)]]
 
 ---
 

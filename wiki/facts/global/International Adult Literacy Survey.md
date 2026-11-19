@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 23
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Discourse]]"
   - "[[Critical Pedagogy]]"
+  - "[[Neoliberalism]]"
   - "[[Governing by Numbers]]"
   - "[[Comparative Turn in Education Policy]]"
 related_theories:
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-21
-updated: 2026-11-02
+updated: 2026-11-19
 ---
 
 ---
@@ -122,7 +123,7 @@ updated: 2026-11-02
 > > IALS 遭遇了来自社会语言学与[[Critical Pedagogy|批判教育学]]的严厉挑战。
 > >
 > > - **实证测量阵营** 强调[[Matrix Sampling|矩阵抽样]]与 [[Item Response Theory|IRT]] 能够克服文化偏误，为跨国[[Human Capital Theory|人力资本]]投资提供了前所未有的客观基准。
-> > - **[[Situative Perspective|情境主义]]批判学者（如 Street 等）** 批评 IALS 将高度情境化的社会识字实践抽象为脱离文化背景的纯技术题目，强化了西方中心主义与新自由主义经济工具论。
+> > - **[[Situative Perspective|情境主义]]批判学者（如 Street 等）** 批评 IALS 将高度情境化的社会识字实践抽象为脱离文化背景的纯技术题目，强化了西方中心主义与[[Neoliberalism|新自由主义]]经济工具论。
 
 ---
 

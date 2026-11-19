@@ -9,7 +9,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Development Education]]"
   - "[[Positivism]]"
   - "[[Variable]]"
+  - "[[Neoliberalism]]"
   - "[[Technical Rationality]]"
   - "[[Teacher Professional Agency]]"
   - "[[Construct]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-23
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -136,7 +137,7 @@ updated: 2026-11-11
 > > - **批判视角（反方）** [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] 指出，GEEAP 的证据评价体系过分狭隘地依赖因果推断与量化效应量，系统性边缘化了扎根本土社会脉络的[[Qualitative Research|质性研究]]、制度分析与[[Action Research|行动研究]]，造成严重的知识排斥。
 > > - **机构立场（正方）** 小组强调必须坚持科学研究的内部有效性与严谨对照标准，唯有排除混杂[[Variable|变量]]干扰的因果结论，才能避免受援国宝贵财政资金被缺乏客观证据支持的项目浪费。
 >
-> > [!axis] 独立性宣称与新自由主义[[Technical Rationality|技术理性]]偏向
+> > [!axis] 独立性宣称与[[Neoliberalism|新自由主义]][[Technical Rationality|技术理性]]偏向
 > > 质询其顾问团队的独立性宣称是否掩盖了多边机构特定的意识形态与治理逻辑。
 > >
 > > - **外部批判评估** [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] 分析其职责规程发现，GEEAP 宣称其建议“完全基于客观证据、不受任何利益方左右”，然而其实质上深度嵌入以世界银行为核心的[[Technical Rationality|技术理性]]治理网络。这种框架将教育简化为具有明确价格标签的“可购买商品”，在假定教师能力不足的赤字视角下开出标准处方，严重挤压了基层教师的专业自主权（[[Teacher Professional Agency|教师专业能动性]]），割裂了全球实证供给与地方复杂生态。

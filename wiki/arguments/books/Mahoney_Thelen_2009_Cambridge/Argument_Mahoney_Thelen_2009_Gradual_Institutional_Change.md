@@ -7,7 +7,7 @@ title: "Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change"
 argument_key: "Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change"
 argument_display_title: "A theory of gradual institutional change"
 argument_kind: "book-chapter"
-argument_related_count: 44
+argument_related_count: 46
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -73,6 +73,7 @@ related_persons:
   - "[[Paul Pierson]]"
   - "[[Jacob S. Hacker]]"
   - "[[Wolfgang Streeck]]"
+  - "[[Charles Taylor]]"
   - "[[James Mahoney]]"
   - "[[Kathleen Thelen]]"
   - "[[Franklin D. Roosevelt]]"
@@ -82,9 +83,10 @@ related_arguments:
   - "[[Argument_Streeck_Thelen_2005_OUP]]"
 related_facts:
   - "[[United States Congress]]"
+  - "[[1997 Asian Financial Crisis]]"
 status: draft
 created: 2026-10-11
-updated: 2026-10-29
+updated: 2026-11-19
 ---
 ---
 
@@ -153,7 +155,7 @@ updated: 2026-10-29
 
 > [!sub-claim] 1. 传统制度分析将变迁寄托于外生重大危机，忽视了常规历史时期累积微调引发的根本性质变
 
-传统社会科学三大制度主义流派（[[Peter A. Hall|彼得·A·霍尔]]（Peter A. Hall）与泰勒于 1996 年所作经典分类）在解释秩序维系时各具洞见，但在面对变迁时却陷入了共同的理论盲区：
+传统社会科学三大制度主义流派（[[Peter A. Hall|彼得·A·霍尔]]（Peter A. Hall）与[[Charles Taylor|泰勒]]于 1996 年所作经典分类）在解释秩序维系时各具洞见，但在面对变迁时却陷入了共同的理论盲区：
 
 > [!critique] 传统制度主义三大流派的静态稳态偏误
 > - **社会学制度主义的认知[[Determinism|决定论]]** 将制度界定为不假思索遵循的文化认知模板，假定行动者完全无意识地照章行事，导致既无法解释行动者在缺乏外部冲击时的内生异议，也无法解释日常遵从中的策略性偏离。（pp. 4–5）
@@ -195,7 +197,7 @@ updated: 2026-10-29
 
 > [!case] 经验案例二：印度尼西亚苏哈托政权的动态维系与内在瓦解
 > - **非自发稳态的独裁维持** 苏哈托威权统治长达三十年的超常稳定性并非源于体制的自然报酬递增，而是依赖其在不同历史时期极其积极地组建、调适和培育不同的执政联盟与制度支柱。（p. 9）
-> - **集权收编引发的制度反噬** 苏哈托通过收买与政治平衡将所有制度网络牢牢集中于个人手中，但这一维稳手段付出了惨重代价：彻底摧毁了被收编官僚与军警机器的独立治理能力与专业效能；当亚洲金融危机到来时，缺乏自我支撑能力的体制迅速土崩瓦解。（pp. 9–10）
+> - **集权收编引发的制度反噬** 苏哈托通过收买与政治平衡将所有制度网络牢牢集中于个人手中，但这一维稳手段付出了惨重代价：彻底摧毁了被收编官僚与军警机器的独立治理能力与专业效能；当[[1997 Asian Financial Crisis|亚洲金融危机]]到来时，缺乏自我支撑能力的体制迅速土崩瓦解。（pp. 9–10）
 
 ---
 

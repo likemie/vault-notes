@@ -10,7 +10,7 @@ aliases:
 summary: "指涉政策网络中的精英行动者跨越政府公权力机构、跨国投资银行、营利性咨询公司、慈善信托基金与智库，同时或先后兼任多重董事会席位、高级顾问或审查专员的拓扑结构；揭示其如何通过多重兼职打破科层界限，促成跨界政策理念与商业资本的隐蔽流通，构筑起去中心化但认识论高度同质的异质治理层级。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Policy Mobility]]"
   - "[[Deductible Gift Recipient]]"
   - "[[Philanthrocapitalism]]"
+  - "[[Neoliberalism]]"
   - "[[Educational Privatisation]]"
   - "[[Boundary Spanner]]"
   - "[[Knowledge Transfer]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -200,7 +201,7 @@ updated: 2026-11-11
 > [!dev-timeline] 概念演变
 > - **1970–1980s — 组织社会学与公司治理起源** 组织社会学家（Mizruchi, 1982；Useem, 1984）将共同从属与连锁董事引入公司[[Network Analysis\|网络分析]]，探讨企业间通过共享董事监控市场、抵御风险与整合金融资本。
 > - **2000s — 社会网络分析与二分图理论化** Borgatti、Halgin 等学者将共同从属正式数学化，发展二模网络（two-mode networks / affiliation networks）分析模型，揭示行动者与事件/组织集合间的双向投影机制。
-> - **2010–2019 — 批判[[Policy Network\|政策网络]]与教育异质治理转向** [[Stephen Ball\|斯蒂芬·鲍尔]]（Stephen J. Ball）及其共事者将该概念引入全球教育政策研究，指出新自由主义政策网络依靠跨国多重从属性运作，推动了[[Educational Privatisation\|教育私有化]]与治理模式的深刻变迁。
+> - **2010–2019 — 批判[[Policy Network\|政策网络]]与教育异质治理转向** [[Stephen Ball\|斯蒂芬·鲍尔]]（Stephen J. Ball）及其共事者将该概念引入全球教育政策研究，指出[[Neoliberalism|新自由主义]]政策网络依靠跨国多重从属性运作，推动了[[Educational Privatisation\|教育私有化]]与治理模式的深刻变迁。
 > - **2021–2022 — 证据经济与国家科研企业化应用** 埃玛·罗威（Emma Rowe）结合监管档案调档与法条追踪，将共同从属应用于解构国家级[[Boundary Spanner|证据经纪人]]（[[Australian Education Research Organisation\|AERO]]）的创生过程，证实了[[Venture Philanthropy\|风险慈善]]、跨国银行家与国家审查委员会之间的利益反馈回路。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 8–10]]
 > - **2023 — 异层国家网络与超流动性拓扑建构** 罗威运用开源网络分析软件 Gephi 可视化映射澳大利亚二十年间（2002–2021）由[[Social Ventures Australia\|澳大利亚社会创投]]（SVA）辐射派生的风险慈善中介网络，揭示跨界金融与咨询高管（美洲银行、麦格理银行、麦肯锡）与政府高级官僚在 SVA、APS、[[Australian Schools Plus]]、[[Evidence for Learning\|E4L]] 与 AERO 之间的高频流动与四层控股嵌套，证明共同从属构成了生成异层权力与重构国家实践的核心机制。[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 520–531]]
 

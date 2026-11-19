@@ -10,10 +10,10 @@ aliases:
 summary: "个体或家庭在社会结构中所处层级位置与资源占有状况的综合度量指标，在教育实证中是学业表现最强的解释变量，其在元分析中被剔除为调节变量引发了阶级盲教学思维批判"
 type: concept
 domain: "sociology-of-education"
-related_count: 42
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - educational-sociology
   - inequality
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Habitus]]"
   - "[[Student Attitude]]"
   - "[[School Effectiveness]]"
+  - "[[Neoliberalism]]"
   - "[[Technical Rationality]]"
   - "[[Neo-Taylorism]]"
   - "[[Homework]]"
@@ -47,6 +48,9 @@ related_concepts:
   - "[[Ecological Validity]]"
   - "[[Document]]"
   - "[[Epistemology]]"
+  - "[[Goal-Controlled Mode]]"
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Educational Meritocracy]]"
   - "[[Interaction Effect]]"
 related_theories:
   - "[[Social Capital Theory]]"
@@ -58,12 +62,16 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"
+  - "[[Charles Taylor]]"
+  - "[[James S. Coleman]]"
   - "[[Pierre Bourdieu]]"
   - "[[Pierre-Jérôme Bergeron]]"
 related_facts:
   - "[[OECD]]"
   - "[[Coleman Report 1966]]"
   - "[[PISA]]"
+  - "[[Integrated Programme]]"
+  - "[[Independent Schools Initiative]]"
 related_arguments:
   - "[[Argument_Nielsen_2021_NordPsych]]"
   - "[[Argument_Snook_2009_NZJES]]"
@@ -73,7 +81,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 > [!def] Socioeconomic Status
@@ -132,7 +140,7 @@ updated: 2026-11-18
 > [!claim] [[OECD]]; Snook et al.
 > **社会背景对学业技能变异的绝对主导地位** 国际大型学生评估机构与批判学者一致证实，家庭背景是塑造教育结果的最强力量：
 > 1. **国际经合组织实证基准（[[OECD]], 2005）** 经合组织的长期实证报告确证，在决定学生学业技能、[[Student Attitude|学习态度]]与抱负水平的所有变异源中，家庭与社会阶级背景占据最大方差解释量。学校系统所能解释的组间方差远小于由家庭出身所带来的组内方差（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a, p. 6]]）。
-> 2. **[[School Effectiveness|学校效能]]论的界限澄清（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）** 斯诺克等指出，新自由主义政策倡导者极力宣扬“学校与教师能抹平一切差距”，企图将教育不平等的全部责任推卸给一线教师；实证数据表明，学生校外家庭资源差异占据了学业总方差的 70% 至 80%，脱离社会经济背景谈论纯粹的教学效能，违背了基础实证常识（p. 94）。
+> 2. **[[School Effectiveness|学校效能]]论的界限澄清（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）** 斯诺克等指出，[[Neoliberalism|新自由主义]]政策倡导者极力宣扬“学校与教师能抹平一切差距”，企图将教育不平等的全部责任推卸给一线教师；实证数据表明，学生校外家庭资源差异占据了学业总方差的 70% 至 80%，脱离社会经济背景谈论纯粹的教学效能，违背了基础实证常识（p. 94）。
 
 ---
 
@@ -144,7 +152,7 @@ updated: 2026-11-18
 > 1. **拒绝纳入调节变量的技术主义逃避（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）** 哈蒂宣称现实教育中的调节变量远比人们通常想象的要少（Hattie, 2009, p. 10），并在实证建模中系统性拒绝将社会经济地位作为调节变量纳入对反馈、[[Homework|作业]]及[[Class Size|班级规模]]的分析中。哈蒂辩解称“教师在学校内无法改变学生的社会经济出身，因此教育研究应当只关注教师在课堂里能改变的因素”（Hattie, 2009, pp. x–xi）。
 > 2. **参照系反转揭示全书最大逆向有害因素（[[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017]]）** 哈蒂将社会经济地位报告为取正值的[[Effect Size|效应量]] $d = 0.57$（部分章节与附录为 $0.59$）。伯杰龙与里瓦尔指出，该数值源自富裕家庭相对于贫困家庭的单向对比；在数学上，若将基准参照系对调为“贫困家庭相对于富裕家庭”，其效应量严格为 $d = -0.57$（或 $-0.59$）。在哈蒂自创的影响气压计分级中，负值属于破坏学业的“逆向有害效应”（Reverse Effects）。$-0.57$ 的负向冲击远超[[Grade Retention|留级]]（$-0.16$）、转学（$-0.34$）与过多看电视（$-0.18$），是全书最具摧毁力的负面因素。将其单向表述为正值，掩盖了底层贫困对教育成就的实质压迫。
 > 3. **脱离阶级情境的均值汇总如同挑战者号事故与鱼子酱指数（[[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017]]）** 伯杰龙与里瓦尔援引肯内特与蒂雷戈德（Kennet & Thyregod, 2006）对美国挑战者号航天飞机事故的统计分析：事故主因在于工程分析孤立统计 O 型环破损而抽离了环境温度这一关键情境变量；教育[[Meta-analysis|元分析]]在剥离 SES 与社会阶层背景的前提下强行汇总教学法平均值，重蹈了同样的覆辙。在未加权的情形下将异质阶层背景下的干预效应混为一谈，犹如计算居民消费物价指数时将一磅土豆与一磅鱼子酱的价格变动赋予完全相同的权重，得出脱离现实民生的通胀判断。
-> 4. **阶级盲教学思维的规训功能（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）** 将学生预设为均质平等的白板（tabula rasa），断言存在一套能超越社会阶级而普适有效的工程学教学处方，在客观上建构了**阶级盲教学思维（class-blind pedagogical thinking）**。这种思维将复杂的社会系统病理简化为个别教师的教学操作缺陷，为行政官僚削减公共福利开支、推行新泰勒主义问责提供了伪科学掩护（pp. 6–7, 14–15）。
+> 4. **阶级盲教学思维的规训功能（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）** 将学生预设为均质平等的白板（tabula rasa），断言存在一套能超越社会阶级而普适有效的工程学教学处方，在客观上建构了**阶级盲教学思维（class-blind pedagogical thinking）**。这种思维将复杂的社会系统病理简化为个别教师的教学操作缺陷，为行政官僚削减公共福利开支、推行新[[Charles Taylor|泰勒]]主义问责提供了伪科学掩护（pp. 6–7, 14–15）。
 
 ---
 
@@ -157,7 +165,7 @@ updated: 2026-11-18
 ---
 
 > [!dev-timeline] 概念演变
-> - **1960 年代 — [[Coleman Report 1966|科尔曼报告]]与[[School Effectiveness|学校效能]]质疑** 詹姆斯·科尔曼（James Coleman）主持完成《教育机会均等报告》（*Coleman Report*, 1966），首次通过海量全国数据证实家庭社会经济背景对学生成就的影响远远超过学校物质设施与师资差异。
+> - **1960 年代 — [[Coleman Report 1966|科尔曼报告]]与[[School Effectiveness|学校效能]]质疑** [[James S. Coleman|詹姆斯·科尔曼]]（James Coleman）主持完成《教育机会均等报告》（*Coleman Report*, 1966），首次通过海量全国数据证实家庭社会经济背景对学生成就的影响远远超过学校物质设施与师资差异。
 > - **1970–1980 年代 — [[Pierre Bourdieu|布迪厄]]文化再生产与资本多维化** 皮埃尔·布迪厄（Pierre Bourdieu）提出[[Cultural Capital|文化资本]]与社会资本概念，推动社会经济地位研究从单纯的收入计量深入到阶层生活方式与符号权力传递。
 > - **2000 年代初 — [[PISA]] 评估与全球 SES 基准确立** [[OECD|经合组织]]（[[OECD]]）推行 PISA 国际学生评估，构建经济社会文化地位指数（ESCS），确立了社会背景是跨国学业变异主导来源的全球实证共识。
 > - **2009 年 — 《[[Visible Learning|可见的学习]]》技术化隔离** [[John Hattie]] 报告 SES 总体[[Effect Size|效应量]] $d = 0.57$，但借口教师无法改变社会出身，将其剔除在教学干预调节分析之外，开启了去情境化实证风潮。
@@ -263,11 +271,11 @@ updated: 2026-11-18
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch03|郑雅君 (2023)]] — 考察中国顶尖大学优等生的生活史，揭示家庭社会经济背景如何通过中学素质闲暇与题海苦学、父母决策安全网与无奈放手，塑造出目标掌控与直觉依赖两种高等教育实践图式（pp. 65–104）。
+> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch03|郑雅君 (2023)]] — 考察中国顶尖大学优等生的生活史，揭示家庭社会经济背景如何通过中学素质闲暇与题海苦学、父母决策安全网与无奈放手，塑造出[[Goal-Controlled Mode|目标掌控]]与[[Intuition-Dependent Mode|直觉依赖]]两种高等教育实践图式（pp. 65–104）。
 > - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 审计[[John Hattie|哈蒂]] SES 正向[[Effect Size|效应量]]，揭示参照系反转后贫困成为全书最具破坏力的逆向因素（$-0.57$），并以挑战者号事故比喻批判去阶级情境的均值汇总（pp. 241–242）。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 批判[[John Hattie|哈蒂]]拒绝将 SES 纳入调节[[Variable|变量]]的孤立归因偏误，提出“阶级盲教学思维”概念（pp. 6–7）。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 援引[[OECD|经合组织]]数据确证家庭背景占据学业方差的绝对主导地位，反思新自由主义“学校抹平一切”的神话。
-> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 结合新加坡直通车计划与顶尖独立学校分析，揭示高社会经济地位家庭如何凭借校外补习与文化资本优势捕获拔尖教育资源，侵蚀唯才是用神话的合法性（pp. 63–65）。
+> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 结合新加坡[[Integrated Programme|直通车计划]]与顶尖[[Independent Schools Initiative|独立学校]]分析，揭示高社会经济地位家庭如何凭借校外补习与文化资本优势捕获拔尖教育资源，侵蚀[[Educational Meritocracy|唯才是用]]神话的合法性（pp. 63–65）。
 
 ---
 

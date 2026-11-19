@@ -12,7 +12,7 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 44
+person_related_count: 46
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Didaktik]]"
   - "[[Constructivist Paradigm]]"
   - "[[Visible Learning]]"
+  - "[[Neoliberalism]]"
   - "[[Variable]]"
   - "[[Class Size]]"
   - "[[Evidence-Based Education]]"
@@ -63,6 +64,7 @@ related_persons:
   - "[[Brian Holmes]]"
   - "[[Plato]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
+  - "[[Karl Marx]]"
   - "[[Thomas Kuhn]]"
   - "[[John Hattie]]"
   - "[[Ewald Terhart]]"
@@ -80,7 +82,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-06-13
-updated: 2026-11-02
+updated: 2026-11-19
 ---
 
 ---
@@ -95,7 +97,7 @@ updated: 2026-11-02
 > [!timeline] 生平与职涯
 > - **1902** 出生于奥地利维也纳；早年在维也纳大学攻读数学、物理学、心理学与哲学，1928 年获哲学博士学位。
 > - **1934** 出版德文科学哲学里程碑巨著《科学发现的逻辑》（*Logik der Forschung*），针锋相对地批判维也纳学派逻辑[[Positivism|实证主义]]的归纳原则与经验证实标准，首创[[Falsification|可证伪性]]划界理论。
-> - **1937–1945** 为躲避纳粹迫害流亡新西兰，任教于坎特伯雷大学；在战火中撰写政治哲学巨著《开放社会及其敌人》（*The Open Society and Its Enemies*, 1945），系统阐释[[Critical Dualism|批判二元论]]，对[[Plato|柏拉图]]、[[Georg Wilhelm Friedrich Hegel|黑格尔]]与马克思的历史[[Determinism|决定论]]发起毁灭性批判。
+> - **1937–1945** 为躲避纳粹迫害流亡新西兰，任教于坎特伯雷大学；在战火中撰写政治哲学巨著《开放社会及其敌人》（*The Open Society and Its Enemies*, 1945），系统阐释[[Critical Dualism|批判二元论]]，对[[Plato|柏拉图]]、[[Georg Wilhelm Friedrich Hegel|黑格尔]]与[[Karl Marx|马克思]]的历史[[Determinism|决定论]]发起毁灭性批判。
 > - **1946–1969** 迁居英国，任教于伦敦政治经济学院（LSE），1949 年晋升为逻辑与[[Scientific Method|科学方法]]讲座教授；在此期间霍姆斯赴 LSE 研修科学哲学，深受其反归纳主义与批判二元论的深刻洗礼。
 > - **1963** 出版《猜想与反驳：科学知识的增长》（*Conjectures and Refutations*），系统确立科学知识通过提出大胆猜想、接受经验反驳而演进的试错模型。
 > - **1965** 在伦敦国际科学哲学研讨会上与[[Thomas Kuhn|托马斯·库恩]]（Thomas Kuhn）展开著名的世纪大辩论（证伪试错 vs 常规科学解谜）。
@@ -182,7 +184,7 @@ updated: 2026-11-02
 > > - **Karl Popper（1965）** 坚信真正的科学家应当具有不懈的[[Critical Thinking Disposition|批判精神]]，时刻准备放弃被经验证据反驳的假说。
 > > - **Thomas Kuhn（1970）** 批评波普尔描绘的是一种虚妄的乌托邦，科学史表明绝大多数时期的研究者皆在既定范式约束下开展日常解谜活动，只有在危机积累到无法遏制时才会发生范式革命。
 >
-> > [!axis] 证伪主义被新自由主义规训与商业循证包装所挪用之辩
+> > [!axis] 证伪主义被[[Neoliberalism|新自由主义]]规训与商业循证包装所挪用之辩
 > > 探讨波普尔的可错论与反建制[[Epistemology|认识论]]在冷战后如何被新自由主义智库及循证产业所工具化（Sleigh, 2021; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）。
 > >
 > > - **新自由主义批判学者（Sleigh, 2021）** 揭示波普尔的可错论（fallibilism）在冷战背景下与朝圣山学社（Mont Pèlerin Society）的自由放任经济学深度融合，将认识论怀疑主义武器化，用来瓦解国家对社会福利与公立教育的公共规划，为新自由主义去规制化与私有化提供了认识论合法性。

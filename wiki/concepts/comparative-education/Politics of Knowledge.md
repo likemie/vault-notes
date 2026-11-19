@@ -9,7 +9,7 @@ aliases:
 summary: "在比较教育与全球治理研究中，特指行动者将科研、教育与培训重构为服务于宏观政治经济竞争的战略资产，或多边机构将自身政策偏好包装为普遍基准以建立跨国规训与监控矩阵的权力运作范式；涵盖欧盟内部以知识经济与软法指标为核心的区域治理，以及全球南方发展援助中北方多边机构主导的议程设置与指标化监控。"
 type: concept
 domain: "comparative-education"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Country Ownership]]"
   - "[[Competitiveness]]"
   - "[[Critical Pedagogy]]"
+  - "[[Neoliberalism]]"
   - "[[Aggressive Intergovernmentalism]]"
 related_theories:
   - "[[Dependency Theory]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-28
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -147,7 +148,7 @@ updated: 2026-11-11
 > - **1997 — 欧委会正式提出“知识政治”命题** 欧盟委员会发布《2000 年议程》与《迈向知识欧洲》，将科研与教育定性为关乎欧洲存亡的核心无形投资。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 486)]]
 > - **2000 — 区域战略与全球发展目标双重确立** 里斯本峰会将知识政治升格为欧盟最高战略；同年的[[Millennium Development Goals|联合国千年发展目标]]（MDGs）将教育愿景再次压缩为初等与性别两项指标。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 487–488)]]; [[Argument_King_2007_CE|(King, 2007, pp. 383–386)]]
 > - **2007 — 比较教育批判解构全球援助议程** 肯尼斯·金系统考证多边机构在教育议程建构中的知识政治学机制，揭示概念窄化与国家自主修辞背后的治理技术。[[Argument_King_2007_CE|(King, 2007, pp. 377–389)]]
-> - **2009 — [[Critical Pedagogy|批判教育学]]剖析欧洲全景敞视式治理** 帕西亚斯与鲁萨基斯从知识政治与新自由主义意识形态视角，阐明知识政治作为欧洲教育全景敞视式软法监控母体的深层功能。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 486–487)]]
+> - **2009 — [[Critical Pedagogy|批判教育学]]剖析欧洲全景敞视式治理** 帕西亚斯与鲁萨基斯从知识政治与[[Neoliberalism|新自由主义意识形态]]视角，阐明知识政治作为欧洲教育全景敞视式软法监控母体的深层功能。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 486–487)]]
 
 ---
 

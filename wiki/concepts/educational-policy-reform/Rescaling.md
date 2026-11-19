@@ -9,7 +9,7 @@ aliases:
 summary: "政治地理学与批判性教育政策研究的核心概念，指在全球化与治理转型过程中，国家规范权力与政策空间在跨国、国家、次国家/州与地方市镇等不同尺度之间发生的质性重构与再分配，强调空间尺度是由政策流动、制度博弈与数据基础设施不断生产与重构的关系构型，有别于天然给定的物理容器。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -19,6 +19,7 @@ tags:
   - theme/globalisation
   - theme/data-infrastructure
 related_concepts:
+  - "[[Neoliberalism]]"
   - "[[Methodological Nationalism]]"
   - "[[Data Infrastructure]]"
   - "[[Topological Spatialisation]]"
@@ -47,13 +48,13 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-11-03
+updated: 2026-11-19
 ---
 
 ---
 
 > [!def] Rescaling
-> 尺度重组（Rescaling，亦称空间尺度重构或国家尺度重组），是政治地理学（Brenner, 2004）与批判性教育政策研究（Robertson & Dale, 2015; [[Argument_Hartong_2018_GSE\|Hartong, 2018]]）的核心概念。它指在全球化、新自由主义转型与数字化监测扩张的驱动下，国家规范权力、政策功能与制度安排在跨国（Transnational）、国家（National）、次国家/联邦州（Subnational）以及地方/市镇（Local）等不同空间尺度之间所发生的质性重构、分层转移与再结网过程。该概念强调：空间尺度是由社会行动者、制度博弈与技术媒介不断生产、协商与争夺的动态产物（Brenner, 2004; [[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 134–136]]），有别于先验、固定、天然存在的地理容器。
+> 尺度重组（Rescaling，亦称空间尺度重构或国家尺度重组），是政治地理学（Brenner, 2004）与批判性教育政策研究（Robertson & Dale, 2015; [[Argument_Hartong_2018_GSE\|Hartong, 2018]]）的核心概念。它指在全球化、[[Neoliberalism|新自由主义]]转型与数字化监测扩张的驱动下，国家规范权力、政策功能与制度安排在跨国（Transnational）、国家（National）、次国家/联邦州（Subnational）以及地方/市镇（Local）等不同空间尺度之间所发生的质性重构、分层转移与再结网过程。该概念强调：空间尺度是由社会行动者、制度博弈与技术媒介不断生产、协商与争夺的动态产物（Brenner, 2004; [[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 134–136]]），有别于先验、固定、天然存在的地理容器。
 
 > [!concept-lens] 概念透镜
 > - **含义** 权力与政策职能在不同地理与行政层级之间的动态重新配置与交织穿透。

@@ -5,7 +5,7 @@ summary: "以日常谈话和文本中的语言使用为研究对象的方法，�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 67
+method_related_count: 69
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#dbeafe"
@@ -15,6 +15,7 @@ tags: [method/qualitative, data-analysis, theme/language, paradigm/interpretive,
 related_concepts:
   - "[[Discourse]]"
   - "[[Social Imaginary]]"
+  - "[[Dialogue in Education]]"
   - "[[Unit of Analysis]]"
   - "[[Variable]]"
   - "[[Knowledge-Based Economy]]"
@@ -27,6 +28,7 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Ontology]]"
   - "[[Explanatory Critique]]"
+  - "[[Neoliberalism]]"
   - "[[Regimes of Truth]]"
   - "[[Causality]]"
   - "[[Double Hermeneutic]]"
@@ -88,7 +90,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -97,7 +99,7 @@ updated: 2026-11-11
 > [[Discourse|话语]]分析（Discourse Analysis）探索日常谈话和日常解释的组织，以及其中执行的**社会行动**。话语可被视为在组织上和内容上具有连贯性的语言材料集合，使人们能够在社会情境中建构意义（Coyle, 1995, p. 245）。对意义建构的强调表明了话语分析的**行动视角**——语言具有明确的施事功能与能动建构力量：传递信息、说服、指责、谴责、鼓励、建构[[Social Imaginary|社会想象]]及确立治理规训等。
 
 > [!method-scope] 方法范围
-> - **研究对象** 日常谈话、课堂对话、文本材料、访谈[[Transcription in Qualitative Research|转录]]，以及国际组织与国家政府的宏观政策报告、战略白皮书、法律草案与国际指标指南。
+> - **研究对象** 日常谈话、[[Dialogue in Education|课堂对话]]、文本材料、访谈[[Transcription in Qualitative Research|转录]]，以及国际组织与国家政府的宏观政策报告、战略白皮书、法律草案与国际指标指南。
 > - **问题类型** 语言如何执行社会行动；参与者如何通过话语建构共享的意义框架；话语中如何体现和再生产权力关系；超国家组织如何通过话语修辞建构全球社会想象并锁定政策议程。
 > - **[[Unit of Analysis|分析单位]]** 话语序列、对话回合、言语行为、文本段落、跨国政策报告束。
 > - **输出形式** 对话语功能、意图和后果的分析性解释，附语言证据支持。
@@ -157,7 +159,7 @@ updated: 2026-11-11
 ---
 
 > [!method-fit] 适用判断
-> - **适合使用** 研究课堂互动中的语言使用和权力关系；分析宏观政策文本和超国家教育[[Discourse|话语]]的建构方式（如解构[[OECD|经合组织]]报告中的话语滑移与社会想象；Rizvi & Lingard, 2009）；解构超国家一体化中官方白皮书将新自由主义经济竞争自然化为教育[[Regimes of Truth|真理政制]]的话语技术（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009]]）；比较不同国际组织、跨国智库与国家政策文本中的深层预设同构与[[Discursive Field|话语空间]]排他性规制机制（如解构 UNESCO、世界银行与 OECD 的全球教育话语普遍模型；Beech, 2009b）；剖析大国对外政策话语的深层地缘机制与意识形态框架（如运用费尔克拉夫三维模型解构“一带一路”教育行动文本；Woo, 2023）；理解儿童如何通过语言参与[[Knowledge Building Theory|知识建构]]（Edwards & Mercer, 1987）；揭示话语中系统性扭曲沟通的压制性力量（Habermas）。
+> - **适合使用** 研究课堂互动中的语言使用和权力关系；分析宏观政策文本和超国家教育[[Discourse|话语]]的建构方式（如解构[[OECD|经合组织]]报告中的话语滑移与社会想象；Rizvi & Lingard, 2009）；解构超国家一体化中官方白皮书将[[Neoliberalism|新自由主义]]经济竞争自然化为教育[[Regimes of Truth|真理政制]]的话语技术（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009]]）；比较不同国际组织、跨国智库与国家政策文本中的深层预设同构与[[Discursive Field|话语空间]]排他性规制机制（如解构 UNESCO、世界银行与 OECD 的全球教育话语普遍模型；Beech, 2009b）；剖析大国对外政策话语的深层地缘机制与意识形态框架（如运用费尔克拉夫三维模型解构“一带一路”教育行动文本；Woo, 2023）；理解儿童如何通过语言参与[[Knowledge Building Theory|知识建构]]（Edwards & Mercer, 1987）；揭示话语中系统性扭曲沟通的压制性力量（Habermas）。
 > - **谨慎使用** 当需要大样本统计概括时；当[[Research Question|研究问题]]更适合通过实验或调查回答时；当研究者的话语立场可能过度影响解释时。
 > - **不适合使用** 需要标准化测量和[[Causality|因果推断]]的研究；将语言仅视为信息传递工具的研究。
 

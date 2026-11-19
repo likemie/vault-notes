@@ -8,7 +8,7 @@ aliases:
 summary: "以 Nelson & Winter（1982）为奠基的经济学流派，将经济变迁视为多样性变异、组织惯例学习、路径依赖与动态选择的演化过程；批判新古典静态均衡假设，为技术轨迹、创新系统、公共动态能力与引领和学习范式提供底层理论基石"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 66
+theory_related_count: 67
 theory_related_level: 6
 theory_related_stars: "💎💎"
 theory_related_color: "#fef3c7"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Patient Capital]]"
   - "[[Grand Challenges]]"
   - "[[New Public Management]]"
+  - "[[Neoliberalism]]"
   - "[[University-Industry Collaboration]]"
   - "[[Document]]"
   - "[[Competitiveness]]"
@@ -93,7 +94,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-10
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -230,7 +231,7 @@ updated: 2026-11-15
 > 探讨颠覆性[[General Purpose Technology|通用技术]]变革在宏观社会经济系统中的演化传导路径，论证制度多样性对于避免过早技术与体制锁定的决定性价值。
 
 > [!claim] Freeman & Perez
-> **长波范式转型与制度多样性命题** 当以微电子为代表的全新[[General Purpose Technology|通用技术]]颠覆既有生产组织时，技术变迁的速率远快于社会制度的重构速率，必然引发全社会层面的“制度滞后”（Institutional Lag）与结构性调整危机。新技术潜力的充分释放，要求国家在劳动关系、职业教育大纲、工装设计、专利规制乃至电信基础设施上完成全方位的制度重构。在这一过程中，演化经济学坚决反对推行单一新自由主义经济治理模板的“单一文化”（Monoculture）；不同国家和[[Regional Innovation System|区域创新系统]]在组织形态、产业扶持政策与[[University-Industry Collaboration|产学合作]]机制上的多样性探索（Diversity），为全人类探索新技术范式的制度适配路径提供了不可替代的演化试错保障。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 17–19)]]
+> **长波范式转型与制度多样性命题** 当以微电子为代表的全新[[General Purpose Technology|通用技术]]颠覆既有生产组织时，技术变迁的速率远快于社会制度的重构速率，必然引发全社会层面的“制度滞后”（Institutional Lag）与结构性调整危机。新技术潜力的充分释放，要求国家在劳动关系、职业教育大纲、工装设计、专利规制乃至电信基础设施上完成全方位的制度重构。在这一过程中，演化经济学坚决反对推行单一[[Neoliberalism|新自由主义]]经济治理模板的“单一文化”（Monoculture）；不同国家和[[Regional Innovation System|区域创新系统]]在组织形态、产业扶持政策与[[University-Industry Collaboration|产学合作]]机制上的多样性探索（Diversity），为全人类探索新技术范式的制度适配路径提供了不可替代的演化试错保障。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 17–19)]]
 
 ---
 

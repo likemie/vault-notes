@@ -9,7 +9,7 @@ aliases:
 summary: "指创新活动不仅具有研发投入与扩散速率等数量维度，更具有明确的规范性社会目标与价值取向；公共政策的核心使命在于通过战略引导、规制重构、需求侧牵引与市场塑造，主动克服方向性失灵并引领技术轨道朝向绿色、包容、安全与可持续转型。"
 type: concept
 domain: "science-policy"
-related_count: 43
+related_count: 44
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Process Knowledge]]"
   - "[[Distributed Agency]]"
   - "[[Lead-and-Learn Paradigm]]"
+  - "[[Neoliberalism]]"
   - "[[Research Universities]]"
   - "[[Modern Industrial Policy]]"
   - "[[Paradigm]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-11-03
+updated: 2026-11-19
 ---
 
 ---
@@ -158,7 +159,7 @@ updated: 2026-11-03
 > **地缘科技政治与国家安全使命维度** 探讨当代创新方向性如何从和平时期的绿色与社会包容转型，扩展至关乎国家技术主权与战略生存的核心产业攻关。
 
 > [!claim] [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]]; [[Argument_Fan_2026_BCAS|樊春良 (2026)]]
-> **安全化重塑国家创新方向性逻辑** 卓泽林与樊春良的研究表明，在[[Geopolitics|地缘政治]]竞争加剧与全球供应链脱钩背景下，创新的方向性超越了传统的新自由主义中立市场逻辑，甚至在传统绿色转型之外被赋予了更为紧迫的“国家技术安全与主权控制”属性。国家通过《[[CHIPS and Science Act|芯片法案]]》等重大战略立法明确锁定了先进制程制造回流、开源标准控制与工程人才储备等方向性目标，驱动[[Research Universities|研究型大学]]与工业界从自发分散探索转向高度组织化的战略使命攻关，重塑了科学与国家之间的底层社会契约。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 24–25)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 20–22)]]
+> **安全化重塑国家创新方向性逻辑** 卓泽林与樊春良的研究表明，在[[Geopolitics|地缘政治]]竞争加剧与全球供应链脱钩背景下，创新的方向性超越了传统的[[Neoliberalism|新自由主义]]中立市场逻辑，甚至在传统绿色转型之外被赋予了更为紧迫的“国家技术安全与主权控制”属性。国家通过《[[CHIPS and Science Act|芯片法案]]》等重大战略立法明确锁定了先进制程制造回流、开源标准控制与工程人才储备等方向性目标，驱动[[Research Universities|研究型大学]]与工业界从自发分散探索转向高度组织化的战略使命攻关，重塑了科学与国家之间的底层社会契约。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 24–25)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 20–22)]]
 
 ---
 

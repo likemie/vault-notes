@@ -7,7 +7,7 @@ title: "Argument_Arnove_2009_WorldSystems"
 argument_key: "Argument_Arnove_2009_WorldSystems"
 argument_display_title: "World-systems analysis and comparative education in the age of globalization"
 argument_kind: "book-chapter"
-argument_related_count: 60
+argument_related_count: 61
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Soft Policy Transfer]]"
   - "[[State Educational Sovereignty]]"
+  - "[[Neoliberalism]]"
   - "[[Enlightenment]]"
   - "[[Shadow State]]"
   - "[[Document]]"
@@ -104,7 +105,7 @@ sources:
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-29
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 ---
 
@@ -116,7 +117,7 @@ updated: 2026-11-15
 
 > [!concept-lens] 阅读透镜
 > - **考察对象** 20 世纪 70 年代以来的两大[[World-Systems Theory|世界体系理论]]流派（斯坦福新制度主义与[[Immanuel Wallerstein|沃勒斯坦]]政治现实主义）、当代全球化理论、跨国治理机构（[[World Bank|世界银行]]、世贸组织与大型基金会）以及涵盖美、法、以、印、巴新等国的多层次微观实证研究。
-> - **核心张力** 世界文化的全球趋同叙事（普及义务教育、公民权扩张）与世界体系的等级依附叙事（资本积累、不平等交换、阶层分化）之间的理论对质；自上而下的新自由主义市场规训与自下而上的民主抗争之间的张力。
+> - **核心张力** 世界文化的全球趋同叙事（普及义务教育、公民权扩张）与世界体系的等级依附叙事（资本积累、不平等交换、阶层分化）之间的理论对质；自上而下的[[Neoliberalism|新自由主义]]市场规训与自下而上的民主抗争之间的张力。
 > - **学术贡献** 系统梳理了世界体系分析在比较教育学中的发展历程，确立了兼顾宏观体系与微观课堂的双重视野（double vision），辨析了非政府组织在公共教育中的依附风险，并构建了教育改革方位与目标取向的二维分析矩阵。
 
 ---

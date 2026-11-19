@@ -11,9 +11,9 @@ subtype: program
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "program"
-fact_related_count: 28
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 30
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
 tags:
   - teach-first
@@ -33,6 +33,8 @@ related_concepts:
   - "[[Grandes Ecoles]]"
   - "[[STEM Education]]"
   - "[[Venture Philanthropy]]"
+  - "[[Neoliberalism]]"
+  - "[[Teacher Qualifications]]"
   - "[[Educational Privatisation]]"
   - "[[Charter Schools]]"
   - "[[School Choice]]"
@@ -61,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-02
+updated: 2026-11-19
 ---
 
 ---
@@ -94,7 +96,7 @@ updated: 2026-11-02
 >
 > - **2015 年至今** **全球网络嵌入与战略规模化**
 >
->   深化与跨国[[Venture Philanthropy|风险慈善]]基金和国际[[OECD|经合组织]]的连接，成为新自由主义教师教育改革的样板节点。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 54, 57)]]
+>   深化与跨国[[Venture Philanthropy|风险慈善]]基金和国际[[OECD|经合组织]]的连接，成为[[Neoliberalism|新自由主义]]教师教育改革的样板节点。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 54, 57)]]
 >
 >   - **2015 年 10 月** TFNZ 与 Teach for All 在奥克兰联合主办全球年会（Teach for All Global Conference），汇聚来自 43 个国家的 200 余名全球教育中介代表；[[OECD]] 教育与技能司长[[Andreas Schleicher|安德烈亚斯·施莱歇尔]]（Andreas Schleicher）等国际政要出席发表主旨演讲。
 >   - **2016 年** 累计招募学员达到 74 名，其中 42% 承担 STEM 学科教学，原住民毛利学员占 16%，太平洋岛民学员占 11%。
@@ -109,7 +111,7 @@ updated: 2026-11-02
 > [!pathways] 业务运行与培养流程
 > - **严苛选拔与快速启动（Summer Institute）** 针对名校顶尖应届生进行多轮领导力情境测试，通过后进入为期仅 6 至 8 周的暑期强化集训营，迅速讲授基础教学法与班级管理技巧。
 > - **全职岗位带薪浸润** 学员直接以“未培训教师”（Untrained Teacher）身份被派往 40 所薄弱中学任教，全额承担常规教学负荷并按未培训教师标准领取国家财政发放的工资。
-> - **边学边教与学位授予** 在两年的教学周期内，学员通过晚间和假期修读奥克兰大学教育学研究生文凭课程，考核合格后取得正式注册教师资格。
+> - **边学边教与学位授予** 在两年的教学周期内，学员通过晚间和假期修读奥克兰大学教育学研究生文凭课程，考核合格后取得正式注册[[Teacher Qualifications|教师资格]]。
 
 ---
 

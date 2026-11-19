@@ -10,7 +10,7 @@ aliases:
 summary: "英国控制论学者罗斯·阿什比提出的控制论奠基性法则，指出控制系统的内部多样性必须至少等于或大于被控制系统的扰动多样性方能维持有效调控；在公共治理与教育组织中，该法则揭示了单一中心自上而下的科层规制因无法穷举专业网络的内在复杂性而陷入多样性赤字与必然失灵，为远距离操纵与去中心化自组织调节提供了控制论认识论基础。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 23
+theory_related_count: 24
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Block Grants]]"
   - "[[Research Question]]"
   - "[[Zone of Discretion]]"
+  - "[[Neoliberalism]]"
   - "[[Reflexivity]]"
   - "[[Bureaucracy]]"
   - "[[Policy Network]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -151,7 +152,7 @@ updated: 2026-11-15
 > - **适合分析** 高度专业化、学科[[Heterogeneity|异质性]]强、技术变迁迅速且依赖一线专业人员裁量权的组织系统（如大学、科研院所、现代医院）。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 148–150)]]
 > - **成立条件** 受控子系统必须具备基本的组织成熟度、自律伦理与透明的信息披露机制，且宏观反馈回路必须保持通畅与公正。
 > - **解释不足** 对涉及人身安全底线、财务防伪底线或全国性强制普适标准的领域（如考场安全防作弊、基础教育最低生均拨款基准），依然必须依赖严格的刚性自上而下细则管制，不能机械套用自组织假设。
-> - **不能直接推出** 不能将必要多样性法则曲解为政府彻底甩手不管的“新自由主义消极撤退”；它强调的是控制工具的位移（从输入移向产出与反馈），而非放弃公共责任。
+> - **不能直接推出** 不能将必要多样性法则曲解为政府彻底甩手不管的“[[Neoliberalism|新自由主义]]消极撤退”；它强调的是控制工具的位移（从输入移向产出与反馈），而非放弃公共责任。
 
 ---
 

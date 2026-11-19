@@ -12,7 +12,7 @@ subtype: organization
 region: chile
 fact_region: "chile"
 fact_kind: "organization"
-fact_related_count: 43
+fact_related_count: 44
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Peer-Supported Learning]]"
   - "[[Learnology]]"
   - "[[South-South Cooperation]]"
+  - "[[Neoliberalism]]"
   - "[[Positivism]]"
   - "[[Technical Rationality]]"
   - "[[Critical Pedagogy]]"
@@ -79,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 ---
@@ -151,7 +152,7 @@ updated: 2026-11-14
 > [!debates] 核心争议交锋
 >
 > > [!axis] 全球南方语境自主 vs 英国 [[Education Endowment Foundation|EEF]] 工具主义因果模式移植
-> > 争论焦点在于直接引入源自英国的因果工具箱是否会助长新自由主义下的[[Positivism|实证主义]][[Technical Rationality|技术理性]]。
+> > 争论焦点在于直接引入源自英国的因果工具箱是否会助长[[Neoliberalism|新自由主义]]下的[[Positivism|实证主义]][[Technical Rationality|技术理性]]。
 > >
 > > - **批评视角（[[Critical Pedagogy|批判教育学]]者）** 质疑将英国 EEF 的实证主义[[Effect Size|效应量]]指标直接移植至贫富差距悬殊、基础设施严重匮乏的拉[[Philosophical Aesthetics|美学]]校，存在将复杂的结构性社会不平等降维为单纯“课堂干预技巧”的风险，可能加剧“技术治理迷信”。
 > > - **机构立场（SUMMA 与合作学者）** 强调工具包经过深度语境本土化（[[Going Native]]），且配套设立 EDU-LAC 基金专攻本土 [[Randomised Controlled Trials|RCT]] 试验，其根本目的在于运用科学实证保护弱势学生免受无根据的政治拍板与无效商业教育软件侵害。

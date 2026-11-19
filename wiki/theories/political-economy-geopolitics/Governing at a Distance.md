@@ -11,7 +11,7 @@ aliases:
 summary: "起源于福柯治理术谱系并经罗斯、米勒与拉图尔发展、在批判教育社会学与拓扑学中深化的空间治理理论，指权力不依赖直接行政命令或物理在场，而是通过将宏观政治抱负转译为技术标准、计算中心、不变移动物与自适应数据基础设施，在“远处”重塑主体认知与微观实践的非接触式权力机制。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 51
+theory_related_count: 52
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Topological Spatialisation]]"
   - "[[Value Neutrality]]"
   - "[[Center of Calculation]]"
+  - "[[Neoliberalism]]"
   - "[[New Public Management]]"
   - "[[Governing by Numbers]]"
   - "[[Transnational Education]]"
@@ -82,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-09
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -100,7 +101,7 @@ updated: 2026-11-11
 
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** [[Nikolas Rose|尼古拉斯·罗斯]]与彼得·米勒于 1992 年发表《超越国家的政治权力：政府的问题式》（*Political Power beyond the State: Problematics of Government*），首次系统提出远处[[Educational Governance Framework\|治理分析框架]]；[[Bruno Latour\|布鲁诺·拉图尔]]（[[Bruno Latour]], 1987）在科学技术学中提出的“从远处采取行动”（action at a distance）提供了关键物质技术支撑。
-> - **原初问题** 20 世纪晚期西方新自由主义与[[New Public Management\|新公共管理]]改革兴起，私有化、去中心化与学校办学自主权普及，传统韦伯式科层行政模型无法解释去中心化背景下高度严密的问责与标准化审计网络。
+> - **原初问题** 20 世纪晚期西方[[Neoliberalism|新自由主义]]与[[New Public Management\|新公共管理]]改革兴起，私有化、去中心化与学校办学自主权普及，传统韦伯式科层行政模型无法解释去中心化背景下高度严密的问责与标准化审计网络。
 > - **理论资源与材料** 融合米歇尔·福柯（Michel Foucault）的[[Governmentality\|治理术]]思想、拉图尔关于实验室“铭文装置”与“[[Center of Calculation\|计算中心]]”的科学社会学观察，以及对会计审计制度、临床医学量表与心理学评估标准的实证考察。
 > - **形成路径** 从“政治抱负与专业知识的转译链条”切入，论证统治阶级如何借助会计师、心理学家、统计学家等中介专家网络，将国家意志编码为客观指标，使行动者在“自由追求卓越”的假象下自主对齐统治目标。
 

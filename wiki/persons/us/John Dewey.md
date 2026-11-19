@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 74
+person_related_count: 76
 person_related_level: 7
 person_related_stars: "💎💎⭐"
 person_related_color: "#fef3c7"
@@ -57,6 +57,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Quality Education]]"
   - "[[Examination-Oriented Education]]"
+  - "[[Neoliberalism]]"
   - "[[Reform Pedagogy]]"
   - "[[Critical Pedagogy]]"
   - "[[Theory of Knowledge]]"
@@ -92,6 +93,7 @@ related_facts:
   - "[[New Education Movement]]"
   - "[[1922 Educational System Reform]]"
   - "[[Skills Toward Employment and Productivity]]"
+  - "[[Integrated Programme]]"
   - "[[New Culture Movement]]"
 related_arguments:
   - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
@@ -107,7 +109,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -211,7 +213,7 @@ updated: 2026-11-15
 > [!influence-path] 影响路径
 > - **理论路径** 奠定[[Pragmatic Paradigm|实用主义]]教育哲学，重构经验、探究与知识的关系，提出[[Active Learning|主动学习]]三环节模型（[[Critical Thinking|批判性思维]]、对话、生长），反对绝对确定性执念，将证据理解为情境行动中可修正的假设（Dewey quoted in Hattie, 2008, p.147; [[Argument_Darwish_2009_Queens|Darwish, 2009]]）；其经验探究论成为现代[[Engineering Mindset|工程思维]]的哲学先声（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025]]）。
 > - **方法路径** 推崇[[Reflexivity|反思性]]探究与试错实验，批判[[Technical Rationality|技术理性]]与将教师简化为[[Classroom Management|课堂管理]]技巧训练的倾向，倡导保持[[Professional Judgment|专业判断]]；倡导深入现实系统具体细节的经验实测与持续修正。
-> - **政策与实践路径** 推动了综合课程、活动教学法（如项目制构建模型）、学分制以及从科目隔绝转向社会科整合的全球课程改革趋势。
+> - **政策与实践路径** 推动了[[Integrated Programme|综合课程]]、活动教学法（如项目制构建模型）、学分制以及从科目隔绝转向社会科整合的全球课程改革趋势。
 
 ---
 
@@ -224,7 +226,7 @@ updated: 2026-11-15
 > [!phase] 建国后中国的三重政治变形（1949至今）
 > - **1950年代（反动批判）** 被彻底定性为反动、主观唯心主义和“伪[[Junzi|君子]]”，其自然主义与不确定性论述受到政治批判。（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.79–82]]）
 > - **1980年代（名誉恢复）** 通过[[Tao Xingzhi|陶行知]]间接恢复名誉，被重塑为现代化、科学创新以及个体与社会和谐统一的符号。（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.84–89]]）
-> - **1990年代至今（[[Discourse|话语]]盟友）** 被重构为[[Quality Education|素质教育]]的理论基础与反对[[Examination-Oriented Education|应试教育]]的资源，同时被借用批判野蛮新自由主义，成为“又红又专”的话语盟友。（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.91–93]]）
+> - **1990年代至今（[[Discourse|话语]]盟友）** 被重构为[[Quality Education|素质教育]]的理论基础与反对[[Examination-Oriented Education|应试教育]]的资源，同时被借用批判野蛮[[Neoliberalism|新自由主义]]，成为“又红又专”的话语盟友。（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.91–93]]）
 
 > [!phase] 苏联跨国传播与范式断裂（1920s–1930s）
 > - **1920年代（翻译与吸收）** *The School and Society* 被译为俄文，肖像收录于苏联教育百科全书；1928年访苏与 [[Stanislav Shatskii]] 等[[Progressive Education|进步教育]]家会面，成为美苏[[Cultural Diplomacy|文化外交]]的焦点。（[[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.102–109]]）

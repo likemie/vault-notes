@@ -12,7 +12,7 @@ subtype: event
 region: "latin-america"
 fact_region: "latin-america"
 fact_kind: "event"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -24,6 +24,7 @@ tags:
   - neoliberalism
 related_concepts:
   - "[[Import Substitution Industrialisation]]"
+  - "[[Neoliberalism]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Compensatory Legitimation]]"
   - "[[Educational Privatisation]]"
@@ -46,13 +47,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-30
+updated: 2026-11-19
 ---
 
 ---
 
 > [!claim] 核心定性
-> 1982 年拉美债务危机是 20 世纪下半叶拉丁美洲经济与社会政策演进的决定性分水岭，它标志着二战后长达三十年的[[Import Substitution Industrialisation|进口替代工业化]]（ISI）模式与国家主导教育扩张的终结，并直接促使以[[World Bank|世界银行]]为代表的跨国金融机构强力介入拉美内政，开启了长达数十年的新自由主义教育紧缩与私有化浪潮。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79, 81–84)]]
+> 1982 年拉美债务危机是 20 世纪下半叶拉丁美洲经济与社会政策演进的决定性分水岭，它标志着二战后长达三十年的[[Import Substitution Industrialisation|进口替代工业化]]（ISI）模式与国家主导教育扩张的终结，并直接促使以[[World Bank|世界银行]]为代表的跨国金融机构强力介入拉美内政，开启了长达数十年的[[Neoliberalism|新自由主义]]教育紧缩与私有化浪潮。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79, 81–84)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 1982 年全面爆发，波及整个 1980 年代（史称“失去的十年”）；席卷墨西哥、巴西、阿根廷、智利等整个拉丁美洲。

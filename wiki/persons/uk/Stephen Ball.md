@@ -9,10 +9,10 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 57
-person_related_level: 5
-person_related_stars: "💎⭐⭐"
-person_related_color: "#ffedd5"
+person_related_count: 60
+person_related_level: 6
+person_related_stars: "💎💎"
+person_related_color: "#fef3c7"
 born: "1950"
 died: ""
 lifespan: "1950–至今"
@@ -28,6 +28,7 @@ tags:
 related_concepts:
   - "[[Policy Network]]"
   - "[[Performativity]]"
+  - "[[Neoliberalism]]"
   - "[[Discourse]]"
   - "[[Endogenous Privatisation]]"
   - "[[Exogenous Privatisation]]"
@@ -76,7 +77,9 @@ related_persons:
   - "[[Basil Bernstein]]"
   - "[[Liliana Esther Olmos]]"
   - "[[John Hattie]]"
+  - "[[Karl Marx]]"
 related_facts:
+  - "[[National Institute of Education]]"
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Woo_2023_HEP]]"
@@ -91,14 +94,14 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-05'
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 英国教育社会学家，伦敦大学学院教育学院（UCL Institute of Education）政策社会学荣休教授。
-> - **核心角色** 批判性教育政策社会学的开拓者，在全球教育市场化、私有化、[[Policy Network|政策网络]]治理、[[Performativity|表演性]]规训以及新自由主义审计文化研究中承担核心[[Discourse|话语]]构建者的枢纽角色。
+> - **身份位置** 英国教育社会学家，伦敦大学学院教育学院（UCL [[National Institute of Education|Institute of Education]]）政策社会学荣休教授。
+> - **核心角色** 批判性教育政策社会学的开拓者，在全球教育市场化、私有化、[[Policy Network|政策网络]]治理、[[Performativity|表演性]]规训以及[[Neoliberalism|新自由主义]]审计文化研究中承担核心[[Discourse|话语]]构建者的枢纽角色。
 > - **代表贡献** 提出教育政策制定的多重语境框架；系统区分教育的[[Endogenous Privatisation|内生私有化]]与[[Exogenous Privatisation|外生私有化]]；创立[[Performativity|表演性]]批判[[Paradigm|范式]]；揭示教育市场化作为新自由主义国家的阶级策略；发展[[Network Governance|网络治理]]与跨国[[Policy Entrepreneur|政策创业者]]的社会学批判。
 
 ---
@@ -180,7 +183,7 @@ updated: 2026-11-15
 > [!debates] 学术争议
 >
 > > [!axis] [[Post-structuralism|后结构主义]]微观治理与宏观阶级结构分析的张力
-> > 围绕政策分析的理论根基，传统马克思主义社会学者与后结构主义政策学者围绕鲍尔的研究进路形成了持续探讨。
+> > 围绕政策分析的理论根基，传统[[Karl Marx|马克思]]主义社会学者与后结构主义政策学者围绕鲍尔的研究进路形成了持续探讨。
 > >
 > > - **传统马克思主义学者** 批评鲍尔过度聚焦于弥散性治理网络与微观话语技术，在一定程度上弱化了对资本主义国家机器、宏观阶级结构硬性制约与资本积累内在矛盾的总体性把握。
 > > - **鲍尔及其支持者** 主张现代治理已从单一科层官僚转向去中心化的拓扑网络，唯有深入微观话语生成与主体性重塑，才能穿透[[Technical Rationality|技术理性]]的合法性迷雾。

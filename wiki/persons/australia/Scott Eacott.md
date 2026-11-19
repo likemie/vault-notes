@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: australia
 person_region: "australia"
-person_related_count: 36
+person_related_count: 38
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Technical Rationality]]"
   - "[[Positivism]]"
+  - "[[Neoliberalism]]"
   - "[[Relational Space]]"
   - "[[Ontology]]"
   - "[[Paradigm]]"
@@ -51,6 +52,7 @@ related_methods:
 related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[John Hattie]]"
+  - "[[Charles Taylor]]"
   - "[[James C. Scott]]"
   - "[[Klaus Nielsen]]"
 related_facts:
@@ -68,7 +70,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-03
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -76,7 +78,7 @@ updated: 2026-11-15
 > [!person-profile] 人物档案
 > - **身份位置** 澳大利亚新南威尔士大学（UNSW Sydney）教育学院教授，当代批判教育行政与领导力研究的领军学者。
 > - **核心角色** 率先将[[Pierre Bourdieu|皮埃尔·布迪厄]]（[[Pierre Bourdieu]]）的[[Champ|场域]]理论与反思社会学引入教育行政学，创立关系取向（Relational Approach）教育组织理论；提出“[[Parallel Monologues\|平行独白]]”概念揭示学术交流[[Alienation|异化]]；系统将[[John Hattie|约翰·哈蒂]]（[[John Hattie]]）的[[Visible Learning\|可见的学习]]与[[Evidence-Based Education|循证教育]]狂热定性为当代教育行政中的“[[Neo-Taylorism\|新泰勒主义]]”与“[[Cult of the Guru\|大师崇拜]]”，为全球反思量化绩效问责提供了关键批判视角。[[Argument_Eacott_2017_SLM|(Eacott, 2017, p. 413)]]; [[Argument_Eacott_2019_IJLE|(Eacott, 2019, p. 774)]]
-> - **代表贡献** 新泰勒主义教育治理批判、平行独白理论、关系取向教育组织理论（*Beyond Leadership*）。
+> - **代表贡献** 新[[Charles Taylor|泰勒]]主义教育治理批判、平行独白理论、关系取向教育组织理论（*Beyond Leadership*）。
 
 > [!citation-card] 人物定位的关键来源
 > [[James C. Scott|斯科特]]·埃考特专注于教育行政与领导力领域的社会[[Epistemology|认识论]]、组织理论和学术实践逻辑研究。他将布迪厄的社会理论和认识论概念引入教育行政研究，提出了关于教育领导力[[Knowledge Production|知识生产]]条件的系统性反思。他自述从不回避坚定的学术主张，这一鲜明学术风格使他的工作在学术界引发了强烈的正面共鸣与争议反弹。[[Argument_Eacott_2019_IJLE|(Eacott, 2019, pp. 774, 776)]]
@@ -105,7 +107,7 @@ updated: 2026-11-15
 >   - **阶段核心** 针对全球教育治理中对量化指标与单一学术权威的盲从，将泰勒科学管理与卡拉汉历史视角相结合，系统诊断当代[[Evidence-Based Education|循证教育]]政策的技术控制本质。
 >   - **代表著作** Eacott (2017a) *[[School Leadership]] and the cult of the guru: The neo-Taylorism of Hattie*；Eacott (2017b) *A social epistemology for educational administration and leadership*。[[Argument_Eacott_2017_SLM|(Eacott, 2017)]]
 >   - **关键概念** [[Neo-Taylorism|新泰勒主义]]、[[Cult of the Guru|大师崇拜]]、[[Visible Learning|可见的学习]]。
->   - **阶段转向** 直面当代教育领导力实践中将[[Effect Size|效应量]]排行榜作为“唯一最佳方法”推行的霸权现象，开启对以[[John Hattie|哈蒂]]品牌为代表的新自由主义管理主义的系统解构。
+>   - **阶段转向** 直面当代教育领导力实践中将[[Effect Size|效应量]]排行榜作为“唯一最佳方法”推行的霸权现象，开启对以[[John Hattie|哈蒂]]品牌为代表的[[Neoliberalism|新自由主义]]管理主义的系统解构。
 > - **2018–至今 — 关系取向组织理论与学术场域反思期**
 >   - **阶段核心** 突破传统以个体领导者为中心的英雄主义与实体论偏见，构建以[[Relational Space|关系空间]]和动态过程为基底的组织社会学框架；同时基于自身论战际遇反思学术界回避实质争鸣的制度惰性。
 >   - **代表著作** Eacott (2018) *Beyond leadership: A relational approach to organizational theory in education*；[[Argument_Eacott_2019_IJLE|Eacott (2019)]] *Ranting, raving and complaining: reflections on working against orthodoxy*。

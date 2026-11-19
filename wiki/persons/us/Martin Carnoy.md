@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 35
+person_related_count: 36
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Academic Achievement]]"
   - "[[Post-Fordism]]"
+  - "[[Neoliberalism]]"
   - "[[State Educational Sovereignty]]"
   - "[[Financial-Intellectual Complex]]"
   - "[[Structural Adjustment Programs]]"
@@ -104,7 +105,7 @@ updated: 2026-11-19
 >   - **代表著作** *The State and Political Theory* (1984); *Schooling and Work in the Democratic State* (1985, with H. M. Levin)。
 >   - **关键概念／理论** 国家理论、资本积累与民主合法性冲突、相对自主性。
 >   - **阶段转向** 吸收葛兰西统识理论与普兰查斯国家理论，论证资本主义民主国家处于“为资本积累再生产服从劳动力”与“回应公民大众民主平权诉求”的双重矛盾之中；学校不是死寂的再生产工具，而是大众争取社会平等的抗争竞技场。
-> - **1990s–至今 — 第三世界社会转型、[[Post-Fordism|后福特制]]与全球化结构调整批判** 此阶段直面新自由主义全球化与信息经济对民族[[State Educational Sovereignty|国家教育主权]]的蚕食。
+> - **1990s–至今 — 第三世界社会转型、[[Post-Fordism|后福特制]]与全球化结构调整批判** 此阶段直面[[Neoliberalism|新自由主义]]全球化与信息经济对民族[[State Educational Sovereignty|国家教育主权]]的蚕食。
 >   - **代表著作** *Education and Social Transition in the Third World* (1990, with J. Samoff); *Education and the state: From Adam Smith to perestroika* (1992); *Globalization and Educational Reform: What Planners Need to Know* (1999, UNESCO/IIEP); *Sustaining the New Economy* (2000)。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 73–75)]]
 >   - **关键概念／理论** [[Post-Fordism|后福特主义]]、[[Financial-Intellectual Complex|金融-智识复合体]]、转型国家的教育国家契约、结构调整中的教师污名化（Teachers as Villains）。
 >   - **阶段转向** 一方面剖析后冷战时期转型国家在脱离殖民与计划经济时的制度阵痛；另一方面出版《全球化与教育改革》（1999），深刻揭露新自由主义[[Structural Adjustment Programs|结构调整政策]]如何将削减教师薪酬作为主要节支目标，在[[Discourse|话语]]上将教师与工会系统性打上效率低下“恶棍”（villains）标签以推销廉价标准化教辅；同时运用严格的大规模跨国实证数据，持续反思跨国金融机构推行的紧缩私有化对公立教育系统的侵蚀。

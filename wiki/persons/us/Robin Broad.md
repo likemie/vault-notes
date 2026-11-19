@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 20
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
   - "[[Epistemic Governance]]"
+  - "[[Neoliberalism]]"
   - "[[Washington Consensus]]"
   - "[[Liberalization]]"
   - "[[Structural Adjustment Programs]]"
@@ -43,7 +44,8 @@ related_theories:
   - "[[Educational Governance Framework]]"
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Alexandre de Rhodes]]"
 related_facts:
   - "[[World Bank]]"
   - "[[Development Economics Vice Presidency]]"
@@ -53,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-30
+updated: 2026-11-19
 ---
 
 ---
@@ -63,8 +65,8 @@ updated: 2026-10-30
 > - **核心角色** 揭露布雷顿森林多边金融机构[[Knowledge Production|知识生产]]与政策控制内部政治机制的旗帜性学者；开创性提出“[[Paradigm|范式]]维护（Paradigm Maintenance）”理论模型，系统解构[[World Bank|世界银行]]如何依托学术声誉推行有偏向的意识形态治理。
 > - **代表贡献** 提出并实证解构了世界银行[[Development Economics Vice Presidency|发展经济学研究局]]（DEC）的“范式维护”四重机制；其关于世行科研偏向性与自我引证的剖析，被迈克·扎普（Mike Zapp）作为论证世行[[Epistemic Governance|认知治理]]内在张力与学术控制的核心[[Critical Theory|批判理论]]基准。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 4, 10)]]
 
-> [!citation-card] 布罗德论世界银行的范式维护机制
-> 世界银行研究局带有明确的政策导向。世行通过定向分配研究课题预算、设置倾向性匿名同行评审、内部晋升考核绑定以及外部公关过滤等机制，系统性维护以新自由主义[[Washington Consensus|华盛顿共识]]为主导的正统经济学学说，并将质疑[[Liberalization|自由化]]教条的实证异见边缘化。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 4)]]
+> [!citation-card] 布[[Alexandre de Rhodes|罗德]]论世界银行的范式维护机制
+> 世界银行研究局带有明确的政策导向。世行通过定向分配研究课题预算、设置倾向性匿名同行评审、内部晋升考核绑定以及外部公关过滤等机制，系统性维护以[[Neoliberalism|新自由主义]][[Washington Consensus|华盛顿共识]]为主导的正统经济学学说，并将质疑[[Liberalization|自由化]]教条的实证异见边缘化。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 4)]]
 >
 > *The World Bank uses the art of 'paradigm maintenance' through funding, promotion, peer review and public relations to reinforce its neoliberal development agenda and filter out dissenting empirical evidence.*
 

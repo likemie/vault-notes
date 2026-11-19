@@ -10,9 +10,9 @@ title: "Argument_Nielsen_2021_NordPsych"
 argument_key: "Argument_Nielsen_2021_NordPsych"
 argument_display_title: "Blind spots in visible learning: A critique of John Hattie as an educational theorist"
 argument_kind: "journal-article"
-argument_related_count: 69
-argument_related_level: 6
-argument_related_stars: "💎💎"
+argument_related_count: 71
+argument_related_level: 7
+argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
 journal: Nordic Psychology
 citation: "Nielsen, K., & Klitmøller, J. (2021). Blind spots in visible learning: A critique of John Hattie as an educational theorist. Nordic Psychology, 75(1), 45–60."
@@ -65,6 +65,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Barometer of Achievement]]"
+  - "[[Neoliberalism]]"
   - "[[School Leadership]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Chain of Evidence]]"
@@ -87,6 +88,7 @@ related_persons:
   - "[[Donald A. Schön]]"
   - "[[Scott Eacott]]"
   - "[[Axel Honneth]]"
+  - "[[Charles Taylor]]"
   - "[[Herbert Walberg]]"
   - "[[Thomas Aastrup Rømer]]"
 related_facts:
@@ -104,7 +106,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-04'
-updated: 2026-11-15
+updated: 2026-11-19
 year: 2021
 doi: "10.1080/19012276.2021.1962731"
 citation_aliases:
@@ -135,7 +137,7 @@ citation_aliases:
 > | **[[Recognition Theory\|主体间承认理论]]与交往行为**<br>[[Critical Theory]]、[[Recognition Theory]] | 阿克塞尔·霍耐特（[[Axel Honneth]]）的承认理论。用于反思技术理性如何扼杀学习者与教师的[[Intentionality\|主体意向性]]、自主性与主体间意义生成。 |
 
 > [!warrant]- 理论如何支撑论证
-> 技术理性为理解[[John Hattie|哈蒂]]的[[Paradigm|研究范式]]提供了[[Epistemology|认识论]]透镜：执着于寻求脱离情境的离散因果因素、剔除[[Socioeconomic Status|社会经济地位]]调节[[Variable|变量]]、发明普适性的 $d = 0.40$ 截断值，本质上都是技术理性将工程诊断模式移植到社会领域的产物。当这种思维遇到行为主义学习论时，师生主体间交往便被降格为单向的机械信息矫正回路；而这套看似客观的控制技术，恰好契合了新泰勒主义追求管理效能与绩效问责的制度诉求。
+> 技术理性为理解[[John Hattie|哈蒂]]的[[Paradigm|研究范式]]提供了[[Epistemology|认识论]]透镜：执着于寻求脱离情境的离散因果因素、剔除[[Socioeconomic Status|社会经济地位]]调节[[Variable|变量]]、发明普适性的 $d = 0.40$ 截断值，本质上都是技术理性将工程诊断模式移植到社会领域的产物。当这种思维遇到行为主义学习论时，师生主体间交往便被降格为单向的机械信息矫正回路；而这套看似客观的控制技术，恰好契合了新[[Charles Taylor|泰勒]]主义追求管理效能与绩效问责的制度诉求。
 
 ---
 
@@ -343,7 +345,7 @@ citation_aliases:
 [[Barometer of Achievement|效应量气压计]]与可见学习干预清单为教育行政体系提供了量化问责和标准化治理工具，其推广弱化了对课堂对话与师生意向性的关注。
 
 > [!policy-context] 新泰勒主义教育治理的制度定位
-> - **制度背景** 全球新自由主义教育改革浪潮，推崇绩效问责、结果驱动与量化考核。
+> - **制度背景** 全球[[Neoliberalism|新自由主义]]教育改革浪潮，推崇绩效问责、结果驱动与量化考核。
 > - **政策工具** 效应量排行榜、0.40 支点准则与可见学习认证学校的商业推广模式。
 > - **合法化机制** 埃考特（[[Argument_Eacott_2017_SLM|Eacott, 2017]]）指出，哈蒂的工作实质上构成了一种**新泰勒主义（Neo-Taylorism）**，以看似中立、客观的循证科学话语，为教育行政主管和[[School Leadership|学校领导]]层重构对一线教师劳动的技术监控与标准化规训提供了[[Social Science as Legitimation Alibi|合法化借口]]。
 > - **真实后果** 教师丧失教学自由裁量权，被迫迎合冰冷的效应量指标；常态学校生活充满悖论，教育实践与鲜活的生命世界渐行渐远。

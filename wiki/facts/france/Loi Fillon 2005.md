@@ -12,7 +12,7 @@ subtype: policy
 region: france
 fact_region: "france"
 fact_kind: "policy"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Grandes Ecoles]]"
   - "[[STEM Education]]"
   - "[[Paradigm]]"
+  - "[[Neoliberalism]]"
   - "[[Discourse]]"
   - "[[21st Century Skills and Competencies Discourse]]"
 related_theories:
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-30
+updated: 2026-11-19
 ---
 
 ---
@@ -140,7 +141,7 @@ updated: 2026-10-30
 > > 学界与政界围绕最低素养保障与学术精英传统的分歧。
 > >
 > > - **共和主义平权论（2005）** 认为共同基底保障了全体公民不论出生背景均享有同等的文化胜任力。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
-> > - **传统精英学术论** 指责该法案迎合国际组织的新自由主义技能[[Discourse|话语]]，削弱了法国传统的学科深厚学术底蕴。
+> > - **传统精英学术论** 指责该法案迎合国际组织的[[Neoliberalism|新自由主义]]技能[[Discourse|话语]]，削弱了法国传统的学科深厚学术底蕴。
 
 > [!citation-card] 代表性学者评论：米歇尔论菲永法案的[[Paradigm|范式]]转向
 > 2005 年菲永法案在法国教育史上具有关键的分水岭意义。它标志着法国终于决定顺应[[OECD|经合组织]]与[[EU|欧洲共同体]]的能力话语，告别单纯以教授知识为主的陈旧模式；但法案同时暴露了法国中央行政精英在面对教师工会抵制和阶层固化现实时的深层博弈困境。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]；Michel (2017)

@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: denmark
 person_region: "denmark"
-person_related_count: 32
+person_related_count: 33
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Paradigm]]"
   - "[[Discourse]]"
+  - "[[Neoliberalism]]"
   - "[[Learnification]]"
   - "[[Neuroplasticity]]"
   - "[[Epistemology]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -80,7 +81,7 @@ updated: 2026-11-15
 
 > [!timeline] 生平与职涯
 > - **1958** 出生于丹麦。
-> - **1965** 开始接受基础教育，亲身经历丹麦教育[[Discourse|话语]]从“indlæring”（灌输式教学）向“læring”（学习）话语、进而滑向当代新自由主义[[Learnification|学习化]]（Learnification）的历史演进。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 8)]]
+> - **1965** 开始接受基础教育，亲身经历丹麦教育[[Discourse|话语]]从“indlæring”（灌输式教学）向“læring”（学习）话语、进而滑向当代[[Neoliberalism|新自由主义]][[Learnification|学习化]]（Learnification）的历史演进。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 8)]]
 > - **2013** 应邀赴新西兰惠灵顿维多利亚大学讲学，发表关于[[Neuroplasticity|神经可塑性]]当代趣味与批判局限的学术分析。
 > - **2015** 发表《[[John Hattie|约翰·哈蒂]]证据信条中的盲点》，系统开启对可见学习证据神话的[[Epistemology|认识论]]审视。
 > - **2016** 出版丹麦语教育哲学专著《想要对某人做什么：关于教化与教育学的哲学与当代批判片段》（*At Ville Noget Med Nogen*），呼吁在北欧学校改革中重聚教化精神。

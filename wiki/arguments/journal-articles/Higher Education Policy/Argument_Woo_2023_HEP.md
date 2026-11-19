@@ -53,6 +53,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Academic Freedom]]"
   - "[[International Education]]"
+  - "[[Neoliberalism]]"
   - "[[Hard Power]]"
   - "[[Study Abroad]]"
   - "[[Knowledge Production]]"
@@ -63,6 +64,7 @@ related_concepts:
   - "[[Public Diplomacy]]"
 related_theories:
   - "[[Critical Realism]]"
+  - "[[Developmental State]]"
   - "[[Cultural Political Economy]]"
 related_methods:
   - "[[Critical Discourse Analysis]]"
@@ -92,14 +94,14 @@ related_facts:
   - "[[Sino-Soviet Educational Cooperation]]"
 status: active
 created: 2026-10-19
-updated: 2026-11-14
+updated: 2026-11-19
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Woo_2023_HEP"
 argument_key: "Argument_Woo_2023_HEP"
 argument_display_title: "Narrating the Belt and Road education policy: A critical policy discourse analysis"
 argument_kind: "journal-article"
-argument_related_count: 67
+argument_related_count: 69
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -290,7 +292,7 @@ sources:
 > [!chain-link] 宏观社会治理与[[Geopolitics|地缘政治]]合法化因果推导链
 > - **历史前提：[[Century of Humiliation|百年屈辱]]与救亡图存的集体记忆** 近代遭受列强侵略的历史记忆使国家繁荣被视为洗雪耻辱的必由之路，对外合作寄托着重现历史文明辉煌的心理期许。
 > - **制度支柱：两个一百年目标与大国复兴蓝图** 一带一路被界定为[[National Rejuvenation Narrative|民族复兴]]的核心物质与象征载体，对外教育交流全面服从并服务于这一最高国家利益。
-> - **全球抱负：推广[[China Solution|中国方案]]并重塑国际秩序** 在西方治理危机与[[Washington Consensus|华盛顿共识]]失灵的背景下，中国主打[[South-South Cooperation|南南合作]]与[[Community of Shared Future for Mankind|命运共同体]]，积极输出发展型国家治理经验与[[China Solution|中国方案]]，抗衡西方既有秩序。
+> - **全球抱负：推广[[China Solution|中国方案]]并重塑国际秩序** 在西方治理危机与[[Washington Consensus|华盛顿共识]]失灵的背景下，中国主打[[South-South Cooperation|南南合作]]与[[Community of Shared Future for Mankind|命运共同体]]，积极输出[[Developmental State|发展型国家]]治理经验与[[China Solution|中国方案]]，抗衡西方既有秩序。
 > - **结论：教育作为新型治理话语与[[Knowledge Diplomacy|知识外交]]的制度化传输网络** 一带一路跨国高等教育布局不仅承载[[Soft Power|软实力]]投射，更借由[[Knowledge Diplomacy|知识外交]]的合作网络向发展中国家传播中国发展经验、培养知华友华技术与管理精英。
 
 这一战略构想在治理哲学与运作方式上，展现出与西方战后主导的高等教育模式截然不同的逻辑取向。
@@ -301,7 +303,7 @@ sources:
 > | **治理哲学与[[Epistemology\|认识论]]** | 新自由主义市场化、大学自治、[[Academic Freedom\|学术自由]]与西方普遍人权观念 | 威权发展型国家、强政府战略规划、社会稳定高于政治多元 |
 > | **教育跨国流动动机** | 高等教育作为出口产业牟利（高额学费驱动[[International Education\|国际教育]]准市场） | 国家战略资助与奖学金倾斜，依托[[China Scholarship Council\|国家留学基金管理委员会]]等机构统筹中国政府奖学金，视教育为地缘合作与民心相通的公法推进工具 |
 > | **[[Soft Power\|软实力]]投射路径** | 依赖文化商品流通、自由主义价值观同化与民间公民社会共鸣 | 依托政府间大型基建合作、国家奖学金包揽与治国理政经验输出 |
-> | **在发展中国家的吸引力** | 面临新自由主义私有化紧缩与后殖民依附等广泛学术批评 | 承诺不干涉内政与共同脱贫致富，对追求稳定发展的非西方中等强国更具吸引力 |
+> | **在发展中国家的吸引力** | 面临[[Neoliberalism\|新自由主义]]私有化紧缩与后殖民依附等广泛学术批评 | 承诺不干涉内政与共同脱贫致富，对追求稳定发展的非西方中等强国更具吸引力 |
 
 > [!sub-claim] 2. 依靠经济补贴拉动难掩地缘对抗与草根抵制风险
 

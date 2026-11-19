@@ -9,7 +9,7 @@ title: "Argument_Schulte_2009_EncuentrosEducacion"
 argument_key: "Argument_Schulte_2009_EncuentrosEducacion"
 argument_display_title: "The Chinese Dewey: Friend, fiend, and flagship"
 argument_kind: "journal-article"
-argument_related_count: 30
+argument_related_count: 32
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Scientific Attitude]]"
   - "[[Quality Education]]"
+  - "[[Neoliberalism]]"
   - "[[Creativity Training]]"
   - "[[Abstract]]"
   - "[[Document]]"
@@ -54,6 +55,7 @@ related_persons:
   - "[[Tao Xingzhi]]"
   - "[[Jiang Menglin]]"
   - "[[Confucius]]"
+  - "[[Karl Marx]]"
   - "[[Jean-Jacques Rousseau]]"
 related_facts:
   - "[[May Fourth Movement]]"
@@ -62,7 +64,7 @@ sources:
   - "[[sources/Schulte_2009_EncuentrosEducacion|Schulte_2009_EncuentrosEducacion]]"
 status: draft
 created: 2026-05-26
-updated: 2026-10-30
+updated: 2026-11-19
 year: 2009
 doi: ""
 citation_aliases:
@@ -169,7 +171,7 @@ citation_aliases:
 ---
 
 > [!abstract] 步骤 5：第二时段的再脉络化：如何在毛泽东时代（1949–1976）把杜威变成"魔鬼"
-> 1949 年后斯大林主义在中国的确立带来了对杜威的全面否定。但关键不在于"否定"本身，在于**选择哪些点来攻击以及为什么选这些点**。被挑出来批判的三个靶子，每一个都对应着马克思主义世界观中的一条核心信念。
+> 1949 年后斯大林主义在中国的确立带来了对杜威的全面否定。但关键不在于"否定"本身，在于**选择哪些点来攻击以及为什么选这些点**。被挑出来批判的三个靶子，每一个都对应着[[Karl Marx|马克思]]主义世界观中的一条核心信念。
 
 #### 靶子 1："自然主义"：因为威胁了"社会可以朝预定方向被改造"的信念
 
@@ -240,7 +242,7 @@ Jin Yuelin(1955)的论证暴露了这一焦虑的深度："我们能够认识客
 
 #### 战场 3：反新自由主义的思想武器
 
-最令人吃惊的再脉络化发生在政治经济学领域：杜威取代了马克思的位置。他被用来批评 1990 年代中国"野蛮"的（新）自由主义，被视为"绝不会为了自由牺牲平等"的真正自由主义者，一个负责任的、关注社会正义的自由主义者，与那些主张无条件市场化、私有化的中国新自由主义者形成鲜明对比。
+最令人吃惊的再脉络化发生在政治经济学领域：杜威取代了马克思的位置。他被用来批评 1990 年代中国"野蛮"的（新）自由主义，被视为"绝不会为了自由牺牲平等"的真正自由主义者，一个负责任的、关注社会正义的自由主义者，与那些主张无条件市场化、私有化的中国[[Neoliberalism|新自由主义]]者形成鲜明对比。
 
 > [!example] 这个案例为什么特别重要？
 

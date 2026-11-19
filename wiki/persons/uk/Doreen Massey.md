@@ -9,10 +9,10 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 19
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 21
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1944"
 died: "2016"
 lifespan: "1944–2016"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Space-Making]]"
   - "[[Relational Space]]"
+  - "[[Neoliberalism]]"
   - "[[Methodological Nationalism]]"
   - "[[Sage]]"
   - "[[Heterogeneity]]"
@@ -41,14 +42,15 @@ related_theories:
   - "[[Power-Geometries]]"
   - "[[World-Systems Theory]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Karl Marx]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Marginson_2025_ECNUROE]]"
 confidence: medium
 status: draft
 created: '2026-05-12'
-updated: 2026-10-22
+updated: 2026-11-19
 ---
 
 > [!person-profile] 人物档案
@@ -65,7 +67,7 @@ updated: 2026-10-22
 > - 2005 出版 *For Space*，系统阐述其[[Relational Space\|关系性空间]]理论，代表其最成熟的理论综合
 > - 2016 逝世，享年 72 岁
 >
-> Massey 的学术生涯与英国新自由主义转型、全球化加速和冷战结束后的[[Geopolitics|地缘政治]]重构同期。她的空间理论深受马克思主义政治经济学、女性主义地理学和[[Post-structuralism\|后结构主义]]的影响。[[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]]特别关注的是 Massey 在 *For Space* 中对全球尺度关系性空间的理论化——这一工作为超越[[Methodological Nationalism\|方法论民族主义]]、理解高等教育的全球地缘政治提供了核心概念工具([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 3–11]])。
+> Massey 的学术生涯与英国[[Neoliberalism|新自由主义]]转型、全球化加速和冷战结束后的[[Geopolitics|地缘政治]]重构同期。她的空间理论深受[[Karl Marx|马克思]]主义政治经济学、女性主义地理学和[[Post-structuralism\|后结构主义]]的影响。[[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]]特别关注的是 Massey 在 *For Space* 中对全球尺度关系性空间的理论化——这一工作为超越[[Methodological Nationalism\|方法论民族主义]]、理解高等教育的全球地缘政治提供了核心概念工具([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 3–11]])。
 
 ---
 
@@ -99,7 +101,7 @@ Massey 批判了多种"驯化"空间[[Open-Mindedness|开放性]]的尝试：将
 
 ### 权力几何学
 
-Massey 强调空间关系中的权力不对称：问题不在于抽象的空间形式，而在于空间及其开放与封闭如何通过社会关系被建构——即"空间-时间的不断变化的[[Power-Geometries|权力几何学]]"（Massey, 2005, pp. 93, 166, 171）。在高等教育中，伦敦、英国和美国是"新自由主义资本主义全球"被生产出来的地点；顶尖英美大学也是全球空间的不平等制造者([[Argument_Marginson_2025_ECNUROE|Marginson, 2025, p. 12]])。这一概念在 [[Geopolitics of Knowledge|知识地缘政治]] 分析中具有核心方法论意义。
+Massey 强调空间关系中的权力不对称：问题不在于抽象的空间形式，而在于空间及其开放与封闭如何通过社会关系被建构——即"空间-时间的不断变化的[[Power-Geometries|权力几何学]]"（Massey, 2005, pp. 93, 166, 171）。在高等教育中，伦敦、英国和美国是"[[Neoliberalism|新自由主义]]资本主义全球"被生产出来的地点；顶尖英美大学也是全球空间的不平等制造者([[Argument_Marginson_2025_ECNUROE|Marginson, 2025, p. 12]])。这一概念在 [[Geopolitics of Knowledge|知识地缘政治]] 分析中具有核心方法论意义。
 
 ### 对尺度的方法论贡献
 

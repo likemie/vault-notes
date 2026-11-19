@@ -12,9 +12,9 @@ subtype: organization
 region: singapore
 fact_region: "singapore"
 fact_kind: "organization"
-fact_related_count: 6
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 13
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 tags:
   - fact/organization
@@ -24,6 +24,12 @@ tags:
   - theme/lifelong-learning
   - theme/educational-governance
 related_concepts:
+  - "[[Further Education]]"
+  - "[[Initial Teacher Training]]"
+  - "[[Lifelong Learning]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Workforce Development]]"
+  - "[[Learnology]]"
   - "[[Tactical Marketisation]]"
   - "[[Knowledge Production]]"
 related_theories:
@@ -31,7 +37,8 @@ related_theories:
   - "[[Developmental State]]"
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Saravanan Gopinathan]]"
 related_facts:
   - "[[Manpower 21]]"
 related_arguments:
@@ -47,13 +54,13 @@ updated: 2026-11-19
 > [!org-profile] 机构概况
 > - **成立时间 / 主管部门** 2003 年 9 月由新加坡国会通过专门立法成立，隶属于新加坡人力部（Ministry of Manpower, MOM）。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 63–64)]]
 > - **机构性质** 具有法定独立法人地位的准政府监管与执行机构（Statutory Board）。
-> - **服务对象** 全岛各行业在职人员、转岗失业求职者、企业雇主及经认证的各类职业继续教育培训机构。
-> - **制度位置** 属于新加坡国家技能形成体制（Skill Formation Regime）的执行中枢，直接承接《人力21》战略蓝图，衔接基础职业技术教育（如工艺教育学院 ITE 与理工学院）与成人终身学习网络。
+> - **服务对象** 全岛各行业在职人员、转岗失业求职者、企业雇主及经认证的各类职业[[Further Education|继续教育]]培训机构。
+> - **制度位置** 属于新加坡国家技能形成体制（Skill Formation Regime）的执行中枢，直接承接《[[Manpower 21|人力21]]》战略蓝图，衔接基础职业技术教育（如工艺教育学院 [[Initial Teacher Training|ITE]] 与理工学院）与成人[[Lifelong Learning|终身学习]]网络。
 
 ---
 
 > [!claim] 核心职能
-> 机构通过规划国家继续教育与培训基础设施，开发模块化岗位能力认证规程，联合行业协会与企业定制培训补贴方案，确保劳动力队伍具备灵活适应知识经济产业升级的适聘度与技能储备。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 63–64)]]
+> 机构通过规划国家继续教育与培训基础设施，开发模块化岗位能力认证规程，联合行业协会与企业定制培训补贴方案，确保劳动力队伍具备灵活适应[[Knowledge-Based Economy|知识经济]]产业升级的适聘度与技能储备。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 63–64)]]
 
 > [!feature] 核心业务与制度工具
 > - **国家技能资格框架建构** 推出新加坡劳动力技能资格（Singapore Workforce Skills Qualifications, WSQ）体系，打破学历文凭单一限制，建立按岗位胜任力分级的模块化职业认证。
@@ -61,8 +68,8 @@ updated: 2026-11-19
 > - **培训与就业网络整合** 搭建遍及全岛的职业就业中心（Career Centres），为离职雇员提供一对一职业辅导、技能再造补贴与岗位撮合服务。
 > - **资金精准滴灌** 依托国家终身学习基金与技能发展基金，向合规受训员工及选派员工参训的企业提供 70% 至 90% 的学费资助。
 
-> [!citation-card] 劳动力发展局的适聘度使命与产业导向
-> 高平纳坦论述，2003 年设立的新加坡劳动力发展局（WDA）是国家人力开发的标志性推进。该局的核心使命在于增强雇员与求职者的适聘度与竞争优势，从而打造一支技艺精湛、反应敏捷且能适应经济变迁的新型劳动力队伍。除了协助劳动者保住饭碗，劳动力发展局还推动雇员持续学习和升级技能，引导专业人士向信息通信、数字学习、现代物流、医疗保健及知识产权等高增长部门转型。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 63–64)]]
+> [!citation-card] [[Workforce Development|劳动力发展]]局的适聘度使命与产业导向
+> [[Saravanan Gopinathan|高平纳坦]]论述，2003 年设立的新加坡劳动力发展局（WDA）是国家人力开发的标志性推进。该局的核心使命在于增强雇员与求职者的适聘度与竞争优势，从而打造一支技艺精湛、反应敏捷且能适应经济变迁的新型劳动力队伍。除了协助劳动者保住饭碗，劳动力发展局还推动雇员持续学习和升级技能，引导专业人士向信息通信、数字学习、现代物流、医疗保健及知识产权等高增长部门转型。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 63–64)]]
 >
 > *The key role of the WDA is to help make employees and job seekers more employable and competitive in order to build a workforce that is skilled, nimble and able to meet the changing needs of Singapore's economy. Apart from helping workers keep jobs the agency will help employees constantly learn and upgrade their skills... The Agency will also help retrain and re-skills professionals and executives to transfer to high growth sectors...*
 
@@ -72,7 +79,7 @@ updated: 2026-11-19
 > - 2003 年 9 月 新加坡国会正式通过《新加坡劳动力发展局法案》，机构正式挂牌运作。
 > - 2005 全面推出 WSQ 劳动力技能资格认证体系，分批覆盖数十个关键国民经济细分行业。
 > - 2008 面对全球金融海啸冲击，主导实施“提升技能与应对低迷计划”（SPUR），资助数万名企业员工带薪受训以防范大规模裁员。
-> - 2014 配合国家未来技能（SkillsFuture）倡议升级，扩建全国终身学习学院。
+> - 2014 配合国家未来技能（SkillsFuture）倡议升级，扩建全国终身[[Learnology|学习学]]院。
 > - 2016 年 10 月 因应产业数字化转型深化，该局正式重组为两大专业机构：主管成人终身学习与高教职教协同的“精深技能发展局”（SkillsFuture Singapore, SSG），以及专注劳动力市场就业匹配的“新加坡劳动力局”（Workforce Singapore, WSG）。
 
 ---

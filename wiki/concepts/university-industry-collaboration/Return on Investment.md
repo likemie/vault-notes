@@ -14,7 +14,7 @@ aliases:
 summary: "衡量教育、研发、社会创新或组织协同投入与所产生综合收益之间比率的核心经济学与治理构念。在宏观层面被建构为跨国放贷与远处治理的自指性指标帝国；在中观风险慈善层面演化为以商业纪律与因果量规重塑公共教育再分配的意识形态手段；在微观产学合作层面则通过各方对回报定义的结构性分歧驱动复合创新。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 75
+related_count: 76
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Total Factor Productivity]]"
   - "[[Research Translation]]"
   - "[[Structural Adjustment Programs]]"
+  - "[[Neoliberalism]]"
   - "[[Competitiveness]]"
   - "[[Public-Private Partnership]]"
   - "[[Patent Citation]]"
@@ -111,7 +112,7 @@ related_instruments: []
 confidence: high
 status: stable
 created: 2026-06-02
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -151,7 +152,7 @@ updated: 2026-11-15
 
 > [!feature] 核心测算维度与指标构件
 > - **私人收益率 vs 社会收益率（Private vs Social RORE）** 私人收益率核算个体在扣除直接学杂费与机会成本后的税后工资折现增量；社会收益率则将纳税人承担的公共财政全额成本、税收增益以及正向外部性纳入综合分母，用于衡量国家层面的公共资源配置效率。[[World Bank|世界银行]]坚称教育投资社会收益率测算“经受了三十余年严谨审查的考验”（World Bank, 1995, pp. 20–21；[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 347]]），以此为据将教学有效性窄化为低成本教材教具（黑板、粉笔、教科书）与组织形式（小组合作）的成本效益核算，并导致教师薪资开支成为财政压减的主要靶子。
-> - **公共与私人投资回报的二元分殊与民主公共性剥离（Public vs Private ROI & Democratic Deficit）** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，在新自由主义全球治理下，教育被重新定义为兼具公共与私人投资回报属性的混合商品：公共投资回报体现为提升[[Total Factor Productivity|全要素生产率]]与驱动国家经济[[Competitiveness|竞争力]]，私人投资回报体现为劳动者获取工资溢价与个人社会阶层流动。这一逻辑使教育系统的合法性完全系于其能否产生充分的投资回报（adequate return on investment），但彻底消解了民主意义上的公共善（public good in the democratic sense，如公民审议、社会正义与批判反思）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 449–450)]]
+> - **公共与私人投资回报的二元分殊与民主公共性剥离（Public vs Private ROI & Democratic Deficit）** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，在[[Neoliberalism|新自由主义]]全球治理下，教育被重新定义为兼具公共与私人投资回报属性的混合商品：公共投资回报体现为提升[[Total Factor Productivity|全要素生产率]]与驱动国家经济[[Competitiveness|竞争力]]，私人投资回报体现为劳动者获取工资溢价与个人社会阶层流动。这一逻辑使教育系统的合法性完全系于其能否产生充分的投资回报（adequate return on investment），但彻底消解了民主意义上的公共善（public good in the democratic sense，如公民审议、社会正义与批判反思）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 449–450)]]
 > - **[[Social Impact Investing|社会投资]]回报的因果量规化（SROI Metricization）** [[Venture Philanthropy|风险慈善]]将商业尽职调查与计量经济学相结合，要求受助公立学校通过因果实验量规（如 [[Randomised Controlled Trials|RCT]]、干预效果等效月度）证明微额捐赠带来的附加价值，以量化指标作为后续拨款的先决条件。[[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 3–4]]
 > - **社会投资模式与国家精算治理（Social Investment State & Actuarial Governance）** 新西兰国家党政府推行的“社会投资”（Social Investment）治理模式，将传统基于公民权利的公共普遍服务，转变为以大数据、精算模型和投资回报率（ROI）驱动的精准干预；要求公共支出必须通过降低长期国家财政成本（如减少未来司法监禁、救济金与医疗开支）证明其正当性，深刻改写了公共教育的福利国家属性。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 8, 16, 47)]]
 > - **永续信托投资回报滚存 vs 基层受助分配断裂（Perpetual Endowment Reinvestment vs Grant Allocation Gap）** 在风险慈善与巨型留本信托中，信托投资回报遵循资本市场的“永续资本保值增值”逻辑（Statement of Investment Policies and Objectives），往往将绝大多数投资回报重新滚存入金融市场；如新西兰最大的慈善信托 [[Foundation North]]（净资产 12.15 亿新西兰元，年均投资收益超 1 亿纽币），在 2010–2015 年间仅将投资回报的 23.3% 用于实际慈善资助，其余 76.7% 全部留存再投资，揭示了金融化投资回报增值目标与公立教育紧迫资助需求之间的结构性断裂。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. xiii, 14, 104)]]

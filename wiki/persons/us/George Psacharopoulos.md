@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: "us"
 person_region: "us"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Policy Brokerage]]"
+  - "[[Neoliberalism]]"
   - "[[Causality]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Scientific Method]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -117,7 +118,7 @@ updated: 2026-11-11
 > [!person-network] 关系网络
 > - **师承／共事者** 西奥多·舒尔茨 — 芝加哥学派导师，[[Human Capital Theory\|人力资本理论]]奠基人。
 > - **师承／共事者** 哈里·安东尼·帕特里诺斯 — [[World Bank\|世界银行]]长期科研搭档，共同维护全球教育回报率数据库。
-> - **批评者／论敌** [[Dependency Theory\|依附理论]]学者与批判社会学家 — 批评其过度推行新自由主义成本分担，导致全球南方高等教育阶层不平等加剧。
+> - **批评者／论敌** [[Dependency Theory\|依附理论]]学者与批判社会学家 — 批评其过度推行[[Neoliberalism|新自由主义]]成本分担，导致全球南方高等教育阶层不平等加剧。
 
 ---
 

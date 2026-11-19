@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 35
+person_related_count: 38
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ tags:
   - theory/state-theory
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Neoliberalism]]"
   - "[[Post-Fordism]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Network Governance]]"
@@ -43,6 +44,7 @@ related_concepts:
   - "[[Bureaucracy]]"
 related_theories:
   - "[[Developmental Network State]]"
+  - "[[Developmental State]]"
   - "[[Pasteur's Quadrant]]"
   - "[[Varieties of Capitalism]]"
   - "[[Technological Trajectories]]"
@@ -50,6 +52,7 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
 related_persons:
+  - "[[Karl Marx]]"
   - "[[Erica Fuchs]]"
   - "[[Mariana Mazzucato]]"
   - "[[Chalmers Johnson]]"
@@ -69,14 +72,14 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-12
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国经济社会学家、国家理论学者，加利福尼亚大学戴维斯分校（University of California, Davis）社会学系研究教授。长期从事卡尔·波兰尼（Karl Polanyi）思想、宏观政治经济学与国家创新政策研究。
-> - **核心角色** 在当代国家政治经济学中开创了[[Developmental Network State|发展型网络国家]]（DNS）与“隐藏的发展型国家”（Hidden Developmental State）分析[[Paradigm|范式]]，打破了新自由主义“自由市场放任”与东亚集权“科层发展型国家”的二元对立，揭示了[[Post-Fordism|后福特制]][[Knowledge-Based Economy|知识经济]]下公共部门的去中心化[[Network Governance|网络治理]]本质。
+> - **核心角色** 在当代国家政治经济学中开创了[[Developmental Network State|发展型网络国家]]（DNS）与“隐藏的[[Developmental State|发展型国家]]”（Hidden Developmental State）分析[[Paradigm|范式]]，打破了[[Neoliberalism|新自由主义]]“自由市场放任”与东亚集权“科层发展型国家”的二元对立，揭示了[[Post-Fordism|后福特制]][[Knowledge-Based Economy|知识经济]]下公共部门的去中心化[[Network Governance|网络治理]]本质。
 > - **代表贡献** 确立[[Developmental Network State|发展型网络国家]]理论，系统剖析[[Market Fundamentalism|市场原教旨主义]]对国家产业干预的政治遮蔽，提出将知识视为波兰尼式“虚构商品”并批判激进知识产权制度对跨组织技术协作的侵蚀。
 
 > [!citation-card] 埃文斯论布洛克对美国隐藏发展型国家的发掘
@@ -88,7 +91,7 @@ updated: 2026-11-15
 
 > [!timeline] 生平与职涯
 > - **1947** 出生于美国。后于哥伦比亚大学获得学士学位，并在加利福尼亚大学伯克利分校获得社会学博士学位。
-> - **1970s–1980s** 任教于宾夕法尼亚大学社会学系，期间发表经典著作《国家权力的根基》（*The Roots of International Economic Disorder*, 1977）与《[[Country Ownership|国家自主性]]的唯物主义理论》（1977），成为新马克思主义与韦伯主义国家自主性理论论战的核心代表人物之一。
+> - **1970s–1980s** 任教于宾夕法尼亚大学社会学系，期间发表经典著作《国家权力的根基》（*The Roots of International Economic Disorder*, 1977）与《[[Country Ownership|国家自主性]]的唯物主义理论》（1977），成为新[[Karl Marx|马克思]]主义与韦伯主义国家自主性理论论战的核心代表人物之一。
 > - **1990s** 转任加利福尼亚大学戴维斯分校社会学系教授，深耕经济社会学与福利国家转型研究，系统重访卡尔·波兰尼的《大转型》，推动经济社会学“嵌入性”概念的当代复兴。
 > - **2000s** 在福特基金会与长景研究所资助下，聚焦美国联邦研发投资与产业政策，于 2008 年在《Politics & Society》发表标志性文章《逆流而上：美国[[Developmental Network State|隐藏的发展型国家]]的崛起》，正式奠定发展型网络国家（DNS）理论。[[Argument_Block_2008_PS|(Block, 2008, pp. 169–170)]]
 > - **2010s–至今** 与玛格丽特·萨默斯（Margaret Somers）合著《[[Market Fundamentalism|市场原教旨主义]]的权力》（*The Power of Market Fundamentalism*, 2014），持续介入美国当代产业战略、民主问责与累进资本税制改革的公共辩论。

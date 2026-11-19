@@ -8,7 +8,7 @@ aliases:
 summary: "以多元行动者横向协作、关系协调与异层结构替代垂直科层或纯粹市场的公共治理方式；在批判教育政策与演化科技政策中揭示国家并未空心化退场，是表现为积极特许赋权、资助中介并缔造市场的异层担保人，以及通过去中心化探索网络引领使命导向创新的催化者。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 85
+related_count: 86
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Embedded Network Governance]]"
   - "[[Network Plasticity]]"
   - "[[Vertical Disintegration]]"
+  - "[[Neoliberalism]]"
   - "[[New Public Management]]"
   - "[[Champ]]"
   - "[[Steering at a Distance]]"
@@ -117,7 +118,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-05-04
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -228,7 +229,7 @@ updated: 2026-11-11
 > **批判治理学维度：公共能力侵蚀、商业俘获与民主赤字** 揭露网络治理如果沦为对私人咨询寡头的被动依赖，将造成严重的国家去能力化与公共决策黑箱。
 
 > [!claim] O'Neill et al., Rowe & Mazzucato
-> **公司法外壳与商业外包造成的民主赤字与能力空心化** 约翰·奥尼尔与埃玛·罗威等学者指出，当网络治理被新自由主义[[New Public Management|新公共管理]][[Discourse|话语]]主导时，中介组织往往依据《公司法》注册为独立担保有限公司，借此规避公法所要求的政府信息公开义务；多重兼职高管在闭门董事会中内定公共议程，造成了严重的民主问责赤字。马祖卡托进一步警示，若政府将核心战略分析与技术评估全盘外包给商业咨询公司，将从内部抽空公共行政团队的专业动态能力，使国家沦为被咨询巨头和游说利益俘获的被动提款机。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. xv)]]; [[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, pp. 530–533)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
+> **公司法外壳与商业外包造成的民主赤字与能力空心化** 约翰·奥尼尔与埃玛·罗威等学者指出，当网络治理被[[Neoliberalism|新自由主义]][[New Public Management|新公共管理]][[Discourse|话语]]主导时，中介组织往往依据《公司法》注册为独立担保有限公司，借此规避公法所要求的政府信息公开义务；多重兼职高管在闭门董事会中内定公共议程，造成了严重的民主问责赤字。马祖卡托进一步警示，若政府将核心战略分析与技术评估全盘外包给商业咨询公司，将从内部抽空公共行政团队的专业动态能力，使国家沦为被咨询巨头和游说利益俘获的被动提款机。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. xv)]]; [[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, pp. 530–533)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
 
 ---
 

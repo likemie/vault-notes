@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 163
+person_related_count: 169
 person_related_level: 16
 person_related_stars: "💎💎💎💎💎⭐"
 person_related_color: "#fef3c7"
@@ -54,13 +54,16 @@ related_concepts:
   - "[[Learning Strategies]]"
   - "[[Structural Coupling]]"
   - "[[Problem-Based Learning]]"
+  - "[[Metacognition]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Epistemology]]"
+  - "[[Theoretical Standpoint]]"
+  - "[[Problem Solving]]"
+  - "[[Causality]]"
   - "[[Direct Instruction]]"
   - "[[Mastery Learning]]"
-  - "[[Metacognition]]"
   - "[[Effective Teaching]]"
   - "[[Surface and Deep Learning]]"
-  - "[[Epistemology]]"
   - "[[Policy Brokerage]]"
   - "[[Professional Judgment]]"
   - "[[Knowledge Mobilisation]]"
@@ -68,6 +71,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Technical Rationality]]"
   - "[[Reliability]]"
+  - "[[Neoliberalism]]"
   - "[[Hypothesis]]"
   - "[[Critical Thinking]]"
   - "[[Blind Spot in Observation]]"
@@ -98,6 +102,7 @@ related_concepts:
   - "[[Scaffolding]]"
 related_theories:
   - "[[Walberg's Educational Productivity Model]]"
+  - "[[Knowledge Building Theory]]"
   - "[[Radical Constructivism]]"
   - "[[Critical Theory]]"
   - "[[Legitimation Crisis]]"
@@ -137,6 +142,7 @@ related_persons:
   - "[[Klaus Nielsen]]"
   - "[[Thomas Aastrup Rømer]]"
   - "[[Jürgen Habermas]]"
+  - "[[Charles Taylor]]"
 related_arguments:
   - "[[Argument_Knudsen_2017_NordSTEP]]"
   - "[[Argument_Higgins_2016_ROE]]"
@@ -196,7 +202,7 @@ related_instruments:
 confidence: medium
 status: active
 created: '2026-05-02'
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -268,7 +274,7 @@ updated: 2026-11-18
 ---
 
 > [!person-thesis] 主张一｜教与学的可见性是教学效能的核心机制
-> 教学最显著的效能发生在教师成为自身教学的学习者、学生成为自身教师的过程之中。使“教对学生可见、使学对教师可见”构成了穿透传统黑箱教学的核心机制。教师必须依托评价证据持续反思与调适自身教学，而学生则须习得自我调节与元认知监控能力。[[Argument_McKnight_2020_Discourse|(McKnight & Whitburn, 2020, p. 40)]]
+> 教学最显著的效能发生在教师成为自身教学的学习者、学生成为自身教师的过程之中。使“教对学生可见、使学对教师可见”构成了穿透传统黑箱教学的核心机制。教师必须依托评价证据持续反思与调适自身教学，而学生则须习得自我调节与[[Metacognition|元认知监控]]能力。[[Argument_McKnight_2020_Discourse|(McKnight & Whitburn, 2020, p. 40)]]
 >
 > > [!thesis-quote] McKnight & Whitburn 转述 Hattie 论可见教与学之本质
 > > 当教师成为自身教学的学习者、学生成为自身教师时，对学生学习产生最大效应。
@@ -276,15 +282,15 @@ updated: 2026-11-18
 > > *The remarkable feature of the evidence is that the biggest effects on student learning occur when teachers become learners of their own teaching, and when students become their own teachers.*
 
 > [!person-thesis] 主张二｜教师必须担当主动干预与持续反馈的激活者
-> 建构主义作为认识论主要解释知识建构与认知发生的心理机制，无法直接替代教学论与教学实践。教师在课堂中绝不能退化为消极旁观或任由学生自行摸索的“促进者”，而必须成为主动设计教学、明确指导方向、提供高频反馈并持续监控理解进程的“激活者”。实证综合表明激活者角色的效应量（$d=0.60$）显著超越消极促进者（$d=0.17$）。[[Argument_Terhart_2011_JCS|(Terhart, 2011, p. 433)]]
+> [[Constructivist Paradigm|建构主义]]作为[[Epistemology|认识论]]主要解释[[Knowledge Building Theory|知识建构]]与认知发生的心理机制，无法直接替代教学论与教学实践。教师在课堂中绝不能退化为消极旁观或任由学生自行摸索的“促进者”，而必须成为主动设计教学、明确指导方向、提供高频反馈并持续监控理解进程的“激活者”。实证综合表明激活者角色的效应量（$d=0.60$）显著超越消极促进者（$d=0.17$）。[[Argument_Terhart_2011_JCS|(Terhart, 2011, p. 433)]]
 >
 > > [!thesis-quote] Terhart 引述 Hattie 论教师作为激活者
 > > [[Constructivist Paradigm\|建构主义]]解释的是知晓与认知的发生机制，教学实践则要求教师成为主动的激活者，指导学习、提供反馈并监控理解过程。
 > >
 > > *Constructivism is a theory of knowing, not a theory of teaching... Teaching requires teachers to be activators who direct learning, provide [[Feedback]], and monitor understanding.*
 
-> [!person-thesis] 主张三｜实证证据必须通过理论透镜进行审慎解释
-> 以效应量为基准的元分析证据为教育决策与学校改进提供了经验标尺，并充当专业问题解决的假设起点。对证据的学术解读取决于理论透镜的选择与引导，研究者与实践者需关注相关性向因果关系外推时的条件限制。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 258–259)]]
+> [!person-thesis] 主张三｜实证证据必须通过[[Theoretical Standpoint|理论透镜]]进行审慎解释
+> 以效应量为基准的元分析证据为教育决策与学校改进提供了经验标尺，并充当专业[[Problem Solving|问题解决]]的假设起点。对证据的学术解读取决于理论透镜的选择与引导，研究者与实践者需关注相关性向[[Causality|因果关系]]外推时的条件限制。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 258–259)]]
 >
 > > [!thesis-quote] Knudsen 访谈 Hattie 论证据与理论的主导关系
 > > 证据不意味着不应该有理论。证据是被解释的；证据通过镜头解释，那个镜头就是理论。理论是主导的。
@@ -324,7 +330,7 @@ updated: 2026-11-18
 >
 > *Gleichwohl gebühren Hattie für seine Pionierarbeit aus unserer Sicht wertvolle und bleibende Verdienste. Sie liegen vor allem darin, dass er auf ein grundlegendes Problem aufmerksam gemacht hat: Weltweit werden kontinuierlich öffentliche Mittel für Forschung aufgewendet – deren Ergebnisse oftmals nicht belastbar sind.*
 
-> [!citation-card] [[Ewald Terhart|特哈特]]论可见性治理与新自由主义中央集权
+> [!citation-card] [[Ewald Terhart|特哈特]]论可见性治理与[[Neoliberalism|新自由主义]]中央集权
 > 很明显 Hattie 事实上没有找到圣杯……这场论战实质上是自下而上的学校改革者反对技术官僚的、行政驱动的、中央集权的新自由主义策略。[[Argument_Terhart_2011_JCS|(Terhart, 2011, p. 435)]]
 >
 > *“It is obvious that Hattie in fact has not found the Holy Grail... It is a debate of bottom-up school improvers against technocratic, administratively driven, centralist neo-liberal strategies.”*
@@ -408,7 +414,7 @@ updated: 2026-11-18
 > - [[Argument_Allerup_2015_Paideia|Allerup, 2015]] — 效应量排名[[Sample Size Determination|样本量]]依赖、[[Confidence Interval|置信区间]]缺失与[[Socioeconomic Status|社会经济背景]]控制批评。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al., 2016]] — 推导两级固定效应代数等价性定理与六步规程，以 Eisenstaedt（10倍虚增）、Haas（权重削减53%）及 Olson & Wisher（93%重叠致排名雪崩）实证解构超级元分析可行性。
 > - [[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017]] — 统计学视角审查：CLES 负概率初等计算错误、基线反转致效应量解释颠覆、受控数值模拟证实三类有效公式排名彻底相反、相关向均值差换算极值爆炸（$r=0.196 \to d=0.40$ 仅解释 3.85% 方差）及伪科学定性。
-> - [[Argument_Eacott_2017_SLM|Eacott, 2017]] — 澳大利亚[[School Leadership|学校领导力]]屈从于大师崇拜与新泰勒主义批判。
+> - [[Argument_Eacott_2017_SLM|Eacott, 2017]] — 澳大利亚[[School Leadership|学校领导力]]屈从于大师崇拜与新[[Charles Taylor|泰勒]]主义批判。
 > - [[Argument_Zhao_2017_JEC|Zhao, 2017]] — 直接教学（DI）效应量证据背后的创造力抑制与非生产性成功副作用。
 > - [[Argument_Rømer_2018_EPT|Rømer, 2018]] — 五线哲学批判：评价理论篡位教育、激进[[Constructivist Paradigm|建构主义]]消解教学与[[Dependent Variable|因变量]]不清。
 > - [[Argument_Larsen_2019_EducSci|Larsen, 2019]] — [[Phenomenology|现象学]]与自由哲学视角的“盲视”（Blindness）框架批判与 Bildung 替代。

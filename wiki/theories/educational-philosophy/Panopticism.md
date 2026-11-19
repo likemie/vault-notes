@@ -10,7 +10,7 @@ aliases:
 summary: "源于边沁建筑构想并由福柯系统阐述的微观权力理论，指出权力依托可见性的结构性非对称与潜在注视假定，将外部强制转化为被监视者的内在心理自律，广泛用于解构教育测验软件、绩效问责与数字全景监控。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 44
+theory_related_count: 45
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Determinism]]"
   - "[[Teacher Professional Agency]]"
+  - "[[Neoliberalism]]"
   - "[[Barometer of Achievement]]"
   - "[[Ontology]]"
 related_theories:
@@ -75,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-16
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -198,7 +199,7 @@ updated: 2026-11-15
 > [!critique] 批评索引
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 批评数据全景监控将专业教学窄化为可度量气压计指标，系统压缩了教师的专业能动性。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 揭示双向可见性修辞背后的微观支配，批评其遮蔽了课堂教育的实质教化维度。
-> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 批判跨国测评将全景敞视转化为新自由主义治理工具，侵害了教育系统的多样性与主体自主。（p. 423）
+> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 批判跨国测评将全景敞视转化为[[Neoliberalism|新自由主义治理]]工具，侵害了教育系统的多样性与主体自主。（p. 423）
 
 ---
 

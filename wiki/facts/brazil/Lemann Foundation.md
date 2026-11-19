@@ -9,9 +9,9 @@ subtype: organization
 region: brazil
 fact_region: "brazil"
 fact_kind: "organization"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: "独立私立教育慈善基金会"
 headquarters: "圣保罗（巴西）"
@@ -26,6 +26,7 @@ tags:
   - theme/sdg-4
 related_concepts:
   - "[[Output-Oriented Governance]]"
+  - "[[Neoliberalism]]"
   - "[[Funder Coalition for URE]]"
 related_theories: []
 related_methods: []
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-26
+updated: 2026-11-19
 ---
 
 ---
@@ -75,7 +76,7 @@ updated: 2026-10-26
 ---
 
 > [!tension] 制度阻滞与实务挑战
-> - **私立慈善介入国家公共权力的合法性争议** 作为私立资本设立的基金会，深度主导国家课程大纲与公共政策制定曾引发巴西教师工会与左翼学者的审视，批评其可能将新自由主义管理主义与量化问责逻辑植入公共教育肌理。
+> - **私立慈善介入国家公共权力的合法性争议** 作为私立资本设立的基金会，深度主导国家课程大纲与公共政策制定曾引发巴西教师工会与左翼学者的审视，批评其可能将[[Neoliberalism|新自由主义]]管理主义与量化问责逻辑植入公共教育肌理。
 > - **联邦高度去中心化体制下的落地阻尼** 巴西各州市拥有高度自主的行政裁量权，中央政策出台后，边远贫困学区在贯彻落实 BNCC 循证教学标准时仍面临师资匮乏与资源断层。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, p. 16)]]
 
 ---

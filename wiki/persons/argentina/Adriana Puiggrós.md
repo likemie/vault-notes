@@ -10,10 +10,10 @@ cssclasses:
   - person-page
 nationality: argentina
 person_region: "argentina"
-person_related_count: 28
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 30
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1941"
 died: ""
 lifespan: "1941–至今"
@@ -25,6 +25,7 @@ tags:
   - latin-america
   - region/argentina
 related_concepts:
+  - "[[Neoliberalism]]"
   - "[[Pedagogical Subject]]"
   - "[[Paradigm]]"
   - "[[Dialogue in Education]]"
@@ -50,6 +51,7 @@ related_theories:
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Karl Marx]]"
   - "[[Liliana Esther Olmos]]"
   - "[[Carlos Alberto Torres]]"
   - "[[Paulo Freire]]"
@@ -62,14 +64,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-30
+updated: 2026-11-19
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 阿根廷著名马克思主义教育史学家、批判比较教育学家、政策实践者与左翼政治家；布宜诺斯艾利斯大学哲学与文学系荣休教授，曾任阿根廷教育部副部长、布宜诺斯艾利斯省教育文化总局局长及拉美比较教育学会（SAECE）会长。
-> - **核心角色** 拉美激进教育史与教育政治社会学领域的核心开拓者；开创拉美教育制度历史替代方案研究计划（APPEAL）；其学术工作深刻揭示了国家统治霸权、[[Neocorporatism|法团主义]]恩庇与帝国主义干预如何塑造学校教育，并在与托雷斯的合作中系统论证了新自由主义国家撤资对公共[[Pedagogical Subject|教育主体]]（Pedagogical Subjects）的瓦解效应。
+> - **身份位置** 阿根廷著名[[Karl Marx|马克思]]主义教育史学家、批判比较教育学家、政策实践者与左翼政治家；布宜诺斯艾利斯大学哲学与文学系荣休教授，曾任阿根廷教育部副部长、布宜诺斯艾利斯省教育文化总局局长及拉美比较教育学会（SAECE）会长。
+> - **核心角色** 拉美激进教育史与教育政治社会学领域的核心开拓者；开创拉美教育制度历史替代方案研究计划（APPEAL）；其学术工作深刻揭示了国家统治霸权、[[Neocorporatism|法团主义]]恩庇与帝国主义干预如何塑造学校教育，并在与托雷斯的合作中系统论证了[[Neoliberalism|新自由主义]]国家撤资对公共[[Pedagogical Subject|教育主体]]（Pedagogical Subjects）的瓦解效应。
 > - **代表贡献** 提出系统的拉美教育历史分期与批判[[Paradigm|范式]]；出版《帝国主义与拉丁美洲教育》（1980）、《受主体困扰的臣民：阿根廷[[Dialogue in Education|教育对话]]》（1990）以及《拉丁美洲的国家与公共教育》（与托雷斯合著，1995/2007）。
 
 > [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论[[Adriana Puiggrós|普伊格罗斯]]对国家撤资与教育主体瓦解的批判

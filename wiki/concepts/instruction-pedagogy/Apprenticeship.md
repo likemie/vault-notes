@@ -39,7 +39,6 @@ related_concepts:
   - "[[National Innovation System]]"
   - "[[Policy Conditionalities]]"
   - "[[Modern Industrial Policy]]"
-  - "[[Refined Mastery]]"
   - "[[Intellectual Capital]]"
   - "[[Outcome-Based Apprenticeship Funding]]"
   - "[[Innovation Ecosystem]]"
@@ -48,11 +47,12 @@ related_concepts:
   - "[[Cognitive Apprenticeship]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Institutional Complementarity]]"
+  - "[[Neoliberalism]]"
   - "[[Paradigm]]"
   - "[[Absorptive Capacity]]"
-  - "[[Document]]"
 related_theories:
   - "[[Developmental Network State]]"
+  - "[[Developmental State]]"
   - "[[Varieties of Capitalism]]"
   - "[[Systems of Innovation]]"
 related_methods: []
@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-11-03
+updated: 2026-11-19
 ---
 
 ---
@@ -170,7 +170,7 @@ updated: 2026-11-03
 > **[[Tacit Knowledge|隐性知识]]与[[Technological Catch-up|技术赶超]]机制** 探讨后发国家在面对先发国技术封锁时，如何突破物化设备引进的表层局限，通过组织学徒制带徒实现内生工艺掌握。
 
 > [!claim] [[Chris Freeman|Freeman, C.]]
-> **隐性知识与国家[[Technology Transfer|技术转移]]** 机械装备与工业母机制造高度依赖发明家车间里长年积累的隐性操作诀窍；普鲁士在 19 世纪上半叶之所以能够成功超越英国，关键在于政府不仅引进了先进母机，更通过优厚待遇吸纳英国熟练工匠进驻本土工坊带徒传艺，依托工匠网络的现场示范培养了大批[[Refined Mastery|精通]]逆向工程的本土技术工人，从而打破了英国的技术禁运垄断。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 6–7)]]
+> **隐性知识与国家[[Technology Transfer|技术转移]]** 机械装备与工业母机制造高度依赖发明家车间里长年积累的隐性操作诀窍；普鲁士在 19 世纪上半叶之所以能够成功超越英国，关键在于政府不仅引进了先进母机，更通过优厚待遇吸纳英国熟练工匠进驻本土工坊带徒传艺，依托工匠网络的现场示范培养了大批精通逆向工程的本土技术工人，从而打破了英国的技术禁运垄断。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 6–7)]]
 
 > [!claim] [[Friedrich List|List, F.]]
 > **无形[[Intellectual Capital|知识资本]]超越物质资本** 国家的长期生产力优势在于全社会工匠与劳动者吸纳并世代累积生产技能的能力，有别于单纯取决于机器等物质资本的多寡；国家必须积极扶持职业技术学校与学徒培训网络，将工业生产与智力资本建设紧密绑定。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 6, 8)]]
@@ -217,7 +217,7 @@ updated: 2026-11-03
 > | **政策附加条件与技能形成** | 注册学徒制是现代产业政策克服企业培训短视、绑定[[Public Value\|公共价值]]的契约手段 | 现代半导体制造、绿色基础设施建设与产业补贴规制 | [[Argument_Reynolds_2024_JICT\|Reynolds (2024)]] |
 > | **工艺知识与硬件创新基础** | 注册学徒制与工匠学者是维系现场工艺知识、打破设计制造割裂的战略基石 | 先进制造回流、高需求技术证书改革与国家科技领导力 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] |
 > | **微电子洁净室技师通道** | 注册学徒制与社区学院微凭证联动，化解晶圆制造技师荒并构筑技能提升阶梯 | 国家芯片战略、全谱系劳动力培育与产线设备维护 | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] |
-> | **高技术制造技能断层与外包危机** | 忽视学徒制与生产劳工技能投资导致高技术技工断层，迫使先进制造离岸外流；需由低工资道路转向三方协同技能体系 | 隐性发展型国家弊端、先进制造离岸外包、平板显示与芯片制造技能短缺 | [[Fred Block\|Block (2008)]] |
+> | **高技术制造技能断层与外包危机** | 忽视学徒制与生产劳工技能投资导致高技术技工断层，迫使先进制造离岸外流；需由低工资道路转向三方协同技能体系 | 隐性[[Developmental State\|发展型国家]]弊端、先进制造离岸外包、平板显示与芯片制造技能短缺 | [[Fred Block\|Block (2008)]] |
 
 ---
 
@@ -255,7 +255,7 @@ updated: 2026-11-03
 > > [!axis] 低工资灵活雇佣道路 vs 高技能学徒制合作道路
 > > 围绕高技术制造应当采取削减培训开支的“低成本劳动力”模式，还是依托学徒制建设高技能劳工队伍的争论。
 > >
-> > - **新自由主义灵活用工派** 认为高技术企业应专注于研发与无形资产，制造现场可通过临时工、压缩福利与外包来控制成本。
+> > - **[[Neoliberalism|新自由主义]]灵活用工派** 认为高技术企业应专注于研发与无形资产，制造现场可通过临时工、压缩福利与外包来控制成本。
 > > - **高技能产业韧性派（[[Argument_Block_2008_PS|Block, 2008]]）** 指出高科技生产高度依赖工人现场默会技能与紧密劳资合作，推行低工资模式只会导致本土技能断层，并在产能爬坡时因缺乏训练有素的技工而被动将高价值产业拱手让给注重三方协同技能培育的海外对手。
 
 > [!warning] 适用局限

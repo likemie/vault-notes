@@ -21,6 +21,7 @@ tags:
   - region/china
   - region/eu
 related_concepts:
+  - "[[Neoliberalism]]"
   - "[[Research Universities]]"
   - "[[Modern Industrial Policy]]"
   - "[[STEM Education]]"
@@ -51,16 +52,16 @@ sources:
 part_of:
 status: active
 created: 2026-10-05
-updated: 2026-10-29
+updated: 2026-11-19
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Brint_2023_IHE"
 argument_key: "Argument_Brint_2023_IHE"
 argument_display_title: "The US “CHIPS and Science” Act launches industrial policy as counter to China"
 argument_kind: "journal-article"
-argument_related_count: 19
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 20
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "International Higher Education"
 book_title: ""
@@ -71,7 +72,7 @@ issuing_organization: ""
 ---
 
 > [!question]
-> 在大国科技竞争加剧以及中国科技实力快速追赶的背景下，美国长达十余年未有重大立法的联邦科技政策为何在 2022 年发生转向？这部长达千页的《[[CHIPS and Science Act|芯片与科学法案]]》如何打破过去四十年由市场主导的新自由主义传统，转而由政府直接挑选重点行业进行干预？这种政策转向能给美国[[Research Universities|研究型大学]]和理工科人才培养带来哪些实际经费与发展机会，又面临哪些落实难题？同时，美国、中国和欧洲在科技发展道路上分别呈现出怎样不同的战略思路？
+> 在大国科技竞争加剧以及中国科技实力快速追赶的背景下，美国长达十余年未有重大立法的联邦科技政策为何在 2022 年发生转向？这部长达千页的《[[CHIPS and Science Act|芯片与科学法案]]》如何打破过去四十年由市场主导的[[Neoliberalism|新自由主义]]传统，转而由政府直接挑选重点行业进行干预？这种政策转向能给美国[[Research Universities|研究型大学]]和理工科人才培养带来哪些实际经费与发展机会，又面临哪些落实难题？同时，美国、中国和欧洲在科技发展道路上分别呈现出怎样不同的战略思路？
 
 > [!claim] 核心主张
 > [[Steven Brint|史蒂文·布林特]]（Steven Brint）指出，2022 年美国通过的《[[CHIPS and Science Act|芯片与科学法案]]》标志着联邦政府正式打破长达四十年的新自由主义市场中立传统，首次以国家法律的形式确立了以应对中国科技竞争为直接目标的[[Modern Industrial Policy|现代产业政策]]。法案通过为半导体制造业提供巨额补贴、圈定前沿关键技术、大幅增加两大科研机构的预算，给美国高水平[[Research Universities|研究型大学]]与科学、技术、工程与数学（Science, Technology, Engineering, and Mathematics, [[STEM Education|STEM]]）教育带来重大利好。然而，美国立法程序中授权预算能否真正落实为国会实际拨付的资金存在巨大的制度落差；加之中国在工科毕业生规模和自上而下的科研动员上拥有显著优势，法案能否实现预期的竞争目标仍面临严峻考验。

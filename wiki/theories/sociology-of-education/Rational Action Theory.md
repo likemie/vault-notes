@@ -32,6 +32,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Bureaucracy]]"
   - "[[Postpositivism]]"
+  - "[[Neoliberalism]]"
   - "[[Strategic Compliance]]"
   - "[[Variable]]"
 related_theories:
@@ -62,12 +63,11 @@ related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch06]]"
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
-related_instruments:
-  - "[[Remote Associates Test]]"
+related_instruments: []
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-11-17
+updated: 2026-11-19
 ---
 
 ---
@@ -181,7 +181,7 @@ updated: 2026-11-17
 > > 比较教育与全球体系学者批评西方理性选择模型暗含了资本主义劳动力市场的普世有效性假设，遮蔽了外围社群的主动抗争。
 > >
 > > - **德梅拉斯（Demerath, 1999; 引自 Arnove, 2009）** 在巴布亚新几内亚的[[Ethnography|民族志研究]]证实，当西方输入的现代文凭导致青年就业无望时，本土青年主动通过嘲弄升学、重构村落生活自尊来击碎抽象的西方成本效益模型。（Demerath, 1999; 引自 [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 109–110]]）
-> > - **[[Robert Arnove|阿诺夫]]（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）** 指出若不将微观行动者的理性置于宏观依附关系与本土文化意义中审视，主流理性选择分析势必沦为新自由主义教育政策的辩护工具。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
+> > - **[[Robert Arnove|阿诺夫]]（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）** 指出若不将微观行动者的理性置于宏观依附关系与本土文化意义中审视，主流理性选择分析势必沦为[[Neoliberalism|新自由主义]]教育政策的辩护工具。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
 
 > > [!axis] 规则遵从的静态均衡假定 vs 动态政治博弈
 > > [[Historical Institutionalism|历史制度主义]]与政治社会学学者批评理性选择理论将规则遵从（[[Strategic Compliance|compliance]]）预设为已知收益矩阵下的静态均衡，忽视了制度内在的模糊性与分配冲突。

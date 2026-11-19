@@ -9,7 +9,7 @@ aliases:
 summary: "卡罗尔·巴奇提出的批判政策分析框架，主张政策通过特定问题表征主动建构治理对象而非中立解决既定客观问题；依托六个递进问题解构政策底层假设、历史谱系、话语沉默、主体化效果与抗争可能。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 27
+theory_related_count: 28
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Epoché]]"
   - "[[Research Question]]"
   - "[[Policy Network]]"
+  - "[[Neoliberalism]]"
 related_theories:
   - "[[Post-structuralism]]"
   - "[[Governmentality]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-06
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -148,7 +149,7 @@ updated: 2026-11-11
 ---
 
 > [!theory-boundary] 局限性与适用边界
-> - **适合分析** 官方政策文本的批判性解构、新自由主义意识形态修辞分析、隐藏权力关系挖掘与宏观主体化效应审视。
+> - **适合分析** 官方政策文本的批判性解构、[[Neoliberalism|新自由主义意识形态]]修辞分析、隐藏权力关系挖掘与宏观主体化效应审视。
 > - **成立条件** 政策文本与官方档案具备较高的公开性与可获取性；分析者需具备反思自身立场的前设自省能力。
 > - **解释不足** 过度偏重于文本解构与[[Discourse Analysis|话语分析]]，对基层学校微观情境中政策执行的日常妥协、权宜应付与隐性抵制解释力相对较弱，需结合微观田野方法互补。
 > - **转化困难** 识别“话语沉默”高度依赖分析者的理论敏锐度与比较参照系，容易引入主观价值预判。

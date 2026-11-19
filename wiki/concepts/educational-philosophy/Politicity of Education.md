@@ -9,7 +9,7 @@ aliases:
 summary: "批判教育学揭示的教育本质属性，拒绝技术官僚主义的价值中立虚构，主张教育在认识论、分析与伦理维度上天然内嵌于权力关系、国家意志与意识形态对抗之中，学校教育本质上是多元社会政治经济方案博弈的争鸣场域"
 type: concept
 domain: "educational-philosophy"
-related_count: 37
+related_count: 39
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -23,9 +23,11 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
-  - "[[Value Neutrality]]"
   - "[[Champ]]"
+  - "[[Value Neutrality]]"
+  - "[[Neoliberalism]]"
   - "[[Discourse]]"
+  - "[[Parteilichkeit]]"
   - "[[Conscientization]]"
   - "[[Subjectivism]]"
   - "[[Official Knowledge]]"
@@ -66,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-11-03
+updated: 2026-11-19
 ---
 
 ---
@@ -76,8 +78,8 @@ updated: 2026-11-03
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一切教育行动、课程知识选择与制度规划所必然承载的权力归属、阶级利益与价值立场。
-> - **用途** 瓦解技术官僚与新自由主义经济学家用“科学客观”包装教育政策的去政治化[[Discourse|话语]]。
-> - **边界** 政治性不等于狭隘的政党政治宣传（Partisanship）或党派灌输，是要求研究者与教育者对自身理论预设、价值取向与服务阶层保持清醒的认识论反思。
+> - **用途** 瓦解技术官僚与[[Neoliberalism|新自由主义]]经济学家用“科学客观”包装教育政策的去政治化[[Discourse|话语]]。
+> - **边界** 政治性不等于狭隘的政党政治宣传（[[Parteilichkeit|Partisanship]]）或党派灌输，是要求研究者与教育者对自身理论预设、价值取向与服务阶层保持清醒的认识论反思。
 
 > [!citation-card] 弗莱雷论教育固有的政治性
 > 尽管倡导“技术官僚”或“技术主义”取向的教育研究、课程与政策制定者坚信教育可以脱离政治，但教育既非政治中立，亦非技术“客观”。正如保罗·弗莱雷在其著作中所一贯主张的那样，教育具有固有的“政治性”，这种政治性具有认识论、分析与伦理层面的深远意涵。这种政治性首先关乎教育与权力之间明晰而微妙的纽带；同时，它也关乎国家与公共教育作为争鸣场域的政治本质，即在这个场域中展开商品与服务的交换，以及各政治经济路线之间的激烈竞争。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 77–78)]]

@@ -12,7 +12,7 @@ cssclasses:
   - person-page
 nationality: "us"
 person_region: "us"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Demonstration Effect]]"
   - "[[Demand-side Innovation Policy]]"
   - "[[Market Shaping and Creating]]"
+  - "[[Neoliberalism]]"
   - "[[Market Failure]]"
   - "[[Sage]]"
 related_theories:
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -92,7 +93,7 @@ updated: 2026-11-15
 
 > [!influence-path] 影响路径
 > - **[[Demand-side Innovation Policy|需求侧创新政策]]奠基** 施尼关于[[Assured Demand|确定性需求]]与微观[[Learning Economy|学习经济]]结合的研究，直接启迪了[[David C. Mowery|大卫·C·莫厄里]]（[[David C. Mowery]]）与雅各布·埃德勒（Jakob Edler）关于[[Demand-side Innovation Policy|需求侧创新政策]]的系统建构。
-> - **[[Market Shaping and Creating|市场塑造]]与企业型国家实证源头** 施尼提供的战后半导体与计算机采购历史数据，成为[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（[[Mariana Mazzucato]]）等当代学者论证市场塑造与共创及批判新自由主义[[Market Failure|市场失灵理论]]的关键实证基石。
+> - **[[Market Shaping and Creating|市场塑造]]与企业型国家实证源头** 施尼提供的战后半导体与计算机采购历史数据，成为[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（[[Mariana Mazzucato]]）等当代学者论证市场塑造与共创及批判[[Neoliberalism|新自由主义]][[Market Failure|市场失灵理论]]的关键实证基石。
 > - **[[Human Capital Theory|人力资本]]与衍生网络实证** 施尼对[[Bell Labs|贝尔实验室]] 15 家衍生企业的实证追踪，为[[Human Capital Theory|人力资本理论]]在微电子与硅谷创新网络中的具体化提供了经典经验案例。
 
 ---

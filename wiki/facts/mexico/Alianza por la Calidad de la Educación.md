@@ -11,7 +11,7 @@ subtype: policy
 region: mexico
 fact_region: "mexico"
 fact_kind: "policy"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[Academic Achievement]]"
   - "[[Competitiveness]]"
+  - "[[Neoliberalism]]"
   - "[[Normal School]]"
   - "[[Evaluation Research]]"
   - "[[School Leadership]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-27
-updated: 2026-11-02
+updated: 2026-11-19
 ---
 
 ---
@@ -72,7 +73,7 @@ updated: 2026-11-02
 > - **约束机制** 建立独立的外部评估机构负责考评组织，打破地方教育局与工会的联合庇护；将教师年度绩效奖金（Carrera Magisterial）的相当权重同所带班级学生的标准化测试达标率直接挂钩。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, p. 67)]]
 
 > [!citation-card] [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] 论墨西哥教育质量联盟的制度重塑
-> 墨西哥在 2000 年及随后的 PISA 测评中持续处于 OECD 成员国垫底水平。为扭转劣势，墨西哥政府于 2008 年联合墨西哥全国教育工会（SNTE）启动激进的《教育质量联盟》（Alianza por la Calidad de la Educación）改革。该方案全面对标 PISA 能力框架，将教学标准由传统的知识记忆转向实用技能；设立独立的国家评估机构负责新教师入职资格考试与在职教师晋升考核，打破了长期以来工会垄断教师编制买卖的体制惯性；并将教师的年度绩效奖金直接同学生的标准化测试成绩挂钩，推行典型的新自由主义产出控制。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, p. 67)]]
+> 墨西哥在 2000 年及随后的 PISA 测评中持续处于 OECD 成员国垫底水平。为扭转劣势，墨西哥政府于 2008 年联合墨西哥全国教育工会（SNTE）启动激进的《教育质量联盟》（Alianza por la Calidad de la Educación）改革。该方案全面对标 PISA 能力框架，将教学标准由传统的知识记忆转向实用技能；设立独立的国家评估机构负责新教师入职资格考试与在职教师晋升考核，打破了长期以来工会垄断教师编制买卖的体制惯性；并将教师的年度绩效奖金直接同学生的标准化测试成绩挂钩，推行典型的[[Neoliberalism|新自由主义]]产出控制。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, p. 67)]]
 
 ---
 

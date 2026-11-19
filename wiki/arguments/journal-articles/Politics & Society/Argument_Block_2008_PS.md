@@ -30,11 +30,13 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Mimesis]]"
   - "[[Research Universities]]"
   - "[[Innovation Ecosystem]]"
   - "[[Technology Transfer Office]]"
   - "[[Cooperative Research and Development Agreement]]"
   - "[[Discourse]]"
+  - "[[Neoliberalism]]"
   - "[[Congressional Earmarks]]"
   - "[[Paradigm]]"
   - "[[Multi-Project Wafer]]"
@@ -49,6 +51,7 @@ related_concepts:
   - "[[Heterogeneity]]"
 related_theories:
   - "[[Developmental Network State]]"
+  - "[[Developmental State]]"
   - "[[Stokes' Quadrant Model of Scientific Research]]"
   - "[[Pasteur's Quadrant]]"
 related_methods:
@@ -86,14 +89,14 @@ sources:
 part_of:
 status: active
 created: 2026-10-12
-updated: 2026-10-29
+updated: 2026-11-19
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Block_2008_PS"
 argument_key: "Argument_Block_2008_PS"
 argument_display_title: "Swimming against the current: The rise of a hidden developmental state in the United States"
 argument_kind: "journal-article"
-argument_related_count: 54
+argument_related_count: 57
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -109,7 +112,7 @@ issuing_organization: ""
 > 在过去三十年[[Market Fundamentalism|市场原教旨主义]]（Market Fundamentalism）意识形态占据统治地位的政治语境下，奉行反政府干预和自由放任修辞的美国，究竟如何演变出规模庞大、深度渗透并实质性重塑高科技产业商业化创新的公共支持网络；两党政治博弈如何使这一国家创新机器隐匿于主流公共视野之外，以及这种在暗处生长的制度形态究竟产生了何种深层结构性弊端与治理危机。
 
 > [!claim] 核心主张
-> 自 1980 年代以来，美国在自由市场意识形态的逆流中实质性崛起了一个高度去中心化、跨部门协同的[[Developmental Network State|发展型网络国家]]（Developmental Network State, DNS）。两党政治博弈与自由市场教条合谋迫使该机制以隐藏的发展型国家形态运作。尽管该网络在托底早期高风险研发与重塑创新组织生态上成效显著，但其隐形运作也内生出五重严重制度弊端：创新与本土实体生产脱节、漠视劳工制造技能培育、知识过度商品化阻断研发合作、易受意识形态围剿与政治破坏、以及深层民主问责与战略统筹赤字。
+> 自 1980 年代以来，美国在自由市场意识形态的逆流中实质性崛起了一个高度去中心化、跨部门协同的[[Developmental Network State|发展型网络国家]]（Developmental Network State, DNS）。两党政治博弈与自由市场教条合谋迫使该机制以隐藏的[[Developmental State|发展型国家]]形态运作。尽管该网络在托底早期高风险研发与重塑创新组织生态上成效显著，但其隐形运作也内生出五重严重制度弊端：创新与本土实体生产脱节、漠视劳工制造技能培育、知识过度商品化阻断研发合作、易受意识形态围剿与政治破坏、以及深层民主问责与战略统筹赤字。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 1980 至 2000 年代美国联邦关键科技立法、涵盖[[DARPA|国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）、国立卫生研究院（[[National Institutes of Health]], NIH）、国家科学基金会（[[National Science Foundation]], NSF）、[[National Institute of Standards and Technology|国家标准与技术研究院]]（National Institute of Standards and Technology, NIST）、能源部（[[Department of Energy]], DOE）及小企业管理局（Small Business Administration, SBA）等跨部门公共研发网络、产学研联合体及[[National Innovation System|国家创新系统]]组织形态演变。
@@ -175,7 +178,7 @@ issuing_organization: ""
 > [!contrast-table] 东亚科层发展型国家（DBS）与欧美[[Developmental Network State|发展型网络国家]]（DNS）比较
 > | 比较维度 | 科层发展型国家（DBS，以战后日本为代表） | 发展型网络国家（DNS，以当代美国为代表） |
 > |---|---|---|
-> | **核心发展任务** | 技术模仿追赶与成熟产业规模化；通过低息信贷与关税壁垒扶植本土企业进入已知全球市场 | 催化未有先例的前沿突破与高风险技术；协助新构想跨越概念验证走向原型应用 |
+> | **核心发展任务** | 技术[[Mimesis\|模仿]]追赶与成熟产业规模化；通过低息信贷与关税壁垒扶植本土企业进入已知全球市场 | 催化未有先例的前沿突破与高风险技术；协助新构想跨越概念验证走向原型应用 |
 > | **决策权力结构** | 高度集权的单一中央经济企划部委（如日本 MITI）；层级严格、自上而下发布行政指令 | 高度分散的专业机构网络（如 [[DARPA]]、[[National Institutes of Health\|NIH]]、[[National Science Foundation\|NSF]]、[[Department of Energy\|DOE]]、NIST）；各部门自主决策、灵活协作 |
 > | **支持企业方式** | 官方自上而下挑选特定的国家龙头企业并给予专属特权与信贷配给 | 通过公开竞标、同行评议与阶段性匹配资助，向广泛的科研团队和中小创新企业开放支持通道 |
 > | **对创新的基本假定** | 线性递进观：假定从基础科学到工业量产有一条固定的前后单向链条 | **[[Stokes' Quadrant Model of Scientific Research\|巴斯德象限模型]]** 基础探索与应用开发紧密交织，重大突破依赖产学研各方的双向互动反馈 |
@@ -253,7 +256,7 @@ issuing_organization: ""
 
 > [!concept-lens] 被窃的信件与意识形态遮蔽
 > - **核心含义** 庞大的国家科技创新资助机器就公开展现在全社会面前，但主流意识形态话语却系统性否认其存在。
-> - **制度成因** 新自由主义确立了私营部门天然高效、政府干预必然扭曲的教条，在主流观念中排除了国家行动对技术繁荣至关重要的概念空间。
+> - **制度成因** [[Neoliberalism|新自由主义]]确立了私营部门天然高效、政府干预必然扭曲的教条，在主流观念中排除了国家行动对技术繁荣至关重要的概念空间。
 > - **政治后果** 导致客观存在的产业政策无法获得正大光明的制度讨论，陷入两党心照不宣的双面治理。
 
 这种意识形态氛围直接驱使保守派执政者采取了一种精神分裂式的双面策略。

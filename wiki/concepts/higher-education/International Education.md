@@ -5,7 +5,7 @@ aliases:
 summary: "跨越单一国家教育边界组织人员、共同生活、课程、评价与资格承认的教育实践和制度。既包含以跨文化理解为目的的教育计划，也包含全球化推动的流动市场扩张，以及当代发展型国家依托地缘战略资助推进南南合作的新型治理形态。"
 type: concept
 domain: "higher-education"
-related_count: 61
+related_count: 63
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Reliability]]"
   - "[[Educational Multilateralism]]"
+  - "[[Neoliberalism]]"
   - "[[Structural Adjustment Programs]]"
   - "[[International Education Hubs]]"
   - "[[Sino-Foreign Cooperation in Running Schools]]"
@@ -46,6 +47,7 @@ related_concepts:
   - "[[Philosophical Aesthetics]]"
   - "[[Alienation]]"
 related_theories:
+  - "[[Developmental State]]"
   - "[[Human Capital Theory]]"
   - "[[Dependency Theory]]"
 related_methods: []
@@ -85,13 +87,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-16
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
 
 > [!def] International Education
-> **国际教育（International Education）** 是跨越单一国家教育边界组织人员、共同生活、课程、教学、评价和资格承认的教育实践与制度。它既指以跨文化理解、共同责任和多元思维方式为目的的教育计划，也指全球化条件下学生与[[Teacher Mobility|教师流动]]、课程跨境采用、[[International Schools|国际学校]]、[[International Branch Campus|海外分校]]、跨国评价和教育市场形成的制度现象；当代进一步拓展出由发展型国家通过全额资助推动南南产能与地缘走廊建设的战略性治理形态。前者强调教育要改变怎样的人与关系，后者强调教育活动如何跨越国家管辖、进入全球网络与地缘战略协作。[[Argument_Peterson_1987_OpenCourt_Ch01|(Peterson, 1987, pp. 1–13)]]; [[Argument_Peterson_1987_OpenCourt_Ch02|(Peterson, 1987, pp. 15–31)]]; [[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 1–5, 19–31)]]; [[Argument_Woo_2023_HEP|(Woo, 2023, pp. 688–692)]]
+> **国际教育（International Education）** 是跨越单一国家教育边界组织人员、共同生活、课程、教学、评价和资格承认的教育实践与制度。它既指以跨文化理解、共同责任和多元思维方式为目的的教育计划，也指全球化条件下学生与[[Teacher Mobility|教师流动]]、课程跨境采用、[[International Schools|国际学校]]、[[International Branch Campus|海外分校]]、跨国评价和教育市场形成的制度现象；当代进一步拓展出由[[Developmental State|发展型国家]]通过全额资助推动南南产能与地缘走廊建设的战略性治理形态。前者强调教育要改变怎样的人与关系，后者强调教育活动如何跨越国家管辖、进入全球网络与地缘战略协作。[[Argument_Peterson_1987_OpenCourt_Ch01|(Peterson, 1987, pp. 1–13)]]; [[Argument_Peterson_1987_OpenCourt_Ch02|(Peterson, 1987, pp. 15–31)]]; [[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 1–5, 19–31)]]; [[Argument_Woo_2023_HEP|(Woo, 2023, pp. 688–692)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 国家边界不再独占学生归属、课程内容、评价标准和资格效力；人员与制度可在多个教育系统之间流动、组合或受国家地缘战略统筹调度。
@@ -178,7 +180,7 @@ updated: 2026-11-15
 > **多边主义演进与全球教育治理规训维度** 探讨国际教育如何从战后人道主义与社会福利价值导向，演变为受跨国金融组织与自由贸易规则支配的规训性经贸系统。
 
 > [!claim] [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]]
-> **多边治理的主导规则发生变化** [[Robert Arnove|罗伯特·阿诺夫]]（Robert Arnove）指出，国际教育战后初期以[[UNESCO|联合国教科文组织]]为主导，强调人道主义价值与社会福利，支持新兴独立民族国家建立公共教育；自 1980 年代起，伴随债务危机与新自由主义崛起，国际教育治理转向以[[World Bank|世界银行]]为核心的防卫性与规训性多边主义，通过[[Structural Adjustment Programs|结构调整方案]]推行财政紧缩与市场化改革；至 1995 年[[World Trade Organization|世界贸易组织]]（WTO）成立并推行《[[GATS and Trade in Education Services|服务贸易总协定]]》（GATS），国际教育进一步被纳入全球跨国服务贸易规制，使教育主权与公共服务受到商品化规则的约束。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
+> **多边治理的主导规则发生变化** [[Robert Arnove|罗伯特·阿诺夫]]（Robert Arnove）指出，国际教育战后初期以[[UNESCO|联合国教科文组织]]为主导，强调人道主义价值与社会福利，支持新兴独立民族国家建立公共教育；自 1980 年代起，伴随债务危机与[[Neoliberalism|新自由主义]]崛起，国际教育治理转向以[[World Bank|世界银行]]为核心的防卫性与规训性多边主义，通过[[Structural Adjustment Programs|结构调整方案]]推行财政紧缩与市场化改革；至 1995 年[[World Trade Organization|世界贸易组织]]（WTO）成立并推行《[[GATS and Trade in Education Services|服务贸易总协定]]》（GATS），国际教育进一步被纳入全球跨国服务贸易规制，使教育主权与公共服务受到商品化规则的约束。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 
 ---
 

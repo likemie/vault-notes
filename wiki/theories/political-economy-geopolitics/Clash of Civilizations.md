@@ -7,7 +7,7 @@ aliases:
 summary: "塞缪尔·亨廷顿提出的地缘政治理论，主张冷战后人类冲突的核心根源不再是意识形态或经济，而是文化与文明的断层线；将世界划分为七至八个主要文明板块，并预言伊斯兰与儒家文明对西方霸权的挑战；卡普与扎米斯卡进一步指出，学术界对该简化模型的全盘抵制产生了严重的副作用，导致关于文化在国际关系、经济产出与国家能力中实质作用的严肃探讨在高校中沦为学术禁区。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 28
+theory_related_count: 29
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -19,6 +19,7 @@ tags:
   - theme/culture-and-education
   - theme/civilization-studies
 related_concepts:
+  - "[[Neoliberalism]]"
   - "[[Geopolitics]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Paradigm]]"
@@ -56,14 +57,14 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
 
 > [!theory-position] 理论定位
 > - **解释对象** 冷战后全球政治冲突的根源、国际地缘联盟的重组机制，以及文化与宗教认同对国家行为的深层塑造。
-> - **理论问题** 回应冷战终结后[[Francis Fukuyama|弗朗西斯·福山]]等人的自由主义“[[End of History Thesis|历史终结论]]”与新自由主义全球化乐观主义的盲区，揭示意识形态对抗消失后文化差异的凸显。
+> - **理论问题** 回应冷战终结后[[Francis Fukuyama|弗朗西斯·福山]]等人的自由主义“[[End of History Thesis|历史终结论]]”与[[Neoliberalism|新自由主义]]全球化乐观主义的盲区，揭示意识形态对抗消失后文化差异的凸显。
 > - **理论类型** 宏观[[Geopolitics|地缘政治]]解释理论与文明比较[[Analytic Framework|分析框架]]。
 > - **知识位置** 现实主义[[Wight's Three Traditions of International Theory|国际关系理论]]与文明社会学的[[Comparative Education as a Cross-Sectional Area|交叉领域]]，与历史终结论构成直接论辩，同时遭遇后殖民主义与[[Orientalism|东方主义]]的激烈批评。
 

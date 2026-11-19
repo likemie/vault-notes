@@ -14,7 +14,7 @@ subtype: organization
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "organization"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -30,6 +30,7 @@ tags:
 related_concepts:
   - "[[Educational Management Organisation]]"
   - "[[Visible Learning]]"
+  - "[[Neoliberalism]]"
   - "[[Quasi-market]]"
   - "[[Policy Network]]"
   - "[[Dual-Entity Legal Structure]]"
@@ -65,13 +66,13 @@ related_arguments:
 confidence: high
 status: stable
 created: "2026-05-23"
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 ---
 
 > [!claim] 核心定位
-> Cognition Education（认知教育；前身为 Multi Serve）是伴随 1989 年新西兰《明日学校》（[[Tomorrow's Schools Reforms|Tomorrow's Schools]]）改革而诞生的高校教育后勤承包商与跨国[[Educational Management Organisation|教育管理组织]]（EMO）。该机构横跨慈善信托与营利性商业咨询公司双重实体，核心业务涵盖学校行政承包、教师专业发展、跨国建校咨询以及《[[Visible Learning|可见的学习]]》（[[Visible Learning Branding and Global Influences|Visible Learningplus]]）全球知识产权专营，是新自由主义[[Quasi-market|教育准市场]]、跨国咨询资本与[[Policy Network|政策网络]]深度交织的代表性枢纽。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 65)]]; [[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 11–12)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 30–31)]]
+> Cognition Education（认知教育；前身为 Multi Serve）是伴随 1989 年新西兰《明日学校》（[[Tomorrow's Schools Reforms|Tomorrow's Schools]]）改革而诞生的高校教育后勤承包商与跨国[[Educational Management Organisation|教育管理组织]]（EMO）。该机构横跨慈善信托与营利性商业咨询公司双重实体，核心业务涵盖学校行政承包、教师专业发展、跨国建校咨询以及《[[Visible Learning|可见的学习]]》（[[Visible Learning Branding and Global Influences|Visible Learningplus]]）全球知识产权专营，是[[Neoliberalism|新自由主义]][[Quasi-market|教育准市场]]、跨国咨询资本与[[Policy Network|政策网络]]深度交织的代表性枢纽。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 65)]]; [[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 11–12)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 30–31)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1989 年 10 月新西兰推行明日学校改革，撤销原有区域教育委员会，将原本由公共部门承担的学校工资发放与校车运输等行政后勤职能从教育部剥离，交由新设的自负盈亏教育服务中心承接，Multi Serve Education Trust 由此应运而生。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 11–12)]]

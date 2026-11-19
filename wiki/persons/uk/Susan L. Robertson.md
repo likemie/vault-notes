@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
   - region/uk
 related_concepts:
   - "[[Educational Privatisation]]"
+  - "[[Neoliberalism]]"
   - "[[New Public Management]]"
   - "[[Transnational Education]]"
   - "[[European Education Space]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -58,7 +59,7 @@ updated: 2026-11-11
 > [!person-profile] 人物档案
 > - **身份位置** 英国著名批判教育社会学家、全球化理论家，剑桥大学教育学讲席教授（Professor of Sociology of Education），顶尖学术期刊《全球化、社会与教育》（*Globalisation, Societies and Education*, GSE）创刊主编。
 > - **核心角色** 全球教育空间政治经济学研究的领军学者；系统揭示[[World Trade Organization|世界贸易组织]]（WTO）《[[GATS and Trade in Education Services|服务贸易总协定]]》（GATS）对全球[[Educational Privatisation|教育私有化]]与商品化推进机制的学术先锋。
-> - **代表贡献** 与[[Roger Dale|罗杰·戴尔]]及哈维尔·博纳尔共同创建“[[Pluri-Scalar Governance|多标度教育治理]]”三维[[Analytic Framework|分析框架]]；系统论证教育从国家公共品向全球贸易服务的体制嬗变；深刻剖析新自由主义对教师劳动过程与专业身份的重构。
+> - **代表贡献** 与[[Roger Dale|罗杰·戴尔]]及哈维尔·博纳尔共同创建“[[Pluri-Scalar Governance|多标度教育治理]]”三维[[Analytic Framework|分析框架]]；系统论证教育从国家公共品向全球贸易服务的体制嬗变；深刻剖析[[Neoliberalism|新自由主义]]对教师劳动过程与专业身份的重构。
 
 > [!citation-card] [[Robert Arnove|阿诺夫]]论罗伯逊对服务贸易总协定的关键研究
 > 为了进一步开启全球化的黑箱，罗伯逊、博纳尔与戴尔（2002）深入审视了《服务贸易总协定》（GATS）。他们提供了一套概念框架与严密的分析范畴，用以理解千禧年以来教育发生的深刻剧变。他们指出，世贸组织致力于构建一个无壁垒的假设性世界教育体系，不仅涉及学历文凭国际化与知识产销全球化，更深刻影响了长期由民族国家掌控的[[CORE Education|核心教育]]主权。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]

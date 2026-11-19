@@ -9,7 +9,7 @@ aliases:
 summary: "公共政策多源流框架的核心概念，指问题流、政策方案流与政治流三者汇聚时短暂开启的有利于政策采纳的关键机遇期；在教育循证改革中，政策之窗的时间压缩特性直接决定了证据的形态选择，促使行动者转向专业经验、同行信任与微观对标分析等高效能替代证据。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Exogenous Privatisation]]"
   - "[[Discourse]]"
   - "[[Venue Shopping]]"
+  - "[[Neoliberalism]]"
 related_theories:
   - "[[Multiple Streams Framework]]"
   - "[[Punctuated Equilibrium Theory]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-11-03
+updated: 2026-11-19
 ---
 
 ---
@@ -153,7 +154,7 @@ updated: 2026-11-03
 > - **1984年 — 金登创立多源流分析** 金登在《议程、备选方案与公共政策》中正式确立政策之窗概念，指出政治流与问题流的交汇创造了窗口。
 > - **2000年代 — 制度主义与断裂平衡拓展** 学界将政策之窗与[[Punctuated Equilibrium Theory|政策垄断]]打破、[[Venue Shopping|制度场所转换]]相结合，分析窗口期制度摩擦的瓦解。
 > - **2013年 — [[Evidence-Based Policy-Making|循证决策]]与证据形态演化** 麦克唐纳与韦瑟福德将政策之窗引入教育证据利用研究，确立了政策窗口时间压力决定学术证据与专业经验配比的权变模型。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 2–6, 16–19)]]
-> - **2016年 — [[Policy Entrepreneur|政策企业家]]突围与私有化借道** 奥尼尔等学者将政策之窗拓展至英联邦与威斯敏斯特议会制国家，揭示了少数派联合政府如何创造特殊的政治之窗，促成新自由主义政策企业家突围并推进教育[[Exogenous Privatisation|外生私有化]]。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 20–23)]]
+> - **2016年 — [[Policy Entrepreneur|政策企业家]]突围与私有化借道** 奥尼尔等学者将政策之窗拓展至英联邦与威斯敏斯特议会制国家，揭示了少数派联合政府如何创造特殊的政治之窗，促成[[Neoliberalism|新自由主义]]政策企业家突围并推进教育[[Exogenous Privatisation|外生私有化]]。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 20–23)]]
 > - **2026年 — 政策之窗驱动常态化知识储备与快速综合机制** [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] 结合[[OECD|经合组织]]与[[UNESCO|联合国教科文组织]]政策实践指出，政策之窗的转瞬即逝倒逼教育系统建立常态化储备知识库（Standing Knowledge Repositories）与快速综合通道，揭示了制度化知识经纪在窗口期防范证据被轶事化替代的关键防线作用（pp. 348–350）。
 
 ---

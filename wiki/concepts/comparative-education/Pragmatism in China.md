@@ -9,7 +9,7 @@ aliases:
 summary: "实用主义哲学在中国的传播、选择性吸收、制度转译与政治再脉络化历史，揭示外来理论在危机与救国语境中的拆解、重构与话语变形。"
 type: concept
 domain: "comparative-education"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Axiology]]"
   - "[[Quality Education]]"
   - "[[Examination-Oriented Education]]"
+  - "[[Neoliberalism]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -143,7 +144,7 @@ updated: 2026-11-11
 > [!dev-timeline] 概念演变
 > - **17世纪–1913 — 语义前史与铺垫** 清代“经世致用”实学传统；1864年李鸿章提出“所需非所学”；1913年黄炎培发表《学校教育采用[[Pragmatic Paradigm\|实用主义]]之商榷》。
 > - **1919–1928 — 民国3T跨国转移与重构** [[John Dewey\|杜威]]访华讲演；1922新学制去政治化折算与1923课程错位；1923–1928[[Paradigm\|范式]]转向《新教育评论》[[Scientific Attitude\|科学态度]]与[[Tao Xingzhi\|陶行知]]乡村教育。
-> - **1949至今 — 建国后三重政治变形** 1950年代被政治批判为反动唯心主义 ➔ 1980年代通过陶行知恢复名誉 ➔ 1990年代至今重构为[[Quality Education\|素质教育]]理论资源与反新自由主义[[Discourse|话语]]盟友。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009]]）
+> - **1949至今 — 建国后三重政治变形** 1950年代被政治批判为反动唯心主义 ➔ 1980年代通过陶行知恢复名誉 ➔ 1990年代至今重构为[[Quality Education\|素质教育]]理论资源与反[[Neoliberalism|新自由主义]][[Discourse|话语]]盟友。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009]]）
 
 ---
 

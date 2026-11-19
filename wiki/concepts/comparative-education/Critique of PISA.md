@@ -8,9 +8,9 @@ aliases:
 summary: "对经合组织国际学生评估项目（PISA）的系统性学术反思与理论批判，涵盖未来技能构念拟制与增长神话证伪、统计等值空间对本体效度的消解、“数字即政策”的去政治化规训、单一西方中心主义与狭隘经济主义扭曲、高分低趣低幸福感悖论、美化威权教育机制、比较教育学科航海隐喻侵蚀及本土政治罗生门推诿。"
 type: concept
 domain: "comparative-education"
-related_count: 85
-related_level: 8
-related_stars: "💎💎⭐⭐"
+related_count: 91
+related_level: 9
+related_stars: "💎💎💎"
 related_color: "#ddd6fe"
 tags:
   - pisa
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Epistemic Inequality]]"
   - "[[Navigation Metaphor in Comparative Education]]"
   - "[[Competitiveness]]"
+  - "[[Neoliberalism]]"
   - "[[Policy Borrowing]]"
   - "[[Alienation]]"
   - "[[Analytical Stance]]"
@@ -46,6 +47,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Commensuration]]"
   - "[[Falsification]]"
+  - "[[Problem Solving]]"
   - "[[Epoché]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Epistemic Community]]"
@@ -79,6 +81,7 @@ related_theories:
   - "[[Human Capital Theory]]"
   - "[[Governmentality]]"
   - "[[Governing at a Distance]]"
+  - "[[Historical Institutionalism]]"
 related_methods:
   - "[[Item Response Theory]]"
   - "[[Differential Item Functioning]]"
@@ -91,6 +94,8 @@ related_persons:
   - "[[Alain Desrosières]]"
   - "[[Nikolas Rose]]"
   - "[[Eric Hanushek]]"
+  - "[[Zongyi Deng]]"
+  - "[[Saravanan Gopinathan]]"
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
   - "[[Andreas Schleicher]]"
@@ -109,13 +114,14 @@ related_arguments:
   - "[[Argument_Zhao_2020_JEC]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_DeJong_2023_ERR]]"
+  - "[[Argument_Deng_2016_CE]]"
   - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-11-17
+updated: 2026-11-19
 ---
 
 ---
@@ -139,7 +145,7 @@ updated: 2026-11-17
 > *PISA's success is an admirable marketing case... It claims to measure essential skills needed for future life, yet this assertion has no empirical ground. Beyond the point that knowing something is always good, no research proves PISA items represent future challenges.*
 
 > [!boundary]- 概念边界
-> - 不等于单纯技术层面的测量误差校准 — [[Differential Item Functioning|题目功能差异]]（DIF）修正或抽样加权属于统计修补；对 PISA 的批判指向其教育哲学前设、认识论霸权与新自由主义政策动员机制。
+> - 不等于单纯技术层面的测量误差校准 — [[Differential Item Functioning|题目功能差异]]（DIF）修正或抽样加权属于统计修补；对 PISA 的批判指向其教育哲学前设、认识论霸权与[[Neoliberalism|新自由主义]]政策动员机制。
 > - 不等于笼统反对[[Quantitative Research|量化研究]] — 批判阵营大量运用高级心理测量与多层统计建模（如解构探究教学负相关表象、检验双向翻译时间压力偏差与 Rasch 模型失配），通过更严谨的计量对质揭露 PISA 报告的技术偏颇。
 > - 不等于单一国别的应激性政治抱怨 — 区别于政客因本国排位下滑引发的自利性攻讦，该学理批判体系聚焦于全球教育同质化、[[Policy Borrowing|政策借用]][[Alienation|异化]]与民主审议赤字。
 
@@ -176,8 +182,8 @@ updated: 2026-11-17
 > [!claim] [[Yong Zhao|Zhao, Y.]]
 > **未来技能虚构与测试重合度** [[Yong Zhao|赵勇]]指出，PISA 声称测量学生面向未来社会挑战的关键素养，这一断言完全没有前瞻纵向追踪实证支持。实证研究显示，PISA 测验成绩与传统的 [[TIMSS]] 考试及一般国家认知能力（g 因子）高度重合，并未测得超出传统学术知识之外的特异未来技能。此外，Hanushek 和 Woessmann 宣称 [[OECD]] 平均提高 25 分将带来 115 万亿美元 GDP 增长的模型存在严重时间错位，其后续检验（Komatsu & Rappleye, 2017）证实测试分数与后续经济增长之间缺乏稳健关联。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
 
-> [!claim] Deng and Gopinathan (2016)
-> **纸笔测试去情境化与真实情境问题解决能力的脱节** 邓宗怡与高平纳坦（Deng & Gopinathan, 2016）指出，PISA 试题完全由去情境化、无争议的纸笔题目构成，无法有效评估应对现实复杂、不确定与争议性情境所必需的综合素养（Sjøberg, 2007; Dohn, 2007）。PISA 本质上测量的是解决脱离特定学科预设的通用学术型问题能力（Bulle, 2011），经合组织宣称其测查的领域代表未来现代职场核心能力的断言缺乏系统的前瞻性知识结构研究支撑（Hopmann, 2008）。与经合组织单一的经济主义取向相比，学校教育长期承担着维系社会凝聚、培育公民素养与国家建构等同等重要的多元功能。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 463–464)]]
+> [!claim] [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]]
+> **纸笔测试去情境化与真实情境[[Problem Solving|问题解决能力]]的脱节** [[Zongyi Deng|邓宗怡]]与[[Saravanan Gopinathan|高平纳坦]]（[[Argument_Deng_2016_CE|Deng & Gopinathan, 2016]]）指出，PISA 试题完全由去情境化、无争议的纸笔题目构成，无法有效评估应对现实复杂、不确定与争议性情境所必需的综合素养（Sjøberg, 2007; Dohn, 2007）。PISA 本质上测量的是解决脱离特定学科预设的通用学术型问题能力（Bulle, 2011），经合组织宣称其测查的领域代表未来现代职场核心能力的断言缺乏系统的前瞻性知识结构研究支撑（Hopmann, 2008）。与经合组织单一的经济主义取向相比，学校教育长期承担着维系社会凝聚、培育公民素养与国家建构等同等重要的多元功能。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 463–464)]]
 
 ---
 
@@ -312,7 +318,7 @@ updated: 2026-11-17
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 从比较教育历史制度主义视角反思 PISA 作为教育系统质量首要标尺的局限，揭示纸笔测试的去情境化本质与经济主义教育窄化。
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 从比较教育[[Historical Institutionalism|历史制度主义]]视角反思 PISA 作为教育系统质量首要标尺的局限，揭示纸笔测试的去情境化本质与经济主义教育窄化。
 > - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 从教育政策社会学视角系统批判 PISA 作为新自由主义特洛伊木马的治理机制，提出改革指引与政策背书二元象限。
 > - [[Argument_Zhao_2020_JEC|Zhao (2020)]] — 系统梳理二十年对 PISA 的学术批判，从教育观、实施与解释维度解构其商业营销与威权美化本质。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 从批判政策社会学视角解构经合组织如何运用 PISA 制造全球等值空间与推行远处掌舵。

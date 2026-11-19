@@ -7,9 +7,9 @@ title: "Argument_Rizvi_Lingard_2009_OECDEducationPolicy"
 argument_key: "Argument_Rizvi_Lingard_2009_OECDEducationPolicy"
 argument_display_title: "The OECD and global shifts in education policy"
 argument_kind: "book-chapter"
-argument_related_count: 79
-argument_related_level: 7
-argument_related_stars: "💎💎⭐"
+argument_related_count: 82
+argument_related_level: 8
+argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
 authors:
   - "[[Fazal Rizvi|Rizvi, F.]]"
@@ -33,6 +33,7 @@ tags:
   - organization/oecd
 related_concepts:
   - "[[Public Value]]"
+  - "[[Neoliberalism]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Social Imaginary]]"
   - "[[Reliability]]"
@@ -102,6 +103,8 @@ related_persons:
   - "[[George Papadopoulos]]"
   - "[[Diane Elson]]"
   - "[[Pierre Bourdieu]]"
+  - "[[Charles Taylor]]"
+  - "[[Phillip Brown]]"
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
@@ -122,7 +125,7 @@ sources:
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: completed
 created: 2026-04-13
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 ---
 
@@ -130,7 +133,7 @@ updated: 2026-11-14
 > 战后国际组织在推动全球教育发展中扮演了怎样的角色？自20世纪90年代以来，冷战结束与经济全球化浪潮如何深刻重塑了国际组织的教育治理逻辑？[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD，简称经合组织）作为原本仅具协商性质的发达国家智库，何以逐步发展为具有全球议程塑造能力的独立政策行动者？在此过程中，教育公平、民主参与、性别平等以及社会凝聚力等传统[[Public Value|公共价值]]，是如何被逐步吸纳并改造成服务于市场竞争与经济效率的工具性指标的？（pp. 437–438）
 
 > [!claim] 核心主张
-> [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，20世纪90年代中期是经合组织教育政策史上的根本分水岭：在此之前，经合组织是一个包容欧洲社会民主主义与美国自由市场路线妥协的协商论坛，教育被视为培育民主公民与促进平等的公共物品；而在90年代中期之后，经合组织将新自由主义全球化本体化为不可抗拒的历史必然，围绕[[Knowledge-Based Economy|知识经济]]建构起一套具有排他性的全球[[Social Imaginary|社会想象]]，并依托以[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）为核心的跨国量化测评推行数字即政策，创造出[[Reliability|信度]]压倒效度的全球可[[Commensuration|通约]][[Space of Equivalence|等值空间]]。在[[Economic Fundamentalism|经济基要主义]]支配下，经合组织并未抛弃教育公平、性别平权与社会资本等概念，而是将其彻底重构为增进[[Human Capital Theory|人力资本]]积累与管理经济边缘化的技术工具，使教育从民主社会的公共支柱演变为追求[[Return on Investment|投资回报]]的公私混合商品。（pp. 437–452）
+> [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，20世纪90年代中期是经合组织教育政策史上的根本分水岭：在此之前，经合组织是一个包容欧洲社会民主主义与美国自由市场路线妥协的协商论坛，教育被视为培育民主公民与促进平等的公共物品；而在90年代中期之后，经合组织将[[Neoliberalism|新自由主义]]全球化本体化为不可抗拒的历史必然，围绕[[Knowledge-Based Economy|知识经济]]建构起一套具有排他性的全球[[Social Imaginary|社会想象]]，并依托以[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）为核心的跨国量化测评推行数字即政策，创造出[[Reliability|信度]]压倒效度的全球可[[Commensuration|通约]][[Space of Equivalence|等值空间]]。在[[Economic Fundamentalism|经济基要主义]]支配下，经合组织并未抛弃教育公平、性别平权与社会资本等概念，而是将其彻底重构为增进[[Human Capital Theory|人力资本]]积累与管理经济边缘化的技术工具，使教育从民主社会的公共支柱演变为追求[[Return on Investment|投资回报]]的公私混合商品。（pp. 437–452）
 
 > [!concept-lens] 阅读透镜
 > - **考察对象** 经合组织自1961年成立至21世纪初的教育政策演进脉络，重点对比1960–1990年与1990年代中期后两个历史阶段的官方报告、治理架构、工作机制及其实施的全球测评项目。
@@ -322,7 +325,7 @@ updated: 2026-11-14
 
 > [!sub-claim] 1. 跨国流通的社会想象将经验趋势与情感焦虑交织为[[Doxa|不言自明]]的政策常识
 
-为解释经合组织如何在没有强制命令权的前提下主导全球教育思维，作者引入了查尔斯·泰勒（Charles Taylor, 2004）与阿尔君·阿帕杜莱（Arjun Appadurai, 1996, 2000）的[[Social Imaginary|社会想象]]理论。（pp. 444–445）
+为解释经合组织如何在没有强制命令权的前提下主导全球教育思维，作者引入了[[Charles Taylor|查尔斯·泰勒]]（Charles Taylor, 2004）与阿尔君·阿帕杜莱（Arjun Appadurai, 1996, 2000）的[[Social Imaginary|社会想象]]理论。（pp. 444–445）
 
 > [!theory-components] 社会想象的生成与扩散机制
 > - **经验事实与情感结构的交织**
@@ -356,7 +359,7 @@ updated: 2026-11-14
 
 > [!sub-claim] 1. 脱离特定课程的标准化测评建构起信度优先于[[Construct Validity|构念效度]]的跨国[[Space of Equivalence|等值空间]]
 
-菲利普·布朗等学者指出，当代国家竞争力的基本假设是按国际统一标准来评估各国的教育与培训质量（Brown et al., 1997, pp. 7–8）。经合组织敏锐地抓住了这一需求，于1999年发布《测量学生知识与技能：评估新框架》，并在2000年正式启动PISA测评。（pp. 446–447）
+[[Phillip Brown|菲利普·布朗]]等学者指出，当代国家竞争力的基本假设是按国际统一标准来评估各国的教育与培训质量（Brown et al., 1997, pp. 7–8）。经合组织敏锐地抓住了这一需求，于1999年发布《测量学生知识与技能：评估新框架》，并在2000年正式启动PISA测评。（pp. 446–447）
 
 > [!feature] PISA测评工具的设计机制与方法论特征
 > - **三年一周期的15岁义务教育终期监测** 针对即将完成义务教育的15岁学童，每三年施测一次，主要考查阅读、数学、科学（2003年首次增加问题解决能力），评估其应用知识应对现实挑战的实际技能。（p. 447）

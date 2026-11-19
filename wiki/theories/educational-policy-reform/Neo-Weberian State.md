@@ -9,7 +9,7 @@ aliases:
 summary: "由公共行政学者波利特（Christopher Pollitt）与布卡尔特（Geert Bouckaert）提出的国家治理与行政改革理论，用以概括欧洲大陆与北欧国家区别于英美新公共管理市场化的现代化转型路径。该理论保留韦伯式科层制作为公共利益、社会正义与公民权利守护者的制度基石，同时吸收结果导向与以公民为中心的现代管理技术，但在教育治理中主动限制激进的市场竞争、教育券与惩罚性排位表。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 16
+theory_related_count: 17
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ tags:
   - theme/accountability
   - region/europe
 related_concepts:
+  - "[[Neoliberalism]]"
   - "[[New Public Management]]"
   - "[[Bureaucracy]]"
   - "[[Performance Indicators]]"
@@ -45,14 +46,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
 
 > [!theory-position] 理论定位
 > - **解释对象** 欧洲大陆与北欧民主国家在面对全球公共管理现代化浪潮时，如何在维护公共部门正当性与吸收绩效管理技术之间维系动态平衡。
-> - **理论问题** 回应新自由主义将[[New Public Management|新公共管理]]（New Public Management, NPM）预设为全球唯一样本的同质化[[Convergence Theory in Comparative Education|趋同论]]调，揭示不同政体行政传统对治理工具的中介调节与路径选择。
+> - **理论问题** 回应[[Neoliberalism|新自由主义]]将[[New Public Management|新公共管理]]（New Public Management, NPM）预设为全球唯一样本的同质化[[Convergence Theory in Comparative Education|趋同论]]调，揭示不同政体行政传统对治理工具的中介调节与路径选择。
 > - **理论类型** 属于公共管理学与比较教育政治学的中观制度解释框架与[[Typological Analysis|类型学分析]]模型。
 > - **知识位置** 根植于欧洲比较公共行政传统，在继承[[Max Weber|马克斯·韦伯]]（Max Weber）[[Bureaucracy|科层制]]理论的同时，与英美自由主义市场化治理模型形成学术对话。
 

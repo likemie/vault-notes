@@ -10,10 +10,10 @@ cssclasses:
   - person-page
 nationality: singapore
 person_region: "singapore"
-person_related_count: 29
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 30
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1942"
 lifespan: "1942–至今"
 tags:
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Bilingual Education Policy]]"
   - "[[High-Performing Education Systems]]"
   - "[[Hybrid Pedagogy]]"
+  - "[[Neoliberalism]]"
   - "[[Discourse]]"
   - "[[Business as Usual]]"
   - "[[Policy Borrowing]]"
@@ -83,7 +84,7 @@ updated: 2026-11-19
 > [!timeline] 生平与职涯
 > - **1942** 出生于新加坡。
 > - **1960 年代** 获新加坡大学文学士学位（荣誉学位），后赴英国牛津大学深造获得教育学文凭。
-> - **1974** 出版首部专著《走向[[National Education (Singapore)|新加坡国家教育]]体系：1945–1973》（*Towards a National System of Education in Singapore 1945–1973*），奠定新加坡教育政策史研究基础。
+> - **1974** 出版首部专著《走向[[Singapore National Education|新加坡国家教育]]体系：1945–1973》（*Towards a National System of Education in Singapore 1945–1973*），奠定新加坡教育政策史研究基础。
 > - **1984** 获得美国纽约州立大学布法罗分校（SUNY Buffalo）比较教育学博士学位。
 > - **1980–2000 年代** 长期执教于南洋理工大学国立教育学院，历任教育政策与管理学部主任、基础教育学院院长，全面主导教师教育专业标准革新。
 > - **2003–2005** 推动创立国立教育学院教育研究中心（[[Centre for Research in Pedagogy and Practice|CRPP]]），参与设计全岛常态课堂微观教学大型追踪调查。
@@ -102,7 +103,7 @@ updated: 2026-11-19
 ---
 
 > [!person-thesis] 主张一｜强发展型国家依托制度韧性驾驭全球化冲击并保持政策自主
-> 面对新自由主义全球化浪潮，新加坡国家政权凭借高度集权的战略规划能力，将教育与[[Human Capital Theory|人力资本]]开发深度绑定于国家经济生存战略。政府通过战术性吸纳市场机制与下放办学自主权，实施远距离操纵，在保障学校微观活力的同时牢牢掌控核心课程目标与选拔指挥棒。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 56–60)]]
+> 面对[[Neoliberalism|新自由主义]]全球化浪潮，新加坡国家政权凭借高度集权的战略规划能力，将教育与[[Human Capital Theory|人力资本]]开发深度绑定于国家经济生存战略。政府通过战术性吸纳市场机制与下放办学自主权，实施远距离操纵，在保障学校微观活力的同时牢牢掌控核心课程目标与选拔指挥棒。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 56–60)]]
 >
 > > [!thesis-quote] 《全球化、新加坡发展型国家与教育政策：重审论题》（2007）
 > > 新加坡的经验表明，强国家机器能够通过选择性吸收全球化政策[[Discourse|话语]]来强化自身的治理权威。国家主动将教育改革设计为服务于国家自主定位与族群团结的关键支柱，确立应对全球经济力量的战略主动。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, p. 68)]]

@@ -6,10 +6,10 @@ aliases:
 summary: "高等教育系统在办学宗旨、教学、科研与治理中整合跨国维度的制度化过程，经历从二战后发展主义、新自由主义市场化到大国再国家化安全规训、外向型多边地缘网络重塑与第三代跨境教育枢纽集聚的历史演进。"
 type: concept
 domain: "higher-education"
-related_count: 59
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 61
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - internationalization
   - higher-education
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Outward-Oriented Internationalization]]"
   - "[[International Education Hubs]]"
   - "[[Geopolitics]]"
+  - "[[Neoliberalism]]"
   - "[[Innovation Hub]]"
   - "[[Transnational Research Collaboration]]"
   - "[[Knowledge Production]]"
@@ -57,6 +58,7 @@ related_concepts:
   - "[[Theoretical Perspective]]"
 related_theories:
   - "[[Governmentality]]"
+  - "[[Developmental State]]"
   - "[[Capability Approach]]"
 related_methods:
   - "[[Analytic Framework]]"
@@ -85,7 +87,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-10'
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -99,7 +101,7 @@ updated: 2026-11-11
 > - **边界** 区别于纯粹的跨国商业教育培训贸易，也区别于单一学者的个体学术交往；国际化强调高等教育系统与院校组织层面的战略性设计与多边机制协同。
 
 > [!citation-card] 国际化理性的历史转向
-> 国际化的分析重点在于揭示驱动跨境合作的理性已经从二战后早期的发展主义转向新自由主义市场逻辑；高等教育被广泛重构为出口产业，办学成功往往被简化为招收全额付费国际学生的规模指标。
+> 国际化的分析重点在于揭示驱动跨境合作的理性已经从二战后早期的发展主义转向[[Neoliberalism|新自由主义]]市场逻辑；高等教育被广泛重构为出口产业，办学成功往往被简化为招收全额付费国际学生的规模指标。
 > （pp. 96–97）
 >
 > *The focus is not on the formal definition of internationalisation, but on the rationales driving it, which have shifted from developmentalism to a market logic—higher education is treated as an export industry.*
@@ -125,7 +127,7 @@ updated: 2026-11-11
 > - **多边联盟与网络中心性构建** 通过主动发起设立跨国大学联盟、专业学科子网络与高层政策论坛，从传统的双向点对点交流拓展为多对多的高密度网络协同，确立常态化的网络枢纽地位。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1699–1704)]]
 > - **[[Endogenous Privatisation|内生私有化]]与新自由主义运作** 国际学生学费成为公立高校抵御财政削减的核心收入来源，推动高校全面采纳企业化运作模式与[[New Public Management|新公共管理]]技术。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 97–98)]]
 > - **再国家化与边界安全审查** 在大国竞争加剧与技术[[Nationalism|民族主义]]抬头的背景下，国家安全与出口管制逻辑深刻渗透至签证配额、敏感领域审查及跨境学术合作审核中。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 5–10)]]
-> - **国家战略外交使命对接** 发展型国家将大学国际化与涉外办学定位为外交战略支柱，依托政府高额奖学金、实体[[International Branch Campus|海外分校]]与文化交流网络协同推进区域[[Public Diplomacy|公共外交]]。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 79–85)]]
+> - **国家战略外交使命对接** [[Developmental State|发展型国家]]将大学国际化与涉外办学定位为外交战略支柱，依托政府高额奖学金、实体[[International Branch Campus|海外分校]]与文化交流网络协同推进区域[[Public Diplomacy|公共外交]]。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 79–85)]]
 > - **[[Internationalization at Home|在地国际化]]与教育枢纽集聚** 依托本土学习环境整合国际化课程与联合培养，并在重点战略区规划建设跨境教育枢纽，实现全球智力资源空间集聚。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 2–3)]]
 
 > [!logic-map]- 高等教育国际化的驱动机制与治理逻辑

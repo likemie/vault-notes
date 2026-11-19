@@ -10,10 +10,10 @@ cssclasses:
   - person-page
 nationality: "germany"
 person_region: "germany"
-person_related_count: 29
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 30
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: 1946
 lifespan: "1946–至今"
 tags:
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Apprenticeship]]"
   - "[[Institutional Complementarity]]"
+  - "[[Neoliberalism]]"
   - "[[Rule Enactment]]"
 related_theories:
   - "[[Theory of Gradual Institutional Change]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -87,7 +88,7 @@ updated: 2026-11-15
 > - **1995–2014** 出任[[Max Planck|马克斯·普朗克]]社会研究所（MPIfG）主任兼所长，将其打造为全球比较资本主义与[[Historical Institutionalism|历史制度主义]]研究殿堂。
 > - **2005** 与希伦合编出版《制度变迁的超越：发达政治经济学中的制度变迁》（*Beyond Continuity*，牛津大学出版社），系统提出置换、层叠、漂移、转换与耗竭五大内生变迁形态，正式向传统间断均衡模型与静态[[Institutional Complementarity|制度互补性]]假设发起[[Paradigm|范式]]挑战。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 1–39)]]
 > - **2009** 出版代表作《重塑资本主义》（*Re-Forming Capitalism*），系统运用渐进变迁理论解剖战后德国社会市场经济在法律未改前提下的去组织化与[[Liberalization|自由化]]重组。
-> - **2014** 从马普所荣休；出版《买来的时间》（*Buying Time*），引发全球对现代财政国家与新自由主义危机的政治学大讨论。
+> - **2014** 从马普所荣休；出版《买来的时间》（*Buying Time*），引发全球对现代财政国家与[[Neoliberalism|新自由主义]]危机的政治学大讨论。
 
 ---
 

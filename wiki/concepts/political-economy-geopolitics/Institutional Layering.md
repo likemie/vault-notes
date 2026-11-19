@@ -8,7 +8,7 @@ aliases:
 summary: "历史制度主义与政策变迁分析中的渐进制度变迁核心机制；指在不废除或替换既有制度结构的前提下，通过向既有制度框架中附加新规则、新行动者、新政策工具或新管理程序，随时间推移逐步改变原有制度地位、行为结构与治理后果的演进过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 42
+related_count: 45
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Liberalization]]"
   - "[[School Vouchers]]"
+  - "[[Neoliberalism]]"
   - "[[Composite-Standard Model]]"
   - "[[Learning Gain]]"
   - "[[Operationalization]]"
@@ -56,8 +57,10 @@ related_persons:
   - "[[James Mahoney]]"
   - "[[Jeroen van der Heijden]]"
   - "[[Michael Fullan]]"
+  - "[[Charles Taylor]]"
   - "[[Ray Pawson]]"
 related_facts:
+  - "[[Integrated Programme]]"
   - "[[EU]]"
   - "[[SIMCE]]"
   - "[[SNED]]"
@@ -70,7 +73,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -160,7 +163,7 @@ updated: 2026-11-15
 > 审视当代经验[[Document|文献]]对层叠概念的宽泛化应用，界定外围层叠究竟是推动了制度转型，还是充当护城河强化了既有制度核心。
 
 > [!claim] [[Jeroen van der Heijden|Van der Heijden, J.]]
-> **变迁与再生产的理论边界** 层叠必须随时间推移导致原有规则地位、结构或约束行为方式的质性改变；若在外围叠加新机构或新标准仅仅充当了吸收外部震荡的防震缓冲带，反倒强化了既有制度核心并推高了转换成本（如互联网 TCP/IP 协议的高厚度商与[[EU|欧盟]]预算锁定），该现象实质属于制度再生产与制度加固，绝不能泛化贴上层叠变迁的标签。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 12–14)]]
+> **变迁与再生产的理论边界** 层叠必须随时间推移导致原有规则地位、结构或约束行为方式的质性改变；若在外围叠加新机构或新标准仅仅充当了吸收外部震荡的防震缓冲带，反倒强化了既有制度核心并推高了转换成本（如互联网 TCP/[[Integrated Programme|IP]] 协议的高厚度商与[[EU|欧盟]]预算锁定），该现象实质属于制度再生产与制度加固，绝不能泛化贴上层叠变迁的标签。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 12–14)]]
 
 ---
 
@@ -199,11 +202,11 @@ updated: 2026-11-15
 > - **公共服务供给体制转型（组织与工具双重叠加）** 布鲁斯·史密斯（Smith, 1983）与[[Kathleen Thelen|凯瑟琳·希伦]]（Thelen, 2004）系统剖析美国公共服务在公营实体、非营利组织与表外融资契约上的层叠演化，证实新旧组织与新型管理工具的叠床架屋能够深刻重构公共行政的运行生态。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 15)]]
 > - **美国[[School Vouchers|教育券]]计划与公立学区改革（边际分流层叠典范）** 保守派改革者无法击败强大的公立教师工会直接废除公立学区体系，转而在公立学区体制边缘增设教育券（School Vouchers）选择权，随着越来越多的家庭使用教育券，公立学校的财政资源与生源被渐进分流。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 16–17)]]
 > - **巴西军政府时期的基层卫生运动（[[Subversives|颠覆者]]潜伏层叠典范）** 图利亚·法莱蒂（Falleti）考证表明，激进卫生改革者在威权军政府时期表面顺从国家卫生政策，敏锐利用体制向内地扩张诊所的契机在基层试点自治管理模式，如白蚁般将新规则层叠于旧体制内部，直至民主化到来时一举上升为主导制度。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 26, 30–31)]]
-> - **智利基于测验问责体系的连续性制度层叠（教育治理工具分层累加典范）** 智利在新自由主义教育券体制之上，自 1988 年创设教育质量测度系统（[[SIMCE]]）起，历经 1995 年公开发布成绩单、1996 年叠加[[SNED|国家学校绩效评估系统]]（SNED）教师奖金挂钩，至 2008 年《[[Ley SEP|优惠学校补贴法]]》（SEP）进一步叠加针对弱势学生的学业改善协议与关停接管惩戒；三十年间在保留既有市场体制核心的前提下，通过在旧规则顶端不断层叠高利害绩效细则与规制工具，最终完成了由国家主导的强问责表现主义治理重塑。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 251, 257–258)]]
+> - **智利基于测验问责体系的连续性制度层叠（教育治理工具分层累加典范）** 智利在[[Neoliberalism|新自由主义]]教育券体制之上，自 1988 年创设教育质量测度系统（[[SIMCE]]）起，历经 1995 年公开发布成绩单、1996 年叠加[[SNED|国家学校绩效评估系统]]（SNED）教师奖金挂钩，至 2008 年《[[Ley SEP|优惠学校补贴法]]》（SEP）进一步叠加针对弱势学生的学业改善协议与关停接管惩戒；三十年间在保留既有市场体制核心的前提下，通过在旧规则顶端不断层叠高利害绩效细则与规制工具，最终完成了由国家主导的强问责表现主义治理重塑。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 251, 257–258)]]
 > - **荷兰住房法建筑规制执行史（多维时空感知）** 展现微观建筑承包商感知到的剧烈突变、中观部门长达二十年的渐进谈判与宏观百年法理框架的边际微调，证明变迁定性取决于主体的制度位置与时间跨度。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 10–11)]]
 
 > [!critique] 反面概念辨析案例：被当代学者误读为“制度层叠”的制度再生产与[[Path Dependence|技术锁定]]
-> - **互联网[[Composite-Standard Model|复合标准模型]]（Boas, 2007 概念错置案例）** 泰勒·博阿斯虽借用 Thelen 的层叠概念描述在 TCP/IP 核心之上累加 SMTP、HTTP、P2P 等应用层标准，但[[Jeroen van der Heijden|范德海登]]（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011, pp. 13–14]]）明确指出这属于典型的概念泛化与错置——外围应用协议的繁荣（高“厚度商”，Thickness Quotient）不仅没有改变或侵蚀底层核心，反而通过网络外部性极大地推高了转换成本、死锁了技术核心。这一机制本质属于 **[[Path Dependence|路径依赖]]、制度再生产与制度加固（Institutional Reproduction & Reinforcement）**，与带来规则质变的制度层叠存在本质区别。
+> - **互联网[[Composite-Standard Model|复合标准模型]]（Boas, 2007 概念错置案例）** [[Charles Taylor|泰勒]]·博阿斯虽借用 Thelen 的层叠概念描述在 TCP/IP 核心之上累加 SMTP、HTTP、P2P 等应用层标准，但[[Jeroen van der Heijden|范德海登]]（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011, pp. 13–14]]）明确指出这属于典型的概念泛化与错置——外围应用协议的繁荣（高“厚度商”，Thickness Quotient）不仅没有改变或侵蚀底层核心，反而通过网络外部性极大地推高了转换成本、死锁了技术核心。这一机制本质属于 **[[Path Dependence|路径依赖]]、制度再生产与制度加固（Institutional Reproduction & Reinforcement）**，与带来规则质变的制度层叠存在本质区别。
 > - **[[EU|欧洲联盟]]预算与规制核心模型（Ackrill & Kay, 2006; Thatcher & Coen, 2008 概念错置案例）** 罗伯特·阿克里尔和阿德里安·凯在欧盟预算研究中、马克·撒切尔和大卫·科恩在规制核心研究中同样借用层叠概念，但新成员国加入或设立外围监管网络并未动摇欧盟既有核心规制轨道，外围图层反倒充当防震垫保护并巩固了旧核心，同样属于制度再生产而非制度层叠。（Ackrill & Kay, 2006; Thatcher & Coen, 2008）
 
 ---

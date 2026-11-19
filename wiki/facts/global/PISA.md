@@ -10,9 +10,9 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 179
-fact_related_level: 17
-fact_related_stars: "💎💎💎💎💎⭐⭐"
+fact_related_count: 184
+fact_related_level: 18
+fact_related_stars: "💎💎💎💎💎💎"
 fact_related_color: "#fecdd3"
 period: "2000–至今"
 initiator_organization: "[[OECD]]"
@@ -26,6 +26,7 @@ tags:
   - theme/stem-education
 related_concepts:
   - "[[Transnational Education]]"
+  - "[[Neoliberalism]]"
   - "[[Commensuration]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Peer Pressure]]"
@@ -101,6 +102,7 @@ related_concepts:
   - "[[Navigation Metaphor in Comparative Education]]"
   - "[[Causality]]"
   - "[[Critique of PISA]]"
+  - "[[Rote Learning]]"
   - "[[PISA Global Competence]]"
   - "[[PISA Creative Thinking]]"
   - "[[Creativity Assessment]]"
@@ -112,6 +114,8 @@ related_concepts:
   - "[[PISA Distorted View of Education]]"
   - "[[PISA Score Negative Correlation]]"
   - "[[PISA Glorifying Authoritarian Education]]"
+  - "[[Direct Instruction]]"
+  - "[[Hybrid Pedagogy]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[European Education Space]]"
   - "[[Learnification]]"
@@ -128,6 +132,7 @@ related_methods:
   - "[[Item Analysis]]"
   - "[[Sampling Frame]]"
   - "[[Meta-analysis]]"
+  - "[[Pilot Testing]]"
   - "[[Analytic Framework]]"
   - "[[Systematic Review]]"
 related_persons:
@@ -198,11 +203,11 @@ related_arguments:
   - "[[Argument_Barrenechea_2023_JEC]]"
   - "[[Argument_Sahlgren_2015_CPS]]"
   - "[[Argument_Volmari_2025_CE]]"
+  - "[[Argument_Deng_2016_CE]]"
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_DeJong_2023_ERR]]"
-  - "[[Argument_Deng_2016_CE]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Governing at a Distance]]"
@@ -212,7 +217,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-05-17
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -220,7 +225,7 @@ updated: 2026-11-18
 > [!claim] 项目定位
 > 国际学生评估项目（Programme for International Student Assessment, PISA）是由[[OECD|经济合作与发展组织]]（OECD）发起并常设运营的全球最大规模跨国学生能力评估工程，通过周期性评估 15 岁学生在真实生活情境中应用阅读、数学与科学知识的关键素养，确立[[Transnational Education|跨国教育]]质量与[[Human Capital Theory|人力资本]]监控的国际基准。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 6–8)]]
 >
-> 批判教育政策社会学进一步阐明，PISA 本质上是经合组织推行新自由主义议程与数目化软治理的跨国规制工具，依托去背景化、[[Commensuration|通约]]性与政策导向三大技术机制构建跨国等价空间，深度重塑各国的教育政策走向与权力结构。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 55, 58–60)]]
+> 批判教育政策社会学进一步阐明，PISA 本质上是经合组织推行[[Neoliberalism|新自由主义]]议程与数目化软治理的跨国规制工具，依托去背景化、[[Commensuration|通约]]性与政策导向三大技术机制构建跨国等价空间，深度重塑各国的教育政策走向与权力结构。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 55, 58–60)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1995 年由 [[OECD]] 提出构想，1997 年正式启动开发，2000 年首轮实施；每三年为一个评估周期，常态化运行至今并已扩展至全球 90 多个国家和经济体。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 6–8)]]
@@ -374,10 +379,10 @@ updated: 2026-11-18
 > > [!axis] 学科[[Epistemology|认识论]]矮化与教学因果误读
 > > 比较教育学者指出量化排名脱离历史文化语境，瓦解了战后比较教育倡导的超然[[Navigation Metaphor in Comparative Education|航海隐喻]]（[[Argument_Mitter_2009_Europe|Mitter, 2009, pp. 95–99]]）；同时，背景问卷的方法学缺陷引发了所谓“[[Inquiry-Based Learning|探究式教学]]与成绩负相关”的假象，误导了课堂教学[[Causality|因果推断]]（[[Argument_DeJong_2023_ERR|De Jong et al., 2023]]）。系统理论批判详见 [[Critique of PISA]]，国际学者联合公开抵制行动详见 [[2014 Open Letter on PISA]]。
 >
-> > [!axis] 生活情境应用测度神话 vs 试题去情境化学术本质与预测试局限
+> > [!axis] 生活情境应用测度神话 vs 试题去情境化学术本质与[[Pilot Testing|预测试]]局限
 > > 围绕 PISA 试题是否真正测查现实生活中的实践能力，还是本质上仍属于脱离具体文化土壤的抽象纸笔难题。
 > >
-> > - **官方能力宣称** 经合组织坚称 PISA 试题摆脱了死记硬背的学科大纲限制，依托生活真实情境考察未来公民面向 21 世纪的跨学科应用与问题解决能力。
+> > - **官方能力宣称** 经合组织坚称 PISA 试题摆脱了[[Rote Learning|死记硬背]]的学科大纲限制，依托生活真实情境考察未来公民面向 21 世纪的跨学科应用与问题解决能力。
 > > - **批判认知分析（Hopmann, 2008; [[Argument_Deng_2016_CE|Deng & Gopinathan, 2016]]）** 批判学者指出，试题中的生活情境已被高度抽象化与去情境化，本质上仍属于纸笔学术解题；试题在跨国试测阶段依循“寻找多数情境行得通之题目”的试错筛选逻辑，剔除了丰富的文化与课程实质，混淆了统计跨国可比性与课程实质效度。[[Argument_Deng_2016_CE|(Hopmann, 2008; cited in Deng & Gopinathan, 2016, pp. 450, 454)]]
 
 > [!lessons] 经验教训与启示
@@ -423,7 +428,7 @@ updated: 2026-11-18
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 系统解构经合组织将高分归因于名师选拔与探究课改的官方叙事，揭示高利害分流统考与直接讲授主导的混合教学法才是支撑顶尖学业表现的制度根基，并批判 PISA 联赛对教育立国使命的经济主义窄化（pp. 449–454, 460, 467）。
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 系统解构经合组织将高分归因于名师选拔与探究课改的官方叙事，揭示高利害分流统考与[[Direct Instruction|直接讲授]]主导的[[Hybrid Pedagogy|混合教学法]]才是支撑顶尖学业表现的制度根基，并批判 PISA 联赛对教育立国使命的经济主义窄化（pp. 449–454, 460, 467）。
 > - [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010)]] — 概述 PISA 跨国能力评估体系的起源、三大[[21st Century Skills and Competencies Discourse|核心素养]]范式及其全球扩散历程。
 > - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 构建二维四象限政策[[Analytic Framework|分析框架]]，实证解构全球参测国对 PISA 数据的政策指引与政策背书机制。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 剖析经合组织与[[European Commission|欧盟委员会]]共生网络，揭示 PISA 比较指标在[[European Education Space|欧洲教育空间]]制造中的软治理功能。

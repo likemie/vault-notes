@@ -34,6 +34,7 @@ related_concepts:
   - "[[Apprenticeship]]"
   - "[[Paradigm]]"
   - "[[Scientific Paradigm]]"
+  - "[[Neoliberalism]]"
   - "[[Strategic Compliance]]"
   - "[[Transformative Change]]"
   - "[[Rule Ambiguity]]"
@@ -65,14 +66,14 @@ sources:
 part_of:
 status: draft
 created: 2026-10-11
-updated: 2026-11-15
+updated: 2026-11-19
 subtype: report
 publication_type: book-chapter
 title: "Argument_Streeck_Thelen_2005_OUP"
 argument_key: "Argument_Streeck_Thelen_2005_OUP"
 argument_display_title: "Introduction: Institutional change in advanced political economies"
 argument_kind: "book-chapter"
-argument_related_count: 35
+argument_related_count: 36
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -335,7 +336,7 @@ issuing_organization: ""
 > 3. **多层次治理体系下的规避与选择性采纳** 欧盟统一市场与跨国资本市场为国内追求自由化的精英提供了规避国内传统保护主义法规的外部跳板。（pp. 21–22, 33–34）
 
 > [!implication]- 理论推论：资本主义体制下自由化演进的默认特权地位
-> 自由化在当代发达资本主义体制中成为缺乏剧烈外部断裂时的默认演进路径。建立限制市场的集体保护必须克服严峻的集体行动困境与搭便车倾向；而推进自由化只需任由微观主体的自利行为自然演进，并提供私人替代选项即可。这一非对称性使得置换、分层、漂移、转换与耗竭五大渐进机制，成为新自由主义市场重塑深入渗透的特权工具。（pp. 33–34）
+> 自由化在当代发达资本主义体制中成为缺乏剧烈外部断裂时的默认演进路径。建立限制市场的集体保护必须克服严峻的集体行动困境与搭便车倾向；而推进自由化只需任由微观主体的自利行为自然演进，并提供私人替代选项即可。这一非对称性使得置换、分层、漂移、转换与耗竭五大渐进机制，成为[[Neoliberalism|新自由主义]]市场重塑深入渗透的特权工具。（pp. 33–34）
 
 ---
 

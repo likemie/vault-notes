@@ -13,10 +13,10 @@ cssclasses:
   - person-page
 nationality: france
 person_region: "france"
-person_related_count: 18
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 21
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1946"
 died: "2010"
 lifespan: "1946–2010"
@@ -31,6 +31,7 @@ tags:
 related_concepts:
   - "[[Praxis]]"
   - "[[Normal School]]"
+  - "[[Neoliberalism]]"
   - "[[Determinism]]"
   - "[[Critical Pedagogy]]"
   - "[[Epistemology]]"
@@ -45,8 +46,10 @@ related_theories:
   - "[[Conditioned State Theory]]"
 related_methods: []
 related_persons:
+  - "[[Karl Marx]]"
   - "[[Liliana Esther Olmos]]"
   - "[[Edward Said]]"
+  - "[[Jean-Paul Sartre]]"
   - "[[Carlos Alberto Torres]]"
 related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
@@ -55,13 +58,13 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-30
+updated: 2026-11-19
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 法国当代著名马克思主义哲学家、社会理论家与激进政治活动家，巴黎第八大学（Université Paris 8 Vincennes-Saint-Denis）哲学系资深教授。
+> - **身份位置** 法国当代著名[[Karl Marx|马克思]]主义哲学家、社会理论家与激进政治活动家，巴黎第八大学（Université Paris 8 Vincennes-Saint-Denis）哲学系资深教授。
 > - **核心角色** 法国 1968 年“五月风暴”（Mai 68）学生运动核心领袖之一；当代反资本主义全球化运动的精神导师；为后冷战时期的历史唯物主义注入深邃的非线性时间观与实践辩证法；提出了“冷酷的严谨科学”与“热烈的批判乌托邦”熔铸观。
 > - **代表贡献** 出版代表作《不合时宜的马克思》（1995/1999）、《时代的不协调》（1995）与《忧郁的赌注》（1997）；系统提出并阐发马克思主义作为当代不可超越的“[[Praxis|实践哲学]]”（Philosophy of Praxis）的方法论生命力。
 
@@ -77,7 +80,7 @@ updated: 2026-10-30
 > - **1968** 作为“三二二运动”（Mouvement du 22 Mars）核心发起人之一，与丹尼尔·科恩-本迪（Daniel Cohn-Bendit）共同引爆了席卷全法的“五月风暴”学生与工人总罢工。
 > - **1969–1990s** 长期作为法国革命共产主义同盟（LCR）与第四国际核心领导人，同时任教于具有激进批判学术传统的巴黎第八大学哲学系，开创非教条主义马克思主义哲学研究。
 > - **1995** 出版哲学代表作《不合时宜的马克思：一次批判冒险的辉煌与贫困》（*Marx l'intempestif*），在苏东剧变后西方“[[End of History Thesis|历史终结论]]”甚嚣尘上的逆境中，系统重构马克思主义时间哲学与危机理论。
-> - **2000s** 积极投身[[World Social Forum|世界社会论坛]]（WSF）与反新自由主义全球化抵抗运动，其哲学思想成为连接欧洲批判哲学与拉美被压迫者教育学的重要桥梁。
+> - **2000s** 积极投身[[World Social Forum|世界社会论坛]]（WSF）与反[[Neoliberalism|新自由主义]]全球化抵抗运动，其哲学思想成为连接欧洲批判哲学与拉美被压迫者教育学的重要桥梁。
 > - **2010** 因长年罹患重病于巴黎逝世，享年 63 岁，被法国学术界与左翼思想界公认为“一代人中最具道德勇气与思想深度的哲学家”。
 
 ---
@@ -110,7 +113,7 @@ updated: 2026-10-30
 
 > [!person-network] 关系网络
 > - **思想传承** 安东尼奥·葛兰西（Antonio Gramsci） — 深度继承其“[[Praxis|实践哲学]]”概念与文化统识批判。
-> - **哲学对话者** 让-保罗·萨特（Jean-Paul Sartre） — 吸收萨特在《方法论问题》中论证“马克思主义依然是我们这个时代不可逾越的哲学”的存在主义实践立场。
+> - **哲学对话者** [[Jean-Paul Sartre|让-保罗·萨特]]（Jean-Paul Sartre） — 吸收萨特在《方法论问题》中论证“马克思主义依然是我们这个时代不可逾越的哲学”的存在主义实践立场。
 > - **理论共鸣者** [[Carlos Alberto Torres]] 与 [[Liliana Esther Olmos]] — 在分析拉美[[Conditioned State Theory|受限国家]]危机与新自由主义抵抗时，将本[[Edward Said|萨义德]]思想确立为全书总结的压轴方法论纲领。
 > - **批判对象** 新自由主义犬儒主义与后现代“[[End of History Thesis|历史终结论]]” — 痛斥其将资本主义市场制度永恒化、去历史化的[[Epistemology|认识论]]欺骗。
 

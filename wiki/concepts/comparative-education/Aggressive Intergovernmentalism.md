@@ -9,7 +9,7 @@ aliases:
 summary: "在欧盟教育治理与欧洲一体化研究中，指主权成员国政府在面对全球化与知识经济竞争压力时，打破 1990 年代守卫宪制主权的防御型政府间主义立场，主动通过超国家峰会签署集体目标并自愿让渡监控权，依托开放协调法等软法机制推动国内结构性改革的积极治理范式。"
 type: concept
 domain: "comparative-education"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Technologies of Surveillance]]"
   - "[[Problem Solving]]"
+  - "[[Neoliberalism]]"
   - "[[State Educational Sovereignty]]"
 related_theories:
   - "[[Governmentality]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-28
-updated: 2026-10-30
+updated: 2026-11-19
 ---
 
 ---
@@ -114,7 +115,7 @@ updated: 2026-10-30
 > > 争论聚焦于通过政府间峰会推动软法教育协调，是否规避了国内议会监督并加剧了民主赤字。
 > >
 > > - **自由政府间主义与政策协调倡导者** 认为该模式兼顾了成员国的主权安全与共同体合作效能，各成员国首脑作为民意代表自愿签署协议，体现了高效的跨国[[Problem Solving|问题解决能力]]。
-> > - **批判学者与宪政学者（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009]]）** 指出这种自愿承诺实质上体现了行政权对立法权的双重规避：各国政府首脑借由政府间密闭外交达成协议，随后通过外部同侪压力倒逼国内议会与社会各界顺从新自由主义改革，架空了国内民主协商程序。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 490–493)]]
+> > - **批判学者与宪政学者（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009]]）** 指出这种自愿承诺实质上体现了行政权对立法权的双重规避：各国政府首脑借由政府间密闭外交达成协议，随后通过外部同侪压力倒逼国内议会与社会各界顺从[[Neoliberalism|新自由主义]]改革，架空了国内民主协商程序。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 490–493)]]
 
 > [!citation-card] 代表性评论
 > 成员国关于教育的这些观点转变，可以被视为欧盟政策进程更广泛转变的结果。2000 年后，欧盟逐渐摒弃了成员国教育体系‘非协调化’的教条，转而支持对国家教育规划与政策选择实行更加‘欧洲化’的控制。

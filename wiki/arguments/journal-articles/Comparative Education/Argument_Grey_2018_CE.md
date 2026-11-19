@@ -20,6 +20,7 @@ tags:
   - region/uk
 related_concepts:
   - "[[International Large-Scale Assessments]]"
+  - "[[Neoliberalism]]"
   - "[[Document]]"
   - "[[Mediatised Governance]]"
   - "[[Rashomon Effect]]"
@@ -51,6 +52,7 @@ related_instruments: []
 related_persons:
   - "[[Michael Gove]]"
   - "[[Andreas Schleicher]]"
+  - "[[Charles Taylor]]"
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
@@ -69,16 +71,16 @@ sources:
 part_of:
 status: draft
 created: 2026-09-11
-updated: 2026-11-15
+updated: 2026-11-19
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Grey_2018_CE"
 argument_key: "Argument_Grey_2018_CE"
 argument_display_title: "PISA: multiple ‘truths’ and mediatised global governance"
 argument_kind: "journal-article"
-argument_related_count: 39
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 41
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: "Comparative Education"
 book_title: ""
@@ -89,7 +91,7 @@ issuing_organization: ""
 ---
 
 > [!question]
-> 过去三十年中，[[International Large-Scale Assessments\|国际大规模学生评估]]（International Large-Scale Assessments, ILSAs）对各国国内教育政策制定产生了深远影响，尤其是由[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）主持的[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, [[PISA]]）常被学界描述为催生全球教育治理机制与推动各国政策趋向标准化新自由主义模式的核心驱动力。既往[[Document|文献]]广泛探讨了 PISA 对宏观政策文本的冲击，却极少深入探究评估数据在主权国家内部究竟如何通过关键行动者向公众呈现与转译。研究以英格兰应对 2012 年 PISA 结果（2013 年 12 月发布）为个案，系统探究三大关键行动者——[[OECD]] 官方机构、本土政治行动者（以时任教育大臣 [[Michael Gove]] 为代表）以及大众新闻媒体（严肃大报、通俗小报、商业期刊与广播电视）——如何分别阐释同一批数据，重点剖析媒体自身的生产逻辑如何深度介入政策议程，催生出一种框定公共辩论维度的[[Mediatised Governance\|媒介化治理]]。
+> 过去三十年中，[[International Large-Scale Assessments\|国际大规模学生评估]]（International Large-Scale Assessments, ILSAs）对各国国内教育政策制定产生了深远影响，尤其是由[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）主持的[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, [[PISA]]）常被学界描述为催生全球教育治理机制与推动各国政策趋向标准化[[Neoliberalism|新自由主义]]模式的核心驱动力。既往[[Document|文献]]广泛探讨了 PISA 对宏观政策文本的冲击，却极少深入探究评估数据在主权国家内部究竟如何通过关键行动者向公众呈现与转译。研究以英格兰应对 2012 年 PISA 结果（2013 年 12 月发布）为个案，系统探究三大关键行动者——[[OECD]] 官方机构、本土政治行动者（以时任教育大臣 [[Michael Gove]] 为代表）以及大众新闻媒体（严肃大报、通俗小报、商业期刊与广播电视）——如何分别阐释同一批数据，重点剖析媒体自身的生产逻辑如何深度介入政策议程，催生出一种框定公共辩论维度的[[Mediatised Governance\|媒介化治理]]。
 
 > [!claim] 核心主张
 > PISA 数据的发布在主权国家内部展现出深刻的[[Rashomon Effect\|罗生门效应]]，实证数据沦为具有极高可塑性的[[Discourse|话语]]资源；英格兰政客通过系统性的遗漏话语与负面危机修辞制造出教育全面停滞与衰退的虚假神话，以此为其既定的私有化与严苛问责改革正名；大众媒体则依循追求冲突、归责与耸动标题的[[Media Logic\|媒介逻辑]]放大危机，同时对具体政策方案与政客对国际数据的歪曲采取[[Policy Avoidance\|政策规避]]，消解了第四权力的民主问责职能；最终，政治迫切性与媒介逻辑深度交织，共同促成了限制政策讨论维度的[[Mediatised Governance\|媒介化治理]]（mediatised governance），表明全球教育治理在主权国家内部展现出差[[Alienation|异化]]的本土转译形态，被本土媒介生态与国内政治诉求深度重塑，超越了超国家机构自上而下的单一政策趋同路径。
@@ -199,7 +201,7 @@ issuing_organization: ""
 > - 学会学习、复杂思考方式与高阶协作方式
 > - 仅比中等教育多受过数年培训的普通从业者
 > - 高水平专业知识人员与[[Reflexivity\|反思性]]实践者
-> - 泰勒制、层级森严的科层管理模式
+> - [[Charles Taylor|泰勒]]制、层级森严的科层管理模式
 > - 扁平化、同行协作与专业共同体结构
 > - 主要自上而下向教育行政管理部门与官僚权威负责
 > - 主要向专业同行与多元利益相关者负责

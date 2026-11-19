@@ -8,10 +8,10 @@ aliases:
 summary: "存在于熟练工程师、技师与实验科学家身上、无法完全编码为图纸与专利的排障手感与默会实践经验；作为技术能力的核心支柱，依赖物理邻近与制造生态传承，并在智能充沛时代构成物理创新的关键约束。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - theme/innovation
   - theme/manufacturing
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Engineering Education]]"
   - "[[Paradigm]]"
   - "[[Practitioner-in-Residence]]"
+  - "[[Neoliberalism]]"
   - "[[Innovation Hub]]"
   - "[[Document]]"
   - "[[Total Quality Management]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-03
+updated: 2026-11-19
 ---
 
 ---
@@ -130,7 +131,7 @@ updated: 2026-11-03
 > > [!axis] 去制造化轻资产模式 vs. 实体[[Industrial Commons|产业公地]]维护
 > > 围绕发达经济体是否可以专注于纯软件、设计与金融，而将重资产实体制造全部外包。
 > >
-> > - **新自由主义轻资产分工论** 认为微笑曲线两端（前沿研发与品牌营销）附加值最高，放弃低附加值制造外包有助于资本效率最大化。
+> > - **[[Neoliberalism|新自由主义]]轻资产分工论** 认为微笑曲线两端（前沿研发与品牌营销）附加值最高，放弃低附加值制造外包有助于资本效率最大化。
 > > - **国家[[Innovation Ecosystem|创新生态]]派（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）** 痛陈轻资产模式是毁灭性的战略短视；失去制造不仅带走中产阶层就业，更彻底斩断了过程知识的代际传承，导致国家丧失对先进半导体、锂电池及复杂装备的自主试制与迭代能力。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 48–54)]]
 >
 > > [!axis] 纯学术科研阶梯 vs. 动手工匠社会地位

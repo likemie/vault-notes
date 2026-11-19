@@ -10,7 +10,7 @@ subtype: organization
 region: norway
 fact_region: "norway"
 fact_kind: "organization"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Evidence Standards]]"
   - "[[Tacit Knowledge]]"
+  - "[[Neoliberalism]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Scientization of Politics]]"
   - "[[Context in Comparative Education]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-09
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -126,7 +127,7 @@ updated: 2026-11-11
 > > [!axis] 超国家框架依从与本土自主性争议
 > > 学术界就委员会全员赴经合组织参访并采纳其 21 世纪技能模型是否存在政策过度借用展开探讨。
 > >
-> > - **外部批判视角** 质疑委员会表面标榜北欧福利国家独特国情，实则全面臣服于新自由主义全球技能话语。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 540–542)]]
+> > - **外部批判视角** 质疑委员会表面标榜北欧福利国家独特国情，实则全面臣服于[[Neoliberalism|新自由主义]]全球技能话语。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 540–542)]]
 > > - **委员会委员回应** 经合组织框架在横向比对中展现出最强的逻辑自洽性，吸纳该框架服务于挪威本土教育现代化的自主需求。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 541)]]
 
 ---

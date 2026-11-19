@@ -7,9 +7,9 @@ aliases:
 summary: "教育改革选择性参照外部政策经验并在本地重新解释、合法化和变形的过程，是比较教育分析跨国改革流动的核心概念"
 type: concept
 domain: "comparative-education"
-related_count: 139
-related_level: 13
-related_stars: "💎💎💎💎⭐"
+related_count: 142
+related_level: 14
+related_stars: "💎💎💎💎⭐⭐"
 related_color: "#ddd6fe"
 tags:
   - policy-borrowing
@@ -60,6 +60,7 @@ related_concepts:
   - "[[Allgemeine Pädagogik]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Rich and Thick Description]]"
+  - "[[Neoliberalism]]"
   - "[[Discursive Field]]"
   - "[[School Effectiveness]]"
   - "[[Public-Private Partnership]]"
@@ -110,6 +111,8 @@ related_persons:
   - "[[Sigrid Hartong]]"
   - "[[Michael Sadler]]"
   - "[[Eleftherios Klerides]]"
+  - "[[Zongyi Deng]]"
+  - "[[Saravanan Gopinathan]]"
   - "[[Gita Steiner-Khamsi]]"
   - "[[Andreas Kazamias]]"
   - "[[Calvin Stowe]]"
@@ -166,7 +169,7 @@ related_arguments:
 confidence: high
 status: stable
 created: '2026-05-01'
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -372,7 +375,7 @@ updated: 2026-11-18
 > **生存与地缘焦虑的驱动** 在国际自助竞争和主权无政府状态下，国家出于地缘竞争、工业落后恐慌或生存焦虑（如 19 世纪普法竞争、德美工业竞争、明治维新的黑船冲击、冷战[[Sputnik Shock 1957|人造卫星冲击]]等），会将地缘位阶更高的强国体制建构为“[[Reference Society|参考社会]]”（Reference Societies），试图将其教育经验视为保障主权安全、赶超地缘对手并提升[[Hard Power|硬实力]]的工具性资本进行借用。（[[Argument_Klerides_2023_CE|Klerides, 2023, p. 420]]）
 
 > [!claim] [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]]
-> **去情境化输入要素借用与[[Policy Learning|政策学习]]转向** 邓宗怡与高平纳坦（[[Argument_Deng_2016_CE|Deng & Gopinathan, 2016]]）批判了围绕[[High-Performing Education Systems|卓越表现教育系统]]（HPES）构建的跨国政策借用[[Document|文献]]。该类文献将复杂的系统绩效还原为师资准入门槛、领导力培训与问责标准等可任意挑选的输入要素，完全忽略了这些要素深嵌其中的社会文化、考试分流体制与本土教学规程。任何脱离制度生态与课堂教学实际的政策拼贴均难以在借入国复制成效；跨国借鉴必须以结合源系统历史文化实证审视的“政策学习（Policy Learning）”取代去情境化的浅层借用。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 463–464)]]
+> **去情境化输入要素借用与[[Policy Learning|政策学习]]转向** [[Zongyi Deng|邓宗怡]]与[[Saravanan Gopinathan|高平纳坦]]（[[Argument_Deng_2016_CE|Deng & Gopinathan, 2016]]）批判了围绕[[High-Performing Education Systems|卓越表现教育系统]]（HPES）构建的跨国政策借用[[Document|文献]]。该类文献将复杂的系统绩效还原为师资准入门槛、领导力培训与问责标准等可任意挑选的输入要素，完全忽略了这些要素深嵌其中的社会文化、考试分流体制与本土教学规程。任何脱离制度生态与课堂教学实际的政策拼贴均难以在借入国复制成效；跨国借鉴必须以结合源系统历史文化实证审视的“政策学习（Policy Learning）”取代去情境化的浅层借用。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 463–464)]]
 
 ---
 
@@ -449,7 +452,7 @@ updated: 2026-11-18
 > **全球化权力结构与非自愿强加维度** 本类命题批判早期政策借用理论将跨国流动预设为自愿、平等与双向互惠的认识论局限，揭示全球资本与核心强权在跨国政策扩散中的结构性强加与依附机制。
 
 > [!claim] [[Val D. Rust|Rust, V. D.]]; Johnstone, B.; Allaf, C.
-> **全球化四维响应与强制再生产批判** 传统政策借用研究往往局限于“接受（Receptivity）”维度，将注意力集中于主权国家出于自主改良意愿主动调研和汲取外部模式的过程，从而掩盖了国际关系中强势核心国家对弱势边缘国家非自愿的结构性强加。该研究确立了涵盖四重机制的全球化教育响应批判分析框架：除主动借用的“接受”外，还包括草根力量捍卫本土文化、抵御新自由主义资本渗透的“抵制（Resistance）”，边缘社群抢救濒危传统语言与本土生态知识的“恢复（Restoration）”，以及核心发达国家与国际金融机构向发展中国家强制输出市场化私有化体制所造成的“强制再生产（Reproduction）”。这一框架揭示出跨国政策借用是充满霸权强加与依附对抗的政治经济过程，具有深层的权力不对称性。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 133–134)]]
+> **全球化四维响应与强制再生产批判** 传统政策借用研究往往局限于“接受（Receptivity）”维度，将注意力集中于主权国家出于自主改良意愿主动调研和汲取外部模式的过程，从而掩盖了国际关系中强势核心国家对弱势边缘国家非自愿的结构性强加。该研究确立了涵盖四重机制的全球化教育响应批判分析框架：除主动借用的“接受”外，还包括草根力量捍卫本土文化、抵御[[Neoliberalism|新自由主义]]资本渗透的“抵制（Resistance）”，边缘社群抢救濒危传统语言与本土生态知识的“恢复（Restoration）”，以及核心发达国家与国际金融机构向发展中国家强制输出市场化私有化体制所造成的“强制再生产（Reproduction）”。这一框架揭示出跨国政策借用是充满霸权强加与依附对抗的政治经济过程，具有深层的权力不对称性。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 133–134)]]
 
 ---
 

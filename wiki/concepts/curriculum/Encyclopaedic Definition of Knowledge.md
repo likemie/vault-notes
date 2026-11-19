@@ -10,7 +10,7 @@ aliases:
 summary: "源于欧陆与拉美的教育知识传统，将知识界定为由学科分类、客观事实与经典概念构成的系统体系，核心在于知识讲授与理性记忆。1990年代跨国治理中，它被国际组织推行的‘全球教育话语’判定为落后僵化，并被能力本位课程强行替代；但在阿根廷等国，废除统编大纲、下放课程自主权因缺乏专业配套，诱发教师集体翻抄商业教辅目录备课的反常恶果，致使国家课程主权向出版资本让渡。"
 type: concept
 domain: "curriculum"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Recontextualization]]"
   - "[[Document]]"
   - "[[Enlightenment]]"
+  - "[[Neoliberalism]]"
   - "[[Critical Pedagogy]]"
   - "[[Cultural Capital]]"
   - "[[Shape-Shifting]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -140,7 +141,7 @@ updated: 2026-11-15
 > > [!axis] 系统学科知识传承 vs. 适应劳动力市场的动态实用技能
 > > 争论学校教育应优先传承深厚完整的文化学术事实，还是培养灵活多变的就业应用能力。
 > >
-> > - **新自由主义与跨国技术官僚** 强调信息经济知识半衰期极短，[[Rote Learning|死记硬背]]学科事实毫无价值，必须转向以解决问题为导向的能力本位。
+> > - **[[Neoliberalism|新自由主义]]与跨国技术官僚** 强调信息经济知识半衰期极短，[[Rote Learning|死记硬背]]学科事实毫无价值，必须转向以解决问题为导向的能力本位。
 > > - **知识社会学与[[Critical Pedagogy|批判教育学]]者** 强调剥夺底层学生获取系统性学科事实知识的机会，将导致[[Cultural Capital|文化资本]]贫困化加剧，能力本位实质是劳动力降维的意识形态外衣。
 
 ---

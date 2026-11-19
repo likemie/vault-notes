@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: "uk"
 person_region: "uk"
-person_related_count: 23
+person_related_count: 24
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Joint Practice Development]]"
   - "[[Factorial Interpretive Framework]]"
   - "[[Activity Traps]]"
+  - "[[Neoliberalism]]"
   - "[[Quasi-market]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Construct]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-16
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -86,7 +87,7 @@ updated: 2026-11-15
 > - **2014 — *Are We Nearly There Yet? Progress, Issues and Possible [[Early Steps\|Next Steps]] for a [[Self-Improving School System]]* (IOE Press)** 全面审视英格兰 2010 年[[The Importance of Teaching\|《教学的重要性》]]白皮书改革进展的奠基之作，系统阐释了学校主导型改进系统在政策预期与落地现实之间的巨大落差。
 > - **2015 — *How Can Evidence Inform Teaching and Decision Making Across 21,000 Autonomous Schools?* (in [[Chris Brown\|C. Brown]], Ed., *Leading the Use of Research & Evidence in Schools*, IOE Press)** 深入剖析在 21,000 所高度自治但又相互孤立竞争的公立学校体系中，如何依托中介网络与微观教研机制实现研究证据的可信动员。
 > - **2018 — *The Evidence-Informed School System in England: Where Should School Leaders Be Focusing Their Efforts?* (with Chris Brown, *Leadership and Policy in Schools*)** 基于 79 所小学 696 名教育者的基线调查数据，提出能力、文化、环境与资源的四[[Factorial Interpretive Framework\|因素解释框架]]，实证揭露学校在行动理论审思与效果评估上的严重断裂，警示[[Activity Traps\|活动陷阱]]风险。
-> - **2018 — *Hierarchy, Markets and Networks? Analysing the 'Self-Improving School-Led' System in England* (with Rob Higham, UCL IOE Press)** 基于大规模实证数据揭示英格兰教育治理将自上而下的行政控制、新自由主义市场竞争与扁平校际网络强行拼贴所导致的系统碎片化。
+> - **2018 — *Hierarchy, Markets and Networks? Analysing the 'Self-Improving School-Led' System in England* (with Rob Higham, UCL IOE Press)** 基于大规模实证数据揭示英格兰教育治理将自上而下的行政控制、[[Neoliberalism|新自由主义]]市场竞争与扁平校际网络强行拼贴所导致的系统碎片化。
 
 ---
 

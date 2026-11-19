@@ -7,7 +7,7 @@ aliases:
 summary: "以商业资本逻辑、市场化工具与企业家精神重构社会公益与公共治理的宏观制度范式与意识形态，主张资本主义可天然具备慈善属性；其核心特征在于将国家传统的财政再分配职能转移至免税中介机构与顾问网络，将公共教育等领域转化为投资市场，引发民主问责侵蚀与公共财富逆向流动的批判。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Policy Mobility]]"
   - "[[Bureaucracy]]"
   - "[[Venture Philanthropy]]"
+  - "[[Neoliberalism]]"
   - "[[Deductible Gift Recipient]]"
   - "[[Discourse]]"
   - "[[Policy Network]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-11-19
 ---
 
 ---
@@ -62,7 +63,7 @@ updated: 2026-10-22
 
 > [!boundary]- 概念边界
 > - 不等于 **传统慈善（Traditional Philanthropy）** — 传统慈善以无偿捐赠、善意救济与利他救助为宗旨，不谋求对公共政策架构或受助方治理权的直接控制；慈善资本主义则视慈善为战略投资，追求体系性变革、商业模式移植与投资回报（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 521]]）。
-> - 不等于 **[[Venture Philanthropy\|风险慈善]]（Venture Philanthropy）** — 风险慈善是慈善资本主义在操作层面的具体金融工具与组织运作技术（如多年期高介入投资、董事会席位、量化指标对赌）；慈善资本主义则是涵盖国家治理转型、跨国资本流动与新自由主义意识形态的宏观政治经济范式（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 520–522]]）。
+> - 不等于 **[[Venture Philanthropy\|风险慈善]]（Venture Philanthropy）** — 风险慈善是慈善资本主义在操作层面的具体金融工具与组织运作技术（如多年期高介入投资、董事会席位、量化指标对赌）；慈善资本主义则是涵盖国家治理转型、跨国资本流动与[[Neoliberalism|新自由主义意识形态]]的宏观政治经济范式（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 520–522]]）。
 > - 不等于 **纯粹商业市场化（Pure Commercial Privatisation）** — 纯粹市场化以追求直接股东利润最大化为合法性前提；慈善资本主义则披覆道德行善与社会正义外衣，借助非营利免税地位和公共财政补贴维系其商业顾问与金融网络。
 
 ---

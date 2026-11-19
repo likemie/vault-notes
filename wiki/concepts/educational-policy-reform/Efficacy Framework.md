@@ -8,7 +8,7 @@ aliases:
 summary: "由跨国教育出版巨头培生集团在首席教育顾问 Michael Barber 主导下推出的全球商业产品审计体系，要求所有产品附带量化学习成效证据，被批判教育社会学揭示为跨国资本垄断公共采购标准、构建循证话语门槛的核心治理工具。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Alienation]]"
   - "[[Teacher Professional Agency]]"
   - "[[Professional Judgment]]"
+  - "[[Neoliberalism]]"
   - "[[Charter Schools]]"
   - "[[Critical Pedagogy]]"
 related_theories: []
@@ -54,7 +55,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 status: active
 created: '2026-10-16'
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -131,7 +132,7 @@ updated: 2026-11-15
 > **技术理性压制[[Professional Judgment|专业判断]]** 实效性框架以因果量化为唯一合法尺度，迫使公立学校采购能够短期推高测验分数的流水线式工具，削弱了教师基于具体学生情境的专业反思。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 11, 134–135)]]
 
 > [!claim] Ball, S. J.
-> **意识形态商品化** 所谓的实效性实证本质上是一种将新自由主义绩效主义包装为科学法则的[[Discourse|话语]]策略，旨在为全球南方国家的营利性低成本私立学校（PALF）争夺公共代金券提供合法性基础。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 80)]]
+> **意识形态商品化** 所谓的实效性实证本质上是一种将[[Neoliberalism|新自由主义]]绩效主义包装为科学法则的[[Discourse|话语]]策略，旨在为全球南方国家的营利性低成本私立学校（PALF）争夺公共代金券提供合法性基础。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 80)]]
 
 ---
 

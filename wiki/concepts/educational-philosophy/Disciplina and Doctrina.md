@@ -8,10 +8,10 @@ aliases:
 summary: "西方教育思想史上关于知识组织和传授的一对经典二元范式：disciplina 侧重既有知识的灌训与规训，doctrina 侧重知识的动态生产与开放更新。在当代超国家治理与循证教育中，跨国测评排位赛与新泰勒主义清单监控作为强有力的远处规训机制（disciplina），将教学活动窄化为数据合规，严重压制了教育的人文关系建构与批判性审议（doctrina）。"
 type: concept
 domain: "educational-philosophy"
-related_count: 59
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 62
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - educational-philosophy
   - curriculum-theory
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Visible Learning]]"
   - "[[Ontology]]"
+  - "[[Neoliberalism]]"
   - "[[Competitiveness]]"
   - "[[Champ]]"
   - "[[Determinism]]"
@@ -60,9 +61,11 @@ related_methods:
   - "[[Effect Size]]"
 related_persons:
   - "[[Ewald Terhart]]"
+  - "[[Karl Marx]]"
   - "[[Martin Carnoy]]"
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
+  - "[[Charles Taylor]]"
   - "[[John Hattie]]"
 related_facts:
   - "[[OECD]]"
@@ -85,7 +88,7 @@ related_instruments:
 confidence: high
 status: completed
 created: 2026-06-22
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -162,7 +165,7 @@ updated: 2026-11-15
 
 ---
 
-> [!concept-proposition] 命题二｜新自由主义绩效评估指标体系将生命世界体验异化为单向度的数据规训
+> [!concept-proposition] 命题二｜[[Neoliberalism|新自由主义]]绩效评估指标体系将生命世界体验异化为单向度的数据规训
 > **可测量性对教学批判力的抹杀** 这一命题剖析数字资本主义与评估产业如何通过标准化控制将教学异化为单一的规训程序。
 
 > [!claim] Foran (2020)
@@ -182,7 +185,7 @@ updated: 2026-11-15
 > **批判政治经济学与国家理论维度** 这一命题剖析学校教育在资本主义生产关系中的制度定位，打破早期机械[[Determinism|决定论]]，揭示单向阶级规训（disciplina）与底层民主反思及赋权（doctrina）在学校[[Champ|场域]]内的持久拉锯。
 
 > [!claim] Carnoy (1985) & [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]]
-> **学校作为生产关系规训再生产与民主化诉求交织的博弈场域** 早期激进马克思主义往往将学校机械等同于资本主义统治阶级单向规训工人的社会控制工具（disciplina）；[[Martin Carnoy|马丁·卡诺伊]]（Martin Carnoy）在 1980 年代与卡扎米亚斯在第四阶段学科史梳理中指出，学校构成了充满深刻内在拉锯的复杂场域：一方面，学校承担为资本主义经济体系维持社会分工与劳动力顺从的规训再生产任务（disciplina）；另一方面，工薪大众与底层学生始终在学校中争取平等的民主表达权利、主体解放与批判性认知（具备 doctrina 的开放探索特质）。在转型期国家中，政治国家权力的能动干预更证明了教育的规训形态具有相对自主性。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 153–154)]]
+> **学校作为生产关系规训再生产与民主化诉求交织的博弈场域** 早期激进[[Karl Marx|马克思]]主义往往将学校机械等同于资本主义统治阶级单向规训工人的社会控制工具（disciplina）；[[Martin Carnoy|马丁·卡诺伊]]（Martin Carnoy）在 1980 年代与卡扎米亚斯在第四阶段学科史梳理中指出，学校构成了充满深刻内在拉锯的复杂场域：一方面，学校承担为资本主义经济体系维持社会分工与劳动力顺从的规训再生产任务（disciplina）；另一方面，工薪大众与底层学生始终在学校中争取平等的民主表达权利、主体解放与批判性认知（具备 doctrina 的开放探索特质）。在转型期国家中，政治国家权力的能动干预更证明了教育的规训形态具有相对自主性。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 153–154)]]
 
 ---
 
@@ -198,7 +201,7 @@ updated: 2026-11-15
 > **[[Neo-Taylorism|新泰勒主义]]监控与清单规训维度** 剖析[[Evidence-Based Education|循证教育]]倡导者如何通过行政监控软件、气压计指标与外科手术式核查清单，将一线教学降格为可直接管制的机械技术操作，剥夺教师在具体情境中的伦理审议与关系建构权力。
 
 > [!claim] [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]
-> **新泰勒主义监控与教学人文关系维度的剥夺** 约翰逊与詹岑（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）揭示，《[[Visible Learning|可见的学习]]》对“科学管理”的狂热追求在本质上延续了泰勒制（Taylorism）工时与动作拆解的工业流水线逻辑（[[Argument_Eacott_2017_SLM|Eacott, 2017]]; Taylor, 1911）。在该[[Paradigm|范式]]中，[[John Hattie|约翰·哈蒂]]将一线教师的经验交流斥为缺乏科学依据的“轶事传闻”，甚至援引保守派智库[[Thomas B. Fordham Institute|福特汉姆研究所]]的论调将教学贬抑为“不成熟的职业”（immature profession），从而为建立自上而下的技术规训（disciplina）确立合法性。哈蒂不仅主持开发了具备全景监控潜力的 [[Assessment Tools for Teaching and Learning|asTTle]] 计算机网络系统，更将该系统的[[Barometer of Achievement|气压计图表]]迁移至专著中，主张教学应当向外科手术与高山救援看齐。这种粗暴类比严重混淆了机械技术操作与复杂育人实践的本质边界：外科手术依赖固定清单与标准打结，而真正的教学（doctrina）是在特定社区与充满差异的班级中建设师生学习共同体的复杂人际与伦理过程。当学校被改造成由外部标准清单管制的加盟连锁店时，教师被异化为全景受控的技术操作工，学生被降格为未来测验的数据产出点，教育本身的人文关怀、民主价值与批判探索被技术规训彻底摧毁。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–30)]]
+> **新[[Charles Taylor|泰勒]]主义监控与教学人文关系维度的剥夺** 约翰逊与詹岑（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）揭示，《[[Visible Learning|可见的学习]]》对“科学管理”的狂热追求在本质上延续了泰勒制（Taylorism）工时与动作拆解的工业流水线逻辑（[[Argument_Eacott_2017_SLM|Eacott, 2017]]; Taylor, 1911）。在该[[Paradigm|范式]]中，[[John Hattie|约翰·哈蒂]]将一线教师的经验交流斥为缺乏科学依据的“轶事传闻”，甚至援引保守派智库[[Thomas B. Fordham Institute|福特汉姆研究所]]的论调将教学贬抑为“不成熟的职业”（immature profession），从而为建立自上而下的技术规训（disciplina）确立合法性。哈蒂不仅主持开发了具备全景监控潜力的 [[Assessment Tools for Teaching and Learning|asTTle]] 计算机网络系统，更将该系统的[[Barometer of Achievement|气压计图表]]迁移至专著中，主张教学应当向外科手术与高山救援看齐。这种粗暴类比严重混淆了机械技术操作与复杂育人实践的本质边界：外科手术依赖固定清单与标准打结，而真正的教学（doctrina）是在特定社区与充满差异的班级中建设师生学习共同体的复杂人际与伦理过程。当学校被改造成由外部标准清单管制的加盟连锁店时，教师被异化为全景受控的技术操作工，学生被降格为未来测验的数据产出点，教育本身的人文关怀、民主价值与批判探索被技术规训彻底摧毁。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–30)]]
 
 ---
 

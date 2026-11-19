@@ -6,7 +6,7 @@ aliases:
 summary: "曼纽尔·卡斯特开创的宏观社会学理论，将现代社会组织形态界定为由流动网络而非垂直科层等级主导的结构，阐明流动空间与场所空间、网络化知识生产及全球教育治理的跨国重构机制"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 54
+theory_related_count: 56
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -41,6 +41,8 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Performativity]]"
   - "[[Transnational Education]]"
+  - "[[Neoliberalism]]"
+  - "[[Typicality]]"
   - "[[Research Question]]"
   - "[[Document]]"
   - "[[Determinism]]"
@@ -80,7 +82,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-11
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -138,10 +140,10 @@ updated: 2026-11-15
 > 在网络社会的[[Global Policy Space|全球政策空间]]中，多边机构（如[[World Bank|世界银行]]、[[OECD]]、[[UNESCO]]）、[[Transnational Education|跨国教育]]企业、基金会与非政府组织构成了复杂的竞合网络。节点的决策并非依据僵化的意识形态教条，而是遵循卡斯特指出的操演性（Performativity）与临时互通性（Interoperability）原则——只要能提升在网络中的影响力和项目生存力，不同立场的组织便可迅速结盟；为了跨越[[Heterogeneity|异质性]]系统传播，政策方案被高度抽象为[[Floating Signifier|漂浮能指]]。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 351–353)]]
 
 > [!example|notitle]
-> 具有强烈反新自由主义立场的[[Education International|国际教育协会]]（Education International, EI）与推行市场化借贷的世界银行和[[International Monetary Fund|国际货币基金组织]]（IMF），能够在“[[Education for All|全民教育]]”（EFA）或消除儿童失学的临时项目平台上结成战略伙伴，展现了网络治理中多重理性的去意识形态化整合。
+> 具有强烈反[[Neoliberalism|新自由主义]]立场的[[Education International|国际教育协会]]（Education International, EI）与推行市场化借贷的世界银行和[[International Monetary Fund|国际货币基金组织]]（IMF），能够在“[[Education for All|全民教育]]”（EFA）或消除儿童失学的临时项目平台上结成战略伙伴，展现了网络治理中多重理性的去意识形态化整合。
 
 > [!theory-proposition] 命题五｜网络化流动的抽象[[Discourse|话语]]在场所空间引发结构性解耦与实践异化
-> 网络生产的话语由于追求最大的跨国适用性，必然剥离地方历史特殊性。当这些去情境化的政策处方降落到微观学校等扎根于场所空间的机构时，无法与学校日常教学所需的微观一致性相兼容。基层实践者因缺乏支持而产生规避与异化反应，导致实际教学效果与网络政策文本的宣称初衷发生剧烈的结构性脱节。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 353–355)]]
+> 网络生产的话语由于追求最大的跨国适用性，必然剥离地方历史[[Typicality|特殊性]]。当这些去情境化的政策处方降落到微观学校等扎根于场所空间的机构时，无法与学校日常教学所需的微观一致性相兼容。基层实践者因缺乏支持而产生规避与异化反应，导致实际教学效果与网络政策文本的宣称初衷发生剧烈的结构性脱节。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 353–355)]]
 
 > [!example|notitle]
 > 阿根廷 1990 年代依据全球网络方案赋予教师自主决定课程内容的自由，但一线教师因从未受过课程建构培训而深陷恐慌，索性集体翻抄商业教辅图书目录编排授课计划，导致国家课程主权被民营出版商实质性架空。

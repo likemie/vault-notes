@@ -10,7 +10,7 @@ title: "Argument_Schaffar_2024_CogentEdu"
 argument_key: "Argument_Schaffar_2024_CogentEdu"
 argument_display_title: "Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 39
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Phenomenon-Based Learning]]"
+  - "[[Neoliberalism]]"
   - "[[Bildung]]"
   - "[[Didaktik]]"
   - "[[Pragmatic Paradigm]]"
@@ -52,6 +53,7 @@ related_concepts:
   - "[[Global Education Industry]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Champ]]"
+  - "[[Learning Strategies]]"
   - "[[Inquiry-Based Learning]]"
 related_theories:
   - "[[Phenomenology]]"
@@ -75,10 +77,10 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-06
-updated: 2026-10-29
+updated: 2026-11-19
 ---
 > [!question] [[Research Question\|研究问题]]
-> 芬兰[[Phenomenon-Based Learning\|现象本位学习]]（Phenomenon-based learning, PhBL）的历史与哲学根源是什么？如何理解其核心的现象概念？该教学模式的整体性教育价值与课程化过程中遭遇的新自由主义（Neoliberalism）测量与问责（Accountability）政策之间存在何种内在张力？
+> 芬兰[[Phenomenon-Based Learning\|现象本位学习]]（Phenomenon-based learning, PhBL）的历史与哲学根源是什么？如何理解其核心的现象概念？该教学模式的整体性教育价值与课程化过程中遭遇的[[Neoliberalism|新自由主义]]（Neoliberalism）测量与问责（Accountability）政策之间存在何种内在张力？
 
 > [!claim] 核心主张
 > PhBL 深深植根于欧陆的[[Phenomenology\|现象学]]、教化（[[Bildung]]）和教学论（[[Didaktik]]）哲学传统，以及近代[[Pragmatic Paradigm\|实用主义]][[Constructivist Paradigm\|建构主义]]（[[Pragmatic Constructivism]]）心理学。其真正的教育价值在于培养学生合作面对复杂全球性挑战的整体性能力。然而，当 PhBL 被纳入芬兰课程政策时，被迫向强调标准化测量、问责制和技能原子化（Atomisation of Skills）的全球经济竞争逻辑妥协，面临被碎片化和工具化的风险。
@@ -228,7 +230,7 @@ updated: 2026-10-29
 ---
 
 > [!citation-card] 关于 [[Phenomenon-Based Learning\|PhBL]] 定位与局限的反思
-> 现象导向学习方法并非包治百病的灵丹妙药，也不是能够迅速解决教育问题的权宜之计……
+> 现象导向[[Learning Strategies|学习方法]]并非包治百病的灵丹妙药，也不是能够迅速解决教育问题的权宜之计……
 > 
 > *The PhBL approach is neither a salvation approach, nor a quick-fix-method...*
 

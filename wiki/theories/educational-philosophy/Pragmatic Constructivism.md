@@ -7,7 +7,7 @@ aliases:
 summary: "由 Rauste-von Wright 提出，将杜威的反思概念与米德的社会互动论相融合，主张学习是身心与环境具身交互的情境化过程"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 15
+theory_related_count: 16
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Reflexivity]]"
+  - "[[Neoliberalism]]"
   - "[[Discovery Learning]]"
 related_theories:
   - "[[Behaviorism]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-22'
-updated: 2026-10-22
+updated: 2026-11-19
 ---
 
 ---
@@ -90,7 +91,7 @@ updated: 2026-10-22
 
 > [!theory-use] 如何用于研究
 > - **作为理论框架** 可用于分析跨学科改革中学生如何动用前概念（Prior concept）进行探究，或解析教师如何动态调整教案。
-> - **作为批判视角** 可用来揭示传统“传授-接受”型课程体系如何割裂了学生的真实经验，批判新自由主义技能清单对复杂身心交互的抹杀（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 9–10]]）。
+> - **作为批判视角** 可用来揭示传统“传授-接受”型课程体系如何割裂了学生的真实经验，批判[[Neoliberalism|新自由主义]]技能清单对复杂身心交互的抹杀（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 9–10]]）。
 
 ---
 

@@ -10,9 +10,9 @@ title: "Argument_McKnight_2020_Discourse"
 argument_key: "Argument_McKnight_2020_Discourse"
 argument_display_title: "Seven reasons to question the hegemony of Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 19
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 20
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: 'Discourse: Studies in the Cultural Politics of Education'
 citation: "McKnight, L. & Whitburn, B. (2020). Seven reasons to question the hegemony of Visible Learning. Discourse: Studies in the Cultural Politics of Education, 41(1), 32–44."
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Visible Learning]]"
+  - "[[Neoliberalism]]"
   - "[[Ontology]]"
   - "[[Lesson Study]]"
   - "[[Inclusive Education]]"
@@ -53,7 +54,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-02'
-updated: 2026-10-30
+updated: 2026-11-19
 year: 2020
 doi: ""
 citation_aliases:
@@ -61,7 +62,7 @@ citation_aliases:
   - "McKnight and Whitburn (2020)"
 ---
 > [!info] [[Research Question\|研究问题]]
-> [[Visible Learning]] 作为一种全球教育论述，在文化政治层面"运作"（puts to work）了什么？具体而言：Visible Learning 的隐喻本身与哪些权力关系结盟？它在性别、能力和新自由主义议程方面产生了什么效应？
+> [[Visible Learning]] 作为一种全球教育论述，在文化政治层面"运作"（puts to work）了什么？具体而言：Visible Learning 的隐喻本身与哪些权力关系结盟？它在性别、能力和[[Neoliberalism|新自由主义]]议程方面产生了什么效应？
 >
 > 作者并非攻击 Hattie 本人，而是关注 Visible Learning 如何被论述性地建构以及这种建构的政治后果。
 

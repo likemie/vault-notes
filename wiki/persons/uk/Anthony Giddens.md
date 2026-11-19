@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 40
+person_related_count: 42
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -51,6 +51,7 @@ related_concepts:
   - "[[Social Impact Investing]]"
   - "[[Policy Borrowing]]"
   - "[[Interpretive Paradigm]]"
+  - "[[Neoliberalism]]"
   - "[[Emic and Etic]]"
   - "[[Rich and Thick Description]]"
 related_theories:
@@ -64,6 +65,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[David Held]]"
+  - "[[Karl Marx]]"
   - "[[Jürgen Habermas]]"
   - "[[Auguste Comte]]"
   - "[[Rom Harré]]"
@@ -78,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-14
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -111,7 +113,7 @@ updated: 2026-11-15
 ---
 
 > [!thought-timeline] 思想发展
-> - **1970s — [[Positivism|实证主义]]批判与[[Double Hermeneutic|双重诠释]]奠基阶段** 深入梳理古典社会学传统（涂尔干、韦伯、马克思），系统清理实证主义在社会科学中的方法论神话。
+> - **1970s — [[Positivism|实证主义]]批判与[[Double Hermeneutic|双重诠释]]奠基阶段** 深入梳理古典社会学传统（涂尔干、韦伯、[[Karl Marx|马克思]]），系统清理实证主义在社会科学中的方法论神话。
 >   - **代表著作** 《资本主义与现代社会理论》（1971）、《实证主义与社会学》（1975）、《社会学方法的新规则》（1976）、《社会理论的核心问题》（1979）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 7, 18)]]
 >   - **关键概念／方法** 方法论统一假定、产出同构假定、主体-主体关系、前诠释世界（Pre-interpreted World）、[[Double Hermeneutic|双重诠释]]（Double Hermeneutic）。
 >   - **阶段转向** 论证社会科学不能套用自然科学的主体-客体机械[[Paradigm|范式]]，确立行动者的反思能力与意图理解为社会探究的核心。
@@ -177,7 +179,7 @@ updated: 2026-11-15
 > > - **吉登斯学派** 坚称结构离开具体行动者的持续实践便不复存在，将结构实体化为独立外在于实践的铁笼，恰恰是客体主义与[[Positivism|实证主义]]的还原论幻觉。
 
 > [!warning] 理论边界与当代反思
-> 吉登斯在世纪之交倡导的第三条道路试图平衡经济活力与社会正义，但在实践中遭遇了广泛批评。批判社会学者指责其将公共教育过度简化为[[Human Capital Theory|人力资本]]工具，并在事实上顺应了新自由主义市场化改革，削弱了传统福利国家对教育平等的兜底保障功能。
+> 吉登斯在世纪之交倡导的第三条道路试图平衡经济活力与社会正义，但在实践中遭遇了广泛批评。批判社会学者指责其将公共教育过度简化为[[Human Capital Theory|人力资本]]工具，并在事实上顺应了[[Neoliberalism|新自由主义]]市场化改革，削弱了传统福利国家对教育平等的兜底保障功能。
 
 ---
 

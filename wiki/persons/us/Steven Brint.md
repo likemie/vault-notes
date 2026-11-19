@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Research Universities]]"
   - "[[Modern Industrial Policy]]"
+  - "[[Neoliberalism]]"
   - "[[STEM Education]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Knowledge Production]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -60,7 +61,7 @@ updated: 2026-11-15
 > - **代表贡献** 著作《为高等教育两度欢呼》（*Two Cheers for Higher Education: Why American Universities Are Working and How the Law Can Help*，普林斯顿大学出版社 2018 年出版）；实证剖析美国《[[CHIPS and Science Act|芯片与科学法案]]》对科研体系的影响（[[Argument_Brint_2023_IHE|Brint, 2023]]）。
 
 > [!citation-card] 人物定位的关键来源
-> 《芯片与科学法案》标志着美国正式告别四十年新自由主义市场中立传统，转向由国家直接圈定前沿技术并重点投资优势产业以抗衡外部竞争；法案为高水平研究型大学带来巨额前沿研发与理工科奖学金红利，但受制于两阶段财政体制，面临显著的拨款落空风险。[[Argument_Brint_2023_IHE|(Brint, 2023, pp. 9–10)]]
+> 《芯片与科学法案》标志着美国正式告别四十年[[Neoliberalism|新自由主义]]市场中立传统，转向由国家直接圈定前沿技术并重点投资优势产业以抗衡外部竞争；法案为高水平研究型大学带来巨额前沿研发与理工科奖学金红利，但受制于两阶段财政体制，面临显著的拨款落空风险。[[Argument_Brint_2023_IHE|(Brint, 2023, pp. 9–10)]]
 >
 > *The new law represents a repudiation of the market-oriented neoliberal consensus that held sway in Washington for four decades... Authorizations for funding often do not end up as allocated dollars in the United States.*
 

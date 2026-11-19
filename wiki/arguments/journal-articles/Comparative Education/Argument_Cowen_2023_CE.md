@@ -9,7 +9,7 @@ title: "Argument_Cowen_2023_CE"
 argument_key: "Argument_Cowen_2023_CE"
 argument_display_title: "Comparative education: and now? Comparative Education, 59(3), 326–340"
 argument_kind: "journal-article"
-argument_related_count: 74
+argument_related_count: 75
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Nationalism]]"
   - "[[Conversational AI in Education]]"
+  - "[[Neoliberalism]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Discourse]]"
   - "[[Doctoral Dissertation]]"
@@ -106,7 +107,7 @@ part_of: ""
 related_instruments: []
 status: draft
 created: 2026-06-06
-updated: 2026-11-11
+updated: 2026-11-19
 year: 2023
 doi: ""
 citation_aliases:
@@ -233,7 +234,7 @@ citation_aliases:
 > - **19世纪末至一战前：工业竞争与帝国维持** 注意力转向工业革命后果、国际经济竞争及教育系统的重新定义，以维持帝国主义。对外考察与变得现代（或保持本真的斯拉夫或日本身份，如日本明治维新与俄罗斯斯拉夫派的理论抵制）紧密相连。
 > - **两次世界大战之间：意识形态对立与专业沉默** 这一时期对法西斯主义和共产主义政治的专业比较工作极少，形成了学术上的沉默期。
 > - **1945年后至冷战时期：重建、平等与冷战测评竞争** 战后初期聚焦于重建和改善教育机会平等；1950年代自由民主与国家社会主义民主展开教育竞争；冷战期间主要努力投入到通过国际测试衡量教育成功（[[IEA]] 的兴起），并将竞争延伸至第三世界（Le tiers monde）的发展。
-> - **冷战后至今：全球化大叙事与绩效主义治理** 全球解读转向了全球化大叙事（Grand narrative of globalisation）及其粗糙的派生词汇，最终演变为新自由主义效率测量与 PISA 霸权。
+> - **冷战后至今：全球化大叙事与绩效主义治理** 全球解读转向了全球化大叙事（Grand narrative of globalisation）及其粗糙的派生词汇，最终演变为[[Neoliberalism|新自由主义]]效率测量与 PISA 霸权。
 
 > [!warrant]- 推理桥梁
 > 作者通过梳理全球解读的发展史，指出比较教育从来都不是在真空中发展的中立学科。如果我们将后新冠（Post-Coronavirus Disease，Post-COVID）等词汇作为预测未来的魔术钥匙，就是低估了历史演进的深层地缘政治动力，比较教育必须在一个更开阔的历史和政治视野中寻找其未来的定位。

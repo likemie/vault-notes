@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -30,11 +30,12 @@ related_concepts:
   - "[[Document]]"
   - "[[Intercultural Education]]"
   - "[[International Education]]"
-  - "[[Refined Mastery]]"
   - "[[Champ]]"
   - "[[Variable]]"
+  - "[[Typicality]]"
   - "[[Dissimilar Units]]"
   - "[[Paradigm]]"
+  - "[[Neoliberalism]]"
   - "[[Scientific Paradigm]]"
 related_theories: []
 related_methods:
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -80,7 +81,7 @@ updated: 2026-11-11
 > [!timeline] 生平与职涯
 > - **1913** 出生于美国纽约市，后在纽约市立学院获得文学学士（1934）与理学硕士（1935）。
 > - **1938** 在纽约大学获得教育学博士学位，专攻教育哲学与教育史。
-> - **1940–1962** 任教于纽约大学教育学院，讲授教育史与比较教育学，期间[[Refined Mastery|精通]]德语、法语、俄语、拉丁语等多种语言，奠定扎实文献学功底。
+> - **1940–1962** 任教于纽约大学教育学院，讲授教育史与比较教育学，期间精通德语、法语、俄语、拉丁语等多种语言，奠定扎实文献学功底。
 > - **1956** 发起创办美国比较教育学会（[[Comparative and International Education Society|Comparative Education Society]], CES，后更名为 CIES）并担任创会会长（1956–1959），开创学科专业共同体建制。
 > - **1957–1969** 创办学科旗舰刊物《比较教育评论》（*Comparative Education Review*），并担任首任主编逾十二载，确立多元开放的学术交流[[Champ|场域]]。
 > - **1962–1981** 转任宾夕法尼亚大学教育学与历史学教授，建立教育史与比较教育博士培养项目。
@@ -98,7 +99,7 @@ updated: 2026-11-11
 ---
 
 > [!claim] 核心思想
-> 比较教育学不是脱离历史虚构的抽象[[Variable|变量]]实验，而是一门深深植根于一手史料考据与文化脉络的人文历史探究。任何无视制度历史生成过程与文化特殊性的跨国指标对比，不仅违背史学求真伦理，而且必然陷入“[[Dissimilar Units|非同质单位]]”（dissimilar units）的虚妄比较。
+> 比较教育学不是脱离历史虚构的抽象[[Variable|变量]]实验，而是一门深深植根于一手史料考据与文化脉络的人文历史探究。任何无视制度历史生成过程与文化[[Typicality|特殊性]]的跨国指标对比，不仅违背史学求真伦理，而且必然陷入“[[Dissimilar Units|非同质单位]]”（dissimilar units）的虚妄比较。
 
 > [!citation-card] 历史主义取向学者的学术阵营
 > 在比较教育学的[[Paradigm|范式]]大论战中，存在着一股具有深厚历史与文化取向的强大传统，包括历史学家艾萨克·[[Immanuel Kant|康德]]尔、[[Friedrich Schneider|弗里德里希·施奈德]]、[[Nicholas Hans|尼古拉斯·汉斯]]、[[Robert Ulich|罗伯特·乌利希]]、[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]、[[Claude A. Eggertsen|克劳德·A·埃格特森]]以及威廉·布里克曼。（p.128）[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 128)]]
@@ -110,7 +111,7 @@ updated: 2026-11-11
 > [!influence-path] 影响路径
 > - **建制化路径** 创立美国比较教育学会（[[Comparative and International Education Society|CIES]]）并奠定创刊《比较教育评论》（CER）的专业编辑标准，将分散于各大学的跨文化研究者聚拢为具备自主建制的学科共同体。
 > - **史料学路径** 打破战后教育学界盲目崇拜调查[[Questionnaire|问卷]]与统计表格的量化教条，确立多语种一手档案考据（Primary Documents）在跨国比较中的第一性地位。
-> - **历史主义学派传承** 与[[Immanuel Kant|康德]]尔、卡扎米亚斯等人共同构建起北美比较教育学的历史学阵营，为后续抵御新自由主义标准化与[[Positivism|实证主义]]指标垄断提供了深厚的思想防线。
+> - **历史主义学派传承** 与[[Immanuel Kant|康德]]尔、卡扎米亚斯等人共同构建起北美比较教育学的历史学阵营，为后续抵御[[Neoliberalism|新自由主义]]标准化与[[Positivism|实证主义]]指标垄断提供了深厚的思想防线。
 
 ---
 

@@ -10,7 +10,7 @@ aliases:
 summary: "主张科学研究应排除研究者主观价值偏见并保持程序中立的认识论规范；在启蒙发轫期曾服从于道德改良，在韦伯与20世纪实证学派中被法典化为科学基石，在批判理论中被解构为维护统治的意识形态，并在当代公共与科技竞争中凸显为区分描述性经验事实与规范性道德评价的认知脱钩求真能力。"
 type: concept
 domain: "educational-philosophy"
-related_count: 93
+related_count: 95
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Educational Meliorism]]"
   - "[[Positivism]]"
   - "[[Critical Pedagogy]]"
+  - "[[Neoliberalism]]"
   - "[[Scientific Method]]"
   - "[[Incommensurability]]"
   - "[[Variable]]"
@@ -93,6 +94,7 @@ related_persons:
   - "[[Carlos Alberto Torres]]"
   - "[[Paulo Freire]]"
   - "[[Martin Carnoy]]"
+  - "[[Karl Marx]]"
   - "[[Terry Wrigley]]"
   - "[[Gert Biesta]]"
   - "[[Carol Weiss]]"
@@ -123,7 +125,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-17
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -160,7 +162,7 @@ updated: 2026-11-15
 > | **主要应用领域** | [[Positivism\|实证主义]]理论研究与数理统计分析 | 启蒙现代性早期公共教育建制与制度借用 | 项目评估（Evaluation）、公共政策咨询与社区规划 | [[Critical Pedagogy\|批判教育学]]、[[Feminist Research\|女性主义研究]]与后殖民话语解构 |
 > | **研究者角色定位** | 超然的外部客观旁观者与纯粹裁判员 | 兼具实证严谨性与社会良知的全人道德教化者 | 协调者、呈现多元利益矛盾的系统记录员 | 具有鲜明政治立场的有机知识分子与社会批判者 |
 > | **方法论假设** | 事实与价值可以且必须彻底二分 | 事实收集从属于道德哲学与全人教化目的 | 事实与价值深度交织，描述必然内嵌价值预设 | 声称中立即是伪装客观，实为维护既有权力秩序 |
-> | **主要批评或风险** | 沦为为新自由主义数字审计背书的技术工具 | 先验道德假设容易削弱对反常经验数据的敏锐度 | 难以在冲突的价值立场中做出决定性的行动裁决 | 容易导致学术研究被政治意识形态完全绑架 |
+> | **主要批评或风险** | 沦为为[[Neoliberalism\|新自由主义]]数字审计背书的技术工具 | 先验道德假设容易削弱对反常经验数据的敏锐度 | 难以在冲突的价值立场中做出决定性的行动裁决 | 容易导致学术研究被政治意识形态完全绑架 |
 
 ---
 
@@ -219,7 +221,7 @@ updated: 2026-11-15
 > **教育政策的技术中立假象与国家理论隐匿** 倡导技术官僚或技术主义取向的教育研究、课程设计与政策制定者，往往将自身方案包装为“价值中立”与客观科学的资源配置模型；然而，正如[[Paulo Freire|保罗·弗莱雷]]所揭示的，教育具有固有的政治性。任何对教育问题的界定与改革方案的提出，都不可避免地暗含着特定的国家理论假定；抽空政治与伦理审议的技术中立修辞，不仅掩盖了国家在资本积累与合法性维护之间的阶级妥协，更在客观上将新自由主义[[Educational Privatisation|教育私有化]]与紧缩政策包装为不可避免的客观规律，剥夺了被支配群体进行政治抵抗的[[Discursive Field|话语空间]]。[[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009, pp. 73, 77–78)]]
 
 > [!claim] [[Martin Carnoy|Carnoy, M.]] & Kazamias, A. M.
-> **实证“价值中立”作为资本主义阶级再生产的意识形态借口** 马丁·卡诺伊（Carnoy, 1983）从新马克思主义批判视角指出，战后主流实证学者标榜的“价值中立”是一种极具欺骗性的政治拟态；实证派将教育研究窄化为个体理性选择、技术效率与社会均衡，自诩不偏不倚，却在根本上默认了资本主义生产关系与国家阶级统治的合理性；这种所谓中立的模型实质上充当了一种“意识形态借口”（ideological alibi），掩盖了教育体系在资本积累与劳动力阶级再生产中的内在制度性压迫。[[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, pp. 153–154)]]
+> **实证“价值中立”作为资本主义阶级再生产的意识形态借口** 马丁·卡诺伊（Carnoy, 1983）从新[[Karl Marx|马克思]]主义批判视角指出，战后主流实证学者标榜的“价值中立”是一种极具欺骗性的政治拟态；实证派将教育研究窄化为个体理性选择、技术效率与社会均衡，自诩不偏不倚，却在根本上默认了资本主义生产关系与国家阶级统治的合理性；这种所谓中立的模型实质上充当了一种“意识形态借口”（ideological alibi），掩盖了教育体系在资本积累与劳动力阶级再生产中的内在制度性压迫。[[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, pp. 153–154)]]
 
 ---
 

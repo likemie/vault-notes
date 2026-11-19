@@ -12,7 +12,7 @@ subtype: policy
 region: singapore
 fact_region: "singapore"
 fact_kind: "policy"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Grandes Ecoles]]"
   - "[[Alienation]]"
+  - "[[Neoliberalism]]"
   - "[[Discourse]]"
   - "[[Quasi-market]]"
 related_theories:
@@ -103,7 +104,7 @@ updated: 2026-11-19
 > [!debates] 自主活力释放与公立属性[[Alienation|异化]]之争
 >
 > > [!axis] 去官僚化与学术竞争力提升 vs 商业主义渗入与公共使命偏离
-> > 改革推动者指出，公司化彻底激活了新加坡公立大学的全球学术引智能力与科研转化效率，使国大与南大在随后的十余年中迅速进入全球高水平大学排名前列；高等教育社会学者（[[Argument_Gopinathan_2007_GSE|Gopinathan, 2007, p. 66]]）则警示，公司化引入了品牌塑造、生源客户化以及成本核算等新自由主义市场[[Discourse|话语]]，大学不仅面临学费连年上涨带来的家庭经济负担加重，更存在将基础性学科与本地社群关怀边缘化、盲目追逐国际排名量化指标等结构性异化风险。
+> > 改革推动者指出，公司化彻底激活了新加坡公立大学的全球学术引智能力与科研转化效率，使国大与南大在随后的十余年中迅速进入全球高水平大学排名前列；高等教育社会学者（[[Argument_Gopinathan_2007_GSE|Gopinathan, 2007, p. 66]]）则警示，公司化引入了品牌塑造、生源客户化以及成本核算等[[Neoliberalism|新自由主义]]市场[[Discourse|话语]]，大学不仅面临学费连年上涨带来的家庭经济负担加重，更存在将基础性学科与本地社群关怀边缘化、盲目追逐国际排名量化指标等结构性异化风险。
 
 ---
 

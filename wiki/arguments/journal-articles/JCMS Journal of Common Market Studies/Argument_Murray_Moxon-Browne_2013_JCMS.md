@@ -54,6 +54,7 @@ related_facts:
   - "[[Treaty of Amity and Cooperation in Southeast Asia]]"
   - "[[Court of Justice of the European Union]]"
   - "[[ASEAN Regional Forum]]"
+  - "[[1997 Asian Financial Crisis]]"
   - "[[Chiang Mai Initiative]]"
   - "[[ASEAN Intergovernmental Commission on Human Rights]]"
 related_arguments: []
@@ -61,14 +62,14 @@ sources:
   - "[[sources/Murray_Moxon-Browne_2013_JCMS|Murray_Moxon-Browne_2013_JCMS]]"
 status: draft
 created: 2026-10-29
-updated: 2026-11-15
+updated: 2026-11-19
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Murray_Moxon-Browne_2013_JCMS"
 argument_key: "Argument_Murray_Moxon-Browne_2013_JCMS"
 argument_display_title: "The European Union as a template for regional integration? The case of ASEAN and its Committee of Permanent Representatives"
 argument_kind: "journal-article"
-argument_related_count: 26
+argument_related_count: 27
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -174,7 +175,7 @@ journal: "JCMS: Journal of Common Market Studies"
 > - **1976 — 奠定行为准则** 签署《东南亚友好合作条约》（TAC）与《东盟第一协约宣言》，确立和平解决争端与尊重主权的法律原则。
 > - **1994 — 发起多边安全对话** 创立[[ASEAN Regional Forum|东盟地区论坛]]（ARF），构建亚太地区唯一包容主要大国的官方安全对话机制。
 > - **1995 — 无核化安全承诺** 签署《东南亚无核武器区条约》（Southeast Asia Nuclear Weapon-Free Zone, SEANWFZ），首度设立条约执行委员会。
-> - **1997 — 危机驱动功能合作** 亚洲金融危机促成[[Chiang Mai Initiative|清迈倡议]]（Chiang Mai Initiative, CMI）货币互换网络，借鉴欧洲经验但深嵌于非西方规范之中（Gilson, 2004）。
+> - **1997 — 危机驱动功能合作** [[1997 Asian Financial Crisis|亚洲金融危机]]促成[[Chiang Mai Initiative|清迈倡议]]（Chiang Mai Initiative, CMI）货币互换网络，借鉴欧洲经验但深嵌于非西方规范之中（Gilson, 2004）。
 > - **2007 — 宪章颁布与拟态确立** 签署[[ASEAN Charter|《东盟宪章》]]，确立三大支柱、法人地位、领导人峰会常态化及常驻代表委员会。
 
 > [!case] 缅甸危机折射出东盟履约问责机制的软肋

@@ -10,9 +10,9 @@ subtype: event
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "event"
-fact_related_count: 68
-fact_related_level: 6
-fact_related_stars: "💎💎"
+fact_related_count: 71
+fact_related_level: 7
+fact_related_stars: "💎💎⭐"
 fact_related_color: "#fecdd3"
 tags:
   - visible-learning
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Class Size]]"
   - "[[Teacher Collaboration]]"
+  - "[[Neoliberalism]]"
   - "[[Cult of the Guru]]"
   - "[[Neo-Taylorism]]"
   - "[[Critical Pedagogy]]"
@@ -68,11 +69,13 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
   - "[[Michael Fullan]]"
+  - "[[Charles Taylor]]"
 related_facts:
   - "[[Corwin Press]]"
   - "[[Cognition Education]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[Tomorrow's Schools Reforms]]"
+  - "[[Integrated Programme]]"
   - "[[Education Endowment Foundation]]"
   - "[[Institute of Education Sciences]]"
   - "[[The New Zealand Curriculum]]"
@@ -103,7 +106,7 @@ related_instruments:
 confidence: high
 status: stable
 created: '2026-05-04'
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 > [!claim] 核心定性
@@ -113,7 +116,7 @@ updated: 2026-11-15
 > - **时间跨度 / 空间地理** 2006 年商标申请启动，2009 年专著出版后迅速扩张，2018 年被 [[Corwin Press|Corwin]] 全面收购，持续影响至今；发源于新西兰，扩散至澳大利亚、英国、斯堪的纳维亚、北美及俄罗斯等 23 个以上国家。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 254)]]
 > - **核心当事主体** [[John Hattie|约翰·哈蒂]]（John Hattie）、[[Cognition Education]]（原 Multi Serve Trust）、Corwin（[[Sage]] 集团）、澳大利亚教学与[[School Leadership|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership|AITSL]]）、新西兰教育部及各国政策机构。
 > - **深层制度与社会背景** 新西兰 1989 年[[Tomorrow's Schools Reforms|明日学校改革]]开启的[[Educational Privatisation|教育私有化]]与外包服务体制，以及[[Global Education Reform Movement|全球教育改革运动]]（GERM）对量化绩效问责与循证标准（What Works）的强烈治理渴求。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 31–32)]]
-> - **直接导火索 / 触发事件** 2009 年 1 月新西兰《星期日星报》（*Sunday STAR Times*）头版报道引发公众风暴，紧随其后的全球图书畅销促成学术 IP 与商业培训生态的全面对接。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 86–87)]]
+> - **直接导火索 / 触发事件** 2009 年 1 月新西兰《星期日星报》（*Sunday STAR Times*）头版报道引发公众风暴，紧随其后的全球图书畅销促成学术 [[Integrated Programme|IP]] 与商业培训生态的全面对接。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 86–87)]]
 
 ---
 
@@ -189,7 +192,7 @@ Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表�
 
 > [!debates] 核心学术争议与制度批判
 >
-> > [!axis] 新自由主义商业化与利益冲突疑云
+> > [!axis] [[Neoliberalism|新自由主义]]商业化与利益冲突疑云
 > > 批判学者聚焦 Hattie 身兼公共政策顾问、大学教授、商业信托董事与版税受益者的多重身份重叠。
 > >
 > > - **制度伦理审查（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）** 指出 Hattie 在 Cognition 董事会任职同时通过商业化获取版税，外观上存在严重的利益冲突；且 Cognition 慈善信托的实际捐赠支出仅占集团总收入的 0.9%，实质沦为新自由主义市场化运作的壳机构。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 31)]]
@@ -198,7 +201,7 @@ Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表�
 > > [!axis] [[Cult of the Guru|大师崇拜]]与[[Neo-Taylorism|新泰勒主义]]规训
 > > [[Critical Pedagogy|批判教育学]]者警示 VL [[Alienation|异化]]为规训教师日常劳动的行政监控工具。
 > >
-> > - **大师崇拜与行政合谋（[[Argument_Eacott_2017_SLM|Eacott, 2017]], 2019）** 指出 VL 被行政机构包装为不可置疑的科学真理，将复杂教学矮化为可测量的最小单元，剥夺[[Teacher Professional Agency|教师专业能动性]]，沦为新时代的泰勒主义；学术期刊在两天内快速发表 Hattie 回应却多轮拖延批评者文章，反映出出版建制对大师地位的制度偏袒。[[Argument_Eacott_2019_IJLE|(Eacott, 2019, pp. 777–778)]]
+> > - **大师崇拜与行政合谋（[[Argument_Eacott_2017_SLM|Eacott, 2017]], 2019）** 指出 VL 被行政机构包装为不可置疑的科学真理，将复杂教学矮化为可测量的最小单元，剥夺[[Teacher Professional Agency|教师专业能动性]]，沦为新时代的[[Charles Taylor|泰勒]]主义；学术期刊在两天内快速发表 Hattie 回应却多轮拖延批评者文章，反映出出版建制对大师地位的制度偏袒。[[Argument_Eacott_2019_IJLE|(Eacott, 2019, pp. 777–778)]]
 > > - **持续数据生产的跨国组织病理（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）** 澳大利亚学者 Eacott 揭示的“持续数据生产”机制在国际传播中产生多米诺效应；[[Argument_Golovchin_2019_ESC|Golovchin (2019)]]结合俄罗斯转型期教育现状实证指出，将 VL 的排名逻辑引入公立系统极易演变为“人人监视人人”的新行政[[Panopticism|全景敞视]]，使教师淹没于合规自证的报表流水线中，加速了教师群体的职业倦怠与人才流失。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 240–241)]]
 >
 > > [!axis] 政策误用、术语口号化与时效性脱节

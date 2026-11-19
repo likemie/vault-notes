@@ -6,7 +6,7 @@ aliases:
 summary: "指在教育系统内外通过建立跨界网络、识别政策机会窗口并策略性整合实证证据与价值话语推动政策变迁的能动主体。在理性主义比较教育传统中，政策企业家是全球治理与多行动者网络中开展远处治理的核心协调力量；在公共政策生命周期中，他们动态整合实证差距指标与两党核心价值以打破既有体制垄断；在新自由主义教育私有化改革中，他们依托教育管理组织（EMO）的双层法人架构，在公共行政、非营利信托与营利性商业公司之间无缝切换，实现学术知识产权的品牌化变现与制度套利，进而对传统代议制民主问责构成严峻挑战。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 51
+related_count: 52
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Philosophical Aesthetics]]"
   - "[[Homework]]"
   - "[[Transnational Education]]"
+  - "[[Neoliberalism]]"
   - "[[Educational Privatisation]]"
   - "[[Visible Learning]]"
   - "[[Competitiveness]]"
@@ -77,7 +78,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 ---
@@ -139,7 +140,7 @@ updated: 2026-11-14
 > **全球多行动者网络与[[Governing at a Distance|远处治理]]维度** 探讨在去中心化的[[Transnational Education|跨国教育]]空间中，政策企业家如何利用量化指标与评估基准，绕过传统民族国家主权屏障，在跨国尺度上实施软性政策调控与规范输出。
 
 > [!claim] [[Eleftherios Klerides|Klerides, E.]]
-> **分散权威空间中的远处治理协调论断** 埃莱夫塞里奥斯·克莱里德斯论证指出，二战后比较教育研究经历了从国家单向[[Policy Borrowing|政策借用]]工具到新自由主义全球治理的重大转变；2000 年代以降，全球教育治理步入分散权威空间，传统自上而下的国家主权控制被多层网络所取代。在此背景下，政策企业家与跨国国际组织、非政府组织及商业咨询机构深度嵌合，依托大规模国际测评数据、标准化基准指标与绩效比较，以客观科学之名行使[[Governing at a Distance|远处治理]]。政策企业家作为[[Policy Mobility|政策流动]]（[[Policy Mobility]]）的活跃节点，推动了理性化教育治理规范的全球扩散。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 425)]]
+> **分散权威空间中的远处治理协调论断** 埃莱夫塞里奥斯·克莱里德斯论证指出，二战后比较教育研究经历了从国家单向[[Policy Borrowing|政策借用]]工具到[[Neoliberalism|新自由主义]]全球治理的重大转变；2000 年代以降，全球教育治理步入分散权威空间，传统自上而下的国家主权控制被多层网络所取代。在此背景下，政策企业家与跨国国际组织、非政府组织及商业咨询机构深度嵌合，依托大规模国际测评数据、标准化基准指标与绩效比较，以客观科学之名行使[[Governing at a Distance|远处治理]]。政策企业家作为[[Policy Mobility|政策流动]]（[[Policy Mobility]]）的活跃节点，推动了理性化教育治理规范的全球扩散。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 425)]]
 
 ---
 

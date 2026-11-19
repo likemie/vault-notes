@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: denmark
 person_region: "denmark"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[User-Producer Interaction]]"
   - "[[Paradigm]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Neoliberalism]]"
   - "[[Tacit Knowledge]]"
   - "[[Competitiveness]]"
   - "[[Alienation]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -89,7 +90,7 @@ updated: 2026-11-15
 >   - **代表著作** *Product Innovation and User-Producer Interaction* (1985)。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 11)]]
 >   - **关键概念／方法** [[User-Producer Interaction]]、互动学习（Interactive Learning）。
 >   - **阶段转向** 突破线性技术推动论，将关注点转向买卖双方的信息交换与信任关系。
-> - **1990s — [[National Innovation System|国家创新系统]]理论与[[Knowledge-Based Economy|知识经济]]学** 将微观互动学习扩展到国家制度、教育体制、研发网络与金融制度，反驳新自由主义全球化抹杀国家差异的观点；进而指出知识经济的核心是知识快速折旧的“学习型经济”。
+> - **1990s — [[National Innovation System|国家创新系统]]理论与[[Knowledge-Based Economy|知识经济]]学** 将微观互动学习扩展到国家制度、教育体制、研发网络与金融制度，反驳[[Neoliberalism|新自由主义]]全球化抹杀国家差异的观点；进而指出知识经济的核心是知识快速折旧的“学习型经济”。
 >   - **代表著作** *National [[Systems of Innovation]]: Towards a Theory of Innovation and Interactive Learning* (1992); *Education and Growth in the Knowledge-Based Economy* (OECD, 1996, 与 Dominique Foray 共同主编)。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5, 11, 17)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
 >   - **关键概念／方法** [[National Innovation System]]、学习型经济、[[Tacit Knowledge|隐性知识]]积累与互动沟通能力（Interactive Communicative Competence）。
 >   - **阶段转向** 论证在不确定性与[[Bounded Rationality|有限理性]]下，制度化网络成为维系国家比较优势的决定性根基；强调一个国家在知识经济中的核心[[Competitiveness|竞争力]]取决于其向学习型经济转型的敏捷度。

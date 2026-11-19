@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 7
+person_related_count: 8
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -31,6 +31,7 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[1997 Asian Financial Crisis]]"
   - "[[Dot-Com Bubble]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09]]"
@@ -38,14 +39,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** Alan Greenspan（1926– ），美国著名经济学家，连续执掌美国联邦储备委员会（Federal Reserve）长达近二十年（1987–2006）的主席，被称为美国经济的“掌舵人”与华尔街最有权势的央行行长。
-> - **核心角色** 带领美国经济穿越 1987 年黑色星期一、1997 年亚洲金融危机与 2000 年[[Dot-Com Bubble|互联网泡沫]]破裂，推行灵活务实的货币政策。
+> - **核心角色** 带领美国经济穿越 1987 年黑色星期一、1997 年[[1997 Asian Financial Crisis|亚洲金融危机]]与 2000 年[[Dot-Com Bubble|互联网泡沫]]破裂，推行灵活务实的货币政策。
 > - **代表贡献** 1996 年提出“非理性繁荣”（Irrational Exuberance）的经典论断，出版回忆录《动荡年代：新世界中的冒险》（*The Age of Turbulence*, 2007）。
 
 > [!citation-card] 格林斯潘论资本市场非理性繁荣预警

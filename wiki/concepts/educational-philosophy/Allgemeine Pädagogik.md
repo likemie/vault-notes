@@ -8,7 +8,7 @@ aliases:
 summary: "欧陆尤其是德语区教育科学的奠基性母体学科。起源于哲学与神学传统，以人的教化（Bildung）与教育引导（Erziehung）为核心本体，为比较教育、学校教育学等各应用分支学科提供根本的价值规范、概念范畴与认识论反思，构成抵御技术官僚功利化与纯粹工具性实证主义的理论基础。"
 type: concept
 domain: "educational-philosophy"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Praxis]]"
   - "[[Positivism]]"
+  - "[[Neoliberalism]]"
   - "[[Performance Indicators]]"
   - "[[Didaktik]]"
   - "[[Navigation Metaphor in Comparative Education]]"
@@ -52,12 +53,12 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
 
-> [!def] [[Allgemeine Pädagogik]]
+> [!def] Allgemeine Pädagogik
 > **[[Allgemeine Pädagogik|普通教育学]]（Allgemeine Pädagogik / General Pedagogy）** 是指欧陆（特别是德语区和中东欧）教育科学体系中居于统领地位的基础理论学科与“母体学科”（德文：Mutterdisziplin）。它以人的教化（[[Bildung]]）、受教育者的可塑性（Bildsamkeit）以及教育行动（Erziehung）的伦理正当性为核心研究对象，系统确立教育科学的基本概念范畴、[[Ontology|本体论]]承诺与方法论准则。在比较教育[[Disciplinary Institutionalization|学科建制]]史上，普通教育学为比较教育提供了不可动摇的人文关怀根基，使其在吸纳历史学与社会学工具时始终保有对人的整全发展的规范性反思。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
 
 > [!concept-lens] 概念透镜
@@ -134,7 +135,7 @@ updated: 2026-11-15
 > - **1806 — 科学教育学奠基** 约翰·弗里德里希·赫尔巴特（Johann Friedrich Herbart）出版《从教育目的引出的[[Allgemeine Pädagogik|普通教育学]]》，标志着普通教育学作为独立科学门类的诞生；其体系以[[Praxis|实践哲学]]（伦理学）规定教育目的，以心理学阐明教学途径。
 > - **19世纪末–20世纪中叶 — [[Geisteswissenschaften|精神科学]]教育学派的深化** [[Wilhelm Dilthey|狄尔泰]]（Wilhelm Dilthey）、诺尔（Herman Nohl）等人确立精神科学教育学（Geisteswissenschaftliche Pädagogik），将普通教育学巩固为以历史文化理解、生命体验与人的教化为核心的人文科学母体。
 > - **1960s–1980s — 实证论战与[[Comparative Education as a Cross-Sectional Area|交叉领域]]建制重构** 在德国社会学[[Positivism|实证主义]]争论（[[Positivist Dispute in German Sociology|Positivismusstreit]]）冲击下，[[Oskar Anweiler|奥斯卡·安维勒]]提出将比较教育定性为横切历史与社会的“[[Comparative Education as a Cross-Sectional Area|交叉领域]]”，推动普通教育学打破封闭思辨，开启跨学科接口。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
-> - **21世纪初至今 — 抵抗新自由主义指标异化与全球趋同** 面对以跨国大规模评估与可测量[[Performance Indicators|绩效指标]]为代表的全球教育治理，当代学者重拾普通教育学母体传统，捍卫教育活动的不可度量性与伦理尊严。
+> - **21世纪初至今 — 抵抗[[Neoliberalism|新自由主义]]指标异化与全球趋同** 面对以跨国大规模评估与可测量[[Performance Indicators|绩效指标]]为代表的全球教育治理，当代学者重拾普通教育学母体传统，捍卫教育活动的不可度量性与伦理尊严。
 
 ---
 

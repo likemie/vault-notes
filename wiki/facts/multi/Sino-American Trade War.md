@@ -10,7 +10,7 @@ subtype: event
 region: multi
 fact_region: "multi"
 fact_kind: "event"
-fact_related_count: 23
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -24,6 +24,7 @@ tags:
   - theme/industrial-policy
 related_concepts:
   - "[[Knowledge Transfer]]"
+  - "[[Neoliberalism]]"
   - "[[Paradigm]]"
   - "[[Modern Industrial Policy]]"
   - "[[Geopolitics of Knowledge]]"
@@ -55,13 +56,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-10
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
 
 > [!claim] 核心定性
-> 中美贸易战（Sino-American Trade War）是 2018 年由美国政府启动、以《1974年贸易法》第 301 条款关税为前锋，随后全面外溢至半导体高科技封锁、[[Knowledge Transfer|知识转移]]管制、高等教育交流受阻与地缘安全对抗的世纪博弈；它标志着以自由贸易与跨国效率优先为核心的新自由主义全球化[[Paradigm|范式]]走向终结，确立了以国家安全、供应链去风险与技术主权为锚点的[[Modern Industrial Policy|现代产业政策]]与[[Geopolitics of Knowledge|知识地缘政治]]新时代。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 78, 84)]]; [[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 81–83, 98–101)]]
+> 中美贸易战（Sino-American Trade War）是 2018 年由美国政府启动、以《1974年贸易法》第 301 条款关税为前锋，随后全面外溢至半导体高科技封锁、[[Knowledge Transfer|知识转移]]管制、高等教育交流受阻与地缘安全对抗的世纪博弈；它标志着以自由贸易与跨国效率优先为核心的[[Neoliberalism|新自由主义]]全球化[[Paradigm|范式]]走向终结，确立了以国家安全、供应链去风险与技术主权为锚点的[[Modern Industrial Policy|现代产业政策]]与[[Geopolitics of Knowledge|知识地缘政治]]新时代。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 78, 84)]]; [[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 81–83, 98–101)]]
 
 > [!event-context] 历史背景与制度溯源
 > - **爆发节点** 2018 年 3 月美国总统特朗普签署对华 301 调查备忘录，2018 年 7 月美方正式对首批 340 亿美元中国商品加征 25% 惩罚性关税。

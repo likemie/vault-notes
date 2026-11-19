@@ -9,9 +9,9 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Phonics Instruction]]"
   - "[[Socioeconomic Status]]"
   - "[[Teacher Professional Agency]]"
+  - "[[Neoliberalism]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -38,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-10-26
+updated: 2026-11-19
 ---
 
 > [!info] 背景
@@ -67,7 +68,7 @@ updated: 2026-10-26
 > [!warning] 争议与评论
 > - [[Argument_OConnor_2020_AJLL\|O'Connor (2020, p.149)]]将 Rose Report 置于更广泛的"阅读战争"政治背景中：[[Simple View of Reading\|简单阅读观]]"从一开始就明确针对[[Whole Language\|全语言]]理论"
 > - 该报告被认为代表了英国教育政策从[[Teacher Professional Agency\|教师专业自主权]]向中央规定的教学方法模式的转变
-> - Soler（2016, p.431，引自 O'Connor, 2020, p.150）将合成语音的政策推动置于新自由主义和新保守主义的交叉点
+> - Soler（2016, p.431，引自 O'Connor, 2020, p.150）将合成语音的政策推动置于[[Neoliberalism|新自由主义]]和新保守主义的交叉点
 
 > [!example] 相关概念／政策
 > - [[Simple View of Reading]] — Rose Report 推广的核心理论框架

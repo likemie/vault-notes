@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: canada
 person_region: "canada"
-person_related_count: 37
+person_related_count: 38
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Engineering Education]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[Neoliberalism]]"
   - "[[Alienation]]"
   - "[[Securitization of Technology]]"
 related_theories: []
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-07
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -151,7 +152,7 @@ updated: 2026-11-15
 > > - **批评学派** 指出国际高教合作深植于不平等的国际政治经济结构之中，跨国学术资助往往伴随隐蔽的意识形态与经济诉求，纯粹的知识外交容易掩盖中心-边缘间深层的知识依附。
 >
 > > [!axis] 枢纽类型学的政策指导价值 vs 批判性[[Geopolitics|地缘政治]]盲区
-> > 围绕[[International Education Hubs|国际教育枢纽]]分类框架是中立有效的建设指南还是掩盖了新自由主义资本扩张展开争鸣。
+> > 围绕[[International Education Hubs|国际教育枢纽]]分类框架是中立有效的建设指南还是掩盖了[[Neoliberalism|新自由主义]]资本扩张展开争鸣。
 > >
 > > - **埃尔弗特（[[Argument_Erfurth_2022_education-hubs|Erfurth, 2022]]）** 指出奈特的枢纽模型偏重于为决策者提供肯定性的规划指南，较少深入审视教育枢纽建设如何加剧区域内部社会阶层分化与公共大学职能[[Alienation|异化]]。[[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022, pp. 203, 211–212)]]
 > > - **扎普（[[Argument_Zapp_2022_Springer|Zapp, 2022]]）** 强调知识村与教育特区的兴起展现了大学物理空间被国家重新用于争夺国际资本的地缘政治再领土化悖论。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 155–156)]]

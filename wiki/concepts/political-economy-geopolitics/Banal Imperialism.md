@@ -6,7 +6,7 @@ aliases:
 summary: "批判地缘政治与比较教育中指代超国家机构和西方国家通过日常、技术化且看似价值中立的跨国教育绩效数据（如 PISA 排名），建立普世效率指标，在无形中巩固西方中心规则并再生产对非西方社会认识论压制与他者化（Othering）的霸权机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Nationalism]]"
+  - "[[Neoliberalism]]"
   - "[[Value Neutrality]]"
   - "[[Discourse]]"
   - "[[Rote Learning]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-11
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -55,7 +56,7 @@ updated: 2026-11-11
 
 > [!concept-lens] 概念透镜
 > - **隐蔽与日常性** 借鉴了 Michael Billig “平庸[[Nationalism|民族主义]]”的逻辑，强调该机制不再依赖传统的武力侵占或强硬的意识形态灌输，是通过看似枯燥、技术性的日常排位数据，使全球国家在追求排名的焦虑中自愿臣服于西方秩序。 (Silova & Auld, 2019)
-> - **“科学中立”的面具** 数据的可测量性与客观性为新自由主义的地缘扩张提供了天然的道德免责，将本质上带有文化偏见的西方精英模式转化为[[Value Neutrality\|价值中立]]的全球“最佳实践”。
+> - **“科学中立”的面具** 数据的可测量性与客观性为[[Neoliberalism|新自由主义]]的地缘扩张提供了天然的道德免责，将本质上带有文化偏见的西方精英模式转化为[[Value Neutrality\|价值中立]]的全球“最佳实践”。
 > - **认识论矮化** 即使非西方系统（如东亚）在测评中击败西方，帝国霸权[[Discourse|话语]]仍能通过[[Orientalism\|东方主义]]式（Orientalist）的解释，将其降格为“[[Rote Learning\|死记硬背]]”或“机械训练”的落后产物，确立西方的认识型优越感。 (Takayama, 2018, 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 428]])
 
 > [!boundary]- 概念边界

@@ -11,7 +11,7 @@ subtype: policy
 region: "global"
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 48
+fact_related_count: 49
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Development Turn in Comparative Education]]"
   - "[[Multilateral Development Bank]]"
   - "[[Performance Pay]]"
+  - "[[Neoliberalism]]"
   - "[[Disbursement-Driven Evaluation]]"
   - "[[Learning Crisis]]"
   - "[[Transnational Education]]"
@@ -81,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-10
+updated: 2026-11-19
 ---
 
 ---
@@ -129,7 +130,7 @@ updated: 2026-11-10
 > - **全球基准与指标建构** 建立涵盖学前毛入学率、初等净入学率（NER）、五年级留存率、成人识字率与性别均等指数（GPI）的标准化国际比较指标。
 > - **部门联合审查（Joint Sector Reviews）** 国际援助方与主权国教育部定期展开部门联审，通过预算合规性检查监督公共财政向基础教育倾斜。
 > - **民间社会联盟动员** 扶植[[Global Campaign for Education|全球教育运动]]（Global Campaign for Education，GCE）及各国教师工会联盟，将民间倡导转化为对国家行政当局的持续监督压力。
-> - **结构调整约束与达标分化** 教科文组织 2006 年《全民教育全球监测报告》追踪指出，多数依赖外部发展援助与结构调整借贷的发展中国家未能如期达成 2005 年性别均等与基础教育普及指标，外部强加的市场化政策削弱了受援国公共教育供给能力；与之相反，古巴顶住新自由主义结构调整，依靠强有力的国家动员与公共财政保障，率先达成了优质全民教育目标。[[Argument_Rust_2009_Reflections|(UNESCO, 2006, cited in Rust et al., 2009, p. 134)]]
+> - **结构调整约束与达标分化** 教科文组织 2006 年《全民教育全球监测报告》追踪指出，多数依赖外部发展援助与结构调整借贷的发展中国家未能如期达成 2005 年性别均等与基础教育普及指标，外部强加的市场化政策削弱了受援国公共教育供给能力；与之相反，古巴顶住[[Neoliberalism|新自由主义]]结构调整，依靠强有力的国家动员与公共财政保障，率先达成了优质全民教育目标。[[Argument_Rust_2009_Reflections|(UNESCO, 2006, cited in Rust et al., 2009, p. 134)]]
 
 ---
 

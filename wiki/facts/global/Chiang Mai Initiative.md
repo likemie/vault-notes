@@ -12,7 +12,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 7
+fact_related_count: 8
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[ASEAN]]"
+  - "[[1997 Asian Financial Crisis]]"
   - "[[International Monetary Fund]]"
   - "[[Coreper]]"
   - "[[Committee of Permanent Representatives to ASEAN]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-29
+updated: 2026-11-19
 ---
 
 ---
@@ -50,7 +51,7 @@ updated: 2026-10-29
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2000 年 5 月在泰国清迈举行的第 33 届亚洲开发银行年会期间由[[ASEAN|东南亚国家联盟]]（东盟十国）与中日韩三国（东盟加三，ASEAN Plus Three, APT）财政部长联合达成协议；发布主体为东南亚国家联盟（Association of Southeast Asian Nations, ASEAN）与中日韩三国财长机制。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 529)]]
 > - **适用地区 / 对象** 东盟十个成员国以及中国（含香港）、日本、韩国十三国中央银行与财政主管部门。
-> - **问题背景** 1997–1998 年亚洲金融危机重创泰国、印尼与韩国等国货币体系，[[International Monetary Fund|国际货币基金组织]]（International Monetary Fund, IMF）出台的紧缩救援方案附带严苛的政治与经济干涉条件，重创了受援国社会；面对国际金融投机冲击，东亚国家形成了摆脱对西方金融救援单一依赖、自建危机防火墙的共识。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 529–530)]]
+> - **问题背景** 1997–1998 年[[1997 Asian Financial Crisis|亚洲金融危机]]重创泰国、印尼与韩国等国货币体系，[[International Monetary Fund|国际货币基金组织]]（International Monetary Fund, IMF）出台的紧缩救援方案附带严苛的政治与经济干涉条件，重创了受援国社会；面对国际金融投机冲击，东亚国家形成了摆脱对西方金融救援单一依赖、自建危机防火墙的共识。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 529–530)]]
 > - **制度位置** 东亚与东南亚区域经济一体化进程中首个具有实质约束力与流动性支撑的多边金融安全网；其早期机制借鉴了欧洲经济与货币联盟（European Economic and Monetary Union, EMU）的协调经验，但严格定位于主权合作框架之内。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 529–530)]]
 
 ---

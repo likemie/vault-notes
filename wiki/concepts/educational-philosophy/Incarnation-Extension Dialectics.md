@@ -7,7 +7,7 @@ aliases:
 summary: "由斯滕·内珀·拉森提出的现象学教育哲学构念，用以替代可见学习等还原论模型。该构念将学习界定为身心综合在身体具身化（化入具身习惯与默会经验）与向外延展（拓展在世行动自由与世界理解空间）之间的双向生成运动，从现象学生存论视角复兴全人教化（Bildung）传统。"
 type: concept
 domain: "educational-philosophy"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Learnification]]"
   - "[[Paradigm]]"
   - "[[Champ]]"
+  - "[[Neoliberalism]]"
   - "[[Bildung]]"
   - "[[Cognitive Offloading]]"
   - "[[Ontology]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -78,7 +79,7 @@ updated: 2026-11-15
 
 > [!concept-lens] 概念透镜
 > - **核心功能** 突破[[René Descartes|笛卡尔]]心身二分法与认知主义计算模型，将学习还原论从纯粹大脑内部的符号表征处理拉回血肉丰满的生存论[[Champ|场域]]。
-> - **理论用途** 用于解构新自由主义量化评价将学习等同于透明可见[[Effect Size|效应量]]的技术拜物教，为复兴经典德国教化（[[Bildung]]）传统提供基于身体现象学（Corporeal Phenomenology）的微观发生学辩护。
+> - **理论用途** 用于解构[[Neoliberalism|新自由主义]]量化评价将学习等同于透明可见[[Effect Size|效应量]]的技术拜物教，为复兴经典德国教化（[[Bildung]]）传统提供基于身体现象学（Corporeal Phenomenology）的微观发生学辩护。
 > - **制度边界** 严格区别于纯粹生物学视角的生理感官刺激或肌肉记忆；具身-延展辩证法强调具有文化价值与精神意义的内容融入生命整体，推动主体与社会世界的互动生成。
 
 > [!citation-card] [[Argument_Larsen_2019_EducSci|Larsen (2019)]] 论学习中的具身化与向外延展
@@ -221,7 +222,7 @@ updated: 2026-11-15
 ---
 
 > [!evidence-grid] 相关研究索引
-> - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 首次系统提出具身-延展辩证法（Incarnation-Extension Dialectics）概念，以此作为反击[[John Hattie|约翰·哈蒂]]可见学习与新自由主义“[[Learnification|学习化]]”思潮的哲学支柱，倡导从侧翼复兴全人教化（[[Bildung]]）传统。
+> - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 首次系统提出具身-延展辩证法（Incarnation-Extension Dialectics）概念，以此作为反击[[John Hattie|约翰·哈蒂]]可见学习与[[Neoliberalism|新自由主义]]“[[Learnification|学习化]]”思潮的哲学支柱，倡导从侧翼复兴全人教化（[[Bildung]]）传统。
 > - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 提出“学习化”（learnification）批判，剖析教育语言向去价值化的学习转译危机，为拉森在生存论层面上拓展具身-延展辩证法提供了坚实的哲学铺垫。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 深入反思可见学习[[Meta-analysis|元分析]]的教学法盲区，揭示其抽离学科实质内容、忽视德国教化（Bildung）传统的内在缺陷，与拉森的[[Phenomenology|现象学]]批判形成深度共鸣。
 > - [[Argument_Smith_2026_SPE|Smith (2026)]] — 从读写与具身认知视角批判[[Generative Artificial Intelligence|生成式人工智能]]全流程代写对学生心智反思的剥夺，强调修改与[[Reflexivity|反身性]]审视必须依赖人类主体在生活世界中的真实心智投入。

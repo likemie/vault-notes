@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 37
+person_related_count: 39
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -28,6 +28,7 @@ tags:
 related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Compensatory Legitimation]]"
+  - "[[Neoliberalism]]"
   - "[[Financial-Intellectual Complex]]"
   - "[[Discourse]]"
   - "[[Global Citizenship]]"
@@ -57,6 +58,7 @@ related_methods:
   - "[[Action Research]]"
 related_persons:
   - "[[Paulo Freire]]"
+  - "[[Karl Marx]]"
   - "[[Liliana Esther Olmos]]"
   - "[[Martin Carnoy]]"
   - "[[Michael W. Apple]]"
@@ -71,15 +73,15 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-19
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 阿根廷裔[[Critical Pedagogy|批判教育学]]与教育政治社会学者，加州大学洛杉矶分校（UCLA）杰出教授，[[Paulo Freire|弗莱雷]]研究所（Paulo Freire Institute）创始主任。
-> - **核心角色** 将[[Paulo Freire|弗莱雷]]的批判教育学传统、新马克思主义国家理论与政治经济学深度整合，为比较教育学奠定拉美外围国家视角的宏观政治社会学[[Analytic Framework|分析框架]]。
-> - **代表贡献** 提出[[Participatory Action Research|参与式行动研究]]（PAR）五项原则（1992）；系统阐发外围国家的[[Conditioned State Theory|受限国家理论]]；揭示拉美[[State Corporatism|国家法团主义]]下的教育[[Compensatory Legitimation|补偿性合法化]]机制；批判新自由主义全球化与[[World Bank|世界银行]][[Financial-Intellectual Complex|金融-智识复合体]]的[[Discourse|话语]]垄断。
+> - **核心角色** 将[[Paulo Freire|弗莱雷]]的批判教育学传统、新[[Karl Marx|马克思]]主义国家理论与政治经济学深度整合，为比较教育学奠定拉美外围国家视角的宏观政治社会学[[Analytic Framework|分析框架]]。
+> - **代表贡献** 提出[[Participatory Action Research|参与式行动研究]]（PAR）五项原则（1992）；系统阐发外围国家的[[Conditioned State Theory|受限国家理论]]；揭示拉美[[State Corporatism|国家法团主义]]下的教育[[Compensatory Legitimation|补偿性合法化]]机制；批判[[Neoliberalism|新自由主义]]全球化与[[World Bank|世界银行]][[Financial-Intellectual Complex|金融-智识复合体]]的[[Discourse|话语]]垄断。
 
 > [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论国家理论与教育政策诊断
 > 界定教育的“真实”问题以及最适宜的解决方案，在很大程度上取决于支撑、证成并指引教育诊断与方案提议的国家理论。然而，正如[[Martin Carnoy|马丁·卡诺伊]]（Martin Carnoy, 1992）所指出的，大多数教育问题分析都暗含着一种国家理论，但在教育研究与实践中，这种理论的根本前提却极少被识别或阐明。对我们自身的理论假定保持自我审思，是开展扎实学术研究的前提条件。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 73)]]

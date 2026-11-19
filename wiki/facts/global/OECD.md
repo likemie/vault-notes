@@ -10,9 +10,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 187
-fact_related_level: 18
-fact_related_stars: "💎💎💎💎💎💎"
+fact_related_count: 194
+fact_related_level: 19
+fact_related_stars: "💎💎💎💎💎💎⭐"
 fact_related_color: "#fecdd3"
 org_type: intergovernmental
 headquarters: 巴黎（法国）
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Social Imaginary]]"
   - "[[New Public Management]]"
   - "[[Performance Indicators]]"
+  - "[[Neoliberalism]]"
   - "[[Cumulative Innovation]]"
   - "[[Test-Based Accountability]]"
   - "[[School Autonomy]]"
@@ -104,7 +105,11 @@ related_concepts:
   - "[[Democratic Education]]"
   - "[[Educational Multilateralism]]"
   - "[[Knowledge Mediation]]"
+  - "[[High-Performing Education Systems]]"
   - "[[Academic Achievement]]"
+  - "[[Pedagogical Hybridity]]"
+  - "[[Hybrid Pedagogy]]"
+  - "[[Educational Meritocracy]]"
   - "[[Soft Power]]"
   - "[[Public Value]]"
   - "[[Return on Investment]]"
@@ -148,6 +153,8 @@ related_persons:
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
   - "[[David Coleman]]"
+  - "[[Zongyi Deng]]"
+  - "[[Saravanan Gopinathan]]"
   - "[[Wolfgang Mitter]]"
   - "[[Jason Beech]]"
   - "[[Kenneth King]]"
@@ -224,7 +231,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -268,7 +275,7 @@ updated: 2026-11-18
 >   - **1988** [[International Indicators of Education Systems|国际教育系统指标]]（International Indicators of Education Systems，INES）项目网络正式启动。
 >   - **1992** 推出旗舰年度报告《[[Education at a Glance|教育概览]]》（Education at a Glance，EAG），标志 OECD 从投入端与粗放人力核算转向关注教育系统的产出效能与质量问责。
 >   - **1994** 日本与东亚后发追赶的成功暴露了单纯依赖弗拉斯卡蒂研发投入指标的局限，OECD 科技政策委员会（Committee for Scientific and Technological Policy，CSTP）在弗里曼、本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（Bengt-Åke Lundvall）等[[Evolutionary Economics|演化经济学]]家影响下，启动国家[[Systems of Innovation|创新系统]]大型国际研究项目。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 10–11, 19–20)]]
->   - **1994** 帕帕多普洛斯指出经合组织形成了一种混合型新自由主义视角：经济增长居于主导地位，但必须受到社会维度与人类福祉的适度调和。[[Argument_Beech_2009_GlobalGarden|(Papadopoulos, 1994, cited in Beech, 2009b, p. 347)]]
+>   - **1994** 帕帕多普洛斯指出经合组织形成了一种混合型[[Neoliberalism|新自由主义]]视角：经济增长居于主导地位，但必须受到社会维度与人类福祉的适度调和。[[Argument_Beech_2009_GlobalGarden|(Papadopoulos, 1994, cited in Beech, 2009b, p. 347)]]
 >   - **1995** 发布《转型中的治理》（*Governance in Transition*），系统推广以分权、绩效管理与问责为特征的新公共管理原则；[[Cumulative Innovation|后续研究]]表明，经合组织倡导的 NPM 与[[Test-Based Accountability|考试问责]]（TBA）在各成员国落地时受到英美市场模式、欧洲大陆新韦伯模式与[[Napoleonic Administrative Tradition|拿破仑模式]]等行政传统的深刻过滤与折射。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 250)]]
 >   - **1996** [[Development Assistance Committee|经合组织发展援助委员会]]（Development Assistance Committee, DAC）在巴黎召开第 34 届高级别会议，在广大发展中国家缺席的情境下通过《塑造21世纪：发展合作的贡献》（*Shaping the 21st Century*）报告。该报告将宗滴恩大会的宽泛基础教育议程精简为两项具有刚性时间表的量化指标：2015 年普及初等教育（UPE）与 2005 年在初中等教育消除性别差距。这套由北方捐助国闭门制定的[[International Development Targets|国际开发目标]]（IDTs），直接奠定了 2000 年[[Millennium Development Goals|联合国千年发展目标]]（MDGs）教育条款的底层框架。[[Argument_King_2007_CE|(King, 2007, pp. 380–382)]]
 >   - **1996** 发布《以知识为基础的经济》（*The Knowledge Based Economy*），结合[[New Growth Theory|内生新增长理论]]建构起全球共享的知识经济社会想象。经合组织在北方发达国家的强势扩张侵蚀了教科文组织的传统权威，诱发其领导权危机并促成《[[Delors Report|德洛尔报告]]》的反击。[[Argument_Beech_2009_GlobalGarden|(Jones & Coleman, 2005, cited in Beech, 2009b, pp. 347–348)]]
@@ -438,9 +445,9 @@ updated: 2026-11-18
 > > - **经合组织多边协调立场** 坚称 DAC 确立的量化目标旨在凝聚国际发展合作政治共识，为动员官方发展援助与监测减贫成效提供便于跨国问责的可操作基准。
 >
 > > [!axis] 高绩效系统神话构建与微观教学现实脱节
-> > 质询经合组织在推介“高绩效教育系统”（HPES）成功经验时，是否过度依赖官方课改修辞而脱离微观课堂教学现实。
+> > 质询经合组织在推介“[[High-Performing Education Systems|高绩效教育系统]]”（HPES）成功经验时，是否过度依赖官方课改修辞而脱离微观课堂教学现实。
 > >
-> > - **制度与微观教学实证解构（[[Argument_Deng_2016_CE|Deng & Gopinathan, 2016]]）** [[Zongyi Deng|邓宗怡]]与[[Saravanan Gopinathan|高平纳坦]]通过检验经合组织关于新加坡等高绩效系统的分析报告（如 Schleicher, 2011）指出，OECD 习惯于将优异的 [[PISA]] 成绩归因于去情境化的师资选拔与官方宣称的探究式课改政策，忽视了基层常态课堂的教学真相：支撑其高学业表现的核心支柱是立足大纲讲授、例题操练与精细纠偏并重的[[Pedagogical Hybridity|教学杂糅]]（[[Hybrid Pedagogy|混合教学法]]），以及背后由[[Educational Meritocracy|唯才是用]]与高利害分流考试筑成的刚性制度环境；同时，跨国报告将教育质量窄化为单一测试排名，遮蔽了学校在凝聚多元社会、消除族群矛盾与国家认同建构中的政治使命。
+> > - **制度与微观教学实证解构（[[Argument_Deng_2016_CE|Deng & Gopinathan, 2016]]）** [[Zongyi Deng|邓宗怡]]与[[Saravanan Gopinathan|高平纳坦]]通过检验经合组织关于新加坡等高绩效系统的分析报告（如 Schleicher, 2011）指出，OECD 习惯于将优异的 [[PISA]] 成绩归因于去情境化的师资选拔与官方宣称的探究式课改政策，忽视了基层常态课堂的教学真相：支撑其高[[Academic Achievement|学业表现]]的核心支柱是立足大纲讲授、例题操练与精细纠偏并重的[[Pedagogical Hybridity|教学杂糅]]（[[Hybrid Pedagogy|混合教学法]]），以及背后由[[Educational Meritocracy|唯才是用]]与高利害分流考试筑成的刚性制度环境；同时，跨国报告将教育质量窄化为单一测试排名，遮蔽了学校在凝聚多元社会、消除族群矛盾与国家认同建构中的政治使命。
 > > - **经合组织跨国最佳实践立场** 坚称通过跨国大规模测评与高表现系统个案追踪，能够提炼出跨越文化边界的通用政策原则（如高标准教师准入、持续专业研修、课程连贯性与系统对齐），为各成员国教育改革提供可通约的科学参照标杆。
 
 > [!citation-card] 琼斯与科尔曼论经合组织在北方扩张对教科文组织的挤压

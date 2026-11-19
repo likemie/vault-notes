@@ -10,9 +10,9 @@ title: "Argument_Yan_2025_JCS"
 argument_key: "Argument_Yan_2025_JCS"
 argument_display_title: "The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong"
 argument_kind: "journal-article"
-argument_related_count: 39
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 42
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: Journal of Curriculum Studies
 citation: "Yan, K. C. A., & Morris, P. (2025). The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong. Journal of Curriculum Studies, 57(4), 480–494."
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Rote Learning]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Mimesis]]"
   - "[[Constructed Knowledge]]"
   - "[[Critical Thinking]]"
   - "[[Inquiry-Based Learning]]"
@@ -52,6 +53,7 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Reliability]]"
   - "[[One Country, Two Systems]]"
+  - "[[Typicality]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Sinicisation]]"
 related_theories:
@@ -66,6 +68,7 @@ related_facts:
   - "[[Liberal Studies]]"
   - "[[Citizenship and Social Development]]"
   - "[[2009 Hong Kong NSS Curriculum Reform]]"
+  - "[[1997 Asian Financial Crisis]]"
   - "[[Institute of Education Sciences]]"
   - "[[National Education]]"
 related_arguments:
@@ -75,7 +78,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-01
-updated: 2026-11-13
+updated: 2026-11-19
 year: 2025
 doi: ""
 citation_aliases:
@@ -157,7 +160,7 @@ LS 也被定位为解决香港教育体制长期痼疾的改革措施。教育�
 
 LS 的课程设计直接回应了这些批评。《[[General Education|通识教育]]科课程及评估指引》明确表述了[[Constructivist Paradigm|建构主义]]知识观：
 
-> "知识是情境化的、跨学科的、由个人和社会建构的。学习者通过听讲、阅读和模仿等活动获取知识，也通过个人反思和体验式学习，以及与他人的互动、协作和对话来[[Constructed Knowledge\|建构知识]]。"(CDC & HKEAA, 2007, p. 83,原文斜体)
+> "知识是情境化的、跨学科的、由个人和社会建构的。学习者通过听讲、阅读和[[Mimesis|模仿]]等活动获取知识，也通过个人反思和体验式学习，以及与他人的互动、协作和对话来[[Constructed Knowledge\|建构知识]]。"(CDC & HKEAA, 2007, p. 83,原文斜体)
 
 学习目标要求学生能够"清晰地陈述论点，并表现出对证据的尊重、对他人观点和价值的开放与包容"(p. 6, point e)，以及"辨识个人和社会议题中不同观点和判断背后的价值，运用[[Critical Thinking|批判性思维]]......在个人和社会层面作出决定和判断"(p. 6, point d)。这些设计旨在用议题为本的[[Inquiry-Based Learning|探究式学习]]取代传统的教科书依赖和死记硬背。
 
@@ -165,7 +168,7 @@ LS 的课程设计直接回应了这些批评。《[[General Education|通识教
 
 **港府合法性的下降与教育改革的政治功能**
 
-1997 年回归后不久，香港经济即遭受 1998 年亚洲金融风暴重创，这恰好与第一届特区政府任期（1997–2002）重叠。公众对港府的治理能力和领导回归后香港的合法性产生了怀疑。在此背景下，港府将教育改革定位为重建信心的起点。
+1997 年回归后不久，香港经济即遭受 1998 年[[1997 Asian Financial Crisis|亚洲金融风暴]]重创，这恰好与第一届特区政府任期（1997–2002）重叠。公众对港府的治理能力和领导回归后香港的合法性产生了怀疑。在此背景下，港府将教育改革定位为重建信心的起点。
 
 > [!note] [[Externalization\|外部化]]策略
 > 港府采取了"外部化"（[[Externalization]]）策略，将国内教育问题表述为回应全球趋势的必要改革。三份关键政策文件的表述高度一致。
@@ -246,7 +249,7 @@ LS 自 2009 年引入以来，一直被本地亲中政治力量质疑为年轻�
 
 官媒攻击促使港府采取行动。2019 年 12 月，教育局宣布对 LS 教科书进行一次性的"专业咨询服务"，组建由学者、政府人员和前线教师组成的审查小组，移除官媒认为有争议和敏感的内容。
 
-> [!note] LS "教科书"的特殊性
+> [!note] LS "教科书"的[[Typicality|特殊性]]
 > LS 的"教科书"与传统学校科目的教科书有本质区别。LS 课程鼓励教师发挥专业自主性，使用报纸、专题文章和新闻文件作为教学材料。这意味着 LS 没有官方教科书。本地出版商可以依据课程指引编制 LS "教科书"作为补充材料，但这些"教科书"豁免于教育局的教科书评审制度。
 >
 > 这一设计原本是 LS 课程灵活性的核心特征，在 2019 年后却被重新定义为"漏洞"，成为官媒攻击的靶心。

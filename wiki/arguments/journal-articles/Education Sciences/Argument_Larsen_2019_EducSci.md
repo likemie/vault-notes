@@ -9,9 +9,9 @@ title: "Argument_Larsen_2019_EducSci"
 argument_key: "Argument_Larsen_2019_EducSci"
 argument_display_title: "Blindness in seeing: A philosophical critique of the Visible Learning paradigm in education"
 argument_kind: "journal-article"
-argument_related_count: 58
-argument_related_level: 5
-argument_related_stars: "💎⭐⭐"
+argument_related_count: 60
+argument_related_level: 6
+argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
 journal: Education Sciences
 citation: "Larsen, S. N. (2019). Blindness in seeing: A philosophical critique of the Visible Learning paradigm in education. Education Sciences, 9(1), 47. https://doi.org/10.3390/educsci9010047"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Geisteswissenschaften]]"
   - "[[Ontology]]"
   - "[[Discourse]]"
+  - "[[Neoliberalism]]"
   - "[[Discipline-Based Theory]]"
   - "[[Lifelong Learning]]"
   - "[[Mind Mapping]]"
@@ -79,6 +80,7 @@ related_persons:
   - "[[John Hattie]]"
   - "[[Niklas Luhmann]]"
   - "[[Thomas Fuchs]]"
+  - "[[Karl Marx]]"
   - "[[Immanuel Kant]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Friedrich Nietzsche]]"
@@ -97,7 +99,7 @@ sources:
 part_of: ''
 status: stable
 created: '2026-05-04'
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 ---
 
@@ -110,7 +112,7 @@ updated: 2026-11-15
 > [!concept-lens] 阅读透镜
 > - **对象** [[John Hattie|约翰·哈蒂]]（[[John Hattie]]）确立的可见学习范式、丹麦哥本哈根中小学现场的标语化实践、2014 年丹麦基础教育改革近三千项学习目标规训，以及国际组织所主导的循证绩效评估体制。
 > - **张力** 狭隘评价[[Positivism|实证主义]]追求即时、透明、数字化的视觉中心主义，与[[Phenomenology|现象学]]存在性时间、脑神经具身复杂性、主体精神自由及规范性教化传统之间的深层冲突。
-> - **贡献** 构建起融合[[Niklas Luhmann|卢曼]]社会系统论盲点概念、[[Thomas Fuchs|托马斯·福克斯]]（Thomas Fuchs）生态身体现象学、马克思商品二重性分析及德意志[[Geisteswissenschaften|精神科学]]教化传统的系统批判框架，确立了盲视作为教育观看必然构成的认识论反思公理。
+> - **贡献** 构建起融合[[Niklas Luhmann|卢曼]]社会系统论盲点概念、[[Thomas Fuchs|托马斯·福克斯]]（Thomas Fuchs）生态身体现象学、[[Karl Marx|马克思]]商品二重性分析及德意志[[Geisteswissenschaften|精神科学]]教化传统的系统批判框架，确立了盲视作为教育观看必然构成的认识论反思公理。
 
 ---
 
@@ -132,7 +134,7 @@ updated: 2026-11-15
 > | 模块 | 材料与处理方式 |
 > |---|---|
 > | **哲学批判论文**<br>Philosophical Essay | 突破实证[[Meta-analysis\|元分析]][[Discourse\|话语]]霸权，立足欧陆[[Phenomenology\|现象学]]与[[Critical Theory\|批判理论]]展开个人学术随笔式深度学理剖析。 |
-> | **历史语义学与概念史考证**<br>Begriffsgeschichte | 追踪丹麦半个世纪以来学习（læring）概念从反专制教育学的解放旗帜演变为新自由主义国家治理工具的语义衰变轨迹。 |
+> | **历史语义学与概念史考证**<br>Begriffsgeschichte | 追踪丹麦半个世纪以来学习（læring）概念从反专制教育学的解放旗帜演变为[[Neoliberalism\|新自由主义]]国家治理工具的语义衰变轨迹。 |
 > | **跨学科多尺度审思**<br>Interdisciplinary Scrutiny | 横跨脑神经生物学、微观突触网络、身体现象学中观生活世界与宏观天体物理尺度，审视认知测量的空间尺度错配。 |
 > | **二阶观察解构分析**<br>Second-Order Observation | 对[[John Hattie\|哈蒂]]实证元分析与可见学习理论文本展开自反性剖析，捕捉其[[Positivism\|实证主义]]自我辩护中的逻辑短路与盲点遮蔽。 |
 

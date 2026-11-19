@@ -6,7 +6,7 @@ aliases:
 summary: "描述全球教育改革向标准化、问责、市场化和私有化集中的批判性术语，常用于分析新自由主义政策如何重塑学校制度"
 type: concept
 domain: "educational-policy-reform"
-related_count: 71
+related_count: 73
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -16,6 +16,7 @@ tags:
   - neoliberalism
   - region/global
 related_concepts:
+  - "[[Neoliberalism]]"
   - "[[Performance Indicators]]"
   - "[[Test-Based Accountability]]"
   - "[[New Public Management]]"
@@ -66,6 +67,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Pasi Sahlberg]]"
+  - "[[Charles Taylor]]"
   - "[[Gabriel Heller Sahlgren]]"
   - "[[John Hattie]]"
 related_facts:
@@ -96,13 +98,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
 
 > [!def] Global Education Reform Movement
-> 全球教育改革运动（Global Education Reform Movement, GERM）是由芬兰教育学者[[Pasi Sahlberg|帕西·萨尔伯格]]（Pasi Sahlberg, 2012）提出的批判性学术术语，用于概括自 1980 年代以来在全球范围内蔓延的新自由主义学校教育改革浪潮。该运动主张将私营部门的市场逻辑、工业管理模式、高度统一的课程标准以及高利害测试问责强加于公共教育系统，试图通过制造学校间竞争、削减公共财政投入与推进教育服务私有化来重塑学校教育治理（p. 141; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 30–31]]）。
+> 全球教育改革运动（Global Education Reform Movement, GERM）是由芬兰教育学者[[Pasi Sahlberg|帕西·萨尔伯格]]（Pasi Sahlberg, 2012）提出的批判性学术术语，用于概括自 1980 年代以来在全球范围内蔓延的[[Neoliberalism|新自由主义]]学校教育改革浪潮。该运动主张将私营部门的市场逻辑、工业管理模式、高度统一的课程标准以及高利害测试问责强加于公共教育系统，试图通过制造学校间竞争、削减公共财政投入与推进教育服务私有化来重塑学校教育治理（p. 141; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 30–31]]）。
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** GERM 将复杂的育人过程还原为类似工业流水线的投入—产出模型，将学校视作企业组织，教师视作执行标准化操作清单的生产线装配工，学生测验分数视作企业增值增量的[[Performance Indicators|绩效指标]]（Sahlberg, 2012, pp. 141, 149）。
@@ -174,7 +176,7 @@ updated: 2026-11-15
 > **循证科学与技术官僚规训** 探讨[[Scientism|科学主义]][[Discourse|话语]]如何将育人实践转化为可测量、可审计与可问责的行政指标。
 
 > [!claim] Sahlberg (2012)
-> **教学专业的工业泰勒制降格** Sahlberg (2012) 指出 GERM 通过将工业质量管理原则强加于教育，使学校丧失了探索复杂教学的生态空间；教师从具备自主裁量权的专业人员，退化为严格依从外部考核标准的生产线操作员，导致系统性教学窄化与防卫性应试教学。
+> **教学专业的工业[[Charles Taylor|泰勒]]制降格** Sahlberg (2012) 指出 GERM 通过将工业质量管理原则强加于教育，使学校丧失了探索复杂教学的生态空间；教师从具备自主裁量权的专业人员，退化为严格依从外部考核标准的生产线操作员，导致系统性教学窄化与防卫性应试教学。
 
 > [!claim] Soler (2016)
 > **技能切片与技术控制的同构性** Soler (2016) 论证了技能切片教学法（如合成拼读法对[[Whole Language|全语言]]的压制）与[[Technical Rationality|技术理性]]治理的内在契合；该模式提供了一种自上而下高度可控的课程交付系统，使技术官僚能够绕过复杂的学校文化，直接依据短期技能测验对教师施加规训。

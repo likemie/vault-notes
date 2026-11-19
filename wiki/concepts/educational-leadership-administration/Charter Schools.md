@@ -5,7 +5,7 @@ aliases:
 summary: "由公共财政资助、私营非营利或营利机构依据专门契约自主运营的公办民营学校形态；以解除常规学区行政规制换取严格的学业绩效问责，但在多国实践中引发了关于公共责任流失、筛选偏误以及实际学业增值近乎为零的激烈争论。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 32
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Document]]"
   - "[[Discourse]]"
+  - "[[Neoliberalism]]"
   - "[[School Choice]]"
 related_theories: []
 related_methods:
@@ -43,6 +44,7 @@ related_persons:
   - "[[Ivan Snook]]"
   - "[[John Hattie]]"
 related_facts:
+  - "[[Independent Schools Initiative]]"
   - "[[Bill & Melinda Gates Foundation]]"
   - "[[Partnership Schools Kura Hourua]]"
   - "[[PISA]]"
@@ -57,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -68,7 +70,7 @@ updated: 2026-11-11
 > [!concept-lens] 概念透镜
 > - **含义** 作为[[New Public Management|新公共管理]][[Paradigm|范式]]下的典型制度创新，通过公帑资助与民间运营分离，在公立教育系统内部引入[[Quasi-market|准市场]]竞争与契约化问责。
 > - **用途** 帮助研究者透视公立教育的[[Endogenous Privatisation|内生私有化]]演进，分析非国家主体如何借助办学合同参与公共资源分配并重组基础教育治理结构。
-> - **边界** 特许学校在法律地位上仍属于免费接受公众入学的公立体系，区别于纯粹依赖家庭学费的私立独立学校；亦区别于赋予家庭资金随生源流动的[[School Vouchers|教育券]]制度。
+> - **边界** 特许学校在法律地位上仍属于免费接受公众入学的公立体系，区别于纯粹依赖家庭学费的私立[[Independent Schools Initiative|独立学校]]；亦区别于赋予家庭资金随生源流动的[[School Vouchers|教育券]]制度。
 
 > [!citation-card] 商业外包与特许办学的公共责任脱身风险
 > 依靠私人慈善和商业外包无法替代公共财政的制度保障。慈善捐助具有极大的随意性与不稳定性，完全取决于捐赠人的偏好、企业的公关需求或媒体热度，无法保证每一所学校获得持续稳定的办学资源；当私营外包项目效果不佳或特许学校运营失败时，私营机构可以通过解约或破产脱身，而受损学生的权益却无人承担。唯有坚持政府作为法定第一责任人、由公共财政全额保障的公立教育体系，才能维系民主社会的平等底线。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 134–136)]]
@@ -157,7 +159,7 @@ updated: 2026-11-11
 > > [!axis] 办学体制创新 vs 公共教育公共性流失
 > > 争论特许学校是激发基层教学活力与破除官僚僵化的利器，还是资本借机瓜分公共教育预算与弱化教师工会的特洛伊木马。
 > >
-> > - **新自由主义与亲市场倡导者** 强调合同制竞争能迫使传统公立学校提升效率，为困于薄弱学区的低收入家庭提供急需的替代选择。
+> > - **[[Neoliberalism|新自由主义]]与亲市场倡导者** 强调合同制竞争能迫使传统公立学校提升效率，为困于薄弱学区的低收入家庭提供急需的替代选择。
 > > - **批判教育社会学与公共行政学者** 指责特许学校将公共资金输入私营服务商，在招工上规避工会协议，且当经营出现亏损时可宣告破产将包袱推回公共财政。
 >
 > > [!axis] 弱势群体学业补偿 vs 隐性生源筛选与阶层隔离

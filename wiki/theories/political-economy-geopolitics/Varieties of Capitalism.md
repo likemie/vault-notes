@@ -13,7 +13,7 @@ aliases:
 summary: "彼得·A·霍尔与戴维·索斯基斯于2001年提出的比较政治经济学奠基框架；以企业为核心协调主体，将发达资本主义划分为自由市场经济体（LMEs）与协调型市场经济体（CMEs），强调金融、劳资、职业培训与公司治理间的跨领域制度互补性；施特雷克与希伦等学者后续批判其功能主义与超稳定假定，揭示出两类体制在制度互补性遮蔽下共同走向渐进自由化的演化轨迹。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 32
+theory_related_count: 34
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Corporate University]]"
   - "[[Patient Capital]]"
   - "[[Feedback]]"
+  - "[[Neoliberalism]]"
   - "[[Social Regime]]"
   - "[[Institutional Layering]]"
   - "[[Institutional Drift]]"
@@ -44,6 +45,7 @@ related_theories:
   - "[[Academic Capitalism]]"
   - "[[Path Dependence]]"
   - "[[Human Capital Theory]]"
+  - "[[Developmental State]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[In-depth Interview]]"
@@ -64,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-18
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -121,7 +123,7 @@ updated: 2026-11-11
 > 德国跨国制造企业尝试在巴西、美国等分支机构复制本土享誉世界的初始职业教育与培训（IVET）双元学徒制，然而由于东道国缺乏法定的行业雇主协会协商网络、缺乏匹配的公立职业学校系统、亦缺乏工会监督与防止恶性挖角（Poaching）的规制机制，所有在海外孤立移植学徒制的尝试均以失败告终。
 
 > [!theory-proposition] 命题三｜制度遗产与政策反馈驱动公共部门市场化改革的强[[Path Dependence|路径依赖]]
-> 宏观生产体制的组织逻辑不仅约束私营企业，而且深度形塑公共与准公共部门（如高等教育、科研机构）的演化轨迹。一旦特定制度安排确立，它将通过政策反馈机制（Policy [[Feedback]]）催生庞大的既得利益选民群体与文化正当性预设。当面临共同的新自由主义市场化压力时，不同生产体制对外部冲击的吸纳方式展现出深度的路径依赖：自由主义体制下顺理成章的激进商品化，在保守协调体制下会触发剧烈的社会自我防御与政治回弹。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 803–804)]]
+> 宏观生产体制的组织逻辑不仅约束私营企业，而且深度形塑公共与准公共部门（如高等教育、科研机构）的演化轨迹。一旦特定制度安排确立，它将通过政策反馈机制（Policy [[Feedback]]）催生庞大的既得利益选民群体与文化正当性预设。当面临共同的[[Neoliberalism|新自由主义]]市场化压力时，不同生产体制对外部冲击的吸纳方式展现出深度的路径依赖：自由主义体制下顺理成章的激进商品化，在保守协调体制下会触发剧烈的社会自我防御与政治回弹。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 803–804)]]
 
 > [!example|notitle]
 > 在高等教育[[Academic Capitalism|学术资本主义]]推进中，美国（LME）依托亲市场合法性传统，大学学费在十年内翻倍并催生万亿美元学生贷款金融衍生品；而在德国（保守协调 CME），七个联邦州在 2000 年代初尝试引入每学期仅 500 欧元的大学学费，却在全德学生运动抗议与公投压力下被迫全面废止。在德国，免费公立教育被视为战后社会契约不可剥夺的基石，而美国则视教育成本为个体在资本市场上自负盈亏的[[Human Capital Theory|人力资本]]投资。
@@ -155,7 +157,7 @@ updated: 2026-11-11
 > - **适合分析** 发达民主工业化国家（[[OECD]] 核心成员国）在宏观经济治理、技能形成体系与高等教育政策中的结构性差异；解释国家比较优势的历史根源。
 > - **成立条件** 研究对象需具备相对成熟的市场经济建制、法治保障体系与清晰的政企关系边界。
 > - **解释不足** 
->   - **二元类型学分类危机** LME 对比 CME 的二分框架无法有效容纳东亚发展型国家（如韩国、新加坡）、新兴经济体（如中国、印度、巴西）以及具有依附性市场经济特征的中东欧国家；
+>   - **二元类型学分类危机** LME 对比 CME 的二分框架无法有效容纳东亚[[Developmental State|发展型国家]]（如韩国、新加坡）、新兴经济体（如中国、印度、巴西）以及具有依附性市场经济特征的中东欧国家；
 >   - **超稳定功能主义偏误** 理论倾向于将制度视为功能上完美协调的静态均衡，对国家内部由于权力不对称与阶级博弈引发的内生制度瓦解缺乏前瞻解释力；
 >   - **忽视非对称[[Liberalization|自由化]]大势** 过于强调国家模式的互补防卫，轻视了全球资本主义在过去四十年间整体向金融化、劳动力弹性化与市场化漂移的普遍趋同压力。
 > - **不能直接推出** 拥有某种生产体制类型并不代表其在所有技术领域均具有绝对优势；CME 的高专用技能在颠覆性技术创新（Radical Innovation）中可能转化为转型沉没成本，而 LME 的通用技能在需要精密累积工艺的渐进创新（Incremental Innovation）中则可能造成技术断代。

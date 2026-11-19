@@ -3536,8 +3536,10 @@
     "Bruner & Ross (1976)": "Bruner & Ross, 1976",
     "Bruner & Ross, 1976": "Bruner & Ross, 1976",
     "Bruner (1986)": "Bruner, 1986",
+    "Bruner (1996)": "Bruner, 1996",
     "Bruner (2004)": "Bruner, 2004",
     "Bruner, 1986": "Bruner, 1986",
+    "Bruner, 1996": "Bruner, 1996",
     "Bruner, 2004": "Bruner, 2004",
     "Brunmair & Richter (2019)": "Brunmair & Richter, 2019",
     "Brunmair & Richter, 2019": "Brunmair & Richter, 2019",
@@ -6640,6 +6642,8 @@
     "Dominguez, 2018": "Dominguez, 2018",
     "Domino (2010)": "Domino, 2010",
     "Domino, 2010": "Domino, 2010",
+    "Don Holdaway (1979)": "Don Holdaway, 1979",
+    "Don Holdaway, 1979": "Don Holdaway, 1979",
     "Don et al. (2020)": "Don et al., 2020",
     "Don et al., 2020": "Don et al., 2020",
     "Donahue (2011)": "Donahue, 2011",
@@ -8439,6 +8443,8 @@
     "Franco et al., 2014": "Franco et al., 2014",
     "Frank & Cook (1995)": "Frank & Cook, 1995",
     "Frank & Cook, 1995": "Frank & Cook, 1995",
+    "Frank & Idris (2020)": "Frank & Idris, 2020",
+    "Frank & Idris, 2020": "Frank & Idris, 2020",
     "Frank & Meyer (2020)": "Frank & Meyer, 2020",
     "Frank & Meyer, 2020": "Frank & Meyer, 2020",
     "Frank (1984)": "Frank, 1984",
@@ -10088,6 +10094,8 @@
     "Gummersall et al., 2020": "Gummersall et al., 2020",
     "Gumport (2007)": "Gumport, 2007",
     "Gumport, 2007": "Gumport, 2007",
+    "Gunderson et al. (2011)": "Gunderson et al., 2011",
+    "Gunderson et al., 2011": "Gunderson et al., 2011",
     "Gunduz & Kutluca (2019)": "Gunduz & Kutluca, 2019",
     "Gunduz & Kutluca, 2019": "Gunduz & Kutluca, 2019",
     "Gunhan (2016)": "Gunhan, 2016",
@@ -11382,6 +11390,8 @@
     "Holbrook (2022)": "Holbrook, 2022",
     "Holbrook, 1977": "Holbrook, 1977",
     "Holbrook, 2022": "Holbrook, 2022",
+    "Holdaway (1979)": "Holdaway, 1979",
+    "Holdaway, 1979": "Holdaway, 1979",
     "Holden et al. (1990)": "Holden et al., 1990",
     "Holden et al., 1990": "Holden et al., 1990",
     "Hole (2013)": "Hole, 2013",
@@ -15793,6 +15803,8 @@
     "MOE (2011a)": "MOE, 2011a",
     "MOE (2011b)": "MOE, 2011b",
     "MOE (2016)": "MOE, 2016",
+    "MOE Singapore (2008)": "MOE Singapore, 2008",
+    "MOE Singapore, 2008": "MOE Singapore, 2008",
     "MOE, 2000": "MOE, 2000",
     "MOE, 2008": "MOE, 2008",
     "MOE, 2011a": "MOE, 2011a",
@@ -54801,6 +54813,21 @@
       ],
       "title": ""
     },
+    "Bruner, 1996": {
+      "aliases": [
+        "Bruner, 1996",
+        "Bruner (1996)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bruner, 1996"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Folk Pedagogy.md"
+      ],
+      "title": ""
+    },
     "Bruner, 2004": {
       "aliases": [
         "Bruner, 2004",
@@ -66641,6 +66668,7 @@
       "isbn": "9780805802832",
       "seen_in": [
         "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md",
+        "wiki/concepts/instruction-pedagogy/Folk Pedagogy.md",
         "wiki/methods/quantitative/Effect Size Conversion.md",
         "wiki/methods/quantitative/Meta-analysis.md",
         "wiki/persons/us/Jacob Cohen.md"
@@ -70556,7 +70584,8 @@
       ],
       "isbn": "9780521530323",
       "seen_in": [
-        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md"
+        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md",
+        "wiki/concepts/educational-policy-reform/Standard Language Ideology.md"
       ],
       "title": "English as a global language"
     },
@@ -77441,6 +77470,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "The Effects of Physical Manipulatives on Achievement in Mathematics in Grades K-6: A Meta-Analysis"
+    },
+    "Don Holdaway, 1979": {
+      "aliases": [
+        "Don Holdaway, 1979",
+        "Don Holdaway (1979)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Don Holdaway, 1979"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Shared Book Approach.md"
+      ],
+      "title": ""
     },
     "Don et al., 2020": {
       "aliases": [
@@ -90653,6 +90697,21 @@
       ],
       "title": ""
     },
+    "Frank & Idris, 2020": {
+      "aliases": [
+        "Frank & Idris, 2020",
+        "Frank & Idris (2020)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Frank & Idris, 2020"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Papuan Social Ecology.md"
+      ],
+      "title": ""
+    },
     "Frank & Meyer, 2020": {
       "aliases": [
         "Frank & Meyer, 2020",
@@ -102691,6 +102750,21 @@
       ],
       "title": ""
     },
+    "Gunderson et al., 2011": {
+      "aliases": [
+        "Gunderson et al., 2011",
+        "Gunderson et al. (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Gunderson et al., 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/sociology-of-education/Code-Switching.md"
+      ],
+      "title": ""
+    },
     "Gunduz & Kutluca, 2019": {
       "aliases": [
         "Gunduz & Kutluca, 2019",
@@ -112295,6 +112369,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Music-based mentoring and academic improvement in high-poverty elementary schools"
+    },
+    "Holdaway, 1979": {
+      "aliases": [
+        "Holdaway, 1979",
+        "Holdaway (1979)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Holdaway, 1979"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Shared Book Approach.md"
+      ],
+      "title": ""
     },
     "Holden et al., 1990": {
       "aliases": [
@@ -139435,7 +139524,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md"
+        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md",
+        "wiki/concepts/sociology-of-education/Code-Switching.md"
       ],
       "title": "Beyond fear and loathing in SG: The real mother tongues and language policies in multilingual Singapore"
     },
@@ -143980,6 +144070,21 @@
       ],
       "title": ""
     },
+    "MOE Singapore, 2008": {
+      "aliases": [
+        "MOE Singapore, 2008",
+        "MOE Singapore (2008)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "MOE Singapore, 2008"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Shared Book Approach.md"
+      ],
+      "title": ""
+    },
     "MOE, 2000": {
       "aliases": [
         "MOE, 2000",
@@ -145997,7 +146102,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
+        "wiki/concepts/educational-philosophy/Papuan Social Ecology.md"
       ],
       "title": "The Socio-cultural Plurality of Papuan Society"
     },
@@ -161825,7 +161931,9 @@
         "Ng & He, 2004"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/sociology-of-education/Code-Switching.md"
+      ],
       "title": "Code-switching in trigenerational family: Conversations among Chinese immigrants in New Zealand"
     },
     "Ng & Tan, 2010": {
@@ -162793,6 +162901,7 @@
       "isbn": "9780435900977",
       "seen_in": [
         "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
+        "wiki/concepts/educational-philosophy/Papuan Social Ecology.md",
         "wiki/concepts/political-economy-geopolitics/ASEAN Way.md"
       ],
       "title": "Neo-Colonialism, the Last Stage of Imperialism"
@@ -168149,7 +168258,9 @@
         "Pakir, 2008"
       ],
       "isbn": "9789810817756",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/educational-policy-reform/Standard Language Ideology.md"
+      ],
       "title": "English as a lingua franca: Negotiating Singapore’s English language education"
     },
     "Pakulski, 1986": {
@@ -200761,7 +200872,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md"
+        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md",
+        "wiki/concepts/sociology-of-education/Code-Switching.md"
       ],
       "title": "Functions of code-switching in Malaysia and Singapore"
     },

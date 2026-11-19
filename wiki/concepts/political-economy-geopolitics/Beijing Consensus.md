@@ -7,10 +7,10 @@ aliases:
 summary: "由雷默（J. C. Ramo）于2004年提出并在后危机时代演进的非西方发展范式与治理模式，强调国家战略规划、实验主义渐进改革、社会稳定与自主创新，在跨国高等教育中体现为国家战略驱动、全额奖学金供给与治国理政经验输出，与新自由主义华盛顿共识形成深刻对照。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 38
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - beijing-consensus
   - political-economy
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Transnational Education]]"
   - "[[Discourse]]"
+  - "[[Neoliberalism]]"
   - "[[Washington Consensus]]"
   - "[[Paradigm]]"
   - "[[Geopolitics]]"
@@ -47,7 +48,8 @@ related_concepts:
   - "[[Analytical Stance]]"
   - "[[Student Mobility]]"
   - "[[Variable]]"
-related_theories: []
+related_theories:
+  - "[[Developmental State]]"
 related_methods:
   - "[[Discourse Analysis]]"
   - "[[Effect Size]]"
@@ -65,13 +67,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 ---
 
 > [!def] Beijing Consensus
-> 北京共识（Beijing Consensus）最初由美国学者乔舒亚·库珀·雷默（Joshua Cooper Ramo, 2004）提出，指当代中国在经济社会现代化转型中形成的非西方发展模式。在[[Transnational Education|跨国高等教育]]与全球治理视阈下，该概念演进为一种以强政府战略规划、威权发展型国家协调、社会稳定优先及自立自强为特征的替代性治理[[Discourse|话语]]体系。与依赖新自由主义市场化和去监管的“[[Washington Consensus|华盛顿共识]]”相对立，北京共识在教育领域体现为国家战略深度统辖、全额专项奖学金供给、产教协同出海及发展经验制度化传播。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 689–691)]]
+> 北京共识（Beijing Consensus）最初由美国学者乔舒亚·库珀·雷默（Joshua Cooper Ramo, 2004）提出，指当代中国在经济社会现代化转型中形成的非西方发展模式。在[[Transnational Education|跨国高等教育]]与全球治理视阈下，该概念演进为一种以强政府战略规划、威权[[Developmental State|发展型国家]]协调、社会稳定优先及自立自强为特征的替代性治理[[Discourse|话语]]体系。与依赖[[Neoliberalism|新自由主义]]市场化和去监管的“[[Washington Consensus|华盛顿共识]]”相对立，北京共识在教育领域体现为国家战略深度统辖、全额专项奖学金供给、产教协同出海及发展经验制度化传播。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 689–691)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向全球治理与高等教育现代化中由国家战略引领、强调发展实效与政治秩序稳定的非西方替代性[[Paradigm|范式]]。

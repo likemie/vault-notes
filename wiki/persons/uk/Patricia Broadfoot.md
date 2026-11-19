@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 21
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Comparative Pedagogy]]"
   - "[[Lifelong Learning]]"
+  - "[[Neoliberalism]]"
   - "[[Creativity]]"
   - "[[Formative Assessment]]"
   - "[[Learner Autonomy]]"
@@ -45,6 +46,7 @@ related_instruments: []
 related_persons:
   - "[[Robin Alexander]]"
   - "[[David P. Phillips]]"
+  - "[[Alexandre de Rhodes]]"
   - "[[Michael Sadler]]"
   - "[[Andreas Kazamias]]"
 related_facts:
@@ -55,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -66,7 +68,7 @@ updated: 2026-11-15
 > - **代表贡献** 1. 创立微观“学习学”（Learnology）跨国比较框架；2. 主持英法初等教育评价与体验跨国比较项目（[[Picking Up the Pace|PACE 项目]]）；3. 与[[Robin Alexander|罗宾·亚历山大]]、[[David P. Phillips|戴维·菲利普斯]]合著里程碑著作《从比较中学习》（*Learning from Comparing*, 1999），确立英国比较教育关注课堂、情境与文化的学术传统。
 
 > [!citation-card] 人物定位的关键来源
-> 在英国比较教育的学术版图上，存在着若干鲜明的[[Epistemology|认识论]]与方法论特征及全新取向：首先，重新强调了多年前被称为‘[[Comparative Pedagogy|比较教学论]]’的领域——这是教育过程中至关重要的维度，以及布罗德富特所称的教育‘学习学’（Alexander et al., 1999; Broadfoot, 1999）；其次，重申了英国对情境与文化的传统关注……这两大认识论侧重点使英国比较教育比美国更具人文关怀，对世界的阐释也较少受到机械和功利性经济动机的驱使。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 155)]]
+> 在英国比较教育的学术版图上，存在着若干鲜明的[[Epistemology|认识论]]与方法论特征及全新取向：首先，重新强调了多年前被称为‘[[Comparative Pedagogy|比较教学论]]’的领域——这是教育过程中至关重要的维度，以及布[[Alexandre de Rhodes|罗德]]富特所称的教育‘学习学’（Alexander et al., 1999; Broadfoot, 1999）；其次，重申了英国对情境与文化的传统关注……这两大认识论侧重点使英国比较教育比美国更具人文关怀，对世界的阐释也较少受到机械和功利性经济动机的驱使。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 155)]]
 >
 > *First, there is the renewed emphasis on what many years back we had called 'comparative pedagogy', a most important aspect of the process of education, and what Broadfoot has called 'learneology' of education (Alexander et al., 1999; Broadfoot, 1999). Second, I wish to underline the British traditional and lately reinvented emphasis on contexts and cultures... These two epistemic emphases render the British comparative education more human and humane than the American, and the way of reading the world less mechanistically and economically motivated (Kazamias, 2001).*
 
@@ -90,7 +92,7 @@ updated: 2026-11-15
 >   - **代表著作** *Education, Assessment and Society: A Sociological Analysis* (1996); *Learning from Comparing* (1999); *Towards a neo-comparative 'learnology' of education* (1999)。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 155)]]
 >   - **关键概念／方法** [[Learnology\|微观学习学]]、[[Comparative Pedagogy\|比较教学论]]、课堂生态学。
 >   - **阶段转向** 与亚历山大等学者合流，推动比较教育学由宏观体制白描全面下沉至微观课堂与学习者主体。
-> - **2000s–至今 — 第三代评价冲突调和与[[Lifelong Learning|终身学习]]赋权** 反思新自由主义问责制与标准化测验对学生[[Creativity|创造力]]的压制，倡导促进学习的评价（[[Formative Assessment|assessment for learning]], AfL）。
+> - **2000s–至今 — 第三代评价冲突调和与[[Lifelong Learning|终身学习]]赋权** 反思[[Neoliberalism|新自由主义]]问责制与标准化测验对学生[[Creativity|创造力]]的压制，倡导促进学习的评价（[[Formative Assessment|assessment for learning]], AfL）。
 >   - **代表著作** *Assessment: Resolving the Third-Generation Conflict* (2000); *Empowering Learners Through Assessment* (2007)。
 >   - **关键概念／方法** 发展性评价、[[Learner Autonomy|自主学习]]者认同、评价生态学。
 >   - **阶段转向** 结合全球化背景，致力于通过评价创新培育适应不确定性未来的反思型学习者。

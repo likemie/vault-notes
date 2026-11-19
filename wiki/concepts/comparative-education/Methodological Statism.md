@@ -6,7 +6,7 @@ aliases:
 summary: "在教育研究与全球化社会学中，指代默认主权国家是教育的唯一提供者、出资者与监管者，并将“教育治理”等同于“国家行政管理”的方法论还原主义偏误。它是 Roger Dale 提出的阻碍全球化教育研究的“三大方法论陷阱”之一。"
 type: concept
 domain: "comparative-education"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Policy Mobility]]"
   - "[[Travelling Policy]]"
   - "[[Epistemology]]"
+  - "[[Neoliberalism]]"
   - "[[Relational Space]]"
 related_theories:
   - "[[Governing at a Distance]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-11
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -94,7 +95,7 @@ updated: 2026-11-11
 > **治理转向与去国家化** 这一命题探讨为何传统的国家政策[[Analytic Framework\|分析框架]]在解释全球化改革时失效。
 
 > [!claim] [[Roger Dale|Dale, R.]] & Robertson, S.
-> **多边主义与去中心治理的崛起** 指出，在跨国资本主义和全球化背景下，教育政策的制定权正在经历“向上让渡”（至超国家组织）与“向下扩散”（至地方和市场主体）。如果研究者依然固守方法论国家主义，仅仅在“国家教育部做出了什么决定”的层面开展比较，就无法看清诸如 [[OECD]] 等机构通过 benchmarking 数据行使的 **[[Governing at a Distance\|远处治理]]**。这不仅是一种学术上的[[Epistemology\|认识论]]落后，更在客观上配合了新自由主义[[Geopolitics|地缘政治]]将实质性治理冲突“技术化”和“去政治化”的策略。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 423]])
+> **多边主义与去中心治理的崛起** 指出，在跨国资本主义和全球化背景下，教育政策的制定权正在经历“向上让渡”（至超国家组织）与“向下扩散”（至地方和市场主体）。如果研究者依然固守方法论国家主义，仅仅在“国家教育部做出了什么决定”的层面开展比较，就无法看清诸如 [[OECD]] 等机构通过 benchmarking 数据行使的 **[[Governing at a Distance\|远处治理]]**。这不仅是一种学术上的[[Epistemology\|认识论]]落后，更在客观上配合了[[Neoliberalism|新自由主义]][[Geopolitics|地缘政治]]将实质性治理冲突“技术化”和“去政治化”的策略。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 423]])
 
 ---
 

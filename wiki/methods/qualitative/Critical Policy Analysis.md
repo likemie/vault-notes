@@ -9,7 +9,7 @@ summary: "批判取向的质性教育政策研究方法与认识论范式，将�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 57
+method_related_count: 58
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#dbeafe"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Conscientization]]"
   - "[[Global Education Reform Movement]]"
+  - "[[Neoliberalism]]"
   - "[[Neo-Taylorism]]"
   - "[[Explanatory Critique]]"
   - "[[School Choice]]"
@@ -164,7 +165,7 @@ updated: 2026-11-19
 > |:-----|:-----|:-----|
 > | [[Technical Rationality]] | 批判对象 | 该方法首要揭露并批判的统治技术与工具主义知识[[Paradigm\|范式]]。 |
 > | [[Teacher Professional Agency]] | 价值目标 | 该方法致力于通过[[Conscientization\|批判意识觉醒]]而夺回的核心专业主体性。 |
-> | [[Global Education Reform Movement]] | 分析对象 | 该方法重点剖析的全球新自由主义标准化、商业化与问责政策浪潮。 |
+> | [[Global Education Reform Movement]] | 分析对象 | 该方法重点剖析的全球[[Neoliberalism\|新自由主义]]标准化、商业化与问责政策浪潮。 |
 > | [[Neo-Taylorism]] | 批判对象 | 批判性政策分析揭示的技术理性对教师劳动过程进行全景监控的规训形态。 |
 > | [[Critical Theory]] | 理论基础 | 为该分析方法提供辩证唯物主义、[[Ideology Critique\|意识形态批判]]与解放宗旨的核心母理论。 |
 > | [[Critical Realism]] | 理论支撑 | 为政策文本三维批判提供[[Explanatory Critique\|解释性批判]]原则与深层因果机制解构支架。 |

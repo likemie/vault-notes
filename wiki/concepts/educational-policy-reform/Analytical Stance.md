@@ -7,7 +7,7 @@ aliases:
 summary: "教育实践者与行动者在面对外部学术研究证据、商业教育产品、政策改革倡议及隐性私有化渗透时，所秉持的主动探询研究质量、审验因果逻辑、穿透利益修辞并评估情境适切性的专业认知与制度审议立场；既是教师行使审慎专业判断的核心基石，也是公立学校与民间组织抵御技术理性盲从、影子国家异化与商业资本渗透的关键防线。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 46
+related_count: 47
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Shadow State]]"
   - "[[Alienation]]"
   - "[[Policy Entrepreneur]]"
+  - "[[Neoliberalism]]"
   - "[[Discourse]]"
   - "[[International Education]]"
   - "[[Educational Privatisation]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-02
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -161,7 +162,7 @@ updated: 2026-11-15
 > **隐性私有化穿透与公共受托捍卫维度** 探讨教育实践者与公民社会如何通过建立超越纯教学法的批判分析立场，穿透商业中介、慈善信托与[[Policy Entrepreneur|政策企业家]]的修辞包装，抵御特洛伊木马式的隐性私有化侵蚀。
 
 > [!claim] O'Neill, J. et al.
-> **穿透商业慈善包装与捍卫公共民主受托论断** [[John O'Neill|约翰·奥尼尔]]等人通过系统审计新西兰公立教育生态指出，在新自由主义教育改革驱动下，跨国商业出版集团（如培生）、[[Educational Management Organisation|教育管理组织]]（[[Educational Management Organisation|EMO]]，如科[[Cognition Education|认知教育]]）以及学者型政策企业家，正以“循证教学改进”、“解决学业差距”以及“利他慈善资助”等极具欺骗性的[[Discourse|话语]]包装，隐秘进入公立学校的日常教学、教研室与管理决策层。面对这种“隐性私有化”（Privatisation by Stealth），一线校长、教师、校董会（BOT）及公民社会若仅将目光局限于教学技巧而缺乏政治经济维度的批判性分析立场，极易沦为特洛伊木马式的被动接纳者：在不知情中将大量公共教育预算、学生课堂数据与办学主导权拱手让给私营服务商，甚至协助私人中介实现受国家公共资助科研成果的商业变现。
+> **穿透商业慈善包装与捍卫公共民主受托论断** [[John O'Neill|约翰·奥尼尔]]等人通过系统审计新西兰公立教育生态指出，在[[Neoliberalism|新自由主义]]教育改革驱动下，跨国商业出版集团（如培生）、[[Educational Management Organisation|教育管理组织]]（[[Educational Management Organisation|EMO]]，如科[[Cognition Education|认知教育]]）以及学者型政策企业家，正以“循证教学改进”、“解决学业差距”以及“利他慈善资助”等极具欺骗性的[[Discourse|话语]]包装，隐秘进入公立学校的日常教学、教研室与管理决策层。面对这种“隐性私有化”（Privatisation by Stealth），一线校长、教师、校董会（BOT）及公民社会若仅将目光局限于教学技巧而缺乏政治经济维度的批判性分析立场，极易沦为特洛伊木马式的被动接纳者：在不知情中将大量公共教育预算、学生课堂数据与办学主导权拱手让给私营服务商，甚至协助私人中介实现受国家公共资助科研成果的商业变现。
 > 奥尼尔等人强调，教育行动者必须确立一种穿透性的分析立场：不仅要审验教学法本身的严谨度，更要主动追问教育方案背后的法人股权架构、真实资金流向（如免税信托与营利公司的利益勾连）、知识产权归属以及信息透明度；唯有借助透明公开的公共辩论打破商业保密特权，才能抵御公立教育系统被商业资本无声侵蚀，捍卫公立教育作为非商品化民主公共品的制度基石。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. vii–viii, 6–7, 23–24, 82–84)]]
 
 ---

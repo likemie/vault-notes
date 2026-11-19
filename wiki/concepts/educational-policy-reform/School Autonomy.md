@@ -8,7 +8,7 @@ aliases:
 summary: "教育决策权从中央官僚机构向个别学校下放的制度安排。在微观实践中体现为资源配置与人事管理的权责重构，但深受新自由主义市场化逻辑扭曲而诱发学校残余化与不平等加剧；在全球治理中被世界银行与经合组织构造成全球教育话语五大支柱之一，通过与中央质量评估系统的捆绑实施远处治理并挤压受援国的政策探索空间；而在分权管辖中亦可与学校自我评估相结合，被地方教育当局作为抵御外来集权审计与市场化移植的专业防御机制。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 54
+related_count: 56
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -19,6 +19,7 @@ tags:
   - level/k12
   - paradigm/neoliberal
 related_concepts:
+  - "[[Neoliberalism]]"
   - "[[Global Educational Discourse]]"
   - "[[Quasi-market]]"
   - "[[Discourse]]"
@@ -44,6 +45,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Professional Judgment]]"
   - "[[Institutional Complementarity]]"
+  - "[[Habitus Hysteresis]]"
   - "[[Variable]]"
   - "[[Development Education]]"
   - "[[Steering at a Distance]]"
@@ -82,13 +84,13 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-05-02
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
 
 > [!def] School Autonomy
-> **学校自主权（School Autonomy）**，是指将教育行政、财务预算、课程教学及人员配置等关键决策权，从中央或地方集权官僚机构向单一学校组织层级下放的制度重组安排。在政策修辞中，学校自主权常被标榜为赋予学校创新自由、灵活响应社区需求与提升学术标准的民主化工具（Keddie et al., 2020, p. 432）；但在当代全球治理与新自由主义改革语境中，它日益演变为一种双重规训技术：一方面通过将公共财政削减与办学绩效风险转嫁至基层学校，诱发不同阶层生源之间的分层与残余化；另一方面作为国际组织跨国推销的“[[Global Educational Discourse|全球教育话语]]五大支柱”之一，与中央质量评估系统紧密捆绑，成为推行“远处调控”并限缩外围国家自主探索空间的标准技术方案。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349)]]; (Keddie et al., 2020, pp. 436–437)
+> **学校自主权（School Autonomy）**，是指将教育行政、财务预算、课程教学及人员配置等关键决策权，从中央或地方集权官僚机构向单一学校组织层级下放的制度重组安排。在政策修辞中，学校自主权常被标榜为赋予学校创新自由、灵活响应社区需求与提升学术标准的民主化工具（Keddie et al., 2020, p. 432）；但在当代全球治理与[[Neoliberalism|新自由主义]]改革语境中，它日益演变为一种双重规训技术：一方面通过将公共财政削减与办学绩效风险转嫁至基层学校，诱发不同阶层生源之间的分层与残余化；另一方面作为国际组织跨国推销的“[[Global Educational Discourse|全球教育话语]]五大支柱”之一，与中央质量评估系统紧密捆绑，成为推行“远处调控”并限缩外围国家自主探索空间的标准技术方案。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349)]]; (Keddie et al., 2020, pp. 436–437)
 
 > [!concept-lens|notitle] 概念透镜
 > - **双重视野交汇** 涵盖微观与中观维度的“学校组织赋权与[[Quasi-market|准市场]]竞争（澳大利亚与英美实践）”，以及宏观维度的“跨国组织全球教育[[Discourse|话语]]标准化包裹输出（[[World Bank|世界银行]]与[[OECD|经合组织]]实践）”。
@@ -201,7 +203,7 @@ updated: 2026-11-15
 > **[[Historical Institutionalism|历史制度主义]]与计量检验维度：自主权与问责的[[Institutional Complementarity|制度互补性]]** 探讨单纯下放学校自主权与学业成就之间的因果关联，反思去中心化改革对国家学业表现的时序影响。
 
 > [!claim] [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]]
-> **去中心化自主权改革的时序倒置与滞后滑坡** 萨尔格伦（[[Gabriel Heller Sahlgren]]）通过历史档案考证与长周期测验数据分析指出，将芬兰教育成就归因于 1990 年代废除中央统编大纲、废除教科书核准制度并赋予学校完全自主权，存在严重的因果时序谬误。芬兰在国际测验（PISA/[[TIMSS]]）中的学术峰值在 1980 年代集权视导与统考时期便已确立；1990 年代去中心化改革全面铺开后，随着政策滞后效应显现，芬兰学生国际表现从 2000 年代中后期开始出现不可逆的系统性滑落。跨国微观计量文献（Hanushek et al., 2013）进一步确证：在具有集中毕业统考与外部问责的系统中，赋予学校人事与流程自主权能带来显著的学业增益；而在缺乏外部集中统考的去问责系统中，扩大自主权反而对学生表现产生负向破坏作用。芬兰在 1990 年代同步推行扩大自主权与彻底取消外部督导测试，直接为后续的学业衰退埋下了制度诱因。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 10–15)]]
+> **去中心化自主权改革的时序倒置与滞后滑坡** 萨尔格伦（[[Gabriel Heller Sahlgren]]）通过历史档案考证与长周期测验数据分析指出，将芬兰教育成就归因于 1990 年代废除中央统编大纲、废除教科书核准制度并赋予学校完全自主权，存在严重的因果时序谬误。芬兰在国际测验（PISA/[[TIMSS]]）中的学术峰值在 1980 年代集权视导与统考时期便已确立；1990 年代去中心化改革全面铺开后，随着政策[[Habitus Hysteresis|滞后效应]]显现，芬兰学生国际表现从 2000 年代中后期开始出现不可逆的系统性滑落。跨国微观计量文献（Hanushek et al., 2013）进一步确证：在具有集中毕业统考与外部问责的系统中，赋予学校人事与流程自主权能带来显著的学业增益；而在缺乏外部集中统考的去问责系统中，扩大自主权反而对学生表现产生负向破坏作用。芬兰在 1990 年代同步推行扩大自主权与彻底取消外部督导测试，直接为后续的学业衰退埋下了制度诱因。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 10–15)]]
 
 ---
 

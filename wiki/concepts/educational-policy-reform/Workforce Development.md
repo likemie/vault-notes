@@ -9,10 +9,10 @@ aliases:
 summary: "指通过整合中高等职业教育、企业在职培训、学徒制通道、微凭证与公共就业服务，系统提升劳动者技能以匹配产业升级需求、促进高质量就业与区域经济转型的公共政策与制度体系；在现代战略产业中演进为与重大资本补贴前置绑定的法定附加条件，并依托“微凭证技术员—卓越本科—拔尖博士”三级梯队与高校组织专班构建国家战略人才蓄水池。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 38
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 41
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - concept/educational-policy-reform
   - theme/workforce-development
@@ -35,13 +35,16 @@ related_concepts:
   - "[[Securitization of Technology]]"
   - "[[Innovation Ecosystem]]"
   - "[[Competitiveness]]"
+  - "[[Neoliberalism]]"
   - "[[Variable]]"
   - "[[Social Support]]"
   - "[[Technology-Oriented Social Contract]]"
   - "[[Community College Strategic Anchoring]]"
+  - "[[Knowledge-Based Economy]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Social Contract of Science]]"
+  - "[[Developmental State]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Effect Size]]"
@@ -56,8 +59,8 @@ related_facts:
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[National Semiconductor Technology Center]]"
   - "[[Infrastructure Investment and Jobs Act]]"
-  - "[[National Science and Technology Council]]"
   - "[[Joint University Microelectronics Program 2.0]]"
+  - "[[National Science and Technology Council]]"
 related_arguments:
   - "[[Argument_Reynolds_2024_JICT]]"
   - "[[Argument_Zhuo_2026_ICE]]"
@@ -68,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -185,7 +188,7 @@ updated: 2026-11-18
 > > 针对劳动力发展能否根本解决劳动者收入停滞与不平等的分歧。
 > >
 > > - **Autor et al.（2022）** 认为劳动力市场的核心症结不仅是技能不足，更在于高质量就业岗位（具备良好报酬与福利保障）的长期萎缩，技能培训必须与劳动关系制度重构相协同。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 6)]]
-> > - **新自由主义批判者** 担忧过多的劳动力附加条件（如工会工资、托儿服务等）会推高企业合规成本并延误产业落地速度。
+> > - **[[Neoliberalism|新自由主义]]批判者** 担忧过多的劳动力附加条件（如工会工资、托儿服务等）会推高企业合规成本并延误产业落地速度。
 >
 > > [!axis] 社区学院中端技能 vs [[Research Universities|研究型大学]]尖端科研的资源倾斜
 > > 在战略科技与制造集群中，公共资金应优先投向尖端科研创新还是中端操作技术员培养。
@@ -232,5 +235,5 @@ updated: 2026-11-18
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统剖析现代半导体体系中大学如何构建微凭证至拔尖博士三级人才蓄水池，并通过组织专班化解 6.7 万岗位短缺危机。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演进视角，系统阐释[[Technology-Oriented Social Contract|技术型社会契约]]下国家战略科技力量对工程与技术劳动力培养的重塑。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，提出重振在岗学徒制与[[Community College Strategic Anchoring|社区学院技能枢纽]]，弥合制造现场排障技艺短缺。
-> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 从强发展型国家视角系统考察新加坡劳动力发展体系的演进，揭示人力规划如何贯穿从劳动密集生存期、技术密集效率期到创新驱动知识经济期的产业转型升级历程。
+> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 从强[[Developmental State|发展型国家]]视角系统考察新加坡劳动力发展体系的演进，揭示人力规划如何贯穿从劳动密集生存期、技术密集效率期到创新驱动[[Knowledge-Based Economy|知识经济]]期的产业转型升级历程。
 

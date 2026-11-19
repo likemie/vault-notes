@@ -9,7 +9,7 @@ aliases:
 summary: "比较政治经济学与批判政策社会学核心概念，既指发达资本主义社会中有组织集体规制向竞争性自由市场逻辑开放的去组织化与风险个体化进程（施特雷克与希伦，2005），也是超国家组织蓄意推进的意识形态工程，通过将全球化本体化与物化以掩蔽意义政治，强行驱动公共部门与教育系统服从全球市场规律（里兹维与林加德，2009；布迪厄，2003）。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,6 +20,7 @@ tags:
   - theory/historical-institutionalism
 related_concepts:
   - "[[Discourse]]"
+  - "[[Neoliberalism]]"
   - "[[Determinism]]"
   - "[[Performativity]]"
   - "[[Institutional Drift]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -62,7 +63,7 @@ updated: 2026-11-11
 > [!concept-lens] 概念透镜
 > - **含义** 既刻画西方资本主义体制从“有组织混合经济”迈向“市场化治理”的去组织化变迁，也揭示超国家治理将市场原则普适化的意识形态建构。
 > - **用途** 既用于诊断英美、德日等国内劳资与福利制度的渐进重塑，也用于解构[[OECD|经合组织]]等超国家机构将教育降格为经济附庸的[[Discourse|话语]]策略。
-> - **边界** 不等于国家机器的消亡或管治真空；自由化往往伴随着国家以新自由主义规制重建市场秩序（Freer Markets, More Rules），以及跨国组织运用“数字即政策”展开的远处掌舵。
+> - **边界** 不等于国家机器的消亡或管治真空；自由化往往伴随着国家以[[Neoliberalism|新自由主义]]规制重建市场秩序（Freer Markets, More Rules），以及跨国组织运用“数字即政策”展开的远处掌舵。
 
 > [!citation-card] 自由化作为默认推进的制度演进进程
 > 构建非自由主义的制度（如强制性劳资协调或全民社保体系）需要高度凝聚的政治动员与强大的国家强制力；而自由化改革在资本主义体制内却面临着极其微小的集体行动阻力。它往往无需激烈的立法大战，只需国家鼓励或容忍微观自利主体从底层违抗或规避集体规则，任由追求自身利益最大化的行动者自发行动，便能以顺水推舟、不战而胜的默认方式稳步达成。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 32–33)]]

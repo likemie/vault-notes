@@ -10,7 +10,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -40,6 +40,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[ASEAN]]"
+  - "[[1997 Asian Financial Crisis]]"
   - "[[Treaty of Amity and Cooperation in Southeast Asia]]"
   - "[[EU]]"
   - "[[Committee of Permanent Representatives to ASEAN]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-11-02
+updated: 2026-11-19
 ---
 
 ---
@@ -61,7 +62,7 @@ updated: 2026-11-02
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2007 年 11 月 20 日在新加坡举行的第 13 届[[ASEAN|东盟]]首脑会议上由十国国家元首或政府首脑共同签署，2008 年 12 月 15 日正式生效；发布主体为东南亚国家联盟（Association of Southeast Asian Nations, ASEAN）。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 522–523)]]
 > - **适用地区 / 对象** 东南亚十个成员国（文莱、柬埔寨、印度尼西亚、老挝、马来西亚、缅甸、菲律宾、新加坡、泰国、越南）主权政府、区域常设机构及各层级合作机制。
-> - **问题背景** 自 1967 年《曼谷宣言》创设以来，东盟长期依赖松散的政治声明与部长级会商驱动，缺乏条约法地位与常设运行实体；面对 1997 年亚洲金融危机的治理冲击与新世纪大国地缘博弈，亟需建立具备国际法主体地位的宪制基础以提升政策协调力。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 523–524, 529)]]
+> - **问题背景** 自 1967 年《曼谷宣言》创设以来，东盟长期依赖松散的政治声明与部长级会商驱动，缺乏条约法地位与常设运行实体；面对 1997 年[[1997 Asian Financial Crisis|亚洲金融危机]]的治理冲击与新世纪大国地缘博弈，亟需建立具备国际法主体地位的宪制基础以提升政策协调力。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 523–524, 529)]]
 > - **制度位置** 东盟自成立以来的首部基础性法律宪章；全面继承了 1976 年[[Treaty of Amity and Cooperation in Southeast Asia|《东南亚友好合作条约》]]（TAC）确立的主权共识原则，同时吸纳并大幅折中了 2007 年东盟名人小组（EPG）的改革提议，在形式架构上参照了[[EU|欧洲联盟]]《马斯特里赫特条约》的三大支柱模式。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 522–523, 528)]]
 
 ---

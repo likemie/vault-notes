@@ -12,7 +12,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 34
+person_related_count: 36
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Washington Consensus]]"
   - "[[Document]]"
   - "[[Socioeconomic Status]]"
+  - "[[Neoliberalism]]"
   - "[[Heterogeneity]]"
   - "[[Variable]]"
   - "[[Disciplina and Doctrina]]"
@@ -63,13 +64,14 @@ related_facts:
   - "[[Inter-American Development Bank]]"
   - "[[PISA]]"
   - "[[TIMSS]]"
+  - "[[Cram Schools]]"
 related_arguments:
   - "[[Argument_Castro_2009_MultilateralBanks]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -143,9 +145,9 @@ updated: 2026-11-15
 > > 随着发展中国家经济发展与普及教育推进，学校效应是否依然压倒家庭[[Socioeconomic Status|社会经济地位]]（SES）。
 > >
 > > - **原初立场（Heyneman & Loxley）** 贫困国家家庭阶层差异在学校微观成就上的解释力微弱，学校资源配置起决定性作用。
-> > - **当代国际大型测评反思（[[PISA]]/[[TIMSS]] 数据研究）** 随着全球文凭竞争与影子教育扩散，中低收入国家的家庭背景解释力正急剧上升，该效应在部分新兴经济体出现衰退。
+> > - **当代国际大型测评反思（[[PISA]]/[[TIMSS]] 数据研究）** 随着全球文凭竞争与[[Cram Schools|影子教育]]扩散，中低收入国家的家庭背景解释力正急剧上升，该效应在部分新兴经济体出现衰退。
 >
-> > [!axis] 多边机构决策属性：单一新自由主义霸权 vs 内部多元撕裂与官僚博弈
+> > [!axis] 多边机构决策属性：单一[[Neoliberalism|新自由主义]]霸权 vs 内部多元撕裂与官僚博弈
 > > 围绕[[World Bank|世界银行]]教育政策决策机制究竟是由统一的新自由主义意识形态机械支配，还是充满内部[[Heterogeneity|异质性]]与官僚政治博弈。
 > >
 > > - **外部世界体系批判视角（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）** 将世界银行定性为推行跨国资本积累、制造[[Conditioned State Theory|受限国家]]依附地位的整齐划一的外部规训机器。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–106)]]

@@ -10,7 +10,7 @@ aliases:
 summary: "全球教育政策与课程改革的历史性范式转向构念，指自 20 世纪 70 年代至 2010 年代全球教育治理从聚焦公民权利与民主平等的“权利本位范式”，向依赖大规模标准化测验、因果指标与量化问责的“数据中心主义范式”的系统性位移。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Chain of Evidence]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[New Public Management]]"
+  - "[[Neoliberalism]]"
   - "[[Performance Indicators]]"
   - "[[Causality]]"
   - "[[Output-Oriented Governance]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-19
 ---
 
 ---
@@ -119,7 +120,7 @@ updated: 2026-11-10
 
 > [!dev-timeline] 概念演变
 > - **1970 年代** 全球教育政策普遍以人权、社会正义与扩大义务教育入学机会为主要合法化叙事。
-> - **1990 年代** 伴随[[New Public Management|新公共管理]]与新自由主义问责体制兴起，产出导向与[[Performance Indicators|绩效指标]]开始进入欧美教育改革。
+> - **1990 年代** 伴随[[New Public Management|新公共管理]]与[[Neoliberalism|新自由主义]]问责体制兴起，产出导向与[[Performance Indicators|绩效指标]]开始进入欧美教育改革。
 > - **2000 年代至今** 经合组织 PISA 测验在全球确立影响力，[[Causality|因果推断]]与“有效干预”研究成为各国政策界推崇的黄金标准，全球教育改革全面进入数据中心主义主导阶段。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 531)]]
 
 ---

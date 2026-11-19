@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 33
+person_related_count: 34
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Posthumanism]]"
   - "[[Discourse]]"
   - "[[Knowledge Production]]"
+  - "[[Neoliberalism]]"
   - "[[Readings of the Global]]"
   - "[[Ontology]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-11-10
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -93,7 +94,7 @@ updated: 2026-11-15
 ---
 
 > [!thought-timeline] 思想发展
-> - **2000–2010 — 后社会主义转型与政策借用批判** 重点探讨苏联解体后中东欧与中亚国家的教育重构，质疑西方新自由主义教育方案在全球转型情境中的普适性假设。
+> - **2000–2010 — 后社会主义转型与政策借用批判** 重点探讨苏联解体后中东欧与中亚国家的教育重构，质疑西方[[Neoliberalism|新自由主义]]教育方案在全球转型情境中的普适性假设。
 >   - **代表著作** *Post-socialism is not dead: (Re)[[Readings of the Global|reading the global]] in comparative education* (2010)。
 >   - **关键概念／方法** 政策借用、后社会主义转型、[[Qualitative Content Analysis]]。
 >   - **阶段转向** 突破传统现代性线性发展假定，强调历史遗留轨迹与地方社会文脉的韧性。

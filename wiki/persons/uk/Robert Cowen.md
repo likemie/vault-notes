@@ -9,10 +9,10 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 57
-person_related_level: 5
-person_related_stars: "💎⭐⭐"
-person_related_color: "#ffedd5"
+person_related_count: 60
+person_related_level: 6
+person_related_stars: "💎💎"
+person_related_color: "#fef3c7"
 born: "1938"
 died: ""
 lifespan: "1938–至今"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Geometries of Insertion]]"
   - "[[Document]]"
   - "[[Academic Iconography]]"
+  - "[[Philosophical Hermeneutics]]"
   - "[[Policy Borrowing]]"
   - "[[Epistemology]]"
   - "[[Deductive Rationality]]"
@@ -52,6 +53,7 @@ related_concepts:
   - "[[Assemblage]]"
   - "[[Positivism]]"
   - "[[School Effectiveness]]"
+  - "[[Neoliberalism]]"
   - "[[Champ]]"
   - "[[Hierarchy of Future Issues in Comparative Education]]"
 related_theories:
@@ -72,6 +74,7 @@ related_persons:
   - "[[Paul Morris]]"
   - "[[Jason Beech]]"
 related_facts:
+  - "[[National Institute of Education]]"
   - "[[Comparative Education Society in Europe]]"
   - "[[Skills Toward Employment and Productivity]]"
   - "[[PISA]]"
@@ -88,13 +91,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-08
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 英国比较教育学者，伦敦大学学院教育与社会学院（UCL Institute of Education，UCL IOE）荣休教授，曾任[[Comparative Education Society in Europe\|欧洲比较教育学会]]（CESE）会长，《比较教育学国际手册》（*International Handbook of Comparative Education*, 2009）联合主编。
+> - **身份位置** 英国比较教育学者，伦敦大学学院教育与社会学院（UCL [[National Institute of Education|Institute of Education]]，UCL IOE）荣休教授，曾任[[Comparative Education Society in Europe\|欧洲比较教育学会]]（CESE）会长，《比较教育学国际手册》（*International Handbook of Comparative Education*, 2009）联合主编。
 > - **核心角色** 比较教育理论化与批判研究的代表人物。米特（[[Wolfgang Mitter]]）指出，考恩全面继承了[[Michael Sadler|萨德勒]]在伦敦大学教育研究院（IOE）开创的学术遗产，并与卡扎米亚斯（[[Andreas Kazamias]]）、诺瓦（[[António Nóvoa]]）及施里维尔（[[Jurgen Schriewer|Jürgen Schriewer]]）共同构成了 20 世纪末抵御北美量化[[Behaviorism|行为主义]]侵蚀、坚守欧洲深厚历史与文化主义研究主干的领袖学者。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 89–90, 94)]]
 > - **代表贡献** 创立 [[Transitology\|转型学]]（Transitology）与“转移—转译—转化”（Transfer, Translation, Transformation，3T）跨国转移[[Analytic Framework\|分析框架]]；提出 [[Four Sins of Comparative Education\|比较教育的四种罪过]] 与 [[Heroic, Strange, and Barbaric\|英雄、陌生与野蛮]] 的批判震荡词汇。
 
@@ -137,7 +140,7 @@ updated: 2026-11-15
 > - **2009 — 学科史批判与[[Comparative History of Comparative Education\|比较教育学比较史]]阶段**
 >   系统反思比较教育学史作为学科合法性起源神话的局限性，揭示隐蔽历史、制度支持不足与[[Document|文献]]密度匮乏三重困境，倡导超越单一线性国别叙事。
 >   - **代表著作** *On History and on The Creation of Comparative Education* (2009)。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 7–10)]]
->   - **关键概念** [[Comparative History of Comparative Education\|比较教育学的比较史]]、[[Academic Iconography\|学科肖像学]]批判、历史哲学诠释学悖论（未来决定过去）。
+>   - **关键概念** [[Comparative History of Comparative Education\|比较教育学的比较史]]、[[Academic Iconography\|学科肖像学]]批判、历史[[Philosophical Hermeneutics|哲学诠释学]]悖论（未来决定过去）。
 >   - **阶段转向** 将批判锋芒从外部[[Policy Borrowing\|政策借用]]转向学科内部的历史建构，主张挖掘边缘学者档案（含女性学者）、剖析国别元[[Epistemology\|认识论假设]]，并打破对学术图腾（如[[Michael Sadler\|萨德勒]]）的迷信。
 > - **2023 — 学科学术与伦理重组阶段**
 >   针对当代大学绩效管理主义的腐蚀，进行深刻的意识形态解构，重新确立学科道德与智识议程。
@@ -193,7 +196,7 @@ updated: 2026-11-15
 ---
 
 > [!person-network] 关系网络
-> - **学术继承与合作者** [[Paul Morris]] — 共同致力于新自由主义全球测试（[[PISA]]）与[[Policy Science in Comparative Education\|政策科学]]的意识形态解构。
+> - **学术继承与合作者** [[Paul Morris]] — 共同致力于[[Neoliberalism|新自由主义]]全球测试（[[PISA]]）与[[Policy Science in Comparative Education\|政策科学]]的意识形态解构。
 > - **学术继承者与思想拓展者** [[Jason Beech|杰森·比奇]]（[[Jason Beech]]） — UCL IOE 门生、合作者与《手册》撰稿人，将考恩的 [[Transfer Translation Transformation|3T 框架]]、学术重商主义与转移批判深化为全球教育[[Champ|场域]]五位置[[Discourse|话语]]流通模型。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–345)]]
 > - **学术前人 / 纪念对象** [[Andreas Kazamias]] — 继承了其人文主义比较教育与历史社会学关切，但在 2023 年批评了学界将 Kazamias “哲学先知化”以逃避现实政治与方法论创新的倾向。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 327)]]
 > - **史学评价者与学会同行** [[Wolfgang Mitter]] — 系统界定考恩在欧洲比较教育文化主义主干中的当代代表地位，并共同主编与撰写《比较教育学国际手册》（2009）。

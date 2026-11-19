@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -24,6 +24,7 @@ tags:
   - employability
   - region/uk
 related_concepts:
+  - "[[Neoliberalism]]"
   - "[[Employability]]"
   - "[[Discourse]]"
   - "[[Economy of Experience]]"
@@ -57,14 +58,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-17
-updated: 2026-11-17
+updated: 2026-11-19
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国教育与劳动社会学家、卡迪夫大学（Cardiff University）社会科学学院杰出研究教授、英国社会科学院院士（FAcSS）。
-> - **核心角色** 高等教育社会学、全球化与技能经济学、劳动力市场分层领域的权威学者，对新自由主义[[Human Capital Theory|人力资本]]与技术官僚[[Employability|就业能力]][[Discourse|话语]]提出了系统性批判。
+> - **核心角色** 高等教育社会学、全球化与技能经济学、劳动力市场分层领域的权威学者，对[[Neoliberalism|新自由主义]][[Human Capital Theory|人力资本]]与技术官僚[[Employability|就业能力]][[Discourse|话语]]提出了系统性批判。
 > - **代表贡献** 提出[[Economy of Experience|履历经济学]]（Economy of Experience）与《全球拍卖》（*The Global Auction*, 2011），揭示高教大众化后雇主由文凭硬指标向个性、实习与社交软技能等具身化综合素质的筛选转向。
 
 > [!citation-card] 布朗论履历经济与个性化劳动力市场筛选

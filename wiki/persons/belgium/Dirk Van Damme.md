@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: belgium
 person_region: "belgium"
-person_related_count: 40
+person_related_count: 41
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Positivism]]"
   - "[[Value Neutrality]]"
+  - "[[Neoliberalism]]"
   - "[[Phronesis]]"
   - "[[Research Utilization]]"
   - "[[Scientific Explanation]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -153,7 +154,7 @@ updated: 2026-11-15
 > > 围绕教育研究应否追求纯粹自主演绎的[[Value Neutrality\|价值中立]][[Scientific Method\|经验科学]]，批判学者与一线工会提出了严厉质询。
 > >
 > > - **迪尔克·范达默（2022）** 批评教育研究深受政治行动主义驱使，研究设计受政治偏好左右，主张回归严格同行自律与自主演绎科学实证规范。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 204–206)]]
-> > - **[[Critical Pedagogy\|批判教育学]]者（[[Argument_Wrigley_2018_BERJ\|Wrigley, 2018]]）** 批评建制派将教育学还原为去政治化的量化因果科学，实质是在掩盖新自由主义问责对公共教育生态的侵蚀。
+> > - **[[Critical Pedagogy\|批判教育学]]者（[[Argument_Wrigley_2018_BERJ\|Wrigley, 2018]]）** 批评建制派将教育学还原为去政治化的量化因果科学，实质是在掩盖[[Neoliberalism|新自由主义]]问责对公共教育生态的侵蚀。
 > > - **曾薇薇安（2022）** 认为宣称价值中立的传统高校科研往往制造了系统性榨取，如果不以教育公平与社区赋权为导向，科学严谨性只会服务于维持特权现状。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–224)]]
 
 > [!critique] 批评索引

@@ -7,7 +7,7 @@ aliases:
 summary: "国际政治学与全球治理构念，指国际组织在缺乏法定强制管辖权的前提下，依托专业技术特长、去政治化理性声誉、自主科研产出与标准化量规，被主权国家公认为界定政策问题与提供决策咨询的合法权威形态；在教育领域表现为经合组织以测评数据行使软治理，以及世界银行以知识生产、管理与传播构建全球常识。"
 type: concept
 domain: "comparative-education"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Policy Conditionalities]]"
   - "[[Document]]"
   - "[[Operationalization]]"
+  - "[[Neoliberalism]]"
   - "[[Variable]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 ---
@@ -165,7 +166,7 @@ updated: 2026-11-14
 > > 争论认知权威生产的知识究竟是促进理性决策的客观工具，还是强加特定意识形态的软性控制霸权。
 > >
 > > - **建制派官员与国际机构** 坚称认知权威为成员国提供了反映系统表现的中立镜子，有助于破除国内利益集团的非理性阻挠。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 272–273)]]
-> > - **批判学者（[[Argument_Niemann_Martens_2018_GSP|Niemann & Martens, 2018]]）** 指出认知权威看似客观的技术测量背后暗含特定价值偏好（如新自由主义[[Human Capital Theory|人力资本]]框架），通过将特定指标设定为卓越标准实现软性规制。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 272–273)]]
+> > - **批判学者（[[Argument_Niemann_Martens_2018_GSP|Niemann & Martens, 2018]]）** 指出认知权威看似客观的技术测量背后暗含特定价值偏好（如[[Neoliberalism|新自由主义]][[Human Capital Theory|人力资本]]框架），通过将特定指标设定为卓越标准实现软性规制。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 272–273)]]
 >
 > > [!axis] 科学中立理论家 vs 自我引证的自指性知识垄断
 > > 争论国际组织生产的教育知识究竟是具有普遍指导意义的科学模型，还是为自身治理项目背书的封闭自指体系。

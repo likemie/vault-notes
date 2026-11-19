@@ -9,7 +9,7 @@ aliases:
 summary: "由瓦尔·拉斯特基于挪威自1840年代以来的教育改革委员会制度实践提炼的跨国政策借用分析框架，涵盖发起调研、凝聚共识、确立法律框架与推进实施四个阶段，阐明主权国家如何通过常设专门委员会与民主协商白皮书，实现高度自主且具制度韧性的外部经验筛选与本土化重塑。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 20
+theory_related_count: 22
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Transnational Education]]"
   - "[[Paradigm]]"
   - "[[Cross-National Attraction]]"
+  - "[[Neoliberalism]]"
   - "[[Going Native]]"
   - "[[Comprehensive Education]]"
   - "[[Structural Coupling]]"
@@ -42,13 +43,14 @@ related_persons:
   - "[[David Phillips]]"
   - "[[Val D. Rust]]"
   - "[[Kimberly Ochs]]"
-related_facts: []
+related_facts:
+  - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments:
   - "[[Argument_Rust_2009_Reflections]]"
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -73,7 +75,7 @@ updated: 2026-11-11
 > [!dev-timeline] 理论版本与贡献
 > - **1989–1990 — 拉斯特挪威改革四阶段框架创立** 确立挪威经验中由常设委员会白皮书驱动的四阶段闭环逻辑。
 > - **2003 — 牛津借用理论对话** 戴维·菲利普斯（[[David Phillips]]）与[[Kimberly Ochs|金伯莉·奥克斯]]（Kimberly Ochs）提出涵盖“[[Cross-National Attraction|跨国吸引]]、决策、实施与内化”的牛津[[Policy Borrowing|政策借用]]模型；拉斯特指出挪威历史经验为牛津模型提供了跨越一个半世纪的扎实国家实证支撑。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 126)]]
-> - **2009 — 学科反思中的自主借用典范定性** 在与约翰斯通等人合著的手册论文中，将挪威模式定性为抵御新自由主义霸权强加、维护主权国家教育自决的“自主接受（Receptivity）”核心范例。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 124, 133)]]
+> - **2009 — 学科反思中的自主借用典范定性** 在与约翰斯通等人合著的手册论文中，将挪威模式定性为抵御[[Neoliberalism|新自由主义]]霸权强加、维护主权国家教育自决的“自主接受（Receptivity）”核心范例。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 124, 133)]]
 
 ---
 
@@ -101,7 +103,7 @@ updated: 2026-11-11
 ---
 
 > [!theory-proposition] 命题一｜常设专设委员会制度是保障外部经验去功利化与长程探索的制度中枢
-> 跨国借用若由面临选举压力的短期政客直接主导，极易沦为追求立竿见影政绩的浮躁口号或党派斗争的牺牲品。挪威自 1840 年代以来的制度设计表明，由议会或政府授权设立超党派的独立常设专门委员会，能够确保研究者以数十年的历史耐心，全面、系统、冷静地考察斯堪的纳维亚邻国及欧美工业国的教育体制成败，从而使比较视野真正服务于长远国家利益而非眼前政治利益。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 124)]]
+> 跨国借用若由面临选举压力的短期政客直接主导，极易沦为追求立竿见影政绩的浮躁口号或党派斗争的牺牲品。挪威自 1840 年代以来的制度设计表明，由议会或政府授权设立超党派的独立常设专门委员会，能够确[[Recommendation-Based Graduate Admission System|保研]]究者以数十年的历史耐心，全面、系统、冷静地考察斯堪的纳维亚邻国及欧美工业国的教育体制成败，从而使比较视野真正服务于长远国家利益而非眼前政治利益。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 124)]]
 
 > [!example|notitle]
 > 挪威在谋划初等公立学校现代转型时，委员会长达数年深入考察丹麦与普鲁士制度，不急于颁布行政命令，而是全面权衡德意志中央集权模式与北欧地方自治传统，奠定了改革的长程理性。
@@ -141,7 +143,7 @@ updated: 2026-11-11
 
 ---
 
-> [!tension] 渐进自主借用 vs. 新自由主义[[Policy Mobility|快速政策]]移植
+> [!tension] 渐进自主借用 vs. [[Neoliberalism|新自由主义]][[Policy Mobility|快速政策]]移植
 > - **挪威长程制度主义进路（蓝方）** 强调[[Policy Borrowing|政策借用]]必须经过漫长的审慎调研、全民协商与法治确立，宁缺毋滥，以确保改革的社会民主韧性与公平底色。
 > - **[[Washington Consensus|华盛顿共识]]效率主义进路（红方）** 批评挪威模式决策周期过长、行政协商成本过高，无法迅速应对全球化[[Knowledge-Based Economy|知识经济]]与跨国产业升级的急性技术需求。
 

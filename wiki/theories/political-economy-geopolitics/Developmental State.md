@@ -8,17 +8,19 @@ aliases:
 summary: "政治经济学与比较教育学核心理论，由查尔默斯·约翰逊（Chalmers Johnson, 1982）开创并经曼纽尔·卡斯特（Manuel Castells, 1992）等学者拓展。该理论阐明后发国家通过兼具高度自主性与专业能力的精英官僚机构主动介入并驾驭市场，以持续的经济与社会发展成就作为国家政权合法性的核心基石，并将公共教育体系系统构建为支撑产业升级与国家认同的战略支柱。面对全球化冲击，成熟发展型国家展现出战术性适应与远距离操纵能力，牢固维系国家战略主导权。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 26
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 30
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 tags:
   - theory/state-theory
   - theme/political-economy
   - theme/education-policy
   - region/east-asia
 related_concepts:
+  - "[[Neoliberalism]]"
   - "[[Steering at a Distance]]"
+  - "[[Tactical Marketisation]]"
   - "[[Geopolitics]]"
   - "[[Bilingual Education Policy]]"
   - "[[Pragmatic Paradigm]]"
@@ -44,23 +46,25 @@ related_persons:
   - "[[Friedrich List]]"
   - "[[Manuel Castells]]"
   - "[[Max Weber]]"
+  - "[[Saravanan Gopinathan]]"
 related_facts:
   - "[[Ministry of International Trade and Industry]]"
   - "[[National Education]]"
+  - "[[Specialised Independent Schools]]"
 related_arguments:
   - "[[Argument_Gopinathan_2007_GSE]]"
   - "[[Argument_Deng_2016_CE]]"
 confidence: high
 status: draft
 created: 2026-11-17
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
 
 > [!theory-position] 理论定位
 > - **解释对象** 后发国家与新兴工业化经济体如何通过国家机器主动塑造市场结构、推动产业升级并协调社会利益，实现高速经济增长与制度整合。
-> - **理论问题** 该理论回应了新自由主义关于自由市场自发均衡的教条假设，反驳了经典[[Dependency Theory|依附理论]]关于外围国家必然深陷不发达深渊的宿命论判定。
+> - **理论问题** 该理论回应了[[Neoliberalism|新自由主义]]关于自由市场自发均衡的教条假设，反驳了经典[[Dependency Theory|依附理论]]关于外围国家必然深陷不发达深渊的宿命论判定。
 > - **理论类型** 宏观政治经济学解释理论与国家[[Educational Governance Framework|治理分析框架]]。
 > - **知识位置** 植根于比较政治经济学与[[Historical Institutionalism|历史制度主义]]传统，前承[[Friedrich List|李斯特]]国民经济学体系，后拓为解释东亚四小龙教育与技能形成的政治经济制度框架。
 
@@ -79,7 +83,7 @@ updated: 2026-11-18
 > - **1982 — 经典经典发展型国家论** 查尔默斯·约翰逊界定发展型国家特征：小规模精英官僚掌舵、具有独立于特殊利益集团的政治空间、高度重视技术官僚指导与经济赶超计划。
 > - **1996 — 绩效合法性与认同维度拓展** 曼纽尔·卡斯特指出发展型国家本质是通过持续创造经济发展绩效来确立政权生存合法性，尤其在面临生存危机与主权脆弱性时，经济增长是构建公民认同的基础支撑。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, p. 57)]]
 > - **1997 — 教育与技能形成机制确立** 安迪·格林（Andy Green, 1997）与戴维·阿什顿（David Ashton）等学者将发展型国家框架延伸至教育领域，论证东亚国家将教育与国家建构、劳动力分流及社会凝聚深度绑定的制度逻辑。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 56–57)]]
-> - **2007 — 全球化战术重塑论** 高平纳坦（Saravanan Gopinathan, 2007）提出，全球化并未迫使强发展型国家放弃调控权，国家通过分权放权、公立大学公司化、培育创新技能等战术性举措实现远距离调控，维持了对核心社会教育议程的主导权。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 64–66)]]
+> - **2007 — 全球化战术重塑论** [[Saravanan Gopinathan|高平纳坦]]（Saravanan Gopinathan, 2007）提出，全球化并未迫使强发展型国家放弃调控权，国家通过分权放权、公立大学公司化、培育创新技能等战术性举措实现远距离调控，维持了对核心社会教育议程的主导权。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 64–66)]]
 
 ---
 
@@ -91,7 +95,7 @@ updated: 2026-11-18
 > | 精英官僚自主性（Bureaucratic Autonomy） | 机制 | 确保公共政策制定免受短期选票政治与特殊利益集团俘获，维系长远国家战略导向。 |
 > | 治理市场（Governing the Market） | 机制 | 通过国家引导投资方向、外资筛选、信贷分配及研发扶持，主动修正自由市场缺陷。 |
 > | 工具性人力资本供给（Instrumental Skill Formation） | 机制 | 将正规学校教育系统与产业升级阶梯精密咬合，动态匹配不同阶段的技术与劳动力需求。 |
-> | 战术性全球化（Tactical Globalisation） | 机制 | 在拥抱全球资本与技术的同时，通过保留核心课程控制权与[[National Education\|国民教育]]防范文化被稀释。 |
+> | [[Tactical Marketisation\|战术性全球化]]（Tactical Globalisation） | 机制 | 在拥抱全球资本与技术的同时，通过保留核心课程控制权与[[National Education\|国民教育]]防范文化被稀释。 |
 
 ---
 
@@ -115,7 +119,7 @@ updated: 2026-11-18
 > 新自由主义理论断言全球化将终结民族国家主权，导致福利国家退缩与教育全面市场化。实证经验表明，强发展型国家在[[Knowledge-Based Economy|知识经济]]时代主动采纳市场竞争[[Discourse|话语]]、校本自主权与分流多样化方案，这种调整属于强化[[Competitiveness|国家竞争力]]的战术性制度重组；国家通过设立统一绩效标准、把控关键课程考核与深化国民教育，牢固掌握着战略驾驭权。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 64–66)]]
 
 > [!example|notitle]
-> 新加坡推进公立大学公司化改制、批准开办直通车课程及设立顶尖专科自主学校，下放微观管理权以激发创新活力；教育部依然牢牢掌握核心拨款机制、办学准入审批与国民教育必修规程。
+> 新加坡推进公立大学公司化改制、批准开办直通车课程及设立顶尖[[Specialised Independent Schools|专科自主学校]]，下放微观管理权以激发创新活力；教育部依然牢牢掌握核心拨款机制、办学准入审批与国民教育必修规程。
 
 ---
 

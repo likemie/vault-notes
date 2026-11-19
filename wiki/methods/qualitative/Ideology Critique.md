@@ -6,7 +6,7 @@ summary: "批判理论的核心质性方法论，通过反思实践揭示社会�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 46
+method_related_count: 47
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Interpretive Paradigm]]"
   - "[[Side Effects]]"
   - "[[Alienation]]"
+  - "[[Neoliberalism]]"
   - "[[Hidden Curriculum]]"
   - "[[Philosophical Aesthetics]]"
   - "[[Aestheticism]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-16
-updated: 2026-11-17
+updated: 2026-11-19
 ---
 
 ---
@@ -142,7 +143,7 @@ updated: 2026-11-17
 
 > [!method-fit] 适用判断
 > - **适合使用**
->   - 国家重大教育改革、新自由主义绩效问责与标准化课程政策的批判性解构。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 117–149)]]
+>   - 国家重大教育改革、[[Neoliberalism|新自由主义]]绩效问责与标准化课程政策的批判性解构。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 117–149)]]
 >   - 揭露学校教育中的[[Hidden Curriculum|隐性课程]]、种族与性别刻板印象、阶级再生产机制。
 >   - 比较教育学中解构国际组织（如[[World Bank|世界银行]]、[[OECD]]）将西方中心主义与新殖民资本逻辑包装为“客观中立发展模式”的研究。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 132–133)]]
 >   - 解构表面去政治化、标榜“无利害”的[[Philosophical Aesthetics|哲学美学]]与[[Aestheticism|唯美主义]]话语，揭示审美避世如何转化为特定阶层（如 1848 年革命后的资产阶级）回避现实实践的意识形态补偿。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 126–127)]]

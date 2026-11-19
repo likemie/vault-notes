@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: canada
 person_region: "canada"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Shadow State]]"
   - "[[Alienation]]"
   - "[[Geopolitics]]"
+  - "[[Neoliberalism]]"
   - "[[Educational Meliorism]]"
   - "[[Country Ownership]]"
   - "[[Analytical Stance]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -96,7 +97,7 @@ updated: 2026-11-15
 ---
 
 > [!claim] 核心思想
-> [[International Education|国际教育]]多边机制并非超然于[[Geopolitics|地缘政治]]的中立协调平台，而是被特定历史时期的国际经济权力格局深度塑造的意识形态竞技场。战后以[[UNESCO|联合国教科文组织]]为代表的再分配性人权承诺，在新自由主义和债务危机冲击下被[[World Bank|世界银行]]的规训性财政紧缩逻辑全面架空；而新兴的跨国公民社会网络虽然提供了自下而上抗争的契机，却时刻面临被多边官僚体系收编为去政治化承包商的结构性陷阱。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–112)]]
+> [[International Education|国际教育]]多边机制并非超然于[[Geopolitics|地缘政治]]的中立协调平台，而是被特定历史时期的国际经济权力格局深度塑造的意识形态竞技场。战后以[[UNESCO|联合国教科文组织]]为代表的再分配性人权承诺，在[[Neoliberalism|新自由主义]]和债务危机冲击下被[[World Bank|世界银行]]的规训性财政紧缩逻辑全面架空；而新兴的跨国公民社会网络虽然提供了自下而上抗争的契机，却时刻面临被多边官僚体系收编为去政治化承包商的结构性陷阱。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–112)]]
 
 > [!citation-card] 曼迪论多边主义意识形态的三阶段演化
 > 多边主义在教育领域的意识形态经历了三大发展阶段：1945 至 1965 年以有限再分配价值为核心；1960 年代末至 1970 年代末进入由南部发展中国家强烈诉求社会福利国家发展模式的抗争期；1980 年代后则演进为新自由主义防卫性与规训性教育合作模式，导致原有再分配承诺的全面侵蚀。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]

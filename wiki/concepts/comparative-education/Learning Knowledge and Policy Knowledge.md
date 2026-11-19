@@ -9,7 +9,7 @@ aliases:
 summary: "沙维尔·庞斯在追踪欧洲各国对 PISA 测评的政策吸纳过程中提出的知识分类学构念。区分了两类截然不同的知识形态：学习性知识（为深入理解测评数据库、挖掘学生认知规律而展开的专门认知操作结果，如复杂多层回归与参数表）与政策性知识（一套基于证据外表但高度简化、用于为既定公共政策提供诊断与正当性辩护的修辞话语）。实证表明两类知识在公共辩论中存在严重的结构性脱节，政治精英仅剪裁吸纳政策性知识作为执政弹药，导致跨国测评难以自发催生理性的跨国政策学习与政策趋同。"
 type: concept
 domain: "comparative-education"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Variable]]"
   - "[[Interaction Effect]]"
+  - "[[Neoliberalism]]"
   - "[[Socioeconomic Status]]"
   - "[[Sampling Error]]"
   - "[[Externalization]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-27
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -85,7 +86,7 @@ updated: 2026-11-18
 > |:---|:---|:---|
 > | **生成目的** | 探究教育生产函数、[[Variable\|变量]][[Interaction Effect\|交互作用]]与学生深层认知发展规律 | 树立改革合法性、制造危机感或为执政业绩提供辩护 |
 > | **认知复杂度** | 高度复杂，涵盖多层线性回归、[[Item Response Theory\|项目反应理论]]常模与条件[[Analysis of Variance\|方差分析]] | 高度简化，表现为排位天梯榜、均分红黑榜与醒目标语 |
-> | **话语特征** | 附带严谨的方法论局限界定、[[Statistical Significance\|统计显著性]]检验与概率[[Confidence Interval\|置信区间]] | 绝对化、论断性、规范化并深度镶嵌新自由主义治理修辞 |
+> | **话语特征** | 附带严谨的方法论局限界定、[[Statistical Significance\|统计显著性]]检验与概率[[Confidence Interval\|置信区间]] | 绝对化、论断性、规范化并深度镶嵌[[Neoliberalism\|新自由主义治理]]修辞 |
 > | **主要生产与解读主体** | 计量心理测量学家、大学实证研究团队与专业评估机构官员 | 教育部政治任命官员、党派发言人、政策智库专家与大众媒体编辑 |
 > | **在政策制定中的命运** | 往往被束之高阁，因技术门槛过高而难以进入公共议会审议 | 迅速占据新闻头条与施政演说，成为跨党派攻防的核心武器 |
 > | **对跨国趋同的影响** | 本应促进参测国反思教育效能并发生精细化制度互鉴 | 强化了各国依据本土政治周期对数据的选择性误读，导致政策趋异 |

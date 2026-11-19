@@ -6,7 +6,7 @@ aliases:
 summary: "大众媒体与公共舆论在极力夸大教育危机的同时，系统性回避对执政者推出的激进改革方案、因果机制与实证证据展开实质审视的媒介异化现象"
 type: concept
 domain: "educational-policy-reform"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Shape-Shifting]]"
   - "[[Performance Pay]]"
+  - "[[Neoliberalism]]"
   - "[[Media Logic]]"
   - "[[Central Phenomenon]]"
   - "[[Evidence-Based Policy-Making]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -95,7 +96,7 @@ updated: 2026-11-15
 > **媒体沉默对行政专断的合法化护航** 探讨大众传媒在面对权力[[Discourse|话语]]时，如何通过对方案细节的集体回避，反向赋权执政精英强推争议性法案。
 
 > [!claim] Grey & Morris
-> **默认许可与争议政策通关** 在英国 2013 年应对 [[PISA]] 的过程中，教育大臣[[Michael Gove\|戈夫]]借危机宣布了包括强制学院化、[[Performance Pay\|绩效工资]]制在内的五大改革支柱；主流媒体在接下来的报道周期中，几乎没有任何一家对这些支柱是否具有实证支持展开追查，也没有揭露其政策取向与 [[OECD]] 倡导建议之间的南辕北辙；媒体的政策规避使得这一套原本在教育界饱受争议的新自由主义重组方案，在公众舆论中如同未经审议的既成事实一般顺利确立。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 124–125)]]
+> **默认许可与争议政策通关** 在英国 2013 年应对 [[PISA]] 的过程中，教育大臣[[Michael Gove\|戈夫]]借危机宣布了包括强制学院化、[[Performance Pay\|绩效工资]]制在内的五大改革支柱；主流媒体在接下来的报道周期中，几乎没有任何一家对这些支柱是否具有实证支持展开追查，也没有揭露其政策取向与 [[OECD]] 倡导建议之间的南辕北辙；媒体的政策规避使得这一套原本在教育界饱受争议的[[Neoliberalism|新自由主义]]重组方案，在公众舆论中如同未经审议的既成事实一般顺利确立。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 124–125)]]
 
 ---
 

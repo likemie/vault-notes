@@ -10,7 +10,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -24,6 +24,7 @@ tags:
   - theme/counter-hegemony
   - theme/policy-transfer
 related_concepts:
+  - "[[Neoliberalism]]"
   - "[[Washington Consensus]]"
   - "[[Critical Pedagogy]]"
 related_persons:
@@ -38,13 +39,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-11-19
 ---
 
 ---
 
 > [!claim] 核心定性
-> 世界社会论坛（World Social Forum, WSF / Fórum Social Mundial）是 2001 年在巴西阿雷格里港创立的全球性非政府反制峰会与跨国倡议平台。论坛以“另一个世界是可能的（Another World Is Possible）”为核心宗旨，针对达沃斯世界经济论坛所代表的新自由主义经济秩序，汇聚全球草根社会运动、工会、批判知识分子与非政府组织，充当了生产、展示与跨国扩散替代性公共政策模型及反霸权教育思想的标志性治理平台。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, p. 8)]]
+> 世界社会论坛（World Social Forum, WSF / Fórum Social Mundial）是 2001 年在巴西阿雷格里港创立的全球性非政府反制峰会与跨国倡议平台。论坛以“另一个世界是可能的（Another World Is Possible）”为核心宗旨，针对达沃斯世界经济论坛所代表的[[Neoliberalism|新自由主义]]经济秩序，汇聚全球草根社会运动、工会、批判知识分子与非政府组织，充当了生产、展示与跨国扩散替代性公共政策模型及反霸权教育思想的标志性治理平台。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, p. 8)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 2001 年 1 月在巴西阿雷格里港举行首届峰会，随后定期在印度孟买、肯尼亚内罗毕、塞内加尔达喀尔、突尼斯突尼斯城与加拿大蒙特利尔等地轮流召开。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, p. 8)]]

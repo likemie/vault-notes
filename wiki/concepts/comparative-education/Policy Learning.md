@@ -8,10 +8,10 @@ aliases:
 summary: "教育决策者与研究者以他国教育经验为反思镜鉴，深入审视本土历史传统、制度架构与实践约束的批判性探究过程；与机械移植外部处方的政策借用相对立，政策学习强调情境敏感性、制度自省与启发性借鉴。"
 type: concept
 domain: "comparative-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 22
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - comparative-education
   - policy-borrowing
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Variable]]"
   - "[[Pedagogical Hybridity]]"
+  - "[[Neoliberalism]]"
   - "[[Learning Analytics]]"
 related_theories:
   - "[[Historical Institutionalism]]"
@@ -38,6 +39,8 @@ related_theories:
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Zongyi Deng]]"
+  - "[[Saravanan Gopinathan]]"
   - "[[Robin Alexander]]"
   - "[[Michael Sadler]]"
 related_facts:
@@ -47,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-18
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -60,7 +63,7 @@ updated: 2026-11-18
 > - **用途** 帮助研究者识别[[Transnational Education|跨国教育]]治理中盲目效仿与深层反思的根本差异，解构由国际测验排名驱动的技术主义政策移植狂热。
 > - **边界** 政策学习不同于单纯的政策转移或处方复制；它可能最终产生完全拒绝引进外部方案、转而强化本土既有制度优势的政策结论。
 
-> [!citation-card] 邓宗怡与高平纳坦论政策学习作为反思镜鉴
+> [!citation-card] [[Zongyi Deng|邓宗怡]]与[[Saravanan Gopinathan|高平纳坦]]论政策学习作为反思镜鉴
 > 跨国比较分析的核心功能在于提供一面反思的镜鉴。通过深度理解高绩效系统内部历史演进、集权体制、[[Curriculum Alignment|课程对齐]]与文化信念的共生共变，政策学习促使外部改革者审视本国体制的前提假设与结构盲区。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 450, 465–467)]]
 >
 > *The ultimate purpose of comparative analysis is not to generate a decontextualized menu of 'best practices' for transfer, but to provide a mirror for policy learning ... enabling policymakers to interrogate their own systemic assumptions, institutional arrangements, and cultural traditions.*
@@ -126,7 +129,7 @@ updated: 2026-11-18
 > [!dev-timeline] 概念演变与学术脉络
 > - **1900 — [[Michael Sadler|萨德勒]]的文化情境奠基** 迈克尔·萨德勒（Sadler, 1900）提出不可将外国教育制度如盆栽般轻易移植的名言，奠定现代政策学习的文化哲学雏形。
 > - **2000 年代初 — 比较教育政策借用研究成熟** 菲利普斯（Phillips）与施泰纳-哈姆西（Steiner-Khamsi）系统建立政策借用与本土化变异的阶段理论，推动学界反思全球化下的借用病理。
-> - **2010 年代 — 政策学习概念的显性化确立** 拉菲（Raffe, 2011）、林加德（Lingard, 2010）及邓宗怡与高平纳坦（[[Argument_Deng_2016_CE|Deng & Gopinathan, 2016]]）明确将政策学习确立为超越新自由主义量化基准借用的批判性新范式。
+> - **2010 年代 — 政策学习概念的显性化确立** 拉菲（Raffe, 2011）、林加德（Lingard, 2010）及邓宗怡与高平纳坦（[[Argument_Deng_2016_CE|Deng & Gopinathan, 2016]]）明确将政策学习确立为超越[[Neoliberalism|新自由主义]]量化基准借用的批判性新范式。
 
 ---
 

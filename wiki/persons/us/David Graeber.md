@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
   - theme/critique-of-technology
 related_concepts:
   - "[[Creativity]]"
+  - "[[Neoliberalism]]"
   - "[[Technological Pastiche]]"
   - "[[Big Idea Famine]]"
   - "[[Innovation Desert]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -50,7 +51,7 @@ updated: 2026-11-15
 > - **代表贡献** 提出“狗屁工作”（Bullshit Jobs）理论，并在《飞行汽车的终结与利润率下降》等文章中深刻反思现代科技为何放弃了深空探索与能源革命、转而沦为浅层消费与信息官僚工具。
 
 > [!citation-card] 批判人类学旗帜权威定位
-> 大卫·格雷伯以田野人类学眼光解构当代资本主义神话，其关于债务、官僚主义与技术停滞的敏锐洞察，打破了新自由主义对技术演进的唯一解释权，成为当代西方左翼最具原创性的思想家之一。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Graeber, 2012; cited in Karp & Zamiska, 2025, p. 47)]]
+> 大卫·格雷伯以田野人类学眼光解构当代资本主义神话，其关于债务、官僚主义与技术停滞的敏锐洞察，打破了[[Neoliberalism|新自由主义]]对技术演进的唯一解释权，成为当代西方左翼最具原创性的思想家之一。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Graeber, 2012; cited in Karp & Zamiska, 2025, p. 47)]]
 
 ---
 

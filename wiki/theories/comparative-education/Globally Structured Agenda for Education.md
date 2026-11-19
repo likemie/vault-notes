@@ -8,7 +8,7 @@ aliases:
 summary: "罗杰·戴尔提出的批判比较教育学核心理论，主张全球教育趋同并非自愿的普世启蒙文化扩散，而是由全球资本主义体系的内在结构性矛盾（资本积累、国家合法性与社会凝聚力）通过跨国经贸组织自上而下结构化塑造的。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 30
+theory_related_count: 32
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Variable]]"
   - "[[New Public Management]]"
+  - "[[Neoliberalism]]"
   - "[[Alienation]]"
   - "[[Policy Borrowing]]"
   - "[[Research Question]]"
@@ -40,6 +41,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Stanford School]]"
+  - "[[Karl Marx]]"
   - "[[John W. Meyer]]"
   - "[[Roger Dale]]"
   - "[[Immanuel Wallerstein]]"
@@ -58,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -67,7 +69,7 @@ updated: 2026-11-15
 > - **解释对象** 全球化时代民族国家教育政策趋同的动力源泉、超国家组织对主权[[State Educational Sovereignty|国家教育权]]力的渗透机制，以及教育在维系全球资本积累中的结构性功能。
 > - **理论问题** 正面回应并挑战[[Stanford School|斯坦福学派]][[World Society Theory|世界文化理论]]将教育扩张视为理性主义文化神话自愿扩散的共识论解释，破解[[Transnational Education|跨国教育]][[Policy Mobility|政策流动]]背后被遮蔽的资本积累与[[Geopolitics|地缘政治]]权力关系。
 > - **理论类型** 批判政治经济学解释理论与宏观多标度[[Analytic Framework|分析框架]]。
-> - **知识位置** 植根于西方马克思主义批判教育社会学、批判地理学与[[World-Systems Theory|世界体系分析]]传统；在比较教育学界，与[[John W. Meyer|约翰·迈耶]]（John W. Meyer）的世界文化理论共同构成当代全球化研究最重要的二元理论对质轴线。
+> - **知识位置** 植根于西方[[Karl Marx|马克思]]主义批判教育社会学、批判地理学与[[World-Systems Theory|世界体系分析]]传统；在比较教育学界，与[[John W. Meyer|约翰·迈耶]]（John W. Meyer）的世界文化理论共同构成当代全球化研究最重要的二元理论对质轴线。
 
 > [!claim] 核心判断
 > 全球化对各民族国家教育系统的影响，本质上是由全球资本主义经济的内在结构性需求（保障资本积累、维系国家合法性、促进社会再生产）所驱动的结构化进程；外部影响并非抽象弥散的文化理念，而是通过跨国经贸协定（如 [[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]]）、国际金融组织（如[[World Bank|世界银行]]、[[International Monetary Fund|IMF]]）以及区域一体化集团，借助借用、学习、强加、条件限制与协调等多重具体机制，自上而下重塑主权国家的教育优先事项与治理权力配置。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
@@ -99,7 +101,7 @@ updated: 2026-11-15
 ---
 
 > [!theory-proposition] 命题一｜全球资本主义的积累危机驱动着跨国教育政策议程的结构化重塑
-> 戴尔认为，全球教育变革的核心驱动力并非文化理念的自发演化，而是世界资本主义经济为了克服利润率下降与生产过剩危机，迫切需要将教育重构为直接服务于资本积累的工具。这一动力迫使各国教育体系转向[[New Public Management|新公共管理]]、紧缩开支、文凭标准化与[[Human Capital Theory|人力资本]]弹性化，从而形成了跨国高度同质的新自由主义政策议程。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
+> 戴尔认为，全球教育变革的核心驱动力并非文化理念的自发演化，而是世界资本主义经济为了克服利润率下降与生产过剩危机，迫切需要将教育重构为直接服务于资本积累的工具。这一动力迫使各国教育体系转向[[New Public Management|新公共管理]]、紧缩开支、文凭标准化与[[Human Capital Theory|人力资本]]弹性化，从而形成了跨国高度同质的[[Neoliberalism|新自由主义]]政策议程。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 
 > [!example|notitle]
 > [[World Bank|世界银行]]与 [[International Monetary Fund|IMF]] 在亚洲和[[Latin American Debt Crisis of 1982|拉美债务危机]]期间，强制推行结构调整计划，要求借贷国大幅削减公共教育支出并推行私有化，这一跨国政策协调正是全球资本积累议程结构化约束各国的典型体现。

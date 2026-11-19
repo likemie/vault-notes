@@ -7,7 +7,7 @@ aliases:
 summary: "研究社会现实的客观主义取向，持实在论本体论和实证主义认识论，将社会世界视为外在于个体的客观实在，以发现普遍法则为研究目标；在现代教育治理中，其科学决策与量化排位修辞被超国家机构塑造成无可置疑的客观主义品牌以推进去政治化协调。"
 type: concept
 domain: "educational-philosophy"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Transnational Education]]"
   - "[[Governing by Numbers]]"
   - "[[Policy Science in Comparative Education]]"
+  - "[[Neoliberalism]]"
 related_theories:
   - "[[Burrell and Morgan Four Assumptions Framework]]"
   - "[[Critical Realism]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -172,7 +173,7 @@ updated: 2026-11-11
 > > 争论政策研究中的客观主义统计是纯粹中立的技术诊断，还是服务于特定统治秩序的意识形态工具。
 > >
 > > - **技术官僚与[[Policy Science in Comparative Education|政策科学]]派** 强调客观指标能够排除党派政治偏见，为治理提供理性决策依据。
-> > - **批判治理学者（Martens, Grek）** 揭示客观主义品牌掩盖了指标编制背后的新自由主义规范性决断。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 25)]]
+> > - **批判治理学者（Martens, Grek）** 揭示客观主义品牌掩盖了指标编制背后的[[Neoliberalism|新自由主义]]规范性决断。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 25)]]
 
 > [!warning] 适用局限
 > 客观主义仅适用于系统封闭、因果路径明确且变量可控的分析情境；在充满多元价值冲突、具身文化意义与动态主体生成的深层教育情境中，客观主义容易滑入虚假的确定性幻象。

@@ -8,10 +8,10 @@ aliases:
 summary: "家长为子女选择就读学校的实践与政策逻辑，受家庭经济、社会与文化资本的系统筛选；在不同体制下分化为以新自由主义竞争为导向的市场化择校与以行政分流为导向的城镇化择校；多层实证数据显示学校间方差仅占 5–10%，择校难以替代微观教师教学质量。"
 type: concept
 domain: "sociology-of-education"
-related_count: 59
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 60
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - theme/school-choice
   - theme/social-stratification
@@ -20,6 +20,7 @@ tags:
   - metax
 related_concepts:
   - "[[Habitus]]"
+  - "[[Neoliberalism]]"
   - "[[Discourse]]"
   - "[[Migrant Children]]"
   - "[[Peidu]]"
@@ -86,7 +87,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -96,7 +97,7 @@ updated: 2026-11-15
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向家庭阶级[[Habitus|习性]]、资源存量同公私立学校资源空间分配之间的博弈与变现机制。
-> - **用途** 帮助研究者透视国家新自由主义市场政策或人口城镇化导流战略如何与家庭能动性发生互动，以及资源分配的马太效应。
+> - **用途** 帮助研究者透视国家[[Neoliberalism|新自由主义]]市场政策或人口城镇化导流战略如何与家庭能动性发生互动，以及资源分配的马太效应。
 > - **边界** 解释义务教育和高中阶段的选择性入学行为，不涉及不具备选择权利的强制性分配和纯粹学术选拔。
 
 > [!citation-card|notitle] 腾飞与王论择校的双向政策[[Discourse|话语]]与实践形态

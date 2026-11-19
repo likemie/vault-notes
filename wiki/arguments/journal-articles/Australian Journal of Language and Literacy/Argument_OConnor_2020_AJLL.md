@@ -9,7 +9,7 @@ title: "Argument_OConnor_2020_AJLL"
 argument_key: "Argument_OConnor_2020_AJLL"
 argument_display_title: "Visible Learning and whole language: revisiting the 'garbage in, garbage out' problem"
 argument_kind: "journal-article"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Whole Language]]"
   - "[[Constructivist Paradigm]]"
   - "[[Technical Rationality]]"
+  - "[[Neoliberalism]]"
   - "[[Theoretical Standpoint]]"
   - "[[Praxis]]"
   - "[[Simple View of Reading]]"
@@ -67,7 +68,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: 2026-11-11
+updated: 2026-11-19
 year: 2020
 doi: ""
 citation_aliases:
@@ -85,7 +86,7 @@ citation_aliases:
 > [!concept-lens] 阅读透镜
 > - **对象** 哈蒂《VL》(Hattie, 2009) 中关于全语言教学的 5 段文本（约 1.5 页）及其背后的 4 项元分析（共包含 64 项原始研究）。
 > - **张力** 元分析所承诺的“对研究叙述性讨论的严谨统计替代方案” vs 哈蒂主张的“解释与故事优先于数据”的主观透镜，暴露出证据本位政策中的[[Technical Rationality\|技术理性]]与数据选择偏向。
-> - **贡献** 详细拆解了《VL》中分类错误、非对称审查和选择性剔除数据的操作，论证了宏观实证数据整合背后的政治、宗教偏见与新自由主义教育治理的同盟关系。
+> - **贡献** 详细拆解了《VL》中分类错误、非对称审查和选择性剔除数据的操作，论证了宏观实证数据整合背后的政治、宗教偏见与[[Neoliberalism|新自由主义]]教育治理的同盟关系。
 
 ---
 

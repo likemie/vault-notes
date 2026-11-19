@@ -66,20 +66,21 @@ related_facts:
   - "[[Ministry of International Trade and Industry]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[Bell Labs]]"
+  - "[[1997 Asian Financial Crisis]]"
 related_arguments: []
 sources:
   - "[[sources/Macher_1998_CMR/Macher_1998_CMR|Macher_1998_CMR]]"
 part_of:
 status: draft
 created: 2026-10-04
-updated: 2026-10-29
+updated: 2026-11-19
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Macher_1998_CMR"
 argument_key: "Argument_Macher_1998_CMR"
 argument_display_title: "Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry"
 argument_kind: "journal-article"
-argument_related_count: 35
+argument_related_count: 36
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -360,7 +361,7 @@ issuing_organization: ""
 > [!warning] 自述局限
 > - **行业复杂性与多元因果权重难以精确剥离** 作者明确指出，在半导体这样一个复杂的全球性产业中，产品创新、制造改进、宏观周期、汇率波动、贸易政策与研发联盟均发挥了复合作用，试图为单个因素分配具体因果权重是不切实际的。
 > - **市场份额指标的价格与通胀混淆** 市场份额数据基于销售收入测算，不可避免地将物理出货量与单位产品平均售价混为一谈（尽管这恰好反映了美国产品因高附加值而获得的溢价优势）。
-> - **短期亚洲金融危机带来的宏观扰动** 1997 年爆发的亚洲金融危机可能在短期内压低全球半导体需求并侵蚀美国制造商的财务表现，长期相对竞争格局仍有待后续追踪。
+> - **短期[[1997 Asian Financial Crisis|亚洲金融危机]]带来的宏观扰动** 1997 年爆发的亚洲金融危机可能在短期内压低全球半导体需求并侵蚀美国制造商的财务表现，长期相对竞争格局仍有待后续追踪。
 
 ---
 

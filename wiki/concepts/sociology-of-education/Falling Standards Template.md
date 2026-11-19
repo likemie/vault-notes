@@ -7,7 +7,7 @@ aliases:
 summary: "大众媒介在报道教育事务时惯常套用的一种仪式化与还原论叙事框架，无论实证数据是否平稳，均系统性将国家教育系统描述为处于标准下滑与全面危机之中"
 type: concept
 domain: "sociology-of-education"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Media Logic]]"
   - "[[Mediatised Governance]]"
   - "[[Champ]]"
+  - "[[Neoliberalism]]"
   - "[[Chain of Evidence]]"
   - "[[Performance Pay]]"
   - "[[Construct]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -81,7 +82,7 @@ updated: 2026-11-11
 > | 维度 | Falling Standards Template（水平下降模板） | [[Media Logic\|Media Logic（媒介逻辑）]] | [[Mediatised Governance\|Mediatised Governance（媒介化治理）]] |
 > |:---|:---|:---|:---|
 > | **范畴属性** | [[Discourse\|话语]]层面的具体叙事格式与叙事剧本 | 制度层面的传播运行总法则与新闻价值规范 | 政治与治理层面的跨[[Champ\|场域]]共谋体制 |
-> | **运作机制** | 将所有实证输入强制转化为“失败者故事” | 筛选冲突、坏消息、耸动标题与排列表 | 政治精英利用媒介模板推销新自由主义争议改革 |
+> | **运作机制** | 将所有实证输入强制转化为“失败者故事” | 筛选冲突、坏消息、耸动标题与排列表 | 政治精英利用媒介模板推销[[Neoliberalism\|新自由主义]]争议改革 |
 > | **表现形态** | “英国青少年得差评”、“教育陷入低迷”等头条 | 30 秒广播通稿、一维排列表、信息图 | 剥离民主监督、架空实证[[Chain of Evidence\|证据链]]的行政与立法落地 |
 
 ---

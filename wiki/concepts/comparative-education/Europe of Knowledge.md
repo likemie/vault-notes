@@ -7,7 +7,7 @@ aliases:
 summary: "欧盟在 20 世纪 90 年代中后期确立的超国家宏观政策话语与治理图式，将教育、科研与培训深度绑定于全球经济竞争与就业增长，把知识界定为可度量与可消费的商品，依托欧洲教育区建设与全景敞视式软法规训驱动成员国体制趋同"
 type: concept
 domain: "comparative-education"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Discourse]]"
   - "[[Lifelong Learning]]"
+  - "[[Neoliberalism]]"
   - "[[Academic Freedom]]"
   - "[[Paradigm]]"
   - "[[European Education Space]]"
@@ -59,13 +60,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-27
-updated: 2026-11-03
+updated: 2026-11-19
 ---
 
 ---
 
 > [!def] Europe of Knowledge
-> **知识欧洲（Europe of Knowledge）** 是[[EU|欧洲联盟]]（European Union, EU）在 20 世纪 90 年代中后期确立的核心宏观政策[[Discourse|话语]]与超国家治理图式。该构想由[[European Commission|欧盟委员会]]在 1997 年发布的《2000 年议程》（Agenda 2000）与《迈向知识欧洲》（Towards a Europe of Knowledge）中系统提出，并在 1999 年《索邦宣言》与 2000 年[[Lisbon Strategy|里斯本战略]]中完成制度化落地。该话语将教育、科技研究与职业培训重新界定为支撑欧洲在全球竞争中制胜的关键无形投资；通过倡导建设开放动态的[[European Education Area|欧洲教育区]]、推行以[[Lifelong Learning|终身学习]]为轴心的资格与能力框架，并将知识重构为可度量、可认证与可消费的生产性资源，驱动成员国教育体系向新自由主义技术官僚治理模式靠拢与趋同。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480, 486–487)]]
+> **知识欧洲（Europe of Knowledge）** 是[[EU|欧洲联盟]]（European Union, EU）在 20 世纪 90 年代中后期确立的核心宏观政策[[Discourse|话语]]与超国家治理图式。该构想由[[European Commission|欧盟委员会]]在 1997 年发布的《2000 年议程》（Agenda 2000）与《迈向知识欧洲》（Towards a Europe of Knowledge）中系统提出，并在 1999 年《索邦宣言》与 2000 年[[Lisbon Strategy|里斯本战略]]中完成制度化落地。该话语将教育、科技研究与职业培训重新界定为支撑欧洲在全球竞争中制胜的关键无形投资；通过倡导建设开放动态的[[European Education Area|欧洲教育区]]、推行以[[Lifelong Learning|终身学习]]为轴心的资格与能力框架，并将知识重构为可度量、可认证与可消费的生产性资源，驱动成员国教育体系向[[Neoliberalism|新自由主义]]技术官僚治理模式靠拢与趋同。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480, 486–487)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 欧盟通过政策文本、行动计划与指标监测网络所构建的权力与知识结合体与政策路线图。

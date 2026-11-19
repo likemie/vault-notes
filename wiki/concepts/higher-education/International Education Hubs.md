@@ -8,7 +8,7 @@ aliases:
 summary: "国家或地区战略性汇聚本土与跨国行动者开展教育、培训、知识生产与技术创新的高教集聚体（Knight, 2014）。涵盖学生枢纽、人才枢纽与知识/创新枢纽三种演进形态，兼具文化外交与政治经济双重运作维度；中国等转型大国依托产学政三螺旋协同，生成了单核驱动、多核集群与园区平台共享等差异化空间治理模式。"
 type: concept
 domain: "higher-education"
-related_count: 48
+related_count: 49
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Cultural Diplomacy]]"
   - "[[Developmentalism]]"
   - "[[Discourse]]"
+  - "[[Neoliberalism]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Heterogeneity]]"
   - "[[Alienation]]"
@@ -76,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-07'
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -138,7 +139,7 @@ updated: 2026-11-15
 > **跨境高等教育第三代形态的战略集聚性** 简·奈特（Jane Knight）论证，教育枢纽代表了跨境高教从被动的人员散发性流动向主动的国家战略规划转型的历史转变，通过战略性汇聚本土与国际高水平学术与产业行动者，建构支撑国家长期竞争力的知识集群。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|(Knight, 2014a, via Parreira do Amaral, 2022, p. 43)]]
 
 > [!claim] [[Fazal Rizvi|Rizvi, F.]]
-> **从依附性[[Developmentalism|发展主义]]转向竞争性市场理性** 法兹尔·里兹维（Fazal Rizvi）指出，亚洲教育枢纽的兴起标志着亚洲国家摆脱了旧有将西方留学视作现代化援助的接受者角色，转而将高等教育作为争夺全球知识经济[[Discourse|话语]]权与高端人才的主动战略工具，但在治理逻辑上也全面迎合了新自由主义市场理性。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 95–97)]]
+> **从依附性[[Developmentalism|发展主义]]转向竞争性市场理性** 法兹尔·里兹维（Fazal Rizvi）指出，亚洲教育枢纽的兴起标志着亚洲国家摆脱了旧有将西方留学视作现代化援助的接受者角色，转而将高等教育作为争夺全球知识经济[[Discourse|话语]]权与高端人才的主动战略工具，但在治理逻辑上也全面迎合了[[Neoliberalism|新自由主义]]市场理性。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 95–97)]]
 
 > [!claim] Parreira do Amaral, M.
 > **领土化枢纽逻辑与去领土化流动逻辑的空间张力** [[Marcelo Parreira do Amaral|马塞洛·帕雷拉·多·阿马拉尔]]（Marcelo Parreira do Amaral）阐明，教育枢纽体现了国家领土作为“锚点”截留全球智力要素的物质化尝试，与资本技术驱动的去中心化流动模式构成了[[Geopolitics of Knowledge|知识地缘政治]]的双重张力。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|(Parreira do Amaral, 2022, pp. 43–45)]]

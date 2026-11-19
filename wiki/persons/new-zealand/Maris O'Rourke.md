@@ -11,10 +11,10 @@ cssclasses:
   - person-page
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 19
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1947"
 lifespan: "1947–至今"
 tags:
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Educational Decentralization]]"
   - "[[School Autonomy]]"
   - "[[Epistemic Governance]]"
+  - "[[Neoliberalism]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-23
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 # Maris O'Rourke
@@ -99,7 +100,7 @@ updated: 2026-11-11
 > 奥罗克的制度思想立足于新公共管理（NPM）与知识工程学的交汇点。她主张国家教育治理应当剥离繁琐的过程性行政审批，转向“宏观标准控制、微观全面放权”的分权管理体制；在跨国治理维度上，她坚信国际多边机构的力量在于将零散的项目经验提炼为标准化的政策算法与最佳实践指引，通过即时的电子咨询服务规训借款国技术官员，促使后发国家主动融入全球通行的治理规范之中。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 4)]]
 
 > [!citation-card] 管理主义分权与跨国知识中介
-> 奥罗克的双重职涯历程展现出当代教育治理的典型技术路径：首先在一国推行极端的新自由主义分权改革，建立以学校董事会为核心的微观问责；随后将这一制度逻辑升华至跨国平台，依托电子咨询服务台将英美新古典治理经验编码为全球适用的政策处方。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 4, 8)]]
+> 奥罗克的双重职涯历程展现出当代教育治理的典型技术路径：首先在一国推行极端的[[Neoliberalism|新自由主义]]分权改革，建立以学校董事会为核心的微观问责；随后将这一制度逻辑升华至跨国平台，依托电子咨询服务台将英美新古典治理经验编码为全球适用的政策处方。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 4, 8)]]
 >
 > *O'Rourke translated national market-oriented reforms into transnational organizational models, establishing advisory infrastructures to diffuse standardized policies across borrower states.*
 
@@ -134,7 +135,7 @@ updated: 2026-11-11
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Zapp_2017_IJED|Zapp (2017)]] — 记录奥罗克作为新西兰教育总监及世界银行首任教育总监创设 EKMS 的历史实证（p. 4）。
+> - [[Argument_Zapp_2017_IJED|Zapp (2017)]] — 记录奥罗克作为新西兰教育总监及[[World Bank|世界银行]]首任教育总监创设 [[Educational Knowledge Management System|EKMS]] 的历史实证（p. 4）。
 
 ---
 

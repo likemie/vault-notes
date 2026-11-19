@@ -10,7 +10,7 @@ aliases:
 summary: "国际组织软治理的双重基础运行模式之一，指超国家机构在缺乏强制性法权时，通过跨国大样本数据收集、标准化测量指标开发与因果解释加工，将未经处理的原始事实转化为实质性知识，从而夺取对特定政策领域“核心问题与危机何在”的排他性定义权"
 type: concept
 domain: "comparative-education"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Scientific Literacy]]"
   - "[[Competitiveness]]"
   - "[[Reliability]]"
+  - "[[Neoliberalism]]"
   - "[[Epistemology]]"
   - "[[Operationalization]]"
   - "[[Cognitive Authority]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-03
+updated: 2026-11-19
 ---
 
 ---
@@ -120,7 +121,7 @@ updated: 2026-11-03
 > **纯粹信息向权威知识的转化** 国际组织在探究模式下的核心权力，在于将分散的观察事实转化为标准化知识。通过制定共同的概念分类与测量规程，国际组织界定了政策讨论的基本词汇，使成员国在思考自身问题时不得不采纳这套由外部预先设定的度量语言。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 271)]]
 
 > [!claim] Niemann & Martens
-> **硬事实作为政策干预的合法化基石** 探究模式下产出的量化数据之所以具备强大的规制力，是因为它们被包装为不容置疑的硬事实。通过展示大样本统计与心理测量学[[Reliability|信度]]，[[OECD|经合组织]]成功掩盖了数据背后的新自由主义[[Human Capital Theory|人力资本]]偏向，为其在缺乏法定授权的情境下开展软性干预确立了坚实的[[Epistemology|认识论]]护盾。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 271–273)]]
+> **硬事实作为政策干预的合法化基石** 探究模式下产出的量化数据之所以具备强大的规制力，是因为它们被包装为不容置疑的硬事实。通过展示大样本统计与心理测量学[[Reliability|信度]]，[[OECD|经合组织]]成功掩盖了数据背后的[[Neoliberalism|新自由主义]][[Human Capital Theory|人力资本]]偏向，为其在缺乏法定授权的情境下开展软性干预确立了坚实的[[Epistemology|认识论]]护盾。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 271–273)]]
 
 ---
 

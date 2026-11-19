@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 34
+person_related_count: 36
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -26,7 +26,9 @@ tags:
   - theme/social-dialogue
 related_concepts:
   - "[[Transnational Education]]"
+  - "[[Neoliberalism]]"
   - "[[International Education]]"
+  - "[[Teacher Leadership]]"
   - "[[Teacher Professional Agency]]"
   - "[[New Public Management]]"
   - "[[Professional Judgment]]"
@@ -68,14 +70,14 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国教育政策学者、教师劳工战略家；剑桥大学教育学院高级研究员（Senior Research Associate）、前全英教师联合会（National Union of Teachers, NUT）教育与平等事务部负责人；现任[[Education International\|国际教育协会]]（Education International, EI）特别顾问。
-> - **核心角色** 全球教师专业组织介入[[Transnational Education|跨国教育]]证据治理的奠基人；[[International Summits on the Teaching Profession\|国际教师职业峰会]]（ISTP）核心发起人兼联合主席；致力于打破新自由主义官僚对教育决策的排他性垄断，搭建部级高官与教师工会基于实证研究展开闭门平等协商的跨国机制。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 209–213)]]
+> - **核心角色** 全球教师专业组织介入[[Transnational Education|跨国教育]]证据治理的奠基人；[[International Summits on the Teaching Profession\|国际教师职业峰会]]（ISTP）核心发起人兼联合主席；致力于打破[[Neoliberalism|新自由主义]]官僚对教育决策的排他性垄断，搭建部级高官与教师工会基于实证研究展开闭门平等协商的跨国机制。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 209–213)]]
 > - **代表贡献** 推动设立[[International Summits on the Teaching Profession\|国际教师职业峰会]]（ISTP）；促成在[[OECD\|经合组织]]大型调查中确立工会的数据共同所有权原则；主导向[[Teaching and Learning International Survey\|教师教学国际调查]]（TALIS）反向注入教师工作压力与分布式领导力量表。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–212)]]
 
 > [!citation-card] 人物定位的关键来源
@@ -90,7 +92,7 @@ updated: 2026-11-15
 > - **1990–2010 年** 担任全英教师联合会（NUT，现全国教育联盟 NEU）教育与平等事务部部长，主导应对英国国家课程与高利害考试改革；与剑桥大学教授约翰·麦克比斯（John MacBeath）、莫里斯·[[Francis Galton|高尔顿]]（Maurice Galton）深度合作，系统开展教师工作负担与专业状态实证研究。
 > - **2010 年** 加盟剑桥大学教育学院担任高级研究员；出任代表全球 3200 万教师的[[Education International\|国际教育协会]]（EI）特别战略顾问，领导 EI 智库与研究院的政策证据倡导工作。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 209–210)]]
 > - **2011 年** 联手美国前教育部长阿恩·邓肯（Arne Duncan）、[[National Education Association\|全美教育协会]]（NEA）与[[OECD\|经合组织]]（OECD），联合创办首届[[International Summits on the Teaching Profession\|国际教师职业峰会]]（ISTP），并常年担任峰会核心规划者与联合主持专家。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 211)]]
-> - **2012–2020 年** 开展跨国教师领导力质性调研（Bangs & Frost, 2012），成功推动 OECD 在 [[Teaching and Learning International Survey\|TALIS]] 2013 引入分布式领导力量表、在 TALIS 2018 增设教师工作压力来源专属量表。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 210)]]
+> - **2012–2020 年** 开展跨国[[Teacher Leadership|教师领导力]]质性调研（Bangs & Frost, 2012），成功推动 OECD 在 [[Teaching and Learning International Survey\|TALIS]] 2013 引入分布式领导力量表、在 TALIS 2018 增设教师工作压力来源专属量表。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 210)]]
 > - **2021 年至今** 领衔第 11 届 ISTP 峰会后疫情时代教育重建研讨，促成 OECD 与 EI 联合签署兼顾卓越与公平的疫后教育复兴十大原则。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 211–212, 216)]]
 
 ---

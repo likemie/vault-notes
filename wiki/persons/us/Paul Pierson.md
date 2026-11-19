@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: "us"
 person_region: "us"
-person_related_count: 22
+person_related_count: 24
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -28,6 +28,8 @@ related_concepts:
   - "[[Subversives]]"
   - "[[Strategic Compliance]]"
   - "[[Institutional Drift]]"
+  - "[[Neoliberalism]]"
+  - "[[Habitus Hysteresis]]"
   - "[[Variable]]"
   - "[[Causality]]"
   - "[[Institutional Layering]]"
@@ -54,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -87,13 +89,13 @@ updated: 2026-11-11
 ---
 
 > [!thought-timeline] 思想发展
-> - **1990年代 — 福利国家紧缩与不可逆[[Path Dependence|路径依赖]]** 反思新自由主义改革为何未能如愿彻底摧毁英美战后福利体系。
+> - **1990年代 — 福利国家紧缩与不可逆[[Path Dependence|路径依赖]]** 反思[[Neoliberalism|新自由主义]]改革为何未能如愿彻底摧毁英美战后福利体系。
 >   - **代表著作** *Dismantling the Welfare State?* (1994); *The New Politics of the Welfare State* (2001)。
 >   - **关键概念／方法** 紧缩政治（Politics of Retrenchment）、规避指责（Blame Avoidance）、选民回引、路径依赖。
 >   - **阶段转向** 论证削减福利远比扩张福利艰难，福利制度本身在运转中培育了庞大的受惠阶层与配套组织，产生强大的自我强化锁定效应；该观点随后成为施特雷克与希伦（2005）反思“连续性偏误”的经典理论靶子。
 > - **2000年代 — 时间性分析与[[Historical Institutionalism|历史制度主义]]方法论系统化** 克服[[Rational Action Theory|理性选择理论]]的无时间性与静态均衡缺陷，确立历史时间性因果法则。
 >   - **代表著作** *Increasing Returns, Path Dependence, and the Study of Politics* (2000); *Politics in Time* (2004)。
->   - **关键概念／方法** [[Path Dependence|路径依赖]]、报酬递增、关键节点、反应序列、滞后效应、累积渐变。
+>   - **关键概念／方法** [[Path Dependence|路径依赖]]、报酬递增、关键节点、反应序列、[[Habitus Hysteresis|滞后效应]]、累积渐变。
 >   - **阶段转向** 系统提炼慢动因产生大结果、时间次序塑造政治结果的非线性动态因果律，奠定当代历史政治学核心方法论支柱。
 > - **2010年代至今 — 有组织利益垄断与美国两极分化根源** 转向美国宏观政治经济学批判，追踪商业游说集团与金融资本如何利用漂移等机制重塑制度。
 >   - **代表著作** *Winner-Take-All Politics* (2010, with J. Hacker); *Let Them Eat Tweets* (2020, with J. Hacker)。

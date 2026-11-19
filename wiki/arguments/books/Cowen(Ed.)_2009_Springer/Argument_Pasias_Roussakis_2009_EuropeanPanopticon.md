@@ -7,7 +7,7 @@ title: "Argument_Pasias_Roussakis_2009_EuropeanPanopticon"
 argument_key: "Argument_Pasias_Roussakis_2009_EuropeanPanopticon"
 argument_display_title: "Towards the European panopticon: EU discourses and policies in education and training 1992–2007"
 argument_kind: "book-chapter"
-argument_related_count: 52
+argument_related_count: 53
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Open Method of Coordination]]"
   - "[[Technologies of Surveillance]]"
+  - "[[Neoliberalism]]"
   - "[[State Educational Sovereignty]]"
   - "[[Regimes of Truth]]"
   - "[[Competitiveness]]"
@@ -98,7 +99,7 @@ sources:
   - "[[books/Cowen(Ed.)_2009_Springer/Ch30_Pasias_Roussakis_2009|Ch30_Pasias_Roussakis_2009]]"
 status: draft
 created: 2026-10-27
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -107,7 +108,7 @@ updated: 2026-11-15
 > 在《马斯特里赫特条约》确立的[[Subsidiarity Principle|辅助性原则]]严格禁止推行统一教育立法的宪制约束下，[[EU|欧洲联盟]]（European Union, EU）如何在 1992 至 2007 年间重构其教育与培训政策？超国家机构如何利用 [[Europe of Knowledge|知识欧洲]] 宏观[[Discourse|话语]]体系将教育深度绑定于全球经济竞争与资本积累，并通过[[Open Method of Coordination|开放协调法]]（Open Method of Coordination, OMC）、量化基准指标与多重[[Technologies of Surveillance|监视技术]]，建立起覆盖欧洲教育领域的超国家[[Panopticism|全景敞视]]规训机制？（pp. 479–481）
 
 > [!claim] 核心主张
-> 自 1992 年《马斯特里赫特条约》以来，欧盟教育治理经历了政策确立、就业政策渗透到新千年开放协调的三阶段演化；[[European Commission|欧盟委员会]]通过动员全球化与科技竞争危机修辞，构筑了吸纳新自由主义信条的 [[Europe of Knowledge|知识欧洲]] 市场化话语，将知识降格为易耗且可替换的商业产品；在新千年进程中，各成员国放弃死守教育主权的消极防守，主动通过开放协调法参与设定共同指标并接受考核，欧盟依托凝视、绩效与治理等监视技术，最终在各国自愿合规的表象下建立起事实上的超国家欧洲教育全景敞视体系。（pp. 480–481, 486–487, 490–493）
+> 自 1992 年《马斯特里赫特条约》以来，欧盟教育治理经历了政策确立、就业政策渗透到新千年开放协调的三阶段演化；[[European Commission|欧盟委员会]]通过动员全球化与科技竞争危机修辞，构筑了吸纳[[Neoliberalism|新自由主义]]信条的 [[Europe of Knowledge|知识欧洲]] 市场化话语，将知识降格为易耗且可替换的商业产品；在新千年进程中，各成员国放弃死守教育主权的消极防守，主动通过开放协调法参与设定共同指标并接受考核，欧盟依托凝视、绩效与治理等监视技术，最终在各国自愿合规的表象下建立起事实上的超国家欧洲教育全景敞视体系。（pp. 480–481, 486–487, 490–493）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 1992 年《马斯特里赫特条约》至 2007 年间欧盟官方发布的政策白皮书、咨询[[The Green Book|绿皮书]]、欧洲理事会主席国结论、理事会工作规划与教育行动计划。

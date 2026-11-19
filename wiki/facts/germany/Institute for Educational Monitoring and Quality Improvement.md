@@ -11,7 +11,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 32
+fact_related_count: 33
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Global Universities Rankings]]"
+  - "[[Neoliberalism]]"
   - "[[School Leadership]]"
   - "[[Performativity]]"
   - "[[Data Literacy]]"
@@ -65,7 +66,7 @@ related_methods: []
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -124,7 +125,7 @@ updated: 2026-11-11
 > [!indicators] 影响力维度与政策渗透
 > - **全州学校 100% 覆盖** IfBQ 的测评系统与社会指数算法全面覆盖汉堡全州数百所中小学，成为汉堡教育行政配置资源与评估质量不可或缺的基础基础设施。
 > - **再分配正义的制度化支撑** 通过社会指数 1–6 级的科学测算，汉堡市政府成功打破了“一刀切”财政拨款模式，使处于薄弱社区的学校获得多达 2–3 倍的编制倾斜与专项经费扶持。
-> - **抵御高利害问责的制度防线** 严格遵循去排名的假名化数据管理规程，有力抵制了新自由主义绩效排名的渗透，有效保护了教师群体的专业自主权与职业安全感。
+> - **抵御高利害问责的制度防线** 严格遵循去排名的假名化数据管理规程，有力抵制了[[Neoliberalism|新自由主义]]绩效排名的渗透，有效保护了教师群体的专业自主权与职业安全感。
 
 > [!finding-cards] 关键成效与实践形态
 > - **培育低利害形成性诊断文化** 与英格兰等高压问责体系形成鲜明对比，IfBQ 生产的数据不与校长免职、学校关停或公开羞辱挂钩。这种低利害环境使得[[School Leadership\|学校领导]]者无需采取防御性数据迎检策略，能够以坦诚的心态面对诊断结果（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025, pp. 12–14]]）。

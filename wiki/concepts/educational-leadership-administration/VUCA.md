@@ -4,7 +4,7 @@ aliases: ["波动性-不确定性-复杂性-模糊性", "VUCA 框架", "VUCA环�
 summary: "描述 21 世纪组织与社会环境的四维概念，分别指波动性、不确定性、复杂性和模糊性，也可作为将结构性问题个体化的治理话语工具"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -15,6 +15,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Geopolitics]]"
   - "[[Problematisation]]"
+  - "[[Neoliberalism]]"
   - "[[Fourth Industrial Revolution]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Alienation]]"
@@ -29,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-21
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 > [!info] 定义
@@ -48,7 +49,7 @@ updated: 2026-11-15
 
 VUCA 将全球教育转型所面临的挑战表述为一组看似中立的客观条件——"波动性、不确定性、复杂性、模糊性"。这组条件一旦被接受为不可改变的背景，其隐含的政策方向便自然浮现：既然环境不可控，唯一能做的是让个体具备应对环境的能力。
 
-由此，[[Single-Case Design|SCD]] 框架中"关键技能和素养"的获取被呈现为**自然必然**（而非审慎选择）——一种持续的、开放的、高度竞争的追求，且没有人需要对错误预测负责([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.259]])。个体面对的 VUCA 环境成为新自由主义[[Governmentality|治理术]]远距组织全球教育的合法性基础。
+由此，[[Single-Case Design|SCD]] 框架中"关键技能和素养"的获取被呈现为**自然必然**（而非审慎选择）——一种持续的、开放的、高度竞争的追求，且没有人需要对错误预测负责([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.259]])。个体面对的 VUCA 环境成为[[Neoliberalism|新自由主义]][[Governmentality|治理术]]远距组织全球教育的合法性基础。
 
 > [!example] 与其他概念的关系
 > - vs **[[Fourth Industrial Revolution]]** — 4IR 为 VUCA 提供了技术变革叙事：自动化和数据交换的加速构成了 VUCA 条件的具体物质基础。4IR [[Discourse|话语]]将 VUCA 框定为客观环境，[[Single-Case Design\|SCD]] 则以技能获取作为唯一回应([[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka, 2022, pp.254, 264]])

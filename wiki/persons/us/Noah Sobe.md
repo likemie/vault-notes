@@ -11,10 +11,10 @@ cssclasses:
   - person-page
 nationality: "us"
 person_region: "us"
-person_related_count: 19
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "c. 1971"
 died: ""
 lifespan: "c. 1971–至今"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Student Mobility]]"
   - "[[Nationalism]]"
   - "[[Policy Mobility]]"
+  - "[[Neoliberalism]]"
   - "[[Postpositivism]]"
   - "[[Temporalization of Space]]"
   - "[[Paradigm]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-10
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -92,7 +93,7 @@ updated: 2026-11-15
 ---
 
 > [!claim] 核心思想
-> 索比的核心思想立足于反思现代教育研究中的时空预设与民族国家中心主义。在方法论上，他主张教育现象的“背景”是在全球[[Policy Mobility|政策流动]]、专业话语网络与本土制度实践的交织装配中动态生成的社会现实，超越了预先存在的客观地理或行政容器假定；在教育未来观上，他倡导将教育重新定性为全球共同利益，呼吁超越技术功利主义与新自由主义[[Human Capital Theory|人力资本]]框架，转向注重代际互惠与生态可持续的新社会契约。
+> 索比的核心思想立足于反思现代教育研究中的时空预设与民族国家中心主义。在方法论上，他主张教育现象的“背景”是在全球[[Policy Mobility|政策流动]]、专业话语网络与本土制度实践的交织装配中动态生成的社会现实，超越了预先存在的客观地理或行政容器假定；在教育未来观上，他倡导将教育重新定性为全球共同利益，呼吁超越技术功利主义与[[Neoliberalism|新自由主义]][[Human Capital Theory|人力资本]]框架，转向注重代际互惠与生态可持续的新社会契约。
 
 > [!citation-card] 大写背景作为动态交织过程
 > 背景要求研究者聚焦于对象与语境的关联性，考察它们如何获得意义、如何相互连接以及产生何种效应。背景属于不断重新编织的动态过程。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 531)]]

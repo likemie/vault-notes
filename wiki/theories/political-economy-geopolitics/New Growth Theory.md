@@ -7,7 +7,7 @@ aliases:
 summary: "将知识积累、技术创新与人力资本投资从传统外生假定转变为经济系统内生核心引擎的经济学理论。论证创意与知识具有非竞争性与收益递增特征，打破资本边际报酬递减规律；驱动全球教育治理向学习型经济、实用操作技能与终身学习全面转向。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 34
+theory_related_count: 35
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[STEM Education]]"
   - "[[Theoretical Knowledge]]"
   - "[[Research Question]]"
+  - "[[Neoliberalism]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Technology Transfer]]"
   - "[[National Competitive Advantage]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -124,7 +125,7 @@ updated: 2026-11-11
 ---
 
 > [!theory-use] 框架入口
-> - **[[Research Question|研究问题]]** 该理论适合解释为什么跨国教育政策在20世纪90年代中期后普遍发生新自由主义转型，以及为何各国课程与测评体系会从学科知识记忆转向跨学科[[21st Century Skills and Competencies Discourse|核心素养]]与技能。
+> - **[[Research Question|研究问题]]** 该理论适合解释为什么跨国教育政策在20世纪90年代中期后普遍发生[[Neoliberalism|新自由主义]]转型，以及为何各国课程与测评体系会从学科知识记忆转向跨学科[[21st Century Skills and Competencies Discourse|核心素养]]与技能。
 > - **分析对象与单位** 国际组织政策文本、国家教育与科技预算规划、高校[[Technology Transfer|技术转移]]机制、跨国学业测评体系。
 > - **需要的材料** [[OECD|经合组织]]与[[World Bank|世界银行]]官方报告、国家研发与教育投入占国内生产总值（GDP）比重、课程改革大纲、职业资格框架文件。
 > - **解释目标** 揭示国家如何通过调整教育投资结构与课程考核偏好，以迎合全球化[[Knowledge-Based Economy|知识经济]]对内生增长动力的制度诉求。

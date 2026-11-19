@@ -11,23 +11,44 @@ aliases:
 summary: "英国社会学家巴兹尔·伯恩斯坦（Basil Bernstein）提出的结构社会学分析理论，以权力划界形成的分类与控制分配构成的框架为双重视角，阐明学校课程形态与教学互动如何作为中介代码，将宏观权力结构转化为行动者的微观意识、知识取向与等级身份。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 8
-theory_related_level: 0
-theory_related_stars: "☆"
-theory_related_color: "#e5e7eb"
+theory_related_count: 30
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 tags:
   - theory/bernstein
   - theme/sociology-of-education
   - theme/curriculum
   - paradigm/critical
 related_concepts:
+  - "[[Alienation]]"
+  - "[[New Sociology of Education]]"
+  - "[[Discourse]]"
+  - "[[Recontextualization]]"
+  - "[[Champ]]"
+  - "[[Neoliberalism]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Critical Thinking]]"
   - "[[Curricular Form]]"
+  - "[[Epistemology]]"
+  - "[[The Sublime]]"
+  - "[[Research Question]]"
+  - "[[Homework]]"
+  - "[[Determinism]]"
+  - "[[Critical Pedagogy]]"
   - "[[Educational Meritocracy]]"
+  - "[[Habitus]]"
   - "[[Official Knowledge]]"
   - "[[Regulative and Instructional Discourse]]"
+  - "[[Didaktik]]"
 related_theories:
+  - "[[Knowledge Integration]]"
   - "[[Social Realism]]"
-related_methods: []
+related_methods:
+  - "[[Qualitative Observation]]"
+  - "[[Semi-structured Interview]]"
+  - "[[Classroom Observation]]"
+  - "[[Transcription in Qualitative Research]]"
 related_instruments: []
 related_persons:
   - "[[Basil Bernstein]]"
@@ -35,6 +56,7 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Lim_2015_CurricInq]]"
+  - "[[Argument_Lim_2013_APJE]]"
 confidence: high
 status: completed
 created: 2026-11-18
@@ -45,9 +67,9 @@ updated: 2026-11-19
 
 > [!theory-position] 理论定位
 > - **解释对象** 学校教育知识的组织结构、课堂传递互动形式与社会权力分配之间相互转换的符号中介法则。
-> - **理论问题** 回应传统再生产理论仅将学校视作外部阶级结构消极投射容器的缺陷，探究课程结构内部语法如何生成差异化主体认知取向。
+> - **理论问题** 回应传统再生产理论仅将学校视作外部阶级结构消极投射容器的缺陷，探究课程结构内部语法如何生成差[[Alienation|异化]]主体认知取向。
 > - **理论类型** 结构主义社会学解释框架与批判分析透镜。
-> - **知识位置** 承继埃米尔·涂尔干（Émile Durkheim）知识社会学与结构语言学传统，开创英国新教育社会学的符号控制与知识结构分支。
+> - **知识位置** 承继埃米尔·涂尔干（Émile Durkheim）知识社会学与结构语言学传统，开创英国[[New Sociology of Education|新教育社会学]]的符号控制与知识结构分支。
 
 > [!claim] 核心判断
 > 教学代码（Pedagogic Codes）是内隐习得的调节原则，通过知识边界的分类与教学控制的框架组合，规范特定情境中合法意义的选择、组织与实现，将社会阶级权力关系转化为学生差异化的意识结构与教学身份。[[Argument_Lim_2015_CurricInq|(Lim & Apple, 2015, pp. 476–477)]]
@@ -55,17 +77,17 @@ updated: 2026-11-19
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 英国社会学家巴兹尔·伯恩斯坦（Basil Bernstein）在 1971 年发表的《论教育知识的分类与框架》（*On the Classification and Framing of Educational Knowledge*）及后续专著《阶级、代码与控制》（*Class, Codes and Control*，第三卷，1975/1977）中确立核心体系。
+> - **提出者与原始文本** 英国社会学家[[Basil Bernstein|巴兹尔·伯恩斯坦]]（Basil Bernstein）在 1971 年发表的《论教育知识的分类与框架》（*On the Classification and Framing of Educational Knowledge*）及后续专著《阶级、代码与控制》（*Class, Codes and Control*，第三卷，1975/1977）中确立核心体系。
 > - **原初问题** 战后英国扩张中等教育后工人阶级子弟学业失败依然普遍，既有微观互动论缺乏宏观制度制约解释力，宏观对应论又无法剖析课堂内部黑箱。
-> - **理论资源与材料** 汲取涂尔干关于宗教生活基本形式中神圣与世俗的原初二元区分，结合结构语言学规则观念与伦敦大学教育学院社会学研究单元的多年田野观察。
+> - **理论资源与材料** 汲取涂尔干关于宗教生活基本形式中神圣与世俗的原初二元区分，结合结构语言学规则观念与伦敦大学教育学院社会学研究单元的多年[[Qualitative Observation|田野观察]]。
 > - **形成路径** 从早期的家庭语言代码（限制代码与精致代码）拓展至学校教育知识的宏观结构，抽象出跨越学科边界的分类维度与微观师生权力关系的框架维度，构筑代码转换模型。
 
 > [!dev-timeline] 理论版本与贡献
 > - **1971 — 原初模型确立** 提出强弱分类（Classification, C）与强弱框架（Framing, F）的形式化矩阵，划分聚集型代码（Collection Codes, $C^+/F^+$）与整合型代码（Integrated Codes, $C^-/F^-$）。
-> - **1977/1990 — 教育话语装置建构** 引入教育装置（Pedagogic Device）、再脉络化场域以及调节性话语支配教学性话语的命题，将分析由课程分类推进至国家意识形态生产。
-> - **1996/2000 — 知识结构与身份类型学** 出版《教学法、符号控制与认同》，提出水平与垂直知识结构理论，深化神圣知识与世俗知识在现代新自由主义知识经济下的身份建构机制。
+> - **1977/1990 — 教育[[Discourse|话语]]装置建构** 引入教育装置（Pedagogic Device）、[[Recontextualization|再脉络化]][[Champ|场域]]以及调节性话语支配教学性话语的命题，将分析由课程分类推进至国家意识形态生产。
+> - **1996/2000 — 知识结构与身份类型学** 出版《教学法、符号控制与认同》，提出水平与垂直知识结构理论，深化神圣知识与世俗知识在现代[[Neoliberalism|新自由主义]][[Knowledge-Based Economy|知识经济]]下的身份建构机制。
 > - **2013 — 初等教育隐性教学批判应用** 莱昂·林（Leonel Lim）运用隐性教学与传播语码理论剖析新加坡小学均等化改革，揭示以儿童发展理论为依托的探究教学与过程性评价对工薪家庭施加的隐性门槛。[[Argument_Lim_2013_APJE|(Lim, 2013, pp. 11–13)]]
-> - **2015 — 精英学校思维课程分析应用** 运用教学代码矩阵剖析新加坡批判性思维教学，证实精英学校依托强分类弱框架涵育自恋理性，主流学校依托弱分类强框架生产工具理性。[[Argument_Lim_2015_CurricInq|(Lim & Apple, 2015, pp. 473–475)]]
+> - **2015 — 精英学校思维课程分析应用** 运用教学代码矩阵剖析新加坡[[Critical Thinking|批判性思维]]教学，证实精英学校依托强分类弱框架涵育自恋理性，主流学校依托弱分类强框架生产工具理性。[[Argument_Lim_2015_CurricInq|(Lim & Apple, 2015, pp. 473–475)]]
 
 ---
 
@@ -84,10 +106,10 @@ updated: 2026-11-19
 ---
 
 > [!theory-proposition] 命题一｜结构权力的分类强度决定知识边界的绝缘程度与专门化规则
-> 分类指涉知识范畴之间的边界关系。强分类（$C^+$）维持各学科之间严密的绝缘界线，赋予各学科独立自主的内部专门化规则，维护知识纯粹性；弱分类（$C^-$）削弱边界绝缘，模糊学科分界，形成跨学科渗透或知识整合形态。分类强度直接反映宏观权力关系在教育系统中的划界原则。[[Argument_Lim_2015_CurricInq|(Lim & Apple, 2015, p. 477)]]
+> 分类指涉知识范畴之间的边界关系。强分类（$C^+$）维持各学科之间严密的绝缘界线，赋予各学科独立自主的内部专门化规则，维护知识纯粹性；弱分类（$C^-$）削弱边界绝缘，模糊学科分界，形成跨学科渗透或[[Knowledge Integration|知识整合]]形态。分类强度直接反映宏观权力关系在教育系统中的划界原则。[[Argument_Lim_2015_CurricInq|(Lim & Apple, 2015, p. 477)]]
 
 > [!example|notitle]
-> 在精英学校的四年制哲学课程中，批判性思维作为独立学科单独设课（强分类），拥有专属的逻辑学、伦理学与认识论知识架构；在普通邻里中学，批判性思维被分散融入化学、历史等常规科目（弱分类），缺失了独立的方法论边界。[[Argument_Lim_2015_CurricInq|(Lim & Apple, 2015, pp. 479–481)]]
+> 在精英学校的四年制哲学课程中，批判性思维作为独立学科单独设课（强分类），拥有专属的逻辑学、伦理学与[[Epistemology|认识论]]知识架构；在普通邻里中学，批判性思维被分散融入化学、历史等常规科目（弱分类），缺失了独立的方法论边界。[[Argument_Lim_2015_CurricInq|(Lim & Apple, 2015, pp. 479–481)]]
 
 > [!theory-proposition] 命题二｜教学互动的框架强度规范师生对传递过程与评价准则的控制权分配
 > 框架指涉教学情境内部的控制关系，具体体现在教学内容的选择（Selection）、时序（Sequence）、步调（Pacing）与评价准则（Criteria）四个维度。强框架（$F^+$）体现教师对教学过程保持显性主导，评价标准明确清晰且外在于学生；弱框架（$F^-$）赋予学生更多关于讨论议题、探究节奏的自决权，评价准则高度内隐，依托学生反思与领悟加以掌握。[[Argument_Lim_2015_CurricInq|(Lim & Apple, 2015, pp. 477–478)]]
@@ -105,14 +127,14 @@ updated: 2026-11-19
 > 教育知识具有明确的社会价值导向。以强分类弱框架组织的课程将知识塑造成超脱于外在经济诉求的神圣知识，培养学生将思维视作内在召命与自恋理性的主体意识，生成领导者与学术阶层认同；以弱分类强框架组织的课程将知识置于应对外部市场任务的世俗知识轨道，培养学生作为执行工具的劳动力身份，生成顺从市场调遣的知识工人认同。[[Argument_Lim_2015_CurricInq|(Lim & Apple, 2015, pp. 484–485)]]
 
 > [!example|notitle]
-> 精英高中学生通过哲学同行评议量规内化清晰度与严密性标准，建构起以理性思考者为核心的崇高自我认同与社会责任感；主流中学学生将批判性思维当作考试解答难题的应对步骤，视知识为换取就业资格的消费性资本。[[Argument_Lim_2015_CurricInq|(Lim & Apple, 2015, pp. 481–485)]]
+> 精英高中学生通过哲学同行评议量规内化清晰度与严密性标准，建构起以理性思考者为核心的[[The Sublime|崇高]]自我认同与社会责任感；主流中学学生将批判性思维当作考试解答难题的应对步骤，视知识为换取就业资格的消费性资本。[[Argument_Lim_2015_CurricInq|(Lim & Apple, 2015, pp. 481–485)]]
 
 ---
 
 > [!theory-use] 框架入口
-> - **研究问题** 探究特定课程大纲、教材设计、课堂互动与评价制度如何体现权力划界与控制原则，揭示教育分流背后的意识形态再生产。
-> - **分析对象与单位** 课程政策文本、学科大纲、课堂师生师训实录、作业与考题设计、师生半结构化访谈。
-> - **需要的材料** 课堂观察转录文本、详细教案、考核量规、官方课程标准。
+> - **[[Research Question|研究问题]]** 探究特定课程大纲、教材设计、课堂互动与评价制度如何体现权力划界与控制原则，揭示教育分流背后的意识形态再生产。
+> - **分析对象与单位** 课程政策文本、学科大纲、课堂师生师训实录、[[Homework|作业]]与考题设计、师生[[Semi-structured Interview|半结构化访谈]]。
+> - **需要的材料** [[Classroom Observation|课堂观察]][[Transcription in Qualitative Research|转录]]文本、详细教案、考核量规、官方课程标准。
 > - **解释目标** 诊断具体教育实践所依循的教学代码矩阵形态（$C^{\pm}/F^{\pm}$），评估其所培育的教学身份与潜在阶层流动效应。
 
 > [!theory-framework] 命题如何转化为分析维度
@@ -138,11 +160,11 @@ updated: 2026-11-19
 
 > [!debates] 理论争议
 >
-> > [!axis] 代码结构的决定论倾向与行动者能动空间
+> > [!axis] 代码结构的[[Determinism|决定论]]倾向与行动者能动空间
 > > 结构主义代码分析是否压缩了师生在微观互动中的能动突围可能。
 > >
 > > - **伯恩斯坦学派** 代码矩阵揭示的是符号控制的深层语法，微观协商与抵抗若未能改变底层分类框架，终将再生产既有结构。
-> > - **批判教育学者** 认为伯恩斯坦理论带有过强的结构预设，低估了被压迫阶层在日常实践中重构代码的文化生产潜能。
+> > - **[[Critical Pedagogy|批判教育学]]者** 认为伯恩斯坦理论带有过强的结构预设，低估了被压迫阶层在日常实践中重构代码的文化生产潜能。
 
 ---
 
@@ -151,7 +173,7 @@ updated: 2026-11-19
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Curricular Form]] | 概念 | 课程形态是教学代码的具体化结构呈现，承载分类与框架原则的运作。 |
-> | [[Educational Meritocracy]] | 概念 | 教学代码的阶层分化使得形式平等的功绩选拔将阶级惯习误认为个人才能。 |
+> | [[Educational Meritocracy]] | 概念 | 教学代码的阶层分化使得形式平等的功绩选拔将阶级[[Habitus\|惯习]]误认为个人才能。 |
 > | [[Official Knowledge]] | 概念 | 教学代码规制国家官方知识的选择、分配与等级化传递。 |
 > | [[Regulative and Instructional Discourse]] | 概念 | 教学话语深嵌于调节性话语之中，代码同时传递知识技能与社会等级秩序。 |
 > | [[Social Realism]] | 理论 | 伯恩斯坦后继学者发展出的知识社会学阵地，主张捍卫高深学科知识的强分类地位。 |
@@ -161,5 +183,5 @@ updated: 2026-11-19
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Lim_2013_APJE|Lim (2013)]] — 运用伯恩斯坦隐性教学理论剖析新加坡小学均等化改革，揭示以儿童发展理论为依托的探究教学与质性评价对工薪家庭施加的隐性门槛。
+> - [[Argument_Lim_2013_APJE|Lim (2013)]] — 运用伯恩斯坦隐性[[Didaktik|教学理论]]剖析新加坡小学均等化改革，揭示以儿童发展理论为依托的探究教学与质性评价对工薪家庭施加的隐性门槛。
 > - [[Argument_Lim_2015_CurricInq|Lim and Apple (2015)]] — 运用教学代码理论对比新加坡主流公立中学与顶尖独立精英高中的思维课程，揭示课程形态在建构世俗与神圣阶级身份中的决定性作用。

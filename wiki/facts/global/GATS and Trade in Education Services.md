@@ -11,7 +11,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 34
+fact_related_count: 36
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Student Mobility]]"
+  - "[[Neoliberalism]]"
   - "[[State Educational Sovereignty]]"
   - "[[Transnational Education]]"
   - "[[Liberalization]]"
@@ -55,6 +56,7 @@ related_theories:
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Randall Collins]]"
   - "[[Robert Arnove]]"
 related_facts:
   - "[[World Trade Organization]]"
@@ -68,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-10
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -82,7 +84,7 @@ updated: 2026-11-15
 ---
 
 > [!claim] 政策核心
-> GATS 是当代国际经贸治理中首个将教育服务纳入多边法律约束的协定；它将教育重新定义为受商业供求规律驱动的跨境服务产品，通过四大供给模式推进跨国市场准入与国民待遇，为新自由主义教育改革确立了全球合法性框架，并对发展中国家的[[State Educational Sovereignty|国家教育主权]]形成了深层的多标度规训。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]; [[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 97–98)]]
+> GATS 是当代国际经贸治理中首个将教育服务纳入多边法律约束的协定；它将教育重新定义为受商业供求规律驱动的跨境服务产品，通过四大供给模式推进跨国市场准入与国民待遇，为[[Neoliberalism|新自由主义]]教育改革确立了全球合法性框架，并对发展中国家的[[State Educational Sovereignty|国家教育主权]]形成了深层的多标度规训。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]; [[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 97–98)]]
 
 > [!policy-design] 政策设计
 > - **政策目标** 消除各国在[[Transnational Education|跨境教育]]服务准入与运营方面的制度壁垒，推动文凭学历互认，促进教育资本跨国流动与国际服务贸易逐步[[Liberalization|自由化]]。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
@@ -106,7 +108,7 @@ updated: 2026-11-15
 > - **1995 — GATS 正式生效** 随着 [[World Trade Organization|WTO]] 成立，GATS 正式生效，全球近 40 个成员国在教育服务部门提交了初步市场准入减让承诺。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 > - **2000 年代初 — 多哈回合谈判与商业化激化** WTO 推动新一轮多边服务谈判，促使各成员进一步扩大高等教育和成人教育的市场开放；欧美主要出口国将[[International Education|国际教育]]作为核心服务贸易出口支柱。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 97–98)]]
 > - **2002 — 多标度空间治理理论破题** 罗伯逊、博纳尔与戴尔（Robertson, Bonal, & Dale, 2002）发表权威研究，揭示 GATS 在教育服务产业中构建的多标度空间治理网络与全球再领土化逻辑。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
-> - **2007 — 新帝国主义学术批评高涨** 柯林斯（Collins, 2007）等学者系统批判 GATS 为西方大国维持在第三世界的智识统治与市场掠夺开辟了合法性通道。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, p. 97)]]
+> - **2007 — 新帝国主义学术批评高涨** [[Randall Collins|柯林斯]]（Collins, 2007）等学者系统批判 GATS 为西方大国维持在第三世界的智识统治与市场掠夺开辟了合法性通道。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, p. 97)]]
 > - **2009 — [[Robert Arnove|阿诺夫]]揭示主权不对称分化** 阿诺夫（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）指出 GATS 导致发展中大国与脆弱小国陷入极不平等的自主权鸿沟，小国在世贸规程面前宏观调控主权严重丧失。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
 
 ---

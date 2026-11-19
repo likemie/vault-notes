@@ -33,6 +33,7 @@ related_concepts:
   - "[[Transnational Education]]"
   - "[[Paradigm]]"
   - "[[Internationalization of Higher Education]]"
+  - "[[Neoliberalism]]"
   - "[[Knowledge-Based Economy]]"
   - "[[South-South Cooperation]]"
   - "[[Academic Achievement]]"
@@ -65,14 +66,14 @@ sources:
 part_of:
 status: draft
 created: 2026-10-20
-updated: 2026-11-11
+updated: 2026-11-19
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Liu_2025_IndHE"
 argument_key: "Argument_Liu_2025_IndHE"
 argument_display_title: "International higher education as knowledge diplomacy: The role of Chinese universities in China’s belt and road initiative"
 argument_kind: "journal-article"
-argument_related_count: 31
+argument_related_count: 32
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -153,7 +154,7 @@ issuing_organization: ""
 
 > [!sub-claim] 1. 单向争夺主导权的权力逻辑无法解释减贫与缩小差距的教育援助
 
-全球[[Internationalization of Higher Education|高等教育国际化]]长期受新自由主义竞争逻辑驱使，过度强调争夺世界[[Knowledge-Based Economy|知识经济]]制高点，无力应对贫困、气候变化与发展失衡等紧迫的全球共同挑战。
+全球[[Internationalization of Higher Education|高等教育国际化]]长期受[[Neoliberalism|新自由主义]]竞争逻辑驱使，过度强调争夺世界[[Knowledge-Based Economy|知识经济]]制高点，无力应对贫困、气候变化与发展失衡等紧迫的全球共同挑战。
 
 > [!contrast-table] [[Knowledge Power|知识权力]]与知识外交的核心差异（Chou & Demiryol, 2023）
 > | 比较维度 | 知识权力（[[Knowledge Power]]） | 知识外交（[[Knowledge Diplomacy]]） |

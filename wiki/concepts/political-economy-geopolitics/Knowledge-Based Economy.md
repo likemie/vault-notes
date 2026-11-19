@@ -7,9 +7,9 @@ aliases:
 summary: "以知识、创新、高等教育、研发与高阶思维技能作为价值创造与全球竞争核心要素的经济形态；在技术自动化与AI浪潮下，其战略重心从静态专业知识转向高阶认知能力，但面临宏观政策宣示与微观学业评价滞后的深层制度悖论。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 107
-related_level: 10
-related_stars: "💎💎💎⭐"
+related_count: 118
+related_level: 11
+related_stars: "💎💎💎⭐⭐"
 related_color: "#ddd6fe"
 tags:
   - theme/knowledge-based-economy
@@ -43,11 +43,14 @@ related_concepts:
   - "[[Further Education]]"
   - "[[Employability]]"
   - "[[Self-Entrepreneur]]"
+  - "[[Alienation]]"
+  - "[[Social Engagement]]"
   - "[[Learning Gain]]"
   - "[[Constructive Alignment]]"
   - "[[Network Governance]]"
   - "[[Epistemology]]"
   - "[[Market Fundamentalism]]"
+  - "[[Neoliberalism]]"
   - "[[Constructed Knowledge]]"
   - "[[Social Imaginary]]"
   - "[[Economic Fundamentalism]]"
@@ -62,6 +65,8 @@ related_concepts:
   - "[[Intellectual Capital]]"
   - "[[National Innovation System]]"
   - "[[STEM Education]]"
+  - "[[Technology Infusion]]"
+  - "[[Ability-Driven Education]]"
   - "[[European Education Space]]"
   - "[[International Education Hubs]]"
   - "[[Technology Transfer]]"
@@ -73,9 +78,11 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Domain Specificity]]"
   - "[[Heterogeneity]]"
+  - "[[Tactical Marketisation]]"
+  - "[[Credential Inflation]]"
+  - "[[Soft Power]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Theoretical Perspective]]"
-  - "[[Alienation]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Pasteur's Quadrant]]"
@@ -83,6 +90,7 @@ related_theories:
   - "[[New Growth Theory]]"
   - "[[Panopticism]]"
   - "[[Systems of Innovation]]"
+  - "[[Developmental State]]"
   - "[[Triple Helix]]"
   - "[[Cultural Political Economy]]"
 related_methods:
@@ -94,6 +102,7 @@ related_methods:
 related_instruments:
   - "[[Collegiate Learning Assessment]]"
 related_persons:
+  - "[[Yajun Zheng]]"
   - "[[Fred Block]]"
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
@@ -112,7 +121,9 @@ related_facts:
   - "[[Melbourne Declaration]]"
   - "[[UNESCO]]"
   - "[[PISA]]"
+  - "[[Thinking Schools, Learning Nation]]"
   - "[[Bologna Process]]"
+  - "[[Teach Less, Learn More]]"
   - "[[UAE Education Hub Projects]]"
 related_arguments:
   - "[[Argument_Moisio_2022_Springer]]"
@@ -135,7 +146,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-07
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -217,7 +228,7 @@ updated: 2026-11-18
 > **[[21st Century Skills and Competencies Discourse|21世纪技能]]话语是KBE在个体层面的[[Operationalization|操作化]]机制** KBE 逻辑将知识界定为增长源泉，而 21 世纪技能话语（Skills and Competencies Discourse, [[Single-Case Design|SCD]]）则将宏观经济需求转化为个体必须终身获取的技能清单；知识生命周期的缩短驱动了[[Further Education|继续教育]]与企业培训的常态化，将劳动者规训为对自身[[Employability|就业力]]负全责的“[[Self-Entrepreneur|自我企业家]]”。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, pp. 259–260)]]; [[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, p. 179)]]
 
 > [!claim] [[Argument_Zheng_2023_ShanghaiSanlian_Ch04|Zheng, Y.]] & Brown and Hesketh (2004)
-> **文凭贬值与相对就业力排位异化** 郑雅君（[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|2023, 第四章]]，引 Brown & Hesketh, 2004）指出，在知识经济与高等教育大众化背景下，高校毕业证书在劳动力市场中退化为基准门槛；雇主筛选不可逆地转向对求职者软技能、经历包装与自我呈现的相对排序竞争，促使大学生将精力大规模从课程学习转向课外社会性投入与履历积累。
+> **文凭贬值与相对就业力排位[[Alienation|异化]]** [[Yajun Zheng|郑雅君]]（[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|2023, 第四章]]，引 Brown & Hesketh, 2004）指出，在知识经济与高等教育大众化背景下，高校毕业证书在劳动力市场中退化为基准门槛；雇主筛选不可逆地转向对求职者软技能、经历包装与自我呈现的相对排序竞争，促使大学生将精力大规模从课程学习转向课外[[Social Engagement|社会性投入]]与履历积累。
 
 ---
 
@@ -233,7 +244,7 @@ updated: 2026-11-18
 > **治理网络化与虚构商品悖论** 知识经济的创新[[Epistemology|认识论]]特征打破了科层指令和自由放任的神话，要求国家充当网络经纪人；然而[[Market Fundamentalism|市场原教旨主义]]对知识产权的极端私有化反向构筑了合作壁垒。
 
 > [!claim] [[Argument_Block_2008_PS|Block (2008)]]
-> **[[Network Governance|网络治理]]转型与虚构商品反协同效应** [[Fred Block|弗雷德·布洛克]]指出，在后工业知识经济中，技术突破深植于基础探索与应用目标高度互嵌的[[Pasteur's Quadrant|巴斯德象限]]，超越了线性的流水线与孤立的企业实验室范畴。这种极度不可预测性打破了中央政府自上而下挑选赢家的东亚科层指令模式，也打破了假定企业依靠自发市场即可完成高风险研发的新自由主义教条，内生驱动国家向去中心化专业机构协同的[[Developmental Network State|发展型网络国家]]转型。然而，在[[Market Fundamentalism|市场原教旨主义]]意识形态裹挟下，知识经济体制将知识这一波兰尼意义上的“虚构商品”极端商品化，推行激进的排他性知识产权占有。这种激进产权逻辑构筑了严重的制度壁垒：合作各方因担忧研发成果被潜在合作方独占，而在立项谈判中陷入长期防范与僵局，阻碍了跨组织联合科研攻关的启动，反向侵蚀了知识经济赖以繁荣的开放协同生态。[[Argument_Block_2008_PS|(Block, 2008, pp. 171–176, 195–198)]]
+> **[[Network Governance|网络治理]]转型与虚构商品反协同效应** [[Fred Block|弗雷德·布洛克]]指出，在后工业知识经济中，技术突破深植于基础探索与应用目标高度互嵌的[[Pasteur's Quadrant|巴斯德象限]]，超越了线性的流水线与孤立的企业实验室范畴。这种极度不可预测性打破了中央政府自上而下挑选赢家的东亚科层指令模式，也打破了假定企业依靠自发市场即可完成高风险研发的[[Neoliberalism|新自由主义]]教条，内生驱动国家向去中心化专业机构协同的[[Developmental Network State|发展型网络国家]]转型。然而，在[[Market Fundamentalism|市场原教旨主义]]意识形态裹挟下，知识经济体制将知识这一波兰尼意义上的“虚构商品”极端商品化，推行激进的排他性知识产权占有。这种激进产权逻辑构筑了严重的制度壁垒：合作各方因担忧研发成果被潜在合作方独占，而在立项谈判中陷入长期防范与僵局，阻碍了跨组织联合科研攻关的启动，反向侵蚀了知识经济赖以繁荣的开放协同生态。[[Argument_Block_2008_PS|(Block, 2008, pp. 171–176, 195–198)]]
 
 ---
 
@@ -276,7 +287,7 @@ updated: 2026-11-18
 > - **十九世纪先驱 — [[Friedrich List]] 国家[[Systems of Innovation|创新系统]]萌芽** List《政治经济学的国家系统》（1841）主张国家必须通过有组织的技术教育、科研与长期产业政策拓展知识优势，奠定[[National Innovation System|国家创新系统]]的知性根源。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 22)]]
 > - **二战后奠基（1950s–1970s） — 知识劳动者与后工业理论** Drucker（1959/1969）提出“知识型雇员”（Knowledge Worker）；Bell（1973）阐述[[Theoretical Knowledge|理论知识]]在后工业主义中的核心地位；人造卫星危机（1957）促使 [[OECD]] 将 [[STEM Education|STEM]] 教育与国家地缘经济[[Competitiveness|竞争力]]深度绑定。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]
 > - **经济学理论化（1980s–1990s） — 内生增长与新自由主义全球化** Romer（1986）[[New Growth Theory|内生增长理论]]将知识与[[Human Capital Theory|人力资本]]确立为不受边际收益递减限制的内生动力；世界银行（1991）与 OECD（1996）正式将 KBE [[Discourse|话语]]确立为全球教育与经济政策主导典范。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 23)]]
-> - **1997 — 亚洲东亚发展型体系响应知识经济转型** 面对全球知识经济与技术变革冲击，新加坡官方宣布“思考型学校，学习型国家”（TSLN）愿景，削减课程大纲以赋能信息技术整合与高阶思维培养，开启能力驱动型教育阶段，展现了东亚发展型国家在维持严格应试问责的同时主动适应知识经济的混合政策折射。[[Argument_Deng_2016_CE|(Goh, 1997; Deng & Gopinathan, 2016)]]
+> - **1997 — 亚洲东亚发展型体系响应知识经济转型** 面对全球知识经济与技术变革冲击，新加坡官方宣布“[[Thinking Schools, Learning Nation|思考型学校，学习型国家]]”（TSLN）愿景，削减课程大纲以赋能信息[[Technology Infusion|技术整合]]与高阶思维培养，开启[[Ability-Driven Education|能力驱动型教育]]阶段，展现了东亚[[Developmental State|发展型国家]]在维持严格应试问责的同时主动适应知识经济的混合政策折射。[[Argument_Deng_2016_CE|(Goh, 1997; Deng & Gopinathan, 2016)]]
 > - **发展型[[Network Governance|网络治理]]与虚构商品批判（2000s–2008） — 跨组织协同与产权反思** [[Fred Block|弗雷德·布洛克]]基于美国《R&D 100》大奖纵向追踪证实，后工业知识经济的突破性创新已从单一企业封闭研发转向由大学、联邦实验室与企业构成的跨组织网络，确立了去中心化[[Developmental Network State|发展型网络国家]]在[[Pasteur's Quadrant|巴斯德象限]]中的中介功能；同时从卡尔·波兰尼（Karl Polanyi）虚构商品视角批判了激进知识产权占有对开放科学与跨界研发协作的制度性反噬。[[Argument_Block_2008_PS|(Block, 2008, pp. 171–176, 195–198)]]
 > - **2009 — 超国家软法数据治理与成人生活技能转向** 索蒂里亚·格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, pp. 26–27, 32–35]]）基于[[European Education Space|欧洲教育空间]]经验揭示知识经济下的两重治理机制：欧盟在[[Lisbon Strategy|里斯本战略]]下通过开放协调法与采购经合组织数据实施软法治理，突破辅助性原则限制；同时大规模跨国测评跳过具体课程大纲，直接考核面向成人市场的生活技能与终身学习自我调节，推动个体在知识经济中承担自我优化的终身责任。
 > - **2009 — 超国家全景敞视式知识经济规训批判** 帕西亚斯与鲁萨基斯解构里斯本战略，揭示知识被定义为易耗商品后，超国家实体如何依托开放协调法构筑全景敞视式软法监视体系，将成员国教育体系规训为知识经济竞争工具。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480–482, 486–487)]]
@@ -346,8 +357,8 @@ updated: 2026-11-18
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 追溯新加坡“思考型学校，学习型国家”如何推动教育向能力驱动转型，揭示发展型国家在知识经济诉求与高利害分流问责之间构建的混合调和机制。
 > - [[Argument_Lim_2015_CurricInq|Lim and Apple (2015)]] — 揭示新自由主义知识经济话语在微观学校层面的阶层化分异，批判性思维虽被标榜为全体国民应对知识经济的必备素养，但在实践中被分化为精英掌控理性与工薪阶层应试规训技术。
-> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 阐明新加坡强发展型国家在知识经济转型中如何推行战术性市场化与少教多学改革，揭示制度放权与升学统考刚性之间的结构性悖论。
-> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch04|郑雅君 (2023, 第四章)]] — 揭示知识经济与文凭通胀下劳动力市场筛选从文凭硬指标向经历管理与软实力呈现的结构性转移。
+> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 阐明新加坡强发展型国家在知识经济转型中如何推行[[Tactical Marketisation|战术性市场化]]与[[Teach Less, Learn More|少教多学]]改革，揭示制度放权与升学统考刚性之间的结构性悖论。
+> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch04|郑雅君 (2023, 第四章)]] — 揭示知识经济与[[Credential Inflation|文凭通胀]]下劳动力市场筛选从文凭硬指标向经历管理与[[Soft Power|软实力]]呈现的结构性转移。
 > - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 考察中国[[Internationalization of Higher Education|高等教育国际化]]政策与长三角、粤港澳、海南三大教育枢纽，阐述跨境高等教育如何嵌入区域创新体系并推动知识经济转型。
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — [[OECD]] 国际报告，系统论证知识经济与技术自动化背景下，高等教育如何通过五大政策支柱重构[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]的评价生态。
 > - [[Argument_Block_2008_PS|Block (2008)]] — 从经济社会学与国家[[Theoretical Perspective|理论视角]]解构后工业知识经济的非线性创新特征，论证[[Developmental Network State|发展型网络国家]]与去中心化协同的必然性，并以波兰尼虚构商品理论反思知识极端商品化对跨组织科研协作的制度反噬。

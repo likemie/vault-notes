@@ -8,7 +8,7 @@ aliases:
 summary: "由多个主权国家共同创立持股的超国家开发性金融机构；其金融本质是依托发达出资国的最高信用评级在国际债券市场极低息筹集资金、以保本微利原则向发展中借款国发放长期优惠贷款的主权信用合作社；在教育治理中，其通过信贷资金注入、对等资金绑定、政策附加条件与技术建议施加深层影响，但深陷繁琐官僚报销与评估重投入轻产出的执行困境。"
 type: concept
 domain: "comparative-education"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,6 +21,7 @@ tags:
   - policy-borrowing
 related_concepts:
   - "[[Counterpart Funds]]"
+  - "[[Neoliberalism]]"
   - "[[International Education]]"
   - "[[Policy Conditionalities]]"
   - "[[Foundational Literacy and Numeracy]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -65,7 +66,7 @@ updated: 2026-11-15
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种将全球私人资本市场充裕流动性与主权国家信用担保相结合、以项目信贷契约撬动后发国家公共部门体制重塑的跨国制度载体。
-> - **用途** 帮助比较教育学与国际政治经济学学者穿透关于“国际援助”的慈善神话与“新自由主义阴谋”的抽象指控，从资金来源、筹资手段、违约惩罚机制与官僚官制运行逻辑准确理解超国家机构的真实行为。
+> - **用途** 帮助比较教育学与国际政治经济学学者穿透关于“国际援助”的慈善神话与“[[Neoliberalism|新自由主义]]阴谋”的抽象指控，从资金来源、筹资手段、违约惩罚机制与官僚官制运行逻辑准确理解超国家机构的真实行为。
 > - **边界** 严格区别于依靠出资国财政直接拨款、以无偿赠款或软贷款为主的信托基金与双边援助（如[[International Development Association|国际开发协会]] IDA 窗口或日本无偿援助），常规多边银行借款必须无条件足额还本付息；亦有别于仅提供短期国际收支危机救助的[[International Monetary Fund|国际货币基金组织]]（IMF）。
 
 > [!citation-card] 多边开发银行的金融魔术与主权信用合作社本质

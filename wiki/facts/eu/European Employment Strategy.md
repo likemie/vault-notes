@@ -8,7 +8,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Employability]]"
   - "[[Open Method of Coordination]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Neoliberalism]]"
   - "[[Subsidiarity Principle]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-28
-updated: 2026-10-30
+updated: 2026-11-19
 ---
 
 ---
@@ -108,7 +109,7 @@ updated: 2026-10-30
 > > 争论聚焦于就业战略将教育全面绑定于经济指标，是否侵蚀了教育培养全人与维系社会公平的本质功能。
 > >
 > > - **欧盟委员会（1997）** 认为在[[Knowledge-Based Economy|知识经济]]冲击下，将教育转型为就业防线与人力资本投资是抵御失业与实现社会凝聚的唯一途径。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 482, 484)]]
-> > - **[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]]** 批判指出四大支柱体现了新自由主义的技术官僚逻辑，使教育沦为服从弹性资本主义生产关系的工具性附庸。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 484–486)]]
+> > - **[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]]** 批判指出四大支柱体现了[[Neoliberalism|新自由主义]]的技术官僚逻辑，使教育沦为服从弹性资本主义生产关系的工具性附庸。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 484–486)]]
 
 ---
 

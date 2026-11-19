@@ -7,7 +7,7 @@ aliases:
 summary: "20世纪初发端于德语区及北欧、并在1960–1970年代被批判教育学者重新激活的教育革新思潮，主张打破传统自上而下的漏斗注入式教学与国家官僚规训，立足儿童内在生命经验倡导问题导向、跨学科小组合作与民主自决。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Learnification]]"
+  - "[[Neoliberalism]]"
   - "[[Mnemonic Strategies]]"
   - "[[Learning by Doing]]"
   - "[[Rote Learning]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-18
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -74,7 +75,7 @@ updated: 2026-11-15
 
 > [!boundary]- 概念边界
 > - 不等于 [[Progressive Education|进步主义教育]] — 进步主义教育主要是以美国为主战场的教育改革运动，侧重[[Pragmatic Paradigm|实用主义]]与民主社会的社会化功能；改革教育学则是其欧洲对偶形态，更深地交织了德奥北欧的教化哲学、范型教学论以及反抗国家集权主义的文化批判传统。
-> - 不等于 [[Learnification|学习化]] — 改革教育学中的“学习”强调自决与社会正义，而新自由主义的“学习化”则剥离了教学内容与教育目的，将师生矮化为促学员与消费客户。
+> - 不等于 [[Learnification|学习化]] — 改革教育学中的“学习”强调自决与社会正义，而[[Neoliberalism|新自由主义]]的“学习化”则剥离了教学内容与教育目的，将师生矮化为促学员与消费客户。
 
 ---
 

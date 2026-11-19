@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: australia
 person_region: "australia"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Document]]"
   - "[[Epistemic Governance]]"
+  - "[[Neoliberalism]]"
   - "[[Performance Indicators]]"
 related_theories: []
 related_methods:
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-23
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 # Martin Ravallion
@@ -125,7 +126,7 @@ updated: 2026-11-15
 > > [!axis] 全球绝对贫困线的购买力平价争议
 > > 学界围绕拉瓦利安确立的单一美元绝对贫困线是否低估了全球真实贫困程度的论战。
 > >
-> > - **批评学者观点** 托马斯·博格（Thomas Pogge）与桑贾伊·雷迪（Sanjay Reddy）批评指出，基于购买力平价折算的 1 美元贫困线存在严重的方法学缺陷，严重低估了基础食物与生存必需品在低收入国家的真实物价水平，粉饰了新自由主义全球化的负面效应。
+> > - **批评学者观点** 托马斯·博格（Thomas Pogge）与桑贾伊·雷迪（Sanjay Reddy）批评指出，基于购买力平价折算的 1 美元贫困线存在严重的方法学缺陷，严重低估了基础食物与生存必需品在低收入国家的真实物价水平，粉饰了[[Neoliberalism|新自由主义]]全球化的负面效应。
 > > - **拉瓦利安反驳分析** 拉瓦利安发表多项实证反驳，强调全球贫困线立足于世界上最贫困国家的国家贫困线均值，具备高度的跨国购买力一致性，是进行宏观趋势追踪唯一可行的客观基准。
 
 ---

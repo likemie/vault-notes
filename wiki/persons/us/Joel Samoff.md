@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 33
+person_related_count: 34
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Structural Adjustment Programs]]"
   - "[[Policy Borrowing]]"
   - "[[Knowledge Production]]"
+  - "[[Neoliberalism]]"
   - "[[Theoretical Perspective]]"
   - "[[Policy Conditionalities]]"
   - "[[Researching Up and Researching Down]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-28
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -104,7 +105,7 @@ updated: 2026-11-15
 ---
 
 > [!claim] 核心思想
-> 萨莫夫的核心思想在于**彻底揭露国际资本与技术官僚通过垄断[[Knowledge Production|知识生产]]实施的新型跨国统识**。他指出，以[[World Bank|世界银行]]为代表的国际金融组织绝非中立的资金借贷通道，而是一个高度一体化的[[Financial-Intellectual Complex|金融-智识复合体]]：它通过长期高薪聘用符合其意识形态的受雇专家，独尊新古典经济学的成本收益与生均收益率模型，将具有强烈阶级偏向的新自由主义紧缩处方包装为“客观唯一真理”，进而剥夺了全球南方国家自主定义教育发展优先级的制度主权。
+> 萨莫夫的核心思想在于**彻底揭露国际资本与技术官僚通过垄断[[Knowledge Production|知识生产]]实施的新型跨国统识**。他指出，以[[World Bank|世界银行]]为代表的国际金融组织绝非中立的资金借贷通道，而是一个高度一体化的[[Financial-Intellectual Complex|金融-智识复合体]]：它通过长期高薪聘用符合其意识形态的受雇专家，独尊新古典经济学的成本收益与生均收益率模型，将具有强烈阶级偏向的[[Neoliberalism|新自由主义]]紧缩处方包装为“客观唯一真理”，进而剥夺了全球南方国家自主定义教育发展优先级的制度主权。
 
 > [!citation-card] 世界银行放贷逻辑中技术官僚工具理性的铁板一块
 > 世界银行的分析逻辑绝不能被定性为[[Pluralism|多元主义]]。尽管不可避免地存在紧张与矛盾，但该组织在整体运作上是高度铁板一块的。虽然世界银行内部研究人员可能持有不同[[Theoretical Perspective|理论视角]]，但在其实际放贷情境中，其组织的政策逻辑被冷酷无情地严格执行，负责放贷的管理官员与从事理论实证探讨的研究人员之间存在巨大断裂，技术官僚工具理性始终凌驾于历史与政治情境之上。[[Argument_Olmos_Torres_2009_StateTheories|(Samoff, 1992, 1993; Olmos & Torres, 2009, p. 81)]]

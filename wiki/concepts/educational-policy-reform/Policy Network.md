@@ -12,7 +12,7 @@ aliases:
 summary: "由政府部门、中介组织、智库、高校与私有资本等多元行动者交织构成的网状治理结构。在批判政策社会学中揭示国家作为市场缔造者与私营中介协同重构再分配与理念编排的异层治理，在实证治理中测度政务网络规模与互动深度的非线性脱节。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 90
+related_count: 92
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -51,12 +51,14 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Incommensurability]]"
   - "[[Network Governance]]"
+  - "[[Teacher Qualifications]]"
   - "[[Policy Ambassador]]"
   - "[[Knowledge Transfer]]"
   - "[[Triangular Cooperation]]"
   - "[[Social Impact Investing]]"
   - "[[Philanthrocapitalism]]"
   - "[[Steering at a Distance]]"
+  - "[[Neoliberalism]]"
   - "[[Initial Teacher Training]]"
   - "[[Education Export]]"
   - "[[Deductible Gift Recipient]]"
@@ -122,7 +124,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-17
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -275,7 +277,7 @@ updated: 2026-11-11
 
 > [!claim] O'Neill, J. et al.
 > **连锁董事同盟与跨国知识特许对代议制民主科层的绕道突破** [[John O'Neill|约翰·奥尼尔]]（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）指出，当代政策网络不仅依靠理念与资金流动，更依托精密的**连锁董事网络（Interlocking Directorates Network）** 与跨国特许经营架构实现政策突防：
-> 1. **跨界治理同盟突破科层壁垒** 在替代性教师培训项目“为新西兰而教”（Teach First NZ, [[Teach First New Zealand|TFNZ]]）中，前教育部高级官员、对冲基金合伙人、跨国广告巨头高管与地方慈善信托首席执行官共同组成紧密的董事会网络。该跨界同盟直接跳过传统公立大学师范学院与官方教师资格认证的繁琐规制流程，以内阁高层游说直接换取国家定向财政专款立项与法规豁免，完成了传统科层体制下不可逾越的政策突破（pp. 49–54）；
+> 1. **跨界治理同盟突破科层壁垒** 在替代性教师培训项目“为新西兰而教”（Teach First NZ, [[Teach First New Zealand|TFNZ]]）中，前教育部高级官员、对冲基金合伙人、跨国广告巨头高管与地方慈善信托首席执行官共同组成紧密的董事会网络。该跨界同盟直接跳过传统公立大学师范学院与官方[[Teacher Qualifications|教师资格]]认证的繁琐规制流程，以内阁高层游说直接换取国家定向财政专款立项与法规豁免，完成了传统科层体制下不可逾越的政策突破（pp. 49–54）；
 > 2. **学术品牌与商业中介跨国特许网络** 权威学者（如 [[John Hattie]]）将公立科研成果排他性授权予私营[[Educational Management Organisation|教育管理组织]]（如 [[Cognition Education]]），后者注册“[[Visible Learning Branding and Global Influences|Visible Learningplus]]”商标并联合跨国出版商与传媒科技企业（如 [[Corwin Press|Corwin]]、Macmillan、Ai-Media），在全球 35 国构筑起涵盖咨询、培训、评估工具与认证授权的商业特许帝国。网络内部节点互相输送巨额商业利润与个人版税分红，彻底架空了公共教育的民主受托与审计防线（pp. 65–70）。
 
 ---
@@ -307,7 +309,7 @@ updated: 2026-11-11
 > [!dev-timeline] 概念演变
 > - **1960s–1970s [[Pluralism|多元主义]]与执行网络奠基** 罗伯特·达尔（Robert Dahl, 1961）从多元主义视角将政府视作多元冲突利益行动者的谈判网络；普雷斯曼与瓦尔达夫斯基（Pressman & Wildavsky, 1975）及汉夫与夏普夫（Hanf & Scharpf, 1979）开创政策执行中的组织间[[Network Analysis|网络分析]]。
 > - **1980s–1990s 欧陆公共行政与[[Network Governance|网络治理]]理论成型** 莱姆布鲁赫与施密特（Lehmbruch & Schmitter, 1982）奠定[[Neocorporatism|新法团主义]]网络协调；[[Walter J. M. Kickert|瓦尔特·基克特]]（Kickert, 1991, 1995）与罗兹（Rhodes, 1996）系统论证政策网络的去中心化、多理性与相互依赖特征，确立“网络中无绝对顶层”与[[Steering at a Distance|间接调控]]治理[[Paradigm|范式]]。
-> - **2012 跨国政策网络转向** [[Stephen Ball\|斯蒂芬·鲍尔]]（[[Stephen Ball]]）提出全球政策网络与异质治理概念，指涉跨国中介公司、[[Venture Philanthropy\|风险慈善]]基金会以及新自由主义智库对主权国家公共政策的网状操纵。
+> - **2012 跨国政策网络转向** [[Stephen Ball\|斯蒂芬·鲍尔]]（[[Stephen Ball]]）提出全球政策网络与异质治理概念，指涉跨国中介公司、[[Venture Philanthropy\|风险慈善]]基金会以及[[Neoliberalism|新自由主义]]智库对主权国家公共政策的网状操纵。
 > - **2018 证据生态网络的合流** 以英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）实施全球[[Evidence Ecosystem\|证据生态系统]]计划为代表，政策网络披上“中立科学”外衣，在多国平移复制镜像证据组织（如[[Australian Education Research Organisation\|澳大利亚教育研究组织]]，Australian Education Research Organisation, AERO）。
 > - **2020 跨国市政网络与南南政策循环** 戴安娜·斯通等（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）阐发跨国政策网络超越北方单向输出通道，依托跨国城际网络、专业实务网络与政策大使，推动全球南方制度创新的反向扩散与多向跨国政策循环（pp. 2–6）。
 > - **2022 [[OECD]] 跨国政务网络实证测度** 经合组织（[[OECD]]）[[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022]]）首次在 29 国 37 个教育系统全面测度部委政务网络，揭示了网络规模与联结强度的脱节、大网络陷阱与生产依附偏误。

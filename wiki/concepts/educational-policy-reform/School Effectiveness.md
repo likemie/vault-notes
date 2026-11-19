@@ -8,7 +8,7 @@ aliases:
 summary: "以学校内部组织与教学差异解释学业成就的研究取向，在政策治理中将学校重塑为可量化干预的技术对象，并在全球教育转移中被学术重商主义包装为跨国咨询商品。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 61
+related_count: 62
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Professional Judgment]]"
   - "[[Socioeconomic Status]]"
+  - "[[Neoliberalism]]"
   - "[[Naming and Shaming in Education Governance]]"
   - "[[Policy Translation]]"
   - "[[Global Universities Rankings]]"
@@ -91,7 +92,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-23
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 > [!def] School Effectiveness
@@ -156,7 +157,7 @@ updated: 2026-11-15
 ---
 
 > [!concept-proposition] 命题二｜[[Governmentality|治理术]]与常模化政策规训命题
-> **治理对象化与常模监控** 学校效能语言不仅是描述性工具，更是现代新自由主义国家将学校塑造为可检查、可比较、可干预之常模化治理对象的[[Governmentality|治理术]]。
+> **治理对象化与常模监控** 学校效能语言不仅是描述性工具，更是现代[[Neoliberalism|新自由主义]]国家将学校塑造为可检查、可比较、可干预之常模化治理对象的[[Governmentality|治理术]]。
 
 > [!claim|notitle]
 > **常模化技术与羞辱机制** 从福柯治理术（[[Governmentality]]）视角审视，学校效能将学校区分为“有效/无效”、“健康/病态”、“平庸/卓越”，构造出标准化的常模模型。通过英国教育标准局（[[Ofsted]]）视导检查、公立学校排行榜与“失败学校”公开[[Naming and Shaming in Education Governance|命名羞辱]]机制，教师与校长的[[Professional Judgment|专业判断]]被剥夺，退化为必须接受常态化风险防控的技术操作员。[[Argument_Ball_2008_SR|(Ball, 2008, pp. 663–665)]]

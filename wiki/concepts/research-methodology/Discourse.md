@@ -10,7 +10,7 @@ alias_reviewed:
 summary: "通过情境化文本、谈话与制度实践建构知识、主体性与权力关系的意义体系；在微观层面指向文本性七标准与课堂互动中微观秩序与权力的协商，在宏观层面指向跨国流动空间中去情境化的普遍主义政策话语、过度简化转译与外围本土的再情境化形变。"
 type: concept
 domain: "research-methodology"
-related_count: 86
+related_count: 88
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -22,6 +22,7 @@ tags:
   - subject/comparative-education
   - subject/sociology-of-education
 related_concepts:
+  - "[[Dialogue in Education]]"
   - "[[Global Educational Discourse]]"
   - "[[Floating Signifier]]"
   - "[[Determinism]]"
@@ -32,13 +33,13 @@ related_concepts:
   - "[[Regimes of Truth]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Intentionality]]"
-  - "[[Transnational Education]]"
   - "[[School Autonomy]]"
   - "[[Gatekeepers]]"
   - "[[Recontextualization]]"
   - "[[Habitus]]"
   - "[[Alienation]]"
   - "[[Knowledge Power]]"
+  - "[[Transnational Education]]"
   - "[[South-South Cooperation]]"
   - "[[Community of Shared Future for Mankind]]"
   - "[[Cosmopolitanism]]"
@@ -51,6 +52,7 @@ related_concepts:
   - "[[Ideational Power]]"
   - "[[Geopolitics]]"
   - "[[Politics of Knowledge]]"
+  - "[[Neoliberalism]]"
   - "[[Epistemic Governance]]"
   - "[[Evidence Culture]]"
   - "[[Constructivist Paradigm]]"
@@ -71,6 +73,7 @@ related_theories:
   - "[[Cultural Political Economy]]"
   - "[[Panopticism]]"
   - "[[Bacchi's WPR Approach]]"
+  - "[[Developmental State]]"
 related_methods:
   - "[[Discourse Analysis]]"
   - "[[Analytic Framework]]"
@@ -83,7 +86,6 @@ related_persons:
   - "[[Louis Cohen]]"
   - "[[Jason Beech]]"
   - "[[Basil Bernstein]]"
-  - "[[Manuel Castells]]"
   - "[[Carol Bacchi]]"
 related_facts:
   - "[[Belt and Road Initiative]]"
@@ -100,8 +102,8 @@ related_arguments:
   - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
-  - "[[Argument_Chou_Demiryol_2024_HE]]"
   - "[[Argument_Beech_2009_CE]]"
+  - "[[Argument_Chou_Demiryol_2024_HE]]"
   - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_He_2018_HEP]]"
   - "[[Argument_Alexiadou_Rambla_2023_EERJ]]"
@@ -116,14 +118,14 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
 
 > [!def] Discourse
 > 话语（Discourse）是指在特定的历史、制度与交往情境中赋予文本、对话及社会实践以特定含义，并借此塑造知识、界定主体身份并维系权力关系的规则与意义体系。该概念在社会科学与教育研究中贯穿了微观交往互动与宏观制度治理两重互补的分析视阈：
-> 1. **微观语言与互动视阈** 指涉行动者在日常生活、课堂对话或专业共同体中生产的具体文本与言语互动。语言不仅传达字面内容，更通过预设规则规定谁拥有发言资格、何种知识被判定为有效，并参与微观权力关系的协商与再生产；
+> 1. **微观语言与互动视阈** 指涉行动者在日常生活、[[Dialogue in Education|课堂对话]]或专业共同体中生产的具体文本与言语互动。语言不仅传达字面内容，更通过预设规则规定谁拥有发言资格、何种知识被判定为有效，并参与微观权力关系的协商与再生产；
 > 2. **宏观社会学与跨国政策视阈** 指涉由国际组织、跨国智库与国家行政机器共同建构的标准化意义网络（如[[Global Educational Discourse|全球教育话语]]）。话语作为去情境化的“[[Floating Signifier|漂浮能指]]”，在跨国空间流动并被过度简化为普遍主义改革处方，进而制约民族国家的政策议程并重构教育系统的合法性基础。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §§31.1–31.2)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–351)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–446)]]
 
 > [!concept-lens|notitle] 概念透镜
@@ -176,7 +178,7 @@ updated: 2026-11-18
 > - **去情境化普遍主义（Decontextualized Universalism）** 国际多边机构将源自欧美特定经济体的组织管理模式包装为不依存于特定时空的全球公理，并以“信息时代的[[Educated Identity|受教育身份]]”为由推向全球南方。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349)]]
 > - **跨位置流通的过度简化（Oversimplification across Positions）** 国际机构受紧迫[[Pragmatic Paradigm|实用主义]]驱动，将原本充满学术争论的复杂理论删剪为便于技术操作与借贷捆绑的五大支柱标准化模型，并在输出外围国家时依托本土跨界[[Gatekeepers|守门人]]实现垄断。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 350–353)]]
 > - **微观实践的[[Recontextualization|再情境化]][[Shape-Shifting|形变]]（Recontextualisation Deformation）** 抽象政策话语降落至缺乏物质资源与制度配套的基层学校时，必然遭遇本土历史[[Habitus|惯习]]的抵抗，最终演化为与改革初衷背道而驰的意外后果（如将“尊重多样性”[[Alienation|异化]]为对贫困的被动容忍）。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 359–361)]]
-> - **地缘[[Knowledge Power|知识权力]]中的规范性话语建构（Discursive Power in Transnational Knowledge Governance）** 新兴大国在重构跨国教育与科研合作网络时，依托多边大学联盟、智库对话与联合平台输出以“[[South-South Cooperation|南南合作]]”、“[[Community of Shared Future for Mankind|命运共同体]]”与“非对齐互惠”为核心的规范性话语，对冲西方[[Cosmopolitanism|普世主义]]叙事，为新型多边知识秩序确立正当性基础与议程主导权。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1700–1701, 1703–1705)]]
+> - **地缘[[Knowledge Power|知识权力]]中的规范性话语建构（Discursive Power in Transnational Knowledge Governance）** 新兴大国在重构[[Transnational Education|跨国教育]]与科研合作网络时，依托多边大学联盟、智库对话与联合平台输出以“[[South-South Cooperation|南南合作]]”、“[[Community of Shared Future for Mankind|命运共同体]]”与“非对齐互惠”为核心的规范性话语，对冲西方[[Cosmopolitanism|普世主义]]叙事，为新型多边知识秩序确立正当性基础与议程主导权。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1700–1701, 1703–1705)]]
 > - **修辞隐喻的话语规训与认知层级建构（Rhetorical Metaphors & Discursive Framing）** 国际多边机构借助“爵士乐队”、“[[Smart Buys|智能购买]]”等修辞隐喻建构政策话语网络，将跨国量化综合证据确立为优先认知层级，并通过责任个体化叙事将政策执行受阻归咎于公职人员个人素养短板，完成[[Governing at a Distance|远处治理]]与话语规训。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 341, 346–348)]]
 > - **官方大战略话语的策略性借用与资源置换（Strategic Discourse Appropriation）** 微观机构行动者（如大学境外分校管理层）敏锐地借用服务国家[[Soft Power|软实力]]辐射与配合[[Belt and Road Initiative|一带一路]]建设等官方宏大话语符号，将自身的市场扩张与创收诉求包装为国家战略实体工程，借此撬动国内教育主管部门的行政办学许可与专项财政经费扶持，实现微观利益同宏观话语的工具性契合。[[Argument_He_2018_HEP|(He & Wilkins, 2018, pp. 330, 334–335)]]
 
@@ -237,7 +239,7 @@ updated: 2026-11-18
 > - **1970s–1980s — 语言学与[[Conversation Analysis|会话分析]]奠基** 从纯粹句法分析转向交际功能，确立表层衔接、深层连贯、[[Intentionality|意向性]]与互文性等文本性七大标准，聚焦面对面微观言语互动秩序。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §§31.1–31.2)]]
 > - **1990s — 社会学与批判话语转向** [[Basil Bernstein|伯恩斯坦]]提出话语的[[Recontextualization|再情境化]][[Champ|场域]]，福柯[[Post-structuralism|后结构主义]]深刻揭示话语作为知识与权力共谋机制如何规训主体，话语被确立为制度性实践。
 > - **2000s–2010s — 全球化与空间社会学拓殖** 比较教育学引入[[Space of Flows|流动空间]]理论，追踪教育政策话语作为[[Floating Signifier|漂浮能指]]在超国家组织、主权国家与微观学校间的五位置流转、过度简化与本土异化。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–353)]]
-> - **2020s 至今 — [[Geopolitics|地缘政治]]竞争与跨国规范话语博弈** [[Discourse Analysis|话语分析]]进一步拓展至全球南方与地缘[[Politics of Knowledge|知识政治]]，剖析新兴大国如何依托多边高教联盟构建区别于西方新自由主义规范的替代性话语体系（如“[[South-South Cooperation|南南合作]]”与“互惠共赢”），以生产性/话语性[[Knowledge Power|知识权力]]争夺跨国[[Epistemic Governance|知识治理]]规则的制定权。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1700–1705)]]
+> - **2020s 至今 — [[Geopolitics|地缘政治]]竞争与跨国规范话语博弈** [[Discourse Analysis|话语分析]]进一步拓展至全球南方与地缘[[Politics of Knowledge|知识政治]]，剖析新兴大国如何依托多边高教联盟构建区别于西方[[Neoliberalism|新自由主义]]规范的替代性话语体系（如“[[South-South Cooperation|南南合作]]”与“互惠共赢”），以生产性/话语性[[Knowledge Power|知识权力]]争夺跨国[[Epistemic Governance|知识治理]]规则的制定权。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1700–1705)]]
 > - **2023 年 — 话语制度主义与超国家政策话语博弈** [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] 将施密特话语制度主义应用于欧洲教育区 2030 议程分析，揭示闭门协调性话语如何依托历史制度传统修正委员会交流性话语中的激进认知转向。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 852–854)]]
 > - **2026 — 超国家政策话语的修辞隐喻与认知等级解构** [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] 运用[[Interpretive Policy Analysis|解释性政策分析]]（IPA）揭示经合组织、教科文组织与世界银行官方文本如何借助修辞隐喻建构[[Evidence Culture|证据文化]]，将量化实证普遍化为话语特权，同时将体制阻碍个体化为官员素养短板。
 
@@ -297,4 +299,4 @@ updated: 2026-11-18
 > - [[Argument_King_2007_CE|King (2007)]] — 考证多边援助机构建构全球教育议程的历程，揭示“国家拥有”修辞如何掩盖北方技术官僚对南方受援国的指标规训与政策控制（pp. 377–389）。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 运用福柯话语-权力理论批判解构 1992–2007 年[[EU|欧盟]]教育政策话语，揭示危机修辞与市场化话语如何将教育工具化，并依托软法话语构筑欧洲教育[[Panopticism|全景敞视]]式治理（pp. 479–494）。
 > - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 运用巴奇（[[Carol Bacchi|Bacchi]]）“问题被表征为何”（[[Bacchi's WPR Approach|WPR]]）后结构主义分析框架，解构芬兰高中[[Education Export|教育出口]]政策话语，揭示危机叙事如何将公立教育赤字建构为本体性问题并合法化商业外包。
-> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 剖析新加坡执政精英如何策略性动用全球化与知识经济生存话语，制造关于教育市场化改革的政治共识并合法化强发展型国家的持续主导权。
+> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 剖析新加坡执政精英如何策略性动用全球化与知识经济生存话语，制造关于教育市场化改革的政治共识并合法化强[[Developmental State|发展型国家]]的持续主导权。

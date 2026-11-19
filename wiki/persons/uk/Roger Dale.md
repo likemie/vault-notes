@@ -9,10 +9,10 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 29
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 30
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "c. 1942"
 died: ""
 lifespan: "c. 1942–至今"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[European Education Space]]"
   - "[[Paradigm]]"
   - "[[State Educational Sovereignty]]"
+  - "[[Neoliberalism]]"
   - "[[Quasi-market]]"
   - "[[Nominalism]]"
   - "[[Determinism]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -80,7 +81,7 @@ updated: 2026-11-11
 
 > [!timeline] 生平与职涯
 > - **1970s–1980s** 任教于英国开放大学（Open University），作为英国批判教育社会学运动的核心成员，参与奠定教育政治社会学与国家理论基础，出版代表作《国家与教育政策》（*The State and Education Policy*, 1989）。
-> - **1990s** 转任新西兰奥克兰大学教育学院教授，深入考察新自由主义[[Quasi-market|准市场]]改革在澳新的激进化试验，开启全球化对[[State Educational Sovereignty|国家教育权]]力重组的理论探索。
+> - **1990s** 转任新西兰奥克兰大学教育学院教授，深入考察[[Neoliberalism|新自由主义]][[Quasi-market|准市场]]改革在澳新的激进化试验，开启全球化对[[State Educational Sovereignty|国家教育权]]力重组的理论探索。
 > - **1999** 发表经典论文《借助全球化界定比较教育》，正式提出“[[Globally Structured Agenda for Education|全球结构化教育议程]]”（GSAE）以及外部政策影响的八大机制，与[[John W. Meyer|约翰·迈耶]]（John W. Meyer）的新制度主义展开国际论战。
 > - **2000s–至今** 返回英国任教于布里斯托尔大学，与[[Susan L. Robertson|苏珊·罗伯逊]]共同创立全球化全球治理中心，联合创办顶尖期刊《全球化、社会与教育》（*Globalisation, Societies and Education*），主持[[EU|欧盟]] FP6/FP7 框架下的[[European Education Space|欧洲教育空间]]重大课题。
 

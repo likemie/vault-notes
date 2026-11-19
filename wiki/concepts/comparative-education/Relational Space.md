@@ -7,10 +7,10 @@ aliases:
 summary: "将空间理解为社会网络、制度安排与耐用材料构成的动态拓扑构型而非静态领土容器；在教育政策研究中用于解构全球与国家二元对立，透视政策网络中的策略性外在化以及耐用客体构建的异层支配秩序。"
 type: concept
 domain: "comparative-education"
-related_count: 49
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - subject/comparative-education
   - theory/social-theory
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Governing by Numbers]]"
   - "[[Policy Brokerage]]"
   - "[[Geopolitics]]"
+  - "[[Neoliberalism]]"
   - "[[Variable]]"
   - "[[Document]]"
   - "[[Co-affiliation]]"
@@ -75,7 +76,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-07
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -192,7 +193,7 @@ updated: 2026-11-15
 > > - **网络空间派** 坚称全球化与数字化使信息和[[Policy Mobility\|政策流动]]实质性穿透了地理边界，若退回领土容器视角将彻底失去对跨国治理的解释力。[[Argument_Beech_2015_GSE\|(Beech & Artopoulos, 2015)]]
 > > - **新现实主义/主权学派** 批评关系性空间视角容易滑向去中心化的流动浪漫主义，在面对国家安全管控、制裁封锁与教育本土主权防御等硬性领土权力时解释力受限。
 >
-> > [!axis] [[Transfer Space\|转移空间]]中的转译是促进了政策杂糅还是隐蔽了新自由主义同质化
+> > [!axis] [[Transfer Space\|转移空间]]中的转译是促进了政策杂糅还是隐蔽了[[Neoliberalism|新自由主义]]同质化
 > > 关于转移空间内的中介活动究竟赋予了本土多元转译能动性，还是更有效地隐蔽推行了全球量化同质化规制。
 > >
 > > - **本土能动论** 强调行动者在转移空间中的重构、抵抗与策略性借用，认为政策输入永远伴随[[Recontextualization\|再脉络化]]变异。

@@ -9,7 +9,7 @@ aliases:
 summary: "比较教育政策社会学中的核心分析构念，指经合组织国际学生评估项目（PISA）对主权国家教育体系产生的深层制度化重组与长效治理效应；区别于短期的急性 PISA 震荡危机，该构念阐明 PISA 作为多标度政策工具如何通过跨国等价空间构建、数目化治理常态化以及产出导向标准化改革，驱动全球教育政策在表层话语趋同与深层制度同构"
 type: concept
 domain: "comparative-education"
-related_count: 51
+related_count: 52
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Governing by Numbers]]"
   - "[[Discourse]]"
+  - "[[Neoliberalism]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
   - "[[PISA Shock]]"
@@ -80,13 +81,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-27
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
 
 > [!def] PISA Effect
-> **[[PISA]] 效应（PISA Effect，德语亦称 PISA-Effekt）**，特指[[OECD|经合组织]]（[[OECD]]）推行的国际学生评估项目（[[PISA]]）对主权国家教育治理、政策制定与学校实践所产生的长期性、系统性与制度化重塑效应。在比较教育学与教育政策社会学视阈下，该[[Construct|构念]]超越了单次评估排名引发的急性 PISA 震荡危机事件，聚焦于 PISA 作为多标度政策工具（Policy Instrument）在主权国内部与跨国空间中的常态化运作；它通过[[Commensuration|通约化]]建构跨国等价空间，以[[Governing by Numbers|数目化治理]]、跨国基准比照与产出监测取代传统基于投入和过程的行政规制，从而重构教育决策的合法性[[Discourse|话语]]并推动国家教育系统向新自由主义[[Human Capital Theory|人力资本]][[Paradigm|范式]]同构。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 23–26)]]；[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 58–62)]]
+> **[[PISA]] 效应（PISA Effect，德语亦称 PISA-Effekt）**，特指[[OECD|经合组织]]（[[OECD]]）推行的国际学生评估项目（[[PISA]]）对主权国家教育治理、政策制定与学校实践所产生的长期性、系统性与制度化重塑效应。在比较教育学与教育政策社会学视阈下，该[[Construct|构念]]超越了单次评估排名引发的急性 PISA 震荡危机事件，聚焦于 PISA 作为多标度政策工具（Policy Instrument）在主权国内部与跨国空间中的常态化运作；它通过[[Commensuration|通约化]]建构跨国等价空间，以[[Governing by Numbers|数目化治理]]、跨国基准比照与产出监测取代传统基于投入和过程的行政规制，从而重构教育决策的合法性[[Discourse|话语]]并推动国家教育系统向[[Neoliberalism|新自由主义]][[Human Capital Theory|人力资本]][[Paradigm|范式]]同构。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 23–26)]]；[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 58–62)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 跨国标准化能力测评对主权国家教育治理哲学、政策工具与组织基础设施施加的持续性与结构性规训机制。

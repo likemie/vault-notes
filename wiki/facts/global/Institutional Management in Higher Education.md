@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 31
+fact_related_count: 32
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Transnational Education]]"
   - "[[Policy Learning]]"
   - "[[New Public Management]]"
+  - "[[Neoliberalism]]"
   - "[[Entrepreneurial University]]"
   - "[[Global Universities Rankings]]"
   - "[[Student Mobility]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -99,7 +100,7 @@ updated: 2026-11-18
 
 > [!dev-timeline] 项目推进历程
 > - **1969–1980 年代初 — 应对高等教育大众化与机构扩张期** 项目聚焦于战后婴儿潮带来的高校规模暴增难题，重点探讨多校区管理、学分制改革、大学预算编制技术与招生规划模型，协助传统大学构建现代行政管理架构。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–439)]]
-> - **1980 年代中–1990 年代末 — [[New Public Management|新公共管理]]渗透与企业型大学转型期** 随着西方新自由主义改革浪潮兴起，项目重点转向大学自治与远处掌舵、产学研协同、绩效拨款、科研成果转化以及大学作为企业型组织（[[Entrepreneurial University]]）的战略重构。
+> - **1980 年代中–1990 年代末 — [[New Public Management|新公共管理]]渗透与企业型大学转型期** 随着西方[[Neoliberalism|新自由主义]]改革浪潮兴起，项目重点转向大学自治与远处掌舵、产学研协同、绩效拨款、科研成果转化以及大学作为企业型组织（[[Entrepreneurial University]]）的战略重构。
 > - **2000–2016 年 — 全球化排位竞争、质量审计与职能重组整合** 面对[[Global Universities Rankings|全球大学排名]]的兴起与[[Student Mobility|跨国学生流动]]扩张，项目聚焦[[Internationalization of Higher Education|高等教育国际化]]、生均质量保障与[[Innovation Ecosystem|区域创新生态]]贡献；2016 年前后，[[OECD|经合组织]]将 IMHE 的工作网络全面重组整合进教育司的高等教育战略规划（Higher Education Programme）常态工作之中。
 
 ---

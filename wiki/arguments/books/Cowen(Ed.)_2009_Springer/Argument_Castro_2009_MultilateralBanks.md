@@ -7,7 +7,7 @@ title: "Argument_Castro_2009_MultilateralBanks"
 argument_key: "Argument_Castro_2009_MultilateralBanks"
 argument_display_title: "Can multilateral banks educate the world?"
 argument_kind: "book-chapter"
-argument_related_count: 42
+argument_related_count: 44
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -36,6 +36,7 @@ tags:
   - theme/policy-borrowing
 related_concepts:
   - "[[Multilateral Development Bank]]"
+  - "[[Neoliberalism]]"
   - "[[Counterpart Funds]]"
   - "[[Alienation]]"
   - "[[Disbursement-Driven Evaluation]]"
@@ -52,6 +53,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Refined Mastery]]"
   - "[[Transnational Education]]"
+  - "[[Teacher Qualifications]]"
   - "[[Knowledge Bank]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Paradigm]]"
@@ -87,12 +89,12 @@ sources:
   - "[[books/Cowen(Ed.)_2009_Springer/Ch29_Castro_2009|Ch29_Castro_2009]]"
 status: active
 created: 2026-10-14
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 ---
 
 > [!question]
-> 超国家[[Multilateral Development Bank|多边开发银行]]（以[[World Bank|世界银行]]与[[Inter-American Development Bank|泛美开发银行]]为代表）究竟遵循何种财务与官僚运作逻辑？外界围绕其新自由主义意识形态霸权与掠夺性干预的激烈指控，是否准确击中了其体制运作的核心症结？为什么多边银行在项目文本设计中能够持续吸纳先进理念，却在基层借贷项目的实际落地、执行推进与实质性学习成果改善上面临深刻的体制性失能？
+> 超国家[[Multilateral Development Bank|多边开发银行]]（以[[World Bank|世界银行]]与[[Inter-American Development Bank|泛美开发银行]]为代表）究竟遵循何种财务与官僚运作逻辑？外界围绕其[[Neoliberalism|新自由主义意识形态]]霸权与掠夺性干预的激烈指控，是否准确击中了其体制运作的核心症结？为什么多边银行在项目文本设计中能够持续吸纳先进理念，却在基层借贷项目的实际落地、执行推进与实质性学习成果改善上面临深刻的体制性失能？
 
 > [!claim] 核心主张
 > 多边开发银行的金融本质并非商业银行或无偿慈善机构，而是依托发达成员国高信用评级在国际金融市场低息发债筹资、以保本微利向发展中国家转贷的主权信用合作社；主权借贷契约与[[Counterpart Funds|对等配套资金]]虽能抵御借款国政客走马灯式更迭的短期破坏，但多边银行真正的阿喀琉斯之踵不在于外界夸大的意识形态霸权，而在于执行阶段繁琐僵化的报销审计对项目效率的窒息，以及只核查资金拨付与硬件采购、不问学生是否真正学到知识的重投入轻产出评估[[Alienation|异化]]。（pp. 455–457, 470–472, 474–475）
@@ -249,7 +251,7 @@ updated: 2026-11-15
 > [!row-contrast] [[Transnational Education|跨国教育]]贷款附加条件履约与失灵实证矩阵（pp. 466–467）
 > | 案例国家／地区 | 贷款机构与项目内容 | 设定的核心附加条件 | 政治博弈与执行轨迹 | 实证结论与成败定性 |
 > |:---|:---|:---|:---|:---|
-> | **玻利维亚** | [[World Bank\|世界银行]]教育部门综合贷款 | 强制推行教师资格能力测评；全面废止由政府代扣教师工会会费的税收特权。 | 引发全国教师工会无限期总罢工与激烈社会动乱，政府被迫宣布全国进入戒严状态。 | **彻底流产** 脱离政治承受力的盲目强加导致项目彻底被政治海啸吞噬。 |
+> | **玻利维亚** | [[World Bank\|世界银行]]教育部门综合贷款 | 强制推行[[Teacher Qualifications\|教师资格]]能力测评；全面废止由政府代扣教师工会会费的税收特权。 | 引发全国教师工会无限期总罢工与激烈社会动乱，政府被迫宣布全国进入戒严状态。 | **彻底流产** 脱离政治承受力的盲目强加导致项目彻底被政治海啸吞噬。 |
 > | **巴拉圭** | [[Inter-American Development Bank\|泛美开发银行]]职业技术教育与培训重构贷款 | 双轨设计：小微企业员工培训券设立竞争性基金；对深陷危机的国家培训局实施深层体制重组。 | 培训券竞争基金运作良好，中小企业员工踊跃进入私立技校；而国家培训局因内部利益固化常年无法履约。 | **局部断裂** 市场化增量项目迅速成功，深层存量官僚机构改革因内部危机彻底搁浅。 |
 > | **摩洛哥** | [[World Bank\|世界银行]]技术教育与职业培训发展贷款 | 建造现代技术学校；要求摩洛哥国家职业培训与就业促进局（Office de la Formation Professionnelle et de la Promotion du Travail, OFPPT）将其财政预算划转一部分用于设立私立培训竞标基金。 | 现代技校拔地而起并立即满负荷运转；但公立官员在面对世行代表团每次质询时均给予礼貌而虚假的推诿。 | **消极抵制** 要求公立部门交出自身财政预算资助私立对手，违背了官僚集团本能利益。 |
 > | **巴西** | [[Inter-American Development Bank\|泛美开发银行]]联邦技术学校普职分流贷款 | 要求将兼具优质普高教育与职业教育的高校拆分为独立的普通高中项目与职业培训项目。 | 部长全力支持拆分以打破优势阶层将公立技校作为免费大学入学考试跳板的特权；但当泛美行试图彻底关停普高部时，部长断然拒绝。 | **借力成功与政治红线** 部长借外部条件打破国内特权，但在触及国家教育自主核心红线时坚决否决。 |

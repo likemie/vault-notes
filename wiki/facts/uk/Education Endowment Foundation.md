@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 126
+fact_related_count: 127
 fact_related_level: 12
 fact_related_stars: "💎💎💎💎"
 fact_related_color: "#fecdd3"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Publication Bias]]"
   - "[[Alienation]]"
   - "[[Governing by Numbers]]"
+  - "[[Neoliberalism]]"
   - "[[Evidence Era]]"
   - "[[Rationalized Myth]]"
   - "[[Champ]]"
@@ -159,7 +160,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -339,7 +340,7 @@ updated: 2026-11-15
 > [!debates] 核心学术与政策争议
 >
 > > [!axis] 官方绩效辩护 vs 管理主义[[Alienation|异化]]（“[[Governing by Numbers\|以数字治理]]”）
-> > 探讨客观证据评级是否沦为新自由主义官僚问责的遮羞布。
+> > 探讨客观证据评级是否沦为[[Neoliberalism|新自由主义]]官僚问责的遮羞布。
 > >
 > > - **官方与支持者立场** 认为工具包提供了客观、清晰的量化标尺，帮助弱势学校摆脱商业推销忽悠，实现财政资源的最优配置。
 > > - **管理主义批判** [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]] 与 [[Argument_Cowen_2019_ERE\|Cowen (2019)]] 指出，在实际制度运作中，EEF 工具包往往被异化为迎合督导机构（[[Ofsted]]）问责的以数字治理（Governing by Numbers）合规工具；当学术证据与政治利益冲突时，政府甚至会主动搁置证据。

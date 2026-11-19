@@ -6,7 +6,7 @@ aliases:
 summary: "教育治理与政策工具分析概念，指将标准化学生评估完全脱钩于惩罚性的物质、科层或声誉后果（不关校、不解聘、不公布公开排行榜），主要限定于校本自我诊断、教学质量支持与系统监测的治理形态。该模式虽外观温和，但借助量化指标构造出的数字等值空间，依然在微观层面诱发无处不在的横向比较与表现主义规训压力。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Peer Pressure]]"
   - "[[National Large-Scale Assessments]]"
   - "[[School Autonomy]]"
+  - "[[Neoliberalism]]"
   - "[[Alienation]]"
   - "[[Transparency Bypass]]"
   - "[[Document]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -127,7 +128,7 @@ updated: 2026-11-15
 
 > [!debates] 学术争议
 >
-> > [!axis] 软问责是否构成抵御新自由主义[[Alienation|异化]]的有效屏障
+> > [!axis] 软问责是否构成抵御[[Neoliberalism|新自由主义]][[Alienation|异化]]的有效屏障
 > > 围绕软问责的制度防御能力，学界存在不同研判。
 > >
 > > - **社会民主主义支持方** 坚信只要剥离市场排名与惩戒解聘，外部数据便能健康转化为促进教育公平与资源兜底的工具。

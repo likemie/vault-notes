@@ -10,9 +10,9 @@ subtype: policy
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "policy"
-fact_related_count: 29
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 30
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
 issuing_organization: "新西兰议会教育与科学选择委员会（Education and Science Select Committee）"
 tags:
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Historical Amnesia]]"
   - "[[Scale of Measurement]]"
   - "[[Socioeconomic Status]]"
+  - "[[Neoliberalism]]"
   - "[[Visible Learning]]"
   - "[[Academic Achievement]]"
   - "[[Alienation]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-03
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -127,7 +128,7 @@ updated: 2026-11-15
 
 > [!finding-cards] 效果与历史定性
 > 1. **打破教师表现易于量化的政治幻想** 报告最具持久学术生命力之处，在于由跨党派政治精英共同确认了教学劳动评价的极限复杂性，断言其研发必然“漫长而复杂”，从源头上遏制了将工业计件逻辑粗暴移植入校园的冲动。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 103)]]
-> 2. **成为抵御新自由主义绩效恶政的历史盾牌** [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 指出，《斯科特报告》的警示历经二十余年不仅未曾褪色，反而在 21 世纪绩效主义浪潮中愈显清醒：在缺乏健全工具的前提下强推[[Performance Pay|绩效工资]]，必然导致考场腐败、课程窄化与教师合作解体。
+> 2. **成为抵御[[Neoliberalism|新自由主义]]绩效恶政的历史盾牌** [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 指出，《斯科特报告》的警示历经二十余年不仅未曾褪色，反而在 21 世纪绩效主义浪潮中愈显清醒：在缺乏健全工具的前提下强推[[Performance Pay|绩效工资]]，必然导致考场腐败、课程窄化与教师合作解体。
 > 3. **揭露当代循证政策征用的虚伪性** 报告的存在让 2009 年托利部长借学者之名推行绩效工资的政治修辞彻底破产，证明保守派政客是在明知测量工具缺失、明知历史教训惨痛的前提下，选择性征用学术片段作为削减公立教育开支的实证护盾。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 103)]]
 
 ---

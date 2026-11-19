@@ -10,10 +10,10 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 28
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 30
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1947"
 died: ""
 lifespan: 1947–至今
@@ -26,10 +26,12 @@ tags:
   - region/uk
 related_concepts:
   - "[[Epistemology]]"
+  - "[[Neoliberalism]]"
   - "[[Governing by Numbers]]"
   - "[[Psychologisation]]"
   - "[[Paradigm]]"
   - "[[Performance Indicators]]"
+  - "[[Aura]]"
   - "[[Lifelong Learning]]"
   - "[[Causal Over-determination]]"
   - "[[Analytical Stance]]"
@@ -62,7 +64,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-30
+updated: 2026-11-19
 ---
 
 ---
@@ -70,7 +72,7 @@ updated: 2026-10-30
 > [!person-profile] 人物档案
 > - **身份位置** 英国当代著名社会学家、社会思想家，英国社会科学院院士（FAcSS），伦敦国王学院（King's College London）社会科学、健康与医学系荣休教授，曾任伦敦政治经济学院（LSE）社会学系主任及生物科学、生物医学与社会研究中心（BIOS）联席主任。
 > - **核心角色** 当代西方批判[[Governmentality|治理术]]研究（Governmentality Studies）与高级自由主义（Advanced Liberalism）理论的核心思想家。在政策社会学与跨国治理分析中，其“[[Governing at a Distance|远处治理]]”与“数字即政策”理论构成了剖析超国家量化监控与绩效主义重构公共教育的核心[[Epistemology|认识论]]武器。
-> - **代表贡献** 发展了新自由主义“远处治理”（[[Governing at a Distance]]）理论，系统论证“数字即政策”（Policy as Numbers）与[[Governing by Numbers|数字治理]]技术，阐释心理学、精神医学与生命科学如何将社会控制内在化为行动者的“自我技术”（Technologies of the Self）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
+> - **代表贡献** 发展了[[Neoliberalism|新自由主义]]“远处治理”（[[Governing at a Distance]]）理论，系统论证“数字即政策”（Policy as Numbers）与[[Governing by Numbers|数字治理]]技术，阐释心理学、精神医学与生命科学如何将社会控制内在化为行动者的“自我技术”（Technologies of the Self）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 
 > [!citation-card] 人物定位的关键来源
 > [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]指出，[[PISA|国际学生评估项目]]（PISA）之所以能够在全球范围内建立起无人能够辩驳的规训威权，根源正在于尼古拉斯·罗斯所揭示的数字治理机制——数字的真正力量在于将构成一次测量、一个刻度、一个指标背后所涉及的大量复杂政治裁决与价值决断完全变得不可见，因而也变得无可反驳。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
@@ -110,7 +112,7 @@ updated: 2026-10-30
 > [!citation-card] 罗斯论数字作为使政治决断隐形化的统治技术
 > 数字不仅是描述世界的工具，更是规训行动者的核心政治技术。数字之所以具有无与伦比的权威，恰恰是因为它们把构成一项测量、一个刻度、一个评级背后所必须进行的大量充满价值争议的主观决断，彻底变得不可见；而这种不可见性，赋予了量化结论以绝对的无可争辩性。跨国组织正是借助这一机制，将政治主张伪装为技术科学，剥夺了公众开展民主辩论的合法空间。
 >
-> *... the power of numbers is such that they “render invisible and hence incontestable – the complex array of judgements and decisions that go into a measurement, a scale, a number” (Rose, 1999: 208). Numbers create an objective aura that transforms contested political priorities into technical administrative necessities.*
+> *... the power of numbers is such that they “render invisible and hence incontestable – the complex array of judgements and decisions that go into a measurement, a scale, a number” (Rose, 1999: 208). Numbers create an objective [[Aura|aura]] that transforms contested political priorities into technical administrative necessities.*
 
 ---
 

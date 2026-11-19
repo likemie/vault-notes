@@ -9,7 +9,7 @@ aliases:
 summary: "源自哈贝马斯批判理论并在当代教育社会学与治理研究中深入发展的核心概念；指法律规范、条文对标、司法仲裁程序与法定行政制裁向学校教育日常运作的全面扩张；以瑞典新《教育法》实施为典型代表，外部督导从传统的专业教学支持形态，转变为以法定义务履行核查、行政罚款威慑与投诉处理为主导的司法化规制，引发学校实践的防御性合规。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 20
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Research Utilization]]"
   - "[[Discourse]]"
+  - "[[Neoliberalism]]"
   - "[[Rich and Thick Description]]"
   - "[[Analytical Stance]]"
   - "[[Alienation]]"
@@ -44,13 +45,14 @@ related_persons:
   - "[[Jürgen Habermas]]"
 related_facts:
   - "[[National Education]]"
+  - "[[Independent Schools Initiative]]"
   - "[[Swedish Schools Inspectorate]]"
 related_arguments:
   - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -85,7 +87,7 @@ updated: 2026-11-15
 
 > [!feature] 核心要素
 > - **法定科学依据与经验验证条款的强制嵌入（Statutory Mandate of Evidence）** 国家通过立法（如瑞典《教育法》第 1 章第 5 节）将科学依据上升为学校法定义务，使学术[[Research Utilization|研究使用]]直接与行政合法性挂钩。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 646)]]
-> - **行政制裁权与威慑力量的刚性化（Sanctions and Economic Deterrence）** 督察机构获得下达整改令、课以巨额经济罚款乃至吊销独立学校办学资质的强制执行力。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 648)]]
+> - **行政制裁权与威慑力量的刚性化（Sanctions and Economic Deterrence）** 督察机构获得下达整改令、课以巨额经济罚款乃至吊销[[Independent Schools Initiative|独立学校]]办学资质的强制执行力。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 648)]]
 > - **法律专家对督导标准制定的主导（Dominance of Juridical Experts）** 评估领域与指标必须严格溯源至国家法条，法律专家在管理层与起草组中掌握核心[[Discourse|话语]]权。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 647)]]
 > - **个体申诉机制的法庭化扩张（Complaint Mechanisms & Grievance Procedures）** 建立针对学校霸凌、个别化支持不足等事项的直接投诉处理程序，形成对单体学校的微观常态司法介入。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 646)]]
 
@@ -108,7 +110,7 @@ updated: 2026-11-15
 
 > [!dev-timeline] 概念演变
 > - **1981 — [[Critical Theory|批判理论]]源起** [[Jürgen Habermas|尤尔根·哈贝马斯]]（Jürgen Habermas）在《交往行为理论》中将“法律化”（Verrechtlichung）界定为系统对生活世界的殖民形式之一。
-> - **2000年代 — 欧洲公共服务司法化扩散** 福利国家紧缩与新自由主义重组，推动英国、德国与北欧在医疗与教育领域密集出台法定权利法案与专门监管法庭。
+> - **2000年代 — 欧洲公共服务司法化扩散** 福利国家紧缩与[[Neoliberalism|新自由主义]]重组，推动英国、德国与北欧在医疗与教育领域密集出台法定权利法案与专门监管法庭。
 > - **2010年代–至今 — 北欧[[School Inspection|学校督导]]司法化实证[[Rich and Thick Description|深描]]** 瑞典 2010 年新《教育法》落地，胡尔特、诺瓦克与塞格霍尔姆等学者系统追踪瑞典督察局从柔性督导向高压法律制裁的演进过程，奠定当代教育司法化实证研究高地。
 
 ---

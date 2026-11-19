@@ -11,9 +11,9 @@ subtype: program
 region: "global"
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2011–至今"
 initiator_organization: "World Bank"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Heterogeneity]]"
   - "[[Knowledge Production]]"
+  - "[[Neoliberalism]]"
   - "[[New Public Management]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Global Education Governing Complex]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -130,7 +131,7 @@ updated: 2026-11-11
 > > [!axis] 全球通用最佳实践 vs 地方情境性制度多样性
 > > 批判学者与[[World Bank\|世界银行]]技术官僚围绕是否存在普适性教育政策模板展开激烈争论。
 > >
-> > - **批判比较学者** 指责 SABER 奉行单一的新自由主义治理哲学，将[[New Public Management\|新公共管理]]（如绩效挂钩、私营资本介入、学校竞争）设定为“领先级”标准，强行抹杀发展中国家在地多元的教育生态。
+> > - **批判比较学者** 指责 SABER 奉行单一的[[Neoliberalism|新自由主义治理]]哲学，将[[New Public Management\|新公共管理]]（如绩效挂钩、私营资本介入、学校竞争）设定为“领先级”标准，强行抹杀发展中国家在地多元的教育生态。
 > > - **世界银行专家** 坚称 SABER 量规提取自全球高质量因果实证研究（尤其是[[Randomised Controlled Trials\|随机对照试验]]），旨在帮助资源匮乏的国家跨越试错成本，实现高效率制度升级。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 545, 548)]]
 
 > [!lessons] 经验教训与启示

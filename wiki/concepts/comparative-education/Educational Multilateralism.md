@@ -9,7 +9,7 @@ aliases:
 summary: "指由三个及以上主权国家基于普遍行为原则建立的制度化教育协调与援助机制，其历史演进经历了从战后教科文组织主导的有限再分配模式，到后殖民抗争，再到新自由主义防御性与规训性模式的重大范式转型。"
 type: concept
 domain: "comparative-education"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Transnational Education]]"
   - "[[Paradigm]]"
+  - "[[Neoliberalism]]"
   - "[[Geopolitics]]"
   - "[[Shadow State]]"
   - "[[Disciplina and Doctrina]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-29
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -69,7 +70,7 @@ updated: 2026-11-11
 > - **边界** 不等于双边点对点教育援助（Bilateral Aid），也不等同于自发形成的草根跨国倡导网络；它依托由条约、国际官僚组织与章程维系的正式多边治理架构。
 
 > [!citation-card] 国际多边主义的制度本质与阶段演进
-> 鲁吉（Ruggie）将多边主义界定为在普遍行为原则基础上协调三个或更多国家关系的制度化形式。曼迪（Mundy）的研究证实，教育多边主义的意识形态经历了深刻演变：从战后包含教育在内的有限再分配价值体系（1945–1965），转变为发展中国家要求建立社会福利型国家发展模式的抗争期（1960 年代末至 1970 年代末），最终演变为新自由主义防御性与规训性教育合作形态，严重侵蚀了原有的再分配功能。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
+> 鲁吉（Ruggie）将多边主义界定为在普遍行为原则基础上协调三个或更多国家关系的制度化形式。曼迪（Mundy）的研究证实，教育多边主义的意识形态经历了深刻演变：从战后包含教育在内的有限再分配价值体系（1945–1965），转变为发展中国家要求建立社会福利型国家发展模式的抗争期（1960 年代末至 1970 年代末），最终演变为[[Neoliberalism|新自由主义]]防御性与规训性教育合作形态，严重侵蚀了原有的再分配功能。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 >
 > *Multilateralism, defined by Ruggie (1992) as institutionalized coordination of relations among three or more states on the basis of generalized principles of conduct, has changed from one of a "limited redistributive" set of values involving education to a period of contestation, and finally to the ongoing stage during which neoliberal defensive and disciplinary forms of educational cooperation emerged, furthering the erosion of the redistributive model.*
 

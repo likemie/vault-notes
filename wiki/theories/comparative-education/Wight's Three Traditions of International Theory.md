@@ -8,7 +8,7 @@ aliases:
 summary: "马丁·怀特将国际关系思想归纳为现实主义（马基雅维利）、理性主义（格劳秀斯）和革命主义（康德）三大传统，分别以权力、权威和武力为核心概念，克莱里德斯将其引入比较教育以解构学科的注意力议程与知识生产"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 47
+theory_related_count: 48
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Paradigm]]"
   - "[[Transnational Education]]"
+  - "[[Neoliberalism]]"
   - "[[Revolutionism]]"
   - "[[Agendas of Attention]]"
   - "[[Realism in International Relations]]"
@@ -72,14 +73,14 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-08'
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
 
 > [!theory-position] 理论定位
 > - **解释对象** 比较教育的学科发展史、学术体制建制、[[Policy Borrowing\|政策借用]]与流动的分析[[Paradigm\|范式]]以及[[Transnational Education|跨国教育]]治理网络。
-> - **理论问题** 探讨比较教育中“政策借用与情境理解”、“技术治理与批判解放”等核心争论的底层政治哲学根源，回应学科在国家权力、殖民扩张和新自由主义治理下的无意识共谋。
+> - **理论问题** 探讨比较教育中“政策借用与情境理解”、“技术治理与批判解放”等核心争论的底层政治哲学根源，回应学科在国家权力、殖民扩张和[[Neoliberalism|新自由主义治理]]下的无意识共谋。
 > - **理论类型** 国际关系理论框架、分析视角与批判范式。
 > - **知识位置** 国际关系学派中的英国学派奠基性理论，由马丁·怀特于 1950 年代末提出，并由赫德利·布尔等继承；后由[[Eleftherios Klerides\|克莱里德斯]]于 2023 年系统性地移植并发展于比较教育领域。
 

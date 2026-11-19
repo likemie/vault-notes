@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Evidence Era]]"
   - "[[Policy-Based Evidence-Making]]"
   - "[[Knowledge Production]]"
+  - "[[Neoliberalism]]"
   - "[[Research Literacy]]"
   - "[[Rationalized Myth]]"
   - "[[New Public Management]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -67,7 +68,7 @@ updated: 2026-11-15
 > - **代表贡献** 提出“以研究为导向的临床实践”（Research-Informed Clinical Practice）[[Paradigm\|范式]]；主导 BERA-RSA 教师教育国家调查；系统论证教育政策从测量时代向[[Evidence Era\|证据时代]]的治理范式演进与[[Policy-Based Evidence-Making\|基于政策的证据制造]]机制。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 88–91)]]
 
 > [!citation-card] 教师教育与证据治理的学术定位
-> 门特的研究长期聚焦于教师教育中的[[Knowledge Production\|知识生产]]、政策演变与实践模式，致力于揭示政治权力与新自由主义治理如何重构教育研究在教师专业发展中的地位。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 88)]]
+> 门特的研究长期聚焦于教师教育中的[[Knowledge Production\|知识生产]]、政策演变与实践模式，致力于揭示政治权力与[[Neoliberalism|新自由主义治理]]如何重构教育研究在教师专业发展中的地位。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 88)]]
 >
 > *His research focuses on knowledge production, policy issues, and practices in teacher education, as well as the labour market for teachers and teacher’s work.*
 

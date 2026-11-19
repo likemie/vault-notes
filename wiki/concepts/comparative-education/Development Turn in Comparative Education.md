@@ -7,7 +7,7 @@ aliases:
 summary: "Gita Gita Steiner-Khamsi (2006)提出的概念，指二战后领土帝国崩溃、冷战超级大国争夺新独立国家背景下，比较教育的资金、焦点和方法系统性转向发展中国家教育的过程。在冷战地缘博弈和科学主义的合谋下，该转向将教育规划重构为经济投资，并在后冷战时期演变为新自由主义全球治理下的“最佳实践”输出机制。"
 type: concept
 domain: "comparative-education"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Policy Borrowing]]"
   - "[[Mutual Learning]]"
+  - "[[Neoliberalism]]"
   - "[[Methodological Statism]]"
   - "[[Scientism]]"
   - "[[Competitiveness]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-11-03
+updated: 2026-11-19
 ---
 
 ---
@@ -83,7 +84,7 @@ updated: 2026-11-03
 > |------|--------|----------------|----------------|
 > | **分析对象** | 发展中国家的教育规划与[[Human Capital Theory\|人力资本]]开发。 | 帝国统治下的殖民地教育与土著学校。 | 全球多边治理网络中的政策流转与标准数据。 |
 > | **核心机制** | 冷战博弈中的“技术援助”与人力资本理论输出。 | 协助帝国行政管理的文明化使命与行政控制。 | 依托大数据和基准测试（如[[PISA]]）的远处治理。 |
-> | **权力结构** | 主权平等名义下的依附关系与不对称技术专家统治。 | 领土占领与赤裸裸的文化殖民压迫。 | 去政治化、去中心化网络中的新自由主义资本统治。 |
+> | **权力结构** | 主权平等名义下的依附关系与不对称技术专家统治。 | 领土占领与赤裸裸的文化殖民压迫。 | 去政治化、去中心化网络中的[[Neoliberalism\|新自由主义]]资本统治。 |
 
 ---
 

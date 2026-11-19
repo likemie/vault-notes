@@ -6,7 +6,7 @@ aliases:
 summary: "比较教育政策借鉴中的一种技术统治主义幻想，指通过开发无缝的嵌入几何学，完全打破和消解接受国本土的情境抗性与免疫机制，实现跨国教育体制或评估模式的精准复制"
 type: concept
 domain: "comparative-education"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -16,6 +16,7 @@ tags:
   - theme/transfer
   - theme/ethics
 related_concepts:
+  - "[[Neoliberalism]]"
   - "[[Geometries of Insertion]]"
   - "[[Variable]]"
   - "[[Global Universities Rankings]]"
@@ -36,13 +37,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-03
-updated: 2026-10-22
+updated: 2026-11-19
 ---
 
 ---
 
 > [!def] Social Cloning
-> 社会克隆（Social Cloning，亦称“制度克隆”）是比较教育学对新自由主义政策移植和全球趋同治理现象的一个批判性概念。它指的是跨国政策制定者和技术官僚试图通过开发精密的嵌入技术（即“[[Geometries of Insertion\|嵌入几何学]]”），系统性地剥夺或攻破接受国的本土情境抗性与免疫机制，从而将一种在特定情境下产生出的教育体制、质量保障或评估模型，跨国无缝地精准复制与物理平移至另一国家的行政实践（[[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 324]]）。
+> 社会克隆（Social Cloning，亦称“制度克隆”）是比较教育学对[[Neoliberalism|新自由主义]]政策移植和全球趋同治理现象的一个批判性概念。它指的是跨国政策制定者和技术官僚试图通过开发精密的嵌入技术（即“[[Geometries of Insertion\|嵌入几何学]]”），系统性地剥夺或攻破接受国的本土情境抗性与免疫机制，从而将一种在特定情境下产生出的教育体制、质量保障或评估模型，跨国无缝地精准复制与物理平移至另一国家的行政实践（[[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 324]]）。
 
 > [!concept-lens] 概念透镜
 > - **关注焦点** 技术主义试图消解情境（Context）阻力、追求无摩擦政策借鉴的政治操作。

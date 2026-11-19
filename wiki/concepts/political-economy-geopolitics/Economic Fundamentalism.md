@@ -5,7 +5,7 @@ aliases:
 summary: "指将自由市场机制与经济效率上升为解释并裁决人类一切社会生活、制度安排与道德伦理的最高自明法则；在跨国教育政策中，将教育公平窄化为形式上的学校准入，将性别平权简化为盘活女性劳动力的减贫工具，将社会资本残余化为社会维稳手段，抽空了实质社会正义的批判核心。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Public Value]]"
   - "[[Return on Investment]]"
+  - "[[Neoliberalism]]"
   - "[[Paradigm]]"
   - "[[Quasi-market]]"
   - "[[Credential Inflation]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -62,7 +63,7 @@ updated: 2026-11-15
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向将一切社会伦理与[[Public Value|公共价值]]强制折算为市场效率与[[Human Capital Theory|人力资本]][[Return on Investment|投资回报]]的教条化思维。
-> - **用途** 帮助研究者透视新自由主义国际组织如何通过技术化吸纳与语义重构，悄然消解政策文本中的社会正义诉求。
+> - **用途** 帮助研究者透视[[Neoliberalism|新自由主义]]国际组织如何通过技术化吸纳与语义重构，悄然消解政策文本中的社会正义诉求。
 > - **边界** 不等于对经济规律的科学实证研究，亦不适用于解释旨在根本消除阶层与性别压迫的结构性正义方案。
 
 > [!citation-card] 经合组织教育政策中的经济基要主义重构

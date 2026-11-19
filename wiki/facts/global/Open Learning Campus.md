@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ tags:
   - theme/online-learning
   - theme/epistemic-governance
 related_concepts:
+  - "[[Neoliberalism]]"
   - "[[School Autonomy]]"
   - "[[Gamification]]"
   - "[[Massive Open Online Courses]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-23
-updated: 2026-10-30
+updated: 2026-11-19
 ---
 
 # Open Learning Campus
@@ -84,7 +85,7 @@ updated: 2026-10-30
 ## 方案设计与运行机制
 
 > [!claim] 核心机制假说
-> 该项目确立了“数字虚拟研修与专业社会化”的治理干预假说：通过将新自由主义教育治理处方（如[[School Autonomy|学校自主]]、标准化评估、绩效激励）封装为高质量微课程与[[Gamification|游戏化]]微证书认证，能够潜移默化地塑造借款国技术官僚的专业认同与政策偏好，促使其在国家治理实践中主动采纳[[World Bank|世界银行]]的标准技术方案。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 8)]]
+> 该项目确立了“数字虚拟研修与专业社会化”的治理干预假说：通过将[[Neoliberalism|新自由主义]]教育治理处方（如[[School Autonomy|学校自主]]、标准化评估、绩效激励）封装为高质量微课程与[[Gamification|游戏化]]微证书认证，能够潜移默化地塑造借款国技术官僚的专业认同与政策偏好，促使其在国家治理实践中主动采纳[[World Bank|世界银行]]的标准技术方案。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 8)]]
 
 > [!policy-design] 方案设计
 > - **三层次微学习架构** 划分为对话式微学习（Bitesize Learning，播客与短视频）、结构化课程（e-Courses，4–6 周交互课程）及高层实地演练协作空间（Connect），构建系统的研修梯队。

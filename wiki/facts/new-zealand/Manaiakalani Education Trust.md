@@ -9,7 +9,7 @@ subtype: organization
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "organization"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ tags:
   - venture-philanthropy
   - network-governance
 related_concepts:
+  - "[[Neoliberalism]]"
   - "[[Exogenous Privatisation]]"
   - "[[Socioeconomic Status]]"
   - "[[Venture Philanthropy]]"
@@ -55,13 +56,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
 
 > [!claim] 核心定位
-> 马奈卡拉尼教育信托（Manaiakalani Education Trust）是 2011 年在新西兰奥克兰设立的独立教育慈善信托，采用公私混合治理结构，旨在为弱势社区公立学校引入外部商业资本、高参与度慈善基金与数字化学习项目，是新西兰基础教育新自由主义现代化与[[Exogenous Privatisation|外生私有化]]的代表性案例。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 9, 27)]]
+> 马奈卡拉尼教育信托（Manaiakalani Education Trust）是 2011 年在新西兰奥克兰设立的独立教育慈善信托，采用公私混合治理结构，旨在为弱势社区公立学校引入外部商业资本、高参与度慈善基金与数字化学习项目，是新西兰基础教育[[Neoliberalism|新自由主义]]现代化与[[Exogenous Privatisation|外生私有化]]的代表性案例。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 9, 27)]]
 
 > [!org-context] 机构背景
 > - **创设时间与契机** 2011 年正式登记成立。前身为新西兰教育部于 2008 年资助设立的扩展学校高标准计划（Extending High Standards Across Schools, EHSAS）技术增强型扫盲集群，2010 年转变为教育部资助的信息通信技术（Information and Communications Technology, ICT）专业发展集群。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 27)]]

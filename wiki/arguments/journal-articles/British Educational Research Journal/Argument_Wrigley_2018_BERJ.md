@@ -9,7 +9,7 @@ title: "Argument_Wrigley_2018_BERJ"
 argument_key: "Argument_Wrigley_2018_BERJ"
 argument_display_title: "The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376"
 argument_kind: "journal-article"
-argument_related_count: 48
+argument_related_count: 49
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Visible Learning]]"
   - "[[Evidence-Based Education]]"
+  - "[[Neoliberalism]]"
   - "[[Empiricism]]"
   - "[[Value Neutrality]]"
   - "[[Ontology]]"
@@ -87,7 +88,7 @@ part_of: ""
 related_instruments: []
 status: draft
 created: 2026-05-01
-updated: 2026-10-30
+updated: 2026-11-19
 year: 2018
 doi: 10.1002/berj.3338
 citation_aliases:
@@ -98,7 +99,7 @@ citation_aliases:
 > 本文聚焦于循证教学中将“证据”窄化为统计平均值时，所产生的多重方法论与 [[Epistemology\|认识论]]（Epistemology）危机：
 > 1. 当教育研究中的证据被窄化为 [[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trials, RCT）与 [[Effect Size\|效应量]]（Effect Size）的统计均值时，在**技术、哲学与意识形态**三个层面会产生哪些局限性与消极后果？
 > 2. 从单一实验的第一级（Level 1）到 [[Meta-analysis\|元分析]]（Meta-analysis）的第二级（Level 2）、再到 [[Meta-meta-analysis\|元-元分析]]（Meta-meta-analysis）的第三级（Level 3，如 [[John Hattie\|约翰·哈蒂]]（John Hattie）的《[[Visible Learning\|可见的学习]]》（Visible Learning，VL）与 英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）的《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]（Teaching and Learning Toolkit）》）的逐级递进中，统计数据是如何层层复合、放大失真的？
-> 3. [[Evidence-Based Education\|证据本位教育]]（Evidence-Based Education, EBE）的统计修辞如何与新自由主义政策框架合谋，进而导致一线教师的去专业化？
+> 3. [[Evidence-Based Education\|证据本位教育]]（Evidence-Based Education, EBE）的统计修辞如何与[[Neoliberalism|新自由主义]]政策框架合谋，进而导致一线教师的去专业化？
 
 > [!claim] 核心主张
 > 教育中的“证据本位”运动在技术上通过统计聚合层层剥离情境，哲学上基于休谟粗糙的[[Empiricism\|经验论]]抹杀因果机制与人类能动性（Agency），其本质是新自由主义审计文化的体现，旨在用 [[Value Neutrality\|价值中立]]（VALUE Neutrality）的科学修辞将教育的价值与政治问题转化为纯粹的效率传递技术。

@@ -8,7 +8,7 @@ aliases:
 summary: "兴起于拉丁美洲并拓展至比较教育的新马克思主义批判路径。拒绝现代化理论将欠发展归结为内部缺失的技术主义假设，主张从全球资本主义世界体系的中心-边缘结构性支配、跨国垄断资本掠夺、受限国家阶级联盟、金融-智识复合体规训及影子国家外包机制出发，解释第三世界国家教育不平等、双轨分流及学术依附；构成战后第四代际批判冲突与跨国宏观范式的核心基石。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 76
+theory_related_count: 77
 theory_related_level: 7
 theory_related_stars: "💎💎⭐"
 theory_related_color: "#fef3c7"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Transnational Education]]"
   - "[[Import Substitution Industrialisation]]"
   - "[[Critical Pedagogy]]"
+  - "[[Neoliberalism]]"
   - "[[Financial-Intellectual Complex]]"
   - "[[Dual School System]]"
   - "[[Historical Amnesia]]"
@@ -134,7 +135,7 @@ updated: 2026-11-19
 > - **1977–1978 — 心灵奴役与学术依附命题** 菲利普·阿尔特巴赫（Altbach, 1977）提出“心灵的奴役”（Servitude of the Mind），揭示学术期刊、科研出版与国际学位垄断如何在外围学者中再生产非自觉的学术依附。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 427)]]
 > - **1980–1982 — 世界体系引入与跨国不平等层层传递机制** [[Robert Arnove|阿诺夫]]（Arnove, 1980, 1982）将[[Immanuel Wallerstein|伊曼努尔·沃勒斯坦]]（[[Immanuel Wallerstein]]）世界体系论引入比较教育，指出跨国基金会与金融机构推行的教育革新固化了中心-边缘分层；卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）特别指出，阿诺夫揭示了中心国家主导外围、外围精英支配边缘大众的跨国不平等层层传递链条。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–153)]]
 > - **1990 — 社会主义社会过渡与[[Critical Pedagogy|解放教育学]]** 卡诺伊与[[Joel Samoff|乔尔·萨莫夫]]（Carnoy & Samoff, 1990）探究第三世界国家在向社会主义过渡期，如何借助激进教育革命清除依附性阶级残余。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 427–428)]]
-> - **2000s — 新自由主义多标度规训与[[Shadow State|影子国家]]** 阿诺夫与萨顿（Sutton & Arnove, 2004）及卡马特（Kamat, 2004）揭示依附机制的新形态：跨国经贸规制（[[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]]）与[[Pluri-Scalar Governance|多标度治理]]穿透民族国家主权，国际援助方绕过政府直接资助非政府组织提供教育，使 NGO 异化为去政治化的影子国家并剥夺国家公共责任。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–112)]]
+> - **2000s — [[Neoliberalism|新自由主义]]多标度规训与[[Shadow State|影子国家]]** 阿诺夫与萨顿（Sutton & Arnove, 2004）及卡马特（Kamat, 2004）揭示依附机制的新形态：跨国经贸规制（[[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]]）与[[Pluri-Scalar Governance|多标度治理]]穿透民族国家主权，国际援助方绕过政府直接资助非政府组织提供教育，使 NGO 异化为去政治化的影子国家并剥夺国家公共责任。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–112)]]
 > - **2009 — [[Conditioned State Theory|受限国家理论]]与[[Financial-Intellectual Complex|金融-智识复合体]]** [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）提出“受限国家”概念，系统剖析第三世界教育扩张畸变、[[Dual School System|双轨学制]]固化及世界银行[[Financial-Intellectual Complex|金融-智识复合体]]的去主权化规训。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 74–75, 81–85)]]
 > - **2009 — 学术史代际定性与[[Historical Amnesia|历史健忘症]]悖论** 卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）在总结学科史四重论述代际时，高度肯定依附论打破实证功能主义与[[Human Capital Theory|人力资本理论]]的神话，但同时也深刻诊断出其宏观政治经济学偏向在客观上伴随着对历史研究方法的放逐，使学科陷入“历史健忘症（Historical Amnesia）”。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–156)]]
 > - **2020s — 高教[[Geopolitics|地缘政治]]与学术新殖民主义** 余婧然与谢爱磊（2025）等学者运用中心-边缘与学术资本透镜，批判全球大学排行榜与西方学术霸权对全球南方学术主权的侵害。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 4–5)]]

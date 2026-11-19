@@ -6,7 +6,7 @@ aliases:
 summary: "教育实践、供给、研究和政策被市场逻辑、投资关系和商业组织深度渗透所形成的跨国产业场域"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 43
+related_count: 44
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -20,6 +20,7 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Champ]]"
+  - "[[Neoliberalism]]"
   - "[[Discourse]]"
   - "[[Charter Schools]]"
   - "[[School Vouchers]]"
@@ -71,13 +72,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-07
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
 
 > [!def] Global Education Industry
-> **全球教育产业（Global Education Industry, GEI）** 是指教育实践、供给、研究和政策日益被经济理性形塑的跨国[[Champ|场域]]，涵盖经济化、市场化、私有化、商品化和金融化等多重过程，将教育重构为一个日益全球化并由私营组织管理的部门（Verger et al., 2016, p. 3, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p. 42]]）。在新自由主义全球治理下，它还通过可测量性和绩效问责制将教育实践及课程政策引向全球经济竞争轨道，侵蚀传统的教育公共属性与整体性价值。[[Argument_Schaffar_2024_CogentEdu|(Schaffar & Wolff, 2024, pp. 9–10)]]; [[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 1–4)]]
+> **全球教育产业（Global Education Industry, GEI）** 是指教育实践、供给、研究和政策日益被经济理性形塑的跨国[[Champ|场域]]，涵盖经济化、市场化、私有化、商品化和金融化等多重过程，将教育重构为一个日益全球化并由私营组织管理的部门（Verger et al., 2016, p. 3, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p. 42]]）。在[[Neoliberalism|新自由主义]]全球治理下，它还通过可测量性和绩效问责制将教育实践及课程政策引向全球经济竞争轨道，侵蚀传统的教育公共属性与整体性价值。[[Argument_Schaffar_2024_CogentEdu|(Schaffar & Wolff, 2024, pp. 9–10)]]; [[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 1–4)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 不仅指向营利性教育产品和服务的跨国生产与消费，也指向一套关于教育效能与创新的新自由主义[[Discourse|话语]]系统和软治理技术。

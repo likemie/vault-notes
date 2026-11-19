@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 36
+fact_related_count: 37
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Heterogeneity]]"
   - "[[The Sublime]]"
+  - "[[Neoliberalism]]"
   - "[[Causality]]"
   - "[[Rich and Thick Description]]"
   - "[[Democratising Evidence]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -145,7 +146,7 @@ updated: 2026-11-15
 > > [!axis] 教学文化的本土脉络情境性 vs [[OECD\|经合组织]]标准化普适量规
 > > 教师教育社会学与批判人类学者质疑将复杂微观教学实践化约为全球通用指标。
 > >
-> > - **批判学者（Robertson, 2012; Sellar & Lingard, 2013）** 批评 TALIS 将深深植根于民族文化、伦理道德与社群传统的教学艺术，强行纳入新自由主义的标准化通用指标体系，暗中推崇盎格鲁-撒克逊式的绩效主义教师观念，忽视了欧陆或东亚独特的师徒传承与教天地人之道。
+> > - **批判学者（Robertson, 2012; Sellar & Lingard, 2013）** 批评 TALIS 将深深植根于民族文化、伦理道德与社群传统的教学艺术，强行纳入[[Neoliberalism|新自由主义]]的标准化通用指标体系，暗中推崇盎格鲁-撒克逊式的绩效主义教师观念，忽视了欧陆或东亚独特的师徒传承与教天地人之道。
 > > - **OECD 研发团队** 辩解称 TALIS 的量表设计经历了极其严格的跨国心理测量学等价性检验，其目的不在于评判教师孰优孰劣，而是为各国揭示改善教师工作条件的政策支点。
 >
 > > [!axis] 政策工具的自陈偏误与高利害化问责风险

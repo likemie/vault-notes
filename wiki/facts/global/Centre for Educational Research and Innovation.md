@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 56
+fact_related_count: 57
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Critical Thinking Assessment]]"
   - "[[Paradigm]]"
+  - "[[Neoliberalism]]"
   - "[[Governing by Numbers]]"
   - "[[Performance Indicators]]"
   - "[[Construct]]"
@@ -92,7 +93,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-11
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -172,7 +173,7 @@ updated: 2026-11-11
 > > - **工会与赋权学者立场（班斯 / [[Vivian Tseng\|曾薇薇安]] / 友利田）** 指出单纯从出资人角度拔高技术标准只会进一步剥夺一线教师所有权，造成高校对社区的榨取式科研与均值正态化排斥，必须推进[[Democratising Evidence\|证据民主化]]。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 209–227)]]
 >
 > > [!axis] 人文定性使命 vs 经济主义指标霸权的制度拉锯
-> > 围绕 CERI 究竟应作为抵御新自由主义的技术刹车片，还是沦为跨国量化规训的隐蔽孵化器，学界存在持续反思。
+> > 围绕 CERI 究竟应作为抵御[[Neoliberalism|新自由主义]]的技术刹车片，还是沦为跨国量化规训的隐蔽孵化器，学界存在持续反思。
 > >
 > > - **社会民主与人文反思视界（帕帕多普洛斯 / [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]）** 强调 CERI 创设之初确立了教育改善生活条件的定性维度与社会民主主义妥协，在 1970–1980 年代维系了多元包容的意识形态教会；其前瞻探索始终尝试对冲狭隘的[[Human Capital Theory|人力资本]]功利偏见。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–440)]]
 > > - **批判政治经济学视界（戈鲁尔）** 指出 CERI 在 1980 年代后期主导孵化的 [[International Indicators of Education Systems|INES]] 指标网络与《[[Education at a Glance|教育概览]]》，恰恰为 1990 年代经合组织彻底转向[[Governing by Numbers|数字治理]]与 [[PISA]] 霸权铺平了道路，客观上完成了将复杂的质性教育哲学降维为跨国等值测度指标的历史交割。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 5–8)]]

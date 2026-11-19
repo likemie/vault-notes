@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: chile
 person_region: "chile"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ tags:
   - neoliberalism
   - region/chile
 related_concepts:
+  - "[[Neoliberalism]]"
   - "[[School Vouchers]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Educational Privatisation]]"
@@ -52,14 +53,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-30
+updated: 2026-11-19
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 拉美著名社会人类学家、城市人类学开拓者；智利科学院院士、墨西哥国立自治大学（UNAM）[[Ethnography|人类学研究]]所荣休高级研究员，曾任拉丁美洲人类学学会会长。
-> - **核心角色** 拉美中产阶级、非正式制度与生存互助网络研究的领军学者；通过对智利皮诺切特军政权下中产阶级家庭的长期田野民族志调查，率先揭露了新自由主义极端市场化、[[School Vouchers|教育券]]制度与使用者付费如何残酷侵蚀普通家庭生计，为解构新自由主义“自由选择”神话提供了不可替代的一手实证人类学基准。
+> - **核心角色** 拉美中产阶级、非正式制度与生存互助网络研究的领军学者；通过对智利皮诺切特军政权下中产阶级家庭的长期田野民族志调查，率先揭露了[[Neoliberalism|新自由主义]]极端市场化、[[School Vouchers|教育券]]制度与使用者付费如何残酷侵蚀普通家庭生计，为解构新自由主义“自由选择”神话提供了不可替代的一手实证人类学基准。
 > - **代表贡献** 提出拉美边缘群体与中产阶级互助生存网络模型；出版《边缘人如何生存：墨西哥城棚户区的互助网络》（1975/1977）与《智利中产阶级：新自由主义下的生存斗争》（与安娜·梅尔尼克合著，1991）。
 
 > [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论洛姆尼茨等学者对新自由主义结构调整与智利社会危机的实证剖析

@@ -8,10 +8,10 @@ aliases:
 summary: "在比较教育与政策借用研究中，指被特定国家用作自身教育体制改革、政策辩护或合法化重构的外部参照范例或制度模板。概念源自施瑞尔（Jürgen Schriewer）的“外化假说”与卢曼系统论，强调系统对外部参照点的内部建构以应对政策情境的偶然性与不确定性。在当代全球量化治理中，经合组织通过外向型同行比较建构参考社会，而世界银行则展现出以自身工具与项目为依归的自指性中介特征。"
 type: concept
 domain: "comparative-education"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - concept/comparative-education
   - theme/reference-society
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Technical Rationality]]"
   - "[[Transfer Science]]"
+  - "[[Neoliberalism]]"
   - "[[Variable]]"
   - "[[Document]]"
   - "[[Transfer Translation Transformation]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-05
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -190,7 +191,7 @@ updated: 2026-11-15
 > > 争论参考社会是由严密因果数据客观筛选产生，还是体现了特定治理话语的特权背书。
 > >
 > > - **实证主义政策[[Transfer Science|转移学]]者** 坚信 PISA 等标准化大数据提供了跨越国界的客观基准，高位参考社会承载了最前沿的教育效能经验。
-> > - **批判比较学者（[[Argument_Klerides_2023_CE|Klerides, 2023]]; [[Argument_Li_2025_HSSC|Li et al., 2025]]）** 揭示西方国家对非西方参考社会的系统性降格，指出模范社会的加冕往往充当了新自由主义绩效问责与去语境化政策推销的载体。
+> > - **批判比较学者（[[Argument_Klerides_2023_CE|Klerides, 2023]]; [[Argument_Li_2025_HSSC|Li et al., 2025]]）** 揭示西方国家对非西方参考社会的系统性降格，指出模范社会的加冕往往充当了[[Neoliberalism|新自由主义]]绩效问责与去语境化政策推销的载体。
 >
 > > [!axis] 实质性制度改进 vs 国内政治相持下的机会主义外化
 > > 争论效仿外部经验旨在改善教学质量，还是仅为化解国内政治争议与克服阻力的修辞掩护。

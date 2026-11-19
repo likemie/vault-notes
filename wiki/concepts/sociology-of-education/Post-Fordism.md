@@ -7,7 +7,7 @@ aliases:
 summary: "描述全球资本积累由流水线集中生产转向弹性灵活积累的生产组织范式，在教育系统体现为由标准化大众供给转向技能模块化、绩效问责、数字化全景监视与市场竞争性治理。"
 type: concept
 domain: "sociology-of-education"
-related_count: 41
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -23,9 +23,11 @@ related_concepts:
   - "[[Alienation]]"
   - "[[Cognitive Deskilling]]"
   - "[[Educational Privatisation]]"
+  - "[[Neoliberalism]]"
   - "[[Performance Indicators]]"
   - "[[Dual School System]]"
   - "[[Credential Inflation]]"
+  - "[[Curricular Form]]"
   - "[[Technical Rationality]]"
   - "[[Assemblage]]"
   - "[[School Vouchers]]"
@@ -69,7 +71,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -97,7 +99,7 @@ updated: 2026-11-18
 > | 维度 | 福特制（Fordism） | 后福特制（Post-Fordism） |
 > |---|---|---|
 > | **经济积累方式** | 集中在工厂的大规模标准化流水线生产 | 跨国离散分布、快速重构的弹性灵活积累网络 |
-> | **国家角色定位** | 凯恩斯主义福利国家，负责劳动力再生产托底 | 新自由主义监管国家，推行去规制化与私有化 |
+> | **国家角色定位** | 凯恩斯主义福利国家，负责劳动力再生产托底 | [[Neoliberalism\|新自由主义]]监管国家，推行去规制化与私有化 |
 > | **劳动力画像诉求** | 遵从纪律、耐受重复劳动的终身产业工人 | 快速转岗、模块化技能、忍受不稳定就业的灵活劳动力 |
 > | **课程组织逻辑** | 全国统一步调、分科固定、强调标准化集体规范 | 能力本位（Competency-based）、微型凭证、强调个体竞争与弹性选修 |
 > | **控制与评价机制** | 官僚外在科层监督与等级考勤制度 | 目标管理、关键[[Performance Indicators\|绩效指标]]（KPI）、软件信息抓取与数字化全景监控 |
@@ -108,7 +110,7 @@ updated: 2026-11-18
 
 > [!feature] 后福特主义教育转型的四重运作维度
 > - **弹性技能与[[Cognitive Deskilling|去技能化]]/再技能化辩证法** 资本不再保障长周期终身雇佣，要求学校破除传统人文知识体系，拆解出高度可拆卸、即插即用的模块化技能；在此过程中，劳动者对生产过程的整体理解力被剥离（去技能化），同时被要求持续学习碎片化软件与操作规程（再技能化）。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 79)]]
-> - **课程形式的技术控制逻辑** 遵循[[Michael W. Apple|迈克尔·阿普尔]]（Michael Apple, 1982）的批判分析，后福特制将[[Technical Rationality|技术理性]]内置于课程设计中，通过标准化测试、行为目标量规与教案脚本化，剥夺一线教师的专业自主权，将其降格为课程生产流水线的[[Assemblage|组装]]工。
+> - **[[Curricular Form|课程形式]]的技术控制逻辑** 遵循[[Michael W. Apple|迈克尔·阿普尔]]（Michael Apple, 1982）的批判分析，后福特制将[[Technical Rationality|技术理性]]内置于课程设计中，通过标准化测试、行为目标量规与教案脚本化，剥夺一线教师的专业自主权，将其降格为课程生产流水线的[[Assemblage|组装]]工。
 > - **公共性收缩与市场化准则注入** 伴随跨国资本对公共财政支出的挤压，国家逐步削减基础教育与高等教育的无偿转移支付，引入使用者付费（User Fees）、[[School Vouchers|教育券]]制度与院校绩效竞争，将教育转变为个体积累竞争优势的私人商品。
 > - **微观车间级数字化信息收集与全景监视渗透** 伴随工业生产由[[Charles Taylor|泰勒]]制、福特制向后福特制演进，现代工作场所的核心特征从实体传送带控制转向无处不在的数字化信息收集与全景监视（Portnoi, 2016; Rosenblat et al., 2014）。这一逻辑在教育领域的投射，体现为通过网络化评估软件（如 [[Assessment Tools for Teaching and Learning|asTTle]]）与气压计式绩效仪表盘（如 [[Barometer of Achievement|成就气压计]]），支持行政管理层对教师的软件使用、测试进度及[[Effect Size|效应量]]产出进行全网实时追踪，将学校微观课堂重构为受[[Panopticism|全景敞视]]技术控制的数据车间。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]
 

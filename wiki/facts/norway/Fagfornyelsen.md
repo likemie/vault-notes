@@ -12,7 +12,7 @@ subtype: policy
 region: norway
 fact_region: "norway"
 fact_kind: "policy"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Construct]]"
   - "[[Policy Translation]]"
+  - "[[Neoliberalism]]"
   - "[[Technical Rationality]]"
   - "[[Competitiveness]]"
   - "[[Evidence-Based Policy-Making]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-09
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -123,7 +124,7 @@ updated: 2026-11-11
 > > - **传统学术派批评** 认为跨学科主题可能导致学科边界模糊与教学内容虚化。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 535, 540)]]
 > > - **改革团队回应** 强调深度学习必须依托核心学科概念展开，素养框架旨在激活学科本质而非取代学科根基。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 538, 540)]]
 >
-> > [!axis] 经合组织外部新自由主义议程渗透争议
+> > [!axis] 经合组织外部[[Neoliberalism|新自由主义]]议程渗透争议
 > > 批判学者指出改革方案在很大程度上是将经合组织倡导的经济[[Human Capital Theory|人力资本]]逻辑披上本土福利国家的外衣，存在被超国家[[Technical Rationality|技术理性]]规训的危险。
 > >
 > > - **批判比较学者观点** 质疑改革虽然在表面上被包装为北欧独特传统，实质上是经合组织全球趋同话语在本土的合法化复刻。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 540–542)]]

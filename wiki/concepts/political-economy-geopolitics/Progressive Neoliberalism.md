@@ -5,10 +5,10 @@ aliases:
 summary: "Nancy Fraser 提出的概念，指新自由主义经济政策与进步社会议程之间形成的话语和政治联盟。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - progressive-neoliberalism
 - nancy-fraser
@@ -16,6 +16,7 @@ tags:
 - silicon-valley-worldview
 - region/global
 related_concepts:
+  - "[[Neoliberalism]]"
   - "[[Discourse]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Knowledge-Based Economy]]"
@@ -33,11 +34,11 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 > [!info] 定义
-> 进步新自由主义（Progressive Neoliberalism）是 Nancy Fraser（2019）提出的概念，指一种将新自由主义经济政策（去监管化、私有化、自由市场）与进步社会议程（多样性、包容、赋权）在[[Discourse|话语]]层面相结合的政治意识形态形态。[[Argument_Moisio_2022_Springer\|Moisio (2022)]]将其定位为过去三十年[[Knowledge-Based Economization\|知识经济化]]过程的主要政治推力——一种"硅谷世界观"（Silicon Valley worldview），强调无国界世界、技术经济无限增长和全球化精英网络([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.31–32]])。
+> 进步[[Neoliberalism|新自由主义]]（Progressive Neoliberalism）是 Nancy Fraser（2019）提出的概念，指一种将新自由主义经济政策（去监管化、私有化、自由市场）与进步社会议程（多样性、包容、赋权）在[[Discourse|话语]]层面相结合的政治意识形态形态。[[Argument_Moisio_2022_Springer\|Moisio (2022)]]将其定位为过去三十年[[Knowledge-Based Economization\|知识经济化]]过程的主要政治推力——一种"硅谷世界观"（Silicon Valley worldview），强调无国界世界、技术经济无限增长和全球化精英网络([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.31–32]])。
 >
 
 > [!example] 概念辨析

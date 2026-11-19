@@ -8,7 +8,7 @@ aliases:
 summary: "在比较教育与政策分析中，指代全球化背景下教育改革模型脱离原有社会脉络，通过国际组织和政策网络在跨国空间中多维循环，并在不同本土情境中被不断转译、重新合法化和变形的非线性流变过程。"
 type: concept
 domain: "comparative-education"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Policy Entrepreneur]]"
   - "[[Open Method of Coordination]]"
   - "[[Policy Translation]]"
+  - "[[Neoliberalism]]"
 related_theories:
   - "[[Actor-Network Theory]]"
 related_methods:
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-11
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -105,7 +106,7 @@ updated: 2026-11-11
 ---
 
 > [!dev-timeline] 发展脉络
-> - **2006 — 概念提出与空间解构** [[Jenny Ozga]] and Roger Jones 首次阐明 travelling policy，关注跨国新自由主义改革如何绕过国家机器通过[[Discourse|话语]]直接在地方学校网络中发生作用。
+> - **2006 — 概念提出与空间解构** [[Jenny Ozga]] and Roger Jones 首次阐明 travelling policy，关注跨国[[Neoliberalism|新自由主义]]改革如何绕过国家机器通过[[Discourse|话语]]直接在地方学校网络中发生作用。
 > - **2009 — [[Policy Network\|政策网络]]与空间流变整合** Beech 指出大国和多边组织通过跨国流转构筑“全球花园”，比较教育必须用新词汇突破“输入-输出”二元论；Cowen 提出 [[Transfer Translation Transformation\|3T 框架]]将“变形”引入政策旅行流。([[Argument_Beech_2009_CE\|Beech, 2009a]])
 > - **2012 — 协调与对齐实证** Steiner-Khamsi and Waldow 编著《教育[[Policy Borrowing\|政策借用]]与出借世界年鉴》，聚焦协调（harmonisation）和标准化（standardisation）作为旅途政策的主要制度化对齐方式。
 > - **2023 — [[Actor-Network Theory\|行动者网络理论]]（ANT）的全面连结** Klerides 阐述在理性主义传统下，政策作为“非人类行动者”在异质网格（Actor-Network）中的流动，完成了从传统的静态对比到网络化动态分析的学科演变。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 424–425]])

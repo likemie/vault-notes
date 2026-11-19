@@ -10,7 +10,7 @@ aliases:
 summary: "国际组织在学习危机话语中界定的儿童在初小学阶段必须掌握的初级阅读、书写与基础算术技能。虽作为保障基本受教育权的操作化底线，但在全球治理规制中常被作为普世量化通约指标，挤压了艺术、批判思维、社会情感学习与本土语言文化传统的合法空间，将复杂的教育生态窄化为技术官僚的短期干预指标（Schweisfurth, 2022; Santos & Silova, 2026）。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Inquiry-Based Learning]]"
   - "[[Policy Borrowing]]"
   - "[[Metacognition]]"
+  - "[[Neoliberalism]]"
   - "[[Alienation]]"
   - "[[Quality Education]]"
   - "[[Critical Pedagogy]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-10
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -134,7 +135,7 @@ updated: 2026-11-15
 
 > [!debates|notitle] 学术争议
 >
-> > [!axis] 基本人权底线保障 vs 新自由主义指标窄化
+> > [!axis] 基本人权底线保障 vs [[Neoliberalism|新自由主义]]指标窄化
 > > 围绕将教育资源全面压注于读写算技能属于夯实公平基石，还是新自由主义对教育目的的[[Alienation|异化]]展开辩论。
 > >
 > > - **多边实务规划派** 坚称掌握最基础的读写算是个体进入现代社会、摆脱世代贫困的最基本工具人权，在生存危机面前，任何脱离读写算的[[Quality Education|素质教育]]都是奢侈的空谈。

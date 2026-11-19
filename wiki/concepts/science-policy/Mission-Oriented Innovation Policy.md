@@ -10,7 +10,7 @@ aliases:
 summary: "以应对重大社会挑战和变革性系统转型为核心导向，通过主动塑造与共创市场、战略方向引导、挑选意愿者、三层公共动态能力构建与引领和学习范式推动创新的公共政策体系"
 type: concept
 domain: "science-policy"
-related_count: 62
+related_count: 63
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -56,6 +56,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Electronic Design Automation]]"
   - "[[Determinism]]"
+  - "[[Neoliberalism]]"
   - "[[Academic Freedom]]"
   - "[[Cognitive Deskilling]]"
 related_theories:
@@ -92,7 +93,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -248,7 +249,7 @@ updated: 2026-11-15
 > - **2018 — [[EU|欧盟]][[Horizon Europe|地平线欧洲]]战略确立与 ROAR 框架** [[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）提出[[Market Shaping and Creating|市场塑造]]、[[Picking the Willing|挑选意愿者]]机制与 ROAR [[Analytic Framework|分析框架]]，推动使命导向框架进入欧盟科研创新顶层设计。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–815)]]
 > - **2018 — 三代演化理论与[[Public Dynamic Capabilities|公共部门动态能力]]构建** 卡特尔与[[Mariana Mazzucato|马祖卡托]]提出三代使命政策理论，打破 [[New Public Management|NPM]] 束缚，确立国家、政策与行政三层[[Public Dynamic Capabilities|公共动态能力]]及[[Lead-and-Learn Paradigm|引领与学习范式]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–801)]]
 > - **2020 — 过程导向与问题–解决方案空间建构** [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]]系统解构社会挑战的双重棘手性，提出基于问题–解决方案空间的过程导向汇合路径框架。
-> - **2022–2026 — 战略性关键技术主权与半导体使命重构** 美国《[[CHIPS and Science Act|芯片与科学法案]]》规划向科研与创新体系注入约 2000 亿美元公共投资，推动科技政策由新自由主义市场中立转向战略驱动的使命导向创新政策（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）；通过 [[National Science Foundation|NSF]] 与能源部为 EDA 工具与新型器件注入强方向性，引导大学开展跨界有组织科研与共置中试攻关。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 20–21)]]
+> - **2022–2026 — 战略性关键技术主权与半导体使命重构** 美国《[[CHIPS and Science Act|芯片与科学法案]]》规划向科研与创新体系注入约 2000 亿美元公共投资，推动科技政策由[[Neoliberalism|新自由主义]]市场中立转向战略驱动的使命导向创新政策（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）；通过 [[National Science Foundation|NSF]] 与能源部为 EDA 工具与新型器件注入强方向性，引导大学开展跨界有组织科研与共置中试攻关。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 20–21)]]
 
 ---
 

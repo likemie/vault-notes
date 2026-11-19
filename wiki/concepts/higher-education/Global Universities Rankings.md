@@ -9,7 +9,7 @@ aliases:
 summary: "对高等教育机构进行比较性评估和排序的量化工具系统，已成为驱动大学竞争、政策调整和全球高教分层的重要基础设施。"
 type: concept
 domain: "higher-education"
-related_count: 63
+related_count: 64
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -56,6 +56,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Reliability]]"
   - "[[Halo Effect]]"
+  - "[[Neoliberalism]]"
   - "[[Professional Judgment]]"
   - "[[Knowledge Production]]"
 related_theories:
@@ -91,7 +92,7 @@ related_arguments:
 confidence: medium
 status: stable
 created: '2026-05-11'
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -244,7 +245,7 @@ updated: 2026-11-15
 > 排名固化历史既得利益，完全不考察高校生源的起点差异与学业增值贡献。声誉调查在统计学上只是周而复始地再生产先验名气，扼杀了后发国家与弱势高校通过体制创新打破阶层固化的可能性（Marginson, 2014, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p. 135]]）。
 
 > [!critique-logic] 象征与经济权力的操纵机器
-> 批判学者将全球排名界定为一种服务于跨国新自由主义精英利益的政治意识形态技术，它侵蚀了学术人员的自主[[Professional Judgment|专业判断]]，将教育降格为资本增殖与地缘博弈的工具（Amsler & Bolsmann, 2012, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p. 132]]）。
+> 批判学者将全球排名界定为一种服务于跨国[[Neoliberalism|新自由主义]]精英利益的政治意识形态技术，它侵蚀了学术人员的自主[[Professional Judgment|专业判断]]，将教育降格为资本增殖与地缘博弈的工具（Amsler & Bolsmann, 2012, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p. 132]]）。
 
 ---
 

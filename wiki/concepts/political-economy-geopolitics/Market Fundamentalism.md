@@ -7,7 +7,7 @@ aliases:
 summary: "指对市场自发调节与资源配置能力抱有极度夸大信念、主张国家全面撤出经济与社会干预的意识形态教条。在科技政策中，该思潮否认国家资助商业化与前沿产业的合法性，迫使公共发展型干预转向隐形运作，并强化了知识产权垄断与公私收益脱节。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 24
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Discourse]]"
   - "[[Self-control]]"
+  - "[[Neoliberalism]]"
   - "[[Market Failure]]"
   - "[[Paradigm]]"
   - "[[Research Translation]]"
@@ -33,6 +34,7 @@ related_theories:
   - "[[Evolutionary Economics]]"
   - "[[Developmental Network State]]"
   - "[[Pasteur's Quadrant]]"
+  - "[[Developmental State]]"
 related_persons:
   - "[[Fred Block]]"
   - "[[Tim Cain]]"
@@ -42,6 +44,7 @@ related_facts:
   - "[[SBIR and STTR Programs]]"
   - "[[National Institute of Standards and Technology]]"
   - "[[Advanced Technology Program]]"
+  - "[[1997 Asian Financial Crisis]]"
 related_arguments:
   - "[[Argument_Block_2008_PS]]"
 related_methods:
@@ -49,7 +52,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-12
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -68,7 +71,7 @@ updated: 2026-11-11
 > *Market fundamentalism—a vastly exaggerated belief in the capacity of market [[Self-control|self-regulation]] to solve economic and social problems... Milton and Rose Friedman see no economic justification for the government funding scientific research through the [[National Science Foundation]]. If funding scientific research is not a proper governmental role, then certainly there is no justification for public agencies getting involved in the commercialization of new technologies.*
 
 > [!boundary]- 概念边界
-> - 不等于 新自由主义（Neoliberalism） — 新自由主义是一个包罗万象的政治哲学与治理[[Governmentality|治理术]]概念，涵盖宏观经济学、法律体制与全球治理；而市场原教旨主义更聚焦于其核心的极端教条化教义，即对市场万能的绝对信奉与对国家职能的本能拒斥。
+> - 不等于 [[Neoliberalism|新自由主义]]（Neoliberalism） — 新自由主义是一个包罗万象的政治哲学与治理[[Governmentality|治理术]]概念，涵盖宏观经济学、法律体制与全球治理；而市场原教旨主义更聚焦于其核心的极端教条化教义，即对市场万能的绝对信奉与对国家职能的本能拒斥。
 > - 不等于 承认市场机制的新古典与[[Evolutionary Economics|演化经济学]] — 现代经济学充分承认公共品、外部性、信息不对称、网络协调失灵与演化试错的必要性，而市场原教旨主义拒绝承认[[Market Failure|市场失灵]]与公共干预的合理空间。
 
 ---
@@ -139,7 +142,7 @@ updated: 2026-11-11
 > [!dev-timeline] 概念演变
 > - **1944 — 思想渊源：波兰尼《大转型》** 卡尔·波兰尼系统解构了 19 世纪英国“自调节市场”乌托邦的神话，揭示自由市场是国家集中立法与暴力推行的制度产物，并提出社会自我保护的“双重运动”。
 > - **1980 — 新自由主义执政[[Paradigm|范式]]确立** 里根与撒切尔执政时期，弗里德曼与哈耶克的自由放任学说成为主流执政哲学；弗里德曼在《自由选择》中公然否定政府资助科学研究在经济上的正当性。
-> - **1998 — 索罗斯与斯蒂格利茨对全球金融危机的批判** 乔治·索罗斯（George Soros, 1998）与约瑟夫·斯蒂格利茨（Joseph Stiglitz）在反思亚洲金融危机时将[[Washington Consensus|华盛顿共识]]的放任教条定性为“市场原教旨主义”。
+> - **1998 — 索罗斯与斯蒂格利茨对全球金融危机的批判** 乔治·索罗斯（George Soros, 1998）与约瑟夫·斯蒂格利茨（Joseph Stiglitz）在反思[[1997 Asian Financial Crisis|亚洲金融危机]]时将[[Washington Consensus|华盛顿共识]]的放任教条定性为“市场原教旨主义”。
 > - **2008 — [[Fred Block|布洛克]]将其引入科技创新政治经济学** 弗雷德·布洛克在《Politics & Society》文章中将该概念运用于剖析美国国家科技创新体制的扭曲与隐形化。[[Argument_Block_2008_PS|(Block, 2008, pp. 169–172)]]
 > - **2014 — 理论系统化集大成** 布洛克与玛格丽特·萨默斯（Margaret Somers）合著《市场原教旨主义的权力》（The Power of Market Fundamentalism），全面阐发这一意识形态如何通过“自然法则”[[Discourse|话语]]伪装掩盖阶级利益并阻断社会制度改革。
 
@@ -151,7 +154,7 @@ updated: 2026-11-11
 > > 新古典经济学与演化/制度经济学关于市场与国家边界的长久争论。
 > >
 > > - **新古典自由主义阵营** 坚信私人风险投资与市场价格机制能够最敏锐地感知技术需求；政府介入商业化与应用技术必将导致利益集团寻租、低效保护和政治分肥。
-> > - **网络发展型国家倡导者** 实证证明从互联网、全球卫星定位系统（GPS）、微系统器件到 mRNA 疫苗，所有颠覆性前沿突破均由公共资金长期托底并在[[Pasteur's Quadrant|巴斯德象限]]中主动跨界培育而成，纯私人资本由于极高风险与外部性无法承担此类长程试错。[[Argument_Block_2008_PS|(Block, 2008, pp. 171–175)]]
+> > - **网络[[Developmental State|发展型国家]]倡导者** 实证证明从互联网、全球卫星定位系统（GPS）、微系统器件到 mRNA 疫苗，所有颠覆性前沿突破均由公共资金长期托底并在[[Pasteur's Quadrant|巴斯德象限]]中主动跨界培育而成，纯私人资本由于极高风险与外部性无法承担此类长程试错。[[Argument_Block_2008_PS|(Block, 2008, pp. 171–175)]]
 
 ---
 

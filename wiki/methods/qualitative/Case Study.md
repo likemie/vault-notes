@@ -7,9 +7,9 @@ summary: "以单个或少数个案为分析单位深入追踪过程、情境和�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 109
-method_related_level: 10
-method_related_stars: "💎💎💎⭐"
+method_related_count: 110
+method_related_level: 11
+method_related_stars: "💎💎💎⭐⭐"
 method_related_color: "#dbeafe"
 cssclasses:
   - method-manual
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Center of Calculation]]"
   - "[[Data Infrastructure]]"
+  - "[[Neoliberalism]]"
   - "[[School Vouchers]]"
   - "[[Embedded Network Governance]]"
   - "[[Research Universities]]"
@@ -136,7 +137,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-05-08
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -239,7 +240,7 @@ updated: 2026-11-15
 > - [[Argument_Lakhani_2012_AKUIED|Lakhani (2012)]] — 以卡拉奇一所私立学校的 [[IB Diploma Programme|IBDP]] 项目为质性案例研究，探究 [[Theory of Knowledge|TOK]] 课程中学习者的自主性角色与[[Knowledge Building Theory|知识建构]]过程。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald and Nevill (2021)]] — 以 [[Education Endowment Foundation|EEF]] 为单一案例，从内部视角剖析其推动学校大规模 [[Randomised Controlled Trials|RCT]] 的制度设计、独立评估与[[Implementation and Process Evaluation|IPE]]演进。
 > - [[Argument_Hartong_2018_GSE|Hartong (2018)]] — 采用多层级纵向质性个案研究设计，结合全国性政策法规文本、技术白皮书梳理与针对联邦及各州教育部高级决策者、测量学家的[[Expert Interview|专家访谈]]，深入剖析[[Gesamtstrategie zum Bildungsmonitoring|德国国家教育监测总体战略]]下[[Institute for Educational Quality Improvement|柏林教育质量发展研究所]]（IQB）作为国家[[Center of Calculation|计算中心]]的崛起历程与跨尺度绩效[[Data Infrastructure|数据基础设施]]的拓扑运作机制。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 综合运用墨西哥[[State Corporatism|国家法团主义]]成人扫盲补偿、智利新自由主义[[School Vouchers|教育券]]私有化与阿根廷布宜诺斯艾利斯大学（UBA）重构三项典型国别个案研究，深描[[Conditioned State Theory|受限国家]]在依附性积累与新自由主义全球化下教育政策的具体机制与阶级效应。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 综合运用墨西哥[[State Corporatism|国家法团主义]]成人扫盲补偿、智利[[Neoliberalism|新自由主义]][[School Vouchers|教育券]]私有化与阿根廷布宜诺斯艾利斯大学（UBA）重构三项典型国别个案研究，深描[[Conditioned State Theory|受限国家]]在依附性积累与新自由主义全球化下教育政策的具体机制与阶级效应。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 欧洲两百年比较教育学科史考察，揭示学界大量产出的单一外国教育体制深度国别个案研究（in-depth country case studies）内部蕴含着强烈的比较视野，并在后殖民分化、冷战东西欧阵营对峙与跨国宏观社会学比较三大路径上突破了单一民族国家的分析单元容器。
 > - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 以[[Comparative Case Study|比较案例研究]]对比 1950–1970 年代美国半导体与计算机产业，说明空间与国防项目如何经由研发资助、确定需求、新企业准入与人才流动推动产业增长。
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 以 [[DARPA]] MTO 1992–2008 年资助的 4 项半导体材料为分析单元，结合访谈、专利与观察，解析项目经理如何以[[Embedded Network Governance|嵌入型网络治理]]引导[[Technological Trajectories|技术轨道]]。

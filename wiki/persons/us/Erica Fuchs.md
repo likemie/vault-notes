@@ -12,10 +12,10 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 28
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 30
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1977"
 died: ""
 lifespan: "1977–至今"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Competitiveness]]"
   - "[[Feedback]]"
+  - "[[Neoliberalism]]"
   - "[[Network Plasticity]]"
   - "[[Structural Holes]]"
   - "[[Boundary Spanner]]"
@@ -41,6 +42,7 @@ related_concepts:
 related_theories:
   - "[[Developmental Network State]]"
   - "[[Technological Trajectories]]"
+  - "[[Developmental State]]"
   - "[[Organizational Culture]]"
 related_methods:
   - "[[Grounded Theory]]"
@@ -64,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -92,7 +94,7 @@ updated: 2026-11-11
 ---
 
 > [!claim] 核心思想
-> 国家在科技创新中的角色既非新自由主义所主张的被动提供基础研究补贴与税收优惠的“自由市场守夜人”，亦非传统韦伯式发展型国家自上而下武断指定赢家的“科层挑选者”（Picking winners）；相反，国家能够通过具备顶尖技术判断力并深度嵌入专业共同体的公共代理人（如 [[DARPA]] 项目经理），主动调动机动性资金和立项特权重塑科学家与企业之间的社会关系网络，在不钦定单一技术赢家的前提下有力开辟国家关键[[Technological Trajectories|技术轨道]]。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1133–1135, 1144–1145)]]
+> 国家在科技创新中的角色既非[[Neoliberalism|新自由主义]]所主张的被动提供基础研究补贴与税收优惠的“自由市场守夜人”，亦非传统韦伯式[[Developmental State|发展型国家]]自上而下武断指定赢家的“科层挑选者”（Picking winners）；相反，国家能够通过具备顶尖技术判断力并深度嵌入专业共同体的公共代理人（如 [[DARPA]] 项目经理），主动调动机动性资金和立项特权重塑科学家与企业之间的社会关系网络，在不钦定单一技术赢家的前提下有力开辟国家关键[[Technological Trajectories|技术轨道]]。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1133–1135, 1144–1145)]]
 
 > [!theory-components] 福克斯技术治理理论的核心理论构件
 > - **[[Embedded Network Governance|嵌入型网络治理]]（Embedded [[Network Governance]]）**

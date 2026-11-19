@@ -9,7 +9,7 @@ aliases:
 summary: "指公民对政治共同体怀有连贯的历史叙事、共享的伦理抱负及承担防卫与公共奉献义务的实质认同形态；与仅遵循市场规则和消费主义流行文化的薄弱归属感（Thin Belonging）相对立。在技术共和国理论中，通识正典的瓦解导致国家认同退化为薄弱归属，进而造成科技精英在道德真空中的政治脱嵌与技术不可知论。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ tags:
   - theme/national-security
   - theme/higher-education
 related_concepts:
+  - "[[Neoliberalism]]"
   - "[[Technological Agnosticism]]"
   - "[[Nationalism]]"
   - "[[Hard Belief]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -53,7 +54,7 @@ updated: 2026-11-15
 > [!def] Thick Belonging
 > **丰厚归属感（Thick Conception of Belonging，亦称丰厚共同体归属）** 指公民对政治共同体怀有关于国家过去、现在与未来的连贯历史叙事，深刻理解参与民主共和国建设的公共意义，并愿意为公共利益、宪政制度与国家安全承担实质防卫与奉献责任的政治认同形态。
 > 
-> 该概念由政治哲学与技术政治学提出，专门用于对标并批判新自由主义主导下的**薄弱归属感（Thin Conception of Belonging）**——后者将公民身份窄化为对他人权利的消极尊重、对自由市场规则的遵循，以及依托体育、娱乐、时尚与消费品等流行文化维系的松散符号聚合。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 84, 95–96)]]
+> 该概念由政治哲学与技术政治学提出，专门用于对标并批判[[Neoliberalism|新自由主义]]主导下的**薄弱归属感（Thin Conception of Belonging）**——后者将公民身份窄化为对他人权利的消极尊重、对自由市场规则的遵循，以及依托体育、娱乐、时尚与消费品等流行文化维系的松散符号聚合。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 84, 95–96)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种将个人命运与国家历史演进、宪政使命和集体安全紧密绑定的实质政治伦理纽带。

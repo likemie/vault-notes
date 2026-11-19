@@ -8,7 +8,7 @@ aliases:
 summary: "以硬事实施展软权力由 Dennis Niemann、Kerstin Martens 与 Christian Ydesen 等提出，指涉国际组织在缺乏法定强制制裁权的前提下，通过生产标准化、可量化与可比较的硬性实证数据（如 PISA、教育指标、投资回报率），赋予政策倡议以客观科学表象并实施远处治理与绩效问责的核心规制机制。"
 type: concept
 domain: "comparative-education"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Construct]]"
   - "[[Governing by Numbers]]"
+  - "[[Neoliberalism]]"
   - "[[Externalization]]"
   - "[[Knowledge Production]]"
   - "[[Variable]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-03
+updated: 2026-11-19
 ---
 
 ---
@@ -165,7 +166,7 @@ updated: 2026-11-03
 > [!debates] 学术争议
 >
 > > [!axis] 客观科学工具 vs 意识形态规制霸权
-> > 国际组织将硬事实包装为提升公共教育效率与透明度的客观工具，批判社会学与政治学学者则指责其将新自由主义[[Human Capital Theory\|人力资本理论]]作为唯一标准强加于主权国家。
+> > 国际组织将硬事实包装为提升公共教育效率与透明度的客观工具，批判社会学与政治学学者则指责其将[[Neoliberalism|新自由主义]][[Human Capital Theory\|人力资本理论]]作为唯一标准强加于主权国家。
 > >
 > > - **建制派倡导者（[[OECD]] / [[World Bank]]）** 坚称量化指标为国家教育决策提供了去政治化的客观镜像与诊断依据。
 > > - **批判学者（[[Argument_Niemann_Martens_2018_GSP|Niemann & Martens, 2018]]; [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al., 2024]]）** 揭示硬事实剥离了教育的情境性与价值多元性，是以科学理性为幌子实施的远处政治规制。

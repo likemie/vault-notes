@@ -12,7 +12,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 23
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Epistemic Governance]]"
   - "[[Lifelong Learning]]"
+  - "[[Neoliberalism]]"
   - "[[Public-Private Partnership]]"
   - "[[Construct]]"
   - "[[Knowledge Mediation]]"
@@ -57,7 +58,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 # World Bank Institute
@@ -163,7 +164,7 @@ updated: 2026-11-18
 > [!debates] 核心争议交锋
 >
 > > [!axis] 专业能力建设赋权 vs 单向政策兜售与认知规训
-> > 围绕[[World Bank|世界银行]]学院的培训项目究竟是客观的中性能力提升，还是新自由主义意识形态的单向规训。
+> > 围绕[[World Bank|世界银行]]学院的培训项目究竟是客观的中性能力提升，还是[[Neoliberalism|新自由主义意识形态]]的单向规训。
 > >
 > > - **批评学者** 指摘 WBI 扮演着国际金融资本的“意识形态讲堂”；其课程表面上宣称传授“经过科学检验的良好实践”，实质上将[[School Autonomy|学校自主]]、学券竞争、[[Public-Private Partnership|公私伙伴关系]]（PPP）等带有强烈政治经济倾向的处方包装为不可置疑的技术真理，系统性排斥了强调公共性与批判视角的本土教育理论。
 > > - **机构与受训者视角** 辩护指出，发展中国家面临严峻的治理失效与数据匮乏挑战；WBI 提供的实证工具与前沿技能有效降低了各国政策制定的试错成本，且网络互动教学为南南跨国交流提供了宝贵的平等研讨空间。

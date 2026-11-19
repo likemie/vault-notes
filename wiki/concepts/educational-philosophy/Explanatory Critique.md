@@ -7,7 +7,7 @@ aliases:
 summary: "批判实在论的核心认识论命题与规范批判工具。由 Roy Bhaskar 提出并经 Andrew Collier 系统化，主张打破事实与价值、实然与应然的二元对立；当科学因果解释成功揭示出某种虚假信念或意识形态表象是由特定社会结构的客观机制所系统性生产与维系时，这项因果解释本身就在逻辑上构成了对该虚假信念及其背后压迫性结构的规范性批判与去合法化实践。"
 type: concept
 domain: "educational-philosophy"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Chain of Evidence]]"
   - "[[Education Going Global]]"
   - "[[National Rejuvenation Narrative]]"
+  - "[[Neoliberalism]]"
   - "[[Educational Privatisation]]"
 related_theories:
   - "[[Critical Realism]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-19
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -171,5 +172,5 @@ updated: 2026-11-15
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 将解释性批判贯穿于[[Belt and Road Initiative|一带一路]]教育政策[[Discourse Analysis|话语分析]]三维模型，揭示[[Education Going Global|高教出海]]服务国家地缘经济与[[National Rejuvenation Narrative|民族复兴]]的深层因果机制。
-> - [[Argument_Wrigley_2019_ERE|Wrigley and McCusker (2019)]] — 运用[[Critical Realism|批判实在论]]解释性批判，解构新自由主义学校改进指标背后的虚假等值机制。
+> - [[Argument_Wrigley_2019_ERE|Wrigley and McCusker (2019)]] — 运用[[Critical Realism|批判实在论]]解释性批判，解构[[Neoliberalism|新自由主义]]学校改进指标背后的虚假等值机制。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 结合解释性批判反思英国公立[[Educational Privatisation|教育私有化]]进程中社会阶层隔离的深层制度根源。

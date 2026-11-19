@@ -10,7 +10,7 @@ aliases:
 summary: "衡量学生在特定学习阶段、特定学科或特定学术任务中知识、技能与高阶思维掌握程度的多维结果指标。在教育心理学中通常通过课程加权总评成绩（Official Academic Achievement, OAA）、预估总评成绩（Estimated Overall Academic Achievement, EOAA）、标准化测试及良构与劣构任务表现进行操作化测度。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 191
+related_count: 194
 related_level: 19
 related_stars: "💎💎💎💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Publication Bias]]"
   - "[[Concept Mapping]]"
   - "[[Discourse]]"
+  - "[[Neoliberalism]]"
   - "[[Competitiveness]]"
   - "[[Performance Pay]]"
   - "[[Social Science as Legitimation Alibi]]"
@@ -167,10 +168,12 @@ related_facts:
   - "[[PISA]]"
   - "[[Swedish Schools Inspectorate]]"
   - "[[TIMSS]]"
+  - "[[Integrated Programme]]"
   - "[[Recommendation-Based Graduate Admission System]]"
   - "[[World Bank]]"
   - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[National Assessment of Educational Progress]]"
+  - "[[Independent Schools Initiative]]"
   - "[[OECD]]"
   - "[[Research Learning Communities]]"
   - "[[Organic Law on the General Organization of the Education System 1990]]"
@@ -219,7 +222,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-15
-updated: 2026-11-17
+updated: 2026-11-19
 ---
 
 ---
@@ -336,7 +339,7 @@ updated: 2026-11-17
 ---
 
 > [!concept-proposition] 命题五｜宏观量化治理下的跨国学业成就指标具备高度[[Discourse|话语]]可塑性并易被异化为国家审计考核工具
-> **宏观治理中的学业成就[[Discourse|话语]]建构与政治功能** 探讨在大规模国际评估（如 [[PISA]]）中，去情境化的学业成就指标如何从客观心理测量结果异化为高度可塑的话语资本，被执政者用于制造危机修辞与推行新自由主义问责管理。
+> **宏观治理中的学业成就[[Discourse|话语]]建构与政治功能** 探讨在大规模国际评估（如 [[PISA]]）中，去情境化的学业成就指标如何从客观心理测量结果异化为高度可塑的话语资本，被执政者用于制造危机修辞与推行[[Neoliberalism|新自由主义]]问责管理。
 
 > [!claim] [[Argument_Grey_2018_CE|Grey and Morris (2018)]]
 > **客观平稳数据与政治危机叙事的策略性断裂** 跨国评估中的宏观学业成就指标具备极高的话语可塑性。在国际多边评估中，即使受测系统的客观实证数据长期保持平稳且处于均线之上，执政官员仍可通过策略性的“遗漏话语”将客观事实重构为灾难性的停滞衰退与国际[[Competitiveness|竞争力]]丧失。这种将宏观学业成就指标工具化与修辞化的做法，使原本中立的技术测量沦为推行私有化、[[Performance Pay|绩效工资]]制与惩罚性问责等争议性政策的[[Social Science as Legitimation Alibi|合法化借口]]，揭示了全球量化治理中数据对本土政治修辞的深度依附。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, pp. 114–116, 125–126)]]
@@ -398,7 +401,7 @@ updated: 2026-11-17
 > **宏观学制设计对国家整体学业成就分布形态的制约** 探讨追求形式平等的延长年限单一综合制初中若漠视学生的客观禀赋[[Heterogeneity|异质性]]，为何会导致高失败率与极低卓越率并存的整体平庸化现象。
 
 > [!claim] [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]]
-> **单一综合制对学业成就分布两极的双向破坏机制** 宏观比较教育政策分析表明，追求形式平等的均质综合学制在延长义务教育年限的过程中，若缺乏弹性课程分流与学业多样化分支，将对国家学业成就分布产生双向破坏：一方面，强行在初中实施完全统一、不设分流的综合课程大纲，漠视学生客观禀赋与兴趣的异质性，导致大量后进生彻底丧失[[Student Motivation|学习动机]]沦为学业抗拒者，大幅推高义务教育结业阶段的学业失败与辍学重修比例；另一方面，均质化政策为了迁就后进生而系统性降低学业考核标准，不仅未能实质提升弱势群体的达标水平，反而严重压制了优异学生的深层学术潜能，致使国家达到卓越等级的顶尖学生比例极度匮乏，造成整体学业表现滑向系统性平庸。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 330–332)]]
+> **单一综合制对学业成就分布两极的双向破坏机制** 宏观比较教育政策分析表明，追求形式平等的均质综合学制在延长义务教育年限的过程中，若缺乏弹性课程分流与学业多样化分支，将对国家学业成就分布产生双向破坏：一方面，强行在初中实施完全统一、不设分流的[[Integrated Programme|综合课程]]大纲，漠视学生客观禀赋与兴趣的异质性，导致大量后进生彻底丧失[[Student Motivation|学习动机]]沦为学业抗拒者，大幅推高义务教育结业阶段的学业失败与辍学重修比例；另一方面，均质化政策为了迁就后进生而系统性降低学业考核标准，不仅未能实质提升弱势群体的达标水平，反而严重压制了优异学生的深层学术潜能，致使国家达到卓越等级的顶尖学生比例极度匮乏，造成整体学业表现滑向系统性平庸。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 330–332)]]
 
 ---
 
@@ -550,7 +553,7 @@ updated: 2026-11-17
 > | [[Argument_Hattie_2005_ACER\|Hattie (2005)]] | 全球数百项元分析综合及多国中小学数据 | 多层方差分解与元分析综合 | 学业成就总变异来源比例 | 学生个体差异 50%；教师效能 30%；家庭 5–10%；学校 5–10%；同伴 5–10%；校长间接 | — | 宏观方差分解模型；确立教师效能为教育系统内部最大可控因果源泉 |
 > | Hanushek (2005)（引自 Hattie, 2005, pp. 12–13） | 美国 1970–2000 年 40 年公立教育纵向追踪 | 宏观时间序列比较与国家统考分析 | 生均支出、生师比、硕士教师比例 vs [[National Assessment of Educational Progress\|NAEP]] 17 岁统考分（数学、阅读、科学） | 生均支出实际增长 212%，生师比下降 33%，硕士教师增加 137%；NAEP 数学（290）、阅读（285）、科学（280）成绩历经 40 年完全持平 | 历时趋势无统计学显著增长 | 证实脱离微观课堂教学互动的结构性注资无法提高宏观学业成就 |
 > | [[Argument_Lodewyk_2007_EducPsych\|Lodewyk (2007)]] | 447 名加拿大十年级科学课学生（公立与独立教会学校） | [[Survey Research\|调查研究]]、多元分层回归与 MANOVA | 总体学业成就预估（EOAA）、固定快速学习（FQAL）、[[Simplicity of Knowledge\|简单知识]]（SK）、确定知识（CK） | 自报 EOAA 与官方实际总评成绩 OAA 相关 $r = .91$；控制 CK 后，FQAL 和 SK 显著负向预测 EOAA（增量 $\Delta R^2 = .08$）；高成就组在 FQAL 和 SK 上均显著成熟于低成就组（$M = -.22$ vs $.21$ 与 $-.21$ vs $.18$） | 回归增量 $F(3,436) = 12.09, p < .001$；学业组别 MANOVA 主效应 $F(6,874) = 5.52, p < .001, \eta^2 = .04$ | 证实长期平时总评学业成绩与能力可塑性及知识网络化信念高度挂钩 |
-> | Lodewyk（实验子样本） | 89 名加拿大十年级中学生（独立学校实验子样本） | 平衡顺序组内对比设计 | [[Task Structure\|良构任务]]（Well-Structured Task, WST）表现、劣构任务（Ill-Structured Task, IST）表现、[[Reflexivity\|反思性]]判断（[[Reflective Judgment Model\|Reflective Judgment]], RJ）得分 | WST 均分 70.30，IST 均分 67.72；认识论三因子无法预测 WST（$R^2 = .04, p = .37$），但显著预测 IST（$R^2 = .12, p = .01$）与 RJ（$R^2 = .10, p = .04$）；SK 是 IST 与 RJ 的核心负向预测源（$\beta = -.24, p = .02$） | 两任务均分差异 $t(88) = -1.38, p = .17, ES = 0.15$；IST 模型 $F(3,85) = 3.80, p = .01$；RJ 模型 $F(3,85) = 2.97, p = .04$ | 确立[[Task Structure\|任务结构]]对学业表现[[Epistemology\|认识论]]制约效应的关键调节作用 |
+> | Lodewyk（实验子样本） | 89 名加拿大十年级中学生（[[Independent Schools Initiative\|独立学校]]实验子样本） | 平衡顺序组内对比设计 | [[Task Structure\|良构任务]]（Well-Structured Task, WST）表现、劣构任务（Ill-Structured Task, IST）表现、[[Reflexivity\|反思性]]判断（[[Reflective Judgment Model\|Reflective Judgment]], RJ）得分 | WST 均分 70.30，IST 均分 67.72；认识论三因子无法预测 WST（$R^2 = .04, p = .37$），但显著预测 IST（$R^2 = .12, p = .01$）与 RJ（$R^2 = .10, p = .04$）；SK 是 IST 与 RJ 的核心负向预测源（$\beta = -.24, p = .02$） | 两任务均分差异 $t(88) = -1.38, p = .17, ES = 0.15$；IST 模型 $F(3,85) = 3.80, p = .01$；RJ 模型 $F(3,85) = 2.97, p = .04$ | 确立[[Task Structure\|任务结构]]对学业表现[[Epistemology\|认识论]]制约效应的关键调节作用 |
 > | Lodewyk（性别差异分析） | 447 名全样本及 89 名实验子样本 | 性别差异对比分析（独立样本 t 检验与 [[Multivariate Analysis of Variance\|MANOVA]]） | 生理性别（男/女）、EOAA、WST 表现、IST 表现、认识论三因子 | 女生在各维度学业成就上全面显著优于男生：EOAA（$76.90\%$ vs $72.05\%$）、WST（$75.60$ vs $65.12$）、IST（$71.64$ vs $63.88$）；女生在 FQAL 和 CK 信念成熟度上显著超越男生 | EOAA 性别差异 $t(444) = 3.99, p < .001$；WST 性别差异 $t(87) = 2.92, p = .004, ES = .58$；IST 性别差异 $t(87) = 2.08, p = .04, ES = .44$；MANOVA 性别主效应 $F(3,437) = 12.82, p < .001, \eta^2 = .08$ | 表明性别在长期与短期学业成就上的优势受更成熟的能力观与真理观支撑 |
 > | [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] | 740 名美国中学生 | [[Questionnaire\|问卷调查]]与[[Multinomial Logistic Regression\|多项逻辑回归]] | 历史与数学学科平时成绩、[[Epistemic and Ontological Cognition\|认识论与本体论认知]]阶段 | 较差的数学学科成绩显著正向预测学生落入绝对主义/初级认识论阶段的几率（$OR = 1.770$） | $p < .01$ | 表明特定学科的学业失败会强化朴素与教条的认知信念 |
 > | [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] | 英格兰 15 岁学生（PISA 2006–2012 历时追踪样本） | 跨国评估数据二次分析与官方政策[[Discourse\|话语]]解构 | 阅读、数学、科学跨国学业成就均分及历时趋势 | 科学分（514）高于 [[OECD]] 均线（501），数学（494）与阅读（499）持平均线；2006–2012 历时成绩完全平稳无降，但在官方修辞中被再造为停滞衰退危机 | 历时趋势无统计显著下降 | 证实宏观跨国学业成就数据易与政治危机叙事发生断裂 |

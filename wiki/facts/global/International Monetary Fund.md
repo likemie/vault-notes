@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 31
+fact_related_count: 32
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ tags:
   - region/global
 related_concepts:
   - "[[Multilateral Development Bank]]"
+  - "[[Neoliberalism]]"
   - "[[Washington Consensus]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Liberalization]]"
@@ -84,7 +85,7 @@ updated: 2026-11-19
 
 > [!dev-timeline] 组织发展历程
 > - **1944–1971 — 布雷顿森林体系黄金时代** 维持以美元挂钩黄金、其他货币挂钩美元的固定汇率体制；业务聚焦于监督发达成员国经常账户与汇率平价，基本不干预发展中国家国内社会教育开支。
-> - **1970s末–1990s — 结构调整计划与新自由主义规训转向** 伴随布雷顿森林汇率体系瓦解及拉美、非洲主权债务危机爆发，职能重心转向向后发借款国提供中期贷款；联合[[World Bank|世界银行]]强推[[Washington Consensus|华盛顿共识]]与[[Structural Adjustment Programs|结构调整方案]]，将削减公共赤字、私有化与贸易[[Liberalization|自由化]]嵌入[[Policy Conditionalities|贷款附加条件]]，深刻重创了全球南方公立教育供给。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 106)]]
+> - **1970s末–1990s — 结构调整计划与[[Neoliberalism|新自由主义]]规训转向** 伴随布雷顿森林汇率体系瓦解及拉美、非洲主权债务危机爆发，职能重心转向向后发借款国提供中期贷款；联合[[World Bank|世界银行]]强推[[Washington Consensus|华盛顿共识]]与[[Structural Adjustment Programs|结构调整方案]]，将削减公共赤字、私有化与贸易[[Liberalization|自由化]]嵌入[[Policy Conditionalities|贷款附加条件]]，深刻重创了全球南方公立教育供给。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 106)]]
 > - **1990s–2000s — 多边黑名单威慑与外债借款上限饱和** 在多边金融分工中，IMF 的违约黑名单机制确立为全球公私资本流动的终极阀门，确保了世行与泛美行教育贷款的刚性偿还（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, p. 457]]）；与此同时，诸多赤贫国家在外债规模达到 IMF 规定的借款负债上限后陷入“饱和停滞”，丧失了继续从多边银行借款用于教育基建的法定资格（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, p. 475]]）。
 > - **2008年至今 — 危机常态化与社会安全网调整** 历经全球金融危机与新兴市场动荡，IMF 增设减贫与增长信托（PRGT），声称在紧缩方案中设立“社会支出底线”（Social Spending Floors）；但在主权债务重组中对公共部门编制与财政预算的刚性控制，依然是引发[[International Education|国际教育]]发展界广泛批判的核心机制。
 

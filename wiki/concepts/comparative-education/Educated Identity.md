@@ -6,7 +6,7 @@ aliases:
 summary: "比较教育的核心概念之一，指教育系统所塑造的理想人格与文化期望，Cowen 将其与转移并列为学科未来发展的两大伦理与学术问题"
 type: concept
 domain: "comparative-education"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Totally Pedagogised Society]]"
+  - "[[Neoliberalism]]"
 related_theories:
   - "[[Network Society]]"
 related_methods: []
@@ -47,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -105,7 +106,7 @@ updated: 2026-11-15
 
 > [!critique] 外部批评：去历史化的“[[Floating Signifier\|漂浮能指]]”与政治共谋
 > - **第一种理解形式的去政治化与道德盲区** [[Argument_Cowen_2023_CE\|Cowen (2023)]] 批评专注于情境求同存异的历史比较传统，因其在分析中缺乏“国家”（State）权力维度以及对“受教育身份”的政治拷问，容易对法西斯主义、国家社会主义或国家机器的极端暴力行为失声，沦为去政治化的温和历史陈述。(pp.332–333)
-> - **结果导向测量的政治合谋** 现代基于国际测试的结果测量不仅窄化了受教育身份，更公开与新自由主义经济[[Discourse|话语]]共谋，沦为效率运动的附属品与维护单一特定[[Geopolitics|地缘政治]]合理性的社会温度计。(pp.333–334)
+> - **结果导向测量的政治合谋** 现代基于国际测试的结果测量不仅窄化了受教育身份，更公开与[[Neoliberalism|新自由主义]]经济[[Discourse|话语]]共谋，沦为效率运动的附属品与维护单一特定[[Geopolitics|地缘政治]]合理性的社会温度计。(pp.333–334)
 > - **微观实践层面的扭曲与再生产** 全球倡导的能力口号由于缺乏历史语境，在地方实践中常产生异化。如 [[Argument_Beech_2009_CE\|Beech (2009a)]] 发现，布宜诺斯艾利斯郊区的教师将去历史化的“尊重多样性”转译为“尊重贫困”，事实上降低了对贫困儿童的学术期望，加速了社会地位的再生产。([[Argument_Beech_2009_CE\|Beech, 2009a, pp. 360–361]])
 
 ---

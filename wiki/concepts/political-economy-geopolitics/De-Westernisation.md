@@ -7,7 +7,7 @@ aliases:
 summary: "去殖民理论中指代非西方新兴地缘主体（如中国）通过经济崛起与主权话语建设，企图夺取对全球资本主义世界秩序与殖民权力矩阵掌控权的政治空间运动。它与西方“再西方化”地缘战略相对立，虽然在政治与权威领域挑战西方主导，但在本质上仍维护资本主义体系的生存。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Re-Westernisation]]"
   - "[[Epistemology]]"
+  - "[[Neoliberalism]]"
   - "[[Nationalism]]"
   - "[[Innovation Hub]]"
   - "[[Competitiveness]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-07-09
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -72,7 +73,7 @@ updated: 2026-11-11
 > | 维度 | De-Westernisation (去西方化) | [[Re-Westernisation\|Re-Westernisation (再西方化)]] |
 > |------|--------|----------------|
 > | **地缘代表主体** | 以中国等新兴非西方国家为代表。 | 以美国与西欧发达国家为核心。 |
-> | **对资本主义的态度** | 维持并接受资本主义框架生存，力求夺取全球资本分配和规则主导权。 | 维护资本主义世界秩序，通过新自由主义绩效治理延续霸权。 |
+> | **对资本主义的态度** | 维持并接受资本主义框架生存，力求夺取全球资本分配和规则主导权。 | 维护资本主义世界秩序，通过[[Neoliberalism\|新自由主义]]绩效治理延续霸权。 |
 > | **地缘竞争特征** | 权威易手竞争：在知识、权威和主体性上与西方对抗。 | 话语霸权巩固：通过 [[PISA]]、[[OECD]] 标准输出进行[[Governing at a Distance\|远处治理]]。 |
 
 ---

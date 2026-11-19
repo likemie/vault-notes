@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 23
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Critical Thinking]]"
   - "[[Early Literacy Approaches]]"
+  - "[[Neoliberalism]]"
   - "[[Teacher Professional Agency]]"
   - "[[Disciplina and Doctrina]]"
 related_theories:
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-10-30
+updated: 2026-11-19
 ---
 
 ---
@@ -110,7 +111,7 @@ updated: 2026-10-30
 
 > [!finding-cards] 关键成效与辐射影响
 > - **捍卫教师专业自决权的国家旗帜** NCTE 始终坚持读写教学是一项复杂的艺术与专业实践，坚决反对将其退化为机械脚本化发音指令，成为美国[[Whole Language|全语言]]与[[Progressive Education|进步教育]]工作者的精神堡垒。
-> - **抗击新自由主义商业教材垄断** 在国会与出版寡头联合推行系统拼读霸权的历史进程中，NCTE 提供了关于阅读情境化与儿童文学价值的最权威学术反驳，减缓了联邦技术官僚对课程的全面同质化。
+> - **抗击[[Neoliberalism|新自由主义]]商业教材垄断** 在国会与出版寡头联合推行系统拼读霸权的历史进程中，NCTE 提供了关于阅读情境化与儿童文学价值的最权威学术反驳，减缓了联邦技术官僚对课程的全面同质化。
 > - **草根多元民主参与的典型参照** 展现了普通教育工作者联合起来通过宪法请愿权利对国家强权实施反制的组织力量。
 
 ---

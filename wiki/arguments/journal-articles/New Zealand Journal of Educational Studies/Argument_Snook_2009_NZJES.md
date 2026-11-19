@@ -62,6 +62,7 @@ related_concepts:
   - "[[Teaching Test Taking and Coaching]]"
   - "[[Peer-Supported Learning]]"
   - "[[Effective Teaching]]"
+  - "[[Neoliberalism]]"
   - "[[Alienation]]"
   - "[[Public Value]]"
   - "[[Hypothesis]]"
@@ -98,14 +99,14 @@ sources:
 part_of: ""
 status: completed
 created: 2026-05-03
-updated: 2026-11-15
+updated: 2026-11-19
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Snook_2009_NZJES"
 argument_key: "Argument_Snook_2009_NZJES"
 argument_display_title: "Invisible Learnings? A Commentary on John Hattie's book: Visible Learning: A synthesis of over 800 meta-analyses relating to achievement"
 argument_kind: "journal-article"
-argument_related_count: 63
+argument_related_count: 64
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -350,7 +351,7 @@ journal: "New Zealand Journal of Educational Studies"
 > | **考核指标工具** | 严重依赖标准化笔试成绩，无法剔除不同班级生源基础的天然差距。 | 依靠多元评价、及时的形成性语言反馈与师生日常深度互动。 | 引发猜题押题和应试操练，挫伤接手薄弱班级教师的工作积极性。 |
 > | **学校组织氛围** | 滋生戒备心理、职场焦虑与防御性教学，加剧优秀师资流失。 | 激发教师团队的专业自主权、集体责任感与持续探索活力。 | 破坏促进[[Effective Teaching\|有效教学]]的专业信任土壤，阻碍学校的长远发展。 |
 
-将去情境化的宏观元分析数据直接转化为削减经费与问责教师的公共政策，体现了一条完整的新自由主义挪用链条：
+将去情境化的宏观元分析数据直接转化为削减经费与问责教师的公共政策，体现了一条完整的[[Neoliberalism|新自由主义]]挪用链条：
 
 > [!chain-link] 宏观统计数据被片面挪用为削减投入借口的逻辑推导
 > - **分析起点：抽离社会背景与课堂教学交互** 通过放弃质量把关并排除家庭背景，把复杂的教育过程简化为孤立的效应量排名。

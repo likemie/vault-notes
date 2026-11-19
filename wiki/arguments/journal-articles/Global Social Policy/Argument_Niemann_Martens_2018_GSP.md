@@ -50,6 +50,7 @@ related_concepts:
   - "[[Development Education]]"
   - "[[Externalization]]"
   - "[[PISA Shock]]"
+  - "[[Neoliberalism]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Mimesis]]"
   - "[[Soft Power]]"
@@ -80,14 +81,14 @@ sources:
 part_of:
 status: active
 created: 2026-10-21
-updated: 2026-11-15
+updated: 2026-11-19
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Niemann_Martens_2018_GSP"
 argument_key: "Argument_Niemann_Martens_2018_GSP"
 argument_display_title: "Soft governance by hard fact? The OECD as a knowledge broker in education policy"
 argument_kind: "journal-article"
-argument_related_count: 48
+argument_related_count: 49
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -256,7 +257,7 @@ issuing_organization: ""
 > | **以色列** | 国际排名处于不利位置 | 教育部借机平息党派争端，成立国家级教育改革专责小组 | 全面采纳经合组织管理主义倡议与全球化标准，确立提升排名战略目标 | Feniger et al., 2012 |
 > | **美国** | 长期位列排榜中游偏下 | 初期反响平淡，直到 2009 年上海高分引发类似人造卫星危机的舆论震荡 | 推动联邦与各州强化基于产出的学校绩效问责法案 | Martens & Niemann, 2013 |
 > | **英国** | 首轮表现优秀后有所下滑 | 反应平淡温和，此前已建立成熟的全国统一测验体系 | 采取自主挑选策略，选择性吸纳经合组织建议 | Knodel & Walkenhorst, 2010 |
-> | **芬兰** | 长期位居全球顶尖行列 | 政府将优异表现作为综合高中模式的国际护身符，教师工会则批评投入不足 | 将自身确立为全球教育典范，有效抵制新自由主义市场化改革 | Rautalin & Alasuutari, 2007 |
+> | **芬兰** | 长期位居全球顶尖行列 | 政府将优异表现作为综合高中模式的国际护身符，教师工会则批评投入不足 | 将自身确立为全球教育典范，有效抵制[[Neoliberalism\|新自由主义]]市场化改革 | Rautalin & Alasuutari, 2007 |
 > | **瓦努阿图与格林纳达** | 从未正式参加 PISA 测验 | 教育官员主动以 PISA 为参照物，在议会与公众中引发改革辩论 | 格林纳达重组国家课程、治理架构与师资培训；瓦努阿图推动管理机制革新 | Bremen 专项调查 |
 > | **西班牙、奥地利、墨西哥 vs 波兰、葡萄牙** | 均处于排榜下游水平 | 西、奥、墨爆发重大公共媒体震荡，波、葡两国媒体反响相对平淡 | 证实客观低分并不必然引发同等公共震荡，国内政治文化发挥过滤功能 | Martens & Niemann, 2013 |
 

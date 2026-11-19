@@ -8,10 +8,10 @@ aliases:
 summary: "公共代理人凭借专业认知与网络中心地位，通过识别方向、播撒共同主题、组建跨界攻关团队、搭建同行研讨与权威背书主动重塑研发社会网络，引导关键技术轨道并避免长期财政依赖的科技创新治理范式。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 37
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - subject/policy-studies
   - theory/governance
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Network Governance]]"
   - "[[Research Topic]]"
   - "[[Paradigm]]"
+  - "[[Neoliberalism]]"
   - "[[Network Plasticity]]"
   - "[[Vertical Disintegration]]"
   - "[[Boundary Spanner]]"
@@ -36,10 +37,12 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[National Competitive Advantage]]"
+  - "[[Mimesis]]"
   - "[[Variable]]"
   - "[[Broad Agency Announcement]]"
 related_theories:
   - "[[Technological Trajectories]]"
+  - "[[Developmental State]]"
   - "[[Path Dependence]]"
   - "[[Evolutionary Economics]]"
   - "[[Developmental Network State]]"
@@ -66,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-11-03
+updated: 2026-11-19
 ---
 
 ---
@@ -74,7 +77,7 @@ updated: 2026-11-03
 > [!def] Embedded Network Governance
 > **嵌入型[[Network Governance|网络治理]]（Embedded Network Governance，亦称嵌入式网络治理）** 指公共部门的代理人凭借其深厚的技术专业认知与身处研发网络中央节点的结构性优势，通过识别前沿技术方向、播撒共同[[Research Topic|研究主题]]、组织跨机构攻关团队、搭建同行研讨机制与提供权威第三方背书，主动重塑科学家与企业之间的社会关系网络，从而在不自上而下挑选单一技术赢家的前提下引导国家关键[[Technological Trajectories|技术轨道]]的科技治理[[Paradigm|范式]]。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1133–1135)]]
 >
-> 该范式由[[Erica Fuchs|埃丽卡·福克斯]]（Erica Fuchs）通过对[[DARPA|美国国防高级研究计划局]]（Defense Advanced Research Projects Agency, [[DARPA]]）微系统技术办公室（Microsystems Technology Office, MTO）在 1992 至 2008 年间资助前沿半导体材料的实证研究所提出。它突破了新自由主义自由市场放任与被动补贴与传统发展型国家科层自上而下指定赢家的二元对立，同时也超越了将国家仅视作消极撮合中介或被动联络人的传统网络治理观点，确立了公共代理人作为乐队指挥家与系统集成者的能动性治理角色。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1144–1146)]]
+> 该范式由[[Erica Fuchs|埃丽卡·福克斯]]（Erica Fuchs）通过对[[DARPA|美国国防高级研究计划局]]（Defense Advanced Research Projects Agency, [[DARPA]]）微系统技术办公室（Microsystems Technology Office, MTO）在 1992 至 2008 年间资助前沿半导体材料的实证研究所提出。它突破了[[Neoliberalism|新自由主义]]自由市场放任与被动补贴与传统[[Developmental State|发展型国家]]科层自上而下指定赢家的二元对立，同时也超越了将国家仅视作消极撮合中介或被动联络人的传统网络治理观点，确立了公共代理人作为乐队指挥家与系统集成者的能动性治理角色。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1144–1146)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 公共管理者利用立项权力与关系资本，主动施加能动性改变研发共同体的网络拓扑结构（[[Network Plasticity|网络可塑性]]），促进原本互相孤立甚至互有竞争的行动者之间实现跨机构协同与知识流动。
@@ -203,7 +206,7 @@ updated: 2026-11-03
 > > - **使命敏捷交付派** 强调前沿微电子与量子工程已超出单体大学实验室的承载极限，必须由具备系统集成能力的主承包商牵头，才能确保战略科技在最短周期内转化为[[National Competitive Advantage|国家竞争优势]]。
 
 > [!warning] 适用局限
-> 嵌入型网络治理高度依赖三大前置制度条件：其一，公共机构必须拥有极高的行政自由裁量权，免受僵化公务员人事制度与常规均值化同行评议的束缚；其二，必须源源不断吸纳兼具深厚学术声誉与产业工程洞察的顶尖复合型人才担任短期项目经理；其三，必须依托成熟强大的私营高科技产业基底以承接技术断乳后的后续转化。若缺乏上述条件，盲目模仿极易退化为官僚盲目干预或公款利益输送。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1144–1146)]]
+> 嵌入型网络治理高度依赖三大前置制度条件：其一，公共机构必须拥有极高的行政自由裁量权，免受僵化公务员人事制度与常规均值化同行评议的束缚；其二，必须源源不断吸纳兼具深厚学术声誉与产业工程洞察的顶尖复合型人才担任短期项目经理；其三，必须依托成熟强大的私营高科技产业基底以承接技术断乳后的后续转化。若缺乏上述条件，盲目[[Mimesis|模仿]]极易退化为官僚盲目干预或公款利益输送。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1144–1146)]]
 
 ---
 

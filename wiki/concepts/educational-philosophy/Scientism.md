@@ -5,7 +5,7 @@ aliases:
 summary: "对科学方法和科学权威的过度美化与神化，将其排他性外推至原本不适用的人类精神与社会探究领域的认识论倾向。科学主义将实证科学视为唯一合法的求真法则，以工具理性和概念数学化扼杀价值伦理辩论，在当代教育治理中表现为量化霸权与对多元认知方式的系统规训。"
 type: concept
 domain: "educational-philosophy"
-related_count: 63
+related_count: 64
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Creativity]]"
   - "[[Determinism]]"
+  - "[[Neoliberalism]]"
   - "[[Dissimilar Units]]"
   - "[[Commensuration]]"
   - "[[Epistemic Inequality]]"
@@ -119,7 +120,7 @@ updated: 2026-11-19
 > [!feature] 核心要素
 > - **还原主义（Reductionism）** 将复杂立体的人类教育现象简化为可测量的少数[[Variable|变量]]，忽视无法量化的精神、意向与生命经验（Hayek, 1942; Sergiovanni, 1989）。
 > - **过度重视经验数据** 将实证量化数据视为唯一或最高形态的知识，排斥诠释学、审美体验、批判自省、道德伦理和[[Creativity|创造性]]等其他[[Ways of Knowing|认知方式]]（O'Mahony, 2017）。
-> - **企业研发管理主义的历史源流** 源于二战后科学与工程技术结合催生的工业研发（R&D）体制；技术官僚与工程师将技术[[Determinism|决定论]]、社会工程与自由市场计量理念输入公共治理，成为新自由主义教育改革的意识形态基石（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 34]]）。
+> - **企业研发管理主义的历史源流** 源于二战后科学与工程技术结合催生的工业研发（R&D）体制；技术官僚与工程师将技术[[Determinism|决定论]]、社会工程与自由市场计量理念输入公共治理，成为[[Neoliberalism|新自由主义]]教育改革的意识形态基石（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 34]]）。
 > - **催生[[Cargo Cult Science|草包族科学]]（Cargo Cult Science）** 科学主义往往滑向费曼所指出的草包族科学：表面上拥有严整的统计公式、[[Effect Size|效应量]]排行榜与可视化气压计仪表盘，却完全丧失了竭尽全力暴露自身错误、接受严格检验的科学良知（Feynman, 1974; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 34–35]]）。
 > - **自然情境与[[Dissimilar Units|非同质单位]]约束** 比较探究与社会科学无法像自然科学那样在无菌实验室对社会体系实施隔离操纵，探究必须完全依托真实社会历史自然情境中的变异；强行[[Commensuration|通约]]异质文化属于典型的科学主义降维谬误（[[Argument_Rust_2009_Reflections|Rust et al., 2009, pp. 128–129]]）。
 

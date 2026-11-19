@@ -11,7 +11,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 38
+fact_related_count: 39
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Sampling Error]]"
   - "[[Scapegoat Mechanism]]"
   - "[[Migrant Children]]"
+  - "[[Neoliberalism]]"
   - "[[Policy Entrepreneur]]"
   - "[[Policy Window]]"
 related_theories:
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-26
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -182,7 +183,7 @@ updated: 2026-11-15
 > > 阶梯式行政惩罚未能提供学校改进所需的资源支持，反而诱发广泛的体制异化与信任危机。
 > >
 > > - **批判学者（[[Argument_Zhao_2017_JEC|Zhao, 2017]]）** 指出以学校关闭、削减编制和特许改制为威胁的问责无法提升教学质量，反而迫使学校采取作弊与课程窄化等短视手段。
-> > - **政治经济学分析（[[Argument_Verger_2019_Discourse|Verger et al., 2019]]）** 强调 AYP 阶梯制裁反映了新自由主义管理主义的典型特征，其严苛公式最终因引发过广泛的反对而被 ESSA (2015) 废止。
+> > - **政治经济学分析（[[Argument_Verger_2019_Discourse|Verger et al., 2019]]）** 强调 AYP 阶梯制裁反映了[[Neoliberalism|新自由主义]]管理主义的典型特征，其严苛公式最终因引发过广泛的反对而被 ESSA (2015) 废止。
 
 ---
 

@@ -28,6 +28,7 @@ tags:
   - standards-based-reform
   - evidence-based-education
 related_concepts:
+  - "[[Neoliberalism]]"
   - "[[Charter Schools]]"
   - "[[School Choice]]"
   - "[[Discourse]]"
@@ -38,14 +39,13 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Competitiveness]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Document]]"
   - "[[Policy Entrepreneur]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Douglas Walton]]"
-  - "[[Jack Douglas]]"
+  - "[[David Carnine]]"
   - "[[John Hattie]]"
 related_facts:
   - "[[Common Core State Standards]]"
@@ -62,13 +62,13 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-11-02
+updated: 2026-11-19
 ---
 
 ---
 
 > [!claim] 核心定位
-> 托马斯·B·福特汉姆研究所（Thomas B. Fordham Institute，与其姐妹机构托马斯·B·福特汉姆基金会统称为福特汉姆机构）是美国在基础教育领域最具政策影响力的保守派智囊研究机构之一。该机构长期由里根政府时期的前联邦教育部助理部长切斯特·E·芬恩（Chester E. Finn Jr.）领衔，一方面在[[Common Core State Standards|共同核心州立标准]]（CCSS）运动中充当跨党派政策联盟中不可替代的保守派合法性锚点与微观对标技术重镇（[[Argument_McDonnell_2013_AmJE|McDonnell & Weatherford, 2013, pp. 9]], 21）；另一方面通过兜售教育医学化理念、抨击公立教师抵制循证实践，成为新自由主义教育改革中贬抑教师专业地位、推动公立教育市场化与引入外部商业处方的关键意识形态策源地（Carnine, 2000; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 29]]; Phelps, 2018）。
+> 托马斯·B·福特汉姆研究所（Thomas B. Fordham Institute，与其姐妹机构托马斯·B·福特汉姆基金会统称为福特汉姆机构）是美国在基础教育领域最具政策影响力的保守派智囊研究机构之一。该机构长期由里根政府时期的前联邦教育部助理部长切斯特·E·芬恩（Chester E. Finn Jr.）领衔，一方面在[[Common Core State Standards|共同核心州立标准]]（CCSS）运动中充当跨党派政策联盟中不可替代的保守派合法性锚点与微观对标技术重镇（[[Argument_McDonnell_2013_AmJE|McDonnell & Weatherford, 2013, pp. 9]], 21）；另一方面通过兜售教育医学化理念、抨击公立教师抵制循证实践，成为[[Neoliberalism|新自由主义]]教育改革中贬抑教师专业地位、推动公立教育市场化与引入外部商业处方的关键意识形态策源地（Carnine, 2000; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 29]]; Phelps, 2018）。
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 基金会渊源始于 1959 年，1997 年经战略重组于华盛顿哥伦比亚特区设立政策研究所，旨在将原本地方性的慈善基金转型为全国性教育改革前沿智库。
@@ -80,7 +80,7 @@ updated: 2026-11-02
 
 > [!dev-timeline] 组织发展历程
 > - **1997–2003年 — 《各州学术标准状况》系列报告确立行业权威** 连续发布全美各州课程标准评级报告，组织顶尖学科专家对 50 州大纲逐一打出 A 到 F 的严苛等级，撕开各州自吹自擂的虚假面纱，奠定了在基于标准的改革领域的权威[[Discourse|话语]]权。
-> - **2000年 — 出版《为何教育专家抵制有效实践》倡导医学化转型** 资助并出版[[Jack Douglas|道格拉斯]]·卡宁（Douglas Carnine, 2000）的重磅专著，将公立教育学者斥为受意识形态驱使、抵制循证科学的顽固群体，主张教学全面向现代医学看齐，直接为[[John Hattie|哈蒂]]等学者贬抑教学专业性提供了核心理论话语（Carnine, 2000; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）。
+> - **2000年 — 出版《为何教育专家抵制有效实践》倡导医学化转型** 资助并出版[[David Carnine|道格拉斯·卡宁]]（Douglas Carnine, 2000）的重磅专著，将公立教育学者斥为受意识形态驱使、抵制循证科学的顽固群体，主张教学全面向现代医学看齐，直接为[[John Hattie|哈蒂]]等学者贬抑教学专业性提供了核心理论话语（Carnine, 2000; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）。
 > - **2004–2008年 — 联合发起[[American Diploma Project|美国文凭项目]]（ADP）** 联合[[Achieve|阿奇夫]]（Achieve）与代表民权阵营的教育信托（[[The Education Trust]]）组建跨党派同盟，共同研发美国文凭项目，率先确立[[College and Career Readiness|大学与职业就绪]]基准（[[Argument_McDonnell_2013_AmJE|McDonnell & Weatherford, 2013, pp. 9]], 21）。
 > - **2009–2012年 — 全力推动 [[Common Core State Standards|CCSS]] 研制与全美微观对标评估** 作为核心智囊深度介入 CCSS 审议，出资开展覆盖全美的跨州标准多维比对研究（Carmichael et al., 2010）；在后续保守派基层对国家标准反弹时，持续站在学术前沿捍卫高质量标准的正当性。
 > - **2013年至今 — 卷入受雇影响力质疑与特许学校问责深耕** 在持续运营俄亥俄州特许学校监管的同时，因其长期接受企业资本资助以推销亲市场、反工会与标准化处方的政策策略，受到[[Critical Pedagogy|批判教育学]]者与政策分析家的系统审查（Phelps, 2018）。
@@ -160,7 +160,7 @@ updated: 2026-11-02
 > *Analyses of the similarities and differences between the CCSS and existing state standards had been conducted in Massachusetts (Achieve 2010), in California (WestEd 2010), and across multiple states (Carmichael et al. 2010).... SDE staff in states with standards that had been judged rigorous by external groups, such as the [[American Federation of Teachers|AFT]] and the Fordham Foundation, reviewed the draft CCSS to ensure that they met or exceeded their current standards in terms of parsimony, coherence, and rigor.*
 
 > [!citation-card] 约翰逊与詹岑论福特汉姆智库贬抑教师专业性的意识形态功能
-> 值得注意的是，[[John Hattie|哈蒂]]在书中引用的“不成熟专业”与“沉溺于意识形态”等定性表述，直接源出[[Jack Douglas|道格拉斯]]·卡宁（Douglas Carnine, 2000）为保守派智库福特汉姆研究所撰写的专题报告《教育专家为何抵制有效实践（以及如何让教育更像医学）》（Phelps, 2018）。该报告将政策制定者塑造成掌握科学真理的知识权威，而将一线教学贬抑为缺乏科学理性的“不成熟职业”。这种贬低性[[Discourse|话语]]不仅充当了向学校管理者推销处方的营销话术，更在全社会播撒对教师职业的不信任。这种贬抑语调服务于推动公立教育进一步市场化的更大议程：如果教学能够被塑造成一种不成熟、不专业、简单且纯粹技术的工种，那么公众对教师及其工会的支持就会瓦解，从而为私人商业利益凭借兜售所谓‘廉价处方’渗透公立学校敞开大门。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 29)]]
+> 值得注意的是，[[John Hattie|哈蒂]]在书中引用的“不成熟专业”与“沉溺于意识形态”等定性表述，直接源出道格拉斯·卡宁（Douglas Carnine, 2000）为保守派智库福特汉姆研究所撰写的专题报告《教育专家为何抵制有效实践（以及如何让教育更像医学）》（Phelps, 2018）。该报告将政策制定者塑造成掌握科学真理的知识权威，而将一线教学贬抑为缺乏科学理性的“不成熟职业”。这种贬低性[[Discourse|话语]]不仅充当了向学校管理者推销处方的营销话术，更在全社会播撒对教师职业的不信任。这种贬抑语调服务于推动公立教育进一步市场化的更大议程：如果教学能够被塑造成一种不成熟、不专业、简单且纯粹技术的工种，那么公众对教师及其工会的支持就会瓦解，从而为私人商业利益凭借兜售所谓‘廉价处方’渗透公立学校敞开大门。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 29)]]
 >
 > *Notably, this quote comes from a piece called "Why Education Experts Resist Effective Practices (And What it Would Take to Make Education More Like Medicine)" written for the conservative educational think-tank and policy-influencing Fordham Institute (Phelps, 2018). The author positions himself as an authority and possessor of superior knowledge with teaching dismissed as an "immature profession." This belittling rhetoric, besides acting as a sales pitch to school managers, sows distrust of teaching as a profession. The belittling tone serves larger agendas with goals of further marketization of public education. If teaching can be sold as immature, un-professional, simple, and technical, then support for teachers and their unions softens, allowing private interests to infiltrate with promises of cheap fixes for perceived, or even manufactured short-comings.*
 

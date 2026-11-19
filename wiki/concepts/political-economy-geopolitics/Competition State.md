@@ -9,7 +9,7 @@ aliases:
 summary: "政治经济学与教育社会学核心理论概念，指国家核心治理理性从战后福利国家提供去商品化的社会公平保障，转向在经济全球化压力下动员公共资源与教育系统以服务于国家在全球知识经济中的竞争力"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Study Abroad]]"
   - "[[Problematisation]]"
   - "[[Bureaucracy]]"
+  - "[[Neoliberalism]]"
   - "[[Policy Borrowing]]"
   - "[[Quasi-market]]"
   - "[[Nordic Model of Education]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-10
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -118,7 +119,7 @@ updated: 2026-11-11
 > **[[Problematisation|问题表征]]的话语重塑** 揭示国家如何通过制造“供给赤字”与“法律阻碍”叙事，瓦解传统公共福利制度的合法性防线。
 >
 > > [!claim] Simola, H.
-> > **福利制度向竞争问题的表征转换** 伴随芬兰从福利国家向竞争国家演进，[[Bureaucracy|科层官僚制]]、公法保护与教师专业自主等原本维系社会稳定的制度支柱，在政策话语中被重新建构为阻碍灵活性与市场反应速度的“问题”。唯有被特定统治话语表征为待纠偏的缺陷时，制度改革才得以具备推行的新自由主义正当性。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, p. 380)]]
+> > **福利制度向竞争问题的表征转换** 伴随芬兰从福利国家向竞争国家演进，[[Bureaucracy|科层官僚制]]、公法保护与教师专业自主等原本维系社会稳定的制度支柱，在政策话语中被重新建构为阻碍灵活性与市场反应速度的“问题”。唯有被特定统治话语表征为待纠偏的缺陷时，制度改革才得以具备推行的[[Neoliberalism|新自由主义]]正当性。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, p. 380)]]
 >
 > > [!claim] Kuortti, K.
 > > **供需赤字与去规制化正当性建构** 政策制定者将海外同行对公立学校免费优质模式的学术兴趣直接偷换为商业订单需求，并将公立学校不以营利为导向的守法常态斥责为“反应迟缓”与“商业技能匮乏”，从而为推动法规去规制化、引入留学生学费与改组公立机构为营利子公司扫清了观念阻碍。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 387–389)]]

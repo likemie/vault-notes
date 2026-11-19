@@ -7,7 +7,7 @@ aliases:
 summary: "指科技企业与风险资本在避险动机、道德不可知论与商业暴利驱使下，系统性放弃国防安全、公共治安、基础教育与重大医疗等具有高度政治争议与体制复杂性的硬核公共难题，转而将顶尖智力与资金集中于外卖、网购、打车与休闲游戏等微小消费级便利的产业与文化逃避倾向。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Techno-Utopianism]]"
   - "[[Market Triumphalism]]"
   - "[[Luxury Belief]]"
+  - "[[Neoliberalism]]"
   - "[[Public Value]]"
   - "[[The Sublime]]"
   - "[[Deliberative Space]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -79,7 +80,7 @@ updated: 2026-11-15
 > | 维度 | 技术逃避主义（Technological Escapism） | 市场必胜论（[[Market Triumphalism]]） | 炫耀性信念（[[Luxury Belief]]） |
 > |:---|:---|:---|:---|
 > | **核心属性** | 产业研发与资本配置的避险行为倾向 | 裁决社会价值与分配资源的意识形态 | 特权阶层彰显文化声望的观念资本 |
-> | **主要主体** | 硅谷科技巨头、风险投资家与研发团队 | 新自由主义经济学家与政策制定者 | 受过高等教育的特权文化与学术精英 |
+> | **主要主体** | 硅谷科技巨头、风险投资家与研发团队 | [[Neoliberalism\|新自由主义]]经济学家与政策制定者 | 受过高等教育的特权文化与学术精英 |
 > | **表现形态** | 扎堆外卖打车小游戏，绕开防务治安教育 | 认为市场估值与点击率即代表最高社会善 | 主张抵制技术警务，将安全代价转嫁底层 |
 > | **对公共领域的后果** | 关键公共部门沦为缺乏技术的[[Innovation Desert\|创新荒漠]] | 公共道德真空化，关于[[Public Value\|公共价值]]的审议被取消 | 治理瘫痪加剧，阶层撕裂与弱势群体受害加深 |
 

@@ -7,7 +7,7 @@ aliases:
 summary: "由戴维·莫斯（David Mosse）提出并被政策流动与国际发展研究广泛引用的批判性构念，指代由国际组织官员、跨国顾问、发展技术官僚及非政府组织精英构成的封闭职业亚文化圈与跨国制度场域，具有将地方复杂政治实践去政治化为标准化技术工具的过滤机制。"
 type: concept
 domain: "comparative-education"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Homophily]]"
   - "[[Grandes Ecoles]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
+  - "[[Neoliberalism]]"
   - "[[Paradigm]]"
 related_facts:
   - "[[World Bank]]"
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-25
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -82,7 +83,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题一｜援助国度的科层机制对激进[[Local Knowledge in Evidence-Based Policy|地方知识]]施加驯化与去政治化转化
-> **知识驯化与过滤机制** 探讨国际发展科层体系如何通过自身[[Habitus|惯习]]与项目规范，将南方基层批判性方案重构为符合新自由主义管理[[Paradigm|范式]]的技术工具。
+> **知识驯化与过滤机制** 探讨国际发展科层体系如何通过自身[[Habitus|惯习]]与项目规范，将南方基层批判性方案重构为符合[[Neoliberalism|新自由主义]]管理[[Paradigm|范式]]的技术工具。
 
 > [!claim] Stone, D., Porto de Oliveira, O., & Pal, L. A.
 > **科层同质化与方案裁剪** 援助国度拥有独特的运行逻辑，国际多边组织在搜寻和包装全球南方经验时，倾向于消除其内生于本土抗争的激进政治诉求，将原本服务于社会正义的模型强行重构为符合多边捐助标准的通用工具。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 12, 16)]]

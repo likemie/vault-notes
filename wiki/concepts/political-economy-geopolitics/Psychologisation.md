@@ -6,7 +6,7 @@ aliases:
 summary: "将社会政治不满重新框定为个体心理调适问题的治理策略，通过课程去政治化、课外感恩教育和个体化归因三条路径运作"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Alienation]]"
   - "[[Social-Emotional Learning]]"
+  - "[[Neoliberalism]]"
   - "[[Progressive Education]]"
   - "[[Patriotic Education]]"
 related_theories: []
@@ -36,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-25'
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -87,7 +88,7 @@ updated: 2026-11-15
 
 ---
 
-> [!concept-proposition] 命题二｜心理化治理借助新自由主义[[Social-Emotional Learning|社会情感学习]]运动与传统美德话语实现合法性共谋
+> [!concept-proposition] 命题二｜心理化治理借助[[Neoliberalism|新自由主义]][[Social-Emotional Learning|社会情感学习]]运动与传统美德话语实现合法性共谋
 > **机制同构与美德借用** 分析威权治理如何借用看似中立的全球[[Progressive Education\|进步教育]]概念以及传统文化美德清单，为政治控制进行去政治化的温情包装。
 
 > [!claim] Vickers, 2024

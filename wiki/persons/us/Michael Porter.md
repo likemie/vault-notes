@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 31
+person_related_count: 32
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Recontextualization]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Innovation Hub]]"
+  - "[[Neoliberalism]]"
 related_theories:
   - "[[Critical Geopolitics]]"
   - "[[Evolutionary Economics]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-07
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -141,7 +142,7 @@ updated: 2026-11-15
 ---
 
 > [!citation-card] 弗里曼论波特：国家制度基础与产业集群不可替代
-> [[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）高度评价迈克尔·波特对全球化神话的清醒批判：波特通过确证“全球化反而使母国更加重要”的悖论，为抵制激进新自由主义关于“无国界世界（Borderless World）”的虚妄幻想提供了坚实实证支持；波特强调的区域集聚与国家[[National Competitive Advantage|钻石模型]]，与[[National Innovation System|国家创新系统]]理论在本质上相得益彰。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 20–21)]]
+> [[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）高度评价迈克尔·波特对全球化神话的清醒批判：波特通过确证“全球化反而使母国更加重要”的悖论，为抵制激进[[Neoliberalism|新自由主义]]关于“无国界世界（Borderless World）”的虚妄幻想提供了坚实实证支持；波特强调的区域集聚与国家[[National Competitive Advantage|钻石模型]]，与[[National Innovation System|国家创新系统]]理论在本质上相得益彰。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 20–21)]]
 >
 > *"As Michael Porter (1990) pointed out in his excellent book The Competitive Advantage of Nations, the globalization of competition might appear to make the nation less important, but instead it makes it more so."*
 

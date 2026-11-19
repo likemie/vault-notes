@@ -9,10 +9,10 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 29
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 40
+person_related_level: 4
+person_related_stars: "💎⭐"
+person_related_color: "#fce7f3"
 born: "1941"
 died: ""
 lifespan: "1941–至今"
@@ -31,29 +31,40 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Learnology]]"
   - "[[Paradigm]]"
+  - "[[Effective Teaching]]"
+  - "[[Personalized Learning]]"
+  - "[[Scaffolding]]"
   - "[[Rich and Thick Description]]"
+  - "[[Pedagogical Hybridity]]"
   - "[[Policy Borrowing]]"
-  - "[[Construct]]"
   - "[[Intangible Spiritual Forces]]"
+  - "[[Zone of Proximal Development]]"
+  - "[[Positivism]]"
+  - "[[Construct]]"
   - "[[Scholiocentric Approach]]"
   - "[[Protean Episteme]]"
-  - "[[Positivism]]"
 related_theories: []
 related_methods:
+  - "[[Classroom Observation]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Ethnography]]"
   - "[[Analytic Framework]]"
   - "[[Fieldwork]]"
-  - "[[Ethnography]]"
 related_instruments: []
 related_persons:
   - "[[Patricia Broadfoot]]"
+  - "[[David P. Phillips]]"
+  - "[[Lev Vygotsky]]"
   - "[[David Phillips]]"
   - "[[Michael Sadler]]"
-  - "[[Lev Vygotsky]]"
   - "[[Andreas Kazamias]]"
 related_facts:
   - "[[American Educational Research Association]]"
   - "[[British Educational Research Association]]"
+  - "[[Committee of Permanent Representatives to ASEAN]]"
+  - "[[Ofsted]]"
+  - "[[National Institute of Education]]"
+  - "[[Centre for Research in Pedagogy and Practice]]"
   - "[[OECD]]"
   - "[[PISA]]"
   - "[[World Bank]]"
@@ -82,7 +93,7 @@ updated: 2026-11-19
 
 > [!timeline] 生平与职涯
 > - **1941** 出生于英国汉普郡。
-> - **1960–1970 年代** 先后于剑桥大学与杜伦大学受训，曾任中小学教师与教师培训讲师，积累一线课堂观察经验。
+> - **1960–1970 年代** 先后于剑桥大学与杜伦大学受训，曾任中小学教师与教师培训讲师，积累一线[[Classroom Observation|课堂观察]]经验。
 > - **1977–1995** 任教于利兹大学教育学院，晋升为初等教育教授，主持全英初等课程改革与教学法实证研究。
 > - **1990 年代** 组建跨国团队，在英格兰、法国、印度、俄罗斯与美国五国 30 余所学校展开长期实地观察与课堂录像分析。
 > - **1995–2003** 受聘为华威大学教育学教授与比较教育研究中心主任。
@@ -94,7 +105,7 @@ updated: 2026-11-19
 ---
 
 > [!work-line] 代表著作
-> - **1999 — *Learning from Comparing: New Directions in Comparative Educational Research* (Ed.)** 与[[Patricia Broadfoot|帕特丽夏·布罗德富特]]及[[David Phillips|戴维·菲利普斯]]合编，确立英国学派微观比较方法论转向。
+> - **1999 — *Learning from Comparing: New Directions in Comparative Educational Research* (Ed.)** 与[[Patricia Broadfoot|帕特丽夏·布罗德富特]]及[[David P. Phillips|戴维·菲利普斯]]合编，确立英国学派微观比较方法论转向。
 > - **2000 — *Culture and Pedagogy: International Comparisons in Primary Education*** 跨国课堂教学研究的奠基专著，系统构建解析微观师生互动与宏观文化价值的多维分析矩阵。
 > - **2006 — *Towards Dialogic Teaching: Rethinking Classroom Talk*** 提炼对话教学的五大原则（集体性、互惠性、支持性、累积性、目的性），推动课堂[[Discourse|话语]]互动改革。
 > - **2010 — *Children, Their World, Their Education: Final Report and Recommendations of the Cambridge Primary Review*** 主笔全英初等教育综合调查终期报告，全方位重构初等教育目标、课程与评估框架。
@@ -103,7 +114,7 @@ updated: 2026-11-19
 ---
 
 > [!person-thesis] 主张一｜教学法深嵌于民族国家的文化母体与制度生态之中，不可化约为通用的孤立技能集
-> 战后跨国量化评估常将教学法简化为孤立通用的有效教学技能集。亚历山大立足五国初等教育实证证明，法国的普遍理性、俄罗斯的社会文化发展取向、印度的公民德性、美国的自我表达以及英国的发展性个性化学习，直接规定了各国课堂的空间布局、时间节律与提问纠错话语形态。教学法不仅是达成目标的手段，其本身就是文化价值在课堂生活中的具身呈现。[[Argument_Deng_2016_CE|(Alexander, 2000, 2004; cited in Deng & Gopinathan, 2016, p. 453)]]
+> 战后跨国量化评估常将教学法简化为孤立通用的[[Effective Teaching|有效教学]]技能集。亚历山大立足五国初等教育实证证明，法国的普遍理性、俄罗斯的社会文化发展取向、印度的公民德性、美国的自我表达以及英国的发展性[[Personalized Learning|个性化学习]]，直接规定了各国课堂的空间布局、时间节律与提问纠错话语形态。教学法不仅是达成目标的手段，其本身就是文化价值在课堂生活中的具身呈现。[[Argument_Deng_2016_CE|(Alexander, 2000, 2004; cited in Deng & Gopinathan, 2016, p. 453)]]
 >
 > > [!thesis-quote] 《文化与教学》（2000）
 > > 教学法是深嵌于文化、历史与制度之中的复杂实践，超越了孤立去情境化的技能清单；教学法既受制于关于儿童、知识与社会的深层观念，同时也表达并再生产着这些观念。[[Argument_Deng_2016_CE|(Alexander, 2000, p. 540; cited in Deng & Gopinathan, 2016, p. 453)]]
@@ -111,7 +122,7 @@ updated: 2026-11-19
 > > *Pedagogy is not a mere toolkit of decontextualised skills, but a complex practice embedded in culture, history and institutions; it is shaped by, and at the same time expresses and reproduces, deep-seated ideas about children, knowledge and society.*
 
 > [!person-thesis] 主张二｜课堂话语是高级认知发展的首要媒介，唯有通过集体互惠与累积的对话教学才能突破封闭式问答伪互动
-> 针对英美课堂普遍存在的教师提问—学生简答—教师评价（IRE）假对话现象，亚历山大指出封闭式问答严重限制了学生的复杂思维。汲取维果茨基社会文化心理学与巴赫金对话哲学，亚历山大创立对话教学体系，主张教学交谈应当具备集体性、互惠性、支持性、累积性与目的性，使师生话语真正成为支持探究、累积论证与高级认知发展的认识论脚手架。[[Argument_Kazamias_2009_HistoricalReflections|(Alexander, 2006, p. 9; cited in Kazamias, 2009a, p. 155)]]
+> 针对英美课堂普遍存在的教师提问—学生简答—教师评价（IRE）假对话现象，亚历山大指出封闭式问答严重限制了学生的复杂思维。汲取[[Lev Vygotsky|维果茨基]]社会文化心理学与巴赫金对话哲学，亚历山大创立对话教学体系，主张教学交谈应当具备集体性、互惠性、支持性、累积性与目的性，使师生话语真正成为支持探究、累积论证与高级认知发展的认识论[[Scaffolding|脚手架]]。[[Argument_Kazamias_2009_HistoricalReflections|(Alexander, 2006, p. 9; cited in Kazamias, 2009a, p. 155)]]
 >
 > > [!thesis-quote] 《走向对话教学》（2006）
 > > 对话教学利用交谈的力量吸引学生的思维、促进学习、加速理解并建立批判性与批判意识……如果一个成年人的思维主要源于与他人谈话经验的内化，那么对话就不仅是教学的工具，更是思维本身的构成要素。[[Argument_Kazamias_2009_HistoricalReflections|(Alexander, 2006, p. 9; cited in Kazamias, 2009a, p. 155)]]
@@ -122,12 +133,12 @@ updated: 2026-11-19
 
 > [!influence-path] 影响路径
 > - **理论路径** 奠定[[Comparative Pedagogy|比较教学论]]学科架构，提炼出连接宏观文化观念与微观课堂互动的多层分析矩阵；开创[[Dialogue in Education|对话教学]]体系，为课堂互动分析提供了系统的规范与原则。
-> - **方法路径** 开创结合大规模跨国课堂录像、多层田野民族志[[Rich and Thick Description|深描]]与话语微观分析的研究[[Paradigm|范式]]，突破了传统宏观制度比较的黑箱；后续主持全英《剑桥初等教育调查》（CPR），树立了独立国家级教育审议的实证标准。
-> - **政策路径** 作为《剑桥初等教育调查》领衔专家，直接介入英国国家初等教育课程改革、评估制度审议及教师专业标准制定；推动对话教学实践纳入英国教育标准局（Ofsted）评估视野与全英师训体系。
-> - **跨国／跨领域传播** 理论广泛影响欧洲、美洲与东亚，直接启发了新加坡国立教育学院（NIE）与初等教育研究中心（CRPP）关于课堂教学杂糅性（Pedagogical Hybridity）与教学常态的大规模实证研究。
+> - **方法路径** 开创结合大规模跨国课堂录像、多层田野[[Ethnography|民族志]][[Rich and Thick Description|深描]]与话语微观分析的研究[[Paradigm|范式]]，突破了传统宏观制度比较的黑箱；后续主持全英《剑桥初等教育调查》（[[Committee of Permanent Representatives to ASEAN|CPR]]），树立了独立国家级教育审议的实证标准。
+> - **政策路径** 作为《剑桥初等教育调查》领衔专家，直接介入英国国家初等教育课程改革、评估制度审议及教师专业标准制定；推动对话教学实践纳入英国教育标准局（[[Ofsted]]）评估视野与全英师训体系。
+> - **跨国／跨领域传播** 理论广泛影响欧洲、美洲与东亚，直接启发了[[National Institute of Education|新加坡国立教育学院]]（NIE）与初等教育研究中心（[[Centre for Research in Pedagogy and Practice|CRPP]]）关于课堂[[Pedagogical Hybridity|教学杂糅]]性（Pedagogical Hybridity）与教学常态的大规模实证研究。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 深度援引亚历山大关于“教学法深嵌于文化与制度之中”的理论核心，解构经合组织（OECD）与麦肯锡报告的去情境化[[Policy Borrowing|政策借用]]假设，论证新加坡教学模式与本土制度文化的共生性。
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 深度援引亚历山大关于“教学法深嵌于文化与制度之中”的理论核心，解构[[OECD|经合组织]]（OECD）与麦肯锡报告的去情境化[[Policy Borrowing|政策借用]]假设，论证新加坡教学模式与本土制度文化的共生性。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 权威评述亚历山大倡导的比较教学论在英国比较教育抵御经济主义短视中的里程碑意义。
 
 ---
@@ -135,9 +146,9 @@ updated: 2026-11-19
 > [!person-network] 关系网络
 > - **合作学者** [[Patricia Broadfoot]] — 长期学术盟友，联合主编《从比较中学习》（*Learning from Comparing*），共同推动英国比较教育学界的微观学习学与课堂转向。
 > - **合作学者** [[David Phillips]] — 跨国比较学者，参与合编比较教育方法论著作，共同深耕比较教育语境与制度分析。
-> - **思想渊源** [[Michael Sadler]] — 英国比较教育先驱，其关于“校外无形精神力量塑造校内生活”的论断为亚历山大的文化教学论奠定了精神渊源。
-> - **思想渊源** [[Lev Vygotsky]] — 其社会文化心理学与最近发展区理论构成了对话教学内化机制的直接理论基石。
-> - **批评对象／学术对手** [[OECD]] / 跨国量化测评实证主义学派 — 亚历山大坚决反对 PISA 等将复杂教学实践简化为脱离本土文化土壤的标准化“有效教学工具箱”。
+> - **思想渊源** [[Michael Sadler]] — 英国比较教育先驱，其关于“[[Intangible Spiritual Forces|校外无形精神力量]]塑造校内生活”的论断为亚历山大的文化教学论奠定了精神渊源。
+> - **思想渊源** [[Lev Vygotsky]] — 其社会文化心理学与[[Zone of Proximal Development|最近发展区]]理论构成了对话教学内化机制的直接理论基石。
+> - **批评对象／学术对手** [[OECD]] / 跨国量化测评[[Positivism|实证主义]]学派 — 亚历山大坚决反对 [[PISA]] 等将复杂教学实践简化为脱离本土文化土壤的标准化“有效教学工具箱”。
 
 ---
 
@@ -155,14 +166,14 @@ updated: 2026-11-19
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Comparative Pedagogy|比较教学论]] | 概念 | 开创宗师；通过五国初等教育跨文化比较确立该领域的核心[[Construct|构念]]与[[Analytic Framework|分析框架]]。 |
-> | [[Learnology|微观学习学]] | 概念 | 与亚历山大的比较教学论相呼应，共同构成英国比较教育微观转向的双翼。 |
-> | [[Dialogue in Education|对话教学]] | 概念 | 核心理论建构；提炼集体性、互惠性、累积性等五大原则，推动全球课堂[[Discourse|话语]]变革。 |
-> | [[Intangible Spiritual Forces|无形精神力量]] | 概念 | 继承[[Michael Sadler|萨德勒]]思想，将潜沉在社会深处的文化精神精准定位到课堂师生互动话语中。 |
-> | [[Scholiocentric Approach|以校为中心取向]] | 概念 | 超越早期行政视察的以校为中心表面白描，开辟了文化解释学深度的课堂教学研究。 |
-> | [[Protean Episteme|普罗透斯式认识体系]] | 概念 | 作为第四代际晚期英国比较教育学派的代表人物，展现了学科回归教学与文化关怀的形态。 |
-> | [[Fieldwork|田野调查]] | 方法 | 倡导深入跨国五国数十所小学教室展开长时段第一手观察与田野互动。 |
-> | [[Ethnography|民族志]] | 方法 | 运用录像[[Rich and Thick Description|深描]]与跨文化话语微观分析，确立了课堂民族志的标准[[Paradigm|范式]]。 |
-> | [[Michael Sadler|迈克尔·萨德勒]] | 人物 | 英国比较教育思想先驱，其文化情境与活体有机体观构成了亚历山大理论的精神渊源。 |
-> | [[Patricia Broadfoot|帕特丽夏·布罗德富特]] | 人物 | 英国学派长期核心合作学者，联合开辟初等教育课堂比较跨国网络。 |
-> | [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]] | 人物 | 在学科史反思中将亚历山大的比较教学论定性为英国比较教育抵御美国机械[[Positivism|实证主义]]的杰出代表。 |
+> | [[Comparative Pedagogy\|比较教学论]] | 概念 | 开创宗师；通过五国初等教育跨文化比较确立该领域的核心[[Construct\|构念]]与[[Analytic Framework\|分析框架]]。 |
+> | [[Learnology\|微观学习学]] | 概念 | 与亚历山大的比较教学论相呼应，共同构成英国比较教育微观转向的双翼。 |
+> | [[Dialogue in Education\|对话教学]] | 概念 | 核心理论建构；提炼集体性、互惠性、累积性等五大原则，推动全球课堂[[Discourse\|话语]]变革。 |
+> | [[Intangible Spiritual Forces\|无形精神力量]] | 概念 | 继承[[Michael Sadler\|萨德勒]]思想，将潜沉在社会深处的文化精神精准定位到课堂师生互动话语中。 |
+> | [[Scholiocentric Approach\|以校为中心取向]] | 概念 | 超越早期行政视察的以校为中心表面白描，开辟了文化解释学深度的课堂教学研究。 |
+> | [[Protean Episteme\|普罗透斯式认识体系]] | 概念 | 作为第四代际晚期英国比较教育学派的代表人物，展现了学科回归教学与文化关怀的形态。 |
+> | [[Fieldwork\|田野调查]] | 方法 | 倡导深入跨国五国数十所小学教室展开长时段第一手观察与田野互动。 |
+> | [[Ethnography\|民族志]] | 方法 | 运用录像[[Rich and Thick Description\|深描]]与跨文化话语微观分析，确立了课堂民族志的标准[[Paradigm\|范式]]。 |
+> | [[Michael Sadler\|迈克尔·萨德勒]] | 人物 | 英国比较教育思想先驱，其文化情境与活体有机体观构成了亚历山大理论的精神渊源。 |
+> | [[Patricia Broadfoot\|帕特丽夏·布罗德富特]] | 人物 | 英国学派长期核心合作学者，联合开辟初等教育课堂比较跨国网络。 |
+> | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 在学科史反思中将亚历山大的比较教学论定性为英国比较教育抵御美国机械[[Positivism\|实证主义]]的杰出代表。 |

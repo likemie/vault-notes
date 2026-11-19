@@ -6,7 +6,7 @@ aliases:
 summary: "国际组织基于紧迫实用主义与技术理性对全球学术话语过度简化所生成的通用教育改革范式，宣称以信息时代为前景并窄化本土政策空间"
 type: concept
 domain: "comparative-education"
-related_count: 52
+related_count: 54
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -30,7 +30,9 @@ related_concepts:
   - "[[Recontextualization]]"
   - "[[Policy Borrowing]]"
   - "[[Mimesis]]"
+  - "[[Neoliberalism]]"
   - "[[Cognitive Decoupling]]"
+  - "[[Typicality]]"
   - "[[Habitus]]"
   - "[[Knowledge Production]]"
   - "[[Shape-Shifting]]"
@@ -77,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -106,13 +108,13 @@ updated: 2026-11-15
 > |---|---|---|---|---|
 > | **生产主体** | 国际多边组织（[[UNESCO]]/WB/[[OECD]]）与跨国专家网络 | 全球资本主义政治经济力量与跨国统治阶级 | 世界社会中去中心化的制度化规范与合法性脚本 | 主权国家政府指派的行政考察者与改革官员 |
 > | **核心机制** | 紧迫[[Pragmatic Paradigm\|实用主义]]驱动的过度简化、议程界定与空间封闭 | 资本积累危机向教育系统的外部结构性转嫁 | 民族国家对现代性合法形式的同形[[Mimesis\|模仿]]（Isomorphism） | 国家基于自身内部危机在“世界教育花园”中有选择地采撷移植 |
-> | **话语特征** | 统一预设“信息时代”，推销五大通用改革支柱 | 新自由主义竞争性国家建构与劳动力再生产 | 普遍理性的个体权利、进步与人类发展神话 | 针对特定国别制度的经验性描述与规范性改良 |
+> | **话语特征** | 统一预设“信息时代”，推销五大通用改革支柱 | [[Neoliberalism\|新自由主义]]竞争性国家建构与劳动力再生产 | 普遍理性的个体权利、进步与人类发展神话 | 针对特定国别制度的经验性描述与规范性改良 |
 > | **实践遭遇** | 在学校机构遭遇严重脱节、抵制与反常本土异化 | 产生深层的社会不平等与教育公共性剥夺 | 结构上高度仪式化脱钩（[[Cognitive Decoupling\|decoupling]]），日常教学自行其是 | 移植植物在新土壤中的成活危机与排异反应 |
 
 ---
 
 > [!feature] 核心要素
-> - **普遍性空间范围与目标设定** 该[[Discourse|话语]]以“整个世界的教育”为考察与干预对象，打破地缘文化特殊性，声称依据客观中立的科学规律为全球所有国家设计通用方案。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 347–348)]]
+> - **普遍性空间范围与目标设定** 该[[Discourse|话语]]以“整个世界的教育”为考察与干预对象，打破地缘文化[[Typicality|特殊性]]，声称依据客观中立的科学规律为全球所有国家设计通用方案。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 347–348)]]
 > - **紧迫[[Pragmatic Paradigm|实用主义]]与过度简化生成机制** 国际组织受制于必须在短期内交付“见效且相关”政策咨询报告的组织逻辑，对全球学术空间中高度复杂、充满争议的专业知识进行剧烈的去语境化删剪与模式化提炼，锻造出高度可塑的通用处方。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 350–351)]]
 > - **信息时代前景与五大支柱模型** 话语将未来单向度地描摹为信息社会，并捆绑输出五项标配改革原则：治理维度的行政分权化（Decentralisation）、机构维度的[[School Autonomy|学校自主权]]（School Autonomy）、队伍维度的教师专业化（Teacher Professionalisation）、教学维度的胜任力/能力本位课程（Competency-based Curriculum），以及质量监控维度的中央标准化评估体系（Central Evaluation Systems）。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349)]]
 > - **议程设定与话语空间封闭** 国际组织通过提供评估诊断，同时垄断了受援国教育“问题定义权”与“方案裁定权”，将合法政策讨论范围压缩在极度狭隘的既定技术选项内，排斥其他根本性思考路径。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 349)]]

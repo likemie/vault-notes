@@ -8,7 +8,7 @@ aliases:
 summary: "在循证教育改革与量化政策评估中，指依据高斯正态分布假说，将平均效应量与集中趋势作为衡量干预有效性最高标尺的认识论与治理机制；该机制在方法学上将正态分布两端的异质性个体与极端弱势群体视为可忽略的离群值（Outliers），在治理上迎合追求高性价比（Value for Money）的政治多数派修辞，从而在制度层面造成对边缘学童的系统性忽视并剥夺教师的情境化专业判断权。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Cognitive Deskilling]]"
   - "[[Return on Investment]]"
+  - "[[Neoliberalism]]"
   - "[[Academic Achievement]]"
   - "[[New Public Management]]"
   - "[[Teacher Professional Agency]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 ---
@@ -93,7 +94,7 @@ updated: 2026-11-14
 > [!feature] 核心要素
 > - **高斯均值霸权与集中趋势崇拜** 将[[Statistical Significance\|统计显著性]]与平均干预[[Effect Size\|效应量]]确立为衡量方案优劣的唯一权威尺度，将偏离中心趋势的复杂生态强行平滑化。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 225–226)]]
 > - **两极离群弱势群体的制度性抹杀** 在追求统计效力的模型计算中，正态分布两端的特异群体（如重度残障、极端贫困或双重少数族裔儿童）在数学上被直接忽略，导致其诉求在政策分配中彻底失声。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 226–227)]]
-> - **物有所值的功利主义治理修辞** 借用可用性与公共[[Return on Investment\|投资回报]]率（Value for money）等新自由主义修辞，将公共科研资金垄断性投向便于标准化产出的大规模因果实验。
+> - **物有所值的功利主义治理修辞** 借用可用性与公共[[Return on Investment\|投资回报]]率（Value for money）等[[Neoliberalism|新自由主义]]修辞，将公共科研资金垄断性投向便于标准化产出的大规模因果实验。
 > - **教师专业受托伦理的[[Cognitive Deskilling|去技能化]]侵蚀** 将一线专业人员贬低为机械落实所谓有效操作处方的技术流水线工，剥夺教师根据课堂动态调适教学的道德责任与[[Phronesis\|实践智慧]]。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 224–225)]]
 > - **主流多数派偏好的结构性再生产** 借科学中立之名行多数人政治之实，利用符合正态分布的证据系统性固化现有社会分层与特权阶层的利益。
 

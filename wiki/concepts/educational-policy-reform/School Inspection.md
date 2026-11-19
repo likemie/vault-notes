@@ -9,7 +9,7 @@ aliases:
 summary: "由国家或地方政府授权的外部独立机构对学校教育教学质量、管理运行与合规状态开展现场审查、评级发布与行政问责的制度化规制机制"
 type: concept
 domain: "educational-policy-reform"
-related_count: 70
+related_count: 71
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -50,6 +50,7 @@ related_concepts:
   - "[[Policy Mobility]]"
   - "[[PISA Shock]]"
   - "[[Epistemology]]"
+  - "[[Neoliberalism]]"
   - "[[School Choice]]"
   - "[[Heterogeneity]]"
   - "[[School Effectiveness]]"
@@ -99,7 +100,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -267,7 +268,7 @@ updated: 2026-11-15
 > > [!axis] 外部惩罚性强力规制 vs 扁平专业同行共同体自律
 > > 争论保障公共教育质量究竟应依靠政府自上而下的高压督查问责，还是依赖教师专业共同体的内生反思与相互监督。
 > >
-> > - **新自由主义国家规制论** 强调纳税人知情权与公共支出问责，认为没有外部硬性审查威慑，公立教育官僚系统必然陷入低效、自满与平庸。
+> > - **[[Neoliberalism|新自由主义]]国家规制论** 强调纳税人知情权与公共支出问责，认为没有外部硬性审查威慑，公立教育官僚系统必然陷入低效、自满与平庸。
 > > - **专业主义生态批判论** 论证外部惩罚性督导制造恐惧文化与离校过滤（Off-rolling）等数据造假，唯有扁平化同行互评与专业自律方能培育真正的育人质量。
 >
 > > [!axis] 综合等第标签化 vs 多维诊断描述性画像

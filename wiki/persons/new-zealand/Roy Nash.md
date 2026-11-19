@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 28
+person_related_count: 29
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[School Choice]]"
   - "[[Ecological Fallacy]]"
   - "[[Critical Pedagogy]]"
+  - "[[Neoliberalism]]"
   - "[[School Effectiveness]]"
   - "[[Operationalization]]"
   - "[[Causality]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-17
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -115,7 +116,7 @@ updated: 2026-11-15
 > [!person-network] 关系网络
 > - **梅西大学同行伙伴** [[Ivan Snook]]、Richard Harker（长期并肩作战的批判学者，共同构筑了享誉国际的梅西大学[[Critical Pedagogy|批判教育学]]与教育社会学研究阵地）。
 > - **批判学术知音** [[Gerald Grace]]（[[International Education|国际教育]]社会学者，在学术著述中高度推崇纳什直面社会阶级现实的学理勇气，将其奉为社会良知学者的典范）；[[Basil Bernstein]]（理论对话者，在社会结构制约与代码传递上形成深层学理共振）。
-> - **论辩交锋对象** [[John Hattie]]（针对抽离家庭阶级背景、将教师效能孤立渲染为最大决定因素的新自由主义[[School Effectiveness|学校效能]]论提出根本性学理质询）。
+> - **论辩交锋对象** [[John Hattie]]（针对抽离家庭阶级背景、将教师效能孤立渲染为最大决定因素的[[Neoliberalism|新自由主义]][[School Effectiveness|学校效能]]论提出根本性学理质询）。
 
 ---
 

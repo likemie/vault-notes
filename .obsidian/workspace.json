@@ -112,7 +112,8 @@
               "title": "Argument_Zheng_2023_ShanghaiSanlian_Ch02"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -328,8 +329,21 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "3ac2639cc8584945",
+  "active": "e2374d26ccaac553",
   "lastOpenFiles": [
+    "wiki/concepts/curriculum/Sacred and Profane Knowledge.md",
+    "wiki/concepts/political-economy-geopolitics/Pluriverse.md",
+    "wiki/facts/singapore/Core 2 Research Program.md",
+    "wiki/concepts/educational-philosophy/Pluriverse.md",
+    "wiki/concepts/educational-policy-reform/Standard Language Ideology.md",
+    "wiki/concepts/educational-philosophy/Papuan Social Ecology.md",
+    "wiki/methods/quantitative/Item Parceling.md",
+    "wiki/concepts/instruction-pedagogy/Shared Book Approach.md",
+    "wiki/concepts/sociology-of-education/Code-Switching.md",
+    "wiki/concepts/instruction-pedagogy/Folk Pedagogy.md",
+    "wiki/facts/singapore/Singapore-Cambridge GCE Ordinary Level.md",
+    "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
+    "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md",
     "wiki/facts/asia/1997 Asian Financial Crisis.md",
     "wiki/theories/political-economy-geopolitics/State Decline Thesis.md",
     "wiki/concepts/political-economy-geopolitics/Neoliberalism.md",
@@ -338,8 +352,6 @@
     "output/indrarajah_text.txt",
     "wiki/persons/uk/Robin Alexander.md",
     "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
-    "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
-    "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md",
     "wiki/methods/quantitative/Chi-Squared Test.md",
     "wiki/facts/singapore/Remaking Singapore Committee.md",
     "wiki/facts/singapore/Economic Review Committee 2002.md",
@@ -348,18 +360,7 @@
     "wiki/facts/singapore/Desired Outcomes of Education.md",
     "wiki/concepts/educational-policy-reform/Ability-Driven Education.md",
     "wiki/methods/quantitative/Chain-of-Thought Prompting.md",
-    "wiki/methods/quantitative/Causal Modeling.md",
-    "wiki/concepts/sociology-of-education/Household Wealth Index.md",
-    "wiki/facts/singapore/First Masterplan for ICT in Education.md",
-    "wiki/concepts/higher-education/Affirmative Action in Higher Education.md",
-    "wiki/facts/singapore/Manpower 21.md",
     "output/related-updates/Argument_Indrarajah_2026_NJCIE-442f02bd/batch-010/result.json",
-    "wiki/facts/asia/Bidikmisi Scholarship Program.md",
-    "wiki/facts/singapore/Junior College and Upper Secondary Education Review Committee.md",
-    "wiki/methods/quantitative/Career Shuffling Method.md",
-    "wiki/methods/quantitative/Campbell and Stanley Notation System.md",
-    "wiki/methods/quantitative/Blinding.md",
-    "wiki/methods/quantitative/Black Box RCTs.md",
     "sources/Gopinathan_2007_GSE.txt",
     "sources/Phyo_2025_SocSci/extracted_text.txt",
     "output/related-updates/Argument_Indrarajah_2026_NJCIE-442f02bd-old/batch-002/batch-result.schema.json",

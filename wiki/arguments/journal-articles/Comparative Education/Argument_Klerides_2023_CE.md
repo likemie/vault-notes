@@ -9,7 +9,7 @@ title: "Argument_Klerides_2023_CE"
 argument_key: "Argument_Klerides_2023_CE"
 argument_display_title: "Comparative education and international relations"
 argument_kind: "journal-article"
-argument_related_count: 60
+argument_related_count: 62
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Paradigm]]"
   - "[[Transnational Education]]"
+  - "[[Neoliberalism]]"
   - "[[Agendas of Attention]]"
   - "[[Readings of the Global]]"
   - "[[Revolutionism]]"
@@ -76,6 +77,7 @@ related_persons:
   - "[[Immanuel Kant]]"
   - "[[Michael Sadler]]"
   - "[[Isaac Kandel]]"
+  - "[[Karl Marx]]"
   - "[[Philip Altbach]]"
 related_facts:
   - "[[Department for Education]]"
@@ -93,7 +95,7 @@ sources:
 part_of: ''
 status: active
 created: 2026-06-08
-updated: 2026-11-11
+updated: 2026-11-19
 year: 2023
 doi: "10.1080/03050068.2023.2216045"
 citation_aliases:
@@ -117,7 +119,7 @@ citation_aliases:
 
 > [!concept-lens] 阅读透镜
 > - **对象** 比较教育的学科发展史、学术体制建制、[[Policy Borrowing\|政策借用]]与流动的分析[[Paradigm\|范式]]以及[[Transnational Education|跨国教育]]治理网络。
-> - **张力** 比较教育学术实践与国家权力、殖民扩张和新自由主义治理的深层纠缠，与学科自我定位中缺乏国际关系理论自觉之间的冲突。
+> - **张力** 比较教育学术实践与国家权力、殖民扩张和[[Neoliberalism|新自由主义治理]]的深层纠缠，与学科自我定位中缺乏国际关系理论自觉之间的冲突。
 > - **贡献** 引入马丁·怀特（Martin Wight）的国际理论三大传统，提供了解构比较教育[[Agendas of Attention\|注意力议程]]（agendas of attention）的[[Analytic Framework\|分析框架]]，阐明了借用与情境、技术与解放等学科内核心争议的哲学根源，并前瞻了地缘格局转变下的学科走向。
 
 ---
@@ -248,7 +250,7 @@ citation_aliases:
 
 > [!dev-timeline] 革命主义比较教育的演进脉络
 > - **1817 — 学科源头的殖民纠缠** 革命主义学者指出，朱利安的学科奠基计划（1817年）本身就诞生于欧洲列强帝国扩张时期的旅行、观察和差异分类技术中，带着与殖民分类学密不可分的历史烙印(Sobe, 2017)。
-> - **1970s–1980s — [[Dependency Theory\|依附理论]]与新马克思主义的介入** 卡诺伊、[[Philip Altbach|阿特巴赫]]等学者引入“中心-边缘”模型，解构西方资本主义世界秩序对穷国的剥削，将西方输出的学校系统解读为延续帝国支配、造成“心智奴役”的手段。
+> - **1970s–1980s — [[Dependency Theory\|依附理论]]与新[[Karl Marx|马克思]]主义的介入** 卡诺伊、[[Philip Altbach|阿特巴赫]]等学者引入“中心-边缘”模型，解构西方资本主义世界秩序对穷国的剥削，将西方输出的学校系统解读为延续帝国支配、造成“心智奴役”的手段。
 >   - 1974年 卡诺伊出版《教育作为文化帝国主义》，主张通过“解放学校”打破社会阶级等级。
 >   - 1970s-1980s 越南、古巴和莫桑比克等革命政府借鉴苏联“工人学院”模式，从工农中重塑社会主义知识分子以取代资产阶级精英(Kaiser, 2015)。
 > - **2000s 至今 — 后殖民与去殖民比较教育的兴起** 摆脱了传统的二元阶级斗争框架，要求与西方认识型彻底脱钩，挑战殖民性在殖民地（通过本土精英）与宗主国（东方主义式看待东亚 PISA 表现，Takayama, 2018a）的双向延续(Silova et al., 2020)。

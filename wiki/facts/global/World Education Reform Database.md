@@ -10,7 +10,7 @@ subtype: program
 region: "global"
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Variable]]"
   - "[[Heterogeneity]]"
+  - "[[Neoliberalism]]"
   - "[[Soft Power by Hard Facts]]"
 related_theories:
   - "[[World Society Theory]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -112,7 +113,7 @@ updated: 2026-11-11
 
 > [!finding-cards] 核心实证结论
 > - **主要效应** 塞策等学者（Seitzer, Baek, & Steiner-Khamsi, 2023）借助 WERD 进行文本交叉挖掘发现，[[OECD\|经合组织]]报告倾向于开展**外向型跨国对照（Outward Referencing）**，大量引证其他成员国的实操举措；而[[World Bank\|世界银行]]报告呈现极强的**自指性（Self-referential）**，反复循环引证其自建的 [[Systems Approach for Better Education Results\|SABER]] 政策库，极少吸纳非世行体系的在地实践。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 545)]]
-> - **[[Heterogeneity\|异质性]]效应** 布罗姆利等（Bromley et al., 2021）通过全库长时段分析证实，进入 21 世纪后，尽管全球政策数量持续激增，但在人权、社会正义等实质性人文主义维度的强调比例显著下降，取而代之的是新自由主义管理绩效与量化测评指标的泛滥。
+> - **[[Heterogeneity\|异质性]]效应** 布罗姆利等（Bromley et al., 2021）通过全库长时段分析证实，进入 21 世纪后，尽管全球政策数量持续激增，但在人权、社会正义等实质性人文主义维度的强调比例显著下降，取而代之的是[[Neoliberalism|新自由主义]]管理绩效与量化测评指标的泛滥。
 > - **边界条件** 数据库聚焦于国家官方颁布的法律与行政白皮书文本，对发展中国家普遍存在的政策文本与教室实际教学脱耦（decoupling）现象具有解释边界。
 
 > [!stat-cards]- 关键实证数据

@@ -9,7 +9,7 @@ aliases:
 summary: "现代产业政策区别于20世纪以纠正市场失灵与追求经济效率为单一导向的传统产业政策；它深度交织了国家安全、地缘政治对抗、供应链韧性与去风险目标，综合运用巨额直接补贴、前置研发资助、投资审查、单边及多边出口管制、友岸外包、制度化附加条件与战略矿产反制等全方位政策工具包。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 62
+related_count: 64
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Public Value]]"
   - "[[Pilot Scale Platform]]"
   - "[[Orchestrator State]]"
+  - "[[Neoliberalism]]"
   - "[[Paradigm]]"
   - "[[Alienation]]"
   - "[[Research Translation]]"
@@ -70,6 +71,7 @@ related_facts:
   - "[[SBIR and STTR Programs]]"
   - "[[European Commission]]"
   - "[[Important Projects of Common European Interest]]"
+  - "[[Integrated Programme]]"
   - "[[Natcast]]"
   - "[[National Nanotechnology Coordinated Infrastructure]]"
   - "[[Ministry of International Trade and Industry]]"
@@ -91,7 +93,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -178,7 +180,7 @@ updated: 2026-11-15
 > **产业组织结构对政策有效性的约束** 探讨现代高科技产业极端细分与专业化的全球网络如何瓦解封闭式国家冠军扶持逻辑。
 
 > [!claim] [[Argument_Bown_2024_JEconPersp|Bown and Wang (2024)]]
-> **产业组织与政策工具失配** 现代半导体产业已由 1980 年代的纵向一体化模式全面演进为由核心 IP、EDA 软件、精密装备、无晶圆厂设计、晶圆代工与封装测试组成的跨国多阶段网络；在如此细分且相互高度依赖的全球供应链中，任何单一国家试图通过封闭式产业政策建立全栈自主可控的国家冠军都将面临极高技术门槛与协调成本，必须依赖跨国联盟与多边协同。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 86–90, 102)]]
+> **产业组织与政策工具失配** 现代半导体产业已由 1980 年代的纵向一体化模式全面演进为由核心 [[Integrated Programme|IP]]、EDA 软件、精密装备、无晶圆厂设计、晶圆代工与封装测试组成的跨国多阶段网络；在如此细分且相互高度依赖的全球供应链中，任何单一国家试图通过封闭式产业政策建立全栈自主可控的国家冠军都将面临极高技术门槛与协调成本，必须依赖跨国联盟与多边协同。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 86–90, 102)]]
 
 ---
 
@@ -190,7 +192,7 @@ updated: 2026-11-15
 
 ---
 
-> [!concept-proposition] 命题四｜现代产业政策标志着国家科技治理对新自由主义市场中立共识的制度性决裂
+> [!concept-proposition] 命题四｜现代产业政策标志着国家科技治理对[[Neoliberalism|新自由主义]]市场中立共识的制度性决裂
 > **国家与市场关系的典范转移** 探讨大国在高科技与前沿战略领域如何放弃长达四十年的不直接干预偏好，转向国家主导的定向筛选与赢家扶持。
 
 > [!claim] [[Argument_Brint_2023_IHE|Brint (2023)]]

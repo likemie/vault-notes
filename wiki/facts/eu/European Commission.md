@@ -11,7 +11,7 @@ subtype: organization
 region: eu
 fact_region: "eu"
 fact_kind: "organization"
-fact_related_count: 47
+fact_related_count: 48
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Orchestrator State]]"
   - "[[Strategic Autonomy]]"
   - "[[Transnational Education]]"
+  - "[[Neoliberalism]]"
   - "[[Competitiveness]]"
   - "[[Lifelong Learning]]"
   - "[[Knowledge-Based Economy]]"
@@ -81,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-26
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -107,7 +108,7 @@ updated: 2026-11-11
 >
 > - **1993–1999** **条约合法化挫折、行政专设与白皮书话语转向**
 >
->   《马斯特里赫特条约》将教育正式写入条约但附带严苛的辅助性原则；欧委会面临批准公投危机，转而诉诸文化象征动员与经济新自由主义理念重构教育性质。
+>   《马斯特里赫特条约》将教育正式写入条约但附带严苛的辅助性原则；欧委会面临批准公投危机，转而诉诸文化象征动员与经济[[Neoliberalism|新自由主义]]理念重构教育性质。
 >
 >   - **1992–1993** 出台五份关于欧洲公民身份、社会团结与民主赤字的咨询文件，借用想象共同体理念赋予教育形塑欧洲认同的政治象征使命。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 482)]]
 >   - **1993 与 1995** 欧委会相继发布德洛尔白皮书《[[Growth, Competitiveness, Employment|增长、竞争力、就业]]》与克雷松白皮书《[[Teaching and Learning - Towards the Learning Society|教与学：迈向学习型社会]]》，将教育重塑为提升经济[[Competitiveness|竞争力]]的“无形投资”并确立[[Lifelong Learning|终身学习]]话语。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 482–484)]]

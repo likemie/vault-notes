@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 22
+person_related_count: 24
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Time-Space Compression]]"
   - "[[Washington Consensus]]"
   - "[[Global Citizenship]]"
+  - "[[Neoliberalism]]"
   - "[[Liberalization]]"
   - "[[Policy Borrowing]]"
   - "[[Structural Adjustment Programs]]"
@@ -44,6 +45,7 @@ related_instruments: []
 related_persons:
   - "[[Liliana Esther Olmos]]"
   - "[[Anthony Giddens]]"
+  - "[[Karl Marx]]"
   - "[[Robert Arnove]]"
   - "[[Carlos Alberto Torres]]"
 related_facts:
@@ -54,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-11-13
+updated: 2026-11-19
 ---
 
 ---
@@ -85,7 +87,7 @@ updated: 2026-11-13
 ---
 
 > [!thought-timeline] 思想发展
-> - **1980 年代 — 国家[[Critical Theory|批判理论]]与民主模型** 从法兰克福学派与马克思主义国家观出发，考察资本主义[[Legitimation Crisis|合法化危机]]与自由主义民主的局限。
+> - **1980 年代 — 国家[[Critical Theory|批判理论]]与民主模型** 从法兰克福学派与[[Karl Marx|马克思]]主义国家观出发，考察资本主义[[Legitimation Crisis|合法化危机]]与自由主义民主的局限。
 >   - **代表著作** *Models of Democracy*（1987）；*Political Theory and the Modern State*（1989）。
 >   - **关键概念／方法** 民主模型、[[Country Ownership|国家自主性]]、合法化危机。
 >   - **阶段转向** 厘清了自由主义、[[Pluralism|多元主义]]与马克思主义在国家职能上的核心分歧。
@@ -96,7 +98,7 @@ updated: 2026-11-13
 > - **2000 年代 — [[Cosmopolitanism|世界主义]]民主与全球治理重构** 探索应对跨国市场失控与全球不平等的制度救济方案。
 >   - **代表著作** *Global Covenant: The Social Democratic Alternative to the [[Washington Consensus]]*（2004）。
 >   - **关键概念／方法** 世界主义民主、[[Global Citizenship|全球公民]]权、反华盛顿共识。
->   - **阶段转向** 倡导超越新自由主义治理，建立受民主监督的全球性社会契约。
+>   - **阶段转向** 倡导超越[[Neoliberalism|新自由主义治理]]，建立受民主监督的全球性社会契约。
 
 ---
 

@@ -13,7 +13,7 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 45
+person_related_count: 47
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -34,8 +34,10 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Typification]]"
   - "[[Tracking]]"
+  - "[[Counter-School Culture]]"
   - "[[Knowledge Production]]"
   - "[[Phronesis]]"
+  - "[[Neoliberalism]]"
   - "[[Communities of Practice]]"
   - "[[Knowledge Transfer]]"
   - "[[Professional Judgment]]"
@@ -81,7 +83,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-08
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -117,7 +119,7 @@ updated: 2026-11-11
 > - **1960s–1970s — 微观互动社会学与课堂分层机制** 将考察焦点从宏观社会阶级结构转向微观课堂人际互动，运用[[Symbolic Interactionism|符号互动论]]与越轨社会学剖析师生标签机制。
 >   - **代表著作** *Social Relations in a Secondary School* (1967); *Deviance in Classrooms* (1975, with Hester & Mellor).
 >   - **关键概念／方法** 能力流轨（[[Tracking|Streaming]]）、反学校亚文化（Anti-school Subculture）、[[Typification|类型化]]、参与式观察、[[Ethnography|民族志]]。
->   - **阶段转向** 打破[[Structural Functionalism|结构功能主义]]对学校社会化功能的静态假定，证实能力分流通过剥夺底层学生的学术声誉，迫使其在同侪群体中构建抵触权威的反学校文化。
+>   - **阶段转向** 打破[[Structural Functionalism|结构功能主义]]对学校社会化功能的静态假定，证实能力分流通过剥夺底层学生的学术声誉，迫使其在同侪群体中构建抵触权威的[[Counter-School Culture|反学校文化]]。
 > - **1980s — 综合中学困境与城市学校组织变革** 关注综合中学实践中学术文凭主义的负面后果，以行政和督导角色推进课程与组织改善。
 >   - **代表著作** *The Challenge for the Comprehensive School: Culture, Curriculum and Community* (1982); *Improving Secondary Schools: The Hargreaves Report* (1984).
 >   - **关键概念／方法** 综合中学文化、学生归属感赤字、全员参与式课程。
@@ -126,7 +128,7 @@ updated: 2026-11-11
 >   - **代表著作** *Teaching as a Research-Based Profession: Possibilities and Prospects* (1996, TTA Lecture); *The Knowledge-Creating School* (1999); *Creative Professionalism* (1998).
 >   - **关键概念／方法** [[Evidence-Based Education|证据本位教育]]、研究知情教学、专业知识创造、[[Phronesis|实践智慧]]调和。
 >   - **阶段转向** 借用医学科研模式对照教育学界零散孤立的研究现状，主张建立系统累积的实证知识库；同时将学校视作知识创造组织，主张教师应兼具证据审阅者与实践合作研究者的双重角色。
-> - **2000s–2010s — 系统领导力、自我改进学校系统与联合实践发展** 面对新自由主义市场问责的碎片化后果，探索学校间通过横向协作实现内生演进的机制。
+> - **2000s–2010s — 系统领导力、自我改进学校系统与联合实践发展** 面对[[Neoliberalism|新自由主义]]市场问责的碎片化后果，探索学校间通过横向协作实现内生演进的机制。
 >   - **代表著作** *Creating a Self-Improving School System* (2010); *Leading a Self-Improving School System* (2011); *A Self-Improving School System: Towards Maturity* (2012).
 >   - **关键概念／方法** [[Self-Improving School System|自我改进学校系统]]、[[Joint Practice Development|联合实践发展]]（JPD）、系统领导力（System Leadership）、校际集群网络。
 >   - **阶段转向** 提出以[[Communities of Practice|实践共同体]]内部的双向互学取代单向线性的自上而下“[[Knowledge Transfer|知识转移]]”，确立以实践者互信、深层支持与常态同侪观摩为核心的校际系统演进逻辑。

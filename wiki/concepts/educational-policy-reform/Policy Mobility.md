@@ -10,9 +10,9 @@ aliases:
 summary: "指涉政策观念、治理技术与制度模型在跨国、跨区域及公私异质网络中被解构、转译、变异和再情境化的动态过程；强调政策并非在真空或纯粹地理空间中的静态线性转移，而是伴随社会-技术中介、权力拓扑与资本纽带的流动性装配。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 69
-related_level: 6
-related_stars: "💎💎"
+related_count: 70
+related_level: 7
+related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - theme/policy-mobility
@@ -57,6 +57,7 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Positivism]]"
   - "[[Academic Achievement]]"
+  - "[[Neoliberalism]]"
   - "[[Innovation Hub]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Hard Policy Transfer]]"
@@ -97,7 +98,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -259,7 +260,7 @@ updated: 2026-11-15
 > - **过度泛化与概念通胀** 部分批评指出，若将一切政策出台都归因于模糊的“流动”与“网络装配”，极易消解公共政策制定过程中各政党议员、一线教师工会与选民所付出的具体民主博弈努力，导致政治行动的能动性被结构性流动[[Discourse|话语]]所稀释。
 
 > [!warning] 适用局限
-> 政策流动分析框架高度适用于具有明显跨国借鉴背景、公私混合资助、咨询公司深度介入及证据中介参与的新自由主义教育改革议题；当分析对象属于完全内生、高度受制于封闭传统宗教习俗或缺乏外部资本介入的微观地方教学规范变迁时，该框架的解释力较为有限。
+> 政策流动分析框架高度适用于具有明显跨国借鉴背景、公私混合资助、咨询公司深度介入及证据中介参与的[[Neoliberalism|新自由主义]]教育改革议题；当分析对象属于完全内生、高度受制于封闭传统宗教习俗或缺乏外部资本介入的微观地方教学规范变迁时，该框架的解释力较为有限。
 
 ---
 

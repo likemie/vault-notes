@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 31
+person_related_count: 33
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Policy Mobility]]"
   - "[[Evidence Ecosystem]]"
   - "[[Output-Oriented Governance]]"
+  - "[[Language Experience Approach]]"
   - "[[Technological Catch-up]]"
   - "[[Knowledge Mediation]]"
   - "[[Effective Teaching]]"
@@ -38,6 +39,7 @@ related_concepts:
   - "[[Months of Progress]]"
   - "[[Phronesis]]"
   - "[[Academic Achievement]]"
+  - "[[Neoliberalism]]"
   - "[[Venture Philanthropy]]"
   - "[[Educational Privatisation]]"
   - "[[School Leadership]]"
@@ -64,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-11-02
+updated: 2026-11-19
 ---
 
 ---
@@ -85,7 +87,7 @@ updated: 2026-11-02
 ---
 
 > [!timeline] 生平与关键职涯节点
-> - **1955** 出生于英格兰，早期在东伦敦基础教育学校执教，后进入地方教育行政当局（LEA），长期深耕内伦敦弱势学区教育改革。
+> - **1955** 出生于英格兰，早期在东伦敦基础教育学校执教，后进入地方教育行政当局（[[Language Experience Approach|LEA]]），长期深耕内伦敦弱势学区教育改革。
 > - **1990s–2000s** 历任英格兰初等国家战略（Primary National Strategy）国家总监，主导全国读写与算术攻坚；随后出任伦敦贫困率最高的塔村区（Tower Hamlets）教育局长及行政长官（Chief Executive），凭借基于数据的精细化干预与资源倾斜，显著拉升该区公立学校学业产出。
 > - **2011 — 掌舵英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）创设** 受教育大臣 [[Michael Gove]] 与[[Sutton Trust\|萨顿信托]]（The Sutton Trust）理事会委托，出任 EEF 创设首席执行官；将 1.25 亿英镑始创基金全面投入独立第三方 [[Randomised Controlled Trials\|RCT]] 评估，将 EEF 打造为英国政府法定的独立证据经纪机构（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 11]]）。
 > - **2014–2018 — 跨国证据生态扩张与 [[Evidence for Learning\|E4L]] 扶持** 推动 EEF 跨洋资助[[Social Ventures Australia\|澳大利亚社会创投]]（SVA）设立全资子公司[[Evidence for Learning\|证据学习中心]]（E4L），向澳洲输出工具包技术；2018 年与跨国铁矿石巨头[[BHP Foundation\|必和必拓基金会]]（BHP Foundation）签署五年合作协议，启动全球[[Evidence Ecosystem\|证据生态系统]]建设项目（Collins, 2018；[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 3]]）。
@@ -116,7 +118,7 @@ updated: 2026-11-02
 > [!debates] 学术与政策争议
 >
 > > [!axis] 证据中介客观科学性 vs 跨国[[Policy Mobility\|政策流动]]与咨询寡头利益输送
-> > 探讨科林斯主导的证据中介全球输出是普惠性的科研成果转化，还是帮助新自由主义管理主义跨国扩张的载体。
+> > 探讨科林斯主导的证据中介全球输出是普惠性的科研成果转化，还是帮助[[Neoliberalism|新自由主义]]管理主义跨国扩张的载体。
 > >
 > > - **[[Network Ethnography\|网络民族志]]批判学者（[[Argument_Rowe_2022_IJER\|Rowe, 2022]]）** 批评科林斯跨国兼任 [[Australian Education Research Organisation\|AERO]] 董事是跨国[[Policy Network\|政策网络]][[Co-affiliation\|共同从属]]（co-affiliation）的典型标本；指出其所代表的 [[Education Endowment Foundation\|EEF]] 模式在澳洲并非纯学术输入，而是与麦肯锡系[[Venture Philanthropy\|风险慈善]]枢纽（[[Social Ventures Australia\|SVA]]）、矿业寡头（必和必拓）及企业法律特许权紧密绑定，其实质是将量化因果量规打造成“防野狗围栏”，以科学中立遮蔽[[Educational Privatisation\|教育私有化]]与商业分包。
 > > - **循证政策支持者（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）** 高度评价科林斯开创的 EEF 模式，认为他成功将英国教育研究带入了前所未有的方法论严密时代，使[[School Leadership\|学校领导]]者不再盲从商业推销，而是学会用公开独立证据进行审慎投资。

@@ -9,10 +9,10 @@ aliases:
 summary: "中国官方新时代对外传播与意识形态话语建构的战略范式，旨在通过多元主体主动宣介中国发展成就、制度道路与文明价值，以抗衡西方话语霸权并争夺国际话语权"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 41
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - concept
   - geopolitics
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Cultural Diplomacy]]"
   - "[[China Solution]]"
   - "[[Washington Consensus]]"
+  - "[[Neoliberalism]]"
   - "[[Developmentalism]]"
   - "[[Transnational Education]]"
   - "[[Language Skills]]"
@@ -56,6 +57,7 @@ related_instruments: []
 related_persons:
   - "[[Rui Yang]]"
 related_facts:
+  - "[[Opinions on Properly Conducting the Education Opening-up Work of the New Era]]"
   - "[[ASEAN]]"
   - "[[Xiamen University Malaysia]]"
   - "[[Confucius Institute]]"
@@ -68,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -105,7 +107,7 @@ updated: 2026-11-11
 > [!feature] 核心要素
 > - **叙事主体的全员协同** 强调将高校教师、海外公派留学人员以及来华留学生纳入叙事网络，要求外派人员主动阐释国家发展经验，同时引导外籍师生实地感悟中国治理成就。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 686)]]
 > - **[[Discourse|话语]]内容的现代性转向** 突破传统仅停留在古代中华文明与历史文物的叙事框架，聚焦于当代中国的脱贫攻坚、数字经济、基础设施飞跃与稳定治理实绩，阐发[[China Solution|中国方案]]的独特价值。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 688–690)]]
-> - **话语对峙的反霸权导向** 直面西方[[Washington Consensus|华盛顿共识]]在新自由主义全球化中的治理赤字，向发展中国家传播[[Beijing Consensus|北京共识]]与威权[[Developmentalism|发展主义]]经验，重塑全球知识与意识形态版图。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 689–691)]]
+> - **话语对峙的反霸权导向** 直面西方[[Washington Consensus|华盛顿共识]]在[[Neoliberalism|新自由主义]]全球化中的治理赤字，向发展中国家传播[[Beijing Consensus|北京共识]]与威权[[Developmentalism|发展主义]]经验，重塑全球知识与意识形态版图。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 689–691)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -125,7 +127,7 @@ updated: 2026-11-11
 > **教育[[Discourse|话语]]工具化维度** 探究教育对外合作政策如何将中外师生的人际交往转化为国家叙事建构的制度化通道。
 
 > [!claim] Woo, E.
-> **新时代对外开放文件的政治动员要求** Woo 指出，中央《关于做好新时期教育对外开放工作的若干意见》与教育行动方案将“讲好中国故事”列为核心导向，要求海外留学人员积极宣介国家发展成就、引导在华外籍师生认同中国道路，表明教育交流在深层被视为服务执政党政治抱负与国际话语争夺的强力推进工具。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 686)]]
+> **新时代对外开放文件的政治动员要求** Woo 指出，中央《[[Opinions on Properly Conducting the Education Opening-up Work of the New Era|关于做好新时期教育对外开放工作的若干意见]]》与教育行动方案将“讲好中国故事”列为核心导向，要求海外留学人员积极宣介国家发展成就、引导在华外籍师生认同中国道路，表明教育交流在深层被视为服务执政党政治抱负与国际话语争夺的强力推进工具。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 686)]]
 
 > [!claim] [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]]
 > **高教作为对外叙事先锋与国情课程时代转向** 朱一和[[Rui Yang|杨锐]]指出，为化解周边国家对华夏中心秩序重建的疑虑，中国官方对外战略由“和平崛起”推进为“讲好中国故事”，高等教育系统在其中充当了构建国家叙事的先锋阵地。自 2017 年教育部将《中国概况》设为国际学历生必修课以来，课程内容发生深刻转向：由以往聚焦[[Language Skills|语言技能]]与古代传统文化符号，转向全面涵盖当代经济、科技、社会与国家治理实绩，教材中古代与现当代知识点比例达到 1:1.2。半数受访留学生证实教师在课堂中大量讲授当代发展经验与流行文化，推动对外传播转向以展示现代[[Buen Vivir|美好生活]]与经济成就为核心的[[Cultural Recognition|文化认同探索]]。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 8–9, 13)]]

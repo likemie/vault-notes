@@ -11,7 +11,7 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 34
+fact_related_count: 36
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ tags:
   - performativity
 related_concepts:
   - "[[School Leadership]]"
+  - "[[Neoliberalism]]"
   - "[[Global Education Reform Movement]]"
   - "[[Visible Learning]]"
   - "[[Performativity]]"
@@ -55,6 +56,7 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
   - "[[James C. Scott]]"
+  - "[[Charles Taylor]]"
 related_facts:
   - "[[NAPLAN]]"
   - "[[Corwin Press]]"
@@ -69,7 +71,7 @@ part_of: ""
 confidence: high
 status: stable
 created: 2026-05-03
-updated: 2026-11-15
+updated: 2026-11-19
 year: 2017
 doi: ""
 citation_aliases: []
@@ -80,7 +82,7 @@ citation_aliases: []
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2017 年由澳大利亚维多利亚州教育部（Department of Education and Training Victoria, DET Victoria）正式发布实施（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 141]]）。
 > - **适用地区 / 对象** 覆盖维多利亚州全境公立中小学校，规范对象为公立系统内的全体 K-12 教师、学科协调员与[[School Leadership|学校领导]]团队。
-> - **问题背景** 在新自由主义[[Global Education Reform Movement|全球教育改革运动]]（GERM）与澳大利亚全国学生评估项目（[[NAPLAN]]）标准化考核压力下，维州教育部急需推行一套能够展现循证问责成效、可大范围低成本复制且便于行政监管的教学标准方案；[[John Hattie|约翰·哈蒂]]（John Hattie）的《[[Visible Learning|可见的学习]]》（Visible Learning）及其团队的[[Effect Size|效应量]]排行榜被决策层直接采纳为最高科学证据支持（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 141]]; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 29]]）。
+> - **问题背景** 在[[Neoliberalism|新自由主义]][[Global Education Reform Movement|全球教育改革运动]]（GERM）与澳大利亚全国学生评估项目（[[NAPLAN]]）标准化考核压力下，维州教育部急需推行一套能够展现循证问责成效、可大范围低成本复制且便于行政监管的教学标准方案；[[John Hattie|约翰·哈蒂]]（John Hattie）的《[[Visible Learning|可见的学习]]》（Visible Learning）及其团队的[[Effect Size|效应量]]排行榜被决策层直接采纳为最高科学证据支持（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 141]]; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 29]]）。
 > - **制度位置** 政策作为维多利亚州“教育之州”（Education State）学校改进核心议程的支柱性抓手，直接与教师专业绩效评估、校级发展规划及日常督导巡查深度绑定。
 
 ---
@@ -197,7 +199,7 @@ citation_aliases: []
 > > 聚焦微观日常实践，技术监控与教师情境化裁量权的剧烈碰撞。
 > >
 > > - **循证管理倡导者（Hattie, 2009; Fisher et al., 2016）** 认为统一的核查清单与[[Learning Intentions|学习意图]]显性化是确保教学质量底线、克服教师个人[[Empiricism|经验主义]]的必要手段。
-> > - **[[Critical Pedagogy|批判教育学]]者（Lilley, 2022; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 29–30]]）** 指责强制板书打卡等要求是极其低幼化且去专业化的新泰勒主义规训，彻底摧毁了教师基于课堂现场变化的[[Professional Judgment|专业判断]]与同行互信。
+> > - **[[Critical Pedagogy|批判教育学]]者（Lilley, 2022; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 29–30]]）** 指责强制板书打卡等要求是极其低幼化且去专业化的新[[Charles Taylor|泰勒]]主义规训，彻底摧毁了教师基于课堂现场变化的[[Professional Judgment|专业判断]]与同行互信。
 >
 > > [!axis] 公共财政转化与跨国商业特许经营
 > > 揭示公共教育预算如何借助政策转化流向特定私人企业与商业出版网络。

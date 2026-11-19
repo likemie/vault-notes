@@ -6,7 +6,7 @@ aliases:
 summary: "由安迪·哈格里夫斯和迈克尔·富兰提出的教师专业发展构念，整合人类资本、社会资本与决策资本三重视角，并在跨国政策扩散与新自由主义治理中被用于重塑教师自主、管理与网络化运作能力。"
 type: concept
 domain: "comparative-education"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Paradigm]]"
   - "[[Epistemic Governance]]"
+  - "[[Neoliberalism]]"
   - "[[Education Export]]"
   - "[[Problematisation]]"
   - "[[Discourse]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -128,7 +129,7 @@ updated: 2026-11-15
 
 ---
 
-> [!concept-proposition] 命题二｜新自由主义[[Education Export|教育出口]]政策通过重新界定专业资本内涵重塑教师微观职业认同
+> [!concept-proposition] 命题二｜[[Neoliberalism|新自由主义]][[Education Export|教育出口]]政策通过重新界定专业资本内涵重塑教师微观职业认同
 > **政策[[Problematisation|问题表征]]与职业主体性规训** 揭示国家治理与商业逻辑如何借助微专业培训改写专业资本的准入门槛，诱导公立教师向教育型企业家角色演变。
 
 > [!claim] [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]]

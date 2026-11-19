@@ -37,6 +37,7 @@ related_concepts:
   - "[[European Education Space]]"
   - "[[Research Scope]]"
   - "[[Discourse]]"
+  - "[[Neoliberalism]]"
   - "[[PISA Literacy]]"
   - "[[Problem Solving]]"
   - "[[Creativity]]"
@@ -86,6 +87,7 @@ related_facts:
   - "[[PISA Shock in Germany]]"
   - "[[PISA Shock in Japan]]"
   - "[[Yutori Education]]"
+  - "[[National Institute of Education]]"
   - "[[HarmoS]]"
   - "[[Canadian Education Indicators Program]]"
   - "[[National Assessment of Education Quality China 2007]]"
@@ -102,14 +104,14 @@ sources:
 part_of:
 status: draft
 created: 2026-07-05
-updated: 2026-11-15
+updated: 2026-11-19
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Li_2025_HSSC"
 argument_key: "Argument_Li_2025_HSSC"
 argument_display_title: "The effects of PISA on global basic education reform: A systematic literature review"
 argument_kind: "journal-article"
-argument_related_count: 67
+argument_related_count: 69
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -222,7 +224,7 @@ issuing_organization: ""
 > 从**质量**维度看，OECD 通过 PISA 强调对学生在阅读、数学和科学中应用知识和技能应对真实生活挑战的全面评估。PISA 能力框架要求教育体系为年轻人提供应对现代社会挑战所需的知识和工具：快速变化的劳动力市场、持续数字化、社会流动、国内不平等加剧、大规模国际移民和气候变化（OECD, 2019）。PISA 的质量影响可在**宏观、中观和微观**三个决策层面分别识别。
 
 > [!dimension] 宏观决策层面的五种表现
-> - **接受新自由主义教育价值并增加教育支出**
+> - **接受[[Neoliberalism|新自由主义]]教育价值并增加教育支出**
 >   德国和法国在 PISA 冲击后大幅增加教育投入。德国社会在 2000 年 PISA 结果公布时受到冲击：从 1970 年代到 2000 年代初，德国未能创造[[Human Capital Theory\|人力资本]]，用 OECD 的话说，剥夺了大部分学生获得最佳工作回报所需学术素质的机会（Martens & Niemann, 2013）。PISA 将教育主题直接推上政策议程，强化了政策制定者弥补绩效缺陷的行动。
 > - **接受能力和素养概念**
 >   日本在 2003 年 PISA 结果公布后，于 2004 年将 [[PISA Literacy\|PISA素养]]正式纳入国家教育政策的核心目标。PISA素养聚焦高阶能力：[[Problem Solving\|问题解决]]、知识应用、[[Creativity\|创造性]]工作和知识回忆（Ninomiya, 2019），为日本教育带来了与以往学力理解不同的新含义。
@@ -248,7 +250,7 @@ issuing_organization: ""
 
 > [!dimension] 中观决策层面的三种表现
 > - **改善教师教育**
->   约旦和法国通过建立大学内的教师教育学院来加强教师职前教育和持续专业发展。加拿大延长了教师培训时长（2012 年），同时削减了许多文科和人文学科教师的培训（Baird et al., 2016）。
+>   约旦和法国通过建立大学内的[[National Institute of Education|教师教育学院]]来加强教师职前教育和持续专业发展。加拿大延长了教师培训时长（2012 年），同时削减了许多文科和人文学科教师的培训（Baird et al., 2016）。
 > - **对接 PISA 的全国性评估与教学标准审查**
 >   - **瑞士 [[HarmoS]]（Interkantonale Vereinbarung über die Harmonisierung der obligatorischen Schule，州际义务教育协调协议，2006 年）** 引入国家教育标准，标志着从投入导向基本原则向以效率和产出控制为目标的治理范式转变（Bieber & Martens, 2011）。
 >   - **[[Canadian Education Indicators Program|加拿大教育指标计划]]（Canadian [[Performance Indicators|education indicators]] Program, CEIP）** 引入与 OECD 报告相同的区域统一指标，包括基于 PISA 的学生成就卓越度（Student Achievement Excellence）指标，PISA 结果成为判断加拿大教育水平是否卓越、政策是否成功的依据（Baird et al., 2016）。

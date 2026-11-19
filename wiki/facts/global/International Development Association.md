@@ -9,7 +9,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Learning Crisis]]"
   - "[[Discourse]]"
   - "[[Academic Achievement]]"
+  - "[[Neoliberalism]]"
   - "[[State Educational Sovereignty]]"
   - "[[Alienation]]"
   - "[[Multilateral Development Bank]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-15
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -131,7 +132,7 @@ updated: 2026-11-15
 > > [!axis] 捐助国政策绑架与受援国主权弱化争议
 > > 批评者质疑国际开发协会高度依赖三年一轮的发达国增资补充，致使其资助策略深度沦为西方大国推行自身价值偏好的工具。
 > >
-> > - **批评视角（反方）** 出资国每三年一度在增资谈判中设定冗长且互相冲突的“特别优先议题”，将贷款与新自由主义经济教条、私有化竞争或严苛指标相挂钩；由于极贫国家在增资谈判中缺乏投票权与议价筹码，往往只能被动接受外源性政策强加，削弱了[[State Educational Sovereignty|国家教育主权]]与本土政策自主性。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 476)]]
+> > - **批评视角（反方）** 出资国每三年一度在增资谈判中设定冗长且互相冲突的“特别优先议题”，将贷款与[[Neoliberalism|新自由主义]]经济教条、私有化竞争或严苛指标相挂钩；由于极贫国家在增资谈判中缺乏投票权与议价筹码，往往只能被动接受外源性政策强加，削弱了[[State Educational Sovereignty|国家教育主权]]与本土政策自主性。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 476)]]
 > > - **机构与出资方立场（正方）** 辩护者主张增资谈判必须对发达国家纳税人的公共支出负责；设立治理与绩效考核机制（PBA 与 CPIA），是防止优惠资金流向腐败政权、确保援助真正到达社会底层的必要风控约束。
 >
 > > [!axis] 基层治理毛细力匮乏与“重投入轻产出”执行[[Alienation|异化]]争议

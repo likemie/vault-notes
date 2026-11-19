@@ -9,7 +9,7 @@ aliases:
 summary: "由彼得·哈斯（Peter Haas）界定、国际关系与公共政策学广泛使用的治理概念。指享有共同核心原则、因果信念、效度检验标准及政策关切的跨国专业专家网络；在缺乏超国家法律强制力与金融借贷制裁手段的情境下，跨国组织通过凝聚认知共同体确立知识霸权与议程设置权，成为远处掌舵的专业话语支柱。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Epistemology]]"
   - "[[Space of Equivalence]]"
+  - "[[Neoliberalism]]"
   - "[[Knowledge Mediation]]"
   - "[[Evidence Culture]]"
   - "[[Gatekeepers]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -124,7 +125,7 @@ updated: 2026-11-11
 
 ---
 
-> [!concept-proposition] 命题二｜认知共同体依靠技术中立表象掩蔽并固化新自由主义意识形态霸权
+> [!concept-proposition] 命题二｜认知共同体依靠技术中立表象掩蔽并固化[[Neoliberalism|新自由主义意识形态]]霸权
 > **专家理性的去政治化技术** 探讨认知共同体如何将高度争议的阶级、公平与文化权力冲突转化为看似纯粹客观的统计测量问题。
 
 > [!claim] Henry et al.

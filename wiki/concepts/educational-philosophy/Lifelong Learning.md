@@ -7,7 +7,7 @@ aliases:
 summary: "指贯穿个体全生命周期的持续性、适应性与累积性学习过程。在人本主义视阈下涵盖支撑健康、理性协商与社会文化基础设施的全人发展生态；在经合组织等主导的知识经济与学习型经济中，则被重塑为应对知识快速折旧、以掌握实践诀窍（knowing how）为核心的生产力生存命令与可测倾向。"
 type: concept
 domain: "educational-philosophy"
-related_count: 100
+related_count: 101
 related_level: 10
 related_stars: "💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Employability]]"
   - "[[Learning Economy]]"
   - "[[Procedural Knowledge]]"
+  - "[[Neoliberalism]]"
   - "[[Social Imaginary]]"
   - "[[Central Phenomenon]]"
   - "[[Champ]]"
@@ -127,7 +128,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-07
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -141,7 +142,7 @@ updated: 2026-11-15
 > - **边界** 终身学习超越纯粹服务劳动力市场[[Employability|就业能力]]的职业技能重塑；其有效运作依赖普惠均等的公共社会与文化基础设施予以制度化支撑，防范国家公共教育保障责任被单向推卸给受教个体。
 
 > [!citation-card] [[Dominique Foray|福雷]]与[[Bengt-Åke Lundvall|伦德瓦尔]]论知识折旧下的终身[[Learning Economy|学习经济]]命令
-> 在知识经济中，对既有事实和理论的静态占有（knowing that）迅速贬值，将知识转化为商业创新与生产力协作的实践网络与操作能力（[[Procedural Knowledge|knowing how]]）成为关键。多米尼克·福雷与本特-奥克·伦德瓦尔（Foray & Lundvall, 1996）指出，国家吸纳新经济的能力取决于其转型为学习型经济的速度；财富创造与持续学习及分享创新的沟通能力直接绑定。在此背景下，学习必须突破正规学龄教育的藩篱，演变为贯穿一生的终身学习命令。[[OECD|经合组织]]由此将终身学习确立为新自由主义[[Social Imaginary|社会想象]]的核心基石，并在[[PISA|国际学生评估项目]]中专门测查受测学生应对现实挑战的终身学习倾向。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–447)]]
+> 在知识经济中，对既有事实和理论的静态占有（knowing that）迅速贬值，将知识转化为商业创新与生产力协作的实践网络与操作能力（[[Procedural Knowledge|knowing how]]）成为关键。多米尼克·福雷与本特-奥克·伦德瓦尔（Foray & Lundvall, 1996）指出，国家吸纳新经济的能力取决于其转型为学习型经济的速度；财富创造与持续学习及分享创新的沟通能力直接绑定。在此背景下，学习必须突破正规学龄教育的藩篱，演变为贯穿一生的终身学习命令。[[OECD|经合组织]]由此将终身学习确立为[[Neoliberalism|新自由主义]][[Social Imaginary|社会想象]]的核心基石，并在[[PISA|国际学生评估项目]]中专门测查受测学生应对现实挑战的终身学习倾向。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–447)]]
 >
 > *Learning, Foray and Lundvall argue, should not only involve the ability to use new technologies to access global knowledge, but should also mean using technology to communicate with other people about how to improve productivity. This implies that individuals, corporations, and nations create wealth in proportion to their capacity to learn and share innovation. If this is so then learning must be continuous and not restricted to formal schooling – that is, it must be lifelong learning. ([[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, p. 446]]; citing Foray & Lundvall, 1996)*
 

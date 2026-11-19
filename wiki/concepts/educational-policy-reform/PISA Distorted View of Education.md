@@ -7,7 +7,7 @@ aliases:
 summary: "比较教育学者赵勇等针对经合组织 PISA 提出的批判性学术构念，指 PISA 将经济增长与劳动力市场竞争力作为教育的唯一目的，只评估与经济直接相关的科目，系统性排挤人文、艺术、公民身份、同理心与身心健康等更广泛的教育全人目的。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Construct]]"
   - "[[Competitiveness]]"
+  - "[[Neoliberalism]]"
   - "[[Problem Solving]]"
   - "[[Whole Person Education]]"
   - "[[PISA Made-up Claim]]"
@@ -43,13 +44,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-06
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
 
 > [!def] PISA Distorted View of Education
-> **[[PISA]] 扭曲的教育观（PISA Distorted View of Education）**，是由华裔比较教育学者[[Yong Zhao|赵勇]]针对[[OECD|经合组织]]（[[OECD]]）国际学生评估项目（[[PISA]]）提出的批判性学术[[Construct|构念]]，指 PISA 将推动国家宏观经济增长与提升个体在劳动力市场中的[[Competitiveness|竞争力]]确立为教育系统存在的唯一合法目的。在这种狭隘的新自由主义功利主义导向下，PISA 仅针对与直接经济产出密切关联的领域（阅读、数学、科学、财经素养与[[Problem Solving|问题解决]]）进行评估，导致人文、艺术、音乐、体育、社会科学、历史和地理等传统学科，以及公民美德、同理心、好奇心、文化认同与身心健康等攸关人类福祉的[[Whole Person Education|全人教育]]目的在基于排名的政策议程中被边缘化与牺牲。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
+> **[[PISA]] 扭曲的教育观（PISA Distorted View of Education）**，是由华裔比较教育学者[[Yong Zhao|赵勇]]针对[[OECD|经合组织]]（[[OECD]]）国际学生评估项目（[[PISA]]）提出的批判性学术[[Construct|构念]]，指 PISA 将推动国家宏观经济增长与提升个体在劳动力市场中的[[Competitiveness|竞争力]]确立为教育系统存在的唯一合法目的。在这种狭隘的[[Neoliberalism|新自由主义]]功利主义导向下，PISA 仅针对与直接经济产出密切关联的领域（阅读、数学、科学、财经素养与[[Problem Solving|问题解决]]）进行评估，导致人文、艺术、音乐、体育、社会科学、历史和地理等传统学科，以及公民美德、同理心、好奇心、文化认同与身心健康等攸关人类福祉的[[Whole Person Education|全人教育]]目的在基于排名的政策议程中被边缘化与牺牲。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示跨国量化评估如何通过对评价指标的选择性窄化，重构并扭曲民族国家基础教育的根本价值导向。

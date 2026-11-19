@@ -43,6 +43,7 @@ related_concepts:
   - "[[Policy Brokerage]]"
   - "[[Washington Consensus]]"
   - "[[Early-Career Researchers]]"
+  - "[[Neoliberalism]]"
   - "[[Knowledge Production]]"
   - "[[Intellectual Capital]]"
   - "[[Heterogeneity]]"
@@ -84,14 +85,14 @@ sources:
 part_of: ''
 status: draft
 created: 2026-10-23
-updated: 2026-11-11
+updated: 2026-11-19
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Stone_2020_PolSoc"
 argument_key: "Argument_Stone_2020_PolSoc"
 argument_display_title: "Transnational policy transfer: The circulation of ideas, power and development models"
 argument_kind: "journal-article"
-argument_related_count: 53
+argument_related_count: 54
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -251,7 +252,7 @@ journal: Policy and Society
 >
 > - **归国掌权与制度实验**
 >
->   学者归国后被称为“芝加哥男孩”（Chicago Boys），直接执掌奥古斯托·皮诺切特（Augusto Pinochet）政权的财政部与央行大权，将智利开辟为新自由主义试验场，率先推行以强制个人账户为核心的养老金私有化。
+>   学者归国后被称为“芝加哥男孩”（Chicago Boys），直接执掌奥古斯托·皮诺切特（Augusto Pinochet）政权的财政部与央行大权，将智利开辟为[[Neoliberalism|新自由主义]]试验场，率先推行以强制个人账户为核心的养老金私有化。
 >
 > - **跨国布道与多边推广**
 >

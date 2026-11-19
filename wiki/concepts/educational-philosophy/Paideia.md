@@ -9,7 +9,7 @@ aliases:
 summary: "源自古希腊城邦文明的整全公民培育与灵魂转向哲学，整合智性沉思、伦理德性与审美和谐，是西方全人教育与比较教育以人为本（anthropos）思想史传统的始源母题。"
 type: concept
 domain: "educational-philosophy"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Disciplinary Institutionalization]]"
   - "[[Educational Meliorism]]"
+  - "[[Neoliberalism]]"
   - "[[Faculty Psychology]]"
   - "[[Historical-Philosophical-Cultural Motif]]"
   - "[[Epistemic Value]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -179,7 +180,7 @@ updated: 2026-11-15
 > - **19世纪 — 欧洲民族国家中等教育支配期** 希腊复国后将 *Klassiki Paedeia* 确立为中等文理学校灵魂；西欧列强（英法德）亦将希腊古典语文学与哲学置于中等精英课程的绝对垄断地位。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 59)]]
 > - **20世纪初至中叶 — 比较教育学科创立期的人文底色** [[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯与[[Robert Ulich\|乌利希]]等奠基学者将 Paideia 转化为超越主权边界的“广义文化教化”，奠定历史唯心主义与[[Educational Meliorism\|改良主义]]传统。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 56–57)]]
 > - **1940s–1950s — 二战浩劫与[[Scientific Paradigm\|科学范式]]大清算** 面对极权主义废墟与古典精英的道德破产，古典教化丧失了作为现代国家教育基石的公信力，遭到战后实证量化科学[[Paradigm\|范式]]的激进边缘化。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 59–60)]]
-> - **20世纪末至今 — 后现代解构与新[[Liberal Education\|文雅教育]]反思** 面对新自由主义技能化、可见学习测评与数字化算法治理的压迫，学界重拾 Paideia 的全人关怀，但考恩等学者提醒防范对古典古风的非历史浪漫神化。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 327)]]
+> - **20世纪末至今 — 后现代解构与新[[Liberal Education\|文雅教育]]反思** 面对[[Neoliberalism|新自由主义]]技能化、可见学习测评与数字化算法治理的压迫，学界重拾 Paideia 的全人关怀，但考恩等学者提醒防范对古典古风的非历史浪漫神化。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 327)]]
 
 ---
 

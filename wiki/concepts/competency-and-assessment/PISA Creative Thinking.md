@@ -8,7 +8,7 @@ aliases:
 summary: "经合组织（OECD）在 PISA 2022 测评周期中正式引入的创新前沿构念与测试模块，评估 15 岁学生在真实或模拟情境中产生多样化构想、产生原创性构想以及评估与改进构想的高阶认知能力；测评涵盖书面表达、视觉表达、社会问题解决和科学问题解决四大表达与问题情境，标志着国际大规模评估从传统再现性认知技能向探索性与适应性高阶素养维度的延伸。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[PISA Global Competence]]"
+  - "[[Neoliberalism]]"
   - "[[Discourse]]"
 related_theories: []
 related_methods: []
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -113,7 +114,7 @@ updated: 2026-11-15
 > | [[Critical Thinking]] | 概念 | 与创造性思维共同构成现代[[Higher-Order Thinking Skills\|高阶思维]]的核心支撑构念。 |
 > | [[Higher-Order Thinking Skills]] | 概念 | [[PISA]] 创造性思维所属的高级认知胜任力层级。 |
 > | [[PISA]] | 事实 | 正式立项、研发并推行创造性思维国际测评的主体工程。 |
-> | [[PISA Global Competence]] | 概念 | 同属于 PISA 探索新自由主义劳动力向综合公民素养拓展的前沿模块。 |
+> | [[PISA Global Competence]] | 概念 | 同属于 PISA 探索[[Neoliberalism\|新自由主义]]劳动力向综合公民素养拓展的前沿模块。 |
 > | [[Torrance Tests of Creative Thinking]] | 测量工具 | 启发 PISA 构念设计、历史上应用最广的经典心理学创造力纸笔测验。 |
 
 ---

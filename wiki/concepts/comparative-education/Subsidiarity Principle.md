@@ -8,7 +8,7 @@ aliases:
 summary: "欧盟与现代联邦制治理中的核心宪制原则。规定公共决策应在最低有效层级做出，超国家或中央机构仅在成员国与地方无法有效达成目标时方可进行从属性干预；在欧洲教育治理中，其保障了成员国对教学内容与学制组织的核心主权，但批判学者揭示欧盟如何依托数据基础设施外包与软法规训绕开该原则以深度重塑成员国政策空间。"
 type: concept
 domain: "comparative-education"
-related_count: 48
+related_count: 49
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Technologies of Surveillance]]"
+  - "[[Neoliberalism]]"
   - "[[Variable]]"
   - "[[Student Mobility]]"
 related_theories:
@@ -76,7 +77,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-11-03
+updated: 2026-11-19
 ---
 
 ---
@@ -191,7 +192,7 @@ updated: 2026-11-03
 > [!debates] 学术争议
 >
 > > [!axis] 主权防火墙还是隐性集权的遮羞布
-> > 主权论学者认为辅助性原则有效保卫了各成员国深厚的民族文化传统与独特的[[German Dual Education System|双元制]]或综合高中体制；而批判学者认为，该原则为[[EU|欧盟]]推行逃避民主问责的软法技术提供了绝佳掩护，导致各成员国在不经议会辩论的情况下便被动吸纳了超国家的新自由主义教育议程。
+> > 主权论学者认为辅助性原则有效保卫了各成员国深厚的民族文化传统与独特的[[German Dual Education System|双元制]]或综合高中体制；而批判学者认为，该原则为[[EU|欧盟]]推行逃避民主问责的软法技术提供了绝佳掩护，导致各成员国在不经议会辩论的情况下便被动吸纳了超国家的[[Neoliberalism|新自由主义]]教育议程。
 > >
 > > - **传统公法学者** 主张辅助性原则是维持欧洲多元统一与制约布鲁塞尔官僚越权的宪制支柱。
 > > - **Nóvoa（2002）** 揭示辅助性原则催生了以最佳实践和基准线为表象的隐蔽软性渗透机制。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]

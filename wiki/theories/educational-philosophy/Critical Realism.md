@@ -5,10 +5,10 @@ aliases:
 summary: "罗伊·巴斯卡（Roy Bhaskar）创立的科学哲学与社会科学方法论框架。主张实在界、实际界与经验界的分层本体论，将因果关系确立为开放系统中潜在因果机制的激活或阻断；在教育研究与政策分析中，既用于解构循证教育与随机对照试验的均值黑箱，又通过“解释性批判”穿透表层修辞、揭示教育作为大国地缘博弈与意识形态推进工具的深层因果机制。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 59
-theory_related_level: 5
-theory_related_stars: "💎⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_count: 61
+theory_related_level: 6
+theory_related_stars: "💎💎"
+theory_related_color: "#fef3c7"
 tags:
   - critical-realism
   - bhaskar
@@ -51,6 +51,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Output-Oriented Governance]]"
   - "[[Return on Investment]]"
+  - "[[Neoliberalism]]"
 related_theories:
   - "[[Realist Evaluation]]"
 related_methods:
@@ -70,6 +71,7 @@ related_persons:
   - "[[Ray Pawson]]"
   - "[[Terry Wrigley]]"
   - "[[Immanuel Kant]]"
+  - "[[Karl Marx]]"
   - "[[Aristotle]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
@@ -85,7 +87,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -104,7 +106,7 @@ updated: 2026-11-11
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** [[Roy Bhaskar|罗伊·巴斯卡]]（Roy Bhaskar）在《实在论的科学论》（*A Realist Theory of Science*, 1975/1978）中奠定了自然科学哲学的先验实在论基础，并在《自然主义的可能性》（*The Possibility of Naturalism*, 1979）与《科学实在论与人类解放》（*Scientific Realism and Human Emancipation*, 1986）中系统确立了批判自然主义与[[Explanatory Critique|解释性批判]]框架。
 > - **原初问题** 20 世纪 70 年代英美科学哲学陷入逻辑[[Positivism|实证主义]]经验法则与库恩历史主义相对主义的两极对立；巴斯卡追问“世界必须具备何种特征，科学实验与科学实践才成为可能”，进而推导出客观世界的结构分层与因果力机制。
-> - **理论资源与材料** 批判性吸收[[Immanuel Kant|康德]]先验演绎法、马克思唯物辩证法关于现象与本质辩证关系的论述，以及[[Aristotle|亚里士多德]]的事物潜能-现实化构想。
+> - **理论资源与材料** 批判性吸收[[Immanuel Kant|康德]]先验演绎法、[[Karl Marx|马克思]]唯物辩证法关于现象与本质辩证关系的论述，以及[[Aristotle|亚里士多德]]的事物潜能-现实化构想。
 > - **形成路径** 巴斯卡从实验封闭条件与日常开放系统的根本反差出发，论证实验室人为创造的规则性并不能穷尽自然本身，进而提出分层[[Ontology|本体论]]与生成性因果机制概念，并在转向社会研究时确立转换性社会行动模型（TMSA）与解释性批判。
 
 > [!dev-timeline] 理论版本与贡献
@@ -214,5 +216,5 @@ updated: 2026-11-11
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 运用批判实在论三层[[Ontology|本体论]]系统解构英国[[Evidence-Based Education|循证教育]]（EBE）的方法论偏误，深入剖析[[Teaching Assistant|教学助理]]与补习干预的机制失真。
 > - [[Argument_Wrigley_2019_ERE|Wrigley and McCusker (2019)]] — 依托批判实在论科学哲学框架，剖析 [[EEF Teaching and Learning Toolkit|EEF Toolkit]] 的去情境化科学观，以体育参与案例展示[[Realist Evaluation|实在论评估]]对均值黑箱的穿透效能。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 将批判实在论“[[Explanatory Critique|解释性批判]]”与[[Critical Discourse Analysis|批判话语分析]]结合，开创跨国教育政策[[Discourse Analysis|话语分析]]框架，解构表层互利修辞背后的地缘[[Hard Power|硬实力]]配套机制与现代化[[Grand Theory|宏大叙事]]。
-> - [[Evidence-Based Education]] — 批判实在论为反思循证教育的医学化狂热与新自由主义审计文化提供了本体论基石。
+> - [[Evidence-Based Education]] — 批判实在论为反思循证教育的医学化狂热与[[Neoliberalism|新自由主义]]审计文化提供了本体论基石。
 > - [[Randomised Controlled Trials]] — 批判实在论深入辨析了封闭实验环境与社会开放系统之间的本体论鸿沟，指明随机试验在解释机制层面的内在限度。

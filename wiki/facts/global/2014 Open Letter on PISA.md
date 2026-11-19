@@ -13,7 +13,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 33
+fact_related_count: 34
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#fef3c7"
@@ -24,6 +24,7 @@ tags:
   - academic-resistance
   - educational-governance
 related_concepts:
+  - "[[Neoliberalism]]"
   - "[[Media Logic]]"
   - "[[Transnational Education]]"
   - "[[Progressive Education]]"
@@ -66,13 +67,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
 
 > [!claim] 核心定性
-> 2014 年致[[Andreas Schleicher\|施莱歇尔]]抵制 [[PISA]] 学者公开信（2014 Open Letter to Andreas Schleicher on PISA）是由来自英、美、澳、德、北欧等全球多国的 83 位著名教育学者联合签署，于 2014 年 5 月 6 日发表在英国《卫报》上的公开抗议声明。该事件标志着当代国际学术共同体对[[OECD\|经济合作与发展组织]]（[[OECD]]）利用大规模学生评估推行新自由主义全球教育治理霸权最具代表性的一次集体历史抗争（[[Argument_Grey_2018_CE\|Grey & Morris, 2018, p. 123]]；[[Argument_Zhao_2020_JEC\|Zhao, 2020, p. 22]]）。
+> 2014 年致[[Andreas Schleicher\|施莱歇尔]]抵制 [[PISA]] 学者公开信（2014 Open Letter to Andreas Schleicher on PISA）是由来自英、美、澳、德、北欧等全球多国的 83 位著名教育学者联合签署，于 2014 年 5 月 6 日发表在英国《卫报》上的公开抗议声明。该事件标志着当代国际学术共同体对[[OECD\|经济合作与发展组织]]（[[OECD]]）利用大规模学生评估推行[[Neoliberalism|新自由主义]]全球教育治理霸权最具代表性的一次集体历史抗争（[[Argument_Grey_2018_CE\|Grey & Morris, 2018, p. 123]]；[[Argument_Zhao_2020_JEC\|Zhao, 2020, p. 22]]）。
 
 > [!event-context] 事件背景
 > - **时间节点 / 传播阵地** 2014 年 5 月 6 日首发于英国主流严肃大报《卫报》（*The Guardian*），随后迅速被全球数十家主流媒体转载并在国际比较教育学界引发广泛震荡。

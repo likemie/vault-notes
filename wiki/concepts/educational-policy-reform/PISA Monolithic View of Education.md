@@ -7,7 +7,7 @@ aliases:
 summary: "比较教育学者赵勇与斯约伯格等针对经合组织 PISA 提出的批判性学术构念，指 PISA 预设存在一套独立于各民族国家历史传统、社会结构与发展情境的普适教育质量评价标准，将少数 OECD 发达市场经济体的现实偏好强加于全球近 200 个多样性社会。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -18,6 +18,7 @@ tags:
   - comparative-education
 related_concepts:
   - "[[Construct]]"
+  - "[[Neoliberalism]]"
   - "[[Epistemology]]"
   - "[[Heterogeneity]]"
   - "[[PISA Made-up Claim]]"
@@ -46,13 +47,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-06
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
 
 > [!def] PISA Monolithic View of Education
-> **[[PISA]] 单一教育观（PISA Monolithic View of Education）**，是由华裔比较教育学者[[Yong Zhao|赵勇]]与挪威学者斯约伯格（Svein Sjøberg）等针对[[OECD|经合组织]]（[[OECD]]）国际学生评估项目（[[PISA]]）提出的批判性学术[[Construct|构念]]，指 PISA 建立在一项未经证明的基本哲学预设之上——即假设存在一套客观、中立且普适的衡量公尺，能够脱离各国的学校体制、社会结构、历史传统、文化信仰、地理环境及生产方式，单一性地界定与测度所有国家的“教育质量”。批判学者指出，这一预设将 35 个 OECD 发达市场经济体的特定经济与教育现实强加于全球近 200 个面临截然不同挑战的多样性国家，构成了新自由主义的[[Epistemology|认识论]]规训与[[Hegemony|文化霸权]]。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
+> **[[PISA]] 单一教育观（PISA Monolithic View of Education）**，是由华裔比较教育学者[[Yong Zhao|赵勇]]与挪威学者斯约伯格（Svein Sjøberg）等针对[[OECD|经合组织]]（[[OECD]]）国际学生评估项目（[[PISA]]）提出的批判性学术[[Construct|构念]]，指 PISA 建立在一项未经证明的基本哲学预设之上——即假设存在一套客观、中立且普适的衡量公尺，能够脱离各国的学校体制、社会结构、历史传统、文化信仰、地理环境及生产方式，单一性地界定与测度所有国家的“教育质量”。批判学者指出，这一预设将 35 个 OECD 发达市场经济体的特定经济与教育现实强加于全球近 200 个面临截然不同挑战的多样性国家，构成了[[Neoliberalism|新自由主义]]的[[Epistemology|认识论]]规训与[[Hegemony|文化霸权]]。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示跨国大规模评估通过统一量化指标抹杀全球教育生态[[Heterogeneity|异质性]]、推行同质化西方市场模板的霸权机制。

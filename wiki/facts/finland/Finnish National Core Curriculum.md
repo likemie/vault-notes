@@ -11,7 +11,7 @@ subtype: policy
 region: finland
 fact_region: "finland"
 fact_kind: "policy"
-fact_related_count: 32
+fact_related_count: 33
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Epochal Key Problems]]"
   - "[[Teacher Professional Agency]]"
   - "[[Analytical Stance]]"
+  - "[[Neoliberalism]]"
   - "[[Construct]]"
   - "[[Atomisation of Knowledge and Skills]]"
   - "[[Alienation]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-06
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -138,7 +139,7 @@ updated: 2026-11-15
 > > [!axis] 知识原子化与教化传统侵蚀风险
 > > 批判学者指出课程一方面强调教化（Bildung）整体观，另一方面深度迎合经合组织的能力问责与全球测量竞争，可能导致知识被拆解为碎片化的功能指标。
 > >
-> > - **哲学[[Analytical Stance|批判立场]]** 警惕单纯从新自由主义[[Human Capital Theory|人力资本]]视角理解横向能力，呼吁捍卫其与教化、教学论的深层哲学连接。[[Argument_Schaffar_2024_CogentEdu|(Schaffar & Wolff, 2024, pp. 9–11)]]
+> > - **哲学[[Analytical Stance|批判立场]]** 警惕单纯从[[Neoliberalism|新自由主义]][[Human Capital Theory|人力资本]]视角理解横向能力，呼吁捍卫其与教化、教学论的深层哲学连接。[[Argument_Schaffar_2024_CogentEdu|(Schaffar & Wolff, 2024, pp. 9–11)]]
 >
 > > [!axis] 文官垄断决策与学术专家的隐性边缘化
 > > 比较教育学者关注 2012 年工作组完全剔除高校学者这一体制特质。

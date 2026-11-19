@@ -12,7 +12,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 34
+fact_related_count: 35
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Study Abroad]]"
   - "[[Heterogeneity]]"
   - "[[Language Skills]]"
+  - "[[Neoliberalism]]"
   - "[[Alienation]]"
   - "[[Cultural Capital]]"
   - "[[Academic Inbreeding]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -145,7 +146,7 @@ updated: 2026-11-15
 
 > [!debates] 核心争议
 >
-> > [!axis] 新自由主义[[Spatial Governmentality|空间治理术]] vs 劳动力市场风险个体化
+> > [!axis] [[Neoliberalism|新自由主义]][[Spatial Governmentality|空间治理术]] vs 劳动力市场风险个体化
 > > 围绕高调赞颂流动性是服务于全人发展还是规训劳动力自负盈亏展开学术批评。
 > > - **官方政策修辞** 宣称跨国流动提升了青年的适应力、全球视野与终身就业能力，保障其在竞争激烈的全球经济中立足。
 > > - **空间[[Governmentality|治理术]]解构** Papatsiba (2005) 与索贝和菲舍尔指出，伊拉斯谟计划将跨国流动[[Alienation|异化]]为将劳动力市场风险个人化的空间治理术，把宏观经济动荡与失业责任转嫁给个体，要求劳动者具备无休止的“流动灵活性”。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 363)]]

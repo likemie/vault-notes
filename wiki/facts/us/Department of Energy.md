@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 54
+fact_related_count: 55
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Evidence Ecosystem]]"
   - "[[Paradigm]]"
+  - "[[Neoliberalism]]"
   - "[[Market Shaping and Creating]]"
   - "[[Nature of Innovation]]"
   - "[[Valley of Death]]"
@@ -91,7 +92,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 ---
@@ -183,7 +184,7 @@ updated: 2026-11-14
 > > [!axis] 索林德拉政治风暴 vs. 组合式风险管理（Portfolio Approach）
 > > 争论公共部门在扶持新兴绿色科技时出现单点破产是否意味着政策失败。
 > >
-> > - **新自由主义与政治保守派批评** 在光伏薄膜公司索林德拉（Solyndra）破产后，批评者猛烈抨击能源部试图“挑选赢家”是对纳税人资金的严重浪费，认为政府完全不具备识别前沿商业技术的能力。
+> > - **[[Neoliberalism|新自由主义]]与政治保守派批评** 在光伏薄膜公司索林德拉（Solyndra）破产后，批评者猛烈抨击能源部试图“挑选赢家”是对纳税人资金的严重浪费，认为政府完全不具备识别前沿商业技术的能力。
 > > - **[[Evolutionary Economics|演化经济学]]与[[Market Shaping and Creating|市场塑造]]派反驳** [[Mariana Mazzucato|马祖卡托]]指出，激进[[Nature of Innovation|创新本质]]上充斥着极高不确定性，没有任何投资者能够做到“零失误”。能源部在同一时期投资的特斯拉获得了巨大商业成功，从组合投资（Portfolio Approach）角度看整个贷款计划整体上是高度盈利和成功的；将探索过程中的正常失败政治化炒作，将从根本上扼杀公共机构承担风险的战略胆识。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
 >
 > > [!axis] 收益回流机制缺失：特斯拉回报中的制度教训

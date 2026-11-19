@@ -9,7 +9,7 @@ summary: "基于福柯权力/知识与治理术视角及后结构主义认识论
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 31
+method_related_count: 33
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Champ]]"
   - "[[Theories of Policy Change]]"
+  - "[[Neoliberalism]]"
   - "[[Competitiveness]]"
   - "[[Bureaucracy]]"
 related_theories:
@@ -55,6 +56,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Carol Bacchi]]"
+  - "[[Karl Marx]]"
 related_facts:
   - "[[Finnish Government Education Export Programme]]"
 related_arguments:
@@ -62,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-08
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -118,7 +120,7 @@ updated: 2026-11-11
 ---
 
 > [!method-fit] 适用判断
-> - **适合使用** 剖析教育商业化转型、新自由主义问责改革、[[Competitiveness|国家竞争力]]政策文本解构以及[[Bureaucracy|官僚制]]度重构过程。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 379–381)]]
+> - **适合使用** 剖析教育商业化转型、[[Neoliberalism|新自由主义]]问责改革、[[Competitiveness|国家竞争力]]政策文本解构以及[[Bureaucracy|官僚制]]度重构过程。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 379–381)]]
 > - **谨慎使用** 涉及微观课堂教学互动或大规模标准化测试统计有效性验证时，需与其他实证观察方法或量化模型结合。
 > - **不适合使用** 评估政策因果[[Effect Size|效应量]]大小、测算公共支出投入产出弹性或制定即时性行政技术操作细则。
 
@@ -138,7 +140,7 @@ updated: 2026-11-11
 > |:---|:---|:---|
 > | [[Governmentality]] | 理论 | 为后结构政策分析提供分析权力和治理理性的顶层理论基底。 |
 > | [[Bacchi's WPR Approach]] | 理论 | 提供将后结构政策解构转化为六个递进操作步骤的方法论支撑。 |
-> | [[Critical Policy Analysis]] | 替代方法 | 批判政策分析涵盖更广的新马克思主义与社会学传统，后结构政策分析更聚焦话语表征与主体化。 |
+> | [[Critical Policy Analysis]] | 替代方法 | 批判政策分析涵盖更广的新[[Karl Marx\|马克思]]主义与社会学传统，后结构政策分析更聚焦话语表征与主体化。 |
 > | [[Documentary Analysis]] | 前置方法 | 文献分析提供基础的文本检索、外在考证与分类归档技术。 |
 
 ---

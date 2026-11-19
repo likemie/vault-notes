@@ -12,7 +12,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Philosophical Aesthetics]]"
   - "[[Performance Pay]]"
   - "[[Model Dependency]]"
+  - "[[Neoliberalism]]"
   - "[[Learning Gain]]"
   - "[[Catalytic Philanthropy]]"
   - "[[Gatekeepers]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-26
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 ---
@@ -148,7 +149,7 @@ updated: 2026-11-14
 > > 将学生统考成绩增值模型直接与教师[[Performance Pay|绩效工资]]和解雇挂钩引发教育界巨大抗议。
 > >
 > > - **教师工会与计量心理学者** 指出增值评估模型（VAM）存在严重的测量误差、跨年波动性与[[Model Dependency|模型敏感性]]，用于高利害人事任免在统计学上极不可靠。
-> > - **新自由主义绩效改革派** 坚称唯有打破公立学校终身教职铁饭碗、引入严格因果问责，才能彻底扭转学业不达标困局。
+> > - **[[Neoliberalism|新自由主义]]绩效改革派** 坚称唯有打破公立学校终身教职铁饭碗、引入严格因果问责，才能彻底扭转学业不达标困局。
 >
 > > [!axis] 统考强利害考核与草根[[Opt-Out Movement|退考运动]]（Opt-Out Movement）
 > > RTTT 推动的[[Learning Gain|增值评价]]与高利害考试制度引发了全美公众特别是中产阶级家长的强烈反弹。

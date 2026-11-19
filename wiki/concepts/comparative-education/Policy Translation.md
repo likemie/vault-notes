@@ -7,7 +7,7 @@ aliases:
 summary: "外来政策模型、跨国评估指标或国际经验在进入本土语境时，被本土决策行动者依据自身政治合法化需要进行战略性语义重构与修辞再造的话语机制。"
 type: concept
 domain: "comparative-education"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Policy Mobility]]"
   - "[[Problem Solving]]"
   - "[[Geopolitics]]"
+  - "[[Neoliberalism]]"
   - "[[Transnational Education]]"
   - "[[Document]]"
   - "[[Language-of-State]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-10
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -119,7 +120,7 @@ flowchart TD
 
 ### 命题一：政策转译是本土决策层用于规避民主阻力的外部合法化机制
 
-当国内教育改革方案遭遇传统制度惯性、工会抵制或公众对公共性流失的质疑时，决策者往往通过战略性转译国际组织（如[[OECD|经合组织]]、[[World Bank|世界银行]]）的最佳实践或危机叙事，将本国高度争议性的新自由主义改革包装为顺应时代潮流的国际共识，以此规避本土价值冲突。
+当国内教育改革方案遭遇传统制度惯性、工会抵制或公众对公共性流失的质疑时，决策者往往通过战略性转译国际组织（如[[OECD|经合组织]]、[[World Bank|世界银行]]）的最佳实践或危机叙事，将本国高度争议性的[[Neoliberalism|新自由主义]]改革包装为顺应时代潮流的国际共识，以此规避本土价值冲突。
 
 > [!evidence-grid-a|notitle]
 > - 影响机制：外部参照物被赋予中立、科学的权威外衣，转译过程切断了国际指标与原产国特定历史条件的关联，从而将国内政治博弈简化为不可抗拒的外部制度推力。
@@ -156,7 +157,7 @@ flowchart TD
 > [!dev-timeline] 政策转译概念的历史演进
 > - **2000 年代中叶 比较教育政策借贷反思** [[David P. Phillips|戴维·菲利普斯]]（[[David Phillips]]）与[[Kimberly Ochs|金伯莉·奥克斯]]（Kimberly Ochs）提出[[Policy Borrowing|政策借用]]四阶段模型，奠定了审视跨国[[Policy Mobility|政策流动]]的宏观[[Analytic Framework|分析框架]]。
 > - **2014–2016 年 转译理论的政治学深化** 斯泰纳-哈姆西（Steiner-Khamsi, 2014, 2016）借鉴社会学[[Actor-Network Theory|行动者网络理论]]与政治学[[Discourse|话语]]理论，正式确立政策转译范畴，将研究重心由政策流动结果转向本土行动者的能动编码与修辞操弄。
-> - **2020 年代 [[Post-structural Policy Analysis|后结构政策分析]]与治理理性操作** 库尔蒂（[[Argument_Kuortti_2025_JEdPolicy|Kuortti, 2025]]）将政策转译与[[Carol Bacchi|卡罗尔·巴奇]]（Carol Bacchi）的 [[Bacchi's WPR Approach|WPR]]（What's the Problem Represented to be?）分析路径相融合，揭示政策转译如何充当新自由主义治理理性塑造[[Problematisation|问题表征]]的关键装置。
+> - **2020 年代 [[Post-structural Policy Analysis|后结构政策分析]]与治理理性操作** 库尔蒂（[[Argument_Kuortti_2025_JEdPolicy|Kuortti, 2025]]）将政策转译与[[Carol Bacchi|卡罗尔·巴奇]]（Carol Bacchi）的 [[Bacchi's WPR Approach|WPR]]（What's the Problem Represented to be?）分析路径相融合，揭示政策转译如何充当[[Neoliberalism|新自由主义治理]]理性塑造[[Problematisation|问题表征]]的关键装置。
 
 ---
 

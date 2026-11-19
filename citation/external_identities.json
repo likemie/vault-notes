@@ -15567,6 +15567,14 @@
       ],
       "title": ""
     },
+    "Bruner, 1996": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Folk Pedagogy.md"
+      ],
+      "title": ""
+    },
     "Bruner, 2004": {
       "doi": "",
       "isbn": "",
@@ -22707,6 +22715,7 @@
       "isbn": "9780805802832",
       "seen_in": [
         "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md",
+        "wiki/concepts/instruction-pedagogy/Folk Pedagogy.md",
         "wiki/methods/quantitative/Effect Size Conversion.md",
         "wiki/methods/quantitative/Meta-analysis.md",
         "wiki/persons/us/Jacob Cohen.md"
@@ -25077,7 +25086,8 @@
       "doi": "",
       "isbn": "9780521530323",
       "seen_in": [
-        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md"
+        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md",
+        "wiki/concepts/educational-policy-reform/Standard Language Ideology.md"
       ],
       "title": "English as a global language"
     },
@@ -29177,6 +29187,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "The Effects of Physical Manipulatives on Achievement in Mathematics in Grades K-6: A Meta-Analysis"
+    },
+    "Don Holdaway, 1979": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Shared Book Approach.md"
+      ],
+      "title": ""
     },
     "Don et al., 2020": {
       "datasets": [
@@ -37068,6 +37086,14 @@
       ],
       "title": ""
     },
+    "Frank & Idris, 2020": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Papuan Social Ecology.md"
+      ],
+      "title": ""
+    },
     "Frank & Meyer, 2020": {
       "doi": "",
       "isbn": "",
@@ -44306,6 +44332,14 @@
       ],
       "title": ""
     },
+    "Gunderson et al., 2011": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/sociology-of-education/Code-Switching.md"
+      ],
+      "title": ""
+    },
     "Gunduz & Kutluca, 2019": {
       "datasets": [
         "metax:S2358"
@@ -50064,6 +50098,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Music-based mentoring and academic improvement in high-poverty elementary schools"
+    },
+    "Holdaway, 1979": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Shared Book Approach.md"
+      ],
+      "title": ""
     },
     "Holden et al., 1990": {
       "datasets": [
@@ -66533,7 +66575,8 @@
       "doi": "10.1075/aila.22.05lim",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md"
+        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md",
+        "wiki/concepts/sociology-of-education/Code-Switching.md"
       ],
       "title": "Beyond fear and loathing in SG: The real mother tongues and language policies in multilingual Singapore"
     },
@@ -69307,6 +69350,14 @@
       ],
       "title": ""
     },
+    "MOE Singapore, 2008": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Shared Book Approach.md"
+      ],
+      "title": ""
+    },
     "MOE, 2000": {
       "doi": "",
       "isbn": "",
@@ -70517,7 +70568,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
+        "wiki/concepts/educational-philosophy/Papuan Social Ecology.md"
       ],
       "title": "The Socio-cultural Plurality of Papuan Society"
     },
@@ -80022,7 +80074,9 @@
     "Ng & He, 2004": {
       "doi": "10.1177/0261927X03260807",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/sociology-of-education/Code-Switching.md"
+      ],
       "title": "Code-switching in trigenerational family: Conversations among Chinese immigrants in New Zealand"
     },
     "Ng & Tan, 2010": {
@@ -80608,6 +80662,7 @@
       "isbn": "9780435900977",
       "seen_in": [
         "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
+        "wiki/concepts/educational-philosophy/Papuan Social Ecology.md",
         "wiki/concepts/political-economy-geopolitics/ASEAN Way.md"
       ],
       "title": "Neo-Colonialism, the Last Stage of Imperialism"
@@ -83828,7 +83883,9 @@
     "Pakir, 2008": {
       "doi": "",
       "isbn": "9789810817756",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/educational-policy-reform/Standard Language Ideology.md"
+      ],
       "title": "English as a lingua franca: Negotiating Singapore’s English language education"
     },
     "Pakulski, 1986": {
@@ -103376,7 +103433,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md"
+        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md",
+        "wiki/concepts/sociology-of-education/Code-Switching.md"
       ],
       "title": "Functions of code-switching in Malaysia and Singapore"
     },

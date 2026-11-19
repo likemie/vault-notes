@@ -8,7 +8,7 @@ aliases:
 summary: "源自马来群岛原住民传统的整体和乐福祉哲学，强调身心健康、社会和谐、生态永续与本土知识生产的动态平衡；在高等教育去殖民化视阈中，构成抵制新自由主义过度竞争、文凭工具主义与欧洲中心主义知识垄断的替代性本土认知范式"
 type: concept
 domain: "educational-philosophy"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Construct]]"
   - "[[Epistemic Coloniality]]"
+  - "[[Neoliberalism]]"
   - "[[Knowledge Production]]"
   - "[[Buen Vivir]]"
   - "[[Ubuntu]]"
@@ -57,7 +58,7 @@ updated: 2026-11-19
 ---
 
 > [!def] Sejahtera
-> **Sejahtera**（马来语，直译为繁荣、安宁、幸福或和平）是源自马来群岛（Malay Archipelago）原住民文化传统的整体和乐福祉哲学[[Construct|构念]]。该构念倡导在个人身心健康、社群人际和谐、生态环境永续以及本土知识系统之间维系动态平衡，追求全人发展与持久安宁。在当代比较教育与高等教育去殖民化研究中，Sejahtera 构成解构西方欧洲中心主义[[Epistemic Coloniality|认识论殖民]]、抵制新自由主义超竞争与文凭资本积累的替代性南方本土认知框架。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 10–11)]]
+> **Sejahtera**（马来语，直译为繁荣、安宁、幸福或和平）是源自马来群岛（Malay Archipelago）原住民文化传统的整体和乐福祉哲学[[Construct|构念]]。该构念倡导在个人身心健康、社群人际和谐、生态环境永续以及本土知识系统之间维系动态平衡，追求全人发展与持久安宁。在当代比较教育与高等教育去殖民化研究中，Sejahtera 构成解构西方欧洲中心主义[[Epistemic Coloniality|认识论殖民]]、抵制[[Neoliberalism|新自由主义]]超竞争与文凭资本积累的替代性南方本土认知框架。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 10–11)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向个体身心状态、社群关系、自然生态以及知识创造活动在和谐平衡中达致的全面繁荣与永续安宁。

@@ -6,7 +6,7 @@ aliases:
 summary: "以理由权衡、有目的的反思判断和自我调节为核心，整合认知技能、思维倾向、领域知识与情境标准；在教育研究中用于设计教学、界定学习结果并检验课程与评估的构念效度。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 126
+related_count: 129
 related_level: 12
 related_stars: "💎💎💎💎"
 related_color: "#ddd6fe"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Reflective Thinking]]"
   - "[[Blended Learning]]"
   - "[[Scaffolding]]"
+  - "[[Curricular Form]]"
   - "[[Cooperative Learning]]"
   - "[[Academic Achievement]]"
   - "[[Affective Outcomes]]"
@@ -59,10 +60,12 @@ related_concepts:
   - "[[Self-Regulated Learning]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Scientific Explanation]]"
+  - "[[Neoliberalism]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Social Imaginary]]"
   - "[[Return on Investment]]"
   - "[[Discourse]]"
+  - "[[Reflexivity]]"
   - "[[Learning Gain]]"
   - "[[Early-Career Researchers]]"
   - "[[Competitiveness]]"
@@ -74,7 +77,6 @@ related_concepts:
   - "[[Jigsaw]]"
   - "[[Immersion Approach]]"
   - "[[Cooperative Integrated Reading and Composition]]"
-  - "[[Reflexivity]]"
   - "[[Common Method Variance]]"
   - "[[Problem-Based Learning]]"
   - "[[Evaluativist]]"
@@ -113,6 +115,7 @@ related_persons:
   - "[[Deanna Kuhn]]"
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
+  - "[[Michael W. Apple]]"
   - "[[Plato]]"
   - "[[Aristotle]]"
 related_facts:
@@ -257,7 +260,7 @@ updated: 2026-11-19
 > **显性教学与复合策略优势** [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] [[Meta-analysis\|元分析]]证实显性[[Blended Learning\|混合教学]]模式（独立思维教学 + 学科融入）显著优于单纯隐性沉浸模式；同时，将[[Authentic Instruction\|真实性教学]]（应用型解题与[[Role-playing\|角色扮演]]）、深度对话与导师指导整合的三维复合干预产生最高增益，揭示了显性示范、情境锚定与过程[[Scaffolding\|脚手架]]的协同机制。Abrami et al. (2008) 早期元分析与 Behar-Horenstein and Niu (2011) 高教干预[[Systematic Review\|系统综述]]亦一致证实，唯有明确界定高阶认知目标并结合显性示范，才能产生稳定增益。Marin and Halpern 在低表现学校开展的[[Randomised Controlled Trials\|随机对照实验]]也发现，显性教学组的技能增益显著更大。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 293–295)]] [[Argument_Cole_2015_AJE\|(Cole et al., 2015, pp. 249–250)]] [[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 33)]]
 
 > [!claim] Willingham, D. T.; Bailin, S.; Cole, D. R., et al.
-> **知识与实施约束** 历史、科学及其他领域采用不同的证据和论证标准，学生需要足够的背景知识才能运用通用策略。Cole et al. 的学校案例进一步显示，同一 ToK 框架可产生高度整合或近乎随意的课堂实践。课程形式只有与领域知识、教师培训、学校文化和跨学科协作结合，才可能稳定支持批判性思维。[[Argument_Cole_2015_AJE\|(Cole et al., 2015, pp. 249–250, 255–259)]]
+> **知识与实施约束** 历史、科学及其他领域采用不同的证据和论证标准，学生需要足够的背景知识才能运用通用策略。Cole et al. 的学校案例进一步显示，同一 ToK 框架可产生高度整合或近乎随意的课堂实践。[[Curricular Form|课程形式]]只有与领域知识、教师培训、学校文化和跨学科协作结合，才可能稳定支持批判性思维。[[Argument_Cole_2015_AJE\|(Cole et al., 2015, pp. 249–250, 255–259)]]
 
 > [!claim] Güngör, S., et al.
 > **同伴互动与社会建构促进** [[Meta-meta-analysis|二阶元分析]]表明，[[Cooperative Learning|合作学习]]（CL）对涵盖批判性思维的[[Higher-Order Thinking Skills|高阶思维技能]]（HOTS）具有强劲的促进效应，高于常规[[Academic Achievement|学业成就]]与[[Affective Outcomes|情感行为]]。其核心机制在于[[Heterogeneity|异质性]]同伴在面对面互动中必须阐明推理依据、处理认知冲突并协商达成共识，从社会交往层面直接激发了深度批判性反思。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 8–9)]]
@@ -312,7 +315,7 @@ updated: 2026-11-19
 
 ---
 
-> [!concept-proposition] 命题七｜新自由主义[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]将批判性思维窄化为市场竞争工具并遮蔽民主公民反思
+> [!concept-proposition] 命题七｜[[Neoliberalism|新自由主义]][[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]将批判性思维窄化为市场竞争工具并遮蔽民主公民反思
 > **政治经济学与批判意识形态解构维度** 探讨超国家组织推行的[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]如何将教育还原为[[Human Capital Theory|人力资本]]投资，将批判性思维剥离其公共政治与价值反思内涵，降格为服务于劳动力市场效率的工具性技能。
 
 > [!claim] [[Fazal Rizvi|Rizvi, F.]] & [[Bob Lingard|Lingard, B.]]
@@ -322,7 +325,7 @@ updated: 2026-11-19
 > **知识经济[[Discourse|话语]]的自足性与价值盲区** 肯韦等学者指出，知识经济话语具有高度排他性的思想根基，将其推崇的功利市场原则建构为不证自明的客观现实，从不自我审视其所推行的价值前提与制度排斥。这种话语霸权导致批判性思维丧失了探索替代性经济价值方案的批判反思功能，沦为资本增殖与技术合规的从属机制。
 
 > [!claim] [[Argument_Lim_2015_CurricInq|Lim and Apple (2015)]]
-> **思维技能的阶层化分化与意识形态遮蔽** 莱昂·林（Leon Lim）与迈克尔·阿普尔（Michael W. Apple）指出，新自由主义官方课程话语虽然倡导人人共享的批判性思维，但在不同阶层生源的学校中却分化为截然不同的知识理性。在优势精英学校，批判性思维依托弱分类与弱框架的独立探究课程，被培育为建构性、反思性且充满知识掌控感的特权理性；而在工人阶级普通公立学校，批判性思维被降格为强框架学科融入下的答题技术与规训工具，遮蔽了对社会不平等与权力结构的批判反思，使不平等的社会分工秩序合法化。[[Argument_Lim_2015_CurricInq|(Lim & Apple, 2015, pp. 317–320)]]
+> **思维技能的阶层化分化与意识形态遮蔽** 莱昂·林（Leon Lim）与[[Michael W. Apple|迈克尔·阿普尔]]（Michael W. Apple）指出，新自由主义官方课程话语虽然倡导人人共享的批判性思维，但在不同阶层生源的学校中却分化为截然不同的知识理性。在优势精英学校，批判性思维依托弱分类与弱框架的独立探究课程，被培育为建构性、[[Reflexivity|反思性]]且充满知识掌控感的特权理性；而在工人阶级普通公立学校，批判性思维被降格为强框架学科融入下的答题技术与规训工具，遮蔽了对社会不平等与权力结构的批判反思，使不平等的社会分工秩序合法化。[[Argument_Lim_2015_CurricInq|(Lim & Apple, 2015, pp. 317–320)]]
 
 ---
 

@@ -9,7 +9,7 @@ title: "Argument_Marginson_2025_ECNUROE"
 argument_key: "Argument_Marginson_2025_ECNUROE"
 argument_display_title: "Space, power, and globalization: On the geopolitics of higher education"
 argument_kind: "journal-article"
-argument_related_count: 46
+argument_related_count: 47
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -51,6 +51,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Cosmopolitanism]]"
   - "[[Student Mobility]]"
+  - "[[Neoliberalism]]"
   - "[[Multi-University]]"
   - "[[Zero-Sum Competition]]"
   - "[[Cumulative Innovation]]"
@@ -77,7 +78,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-12'
-updated: 2026-11-11
+updated: 2026-11-19
 year: 2025
 doi: ""
 citation_aliases:
@@ -239,7 +240,7 @@ citation_aliases:
 **5b. 提出双重因果解释** — 两个相互关联但独立运作的原因被提出来：
 
 - **原因一（结构性）** 长期殖民秩序的侵蚀和全球[[Multiplicity|多重性]]（能动性、文化、身份）的增长——包括中国和全球南方大部分地区的崛起。简单说：西方不再能独自决定世界规则了，这种失去控制的感觉触发了焦虑和反弹
-- **原因二（分配性）** 新自由主义导致欧美人口的贫困化（immiseration），催生了民粹政治。简单说：全球化的经济利益高度集中于少数精英，大量中下层人口的实际收入停滞甚至下降，这些人成为反全球化、反移民、反精英的民粹政治的社会基础
+- **原因二（分配性）** [[Neoliberalism|新自由主义]]导致欧美人口的贫困化（immiseration），催生了民粹政治。简单说：全球化的经济利益高度集中于少数精英，大量中下层人口的实际收入停滞甚至下降，这些人成为反全球化、反移民、反精英的民粹政治的社会基础
 
 > 类比：这两重原因像一场完美风暴的两股气流——第一股是"别人赶上来了"的结构性焦虑（类似一个长期霸榜的学生发现别人的成绩在逼近），第二股是"我自己越过越差"的分配性愤怒（类似这个学生的家庭经济状况正在恶化）。两股气流相遇，产生了比各自单独存在时更大的政治能量。
 

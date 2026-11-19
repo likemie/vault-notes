@@ -8,7 +8,7 @@ aliases:
 summary: "波特提出的经典战略经济学理论，认为国家竞争优势是通过高度本地化的产业集群、有效国内竞争、高标准需求与创新生态所共同创造与维持，有别于由先天生产要素禀赋决定；在当代地缘经济学与现代产业政策中，该理论被进一步拓展为国家通过战略性干预主动重塑关键供应链韧性与科技主权的核心地缘想象与政策基石。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Knowledge-Based Economization]]"
   - "[[Spatial Sortings]]"
   - "[[Innovation Hub]]"
+  - "[[Neoliberalism]]"
   - "[[Paradigm]]"
   - "[[Market Shaping and Creating]]"
   - "[[Agglomeration Externalities]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-07
-updated: 2026-11-03
+updated: 2026-11-19
 ---
 
 ---
@@ -86,7 +87,7 @@ updated: 2026-11-03
 
 > [!boundary]- 概念边界
 > - 不等于 **李嘉图传统比较优势（Comparative Advantage）** — 比较优势假定要素（劳动力、资本、资源）在国家间不可流动且禀赋静态既定；国家竞争优势强调竞争优势是通过创新、集群集聚与制度质量动态“创造”出来的。
-> - 不等于 **新自由主义纯粹市场中立（Laissez-faire Market Neutrality）** — 国家竞争优势强调国家独特的法律、科研基础设施与产业政策在创造高级要素方面具有不可替代的构成性作用。
+> - 不等于 **[[Neoliberalism|新自由主义]]纯粹市场中立（Laissez-faire Market Neutrality）** — 国家竞争优势强调国家独特的法律、科研基础设施与产业政策在创造高级要素方面具有不可替代的构成性作用。
 > - 不等于 **封闭式重商主义贸易顺差（Mercantilism）** — 波特强调国家竞争优势的根本标准是本国产业的“生产率”（Productivity）及其提升速度，而非单纯追求贸易顺差或通过货币贬值换取低附加值出口。
 
 ---

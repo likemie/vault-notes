@@ -8,7 +8,7 @@ aliases:
 summary: "Pierre Bourdieu 的核心概念，指个体通过家庭社会化与教育获得并在特定场域中具有交换价值的文化资源（具身化、客体化和制度化）。在大规模教育实证研究中常操作化为家庭藏书量等资源，实证表明其既直接提升学业表现，又通过培育批判性认识论信念间接促进高阶成就。"
 type: concept
 domain: "sociology-of-education"
-related_count: 52
+related_count: 53
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Performance Capital]]"
   - "[[Cultural Code]]"
   - "[[Avatar]]"
+  - "[[Neoliberalism]]"
   - "[[Charter Schools]]"
   - "[[Epistemological Beliefs]]"
   - "[[Variable]]"
@@ -82,7 +83,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-08
-updated: 2026-11-17
+updated: 2026-11-19
 ---
 
 ---
@@ -175,7 +176,7 @@ updated: 2026-11-17
 ---
 
 > [!concept-proposition] 命题二｜市场化[[School Choice|择校]]中文化资本转化为精细的学校信息扫描技术与[[Habitus|惯习]]壁垒
-> **市场化[[School Choice\|择校]]维度** 探讨在新自由主义教育改革和择校市场中，高学历阶层如何通过文化资本优势扫描优质学校信息，并在选拔和面试中占据优势。
+> **市场化[[School Choice\|择校]]维度** 探讨在[[Neoliberalism|新自由主义]]教育改革和择校市场中，高学历阶层如何通过文化资本优势扫描优质学校信息，并在选拔和面试中占据优势。
 
 > [!claim] Reay, D.
 > **高知家长的择校市场熟悉度** 受过良好教育的父母对教育系统和择校市场有着极高程度的熟悉，能够为子女收集更精准的择校情报并制定微观应对策略，从而确保其进入高表现学校。[[Argument_Teng_2025_CE\|Teng and Wang (2025, p. 302)]]（引自 Reay, 2004）

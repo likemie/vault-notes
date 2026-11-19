@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 44
+person_related_count: 45
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Technology Transfer]]"
   - "[[Evidence-Based Policy-Making]]"
+  - "[[Neoliberalism]]"
   - "[[Geopolitics]]"
   - "[[Operationalization]]"
   - "[[Falsification]]"
@@ -77,7 +78,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-06
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -173,7 +174,7 @@ updated: 2026-11-11
 > > 世纪之交比较教育学面临由 IEA、[[OECD]] 主导的大规模量化测评（PISA）浪潮冲击。
 > >
 > > - **实证测评拥护者** 主张依靠跨国量化数据与排行指标为教育政策提供快速[[Evidence-Based Policy-Making|循证决策]]支持。
-> > - **施里韦尔与欧洲文化主义学派** 坚守母学科理论根基与文化历史深描，警告去理论化的大规模测评会将比较学术降格为新自由主义绩效治理的量化附庸。
+> > - **施里韦尔与欧洲文化主义学派** 坚守母学科理论根基与文化历史深描，警告去理论化的大规模测评会将比较学术降格为[[Neoliberalism|新自由主义]]绩效治理的量化附庸。
 
 > [!critique] 批评索引
 > - 部分批判政治经济学派学者指出，施里韦尔过度偏重系统论语义与话语外化分析，对跨国金融资本流动、物质资源依附以及硬性[[Geopolitics|地缘政治]]权力的制约关注相对不足。

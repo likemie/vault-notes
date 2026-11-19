@@ -9,7 +9,7 @@ aliases:
 summary: "将教育系统理解为多层级行动者在制度结构中通过协商、博弈与制度工具共同达成决策与行动协调的宏观分析框架"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 33
+theory_related_count: 34
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Gatekeepers]]"
   - "[[School Inspection]]"
+  - "[[Neoliberalism]]"
   - "[[Research Question]]"
   - "[[Creativity]]"
   - "[[Heterogeneity]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -111,7 +112,7 @@ updated: 2026-11-15
 > 在德奥推行国家教育质量标准与标准化测评时，单纯依靠部颁法令难以推动教师改变教学习惯；唯有配合中观督导与校长展开成效研讨对话，促进基层理解数据含义，质量监测方能转化为实际改进举措。
 
 > [!theory-proposition] 命题二｜新治理通过目标收紧与路径放权的双向结构重组学校专业自主
-> 治理现代化不同于纯粹的新自由主义去规制化或行政分权，而体现为一种双向重塑原则：中央政府收紧对教育终极目标与质量标准的控制（设立统一能力标准与全国统考），同时放宽对微观教学法、课程微调与资源调配的行政干预，确立目标的统一设定与路径的自主探索原则（Autonomie der Wege, nicht der Ziele；Heid, 2003）。此种重组赋予单所学校作为质量发展主体的能动空间，同时构成了外在绩效审计的硬约束。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, pp. 19–20)]]
+> 治理现代化不同于纯粹的[[Neoliberalism|新自由主义]]去规制化或行政分权，而体现为一种双向重塑原则：中央政府收紧对教育终极目标与质量标准的控制（设立统一能力标准与全国统考），同时放宽对微观教学法、课程微调与资源调配的行政干预，确立目标的统一设定与路径的自主探索原则（Autonomie der Wege, nicht der Ziele；Heid, 2003）。此种重组赋予单所学校作为质量发展主体的能动空间，同时构成了外在绩效审计的硬约束。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, pp. 19–20)]]
 
 > [!example|notitle]
 > 某州教育部不再规定小学每周必须教授的具体课文篇目与板书格式，但要求学生在四年级末必须达到全国阅读能力三级标准；学校若未能达标，校长需在督导会谈中提交专项改进规划。

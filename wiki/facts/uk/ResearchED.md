@@ -7,7 +7,7 @@ subtype: event
 region: uk
 fact_region: "uk"
 fact_kind: "event"
-fact_related_count: 40
+fact_related_count: 41
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#fef3c7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Reflexivity]]"
   - "[[Teacher Professional Agency]]"
+  - "[[Neoliberalism]]"
   - "[[Evidence Standards]]"
   - "[[Performance Indicators]]"
   - "[[Positivism]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-01
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -119,7 +120,7 @@ updated: 2026-11-11
 > | 核心行动者 | Tom Bennett、ResearchED 骨干教师、Nick Gibb | [[Gary Thomas]]、Terry Wrigley、大学教育研究者 |
 > | 话语与价值基础 | 科学客观性、实证检验、[[Teacher Professional Agency\|教师专业能动性]] | [[Pluralism\|认识论多元主义]]、情境敏感性、批判性反思 |
 > | 方法论主张 | [[Randomised Controlled Trials\|RCT]] 与大样本定量实证为先导标准 | [[Qualitative Observation\|质性观察]]、[[Action Research\|行动研究]]与[[Realist Evaluation\|实在论评估]]互补 |
-> | 治理取向 | 配合国家绩效标准，推广开箱即用的有效干预 | 警惕新自由主义技术规训，主张大学自主批判研究 |
+> | 治理取向 | 配合国家绩效标准，推广开箱即用的有效干预 | 警惕[[Neoliberalism\|新自由主义]]技术规训，主张大学自主批判研究 |
 > 
 > **关键分歧** 两大阵营围绕教育研究的知识合法性基础产生根本分歧：前者将科学界定为可重复的定量干预试验，后者坚持教育具有情境依赖与价值涉入属性，反对以去情境化的单一指标衡量教学实践（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 14–15]]）。
 

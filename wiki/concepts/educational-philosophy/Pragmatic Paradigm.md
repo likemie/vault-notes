@@ -8,7 +8,7 @@ aliases:
 summary: "先完整论述古典哲学层面（杜威等的经验、探究与行动后果），再阐述延伸出的研究方法论层次（混合方法研究的问题驱动与方法自由），并剖析跨国治理中将教育窄化为绩效精算的实用主义范式与紧迫实用主义认知盲区。"
 type: concept
 domain: "educational-philosophy"
-related_count: 71
+related_count: 73
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Quality Education]]"
   - "[[Engineering Mindset]]"
   - "[[Grand Theory]]"
+  - "[[Neoliberalism]]"
   - "[[Global Educational Discourse]]"
   - "[[Educational Meliorism]]"
   - "[[Discursive Field]]"
@@ -61,6 +62,7 @@ related_theories:
   - "[[Structural Functionalism]]"
   - "[[Human Capital Theory]]"
   - "[[Social Justice Theory]]"
+  - "[[Developmental State]]"
 related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Meta-analysis]]"
@@ -98,7 +100,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -238,7 +240,7 @@ updated: 2026-11-18
 ---
 
 > [!concept-proposition] 命题六｜（全球治理与去政治化层）　超国家组织借助实用主义范式将教育目的伦理辩论降格为劳动力精算并因紧迫实用主义诱发认知盲区
-> **全球政策治理与去政治化话语维度** 探讨实用主义在当代跨国治理实践中被工具化挪用为“解题理性（Problem-Solving Rationality）”的机制：将新自由主义意识形态伪装为中立务实的实效工具，以技术官僚管理取代教育本质价值的民主协商，以及国际机构因“紧迫实用主义”陷入认知盲区。
+> **全球政策治理与去政治化话语维度** 探讨实用主义在当代跨国治理实践中被工具化挪用为“解题理性（Problem-Solving Rationality）”的机制：将[[Neoliberalism|新自由主义意识形态]]伪装为中立务实的实效工具，以技术官僚管理取代教育本质价值的民主协商，以及国际机构因“紧迫实用主义”陷入认知盲区。
 
 > [!claim] [[Fazal Rizvi|Rizvi, F.]] & [[Bob Lingard|Lingard, B.]]
 > **实用主义转向与宏观治理去政治化** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD，简称经合组织）在冷战后发生根本性政策转向，放弃了关于教育本质目的、社会学条件与民主伦理的广泛哲学辩论，将全部治理能量聚焦于劳动力技能精算与绩效管理的“实用主义范式（Pragmatic Paradigm）”。这种以解决问题为幌子的实用主义操作，不仅没有消除意识形态，反而将新自由主义对经济效率与[[Human Capital Theory|人力资本]]增值的偏好包装为不可置疑的技术常识，实现了全球教育治理深层的去政治化。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 451–452)]]
@@ -329,5 +331,5 @@ updated: 2026-11-18
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 剖析国际多边机构在生成[[Global Educational Discourse|全球教育话语]]时的“紧迫实用主义（urgent pragmatism）”与行动改良逻辑，揭示其过度简化机制与[[Epistemology|认识论]]盲区（pp. 350–352）。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 探讨实用主义哲学（杜威《实用主义美国》）对现代[[Engineering Mindset|工程思维]]与反教条经验[[Epistemology|认识论]]的奠基（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]]）。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 援引杜威论证实证证据仅是明智探究的假设而非行动铁律，批判将量化[[Effect Size|效应量]]排名[[Alienation|异化]]为技术统治处方的做法（pp. 93, 104）。
-> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 分析新加坡发展型国家教育治理中的“实用主义范式”，揭示政策在吸纳全球 21 世纪素养与保持应试分流双轨之间达成的精明平衡。
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 分析新加坡[[Developmental State|发展型国家]]教育治理中的“实用主义范式”，揭示政策在吸纳全球 21 世纪素养与保持应试分流双轨之间达成的精明平衡。
 

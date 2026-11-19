@@ -27,6 +27,7 @@ related_concepts:
   - "[[Market Failure]]"
   - "[[Embedded Autonomy]]"
   - "[[Apprenticeship]]"
+  - "[[Neoliberalism]]"
   - "[[Total Factor Productivity]]"
   - "[[Innovation Ecosystem]]"
   - "[[Workforce Development]]"
@@ -59,14 +60,14 @@ sources:
   - "[[sources/Reynolds_2024_JICT|Reynolds_2024_JICT]]"
 status: active
 created: 2026-10-06
-updated: 2026-11-11
+updated: 2026-11-19
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Reynolds_2024_JICT"
 argument_key: "Argument_Reynolds_2024_JICT"
 argument_display_title: "U.S"
 argument_kind: "journal-article"
-argument_related_count: 31
+argument_related_count: 32
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -132,7 +133,7 @@ journal: "Journal of Industry, Competition and Trade"
 
 > [!sub-claim] 1. 产业政策有效性的核心在于促进部门内竞争而非扶植单一国家领军企业
 
-传统新自由主义对产业政策的批判主要集中于政府难以胜任挑选赢家的角色，且定向补贴极易诱发政治寻租与企业俘获。然而现代实证研究表明，当产业补贴以促成部门内部的良性竞争为导向时，能够显著提升企业创新投入与[[Total Factor Productivity|全要素生产率]]（Aghion et al., 2015）。
+传统[[Neoliberalism|新自由主义]]对产业政策的批判主要集中于政府难以胜任挑选赢家的角色，且定向补贴极易诱发政治寻租与企业俘获。然而现代实证研究表明，当产业补贴以促成部门内部的良性竞争为导向时，能够显著提升企业创新投入与[[Total Factor Productivity|全要素生产率]]（Aghion et al., 2015）。
 
 > [!policy-context] 现代产业政策的过程导向转向
 > - **超越静态结果预设** 产业政策应当被理解为一种公共部门与私人部门之间持续协作解决问题的战略过程，而非由政府单向指定赢家的静态规划方案（Rodrik, 2004）。

@@ -11,10 +11,10 @@ aliases:
 summary: "资助方或放贷方在提供公共资金、优惠贷款或产业补贴时，依法或依契约向受助方施加的前置准入门槛、合规义务与制度重构约束。在超国家开发治理中，表现为主权借贷捆绑的宏观紧缩与体制改革条款（如世行与IMF的结构调整条件），其实际成效取决于借款国本土政治意愿而非外源性强制（Castro, 2009）；在现代国家产业战略中，表现为主权政府向受补贴私营企业绑定的公共价值护栏（劳工技能、托儿保障、禁止股票回购、超额利润分享与国家安全限制），旨在防范资本寻租并重塑公私社会契约（Reynolds, 2024）。"
 type: concept
 domain: "science-policy"
-related_count: 49
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 51
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - concept/science-policy
   - industrial-policy
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Assemblage]]"
   - "[[Precompetitive Research]]"
+  - "[[Neoliberalism]]"
   - "[[Public-Private Partnership]]"
   - "[[Alienation]]"
   - "[[Orchestrator State]]"
@@ -71,6 +72,7 @@ related_facts:
   - "[[European Commission]]"
   - "[[Infrastructure Investment and Jobs Act]]"
   - "[[International Reading Association]]"
+  - "[[Integrated Programme]]"
   - "[[Inter-American Development Bank]]"
   - "[[Inflation Reduction Act]]"
   - "[[National Semiconductor Technology Center]]"
@@ -83,7 +85,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -183,7 +185,7 @@ updated: 2026-11-15
 ---
 
 > [!concept-proposition] 命题一｜制度化附加条件是[[Modern Industrial Policy|现代产业政策]]重塑政府与市场社会契约的核心契约手段
-> **政府与市场关系重塑与[[Public Value|公共价值]]** 探讨[[Modern Industrial Policy|现代产业政策]]为何必须打破传统新自由主义对企业的无条件救济，以附加条件构建平等的[[Public-Private Partnership|公私伙伴关系]]。
+> **政府与市场关系重塑与[[Public Value|公共价值]]** 探讨[[Modern Industrial Policy|现代产业政策]]为何必须打破传统[[Neoliberalism|新自由主义]]对企业的无条件救济，以附加条件构建平等的[[Public-Private Partnership|公私伙伴关系]]。
 
 > [!claim] [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] & Mazzucato (2022)
 > **公私社会契约的重塑** 产业政策是国家引导经济实现结构性转型的[[Strategic Compact|战略契约]]，有别于单纯向私营企业发放补助金。通过将公共资金与明确的社会及经济附加条件相挂钩，政府不再充当被动的去风险者，是作为公共价值的共同塑造者；附加条件确保了私营企业在享受巨额公共支持的同时，必须在技能培养、职工福利和产业生态建设上承担对等的公共责任。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 4–6)]]
@@ -245,7 +247,7 @@ updated: 2026-11-15
 > [!dev-timeline] 概念演变
 > - **20 世纪下半叶 — 传统宏观结构调整与主权借贷附加条件** 伴随布雷顿森林体系的演变，[[International Monetary Fund|国际货币基金组织]]（IMF）与[[World Bank|世界银行]]将政策附加条件系统应用于发展中国家的主权纾困与结构调整贷款中，要求借款国必须严格实行财政紧缩、削减教育等公共支出、推行贸易与资本[[Liberalization|自由化]]以及私有化改革，带有强烈的[[Washington Consensus|华盛顿共识]]新自由主义色彩。但外源性强加的条件常因借款国缺乏本土意愿而陷入执行停摆。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 465–466)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]
 > - **2010 年代 — 使命导向创新与[[Public Value|公共价值]]重塑** [[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mazzucato, 2022）与丹尼·[[Alexandre de Rhodes|罗德]]里克（Rodrik, 2023）系统构建[[Modern Industrial Policy|现代产业政策]]附加条件分类学，主张通过条件设定将创新转化为包容、绿色与公共利益。
-> - **2021–2024 年 — 美国现代产业战略的法典化与[[Operationalization|操作化]]** 拜登政府在 [[Infrastructure Investment and Jobs Act|IIJA]]（[[Build America, Buy America Act|BABA]] 条款）、CHIPS（劳工/托儿/利润分享/地缘护栏）及 [[International Reading Association|IRA]]（[[Apprenticeship|学徒制]]与现行工资抵免）中全面落地附加条件机制，并将其延伸至 [[National Science and Technology Council|NSTC]] 研发联合体开放准入与非排他 IP 规范，使其成为 21 世纪国家产业战略治理的标准配置。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 4–6, 8–14)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–5, 10–11)]]
+> - **2021–2024 年 — 美国现代产业战略的法典化与[[Operationalization|操作化]]** 拜登政府在 [[Infrastructure Investment and Jobs Act|IIJA]]（[[Build America, Buy America Act|BABA]] 条款）、CHIPS（劳工/托儿/利润分享/地缘护栏）及 [[International Reading Association|IRA]]（[[Apprenticeship|学徒制]]与现行工资抵免）中全面落地附加条件机制，并将其延伸至 [[National Science and Technology Council|NSTC]] 研发联合体开放准入与非排他 [[Integrated Programme|IP]] 规范，使其成为 21 世纪国家产业战略治理的标准配置。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 4–6, 8–14)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–5, 10–11)]]
 
 ---
 

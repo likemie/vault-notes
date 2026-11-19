@@ -11,7 +11,7 @@ subtype: policy
 region: "denmark"
 fact_region: "denmark"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Global Universities Rankings]]"
   - "[[Academic Attrition]]"
+  - "[[Neoliberalism]]"
   - "[[Transparency Bypass]]"
   - "[[Test-Based Accountability]]"
 related_theories:
@@ -35,6 +36,7 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Independent Schools Initiative]]"
   - "[[PISA]]"
   - "[[Nasjonale prøver]]"
 related_arguments:
@@ -42,14 +44,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-19
 ---
 
 ---
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2002 年由丹麦议会审议通过、自由党与保守党联合政府颁布，并在 2005 年通过教育部行政通令全面细化落实。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
-> - **适用地区 / 对象** 全国各市镇基础教育公立学校（Folkeskole）、私立独立学校（Friskoler）及中等教育机构。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
+> - **适用地区 / 对象** 全国各市镇基础教育公立学校（Folkeskole）、私立[[Independent Schools Initiative|独立学校]]（Friskoler）及中等教育机构。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
 > - **问题背景** 在 [[PISA]] 测验带来北欧质量冲击后，丹麦中右翼政党试图打破传统以专业自治与内部信任为主的宽松治理，引入英美式基于公开信息的家长[[School Choice|择校]]与校际竞争机制。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 254, 258)]]
 > - **制度位置** 政策作为丹麦[[New Public Management|新公共管理]]工具包的关键切口，试图在[[Neo-Weberian State|新韦伯主义]]地方分权体制内注入市场问责要素。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
 
@@ -113,7 +115,7 @@ updated: 2026-10-22
 > > [!axis] 公民知情监督 vs 阶层标签分化
 > > 围绕教育数据公开与排位表编制，政界与学界展开长期交锋。
 > >
-> > - **新自由主义与保守派阵营** 强调公共财政资助的学校必须对社会保持透明，排位信息是打破公立垄断、保障平民[[School Choice|择校]]权利的民主工具。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
+> > - **[[Neoliberalism|新自由主义]]与保守派阵营** 强调公共财政资助的学校必须对社会保持透明，排位信息是打破公立垄断、保障平民[[School Choice|择校]]权利的民主工具。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
 > > - **北欧社会民主与教师阵营** 强调排位表极度简化了复杂的学校生态，将生源家庭背景的先天差距归咎于教师，必然加剧弱势学校污名化与中产阶层生源外流。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 258, 260)]]
 
 ---

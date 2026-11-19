@@ -7,7 +7,7 @@ aliases:
 summary: "大众媒体在选择、加工与呈现现实时所遵循的组织惯例、格式规程与新闻价值体系，在教育治理中迫使政策行动者积累媒介资本并以危机叙事迎合媒体规则"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Governing by Numbers]]"
   - "[[Mediatised Governance]]"
   - "[[Policy Avoidance]]"
+  - "[[Neoliberalism]]"
   - "[[Falling Standards Template]]"
   - "[[Dramatic Tension]]"
   - "[[Discourse]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -83,7 +84,7 @@ updated: 2026-11-15
 > |:---|:---|:---|:---|
 > | **分析层次** | 传播生态的底层生产机制与组织语法 | 宏观政策[[Champ\|场域]]被媒体逻辑穿透后的综合治理形态 | 媒介逻辑作用于政策审议时诱发的具体失职行为 |
 > | **核心动力** | 新闻价值驱动（负面、排列表、冲突、简明） | 政治迫切性与媒介逻辑的共谋共振 | 媒体受制于专业门槛与发稿时效而放弃复杂证据核查 |
-> | **治理后果** | 迫使所有公共议题必须转换语言方能进入视野 | 民主审议被架空，国际数据沦为推销本土新自由主义改革工具 | 缺乏实证支持的激进争议政策在舆论真空中被默认通过 |
+> | **治理后果** | 迫使所有公共议题必须转换语言方能进入视野 | 民主审议被架空，国际数据沦为推销本土[[Neoliberalism\|新自由主义]]改革工具 | 缺乏实证支持的激进争议政策在舆论真空中被默认通过 |
 
 ---
 

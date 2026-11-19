@@ -7,7 +7,7 @@ aliases:
 summary: "指超越特定专业学科知识、可跨领域迁移的高阶认知与社会行为能力复合体，核心涵盖批判性思维、分析推理、劣构问题解决与书面沟通，已成为现代高等教育质量保障与跨国学习成效测量的关键构念与争议焦点。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Hard Policy Transfer]]"
   - "[[Habitus]]"
   - "[[Space of Equivalence]]"
+  - "[[Neoliberalism]]"
   - "[[Alienation]]"
   - "[[Technical Rationality]]"
   - "[[Knowledge-Based Economy]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-19
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -114,7 +115,7 @@ updated: 2026-11-15
 
 ---
 
-> [!concept-proposition] 命题二｜通用技能是超国家组织建构全球[[Space of Equivalence|等值空间]]与推行新自由主义治理的核心技术通货
+> [!concept-proposition] 命题二｜通用技能是超国家组织建构全球[[Space of Equivalence|等值空间]]与推行[[Neoliberalism|新自由主义治理]]的核心技术通货
 > **治理技术与教育目的[[Alienation|异化]]维度** 探讨跨国组织如何借由通用技能概念将高等教育质量转换为同质化可比的统计序列，服务于劳动力市场的[[Human Capital Theory|人力资本]]规训。
 
 > [!claim] Morgan & Shahjahan

@@ -10,7 +10,7 @@ title: "Argument_Beech_2015_GSE"
 argument_key: "Argument_Beech_2015_GSE"
 argument_display_title: "Interpreting the circulation of educational discourse across space: searching for new vocabularies"
 argument_kind: "journal-article"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Circular Transfer]]"
   - "[[Normal School]]"
   - "[[Mimesis]]"
+  - "[[Neoliberalism]]"
   - "[[Epistemology]]"
   - "[[Government to Governance Shift]]"
   - "[[Network Governance]]"
@@ -65,7 +66,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-06-07
-updated: 2026-11-17
+updated: 2026-11-19
 year: 2015
 doi: ""
 citation_aliases:
@@ -124,7 +125,7 @@ citation_aliases:
 
 > [!warning] 全球/地方二元对立的三种问题假设
 >
-> **第一种假设** 认为市场导向的教育改革纯粹是全球的。但 [[Doreen Massey]] (2009) 指出，所谓的全球不是某种外在的抽象力量，它有物质基础，是在地方环境中建构的。几乎没有哪个地方不以某种方式参与全球的建构。[[World Bank\|世界银行]]和 [[OECD]] 确实推广新自由主义政策，但生产者和再生产者这些思想的人来自具体的地方，如果这些思想在某地被制定为教育政策，也是因为某些所谓的「地方」专家或官员认可了它们。
+> **第一种假设** 认为市场导向的教育改革纯粹是全球的。但 [[Doreen Massey]] (2009) 指出，所谓的全球不是某种外在的抽象力量，它有物质基础，是在地方环境中建构的。几乎没有哪个地方不以某种方式参与全球的建构。[[World Bank\|世界银行]]和 [[OECD]] 确实推广[[Neoliberalism|新自由主义]]政策，但生产者和再生产者这些思想的人来自具体的地方，如果这些思想在某地被制定为教育政策，也是因为某些所谓的「地方」专家或官员认可了它们。
 >
 > **第二种假设** 认为地方在全球影响到来之前是纯粹未触碰的。但教育系统本身就是一种在从一个语境移动到另一个语境的过程中建构的社会技术，没有哪个教育系统或文化曾与外部影响隔绝。例如，现在被称为「全球新自由主义治理形式」的许多特征在所谓的全球疫情到来之前就已经存在，如阿根廷自 1950 年代以来对私立学校的国家补贴。
 >

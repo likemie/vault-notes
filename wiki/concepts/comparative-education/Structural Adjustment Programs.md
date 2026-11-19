@@ -8,7 +8,7 @@ aliases:
 summary: "世界银行与国际货币基金组织在华盛顿共识下向债务危机国推行的宏观紧缩与市场化贷款附加方案；在教育领域通过推行使用者付费、私有化与分权化削减公共开支，是导致全球南方国家教育主权沦丧与阶级分化的核心外生制度因素"
 type: concept
 domain: "comparative-education"
-related_count: 47
+related_count: 48
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Shadow State]]"
   - "[[Alienation]]"
   - "[[State Educational Sovereignty]]"
+  - "[[Neoliberalism]]"
   - "[[Cultural Capital]]"
   - "[[Financial-Intellectual Complex]]"
   - "[[Variable]]"
@@ -76,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-28
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -155,7 +156,7 @@ updated: 2026-11-15
 > **市场化改革的阶级实质与社会再生产** 探讨[[Educational Privatisation|教育私有化]]、使用者付费与分权化如何将资本主义积累危机的成本转移给劳动阶级。
 
 > [!claim] [[Stephen Ball|Ball, S.]] J.
-> **市场机制作为锁定统治优势的阶级策略** 正如[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen Ball, 1993）所深刻指出的，在新自由主义结构调整中，用市场的逻辑替代国家的公共供给是一场经过精心包装的统治阶层“阶级策略”。通过推行私有化与校际竞争，国家成功将教育投资失败与失业的责任转嫁给贫困家庭个体；同时，拥有财富和[[Cultural Capital|文化资本]]的优势中上阶级则能在私立学校市场中自如运作，通过购买精英教育将自身的阶级优势合法地再生产给下一代。[[Argument_Olmos_Torres_2009_StateTheories|(Ball, 1993; Olmos & Torres, 2009, pp. 79–80)]]
+> **市场机制作为锁定统治优势的阶级策略** 正如[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen Ball, 1993）所深刻指出的，在[[Neoliberalism|新自由主义]]结构调整中，用市场的逻辑替代国家的公共供给是一场经过精心包装的统治阶层“阶级策略”。通过推行私有化与校际竞争，国家成功将教育投资失败与失业的责任转嫁给贫困家庭个体；同时，拥有财富和[[Cultural Capital|文化资本]]的优势中上阶级则能在私立学校市场中自如运作，通过购买精英教育将自身的阶级优势合法地再生产给下一代。[[Argument_Olmos_Torres_2009_StateTheories|(Ball, 1993; Olmos & Torres, 2009, pp. 79–80)]]
 
 ---
 

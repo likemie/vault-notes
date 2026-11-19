@@ -29,6 +29,7 @@ related_concepts:
   - "[[Language Skills]]"
   - "[[Normal School]]"
   - "[[Epistemology]]"
+  - "[[Neoliberalism]]"
   - "[[Subjectivism]]"
   - "[[Objectivism]]"
   - "[[Relational Space]]"
@@ -50,7 +51,6 @@ related_concepts:
   - "[[Epistemological Vigilance]]"
   - "[[Transnational Education]]"
   - "[[School Choice]]"
-  - "[[Value Conformist Mode]]"
   - "[[School Leadership]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Self Explanation]]"
@@ -79,16 +79,16 @@ related_persons:
   - "[[Bruno Latour]]"
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
-  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch06]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Eacott_2015_EPT]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch02]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch04]]"
-  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch05]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch06]]"
   - "[[Argument_Teng_2025_CE]]"
   - "[[Argument_Eacott_2011_JEAH]]"
   - "[[Argument_Schulze-Cleven_2017_HE]]"
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
+  - "[[Argument_Lim_2013_APJE]]"
 related_facts:
   - "[[CNRS]]"
   - "[[OECD]]"
@@ -118,7 +118,7 @@ updated: 2026-11-19
 > - **1968** 与 Jean-Claude Passeron 等合著出版《社会学家行当》（Le Métier de sociologue），系统阐述社会学认识论预备。
 > - **1975** 创办《社会科学研究学术活动》（Actes de la recherche en sciences sociales）期刊，创立融合视觉、数据与经验叙事的新出版风格。
 > - **1981** 当选法兰西学院社会学讲席教授，发表就职演说《关于课的课》（Leçon sur la leçon）。
-> - **1993** 获得[[CNRS|法国国家科学研究中心]]金奖。同年出版《世界之苦》（La Misère du monde），以[[In-depth Interview|深度访谈]]形式系统呈现新自由主义政策给普通人带来的社会苦难。
+> - **1993** 获得[[CNRS|法国国家科学研究中心]]金奖。同年出版《世界之苦》（La Misère du monde），以[[In-depth Interview|深度访谈]]形式系统呈现[[Neoliberalism|新自由主义]]政策给普通人带来的社会苦难。
 > - **1995–1998** 深入参与反新自由主义运动、罢工与社会弱势群体抗争，确立了战斗性社会学的公共知识分子形象。
 > - **2002** 在巴黎因癌症去世，晚期关于国家、科学与自我分析的课程与手稿在此后陆续整理出版。
 

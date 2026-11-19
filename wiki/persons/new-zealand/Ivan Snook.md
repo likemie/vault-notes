@@ -10,10 +10,10 @@ cssclasses:
   - person-page
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 29
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 30
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1932"
 died: "2018"
 lifespan: 1932–2018
@@ -23,6 +23,7 @@ tags:
   - critical-policy-analysis
   - indoctrination
 related_concepts:
+  - "[[Neoliberalism]]"
   - "[[Performance Pay]]"
   - "[[Visible Learning]]"
   - "[[Problem Solving]]"
@@ -61,14 +62,14 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-17
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 新西兰当代著名教育哲学家、批判学者、梅西大学（Massey University）教育学荣休教授；新西兰教育哲学学会前主席。
-> - **核心角色** 20 世纪分析教育哲学关于“灌输（Indoctrination）”概念分析的奠基人；新西兰批判教育政策研究的领军人物，系统解构教育新自由主义、[[Performance Pay|绩效工资]]与唯数字主义证据观的核心枢纽学者。
+> - **核心角色** 20 世纪分析教育哲学关于“灌输（Indoctrination）”概念分析的奠基人；新西兰批判教育政策研究的领军人物，系统解构教育[[Neoliberalism|新自由主义]]、[[Performance Pay|绩效工资]]与唯数字主义证据观的核心枢纽学者。
 > - **代表贡献** 奠定教育哲学中关于教导与灌输界限的概念[[Analytic Framework|分析框架]]；开创针对约翰·[[John Hattie|哈蒂]]（John Hattie）《[[Visible Learning|可见的学习]]》的系统性学术方法学审查；领导新西兰教育界对《新右派》市场化改革的持久批判。
 
 > [!citation-card] 斯努克评量化数据沦为政策宰制工具

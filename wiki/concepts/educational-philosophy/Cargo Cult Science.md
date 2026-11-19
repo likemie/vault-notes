@@ -6,7 +6,7 @@ aliases:
 summary: "Richard Feynman 提出的科学哲学概念，指具备数据、图表等严密外在形式却缺失认识论诚信与自我证伪诚意的伪科学实践；在教育领域表现为以不透明的量化指标和商业包装实施认知威慑与教条化控制。"
 type: concept
 domain: "educational-philosophy"
-related_count: 51
+related_count: 53
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Feedback]]"
   - "[[Analytical Stance]]"
+  - "[[Neoliberalism]]"
   - "[[Class Size]]"
   - "[[Variable]]"
   - "[[Primary and Secondary Documents]]"
@@ -66,6 +67,7 @@ related_persons:
   - "[[Pierre-Jérôme Bergeron]]"
   - "[[John Hattie]]"
   - "[[Robert K. Merton]]"
+  - "[[Charles Taylor]]"
 related_facts:
   - "[[Corwin Press]]"
   - "[[Cognition Education]]"
@@ -78,7 +80,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-04
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -187,7 +189,7 @@ updated: 2026-11-15
 
 > [!tension] 核心张力：循证测量的大规模可用性 vs [[Epistemology|认识论]]诚信的严格底线
 > - **[[Pragmatic Paradigm|实用主义]]决策立场（蓝方）** 政策制定者与循证倡导者主张，面对高度复杂的教育系统，政府与学校迫切需要一目了然的综合指标（如[[Effect Size|效应量]]排行榜与气压计）来指引资源投放；即便某些计算缺乏深层统计纯洁性，只要能够激发学校关注[[Feedback|教学反馈]]，这种简化模型便具备不可替代的政策实用价值。
-> - **科学哲学[[Analytical Stance|批判立场]]（红方）** 批判学者指出，没有认识论诚信的所谓循证本质上是伪科学与数字欺诈；通过隐藏公式与简单平均制造的虚假精确性不仅不能改进学校，反而会为新自由主义削减公立经费（如[[Class Size|班级规模]]无效论）提供借口，摧毁公立教育的专业根基与社会公平。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 30–33)]]
+> - **科学哲学[[Analytical Stance|批判立场]]（红方）** 批判学者指出，没有认识论诚信的所谓循证本质上是伪科学与数字欺诈；通过隐藏公式与简单平均制造的虚假精确性不仅不能改进学校，反而会为[[Neoliberalism|新自由主义]]削减公立经费（如[[Class Size|班级规模]]无效论）提供借口，摧毁公立教育的专业根基与社会公平。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 30–33)]]
 
 > [!warning] 适用局限
 > 货物崇拜科学作为一个批判性科学哲学概念，旨在辨识系统性缺乏认识论诚信的虚假科学形态；在运用于具体实证研究批评时，必须严格区分学者由于技术探索、认知局限或模型简化所产生的正常测量误差，与刻意隐匿算法、构建免疫反驳商业壁垒的恶意伪科学之间的界限，避免将严肃探讨中的方法学争鸣泛政治化或标签化。
@@ -228,6 +230,6 @@ updated: 2026-11-15
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 运用理查德·费曼的货物崇拜科学理论，从隐藏计算公式的简单算术平均、新泰勒制全景监控、新自由主义政商利益旋转门以及回避[[Falsification|证伪]]等四个维度，对 [[John Hattie]] 及其 [[Visible Learning]] 商业体系展开系统的科学哲学与政治经济学批判。
+> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 运用理查德·费曼的货物崇拜科学理论，从隐藏计算公式的简单算术平均、新[[Charles Taylor|泰勒]]制全景监控、新自由主义政商利益旋转门以及回避[[Falsification|证伪]]等四个维度，对 [[John Hattie]] 及其 [[Visible Learning]] 商业体系展开系统的科学哲学与政治经济学批判。
 > - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 从数理统计学视角审查《可见的学习》，确立了用真实数据构建伪科学纸牌屋的[[Analytic Framework|分析框架]]，并提出抵制学术指错后继续推销的蓄意盲目准则。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 开展首个全库[[Preregistration|预注册]][[Metascience|元科学]]质量审计，实证揭示 Visible Learning 底层数据链存在 44% [[Effect Size|效应量]]无引证支持、复现率不足 1% 等崩溃性问题，从元科学实证层面验证了货物崇拜科学在教育[[Research Synthesis|证据综合]]中的现实形态。

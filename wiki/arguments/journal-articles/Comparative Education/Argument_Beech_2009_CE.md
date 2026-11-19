@@ -32,6 +32,7 @@ related_concepts:
   - "[[Governance by Spin]]"
   - "[[Performativity]]"
   - "[[Recontextualization]]"
+  - "[[Typicality]]"
   - "[[Praxis]]"
   - "[[Pragmatism in China]]"
   - "[[Pragmatic Paradigm]]"
@@ -43,6 +44,7 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Global Citizenship]]"
   - "[[Transnational Education]]"
+  - "[[Neoliberalism]]"
   - "[[Washington Consensus]]"
   - "[[Geopolitics]]"
   - "[[Symbolic Boundary]]"
@@ -64,6 +66,7 @@ related_methods:
 related_persons:
   - "[[Manuel Castells]]"
   - "[[Jean-François Lyotard]]"
+  - "[[Charles Taylor]]"
 related_facts:
   - "[[OECD]]"
   - "[[World Bank]]"
@@ -81,14 +84,14 @@ sources:
 part_of:
 status: draft
 created: 2026-06-08
-updated: 2026-11-11
+updated: 2026-11-19
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Beech_2009_CE"
 argument_key: "Argument_Beech_2009_CE"
 argument_display_title: "Policy spaces, mobile discourses, and the definition of educated identities"
 argument_kind: "journal-article"
-argument_related_count: 53
+argument_related_count: 56
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -116,7 +119,7 @@ issuing_organization: ""
 > - **贡献** 引入 [[Manuel Castells]] 的空间/网络社会理论和 [[Jean-François Lyotard]] 的[[Performativity\|操演性]]概念，建立了一个解释跨空间层级的话语[[Recontextualization|再情境化]]（recontextualisation）[[Analytic Framework\|分析框架]]，揭示了全球教育话语在流动中“空虚性”的功能意义以及在微观实践中转译为“尊重贫困”等意外后果的形成机制。
 
 > [!boundary]- 分析范围的边界
-> 本文不假设全球→国家→实践机构是唯一的流通路径。现实中存在绕过国家层面的全球学校网络直接进行交互，也存在对全球影响几乎不渗透的国家。本文的命题是探索性的，只勾勒一条特定的、但在当代最具典型性的话语流通路径，而不是关于这些语境互动的完备理论。
+> 本文不假设全球→国家→实践机构是唯一的流通路径。现实中存在绕过国家层面的全球学校网络直接进行交互，也存在对全球影响几乎不渗透的国家。本文的命题是探索性的，只勾勒一条特定的、但在当代最具[[Typicality|典型性]]的话语流通路径，而不是关于这些语境互动的完备理论。
 
 ---
 
@@ -274,7 +277,7 @@ Castells 据此区分了两种空间逻辑：
 #### 1.2 什么驱动了行动者：操演性而非意识形态
 
 > [!tension] 全球教育网络权力逻辑的学术分歧
-> - **意识形态霸权论（新自由主义主导）** 既有文献普遍将全球教育网络与新自由主义及亲市场改革绑定，认为其是由“[[Washington Consensus|华盛顿共识]]”和跨国资本驱动的同质性霸权空间(Robertson & Dale, 2006; Ball, 2007)。
+> - **意识形态霸权论（[[Neoliberalism|新自由主义]]主导）** 既有文献普遍将全球教育网络与新自由主义及亲市场改革绑定，认为其是由“[[Washington Consensus|华盛顿共识]]”和跨国资本驱动的同质性霸权空间(Robertson & Dale, 2006; Ball, 2007)。
 > - **竞争性多元网络（操演性政治主导）** Beech 指出，随着基础设施的普及，流动空间已演变为竞争性的、有争议的多元网络。在操演性与实用主义驱动下，行动者跨越意识形态进行临时合作(Castells, 2000b; |Beech, 2009)。
 
 > [!case] [[Education International]] 的悖论性联盟
@@ -301,7 +304,7 @@ Castells 据此区分了两种空间逻辑：
 > > Castells（2000c, p.22）指出，在流动空间中，符号共存而不参照经验。文化成为“真实虚拟的文化”，混合一切并掏空任何具体信息在特定语境之外的意义(引自 p.353)。这系统性地决定了全球政策话语必须被抽象化为漂浮能指，其价值在于“可被用来说什么”，而非“说了什么”。
 
 > [!exegesis]- 能力发展如何成为漂浮能指
-> 能力概念有其特定的历史起源。它来自企业管理和职业培训，与从泰勒制到丰田制（[[Post-Fordism|后福特主义]]）的转型相关。传统课程（OECD 1990, 100–101）中，教师拥有一套客观事实，学生只需记忆并在测试中复制，正确与错误非常明晰；而能力概念要求学生“用知识做事”，发展出智力和人际技能（UNESCO 1996; De Ketele 2008）。
+> 能力概念有其特定的历史起源。它来自企业管理和职业培训，与从[[Charles Taylor|泰勒]]制到丰田制（[[Post-Fordism|后福特主义]]）的转型相关。传统课程（OECD 1990, 100–101）中，教师拥有一套客观事实，学生只需记忆并在测试中复制，正确与错误非常明晰；而能力概念要求学生“用知识做事”，发展出智力和人际技能（UNESCO 1996; De Ketele 2008）。
 >
 > 但一旦这个话语进入全球政策空间，这些具体的历史起源（职业培训、经济效率、企业劳动控制）就被模糊化了。OECD 的报告中不谈工厂车间，只将能力抽象为一个关于 21 世纪学习者应该具备什么素养的普遍教育命题。这种去历史化的“空洞”特征，正是它能够被全球广泛接受的原因。
 
@@ -469,7 +472,7 @@ Castells 据此区分了两种空间逻辑：
 ---
 
 > [!warning] 自述局限
-> 本文明确承认分析范围的局限。三个语境之间并非只有全球→国家→实践这一条流通路径：存在不经过国家的全球学校网络直接交换信息，也存在对某些全球影响几乎完全不渗透的国家。文中的命题是探索性的（exploratory propositions），仅勾勒了一种特定的、在当代最具典型性的流通路径，并未试图构建关于三个语境互动的完备理论。此外，不同行动者类型（国际机构、企业、区域组织和大学）各自有其组织逻辑影响[[Discourse|话语]]类型，本文强调的是[[Global Policy Space\|全球政策空间]]作为整体的结构属性作为一个额外但重要的解释因素，并未否认行动者逻辑的差异性。
+> 本文明确承认分析范围的局限。三个语境之间并非只有全球→国家→实践这一条流通路径：存在不经过国家的全球学校网络直接交换信息，也存在对某些全球影响几乎完全不渗透的国家。文中的命题是探索性的（exploratory propositions），仅勾勒了一种特定的、在当代最具[[Typicality|典型性]]的流通路径，并未试图构建关于三个语境互动的完备理论。此外，不同行动者类型（国际机构、企业、区域组织和大学）各自有其组织逻辑影响[[Discourse|话语]]类型，本文强调的是[[Global Policy Space\|全球政策空间]]作为整体的结构属性作为一个额外但重要的解释因素，并未否认行动者逻辑的差异性。
 
 ---
 

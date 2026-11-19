@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 46
+fact_related_count: 47
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#fef3c7"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Evidence-Based Education]]"
   - "[[School Choice]]"
+  - "[[Neoliberalism]]"
   - "[[Determinism]]"
   - "[[Externalization]]"
 related_theories:
@@ -79,7 +80,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -164,7 +165,7 @@ updated: 2026-11-11
 > [!debates] 史学评价与当代争议
 >
 > > [!axis] 危机化是客观实证还是政治策略（危机建构论 vs 真实平庸论）
-> > 争论报告所描绘的教育平庸是严谨客观的实证结论，还是政治家为推行新自由主义与[[New Public Management\|新公共管理]]改革而蓄意制造的道德恐慌与政治修辞。
+> > 争论报告所描绘的教育平庸是严谨客观的实证结论，还是政治家为推行[[Neoliberalism|新自由主义]]与[[New Public Management\|新公共管理]]改革而蓄意制造的道德恐慌与政治修辞。
 > >
 > > - **批判政策社会学立场** 论证报告本质上是一场精密的危机化（Scandalization）政治操作，通过军事隐喻将复杂的社会矛盾窄化为学校教育质量问题，为推行标准化测试与绩效问责扫清了合法性障碍。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 8–10)]]; [[Argument_Rappleye_2006_RCIE\|(Rappleye, 2006, pp. 234–235)]]
 > > - **保守主义与新公管立场** 强调当时美国学生基础学科读写算能力的普遍滑坡和与日德工业[[Competitiveness|竞争力]]的脱节是真实存在的危机，唯有依靠卓越标准与全国性量化标尺才能重塑美国竞争力。

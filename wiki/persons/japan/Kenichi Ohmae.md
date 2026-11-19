@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: japan
 person_region: "japan"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ tags:
   - theme/corporate-strategy
   - region/japan
 related_concepts:
+  - "[[Neoliberalism]]"
   - "[[National Innovation System]]"
   - "[[National Competitive Advantage]]"
   - "[[Unit of Analysis]]"
@@ -39,14 +40,14 @@ related_facts:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-30
+updated: 2026-11-19
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 日本管理咨询顾问、战略学者、公共知识分子，曾任麦肯锡亚太区总裁兼董事总经理、加州大学洛杉矶分校公共政策学院教授。
-> - **核心角色** 20 世纪 90 年代新自由主义全球化与“无国界世界”（Borderless World）假说的代表人物与鼓吹者。
+> - **核心角色** 20 世纪 90 年代[[Neoliberalism|新自由主义]]全球化与“无国界世界”（Borderless World）假说的代表人物与鼓吹者。
 > - **代表贡献** 提出三极互联经济（Inter-linked Economy, ILE）学说，断言跨国公司扩张已全面消解民族国家的功能边界，引发了经济学界关于全球化与主权国家存废的激烈大论战。
 
 > [!citation-card] 人物定位的关键来源

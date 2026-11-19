@@ -8,10 +8,10 @@ aliases:
 summary: "个体在目标导向活动中主动调节注意、情绪与冲动反应以实现长远目标的非认知心理能力。在学习科学中，它构成了元认知调节与社会情感能力的底层基础，表现为反应抑制、情绪稳定与任务切换，对学业持久性与课堂适应具有关键支撑作用。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 49
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - self-control
   - executive-function
@@ -31,11 +31,11 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Surface and Deep Learning]]"
   - "[[School Norm Adaptation]]"
+  - "[[Learning Strategies]]"
   - "[[Learner Autonomy]]"
   - "[[Working Memory]]"
   - "[[Cognitive Flexibility]]"
   - "[[Lifelong Learning]]"
-  - "[[Learning Strategies]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Predictive Validity]]"
   - "[[Hawthorne Effect]]"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Prefrontal Cortex]]"
   - "[[Business as Usual]]"
   - "[[Grit]]"
+  - "[[Neoliberalism]]"
   - "[[Homophily]]"
   - "[[Structured Teaching]]"
   - "[[Dependent Variable]]"
@@ -79,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-06'
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 （自我控制）
@@ -102,7 +103,7 @@ updated: 2026-11-11
 > [!boundary]- 概念边界辨析
 > - **不等于 [[School Norm Adaptation\|学校规范适应]]** 学校规范适应侧重个体在外部组织规则和制度情境下的顺应状态；自我控制是个体内部自主发起的心智调控能力，是达成良好学校适应的核心心理前提。
 > - **不等于 阻碍学习行为** 阻碍学习行为是注意涣散、冲动作乱等外显行为问题；自我控制是抵御该类破坏性行为发生的内部核心保护机制。
-> - **不等于广义的 [[Self-Regulated Learning\|自我调节学习]]** 自我调节学习涵盖宏观目标规划、元认知监控、认知策略调用与反思调整的全周期认知架构；自我控制主要聚焦于执行层面克服即时冲动与维持任务注意的制动与稳定功能。
+> - **不等于广义的 [[Self-Regulated Learning\|自我调节学习]]** 自我调节学习涵盖宏观目标规划、元认知监控、[[Learning Strategies|认知策略]]调用与反思调整的全周期认知架构；自我控制主要聚焦于执行层面克服即时冲动与维持任务注意的制动与稳定功能。
 
 ---
 
@@ -222,7 +223,7 @@ updated: 2026-11-11
 > > - **特质派（Duckworth et al., 2007）** 强调[[Grit|坚毅]]（Grit）与自我控制是高度稳定的跨情境特质，能够持久预测学业与职业成就。
 > > - **自我损耗资源派（Baumeister et al., 1998）** 认为自我控制依赖有限的心智能量储备（Ego Depletion），连续高强度的自控会导致后续任务中的自律崩溃，需要休息与糖分补充。
 >
-> > [!axis] 自主能动性赋能 vs 新自由主义行为规训
+> > [!axis] 自主能动性赋能 vs [[Neoliberalism|新自由主义]]行为规训
 > > 探讨在公立教育中推行自我控制干预的价值导向。
 > >
 > > - **发展赋能立场（van Poortvliet et al., 2019）** 认为自我控制为弱势背景学生提供了克服逆境与自主掌控人生的关键心理工具，缩小了不平等差距。

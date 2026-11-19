@@ -6,7 +6,7 @@ aliases:
 summary: "把符号意义建构与结构物质过程放在同一分析框架中的理论，用于解释经济与政治秩序如何同时由话语和制度共同塑造"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 43
+theory_related_count: 44
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Social Imaginary]]"
   - "[[Determinism]]"
+  - "[[Neoliberalism]]"
   - "[[Ontology]]"
   - "[[Linguistic Turn]]"
   - "[[Epistemology]]"
@@ -68,7 +69,7 @@ related_instruments: []
 confidence: medium
 status: draft
 created: 2026-05-19
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -86,7 +87,7 @@ updated: 2026-11-11
 
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 英国社会学家[[Bob Jessop|鲍勃·杰索普]]（Bob Jessop）与岑丽玲（Ngai-Ling Sum）在《走向文化政治经济学》（*Towards a Cultural Political Economy: Putting Culture in Its Place in Post-Crisis Capitalist Economies*, 2013）中系统建构该理论。
-> - **原初问题** 2008年全球金融危机爆发后，既有经济学模型无法合理解释为何破产的新自由主义叙事能够通过[[Discourse|话语]]重塑迅速恢复统治地位，暴露了传统理论割裂“意义阐释”与“结构积累”的理论短板。
+> - **原初问题** 2008年全球金融危机爆发后，既有经济学模型无法合理解释为何破产的[[Neoliberalism|新自由主义]]叙事能够通过[[Discourse|话语]]重塑迅速恢复统治地位，暴露了传统理论割裂“意义阐释”与“结构积累”的理论短板。
 > - **理论资源与材料** 吸收了[[Evolutionary Economics|演化经济学]]的“变异—选择—保留”模型、[[Critical Realism|批判实在论]]的分层[[Ontology|本体论]]、[[Norman Fairclough|诺曼·费尔克拉夫]]（Norman Fairclough）的批判性[[Discourse Analysis|话语分析]]（[[Critical Discourse Analysis|CDA]]）、以及安东尼奥·葛兰西（Antonio Gramsci）的[[Hegemony|文化霸权]]与历史块垒概念。
 > - **形成路径** 将[[Linguistic Turn|语言学转向]]引入国家理论与积累体制分析，确立“符号化（Semiosis）”与“结构化（Structuration）”两条平行且交织的因果进路，把想象定位为连接微观主观意义与宏观客观体制的中介枢纽。
 

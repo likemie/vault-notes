@@ -8,7 +8,7 @@ aliases:
 summary: "北欧福利国家公共教育范式，以民主、团结、社会公平与全纳基础教育为核心原则；在全球化与循证治理冲击下，既展现出文化语言上的防御韧性，又在证据采信与改革机制上呈现显著的国别分化与隐秘跨国趋同。"
 type: concept
 domain: "comparative-education"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Global Education Industry]]"
   - "[[Activity Traps]]"
   - "[[Alienation]]"
+  - "[[Neoliberalism]]"
   - "[[Global Education Reform Movement]]"
   - "[[Research Utilization]]"
   - "[[Heterogeneity]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-22
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -117,7 +118,7 @@ updated: 2026-11-15
 > **全球测量霸权与价值侵蚀** 探讨国际经济组织如何借助标准化量化测评介入主权国家教育体系，导致传统福利教育的社会整合功能遭受削弱。
 
 > [!claim] [[Argument_Schaffar_2024_CogentEdu|Schaffar and Wolff (2024)]]
-> **最佳模型焦虑与新自由主义渗透** 20 世纪 90 年代以来的经济转型削弱了北欧福利模式的自主性，促使各国积极对接国际经济组织的技能话语。[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）的成功非但未能强化本土自主权，反而带来了维持最佳模型的制度焦虑，加速引入绩效测量与市场竞争逻辑，动摇了传统北欧模式所坚守的团结与人道主义根基。[[Argument_Schaffar_2024_CogentEdu|(Schaffar & Wolff, 2024, pp. 8–10)]]
+> **最佳模型焦虑与[[Neoliberalism|新自由主义]]渗透** 20 世纪 90 年代以来的经济转型削弱了北欧福利模式的自主性，促使各国积极对接国际经济组织的技能话语。[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）的成功非但未能强化本土自主权，反而带来了维持最佳模型的制度焦虑，加速引入绩效测量与市场竞争逻辑，动摇了传统北欧模式所坚守的团结与人道主义根基。[[Argument_Schaffar_2024_CogentEdu|(Schaffar & Wolff, 2024, pp. 8–10)]]
 
 ---
 

@@ -9,7 +9,7 @@ aliases:
 summary: "国家政权自上而下通过行政特许、强制规训与庇护网络将工人、教师、学生等社会群体编入单一垄断性代表机构的政治治理模式，在教育领域表现为执政同盟将教育政策作为补偿性合法化手段以维护国家霸权"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 13
+theory_related_count: 15
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -22,10 +22,12 @@ tags:
 related_concepts:
   - "[[Compensatory Legitimation]]"
   - "[[Creativity]]"
+  - "[[Neoliberalism]]"
   - "[[Research Question]]"
   - "[[Conatus]]"
 related_theories:
   - "[[Neocorporatism]]"
+  - "[[Developmental State]]"
   - "[[Hegemony]]"
   - "[[Pluralism]]"
 related_methods:
@@ -42,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -51,7 +53,7 @@ updated: 2026-11-11
 > - **解释对象** 威权政体或一党主导型后革命国家（尤其是拉美国家如 20 世纪墨西哥）自上而下整合社会力量、吸纳阶级对抗、维持政治稳定与推行国家干预政策的制度结构。
 > - **理论问题** 解释为何在缺乏成熟多元民主制与自由公民社会的国家，政治精英能够长期压制激进社会反抗，并将教育系统改造成维系国家霸权的核心枢纽。
 > - **理论类型** 政治社会学与比较政治经济学中层解释框架。
-> - **知识位置** 与西欧自下而上的社会[[Neocorporatism|法团主义]]（Societal Corporatism / [[Neocorporatism|新法团主义]]）相对立，属于威权与发展型国家理论谱系。
+> - **知识位置** 与西欧自下而上的社会[[Neocorporatism|法团主义]]（Societal Corporatism / [[Neocorporatism|新法团主义]]）相对立，属于威权与[[Developmental State|发展型国家理论]]谱系。
 
 > [!claim] 核心判断
 > 国家法团主义通过由国家依行政特许创设的非竞争性、强制性与层级分明的官方利益代表机构（如全国教师工会、官方农民联盟与产业工会），将大众动性能收编进国家恩庇网络；在教育治理中，国家凭借法团网络垄断教师录用、课程审查与资源配置，并将教育扩张作为[[Compensatory Legitimation|补偿性合法化]]的政治杠杆，换取社会各阶层对政权霸权的妥协与效忠。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
@@ -67,7 +69,7 @@ updated: 2026-11-11
 > [!dev-timeline] 理论版本与贡献
 > - **1974 — 施密特双轨划分** 明确国家法团主义源自威权国家的自上而下强加与政治庇护，社会各单位丧失自主组织权。
 > - **1990/1991 — 教育政治社会学奠基** Torres 与 Morales-Gómez 提出国家法团主义下的教育政策制定模式，指出教育是维持国家霸权的关键补偿工程。
-> - **2009 — 新自由主义转型与解体** Olmos 与 Torres 指出随着全球化与新自由主义结构调整推进，国家财政撤资与去中心化削弱了传统法团同盟的恩庇物质基础，导致国家法团主义治理陷入合法性危机。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–85)]]
+> - **2009 — [[Neoliberalism|新自由主义]]转型与解体** Olmos 与 Torres 指出随着全球化与新自由主义结构调整推进，国家财政撤资与去中心化削弱了传统法团同盟的恩庇物质基础，导致国家法团主义治理陷入合法性危机。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–85)]]
 
 ---
 

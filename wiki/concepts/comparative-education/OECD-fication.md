@@ -9,7 +9,7 @@ aliases:
 summary: "经合组织在缺乏法定强制力与财政制裁的情形下，依托跨国大规模量化测评、人力资本话语与软法规制，将原本属于民族国家主权专属管辖的公共教育转变为服务于知识经济与经济竞争力的国际基准议程，驱动全球教育政策向其评价标尺与治理范式实质趋同的宏观历史演进过程"
 type: concept
 domain: "comparative-education"
-related_count: 56
+related_count: 57
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Policy Conditionalities]]"
   - "[[International Education]]"
   - "[[Governing by Numbers]]"
+  - "[[Neoliberalism]]"
   - "[[Policy Borrowing]]"
   - "[[Reference Society]]"
   - "[[Commensuration]]"
@@ -85,7 +86,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -105,7 +106,7 @@ updated: 2026-11-15
 
 > [!boundary]- 概念边界
 > - 不等于 **教育全球化（Educational Globalization）** 教育全球化涵盖跨国人员流动、多元文化交流、教育援助与思想传播等多向度历史进程；经合组织化专指以 OECD 测量标准与人力资本理念为轴心的技术官僚治理范式趋同。
-> - 不等于 **新自由主义教育改革（Neoliberal Education Reform）** 新自由主义是宏观意识形态思潮；经合组织化是该思潮在当代国际关系与比较教育领域依托测量技术、指标网络与[[Peer Debriefing|同行审议]]具体落地的制度化组织形态。
+> - 不等于 **[[Neoliberalism|新自由主义]]教育改革（Neoliberal Education Reform）** 新自由主义是宏观意识形态思潮；经合组织化是该思潮在当代国际关系与比较教育领域依托测量技术、指标网络与[[Peer Debriefing|同行审议]]具体落地的制度化组织形态。
 
 ---
 

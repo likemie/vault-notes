@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 44
+person_related_count: 48
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Social Impact Investing]]"
   - "[[Efficacy Framework]]"
   - "[[Discourse]]"
+  - "[[Neoliberalism]]"
   - "[[Technical Rationality]]"
   - "[[Tracking]]"
   - "[[New Public Management]]"
@@ -56,10 +57,13 @@ related_persons:
   - "[[Michael Traill]]"
   - "[[Paul Morris]]"
   - "[[Stephen Ball]]"
+  - "[[Zongyi Deng]]"
+  - "[[Saravanan Gopinathan]]"
 related_facts:
   - "[[Department for Education]]"
   - "[[Education Endowment Foundation]]"
   - "[[The Importance of Teaching]]"
+  - "[[National Institute of Education]]"
   - "[[Higher Education Act of 1965]]"
   - "[[PISA]]"
   - "[[TIMSS]]"
@@ -78,7 +82,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-04
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -97,7 +101,7 @@ updated: 2026-11-18
 
 > [!timeline] 生平与职涯
 > - **1955** 出生于英国；后毕业于牛津大学彭布罗克学院（Pembroke College, Oxford），曾短暂担任中学历史教师及全国教师工会（National Union of Teachers, NUT）政策官员。
-> - **1992–1997** 出任基尔大学（Keele University）教育学教授，随后受聘为伦敦大学教育学院（Institute of Education, IOE）教育政治学教授，积极介入英国国家课程与[[School Effectiveness\|学校效能]]讨论。
+> - **1992–1997** 出任基尔大学（Keele University）教育学教授，随后受聘为伦敦大学教育学院（[[National Institute of Education|Institute of Education]], IOE）教育政治学教授，积极介入英国国家课程与[[School Effectiveness\|学校效能]]讨论。
 > - **1997–2001 — 执掌工党政府学校标准与效能组** 随着布莱尔领导的“新工党”上台，受邀出任英国教育与就业部（DfEE）学校标准首席顾问兼学校标准与效能组（SEU）负责人，将[[School Effectiveness\|学校效能]]（School Effectiveness）语言与达标指标成体系地注入英国国家政策机器（[[Argument_Ball_2008_SR\|Ball, 2008, p. 663]]）。
 > - **2001–2005 — 创立并执掌首相交付组** 在布莱尔内阁核心设立并领导首相交付组（PDU），开创以高层政治授权、量化目标分解、定期例会研判与危机干预为核心的“交付学”（Deliverology）治理模式，集中整治医疗、教育、交通与治安瓶颈。
 > - **2005–2011 — 掌舵麦肯锡全球教育业务与启发国家证据机构筹建** 加盟跨国战略咨询巨头麦肯锡公司担任合伙人兼全球教育业务主管，主持撰写里程碑式全球教育调研报告；在此期间，其关于教师素质与因果干预的咨询理念直接渗透至卡梅伦与克莱格联合政府，深刻启发了教育大臣[[Michael Gove\|迈克尔·戈夫]]（Michael Gove）在 2010 年白皮书[[The Importance of Teaching\|《教学的重要性》]]中提出创设独立证据基金会，直接促成 [[Education Endowment Foundation\|EEF]] 的法定落地（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 6]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）。
@@ -122,7 +126,7 @@ updated: 2026-11-18
 >     - **功效体系（[[Efficacy Framework]]）** 在培生全球产品线强制推行“功效审计”，要求所有商业教育产品与服务必须接受实证效能考核，将交付学评估哲学制度化为企业产品研发标准。
 >     - **《学习曲线》（The Learning Curve）全球报告** 以“民调的民调”（poll of polls）形式整合[[PISA|国际学生评估项目]]（PISA）与[[TIMSS|国际数学与科学趋势研究]]（TIMSS）等认知测验数据，打造全球教育体系效能综合排行榜，将商业咨询的国际标杆比拼推向极致。
 >     - **培生可负担学习基金（PALF）与全球南方投资** 亲任 PALF 董事会主席，与凯特琳·唐纳利（Katelyn Donnelly）共同设立并追加至 6500 万美元资本，在巴基斯坦、印度、加纳、菲律宾等国大举入股营利性低收费私立学校（如 Omega Schools、Bridge International Academies 等）；运用“[[Social Impact Investing|社会影响力投资]]”的[[Discourse|话语]]修辞将资本扩张包装为援助发展，在第三世界开辟跨国教育资本新领地（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 81–82]]）。
->   - **阶段转向** 游走于公共机构、跨国商业巨头与第三方智库之间，成为新自由主义教育治理中典型的混合型政策企业家（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 47–64]]）。
+>   - **阶段转向** 游走于公共机构、跨国商业巨头与第三方智库之间，成为[[Neoliberalism|新自由主义]]教育治理中典型的混合型政策企业家（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 47–64]]）。
 
 ---
 
@@ -151,7 +155,7 @@ updated: 2026-11-18
 > [!person-network] 关系网络
 > - **政界盟友与委托人** 托尼·布莱尔（Tony Blair，英国前首相）— 亲自设立并授权首相交付组，为其交付学体系提供国家中枢政治后盾；[[Michael Gove|迈克尔·戈夫]]（Michael Gove，英国前教育大臣）— 深度接受其麦肯锡咨询理念，在白皮书中规划设立 [[Education Endowment Foundation|EEF]]。
 > - **政策咨询与智库网络** [[Michael Traill|迈克尔·特雷尔]]（Michael Traill） — 其全球咨询网络与麦肯锡前高管网络协同，推动英国 EEF 证据中介模式向[[Evidence for Learning|澳大利亚证据学习中心]]（[[Evidence for Learning|E4L]]）转译（[[Argument_Rowe_2023_ECNUROE|Rowe, 2023, p. 530]]）。
-> - **批评者与学术论敌** [[Paul Morris|保罗·莫里斯]]（Paul Morris）与尤恩·奥尔德（Euan Auld）— 深入剖析巴伯思想中救赎主义政治神学修辞与技术官僚霸权（[[Argument_Cowen_2023_CE|Cowen, 2023, p. 334]]）；[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen Ball）— 批判其推动[[School Effectiveness|学校效能]]与绩效度量入侵国家行政机器（[[Argument_Ball_2008_SR|Ball, 2008, p. 663]]）；埃德温娜·罗威（Edwina Rowe）— 揭示其代表的麦肯锡全球网络对英澳两国[[Evidence-Based Education|循证教育]]与[[Venture Philanthropy|风险慈善]]中介的深层装配（[[Argument_Rowe_2022_IJER|Rowe, 2022, p. 6]]；[[Argument_Rowe_2023_ECNUROE|Rowe, 2023, pp. 530–531]]）；邓宗怡（Zongyi Deng）与高平纳坦（S. Gopinathan）— 系统解构其主导的麦肯锡高绩效报告将新加坡成功化约为去情境化输入-产出公式的致命偏误（[[Argument_Deng_2016_CE|Deng & Gopinathan, 2016]]）。
+> - **批评者与学术论敌** [[Paul Morris|保罗·莫里斯]]（Paul Morris）与尤恩·奥尔德（Euan Auld）— 深入剖析巴伯思想中救赎主义政治神学修辞与技术官僚霸权（[[Argument_Cowen_2023_CE|Cowen, 2023, p. 334]]）；[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen Ball）— 批判其推动[[School Effectiveness|学校效能]]与绩效度量入侵国家行政机器（[[Argument_Ball_2008_SR|Ball, 2008, p. 663]]）；埃德温娜·罗威（Edwina Rowe）— 揭示其代表的麦肯锡全球网络对英澳两国[[Evidence-Based Education|循证教育]]与[[Venture Philanthropy|风险慈善]]中介的深层装配（[[Argument_Rowe_2022_IJER|Rowe, 2022, p. 6]]；[[Argument_Rowe_2023_ECNUROE|Rowe, 2023, pp. 530–531]]）；[[Zongyi Deng|邓宗怡]]（Zongyi Deng）与[[Saravanan Gopinathan|高平纳坦]]（S. Gopinathan）— 系统解构其主导的麦肯锡高绩效报告将新加坡成功化约为去情境化输入-产出公式的致命偏误（[[Argument_Deng_2016_CE|Deng & Gopinathan, 2016]]）。
 
 ---
 

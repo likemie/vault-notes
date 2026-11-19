@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 subtype: scholar
 person_region: "uk"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -29,6 +29,7 @@ tags:
   - theme/sociology-of-education
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Neoliberalism]]"
   - "[[European Education Space]]"
   - "[[School Inspection]]"
   - "[[Positivism]]"
@@ -57,14 +58,14 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国著名教育社会学家与政策分析学者，牛津大学教育学系社会政策荣休讲座教授（Professor of Sociology of Education），英国国家学术院院士（Fellow of the British Academy, FBA），欧洲教育研究协会（EERA）前执委。
-> - **核心角色** 当代欧洲教育政策社会学质性网络与数据治理批判[[Paradigm|范式]]的开山宗师；长期致力于揭示新自由主义、跨国评价（[[PISA]]）与国家审计如何通过数据、指标与督导，重塑从布鲁塞尔到地方学校的权力拓扑网络。
+> - **核心角色** 当代欧洲教育政策社会学质性网络与数据治理批判[[Paradigm|范式]]的开山宗师；长期致力于揭示[[Neoliberalism|新自由主义]]、跨国评价（[[PISA]]）与国家审计如何通过数据、指标与督导，重塑从布鲁塞尔到地方学校的权力拓扑网络。
 > - **代表贡献** 奠定批判性教育政策社会学质性分析规程（*Policy Research in Educational Settings*）；开辟[[European Education Space|欧洲教育空间]]与数据化治理研究议程；提出知识告知政策与知识构成政策的经典两分（Issakyan & Ozga, 2008; Ozga, 2011）；深度孕育并指导了以格雷克、林德格伦等为代表的新一代欧洲[[Governing by Inspection|督导治理]]学派。
 
 ---

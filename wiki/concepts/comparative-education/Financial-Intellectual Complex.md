@@ -8,7 +8,7 @@ aliases:
 summary: "由乔尔·萨莫夫（Joel Samoff）提出、用以剖析世界银行等国际金融组织霸权机制的批判性概念。它揭示了多边信贷附加条件与定向委托研究之间的深度绑定，通过雇佣专家共同体与新古典经济学、人力资本理论及厂商理论，将投入产出与收益率分析裁定为唯一合法的方法论标准，重塑发展中国家的教育政策议程。"
 type: concept
 domain: "comparative-education"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Epistemic Value]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Selective Affinity]]"
+  - "[[Neoliberalism]]"
   - "[[Categorical Funding]]"
   - "[[Politicity of Education]]"
   - "[[Heterogeneity]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-11-03
+updated: 2026-11-19
 ---
 
 ---
@@ -102,7 +103,7 @@ updated: 2026-11-03
 > - **受雇专家共同体（Community of Experts for Hire）** 凭借雄厚预算招募跨国顾问团队，排挤缺乏量化模型支持的本土学者，垄断政策建言渠道。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 80)]]
 > - **方法论合法性裁量权（Methodological Legitimacy）** 仅将[[Cost-Benefit Analysis|成本效益分析]]、生均成本核算、标准化投入产出等量化工具界定为正当科学，将历史与政治经济视角的[[Qualitative Research|质性研究]]斥为不严谨。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 81)]]
 > - **单一体信贷逻辑（Monolithic Lending Logic）** 尽管[[World Bank|世行]]内部研究人员观点存在多元性，但贷款部门在实际操作中采取高度单一化的市场逻辑，直接将私有化、去中心化和使用者付费写入贷款协议。(Samoff, 1992, 1993)
-> - **跨国政策亲和性同盟（Elective Affinity）** 与[[Business Roundtable|美国商业圆桌会]]议（Business Roundtable）等跨国企业利益集团形成[[Selective Affinity|选择性亲和]]，共同在全球推进新自由主义教育改革。(Schugurensky, 1994)
+> - **跨国政策亲和性同盟（Elective Affinity）** 与[[Business Roundtable|美国商业圆桌会]]议（Business Roundtable）等跨国企业利益集团形成[[Selective Affinity|选择性亲和]]，共同在全球推进[[Neoliberalism|新自由主义]]教育改革。(Schugurensky, 1994)
 
 > [!logic-map]- 要素关系与运作流程
 > ```mermaid

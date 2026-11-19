@@ -8,7 +8,7 @@ cssclasses:
   - person-page
 nationality: "sweden"
 person_region: "sweden"
-person_related_count: 37
+person_related_count: 38
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Further Education]]"
   - "[[Paradigm]]"
+  - "[[Neoliberalism]]"
   - "[[Competitiveness]]"
   - "[[Performance Indicators]]"
   - "[[Governing by Numbers]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -105,7 +106,7 @@ updated: 2026-11-15
 > - **1971–1979 — 北欧福利国家[[Paradigm\|范式]]与“循环教育”理想** 试图在冷战技术官僚规划之外建立以公民自我实现、工作-休闲交替与教育公平为导向的[[Lifelong Learning\|终身学习]]人文主义构想。
 >   - **代表著作** *Recurrent Education: A Strategy for Lifelong Learning* (OECD/CERI, 1973)。
 >   - **关键概念／方法** [[Lifelong Learning]]、Equality of Educational Opportunity。
->   - **阶段转向** 随着 1970 年代末西方滞胀危机与新自由主义兴起，福利主义循环教育方案因预算高昂在各国受挫，本特森敏锐意识到必须转向为经济绩效服务的务实路线。
+>   - **阶段转向** 随着 1970 年代末西方滞胀危机与[[Neoliberalism|新自由主义]]兴起，福利主义循环教育方案因预算高昂在各国受挫，本特森敏锐意识到必须转向为经济绩效服务的务实路线。
 > - **1980–1991 — 危机驱动下的指标转向与 [[International Indicators of Education Systems\|INES]] 架构奠定** 紧扣欧美各国对公立学校效率低下与国际[[Competitiveness|竞争力]]下滑的恐慌，以建立跨国可比[[Performance Indicators\|绩效指标]]为突破口，重新恢复 [[OECD]] 的核心政策影响力。
 >   - **代表著作** *The INES Project: Design and Operational Guidelines* (CERI, 1988)。
 >   - **关键概念／方法** [[Performance Indicators]]、[[International Indicators of Education Systems]]、[[Education at a Glance]]。

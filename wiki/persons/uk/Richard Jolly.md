@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ tags:
   - undp
   - global-education-governance
 related_concepts:
+  - "[[Neoliberalism]]"
   - "[[Washington Consensus]]"
   - "[[Document]]"
   - "[[Discourse]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-06
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -64,7 +65,7 @@ updated: 2026-11-11
 
 > [!timeline] 生平与职涯
 > - **1934** 出生于英国萨塞克斯，后就读于剑桥大学并获切斯特菲尔德奖学金，赴美国哥伦比亚大学获得经济学博士学位。
-> - **1972–1981** 出任萨塞克斯大学发展研究院（IDS）院长，将该机构打造为批判新自由主义[[Washington Consensus|华盛顿共识]]与倡导人类基本需求取向的跨学科重镇。
+> - **1972–1981** 出任萨塞克斯大学发展研究院（IDS）院长，将该机构打造为批判[[Neoliberalism|新自由主义]][[Washington Consensus|华盛顿共识]]与倡导人类基本需求取向的跨学科重镇。
 > - **1982–1995** 出任联合国儿童基金会副执行主任，协助执行主任吉姆·格兰特（Jim Grant）推动“儿童生存与发展革命”（CSDR），并主持撰写《具有人道面孔的结构调整》（1987），力主国际借贷必须保障基础教育与初级卫生保健支出。[[Argument_King_2007_CE|(King, 2007, p. 389)]]
 > - **1996–2000** 调任联合国开发计划署署长高级顾问，主导《人类发展报告》办公室的全球指标研制与跨国协调，深度参与 IDTs 与千年发展目标（MDGs）的指标框架磋商。[[Argument_King_2007_CE|(King, 2007, p. 389)]]
 > - **2000s** 出任联合国知识历史项目（UN Intellectual History Project）联合主任，系统总结战后半个多世纪联合国在经济社会发展理念上的制度遗产与政治演变。

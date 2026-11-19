@@ -43,6 +43,7 @@ related_concepts:
   - "[[Transnational Education]]"
   - "[[General Purpose Technology]]"
   - "[[Gamification]]"
+  - "[[Neoliberalism]]"
   - "[[School Autonomy]]"
   - "[[Academic Achievement]]"
   - "[[Performance Indicators]]"
@@ -101,14 +102,14 @@ sources:
 part_of: ""
 status: active
 created: 2026-10-22
-updated: 2026-11-11
+updated: 2026-11-19
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Zapp_2017_IJED"
 argument_key: "Argument_Zapp_2017_IJED"
 argument_display_title: "The World Bank and education: Governing (through) knowledge"
 argument_kind: "journal-article"
-argument_related_count: 71
+argument_related_count: 72
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -350,7 +351,7 @@ issuing_organization: ""
 > [!feature] 虚拟研修与专业资格认证体系
 > - **在线平台构建** [[World Bank Institute|世界银行学院]]（World Bank Institute, WBI）与 2013 年上线的[[Open Learning Campus|开放学习园区]]（OLC）开设了超过 100 门交互式网络研修课程，配有移动应用、播客、视频成功案例与多媒体工具包。
 > - **名校与专业平台联手** 与剑桥大学、爱默生学院、Coursera、edX 等机构建立深度合作，开展[[Gamification|游戏化]]、体验式、同行互评的高阶互动培训，并对合格学员发放获得学术认证的专业证书。
-> - **核心处方课程灌输** 核心课程紧密围绕世行提倡的新自由主义治理机制展开，如[[School Autonomy|学校自主]]与问责、早期儿童发展、学生学业评价及教师激励政策，定向培育认同世行技术方案的借款国技术官僚后备军。
+> - **核心处方课程灌输** 核心课程紧密围绕世行提倡的[[Neoliberalism|新自由主义治理]]机制展开，如[[School Autonomy|学校自主]]与问责、早期儿童发展、学生学业评价及教师激励政策，定向培育认同世行技术方案的借款国技术官僚后备军。
 
 > [!sub-claim] 2. 十亿美元级借贷项目将主权国教育体制转变为微观实验场
 

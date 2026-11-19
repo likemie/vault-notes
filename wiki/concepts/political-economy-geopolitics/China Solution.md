@@ -8,10 +8,10 @@ aliases:
 summary: "当代中国外交大战略与全球治理哲学的核心规范性概念。指中国依托自身发展型国家实践、制度治理效能与现代化经验，向国际社会提供的一套区别于西方新自由主义模式的跨国公共产品与治理方案；在高等教育与知识外交实践中，通过输出中国工程技术标准、建立联合攻关网络与推动非西方治理经验互鉴，充当重塑国际权力与知识格局的关键话语透镜。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 28
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - political-economy
   - geopolitics
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Education Going Global]]"
   - "[[Telling China's Story Well]]"
   - "[[Washington Consensus]]"
+  - "[[Neoliberalism]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Knowledge Diplomacy]]"
@@ -41,6 +42,7 @@ related_concepts:
   - "[[Developmentalism]]"
   - "[[Technology Transfer]]"
 related_theories:
+  - "[[Developmental State]]"
   - "[[Academic Capitalism]]"
 related_methods:
   - "[[Narrative Analysis]]"
@@ -56,13 +58,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
 
 > [!def] China Solution
-> **中国方案（China Solution，常与“中国智慧”并提）** 是当代中国大国外交大战略与全球治理哲学的核心规范性[[Discourse|话语]]范畴。指中国官方依托过去数十年经济快速增长、减贫实践、强政府统筹与基础设施现代化累积的发展型国家经验，向国际社会尤其是广大全球南方发展中国家提供的一整套跨国制度治理方案与替代性公共产品。在批判政策社会学与[[Geopolitics of Higher Education|高等教育地缘政治]]视阈下，“中国方案”构成了与[[Beijing Consensus|北京共识]]和[[Community of Shared Future for Mankind|人类命运共同体]]紧密锚定的[[Grand Theory|宏大叙事]]。在[[Education Going Global|教育出海]]实践中，它以“[[Telling China's Story Well|讲好中国故事]]”与“推广中国模式”为显性指引，通过向海外输出中国工程技术标准、组建国际高教科技协同联盟以及开展定向技术人才培养，承担着输出非西方治理经验与重塑全球治理格局的重要战略使命。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–691)]]
+> **中国方案（China Solution，常与“中国智慧”并提）** 是当代中国大国外交大战略与全球治理哲学的核心规范性[[Discourse|话语]]范畴。指中国官方依托过去数十年经济快速增长、减贫实践、强政府统筹与基础设施现代化累积的[[Developmental State|发展型国家]]经验，向国际社会尤其是广大全球南方发展中国家提供的一整套跨国制度治理方案与替代性公共产品。在批判政策社会学与[[Geopolitics of Higher Education|高等教育地缘政治]]视阈下，“中国方案”构成了与[[Beijing Consensus|北京共识]]和[[Community of Shared Future for Mankind|人类命运共同体]]紧密锚定的[[Grand Theory|宏大叙事]]。在[[Education Going Global|教育出海]]实践中，它以“[[Telling China's Story Well|讲好中国故事]]”与“推广中国模式”为显性指引，通过向海外输出中国工程技术标准、组建国际高教科技协同联盟以及开展定向技术人才培养，承担着输出非西方治理经验与重塑全球治理格局的重要战略使命。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–691)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种以强国家引领、集中力量办大事、发展优先与务实互利为特征的非西方现代化治理实践模式与全球公共产品供给体系。
@@ -75,7 +77,7 @@ updated: 2026-11-11
 > *China was standing on a higher and broader international stage... to dedicate more Chinese Wisdom to the world, provide more Chinese programs [solutions], and work with other countries to build a harmonious world... The Chinese Model and Chinese Wisdom and Solutions have since been used in tandem or interchangeably for transnational governance problems.*
 
 > [!boundary]- 概念边界
-> - 区别于 [[Washington Consensus|华盛顿共识]]（Washington Consensus） — 华盛顿共识将大学自治、新自由主义市场竞争与代议制民主作为普遍[[Paradigm|范式]]；中国方案主张发展型国家统筹、社会稳定优先以及教育对国家重大战略工程的高效协同。
+> - 区别于 [[Washington Consensus|华盛顿共识]]（Washington Consensus） — 华盛顿共识将大学自治、[[Neoliberalism|新自由主义]]市场竞争与代议制民主作为普遍[[Paradigm|范式]]；中国方案主张发展型国家统筹、社会稳定优先以及教育对国家重大战略工程的高效协同。
 > - 区别于单纯的官方对外援助公关 — 中国方案不仅包含具体的物质与奖学金资助，更强调在[[Epistemology|认识论]]层面输出非西方的发展哲学与治理智慧，重构全球知识与权力格局。
 
 ---

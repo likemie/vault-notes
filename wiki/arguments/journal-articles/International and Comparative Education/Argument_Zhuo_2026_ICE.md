@@ -20,6 +20,7 @@ tags:
   - source/journal-article
 related_concepts:
   - "[[Research Universities]]"
+  - "[[Neoliberalism]]"
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
   - "[[Innovation Ecosystem]]"
@@ -56,6 +57,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Kenneth Burke]]"
+  - "[[Charles Taylor]]"
 related_facts:
   - "[[CHIPS and Science Act]]"
   - "[[Department of Commerce]]"
@@ -77,14 +79,14 @@ sources:
 part_of:
 status: active
 created: 2026-10-09
-updated: 2026-10-29
+updated: 2026-11-19
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Zhuo_2026_ICE"
 argument_key: "Argument_Zhuo_2026_ICE"
 argument_display_title: "美国研究型大学在国家半导体体系中的角色重构"
 argument_kind: "journal-article"
-argument_related_count: 47
+argument_related_count: 49
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -97,7 +99,7 @@ issuing_organization: ""
 ---
 
 > [!question]
-> 在全球半导体产业链剧烈重组、先进制造能力外移与大国地缘科技博弈持续升温的时代背景下，美国如何通过《[[CHIPS and Science Act|芯片与科学法案]]》等战略立法将半导体产业提升至国家安全与战略主权层面进行统筹？美国[[Research Universities|研究型大学]]如何打破传统新自由主义市场中立与象牙塔式[[Knowledge Production|知识生产]]的[[Paradigm|范式]]，在国家半导体体系中实现技术策源、制造支撑、生态整合与制度赋能的多维功能重构？这种系统性嵌入如何通过具体案例重塑产业[[Innovation Ecosystem|创新生态]]，又在学术自主、国际开放合作与国家安全目标之间引发了何种深层制度张力？
+> 在全球半导体产业链剧烈重组、先进制造能力外移与大国地缘科技博弈持续升温的时代背景下，美国如何通过《[[CHIPS and Science Act|芯片与科学法案]]》等战略立法将半导体产业提升至国家安全与战略主权层面进行统筹？美国[[Research Universities|研究型大学]]如何打破传统[[Neoliberalism|新自由主义]]市场中立与象牙塔式[[Knowledge Production|知识生产]]的[[Paradigm|范式]]，在国家半导体体系中实现技术策源、制造支撑、生态整合与制度赋能的多维功能重构？这种系统性嵌入如何通过具体案例重塑产业[[Innovation Ecosystem|创新生态]]，又在学术自主、国际开放合作与国家安全目标之间引发了何种深层制度张力？
 
 > [!claim] 核心主张
 > 美国[[Research Universities|研究型大学]]的角色已由传统的上游中立知识供给者，拓展为连接教育、科技、人才和产业体系的关键制度节点；通过基础研究引领、多层级工程人才培养、跨区域多圈层网络建构与跨部门治理平台嵌入，大学在显著提升国家半导体体系组织韧性与技术主权的同时，也因竞争逻辑的[[Securitization of Technology|技术安全化]]转向而承受着学术自主挤压、科研生态封闭化与国际合作受阻的内在制度冲突。
@@ -246,7 +248,7 @@ issuing_organization: ""
 
 > [!pathways] 制度赋能与生态自循环的三大路径
 > - **产业政策与技术路线引导** 大学依托跨学科[[University-Industry Collaboration|产学合作]]经验参与制定国际半导体技术路线图（International Technology Roadmap for Semiconductors, ITRS），持续影响国家战略规划与产业规则。
-> - **区域正向价值循环激活** 德克萨斯大学奥斯汀分校吸引韩国三星电子（在泰勒市建厂）捐资 370 万美元，用于支持 Cockrell 工程学院本硕博学生奖学金、前沿课题与实验室升级，形成大学策源、产业集聚、人才涌入与资金反哺的良性自循环（SAMSUNG, 2023）。
+> - **区域正向价值循环激活** 德克萨斯大学奥斯汀分校吸引韩国三星电子（在[[Charles Taylor|泰勒]]市建厂）捐资 370 万美元，用于支持 Cockrell 工程学院本硕博学生奖学金、前沿课题与实验室升级，形成大学策源、产业集聚、人才涌入与资金反哺的良性自循环（SAMSUNG, 2023）。
 > - **战略缓冲池与系统韧性构筑** 麻省理工学院等高校通过跨学科[[Knowledge Integration|知识整合]]平台（Bonvillian & Singer, 2018; Miller, 2024），将工程科学、供应链管理与国家创新政策交叉研究，前瞻储备前沿技术，避免产业在短期市场信号下形成错误的路径锁定。
 
 ---

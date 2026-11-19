@@ -16,7 +16,7 @@ aliases:
 summary: "指通过量化指标、跨国测评与数据比较实现全球教育治理的软性机制，又译数目化治理或以数字治理。Grek (2009) 奠基该概念，Rizvi 与 Lingard (2009) 揭示经合组织依托 PISA 自建跨国等价空间并推行“数字即政策”，以技术排位压制价值判断并维系知识经济社会想象；Steiner-Khamsi et al.（2024）进一步拓展为数目化治理 2.0，聚焦信息过载下政策中介的证据包装与组织利基争夺。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 60
+related_count: 61
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Soft Power]]"
   - "[[Alienation]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Neoliberalism]]"
   - "[[Cognitive Authority]]"
   - "[[Relational Space]]"
   - "[[Heterogeneity]]"
@@ -97,7 +98,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-05
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -178,7 +179,7 @@ updated: 2026-11-15
 > **数字治理的双向互动机制** PISA 与国家教育改革之间存在双向互动：各国政策制定者利用 PISA 数据来验证和推动国内已有的改革议程，同时又因国际排名压力而调整政策方向以回应外部审视。[[Argument_Li_2025_HSSC\|(Li et al., 2025)]]
 
 > [!claim] [[Fazal Rizvi|Rizvi, F.]] & [[Bob Lingard|Lingard, B.]] (2009) & Rose (1999)
-> **跨国等价空间自产与“数字即政策”的价值隐形化机制** 法扎尔·里兹维与鲍勃·林加德结合[[Alain Desrosières|阿兰·德罗西埃]]（Desrosières, 1998）与[[Nikolas Rose|尼古拉斯·罗斯]]（Rose, 1999）的理论指出，国际学生评估项目（[[PISA]]）之所以能构建起空前强大的跨国软治理网络，关键在于其跳过各国现成统计数据，委托专门的跨国专家财团独立生产专属全球数据流。这一过程极度注重跨国可比性与“等价空间”（[[Space of Equivalence]]）的均一性，将测量[[Reliability|信度]]置于[[Ontology|本体论]]与本土[[Construct Validity|构念效度]]之上。经合组织推行的“数字即政策”（policy as numbers）展现出独特的治理力量：数字“使构成测量、量表和分值的复杂判断与决策阵列隐形化，从而使其变得不可争辩”（Rose, 1999: 208）。各国政界与媒体对 PISA 排行榜的狂热追逐，使技术性排位赛凌驾于政治哲学讨论之上，将深层教育目的和公平议题技术化为狭隘的学校准入与效能指标，强力维系了[[Knowledge-Based Economy|知识经济]]的新自由主义[[Social Imaginary|社会想象]]。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
+> **跨国等价空间自产与“数字即政策”的价值隐形化机制** 法扎尔·里兹维与鲍勃·林加德结合[[Alain Desrosières|阿兰·德罗西埃]]（Desrosières, 1998）与[[Nikolas Rose|尼古拉斯·罗斯]]（Rose, 1999）的理论指出，国际学生评估项目（[[PISA]]）之所以能构建起空前强大的跨国软治理网络，关键在于其跳过各国现成统计数据，委托专门的跨国专家财团独立生产专属全球数据流。这一过程极度注重跨国可比性与“等价空间”（[[Space of Equivalence]]）的均一性，将测量[[Reliability|信度]]置于[[Ontology|本体论]]与本土[[Construct Validity|构念效度]]之上。经合组织推行的“数字即政策”（policy as numbers）展现出独特的治理力量：数字“使构成测量、量表和分值的复杂判断与决策阵列隐形化，从而使其变得不可争辩”（Rose, 1999: 208）。各国政界与媒体对 PISA 排行榜的狂热追逐，使技术性排位赛凌驾于政治哲学讨论之上，将深层教育目的和公平议题技术化为狭隘的学校准入与效能指标，强力维系了[[Knowledge-Based Economy|知识经济]]的[[Neoliberalism|新自由主义]][[Social Imaginary|社会想象]]。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 
 ---
 

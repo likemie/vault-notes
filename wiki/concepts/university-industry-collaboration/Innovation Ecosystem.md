@@ -9,7 +9,7 @@ aliases:
 summary: "由大学、企业、政府、供应链供应商、中介机构与资本市场通过多维网络互动共同催化、转化与扩散创新的复合自组织系统；具有基于地点与全球网络两种形态，其演进依赖于基础科研锚点、需求侧采购拉动、纵向供应链协同与开放知识产权环境。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 105
+related_count: 106
 related_level: 10
 related_stars: "💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -58,6 +58,7 @@ related_concepts:
   - "[[Industry Affiliate Program]]"
   - "[[Heterogeneity]]"
   - "[[Research Translation]]"
+  - "[[Neoliberalism]]"
   - "[[Variable]]"
   - "[[Linear Model of Innovation]]"
   - "[[Knowledge-Based Economy]]"
@@ -133,7 +134,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -353,7 +354,7 @@ updated: 2026-11-15
 > > [!axis] 生态协调机制：自发市场神话 vs [[Developmental Network State|发展型网络国家]]协调（及虚构商品化张力）
 > > 争论创新生态的动力究竟源于风险资本与私营企业自发的市场选择，还是依赖发展型网络国家的跨界协调与公共托底；以及排他性专利商业化是否破坏了协同生态。
 > >
-> > - **[[Argument_Block_2008_PS|Block (2008)]]** 论证指出所谓的自由市场与风险投资神话遮蔽了真实结构，后工业创新生态实质是以公共部门为中枢的发展型网络国家（DNS），联邦与公立资本在早期技术开发中出资近三分之一承担基础托底。同时，[[Fred Block|布洛克]]警示新自由主义将科学知识彻底专利化的虚构商品化倾向，正导致专利壁垒丛生，阻断了跨机构研发网络的信任与开放协同。
+> > - **[[Argument_Block_2008_PS|Block (2008)]]** 论证指出所谓的自由市场与风险投资神话遮蔽了真实结构，后工业创新生态实质是以公共部门为中枢的发展型网络国家（DNS），联邦与公立资本在早期技术开发中出资近三分之一承担基础托底。同时，[[Fred Block|布洛克]]警示[[Neoliberalism|新自由主义]]将科学知识彻底专利化的虚构商品化倾向，正导致专利壁垒丛生，阻断了跨机构研发网络的信任与开放协同。
 > > - **自由市场创新论者** 坚信风险投资与私营企业追求商业利润的竞争才是创新生态繁荣的原动力，主张削减政府产业与科技计划干预，依赖强专利确权实现市场化自发配置。
 
 > [!warning|limits] 适用局限

@@ -19,7 +19,7 @@ subtype: event
 region: finland
 fact_region: "finland"
 fact_kind: "event"
-fact_related_count: 54
+fact_related_count: 55
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -31,6 +31,7 @@ tags:
   - theme/reference-society
   - pisa
 related_concepts:
+  - "[[Neoliberalism]]"
   - "[[School Choice]]"
   - "[[High-Stakes Testing]]"
   - "[[Paradigm]]"
@@ -94,13 +95,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-21
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 ---
 
 > [!claim] 核心定性
-> 芬兰 [[PISA]] 奇迹（Finnish PISA Miracle，德语区常称 PISA-Wunder in Finnland）特指 2001 年底首届国际学生评估项目（PISA 2000）测试结果发布后，芬兰在阅读、数学与科学领域一举包揽西方国家榜首所引发的全球教育界震动与持续数十年的跨国标杆崇拜。该事件被广泛定性为战后比较教育史上的“认知革命”：芬兰以高学术卓越、极小校际落差、短在校课时与无标准化统考的优异实践，颠覆了英美新自由主义倡导的以市场[[School Choice|择校]]、[[High-Stakes Testing|高利害测验]]与绩效惩处为核心的教育竞争假说，确立了全球基础教育改革的北欧替代[[Paradigm|范式]]。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 28–29)]]
+> 芬兰 [[PISA]] 奇迹（Finnish PISA Miracle，德语区常称 PISA-Wunder in Finnland）特指 2001 年底首届国际学生评估项目（PISA 2000）测试结果发布后，芬兰在阅读、数学与科学领域一举包揽西方国家榜首所引发的全球教育界震动与持续数十年的跨国标杆崇拜。该事件被广泛定性为战后比较教育史上的“认知革命”：芬兰以高学术卓越、极小校际落差、短在校课时与无标准化统考的优异实践，颠覆了英美[[Neoliberalism|新自由主义]]倡导的以市场[[School Choice|择校]]、[[High-Stakes Testing|高利害测验]]与绩效惩处为核心的教育竞争假说，确立了全球基础教育改革的北欧替代[[Paradigm|范式]]。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 28–29)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 2001 年 12 月随 PISA 2000 放榜正式爆发，贯穿整个 2000 年代并在 2003、2006、2009 年历次测试中蝉联顶峰，地理发源于北欧芬兰共和国全域。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]

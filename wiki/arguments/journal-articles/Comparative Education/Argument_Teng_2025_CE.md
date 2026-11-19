@@ -10,7 +10,7 @@ title: "Argument_Teng_2025_CE"
 argument_key: "Argument_Teng_2025_CE"
 argument_display_title: "Migration for school choice: urbanisation and rural social stratification in China"
 argument_kind: "journal-article"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Peidu]]"
   - "[[School Choice]]"
   - "[[Cultural Capital]]"
+  - "[[Neoliberalism]]"
   - "[[Charter Schools]]"
   - "[[School Vouchers]]"
   - "[[Document]]"
@@ -73,7 +74,7 @@ sources:
 part_of:
 status: draft
 created: 2026-05-26
-updated: 2026-10-29
+updated: 2026-11-19
 year: 2025
 doi: "10.1080/03050068.2024.2398342"
 citation_aliases:
@@ -92,7 +93,7 @@ source_language: en
 
 > [!concept-lens] 阅读透镜
 > - **探讨对象** 湖北省G县 12 所小学的农村家庭（包括县城陪读、乡镇陪读及非陪读）及当地教职工、官员的实证材料。
-> - **核心张力** 中国小城市的择校并非新自由主义的市场化竞争（例如[[Charter Schools|特许学校]]（[[Partnership Schools Kura Hourua]]）或[[School Vouchers|教育券]]）驱动，而是由地方政府借助学校撤并与城镇教育集中来实现教育城镇化人口吸纳的政策推拉；政府期望此举能缩小教育差距，但在实际运作中以资本与社会阶级筛选置换了身份壁垒。
+> - **核心张力** 中国小城市的择校并非[[Neoliberalism|新自由主义]]的市场化竞争（例如[[Charter Schools|特许学校]]（[[Partnership Schools Kura Hourua]]）或[[School Vouchers|教育券]]）驱动，而是由地方政府借助学校撤并与城镇教育集中来实现教育城镇化人口吸纳的政策推拉；政府期望此举能缩小教育差距，但在实际运作中以资本与社会阶级筛选置换了身份壁垒。
 > - **理论贡献** 修正了西方主流[[Document|文献]]（[[Document]]）中择校等同于教育市场化的[[Causality\|因果关系]]（Causality）设定，阐明了城镇化政策逻辑下同样能产生极强的择校分层机制；展现了农村社会的阶层分化与资本博弈；并剖析了市场与阶级等非制度因素对行政管辖等制度壁垒的人口筛选替代过程。
 
 ---

@@ -10,7 +10,7 @@ aliases:
 summary: "指将金融市场的风险投资与私募股权纪律同明确可测量的社会或教育改善目标相结合的投资范式。主要表现为以社会影响力债券为代表的金融衍生合同，以及以高参与度管理介入为特征的风险慈善。在追求财务保值增值的同时，要求以经审计的因果量规考核社会回报；但在教育实践中，不仅驱动了公共财政向私营资本的逆向输送，而且容易与本土弱势社区的文化自治产生剧烈治理冲突。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Quasi-market]]"
   - "[[Professional Judgment]]"
   - "[[Public-Private Partnership]]"
+  - "[[Neoliberalism]]"
   - "[[Disciplina and Doctrina]]"
 related_theories:
   - "[[Theory of Change]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-20
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -162,7 +163,7 @@ updated: 2026-11-15
 > > [!axis] 社会资本高效动员 vs 公共福利商业剥削
 > > 争论社会影响力投资究竟是通过市场机制有效分担了公共财政风险，还是变相将税收公共资源转化为私人资本的无风险收益。
 > >
-> > - **新自由主义金融化辩护视角** 认为传统政府财政面临赤字危机，影响力投资成功引入了私人资本承担项目试错风险，唯有见效才由政府买单，极大提升了公共资源配置的精准度与效率。
+> > - **[[Neoliberalism|新自由主义]]金融化辩护视角** 认为传统政府财政面临赤字危机，影响力投资成功引入了私人资本承担项目试错风险，唯有见效才由政府买单，极大提升了公共资源配置的精准度与效率。
 > > - **批判政治经济学派（[[Argument_Rowe_2023_ECNUROE|Rowe, 2023]]）** 指出所谓的风险承担是虚构修辞；政府最终通过税收补贴与超额回购支付了更高昂的成本，本质上是将全民税收转化为私人投行的无风险分红，瓦解了公共教育作为非商品化公民权利的伦理根基。
 >
 > > [!axis] 科学量规外部干预 vs 原住民与本土社区文化自治

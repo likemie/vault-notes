@@ -11,10 +11,10 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 39
-person_related_level: 3
-person_related_stars: "💎"
-person_related_color: "#ede9fe"
+person_related_count: 40
+person_related_level: 4
+person_related_stars: "💎⭐"
+person_related_color: "#fce7f3"
 born: "1934"
 lifespan: "1934–至今"
 tags:
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Early-Career Researchers]]"
   - "[[Critical Pedagogy]]"
   - "[[Academic Freedom]]"
+  - "[[Neoliberalism]]"
   - "[[Commensuration]]"
 related_theories:
   - "[[Pluralism]]"
@@ -118,7 +119,7 @@ updated: 2026-11-19
 > - **史学与跨文化考据路径** 平反 19 世纪跨文化制度借用传统的学术地位，批判战后行为实证派割裂学科历史的傲慢，构建了贯通两百年的比较学术史连续统。
 > - **理论[[Paradigm|范式]]多元化路径** 依托对《比较教育评论》（CER）半个世纪发表成果的大规模文献计量与 UCLA 调查，实证确立了涵盖 26 种范式的“[[Pluralism|健康多元主义]]”，抵制虚无主义的碎片化焦虑，捍卫学者的[[Academic Freedom|学术自由]]。
 > - **[[Policy Borrowing|政策借用]]模型路径** 基于挪威长程制度演进实证提炼出政策借用的四阶段模型，丰富了跨国制度移植与本土调适的动力学机制。
-> - **全球化[[Critical Theory|批判理论]]路径** 提出[[Typology of Educational Responses to Globalization|全球化教育响应类型学]]（接受、抵制、恢复与强制再生产），为解构新自由主义跨国霸权与彰显第三世界主权自决提供了强有力的概念分析工具。
+> - **全球化[[Critical Theory|批判理论]]路径** 提出[[Typology of Educational Responses to Globalization|全球化教育响应类型学]]（接受、抵制、恢复与强制再生产），为解构[[Neoliberalism|新自由主义]]跨国霸权与彰显第三世界主权自决提供了强有力的概念分析工具。
 
 ---
 

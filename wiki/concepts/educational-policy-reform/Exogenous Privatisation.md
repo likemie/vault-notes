@@ -10,7 +10,7 @@ aliases:
 summary: "由斯蒂芬·鲍尔与德博拉·尤德尔界定的教育私有化核心形态，特指通过合同承包、公私伙伴关系（PPP）、特许学校以及购买教育管理组织（EMO）服务，将公共教育的基础设施、教学交付、评价研发乃至政策制定权全面向私营资本和非民选精英网络开放。当代外生私有化呈现出以免税信托控股营利实体的双层法人避税架构，并进一步演变为国家教育立法议程本身的隐性私有化。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Transnational Education]]"
   - "[[Policy Entrepreneur]]"
   - "[[Normal School]]"
+  - "[[Neoliberalism]]"
 related_theories: []
 related_methods: []
 related_instruments:
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-17
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -204,4 +205,4 @@ updated: 2026-11-11
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 全景实证审计新西兰外生私有化的制度演变，首创性提出“教育政策制定权私有化”与双层企业法人避税审计机制。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 阐明外生私有化与合同外包如何在新自由主义国家作为排他性阶级策略运作。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 阐明外生私有化与合同外包如何在[[Neoliberalism|新自由主义]]国家作为排他性阶级策略运作。

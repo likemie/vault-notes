@@ -10,7 +10,7 @@ aliases:
 summary: "指将公共教育的供给、资金、管理及政策制定权向私营部门、市场机制或商业逻辑转移的结构性变革过程。在新自由主义全球化下，斯蒂芬·鲍尔与托雷斯等学者将其界定为国家重塑教育权力的阶级策略，通常分化为公立系统内部企业化改组的内生私有化与外部服务及立法议程承包的外生私有化。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 55
+related_count: 56
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -22,6 +22,7 @@ tags:
   - governance
 related_concepts:
   - "[[Quasi-market]]"
+  - "[[Neoliberalism]]"
   - "[[Endogenous Privatisation]]"
   - "[[Exogenous Privatisation]]"
   - "[[Public-Private Partnership]]"
@@ -85,13 +86,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-17
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
 
 > [!def] Educational Privatisation
-> **教育私有化（Educational Privatisation）** 指公共教育的资源供给、经费筹措、日常管理、教学交付乃至政策制定权，由国家公共行政系统向私营营利实体、非营利组织、[[Quasi-market|准市场]]竞争机制或商业逻辑转移的结构性变革过程。批判政治经济学与教育社会学（Ball, 1993; [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）指出，当代教育私有化是新自由主义国家以市场逻辑瓦解教育公共性、卸载财政保障责任并巩固社会优势阶层排他性利益的**阶级策略**，有别于中立的行政效率优化。[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen J. Ball）与德博拉·尤德尔（Deborah Youdell, 2007）进一步构建了双维[[Analytic Framework|分析框架]]，将其划分为公立体系内部企业化改组的 **[[Endogenous Privatisation|内生私有化]]** 与公共服务及立法议程外部承包的 **[[Exogenous Privatisation|外生私有化]]**。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 83)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 4)]]
+> **教育私有化（Educational Privatisation）** 指公共教育的资源供给、经费筹措、日常管理、教学交付乃至政策制定权，由国家公共行政系统向私营营利实体、非营利组织、[[Quasi-market|准市场]]竞争机制或商业逻辑转移的结构性变革过程。批判政治经济学与教育社会学（Ball, 1993; [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）指出，当代教育私有化是[[Neoliberalism|新自由主义]]国家以市场逻辑瓦解教育公共性、卸载财政保障责任并巩固社会优势阶层排他性利益的**阶级策略**，有别于中立的行政效率优化。[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen J. Ball）与德博拉·尤德尔（Deborah Youdell, 2007）进一步构建了双维[[Analytic Framework|分析框架]]，将其划分为公立体系内部企业化改组的 **[[Endogenous Privatisation|内生私有化]]** 与公共服务及立法议程外部承包的 **[[Exogenous Privatisation|外生私有化]]**。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 83)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 4)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示教育如何从普遍公民权利与民主公共产品，被重组为按支付能力分选的排他性消费品与私人[[Human Capital Theory|人力资本]]投资。

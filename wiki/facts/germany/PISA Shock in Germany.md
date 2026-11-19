@@ -11,7 +11,7 @@ subtype: event
 region: germany
 fact_region: "germany"
 fact_kind: "event"
-fact_related_count: 34
+fact_related_count: 35
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#fef3c7"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Bildung]]"
   - "[[Governing by Numbers]]"
+  - "[[Neoliberalism]]"
   - "[[Critical Pedagogy]]"
   - "[[Topological Spatialisation]]"
   - "[[Global Universities Rankings]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-11-02
+updated: 2026-11-19
 ---
 
 ---
@@ -135,7 +136,7 @@ updated: 2026-11-02
 
 > [!debates] 史学评价与当代争议
 >
-> > [!axis] 现代化飞跃 vs 新自由主义侵蚀
+> > [!axis] 现代化飞跃 vs [[Neoliberalism|新自由主义]]侵蚀
 > > 学界对 [[PISA]] 震荡究竟是推动了制度现代化还是导致了商业化[[Governing by Numbers|数字治理]]的争鸣。
 > >
 > > - **现代化学派（2018）** 肯定 PISA 震荡打破了联邦分权体制数十年的改革积压，实现了教育标准的历史性统一与公平性提升。[[Argument_Hartong_2018_GSE|(Hartong, 2018, pp. 135–138)]]

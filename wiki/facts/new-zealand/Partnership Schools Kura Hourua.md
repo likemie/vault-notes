@@ -12,7 +12,7 @@ subtype: policy
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "policy"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Educational Management Organisation]]"
   - "[[Mentorship]]"
+  - "[[Neoliberalism]]"
   - "[[Quasi-market]]"
   - "[[Policy Entrepreneur]]"
   - "[[Exogenous Privatisation]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -115,7 +116,7 @@ updated: 2026-11-11
 > [!debates] 核心学术批判与政策交锋
 >
 > > [!axis] 公共问责流失与财政利益输送
-> > 批判学者奥尼尔（[[John O'Neill]]）等指出，PSKH 代表了新自由主义对公立教育核心制度屏障的极端拆解。
+> > 批判学者奥尼尔（[[John O'Neill]]）等指出，PSKH 代表了[[Neoliberalism|新自由主义]]对公立教育核心制度屏障的极端拆解。
 > >
 > > - **问责赤字批评** PSKH 享受了全额国家公帑资助，但却被豁免了公立学校最核心的公共问责底线——既不要求聘用受过国家资质审查的合格教师，也不强制遵循国家课程大纲，使得弱势族群学生的教育质量完全维系于外部赞助者的个人良知与脆弱的商业合同条款。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 20, 29)]]
 > > - **E Tipu E Rea 黑箱专款争议** 2016 年政府未经公开招标程序，直接将 50 万美元专属扶持资金独家授予新注册的慈善机构 E Tipu E Rea，实质体现了官僚精英、保守派政客与游说集团之间极其紧密的私有化政策闭环同盟。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 12)]]

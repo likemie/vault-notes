@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: global
 person_region: "global"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Document]]"
   - "[[Comprehensive Education]]"
+  - "[[Neoliberalism]]"
   - "[[State Educational Sovereignty]]"
   - "[[New Public Management]]"
   - "[[Public Value]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -84,7 +85,7 @@ updated: 2026-11-15
 >   - **代表著作** 参与起草多份经合组织教育委员会战略审议报告与国家教育政策审查指南。
 >   - **关键概念／方法** [[Human Capital Theory]]、科技人力规划、[[Centre for Educational Research and Innovation|CERI]]、国别审查。
 >   - **阶段转向** 推动经合组织教育职能从外生附属的科技人员办公室升级为拥有专门委员会与研究中心的综合治理架构。
-> - **1980s–1990s — 总结历史妥协与[[Pluralism|多元主义]]制度经验** 面对新自由主义市场思潮的初步渗透，系统梳理欧洲社会民主主义与美国自由市场路线在经合组织内部长达三十年的良性妥协机制。
+> - **1980s–1990s — 总结历史妥协与[[Pluralism|多元主义]]制度经验** 面对[[Neoliberalism|新自由主义]]市场思潮的初步渗透，系统梳理欧洲社会民主主义与美国自由市场路线在经合组织内部长达三十年的良性妥协机制。
 >   - **代表著作** *Education 1960–1990: The OECD Perspective* (1994)。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 437)]]
 >   - **关键概念／方法** 广泛意识形态教会（Broad Ideological Church）、自愿协商审查、公共物品。
 >   - **阶段转向** 将战后经合组织定性为一个包容多元价值争辩的平等论坛，确立了尊重[[State Educational Sovereignty|国家教育主权]]的独特多边主义模式。

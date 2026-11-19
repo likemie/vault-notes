@@ -7,10 +7,10 @@ aliases:
 summary: "学生与教师在教育实践与微观课堂互动中建构的情感支持、道德信任与指导性交往联结。它既是学习参与、心理安全感与学业投入的关键生态条件，也是承载不同文化学习信念与社会资本转化的核心关系中介。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 58
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 61
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - student-teacher-relationship
   - relational-factors
@@ -43,9 +43,11 @@ related_concepts:
   - "[[Variable]]"
   - "[[Champ]]"
   - "[[Cultural Capital]]"
+  - "[[First-Generation College Student]]"
   - "[[Habitus]]"
   - "[[Study Abroad]]"
   - "[[Going Native]]"
+  - "[[Neoliberalism]]"
   - "[[Alienation]]"
   - "[[Cultural Disembedding]]"
   - "[[Paradigm]]"
@@ -72,7 +74,8 @@ related_persons:
   - "[[Yajun Zheng]]"
   - "[[Pierre Bourdieu]]"
   - "[[Alec Peterson]]"
-related_facts: []
+related_facts:
+  - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments:
   - "[[Argument_Lekhal_2015_Paideia]]"
   - "[[Argument_Li_2012_Cambridge]]"
@@ -87,7 +90,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-06'
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 > [!def] Student-Teacher Relationship
@@ -153,7 +156,7 @@ updated: 2026-11-15
 > **社会再生产与空间制度化** 探讨师生关系如何通过日常接触、情感距离与制度化空间，促成或阻碍弱势学生的阶层流动与学术融入。
 
 > [!claim] [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]
-> **大学融入与校园社会资本的具身化载体** [[Yajun Zheng|郑雅君]]（Zheng, 2023）在针对名校大学生出路转化的质性追踪中，依托 Tinto 社交融入模型与[[Pierre Bourdieu|布迪厄]][[Cultural Capital|文化资本]]理论指出，师生关系是衡量校园社会资本与具身文化资本转化的敏感触角。第一代大学生或工薪家庭子弟因缺乏文化[[Habitus|惯习]]（Habitus）对齐，在面对大学教授时常感到“不自在”（out of place），倾向于刻意回避深层师生互动；而优势家庭学生则能熟练激活[[Culture as Toolkit|文化工具箱]]，将课后交流与导师指导转化为关键的信息“地图”与保研/[[Study Abroad|留学]]阶梯，致使师生交往在不经意间成为强化社会不平等的隐形机制。[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, pp. 679, 719)]]
+> **大学融入与校园社会资本的具身化载体** [[Yajun Zheng|郑雅君]]（Zheng, 2023）在针对名校大学生出路转化的质性追踪中，依托 Tinto 社交融入模型与[[Pierre Bourdieu|布迪厄]][[Cultural Capital|文化资本]]理论指出，师生关系是衡量校园社会资本与具身文化资本转化的敏感触角。[[First-Generation College Student|第一代大学生]]或工薪家庭子弟因缺乏文化[[Habitus|惯习]]（Habitus）对齐，在面对大学教授时常感到“不自在”（out of place），倾向于刻意回避深层师生互动；而优势家庭学生则能熟练激活[[Culture as Toolkit|文化工具箱]]，将课后交流与导师指导转化为关键的信息“地图”与[[Recommendation-Based Graduate Admission System|保研]]/[[Study Abroad|留学]]阶梯，致使师生交往在不经意间成为强化社会不平等的隐形机制。[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, pp. 679, 719)]]
 
 > [!claim] [[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987)]]
 > **森林村落生活空间把师生关系铸造为完整教育制度** 亚历克·彼得森（[[Alec Peterson]]）在记录加拿大佩德湾皮尔逊国际联合书院（Lester B. Pearson College of the Pacific）创校历程时指出，学校摈弃了传统教学楼与宿舍分离的科层布局，采用红杉木建筑构建“森林村落”。学生与教师共同生活于同一生活空间并共同参与地方社区服务，校长杰克·马修斯（Jack Matthews）以名相称、取消正式官僚等级。这种全景式空间安排将师生关系从狭隘的 45 分钟课堂听讲拓展为包含自治、寄宿、情感共振与社会服务的完整制度载体，成功弥合了不同国族青年之间的信任裂隙。[[Argument_Peterson_1987_OpenCourt_Ch05|(Peterson, 1987, pp. 120–122)]]
@@ -176,7 +179,7 @@ updated: 2026-11-15
 > > 探讨将师生关系作为标准化技术指标还是复杂人际生态的分歧。
 > >
 > > - **绩效与标准化取向** 主张将师生关系作为可操作、可评级与可标准化的干预[[Independent Variable|自变量]]，通过教师培训量化提升师生互动行为指标。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 235)]]
-> > - **[[Critical Realism|批判实在论]]与制度反思取向** [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 与 [[Argument_Eacott_2017_SLM|Eacott (2017)]] 指出，师生关系深嵌于复杂的开放系统与微观文化脉络之中，休谟式的恒常因果观无法涵盖其深层机制；在新自由主义绩效管理与自上而下的技术官僚规训下，强行将师生交往指标化容易导致教学劳动去专业化、师生情感[[Alienation|异化]]与学校[[Cultural Disembedding|文化脱嵌]]。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 193)]]; [[Argument_Eacott_2017_SLM|(Eacott, 2017, p. 216)]]
+> > - **[[Critical Realism|批判实在论]]与制度反思取向** [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 与 [[Argument_Eacott_2017_SLM|Eacott (2017)]] 指出，师生关系深嵌于复杂的开放系统与微观文化脉络之中，休谟式的恒常因果观无法涵盖其深层机制；在[[Neoliberalism|新自由主义]]绩效管理与自上而下的技术官僚规训下，强行将师生交往指标化容易导致教学劳动去专业化、师生情感[[Alienation|异化]]与学校[[Cultural Disembedding|文化脱嵌]]。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 193)]]; [[Argument_Eacott_2017_SLM|(Eacott, 2017, p. 216)]]
 >
 > > [!critique] 外部学术批判
 > > - **评价[[Paradigm|范式]]对教育交往本体的降维** [[Argument_Rømer_2018_EPT|Rømer (2018)]] 从[[Didaktik|欧陆教学论]]与教化传统出发，批判可见学习将师生关系降维为提升[[Effect Size|效应量]]的输入工具；在[[Pure Evaluation|纯粹评价]]逻辑下，教师退化为依据学生反馈调控自身效果的技术员，学生则被格式化为自我监控的操作员，致使师生间作为文化世代传承与主体间相遇的实质伦理纽带被技术指标全面消解。[[Argument_Rømer_2018_EPT|(Rømer, 2018, pp. 3–4, 6–8)]]

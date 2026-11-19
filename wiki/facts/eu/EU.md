@@ -12,10 +12,10 @@ subtype: organization
 region: eu
 fact_region: "eu"
 fact_kind: "organization"
-fact_related_count: 49
-fact_related_level: 4
-fact_related_stars: "💎⭐"
-fact_related_color: "#dcfce7"
+fact_related_count: 50
+fact_related_level: 5
+fact_related_stars: "💎⭐⭐"
+fact_related_color: "#fecdd3"
 org_type: supranational
 headquarters: "布鲁塞尔（比利时）"
 established: 1993
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Transnational Education]]"
   - "[[European Education Space]]"
   - "[[Governing by Numbers]]"
+  - "[[Neoliberalism]]"
   - "[[Champ]]"
   - "[[Document]]"
   - "[[Knowledge Mediation]]"
@@ -86,7 +87,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-16
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -174,7 +175,7 @@ updated: 2026-11-11
 > > - **欧盟委员会与一体化拥护者** 坚称辅助性原则得到了严格遵守，所有基准与最佳实践均属于非强制性指引，旨在帮助成员国应对全球数字化与技术竞争。
 > > - **主权防御学者与批判社会学家** 严正指出，“软治理”实质比强制法令更具穿透力，[[Open Method of Coordination|开放协调法]]通过数据监控与榜单对比施加同伴压力，迫使成员国在不知不觉中交出教育自主权。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 34–35)]]；帕西亚斯与鲁萨基斯（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009]]）论证，开放协调法与量化基准线构成了精巧的“欧洲教育全景敞视监控网络”，通过常设指标工作组的持续数据照射与同行排位，使成员国在无行政惩罚表象下主动将超国家经济指标内化为本国教育规划法则。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480–481, 492–493)]]
 >
-> > [!axis] 新自由主义功能主义与民主赤字批评
+> > [!axis] [[Neoliberalism|新自由主义]]功能主义与民主赤字批评
 > > 批评者指出，欧盟教育议程过度受制于单一市场竞争与[[Knowledge-Based Economy|知识经济]]资本积累逻辑，将复杂的[[National Education|国民教育]]降格为服务于区域经济增长的技能供应链，架空了各成员国地方议会关于教育本质的民主审议。
 
 ---

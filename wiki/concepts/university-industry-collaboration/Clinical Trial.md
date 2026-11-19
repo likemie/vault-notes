@@ -10,7 +10,7 @@ aliases:
 summary: "以人为研究对象、按预设试验方案分阶段评估新药、医疗器械或前沿疗法安全性、有效性与风险收益比的前瞻性干预研究。在产学合作中构成生物医药领域资金体量最大、规制约束最严苛的转化载体；当代规制科学正通过接受真实世界证据、推行单项高统计效力确证性研究、设立受控监管沙盒以及搭建公私伙伴加速平台重塑临床试验范式。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 50
+related_count: 51
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Advance Market Commitments]]"
   - "[[Meta-Representational Competence]]"
   - "[[Informed Consent]]"
+  - "[[Neoliberalism]]"
   - "[[Professional Judgment]]"
   - "[[Variable]]"
   - "[[External Validity]]"
@@ -79,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 ---
@@ -183,7 +184,7 @@ updated: 2026-11-14
 > - **1970s–1990s — 分期标准与伦理规范制度化** 《贝尔蒙报告》（Belmont Report）确立[[Informed Consent|知情同意]]与受试者保护伦理准则；国际人用药品注册技术协调会（ICH）出台临床试验管理规范（GCP），确立 I–IV 期标准开发路径。
 > - **2000–2005 — 强制预注册与顶刊出版准入联动** 面对制药企业隐匿负面结果的挑战，2000 年 ClinicalTrials.gov 设立；2005 年国际医学期刊编辑委员会（ICMJE）实行铁律，对未预先公开注册的临床试验严格拒收后续三期报告，树立了前置防范发表偏倚的制度标杆。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 228–229)]]
 > - **2000s–2010s — 产学网络扩张与 [[Contract Research Organization|CRO]] 全球化崛起** [[Academic Medical Center|学术医学中心]]与合同研究组织（CRO）形成庞大外包生态；[[Clinical Trials Transformation Initiative]]（CTTI）等跨界联盟成立，发布 30 余套提升试验质量与启动效率的循证框架。
-> - **2008 年 — 早期临床试验公共风险托底与利益倒挂批判** [[Fred Block|弗雷德·布洛克]]（Fred Block）基于紫杉醇等重大医药案例，系统揭示联邦公共资金在临床试验早期去风险（De-risking）中的决定性支撑，批判新自由主义下“公共承担临床风险、私人垄断商业暴利”的制度失衡，呼吁建立公共收益分享信托机制。[[Argument_Block_2008_PS|(Block, 2008, pp. 196–198)]]
+> - **2008 年 — 早期临床试验公共风险托底与利益倒挂批判** [[Fred Block|弗雷德·布洛克]]（Fred Block）基于紫杉醇等重大医药案例，系统揭示联邦公共资金在临床试验早期去风险（De-risking）中的决定性支撑，批判[[Neoliberalism|新自由主义]]下“公共承担临床风险、私人垄断商业暴利”的制度失衡，呼吁建立公共收益分享信托机制。[[Argument_Block_2008_PS|(Block, 2008, pp. 196–198)]]
 > - **2024 年 — 循证医学层级局限与[[Complex Systems Model of Evidence|复杂系统证据模型]]反思** 施泰纳-哈姆西等学者（[[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al., 2024, pp. 28–29]]）系统梳理公共卫生循证演进历程，反思过度套用临床试验因果金字塔对临床医师[[Professional Judgment|专业判断]]的边缘化、试验招募内置的社会不平等与对健康社会决定因素的忽视，提出向包容多元学科经验的复杂系统模型演进。
 > - **2026 年 — 真实世界证据、单项确证研究与[[Regulatory Sandbox|监管沙盒]]新[[Paradigm|范式]]** 白宫 [[Office of Science and Technology Policy|OSTP]] 发布《[[Science A New Golden Age 2026|科学：新的黄金时代]]》（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]），推动 FDA 实质性监管改革：推行单项高功效确证试验、接受真实世界证据、设立前沿生物医疗监管沙盒，并深化公私伙伴（[[Accelerating Medicines Partnership|AMP]]）协同开发机制。
 

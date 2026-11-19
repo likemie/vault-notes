@@ -9,7 +9,7 @@ aliases:
 summary: "学习科学与认识论认知中的核心构念，指个体对特定知识主张采取的差异化态度或姿态（如坚信、怀疑、暂且接受、作为工作假设）；在人机协同探究中深化为根据技术中介形态与任务需求动态调适的主体反思姿态。"
 type: concept
 domain: "educational-psychology"
-related_count: 52
+related_count: 53
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Epistemological Beliefs]]"
   - "[[Hypothesis]]"
   - "[[Competitiveness]]"
+  - "[[Neoliberalism]]"
   - "[[Epistemic Agency]]"
   - "[[Epistemic Community]]"
   - "[[Champ]]"
@@ -81,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -102,7 +103,7 @@ updated: 2026-11-15
 > *Epistemic stances encompass beliefs about whether one believes a claim, with what degree of confidence, and with what attitude—such as holding a claim as a tentative working [[Hypothesis]], accepting it provisionally, or rejecting it as unsubstantiated.*
 
 > [!citation-card] 比奇论国际组织认识论立场的表层分歧与深层统领
-> [[Jason Beech|杰森·比奇]]（[[Jason Beech]]）指出，尽管世界银行、联合国教科文组织与经合组织在表面上秉持着截然不同甚至存在竞争的认识论立场——世界银行坚守正统人力资本认识论，将教育视作获取私人与社会回报率的生产性投资；教科文组织坚守人文主义认识论，将教育视作促进人格完整、和平与尊严的终极目的；经合组织则倡导兼顾经济[[Competitiveness|竞争力]]与社会凝聚力的混合新自由主义立场——但这种认识论立场的表层分歧并未妨碍它们达成更深层的意识形态与话语共识：共同宣称不可抗拒的“信息时代”来临，并将去情境化的五大支柱治理处方作为唯一合理的救治方案推向全球。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 346–348)]]
+> [[Jason Beech|杰森·比奇]]（[[Jason Beech]]）指出，尽管世界银行、联合国教科文组织与经合组织在表面上秉持着截然不同甚至存在竞争的认识论立场——世界银行坚守正统人力资本认识论，将教育视作获取私人与社会回报率的生产性投资；教科文组织坚守人文主义认识论，将教育视作促进人格完整、和平与尊严的终极目的；经合组织则倡导兼顾经济[[Competitiveness|竞争力]]与社会凝聚力的混合[[Neoliberalism|新自由主义]]立场——但这种认识论立场的表层分歧并未妨碍它们达成更深层的意识形态与话语共识：共同宣称不可抗拒的“信息时代”来临，并将去情境化的五大支柱治理处方作为唯一合理的救治方案推向全球。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 346–348)]]
 >
 > *While the World Bank has adhered strictly to human capital theory... UNESCO has promoted a humanist stance in which human beings are seen as an end in themselves... In spite of these differences, these agencies share an underlying consensus regarding the inevitability of the 'Information Age' and the necessary educational reforms.*
 

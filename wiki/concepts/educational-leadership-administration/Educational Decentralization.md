@@ -9,7 +9,7 @@ aliases:
 summary: "国家教育行政权力从中央向地方区域、市镇或基层学校转移的治理重构。在民主化与公共行政视界中，旨在提升响应效率与公民参与，但面临官僚膨胀与体系割裂风险；在国际组织普遍模型中，表现为剥离中央兜底责任的远处治理；在新自由主义试验中（如新西兰明日学校），则常沦为拆解公共服务、迫使学校市场化采购并滋生商业外包垄断的私有化跳板。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Alienation]]"
   - "[[Global Educational Discourse]]"
   - "[[Steering at a Distance]]"
+  - "[[Neoliberalism]]"
   - "[[Recontextualization]]"
   - "[[School Autonomy]]"
   - "[[State Educational Sovereignty]]"
@@ -74,13 +75,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-11
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
 
 > [!def] Educational Decentralization
-> **教育分权（Educational Decentralization）**，广义指将原本由中央政府集中行使的教育决策、财政筹措、人事任免、课程设置与学校监管等权力，依法转移或下放给次级行政区划（如州、大区、省、自治区）、基层自治市镇或学校自治实体的制度安排，其传统意图在于增强民主参与度与行政响应效能（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 325–326]]）。在当代全球教育治理中，它呈现多重[[Alienation|异化]]面貌：一方面被[[World Bank|世界银行]]、[[OECD|经合组织]]等建构为[[Global Educational Discourse|全球教育话语]]普遍模型之首，通过捆绑中央质量监控实现[[Governing at a Distance|远处治理]]（[[Steering at a Distance]]）并向地方转嫁财政兜底责任（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, pp. 348–349]]）；另一方面在新西兰“明日学校”等新自由主义改革中，权力下放（Devolution）被作为解构公共教育管理体制的特洛伊木马，将原公立教育局拆解为自负盈亏的商业公司，迫使学校在半开放市场上自费采购公共服务，沦为推动教育服务私有化与商业外包垄断的制度跳板（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 30–31]]; [[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）。
+> **教育分权（Educational Decentralization）**，广义指将原本由中央政府集中行使的教育决策、财政筹措、人事任免、课程设置与学校监管等权力，依法转移或下放给次级行政区划（如州、大区、省、自治区）、基层自治市镇或学校自治实体的制度安排，其传统意图在于增强民主参与度与行政响应效能（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 325–326]]）。在当代全球教育治理中，它呈现多重[[Alienation|异化]]面貌：一方面被[[World Bank|世界银行]]、[[OECD|经合组织]]等建构为[[Global Educational Discourse|全球教育话语]]普遍模型之首，通过捆绑中央质量监控实现[[Governing at a Distance|远处治理]]（[[Steering at a Distance]]）并向地方转嫁财政兜底责任（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, pp. 348–349]]）；另一方面在新西兰“明日学校”等[[Neoliberalism|新自由主义]]改革中，权力下放（Devolution）被作为解构公共教育管理体制的特洛伊木马，将原公立教育局拆解为自负盈亏的商业公司，迫使学校在半开放市场上自费采购公共服务，沦为推动教育服务私有化与商业外包垄断的制度跳板（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 30–31]]; [[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）。
 
 > [!concept-lens] 概念透镜
 > - **行政扁平化与民主赋权维度** 关注权力纵向配置从威权单中心向多中心下移，透视后发民主转型国家通过分权破除历史集权专制包袱的制度诉求。

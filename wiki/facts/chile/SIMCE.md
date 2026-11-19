@@ -11,7 +11,7 @@ subtype: program
 region: chile
 fact_region: "chile"
 fact_kind: "program"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Space of Equivalence]]"
   - "[[Socioeconomic Status]]"
   - "[[Institutional Layering]]"
+  - "[[Neoliberalism]]"
   - "[[Educational Privatisation]]"
   - "[[International Large-Scale Assessments]]"
   - "[[Test-Based Accountability]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -128,7 +129,7 @@ updated: 2026-11-15
 > > [!axis] 市场问责工具与教育公平侵蚀
 > > 围绕 SIMCE 的高利害问责定位，社会各界展开激烈交锋。
 > >
-> > - **新自由主义治理支持方** 坚信透明的分数披露能赋予家长知情选择权，并对怠惰学校形成外部监督动力。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 258)]]
+> > - **[[Neoliberalism|新自由主义治理]]支持方** 坚信透明的分数披露能赋予家长知情选择权，并对怠惰学校形成外部监督动力。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 258)]]
 > > - **[[Alto al SIMCE]] 批判阵营** 指控统考直接导致严重应试操练、剥夺落后学校尊严并加剧种族与阶层隔离，呼吁彻底取消全员高利害考试。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
 
 > [!lessons] 经验教训与启示

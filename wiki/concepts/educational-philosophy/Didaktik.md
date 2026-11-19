@@ -6,7 +6,7 @@ aliases:
 summary: "作为德语教学理论传统的欧陆教学论（Didaktik），关注课程内容的选择价值、人性的教化目的与教学判断，在教育研究中用于协调规训与生成、内容与规范之间的复杂张力。"
 type: concept
 domain: "educational-philosophy"
-related_count: 33
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -23,11 +23,13 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[Epochal Key Problems]]"
+  - "[[Neoliberalism]]"
   - "[[Champ]]"
   - "[[Ontology]]"
   - "[[Critical Thinking]]"
   - "[[Discipline-Based Theory]]"
   - "[[Positivism]]"
+  - "[[Learning Strategies]]"
   - "[[Pure Evaluation]]"
   - "[[Alienation]]"
   - "[[Central Phenomenon]]"
@@ -52,7 +54,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -95,7 +97,7 @@ updated: 2026-11-15
 
 > [!boundary]- 概念边界与关联
 > - **与[[Phenomenon-Based Learning|现象本位学习]]（Phenomenon-Based Learning, PhBL）的关联** 教学论是深厚的课程与教学理论传统，而现象本位学习是一种具体的跨学科教学取向。德国教育学家[[Wolfgang Klafki|沃尔夫冈·克拉夫基]]（Wolfgang Klafki）提出的[[Epochal Key Problems|时代关键问题]]（Epochal key problems）为现象本位学习选择教学现象与设计跨学科对话提供了核心理论支撑。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 6–7]]
-> - **有别于能力本位课程** 教学论关注知识的选择价值、人性的教化目的与开放未来；而新自由主义主导的能力本位课程若被可测量指标主导，容易导致知识与技能的原子化碎片拆散，损害学科的深层逻辑。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 5, 10]]
+> - **有别于能力本位课程** 教学论关注知识的选择价值、人性的教化目的与开放未来；而[[Neoliberalism|新自由主义]]主导的能力本位课程若被可测量指标主导，容易导致知识与技能的原子化碎片拆散，损害学科的深层逻辑。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 5, 10]]
 
 ---
 
@@ -120,7 +122,7 @@ updated: 2026-11-15
 > 面对不确定的未来，课程内容应当以全球[[Epochal Key Problems|时代关键问题]]（Epochal key problems，如环境危机、战争、社会不平等）作为组织主轴，以此作为连接学科深度与跨学科对话的教学[[Champ|场域]]，培养学生批判、反思与限制共情的能力。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 6–7, 10]]
 
 > [!claim] [[Ewald Terhart|埃瓦尔德·特哈特]]（Ewald Terhart）
-> 德语教学论传统主张教学必须兼顾思维能力的陶冶（形式教学论）与文化科学知识的传递（实质教学论）。特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）审视《[[Visible Learning|可见的学习]]》指出，英美[[Positivism|实证主义]]将教学窄化为跨情境的通用认知策略与[[Effect Size|效应量]]竞赛，滑向了单一的形式教学论；而在课程维度完全回避各学科的教育学意义以及内容选择的合法化辩护（为何纳入此项、排除彼项），导致教学理论陷入实质内容空洞化的困境。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431)]]
+> 德语教学论传统主张教学必须兼顾思维能力的陶冶（形式教学论）与文化科学知识的传递（实质教学论）。特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）审视《[[Visible Learning|可见的学习]]》指出，英美[[Positivism|实证主义]]将教学窄化为跨情境的通用[[Learning Strategies|认知策略]]与[[Effect Size|效应量]]竞赛，滑向了单一的形式教学论；而在课程维度完全回避各学科的教育学意义以及内容选择的合法化辩护（为何纳入此项、排除彼项），导致教学理论陷入实质内容空洞化的困境。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431)]]
 
 > [!claim] 罗默（[[Thomas Aastrup Rømer]]）
 > **评价图式对教学论传统的遮蔽与教学三角形解体** 托马斯·奥斯特鲁普·罗默（[[Thomas Aastrup Rømer]]）从欧陆教学论与分析哲学视阈审查指出，可见学习在本质上表征了教学完全屈从于简陋评价图式（[[Pure Evaluation|纯粹评价]]）的理论[[Alienation|异化]]。[[John Hattie|哈蒂]]体系系统性放逐了教学论与教化（[[Bildung]]）的[[Central Phenomenon|核心范畴]]（如世界、启迪、权威与学科实质），将师生与文化中介的三元互动还原为学生孤立的主观认知建构；这种[[Radical Constructivism|激进建构主义]]反学校思维将承载人类文明精粹的学科内容降格为工具性刺激载体，导致教学论传统的教学三角形（教师–学生–内容）彻底解体，使教学退化为追求 $d > 0.40$ 的量化控制规程。[[Argument_Rømer_2018_EPT|(Rømer, 2018, pp. 2–3, 7)]]

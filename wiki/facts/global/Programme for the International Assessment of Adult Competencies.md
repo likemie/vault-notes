@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Further Education]]"
   - "[[Educational Level]]"
+  - "[[Neoliberalism]]"
   - "[[Tacit Knowledge]]"
   - "[[Ecological Validity]]"
   - "[[Paradigm]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-06
+updated: 2026-11-19
 ---
 
 ---
@@ -131,7 +132,7 @@ updated: 2026-11-06
 > > [!axis] 成人教育的[[Human Capital Theory\|人力资本]]工具化 vs 成人启蒙与公民赋权
 > > 批判成人教育哲学家对 PIAAC 的极端功利主义取向提出尖锐道德质疑。
 > >
-> > - **批判成人教育学派（Biesta, 2011; Rubenson, 2018）** 抨击 PIAAC 完全套用了新自由主义人力资本框架，将成年人单向贬低为出卖技能劳动力的经济工具，剥夺了传统成人教育所承载的公民意识觉醒、社会公平批判与精神解放使命。
+> > - **批判成人教育学派（Biesta, 2011; Rubenson, 2018）** 抨击 PIAAC 完全套用了[[Neoliberalism|新自由主义]]人力资本框架，将成年人单向贬低为出卖技能劳动力的经济工具，剥夺了传统成人教育所承载的公民意识觉醒、社会公平批判与精神解放使命。
 > > - **[[OECD\|经合组织]]辩护** 强调在失业风险与技术变革浪潮中，缺乏最基本的数字化读写算素养将彻底剥夺弱势劳动者的生存发展权；技能测查正是为了迫使政府为被遗忘的底层成人提供[[Lifelong Learning\|终身学习]]补救保障。
 >
 > > [!axis] 测验情境脱嵌与文化阶层偏差

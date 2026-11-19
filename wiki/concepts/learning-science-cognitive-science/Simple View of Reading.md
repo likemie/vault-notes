@@ -5,7 +5,7 @@ aliases:
 summary: "Gough and Tunmer 提出的阅读理论模型，认为阅读由解码和理解共同构成，常用于支持系统识字教学和阅读困难分析。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Whole Language]]"
   - "[[Epistemology]]"
   - "[[Working Memory]]"
+  - "[[Neoliberalism]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -35,7 +36,7 @@ related_arguments: []
 part_of: ''
 status: draft
 created: 2026-05-03
-updated: 2026-10-22
+updated: 2026-11-19
 year: 2020
 doi: ""
 citation_aliases: []
@@ -77,7 +78,7 @@ citation_aliases: []
 > - **过度简化认知过程** 普罗克特（Proctor, 2006, p.1）指出，简单阅读观“过于简单，根本无法在理解个体学习者带给阅读过程的巨大复杂性方面产生有意义的差异” (p.149)。它忽视了[[Working Memory\|工作记忆]]、阅读动机以及词汇广度在[[Decodification\|解码]]和理解之间的中介作用。
 > - **心理语言学视角的研究反驳** 全语言理论家（如 Cambourne, 1988）坚决反驳“先解码、后理解”的单向逻辑。他们指出，阅读是一个主动利用句法、语义和字形线索预测和建构意义的整体过程；儿童对意义的追求驱动了其字词解码能力的自然发生，不能在教学中将两者生硬割裂 (p.149)。
 
-> [!critique-data] 新自由主义与霸权控制的工具
+> [!critique-data] [[Neoliberalism|新自由主义]]与霸权控制的工具
 > 简单阅读观之所以受到决策者的高度青睐，是因为其将复杂的文化实践还原为单一的、可精确测量和控制的“解码率”测试，这完美迎合了新自由主义技术官僚对课程自上而下控制、量化评估与标准化问责的政治议程 (p.149-150)。
 
 ---

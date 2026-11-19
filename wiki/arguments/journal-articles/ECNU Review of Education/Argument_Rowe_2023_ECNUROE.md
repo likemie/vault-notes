@@ -7,7 +7,7 @@ title: "Argument_Rowe_2023_ECNUROE"
 argument_key: "Argument_Rowe_2023_ECNUROE"
 argument_display_title: "Philanthrocapitalism and the state: Mapping the rise of venture philanthropy in public education in Australia"
 argument_kind: "journal-article"
-argument_related_count: 50
+argument_related_count: 52
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Relational Space]]"
   - "[[Deductible Gift Recipient]]"
   - "[[Institutional Review Board]]"
+  - "[[Neoliberalism]]"
   - "[[Return on Investment]]"
   - "[[Catalytic Philanthropy]]"
   - "[[Charter Schools]]"
@@ -73,6 +74,7 @@ related_persons:
   - "[[Diana Crane]]"
   - "[[David Gonski]]"
   - "[[Michael Barber]]"
+  - "[[Randall Collins]]"
   - "[[Sir Kevan Collins]]"
 related_facts:
   - "[[Social Ventures Australia]]"
@@ -91,7 +93,7 @@ sources:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 ---
 
@@ -160,7 +162,7 @@ updated: 2026-11-15
 ---
 
 > [!claim] 步骤一　风险慈善以金融化投资逻辑取代道德救济并驱动国家演化为培育私营中介的异层催化平台
-> [[Venture Philanthropy\|风险慈善]]彻底颠覆了传统慈善以无偿赠与和道德救济为核心的运行逻辑，转而践行投资而非赠款的商业模式；这一演进不仅折射出新自由主义下公立教育被视作万亿美元级待开发市场的全球趋势，更驱动资本主义国家由中心化的税收再分配主体转变为积极培育与特许私营中介的异层治理催化平台。
+> [[Venture Philanthropy\|风险慈善]]彻底颠覆了传统慈善以无偿赠与和道德救济为核心的运行逻辑，转而践行投资而非赠款的商业模式；这一演进不仅折射出[[Neoliberalism|新自由主义]]下公立教育被视作万亿美元级待开发市场的全球趋势，更驱动资本主义国家由中心化的税收再分配主体转变为积极培育与特许私营中介的异层治理催化平台。
 
 #### 1. 跨国金融与咨询资本将公立教育定义为万亿级新兴市场并以投资回报追索治理权力
 
@@ -275,7 +277,7 @@ SVA 作为政策网络中枢，凭借严密的法人架构与跨国金融咨询�
 
 > [!actor-grid] AERO 董事会与专家委员会的核心行动者网络
 > - **董事会领导层（SVA 核心高管）** SVA 前董事莉莎·奥布莱恩（Lisa O'Brien）直接出任 AERO 首任董事会主席，将风险慈善意志植入国家最高教育科研决策层。
-> - **跨国智囊顾问（英国 EEF 创始领袖）** EEF 创始首席执行官凯文·柯林斯（[[Sir Kevan Collins]]）入驻 AERO 专家委员会，保障跨国因果证据标准与工具包框架的直接输入。
+> - **跨国智囊顾问（英国 EEF 创始领袖）** EEF 创始首席执行官凯文·[[Randall Collins|柯林斯]]（[[Sir Kevan Collins]]）入驻 AERO 专家委员会，保障跨国因果证据标准与工具包框架的直接输入。
 > - **核心捐赠资本（慈善信托寡头）** SVA 核心捐赠人、尤里卡慈善基金会总监罗杰·马西-格林（Roger Massy-Greene，其妻为 [[American Physical Society|APS]] 董事贝琳达·哈钦森，Belinda Hutchinson）入驻专家委员会。
 > - **国家官僚执行者（管理团队）** AERO 现任首席执行官珍妮·多诺万（Jenny Donovan）在公开访谈中坦承，机构的特殊架构设计正是为了吸引和接纳私营慈善资本的合作与资助。
 

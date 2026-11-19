@@ -7,7 +7,7 @@ title: "Argument_Sahlgren_2015_CPS"
 argument_key: "Argument_Sahlgren_2015_CPS"
 argument_display_title: "Real Finnish Lessons: The true story of an education superpower"
 argument_kind: "report"
-argument_related_count: 83
+argument_related_count: 85
 argument_related_level: 8
 argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -29,7 +29,7 @@ related_theories:
   - "[[Wealth Effect in Education]]"
 status: active
 created: 2026-11-06
-updated: 2026-11-14
+updated: 2026-11-19
 tags:
   - theme/pisa
   - theme/comparative-education
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Direct Instruction]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Academic Achievement]]"
+  - "[[Neoliberalism]]"
   - "[[Homework]]"
   - "[[Causality]]"
   - "[[Class Size]]"
@@ -78,6 +79,7 @@ related_concepts:
   - "[[Scientific Literacy]]"
   - "[[Structured Teaching]]"
   - "[[No Excuses School Model]]"
+  - "[[Mimesis]]"
 related_facts:
   - "[[PISA]]"
   - "[[First International Mathematics Study]]"
@@ -139,7 +141,7 @@ related_methods:
 
 > [!concept-lens] 阅读透镜
 > - **对象** 芬兰基础教育系统自 1960 年代以来的长周期历史变迁、历次国际教育评价（涵盖[[First International Mathematics Study|第一届国际数学研究]]［First International Mathematics Study, FIMS］、[[Second International Mathematics Study|第二届国际数学研究]]［Second International Mathematics Study, SIMS］、[[TIMSS|国际数学与科学趋势研究]]［Trends in International Mathematics and Science Study, TIMSS］、PISA 以及[[Programme for the International Assessment of Adult Competencies|国际成人能力评估项目]]［Programme for the International Assessment of Adult Competencies, PIAAC］），与芬兰国防军数十万入伍士兵的认知测试微观档案。
-> - **张力** 国际政策界对[[Finnish PISA Miracle|芬兰奇迹]]的浪漫化解读（反新自由主义、高度信任、去标准化、短[[Homework|作业]]量）与计量经济学实证检验及真实历史推进时序之间的尖锐矛盾。
+> - **张力** 国际政策界对[[Finnish PISA Miracle|芬兰奇迹]]的浪漫化解读（反[[Neoliberalism|新自由主义]]、高度信任、去标准化、短[[Homework|作业]]量）与计量经济学实证检验及真实历史推进时序之间的尖锐矛盾。
 > - **贡献** 系统解构了《芬兰课堂》（*Finnish Lessons*）倡导的流行反问责叙事，建立了结合[[Historical Institutionalism|历史制度主义]]、后发现代化财富效应与微观教学法有效性的综合解释框架，为全球教育改革提供了审慎求实的制度镜鉴。
 
 ---
@@ -405,7 +407,7 @@ related_methods:
 ---
 
 > [!citation-card] 朱利安·勒·格兰德（Julian Le Grand）论最佳实践法的因果谬误
-> 国际教育界对所谓芬兰奇迹的解释大多源于[[Best Practice Approach in Comparative Education|比较教育最佳实践法]]（best practice）的归纳思维。这种方法将高表现国家当前存在的制度特征直接标榜为成功的决定性因素，而从未严肃考察这些特征与实际绩效之间是否存在因果联系。将芬兰模式作为反问责、反市场改革的武器，不仅缺乏证据支撑，盲目模仿甚至会带来巨大的政策灾难。（pp. v–vi）
+> 国际教育界对所谓芬兰奇迹的解释大多源于[[Best Practice Approach in Comparative Education|比较教育最佳实践法]]（best practice）的归纳思维。这种方法将高表现国家当前存在的制度特征直接标榜为成功的决定性因素，而从未严肃考察这些特征与实际绩效之间是否存在因果联系。将芬兰模式作为反问责、反市场改革的武器，不仅缺乏证据支撑，盲目[[Mimesis|模仿]]甚至会带来巨大的政策灾难。（pp. v–vi）
 >
 > *“The main problem with the traditional explanations of the Finnish education ‘miracle’ was that they originated from the idea of ‘best practice’, an approach that highlights current arrangements in high-performing countries as the key determinant without adequate consideration of whether these are causally linked to performance.” (p. vi)*
 

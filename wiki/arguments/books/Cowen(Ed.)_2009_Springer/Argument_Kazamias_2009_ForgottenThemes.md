@@ -7,9 +7,9 @@ title: "Argument_Kazamias_2009_ForgottenThemes"
 argument_key: "Argument_Kazamias_2009_ForgottenThemes"
 argument_display_title: "Forgotten men, forgotten themes: The historical-philosophical-cultural and liberal humanist motif in comparative education"
 argument_kind: "book-chapter"
-argument_related_count: 98
-argument_related_level: 9
-argument_related_stars: "💎💎💎"
+argument_related_count: 100
+argument_related_level: 10
+argument_related_stars: "💎💎💎⭐"
 argument_related_color: "#fecdd3"
 authors:
   - "[[Andreas Kazamias|Kazamias, A. M.]]"
@@ -58,6 +58,7 @@ related_concepts:
   - "[[Research Purpose]]"
   - "[[The Nation-State as the Unit of Comparison]]"
   - "[[Variable]]"
+  - "[[Neoliberalism]]"
   - "[[Intangible Spiritual Forces]]"
   - "[[Creativity]]"
   - "[[Ontology]]"
@@ -85,6 +86,7 @@ related_concepts:
   - "[[Early-Career Researchers]]"
   - "[[Doxa]]"
   - "[[Hypothesis]]"
+  - "[[Typicality]]"
   - "[[Humanistic Episteme]]"
   - "[[Axiology]]"
   - "[[The Sublime]]"
@@ -138,7 +140,7 @@ related_theories:
   - "[[Behaviorism]]"
 status: draft
 created: 2026-09-06
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 ---
 
@@ -266,7 +268,7 @@ updated: 2026-11-15
 > [!claim|step] 论证步骤三　历史学派内部依凭政治处境与方法重心分化出机构精神力量、国家政体[[Variable|变量]]、三维因素框架与文明思想史四大范式分支
 > 历史学派四位巨擘虽共享宏观人文基石，但因各自学术背景、政治履历与问题意识的差异，分化出截然不同的方法论路径：萨德勒立足智库与行政实践探索校外精神力量，坎德尔开创政治国家解释[[Variable\|变量]]，汉斯构建因素框架并剖析民主缺陷，乌利希则开创了融通西方文明史的人本教化范式。（pp.42–52）
 
-> [!sub-claim] 1. 萨德勒融通牛津唯心主义与新自由主义，确立校外[[Intangible Spiritual Forces|无形精神力量]]对校内体系的支配地位
+> [!sub-claim] 1. 萨德勒融通牛津唯心主义与[[Neoliberalism|新自由主义]]，确立校外[[Intangible Spiritual Forces|无形精神力量]]对校内体系的支配地位
 
 在 19 世纪末与 20 世纪初的维多利亚晚期，曾被誉为世界工厂的英国面临严峻的社会历史转折：德国与美国在工业、商业与技术上的迅猛崛起对大英帝国的垄断地位构成了实质性挑战；与此同时，以杰里米·边沁（Jeremy Bentham）与约翰·斯图尔特·密尔（John Stuart Mill）为代表的功利主义幸福哲学及自由放任主义（Laissez-faire）日渐式微，难以继续为国家社会与教育改革提供正当性与合法性支撑。萨德勒早期在拉格比公学（Rugby School）与牛津大学三一学院（Trinity College, Oxford）受训，深沐古典人文学术传统，这一学脉使他始终坚信中等教育的首要天职是“通过真实鲜活的人文学科教学涵养人性（Humanise），其次才是赋予面对实际生活的效能”（Kazamias, 1966: 140–141; 2009: 43）。
 
@@ -501,7 +503,7 @@ updated: 2026-11-15
 >     C -->|"经验反哺与修正"| B
 > ```
 
-对特殊性与一般性的关注普遍存在于历史学与社会科学中；两者的区别主要体现为**研究重心与研究目标（Emphasis and objectives）的侧重差异**。（p.56）
+对[[Typicality|特殊性]]与一般性的关注普遍存在于历史学与社会科学中；两者的区别主要体现为**研究重心与研究目标（Emphasis and objectives）的侧重差异**。（p.56）
 
 > [!sub-claim] 3. 比较教育学必须超越单纯学校教育技术规训，坚守以人为中心直面文明伦理危机
 

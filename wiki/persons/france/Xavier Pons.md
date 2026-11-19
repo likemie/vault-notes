@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: france
 person_region: "france"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Sociology of Valuation and Evaluation]]"
   - "[[Policy Translation]]"
   - "[[Learning Knowledge and Policy Knowledge]]"
+  - "[[Neoliberalism]]"
   - "[[Habitus]]"
   - "[[Document]]"
   - "[[School Autonomy]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-27
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -68,7 +69,7 @@ updated: 2026-11-11
 > [!person-profile] 人物档案
 > - **身份位置** 法国当代著名教育政治社会学家，巴黎东岱大学（Université Paris-Est Créteil, UPEC）教育科学教授，[[CNRS|法国国家科学研究中心]]（CNRS）与巴黎政治大学组织社会学中心（CSO）副研究员。
 > - **核心角色** 欧洲教育[[Sociology of Valuation and Evaluation|评估社会学]]与[[Policy Translation|政策转译]]研究的代表学者，在知识库网络中充当解构 [[PISA]] 接收机制、法国第四象限（政策背书 × 范围小）制度根源以及知识类型学转化的核心理论节点。
-> - **代表贡献** 提出区分技术参数与政客修辞的 [[Learning Knowledge and Policy Knowledge|学习性知识与政策性知识]] 框架；系统论证法国教育治理中的“国家科学”（science d’État）垄断机制对跨国新自由主义问责的阻滞作用（[[PISA Response in France]]）。
+> - **代表贡献** 提出区分技术参数与政客修辞的 [[Learning Knowledge and Policy Knowledge|学习性知识与政策性知识]] 框架；系统论证法国教育治理中的“国家科学”（science d’État）垄断机制对跨国[[Neoliberalism|新自由主义]]问责的阻滞作用（[[PISA Response in France]]）。
 
 > [!citation-card] 庞斯论政策转译与接收社会学的核心论断
 > 像 PISA 这类国际调查，无论数据多么扎实和有用，都不足以必然引发教育系统内的行动者学习他国的教育政策并带来跨国政策趋同；针对学生成绩的政治评论与后台技术图表之间存在严重的结构性脱节。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, p. 71)]]

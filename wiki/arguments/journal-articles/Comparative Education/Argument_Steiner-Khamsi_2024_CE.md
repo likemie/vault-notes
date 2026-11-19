@@ -65,6 +65,7 @@ related_concepts:
   - "[[Social Support]]"
   - "[[Transfer Space]]"
   - "[[Knowledge Co-production]]"
+  - "[[Neoliberalism]]"
   - "[[Datafication of Learning]]"
   - "[[Geopolitics]]"
   - "[[Reference Society]]"
@@ -148,14 +149,14 @@ part_of:
   - "[[Comparative Education]]"
 status: draft
 created: 2026-09-11
-updated: 2026-11-15
+updated: 2026-11-19
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Steiner-Khamsi_2024_CE"
 argument_key: "Argument_Steiner-Khamsi_2024_CE"
 argument_display_title: "Governance by numbers 2.0: policy brokerage as an instrument of global governance in the era of information overload"
 argument_kind: "journal-article"
-argument_related_count: 116
+argument_related_count: 117
 argument_related_level: 11
 argument_related_stars: "💎💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -387,7 +388,7 @@ issuing_organization: ""
 > - **前提：外部影响取决于内部建构**
 >   依据社会学系统论的[[Externalization\|外化]]（Externalization）假说，外部世界对内部系统的影响，完全取决于内部系统如何赋予其意义并将其建构为外部权威。
 > - **机制：在系统内部产生共鸣并转译为自身代码**
->   因此，系统外部的重大变迁（如公共行政领域转向以结果为导向的新自由主义规制）若要在教育系统中发挥实效，必须在教育系统内部产生共鸣，被赋予本土意义，并被转译为教育系统自身的逻辑和语言代码——在教育实践中，这种规制转向具体体现为从“教学（Teaching）”向“学习（Learning）”的重心位移（Fenwick et al., 2014），进而推动了[[Datafication of Learning\|学习数据化]]（Datafication of Learning）（Thoutenhoofd, 2018; p. 546）。系统对“外部参照点的内部建构”不仅赋予了系统额外的解释意义，更有助于再生产系统自身的制度认同并生产确定性。
+>   因此，系统外部的重大变迁（如公共行政领域转向以结果为导向的[[Neoliberalism|新自由主义]]规制）若要在教育系统中发挥实效，必须在教育系统内部产生共鸣，被赋予本土意义，并被转译为教育系统自身的逻辑和语言代码——在教育实践中，这种规制转向具体体现为从“教学（Teaching）”向“学习（Learning）”的重心位移（Fenwick et al., 2014），进而推动了[[Datafication of Learning\|学习数据化]]（Datafication of Learning）（Thoutenhoofd, 2018; p. 546）。系统对“外部参照点的内部建构”不仅赋予了系统额外的解释意义，更有助于再生产系统自身的制度认同并生产确定性。
 > - **结论：外化充当规制性理念，由本土危机触发策略性动员**
 >   正因外部参照点是系统内部的建构，依据[[Niklas Luhmann\|尼克拉斯·卢曼]]（Niklas Luhmann）的系统论洞见，外化或对这类拟似外部参照点的建构，在本质上充当了规制性理念。在转移空间中，旷日持久的国内政策僵局、政党轮替、摆脱不光彩历史的冲动、[[Geopolitics\|地缘政治]]重构以及对外援助依赖，构成了促使本土精英策略性动员外部[[Reference Society\|参考社会]]与国际组织权威的关键契机。
 

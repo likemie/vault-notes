@@ -23,12 +23,14 @@ related_concepts:
   - "[[Educational Meritocracy]]"
   - "[[Tracking]]"
   - "[[Cultural Capital]]"
+  - "[[Neoliberalism]]"
   - "[[Formative Assessment]]"
   - "[[Academic Achievement]]"
   - "[[Operationalization]]"
   - "[[Genius]]"
   - "[[Creativity]]"
   - "[[International Baccalaureate]]"
+  - "[[Ability-Driven Education]]"
   - "[[Alienation]]"
   - "[[Homework]]"
   - "[[Quality Education]]"
@@ -48,10 +50,12 @@ related_persons:
 related_facts:
   - "[[Primary Education Review and Implementation]]"
   - "[[Primary School Leaving Examination]]"
+  - "[[Desired Outcomes of Education]]"
   - "[[Goh Report]]"
   - "[[Integrated Programme]]"
   - "[[Independent Schools Initiative]]"
   - "[[Direct School Admission]]"
+  - "[[Singapore National Education]]"
   - "[[Cram Schools]]"
 related_arguments: []
 sources:
@@ -66,9 +70,9 @@ title: "Argument_Lim_2013_APJE"
 argument_key: "Argument_Lim_2013_APJE"
 argument_display_title: "Meritocracy, elitism, and egalitarianism: A preliminary and provisional assessment of Singapore’s primary education review"
 argument_kind: "journal-article"
-argument_related_count: 28
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 32
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: "Asia Pacific Journal of Education"
 book_title: ""
@@ -100,14 +104,14 @@ issuing_organization: ""
 > | **文化资本与资本转化理论**<br>[[Cultural Capital]] | 依据皮埃尔·布迪厄（[[Pierre Bourdieu\|Bourdieu, 1984]]）与安妮特·拉鲁（Lareau, 2003）的阶层再生产逻辑，揭示优势阶层如何将经济资本与闲暇时间转化为非学术领域的高端资质，实现教育特权的跨赛道再生产。 |
 
 > [!warrant]- 理论如何支撑论证
-> 理论工具将宏观国家治理合法性、中观教育政策设计与微观家庭资本运作融为有机整体。首先借助唯才是用[[Critical Theory|批判理论]]，剖析新加坡政府在基尼系数扩大背景下重申均等主义修辞的政治合法性动因；进而结合布迪厄的资本转化理论，解释优势家庭为何能迅速在新自由主义教育市场中殖民非学术才干赛道；最后运用[[Basil Bernstein|伯恩斯坦]]的教学语码框架，透析表面中立的探究式课堂实践与质性[[Formative Assessment|形成性评价]]背后所内嵌的中产阶级家庭规训要求。
+> 理论工具将宏观国家治理合法性、中观教育政策设计与微观家庭资本运作融为有机整体。首先借助唯才是用[[Critical Theory|批判理论]]，剖析新加坡政府在基尼系数扩大背景下重申均等主义修辞的政治合法性动因；进而结合布迪厄的资本转化理论，解释优势家庭为何能迅速在[[Neoliberalism|新自由主义]]教育市场中殖民非学术才干赛道；最后运用[[Basil Bernstein|伯恩斯坦]]的教学语码框架，透析表面中立的探究式课堂实践与质性[[Formative Assessment|形成性评价]]背后所内嵌的中产阶级家庭规训要求。
 
 ---
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **政策文本考证** | 细致解剖 2009 年《小学教育审查与实施委员会报告》、历年国会拨款委员会辩论记录以及教育部《教育理想成果》（Desired Outcomes of Education）指导纲要。 |
+> | **政策文本考证** | 细致解剖 2009 年《小学教育审查与实施委员会报告》、历年国会拨款委员会辩论记录以及教育部《教育理想成果》（[[Desired Outcomes of Education]]）指导纲要。 |
 > | **批判性政策分析**<br>[[Critical Policy Analysis]] | 对比政策文本中的均等化修辞与制度结构现实，追踪教育政策如何一方面提供早期资源倾斜，另一方面维系精英选拔特权，解构其背后的意识形态功能。 |
 > | **人口统计与社会调查互证** | 交叉比对新加坡 2010 年人口普查数据、全国报刊针对名校生家庭语言与收入的实证调查，以及公共服务委员会（Public Service Commission, PSC）总统与海外奖学金得主的家庭阶层背景分布。 |
 
@@ -176,7 +180,7 @@ issuing_organization: ""
 > [!sub-claim] 4. 零星的补偏改革未能打破顶层名校的特权网络
 
 > [!critique] 补偏性改良与教育市场化的结构性悖论
-> - **边缘修补难以动摇核心赛道** 1990 年代起实施的教育储蓄计划（Edusave）资助、能力驱动教育（ADE）及合并分流等措施，虽在局部缓解了学业压力，但并未触动高利害学术淘汰与名校特权分轨的根本格局（C. Tan, 2008; J. Tan, 2008b）。
+> - **边缘修补难以动摇核心赛道** 1990 年代起实施的教育储蓄计划（Edusave）资助、[[Ability-Driven Education|能力驱动教育]]（ADE）及合并分流等措施，虽在局部缓解了学业压力，但并未触动高利害学术淘汰与名校特权分轨的根本格局（C. Tan, 2008; J. Tan, 2008b）。
 > - **新自由主义市场化反向加剧聚集** 改革与教育市场化逻辑（学校办学自主权下放、特色直接招生）相互交织，使顶尖名校获得更强的资本吸附力与生源直升壁垒，普通学生向上流动渠道依然狭窄（Apple, 2006; Ball, 1993）。
 
 > [!row-contrast] 新加坡前期均等化改革举措及其制度局限
@@ -185,7 +189,7 @@ issuing_organization: ""
 > | **教育储蓄计划（Edusave）与机会基金** | 为家庭经济困难学童提供课外辅导与校本提升活动专项资助，防范阶层掉队。 | 补贴额度相对有限，无法抗衡富裕中产家庭长期在校外商业高价补习机构的持续投入。 |
 > | **取消初中统一天才班（GEP）** | 取消初中阶段中央统一管辖的天才班分轨，促进资优生与普通学生融合。 | 资优生毕业后直接全员流入顶尖直通车名校（IP），各名校转而建立校本天才课程，特权网络更加封闭。 |
 > | **直接学校招生计划（[[Direct School Admission\|DSA]]）** | 允许中学与初级学院自主招收具备体育、艺术、领导力等非学术特长的学生。 | 招生名额大多集中于历史名校，且申请者仍需达到接近常规学术录取分数线的门槛，未惠及弱势学生。 |
-> | **[[Singapore National Education|国民教育大纲（National Education）]]** | 构建跨阶层跨族群的国家凝聚力，培育国民对共同命运的认同。 | 课程针对不同学轨的学生设计差异化目标：潜在领导精英培养创新思维与全球视野，普通学生侧重服从与岗位奉献。 |
+> | **[[Singapore National Education\|国民教育大纲（National Education）]]** | 构建跨阶层跨族群的国家凝聚力，培育国民对共同命运的认同。 | 课程针对不同学轨的学生设计差异化目标：潜在领导精英培养创新思维与全球视野，普通学生侧重服从与岗位奉献。 |
 
 ---
 

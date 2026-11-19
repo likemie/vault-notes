@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 102
+fact_related_count: 103
 fact_related_level: 10
 fact_related_stars: "💎💎💎⭐"
 fact_related_color: "#fecdd3"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Compensatory Legitimation]]"
   - "[[Educational Multilateralism]]"
+  - "[[Neoliberalism]]"
   - "[[Discourse]]"
   - "[[School Autonomy]]"
   - "[[Encyclopaedic Definition of Knowledge]]"
@@ -136,7 +137,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -174,7 +175,7 @@ updated: 2026-11-15
 >
 > - **1980–2000** **规训性多边主义冲击、财政边缘化与[[Education for All|全民教育]]（Education for All，EFA）**
 >
->   全球[[Educational Multilateralism|教育多边主义]]转入新自由主义主导的防卫性与规训性多边主义（Defensive and Disciplinary Multilateralism），教科文组织设定全球教育政策方向的主导权被信贷资本雄厚的世界银行取代。[[Argument_Arnove_2009_WorldSystems|(Mundy, 1998, 1999; Heyneman, 2003, cited in Arnove, 2009, p. 110)]]
+>   全球[[Educational Multilateralism|教育多边主义]]转入[[Neoliberalism|新自由主义]]主导的防卫性与规训性多边主义（Defensive and Disciplinary Multilateralism），教科文组织设定全球教育政策方向的主导权被信贷资本雄厚的世界银行取代。[[Argument_Arnove_2009_WorldSystems|(Mundy, 1998, 1999; Heyneman, 2003, cited in Arnove, 2009, p. 110)]]
 >
 >   - **1984–1985** 美英等国因不满新世界信息秩序相继退约并冻结经常性会费，教科文组织陷入[[Discourse|话语]]与财政的双重边缘化。
 >   - **1990** 在泰国宗迪恩联合发起世界全民教育大会。联合国教科文组织力推涵盖幼儿、扫盲与生活技能的广义基础教育，但世界银行与[[UNICEF|联合国儿童基金会]]在现场宣布将资金严格集中于正规小学教育，主导权由此发生实质性转移。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 466)]]; [[Argument_King_2007_CE|(King, 2007, pp. 383–384)]]

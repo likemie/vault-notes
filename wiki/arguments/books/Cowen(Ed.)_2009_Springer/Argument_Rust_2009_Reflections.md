@@ -7,7 +7,7 @@ title: "Argument_Rust_2009_Reflections"
 argument_key: "Argument_Rust_2009_Reflections"
 argument_display_title: "Reflections on the development of comparative education"
 argument_kind: "book-chapter"
-argument_related_count: 131
+argument_related_count: 132
 argument_related_level: 13
 argument_related_stars: "💎💎💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Scientific Paradigm]]"
   - "[[Dissimilar Units]]"
+  - "[[Neoliberalism]]"
   - "[[Postpositivism]]"
   - "[[Policy Translation]]"
   - "[[Transnational Education]]"
@@ -198,7 +199,7 @@ updated: 2026-11-19
 > |---|---|
 > | **[[Influences Across Cultures\|跨文化影响]]**<br>Influences Across Cultures | 借鉴比较文学追踪母题与体裁在时空跨度中迁徙的分析方法，系统解构教育观念与体制规程在民族国家间的双向流动与再造，确立历史[[Positivism\|实证主义]]的[[Epistemology\|认识论]]合法性。（pp.123–124） |
 > | **[[Scientific Paradigm\|比较教育学科学范式]]**<br>Scientific Paradigm | 审视十九世纪末以来教育学追求实证科学地位的动力机制，辨析归纳法与假说演绎法在处理社会文化“[[Dissimilar Units\|非同质单位]]”（dissimilar units）时的认识论边界。（pp.126–129） |
-> | **[[Typology of Educational Responses to Globalization\|全球化教育响应类型学]]**<br>Typology of Educational Responses to Globalization | 整合主动借用的“接受”、草根反叛的“抵制”、本土知识赋权的“恢复”以及核心霸权强加的“强制再生产”，构建解构全球新自由主义教育扩张的批判分析工具。（pp.133–135） |
+> | **[[Typology of Educational Responses to Globalization\|全球化教育响应类型学]]**<br>Typology of Educational Responses to Globalization | 整合主动借用的“接受”、草根反叛的“抵制”、本土知识赋权的“恢复”以及核心霸权强加的“强制再生产”，构建解构全球[[Neoliberalism\|新自由主义]]教育扩张的批判分析工具。（pp.133–135） |
 > | **批判教育学与解放实践**<br>Critical Pedagogy and Praxis of Liberation | 引入[[Henry Giroux\|亨利·吉鲁]]（Henry Giroux）的再生产理论与保罗·弗莱雷（[[Paulo Freire]]）的“教育即政治”命题，揭示资本主义现代性对教育伦理的侵蚀，为学科确立促进和平与社会正义的人道主义伦理锚点。（pp.134–135） |
 
 > [!warrant]- 理论如何支撑论证

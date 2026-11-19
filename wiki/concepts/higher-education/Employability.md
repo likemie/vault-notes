@@ -6,10 +6,10 @@ aliases:
 summary: "劳动力市场中获取与维持就业的可雇用性构念；涵盖求职者的绝对专业能力与大众化文凭通胀下的相对排序竞争，并在超国家空间治理与技能话语中被重构为融合跨国流动弹性与自我企业家精神的个体化规训机制。"
 type: concept
 domain: "higher-education"
-related_count: 53
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 61
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - employability
   - higher-education
@@ -28,9 +28,15 @@ related_concepts:
   - "[[Economy of Experience]]"
   - "[[Metacognition]]"
   - "[[Alienation]]"
+  - "[[Neoliberalism]]"
   - "[[Lifelong Learning]]"
   - "[[Soft Power]]"
   - "[[Cultural Capital]]"
+  - "[[Goal-Controlled Mode]]"
+  - "[[Extracurricular Activities]]"
+  - "[[Performance Capital]]"
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Cultural Code]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Success Criteria]]"
   - "[[Knowledge-Based Economy]]"
@@ -61,6 +67,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Discourse Analysis]]"
 related_persons:
+  - "[[Phillip Brown]]"
   - "[[Yajun Zheng]]"
 related_facts:
   - "[[EU]]"
@@ -75,11 +82,12 @@ related_arguments:
   - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
   - "[[Argument_Wong_2022_HERD]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch04]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
 confidence: high
 status: active
 created: '2026-05-08'
-updated: 2026-11-17
+updated: 2026-11-19
 ---
 
 ---
@@ -88,7 +96,7 @@ updated: 2026-11-17
 > 就业能力（Employability，又称就业力）指劳动者（特别是高校毕业生）在劳动力市场中获取、维持和转换体面就业的综合潜能与资格[[Construct|构念]]。该概念最初指劳动者满足工作岗位基准要求的**绝对专业能力**（由知识、技术训练与资格证书决定）；但在高等教育大众化与[[Credential Inflation|文凭通胀]]背景下，它日益演变为建立在求职者群体内部相互比较与筛选之上的**相对排序位置**。求职者不仅需要持有学历凭证，还必须对个人经历、交往网络、品格气质乃至空间适应性进行战略性管理与展示，以争取稀缺优质岗位。[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君，2023)]]; [[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, p. 258)]]; [[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 363)]]
 
 > [!concept-lens|notitle] 概念透镜
-> - **双重属性结构** 英国社会学家菲利普·布朗（Phillip Brown）确立了就业力的双重结构：绝对维度（基准知识与履职能力）与相对维度（在竞争队列中的相对位次）。当高等教育扩张导致大量求职者同时具备充分的绝对能力时，雇主的筛选标准必然由硬性的学位证书向软性的社会资本、经历包装与自我呈现转移。
+> - **双重属性结构** 英国社会学家[[Phillip Brown|菲利普·布朗]]（Phillip Brown）确立了就业力的双重结构：绝对维度（基准知识与履职能力）与相对维度（在竞争队列中的相对位次）。当高等教育扩张导致大量求职者同时具备充分的绝对能力时，雇主的筛选标准必然由硬性的学位证书向软性的社会资本、经历包装与自我呈现转移。
 > - **[[Discourse|话语]]建构与主体性塑造** 就业能力不仅是一组客观技术能力的集合，更是由教育、经济与政[[Governmentality|治理性]]共同建构的话语范畴。它将劳动力重塑为持续进行自我[[Human Capital Theory|人力资本]]核算与投资的[[Self-Entrepreneur|自我企业家]]（Self-Entrepreneur）。
 > - **[[Spatial Governmentality|空间化治理]]与劳动力风险个体化** 在超国家治理语境（如[[European Education Space|欧洲教育空间]]）中，跨国空间移动（[[Student Mobility|学生流动性]]）被直接重构为现代就业能力的核心构件；将宏观劳动力市场动荡与结构性失业的系统性风险，隐蔽地转嫁为劳动者是否具备主动跨国流动与终身适应能力的个人责任。
 
@@ -108,7 +116,7 @@ updated: 2026-11-17
 > [!contrast-table] 就业能力四大分析维度的系统特征对比
 > | 比较维度 | 绝对能力维度 | 相对排位维度 | 空间流动维度 | 自我企业化维度 |
 > |---|---|---|---|---|
-> | **理论依托** | 古典[[Human Capital Theory\|人力资本理论]] | 队列筛选与[[Credential Inflation\|文凭通胀]]理论 | 空间[[Governmentality\|治理术]]与超国家政策 | 福柯新自由主义生命政治学 |
+> | **理论依托** | 古典[[Human Capital Theory\|人力资本理论]] | 队列筛选与[[Credential Inflation\|文凭通胀]]理论 | 空间[[Governmentality\|治理术]]与超国家政策 | 福柯[[Neoliberalism\|新自由主义]]生命政治学 |
 > | **核心评价标尺** | 学位等级、考试分数、资格证书 | 实习声望、面试情商、履历厚度 | 跨国交流时长、跨文化适应力 | [[Lifelong Learning\|终身学习]]自觉、市场敏锐度 |
 > | **主要驱动机构** | 传统大学院系与行业准入协会 | 跨国企业人力资源部、咨询投行 | 超国家联盟（欧盟委员会、[[OECD]]） | 国际智库、全球技能框架评估方 |
 > | **风险归属逻辑** | 未掌握技术归因于专业训练缺失 | 排位靠后归因于[[Soft Power\|软实力]]与包装不足 | 缺乏岗位归因于个体拒绝地理流动 | 失业归因于个体自我经营缺乏能动性 |
@@ -122,7 +130,7 @@ updated: 2026-11-17
 > **[[Credential Inflation|文凭通胀]]下的相对就业力统治** 在分析高等教育大众化时代的毕业生竞争时指出，文凭从昔日的就业保障退化为初筛门槛。面对高度同质化的学术资格，雇主转向考察求职者展示自我品质、性格修养与组织契合度的“演绎能力”（Performance）。求职者被迫卷入对实习声望、名企背书与职业人际网络的无休止竞逐，使就业能力演变为高度阶层化、依赖家庭社会文化资本支撑的相对排序博弈。
 
 > [!claim] [[Argument_Zheng_2023_ShanghaiSanlian_Ch04|郑雅君 (2023, 第四章)]]
-> **相对就业力赛场与微观演绎能力锻造** 郑雅君（[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|2023, 第四章]]）实证剖析了两类生活组织模式在就业能力维度的微观博弈：在高等教育大众化与文凭贬值背景下，毕业出路竞争呈现绝对与相对两重属性；绝对就业力（基准专业知识与学分绩点）仅构成初赛门槛，而决定最终录取位次的决定性胜负手是依托名企实习、跨界社交与课外任职所锻造的相对就业力。目标掌控者在维持学业安全门槛后，将大量精力投入课外实践，通过多轮实习试错或顺藤摸瓜锚定出路，并在名企终面中展现高情商、从容仪态与即时转化率等表现性资本（expressive capital）；直觉依赖者则因文化语码不适配与社交挫败被阻隔于实习网络之外，导致在相对排位中处于系统性劣势。
+> **相对就业力赛场与微观演绎能力锻造** [[Yajun Zheng|郑雅君]]（[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|2023, 第四章]]）实证剖析了两类生活组织模式在就业能力维度的微观博弈：在高等教育大众化与文凭贬值背景下，毕业出路竞争呈现绝对与相对两重属性；绝对就业力（基准专业知识与学分绩点）仅构成初赛门槛，而决定最终录取位次的决定性胜负手是依托名企实习、跨界社交与课外任职所锻造的相对就业力。[[Goal-Controlled Mode|目标掌控]]者在维持学业安全门槛后，将大量精力投入[[Extracurricular Activities|课外实践]]，通过多轮实习试错或顺藤摸瓜锚定出路，并在名企终面中展现高情商、从容仪态与即时转化率等[[Performance Capital|表现性资本]]（expressive capital）；[[Intuition-Dependent Mode|直觉依赖]]者则因[[Cultural Code|文化语码]]不适配与社交挫败被阻隔于实习网络之外，导致在相对排位中处于系统性劣势。
 
 ---
 

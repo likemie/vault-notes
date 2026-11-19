@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 46
+person_related_count: 49
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[PISA Shock]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Document]]"
+  - "[[Neoliberalism]]"
   - "[[Examination-Oriented Education]]"
   - "[[International Large-Scale Assessments]]"
   - "[[High-Stakes Testing]]"
@@ -59,6 +60,8 @@ related_instruments:
 related_persons:
   - "[[Paul Morris]]"
   - "[[Yong Zhao]]"
+  - "[[Zongyi Deng]]"
+  - "[[Saravanan Gopinathan]]"
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
@@ -78,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -128,7 +131,7 @@ updated: 2026-11-18
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 系统解构施莱歇尔与经合组织塑造的“新加坡作为亚洲成功样板”叙事，揭示 PISA 评估如何将高绩效归因于普适改革处方，同时遮蔽了东亚制度历史、高利害考试反拨与微观课堂实践的复杂真实。
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] — 权威援引其[[Document|文献]]，揭示其作为 PISA 总设计师如何超越短期媒体轰动，将经合组织建构成规制全球公共政策的标准设定中枢。
-> - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 系统解构施莱歇尔在媒体发布会上使用的 147 张演示幻灯片，揭示其迎合传媒逻辑、推销新自由主义治理愿景的技术修辞。
+> - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 系统解构施莱歇尔在媒体发布会上使用的 147 张演示幻灯片，揭示其迎合传媒逻辑、推销[[Neoliberalism|新自由主义治理]]愿景的技术修辞。
 > - [[Argument_Zhao_2020_JEC\|Zhao (2020)]] — 批判其利用东方威权[[Examination-Oriented Education\|应试教育]]体系的“自我谴责”特质粉饰 PISA 排名，进而误导西方教育政策改革。
 > - [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] — 批判施莱歇尔与经合组织在 2018 年哥本哈根会议提出的 21 世纪技能[[Discourse|话语]]，揭示其如何将教育简化为不可预测未来的适应性伺服工具，遮蔽了德意志教化传统的规范性自主追求。
 
@@ -145,7 +148,7 @@ updated: 2026-11-18
 > - **批评者／论敌** 83 位国际顶尖学者 — 2014 年 5 月在英国《卫报》联名致信施莱歇尔，抗议 PISA 窄化课程、加剧应试狂热与推行全球公学商业化。
 > - **批评者／论敌** [[Paul Morris]] — 深入批判其在媒体公关中使用的口号化修辞与商业化咨询倾向。
 > - **批评者／论敌** [[Yong Zhao\|赵勇]] — 批评其过度推崇[[High-Stakes Testing\|高利害测验]]与威权文化中的学生自我归咎心理。
-> - **批评者／论敌** 邓宗怡（Zongyi Deng）与高平纳坦（S. Gopinathan）— 深入批判其将新加坡打造成全球 PISA 标杆的去情境化叙事与[[Policy Borrowing|政策借用]]幻觉（[[Argument_Deng_2016_CE|Deng & Gopinathan, 2016]]）。
+> - **批评者／论敌** [[Zongyi Deng|邓宗怡]]（Zongyi Deng）与[[Saravanan Gopinathan|高平纳坦]]（S. Gopinathan）— 深入批判其将新加坡打造成全球 PISA 标杆的去情境化叙事与[[Policy Borrowing|政策借用]]幻觉（[[Argument_Deng_2016_CE|Deng & Gopinathan, 2016]]）。
 
 ---
 

@@ -12,7 +12,7 @@ cssclasses:
   - person-page
 nationality: portugal
 person_region: "portugal"
-person_related_count: 33
+person_related_count: 36
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Open Method of Coordination]]"
   - "[[Subsidiarity Principle]]"
   - "[[Champ]]"
+  - "[[Neoliberalism]]"
   - "[[Enlightenment]]"
   - "[[Governing by Numbers]]"
   - "[[Rich and Thick Description]]"
@@ -62,6 +63,8 @@ related_facts:
   - "[[Education in Europe]]"
   - "[[Bologna Process]]"
   - "[[PISA]]"
+  - "[[OECD]]"
+  - "[[European Commission]]"
   - "[[German Dual Education System]]"
 related_arguments:
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
@@ -71,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -106,7 +109,7 @@ updated: 2026-11-15
 > - **2002b — *Ways of thinking about [[Education in Europe]]*（收录于与 Martin Lawn 合编的 *Fabricating Europe*）** 深入分析[[EU|欧盟]]在《马斯特里赫特条约》[[Subsidiarity Principle|辅助性原则]]限制下，如何通过最佳实践交流、量化基准指标与[[Bologna Process|博洛尼亚进程]]三大软性治理机制，穿透主权国家边界建构欧洲教育空间。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]
 > - **2002c — *Ways of Saying, Ways of Seeing: Public Images of Teachers (19th-20th Centuries)*** 从文化史与视觉表征角度解析教师职业身份与公众形象的百年演变。
 > - **2003 — *Media and the Education [[Champ|Field]]*（与 Tamar Yariv-Mashal 合著）** 揭示教育数据与指标的大规模生产如何迎合大众媒体与公众舆论，构建超越国家规训的“全球眼”（Global Eye）[[Panopticism|全景敞视]]，指出持续收集数据反映舆论实质上催生了制造永久自我辩护的应急治理体系。[[Argument_Xie_Li_Huang_2021_GEO|(Nóvoa & Yariv-Mashal, 2003, cited in Xie et al., 2021, p. 248)]]
-> - **2019 — *The Future of Education: A Collective and Public Responsibility*** 呼吁将教育确立为不可剥夺的人类共同利益，批判新自由主义市场化对公共教育的侵蚀。
+> - **2019 — *The Future of Education: A Collective and Public Responsibility*** 呼吁将教育确立为不可剥夺的人类共同利益，批判[[Neoliberalism|新自由主义]]市场化对公共教育的侵蚀。
 
 ---
 
@@ -143,7 +146,7 @@ updated: 2026-11-15
 ---
 
 > [!citation-card] 格雷克论诺沃亚“比较作为治理政策”的理论洞见
-> 诺沃亚（2002）指出，在当代超国家教育治理中，“比较”已经从一种学术研究方法彻底转变为一种活跃的治理政策本身。经合组织与欧盟委员会通过设立共同指标基准线与质量报告，使国家在与他者的持续对比中自发内化改革指令。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24–25)]]
+> 诺沃亚（2002）指出，在当代超国家教育治理中，“比较”已经从一种学术研究方法彻底转变为一种活跃的治理政策本身。[[OECD|经合组织]]与[[European Commission|欧盟委员会]]通过设立共同指标基准线与质量报告，使国家在与他者的持续对比中自发内化改革指令。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24–25)]]
 >
 > *Nóvoa (2002) observed that comparison is no longer merely a method of academic inquiry, but has become a policy of governance in its own right.*
 

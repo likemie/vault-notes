@@ -10,7 +10,7 @@ subtype: organization
 region: latin-america
 fact_region: "latin-america"
 fact_kind: "organization"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Knowledge Mediation]]"
   - "[[Output-Oriented Governance]]"
   - "[[Knowledge Co-production]]"
+  - "[[Neoliberalism]]"
 related_theories: []
 related_methods:
   - "[[Questionnaire]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-26
+updated: 2026-11-19
 ---
 
 ---
@@ -99,7 +100,7 @@ updated: 2026-10-26
 
 > [!tension] 区域枢纽的桥接价值与发展张力
 > - **拓扑网络中的稀缺黄色桥梁** 在联合国教科文组织的两模证据拓扑分析中，CLADE 是全球极少数能够发挥双向转译功能的区域枢纽之一。它一方面能够将全球北方生产的抽象实证结论转译为拉美西语与葡语情境下的行动方案，另一方面将本土基层需求有效反馈至全球决策层，具有极高的网络拓扑价值。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 23–24)]]
-> - **政局动荡对国家联盟的冲击** 拉美多国近年来政党轮替频繁、极端保守思潮与新自由主义回潮对公立教育形成挑战，促使 CLADE 必须在维持政治中立与坚持捍卫人权立场之间保持高度警惕。
+> - **政局动荡对国家联盟的冲击** 拉美多国近年来政党轮替频繁、极端保守思潮与[[Neoliberalism|新自由主义]]回潮对公立教育形成挑战，促使 CLADE 必须在维持政治中立与坚持捍卫人权立场之间保持高度警惕。
 
 ---
 

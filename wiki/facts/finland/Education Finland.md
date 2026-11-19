@@ -10,7 +10,7 @@ subtype: organization
 region: finland
 fact_region: "finland"
 fact_kind: "organization"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Industry Affiliate Program]]"
   - "[[International Schools]]"
   - "[[Global Education Industry]]"
+  - "[[Neoliberalism]]"
   - "[[The Sublime]]"
   - "[[Public-Private Partnership]]"
   - "[[Transnational Education]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-09
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 ---
@@ -120,7 +121,7 @@ updated: 2026-11-14
 
 > [!finding-cards] 关键成效与辐射影响
 > - **推动芬兰教育由福利体制向产业化转轨** 将分散在大学和民间的个别国际合作统整为由国家领航的系统性出口产业，显著提升了芬兰教育科技产业的跨境融资能力。
-> - **加剧公立资源向商业资本的非对称外溢** 批判学者指出，Education Finland 的运作模式实质上将公立学校降格为私营企业的展示橱窗，强化了新自由主义商业逻辑对公立教育的渗透。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 391–393)]]
+> - **加剧公立资源向商业资本的非对称外溢** 批判学者指出，Education Finland 的运作模式实质上将公立学校降格为私营企业的展示橱窗，强化了[[Neoliberalism|新自由主义]]商业逻辑对公立教育的渗透。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 391–393)]]
 
 > [!stat-cards]- 核心规模数据
 > - **100+** （家） 长期维系经官方认证的高校子公司、职业学院与科技企业正式会员规模。

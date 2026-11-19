@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 35
+person_related_count: 36
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Scientific Explanation]]"
   - "[[Interdiscursivity]]"
+  - "[[Neoliberalism]]"
   - "[[Champ]]"
   - "[[Order of Discourse]]"
   - "[[Geopolitics]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -89,7 +90,7 @@ updated: 2026-11-11
 > - **1989 年** 出版开创性专论 *Language and Power*，正式确立批判[[Discourse|话语]][[Paradigm|研究范式]]，系统揭示日常语言与制度文本中隐藏的权力关系与意识形态。
 > - **1992 年** 出版 *Discourse and Social Change*，提出三维分析模型（文本、话语实践、社会实践），建立互文性（Intertextuality）与[[Interdiscursivity|互话语性]]（Interdiscursivity）的分析工具。
 > - **1995 年** 出版 *[[Critical Discourse Analysis]]: The Critical Study of Language*，系统整合 CDA 理论体系与经验研究案例。
-> - **1998 年** 推进官方政策话语的批判研究，揭示技术化修辞如何使新自由主义权力关系自然化。
+> - **1998 年** 推进官方政策话语的批判研究，揭示技术化修辞如何使[[Neoliberalism|新自由主义]]权力关系自然化。
 > - **2000 年代初** 长期执教于兰卡斯特大学，与社会学学者[[Bob Jessop|鲍勃·杰索普]]（Bob Jessop）、沈碧莲（Ngai-Ling Sum）等人密切合作，推进 CDA 与[[Cultural Political Economy|文化政治经济学]]（CPE）及[[Critical Realism|批判实在论]]（Critical Realism）的深度融合。
 > - **2013 年** 发表 *Critical [[Discourse Analysis]]: The Critical Study of Language (2nd ed.)*，确立问题驱动（Problem-driven）的批判政策[[Analytic Framework|分析框架]]。
 

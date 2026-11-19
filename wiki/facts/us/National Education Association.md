@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 38
+fact_related_count: 39
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Paradigm]]"
   - "[[Gatekeepers]]"
+  - "[[Neoliberalism]]"
   - "[[School Choice]]"
   - "[[Charter Schools]]"
   - "[[Performance Pay]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -145,7 +146,7 @@ updated: 2026-11-15
 
 > [!debates] 核心争议交锋
 >
-> > [!axis] 工会集体谈判机制 vs 新自由主义市场化问责
+> > [!axis] 工会集体谈判机制 vs [[Neoliberalism|新自由主义]]市场化问责
 > > 保守派与新自由主义市场化改革者（倡导凭证[[School Choice\|择校]]、[[Charter Schools|特许学校]]扩张、按学生考试成绩发放[[Performance Pay\|绩效工资]]及取消教师终身聘用保护）长期指责 NEA 阻碍教育创新与清除不合格教师。
 > >
 > > - **批评视角** 认为工会严格的资历制与聘用保护压制了青年优秀教师的积极性，增加了学校解雇低效教师的行政成本。

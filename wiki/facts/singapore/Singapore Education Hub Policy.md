@@ -12,7 +12,7 @@ subtype: policy
 region: singapore
 fact_region: "singapore"
 fact_kind: "policy"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -40,13 +40,14 @@ related_methods: []
 related_persons:
   - "[[Lee Kuan Yew]]"
 related_facts:
+  - "[[1997 Asian Financial Crisis]]"
   - "[[Ministry of Education of the People's Republic of China]]"
 related_arguments:
   - "[[Argument_Erfurth_2022_education-hubs]]"
 confidence: medium
 status: draft
 created: 2026-05-19
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 > [!info] 背景
@@ -69,7 +70,7 @@ updated: 2026-11-11
 
 - **1990 年代初** 新加坡领导层在冷战结束后的地缘经济重组中确立"亚洲门户"定位，开始在航空、银行/金融等领域建立枢纽地位。高等教育被视为枢纽转型的组成部分([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.206–207]])
 - **1992 年** 哈佛肯尼迪学院与新加坡国立大学（NUS）设立政策项目，后发展为 **[[Lee Kuan Yew|李光耀]]公共政策学院**——旨在培育新加坡及区域未来政治和行政精英，是[[Cultural Diplomacy|文化外交]]维度的标志性举措（p.207）
-- **1996–1997 年** 受亚洲金融危机影响，新加坡提出"**东方波士顿**"（Boston of the East）战略——核心逻辑是复刻波士顿在美国的成功模式：高等教育+研究+商业的聚集效应。具体操作是将 NUS 按哈佛模式、南洋理工大学（NTU，原为华人创办、可能被视为共产主义象征）按 MIT 模式进行重塑。这一战略标志着新加坡从区域整合转向**全球整合（pp.207–208）**
+- **1996–1997 年** 受[[1997 Asian Financial Crisis|亚洲金融危机]]影响，新加坡提出"**东方波士顿**"（Boston of the East）战略——核心逻辑是复刻波士顿在美国的成功模式：高等教育+研究+商业的聚集效应。具体操作是将 NUS 按哈佛模式、南洋理工大学（NTU，原为华人创办、可能被视为共产主义象征）按 MIT 模式进行重塑。这一战略标志着新加坡从区域整合转向**全球整合（pp.207–208）**
 - **2000 年前后** 纽约大学 Tisch 艺术学院在新加坡设立项目（旨在培育区域创意精英），但最终失败。耶鲁-新加坡国立大学学院（Yale-NUS）于 2011 年建立，成为区域内首个声誉卓越的文理学院（p.208）
 
 ### 第二阶段："全球校园"（2002–2007）

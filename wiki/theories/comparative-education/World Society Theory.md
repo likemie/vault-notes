@@ -10,10 +10,10 @@ aliases:
 summary: "斯坦福学派新制度主义社会学理论，将全球大众教育和国家体制的跨国趋同阐释为世界文化模型扩散与模仿的产物。主张去中心化的世界社会依赖无私代理人的他者性机制输出进步与正义规范，同时该理论面临政治现实主义与批判政治经济学关于掩盖中心边缘依附剥削、实质不平等及微观抵制能动性的深刻批评。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 47
-theory_related_level: 4
-theory_related_stars: "💎⭐"
-theory_related_color: "#fce7f3"
+theory_related_count: 50
+theory_related_level: 5
+theory_related_stars: "💎⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - region/global
   - paradigm/globalization
@@ -26,6 +26,7 @@ related_concepts:
   - "[[New Mythology]]"
   - "[[Geopolitics]]"
   - "[[Organizational Actorhood]]"
+  - "[[Mimesis]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[Lifelong Learning]]"
   - "[[Critical Thinking]]"
@@ -38,6 +39,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Dual School System]]"
   - "[[Epistemology]]"
+  - "[[Neoliberalism]]"
   - "[[Time-Space Compression]]"
   - "[[Epistemic Governance]]"
   - "[[Policy Borrowing]]"
@@ -57,6 +59,7 @@ related_persons:
   - "[[Immanuel Wallerstein]]"
   - "[[Max Weber]]"
   - "[[Robert Arnove]]"
+  - "[[Karl Marx]]"
 related_facts:
   - "[[World Bank]]"
   - "[[UN Sustainable Development Goals]]"
@@ -74,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-11
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -113,7 +116,7 @@ updated: 2026-11-15
 > |:-----|:-----|:--------------|
 > | [[Otherhood]] | 概念 / 机制 | 世界社会非强制运行的核心中立授权机制，非国家行动者（科学家、大学、多边机构）充当无私代言人输出规范。 |
 > | [[Organizational Actorhood]] | 概念 | 全球[[Cultural Models\|文化模型]]塑造的组织自主性、目标性、问责性与嵌入性特征，是宏观趋同的微观体现。 |
-> | [[Cultural Models]] | 概念 | 理智化、标准化的全球进步与正义模板，是跨国模仿和仪式性采纳的内容载体。 |
+> | [[Cultural Models]] | 概念 | 理智化、标准化的全球进步与正义模板，是跨国[[Mimesis\|模仿]]和仪式性采纳的内容载体。 |
 > | 制度脱耦（Decoupling） | 机制 | 组织在正式结构上采纳全球规范以获取外部合法性，但在日常实际运作中依然故我的双重应对机制。 |
 > | 理性神话（Rational Myths） | 概念 | 被社会广泛共享并视为理所当然的规则信条（如“教育促进繁荣”），不依赖实证效能即可赋予机构合法性。 |
 > | [[Institutional Isomorphism\|制度同构]]（Isomorphism） | 机制 | 处于相同制度环境中的组织在强制、模仿与规范压力下，形式与结构逐渐走向趋同的社会学过程。 |
@@ -219,7 +222,7 @@ updated: 2026-11-15
 
 > [!critique] 批评索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 运用冲突取向的[[World-Systems Theory|世界体系分析]]与多国微观案例，全面解构新制度主义世界文化论，揭示形式趋同掩盖实质不平等、援助固化国际分层以及微观能动抗争的现实。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 从马克思主义政治经济学解构世界文化理论的非历史大爆炸假说，指出其无法解释外围国家的阶级双轨学制与受制状态。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 从[[Karl Marx|马克思]]主义政治经济学解构世界文化理论的非历史大爆炸假说，指出其无法解释外围国家的阶级双轨学制与受制状态。
 > - [[Argument_Yan_2025_JCS|Yan and Morris (2025)]] — 以香港课程改革与废除的周期历史为经验依据，批评了该理论选择性聚焦创立期的方法论盲区，证明趋同假设无法解释国家安全的强力介入。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 梳理比较教育中的世界文化辩论，指出该学说在去政治化转移、遮蔽资本主义地缘剥削方面的理论缺陷。
 
@@ -233,7 +236,7 @@ updated: 2026-11-15
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 系统对比斯坦福新制度主义与[[Immanuel Wallerstein|沃勒斯坦]]现实主义两大流派，剖析新自由主义[[Time-Space Compression|时空压缩]]与微观本土抵制，重构全球与本土辩证法框架。
+> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 系统对比斯坦福新制度主义与[[Immanuel Wallerstein|沃勒斯坦]]现实主义两大流派，剖析[[Neoliberalism|新自由主义]][[Time-Space Compression|时空压缩]]与微观本土抵制，重构全球与本土辩证法框架。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 批判性检视世界文化理论的核心信念，重构外围国家教育扩张的历史唯物主义[[Analytic Framework|分析框架]]。
 > - [[Argument_Zapp_2017_IJED|Zapp (2017)]] — 应用世界社会理论的理性化视角，揭示世界银行如何作为“理论家”构建全球教育[[Epistemic Governance|认知治理]]。
 > - [[Argument_Zapp_2022_Springer|Zapp (2022)]] — 深入应用并检验世界社会理论，展示大学作为无私代言人（[[Otherhood]]）通过协作、中介、解释和游说四种知识机制嵌入多边全球治理的过程。

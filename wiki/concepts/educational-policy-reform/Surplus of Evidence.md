@@ -8,7 +8,7 @@ aliases:
 summary: "在数字经济与海量知识制造时代，针对同一公共政策议题的研究成果、实证数据与咨询报告在数量上发生爆炸式增长并超过决策系统认知与处理负荷的生态现象。该现象打破了“证据越丰富政策越理性”的传统启蒙假设，反而加剧了政策歧义性（Policy Ambiguity）与信息孤岛，促使政治决策者更倾向于策略性“选秀”证据，并为政策中介机构对海量数据进行二次提炼、认证包装与权威背书创造了垄断性的制度中介空间。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Knowledge Mediation]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Knowledge Bank]]"
+  - "[[Neoliberalism]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Epistemology]]"
   - "[[Academic Freedom]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-03
+updated: 2026-11-19
 ---
 
 ---
@@ -145,7 +146,7 @@ updated: 2026-11-03
 
 > [!dev-timeline] 概念演变
 > - **1970–1980 年代 — [[Research Utilization|知识利用]]匮乏说（Caplan [[Two-Communities Theory|两社区理论]]）** 传统认知普遍认为决策失误源于学术研究太少、学者与官员缺乏接触的“信息匮乏”。
-> - **2010 年代 — 证据过剩与思想市场批判** Lubienski 等学者提出“证据过剩”与“信息孤岛”，指出智库与新自由主义网络导致政策界充斥着相互打架的过剩数据。
+> - **2010 年代 — 证据过剩与思想市场批判** Lubienski 等学者提出“证据过剩”与“信息孤岛”，指出智库与[[Neoliberalism|新自由主义]]网络导致政策界充斥着相互打架的过剩数据。
 > - **2024 年至今 — [[Governing by Numbers|数字治理]] 2.0 时代的中介霸权与全球平台测绘** Steiner-Khamsi、Martens 与 Ydesen（2024）将证据过剩确立为理解跨国[[Policy Brokerage|政策中介]]、[[Soft Power by Hard Facts|以硬事实施展软权力]]的生态基石；[[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] 进一步通过全球 103 国调查与 654 个平台拓扑测绘，实证揭示全球证据过剩与国家决策吸纳不足并存的结构性悖论。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 537–538)]]
 
 ---

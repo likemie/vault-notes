@@ -13,7 +13,7 @@ subtype: program
 region: norway
 fact_region: "norway"
 fact_kind: "program"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Quasi-market]]"
   - "[[Global Universities Rankings]]"
   - "[[New Public Management]]"
+  - "[[Neoliberalism]]"
   - "[[Critical Pedagogy]]"
   - "[[Space of Equivalence]]"
   - "[[Performativity]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -108,7 +109,7 @@ updated: 2026-11-11
 ---
 
 > [!finding-cards] 核心实证结论
-> - **[[Neo-Weberian State|新韦伯主义]]制度韧性确认** 展现了新韦伯主义（[[Neo-Weberian State]]）政体对[[New Public Management|新公共管理]]工具的体制性折射：既吸收了现代量化监控手段强化中央行政能力，又依托社会民主传统坚决排斥新自由主义高利害惩戒与公开排名。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 254–255)]]
+> - **[[Neo-Weberian State|新韦伯主义]]制度韧性确认** 展现了新韦伯主义（[[Neo-Weberian State]]）政体对[[New Public Management|新公共管理]]工具的体制性折射：既吸收了现代量化监控手段强化中央行政能力，又依托社会民主传统坚决排斥[[Neoliberalism|新自由主义]]高利害惩戒与公开排名。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 254–255)]]
 > - **促发[[Transparency Bypass|透明度绕道机制]]（[[Transparency Bypass]]）** 尽管国家严守[[Soft Accountability|软问责]]防线，但数字化数据的集中存在为外部行动者搭建了跳板，地方保守派政府与媒体绕过中央禁令生成非官方排名，表明数据密集型工具具有难以完全遏制的主动外溢效应。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
 > - **微观表现主义压力隐秘滋生** 韦尔热等人指出，即便缺乏官方行政惩罚，统一测试分数依然在奥斯陆等地诱发了跨校无形攀比与教学窄化现象。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 258, 264)]]
 

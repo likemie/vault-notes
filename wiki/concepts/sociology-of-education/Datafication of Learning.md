@@ -6,7 +6,7 @@ aliases:
 summary: "指在全球量化治理与新自由主义基于结果的规制驱动下，教育系统将关注焦点从教学转移到学习，并将复杂的育人过程与认知成长还原为可追踪、可量化、跨国可比的数字流、能力指标与数据库资产的认识论与社会技术过程。"
 type: concept
 domain: "sociology-of-education"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Unit of Analysis]]"
   - "[[Discourse]]"
+  - "[[Neoliberalism]]"
   - "[[Governing by Numbers]]"
   - "[[Algorithmic Bias]]"
   - "[[Cultural Capital]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -100,7 +101,7 @@ updated: 2026-11-15
 ---
 
 > [!feature] 核心要素
-> - **从“教”向“学”的[[Discourse|话语]]位移** 新自由主义公共行政通过贬低传统的投入规制（如教师编制、办学历史、师训课程），将注意力压倒性地引向产出端的“学生学到了什么”，为数据化铺平意识形态道路。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 546)]]
+> - **从“教”向“学”的[[Discourse|话语]]位移** [[Neoliberalism|新自由主义]]公共行政通过贬低传统的投入规制（如教师编制、办学历史、师训课程），将注意力压倒性地引向产出端的“学生学到了什么”，为数据化铺平意识形态道路。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 546)]]
 > - **微观认知经验的[[Commensuration\|通约化]]与离散化** 复杂的思维过程、情绪韧性与道德体验被转化为离散的代码与连续性量表，原本不具有可比性的不同文化背景学生被纳入同一标尺。
 > - **[[Governing at a Distance\|远处治理]]与算法化审计** 学习数据化打破了学校围墙的物理边界，使[[UNESCO\|联合国教科文组织]]、[[OECD\|经合组织]]等超国家机构能够直接透过数据流对成员国课堂实施远程规制。
 > - **教育数据的资产化与市场提炼** 学习生成的数据流被国际商业资本（如 Pearson、McKinsey）与慈善基金会捕获，转化为可变现的算法模型、培训软件与咨询服务合同。

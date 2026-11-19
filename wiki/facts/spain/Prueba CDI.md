@@ -12,7 +12,7 @@ subtype: program
 region: "spain"
 fact_region: "spain"
 fact_kind: "program"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ tags:
   - theme/accountability
   - region/spain
 related_concepts:
+  - "[[Neoliberalism]]"
   - "[[School Choice]]"
   - "[[School Autonomy]]"
   - "[[Policy Entrepreneur]]"
@@ -41,13 +42,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-19
 ---
 
 ---
 
 > [!claim] 项目定位
-> 不可或缺知识与技能测验（Prueba de Conocimientos y Destrezas Indispensables，简称 Prueba CDI）是西班牙马德里自治区主导建立的普查性全员外部学业考试。该测验是马德里大区在传统拿破仑行政架构内推行新自由主义市场化问责的核心制度工具。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 258–259)]]
+> 不可或缺知识与技能测验（Prueba de Conocimientos y Destrezas Indispensables，简称 Prueba CDI）是西班牙马德里自治区主导建立的普查性全员外部学业考试。该测验是马德里大区在传统拿破仑行政架构内推行[[Neoliberalism|新自由主义]]市场化问责的核心制度工具。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 258–259)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2005 年由马德里大区人民党政府设立并首次开考，按学年定期施测至 2015 年。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]

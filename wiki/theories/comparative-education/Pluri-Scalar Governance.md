@@ -9,7 +9,7 @@ aliases:
 summary: "罗伯逊、博纳尔与戴尔开创的教育全球化批判性空间治理分析框架，通过治理标度、治理实体与治理活动三维矩阵，解构全球化与跨国经贸规则下国家教育主权的再领土化与公共性重组。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 43
+theory_related_count: 46
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -30,6 +30,8 @@ related_concepts:
   - "[[International Education]]"
   - "[[Nationalism]]"
   - "[[International Branch Campus]]"
+  - "[[Higher Education Access]]"
+  - "[[Neoliberalism]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Competitiveness]]"
   - "[[Transnational Education]]"
@@ -41,6 +43,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Paradigm]]"
   - "[[Grandes Ecoles]]"
+  - "[[Mimesis]]"
   - "[[Theoretical Standpoint]]"
   - "[[Public-Private Partnership]]"
 related_theories:
@@ -73,7 +76,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-29
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -120,10 +123,10 @@ updated: 2026-11-11
 > 传统民族国家的现代性理念在于将教育的经费筹措、产权所有、学校供给与质量监管集中管辖于单一国家主权空间之内。[[World Trade Organization|WTO]] 与 [[GATS and Trade in Education Services|GATS]] 等超国家多标度机制彻底打破了这一封闭状态：通过界定跨境交付、境外消费、商业存在与自然人流动四种服务贸易模式，致力于消除教育服务流通的边境壁垒、推行学位证书跨国互认与教育商品化。这导致教育公共领域在产权、提供和监管活动上面临分离与重组，原本完全由国家垄断的教育主权被重新分配给超国家仲裁机制与跨国私人市场。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 
 > [!example|notitle]
-> 跨国私立高等教育机构（如欧美大学[[International Branch Campus|海外分校]]或营利性教育跨国集团）依据 GATS 商业存在条款进入发展中国家办学；当东道国教育部试图以教学质量或意识形态为由限制其营利汇出或专业设置时，跨国机构可诉诸 WTO 贸易争端解决机制，直接挑战了东道国教育部对高等教育准入与课程管辖的传统排他性主权。
+> 跨国私立高等教育机构（如欧美大学[[International Branch Campus|海外分校]]或营利性教育跨国集团）依据 GATS 商业存在条款进入发展中国家办学；当东道国教育部试图以教学质量或意识形态为由限制其营利汇出或专业设置时，跨国机构可诉诸 WTO 贸易争端解决机制，直接挑战了东道国教育部对[[Higher Education Access|高等教育准入]]与课程管辖的传统排他性主权。
 
 > [!theory-proposition] 命题二｜多标度治理体现为国家策略性利用超国家规则的主动再领土化
-> 多标度治理框架明确拒绝简单的国家退场论或主权终结论。民族国家在新自由主义全球化与[[Knowledge-Based Economy|知识经济]]竞争压力下，为提升本国经济与科技的跨国[[Competitiveness|竞争力]]，主动申请加入 WTO 等超国家机构并签署多边协定。国家通过多标度机制将原本封闭的内部体系推向全球，利用外部国际标准倒逼国内公共部门改革，实现了国家统治逻辑与资本积累目标在新空间标度上的战略性再领土化。[[Argument_Arnove_2009_WorldSystems|(Robertson et al., 2002; Arnove, 2009, p. 111)]]
+> 多标度治理框架明确拒绝简单的国家退场论或主权终结论。民族国家在[[Neoliberalism|新自由主义]]全球化与[[Knowledge-Based Economy|知识经济]]竞争压力下，为提升本国经济与科技的跨国[[Competitiveness|竞争力]]，主动申请加入 WTO 等超国家机构并签署多边协定。国家通过多标度机制将原本封闭的内部体系推向全球，利用外部国际标准倒逼国内公共部门改革，实现了国家统治逻辑与资本积累目标在新空间标度上的战略性再领土化。[[Argument_Arnove_2009_WorldSystems|(Robertson et al., 2002; Arnove, 2009, p. 111)]]
 
 > [!example|notitle]
 > 中国在 2001 年加入世界贸易组织时，教育服务贸易被列入具体承诺清单。中央政府主动利用世贸多边规则出台《[[Regulations on Chinese-Foreign Cooperation in Running Schools|中外合作办学条例]]》，积极引进世界一流大学优质科研教学资源，同时将境外资本严格限制在非义务教育阶段，使多标度规则直接服务于国家科技自立与高等教育现代化战略。
@@ -215,7 +218,7 @@ updated: 2026-11-11
 > > [!axis] 双边国家借用[[Paradigm|范式]] vs 跨国多标量商业网络转移
 > > 围绕当代比较教育应当延续主权国家间的双边借用传统，还是转向多标量空间中的网络化政策转移展开探讨。
 > >
-> > - **传统双边借用论** 关注主权国家点对点的制度移植与本土调适（如巴西对[[Grandes Ecoles|法国大学校]]的模仿）。
+> > - **传统双边借用论** 关注主权国家点对点的制度移植与本土调适（如巴西对[[Grandes Ecoles|法国大学校]]的[[Mimesis|模仿]]）。
 > > - **多标度网络转移论** 论证当代跨国教育财团、咨询智库与超国家机构打破了双边主权中介，政策方案以商业包销形式在多标度空间中自由流转，迫使比较教育重构[[Theoretical Standpoint|理论透镜]]。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 343–344)]]
 
 > [!critique] 批评索引

@@ -23,29 +23,29 @@ tags:
   - subject/sociology-of-education
   - subject/comparative-education
 related_concepts:
-  - "[[Policy Borrowing]]"
   - "[[International Education]]"
   - "[[Social Imaginary]]"
   - "[[State Educational Sovereignty]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Global Educational Policy Field]]"
   - "[[Space of Equivalence]]"
+  - "[[Policy Learning]]"
+  - "[[Policy Borrowing]]"
   - "[[Champ]]"
   - "[[Soft Power]]"
   - "[[Rich and Thick Description]]"
   - "[[Paradigm]]"
   - "[[Transnational Education]]"
+  - "[[Neoliberalism]]"
   - "[[Economic Fundamentalism]]"
   - "[[Network Governance]]"
-  - "[[Recontextualization]]"
   - "[[Creativity]]"
+  - "[[Governing by Numbers]]"
   - "[[Commensuration]]"
   - "[[Return on Investment]]"
-  - "[[New Public Management]]"
   - "[[Reliability]]"
   - "[[Construct Validity]]"
   - "[[Ontology]]"
-  - "[[Governing by Numbers]]"
   - "[[Critical Pedagogy]]"
   - "[[Policy Brokerage]]"
   - "[[Policy Network]]"
@@ -60,13 +60,13 @@ related_theories:
   - "[[Governing at a Distance]]"
 related_methods:
   - "[[Discourse Analysis]]"
+  - "[[Analytic Framework]]"
   - "[[Critical Discourse Analysis]]"
   - "[[Ethnography]]"
   - "[[Critical Policy Analysis]]"
 related_persons:
   - "[[Fazal Rizvi]]"
   - "[[Pierre Bourdieu]]"
-  - "[[Alain Desrosières]]"
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
@@ -76,13 +76,13 @@ related_facts:
   - "[[Centre for Educational Research and Innovation]]"
 related_arguments:
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
+  - "[[Argument_Deng_2016_CE]]"
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
-  - "[[Argument_Deng_2016_CE]]"
 confidence: high
 status: completed
 created: 2026-06-07
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -90,7 +90,7 @@ updated: 2026-11-18
 > [!person-profile] 人物档案
 > - **身份位置** 澳大利亚与英国著名教育政策社会学家，澳大利亚社会科学院院士（Fellow of the Academy of the Social Sciences in Australia, FASSA）。曾任英国爱丁堡大学教育政策讲席教授（Chair of Education）、澳大利亚昆士兰大学教育学院教授，现为昆士兰大学荣誉教授。
 > - **核心角色** 批判性全球教育政策社会学（Critical Sociology of Global Education Policy）的核心开拓者之一。与[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）长期深度合作，在[[International Education|国际教育]]治理、政策[[Discourse Analysis|话语分析]]与量化治理研究中承担枢纽节点功能，系统揭示跨国组织如何借助软法、统计指标与[[Social Imaginary|社会想象]]重塑民族[[State Educational Sovereignty|国家教育主权]]。
-> - **代表贡献** 与 Rizvi et al. 合著专著《[[OECD|经合组织]]、全球化与教育政策》（Henry et al., 2001）与《全球化教育政策》（Rizvi & Lingard, 2010）；提出并系统阐释[[Knowledge-Based Economy|知识经济]]社会想象在教育治理中的运作机制（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009)]]）；合作提出[[Global Educational Policy Field|全球教育政策场域]]模型（Lingard & Rawolle, 2011）；解构以[[PISA]]为核心的数字即政策、跨国[[Space of Equivalence|等值空间]]与远处掌舵治理技术；提出政策学习（Policy Learning）框架批判机械的政策借用（Lingard, 2010）。
+> - **代表贡献** 与 Rizvi et al. 合著专著《[[OECD|经合组织]]、全球化与教育政策》（Henry et al., 2001）与《全球化教育政策》（Rizvi & Lingard, 2010）；提出并系统阐释[[Knowledge-Based Economy|知识经济]]社会想象在教育治理中的运作机制（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009)]]）；合作提出[[Global Educational Policy Field|全球教育政策场域]]模型（Lingard & Rawolle, 2011）；解构以[[PISA]]为核心的数字即政策、跨国[[Space of Equivalence|等值空间]]与远处掌舵治理技术；提出[[Policy Learning|政策学习]]（Policy Learning）框架批判机械的[[Policy Borrowing|政策借用]]（Lingard, 2010）。
 
 > [!citation-card] 林加德论全球教育政策[[Champ|场域]]的自主性建构
 > 全球教育政策场域是由超国家组织、国际指标体系与国家官僚机构在多层网络中共同织就的治理空间，超越了主权国家的孤立封闭边界。在这一场域中，数字与比较被赋予了显著权威，使得远离具体课堂的技术官僚能够以客观科学之名，对各国的课程标准、教学形态与教育价值实施远处调控。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–447)]]
@@ -111,23 +111,23 @@ updated: 2026-11-18
 
 > [!work-line] 主要著作
 > - **2001 — *The [[OECD]], Globalisation and Education Policy*（与 Henry, Rizvi, Taylor 合著）** 首次系统解构经合组织从二战后技术官僚协商平台演变为具有自主议程的[[Transnational Education|跨国教育]]政策行动者的制度轨迹，奠定全球教育治理批判研究的基石。
-> - **2009 — "The OECD and Global Shifts in Education Policy"（与 [[Fazal Rizvi]] 合著）** 系统对比 1960–1990 年社会民主主义多元妥协与 1990 年代中期后新自由主义转向；提出[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]概念，揭示 [[PISA]] 构筑[[Space of Equivalence|等值空间]]与社会公平被[[Economic Fundamentalism|经济基要主义]]工具化收编的深层机制。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 437–453)]]
+> - **2009 — "The OECD and Global Shifts in Education Policy"（与 [[Fazal Rizvi]] 合著）** 系统对比 1960–1990 年社会民主主义多元妥协与 1990 年代中期后[[Neoliberalism|新自由主义]]转向；提出[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]概念，揭示 [[PISA]] 构筑[[Space of Equivalence|等值空间]]与社会公平被[[Economic Fundamentalism|经济基要主义]]工具化收编的深层机制。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 437–453)]]
 > - **2010 — *Globalizing Education Policy*（与 [[Fazal Rizvi]] 合著）** 构建全球化教育政策分析的完整理论与方法论框架，系统梳理从民族国家科层统辖转向跨国[[Network Governance|网络治理]]的演进逻辑，提出政策学习（Policy Learning）框架反思去情境化政策借用。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 450)]]
 > - **2011 — "Bourdieu and Educational Research: Thinking with and Beyond Bourdieu"（与 Shaun Rawolle 合著）** [[Creativity|创造性]]运用[[Pierre Bourdieu|布迪厄]]场域理论，正式提炼出相对自主的[[Global Educational Policy Field|全球教育政策场域]]分析模型。[[Argument_Xie_Li_Huang_2021_GEO|(Lingard & Rawolle, 2011; Xie et al., 2021, p. 421)]]
 > - **2013 — *Globalizing Educational Accountabilities*（与 Sellar 等合著）** 剖析全球问责体制如何依托标准化测试数据向地方学区与一线教师施加高利害规训，解构“绩效问责”对教师专业自主性的侵蚀。
 
 ---
 
-> [!person-thesis] 主张一｜以经合组织为代表的跨国机构通过数字治理与等值空间制造实施远处掌舵
+> [!person-thesis] 主张一｜以经合组织为代表的跨国机构通过[[Governing by Numbers|数字治理]]与等值空间制造实施远处掌舵
 > 当代教育政策转型是由超国家组织驱动的全球性治理[[Paradigm|范式]]与认知图式的历史性剧变。以[[OECD|经合组织]]为代表的国际机构将新自由主义全球化本体化为不可抗拒的外生规律，依托[[New Growth Theory|内生新增长理论]]确立排他性的“[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]”，并通过 [[PISA]] 等标准化测试创造跨国[[Commensuration|通约]]的[[Space of Equivalence|等值空间]]；经合组织凭借统计测量资本与象征资本确立跨国教育仲裁权威，通过“数字即政策”的技术官僚操作隐蔽复杂的政治价值争论，依托远处掌舵机制规制主权国家的政策议程，最终将教育从培育民主公民的公共物品重塑为追求[[Return on Investment|投资回报率]]的公私混合商品。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 440–448)]]
 >
 > > [!thesis-quote] 《经合组织与全球教育政策转向》（2009）
-> > 国际学生评估项目（PISA）直接研发脱离特定文化脉络的测试情境，生产跨国通约数据以构建跨国“等值空间”，超越了单纯反映各国既有课程大纲的测量模式。在统计技术的运作中，跨国比较的信度被赋予了优先于测量对象构念效度的地位。数字的威力在于将指标背后的大量主观政治判断与价值选择隐形化，使其免受质疑，并通过排行榜引发的国内政策恐慌实现了无须行政命令的“远处掌舵”。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
+> > 国际学生评估项目（PISA）直接研发脱离特定文化脉络的测试情境，生产跨国通约数据以构建跨国“等值空间”，超越了单纯反映各国既有课程大纲的测量模式。在统计技术的运作中，跨国比较的[[Reliability|信度]]被赋予了优先于测量对象[[Construct Validity|构念效度]]的地位。数字的威力在于将指标背后的大量主观政治判断与价值选择隐形化，使其免受质疑，并通过排行榜引发的国内政策恐慌实现了无须行政命令的“远处掌舵”。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 > >
-> > *PISA creates a commensurable space of measurement or a global "space of equivalence." Reliability and comparison take priority over validity and ontology... The power of numbers is such that they render invisible and hence incontestable the complex array of judgements and decisions that go into a measurement.*
+> > *PISA [[CREATES Project|creates]] a commensurable space of measurement or a global "space of equivalence." Reliability and comparison take priority over validity and [[Ontology|ontology]]... The power of numbers is such that they render invisible and hence incontestable the complex array of judgements and decisions that go into a measurement.*
 
 > [!person-thesis] 主张二｜跨国政策借鉴必须超越机械借用，转向扎根本土制度脉络的政策学习
-> 跨国教育[[Policy Borrowing|政策借用]]往往陷入去情境化的技术主义误区，将特定系统的高分成果孤立为可随意拼装的处方；而真实的制度演进与教学运作深深嵌合于本土历史传统、社会共识与考试结构之中。跨国借鉴必须依据政策学习（Policy Learning）分析框架，深入理解政策成立的制度土壤与文化前提，警惕以 PISA 为代表的国际评估对教育多元价值的经济主义窄化。[[Argument_Deng_2016_CE|(Lingard, 2010; cited in Deng & Gopinathan, 2016, pp. 450, 467)]]
+> 跨国教育[[Policy Borrowing|政策借用]]往往陷入去情境化的技术主义误区，将特定系统的高分成果孤立为可随意拼装的处方；而真实的制度演进与教学运作深深嵌合于本土历史传统、社会共识与考试结构之中。跨国借鉴必须依据政策学习（Policy Learning）[[Analytic Framework|分析框架]]，深入理解政策成立的制度土壤与文化前提，警惕以 PISA 为代表的国际评估对教育多元价值的经济主义窄化。[[Argument_Deng_2016_CE|(Lingard, 2010; cited in Deng & Gopinathan, 2016, pp. 450, 467)]]
 >
 > > [!thesis-quote] 《全球化教育政策》（2010）
 > > 跨国借鉴必须摆脱把教育成功视作可任意拼装处方的技术主义偏见，依循政策学习理念，深入源系统的历史制度脉络与本土学校生态，理解特定教学规程得以成立的前提条件。[[Argument_Deng_2016_CE|(Lingard, 2010; cited in Deng & Gopinathan, 2016, p. 450)]]

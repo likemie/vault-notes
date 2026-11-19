@@ -8,7 +8,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 27
+fact_related_count: 29
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Policy Network]]"
   - "[[Value Neutrality]]"
+  - "[[Neoliberalism]]"
   - "[[Document]]"
   - "[[Initial Teacher Training]]"
   - "[[Paradigm]]"
@@ -38,6 +39,7 @@ related_theories:
 related_methods:
   - "[[Effect Size]]"
 related_persons:
+  - "[[Randall Collins]]"
   - "[[Sir Kevan Collins]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
@@ -57,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-16
-updated: 2026-10-30
+updated: 2026-11-19
 ---
 
 ---
@@ -89,7 +91,7 @@ updated: 2026-10-30
 > [!pathways] [[Venture Philanthropy\|风险慈善]]资本运作链条
 > 1. **资本注资与中介赋能** 避开官僚程序，直接向国际顶尖证据中介（如 EEF）注资，资助其跨国扩张与全球知识产品开发。
 > 2. **扶持本土中介组织** 在目标国家资助设立对标 EEF 模式的非政府证据机构（如智利 [[SUMMA]]、澳洲 E4L），完成核心证据工具的本土情境转译。
-> 3. **人事网络流动与借调** 推动核心专家在国际中介、慈善智库与政府咨询委员会之间交叉任职（如原 EEF 首席执行官柯文·柯林斯爵士同时兼任 AERO 董事会成员）。
+> 3. **人事网络流动与借调** 推动核心专家在国际中介、慈善智库与政府咨询委员会之间交叉任职（如原 EEF 首席执行官柯文·[[Randall Collins|柯林斯]]爵士同时兼任 AERO 董事会成员）。
 > 4. **国家法案与准入标准渗透** 借助官方循证咨询契机，将基金会资助的中介成果直接嵌入国家教师认证大纲与学校财政问责法规。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, p. 8)]]
 
 ---
@@ -124,7 +126,7 @@ updated: 2026-10-30
 > > 争论焦点在于采矿巨头跨国慈善基金会介入教育改革，究竟是促进公平的善举还是规避民主审议的资本渗透。
 > >
 > > - **基金会与循证倡导者** 坚称资助旨在弥合知识鸿沟，为全球欠发达地区引入被科学证实的教学方案，提供[[Value Neutrality\|价值中立]]的公共产品。
-> > - **批判政策社会学学者（[[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024]]）** 揭示这是新自由主义全球化下私人资本通过“异层治理”（heterarchy）绕过主权国家民主问责程序的典型手段，模糊了公共利益与跨国资本利益的边界。
+> > - **批判政策社会学学者（[[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024]]）** 揭示这是[[Neoliberalism|新自由主义]]全球化下私人资本通过“异层治理”（heterarchy）绕过主权国家民主问责程序的典型手段，模糊了公共利益与跨国资本利益的边界。
 >
 > > [!axis] 科学证据中立包装 vs 教师教育大纲商业利益导向
 > > 探讨基金会推动的“什么有效”标准是否真正中立。

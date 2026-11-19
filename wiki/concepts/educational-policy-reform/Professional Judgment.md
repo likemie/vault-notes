@@ -6,9 +6,9 @@ aliases:
 summary: "教师在复杂、非线性的教学情境中整合研究证据、伦理标准、教育学原则与实践经验做出决策的核心专业能力，是 EIP 多源整合的枢纽与抵御技术官僚主义去专业化的关键防线。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 97
-related_level: 9
-related_stars: "💎💎💎"
+related_count: 100
+related_level: 10
+related_stars: "💎💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - professional-judgment
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Problem Solving]]"
   - "[[Creativity]]"
+  - "[[Neoliberalism]]"
   - "[[Governing by Numbers]]"
   - "[[Discourse]]"
   - "[[Performance Pay]]"
@@ -64,6 +65,7 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Ecological Validity]]"
   - "[[Return on Investment]]"
+  - "[[Typicality]]"
   - "[[Tacit Knowledge]]"
   - "[[Research Literacy]]"
   - "[[Clinical Trial]]"
@@ -88,6 +90,7 @@ related_methods:
 related_persons:
   - "[[John Dewey]]"
   - "[[Ivan Snook]]"
+  - "[[Charles Taylor]]"
   - "[[John Hattie]]"
 related_facts:
   - "[[Students and Teachers Accessing Tomorrow]]"
@@ -123,7 +126,7 @@ related_instruments:
 confidence: high
 status: completed
 created: 2026-05-03
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -219,7 +222,7 @@ updated: 2026-11-15
 
 ---
 
-> [!concept-proposition] 命题二｜新自由主义[[Governing by Numbers|数字治理]]与排行榜文化挤压价值审议并导致教师去专业化
+> [!concept-proposition] 命题二｜[[Neoliberalism|新自由主义]][[Governing by Numbers|数字治理]]与排行榜文化挤压价值审议并导致教师去专业化
 > **制度环境与去专业化危机** 揭示绩效主义、数字审计、商业洗白与自动化算法对教师专业判断空间的系统性剥夺。
 
 > [!claim] [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]]; [[Argument_Biesta_2010_SPE\|Biesta (2010)]]
@@ -232,7 +235,7 @@ updated: 2026-11-15
 > **循证医学危机镜像与反算法[[Cognitive Deskilling|去技能化]]** 借鉴循证医学（Evidence-Based Medicine, EBM）发展后期的深刻危机（Greenhalgh et al., 2014）：过度膨胀的临床指南与僵化指标排挤了医生的微观临床审议，被商业营销绑架的“证据洗白”严重损害患者福祉。将此教训映射至教育领域，技术官僚试图将教学拆解为离散的自动化操作或依赖算法驱动决策，实质上是对教师的去技能化（De-skilling）。教学建立在复杂情境反思、扎根实践经验与伦理审议的基础之上，是不可替代的知识型专业（Knowledge-rich Profession）；面对商业包装的证据产品，教师扎根微观情境的临床专业判断是抵御算法异化与技术官僚侵蚀的核心防线([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 60, 65–66]])。
 
 > [!claim] [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]
-> **新泰勒制监控、“清单拜物教”与专业判断的系统剥离** 《[[Visible Learning|可见的学习]]》在微观课堂上推行工业科学管理，将教师同行间的专业对话与经验交流贬抑为缺乏客观证据支持的“轶事传闻”，以此为自上而下的技术规训确立正当性。其标志性的[[Barometer of Achievement|气压计图表]]直接移植自[[John Hattie|哈蒂]]主持开发的行政监控软件 [[Assessment Tools for Teaching and Learning|asTTle]]，继承了工业流水线工时测定与全网实时追踪的控制逻辑；更援引保守派智库观点，将教学机械比附为外科手术与高山救援等技术操作职业，抹杀了师生人际交往与育人共同体的人文伦理属性。在澳大利亚维多利亚州强推基于 VL 的高影响力教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]）实践中，教师被强制要求在上课铃响前在白板上打卡书写[[Learning Intentions|学习意图]]，僵化清单彻底取代了教师依据课堂现场氛围灵活变通的专业直觉，诱发严重的[[Performativity|表演性]]危机与[[Teacher Professional Agency|教师专业自主权]]的萎缩。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–30)]]
+> **新[[Charles Taylor|泰勒]]制监控、“清单拜物教”与专业判断的系统剥离** 《[[Visible Learning|可见的学习]]》在微观课堂上推行工业科学管理，将教师同行间的专业对话与经验交流贬抑为缺乏客观证据支持的“轶事传闻”，以此为自上而下的技术规训确立正当性。其标志性的[[Barometer of Achievement|气压计图表]]直接移植自[[John Hattie|哈蒂]]主持开发的行政监控软件 [[Assessment Tools for Teaching and Learning|asTTle]]，继承了工业流水线工时测定与全网实时追踪的控制逻辑；更援引保守派智库观点，将教学机械比附为外科手术与高山救援等技术操作职业，抹杀了师生人际交往与育人共同体的人文伦理属性。在澳大利亚维多利亚州强推基于 VL 的高影响力教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]）实践中，教师被强制要求在上课铃响前在白板上打卡书写[[Learning Intentions|学习意图]]，僵化清单彻底取代了教师依据课堂现场氛围灵活变通的专业直觉，诱发严重的[[Performativity|表演性]]危机与[[Teacher Professional Agency|教师专业自主权]]的萎缩。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–30)]]
 
 > [!claim] [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]]
 > **[[Venture Philanthropy|风险慈善]]商业量规对[[School Autonomy|学校自主权]]与专业判断的规训** 在以风险慈善与私营中介为纽带的异层治理下，国家将财政拨款转化为竞争性项目资助；弱势公立学校为了获取关键资源，被迫无条件迎合企业基金会制定的考核量规与商业[[Performance Indicators|绩效指标]]（KPIs）。这一异层再分配机制剥夺了学校基于本土学情与育人伦理自主决策的空间，导致教师与校长的专业判断沦为企业问责与外部量规的附庸，加速了公立教育一线人员的去专业化规训。[[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, pp. 527–528)]]
@@ -345,7 +348,7 @@ updated: 2026-11-15
 
 > [!tension] 实验黄金标准（What Works） vs 专业价值审议（What Matters）
 > - **实验黄金标准（What Works）** 追求去情境化的普遍因果效度，主张以高等级证据规范教学行为。
-> - **专业价值审议（What Matters）** 坚持教育情境的特殊性与育人伦理，主张由教师在现场行使最高审议权。[[Argument_Nelson_2017_EducRes|(Nelson & Campbell, 2017, p. 128)]]
+> - **专业价值审议（What Matters）** 坚持教育情境的[[Typicality|特殊性]]与育人伦理，主张由教师在现场行使最高审议权。[[Argument_Nelson_2017_EducRes|(Nelson & Campbell, 2017, p. 128)]]
 
 > [!warning] 适用局限
 > - **情境化能力的测量困境** 专业判断高度依赖微观情境与[[Tacit Knowledge|隐性知识]]，难以通过标准化量表直接量化，成效评估必须结合多维量化指标与丰富质性描述。[[Argument_Nelson_2017_EducRes|(Nelson & Campbell, 2017, p. 133)]]
@@ -403,8 +406,8 @@ updated: 2026-11-15
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 援引[[John Dewey|杜威]][[Pragmatic Paradigm|实用主义]][[Epistemology|认识论]]批判《[[Visible Learning|可见的学习]]》证据被新自由主义政策断章取义挪用，确立实证证据作为“探究假设”而非“行动规则”的边界，论证[[Performance Pay|绩效工资]]对教师专业判断与互信生态的系统性破坏。
-> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 批判《[[Visible Learning|可见的学习]]》以工业新泰勒制全景监控（[[Assessment Tools for Teaching and Learning|asTTle]]）与手术清单比附教学，系统揭示清单规训如何剥夺一线教师专业判断并诱发[[Performativity|表演性危机]]（pp. 28–30）。
+> - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 援引[[John Dewey|杜威]][[Pragmatic Paradigm|实用主义]][[Epistemology|认识论]]批判《[[Visible Learning|可见的学习]]》证据被[[Neoliberalism|新自由主义]]政策断章取义挪用，确立实证证据作为“探究假设”而非“行动规则”的边界，论证[[Performance Pay|绩效工资]]对教师专业判断与互信生态的系统性破坏。
+> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 批判《[[Visible Learning|可见的学习]]》以工业新[[Charles Taylor|泰勒]]制全景监控（[[Assessment Tools for Teaching and Learning|asTTle]]）与手术清单比附教学，系统揭示清单规训如何剥夺一线教师专业判断并诱发[[Performativity|表演性危机]]（pp. 28–30）。
 > - [[Argument_Rickinson_2022_EducRes|Rickinson, Cirkony, et al. (2022)]] — 跨四大领域[[Systematic Review|系统综述]]提出 [[Quality Use of Research Evidence Framework|QURE]] 框架，确立[[Research Utilization|证据使用]]由“证据本位”向“证据知情”的[[Epistemology|认识论]]转向，论证研究证据对专业判断的互补支持关系与审慎实施机制。
 > - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 考察美国[[Common Core State Standards|共同核心标准]]（CCSS）研制与采纳全过程，确立专业判断在学术实证供给不足时作为学科逻辑演绎、一线可行性论证与同行互信代理的宏观政策支柱地位。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 以[[Critical Realism|批判实在论]]将研究证据界定为开放系统中的概率性资源，分析抹杀专业判断导致的[[Teaching Assistant|教学助理]]误裁实证案例。

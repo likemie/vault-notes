@@ -10,7 +10,7 @@ aliases:
 summary: "由比较公共管理学者波利特（Christopher Pollitt）等系统界定的政体行政传统类型，用以概括南欧等国高度集权、层级分明、法治主义与公立常任文官制的国家治理形态。在教育治理中，由于教师享有常任公务员身份保障以及战后形成的学校民主共决传统，新公共管理绩效考核与外部审计改革在该模式下多呈现断续试错、政党轮替导致政策摇摆以及遭遇工会总罢工抵制的特征。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 12
+theory_related_count: 13
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[New Managerialism]]"
   - "[[Research Question]]"
+  - "[[Neoliberalism]]"
   - "[[Critical Pedagogy]]"
   - "[[Bureaucracy]]"
 related_theories:
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -125,7 +126,7 @@ updated: 2026-11-11
 > > [!axis] 科层传统究竟是惰性阻力还是教育民主防线
 > > 学界对拿破仑行政传统的制度防御存在价值评价分歧。
 > >
-> > - **新自由主义批判视角** 视常任文官制与工会抵制为阻碍教育现代化与保护落后教学效能的既得利益科层阻力。
+> > - **[[Neoliberalism|新自由主义]]批判视角** 视常任文官制与工会抵制为阻碍教育现代化与保护落后教学效能的既得利益科层阻力。
 > > - **[[Critical Pedagogy|批判教育学]]与民主治理视角（如 Veloso et al., 2013）** 强调南欧的学校民主共决传统是捍卫公共教育尊严、防止教育被过度市场化与技术官僚剥夺的宝贵制度遗产。
 
 > [!critique] 批评索引

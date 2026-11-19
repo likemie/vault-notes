@@ -7,7 +7,7 @@ title: "Argument_Kazamias_2009_HistoricalReflections"
 argument_key: "Argument_Kazamias_2009_HistoricalReflections"
 argument_display_title: "Comparative education: Historical reflections"
 argument_kind: "book-chapter"
-argument_related_count: 90
+argument_related_count: 93
 argument_related_level: 9
 argument_related_stars: "💎💎💎"
 argument_related_color: "#fecdd3"
@@ -54,6 +54,7 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
   - "[[Social Science as Legitimation Alibi]]"
+  - "[[Neoliberalism]]"
   - "[[Champ]]"
   - "[[Value Neutrality]]"
   - "[[International Education]]"
@@ -71,6 +72,7 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Falsification]]"
   - "[[Working Hypothesis]]"
+  - "[[Typicality]]"
   - "[[New Mythology]]"
   - "[[Mimesis]]"
   - "[[Comparative Pedagogy]]"
@@ -98,6 +100,7 @@ related_persons:
   - "[[Bernard Barber]]"
   - "[[Karl Popper]]"
   - "[[Brian Holmes]]"
+  - "[[Karl Marx]]"
   - "[[Martin Carnoy]]"
   - "[[Val D. Rust]]"
   - "[[Marianne Larsen]]"
@@ -134,7 +137,7 @@ sources:
 part_of: "[[Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-10-01
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 ---
 
@@ -158,7 +161,7 @@ updated: 2026-11-15
 > | **广义教育科学**<br>*Vergleichende Erziehungswissenschaft* | 承继[[Nicholas Hans\|尼古拉斯·汉斯]]（Nicholas Hans）与欧陆[[Geisteswissenschaften\|人文科学]]传统，主张科学是对人类、文化与社会现象的系统化研究，坚决抗拒英语世界将科学狭隘等同于行为量化实证的专断定义。（p.139） |
 > | **方法论主义批判**<br>Critique of Methodologism | 援引[[Bernard Barber\|伯纳德·巴伯]]（Bernard Barber）的科学社会学批判，揭露将科学简化为单一全能操作技术的虚妄，指出方法论主义将研究形式与价值、至善及不可测量之物割裂的认识论危害。（pp.147–149） |
 > | **波普尔假说-演绎法与权变社会学法则** | 借鉴[[Karl Popper\|卡尔·波普尔（Karl Popper）]]的批判理性主义科学哲学与[[Brian Holmes\|布赖恩·霍姆斯]]的 $L + I = P$ 架构，将科学预测建立在明确的初始情境条件之上，破除绝对宿命历史规律。（pp.149–151） |
-> | **修正主义新马克思主义国家理论** | 借助马丁·[[Martin Carnoy\|卡诺伊]]（Martin Carnoy）的国家理论，将学校定义为阶级再生产（对应性）与大众民主化诉求（矛盾性）激烈博弈的竞技场，破除正统马克思主义的机械单向决定论。（pp.153–154） |
+> | **修正主义新[[Karl Marx\|马克思]]主义国家理论** | 借助马丁·[[Martin Carnoy\|卡诺伊]]（Martin Carnoy）的国家理论，将学校定义为阶级再生产（对应性）与大众民主化诉求（矛盾性）激烈博弈的竞技场，破除正统马克思主义的机械单向决定论。（pp.153–154） |
 
 > [!row-contrast] 比较教育学四重论述代际对照表
 > <span class="scrollable-table-marker" aria-hidden="true"></span>
@@ -168,7 +171,7 @@ updated: 2026-11-15
 > | **第一代：启蒙准科学与行政改良代际** | 18 世纪末至 19 世纪；[[Enlightenment\|启蒙运动]]、工业化早期与现代民族国家初建 | 启蒙理性主义、[[Empiricism\|经验主义]]、进步崇拜、道德[[Educational Meliorism\|改良主义]] | 外国具体学校机构、课程科目、行政督导规程（[[Scholiocentric Approach\|以校为中心]]，scholiocentric） | 比较解剖学类比、多栏分析图表、视察游记随笔、描述性国别报告 | Jullien (1817) *Esquisse*；Cousin (1831)；Mann (1844)；Arnold (1861) | 为主权国家构建公共教育体系提供[[Policy Borrowing\|政策借用]]与政治合法化依据（pp.139–141） |
 > | **第二代：历史-哲学与自由人文代际** | 20 世纪初至 1950 年代；维多利亚末期、两次世界大战与反极权斗争 | 历史主义、文化有机论、广义人文科学（*Geisteswissenschaften*）、新唯心主义 | 民族国家整体教育系统（英、德、法、美、苏） | 历史考据、理念史分析、自然/宗教/世俗三维因素解构、同情理解 | Sadler (1900)；Kandel (1933)；Hans (1949)；Ulich (1945) | 培育民主公民精神、抵御法西斯主义与苏联极权、促进国际理解（pp.141–144） |
 > | **第三代：战后实证[[Scientism\|科学主义]]运动** | 1950 年代末至 1970 年代；冷战竞争、去殖民化、国家中央规划繁荣 | 逻辑经验主义、[[Positivism\|实证主义]]、结构功能主义、批判理性主义 | 抽象社会子系统、跨国[[Variable\|变量]]（[[Independent Variable\|自变量]]/[[Dependent Variable\|因变量]]）、标准化问题情境 | [[Multiple Regression\|多元回归]]分析、心理测量、跨国标准化调查、假说-演绎[[Problem Approach\|问题法]] | Anderson and Foster (1961)；Noah and Eckstein (1969)；Holmes (1965) | 充当国家五年计划、[[Human Capital Theory\|人力资本]]开发与第三世界技术援助的[[Social Science as Legitimation Alibi\|合法化借口]]（pp.144–151） |
-> | **第四代：批判冲突与跨国宏观[[Paradigm\|范式]]** | 1970 年代至 1990 年代；资本主义滞胀、激进学生运动、新自由主义扩张 | 新马克思主义、韦伯冲突论、[[World-Systems Theory\|世界体系分析]]、依赖理论、批判政治经济学 | 资本主义世界体系、中心-外围结构、阶级对抗[[Champ\|场域]]、第三世界转型国家政体 | 历史唯物主义制度溯源、权力结构分析、意识形态霸权解构、跨国案例比较 | Paulston (1977)；Arnove (1982)；Carnoy (1974, 1983)；Carnoy and Samoff (1990) | 解构资本主义再生产不平等，揭露文化帝国主义，赋权草根社会变革（pp.152–155） |
+> | **第四代：批判冲突与跨国宏观[[Paradigm\|范式]]** | 1970 年代至 1990 年代；资本主义滞胀、激进学生运动、[[Neoliberalism\|新自由主义]]扩张 | 新马克思主义、韦伯冲突论、[[World-Systems Theory\|世界体系分析]]、依赖理论、批判政治经济学 | 资本主义世界体系、中心-外围结构、阶级对抗[[Champ\|场域]]、第三世界转型国家政体 | 历史唯物主义制度溯源、权力结构分析、意识形态霸权解构、跨国案例比较 | Paulston (1977)；Arnove (1982)；Carnoy (1974, 1983)；Carnoy and Samoff (1990) | 解构资本主义再生产不平等，揭露文化帝国主义，赋权草根社会变革（pp.152–155） |
 
 > [!warrant]- 理论如何支撑论证
 > 卡扎米亚斯以普罗透斯式认识体系为主轴，将纷繁复杂的两百年学科史拆解为有序的论述代际与论述类型。通过区分自然科学一元论与欧陆广义人文科学，卡扎米亚斯为历史哲学学派确立了认识论合法性；进一步借助巴伯的方法论主义批判与卡诺伊的国家矛盾分析，深入解构战[[Postpositivism|后实证主义]]对客观确定性与[[Value Neutrality|价值中立]]的幻想，最终顺理成章地将论证推向对历史维度流失与[[Historical Amnesia|历史健忘症]]的深切诊断。（pp.139–140, 147–149, 153–156）
@@ -336,7 +339,7 @@ updated: 2026-11-15
 针对实证学派对历史传统缺乏科学性的指责，卡扎米亚斯结合[[Crane Brinton|克莱恩·布林顿]]（Crane Brinton）的比较史学理论指出，历史研究同样具有科学探索的严谨性：
 
 > [!warrant]- [[Working Hypothesis|历史探索性假说]]（Working Hypotheses）的学术效力
-> 历史研究超越了单纯罗列不可重复的个别事件。正如布林顿在比较各国革命史时所证明的，研究者完全可以对历史事实进行分类和比较，并提炼出虽然适用范围有限、但能被后续案例检验的探索性工作假说（Working Hypotheses）。这种基于历史归纳得出的假说，能够帮助人们在遇到新的类似情境时看清问题的根源。历史学与社会科学都兼顾特殊性与一般性，两者的差异在于研究侧重点不同，存在互补协作的可能。（pp.151–152）
+> 历史研究超越了单纯罗列不可重复的个别事件。正如布林顿在比较各国革命史时所证明的，研究者完全可以对历史事实进行分类和比较，并提炼出虽然适用范围有限、但能被后续案例检验的探索性工作假说（Working Hypotheses）。这种基于历史归纳得出的假说，能够帮助人们在遇到新的类似情境时看清问题的根源。历史学与社会科学都兼顾[[Typicality|特殊性]]与一般性，两者的差异在于研究侧重点不同，存在互补协作的可能。（pp.151–152）
 
 ---
 

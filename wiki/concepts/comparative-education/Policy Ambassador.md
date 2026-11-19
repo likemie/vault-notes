@@ -6,7 +6,7 @@ aliases:
 summary: "由奥斯曼尼·波尔图·德奥利维拉（Osmany Porto de Oliveira）提出并经戴安·斯通等人系统拓展的跨国政策行动者构念，指兼具国际魅力、跨文化沟通力与本土实践经验，以中介者身份穿梭于母国、国际组织与跨国政策网络之间，推动特定治理模型跨国扩散与制度化转化的能动主体。"
 type: concept
 domain: "comparative-education"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Conditional Cash Transfers]]"
   - "[[South-South Cooperation]]"
   - "[[Cultural Capital]]"
+  - "[[Neoliberalism]]"
 related_theories: []
 related_methods:
   - "[[External Auditor]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-23
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -132,7 +133,7 @@ updated: 2026-11-11
 > > 围绕政策大使的推广效能主要来自行动者的超凡个人素质与说服技艺，还是取决于国际援助资本与霸权[[Geopolitics|地缘政治]]的结构性庇护展开论战。
 > >
 > > - **能动性视角（Porto de Oliveira, 2017）** 强调政策大使在缺乏外部强制资本的情况下，依靠专业威望、修辞共情与横向同侪网络实现政策模式跨国落地。
-> > - **结构依附反思（[[Argument_Stone_2020_PolSoc|Stone et al., 2020, p. 12]]）** 指出以智利芝加哥男孩（Chicago Boys）为代表的新自由主义改革大使，其表面上的个人游说效能深度依托于美国学术网络与世界银行的全球权力资本支撑。
+> > - **结构依附反思（[[Argument_Stone_2020_PolSoc|Stone et al., 2020, p. 12]]）** 指出以智利芝加哥男孩（Chicago Boys）为代表的[[Neoliberalism|新自由主义]]改革大使，其表面上的个人游说效能深度依托于美国学术网络与世界银行的全球权力资本支撑。
 
 > [!warning] 适用局限
 > 政策大使概念侧重于解释政策理念与改革方案如何在不同国家和国际组织之间建立合法性并进入决策议程，但无法保证这些外来模型在缺乏本土制度配套或财政支持的情境下实现有效执行。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 11–13)]]

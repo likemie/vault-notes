@@ -13,7 +13,7 @@ summary: "关注语言与符号实践如何建构、维持和重塑权力关系�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 41
+method_related_count: 43
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[The Sublime]]"
   - "[[Reflexivity]]"
   - "[[Transnational Education]]"
+  - "[[Neoliberalism]]"
   - "[[Regimes of Truth]]"
   - "[[Academic Achievement]]"
   - "[[Chain of Evidence]]"
@@ -51,6 +52,7 @@ related_theories:
   - "[[Critical Theory]]"
   - "[[Critical Realism]]"
   - "[[Cultural Political Economy]]"
+  - "[[Developmental State]]"
 related_methods:
   - "[[Discourse Analysis]]"
   - "[[Qualitative Research]]"
@@ -75,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 ---
@@ -128,13 +130,13 @@ updated: 2026-11-14
 > [!proc] 质性分析程序
 > 1. **文本层面框架分析（Text Analysis / Framing）** 提取文本语言表层特征与框架化策略；系统划分[[Policy Framing|诊断性框架]]（确立问题瓶颈）、处方性框架（提供解方措施）与激励性框架（动员[[The Sublime|崇高]]价值），揭示政策如何将国家行为塑造为道义共赢事业。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680–684)]]
 > 2. **话语实践层面互文性分析（Discursive Practice / Intertextuality）** 分析目标文本与其他宏观战略文本的互文引用与[[Interdiscursivity|互话语性]]网络，厘清政策立项的驱动力（最高政治意志）、推进工具（高教攻关与高职出海）与价值导向（讲好国家故事）。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684–687)]]
-> 3. **宏观社会实践层面社会学批判（Social Practice / Explanatory Critique）** 结合历史记忆、发展型国家体制与大国地缘秩序对峙，解释为何特定话语框架能够获得合法性，揭示教育对外开放背后的全球治理替代性追求。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–692)]]
+> 3. **宏观社会实践层面社会学批判（Social Practice / Explanatory Critique）** 结合历史记忆、[[Developmental State|发展型国家]]体制与大国地缘秩序对峙，解释为何特定话语框架能够获得合法性，揭示教育对外开放背后的全球治理替代性追求。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–692)]]
 > 4. **[[Reflexivity|反身性]]审查与多源证据互证** 引入[[Critical Realism|批判实在论]][[Explanatory Critique|解释性批判]]原则，对照物质制度条件与实地执行反馈，排除竞争性解释并防范过度诠释偏误。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–694)]]
 
 ---
 
 > [!method-fit] 适用判断
-> - **适合使用** 适合分析国家宏观教育战略演进、[[Transnational Education|跨国教育]]合作政策的意识形态合法化过程（[[Argument_Woo_2023_HEP|Woo, 2023, pp. 680–682]]）、超国家机构政策白皮书中新自由主义[[Regimes of Truth|真理政制]]的建构（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009, pp. 479–481]]）、国际组织（如 [[OECD]]、[[World Bank|世界银行]]）教育评价报告的[[Discourse|话语]]霸权解构。
+> - **适合使用** 适合分析国家宏观教育战略演进、[[Transnational Education|跨国教育]]合作政策的意识形态合法化过程（[[Argument_Woo_2023_HEP|Woo, 2023, pp. 680–682]]）、超国家机构政策白皮书中[[Neoliberalism|新自由主义]][[Regimes of Truth|真理政制]]的建构（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009, pp. 479–481]]）、国际组织（如 [[OECD]]、[[World Bank|世界银行]]）教育评价报告的[[Discourse|话语]]霸权解构。
 > - **谨慎使用** 纯技术性教学流程测量、课堂微观师生语言互动的秒级编码（更宜采用[[Conversation Analysis|会话分析]] Conversation Analysis）。
 > - **不适合使用** 评估教育干预措施的大样本平均因果效应或开展跨国[[Academic Achievement|学业成绩]]排名的量化统计建模。
 

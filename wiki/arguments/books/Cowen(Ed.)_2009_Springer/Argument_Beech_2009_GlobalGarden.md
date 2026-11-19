@@ -58,6 +58,8 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Effective Teaching]]"
   - "[[The Sublime]]"
+  - "[[Neoliberalism]]"
+  - "[[Typicality]]"
   - "[[School Autonomy]]"
   - "[[Encyclopaedic Definition of Knowledge]]"
   - "[[Epistemology]]"
@@ -106,14 +108,14 @@ sources:
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-10-15
-updated: 2026-11-15
+updated: 2026-11-19
 subtype: book-chapter
 publication_type: book-chapter
 title: "Argument_Beech_2009_GlobalGarden"
 argument_key: "Argument_Beech_2009_GlobalGarden"
 argument_display_title: "Who is strolling through the global garden? International agencies and educational transfer"
 argument_kind: "book-chapter"
-argument_related_count: 75
+argument_related_count: 77
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -259,7 +261,7 @@ issuing_organization: ""
 > |---|---|---|---|
 > | **[[World Bank\|世界银行]]（WB）** | 绝对[[Human Capital Theory\|人力资本理论]]（Human Capital Theory, HCT）主导，自称在广度与严谨性上无可匹敌（1995: 21；p. 347） | 将教育全面工具化为经济增长引擎；以经受三十余年检验的[[Return on Investment\|社会投资回报]]率与成本效益核算为最高评判准绳 | 将教材、黑板与粉笔定为最[[Effective Teaching\|有效教学]]物资；将教师薪酬视为削减成本之主要障碍（Carnoy, 1999）；实证宣称若 1960 年韩国入学率同巴基斯坦一样低，其 1985 年人均国内生产总值（Gross Domestic Product, GDP）将萎缩 40%（pp. 346–347） |
 > | **[[UNESCO\|联合国教科文组织]]（UNESCO）** | [[The Sublime\|崇高]]的人本主义立场（Mayor et al., 1997；p. 347） | 坚决反对将人降格为人力资本与生产工具，强调人是发展的终极目的而非经济手段；旨在促进人的全面发展、尊严、和平、宽容与人权 | 菲利普·琼斯（Phillip Jones）与戴维·科尔曼（David Coleman, 2005）揭露 1996 年[[Delors Report\|德洛尔报告]]《学习：内在的财富》（*Learning: The Treasure Within*）实质是 UNESCO 在北面遭受 OECD 侵蚀、南面遭受世行挤压的领导地位危机中，为重塑政治合法性展开的公开舆论反击（pp. 347–348） |
-> | **[[OECD\|经济合作与发展组织]]（OECD）** | 混合型新自由主义经济视角（Papadopoulos, 1994；p. 347） | 虽以经济增长为重心，但主张该主导地位必须受到社会维度与人类福祉的适度平衡与规约 | 放弃指令性强制，通过破译新兴趋势、开展同行评议与制定指标体系确立国际游戏规则，软性引导成员国采纳有效政策 |
+> | **[[OECD\|经济合作与发展组织]]（OECD）** | 混合型[[Neoliberalism\|新自由主义]]经济视角（Papadopoulos, 1994；p. 347） | 虽以经济增长为重心，但主张该主导地位必须受到社会维度与人类福祉的适度平衡与规约 | 放弃指令性强制，通过破译新兴趋势、开展同行评议与制定指标体系确立国际游戏规则，软性引导成员国采纳有效政策 |
 
 比奇对核心政策文本的系统比对证实，上述关于人本主义与经济主义的哲学分歧，实质上统摄在同一个深层思想系统之下，共同服务于跨国政策方案的标准化建构（p. 348）。
 
@@ -268,7 +270,7 @@ issuing_organization: ""
 三大机构跨越了意识形态分歧，统一步调地将未来人类社会描述为单一平面的信息时代，并众口一词地宣称现存所有传统教育体制皆已深陷危机、无法契合信息经济的迫切需求（p. 348）。
 
 > [!proc] 全球教育话语五大支柱普遍模型生成与规训流程
-> 1. **统一未来预设** 三大国际机构跨越意识形态壁垒，将全球所有国家的未来统一步调地判定为信息时代，宣称其呈现出超越地缘与文化特殊性的客观确定性。
+> 1. **统一未来预设** 三大国际机构跨越意识形态壁垒，将全球所有国家的未来统一步调地判定为信息时代，宣称其呈现出超越地缘与文化[[Typicality|特殊性]]的客观确定性。
 > 2. **五大支柱模型捆绑输出** 顺应信息时代逻辑，机构成套推销标准改革方案：包括行政治理上的分权化、[[School Autonomy|学校自主权]]、教师队伍专业化、能力本位课程，以及中央质量评估系统。
 > 3. **全盘否定受援国本土传统** 在阿根廷与巴西，该话语将历史上注重系统事实、知识记忆与博雅学术积淀的[[Encyclopaedic Definition of Knowledge|百科全书式知识传统]]（encyclopaedic definition of knowledge）直接判为落后、低效与失败，断言必须展开伤筋动骨的全盘体制推翻。（p. 348）
 > 4. **双重垄断与政策空间闭合** 国际机构首先为借款国界定什么是合法的教育问题，接着唯独提供上述模型作为唯一解决方案，从而在[[Epistemology|认识论]]层面直接封杀了发展中国家探索替代性道路的[[Discursive Field|话语空间]]。（p. 349）

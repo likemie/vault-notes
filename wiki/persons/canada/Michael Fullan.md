@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: canada
 person_region: "canada"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Professional Capital]]"
   - "[[Co-Design]]"
   - "[[New Public Management]]"
+  - "[[Neoliberalism]]"
   - "[[Creativity]]"
   - "[[Technical Rationality]]"
   - "[[Alienation]]"
@@ -54,7 +55,7 @@ related_arguments:
   - "[[Argument_Barrenechea_2023_JEC]]"
 status: active
 created: '2026-10-16'
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -118,7 +119,7 @@ updated: 2026-11-15
 > [!person-network] 关系网络
 > - **学术合作伙伴** 安迪·哈格里夫斯（Andy Hargreaves） — 共同倡导[[Professional Capital|专业资本]]（Professional Capital）与协作专业主义；乔安妮·奎因（Joanne Quinn） — 共同创办 [[New Pedagogies for Deep Learning|NPDL]] 并合著核心专著。
 > - **跨国政策思想盟友** [[Michael Barber|迈克尔·巴伯]]爵士（[[Michael Barber]]） — 共同参与跨国咨询网络与培生智库项目；[[John Hattie|约翰·哈蒂]] — 共同被培生智库致谢并同构了专有教学品牌模式。
-> - **学术批评者** [[John O'Neill|约翰·奥尼尔]]（[[John O'Neill]]）、[[Stephen Ball|斯蒂芬·鲍尔]]（[[Stephen Ball]]） — 批判其思想领袖光环背后的专有教学法商品化与新自由主义资本合谋。
+> - **学术批评者** [[John O'Neill|约翰·奥尼尔]]（[[John O'Neill]]）、[[Stephen Ball|斯蒂芬·鲍尔]]（[[Stephen Ball]]） — 批判其思想领袖光环背后的专有教学法商品化与[[Neoliberalism|新自由主义]]资本合谋。
 
 ---
 

@@ -7,7 +7,7 @@ aliases:
 summary: "组织把自主性、目标导向、问责性和社会嵌入性纳入核心身份并作为行动者被广泛承认的制度过程"
 type: concept
 domain: "sociology-of-education"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Global Universities Rankings]]"
   - "[[University Social Responsibility]]"
   - "[[Intercultural Education]]"
+  - "[[Neoliberalism]]"
   - "[[Global Citizenship]]"
 related_theories:
   - "[[World Society Theory]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-11'
-updated: 2026-10-22
+updated: 2026-11-19
 ---
 
 ---
@@ -112,7 +113,7 @@ updated: 2026-10-22
 ---
 
 > [!warning] 争议与批评
-> - **新自由主义批判视角** 许多批判性研究将大学对上述压力的反应视为在新自由主义公共缩减时代向创业主义和管理主义的绝望转向（Clark, 1998; Deem, 2001; Olssen & Peters, 2005），认为私有化、产业联系、国际招聘和兼职合同等结构改革确实源自新自由主义模板([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.148]])
+> - **[[Neoliberalism|新自由主义]]批判视角** 许多批判性研究将大学对上述压力的反应视为在新自由主义公共缩减时代向创业主义和管理主义的绝望转向（Clark, 1998; Deem, 2001; Olssen & Peters, 2005），认为私有化、产业联系、国际招聘和兼职合同等结构改革确实源自新自由主义模板([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.148]])
 > - **[[World Society Theory\|世界社会理论]]视角的回应** Zapp 承认上述批判的有效性，但认为更深刻的转型正在发生——大学正从根本上被重新概念化，从公共行政的特定单位转变为具有自我身份和策略的组织行动者
 
 ---

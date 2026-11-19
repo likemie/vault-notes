@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: brazil
 person_region: "brazil"
-person_related_count: 50
+person_related_count: 51
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Epistemology]]"
   - "[[Champ]]"
+  - "[[Neoliberalism]]"
   - "[[Culture of Silence]]"
   - "[[Problematisation]]"
   - "[[Politicity of Education]]"
@@ -84,7 +85,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-10'
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -116,7 +117,7 @@ updated: 2026-11-15
 > - **1973 — *Education for Critical Consciousness*** 深入阐述[[Conscientization|批判意识觉醒]]（Conscientização）的发生机制，分析社会从半闭塞、被动顺从向批判开放社会的历史转变，确立反思实践（[[Praxis]]）的心理学与[[Epistemology|认识论]]根基。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 5–7)]]
 > - **1987 — *A Pedagogy for Liberation: Dialogues on Transforming Education*** 与伊拉·肖尔（Ira Shor）合著。将批判对话精神推向高等教育与日常课堂教学转型，论证所有教育实践均承载价值导向，教育者必须在维稳适应与解放赋权之间做出自觉的伦理政治抉择。[[Argument_Rust_2009_Reflections|(Shor & Freire, 1987, cited in Rust et al., 2009, p. 134)]]
 > - **1994 — *Cartas a Cristina*** （《致克里斯蒂娜的信》）自传性政治反思论著。弗莱雷深刻阐明国家与公共教育属于展开商品服务交换、竞争不同政治经济规划的争夺[[Champ|场域]]（contested arena），奠定了批判政治经济学分析[[Paradigm|范式]]。[[Argument_Olmos_Torres_2009_StateTheories|(Freire, 1994, cited in Olmos & Torres, 2009, pp. 77–78, 85)]]
-> - **1998 — *Pedagogy of Freedom: Ethics, Democracy, and Civic Courage*** 晚期重要论著。将教育实践定性为一种伦理与政治介入，强调批判性求知必须捍卫受教育者的认知主体性与尊严，对全球新自由主义教育规训提出深刻警示。
+> - **1998 — *Pedagogy of Freedom: Ethics, Democracy, and Civic Courage*** 晚期重要论著。将教育实践定性为一种伦理与政治介入，强调批判性求知必须捍卫受教育者的认知主体性与尊严，对全球[[Neoliberalism|新自由主义]]教育规训提出深刻警示。
 
 ---
 

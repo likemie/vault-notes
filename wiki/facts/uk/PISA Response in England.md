@@ -12,7 +12,7 @@ subtype: event
 region: uk
 fact_region: "uk"
 fact_kind: "event"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -25,6 +25,7 @@ tags:
   - pisa
 related_concepts:
   - "[[Performance Pay]]"
+  - "[[Neoliberalism]]"
   - "[[School Choice]]"
   - "[[Falling Standards Template]]"
   - "[[Mediatised Governance]]"
@@ -59,13 +60,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-21
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
 
 > [!claim] 核心定性
-> 英格兰 [[PISA]] 政策回应（PISA Response in England）特指 2010 年英国保守党—自由民主党联合政府上台后，围绕 2009 年与 2012 年国际学生评估项目结果展开的全国性政治论战与治理重构过程。该事件被广泛定性为跨国评估数据在主权国家内部沦为“政策合法化弹药”的典型案例：政治精英与大众传媒协同动员“标准下滑与国际落后”的虚构危机，绕开专业教育共同体的审议机制，强力推行包括公学全面学院化、兴建自由学校、推行教师[[Performance Pay|绩效工资]]与严苛外部问责在内的新自由主义激进重组。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, pp. 109–112)]]
+> 英格兰 [[PISA]] 政策回应（PISA Response in England）特指 2010 年英国保守党—自由民主党联合政府上台后，围绕 2009 年与 2012 年国际学生评估项目结果展开的全国性政治论战与治理重构过程。该事件被广泛定性为跨国评估数据在主权国家内部沦为“政策合法化弹药”的典型案例：政治精英与大众传媒协同动员“标准下滑与国际落后”的虚构危机，绕开专业教育共同体的审议机制，强力推行包括公学全面学院化、兴建自由学校、推行教师[[Performance Pay|绩效工资]]与严苛外部问责在内的[[Neoliberalism|新自由主义]]激进重组。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, pp. 109–112)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 2010 年 5 月联合政府执政起至 2015 年保守党单独执政期间集中爆发，空间聚焦于大不列颠及北爱尔兰联合王国的英格兰管辖区。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, pp. 109–111)]]

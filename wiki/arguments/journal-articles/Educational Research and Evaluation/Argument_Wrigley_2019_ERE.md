@@ -10,7 +10,7 @@ title: "Argument_Wrigley_2019_ERE"
 argument_key: "Argument_Wrigley_2019_ERE"
 argument_display_title: "Evidence-based teaching: a simple view of 'science'"
 argument_kind: "journal-article"
-argument_related_count: 27
+argument_related_count: 28
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Extracurricular Activities]]"
   - "[[Hypothesis]]"
+  - "[[Neoliberalism]]"
   - "[[Multiplicity]]"
 related_theories:
   - "[[Critical Realism]]"
@@ -63,7 +64,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-01'
-updated: 2026-10-30
+updated: 2026-11-19
 year: 2019
 doi: ""
 citation_aliases:
@@ -145,7 +146,7 @@ citation_aliases:
 > - 教育作为开放、递归、符号系统，其因果结构与实验室封闭系统有本质区别
 > - [[Meta-analysis\|元分析]]和[[Meta-meta-analysis\|元-元分析]]的统计聚合在每一级简化中丢失了关于干预如何以及为何起作用的因果信息
 > - 医学 [[Randomised Controlled Trials\|RCT]] 建立在大量先期理论工作之上，而教育领域常将 RCT 视为知识的唯一来源
-> - EBT 与全球新自由主义教育治理相连——"证据"成为服务于全球资本竞争的概念家族成员
+> - EBT 与全球[[Neoliberalism|新自由主义]]教育治理相连——"证据"成为服务于全球资本竞争的概念家族成员
 > - 狭隘的"证据"观（数值[[Effect Size\|效应量]]）可能扭曲课程决策，边缘化公民教育、多元文化主义、启蒙、民主、团结等教育目的
 > - 研究者提倡一种更广泛的、更具解释性和探索性的研究综述传统——基于理论和相关性而非仅技术符合性选择源研究
 

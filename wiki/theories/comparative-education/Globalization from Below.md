@@ -9,7 +9,7 @@ aliases:
 summary: "布雷彻等创立、阿诺夫引入比较教育学的批判社会运动与教育改革理论，指跨国界基层社会运动、原住民团体与教师工会依托数字通信构筑的以太流散空间，利用普世人权话语反哺抗争新自由主义自上而下的政策规训，通过跨国社会连带争取教育公平并推动世界体系向全球社会民主转型"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 37
+theory_related_count: 38
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ tags:
   - equity
   - region/global
 related_concepts:
+  - "[[Neoliberalism]]"
   - "[[Educational Privatisation]]"
   - "[[Determinism]]"
   - "[[Paradigm]]"
@@ -73,13 +74,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
 
 > [!theory-position] 理论定位
-> - **解释对象** 跨国界草根社会运动、原住民团体、教师工会、女性主义及生态保护力量如何突破民族国家地理边界，依托数字网络建构跨国团结阵线，抗衡由跨国资本与新自由主义国家官僚主导的自上而下[[Educational Privatisation|教育私有化]]与量化问责改革。
+> - **解释对象** 跨国界草根社会运动、原住民团体、教师工会、女性主义及生态保护力量如何突破民族国家地理边界，依托数字网络建构跨国团结阵线，抗衡由跨国资本与[[Neoliberalism|新自由主义]]国家官僚主导的自上而下[[Educational Privatisation|教育私有化]]与量化问责改革。
 > - **理论问题** 批判主流比较教育研究中盛行的自上而下政策[[Convergence Theory in Comparative Education|趋同论]]与新自由主义技术经济[[Determinism|决定论]]，回应底层微观行动者在资本主义世界体系出现结构性危机时，如何利用全球流散空间发起反抗并探索具有实质公平性的替代教育方案。
 > - **理论类型** 批判解释理论与规范解放[[Analytic Framework|分析框架]]。
 > - **知识位置** 处于[[World-Systems Theory|世界体系分析]]、批判教育政治经济学与跨国社会运动理论的交汇点，与自上而下的新自由主义全球化（Globalization from Above）形成正面对峙，与[[Dialectic of the Global and the Local|全球与本土的辩证法]]相互支撑。

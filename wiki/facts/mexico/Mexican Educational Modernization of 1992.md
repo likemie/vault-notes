@@ -12,9 +12,9 @@ subtype: event
 region: "mexico"
 fact_region: "mexico"
 fact_kind: "event"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
 tags:
   - fact/event
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Comprehensive Education]]"
   - "[[Washington Consensus]]"
+  - "[[Neoliberalism]]"
   - "[[Compensatory Legitimation]]"
 related_theories:
   - "[[Neocorporatism]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-22
+updated: 2026-11-19
 ---
 
 ---
@@ -59,7 +60,7 @@ updated: 2026-10-22
 ---
 
 > [!dev-timeline] 事件推进历程
-> - **1989–1991 — 政治整肃与新法团领袖确立** 1989 年萨利纳斯总统以反腐名义迫使原 [[SNTE]] 终身寡头容胡德·巴里奥斯下台，亲自指定支持新自由主义现代化改革的戈尔迪略接掌工会，打通了政府与工会谈判的核心政治通道。
+> - **1989–1991 — 政治整肃与新法团领袖确立** 1989 年萨利纳斯总统以反腐名义迫使原 [[SNTE]] 终身寡头容胡德·巴里奥斯下台，亲自指定支持[[Neoliberalism|新自由主义]]现代化改革的戈尔迪略接掌工会，打通了政府与工会谈判的核心政治通道。
 > - **1992-05-18 — 签署《国家协定》（ANMEB）** 联邦政府、各州政府与 SNTE 三方在国家宫正式签署协定，将 10 万余所中小学校舍、近 70 万名教师的管理与工资划拨权正式移交给各州政府。
 > - **1993 年至今 — 确立教师职业生涯制与恩庇再生产** 设立“教师职业生涯计划”（Carrera Magisterial），引入由工会与政府对半掌控的绩效加薪考核机制；各州政府财力匮乏导致区域教育鸿沟急剧扩大，而 SNTE 则借由对地方教育厅人事的深度渗透，获得了更加坚不可摧的政治调控筹码。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
 

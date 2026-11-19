@@ -10,7 +10,7 @@ aliases:
 summary: "沃尔夫冈·米特等学者对当代比较教育学学科边界模糊与专业品质下降提出的警示性概念。指随着全球化与跨国数据热潮，出现“人人都在比较并自称比较学者”的实务蔓延现象，大量研究缺乏对比较哲学、历史脉络与方法论的系统学术训练，放弃了对学科认识论身份的持续界定，致使比较教育学面临丧失鲜明学科轮廓与批判深度、沦为浅层政策对照与技术工具的危机。"
 type: concept
 domain: "comparative-education"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Paradigm]]"
   - "[[Positivism]]"
+  - "[[Neoliberalism]]"
   - "[[Governing by Numbers]]"
 related_methods:
   - "[[Problem Approach]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -114,4 +115,4 @@ updated: 2026-11-11
 > [!impact-cards] 学术影响
 > - **强化比较教育学术共同体的危机意识** 米特的论断成为当代比较教育学界反思学科“合法性危机”的重要纲领，警示学者警惕被技术官僚数据治理完全同化。
 > - **推动比较方法论课程与专业训练规范化** 促使各国大学比较教育教席加强对研究生在比较逻辑、[[Epistemology|认识论]]传统与跨文化质性方法上的专业训练，筑牢专业防护网。
-> - **重申文化历史[[Rich and Thick Description|深描]]的不可替代性** 为抵抗新自由主义与[[Governing by Numbers|数字治理]]的量化霸权提供了坚实的认识论防线，确立了欧洲文化主义传统在全球学术版图中的长久价值。
+> - **重申文化历史[[Rich and Thick Description|深描]]的不可替代性** 为抵抗[[Neoliberalism|新自由主义]]与[[Governing by Numbers|数字治理]]的量化霸权提供了坚实的认识论防线，确立了欧洲文化主义传统在全球学术版图中的长久价值。

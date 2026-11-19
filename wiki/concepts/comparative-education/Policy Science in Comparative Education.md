@@ -7,10 +7,10 @@ aliases:
 summary: "比较教育学中主张学科本质应作为政策科学服务国家治理决策的理解形式与知识取向；由 Cowen 系统梳理并由 Holmes 和 King 等人倡导，政治上寻求与自由民主国家权力的显性联盟，但面临消解学术反思批判力并异化为官僚规划合法化借口的双重张力。"
 type: concept
 domain: "comparative-education"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - theme/comparative-education
   - theory/comparative-education
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Rich and Thick Description]]"
   - "[[Variable]]"
+  - "[[Neoliberalism]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Alienation]]"
   - "[[Knowledge Diplomacy]]"
@@ -65,7 +66,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-06-06
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -95,7 +96,7 @@ updated: 2026-11-15
 > |---|---|---|---|---|
 > | **核心定位** | 服务国家决策的政策咨询科学 | 阐释历史文化情境的独特性与差异 | 探寻全球教育系统走向相似的法则 | 追求跨国可测量的教育产出与效能 |
 > | **[[Epistemology\|认识论]]诉求** | 解决实际政策难题与制度危机 | 历史情境理解与质性[[Rich and Thick Description\|深描]] | 工业化与现代性模式[[Variable\|变量]]演化规律 | 量化指标监控与标准化数据测试 |
-> | **政治预设** | 显性结盟自由民主国家权力 | 表面中立但回避国家暴力与意识形态 | 假定趋同为自然良性过程，遮蔽霸权 | 深度配合新自由主义经济竞争定义 |
+> | **政治预设** | 显性结盟自由民主国家权力 | 表面中立但回避国家暴力与意识形态 | 假定趋同为自然良性过程，遮蔽霸权 | 深度配合[[Neoliberalism\|新自由主义]]经济竞争定义 |
 > | **代表学者或机构** | [[Brian Holmes\|Holmes]]; [[Edmund King\|King]]; [[Robert Cowen\|Cowen (2023)]] | [[Isaac Kandel\|Kandel]]; [[Nicholas Hans\|Hans]]; [[Andreas Kazamias\|Kazamias]] | Lauwerys; Rosselló; Halsey; Inkeles | Lauwerys; [[IEA]]; [[OECD]] / [[PISA]] |
 > | **主要潜在危机** | 沦为行政应急管道工与[[Social Science as Legitimation Alibi\|合法化借口]] | 缺乏剖析极端政治干预的理论工具 | 掩盖制度扩散背后的不平等权力关系 | 抽空复杂教育情境，沦为社会效率温度计 |
 

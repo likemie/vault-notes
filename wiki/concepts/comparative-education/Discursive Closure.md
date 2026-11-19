@@ -7,7 +7,7 @@ aliases:
 summary: "批判话语分析与跨国教育治理核心概念。指国际组织、超国家机构与依附性专家把关人网络，通过将复杂的学术争鸣过度简化为单一去情境化的普遍政策模型（如全球教育话语五支柱），从而统一定义教育危机并垄断解方供给，从认识论源头上封锁受援国构想替代性教育政策的思考空间。"
 type: concept
 domain: "comparative-education"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Knowledge Production]]"
   - "[[Critical Pedagogy]]"
+  - "[[Neoliberalism]]"
   - "[[Homophily]]"
   - "[[Return on Investment]]"
   - "[[Heterogeneity]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -109,7 +110,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题一｜国际组织表层的哲学与领地争端掩盖了深层政策模型的一致性，共同造成全球南方的[[Epistemology|认识论]]封闭
-> **组织表象冲突与深层[[Discourse|话语]]共谋** 探讨[[UNESCO|联合国教科文组织]]的人本主义叙事与[[World Bank|世界银行]]的新自由主义[[Human Capital Theory|人力资本]]叙事之间，为何在具体改革方案上展现出惊人的[[Homophily|同质性]]与封闭效应。
+> **组织表象冲突与深层[[Discourse|话语]]共谋** 探讨[[UNESCO|联合国教科文组织]]的人本主义叙事与[[World Bank|世界银行]]的[[Neoliberalism|新自由主义]][[Human Capital Theory|人力资本]]叙事之间，为何在具体改革方案上展现出惊人的[[Homophily|同质性]]与封闭效应。
 
 > [!claim] [[Jason Beech|Beech, J.]]
 > **多边机构表层哲学冲突对深层方案垄断的掩盖** 杰森·比奇（Jason Beech）指出，学者们通常关注联合国教科文组织（主张人本主义与教育人权）与世界银行（奉行人力资本理论与[[Return on Investment|投资回报率]]）之间的哲学论战与领地竞争；然而在 1980–1990 年代，这两大机构连同[[OECD|经合组织]]在向发展中国家推销具体政策时，实质上完全统一在以信息时代为背景的“[[Global Educational Discourse|全球教育话语]]五支柱”模型之下。三大机构通过不同的修辞外衣兜售完全相同的普遍主义方案包，从源头上抹平了哲学分歧在实践中的可能性，使全球南方的教育政策制定者误以为全世界唯有这一条现代化坦途，彻底封锁了探索本土替代道路的[[Epistemology|认识论]]空间。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 347–349)]]

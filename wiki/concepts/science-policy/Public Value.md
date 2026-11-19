@@ -7,7 +7,7 @@ aliases:
 summary: "指超越新古典狭隘“公共品”修补的整体性治理与创新范式；强调国家、市场与社会在应对重大战略挑战与社会技术转型的全价值链中共同创造、塑造市场，并通过制度化附加条件与护栏条款确保公共投资创造普惠的集体经济、社会与生态福祉；同时强调技术发展必须实质交付于满足公众普遍利益与国家核心职能（如国防安全、医疗突破与高效公共服务），防范因技术被狭隘私人消费主义俘获而导致公共能力空心化与民主政体合法性危机。"
 type: concept
 domain: "science-policy"
-related_count: 72
+related_count: 73
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Citizen Science]]"
   - "[[Modern Industrial Policy]]"
   - "[[Apprenticeship]]"
+  - "[[Neoliberalism]]"
   - "[[Economic Fundamentalism]]"
   - "[[Alienation]]"
   - "[[Discourse]]"
@@ -99,7 +100,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -214,7 +215,7 @@ updated: 2026-11-15
 
 ---
 
-> [!concept-proposition] 命题八｜新自由主义[[Economic Fundamentalism|经济基要主义]]侵蚀了教育作为民主公物的本真公共价值并将其[[Alienation|异化]]为投资工具
+> [!concept-proposition] 命题八｜[[Neoliberalism|新自由主义]][[Economic Fundamentalism|经济基要主义]]侵蚀了教育作为民主公物的本真公共价值并将其[[Alienation|异化]]为投资工具
 > **教育本质的规范位移：从民主公民权的公共物品到[[Human Capital Theory|人力资本]]投资的混合商品** 探讨超国家政策[[Discourse|话语]]如何将教育从保障平等与民主参与的纯粹公共物品降格为追求竞争优势与私人溢价的公私混合商品。
 
 > [!claim] [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]]

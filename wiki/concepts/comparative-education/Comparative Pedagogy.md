@@ -7,7 +7,7 @@ aliases:
 summary: "20世纪末由罗宾·亚历山大等学者系统开创的比较教育学微观研究进路，主张突破宏观政策与国家制度指标的抽象局限，深入中小学具体课堂话语互动与教学过程，揭示教学法深嵌于民族国家历史、文化土壤与认知传统中的社会建构本质。"
 type: concept
 domain: "comparative-education"
-related_count: 31
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Discourse]]"
   - "[[Paradigm]]"
+  - "[[Cultural Code]]"
   - "[[Scholiocentric Approach]]"
   - "[[Rich and Thick Description]]"
   - "[[Effective Teaching]]"
@@ -26,6 +27,7 @@ related_concepts:
   - "[[Geisteswissenschaften]]"
   - "[[Positivism]]"
   - "[[Champ]]"
+  - "[[Neoliberalism]]"
   - "[[Learnology]]"
   - "[[Creativity]]"
   - "[[Variable]]"
@@ -57,13 +59,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-01
-updated: 2026-11-02
+updated: 2026-11-19
 ---
 
 ---
 
 > [!def] Comparative Pedagogy
-> 比较教学论（Comparative Pedagogy）是将跨国跨文化比较研究的视轴从宏观国家政策、行政体制与量化成效指标，下沉聚焦至微观中小学课堂教学法、师生[[Discourse|话语]]互动、任务组织与教学思维的研究[[Paradigm\|范式]]。它主张教学法绝非普适中立的行为技术套件，而是深嵌于特定社会的历史传统、价值信念与文化代码之中的复杂文化实践。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, p. 155)]]
+> 比较教学论（Comparative Pedagogy）是将跨国跨文化比较研究的视轴从宏观国家政策、行政体制与量化成效指标，下沉聚焦至微观中小学课堂教学法、师生[[Discourse|话语]]互动、任务组织与教学思维的研究[[Paradigm\|范式]]。它主张教学法绝非普适中立的行为技术套件，而是深嵌于特定社会的历史传统、价值信念与[[Cultural Code|文化代码]]之中的复杂文化实践。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, p. 155)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将课堂教学与教学法（Pedagogy）界定为贯通宏观文化价值、中观学校制度与微观师生互动的多层建构中介。
@@ -97,7 +99,7 @@ updated: 2026-11-02
 比较教学论的兴起代表了比较教育学在 20 世纪晚期至 21 世纪初的重要[[Paradigm|范式]]转向：
 
 1. **对战后宏观[[Positivism|实证主义]]与唯方法论的纠偏** 战后第三代际实证科学化运动（诺亚与埃克斯坦、芝加哥学派）以及超国家机构（如[[World Bank|世界银行]]、[[OECD]]）将比较研究窄化为宏观投入-产出模型与去情境化的回归方程，完全忽视了教育发生的核心物理[[Champ|场域]]——学校课堂。（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a, pp. 147–149]]）
-2. **英国比较教育学派的文化情境坚守** [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）考据指出，在第四代际晚期，当美国比较教育学界面临[[Postmodernism|后现代主义]]碎片化与新自由主义经济指标狂潮时，英国学术共同体展现出稳健审慎的学风，率先发起微观课堂教学与“[[Learnology|学习学]]”（Learneology）转向，将[[Michael Sadler\|迈克尔·萨德勒]]（Michael Sadler）关于校外文化精神力量的传统[[Creativity|创造性]]延伸至课堂教学法分析中。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, p. 155)]]
+2. **英国比较教育学派的文化情境坚守** [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）考据指出，在第四代际晚期，当美国比较教育学界面临[[Postmodernism|后现代主义]]碎片化与[[Neoliberalism|新自由主义]]经济指标狂潮时，英国学术共同体展现出稳健审慎的学风，率先发起微观课堂教学与“[[Learnology|学习学]]”（Learneology）转向，将[[Michael Sadler\|迈克尔·萨德勒]]（Michael Sadler）关于校外文化精神力量的传统[[Creativity|创造性]]延伸至课堂教学法分析中。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, p. 155)]]
 3. **亚历山大五国比较研究的奠基** [[Robin Alexander|罗宾·亚历山大]]在 20 世纪 90 年代主持了举世闻名的英、法、印、俄、美五国初等教育跨文化比较研究（Alexander, 2000），通过长达数年的深入[[Fieldwork\|田野调查]]与课堂[[Ethnography\|民族志]]，彻底确立了比较教学论的概念体系与方法论规程。
 
 ---

@@ -11,7 +11,7 @@ aliases:
 summary: "Geertz 提出的质性研究核心范畴，要求超越行为表面物理记录，将行动嵌入完整社会文化脉络，囊括意义、主观诠释与不可观察的情境要素，使读者获得现场共鸣并支持自然主义概括。"
 type: concept
 domain: "research-methodology"
-related_count: 64
+related_count: 65
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Epistemology]]"
   - "[[Policy Borrowing]]"
+  - "[[Neoliberalism]]"
   - "[[Trustworthiness]]"
   - "[[Evaluation Research]]"
   - "[[Paradigm]]"
@@ -94,7 +95,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-01
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -173,7 +174,7 @@ updated: 2026-11-11
 > **情境沉浸与整体现实感** 莫里森指出，研究者在特定情境中的长期沉浸使各种因素之间的相互关联自然浮现；这种经验沉浸所生成的深描在反映现实方面具有高度的强韧性（strong on reality），能有效防止研究者将外部先入之见武断强加于现场之上。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|(Cohen et al., 2011, Ch. 23, p. 466)]]
 
 > [!claim] [[Wolfgang Mitter|Mitter, W.]]
-> **跨国比较中的文化深描与情境护城河** 米特将深描范畴提升至比较教育学的认识论防御高度。面对跨国大规模量化测验（如 [[PISA]]）引发的去情境化技术主义与表面化“[[Policy Borrowing|政策借用]]”，比较教育学者必须重申其长达两百年的学科传统——对教育制度的历史渊源与文化生态展开“丰富与厚密描述”（rich and thick description）。唯有穿透标准化测量指标的外壳，深描出深植于民族文化与社会结构中的真实教育运作机制，才能构筑起抵御业余比较与新自由主义扁平化治理的学术护城河。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 98–99)]]
+> **跨国比较中的文化深描与情境护城河** 米特将深描范畴提升至比较教育学的认识论防御高度。面对跨国大规模量化测验（如 [[PISA]]）引发的去情境化技术主义与表面化“[[Policy Borrowing|政策借用]]”，比较教育学者必须重申其长达两百年的学科传统——对教育制度的历史渊源与文化生态展开“丰富与厚密描述”（rich and thick description）。唯有穿透标准化测量指标的外壳，深描出深植于民族文化与社会结构中的真实教育运作机制，才能构筑起抵御业余比较与[[Neoliberalism|新自由主义]]扁平化治理的学术护城河。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 98–99)]]
 
 > [!claim] [[Robert Arnove|Arnove, R.]]
 > **微观[[Ethnography|民族志]]深描打破宏观全球同质化神话与尺度张力** 阿诺夫指出，比较教育学必须将宏观[[World-Systems Theory|世界体系分析]]与微观课堂与社区[[Ethnography|民族志]]深描辩证结合。通过引入微观实证深描（如巴布亚新几内亚佩雷村青年对文凭主义的文化抵制、印度基层女教师在专业培训中的能动协商、几内亚与欧美阅读教学的本土变通），能够有力打破新制度主义世界文化自上而下均质扩散的抽象神话，真实揭示微观行动者的文化能动性与策略抗争；与此同时，阿诺夫警示，高度情境化的微观深描在向宏观教育系统推广时存在尺度张力，必须将其重新嵌回宏观历史与政治经济结构中方能确立其概括限度。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 106–109)]]

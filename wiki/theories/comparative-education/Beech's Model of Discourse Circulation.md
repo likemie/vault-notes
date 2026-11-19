@@ -8,7 +8,7 @@ aliases:
 summary: "Jason Beech 结合伯恩斯坦话语再情境化理论与卡斯特流动空间建构的全球教育场域五位置模型，揭示话语在跨国流动中的过度简化、守门人垄断与实践脱节机制"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 56
+theory_related_count: 57
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Competition State]]"
   - "[[Study Abroad]]"
+  - "[[Neoliberalism]]"
   - "[[Heterogeneity]]"
   - "[[Habitus]]"
   - "[[Emergence]]"
@@ -84,7 +85,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-15
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -147,7 +148,7 @@ updated: 2026-11-15
 > 规范意义上，本土学术空间应当保持相对于国家和国际组织的独立性，通过生产本土批判性话语与国际组织[[Competition State|竞争国家]]政策议程。然而比奇发现，在拉美等后发国家，国际组织、国家教育部与本土学术界三个位置的边界发生了严重消融与重叠。顶尖本土学者在学术攀升过程中，往往被国家聘为高官，或被国际组织聘为高薪评估顾问；同时国际组织与国家掌控了几乎全部科研资助的流向。这导致同一批“学者-官僚-国际顾问”网络构成了严密的守门人群体。他们垄断了国家同全球学术空间的交往渠道，将自身认同的“[[Global Educational Discourse|全球教育话语]]”封为唯一正统，排斥任何非主流或本土原创的批判构想，从而彻底封闭了受援国的政策话语空间。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 352–353)]]
 
 > [!example|notitle]
-> 20 世纪 90 年代阿根廷与巴西的教师教育改革中，负责撰写国家改革白皮书的专家小组、为世界银行贷款提供可行性评估的顾问，以及在知名大学主导国家资助课题的教授，几乎完全由同一批具有欧美[[Study Abroad|留学]]背景的精英学者兼任。这使得任何关于抵抗新自由主义分权化或保留传统百科全书式学制的本土声音都在源头上被过滤清除。
+> 20 世纪 90 年代阿根廷与巴西的教师教育改革中，负责撰写国家改革白皮书的专家小组、为世界银行贷款提供可行性评估的顾问，以及在知名大学主导国家资助课题的教授，几乎完全由同一批具有欧美[[Study Abroad|留学]]背景的精英学者兼任。这使得任何关于抵抗[[Neoliberalism|新自由主义]]分权化或保留传统百科全书式学制的本土声音都在源头上被过滤清除。
 
 > [!theory-proposition] 命题四｜去情境化的普遍话语降落至教育机构时因无法兼容本土生态而催生反常异化后果
 > 国际组织设计的抽象模型从不考虑具体实施环境的[[Heterogeneity|异质性]]，预设所有教育系统均具有相同的吸纳能力。然而，微观学校与师训机构是一个充满深厚历史沉淀、制度[[Habitus|惯习]]、教师日常职业伦理与严重资源制约的现实场域。当政策话语强行下沉至机构层面时，话语必然发生剧烈的[[Recontextualization|再情境化]]扭曲。其最终实践后果绝不可能从政策文本的良好初衷中直接推导出来；相反，由于缺乏配套专业基础与物质支撑，往往导致教育者采取极端规避策略，产生与改革初衷完全背道而驰的意外后果（Unexpected Practical Effects）。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 353–355)]]

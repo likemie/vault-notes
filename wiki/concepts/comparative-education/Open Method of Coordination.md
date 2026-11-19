@@ -7,7 +7,7 @@ aliases:
 summary: "欧盟创设的超国家软性政策治理范式。在恪守辅助性原则、排除强制性立法的前提下，通过确立共同目标、设定量化基准指标（Benchmarks）、促进最佳实践交流并开展同行评议与定期监测，对各成员国施加声誉同侪压力，驱动国家教育与社会政策向超国家战略优先事项自愿靠拢与制度趋同。"
 type: concept
 domain: "comparative-education"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Governing by Numbers]]"
   - "[[Lifelong Learning]]"
   - "[[Academic Attrition]]"
+  - "[[Neoliberalism]]"
   - "[[European Education Space]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Global Educational Discourse]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-11-03
+updated: 2026-11-19
 ---
 
 ---
@@ -97,7 +98,7 @@ updated: 2026-11-03
 > [!feature] 核心要素
 > - **共同战略目标与指导方针** 由欧洲理事会与[[EU|欧盟]]委员会共同制定中期战略方向（如[[Lifelong Learning|终身学习]]、数字技能、[[Academic Attrition|早期离校]]率控制目标）。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]
 > - **量化基准指标体系（Benchmarks）** 将抽象的教育质量诉求拆解为标准化、可横向比较的统计指标，使不可度量的国家体制转化为可度量的数据序列。
-> - **“最佳实践”修辞与经验流通** 借助官方报告筛选标杆案例，将特定新自由主义改革模式包装为客观理性的“普世最佳实践”，剥离其深层政治意识形态属性。
+> - **“最佳实践”修辞与经验流通** 借助官方报告筛选标杆案例，将特定[[Neoliberalism|新自由主义]]改革模式包装为客观理性的“普世最佳实践”，剥离其深层政治意识形态属性。
 > - **国家汇报与定期同行评议** 成员国定期提交国家实施方案并接受同僚审议，通过比较排位与声誉压力驱动国内行政改革。
 
 ---

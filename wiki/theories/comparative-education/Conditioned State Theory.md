@@ -11,7 +11,7 @@ aliases:
 summary: "比较教育政治社会学与依附论视阈下的国家理论，主张外围资本主义国家受制于其在全球资本积累中的从属边缘地位与内部后封建政治结构的双重制约，统治精英结成支配同盟使国家沦为代用国家，从而导致公共教育扩张与民主化进程深陷外生与内生矛盾"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 42
+theory_related_count: 44
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Alienation]]"
   - "[[Pact of Domination]]"
+  - "[[Neoliberalism]]"
   - "[[Compensatory Legitimation]]"
   - "[[Country Ownership]]"
   - "[[Post-Fordism]]"
@@ -55,6 +56,7 @@ related_methods:
   - "[[Quantitative Research]]"
 related_instruments: []
 related_persons:
+  - "[[Karl Marx]]"
   - "[[Martin Carnoy]]"
   - "[[Carlos Alberto Torres]]"
   - "[[Liliana Esther Olmos]]"
@@ -73,7 +75,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -82,10 +84,10 @@ updated: 2026-11-15
 > - **解释对象** 第三世界（尤其是拉丁美洲）外围资本主义国家在面对依附性经济发展、跨国资本支配与国内阶级矛盾时，其公共国家机器与教育政策制定权力的[[Alienation|异化]]状态及结构性危机。
 > - **理论问题** 批判自由[[Pluralism|多元主义]]将国家假定为中立仲裁者的虚构，反驳世界体系与[[World Society Theory|世界文化理论]]将战后教育扩张简化为同质化大爆炸的非历史叙事，解释为何外围国家即便经历了激进的教育扩张却依旧无法达成实质民主与社会平等；并与圈内实证研究对话，检验“绝对受限论”是否高估了跨国金融机构的全能支配力、低估了借款国基于本土政治生存的实质否决权（Hunter & Browne, 2000; [[Argument_Castro_2009_MultilateralBanks|Castro, 2009]]）。
 > - **理论类型** 批判政治社会学解释理论与宏观政治经济学[[Analytic Framework|分析框架]]。
-> - **知识位置** 植根于新马克思主义[[Critical Theory|批判理论]]与[[Dependency Theory|依附理论]]传统，是比较教育政治社会学分析外围国家教育扩张与改革的核心框架。
+> - **知识位置** 植根于新[[Karl Marx|马克思]]主义[[Critical Theory|批判理论]]与[[Dependency Theory|依附理论]]传统，是比较教育政治社会学分析外围国家教育扩张与改革的核心框架。
 
 > [!claim] 核心判断
-> 外围资本主义国家的国家机器既非全民意志的共同体，亦非具有完全自主权的现代治理枢纽，而是同时受到其在资本主义世界体系中所处边缘地位以及本土后封建专制结构双重制约的受限国家（Conditioned State）；面对脆弱的本土积累与跨国资本控制，本土统治集团将国家构筑为维护阶级特权的[[Pact of Domination|支配同盟]]（Pact of Domination）或代用国家（Surrogate State），导致公共教育系统演化出精英与底层割裂的双轨形态，并在新自由主义调整下沦为跨国规训与[[Compensatory Legitimation|补偿性合法化]]的工具。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
+> 外围资本主义国家的国家机器既非全民意志的共同体，亦非具有完全自主权的现代治理枢纽，而是同时受到其在资本主义世界体系中所处边缘地位以及本土后封建专制结构双重制约的受限国家（Conditioned State）；面对脆弱的本土积累与跨国资本控制，本土统治集团将国家构筑为维护阶级特权的[[Pact of Domination|支配同盟]]（Pact of Domination）或代用国家（Surrogate State），导致公共教育系统演化出精英与底层割裂的双轨形态，并在[[Neoliberalism|新自由主义]]调整下沦为跨国规训与[[Compensatory Legitimation|补偿性合法化]]的工具。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
 
 ---
 

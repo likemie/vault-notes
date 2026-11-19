@@ -11,7 +11,7 @@ subtype: program
 region: "portugal"
 fact_region: "portugal"
 fact_kind: "program"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ tags:
   - region/portugal
 related_concepts:
   - "[[Discourse]]"
+  - "[[Neoliberalism]]"
   - "[[Bureaucracy]]"
   - "[[Democratic Education]]"
   - "[[Test-Based Accountability]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-10-30
+updated: 2026-11-19
 ---
 
 ---
@@ -100,7 +101,7 @@ updated: 2026-10-30
 > - **工会行动动员率** 针对外部规制评估政策发起的教师罢工和诉愿参与程度。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
 
 > [!finding-cards] 核心实证结论
-> - **历史创伤记忆的意识形态防御功能** 葡萄牙经验表明，在经历过法西斯专制统治的国家，民主共决不仅是一套行政程序，更构成了不可触犯的历史正义旗帜；工会成功借由反独裁[[Discourse|话语]]剥夺了新自由主义绩效问责的正当性。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 255, 260)]]
+> - **历史创伤记忆的意识形态防御功能** 葡萄牙经验表明，在经历过法西斯专制统治的国家，民主共决不仅是一套行政程序，更构成了不可触犯的历史正义旗帜；工会成功借由反独裁[[Discourse|话语]]剥夺了[[Neoliberalism|新自由主义]]绩效问责的正当性。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 255, 260)]]
 > - **问责机制的软化与去高利害化** 激烈的社会对抗使得葡萄牙政府始终无法像英美国家那样将评估结果同教师薪酬、学校关停直接绑定，迫使国家评估演化为偏向组织诊断的温和框架。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 255, 260)]]
 > - **教师专业士气与行政负荷失衡** 尽管刚性惩戒被遏制，外部视导催生的大量案头自评材料与档案填报依然加剧了教师群体的行政负担感与职业倦怠。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
 

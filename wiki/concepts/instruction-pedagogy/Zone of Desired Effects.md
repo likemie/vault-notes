@@ -9,7 +9,7 @@ aliases:
 summary: "John Hattie 在《可见学习》中设定的 d>=0.40 期望效应区阈值，将所有影响因素的简单算术均值假托为一年自然学业成长基准，被批判为缺乏物理实体基准与比率尺度属性的伪科学假象及政策规训工具。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 47
+related_count: 48
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Scientism]]"
   - "[[Homework]]"
   - "[[Class Size]]"
+  - "[[Neoliberalism]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Clinical Trial]]"
   - "[[Public Value]]"
@@ -76,7 +77,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-16"
-updated: 2026-11-03
+updated: 2026-11-19
 ---
 
 ---
@@ -142,7 +143,7 @@ updated: 2026-11-03
 > **学段[[Heterogeneity|异质性]]遮蔽与政策误导** 探讨用单一截断值衡量性质截然不同的教育干预时，对学校微观教学与政府宏观资源配置造成的扭曲效应。
 
 > [!claim] Johnson & Janzen
-> **单一均值抹杀关键学段差异并扭曲资源配置** 将不同学段、不同学科和不同情境的研究粗暴揉合成一个单一数值并用 $d=0.40$ 进行机械裁剪，彻底掩盖了原本极具实践指导价值的内在[[Heterogeneity|异质性]]。在[[Homework|家庭作业]]议题上，哈蒂报告的全书总效应量仅为 $d=0.29$（位列第 88 名），因低于 $0.40$ 而被判定为平庸无效；然而原始研究中，小学生课外作业效应仅为 $d=0.15$，而高中生课外作业效应高达 $d=0.64$（若单独列出可排全书第 17 位）。单一期望阈值容易误导政策制定者全盘轻视作业价值；同样，[[Class Size|班级规模]]因总体效应量被定为 $d=0.21$ 而被置于无效区（第 108 名），被新自由主义财政部门频繁援引为拒绝缩减班额、削减教育预算的正当化借口。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 26–27, 31–32)]]
+> **单一均值抹杀关键学段差异并扭曲资源配置** 将不同学段、不同学科和不同情境的研究粗暴揉合成一个单一数值并用 $d=0.40$ 进行机械裁剪，彻底掩盖了原本极具实践指导价值的内在[[Heterogeneity|异质性]]。在[[Homework|家庭作业]]议题上，哈蒂报告的全书总效应量仅为 $d=0.29$（位列第 88 名），因低于 $0.40$ 而被判定为平庸无效；然而原始研究中，小学生课外作业效应仅为 $d=0.15$，而高中生课外作业效应高达 $d=0.64$（若单独列出可排全书第 17 位）。单一期望阈值容易误导政策制定者全盘轻视作业价值；同样，[[Class Size|班级规模]]因总体效应量被定为 $d=0.21$ 而被置于无效区（第 108 名），被[[Neoliberalism|新自由主义]]财政部门频繁援引为拒绝缩减班额、削减教育预算的正当化借口。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 26–27, 31–32)]]
 
 ---
 

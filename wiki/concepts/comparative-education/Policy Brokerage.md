@@ -8,7 +8,7 @@ aliases:
 summary: "在信息过载与教育决策多重不确定性背景下，跨国组织、智库或国家官方扶植机构通过筛选、转译和打包研究证据以施展软治理或服务政策落地的政治化机制。"
 type: concept
 domain: "comparative-education"
-related_count: 62
+related_count: 63
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -55,6 +55,7 @@ related_concepts:
   - "[[Governing by Numbers]]"
   - "[[Technical Rationality]]"
   - "[[Output-Oriented Governance]]"
+  - "[[Neoliberalism]]"
   - "[[Epistemology]]"
   - "[[Reflexivity]]"
   - "[[Data Infrastructure]]"
@@ -88,7 +89,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -230,7 +231,7 @@ updated: 2026-11-15
 > > 关于中介机构究竟是在促进理性决策还是在推行特定意识形态的争论。
 > >
 > > - **[[Technical Rationality|技术理性]]派** 认为政策中介有效整合了零散复杂的科研证据，降低了决策者的信息搜寻成本，是现代[[Output-Oriented Governance|循证治理]]必不可少的专业基础设施。
-> > - **批判政治学派** 指责政策中介机构利用数字外衣遮蔽了深层政治考量，借技术客观性之名推行新自由主义治理问责与全球市场化议程。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 538–540)]]
+> > - **批判政治学派** 指责政策中介机构利用数字外衣遮蔽了深层政治考量，借技术客观性之名推行[[Neoliberalism|新自由主义治理]]问责与全球市场化议程。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 538–540)]]
 
 > [!critique] 外部批评
 > - **自指性与证据垄断** 批判学者指出政策中介机构（尤其是国际组织）倾向于将自身内部生产的知识展开定向中介与项目资助，极易导致[[Evidence-Based Policy-Making|循证决策]]演变为自圆其说的方案推销与治理技术垄断。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 538–539)]]

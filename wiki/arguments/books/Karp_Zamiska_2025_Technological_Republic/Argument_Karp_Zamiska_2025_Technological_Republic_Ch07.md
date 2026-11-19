@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch07"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch07"
 argument_display_title: "A balloon cut loose"
 argument_kind: "book-chapter"
-argument_related_count: 43
+argument_related_count: 45
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -55,6 +55,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Cultural Relativism]]"
   - "[[Epoché]]"
+  - "[[Neoliberalism]]"
   - "[[Technological Republic]]"
 related_persons:
   - "[[Fredric L. Cheyette]]"
@@ -69,6 +70,7 @@ related_persons:
   - "[[Plato]]"
   - "[[Samuel P. Huntington]]"
   - "[[Jean-Jacques Rousseau]]"
+  - "[[Karl Marx]]"
   - "[[Hannah Arendt]]"
   - "[[Martin Luther]]"
   - "[[Joseph Tussman]]"
@@ -87,7 +89,7 @@ related_arguments: []
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 ---
 
@@ -159,7 +161,7 @@ updated: 2026-11-15
 > 到1970年代末，传统派在大学体制内已全线溃败。切耶特在 AHA 年会上对同行宣称：不存在一部单一的历史，而是存在许多种可能的历史，并总结了当时学术界的主导批判：当初被当作普世价值来传授的东西，其实质本身也是一种宗派性的产物。切耶特出生于纽约，先后就读于默瑟斯堡学院、普林斯顿大学与哈佛大学，并在阿默斯特学院执教近五十年，专研中世纪法国朗格多克与行吟诗人文化等保守专门史领域。切耶特绝非激进革命者，而是学术建制的核心成员；这样一位保守派建制学者的公开发难，表明美国高校人文学界已经在内部形成了拆解西方文明必修课的压倒性共识（pp. 86–87）。
 
 > [!dev-timeline] 西方文明课程瓦解的历史关键节点
-> - **1940年代末–1950年代 — 战后正典黄金期** 斯坦福大学等顶尖学府效仿哥伦比亚大学与芝加哥大学，将西方文明史列为本科新生统一必修核心，精选柏拉图、[[Jean-Jacques Rousseau|卢梭]]、马克思到[[Hannah Arendt|阿伦特]]等代表作（p. 87）。
+> - **1940年代末–1950年代 — 战后正典黄金期** 斯坦福大学等顶尖学府效仿哥伦比亚大学与芝加哥大学，将西方文明史列为本科新生统一必修核心，精选柏拉图、[[Jean-Jacques Rousseau|卢梭]]、[[Karl Marx|马克思]]到[[Hannah Arendt|阿伦特]]等代表作（p. 87）。
 > - **1968年冬春 — 时代剧震与合法性危机** 越战春季攻势（Tet Offensive）瓦解美国必胜信念；[[Martin Luther|马丁·路德]]·金（Martin Luther King Jr.）与罗伯特·F·肯尼迪（Robert F. Kennedy）相继遇刺身亡，[[Grandes Ecoles|大学校]]园爆发广泛反战与民权抗议。传统大叙事与社会现实产生不可调和的撕裂。
 > - **1968年11月 — 帕克委员会裁定已死或垂死** 斯坦福大学十人教育研究委员会（包含教授、行政人员及一名哲学系本科生）发布报告，裁定西方文明必修课模式在全美范围内已处于已死或垂死（dead or dying）状态。
 > - **1969年 — 斯坦福正式终止西方文明必修课** 《斯坦福日报》评论该课程的谢幕伴随着一声叹息而非一声轰鸣（with a whimper and not a bang）；正如历史学家吉尔伯特·阿拉迪斯（Gilbert Allardyce）所总结，抗议学生遭遇的是早已准备好撤退的教授会（pp. 87–88）。
@@ -229,7 +231,7 @@ updated: 2026-11-15
 > [!contrast-table] [[Thick Belonging|丰厚共同体归属]] vs 薄弱共同体归属对比
 > | 比较维度 | [[Thick Belonging\|丰厚归属感]]（Thick Conception of Belonging） | 薄弱归属感（Thin Conception of Belonging） |
 > |---|---|---|
-> | **精神纽带** | 拥有一套关于国家事业过去、现在与未来的连贯历史叙事与伦理抱负 | 仅包含对他人权利的消极尊重与对新自由主义自由市场规则的遵循 |
+> | **精神纽带** | 拥有一套关于国家事业过去、现在与未来的连贯历史叙事与伦理抱负 | 仅包含对他人权利的消极尊重与对[[Neoliberalism\|新自由主义]]自由市场规则的遵循 |
 > | **社会黏合剂** | 深刻理解参与民主共和国建设这一宏大历史实验的崇高公共意义 | 依赖分享通用语言以及娱乐、体育、时尚与消费品等松散流行文化 |
 > | **公民责任** | 愿意为国家安全、公共利益与宪政制度承担正面防卫与奉献义务 | 奉行政治冷漠、避险主义，对政府行为保持疏离并视其为外在负担 |
 > | **科技精英态度** | 将尖端工程创新与国家战略使命深度绑定，重铸[[Technological Republic\|技术共和国]] | 退缩为纯粹面向个人消费者的代码建造者，深陷[[Technological Agnosticism\|技术不可知论]] |

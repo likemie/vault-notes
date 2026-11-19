@@ -13,7 +13,7 @@ subtype: event
 region: france
 fact_region: "france"
 fact_kind: "event"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[Grandes Ecoles]]"
   - "[[Knowledge Production]]"
+  - "[[Neoliberalism]]"
   - "[[Scientific Literacy]]"
   - "[[New Public Management]]"
   - "[[Discourse]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-27
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 ---
@@ -72,7 +73,7 @@ updated: 2026-11-14
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 2001 年底首届 PISA 放榜至今，主要政治博弈与转译周期集中于 2001 至 2012 年间（尤其是 2005 年菲永法案与 2007 年萨科齐执政期），波及法兰西共和国本土基础教育体系。
 > - **核心当事主体** 法国[[National Education|国民教育]]部（Ministère de l'Éducation nationale）、时任总统尼古拉·萨科齐（Nicolas Sarkozy）与中右翼执政党、法国统一教师工会联盟（FSU）与全国中等教育教师工会（SNES）、[[CNRS|法国国家科学研究中心]]（CNRS）与大学教育学者，以及经合组织（[[OECD]]）。
-> - **深层制度与社会背景** 法国长期确立了中央高度集权的共和主义教育传统，信奉国家世俗化、形式均等与知识精英选拔制度（高中会考 Baccalauréat 与[[Grandes Ecoles|大学校]]预科）；中央行政精英与官方督导体系（IGEN）垄断了关于教育质量的合法[[Knowledge Production|知识生产]]，对英美主导的新自由主义、市场化选择与以测验为中心的问责制怀有天然的警惕。
+> - **深层制度与社会背景** 法国长期确立了中央高度集权的共和主义教育传统，信奉国家世俗化、形式均等与知识精英选拔制度（高中会考 Baccalauréat 与[[Grandes Ecoles|大学校]]预科）；中央行政精英与官方督导体系（IGEN）垄断了关于教育质量的合法[[Knowledge Production|知识生产]]，对英美主导的[[Neoliberalism|新自由主义]]、市场化选择与以测验为中心的问责制怀有天然的警惕。
 > - **直接导火索 / 触发事件** PISA 2000 结果出炉：法国学生在阅读、数学与[[Scientific Literacy|科学素养]]上仅位列 OECD 平均水平，且暴露出社会阶层导致的巨大校际学业鸿沟；但与德国举国休克形成鲜明对照，法国朝野在首轮放榜后反应平淡，社会各界未将其视作国家教育体制的合法性危机。
 
 ---

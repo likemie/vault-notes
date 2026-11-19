@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Zone of Desired Effects]]"
   - "[[Barometer of Achievement]]"
+  - "[[Neoliberalism]]"
   - "[[Teacher Qualifications]]"
 related_theories: []
 related_methods:
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-16"
-updated: 2026-10-30
+updated: 2026-11-19
 ---
 
 ---
@@ -94,7 +95,7 @@ updated: 2026-10-30
 > [!finding-cards] 关键成效与辐射影响
 > - **全球循证培训市场垄断** 将原本属于大学公共领域的[[Meta-meta-analysis|二阶元分析]]研究成果，成功改造为全球市场份额最大的商业化在职教师培训品牌之一。
 > - **重塑基层教学常规** 通过认证体系深度渗透英美及澳洲公立中小学，推动将[[Zone of Desired Effects|期望效应区]]（$d \ge 0.40$）与[[Barometer of Achievement|成就气压计]]嵌入学校考评与督导标准。
-> - **新自由主义教育商品化标杆** 成为批判学者研究跨国出版资本如何通过包装[[Quantitative Research|量化研究]]进入公立基础教育领域、形成年利数千万美元变现帝国的典型案例。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 25, 31)]]
+> - **[[Neoliberalism|新自由主义]]教育商品化标杆** 成为批判学者研究跨国出版资本如何通过包装[[Quantitative Research|量化研究]]进入公立基础教育领域、形成年利数千万美元变现帝国的典型案例。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 25, 31)]]
 
 > [!stat-cards]- 核心规模数据
 > - **\$50,000,000 USD** 考文出版社围绕可见学习品牌相关业务产生的年营业额估算达 5000 万美元。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 25, 31)]]

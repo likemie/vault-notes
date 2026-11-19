@@ -3846,6 +3846,18 @@
     ]
   },
   {
+    "title": "Sacred and Profane Knowledge",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Sacred and Profane Knowledge.md",
+    "aliases": [
+      "神圣知识与世俗知识",
+      "神圣知识",
+      "世俗知识",
+      "sacred knowledge",
+      "profane knowledge"
+    ]
+  },
+  {
     "title": "Science and Technology Studies",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Science and Technology Studies.md",
@@ -6109,6 +6121,17 @@
     ]
   },
   {
+    "title": "Papuan Social Ecology",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Papuan Social Ecology.md",
+    "aliases": [
+      "巴布亚社会生态学",
+      "巴布亚原住民生态哲学",
+      "Papuan Indigenous Social Ecology",
+      "Papuan Social-Ecological Philosophy"
+    ]
+  },
+  {
     "title": "Paradigm",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Paradigm.md",
@@ -6211,6 +6234,18 @@
     "aliases": [
       "游戏冲动",
       "Spieltrieb"
+    ]
+  },
+  {
+    "title": "Pluriverse",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Pluriverse.md",
+    "aliases": [
+      "多元世界",
+      "多元宇宙",
+      "Pluriversality",
+      "多元宇宙认知",
+      "Pluriversal World"
     ]
   },
   {
@@ -8561,6 +8596,18 @@
       "软私有化",
       "隐性私有化",
       "Soft Privatization"
+    ]
+  },
+  {
+    "title": "Standard Language Ideology",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Standard Language Ideology.md",
+    "aliases": [
+      "标准语意识形态",
+      "标准语言偏见",
+      "Standard Language Bias",
+      "Standard Language Hegemony",
+      "标准语霸权"
     ]
   },
   {
@@ -12035,6 +12082,17 @@
     ]
   },
   {
+    "title": "Folk Pedagogy",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Folk Pedagogy.md",
+    "aliases": [
+      "民俗教学法",
+      "通俗教育学",
+      "民俗教育学",
+      "intuitive pedagogy"
+    ]
+  },
+  {
     "title": "Funds of Knowledge",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Funds of Knowledge.md",
@@ -12613,6 +12671,19 @@
     "path": "wiki/concepts/instruction-pedagogy/Sense of School Belonging.md",
     "aliases": [
       "学校归属感"
+    ]
+  },
+  {
+    "title": "Shared Book Approach",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Shared Book Approach.md",
+    "aliases": [
+      "大书共享阅读法",
+      "共享阅读法",
+      "大书教学法",
+      "SBA",
+      "Shared Book Reading",
+      "Shared Reading"
     ]
   },
   {
@@ -15472,6 +15543,18 @@
       "词典编纂革命",
       "语文学运动",
       "lexicographic revolution"
+    ]
+  },
+  {
+    "title": "Pluriverse",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Pluriverse.md",
+    "aliases": [
+      "多元世界",
+      "多元宇宙",
+      "多元共存世界",
+      "Pluriversality",
+      "多元性存在"
     ]
   },
   {
@@ -20109,6 +20192,19 @@
       "阶层化求助策略",
       "阶层化求助行为",
       "阶层化求助"
+    ]
+  },
+  {
+    "title": "Code-Switching",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Code-Switching.md",
+    "aliases": [
+      "语码转换",
+      "代码转换",
+      "Code Switching",
+      "Code-Mixing",
+      "语码混合",
+      "语言交替"
     ]
   },
   {
@@ -29229,6 +29325,17 @@
       "项目难度",
       "distractor analysis",
       "干扰项分析"
+    ]
+  },
+  {
+    "title": "Item Parceling",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Item Parceling.md",
+    "aliases": [
+      "题项打包",
+      "题项聚合",
+      "条目打包",
+      "parceled indicators"
     ]
   },
   {
@@ -47576,6 +47683,19 @@
     "subtype": "policy"
   },
   {
+    "title": "Singapore-Cambridge GCE Ordinary Level",
+    "type": "fact",
+    "path": "wiki/facts/singapore/Singapore-Cambridge GCE Ordinary Level.md",
+    "aliases": [
+      "新加坡剑桥普通教育证书普通水准会考",
+      "新加坡剑桥O水准会考",
+      "GCE O-Level",
+      "O-Level",
+      "O水准会考"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Specialised Independent Schools",
     "type": "fact",
     "path": "wiki/facts/singapore/Specialised Independent Schools.md",
@@ -47609,6 +47729,18 @@
       "Thinking Schools Learning Nation"
     ],
     "subtype": "policy"
+  },
+  {
+    "title": "Core 2 Research Program",
+    "type": "fact",
+    "path": "wiki/facts/singapore/Core 2 Research Program.md",
+    "aliases": [
+      "CORE 2 研究计划",
+      "CORE 2",
+      "Core 2 Research Project",
+      "新加坡核心教学研究计划二期"
+    ],
+    "subtype": "program"
   },
   {
     "title": "Speak Good English Movement",

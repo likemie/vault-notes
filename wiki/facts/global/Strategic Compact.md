@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Intellectual Capital]]"
   - "[[Document]]"
   - "[[Red Tape]]"
+  - "[[Neoliberalism]]"
   - "[[Paradigm]]"
 related_theories: []
 related_methods: []
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-30
+updated: 2026-11-19
 ---
 
 ---
@@ -118,7 +119,7 @@ updated: 2026-10-30
 > > - **批评观点** 批评指出知识管理系统初期演变为海量未经消化的内部备忘录堆砌，部分一线贷款官员认为专题网络的设立增加了[[Red Tape|繁文缛节]]与多头汇报负担。
 > > - **回应辩护** 世行领导层与评估报告指出，战略契约推动的技术下沉与全球电子互联大幅缩短了危机响应周期，有效打破了冷战时期封闭保守的官僚惯性。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 4)]]
 >
-> > [!axis] 知识中立性与新自由主义[[Paradigm|范式]]固化争议
+> > [!axis] 知识中立性与[[Neoliberalism|新自由主义]][[Paradigm|范式]]固化争议
 > > 批判政治经济学家指出，战略契约虽然促进了知识共享，但实质上强化了华盛顿总部正统经济学信条对发展中国家的认知渗透。
 > >
 > > - **批判学者** 指出矩阵化重组让华盛顿技术官僚更严密地掌控了借款国的政策认知框架，将市场化与私有化改革包装为普适的“最佳实践”。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 4, 10)]]

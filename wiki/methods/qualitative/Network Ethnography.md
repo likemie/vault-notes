@@ -8,7 +8,7 @@ summary: "一种追踪全球化与网络化治理背景下政策流动的质性�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 35
+method_related_count: 36
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ tags:
   - theme/policy-network
   - theme/policy-mobility
 related_concepts:
+  - "[[Neoliberalism]]"
   - "[[Policy Mobility]]"
   - "[[Network Governance]]"
   - "[[Reflexivity]]"
@@ -63,13 +64,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
 
 > [!def] Network Ethnography
-> 网络[[Ethnography\|民族志]]（Network Ethnography）是由[[Stephen Ball\|斯蒂芬·鲍尔]]（Stephen J. Ball）及其合作者系统发展的[[Qualitative Research\|质性研究]]方法，专门用于考察新自由主义与全球化背景下的[[Policy Mobility\|政策流动性]]（policy mobility）与[[Network Governance\|网络化治理]]（[[Network Governance]]）。该方法将传统民族志的深度沉浸、[[Reflexivity\|反身性]]与文本分析，与[[Network Analysis\|社会网络分析]]（Social Network Analysis, SNA）的关系追踪相结合，核心在于跟随（following）政策、人、思想、资金、技术与制度客体跨越公共与私营部门、国家与超国家边界的流动轨迹（Ball, 2016; Ball et al., 2017; [[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 4]]）。
+> 网络[[Ethnography\|民族志]]（Network Ethnography）是由[[Stephen Ball\|斯蒂芬·鲍尔]]（Stephen J. Ball）及其合作者系统发展的[[Qualitative Research\|质性研究]]方法，专门用于考察[[Neoliberalism|新自由主义]]与全球化背景下的[[Policy Mobility\|政策流动性]]（policy mobility）与[[Network Governance\|网络化治理]]（[[Network Governance]]）。该方法将传统民族志的深度沉浸、[[Reflexivity\|反身性]]与文本分析，与[[Network Analysis\|社会网络分析]]（Social Network Analysis, SNA）的关系追踪相结合，核心在于跟随（following）政策、人、思想、资金、技术与制度客体跨越公共与私营部门、国家与超国家边界的流动轨迹（Ball, 2016; Ball et al., 2017; [[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 4]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 跨国与国家[[Policy Network\|政策网络]]、[[Educational Brokerage Agency\|教育中介机构]]、[[Venture Philanthropy\|风险慈善]]基金会、企业顾问、政府官员、立法文本、公司注册档案、资金流向及会议交往[[Champ\|场域]]。

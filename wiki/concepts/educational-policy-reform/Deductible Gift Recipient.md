@@ -10,7 +10,7 @@ aliases:
 summary: "澳大利亚税法中赋予特定非营利机构接受企业与个人捐款并向捐赠人提供全额个税扣除的法定特许资质（以 DGR1 为最高等级）；在教育政策中作为国家特许的法律与财政管道，引导免税资本绕过公共部门直达特定中介，构成异层治理的核心物质载体。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Alienation]]"
   - "[[Professional Judgment]]"
   - "[[Social Impact Investing]]"
+  - "[[Neoliberalism]]"
   - "[[Construct]]"
   - "[[Disciplina and Doctrina]]"
 related_theories: []
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-20
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -125,7 +126,7 @@ updated: 2026-11-15
 > - **2001 — 私人辅助基金（PAFs）制度创生** 联邦政府创设 PAFs 机制，允许富裕家族与跨国企业设立免税基金池，催生了巨额积累资金寻找 DGR1 承接载体的迫切需求。
 > - **2011 — Gonski 审查提议公立学校引入民间慈善捐款** [[David Gonski\|戴维·冈斯基]]领衔的首期资助审查报告正式建议联邦政府为公立学校设立免税募款通道。
 > - **2014 — 联邦税法修正案打破公立教育 DGR1 禁区** 议会通过专项修正案，向 [[Social Ventures Australia\|SVA]] 孵化的 [[Australian Schools Plus\|Schools Plus]] 授予覆盖全澳公立学校的 DGR1 资质，确立了国家主导的异层税收减免通道。
-> - **2023 — 批判治理研究揭示 DGR1 的异层装配实质** [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] 结合 ACNC 与 ASIC 实证账目，从理论上将 DGR1 提炼为新自由主义国家用于侵蚀公立教育民主问责的关键法律技术工具。
+> - **2023 — 批判治理研究揭示 DGR1 的异层装配实质** [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] 结合 ACNC 与 ASIC 实证账目，从理论上将 DGR1 提炼为[[Neoliberalism|新自由主义]]国家用于侵蚀公立教育民主问责的关键法律技术工具。
 
 ---
 

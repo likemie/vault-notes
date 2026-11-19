@@ -8,7 +8,7 @@ aliases:
 summary: "大学主动重构内部文化、组织架构与激励机制以融入经济社会发展的学术转型范式；经历从早期技术转移与专利创收（第二代）向应对重大社会挑战的使命型活体实验室（第三代）的演进；在欧洲大陆高教治理中，极端自由市场企业化方案因侵蚀公共品属性而遭到否决，转而探索法团网络间接操纵路径。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 46
+related_count: 48
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Steering at a Distance]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Technology Transfer]]"
+  - "[[Neoliberalism]]"
   - "[[Research Universities]]"
   - "[[Corporate University]]"
   - "[[Alienation]]"
@@ -60,6 +61,7 @@ related_persons:
   - "[[Walter J. M. Kickert]]"
 related_facts:
   - "[[UN Sustainable Development Goals]]"
+  - "[[Integrated Programme]]"
   - "[[EU]]"
   - "[[Horizon Europe Missions]]"
   - "[[Bayh-Dole Act of 1980]]"
@@ -73,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-27
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -88,7 +90,7 @@ updated: 2026-11-15
 > - **宏观演化视阈** 在新一代[[Mission-Oriented Innovation Policy|使命导向型创新政策]]下，创业型大学正在超越狭隘的专利创收与[[Technology Transfer|技术转让]]，演化为围绕联合国[[UN Sustainable Development Goals|可持续发展目标]]（Sustainable Development Goals, SDGs）开展跨学科攻关与社会实验的活体实验室（Living Labs）。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 810–812)]]
 
 > [!citation-card] 荷兰高教改革对极端自由市场企业化方案的理论否决
-> 为了变得更具创业性，在竞争市场上成为灵活适应的教育与科研商品提供者的愿望被认为需要更多自主权和企业化结构。一群知名显赫人士起草了一份企业家型大学计划，主张大学应被允许自主筛选学生、每门课程收取差别化费用并在资本市场上借贷。尽管这样一所在自由市场环境下运营的大学对某些人颇具吸引力，但这有别于政府所构想的模型。改革并不意味着政府撤出公共任务。政府与社会拒绝了这种极端的新自由主义自由市场模型，坚守公共任务与社会中介治理。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 147)]]
+> 为了变得更具创业性，在竞争市场上成为灵活适应的教育与科研商品提供者的愿望被认为需要更多自主权和企业化结构。一群知名显赫人士起草了一份企业家型大学计划，主张大学应被允许自主筛选学生、每门课程收取差别化费用并在资本市场上借贷。尽管这样一所在自由市场环境下运营的大学对某些人颇具吸引力，但这有别于政府所构想的模型。改革并不意味着政府撤出公共任务。政府与社会拒绝了这种极端的[[Neoliberalism|新自由主义]]自由市场模型，坚守公共任务与社会中介治理。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 147)]]
 >
 > *In order to become more 'entrepreneurial'… A group of prominent and highly esteemed figures drew up a plan for an entrepreneurial university… Although such a university operating in a free-market situation may seem attractive to some, it definitely is not the model the Dutch government had in mind… the government and society rejected this extreme neo-liberal free-market entrepreneurial university model in favour of maintaining public tasks and social intermediate governance.*
 
@@ -103,7 +105,7 @@ updated: 2026-11-15
 > | 组织模式 | 核心使命与价值导向 | 组织架构与中介工具 | 知识产出与治理机制 |
 > |---|---|---|---|
 > | **传统[[Research Universities\|研究型大学]]** | 基础科学发现与学术发表，维持学术自主与象牙塔边界 | 传统单学科学系、学部与学术评议会 | 同行评议文章、专著与高层次学位人才培养 |
-> | **第二代商业化创业型大学（1980s–2000s）** | 技术商业化、知识产权（IP）创收与区域经济增长赋能 | [[Technology Transfer Office\|技术转移办公室]]（TTO）、大学科技园、孵化器、衍生企业基金 | 授权专利、衍生公司股权套现、商业产学研发合同 |
+> | **第二代商业化创业型大学（1980s–2000s）** | 技术商业化、知识产权（[[Integrated Programme\|IP]]）创收与区域经济增长赋能 | [[Technology Transfer Office\|技术转移办公室]]（TTO）、大学科技园、孵化器、衍生企业基金 | 授权专利、衍生公司股权套现、商业产学研发合同 |
 > | **第三代使命导向创业型大学（2010s至今）** | 应对气候变化与健康不平等[[Wicked Problem\|复杂难题]]，创造[[Public Value\|公共价值]] | 跨学科使命研究中心、活体实验室（Living Labs）、开放创新试验区 | 跨部门系统解决方案、开源公共技术资产、[[Citizen Science\|公民科学]]平台 |
 > | **企业化大学（[[Corporate University]]）** | 专门服务于母公司员工技能内训与企业战略文化宣贯 | 企业内部人力资源与培训部主导，无独立学术法人地位 | 内部认证资质与员工实操技能包 |
 

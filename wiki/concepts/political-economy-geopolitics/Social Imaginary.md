@@ -11,7 +11,7 @@ aliases:
 summary: "指人们想象自身社会存在、与他人关系及规范性期待的共享话语与实践图景。在教育治理中，跨国组织通过融合内生增长理论与经验现实建构知识经济社会想象，依托统计指标与等值空间制造政策常识，并将实质社会正义工具化为经济效率的附属品。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 57
+related_count: 59
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Theoretical Standpoint]]"
   - "[[Governing by Numbers]]"
   - "[[Commensuration]]"
+  - "[[Neoliberalism]]"
   - "[[Space of Equivalence]]"
   - "[[Liberalization]]"
   - "[[Variable]]"
@@ -68,6 +69,7 @@ related_methods:
   - "[[Ethnography]]"
 related_instruments: []
 related_persons:
+  - "[[Charles Taylor]]"
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
   - "[[Pierre Bourdieu]]"
@@ -87,13 +89,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-04-13
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
 
 > [!def] Social Imaginary
-> **社会想象（Social Imaginary）** 最初由哲学家查尔斯·泰勒（Charles Taylor）系统阐发，并经人类学家阿尔君·阿帕杜莱（Arjun Appadurai）与教育政策社会学者[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）、[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）拓展至全球化与比较教育研究。它指普通民众及政策行动者想象自身社会存在、自身与他人如何契合、群体互动如何展开，以及背后所承载的深层规范性观念与意象图景（Taylor, 2004, p. 21）。在批判性全球教育政策社会学中，社会想象是由跨国[[Policy Network|政策网络]]与国际组织（如[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD））生产和扩散的一套相互重叠交织的[[Discourse|话语]]体系；它兼具描述性与规范性，将非结构化、偶发的经验事实与集体情感焦虑相融合，依托跨国指标与统计技术将其固化为关于教育目的、国家[[Competitiveness|竞争力]]与制度改革的“[[Doxa|不言自明]]的政策常识”。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438, 444–446)]]
+> **社会想象（Social Imaginary）** 最初由哲学家[[Charles Taylor|查尔斯·泰勒]]（Charles Taylor）系统阐发，并经人类学家阿尔君·阿帕杜莱（Arjun Appadurai）与教育政策社会学者[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）、[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）拓展至全球化与比较教育研究。它指普通民众及政策行动者想象自身社会存在、自身与他人如何契合、群体互动如何展开，以及背后所承载的深层规范性观念与意象图景（Taylor, 2004, p. 21）。在批判性全球教育政策社会学中，社会想象是由跨国[[Policy Network|政策网络]]与国际组织（如[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD））生产和扩散的一套相互重叠交织的[[Discourse|话语]]体系；它兼具描述性与规范性，将非结构化、偶发的经验事实与集体情感焦虑相融合，依托跨国指标与统计技术将其固化为关于教育目的、国家[[Competitiveness|竞争力]]与制度改革的“[[Doxa|不言自明]]的政策常识”。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438, 444–446)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向潜藏在日常社会实践、叙事图景与政策修辞之中、赋予集体行动与制度合法性的共享认知背景，而非少数精英在象牙塔中抽象推演的显性理论。
@@ -118,7 +120,7 @@ updated: 2026-11-15
 > | **载体与存在形态** | 共享意象、常识叙事、政策[[Discourse\|话语]]与制度惯例 | 抽象命题、专业概念与形式化公理系统 | 政治信条、党派纲领与阶级教条体系 | 统计指标、量化基准、数据库与排行榜 |
 > | **合法化机制** | 描述性趋势与规范期待滑动，调用日常情感常识 | 严密的逻辑演绎、概念界定与实证检验 | 权威宣称、政治灌输与正统性教化 | 技术[[Commensuration\|通约]]、统计等值构建与客观科学中立表象 |
 > | **主体范围** | 广大公众、官僚技术官僚与政策行动者共享 | 少数专业知识分子与学术共同体持有 | 特定政治阶级、政党或统治集团主导 | 统计学家、评估官僚与各级行政管理者 |
-> | **在跨国治理中的功能** | 确立新自由主义全球化的认知图式与政策常识 | 提供特定学说资源（如[[New Growth Theory\|内生新增长理论]]） | 提供直接的政治合法化辩护修辞 | 作为社会想象的技术物质化装置落实远处掌舵 |
+> | **在跨国治理中的功能** | 确立[[Neoliberalism\|新自由主义]]全球化的认知图式与政策常识 | 提供特定学说资源（如[[New Growth Theory\|内生新增长理论]]） | 提供直接的政治合法化辩护修辞 | 作为社会想象的技术物质化装置落实远处掌舵 |
 
 ---
 

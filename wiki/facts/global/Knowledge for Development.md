@@ -12,7 +12,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[International Education]]"
   - "[[Absorptive Capacity]]"
+  - "[[Neoliberalism]]"
   - "[[Determinism]]"
   - "[[Central Phenomenon]]"
   - "[[Policy Conditionalities]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -131,7 +132,7 @@ updated: 2026-11-11
 
 > [!debates] 核心争议
 >
-> > [!axis] 新自由主义技术[[Determinism|决定论]]争议
+> > [!axis] [[Neoliberalism|新自由主义]]技术[[Determinism|决定论]]争议
 > > 批判政治经济学家指出，该报告将复杂的全球南北贫富差距与历史不平等简化为纯粹的“技术知识差距”与“信息流动不足”。
 > >
 > > - **批评观点** 批评指出报告回避了全球资本积累体制、不平等贸易交换与债务危机的政治根源，试图通过给发展中国家提供电脑和信息连接掩盖深层制度剥削。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 3–4)]]

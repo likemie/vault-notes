@@ -12,7 +12,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 60
+fact_related_count: 61
 fact_related_level: 6
 fact_related_stars: "💎💎"
 fact_related_color: "#fecdd3"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Vergegenkunft]]"
   - "[[Research Universities]]"
   - "[[Academic Freedom]]"
+  - "[[Neoliberalism]]"
   - "[[National Innovation System]]"
   - "[[Policy Brokerage]]"
   - "[[Knowledge Production]]"
@@ -95,7 +96,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 ---
@@ -202,7 +203,7 @@ updated: 2026-11-14
 > > - **[[Argument_Yang_2017_MUE|杨九斌 (2017, pp. 41–42)]]** 指出：学术界咨询精英依托 PSAC 与 COSPUP 成功重构了科学服务国家安全的合法性，在联邦层面开创了科教一体与同行评议制度；但这一学术繁荣在结构上依然依附于冷战大国竞争的政治逻辑，未能脱离外部政治议程的深层约束，当 1960 年代末越战开支激增与国内社会矛盾激化时，基础科研预算便首当其冲遭遇削减。
 > > - **科学自治传统与去军事化视角** 指出将科学发展全方位绑定于军工国防体系虽然带来了充沛经费，却潜在扭曲了[[Academic Freedom|学术自由]]与社会福祉导向，使[[Research Universities|研究型大学]]体系深陷冷战工具化风险。
 >
-> > [!axis] 冷战制度奠基（[[Vergegenkunft]] 效应） vs 1980 年代新自由主义断代
+> > [!axis] 冷战制度奠基（[[Vergegenkunft]] 效应） vs 1980 年代[[Neoliberalism|新自由主义]]断代
 > > 学界围绕当代教育与科研的市场化、技术官僚化究竟始于 1980 年代新自由主义改革，还是源自 1950 年代冷战地缘博弈展开辩论。
 > >
 > > - **[[Argument_Amos_2022_Springer|Amos (2022, p. 56)]] 与 [[Argument_Fuchs_2010_RP|Fuchs (2010, p. 1134)]]** 指出：国家对前沿科技与教育的全面工具化动员在 1957 年斯普特尼克危机所触发的 [[DARPA|ARPA]] 创立与《[[National Defense Education Act of 1958|国防教育法]]》颁布中即已固化，并在当代通过“[[Vergegenkunft]] 效应”持续主导着[[National Innovation System|国家创新体系]]。

@@ -8,7 +8,7 @@ aliases:
 summary: "20 世纪末英国比较教育学派开创的微观研究范式，由帕特丽夏·布罗德富特系统阐发，主张将比较研究重心从宏观体制与财政政策下沉至课堂场域中学习者的主体体验、心智过程与评价认同互动，与罗宾·亚历山大的“比较教学论”共同构成比较教育微观转向的双翼。"
 type: concept
 domain: "comparative-education"
-related_count: 24
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Self-Efficacy]]"
   - "[[Transnational Education]]"
   - "[[Rich and Thick Description]]"
+  - "[[Neoliberalism]]"
   - "[[Geisteswissenschaften]]"
   - "[[Document]]"
 related_theories: []
@@ -40,6 +41,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Patricia Broadfoot]]"
+  - "[[Alexandre de Rhodes]]"
   - "[[Robin Alexander]]"
   - "[[Harold Noah]]"
   - "[[George Psacharopoulos]]"
@@ -53,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -67,7 +69,7 @@ updated: 2026-11-11
 > - **边界** 区别于心理学实证取向的“学习科学”（Learning Sciences），学习学是将学习视为深嵌于具体历史文化生态与制度权力中的社会学与人类学实践，有别于在实验室测定普遍脑认知加工参数。
 
 > [!citation-card] 卡扎米亚斯论英国学派向“[[Comparative Pedagogy|比较教学论]]”与“学习学”的微观转向
-> 在英国比较教育的学术版图上，存在着若干鲜明的[[Epistemology|认识论]]与方法论特征及全新取向：首先，重新强调了多年前被称为‘[[Comparative Pedagogy|比较教学论]]’的领域——这是教育过程中至关重要的维度，以及布罗德富特所称的教育‘学习学’（Alexander et al., 1999; Broadfoot, 1999）；其次，重申了英国对情境与文化的传统关注……这两大认识论侧重点使英国比较教育比美国更具人文关怀，对世界的阐释也较少受到机械和功利性经济动机的驱使。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 155)]]
+> 在英国比较教育的学术版图上，存在着若干鲜明的[[Epistemology|认识论]]与方法论特征及全新取向：首先，重新强调了多年前被称为‘[[Comparative Pedagogy|比较教学论]]’的领域——这是教育过程中至关重要的维度，以及布[[Alexandre de Rhodes|罗德]]富特所称的教育‘学习学’（Alexander et al., 1999; Broadfoot, 1999）；其次，重申了英国对情境与文化的传统关注……这两大认识论侧重点使英国比较教育比美国更具人文关怀，对世界的阐释也较少受到机械和功利性经济动机的驱使。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 155)]]
 >
 > *First, there is the renewed emphasis on what many years back we had called 'comparative pedagogy', a most important aspect of the process of education, and what Broadfoot has called 'learneology' of education (Alexander et al., 1999; Broadfoot, 1999). Second, I wish to underline the British traditional and lately reinvented emphasis on contexts and cultures... These two epistemic emphases render the British comparative education more human and humane than the American, and the way of reading the world less mechanistically and economically motivated (Kazamias, 2001).*
 
@@ -97,7 +99,7 @@ updated: 2026-11-11
 
 ---
 
-> [!concept-proposition] 命题二｜学习学与[[Comparative Pedagogy|比较教学论]]的微观综合构成当代比较教育抵御新自由主义功利化的重要屏障
+> [!concept-proposition] 命题二｜学习学与[[Comparative Pedagogy|比较教学论]]的微观综合构成当代比较教育抵御[[Neoliberalism|新自由主义]]功利化的重要屏障
 
 > [!claim] 命题核心主张
 > 面对全球跨国标准化排名与金融资本逻辑对教育的侵蚀，英国学者开创的学习学与[[Comparative Pedagogy|比较教学论]]坚守了质性田野、[[Ethnography|民族志]]观察与文化解释学传统，将研究重心牢牢锚定在有血有肉的师生交往上，展现了比较教育作为“人文科学”（Human Science, *[[Geisteswissenschaften]]*）的独特尊严与生命力。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–140, 155)]]

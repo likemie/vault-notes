@@ -11,7 +11,7 @@ subtype: event
 region: "chile"
 fact_region: "chile"
 fact_kind: "event"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -24,6 +24,7 @@ tags:
   - higher-education
   - region/chile
 related_concepts:
+  - "[[Neoliberalism]]"
   - "[[School Vouchers]]"
   - "[[Philosophical Aesthetics]]"
   - "[[Geopolitics]]"
@@ -48,13 +49,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-25
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 ---
 
 > [!claim] 核心定性
-> 智利“芝加哥男孩”（Chicago Boys）是 20 世纪 50 至 70 年代通过美智大学官方合作协议赴芝加哥大学深造、归国后直接执掌奥古斯托·皮诺切特（Augusto Pinochet）军政府核心部委的新自由主义经济技术官僚群体；该群体将智利打造为新自由主义与休克疗法的跨国实验场，推行了强制性养老金私有化及世界首个全国范围[[School Vouchers|教育券]]改革，构成了跨国学术社会化、精英循环与政策转移研究的典范案例。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, p. 12)]]
+> 智利“芝加哥男孩”（Chicago Boys）是 20 世纪 50 至 70 年代通过美智大学官方合作协议赴芝加哥大学深造、归国后直接执掌奥古斯托·皮诺切特（Augusto Pinochet）军政府核心部委的[[Neoliberalism|新自由主义]]经济技术官僚群体；该群体将智利打造为新自由主义与休克疗法的跨国实验场，推行了强制性养老金私有化及世界首个全国范围[[School Vouchers|教育券]]改革，构成了跨国学术社会化、精英循环与政策转移研究的典范案例。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, p. 12)]]
 
 > [!event-context] 历史背景与学术源起
 > - **时间跨度与空间发源** 始于 1956 年美国国际合作署（ICA，后并入 USAID）资助设立的“智利项目”（Chile Project），在 1973 年智利军事政变后进入权力执掌巅峰并持续至 20 世纪 80 年代末。

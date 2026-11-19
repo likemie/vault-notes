@@ -6,7 +6,7 @@ aliases:
 summary: "Christian Ydesen (2019) 提出的概念，指由五大政府间组织、主权国家、跨国企业与私人慈善基金会构成的治理网络，通过标准化与可量化知识施展硬事实软权力。"
 type: concept
 domain: "comparative-education"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Methodological Transnationalism]]"
   - "[[Document]]"
+  - "[[Neoliberalism]]"
   - "[[Variable]]"
   - "[[Performance Indicators]]"
 related_theories:
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -179,7 +180,7 @@ updated: 2026-11-15
 > > - **全球[[Convergence Theory in Comparative Education\|趋同论]]** 强调复合体通过全球目标、排名压力与跨国[[Policy Borrowing\|政策借用]]制造了强大的趋同重力，削弱了主权国家教育体系的本土自主性。
 > > - **[[Methodological Transnationalism\|方法论跨国主义]]论** 指出全球与国家有别于外在对立，主权国家在[[Transfer Space\|转移空间]]中策略性动员外部权威以打破国内政治僵局，但在法定行政决策出台阶段实施极其严苛的政治筛选（如挪威实证所示[[Document|文献]]损耗率达 95%）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 546–548)]]
 >
-> > [!axis] 民主授权赤字与新自由主义价值偏向
+> > [!axis] 民主授权赤字与[[Neoliberalism|新自由主义]]价值偏向
 > > 批评该复合体内部核心经济与金融组织缺乏民选合法性，却主导了公共教育价值导向。
 > >
 > > - **学术界与公民社会批判** 谴责[[OECD\|经合组织]]与[[World Bank\|世界银行]]过度将教育工具化为[[Human Capital Theory\|人力资本]]与经济增长的附庸，量化评价窄化了育人内涵，公私资本深度结盟侵害了教育作为公共产品的民主本质。

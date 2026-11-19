@@ -46,6 +46,7 @@ related_concepts:
   - "[[Criterion-Referenced Test]]"
   - "[[Charter Schools]]"
   - "[[Transparency Bypass]]"
+  - "[[Neoliberalism]]"
   - "[[Foundational Literacy and Numeracy]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Alienation]]"
@@ -109,14 +110,14 @@ sources:
 part_of:
 status: draft
 created: 2026-10-21
-updated: 2026-11-15
+updated: 2026-11-19
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Verger_2019_Discourse"
 argument_key: "Argument_Verger_2019_Discourse"
 argument_display_title: "Reforming governance through policy instruments: how and to what extent standards, tests and accountability in education spread worldwide"
 argument_kind: "journal-article"
-argument_related_count: 76
+argument_related_count: 77
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -276,7 +277,7 @@ issuing_organization: ""
 
 > [!exegesis]- [[Transparency Bypass|透明度绕道机制]]（Transparency Bypass）
 > - **数据外溢与非官方排位** 在挪威与丹麦，地方自治市政当局与商业媒体利用《公共行政信息公开法》，合法调取公立学校的原始测验数据，并自行测算、发布非官方学校排位表，促发了[[Transparency Bypass|透明度绕道机制]]，使市场问责机制在中央政策退潮后通过地方治理与大众传媒网络变相存活。
-> - **智库中介的跨国同构** 在加拿大不列颠哥伦比亚省，尽管省教育厅恪守温和评估立场，倡导新自由主义议程的保守派智库[[Fraser Institute|弗雷泽研究所]]（Fraser Institute）系统性调取公共测评数据，独立编制全省学校表现报告卡并借助商业媒体公开发布，在体制外达成了事实上的市场问责效果。
+> - **智库中介的跨国同构** 在加拿大不列颠哥伦比亚省，尽管省教育厅恪守温和评估立场，倡导[[Neoliberalism|新自由主义]]议程的保守派智库[[Fraser Institute|弗雷泽研究所]]（Fraser Institute）系统性调取公共测评数据，独立编制全省学校表现报告卡并借助商业媒体公开发布，在体制外达成了事实上的市场问责效果。
 
 > [!sub-claim] 3. 南欧国家因常任公务员制度与工会强力反弹，测验问责举措遭遇长期抵制与反复摇摆
 

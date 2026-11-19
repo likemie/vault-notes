@@ -8,7 +8,7 @@ aliases:
 summary: "指由信息通信技术和交通革命驱动的物理距离与沟通时滞的急剧缩减，它深刻改变了资本、劳动力与知识的流动方式，成为界定全球化时代教育变革与传统世界体系历史阶段质性差异的关键本体论基础。"
 type: concept
 domain: "comparative-education"
-related_count: 25
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Virtual University]]"
   - "[[Informationalization]]"
   - "[[Space Production]]"
+  - "[[Neoliberalism]]"
   - "[[Flow]]"
   - "[[Heterogeneity]]"
   - "[[Lifelong Learning]]"
@@ -42,6 +43,7 @@ related_theories:
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Karl Marx]]"
   - "[[Robert Arnove]]"
   - "[[Manuel Castells]]"
   - "[[Anthony Giddens]]"
@@ -53,18 +55,18 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-29
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
 
 > [!def] Time-Space Compression
-> 时空压缩（Time-Space Compression）源自马克思主义地理学家大卫·哈维（David Harvey）的政治经济学[[Critical Theory|批判理论]]，指在资本主义为克服积累危机而加速资本周转的过程中，借助现代信息通信技术与交通运输手段，大幅缩短克服空间障碍所需的时间，从而在主观体验与客观实践中造成空间距离被时间急剧消解的现象。在比较教育研究中，[[Robert Arnove|阿诺夫]]（Arnove）将时空压缩视为区分当代全球化与传统世界体系历史阶段的根本[[Ontology|本体论]]分水岭。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 106–107)]]
+> 时空压缩（Time-Space Compression）源自[[Karl Marx|马克思]]主义地理学家大卫·哈维（David Harvey）的政治经济学[[Critical Theory|批判理论]]，指在资本主义为克服积累危机而加速资本周转的过程中，借助现代信息通信技术与交通运输手段，大幅缩短克服空间障碍所需的时间，从而在主观体验与客观实践中造成空间距离被时间急剧消解的现象。在比较教育研究中，[[Robert Arnove|阿诺夫]]（Arnove）将时空压缩视为区分当代全球化与传统世界体系历史阶段的根本[[Ontology|本体论]]分水岭。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 106–107)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向全球范围内信息、资本、政策[[Discourse|话语]]与人员流动所经历的技术加速与时空壁垒瓦解。
 > - **用途** 帮助研究者解释为何外部教育政策冲击在当代能够即时穿透民族国家边界，以及为何[[Transnational Education|跨国高等教育]]、[[Virtual University|虚拟大学]]与全球社会运动能够迅速崛起。
-> - **边界** 不等于纯粹的技术进步或[[Informationalization|信息化]]本身；它关涉资本主义积累动力学在[[Space Production|空间生产]]上的根本转变，必须将时空物理维度的压缩与经由网络流通的意识形态内容（如新自由主义）严加区分。
+> - **边界** 不等于纯粹的技术进步或[[Informationalization|信息化]]本身；它关涉资本主义积累动力学在[[Space Production|空间生产]]上的根本转变，必须将时空物理维度的压缩与经由网络流通的意识形态内容（如[[Neoliberalism|新自由主义]]）严加区分。
 
 > [!citation-card] 时空压缩作为全球化与世界体系的质性分水岭
 > 简要地说，若全球化与[[World-Systems Theory|世界体系分析]]之间存在质的差异，这种差异可归因于时间和空间的急剧压缩。大幅改进的现代技术促进了信息和资本跨越国界的即时流动，以前所未有的方式将遥远的全球力量与本土场景紧密联系在一起。必须将全球化的时空维度与这些信息和资金流动的实质内容严加区分。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 106–107)]]

@@ -6,7 +6,7 @@ aliases:
 summary: "芬兰课程语境中的现象本位学习，以复杂现象组织跨学科探究，强调学科深度、生活世界、协作和共同责任。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Discipline-Based Theory]]"
+  - "[[Neoliberalism]]"
   - "[[Bildung]]"
   - "[[Didaktik]]"
   - "[[Reflexivity]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: 2026-11-03
+updated: 2026-11-19
 ---
 
 ---
@@ -93,7 +94,7 @@ updated: 2026-11-03
 
 > [!boundary]- 概念边界与关联
 > - **有别于PBL（问题导向学习）** PBL 扎根于认知心理学，以解决特定预设问题为导向；而 PhBL 奠基于现象学、教化哲学与教学论传统，从生活世界体验的“现象”本身出发。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2, 8]]
-> - **有别于能力本位课程** 能力本位课程以横向能力清单为终点，容易被新自由主义绩效管理拆散为碎片化技能包；而 PhBL 要求维护学科内部的系统性与本体论深度。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 4, 10]]
+> - **有别于能力本位课程** 能力本位课程以横向能力清单为终点，容易被[[Neoliberalism|新自由主义]]绩效管理拆散为碎片化技能包；而 PhBL 要求维护学科内部的系统性与本体论深度。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 4, 10]]
 > - **与大陆教育哲学的协同** 现象学提供“生活世界”体验与主体间性基础；教化（[[Bildung]]）提供面向未知未来的自我生成目的；教学论（[[Didaktik]]）为现象选择与跨学科组织提供课程设计工具。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2–3, 7, 11]]
 
 ---

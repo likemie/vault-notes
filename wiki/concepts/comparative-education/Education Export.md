@@ -8,7 +8,7 @@ aliases:
 summary: "主权国家或教育机构将课程、学位、师资培训与教育科技等要素打包为商业产品面向国际市场有偿输出的跨国实践。在竞争国家与整合营销语境下，政策制定者借助 PISA 等测评声誉构建国家品牌与商业需求赤字，推动公立教育从福利公物向市场化出口资产重组，但伴生着优劣他者建构与不可证伪话术神话等伦理张力。"
 type: concept
 domain: "comparative-education"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Construct]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Neoliberalism]]"
   - "[[Transnational Education]]"
   - "[[Study Abroad]]"
   - "[[Discourse]]"
@@ -68,13 +69,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-08
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
 
 > [!def] Education Export
-> 教育出口（Education Export，芬兰语：koulutusvienti）指主权国家、地方政府、公立或私营教育机构将课程大纲、学位认证、师资专业培训、学校管理咨询、学习环境标准及教育科技软件等要素打包为可交易的商品或服务，面向国际市场进行有偿输出的跨国实践。该[[Construct|构念]]不仅属于服务贸易与[[Knowledge-Based Economy|知识经济]]范畴，更构成了主权国家将公共教育声誉转化为战略品牌资产、推动公立教育治理理性向新自由主义市场化转型的重要机制；在跨境高等教育枢纽分类中，教育服务出口亦被界定为第一代学生枢纽（Student Hub）的核心功能导向。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 377–380)]]; [[Argument_Yang_2023_ICE|(杨明全和邓丽, 2023, pp. 3–5)]]; [[Argument_Qu_2024_IJED|(Qu & Dai, 2024, p. 2)]]
+> 教育出口（Education Export，芬兰语：koulutusvienti）指主权国家、地方政府、公立或私营教育机构将课程大纲、学位认证、师资专业培训、学校管理咨询、学习环境标准及教育科技软件等要素打包为可交易的商品或服务，面向国际市场进行有偿输出的跨国实践。该[[Construct|构念]]不仅属于服务贸易与[[Knowledge-Based Economy|知识经济]]范畴，更构成了主权国家将公共教育声誉转化为战略品牌资产、推动公立教育治理理性向[[Neoliberalism|新自由主义]]市场化转型的重要机制；在跨境高等教育枢纽分类中，教育服务出口亦被界定为第一代学生枢纽（Student Hub）的核心功能导向。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 377–380)]]; [[Argument_Yang_2023_ICE|(杨明全和邓丽, 2023, pp. 3–5)]]; [[Argument_Qu_2024_IJED|(Qu & Dai, 2024, p. 2)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向公共教育资源脱离纯粹国内福利供给属性、转化为参与国际市场交换之经济资产与商业服务的结构性过程。

@@ -8,9 +8,9 @@ aliases:
 summary: "Robert Cowen（2009b）提出、Jason Beech（2009a, 2009b）与 Steiner-Khamsi et al.（2024）深化的跨国教育知识流动分析框架，追踪教育思想在空间转移（太空门时刻）、政策转译（变色龙过程）与权力压缩转化（形态变质与制度化）中的演变，并在数字治理 2.0 与场域五位置模型中揭示转移空间的自指性转译、守门人垄断与政策周期政治过滤机制。"
 type: concept
 domain: "comparative-education"
-related_count: 79
-related_level: 7
-related_stars: "💎💎⭐"
+related_count: 80
+related_level: 8
+related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
 tags:
   - theme/knowledge-transfer
@@ -50,6 +50,7 @@ related_concepts:
   - "[[Examination Hell]]"
   - "[[Scientific Attitude]]"
   - "[[Quality Education]]"
+  - "[[Neoliberalism]]"
   - "[[Media Logic]]"
   - "[[Policy Avoidance]]"
   - "[[Reference Society]]"
@@ -105,7 +106,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -209,7 +210,7 @@ updated: 2026-11-15
 > **民国中国 3T 演进与去政治化折算** 证明杜威思想在转移阶段被拥抱民主理想而忽略渐进方法；在转译阶段于1922新学制中对民主实施去政治化折算；在转化阶段因军阀混战与现实受挫，民主核心彻底灭绝并转向《新教育评论》下[[Tao Xingzhi\|陶行知]]与赵乃传倡导的[[Scientific Attitude\|科学态度]]与乡村教育。
 
 > [!claim] [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009, pp.79–93)]]
-> **建国后政治环境中的三重变形** 追踪杜威思想从1950年代的政治批判靶点，到1980年代重塑为科学创新符号，再到1990年代至今被重构为[[Quality Education\|素质教育]]与反新自由主义[[Discourse|话语]]盟友的演化历程。
+> **建国后政治环境中的三重变形** 追踪杜威思想从1950年代的政治批判靶点，到1980年代重塑为科学创新符号，再到1990年代至今被重构为[[Quality Education\|素质教育]]与反[[Neoliberalism|新自由主义]][[Discourse|话语]]盟友的演化历程。
 
 ---
 

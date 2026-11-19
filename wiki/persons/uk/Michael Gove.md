@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: "uk"
 person_region: "uk"
-person_related_count: 31
+person_related_count: 33
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[International Large-Scale Assessments]]"
   - "[[Discourse]]"
   - "[[Performance Pay]]"
+  - "[[Neoliberalism]]"
   - "[[Mediatised Governance]]"
   - "[[Paradigm]]"
   - "[[Dramatic Tension]]"
@@ -56,6 +57,7 @@ related_facts:
   - "[[Gaokao]]"
   - "[[Department for Education]]"
   - "[[PISA]]"
+  - "[[Independent Schools Initiative]]"
   - "[[OECD]]"
   - "[[Grammar School]]"
 related_arguments:
@@ -65,14 +67,14 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国保守党资深政治家、前内阁大臣、前资深新闻记者；2010 至 2014 年出任英国保守党-自由民主党联合政府教育大臣（Secretary of State for Education）。
-> - **核心角色** 英国当代教育改革的关键枢纽人物与争议风暴中心。一方面，他受美国联邦治理创新启发，拍板向英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）注资 1.25 亿英镑设立留本基金，并与自由民主党协同确立[[Pupil Premium\|学生津贴]]，奠定了英国[[Evidence-Based Education\|循证教育]]大规模因果试验爆发的制度与财政底座；另一方面，他深度动员前记者背景的媒介资本，在应对[[International Large-Scale Assessments\|国际大规模评估]]时运用“遗漏[[Discourse|话语]]”，强力推行自由学校、强制学院化转制、教师[[Performance Pay\|绩效工资]]（PRP）及强化 [[Ofsted]] 惩罚性督导等激进新自由主义改革。
+> - **核心角色** 英国当代教育改革的关键枢纽人物与争议风暴中心。一方面，他受美国联邦治理创新启发，拍板向英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）注资 1.25 亿英镑设立留本基金，并与自由民主党协同确立[[Pupil Premium\|学生津贴]]，奠定了英国[[Evidence-Based Education\|循证教育]]大规模因果试验爆发的制度与财政底座；另一方面，他深度动员前记者背景的媒介资本，在应对[[International Large-Scale Assessments\|国际大规模评估]]时运用“遗漏[[Discourse|话语]]”，强力推行自由学校、强制学院化转制、教师[[Performance Pay\|绩效工资]]（PRP）及强化 [[Ofsted]] 惩罚性督导等激进[[Neoliberalism|新自由主义]]改革。
 > - **代表贡献** 推动设立英国[[Education Endowment Foundation\|教育捐赠基金会]]留本基金（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）；主导推行[[Pupil Premium\|学生津贴]]与[[The Importance of Teaching\|《教学的重要性》]]白皮书；主导 2010–2014 英格兰基础教育结构性重塑与[[Mediatised Governance\|媒介化治理]]实践（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]）。
 
 > [!citation-card] 创设独立教育捐赠基金会的战略决断（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）
@@ -105,7 +107,7 @@ updated: 2026-11-15
 ---
 
 > [!claim] 核心政治哲学与治理[[Paradigm\|范式]]
-> 迈克尔·戈夫的教育执政理念融合了**新保守主义的知识中心课程论**与**新自由主义的市场化问责制**。他主张回归严谨的传统学科知识内核、强调教师在课堂的绝对主导权；在治理结构上，主张打破地方公立教育官僚垄断，通过扩大自主学校与赞助型学院引入市场竞争；善于动用个人媒介资本将客观实证数据重构为具有高度[[Dramatic Tension\|戏剧张力]]的公共危机叙事，以此为推行突破性改革扫清政治阻力。
+> 迈克尔·戈夫的教育执政理念融合了**新保守主义的知识中心课程论**与**新自由主义的市场化问责制**。他主张回归严谨的传统学科知识内核、强调教师在课堂的绝对主导权；在治理结构上，主张打破地方公立教育官僚垄断，通过扩大[[Independent Schools Initiative|自主学校]]与赞助型学院引入市场竞争；善于动用个人媒介资本将客观实证数据重构为具有高度[[Dramatic Tension\|戏剧张力]]的公共危机叙事，以此为推行突破性改革扫清政治阻力。
 
 > [!citation-card] 议会 [[PISA]] 陈述中的危机修辞与遗漏[[Discourse|话语]]策略（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]）
 > 2013 年 12 月在议会就 2012 年 PISA 成绩发表声明时，迈克尔·戈夫巧妙运用[[Media Logic\|媒介逻辑]]中的“[[Falling Standards Template\|水平下降模板]]”，将英格兰在国际评估中位居平均水平的平稳考分，戏剧化地包装为“由于工党执政十余年导致英国教育停滞不前、全面被东亚领先国家甩在身后”的重大危机。他在演讲中策略性地隐去[[OECD\|经合组织]]关于“分轨选拔破坏公平、机械[[Rote Learning\|死记硬背]]不适于高阶素养、教师[[Performance Pay\|绩效工资]]缺乏实证相关”的核心结论，反而将 PISA 数据作为推行学院化扩张、削减地方教育局权限、落实教师绩效工资制（PRP）及磨利 [[Ofsted]] 惩罚性督导之剑的合法化弹药。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 116–120)]]

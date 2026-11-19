@@ -7,7 +7,7 @@ aliases:
 summary: "历史制度主义与比较政治经济学中的制度变迁核心机制；指通过废除、取消或边缘化既有规则并引入全新规则体系的过程；既包含关键节点上的突发性体制颠覆，也涵盖边缘竞争性新体制通过持续吸引背叛与资源转移、最终累积挤出并彻底取代旧体制的渐进替代过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Opportunists]]"
   - "[[Zone of Discretion]]"
   - "[[Liberalization]]"
+  - "[[Neoliberalism]]"
   - "[[Paradigm]]"
   - "[[Document]]"
 related_theories:
@@ -46,7 +47,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-11-03
+updated: 2026-11-19
 ---
 
 ---
@@ -123,7 +124,7 @@ updated: 2026-11-03
 > **[[Liberalization|自由化]]置换的集体行动非对称性维度** 探讨当代资本主义制度演进中，为何解除规制与私有化置换往往比建立新型集体规制具有更低的政治推进门槛。
 
 > [!claim] [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]]
-> **退出逻辑对比呼吁逻辑的非对称优势** 建立或维系非市场化的集体规制制度，必须克服严重的搭便车困境，动员全社会各阶层承担协调成本并遵循统一的呼吁逻辑（Voice）；而推进新自由主义市场化置换，改革者只需向微观个体提供一个私有替代选项，个体追求利益最大化的退出冲动（Exit）便会自动触发集体制度的瓦解。这种行动门槛的非对称性，使置换成为当代西方国家深入推进市场化改革的特权通道。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 31–34)]]
+> **退出逻辑对比呼吁逻辑的非对称优势** 建立或维系非市场化的集体规制制度，必须克服严重的搭便车困境，动员全社会各阶层承担协调成本并遵循统一的呼吁逻辑（Voice）；而推进[[Neoliberalism|新自由主义]]市场化置换，改革者只需向微观个体提供一个私有替代选项，个体追求利益最大化的退出冲动（Exit）便会自动触发集体制度的瓦解。这种行动门槛的非对称性，使置换成为当代西方国家深入推进市场化改革的特权通道。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 31–34)]]
 
 ---
 

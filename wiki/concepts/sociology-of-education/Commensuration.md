@@ -9,10 +9,10 @@ aliases:
 summary: "将不同性质的异质事物转化为基于同一通用尺度或公分母的标准化可比量化指标的社会过程，为跨情境绩效评价与资源配置确立形式公平，但伴随着质性情境剥离、统计公平与地域公平冲突及策略性博弈操纵等治理代价"
 type: concept
 domain: "sociology-of-education"
-related_count: 59
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 60
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - concept/sociology-of-education
   - theme/datafication
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Transnational Education]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Neoliberalism]]"
   - "[[Discourse]]"
   - "[[Alienation]]"
   - "[[International Large-Scale Assessments]]"
@@ -87,7 +88,7 @@ related_theories:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -152,7 +153,7 @@ updated: 2026-11-15
 > **[[Space of Equivalence|等值空间]]虚构与跨国[[Reliability|信度]]优先** 探讨跨国评估如何通过抽离本土历史情境，构建统一量表，以技术信度压制教育[[Ontology|本体论]]多样性。
 
 > [!claim] Rizvi & Lingard; Desrosières
-> **跨国等值空间的虚构机制** 在[[Transnational Education|跨国教育]]治理中，通约机制通过脱离各国的具体课程纲要与本土历史情境，凭空虚构出一个看似客观中立的全球“等值空间”（space of equivalence），并将跨国统计信度与横向可比性置于教育本土[[Construct Validity|构念效度]]之上。[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières, 1998）指出，大规模统计的核心在于制造等值；[[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]进一步论证，[[OECD|经济合作与发展组织]]（OECD）通过[[PISA|国际学生评估项目]]（PISA）将全球数十个国家的学生能力折算为均值 500、标准差 100 的统一量表。为维系这一跨国通约空间的统计自洽，测量专家系统性剔除了深植于特定语言与文化的[[Higher-Order Thinking Skills|高阶思维]]试题，使技术信度压倒了教育[[Ontology|本体论]]的多样性，确立了跨国新自由主义治理的[[Discourse|话语]]霸权。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
+> **跨国等值空间的虚构机制** 在[[Transnational Education|跨国教育]]治理中，通约机制通过脱离各国的具体课程纲要与本土历史情境，凭空虚构出一个看似客观中立的全球“等值空间”（space of equivalence），并将跨国统计信度与横向可比性置于教育本土[[Construct Validity|构念效度]]之上。[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières, 1998）指出，大规模统计的核心在于制造等值；[[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]进一步论证，[[OECD|经济合作与发展组织]]（OECD）通过[[PISA|国际学生评估项目]]（PISA）将全球数十个国家的学生能力折算为均值 500、标准差 100 的统一量表。为维系这一跨国通约空间的统计自洽，测量专家系统性剔除了深植于特定语言与文化的[[Higher-Order Thinking Skills|高阶思维]]试题，使技术信度压倒了教育[[Ontology|本体论]]的多样性，确立了跨国[[Neoliberalism|新自由主义治理]]的[[Discourse|话语]]霸权。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 
 > [!claim] Grek, S. & Russell, I. (2024)
 > **质保元标准作为跨国通约的公分母机制** 索蒂里亚·格雷克与伊恩·拉塞尔论证指出，跨国教育治理中的通约实践不仅涵盖 PISA 等数值测验量表，更深度依托质性元规范实现制度通约。在欧洲高等教育区建设中，《[[European Standards and Guidelines|欧洲高等教育区质量保障标准与准则]]》（[[European Standards and Guidelines|ESG]]）充当了将 49 个成员国高度异质的质保传统转化为共有尺度的通约公分母。依托[[European Quality Assurance Register for Higher Education|欧洲高等教育质量保障注册局]]（[[European Quality Assurance Register for Higher Education|EQAR]]）与外部质保结果数据库（[[Database of External Quality Assurance Results|DEQAR]]），不同国家大学的内部治理与办学资质被统一折算为可跨境查验与免检对标的标准化记录，从而在缺乏超国家行政集权的前提下，构建起支撑全欧文凭自动互认的等值空间。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024)]]

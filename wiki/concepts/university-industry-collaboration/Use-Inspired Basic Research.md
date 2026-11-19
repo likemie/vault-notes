@@ -7,7 +7,7 @@ aliases:
 summary: "Stokes (1997) 提出的研究分类概念，指既追求基础理解又受应用考虑驱动的科研模式，以巴斯德为典范，区别于纯基础研究（玻尔象限）和纯应用研究（爱迪生象限），是理解 1980年代后大学研究取向变迁的关键概念"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Innovation Ecosystem]]"
   - "[[Modern Industrial Policy]]"
+  - "[[Neoliberalism]]"
   - "[[Competitiveness]]"
   - "[[National Innovation System]]"
   - "[[Third Mission]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-27
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 > [!def] Use-Inspired Basic Research
@@ -133,7 +134,7 @@ updated: 2026-11-11
 > **现代国家产业政策与科研资助机构功能重构** 探讨在大国科技竞争加剧的背景下，国家如何通过专门立法在传统基础科研基金内部开辟应用转化新通道。
 
 > [!claim] [[Argument_Brint_2023_IHE|Brint (2023)]]
-> **国家战略产业政策驱动下的科研转化建制化** 随着美国通过《[[CHIPS and Science Act|芯片与科学法案]]》打破新自由主义市场中立传统并转向战略性产业政策，应用启发的基础研究不再仅仅停留于学者个人或中心层面的研究取向，是被直接制度化为国家科研资助机构的法定新使命。国家科学基金会（[[National Science Foundation|NSF]]）历经三十年首度新设“[[Directorate for Technology, Innovation and Partnerships|技术、创新与伙伴关系理事会]]”（TIP），专门以 20 项前沿关键技术为牵引，大规模定向资助应用启发的基础研究，加速实验室科研成果向产业[[Competitiveness|竞争力]]的直接转化。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
+> **国家战略产业政策驱动下的科研转化建制化** 随着美国通过《[[CHIPS and Science Act|芯片与科学法案]]》打破[[Neoliberalism|新自由主义]]市场中立传统并转向战略性产业政策，应用启发的基础研究不再仅仅停留于学者个人或中心层面的研究取向，是被直接制度化为国家科研资助机构的法定新使命。国家科学基金会（[[National Science Foundation|NSF]]）历经三十年首度新设“[[Directorate for Technology, Innovation and Partnerships|技术、创新与伙伴关系理事会]]”（TIP），专门以 20 项前沿关键技术为牵引，大规模定向资助应用启发的基础研究，加速实验室科研成果向产业[[Competitiveness|竞争力]]的直接转化。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
 
 ---
 

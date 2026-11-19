@@ -12,9 +12,9 @@ aliases:
 summary: "由全球教育治理中的多边组织、国家政府和跨国智库共同推动的政策修辞与规范框架，旨在界定未来劳动力市场所需关键能力并塑造教育政策与自我企业家主体性；实证研究揭示其存在技能空心化、实践转译断裂以及高教宏观倡导与微观评价滞后的制度脱节，二阶元分析证实合作学习对21世纪综合高阶技能具有显著促进效应（ES = 0.76/0.84）。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 79
-related_level: 7
-related_stars: "💎💎⭐"
+related_count: 81
+related_level: 8
+related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
 tags:
   - theme/global-education-governance
@@ -63,6 +63,7 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Engineering Education]]"
   - "[[Post-Fordism]]"
+  - "[[Neoliberalism]]"
   - "[[The Sublime]]"
   - "[[Dependent Variable]]"
   - "[[Variable]]"
@@ -87,6 +88,7 @@ related_instruments: []
 related_persons:
   - "[[Jason Beech]]"
   - "[[Michael Kratsios]]"
+  - "[[Charles Taylor]]"
 related_facts:
   - "[[OECD]]"
   - "[[UNESCO]]"
@@ -114,7 +116,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-20
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -237,7 +239,7 @@ updated: 2026-11-15
 ---
 
 > [!dev-timeline] [[Discourse|话语]]演变与跨国扩散阶段
-> - **阶段零（历史-物质起源） — [[Post-Fordism|后福特主义]]生产组织转型** 能力（Competence）概念源于企业管理由泰勒制向丰田制的转型，后福特主义劳动组织要求新型工人具备流程改善与团队协作能力；进入[[Global Policy Space\|全球政策空间]]后，其具体的资本主义车间历史起源被抽象化为普世教育命题。[[Argument_Beech_2009_CE\|(Beech, 2009a, pp. 353–355)]]
+> - **阶段零（历史-物质起源） — [[Post-Fordism|后福特主义]]生产组织转型** 能力（Competence）概念源于企业管理由[[Charles Taylor|泰勒]]制向丰田制的转型，后福特主义劳动组织要求新型工人具备流程改善与团队协作能力；进入[[Global Policy Space\|全球政策空间]]后，其具体的资本主义车间历史起源被抽象化为普世教育命题。[[Argument_Beech_2009_CE\|(Beech, 2009a, pp. 353–355)]]
 > - **第一阶段（2000 年代初） — 欧盟灵活素养规训与美国国家框架** [[European Commission|欧盟委员会]]通过里斯本战略与技能流动行动计划，将商业精神、自负盈亏与灵活技能确立为欧洲关键能力的核心，把宏观经济风险内化为个体的素养升级责任（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009, pp. 484, 487]]）；同时 enGauge（2003）与美国 P21（2009）框架确立 4C 技能（[[Critical Thinking\|批判性思维]]、[[Creativity\|创造力]]、协作、沟通）雏形，强调数字时代素养。
 > - **第二阶段（2010 年代） — 跨国协调与多边私营共建** ATCS 跨国评估项目、美国 NRC 报告（2012）与世界经济论坛（WEF, 2016）加入，私营部门直接介入技能标准设定，确立标准化测量意图。
 > - **第三阶段（2010 年代末至 2020 年代初） — 全球指标趋同与产品下沉** [[OECD]]《学习罗盘 2030》（2019）与[[EU|欧盟]]八大关键素养高度同质化；[[PISA]] 通过创新领域（协作[[Problem Solving\|问题解决]]、创造性思维）实现跨国测量落地。（OECD, 2019; [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka, 2022, p. 254]]）
@@ -252,7 +254,7 @@ updated: 2026-11-15
 > > [!axis] 核心素养[[Discourse|话语]]的三重理论批判
 > >
 > > - **[[Epistemology\|认识论]]批判（Epistemic Critique）** 批判技能话语试图抽离具体知识内容，假定存在一套通用的、脱离学科语境的独立思维技能；然而认知科学与科学教育表明，深度思维必须依赖扎实的领域专业知识与[[Big Ideas\|大概念]]支撑（Royal Society, 2026a; Millar & Osborne, 1998）。
-> > - **政治经济学与治理批判（Critical Political Economy）** 指责 [[Single-Case Design\|SCD]] 充当了新自由主义资本重构与教育商品化的意识形态遮羞布，通过“数据治理”剥夺了教师的专业自主权，并将教育公共品属性窄化为纯粹的劳动力技能供应（[[Argument_Zhao_2020_JEC\|Zhao, 2020]]）。
+> > - **政治经济学与治理批判（Critical Political Economy）** 指责 [[Single-Case Design\|SCD]] 充当了[[Neoliberalism|新自由主义]]资本重构与教育商品化的意识形态遮羞布，通过“数据治理”剥夺了教师的专业自主权，并将教育公共品属性窄化为纯粹的劳动力技能供应（[[Argument_Zhao_2020_JEC\|Zhao, 2020]]）。
 > > - **人文主义与全人发展批判（Humanistic Critique）** 抨击结果导向素养将生命意义、同理心、审美与公民民主参与等[[The Sublime|崇高]]价值剔除出教育中心，造成人性的单向度工具化（[[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka, 2022]]）。
 
 > [!warning] 适用局限与边缘化偏倚（[[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka, 2022, pp. 257–258]]）

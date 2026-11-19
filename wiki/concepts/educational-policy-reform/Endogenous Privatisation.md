@@ -10,7 +10,7 @@ aliases:
 summary: "由斯蒂芬·鲍尔与德博拉·尤德尔界定的教育私有化核心形态，特指公立教育体系在维持公有产权名义下内部运作的企业化与市场化转型。通过引入新公共管理技术、以考代评绩效问责、生均经费竞争、家长择校准市场以及使用者付费，将公立学校改组为自负盈亏的商业经营实体，并在高等教育中表现为依赖国际留学生学费维持生存的永久企业化。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Educational Privatisation]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Champ]]"
+  - "[[Neoliberalism]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Organizational Culture]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-17
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -214,4 +215,4 @@ updated: 2026-11-15
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统剖析新西兰公立教育三十年来从《明日之学校》内生分权自负盈亏向外部服务承包演进的全景历程。
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 详尽解构[[Internationalization of Higher Education|高等教育国际化]]、全球生源竞争与西方公立大学永久性内生私有化之间的因果联动机制。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 阐释使用者自费、以考代评等内生管理技术在新自由主义国家转嫁公共开支中的阶级控制功能。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 阐释使用者自费、以考代评等内生管理技术在[[Neoliberalism|新自由主义]]国家转嫁公共开支中的阶级控制功能。

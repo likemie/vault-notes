@@ -12,7 +12,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ tags:
   - educational-evaluation
 related_concepts:
   - "[[Lifelong Learning]]"
+  - "[[Neoliberalism]]"
   - "[[Discourse]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Competitiveness]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-28
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -69,7 +70,7 @@ updated: 2026-11-11
 ---
 
 > [!claim] 政策核心
-> 《教与学：迈向学习型社会》系统构建了以新自由主义为底色的“市场导向[[Discourse|话语]]”，明确主张对人力资源与知识进行资本化投资，倡导开发灵活技能、推行非正式资格认证、建立学校与企业紧密对接机制，并主张削减公共财政支出，引导受教育者自筹或共同出资，基于可量化的绩效产出分配教育经费。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 483–484)]]
+> 《教与学：迈向学习型社会》系统构建了以[[Neoliberalism|新自由主义]]为底色的“市场导向[[Discourse|话语]]”，明确主张对人力资源与知识进行资本化投资，倡导开发灵活技能、推行非正式资格认证、建立学校与企业紧密对接机制，并主张削减公共财政支出，引导受教育者自筹或共同出资，基于可量化的绩效产出分配教育经费。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 483–484)]]
 
 > [!policy-design] 政策设计
 > - **政策目标** 构建适应未来欧洲知识社会与[[Knowledge-Based Economy|知识经济]]的人力资源开发战略，通过掌握基础知识与专业技能提升劳动者的就业[[Competitiveness|竞争力]]，维护社会凝聚。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 483)]]

@@ -8,7 +8,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -19,6 +19,7 @@ tags:
   - evidence-based-reform
   - think-tank
 related_concepts:
+  - "[[Neoliberalism]]"
   - "[[Policy Network]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Progressive Education]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-30
+updated: 2026-11-19
 ---
 
 ---
@@ -47,7 +48,7 @@ updated: 2026-10-30
 > - **时间 / 地点** 1976年成立于悉尼，主要活跃于澳大利亚全国政策游说中。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 9]])
 > - **关键主体** 独立研究中心（CIS）、董事会成员及高级研究员詹妮弗·巴金汉博士（Dr Jennifer Buckingham）。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
 > - **制度背景** 被政策社会学家界定为典型的“保守派右翼倡导型智库”，其财务收支及资金注入来源不对公众公开。
-> - **触发条件** 新自由主义与保守派势力试图绕过公共大学管理，重塑国家教育准入机制与课程导向的政治动员。
+> - **触发条件** [[Neoliberalism|新自由主义]]与保守派势力试图绕过公共大学管理，重塑国家教育准入机制与课程导向的政治动员。
 
 ---
 

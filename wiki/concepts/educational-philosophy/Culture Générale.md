@@ -8,7 +8,7 @@ aliases:
 summary: "源自法国理性主义与折衷主义哲学的精英中等教育通识理念，融合古典人文与现代科学，基于官能心理学与心智训练全面磨砺普遍理性，为中央集权体制选拔培育具备卓越行政才能的治理精英。"
 type: concept
 domain: "educational-philosophy"
-related_count: 30
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Critical Dualism]]"
   - "[[Bureaucracy]]"
   - "[[Citizen Science]]"
+  - "[[Neoliberalism]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -49,6 +50,7 @@ related_persons:
   - "[[Brian Holmes]]"
   - "[[Pierre Bourdieu]]"
 related_facts:
+  - "[[Sturm und Drang]]"
   - "[[ESPRIT]]"
   - "[[Report on the State of Public Instruction in Prussia]]"
   - "[[PISA]]"
@@ -58,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -95,7 +97,7 @@ updated: 2026-11-11
 > [!contrast-table] 欧洲四大古典教化传统比较
 > | 维度 | 法国 · [[Culture Générale\|普通文化]]（*Culture Générale*） | 德国 · 精神教化（[[Bildung]]） | 英国 · 自由教育（[[Liberal Education]]） | 希腊 · 古典教化（[[Paideia]]） |
 > |---|---|---|---|---|
-> | **思想哲学渊源** | [[René Descartes\|笛卡尔]][[Rationalism in International Relations\|理性主义]]与 19 世纪折衷主义 | 德国唯心主义、新人文主义与狂飙突进 | [[Aristotle\|亚里士多德]]博雅传统与绅士品格伦理 | 古希腊城邦公民沉思与至善和谐德性 |
+> | **思想哲学渊源** | [[René Descartes\|笛卡尔]][[Rationalism in International Relations\|理性主义]]与 19 世纪折衷主义 | 德国唯心主义、新人文主义与[[Sturm und Drang\|狂飙突进]] | [[Aristotle\|亚里士多德]]博雅传统与绅士品格伦理 | 古希腊城邦公民沉思与至善和谐德性 |
 > | **心理与[[Epistemology\|认识论]]基础** | [[Faculty Psychology\|官能心理学]]与心智训练（文理融通） | [[Geisteswissenschaften\|精神科学]]、辩证否定与内在主体性觉醒 | 自由学术的超功利性与文雅品味熏陶 | 灵魂转向、智性沉思与身心和谐统一 |
 > | **核心制度载体** | 国立文理中学（Lycée）、[[Grandes Ecoles\|大学校]]预科与高中会考 | 文理中学（Gymnasium）与洪堡式[[Research Universities\|研究型大学]] | 顶层公学（Public Schools）与牛剑古典学院 | 古典文法中学（Gymnasia）与哲学学院 |
 > | **社会政治功能** | 为中央集权国家选拔具备卓越行政才能的官僚精英 | 塑造追求纯粹真理的学者与忠诚负责的民族公民 | 培育服务大英帝国政治治理与道德教化的绅士领袖 | 培养具有城邦奉献精神与城邦美德的政治公民 |
@@ -174,7 +176,7 @@ updated: 2026-11-11
 > - **1880s–1930s — 第三共和国黄金时代与双轨固化** 茹尔·费里（Jules Ferry）改革虽推行世俗初等免费义务教育，但中等中学的普通文化轨道依然对大众保持严格收费与阶级壁垒，成为培育法兰西政治家、外交官与思想家的摇篮。
 > - **1940s–1950s — 二战道德反思与战后[[Scientific Paradigm\|科学范式]]冲击** 二战浩劫击碎古典人文精英的神话；经济现代化与劳动力规划促使法国开启中等教育综合化改革，技术与应用学科逐步动摇古典学的绝对支配地位。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 59–60)]]
 > - **1960s–1970s — [[Pierre Bourdieu\|布迪厄]][[Cultural Capital\|文化资本]]批判** 皮埃尔·布迪厄（Pierre Bourdieu）发表《继承人》与《再生产》，深刻解构普通文化是统治阶层专属的“文化资本”，学校通过赞美这种未经言明的家庭阶级禀赋实施隐蔽的社会再生产，有别于中立的普遍理性。
-> - **21世纪至今 — 共和通识传统与全球技能竞争的再平衡** 面临 [[PISA]] 国际测评与新自由主义劳动力市场压力，法国教育界在坚守共和主义普通文化（如高中哲学必修会考）与提升实用数字化技能之间展开持续论辩。
+> - **21世纪至今 — 共和通识传统与全球技能竞争的再平衡** 面临 [[PISA]] 国际测评与[[Neoliberalism|新自由主义]]劳动力市场压力，法国教育界在坚守共和主义普通文化（如高中哲学必修会考）与提升实用数字化技能之间展开持续论辩。
 
 ---
 

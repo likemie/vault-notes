@@ -10,10 +10,10 @@ aliases:
 summary: "衡量个体或群体接受正规学校教育的时长与最高学历层级的社会学与人口学范畴。在微观层面是认知成熟与认识论信念演化的解释变量，在宏观政治经济学层面是国家财政分配、阶级再生产与双轨分流的制度化阶梯；在拔尖人才培养中体现为长周期渐进积累规律与研究生阶段受教育年限的刚性延长。"
 type: concept
 domain: "sociology-of-education"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - concept/sociology-of-education
   - educational-attainment
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Document]]"
   - "[[Compensatory Legitimation]]"
+  - "[[Neoliberalism]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Knowledge Production]]"
   - "[[Educational Privatisation]]"
@@ -141,7 +142,7 @@ updated: 2026-11-19
 
 ---
 
-> [!concept-proposition] 命题三｜新自由主义结构调整将使用者自费推向中高受教育层级，加剧了教育阶梯的阶层排他性
+> [!concept-proposition] 命题三｜[[Neoliberalism|新自由主义]]结构调整将使用者自费推向中高受教育层级，加剧了教育阶梯的阶层排他性
 > **成本转嫁与层级阶级封锁** 剖析国际金融机构推行的新自由主义改革如何通过学费政策截断底层群体向上攀升受教育阶梯的通道。
 
 > [!claim] [[Stephen Ball|Ball, S.]] J. / Torres, C. A.

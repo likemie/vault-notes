@@ -7,7 +7,7 @@ aliases:
 summary: "Taylor 科学管理原理在教育行政与学校治理中的当代复兴，指运用唯一最佳方法预设、效应量排名、碎片化操作单元与全景监控规训教学与专业劳动的管理思潮。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 67
+related_count: 69
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -53,6 +53,7 @@ related_concepts:
   - "[[Learning Intentions]]"
   - "[[Success Criteria]]"
   - "[[Performativity]]"
+  - "[[Teacher Qualifications]]"
   - "[[Parallel Monologues]]"
 related_theories:
   - "[[Critical Theory]]"
@@ -66,6 +67,7 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Discourse Analysis]]"
 related_persons:
+  - "[[Charles Taylor]]"
   - "[[John Hattie]]"
   - "[[Scott Eacott]]"
   - "[[Klaus Nielsen]]"
@@ -93,11 +95,11 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-05-03
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 > [!def] Neo-Taylorism
-> **新泰勒主义（Neo-Taylorism in Educational Administration）** 指弗雷德里克·温斯洛·泰勒（Frederick W. Taylor, 1911）的科学管理原理在当代教育治理与学校行政中的复兴。它以“寻找唯一最佳方法”（One Best Way）与“最大化投入回报”为核心驱动，借助[[Positivism|实证主义]]量化指标、[[Meta-analysis|元分析]][[Effect Size|效应量]]排行榜以及数字化监控工具，将充满情境复杂性与伦理交往的教育实践拆解为离散、可测算、可标准化的技术操作单元，对一线教师的专业劳动实施自上而下的绩效监控与规训控制。[[Argument_Eacott_2017_SLM|(Eacott, 2017, pp. 418–422)]]; [[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 14–15)]]
+> **新[[Charles Taylor|泰勒]]主义（Neo-Taylorism in Educational Administration）** 指弗雷德里克·温斯洛·泰勒（Frederick W. Taylor, 1911）的科学管理原理在当代教育治理与学校行政中的复兴。它以“寻找唯一最佳方法”（One Best Way）与“最大化投入回报”为核心驱动，借助[[Positivism|实证主义]]量化指标、[[Meta-analysis|元分析]][[Effect Size|效应量]]排行榜以及数字化监控工具，将充满情境复杂性与伦理交往的教育实践拆解为离散、可测算、可标准化的技术操作单元，对一线教师的专业劳动实施自上而下的绩效监控与规训控制。[[Argument_Eacott_2017_SLM|(Eacott, 2017, pp. 418–422)]]; [[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 14–15)]]
 
 在概念演进中，新泰勒主义构成了批判教育管理学解构当代[[Evidence-Based Education|循证教育]]狂热与量化问责霸权的关键分析范畴。
 
@@ -120,7 +122,7 @@ updated: 2026-11-15
 
 ## 概念演变与脉络
 
-新泰勒主义概念的形成与演化经历了一个多世纪的思想交织与制度嬗变。
+新[[Charles Taylor|泰勒]]主义概念的形成与演化经历了一个多世纪的思想交织与制度嬗变。
 
 > [!dev-timeline] 概念演变历程
 > - **1911–1962 — 经典科学管理起源与教育[[Cult of Efficiency|效率崇拜]]** 泰勒（Taylor, 1911）出版《科学管理原理》，确立标准化任务分解与效率最大化信条；福特制将劳动节奏从工匠手中转移至管理办公室。卡拉汉（Callahan, 1962）出版《教育与效率崇拜》，论证 20 世纪上半叶美国公立学校深受商业与工程管理逻辑渗透，为埃考特分析当代教育治理奠定了历史参照系。[[Argument_Eacott_2017_SLM|(Eacott, 2017, pp. 413–414)]]
@@ -132,7 +134,7 @@ updated: 2026-11-15
 
 ## 概念辨析
 
-将新泰勒主义与相邻的管理[[Paradigm|范式]]和分析工具进行对比，有助于辨明其理论特质与实践形态。
+将新[[Charles Taylor|泰勒]]主义与相邻的管理[[Paradigm|范式]]和分析工具进行对比，有助于辨明其理论特质与实践形态。
 
 > [!contrast-table] 概念辨析
 > | 维度 | 经典泰勒主义（Classical Taylorism） | 新泰勒主义（Neo-Taylorism in Education） | 新公共管理（[[New Public Management\|NPM]]） | 专业技艺与实践反思取向 | 大师崇拜（[[Cult of the Guru]]） |
@@ -147,7 +149,7 @@ updated: 2026-11-15
 
 ## 核心要素
 
-新泰勒主义教育治理涵盖六个互为支撑的核心理论构件。
+新[[Charles Taylor|泰勒]]主义教育治理涵盖六个互为支撑的核心理论构件。
 
 > [!feature] 核心要素
 > - **唯一最佳方法的普适性假设（The "One Best Way" Pretense）** 预设教育世界存在超越历史背景、阶级结构与文化情境的通用最佳教学干预法；只要依据[[Effect Size|效应量]]排行榜依样画葫芦，任何学校皆能达致卓越（[[Argument_Eacott_2017_SLM|Eacott, 2017]]; [[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）。
@@ -225,7 +227,7 @@ updated: 2026-11-15
 
 > [!area-map] 领域应用
 > - **[[School Leadership|学校领导力]]与校长角色重塑** 校长从关注课程哲学与师生福祉的教育引领者，退化为监督标准化操作清单落实、跟进全校测试数据仪表盘的“厂长式”行政执行官（[[Argument_Eacott_2011_JEAH|Eacott, 2011]]; [[Argument_Eacott_2017_SLM|Eacott, 2017]]）。
-> - **教师资格准入与国家专业标准嵌入** [[Australian Institute for Teaching and School Leadership|澳大利亚教学与学校领导力研究院]]（[[Australian Institute for Teaching and School Leadership|AITSL]]）将[[Effect Size|效应量]]逻辑嵌入国家教师与校长专业标准；墨尔本大学开发 TeacherSelector 软件，试图以算法测算申请人潜质，将新泰勒主义推向师资入口审查（[[Argument_Eacott_2017_SLM|Eacott, 2017, pp. 420–421]]）。
+> - **[[Teacher Qualifications|教师资格]]准入与国家专业标准嵌入** [[Australian Institute for Teaching and School Leadership|澳大利亚教学与学校领导力研究院]]（[[Australian Institute for Teaching and School Leadership|AITSL]]）将[[Effect Size|效应量]]逻辑嵌入国家教师与校长专业标准；墨尔本大学开发 TeacherSelector 软件，试图以算法测算申请人潜质，将新泰勒主义推向师资入口审查（[[Argument_Eacott_2017_SLM|Eacott, 2017, pp. 420–421]]）。
 > - **高影响力教学策略与课堂微观规训** 如澳大利亚维多利亚州教育部推行的 [[Victorian HITS and Literacy Toolkit|HITS]]，强制规定教师必须以格式化动作展开课堂，抹杀根据学生即时困惑调整教学的灵活性（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）。
 > - **商业化认证学校与软件监控生态** 诸如 [[Visible Learning]]+ 认证学校项目、[[Assessment Tools for Teaching and Learning|asTTle]] 在线测评系统与 [[Visible Classroom]] 录音分析应用（教师上传录音由专家按既定指标评分），构建起收费昂贵的规训软硬件生态（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）。
 
@@ -233,7 +235,7 @@ updated: 2026-11-15
 
 ## 概念局限与争论
 
-围绕新泰勒主义的定性与效用，当代教育学界爆发了针锋相对的学术交锋。
+围绕新[[Charles Taylor|泰勒]]主义的定性与效用，当代教育学界爆发了针锋相对的学术交锋。
 
 > [!debates] 围绕新泰勒主义的学术争论
 >

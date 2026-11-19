@@ -8,7 +8,7 @@ aliases:
 summary: "欧洲教育空间是指在欧洲一体化与超国家治理进程中，由欧盟委员会与OECD通过数据基础设施、资格框架、开放协调机制以及学术流动项目共同建构的功能性与象征性治理空间；该概念打破了将欧洲教育视为单一主权国家集合的地理假定，揭示了数据互认与跨国流动如何既建构出共同的欧洲公民身份想象，又在后发成员国亲欧修辞对标下掩盖主权防御与学术近亲繁殖。"
 type: concept
 domain: "comparative-education"
-related_count: 75
+related_count: 76
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -54,6 +54,7 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Science and Technology Studies]]"
+  - "[[Neoliberalism]]"
   - "[[Critical Pedagogy]]"
   - "[[Variable]]"
 related_theories:
@@ -106,7 +107,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-09
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -246,7 +247,7 @@ updated: 2026-11-15
 
 > [!debates] 学术争议
 >
-> > [!axis] 自愿一体化 vs 隐性新自由主义规训
+> > [!axis] 自愿一体化 vs 隐性[[Neoliberalism|新自由主义]]规训
 > > - **官方政策叙事** 欧洲教育空间是通过自愿合作、学分互认与文化交流实现多元一体的和平民主项目，尊重各自主权。
 > > - **[[Critical Pedagogy|批判教育学]]者（Nóvoa, Lawn, Ball）** 欧洲教育空间被视为新自由主义[[Governmentality|治理术]]的高级形态，通过非强制的指标排位与资助竞争，促使各成员国将教育目标对齐劳动力市场与[[Human Capital Theory|人力资本]]积累。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 >

@@ -8,7 +8,7 @@ aliases:
 summary: "强调儿童在真实完整的交际与文学语境中整体习得语言与读写的教学哲学，主张阅读是读者协同调动语义、句法与字形线索的心理语言学猜测游戏；反对将读写能力机械拆解为脱离语境的孤立子技能灌输，并作为新加坡英文学习与阅读策略项目（STELLAR）等宏观课程改革的核心教学法基石。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 52
+related_count: 53
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Causality]]"
+  - "[[Neoliberalism]]"
   - "[[Teacher Professional Agency]]"
   - "[[Scaffolding]]"
   - "[[Reading Strategies]]"
@@ -80,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -161,7 +162,7 @@ updated: 2026-11-18
 > **次政府铁三角与排他性科学修辞** 杰奎琳·埃德蒙森（Jacqueline Edmondson）等学者揭示，全语言运动在 1990 年代末至 2000 年代初遭遇的所谓“科学失败”，本质上是政治经济利益结盟主导的制度性清洗：
 > 1. **铁三角利益同盟** 由联邦科研官僚（美国[[National Institute of Child Health and Human Development|国家儿童健康与人类发展研究所]]，[[National Institute of Child Health and Human Development|NICHD]]）、国会保守派议员与商业教科书寡头（如麦格劳-希尔/《[[Open Court Reading]]》）组成了稳固的“次政府铁三角（Subgovernment Iron Triangle）”。
 > 2. **排他性立法与科研[[Paradigm|范式]]封杀** 1997 年《[[Reading Excellence Act|卓越阅读法案]]》（REA）与 2000 年[[National Reading Panel|国家阅读委员会]]（NRP）报告，将[[Causality|因果推断]][[Experimental Research|实验设计]]（[[Randomised Controlled Trials|RCT]]）与拼读切片定性为唯一合法的“科学本位阅读研究”（SBRR），系统性排除了全语言依赖的质性、叙事与[[Action Research|行动研究]]。
-> 3. **商业变现与教师去专业化** 全语言倡导儿童文学情境化阅读与教师教学裁量权，难以打包为标准化、高额溢价的消耗性练习册；而拼读切片模式能够为商业寡头带来数十亿美元的脚本化教材采购订单。通过宣称全语言“缺乏实证科学支持”，商业集团与新自由主义政客完成了公共教育预算的利益寻租与对[[Teacher Professional Agency|教师专业自主权]]的规训。
+> 3. **商业变现与教师去专业化** 全语言倡导儿童文学情境化阅读与教师教学裁量权，难以打包为标准化、高额溢价的消耗性练习册；而拼读切片模式能够为商业寡头带来数十亿美元的脚本化教材采购订单。通过宣称全语言“缺乏实证科学支持”，商业集团与[[Neoliberalism|新自由主义]]政客完成了公共教育预算的利益寻租与对[[Teacher Professional Agency|教师专业自主权]]的规训。
 
 ---
 

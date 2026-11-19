@@ -7,10 +7,10 @@ aliases:
 summary: "戴安娜·斯通（Diane Stone）于 2000 年提出的概念，指世界银行在 1990 年代詹姆斯·沃尔芬森任内从传统基建项目放贷机构向以知识生产、研究分发与政策咨询为核心业务的全球智识中枢转型的制度性演变。该模式将教育研究、指标评估与政策处方深度绑定，构成了其推行自指性政策中介的制度基础；然而圈内实务分析表明，纯粹依靠政策咨询收费的设想在现实中难以成立，知识建议的实质约束力与推行效能根本上依赖于巨额主权信贷的资金撬动与约束，且其倡导的政策信条呈现出长达数十年的成熟时滞与周期性摇摆。"
 type: concept
 domain: "comparative-education"
-related_count: 59
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 60
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - subject/comparative-education
   - theme/world-bank
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Multilateral Development Bank]]"
   - "[[Value Neutrality]]"
+  - "[[Neoliberalism]]"
   - "[[Knowledge Mediation]]"
   - "[[Performance Indicators]]"
   - "[[Technical Rationality]]"
@@ -87,7 +88,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -145,7 +146,7 @@ updated: 2026-11-11
 > **信贷资金作为促使借款国重视政策建议的物质基础** [[Claudio de Moura Castro|克劳迪奥·德·莫拉·卡斯特罗]]（Claudio de Moura Castro）指出，世界银行高层提出的以智库咨询收费替代资金贷款的设想脱离了政治现实。受援国教育官员首要面临维持自身行政与政治职位的现实约束（如面临教师工会抵制或特权群体抗议）；深层改革往往触及敏感的利益再分配，具有高度的政治风险与推行阻力，借款国绝无主动自费聘请昂贵顾问推销高政治风险改革的现实动力。[[UNESCO|联合国教科文组织]]常年免费提供海量优质政策研究，却极少被各国实质采纳，这一现象表明：纯粹的政策构想（Ideas）如果缺乏信贷资金（Funds）的驱动，便难以促使借款国打破国内行政惰性。将[[Multilateral Development Bank|多边开发银行]]与其他国际机构彻底区分开来的核心，恰恰在于随贷款而来的主权信贷资金促使各国官员认真对待其改革建议；所谓的[[Policy Conditionalities|贷款附加条件]]，本质上是确保政策建议得以付诸实施的制度约束工具。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 464, 472–473)]]
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]]
-> **[[Epistemology|认识论]]规训与自指性中介机制的权力重构** [[Gita Steiner-Khamsi|吉塔·斯泰纳-哈姆西]]（Gita Steiner-Khamsi）等学者从跨国比较实证出发指出，世界银行通过知识银行转型实现了政策权威基础的根本重构：从早期直接依托信贷附加条件的刚性规训，转向依托客观科学证据[[Discourse|话语]]与“最佳实践”模式的认识论规制（[[Epistemic Governance]]）。世界银行将自身研究与数据库系统化打造成全球政策处方的权威知识库，通过统一的评估量规与国别诊断，将复杂的政治价值判断转译为[[Value Neutrality|价值中立]]的技术合规操作，促使借款国逐步内化以新自由主义[[Human Capital Theory|人力资本]]与市场化为导向的治理[[Paradigm|范式]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 542–545)]]
+> **[[Epistemology|认识论]]规训与自指性中介机制的权力重构** [[Gita Steiner-Khamsi|吉塔·斯泰纳-哈姆西]]（Gita Steiner-Khamsi）等学者从跨国比较实证出发指出，世界银行通过知识银行转型实现了政策权威基础的根本重构：从早期直接依托信贷附加条件的刚性规训，转向依托客观科学证据[[Discourse|话语]]与“最佳实践”模式的认识论规制（[[Epistemic Governance]]）。世界银行将自身研究与数据库系统化打造成全球政策处方的权威知识库，通过统一的评估量规与国别诊断，将复杂的政治价值判断转译为[[Value Neutrality|价值中立]]的技术合规操作，促使借款国逐步内化以[[Neoliberalism|新自由主义]][[Human Capital Theory|人力资本]]与市场化为导向的治理[[Paradigm|范式]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 542–545)]]
 
 > [!claim] [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]]
 > **微弱资金比重与成套西方制度蓝图的输出** [[Jason Beech|杰森·比奇]]（Jason Beech）指出，世界银行自 1963 年发放首笔教育贷款后，至 1995 年已成为发展中国家最大的单一外部出资方；然而，其资金实际占[[Development Education|发展中国家教育]]总开支的比重不足 0.5%。正是因为资金份额有限、无法单靠资本体量主导全局，行长[[James Wolfensohn|沃尔芬森]]才在 1996 年正式宣布转型为“知识银行”。这一转型的制度实质在于：借款国在接受微弱外部信贷的同时，引入了整套由世行统一设计的去情境化教育制度模型。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 345–346)]]

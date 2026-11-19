@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: argentina
 person_region: "argentina"
-person_related_count: 53
+person_related_count: 55
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Floating Signifier]]"
   - "[[Sadler's Garden Metaphor]]"
   - "[[Alienation]]"
+  - "[[Neoliberalism]]"
   - "[[Educational Meliorism]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Epistemology]]"
@@ -74,6 +75,7 @@ related_persons:
   - "[[Manuel Castells]]"
   - "[[Andreas Kazamias]]"
 related_facts:
+  - "[[National Institute of Education]]"
   - "[[Conectar Igualdad]]"
   - "[[World Bank]]"
   - "[[OECD]]"
@@ -85,13 +87,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-07
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 阿根廷与澳大利亚批判比较教育与教育政策社会学者，曾长期任教于阿根廷圣安德烈斯大学（Universidad de San Andrés）教育学院并担任比较教育研究中心主任，现为澳大利亚蒙纳士大学（Monash University）教育学院副教授；师从当代著名比较教育学者[[Robert Cowen|罗伯特·考恩]]，获伦敦大学教育学院（UCL Institute of Education）博士学位。
+> - **身份位置** 阿根廷与澳大利亚批判比较教育与教育政策社会学者，曾长期任教于阿根廷圣安德烈斯大学（Universidad de San Andrés）教育学院并担任比较教育研究中心主任，现为澳大利亚蒙纳士大学（Monash University）教育学院副教授；师从当代著名比较教育学者[[Robert Cowen|罗伯特·考恩]]，获伦敦大学教育学院（UCL [[National Institute of Education|Institute of Education]]）博士学位。
 > - **核心角色** 当代比较教育学“空间转向”（Spatial Turn）与批判政策社会学的代表性理论家。他在教育转移研究中引入[[Relational Space|关系性空间]]、[[Network Society|网络社会]]与[[Recontextualization|再情境化]]理论，打破传统[[Methodological Nationalism|方法论民族主义]]（[[Methodological Nationalism]]）将民族国家视为封闭容器的静态偏见，系统揭示[[Transnational Education|跨国教育]]治理中的结构性不平等与[[Discourse|话语]]权力运作。
 > - **代表贡献** 首创全球教育[[Champ|场域]]五位置话语流通模型（[[Beech's Model of Discourse Circulation]]）；提出超越领土容器的[[Relational Space|关系性空间]][[Analytic Framework|分析框架]]；系统解构跨国机构对[[Global Educational Discourse|全球教育话语]]与改革方案的“双重垄断”；揭示外围国家精英构成的“[[Gatekeepers|守门人]]群体”及其对本土替代性政策探索空间的闭合效应。
 
@@ -111,7 +113,7 @@ updated: 2026-11-15
 > - **2009 — *Policy spaces, mobile discourses, and the definition of [[Educated Identity|educated identities]]*** (*Comparative Education*) 引入[[Space of Flows|流动空间]]与[[Space of Places|地方空间]][[Paradigm|范式]]，追踪[[Global Educational Discourse|全球教育话语]]在“[[Global Policy Space|全球政策空间]]—民族国家—学校机构”三层级空间的逐层变形，提出[[Discourse|话语]]抽象为“[[Floating Signifier|漂浮能指]]”以获取最大可接受性的转化规律。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 347–364)]]
 > - **2009 — *Who is [[Sadler's Garden Metaphor|Strolling Through The Global Garden]]? International Agencies and Educational Transfer*** 载于考恩与卡扎米亚斯主编的《比较教育学国际手册》，结合[[Basil Bernstein|伯恩斯坦]]语篇控制权与卡斯特流动空间理论，首创全球教育[[Champ|场域]]五位置模型；解构[[Michael Sadler|萨德勒]]花园漫步隐喻，揭示国际组织双重垄断、拉美[[Gatekeepers|守门人]]闭合机制与微观实践[[Alienation|异化]]。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–357)]]
 > - **2011 — *Global Panaceas, Local Realities: International Agencies and the Future of Education*** 专著系统剖析国际组织推行的全球万灵药处方在各民族国家落地时遭遇的本土现实碰撞与实践撕裂。
-> - **2011 — *Pro-market [[Educational Governance Framework|Educational Governance]]: Is Argentina a black swan?*** （与 Inés Barrenechea 合著）探析阿根廷新自由主义教育治理的矛盾，揭露官方反市场话语与实际通过数字化采购（[[Conectar Igualdad|PCI]]）引入跨国科技资本的结构性张力。
+> - **2011 — *Pro-market [[Educational Governance Framework|Educational Governance]]: Is Argentina a black swan?*** （与 Inés Barrenechea 合著）探析阿根廷[[Neoliberalism|新自由主义]]教育治理的矛盾，揭露官方反市场话语与实际通过数字化采购（[[Conectar Igualdad|PCI]]）引入跨国科技资本的结构性张力。
 > - **2015 — *Interpreting the circulation of educational discourse across space: Searching for new vocabularies*** （与 [[Alejandro Artopoulos]] 合著）批判传统比较教育中“借用”、“借贷”等物理容器隐喻，提倡运用[[Relational Space|关系性空间]]与[[Actor-Network Theory|行动者网络理论]]解构教育话语的多中心网络化流通。[[Argument_Beech_2015_GSE|(Beech & Artopoulos, 2015, pp. 1–18)]]
 
 ---

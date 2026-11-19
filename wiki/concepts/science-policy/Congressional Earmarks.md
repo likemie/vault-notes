@@ -9,7 +9,7 @@ aliases:
 summary: "指美国参众两院议员在联邦预算法案中利用立法特权直接塞入、定向划拨给本选区特定大学或产学中心的科研资助；该机制彻底绕开了同行评议程序，既引发学术界关于科研政治分肥、资源错配与择优公信力受损的严厉批评，又在保守派意识形态打压显性产业政策的背景下充当了向地方输送研发资本、建立产学协同中心的隐蔽制度通道。"
 type: concept
 domain: "science-policy"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Market Fundamentalism]]"
   - "[[Research Universities]]"
+  - "[[Neoliberalism]]"
   - "[[Valley of Death]]"
   - "[[Competitiveness]]"
   - "[[Center of Calculation]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -86,7 +87,7 @@ updated: 2026-11-15
 > [!boundary]- 概念边界
 > - 不等于 [[National Science Foundation|NSF]] 或 [[National Institutes of Health|NIH]] 的竞争性研究基金 — 后者必须经过严格的独立学者同行盲审与专家组打分排序，前者由议员闭门政治协商敲定。
 > - 不等于州政府经常性拨款 — 州拨款遵循法定教育经费分担预算体制，专项拨款属于联邦立法层面的特设利益定向注入。
-> - 不等于显性民用产业政策计划 — 如商务部[[Advanced Technology Program|先进技术计划]]（ATP），后者属于公开的法定产业资助，因而极易招致新自由主义政治势力的围攻。
+> - 不等于显性民用产业政策计划 — 如商务部[[Advanced Technology Program|先进技术计划]]（ATP），后者属于公开的法定产业资助，因而极易招致[[Neoliberalism|新自由主义]]政治势力的围攻。
 
 ---
 

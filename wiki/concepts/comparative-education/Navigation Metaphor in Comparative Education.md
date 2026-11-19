@@ -9,7 +9,7 @@ aliases:
 summary: "英国比较教育学家约瑟夫·劳威斯于1958年提出的政策咨询经典隐喻。主张比较教育如同航海指南，其职能仅在于为掌舵的领航员或决策者提供不同备选航线与环境信息，而不试图直接替决策者操舵干预决策，构成了比较教育政策咨询立场光谱上的超然克制一极。"
 type: concept
 domain: "comparative-education"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Transnational Education]]"
   - "[[Epistemology]]"
   - "[[Evidence-Based Policy-Making]]"
+  - "[[Post-histoire]]"
   - "[[State Educational Sovereignty]]"
   - "[[Governing by Numbers]]"
 related_facts:
@@ -46,7 +47,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-09-28
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -155,7 +156,7 @@ updated: 2026-11-11
 > | [[Joseph Lauwerys]] | 人物 | 1958 年正式提出比较教育“航海隐喻”的英国比较教育学者。 |
 > | [[Wolfgang Mitter]] | 人物 | 总结欧洲比较教育咨询光谱、辨析劳威斯与罗宾逊模式的学科史学者。 |
 > | [[Torsten Husén]] | 人物 | 积极投身早期跨国实证测量的瑞典教育家，曾任[[Comparative Education Society in Europe\|欧洲比较教育学会]]主席。 |
-> | [[Paradigm]] | 概念 | 航海隐喻构成了战后历史文化比较教育学者的核心专业范式信仰。 |
+> | [[Paradigm]] | 概念 | 航海隐喻构成了战[[Post-histoire\|后历史]]文化比较教育学者的核心专业范式信仰。 |
 > | [[State Educational Sovereignty]] | 概念 | 航海隐喻尊重主权国家决策者的最终选择权，抵御外来强加处方。 |
 > | [[OECD]] | 事实 | 推动经济导向测评与指标治理、对传统航海隐喻形成结构性挤压的超国家组织。 |
 > | [[PISA]] | 事实 | 跨国量化标杆治理的具体载体，其巨大影响力深刻改变了比较教育的政策咨询生态。 |

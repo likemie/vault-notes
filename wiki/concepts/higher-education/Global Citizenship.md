@@ -10,10 +10,10 @@ aliases:
 summary: "高等与基础教育语境中挑战传统国民身份的受教育者身份与品质能力分析框架。在理性主义脉络下，它表现为包含数字、文化、社会沟通及环境素养的跨界就业能力组合；在批判与革命主义视角中，它被视为缺乏精确性的“漂浮能指”，一方面为超国家组织的数据远处治理与新自由主义经济教义（如全球竞争力）背书，另一方面也构成了再西方化地缘话语的一部分。"
 type: concept
 domain: "higher-education"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 theory_related_count: 5
 theory_related_level: 1
 theory_related_stars: "⭐"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Employability]]"
   - "[[Re-Westernisation]]"
+  - "[[Neoliberalism]]"
   - "[[Revolutionism]]"
   - "[[Competitiveness]]"
   - "[[Geopolitics]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-26
-updated: 2026-11-03
+updated: 2026-11-19
 ---
 
 ---
@@ -113,7 +114,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题一｜全球公民是一面掩盖地缘资本和[[Re-Westernisation|再西方化]]逻辑的模糊修辞旗帜
-> **批判与去神话视角** 这一命题关注全球公民概念在跨国流通中如何被超国家组织塑造成一种中立客观的普世[[Discourse|话语]]，但实质上充当了全球新自由主义经济教义的“受教育者身份”掩护。
+> **批判与去神话视角** 这一命题关注全球公民概念在跨国流通中如何被超国家组织塑造成一种中立客观的普世[[Discourse|话语]]，但实质上充当了全球[[Neoliberalism|新自由主义]]经济教义的“受教育者身份”掩护。
 
 > [!claim] [[Eleftherios Klerides\|Klerides, E.]]
 > **模糊性与[[Re-Westernisation\|再西方化]]载体** 从国际关系视角的[[Revolutionism\|革命主义]]传统指出，全球公民在理性主义话语中被视作挑战国民国家桎梏的国际主义概念，但由于缺乏精确性而成为掩盖霸权的“模糊概念”；在革命主义看来，它往往被新自由主义教义重新定义，与全球[[Competitiveness|竞争力]]、雇主利益深度绑定，并在实质上成为了推动西方新自由主义普世学校模型输出与再西方化（re-Westernisation）[[Geopolitics|地缘政治]]战略的隐性载体。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 425–429]])

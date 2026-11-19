@@ -10,7 +10,7 @@ aliases:
 summary: "行动者网络理论与后结构主义哲学的核心概念，指异质性的人类与非人类行动者（符号、文本、技术、法律与耐用客体）在动态关联中临时聚合形成的社会-物质网络。它打破结构先验论与本质主义，强调关系物质性、耐用材料的秩序化策略、转译过程与黑箱化，并在断裂与重构中展现权力的生成性。"
 type: concept
 domain: "comparative-education"
-related_count: 53
+related_count: 55
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Topological Spatialisation]]"
   - "[[Rescaling]]"
   - "[[Center of Calculation]]"
+  - "[[Neoliberalism]]"
   - "[[Deductible Gift Recipient]]"
   - "[[Public-Private Partnership]]"
   - "[[Philanthrocapitalism]]"
@@ -59,6 +60,7 @@ related_persons:
   - "[[Bruno Latour]]"
   - "[[Jason Beech]]"
   - "[[Sigrid Hartong]]"
+  - "[[Karl Marx]]"
 related_facts:
   - "[[Australian Education Research Organisation]]"
   - "[[Social Ventures Australia]]"
@@ -81,7 +83,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-07
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -176,7 +178,7 @@ updated: 2026-11-11
 > **隐蔽装配效应与国家-资本共生机制** 探讨权力如何摆脱传统单一主权实体的宏观压制模型，作为异质行动者网络持续调配与制度特许的隐蔽效果而生成。
 
 > [!claim] Rowe, E.
-> **权力作为装配效应与异质制度拼装** 埃玛·罗威（Emma Rowe）深化装配理论对国家与资本关系的考察，提出权力体现为异质行动者网络经过长程动员、转译与法律修补后显现的“隐蔽装配效应”（concealed effect of assemblage），超越了预先存在且集中于顶层的实体假定。新自由主义国家作为核心构件主动参与装配：国家通过量身定制税法豁免（如为 [[Australian Schools Plus\|澳大利亚学校加计划]] 专门修订 [[Deductible Gift Recipient\|DGR1]] 税法条款）、修改公共治理与问责规则、创设受《公司法》保护而非传统行政法约束的担保有限公司（如 [[Australian Education Research Organisation\|AERO]]），以及开展定向保密招标（如将 1500 万澳元公立学校领导力培训专向委托给 [[Social Ventures Australia\|SVA]]），在政策生态中主动为风险慈善和营利性咨询机构开辟合法空间。这种装配使商业逻辑与资本截留无缝融入公共教育肌理，并在表面上以“[[Public-Private Partnership|公私合作伙伴关系]]”与中立循证的修辞黑箱化，彻底规避了议会监督与公民社会的民主审议。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 162–165)]]
+> **权力作为装配效应与异质制度拼装** 埃玛·罗威（Emma Rowe）深化装配理论对国家与资本关系的考察，提出权力体现为异质行动者网络经过长程动员、转译与法律修补后显现的“隐蔽装配效应”（concealed effect of assemblage），超越了预先存在且集中于顶层的实体假定。[[Neoliberalism|新自由主义]]国家作为核心构件主动参与装配：国家通过量身定制税法豁免（如为 [[Australian Schools Plus\|澳大利亚学校加计划]] 专门修订 [[Deductible Gift Recipient\|DGR1]] 税法条款）、修改公共治理与问责规则、创设受《公司法》保护而非传统行政法约束的担保有限公司（如 [[Australian Education Research Organisation\|AERO]]），以及开展定向保密招标（如将 1500 万澳元公立学校领导力培训专向委托给 [[Social Ventures Australia\|SVA]]），在政策生态中主动为风险慈善和营利性咨询机构开辟合法空间。这种装配使商业逻辑与资本截留无缝融入公共教育肌理，并在表面上以“[[Public-Private Partnership|公私合作伙伴关系]]”与中立循证的修辞黑箱化，彻底规避了议会监督与公民社会的民主审议。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 162–165)]]
 
 ---
 
@@ -210,7 +212,7 @@ updated: 2026-11-11
 >
 > > [!axis] 局域生成论 vs 资本主义宏观总体性
 > > 争论装配理论强调局部、偶发性连接，是否忽视了资本主义全球生产方式等深层宏观结构。
-> > - **新马克思主义立场** 批评装配理论沉溺于追踪零散微观网络，回避了阶级冲突与资本积累规律的全局性支配力。
+> > - **新[[Karl Marx|马克思]]主义立场** 批评装配理论沉溺于追踪零散微观网络，回避了阶级冲突与资本积累规律的全局性支配力。
 > > - **批判政策装配学者** 反驳指出装配研究直接聚焦全球跨国资本（如麦肯锡、高盛、力拓）如何通过具体耐用客体的战术拼装渗入国家政权肌理，揭示资本运作的微观机制。
 
 > [!critique] 外部批评

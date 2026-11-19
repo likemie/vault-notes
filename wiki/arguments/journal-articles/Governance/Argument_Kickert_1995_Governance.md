@@ -7,7 +7,7 @@ title: "Argument_Kickert_1995_Governance"
 argument_key: "Argument_Kickert_1995_Governance"
 argument_display_title: "Steering at a distance: A new paradigm of public governance in Dutch higher education"
 argument_kind: "journal-article"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Zone of Discretion]]"
   - "[[Network Governance]]"
   - "[[Bureaucracy]]"
+  - "[[Neoliberalism]]"
   - "[[Public Value]]"
   - "[[Entrepreneurial University]]"
   - "[[Academic Freedom]]"
@@ -68,7 +69,7 @@ related_facts:
   - "[[Early Steps]]"
 status: completed
 created: 2026-10-12
-updated: 2026-10-29
+updated: 2026-11-19
 sources:
   - "[[sources/Kickert_1995_Governance/Kickert_1995_Governance|Kickert_1995_Governance]]"
 ---
@@ -225,7 +226,7 @@ sources:
 > [!claim|step] 论证步骤四　远距离操纵旨在重塑国家治理的实质有效性，但面临教育部官僚身份危机与复辟干预的深刻张力
 > 远距离操纵通过转换调控工具恢复了公共权力的实际效能，严格区别于英美[[New Public Management|新公共管理]]的商业合同逻辑；但规章废除后官僚群体普遍经历身份认同危机，并在社会舆论压力下存在重新干预微观事务的习惯性制度冲动。
 
-> [!sub-claim] 1. 远距离操纵旨在克服直接管制的无效性以重塑国家效能，严格区别于英美新自由主义的私有化与合同外包
+> [!sub-claim] 1. 远距离操纵旨在克服直接管制的无效性以重塑国家效能，严格区别于英美[[Neoliberalism|新自由主义]]的私有化与合同外包
 
 远距离操纵必须与英美新公共管理推行的商业合同外包严格区分：荷兰改革的根本动力不是出于削弱政府的意识形态偏见，而是为了克服既有直接管制的治理无效性，重构实质国家能力。
 

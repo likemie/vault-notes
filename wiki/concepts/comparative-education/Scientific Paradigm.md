@@ -8,7 +8,7 @@ aliases:
 summary: "20 世纪 50 至 70 年代支配英美比较教育学的知识体系与研究纲领，摒弃古典历史学派主观印象与思辨归因，通过变量控制、量化共变检验与假说-演绎问题法探寻跨国规律与政策预测，并在实践中与战后国家理性规划形成合法化共谋"
 type: concept
 domain: "comparative-education"
-related_count: 71
+related_count: 72
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -55,6 +55,7 @@ related_concepts:
   - "[[Postpositivism]]"
   - "[[Academic Freedom]]"
   - "[[Securitization of Technology]]"
+  - "[[Neoliberalism]]"
   - "[[Critical Dualism]]"
   - "[[Determinism]]"
   - "[[Research Security]]"
@@ -98,7 +99,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -218,7 +219,7 @@ updated: 2026-11-15
 > **科学范式的地缘安全化与使命导向转向** 这类命题探讨 21 世纪大国科技竞争背景下，科学范式如何从战后以好奇心驱动、全球开放共享为特征的国际主义知识生产体系，向以国家安全、战略技术主权与有组织攻关为特征的使命导向范式发生深刻重组。
 
 > [!claim] [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]]
-> **产业竞争安全化与科学知识生产范式重组** 卓泽林指出，半导体产业竞争逻辑的[[Securitization of Technology|技术安全化]]转向彻底重构了科学范式与知识生产的底层逻辑：科学研究由新自由主义时期的“学术兴趣驱动、自由市场适配、追求学术发表与专利指标”传统范式，重构为“国家战略使命导向、绑定军事与产业安全、以创新体系节点连接能力为核心”的后新自由主义安全化范式。在这一范式转型中，外籍人才流动受限与排他性安全审查打破了传统的开放无界交流公理，引发了学术共同体自由探索与国家排他性战略目标之间的深层制度冲突。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 24–26)]]
+> **产业竞争安全化与科学知识生产范式重组** 卓泽林指出，半导体产业竞争逻辑的[[Securitization of Technology|技术安全化]]转向彻底重构了科学范式与知识生产的底层逻辑：科学研究由[[Neoliberalism|新自由主义]]时期的“学术兴趣驱动、自由市场适配、追求学术发表与专利指标”传统范式，重构为“国家战略使命导向、绑定军事与产业安全、以创新体系节点连接能力为核心”的后新自由主义安全化范式。在这一范式转型中，外籍人才流动受限与排他性安全审查打破了传统的开放无界交流公理，引发了学术共同体自由探索与国家排他性战略目标之间的深层制度冲突。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 24–26)]]
 
 ---
 

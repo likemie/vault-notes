@@ -17,7 +17,7 @@ aliases:
 summary: "跨越政治学、文化哲学、科学知识社会学与比较教育学的核心理论。在政治与学科层面主张权力分散博弈与健康多范式共存；在比较教育中主张文化多元以抗衡普遍主义规训；在科层循证治理中揭示行政权威对科学多元主义的制度性压制。卡普与扎米斯卡结合麦金太尔与李光耀实践，进一步批判多元主义滑向文化相对主义、空洞程序中立与“包容一切即支持虚无”的淹没性陷阱，论证多元社会必须依托共同语言、实质美德与道德共同体维系长程凝聚力。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 65
+theory_related_count: 66
 theory_related_level: 6
 theory_related_stars: "💎💎"
 theory_related_color: "#fef3c7"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Grandes Ecoles]]"
   - "[[Scientific Paradigm]]"
   - "[[Transnational Education]]"
+  - "[[Neoliberalism]]"
   - "[[Bilingual Education Policy]]"
   - "[[State Simplification]]"
   - "[[Metascience]]"
@@ -103,7 +104,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 ---
@@ -175,7 +176,7 @@ updated: 2026-11-14
 > 一个学术领域的生机并不取决于是否确立了排他性的统一[[Scientific Paradigm|科学范式]]，而取决于其容纳多元[[Epistemology|认识论]]、[[Theoretical Perspective|理论视角]]与研究方法的能力。比较教育学经历半个世纪的发展，彻底粉碎了[[Positivism|实证主义]]与[[Structural Functionalism|结构功能主义]]的垄断神话，形成了涵盖 26 种理论视角并存的“健康多元主义”。实证量化与质性阐释相互补充，为多维解构复杂[[Transnational Education|跨国教育]]现象提供了最充沛的理论工具库。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–123)]]
 
 > [!example|notitle]
-> 在当代理论研究中，同一跨国教育改革政策既可被新制度主义学者解读为世界文化剧本的形式同形，亦可被批判学者解构为新自由主义话语霸权，又可被比较历史学者考证为本土文化与外部模式的双向互塑。
+> 在当代理论研究中，同一跨国教育改革政策既可被新制度主义学者解读为世界文化剧本的形式同形，亦可被批判学者解构为[[Neoliberalism|新自由主义]]话语霸权，又可被比较历史学者考证为本土文化与外部模式的双向互塑。
 
 > [!theory-proposition] 命题五｜多元主义滑向[[Cultural Relativism|文化相对主义]]与“淹没性虚无”的危机：呼唤实质道德共同体
 > 当多元主义从政治包容扩展至极端文化哲学时，极易退化为以本尼迪克特（Ruth Benedict, 1934）为代表的文化相对主义（“所有生活模式一律同等有效”）以及麦金太尔（Alasdair MacIntyre, 2007）所警示的“威胁淹没我们所有人的多元主义”。罗杰·金博尔（Kimball, 2004）指出，对一切事物宽容的渴望最终会退化为对任何价值的无所支持。[[John Rawls|约翰·罗尔斯]]的形式自由主义追求目标中立，但其有限的美德清单抽空了公共生活的丰富性。一味追求程序“正当”而放弃实质“善”，使社会失去了对卓越、正义与美的辨别本能。在多元族群社会中，必须如戈皮纳坦（Gopinathan, 1979）与[[Lee Kuan Yew|李光耀]]所论述的那样，通过共同语言和实质伦理（如儒家[[Junzi|君子]]德行）构建凝聚力，重塑维系道德生活的实质共同体。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–201)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 212–216)]]

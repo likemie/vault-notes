@@ -7,7 +7,7 @@ aliases:
 summary: "萨顿、阿诺夫与卡马特提出的比较教育批判概念，指新自由主义外包机制下非政府组织沦为跨国机构与政府的教育服务承包商，在缓解财政负担的同时侵蚀了国家公共合法性并消解了民间社会的政治批判潜能"
 type: concept
 domain: "comparative-education"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
   - political-economy
   - region/global
 related_concepts:
+  - "[[Neoliberalism]]"
   - "[[Discourse]]"
   - "[[Bureaucracy]]"
   - "[[Performance Indicators]]"
@@ -43,13 +44,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
 
 > [!def] Shadow State
-> 影子国家（Shadow State）是玛格丽特·萨顿（Margaret Sutton）、[[Robert Arnove|罗伯特·阿诺夫]]（Robert F. Arnove）与桑吉塔·卡马特（Sangeeta Kamat）在剖析全球教育治理中公共权力与非政府组织（Non-Governmental Organization, NGO）关系时确立的批判性分析概念；该概念揭示了在新自由主义国家紧缩与公共服务民营外包浪潮中，跨国双边与多边援助机构绕过主权国家行政体系，将 NGO 广泛培育成替代性公共教育承包商的制度悖论——民间组织在替受援国政府承担普及基础教育、成人扫盲与早期幼儿照料等兜底职能的同时，逐步退化为去政治化、高度依附于外部捐助资本的“准行政影子网络”，进而深刻侵蚀了民族国家统领公共教育体系的宪法合法性与制度问责。[[Argument_Arnove_2009_WorldSystems|(Sutton & Arnove, 2004, cited in Arnove, 2009, pp. 111–112)]]
+> 影子国家（Shadow State）是玛格丽特·萨顿（Margaret Sutton）、[[Robert Arnove|罗伯特·阿诺夫]]（Robert F. Arnove）与桑吉塔·卡马特（Sangeeta Kamat）在剖析全球教育治理中公共权力与非政府组织（Non-Governmental Organization, NGO）关系时确立的批判性分析概念；该概念揭示了在[[Neoliberalism|新自由主义]]国家紧缩与公共服务民营外包浪潮中，跨国双边与多边援助机构绕过主权国家行政体系，将 NGO 广泛培育成替代性公共教育承包商的制度悖论——民间组织在替受援国政府承担普及基础教育、成人扫盲与早期幼儿照料等兜底职能的同时，逐步退化为去政治化、高度依附于外部捐助资本的“准行政影子网络”，进而深刻侵蚀了民族国家统领公共教育体系的宪法合法性与制度问责。[[Argument_Arnove_2009_WorldSystems|(Sutton & Arnove, 2004, cited in Arnove, 2009, pp. 111–112)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指民间社会组织被外包机制体制化，扮演原本属于国家的公共教育管理、办学与服务职能，形成并行的影子治理结构。

@@ -9,7 +9,7 @@ aliases:
 summary: "源自福柯后结构主义谱系学与批判政策分析的核心认识论概念。主张政策通过话语与实践主动生产、界定并框定“问题何以成为问题”的治理技术；通过解构政策文本中隐含的问题表征及其底层预设、历史渊源与政策沉默，揭示统治知识与主体化效应的生成机制。"
 type: concept
 domain: "sociology-of-education"
-related_count: 27
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Empiricism]]"
   - "[[Problem Finding]]"
   - "[[Education Export]]"
+  - "[[Typicality]]"
   - "[[Construct]]"
   - "[[Ontology]]"
   - "[[Epistemic Stances]]"
@@ -34,6 +35,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Quasi-market]]"
   - "[[Heterogeneity]]"
+  - "[[Neoliberalism]]"
   - "[[Professional Capital]]"
   - "[[Operationalization]]"
   - "[[Regimes of Truth]]"
@@ -56,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-09
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -70,7 +72,7 @@ updated: 2026-11-11
 > - **边界** 不等于传统[[Empiricism|经验主义]]假定问题具有先验客观存在性的“[[Problem Finding|问题发现]]”（Problem Finding）；亦不等于主流政治学中探讨注意力竞争与信息流通的“议程设置”（Agenda Setting）。
 
 > [!citation-card|notitle] 关键表述：库尔蒂（2025）论问题化分析的切入视角
-> 问题表征是研究[[Education Export|教育出口]]如何生产治理理性的实证切入点。[[Bacchi's WPR Approach|WPR]] 途径追问是什么条件促使问题被表述为当前政策中所呈现的样态；该途径将把问题建构为特定类型的问题本身，视为政策过程不可分割的核心意图。当政策将问题建构为特定类型时，它同时也建构了解题所需的知识形态。这种知识具有高度的情境化与特殊性，并直接参与建构了深层的治理理性。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, p. 381)]]
+> 问题表征是研究[[Education Export|教育出口]]如何生产治理理性的实证切入点。[[Bacchi's WPR Approach|WPR]] 途径追问是什么条件促使问题被表述为当前政策中所呈现的样态；该途径将把问题建构为特定类型的问题本身，视为政策过程不可分割的核心意图。当政策将问题建构为特定类型时，它同时也建构了解题所需的知识形态。这种知识具有高度的情境化与[[Typicality|特殊性]]，并直接参与建构了深层的治理理性。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, p. 381)]]
 >
 > *In summary, problem representations are the material entry point into studying how education export produces governmental rationalities. The WPR approach asks what enables problems to be formulated as they are set out in a policy. The approach views the construction of problems as particular kinds of problems as an integral purpose of the policy process. When a policy [[Construct|constructs]] the problem as a particular kind, it also constructs the knowledge required for the solutions.*
 
@@ -122,7 +124,7 @@ updated: 2026-11-11
 > **话语排除与主体化技术** 问题化过程通过刻意忽略特定视角，迫使政策客体在自我审视中重构身份认同。
 > 
 > > [!claim] Bacchi (2016)
-> > **政策沉默与话语霸权确立** 任何一种问题表征的树立，必然伴随着对[[Heterogeneity|异质性]]可能性的系统排除与沉默；这种沉默使某种特定意识形态（如新自由主义经济人假设）成为无可辩驳的自然真理，使受影响的弱势群体丧失了基于原有伦理框架进行抗辩的合法话语阵地。
+> > **政策沉默与话语霸权确立** 任何一种问题表征的树立，必然伴随着对[[Heterogeneity|异质性]]可能性的系统排除与沉默；这种沉默使某种特定意识形态（如[[Neoliberalism|新自由主义]]经济人假设）成为无可辩驳的自然真理，使受影响的弱势群体丧失了基于原有伦理框架进行抗辩的合法话语阵地。
 > 
 > > [!claim] [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]]
 > > **教师主体性的企业家化规训** 在将从业人员“商业技能匮乏”界定为核心问题的政策文献中，教育学智慧、教学自主权与对弱势学童的人文关怀被系统沉默；问题化机制通过国家微专业培训与预算挂钩，规训基层教师与管理者自发将自身[[Professional Capital|专业资本]]折算为国家出口创收效能，成功将公立教师改造为自我负责的教育型企业家。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 389–391)]]

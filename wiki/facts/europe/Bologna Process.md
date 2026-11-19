@@ -12,9 +12,9 @@ subtype: policy
 region: europe
 fact_region: "europe"
 fact_kind: "policy"
-fact_related_count: 58
-fact_related_level: 5
-fact_related_stars: "💎⭐⭐"
+fact_related_count: 62
+fact_related_level: 6
+fact_related_stars: "💎💎"
 fact_related_color: "#fecdd3"
 issuing_organization: "European Ministers in charge of Higher Education"
 tags:
@@ -40,17 +40,20 @@ related_concepts:
   - "[[State Educational Sovereignty]]"
   - "[[Regimes of Truth]]"
   - "[[The Sublime]]"
+  - "[[Neoliberalism]]"
   - "[[Open Method of Coordination]]"
   - "[[Bologna Process Export Thesis]]"
   - "[[Global Regionalisms]]"
   - "[[Mimesis]]"
+  - "[[Student Mobility]]"
+  - "[[Policy Borrowing]]"
+  - "[[Soft Power]]"
+  - "[[Epistemology]]"
   - "[[Commensuration]]"
   - "[[European Education Space]]"
-  - "[[Student Mobility]]"
   - "[[Geopolitics of Higher Education]]"
   - "[[Global Universities Rankings]]"
   - "[[Alienation]]"
-  - "[[Policy Borrowing]]"
 related_theories:
   - "[[Panopticism]]"
   - "[[Comparative Regionalism]]"
@@ -89,6 +92,7 @@ related_arguments:
   - "[[Argument_Grek_2024_EERJ]]"
   - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
   - "[[Argument_Chou_2017_PolSoc]]"
+  - "[[Argument_Indrarajah_2026_NJCIE]]"
 confidence: high
 status: active
 created: 2026-06-29
@@ -192,7 +196,7 @@ updated: 2026-11-19
 > > - **比较学者实证批判** [[José Luis García Garrido|何塞·路易斯·加西亚·加里多]]（[[José Luis García Garrido]]）尖锐指出，西班牙等国在立法上高唱博洛尼亚欧洲主义，但实质上耗费了大量时间却难见实效。大学法案借自治之名将人事与财权下放给自治区，反而助长了地方孤立主义与学术近亲繁殖（教师多由本校嫡系提拔，外地学者遭排斥）；新学制大纲不仅未促进趋同，反而造成地方分割。此外，大学在软科[[Academic Ranking of World Universities|世界大学学术排名]]与[[Times Higher Education World University Rankings|泰晤士高等教育世界大学排名]]中表现低迷，博洛尼亚对标彻底沦为掩盖质量危机的表面修辞。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 332–333)]]
 >
 > > [!axis] 争议四：知识欧洲修辞下的资本化操演与[[Regimes of Truth|真理体制]]重构
-> > 博洛尼亚进程是建设欧洲文化智识共同体的[[The Sublime|崇高]]方案，还是新自由主义重塑高教市场的工具？
+> > 博洛尼亚进程是建设欧洲文化智识共同体的[[The Sublime|崇高]]方案，还是[[Neoliberalism|新自由主义]]重塑高教市场的工具？
 > > - **官方文化主义修辞** 1999 年《索邦宣言》声称欧洲不仅属于欧元与银行，也必须成为以知识为基础的智识与文化共同体。
 > > - **福柯权力-知识理论批判** [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] 解构指出，“知识欧洲”构成了欧盟权力-知识的规训蓝图；欧盟委员会积极介入博洛尼亚进程，其实质是将高等教育学位与学分改造为适应全球劳动力流动、可消费且可替换的商业化无形资本，依托[[Open Method of Coordination|开放协调法]]（OMC）与资历框架将高校纳入[[Panopticism|全景敞视]]监控网络。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480, 488–492)]]
 >
@@ -200,7 +204,7 @@ updated: 2026-11-19
 > > 博洛尼亚进程是全球高等教育区域合作的普适模板，还是特定历史制度脉络的区域产物？
 > > - **输出假说（Export Thesis）** 传统欧洲高等教育研究与新[[Comparative Regionalism|比较区域主义]]常预设博洛尼亚进程作为全球高等教育一体化的标准范本，主张其他地理区域主要通过政策借鉴、竞争或[[Mimesis|模仿]]吸收其经验。
 > > - **实证批判** [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] 通过实地调研指出，东南亚等地区早在博洛尼亚进程之前已开展内生的高教政策合作；[[SEAMEO RIHED]]的区域测绘报告明确警惕博洛尼亚的大一统路径并建议规避；东南亚国家基于国家主权维护与[[ASEAN|东盟]]方式，自主选择了以大学结网与政府柔性协调并存的多元化路径，反驳了单向扩散预设。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 153–156)]]
-> > - **去殖民视角反思** [[Argument_Indrarajah_2026_NJCIE|Indrarajah (2026, pp. 4, 7–8)]] 进一步揭示，东盟在构建高等教育共同空间时试图复制博洛尼亚进程以促进学生流动与学分互认，但这一跨国政策借用将欧洲标准预设为理想范本，再生产了“前宗主国为高教专家、被剥削国必须模仿其机制与成果”的单向知识流动与新殖民性；加之欧盟外交官公开强调借助跨国教育合作施加软实力影响以巩固地缘利益，东南亚区域主义亟需引入认识论去殖民实践与本土原住民哲学以破除对博洛尼亚模式的技术迷信。
+> > - **去殖民视角反思** [[Argument_Indrarajah_2026_NJCIE|Indrarajah (2026, pp. 4, 7–8)]] 进一步揭示，东盟在构建高等教育共同空间时试图复制博洛尼亚进程以促进[[Student Mobility|学生流动]]与学分互认，但这一跨国[[Policy Borrowing|政策借用]]将欧洲标准预设为理想范本，再生产了“前宗主国为高教专家、被剥削国必须模仿其机制与成果”的单向知识流动与新殖民性；加之欧盟外交官公开强调借助跨国教育合作施加[[Soft Power|软实力]]影响以巩固地缘利益，东南亚区域主义亟需引入[[Epistemology|认识论]]去殖民实践与本土原住民哲学以破除对博洛尼亚模式的技术迷信。
 >
 > > [!axis] 争议六：政府间博洛尼亚进程的动能衰竭与认识论基础设施转型
 > > 博洛尼亚进程的传统政府间协调模式是否已经耗尽政治动力？

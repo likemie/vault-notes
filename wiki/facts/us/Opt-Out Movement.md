@@ -11,7 +11,7 @@ subtype: event
 region: "us"
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Discourse]]"
   - "[[Progressive Education]]"
+  - "[[Neoliberalism]]"
   - "[[Whole Person Education]]"
   - "[[Firewall Effect]]"
   - "[[Data Infrastructure]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-22
+updated: 2026-11-19
 ---
 
 ---
@@ -92,7 +93,7 @@ updated: 2026-10-22
 > | 维度 | 退考抗争阵营 | 问责推进建制阵营 |
 > |:---|:---|:---|
 > | 核心行动者 | 退考家长网络、草根反测验联盟、[[FairTest]] | 联邦教育部、州教育厅、跨国测评企业、商业基金会 |
-> | 社会基础 | 郊区中产阶级家庭、[[Progressive Education\|进步主义教育]]学者、一线受挫教师 | 技术官僚精英、新自由主义智库、测量工业联合体 |
+> | 社会基础 | 郊区中产阶级家庭、[[Progressive Education\|进步主义教育]]学者、一线受挫教师 | 技术官僚精英、[[Neoliberalism\|新自由主义]]智库、测量工业联合体 |
 > | 价值主张 | 儿童身心健康、[[Whole Person Education\|全人教育]]、教学自主、反数字剥夺 | 绩效可问责性、客观可比标准、缩小成就差距、市场选择 |
 > | 斗争手段 | 行使法定拒考权、社交媒体动员、竞选学区董事 | 威胁削减联邦资助、加大统考成绩占权重、行政施压 |
 

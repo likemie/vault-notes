@@ -4,10 +4,10 @@ aliases: [唯意志论, 唯意志主义, voluntaristic assumption, voluntarist a
 summary: "关于人类本质特性的本体论假设，主张个体是自身行动的自主发起者，具有自由意志、反思意识与创造力，能够在主观意向与社会互动中积极创造并改造其生存环境。"
 type: concept
 domain: "educational-philosophy"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags: [theme/ontology, theme/human-nature, theme/research-philosophy, paradigm/interpretivist]
 related_concepts:
   - "[[Ontology]]"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Geisteswissenschaften]]"
   - "[[Subjectivism]]"
   - "[[Habitus]]"
+  - "[[Neoliberalism]]"
   - "[[Interpretive Paradigm]]"
   - "[[Decodification]]"
 related_methods:
@@ -56,7 +57,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-11-03
+updated: 2026-11-19
 ---
 
 ---
@@ -168,7 +169,7 @@ updated: 2026-11-03
 > > - **[[Critical Realism\|批判实在论]]学者（Layder, 1994）** 批评过度唯意志论容易将贫困、辍学与硬件匮乏缩减为主观认知的偏差，导致研究脱离残酷的物质现实。
 
 > [!warning] 教育研究中的方法论局限
-> - **浪漫化个人能动性与新自由主义共谋** 极易将系统性的教育资源失衡与制度排斥，轻率地推卸为学生个人的“主观选择”或“努力不足”。
+> - **浪漫化个人能动性与[[Neoliberalism|新自由主义]]共谋** 极易将系统性的教育资源失衡与制度排斥，轻率地推卸为学生个人的“主观选择”或“努力不足”。
 > - **难以解释制度惯性与宏观变迁** 单纯聚焦微观主体的意图协商，往往对跨越代际的宏观制度惯性与阶级再生产缺乏足够的结构性解释力。
 
 ---

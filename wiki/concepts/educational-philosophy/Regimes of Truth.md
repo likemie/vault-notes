@@ -7,7 +7,7 @@ aliases:
 summary: "米歇尔·福柯提出的权力-知识概念，指特定社会或治理体制中被认可为‘客观真理’的规范知识系统、真假区分技术与话语实践机制；在教育治理中，表现为将质量、竞争力与市场理性包装为不容置疑的客观准则，从而规训并合法化国家教育改革与商业化重塑。"
 type: concept
 domain: "educational-philosophy"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Transnational Education]]"
   - "[[Performance Indicators]]"
   - "[[Evidence-Based Policy-Making]]"
+  - "[[Neoliberalism]]"
   - "[[Educational Privatisation]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -58,7 +59,7 @@ related_arguments:
   - "[[Argument_Kuortti_2025_JEdPolicy]]"
 status: completed
 created: 2026-10-28
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -146,7 +147,7 @@ updated: 2026-11-11
 >
 > > [!axis] 客观中立科学规律 vs 权力运作历史产物
 > > - **实证主义与技术官僚论** 坚称教育[[Performance Indicators|绩效指标]]、质量基准与国际排名是反映客观教育生产效率与治理效能的中立科学规律，为[[Evidence-Based Policy-Making|循证决策]]提供真实依据。
-> > - **福柯批判社会学派（Foucault, 1980; [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009]]）** 反驳指出任何真理标准皆是特定权力关系的制度化结晶，将经济效能抬升为中立真理实质上是新自由主义权力行使的规训策略。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480–481)]]
+> > - **福柯批判社会学派（Foucault, 1980; [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009]]）** 反驳指出任何真理标准皆是特定权力关系的制度化结晶，将经济效能抬升为中立真理实质上是[[Neoliberalism|新自由主义]]权力行使的规训策略。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480–481)]]
 >
 > > [!axis] 全球真理体制刚性闭锁 vs 地方能动性与反思抵抗
 > > - **总体规训论** 认为超国家真理体制通过指标体系与资源配置对成员国及地方机构形成严密的全景敞视控制，地方政策制定者只能被动顺从与内化。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 492–493)]]

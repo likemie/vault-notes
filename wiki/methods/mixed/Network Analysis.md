@@ -9,7 +9,7 @@ summary: "通过识别行动者、关系、节点和连接来测量社会与学�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 68
+method_related_count: 69
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#fef3c7"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Soft Privatisation]]"
   - "[[Policy Entrepreneur]]"
   - "[[Giant Component]]"
+  - "[[Neoliberalism]]"
   - "[[Public-Private Partnership]]"
   - "[[Unit of Analysis]]"
   - "[[Small-World Quotient]]"
@@ -100,7 +101,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-22
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -110,7 +111,7 @@ updated: 2026-11-11
 
 > [!method-scope] 方法范围
 > - **研究对象** 社会与组织网络中的行动者（Actors / 节点 Nodes，包括学生、教师、学者、政客、商业高管与学者型[[Policy Entrepreneur|政策企业家]]）、关系与纽带（Relations / 连接 Ties，包括发帖互动、共同署名合著、资源流转、跨机构兼任与商标特许授权），以及网络整体的拓扑结构特征。
-> - **适用问题** 识别核心关键行动者（中心度）、分析信息与资源流动阻滞点、探测凝聚子群（派系 Cliques）、评估课堂协作知识建构中的分布式认知网络密度、测算学术合著网络的重尾度分布与[[Giant Component|巨连通分支]]，以及绘制新自由主义[[Public-Private Partnership|公私伙伴关系]]中的连锁董事治理同盟与跨国政策特许拓扑。
+> - **适用问题** 识别核心关键行动者（中心度）、分析信息与资源流动阻滞点、探测凝聚子群（派系 Cliques）、评估课堂协作知识建构中的分布式认知网络密度、测算学术合著网络的重尾度分布与[[Giant Component|巨连通分支]]，以及绘制[[Neoliberalism|新自由主义]][[Public-Private Partnership|公私伙伴关系]]中的连锁董事治理同盟与跨国政策特许拓扑。
 > - **[[Unit of Analysis|分析单位]]** 个体层次（自我中心网络 Ego-Network） $\to$ 对偶层次（Dyads） $\to$ 三元闭包层次（Triads） $\to$ 完整组织、科学界或跨国政策全网络（Whole Network）（Knoke & Yang, 2008, pp. 13–15; [[Argument_ONeill_2016_Report|O'Neill et al., 2016]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang & Barabási, 2021]]）。
 > - **典型输出** 社会关系网络图（Sociograms）、政商兼任网络图（Governance Network Maps）、合著网络拓扑图、邻接矩阵（Adjacency Matrices）、中心性指数、网络密度、核心-边缘结构模型（Core-Periphery Models）与[[Small-World Quotient|小世界商数]]。
 

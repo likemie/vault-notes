@@ -6,7 +6,7 @@ aliases:
 summary: "国际学生流动研究中的短期微观社会心理机制，指留学生在留学所在国建立日常人际友谊与积极生活体验后形成的积极怀旧感，归国后自发产生的口碑效应能够有效对冲外部大众媒体对留学国的负面刻板印象"
 type: concept
 domain: "comparative-education"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Educational Soft Power]]"
   - "[[Educational Diplomacy]]"
+  - "[[Neoliberalism]]"
   - "[[Student Mobility]]"
   - "[[Variable]]"
   - "[[Document]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -130,7 +131,7 @@ updated: 2026-11-11
 > > [!axis] 民间好感积累 vs 宏观地缘安全摩擦侵蚀
 > > 探讨自下而上的民间校友口碑能否有效倒逼国家间高层政治关系的缓和。
 > >
-> > - **新自由主义功能主义立场** 坚信广泛的人文交流和民间好感积累能够外溢至高阶政治，构筑长久的和平压舱石。
+> > - **[[Neoliberalism|新自由主义]]功能主义立场** 坚信广泛的人文交流和民间好感积累能够外溢至高阶政治，构筑长久的和平压舱石。
 > > - **[[Argument_Velasco_2022_CSJ|Velasco (2022)]]** 审慎指出在东南亚现实中，高阶主权争端和军事防范具有压倒性影响力，微观校友效应无法单方面消除邻国的战略信任赤字（pp. 85–86）。
 
 > [!warning] 适用局限

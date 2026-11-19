@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[International Education]]"
   - "[[Development Turn in Comparative Education]]"
+  - "[[Neoliberalism]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods: []
@@ -43,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-10-22
+updated: 2026-11-19
 ---
 
 ---
@@ -65,7 +66,7 @@ updated: 2026-10-22
 > [!success] 影响与后果
 > - 教育经济学运动奠定了[[Development Turn in Comparative Education\|发展转向]]的理论基础。教育被理解为可以通过理性规划来优化的投资品，这一思维深刻塑造了比较教育在"发展中国家"的实践形态([[Argument_Klerides_2023_CE\|Klerides, 2023, p.422]])。
 > - 该运动建立了"教育质量推动科技能力推动[[Competitiveness|国家竞争力]]"的政策逻辑链，后来被 [[PISA]] 等国际比较评估制度化([[Argument_Klerides_2023_CE\|Klerides, 2023, p.423]])。
-> - 今天的新自由主义教育思维——制造"最佳实践"和"高效系统"的标杆模式——仍然植根于教育经济学运动的核心理念：教育是为经济增长服务的投资（Brehm, 2023, cited in）。
+> - 今天的[[Neoliberalism|新自由主义]]教育思维——制造"最佳实践"和"高效系统"的标杆模式——仍然植根于教育经济学运动的核心理念：教育是为经济增长服务的投资（Brehm, 2023, cited in）。
 
 ---
 

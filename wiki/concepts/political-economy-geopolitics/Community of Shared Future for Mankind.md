@@ -9,7 +9,7 @@ aliases:
 summary: "当代中国外交战略与全球治理哲学的核心话语纲领与社会想象（Social Imaginary）。主张超越传统零和博弈与西方中心主义霸权逻辑，追求持久和平、普遍安全、共同繁荣、开放包容与清洁美丽的全球治理新秩序；在对外政策与教育出海实践中，作为核心激励性框架（Motivational Framing），赋予国家倡议以道德崇高性与多边共赢正当性。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 36
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -41,9 +41,11 @@ related_concepts:
   - "[[Grand Theory]]"
   - "[[Hard Power]]"
   - "[[Soft Power]]"
+  - "[[Neoliberalism]]"
   - "[[Theoretical Standpoint]]"
   - "[[Internationalization of Vocational Education]]"
 related_theories:
+  - "[[Developmental State]]"
   - "[[Hegemony]]"
   - "[[Academic Capitalism]]"
 related_methods:
@@ -65,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 ---
@@ -76,7 +78,7 @@ updated: 2026-11-14
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种将全人类生存繁衍、经济互惠与文明共存视为高度相互依存有机整体的全球治理[[Epistemology|认识论]]构想。
 > - **用途** 帮助批判政策分析研究者解析国家如何将宏大的全球治理愿景转化为具体的公共政策行动框架，透视政策文本中道德正当性修辞与地缘战略利益之间的张力结构。
-> - **边界** 区别于基于西方普遍主义价值观的[[Cosmopolitanism|世界主义]]人权干预哲学，也区别于现实主义纯粹以国家利益为轴心的零和均势同盟；它立足于主权平等与发展型国家治理经验的跨国协同。
+> - **边界** 区别于基于西方普遍主义价值观的[[Cosmopolitanism|世界主义]]人权干预哲学，也区别于现实主义纯粹以国家利益为轴心的零和均势同盟；它立足于主权平等与[[Developmental State|发展型国家]]治理经验的跨国协同。
 
 > [!citation-card] 中国最高领导人论人类命运共同体
 > 国际社会应当同心协力，构建人类命运共同体。一带一路倡议旨在实现互利共赢与共享发展，正是这一共同体理念的具体实践与物质承载。中国致力于向全球治理贡献[[China Solution|中国智慧与中国方案]]。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 688, 691)]]
@@ -183,7 +185,7 @@ updated: 2026-11-14
 > | [[South-South Cooperation]] | 概念 | 人类命运共同体倡导的主权平等与发展中国家包容性互助的核心话语与实践模式。 |
 > | [[People-to-People Connectivity]] | 概念 | 共同体建设在社会文化维度推进民意基础与跨国理解的关键支柱。 |
 > | [[Knowledge Diplomacy]] | 概念 | 借助跨国高等教育、科研合作与[[Luban Workshop\|鲁班工坊]]输出命运共同体理念的知识外交载体。 |
-> | [[Washington Consensus]] | 概念 | 与人类命运共同体形成鲜明对照的西方新自由主义全球治理传统范式。 |
+> | [[Washington Consensus]] | 概念 | 与人类命运共同体形成鲜明对照的西方[[Neoliberalism\|新自由主义]]全球治理传统范式。 |
 > | [[Hegemony]] | 理论 | 批判学者用以解构跨国倡议背后的地缘战略利益与话语霸权建构的[[Theoretical Standpoint\|理论透镜]]。 |
 > | [[Discourse Analysis]] | 方法 | 解构政策文本中道德激励框架与地缘经济工具主义张力的质性分析方法。 |
 

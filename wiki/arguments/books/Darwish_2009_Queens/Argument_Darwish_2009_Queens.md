@@ -4,7 +4,7 @@ title: "Argument_Darwish_2009_Queens"
 argument_key: "Argument_Darwish_2009_Queens"
 argument_display_title: "Education as a political act: Dewey, Freire and the (International Baccalaureate) Theory of Knowledge curriculum (Master's thesis)"
 argument_kind: "books"
-argument_related_count: 65
+argument_related_count: 66
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -42,7 +42,7 @@ tags:
   - school-reform
   - constructivism
 created: 2026-07-28
-updated: 2026-11-15
+updated: 2026-11-19
 sources:
   - "[[books/Darwish_2009_Queens/Darwish_2009_Queens|Darwish_2009_Queens]]"
 related_concepts:
@@ -95,6 +95,7 @@ related_concepts:
   - "[[Epistemic Responsibility]]"
   - "[[Verbalism]]"
   - "[[Humility]]"
+  - "[[Neoliberalism]]"
   - "[[Open-Mindedness]]"
   - "[[Curriculum as Product]]"
   - "[[Positivism]]"
@@ -421,7 +422,7 @@ related_persons:
 > - **批判意识觉醒、打破沉默文化与实践（Praxis）**
 >   剖析压迫霸权在被压迫者心中制造的“[[Culture of Silence\|沉默文化]]”（Culture of Silence），指出[[Conscientization\|批判意识觉醒]]（Conscientização）要求个体确立[[Epistemic Responsibility\|认识论责任]]与道德责任；强调学习的最高形态是反思与变革行动高度统一的实践（Praxis），断言无行动的言语是空谈（[[Verbalism]]），无反思的操练是盲动（Activism） (pp. 48–51, pp. 61–63; Freire, 2000, p. 51, p. 87)。
 > - **横向对话的五大伦理基柱与有为干预型民主国家观**
->   阐明真正的对话必须建基在爱（Love）、[[Humility\|谦逊]]（Humility）、对人的信仰（Faith）、宽容（Tolerance）与相互信任（Mutual Trust）五大存在论前提之上；批判新自由主义放任资本积累的消极国家观，提出保障社会团结与公共教育权益的有为干预型民主国家理想 (pp. 58–60; Freire, 2000, pp. 89–92; Freire, 2004b, p. 24)。
+>   阐明真正的对话必须建基在爱（Love）、[[Humility\|谦逊]]（Humility）、对人的信仰（Faith）、宽容（Tolerance）与相互信任（Mutual Trust）五大存在论前提之上；批判[[Neoliberalism|新自由主义]]放任资本积累的消极国家观，提出保障社会团结与公共教育权益的有为干预型民主国家理想 (pp. 58–60; Freire, 2000, pp. 89–92; Freire, 2004b, p. 24)。
 
 ---
 

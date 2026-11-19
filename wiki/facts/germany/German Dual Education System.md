@@ -30,6 +30,7 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Apprenticeship]]"
   - "[[Market Failure]]"
+  - "[[Neoliberalism]]"
   - "[[Champ]]"
   - "[[General Education]]"
   - "[[Doctoral Dissertation]]"
@@ -37,7 +38,6 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Research Universities]]"
   - "[[Entrepreneurial University]]"
-  - "[[Refined Mastery]]"
   - "[[Institutional Complementarity]]"
   - "[[National Innovation System]]"
   - "[[Process Knowledge]]"
@@ -59,7 +59,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-06-05
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -76,7 +76,7 @@ updated: 2026-11-11
 ---
 
 > [!claim] 核心机制假说：三方协同克服技能形成[[Market Failure|市场失灵]]
-> 德国通过将国家公法规制、工会集体谈判与行业协会认证深度绑定，建立起风险共担与收益共享的三方协调机制，使私营企业愿意分担昂贵的前期培训成本，学徒愿意投入时间沉淀不可编码的默会工艺知识，从根本上阻断了新自由主义“低工资、低技能”恶性循环。[[Argument_Block_2008_PS|(Block, 2008, pp. 197–198)]]
+> 德国通过将国家公法规制、工会集体谈判与行业协会认证深度绑定，建立起风险共担与收益共享的三方协调机制，使私营企业愿意分担昂贵的前期培训成本，学徒愿意投入时间沉淀不可编码的默会工艺知识，从根本上阻断了[[Neoliberalism|新自由主义]]“低工资、低技能”恶性循环。[[Argument_Block_2008_PS|(Block, 2008, pp. 197–198)]]
 
 > [!policy-design] 方案设计与治理构架
 > - **双元[[Champ|场域]]（Dual Locations）** 学员身份兼具“学校学生”与“企业学徒”双重属性。通常每周 3–4 天在企业车间接受高级技师（Meister）的带徒实训，学习精密机床操作、工艺排障与装配技术；每周 1–2 天在职业学校接受专业理论与[[General Education|通识教育]]。
@@ -105,7 +105,7 @@ updated: 2026-11-11
 ---
 
 > [!finding-cards] 核心成效与产学双向收益
-> - **筑牢高端精密制造的微观工艺护城河** 双元制持续源源不断地为德国实体经济输送数以百万计[[Refined Mastery|精通]]机械加工、材料公差、原位排障的高阶技师，构成了德国中小型“隐形冠军”（Hidden Champions）在全球利基市场不可替代的核心[[Competitiveness|竞争力]]。
+> - **筑牢高端精密制造的微观工艺护城河** 双元制持续源源不断地为德国实体经济输送数以百万计精通机械加工、材料公差、原位排障的高阶技师，构成了德国中小型“隐形冠军”（Hidden Champions）在全球利基市场不可替代的核心[[Competitiveness|竞争力]]。
 > - **极低的青年失业率与平滑学校-工作转轨** 相比英美等国青年面临的技能脱节与漫长搜寻摩擦，德国青年在 16–19 岁即通过双元制进入企业带薪实训，毕业后直接进入正规就业市场，使德国青年失业率长期稳居[[EU|欧盟]]乃至[[OECD|经合组织]]（OECD）最低区间。
 > - **防范高技术产业空心化外流的制度防火墙** [[Fred Block|布洛克]]（[[Argument_Block_2008_PS|Block, 2008]]）论证指出，高技术制造不仅依赖科学家，更依赖大量掌握高级现场工艺的生产技工；由于缺乏类似德国三方机制的大规模技能投资，美国在平板显示等领域因技工供给不足被迫迁往亚洲，而德国完备的高技能产业工人生态有效锁定了高端制造业本体。[[Argument_Block_2008_PS|(Block, 2008, pp. 197–198)]]
 > - **[[Research Universities|研究型大学]]与应用技术大学的良性生态互补** 洪堡式[[Research Universities|研究型大学]]专注于前沿基础理论发现，应用技术大学专注于行业痛点攻坚与高阶技能实践，工科研究生深植工业现场，实现了从基础探索到终端制造的全谱系融通。

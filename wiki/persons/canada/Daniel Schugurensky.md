@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: canada
 person_region: "canada"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -26,6 +26,7 @@ tags:
   - region/canada
 related_concepts:
   - "[[Selective Affinity]]"
+  - "[[Neoliberalism]]"
   - "[[Policy Conditionalities]]"
   - "[[Doctoral Dissertation]]"
   - "[[Global Citizenship]]"
@@ -54,14 +55,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 阿根廷裔加拿大/美国著名比较教育学家与参与式民主学者，曾任加拿大多伦多大学安大略教育研究院（OISE/UT）教授，现任美国亚利桑那州立大学（Arizona State University）公共服务与社区发展学院教授。
-> - **核心角色** 高等教育政治经济学与参与式公民权研究先驱；率先提出了[[World Bank|世界银行]]与美国[[Business Roundtable|商业圆桌会]]在教育重塑中的“[[Selective Affinity|选择性亲和]]”（Elective Affinity）命题；深入剖析了新自由主义跨国金融机构如何通过[[Policy Conditionalities|贷款附加条件]]重构全球南方公立高等教育生态。
+> - **核心角色** 高等教育政治经济学与参与式公民权研究先驱；率先提出了[[World Bank|世界银行]]与美国[[Business Roundtable|商业圆桌会]]在教育重塑中的“[[Selective Affinity|选择性亲和]]”（Elective Affinity）命题；深入剖析了[[Neoliberalism|新自由主义]]跨国金融机构如何通过[[Policy Conditionalities|贷款附加条件]]重构全球南方公立高等教育生态。
 > - **代表贡献** 揭示世界银行与商业圆桌会在推行教育市场化改革中的意识形态共振（1994）；对阿根廷布宜诺斯艾利斯大学（UBA）重组开展具有深远影响的深度制度[[Case Study|案例研究]]；出版《[[Participatory Budgeting|参与式预算]]中的公民身份与地方治理》（2011）。
 
 > [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论舒古伦斯基的世行与商业圆桌会选择性亲和分析

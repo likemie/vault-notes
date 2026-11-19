@@ -7,7 +7,7 @@ aliases:
 summary: "比较教育政策社会学与新制度主义世界社会理论视阈下的宏观分析构念，指二战后在理性主义世界文化扩散下形成的将大规模标准化能力测验视为主权国家现代性与教育质量合法性先验标尺的跨国规范秩序。该文化以实证主义与方法论个体主义为本体论假定，崇尚学术技能竞争与新自由主义绩效问责；通过将参与跨国测评建构为国家现代化的仪式性义务，反向确立了 PISA 等跨国工具的规训合法性，并诱发了国家宏观政策修辞与学校日常实践之间深刻的制度脱节（Decoupling）。"
 type: concept
 domain: "comparative-education"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Transnational Education]]"
   - "[[Positivism]]"
+  - "[[Neoliberalism]]"
   - "[[Commensuration]]"
   - "[[Governing by Numbers]]"
   - "[[Evidence-Based Policy-Making]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-27
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -73,7 +74,7 @@ updated: 2026-11-11
 > - **边界** 聚焦于跨国规范层面的文化与制度环境，不等于具体的国家内部考试制度（National Examination System），亦不等于单纯的统计测量学技术（Psychometrics）。
 
 > [!citation-card] [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] 论全球考试文化的构成与合法性循环
-> 新进的研究立足梅耶的世界文化分析，尤为关注正在兴起的全球考试文化（global testing culture）如何促成了 PISA 合法性的获得。全球考试文化包含三部分核心内容：核心假设、价值观和文化模式。其核心假设是[[Positivism|实证主义]]和个体主义。在价值观方面，全球考试文化将教育视为基本人权，强调学术能力，信奉科学，分权以及新自由主义。全球考试文化的核心影响之一是高利益相关标准考试被看作是教育中的基本政策措施，而参加类似 PISA 的国际测验对于国家教育体制的合法地位至关重要，进而反向推动了全球考试文化的繁盛。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, p. 73)]]
+> 新进的研究立足梅耶的世界文化分析，尤为关注正在兴起的全球考试文化（global testing culture）如何促成了 PISA 合法性的获得。全球考试文化包含三部分核心内容：核心假设、价值观和文化模式。其核心假设是[[Positivism|实证主义]]和个体主义。在价值观方面，全球考试文化将教育视为基本人权，强调学术能力，信奉科学，分权以及[[Neoliberalism|新自由主义]]。全球考试文化的核心影响之一是高利益相关标准考试被看作是教育中的基本政策措施，而参加类似 PISA 的国际测验对于国家教育体制的合法地位至关重要，进而反向推动了全球考试文化的繁盛。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, p. 73)]]
 
 > [!boundary]- 概念边界
 > - 不等于国家考试传统（National Examination Tradition）——后者深植于具体民族国家的历史选拔制度（如中国[[Civil Service Examination|科举]]传统、法国高中会考 Baccalauréat、英国 A-Level），具有深厚的地方性文化黏性；全球考试文化则是去情境化的超国家标准化规范，追求跨国[[Commensuration|通约]]与跨系统排位。

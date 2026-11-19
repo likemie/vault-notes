@@ -6,7 +6,7 @@ aliases:
 summary: "Deleuze 提出的后规训权力理论，指以开放网络、算法持续调制和数据流动取代封闭机构模具规训的支配形态；在教育中表现为学习分析全程追踪、新管理主义全景监控与持续数据生产。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 22
+theory_related_count: 23
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -20,6 +20,7 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Neoliberalism]]"
   - "[[Critical Pedagogy]]"
   - "[[Learning Analytics]]"
   - "[[New Managerialism]]"
@@ -50,14 +51,14 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-19
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
 
 > [!theory-position] 理论定位
 > - **解释对象** 后规训时代权力支配技术的[[Paradigm|范式]]跃迁——从封闭机构内部的空间化肉体成型，转向基于开放网络、数字追踪与流动参数的无休止控制。
-> - **理论问题** 回应福柯（Michel Foucault）经典规训模型（以监狱、学校、工厂等封闭机构为核心）在面对去中心化信息技术、新自由主义企业化治理与算法社会时的解释力边界。
+> - **理论问题** 回应福柯（Michel Foucault）经典规训模型（以监狱、学校、工厂等封闭机构为核心）在面对去中心化信息技术、[[Neoliberalism|新自由主义]]企业化治理与算法社会时的解释力边界。
 > - **理论类型** [[Post-structuralism|后结构主义]]批判哲学、权力社会学与数字化治理[[Critical Theory|批判理论]]。
 > - **知识位置** 吉尔·德勒兹（Gilles Deleuze, 1992）基于威廉·巴勒斯（William S. Burroughs）的控制概念提出，既是对福柯规训理论的批判性继承与阶段性断代，也是当代[[Critical Pedagogy|批判教育学]]解构[[Learning Analytics|学习分析]]、数字绩效管理与[[New Managerialism|新管理主义]]的核心透镜。
 

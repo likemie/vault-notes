@@ -9,10 +9,10 @@ aliases:
 summary: "将教师薪酬与教学表现或测试产出挂钩的激励制度，新自由主义常视其为提升质量的手段，但面临跨国实证脱节、破坏合作文化及现场试验中遭教师强烈伦理抵制而流产等多重批判"
 type: concept
 domain: "educational-policy-reform"
-related_count: 49
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - performance-pay
   - merit-pay
@@ -22,6 +22,7 @@ tags:
   - metax
   - eef
 related_concepts:
+  - "[[Neoliberalism]]"
   - "[[Variable]]"
   - "[[Peer-Supported Learning]]"
   - "[[Educational Level]]"
@@ -80,11 +81,11 @@ related_instruments:
 confidence: high
 status: completed
 created: '2026-05-03'
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 > [!def] Performance Pay
-> 绩效工资（亦称 merit pay、payment by results、performance-related pay，简称 PRP）指将教师薪资报酬与其测量的教学表现或学生测试产出直接挂钩的制度安排。其核心假设是外在经济激励能够驱动教学质量提升与学生学业改进（[[Argument_Snook_2009_NZJES\|Snook et al., 2009, p. 103]]）。然而在教育治理实践中，该制度常演化为新自由主义问责的核心工具，不仅因测量指标失真、破坏专业合作生态以及缺乏跨国实证支撑而饱受批判（[[Argument_Grey_2018_CE\|Grey & Morris, 2018, pp. 116–118]]），更在严密设计的现场随机试验中因教师群体的强烈伦理抗议与内在专业动机冲突而遭遇招募流产（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 55]]）。
+> 绩效工资（亦称 merit pay、payment by results、performance-related pay，简称 PRP）指将教师薪资报酬与其测量的教学表现或学生测试产出直接挂钩的制度安排。其核心假设是外在经济激励能够驱动教学质量提升与学生学业改进（[[Argument_Snook_2009_NZJES\|Snook et al., 2009, p. 103]]）。然而在教育治理实践中，该制度常演化为[[Neoliberalism|新自由主义]]问责的核心工具，不仅因测量指标失真、破坏专业合作生态以及缺乏跨国实证支撑而饱受批判（[[Argument_Grey_2018_CE\|Grey & Morris, 2018, pp. 116–118]]），更在严密设计的现场随机试验中因教师群体的强烈伦理抗议与内在专业动机冲突而遭遇招募流产（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 55]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向将市场化计件逻辑与微观经济激励引入公共教育部门的薪酬再分配机制。

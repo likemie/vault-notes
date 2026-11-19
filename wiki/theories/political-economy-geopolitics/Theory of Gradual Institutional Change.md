@@ -8,7 +8,7 @@ aliases:
 summary: "历史制度主义的核心中观理论，由沃尔夫冈·施特雷克、凯瑟琳·希伦与詹姆斯·马奥尼先后奠定；突破传统间断均衡模型将制度视为静态稳态的偏误，将制度界定为具有权力分配后果的社会规制；基于成文规则与基层执行之间的内生缝隙，系统建构置换、分层、漂移、转换与耗竭五大变迁形态，并通过否决门槛、执行裁量权与微观行动者联盟动力学，解释常态历史时期的颠覆性质变。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 42
+theory_related_count: 43
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Institutional Conversion]]"
   - "[[Strategic Compliance]]"
   - "[[Zone of Discretion]]"
+  - "[[Neoliberalism]]"
   - "[[Research Question]]"
   - "[[Unit of Analysis]]"
 related_theories:
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-11
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -139,7 +140,7 @@ updated: 2026-11-15
 > 巴西军政府时期的激进卫生改革者作为颠覆者，表面服从威权行政体系，利用基层偏远地区的治理真空分层建立自治诊所网络，直至民主化转型时期顺势重塑了全国公立医疗体制。（示例：Falleti 巴西卫生改革案例，Mahoney & Thelen, 2009, pp. 26, 30–31）
 
 > [!theory-proposition] 命题五｜市场化[[Liberalization|自由化]]改革以渐进演进为低阻力推进的特权路径
-> 建立非市场化的集体规制制度，需要克服严重的搭便车困境，动员全社会克服阻力服从统一的呼吁逻辑（Voice）；而推进自由化改革只需向微观个体提供一个私有市场替代选项，行动者自利最大化的退出逻辑（Exit）便会自动瓦解既有集体制度。这种集体行动门槛的非对称性，使置换、分层、漂移、转换与耗竭五大机制成为当代西方资本主义国家深入推进新自由主义市场重塑的默认优势路径。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 31–34)]]
+> 建立非市场化的集体规制制度，需要克服严重的搭便车困境，动员全社会克服阻力服从统一的呼吁逻辑（Voice）；而推进自由化改革只需向微观个体提供一个私有市场替代选项，行动者自利最大化的退出逻辑（Exit）便会自动瓦解既有集体制度。这种集体行动门槛的非对称性，使置换、分层、漂移、转换与耗竭五大机制成为当代西方资本主义国家深入推进[[Neoliberalism|新自由主义]]市场重塑的默认优势路径。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 31–34)]]
 
 > [!example|notitle]
 > 美国反对公共养老金的保守派政客并未正面发起废除社会保障的立法决战，而是分层增设 401(k) 计划与个人退休账户（[[International Reading Association|IRA]]）；私人账户的爆炸性增长迅速吸引了中产阶级，通过市场退出机制顺水推舟地削弱了对公共社保的政治拥护。（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005, pp. 22–23]], 33）

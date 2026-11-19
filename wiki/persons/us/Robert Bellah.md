@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Civic Religion]]"
   - "[[Habitus]]"
+  - "[[Neoliberalism]]"
   - "[[Technological Republic]]"
   - "[[Soft Belief]]"
   - "[[Nationalism]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -88,7 +89,7 @@ updated: 2026-11-11
 
 > [!influence-path] 影响路径
 > - **宗教社会学与政治哲学路径** 开创了当代[[Civic Religion|公民宗教]]研究领域，推动社会学界由单纯研究教会建制转向探讨世俗政治秩序中的神圣象征与道德整合机制。
-> - **社群主义思想运动** 《心灵的习性》直接启发了 1980–1990 年代西方社群主义对新自由主义极端个人主义的系统反思。
+> - **社群主义思想运动** 《心灵的习性》直接启发了 1980–1990 年代西方社群主义对[[Neoliberalism|新自由主义]]极端个人主义的系统反思。
 > - **现代[[Technological Republic|技术共和国]]的文化道德资本重构** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《技术共和国》中借用贝拉概念，指出科技精英与现代政体必须重新珍视公民宗教遗产，以防止民主国家沦为纯粹的物质交易市场。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
 
 > [!evidence-grid-a] 相关研究索引

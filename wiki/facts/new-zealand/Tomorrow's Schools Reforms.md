@@ -9,7 +9,7 @@ subtype: policy
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "policy"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[School Autonomy]]"
   - "[[Epoché]]"
   - "[[Transnational Education]]"
+  - "[[Neoliberalism]]"
   - "[[Alienation]]"
   - "[[Network Governance]]"
   - "[[Effective Teaching]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-04'
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -111,7 +112,7 @@ updated: 2026-11-15
 > > [!axis] 学校自我管理自治 vs 结构性不平等加剧
 > > 围绕行政分权能否促进教育质量与社会公平，新西兰学界展开了长期论争。
 > >
-> > - **新自由主义分权倡导者** 认为撤销中央官僚层级能够增强学校对地方社区需求的响应度，促进学校间良性竞争并激发办学活力。
+> > - **[[Neoliberalism|新自由主义]]分权倡导者** 认为撤销中央官僚层级能够增强学校对地方社区需求的响应度，促进学校间良性竞争并激发办学活力。
 > > - **批判社会学学者** 批评单纯的行政管理调整完全避开了微观课堂教学，优势学区与薄弱学区的两极分化在市场竞争下进一步加剧，导致 87% 的学校面临经费短缺与过载的文书工作负担。[[Argument_Sarbiewska_2019_KiW|(Sarbiewska, 2019, p. 120)]]
 >
 > > [!axis] 公共支持服务竞争化 vs 利益输送与商业化[[Alienation|异化]]

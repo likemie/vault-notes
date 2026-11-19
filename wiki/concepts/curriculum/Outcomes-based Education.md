@@ -7,7 +7,7 @@ aliases:
 summary: "以学习结果为中心的课程设计范式，强调可测量的学习成果而非知识内容，在新西兰 2007 年课程和全球教育改革中广泛采用，近年受到社会实在论批评"
 type: concept
 domain: "curriculum"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Powerful Knowledge]]"
   - "[[Educated Identity]]"
   - "[[International Education]]"
+  - "[[Neoliberalism]]"
   - "[[Creativity]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Discourse]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-10-22
+updated: 2026-11-19
 ---
 
 ---
@@ -68,7 +69,7 @@ updated: 2026-10-22
 >
 > **[[IEA]] 研究时期**。结果变成了通过[[International Education\|国际教育]]成就评价协会（IEA）研究衡量教育效率。这一转变标志着从理解文化到衡量效率的转向。
 >
-> **[[PISA]] 时期（当代）**。PISA 进一步强化了效率测量的方向。当代的结果导向已从学术性的文化理解转向新自由主义经济定义下的效率测量。比较教育被掏空了学术理解的所有形式，成为效率运动的附属品([[Argument_Cowen_2023_CE\|Cowen, 2023, pp.333–334]])。
+> **[[PISA]] 时期（当代）**。PISA 进一步强化了效率测量的方向。当代的结果导向已从学术性的文化理解转向[[Neoliberalism|新自由主义]]经济定义下的效率测量。比较教育被掏空了学术理解的所有形式，成为效率运动的附属品([[Argument_Cowen_2023_CE\|Cowen, 2023, pp.333–334]])。
 >
 > **新西兰案例**。新西兰 2007 年课程是结果导向课程的典型代表，以广泛陈述的成就目标为特征，让学校和[[Teacher Choices\|教师选择]]与这些目标相关的内容。2021 年启动的课程改革（[[NZ Curriculum Refresh 2021-2026\|Te Mātaiaho]]）声称从结果导向课程转向进步导向课程，使用理解-知道-做（UKD）框架([[Argument_McPhail_2023_JCS\|McPhail et al., 2023]])。
 

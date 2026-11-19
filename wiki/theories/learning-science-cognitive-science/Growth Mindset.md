@@ -15,7 +15,7 @@ aliases:
 summary: "关于人类能力与智力可塑性的内隐认知信念系统，区分视智力为固定不变的天赋实体观（固定型思维）与视智力为可通过学习、努力与策略持续拓展的增量发展观（成长型思维），深层影响学业动机、面对失败的韧性、同伴文化的评价机制以及大规模现场干预的转化效度"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 40
+theory_related_count: 41
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Epistemic Responsibility]]"
   - "[[Self-Efficacy]]"
+  - "[[Neoliberalism]]"
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
@@ -76,7 +77,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-23
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 ---
@@ -216,7 +217,7 @@ updated: 2026-11-14
 >
 > > [!axis] 个体[[Epistemic Responsibility\|认知责任]]化 vs 结构性不平等的社会学遮蔽
 > > - **个体心理派** 强调个体在面对环境不利时具备通过认知重塑重构[[Self-Efficacy\|自我效能]]的能动性。
-> > - **社会批判派** 猛烈抨击成长型思维在政策实践中演变为新自由主义的心理治理技术：将学校阶级分层、师资劣质与家庭贫困的制度性病灶，移花接木为弱势孩子“思维不够积极”，导致教育不平等的归因个人化与受害者污名化。
+> > - **社会批判派** 猛烈抨击成长型思维在政策实践中演变为[[Neoliberalism|新自由主义]]的心理治理技术：将学校阶级分层、师资劣质与家庭贫困的制度性病灶，移花接木为弱势孩子“思维不够积极”，导致教育不平等的归因个人化与受害者污名化。
 
 ---
 

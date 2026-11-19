@@ -9,7 +9,7 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ tags:
 - level/k12
 related_concepts:
   - "[[School Autonomy]]"
+  - "[[Neoliberalism]]"
   - "[[New Public Management]]"
 related_theories: []
 related_methods: []
@@ -31,7 +32,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-10-22
+updated: 2026-11-19
 ---
 
 > [!info] 背景
@@ -50,7 +51,7 @@ updated: 2026-10-22
 > 报告影响了 1970s 至 2000 年间澳大利亚教育拨款的基本框架，确立了按需拨款原则。
 
 > [!success] 效果与评价
-> Keddie et al.（2020, IJLE, p.2）指出，[[School Autonomy\|学校自主权]]改革的意图和指导方针已从 Karmel Report 的参与式民主起源**根本转变**为今天的新自由主义版本——如"独立公立学校"（[[Independent Public Schools Western Australia\|IPS]]），借鉴的是效率与问责的新自由主义概念而非民主参与。这一转变体现了学校自主权概念在澳大利亚政策史中的"市场化转向"。
+> Keddie et al.（2020, IJLE, p.2）指出，[[School Autonomy\|学校自主权]]改革的意图和指导方针已从 Karmel Report 的参与式民主起源**根本转变**为今天的[[Neoliberalism|新自由主义]]版本——如"独立公立学校"（[[Independent Public Schools Western Australia\|IPS]]），借鉴的是效率与问责的新自由主义概念而非民主参与。这一转变体现了学校自主权概念在澳大利亚政策史中的"市场化转向"。
 
 > [!warning] 争议与评论
 > - **Gonski 改革被认为是回归 Karmel 原则的尝试** 2011/2018 年 Gonski 改革旨在返回 Karmel 报告 1973 年启动的需求本位拨款模型（Keddie et al., 2020, IJLE, p.11）

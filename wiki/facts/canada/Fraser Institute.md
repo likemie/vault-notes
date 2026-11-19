@@ -10,7 +10,7 @@ subtype: organization
 region: canada
 fact_region: "canada"
 fact_kind: "organization"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[School Choice]]"
   - "[[Quasi-market]]"
   - "[[Policy Network]]"
+  - "[[Neoliberalism]]"
   - "[[Transparency Bypass]]"
   - "[[School Vouchers]]"
   - "[[Charter Schools]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -62,7 +63,7 @@ updated: 2026-11-11
 ---
 
 > [!dev-timeline] 组织发展历程
-> - **1974–1990 年代 — 经济新自由主义阵地确立**
+> - **1974–1990 年代 — 经济[[Neoliberalism|新自由主义]]阵地确立**
 >
 >   系统译介哈耶克与弗里德曼思想，重点发布加拿大税收自由日（Tax Freedom Day）与政府开支审查报告，奠定保守派经济政策重镇地位。
 >

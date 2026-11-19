@@ -9,7 +9,7 @@ aliases:
 summary: "第三世界发展研究与国际政治经济学的重要批判理论流派，主张跨国大资产阶级与发展中国家本土统治阶级和管理资产阶级跨越国界结成支配同盟，解释了外围国家国家机器何以在外部跨国资本渗透与内部既得利益维护的双重合谋下推行阶级分化的教育与公共政策"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 12
+theory_related_count: 14
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Paradigm]]"
   - "[[Discourse]]"
+  - "[[Neoliberalism]]"
   - "[[Financial-Intellectual Complex]]"
 related_theories:
   - "[[Dependency Theory]]"
@@ -33,6 +34,7 @@ related_theories:
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Karl Marx]]"
   - "[[Liliana Esther Olmos]]"
   - "[[Atilio Borón]]"
 related_facts: []
@@ -41,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -60,7 +62,7 @@ updated: 2026-11-11
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 由理查德·斯克拉（Richard L. Sklar, 1976）在非洲与拉美企业实证研究中正式提出，并在大卫·贝克尔（David G. Becker）与斯克拉等学者合著的《后帝国主义：国际资本主义与跨国公司在第三世界》（*Postimperialism: International Capitalism and Development in the Late Twentieth Century*, 1987）中完成系统化建构。
 > - **原初问题** 20 世纪 70 年代跨国公司（TNCs）在第三世界迅猛扩张，本土精英并非单纯被动受害者，而是积极主动地入股、管理跨国投资并借此巩固国内阶级统治，这种跨国融合挑战了传统的国家中心主义依附模型。
-> - **理论资源与材料** 汲取马克思主义阶级分析、葛兰西的霸权同盟思想，结合赞比亚铜矿国有化与秘鲁跨国投资等丰富的发展中国家实证案例。
+> - **理论资源与材料** 汲取[[Karl Marx|马克思]]主义阶级分析、葛兰西的霸权同盟思想，结合赞比亚铜矿国有化与秘鲁跨国投资等丰富的发展中国家实证案例。
 > - **形成路径** 从“企业组织与跨国阶级形成”切入，提炼出“公司国际主义”（Corporate Internationalism）与“跨国管理阶级”[[Construct|构念]]，指出阶级利益的跨国整合超越了单一民族国家的地理界限。
 
 > [!dev-timeline] 理论版本与贡献
@@ -90,7 +92,7 @@ updated: 2026-11-11
 > 当国家统治阶级依附于跨国资本同盟时，国家公共政策必然呈现严重的阶级双轨性：在[[Discourse|话语]]上高喊全民现代化，在实践中推行使用者付费与私有化，致使大众对国家公共性产生根本怀疑。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
 
 > [!example|notitle]
-> 墨西哥与阿根廷等国在新自由主义结构调整期间，政府将国立大学重组为自负盈亏的市场主体，这一政策直接顺应了跨国投资对廉价专业劳动力的需求，却激化了本土青年与工农阶级的广泛抗争。
+> 墨西哥与阿根廷等国在[[Neoliberalism|新自由主义]]结构调整期间，政府将国立大学重组为自负盈亏的市场主体，这一政策直接顺应了跨国投资对廉价专业劳动力的需求，却激化了本土青年与工农阶级的广泛抗争。
 
 ---
 

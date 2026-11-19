@@ -12,7 +12,7 @@ subtype: event
 region: sweden
 fact_region: "sweden"
 fact_kind: "event"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -25,6 +25,7 @@ tags:
   - theme/pisa
 related_concepts:
   - "[[PISA Shock]]"
+  - "[[Neoliberalism]]"
   - "[[Effective Teaching]]"
   - "[[Academic Achievement]]"
   - "[[School Choice]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-27
-updated: 2026-10-30
+updated: 2026-11-19
 ---
 
 ---
@@ -59,7 +60,7 @@ updated: 2026-10-30
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 2013 年 12 月（PISA 2012 放榜）爆发，国家专项审查与立法重塑高潮持续至 2016 年前后，波及瑞典全国基础教育学校体系。
 > - **核心当事主体** 瑞典教育部、温和党领衔的中右翼四党执政联盟、反对党社会民主党、瑞典全国教育局（[[Swedish National Agency for Education|Skolverket]]）、[[Swedish Schools Inspectorate|瑞典学校督察局]]（Skolinspektionen）、全国教师工会以及大型营利性私立学校集团。
-> - **深层制度矛盾与市场化危机** 1990 年代初瑞典推行激进的新自由主义改革，将公立学校办学权完全下放至市镇地方自治体（Kommuner），并引入全国通用的教育学券制（Skolpeng），允许营利性私立自由学校（Friskolor）与公立学校在公共财政全额补贴下展开生源竞争。该模式曾被国际新自由主义智库奉为典范，但二十年的实践导致校际阶层分化急剧扩大、教师职业吸引力断崖式崩塌以及教学标准的碎片化。
+> - **深层制度矛盾与市场化危机** 1990 年代初瑞典推行激进的[[Neoliberalism|新自由主义]]改革，将公立学校办学权完全下放至市镇地方自治体（Kommuner），并引入全国通用的教育学券制（Skolpeng），允许营利性私立自由学校（Friskolor）与公立学校在公共财政全额补贴下展开生源竞争。该模式曾被国际新自由主义智库奉为典范，但二十年的实践导致校际阶层分化急剧扩大、教师职业吸引力断崖式崩塌以及教学标准的碎片化。
 > - **直接导火索 / 触发事件** PISA 2012 结果揭晓：瑞典数学成绩从 2000 年的 510 分跌至 478 分，阅读从 516 分跌至 483 分，科学从 512 分跌至 485 分；全学科跌破 OECD 均线，在 34 个 OECD 成员国中排名跌至第 28 位，成为所有参测国中相对衰退幅度最大的体系。
 
 ---

@@ -8,7 +8,7 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 12
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -26,11 +26,13 @@ related_concepts:
   - "[[Boundary Spanner]]"
   - "[[School Autonomy]]"
   - "[[New Public Management]]"
+  - "[[Neoliberalism]]"
 related_theories: []
 related_methods: []
 related_persons:
   - "[[David Gonski]]"
 related_facts:
+  - "[[Independent Schools Initiative]]"
   - "[[Gonski 2.0]]"
   - "[[Karmel Report]]"
   - "[[Social Ventures Australia]]"
@@ -39,13 +41,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-10-26
+updated: 2026-11-19
 ---
 
 > [!info] 背景
 > Gonski 改革是澳大利亚旨在通过**需求本位拨款（needs-based funding）** 实现更公平的教育资源配置的政策尝试，试图应对 2000 年以来联邦政府对非公立学校拨款规则改变所导致的日益加剧的系统性资源分配不公（Keddie et al., 2020, IJLE, p.2, 11）。
 >
-> 澳大利亚教育体系由三个部门组成：公立（65.7%学生）、天主教（19.5%）和独立学校（14.8%）。2000 年保守派联邦政府将非公立学校拨款改为基于邮政编码，导致富裕学校获得增加拨款；同时联邦政府从州政府撤回了本应分配给公立学校的生均拨款——这种"成本中性"政策促使许多有选择能力的家庭将子女转入非公立部门，使公立部门日益残余化（Keddie et al., 2020, IJLE, p.2）。
+> 澳大利亚教育体系由三个部门组成：公立（65.7%学生）、天主教（19.5%）和[[Independent Schools Initiative|独立学校]]（14.8%）。2000 年保守派联邦政府将非公立学校拨款改为基于邮政编码，导致富裕学校获得增加拨款；同时联邦政府从州政府撤回了本应分配给公立学校的生均拨款——这种"成本中性"政策促使许多有选择能力的家庭将子女转入非公立部门，使公立部门日益残余化（Keddie et al., 2020, IJLE, p.2）。
 
 > [!abstract] 政策文本摘要
 > Gonski 改革分两轮进行（Keddie et al., 2020, IJLE, p.2, 11）：
@@ -82,5 +84,5 @@ updated: 2026-10-26
 > [!example] 相关概念／理论
 > - [[School Autonomy]] — Gonski 改革在权力下放和学校自主权的背景下运作
 > - [[Karmel Report]] — Gonski 改革试图回归 Karmel 的需求本位拨款原则
-> - [[New Public Management]] — NPM 的市场逻辑与新自由主义拨款模式的关系
+> - [[New Public Management]] — NPM 的市场逻辑与[[Neoliberalism|新自由主义]]拨款模式的关系
 

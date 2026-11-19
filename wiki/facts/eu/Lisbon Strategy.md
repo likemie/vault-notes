@@ -11,7 +11,7 @@ subtype: event
 region: eu
 fact_region: "eu"
 fact_kind: "event"
-fact_related_count: 52
+fact_related_count: 53
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Student Mobility]]"
   - "[[Employability]]"
+  - "[[Neoliberalism]]"
   - "[[Data Infrastructure]]"
   - "[[Discursive Field]]"
   - "[[Soft Power]]"
@@ -84,7 +85,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-09
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -164,7 +165,7 @@ updated: 2026-11-18
 
 > [!debates] 史学评价与当代争议
 >
-> > [!axis] 超国家治理效能：循证政策学习 vs 新自由主义技术治理
+> > [!axis] 超国家治理效能：循证政策学习 vs [[Neoliberalism|新自由主义]]技术治理
 > > 肯定开放协调法的学者认为，该机制尊重了成员国宪制主权与体制多样性，通过科学数据与同行学习搭建了富有弹性的跨国沟通平台；批判性学者则指出，这一机制通过数字治理将教育降格为服务于全球资本竞争与[[Human Capital Theory|人力资本]]供给的工具，实质上建立了一种免于民主问责的技术官僚治理架构。
 > >
 > > - **功能主义与政策学习视角** 里斯本战略依托去立法的量化对标与同行评议，在维系国家主权的前提下成功激发了成员国跨国借鉴与政策反思的内生动力。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]

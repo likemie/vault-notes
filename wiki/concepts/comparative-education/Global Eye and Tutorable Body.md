@@ -9,7 +9,7 @@ aliases:
 summary: "比较教育政策社会学中将超国家层面的全景敞视监视与微观课堂身体规训相互贯通的核心概念框架。由安东尼奥·诺瓦等学者在福柯治理术与生命权力启发下提出，指以 PISA 为代表的跨国标准化测验构成了超越民族国家主权的“全球眼”，通过构建无国界的量化等价空间实施远距离凝视；这种宏观监视通过新自由主义自我技术与教育学控制，将学生身体塑造成高度自律、适应标准化测评姿势与解题技能的“受教身体”，实现了生命权力向微观主观性的跨尺度折叠。"
 type: concept
 domain: "comparative-education"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ tags:
   - theme/standardized-testing
 related_concepts:
   - "[[Transnational Education]]"
+  - "[[Neoliberalism]]"
   - "[[Center of Calculation]]"
   - "[[Self-control]]"
   - "[[Paradigm]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-27
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -64,7 +65,7 @@ updated: 2026-11-11
 > - **边界** 该概念聚焦于全景规训与权力运作，不适用于描述未被测验体系规制的自由非正式学习过程，亦不能替代关于学生认知发展的纯心理学描述。
 
 > [!citation-card] [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] 论全球眼与受教身体的微观政治
-> 福柯理论的应用帮助我们理解的主要则是“向内”的问题：[[PISA]] 所昭示的宏观治理结构的新自由主义转向对于个体行动者来说到底意味着什么？在福柯对社会各处规训权力的分析的启发下，PISA 被视为“全球眼”（global eye）的一种特殊形式，它是相对民族国家规训权“国家眼”（state eye）的补充。……当代治理比以往任何时候都更关注自我技术（technology of the self）。教育学的基本方法成为权力新技术的一个组成部分，该技术侧重于对可辅导身体（tutorable body）进行差别化处理，以提高其效用和合规性。这种技术默默地与建筑和组织安排结合：在学校有一个特定的空间顺序，它有了福柯所说的“不可抗拒的凝视”（gaze），从固定座位和监督写作的姿势与技术开始对身体进行每一分钟控制。PISA 及其所代表的考试则是这一系统重要的组成部分。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 73–74)]]
+> 福柯理论的应用帮助我们理解的主要则是“向内”的问题：[[PISA]] 所昭示的宏观治理结构的[[Neoliberalism|新自由主义]]转向对于个体行动者来说到底意味着什么？在福柯对社会各处规训权力的分析的启发下，PISA 被视为“全球眼”（global eye）的一种特殊形式，它是相对民族国家规训权“国家眼”（state eye）的补充。……当代治理比以往任何时候都更关注自我技术（technology of the self）。教育学的基本方法成为权力新技术的一个组成部分，该技术侧重于对可辅导身体（tutorable body）进行差别化处理，以提高其效用和合规性。这种技术默默地与建筑和组织安排结合：在学校有一个特定的空间顺序，它有了福柯所说的“不可抗拒的凝视”（gaze），从固定座位和监督写作的姿势与技术开始对身体进行每一分钟控制。PISA 及其所代表的考试则是这一系统重要的组成部分。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 73–74)]]
 
 ---
 

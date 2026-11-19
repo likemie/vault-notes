@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 16
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -26,6 +26,8 @@ tags:
   - theme/curriculum-standards
 related_concepts:
   - "[[Academic Freedom]]"
+  - "[[Teacher Qualifications]]"
+  - "[[Neoliberalism]]"
   - "[[Professional Judgment]]"
   - "[[Abstract]]"
   - "[[Learning Progression]]"
@@ -50,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-26
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -69,8 +71,8 @@ updated: 2026-11-15
 > [!dev-timeline] 组织发展历程
 > - **1916–1960 年 — 创设奠基与早期劳工维权** 芝加哥建会后迅速融入全美劳工运动大潮，积极倡导改善公立学校恶劣教学条件，争取女性教师同工同酬，并在二战期间强力支持教师[[Academic Freedom|学术自由]]。
 > - **1960–1974 年 — 纽约大罢工与集体谈判制度确立** 在阿尔伯特·香克（Albert Shanker）领导下，纽约市联合教师工会（UFT，AFT 核心分会）发起震撼全美的罢工浪潮，成功开创了公立教职人员集体谈判的法定先河，促使 AFT 会员规模爆发式增长。
-> - **1974–1997 年 — 香克时代的专业标准与教育卓越转型** 香克长期执掌 AFT 帅印期间，一改传统工会唯薪资论的刻板形象，开创性地提出“工会主导专业卓越”战略，率先支持制定全国统一的高学术标准与严格教师资格准入，为后来的国家标准运动铺平了思想土壤。
-> - **2008 年–至今 — 兰迪·温加滕执掌期与当代课程治理参与** 在时任主席兰迪·温加滕（Randi Weingarten）领导下，AFT 深度介入全美[[Common Core State Standards|共同核心州立标准]]（CCSS）方案设计与审读，积极动员一线教师参与标准技术推敲，同时坚决抵制新自由主义过度依赖高利害统考解聘教师的做法。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 15, 22–23)]]
+> - **1974–1997 年 — 香克时代的专业标准与教育卓越转型** 香克长期执掌 AFT 帅印期间，一改传统工会唯薪资论的刻板形象，开创性地提出“工会主导专业卓越”战略，率先支持制定全国统一的高学术标准与严格[[Teacher Qualifications|教师资格]]准入，为后来的国家标准运动铺平了思想土壤。
+> - **2008 年–至今 — 兰迪·温加滕执掌期与当代课程治理参与** 在时任主席兰迪·温加滕（Randi Weingarten）领导下，AFT 深度介入全美[[Common Core State Standards|共同核心州立标准]]（CCSS）方案设计与审读，积极动员一线教师参与标准技术推敲，同时坚决抵制[[Neoliberalism|新自由主义]]过度依赖高利害统考解聘教师的做法。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 15, 22–23)]]
 
 ---
 

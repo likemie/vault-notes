@@ -8,7 +8,7 @@ aliases:
 summary: "将国家建国历史、宪政原则、共同伦理理想与公共仪式升华为维系共同体凝聚力的世俗公共信仰体系。既植根于深层历史传统，又提供超越个人私利与市场功利的公共善追求，是维系民主共和国政治信任与长期生存的道德基石。"
 type: concept
 domain: "educational-philosophy"
-related_count: 17
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,9 +21,11 @@ tags:
 related_concepts:
   - "[[General Education]]"
   - "[[The Sublime]]"
+  - "[[Neoliberalism]]"
   - "[[Thick Belonging]]"
   - "[[Productization of the Mind]]"
   - "[[Canon Wars]]"
+  - "[[Alienation]]"
   - "[[Technological Republic]]"
   - "[[Geopolitics]]"
   - "[[Construct]]"
@@ -45,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 ---
@@ -70,7 +72,7 @@ updated: 2026-11-14
 
 > [!boundary]- 概念边界
 > - **不等于 宗派国教（Theocratic Established Religion）** — 宗派国教以超自然启示与强制信条为核心，排斥异教徒；公民宗教以宪政法治、公共理性和国家历史记忆为载体，向所有公民开放。
-> - **不等于 新自由主义程序国家（Minimalist Procedural State）** — 新自由主义消极国家仅将社会视为自由交易的市场集合；公民宗教主张共同体具有实质性的崇高抱负、道德牺牲与共有命运。
+> - **不等于 [[Neoliberalism|新自由主义]]程序国家（Minimalist Procedural State）** — 新自由主义消极国家仅将社会视为自由交易的市场集合；公民宗教主张共同体具有实质性的崇高抱负、道德牺牲与共有命运。
 
 ---
 
@@ -80,7 +82,7 @@ updated: 2026-11-14
 > | **终极权威** | 上帝、神圣启示与宗派教会经典 | 宪政原则、先贤立国理想与历史正典叙事 | 市场价格信号、法律程序与个人效用最大化 |
 > | **社会功能** | 提供死后救赎与微观道德禁戒 | 凝聚异质国民、塑造[[Thick Belonging\|丰厚归属感]]与公共献身意识 | 保障私人消极自由、降低交易摩擦成本 |
 > | **教育载体** | 宗教神学院与主日学教义灌输 | 大学通识文明必修课与国家纪念仪式 | 职业技能培训与[[Productization of the Mind\|心智产品化]]合规教育 |
-> | **现代危机** | 在启蒙世俗化与多元化浪潮中式微 | 在后现代解构与[[Canon Wars\|经典之争]]中被掏空沦为“断线气球” | 导致社会陷入原子化疏离、道德真空与认同危机 |
+> | **现代危机** | 在启蒙世俗化与多元化浪潮中式微 | 在后现代解构与[[Canon Wars\|经典之争]]中被掏空沦为“断线气球” | 导致社会陷入原子化[[Alienation\|疏离]]、道德真空与认同危机 |
 
 ---
 

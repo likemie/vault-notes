@@ -11,7 +11,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Subsidiarity Principle]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Paradigm]]"
+  - "[[Neoliberalism]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods: []
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-28
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -114,7 +115,7 @@ updated: 2026-11-11
 > > 争论聚焦于白皮书将教育全面纳入经济增长轨道，是否削弱了教育固有的文化与公民培育价值。
 > >
 > > - **欧盟委员会（1993）** 强调面对全球贸易竞争与高失业率，教育与培训必须主动重构以支撑经济增长模型，保障欧洲企业的竞争生存。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 483)]]
-> > - **批判学者与教育研究界** 指出白皮书开创了将教育降格为经济附庸的新自由主义范式，削弱了教育在公民培养、民主参与以及文化传承上的内生价值。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 483–484)]]
+> > - **批判学者与教育研究界** 指出白皮书开创了将教育降格为经济附庸的[[Neoliberalism|新自由主义]]范式，削弱了教育在公民培养、民主参与以及文化传承上的内生价值。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 483–484)]]
 
 > [!citation-card] 代表性评论
 > 在 1990 年代末，主要在欧洲就业与社会凝聚战略的背景下，一种关于教育角色的截然不同的话语认知逐渐成型。以往被许多欧洲政府视作福利体系危机一部分的教育，逐渐被转变为帮助欧洲人化解该危机的至关重要的制度要素。

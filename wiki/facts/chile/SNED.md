@@ -11,7 +11,7 @@ subtype: program
 region: "chile"
 fact_region: "chile"
 fact_kind: "program"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[School Choice]]"
   - "[[Grade Retention]]"
   - "[[New Public Management]]"
+  - "[[Neoliberalism]]"
   - "[[School Effectiveness]]"
   - "[[Test-Based Accountability]]"
   - "[[Institutional Layering]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-10-30
+updated: 2026-11-19
 ---
 
 ---
@@ -104,7 +105,7 @@ updated: 2026-10-30
 > - **校外改进服务采购率** 学校动用财政或自筹经费采购私营提分服务的比例。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 259)]]
 
 > [!finding-cards] 核心实证结论
-> - **[[New Public Management|新公共管理]]市场化的物质锚固** SNED 是新自由主义国家将外在测验数据转变为内在物质利害的关键制度纽带，使原本偏重家长[[School Choice|择校]]的“信息工具”演进为塑造基层教职行为的“奖惩工具”。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 255, 257)]]
+> - **[[New Public Management|新公共管理]]市场化的物质锚固** SNED 是[[Neoliberalism|新自由主义]]国家将外在测验数据转变为内在物质利害的关键制度纽带，使原本偏重家长[[School Choice|择校]]的“信息工具”演进为塑造基层教职行为的“奖惩工具”。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 255, 257)]]
 > - **集体激励保护校内专业协作** 避免了美国早期将奖金单一绑定到个体教师所引发的教研室恶性竞争，维持了学校内部教师同侪互助与集体教学研讨的组织土壤。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 257)]]
 > - **驱动学校改进服务商业化市场扩张** 由于获奖带来的丰厚奖金与社会声誉，许多学校将公共经费用于聘请外部营利性咨询机构开发教案和应试技巧，刺激了智利庞大的外部教育辅导产业的蓬勃发展。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 259)]]
 

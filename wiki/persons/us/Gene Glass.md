@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 38
+person_related_count: 39
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Postpositivism]]"
   - "[[Evidence-Based Education]]"
   - "[[Visible Learning]]"
+  - "[[Neoliberalism]]"
   - "[[Governing by Numbers]]"
   - "[[Positivism]]"
   - "[[Commensuration]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-06-08"
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 > [!person-profile] 人物档案
@@ -134,7 +135,7 @@ updated: 2026-11-15
 > - **理论路径** 确立了[[Empiricism|经验主义]]与[[Postpositivism|后实证主义]]多源[[Research Synthesis|证据综合]]的合法性，促使社会科学摆脱单一小样本研究的片面局限。
 > - **方法路径** 使[[Meta-analysis|元分析]]成为医学（如 Cochrane 协作网）与教育学（如 Campbell 协作网）的标准综合工具；Glass's $\Delta$ 奠定了跨量表标准化[[Effect Size|效应量]]的通用算法。
 > - **政策路径** 深刻启发了现代[[Evidence-Based Education|循证教育]]与政策证据库（如美国 [[What Works Clearinghouse|WWC]]、英国 [[Education Endowment Foundation|EEF]] 工具包及[[John Hattie|约翰·哈蒂]]的 [[Visible Learning]]）的建设。
-> - **批判性学术回响** 格拉斯关于图表与[[Heterogeneity|异质性]]的警示，成为当代批判性学者（如 Wrigley、Johnson & Janzen）反思新自由主义[[Governing by Numbers|数字治理]]与伪科学简单平均的核心思想武器。
+> - **批判性学术回响** 格拉斯关于图表与[[Heterogeneity|异质性]]的警示，成为当代批判性学者（如 Wrigley、Johnson & Janzen）反思[[Neoliberalism|新自由主义]][[Governing by Numbers|数字治理]]与伪科学简单平均的核心思想武器。
 
 > [!logic-map]- 格拉斯方法学思想与当代政策流变
 > ```mermaid

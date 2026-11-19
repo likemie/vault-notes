@@ -9,7 +9,7 @@ aliases:
 summary: "埃里克·曼格兹与马蒂厄·希尔格斯基于布迪厄场域理论构建的教育知识生产社会学分析框架。指出任何知识场域均受制于两套相互竞争的等级化原则：场域内部等级原则（学术自主极，追求知识内在价值、基础理论与同行承认）与场域外部等级原则（政治经济他律极，将知识视作服务于外部问责与经济增长的实用工具）。两套原则的力量对比决定了知识场域的相对自主性；PISA 的崛起标志着外部等级原则占据支配地位，导致学术知识生产日益从属于政治权力与新自由主义市场需求。"
 type: concept
 domain: "sociology-of-education"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Categorical Funding]]"
   - "[[Competitiveness]]"
   - "[[Operationalization]]"
+  - "[[Neoliberalism]]"
   - "[[Global Educational Policy Field]]"
   - "[[Learning Knowledge and Policy Knowledge]]"
   - "[[Governing by Numbers]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-27
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -92,7 +93,7 @@ updated: 2026-11-11
 
 > [!critique] 学理反思与适用边界
 > - **二元对立预设对混合研究实践的过度简化** 批评者指出，内部自主与外部他律在实践中存在广泛的动态交融；在当代教育研究中，许多学者在承接政府政策评估的同时，策略性利用实证数据推进理论创新与制度批判，展现出超越二元极化的能动调和。
-> - **对不同民族国家制度缓冲屏障的解释弹性** 该框架在高度集权或新自由主义主导的英美体系中解释力极强，但在保留较强国家科学（science d'État）传统或教授自治传统的国家（如法国、德国），内部学术权威对外部等级原则的抵御能力显著更强。
+> - **对不同民族国家制度缓冲屏障的解释弹性** 该框架在高度集权或[[Neoliberalism|新自由主义]]主导的英美体系中解释力极强，但在保留较强国家科学（science d'État）传统或教授自治传统的国家（如法国、德国），内部学术权威对外部等级原则的抵御能力显著更强。
 
 ---
 

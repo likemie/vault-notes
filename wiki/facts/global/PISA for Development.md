@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Grade Retention]]"
   - "[[Variable]]"
   - "[[Learning Crisis]]"
+  - "[[Neoliberalism]]"
   - "[[Policy Brokerage]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[Global Education Governing Complex]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -125,7 +126,7 @@ updated: 2026-11-11
 
 > [!debates] 核心争议
 >
-> > [!axis] 新自由主义规制帝国向全球南方的扩张 vs 本土自主知识主权
+> > [!axis] [[Neoliberalism|新自由主义]]规制帝国向全球南方的扩张 vs 本土自主知识主权
 > > 后殖民主义学者与比较教育批判学界对[[OECD\|经合组织]]的全球南方战略提出严厉谴责。
 > >
 > > - **批判学者（Takayama et al., 2017; Auld & Morris, 2019）** 抨击 [[PISA]]-D 是经合组织在传统西方富国市场饱和后推行的新殖民主义扩张工具；它诱骗财政窘迫的发展中国家承担巨额测验成本，将西方式标准化能力框架强加于正饱受营养不良与战乱侵扰的脆弱教育系统，实质是争夺南方的[[Policy Brokerage\|政策中介]]霸权。

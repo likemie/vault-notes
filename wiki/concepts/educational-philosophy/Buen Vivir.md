@@ -8,7 +8,7 @@ aliases:
 summary: "源自安第斯原住民宇宙观的生态伦理与整体繁荣哲学，强调人与自然（Pachamama）、跨代际社群及精神传统的互依和谐共生；在教育哲学与批判发展学中，构成解构西方人类中心主义、新自由主义人力资本论与单纯经济增长神话的核心替代范式。"
 type: concept
 domain: "educational-philosophy"
-related_count: 20
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,14 +26,16 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Ubuntu]]"
   - "[[Posthumanism]]"
+  - "[[Neoliberalism]]"
   - "[[Paradigm]]"
   - "[[Productization of the Mind]]"
   - "[[Alienation]]"
   - "[[The Right and the Good]]"
-  - "[[Document]]"
   - "[[Technological Agnosticism]]"
+  - "[[Document]]"
 related_theories:
   - "[[Human Capital Theory]]"
+  - "[[Critical Theory]]"
 related_methods: []
 related_instruments: []
 related_persons:
@@ -49,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-11-16
+updated: 2026-11-19
 ---
 
 ---
@@ -59,7 +61,7 @@ updated: 2026-11-16
 >
 > 在当代教育哲学、批判发展学与比较社会学中，Buen Vivir 展现出双重核心意涵：
 > 1. **反思[[Developmentalism|发展主义]]与经济至上论** 质疑以国内生产总值（GDP）增长、工业化与文凭商品化为尺度的西方现代化[[Discourse|话语]]，将生态系统的完整性与社群的日常再生产确立为衡量发展的根本坐标（Gudynas, 2011; Acosta, 2013）；
-> 2. **重塑教育的[[Ontology|本体论]]根基** 与非洲 [[Ubuntu]] 哲学和西方生态[[Posthumanism|后人类主义]]形成深度对话，解构新自由主义将教育窄化为[[Human Capital Theory|人力资本]]投资的功利[[Paradigm|范式]]，倡导一种培养生态共生敏感性与跨代际伦理责任的关怀教育[[Argument_Amos_2022_Springer|(Amos, 2022, pp. 64–65)]]。
+> 2. **重塑教育的[[Ontology|本体论]]根基** 与非洲 [[Ubuntu]] 哲学和西方生态[[Posthumanism|后人类主义]]形成深度对话，解构[[Neoliberalism|新自由主义]]将教育窄化为[[Human Capital Theory|人力资本]]投资的功利[[Paradigm|范式]]，倡导一种培养生态共生敏感性与跨代际伦理责任的关怀教育[[Argument_Amos_2022_Springer|(Amos, 2022, pp. 64–65)]]。
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 确立一种非人类中心主义、关系本体论（Relational Ontology）的美好生活形态，将人类自身定位为大自然生命之网中平等且负有照护责任的有机节点。
@@ -110,8 +112,8 @@ updated: 2026-11-16
 > [!contrast-table] 所有命题归纳
 > | 命题 | 核心论点 | 关键机制与依据 | 理论旨趣 |
 > |---|---|---|---|
-> | **命题一｜生态共生批判** | 批判人力资本论与心智产品化，主张教育应培育人与自然的互依感知 | 解构以国内生产总值与文凭商品化为尺度的现代化叙事，将生态共生作为教育本体（[[Argument_Amos_2022_Springer|Amos, 2022]]） | 破除教育功利主义与过度职业化 |
-> | **命题二｜实质伦理充实** | 克服程序正义的中立真空，为制度骨架注入美好生活的实质血肉 | 呼应赫勒对程序形式主义的批评，在公共领域重建值得追求的高贵与和谐生活（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]） | 抵御后现代价值虚无与技术不可知论 |
+> | **命题一｜生态共生批判** | 批判人力资本论与心智产品化，主张教育应培育人与自然的互依感知 | 解构以国内生产总值与文凭商品化为尺度的现代化叙事，将生态共生作为教育本体（[[Argument_Amos_2022_Springer\|Amos, 2022]]） | 破除教育功利主义与过度职业化 |
+> | **命题二｜实质伦理充实** | 克服程序正义的中立真空，为制度骨架注入美好生活的实质血肉 | 呼应赫勒对程序形式主义的批评，在公共领域重建值得追求的高贵与和谐生活（[[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska, 2025]]） | 抵御后现代价值虚无与[[Technological Agnosticism\|技术不可知论]] |
 
 ---
 
@@ -128,7 +130,7 @@ updated: 2026-11-16
 > [!dev-timeline] 概念演变
 > - **传统根基** — 安第斯原住民宇宙观中的 *Sumak Kawsay* 与 *Suma Qamaña*，确立人与大地母亲（*Pachamama*）的互惠共生伦理。
 > - **2008–2009** — 厄瓜多尔与玻利维亚将 Buen Vivir 载入国家宪法，首次在宪政层面赋予自然以法律主体权利。
-> - **2011–2013** — 古迪纳斯（Gudynas）与阿科斯塔（Acosta）等学者系统提炼生态批判理论，反思拉美左翼政权的新采掘主义局限。
+> - **2011–2013** — 古迪纳斯（Gudynas）与阿科斯塔（Acosta）等学者系统提炼生态[[Critical Theory|批判理论]]，反思拉美左翼政权的新采掘主义局限。
 > - **2022–2025** — [[Argument_Amos_2022_Springer|Amos (2022)]] 将其引入教育哲学，与后人类主义对话；[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] 将其置于当代政治伦理与技术哲学语境，对抗价值虚无。
 
 ---

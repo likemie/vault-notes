@@ -8,7 +8,7 @@ aliases:
 summary: "源自菲律宾本土心理学与原住民传统的互依关系哲学，核心指涉将他人视为与自我休戚与共的“共享内在自我”；在教育与区域治理中，主张通过扁平化、开放协商与共识构建对话化解新殖民等级制与内化自卑，确立包容互惠的社群合作伦理"
 type: concept
 domain: "educational-philosophy"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[ASEAN Way]]"
   - "[[Buen Vivir]]"
+  - "[[Neoliberalism]]"
   - "[[Epistemic Coloniality]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories:
@@ -136,7 +137,7 @@ updated: 2026-11-19
 > |:-----|:-----|:-----|
 > | [[Buen Vivir]] | Concept | 同属以关系本体论瓦解现代性个体主义的全球南方原住民生存哲学。 |
 > | [[Ubuntu]] | Concept | 在哲学本体层面高度呼应，皆主张在人际关怀与社群连结中确认自我。 |
-> | [[Sejahtera]] | Concept | 同为东南亚本土哲学支柱，协同构建抗击新自由主义高教治理的多元图景。 |
+> | [[Sejahtera]] | Concept | 同为东南亚本土哲学支柱，协同构建抗击[[Neoliberalism\|新自由主义]]高教治理的多元图景。 |
 > | [[Epistemic Coloniality]] | Concept | Kapwa 所致力消除的内化心理依附与学术等级合法性体系。 |
 > | [[ASEAN Way]] | Concept | 为提升东盟方式的实质合作深度、推动成员国跨梯队资源分享提供价值指引。 |
 > | [[Decolonial Geopolitics of Knowledge]] | Theory | Kapwa 构成南方[[Geopolitics of Knowledge\|知识地缘政治]]中重估原住民精神价值与交往理性的生动范例。 |

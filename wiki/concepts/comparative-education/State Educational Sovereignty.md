@@ -10,7 +10,7 @@ aliases:
 summary: "近代世俗民族国家在打破宗教神权与宗族私权中确立的最高教育管辖权与视察责任，主张教育属神圣国家公共资源。20世纪末以来，国家教育主权面临超国家测评治理、WTO/GATS经贸协定、影子国家外包与认识论基础设施微观数据互操作性的多重重塑，并在多层网络治理中转型为跨国软法测评、元标准互联与国内改革合法化共同维系的权力共享行使机制。"
 type: concept
 domain: "comparative-education"
-related_count: 70
+related_count: 73
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[The Sublime]]"
   - "[[Unit of Analysis]]"
   - "[[Intercultural Education]]"
+  - "[[Neoliberalism]]"
   - "[[Transnational Education]]"
   - "[[Competitiveness]]"
   - "[[Alienation]]"
@@ -52,10 +53,12 @@ related_concepts:
   - "[[Data Infrastructure]]"
   - "[[Academic Freedom]]"
   - "[[Technologies of Surveillance]]"
+  - "[[Tactical Marketisation]]"
 related_theories:
   - "[[Pluri-Scalar Governance]]"
   - "[[Human Capital Theory]]"
   - "[[Panopticism]]"
+  - "[[Developmental State]]"
 related_methods:
   - "[[Peer Debriefing]]"
   - "[[In-depth Interview]]"
@@ -101,7 +104,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -199,7 +202,7 @@ updated: 2026-11-18
 
 ---
 
-> [!concept-proposition] 命题四｜新自由主义经贸规制与非政府组织外包共同侵蚀了民族国家的教育主权与公共责任
+> [!concept-proposition] 命题四｜[[Neoliberalism|新自由主义]]经贸规制与非政府组织外包共同侵蚀了民族国家的教育主权与公共责任
 > **超国家穿透与[[Shadow State|影子国家]]外包双重侵蚀** 探讨全球化时代[[World Trade Organization|世贸组织]]经贸协定与民间组织外包如何深度穿透传统民族国家主权边界，导致国家公共调控责任严重流失。
 
 > [!claim] [[Robert Arnove|Arnove, R.]] and Robertson, S.
@@ -316,6 +319,6 @@ updated: 2026-11-18
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 结合福柯权力-规训理论揭示欧盟成员国如何推行“进取型政府间主义”，在表面维系宪制辅助性原则防线的同时，通过开放协调法与量化[[Technologies of Surveillance|监视技术]]主动将国家教育主权让渡于超国家全景敞视治理（pp. 481, 485–487, 492–493）。
 > - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 阐释在欧盟条约禁止法规协调的宪制约束下，超国家机构如何依托认识论基础设施（ESG、EQAR、DEQAR）实现跨国文凭自动互认，底层穿透并重塑传统国家教育主权。
 > - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — [[In-depth Interview|深度访谈]]三大国际组织的芬兰教育专家，揭示白人救世主心态对全球南方国家教育主权的侵蚀，辩护教育主权的不可让渡性。
-> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 阐明新加坡强发展型国家在面对全球化教育规制压力时，如何通过战术性全球化与远程操纵维系国家教育主权，在有限放权的同时牢固掌握核心课程与意识形态主导权。
+> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 阐明新加坡强[[Developmental State|发展型国家]]在面对全球化教育规制压力时，如何通过[[Tactical Marketisation|战术性全球化]]与远程操纵维系国家教育主权，在有限放权的同时牢固掌握核心课程与意识形态主导权。
 
 ---

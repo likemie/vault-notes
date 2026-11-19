@@ -23,6 +23,7 @@ tags:
   - policy-borrowing
   - source/journal-article
 related_concepts:
+  - "[[Neoliberalism]]"
   - "[[Theoretical Perspective]]"
   - "[[Methodological Nationalism]]"
   - "[[Commensuration]]"
@@ -84,6 +85,7 @@ related_concepts:
   - "[[Research Problem]]"
   - "[[Unit of Analysis]]"
   - "[[Epoché]]"
+  - "[[Aura]]"
   - "[[Epistemology]]"
   - "[[Scientism]]"
   - "[[Reliability]]"
@@ -117,6 +119,7 @@ related_persons:
   - "[[Niklas Luhmann]]"
   - "[[Bob Lingard]]"
   - "[[Norman Fairclough]]"
+  - "[[Karl Marx]]"
   - "[[Immanuel Wallerstein]]"
 related_facts:
   - "[[PISA]]"
@@ -142,16 +145,16 @@ sources:
 part_of:
 status: draft
 created: 2026-10-26
-updated: 2026-11-15
+updated: 2026-11-19
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Xie_Li_Huang_2021_GEO"
 argument_key: "Argument_Xie_Li_Huang_2021_GEO"
 argument_display_title: "全球药方还是特洛伊木马? PISA的教育政策效应批判——一份基于教育政策社会学视角的文献报告"
 argument_kind: "journal-article"
-argument_related_count: 109
-argument_related_level: 10
-argument_related_stars: "💎💎💎⭐"
+argument_related_count: 112
+argument_related_level: 11
+argument_related_stars: "💎💎💎⭐⭐"
 argument_related_color: "#fecdd3"
 journal: "Global Education Outlook"
 book_title: ""
@@ -162,7 +165,7 @@ issuing_organization: ""
 ---
 
 > [!question]
-> [[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）常被国际组织与部分受测国宣传为促进教育质量提升与教育公平的全球药方，同时遭遇批判学者关于其作为西方新自由主义渗透载体与特洛伊木马的强烈质疑。从教育政策社会学的[[Theoretical Perspective|理论视角]]出发，应当如何认识 PISA 作为跨国政策工具的治理本质？PISA 在全球范围内声誉日隆背后的历史体制条件是什么？为何各参测国在面对同一测评体系时呈现出跨国政策趋同与本土政策趋异并存的复杂景观？如何建构多层级机制模型以超越传统[[Methodological Nationalism|方法论民族主义]]与经验实在论的局限？
+> [[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）常被国际组织与部分受测国宣传为促进教育质量提升与教育公平的全球药方，同时遭遇批判学者关于其作为西方[[Neoliberalism|新自由主义]]渗透载体与特洛伊木马的强烈质疑。从教育政策社会学的[[Theoretical Perspective|理论视角]]出发，应当如何认识 PISA 作为跨国政策工具的治理本质？PISA 在全球范围内声誉日隆背后的历史体制条件是什么？为何各参测国在面对同一测评体系时呈现出跨国政策趋同与本土政策趋异并存的复杂景观？如何建构多层级机制模型以超越传统[[Methodological Nationalism|方法论民族主义]]与经验实在论的局限？
 
 > [!claim] 核心主张
 > PISA 本质上是[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD，简称经合组织）推行新自由主义议程与数目化软治理的跨国规制工具，依靠去背景化、[[Commensuration|通约]]性与政策导向三大技术机制构建跨国等价空间。在政策效应层面，各国的政策反应分化为制度改革蓝图与政治辩护工具的二元谱系；在因果机制层面，PISA 的影响由超国家组织的软治理与全球[[Epistemic Community|认知共同体]]、民族国家层面的[[Externalization|外部化]]压力与[[Reference Society|模范社会]]借用，以及国内行动者网络的[[Research Translation|知识转译]]与利益博弈三层系统交互塑造。理解这一过程需要整合[[World Society Theory|世界社会理论]]、[[Champ|场域]]与资本理论以及[[Governmentality|治理术]]理论，推动[[Paradigm|研究范式]]告别方法论[[Nationalism|民族主义]]与经验实在论，转向具有政治经济学深度与历史自觉的批判教育政策社会学。
@@ -463,7 +466,7 @@ issuing_organization: ""
 > | **[[Epistemic Stances\|认识论立场]]** | 实证主义[[Technical Rationality\|技术理性]]，信奉去背景化数据的普遍真理性 | 批判社会学视阈，关注数据背后的权力关系与价值偏见 |
 > | **核心[[Research Problem\|研究议题]]** | 测量学技术修补、跨国数据回归建模与因果效应估算 | 解构新自由主义问责制、模范社会借用与象征暴力再生产 |
 > | **理论渊源** | 新古典经济学、人力资本理论与心理测量学 | 世界社会理论、场域与资本理论、生命政治与治理术 |
-> | **实践导向** | 为国家决策提供循证处方与教育体系工程化改进方案 | 重拾马克思与卢森堡经典批判传统，揭示全球资本主义治理结构 |
+> | **实践导向** | 为国家决策提供循证处方与教育体系工程化改进方案 | 重拾[[Karl Marx\|马克思]]与卢森堡经典批判传统，揭示全球资本主义治理结构 |
 
 > [!warrant]- 步骤四推理桥梁：理论范式转型如何重构教育政策社会学的批判纵深
 > 告别方法论民族主义与经验实在论不仅是研究方法的微调，更是对社会科学本体论预设的根本革新。将[[Unit of Analysis|分析单元]]从封闭的民族国家容器解放至流动的多标度跨国场域，并把量化指标从客观自然镜像还原为各方意识形态与政治力量妥协建构的权力产物，才能彻底破除 PISA 作为中立全球药方的神话，恢复教育政策社会学直面全球资本主义权力再生产的批判品格。
@@ -492,7 +495,7 @@ issuing_organization: ""
 > [!citation-card] 政策系统自我参照与外部化借用机制（Schriewer, 2000）
 > 当公共政策系统内部面临政治合法性危机、党派严重撕裂或公众信任瓦解时，基于本土传统的自我参照已无法化解制度僵局。决策精英必然启动外部化策略，诉诸全球化语义，借助跨国比较数据的科学光环与模范社会树立改革不可避免性的权威依据。
 >
-> *When public policy systems face crises of political legitimacy, severe party polarization, or eroded public trust, internal self-referential mechanisms fail to resolve policy impasses. Decision-makers inevitably deploy externalization strategies, appealing to global semantics and using the scientific aura of cross-national comparative data and reference societies to legitimize inevitable domestic reforms.*
+> *When public policy systems face crises of political legitimacy, severe party polarization, or eroded public trust, internal self-referential mechanisms fail to resolve policy impasses. Decision-makers inevitably deploy externalization strategies, appealing to global semantics and using the scientific [[Aura|aura]] of cross-national comparative data and reference societies to legitimize inevitable domestic reforms.*
 
 > [!citation-card] 方法论民族主义在比较教育中的容器假设（Dale & Robertson, 2009）
 > 方法论民族主义盲目地将民族国家预设为社会科学分析的天然先验容器，把教育政策比较窄化为封闭领土单元之间的静态对抗，完全遮蔽了由超国家组织、跨国商业机构与地方学区在流动跨国空间中共同编织的多标度治理现实。

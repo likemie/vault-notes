@@ -8,10 +8,10 @@ aliases:
 summary: "指批判性反思与改造现实的行动之辩证统一，既是批判教育学中学习者打破压迫结构的行动准则，也是历史唯物主义融合冷面制度科学与炽热解放乌托邦的认识与行动哲学"
 type: concept
 domain: "educational-philosophy"
-related_count: 37
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 41
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - field/educational-philosophy
   - field/critical-pedagogy
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Culture of Silence]]"
   - "[[Epistemology]]"
+  - "[[Neoliberalism]]"
   - "[[Alienation]]"
   - "[[Verbalism]]"
   - "[[Creativity]]"
@@ -38,6 +39,7 @@ related_concepts:
   - "[[Pedagogical Subject]]"
   - "[[Educational Privatisation]]"
   - "[[Structural Adjustment Programs]]"
+  - "[[Poiesis]]"
   - "[[Paradigm]]"
   - "[[Reflexivity]]"
   - "[[Metacognition]]"
@@ -53,7 +55,9 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Paulo Freire]]"
+  - "[[Jean-Paul Sartre]]"
   - "[[Daniel Bensaïd]]"
+  - "[[Karl Marx]]"
   - "[[Aristotle]]"
   - "[[Liliana Esther Olmos]]"
   - "[[Carlos Alberto Torres]]"
@@ -64,17 +68,17 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-25
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
 
 > [!def] Praxis
-> 实践（Praxis / 实践哲学）在[[Critical Pedagogy|批判教育学]]与批判社会理论中，是指**批判性反思（Critical Reflection）与变革现实的自觉行动（Transformative Action）之间不可分割的辩证统一**。它拒斥将知识矮化为纯粹书斋式的经院思辨或技术官僚式的实用操作。在[[Paulo Freire\|弗莱雷]]（Paulo Freire）的解放教育学脉络中，实践是学习者突破“[[Culture of Silence|沉默文化]]”与实现人性化的唯一载体（[[Argument_Darwish_2009_Queens|Darwish, 2009, pp. 8, 10]]）；在安东尼奥·葛兰西（Antonio Gramsci）、让-保罗·萨特（Jean-Paul Sartre）与[[Daniel Bensaïd|丹尼尔·本赛德]]（Daniel Bensaïd）的马克思主义谱系中，实践哲学（Philosophy of Praxis）更进一步升华为一种将求实冷面的制度科学分析与炽热道德乌托邦融为一体、动员被压迫者建立广泛反抗联盟以重构国家与公共教育的总体性历史[[Epistemology|认识论]]（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009, pp. 76–77, 85]]）。
+> 实践（Praxis / 实践哲学）在[[Critical Pedagogy|批判教育学]]与批判社会理论中，是指**批判性反思（Critical Reflection）与变革现实的自觉行动（Transformative Action）之间不可分割的辩证统一**。它拒斥将知识矮化为纯粹书斋式的经院思辨或技术官僚式的实用操作。在[[Paulo Freire\|弗莱雷]]（Paulo Freire）的解放教育学脉络中，实践是学习者突破“[[Culture of Silence|沉默文化]]”与实现人性化的唯一载体（[[Argument_Darwish_2009_Queens|Darwish, 2009, pp. 8, 10]]）；在安东尼奥·葛兰西（Antonio Gramsci）、[[Jean-Paul Sartre|让-保罗·萨特]]（Jean-Paul Sartre）与[[Daniel Bensaïd|丹尼尔·本赛德]]（Daniel Bensaïd）的[[Karl Marx|马克思]]主义谱系中，实践哲学（Philosophy of Praxis）更进一步升华为一种将求实冷面的制度科学分析与炽热道德乌托邦融为一体、动员被压迫者建立广泛反抗联盟以重构国家与公共教育的总体性历史[[Epistemology|认识论]]（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009, pp. 76–77, 85]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 强调人类对世界的认识必须在具体的社会历史实践中生成、检验与发展；思维的真理性本质上是一个实践问题而非经院哲学争论。
-> - **用途** 帮助研究者透视教育过程是否真正赋权于学习者与教师，区分工具性技能灌输与解放性行动反思，并为抵制新自由主义市场[[Alienation|异化]]提供理论与组织方案。
+> - **用途** 帮助研究者透视教育过程是否真正赋权于学习者与教师，区分工具性技能灌输与解放性行动反思，并为抵制[[Neoliberalism|新自由主义]]市场[[Alienation|异化]]提供理论与组织方案。
 > - **边界** 实践不等于单纯的经验活动（Experience）或常规操作（Practice），更不等于没有反思的盲动（Activism）或缺乏行动的纯粹反思（[[Verbalism]]）。
 
 > [!citation-card] 萨特论哲学生命力与实践的不可逾越性
@@ -159,7 +163,7 @@ updated: 2026-11-15
 ---
 
 > [!dev-timeline] 实践[[Construct|构念]]的思想史流变
-> - **公元前 4 世纪 — [[Aristotle|亚里士多德]]奠基** 区分理论（Theoria）、创制（Poiesis）与实践（Praxis），将实践定义为以自身为目的的伦理与政治城邦活动。
+> - **公元前 4 世纪 — [[Aristotle|亚里士多德]]奠基** 区分理论（Theoria）、创制（[[Poiesis]]）与实践（Praxis），将实践定义为以自身为目的的伦理与政治城邦活动。
 > - **1845 年 — 马克思确立辩证唯物主义实践观** 在《关于费尔巴哈的提纲》中提出“哲学家们只是用不同的方式解释世界，而问题在于改变世界”，确立了实践作为认识与检验真理的唯一标准。
 > - **1930s — 葛兰西提出实践哲学** 在《狱中[[Memos|札记]]》中用“实践哲学”（Filosofia della praxis）阐释历史唯物主义，强调文化领导权与有机知识分子的实践中介作用。
 > - **1960s — 萨特捍卫不可逾越的地平线** 萨特在《方法论问题》中论证：只要产生它的实践基础未被消灭，马克思主义实践哲学就是时代不可逾越的最高地平线。

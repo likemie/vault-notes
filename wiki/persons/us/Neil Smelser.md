@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 11
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ tags:
   - region/us
 related_concepts:
   - "[[Permeable State]]"
+  - "[[Neoliberalism]]"
   - "[[Unit of Analysis]]"
   - "[[Construct]]"
 related_theories:
@@ -36,6 +37,7 @@ related_instruments: []
 related_persons:
   - "[[Talcott Parsons]]"
   - "[[Liliana Esther Olmos]]"
+  - "[[Alexandre de Rhodes]]"
   - "[[David Held]]"
   - "[[Carlos Alberto Torres]]"
 related_facts:
@@ -45,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-22
+updated: 2026-11-19
 ---
 
 ---
@@ -64,10 +66,10 @@ updated: 2026-10-22
 
 > [!timeline] 生平与职涯
 > - **1930** 出生于美国密苏里州卡霍卡。
-> - **1952–1958** 先后在哈佛大学与牛津大学求学（罗德学者），在哈佛师从[[Talcott Parsons|塔尔科特·帕森斯]]，28 岁即与帕森斯合著出版《经济与社会》（*Economy and Society*）。
+> - **1952–1958** 先后在哈佛大学与牛津大学求学（[[Alexandre de Rhodes|罗德]]学者），在哈佛师从[[Talcott Parsons|塔尔科特·帕森斯]]，28 岁即与帕森斯合著出版《经济与社会》（*Economy and Society*）。
 > - **1958–1994** 执教于加州大学伯克利分校社会学系，历任伯克利分校助理副校长，并于 1972 年荣膺大学教授（University Professor，加州大学系统最高学术荣誉）。
 > - **1962** 出版社会运动与大众心理学里程碑著作《集体行为理论》（*Theory of Collective Behavior*）。
-> - **1994–1998** 当选并出任国际社会学会（[[International Schools Association|ISA]]）主席，任内积极推动全球社会学在面对新自由主义全球化时的主题重构。
+> - **1994–1998** 当选并出任国际社会学会（[[International Schools Association|ISA]]）主席，任内积极推动全球社会学在面对[[Neoliberalism|新自由主义]]全球化时的主题重构。
 > - **1994–2001** 出任斯坦福大学行为科学高级研究中心（CASBS）主任。
 > - **2017** 病逝于美国加州伯克利，享年 87 岁。
 

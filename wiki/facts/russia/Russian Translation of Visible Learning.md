@@ -10,7 +10,7 @@ subtype: event
 region: russia
 fact_region: "russia"
 fact_kind: "event"
-fact_related_count: 33
+fact_related_count: 34
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#fef3c7"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Alienation]]"
   - "[[Performance Indicators]]"
   - "[[Discourse]]"
+  - "[[Neoliberalism]]"
   - "[[Ecological Validity]]"
   - "[[Normal School]]"
   - "[[Homophily]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -118,7 +119,7 @@ updated: 2026-11-15
 > | 核心价值[[Discourse\|话语]] | 科学有效性 / [[Effect Size\|效应量]]实证基准 / [[Critical Thinking\|批判性思维]]培养 | 文化匹配度 / 警惕去专业化 / 拒绝官僚形式主义与制度陷阱 |
 > | 政策推进行径 | 教师培训宣讲 / 学术书评推介 / 推动以[[Meta-analysis\|元分析]]评估课改 | 变差系数数理检验 / 揭示西方学术批评 / 一线教师负荷实证调研 |
 >
-> **关键分歧** 究竟是将 Hattie 的数据指标视作客观放之四海而皆准的科学真理直接借用，还是视作隐藏着新自由主义监控逻辑、对本土教师生态具有高度破坏性的异质话语。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 231, 238–241)]]
+> **关键分歧** 究竟是将 Hattie 的数据指标视作客观放之四海而皆准的科学真理直接借用，还是视作隐藏着[[Neoliberalism|新自由主义]]监控逻辑、对本土教师生态具有高度破坏性的异质话语。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 231, 238–241)]]
 
 ---
 

@@ -10,7 +10,7 @@ aliases:
 summary: "发生在传统学校课堂之外、具有自愿性与情境化的科学学习形态，涵盖科技馆、探索中心与公民科学。既是维系公民科学素养的文化基建，也是国家微电子等战略产业开展早期启蒙、破除认知盲区并培育多元人才池的先导阵地。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 37
+related_count: 39
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -35,9 +35,11 @@ related_concepts:
   - "[[Self-Efficacy]]"
   - "[[Lifelong Learning]]"
   - "[[STEM Education]]"
+  - "[[Alienation]]"
   - "[[Socioeconomic Status]]"
   - "[[Praxis]]"
   - "[[Document]]"
+  - "[[Neoliberalism]]"
   - "[[Engineering Education]]"
   - "[[Apprenticeship]]"
   - "[[Curiosity-Driven Research]]"
@@ -65,7 +67,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -124,7 +126,7 @@ updated: 2026-11-11
 > **基础设施定位与公共品属性** 科学参与不仅是教育部门的内部事务，更是与公共图书馆、城市绿地和艺术场馆并列的核心公共品。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|The Royal Society (2026, pp. 48, 52)]]
-> **社会文化基础设施定位与制度性保障** 科学探索中心、博物馆、科学节与在地化社区项目共同构成了区域创新与社会凝聚的文化网络；若任由其在财政紧缩与运营成本激增中萎缩，将不可逆地加剧边缘社区的文化排斥与科学疏离。国家必须在政府采购中纳入 10% 社会价值条款，并落实比照文化艺术部门同等的财税激励平权。
+> **社会文化基础设施定位与制度性保障** 科学探索中心、博物馆、科学节与在地化社区项目共同构成了区域创新与社会凝聚的文化网络；若任由其在财政紧缩与运营成本激增中萎缩，将不可逆地加剧边缘社区的文化排斥与科学[[Alienation|疏离]]。国家必须在政府采购中纳入 10% 社会价值条款，并落实比照文化艺术部门同等的财税激励平权。
 
 ---
 
@@ -166,7 +168,7 @@ updated: 2026-11-11
 >
 > > [!axis] 公益普惠公共品 vs 商业化自选特权
 > > 非正式科学场馆究竟是面向全体公民的普惠基建，还是沦为中产阶层家庭的自选消费特权？
-> > - **新自由主义市场化导向** 削减政府经常性补贴，逼迫场馆提高门票以自负盈亏，导致工薪与弱势群体被经济门槛阻隔在外。
+> > - **[[Neoliberalism|新自由主义]]市场化导向** 削减政府经常性补贴，逼迫场馆提高门票以自负盈亏，导致工薪与弱势群体被经济门槛阻隔在外。
 > > - **社会文化基建主张与[[The Royal Society|皇家学会]]建议四** 强调国家财政必须兜底经常性运营，通过税收抵免与政府采购补贴维持场馆普惠开放。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, p. 52)]]
 >
 > > [!axis] 短期即时成效 vs 全生命周期累积

@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: france
 person_region: "france"
-person_related_count: 31
+person_related_count: 33
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -36,10 +36,12 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Knowledge Mediation]]"
   - "[[Evidence-Based Education]]"
+  - "[[Mimesis]]"
   - "[[Procedural Knowledge]]"
   - "[[National Innovation System]]"
   - "[[Social Imaginary]]"
   - "[[Democratic Education]]"
+  - "[[Neoliberalism]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Intellectual Capital]]"
   - "[[Academic Freedom]]"
@@ -66,7 +68,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -101,7 +103,7 @@ updated: 2026-11-15
 >   - **代表著作** 《知识经济学》（*The Economics of Knowledge*, MIT Press, 2004）；《学习型社会的知识管理》（OECD/CERI, 2000）。
 >   - **关键概念／方法** [[Knowledge Mediation|知识中介]]、知识池（Knowledge Pools）、[[Evidence-Based Education|循证教育]]实践。
 >   - **阶段转向** 深入教育学内部，推动学校教育向研发密集型专业实践看齐。
-> - **2010 年代至今 — 智能专门化与区域创新突破期** 回应[[EU|欧盟]]区域创新政策分散低效的困境，提出“智能专门化”（Smart Specialisation）理论，强调地区不应盲目模仿硅谷，而应基于自身独特的比较优势与[[Tacit Knowledge|默会知识]]储备开展“企业家式发现”。
+> - **2010 年代至今 — 智能专门化与区域创新突破期** 回应[[EU|欧盟]]区域创新政策分散低效的困境，提出“智能专门化”（Smart Specialisation）理论，强调地区不应盲目[[Mimesis|模仿]]硅谷，而应基于自身独特的比较优势与[[Tacit Knowledge|默会知识]]储备开展“企业家式发现”。
 >   - **代表著作** 《智能专门化：区域创新政策的机遇与挑战》（*Smart Specialisation*, 2014）。
 >   - **关键概念／方法** 智能专门化（S3）、企业家式发现过程（EDP）。
 >   - **阶段转向** 将知识经济微观机制直接转化为影响万亿欧元公共基金的超国家产业创新政策实践。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 26–27)]]
@@ -132,7 +134,7 @@ updated: 2026-11-15
 > [!person-network] 关系网络
 > - **合作者／思想盟友** [[Bengt-Åke Lundvall]] — 丹麦阿尔堡学派领军人物，共同主编 [[OECD]] 1996 年奠基报告并提出“学习型经济”理论。
 > - **学术合作者** 内森·罗森伯格（Nathan Rosenberg）、保罗·戴维（Paul A. David） — 斯坦福大学著名经济史学家与创新学者，长期共同探讨技术扩散与科学政策。
-> - **批判分析者** [[Fazal Rizvi]]、[[Bob Lingard]] — 揭示其学习型经济理论虽具有深刻洞察，但在被国际组织采纳后沦为压制人本主义[[Democratic Education|民主教育]]、推行新自由主义技能[[Pragmatic Paradigm|实用主义]]的理论工具。
+> - **批判分析者** [[Fazal Rizvi]]、[[Bob Lingard]] — 揭示其学习型经济理论虽具有深刻洞察，但在被国际组织采纳后沦为压制人本主义[[Democratic Education|民主教育]]、推行[[Neoliberalism|新自由主义]]技能[[Pragmatic Paradigm|实用主义]]的理论工具。
 
 ---
 

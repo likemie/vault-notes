@@ -7,7 +7,7 @@ title: "Argument_Johnson_2023_CritEduc"
 argument_key: "Argument_Johnson_2023_CritEduc"
 argument_display_title: "Leading the blind: A critical look at Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 55
+argument_related_count: 57
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -34,6 +34,7 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Cargo Cult Science]]"
+  - "[[Neoliberalism]]"
   - "[[Neo-Taylorism]]"
   - "[[Falsification]]"
   - "[[Performativity]]"
@@ -77,6 +78,7 @@ related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
 related_persons:
   - "[[John Hattie]]"
+  - "[[Charles Taylor]]"
   - "[[Stephen Ball]]"
   - "[[Pasi Sahlberg]]"
   - "[[Gene Glass]]"
@@ -98,7 +100,7 @@ sources:
 part_of: ""
 status: draft
 created: "2026-05-04"
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 ---
 
@@ -106,7 +108,7 @@ updated: 2026-11-15
 > [[John Hattie|约翰·哈蒂]]（John Hattie）于 2008 年底出版的畅销著作《[[Visible Learning|可见的学习]]》（*Visible Learning*，简称 VL）声称通过综合 800 多项[[Meta-analysis|元分析]]破解了教学成效密码，并在全球范围内演化为一个庞大的商业专营品牌与政策指导纲领。该著作及其衍生产品在统计学方法、学术立场、经济利益驱动与科学哲学本质上的真实根基究竟是什么？
 
 > [!claim] 核心主张
-> 《[[Visible Learning|可见的学习]]》并非客观严谨的实证科学，而是披着科学外衣的[[Cargo Cult Science|货物崇拜科学]]（Cargo Cult Science）；其本质植根于简化论的新自由主义意识形态，通过隐藏公式的简单算术平均对教育实践实施数字霸凌，借助[[Neo-Taylorism|新泰勒主义]]监视将教师贬低为流水线操作工，并与商业咨询资本紧密结盟，为政府削减教育经费、推卸公共责任提供实证借口。
+> 《[[Visible Learning|可见的学习]]》并非客观严谨的实证科学，而是披着科学外衣的[[Cargo Cult Science|货物崇拜科学]]（Cargo Cult Science）；其本质植根于简化论的[[Neoliberalism|新自由主义意识形态]]，通过隐藏公式的简单算术平均对教育实践实施数字霸凌，借助[[Neo-Taylorism|新泰勒主义]]监视将教师贬低为流水线操作工，并与商业咨询资本紧密结盟，为政府削减教育经费、推卸公共责任提供实证借口。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 《[[Visible Learning|可见的学习]]》原著及其商业化体系，包括 Visible Learning+ 品牌、[[Corwin Press|考文出版社]]（Corwin Press）、Metax 数据库与各级认证培训。
@@ -119,7 +121,7 @@ updated: 2026-11-15
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **[[Cargo Cult Science\|货物崇拜科学（Cargo Cult Science）]]** | 借用物理学家理查德·费曼（Richard Feynman）的科学哲学诊断，揭示 VL 虽具图表、海量文献与[[Effect Size\|效应量]]等科学外观，却缺乏科学家竭尽全力证明自己可能出错的诚实与严谨品格。 |
-> | **[[Neo-Taylorism\|新泰勒主义（Neo-Taylorism）]]** | 承接弗雷德里克·温斯洛·泰勒（Frederick Winslow Taylor）的工业科学管理逻辑，将复杂的育人活动拆解为可度量的技术清单，把劳动控制权从一线教师转移至管理层与数据系统。 |
+> | **[[Neo-Taylorism\|新泰勒主义（Neo-Taylorism）]]** | 承接弗雷德里克·温斯洛·[[Charles Taylor\|泰勒]]（Frederick Winslow Taylor）的工业科学管理逻辑，将复杂的育人活动拆解为可度量的技术清单，把劳动控制权从一线教师转移至管理层与数据系统。 |
 > | **[[Panopticism\|全景监视理论（Panopticism）]]** | 结合米歇尔·福柯（Michel Foucault）关于全景敞视的论述，剖析哈蒂主持开发的[[Assessment Tools for Teaching and Learning\|教学与学习评估工具]]（Assessment Tools for Teaching and Learning, asTTle）系统如何将教师置于随时被观察与被考核的状态。 |
 > | **[[Performativity\|表演性（Performativity）]]** | 采用学者[[Stephen Ball\|斯蒂芬·鲍尔]]（Stephen Ball）的规训概念，分析教师价值如何被简化为可度量的指标，迫使日常教学演变为迎合外部审查的技术表演。 |
 > | **[[Global Education Reform Movement\|全球教育改革运动（Global Education Reform Movement, GERM）]]** | 借用[[Pasi Sahlberg\|帕西·萨尔伯格（Pasi Sahlberg）]]的[[Analytic Framework\|分析框架]]，揭示 VL 如何迎合新自由主义削减公共开支、强化标准化问责与推进服务外包的治理取向。 |

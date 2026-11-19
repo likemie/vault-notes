@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 32
+person_related_count: 33
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Ontology]]"
+  - "[[Neoliberalism]]"
   - "[[Discourse]]"
   - "[[Scientific Method]]"
   - "[[Evidence-Based Reform]]"
@@ -64,7 +65,7 @@ related_facts:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 > [!person-profile] 人物档案
@@ -90,7 +91,7 @@ updated: 2026-11-11
 >
 > 2. **[[Critical Realism\|批判实在论]]视角** Wrigley 引入 Bhaskar 的三层[[Ontology\|本体论]]（real / actual / empirical）论证 EBE 的方法论停留在"经验层"观察规则性，未能深入"真实层"寻找因果机制。教育是开放系统，规律性只在人为封闭的条件下才出现。
 >
-> 3. **新自由主义框架分析** Wrigley 将 EBE 的兴起置于新自由主义政策框架中——"什么有效"的[[Discourse|话语]]通过技术中立的外表抹除教育目的和价值问题，使教师被去专业化。
+> 3. **[[Neoliberalism|新自由主义]]框架分析** Wrigley 将 EBE 的兴起置于新自由主义政策框架中——"什么有效"的[[Discourse|话语]]通过技术中立的外表抹除教育目的和价值问题，使教师被去专业化。
 >
 > > "The sloganistic 'what works' reflects a neoliberal demand to extract maximum efficiency from education, while marginalising the qualitative and political [[Dimensions|dimensions]] of human formation." ([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 13]])
 >

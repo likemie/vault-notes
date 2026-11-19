@@ -8,7 +8,7 @@ aliases:
 summary: "将学生的学业成就差距与生活机会不平等简化为纯粹校内教学安排或教师效能的技术主义认识论倾向，通过剥离家庭阶级、物质贫困与社区环境等非学校结构性变量，客观上为政策制定者回避深层社会经济治理责任提供免责便利。"
 type: concept
 domain: "sociology-of-education"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Performance Pay]]"
   - "[[Socioeconomic Status]]"
+  - "[[Neoliberalism]]"
   - "[[New Managerialism]]"
   - "[[Visible Learning]]"
   - "[[Document]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-18
-updated: 2026-11-03
+updated: 2026-11-19
 ---
 
 ---
@@ -116,7 +117,7 @@ updated: 2026-11-03
 > **政策治理与政治免责机制** 探讨去语境化的实证结论如何被政策官僚挪用，充当回避深层财富再分配与脱贫治理责任的合法化工具。
 
 > [!claim] Grace, G.
-> **转移宏观改革注意力的政策庇护** 格雷斯指出，教育还原主义极其契合新自由主义政府削减公共开支的政治诉求；它诱导公众相信无需推行再分配与脱贫改革即可实现教育平等，客观上充当了政策制定者逃避根本性社会治理责任的免责工具。[[Argument_Grace_2010_NZJES|(Grace, 2010, p. 91)]]
+> **转移宏观改革注意力的政策庇护** 格雷斯指出，教育还原主义极其契合[[Neoliberalism|新自由主义]]政府削减公共开支的政治诉求；它诱导公众相信无需推行再分配与脱贫改革即可实现教育平等，客观上充当了政策制定者逃避根本性社会治理责任的免责工具。[[Argument_Grace_2010_NZJES|(Grace, 2010, p. 91)]]
 
 > [!claim] [[Basil Bernstein|Bernstein, B.]]
 > **学校无法单独补偿社会的结构限度** 伯恩斯坦指出，缺乏外部基础性的结构与经济平权改革，学校本身无法创造教育机会均等；单纯给教育系统内部施压或推行微观干预，无法撼动深层的宏观权力结构。[[Argument_Grace_2010_NZJES|(Grace, 2010, p. 91)]]

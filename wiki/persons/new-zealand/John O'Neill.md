@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[New Managerialism]]"
   - "[[Knowledge Production]]"
   - "[[International Education]]"
+  - "[[Neoliberalism]]"
   - "[[Effective Teaching]]"
   - "[[Transnational Education]]"
   - "[[Educational Decentralization]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-16"
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -102,7 +103,7 @@ updated: 2026-11-15
 > [!person-network] 关系网络
 > - **学术论敌** [[John Hattie]] — 针对[[Class Size|班级规模]][[Effect Size|效应量]]的解释、学术中立性与商业咨询利益冲突展开长期交锋。
 > - **调查合作者** Adams; Bourke — 2016 年共同开展新西兰教育政治经济学实证调查。
-> - **呼应学者** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 全文引用奥尼尔的财务调查发现，重构对新自由主义[[Knowledge Production|知识生产]]的系统批判。
+> - **呼应学者** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 全文引用奥尼尔的财务调查发现，重构对[[Neoliberalism|新自由主义]][[Knowledge Production|知识生产]]的系统批判。
 
 ---
 

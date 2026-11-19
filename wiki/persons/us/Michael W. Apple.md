@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 25
+person_related_count: 27
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -31,6 +31,8 @@ related_concepts:
   - "[[Post-Fordism]]"
   - "[[Cognitive Deskilling]]"
   - "[[Official Knowledge]]"
+  - "[[Curricular Form]]"
+  - "[[Neoliberalism]]"
   - "[[Paradigm]]"
   - "[[Hidden Curriculum]]"
   - "[[Cultural Capital]]"
@@ -60,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-22
+updated: 2026-11-19
 ---
 
 ---
@@ -68,7 +70,7 @@ updated: 2026-10-22
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代批判教育社会学与课程理论泰斗级领军人物，威斯康星大学[[James Madison|麦迪逊]]分校（University of Wisconsin-Madison）课程与教学论以及教育政策研究系约翰·巴斯科姆（John Bascom）荣休讲席教授。
 > - **核心角色** [[Critical Pedagogy|批判教育学]]与意识形态课程批判的奠基者；率先系统揭示资本主义国家如何通过学校课程将阶级、种族与性别不平等合法化；深刻剖析从福特制向[[Post-Fordism|后福特制]]转型中劳动[[Cognitive Deskilling|去技能化]]与课程“技术控制逻辑”（Logic of Technical Control）的共谋机制。
-> - **代表贡献** 出版奠基性著作《意识形态与课程》（1979）、《教育与权力》（1982）、《[[Official Knowledge|官方知识]]》（1993）与《受教育的“正确”方式》（2001）；提出课程形态技术控制与占有性个人主义（Possessive Individualism）建构命题（1982）；揭示由新自由主义、新保守主义、威权民粹主义和职业中产阶层组成的“右翼霸权联盟”。
+> - **代表贡献** 出版奠基性著作《意识形态与课程》（1979）、《教育与权力》（1982）、《[[Official Knowledge|官方知识]]》（1993）与《受教育的“正确”方式》（2001）；提出[[Curricular Form|课程形态]]技术控制与占有性个人主义（Possessive Individualism）建构命题（1982）；揭示由[[Neoliberalism|新自由主义]]、新保守主义、威权民粹主义和职业中产阶层组成的“右翼霸权联盟”。
 
 > [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论阿普尔的后福特制与课程技术控制
 > 劳动过程的变化与生产方式从福特制向后福特制模型的[[Paradigm|范式]]转型紧密相关，这种转型对劳动力的技能化与去技能化过程，以及课程中的技术控制逻辑产生了深远影响。[[Argument_Olmos_Torres_2009_StateTheories|(Apple, 1982; Olmos & Torres, 2009, p. 79)]]

@@ -13,7 +13,7 @@ subtype: organization
 region: finland
 fact_region: "finland"
 fact_kind: "organization"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -29,6 +29,7 @@ tags:
   - centralization
   - region/finland
 related_concepts:
+  - "[[Neoliberalism]]"
   - "[[Norm-Referenced Test]]"
   - "[[Bureaucracy]]"
   - "[[Structured Teaching]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-08
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -97,7 +98,7 @@ updated: 2026-11-11
 >
 > - **1985–1991** **去管制化与机构历史终结**
 >
->   逐步取消常模测试与微观日志，随着 1991 年新自由主义公共行政改革浪潮与国家职业教育管理局合并，机构正式撤销。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 12–13)]]
+>   逐步取消常模测试与微观日志，随着 1991 年[[Neoliberalism|新自由主义]]公共行政改革浪潮与国家职业教育管理局合并，机构正式撤销。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 12–13)]]
 >
 >   - **1985** 废止初中结业阶段全国统一[[Norm-Referenced Test|常模参照评估]]（normikokeet）。
 >   - **1991** 机构正式解散，合并重组为仅提供咨询指导、不具备直接视导权的[[Finnish National Board of Education|芬兰国家教育委员会]]（OPH）。

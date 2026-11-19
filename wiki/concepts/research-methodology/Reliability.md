@@ -8,9 +8,9 @@ aliases:
 summary: "研究工具、数据和发现在跨时间、跨工具和跨受访者群体上的一致性、可依赖性与可复制性，是效度的必要非充分条件。量化研究中体现为稳定性、等值性与内部一致性三种形式；质性研究中转化为对自然情境的忠实记录与多观察者解释的可依赖性。在跨国测评中，过度追求统计信度常对构念效度与本土教育本体论构成压制。"
 type: concept
 domain: "research-methodology"
-related_count: 69
-related_level: 6
-related_stars: "💎💎"
+related_count: 71
+related_level: 7
+related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - method/research-methods
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Discourse]]"
   - "[[Document]]"
+  - "[[Neoliberalism]]"
   - "[[Research Cage]]"
   - "[[Epistemology]]"
   - "[[Alienation]]"
@@ -85,6 +86,7 @@ related_persons:
   - "[[Thomas Aastrup Rømer]]"
   - "[[John Hattie]]"
 related_facts:
+  - "[[Recommendation-Based Graduate Admission System]]"
   - "[[OECD]]"
   - "[[PISA]]"
 related_theories:
@@ -93,7 +95,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-06-23
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -157,7 +159,7 @@ updated: 2026-11-15
 
 > [!feature] 质性信度（可依赖性）的核心向度与操作规程
 > - **对自然生活情境的忠实记录（Fidelity to Natural Context）** 质性研究的操作性信度体现为研究者记录的数据与被探究自然情境中实际发生内容的一致契合程度。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 204–207)]]; Bogdan and Biklen (1992, p. 48)
-> - **自然主义情境中的要素可复现性** LeCompte and Preissle (1993, pp. 332–334) 指出，机械照搬量化变量控制假设会破坏现象的自然发生与[[Ecological Validity|生态效度]]；质性研究应努力在研究者角色位置、受访者选择条件、社会背景特征、分析[[Construct|构念]]设定以及资料收集规程五大维度保持透明，确保研究过程可被同行检验与追踪。同上
+> - **自然主义情境中的要素可复现性** LeCompte and Preissle (1993, pp. 332–334) 指出，机械照搬量化变量控制假设会破坏现象的自然发生与[[Ecological Validity|生态效度]]；质性研究应努力在研究者角色位置、受访者选择条件、社会背景特征、分析[[Construct|构念]]设定以及资料收集规程五大维度保持透明，确[[Recommendation-Based Graduate Admission System|保研]]究过程可被同行检验与追踪。同上
 > - **解释多元性与多视角互补** 质性信度承认社会现实的多层次属性。正如英国汽车制造厂的实证研究所示，不同学者基于不同[[Theoretical Standpoint|理论透镜]]分别揭示出[[Lean Production|精益生产]]的“灵活性合作”与“严密规训监控”两种真实状态（Wickens, 1987; Garrahan & Stewart, 1992），两类可靠解释并存展现了立体的社会生活全貌。同上
 > - **多分析者交叉盲审规程（Inter-coder Dependability）** 依托详尽透明的主题分析类目表，组织多名研究者对原始访谈与文本开展独立交叉编码与编码员间信度检验，能够在保留情境丰富性的同时消除个人认知偏误，确立跨案例分析的可依赖性。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, p. 190)]]
 
@@ -188,7 +190,7 @@ updated: 2026-11-15
 > **信度优先压制构念效度与本体多样性** 在大规模跨国教育测评与国家统考框架中，技术官僚对工具“信度与跨国可比性”的追求往往系统性压倒了对“构念效度与教育本体论多样性”的坚守。[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）在开发[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）时，首要目标是依据[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières, 1998）所谓的“[[Space of Equivalence|等值空间]]”（space of equivalence）构建跨国统一[[Scale of Measurement|测量尺度]]。为确保数以百万计跨越不同母语、文化传统与课程制度的学生在同一量表上产生统计一致性，心理测量学家优先筛选具有高统计信度的脱域化试题；凡是深深植根于本土历史文化脉络、富含高阶批判思辨或具有本体论[[Heterogeneity|异质性]]的教学内容，因无法满足[[Item Response Theory|项目反应理论]]的跨国等值拟合而被系统剔除。这种操作以牺牲教育测量的实质效度为代价换取了统计信度，使跨国排名的科学中立表象彻底掩盖了指标建构背后的政治决断。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 
 > [!claim] [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]]
-> **超越信效度技术[[Discourse|话语]]的批判政策社会学转向** 谢爱磊、李家新与黄咏欣通过政策社会学[[Document|文献]]梳理指出，国际比较教育研究正在超越局限于评判 PISA 测量信度与效度的纯技术话语框架。早期文献多聚焦于试题跨文化翻译偏差与统计信度拟合，晚近的批判学者则将关注点转向考察跨国测评所服务的去情境化软治理形态、新自由主义[[Human Capital Theory|人力资本]]意识形态以及对主权国家课程多样性的系统规训。这一转向表明，技术官僚所宣称的测量信度与科学中立性，实质上构成了遮蔽更深层政治经济学权力运作与微观敞视规训的认知外壳。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 74–75)]]
+> **超越信效度技术[[Discourse|话语]]的批判政策社会学转向** 谢爱磊、李家新与黄咏欣通过政策社会学[[Document|文献]]梳理指出，国际比较教育研究正在超越局限于评判 PISA 测量信度与效度的纯技术话语框架。早期文献多聚焦于试题跨文化翻译偏差与统计信度拟合，晚近的批判学者则将关注点转向考察跨国测评所服务的去情境化软治理形态、[[Neoliberalism|新自由主义]][[Human Capital Theory|人力资本]]意识形态以及对主权国家课程多样性的系统规训。这一转向表明，技术官僚所宣称的测量信度与科学中立性，实质上构成了遮蔽更深层政治经济学权力运作与微观敞视规训的认知外壳。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 74–75)]]
 
 ---
 

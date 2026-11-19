@@ -10,7 +10,7 @@ subtype: organization
 region: italy
 fact_region: "italy"
 fact_kind: "organization"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[New Managerialism]]"
   - "[[Bureaucracy]]"
   - "[[Democratic Education]]"
+  - "[[Neoliberalism]]"
 related_theories: []
 related_methods:
   - "[[Value-Added Model]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-22
+updated: 2026-11-19
 ---
 
 ---
@@ -118,4 +119,4 @@ updated: 2026-10-22
 > > 在意大利教育政治学界，对 INVALSI 的性质研判形成鲜明分野。
 > >
 > > - **行政现代化支持方** 视 INVALSI 为帮助南欧[[Bureaucracy|科层制]]打破人情主观评价、提升教育国际透明度与实施精准教育帮扶的关键支点。
-> > - **[[Democratic Education|民主教育]]与工会批判方（如 Serpieri, 2017）** 批评其试卷[[Multiple-Choice Questions|客观选择题]]削弱了意大利深厚的人文思辨传统，警惕其背后潜藏的新自由主义问责与按测验削减公共教育投入的规制企图。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 258–259)]]
+> > - **[[Democratic Education|民主教育]]与工会批判方（如 Serpieri, 2017）** 批评其试卷[[Multiple-Choice Questions|客观选择题]]削弱了意大利深厚的人文思辨传统，警惕其背后潜藏的[[Neoliberalism|新自由主义]]问责与按测验削减公共教育投入的规制企图。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 258–259)]]

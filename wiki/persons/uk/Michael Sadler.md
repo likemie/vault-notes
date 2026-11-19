@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 64
+person_related_count: 66
 person_related_level: 6
 person_related_stars: "💎💎"
 person_related_color: "#fef3c7"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Grandes Ecoles]]"
   - "[[Transnational Education]]"
   - "[[Bildung]]"
+  - "[[Neoliberalism]]"
   - "[[Normal School]]"
   - "[[The Sublime]]"
   - "[[Liberal Education]]"
@@ -79,6 +80,7 @@ related_persons:
 related_facts:
   - "[[Department for Education]]"
   - "[[Office of Special Inquiries and Reports]]"
+  - "[[National Institute of Education]]"
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Mitter_2009_Europe]]"
@@ -95,14 +97,14 @@ related_instruments: []
 confidence: high
 status: completed
 created: '2026-06-08'
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国比较教育先驱、教育官员与思想家。曾任[[Department for Education|英国教育部]]特别调查与报告办公室（[[Office of Special Inquiries and Reports]], [[Office of Special Inquiries and Reports|OSIR]]）首任主任、曼彻斯特大学教授、利兹[[Grandes Ecoles|大学校]]长（Vice-Chancellor）、牛津大学大学学院院长，是比较教育历史主义与情境分析路径的奠基人。
-> - **核心角色** 传记学者约翰·H·希金森（John Howard Higginson）将其概括为兼具深邃学术造诣与宏阔公共眼界的“教育政治家”（Educational Statesman），视比较教育为推动国家制度重塑的“改革能动杠杆”（Agency of reform）。在欧洲学科史上，[[Wolfgang Mitter|沃尔夫冈·米特]]（Wolfgang Mitter）将其定性为推动现代大学比较教育在英国率先扎根的关键领袖，开辟了从 19 世纪督学行政视察走向 20 世纪大学教席建制化并由伦敦大学教育研究院（Institute of Education, IOE）全面发扬的知识谱系。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88, 89–90)]]
+> - **核心角色** 传记学者约翰·H·希金森（John Howard Higginson）将其概括为兼具深邃学术造诣与宏阔公共眼界的“教育政治家”（Educational Statesman），视比较教育为推动国家制度重塑的“改革能动杠杆”（Agency of reform）。在欧洲学科史上，[[Wolfgang Mitter|沃尔夫冈·米特]]（Wolfgang Mitter）将其定性为推动现代大学比较教育在英国率先扎根的关键领袖，开辟了从 19 世纪督学行政视察走向 20 世纪大学教席建制化并由伦敦大学教育研究院（[[National Institute of Education|Institute of Education]], IOE）全面发扬的知识谱系。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88, 89–90)]]
 > - **代表贡献** 创立特别调查与报告办公室、主持编纂 11 卷[[Transnational Education|跨国教育]]调查报告、发表 1900 年吉尔福德演讲并提出教育系统的“不可移植性”假说、奠定比较教育的[[Situative Perspective|情境主义]]分析方法，开创以德国为核心参照系的系统比较研究。
 
 > [!citation-card] 克勒里德斯论萨德勒主持特别调查与报告署的国家竞争情报定位
@@ -115,7 +117,7 @@ updated: 2026-11-14
 > [!timeline] 生平与职涯
 > - **1861** **古典人文教养与健全人格理想** 出生于英国约克郡巴恩斯利（Barnsley），先后就读于拉格比公学与牛津大学三一学院，深沐 19 世纪英国古典文学与人文学术训练。这段学养确立了其教育哲学的核心信条：坚持中等教育的根本使命首先在于通过鲜活的人文学科教学实现人的教化，其次才是传授适应现实生活的实践效能。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 1966: 140–141; 2009b: 43, 引自 Kazamias, 2009b)]]
 > - **1880年代初** **牛津唯心主义浸润与积极自由伦理观** 在牛津大学深受托马斯·希尔·格林（Thomas Hill Green）开创的新[[Immanuel Kant\|康德]]主义与新[[Georg Wilhelm Friedrich Hegel\|黑格尔]]主义“牛津唯心主义”哲学浸润（格林被誉为自[[Mark Newman|纽曼]]红衣主教以来牛津最具影响力的导师），与 F. H. 布拉德利（Francis Herbert Bradley）、伯纳德·鲍桑葵（Bernard Bosanquet）等学者共同确立积极自由伦理观；将主权国家定位为在社会文化领域承担积极道德干预职能的正当行动者，促使萨德勒偏离维多利亚放任主义，坚定探索个人主义与社会主义之间的中间道路。[[Argument_Kazamias_2009_ForgottenThemes\|(Sadler, 1898: 95; Kazamias, 2009b: 43–44)]]
-> - **1884** **发起大学推广运动与平民[[Bildung|精神教化]]** 发起并领导牛津大学推广运动（University Extension），推动高等学术资源走向劳工阶层与地方民众；正如史学家布赖恩·西蒙（Brian Simon）评价，萨德勒等学者坚信教育本身即是善，校外教学能使劳动者的生命精神化，帮助他们超脱物质生存的暂时性劳碌，以实际行动践行新自由主义的平权关怀。[[Argument_Kazamias_2009_ForgottenThemes\|(Simon, 1965: 305; Kazamias, 2009b: 44)]]
+> - **1884** **发起大学推广运动与平民[[Bildung|精神教化]]** 发起并领导牛津大学推广运动（University Extension），推动高等学术资源走向劳工阶层与地方民众；正如史学家布赖恩·西蒙（Brian Simon）评价，萨德勒等学者坚信教育本身即是善，校外教学能使劳动者的生命精神化，帮助他们超脱物质生存的暂时性劳碌，以实际行动践行[[Neoliberalism|新自由主义]]的平权关怀。[[Argument_Kazamias_2009_ForgottenThemes\|(Simon, 1965: 305; Kazamias, 2009b: 44)]]
 > - **1894–1895** **主持皇家布莱斯委员会起草中等教育蓝图** 出任全英皇家中等教育委员会（Bryce Commission，布莱斯委员会）核心委员，并作为公认的主笔起草了里程碑式的委员会总报告，为 1902 年《巴尔福教育法》与现代地方公立中等教育体系的法定诞生奠定了顶层设计蓝图。
 > - **1895–1903** **执掌特别调查与报告署并确立国家情报职能** 受命出任英国教育部特别调查与报告办公室（[[Office of Special Inquiries and Reports|OSIR]]）首任主任。米特指出，萨德勒推动英国政府设立该机构，以德国为核心参照系（core reference system）系统开展比较研究，成为欧洲比较教育从 19 世纪督学分散考察向国家建制化转型的关键里程碑。面对德国与美国工业崛起的国家自保焦虑，萨德勒主持编纂 11 卷跨国教育调查报告，确立提炼真实经验、评估国际效能与凝聚国家共识的三大法定职能。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88, 89–90)]]；[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 420)]]；Higginson (1961: 289)
 > - **1900** **吉尔福德演说与情境分析公理确立** 发表著名的吉尔福德演讲，系统阐明“校外的事情比校内的事情更为重要，并且支配与诠释着校内的一切”，提出教育系统是深植于民族历史土壤的活体有机体，确立防范机械政策移植的方法论公理。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 53)]]；[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 44)]]
@@ -247,7 +249,7 @@ updated: 2026-11-14
 ---
 
 > [!person-network] 关系网络
-> - **哲学导师／精神源流** 托马斯·希尔·格林 — 牛津唯心主义领袖，格林的积极自由观与国家伦理干预学说奠定了萨德勒新自由主义教育哲学的理论根基。
+> - **哲学导师／精神源流** 托马斯·希尔·格林 — 牛津唯心主义领袖，格林的积极自由观与国家伦理干预学说奠定了萨德勒[[Neoliberalism|新自由主义]]教育哲学的理论根基。
 > - **先锋同行** [[Matthew Arnold|马修·阿诺德]]（Matthew Arnold） — 萨德勒继承并深化了阿诺德关于通过国家干预提升文化教化并抵御地缘竞争的警觉。
 > - **继承者** [[Isaac Kandel|坎德尔]] — 曼彻斯特大学受业弟子，坎德尔将萨德勒的情境与精神力量分析发展为成熟的学科框架。
 > - **同行／学派** 汉斯、[[Robert Ulich|乌利希]] — 共同维系 20 世纪前中期的[[Historical-Philosophical-Cultural Motif|历史-哲学-文化母题]]。

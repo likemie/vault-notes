@@ -12,7 +12,7 @@ aliases:
 summary: "涵盖学生间协同探究与教师间教研协作的双层互助学习范式；在学生层面通过认知外显与包容试错促进深度理解，在教师层面依托教研室信任文化与经验共享维系专业共同体，构成抵御新自由主义绩效工资零和竞争侵蚀的核心屏障。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 43
+related_count: 45
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -42,11 +42,13 @@ related_concepts:
   - "[[Nerd]]"
   - "[[Metacognition]]"
   - "[[The Sublime]]"
+  - "[[Learning Strategies]]"
   - "[[Homework]]"
   - "[[Academic Achievement]]"
   - "[[Visible Learning]]"
   - "[[School Leadership]]"
   - "[[Professional Judgment]]"
+  - "[[Neoliberalism]]"
   - "[[Teacher Trust]]"
   - "[[Professional Learning Community]]"
   - "[[Scaffolding]]"
@@ -77,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-25
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -114,7 +116,7 @@ updated: 2026-11-15
 > **认知重构与文化美德的协同效应** 给他人讲解是最高阶的[[Metacognition|元认知]]激活方式，而在集体互助文化中求助与施助被赋予了[[The Sublime|崇高]]道德价值。
 
 > [!claim] [[Jin Li|Li, J.]]; Chen et al.
-> **东亚“同学”伦理对零和博弈的制度性超越** 跨文化实证研究表明，在东亚学校文化中，同伴互助不仅是认知策略，更是深刻的道德实践。通过课代表制度、一对一结对帮扶（兵教兵）以及小组共同完成[[Homework|作业]]，高成就学生通过向同伴讲解深化学科理解，展现慷慨与社会责任；低成就学生则以[[Humility|谦逊]]态度寻求指导。由于教师的评价部分取决于全班整体进步幅度，学生群体自发形成了尊重榜样、渴望向高成就者看齐的同伴风尚，彻底改写了西方校园中将刻苦学者污名化为“[[Nerd|书呆子]]”（[[Nerd]]）的逆反亚文化。大规模[[Longitudinal Study|纵向研究]]进一步确证，加入互助型同伴群体的学生，其社交技能与[[Academic Achievement|学业成就]]呈现长周期的双向强化。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 200–208)]]
+> **东亚“同学”伦理对零和博弈的制度性超越** 跨文化实证研究表明，在东亚学校文化中，同伴互助不仅是[[Learning Strategies|认知策略]]，更是深刻的道德实践。通过课代表制度、一对一结对帮扶（兵教兵）以及小组共同完成[[Homework|作业]]，高成就学生通过向同伴讲解深化学科理解，展现慷慨与社会责任；低成就学生则以[[Humility|谦逊]]态度寻求指导。由于教师的评价部分取决于全班整体进步幅度，学生群体自发形成了尊重榜样、渴望向高成就者看齐的同伴风尚，彻底改写了西方校园中将刻苦学者污名化为“[[Nerd|书呆子]]”（[[Nerd]]）的逆反亚文化。大规模[[Longitudinal Study|纵向研究]]进一步确证，加入互助型同伴群体的学生，其社交技能与[[Academic Achievement|学业成就]]呈现长周期的双向强化。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 200–208)]]
 
 ---
 
@@ -126,7 +128,7 @@ updated: 2026-11-15
 
 ---
 
-> [!concept-proposition] 命题三｜新自由主义[[Performance Pay|绩效工资]]通过引入外部利益博弈，直接摧毁了教师同伴互助与经验共享的制度土壤
+> [!concept-proposition] 命题三｜[[Neoliberalism|新自由主义]][[Performance Pay|绩效工资]]通过引入外部利益博弈，直接摧毁了教师同伴互助与经验共享的制度土壤
 > **制度激励错位与专业共同体瓦解** 外在金钱激励将同事转化为争夺奖金的假想敌，诱发防御性教学与知识私藏。
 
 > [!claim] Murnane & Cohen; Snook et al.; [[The Scott Report]]

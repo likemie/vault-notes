@@ -7,7 +7,7 @@ aliases:
 summary: "大学教师与学生在追求学术真理、传播思想、开展科研以及自主决定教学与学业评价方式上享有的不受非学术干预的法定与制度化自主权。既是知识生产开放渗透性的基石，也是产学合作知识产权博弈、国家高教政策转译以及发展型国家战略导向的核心制度交汇点。"
 type: concept
 domain: "higher-education"
-related_count: 95
+related_count: 97
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -64,10 +64,12 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Champ]]"
   - "[[Scientific Creativity]]"
+  - "[[Neoliberalism]]"
   - "[[Research Security]]"
   - "[[Dual Appointment]]"
   - "[[Big Science]]"
 related_theories:
+  - "[[Developmental State]]"
   - "[[Pluralism]]"
   - "[[Dependency Theory]]"
   - "[[Critical Theory]]"
@@ -122,7 +124,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-26
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -132,7 +134,7 @@ updated: 2026-11-15
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 包含教师个体的研究自由、发表自由、教学自由与评价自主权，以及大学作为一个自治法人的机构自主权（Institutional Autonomy）。
-> - **用途** 揭示大学为何能在信息与创意上保持开放渗透；解释[[University-Industry Collaboration|产学合作]]中发表权与企业保密诉求的结构性冲突；诊断国家宏观素养政策向微观大学课堂下沉时的政策断裂；以及比较自由主义大学自治与发展型国家战略导向之间的治理哲学差异。
+> - **用途** 揭示大学为何能在信息与创意上保持开放渗透；解释[[University-Industry Collaboration|产学合作]]中发表权与企业保密诉求的结构性冲突；诊断国家宏观素养政策向微观大学课堂下沉时的政策断裂；以及比较自由主义大学自治与[[Developmental State|发展型国家]]战略导向之间的治理哲学差异。
 > - **边界** 区别于绝对无限制的个人任意权；学术自由受学科同行评议（Peer Review）、学术伦理准则、国家安全法规及利益冲突政策的制度性约束。
 
 > [!boundary]- 概念边界
@@ -329,7 +331,7 @@ updated: 2026-11-15
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Yang_2017_MUE|杨九斌 (2017)]] — 系统考察二战后至冷战初期五角大楼军工合同与涉密指令对大学学术自由的压缩，以及卫星危机后学者依托 PSAC 与 COSPUP 双轨游说化解政治干预、确立同行评议与科教一体信条的博弈历程（pp. 35–38）。
-> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 系统对比西方基于[[Washington Consensus|华盛顿共识]]的新自由主义高等教育模式与中国基于[[Beijing Consensus|北京共识]]的发展型国家模式，揭示学术自由、大学自治与国家战略规划在全球高等教育治理中的深层哲学分野（pp. 689–690）。
+> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 系统对比西方基于[[Washington Consensus|华盛顿共识]]的[[Neoliberalism|新自由主义]]高等教育模式与中国基于[[Beijing Consensus|北京共识]]的发展型国家模式，揭示学术自由、大学自治与国家战略规划在全球高等教育治理中的深层哲学分野（pp. 689–690）。
 > - [[Argument_Velasco_2022_CSJ|Velasco (2022)]] — 结合中国对东南亚教育外交，阐明大学战略从属治理与西方学术自由传统的制度差异，以及孔院学术自主争议外溢对涉外办学形成的防范制约（pp. 79–80, 85–86）。
 > - [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]] — 系统论述同行评议作为学术自治屏障在二战后的确立，以及当代因资助率走低导致学者主动避险、产出平庸化及国会政治专项分肥侵蚀的严峻危机。
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — [[OECD]] 国际报告，剖析教师教学与评价学术自由如何成为宏观政策落地的关键中介，倡导通过柔性校准与全课程整合克服考核滞后。

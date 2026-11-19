@@ -12,7 +12,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 23
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Problem Solving]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Neoliberalism]]"
   - "[[Discourse]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-11-02
+updated: 2026-11-19
 ---
 
 ---
@@ -169,4 +170,4 @@ updated: 2026-11-02
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — 全面剖析 EQF 8 级学习成果架构及其在欧洲高等教育区中的制度立法与高阶思维能力对齐机制。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 论述后冷战时期欧洲比较教育学会如何将 EQF 与博洛尼亚进程确立为务实欧洲维度的核心经验基石。
-> - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 揭示 EQF 作为官方网络中的资格互认机制，如何配合新自由主义[[Discourse|话语]]服务于劳动力流动与软法全景敞视治理。
+> - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 揭示 EQF 作为官方网络中的资格互认机制，如何配合[[Neoliberalism|新自由主义]][[Discourse|话语]]服务于劳动力流动与软法全景敞视治理。

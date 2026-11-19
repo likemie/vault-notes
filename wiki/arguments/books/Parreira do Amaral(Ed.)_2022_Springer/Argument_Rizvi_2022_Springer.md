@@ -9,7 +9,7 @@ title: "Argument_Rizvi_2022_Springer"
 argument_key: "Argument_Rizvi_2022_Springer"
 argument_display_title: "Rise of Asia, geopolitical shifts and higher education"
 argument_kind: "book"
-argument_related_count: 47
+argument_related_count: 49
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#ede9fe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Knowledge Production]]"
   - "[[Developmentalism]]"
+  - "[[Neoliberalism]]"
   - "[[International Education]]"
   - "[[Variable]]"
   - "[[Transnational Research Collaboration]]"
@@ -58,6 +59,7 @@ related_theories:
   - "[[Post-colonial Theory]]"
   - "[[Orientalism]]"
   - "[[Network Society]]"
+  - "[[Developmental State]]"
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Snowball Sampling]]"
@@ -81,7 +83,7 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-10'
-updated: 2026-11-11
+updated: 2026-11-19
 year: 2022
 doi: ""
 citation_aliases:
@@ -136,7 +138,7 @@ Rizvi 还调动了三个补充性的理论资源来丰富他的分析：
 [[Critical Geopolitics|批判地缘政治学]]负责回答"看什么"（意识形态建构和日常经验），后殖民理论提供历史纵深（殖民地缘政治如何塑造了现代高等教育），网络社会理论解释当代表征（网络化协作如何改变了研究和教育的格局）。
 
 > [!info] 研究方法
-> 概念讨论章节，无特定实证方法。Rizvi 的方法是：以[[Critical Geopolitics\|批判地缘政治学]]为分析透镜，综合历史叙述（殖民[[Geopolitics|地缘政治]]→冷战[[Developmentalism|发展主义]]→新自由主义全球化）、政策分析（[[GATS and Trade in Education Services\|GATS]]、澳大利亚[[Australia in the Asian Century White Paper\|亚洲世纪白皮书]]、国家[[International Education\|国际教育]]战略）和当代案例（COVID-19 对国际教育的影响、中美地缘政治紧张）来构建论证。论证的逻辑是**演绎式**的：先建立概念框架（§6.2），再呈现经验基础（§6.3），然后展开两个核心分析维度（§6.4 国际化市场、§6.5 竞争与合作），最后以当代危机作为论证的检验和延伸（§6.6）。
+> 概念讨论章节，无特定实证方法。Rizvi 的方法是：以[[Critical Geopolitics\|批判地缘政治学]]为分析透镜，综合历史叙述（殖民[[Geopolitics|地缘政治]]→冷战[[Developmentalism|发展主义]]→[[Neoliberalism|新自由主义]]全球化）、政策分析（[[GATS and Trade in Education Services\|GATS]]、澳大利亚[[Australia in the Asian Century White Paper\|亚洲世纪白皮书]]、国家[[International Education\|国际教育]]战略）和当代案例（COVID-19 对国际教育的影响、中美地缘政治紧张）来构建论证。论证的逻辑是**演绎式**的：先建立概念框架（§6.2），再呈现经验基础（§6.3），然后展开两个核心分析维度（§6.4 国际化市场、§6.5 竞争与合作），最后以当代危机作为论证的检验和延伸（§6.6）。
 
 > [!example] 论证结构
 > Rizvi 的论证分为**七个步骤**，每一步都建立在前一步的基础上。以下是逐步拆解：
@@ -202,7 +204,7 @@ Rizvi 从高等教育过去三十年的深刻变化说起。他列出一系列�
 **对增长原因的多元解释**
 - 廉价且纪律严明的劳动力(Jacques, 2009)
 - 以有利于全球资本的修改条件欢迎外国直接投资；经济特区促进全球资本偏好的生产方式(Dicken, 2007)
-- 市场友好政策——"亚洲发展型国家，尤其是所谓的'亚洲小龙'，预判了市场"(Bhagwati, 2007, p.93)
+- 市场友好政策——"亚洲[[Developmental State|发展型国家]]，尤其是所谓的'亚洲小龙'，预判了市场"(Bhagwati, 2007, p.93)
 
 **关键质疑(Pieterse, 2018)** 增长的数量不等于质量。“亚洲在崛起，但亚洲人的福祉却没有。增长的质量和数量不同步。”
 > (“亚洲在崛起，但亚洲人的福祉却没有。增长的质量和数量不同步。”

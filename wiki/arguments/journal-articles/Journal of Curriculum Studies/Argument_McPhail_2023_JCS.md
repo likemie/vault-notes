@@ -11,7 +11,7 @@ title: "Argument_McPhail_2023_JCS"
 argument_key: "Argument_McPhail_2023_JCS"
 argument_display_title: "Knowledge and the New Zealand curriculum refresh"
 argument_kind: "journal-article"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Outcomes-based Education]]"
   - "[[Rote Learning]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Neoliberalism]]"
   - "[[Postpositivism]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Constructed Knowledge]]"
@@ -67,7 +68,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-06-06
-updated: 2026-10-30
+updated: 2026-11-19
 year: 2023
 doi: ""
 citation_aliases:
@@ -143,7 +144,7 @@ citation_aliases:
 
 ### 第一步：学科知识为何重要
 
-**知识的边缘化** 在过去三十年中，新西兰和许多国家的课程逐步从明确指定知识内容转向[[Outcomes-based Education|结果导向课程]]、通用能力和 21 世纪学习。知识被边缘化，往往被等同于过时的教育方法，即[[Rote Learning|死记硬背]]一堆公认的事实和信息。[[Constructivist Paradigm|建构主义]]和新自由主义两种话语如今共同栖身于 21 世纪学习的叙事框架之下，尽管两者之间存在紧张关系。
+**知识的边缘化** 在过去三十年中，新西兰和许多国家的课程逐步从明确指定知识内容转向[[Outcomes-based Education|结果导向课程]]、通用能力和 21 世纪学习。知识被边缘化，往往被等同于过时的教育方法，即[[Rote Learning|死记硬背]]一堆公认的事实和信息。[[Constructivist Paradigm|建构主义]]和[[Neoliberalism|新自由主义]]两种话语如今共同栖身于 21 世纪学习的叙事框架之下，尽管两者之间存在紧张关系。
 
 **「严格折衷主义」的传统**
 - Clark (2004) 在 2007 年课程发布前就对教育部的方法提出担忧，认为其缺乏「基本的总体中心哲学」

@@ -9,7 +9,7 @@ title: "Argument_Eacott_2017_SLM"
 argument_key: "Argument_Eacott_2017_SLM"
 argument_display_title: "School leadership and the cult of the guru: The neo-Taylorism of Hattie"
 argument_kind: "journal-article"
-argument_related_count: 44
+argument_related_count: 46
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -56,6 +56,7 @@ related_concepts:
   - "[[Alienation]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Cultural Disembedding]]"
+  - "[[Neoliberalism]]"
   - "[[Causality]]"
 related_theories: []
 related_methods:
@@ -66,6 +67,7 @@ related_methods:
   - "[[Discourse Analysis]]"
 related_persons:
   - "[[John Hattie]]"
+  - "[[Charles Taylor]]"
   - "[[Pierre Bourdieu]]"
   - "[[Herbert A. Simon]]"
   - "[[Scott Eacott]]"
@@ -83,7 +85,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-03
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 ---
 
@@ -98,7 +100,7 @@ updated: 2026-11-15
 > - **对象** 澳大利亚[[School Leadership\|学校领导力]]实践、哈蒂的VL品牌与国家行政权力的结盟。
 > - **工具** 卡拉汉的[[Cult of Efficiency\|效率崇拜]]历史类比，诊断VL为重构学校领导力的[[Neo-Taylorism\|新泰勒主义]]。
 > - **张力** 方法论的严厉学术批判与政策/实践界将哈蒂封神并制度性深锁之间的巨大鸿沟。
-> - **结论** 盲从[[Cult of the Guru\|大师崇拜]]是学校领导力的悲剧，它剥夺了教师自主权并倒退回百年前泰勒制的装配线控制中。
+> - **结论** 盲从[[Cult of the Guru\|大师崇拜]]是学校领导力的悲剧，它剥夺了教师自主权并倒退回百年前[[Charles Taylor|泰勒]]制的装配线控制中。
 
 ---
 
@@ -252,7 +254,7 @@ updated: 2026-11-15
 
 > [!warning] 批判边界与方法论定位
 > - **非针对[[John Hattie\|哈蒂]]的方法论技术评估** 明确声明，本文绝非对哈蒂个人或其分析质量的方法论技术质询（这些工作已由 Snook et al., 2009; Higgins & Simpson, 2011; Terhart, 2011 等人完成），而是专注于剖析“使大师崛起及其工作被广泛接受的社会与组织条件”。
-> - **经验基础的地理局限** 本研究的经验性观察主要锚定在澳大利亚特定的政策、组织与历史环境下（但作者声称其理论论证超越地理边界，对其他同样具有新自由主义管理主义倾向的系统同样适用）。
+> - **经验基础的地理局限** 本研究的经验性观察主要锚定在澳大利亚特定的政策、组织与历史环境下（但作者声称其理论论证超越地理边界，对其他同样具有[[Neoliberalism|新自由主义]]管理主义倾向的系统同样适用）。
 > - **不对[[Meta-meta-analysis\|元-元分析]]进行具体的技术纠错** 文章未对哈蒂的[[Meta-analysis\|元分析]]如何进行具体的[[Causality\|因果推断]]、选择性偏差或重复计算进行数学上的微观纠错，而是将其直接作为社会学意义上的意识形态证据来进行组织[[Discourse Analysis\|话语分析]]。
 
 > [!note] 外部回应与后续争议
