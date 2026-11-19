@@ -5802,6 +5802,17 @@
     ]
   },
   {
+    "title": "Instrumental Rationality",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Instrumental Rationality.md",
+    "aliases": [
+      "工具理性",
+      "目的理性",
+      "Zweckrationalität",
+      "工具主义理性"
+    ]
+  },
+  {
     "title": "Intellectual Intuition",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Intellectual Intuition.md",
@@ -6019,6 +6030,16 @@
     "path": "wiki/concepts/educational-philosophy/Multiplicity.md",
     "aliases": [
       "多重性"
+    ]
+  },
+  {
+    "title": "Narcissistic Rationality",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Narcissistic Rationality.md",
+    "aliases": [
+      "自恋理性",
+      "内向自足理性",
+      "内向反思理性"
     ]
   },
   {
@@ -44306,7 +44327,6 @@
     "type": "fact",
     "path": "wiki/facts/global/Global Campaign for Education.md",
     "aliases": [
-      "GCE",
       "全球教育运动",
       "全球教育运动同盟"
     ],

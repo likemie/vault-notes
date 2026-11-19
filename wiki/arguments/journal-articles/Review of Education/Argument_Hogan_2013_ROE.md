@@ -42,7 +42,6 @@ related_concepts:
   - "[[High-Stakes Testing]]"
   - "[[Curriculum Alignment]]"
   - "[[Confucian Heritage Cultures]]"
-  - "[[Visible Learning]]"
   - "[[Academic Achievement]]"
   - "[[Operationalization]]"
   - "[[Homework]]"
@@ -54,12 +53,14 @@ related_concepts:
   - "[[Peer-Supported Learning]]"
   - "[[Scaffolding]]"
   - "[[Peer Assessment]]"
+  - "[[Visible Learning]]"
+  - "[[Epistemology]]"
   - "[[Discourse]]"
   - "[[Reliability]]"
   - "[[Dialogue in Education]]"
   - "[[Learning Strategies]]"
   - "[[Formative Assessment]]"
-  - "[[Epistemology]]"
+  - "[[Task Structure]]"
   - "[[Open-Mindedness]]"
   - "[[Epistemic Agency]]"
   - "[[Inquiry-Based Learning]]"
@@ -77,16 +78,17 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Causal Modeling]]"
   - "[[Confirmatory Factor Analysis]]"
+  - "[[In-depth Interview]]"
   - "[[Stratified Sampling]]"
   - "[[Item Parceling]]"
-  - "[[Composite Reliability]]"
-  - "[[Classroom Observation]]"
-  - "[[Semi-structured Interview]]"
+  - "[[Analytic Framework]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Qualitative Interview]]"
   - "[[Effect Size]]"
   - "[[Model Fit Indices in SEM and CFA]]"
   - "[[Sample Size Determination]]"
   - "[[Confidence Interval]]"
+  - "[[Classroom Observation]]"
 related_instruments: []
 related_persons:
   - "[[David Hogan]]"
@@ -94,11 +96,10 @@ related_persons:
   - "[[Goh Chok Tong]]"
 related_facts:
   - "[[Teach Less, Learn More]]"
-  - "[[National Institute of Education]]"
   - "[[Centre for Research in Pedagogy and Practice]]"
   - "[[Core 2 Research Program]]"
+  - "[[National Institute of Education]]"
   - "[[Singapore-Cambridge GCE Ordinary Level]]"
-  - "[[Global Campaign for Education]]"
   - "[[Primary School Leaving Examination]]"
   - "[[Singapore Ministry of Education]]"
 related_arguments: []
@@ -114,7 +115,7 @@ title: "Argument_Hogan_2013_ROE"
 argument_key: "Argument_Hogan_2013_ROE"
 argument_display_title: "Assessment and the logic of instructional practice in Secondary 3 English and mathematics classrooms in Singapore"
 argument_kind: "journal-article"
-argument_related_count: 67
+argument_related_count: 69
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -144,10 +145,10 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |---|---|
 > | **教学杂糅理论**<br>[[Pedagogical Hybridity]] | 阐明一线教师如何在外部考试压力与文化规范下，超越单一理论流派的教条，务实组合不同教学手法以适应现实教学需求。 |
-> | **民俗教学法理论**<br>[[Folk Pedagogy]] | 借助 Bruner (1996) 与 Cohen (1988) 的概念，阐明教师基于本土常识经验与直觉心智模型维持以传授示范为主轴的实践[[Habitus|惯习]]。 |
-> | **为理解而教框架**<br>[[Teaching for Understanding]] | 确立包含提问质量、概念聚焦、学习监控、形成性反馈与协作支架等十一维高阶教学[[Construct|构念]]的测量与评估体系。 |
-> | **显性直接教学模型**<br>[[Direct Instruction]] | 刻画教师通过分步示范、内容结构化呈现、复习检测与针对性练习引导学生系统掌握[[Procedural Skill|程序技能]]与良构知识的中介性策略。 |
-> | **共同调节学习理论**<br>[[Co-regulated Learning]] | 刻画学生在教师支架与同伴互动下，逐步将学习目标设立、反思监控与表现自评内化为[[Metacognition|元认知调节]]能力的过程。 |
+> | **民俗教学法理论**<br>[[Folk Pedagogy]] | 借助 Bruner (1996) 与 Cohen (1988) 的概念，阐明教师基于本土常识经验与直觉心智模型维持以传授示范为主轴的实践[[Habitus\|惯习]]。 |
+> | **为理解而教框架**<br>[[Teaching for Understanding]] | 确立包含提问质量、概念聚焦、学习监控、形成性反馈与协作支架等十一维高阶教学[[Construct\|构念]]的测量与评估体系。 |
+> | **显性直接教学模型**<br>[[Direct Instruction]] | 刻画教师通过分步示范、内容结构化呈现、复习检测与针对性练习引导学生系统掌握[[Procedural Skill\|程序技能]]与良构知识的中介性策略。 |
+> | **共同调节学习理论**<br>[[Co-regulated Learning]] | 刻画学生在教师支架与同伴互动下，逐步将学习目标设立、反思监控与表现自评内化为[[Metacognition\|元认知调节]]能力的过程。 |
 > | **高利害评估与制度同构**<br>[[High-Stakes Testing]] | 剖析全国统一考试体制如何通过刚性升学问责与反向回冲效应，将学校微观教学牢固锁定在应试复现轨道上。 |
 > | **课程对齐理论**<br>[[Curriculum Alignment]] | 剖析全国统考大纲、商业复习题集与微观讲授操练之间的超强对齐，以及该对齐结构对渐进式大纲改革政策所造成的结构性阻断与制度束缚。 |
 
@@ -172,20 +173,21 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **抽样设计**<br>Split-Half Multi-Level Design | 采用分半多水平[[Stratified Sampling\|分层抽样]]，每个样本班级内 50% 学生随机作答教学实践知觉问卷，另 50% 作答背景与动机问卷。 |
-> | **数据收集工具**<br>Instructional Practices Survey | 使用含 230 个题项的学生课堂知觉问卷，采用李克特 5 点量表测查各项教学实践的发生频率与行为特征。 |
-> | **测量指标打包**<br>[[Item Parceling]] | 运用[[Item Parceling\|题项打包（Item Parceling）]]技术（Bandalos & Finney, 2001）将 230 个问卷题项聚合为 22 个潜变量的 3 至 4 个复合包裹指标，削减参数估计负担并平抑测量误差。 |
-> | **测量模型确证**<br>[[Confirmatory Factor Analysis]] | 运用高阶验证性因子分析（CFA）分别检验四类教学策略在数学与英语学科中的测量模型与[[Composite Reliability\|构念信度]]（.79–.90）。 |
-> | **因果结构建模**<br>[[Causal Modeling]] (SEM) | 构建全潜变量结构方程模型，检验不同策略构件之间的直接效应、间接效应与协同协方差路径。 |
-> | **微观个案分析**<br>Qualitative Ethnographic Cases | 结合现场[[Classroom Observation\|课堂观察]]与深度[[Semi-structured Interview\|半结构化访谈]]，对中三英语与数学教师在应对大纲改革与升学考试之间的实践抉择展开个案追踪。 |
+> | **多面板协同架构**<br>Core 2 Multi-Panel Architecture | [[Centre for Research in Pedagogy and Practice\|CRPP]] 核心教学研究计划二期（[[Core 2 Research Program]]）整合大样本知觉问卷调查（Panel 2）、大规模常态课堂多机位录像与细粒度编码（Panel 3）、课业与测验任务真实智力成就评估（Panel 5）以及教师[[In-depth Interview\|深度访谈]]的多源互证设计。 |
+> | **面板二：问卷调查与因果建模**<br>Panel 2 Survey & SEM Modeling | 采用分半多水平[[Stratified Sampling\|分层抽样]]，面向 32 所公立中学 120 间学术班级 4000 余名中三学生采集 230 题项教学实践问卷；运用[[Item Parceling\|题项打包（Item Parceling）]]技术将题项聚合为 22 个潜变量复合指标，并通过高阶[[Confirmatory Factor Analysis\|验证性因子分析]]（CFA）与全潜变量结构方程模型（[[Causal Modeling\|SEM]]）测查四类教学策略的因子载荷与因果路径；同时抽取 120 名授课教师完成专业发展与评估信念问卷，并与全岛 2000 余名教师的教学影响宏观调查相互校验。 |
+> | **面板三：624 节常态课实录与微观编码**<br>Panel 3 Video Observation & Micro-Coding | 从问卷样本学校中抽取子样本班级，实地多机位完整录制 624 节中三数学与英语常态课；由专业观察员依据 CRPP 课堂话语与互动编码系统，逐段量化测查引发—应答—评估（IRE）三段式结构、提问类型、反馈机制、合作学习频次，并对照“积极教学”与[[Visible Learning\|“可见的学习”（Visible Learning）]]测量清单进行微观行为核定。 |
+> | **面板五：课业任务真实智力水准评估**<br>Panel 5 Authentic Intellectual Quality | 依托同批样本班级，系统收集配套教材、课堂练习册、学生作业本、校内阶段测验及国家统考试题；参照 Newmann 等人的真实智力成就标准（Authentic Intellectual Quality）与任务认知需求[[Analytic Framework\|分析框架]]，对任务的认知深度（程序性操练 vs 高阶探究）、[[Epistemology\|认识论]]清晰度以及学生实际作业产出的智力品质进行质性与量化评定。 |
+> | **教师深度质性访谈**<br>Qualitative Teacher Interviews | 对 115 名中三一线数学与英语教师进行半结构化深入访谈，采集教师在国家高利害统考压力、大纲进度覆盖与“少教多学”（TLLM）改革倡导之间权衡博弈的论述语料。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
-> | **学生样本** | 新加坡全国 32 所公立中学超过 4000 名中三学生（数学样本 $N=1166$，英语样本 $N=1027$）。 |
-> | **班级与学科** | 约 120 间学术类班级，涵盖中三数学与中三英语两大基础主干学科。 |
-> | **教师与学校** | 抽取 120 名对应科目的授课教师完成专业发展与评估信念问卷，并选取典型教师进行深度[[Qualitative Interview\|质性访谈]]。 |
-> | **调查情境** | 新加坡南洋理工大学[[National Institute of Education\|国立教育学院]]教育研究中心（[[Centre for Research in Pedagogy and Practice\|CRPP]]）主持开展的[[Core 2 Research Program\|核心教学研究计划二期（Core 2 Research Program）]]，全面覆盖公立中学普通流与快捷流班级。 |
+> | **学生知觉问卷样本（Panel 2）** | 新加坡全国 32 所公立中学 120 间学术班级超过 4000 名中三学生（数学有效样本 $N=1166$，英语有效样本 $N=1027$），覆盖快捷流与普通学术流班级。 |
+> | **教师调查样本（Panel 2）** | 120 名对应授课教师完成专业发展与评估信念问卷；另有覆盖全岛公立中学 2000 余名教师的全国性教学信念与制度影响普查数据。 |
+> | **课堂录像观察样本（Panel 3）** | 2010 年开展的 624 节中三常态课实地多机位教学录像（涵盖中三数学与英语常态课，由专业观察员完成细粒度[[Transcription in Qualitative Research\|转录]]与行为编码）。 |
+> | **课业任务与作业样本（Panel 5）** | 来自样本班级的全套教材、配套习题册、学生日常作业本、校内阶段测验试卷及历年统考模拟题，并包含对应的学生作业产出制品。 |
+> | **[[Qualitative Interview\|质性访谈]]样本** | 115 名一线中三数学与英语授课教师的深度半结构化录音访谈转录材料。 |
+> | **制度与调查情境** | 新加坡南洋理工大学[[National Institute of Education\|国立教育学院]]教育研究中心（[[Centre for Research in Pedagogy and Practice\|CRPP]]）主持开展的[[Core 2 Research Program\|核心教学研究计划二期（Core 2 Research Program）]]，处于“少教多学”课程改革与全国高利害升学统考相互博弈的真实制度场域。 |
 
 ---
 
@@ -350,7 +352,7 @@ issuing_organization: ""
 > [!spectrum] 四类教学策略知觉均值与梯队分化光谱
 > **讲授操练极（高频常态）** · **自主调节极（边缘低谷）**
 > - **传统教学（TI）** 数学 3.69，英语 3.45。教材大纲覆盖与习题记忆操练，构成日常教学高频基础。
-> - **显性直接教学（DI）** 数学 3.67，英语 3.61。示范讲解、内容结构化与针对性练习纠错，均分居于首位。
+> - **显性直接教学（[[Discursive Institutionalism|DI]]）** 数学 3.67，英语 3.61。示范讲解、内容结构化与针对性练习纠错，均分居于首位。
 > - **理解性教学（TfU）** 数学 3.38，英语 3.43。讲评反馈与目标传达保持平稳，全班研讨与小组探究显著受抑。
 > - **共同调节学习（CRLS）** 数学 3.01，英语 3.28。自评互评与反思监控全线处于最低边缘区间。
 
@@ -361,8 +363,8 @@ issuing_organization: ""
 > [!contrast-table] 表 16 四类教学策略在中三数学与英语学科中的总览均分及策略间差异效应量
 > | 教学策略维度 | 中三数学均分（标准差） | 中三英语均分（标准差） | 学科间差异（Cohen's d） | 策略间配对效应量（数学 d） | 策略间配对效应量（英语 d） |
 > |---|---|---|---|---|---|
-> | **传统教学（TI）** | 3.69（0.642） | 3.45（0.669） | 0.37 | TI vs [[Direct Instruction|DI]]: 0.03 | TI vs DI: 0.24 |
-> | **直接教学（[[Direct Instruction|DI]]）** | 3.67（0.670） | 3.61（0.655） | 0.09 | TI vs TfU: 0.50 | TI vs TfU: 0.03 |
+> | **传统教学（TI）** | 3.69（0.642） | 3.45（0.669） | 0.37 | TI vs [[Direct Instruction\|DI]]: 0.03 | TI vs DI: 0.24 |
+> | **直接教学（[[Direct Instruction\|DI]]）** | 3.67（0.670） | 3.61（0.655） | 0.09 | TI vs TfU: 0.50 | TI vs TfU: 0.03 |
 > | **理解性教学（TfU）** | 3.38（0.602） | 3.43（0.564） | 0.09 | TI vs CRLS: 0.96 | TI vs CRLS: 0.25 |
 > | **共同调节学习（CRLS）** | 3.01（0.770） | 3.28（0.688） | 0.37 | DI vs TfU: 0.46 | DI vs TfU: 0.30 |
 > | **—** | — | — | — | DI vs CRLS: 0.91 | DI vs CRLS: 0.49 |
@@ -415,9 +417,9 @@ issuing_organization: ""
 
 > [!sub-claim] 2. 封闭且低认知要求的练习任务显著压制学生的思考与表达空间
 
-> [!critique] 课堂实测对“可见的学习”神话的解构与主体性受限（Hattie, 2009; Hattie & Timperley, 2007; Newmann et al., 1995; Stein et al., 1996）
-> - **“可见的学习”维度实测落差** 国际咨询界常推测新加坡的高绩效源于实施了西方倡导的高效教学法。研究团队基于覆盖全岛 32 所公立中学、624 节中三常态课的实地观察、录像编码与作业任务评估（Core 2 项目 Panel 2、3、5 数据），将实测教学行为与[[John Hattie|约翰·哈蒂]]（John Hattie）的[[Visible Learning|“可见的学习”（Visible Learning）]]与“积极教学”标准逐项对标。测量清单表明，除“检查先备知识”达到中等频次外，明确传达表现标准、展示成功范例、形成性反馈、高阶提问及理解性对话在绝大多数样本课堂中均处于低频发生状态（评定为“偏低”）。教师在课堂中虽高度活跃，但活动主要局限于单向讲解与纠错操练，极少采用哈蒂所强调的高效“可见的学习”策略。
-> - **四重主体性的结构性受限** 课堂任务评估证实，习题设计多为狭窄、封闭的程序性常规题，对高阶认知需求极低。这种任务结构导致学生的[[Epistemology|认识论]]主体性、认知主体性、元认知主体性与[[Discourse|话语]]主体性在微观课堂中受到普遍压制，缺乏真实探究与深度知识建构的机会。
+> [!critique] 课堂实测对标“可见的学习”指标落差与主体性受限（Hattie, 2009; Hattie & Timperley, 2007; Newmann et al., 1995; Stein et al., 1996）
+> - **“可见的学习”指标实测偏离** 国际教育观察常推测新加坡的国际学业高表现源于广泛实施了“积极教学”或“可见的学习”。研究团队基于 32 所公立中学 624 节中三常态课的实地录像编码与作业任务评估（Core 2 项目 Panel 2、3、5 数据），将实测教学行为与[[John Hattie|约翰·哈蒂]]（John Hattie）的[[Visible Learning|“可见的学习”（Visible Learning）]]与积极教学指标逐项对标。测量清单表明，除“检查先备知识”达到中等频次外，明确传达表现标准、展示成功范例、形成性反馈、高阶提问及理解性对话在绝大多数样本课堂中均处于低频发生状态（评定为“偏低”）。教师在课堂中虽高度活跃，但行为主要局限于单向讲解与纠错操练，极少采用哈蒂界定的高阶支持机制。实测数据证实，新加坡的国际学业高表现并未建立在普及“可见的学习”基础之上，而是依赖高度工具主义的备考与显性直接教学。
+> - **四重主体性的结构性受限** 课堂任务评估证实，习题设计多为狭窄、封闭的程序性常规题，对高阶认知需求极低。这种[[Task Structure|任务结构]]导致学生的[[Epistemology|认识论]]主体性、认知主体性、元认知主体性与[[Discourse|话语]]主体性在微观课堂中受到普遍压制，缺乏真实探究与深度[[Knowledge Building Theory|知识建构]]的机会。
 
 > [!logic-map]- 任务设置与实施、学生主体性与知识建构理论模型
 > ```mermaid
@@ -449,7 +451,7 @@ issuing_organization: ""
 > [!contrast-table] 表 18 新加坡中三课堂积极教学与“可见的学习”扩展指标测查清单
 > | 评价准则指标 | 测得执行水准（数学） | 测得执行水准（英语） | 数据来源面板 |
 > |---|---|---|---|
-> | **检查先备知识** | 中等 | 中等 | 面板 3（课堂观察） |
+> | **检查先备知识** | 中等 | 中等 | 面板 3（[[Classroom Observation\|课堂观察]]） |
 > | **传达具体学习目标** | 偏低 | 偏低 | 面板 2、3（问卷与观察） |
 > | **传达清晰学业表现标准** | 偏低 | 偏低 | 面板 2、3、5（多源测量） |
 > | **展示成功表现范例** | 偏低 | 偏低 | 面板 3（课堂观察） |
@@ -463,7 +465,7 @@ issuing_organization: ""
 > | **理解性对话交流** | 偏低 | 偏低 | 面板 2、3（问卷与观察） |
 > | **显性讲授研讨与合作规则** | 偏低 | 偏低 | 面板 3（课堂观察） |
 >
-> **表格解读** 结果打破了高绩效课堂等同于高水平积极可见教学的假设。教师虽然高度活跃，但活动集中于讲解和纠错，缺乏支持深度可见学习的高阶机制。
+> **表格解读** 实测数据打破了“高学业成绩必然对应高水准‘可见的学习’”的推论。教师在课堂中虽然高度活跃，但活动主要集中于讲解示范与习题纠错，而在展示成功范例、提供形成性反馈与展开理解性对话等关键维度上均处于低频状态。
 
 > [!contrast-table] 表 19 课堂任务设计对学生主体性与知识建构教学法的制约评估
 > | 评价准则维度 | 测得执行水准（数学） | 测得执行水准（英语） | 对应数据来源面板 |
@@ -478,7 +480,7 @@ issuing_organization: ""
 ---
 
 > [!claim|step] 论证步骤四　全国统一升学考试深度约束课堂教学，阻碍[[Inquiry-Based Learning|探究式教学]]改革落地
-> 新加坡教师的教学杂糅与绩效导向深刻植根于制度环境，受到[[Singapore-Cambridge GCE Ordinary Level|新加坡剑桥普通教育证书普通水准会考]]（Singapore-Cambridge [[Global Campaign for Education|GCE]] Ordinary Level, GCE O-Level）与[[Primary School Leaving Examination|小六离校考试]]（Primary School Leaving Examination, PSLE）等高利害考试体制的刚性制度约束。微观教学实践与国家统考之间形成了极强的课程对齐（Curriculum Alignment），但与宏观渐进式课程改革政策构成了深刻的结构性脱节。
+> 新加坡教师的教学杂糅与绩效导向深刻植根于制度环境，受到[[Singapore-Cambridge GCE Ordinary Level|新加坡剑桥普通教育证书普通水准会考]]（Singapore-Cambridge GCE Ordinary Level, GCE O-Level）与[[Primary School Leaving Examination|小六离校考试]]（Primary School Leaving Examination, PSLE）等高利害考试体制的刚性制度约束。微观教学实践与国家统考之间形成了极强的课程对齐（Curriculum Alignment），但与宏观渐进式课程改革政策构成了深刻的结构性脱节。
 
 > [!sub-claim] 1. 统考问责压力重于大纲理念倡导，教师退守基础习题演练
 
@@ -541,7 +543,7 @@ issuing_organization: ""
 > [!finding-cards] 核心发现
 > 1. **教学杂糅构成实践常态** 新加坡教师广泛采用整合传统讲授、显性直接教学与理解策略的杂糅形态，超越了非此即彼的理论教条。
 > 2. **因果层级依赖高度稳固** 结构方程全模型确证了传统教学 $\rightarrow$ 直接教学 $\rightarrow$ 理解性教学 $\rightarrow$ 共同调节学习逐级递进的单向递归因果链条。
-> 3. **可见学习与学生主体性全面压制** 课堂任务设置狭隘封闭，除先备知识检核外，对话研讨、元认知调节与认识论主体性全线低迷。
+> 3. **“可见的学习”与学生主体性全面受限** 课堂任务设置狭隘封闭，除先备知识检核外，对话研讨、元认知调节与认识论主体性全线低迷。
 > 4. **高利害统考体制构成刚性制度约束** 统考问责机制强化了以大纲覆盖和习题操练为主的教学模式，致使少教多学（TLLM）改革在实践中难以全面铺开。
 
 > [!stat-cards]- 核心数据

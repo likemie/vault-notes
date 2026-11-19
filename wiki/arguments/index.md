@@ -472,7 +472,7 @@ Total entries: **457**
 
 > [!index-list]- Industry and Higher Education (2)
 > - [[Argument_Liu_2025_IndHE]] — 基于三所中国行业高校面向中亚、东南亚与非洲开展的跨国定向工程教育叙事实录，运用知识外交五要素框架系统解构政产学四方协同机制，阐明以能力进路填补关键基建赤字并实现国家长期经济利益与南南互惠发展的共生逻辑
-> - [[Argument_Natario_2025_IndHE]] — 以葡萄牙中部地区六所理工学院及全国共创网络为探索性个案，论证应用型高等教育机构如何依托开放式创新与社会经济协作催化区域创新生态并践行第四使命。
+> - [[Argument_Natario_2025_IndHE]] — 基于探索性与反思性个案研究，结合区域创新系统、三重螺旋与开放式创新框架分析葡萄牙中部六所理工学院的四项共创与社会经济枢纽项目，论证应用型高校如何通过知识转移与社区赋权履行促进区域内生发展的第四使命。
 
 > [!index-list]- International and Comparative Education (2)
 > - [[Argument_Yang_2023_ICE]] — 运用整合营销传播理论（Integrated Marketing Communications, IMC），拆解芬兰将国际学生评估项目（Programme for International Student Assessment, PISA）声誉转化为国家品牌的机制。芬兰以内容整合确立最好教育、小国大教育、化解危机能力与芬兰悖论四维识别，以渠道整合协同测评、公关与网络门户；但商业营销伴生等级化劣势他者及将福利制度简化为话术神话等伦理局限
