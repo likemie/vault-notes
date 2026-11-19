@@ -10,7 +10,7 @@ summary: "研究者深入研究现场进行长期观察、参与和深度体验�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 40
+method_related_count: 42
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -54,6 +54,7 @@ related_methods:
   - "[[Qualitative Observation]]"
   - "[[Comparative Case Study]]"
   - "[[Case Study]]"
+  - "[[Vertical Case Study]]"
 related_instruments: []
 related_persons:
   - "[[Robert Arnove]]"
@@ -67,10 +68,11 @@ related_arguments:
   - "[[Argument_Nordtveit_2011_IJED]]"
   - "[[Argument_Xie_2017_PKUER]]"
   - "[[Argument_Wang_2025_CE]]"
+  - "[[Argument_Vavrus_2006_CICE]]"
 confidence: high
 status: completed
 created: 2026-06-25
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 
 ---
@@ -154,6 +156,7 @@ updated: 2026-11-19
 > | [[Participant Observation\|参与观察]] | 核心技术 | 参与观察是田野调查现场搜集第一手行为与情境资料的最主要工具。 |
 > | [[Rich and Thick Description\|厚描述]] | 输出规范 | 厚描述是田野工作呈现本土文化意义与抵御抽象化还原的经典叙事[[Paradigm\|范式]]。 |
 > | [[Comparative Case Study\|比较案例研究]] | 组合方法 | 多地点田野调查为比较[[Case Study\|案例研究]]提供跨尺度垂直与水平互证的微观厚实材料。 |
+> | [[Vertical Case Study]] | 组合方法 | 垂直案例研究以深度微观田野调查为基底，将其置于宏观多尺度制度脉络中展开比较。 |
 > | [[Robert Arnove\|罗伯特·阿诺夫]] | 人物 | 倡导运用跨国微观田野研究透视全球化宏观政策在地方遭遇的变通与抵制。 |
 
 ---
@@ -167,3 +170,4 @@ updated: 2026-11-19
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 108–110)]] — 评析比较教育学者如何通过精细的实证田野研究（fieldwork），考察以色列课程分权、几内亚与美法阅读教学、巴布亚新几内亚乡村青年文化抵抗以及印度女教师在职培训，实证确立全球与本土辩证互动的微观机制。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 128–129)]] — 梳理国际与比较教育研究中的田野伦理困境，深入反思跨文化田野调查中研究者与研究对象的权力关系、女性主义田野困境及本土化（[[Going Native]]）张力。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, pp. 155–156)]] — 考证 20 世纪 80–90 年代人类学田野调查与女性主义广泛进入比较教育学、打破功能主义垄断的多元化历程，并警示田野微观繁荣背后学科深陷“[[Historical Amnesia|历史健忘症]]”的危机。
+> - [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] — 结合坦桑尼亚长时段实地田野工作，阐明深度掌握本土语言与历史文化脉络的田野调查对检验国际组织宏观政策假设与保障生态效度的决定性价值。

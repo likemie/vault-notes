@@ -9,7 +9,7 @@ summary: "质性研究与比较教育研究中超越参与者日常语言、运�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 105
+method_related_count: 106
 method_related_level: 10
 method_related_stars: "💎💎💎⭐"
 method_related_color: "#dbeafe"
@@ -132,6 +132,7 @@ related_arguments:
   - "[[Argument_Barrenechea_2023_JEC]]"
   - "[[Argument_Deng_2016_CE]]"
   - "[[Argument_Chua_2011_CILP]]"
+  - "[[Argument_Vavrus_2006_CICE]]"
 confidence: high
 status: active
 created: 2026-06-01
@@ -266,3 +267,4 @@ updated: 2026-11-20
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 通过三级扎根编码提炼[[System-Wide Improvement|全系统改进]]的关键驱动力，构建以宏微观治理桥接与教学实践为核心的整合性分析框架（p. 5）。
 > - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 构建整合跨国政策批判、五十年历史制度演化考证与千余节常态课堂录像实证的三维分析框架，系统解构高绩效神话并阐释[[Pedagogical Hybridity|教学杂糅]]机理。（pp. 450–452）
 > - [[Argument_Chua_2011_CILP|Chua (2011)]] — 运用卡普兰与鲍尔道夫（Kaplan & Baldauf, 1997）的八维语言教育规划分析框架，系统解构新加坡从非英语社会转型为懂英语国家的政策协同机制与非预期语言接触后果（pp. 127–130）。
+> - [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] — 阐明比较教育学者如何依托学科基础理论确立概念分析框架，并结合跨学科方法以把握微观、国家与国际多尺度变量的复杂互动机制（p. 100）。

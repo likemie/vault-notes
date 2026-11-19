@@ -845,6 +845,8 @@
     "Amorim, 2022": "Amorim, 2022",
     "Amos (2019)": "Amos, 2019",
     "Amos, 2019": "Amos, 2019",
+    "Amrein & Berliner (2002)": "Amrein & Berliner, 2002",
+    "Amrein & Berliner, 2002": "Amrein & Berliner, 2002",
     "Amrein-Beardsley & Holloway (2017)": "Amrein-Beardsley & Holloway, 2017",
     "Amrein-Beardsley & Holloway, 2017": "Amrein-Beardsley & Holloway, 2017",
     "Amrhein & Badstieber (2019)": "Amrhein & Badstieber, 2019",
@@ -2447,8 +2449,10 @@
     "Berliner & Biddle (1995)": "Berliner & Biddle, 1995",
     "Berliner & Biddle, 1995": "Berliner & Biddle, 1995",
     "Berliner (2002)": "Berliner, 2002",
+    "Berliner (2005)": "Berliner, 2005",
     "Berliner (2007)": "Berliner, 2007",
     "Berliner, 2002": "Berliner, 2002",
+    "Berliner, 2005": "Berliner, 2005",
     "Berliner, 2007": "Berliner, 2007",
     "Berlinski (2009)": "Berlinski, 2009",
     "Berlinski, 2009": "Berlinski, 2009",
@@ -3313,6 +3317,8 @@
     "Braun & Clarke, 2006": "Braun & Clarke, 2006",
     "Braun & Meacham (2024)": "Braun & Meacham, 2024",
     "Braun & Meacham, 2024": "Braun & Meacham, 2024",
+    "Braun (2004)": "Braun, 2004",
+    "Braun, 2004": "Braun, 2004",
     "Brautigam (2020)": "Brautigam, 2020",
     "Brautigam, 2020": "Brautigam, 2020",
     "Braverman (1974)": "Braverman, 1974",
@@ -4815,6 +4821,8 @@
     "Cheung (2017)": "Cheung, 2017",
     "Cheung, 2014": "Cheung, 2014",
     "Cheung, 2017": "Cheung, 2017",
+    "Chevallard (2006)": "Chevallard, 2006",
+    "Chevallard, 2006": "Chevallard, 2006",
     "Chew (2007)": "Chew, 2007",
     "Chew et al. (1997)": "Chew et al., 1997",
     "Chew et al., 1997": "Chew et al., 1997",
@@ -6162,6 +6170,7 @@
     "Davis & Taylor-Vaisey (1997)": "Davis & Taylor-Vaisey, 1997",
     "Davis & Taylor-Vaisey, 1997": "Davis & Taylor-Vaisey, 1997",
     "Davis (2000)": "Davis, 2000",
+    "Davis (2002)": "Davis, 2002",
     "Davis (2004)": "Davis, 2004",
     "Davis (2009)": "Davis, 2009",
     "Davis (2010)": "Davis, 2010",
@@ -6171,6 +6180,7 @@
     "Davis et al., 1995": "Davis et al., 1995",
     "Davis et al., 2012": "Davis et al., 2012",
     "Davis, 2000": "Davis, 2000",
+    "Davis, 2002": "Davis, 2002",
     "Davis, 2004": "Davis, 2004",
     "Davis, 2009": "Davis, 2009",
     "Davis, 2010": "Davis, 2010",
@@ -11924,7 +11934,9 @@
     "Hulten (1976)": "Hulten, 1976",
     "Hulten, 1976": "Hulten, 1976",
     "Humboldt (1961)": "Humboldt, 1961",
+    "Humboldt (2000)": "Humboldt, 2000",
     "Humboldt, 1961": "Humboldt, 1961",
+    "Humboldt, 2000": "Humboldt, 2000",
     "Hume (2000)": "Hume, 2000",
     "Hume, 2000": "Hume, 2000",
     "Hummel & Randler (2012)": "Hummel & Randler, 2012",
@@ -12041,6 +12053,8 @@
     "Höft & Hell, 2017": "Höft & Hell, 2017",
     "Höft et al. (2019)": "Höft et al., 2019",
     "Höft et al., 2019": "Höft et al., 2019",
+    "Hörmann (2007)": "Hörmann, 2007",
+    "Hörmann, 2007": "Hörmann, 2007",
     "Hörning (2001)": "Hörning, 2001",
     "Hörning, 2001": "Hörning, 2001",
     "Hösle (1987)": "Hösle, 1987",
@@ -12913,8 +12927,6 @@
     "Joseph (1999)": "Joseph, 1999",
     "Joseph Lauwerys (1957)": "Joseph Lauwerys, 1957",
     "Joseph Lauwerys, 1957": "Joseph Lauwerys, 1957",
-    "Joseph Schwab (1969)": "Joseph Schwab, 1969",
-    "Joseph Schwab, 1969": "Joseph Schwab, 1969",
     "Joseph, 1999": "Joseph, 1999",
     "Josephson (1991)": "Josephson, 1991",
     "Josephson (1998)": "Josephson, 1998",
@@ -13866,8 +13878,12 @@
     "Kjærnsli & Lie, 2011": "Kjærnsli & Lie, 2011",
     "Klaauw (2008)": "Klaauw, 2008",
     "Klaauw, 2008": "Klaauw, 2008",
+    "Klafki (1958)": "Klafki, 1958",
+    "Klafki (1959)": "Klafki, 1959",
     "Klafki (1975)": "Klafki, 1975",
     "Klafki (1998)": "Klafki, 1998",
+    "Klafki, 1958": "Klafki, 1958",
+    "Klafki, 1959": "Klafki, 1959",
     "Klafki, 1975": "Klafki, 1975",
     "Klafki, 1998": "Klafki, 1998",
     "Klager (2018)": "Klager, 2018",
@@ -14088,6 +14104,10 @@
     "Korat, 2009": "Korat, 2009",
     "Korat, 2010": "Korat, 2010",
     "Korat, 2013": "Korat, 2013",
+    "Koretz & Barton (2003)": "Koretz & Barton, 2003",
+    "Koretz & Barton, 2003": "Koretz & Barton, 2003",
+    "Koretz (2003)": "Koretz, 2003",
+    "Koretz, 2003": "Koretz, 2003",
     "Korkmaz et al. (2015)": "Korkmaz et al., 2015",
     "Korkmaz et al. (2017)": "Korkmaz et al., 2017",
     "Korkmaz et al., 2015": "Korkmaz et al., 2015",
@@ -14516,6 +14536,8 @@
     "Köster et al., 2020": "Köster et al., 2020",
     "Kübler (2009)": "Kübler, 2009",
     "Kübler, 2009": "Kübler, 2009",
+    "Künzli (2002)": "Künzli, 2002",
+    "Künzli, 2002": "Künzli, 2002",
     "Küpers (2012)": "Küpers, 2012",
     "Küpers, 2012": "Küpers, 2012",
     "Kırmızı (2019)": "Kırmızı, 2019",
@@ -14985,8 +15007,6 @@
     "Lee Cronbach, 1971": "Lee Cronbach, 1971",
     "Lee Kuan Yew (2000)": "Lee Kuan Yew, 2000",
     "Lee Kuan Yew, 2000": "Lee Kuan Yew, 2000",
-    "Lee Shulman (1987)": "Lee Shulman, 1987",
-    "Lee Shulman, 1987": "Lee Shulman, 1987",
     "Lee et al. (2014a)": "Lee et al., 2014a",
     "Lee et al. (2014b)": "Lee et al., 2014b",
     "Lee et al. (2016)": "Lee et al., 2016",
@@ -15497,6 +15517,7 @@
     "Linn & Peterson (1985)": "Linn & Peterson, 1985",
     "Linn & Peterson, 1985": "Linn & Peterson, 1985",
     "Linn (1993)": "Linn, 1993",
+    "Linn (2000)": "Linn, 2000",
     "Linn (2003)": "Linn, 2003",
     "Linn (2006)": "Linn, 2006",
     "Linn (2015)": "Linn, 2015",
@@ -15508,6 +15529,7 @@
     "Linn et al., 2014": "Linn et al., 2014",
     "Linn et al., 2023": "Linn et al., 2023",
     "Linn, 1993": "Linn, 1993",
+    "Linn, 2000": "Linn, 2000",
     "Linn, 2003": "Linn, 2003",
     "Linn, 2006": "Linn, 2006",
     "Linn, 2015": "Linn, 2015",
@@ -19822,7 +19844,9 @@
     "Perdew-Burke-Ernzerhof, 1996": "Perdew-Burke-Ernzerhof, 1996",
     "Perdue (2015)": "Perdue, 2015",
     "Perdue, 2015": "Perdue, 2015",
+    "Pereira (1984)": "Pereira, 1984",
     "Pereira (2014)": "Pereira, 2014",
+    "Pereira, 1984": "Pereira, 1984",
     "Pereira, 2014": "Pereira, 2014",
     "Perels (2005)": "Perels, 2005",
     "Perels (2009)": "Perels, 2009",
@@ -20149,6 +20173,8 @@
     "Pimlott (2002)": "Pimlott, 2002",
     "Pimlott, 2002": "Pimlott, 2002",
     "Pinar (2011)": "Pinar, 2011",
+    "Pinar et al. (1995)": "Pinar et al., 1995",
+    "Pinar et al., 1995": "Pinar et al., 1995",
     "Pinar, 2011": "Pinar, 2011",
     "Pineau (2001)": "Pineau, 2001",
     "Pineau, 2001": "Pineau, 2001",
@@ -21728,6 +21754,8 @@
     "Rossoni et al. (2024)": "Rossoni et al., 2024",
     "Rossoni et al., 2023": "Rossoni et al., 2023",
     "Rossoni et al., 2024": "Rossoni et al., 2024",
+    "Rost (1996)": "Rost, 1996",
+    "Rost, 1996": "Rost, 1996",
     "Rostron (2009)": "Rostron, 2009",
     "Rostron, 2009": "Rostron, 2009",
     "Roszak (1970)": "Roszak, 1970",
@@ -21832,8 +21860,6 @@
     "Ruddock, 1981": "Ruddock, 1981",
     "Rudestam & Newton (2014)": "Rudestam & Newton, 2014",
     "Rudestam & Newton, 2014": "Rudestam & Newton, 2014",
-    "Rudolf Künzli (2002)": "Rudolf Künzli, 2002",
-    "Rudolf Künzli, 2002": "Rudolf Künzli, 2002",
     "Rueda (2012)": "Rueda, 2012",
     "Rueda, 2012": "Rueda, 2012",
     "Ruff et al. (2019)": "Ruff et al., 2019",
@@ -22731,6 +22757,10 @@
     "Schutz, 1967": "Schutz, 1967",
     "Schutzwohl (1998)": "Schutzwohl, 1998",
     "Schutzwohl, 1998": "Schutzwohl, 1998",
+    "Schwab & Roby (1986)": "Schwab & Roby, 1986",
+    "Schwab & Roby, 1986": "Schwab & Roby, 1986",
+    "Schwab (1969)": "Schwab, 1969",
+    "Schwab, 1969": "Schwab, 1969",
     "Schwalb et al. (1986)": "Schwalb et al., 1986",
     "Schwalb et al., 1986": "Schwalb et al., 1986",
     "Schwandt (2014)": "Schwandt, 2014",
@@ -24180,7 +24210,9 @@
     "Statistisches Bundesamt, 2001": "Statistisches Bundesamt, 2001",
     "Staunton (2003)": "Staunton, 2003",
     "Staunton, 2003": "Staunton, 2003",
+    "Stecher et al. (1998)": "Stecher et al., 1998",
     "Stecher et al. (2019)": "Stecher et al., 2019",
+    "Stecher et al., 1998": "Stecher et al., 1998",
     "Stecher et al., 2019": "Stecher et al., 2019",
     "Steedman (2001)": "Steedman, 2001",
     "Steedman, 2001": "Steedman, 2001",
@@ -26780,6 +26812,8 @@
     "Watson & Glaser (2012)": "Watson & Glaser, 2012",
     "Watson & Glaser, 1980": "Watson & Glaser, 1980",
     "Watson & Glaser, 2012": "Watson & Glaser, 2012",
+    "Watson & Supovitz (2001)": "Watson & Supovitz, 2001",
+    "Watson & Supovitz, 2001": "Watson & Supovitz, 2001",
     "Watson (1913)": "Watson, 1913",
     "Watson (1982)": "Watson, 1982",
     "Watson (2008)": "Watson, 2008",
@@ -26992,7 +27026,9 @@
     "Westbrook (1991)": "Westbrook, 1991",
     "Westbrook, 1991": "Westbrook, 1991",
     "Westbury (1994)": "Westbury, 1994",
+    "Westbury (2002)": "Westbury, 2002",
     "Westbury, 1994": "Westbury, 1994",
+    "Westbury, 2002": "Westbury, 2002",
     "Westera (1995)": "Westera, 1995",
     "Westera, 1995": "Westera, 1995",
     "Wetherell et al. (2001)": "Wetherell et al., 2001",
@@ -27055,6 +27091,8 @@
     "Whitesell, 2016": "Whitesell, 2016",
     "Whitfield (1971)": "Whitfield, 1971",
     "Whitfield, 1971": "Whitfield, 1971",
+    "Whitford & Jones (2000)": "Whitford & Jones, 2000",
+    "Whitford & Jones, 2000": "Whitford & Jones, 2000",
     "Whitford et al. (2018)": "Whitford et al., 2018",
     "Whitford et al., 2018": "Whitford et al., 2018",
     "Whitty & Edwards (1994)": "Whitty & Edwards, 1994",
@@ -27388,8 +27426,6 @@
     "Wolff, 2011": "Wolff, 2011",
     "Wolff-Grosser (2018)": "Wolff-Grosser, 2018",
     "Wolff-Grosser, 2018": "Wolff-Grosser, 2018",
-    "Wolfgang Klafki (1958)": "Wolfgang Klafki, 1958",
-    "Wolfgang Klafki, 1958": "Wolfgang Klafki, 1958",
     "Wolfgang Mitter (2009)": "Wolfgang Mitter, 2009",
     "Wolfgang Mitter, 2009": "Wolfgang Mitter, 2009",
     "Wolfgang Sandner (1979)": "Wolfgang Sandner, 1979",
@@ -28006,8 +28042,6 @@
     "Yusuf, 2013": "Yusuf, 2013",
     "Yuwono & Sujono (2018)": "Yuwono & Sujono, 2018",
     "Yuwono & Sujono, 2018": "Yuwono & Sujono, 2018",
-    "Yves Chevallard (2006)": "Yves Chevallard, 2006",
-    "Yves Chevallard, 2006": "Yves Chevallard, 2006",
     "Yörük & Sen (2022)": "Yörük & Sen, 2022",
     "Yörük & Sen, 2022": "Yörük & Sen, 2022",
     "Yıldız (2014)": "Yıldız, 2014",
@@ -35289,6 +35323,21 @@
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Jornitz_2022_Bildung_algorithmic.md"
       ],
       "title": ""
+    },
+    "Amrein & Berliner, 2002": {
+      "aliases": [
+        "Amrein & Berliner, 2002",
+        "Amrein & Berliner (2002)"
+      ],
+      "doi": "10.14507/epaa.v10n18.2002",
+      "identity_keys": [
+        "Amrein & Berliner, 2002"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
+      ],
+      "title": "High-Stakes Testing, Uncertainty, and Student Learning"
     },
     "Amrein-Beardsley & Holloway, 2017": {
       "aliases": [
@@ -47143,6 +47192,21 @@
       ],
       "title": ""
     },
+    "Berliner, 2005": {
+      "aliases": [
+        "Berliner, 2005",
+        "Berliner (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Berliner, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
+      ],
+      "title": "Our Impoverished View of Educational Reform"
+    },
     "Berliner, 2007": {
       "aliases": [
         "Berliner, 2007",
@@ -53580,6 +53644,21 @@
         "wiki/theories/educational-philosophy/Formative Epistemic Injustice.md"
       ],
       "title": ""
+    },
+    "Braun, 2004": {
+      "aliases": [
+        "Braun, 2004",
+        "Braun (2004)"
+      ],
+      "doi": "10.14507/epaa.v12n1.2004",
+      "identity_keys": [
+        "Braun, 2004"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
+      ],
+      "title": "Reconsidering the Impact of High-Stakes Testing"
     },
     "Brautigam, 2020": {
       "aliases": [
@@ -64583,6 +64662,21 @@
       "seen_in": [],
       "title": "Effectiveness of parent-child number board game playing in promoting Chinese kindergarteners' numeracy skills and mathematics interest"
     },
+    "Chevallard, 2006": {
+      "aliases": [
+        "Chevallard, 2006",
+        "Chevallard (2006)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Chevallard, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
+      ],
+      "title": "Transposition Didactique and Knowledge Transformation"
+    },
     "Chew et al., 1997": {
       "aliases": [
         "Chew et al., 1997",
@@ -74480,6 +74574,21 @@
       "seen_in": [],
       "title": "The effect of class size reduction on student achievement and teacher attitude in first grade"
     },
+    "Davis, 2002": {
+      "aliases": [
+        "Davis, 2002",
+        "Davis (2002)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Davis, 2002"
+      ],
+      "isbn": "9780820455075",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
+      ],
+      "title": "The Theoretic Meets the Practical: The Practical Wins"
+    },
     "Davis, 2004": {
       "aliases": [
         "Davis, 2004",
@@ -76739,10 +76848,11 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md",
         "wiki/concepts/educational-philosophy/Education as Growth.md",
         "wiki/concepts/educational-philosophy/Pragmatic Paradigm.md"
       ],
-      "title": ""
+      "title": "Democracy and Education: An Introduction to the Philosophy of Education"
     },
     "Dewey, 1922": {
       "aliases": [
@@ -116744,6 +116854,21 @@
       ],
       "title": ""
     },
+    "Humboldt, 2000": {
+      "aliases": [
+        "Humboldt, 2000",
+        "Humboldt (2000)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Humboldt, 2000"
+      ],
+      "isbn": "9780805829211",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
+      ],
+      "title": "Theory of Bildung"
+    },
     "Hume, 2000": {
       "aliases": [
         "Hume, 2000",
@@ -117566,6 +117691,21 @@
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Thompson_2022_Promising_Student.md"
       ],
       "title": ""
+    },
+    "Hörmann, 2007": {
+      "aliases": [
+        "Hörmann, 2007",
+        "Hörmann (2007)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hörmann, 2007"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
+      ],
+      "title": "Die Unsichtbaren in PISA, TIMSS & Co"
     },
     "Hörning, 2001": {
       "aliases": [
@@ -123797,21 +123937,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/comparative-education/Convergence Theory in Comparative Education.md"
-      ],
-      "title": ""
-    },
-    "Joseph Schwab, 1969": {
-      "aliases": [
-        "Joseph Schwab, 1969",
-        "Joseph Schwab (1969)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Joseph Schwab, 1969"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
       ],
       "title": ""
     },
@@ -130728,6 +130853,34 @@
       ],
       "title": ""
     },
+    "Klafki, 1958": {
+      "aliases": [
+        "Klafki, 1958",
+        "Klafki (1958)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Klafki, 1958"
+      ],
+      "isbn": "9780805829211",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
+      ],
+      "title": "Didaktik Analysis as Core of Preparation of Instruction"
+    },
+    "Klafki, 1959": {
+      "aliases": [
+        "Klafki, 1959",
+        "Klafki (1959)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Klafki, 1959"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Das pädagogische Problem des Elementaren und die Theorie der kategorialen Bildung"
+    },
     "Klafki, 1975": {
       "aliases": [
         "Klafki, 1975",
@@ -131115,7 +131268,7 @@
         "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md",
         "wiki/facts/germany/Klieme Report.md"
       ],
-      "title": ""
+      "title": "Zur Entwicklung nationaler Bildungsstandards: Eine Expertise"
     },
     "Klimova & de Campos, 2024": {
       "aliases": [
@@ -132360,6 +132513,36 @@
       "isbn": "",
       "seen_in": [],
       "title": "Expanding the boundaries of shared book reading  E-books and printed books in parent–child reading as support for children’s language"
+    },
+    "Koretz & Barton, 2003": {
+      "aliases": [
+        "Koretz & Barton, 2003",
+        "Koretz & Barton (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Koretz & Barton, 2003"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
+      ],
+      "title": "Assessing Students with Disabilities: Issues and Evidence"
+    },
+    "Koretz, 2003": {
+      "aliases": [
+        "Koretz, 2003",
+        "Koretz (2003)"
+      ],
+      "doi": "10.2307/3069616",
+      "identity_keys": [
+        "Koretz, 2003"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
+      ],
+      "title": "Limitations in the Use of Achievement Tests as Measures of Educators' Productivity"
     },
     "Korkmaz et al., 2015": {
       "aliases": [
@@ -135323,6 +135506,21 @@
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Jornitz_2022_Bildung_algorithmic.md"
       ],
       "title": ""
+    },
+    "Künzli, 2002": {
+      "aliases": [
+        "Künzli, 2002",
+        "Künzli (2002)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Künzli, 2002"
+      ],
+      "isbn": "9780820455075",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
+      ],
+      "title": "The Common Frame and the Places of Didaktik"
     },
     "Küpers, 2012": {
       "aliases": [
@@ -138642,21 +138840,6 @@
         "wiki/concepts/ethics-of-technology/Effective Altruism.md",
         "wiki/concepts/ethics-of-technology/Technological Agnosticism.md",
         "wiki/concepts/political-economy-geopolitics/Civic Rituals.md"
-      ],
-      "title": ""
-    },
-    "Lee Shulman, 1987": {
-      "aliases": [
-        "Lee Shulman, 1987",
-        "Lee Shulman (1987)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Lee Shulman, 1987"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
       ],
       "title": ""
     },
@@ -142479,6 +142662,21 @@
         "wiki/methods/quantitative/Ebel Method.md"
       ],
       "title": ""
+    },
+    "Linn, 2000": {
+      "aliases": [
+        "Linn, 2000",
+        "Linn (2000)"
+      ],
+      "doi": "10.2307/1177052",
+      "identity_keys": [
+        "Linn, 2000"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
+      ],
+      "title": "Assessments and Accountability"
     },
     "Linn, 2003": {
       "aliases": [
@@ -146595,7 +146793,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
       ],
-      "title": ""
+      "title": "Überfachliche Kompetenzen"
     },
     "Maasen & Weingart, 2005": {
       "aliases": [
@@ -155661,15 +155859,15 @@
         "Meyerhöfer, 2005",
         "Meyerhöfer (2005)"
       ],
-      "doi": "",
+      "doi": "10.1007/978-3-322-80796-0",
       "identity_keys": [
         "Meyerhöfer, 2005"
       ],
-      "isbn": "",
+      "isbn": "9783938094327",
       "seen_in": [
         "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
       ],
-      "title": ""
+      "title": "Tests im Test: Das Beispiel PISA"
     },
     "Mezcua-Hidalgo, 2019": {
       "aliases": [
@@ -167519,15 +167717,16 @@
         "OECD, 2001",
         "OECD (2001)"
       ],
-      "doi": "",
+      "doi": "10.1787/9789264195905-en",
       "identity_keys": [
         "OECD, 2001"
       ],
-      "isbn": "",
+      "isbn": "9789264195905",
       "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md",
         "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Grek_2009_JEdPolicy.md"
       ],
-      "title": ""
+      "title": "Knowledge and Skills for Life: First Results from PISA 2000"
     },
     "OECD, 2002": {
       "aliases": [
@@ -174004,6 +174203,21 @@
       ],
       "title": ""
     },
+    "Pereira, 1984": {
+      "aliases": [
+        "Pereira, 1984",
+        "Pereira (1984)"
+      ],
+      "doi": "10.1080/0022027840160404",
+      "identity_keys": [
+        "Pereira, 1984"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
+      ],
+      "title": "Deliberation and the Arts of Perception"
+    },
     "Pereira, 2014": {
       "aliases": [
         "Pereira, 2014",
@@ -176407,6 +176621,21 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md"
       ],
       "title": ""
+    },
+    "Pinar et al., 1995": {
+      "aliases": [
+        "Pinar et al., 1995",
+        "Pinar et al. (1995)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Pinar et al., 1995"
+      ],
+      "isbn": "9780820426013",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
+      ],
+      "title": "Understanding Curriculum"
     },
     "Pinar, 2011": {
       "aliases": [
@@ -188000,6 +188229,21 @@
       ],
       "title": "Barriers and facilitators of university-industry collaboration for research, development and innovation: a systematic review"
     },
+    "Rost, 1996": {
+      "aliases": [
+        "Rost, 1996",
+        "Rost (1996)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Rost, 1996"
+      ],
+      "isbn": "9783456827827",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
+      ],
+      "title": "Testtheorie – Testkonstruktion"
+    },
     "Rostron, 2009": {
       "aliases": [
         "Rostron, 2009",
@@ -188762,21 +189006,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md"
-      ],
-      "title": ""
-    },
-    "Rudolf Künzli, 2002": {
-      "aliases": [
-        "Rudolf Künzli, 2002",
-        "Rudolf Künzli (2002)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Rudolf Künzli, 2002"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
       ],
       "title": ""
     },
@@ -195394,6 +195623,36 @@
       ],
       "title": ""
     },
+    "Schwab & Roby, 1986": {
+      "aliases": [
+        "Schwab & Roby, 1986",
+        "Schwab & Roby (1986)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Schwab & Roby, 1986"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
+      ],
+      "title": "The Practicals 5 and 6: Finding and Using Commonplaces in Literature and Psychology"
+    },
+    "Schwab, 1969": {
+      "aliases": [
+        "Schwab, 1969",
+        "Schwab (1969)"
+      ],
+      "doi": "10.1086/442881",
+      "identity_keys": [
+        "Schwab, 1969"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
+      ],
+      "title": "The Practical: A Language for Curriculum"
+    },
     "Schwalb et al., 1986": {
       "aliases": [
         "Schwalb et al., 1986",
@@ -199040,17 +199299,18 @@
         "Shulman, 1987",
         "Shulman (1987)"
       ],
-      "doi": "",
+      "doi": "10.17763/haer.57.1.j463w79r56455411",
       "identity_keys": [
         "Shulman, 1987"
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md",
         "wiki/concepts/teacher-education/Profession-Sensitive Conceptualisations of Research Use.md",
         "wiki/concepts/teacher-education/Teacher Knowledge Base.md",
         "wiki/theories/educational-policy-reform/Four Generations of Research Use.md"
       ],
-      "title": ""
+      "title": "Knowledge and Teaching: Foundations of the New Reform"
     },
     "Shulruf et al., 2006": {
       "aliases": [
@@ -205836,6 +206096,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "A meta-analysis of adventure therapy program outcomes."
+    },
+    "Stecher et al., 1998": {
+      "aliases": [
+        "Stecher et al., 1998",
+        "Stecher et al. (1998)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Stecher et al., 1998"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
+      ],
+      "title": "The Effects of Standards-Based Assessment on Classroom Practices: Results of the 1996-97 RAND Survey of Kentucky Teachers of Mathematics and Writing"
     },
     "Stecher et al., 2019": {
       "aliases": [
@@ -224529,6 +224804,21 @@
       ],
       "title": ""
     },
+    "Watson & Supovitz, 2001": {
+      "aliases": [
+        "Watson & Supovitz, 2001",
+        "Watson & Supovitz (2001)"
+      ],
+      "doi": "10.14507/epaa.v9n32.2001",
+      "identity_keys": [
+        "Watson & Supovitz, 2001"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
+      ],
+      "title": "Autonomy and Accountability in the Context of Standards-Based Reform"
+    },
     "Watson et al., 2017": {
       "aliases": [
         "Watson et al., 2017",
@@ -226125,6 +226415,21 @@
       "seen_in": [],
       "title": "The Effect of Elementary Grade Retention on Subsequent School Achievement and Ability"
     },
+    "Westbury, 2002": {
+      "aliases": [
+        "Westbury, 2002",
+        "Westbury (2002)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Westbury, 2002"
+      ],
+      "isbn": "9780820455075",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
+      ],
+      "title": "Didaktik and Curriculum Studies"
+    },
     "Westera, 1995": {
       "aliases": [
         "Westera, 1995",
@@ -226528,6 +226833,21 @@
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mattheou_2009_ScientificParadigm.md"
       ],
       "title": ""
+    },
+    "Whitford & Jones, 2000": {
+      "aliases": [
+        "Whitford & Jones, 2000",
+        "Whitford & Jones (2000)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Whitford & Jones, 2000"
+      ],
+      "isbn": "9780791447055",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
+      ],
+      "title": "Accountability, Assessment, and Teacher Commitment: Lessons from Kentucky's Reform Efforts"
     },
     "Whitford et al., 2018": {
       "aliases": [
@@ -228968,21 +229288,6 @@
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Thompson_2022_Promising_Student.md",
         "wiki/concepts/higher-education/Online Self-Assessment.md"
-      ],
-      "title": ""
-    },
-    "Wolfgang Klafki, 1958": {
-      "aliases": [
-        "Wolfgang Klafki, 1958",
-        "Wolfgang Klafki (1958)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Wolfgang Klafki, 1958"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
       ],
       "title": ""
     },
@@ -233349,21 +233654,6 @@
       "isbn": "",
       "seen_in": [],
       "title": "The effectiveness of E-learning: a meta-analysis."
-    },
-    "Yves Chevallard, 2006": {
-      "aliases": [
-        "Yves Chevallard, 2006",
-        "Yves Chevallard (2006)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Yves Chevallard, 2006"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
-      ],
-      "title": ""
     },
     "Yörük & Sen, 2022": {
       "aliases": [

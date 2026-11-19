@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Vavrus_2006_CICE",
+      "path": "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md"
+    },
+    {
       "basename": "Cochran's Q Test",
       "path": "wiki/methods/quantitative/Cochran's Q Test.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Chain-of-Thought Prompting",
       "path": "wiki/methods/quantitative/Chain-of-Thought Prompting.md"
-    },
-    {
-      "basename": "Causal Modeling",
-      "path": "wiki/methods/quantitative/Causal Modeling.md"
     }
   ],
   "omittedPaths": [],

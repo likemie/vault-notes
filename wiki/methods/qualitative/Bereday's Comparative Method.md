@@ -12,7 +12,7 @@ summary: "由乔治·贝雷迪开创的比较教育学经典经验归纳研究�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 35
+method_related_count: 36
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -65,10 +65,11 @@ related_arguments:
   - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
   - "[[Argument_Cowen_2009_HistoryCreation]]"
+  - "[[Argument_Silova_2009_EE]]"
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-11-11
+updated: 2026-11-20
 ---
 
 ---
@@ -90,7 +91,7 @@ updated: 2026-11-11
 ---
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** 秉持温和经验归纳主义认识论。认为教育绝非孤立存在的技术装置，而是深嵌于特定社会的政治、经济、历史与文化脉络之中；可靠的理论推导不能建立在脱离情境的先验概念之上，而必须从对各国具体教育事实的忠实记录与多学科脉络解释中逐步提炼。
+> - **知识观** 秉持温和经验归纳主义认识论。认为教育深嵌于特定社会的政治、经济、历史与文化脉络之中；可靠的理论推导建立在对各国具体教育事实的忠实记录与多学科脉络解释之上，反对脱离情境的先验概念推演。
 > - **研究者角色** 要求研究者兼具“区域研究者”（具有精深的外语能力、实地生活阅历与对本土文化的共情理解）与“跨国比较分析者”（具备[[Value Neutrality|价值中立]]的客观审视眼光与多[[Discipline-Based Theory|学科理论]]分析工具）的双重身份。
 > - **有效性标准** 经验事实记录的完备性与可验证性、跨学科背景解释的情境适切度、并置范畴维度的对称可比性，以及综合比较结论在跨国跨文化情境下的解释力。
 > - **不声称回答的问题** 该方法属于观察性与定性归纳进路，不声称能在人工控制环境下验证绝对因果机制，也不主张在未做充分历史文化脉络化前进行脱离情境的去语境化统计测度。
@@ -120,7 +121,7 @@ updated: 2026-11-11
 > [!sample-panel]- 材料与进入现场
 > | 维度 | 规范与要求 |
 > |---|---|
-> | 材料来源 | 各国官方学制法令、教育部年度报告、人口与教育统计年鉴、权威史学典籍与[[Fieldwork\|实地调查]]记录。 |
+> | 材料来源 | 各国官方学制法令、教育部年度报告、人口与教育统计年鉴、多语种一手文献翻译卷宗（如《西欧教育》创刊翻译档案，[[Argument_Silova_2009_EE\|(Silova, 2009, pp. 19–20)]]）、权威史学典籍与[[Fieldwork\|实地调查]]记录。 |
 > | 案例选择 | 依循可比性原则，选择在现代化水平、地缘区域或文化传统上具有对照价值的两个或多个民族国家。 |
 > | 研究者位置 | 强调研究者必须掌握研究对象国的语言文字，具备实地生活与学术考察体验，防范文化中心主义偏见。 |
 > | 资料边界 | 明确各阶段考察的历史时期、学段范围与核心制度范畴，确保多国资料在时间尺度与概念界定上的对称性。 |
@@ -179,4 +180,5 @@ updated: 2026-11-11
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rust_2009_Reflections|Rust et al., 2009]] — 将贝雷迪四步归纳法确立为 1960 年代学科实证科学化历程中经验归纳进路的最系统代表形态，剖析其与霍姆斯假说演绎法的世纪论争。
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou, 2009]] — 深度评述贝雷迪《教育中的比较方法》如何充当历史学派向社会[[Scientific Paradigm|科学范式]]过渡的理论桥梁，并以此界定科学比较研究的四步[[Paradigm|范式]]。
-> - [[Argument_Cowen_2009_HistoryCreation|Cowen, 2009a]] — 考证贝雷迪四步法在确立战后比较教育学专业地位与跨国学术共同体网络构建中的奠基性历史作用。
+> - [[Argument_Cowen_2009_HistoryCreation|Cowen, 2009a]] — 考证贝雷迪四步法在确立战后比较教育学专业地位与跨国学术共同体网络构建中的开创作用。
+> - [[Argument_Silova_2009_EE|Silova (2009)]] — 考证贝雷迪作为《西欧教育》创刊顾问委员会成员，将一手文献翻译、国别事实档案与跨案例横向比较确立为办刊核心学术设计（pp. 19–20）。

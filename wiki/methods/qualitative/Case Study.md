@@ -7,7 +7,7 @@ summary: "以单个或少数个案为分析单位深入追踪过程、情境和�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 112
+method_related_count: 114
 method_related_level: 11
 method_related_stars: "💎💎💎⭐⭐"
 method_related_color: "#dbeafe"
@@ -92,6 +92,7 @@ related_methods:
   - "[[Implementation and Process Evaluation]]"
   - "[[Expert Interview]]"
   - "[[Purposeful Sampling]]"
+  - "[[Vertical Case Study]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
@@ -103,6 +104,7 @@ related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Wang_2025_CE]]"
   - "[[Argument_He_2018_HEP]]"
+  - "[[Argument_Vavrus_2006_CICE]]"
   - "[[Argument_Dezhina_2022_ECO]]"
   - "[[Argument_Cole_2015_AJE]]"
   - "[[Argument_Lakhani_2012_AKUIED]]"
@@ -139,7 +141,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-05-08
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 
 ---
@@ -229,6 +231,7 @@ updated: 2026-11-19
 > | [[Triangulation]] | 补充方法 | 个案研究质量保障与证据链建构的核心手段之一。 |
 > | [[Process Tracing]] | 补充方法 | 深入个案内部建立因果机制链与排除竞争性解释的关键技术。 |
 > | [[Comparative Case Study]] | 补充方法 | 跨地点与跨组织多案例比较设计，用于检验理论复制与[[Heterogeneity\|异质性]]条件。 |
+> | [[Vertical Case Study]] | 延伸方法 | 垂直案例研究打破传统封闭边界假设，在单个案例内部贯通微观地方行动与宏观跨国治理。 |
 > | [[Analytic Generalization]] | 前置方法 | 个案研究的推广逻辑：从具体案例推升至普遍理论命题。 |
 
 ---
@@ -260,3 +263,4 @@ updated: 2026-11-19
 > - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 采用北欧跨国比较案例研究设计，对比丹麦、芬兰与挪威基础教育改革中的政策文本、引文网络与决策者访谈，揭示不同福利国家制度情境下证据利用与政治合法化的共生机制（pp. 531–535）。
 > - [[Argument_Natario_2025_IndHE|Natário and Oliveira (2025)]] — 采用探索性与反思性定性个案研究，考察葡萄牙中部六所理工学院的四项协同项目，剖析应用型高校如何催化区域与[[Social Innovation Ecosystem|社会创新生态系统]]。
 > - [[Argument_Silova_2009_EE|Silova (2009)]] — 结合《欧洲教育》四十卷出版史，评析主题化多案例比较设计（multiple case-study comparison）在调和单国历史深描与跨国量化实证两极对立中的方法论桥梁作用（pp. 22–25）。
+> - [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] — 提出垂直案例研究（Vertical Case Study），将个案研究设计从封闭的单一边界系统拓展为贯通微观行动、国家政策与跨国治理的多尺度比较分析范式。
