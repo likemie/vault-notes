@@ -74,7 +74,7 @@ sources:
 part_of:
 status: active
 created: 2026-11-04
-updated: 2026-11-15
+updated: 2026-11-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Yang_2017_MUE"
@@ -113,7 +113,6 @@ issuing_organization: ""
 > | **[[Social Contract of Science\|科学的社会契约（Social Contract of Science）]]** | 阐释二战后科学家与国家之间达成的制度妥协：国家以公共财政保障学者自由探索的自治权，科学界则以基础发现转化为国防与经济实力回馈国家。 |
 > | **[[Basic-Applied Research Dichotomy\|基础研究与应用研究二分法（Basic-Applied Research Dichotomy）]]** | 作为学术界划定专业自主边界的核心概念工具，用于抵御政治权力将科研简化为具体技术工程开发的功利化倾向。 |
 > | **[[Mission-Oriented Research\|任务导向型研究（Mission-Oriented Research）]]** | 刻画以[[Department of Defense\|国防部]]、[[Atomic Energy Commission\|原子能委员会]]为代表的特定战略任务拨款机制，揭示合同制资助对大学长期基础研究生态的挤压。 |
-> | **[[Curiosity-Driven Research\|好奇心驱动研究（Curiosity-Driven Research）]]** | 刻画学者基于学术自主选题与认知好奇的自由探索模式，与任务导向型研究构成贯穿战后资助博弈的核心对偶。 |
 > | **[[Pluralistic Federal Funding System\|联邦多元科研资助体系（Pluralistic Federal Funding System）]]** | 阐明战后美国由国防部、原子能委员会、国家科学基金会等多家去中心化部门共同构成的资助架构演进。 |
 > | **[[Big Science\|大科学]]与[[Little Science\|小科学（Little Science）]]** | 区分依赖巨额工程预算的国家大设施项目与依托学者个人智力构思的自由探索，为基础学科向国会争取常规化预算增长提供分类学支撑。 |
 

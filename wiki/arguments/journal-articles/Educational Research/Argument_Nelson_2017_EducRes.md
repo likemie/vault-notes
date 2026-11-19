@@ -129,7 +129,6 @@ updated: 2026-11-11
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Research Utilization\|研究利用（Research Utilization）]]**<br>Carol Weiss | Weiss (1979) 的奠基性工作，解释研究如何以多种路径进入政策与实践（工具性、概念性、象征性等），说明证据进入实践具有长期学术脉络，并非近年来凭空出现的新生议题。 |
 > | **[[Evidence-Informed Practice\|证据知情实践（Evidence-Informed Practice, EIP）]]**<br>[[Jonathan Sharples]] | 特刊导言的核心对象。将证据界定为影响教育决策的多种资源之一，强调教育者须以[[Professional Judgment\|专业判断]]整合研究、系统数据与课堂数据，将 EIP 定位为多源整合而非单一研究驱动，拒绝照搬脚本的教条主义。 |
 > | **[[Knowledge Mobilisation\|知识动员（Knowledge Mobilisation, KMb）]]**<br>Carol Campbell et al. | 解释证据为何不会自动转化为实践的中介过程[[Construct\|构念]]。知识流动是研究者、决策者与实践者之间通过协作共同创造知识的社会互动与迭代过程。 |
 > | **[[Practice-Based Evidence\|实践本位证据（Practice-Based Evidence, PBE）]]**<br>Anthony Bryk | Bryk (2015) 提出的核心概念，强调教育者在日常教学中生成的细粒度、情境相关知识，为形成性支持专业学习与学生成就提供正当的证据来源，抗衡对教师研究的赤字化偏见。 |

@@ -96,7 +96,7 @@ sources:
 part_of:
 status: completed
 created: 2026-10-23
-updated: 2026-11-18
+updated: 2026-11-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Campbell_2026_JPCC"
@@ -136,7 +136,6 @@ issuing_organization: ""
 > | **[[Epistemic Community\|认识共同体]]与守门人**<br>Epistemic Communities & Gatekeepers | 解释跨国专家网络与国际组织内部守门机构如何确立证据合法性标准并实施远处掌舵。 |
 > | **[[Conceptual, Instrumental, and Symbolic Use of Research\|证据使用三分法]]**<br>Instrumental, Symbolic and Conceptual Use | 解构证据作为工具性解决问题手段、象征性政治合理化借口与概念性认知重构的多重功能。 |
 > | **[[Good Governance of Evidence\|证据良好治理]]**<br>Good Governance of Evidence | 确立超越单纯[[Technical Rationality\|技术理性]]计算的制度规范，平衡科学实证严谨性与民主审议代表性。 |
-> | **[[Two-Communities Theory\|两社区理论]]**<br>Two-Communities Theory | 解释科研探索与政治决策两大[[Champ\|场域]]在时间节奏、激励机制与评价规范上的结构性分野。 |
 
 > [!warrant]- 理论如何支撑论证
 > 上述[[Theoretical Perspective|理论视角]]共同构筑了从微观修辞分析通向宏观治理批判的推论桥梁。解释性政策分析打破了将证据视作中立客观输入的[[Positivism|实证主义]]假定，将政策文本解构为具有导向性的话语制品；结合证据文化与认识共同体视角，能够透视跨国组织如何借助修辞策略掩盖[[Epistemic Inequality|认识论不平等]]，进而将制度条件与权力博弈确立为决定证据采纳形态的核心中介。

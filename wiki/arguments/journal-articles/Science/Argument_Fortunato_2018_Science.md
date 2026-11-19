@@ -107,7 +107,7 @@ sources:
 part_of:
 status: active
 created: 2026-11-02
-updated: 2026-11-15
+updated: 2026-11-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Fortunato_2018_Science"
@@ -148,8 +148,6 @@ issuing_organization: ""
 > | **随机影响法则**<br>[[Random Impact Rule]] | 证实学者最高影响力代表作在发表序列中服从均匀随机分布，打破年龄决定[[Creativity\|创造力]]衰退的传统假设。 |
 > | **核心与扩展团队模型**<br>[[Core and Extended Teams Model]] | 区分小型稳定核心团队与依赖生产力累积优势吸附成员的扩展团队，解释团队规模幂律分布的生成机理。 |
 > | **WSB 模型**<br>[[WSB Model]] | 整合优先连接、[[Citation Aging\|知识老化]]与内在适合度，刻画成果生命周期引文累积轨迹并实现长期影响力预测。 |
-> | **集体发现模拟模型**<br>[[Collective Discovery Simulation Model]] | 将学科选题形式化为超图网络搜寻，量化测定保守深耕与全局最优探索策略之间的巨大效率鸿沟。 |
-> | **合作网络随机游走模型**<br>[[Random Walk Coauthorship Model]] | 基于学术合署网络局部无规行走机制，自下而上[[Emergence\|涌现]]宏观团队规模分布与跨学科知识渗透规律。 |
 
 > [!warrant]- 理论如何支撑论证
 > 理论工具箱将海量文献计量指标由表层描述提升为对底层自组织演化机制的数理阐释。复杂网络模型为描绘科学共同体结构与语义概念空间提供了拓扑骨架；随机影响法则与 [[Q-Model|Q 模型]]将个体学者生涯中的偶然运气与稳定能力有效区分；核心与扩展团队模型揭示了科研劳动组织形态转变的微观分工规律；引文分布普适性与 WSB 模型则确立了跨学科客观比较与时序外推的基准。整套理论架构直接连通了宏观知识演化规律与微观政策干预设计。

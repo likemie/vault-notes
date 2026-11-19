@@ -123,7 +123,7 @@ sources:
 part_of: "[[Argument_Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-06
-updated: 2026-11-15
+updated: 2026-11-20
 ---
 ---
 
@@ -146,7 +146,6 @@ updated: 2026-11-15
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **[[Educational Meliorism\|教育改良主义]]**<br>Educational Meliorism | 源自拉丁语 *melior*（更好），界定以改善现实制度与人类境况为先验目标的探究旨趣，统摄了 19 世纪[[Transnational Education\|跨国教育]]事实收集与社会病理诊断的共生关系。（pp.33–34） |
-> | **[[Auslandspadagogik\|外国教育学]]**<br>Auslandspädagogik | 德语区指称对异域教育开展描述性、报道性与编年史式考察的知识形态，界定早期比较教育学者在缺乏因果解释模型时的经验积累特征。（pp.24–25, 32–33） |
 > | **[[Policy Borrowing\|政策借用]]**<br>Policy Borrowing / Educational Borrowing | 解释跨国教育流动机制，区分将外国法案直接吸纳为实定法的制度移植，以及将外部声望作为解决国内争议的合法化依据。（pp.23–24, 30, 34） |
 > | **[[Comparative History of Comparative Education\|比较教育学的比较史]]**<br>Comparative History of Comparative Education | 批判性学科史编纂纲领，破除线性起源神话，将先驱思想置于启蒙现代性、民族国家建构与大西洋[[Geopolitics of Knowledge\|知识地缘政治]]脉络中展开历史还原。（pp.11–13） |
 > | **[[Enlightenment\|启蒙现代性范式]]**<br>Enlightenment Paradigm of Modernity | 涵盖[[Rationalism in International Relations\|理性主义]]、经验主义、[[Scientific Method\|科学方法]]、世俗化、普遍主义与民族国家建构，构成 19 世纪公共教育改革与比较研究的母体土壤。（pp.12, 24–25） |

@@ -72,7 +72,7 @@ journal: "Nature"
 sources:
   - "[[sources/Liu_2018_Nature/Liu_2018_Nature|Liu_2018_Nature]]"
 created: 2026-11-03
-updated: 2026-11-11
+updated: 2026-11-20
 ---
 
 ---
@@ -96,7 +96,6 @@ updated: 2026-11-11
 > | **爆发期模型**<br>[[Hot-Streak Model]] | 将个体表现刻画为平稳基线 $\Gamma_0$ 与短暂激发态 $\Gamma_H$ 的双状态跳跃，解释特定时间窗口内集中产出卓越成果的动力学过程。 |
 > | **随机影响规律**<br>[[Random Impact Rule]] | 预测单项代表作在生涯序列各位置出现的先验概率均等，作为检验时序独立性的基准[[Null Hypothesis\|零假设]]。 |
 > | **成功恒定概率模型**<br>[[Constant-Probability-of-Success Model]] | 由[[Dean Keith Simonton\|迪恩·西蒙顿]]（Dean Keith Simonton）提出的创造力认知模型，主张杰作产出率终身恒定且完全取决于尝试规模；实证数据表明爆发期内产出速率平稳而单篇突破率骤增，对该假说提供了关键边界修正。 |
-> | **热手效应论争**<br>[[Hot Hand Fallacy]] | 借鉴体育竞技与认知心理学关于连续成功究竟属于真实状态还是认知错觉的争论，为考察创造力成团爆发提供理论切入点。 |
 > | **汪－宋－巴拉巴西引文动力学模型（Wang-Song-Barabási Model, WSB 模型）**<br>[[WSB Model]] | 刻画单项成果随时间演化的对数正态被引生命周期，与爆发期模型结合推导出[[Career Collective Impact\|个体生涯累积影响力]]的解析方程。 |
 > | **学术界马太效应**<br>[[Matthew Effect in Academia]] | 累积优势理论主张早期胜利会带来声望与资源聚集，支持巅峰表现在时间轴上集中[[Emergence\|涌现]]的假说。 |
 

@@ -70,7 +70,7 @@ sources:
 part_of: ""
 status: active
 created: 2026-10-04
-updated: 2026-10-29
+updated: 2026-11-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Grindley_1994_JPAM"
@@ -110,7 +110,6 @@ issuing_organization: ""
 > | **人员流动与隐性知识吸收能力**<br>Personnel Mobility & Tacit Knowledge | 解释高度复杂的半导体制造工艺与设备调试诀窍（Tacit Knowledge）无法完全通过图纸与手册编码化传递；骨干工程师全职借调（Assignees）与产线轮换构成了跨企业扩散技术诀窍与提升企业[[Absorptive Capacity\|吸收能力]]的最有效渠道。 |
 > | **开放科学与产学研生态分工**<br>Open Science & Institutional Division of Labor | 阐明大学基础研究的“开放披露、公共资助与高层次人才培育”属性与[[Industry Affiliate Program\|产业联盟]]“近中期工程化、中试验证与专有转化”之间的生态互补关系；产业联合体不能替代大学长周期的基础科学探索与人才蓄水池功能。 |
 > | **纵向链条治理与用户—供应商协同**<br>User-Supplier Governance | 解释芯片制造厂商与上游设备供应商之间如何通过早期介入、联合开发与透明测试，打破以往相互防范的对抗性采购模式，降低沟通与试错成本。 |
-> | **公共资助与政治利益分配风险**<br>Pork Barrel Politics | 解释完全由政府行政官员主导的项目容易演变为照顾各方政治诉求的利益分配；唯有由企业对等出资并主导研发议题，才能确保项目紧扣市场与工程实际需求。 |
 
 > [!warrant]- 理论如何支撑论证
 > 论文结合技术经济学中的专有权理论与产业组织理论，建立了分析联盟治理逻辑的理论纽带：同行直接竞争者之间的技术防范决定了横向联合开发核心制造工艺具有天然阻力；而将研发重点放在近中期通用基础设施并转入上下游买卖双方协同，能够实现各方利益一致，从而使工程师人员交流与共性测试平台真正发挥技术诀窍的扩散价值。

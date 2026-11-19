@@ -244,11 +244,11 @@ updated: 2026-11-20
 >
 > | 研究 | 样本与情境 | 指标 | 关键结果 | 解释边界 |
 > |---|---|---|---|---|
-> | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, pp. 22–23)]] | 全球[[International Schools\|国际学校]]，1964–2005 | 学校与学生规模 | 约 50 所（1964）→约 1,000 所、50 万学生（1994）→约 3,000 所、约 200 万学生（2005） | 不同来源的机构定义和统计口径未被系统核验 |
+> | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, pp. 22–23)]] | 全球[[International Schools\|国际学校]]，1964–2005 | 学校与学生规模 | 1964年约 50 所，1994年增至约 1,000 所与 50 万学生，2005年达到约 3,000 所与约 200 万学生 | 不同来源的机构定义和统计口径未被系统核验 |
 > | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, p. 24)]] | 国际学校，1960 与 2005 | 创始国学生比例 | 约 70% 降至约 30%，显示生源从母国侨民转向更广泛、尤其是本地家庭 | 去国家化描述生源变化，不证明课程和教学已经文化中立 |
 > | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, p. 28)]] | 全球 [[International Baccalaureate\|IB]]，2008–2009 | 学生、学校与国家 | 2009 年 709,000 名学生、2,609 所学校、135 国；一年前为 596,000 名、2,218 所、125 国 | 规模不能单独说明教育质量或跨文化效果 |
 > | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, pp. 1–2)]] | 全球高等教育流动 | 跨境学生 | 2006 年出国大学生超过 270 万；计入短期交流、海外实习和教师交换后，参与者超过 600 万 | 参与国际教育涵盖项目差异很大的活动 |
-> | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, pp. 17–18)]] | 中国[[Student Mobility\|学生流动]]，1978–2007 | 出境与入境人数 | 1978–2003 年 580,000 名中国本科生和研究生赴美；赴华外国学生由 61,869（2001）增至 110,844（2004）和 140,000 以上（2005） | 中国出境数据在媒体与[[Education International\|国际教育协会]]（IIE）之间差异显著 |
+> | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, pp. 17–18)]] | 中国[[Student Mobility\|学生流动]]，1978–2007 | 出境与入境人数 | 1978–2003 年 580,000 名中国本科生和研究生赴美；赴华外国学生由 61,869（2001）增至 110,844（2004），并在 2005 年超过 140,000 | 中国出境数据在媒体与[[Education International\|国际教育协会]]（IIE）之间差异显著 |
 > | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, p. 2)]] | 美国新入学国际学生，2008 | 来源地区 | 南亚、东亚（含中国）及印度次大陆学生占 61% | 区域聚合不能代表内部学习者具有同质文化 |
 > | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, p. 26)]] | 香港国际学校 | 学费 | 年费约 10,000–20,000 美元 | 价格显示市场与阶层门槛，不代表全球国际学校共同水平 |
 > | [[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, pp. 67–71)]] | IB 六年试验，1970–1975 | 考试与承认规模 | 完整文凭考生由 29 人增至 377 人；截至 1973 年底，20 国给予一般承认，学生进入 25 国 175 所大学 | 样本非随机，承认用途和部分承认范围未在总数中分开 |

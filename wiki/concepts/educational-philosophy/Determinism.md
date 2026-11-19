@@ -8,7 +8,7 @@ aliases:
 summary: "关于宇宙与人类行为根本特性的本体论假设，主张任何事件与行为均由先前条件与客观规律所决定，反对任性与偶然性；在现代科学与认识论演进中，经典钟表式因果决定论受到波普尔云状现实、刺猬与狐狸认知模型以及工程思维概率探索的深刻反思与超越。"
 type: concept
 domain: "educational-philosophy"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -62,10 +62,11 @@ related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
   - "[[Argument_Gopinathan_2007_GSE]]"
+  - "[[Argument_Vavrus_2006_CICE]]"
 confidence: high
 status: active
 created: 2026-09-09
-updated: 2026-11-18
+updated: 2026-11-20
 ---
 
 ---
@@ -126,7 +127,7 @@ updated: 2026-11-18
 > **科学本体验证维度** 探讨教育研究对象的可解释性。决定论将现象的规律性与可预测性视为科学研究开展的[[Ontology|本体论]]前提。
 
 > [!claim] Cohen, Manion & Morrison
-> **前因决定与可理解性判定** 科学探究奠基于对决定论的坚定信念之上，即事件是由其他情境决定的，且宇宙运作有别于反复无常；因果链条在原则上完全能够被经验揭示与理性理解，确立因果法则是科学家获得预测与控制能力的唯一途径。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 15)]]
+> **前因决定与可理解性判定** 科学探究建立在对决定论的坚定信念之上，即事件是由其他情境决定的，且宇宙运作有别于反复无常；因果链条在原则上完全能够被经验揭示与理性理解，确立因果法则是科学家获得预测与控制能力的唯一途径。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 15)]]
 
 ---
 
@@ -135,6 +136,9 @@ updated: 2026-11-18
 
 > [!claim] Burrell & Morgan
 > **被动响应木偶模型判定** 在决定论的人性假定下，人类被描绘为对外部环境机械且决定论式响应的客体；人是环境的产物，犹如被既定社会结构、阶级地位与预设角色所操控的提线木偶，其行为动机完全由既往的刺激与情境所规定。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Burrell & Morgan, 1979 via Cohen et al., 2011, Ch. 1, p. 8)]]
+
+> [!claim] [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]]
+> **宏观外生决定论批判与微观能动性复归** 弗朗西丝·瓦夫鲁斯与莱斯利·巴特利特批判了比较教育与政策评估中将宏观力量决定论化的偏误。单一宏观分析常常将经济政治结构（如结构调整政策）或教育干预（如将学校教育预设为抵御疾病的疫苗）假想为直接决定人类行为的自主力量；一旦剥离具体的基层生活情境，这类宏观决定论便会推导出失真的政策假想。垂直案例研究指出，微观行动者的日常实践与意义协商并非被动服从宏观决定，而是宏观结构的内在组成部分，必须在多尺度纵向联系中破除机械的外生决定论。[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, pp. 96–97)]]
 
 ---
 
@@ -158,7 +162,7 @@ updated: 2026-11-18
 > | 命题类型 | 核心主张 | 方法论机制 | 代表学者与[[Document\|文献]] |
 > |---|---|---|---|
 > | **前因决定可知命题** | 事件皆由前因决定且运作具有客观规律，因果法则赋予预测与控制能力 | 经验观察、[[Causal Modeling\|因果建模]]、法则归纳 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 15)]] |
-> | **环境塑造客体命题** | 人类是环境刺激与社会结构的机械反应产物，个体受制于既定角色 | 刺激-反应测量、角色分析、环境[[Variable\|变量]]控制 | Burrell and Morgan (1979); Skinner (1953) |
+> | **环境塑造客体命题** | 人类是环境刺激与社会结构的机械反应产物，微观行动易受外生宏观决定论遮蔽 | 刺激-反应测量、角色分析、多尺度垂直案例反思 | Burrell and Morgan (1979); Skinner (1953); [[Argument_Vavrus_2006_CICE\|Vavrus and Bartlett (2006)]] |
 > | **非线性确定混沌命题** | 确定性系统在非线性反馈下产生长程不可预测性，超越简单线性决定 | 奇异吸引子、敏感初始条件、系统动力学 | Morrison (2002); Lorenz (1963) |
 > | **云状现实与狐狸认知命题** | 刺猬型宏大决定论在动态现实中必然失效，需依托概率与物理反馈探索 | 狐狸型多维预测、[[Engineering Mindset\|工程思维]]实测修正 | Popper (1965); Tetlock (2005); [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14\|Karp & Zamiska (2025)]] |
 
@@ -213,3 +217,4 @@ updated: 2026-11-18
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011)]] — 系统论述决定论作为科学第一假设、Burrell & Morgan 人性维度木偶模型，以及[[Complexity Theory|复杂性理论]]对线性决定论的超越（pp. 8, 15, 29–31）。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 结合波普尔云钟模型与[[Philip Tetlock|泰特洛克]]狐狸刺猬研究，论证克服意识形态决定论、践行工程实测[[Epistemology|认识论]]的制度价值（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]]）。
 > - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 以东亚新兴工业化经济体（新加坡等）的崛起实证反驳经典[[Dependency Theory|依附理论]]的结构决定论预设，论证强国家能力与战略性市场治理能够打破外围锁定。
+> - [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] — 批判比较教育中将宏观经济政治过程自主化与决定论化的倾向，论证单一尺度分析因抽离地方情境而制造虚假因果推论，倡导以垂直案例研究消解外生机械决定论。

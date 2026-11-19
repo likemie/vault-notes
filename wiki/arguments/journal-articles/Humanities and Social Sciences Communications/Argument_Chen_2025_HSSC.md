@@ -67,7 +67,7 @@ sources:
 part_of:
 status: draft
 created: 2026-11-03
-updated: 2026-11-11
+updated: 2026-11-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Chen_2025_HSSC"
@@ -105,8 +105,6 @@ issuing_organization: ""
 > |----------|----------|
 > | **学术爆发期理论**<br>[[Hot Streak]] | 界定创造性职业生涯中成果质量显著超越个人基线的暂态卓越时期，为将学者全生命周期划分为爆发期前、爆发期内、爆发期后三阶段提供时空[[Analytic Framework\|分析框架]]。 |
 > | **机会构型理论**<br>[[Chance-Configuration Theory]] | [[Dean Keith Simonton\|迪恩·凯斯·西蒙顿]]（Dean Keith Simonton）提出的创造力认知模型（Simonton, 1989, 1991），指出重大突破源于海量随机尝试中的机遇配置；为颠覆性产出的时序随机性及发文规模对进入爆发期的正向预测作用提供理论解释。 |
-> | **成功恒定概率模型**<br>[[Constant-Probability-of-Success Model]] | 表明杰出产出率与总产出规模保持严格恒定比例，为机会构型机制在宏观成果序列上的等几率规律提供数理假说（Simonton, 1977, 1988）。 |
-> | **随机影响规律**<br>[[Random Impact Rule]] | 表明重大代表作在学者全生涯发表时序中均匀随机出现（[[Argument_Sinatra_2016_Science\|Sinatra et al., 2016]]），为检验颠覆性极值成果涌现时机提供统计无偏基准。 |
 > | **常规科学与科学革命理论**<br>[[Paradigm]] | [[Thomas Kuhn\|托马斯·库恩]]（Thomas S. Kuhn; Kuhn, 1962）关于常规科学解谜与科学革命范式更替的理论，为颠覆型研究（开启新方向）与巩固型研究（深化旧传统）提供[[Epistemology\|认识论]]区隔。 |
 > | **探索—利用动力学**<br>[[Exploration-Exploitation in Science]] | 解释学者在爆发期前展开广泛涉猎探索、在爆发期内聚焦突破、在爆发期后利用成果红利的策略切换机制（March, 1991; Liu et al., 2021）。 |
 > | **优先连接与累积优势理论**<br>[[Preferential Attachment in Academia]] / [[Matthew Effect in Academia]] | 解释为何突破性成果需要经历长周期消化才能在网络中形成声誉集聚与高被引认可，阐明[[Disruption-Impact Time Lag\|颠覆时滞]]的引文动力学机制（Barabási & Albert, 1999; Merton, 1968）。 |

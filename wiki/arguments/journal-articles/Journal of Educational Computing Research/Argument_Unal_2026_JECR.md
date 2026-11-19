@@ -106,7 +106,7 @@ sources:
   - "[[sources/Unal_2026_JECR/Unal_2026_JECR|Unal_2026_JECR]]"
 status: draft
 created: 2026-08-25
-updated: 2026-11-11
+updated: 2026-11-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Unal_2026_JECR"
@@ -147,8 +147,6 @@ issuing_organization: ""
 > | **布鲁姆教育目标分类学修订版**<br>[[Higher-Order Thinking Skills]] | 区分记忆、理解、应用等较低阶认知目标与分析、评价、创造等高阶思维技能，为将 AI 带来的[[Learning Gain\|学习增益]]拆解为基础知识掌握与复杂认知发展提供理论分类标准。 |
 > | **高阶思维技能五维分类框架**<br>[[Critical Thinking]] | 整合 Resnick (1987)、McLoughlin and Mynard (2009) 与 Liu et al. (2024) 的界定，将高阶思维[[Operationalization\|操作化]]为问题解决、[[Metacognition\|元认知]]、批判性思维、团队协作与创新发展五大维度，用以检验 AI 是否仅停留于浅层算法应答。 |
 > | **二阶元分析方法论框架**<br>[[Meta-meta-analysis]] | 依据 Schmidt and Oh (2013) 与 Oh (2020) 的理论，将一阶[[Meta-analysis\|元分析]]的标准化[[Effect Size\|效应量]]作为分析单位，通过[[Random-Effects Model\|随机效应模型]]与经典[[Inverse-Variance Weighting\|逆方差加权]]消除一阶[[Sampling Error\|抽样误差]]，合成全领域宏观效应基准。 |
-> | **PRISMA 2020 系统评价规范**<br>[[Coding in Qualitative Research]] | 遵循[[PRISMA\|系统评价和元分析优先报告条目]] 2020 年版（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA 2020）指南，提供包含识别、筛查、合格性审查与最终纳入的四阶段循证筛选架构，确保二阶样本提取的透明性与可重复性（Page et al., 2021; pp. 1367–1369）。 |
-> | **R-AMSTAR 系统评价质量评估工具**<br>[[AMSTAR]] | 采用系统评价方法学质量评估工具修订版（Revised Assessment of Multiple Systematic Reviews, R-AMSTAR; Kung et al., 2010; Young, 2017）的 12 项准则（排除临床项 8C/8D），对纳入的一阶元分析进行方法学质量量化评级（0–44 分），识别质量对效应量的调节作用。 |
 > | **GROOVE 重叠分析与校正覆盖面积矩阵**<br>[[GROOVE]] · [[Corrected Covered Area]] | 运用[[GROOVE\|系统评价重叠图形表征工具]]（Graphical Representation of Overlap for OVErviews, GROOVE; Bracchiglione et al., 2022）计算[[Corrected Covered Area\|校正覆盖面积]]（Corrected Covered Area, CCA），设定 10% 重叠率排除阈值，解决一阶元分析因共享初级研究导致的双重计数与假阳性膨胀。 |
 
 > [!warrant]- 理论如何支撑论证

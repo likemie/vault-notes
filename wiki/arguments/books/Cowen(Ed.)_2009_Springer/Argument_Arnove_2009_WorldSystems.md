@@ -105,7 +105,7 @@ sources:
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-29
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 ---
 
@@ -130,8 +130,6 @@ updated: 2026-11-19
 > | **[[Dialectic of the Global and the Local\|全球与本土辩证法]]**<br>[[Robert Arnove\|罗伯特·阿诺夫]]（Robert F. Arnove）等 | 阐明全球政治、经济与文化力量并非单向决定地方实践，而是与民族国家和基层社区发生持续的互动、中介过滤与冲突重构。（pp.106–110） |
 > | **[[Pluri-Scalar Governance\|多标度治理]]**<br>[[Susan L. Robertson\|苏珊·罗伯逊]]（Susan L. Robertson）、哈维尔·博纳尔（Xavier Bonal）与[[Roger Dale\|罗杰·戴尔]]（Roger Dale） | 提出空间标度（超国家/国家/次国家）、治理实体（国家/市场/社区/家庭）与治理活动（筹资/产权/提供/规约）三维模型，剖析跨国服务贸易对教育权力的重组。（pp.110–111） |
 > | **[[Globally Structured Agenda for Education\|全球结构化教育议程]]**<br>[[Roger Dale\|罗杰·戴尔]]（Roger Dale） | 批判新制度主义的普世文化趋同神话，主张全球教育政策趋同源于世界资本主义体系的内在矛盾，通过借用、强加与附带条件等多元机制自上而下结构化塑造。（p.110） |
-> | **[[Shadow State\|影子国家]]**<br>玛格丽特·萨顿（Margaret Sutton）与阿诺夫（Arnove） | 剖析政府与国际机构将公共教育外包给非政府组织的机制，揭示民间组织在充当替代承包商时削弱国家责任主体地位并陷入依附的风险。（pp.111–112） |
-> | **[[Globalization from Below\|自下而上的全球化]]**<br>杰里米·布雷彻（Jeremy Brecher）等、阿诺夫（Arnove） | 阐明基层社会运动、原住民群体与工会组织如何利用信息通信网络实现跨国联合，抵制自上而下的市场化改革，争取教育公平与社会正义。（pp.113–114） |
 
 > [!warrant]- 理论如何支撑论证
 > 作者首先通过对质新制度主义与政治现实主义两大流派，确立了世界体系分析在解释全球教育扩张与不平等分层上的互补价值；接着引入全球化[[Time-Space Compression|时空压缩]]机制，说明新自由主义经贸规则与多标度治理如何削弱传统国家的教育主权；随后运用多国微观案例展示全球压力在本土的变通与抵抗，并引入影子国家概念反思非政府组织的制度处境；最后以自下而上的全球化框架指明草根社会运动争取教育正义的现实路径。（pp.101–114）

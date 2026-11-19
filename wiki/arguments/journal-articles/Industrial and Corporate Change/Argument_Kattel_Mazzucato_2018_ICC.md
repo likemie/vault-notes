@@ -95,7 +95,7 @@ sources:
 part_of:
 status: active
 created: 2026-10-03
-updated: 2026-11-15
+updated: 2026-11-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Kattel_Mazzucato_2018_ICC"
@@ -135,7 +135,6 @@ issuing_organization: ""
 > | **[[Directionality of Innovation\|创新的方向性]]**<br>[[Directionality of Innovation]] | 超越单纯衡量国内生产总值（Gross Domestic Product, GDP）与专利增速的速率观，确立国家通过战略引导推动技术演进朝向绿色与包容转型的规范价值取向。 |
 > | **[[Evolutionary Economics\|演化经济学]]**<br>[[Evolutionary Economics]] | 引入非均衡演化、根本不确定性与企业搜索规则视角，论证公共政策如何通过改变搜寻前景开辟全新[[Technological Trajectories\|技术轨道]]并塑造新市场。 |
 > | **[[Ergas Taxonomy of Technology Policy\|埃尔加斯技术政策分类]]**<br>[[Ergas Taxonomy of Technology Policy]] | 区分激进突破的使命导向型与全产业渗透的扩散导向型技术政策传统，为三代使命演化与国家能力比较提供类型学参照。 |
-> | **[[Unbalanced Growth Theory\|非均衡增长理论]]**<br>[[Unbalanced Growth Theory]] | 借鉴阿伯特·[[Charles Hirschman\|赫希曼]]理论，论证通过国家使命制造战略性非均衡瓶颈以倒逼跨部门协同与激发前后向产业投资的动力机制。 |
 
 > [!warrant]- 理论如何支撑论证
 > 演化经济学打破了新古典完全竞争与一般均衡假设，证明未来创新在本质上充满根本不确定性，因而基于边际收益等于边际成本的事前静态计算完全无法指导战略方向（Arrow, 1962; Nelson & Winter, 1974）。通过将企业动态能力（感知、捕获与转化）与国家能力理论相结合，理论工具阐明了公共机构如何在社会政治反馈的选择环境中持续演化出适应战略使命的组织技能。

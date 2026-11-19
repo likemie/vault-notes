@@ -93,7 +93,7 @@ sources:
 part_of:
 status: draft
 created: 2026-10-20
-updated: 2026-11-14
+updated: 2026-11-20
 ---
 ---
 
@@ -120,8 +120,6 @@ updated: 2026-11-14
 > | **[[Conceptual, Instrumental, and Symbolic Use of Research\|工具性、概念性与象征性使用]]**<br>卡罗尔·韦斯（Carol H. Weiss, 1979） | 工具性使用指研究直接用于解决政策技术难题；概念性使用指研究重塑对问题的理解框架；象征性使用指研究被用作既定政策立场的合法化背书。用于刻画督导业务中[[Research Utilization\|研究使用]]的功能演变。 |
 > | **[[State Simplification\|国家简化]]（State Simplification）**<br>[[James C. Scott\|詹姆斯·斯科特]]（James C. Scott, 1998） | 指现代国家为实现行政管控，将复杂的社会现实裁剪为可计量、可比较的标准化分类。用于解释督导指标、知识综述与模范案例如何将学校教学塑造为易于问责的客体。 |
 > | **[[Governing by Inspection\|借督导治理]]（Governing by Inspection）**<br>索蒂里亚·格雷克（Sotiria Grek）与约阿基姆·林德格伦（Joakim Lindgren, 2015） | 揭示去中心化背景下，国家通过外部督导与公开评级替代直接行政命令，实现远程监控与自我规训的新型治理[[Paradigm\|范式]]。 |
-> | **[[Three Lenses of Evidence-Based Policy\|循证政策的三维透镜模型]]（Three Lenses of Evidence-Based Policy）**<br>布赖恩·W·黑德（Brian W. Head, 2008） | 揭示政策循证立足于系统性科学证据、实务经验证据与政治证据三重透镜的相互制衡与协商。 |
-> | **[[Legitimate Peripheral Participation\|合法的边缘性参与]]（Legitimate Peripheral Participation）**<br>让·莱夫（Jean Lave）与埃蒂安·温格（Etienne Wenger, 1991） | 刻画外部科研学者在官僚督察体系中的边缘专家定位，揭示其在科学与政策异质世界间的角色切换与协商限度。 |
 
 > [!warrant]- 理论工具如何接合
 > 该研究将治理界定为由空间、行动者、政策、实践与权力网络共同[[Assemblage|组装]]而成的工作，并将[[School Inspection|学校督导]]视作[[Governing by Inspection|借督导治理]]模式下国家宏观意志与学校一线实践之间的转换枢纽。三种知识形态构成了纵向的[[Process Tracing|过程追踪]]线索：法律法规、督导指令、研究综述与审计报告构成可复制流转的文本化知识；督导员与管理者的经验判断属于具身知识；会议研讨、质询交锋与临场斡旋属于践行知识。横向维度上，伊萨基扬与[[Jenny Ozga|奥兹加]]的知识定位连同韦斯的使用类型以及黑德的三维证据透镜，揭示了研究在不同业务中究竟充当理性输入还是治理载体；[[James C. Scott|斯科特]]的[[State Simplification|国家简化]]理论则点明了上述知识转换的终极政治功能：让复杂的学校生活服从国家官僚机器的常态监督。

@@ -226,6 +226,20 @@ updated: 2026-11-20
 
 ---
 
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Internal Validity]] | 概念 | 实验因果推论的纯粹性，与生态效度构成方法论上的根本取舍。 |
+> | [[External Validity]] | 概念 | 统计可推广性，与生态效度在情境真实性维度上构成交叉互补。 |
+> | [[Rich and Thick Description]] | 概念 | 质性自然主义研究记录文化脉络并维持生态效度的方法支撑。 |
+> | [[Vertical Case Study]] | 方法 | 贯通微观田野生态效度与宏观权力结构的多尺度比较研究设计。 |
+> | [[Case Study]] | 方法 | 扎根自然发生情境提供深描以维系高生态效度的质性研究传统。 |
+> | [[Randomised Controlled Trials]] | 方法 | 追求高内部效度的实验设计，通常以牺牲自然情境的生态效度为代价。 |
+> | [[Elliott Eisner]] | 人物 | 课程学者，批判硬科学控制范式并捍卫课堂教学的人文艺术性与生态效度。 |
+
+---
+
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] — 结合 Crossley and Vulliamy (1984) 的[[Case Study|案例研究]]传统，论证[[Vertical Case Study|垂直案例研究]]如何通过扎根微观情境并贯通宏观结构来保障比较教育的生态效度，揭示政策“应然”修辞与地方“实然”实践的鸿沟。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 跨章节界定生态效度内涵：辨析其与内部及[[External Validity|外部效度]]的关系与[[Variable|变量]]剥离局限（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Ch. 10]]），剖析受控实验对教室生态的歪曲（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Ch. 16]]），并确立质性现场观察的独特优势（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Ch. 23]]）。

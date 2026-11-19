@@ -603,6 +603,20 @@
     ]
   },
   {
+    "title": "Brain Drain",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Brain Drain.md",
+    "aliases": [
+      "人才流失",
+      "人才外流",
+      "脑力流失",
+      "智力流失",
+      "智力外流",
+      "Human Capital Flight",
+      "Talent Flight"
+    ]
+  },
+  {
     "title": "Brand Honeycomb Model",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Brand Honeycomb Model.md",
@@ -2426,6 +2440,20 @@
       "SSTC",
       "Trilateral Cooperation",
       "Triangular Development Cooperation"
+    ]
+  },
+  {
+    "title": "Turnkey Project",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Turnkey Project.md",
+    "aliases": [
+      "交钥匙工程",
+      "交钥匙项目",
+      "交钥匙援助",
+      "交钥匙模式",
+      "Turnkey Aid",
+      "Clef en main",
+      "Turnkey Contract"
     ]
   },
   {
@@ -14640,6 +14668,20 @@
     ]
   },
   {
+    "title": "Elite Capture",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Elite Capture.md",
+    "aliases": [
+      "精英俘获",
+      "精英截留",
+      "援助截留",
+      "权力寻租截留",
+      "本土精英俘获",
+      "Local Elite Capture",
+      "Resource Hijacking by Elites"
+    ]
+  },
+  {
     "title": "Elitism Dispositif",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Elitism Dispositif.md",
@@ -15775,6 +15817,19 @@
     ]
   },
   {
+    "title": "Principle of Non-Interference",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Principle of Non-Interference.md",
+    "aliases": [
+      "不干涉内政原则",
+      "不干涉原则",
+      "主权不干涉",
+      "Non-Interference Principle",
+      "Principle of Non-Intervention",
+      "Non-Interference in Internal Affairs"
+    ]
+  },
+  {
     "title": "Print-Capitalism",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Print-Capitalism.md",
@@ -16348,6 +16403,19 @@
       "Thick Conception of Belonging",
       "薄弱与丰厚归属",
       "Thin vs Thick Belonging"
+    ]
+  },
+  {
+    "title": "Tied Aid",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Tied Aid.md",
+    "aliases": [
+      "捆绑援助",
+      "约束性援助",
+      "捆绑式援助",
+      "附带采购条件援助",
+      "Tied Foreign Aid",
+      "Conditional Aid Procurement"
     ]
   },
   {

@@ -94,7 +94,7 @@ sources:
 part_of: "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 status: active
 created: "2026-10-31"
-updated: 2026-11-14
+updated: 2026-11-20
 ---
 
 ---
@@ -118,7 +118,6 @@ updated: 2026-11-14
 > | **[[Price Cumulative Advantage Model\|普赖斯累积优势模型]]**<br>`Price Cumulative Advantage Model` | 将文献指数扩张与引用优先连接机制形式化结合，证明富者愈富动力学在宏观上必然生成幂律重尾分布，确立先发优势在引文积累中的长期固化作用 (Price, 1976, pp. 184–186)。 |
 > | **[[Bianconi-Barabási Model\|边康尼-巴拉巴西适应度模型]]**<br>`Bianconi-Barabási Fitness Model` | 将成果内在适应度参数 $\eta$ 引入优先连接增长函数（$\Pi_i \propto \eta_i c_i$），解释高适应度后发突破为何能击败早期先发文献，并从正态适应度先验推导出对数正态引文分布 (Bianconi & Barabási, 2001, pp. 187–188)。 |
 > | **[[Combinatorial Novelty\|组合新颖性]]与适度平衡架构**<br>`Combinatorial Novelty & Balanced Architecture` | 将创新界定为既有技术代码或期刊知识域的重组过程，揭示非典型配对带来的方差扩大效应，提出常规基底与非典型组合并存的突破最优解 (Fleming, 2001; Uzzi et al., 2013; pp. 189–193)。 |
-> | **[[Novelty Paradox\|新颖性悖论]]**<br>`Novelty Paradox` | 阐明高新颖性探索在追求颠覆突破的高期望回报与面临极高失败率、同行评审保守规避偏见之间的结构性冲突，推导常规基底与非典型组合的适度平衡架构 (Uzzi et al., 2013; pp. 191–193)。 |
 > | **[[Novelty Bias in Peer Review\|同行评审新颖性偏见]]**<br>`Novelty Bias in Peer Review` | 揭示专家评审在面对高度新颖的关键词组合与远距离跨学科申请方案时所展现的系统性保守防御，解释创新前沿与立项资助的体制错位 (Boudreau et al., 2016; Bromham et al., 2016; pp. 192–193)。 |
 > | **[[Media Amplification in Science\|科学媒体放大效应]]与[[Negative Citation\|负面引用机制]]**<br>`Media Amplification & Negative Citation Mechanism` | 阐明大众传媒的广泛触达如何为学术成果提供信任背书与[[Causality\|因果性]]引文增量，揭示反驳评论与负面引用背后科学共同体的注意力筛选效应 (Phillips et al., 1991; Radicchi, 2012; pp. 193–196)。 |
 

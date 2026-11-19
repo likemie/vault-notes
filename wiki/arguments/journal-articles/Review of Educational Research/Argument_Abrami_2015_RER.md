@@ -92,7 +92,7 @@ sources:
 part_of:
 status: draft
 created: 2026-08-24
-updated: 2026-11-11
+updated: 2026-11-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Abrami_2015_RER"
@@ -132,7 +132,6 @@ issuing_organization: ""
 > | **实用主义探究与真实学习**<br>[[Authentic Instruction]] | [[John Dewey\|杜威]]（Dewey）关于“言之有物”与真实情境探究的理论，论证真实生活问题、模拟演练与劣构情境在激发主动思考动机与提供认知锚点中的基底作用。 |
 > | **苏格拉底对话与社会建构**<br>[[Dialogue in Education]] | 强调师生提问、结构化辩论与同伴协商在暴露认知矛盾、检验论证充分性与[[Externalization\|外化]]思维过程中的核心中介机制。 |
 > | **学徒制与认知脚手架理论**<br>[[Mentorship]] | 导师示范专家思维、提供反思反馈并在[[Zone of Proximal Development\|最近发展区]]内提供适时支持，发挥认知脚手架与催化功能。 |
-> | **批判哲学视角的反思**<br>[[Gert Biesta\|Biesta]] & Stams; Marshall | 从反教条主义与福柯“自由实践”视角审视标准化测量与工具化批判性思维的局限，为理解思维干预的深层价值与边界提供反思透镜。 |
 
 > [!warrant]- 理论如何支撑论证
 > 德尔菲框架确立了目标能力的认知与倾向维度；Ennis 模式提供了课程架构维度的解释工具；而真实性教学、对话与导师制三维框架则直接切入微观教学过程，解释了情境锚点、互动论辩与[[Scaffolding\|认知脚手架]]如何共同促成批判性思维的发展与迁移。

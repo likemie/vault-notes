@@ -109,7 +109,7 @@ sources:
 part_of: ""
 status: active
 created: 2026-11-18
-updated: 2026-11-19
+updated: 2026-11-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Hogan_2013_ROE"
@@ -149,9 +149,7 @@ issuing_organization: ""
 > | **民俗教学法理论**<br>[[Folk Pedagogy]] | 借助 Bruner (1996) 与 Cohen (1988) 的概念，阐明教师基于本土常识经验与直觉心智模型维持以传授示范为主轴的实践[[Habitus\|惯习]]。 |
 > | **为理解而教框架**<br>[[Teaching for Understanding]] | 确立包含提问质量、概念聚焦、学习监控、形成性反馈与协作支架等十一维高阶教学[[Construct\|构念]]的测量与评估体系。 |
 > | **显性直接教学模型**<br>[[Direct Instruction]] | 刻画教师通过分步示范、内容结构化呈现、复习检测与针对性练习引导学生系统掌握[[Procedural Skill\|程序技能]]与良构知识的中介性策略。 |
-> | **共同调节学习理论**<br>[[Co-regulated Learning]] | 刻画学生在教师支架与同伴互动下，逐步将学习目标设立、反思监控与表现自评内化为[[Metacognition\|元认知调节]]能力的过程。 |
 > | **高利害评估与制度同构**<br>[[High-Stakes Testing]] | 剖析全国统一考试体制如何通过刚性升学问责与反向回冲效应，将学校微观教学牢固锁定在应试复现轨道上。 |
-> | **课程对齐理论**<br>[[Curriculum Alignment]] | 剖析全国统考大纲、商业复习题集与微观讲授操练之间的超强对齐，以及该对齐结构对渐进式大纲改革政策所造成的结构性阻断与制度束缚。 |
 
 > [!warrant]- 理论如何支撑论证
 > Hogan et al. (2013) 将社会学的新制度主义（Powell & DiMaggio, 1991; Scott, 1995）、文化认知论中的民俗教学法（Folk Pedagogy）（Bruner, 1996; Cohen, 1988）与认知学习论（Perkins, 1993, 1998; Rosenshine & Stevens, 1986）有机整合：在文化与制度辨析层面，研究直接对话[[Confucian Heritage Cultures|儒家文化圈]]（Confucian Heritage Cultures）假说（Biggs & Watkins, 2001; Cheng, 1996），实证因果全模型确证教师的教学杂糅实质上是对国家高利害统考与升学问责环境的理性制度调适，打破了将东亚高[[Academic Achievement|学业表现]]归因于单一文化宿命论的理论设想；在宏观制度层面，国家统考与课堂练习之间构成了超强密度的[[Curriculum Alignment|课程对齐]]，将学校微观教学牢固限制在应试复现轨道上，对少教多学等探究性改革形成了刚性制度约束；在微观教学互动层面，结构方程模型检验了从低阶讲授到高阶探究之间的逐级依赖关系，论证了缺乏基础直接教学支撑的探究性改革在现实应试体系中无法孤立存活的认知与制度必然性。

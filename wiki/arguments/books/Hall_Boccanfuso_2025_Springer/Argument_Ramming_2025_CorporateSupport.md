@@ -83,7 +83,7 @@ sources:
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 status: active
 created: 2026-06-03
-updated: 2026-11-15
+updated: 2026-11-20
 book_title: "University-Industry Collaboration: Innovation at the Interface"
 publication_place: "Cham"
 publisher: "Springer"
@@ -112,7 +112,6 @@ publisher: "Springer"
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
-> | **实践者与利益相关者二元区分** | 区分直接负责产学合作预算审批、合同管理与统筹协调的专职人员（实践者），与实际承接技术成果、投入工程人员与使用测试设备的业务团队（利益相关者），明确 [[Academic Engagement Team\|AET]] 是支持与协调者而非最终商业转化者的角色定位。（pp. 217–218） |
 > | **叠加层组织构型** | 说明 [[Academic Engagement Team\|AET]] 并非孤立的业务部门，而是嵌入并叠加在既有业务单元之上的跨部门矩阵网络，揭示实践者在没有直接行政命令权时，必须依靠组织沟通与利益协商开展工作。（pp. 222–223） |
 > | **九维企业支持[[Analytic Framework\|分析框架]]** | 涵盖经营哲学、绩效指标、资助结构、决策机制、组织设计、发展阶段、时间协调、[[Research Translation\|技术转化]]与外部伙伴九个维度，为诊断内部阻力与制定应对策略提供系统依据。（pp. 218–225） |
 > | **梯级协议工具矩阵** | 建立从短期技术咨询、中期学生实习与访问学者、双重聘用[[Joint Faculty Appointments\|联合教职]]到长期[[Sponsored Research Agreement\|赞助研究协议]]（SRA）的契约组合，使长周期学术探索与工业界的阶段性交付要求相适应。（pp. 229–231） |

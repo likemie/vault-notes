@@ -100,7 +100,7 @@ related_theories:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-11-11
+updated: 2026-11-20
 ---
 ---
 
@@ -125,7 +125,6 @@ updated: 2026-11-11
 > | **[[Knowledge Mobilisation\|知识动员]]**<br>[[Knowledge Mobilisation]] | 揭示研究证据在学校组织中的社会性与关系性流动逻辑：正式动员依赖书籍、指南与专业发展工作坊；非正式动员依托可信同伴的社会网络。证据的采纳取决于知识接收者对传播源的人际信任度与互动深度。（pp.124–125; Daly, 2010） |
 > | **[[Professional Learning Community\|专业学习共同体]]**<br>[[Professional Learning Community]] | 提供研究嵌入教学日常的实体组织载体：其核心运行机制是反思性专业探究（reflective professional inquiry），包括反思性[[Dialogue in Education\|对话]]（Louis et al., 1995）、对底层假设的持续质询以及通过社会互动将默会知识转化为可迁移的显性实践。 |
 > | **[[Activity Traps\|活动陷阱]]**<br>[[Activity Traps]] | 借用史蒂文·卡茨（Steven Katz）与丽莎·安妮·达克（Lisa Anne Dack, 2013）的组织病理学概念：解释实践者在探究过程中未深入挖掘问题成因便匆忙跳向表面化“解决方案”，导致盲目采纳新举措却无法产生实质教学成效的认知与行动偏差。 |
-> | **[[Necessary and Sufficient Conditions\|必要与充分条件]]**<br>[[Necessary and Sufficient Conditions]] | 提供测度与推论的方法论逻辑：将能力、文化、环境与结构四类要素视为实现全校性证据知情实践的“集合必要条件”。任一维度的缺失都将导致[[Inquiry Cycle\|探究循环]]受阻，从而确立短板诊断与干预优先级的逻辑合法性。 |
 
 ---
 

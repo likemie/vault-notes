@@ -8,7 +8,7 @@ aliases:
 summary: "研究共同体共享的世界观、信念体系与原则集合，涵盖本体论、认识论与方法论承诺，决定何为合法的科学知识；在科学学与社会科学中历经科学革命、实证论战与当代跨学科计量对范式开创成果注意力极化的实证确证。"
 type: concept
 domain: "educational-philosophy"
-related_count: 110
+related_count: 113
 related_level: 11
 related_stars: "💎💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -87,6 +87,8 @@ related_methods:
   - "[[Network Analysis]]"
   - "[[Mixed Methods Research]]"
   - "[[Follow-on Engagement]]"
+  - "[[Vertical Case Study]]"
+  - "[[Case Study]]"
   - "[[Effect Size]]"
   - "[[Discounted Cumulative Gain]]"
   - "[[Fixed-Effect Model]]"
@@ -130,6 +132,7 @@ related_arguments:
   - "[[Argument_Chen_2025_HSSC]]"
   - "[[Argument_Haubrock_2026_NHB]]"
   - "[[Argument_Hao_2026_Nature]]"
+  - "[[Argument_Vavrus_2006_CICE]]"
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Barrenechea_2023_JEC]]"
   - "[[Argument_Gopinathan_2007_GSE]]"
@@ -274,7 +277,7 @@ updated: 2026-11-20
 > - **2023 — [[SciSciNet|科学学数据湖]]对范式颠覆与[[Combinatorial Novelty|组合新颖性]]的实证度量（[[Argument_Lin_2023_SciData|Lin et al., 2023]]）** 林泽、尹亚楠、刘鲁与王大顺开源构建覆盖 1.34 亿篇跨学科文献的 SciSciNet 数据湖，大规模预计算 2,800 万篇颠覆性指数与 4,500 万篇组合新颖性测度，实证再现了小团队开辟新范式探索（颠覆性显著更高）与高引突破兼顾常规性基底与尾部新颖性的普遍规律，为宏观范式演进与知识拓扑重构提供了计算实证基底。
 > - **2020s 至今 — [[Geopolitics|地缘政治]]竞争中的范式对立与整合突破** 在[[Transnational Education|跨国高等教育]]与地缘[[Politics of Knowledge|知识政治]]研究中，现实主义[[Knowledge Power|知识权力]]范式与自由主义[[Knowledge Diplomacy|知识外交]]范式呈现出明显的解释张力；学者引入辩证整合框架（如[[Tianxia Heuristic|天下启发式]]体系），旨在超越单一范式的[[Incommensurability|不可通约性]]与认知盲区，解释开放大众化与精英排他性网络的双轨并存。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1702–1705)]]
 > - **2020s — [[Output-Oriented Governance|循证治理]]与教育审计中的单一范式锁定与反思** [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] 揭示国家质量审计机构通过在[[Literature Review|文献综述]]中定向锚定单一研究范式来消解学术争议、制造确定性幻觉；而受邀学者在审议研讨中通过揭示教学情境性与教师真实生存环境，打破了单一范式的规范性垄断（pp. 649–651）。
-> - **2025 — 库恩范式革命微观[[Operationalization|操作化]]与常规科学挤出效应** Chen et al.（[[Argument_Chen_2025_HSSC|2025]]）基于 19,152 位经济学家全生命周期产出，以颠覆度指标实证操作化库恩科学革命（开启新轨迹）与常规解谜（巩固旧传统）分工，发现颠覆突破集中于[[Hot Streak|学术爆发期]]且峰值（入行 14–16 年）显著早于引文峰值，证实爆发期内追求常规高引论著对范式颠覆突破产生净挤出效应（边际贡献 −0.097）。
+> - **2025 — 库恩范式革命微观[[Operationalization|操作化]]与常规科学挤出效应** [[Argument_Chen_2025_HSSC|Chen et al. (2025)]] 基于 19,152 位经济学家全生命周期产出，以颠覆度指标实证操作化库恩科学革命（开启新轨迹）与常规解谜（巩固旧传统）分工，发现颠覆突破集中于[[Hot Streak|学术爆发期]]且峰值（入行 14–16 年）显著早于引文峰值，证实爆发期内追求常规高引论著对范式颠覆突破产生净挤出效应（边际贡献 −0.097）。
 > - **2026 — 既有范式守门机制与同行评审保守化** 豪布罗克等系统阐明同行评审与学术考评体制如何演变为既有范式的守门工具，通过对非常规概念打折与量化指标考核压制范式突破，迫使[[Early-Career Researchers|青年学者]]采取策略性顺应。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026)]]
 > - **2026 — 人工智能对新兴科学范式形成的拓扑阻滞** [[Argument_Hao_2026_Nature|Hao et al. (2026)]] 基于 4,130 万篇自然科学文献引文拓扑分析，检验了库恩（Kuhn, 1962）关于新兴前沿形成密集互联共同体范式的理论假定；证实 AI 采纳使[[Follow-on Engagement|后继学术卷入度]]系统性下降 22%（$t \ge 8.10, p < .001$），引文网络退化为孤立发散的星状结构，表明算法工具更倾向于将既有成熟数据赛道自动化，未能催生密集对话与理论整合的新兴范式网络。[[Argument_Hao_2026_Nature|(Hao et al., 2026, p. 1241)]]
 
@@ -285,7 +288,7 @@ updated: 2026-11-20
 > > [!axis] [[Incommensurability|不可通约性]]坚守 vs [[Pragmatic Paradigm|实用主义]]兼容（跨范式整合）
 > > - **原教旨不可通约论（Kuhn, 1962; Guba & Lincoln, 1989）** 坚持[[Ontology|本体论]]与[[Epistemology|认识论]]公理具有排他性，一人不可同时持守两套相互矛盾的世界观；混合量化与质性方法往往导致理论折中主义与认识论混乱。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
 > > - **实用主义兼容论（Patton; Tashakkori & Teddlie）** 认为教育研究本质上是解决现实问题的实践探究，不应被抽象形而上学范式绑架；主张根据具体[[Research Question|研究问题]]灵活吸纳不同范式的有效工具。
-> > - **多尺度垂直整合范式（[[Argument_Vavrus_2006_CICE|Vavrus & Bartlett, 2006]]）** 批判学界将“范式之争”矮化为定性与定量操作技术的表层程序冲突，主张回溯深层认识论追问；提出垂直案例研究（Vertical Case Study, VCS）作为超越传统封闭个案范式与宏观跨国量化范式的新型范式，在单个纵向案例中整合微观深描与宏观政治经济学（pp. 95–97）。
+> > - **多尺度垂直整合范式（[[Argument_Vavrus_2006_CICE|Vavrus & Bartlett, 2006]]）** 批判学界将“范式之争”矮化为定性与定量操作技术的表层程序冲突，主张回溯深层认识论追问；提出[[Vertical Case Study|垂直案例研究]]（Vertical [[Case Study]], VCS）作为超越传统封闭个案范式与宏观跨国量化范式的新型范式，在单个纵向案例中整合微观深描与宏观政治经济学（pp. 95–97）。
 >
 > > [!axis] 社会科学是否具备“单一主导范式”
 > > - **自然[[Scientific Paradigm|科学范式]]论** 库恩最初主要基于物理学、天文学等硬科学历史，认为成熟科学应当具有全行业共享的单一正统范式（常规科学）。

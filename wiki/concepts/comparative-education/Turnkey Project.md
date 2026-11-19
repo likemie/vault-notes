@@ -11,28 +11,36 @@ aliases:
 summary: "国际发展合作、基础设施援建与比较教育学中的项目交付模式；指供援国从勘测设计、工程总承包、材料采购、设备配置到施工建设提供全包式全额出资与整体组织，并在完工检验合格后将成套功能性设施完整移交给受援国（即交付钥匙即可投入使用）；该模式以交付速度快、行政摩擦少和硬件落地确定性强为特征，但在微观实践中容易引发技术规范水土不服、本土参与度低与后期运维预算匮乏等制度性挑战。"
 type: concept
 domain: "comparative-education"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 18
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/comparative-education
   - theme/educational-aid
   - theme/educational-infrastructure
   - theme/south-south-cooperation
 related_concepts:
-  - "[[Educational Assistance Modalities]]"
-  - "[[Country Ownership]]"
+  - "[[Homework]]"
+  - "[[Transnational Education]]"
   - "[[Tied Aid]]"
+  - "[[Norm Localisation]]"
+  - "[[Paradigm]]"
   - "[[South-South Cooperation]]"
+  - "[[Country Ownership]]"
+  - "[[Variable]]"
+  - "[[Educational Assistance Modalities]]"
   - "[[Educational Diplomacy]]"
-  - "[[Policy Conditionalities]]"
-related_theories:
-  - "[[Organizational Culture]]"
-related_methods: []
+related_theories: []
+related_methods:
+  - "[[Effect Size]]"
+  - "[[Case Study]]"
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[World Bank]]"
+  - "[[Development Assistance Committee]]"
+  - "[[OECD]]"
   - "[[Forum on China-Africa Cooperation]]"
 related_arguments:
   - "[[Argument_Nordtveit_2011_IJED]]"
@@ -46,7 +54,7 @@ updated: 2026-11-20
 ---
 
 > [!def] Turnkey Project
-> 交钥匙工程（Turnkey Project，又称交钥匙援助或交钥匙模式），指在跨国工程承包与国际发展合作中，供援方承担从项目选址复核、工程图纸设计、物资设备采购、施工技术队伍派遣到全封闭施工作业的全部流程，全额无偿出资成套建成，经终期质量检验合格后，将具备完整使用功能的物理实体移交受援国政府（即受援方仅需“转动钥匙”即可直接投入使用）。在跨国教育援助中，该形态主要用于快速交付中小学校舍、综合教学楼与实验室硬件，其优势在于实施周期短、受援国无需预支工程财力与现场管理成本；但由于采用供援国封闭式总承包运作，容易排斥受援国本土承包商与劳动力，并引发外来施工规程与受援国既有技术标准的规范性摩擦。[[Argument_Nordtveit_2011_IJED|(Nordtveit, 2011, pp. 104–105)]]; [[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 21–22)]]
+> 交钥匙工程（Turnkey Project，又称交钥匙援助或交钥匙模式），指在跨国工程承包与国际发展合作中，供援方承担从项目选址复核、工程图纸设计、物资设备采购、施工技术队伍派遣到全封闭施工[[Homework|作业]]的全部流程，全额无偿出资成套建成，经终期质量检验合格后，将具备完整使用功能的物理实体移交受援国政府（即受援方仅需“转动钥匙”即可直接投入使用）。在[[Transnational Education|跨国教育]]援助中，该形态主要用于快速交付中小学校舍、综合教学楼与实验室硬件，其优势在于实施周期短、受援国无需预支工程财力与现场管理成本；但由于采用供援国封闭式总承包运作，容易排斥受援国本土承包商与劳动力，并引发外来施工规程与受援国既有技术标准的规范性摩擦。[[Argument_Nordtveit_2011_IJED|(Nordtveit, 2011, pp. 104–105)]]; [[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 21–22)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 供援方对跨国基建项目实行全流程封闭组织、全额出资与成套建设，受援方仅负责选址确认与终期接收的援助工程交付模式。
@@ -59,7 +67,7 @@ updated: 2026-11-20
 > *For primary school construction (as with other projects), the Chinese cooperation can be said to be in the 'response mode' (King, 2009). Accordingly, Cameroonians selected the location where the schools were to be built, and then the Chinese, according to an interviewee at the Cooperation Unit, 'did everything, including using their own architectural style.' The Chinese Embassy explained that the construction of schools is financed by a gift from China that Cameroon 'does not need to reimburse.' The Chinese authorities organize a bidding process in China to hire a Chinese enterprise to build the school. This is, according to the embassy, 'part of a win–win situation' since it produces international employment for Chinese enterprises.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Tied Aid|捆绑援助]]：捆绑援助是涵盖货物与服务采购限制的宏观资金约束条款；交钥匙工程是具体的微观工程组织与交付技术契约。交钥匙工程常在客观上体现为采购捆绑，但侧重工程实施闭环而非资金法理属性。
+> - 不等于 [[Tied Aid|捆绑援助]]：捆绑援助是涵盖货物与服务采购限制的宏观资金约束条款；交钥匙工程是具体的微观工程组织与交付技术契约。交钥匙工程常在客观上体现为采购捆绑，侧重工程实施的一体化交付过程，有别于资金本身的法理属性。
 > - 不等于 本土分包施工模式：交钥匙工程由外方承包商封闭式一体化建成交付；以日本对非校舍援助为代表的本土分包模式由外方专家监理，雇佣本土企业和工人施工并逐步融入本土技术规范。[[Argument_Nordtveit_2011_IJED|(Nordtveit, 2011, p. 104)]]
 > - 不适用于 纯软件或制度性援助：针对教师研训、课程编制或宏观政策规划的智力资助，缺乏物理实体的建造与移交节点，不适用交钥匙工程概念。
 
@@ -97,32 +105,32 @@ updated: 2026-11-20
 > [!concept-proposition] 命题一｜交钥匙工程在保障校舍高速度交付的同时容易诱发与受援国既有技术规范的制度性冲突
 > **交付效率与规范制度摩擦** 考察外包工程全封闭建设对跨国技术规程衔接带来的挑战。
 
-> [!claim] Nordtveit (2011)
-> **快速交付背后的技术规程冲突** 比约恩·哈拉尔德·诺德维特（Bjorn Harald Nordtveit）通过考察中国在喀麦隆援建的 3 所农村友好小学指出，交钥匙工程凭借全额赠款与国内总承包机制，在极短周期内完成了高标准小学硬件交付；但由于中国企业直接采用中国国家建筑规范与设计蓝图，受到法式工程体系训练的喀麦隆监理工程师对此感到困惑并质疑其严密性，凸显出新兴援助主体在学习曲线初期面临的规范本土化调适挑战。[[Argument_Nordtveit_2011_IJED|(Nordtveit, 2011, p. 104)]]
+> [!claim] [[Argument_Nordtveit_2011_IJED|Nordtveit (2011)]]
+> **快速交付背后的技术规程冲突** 比约恩·哈拉尔德·诺德维特（Bjorn Harald Nordtveit）通过考察中国在喀麦隆援建的 3 所农村友好小学指出，交钥匙工程凭借全额赠款与国内总承包机制，在极短周期内完成了高标准小学硬件交付；但由于中国企业直接采用中国国家建筑规范与设计蓝图，受到法式工程体系训练的喀麦隆监理工程师对此感到困惑并质疑其严密性，凸显出新兴援助主体在学习曲线初期面临的[[Norm Localisation|规范本土化]]调适挑战。[[Argument_Nordtveit_2011_IJED|(Nordtveit, 2011, p. 104)]]
 
 ---
 
 > [!concept-proposition] 命题二｜全包式交钥匙模式降低了受援国行政门槛但增加了项目后期运维与选址寻租风险
 > **行政便利与治理风险平衡** 检验交钥匙项目在缺乏长期跟踪机制下对受援国内部政治生态的影响。
 
-> [!claim] Nordtveit (2011)
-> **需求响应下的选址劫持与运维脱节** 诺德维特（Nordtveit, 2011）实证表明，交钥匙工程使受援国无需预支工程财力与管理成本，迎合了受援国行政高层的政绩需求；然而，由于供援方不介入受援国内部政治协商并回避审计问责，交钥匙小学的选址频遭本土高级政客施压挪移至个人出生地或竞选票仓，且受援国由于未深度参与建设过程，往往缺乏后期校舍维保预算与师资配备方案。[[Argument_Nordtveit_2011_IJED|(Nordtveit, 2011, pp. 104, 107)]]
+> [!claim] [[Argument_Nordtveit_2011_IJED|Nordtveit (2011)]]
+> **需求响应下的选址劫持与运维脱节** 诺德维特（[[Argument_Nordtveit_2011_IJED|Nordtveit, 2011]]）实证表明，交钥匙工程使受援国无需预支工程财力与管理成本，迎合了受援国行政高层的政绩需求；然而，由于供援方不介入受援国内部政治协商并回避审计问责，交钥匙小学的选址频遭本土高级政客施压挪移至个人出生地或竞选票仓，且受援国由于未深度参与建设过程，往往缺乏后期校舍维保预算与师资配备方案。[[Argument_Nordtveit_2011_IJED|(Nordtveit, 2011, pp. 104, 107)]]
 
 ---
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **交付效率与规范摩擦** | 封闭建设保障了高速交付但遭遇受援国本土工程师规范抵触 | 跨国教育基础设施援建与工程标准转移 | Nordtveit (2011) |
-> | **行政便利与寻租风险** | 免除受援国管理成本但因缺乏第三方监督易遭政客选址劫持 | 发展中国家双边基建援助与项目微观治理 | Nordtveit (2011) |
+> | **交付效率与规范摩擦** | 封闭建设保障了高速交付但遭遇受援国本土工程师规范抵触 | 跨国教育基础设施援建与工程标准转移 | [[Argument_Nordtveit_2011_IJED\|Nordtveit (2011)]] |
+> | **行政便利与寻租风险** | 免除受援国管理成本但因缺乏第三方监督易遭政客选址劫持 | 发展中国家双边基建援助与项目微观治理 | [[Argument_Nordtveit_2011_IJED\|Nordtveit (2011)]] |
 
 ---
 
 > [!dev-timeline] 概念演变
 > - **20世纪中期 — 现代工业工程承包** 交钥匙合同起源于欧美大型石化与公共设施建设，用于解决多工种复杂工程的系统集成与责任唯一性问题。
-> - **1970s–1980s — 国际援助体系广泛采纳** 传统双边供援国与世界银行广泛采用交钥匙模式向亚非拉国家输送成套医院、电厂与职业技术学校。
-> - **1990s–2000s — 西方反思与范式转向** 经合组织发展援助委员会（OECD-DAC）批判交钥匙援助压制受援国自主能力建设与本土产业，逐步转向部门预算支持与本地联合采购。
-> - **2000s至今 — 南南合作重新激活** 中非合作论坛等机制将交钥匙学校与医院作为务实高效交付的核心载体，凭借高执行力在发展中国家硬件基建中占据重要地位。[[Argument_Nordtveit_2011_IJED|(Nordtveit, 2011, p. 104)]]
+> - **1970s–1980s — 国际援助体系广泛采纳** 传统双边供援国与[[World Bank|世界银行]]广泛采用交钥匙模式向亚非拉国家输送成套医院、电厂与职业技术学校。
+> - **1990s–2000s — 西方反思与[[Paradigm|范式]]转向** [[Development Assistance Committee|经合组织发展援助委员会]]（[[OECD]]-DAC）批判交钥匙援助压制受援国自主能力建设与本土产业，逐步转向部门预算支持与本地联合采购。
+> - **2000s至今 — [[South-South Cooperation|南南合作]]重新激活** [[Forum on China-Africa Cooperation|中非合作论坛]]等机制将交钥匙学校与医院作为务实高效交付的核心载体，凭借高执行力在发展中国家硬件基建中占据重要地位。[[Argument_Nordtveit_2011_IJED|(Nordtveit, 2011, p. 104)]]
 
 ---
 
@@ -132,18 +140,18 @@ updated: 2026-11-20
 > > 围绕跨国教育援建究竟应追求快速完工还是通过本土分包培养受援国自主建设能力展开的学术讨论。
 > >
 > > - **务实工程交付学派（Pragmatic Delivery School）** 强调发展中国家农村办学条件极度落后，交钥匙工程能够规避受援国行政低效与腐败，以确定性速度将安全校舍送达基层师生。[[Argument_Nordtveit_2011_IJED|(Nordtveit, 2011, p. 104)]]
-> > - **受援国自主权与能力建构学派（Country Ownership & Capacity School）** 认为交钥匙工程将本土工程队伍边缘化，剥夺了本地企业技术学习机会，且容易由于建筑材料与规范脱离本土而陷入后续维修困难。
+> > - **[[Country Ownership|受援国自主权]]与能力建构学派（Country Ownership & Capacity School）** 认为交钥匙工程将本土工程队伍边缘化，剥夺了本地企业技术学习机会，且容易由于建筑材料与规范脱离本土而陷入后续维修困难。
 
 ---
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Nordtveit_2011_IJED\|Nordtveit (2011)]] | 喀麦隆基础教育部中日项目处官员、工程监理及驻喀外交官 | 单国嵌入式质性案例研究 | 援建学校交付数量、出资形式与建设周期 | 落实中非合作论坛北京峰会承诺完成 3 所全额赠款交钥匙农村全日制小学建设，由中资中标企业自带技术图纸与专业技工实施封闭式总承包整体交付 | — | 实证材料反映交钥匙项目在工程交付速度上的优势，但未测量校舍交付后多年的结构安全性量化损耗数据 |
+> | [[Argument_Nordtveit_2011_IJED\|Nordtveit (2011)]] | 喀麦隆基础教育部中日项目处官员、工程监理及驻喀外交官 | 单国嵌入式质性[[Case Study\|案例研究]] | 援建学校交付数量、出资形式与建设周期 | 落实中非合作论坛北京峰会承诺完成 3 所全额赠款交钥匙农村全日制小学建设，由中资中标企业自带技术图纸与专业技工实施封闭式总承包整体交付 | — | 实证材料反映交钥匙项目在工程交付速度上的优势，但未测量校舍交付后多年的结构安全性量化损耗数据 |
 
 ---
 

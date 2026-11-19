@@ -91,7 +91,7 @@ related_facts:
   - "[[China-Pakistan Economic Corridor]]"
 status: draft
 created: 2026-10-22
-updated: 2026-11-11
+updated: 2026-11-20
 ---
 ---
 
@@ -116,7 +116,6 @@ updated: 2026-11-11
 > | **[[Subnational Public Diplomacy Strategies\|次国家公共外交策略]]**<br>[[Subnational Public Diplomacy Strategies]] | 基于次国家外交投入[[Cluster Analysis\|聚类分析]]提炼的汲取型、微调型与规避型三大策略[[Paradigm\|范式]]，阐明大国如何在地缘风险与战略需求约束下配置教育文化与资金工具。（pp. 11–13） |
 > | **[[Power Conversion Dilemma\|权力转化困境]]**<br>[[Power Conversion Dilemma]] | 解释为何巨额教育资金投入、奖学金供给与文化机构扩张，在遭遇驻在国民族认同、[[Geopolitics\|地缘政治]]猜忌与安全审查时，容易发生预期影响力耗散与制度性受阻。（pp. 2, 23–24, 62–66, 73–75） |
 > | **[[Language Income Premium\|语言收入溢价假说]]**<br>[[Language Income Premium]] | Xie (2019) 提出的文化经济学模型，论证当低收入国家公众预期与大国经贸合作的经济收益超越采纳新语言的交易成本时，[[Foreign Languages\|外语学习]]即呈现收入溢价驱动特征。（pp. 20, 23, 29, 38） |
-> | **[[Public Diplomacy\|公共外交]]与社会纽带**<br>Social Ties in Public Diplomacy | 将留[[Student Mobility\|学生流动]]、校企职教合作与友城网络界定为国家对外战略中的社会纽带（Social Ties），剖析跨国人际交往如何转化为国家双边经贸与政治互信资本。（pp. 1–3, 20） |
 
 > [!warrant]- 理论如何支撑论证
 > 理论框架将[[Transnational Education|跨国教育]]交流置于大国外交战略与地缘竞争的复合视野中。通过引入文化引力与收入溢价模型，框架揭示了南亚与中亚社会对中国教育语言输出的响应机制：吸引青年学习汉语或赴华求学的核心动力源于对中国经济增长与经贸红利的理性预期；权力转化困境则为解释大规模教育资助未能平息印度等国的安全审查、草根民意为何依然存在战略戒备提供了分析透镜。（pp. 20–24, 28–34, 62–66）

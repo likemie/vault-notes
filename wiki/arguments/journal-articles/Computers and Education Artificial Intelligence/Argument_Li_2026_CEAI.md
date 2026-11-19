@@ -118,7 +118,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-08-31
-updated: 2026-11-11
+updated: 2026-11-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Li_2026_CEAI"
@@ -167,8 +167,6 @@ issuing_organization: ""
 > | **[[Cognitive Load Theory\|认知负荷理论（Sweller, 2011）]]**<br>[[Cognitive Load Theory]] | 解释结构化任务中 AI 如何剥离机械性外在负荷以释放[[Working Memory\|工作记忆]]资源投入高阶图式构建，以及非结构化任务中如何诱发有害的[[Cognitive Offloading\|认知卸载]]。 |
 > | **[[Self-Regulated Learning\|自我调节学习理论（Zimmerman, 2002）]]**<br>[[Self-Regulated Learning]] | 解释学习者如何通过前瞻规划、过程监控与反思调整维持认知主体性，防止在生成式算法的顺滑输出面前产生盲从。 |
 > | **[[Connectivism\|连通主义（Siemens, 2005）]]**<br>[[Connectivism]] | 将 ChatGPT 概念化为分布式知识网络中的交互式中继节点，支持跨学科知识检索、模式识别与跨语境概念重组。 |
-> | **[[Boundary Object\|边界对象理论（Star & Griesemer, 1989）]]**<br>[[Boundary Object]] | 阐明 ChatGPT 作为兼具结构鲁棒性与情境可塑性的[[Artefact\|人工制品]]，如何在中介通用学术规范与个性化跨学科表达中发挥连接功能。 |
-> | **[[AI Literacy\|人工智能素养框架（Ng et al., 2021）]]**<br>[[AI Literacy]] | 作为核心前置调节[[Variable\|变量]]，决定学生在人机交互中是保持[[Epistemological Vigilance\|认识论警觉]]还是陷入表面语义流畅性陷阱。 |
 > | **文化历史活动理论（CHAT, Engeström, 1987）**<br>活动系统分析 | 揭示 ChatGPT 作为中介工具如何重塑教学活动系统中的人机认知分工、评估规则与主体共同体关系。 |
 > | **[[Educational Affordances\|教育技术可供性框架（Kirschner, 2004; Bower, 2008）]]**<br>[[Educational Affordances]] | 作为核心分析透镜，系统解构 ChatGPT 在批判性与[[Creativity\|创造性思维]]维度上的 10 大认知使能可供性与 10 大限制风险。 |
 

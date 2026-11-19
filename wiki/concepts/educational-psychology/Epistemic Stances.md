@@ -9,7 +9,7 @@ aliases:
 summary: "学习科学与认识论认知中的核心构念，指个体对特定知识主张采取的差异化态度或姿态（如坚信、怀疑、暂且接受、作为工作假设）；在人机协同探究中深化为根据技术中介形态与任务需求动态调适的主体反思姿态。"
 type: concept
 domain: "educational-psychology"
-related_count: 53
+related_count: 56
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -51,6 +51,7 @@ related_concepts:
   - "[[Brainstorming]]"
   - "[[Paradigm]]"
   - "[[Epistemic Friction]]"
+  - "[[Social Economy]]"
   - "[[School Autonomy]]"
   - "[[Global Educational Discourse]]"
   - "[[Homework]]"
@@ -61,6 +62,7 @@ related_theories:
   - "[[Human Capital Theory]]"
   - "[[Pluralism]]"
 related_methods:
+  - "[[Vertical Case Study]]"
   - "[[Chain-of-Thought Prompting]]"
   - "[[Role-playing]]"
   - "[[Likert Scale]]"
@@ -79,6 +81,7 @@ related_arguments:
   - "[[Argument_Chinn_2011_EducPsychol]]"
   - "[[Argument_Du_Yuan_2026_AIS]]"
   - "[[Argument_Wu_2025_ER]]"
+  - "[[Argument_Vavrus_2006_CICE]]"
 confidence: high
 status: active
 created: 2026-08-17
@@ -136,7 +139,7 @@ updated: 2026-11-20
 > - **工作假设姿态（[[Working Hypothesis]] Stance）** 将某一主张或 AI 提议作为推演下一步行动的临时[[Scaffolding|脚手架]]，在后续检验中持续观察其因果解释力。
 > - **适应性调适能力（Epistemic Adaptability）** 学习者依据任务风险（低风险[[Brainstorming|头脑风暴]] vs 高风险评价性裁决）自适应调整对外部中介的批判距离。
 > - **跨国机构[[Epistemology|认识论]]立场的表层分化与深层共识（Institutional Epistemic Stances & Deep Consensus）** 跨国组织在认识论表层呈现出鲜明的[[Paradigm|范式]]对峙——[[World Bank|世界银行]]视教育为纯粹生产性投资，追求私人与社会回报率；[[UNESCO|联合国教科文组织]]秉持人文主义终极价值；[[OECD|经合组织]]追求经济活力与社会凝聚力的结合。然而在深层结构上，它们共同确立了关于“信息时代”必然来临的认识论断言，达成将传统学校教育病理化并强推新自由主义治理五大支柱的深层规训共识。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 346–348)]]
-> - **比较探究中的双重认识立场陷阱与多尺度审视（Universalist vs. Relativist Stances & Multi-Scalar Synthesis）** [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] 结合马金森与莫利斯（Marginson & Mollis, 2001）的论断，揭示跨国比较研究面临的双重极端认识立场陷阱：普遍主义立场强求同质通则而遮蔽文化特异性与他者；极端相对主义立场将个体差异绝对化为孤立终点而放弃比较对话。垂直案例研究提出多尺度反思性认识立场，将地方行动者的微观情境知识置于与官方权威知识平等的地位，在跨尺度关系共通性中实现对相似性与差异性的双重审视。[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, pp. 97–100)]]
+> - **比较探究中的双重认识立场陷阱与多尺度审视（Universalist vs. Relativist Stances & Multi-Scalar Synthesis）** [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] 结合马金森与莫利斯（Marginson & Mollis, 2001）的论断，揭示跨国比较研究面临的双重极端认识立场陷阱：普遍主义立场强求同质通则而遮蔽文化特异性与他者；极端相对主义立场将个体差异绝对化为孤立终点而放弃比较对话。[[Vertical Case Study|垂直案例研究]]提出多尺度反思性认识立场，将地方行动者的微观情境知识置于与官方权威知识平等的地位，在跨尺度关系共通性中实现对相似性与差异性的双重审视。[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, pp. 97–100)]]
 
 > [!logic-map]- 人工智能交互中适应性认识立场的动态调节机制
 > ```mermaid
@@ -188,7 +191,7 @@ updated: 2026-11-20
 > **宏观全球治理与跨国机构[[Epistemology|认识论]]分殊** 揭示跨国组织表面相互对立的认识论立场如何掩盖其在教育治理方案上的深层同构性与排他性。
 
 > [!claim] [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]]
-> **表层[[Paradigm|范式]]分歧与深层规训共识** 跨国组织在认识论层面表现出显著的表层分歧：[[World Bank|世界银行]]（World Bank）坚守严格的[[Human Capital Theory|人力资本理论]]认识论立场，宣称其“无可匹敌”，将教育价值完全归结为私人与社会经济回报率；[[UNESCO|联合国教科文组织]]（UNESCO）倡导人文主义认识论立场，视人为目的本身，强调全人发展与和平尊严；[[OECD|经合组织]]（OECD）则采取兼顾经济增长与社会凝聚力的混合新自由主义立场。然而比奇揭示，这种认识论争鸣仅停留在表面；在深层结构上，三大机构共同预设了不可抗拒的“信息时代”必然性，将传统学校教育病理化为过时落后，并共同确立了包含权力下放与[[School Autonomy|学校自主权]]、国家标准化产出评估在内的“[[Global Educational Discourse|全球教育话语]]五大支柱”，进而垄断了危机的诊断权与解决处方，封闭了受援国探索本土替代性模式的政策空间。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 346–349)]]
+> **表层[[Paradigm|范式]]分歧与深层规训共识** 跨国组织在认识论层面表现出显著的表层分歧：[[World Bank|世界银行]]（World Bank）坚守严格的[[Human Capital Theory|人力资本理论]]认识论立场，宣称其“无可匹敌”，将教育价值完全归结为私人与[[Social Economy|社会经济]]回报率；[[UNESCO|联合国教科文组织]]（UNESCO）倡导人文主义认识论立场，视人为目的本身，强调全人发展与和平尊严；[[OECD|经合组织]]（OECD）则采取兼顾经济增长与社会凝聚力的混合新自由主义立场。然而比奇揭示，这种认识论争鸣仅停留在表面；在深层结构上，三大机构共同预设了不可抗拒的“信息时代”必然性，将传统学校教育病理化为过时落后，并共同确立了包含权力下放与[[School Autonomy|学校自主权]]、国家标准化产出评估在内的“[[Global Educational Discourse|全球教育话语]]五大支柱”，进而垄断了危机的诊断权与解决处方，封闭了受援国探索本土替代性模式的政策空间。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 346–349)]]
 
 ---
 
@@ -253,11 +256,11 @@ updated: 2026-11-20
 > | **微观认知与学习科学** | [[Epistemic Agency]] | 概念 | 学习者在[[Man-Computer Symbiosis\|人机协同]]中确立评价论立场的核心目标是维系自主认识能动性。 |
 > | **人机交互与认知调适** | [[Generative Artificial Intelligence]] | 概念 | 生成式大模型输出的流畅性对学习者自适应认识立场提出了紧迫要求。 |
 > | **人机交互与认知调适** | [[Cognitive Offloading]] | 概念 | 认识立场的成熟度直接决定学习者是盲目顺从卸载还是深层协同探究。 |
+> | **宏观治理与跨国机构** | [[School Autonomy]] | 概念 | 跨国机构在深层认识论共识下向全球南方捆绑输出的核心治理支柱之一。 |
 > | **宏观治理与意识形态** | [[Human Capital Theory]] | 理论 | 人力资本理论构成了[[World Bank\|世界银行]]评估教育价值的统治性工具主义[[Epistemology\|认识论]]立场。 |
 > | **宏观治理与跨国机构** | [[World Bank]] | 事实 | 世界银行以严格的人力资本认识论立场主导全球南方教育贷款与政策干预。 |
 > | **宏观治理与跨国机构** | [[UNESCO]] | 事实 | 联合国教科文组织坚守人文主义认识论立场，抗衡纯粹经济回报率工具论。 |
 > | **宏观治理与跨国机构** | [[OECD]] | 事实 | 经合组织采取混合新自由主义认识论立场，平衡经济生产力与社会凝聚力。 |
-> | **宏观治理与跨国机构** | [[School Autonomy]] | 概念 | 跨国机构在深层认识论共识下向全球南方捆绑输出的核心治理支柱之一。 |
 > | **核心学者** | [[Jason Beech]] | 人物 | 比较教育学者，系统解构跨国机构认识论立场的表层分歧与深层[[Discourse\|话语]]同构。 |
 
 
