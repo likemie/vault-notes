@@ -39,7 +39,7 @@ updated: 2026-11-20
 ---
 
 > [!def] Multilevel Comparative Analysis
-> **多层比较分析（Multilevel Comparative Analysis）** 是由比较教育学者马克·布雷（Mark Bray）与 R. 默里·托马斯（R. Murray Thomas）于 1995 年系统确立的比较教育研究框架。该方法通过建立涵盖地理/区位尺度、非地理人口群体与社会/教育系统构面的三维分析立方体（Bray-Thomas Cube），指导研究者超越将民族国家作为唯一比较容器的平面分析，系统考察不同层级之间的纵向互动与多维关联。[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, pp. 96–97)]]
+> **多层比较分析（Multilevel Comparative Analysis）** 是由比较教育学者[[Mark Bray|马克·布雷]]（Mark Bray）与 R. 默里·托马斯（R. Murray Thomas）于 1995 年系统确立的比较教育研究框架。该方法通过建立涵盖地理/区位尺度、非地理人口群体与社会/教育系统构面的三维分析立方体（Bray-Thomas Cube），指导研究者超越将民族国家作为唯一比较容器的平面分析，系统考察不同层级之间的纵向互动与多维关联。[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, pp. 96–97)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 跨越不同空间与社会组织层级的教育政策、办学制度、教学实践及多元社会群体的受教育经验。
@@ -118,6 +118,7 @@ updated: 2026-11-20
 > | [[Case Study]] | 前置方法 | 案例研究构成了在特定层级内部开展深入考察的方法基础。 |
 > | [[Vertical Case Study]] | 补充方法 | 垂直个案研究将多层立方体的静态空间层级深化为动态权力贯通的实地质性范式。 |
 > | [[Comparative Case Study]] | 替代方法 | 传统比较案例研究侧重水平横向对照，多层分析则强化纵向嵌套比较。 |
+> | [[Mark Bray]] | 人物 | 与托马斯联合构建三维多层比较分析立方体。 |
 
 ---
 

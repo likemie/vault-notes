@@ -145,11 +145,14 @@ updated: 2026-11-20
 > | [[Ecological Validity]] | 概念 | 确立自然发生情境与地方知识可[[Reliability\|信度]]的质量标准。 |
 > | [[Area Studies]] | 概念 | 区域研究的语言与历史文化深厚沉浸为垂直个案提供微观生态效度基础。 |
 > | [[Decentering the Nation-State]] | 概念 | 垂直个案研究将去国家中心化作为打破方法论民族主义的核心认识论导向。 |
+> | [[Development Expert]] | 概念 | 垂直个案研究将反思发展专家话语与去情境化快速评估作为认识论自审的重要环节。 |
 > | [[Critical Realism]] | 理论 | 为跨尺度机制解释与因果深度提供科学哲学[[Ontology\|本体论]]与认识论支撑。 |
 > | [[Case Study]] | 前置方法 | 垂直案例研究打破了传统个案研究在空间与人口边界上的封闭容器假设。 |
 > | [[Multilevel Comparative Analysis]] | 前置方法 | 提供三维空间与人口层级比较模型，构成垂直个案研究的空间构架前驱。 |
 > | [[Comparative Case Study]] | 延伸方法 | 垂直案例研究是比较案例研究（CCS）的直接理论基石与前身。 |
+> | [[Mark Bray]] | 人物 | 其与托马斯提出的多层分析立方体为垂直个案研究提供了前置空间架构参照。 |
 > | [[Comparative and International Education Society]] | 事实 | 推动该方法论探讨与认识论反思的学术平台。 |
+> | [[Comparatively Speaking]] | 事实 | 纪录片展现的比较教育学界建制分立与方法论困境构成了提出垂直个案研究的历史动因。 |
 
 ---
 
