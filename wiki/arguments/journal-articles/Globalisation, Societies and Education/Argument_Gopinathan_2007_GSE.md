@@ -37,6 +37,7 @@ related_concepts:
   - "[[Academic Attrition]]"
   - "[[Learner Autonomy]]"
   - "[[Educational Meritocracy]]"
+  - "[[Neoliberalism]]"
   - "[[Quasi-market]]"
   - "[[Religious Schools]]"
   - "[[Post-Fordism]]"
@@ -61,6 +62,7 @@ related_theories:
   - "[[Dependency Theory]]"
   - "[[Governing at a Distance]]"
   - "[[Human Capital Theory]]"
+  - "[[State Decline Thesis]]"
 related_methods:
   - "[[Critical Policy Analysis]]"
 related_instruments: []
@@ -73,6 +75,7 @@ related_facts:
   - "[[National Institute of Education]]"
   - "[[Singapore National Education]]"
   - "[[Goh Report]]"
+  - "[[1997 Asian Financial Crisis]]"
   - "[[Economic Review Committee 2002]]"
   - "[[Remaking Singapore Committee]]"
   - "[[School Cluster System]]"
@@ -99,9 +102,9 @@ title: "Argument_Gopinathan_2007_GSE"
 argument_key: "Argument_Gopinathan_2007_GSE"
 argument_display_title: "Globalisation, the Singapore developmental state and education policy: a thesis revisited"
 argument_kind: "journal-article"
-argument_related_count: 58
-argument_related_level: 5
-argument_related_stars: "💎⭐⭐"
+argument_related_count: 64
+argument_related_level: 6
+argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
 journal: "Globalisation, Societies and Education"
 book_title: ""
@@ -265,14 +268,14 @@ issuing_organization: ""
 
 > [!claim|step] 论证步骤二　全球化并未削弱政府权威，国家借助放权与市场化强化控制
 
-> [!critique-logic] 新自由主义“国家衰微论”的理论预设与西方[[Quasi-market|准市场]]转向
+> [!critique-logic] [[Neoliberalism|新自由主义]][[State Decline Thesis|“国家衰微论”]]的理论预设与西方[[Quasi-market|准市场]]转向
 > - **资本流动消解主权假说** 早期全球化理论断言跨国资本自由流动与全球化力量将削弱甚至终结民族国家主权，使国家无力维系对公共教育的垄断调控（Fukuyama, 1992; Giddens, 1999; Ohmae, 1996）。
-> - **西方新自由主义治理转向** 西方发达国家相继采纳新自由主义处方，引入教育准市场、绩效联赛表与削减公共福利机制，教育政策导向由追求社会公平大幅转向效率与产出问责（Stiglitz, 2002）。
+> - **西方新自由主义治理转向** 西方发达国家相继采纳[[Neoliberalism|新自由主义]]处方，引入教育准市场、绩效联赛表与削减公共福利机制，教育政策导向由追求社会公平大幅转向效率与产出问责（Stiglitz, 2002）。
 
 > [!sub-claim] 1. 金融危机与低成本制造竞争迫使城邦经济转向高附加值知识产业
 
 > [!factors] 驱动新加坡教育体制深度重构的外部复合冲击
-> - **亚洲金融危机的结构性重创** 1997年金融风暴击破了东亚经济持续繁荣的神话，暴露了严重依赖外部信贷与传统代工制造的体制脆弱性，促使国家加速向知识密集型经济转型（Pang, 2000）。
+> - **[[1997 Asian Financial Crisis|亚洲金融危机]]的结构性重创** 1997年金融风暴击破了东亚经济持续繁荣的神话，暴露了严重依赖外部信贷与传统代工制造的体制脆弱性，促使国家加速向知识密集型经济转型（Pang, 2000）。
 > - **中印低成本技术工人的全球分工挤压** 中国与印度数十万高技能、低薪资工程技术人员进入全球市场，形成新型国际劳动分工，新加坡传统制造业面临产业空心化与无就业增长（jobless growth）双重威胁（Hsieh & Tseng, 2002; Weiss, 1998）。
 > - **[[Geopolitics|地缘政治]]震荡与族群凝聚力裂痕** 九一一事件及随后的反恐战争波及东南亚，极端主义网络的暗流涌动使新加坡多元族群共处格局高度敏感，对伊斯兰[[Religious Schools|宗教学校]]（madrasah）改革及校规引发敏感政治争端（Huntington, 1996; Lai, 2004）。
 > - **[[Post-Fordism|后福特制]]知识经济的人才规格重构** 现代服务业与创意产业对机械[[Rote Learning|死记硬背]]的传统劳动力需求骤降，转而渴求具备批判探究、团队协作、同理心与不确定性耐受力的新型公民（Beck, 1992; Tang, 2000）。

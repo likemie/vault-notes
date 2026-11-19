@@ -12,7 +12,7 @@ subtype: organization
 region: singapore
 fact_region: "singapore"
 fact_kind: "organization"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -27,8 +27,8 @@ related_concepts:
   - "[[Tactical Marketisation]]"
   - "[[Knowledge Production]]"
 related_theories:
-  - "[[Developmental State]]"
   - "[[Human Capital Theory]]"
+  - "[[Developmental State]]"
 related_methods: []
 related_instruments: []
 related_persons: []

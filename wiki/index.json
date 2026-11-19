@@ -15261,6 +15261,17 @@
     ]
   },
   {
+    "title": "Neoliberalism",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Neoliberalism.md",
+    "aliases": [
+      "新自由主义",
+      "新自由主义意识形态",
+      "新自由主义治理",
+      "Neoliberal Ideology"
+    ]
+  },
+  {
     "title": "Network Governance",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Network Governance.md",
@@ -25203,6 +25214,19 @@
       "权威主义法团主义",
       "authoritarian corporatism",
       "state corporatist politics"
+    ]
+  },
+  {
+    "title": "State Decline Thesis",
+    "type": "theory",
+    "path": "wiki/theories/political-economy-geopolitics/State Decline Thesis.md",
+    "aliases": [
+      "国家衰微论",
+      "国家衰退论",
+      "民族国家终结论",
+      "Decline of the State Thesis",
+      "Retreat of the State Thesis",
+      "End of the Nation-State Thesis"
     ]
   },
   {
@@ -39489,6 +39513,18 @@
       "柬越战争与中越战争",
       "第三次印度支那战争",
       "Third Indochina War"
+    ],
+    "subtype": "event"
+  },
+  {
+    "title": "1997 Asian Financial Crisis",
+    "type": "fact",
+    "path": "wiki/facts/asia/1997 Asian Financial Crisis.md",
+    "aliases": [
+      "亚洲金融危机",
+      "1997年亚洲金融危机",
+      "亚洲金融风暴",
+      "Asian Financial Crisis"
     ],
     "subtype": "event"
   },

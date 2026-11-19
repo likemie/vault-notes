@@ -986,6 +986,8 @@
     "Anthony Biglan, 1973": "Anthony Biglan, 1973",
     "Anthony D. Smith (1995)": "Anthony D. Smith, 1995",
     "Anthony D. Smith, 1995": "Anthony D. Smith, 1995",
+    "Anthony Giddens (1999)": "Anthony Giddens, 1999",
+    "Anthony Giddens, 1999": "Anthony Giddens, 1999",
     "Anthony Hesketh (2004)": "Anthony Hesketh, 2004",
     "Anthony Hesketh, 2004": "Anthony Hesketh, 2004",
     "Anthony Jack (2019)": "Anthony Jack, 2019",
@@ -7108,6 +7110,8 @@
     "Ecalle, 2015": "Ecalle, 2015",
     "Ecker & Cook (2017)": "Ecker & Cook, 2017",
     "Ecker & Cook, 2017": "Ecker & Cook, 2017",
+    "Economic Review (2002)": "Economic Review, 2002",
+    "Economic Review, 2002": "Economic Review, 2002",
     "Economics of Poverty (2016)": "Economics of Poverty, 2016",
     "Economics of Poverty, 2016": "Economics of Poverty, 2016",
     "Economist (2007)": "Economist, 2007",
@@ -8420,8 +8424,10 @@
     "Francis (2010)": "Francis, 2010",
     "Francis (2019)": "Francis, 2019",
     "Francis Fukuyama (1989)": "Francis Fukuyama, 1989",
+    "Francis Fukuyama (1992)": "Francis Fukuyama, 1992",
     "Francis Fukuyama (2015)": "Francis Fukuyama, 2015",
     "Francis Fukuyama, 1989": "Francis Fukuyama, 1989",
+    "Francis Fukuyama, 1992": "Francis Fukuyama, 1992",
     "Francis Fukuyama, 2015": "Francis Fukuyama, 2015",
     "Francis M. Bator (1958)": "Francis M. Bator, 1958",
     "Francis M. Bator, 1958": "Francis M. Bator, 1958",
@@ -20695,6 +20701,8 @@
     "Rekom & Wierenga, 2007": "Rekom & Wierenga, 2007",
     "Reljic et al. (2015)": "Reljic et al., 2015",
     "Reljic et al., 2015": "Reljic et al., 2015",
+    "Remaking Singapore (2003)": "Remaking Singapore, 2003",
+    "Remaking Singapore, 2003": "Remaking Singapore, 2003",
     "Remmer & Jernstedt (1982)": "Remmer & Jernstedt, 1982",
     "Remmer & Jernstedt, 1982": "Remmer & Jernstedt, 1982",
     "Ren et al. (2023)": "Ren et al., 2023",
@@ -35905,6 +35913,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/uk/Anthony D. Smith.md"
+      ],
+      "title": ""
+    },
+    "Anthony Giddens, 1999": {
+      "aliases": [
+        "Anthony Giddens, 1999",
+        "Anthony Giddens (1999)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Anthony Giddens, 1999"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/political-economy-geopolitics/State Decline Thesis.md"
       ],
       "title": ""
     },
@@ -80835,6 +80858,22 @@
       ],
       "title": ""
     },
+    "Economic Review, 2002": {
+      "aliases": [
+        "Economic Review, 2002",
+        "Economic Review (2002)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Economic Review, 2002"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/singapore/Economic Review Committee 2002.md",
+        "wiki/facts/singapore/Remaking Singapore Committee.md"
+      ],
+      "title": ""
+    },
     "Economics of Poverty, 2016": {
       "aliases": [
         "Economics of Poverty, 2016",
@@ -90488,6 +90527,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Winner's Fallacy.md"
+      ],
+      "title": ""
+    },
+    "Francis Fukuyama, 1992": {
+      "aliases": [
+        "Francis Fukuyama, 1992",
+        "Francis Fukuyama (1992)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Francis Fukuyama, 1992"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/political-economy-geopolitics/State Decline Thesis.md"
       ],
       "title": ""
     },
@@ -168513,7 +168567,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md",
+        "wiki/facts/asia/1997 Asian Financial Crisis.md"
       ],
       "title": "The financial crisis of 1997–98 and the end of the Asian development state"
     },
@@ -179863,6 +179918,22 @@
       "isbn": "",
       "seen_in": [],
       "title": "A meta-analysis on the effectiveness of bilingual programs in Europe"
+    },
+    "Remaking Singapore, 2003": {
+      "aliases": [
+        "Remaking Singapore, 2003",
+        "Remaking Singapore (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Remaking Singapore, 2003"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/singapore/Economic Review Committee 2002.md",
+        "wiki/facts/singapore/Remaking Singapore Committee.md"
+      ],
+      "title": ""
     },
     "Remmer & Jernstedt, 1982": {
       "aliases": [
