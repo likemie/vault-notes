@@ -6,7 +6,7 @@ aliases:
 summary: "Caraça、Lundvall and Mendonça 提出的创新过程分析框架，将创新重新定位在学习经济之中，以螺旋式学习循环、三类知识池和界面概念为核心要素，论证科学是创新过程中无处不在但非主宰性的多元知识来源之一"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 13
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Habitus]]"
   - "[[Knowledge Exchange]]"
   - "[[Global Policy Space]]"
+  - "[[Social Economy]]"
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
@@ -38,13 +39,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-10-30
+updated: 2026-11-19
 ---
 
 ---
 
 > [!info] 核心定义
-> 多通道互动学习模型（multi-channel interactive learning model）是 Caraça、Lundvall and Mendonça（2009）提出的创新过程[[Analytic Framework\|分析框架]]，旨在更新、补充和扩展 Kline and Rosenberg（1986）的[[Chain-linked Model\|链式模型]]。该模型将创新过程重新定位在[[Learning Economy\|学习经济]]的语境中，核心主张是：创新不是从科学到市场的线性或链式推进，而是在多元[[Source of Knowledge\|知识来源]]、多层制度环境和多通道互动学习共同作用下的螺旋式过程。[[Argument_Caraca_2009_TFSC\|(Caraça et al., 2009, pp. 864–866, 引自 Caraça et al., 2009)]]
+> 多通道互动学习模型（multi-channel interactive learning model）是 Caraça、Lundvall and Mendonça（2009）提出的创新过程[[Analytic Framework\|分析框架]]，旨在更新、补充和扩展 Kline and Rosenberg（1986）的[[Chain-linked Model\|链式模型]]。该模型将创新过程重新定位在[[Learning Economy\|学习经济]]的语境中，核心主张是：创新是在多元[[Source of Knowledge\|知识来源]]、多层制度环境和多通道互动学习共同作用下的螺旋式推进过程，超越了传统的线性或链式演进预设。[[Argument_Caraca_2009_TFSC\|(Caraça et al., 2009, pp. 864–866, 引自 Caraça et al., 2009)]]
 
 ---
 
@@ -57,7 +58,7 @@ updated: 2026-10-30
 
 ### 三类知识池
 
-在[[Learning Economy|学习经济]]的语境中，不存在一个可以从中学习的普遍知识池，而是存在三组互补的知识池：
+在[[Learning Economy|学习经济]]的语境中，组织创新依赖于三组互补的特定知识池：
 
 - **物理和生物科学与技术知识**。关于自然现象和技术原理的系统性知识，传统上与 R&D 中的 R 对应。
 - **组织和治理结构知识**。关于如何设计、管理和协调组织以支持创新和学习的知识。
@@ -101,4 +102,4 @@ updated: 2026-10-30
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Caraca_2009_TFSC|Caraça et al. (2009)]] — 提出多通道互动学习模型，界定螺旋式循环、三类知识池与界面机制。
-> - [[Argument_Natario_2025_IndHE|Natário and Oliveira (2025)]] — 实证检验多通道互动学习在葡萄牙二元高教理工学院中的展开，归纳非正式交流、联合研发、高阶实习与社会经济咨询四大协同通道。
+> - [[Argument_Natario_2025_IndHE|Natário and Oliveira (2025)]] — 实证检验多通道互动学习在葡萄牙二元高教理工学院中的展开，归纳非正式交流、联合研发、高阶实习与[[Social Economy|社会经济]]咨询四大协同通道。
