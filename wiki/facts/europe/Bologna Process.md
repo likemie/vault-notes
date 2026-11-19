@@ -86,6 +86,8 @@ related_facts:
   - "[[Times Higher Education World University Rankings]]"
   - "[[SEAMEO RIHED]]"
   - "[[ASEAN]]"
+  - "[[Asia-Europe Meeting]]"
+  - "[[SHARE Programme]]"
 related_arguments:
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
   - "[[Argument_Yu_Xie_2025_JHE]]"
@@ -94,6 +96,7 @@ related_arguments:
   - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
   - "[[Argument_Chou_2017_PolSoc]]"
   - "[[Argument_Indrarajah_2026_NJCIE]]"
+  - "[[Argument_Dang_2017_ORE]]"
 confidence: high
 status: active
 created: 2026-06-29
@@ -206,6 +209,7 @@ updated: 2026-11-19
 > > - **输出假说（Export Thesis）** 传统欧洲高等教育研究与新[[Comparative Regionalism|比较区域主义]]常预设博洛尼亚进程作为全球高等教育一体化的标准范本，主张其他地理区域主要通过政策借鉴、竞争或[[Mimesis|模仿]]吸收其经验。
 > > - **实证批判** [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] 通过实地调研指出，东南亚等地区早在博洛尼亚进程之前已开展内生的高教政策合作；[[SEAMEO RIHED]]的区域测绘报告明确警惕博洛尼亚的大一统路径并建议规避；东南亚国家基于国家主权维护与[[ASEAN|东盟]]方式，自主选择了以大学结网与政府柔性协调并存的多元化路径，反驳了单向扩散预设。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 153–156)]]
 > > - **去殖民视角反思** [[Argument_Indrarajah_2026_NJCIE|Indrarajah (2026, pp. 4, 7–8)]] 进一步揭示，东盟在构建高等教育共同空间时试图复制博洛尼亚进程以促进[[Student Mobility|学生流动]]与学分互认，但这一跨国[[Policy Borrowing|政策借用]]将欧洲标准预设为理想范本，再生产了“前宗主国为高教专家、被剥削国必须模仿其机制与成果”的单向知识流动与新殖民性；加之欧盟外交官公开强调借助跨国教育合作施加[[Soft Power|软实力]]影响以巩固地缘利益，东南亚区域主义亟需引入[[Epistemology|认识论]]去殖民实践与本土原住民哲学以破除对博洛尼亚模式的技术迷信。
+> > - **双向互鉴与柔性协调反思** 邓（[[Argument_Dang_2017_ORE|Dang, 2017, pp. 6–13]]）指出，东盟官员与高教行动者在[[Asia-Europe Meeting|亚欧会议]]与[[SHARE Programme|SHARE 项目]]互动中明确拒绝克隆博洛尼亚模式，批评欧洲将协调视作推行统一规则的刚性拘束；东盟将协调界定为尊重多样性与寻求共同参照的交响乐团协奏与持续旅程，促使跨大洲合作从单向规范输出转向对等互学互鉴。[[European University Association|欧洲大学协会]]亦公开表明博洛尼亚进程不以消解或统合各国国民教育体系为目标，展现出区域模式在跨洲对话中的自我界限省思。[[Argument_Dang_2017_ORE|(Dang, 2017, pp. 11–13)]]
 >
 > > [!axis] 争议六：政府间博洛尼亚进程的动能衰竭与认识论基础设施转型
 > > 博洛尼亚进程的传统政府间协调模式是否已经耗尽政治动力？
@@ -246,10 +250,13 @@ updated: 2026-11-19
 > | [[António Nóvoa]] | Person | 提出欧盟软法治理三重机制与博洛尼亚趋同逻辑的比较教育学者。 |
 > | [[Jason Beech]] | Person | 揭示欧盟借助博洛尼亚进程进行超国家政策转移与治理重构的比较教育学者。 |
 > | [[José Luis García Garrido]] | Person | 深入剖析博洛尼亚进程在南欧成员国落地中的制度[[Alienation\|异化]]与质量困境的比较学者。 |
+> | [[Asia-Europe Meeting]] | Fact (Event) | 亚欧国家开展跨大洲高等教育对话、推动博洛尼亚经验反思与双向互鉴的政府间多边平台。[[Argument_Dang_2017_ORE\|(Dang, 2017, pp. 6–13)]] |
+> | [[SHARE Programme]] | Fact (Program) | 欧盟资助的东盟高等教育项目，构成博洛尼亚经验跨洲互动与双向对齐的关键实践载体。[[Argument_Dang_2017_ORE\|(Dang, 2017, pp. 11–13)]] |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Dang_2017_ORE|Dang (2017)]] — 实证剖析东盟在亚欧高等教育互动中如何拒斥博洛尼亚克隆模式，主张以双向互学互鉴与柔性协调替代单向政策规制输出（pp. 6–13）。
 > - [[Argument_Indrarajah_2026_NJCIE|Indrarajah (2026)]] — 从认识论去殖民化视角批判东盟对欧洲博洛尼亚进程的单向政策借鉴与新殖民依附，主张以本土原住民哲学重塑[[Pluriverse|多元世界]]区域主义（pp. 4, 7–8）。
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 从地缘政治视角深入剖析博洛尼亚进程中的治理权转移与高校战略能动性。
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 实证批判西班牙高校博洛尼亚对标背后的表面欧洲主义、实质质量落后与学术近亲繁殖。

@@ -78,9 +78,9 @@ updated: 2026-11-19
 >   - **关键概念／方法** [[Cultural Capital]]、学校科层互动、参与观察。
 >   - **阶段转向** 突破以往实证量化研究将家庭背景还原为单一经济收入的局限，呈现中产阶级家长与工薪家庭在制度协商技能上的鸿沟。
 > - **2000–2014 — 家庭日常生活与阶级社会化范式** 将研究视野拓展至家庭生活全域，观察儿童在家庭内部、同伴群体与社区组织中的具身体验。
->   - **代表著作** *Unequal Childhoods: Class, Race, and Family Life* (2003/2011)；Lareau and Weininger (2003)。[[Argument_Xie_2017_PKUER|(Xie, 2017, p. 110)]]
+>   - **代表著作** *Unequal Childhoods: Class, Race, and Family Life* (2003/2011)；Lareau and Weininger (2003)。[[Argument_Xie_2017_PKUER|(谢爱磊, 2017, p. 110)]]
 >   - **关键概念／方法** 协同培养（Concerted Cultivation）、自然成长的成就（Accomplishment of Natural Growth）、[[Habitus]]。
->   - **阶段转向** 确立阶级差异在日常生活节奏、语言使用模式与权利意识养成上的全方位塑造，澄清文化资本并非高雅艺术品味，而是制度互动的实践掌握。
+>   - **阶段转向** 确立阶级差异在日常生活节奏、语言使用模式与权利意识养成上的全方位塑造，澄清文化资本体现为制度互动的实践掌握，超越高雅艺术品味的传统窄化理解。
 > - **2015 至今 — 质性研究方法论与高等教育分流** 转向质性访谈与观察的方法论系统化，并关注阶级惯习在青年向高等教育和职场过渡中的持续作用。
 >   - **代表著作** *Listening to People: A Practical Guide to Interviewing, Participant Observation, Data Analysis, and Writing It All Up* (2019)。
 >   - **关键概念／方法** [[Ethnography]]、[[In-depth Interview]]。
@@ -97,7 +97,7 @@ updated: 2026-11-19
 > > *Middle-class parents engage in concerted cultivation, a process that stimulates an emerging sense of entitlement in children; by contrast, the working-class and poor families' childrearing constitutes the accomplishment of natural growth, fostering an emerging sense of constraint in institutional settings.*
 
 > [!person-thesis] 主张二｜文化资本是行动者在科层体制中与制度把关人有效协商的实践技能
-> 文化资本并非抽象的艺术欣赏品味，而是行动者在面对教师、医生与评估者等专业权威时，能够准确运用制度规范、有效传递自身诉求并争取合规裁量权的能力；这种资本能否实现价值，取决于行动者能否在特定场域中将其有效激活并转化为制度性利润。[[Argument_Xie_2017_PKUER|(Lareau & Weininger, 2003, cited in Xie, 2017, p. 110)]]
+> 文化资本指行动者在面对教师、医生与评估者等专业权威时，能够准确运用制度规范、有效传递自身诉求并争取合规裁量权的能力，超越抽象的艺术欣赏品味；这种资本能否实现价值，取决于行动者能否在特定场域中将其有效激活并转化为制度性利润。[[Argument_Xie_2017_PKUER|(Lareau & Weininger, 2003, cited in 谢爱磊, 2017, p. 110)]]
 >
 > > [!thesis-quote] Lareau and Weininger (2003, p. 582)
 > > 文化资本应当被理解为行动者与机构规则相互作用的实践能力。中产阶级家长能够通过顺畅的对话干预学校决策，将自身的文化声望和沟通技巧直接转换为子女的学业优势。
@@ -107,20 +107,19 @@ updated: 2026-11-19
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 克服了宏观再生产理论的机械论弊端，建立起微观家庭互动连接宏观阶层结构的经验分析框架，成为教育社会学中家庭教养与文化资本领域的奠基性文献。
+> - **理论路径** 克服了宏观再生产理论的机械论弊端，建立起微观家庭互动连接宏观阶层结构的经验分析框架，成为教育社会学中家庭教养与文化资本领域的核心文献。
 > - **方法路径** 树立了高标准深度家庭民族志的典范，开创为期数周的全天候浸润式家庭观察技术与多源三角验证范式。
 > - **跨国传播与本土化** 理论被广泛引申至东亚与中国社会的城乡差距与高校分流研究（如郑雅君揭示的精英大学文化探索与无助模式、谢爱磊对乡村干部教师与底层农户教养能力的实证对照）。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Xie_2017_PKUER|Xie (2017)]] — 借鉴拉鲁的文化资本理论，揭示中国中部县域农村内部体制内公职人员与普通农户在亲职介入与学业干预上的阶层分化。
-> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch01|Zheng (2023, Ch01)]] — 运用拉鲁协同培养与自然成长概念，分析中国优势家庭学生在精英大学中的直觉探索模式。
-> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch02|Zheng (2023, Ch02)]] — 结合拉鲁关于制度互动能力的理论，阐释第一代大学生因缺乏家庭制度知识而在选课与职业生涯准备中的迷茫。
+> - [[Argument_Xie_2017_PKUER|谢爱磊 (2017)]] — 借鉴拉鲁的文化资本理论，揭示中国中部县域农村内部体制内公职人员与普通农户在亲职介入与学业干预上的阶层分化。
+> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch01|Zheng (2023)]] — 运用拉鲁协同培养与自然成长概念，分析中国优势家庭学生在精英大学中的直觉探索模式（Ch01），并结合制度互动能力理论阐释第一代大学生在选课与生涯准备中的迷茫（[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|Ch02]]）。
 > - [[Argument_Lim_2013_APJE|Lim (2013)]] — 将拉鲁的阶级育儿框架应用于新加坡高竞争教育场域中的家长参与策略比较。
 
 ---
 
 > [!person-network] 关系网络
-> - **师承／合作者** [[Pierre Bourdieu]] — 思想渊源，拉鲁将其宏观文化资本理论微观经验化。
+> - **师承与学术渊源** [[Pierre Bourdieu]] — 思想渊源，拉鲁将其宏观文化资本理论微观经验化。
 > - **学生／继承者** [[Jenny Stuber]] — 继承并推进拉鲁的阶级社会化与高等教育分流分析。
 
 ---

@@ -10,7 +10,7 @@ summary: "在研究人类行为或社会现象时综合运用两种或更多资�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 41
+method_related_count: 42
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -61,6 +61,7 @@ related_instruments: []
 related_persons: []
 related_facts: []
 related_arguments:
+  - "[[Argument_Nordtveit_2011_IJED]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19]]"
@@ -187,6 +188,7 @@ updated: 2026-11-19
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Nordtveit_2011_IJED|Nordtveit (2011)]] — 将喀麦隆在地深度访谈记录、援建小学与联合实验室实地观察手记、中非合作论坛峰会行动计划与第三方国际统计数据实施多源三角互证。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, Ch. 9)]] — 在[[Qualitative Research|质性研究]]中介绍三角验证作为基础效度策略，阐释多数据源汇聚建构主题的程序。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al. (2011)]] — 详述 Denzin (1970) 六种类型框架并回应批评（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Ch. 10]]），并在[[Virtual World|虚拟世界]]研究中探讨多渠道数据三角验证（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Ch. 19]]）。
 > - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 采用三阶段汇聚设计结合问卷调查、质性案例与组间比较，检验 ToK 与[[Critical Thinking|批判性思维]]的关系。

@@ -10,7 +10,7 @@ summary: "将口头访谈、焦点小组或人机交互有声思维等口语遭�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 40
+method_related_count: 41
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -60,6 +60,7 @@ related_persons: []
 related_facts:
   - "[[EU]]"
 related_arguments:
+  - "[[Argument_Nordtveit_2011_IJED]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21]]"
   - "[[Argument_Wu_2025_ER]]"
   - "[[Argument_Han_Gutierez_2026_IJSE]]"
@@ -71,7 +72,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-07-22
-updated: 2026-11-09
+updated: 2026-11-19
 ---
 
 ---
@@ -160,6 +161,7 @@ updated: 2026-11-09
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Nordtveit_2011_IJED|Nordtveit (2011)]] — 针对喀麦隆在地开展的英语与法语双语访谈进行全程现场录音，并完整逐字转录为英文文本，为后续导入 NVivo 展开主题编码奠定经验语料基底。
 > - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] — 在跨国远程学者访谈中运用兼顾忠实与可读性的质性转录清洗编辑技术，并引入 3 秒课堂语音即时转录移动应用以客观记录数据破除教师的知觉盲区。
 > - [[Argument_Han_Gutierez_2026_IJSE|Han and Gutierez (2026)]] — 结合课堂音视频与 [[Generative Artificial Intelligence|GenAI]] 对话日志开展高精度逐字转录与时间戳对齐，为[[Multimodal Discourse Analysis|多模态话语分析]]与[[Man-Computer Symbiosis|人机协同]]解释的[[Epistemology|认识论]]审验提供经验证据。
 > - [[Argument_Wu_2025_ER|Wu et al. (2025)]] — 在生成式 AI 学习实验中实施高精度多模态有声思维转录，结合屏幕日志与音频回溯系统编码学习者的[[Epistemic Stances|认识立场]]演变与[[Cognitive Offloading|认知卸载]]行为。

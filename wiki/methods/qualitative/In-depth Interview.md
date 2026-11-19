@@ -7,7 +7,7 @@ summary: "质性访谈中最核心的变体，通过与受访者进行持续深�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 76
+method_related_count: 77
 method_related_level: 7
 method_related_stars: "💎💎⭐"
 method_related_color: "#dbeafe"
@@ -81,6 +81,7 @@ related_facts:
   - "[[European Commission]]"
   - "[[Eurydice]]"
 related_arguments:
+  - "[[Argument_Nordtveit_2011_IJED]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Eisenhart_Towne_2003_ER]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch02]]"
@@ -190,6 +191,7 @@ updated: 2026-11-19
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Nordtveit_2011_IJED|Nordtveit (2011)]] — 在喀麦隆对 31 位关键知情人展开深入访谈，涵盖中外教师、语言学员、奖学金委员会人员、教育部官员及驻喀外交官，深度透视中国对非教育合作的制度形态与落地成效。
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 运用深度访谈追踪 62 位名校生（[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|第二章]]、[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|第三章]]）；并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]依托 11 位典型个案生活史解剖投入策略与[[Habitus|习性]]转换机制。
 > - [[Argument_Xie_2017_PKUER|谢爱磊 (2017)]] — 抓住春节返乡与农忙两大战术性时间窗口，对中部县域 22 个重点家庭开展集中深入入户访谈与长期追踪回访，详尽记录求学账本与主观抉择。
 > - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 针对澳大利亚新南威尔士州（New South Wales, NSW）四所学校[[Theory of Knowledge|知识论]]（Theory of Knowledge, TOK）课程实施开展研究，对 22 名教师进行深度访谈并组织 8 组学生[[Focus Group|焦点小组]]。

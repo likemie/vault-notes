@@ -10,7 +10,7 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -51,6 +51,7 @@ related_facts:
   - "[[Belt and Road Initiative]]"
   - "[[American Spaces]]"
 related_arguments:
+  - "[[Argument_Nordtveit_2011_IJED]]"
   - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_Custer_2021_AidData]]"
   - "[[Argument_Velasco_2022_CSJ]]"
@@ -125,6 +126,7 @@ updated: 2026-11-19
 > [!finding-cards] 核心成效与发展格局
 > - **确立全球语言教学公共基建** 填补了数十个非通用语国家汉语教材短缺与系统化师资空白，极大地推动了中文在国际组织与跨国商贸领域的通用化应用。
 > - **搭建跨国学术与人文沟通纽带** 成为海外公众接触当代中国文化实践的最直接窗口，催生了一大批国际中国学与跨文化比较研究学者。
+> - **非洲次区域的经贸就业驱动与网络下沉** 在喀麦隆等非洲受援国，孔子学院从早期的外交官培训机构拓展为服务中资工程、路桥与能源企业的经贸就业枢纽；青年选修中文的核心动力由抽象的政治文化亲和转向获得跨国中资企业高薪翻译与外贸商业岗位。[[Argument_Nordtveit_2011_IJED|(Nordtveit, 2011, pp. 102–103)]]
 > - **南亚与中亚区域网络集聚与大都市偏向** 在南亚与中亚次区域呈现高度的空间非均衡性：在吉尔吉斯斯坦深入边境城镇（如奥什）形成密集下沉网络，但在多数国家仍高度集聚于首都与经济中心，次国家层面的普遍辐射能力依然受限。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 24–25)]]
 > - **东南亚高教建制深嵌与周边辐射网络** 截至 2021 年在东南亚设立运营 31 所孔子学院，深度嵌入在地大学体制，成为联结校际交流、招收国际学生与拓展区域高教合作的关键支柱，但其文化吸引力仍受制于南海领土争端等深层地缘安全焦虑。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 85)]]
 
@@ -135,6 +137,7 @@ updated: 2026-11-19
 > - **153** （所） 截至2019年在54个“[[Belt and Road Initiative|一带一路]]”沿线国家建立并运营的孔子学院总数。[[Argument_King_2020_ECNUROE|(King, 2020, p. 232)]]
 > - **65** （个） 截至2021年中国在南亚与中亚13国布设的孔子机构总数（含28所孔子学院与37所孔子课堂），占区域外国文化中心总数的 30%（仅次于美国的 42%）。[[Argument_Custer_2021_AidData|(Custer et al., 2021, p. 24)]]
 > - **31** （所） 截至 2021 年中国在东南亚地区设立并运营的孔子学院总数，深度嵌入在地大学建制。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 85)]]
+> - **3000+** （人） 截至 2009 年底喀麦隆雅温得第二大学孔子学院本部及杜阿拉、高等师范学校等分中心网络注册在册的学员总数。[[Argument_Nordtveit_2011_IJED|(Nordtveit, 2011, p. 102)]]
 
 ---
 

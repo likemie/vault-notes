@@ -9,7 +9,7 @@ summary: "概率抽样方法，将总体按关键特征划分为互斥且同质�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 27
+method_related_count: 28
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -52,10 +52,11 @@ related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
   - "[[Argument_Hogan_2013_ROE]]"
+  - "[[Argument_Nordtveit_2011_IJED]]"
 confidence: high
 status: active
 created: 2026-06-22
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -130,5 +131,6 @@ updated: 2026-11-18
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Nordtveit_2011_IJED|Nordtveit (2011)]] — 在质性实地调研中采用分层抽样策略，按机构职能与利益相关方分层选取覆盖孔子学院师生、政府官员、驻喀外交官及国际组织代表等 31 位知情人。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen et al. (2011)]] — 系统阐述分层抽样的统计原理、两步操作规程、等比例与非等比例配置以及层数膨胀风险控制（Ch. 8, pp. 145–146）。
 > - [[Argument_Hogan_2013_ROE|Hogan et al. (2013)]] — 采用两阶段分层随机抽样设计，按学校办学声誉层次与中三学术轨道（快捷源流、普通学术源流、普通工艺源流）分层抽取新加坡 31 所中学 5,420 名学生与对应教师样本（pp. 88–90）。

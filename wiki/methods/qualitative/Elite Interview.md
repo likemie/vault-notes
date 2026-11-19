@@ -10,7 +10,7 @@ summary: "针对政策制定者、高级官员、学术领袖等具有高层决�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 48
+method_related_count: 49
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -70,6 +70,7 @@ related_facts:
   - "[[Evidence Network]]"
   - "[[HM Treasury]]"
 related_arguments:
+  - "[[Argument_Nordtveit_2011_IJED]]"
   - "[[Argument_Helgetun_2022_JEdPolicy]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_Grek_2024_EERJ]]"
@@ -79,7 +80,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-10-30
+updated: 2026-11-19
 ---
 
 ---
@@ -168,6 +169,7 @@ updated: 2026-10-30
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Nordtveit_2011_IJED|Nordtveit (2011)]] — 针对喀麦隆教育部官员、总理府顾问、中国驻喀使馆外交官及国际组织代表开展关键知情人访谈，剖析双边文教援助背后的决策权衡、使馆协调局限与寻租风险。
 > - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 运用滚雪球抽样深度访谈欧洲高等教育质保协会、注册局、[[European Commission|欧盟委员会]]及[[OECD|经合组织]]现任与前任高层官员，解析欧洲高教质保[[Epistemic Infrastructure|认识论基础设施]]的演变格局与组织博弈。
 > - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 对欧盟委员会教育文化总司、委员会主席内阁与[[EU|欧盟]]理事会 9 位高级官员开展深度半结构化访谈，通过归纳主题分析与[[Discourse|话语]]解读追踪[[European Education Area|欧洲教育区]]战略议程中的理念协调与机构博弈。
 > - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 深度访谈 33 位国际组织主管、教育部委高层与全球[[Evidence Network|证据网络]]负责人等关键知情人，定性解析证据利用中的制度瓶颈、资助政治与中介运作机制（pp. 18, 20）。

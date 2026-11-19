@@ -50,10 +50,12 @@ related_facts:
   - "[[Bologna Process]]"
   - "[[ASEAN]]"
   - "[[Comparative Education Society in Europe]]"
+  - "[[SHARE Programme]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
   - "[[Argument_Mitter_2009_Europe]]"
+  - "[[Argument_Dang_2017_ORE]]"
 confidence: high
 status: completed
 created: 2026-08-27
@@ -121,6 +123,7 @@ updated: 2026-11-19
 > - **推动高校课程大纲的能力导向重构** 促使欧洲大学各专业依据 EQF 描述符重新撰写教学大纲，明确将批判与创新动词嵌入考核标准中。
 > - **重构比较教育学界务实欧洲维度的经验载体** 米特（[[Argument_Mitter_2009_Europe|Mitter, 2009]]）指出，EQF 使欧洲比较教育学者告别了早年对“欧洲精神”或“欧洲维度”的形而上学哲学玄思，转而紧密追踪并批判性分析欧洲一体化进程中的具体政策工具及其引发的[[Policy Borrowing|政策借用]]与制度趋同。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 98)]]
 > - **全球区域资格框架模板辐射** 成为全球区域资格框架（如[[ASEAN|东盟]] AQRF、太平洋 PQF）的重要参照模板。
+> - **跨区域对话中本土实效的反思** 随着 EQF 成为全球区域资格框架（如东盟资历参考框架 AQRF）的参照物，欧洲专家在跨大洲合作（如[[SHARE Programme|SHARE 项目]]）中亦反思了本土实效：在欧洲本土劳动力市场中，雇主与求职学生在招聘中很少将 EQF 视作硬性凭证；欧洲专家通过与东盟 AQRF 的比对协作，以区域间伙伴关系反观欧洲本土工具的实效与局限，使资格框架的跨区域互动由单向模板输出转向双向经验反思。[[Argument_Dang_2017_ORE|(Dang, 2017, p. 12)]]
 
 ---
 
@@ -137,6 +140,12 @@ updated: 2026-11-19
 > >
 > > - **高等教育批判学者** 担忧将哲学、人文等学科的复杂思辨简化为[[Behaviorism|行为主义]]能力描述符，容易削弱大学的人文批判与自主探索传统。
 > > - **政策制定者与雇主联盟** 强调明确的成果阶梯是保障劳动力市场用人匹配、降低跨国雇佣信息不对称的必要标准。
+>
+> > [!axis] 区域元框架的全球扩散：单向制度输出 vs 跨区域双向互鉴
+> > 争论 EQF 究竟应作为发展中国家区域一体化的标准出口范本，还是在平等伙伴关系中接受反思与检验的参照系。
+> >
+> > - **单向规制输出预设** 传统欧洲中心主义视角倾向于将 EQF 视为全球最具先进性的元框架标准，推动东盟（AQRF）等非欧洲区域进行单向政策借用与技术复制。
+> > - **双向互鉴与反思立场** 邓（[[Argument_Dang_2017_ORE|Dang, 2017]]）揭示，欧洲学者与技术专家在参与东盟高等教育支持项目（SHARE）时坦承，EQF 在欧洲本土面临劳动力市场认可度有限的现实困境；跨区域互动推动欧洲放弃居高临下的制度优越感，借道东盟资历参考框架反思自身工具实效，促成平等技术协商。[[Argument_Dang_2017_ORE|(Dang, 2017, p. 12)]]
 
 > [!citation-card] 米特论欧洲资格框架与比较教育的“务实欧洲维度”
 > 米特指出，自 1990 年代[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）哥本哈根会议（1994）至格拉纳达会议（2006），欧洲比较教育学界经历了一场深刻转向：学者们逐渐告别了早年对“欧洲精神”或“欧洲维度”的形而上学哲学玄思（如 Hans 或 Schneider 的经典论述），转而紧密追踪并批判性分析欧洲一体化进程中的具体政策工具。欧洲资格框架（EQF）与[[Bologna Process|博洛尼亚进程]]（Bologna Process）、欧洲委员会倡议一同，构成了这一“务实欧洲维度”（pragmatic European dimension）的核心分析载体。比较教育学者通过对 EQF 文本及其在各国落地引发的[[Policy Borrowing|政策借用]]与制度趋同进行实证比较，使该学科深度介入欧洲教育政策与治理秩序的重塑过程。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 98)]]
@@ -156,10 +165,12 @@ updated: 2026-11-19
 > | [[Bologna Process]] | 政策事实 | 与 EQF 协同推进欧洲高等教育区学位架构趋同与学分互认的超国家进程。 |
 > | [[EU]] | 组织事实 | EQF 的制度发起与统筹推进主体。 |
 > | [[Comparative Education Society in Europe]] | 组织事实 | 欧洲比较教育学者追踪 EQF 跨国借用与制度趋同的重要学术平台。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, p. 98)]] |
+> | [[SHARE Programme]] | 政策事实 | 欧盟支持东盟高等教育项目，欧洲专家借此平台与东盟 AQRF 对接并反思 EQF 实效。[[Argument_Dang_2017_ORE\|(Dang, 2017, p. 12)]] |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — 全面剖析 EQF 8 级学习成果架构及其在欧洲高等教育区中的制度立法与高阶思维能力对齐机制。
+> - [[Argument_Dang_2017_ORE|Dang (2017)]] — 揭示欧洲专家如何依托亚欧教育合作与 SHARE 项目借道东盟 AQRF 反思 EQF 在欧洲本土的实践困境，论述资格框架由单向输出走向双向互鉴的机制（p. 12）。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 论述后冷战时期欧洲比较教育学会如何将 EQF 与博洛尼亚进程确立为务实欧洲维度的核心经验基石。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 揭示 EQF 作为官方网络中的资格互认机制，如何配合[[Neoliberalism|新自由主义]][[Discourse|话语]]服务于劳动力流动与软法全景敞视治理。
