@@ -21066,6 +21066,17 @@
     ]
   },
   {
+    "title": "Pedagogic Identity",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Pedagogic Identity.md",
+    "aliases": [
+      "教学身份",
+      "教学认同",
+      "Official Pedagogic Identity",
+      "官方教学身份"
+    ]
+  },
+  {
     "title": "Peer Ethnicity",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Peer Ethnicity.md",
@@ -24828,6 +24839,18 @@
       "知识整合框架",
       "Knowledge Integration Framework",
       "KI Framework"
+    ]
+  },
+  {
+    "title": "Paul-Elder Critical Thinking Framework",
+    "type": "theory",
+    "path": "wiki/theories/instruction-pedagogy/Paul-Elder Critical Thinking Framework.md",
+    "aliases": [
+      "保罗-埃尔德批判性思维模型",
+      "保罗-埃尔德批判性思维框架",
+      "Paul-Elder Framework",
+      "普遍智力标准模型",
+      "Universal Intellectual Standards"
     ]
   },
   {
@@ -34875,6 +34898,15 @@
     ]
   },
   {
+    "title": "Leonel Lim",
+    "type": "person",
+    "path": "wiki/persons/singapore/Leonel Lim.md",
+    "aliases": [
+      "林福源",
+      "Leonel L. Lim"
+    ]
+  },
+  {
     "title": "Saravanan Gopinathan",
     "type": "person",
     "path": "wiki/persons/singapore/Saravanan Gopinathan.md",
@@ -39029,6 +39061,15 @@
       "理查德·R·纳尔逊",
       "Nelson, R. R.",
       "Richard R. Nelson"
+    ]
+  },
+  {
+    "title": "Richard Paul",
+    "type": "person",
+    "path": "wiki/persons/us/Richard Paul.md",
+    "aliases": [
+      "理查德·保罗",
+      "Richard W. Paul"
     ]
   },
   {

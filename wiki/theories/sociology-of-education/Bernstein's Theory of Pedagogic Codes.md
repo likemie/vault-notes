@@ -11,7 +11,7 @@ aliases:
 summary: "英国社会学家巴兹尔·伯恩斯坦（Basil Bernstein）提出的结构社会学分析理论，以权力划界形成的分类与控制分配构成的框架为双重视角，阐明学校课程形态与教学互动如何作为中介代码，将宏观权力结构转化为行动者的微观意识、知识取向与等级身份。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 30
+theory_related_count: 35
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -23,14 +23,19 @@ tags:
 related_concepts:
   - "[[Alienation]]"
   - "[[New Sociology of Education]]"
+  - "[[Code-Switching]]"
   - "[[Discourse]]"
   - "[[Recontextualization]]"
   - "[[Champ]]"
+  - "[[Sacred and Profane Knowledge]]"
   - "[[Neoliberalism]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Critical Thinking]]"
+  - "[[Narcissistic Rationality]]"
+  - "[[Instrumental Rationality]]"
   - "[[Curricular Form]]"
   - "[[Epistemology]]"
+  - "[[Community of Inquiry]]"
   - "[[The Sublime]]"
   - "[[Research Question]]"
   - "[[Homework]]"
@@ -80,14 +85,14 @@ updated: 2026-11-19
 > - **提出者与原始文本** 英国社会学家[[Basil Bernstein|巴兹尔·伯恩斯坦]]（Basil Bernstein）在 1971 年发表的《论教育知识的分类与框架》（*On the Classification and Framing of Educational Knowledge*）及后续专著《阶级、代码与控制》（*Class, Codes and Control*，第三卷，1975/1977）中确立核心体系。
 > - **原初问题** 战后英国扩张中等教育后工人阶级子弟学业失败依然普遍，既有微观互动论缺乏宏观制度制约解释力，宏观对应论又无法剖析课堂内部黑箱。
 > - **理论资源与材料** 汲取涂尔干关于宗教生活基本形式中神圣与世俗的原初二元区分，结合结构语言学规则观念与伦敦大学教育学院社会学研究单元的多年[[Qualitative Observation|田野观察]]。
-> - **形成路径** 从早期的家庭语言代码（限制代码与精致代码）拓展至学校教育知识的宏观结构，抽象出跨越学科边界的分类维度与微观师生权力关系的框架维度，构筑代码转换模型。
+> - **形成路径** 从早期的家庭语言代码（限制代码与精致代码）拓展至学校教育知识的宏观结构，抽象出跨越学科边界的分类维度与微观师生权力关系的框架维度，构筑[[Code-Switching|代码转换]]模型。
 
 > [!dev-timeline] 理论版本与贡献
 > - **1971 — 原初模型确立** 提出强弱分类（Classification, C）与强弱框架（Framing, F）的形式化矩阵，划分聚集型代码（Collection Codes, $C^+/F^+$）与整合型代码（Integrated Codes, $C^-/F^-$）。
 > - **1977/1990 — 教育[[Discourse|话语]]装置建构** 引入教育装置（Pedagogic Device）、[[Recontextualization|再脉络化]][[Champ|场域]]以及调节性话语支配教学性话语的命题，将分析由课程分类推进至国家意识形态生产。
-> - **1996/2000 — 知识结构与身份类型学** 出版《教学法、符号控制与认同》，提出水平与垂直知识结构理论，深化神圣知识与世俗知识在现代[[Neoliberalism|新自由主义]][[Knowledge-Based Economy|知识经济]]下的身份建构机制。
+> - **1996/2000 — 知识结构与身份类型学** 出版《教学法、符号控制与认同》，提出水平与垂直知识结构理论，深化[[Sacred and Profane Knowledge|神圣知识与世俗知识]]在现代[[Neoliberalism|新自由主义]][[Knowledge-Based Economy|知识经济]]下的身份建构机制。
 > - **2013 — 初等教育隐性教学批判应用** 莱昂·林（Leonel Lim）运用隐性教学与传播语码理论剖析新加坡小学均等化改革，揭示以儿童发展理论为依托的探究教学与过程性评价对工薪家庭施加的隐性门槛。[[Argument_Lim_2013_APJE|(Lim, 2013, pp. 11–13)]]
-> - **2015 — 精英学校思维课程分析应用** 运用教学代码矩阵剖析新加坡[[Critical Thinking|批判性思维]]教学，证实精英学校依托强分类弱框架涵育自恋理性，主流学校依托弱分类强框架生产工具理性。[[Argument_Lim_2015_CurricInq|(Lim & Apple, 2015, pp. 473–475)]]
+> - **2015 — 精英学校思维课程分析应用** 运用教学代码矩阵剖析新加坡[[Critical Thinking|批判性思维]]教学，证实精英学校依托强分类弱框架涵育[[Narcissistic Rationality|自恋理性]]，主流学校依托弱分类强框架生产[[Instrumental Rationality|工具理性]]。[[Argument_Lim_2015_CurricInq|(Lim & Apple, 2015, pp. 473–475)]]
 
 ---
 
@@ -126,13 +131,13 @@ updated: 2026-11-19
 > - **工具任务型代码（$C^- / F^+$）** 弱分类、强框架。打破传统学科边界开展生活化或跨科融入，但在微观教学互动中保持强时间步调与预设标准答案控制；将思维训练规训为应对测验的标准化程序，塑造顺从外部指令的世俗劳动者。[[Argument_Lim_2015_CurricInq|(Lim & Apple, 2015, pp. 480–482)]]
 > - **经典聚集型代码（$C^+ / F^+$）** 强分类、强框架。学科边界清晰严密，各学科拥有独立的学术领地；教学由教师全面主导选择、进度与评价，考核标准显性明确；维系传统学术分科体系并强化对学科权威的忠诚。[[Argument_Lim_2015_CurricInq|(Lim & Apple, 2015, p. 477)]]
 > - **开放整合型代码（$C^- / F^-$）** 弱分类、弱框架。削弱不同知识门类之间的绝缘屏障，倡导跨学科探究与非正式经验渗透；师生共同协商探究议题、步调与评价标准，体现进步主义开放教育与民主协商特征。
-> - **精英教养型代码（$C^+ / F^-$）** 强分类、弱框架。保持专门知识（如独立哲学或纯学术理论）的强绝缘性以隔绝外部市场功利侵蚀；教学互动高度弱化教师控制，通过[[Community of Inquiry|探究共同体]]赋予学生探究自决权并内化高阶反思准则；塑造自足反思的自恋理性与领袖意识。[[Argument_Lim_2015_CurricInq|(Lim & Apple, 2015, pp. 483–486)]]
+> - **精英教养型代码（$C^+ / F^-$）** 强分类、弱框架。保持专门知识（如独立哲学或纯学术理论）的强绝缘性以隔绝外部市场功利侵蚀；教学互动高度弱化教师控制，通过[[Community of Inquiry|探究共同体]]赋予学生探究自决权并内化高阶反思准则；塑造自足反思的[[Narcissistic Rationality|自恋理性]]与领袖意识。[[Argument_Lim_2015_CurricInq|(Lim & Apple, 2015, pp. 483–486)]]
 
 > [!example|notitle]
 > 针对高端学术后备人才的自由研讨班常采用强分类弱框架，依托高深专业经典培养自主演绎能力；针对基础技术工人的技能工作坊常采用弱分类强框架，整合多项生活情境但严格考核操作规程的精准达标。
 
 > [!theory-proposition] 命题四｜课程形态通过神圣与世俗知识的区隔建构阶层化教学身份
-> 教育知识具有明确的社会价值导向。以强分类弱框架组织的课程将知识塑造成超脱于外在经济诉求的神圣知识，培养学生将思维视作内在召命与自恋理性的主体意识，生成领导者与学术阶层认同；以弱分类强框架组织的课程将知识置于应对外部市场任务的世俗知识轨道，培养学生作为执行工具的劳动力身份，生成顺从市场调遣的知识工人认同。[[Argument_Lim_2015_CurricInq|(Lim & Apple, 2015, pp. 484–485)]]
+> 教育知识具有明确的社会价值导向。以强分类弱框架组织的课程将知识塑造成超脱于外在经济诉求的神圣知识，培养学生将思维视作内在召命与[[Narcissistic Rationality|自恋理性]]的主体意识，生成领导者与学术阶层认同；以弱分类强框架组织的课程将知识置于应对外部市场任务的世俗知识轨道，培养学生作为执行工具的劳动力身份，生成顺从市场调遣的知识工人认同。[[Argument_Lim_2015_CurricInq|(Lim & Apple, 2015, pp. 484–485)]]
 
 > [!example|notitle]
 > 精英高中学生通过哲学同行评议量规内化清晰度与严密性标准，建构起以理性思考者为核心的[[The Sublime|崇高]]自我认同与社会责任感；主流中学学生将批判性思维当作考试解答难题的应对步骤，视知识为换取就业资格的消费性资本。[[Argument_Lim_2015_CurricInq|(Lim & Apple, 2015, pp. 481–485)]]

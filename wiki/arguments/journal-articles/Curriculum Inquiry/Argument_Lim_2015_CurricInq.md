@@ -2,7 +2,7 @@
 summary: "Lim and Apple (2015) 对比新加坡主流公立初中与顶尖独立高中的思维课程，揭示课程组织形式构成阶级再生产的核心中介。主流学校采用弱分类强框架的学科融入模式，依托工具理性将思维训练压缩为应对统考的封闭技能，培养世俗劳动力；精英学校依托强分类弱框架的四年制独立哲学模式，借助自恋理性涵育反思品质与领导意识，塑造神圣精英认同。在唯才体制下，制度化课程形态所塑造的阶级思维惯习被误认为中立的个人才能，从而为阶级特权赋予了客观公正的合法性外观。"
 type: argument
 authors:
-  - "Lim, L."
+  - "[[Leonel Lim|Lim, L.]]"
   - "[[Michael W. Apple|Apple, M. W.]]"
 source_language: en
 citation: "Lim, L., & Apple, M. W. (2015). Elite rationalities and curricular form: “Meritorious” class reproduction in the elite thinking curriculum in Singapore. Curriculum Inquiry, 45(5), 472–490. https://doi.org/10.1080/03626784.2015.1095622"
@@ -26,6 +26,9 @@ related_concepts:
   - "[[Curricular Form]]"
   - "[[Infusion Approach]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Instrumental Rationality]]"
+  - "[[Narcissistic Rationality]]"
+  - "[[Pedagogic Identity]]"
   - "[[Sacred and Profane Knowledge]]"
   - "[[Cultural Capital]]"
   - "[[Habitus]]"
@@ -56,6 +59,9 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Basil Bernstein]]"
+  - "[[Leonel Lim]]"
+  - "[[Michael W. Apple]]"
+  - "[[Richard Paul]]"
   - "[[Matthew Lipman]]"
   - "[[Karl Popper]]"
 related_facts:
@@ -76,9 +82,9 @@ title: "Argument_Lim_2015_CurricInq"
 argument_key: "Argument_Lim_2015_CurricInq"
 argument_display_title: "Elite rationalities and curricular form: “Meritorious” class reproduction in the elite thinking curriculum in Singapore"
 argument_kind: "journal-article"
-argument_related_count: 37
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 43
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: "Curriculum Inquiry"
 book_title: ""
@@ -97,8 +103,8 @@ issuing_organization: ""
 
 > [!concept-lens] 阅读透镜
 > - **对象** 新加坡两所对照公立初中（主流邻里公立学校 Valley Point Secondary 与顶尖独立精英学校 Queen's High）的[[Critical Thinking|批判性思维]]教学实践。
-> - **张力** 官方普及[[Higher-Order Thinking Skills|高阶思维]]能力的政策修辞，与微观课堂因课程形态差异而诱导出的对立知识理性（工具理性 vs 自恋理性）及阶层认同（[[Sacred and Profane Knowledge|世俗知识]]工人 vs 神圣领导精英）之间的结构性脱节。
-> - **贡献** 将批判课程社会学对精英学校的经验考察视线，从外部行动者资本（[[Cultural Capital|文化资本]]、[[Habitus|惯习]]、阶级区隔）转向学校知识内部结构语法（[[Basil Bernstein|伯恩斯坦]]教学代码），阐明课程的结构形式能够深度分化认知取向并支撑唯才体制的运作。
+> - **张力** 官方普及[[Higher-Order Thinking Skills|高阶思维]]能力的政策修辞，与微观课堂因课程形态差异而诱导出的对立知识理性（[[Instrumental Rationality|工具理性]] vs [[Narcissistic Rationality|自恋理性]]）及阶层化[[Pedagogic Identity|教学身份]]（[[Sacred and Profane Knowledge|世俗知识]]工人 vs 神圣领导精英）之间的结构性脱节。
+> - **贡献** [[Leonel Lim|林福源]]（Leonel Lim）与迈克尔·阿普尔将批判课程社会学对精英学校的经验考察视线，从外部行动者资本（[[Cultural Capital|文化资本]]、[[Habitus|惯习]]、阶级区隔）转向学校知识内部结构语法（[[Basil Bernstein|伯恩斯坦]]教学代码），阐明课程的结构形式能够深度分化认知取向并支撑唯才体制的运作。
 
 ---
 
@@ -111,7 +117,7 @@ issuing_organization: ""
 > | **官方知识与文化政治理论**<br>[[Official Knowledge]] | 解析国家如何通过国家课程大纲与新自由主义经济目标重组教育[[Discourse\|话语]]，维系主导群体的政治合法性 (Apple, 1993/2014, 2004)。 |
 
 > [!warrant]- 理论如何支撑论证
-> 巴兹尔·伯恩斯坦 (Bernstein, 1977, 1990) 的教学代码理论提供了跨越宏观社会阶级结构与微观课堂互动黑箱的形式化分析工具。分类概念揭示不同学科知识范畴之间界线的强弱程度，对应着权力的结构性边界分配；框架概念揭示教学传递过程中师生对议题选择、时序组织、进度步调与评价准则的控制权分配，对应着社会控制的具体形态。通过将分类与框架与涂尔干 (Durkheim, 1915) 关于神圣与世俗知识的社会学分类相结合，该理论将实地观察到的具体教学编排、课堂师生问答和评价量规，转化为解释阶层化知识理性与教学身份建构的因果链条 (Beck, 2002)。
+> 巴兹尔·伯恩斯坦 (Bernstein, 1977, 1990) 的教学代码理论提供了跨越宏观社会阶级结构与微观课堂互动黑箱的形式化分析工具。分类概念揭示不同学科知识范畴之间界线的强弱程度，对应着权力的结构性边界分配；框架概念揭示教学传递过程中师生对议题选择、时序组织、进度步调与评价准则的控制权分配，对应着社会控制的具体形态。通过将分类与框架与涂尔干 (Durkheim, 1915) 关于神圣与世俗知识的社会学分类相结合，该理论将实地观察到的具体教学编排、课堂师生问答和评价量规，转化为解释阶层化知识理性与[[Pedagogic Identity|教学身份]]建构的因果链条 (Beck, 2002)。
 
 ---
 
@@ -178,13 +184,13 @@ issuing_organization: ""
 
 > [!sub-claim] 1. 跨学科分散融入剥离了批判性思维的独立规则
 
-> [!mechanism] 弱分类剥离认识论体系与知识附庸化机制
+> [!mechanism] 弱分类剥离[[Epistemology|认识论]]体系与知识附庸化机制
 > 在主流学校 Valley Point Secondary，校方推行融入式教学（Infusion Approach; Ennis, 1989; McPeck, 1992a, 1992b），要求各科教师把思维技能分散进既有科目中。这种模式导致思维知识呈现弱分类（$C^-$）：批判思考缺失了独立的[[Epistemology|认识论]]体系，被简化为一般的解题技巧或高难度题型套路，完全附庸于具体科目的事实记忆与固定公式。
 
 > [!sub-claim] 2. 教师高度主导的教学剥夺了学生的自主探究空间
 
 > [!mechanism] 强框架对工具理性与世俗知识的规训机制
-> 课堂教学展现出极强的框架控制（$F^+$；Bernstein, 1990, 1999b）。教师全盘主导教学内容的选择、时序、节奏与评价标准，严格规定哪种表达才算达标。知识因而变成一种外在消费性的世俗知识（Profane Knowledge; Beck, 2002; Bernstein, 2000; Durkheim, 1915），思维完全受工具理性驱使，其全部意义仅在于换取考试成绩与劳动力市场雇佣资格 (Apple, 1986; Braverman, 1974)。
+> 课堂教学展现出极强的框架控制（$F^+$；Bernstein, 1990, 1999b）。教师全盘主导教学内容的选择、时序、节奏与评价标准，严格规定哪种表达才算达标。知识因而变成一种外在消费性的世俗知识（Profane Knowledge; Beck, 2002; Bernstein, 2000; Durkheim, 1915），思维完全受[[Instrumental Rationality|工具理性]]驱使，其全部意义仅在于换取考试成绩与劳动力市场雇佣资格 (Apple, 1986; Braverman, 1974)。
 
 > [!case] 主流学校的强控制教学记录
 > - **化学实验课：既定公式的机械套用** 教师将培养批判性思维明确[[Operationalization|操作化]]为推导两种反应试剂与其生成不溶物及溶液之间的关系。在完成硝酸银与氯化钠溶液反应生成氯化银不溶物的实验后，教师要求学生提出通用的化学表征式。教师当堂给出严格限定：“使用 ABCD 概念，用字母 ABCD 代表盐溶液中的阳离子与阴离子。AB 加上 CD 产生 AD 加上 CB。因此最终提出的科学概念必须是：可溶性盐 AB 加上可溶性盐 CD 转化为可溶性盐 AD 加上不溶性盐 CB。”整个互动过程不存在多向推导可能，思维活动被严格限定在重述既定教条的轨道内。
@@ -204,12 +210,12 @@ issuing_organization: ""
 > [!sub-claim] 2. 开放式研讨促使学生将严谨反思转化为自觉的心智习惯
 
 > [!mechanism] 弱框架互动与评价准则自我监督机制
-> 精英学校课堂展现出显著的弱框架（$F^-$）。在研讨课与哲学课上，教师采用[[Matthew Lipman|马修·李普曼]] (Lipman, 2003) 的[[Community of Inquiry|探究共同体]]模式，鼓励学生自主偏离预设讲义展开开放式论辩；讨论时长完全由学生的探究热情决定。在评价环节，学生使用基于保罗与埃尔德 (Paul & Elder, 2005; Paul, 2011) 标准的同行互评量规，将评价准则转化为自我监督的心智习惯 (Bernstein, 1977, p. 96; Bernstein, 2000, p. 55; Beck, 2002, p. 620)。
+> 精英学校课堂展现出显著的弱框架（$F^-$）。在研讨课与哲学课上，教师采用[[Matthew Lipman|马修·李普曼]] (Lipman, 2003) 的[[Community of Inquiry|探究共同体]]模式，鼓励学生自主偏离预设讲义展开开放式论辩；讨论时长完全由学生的探究热情决定。在评价环节，学生使用基于保罗与埃尔德批判性思维模型 (Paul & Elder, 2005; Paul, 2011) 标准的同行互评量规，将评价准则转化为自我监督的心智习惯 (Bernstein, 1977, p. 96; Bernstein, 2000, p. 55; Beck, 2002, p. 620)。
 
 > [!case] 精英高中的弱框架探究记录
 > - **[[Community of Inquiry|探究共同体]]研讨：去中心化物理空间与议题自决** 借鉴[[Philosophy in Schools|儿童哲学]]（Philosophy for Children, P4C; Lipman, 2003）理念，教室课桌椅被排成大圆形，授课教师完全坐于圆圈外部，在空间布局上实现去中心化。以学校是否有权规制并惩戒学生的网络言论及校外行为为主题的研讨课中，议题的选定完全基于学生群体的真实生活关切与兴趣。在一小时的讨论中，学生自主界定校外言论自由边界、学校管辖权极限以及攻击性言论的判定尺度。教师全程仅进行了 3 次实质性介入：2 次用于系统梳理场上多方论辩脉络，1 次用于促请学生进一步阐发其所提概念区分背后的深层哲学价值。
 > - **科学哲学课：自主偏离讲义与高阶学术辨析** 课程原计划介绍归纳推理与演绎推理的区分、归纳问题对科学知识有效性的挑战，以及[[Karl Popper|卡尔·波普尔]]（Karl Popper）的[[Falsification|证伪主义]]与假说演绎法。在教师抛出科学家与哲学家是否应当捍卫科学作为主导理性探究形式的地位这一问题后，一名学生从社会缺乏其他可靠认知工具的角度给出肯定回答，随即引爆全班对历史学、地理学、经济学等不同学科描绘现实合法性的激烈交锋。随后学生更主动将波普尔的证伪标准延伸至宗教信仰与神学领域，深入论辩智能设计论（Intelligent Design）是否具备可证伪性。教师鼓励探究，使知识传递的步调完全服从于学生理智碰撞的节奏。
-> - **[[Authentic Assessment|表现性评价]]量规：内隐反思标准的深度内化** 在高年级阶段，学生每年进行多达 4 次严格的同行批判性思维互评。互评依托覆盖 9 项认知标准的表现量规展开 (Paul & Elder, 2005)。评判标准超越简单的二元正误核对，重点要求在具体辩论情境中持续进行语境化领会与深度阐释。哲学系主任特别说明，除了具体技能与严密思考，更深层的核心在于内化这些过程，使其化为学生思考习惯的一部分。
+> - **[[Authentic Assessment|表现性评价]]量规：内隐反思标准的深度内化** 在高年级阶段，学生每年进行多达 4 次严格的同行批判性思维互评。互评依托覆盖保罗-埃尔德模型 9 项认知标准的表现量规展开 (Paul & Elder, 2005)。评判标准超越简单的二元正误核对，重点要求在具体辩论情境中持续进行语境化领会与深度阐释。哲学系主任特别说明，除了具体技能与严密思考，更深层的核心在于内化这些过程，使其化为学生思考习惯的一部分。
 
 > [!feature] 精英哲学课程涵盖的九项[[Epistemic Ideals|认识论标准]]
 > - **清晰度（Clarity）** 论述观点明晰透彻，能够以通俗精准的语言使社群理解，主动提供阐释 (Paul & Elder, 2005)。
@@ -230,7 +236,7 @@ issuing_organization: ""
 > | **完全掌握了！** | 能够以清晰易懂的方式阐述观点；在无需学习社群提示的情况下，能够主动提供恰当的阐述与论据以厘清自身观点。 |
 
 > [!warrant] 评价准则内隐化对自恋理性的涵育机制
-> 这一量规的长期运用构成了知识的弱框架控制。评判标准需要学生在复杂情境中持续语境化阐释与主体内化，促使思维超越单纯外在技能，转化为一种自律性的内在心智习惯与自恋理性（Narcissistic Rationality; Bernstein, 2000, p. 55）。
+> 这一量规的长期运用构成了知识的弱框架控制。评判标准需要学生在复杂情境中持续语境化阐释与主体内化，促使思维超越单纯外在技能，转化为一种自律性的内在心智习惯与[[Narcissistic Rationality|自恋理性]]（Narcissistic Rationality; Bernstein, 2000, p. 55）。
 
 ---
 
@@ -248,8 +254,8 @@ issuing_organization: ""
 > 在以[[Educational Meritocracy|教育唯才是用制]]为立国基石的新加坡，社会分层被解释为个人能力与努力的自然结果 (Chua, 1995; Ng, 2014; Tan, 2008)。由于两类学校在名义上均推行批判性思维，制度性的课程形态鸿沟被有效遮蔽。文化专断性在此过程中被系统性否认 (Bourdieu & Passeron, 1977; Bourdieu, 1996)。精英学生在弱框架哲学浸润中所习得的自如表达、反思批判与领袖气质，在后续升学考核与高端公费奖学金选拔中被裁定为纯粹的个人天赋 (Ye & Nylander, 2015)；而主流学校学生依循强框架训练所习得的机械执行力则被锚定为平庸劳动力的表征。课程形态正是借此实现了对阶级权力不平等的合法化维系。
 
 > [!tension] 课程形态诱导出的双重理性与主体身份对立
-> - **工具理性与[[Sacred and Profane Knowledge|世俗知识]]工人认同（主流学校）** 知识被定性为外在任务解决的技术工具，强调向外迎合既定规范与劳动力市场雇主需求 (Apple, 1986; Braverman, 1974)；思维活动被规训为可消耗的、产生外在交换价值的操作技能，培养出勤勉、听从指令但缺乏批判反思深度的平民劳动力主体。
-> - **自恋理性与神圣精英领袖认同（精英学校）** 知识被奉为内在自足、不附庸于外部功利的崇高追求 (Bernstein, 1977, p. 96; Bernstein, 2000, p. 55)，强调向内审视自身的思维品质；思维活动被内化为一种精神特权与神圣天职，赋予学生强大的智力自负感与贵族责任感（Noblesse Oblige），培育出视统治与社会领导为理所应当的统治阶层主体 (Bourdieu, 1996)。
+> - **[[Instrumental Rationality|工具理性]]与[[Sacred and Profane Knowledge|世俗知识]]工人认同（主流学校）** 知识被定性为外在任务解决的技术工具，强调向外迎合既定规范与劳动力市场雇主需求 (Apple, 1986; Braverman, 1974)；思维活动被规训为可消耗的、产生外在交换价值的操作技能，培养出勤勉、听从指令但缺乏批判反思深度的平民劳动力主体。
+> - **[[Narcissistic Rationality|自恋理性]]与神圣精英领袖认同（精英学校）** 知识被奉为内在自足、不附庸于外部功利的崇高追求 (Bernstein, 1977, p. 96; Bernstein, 2000, p. 55)，强调向内审视自身的思维品质；思维活动被内化为一种精神特权与神圣天职，赋予学生强大的智力自负感与贵族责任感（Noblesse Oblige），培育出视统治与社会领导为理所应当的统治阶层主体 (Bourdieu, 1996)。
 
 ---
 

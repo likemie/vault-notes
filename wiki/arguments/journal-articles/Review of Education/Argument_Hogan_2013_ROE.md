@@ -60,6 +60,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Learning Strategies]]"
   - "[[Formative Assessment]]"
+  - "[[International Education]]"
   - "[[Task Structure]]"
   - "[[Open-Mindedness]]"
   - "[[Epistemic Agency]]"
@@ -115,9 +116,9 @@ title: "Argument_Hogan_2013_ROE"
 argument_key: "Argument_Hogan_2013_ROE"
 argument_display_title: "Assessment and the logic of instructional practice in Secondary 3 English and mathematics classrooms in Singapore"
 argument_kind: "journal-article"
-argument_related_count: 69
-argument_related_level: 6
-argument_related_stars: "💎💎"
+argument_related_count: 70
+argument_related_level: 7
+argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
 journal: "Review of Education"
 book_title: ""
@@ -418,7 +419,7 @@ issuing_organization: ""
 > [!sub-claim] 2. 封闭且低认知要求的练习任务显著压制学生的思考与表达空间
 
 > [!critique] 课堂实测对标“可见的学习”指标落差与主体性受限（Hattie, 2009; Hattie & Timperley, 2007; Newmann et al., 1995; Stein et al., 1996）
-> - **“可见的学习”指标实测偏离** 国际教育观察常推测新加坡的国际学业高表现源于广泛实施了“积极教学”或“可见的学习”。研究团队基于 32 所公立中学 624 节中三常态课的实地录像编码与作业任务评估（Core 2 项目 Panel 2、3、5 数据），将实测教学行为与[[John Hattie|约翰·哈蒂]]（John Hattie）的[[Visible Learning|“可见的学习”（Visible Learning）]]与积极教学指标逐项对标。测量清单表明，除“检查先备知识”达到中等频次外，明确传达表现标准、展示成功范例、形成性反馈、高阶提问及理解性对话在绝大多数样本课堂中均处于低频发生状态（评定为“偏低”）。教师在课堂中虽高度活跃，但行为主要局限于单向讲解与纠错操练，极少采用哈蒂界定的高阶支持机制。实测数据证实，新加坡的国际学业高表现并未建立在普及“可见的学习”基础之上，而是依赖高度工具主义的备考与显性直接教学。
+> - **“可见的学习”指标实测偏离** [[International Education|国际教育]]观察常推测新加坡的国际学业高表现源于广泛实施了“积极教学”或“可见的学习”。研究团队基于 32 所公立中学 624 节中三常态课的实地录像编码与作业任务评估（Core 2 项目 Panel 2、3、5 数据），将实测教学行为与[[John Hattie|约翰·哈蒂]]（John Hattie）的“可见的学习”（Visible Learning）与积极教学指标逐项对标。测量清单表明，除“检查先备知识”达到中等频次外，明确传达表现标准、展示成功范例、形成性反馈、高阶提问及理解性对话在绝大多数样本课堂中均处于低频发生状态（评定为“偏低”）。教师在课堂中虽高度活跃，但行为主要局限于单向讲解与纠错操练，极少采用哈蒂界定的高阶支持机制。实测数据证实，新加坡的高学业表现主要依靠高度工具主义的应试备考与显性直接教学驱动，普及“可见的学习”在常态课堂中并未成为现实。
 > - **四重主体性的结构性受限** 课堂任务评估证实，习题设计多为狭窄、封闭的程序性常规题，对高阶认知需求极低。这种[[Task Structure|任务结构]]导致学生的[[Epistemology|认识论]]主体性、认知主体性、元认知主体性与[[Discourse|话语]]主体性在微观课堂中受到普遍压制，缺乏真实探究与深度[[Knowledge Building Theory|知识建构]]的机会。
 
 > [!logic-map]- 任务设置与实施、学生主体性与知识建构理论模型

@@ -18793,9 +18793,9 @@
     "OECD, 2011a": "OECD, 2011b",
     "OECD, 2011b": "OECD, 2011c",
     "OECD, 2011c": "OECD, 2011c",
-    "OECD, 2013": "OECD, 2013a",
+    "OECD, 2013": "OECD, 2013b",
     "OECD, 2013a": "OECD, 2013a",
-    "OECD, 2013b": "OECD, 2013b",
+    "OECD, 2013b": "OECD, 2013a",
     "OECD, 2014": "OECD, 2014",
     "OECD, 2015": "OECD, 2015",
     "OECD, 2017": "OECD, 2017",
@@ -18803,9 +18803,9 @@
     "OECD, 2019": "OECD, 2019",
     "OECD, 2020": "OECD, 2020",
     "OECD, 2021": "OECD, 2021",
-    "OECD, 2022": "OECD, 2022a",
+    "OECD, 2022": "OECD, 2022b",
     "OECD, 2022a": "OECD, 2022a",
-    "OECD, 2022b": "OECD, 2022b",
+    "OECD, 2022b": "OECD, 2022a",
     "OECD, 2023": "OECD, 2023",
     "OECD, 2024": "OECD, 2024",
     "OECD, 2025": "OECD, 2025",
@@ -30894,7 +30894,7 @@
         "Adner, 2017",
         "Adner (2017)"
       ],
-      "doi": "",
+      "doi": "10.1177/0149206316678451",
       "identity_keys": [
         "Adner, 2017"
       ],
@@ -30902,7 +30902,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
       ],
-      "title": ""
+      "title": "Ecosystem as structure: an actionable construct for strategy"
     },
     "Adolf Schutzwohl, 1998": {
       "aliases": [
@@ -31244,7 +31244,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
       ],
-      "title": ""
+      "title": "Modernização e Valorização dos Institutos Politécnicos"
     },
     "Ahamed, 2007": {
       "aliases": [
@@ -38103,7 +38103,7 @@
         "Asheim et al., 2019",
         "Asheim et al. (2019)"
       ],
-      "doi": "",
+      "doi": "10.1080/00291951.2019.1707866",
       "identity_keys": [
         "Asheim et al., 2019"
       ],
@@ -38112,14 +38112,14 @@
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
         "wiki/concepts/university-industry-collaboration/Smart Specialisation.md"
       ],
-      "title": ""
+      "title": "Advanced introduction to regional innovation systems"
     },
     "Asheim, 2019": {
       "aliases": [
         "Asheim, 2019",
         "Asheim (2019)"
       ],
-      "doi": "",
+      "doi": "10.1080/13511610.2018.1491001",
       "identity_keys": [
         "Asheim, 2019"
       ],
@@ -38128,7 +38128,7 @@
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
         "wiki/concepts/university-industry-collaboration/Smart Specialisation.md"
       ],
-      "title": ""
+      "title": "Smart specialisation, innovation policy and regional innovation systems: what about new path development in less innovative regions?"
     },
     "Ashley & Condon, 2024": {
       "aliases": [
@@ -43976,7 +43976,7 @@
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
         "wiki/concepts/university-industry-collaboration/Social Innovation Ecosystem.md"
       ],
-      "title": ""
+      "title": "Social enterprises in Structurally Weak rural regions"
     },
     "Baxter, 2022": {
       "aliases": [
@@ -44331,7 +44331,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md",
-        "wiki/concepts/curriculum/Sacred and Profane Knowledge.md"
+        "wiki/concepts/curriculum/Sacred and Profane Knowledge.md",
+        "wiki/concepts/educational-philosophy/Narcissistic Rationality.md"
       ],
       "title": "The Sacred and the Profane in Recent Struggles to Promote Official Pedagogic Identities"
     },
@@ -45881,7 +45882,7 @@
         "Benneworth, 2018",
         "Benneworth (2018)"
       ],
-      "doi": "",
+      "doi": "10.1111/ejed.12278",
       "identity_keys": [
         "Benneworth, 2018"
       ],
@@ -45889,7 +45890,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
       ],
-      "title": ""
+      "title": "University engagement with socially excluded communities"
     },
     "Benoît Godin, 2006": {
       "aliases": [
@@ -47029,6 +47030,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md",
         "wiki/concepts/curriculum/Regulative and Instructional Discourse.md",
+        "wiki/concepts/educational-philosophy/Narcissistic Rationality.md",
         "wiki/persons/uk/Basil Bernstein.md"
       ],
       "title": "Pedagogy, Symbolic Control and Identity: Theory, Research, Critique"
@@ -47163,7 +47165,7 @@
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
         "wiki/concepts/university-industry-collaboration/Smart Specialisation.md"
       ],
-      "title": ""
+      "title": "Smart specialisation, a strategy to support the transformation of a consolidated manufacturing system: the Emilia-Romagna experience"
     },
     "Bertrand, 2005": {
       "aliases": [
@@ -49995,7 +49997,7 @@
         "Bogers et al., 2019",
         "Bogers et al. (2019)"
       ],
-      "doi": "",
+      "doi": "10.1177/0008125619885150",
       "identity_keys": [
         "Bogers et al., 2019"
       ],
@@ -50004,7 +50006,7 @@
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
         "wiki/concepts/university-industry-collaboration/Open Innovation.md"
       ],
-      "title": ""
+      "title": "Strategic management of open innovation: a dynamic capabilities perspective"
     },
     "Bogliacino & Pianta, 2010": {
       "aliases": [
@@ -51315,7 +51317,7 @@
         "Boschma, 2005",
         "Boschma (2005)"
       ],
-      "doi": "",
+      "doi": "10.1080/0034340052000320887",
       "identity_keys": [
         "Boschma, 2005"
       ],
@@ -51323,7 +51325,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
       ],
-      "title": ""
+      "title": "Proximity and innovation: a critical assessment"
     },
     "Bosker & Witziers, 1995": {
       "aliases": [
@@ -52805,7 +52807,7 @@
         "Brand et al., 2015",
         "Brand et al. (2015)"
       ],
-      "doi": "",
+      "doi": "10.1016/j.protcy.2015.07.014",
       "identity_keys": [
         "Brand et al., 2015"
       ],
@@ -52813,7 +52815,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
       ],
-      "title": ""
+      "title": "Mining the gap! Fostering creativity and innovative thinking"
     },
     "Brand, 1995": {
       "aliases": [
@@ -58492,7 +58494,7 @@
         "Camargo et al., 2021",
         "Camargo et al. (2021)"
       ],
-      "doi": "",
+      "doi": "10.1007/s00163-021-00368-7",
       "identity_keys": [
         "Camargo et al., 2021"
       ],
@@ -58501,7 +58503,7 @@
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
         "wiki/concepts/university-industry-collaboration/Smart Specialisation.md"
       ],
-      "title": ""
+      "title": "A multi-stakeholder system-based methodology to evaluate the needs of innovation ecosystems"
     },
     "Cambourne, 1988": {
       "aliases": [
@@ -60975,7 +60977,7 @@
         "Castaldi & Mendonça, 2022",
         "Castaldi & Mendonça (2022)"
       ],
-      "doi": "",
+      "doi": "10.1080/00343404.2021.2003767",
       "identity_keys": [
         "Castaldi & Mendonça, 2022"
       ],
@@ -60983,7 +60985,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
       ],
-      "title": ""
+      "title": "Regions and trademarks: research opportunities and policy insights from leveraging trademarks in regional innovation studies"
     },
     "Castellacci, 2008": {
       "aliases": [
@@ -61707,7 +61709,7 @@
         "wiki/concepts/university-industry-collaboration/Social Innovation Ecosystem.md",
         "wiki/facts/portugal/Centre for Social Economy and Innovation.md"
       ],
-      "title": ""
+      "title": "Percursos laborais e de vida dos jovens imigrantes e descendentes de imigrantes nos novos setores de serviços"
     },
     "Cermak et al., 2021": {
       "aliases": [
@@ -63754,7 +63756,7 @@
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
         "wiki/concepts/university-industry-collaboration/Open Innovation.md"
       ],
-      "title": ""
+      "title": "Open Innovation: The New Imperative for Creating and Profiting from Technology"
     },
     "Chesebro & McCroskey, 1998": {
       "aliases": [
@@ -64712,7 +64714,7 @@
         "Christensen & Pedersen, 2018",
         "Christensen & Pedersen (2018)"
       ],
-      "doi": "",
+      "doi": "10.1108/JKM-03-2018-0211",
       "identity_keys": [
         "Christensen & Pedersen, 2018"
       ],
@@ -64720,7 +64722,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
       ],
-      "title": ""
+      "title": "The dual influences of proximity on knowledge sharing"
     },
     "Christensen, 2022": {
       "aliases": [
@@ -69384,7 +69386,7 @@
         "Cortese et al., 2023",
         "Cortese et al. (2023)"
       ],
-      "doi": "",
+      "doi": "10.1007/s11846-023-00624-1",
       "identity_keys": [
         "Cortese et al., 2023"
       ],
@@ -69393,7 +69395,7 @@
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
         "wiki/concepts/university-industry-collaboration/Social Innovation Ecosystem.md"
       ],
-      "title": ""
+      "title": "Transformative social innovation in developing and emerging ecosystems: a configurational examination"
     },
     "Cosden, 1995": {
       "aliases": [
@@ -77808,7 +77810,7 @@
         "Dollinger & Lodge, 2020",
         "Dollinger & Lodge (2020)"
       ],
-      "doi": "",
+      "doi": "10.1080/1360080x.2019.1663681",
       "identity_keys": [
         "Dollinger & Lodge, 2020"
       ],
@@ -77816,7 +77818,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
       ],
-      "title": ""
+      "title": "Student-staff co-creation in higher education: an evidence-informed model to support future design and implementation"
     },
     "Dollinger et al., 2018": {
       "aliases": [
@@ -77868,7 +77870,7 @@
         "Doloreux & Parto, 2005",
         "Doloreux & Parto (2005)"
       ],
-      "doi": "",
+      "doi": "10.1016/j.techsoc.2005.01.002",
       "identity_keys": [
         "Doloreux & Parto, 2005"
       ],
@@ -77876,7 +77878,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
       ],
-      "title": ""
+      "title": "Regional innovation systems: current discourse and unresolved issues"
     },
     "Dolowitz & Marsh, 1996": {
       "aliases": [
@@ -77928,14 +77930,14 @@
       "seen_in": [
         "wiki/concepts/university-industry-collaboration/Social Innovation Ecosystem.md"
       ],
-      "title": ""
+      "title": "Social Innovation Ecosystems"
     },
     "Domansky et al., 2020": {
       "aliases": [
         "Domansky et al., 2020",
         "Domansky et al. (2020)"
       ],
-      "doi": "",
+      "doi": "10.1080/09654313.2019.1639397",
       "identity_keys": [
         "Domansky et al., 2020"
       ],
@@ -77944,7 +77946,7 @@
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
         "wiki/concepts/university-industry-collaboration/Social Innovation Ecosystem.md"
       ],
-      "title": ""
+      "title": "A comprehensive concept of social innovation and its implications for the local context – on the growing importance of social innovation ecosystems and infrastructures"
     },
     "Dominguez, 2018": {
       "aliases": [
@@ -78967,7 +78969,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
       ],
-      "title": ""
+      "title": "Universities, innovation, and the competitiveness of local economies"
     },
     "Dragon, 2009": {
       "aliases": [
@@ -85312,7 +85314,7 @@
         "Etzkowitz & Zhou, 2017",
         "Etzkowitz & Zhou (2017)"
       ],
-      "doi": "",
+      "doi": "10.1590/s0103-40142017.319000",
       "identity_keys": [
         "Etzkowitz & Zhou, 2017"
       ],
@@ -85320,7 +85322,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
       ],
-      "title": ""
+      "title": "Hélice Tríplice: inovação e empreendedorismo universidade-indústria-governo"
     },
     "Etzkowitz et al., 2000": {
       "aliases": [
@@ -88008,7 +88010,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
       ],
-      "title": ""
+      "title": "Tracing the flows of knowledge transfer: Latent dimensions and determinants of university–industry interactions in peripheral innovation systems"
     },
     "Feron, 2020": {
       "aliases": [
@@ -88623,7 +88625,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
       ],
-      "title": ""
+      "title": "Innovation in economically developed and lagging European regions: a configurational analysis"
     },
     "Filmer & Pritchett, 2001": {
       "aliases": [
@@ -99366,7 +99368,7 @@
         "González-López & Asheim, 2020",
         "González-López & Asheim (2020)"
       ],
-      "doi": "",
+      "doi": "10.4337/9781789904161",
       "identity_keys": [
         "González-López & Asheim, 2020"
       ],
@@ -99375,7 +99377,7 @@
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
         "wiki/concepts/university-industry-collaboration/Smart Specialisation.md"
       ],
-      "title": ""
+      "title": "Regions and Innovation Policies in Europe"
     },
     "Good & Brophy, 2003": {
       "aliases": [
@@ -100692,7 +100694,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
       ],
-      "title": ""
+      "title": "Link Me Up - 1000 ideias - Sistema de Apoio à co-criação de inovação, criatividade e empreendedorismo"
     },
     "Governo de Portugal, 2023": {
       "aliases": [
@@ -100707,7 +100709,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
       ],
-      "title": ""
+      "title": "Portugal vai ter centro de formação específico para a Economia Social"
     },
     "Goyen, 1994": {
       "aliases": [
@@ -101298,7 +101300,7 @@
         "Granstrand & Holgersson, 2020",
         "Granstrand & Holgersson (2020)"
       ],
-      "doi": "",
+      "doi": "10.1016/j.technovation.2019.102098",
       "identity_keys": [
         "Granstrand & Holgersson, 2020"
       ],
@@ -101306,7 +101308,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
       ],
-      "title": ""
+      "title": "Innovation ecosystems: a conceptual review and a new definition"
     },
     "Grant & Booth, 2009": {
       "aliases": [
@@ -106070,7 +106072,7 @@
         "Hamón et al., 2024",
         "Hamón et al. (2024)"
       ],
-      "doi": "",
+      "doi": "10.1007/s10961-022-09990-6",
       "identity_keys": [
         "Hamón et al., 2024"
       ],
@@ -106078,7 +106080,7 @@
       "seen_in": [
         "wiki/concepts/university-industry-collaboration/Open Innovation.md"
       ],
-      "title": ""
+      "title": "From high-tech clusters to open innovation ecosystems: a systematic literature review of the relationship between science and technology parks and universities"
     },
     "Han & Lee, 2018": {
       "aliases": [
@@ -116601,7 +116603,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
       ],
-      "title": ""
+      "title": "European enterprise promotion awards"
     },
     "IB, 2013": {
       "aliases": [
@@ -117630,7 +117632,7 @@
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
         "wiki/concepts/university-industry-collaboration/Smart Specialisation.md"
       ],
-      "title": ""
+      "title": "Regional innovation systems in an era of grand societal challenges: reorientation versus transformation"
     },
     "Ise et al., 2012": {
       "aliases": [
@@ -122175,7 +122177,7 @@
         "Jonek-Kowalska & Wolniak, 2021",
         "Jonek-Kowalska & Wolniak (2021)"
       ],
-      "doi": "",
+      "doi": "10.3390/joitmc7020110",
       "identity_keys": [
         "Jonek-Kowalska & Wolniak, 2021"
       ],
@@ -122183,7 +122185,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
       ],
-      "title": ""
+      "title": "The influence of local economic conditions on start-ups and local open innovation system"
     },
     "Jones & Coleman, 2005": {
       "aliases": [
@@ -127875,7 +127877,7 @@
         "Kijek et al., 2023",
         "Kijek et al. (2023)"
       ],
-      "doi": "",
+      "doi": "10.1007/978-3-031-24531-2",
       "identity_keys": [
         "Kijek et al., 2023"
       ],
@@ -127883,7 +127885,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
       ],
-      "title": ""
+      "title": "Innovation and Regional Technological Convergence: Theory and Evidence"
     },
     "Kilroy, 2004": {
       "aliases": [
@@ -129020,7 +129022,7 @@
         "Kirat & Lung, 1999",
         "Kirat & Lung (1999)"
       ],
-      "doi": "",
+      "doi": "10.1177/096977649900600103",
       "identity_keys": [
         "Kirat & Lung, 1999"
       ],
@@ -129028,7 +129030,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
       ],
-      "title": ""
+      "title": "Innovation and proximity territories as Loci of collective learning processes"
     },
     "Kirk & Miller, 1986": {
       "aliases": [
@@ -136617,7 +136619,7 @@
         "Lazzeretti et al., 2022",
         "Lazzeretti et al. (2022)"
       ],
-      "doi": "",
+      "doi": "10.1080/09654313.2022.2101880",
       "identity_keys": [
         "Lazzeretti et al., 2022"
       ],
@@ -136625,7 +136627,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
       ],
-      "title": ""
+      "title": "The emergence of artificial intelligence in the regional sciences: a literature review"
     },
     "Le Galès, 2016": {
       "aliases": [
@@ -166012,15 +166014,11 @@
       ],
       "doi": "",
       "identity_keys": [
-        "OECD, 2013"
+        "OECD, 2013b"
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Global Social Policy/Argument_Niemann_Martens_2018_GSP.md",
-        "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
-        "wiki/arguments/reports-policy-documents/Argument_Bouckaert_2023_OECD.md",
-        "wiki/concepts/educational-policy-reform/PISA Glorifying Authoritarian Education.md",
-        "wiki/concepts/university-industry-collaboration/Social Innovation Ecosystem.md"
+        "wiki/concepts/sociology-of-education/Tracking.md"
       ],
       "title": ""
     },
@@ -166031,13 +166029,17 @@
       ],
       "doi": "",
       "identity_keys": [
-        "OECD, 2013b"
+        "OECD, 2013"
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/sociology-of-education/Tracking.md"
+        "wiki/arguments/journal-articles/Global Social Policy/Argument_Niemann_Martens_2018_GSP.md",
+        "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
+        "wiki/arguments/reports-policy-documents/Argument_Bouckaert_2023_OECD.md",
+        "wiki/concepts/educational-policy-reform/PISA Glorifying Authoritarian Education.md",
+        "wiki/concepts/university-industry-collaboration/Social Innovation Ecosystem.md"
       ],
-      "title": ""
+      "title": "Regions and Innovation: Collaborating across Borders"
     },
     "OECD, 2014": {
       "aliases": [
@@ -166141,7 +166143,7 @@
         "OECD, 2021",
         "OECD (2021)"
       ],
-      "doi": "",
+      "doi": "10.1787/bef867cd-en",
       "identity_keys": [
         "OECD, 2021"
       ],
@@ -166151,28 +166153,12 @@
         "wiki/concepts/educational-policy-reform/Cumulative Knowledge Base.md",
         "wiki/concepts/university-industry-collaboration/Social Innovation Ecosystem.md"
       ],
-      "title": ""
+      "title": "Building local ecosystems for social innovation: A methodological framework"
     },
     "OECD, 2022a": {
       "aliases": [
         "OECD, 2022a",
         "OECD (2022a)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "OECD, 2022"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
-        "wiki/instruments/questionnaires/Strengthening the Impact of Education Research Policy Survey.md"
-      ],
-      "title": ""
-    },
-    "OECD, 2022b": {
-      "aliases": [
-        "OECD, 2022b",
-        "OECD (2022b)"
       ],
       "doi": "",
       "identity_keys": [
@@ -166183,6 +166169,22 @@
         "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Li_2025_HSSC.md"
       ],
       "title": ""
+    },
+    "OECD, 2022b": {
+      "aliases": [
+        "OECD, 2022b",
+        "OECD (2022b)"
+      ],
+      "doi": "10.1787/ca45d22a-en",
+      "identity_keys": [
+        "OECD, 2022"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
+        "wiki/instruments/questionnaires/Strengthening the Impact of Education Research Policy Survey.md"
+      ],
+      "title": "Innovative and Entrepreneurial Universities in Latin America"
     },
     "OECD, 2023": {
       "aliases": [
@@ -174066,7 +174068,7 @@
         "Phonthanukitithaworn et al., 2023",
         "Phonthanukitithaworn et al. (2023)"
       ],
-      "doi": "",
+      "doi": "10.3390/su15032126",
       "identity_keys": [
         "Phonthanukitithaworn et al., 2023"
       ],
@@ -174075,7 +174077,7 @@
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
         "wiki/concepts/university-industry-collaboration/Open Innovation.md"
       ],
-      "title": ""
+      "title": "Sustainable development towards Openness SME innovation: Taking advantage of intellectual capital, sustainable initiatives, and open innovation"
     },
     "Physicians' Health Study, 1988": {
       "aliases": [
@@ -175491,7 +175493,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
       ],
-      "title": ""
+      "title": "Projeto @GIR Arranca No Terreno"
     },
     "Pollard, 1985": {
       "aliases": [
@@ -186118,7 +186120,7 @@
         "Rossoni et al., 2024",
         "Rossoni et al. (2024)"
       ],
-      "doi": "",
+      "doi": "10.1007/s11301-023-00349-1",
       "identity_keys": [
         "Rossoni et al., 2024"
       ],
@@ -186127,7 +186129,7 @@
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
         "wiki/concepts/university-industry-collaboration/Open Innovation.md"
       ],
-      "title": ""
+      "title": "Barriers and facilitators of university-industry collaboration for research, development and innovation: a systematic review"
     },
     "Rostron, 2009": {
       "aliases": [
@@ -188751,7 +188753,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
       ],
-      "title": ""
+      "title": "Entrepreneurial university and social innovation ecosystems: do they support HEIs’ knowledge-based economic development?"
     },
     "Sahin & Bae, 2020": {
       "aliases": [
@@ -205604,7 +205606,7 @@
         "Stoimenova, 2019",
         "Stoimenova (2019)"
       ],
-      "doi": "",
+      "doi": "10.1007/s10961-019-09746-4",
       "identity_keys": [
         "Stoimenova, 2019"
       ],
@@ -205612,7 +205614,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
       ],
-      "title": ""
+      "title": "Indicators of university competitiveness within regional innovation systems"
     },
     "Stojadinovic et al., 2021": {
       "aliases": [
@@ -211085,7 +211087,7 @@
         "Thomas et al., 2020",
         "Thomas et al. (2020)"
       ],
-      "doi": "",
+      "doi": "10.1111/grow.12442",
       "identity_keys": [
         "Thomas et al., 2020"
       ],
@@ -211093,7 +211095,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
       ],
-      "title": ""
+      "title": "Universities as orchestrators of the development of regional innovation ecosystems in emerging economies"
     },
     "Thomas et al., 2021": {
       "aliases": [
@@ -216524,7 +216526,7 @@
         "Unger et al., 2020",
         "Unger et al. (2020)"
       ],
-      "doi": "",
+      "doi": "10.1007/s10961-018-9699-8",
       "identity_keys": [
         "Unger et al., 2020"
       ],
@@ -216532,7 +216534,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
       ],
-      "title": ""
+      "title": "New challenges for universities in the knowledge triangle"
     },
     "Ungerleider & Burns, 2003": {
       "aliases": [
@@ -216590,7 +216592,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
       ],
-      "title": ""
+      "title": "INOVC+ Ecossistema de Inovação Inteligente da Região Centro"
     },
     "University of Bristol, 2017": {
       "aliases": [
@@ -229908,7 +229910,7 @@
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
         "wiki/arguments/journal-articles/Journal of Technology Studies/Argument_Murphy_2026_JTS.md"
       ],
-      "title": ""
+      "title": "Case Study Research and Applications: Design and Methods"
     },
     "Yip Kwok-wah, 2006": {
       "aliases": [
