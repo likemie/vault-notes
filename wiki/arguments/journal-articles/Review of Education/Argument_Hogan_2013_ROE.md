@@ -1,5 +1,5 @@
 ---
-summary: "通过新加坡32所中学4000余名中三学生的课堂问卷调查与全潜变量结构方程建模，揭示传统讲授、直接教学、理解教学与共同调节学习之间单向递进的层级因果结构，实证确证微观课堂呈现无宗派实用主义的教学杂糅，并论证全国统一高利害考试体系在维系高绩效的同时对学习者中心教学改革构成了决定性的制度规锁。"
+summary: "通过新加坡32所中学4000余名中三学生的课堂问卷调查与全潜变量结构方程建模，揭示传统讲授、直接教学、理解教学与共同调节学习之间单向递进的层级因果结构，证实微观课堂呈现务实整合的教学杂糅形态，并论证全国统一高利害考试体系在维系高绩效的同时，对以学生为中心的教学改革形成了强有力的制度约束与路径锁定。"
 type: argument
 authors:
   - "[[David Hogan|Hogan, D.]]"
@@ -127,31 +127,31 @@ issuing_organization: ""
 ---
 
 > [!question]
-> 新加坡中小学生在国际测试中常年名列前茅，其微观课堂教学究竟遵循怎样的运作逻辑？在国家大力推行[[Teach Less, Learn More|少教多学]]（Teach Less, Learn More, TLLM）与探究式改革的背景下，为什么一线教师依然重度依赖课本讲授与刷题操练？传统讲授、分步练习、概念理解与自主调节四类教学方法在实际课堂中呈现怎样的先后依赖关系？全国统一的升学淘汰考试又是如何扼杀教师的改革尝试，把课堂死死绑在应试战车上的？
+> 新加坡中小学生在国际测试中常年名列前茅，其微观课堂教学究竟遵循怎样的运作逻辑？在国家大力推行[[Teach Less, Learn More|少教多学]]（Teach Less, Learn More, TLLM）与探究式改革的背景下，为什么一线教师依然重度依赖课本讲授与习题操练？传统讲授、分步练习、概念理解与自主调节四类教学方法在实际课堂中呈现怎样的先后依赖关系？全国统一的高利害升学考试又如何制约教师的改革探索，使课堂教学持续受制于应试导向？
 
 > [!claim] 核心主张
-> [[David Hogan|戴维·霍根]]（[[David Hogan]]）等学者通过大规模实证揭示，新加坡中学课堂由高利害考试深度驱动，教师务实地将传统讲授、示范练习与理解探究拼贴在一起，形成主次分明的[[Pedagogical Hybridity|杂糅教学实践]]；全模型检验确证，没有扎实的讲授与练习铺垫，学生就无法真正发展出深层概念理解与自主反思能力；覆盖全岛的全国统一升学考试虽然托底了优异的测试成绩，却把课堂牢牢锁死在应试轨道上，使以学生为中心的教学改革难以落地。
+> [[David Hogan|戴维·霍根]]（[[David Hogan]]）等学者通过大规模实证揭示，新加坡中学课堂由高利害考试深度驱动，教师务实地将传统讲授、示范练习与理解探究有机融合，形成主次分明的[[Pedagogical Hybridity|杂糅教学实践]]；全模型检验确证，缺乏扎实的讲授与练习铺垫，学生难以真正发展出深层概念理解与自主反思能力；覆盖全岛的全国统一升学考试在维系优异测试成绩的同时，也将课堂教学牢固限制在应试轨道上，使以学生为中心的教学改革难以落地。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 新加坡 32 所公立中学 120 间中三数学与英语学术类班级，涵盖 4000 余名学生[[Questionnaire|问卷]]、[[Teacher Beliefs|教师信念]]调查与深度个案访谈。
-> - **张力** 国际顶尖成绩与国家政策倡导的探究式素养改革愿景，与一线课堂中普遍盛行的大纲内容覆盖、练习册刷题演练及应试复现之间的深层脱节。
-> - **贡献** 破除以教师为中心与以学生为中心非此即彼的抽象二元论，提出[[Pedagogical Hybridity|教学杂糅]]（pedagogical hybridity）理论框架，用全潜[[Variable|变量]]结构方程模型（Structural Equation Modeling, [[Causal Modeling|SEM]]）阐明了四类教学策略的先后因果链条与考试体制规锁机制。
+> - **张力** 国际顶尖测试成绩及政策倡导的探究式素养愿景，与一线课堂中普遍盛行的大纲覆盖、习题操练及应试复现之间的深层脱节。
+> - **贡献** 破除以教师为中心与以学生为中心非此即彼的抽象二元论，提出[[Pedagogical Hybridity|教学杂糅]]（pedagogical hybridity）理论框架，用全潜[[Variable|变量]]结构方程模型（Structural Equation Modeling, [[Causal Modeling|SEM]]）阐明了四类教学策略的先后因果链条以及高利害考试体制的制度约束机制。
 
 ---
 
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
-> | **教学杂糅理论**<br>[[Pedagogical Hybridity]] | 阐明一线教师如何在外部考试压力与文化规范下，不讲究理论纯洁性，将不同教学流派的手法务实组合为管用的教学实践。 |
-> | **民俗教学法理论**<br>[[Folk Pedagogy]] | 借助 Bruner (1996) 与 Cohen (1988) 的概念，阐明教师基于本土常识经验与直觉心智模型维持以传授示范为主轴的实践[[Habitus\|惯习]]。 |
-> | **为理解而教框架**<br>[[Teaching for Understanding]] | 确立包含提问质量、概念聚焦、学习监控、形成性反馈与协作支架等十一维高阶教学[[Construct\|构念]]的测量与评估体系。 |
-> | **显性直接教学模型**<br>[[Direct Instruction]] | 刻画教师通过分步示范、内容结构化呈现、复习检测与针对性练习引导学生系统掌握[[Procedural Skill\|程序技能]]与良构知识的中介性策略。 |
-> | **共同调节学习理论**<br>[[Co-regulated Learning]] | 刻画学生在教师支架与同伴互动下，逐步将学习目标设立、反思监控与表现自评内化为[[Metacognition\|元认知调节]]能力的过程。 |
+> | **教学杂糅理论**<br>[[Pedagogical Hybridity]] | 阐明一线教师如何在外部考试压力与文化规范下，超越单一理论流派的教条，务实组合不同教学手法以适应现实教学需求。 |
+> | **民俗教学法理论**<br>[[Folk Pedagogy]] | 借助 Bruner (1996) 与 Cohen (1988) 的概念，阐明教师基于本土常识经验与直觉心智模型维持以传授示范为主轴的实践[[Habitus|惯习]]。 |
+> | **为理解而教框架**<br>[[Teaching for Understanding]] | 确立包含提问质量、概念聚焦、学习监控、形成性反馈与协作支架等十一维高阶教学[[Construct|构念]]的测量与评估体系。 |
+> | **显性直接教学模型**<br>[[Direct Instruction]] | 刻画教师通过分步示范、内容结构化呈现、复习检测与针对性练习引导学生系统掌握[[Procedural Skill|程序技能]]与良构知识的中介性策略。 |
+> | **共同调节学习理论**<br>[[Co-regulated Learning]] | 刻画学生在教师支架与同伴互动下，逐步将学习目标设立、反思监控与表现自评内化为[[Metacognition|元认知调节]]能力的过程。 |
 > | **高利害评估与制度同构**<br>[[High-Stakes Testing]] | 剖析全国统一考试体制如何通过刚性升学问责与反向回冲效应，将学校微观教学牢固锁定在应试复现轨道上。 |
-> | **课程对齐理论**<br>[[Curriculum Alignment]] | 剖析全国统考大纲、商业复习题集与微观讲授操练之间的超强对齐，以及该对齐结构对渐进式大纲改革政策所造成的结构性阻断与规锁。 |
+> | **课程对齐理论**<br>[[Curriculum Alignment]] | 剖析全国统考大纲、商业复习题集与微观讲授操练之间的超强对齐，以及该对齐结构对渐进式大纲改革政策所造成的结构性阻断与制度束缚。 |
 
 > [!warrant]- 理论如何支撑论证
-> Hogan et al. (2013) 将社会学的新制度主义（Powell & DiMaggio, 1991; Scott, 1995）、文化认知论中的民俗教学法（Folk Pedagogy）（Bruner, 1996; Cohen, 1988）与认知学习论（Perkins, 1993, 1998; Rosenshine & Stevens, 1986）有机整合：在文化与制度辨析层面，研究直接对话[[Confucian Heritage Cultures|儒家文化圈]]（Confucian Heritage Cultures）假说（Biggs & Watkins, 2001; Cheng, 1996），实证因果全模型确证教师的教学杂糅实质上是对国家高利害统考与升学问责环境的理性制度调适，打破了将东亚高[[Academic Achievement|学业表现]]归因于单一文化宿命论的理论设想；在宏观制度层面，国家统考与课堂练习之间构成了超强密度的[[Curriculum Alignment|课程对齐]]，将学校微观教学牢固锁定在应试复现轨道上，形成了对少教多学等探究性改革的刚性制度规锁；在微观教学互动层面，结构方程模型检验了从低阶讲授到高阶探究之间的逐级依赖关系，论证了缺乏基础直接教学支撑的探究性改革在现实应试体系中无法孤立存活的认知与制度必然性。
+> Hogan et al. (2013) 将社会学的新制度主义（Powell & DiMaggio, 1991; Scott, 1995）、文化认知论中的民俗教学法（Folk Pedagogy）（Bruner, 1996; Cohen, 1988）与认知学习论（Perkins, 1993, 1998; Rosenshine & Stevens, 1986）有机整合：在文化与制度辨析层面，研究直接对话[[Confucian Heritage Cultures|儒家文化圈]]（Confucian Heritage Cultures）假说（Biggs & Watkins, 2001; Cheng, 1996），实证因果全模型确证教师的教学杂糅实质上是对国家高利害统考与升学问责环境的理性制度调适，打破了将东亚高[[Academic Achievement|学业表现]]归因于单一文化宿命论的理论设想；在宏观制度层面，国家统考与课堂练习之间构成了超强密度的[[Curriculum Alignment|课程对齐]]，将学校微观教学牢固限制在应试复现轨道上，对少教多学等探究性改革形成了刚性制度约束；在微观教学互动层面，结构方程模型检验了从低阶讲授到高阶探究之间的逐级依赖关系，论证了缺乏基础直接教学支撑的探究性改革在现实应试体系中无法孤立存活的认知与制度必然性。
 
 ### 核心变量与操作化编码表
 
@@ -207,7 +207,7 @@ issuing_organization: ""
 > [!claim|step] 论证步骤一　课堂教学完全围绕课本讲授、习题操练和备考展开
 > 统计问卷与测量模型证实，新加坡中三数学与英语课堂具有极高的传统教学与直接教学实施频次，教学行为高度聚焦于教材覆盖与应试准备。
 
-> [!sub-claim] 1. 机械背诵与作业本刷题占据日常教学最高频次
+> [!sub-claim] 1. 机械记忆与习题演练占据日常教学最高频次
 
 > [!result-reading] 传统教学量化测查与师生互动[[Discourse|话语]]规程（Alexander, 2001; Cazden, 1988; Galton, 2007）
 > - **高频操练与作业主导** 传统教学在两门学科中均获得极高知觉均分，且数学显著高于英语（数学 3.78，英语 3.46，[[Effect Size|效应量]] $d = 0.49$）。练习册作业（数学均分 3.93，英语 3.63）与机械记忆（数学 4.06，英语 3.47）构成了发生频次最高的教学行为。
@@ -218,7 +218,7 @@ issuing_organization: ""
 > | 测量构件维度 | 数学均分 | 数学标准差 | 英语均分 | 英语标准差 | 学科间差异（Cohen's d） |
 > |---|---|---|---|---|---|
 > | **传统教学总构念（TI 量表）** | 3.78 | 0.65 | 3.46 | 0.65 | 0.49 |
-> | **死记硬背** | 4.06 | 0.91 | 3.47 | 0.93 | 0.64 |
+> | **机械记忆** | 4.06 | 0.91 | 3.47 | 0.93 | 0.64 |
 > | **练习册与作业本** | 3.93 | 0.95 | 3.63 | 0.95 | 0.32 |
 > | **教科书使用** | 3.83 | 0.82 | 3.35 | 0.97 | 0.54 |
 > | **基础规则与步骤操练** | 3.59 | 0.97 | 3.39 | 0.92 | 0.21 |
@@ -284,7 +284,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim|step] 论证步骤二　教师务实拼接多种教学手段，讲授操练与理解探究主次分明
+> [!claim|step] 论证步骤二　教师务实融合多种教学手段，讲授操练与理解探究主次分明
 > 新加坡教师在日常教学中广泛采用复合型的[[Pedagogical Hybridity|教学杂糅]]策略，将传统教学、直接教学与理解性教学有机融汇于不同教学环节。
 
 > [!sub-claim] 1. 课本讲授为直接教学提供练习素材，二者紧密共生
@@ -411,7 +411,7 @@ issuing_organization: ""
 > ![](https://img.mylikemie.icu/sources/Hogan_2013_ROE/figures/Hogan_2013_ROE_Fig11_Integrated_SEM_English.jpg)
 > *图 11 展示了中三英语课堂四类教学策略整合模型图。传统讲授、显性直接教学、为理解而教与共同调节学习呈现高度递归的因果结构，聚焦理解对共同调节学习产生 .77 的直接效应，且从高阶策略向低阶策略不存在反向反馈回路。*
 
-> [!sub-claim] 2. 封闭死板的练习任务严重压制学生的思考与表达空间
+> [!sub-claim] 2. 封闭且低认知要求的练习任务显著压制学生的思考与表达空间
 
 > [!critique] 任务低认知需求对四重主体性的结构性剥夺（Hattie, 2009; Hattie & Timperley, 2007; Newmann et al., 1995; Stein et al., 1996）
 > - **可见学习维度的实质落差** 将课堂教学指标与[[John Hattie|约翰·哈蒂]]（John Hattie）的可见学习及[[Knowledge Building Theory|知识建构理论]]对质，扩展测量清单揭示除检查先备知识达到中等水准外，传达标准、范例示范、形成性监控、高阶提问与理解对话全线处于低频水准。
@@ -452,16 +452,16 @@ issuing_organization: ""
 
 ---
 
-> [!claim|step] 论证步骤四　全国统一升学考试死死锁住课堂，阻碍[[Inquiry-Based Learning|探究式教学]]改革落地
-> 新加坡教师的教学杂糅与绩效导向深刻植根于制度环境，受到[[Singapore-Cambridge GCE Ordinary Level|新加坡剑桥普通教育证书普通水准会考]]（Singapore-Cambridge [[Global Campaign for Education|GCE]] Ordinary Level, GCE O-Level）与[[Primary School Leaving Examination|小六离校考试]]（Primary School Leaving Examination, PSLE）等高利害考试体制的刚性规锁。微观教学实践与国家统考之间形成了极强的课程对齐（Curriculum Alignment），但与宏观渐进式课程改革政策构成了深刻的结构性脱节。
+> [!claim|step] 论证步骤四　全国统一升学考试深度约束课堂教学，阻碍[[Inquiry-Based Learning|探究式教学]]改革落地
+> 新加坡教师的教学杂糅与绩效导向深刻植根于制度环境，受到[[Singapore-Cambridge GCE Ordinary Level|新加坡剑桥普通教育证书普通水准会考]]（Singapore-Cambridge [[Global Campaign for Education|GCE]] Ordinary Level, GCE O-Level）与[[Primary School Leaving Examination|小六离校考试]]（Primary School Leaving Examination, PSLE）等高利害考试体制的刚性制度约束。微观教学实践与国家统考之间形成了极强的课程对齐（Curriculum Alignment），但与宏观渐进式课程改革政策构成了深刻的结构性脱节。
 
-> [!sub-claim] 1. 升学考试压倒教学改革，教师为求稳重回题海应试
+> [!sub-claim] 1. 统考问责压力重于大纲理念倡导，教师退守基础习题演练
 
 > [!tension] 双重课程对齐悖论：探究大纲话语与应试评价标准的脱节（Kramer-Dahl, 2008）
 > - **大纲倡导理念** 英语新课程大纲强调打破填鸭教学，推行过程写作法、[[Divergent Thinking|发散思维]]、真实交际与高级思维读写素养。
 > - **统考评价标准** 剑桥 O 水准考试评价依然严格侧重语法精度、固定文体结构与标准化题型套路。
 >
-> **生存理性妥协** 微观课堂教学、商业练习题集与高利害统考之间维持着紧密的结构对齐，而宏观探究大纲与统考评价指标之间发生深层断裂。面对这种双重课程对齐悖论，一线教师迅速放弃探究尝试，全线退守至强化习题演练、词汇填空与样板背诵的基础回归防线。个案印证了 Cheah（1998）提出的应试型读写能力（examination-type literacy）机制：教师教学决策紧密服从于怎样做才能让最多学生通过统考的现实生存理性。
+> **生存理性妥协** 微观课堂教学、商业练习题集与高利害统考之间维持着紧密的结构对齐，而宏观探究大纲与统考评价指标之间发生深层断裂。面对这种双重课程对齐悖论，一线教师多选择搁置探究尝试，转而强化习题演练、词汇填空与样板背诵等基础操练。个案印证了 Cheah（1998）提出的应试型读写能力（examination-type literacy）机制：教师教学决策紧密服从于怎样做才能让最多学生通过统考的现实生存理性。
 
 > [!case] 质性田野追踪个案：英语教师 Elise 在考试压力下的教学规避与回退
 > **个案背景** Elise 是新加坡一所普通中学的资深英语教师，参与了[[Singapore Ministry of Education|新加坡教育部]] 2001 年英语课程大纲实施实验。新大纲要求打破填鸭教学，推行过程写作法与[[Critical Thinking|批判性思维]]探究。
@@ -473,20 +473,20 @@ issuing_organization: ""
 > 教学大纲是一回事，考试又是另一回事。我真切地感到大部分课程内容完全被考试所操控。我的工作就是通过大量的练习和操练，把孩子们推向最终的达标结果……在卷面上，你最终必须交出测验和考试成绩。将学校教学与现实生活联系起来？我认为对我们的学生而言这难以构成有效的激励因素。你必须把它同考试绑定在一起，对吧？那是悬在眼前的胡萝卜，即“你们学这个，因为考试要考这个”。对于我们这里的绝大多数青少年来说，考试已经变成了生活的全部。在亚洲情境下，你根本不可能把这两者割裂开来，因为现实摆得太显而易见了。
 > （英语教师 Elise 访谈陈述，Kramer-Dahl, 2008, p. 94）
 
-> [!sub-claim] 2. 改革留给基层的两成自主时间被考前补习迅速占领
+> [!sub-claim] 2. 改革留给基层的两成课时自主权多被应试补习吸纳
 
 > [!challenges] 自上而下分权倡议在基层的应试[[Alienation|异化]]（[[Goh Chok Tong|吴作栋]]，Goh, 1997; Scott, 1995）
 > - **政策自主授权** 为推动[[Teach Less, Learn More|少教多学]]（TLLM），[[Singapore Ministry of Education|新加坡教育部]]推行留白空间（White Space）倡议，正式授权学校和教师将高达 20% 的正式课程课时自由支配，用于校本特色课程或探究性学习。
-> - **[[Institutional Isomorphism|制度同构]]吸纳** 实证调查与访谈显示，这 20% 的留白时间迅速转化为巩固知识点、加码模拟考刷题与查漏补缺的补习课时，偏离了预期的探究研讨设想。只要国家统考的题型难度与选拔功能保持刚性，给予基层的课时自主权必然被应试焦虑机制重新吸纳，呈现典型的组织社会学[[Institutional Isomorphism|制度同构]]与惯性复制。
+> - **[[Institutional Isomorphism|制度同构]]吸纳** 实证调查与访谈显示，这 20% 的留白时间迅速转化为巩固知识点、增加模拟考试演练与查漏补缺的补习课时，偏离了预期的探究研讨设想。只要国家统考的题型难度与选拔功能保持刚性，给予基层的课时自主权必然被应试焦虑机制重新吸纳，呈现典型的组织社会学[[Institutional Isomorphism|制度同构]]与惯性复制。
 
 > [!case] 制度性同化案例：留白空间（White Space）倡议被应试训练挤占
 > **政策设计** [[Singapore Ministry of Education|新加坡教育部]]在 TLLM 框架下扣减 20% 统一大纲内容，设立 20% 课程留白，旨在为教师提供探索非应试、以学习者为中心的教学实验空间。
-> **[[Alienation|异化]]过程** 实证调查与访谈显示，这 20% 的留白时间迅速转化为巩固知识点、加码模拟考刷题与查漏补缺的补习课时，偏离了预期的探究研讨设想。
+> **[[Alienation|异化]]过程** 实证调查与访谈显示，这 20% 的留白时间迅速转化为巩固知识点、增加模拟考试演练与查漏补缺的补习课时，偏离了预期的探究研讨设想。
 > **体制归因** 只要国家统考的题型难度与选拔功能保持刚性，给予基层的课时自主权必然被应试焦虑机制重新吸纳。这构成了典型的组织社会学[[Institutional Isomorphism|制度同构]]与惯性复制（Scott, 1995）。
 
-> [!sub-claim] 3. 绝大多数教师承认考试逼迫自己采用违背专业理念的教法
+> [!sub-claim] 3. 绝大多数教师反映考试压力促使其采用违背专业理念的教学方式
 
-> [!result-reading] 教师统考信念测查与专业自主权规锁（Powell & DiMaggio, 1991）
+> [!result-reading] 教师统考信念测查与专业自主权受限（Powell & DiMaggio, 1991）
 > - **决定性教学支配** 面向 120 名中三教师的问卷调查显示，高达 92.5% 的教师赞同统考对其实际教学方式具有决定性支配（均分 4.11）。
 > - **创新意愿与机会受限** 超过 84% 的教师明确指出考试严重限制了尝试新教学法（均分 3.64）与新评估方式（均分 3.63）的制度机会与专业意愿。
 > - **专业理念的异化屈从** 更有 3.46 均分的教师坦承考试迫使其采取违背自身专业教育信念的教学方式，而维护教学高标准的认同均分仅为 2.58，印证制度问责对微观实践的刚性同构规制。
@@ -509,7 +509,7 @@ issuing_organization: ""
 > [!mechanism] 早期同质分流对阶层不平等的复合放大机制（Cheng, 1996; Hogan et al., 2011）
 > - **先备考分的压倒性预测力** 结构方程[[Causality|因果推断]]表明，小六离校考试（PSLE）先备成绩是预测中三学业成就最强且压倒性的变量。
 > - **班级层面的同伴构成放大效应** 在班级聚合层面（L2），社会阶层背景对中三成绩产生极其显著的直接与间接影响。分流体系将相似家庭背景与学术水平的学生集中，造成极其显著的班级同伴构成效应。
-> - **制度安排固化阶层区隔** 新加坡以分流为核心的制度安排并未熨平阶级差距，反而通过过早的高利害测试与分轨机制，在学校与班级层面复合放大了家庭资本的不平等。
+> - **制度安排固化阶层区隔** 新加坡以分流为核心的制度安排并未缩小阶层差距，反而通过过早的高利害测试与分轨机制，在学校与班级层面复合放大了家庭资本的不平等。
 
 ---
 
@@ -517,7 +517,7 @@ issuing_organization: ""
 > 1. **教学杂糅构成实践常态** 新加坡教师广泛采用整合传统讲授、显性直接教学与理解策略的杂糅形态，超越了非此即彼的理论教条。
 > 2. **因果层级依赖高度稳固** 结构方程全模型确证了传统教学 $\rightarrow$ 直接教学 $\rightarrow$ 理解性教学 $\rightarrow$ 共同调节学习逐级递进的单向递归因果链条。
 > 3. **可见学习与学生主体性全面压制** 课堂任务设置狭隘封闭，除先备知识检核外，对话研讨、元认知调节与认识论主体性全线低迷。
-> 4. **高利害统考体制构成刚性制度规锁** 统考问责机制锁定了以大纲覆盖和应试操练为主的教学模式，致使少教多学（TLLM）改革在实践中与课堂现实脱节。
+> 4. **高利害统考体制构成刚性制度约束** 统考问责机制强化了以大纲覆盖和习题操练为主的教学模式，致使少教多学（TLLM）改革在实践中难以全面铺开。
 
 > [!stat-cards]- 核心数据
 > - **4000+** 样本容量：覆盖新加坡 32 所公立中学，120 间学术班级（数学 $N=1166$，英语 $N=1027$）。
@@ -533,7 +533,7 @@ issuing_organization: ""
 >
 > *Teachers in Singapore draw from a variety of instructional perspectives in ways that reflect their pragmatic, instrumental fit-for-purpose approach and broader performative orientation ... this non-sectarian pragmatism and hybridity is neither culturally or institutionally innocent but reflects the play of powerful vernacular discourses and the complex articulation of instructional practices in response to the national high stakes assessment system.*
 
-> [!citation-card] Hogan et al. 论国家高利害统考对教学改革的刚性规锁
+> [!citation-card] Hogan et al. 论国家高利害统考对教学改革的刚性制度约束
 > 现行高利害考试体系在多年间确实提升了教与学的达标标准，但如今它明显抑制并限制了教师按照当前政策偏好改变教学实践的意愿与机会。在客观效果上，现行评价体系激励并奖赏了那些能够最大化考试成绩的教与学方式，而非国家政策文件所呼吁的、通常与理解性教学框架紧密相关的教学形态。
 >
 > *So while the current assessment system has improved teaching and learning standards over the years, it now appears that the current assessment regime inhibits or constrains the willingness and opportunity of teachers to change their instructional practices in line with current policy priorities ... In effect, the current assessment regime incentivizes and rewards teachers to teach in ways that maximize assessment performance rather than the kinds of teaching and learning called for in national policy documents.*

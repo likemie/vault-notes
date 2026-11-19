@@ -89,7 +89,7 @@ title: "Argument_Indrarajah_2026_NJCIE"
 argument_key: "Argument_Indrarajah_2026_NJCIE"
 argument_display_title: "Challenging neocoloniality in Southeast Asian higher education: Charting the ASEAN way of regionalization through a decolonial lens"
 argument_kind: "journal-article"
-argument_related_count: 53
+argument_related_count: 52
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"

@@ -55,7 +55,8 @@ html body .callout.callout.callout.callout.callout[data-callout="claim"][data-ca
 }
 
 /* ---------------------------------------------------------------------
-   子论点：[!sub-claim] 只有标题的扁平条。左侧色条 + 放大衬线标题 + 平面浅底
+   子论点：[!sub-claim] 支持纯标题条，亦支持容纳正文论述。
+   无正文时自动隐藏空内容区；有正文时自适应展开浅底衬线卡片，正文与标题虚线轻量分隔。
    --------------------------------------------------------------------- */
 html body .callout.callout.callout.callout.callout[data-callout="sub-claim"] {
   --callout-color: 63, 129, 119;
@@ -87,7 +88,29 @@ html body .callout.callout.callout.callout.callout[data-callout="sub-claim"] > .
 }
 html body .callout.callout.callout.callout.callout[data-callout="sub-claim"] > .callout-title .callout-title-inner::before,
 html body .callout.callout.callout.callout.callout[data-callout="sub-claim"] > .callout-title .callout-title-inner::after { content: none !important; display: none !important; }
-html body .callout.callout.callout.callout.callout[data-callout="sub-claim"] > .callout-content { display: none !important; }
+
+/* 内容区：无内容时隐藏，有内容时以虚线优雅隔开，字体自然呈现 */
+html body .callout.callout.callout.callout.callout[data-callout="sub-claim"] > .callout-content {
+  margin-top: .55rem !important;
+  padding: .5rem 0 .15rem 0 !important;
+  border-top: 1px dashed rgba(var(--callout-color), .25) !important;
+  font-family: var(--font-text) !important;
+  font-size: .95em !important;
+  line-height: 1.72 !important;
+  color: var(--text-normal) !important;
+}
+html body .callout.callout.callout.callout.callout[data-callout="sub-claim"] > .callout-content > :first-child {
+  margin-top: 0 !important;
+}
+html body .callout.callout.callout.callout.callout[data-callout="sub-claim"] > .callout-content > :last-child {
+  margin-bottom: 0 !important;
+}
+html body .callout.callout.callout.callout.callout[data-callout="sub-claim"] > .callout-content:is(:empty, :not(:has(*))) {
+  display: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+}
 
 /* Obsidian 会把“1. …”形式的标题解析成有序列表：去掉缩进，编号着色 */
 html body .callout.callout.callout.callout.callout[data-callout="sub-claim"] > .callout-title .callout-title-inner :is(ol, ul) {

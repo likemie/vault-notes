@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Hogan_2013_ROE",
+      "path": "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+    },
+    {
+      "basename": "Folk Pedagogy",
+      "path": "wiki/concepts/instruction-pedagogy/Folk Pedagogy.md"
+    },
+    {
       "basename": "Argument_Gopinathan_2007_GSE",
       "path": "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Goh Report",
       "path": "wiki/facts/singapore/Goh Report.md"
-    },
-    {
-      "basename": "template-argument",
-      "path": "wiki/templates/template-argument.md"
-    },
-    {
-      "basename": "Development Economics Vice Presidency",
-      "path": "wiki/facts/global/Development Economics Vice Presidency.md"
     }
   ],
   "omittedPaths": [],
