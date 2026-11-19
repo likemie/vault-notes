@@ -3,6 +3,7 @@ title: Habitus
 aliases:
   - 惯习
   - 习性
+  - 生存心态
 summary: "Pierre Bourdieu 实践理论的核心枢纽概念，指行动者在特定社会生存条件中具身化的持久行为倾向系统，用于解释客观结构、身体实践与阶层再生产。"
 type: concept
 domain: "sociology-of-education"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-11-17
+updated: 2026-11-19
 ---
 
 ---
@@ -199,6 +200,7 @@ updated: 2026-11-17
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 将阶层惯习操作化为目标掌控与直觉依赖模式（第三章），在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]论述再社会化重塑，在[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|第五章]]分析学校化惯习，并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|第六章]]论述惯习裂化的叙事弥合路径。
+> - [[Argument_Xie_2017_PKUER|谢爱磊 (2017)]] — 借助生存心态视角解构中国农村底层教育观念，揭示宏观机会结构如何转化为分层教育期望与实践理性防御。
 > - [[Argument_Eacott_2011_JEAH|Eacott (2011)]] — 追踪澳大利亚公立学校校长在教育价值守正与绩效考核问责之间的领导惯习分裂。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 探讨地方教育行动者如何在既有制度常识与实践惯性中[[Recontextualization|再情境化]]跨国政策[[Paradigm|范式]]。
 

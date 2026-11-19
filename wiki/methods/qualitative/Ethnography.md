@@ -93,7 +93,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-30
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 > [!def] Ethnography
@@ -165,7 +165,7 @@ updated: 2026-11-11
 
 > [!method-fit] 适用判断
 > - **适合使用** 探究复杂[[Organizational Culture|组织文化]]、校园隐性文化与弱势群体生活世界；揭示[[Transnational Education|跨国教育]]政策在地方学校中的具体运行机制（Monkman & Baird, 2002; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 108–110]]）；追踪教育改革的非预期后果与微观抵制（如 Beech & Artopoulos, 2015 对阿根廷 [[Conectar Igualdad]] 的三年民族志追踪）。
-> - **谨慎使用** 极具对抗性或法律高风险的闭锁现场；研究者与被研究对象存在直接利益冲突或严重心理创伤的情境。
+> - **谨慎使用** 极具对抗性或法律高风险的封闭现场；研究者与被研究对象存在直接利益冲突或严重心理创伤的情境。
 > - **不适合使用** 追求全域人口统计推论的宏观[[Questionnaire|问卷调查]]；验证孤立因果效应的[[Randomised Controlled Trials|随机对照实验]]；周期极短（数周内必须结项）的咨询项目。
 
 ---
@@ -197,6 +197,7 @@ updated: 2026-11-11
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011)]] — 经典教育研究方法教材，系统阐述民族志的[[Epistemology|认识论]]基础、12 阶段实施规程、实地进入角色演变及有效性判准。
+> - [[Argument_Xie_2017_PKUER|谢爱磊 (2017)]] — 在中部县域开展为期一年的教育民族志田野工作，采用撒大网策略与四类田野日志，从内部人视角探究底层教育观念。
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — [[Qualitative Research|质性研究]]设计专著，详细介绍文化共享群体界定、民族志提问分类法（Spradley）及[[Critical Ethnography|批判民族志]]定位。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 评述多项比较教育人类学民族志经典（Demerath, 1999; Anderson-Levitt, 2003, 2004; Stacki, 1999），论证民族志作为揭示全球化微观运行机制的核心工具，并剖析单点田野与宏观体系分析之间的尺度张力。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 128, 130–131)]] — 考证比较教育学研究策略的演进，指出民族志等常规社会[[Scientific Method|科学方法]]的激增标志着学科摆脱[[Primary and Secondary Documents|二手文献]]综述；将民族志确立为打破战后单一功能主义霸权的 26 种重要[[Paradigm|范式]]传统之一。

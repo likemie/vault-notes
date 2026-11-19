@@ -5,7 +5,7 @@ aliases:
   - 农村学校布局调整
   - rural school closure
   - school merger in rural China
-summary: "自 2000 年代起中国大规模关闭合并农村小学与教学点的政策，至 2022 年间累计裁撤 83% 的农村小学，其主导逻辑由早期资源效率优化转变为将教育作为农村人口导入城镇的教育城镇化战略。"
+summary: "自 2000 年代起中国大规模撤并农村小学与教学点的政策，至 2022 年间累计裁撤 83% 的农村小学，其主导逻辑由早期资源效率优化转变为将教育作为农村人口导入城镇的教育城镇化战略。"
 type: fact
 subtype: policy
 region: china
@@ -66,6 +66,7 @@ updated: 2026-11-19
 > [!stat-cards]- 布局调整核心数据
 > - **83%** 2000 年至 2022 年间中国农村小学数量的累计降幅，导致大量农村儿童失去了在家门口就近入学的地理条件。[[Argument_Teng_2025_CE|Teng and Wang (2025, p. 304)]]（引自 Ministry of Education 2022）
 > - **440,284 → 76,093** 2000 年至 2022 年间中国农村小学总数的变化（所）。[[Argument_Teng_2025_CE|Teng and Wang (2025, p. 304)]]（引自 Ministry of Education 2022）
+> - **603 → 358 → 200** 1989 年、2000 年与 2013 年间中部中县小学总数的锐减轨迹，展现了中西部县域布局调整推行中剧烈的学校裁撤幅度。[[Argument_Xie_2017_PKUER|谢爱磊 (2017, p. 98)]]
 
 > [!actor-grid] G 县的撤并案例运作
 > - **村级小学行政关停** 在湖北 G 县，2022 年村级学校 Village School 8 被地方政府行政关闭，绝大多数在读生源被迫面临分流，被强制划片至新建的城内 School X 就读。[[Argument_Teng_2025_CE\|Teng and Wang (2025, pp. 306–307)]]
