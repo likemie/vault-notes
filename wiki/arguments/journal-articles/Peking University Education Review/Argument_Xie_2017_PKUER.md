@@ -10,6 +10,8 @@ doi: "10.19355/j.cnki.1671-9468.2017.03.005"
 citation_aliases:
   - "谢爱磊, 2017"
   - "谢爱磊 (2017)"
+  - "Xie, 2017"
+  - "Xie (2017)"
 isbn: ""
 tags:
   - theme/sociology-of-education
@@ -22,6 +24,9 @@ related_concepts:
   - "[[Habitus]]"
   - "[[Academic Achievement]]"
   - "[[Phronesis]]"
+  - "[[Stereotype Threat]]"
+  - "[[Blaming the Victim]]"
+  - "[[Opportunity Structure]]"
   - "[[Educational Expectations]]"
   - "[[Paradigm]]"
   - "[[Emic and Etic]]"
@@ -30,8 +35,10 @@ related_concepts:
   - "[[School Choice]]"
   - "[[Cultural Capital]]"
   - "[[Counter-School Culture]]"
+  - "[[Burden of Acting White]]"
   - "[[Credential Inflation]]"
   - "[[Falsification]]"
+  - "[[Educational Meritocracy]]"
   - "[[The Sublime]]"
   - "[[Reflexivity]]"
   - "[[Educational Level]]"
@@ -48,8 +55,11 @@ related_instruments: []
 related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[Diane Reay]]"
+  - "[[Annette Lareau]]"
+  - "[[Randall Collins]]"
   - "[[Paul Willis]]"
 related_facts:
+  - "[[Rural School Consolidation]]"
   - "[[Zhongkao]]"
   - "[[Gaokao]]"
 related_arguments: []
@@ -65,7 +75,7 @@ title: "Argument_Xie_2017_PKUER"
 argument_key: "Argument_Xie_2017_PKUER"
 argument_display_title: "“读书无用”还是“读书无望”——对农村底层居民教育观念的再认识"
 argument_kind: "journal-article"
-argument_related_count: 30
+argument_related_count: 38
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -82,7 +92,7 @@ journal: "北京大学教育评论"
 
 > [!concept-lens] 阅读透镜
 > - **对象** 中部地区中县农村居民在基础教育布局调整、高等教育大众化扩张与城乡劳动力市场转型时期的学业投资决策、教育观念及代际流动策略。
-> - **张力** 外部病理化归因（将底层辍学归咎于反智主义情绪、认知短视或[[Stereotype Threat|刻板印象威胁]]下的心理劣势内化）同内部实践理性（底层行动者基于机会结构固化、投入产出严重失衡与社会资本匮乏的清醒计算）之间的认知分歧。
+> - **张力** 外部病理化归因（将底层辍学归咎于反智主义情绪、认知短视或[[Stereotype Threat|刻板印象威胁]]下的心理劣势内化，构成[[Blaming the Victim|归咎受害者]]话语）同内部实践理性（底层行动者基于[[Opportunity Structure|机会结构]]固化、投入产出严重失衡与社会资本匮乏的清醒计算）之间的认知分歧。
 > - **贡献** 提出“[[Hopelessness in Schooling|读书无望]]”分析概念替代“读书无用论”，将[[Pierre Bourdieu|布迪厄]]的生存心态概念推进至中国转型社会的动态实践情境，系统阐明宏观机会结构转化为分层主观[[Educational Expectations|教育期望]]的微观机制，确立了底层教育退却的防御性实践理性[[Paradigm|范式]]。
 
 ---
@@ -91,7 +101,7 @@ journal: "北京大学教育评论"
 > | 理论工具 | 解释功能 |
 > |---|---|
 > | **[[Habitus\|生存心态（Habitus）]]**<br>[[Pierre Bourdieu\|皮埃尔·布迪厄（Pierre Bourdieu）]] | 实践理论的核心构念，指行动者在特定生存境遇中内化形成的持久行为倾向系统；既受历史社会条件的塑构，又具备源于日常实践的生成性与情境反思性，在客观机会结构与主观期望之间充当生成中介 (Bourdieu, 1977, 1984, 1990)。 |
-> | **机会结构（Opportunity Structure）**<br>萨缪尔·鲍尔斯与赫伯特·金蒂斯（Bowles & Gintis, 1976） | 制度安排与劳动力市场界定的教育准入、优质资源占有与社会流动渠道，构成了行动者评估可行生活机遇与学业天花板的客观现实边界 (Bowles & Gintis, 1976; Hurn, 1978)。 |
+> | **[[Opportunity Structure\|机会结构（Opportunity Structure）]]**<br>萨缪尔·鲍尔斯与赫伯特·金蒂斯（Bowles & Gintis, 1976） | 制度安排与劳动力市场界定的教育准入、优质资源占有与社会流动渠道，构成了行动者评估可行生活机遇与学业天花板的客观现实边界 (Bowles & Gintis, 1976; Hurn, 1978)。 |
 > | **[[Rational Action Theory\|实践理性（Practical Rationality）]]**<br>[[Diane Reay\|戴安·雷伊（Diane Reay）]] | 行动者在特定生存境遇中依据自身资本存量、教育投资风险与流动胜率展开的现实权衡，区别于脱离具体情境的抽象效用最大化核算，也区别于非理性的阶级反抗情绪 (Reay, 2004)。 |
 
 > [!warrant]- 理论如何支撑论证
@@ -197,7 +207,7 @@ journal: "北京大学教育评论"
 
 > [!tension] 美好愿望与现实期望的结构性脱节
 > - **学业希望（美好愿望）** 底层农民家庭普遍渴望子女通过上大学改变命运、脱离繁重体力劳动，对高等教育的流动价值抱有深切期待。
-> - **现实期望（理性算计）** 清楚认识到自身经济窘迫、外出打工陪伴缺位及缺乏辅导能力，在现实权衡下主动克制升学预期 (Lareau, 2000; Mills, 2000)。
+> - **现实期望（理性算计）** 清楚认识到自身经济窘迫、外出打工陪伴缺位及缺乏辅导能力，在现实权衡下主动克制升学预期 ([[Annette Lareau|Lareau, 2000]]; Mills, 2000)。
 
 > [!factors] 压低底层家长现实期望的家庭资源瓶颈
 > - **亲职照料与学业监督缺位** 全县近 30 万外出务工人口无法将子女带往流入地就读，造成长期的日常关照与课业督导空白。
@@ -207,7 +217,7 @@ journal: "北京大学教育评论"
 > [!sub-claim] 2. 优势家庭凭借辅导与财力维持高期望，普通农户普遍预期子女提前分流
 
 > [!actor-grid] 中县两类家庭的资本禀赋与期望形成模式
-> - **优势阶层家庭（干部、专业技术与经济精英）** 凭借稳定收入、丰厚文化资本与充沛陪伴时间，明确设定重点大学目标，实施全程课业监督与深度学业支持。
+> - **优势阶层家庭（干部、专业技术与经济精英）** 凭借稳定收入、丰厚文化资本与充沛陪伴时间，明确设定重点大学目标，实施类似[[Annette Lareau|安妮特·拉鲁（Annette Lareau）]]所指的协同培养策略，提供全程课业监督与深度学业支持。
 > - **底层弱势家庭（普通农户与留守务工者）** 在社区日复一日的观察中确认普通高中或中职为本阶层常规终点，将客观阶层劣势内化为提前分流就业的心理倾向。
 
 > [!row-contrast] 中县不同阶层家庭的资本禀赋、学业支持与期望形成对比
@@ -230,7 +240,7 @@ journal: "北京大学教育评论"
 ---
 
 > [!claim|step] 论证步骤三　“[[Hopelessness in Schooling|读书无望]]”是底层家庭权衡高学费与就业风险后的理性自保
-> 弱势家庭缩减教育投资与让子女提前打工，是在权衡民办高校高昂学费与普通文凭就业困境后的清醒抉择，体现了清晰的实践理性 (Collins, 1979; Ryan, 1976)。
+> 弱势家庭缩减教育投资与让子女提前打工，是在权衡民办高校高昂学费与普通文凭就业困境后的清醒抉择，体现了清晰的实践理性 ([[Randall Collins|Collins, 1979]]; [[Blaming the Victim|Ryan, 1976]])。
 
 > [!sub-claim] 1. 农村家庭高度认同读书的价值，但难以承受高昂学费与失业风险
 
@@ -241,7 +251,7 @@ journal: "北京大学教育评论"
 
 > [!threat] 普通高校教育投资的财务沉没与文凭贬值风险
 > - **昂贵学费吞噬家庭积蓄** 民办三本与高职院校年学费高达 10,000–20,000 元，连同生活开销几乎耗尽农民工全年的辛苦务工所得。
-> - **[[Credential Inflation|文凭通胀]]与就业关系门槛** 文凭贬值导致普通本专科文凭就业溢价缩水，缺乏人脉关系的底层大学毕业生面临毕业即失业的直接困境 (Collins, 1979; 李涛和邬志辉, 2015)。
+> - **[[Credential Inflation|文凭通胀]]与就业关系门槛** 文凭贬值导致普通本专科文凭就业溢价缩水，缺乏人脉关系的底层大学毕业生面临毕业即失业的直接困境 ([[Randall Collins|Collins, 1979]]; 李涛和邬志辉, 2015)。
 
 > [!sub-claim] 2. 底层家庭面临双重困境：既考不上好大学，拿了普通文凭也难找好工作
 

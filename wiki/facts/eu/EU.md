@@ -83,8 +83,8 @@ related_arguments:
   - "[[Argument_Rambla_2022_Springer]]"
   - "[[Argument_Alexiadou_Rambla_2023_EERJ]]"
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
-  - "[[Argument_Haubrock_2026_NHB]]"
   - "[[Argument_Dang_2017_ORE]]"
+  - "[[Argument_Haubrock_2026_NHB]]"
 confidence: high
 status: active
 created: 2026-10-16
@@ -111,7 +111,7 @@ updated: 2026-11-19
 >   - **1957** 签署《罗马条约》，确立共同体职业培训政策条款。
 >   - **1987** 启动“[[Erasmus Programme|伊拉斯谟计划]]”（Erasmus），开创泛欧跨国高校[[Student Mobility|学生流动]]网络。
 >
-> - **1992–2000** **条约合法化与软治理奠基期**
+> - **1992–2000** **条约合法化与软治理初创期**
 >
 >   《马斯特里赫特条约》首次将“教育”正式写入共同体条约文本，在确立[[Subsidiarity Principle|辅助性原则]]的同时启动了泛欧高等教育改革浪潮。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]
 >

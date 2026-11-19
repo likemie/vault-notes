@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Argument_Hammermeister_2002_Cambridge_Ch06",
-      "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md"
+      "basename": "Clique Percolation Method",
+      "path": "wiki/methods/quantitative/Clique Percolation Method.md"
     },
     {
-      "basename": "vault-schema",
-      "path": "vault-schema.md"
+      "basename": "Cluster Analysis",
+      "path": "wiki/methods/quantitative/Cluster Analysis.md"
     },
     {
       "basename": "Chi-Squared Test",
       "path": "wiki/methods/quantitative/Chi-Squared Test.md"
+    },
+    {
+      "basename": "Co-relational Study",
+      "path": "wiki/methods/quantitative/Co-relational Study.md"
+    },
+    {
+      "basename": "Cluster Sampling",
+      "path": "wiki/methods/quantitative/Cluster Sampling.md"
+    },
+    {
+      "basename": "Cluster Randomized Trials",
+      "path": "wiki/methods/quantitative/Cluster Randomized Trials.md"
+    },
+    {
+      "basename": "Argument_Hammermeister_2002_Cambridge_Ch06",
+      "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md"
+    },
+    {
+      "basename": "Visible Learning Branding and Global Influences",
+      "path": "wiki/facts/new-zealand/Visible Learning Branding and Global Influences.md"
+    },
+    {
+      "basename": "vault-schema",
+      "path": "vault-schema.md"
     },
     {
       "basename": "Argument_Xie_2017_PKUER",
@@ -169,36 +193,12 @@
       "path": "wiki/concepts/sociology-of-education/Educational Meritocracy.md"
     },
     {
-      "basename": "Visible Learning Branding and Global Influences",
-      "path": "wiki/facts/new-zealand/Visible Learning Branding and Global Influences.md"
-    },
-    {
       "basename": "Thinking Schools, Learning Nation",
       "path": "wiki/facts/singapore/Thinking Schools, Learning Nation.md"
     },
     {
       "basename": "ireader-work-access-master-plan-v4",
       "path": "file:/Users/shaoyangwu/Documents/zhangyue/ireader-work-access-master-plan-v4.md"
-    },
-    {
-      "basename": "ireader-reusable-components",
-      "path": "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/ireader-reusable-components.md"
-    },
-    {
-      "basename": "ireader-work-access-master-plan-v4",
-      "path": "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/ireader-work-access-master-plan-v4.md"
-    },
-    {
-      "basename": "ireader-work-access-master-plan-v3",
-      "path": "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/ireader-work-access-master-plan-v3.md"
-    },
-    {
-      "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch01",
-      "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md"
-    },
-    {
-      "basename": "Argument_Zheng_2023_ShanghaiSanlian",
-      "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian.md"
     }
   ],
   "omittedPaths": [],

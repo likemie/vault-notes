@@ -1315,6 +1315,10 @@
     {
       "sentence": "For example, we can plan to construct a school somewhere, and then some politician will 'take' the school and build it somewhere else [most often, in the home town or election base of the politician].",
       "target": "wiki/concepts/research-methodology/Construct.md"
+    },
+    {
+      "sentence": "然而，由于缺乏中央专职协调机构且驻外使馆人力严重不足，项目推进往往依赖元首互访而呈现脉冲式特征，技术标准推行遭遇中法规范冲突，回避审计跟踪增加了本土寻租与政治劫持风险，高校产学转化也面临公私边界模糊的制度困境，表明中国作为新兴援助国正处于学习曲线上的动态调试之中。",
+      "target": "wiki/methods/qualitative/Audit Trail.md"
     }
   ]
 }
