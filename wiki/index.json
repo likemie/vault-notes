@@ -47285,6 +47285,19 @@
     "subtype": "organization"
   },
   {
+    "title": "Singapore Workforce Development Agency",
+    "type": "fact",
+    "path": "wiki/facts/singapore/Singapore Workforce Development Agency.md",
+    "aliases": [
+      "新加坡劳动力发展局",
+      "劳动力发展局",
+      "WDA",
+      "Workforce Development Agency Singapore",
+      "Singapore WDA"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "All-Party Report on Chinese Education",
     "type": "fact",
     "path": "wiki/facts/singapore/All-Party Report on Chinese Education.md",
@@ -47318,6 +47331,19 @@
       "DSA",
       "Direct School Admission Singapore",
       "DSA-Sec"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Economic Review Committee 2002",
+    "type": "fact",
+    "path": "wiki/facts/singapore/Economic Review Committee 2002.md",
+    "aliases": [
+      "2002年经济检讨委员会",
+      "经济检讨委员会",
+      "ERC 2002",
+      "Economic Review Committee",
+      "Economic Review Committee Singapore"
     ],
     "subtype": "policy"
   },
@@ -47423,6 +47449,18 @@
       "小六离校考试",
       "小学离校考试",
       "PSLE"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Remaking Singapore Committee",
+    "type": "fact",
+    "path": "wiki/facts/singapore/Remaking Singapore Committee.md",
+    "aliases": [
+      "重塑新加坡委员会",
+      "重构新加坡委员会",
+      "Remaking Singapore",
+      "Remaking Singapore Report"
     ],
     "subtype": "policy"
   },

@@ -73,9 +73,12 @@ related_facts:
   - "[[National Institute of Education]]"
   - "[[Singapore National Education]]"
   - "[[Goh Report]]"
+  - "[[Economic Review Committee 2002]]"
+  - "[[Remaking Singapore Committee]]"
   - "[[School Cluster System]]"
   - "[[Singapore University Corporatisation]]"
   - "[[School Excellence Model]]"
+  - "[[Singapore Workforce Development Agency]]"
   - "[[Desired Outcomes of Education]]"
   - "[[First Masterplan for ICT in Education]]"
   - "[[Integrated Programme]]"
@@ -277,7 +280,7 @@ issuing_organization: ""
 > [!sub-claim] 2. 学校放权与大学改制只是治理手段，政府牢牢守住核心课程底线
 
 > [!def] [[Tactical Marketisation|战术性市场化]]（Tactical Marketisation）与远距离治理
-> 面对全球化冲击，新加坡强发展型国家在教育治理中主动采纳[[Tactical Marketisation|战术性市场化]]与战术性全球化策略（Koh, 2002; Mok & Tan, 2004）。政府通过推行[[School Cluster System|学校群网络分权]]、赋予校长办学自主权、实施[[Singapore University Corporatisation|公立大学公司化改制]]并批准有限的高端私立学校，运用远距离治理技术激发教育系统灵活性；这种对市场机制的工具性拥抱在维系国家控制的同时，使国家在动荡的外部环境中更隐蔽、更高效地牢牢统筹全局方向。
+> 面对全球化冲击与经济衰退，结合[[Economic Review Committee 2002|经济检讨委员会（ERC）]]与[[Remaking Singapore Committee|重塑新加坡委员会]]提出的国家治理转型建议，新加坡强发展型国家在教育治理中主动采纳[[Tactical Marketisation|战术性市场化]]与战术性全球化策略（Koh, 2002; Mok & Tan, 2004）。政府通过推行[[School Cluster System|学校群网络分权]]、赋予校长办学自主权、实施[[Singapore University Corporatisation|公立大学公司化改制]]并批准有限的高端私立学校，运用远距离治理技术激发教育系统灵活性；这种对市场机制的工具性拥抱在维系国家控制的同时，使国家在动荡的外部环境中更隐蔽、更高效地牢牢统筹全局方向。
 
 > [!row-contrast] 战术性市场化机制：放权举措与中央战略控制工具对照
 > | 改革领域 | 市场化／去中心化放权举措 | 国家保留的战略调控与约束工具 |
@@ -285,7 +288,7 @@ issuing_organization: ""
 > | **基础教育行政** | 设立[[School Cluster System\|学校群（School Cluster）治理网络]]，下放课程校本开发权与资源调配权 | 教育部委派学校群督学统领，依托[[School Excellence Model\|学校卓越成就模型]]（School Excellence Model, SEM）实施严密产出问责 |
 > | **高等教育体制** | 2005年推动[[Singapore University Corporatisation|新加坡国立大学与南洋理工大学公司化改制]]，赋予全球招聘与预算自主权 | 政府通过大学教育资助委员会掌控巨额核心财政拨款，直接锚定国家重大科技攻关课题 |
 > | **办学多元选择** | 批准成立英华[[International Schools\|国际学校]]与华中国际学校等2–3所私立高中，吸纳海外自费生与归国侨民 | 强制要求至少50%生源必须为新加坡公民，严格执行双语教育与[[Singapore National Education|国民教育]]法定规程 |
-> | **终身职业技能** | 人力部推行[[Manpower 21|人力21规划]]并于2003年设立[[Workforce Development\|劳动力发展]]局（Workforce Development Agency, WDA），整合市场力量推进成人职业[[Further Education\|继续教育]]与转岗培训 | 紧随国家经济发展局（EDB）确立的生物医药、物流与数字创意等支柱产业目录定向资助 |
+> | **终身职业技能** | 人力部推行[[Manpower 21|人力21规划]]并设立[[Singapore Workforce Development Agency|新加坡劳动力发展局（WDA）]]，整合市场力量推进成人职业[[Further Education\|继续教育]]与转岗培训 | 紧随国家经济发展局（EDB）确立的生物医药、物流与数字创意等支柱产业目录定向资助 |
 
 ---
 
