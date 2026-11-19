@@ -1,0 +1,788 @@
+=== PAGE 1 ===
+ Interkult. Forum dtsch.-chin. Kommun. 2026; 6(1): 1–22
+Xun Luo*
+From cooperation to de-risking: The making 
+of “China Competence” in Germany’s policy 
+transformation (2015–2024)
+Von Kooperation zu De-Risking:  
+Die Konstruktion der „China-Kompetenz“ im 
+Zuge des politischen Wandels in Deutschland 
+(2015–2024)
+https://doi.org/10.1515/ifdck-2026-0005
+Abstract: Over the past decade, the German federal government has established the 
+“China Competence” initiative both as a funding policy instrument and as a central 
+pillar of its China strategy. Despite extensive funding schemes and sustained aca -
+demic debate, it remains unclear how “China Competence” is conceptually defined 
+and practically operationalized. Drawing on a retrospective policy analysis cover -
+ing the period from 2015 to 2024, this article examines the discursive and prac -
+tice-based construction and transformation of “China Competence” within funding 
+governance. The analysis operates across three interrelated analytical levels: polit-
+ical decision-makers, funding recipients, and funded actsivities. The findings reveal 
+a two-phase yet closely intertwined development trajectory: an initially coopera -
+tion-oriented phase centered on cultural understanding, language acquisition, and 
+trust building, followed by a strategic reorientation toward de-risking, security gov-
+ernance, legal compliance, and policy-relevant expertise. On this empirical basis, 
+the study advances a conceptual model that reconstructs “China Competence” as a 
+dynamic concept constituted through discourse and practice. It further highlights 
+the growing ambivalence faced by German higher education institutions as they 
+navigate the tension between logics of cooperation and de-risking in contemporary 
+Sino-German academic relations.
+Keywords: China Competence, China policy, funding policy, Sino-German relations, 
+de-risking
+*Corresponding author: Prof. Dr . Xun Luo, Chair of Intercultural Communication and Business, 
+School of Foreign Languages and Literatures, Justus Liebig University Giessen, Germany.  
+Email: xun.luo@anglistik.uni-giessen.de. https://orcid.org/0000-0001-5360-0016
+2026
+ Open Access. © 2026 the author(s), published by De Gruyter .  This work is licensed under the 
+Creative Commons Attribution 4.0 International License.
+
+=== PAGE 2 ===
+2   Xun Luo
+Zusammenfassung: In den vergangenen zehn Jahren hat die deutsche Bundesre -
+gierung die „China-Kompetenz“ Initiative sowohl als förderpolitisches Instrument 
+als auch als zentralen Bestandteil ihrer China-Strategie etabliert. Trotz umfangrei -
+cher Förderprogramme und wissenschaftlicher Debatten bleibt bislang offen, wie 
+„China-Kompetenz“ konzeptionell gefasst und praktisch umgesetzt werden kann. 
+Auf Grundlage einer retrospektiven Politikanalyse für den Zeitraum 2015 bis 2024 
+untersucht dieser Beitrag die diskursive und praxisbezogene Konstruktion sowie 
+Transformation von „China-Kompetenz“ innerhalb der Fördergovernance. Die 
+Analyse differenziert drei Ebenen: politische Entscheidungsträger , Förderemp -
+fänger sowie konkrete Fördermaßnahmen. Die Ergebnisse verweisen auf einen 
+zweiphasigen, jedoch eng verflochtenen Entwicklungspfad: eine anfänglich koope-
+rationsorientierte Phase mit Fokus auf kulturelles Verständnis, Spracherwerb und 
+Vertrauensaufbau, gefolgt von einer strategischen Neuausrichtung hin zu De-Ris -
+king, Sicherheitsgovernance, rechtlicher Compliance und politikrelevanter Exper -
+tise. Auf dieser empirischen Grundlage entwickelt die Studie ein konzeptionelles 
+Modell, das „China-Kompetenz“ als dynamisches, durch Diskurse und Praktiken 
+konstituiertes Konzept rekonstruiert. Zugleich wird auf die wachsende Ambivalenz 
+deutscher Hochschulen hingewiesen, die sich im Spannungsfeld zwischen Koope -
+rationslogik und De-Risking-Logik in den gegenwärtigen deutsch-chinesischen Wis-
+senschaftsbeziehungen bewegen.
+Stichwörter: China-Kompetenz, China-Politik, Förderpolitik, deutsch-chinesische 
+Beziehungen, De-Risking
+1  Introduction
+In October 2015, the German Federal Ministry of Education and Research (BMBF) 
+introduced the China Strategy 2015–2020, characterizing cooperation with China as 
+an “unmissable opportunity” (BMBF 2015a). This strategy underscored the signifi -
+cance of establishing trustworthy and reliable strategic partnerships with China in 
+scientific collaboration, aiming to secure Germany’s leadership in future technolog-
+ical innovation and economic prosperity (BMBF 2015a).
+To operationalize this vision, the BMBF coined the concept of “China Compe -
+tence” and launched a series of funding programs over the past decade to foster 
+this capability within German higher education (Bundesregierung 2024). Since 
+then, the initiative has assumed two interconnected roles: first, as both an instru -
+ment for – and a prerequisite to – achieving the objectives of the China Strategy 
+2015–2020; and second, as a policy goal guiding the design and implementation of 
+related funding programs.
+=== PAGE 3 ===
+ From cooperation to de-risking    3
+The release of the federal government’s new China Strategy in July 2023, 
+however , marked a significant shift in the framing and implementation of the 
+“China Competence” initiative. While reaffirming core elements such as Chinese 
+language proficiency, intercultural competence, and comprehensive knowledge of 
+contemporary China, the updated strategy expanded the concept to include aware-
+ness of China’s global engagement objectives and practical experience in navigating 
+its political system in the context of bilateral cooperation (Auswärtiges Amt 2023).
+Despite this refinement in policy discourse, systematic understanding remains 
+limited regarding how “China Competence” has been constructed through funding 
+governance and the practices of implementing actors. Furthermore, as the policy 
+frameworks guiding the “China Competence” initiative have evolved over time, it is 
+essential to examine how governance mechanisms have adapted to these shifts and 
+whether “China Competence” primarily functions to promote mutual understand -
+ing and trust or increasingly operates as a strategic and political instrument (Fricke 
+2022) within Sino-German relations.
+This paper proceeds as follows. The next section reviews existing scholarly 
+debates on “China Competence”. The subsequent section outlines the theoretical 
+framework and methodological approach, introducing the three-layer analytical 
+model and the corpus-based retrospective policy analysis. The following section 
+reports the empirical findings, tracing the evolution of the “China Competence” 
+initiative across two distinct policy phases. Drawing on these findings, a concep -
+tual model of “China Competence” is then developed. The final sections discuss 
+the broader implications of the policy transformation, outline avenues for future 
+research, and conclude with the study’s main theoretical and practical contribu -
+tions.
+2  Literature review on “China Competence”
+In its initial funding calls, the BMBF called for measures to foster “China Compe -
+tence” without providing a precise definition of the term (BMBF 2016). Building 
+on these suggestions, German universities and research institutions that received 
+funding to develop “China Competence” training programs spearheaded the first 
+academic discussions on its conceptual scope, theoretical foundations, and peda -
+gogical approaches (Thelen et al. 2022; Hu et al. 2021; Hou et al. 2022).
+In area studies, for instance, “China Competence” is typically conceptualized 
+as a broad, country-specific competence, covering comprehensive knowledge 
+of China’s politics, economy, science, law, culture and society. By contrast, sinol -
+ogy emphasizes proficiency in the Chinese language as both a prerequisite and 
+=== PAGE 4 ===
+4   Xun Luo
+foundation for deeper cultural understanding and the development of “China 
+Competence” (Zimmer 2021). Scholars in management and law adopt a different 
+perspective, highlighting the importance of professional expertise in facilitating 
+bilateral cooperation, as such expertise is essential for delivering practical solu -
+tions (Expertenkommission Forschung und Innovation 2020; Stepan/Frenzel 2021).
+Other scholars approached “China Competence” as a set of practical skills. Zimmer 
+(2021) for instance, observes that professionals with extensive experience living 
+or working in China  – despite limited language proficiency  – often demonstrate 
+stronger judgment in problem-solving and collaboration with Chinese counter -
+parts. He argues that this judgment is a crucial component of “China Competence,” 
+one that can only be cultivated through processes of “socialization” within Chinese 
+culture (Zimmer 2021).
+Unlike perspectives that conceptualize “China Competence” as a mere aggrega -
+tion of knowledge or skills, Sinologist Guder foregrounds curiosity as its central 
+pillar – understood as a deep and sustained interest in the lived conditions, aspi -
+rations, values, and social environments of people in China (Kierst 2022). Drawing 
+on competence models in educational science, Robak (2021) further advances a 
+content-oriented framework for “China Competence”. Together , these disciplinary 
+perspectives have produced a more nuanced and multifaceted understanding of 
+the concept, thereby enriching the design and implementation of academic training 
+programs.
+3  Theoretical framework and methodology
+Unlike academic definitional debates, this study conceptualizes “China Compe -
+tence” not only as a stable or discipline-bound set of individual skills, but also as a 
+politically initiated policy concept whose meaning is institutionally embedded and 
+discursively constituted and transformed through funding governance and prac -
+tice. Accordingly, it examines how “China Competence” has been constructed and 
+reconfigured through government funding policy and funded activities between 
+2015 and 2024. Drawing on Lepori’s (2011) model of public funding systems, which 
+distinguishes four organizational layers and illustrates how policy rationalities 
+cascade through funding agencies, performing organizations, and project groups, 
+this study employs an adapted three-layer analytical framework.
+The first layer focuses on policy and policymakers, notably government bodies 
+such as the Federal Ministry of Education and Research (BMBF), which simulta -
+neously act as funding providers for the “China Competence” initiative. Informed 
+by interpretive approaches to policy, policy is treated here as a process of mean -
+=== PAGE 5 ===
+ From cooperation to de-risking    5
+ing-making rather than a purely instrumental response to pre-defined problems 
+(Yanow 2000). Funding policy texts  — including strategies, calls, guidelines and 
+think tank reports — are thus understood as discursive interventions that define 
+what “counts” as a policy problem and policy rationale, what is considered legiti -
+mate knowledge, and which actors are authorized to speak and act (Fischer 2003).
+The second layer examines policy implementers and funding recipients, most 
+notably higher education institutions (HEIs) and their affiliated project groups. To 
+systematically reconstruct actor constellations, role attributions, and governance 
+relationships within the “China Competence” initiative, the analysis draws on stake-
+holder analysis as a heuristic tool for mapping key actors and their institutional 
+positioning (Brugha/Varvasovszky 2000). This perspective allows for an examina -
+tion of how policy meanings articulated at the strategic level are operationalized, 
+coordinated, and mediated through funding governance structures.
+Building on this, the third layer adopts a practice-oriented perspective, con -
+ceptualizing “China Competence” as enacted and stabilized through funded pro -
+jects and activities. Drawing on practice theory, competence is understood as a 
+socially produced capacity that materializes in training formats, advisory services, 
+networks, compliance routines, and toolkits (Reckwitz 2002; Schatzki 2001). This 
+approach enables the study to derive an empirically grounded understanding of 
+“China Competence” based on concrete practices rather than solely on policy for -
+mulations.
+Methodologically, the study employs a retrospective policy analysis of the 
+“China Competence” initiative from 2015 to 2024. Retrospective approaches are 
+well established in policy research to trace trajectories, shifts, and causal contexts 
+of policy development (El-Jardali et al. 2014; Williams et al. 2009). Since policy pre -
+dominantly manifests in discourse or textual forms (Levinson et al. 2020), a corpus 
+of public documents was compiled to reconstruct the discursive and institutional 
+evolution of “China Competence” over time (Fischer 2003; Yanow 2000). Data were 
+collected through systematic Google searches using the German keyword “China 
+Kompetenz”, covering the period from October 2015 to May 2024. After screen -
+ing for relevance and quality, the final corpus comprised policy and government 
+reports (18), funding announcements (5), policy briefs and think tank reports (11), 
+guidelines and recommendations (4), news articles (26), as well as project websites 
+(24) maintained by funded institutions. Together , these diverse genres reflect the 
+broader policy-text ecology through which “China Competence” has been con -
+structed and institutionalized.
+Interpretive Policy Analysis provides the epistemological foundation for under-
+standing policy as a process of meaning-making (Yanow 2000), while qualitative 
+content analysis offers a systematic procedure for operationalizing this interpre -
+tive approach. Following the three-layer framework, qualitative content analysis 
+=== PAGE 6 ===
+6   Xun Luo
+(Mayring 2015) was conducted to identify recurring themes and shifts across the 
+corpus, including policymakers, policy motives, guiding policy documents, compe -
+tence components, funding recipients, and project activities. Temporal and com -
+parative analyses then traced discursive and institutional changes over time. By 
+integrating discourse-sensitive policy analysis with practice perspective, the study 
+develops a conceptual model that captures the dual and evolving nature of “China 
+Competence” beyond its programmatic and discipline-bound definitions.
+4  Findings
+The findings suggest that the development and implementation of “China Com -
+petence” policy over the past decade can be analytically divided into two distinct 
+phases. The first phase began with the BMBF’s publication of the China Strategy 
+2015–2020 and concluded with its premature termination in late 2019. The second 
+phase commenced in 2020 and extends to the present. Guided by the three-layer 
+analytical framework, the following sections delineate the defining features of each 
+phase across three dimensions: 1) policymakers and guiding policy documents; 2) 
+policy motives and objectives; and 3) funding recipients together with their imple -
+mented activities. Building on this phase-based analysis, a conceptual model of 
+“China Competence” is presented at the end of this chapter .
+4.1  First Phase: 2015–2019
+1)  Policymakers and guiding documents
+The development of “China Competence” was primarily guided by the China Strat-
+egy 2015–2020 , led by the BMBF . However , the Standing Conference of the Minis -
+ters of Education and Cultural Affairs of the States, along with the Federal Foreign 
+Office, also played active roles in shaping the policy (Kultusministerkonferenz et 
+al. 2018). Since educational policy at the primary and secondary levels falls under 
+the jurisdiction of the state ministries rather than the BMBF , close coordination 
+between the federal and state authorities was essential. Moreover , “China Compe-
+tence” extends beyond research and education policy overseen by the BMBF , inter-
+secting with cultural exchange policy under the mandate of the Federal Foreign 
+Office. Consequently, all three government bodies were actively involved in the 
+policymaking process, each within its respective domain of responsibility.
+=== PAGE 7 ===
+ From cooperation to de-risking    7
+2)  Policy motives and goals
+Following the establishment of diplomatic relations in 1972, Germany and China 
+signed a bilateral agreement in 1978 to promote cooperation in higher education 
+and scientific research. Since 2011, this collaboration has continued within govern-
+mental consultations, which emphasize expanding university research partner -
+ships, facilitating student and scholar exchanges, and advancing cooperation in 
+vocational education (Internationales Büro 2017a).
+With China’s growing influence in politics, the economy, science, and culture, it 
+has become Germany’s largest trading partner and a key actor on the international 
+political stage. Since 2000, cooperation between Germany and China in higher edu-
+cation has experienced rapid growth. By 2015, German and Chinese universities 
+had established more than 1,100 partnerships (BMBF 2015b), while the number of 
+Chinese students in Germany rose from 5,000 in 2000 to over 40,000 in 2023, making 
+them the largest group of international students at German universities until the 
+winter semester of 2022 (DAAD/DZHW 2015, 2023).
+By contrast, the number of German students enrolling in Chinese or Sinology 
+programs has steadily declined, with only about 500 new entrants in 2016. Similarly, 
+the number of German students studying in China has stagnated (Frenzel/Gode -
+hardt 2020). Although many German universities maintain close partnerships with 
+Chinese institutions, the expansion of research collaborations — and the establish -
+ment of new ones — has not kept pace with China’s rapid advances in science and 
+higher education.
+Notable asymmetries also characterize student mobility between the two coun-
+tries. Most Chinese students in Germany are self-funded and pursue full degree 
+programs, requiring proficiency in German and a minimum stay of three years to 
+complete their studies. Conversely, the majority of German students in China partic-
+ipate in short-term exchange programs of six to twelve months, with relatively few 
+pursuing full degrees outside of double-degree programs. Moreover , most German 
+students do not use Chinese as the language of instruction during their studies.
+In Germany, the institutional base for Chinese language acquisition remains 
+limited: only about 100 secondary schools offer Chinese as an elective foreign 
+language (Kierst 2022), with roughly 5,000 students enrolled annually. By con -
+trast, approximately 7 million students study English and 1.4 million study French 
+as electives (Frenzel/Godehardt 2020). This disparity is also evident in academic 
+exchanges. In 2015, more than 700 German scholars and researchers visited China; 
+by 2021, that number had fallen to just 120 — a decline of nearly 83 % (DAAD 2024).
+As China’s global influence continues to expand and the imbalance in Sino-Ger-
+man exchange in science and higher education deepens (Abels/Bode 2022; Rudyak 
+2021), the German government has become increasingly aware of critical gaps in its 
+=== PAGE 8 ===
+8   Xun Luo
+knowledge of China. In response, the Federal Ministry of Education and Research 
+introduced the China Strategy 2015–2020 and the “China Competence” funding pro-
+grams, aimed at cultivating a talent pool capable of bridging these gaps. These ini -
+tiatives also strive to establish robust information tracking systems for monitoring 
+advancements in China’s scientific research (BMBF 2015a).
+3)  Funding recipients and funded projects
+The inaugural “China Competence” funding program was launched in 2017. While 
+some funded projects extend into the second phase, all programs initiated before 
+2020 are classified as part of the first phase for the sake of analytical clarity. 
+Funding recipients during this phase included a panel of experts specializing in 
+China’s innovation research, as well as universities and research institutions. Their 
+funded activities are detailed in the following section.
+A)  Expert group
+To strengthen understanding of China’s innovation landscape, the BMBF launched 
+the German-Chinese Innovation Platform in 2017, forming a nine-member expert 
+group from academia and industry. The group analyzed China’s innovation policies, 
+advised on Sino-German cooperation, and contributed to government dialogues 
+(Internationales Büro 2011). Between 2017 and 2019, it issued four policy briefs on 
+topics such as the evolution of China’s innovation system, science and industry pol-
+icies, technology transfer , market prospects, data protection, and high-tech invest-
+ments (Deutsches Zentrum für Luft- und Raumfahrt 2017, 2018a, 2018b, 2019)
+B)  Universities and research institutions
+Between 2017 and 2022, the BMBF’s program “Developing China Competence at 
+German Universities” (BMBF 2016) funded 11 universities (see Table 1) to institu -
+tionalize “China Competence” through China centers, advisory programs, language 
+and culture courses, intercultural training, student exchanges, and joint curricula 
+with Chinese universities (Internationales Büro 2017b). Alumni, as pivotal facilita -
+tors of Sino-German academic exchange, have garnered significant attention from 
+funding bodies. The German-Chinese Alumni Program (2017–2023) supported seven 
+universities and one research institution in building discipline-based networks 
+across fields such as the humanities, logistics, business, urbanization, neurosci -
+ence, and medicine, fostering ties with professional associations and enabling new 
+collaborations (Kooperation International 2017). At the school level, Heidelberg 
+University’s Department of Sinology launched the China School Academy (2019–
+=== PAGE 9 ===
+ From cooperation to de-risking    9
+2024), developing teaching materials and teacher training programs for Chinese 
+as a foreign language, thereby expanding “China Competence” among pupils and 
+educators (China-Schul-Akademie, 2019).
+4.2  Second Phase: 2020–2024
+1)  Policymakers and guiding documents
+By late 2019, the China Strategy 2015–2020, initially introduced by the German Federal 
+Ministry of Education and Research (BMBF), was prematurely discontinued and 
+removed from the ministry’s website (Bundesregierung 2024). It was replaced by 
+the Federal Government’s China Strategy, drafted by the Federal Foreign Office and 
+officially released in July 2023 (Auswärtiges Amt 2023). Unlike its predecessor , which 
+largely reflected the BMBF’s priorities, the new strategy provides a comprehensive 
+framework for the federal government’s overall approach to China. This transition 
+marks a shift in leadership over “China Competence” development from the BMBF to 
+the Federal Foreign Office, indicating a broader and more integrated policy direction.
+2)  Policy motives and goals
+In the second phase, the German federal government redefined its approach to 
+Sino-German relations, framing China simultaneously as a partner , competitor , and 
+systemic rival (Auswärtiges Amt 2023). Within this revised framework, the objec -
+tive of “China Competence” development shifted from promoting cooperation to 
+prioritizing strategic competition and risk mitigation – a process widely described 
+as “de-risking”. This approach highlights the safeguarding of Germany’s core inter-
+ests and values (Auswärtiges Amt 2023).
+Concerns about Chinese state influence, particularly through Confucius Insti -
+tutes, have prompted revisions to the concept of “China Competence” under the 
+new China Strategy (Müller 2023). The updated policy calls explicitly for cultivat -
+ing “independent China Competence”, emphasizing the protection of academic 
+freedom in German higher education and the importance of critical engagement 
+with China (BMBF 2021b).
+In accordance with this strategic reorientation, the BMBF continues to under -
+score the value of scientific and educational cooperation with China but now 
+restricts support to collaborations that provide clear added value for Germany and 
+Europe – particularly in fields such as climate change and environmental protec -
+tion. Conversely, partnerships in high-tech sectors involving dual-use technologies 
+=== PAGE 10 ===
+10   Xun Luo
+and artificial intelligence have been subject to heightened regulatory scrutiny, par-
+ticularly when associated with concerns over surveillance or normative standards 
+(Auswärtiges Amt 2023; BMBF 2023).
+This policy shift reflects broader changes in political discourse within Germany 
+and the European Union (see Figure 1). Its origins can be traced back to the European 
+Commission’s “EU-China: A Strategic Outlook (March 2019)”, the first official EU doc-
+ument to characterize China not only as a partner in economic interests and a com-
+petitor in technological leadership, but also as a systemic rival advancing an alterna-
+tive governance model (European Commission 2019). This recalibration of EU’s China 
+policy prompted Germany to reassess its own approach to China, ultimately leading 
+to the premature termination of the BMBF’s “China Strategy 2015–2020” and marking 
+the conclusion of the first phase of “China Competence” development.
+It is noteworthy that the release of the new China strategy was delayed until 
+2023. While the COVID-19 pandemic may have contributed to this postponement, 
+the transition of the federal government in late 2021 and the evolving political dis -
+course were decisive in shaping the strategy. In July 2020, for instance, the German 
+Institute for International and Security Affairs (SWP) issued a policy report calling 
+for a broader approach to “China Competence.” The report argued that its develop-
+ment should extend beyond higher education policy, be coordinated across federal 
+ministries, and be framed simultaneously as an educational and foreign policy ini-
+tiative (Frenzel/Godehardt 2020).
+Similar concerns were raised by the Christian Democratic Union (CDU) and the 
+Christian Social Union (CSU), the largest opposition parties in the Bundestag at the 
+time. In a strategic paper published in April 2023, they underscored the urgency of 
+developing “independent China Competence” to strengthen Germany’s capacity for 
+risk assessment in its cooperation with China (Mayer-Kuckuk 2023). Their proposals 
+included the establishment of a “China Competence Center” under the Chancellor’s 
+Office to advise federal and state authorities, as well as mandatory “China Compe -
+tence” training for all new employees in top federal institutions within their first 
+two years of service – a model inspired by practices in the United Kingdom (May -
+er-Kuckuk 2023).
+3)  Funding recipients and funded projects
+Following the policy shift in the second phase, there has been a significant trans -
+formation in both the funding recipients and the funded activities. Unlike the first 
+phase, the range of actors and institutions engaged in policy implementation has 
+expanded beyond universities and research institutions to include public founda -
+tions, law firms, database service providers, think tanks, and the German Academic 
+=== PAGE 11 ===
+ From cooperation to de-risking    11
+Exchange Service (DAAD). These entities are particularly distinguished for their 
+legal expertise and policy consultation capabilities, which are deemed fundamen -
+tal for the development of “independent China Competence”. The following section 
+presents a detailed overview of each funding recipient and their respective pro -
+jects, as illustrated in Figure 2.
+A)  Universities and research institutions
+In the second phase of the “China Competence” initiative, universities and research 
+institutions continued to play a central role, focusing on advancing modern China 
+research and expanding competence in higher education. Two major research pro-
+grams were launched. The joint project Worldmaking from a Global Perspective: A 
+Dialogue with China (2020–2023), led by universities in Heidelberg, Munich, Göttin-
+gen, FU Berlin, and Würzburg, examined how notions of ‘world’ evolve in response 
+to political power shifts, particularly during global crises. Its subprojects addressed 
+the conceptual history of Chinese worlds, China’s cities as spaces of worldmaking, 
+Fig. 1: Key milestones in the policy shift of the “China Competence” initiative
+Fig. 2: Formation and implementation of the “China Competence” funding strategy
+
+=== PAGE 12 ===
+12   Xun Luo
+conceptions of world order , and narratives of crisis and change (Joint Center for 
+Advanced Studies 2020). The second program, Research on Current Social, Economic, 
+and Innovation Policy Developments in China (2021–2024), funded 13 of 79 proposals 
+to investigate topics such as innovation policy, corporate governance, higher educa-
+tion, digital transformation, and sustainability (Internationales Büro 2020).
+In 2023, the BMBF broadened its funding to further strengthen “China Compe -
+tence” in higher education institutions, with a focus on reducing regional dispar -
+ities through institutional networking and information exchange. Of 40 applica -
+tions, 11 university projects and one evaluation study (see Table 1) received three 
+years of support (BMBF 2021a; Internationales Büro 2023). Despite this expanded 
+outreach, the core activities of China centers and training programs remained cen-
+tered on language education, intercultural competence, and courses addressing 
+China’s political, economic, and legal systems.
+Tab. 1: BMBF-Funded Projects for the development of “China Competence” at German Universities 
+and Research Institutions
+
+=== PAGE 13 ===
+ From cooperation to de-risking    13
+B)  Public foundations
+In the second phase, public foundations emerged as new actors in advancing 
+“China Competence”. Through the BMBF-funded China-KoBe project (2020–2023), 
+outstanding students and doctoral candidates from Germany’s 13 talent promotion 
+foundations received scholarships and a three-year training program combining 
+preparatory courses in Germany, intensive Chinese language training, and oversea 
+semesters in China (Hans Böckler Stiftung 2020). Initially run jointly by the Hans 
+Böckler Foundation and the Foundation of the German Economy, the project has 
+been managed solely by the Hans Böckler Foundation since April 2023.
+C)  Legal firms and database services
+Aligned with the new China Strategy, security concerns have become central to 
+managing academic cooperation and competition with China. Legal expertise is 
+now considered a key component of “independent China Competence”. To support 
+universities, the BMBF has engaged law firms and database providers to offer legal 
+advice and partner background checks (Bundesregierung 2024). Several universi -
+ties have also integrated legal training into their “China Competence” programs, 
+stressing compliance with regulations, academic ethics, and research norms, and 
+urging clarification of legal issues before initiating cooperation (Universität Jena 
+2024). In response to rising economic competition, some universities have advo -
+cated the establishment of robust legal and institutional frameworks to mitigate 
+risks related to intellectual property protection, economic espionage, dual-use tech-
+nology. These concerns also extend to institutional constraints that may affect per-
+sonal safety, free speech, and academic freedom for foreign researchers in China. 
+(Jülich Aachen Research Alliance 2024).
+D)  Think tanks
+Amid escalating geopolitical tensions in Sino-German relations, the demand for 
+policy-relevant China expertise has intensified. In this context, the early program -
+matic emphasis of “China Competence” — primarily centered on language acqui -
+sition, cultural knowledge, and general insights into contemporary China  — has 
+increasingly been regarded as insufficient for supporting decision-making and 
+safeguarding national interests in a rapidly changing strategic environment. Conse-
+quently, policymakers have progressively shifted attention toward think tanks and 
+policy advisory institutions capable of producing what is framed as more “inde -
+pendent China Competence”.
+A prominent example is one of Germany’s leading China-focused research and 
+advisory institutes, which has expanded its role by offering policy consultation and 
+expert analyses on China’s political system, economic development, societal trans-
+=== PAGE 14 ===
+14   Xun Luo
+formations, and scientific-technological capacity. This institution’s growing influ -
+ence has been publicly recognized by state actors and major political stakeholders 
+(Auswärtiges Amt 2023; Papenbrock/Schmid 2023). Notably, from 2024 onwards, the 
+Federal Foreign Office has committed sustained institutional funding of €500,000 
+per year to support long-term China-related research and advisory work (Alipour 
+2023). This development signals a meaningful reconfiguration of the funding land -
+scape, indicating a move away from reliance on a single ministry as the dominant 
+sponsor of “China Competence”.
+In parallel, the institute has increasingly been positioned as a key partner for 
+China-related training and consultation, extending beyond government bodies to 
+include stakeholders in the business sector . Taken together , these developments 
+suggest an emerging policy logic in which “China Competence” is increasingly 
+defined as strategic knowledge production oriented toward risk assessment, 
+national resilience, and geopolitical positioning.
+E) German Academic Exchange Service (DAAD)
+As Germany’s largest funding body for international academic exchange, the 
+German Academic Exchange Service (DAAD) holds a strategic position in academic 
+diplomacy and the internationalization of higher education. In January 2024, sup -
+ported by the Federal Ministry of Education and Research and the Federal Foreign 
+Office, the DAAD issued guidelines for academic cooperation with China (DAAD 
+2024). These guidelines emphasize three core principles: (1) alignment with German 
+interests and balanced partnerships, (2) risk minimization and transparency, and 
+(3) the development of “independent China Competence” through critical engage -
+ment (DAAD 2024).
+Within this framework, risk management and strategic security have emerged 
+as primary concerns. The guidelines explicitly mandate that universities must 
+comply with export control regulations on dual-use goods and knowledge (BAFA 
+2023), and require due diligence to assess potential partners for ties to security-re -
+lated research or national defense projects (DAAD 2024). Ethical concerns linked 
+to fundamental values and human rights must also undergo review by university 
+ethics committees or relevant self-regulatory bodies (DAAD 2024).
+Together , these measures establish a comprehensive compliance framework 
+spanning federal, state, and institutional levels, thereby strengthening de-risk -
+ing practices in Sino-German academic relations. Looking forward, both German 
+and Chinese institutions are likely to encounter growing challenges, even in areas 
+where cooperation remains formally permissible.
+=== PAGE 15 ===
+ From cooperation to de-risking    15
+4.3  A phase-based conceptual model of “China Competence”
+As the primary initiator and funding provider of the “China Competence” initiative, 
+the BMBF has implemented a total of ten funding programs between 2017 and 2024, 
+with the cumulative budget reaching 24 million euros (Bundesregierung 2024). In 
+2023 alone, the disbursed funding amounted to 5 million euros (Bundesregierung 
+2024). Beginning in 2025, the BMBF – renamed BMFTR – plans to launch two addi -
+tional funding programs: one dedicated to modern China research and another 
+to Chinese language acquisition, bringing the total number of programs to twelve 
+(BMBF 2024a, 2024b).
+The comparative analysis of the two phases of the “China Competence” ini -
+tiative reveals a significant transformation following the strategic shift in 2023 
+(see Figure 3). The initiative’s primary objective has transitioned from deepening 
+strategic cooperation with China to prioritizing competition and risk mitigation. 
+Consequently, “China Competence” has evolved from a broadly defined concept of 
+intercultural competence into a dissociative policy focused on de-risking practices, 
+rendering the term increasingly ambiguous.
+This transformation is observable at both the individual and institutional 
+levels. At the individual level, the initial phase emphasized enhancing proficiency 
+in the Chinese language, intercultural competence and a comprehensive under -
+standing of contemporary China. However , in the second phase, the scope has 
+expanded to include expertise in legal frameworks, compliance regulations, and 
+Fig. 3: The dual nature of “China Competence”
+=== PAGE 16 ===
+16   Xun Luo
+practical experience in China. At the institutional level, the focus of “China Com -
+petence” has shifted from talent development and information tracking to a more 
+comprehensive capacity for legal and policy consultation.
+The temporal analysis of the “China Competence” initiative (see Figure 1) indi-
+cates a linkage between European and German policy shifts and their cascading 
+effects on academic and scientific relations. The findings suggest that the initiative 
+reflects not only a domestic policy adjustment but also a response to broader geopo-
+litical realignments within the European Union. The evolution of Germany’s China 
+strategy has directly shaped its “China Competence” initiative, positioning it at the 
+nexus of foreign policy and scientific exchange policies. This dynamic interplay 
+has continually driven the evolution of funding measures associated with “China 
+Competence” over time.
+5  Discussion and Future research
+The findings reveal several underlying challenges that merit further scholarly 
+attention. First, the coexistence of two divergent policy logics — namely the pro -
+motion of cultural and epistemic understanding on the one hand, and the pursuit 
+of strategic de-risking on the other — constitutes a fundamental tension that risks 
+undermining the internal consistency of the “China Competence” initiative. Moreo-
+ver , the initiative’s pronounced sensitivity to exogenous political shifts underscores 
+the contingent and path-dependent nature of its institutional trajectory. Against 
+this backdrop, future research should interrogate whether the reconfiguration of 
+transatlantic relations following the Trump administration, together with the for -
+mation of a CDU/CSU-led federal government in Germany, may trigger further stra-
+tegic realignments of China policy at both EU and national levels.
+Second, the initiative’s dual positioning at the intersection of foreign policy and 
+scientific exchange policy risks generating tensions between political objectives, 
+the educational missions of universities, and the principle of academic freedom. 
+This raises important questions about how universities, research institutions, 
+and individual scholars navigate the top-down de-risking approaches introduced 
+by policymakers and funding bodies, while adapting to expanding legal and reg -
+ulatory constraints and simultaneously sustaining opportunities for academic 
+cooperation with China (Cai 2023). Given the persistent uncertainty surrounding 
+the translation of Berlin’s China policy into operational practice at municipal and 
+university levels (Godehardt 2024), future research should explore whether—and 
+how—these institutions can act not merely as passive implementers but also as 
+“creative agents” (Levinson et al. 2020), developing bottom-up strategies that con -
+=== PAGE 17 ===
+ From cooperation to de-risking    17
+tribute to more resilient and context-sensitive models of scientific and educational 
+exchange at all institutional levels.
+Third, the evolving and dual nature of the “China Competence” initiative, com-
+bined with adjustments in funding instruments and implementing bodies, compli -
+cates assessments of its overall effectiveness. While the evidence suggests that the 
+initiative has expanded the China-related expertise within Germany’s science and 
+education sectors, its translation into more effective China policymaking remains 
+contingent on the meaningful integration of diverse and domain-specific knowl -
+edge into inclusive, evidence-based decision-making processes. This integration 
+also depends on how policymakers balance risk management with opportunities 
+for cooperation. Clarifying whether the initiative’s primary objective lies in foster-
+ing collaboration or advancing strategic de-risking is essential, as fully achieving 
+both goals simultaneously appears unrealistic.
+2Several limitations of this study should be acknowledged. The analysis relies 
+primarily on publicly available documents, which may not fully capture internal 
+decision-making processes or informal negotiations among policymakers and 
+implementing actors. Moreover , while the retrospective corpus approach enables 
+systematic tracing of discursive and institutional change, it cannot directly assess 
+the lived experiences and perceptions of project participants. Building on these lim-
+itations, future research should move beyond policy-level analysis to examine the 
+concrete impacts of the “China Competence” initiative on scientific relations and 
+the broader dynamics of knowledge diplomacy between Germany and China (Liu 
+et al. 2025). In-depth interviews and case studies could provide valuable insights 
+into how higher institutions and individual actors respond to evolving policy 
+frameworks, navigate compliance requirements, and manage emerging risks. Such 
+empirical evidence would inform more adaptive and forward-looking strategies for 
+sustaining Sino-German scientific relations in an increasingly complex geopolitical 
+environment.
+6  Conclusion
+This study examines the evolution of Germany’s “China Competence” initiative 
+between 2015 and 2024 through a retrospective analysis of policymakers, funding 
+recipients, and funded activities. The findings identify two interconnected phases: 
+an initial cooperation-oriented phase emphasizing cultural understanding and aca-
+demic exchange, followed by a strategic shift toward de-risking, security govern -
+ance, regulatory compliance, and policy-relevant expertise, reflecting broader geo-
+political realignments in Germany’s and the European Union’s China policies. This 
+=== PAGE 18 ===
+18   Xun Luo
+transformation has reshaped both institutional actors and the substantive meaning 
+of “China Competence”, extending it from intercultural capacity toward strategic 
+knowledge production and risk management.
+Theoretically, the study advances an empirically grounded conceptualization 
+of “China Competence” as a dynamic policy concept and institutional knowledge 
+form. Moving beyond normative and discipline-specific definitions, the analysis 
+demonstrates how it is discursively constructed, enacted through funded practices, 
+and transformed over time. The three-level analytical model developed in this 
+study offers a transferable framework for analyzing the meanings of political con -
+cepts across policy domains. Practically, the findings illuminate growing tensions 
+between the objectives of academic cooperation and strategic de-risking, posing 
+significant challenges for higher education institutions in an increasingly politi -
+cized policy environment.
+Acknowledgements: I am grateful to Prof. Dr . Andreas Freytag (University of Jena), 
+Prof. Dr .  Matthieu Grandpierron (Institut Catholique de Vendée), and the anony -
+mous reviewers for their valuable comments on earlier versions of this manuscript. 
+Their constructive feedback helped refine the theoretical framing and improve the 
+overall clarity of the paper .
+References
+Abels, Sabine/Bode, Christian. 2022. Aktuelle Herausforderungen für deutsch-chinesische Hochschul- 
+kooperationen. In: Thelen, Gabriele/Obendiek, Helena/Bai, Yinchun (Hrsg.): Handbuch China- 
+Kompetenz: Best-Practice-Beispiele aus deutschen Hochschulen. Bielefeld: Transcript Verlag. 51–68.
+Alipour , Nick. 2023. Ampel stärkt Rolle des Mercator-Institut als deutsches China-Kompetenzzentrum. 
+Euractiv.de. https://www.euractiv.de/section/europa-kompakt/news/ampel-macht-mercator- 
+institut-zu-verlaengertem-arm-in-der-chinapolitik/ (zuletzt aufgerufen am 15.04.2025).
+Auswärtiges Amt. 2023. China-Strategie der Bundesregierung. Berlin: Auswärtiges Amt.
+BMBF. 2015a. China-Strategie des BMBF 2015–2020: Strategischer Rahmen für die Zusammenarbeit 
+mit China in Forschung, Wissenschaft und Bildung. http://docplayer .org/14548946- China-
+strategie-des-bmbf-2015-2020-strategischer-rahmen-fuer-die-zusammenarbeit-mi%20
+t-china-in-forschung-wissenschaft-und-bildung.html (zuletzt aufgerufen am 19.07.2024).
+BMBF. 2015b. Partner China: Zwischen Konkurrenz und Kooperation. https://www.lifepr .de/
+pressemitteilung/bmbf-bundesministerium-fuer-bildung-und-forschung/partner-china- 
+zwischen-konkurrenz-und-kooperation/boxid/558315 (zuletzt aufgerufen am 15.04.2025).
+BMBF. 2016. Richtlinie zur Förderung von “Innovativen Konzepten zum Ausbau der China-Kompetenz 
+an deutschen Hochschulen”. https://www.bmbf.de/SharedDocs/Bekanntmachungen/
+DE/2016/11/1276_bekanntmachung.html?templateQueryString=China+Kompetenz (zuletzt 
+aufgerufen am 15.04.2025).
+BMBF. 2021a. Bekanntmachung im Rahmen der Strategie der Bundesregierung zur International-
+isierung von Wissenschaft und Forschung. Richtlinie zur Förderung des regionalen Ausbaus der 
+=== PAGE 19 ===
+ From cooperation to de-risking    19
+China-Kompetenz in der Wissenschaft (Regio-China). https://www.bmbf.de/bmbf/shareddocs/
+bekanntmachungen/de/2021/06/3684_bekanntmachung (zuletzt aufgerufen am 15.04.2025).
+BMBF. 2021b. Karliczek: Wir brauchen mehr unabhängige China-Expertise in Deutschland. https://
+www.bmbf.de/bmbf/shareddocs/pressemitteilungen/de/karliczek-wir-brauchen-mehr-un-china-
+expertise-in-deutschland.html (zuletzt aufgerufen am 15.04.2025).
+BMBF. 2023. China – Partner , systemischer Rivale und Wettbewerber . https://www.bmbf.de/bmbf/de/
+europa-und-die-welt/vernetzung-weltweit/asiatisch-pazifischer-raum/china/china_node.html 
+(zuletzt aufgerufen am 15.04.2025).
+BMBF. 2024a. Richtlinie “Moderne Chinaforschung II” zur Förderung von Forschung zu aktuellen 
+politischen, wissenschaftlichen sowie gesellschaftlichen Entwicklungen in der Volksrepublik 
+China. https://www.bmbf.de (zuletzt aufgerufen am 15.04.2025).
+BMBF. 2024b. Richtlinie zur Förderung von Projekten zur Erforschung von Vermittlung und Erwerb 
+von Chinesisch als Fremdsprache als Beitrag zum Auf- und Ausbau von unabhängiger 
+China-Kompetenz. https://www.bmbf.de (zuletzt aufgerufen am 15.04.2025).
+Brugha, Ruairí/Varvasovszky, Zsuzsa. 2000. Stakeholder Analysis: A review. In: Health Policy and 
+Planning 15(3). 239–246.
+Bundesregierung. 2024. Antwort auf die Kleine Anfrage der Fraktion der CDU/CSU: Stand des Ausbaus 
+der China-Kompetenz in Deutschland. Deutscher Bundestag.
+Cai, Yuzhuo. 2023. Decoding Discord: Paradoxes, Misperceptions and Risks in EU-China Higher 
+Education Cooperation. In: International Higher Education 116. 9–11.
+China-Schul-Akademie. 2019. China Perspektiven: Mehr vom Anderen wissen: (Lehr- und Lern-) 
+Dialoge mit China. https://www.china-schul-akademie.de/ (zuletzt aufgerufen am 15.04.2025).
+DAAD. 2024. Die akademische Zusammenarbeit mit China realistisch gestalten: Handlungsempfe-
+hlungen des DAAD für deutsche Hochschulen. Bonn: DAAD.
+DAAD/DZHW (Hrsg.). 2015. Wissenschaft weltoffen 2015: Daten und Fakten zur Internationalität von 
+Studium und Forschung in Deutschland. Bonn: DAAD; Hannover: DZHW.
+DAAD/DZHW (Hrsg.). 2023. Wissenschaft weltoffen 2023: Daten und Fakten zur Internationalität von 
+Studium und Forschung in Deutschland und weltweit. Bonn: DAAD; Hannover: DZHW.
+Deutsches Zentrum für Luft- und Raumfahrt (Hrsg.). 2017. Deutsch-Chinesische Plattform Innovation 
+Policy Briefs 2017 der deutschen Expertengruppe. Deutsches Zentrum für Luft- und Raumfahrt e.V.
+Deutsches Zentrum für Luft- und Raumfahrt (Hrsg.). 2018a. Deutsch-Chinesische Plattform Innovation 
+Policy Briefs 2018 der deutschen Expertengruppe. Deutsches Zentrum für Luft- und Raumfahrt e.V.
+Deutsches Zentrum für Luft- und Raumfahrt (Hrsg.). 2018b. Deutsch-Chinesische Plattform Innovation 
+Policy Briefs 2018 der deutschen Expertengruppe. Deutsches Zentrum für Luft- und Raumfahrt e.V.
+Deutsches Zentrum für Luft- und Raumfahrt (Hrsg.). 2019. Deutsch-Chinesische Plattform Innovation 
+Policy Briefs 2019 der deutschen Expertengruppe. Deutsches Zentrum für Luft- und Raumfahrt e.V.
+Expertenkommission Forschung und Innovation. 2020. Gutachten zu Forschung, Innovation und 
+Technologischer Leistungsfähigkeit Deutschlands 2020. Expertenkommission Forschung und 
+Innovation (EFI). https://www.e-fi.de/fileadmin/Assets/Gutachten/EFI_Gutachten_2020.pdf 
+(zuletzt aufgerufen am 15.04.2025).
+El-Jardali, Fadi/Bou-Karroum, Lama/Ataya, Nour/El-Ghali, Hana Addam/Hammoud, Rawan. 2014. A 
+Retrospective Health Policy Analysis of the Development and Implementation of the Voluntary 
+Health Insurance System in Lebanon: Learning from failure. In: Social Science & Medicine 123. 45–54.
+European Commission. 2019. EU-China – A strategic outlook. European Commission and HR/VP 
+contribution to the European Council.
+Fischer , Frank. 2003. Reframing Public Policy: Discursive Politics and Deliberative Practices. Oxford 
+University Press.
+=== PAGE 20 ===
+20   Xun Luo
+Frenzel, Andrea/Godehardt, Nadine. 2020. Mehr Chinakompetenz wagen. Stiftung Wissenschaft und 
+Politik.
+Fricke, Uwe. 2022. Rezension: Hu, Chunchun/Lackner , Hendrik/Zimmer , Thomas (Hrsg.). 
+China-Kompetenz in Deutschland und Deutschland-Kompetenz in China. In: Informationen 
+Deutsch Als Fremdsprache 49(2–3). 194–199.
+Godehardt, Nadine. 2024. The Logic of Germany’s China Policy in the Zeitenwende. Stiftung 
+Wissenschaft und Politik. https://www.swp-berlin.org/publikation/the-logic-of-germanys-china-
+policy-in-the-zeitenwende (zuletzt aufgerufen am 15.04.2025).
+Hans Böckler Stiftung. 2020. Projekt CHIN-KoBe. Hans Böckler Stiftung. https://www.chin-kobe.de/
+projekt-25033.htm (zuletzt aufgerufen am 15.04.2025).
+Hou, Michael Z./Esderts, Alfons/Gottfried, Lara M. (Hrsg.). 2022. China Kompetenz in Deutschland: 
+Beiträge der China Woche 2020 an der Technischen Universität Clausthal. Verlag für Sozialwissen-
+schaften.
+Hu, Chunchun/Lackner , Hendrik/Zimmer , Thomas (Hrsg.). 2021. China-Kompetenz in Deutschland und 
+Deutschland-Kompetenz in China: Multi- und transdisziplinäre Perspektiven und Praxis. Wiesbaden: 
+Springer VS.
+Internationales Büro. 2011. Innovationsforschung mit China. https://www.internationales-buero.de/
+de/innovationsforschung_mit_china.php (zuletzt aufgerufen am 15.04.2025).
+Internationales Büro. 2017a. Länderkooperationen – China. DLR. https://www.internationales-buero.
+de/de/china.php (zuletzt aufgerufen am 15.04.2025).
+Internationales Büro. 2017b. Projekte der BMBF-Fördermaßnahme “Ausbau der China-Kompetenz an 
+deutschen Hochschulen”. DLR. https://www.internationales-buero.de/de/china_kompetenz_an_
+deutschen_hochschulen.php (zuletzt aufgerufen am 15.04.2025).
+Internationales Büro. 2020. BMBF-Fördermaßnahme “Moderne Chinaforschung”. DLR.  
+https://www.internationales-buero.de/de/moderne_chinaforschung.php (zuletzt aufgerufen  
+am 15.04.2025).
+Internationales Büro. 2023. BMBF-Fördermaßnahme “Regionaler Ausbau der China-Kompetenz in 
+der Wissenschaft (Regio-China)”. DLR. https://www.internationales-buero.de/de/regio_china_
+ausbau_der_china_kompetenz_in_der_wissenschaft.php (zuletzt aufgerufen am 15.04.2025).
+Joint Center for Advanced Studies. 2020. Worldmaking from a Global Perspective: A Dialogue with 
+China. Freie Universität Berlin; Universität Göttingen; Universität Heidelberg, LMU München; 
+Universität Würzburg. https://www.worldmaking-china.org/en/index.html (zuletzt aufgerufen 
+am 15.04.2025).
+Jülich Aachen Research Alliance. 2024. Entrance – Expertise and Transfer Network on China and 
+Europe. RWTH Aachen University; Jülich Forschungszentrum. https://www.jara.org/de/  
+Projektinformationen-entrance (zuletzt aufgerufen am 15.04.2025).
+Kierst, Roman. 2022. Was ist “China-Kompetenz”? Interview mit Prof. Dr . Andreas Guder . https://www.
+goethe.de/prj/yim/de/mag/23589338.html (zuletzt aufgerufen am 15.04.2025).
+Kooperation International. 2017. BMBF-geförderte Deutsch-Chinesische Alumnifachnetzwerke 
+(DCHAN) gestartet. https://www.kooperation-international.de/aktuelles/nachrichten/detail/
+info/bmbf-gefoerderte-deutsch-chinesische-alumnifachnetzwerke-dchan-gestartet (zuletzt 
+aufgerufen am 15.04.2025).
+Kultusministerkonferenz/BMBF/Auswärtiges Amt. 2018. Bund und Länder wollen China-Kompetenz 
+fördern. https://www.kmk.org/de/presse/pressearchiv/mitteilung/bund-und-laender-wollen-die-
+china-kompetenz-foerdern.html (zuletzt aufgerufen am 15.04.2025).
+Lepori, Benedetto. 2011. Coordination Modes in Public Funding Systems. In: Research Policy 40(3). 
+355–367.
+=== PAGE 21 ===
+ From cooperation to de-risking    21
+Levinson, Bradley A./Winstead, Teresa/Sutton, Margaret. 2020. An Anthropological Approach  
+to Education Policy as a Practice of Power: Concepts and Methods. In: Fan, Guorui/ 
+Popkewitz, Thomas S. (Eds.): Handbook of Education Policy Studies. Springer Singapore.  
+363–379.
+Liu, Wei/Løkke Jakobsen, Marianne/Yu, Cheryl/Huang, Chao/ Malinen, Olli-Pekka/Zhang, Xiangsu. 
+2025. Knowledge Diplomacy in the De-Risking Context: What Does “De-Risking” Mean for 
+EU-China Higher Education Collaboration? In: Journal of Studies in International Education 29(2). 
+256–274.
+Mayer-Kuckuk, Finn. 2023. Union fordert Ausbau deutscher China-Kompetenz: Risiken erkennen. 
+https://www.merkur .de/politik/china-cdu-csu-strategie-friedrich-merz-kompetenzzentrum-  
+tbl-zr-92229326.html (zuletzt aufgerufen am 15.04.2025).
+Mayring, Philipp. 2015. Qualitative Content Analysis: Theoretical Background and Procedures.  
+In: Bikner-Ahsbahs, Angelika/Knipping, Christine/Presmeg, Norma (Eds.): Approaches to 
+Qualitative Research in Mathematics Education: Examples of Methodology and Methods.  
+Springer . 365–380.
+Müller , Michael. 2023. Mehr China-Kompetenz. Trotz Differenzen: Austausch mit China pflegen. In: 
+Politik und Kultur 7–8. https://www.kulturrat.de/themen/texte-zur-kulturpolitik/mehr-china- 
+kompetenz/ (zuletzt aufgerufen am 15.04.2025).
+Papenbrock, Wiebke/Schmid, Nils. 2023. Deutschland stärkt seine China-Kompetenz: SPD-Fraktion im 
+Bundestag. https://www.spdfraktion.de/presse/pressemitteilungen/deutschland-staerkt-china-
+kompetenz (zuletzt aufgerufen am 15.04.2025).
+Reckwitz, Andreas. 2002. Toward a Theory of Social Practices: A Development in Culturalist Theorizing. 
+In: European Journal of Social Theory 5(2). 243–263.
+Robak, Steffi. 2021. Transkulturelle China-Kompetenz. In: Hu, Chunchun/Lackner , Hendrik/Zimmer , 
+Thomas (Hrsg.): China-Kompetenz in Deutschland und Deutschland-Kompetenz in China. Springer . 
+147–169.
+Rudyak, Marina. 2021. Keine Orchidee: Über Chinakompetenz und Sinologie. In: Aus Politik Und 
+Zeitgeschichte (APuZ). https://www.bpb.de/shop/zeitschriften/apuz/326883/keine-orchidee/ 
+(zuletzt aufgerufen am 15.04.2025).
+Schatzki, Theodore R. 2001. Introduction: Practice theory. In: Schatzki, Theodore R./Knorr-Cetina, 
+Karin/Savigny, Eike v. (Eds.): The Practice Turn in Contemporary Theory. London/New York: 
+Routledge. 1–14.
+Stepan, Matthias/Frenzel, Andrea. 2021. Wege zu mehr China-Kompetenz. In: Hu, Chunchun/Lackner , 
+Hendrik/Zimmer , Thomas (Hrsg.): China-Kompetenz in Deutschland und Deutschland-Kompetenz in 
+China. Springer Wiesbaden. 119–145.
+Thelen, Gabriele/Obendiek, Helena/Bai, Yinchun (Hrsg.). 2022. Handbuch China-Kompetenz: Best-Prac-
+tice-Beispiele aus deutschen Hochschulen. Bielefeld: Transcript Verlag.
+Universität Jena. 2024. ChinaKooP: China-Kompetenz-Plattform für Hochschulen und Forschungsein-
+richtungen in Thüringen. Universität Jena. https://www.uni-jena.de/chinakoop (zuletzt 
+aufgerufen am 15.04.2025).
+Williams, Holly Ann/Vincent-Mark, Arlene/Herrera, Yenni/Chang, O Jaime. 2009. A Retro- 
+spective Analysis of the Change in Anti-Malarial Treatment Policy: Peru. In: Malaria Journal  
+8(85).
+Yanow, Dvora. 2000. Conducting Interpretive Policy Analysis. London: SAGE.
+Zimmer , Thomas. 2021. China-Kompetenz und die Grenzen eines kleinen Faches. In: Hu, Chunchun/
+Lackner , Hendrik/Zimmer , Thomas (Hrsg.): China-Kompetenz in Deutschland und Deutschland-
+Kompetenz in China. Springer . 171–185.
+=== PAGE 22 ===
+22   Xun Luo
+About the author
+Xun Luo is Professor of Intercultural Communication and Business at Justus Liebig University Gies-
+sen, Germany. He holds a PhD in Intercultural Business Communication from the University of Jena. 
+His research focuses on (inter-)cultural theory, Sino-German relations, and game- and AI-mediated 
+intercultural communication. He is co-editor of the book series Intercultural Communication and Global 
+Cultural Dynamics, published by Springer Nature.
