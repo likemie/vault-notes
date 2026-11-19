@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-05
-updated: 2026-11-17
+updated: 2026-11-19
 ---
 
 ---
@@ -93,7 +93,7 @@ updated: 2026-11-17
 > - **解释对象** 组织文化在不同层次上的生成机制与表征结构，特别是物质[[Artefact|器物]]、公开信奉价值观与深层潜意识假设之间的动态关联。
 > - **理论问题** 解释组织内部可见显现与隐性深层规范的脱节，破解为何组织在物理符号（器物）与口头承诺（价值观）上积极拥抱变革，而在日常行为与决策中却深陷防备、怀疑与因循守旧（深层假设）；解释为何上层正式规程重构常与基层微观非正式制度发生断裂；以及为何公共部门的官僚防御文化会阻绝前沿技术并催生[[Innovation Desert|创新荒漠]]。
 > - **理论类型** 中层[[Analytic Framework|分析框架]]与机制模型，广泛应用于教育社会学、学校组织改进、科技创新管理、[[Output-Oriented Governance|循证治理]]与质性/[[Visual Research Methods|视觉研究方法]]论。
-> - **知识位置** 由 Edgar Schein (1985, 1992) 奠定三层次架构；经 Best and Holmes (2010) 引入复杂系统[[Knowledge Mobilisation|知识动员]]与教育政策分析；被[[OECD|经合组织]]（OECD）[[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]列为衡量跨国循证文化心态与组织制度环境的核心理论基底（[[Argument_Revai_2022_ChangingLandscape|Révai, 2022]]; [[Argument_Hill_2022_FacilitatingActors|Hill, 2022]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]]）；被教育数据研究用于解析行政治理文化对数字化学校监测与[[Data Infrastructure|数据基础设施]]采纳形态的规训机制（[[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler, 2019]]）；在前沿科技研发治理中被[[Erica Fuchs|埃丽卡·福克斯]]用于解构高风险创新机构（[[DARPA]]）在宏观采办制度震荡下微观非正式治理制度的韧性（[[Argument_Fuchs_2010_RP|Fuchs, 2010]]）；在政治经济学中被[[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]用于诊断公共部门官僚防御文化对技术的排斥，以及倡导以使命驱动的工程[[Organizational Culture Change|组织文化重塑]]治理效能（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska, 2025, pp. 11–15]]）；在学校研究证据利用综合中被 [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] 确立为与结构、领导力紧密交织的核心组织使能条件（$k=41$）。
+> - **知识位置** 由 Edgar Schein (1985, 1992) 确立三层次架构；经 Best and Holmes (2010) 引入复杂系统[[Knowledge Mobilisation|知识动员]]与教育政策分析；被[[OECD|经合组织]]（OECD）[[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]列为衡量跨国循证文化心态与组织制度环境的核心理论基底（[[Argument_Revai_2022_ChangingLandscape|Révai, 2022]]; [[Argument_Hill_2022_FacilitatingActors|Hill, 2022]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]]）；被教育数据研究用于解析行政治理文化对数字化学校监测与[[Data Infrastructure|数据基础设施]]采纳形态的规训机制（[[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler, 2019]]）；在前沿科技研发治理中被[[Erica Fuchs|埃丽卡·福克斯]]用于解构高风险创新机构（[[DARPA]]）在宏观采办制度震荡下微观非正式治理制度的韧性（[[Argument_Fuchs_2010_RP|Fuchs, 2010]]）；在政治经济学中被[[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]用于诊断公共部门官僚防御文化对技术的排斥，以及倡导以使命驱动的工程[[Organizational Culture Change|组织文化重塑]]治理效能（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska, 2025, pp. 11–15]]）；在学校研究证据利用综合中被 [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] 确立为与结构、领导力紧密交织的核心组织使能条件（$k=41$）。
 
 > [!claim] 核心判断
 > 组织文化由三个层次嵌套构成：表层的物质器物与制度结构、中间层的官方信奉价值观、以及最深层的潜意识基本假设与防御规范；表层器物与口头理念展示组织期望呈现的外在形象，但组织的实质决策与行动逻辑由深层基本假设决定，二者之间普遍存在着表层崇尚科学与深层信任赤字的认知断裂；在上层管理规程剧烈变动时，微观非正式制度构成了维系组织核心效能的稳定基石；而在学校与公共治理中，唯有打破合规至上的防御假设、培育容忍试错与支持冒险的探究文化，方能实现研究证据与创新实践的深度融合。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 27)]]; [[Argument_Hill_2022_FacilitatingActors|(Hill, 2022, pp. 92–95)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 11–15)]]; [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p. 10)]]
@@ -101,13 +101,13 @@ updated: 2026-11-17
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 埃德加·沙因（Edgar H. Schein）在《组织文化与领导力》（*Organizational Culture and Leadership*, 1985/1992）中奠定了三层次经典分析模型。
+> - **提出者与原始文本** 埃德加·沙因（Edgar H. Schein）在《组织文化与领导力》（*Organizational Culture and Leadership*, 1985/1992）中提出了三层次经典分析模型。
 > - **原初问题** 传统管理学与组织理论往往将组织文化简化为表面的行为准则、口头标语或单一维度的员工[[Rating Scale|态度量表]]，无法解释为何组织多次推行正式制度变革后，员工行为依然回归旧有惯性。
 > - **理论资源与材料** 吸收社会学芝加哥学派的象征互动论、文化人类学关于象征符号系统（[[Clifford Geertz|克利福德·格尔茨]]的[[Rich and Thick Description|深描]]理论）以及群体动力学（[[Kurt Lewin|库尔特·勒温]]的[[Theory of Change|变革理论]]）。
 > - **形成路径** 沙因从组织解决外部适应（External Adaptation）与内部整合（Internal Integration）两大核心生存难题的历时演进切入，提炼出群体在反复试错成功后内化为理所当然的基本假设，进而根据可观察性与认知深度自外向内区分为器物、信奉价值观与基本潜在假设三个层次。
 
 > [!dev-timeline] 理论版本与贡献
-> - **1985/1992 — 三层次经典框架奠基** Edgar Schein 发布《Organizational Culture and Leadership》，系统确立[[Artefact|器物]]、信奉价值观与基本潜在假设的三层次模型。
+> - **1985/1992 — 三层次经典框架创立** Edgar Schein 发布《Organizational Culture and Leadership》，系统确立[[Artefact|器物]]、信奉价值观与基本潜在假设的三层次模型。
 > - **1994/2009 — 国际多边官僚机构的组织文化解剖** 莫伊塞斯·纳伊姆（Naím, 1994）解构[[World Bank|世界银行]]内部的智力傲慢文化；[[Claudio de Moura Castro|克劳迪奥·德·莫拉·卡斯特罗]]（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009]]）进一步将其应用于[[Multilateral Development Bank|多边开发银行]]的教育贷款比较，揭示经济学技术官僚精英主义与拉美在地[[Pragmatic Paradigm|实用主义]]文化的制度分殊。
 > - **2010 — 前沿科技创新组织中的文化与非正式制度脱节研究** [[Erica Fuchs|埃丽卡·福克斯]]（[[Argument_Fuchs_2010_RP|Fuchs, 2010]]）将组织文化与制度主义理论拓展至前沿国家资助机构（[[DARPA]]），实证揭示上层正式采办规程重组与微观非正式治理制度之间的脱节与韧性连续性。
 > - **2010 — 纳入复杂系统第三代知识动员理论** Best and Holmes 将组织文化与反馈回路确立为理解知识动员从线性传递转向自适应系统的关键支柱。

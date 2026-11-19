@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -199,9 +199,9 @@ updated: 2026-11-18
 > | [[Operationalization]] | 概念 | 将理论层面的抽象构念转化为具象测量指标与变量的系统过程。 |
 > | [[Construct Validity]] | 概念 | 评估经验测量是否真实、准确映射目标理论构念的核心效度维度。 |
 > | [[PICO Framework]] | 概念 | 宏观证据综合中保障人群、干预、对照与结局四维构念同质性的门禁框架。 |
+> | [[Visible Learning]] | 概念 | 经典二阶证据库，元科学审计揭示其存在广泛的干预与结局构念错位危机。 |
 > | [[Scale Development]] | 方法 | 编制外显行为题项以系统测量潜在心理或社会构念的标准化测量方法。 |
 > | [[Meta-analysis]] | 方法 | 跨研究效应量合成方法，依赖构念同质性保障合并效应的理论解释力。 |
-> | [[Visible Learning]] | 概念 | 经典二阶证据库，元科学审计揭示其存在广泛的干预与结局构念错位危机。 |
 
 ---
 

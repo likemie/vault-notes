@@ -10,7 +10,7 @@ subtype: organization
 region: multi
 fact_region: "multi"
 fact_kind: "organization"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -51,6 +51,7 @@ related_facts:
   - "[[Bologna Process]]"
 related_arguments:
   - "[[Argument_Chou_2017_PolSoc]]"
+  - "[[Argument_Dang_2017_ORE]]"
 confidence: high
 status: active
 created: 2026-10-29
@@ -102,7 +103,7 @@ updated: 2026-11-19
 > [!pathways] 业务运行机制
 > - **自愿认领与项目经费自筹** 遵循院校自主与自愿参与原则，各项跨国合作由成员高校根据自身学科优势认领并筹措[[Counterpart Funds|配套资金]]，保持高度组织弹性。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]
 > - **微观务实切入规避主权敏感** 聚焦具体专业学科合作、学者互访与学分折算等微观切入点，避开自上而下的超国家宏观立法与主权规制争论。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151–152)]]
-> - **交叉同行评审与能力建设** 通过各成员校专家轮流开展专业级与机构级实地评估，在互信基础上培育高校内部质量文化。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]
+> - **交叉同行评审与能力建设** 通过各成员校专家轮流开展专业级与机构级实地评估，在互信基础上培育高校内部质量文化。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]; [[Argument_Dang_2017_ORE|(Dang, 2017, pp. 6–7)]]
 
 ---
 
@@ -168,3 +169,4 @@ updated: 2026-11-19
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Indrarajah_2026_NJCIE|Indrarajah (2026)]] — 批判 AUN 局限于 30 所顶尖名校的封闭网络，主张建立成员国骨干高校结对帮扶网络，带动普通与后发院校提升科研承载力以平抑区域教育发展鸿沟（pp. 12–15）。
 > - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] — 剖析 AUN 的组织特性、治理逻辑及其在东南亚双轨竞逐模式中地位的核心[[Document|文献]]。
+> - [[Argument_Dang_2017_ORE|Dang (2017)]] — 考察东盟大学联盟在区域高教趋同中的内部协调机制，阐释其通过学分转移与质保准则促进生源流动的实践（pp. 6–7）。

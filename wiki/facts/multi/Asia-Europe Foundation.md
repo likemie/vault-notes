@@ -10,7 +10,7 @@ subtype: organization
 region: multi
 fact_region: "multi"
 fact_kind: "organization"
-fact_related_count: 15
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -31,30 +31,33 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[University Social Responsibility]]"
   - "[[People-to-People Connectivity]]"
+  - "[[Global Regionalisms]]"
+  - "[[Mutual Learning]]"
 related_theories: []
 related_methods:
   - "[[Questionnaire]]"
-related_instruments:
-  - "[[Epistemological Understanding Assessment]]"
+related_instruments: []
 related_persons: []
 related_facts:
   - "[[EU]]"
   - "[[ASEAN]]"
+  - "[[Asia-Europe Meeting]]"
   - "[[ASEAN University Network]]"
   - "[[European University Association]]"
   - "[[SEAMEO RIHED]]"
 related_arguments:
   - "[[Argument_Chou_2017_PolSoc]]"
+  - "[[Argument_Dang_2017_ORE]]"
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
 
 > [!claim] 核心定位
-> 亚欧基金会（Asia-Europe Foundation, ASEF）是亚欧会议（Asia-Europe Meeting, ASEM）框架下设立的常设政府间非营利机构，总部位于新加坡；致力于深化亚洲与欧洲两大洲人民、民间社会与学术机构之间的相互理解与多边合作，在高等教育领域专职承办亚欧教育部长会议配套的高阶政策论坛、校长峰会与[[Student Mobility|学生流动]]实证研究，充当跨区域[[Dialogue in Education|教育对话]]与[[Policy Network|政策网络]]建构的核心枢纽。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 147)]]
+> 亚欧基金会（Asia-Europe Foundation, ASEF）是亚欧会议（Asia-Europe Meeting, ASEM）框架下设立的常设政府间非营利机构，总部位于新加坡；致力于深化亚洲与欧洲两大洲人民、民间社会与学术机构之间的相互理解与多边合作，在高等教育领域专职承办亚欧教育部长会议配套的高阶政策论坛、校长峰会与[[Student Mobility|学生流动]]实证研究，充当跨区域[[Dialogue in Education|教育对话]]与[[Policy Network|政策网络]]建构的核心枢纽。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 147)]]; [[Argument_Dang_2017_ORE|(Dang, 2017, pp. 417–418)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1997 年根据 1996 年首届亚欧首脑会议（曼谷峰会）关于深化亚欧民间与学术联系的决议正式设立，总部常设于新加坡。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 147)]]
@@ -65,21 +68,21 @@ updated: 2026-11-11
 ---
 
 > [!org-evolution] 组织发展历程
-> - **1997–2007 年** **创设奠基与跨区域交流拓展**
+> - **1997–2007** **创设起步与跨区域交流拓展**
 >
 >   重点搭建亚欧[[Early-Career Researchers|青年学者]]、文化艺术家与非政府组织之间的民间交流桥梁。
 >
 >   - **1997** 在新加坡正式建立常设总部并投入运作。
 >   - **2000 年代初** 启动系列亚欧智库网络与青年领袖峰会。
 >
-> - **2008–2015 年** **嵌入亚欧教育进程与高校网络联动**
+> - **2008–2015** **嵌入亚欧教育进程与高校网络联动**
 >
->   伴随亚欧教育部长会议（ASEM ME）的设立，全面转向高教政策支撑与校际网络协同。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 147)]]
+>   伴随亚欧教育部长会议（ASEM ME）的设立，全面转向高教政策支撑与校际网络协同。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 147)]]; [[Argument_Dang_2017_ORE|(Dang, 2017, pp. 427–428)]]
 >
 >   - **2008** 首届亚欧教育部长会议（柏林）召开，ASEF 受命协调配套民间与学术交流。
 >   - **2008** 创办亚欧校长峰会与学生论坛（ASEM Rectors' Conference and Students' Forum, ARC），搭建两洲顶尖大学管理者直接政策对话平台。
 >
-> - **2016 年–至今** **教育数字化与资历互认研究**
+> - **2016–至今** **教育数字化与资历互认研究**
 >
 >   聚焦跨大洲多元平衡流动、[[Lifelong Learning|终身学习]]与微证书互认，向两洲教育部长联合峰会提交实证政策咨询报告。
 
@@ -88,18 +91,39 @@ updated: 2026-11-11
 > [!actor-grid] 组织治理架构
 > - **最高决策机构（管理委员会 Board of Governors）** 由 53 个伙伴方政府委任的理事代表共同组成，负责制定中长期战略规划并监督预算执行。
 > - **日常执行团队（秘书处）** 设于新加坡，在执行总监与副总监领导下设立教育处（Education Department）、文化处及行政管理团队。
-> - **智库与高校伙伴网络** 依托两洲逾百所知名高校、质量保障机构与区域组织（如 [[Epistemological Understanding Assessment|EUA]]、[[ASEAN University Network|AUN]]）建立常态化协同机制。
+> - **智库与高校伙伴网络** 依托两洲逾百所知名高校、质量保障机构与区域组织（如 [[European University Association|EUA]]、[[ASEAN University Network|AUN]]）建立常态化协同机制。
 
 > [!pathways] 业务运行机制
 > - **双轨联动与政策反馈** 将两洲高校校长的学术研讨建议与青年学生的实证诉求，通过政策简报形式直接反馈至亚欧教育部长会议高级官员会议。
 > - **实证调研与趋势监测** 组织开展跨大洲学生流动障碍与合作模式的大规模[[Questionnaire|问卷调查]]，提供实证支撑。
+> - **多边互信与公共外交** 依托非正式对话平台，为官方外交机制补充二轨交流载体，降低意识形态分歧对学术合作的干扰。
 
 ---
 
-> [!finding-cards] 高等教育核心产品与业务矩阵
+> [!finding-cards] 核心产品与业务矩阵
 > - **亚欧校长峰会与学生论坛（ARC）** 两年一度与部长会议衔接举办，汇聚欧洲与亚洲高校校长，就[[University Social Responsibility|大学社会责任]]、创业教育与资历对接达成联合建议。
 > - **跨大洲流动政策调研** 持续发布关于亚欧间双向学生流动平衡性、签证壁垒与学分转换的专题研究成果。
 > - **青年领导力研修班** 面向两地优秀青年学者与大学生开展跨文化领导力与全球胜任力专项培训。
+
+---
+
+> [!indicators] 影响力维度与指标
+> - **伙伴方网络规模** 覆盖亚欧两洲 53 个伙伴方（51 个国家及欧盟委员会、东盟秘书处）。
+> - **学术参与网络** 历届 ARC 峰会汇聚两洲百余所代表性大学校长与资深学者，形成常设咨询网络。
+
+> [!finding-cards] 关键成效与辐射影响
+> - **构建亚欧二轨教育外交支柱** 在部长级正式政治协商之外，维系了大学领导者与青年学者的常态化沟通纽带。
+> - **推动跨洲流动制度障碍破除** 通过实证数据促使各国关注并改善亚洲赴欧与欧洲赴亚师生的签证互惠与学分互认政策。
+
+---
+
+> [!debates] 核心争议交锋
+>
+> > [!axis] 民间二轨自治 vs 官方外事议程附庸
+> > 围绕基金会作为非营利常设机构能否保持民间独立性，还是受制于成员国政府外交意志展开讨论。
+> >
+> > - **官方受制批评** 批评视角指出，管理委员会由各国政府代表委任，导致基金会议题设置容易受到两洲官方大国外交博弈与资助意愿的制约。
+> > - **二轨桥梁辩护** 辩护视角强调，基金会的法理独立性为其开展大学间开放对话提供了缓冲带，在官方关系紧张时有效维系了人文互联底线。
 
 ---
 
@@ -110,8 +134,17 @@ updated: 2026-11-11
 > | [[Dialogue in Education]] | Concept | ASEF 在亚欧两大洲之间践行与倡导的核心跨文化治理模式。 |
 > | [[Student Mobility]] | Concept | ASEF 教育项目重点促进与调研评估的跨区域机动性议题。 |
 > | [[People-to-People Connectivity]] | Concept | ASEF 专职承担的两大区域民间交流与社会互联支柱。 |
+> | [[Global Regionalisms]] | Concept | ASEF 所服务与参与构建的亚欧跨区域主义合作框架。 |
+> | [[Mutual Learning]] | Concept | ASEF 推进跨洲学术研讨与校长论坛的核心交往原则。 |
+> | [[Asia-Europe Meeting]] | Fact (Organization) | ASEF 依托的跨区域政府间多边母体机制。 |
 > | [[ASEAN]] | Fact (Organization) | 参与 ASEF 治理架构的核心亚洲区域政府间组织。 |
 > | [[EU]] | Fact (Organization) | 参与 ASEF 治理架构的核心欧洲超国家组织伙伴。 |
 > | [[European University Association]] | Fact (Organization) | ASEF 举办亚欧校长峰会时紧密协作的欧洲高校代表机构。 |
 > | [[ASEAN University Network]] | Fact (Organization) | ASEF 推进亚洲高校参与跨区域对话的重要合作伙伴。 |
 > | [[SEAMEO RIHED]] | Fact (Organization) | 与 ASEF 共同参与亚欧跨区域教育空间对话的东南亚专业中心。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Dang_2017_ORE|Dang (2017)]] — 阐述 ASEF 作为亚欧会议社会文化支柱在促进高教二轨对话与双向互学互鉴中的机制功能（pp. 417–418, 427–429）。
+> - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] — 论述亚欧会议及 ASEF 在东南亚与欧洲跨区域高等教育政策网络建构中的制度角色（p. 147）。

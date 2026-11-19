@@ -12,7 +12,7 @@ subtype: organization
 region: eu
 fact_region: "eu"
 fact_kind: "organization"
-fact_related_count: 50
+fact_related_count: 51
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -84,6 +84,7 @@ related_arguments:
   - "[[Argument_Alexiadou_Rambla_2023_EERJ]]"
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
   - "[[Argument_Haubrock_2026_NHB]]"
+  - "[[Argument_Dang_2017_ORE]]"
 confidence: high
 status: active
 created: 2026-10-16
@@ -177,6 +178,12 @@ updated: 2026-11-19
 >
 > > [!axis] [[Neoliberalism|新自由主义]]功能主义与民主赤字批评
 > > 批评者指出，欧盟教育议程过度受制于单一市场竞争与[[Knowledge-Based Economy|知识经济]]资本积累逻辑，将复杂的[[National Education|国民教育]]降格为服务于区域经济增长的技能供应链，架空了各成员国地方议会关于教育本质的民主审议。
+>
+> > [!axis] 博洛尼亚模式单向外溢 vs 跨区域双向互学互鉴
+> > 围绕欧盟是否通过资助计划将博洛尼亚模式向非西方区域单向输出展开讨论。
+> >
+> > - **模式输出论与外部干预疑虑** 批评视角指出，欧盟在东南亚等区域资助实施 SHARE 项目等高教合作时，常试图复制欧洲资历框架（EQF）与质保准则，引发对跨区干预与欧洲中心主义模式输出的警惕。[[Argument_Dang_2017_ORE|(Dang, 2017, pp. 11–13)]]
+> > - **双向互学与范式反思** 辩护与建构视角表明，东盟等受援区域积极坚守本土多样性，促使欧洲专家借道跨区对话反思自身资历框架的适用局限，推动单向模式移植转向对等协商的双向互学互鉴。[[Argument_Dang_2017_ORE|(Dang, 2017, pp. 12–13)]]
 
 ---
 
@@ -203,3 +210,4 @@ updated: 2026-11-19
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 探讨欧洲教育空间中空间实践与学生流动的历史演变。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 运用福柯理论解构欧盟开放协调法，揭示软法协调如何借助指标与基准构建欧洲教育全景敞视监控体系。
 > - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 剖析欧洲教育区（EEA 2030）战略中欧盟辅助性原则硬约束、理事会与欧委会博弈及开放协调法指标锁定的文献。
+> - [[Argument_Dang_2017_ORE|Dang (2017)]] — 考察欧盟与东盟在亚欧会议及 SHARE 项目中的跨区域高等教育互动，揭示外部模式单向移植如何转向双向互学互鉴（pp. 11–13）。

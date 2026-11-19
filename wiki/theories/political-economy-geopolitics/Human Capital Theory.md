@@ -159,7 +159,7 @@ updated: 2026-11-19
 > [!claim] 核心判断
 > 人力资本理论主张，教育与技能培训是对蕴含于劳动者体内生产性知识与能力的资本投资，而非单纯的消费性福利开支；这种投资通过提升劳动者的边际生产率内生驱动宏观经济持续增长，并为国家通过科学的人力需求预测发掘社会潜在人才库、推动社会流动与经济起飞提供了必然性与合法性背书。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 64, 67–68)]]
 
-> [!citation-card] 马修论人力资本理论支撑战后教育扩张与预算追加
+> [!citation-card|notitle] 关键表述
 > 教育大扩张以及随之而来的教育部门经费预算追加，均建立在人力资本理论（Schultz, 1963; Bowen, 1964）以及对社会潜藏人才库的充分利用之上……在这一意义上，实证社会科学已然成为当时教育领域主导政治正统的便利借口（alibi）与合法化手段。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, p. 68)]]
 >
 > *Educational expansion and hence increased funding of the educational sector were argued on the basis of human capital theory (Schultz, 1963; Bowen, 1964) and of the utilisation of the latent pool of talents... In this sense social science had become a convenient alibi and/or a legitimising means for the prevailing political orthodoxy in education.*
@@ -174,7 +174,7 @@ updated: 2026-11-19
 
 > [!dev-timeline] 理论版本与贡献
 > - **1957–1961 — 冷战冲击与国际政策正统确立** 1957 年苏联人造卫星升空引发[[Sputnik Shock 1957|斯普特尼克冲击]]，迫使西方世界将学校教育界定为科技专才的供给母体；[[Organisation for European Economic Co-operation|欧洲经济合作组织]]（OEEC）与改组后的[[OECD|经合组织]]（OECD）将自身重新定位为“经济北约”和世界一流教育先锋，引入控制论与人力资本理论开展大规模劳动力市场需求预测；1960 年[[1960 Bellagio Conference|贝拉吉奥会议]]、1961 年华盛顿经合组织“经济增长与教育投资”政策会议全面确立人力资本政策正统。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 540–541)]]
-> - **1960–1964 — 理论经典奠基** 西奥多·舒尔茨（Theodore W. Schultz）发表《人力资本投资》（1961）与《教育的经济价值》（1963），加里·贝克尔（Gary S. Becker）出版《人力资本》（1964），系统确立以个人与社会收益率为核心的新古典微观与宏观[[Analytic Framework|分析框架]]。
+> - **1960–1964 — 经典理论创立** 西奥多·舒尔茨（Theodore W. Schultz）发表《人力资本投资》（1961）与《教育的经济价值》（1963），加里·贝克尔（Gary S. Becker）出版《人力资本》（1964），系统确立以个人与社会收益率为核心的新古典微观与宏观[[Analytic Framework|分析框架]]。
 > - **1962–1970 — 教育规划与比较教育应用** 赫伯特·帕恩斯（Herbert Parnes, 1962）主持 OECD 地中海地区项目（[[Mediterranean Regional Project|MRP]]），弗雷德里克·哈比森（Frederick Harbison）与查尔斯·迈尔斯（Charles Myers, 1964）建立跨国人力指数。伴随战后实证[[Scientism|科学主义]]运动，人力资本理论成为比较教育“第三代”的核心支柱；在“教育是开启现代化大门的钥匙”的[[Developmentalism|发展主义]]信条下，理论与方法论[[Empiricism|经验主义]]合流，构筑了“教育-发展-现代化”工具性发展[[Paradigm|范式]]，获得政府、基金会与跨国机构的全面制度背书。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 64, 67–68)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–148)]]
 > - **1970 年代中叶 — 范式危机与反思** 经济滞胀爆发，[[Credential Inflation|文凭通胀]]与青年失业打破了教育投资必然带动经济繁荣的神话，[[Torsten Husén|托斯滕·胡森]]（Torsten Husén, 1982）指出实证规划承诺全面破灭。
 > - **1978 — 高技术工程人力资本与多维流动机制** 杰罗姆·E·施奈（[[Jerome E. Schnee]]）将人力资本分析拓展至前沿高技术产业，实证揭示了空间与国防重大工程如何充当工程架构与项目管理人才的孵化池，并通过半导体企业间衍生网络与计算机企业内部跨部门迁移双重机制驱动国家高技术产业优势确立。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 17–20)]]
@@ -380,7 +380,7 @@ updated: 2026-11-19
 > > - **量化硬事实辩护者（OECD）** 主张基于人力资本理论的跨国测评能够剔除传统个案审议的主观性，为各成员国提供国际对标的“硬数据”，精准定位本国教育系统在知识经济竞争中的短板。
 > > - **[[Constructivist Paradigm|建构主义]]与批判学者（[[Argument_Niemann_Martens_2018_GSP|Niemann & Martens, 2018]]）** 揭示经合组织通过将复杂的教育生态简化为单一的人力资本素养分数，制造出一种[[Value Neutrality|价值中立]]的科学假象；在缺乏法定管辖权的情形下，这种“硬事实”成为经合组织施展[[Soft Power|软权力]]的政治工具，迫使主权国家顺从新自由主义人力资本范式，削弱了本土教育的多元民主[[Deliberative Space|审议空间]]。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 268–272)]]
 
-> [!citation-card] 教科文组织论人本身即是发展的终极目的
+> [!citation-card|notitle] 关键表述
 > 必须避免将人类发展等同于人力资源开发……关键在于将人视为发展的终极目的本身，而非实现经济目标的工具或手段；经济目标必须从属于人的自我完善与福祉。（Mayor et al., 1997, p. 89；引自 [[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 347]]）
 >
 > *It is simply a matter of regarding human beings not as instruments, means to the attainment of economic objectives, but as ends in themselves, the economic objectives being subordinated to their self-fulfilment and well-being.*

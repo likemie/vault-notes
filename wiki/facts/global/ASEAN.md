@@ -10,10 +10,10 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 49
-fact_related_level: 4
-fact_related_stars: "💎⭐"
-fact_related_color: "#dcfce7"
+fact_related_count: 50
+fact_related_level: 5
+fact_related_stars: "💎⭐⭐"
+fact_related_color: "#fecdd3"
 org_type: intergovernmental-organization
 headquarters: 雅加达（印度尼西亚）
 established: "1967"
@@ -79,6 +79,7 @@ related_arguments:
   - "[[Argument_Chou_2017_PolSoc]]"
   - "[[Argument_Murray_Moxon-Browne_2013_JCMS]]"
   - "[[Argument_Wang_Liang_Chen_2025_CES]]"
+  - "[[Argument_Dang_2017_ORE]]"
 confidence: high
 status: active
 created: 2026-10-20
@@ -99,7 +100,7 @@ updated: 2026-11-19
 ---
 
 > [!org-evolution] 组织发展历程
-> - **1967–1990** **初创奠基与冷战地缘合作**
+> - **1967–1990** **初创阶段与冷战地缘合作**
 >
 >   以安全互信与[[Geopolitics|地缘政治]]协调为主，确立不干预内政与协商一致的“[[ASEAN Way|东盟方式]]”（ASEAN Way）。
 >
@@ -139,7 +140,7 @@ updated: 2026-11-19
 > - **协商一致原则（Consensus）** 坚持在充分兼顾各成员国利益与舒适度的基础上形成政策共识，不采取多数表决制强加决议。
 > - **轮值主席国制度** 成员国按国名英文首字母顺序轮流担任主席国，每年主导并承办东盟峰会及系列部长级会议。
 > - **多边对话与“10+X”伙伴机制** 以“东盟中心地位”（ASEAN Centrality）为原则，主导与中国、日本、韩国、美国、[[EU|欧盟]]等对话伙伴的多边高层磋商机制。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 2, 7)]]
-> - **东盟方式与部门双轨分工** 坚持非正式、不干涉内政与协商一致的东盟方式，在高等教育治理中刻意维持精英高校网络（[[ASEAN University Network|AUN]]）与政府部委平台（[[SEAMEO RIHED]] / SOM-ED）的平级分立，防范国家官员与东盟代表权力混杂，排斥超国家集权官僚的生成。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 152–154)]]
+> - **东盟方式与部门双轨分工** 坚持非正式、不干涉内政与协商一致的东盟方式，在高等教育治理中刻意维持精英高校网络（[[ASEAN University Network|AUN]]）与政府部委平台（[[SEAMEO RIHED]] / SOM-ED）的平级分立，防范国家官员与东盟代表权力混杂，排斥超国家集权官僚的生成。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 152–154)]]; [[Argument_Dang_2017_ORE|(Dang, 2017, pp. 6–7)]]
 
 ---
 
@@ -229,3 +230,4 @@ updated: 2026-11-19
 > - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 结合中国—东盟全面战略伙伴关系与经贸走廊建设，系统论述职业教育高水平对外开放的政策链条、多边组织平台与现代工匠学院产教协同机制（pp. 286–301）。
 > - [[Argument_Murray_Moxon-Browne_2013_JCMS|Murray and Moxon-Browne (2013)]] — 比较欧盟常驻代表委员会与东盟常驻代表委员会的治理架构，评估东盟在制度拟态中面临的资源约束、协商规范差异与履约机制缺失等治理瓶颈（pp. 522–535）。
 > - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] — 比较欧洲与东南亚[[Global Regionalisms|高等教育区域主义]]，揭示东盟方式如何内生塑造名校结网与部委协调并立的双轨治理格局。
+> - [[Argument_Dang_2017_ORE|Dang (2017)]] — 考察东盟高教区域主义的三维治理机制，揭示非正式协商网络与弱连接在推进区域内协调及东亚社会化中的制度功能（pp. 3–14）。

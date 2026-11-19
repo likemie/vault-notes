@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-19
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -73,7 +73,7 @@ updated: 2026-11-11
 > - **用途** 作为整个研究设计的源头引擎，决定[[Cumulative Innovation|后续研究]]类型、研究问题、资料收集工具、抽样策略与研究伦理立场。
 > - **边界** 旨在界定提问的方向与交付类型，不等于预先设定或操纵研究结论；与探讨研究社会价值和立项合理性的“研究背景与原因”保持明晰分界。
 
-> [!citation-card] 科恩等论研究目的作为交付物界定
+> [!citation-card|notitle] 关键表述
 > 研究目的回答的核心问题是：研究的产出究竟是什么？研究要做什么？要找出什么？研究目的将宽泛意图转化为预期知识交付，表明研究所要提供的答案类型与信息范畴，有别于去操纵或预设经验结论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|(Cohen et al., 2011, Ch. 6, p. 115)]]
 >
 > *The purposes of the research answer the questions: What are the deliverables of the research? What is the research to do? What is the research to find out?... to declare what types of answers or information the research will provide.*
@@ -97,9 +97,9 @@ updated: 2026-11-11
 
 > [!feature] 核心要素
 > - **明确知识交付物** 将宽泛的研究意图转化为具体的预期产出清单，界定研究完成时学术界将获得的新事实、新因果解释或新理论框架。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|(Cohen et al., 2011, Ch. 6, p. 115)]]
-> - **决定研究类型取向** 不同的目的界定了不同的探究[[Paradigm|范式]]：检验因果成效导向实验或准实验，理解文化动态导向[[Ethnography|人种志]]，识别多因素关联导向调查与回归。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|(Cohen et al., 2011, Ch. 6, p. 115)]]
-> - **牵引工具与抽样规划** 目的直接规定了收集何种属性的数据资料，进而倒逼[[Questionnaire|问卷]]、[[Interview Protocol|访谈提纲]]或测验工具的编制，并确立样本的覆盖范围。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|(Cohen et al., 2011, Ch. 6, p. 116)]]
-> - **规范伦理立场与边界** 目的的性质决定了研究伦理规程的敏感度等级，包括[[Informed Consent|知情同意]]形式、公开或隐蔽探究的取舍以及[[Research Scope|研究范围]]的合理收拢。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|(Cohen et al., 2011, Ch. 6, p. 116)]]
+> - **决定研究类型取向** 不同的目的界定了不同的探究[[Paradigm|范式]]：检验因果成效导向实验或准实验，理解文化动态导向[[Ethnography|人种志]]，识别多因素关联导向调查与回归。
+> - **牵引工具与抽样规划** 目的直接规定了收集何种属性的数据资料，进而引导[[Questionnaire|问卷]]、[[Interview Protocol|访谈提纲]]或测验工具的编制，并确立样本的覆盖范围。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|(Cohen et al., 2011, Ch. 6, p. 116)]]
+> - **规范伦理立场与边界** 目的的性质决定了研究伦理规程的敏感度等级，包括[[Informed Consent|知情同意]]形式、公开或隐蔽探究的取舍以及[[Research Scope|研究范围]]的合理收拢。
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -155,6 +155,17 @@ updated: 2026-11-11
 
 > [!warning|limits] 适用局限
 > 研究目的仅规定了预期交付成果的类型与探索方向，不能直接保证具体研究操作的技术可行性或结论效度；若脱离实际资源禀赋与田野准入条件而设定过于宏大的研究目的，容易导致研究设计空转或虎头蛇尾。
+
+---
+
+> [!empirical-divider]
+
+> [!ref-table]- 其他实证结果（无效应量）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Barrenechea_2023_JEC\|Barrenechea et al. (2023, pp. 240–241)]] | 全系统教育改进领域的跨国实证文献库（初检去重后 $N = 1,970$） | 系统性文献综述与两轮严格初复筛设计 | 研究目的聚焦度分类与文献准入筛选率 | 依据题目与摘要所陈述的研究目的实施四分类，328 篇聚焦文献进入复筛，剔除 1,642 篇目的宽泛非聚焦文献，最终纳入 43 篇核心实证文献 | 质性扎根主题综合过滤 | 证实审验原始研究目的的聚焦程度是控制系统综述样本同质性与分析单位适切性的有效实证准入技术 |
 
 ---
 

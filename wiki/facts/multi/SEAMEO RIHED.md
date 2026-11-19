@@ -36,8 +36,7 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons:
-  - "[[Raymond Boudon]]"
+related_persons: []
 related_facts:
   - "[[SEAMEO]]"
   - "[[UNESCO]]"
@@ -52,6 +51,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Chou_2017_PolSoc]]"
   - "[[Argument_Indrarajah_2026_NJCIE]]"
+  - "[[Argument_Dang_2017_ORE]]"
 confidence: high
 status: active
 created: 2026-10-29
@@ -93,7 +93,7 @@ updated: 2026-11-19
 >
 >   - **2008** 发布《高等教育趋同：[[Bologna Process|博洛尼亚进程]]的经验教训》测绘报告，明确提示规避欧洲自上而下的同构趋同路径，并提出“迈向东南亚高等教育共同空间”蓝图。
 >   - **2010** 发起马印泰（M-I-T）学生流动试点，后升级为覆盖多国的[[AIMS Programme|亚洲国际学生流动计划]]（AIMS）。
->   - **2012** 发[[Raymond Boudon|布东]]南亚国家质保模型研究报告，推进国家资格框架与东盟资历参考框架（AQRF）对标。
+>   - **2012** 发布东南亚国家质保模型研究报告，推进国家资格框架与东盟资历参考框架（AQRF）对标。
 >   - **2024** 协同东盟正式联合签署《东南亚高等教育共同空间宣言》，将长期培育的政策架构固化为区域最高政治承诺。
 
 ---
@@ -108,6 +108,7 @@ updated: 2026-11-19
 > - **部委议程对接与共识凝聚** 依据各成员国教育部面临的发展瓶颈设定优先议题，遵循协商一致的“[[ASEAN Way|东盟方式]]”，在充分尊重国家主权的前提下拟定合作指南。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151–153)]]
 > - **小范围试点到多边推广** 采取渐进式试点策略，通过少数意愿国家（如马印泰三国）先行验证学分转换与互免学费机制，待机制成熟后再向全体成员国开放吸纳。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]
 > - **底层底线互通替代统一立法** 各国不制定超国家强制法律，通过研制质保比较指南与资历框架跨国对标工具，实现异质教育体系间的柔性连通。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 153–155)]]
+> - **交响乐团式的多元协调理念** 在区域高教协调研讨中倡导“交响乐团”理念，将成员国比作持有不同乐器的演奏者，主张在包容制度多样性与自愿协商的前提下推进互通，视协调为增进共识的动态演进过程。[[Argument_Dang_2017_ORE|(Dang, 2017, p. 7)]]
 
 ---
 
@@ -173,3 +174,4 @@ updated: 2026-11-19
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Indrarajah_2026_NJCIE|Indrarajah (2026)]] — 从[[Epistemology|认识论]]去殖民化视角检视 SEAMEO RIHED 与 AUN 主导的高教共同空间及 AIMS 跨国学生流动机制，主张破除对老挝、缅甸等后发成员国的排斥偏向，推进全域覆盖与本土人才循环（pp. 6–7, 13–15）。
 > - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] — 系统剖析 RIHED 组织定位、历史演进及其在东南亚双轨竞逐模式中地位的核心[[Document|文献]]。
+> - [[Argument_Dang_2017_ORE|Dang (2017)]] — 详述 SEAMEO RIHED 组织高等教育趋同研讨会、推行 AIMS 学生流动与 AQAN 质保体系的实践，剖析其融合多样性与自愿协商的交响乐团协调隐喻（pp. 6–7, 10–12）。

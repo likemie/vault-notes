@@ -9,7 +9,7 @@ subtype: organization
 region: multi
 fact_region: "multi"
 fact_kind: "organization"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -43,6 +43,7 @@ related_facts:
   - "[[ASEAN University Network]]"
 related_arguments:
   - "[[Argument_Chou_2017_PolSoc]]"
+  - "[[Argument_Dang_2017_ORE]]"
 confidence: high
 status: active
 created: 2026-10-29
@@ -122,7 +123,7 @@ updated: 2026-11-19
 > > SEAMEO 独立于东盟机构框架的自主存在，形成了东南亚区域教育多边治理的双轨形态。
 > >
 > > - **职能交叉与协调成本** 批评视角指出，SEAMEO 与东盟自身的教育部长会议（ASED）及东盟社会文化共同体教育处在职能、会议日程及项目推进上长期存在平行重叠，增加了各成员国教育部委的外交协调负担。
-> > - **制度弹性与包容优势** 辩护视角认为，SEAMEO 保持对东盟的法理独立性，使其能涵盖非东盟成员（如东帝汶）并吸纳广泛的域外联系国；在东盟政治协商面临阻力时，能够凭借专业教育中心的自治地位维系务实的技术性政策合作。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 147, 151)]]
+> > - **制度弹性与包容优势** 辩护视角认为，SEAMEO 保持对东盟的法理独立性，使其能涵盖非东盟成员（如东帝汶）并吸纳广泛的域外联系国；在东盟政治协商面临阻力时，能够凭借专业教育中心的自治地位维系务实的技术性政策合作。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 147, 151)]] 此外，东盟官员将 ASED 与 SEAMEO 的协作界定为教育领域的“兄弟关系”：ASED 依靠首脑峰会的国家元首政治授权掌握宏观战略方向，SEAMEO 则凭借半个世纪积累的专业声誉承担方案研发与技术落地，以非正式信任与默契分工化解行政管辖争议。[[Argument_Dang_2017_ORE|(Dang, 2017, pp. 6–7)]]
 
 ---
 
@@ -143,3 +144,4 @@ updated: 2026-11-19
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Indrarajah_2026_NJCIE|Indrarajah (2026)]] — 从认识论去殖民化视角检视 SEAMEO 与东盟双轨协调的高教共同空间建设，反思区域内部流动不平等并倡导本土哲学引领的包容性治理（pp. 6–7, 13–15）。
 > - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] — 比较欧洲与东南亚高等教育区域主义，阐述 SEAMEO 独立法理地位、历史演进及其在东南亚部委协调模式中的核心支柱作用（pp. 147, 151–154）。
+> - [[Argument_Dang_2017_ORE|Dang (2017)]] — 阐述 SEAMEO 与东盟教育部长会议（ASED）的“兄弟协作”分工机制，揭示专业方案研发与政治合法性统揽如何共同维系区域高等教育治理（pp. 6–7）。
