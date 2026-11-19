@@ -16,9 +16,9 @@ person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
-born: ""
+born: "c. 1968"
 died: ""
-lifespan: ""
+lifespan: "c. 1968–至今"
 related_count: 0
 related_level: 0
 related_stars: "☆"
@@ -80,7 +80,7 @@ updated: 2026-11-20
 > [!timeline] 生平与职涯
 > - **1990s–2005** 在非洲与亚洲多国长期从事联合国教科文组织、联合国儿童基金会与非政府组织基层扫盲与国际开发援助实践。
 > - **2005** 于美国马里兰大学（University of Maryland, College Park）获得国际教育政策博士学位，聚焦非洲基础教育与公私伙伴关系（PPP）批判研究。
-> - **2006–2012** 任教于香港大学教育学院，开展跨国多点田野调研，系统发表关于中国对非教育合作的系列经典实证论文。[[Argument_Nordtveit_2011_IJED|(Nordtveit, 2011, p. 99)]]
+> - **2006–2012** 任教于香港大学教育学院，开展跨国多点田野调研，系统推进关于中国对非教育合作的系列实证研究。[[Argument_Nordtveit_2011_IJED|(Nordtveit, 2011, p. 99)]]
 > - **2013–2018** 担任国际顶级期刊《比较教育评论》（*Comparative Education Review*）主编，任职于麻省大学阿默斯特分校，推动比较教育话语体系去殖民化与多元方法论建设。
 
 ---
@@ -121,10 +121,10 @@ updated: 2026-11-20
 > | [[Brain Drain]] | 概念 | 批判对象；对比中西方奖学金供给层级对受援国人才外流的不同影响机制。 |
 > | [[Elite Capture]] | 概念 | 治理挑战；揭示双边封闭直达模式在受援国内部面临的政客选址劫持与寻租风险。 |
 > | [[Forum on China-Africa Cooperation]] | 事实 | 制度背景；剖析三年行动计划峰会机制对中非教育合作的脉冲式推动。 |
-> | [[Zhejiang Normal University]] | 事实 | 调研基地；将浙师大作为中国对非教育合作与海外孔院共建的国内核心实地。 |
+> | [[Zhejiang Normal University]] | 事实 | 调研基地；将浙师大作为中国对非教育合作与海外孔院共建的国内重要调研实地。 |
 > | [[Bandung Conference]] | 事实 | 历史源头；追溯万隆会议对当代中非文教交往与教育外交的开创性意义。 |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Nordtveit_2011_IJED|Nordtveit (2011)]] — 诺德维特代表性国别实证论文，以喀麦隆为个案深度解构中国对非教育合作的历史演进与微观落地机制。
+> - [[Argument_Nordtveit_2011_IJED|Nordtveit (2011)]] — 以喀麦隆为个案深度解构中国对非教育合作的历史演进与微观落地机制。

@@ -1326,5 +1326,15 @@
       "sentence": "step] 论证步骤三 系统英译欧洲一手文献打破了英美学界的单语自负，促进双向学术流通",
       "target": "wiki/concepts/educational-philosophy/Philosophical Aesthetics.md"
     }
+  ],
+  "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md": [
+    {
+      "sentence": "汲取多层分析与生态效度理论，建构垂直案例研究的分析架构，确立立足首要场域、纵向贯通微观与宏观权力的操作逻辑。",
+      "target": "wiki/concepts/sociology-of-education/Champ.md"
+    },
+    {
+      "sentence": "剖析成人扫盲与艾滋病预防干预的实证文献，结合联合国教科文组织（United Nations Educational, Scientific and Cultural Organization, UNESCO）全民教育（Education for All, EFA）全球监测报告，揭示单一宏观模型因剥离微观情境导致的数据不可比与政策落空机制。",
+      "target": "wiki/concepts/research-methodology/Document.md"
+    }
   ]
 }

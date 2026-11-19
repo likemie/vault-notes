@@ -193,6 +193,7 @@ updated: 2026-11-20
 > - **超国家标准化度量空间（Supranational Metric Assessment Space）** 20 世纪末期由国际大规模测评（如 [[IEA]]、[[OECD]]/[[PISA]]）所构建的去情境化、以量化[[Performance Indicators|绩效指标]]和通用胜任力为导向的数据空间，将分析基准从历史文化国别容器重构为跨国能力度量衡网络。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 95–96)]]
 > - **微观田野与多点比较案例（Micro-[[Fieldwork]] & [[Comparative Case Study]]）** 阿诺夫等学者倡导将分析单位深入课堂[[Rich and Thick Description|深描]]、基层女教师博弈与乡村青年亚文化，实现宏观世界体系与微观生活世界的辩证对接。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–110)]]
 > - **[[Space of Flows|流动空间]]中的跨国五重结构性[[Discourse|话语]]位置（Transnational Network Positions in the Space of Flows）** 比奇（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）融合[[Basil Bernstein|伯恩斯坦]]语篇位置与卡斯特[[Space of Flows|流动空间]]理论，批判将民族国家作为天然分析容器的[[Methodological Nationalism|方法论民族主义]]；确立由全球学术、国际机构、国家官方、本土学术与微观学校五大结构位置构成的关系型分析单位，将分析基准转向非领土化网络中流通的符号与话语控制权节点。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349–351)]]
+> - **多尺度垂直贯通分析单位（Multi-Scalar Vertically Bounded Unit）** 瓦夫鲁斯与巴特利特（[[Argument_Vavrus_2006_CICE|Vavrus & Bartlett, 2006]]）结合布雷与托马斯（Bray and Thomas, 1995）的多层分析框架以及马金森与莫里斯（Marginson & Mollis, 2001）对民族国家基本分析单位的解构，提出[[Vertical Case Study|垂直案例研究]]；将分析单位重构为跨越超国家政策宣示、国家制度网络、地方学区以及微观个体日常实践的“纵向限定案例（vertically-bounded case）”，在单一案例内部系统比对不同社会位置行动者的知识主张，实现宏观历史结构与微观生活经验的纵向贯通。[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, pp. 95–97)]]
 
 > [!taxonomy] 量化[[Research Synthesis|证据综合]]与[[Meta-analysis|元分析]]中的分析单位层级（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]; Cooper & Koenka, 2012）
 > - **微观层级：个体受试者（Individual Participant / Micro-unit）** 实证实验的最底层数据源，对应于个体受试者数据（Individual Participant Data, IPD）元分析；能最精确地控制协[[Variable|变量]]与被试[[Heterogeneity|异质性]]，但通常在汇总报告中已被聚合。
@@ -341,6 +342,7 @@ updated: 2026-11-20
 > | **体系转变命题** | 宏观比较分析单位由 19 世纪“以校为中心”的孤立办学视察向 20 世纪初“民族国家整体教育体系”发生历史性转变 | 办学行政借用与立法合法化、文化[[Situative Perspective\|情境主义]]、[[Intangible Spiritual Forces\|无形精神力量]]探究 | Sadler (1900); [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 140–142)]] |
 > | **主题多案例命题** | 主题化多案例横向比较超越孤立单国容器与去文脉量化两极，将分析单位拓展为深嵌制度文脉的多国主题比较网络 | 跨国平行个案对照、制度文脉保留、主题式概念提炼 | Bereday (1964); Springer (1977); [[Argument_Silova_2009_EE\|Silova (2009, pp. 22–25)]] |
 > | **网络位置命题** | 解构方法论国家主义，将分析单位从领土国家容器重构为跨国流动空间中的五大结构性话语位置 | 流动空间覆盖地方空间、多标度话语流通、结构位置权力不对称 | [[Jason Beech\|Beech (2009b)]]; [[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 349–351)]] |
+> | **垂直案例多尺度命题** | 解构民族国家单一分析单位，将分析单位重构为贯通宏观权力与微观生活世界的纵向限定案例 | 垂直案例研究、多尺度比较、情境知识内在性 | [[Argument_Vavrus_2006_CICE\|Vavrus and Bartlett (2006)]]; Marginson and Mollis (2001) |
 > | **证据综合错位命题** | 二级元分析误将元分析作为独立分析单位引发文献重叠多重计数，破坏独立性公理并导致虚假精度 | 抽样单位与因果单位错位、文献重叠协方差失效、一步式直接汇总 | Cooper and Koenka (2012); [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, pp. 24–25, 29–30)]] |
 
 ---
@@ -357,6 +359,7 @@ updated: 2026-11-20
 > - **1990s — 聚合[[Reliability|信度]]律与多层比较模型** 罗伯特·韦伯（Weber, 1990）总结聚合尺度与信度的反比关系；布雷与托马斯（Bray & Thomas, 1995）构建比较教育多维分析单位立方体框架。
 > - **2000s–2010s — [[Complexity Theory|复杂性理论]]的生态网络转向** [[Keith Morrison|莫里森]]（Morrison, 2008）与卡普拉（Capra, 1996）推动分析单位从离散原子实体转向围绕奇异吸引子生成的共生生态系统，实现宏微观研究的方法论贯通。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 31)]]
 > - **2002–2009 — 多标度空间治理与微观比较案例转向** 戴尔与罗伯逊等人（2002）提出[[Pluri-Scalar Governance|多标度治理]]矩阵；阿诺夫（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）倡导微观田野[[Rich and Thick Description|深描]]与[[Comparative Case Study|比较案例研究]]（CCS），推动分析单位向宏微观辩证贯通演进。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–111)]]
+> - **2006 — 垂直案例研究与多尺度分析单位确立** [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] 结合非洲实地研究，将比较教育的区位层级从方法论工具提升为认识论范式，确立纵向贯通微观地方与宏观全球的多尺度分析单位范式。
 > - **2009 — [[Space of Flows|流动空间]]中的五大结构位置分析单位** 比奇（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）批判比较教育学中的[[Methodological Statism|方法论国家主义]]，整合[[Basil Bernstein|伯恩斯坦]]语篇位置与卡斯特[[Space of Flows|流动空间]]理论，将分析单位从静态主权国家容器重构为跨国沟通网络中的五大结构性[[Discourse|话语]]位置（全球学术、国际机构普遍模型、国家官方、本土学术与学校机构）。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349–351)]]
 > - **2012–2016 — [[Research Synthesis|证据综合]]与[[Meta-meta-analysis|二阶元分析]]的分析单位纠偏** 库珀与科恩卡（Cooper & Koenka, 2012）及[[Christof Wecker|韦克尔]]等人（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）系统剖析宏观[[Umbrella Review|伞状综述]]中的“分析单位错位”，揭示文献重叠破坏独立性公理的机制，确立独立原始研究为证据综合的真实因果与统计基准单位。
 > - **2000s 至今 — 超国家标准化度量指标空间** 伴随 [[OECD]]/[[PISA]] 等国际大规模测评的支配性影响，以跨国统一技能与[[Performance Indicators|绩效指标]]为载体的超国家数据空间成为新型分析单位，与传统历史文化容器形成剧烈张力。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 95–96)]]
@@ -448,6 +451,7 @@ updated: 2026-11-20
 > | [[Beech's Model of Discourse Circulation\|比奇话语流通模型]] | 理论 | 将分析单位从封闭国家容器重构为跨国网络流通中的五大结构性话语位置。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 349–351)]] |
 > | [[Meta-analysis\|元分析]] | 方法 | 一阶元分析以独立原始实证研究为分析单位，遵循独立抽样与方差反比赋权公理。 |
 > | [[Meta-meta-analysis\|二级元分析]] | 方法 | 宏观伞状综述中必须解决分析单位错位问题，避免将包含重复文献的一级元分析当作独立单位。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 24–25)]] |
+> | [[Vertical Case Study\|垂直案例研究]] | 方法 | 垂直案例研究将分析单位重构为纵向贯通微观地方生活与宏观国家及全球权力的多尺度网络。[[Argument_Vavrus_2006_CICE\|(Vavrus & Bartlett, 2006, pp. 95–97)]] |
 > | [[Inverse-Variance Weighting\|逆方差加权法]] | 方法 | 逆方差加权依赖分析单位的相互独立性；若分析单位存在重叠，协方差失效将导致估计偏差。 |
 > | 编码 | 方法 | 分析单位构成了质性编码的操作载体；编码是对分析单位赋予概念化标签的过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 560)]] |
 > | [[Content Analysis\|内容分析]] | 方法 | 分析单位的科学划分（抽样、记录、语境单位）是内容分析 11 步标准化操作规程的核心前置环节。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, pp. 564–565)]] |
@@ -470,3 +474,4 @@ updated: 2026-11-20
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 提出[[Complexity Theory|复杂性理论]]重构分析单位的理论命题（Ch. 1, p. 31），并系统阐释[[Content Analysis|内容分析]]中三级分析单位的划分原则、五类抽样与记录单位形态，以及聚合尺度与[[Reliability|信度]]的反比权衡规律（Ch. 30）。
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 规范[[Qualitative Research|质性研究]]与[[Mixed Methods Research|混合方法]]设计中分析单位的选择，强调避免在不同分析阶段混淆个体与群体聚合单位（Ch. 9, 10）。
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 梳理系统改进研究历程，阐明全国统测如何推动分析单位从单体学校拓展至以学区和国家为独立分析单元的纵向实证追踪。
+> - [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] — 汲取 Bray and Thomas (1995) 与 Marginson and Mollis (2001) 理论，批判将民族国家作为孤立基本分析单位的局限，确立贯通微观地方经验与宏观全球权力的垂直案例多尺度分析单位（pp. 95–97）。

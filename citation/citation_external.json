@@ -6823,8 +6823,6 @@
     "Dooley & Kirk, 2007": "Dooley & Kirk, 2007",
     "Dooley (2001)": "Dooley, 2001",
     "Dooley, 2001": "Dooley, 2001",
-    "Doreen Massey (2005)": "Doreen Massey, 2005",
-    "Doreen Massey, 2005": "Doreen Massey, 2005",
     "Dori (1995)": "Dori, 1995",
     "Dori, 1995": "Dori, 1995",
     "Dormann & Dedering (2014)": "Dormann & Dedering, 2014",
@@ -79224,21 +79222,6 @@
       ],
       "title": ""
     },
-    "Doreen Massey, 2005": {
-      "aliases": [
-        "Doreen Massey, 2005",
-        "Doreen Massey (2005)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Doreen Massey, 2005"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/higher-education/Scale in Higher Education.md"
-      ],
-      "title": ""
-    },
     "Dori, 1995": {
       "aliases": [
         "Dori, 1995",
@@ -148850,7 +148833,7 @@
         "wiki/concepts/political-economy-geopolitics/Geopolitics of Knowledge.md",
         "wiki/theories/political-economy-geopolitics/Power-Geometries.md"
       ],
-      "title": ""
+      "title": "For Space"
     },
     "Marginson, 2016": {
       "aliases": [
@@ -150671,7 +150654,7 @@
       "identity_keys": [
         "Massey, 2005"
       ],
-      "isbn": "",
+      "isbn": "9781412903622",
       "seen_in": [
         "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Marginson_2025_ECNUROE.md",
         "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md",
@@ -150682,7 +150665,7 @@
         "wiki/theories/comparative-education/World-Systems Theory.md",
         "wiki/theories/political-economy-geopolitics/Power-Geometries.md"
       ],
-      "title": ""
+      "title": "For Space"
     },
     "Massey, 2009": {
       "aliases": [

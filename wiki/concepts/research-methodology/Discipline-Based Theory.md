@@ -139,6 +139,7 @@ updated: 2026-11-14
 > 米特（[[Argument_Mitter_2009_Europe|Mitter, 2009, pp. 93–94]]）指出，欧洲比较教育学的发展牢固依托于大学讲座教授制（University Chairs）：
 > - **母学科理论壁垒** 欧洲各大学的比较教育讲座长期由历史学、哲学与[[Allgemeine Pädagogik|普通教育学]]（[[Allgemeine Pädagogik]]）学者执掌，学科本位理论牢牢占据学术[[Discourse|话语]]的“指挥高地”。
 > - **抵御[[Empiricism|经验主义]]测验** 与北美[[Behaviorism|行为主义]]与纯实证调查导向不同，欧洲学科本位学者长期将大型跨国心理测量调查（如早期 [[IEA]] 调查）视为缺乏学科理论根基的边缘技术，坚决捍卫以文化解释、历史演变与教育哲学为核心的学科理论正统。
+> - **比较教育专业培养中的学科理论深度** 针对比较教育领域存在的浅表方法技术争论与短期无根评估偏向，瓦夫鲁斯与巴特利特（[[Argument_Vavrus_2006_CICE|Vavrus & Bartlett, 2006, pp. 101–102]]）提出博士生必须接受至少一门社会科学或人文学科母学科（如人类学、社会学、经济学、历史学或政治学）的扎实理论训练，将学科理论深度与区域语言文化知识深度结合，为保障多尺度案例研究的生态效度提供认识论支撑。
 
 > [!feature] [[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]对学科理论的[[Epistemology|认识论]]降解
 > 里兹维与林加德（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, pp. 445–446]]）基于新增长理论与 Lundvall（1992）的学习型经济模型，剖析了超国家政策话语中对学科理论的系统性重构：
@@ -254,8 +255,24 @@ updated: 2026-11-14
 
 ---
 
-> [!evidence-grid] 相关研究索引
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Allgemeine Pädagogik]] | 概念 | 普通教育学，欧洲比较教育学依托大学讲座教授制确立的传统母学科理论。 |
+> | [[Theoretical Knowledge]] | 概念 | 理论知识，以命题与事实为核心的结构化知识（knowing that），构成学科理论的本体内容。 |
+> | [[Procedural Knowledge]] | 概念 | 程序性知识，知识经济政策推崇的实践操作能力（knowing how），对学科理论构成认识论冲击。 |
+> | [[Mixed Methods Research]] | 方法 | 混合方法研究，学科理论为其提供贯通质性叙事与量化测量的统一解释框架。 |
+> | [[Vertical Case Study]] | 方法 | 垂直案例研究，主张通过母学科理论训练提供深度，以平衡比较方法的多样性。 |
+> | [[John W. Creswell]] | 人物 | 混合方法研究先驱，系统归纳学科理论在混合设计中的六大功能模型。 |
+> | [[Wolfgang Mitter]] | 人物 | 比较教育学者，系统阐释欧洲比较教育讲座依托母学科理论抵御外生经验测验的历史传统。 |
+> | [[Fazal Rizvi]] | 人物 | 批判政策学者，揭示知识经济政策话语对学科理论的系统性边缘化。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022, pp. 69–72)]] — 详尽论述学科理论在[[Mixed Methods Research|混合方法研究]]中的概念界定、六大功能模型与经典研究案例。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009, pp. 93–94)]] — 阐析欧洲比较教育学依托大学讲座教授制建立的学科本位理论传统，及其对早期无理论依托量化测验的警惕与抵制。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 445–446)]] — 揭示[[OECD|经合组织]][[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]如何将学习重心从客观学科理论（knowing that）转移至程序性操作技能（[[Procedural Knowledge|knowing how]]），解构了学科理论的[[Epistemology|认识论]]边缘化。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 调动系统论、具身认知、政治经济学与教化哲学等多学科理论，抵抗可见学习去理论化的评价[[Positivism|实证主义]]（pp. 3–10）。
+> - [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] — 针对比较教育研究生培养中方法技术争论的浅表化，提出结合人类学、社会学等母学科理论开展深度训练，为多尺度垂直案例研究筑牢认识论根基（pp. 101–102）。
