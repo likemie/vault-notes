@@ -8,7 +8,7 @@ aliases:
 summary: "行动者基于对自身社会阶层地位、家庭资源禀赋与宏观机会结构的理性评估，对个体或子女未来实际可能达到的受教育程度做出的现实性概率判断，区别于脱离现实约束的主观教育抱负。"
 type: concept
 domain: "sociology-of-education"
-related_count: 21
+related_count: 20
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Construct]]"
   - "[[Teacher Expectations]]"
-  - "[[Phronesis]]"
   - "[[Aspiration Interventions]]"
   - "[[Cultural Capital]]"
   - "[[Habitus]]"
@@ -66,7 +65,7 @@ updated: 2026-11-19
 
 > [!boundary]- 概念边界
 > - 不等同于 教育抱负（Educational Aspirations）：抱负体现不受资源限制的理想愿望（如希望孩子读名校），期望体现嵌入现实约束的可行性判断（如评估家庭经济与升学概率后预期就读大专或中职）。
-> - 区别于 [[Teacher Expectations\|教师期望]]（Teacher Expectations）：教师期望为教育者对受教育者发展潜力的外部评价，教育期望则来自行动者或家庭自身的内部[[Phronesis|实践理性]]。
+> - 区别于 [[Teacher Expectations\|教师期望]]（Teacher Expectations）：教师期望为教育者对受教育者发展潜力的外部评价，教育期望则来自行动者或家庭自身的内部实践理性。
 
 ---
 

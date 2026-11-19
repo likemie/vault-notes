@@ -1266,5 +1266,15 @@
       "sentence": "**资助与跨区架构** 全称为创新、创造力与创业共创支持系统，由莱里亚理工学院作为主发起方，联合贝雅、布拉干萨、布朗库堡、卡瓦杜与阿韦、科英布拉、瓜尔达、波塔莱格雷、波尔图、圣塔伦、托马尔、维亚纳杜卡斯特罗及维塞乌共 12 所理工学院及芬兰企业 Demola Global 共同构建全国协作网络。",
       "target": "wiki/persons/brazil/Claudio de Moura Castro.md"
     }
+  ],
+  "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md": [
+    {
+      "sentence": "农村底层居民始终深谙学校教育与社会流动之间的工具联系，其展现的冷漠与退却实质为“读书无望”：宏观社会结构的阶层固化与差异化的教育机会分配格局，经由日常生活实践内化为底层家长的生存心态，促使其对子女实际学业成就与流动终点形成克制的主观期望。",
+      "target": "wiki/concepts/educational-philosophy/Alienation.md"
+    },
+    {
+      "sentence": "在普通高校文凭贬值、昂贵就学成本以及关系资本门槛的多重挤压下，调低期望并缩减教育投入体现了弱势群体规避家庭经济破产风险的防御性实践理性，区别于西方工人阶层的反学校亚文化抵制。",
+      "target": "wiki/concepts/educational-philosophy/Phronesis.md"
+    }
   ]
 }

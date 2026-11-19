@@ -146,14 +146,17 @@ updated: 2026-11-19
 
 ---
 
-> [!concept-proposition] 命题二｜阶层特异性惯习形塑了高等教育场域中差[[Alienation|异化]]的生活组织模式与分流路径
-> **文化常识与大学实践图式** 家庭社会化赋予个体的阶层惯习，直接规定了其在高等教育制度环境中识别机遇、动员资源与制定生涯规划的认知框架。
+> [!concept-proposition] 命题二｜阶层特异性惯习形塑了学业与生涯发展中差异化的策略选择与分流路径
+> **文化常识与实践图式分化** 家庭社会化赋予个体的阶层惯习，直接规定了行动者在制度环境中识别机遇、动员资源与制定学业及生涯规划的认知框架。
 
 > [!claim] Zheng, Y.
 > **两种生活组织模式的阶层根源** [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君（2023）]] 证实，精英大学学生的生活组织方式深受家庭社会化塑造的惯习所分化：优势阶层学生内化了长线规划与制度通晓倾向，自然呈现为具备清晰路径的[[Goal-Controlled Mode|目标掌控模式]]；弱势阶层学生因缺乏高等教育[[Tacit Knowledge|隐性知识]]，沿用应试阶段被动服从指令的倾向，陷入浑然不觉的[[Intuition-Dependent Mode|直觉依赖模式]]。
 
 > [!claim] [[Marcia Baxter Magolda|Baxter Magolda]], M. / Zheng, Y.
 > **自我主导能力背后的阶层惯习支撑** 将布迪厄惯习理论与马西亚·巴克斯特·马戈尔达（[[Marcia Baxter Magolda]]）的[[Self-Authorship|自我主导性]]理论结合，能够阐明“目标掌控”所依赖的高阶认知与认同能力实为优势阶层中等教育环境长期培育的具身化惯习成果，超越了单纯的[[Talent Assumption|天赋假设]]（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。
+
+> [!claim] Xie, A.
+> **生存心态对客观机会结构与主观期望的中介转化** [[Argument_Xie_2017_PKUER|谢爱磊（2017）]] 将布迪厄惯习（生存心态）推进至中国转型期农村底层家庭研究，阐明生存心态具备实践反思特征：宏观教育扩张与城乡机会结构的阶层固化，经由日常生活实践内化为底层家长的实践图式；优势阶层将资本优势转化为持续的高学业期望，而底层家长在评估家庭资源匮乏与普通文凭就业困境后主动调低期望，证实生存心态在客观机会结构与分层教育期望之间充当关键的生成中介。[[Argument_Xie_2017_PKUER|(谢爱磊, 2017, pp. 95, 101–102)]]
 
 ---
 
@@ -175,7 +178,7 @@ updated: 2026-11-19
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **场域错配与心理断裂** | 跨场域流动中惯习滞后、错置与分裂的微观机制 | 向上流动阶层学生、教师升任校长等角色转换场景 | Bourdieu and Wacquant (1992); Reay et al. (2009); [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]; [[Argument_Eacott_2011_JEAH\|Eacott (2011)]] |
-> | **阶层分流与生活模式** | 阶层特异性惯习形塑大学生涯规划策略与分流结果 | 精英高等教育机构内部的学业与生涯选择 | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]; [[Marcia Baxter Magolda\|Baxter Magolda (2001)]] |
+> | **阶层分流与生活模式** | 阶层特异性惯习形塑大学生涯规划策略与分流结果 | 精英高等教育机构内部的学业与生涯选择 | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]; [[Marcia Baxter Magolda\|Baxter Magolda (2001)]]; [[Argument_Xie_2017_PKUER\|谢爱磊 (2017)]] |
 > | **再社会化与倾向重塑** | 密集制度经验推动惯习图式调适与策略扩充 | 高等教育学术浸润、[[Mentorship\|导师制]]与专业再社会化 | Stevens et al. (2008); [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] |
 
 ---
@@ -216,7 +219,7 @@ updated: 2026-11-19
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 将阶层惯习操作化为目标掌控与直觉依赖模式（第三章），在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]论述再社会化重塑，在[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|第五章]]分析学校化惯习，并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|第六章]]论述惯习裂化的叙事弥合路径。
-> - [[Argument_Xie_2017_PKUER|谢爱磊 (2017)]] — 借助生存心态视角解构中国农村底层教育观念，揭示宏观机会结构如何转化为分层[[Educational Expectations|教育期望]]与[[Phronesis|实践理性]]防御。
+> - [[Argument_Xie_2017_PKUER|谢爱磊 (2017)]] — 借助生存心态视角解构中国农村底层教育观念，揭示宏观机会结构如何转化为分层[[Educational Expectations|教育期望]]与实践理性防御。
 > - [[Argument_Eacott_2011_JEAH|Eacott (2011)]] — 追踪澳大利亚公立学校校长在教育价值守正与绩效考核问责之间的领导惯习分裂。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 探讨地方教育行动者如何在既有制度常识与实践惯性中[[Recontextualization|再情境化]]跨国政策[[Paradigm|范式]]。
 
