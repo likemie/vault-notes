@@ -7,7 +7,7 @@ aliases:
 summary: "将教育与技能投资视为提升劳动生产率与驱动内生经济增长的核心生产性投资之经济学理论；二战后经舒尔茨与贝克尔奠定微观与宏观基础，在冷战地缘博弈中成为经合组织（OECD）推行人力规划与世界银行构建跨国放贷指标帝国的理论支柱；尼曼与马滕斯（2018）等实证揭示其在当代被转化为 PISA 量化硬事实以确立经合组织全球认知权威与软治理机制"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 116
+theory_related_count: 117
 theory_related_level: 11
 theory_related_stars: "💎💎💎⭐⭐"
 theory_related_color: "#fef3c7"
@@ -142,10 +142,11 @@ related_arguments:
   - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Argument_Vavrus_2006_CICE]]"
 confidence: high
 status: completed
 created: 2026-09-08
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 
 ---
@@ -362,6 +363,12 @@ updated: 2026-11-19
 > > - **传统宏观人力资本学派（Schultz, 1961; Psacharopoulos, 1981）** 将[[Educational Level|受教育年限]]和入学率作为核心测算指标，假定学校教育年限的增加可自发转化为劳动技能与边际生产力增长。
 > > - **新实证教育经济学与[[World Bank|世行]][[Learning Crisis|学习危机]]转向（[[Argument_WorldBank_2019_Teach|World Bank Group, 2019]]）** 揭示发展中国家普遍陷入“有学无教”（Schooling without Learning）困境，基础教育普及未能消除学习贫困；实证证据证明教师教学效能的微观差异是决定人力资本积累的最关键校内源泉，推动人力资本积累分析从宏观入学年限深入至微观课堂互动质量测评。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 1–3)]]
 >
+> > [!axis] 人力资本投资直接变现假定 vs 宏观结构调整下的地方劳动力市场吸纳赤字
+> > 围绕增加受教育年限与人力资本存量是否必然自发转化为个体阶层流动与宏观经济增长，还是受制于宏观经济紧缩与地方劳动力市场吸纳能力展开交锋。
+> >
+> > - **世界银行正统人力资本假说（World Bank, 1995; Schultz, 1961）** 预设教育投资与个人未来收益之间存在线性的因果变现链条，假定中等教育扩张能够直接提升劳动生产率并驱动发展中国家经济腾飞。
+> > - **批判政治经济学与情境反思（[[Argument_Vavrus_2006_CICE|Vavrus & Bartlett, 2006]]）** 揭示“人力资本投资直接变现假定”忽视了国际金融机构推行结构调整计划（SAPs）与财政紧缩所造成的深层破坏；坦桑尼亚等国实地田野表明，公共部门岗位冻结与地方劳动力市场吸纳能力萎缩，使贫困家庭在承担沉重学费成本后陷入“文凭无用”的生存困境，抽离宏观政治经济约束的人力资本推论具有严重虚构性。[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, p. 97)]]
+>
 > > [!axis] 人力资源开发（HCT）vs 人本主义全面发展（[[UNESCO]]）
 > > 围绕教育的终极目的是服务于经济增长与资本积累的“人力资源开发”（Human Resource Development），还是实现人本身的尊严、自我完善与终极福祉展开交锋。
 > >
@@ -411,3 +418,4 @@ updated: 2026-11-19
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 解剖欧盟《里斯本战略》如何将人力资本理论升格为超国家教育软治理支柱，将教育重塑为知识经济“无形投资”并将就业风险个体化。（pp. 482–484）
 > - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 追踪面向 2030 年欧洲教育区战略形成，揭示欧盟在基础技能与早期离校等指标上长达二十年的人力资本投资与就业导向连续性。
 > - [[Argument_Zheng_2023_ShanghaiSanlian_Ch06|郑雅君 (2023)]] — 对比地位获得研究的人力资本假说与文化社会学范式，实证揭示名校寒门学子毕业出路劣势源于习性与场域错配的文化障碍，而非人力资本投资不足 (pp. 358–360)。
+> - [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] — 结合坦桑尼亚中等教育与结构调整实证案例，批判世界银行将人力资本投资视为必然直接变现为经济增长的虚假假定，揭示宏观紧缩政策对地方劳动力吸纳能力的实质阻抑。

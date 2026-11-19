@@ -139,10 +139,11 @@ related_arguments:
   - "[[Argument_Mowery_2011_NBER]]"
   - "[[Argument_Anderson_2016_Verso]]"
   - "[[Argument_Anderson_2016_Verso_Ch09]]"
+  - "[[Argument_Silova_2009_EE]]"
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 
 > [!def] Historical-Comparative Method

@@ -133,9 +133,9 @@ related_arguments:
   - "[[Argument_Deng_2016_CE]]"
   - "[[Argument_Chua_2011_CILP]]"
 confidence: high
-status: draft
+status: active
 created: 2026-06-01
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 
 ---
@@ -235,7 +235,7 @@ updated: 2026-11-19
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Policy Transfer Framework]] | 理论原型 | 戴维·多洛维茨与戴维·马什建构的六维跨国借用分析框架，为[[Policy Science in Comparative Education\|政策科学]]分析框架提供奠基范例。 |
+> | [[Policy Transfer Framework]] | 理论原型 | 戴维·多洛维茨与戴维·马什建构的六维跨国借用分析框架，为[[Policy Science in Comparative Education\|政策科学]]分析框架提供经典范例。 |
 > | [[Beech's Model of Discourse Circulation]] | 理论原型 | 结合[[Basil Bernstein\|伯恩斯坦]]与卡斯特流动空间理论构建的五位置话语流通分析框架。 |
 > | [[Conditioned State Theory]] | 理论构件 | 为比较教育政治社会学分析框架提供外围依附的核心分析维度。 |
 > | [[State Corporatism]] | 理论构件 | 为国家控制教育利益集团的制度分析提供框架构件。 |

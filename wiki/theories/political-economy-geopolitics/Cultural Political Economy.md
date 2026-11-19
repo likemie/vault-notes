@@ -6,7 +6,7 @@ aliases:
 summary: "把符号意义建构与结构物质过程放在同一分析框架中的理论，用于解释经济与政治秩序如何同时由话语和制度共同塑造"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 44
+theory_related_count: 45
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -56,7 +56,7 @@ related_persons:
   - "[[Bob Jessop]]"
   - "[[Norman Fairclough]]"
   - "[[Sami Moisio]]"
-  - "[[Ben Levin]]"
+  - "[[Iveta Silova]]"
 related_facts:
   - "[[Belt and Road Initiative]]"
   - "[[Luban Workshop]]"
@@ -65,11 +65,12 @@ related_arguments:
   - "[[Argument_Moisio_2022_Springer]]"
   - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_Schulze-Cleven_2017_HE]]"
+  - "[[Argument_Silova_2009_EE]]"
 related_instruments: []
 confidence: medium
-status: draft
+status: active
 created: 2026-05-19
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 
 ---
@@ -92,14 +93,15 @@ updated: 2026-11-19
 > - **形成路径** 将[[Linguistic Turn|语言学转向]]引入国家理论与积累体制分析，确立“符号化（Semiosis）”与“结构化（Structuration）”两条平行且交织的因果进路，把想象定位为连接微观主观意义与宏观客观体制的中介枢纽。
 
 > [!dev-timeline] 理论版本与贡献
-> - **2013 年 — 奠基之作** 岑丽玲与杰索普出版专著，系统确立文化政治经济学（Cultural Political Economy, CPE）本体论、[[Epistemology|认识论]]与演化机制，划清与[[Post-structuralism|后结构主义]]极端文本主义的边界。[[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022, p. 202)]]
+> - **2009 年 — 比较教育与后社会主义转型空间重构** 比较教育学者将文化政治经济学的符号话语与地缘经济双重维度引入欧洲与欧亚后社会主义转型研究，反思新自由主义全球指标修辞与政策借用背后的地缘政治权力结构（[[Argument_Silova_2009_EE|Silova, 2009, pp. 24–28]]）。
+> - **2013 年 — 理论框架确立** 岑丽玲与杰索普出版专著，系统确立文化政治经济学（Cultural Political Economy, CPE）本体论、[[Epistemology|认识论]]与演化机制，划清与[[Post-structuralism|后结构主义]]极端文本主义的边界。[[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022, p. 202)]]
 > - **2018 年 — 地缘空间扩展** [[Sami Moisio|萨米·莫伊西奥]]（Sami Moisio）在《[[Knowledge-Based Economy|知识经济]]的[[Geopolitics|地缘政治]]》中吸收杰索普的想象概念，提出[[Hub and Flow Imaginaries|枢纽与流动想象]]，将 CPE 的履行性想象逻辑引入国家地缘政治与空间重构研究。[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 26–27)]]
 > - **2022 年 — 高等教育跨国办学实证化** 埃尔富特（[[Argument_Erfurth_2022_education-hubs|Erfurth, 2022]]）将 CPE 转化为[[International Education Hubs|国际教育枢纽]]的比较分析工具，导出[[Cultural Diplomacy|文化外交]]与政治经济两个分析维度，检验其在新加坡与阿联酋跨国高教战略中的实操解释力。[[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022, pp. 202–211)]]
 > - **2023 年 — 批判政策话语分析结合** 吴（[[Argument_Woo_2023_HEP|Woo, 2023]]）在教育政策社会学研究中，将 CPE 的符号化（Semiosis）[[Champ|场域]]假说与批判话语分析三维模型结合，剖析中国[[Belt and Road Initiative|一带一路]]教育文本中替代性国际秩序想象的建构与工程技术物质化。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680–682)]]
 
 ---
 
-> [!entry-map] 关键构件与功能
+> [!theory-constructs] 关键概念与理论构件
 > | 构件 | 类型 | 在理论中的功能 |
 > |:---|:---|:---|
 > | **符号化（Semiosis）** | [[Epistemology\|认识论]]机制 | 指涉语言、符号、叙事与图像等意义建构过程，行动者借此在认知层面简化现实世界的过度复杂性。[[Argument_Woo_2023_HEP\|(Woo, 2023, p. 681)]] |
@@ -161,7 +163,7 @@ updated: 2026-11-19
 > > 各方对 CPE 所要求的“符号与物质相互构成”能否在经验研究中真正落实存在分歧。
 > >
 > > - **埃尔富特（[[Argument_Erfurth_2022_education-hubs|Erfurth, 2022]]）** 承认在高等教育枢纽案例中，研究极易滑向“前半部分写[[Cultural Diplomacy|文化外交]]、后半部分写政治经济”的平铺并列，难以在具体因果链中咬合两者。[[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022, pp. 202–204)]]
-> > - **舒尔茨-克[[Ben Levin|莱文]]等（[[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al., 2017]]）** 认为 CPE 必须补充[[Historical Institutionalism|历史制度主义]]的中观机制，才能防止理论在处理高等教育市场化时沦为抽象的哲学[[Ontology|本体论]]宣言。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 797–798)]]
+> > - **舒尔茨-克莱文等（[[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al., 2017]]）** 认为 CPE 必须补充[[Historical Institutionalism|历史制度主义]]的中观机制，才能防止理论在处理高等教育市场化时沦为抽象的哲学[[Ontology|本体论]]宣言。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 797–798)]]
 >
 > > [!axis] 与[[Critical Discourse Analysis|批判话语分析]]（CDA）的方法论边界界定
 > > 争论焦点在于 CPE 是否只是费尔克拉夫 CDA 三维模型的政治经济学变体，缺乏完全独立的分析工具箱。
@@ -180,3 +182,4 @@ updated: 2026-11-19
 > - [[Argument_Moisio_2022_Springer|Moisio (2022)]] — 运用文化政治经济学的想象履行性原理，剖析[[Knowledge-Based Economization|知识经济化]]在[[Geopolitics|地缘政治]]空间重构中的[[Spatial Sortings|空间分选]]机制。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 将文化政治经济学的符号化与复杂性简化假说与[[Explanatory Critique|解释性批判]]实在论结合，解构[[Belt and Road Initiative|一带一路]]跨国高教政策[[Discourse|话语]]与国家战略推进工具。
 > - [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]] — 运用 CPE 框架透视全球高等教育竞争转型中符号表征与制度物质安排的互动机制。
+> - [[Argument_Silova_2009_EE|Silova (2009)]] — 结合文化政治经济学与批判地缘认识论视阈，剖析欧洲比较教育前沿从单向西方现代化向多标度网络与去殖民转型的演化路径（pp. 24–28）。
