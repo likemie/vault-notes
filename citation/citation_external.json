@@ -13067,11 +13067,13 @@
     "Kanchewa, 2014": "Kanchewa, 2014",
     "Kandel (1933a)": "Kandel, 1933a",
     "Kandel (1933b)": "Kandel, 1933b",
+    "Kandel (1933c)": "Kandel, 1933c",
     "Kandel (1955)": "Kandel, 1955",
     "Kandel (1959)": "Kandel, 1959",
     "Kandel, 1933": "Kandel, 1933a",
     "Kandel, 1933a": "Kandel, 1933b",
-    "Kandel, 1933b": "Kandel, 1933b",
+    "Kandel, 1933b": "Kandel, 1933c",
+    "Kandel, 1933c": "Kandel, 1933c",
     "Kandel, 1955": "Kandel, 1955",
     "Kandel, 1959": "Kandel, 1959",
     "Kander et al. (2024)": "Kander et al., 2024",
@@ -19941,6 +19943,8 @@
     "Philip Cooke, 1992": "Philip Cooke, 1992",
     "Philip G. Cerny (1990)": "Philip G. Cerny, 1990",
     "Philip G. Cerny, 1990": "Philip G. Cerny, 1990",
+    "Philip J. Idenburg (1969)": "Philip J. Idenburg, 1969",
+    "Philip J. Idenburg, 1969": "Philip J. Idenburg, 1969",
     "Philip Y. Gee (1995)": "Philip Y. Gee, 1995",
     "Philip Y. Gee, 1995": "Philip Y. Gee, 1995",
     "Philipp Mayring (2000)": "Philipp Mayring, 2000",
@@ -25843,8 +25847,10 @@
     "Ulger (2016)": "Ulger, 2016",
     "Ulger, 2016": "Ulger, 2016",
     "Ulich (1945)": "Ulich, 1945",
+    "Ulich (1954)": "Ulich, 1954",
     "Ulich (1961)": "Ulich, 1961",
     "Ulich, 1945": "Ulich, 1945",
+    "Ulich, 1954": "Ulich, 1954",
     "Ulich, 1961": "Ulich, 1961",
     "Uljens & Ylimaki (2017)": "Uljens & Ylimaki, 2017",
     "Uljens & Ylimaki, 2017": "Uljens & Ylimaki, 2017",
@@ -83421,7 +83427,6 @@
       "seen_in": [
         "wiki/facts/global/1960 Bellagio Conference.md",
         "wiki/facts/global/1961 Policy Conference on Economic Growth and Investment in Education.md",
-        "wiki/facts/global/Education for All.md",
         "wiki/facts/global/Poverty Reduction Strategy Papers.md",
         "wiki/persons/denmark/Christian Ydesen.md"
       ],
@@ -124828,6 +124833,21 @@
       "doi": "",
       "identity_keys": [
         "Kandel, 1933a"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
+      ],
+      "title": ""
+    },
+    "Kandel, 1933c": {
+      "aliases": [
+        "Kandel, 1933c",
+        "Kandel (1933c)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Kandel, 1933b"
       ],
       "isbn": "",
       "seen_in": [
@@ -174747,6 +174767,21 @@
       ],
       "title": ""
     },
+    "Philip J. Idenburg, 1969": {
+      "aliases": [
+        "Philip J. Idenburg, 1969",
+        "Philip J. Idenburg (1969)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Philip J. Idenburg, 1969"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
+      ],
+      "title": ""
+    },
     "Philip Y. Gee, 1995": {
       "aliases": [
         "Philip Y. Gee, 1995",
@@ -205431,7 +205466,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/facts/global/Education for All.md",
         "wiki/facts/global/INEE.md",
         "wiki/facts/global/NORRAG.md"
       ],
@@ -217724,6 +217758,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_HistoricalReflections.md"
+      ],
+      "title": ""
+    },
+    "Ulich, 1954": {
+      "aliases": [
+        "Ulich, 1954",
+        "Ulich (1954)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ulich, 1954"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
       ],
       "title": ""
     },

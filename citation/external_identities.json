@@ -32512,7 +32512,6 @@
       "seen_in": [
         "wiki/facts/global/1960 Bellagio Conference.md",
         "wiki/facts/global/1961 Policy Conference on Economic Growth and Investment in Education.md",
-        "wiki/facts/global/Education for All.md",
         "wiki/facts/global/Poverty Reduction Strategy Papers.md",
         "wiki/persons/denmark/Christian Ydesen.md"
       ],
@@ -57329,6 +57328,14 @@
       "title": ""
     },
     "Kandel, 1933a": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
+      ],
+      "title": ""
+    },
+    "Kandel, 1933b": {
       "doi": "",
       "isbn": "",
       "seen_in": [
@@ -87494,6 +87501,14 @@
       ],
       "title": ""
     },
+    "Philip J. Idenburg, 1969": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
+      ],
+      "title": ""
+    },
     "Philip Y. Gee, 1995": {
       "doi": "",
       "isbn": "",
@@ -105896,7 +105911,6 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/facts/global/Education for All.md",
         "wiki/facts/global/INEE.md",
         "wiki/facts/global/NORRAG.md"
       ],
@@ -113316,6 +113330,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_HistoricalReflections.md"
+      ],
+      "title": ""
+    },
+    "Ulich, 1954": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
       ],
       "title": ""
     },
