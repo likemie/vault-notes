@@ -6823,6 +6823,8 @@
     "Dooley & Kirk, 2007": "Dooley & Kirk, 2007",
     "Dooley (2001)": "Dooley, 2001",
     "Dooley, 2001": "Dooley, 2001",
+    "Doreen Massey (2005)": "Doreen Massey, 2005",
+    "Doreen Massey, 2005": "Doreen Massey, 2005",
     "Dori (1995)": "Dori, 1995",
     "Dori, 1995": "Dori, 1995",
     "Dormann & Dedering (2014)": "Dormann & Dedering, 2014",
@@ -28679,8 +28681,6 @@
     "岳英, 2018": "岳英, 2018",
     "崔盛和吴秋翔 (2018)": "崔盛和吴秋翔, 2018",
     "崔盛和吴秋翔, 2018": "崔盛和吴秋翔, 2018",
-    "巴特利特 (2006)": "巴特利特, 2006",
-    "巴特利特, 2006": "巴特利特, 2006",
     "布卢默 (1969)": "布卢默, 1969",
     "布卢默, 1969": "布卢默, 1969",
     "布朗等人 (1997)": "布朗等人, 1997",
@@ -29182,8 +29182,6 @@
     "韦尔奇, 2012": "韦尔奇, 2012",
     "马奥尼与希伦 (2009)": "马奥尼与希伦, 2009",
     "马奥尼与希伦, 2009": "马奥尼与希伦, 2009",
-    "马金森与莫利斯 (2001)": "马金森与莫利斯, 2001",
-    "马金森与莫利斯, 2001": "马金森与莫利斯, 2001",
     "高谢 (2000)": "高谢, 2000",
     "高谢, 2000": "高谢, 2000",
     "鲁登道夫 (1935)": "鲁登道夫, 1935",
@@ -53652,6 +53650,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md",
         "wiki/concepts/comparative-education/The Nation-State as the Unit of Comparison.md",
+        "wiki/concepts/higher-education/Scale in Higher Education.md",
         "wiki/concepts/research-methodology/Unit of Analysis.md",
         "wiki/methods/qualitative/Vertical Case Study.md"
       ],
@@ -79222,6 +79221,21 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13.md",
         "wiki/concepts/research-methodology/Pre-test Sensitisation.md",
         "wiki/methods/quantitative/Longitudinal Study.md"
+      ],
+      "title": ""
+    },
+    "Doreen Massey, 2005": {
+      "aliases": [
+        "Doreen Massey, 2005",
+        "Doreen Massey (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Doreen Massey, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Scale in Higher Education.md"
       ],
       "title": ""
     },
@@ -148785,8 +148799,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md",
-        "wiki/concepts/educational-psychology/Epistemic Stances.md",
-        "wiki/concepts/higher-education/Scale in Higher Education.md"
+        "wiki/concepts/educational-psychology/Epistemic Stances.md"
       ],
       "title": "\"The door opens and the tiger leaps\": Theories and reflexivities of comparative education for a global millennium"
     },
@@ -238091,21 +238104,6 @@
       ],
       "title": ""
     },
-    "巴特利特, 2006": {
-      "aliases": [
-        "巴特利特, 2006",
-        "巴特利特 (2006)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "巴特利特, 2006"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/higher-education/Scale in Higher Education.md"
-      ],
-      "title": ""
-    },
     "布卢默, 1969": {
       "aliases": [
         "布卢默, 1969",
@@ -241865,21 +241863,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/us/James Mahoney.md"
-      ],
-      "title": ""
-    },
-    "马金森与莫利斯, 2001": {
-      "aliases": [
-        "马金森与莫利斯, 2001",
-        "马金森与莫利斯 (2001)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "马金森与莫利斯, 2001"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/higher-education/Scale in Higher Education.md"
       ],
       "title": ""
     },

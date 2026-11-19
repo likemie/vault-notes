@@ -11560,11 +11560,9 @@
     "path": "wiki/concepts/higher-education/Scale in Higher Education.md",
     "aliases": [
       "高等教育尺度",
-      "scale analysis in higher education",
       "尺度分析",
-      "关系性尺度",
-      "多尺度分析",
-      "Multi-scalar Analysis"
+      "scale analysis in higher education",
+      "空间尺度"
     ]
   },
   {
@@ -34892,6 +34890,18 @@
     ]
   },
   {
+    "title": "Bjørn H. Nordtveit",
+    "type": "person",
+    "path": "wiki/persons/norway/Bjørn H. Nordtveit.md",
+    "aliases": [
+      "比约恩·诺特维特",
+      "比约恩·哈拉尔德·诺德维特",
+      "Bjørn Harald Nordtveit",
+      "B. H. Nordtveit",
+      "Nordtveit"
+    ]
+  },
+  {
     "title": "Ivar Aasen",
     "type": "person",
     "path": "wiki/persons/norway/Ivar Aasen.md",
@@ -41316,6 +41326,17 @@
     "subtype": "organization"
   },
   {
+    "title": "Zhejiang Normal University",
+    "type": "fact",
+    "path": "wiki/facts/china/Zhejiang Normal University.md",
+    "aliases": [
+      "浙江师范大学",
+      "浙师大",
+      "ZJNU"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "1904 Educational System",
     "type": "fact",
     "path": "wiki/facts/china/1904 Educational System.md",
@@ -44338,6 +44359,19 @@
       "Open Letter to Andreas Schleicher on PISA",
       "PISA Open Letter 2014",
       "2014 Open Letter to Andreas Schleicher"
+    ],
+    "subtype": "event"
+  },
+  {
+    "title": "Bandung Conference",
+    "type": "fact",
+    "path": "wiki/facts/global/Bandung Conference.md",
+    "aliases": [
+      "万隆会议",
+      "第一次亚非会议",
+      "亚非会议",
+      "Asian-African Conference",
+      "1955 Bandung Conference"
     ],
     "subtype": "event"
   },

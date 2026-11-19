@@ -14625,6 +14625,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md",
         "wiki/concepts/comparative-education/The Nation-State as the Unit of Comparison.md",
+        "wiki/concepts/higher-education/Scale in Higher Education.md",
         "wiki/concepts/research-methodology/Unit of Analysis.md",
         "wiki/methods/qualitative/Vertical Case Study.md"
       ],
@@ -29961,6 +29962,14 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13.md",
         "wiki/concepts/research-methodology/Pre-test Sensitisation.md",
         "wiki/methods/quantitative/Longitudinal Study.md"
+      ],
+      "title": ""
+    },
+    "Doreen Massey, 2005": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Scale in Higher Education.md"
       ],
       "title": ""
     },
@@ -71837,8 +71846,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md",
-        "wiki/concepts/educational-psychology/Epistemic Stances.md",
-        "wiki/concepts/higher-education/Scale in Higher Education.md"
+        "wiki/concepts/educational-psychology/Epistemic Stances.md"
       ],
       "title": "\"The door opens and the tiger leaps\": Theories and reflexivities of comparative education for a global millennium"
     },
@@ -125599,14 +125607,6 @@
       ],
       "title": ""
     },
-    "巴特利特, 2006": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/higher-education/Scale in Higher Education.md"
-      ],
-      "title": ""
-    },
     "布卢默, 1969": {
       "doi": "",
       "isbn": "",
@@ -127630,14 +127630,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/us/James Mahoney.md"
-      ],
-      "title": ""
-    },
-    "马金森与莫利斯, 2001": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/higher-education/Scale in Higher Education.md"
       ],
       "title": ""
     },

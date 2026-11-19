@@ -118,7 +118,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 
 ---
@@ -213,7 +213,7 @@ updated: 2026-11-19
 > **跨国[[Policy Mobility|政策流动]]与[[Floating Signifier|漂浮能指]]机制** 剖析超国家治理网络如何利用语义空洞的话语符号维系权威并推行远处调控，以及话语在降落本土物质环境时催生的实践异化。
 
 > [!claim] [[Jason Beech|Beech, J.]]
-> **漂浮能指动员与微观[[Recontextualization|再情境化]][[Shape-Shifting|形变]]** 杰森·比奇（Jason Beech）深入论证指出，在全球化[[Space of Flows|流动空间]]中运行的跨国教育话语（如“能力发展”、“[[School Autonomy|学校自主]]”与“质量评估”）具有独特的“[[Floating Signifier|漂浮能指]]”属性。为了在全球范围内影响尽可能多的主权国家，国际多边组织（[[World Bank|世界银行]]、[[OECD|经合组织]]、[[UNESCO|联合国教科文组织]]）必须刻意剥离话语的具体历史语境与物质约束，使其保持极高的语义可塑性与形象稳定性。立场迥异的政客、学者与资助方因而在这一空洞能指下达成看似一致的改革共识；然而，当这套缺乏实体操作规程的抽象话语降落到外围国家（如阿根廷、巴西）的基层学校时，一线教师不得不依据极端匮乏的物质条件与既有的百科全书式[[Knowledge Framework|知识框架]]对其进行强行剪裁与[[Recontextualization|本土重构]]，最终导致政策话语发生根本性形变（例如将尊重多样性异化为降低学术期望以容忍贫困阶层的学业失败）。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 352–361)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349, 353–355)]]
+> **漂浮能指动员与微观[[Recontextualization|再情境化]][[Shape-Shifting|形变]]** 杰森·比奇（Jason Beech）深入论证指出，在全球化[[Space of Flows|流动空间]]中运行的跨国教育话语（如“能力发展”、“[[School Autonomy|学校自主]]”与“质量评估”）具有独特的“[[Floating Signifier|漂浮能指]]”属性。为了在全球范围内影响尽可能多的主权国家，国际多边组织（[[World Bank|世界银行]]、[[OECD|经合组织]]、[[UNESCO|联合国教科文组织]]）必须刻意剥离话语的具体历史语境与物质约束，使其保持极高的语义可塑性与形象稳定性。立场迥异的政客、学者与资助方因而在这一空洞能指下达成表层一致的改革共识；然而，当这套缺乏实体操作规程的抽象话语降落到外围国家（如阿根廷、巴西）的基层学校时，一线教师不得不依据极端匮乏的物质条件与既有的百科全书式[[Knowledge Framework|知识框架]]对其进行强行剪裁与[[Recontextualization|本土重构]]，最终导致政策话语发生根本性形变（例如将尊重多样性异化为降低学术期望以容忍贫困阶层的学业失败）。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 352–361)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349, 353–355)]]
 
 ---
 
@@ -233,7 +233,7 @@ updated: 2026-11-19
 
 ---
 
-> [!contrast-table|notitle] 所有命题归纳
+> [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **微观权力日常再生产** | 谈话规则与言语互动分配发言特权，制度化微观合规秩序 | 课堂师生互动与机构内部对话 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31\|Cohen et al. (2011)]] |
@@ -245,7 +245,7 @@ updated: 2026-11-19
 ---
 
 > [!dev-timeline] 概念演变
-> - **1970s–1980s — 语言学与[[Conversation Analysis|会话分析]]奠基** 从纯粹句法分析转向交际功能，确立表层衔接、深层连贯、[[Intentionality|意向性]]与互文性等文本性七大标准，聚焦面对面微观言语互动秩序。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §§31.1–31.2)]]
+> - **1970s–1980s — 语言学与[[Conversation Analysis|会话分析]]交际转向** 从纯粹句法分析转向交际功能，确立表层衔接、深层连贯、[[Intentionality|意向性]]与互文性等文本性七大标准，聚焦面对面微观言语互动秩序。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §§31.1–31.2)]]
 > - **1990s — 社会学与批判话语转向** [[Basil Bernstein|伯恩斯坦]]提出话语的[[Recontextualization|再情境化]][[Champ|场域]]，福柯[[Post-structuralism|后结构主义]]深刻揭示话语作为知识与权力共谋机制如何规训主体，话语被确立为制度性实践。
 > - **2000s–2010s — 全球化与空间社会学拓殖** 比较教育学引入[[Space of Flows|流动空间]]理论，追踪教育政策话语作为[[Floating Signifier|漂浮能指]]在超国家组织、主权国家与微观学校间的五位置流转、过度简化与本土异化。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–353)]]
 > - **2020s 至今 — [[Geopolitics|地缘政治]]竞争与跨国规范话语博弈** [[Discourse Analysis|话语分析]]进一步拓展至全球南方与地缘[[Politics of Knowledge|知识政治]]，剖析新兴大国如何依托多边高教联盟构建区别于西方[[Neoliberalism|新自由主义]]规范的替代性话语体系（如“[[South-South Cooperation|南南合作]]”与“互惠共赢”），以生产性/话语性[[Knowledge Power|知识权力]]争夺跨国[[Epistemic Governance|知识治理]]规则的制定权。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1700–1705)]]
