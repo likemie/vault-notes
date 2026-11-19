@@ -610,6 +610,8 @@
     "Aliakbari & Sadeghdaghighi, 2013": "Aliakbari & Sadeghdaghighi, 2013",
     "Alice Amsden (2001)": "Alice Amsden, 2001",
     "Alice Amsden, 2001": "Alice Amsden, 2001",
+    "Alipour (2023)": "Alipour, 2023",
+    "Alipour, 2023": "Alipour, 2023",
     "Alison Andrew (1985)": "Alison Andrew, 1985",
     "Alison Andrew, 1985": "Alison Andrew, 1985",
     "Alison Woodward (2009)": "Alison Woodward, 2009",
@@ -1393,6 +1395,8 @@
     "Australian Government, 2023": "Australian Government, 2023",
     "Australian government (2024)": "Australian government, 2024",
     "Australian government, 2024": "Australian government, 2024",
+    "Auswärtiges Amt (2023)": "Auswärtiges Amt, 2023",
+    "Auswärtiges Amt, 2023": "Auswärtiges Amt, 2023",
     "Autonomous Region Department of Education (2023)": "Autonomous Region Department of Education, 2023",
     "Autonomous Region Department of Education, 2023": "Autonomous Region Department of Education, 2023",
     "Autor et al. (2022)": "Autor et al., 2022",
@@ -1463,6 +1467,8 @@
     "B. L. Serwer, 1966": "B. L. Serwer, 1966",
     "B. Li (2006)": "B. Li, 2006",
     "B. Li, 2006": "B. Li, 2006",
+    "BAFA (2023)": "BAFA, 2023",
+    "BAFA, 2023": "BAFA, 2023",
     "BBC (2025)": "BBC, 2025",
     "BBC, 2025": "BBC, 2025",
     "BCG (1968)": "BCG, 1968",
@@ -1478,10 +1484,14 @@
     "BLV (2013)": "BLV, 2013",
     "BLV, 2013": "BLV, 2013",
     "BMBF (2007)": "BMBF, 2007",
+    "BMBF (2015a)": "BMBF, 2015a",
+    "BMBF (2015b)": "BMBF, 2015b",
     "BMBF (2016)": "BMBF, 2016",
     "BMBF (2017)": "BMBF, 2017",
     "BMBF (2021)": "BMBF, 2021",
     "BMBF, 2007": "BMBF, 2007",
+    "BMBF, 2015a": "BMBF, 2015a",
+    "BMBF, 2015b": "BMBF, 2015b",
     "BMBF, 2016": "BMBF, 2016",
     "BMBF, 2017": "BMBF, 2017",
     "BMBF, 2021": "BMBF, 2021",
@@ -3728,6 +3738,8 @@
     "Bulris, 2009": "Bulris, 2009",
     "Bulut (2017)": "Bulut, 2017",
     "Bulut, 2017": "Bulut, 2017",
+    "Bundesregierung (2024)": "Bundesregierung, 2024",
+    "Bundesregierung, 2024": "Bundesregierung, 2024",
     "Bunge (1985)": "Bunge, 1985",
     "Bunge, 1985": "Bunge, 1985",
     "Bunketorp (2015)": "Bunketorp, 2015",
@@ -5900,6 +5912,8 @@
     "D. L., 2014": "D. L., 2014",
     "D. Lee & Katrina A. See (2004)": "D. Lee & Katrina A. See, 2004",
     "D. Lee & Katrina A. See, 2004": "D. Lee & Katrina A. See, 2004",
+    "DAAD (2024)": "DAAD, 2024",
+    "DAAD, 2024": "DAAD, 2024",
     "DBR Collective (2003)": "DBR Collective, 2003",
     "DBR Collective, 2003": "DBR Collective, 2003",
     "DET Victoria (2017)": "DET Victoria, 2017",
@@ -7795,6 +7809,7 @@
     "European Commission (2007)": "European Commission, 2007",
     "European Commission (2010)": "European Commission, 2010",
     "European Commission (2016)": "European Commission, 2016",
+    "European Commission (2019)": "European Commission, 2019",
     "European Commission (2021)": "European Commission, 2021",
     "European Commission (2022)": "European Commission, 2022",
     "European Commission, 1993a": "European Commission, 1993a",
@@ -7806,6 +7821,7 @@
     "European Commission, 2007": "European Commission, 2007",
     "European Commission, 2010": "European Commission, 2010",
     "European Commission, 2016": "European Commission, 2016",
+    "European Commission, 2019": "European Commission, 2019",
     "European Commission, 2021": "European Commission, 2021",
     "European Commission, 2022": "European Commission, 2022",
     "European Council (1997)": "European Council, 1997",
@@ -8749,6 +8765,8 @@
     "Frelin, 2015": "Frelin, 2015",
     "French (2007)": "French, 2007",
     "French, 2007": "French, 2007",
+    "Frenzel & Godehardt (2020)": "Frenzel & Godehardt, 2020",
+    "Frenzel & Godehardt, 2020": "Frenzel & Godehardt, 2020",
     "Freud (1930)": "Freud, 1930",
     "Freud (2012)": "Freud, 2012",
     "Freud, 1930": "Freud, 1930",
@@ -16804,6 +16822,8 @@
     "Mayer et al. (2017)": "Mayer et al., 2017",
     "Mayer et al., 2017": "Mayer et al., 2017",
     "Mayer, 2004": "Mayer, 2004",
+    "Mayer-Kuckuk (2023)": "Mayer-Kuckuk, 2023",
+    "Mayer-Kuckuk, 2023": "Mayer-Kuckuk, 2023",
     "Mayfield (1987)": "Mayfield, 1987",
     "Mayfield (2000)": "Mayfield, 2000",
     "Mayfield, 1987": "Mayfield, 1987",
@@ -33646,6 +33666,21 @@
       ],
       "title": ""
     },
+    "Alipour, 2023": {
+      "aliases": [
+        "Alipour, 2023",
+        "Alipour (2023)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Alipour, 2023"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
+      ],
+      "title": ""
+    },
     "Alison Andrew, 1985": {
       "aliases": [
         "Alison Andrew, 1985",
@@ -39380,6 +39415,21 @@
       ],
       "title": ""
     },
+    "Auswärtiges Amt, 2023": {
+      "aliases": [
+        "Auswärtiges Amt, 2023",
+        "Auswärtiges Amt (2023)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Auswärtiges Amt, 2023"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
+      ],
+      "title": ""
+    },
     "Autonomous Region Department of Education, 2023": {
       "aliases": [
         "Autonomous Region Department of Education, 2023",
@@ -39916,6 +39966,21 @@
       ],
       "title": "Effectiveness and difficulties of Sino-Africa educational collaboration"
     },
+    "BAFA, 2023": {
+      "aliases": [
+        "BAFA, 2023",
+        "BAFA (2023)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "BAFA, 2023"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
+      ],
+      "title": ""
+    },
     "BBC, 2025": {
       "aliases": [
         "BBC, 2025",
@@ -40037,6 +40102,36 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Grek_2009_JEdPolicy.md",
         "wiki/facts/germany/Federal Ministry of Education and Research.md"
+      ],
+      "title": ""
+    },
+    "BMBF, 2015a": {
+      "aliases": [
+        "BMBF, 2015a",
+        "BMBF (2015a)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "BMBF, 2015a"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
+      ],
+      "title": ""
+    },
+    "BMBF, 2015b": {
+      "aliases": [
+        "BMBF, 2015b",
+        "BMBF (2015b)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "BMBF, 2015b"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
       "title": ""
     },
@@ -56714,6 +56809,21 @@
       "seen_in": [],
       "title": "Benefiting from Listening in Vocabulary Development"
     },
+    "Bundesregierung, 2024": {
+      "aliases": [
+        "Bundesregierung, 2024",
+        "Bundesregierung (2024)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bundesregierung, 2024"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
+      ],
+      "title": ""
+    },
     "Bunge, 1985": {
       "aliases": [
         "Bunge, 1985",
@@ -72513,6 +72623,21 @@
       ],
       "title": ""
     },
+    "DAAD, 2024": {
+      "aliases": [
+        "DAAD, 2024",
+        "DAAD (2024)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "DAAD, 2024"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
+      ],
+      "title": ""
+    },
     "DBR Collective, 2003": {
       "aliases": [
         "DBR Collective, 2003",
@@ -86518,6 +86643,21 @@
       ],
       "title": ""
     },
+    "European Commission, 2019": {
+      "aliases": [
+        "European Commission, 2019",
+        "European Commission (2019)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "European Commission, 2019"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
+      ],
+      "title": ""
+    },
     "European Commission, 2021": {
       "aliases": [
         "European Commission, 2021",
@@ -93508,6 +93648,21 @@
         "wiki/concepts/sociology-of-education/Migrant Children.md",
         "wiki/facts/china/Hukou System.md",
         "wiki/facts/china/Schools for Migrant Children.md"
+      ],
+      "title": ""
+    },
+    "Frenzel & Godehardt, 2020": {
+      "aliases": [
+        "Frenzel & Godehardt, 2020",
+        "Frenzel & Godehardt (2020)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Frenzel & Godehardt, 2020"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
       "title": ""
     },
@@ -151899,6 +152054,21 @@
         "wiki/arguments/journal-articles/Educational Research Review/Argument_DeJong_2023_ERR.md",
         "wiki/concepts/instruction-pedagogy/Discovery Learning.md",
         "wiki/persons/us/Richard E. Mayer.md"
+      ],
+      "title": ""
+    },
+    "Mayer-Kuckuk, 2023": {
+      "aliases": [
+        "Mayer-Kuckuk, 2023",
+        "Mayer-Kuckuk (2023)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Mayer-Kuckuk, 2023"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
       "title": ""
     },

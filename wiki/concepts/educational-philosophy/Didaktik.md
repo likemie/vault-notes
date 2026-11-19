@@ -64,7 +64,7 @@ updated: 2026-11-20
 > 
 > 在德国教育学家安德烈亚斯·格鲁施卡（Andreas Gruschka）于 2019 年提出的框架中，教学设计是由教学论（Didaktik）、教化（[[Bildung]]） 与规范教育（Erziehung）三者共同构成的整合性星座（Integrated case of constellation）。教学论在此指教师决定哪部分知识在什么时间点、以什么数量以及如何向学生呈现的具体安排方式。[[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp. 238–239]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 该概念指向对知识内容的教学性转化，强调课程内容的选择必须服务于教化目的，帮助个体形成批判自治的人格。
 > - **用途** 帮助研究者透视课程开发中内容、目的与教学法之间的逻辑张力，反对将教学简化为单纯的技巧灌输。
 > - **边界** 它有别于一般技术层面的教学法（Pedagogy），更侧重于对选择内容正当性与价值底蕴的理论论证。
@@ -75,8 +75,6 @@ updated: 2026-11-20
 > *That might have been the starting point of a [[Discourse]] about the substance of education and teaching, but Hattie does not follow this possible line of thought. So one wonders: Where is the beef? In the chapter on “curriculum” one would expect more information about the substance, the content of school learning. However, again nothing can be found there... The question of content, the question of the pedagogical significance of subjects, reflections about problems, and possibilities of legitimizing curricular decisions (Why include this—why exclude that?) are completely ignored.*
 
 ---
-
-## 概念辨析
 
 教学论史中存在着关于知识控制与[[Knowledge Production|知识生成]]的关键区分。
 
@@ -118,16 +116,16 @@ updated: 2026-11-20
 > [!concept-proposition] 命题一｜课程内容选择必须兼顾学科[[Ontology|本体论]]深度与时代教化正当性
 > **课程知识的[[Ontology|本体论]]深度与时代性** 这类命题关注教什么以及为何教，探讨什么样的知识具备教化价值，主张在维护学科[[Ontology|本体论]]深度的前提下，围绕全球性、时代性的关键挑战来重组课程内容。
 
-> [!claim] 莉萨·维拉汉
+> [!claim] Wheelahan, L.
 > [[Discipline-Based Theory|学科理论]]知识是具有因果脉络的深层理论体系。课程必须维护学科自身的本体论深度与逻辑完整性，任何将系统知识拆散为横向能力或技能指标清单的能力本位改革都会损害其教化价值。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]
 
-> [!claim] [[Wolfgang Klafki|沃尔夫冈·克拉夫基]]
+> [!claim] Klafki, W.
 > 面对不确定的未来，课程内容应当以全球[[Epochal Key Problems|时代关键问题]]（Epochal key problems，如环境危机、战争、社会不平等）作为组织主轴，以此作为连接学科深度与跨学科对话的教学[[Champ|场域]]，培养学生批判、反思与限制共情的能力。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 6–7, 10]]
 
-> [!claim] [[Ewald Terhart|埃瓦尔德·特哈特]]（Ewald Terhart）
+> [!claim] Terhart, E.
 > 德语教学论传统主张教学必须兼顾思维能力的陶冶（形式教学论）与文化科学知识的传递（实质教学论）。特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）审视《[[Visible Learning|可见的学习]]》指出，英美[[Positivism|实证主义]]将教学窄化为跨情境的通用[[Learning Strategies|认知策略]]与[[Effect Size|效应量]]竞赛，滑向了单一的形式教学论；而在课程维度完全回避各学科的教育学意义以及内容选择的合法化辩护（为何纳入此项、排除彼项），导致教学理论陷入实质内容空洞化的困境。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431)]]
 
-> [!claim] 罗默（[[Thomas Aastrup Rømer]]）
+> [!claim] Rømer, T. A.
 > **评价图式对教学论传统的遮蔽与教学三角形解体** 托马斯·奥斯特鲁普·罗默（[[Thomas Aastrup Rømer]]）从欧陆教学论与分析哲学视阈审查指出，可见学习在本质上表征了教学完全屈从于简陋评价图式（[[Pure Evaluation|纯粹评价]]）的理论[[Alienation|异化]]。[[John Hattie|哈蒂]]体系系统性放逐了教学论与教化（[[Bildung]]）的[[Central Phenomenon|核心范畴]]（如世界、启迪、权威与学科实质），将师生与文化中介的三元互动还原为学生孤立的主观认知建构；这种[[Radical Constructivism|激进建构主义]]反学校思维将承载人类文明精粹的学科内容降格为工具性刺激载体，导致教学论传统的教学三角形（教师–学生–内容）彻底解体，使教学退化为追求 $d > 0.40$ 的量化控制规程。[[Argument_Rømer_2018_EPT|(Rømer, 2018, pp. 2–3, 7)]]
 
 ---
@@ -135,16 +133,16 @@ updated: 2026-11-20
 > [!concept-proposition] 命题二｜教学行动依赖于协调规训与生成张力的情境化[[Professional Judgment|专业判断]]
 > **规训与生成之间的教学判断** 这类命题关注如何教及教师的专业行动逻辑，强调教学论不仅是传递技巧，更是协调知识传授、主体塑造与规范要求之间张力的判断艺术。
 
-> [!claim] 安德烈亚斯·格鲁施卡
+> [!claim] Gruschka, A.
 > 教学设计是一个由教学论（Didaktik）、教化（[[Bildung]]）与规范教育（Erziehung）共同构成的整合性星座（Integrated case of constellation），教师必须基于特定内容在具体时间点以何种安排方式向学生呈现，来做出教学判断。[[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp. 238–239]]
 
-> [!claim] 比尔吉特·沙法尔（Birgit Schaffar）与莉莉-安·沃尔夫（Lili-Ann Wolff）
+> [!claim] Schaffar, B. & Wolff, L.
 > 教学论史中存在着关于知识控制与[[Knowledge Production|知识生成]]的关键区分。教学行动必须在规训（[[Disciplina and Doctrina|disciplina]]，侧重纠错、管理与绩效测量）与生成（doctrina，侧重知识的批判、更新与探究生产）之间建立良性张力，避免教学滑向单纯的机械控制。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
 
-> [!claim] 埃瓦尔德·特哈特（Ewald Terhart）
+> [!claim] Terhart, E.
 > 教学行动立足于教师、学生与学科内容构成的三元关系。特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）运用[[Panopticism|全景敞视]]理论指出，当教学理论将师生互看与相互观察的双向可见性置于核心并抽离具体学科内容时，表面上的学生中心修辞便转化为隐性的微观控制，教学判断易退化为内化的全景自我监控机制。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 434–435)]]
 
-> [!claim] 斯特凡·霍普曼（Stefan Hopmann）
+> [!claim] Hopmann, S.
 > **克制型教学与内容意义的生成性相遇** 斯特凡·霍普曼（[[Argument_Hopmann_2007_EERJ|Hopmann, 2007]]）论证，教学论各学派共同秉持[[Restrained Teaching|克制型教学]]（Restrained Teaching）原则。教学行动的核心专业判断体现于区分客观教学内容（Inhalt）与教育性内涵（Gehalt），通过审慎节制外部干预，在具体课堂相遇中为学生个体精神的世界性敞开提供可能。评价教学质量的准绳是教育意义的动态生成，而非标准化测试所测查的封闭掌握度。[[Argument_Hopmann_2007_EERJ|(Hopmann, 2007, pp. 115–117)]]
 
 ---
@@ -168,7 +166,7 @@ updated: 2026-11-20
 
 ---
 
-> [!debates] 学术争议
+> [!debates|notitle] 学术争议
 > 
 > > [!axis] 精英保守工具与社会政治解放之争
 > > 教学论在历史实践中常被批评容易沦为强化国家民族认同和维持精英阶级排他性的保守控制工具。但克拉夫基论证，经典的教学论与教化传统在本质上具有激进的社会政治解放性，旨在通过重组课程结构，推动人与人之间的正义、自由与共同责任。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
@@ -184,18 +182,9 @@ updated: 2026-11-20
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Schaffar_2024_CogentEdu|Schaffar and Wolff (2024)]] — 考掘欧洲教学论与教化传统的批判解放内涵，阐述芬兰国家核心课程中跨学科与[[Phenomenon-Based Learning|现象本位学习]]的理论根基。
-> - [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz and Klinge (2022)]] — 探讨算法化时代教学论、教化与规范教育的整合星座，反思技术介入对教师教学判断的影响。
-> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 从欧陆教学论与教化传统批判可见学习抽空学科实质内容与课程合法化反思的形式主义局限。
-> - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 从教学论与教化传统批判可见学习放逐教学论[[Central Phenomenon|核心范畴]]、以简陋评价图式瓦解三元教学三角形的理论危机。
-> - [[Argument_Hopmann_2007_EERJ|Hopmann (2007)]] — 考掘教学论历史演进，确立克制型教学为教学论诸学派共同基础，并反思标准化能力测评对教学法自由的挤压。
-
----
-
 > [!entry-map] 条目关联
 >
-> | 条目 | 类型 | 贡献 |
+> | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Bildung]] | 概念 | 德语教学论的终极价值追求，教学由具有教化价值的学科内容作为中介展开。 |
 > | [[Disciplina and Doctrina]] | 概念 | 构成教学论史中规训控制与探究生成良性张力的[[Central Phenomenon\|核心范畴]]对。 |
@@ -204,4 +193,13 @@ updated: 2026-11-20
 > | [[Professional Judgment]] | 概念 | 教学论视域下教师协调内容转化、教化目标与规范要求的核心专业品格。 |
 > | [[Restrained Teaching]] | 概念 | 德语及北欧欧陆教学论传统的共同核心，主张教学通过最小必要介入为教化生成敞开空间。 |
 > | [[Visible Learning]] | 概念 | 英美效能主义代表模型，因抽空学科实质内容与教学三角形而成为当代教学论的批判靶标。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Schaffar_2024_CogentEdu|Schaffar and Wolff (2024)]] — 考掘欧洲教学论与教化传统的批判解放内涵，阐述芬兰国家核心课程中跨学科与[[Phenomenon-Based Learning|现象本位学习]]的理论根基。
+> - [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz and Klinge (2022)]] — 探讨算法化时代教学论、教化与规范教育的整合星座，反思技术介入对教师教学判断的影响。
+> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 从欧陆教学论与教化传统批判可见学习抽空学科实质内容与课程合法化反思的形式主义局限。
+> - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 从教学论与教化传统批判可见学习放逐教学论[[Central Phenomenon|核心范畴]]、以简陋评价图式瓦解三元教学三角形的理论危机。
+> - [[Argument_Hopmann_2007_EERJ|Hopmann (2007)]] — 考掘教学论历史演进，确立克制型教学为教学论诸学派共同基础，并反思标准化能力测评对教学法自由的挤压。
 
