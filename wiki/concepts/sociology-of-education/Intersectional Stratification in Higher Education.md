@@ -9,7 +9,7 @@ aliases:
 summary: "高等教育交叉性分层指由家庭经济阶层、性别规范与空间地理区位在制度互动中共同构成的复合教育机会分层机制；该框架揭示了同等经济资本在不同性别与城乡空间下的异质性转化效力，解释了供给扩招下不平等机制的非线性演进。"
 type: concept
 domain: "sociology-of-education"
-related_count: 9
+related_count: 1
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,17 +17,9 @@ tags:
   - theme/stratification
   - theme/higher-education
   - theme/educational-equity
-related_concepts:
-  - "[[Higher Education Access]]"
-  - "[[Household Wealth Index]]"
-  - "[[Interaction Effect]]"
-  - "[[Heterogeneity]]"
-related_theories:
-  - "[[Maximally Maintained Inequality]]"
-  - "[[Effectively Maintained Inequality]]"
-related_methods:
-  - "[[Linear Probability Model]]"
-  - "[[Covariate Adjustment]]"
+related_concepts: []
+related_theories: []
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -42,7 +34,7 @@ updated: 2026-11-19
 ---
 
 > [!def] Intersectional Stratification in Higher Education
-> 高等教育交叉性分层指将交叉性分析框架引入高等教育机会研究，强调家庭经济资本（阶层）、生理与社会性别（性别）以及居住地空间属性（城乡区位）等多重边缘化维度并非孤立运行，而是在个体生命历程与制度筛选中相互铰合、非线性交织，共同决定高等教育实际获得概率。[[Argument_Phyo_2025_SocSci|(Phyo & Ilie, 2025, p. 3)]]
+> 高等教育交叉性分层指将交叉性分析框架引入高等教育机会研究，强调家庭经济资本（阶层）、生理与社会性别（性别）以及居住地空间属性（城乡区位）等多重边缘化维度在个体生命历程与制度筛选中相互铰合、非线性交织，共同决定高等教育实际获得概率。[[Argument_Phyo_2025_SocSci|(Phyo & Ilie, 2025, p. 3)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 破除单维度阶层决定论或单维度性别视角，捕捉多重身份维度交汇产生的复合特权或复合脆弱性。
@@ -63,7 +55,7 @@ updated: 2026-11-19
 > |---|---|---|---|
 > | **分析假设** | 多维身份在制度情境中非线性交织、相互调制 | 经济资本是决定教育分流的唯一根本主导轴 | 财富、性别与区位效应相互独立且简单相加 |
 > | **解释效度** | 解释“为何农村富人升学受阻、优势女性反超男性”等异质现象 | 无法解释相同阶层内部不同性别与地域的剧烈分化 | 忽视各维度之间的交互项与非线性门槛 |
-> | **政策启示** | 实施多维精准靶向，联动基础教育补偿与空间扶持 | 仅需降低入口学费或提供普惠性助学贷款 | 单独针对女童或单独针对农村设立孤立配额 |
+> | **政策启示** | 实施多维精准定向资助，联动基础教育补偿与空间扶持 | 仅需降低入口学费或提供普惠性助学贷款 | 单独针对女童或单独针对农村设立孤立配额 |
 
 ---
 

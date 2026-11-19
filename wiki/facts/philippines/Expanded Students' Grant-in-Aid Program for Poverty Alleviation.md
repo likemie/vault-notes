@@ -12,7 +12,7 @@ subtype: program
 region: philippines
 fact_region: "philippines"
 fact_kind: "program"
-fact_related_count: 6
+fact_related_count: 2
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -24,12 +24,8 @@ tags:
   - theme/higher-education
   - region/philippines
   - region/southeast-asia
-related_concepts:
-  - "[[Higher Education Access]]"
-  - "[[Affirmative Action in Higher Education]]"
-  - "[[Household Wealth Index]]"
-related_theories:
-  - "[[Maximally Maintained Inequality]]"
+related_concepts: []
+related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
@@ -76,7 +72,7 @@ updated: 2026-11-19
 > [!debates] 政策成效与实证评析
 >
 > > [!axis] 精准扶贫资助对 MMI 阶层垄断的抑制效应
-> > 与普遍性免学费政策相比，ESGP-PA 的制度设计展现出更强的平权靶向性。
+> > 与普遍性免学费政策相比，ESGP-PA 的制度设计展现出更强的平权针对性。
 > >
-> > - **靶向精准度优势** 依托国家社会福利数据库的严格准入，有效规避了普通大学免学费政策中城市富裕学生优先抢占资源的再分配悖论。[[Argument_Phyo_2025_SocSci|(Phyo & Ilie, 2025, p. 5)]]
+> > - **受助对象甄别精准度优势** 依托国家社会福利数据库的严格准入，有效规避了普通大学免学费政策中城市富裕学生优先抢占资源的再分配悖论。[[Argument_Phyo_2025_SocSci|(Phyo & Ilie, 2025, p. 5)]]
 > > - **学业完成与留存挑战** 尽管消除了直接财务障碍，但极贫受助生由于中小学阶段基础学业训练薄弱，在大学修读期间仍面临挂科、延迟毕业及高心理压力风险，提示高等教育精准扶贫仍须向前延伸至基础教育质量补偿。(Olapane et al., 2025)

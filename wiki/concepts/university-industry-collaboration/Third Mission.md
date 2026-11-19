@@ -8,7 +8,7 @@ aliases:
 summary: "大学在教学和研究之外的正式创新与经济发展使命，涵盖知识交流、技术商业化、区域经济发展和产学合作等广泛活动，2000年代后在英美等国日益制度化"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 17
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[University-Based Research Center]]"
   - "[[Multi-University]]"
+  - "[[Fourth Mission of Higher Education]]"
 related_theories:
   - "[[Systems of Innovation]]"
 related_methods: []
@@ -40,10 +41,11 @@ related_facts:
   - "[[Directorate for Technology, Innovation and Partnerships]]"
 related_arguments:
   - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
+  - "[[Argument_Natario_2025_IndHE]]"
 confidence: medium
 status: draft
 created: 2026-05-27
-updated: 2026-10-22
+updated: 2026-11-19
 ---
 
 > [!info] 定义
@@ -56,17 +58,17 @@ updated: 2026-10-22
 > [!note] 概念演变
 > 第三使命的制度化经历了几个关键阶段([[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen, 2025, pp.38–44]])：
 
-- **1800s** 许多后来成为顶尖[[Research Universities|研究型大学]]的机构（如 UCL、KCL、伯明翰、谢菲尔德、曼彻斯特、MIT、帝国理工等）在创立之初就具有服务工业和地方经济的使命——第三使命并非全新现象，而是有其深厚历史根源（Martin, 2012）（pp.37–38）。
+- **1800s** 许多后来成为顶尖[[Research Universities|研究型大学]]的机构（如 UCL、KCL、伯明翰、谢菲尔德、曼彻斯特、MIT、帝国理工等）在创立之初就具有服务工业和地方经济的使命，表明第三使命植根于深厚的历史传统（Martin, 2012）（pp.37–38）。
 - **二战后–1970s** 政府研究资金大幅扩张，大学与产业的具体需求"脱钩"（decoupled），部分大学教师对与产业密切合作产生怀疑，有些甚至从产业化研究中撤退（Arora et al., 2020; Youtie & Shapira, 2008）（p.38）。
 - **1980s–1990s** 在美国 [[Bayh-Dole Act of 1980|Bayh-Dole Act]] 和英国一系列政策改革（取消 British Technology Group 的 IP 垄断、Alvey 计划、1993 年白皮书 *Realising Our Potential*）的推动下，政府重新强调大学对经济[[Competitiveness|竞争力]]的贡献（pp.39–41）。
 - **2000 年代至今** 第三使命正式化和制度化——大学设立了专门的领导角色、战略规划、支持办公室、内部转化基金、[[Innovation Park|科技园区]]和能力培训体系（pp.41–44）。
 
-该框架的最新延伸之一是 [[Fourth Generation University|第四代大学]]（Fourth Generation University）[[Discourse|话语]]，后者在教学、研究和经济参与之外强调大学直接参与复杂社会挑战的解决方案开发。二者并非替代关系，而是在理论资源和制度化程度上各有侧重。
+该框架的最新延伸之一是 [[Fourth Generation University|第四代大学]]（Fourth Generation University）[[Discourse|话语]]，后者在教学、研究和经济参与之外强调大学直接参与复杂社会挑战的解决方案开发。二者在理论资源和制度化程度上各有侧重，形成互补关系。
 
 ---
 
 > [!note] 国际比较
-> **英国** 第三使命的定义较广，不局限于[[Technology Transfer\|技术转移]]，而是涵盖[[Knowledge Exchange\|知识交流]]的所有途径。关键制度创新是从项目制竞争性资金转向公式驱动的长期稳定拨款，使大学能够进行系统性能力建设([[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen, 2025, pp.42–43]])。
+> **英国** 第三使命的定义较广，涵盖[[Technology Transfer\|技术转移]]与[[Knowledge Exchange\|知识交流]]的所有途径。关键制度创新是从项目制竞争性资金转向公式驱动的长期稳定拨款，使大学能够进行系统性能力建设([[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen, 2025, pp.42–43]])。
 
 > **美国** 第三使命更多通过特定立法和项目推动，如 [[Bayh-Dole Act of 1980\|Bayh-Dole Act]]（1980）、[[National Science Foundation\|NSF]] [[Engineering Research Centers|工程研究中心]]（ERC）和[[University-Based Research Center\|产学合作研究中心]]（IUCRC）项目（1980s）、以及 2022 年 [[CHIPS and Science Act]] 和新设的 NSF 技术创新与伙伴关系局（[[Directorate for Technology, Innovation and Partnerships|Technology, Innovation and Partnerships Directorate]]）([[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen, 2025, pp.39–40, 44]])。
 
@@ -79,6 +81,7 @@ updated: 2026-10-22
 > - [[Technology Transfer]]：第三使命中的一个具体维度，关注知识产权的商业化
 > - [[University-Industry Collaboration]]：实现第三使命的主要方式
 > - [[Multi-University]]：Kerr（2001）对多元大学的描述为第三使命提供了组织理论基础——多元大学天然具有多重使命，第三使命是这一逻辑的当代延伸
+> - [[Fourth Mission of Higher Education]]：在教学、科研与经济商业化的第三使命之外，进一步聚焦通过社会创新项目赋权社区以推动地方与区域内生发展。[[Argument_Natario_2025_IndHE|(Natário & Oliveira, 2025)]]
 
 ---
 

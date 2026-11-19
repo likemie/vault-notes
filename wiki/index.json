@@ -4996,6 +4996,18 @@
     ]
   },
   {
+    "title": "Captive Mind",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Captive Mind.md",
+    "aliases": [
+      "被俘获的心智",
+      "俘获心智",
+      "依附心智",
+      "殖民心智",
+      "The Captive Mind"
+    ]
+  },
+  {
     "title": "Cargo Cult Science",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Cargo Cult Science.md",
@@ -14444,6 +14456,17 @@
     ]
   },
   {
+    "title": "Deglobalization",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Deglobalization.md",
+    "aliases": [
+      "去全球化",
+      "逆全球化",
+      "全球化退潮",
+      "逆向全球化"
+    ]
+  },
+  {
     "title": "Depoliticalization of Ethnic Policy",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Depoliticalization of Ethnic Policy.md",
@@ -22107,8 +22130,17 @@
       "Fourth Purpose",
       "第四宗旨",
       "fourth generation university model",
-      "4th generation university",
-      "fourth mission"
+      "4th generation university"
+    ]
+  },
+  {
+    "title": "Fourth Mission of Higher Education",
+    "type": "concept",
+    "path": "wiki/concepts/university-industry-collaboration/Fourth Mission of Higher Education.md",
+    "aliases": [
+      "高等教育第四使命",
+      "大学第四使命",
+      "Fourth Mission of HEIs"
     ]
   },
   {
@@ -22452,6 +22484,16 @@
     ]
   },
   {
+    "title": "Open Innovation",
+    "type": "concept",
+    "path": "wiki/concepts/university-industry-collaboration/Open Innovation.md",
+    "aliases": [
+      "开放式创新",
+      "开放创新",
+      "开放式创新模型"
+    ]
+  },
+  {
     "title": "Partnership Continuum",
     "type": "concept",
     "path": "wiki/concepts/university-industry-collaboration/Partnership Continuum.md",
@@ -22718,6 +22760,29 @@
       "IBM 6 Rs",
       "IBM six Rs",
       "six Rs framework"
+    ]
+  },
+  {
+    "title": "Smart Specialisation",
+    "type": "concept",
+    "path": "wiki/concepts/university-industry-collaboration/Smart Specialisation.md",
+    "aliases": [
+      "智慧专业化",
+      "智能专业化",
+      "Smart Specialization",
+      "Smart Specialisation Strategies",
+      "S3"
+    ]
+  },
+  {
+    "title": "Social Innovation Ecosystem",
+    "type": "concept",
+    "path": "wiki/concepts/university-industry-collaboration/Social Innovation Ecosystem.md",
+    "aliases": [
+      "社会创新生态系统",
+      "区域社会创新生态系统",
+      "Regional Social Innovation Ecosystem",
+      "social innovation ecosystems"
     ]
   },
   {
@@ -46509,6 +46574,18 @@
     "subtype": "organization"
   },
   {
+    "title": "ASEAN Work Plan on Education 2021-2025",
+    "type": "fact",
+    "path": "wiki/facts/multi/ASEAN Work Plan on Education 2021-2025.md",
+    "aliases": [
+      "东盟教育工作计划（2021–2025）",
+      "东盟教育工作计划 2021-2025",
+      "《东盟教育工作计划（2021–2025）》",
+      "ASEAN Work Plan on Education"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Best Evidence in Brief",
     "type": "fact",
     "path": "wiki/facts/multi/Best Evidence in Brief.md",
@@ -47413,6 +47490,17 @@
     "subtype": "policy"
   },
   {
+    "title": "Centre for Social Economy and Innovation",
+    "type": "fact",
+    "path": "wiki/facts/portugal/Centre for Social Economy and Innovation.md",
+    "aliases": [
+      "社会经济与创新中心",
+      "CEIS",
+      "Centro de Economia e Inovação Social"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "Pombaline Reforms",
     "type": "fact",
     "path": "wiki/facts/portugal/Pombaline Reforms.md",
@@ -47435,6 +47523,28 @@
       "葡萄牙基础教育改革"
     ],
     "subtype": "policy"
+  },
+  {
+    "title": "INOV C + Smart Innovation Ecosystem",
+    "type": "fact",
+    "path": "wiki/facts/portugal/INOV C + Smart Innovation Ecosystem.md",
+    "aliases": [
+      "INOV C +",
+      "INOV C+",
+      "INOV C + 中部智慧创新生态系统"
+    ],
+    "subtype": "program"
+  },
+  {
+    "title": "Link Me Up - 1000 ideas",
+    "type": "fact",
+    "path": "wiki/facts/portugal/Link Me Up - 1000 ideas.md",
+    "aliases": [
+      "Link Me Up",
+      "1000 ideas",
+      "Link Me Up 1000 ideas"
+    ],
+    "subtype": "program"
   },
   {
     "title": "Programa de Avaliação Externa das Escolas",
@@ -55430,6 +55540,11 @@
     "title": "Argument_Liu_2025_IndHE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Liu_2025_IndHE.md"
+  },
+  {
+    "title": "Argument_Natario_2025_IndHE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
   },
   {
     "title": "Argument_Yang_2023_ICE",

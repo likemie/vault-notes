@@ -10,7 +10,7 @@ aliases:
 summary: "指由地理邻近的企业、大学、科研机构与地方政府在特定次国家区域内构成的互动学习网络，依赖面对面交流、隐性知识扩散与地方制度厚度培育差异化区域竞争优势。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 40
+related_count: 42
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Innovation Ecosystem]]"
   - "[[Multi-channel Interactive Learning Model]]"
+  - "[[Smart Specialisation]]"
 related_theories:
   - "[[Systems of Innovation]]"
   - "[[Path Dependence]]"
@@ -65,10 +66,11 @@ related_arguments:
   - "[[Argument_Qu_2024_IJED]]"
   - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
   - "[[Argument_Caraca_2009_TFSC]]"
+  - "[[Argument_Natario_2025_IndHE]]"
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -224,3 +226,4 @@ updated: 2026-11-15
 > - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 比较教育与区域发展实证研究，深入探讨长三角、粤港澳大湾区与海南自贸港跨国教育枢纽通过多样化空间拓扑与产学研网络深度嵌入区域创新系统的政策机制。
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] — 系统阐明[[Innovation Ecosystem|区域创新生态]]中网络失灵与能力失灵的诊断工具，论述大学在区域技术吸收与跨界协作中的催化作用。
 > - [[Argument_Caraca_2009_TFSC|Caraça et al. (2009)]] — 提出[[Multi-channel Interactive Learning Model|多通道互动学习模型]]，探讨区域[[Systems of Innovation|创新系统]]与宏观制度环境的互动关系以及制度滞后对地方创新的阻尼效应。
+> - [[Argument_Natario_2025_IndHE|Natário and Oliveira (2025)]] — 以葡萄牙中部理工学院四项共创与内陆枢纽实践为例，论证应用型高校如何结合[[Smart Specialisation|智慧专业化]]与社会创新弥补外围区域能力缺口。

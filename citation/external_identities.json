@@ -262,7 +262,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
+        "wiki/facts/multi/ASEAN Work Plan on Education 2021-2025.md"
       ],
       "title": "ASEAN work plan on education 2021-2025"
     },
@@ -1156,6 +1157,14 @@
       "seen_in": [],
       "title": "Language and literacy outcomes from a pilot intervention study for children with fetal alcohol spectrum disorders in South Africa"
     },
+    "Adner, 2017": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
+      ],
+      "title": ""
+    },
     "Adolf Schutzwohl, 1998": {
       "doi": "",
       "isbn": "",
@@ -1916,6 +1925,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/educational-philosophy/Captive Mind.md",
         "wiki/persons/singapore/Syed Farid Alatas.md"
       ],
       "title": ""
@@ -5459,6 +5469,24 @@
       ],
       "title": ""
     },
+    "Asheim et al., 2019": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
+        "wiki/concepts/university-industry-collaboration/Smart Specialisation.md"
+      ],
+      "title": ""
+    },
+    "Asheim, 2019": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
+        "wiki/concepts/university-industry-collaboration/Smart Specialisation.md"
+      ],
+      "title": ""
+    },
     "Ashley & Condon, 2024": {
       "doi": "",
       "isbn": "",
@@ -8966,6 +8994,15 @@
       ],
       "title": ""
     },
+    "Baxter et al., 2020": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
+        "wiki/concepts/university-industry-collaboration/Social Innovation Ecosystem.md"
+      ],
+      "title": ""
+    },
     "Baxter, 2022": {
       "datasets": [
         "eef:teaching-assistant-interventions"
@@ -10851,6 +10888,14 @@
       ],
       "title": ""
     },
+    "Bertini, 2017": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/university-industry-collaboration/Smart Specialisation.md"
+      ],
+      "title": ""
+    },
     "Bertrand, 2005": {
       "datasets": [
         "metax:S1019"
@@ -12545,6 +12590,14 @@
       ],
       "title": ""
     },
+    "Bogers et al., 2019": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/university-industry-collaboration/Open Innovation.md"
+      ],
+      "title": ""
+    },
     "Bogliacino & Pianta, 2010": {
       "doi": "",
       "isbn": "",
@@ -13328,6 +13381,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Using Interactive Teaching and Learning Strategies to Promote Text Comprehension and Content Learning for Students with Learning Disabilities"
+    },
+    "Boschma, 2005": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
+      ],
+      "title": ""
     },
     "Bosker & Witziers, 1995": {
       "datasets": [
@@ -17610,6 +17671,14 @@
       "seen_in": [],
       "title": "Effects of Self-Regulated Learning on Mathematics Achievement of Selected Southeast Asian Children"
     },
+    "Camargo et al., 2021": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/university-industry-collaboration/Smart Specialisation.md"
+      ],
+      "title": ""
+    },
     "Cambourne, 1988": {
       "doi": "",
       "isbn": "",
@@ -19518,6 +19587,16 @@
       "seen_in": [],
       "title": "More time is better  An evaluation of the full time school program in Uruguay"
     },
+    "Cerdeira et al., 2023": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
+        "wiki/concepts/university-industry-collaboration/Social Innovation Ecosystem.md",
+        "wiki/facts/portugal/Centre for Social Economy and Innovation.md"
+      ],
+      "title": ""
+    },
     "Cermak et al., 2021": {
       "datasets": [
         "metax:S0169"
@@ -20769,6 +20848,15 @@
       ],
       "title": ""
     },
+    "Chesbrough, 2006": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
+        "wiki/concepts/university-industry-collaboration/Open Innovation.md"
+      ],
+      "title": ""
+    },
     "Chesebro & McCroskey, 1998": {
       "doi": "",
       "isbn": "",
@@ -21342,6 +21430,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Enforcement Discretion.md"
+      ],
+      "title": ""
+    },
+    "Christensen & Pedersen, 2018": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
       ],
       "title": ""
     },
@@ -24149,6 +24245,15 @@
         "wiki/arguments/journal-articles/Global Education Outlook/Argument_Xie_Li_Huang_2021_GEO.md"
       ],
       "title": "Discourse and Power in Educational Administration"
+    },
+    "Cortese et al., 2023": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
+        "wiki/concepts/university-industry-collaboration/Social Innovation Ecosystem.md"
+      ],
+      "title": ""
     },
     "Cosden, 1995": {
       "datasets": [
@@ -29194,6 +29299,14 @@
       "seen_in": [],
       "title": "Deep and surface learning in problem-based learning: A review of the literature."
     },
+    "Doloreux & Parto, 2005": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
+      ],
+      "title": ""
+    },
     "Dolowitz & Marsh, 1996": {
       "doi": "",
       "isbn": "",
@@ -29214,6 +29327,22 @@
         "wiki/concepts/comparative-education/Pre-Transfer Agency.md",
         "wiki/persons/uk/Kimberly Ochs.md",
         "wiki/theories/comparative-education/Policy Transfer Framework.md"
+      ],
+      "title": ""
+    },
+    "Domansky & Kaletka, 2022": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/university-industry-collaboration/Social Innovation Ecosystem.md"
+      ],
+      "title": ""
+    },
+    "Domansky et al., 2020": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/university-industry-collaboration/Social Innovation Ecosystem.md"
       ],
       "title": ""
     },
@@ -33592,6 +33721,14 @@
       ],
       "title": ""
     },
+    "Etzkowitz & Zhou, 2017": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
+      ],
+      "title": ""
+    },
     "Etzkowitz et al., 2000": {
       "doi": "",
       "isbn": "",
@@ -35171,6 +35308,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/methods/quantitative/Meta-meta-analysis.md"
+      ],
+      "title": ""
+    },
+    "Fernández-Esquinas et al., 2016": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
       ],
       "title": ""
     },
@@ -41998,6 +42143,14 @@
       "seen_in": [],
       "title": "A randomized controlled trial on the beneficial effects of training letter-speech sound integration on reading fluency in children with dyslexia."
     },
+    "González-López & Asheim, 2020": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/university-industry-collaboration/Smart Specialisation.md"
+      ],
+      "title": ""
+    },
     "Good & Brophy, 2003": {
       "doi": "",
       "isbn": "9780205374465",
@@ -43137,6 +43290,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Network Plasticity.md"
+      ],
+      "title": ""
+    },
+    "Granstrand & Holgersson, 2020": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
       ],
       "title": ""
     },
@@ -45033,6 +45194,14 @@
       ],
       "title": ""
     },
+    "Haass, 2021": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/political-economy-geopolitics/Deglobalization.md"
+      ],
+      "title": ""
+    },
     "Habermas & Horkheimer, 1972": {
       "doi": "",
       "isbn": "",
@@ -46004,6 +46173,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/instruments/observation-tools/Classroom Assessment Scoring System.md"
+      ],
+      "title": ""
+    },
+    "Hamón et al., 2024": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/university-industry-collaboration/Open Innovation.md"
       ],
       "title": ""
     },
@@ -52899,6 +53076,15 @@
       ],
       "title": ""
     },
+    "Isaksen et al., 2022": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
+        "wiki/concepts/university-industry-collaboration/Smart Specialisation.md"
+      ],
+      "title": ""
+    },
     "Ise et al., 2012": {
       "datasets": [
         "metax:S0905"
@@ -53666,6 +53852,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Curriculum Studies/Argument_Yan_2025_JCS.md"
+      ],
+      "title": ""
+    },
+    "James, 2018": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/political-economy-geopolitics/Deglobalization.md"
       ],
       "title": ""
     },
@@ -59020,6 +59214,14 @@
       "seen_in": [],
       "title": "The effects of a parental homework monitoring intervention on school engagement of high risk middle school students"
     },
+    "Kijek et al., 2023": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
+      ],
+      "title": ""
+    },
     "Kilroy, 2004": {
       "doi": "",
       "isbn": "",
@@ -59737,6 +59939,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Formative assessment: A meta-analysis and a call for research"
+    },
+    "Kirat & Lung, 1999": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
+      ],
+      "title": ""
     },
     "Kirk & Miller, 1986": {
       "doi": "",
@@ -67408,7 +67618,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Chen_2025_HSSC.md"
+        "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Chen_2025_HSSC.md",
+        "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
       ],
       "title": "Research on the influence of metacognitive strategies on primary and middle school students' academic performance from the perspective of technical support"
     },
@@ -76844,6 +77055,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
+        "wiki/concepts/educational-philosophy/Captive Mind.md",
         "wiki/concepts/educational-philosophy/Pluriverse.md",
         "wiki/persons/singapore/Syed Farid Alatas.md"
       ],
@@ -80752,6 +80964,7 @@
       "isbn": "9780435900977",
       "seen_in": [
         "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
+        "wiki/concepts/educational-philosophy/Captive Mind.md",
         "wiki/concepts/educational-philosophy/Papuan Social Ecology.md",
         "wiki/concepts/political-economy-geopolitics/ASEAN Way.md"
       ],
@@ -82124,8 +82337,10 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Global Social Policy/Argument_Niemann_Martens_2018_GSP.md",
+        "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
         "wiki/arguments/reports-policy-documents/Argument_Bouckaert_2023_OECD.md",
-        "wiki/concepts/educational-policy-reform/PISA Glorifying Authoritarian Education.md"
+        "wiki/concepts/educational-policy-reform/PISA Glorifying Authoritarian Education.md",
+        "wiki/concepts/university-industry-collaboration/Social Innovation Ecosystem.md"
       ],
       "title": ""
     },
@@ -82196,7 +82411,9 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/educational-policy-reform/Cumulative Knowledge Base.md"
+        "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
+        "wiki/concepts/educational-policy-reform/Cumulative Knowledge Base.md",
+        "wiki/concepts/university-industry-collaboration/Social Innovation Ecosystem.md"
       ],
       "title": ""
     },
@@ -86935,6 +87152,15 @@
       "seen_in": [],
       "title": "Parental expectations on school achievement"
     },
+    "Phonthanukitithaworn et al., 2023": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
+        "wiki/concepts/university-industry-collaboration/Open Innovation.md"
+      ],
+      "title": ""
+    },
     "Physicians' Health Study, 1988": {
       "doi": "",
       "isbn": "",
@@ -87762,6 +87988,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/methods/quantitative/Content Validity Index.md"
+      ],
+      "title": ""
+    },
+    "Politécnico de Coimbra, 2023": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
       ],
       "title": ""
     },
@@ -94132,6 +94366,15 @@
       "seen_in": [
         "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Wolf_2025_InternationalResearchCollab.md",
         "wiki/theories/university-industry-collaboration/Dollinger et al. Framework for UI Collaboration.md"
+      ],
+      "title": ""
+    },
+    "Rossoni et al., 2024": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
+        "wiki/concepts/university-industry-collaboration/Open Innovation.md"
       ],
       "title": ""
     },
@@ -109152,6 +109395,14 @@
       "seen_in": [],
       "title": "Blurring boundaries between teacher and learner: The case for a constructivist approach to teaching with technology in post-secondary classrooms"
     },
+    "Thomas et al., 2020": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
+      ],
+      "title": ""
+    },
     "Thomas et al., 2021": {
       "doi": "",
       "isbn": "",
@@ -112414,6 +112665,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Review of Education/Argument_Higgins_2016_ROE.md"
+      ],
+      "title": ""
+    },
+    "Unger et al., 2020": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
       ],
       "title": ""
     },
@@ -120572,6 +120831,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
         "wiki/arguments/journal-articles/Journal of Technology Studies/Argument_Murphy_2026_JTS.md"
       ],
       "title": ""

@@ -9,7 +9,7 @@ aliases:
 summary: "由大学、企业、政府、供应链供应商、中介机构与资本市场通过多维网络互动共同催化、转化与扩散创新的复合自组织系统；具有基于地点与全球网络两种形态，其演进依赖于基础科研锚点、需求侧采购拉动、纵向供应链协同与开放知识产权环境。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 106
+related_count: 108
 related_level: 10
 related_stars: "💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -62,6 +62,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Linear Model of Innovation]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Open Innovation]]"
 related_theories:
   - "[[Systems of Innovation]]"
   - "[[Triple Helix]]"
@@ -131,6 +132,7 @@ related_arguments:
   - "[[Argument_Caraca_2009_TFSC]]"
   - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
   - "[[Argument_Lester_2005_MIT]]"
+  - "[[Argument_Natario_2025_IndHE]]"
 confidence: high
 status: active
 created: 2026-05-26
@@ -421,4 +423,5 @@ updated: 2026-11-19
 > - [[Argument_Caraca_2009_TFSC|Caraça et al. (2009)]] — 探讨多重创新模型（推动、拉动、链环与系统网络）在现代[[Knowledge-Based Economy|知识经济]]中的共存与演进关系。
 > - [[Argument_Lester_2005_MIT|Lester (2005)]] — 提出[[Research Universities|研究型大学]]根据本地产业生命周期提供差异化创新支撑的适配分类法。
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 分析 [[DARPA]] 在塑造军民两用高技术生态与 Sematech 催化资助中的国家发展型网络功能。
+> - [[Argument_Natario_2025_IndHE|Natário and Oliveira (2025)]] — 考察葡萄牙中部理工学院依托 [[Open Innovation|开放式创新]]与社会经济协同在非大都市及外围区域催化创新生态的双轨路径。
 

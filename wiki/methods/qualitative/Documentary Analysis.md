@@ -10,7 +10,7 @@ summary: "一种通过系统评估文献的真实性、可靠性、意义和语�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 98
+method_related_count: 99
 method_related_level: 9
 method_related_stars: "💎💎💎"
 method_related_color: "#dbeafe"
@@ -95,6 +95,7 @@ related_arguments:
   - "[[Argument_Kuortti_2025_JEdPolicy]]"
   - "[[Argument_Yang_2023_ICE]]"
   - "[[Argument_Chua_2011_CILP]]"
+  - "[[Argument_Natario_2025_IndHE]]"
 related_facts:
   - "[[DARPA]]"
   - "[[National Institutes of Health]]"
@@ -129,7 +130,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -244,3 +245,4 @@ updated: 2026-11-18
 > - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 汇编芬兰 2010–2020 年间关于[[Education Export|教育出口]]的 16 份关键政策文献（含 5 份核心实践文本与 11 份支撑政策），运用 Atlas.ti 对改革措施与指标展开系统节点编码（p. 5）。
 > - [[Argument_Yang_2023_ICE|杨明全和邓丽 (2023)]] — 系统梳理芬兰[[Nation Branding|国家品牌]]代表团报告、教育出口战略与海外媒体文本，运用[[Integrated Marketing Communications Theory|整合营销传播]]分析框架解构国家教育品牌形象建构与传播策略（pp. 3–9）。
 > - [[Argument_Chua_2011_CILP|Chua (2011)]] — 综合运用政策文本分析、课程大纲与官方统计数据，系统解构新加坡自上而下的语言教育规划体系，揭示懂英语[[Bilingual Education Policy|双语政策]]的运行机制与成效局限（pp. 125–142）。
+> - [[Argument_Natario_2025_IndHE|Natário and Oliveira (2025)]] — 依托政府、创新署及高校官方平台与社会经济组织一手文献，结合学术数据库定向检索，系统分析葡萄牙理工学院四个区域创新与共创案例。

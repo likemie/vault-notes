@@ -8,7 +8,7 @@ aliases:
 summary: "Etzkowitz 与 Leydesdorff 于 1995 年提出的创新系统理论，阐明大学、产业与政府在知识经济中突破单向线性分工、形成非线性反馈与职能重叠的动态螺旋；历经创业型大学、产业公私联合体到国家地缘战略安全化四代演进，并揭示了宏观使命整合与微观组织碎片化之间的深层治理张力。"
 type: theory
 theory_field: "university-industry-collaboration"
-theory_related_count: 81
+theory_related_count: 82
 theory_related_level: 8
 theory_related_stars: "💎💎⭐⭐"
 theory_related_color: "#fef3c7"
@@ -107,10 +107,11 @@ related_arguments:
   - "[[Argument_Fan_2026_BCAS]]"
   - "[[Argument_Bulfone_2024_IAI]]"
   - "[[Argument_Wolf_2025_InternationalResearchCollab]]"
+  - "[[Argument_Natario_2025_IndHE]]"
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -333,3 +334,4 @@ updated: 2026-11-15
 > - [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford and UIDP (2019)]] — 深度剖析[[Netherlands Top-sector Policy|荷兰顶级行业政策]]如何激活三重螺旋，论证三方互动质量而非单纯研发强度投入是决定[[Competitiveness|国家竞争力]]的核心驱动。
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 揭示在地缘半导体竞赛下，[[EU|欧盟]]通过 [[Important Projects of Common European Interest|IPCEI ME/CT]] 整合 30 余所大学开展 180 项跨国产学协同攻关，展现超国家多边战略产学网络的新形态。
 > - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 运用大学-产业-政府三重螺旋框架，剖析中国教育枢纽在长三角、大湾区与海南通过产学研协同推动区域转向知识与服务型经济的制度机制。
+> - [[Argument_Natario_2025_IndHE|Natário and Oliveira (2025)]] — 以三重螺旋逻辑剖析葡萄牙中部理工学院如何在非大都市区串联企业、科技园区与社会经济组织，推动地方知识转化与社会包容。
