@@ -74,10 +74,11 @@ related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Castro_2009_MultilateralBanks]]"
   - "[[Argument_Rust_2009_Reflections]]"
+  - "[[Argument_Vavrus_2006_CICE]]"
 confidence: high
 status: active
 created: 2026-09-28
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 
 ---
@@ -114,7 +115,7 @@ updated: 2026-11-19
 
 > [!feature] 核心要素
 > - **贷款交叉附加条件（Cross-[[Policy Conditionalities|Conditionalities]]）** 国际金融机构将教育领域的紧缩指标与宏观债务重组贷款直接挂钩，外围国家若不削减教育赤字和推行市场化，就无法获得展期信贷与外汇救助。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–81)]]
-> - **向学生收取学杂费（使用者付费）** 取消原有的公费免费政策，要求各级教育（特别是中等和高等教育）学生及家庭按“谁受益谁付费”原则自担成本，直接造成贫困劳工家庭子女学业中断与阶层分化。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 79)]]
+> - **向学生收取学杂费与成本分担悖论（使用者付费）** 取消原有的公费免费政策，要求各级教育（特别是中等和高等教育）学生及家庭按“谁受益谁付费”原则自担成本，直接造成贫困劳工家庭子女学业中断与阶层分化。国际机构假定初等教育回报率高于中等教育并转嫁中等教育开支；但在坦桑尼亚等艾滋危机严重的地区，家庭抚养力枯竭使学杂费成为不可承受的负担，迫使贫困女童失学并加剧生存与健康风险，打破了宏观政策中“家庭自愿为高回报教育付费”的技术理性假设。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 79)]]；[[Argument_Vavrus_2006_CICE|(Vavrus, 2005; Vavrus & Bartlett, 2006, p. 97)]]
 > - **推行[[Educational Privatisation|教育私有化]]与教育券制度** 大力扶持营利性与非营利性私立学校，压缩公立学校编制与办学经费，通过发行教育券刺激校际生源竞争，加速教育分轨分选。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 80)]]
 > - **行政与财政分权化甩包袱** 中央政府打着“地方赋权”与“社区自治”旗号，将公立学校的筹资与运维责任层层下推给财力薄弱的省邦与市镇政府，加剧区域校际鸿沟。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
 > - **技术官僚[[Cost-Benefit Analysis|成本效益分析]][[Discourse|话语]]（Technocratic Cost-Benefit Discourse）** 国际机构依托教育生产函数与成本效益模型，将削减教育公共开支包装为中立、理性的经济科学规律，掩盖结构调整的政治规训本质。[[Argument_Arnove_2009_WorldSystems|(Heyneman, 2003; Arnove, 2009, p. 107)]]
@@ -181,7 +182,7 @@ updated: 2026-11-19
 > - **1970s末 — 萌芽与试验** 伴随撒切尔与里根的新自由主义革命，并在智利皮诺切特军政府时期由“[[Chicago Boys|芝加哥男孩]]”率先在拉美开展结构调整与教育券私有化激进试验。
 > - **1980s — [[Washington Consensus|华盛顿共识]]与防卫性规训多边主义（“失去的十年”）** [[Latin American Debt Crisis of 1982|拉美债务危机]]全面爆发，[[World Bank|世界银行]]与 [[International Monetary Fund|IMF]] 将结构调整方案推广至整个非洲与拉丁美洲，防卫性与规训性多边主义取代了战后[[UNESCO|联合国教科文组织]]倡导的再分配福利取向；[[Robert Arnove|阿诺夫]]（Arnove, 1980）前瞻性指出，国际金融机构与大型基金会所推行的紧缩革新实质上固化了既有的依附性国际与国内分层。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 106, 110)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–80)]]
 > - **1990s — 灾难性后果、技术官僚包装与非政府组织异化** [[UNICEF|联合国儿童基金会]]（UNICEF）发布《调整具有人情面孔》（*Adjustment with a Human Face*），实证揭示 SAPs 导致全球南方初等识字率倒退、婴儿营养不良与公立学校大面积凋敝；[[Joel Samoff|萨莫夫]]（1992, 1993）系统揭露世界银行以[[Financial-Intellectual Complex|金融-智识复合体]]压制学术批评；同时，削减国家支出催生了社会服务向非政府组织的大规模外包，引发“[[Shadow State|影子国家]]”体制异化危机。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 107, 111–112)]]
-> - **2000s — [[Discourse|话语]]包装与[[Poverty Reduction Strategy Papers|减贫战略文件]]（PRSP）** 在全球批判浪潮下，世界银行将 SAPs 更名为“减贫战略文件”（Poverty Reduction Strategy Papers, PRSPs），口头上强调[[Education for All|全民教育]]（EFA），但在底层放贷中依旧固守新自由主义技术官僚与成本收益逻辑。
+> - **2000s — [[Discourse|话语]]包装与[[Poverty Reduction Strategy Papers|减贫战略文件]]（PRSP）** 在全球批判浪潮下，世界银行将 SAPs 更名为“减贫战略文件”（Poverty Reduction Strategy Papers, PRSPs），口头上强调[[Education for All|全民教育]]（EFA），但在底层放贷中依旧固守新自由主义技术官僚与成本分担逻辑；瓦夫鲁斯（[[Argument_Vavrus_2006_CICE|Vavrus, 2005; Vavrus & Bartlett, 2006]]）结合坦桑尼亚微观民族志与宏观政治经济学调查，实证揭示中等教育成本分摊与艾滋危机叠加如何导致贫困家庭无力负担学费、迫使女童失学，从实地证据层面击碎了宏观政策的技术理性假设（p. 97）。
 
 ---
 
@@ -211,11 +212,10 @@ updated: 2026-11-19
 
 > [!entry-map] 条目关联
 >
-> | 条目 | 类型 | 贡献 |
+> | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Multilateral Development Bank]] | 概念 | 推行结构调整与行业[[Policy Conditionalities\|贷款附加条件]]的核心超国家开发金融载体。 |
 > | [[Washington Consensus]] | 概念 | 指导结构调整方案各项宏观经济紧缩与市场化信条的智识共识基础。 |
-> | [[Inter-American Development Bank]] | 事实 (机构) | 在结构调整期更偏重务实基建借贷、与[[World Bank\|世行]]激进体制改革形成对照的区域开发银行。 |
 > | [[Financial-Intellectual Complex]] | 概念 | 揭示[[World Bank\|世界银行]]推行结构调整方案时垄断研究生产与专家智库的话语权力中介。 |
 > | [[Import Substitution Industrialisation]] | 概念 | 说明结构调整方案如何取代早期内向型工业化，迫使国家从[[Developmentalism\|发展主义]]走向新自由主义紧缩。 |
 > | [[Educational Privatisation]] | 概念 | 分析结构调整方案在教育系统推行[[Endogenous Privatisation\|内生]]与[[Exogenous Privatisation\|外生私有化]]及市场运作的具体[[Operationalization\|操作化]]路径。 |
@@ -225,11 +225,13 @@ updated: 2026-11-19
 > | [[Joel Samoff]] | 人物 | 深刻剖析结构调整[[Discourse\|话语]]的概念模糊性及其背后的国际技术官僚铁板一块放贷机制。 |
 > | [[Stephen Ball]] | 人物 | 提出教育市场化改革是一项由新自由主义国家推行的阶级策略。 |
 > | [[Robert Arnove]] | 人物 | 阐发结构调整的技术官僚成本效益话语机制及其对影子国家外包与依附分层的锁定。 |
+> | [[Inter-American Development Bank]] | 事实 | 在结构调整期更偏重务实基建借贷、与[[World Bank\|世行]]激进体制改革形成对照的区域开发银行。 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 从[[Conditioned State Theory|受限国家理论]]与阶级策略视角，系统阐述[[World Bank|世界银行]]与 [[International Monetary Fund|IMF]] 的结构调整方案如何通过[[Policy Conditionalities|贷款附加条件]]剥夺拉美国家的教育公共主权并加剧阶级分化。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 104–106, 110–112)]] — 运用[[World-Systems Theory|世界体系分析]]透视结构调整方案的技术官僚成本效益[[Discourse|话语]]，揭示公共开支削减如何导致基础教育向非政府组织外包并异化为“[[Shadow State|影子国家]]”，进而固化外围国家的依附地位。
+> - [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] — 结合坦桑尼亚实地调查，揭示结构调整下的中等教育成本分担政策与艾滋危机叠加如何迫使女童失学，以垂直案例打破宏观技术理性神话（p. 97）。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 实证对照结构调整市场化改革对受援国[[Education for All|全民教育]]（EFA）进程的阻碍与古巴自主公共教育动员的成功，揭示外部强制紧缩与市场化对全球南方教育发展造成的结构性破坏。
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 从圈内高阶官员视角反思多边贷款附加条件的执行限度与政治博弈，揭示强推改革的不可行性与借款国内部官僚利用银行作为挡箭牌的策略（pp. 465–467）。

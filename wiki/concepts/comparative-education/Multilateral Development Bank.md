@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 
 ---
@@ -189,7 +189,8 @@ updated: 2026-11-19
 > > - **追逐政策风潮的摇摆反思（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009]]）** 卡斯特罗直言，多边银行的政策导向往往随学术风潮发生剧烈反弹，类似政策风潮的起伏更替（甚至被讥讽为受制于女性时尚潮流般变幻莫测的规律）：早期多边银行大力投资高等教育；随后内部经济学家断言大学投资过度而基础教育深陷危机，长达十余年彻底冻结对高教的新贷款，并密集发文抨击大学投入；而在[[Knowledge-Based Economy|知识经济]]与全球创新竞争兴起后，银行再度 180 度大转弯将高等教育重新确立为核心资助领域。这种频繁的政策摇摆凸显了超国家专业机构受制于主流理论时尚的脆弱性。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 473)]]
 
 > [!warning] 适用局限
-> 多边开发银行分析主要针对世界银行与美洲、亚洲、非洲等区域性多边主权放贷实体；[[International Monetary Fund|国际货币基金组织]]（IMF）由于不开展针对具体行业基础设施的项目投资贷款，其运行逻辑与本概念存在显著制度差异。
+> - **机构职能边界** 多边开发银行分析主要针对世界银行与美洲、亚洲、非洲等区域性多边主权放贷实体；[[International Monetary Fund|国际货币基金组织]]（IMF）由于不开展针对具体行业基础设施的项目投资贷款，其运行逻辑与本概念存在显著制度差异。
+> - **忽视微观基层的改革流产风险** 瓦夫鲁斯与巴特利特（[[Argument_Vavrus_2006_CICE|Vavrus & Bartlett, 2006, pp. 97–98]]，引述 Samoff, 1999）警示，由国际开发机构委托的短期咨询往往推销自上而下的去情境化“全球共识”；方案设计与实施若脱离地方土壤并忽视微观学生、教师与社区的广泛参与，此类教育改革极易沦为流产工程。
 
 ---
 
@@ -201,6 +202,7 @@ updated: 2026-11-19
 > | [[Inter-American Development Bank]] | 事实 (机构) | 具有代表性的区域性多边开发银行，体现更偏重在地沟通与务实协商的组织风格。 |
 > | [[International Monetary Fund]] | 事实 (机构) | 与多边开发银行协同运作的国际金融中枢，其黑名单机制构成了多边贷款偿付的根本后盾。 |
 > | [[Claudio de Moura Castro]] | 人物 | 从圈内制度分析解构多边银行金融魔术与执行病理的高阶官员与学者。[[Argument_Castro_2009_MultilateralBanks\|(Castro, 2009, p. 455)]] |
+> | [[Context in Comparative Education]] | 概念 | 比较教育情境观，批判多边机构去情境化指标，强调微观情境对宏观改革的内在解释力。 |
 > | [[Counterpart Funds]] | 概念 | 多边开发银行主权贷款中用于预算锁定与导致项目拖延的核心配套资金机制。[[Argument_Castro_2009_MultilateralBanks\|(Castro, 2009, p. 458)]] |
 > | [[Disbursement-Driven Evaluation]] | 概念 | 多边开发银行内部重资金拨付与硬件采购、轻学生学业成果的评估异化机制。[[Argument_Castro_2009_MultilateralBanks\|(Castro, 2009, pp. 470–471)]] |
 > | [[Education for All]] | 政策事实 | 1990 年宗滴恩大会上由世界银行主导确立全球教育量化治理霸权的标志性政策运动。[[Argument_Castro_2009_MultilateralBanks\|(Castro, 2009, pp. 466, 474)]] |
@@ -213,3 +215,4 @@ updated: 2026-11-19
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 从圈内高阶官员视角，系统剖析多边开发银行的信用合作社金融本质、项目谈判机制、附加条件成败案例、追逐政策风潮的周期性摇摆以及重投入轻产出的执行困境（pp. 455–477）。
+> - [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] — 结合国际咨询实践警示多边与双边开发机构推行自上而下“全球共识”的局限，论证忽视微观地方利益攸关方将导致教育改革流产（pp. 97–98）。
