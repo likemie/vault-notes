@@ -11,9 +11,9 @@ subtype: policy
 region: multi
 fact_region: "multi"
 fact_kind: "policy"
-fact_related_count: 36
-fact_related_level: 3
-fact_related_stars: "💎"
+fact_related_count: 43
+fact_related_level: 4
+fact_related_stars: "💎⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "[[ASEAN]] & [[SEAMEO RIHED]]"
 tags:
@@ -39,6 +39,11 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Transnational Education]]"
   - "[[Epistemic Friction]]"
+  - "[[Epistemology]]"
+  - "[[Policy Borrowing]]"
+  - "[[Epistemic Coloniality]]"
+  - "[[Sejahtera]]"
+  - "[[Kapwa]]"
   - "[[Bologna Process Export Thesis]]"
   - "[[Global Regionalisms]]"
   - "[[Geopolitics of Higher Education]]"
@@ -46,7 +51,8 @@ related_concepts:
 related_theories:
   - "[[Institutional Isomorphism]]"
   - "[[Comparative Regionalism]]"
-related_methods: []
+related_methods:
+  - "[[Critical Policy Analysis]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -65,16 +71,17 @@ related_facts:
 related_arguments:
   - "[[Argument_Chou_2017_PolSoc]]"
   - "[[Argument_Yu_Xie_2025_JHE]]"
+  - "[[Argument_Indrarajah_2026_NJCIE]]"
 confidence: high
 status: active
 created: 2026-06-26
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2008 年[[SEAMEO RIHED|东南亚教育部长组织高等教育与发展区域中心]]（[[SEAMEO]] RIHED）发布区域高教空间规划报告（Towards a Southeast Asian Higher Education Common Space），正式提出构建共同空间蓝图；2010 年代伴随[[ASEAN|东盟]]互联互通总体规划（[[Master Plan on ASEAN Connectivity]]）推进，该架构演进为包容既有分散项目的弹性平台；2024 年[[ASEAN|东南亚国家联盟]]（ASEAN）与东南亚教育部长组织（SEAMEO）正式联合签署《东南亚高等教育共同空间宣言》，将共同空间确立为区域层面的联合政策框架。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 152–154)]]；[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 3)]]
+> - **发布时间 / 发布主体** 2008 年[[SEAMEO RIHED|东南亚教育部长组织高等教育与发展区域中心]]（[[SEAMEO]] RIHED）发布区域高教空间规划报告（Towards a Southeast Asian Higher Education Common Space），正式提出构建共同空间蓝图；2010 年代伴随[[ASEAN|东盟]]互联互通总体规划（[[Master Plan on ASEAN Connectivity]]）推进，该架构演进为包容既有分散项目的弹性平台；2024 年[[ASEAN|东南亚国家联盟]]（ASEAN）与东南亚教育部长组织（SEAMEO）正式联合签署《东南亚高等教育共同空间宣言》，将共同空间确立为区域层面的联合政策框架。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 152–154)]]；[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 3)]]；[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 6–7)]]
 > - **适用地区 / 对象** 东南亚 11 个国家（东盟 10 国及东帝汶）的高等教育行政部门、公立与私立大学、质保中介机构（如 [[ASEAN University Network|AUN]]-QA、AQAN）及跨国流动师生群体。
 > - **问题背景** 东南亚各国高等教育体制具有显著的[[Heterogeneity|异质性]]，后殖民历史遗留导致多国体制互不兼容，长期缺乏全域通用的学位与学分互认体系；2007 年东盟峰会确立 2015 年建成[[ASEAN Economic Community|东盟经济共同体]]（AEC）的期限，横向倒逼社会文化支柱加快疏通高技能人才跨境流动与资历对接堵点；全球[[Geopolitics|地缘政治]]冲突加剧导致传统西方[[Study Abroad|留学]]目的地安全审查趋严，促使东南亚寻求构筑内生性的[[Scientific Mobility|学术流动]]走廊。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 153)]]；[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 3)]]
 > - **制度位置** 东南亚共同空间植根于“[[ASEAN Way|东盟方式]]”（ASEAN Way）与不干涉内政原则；作为非强制性、去中心化的自愿协调网络，其制度定位在于连接并包容精英高校网络（[[ASEAN University Network|AUN]]）与政府部委平台（[[SEAMEO RIHED]]）已有的多元机制。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 152–154)]]
@@ -125,6 +132,7 @@ updated: 2026-11-11
 > [!tension]- 制度架构分治与治理张力
 > - **高校自治结网 vs 政府间行政权威** 东盟大学联盟与 SEAMEO RIHED 互不隶属，前者由顶尖高校校长主导、侧重微观学科互惠，后者由主权国家教育部官员掌舵、侧重宏观政治与经济议程；两者在学分系统（ACTS vs AIMS）与质保标准上形成平行竞逐，成员国刻意维持这种功能分立以防范超国家集权官僚的生成。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 152)]]
 > - **主权防卫诉求 vs 经济共同体一体化倒逼** 东南亚各国对后殖民国家教育主权高度敏感，坚决抵制超国家让权；2015 年东盟经济共同体（AEC）建成期限与[[Knowledge-Based Economy|知识经济]]竞争压力，又迫切要求消除专业人才跨国流动壁垒，促使各国在坚守主权底线的同时通过弹性伞式框架推进功能性对接。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 153–154)]]
+> - **消极不干涉底线 vs 区域实质平等的矛盾** 东南亚国家坚持不干涉内政与协商一致的东盟方式，使得共同空间在规避超国家集权的同时缺乏有力的再分配干预机制，导致区域内部资源集聚与流动收益严重向核心国倾斜。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 7, 12–13)]]
 
 ---
 
@@ -146,6 +154,11 @@ updated: 2026-11-11
 > > 围绕外部援助项目如何与本土治理机制相调适展开博弈。
 > > - **外部援助统一预期** 欧盟试图借助 SHARE 项目将欧洲标准和资历框架整套输出，预设其为通用先进经验。
 > > - **东南亚主权对质与重构** 东南亚行动者坚决抵制一刀切模板，对外部忽视本土已有质保工具（AUN-QA）的倾向保持警惕，促使外部合作回归平等对话与本土主导原则。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 155–156)]]
+>
+> > [!axis] [[Epistemology|认识论]]去殖民化与共同空间内部公平性争议
+> > 围绕共同空间依托东盟方式推进的自愿性学生流动与[[Policy Borrowing|政策借用]]是否再生产了区域内外部不平等展开批判反思。
+> > - **官方与区域主义功能叙事** 强调共同空间在维护主权防卫的同时促进了高技能人才流通与制度兼容，依托自愿试点扩大了各成员国高等教育的区域吸引力。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 3)]]
+> > - **认识论去殖民批判** [[Argument_Indrarajah_2026_NJCIE|Indrarajah (2026, pp. 6–8, 12–15)]] 运用[[Critical Policy Analysis|批判性政策分析]]指出，共同空间对消极不干涉原则的墨守导致区域协调机制虚弱，在未触动经济与资源不对称的前提下，跨国学生流动演变为边缘成员国（老挝、缅甸、柬埔寨）向区域核心国家（新、马、泰）的单向生源输送与学费汲取；加之借用欧洲博洛尼亚技术规程再生产了[[Epistemic Coloniality|认识论殖民性]]，亟需融入东南亚原住民哲学（如 [[Sejahtera]]、[[Kapwa]]）以推动从消极不干涉转向实质性互助共济与骨干高校结对帮扶。
 
 > [!citation-card] Chou & Ravinet 评述东南亚明确拒绝效仿博洛尼亚模式
 > 东南亚政策官员的访谈记录以及官方评估报告均表明，博洛尼亚输出假说及[[Comparative Regionalism|比较区域主义]]的扩散预设过于简单且具误导性。东南亚行动者在寻求最佳实践时，明确拒绝将[[Bologna Process|博洛尼亚进程]]作为应当效仿的样板。各国在建设高教空间时坚持捍卫主权，探索出一条立足本土的多边协调路径。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 155)]]
@@ -171,5 +184,6 @@ updated: 2026-11-11
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Indrarajah_2026_NJCIE|Indrarajah (2026)]] — 运用批判性政策分析透视东盟高教共同空间中的消极不干涉局限、生源不均与认识论依附，主张依托本土哲学推动去殖民化转型（pp. 6–8, 12–15）。
 > - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] — 深入解构东南亚共同空间演进动力、双轨分立与博洛尼亚抵制逻辑的比较研究。
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 探讨 2024 年共同空间宣言签署的地缘政治动因与跨国学术流动格局重构。

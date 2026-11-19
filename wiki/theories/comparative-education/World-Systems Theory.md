@@ -8,7 +8,7 @@ aliases:
 summary: "由沃勒斯坦创立的历史社会学宏观理论，将全球资本主义组织为中心、半边缘和边缘三层分工结构，为比较教育学打破方法论民族主义、揭示跨国教育依附链条与国际援助政治经济学提供了核心批判范式。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 45
+theory_related_count: 46
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Historical Amnesia]]"
 related_theories:
+  - "[[Modernization Theory]]"
   - "[[Structural Functionalism]]"
   - "[[Human Capital Theory]]"
   - "[[Dialectic of the Global and the Local]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-12'
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 ---
@@ -92,7 +93,7 @@ updated: 2026-11-14
 ---
 
 > [!theory-core]- 核心架构：中心—半边缘—边缘的三层分工与长时段历史动力学
-> 世界体系理论打破了传统现代化理论将“传统”与“现代”对立的二元线性演进假定，构筑了三层空间结构与长时段历史[[Analytic Framework|分析框架]]：
+> 世界体系理论打破了传统[[Modernization Theory|现代化理论]]将“传统”与“现代”对立的二元线性演进假定，构筑了三层空间结构与长时段历史[[Analytic Framework|分析框架]]：
 > 
 > ```mermaid
 > graph TD

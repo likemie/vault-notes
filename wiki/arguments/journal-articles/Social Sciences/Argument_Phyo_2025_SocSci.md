@@ -33,6 +33,7 @@ related_concepts:
   - "[[Dependent Variable]]"
 related_theories:
   - "[[Maximally Maintained Inequality]]"
+  - "[[Modernization Theory]]"
   - "[[Effectively Maintained Inequality]]"
   - "[[Human Capital Theory]]"
 related_methods:
@@ -49,6 +50,8 @@ related_facts:
   - "[[UN Sustainable Development Goals]]"
   - "[[Demographic and Health Surveys]]"
   - "[[Multiple Indicator Cluster Surveys]]"
+  - "[[Universal Access to Quality Tertiary Education Act]]"
+  - "[[Indonesian Law No. 12 of 2012]]"
   - "[[ASEAN]]"
 related_arguments: []
 sources:
@@ -63,7 +66,7 @@ title: "Argument_Phyo_2025_SocSci"
 argument_key: "Argument_Phyo_2025_SocSci"
 argument_display_title: "Toward 2030: Inequities in higher education access in Southeast Asia"
 argument_kind: "journal-article"
-argument_related_count: 26
+argument_related_count: 29
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -84,7 +87,7 @@ issuing_organization: ""
 
 > [!concept-lens] 阅读透镜
 > - **对象** 东南亚八国（缅甸、东帝汶、印度尼西亚、老挝、越南、柬埔寨、菲律宾、泰国）1946 年至 1995 年出生的 39.9 万名 25 岁及以上成年微观人口样本。
-> - **张力** 经典现代化理论所假定的规模扩张促进阶层机会均等预期，与微观调查中贫富入学差距随大众化推进反而加速拉大的严峻现实产生强烈冲突。
+> - **张力** [[Modernization Theory|经典现代化理论]]所假定的规模扩张促进阶层机会均等预期，与微观调查中贫富入学差距随大众化推进反而加速拉大的严峻现实产生强烈冲突。
 > - **贡献** 将 MMI 假说的跨期微观实证检验拓展至东南亚多国情境，运用统一微观计量模型厘清财富、性别与区位的交叉互动态势，深入剖析了各国政策工具箱的制度设计缺陷。
 
 ---
@@ -94,7 +97,7 @@ issuing_organization: ""
 > |---|---|
 > | **[[Maximally Maintained Inequality]]**<br>最大限度维持不平等假说 | 核心[[Analytic Framework\|分析框架]]。认为在优势阶层的升学需求达到全面饱和之前，系统扩张释放的名额优先被优势阶层占有，相对不平等保持稳定或绝对差距扩大。(Raftery & Hout, 1993; Shavit & Blossfeld, 1994) |
 > | **[[Effectively Maintained Inequality]]**<br>有效维持不平等（Effectively Maintained Inequality, EMI）假说 | 理论对照视角。指出在数量获得扩展的同时，优势阶层会转向重点名校与高收益专业等质量层级区隔以维系优势。(Lucas, 2001; Breen & Jonsson, 2005) |
-> | **现代化理论（Modernization Theory）**<br>技术功能主义假说 | 理论对立假说。主张[[Knowledge-Based Economy\|知识经济]]扩张与技能需求提升将推动更多弱势背景个体参与高教，自发平抑阶层不平等。(Bell, 2018; DiPrete & Grusky, 1990; Parsons, 1964; Patrinos, 2021) |
+> | **[[Modernization Theory\|现代化理论]]（Modernization Theory）**<br>技术功能主义假说 | 理论对立假说。主张[[Knowledge-Based Economy\|知识经济]]扩张与技能需求提升将推动更多弱势背景个体参与高教，自发平抑阶层不平等。(Bell, 2018; DiPrete & Grusky, 1990; Parsons, 1964; Patrinos, 2021) |
 > | **文化资本与结构壁垒理论**<br>阶层再生产假说 | 解释机制。说明弱势阶层学生即便完成中等教育，也因缺乏[[Cultural Capital\|文化资本]]、社会网络与备考资源而在大学门槛前处于劣势。(Bourdieu & Passeron, 1990; Buchmann & Hannum, 2001; Collins, 2019; Rosenbaum & Becker, 2011) |
 > | **交叉性视角（Intersectionality Perspective）**<br>多维边缘化复合分析 | 分析架构。检视财富、性别与地理区位如何在不同历史队列中相互交织，产生非单一叠加的复合分层效果。(Crenshaw, 1989; Ilie et al., 2021; Sánchez & Singh, 2018) |
 
@@ -333,14 +336,14 @@ issuing_organization: ""
 > [!sub-claim] 1. 公立大学免学费演变为富人福利，名校席位被私立中学毕业生挤占
 
 > [!case] 案例一｜菲律宾：免学费法案与顶尖公立席位的阶层垄断
-> - **制度出台背景** 菲律宾于 2017 年正式颁布《优质公立高等教育普及法案》（Universal Access to Quality Tertiary Education Act），规定所有在公立州立大学与学院（State Universities and Colleges, SUCs）攻读首个本科学位的学生免缴全部学杂费。(Gerona & Villaruz, 2023)
+> - **制度出台背景** 菲律宾于 2017 年正式颁布《[[Universal Access to Quality Tertiary Education Act|优质高等教育普惠法]]》（Universal Access to Quality Tertiary Education Act），规定所有在公立州立大学与学院（State Universities and Colleges, SUCs）攻读首个本科学位的学生免缴全部学杂费。(Gerona & Villaruz, 2023)
 > - **微观运行机制** 菲律宾长期以来由私立高等教育主导大众化进程（2018 年私立院校毕业生占比达 53%），但以菲律宾大学迪里曼分校（University of the Philippines Diliman, UP Diliman）为代表的公立名校享有远高于私立高校的学术声誉与就业回报。(Tullao & Ruiz, 2022)
 > - **政策扭曲与再分配悖论** 免学费政策出台后，来自城市富裕阶层家庭的学生凭借在私立优质中小学积累的高学术成绩与备考优势，在严苛的公立大学入学选拔中大幅胜出并占据绝大多数免费席位；原本面向大众的公立资源转化为对富裕阶层的财政补贴，底层学生依然因高昂的生活与机会成本被阻隔在大学门槛之外。(Marginson, 2016)
 
 > [!sub-claim] 2. 助学金资格屡遭虚报冒领，弱势学生因基础学业差距难以按期读完
 
 > [!case] 案例二｜印度尼西亚：第 12/2012 号法案配额与 Bidikmisi 奖学金机制
-> - **法定干预架构** 印尼 2012 年第 12 号《高等教育法》（Law 12/2012）强制要求全国公立大学（Perguruan Tinggi Negeri, PTN）必须将至少 20% 的招生席位保留给来自经济困难家庭或农村偏远地区的优秀学生。(Brewis, 2019)
+> - **法定干预架构** [[Indonesian Law No. 12 of 2012|印尼 2012 年第 12 号《高等教育法》（Law 12/2012）]]强制要求全国公立大学（Perguruan Tinggi Negeri, PTN）必须将至少 20% 的招生席位保留给来自经济困难家庭或农村偏远地区的优秀学生。(Brewis, 2019)
 > - **专项资助工具** 同步推进 Bidikmisi 奖学金项目，向经济困难学生全额提供学费资助与生活津贴；针对巴布亚及边境偏远落后地区实施高等教育平权计划（Afirmasi Pendidikan Tinggi, ADIK）与边远、边境和欠发达地区（Terdepan, Terluar, Tertinggal; 3T）专项倾斜方案，下调录取分数线并提供全额补贴。
 > - **实施阻碍与制度张力** 在选拔过程中，由于家庭收入核查机制薄弱，出现部分优势家庭伪造经济困难证明以争夺名额的资格失真现象；更为根本的是，偏远地区薄弱的基础教育质量使得受助学生进入大学后难以适应学术要求，暴露出单纯大学入口端配额无法补足前期[[Human Capital Theory|人力资本]]赤字的根本缺陷。
 

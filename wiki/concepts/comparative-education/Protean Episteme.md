@@ -9,10 +9,10 @@ aliases:
 summary: "安德烈亚斯·卡扎米亚斯用希腊神话普罗透斯隐喻界定的比较教育学认识论特征，指学科在两百余年演进中因应不同时代的认识论、方法论与意识形态风尚而持续变换形态与论述代际"
 type: concept
 domain: "comparative-education"
-related_count: 57
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 60
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - subject/comparative-education
   - theme/epistemology
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Empiricism]]"
   - "[[Comparative Pedagogy]]"
+  - "[[Post-histoire]]"
   - "[[Theoretical Standpoint]]"
   - "[[Causality]]"
   - "[[Social Science as Legitimation Alibi]]"
@@ -53,6 +54,7 @@ related_concepts:
 related_theories:
   - "[[Behaviorism]]"
   - "[[Human Capital Theory]]"
+  - "[[Modernization Theory]]"
   - "[[World-Systems Theory]]"
   - "[[Pluralism]]"
   - "[[Structural Functionalism]]"
@@ -70,6 +72,7 @@ related_persons:
   - "[[Michael Sadler]]"
   - "[[Isaac Kandel]]"
   - "[[Robert Ulich]]"
+  - "[[Karl Marx]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
   - "[[George Psacharopoulos]]"
@@ -84,7 +87,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -162,7 +165,7 @@ updated: 2026-11-15
 > **论述代际更迭与时代政治智识语境的共振机制** 卡扎米亚斯剖析了比较教育学从启蒙发端至当代演进的内在谱系，论证学科每一次外貌更迭与[[Discourse|话语]]转型都非纯粹内在理论推演，是与同时期的主流社会科学理论[[Paradigm|范式]]及国家治理诉求紧密共振。
 
 > [!claim] [[Andreas Kazamias|Kazamias, A.]] M.
-> **论述代际的四阶段更迭模型** 比较教育学的发展可以理论化为四大论述代际：第一代为十八世纪末十九世纪初由[[Marc-Antoine Jullien|马克-安托万·朱利安]]（Marc-Antoine Jullien）开创的[[Proto-Scientific Motif|准科学母题]]以及[[Victor Cousin|库森]]（Victor Cousin）、[[Horace Mann|霍勒斯·曼]]（Horace Mann）等行政官员开创的[[Policy Borrowing|政策借用]][[Educational Meliorism|改良主义]]母题，二者皆直接植根于[[Enlightenment|启蒙运动]]的理性进步观与现代民族国家建构；第二代为二十世纪上半叶由[[Michael Sadler|萨德勒]]（Michael Sadler）、[[Isaac Kandel|坎德尔]]（Isaac Kandel）、汉斯（[[Nicholas Hans]]）和[[Robert Ulich|乌利希]]（Robert Ulich）奠定的历史-哲学与自由人文主义传统，将研究聚焦于民族国家精神、文化传统与民主公民素养，抵制技术官僚化；第三代为 1950 至 1970 年代爆发的实证科学化运动（包括芝加哥学派功能主义、诺亚与埃克斯坦的方法论[[Positivism|实证主义]]、霍姆斯的[[Problem Approach|问题法]]），顺应了战后[[Human Capital Theory|人力资本理论]]、现代化理论以及国家中央计划体制对确定性技术指标的极度渴求；第四代为新马克思主义、韦伯主义与[[World-Systems Theory|世界体系分析]]等冲突范式，揭露资本主义国家机器再生产不平等的权力结构。学科正是在这四重代际的更替中展现了如普罗透斯般变幻莫测的理论面貌。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 140–155)]]
+> **论述代际的四阶段更迭模型** 比较教育学的发展可以理论化为四大论述代际：第一代为十八世纪末十九世纪初由[[Marc-Antoine Jullien|马克-安托万·朱利安]]（Marc-Antoine Jullien）开创的[[Proto-Scientific Motif|准科学母题]]以及[[Victor Cousin|库森]]（Victor Cousin）、[[Horace Mann|霍勒斯·曼]]（Horace Mann）等行政官员开创的[[Policy Borrowing|政策借用]][[Educational Meliorism|改良主义]]母题，二者皆直接植根于[[Enlightenment|启蒙运动]]的理性进步观与现代民族国家建构；第二代为二十世纪上半叶由[[Michael Sadler|萨德勒]]（Michael Sadler）、[[Isaac Kandel|坎德尔]]（Isaac Kandel）、汉斯（[[Nicholas Hans]]）和[[Robert Ulich|乌利希]]（Robert Ulich）奠定的历史-哲学与自由人文主义传统，将研究聚焦于民族国家精神、文化传统与民主公民素养，抵制技术官僚化；第三代为 1950 至 1970 年代爆发的实证科学化运动（包括芝加哥学派功能主义、诺亚与埃克斯坦的方法论[[Positivism|实证主义]]、霍姆斯的[[Problem Approach|问题法]]），顺应了战后[[Human Capital Theory|人力资本理论]]、[[Modernization Theory|现代化理论]]以及国家中央计划体制对确定性技术指标的极度渴求；第四代为新[[Karl Marx|马克思]]主义、韦伯主义与[[World-Systems Theory|世界体系分析]]等冲突范式，揭露资本主义国家机器再生产不平等的权力结构。学科正是在这四重代际的更替中展现了如普罗透斯般变幻莫测的理论面貌。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 140–155)]]
 
 ---
 
@@ -187,7 +190,7 @@ updated: 2026-11-15
 > |---|---|---|---|
 > | **论述代际演变命题** | 比较教育四重论述代际与时代智识政治语境的深刻共振 | 学科史谱系梳理与范式演变长周期考察 | Kazamias (2001, 2009a); Hans (1949); Kandel (1933) |
 > | **方法论主义批判命题** | 单一实证[[Scientific Paradigm\|科学范式]]将研究异化为脱离情境与价值的技术崇拜 | 比较研究设计反思与实证量化过度偏向批判 | Barber (1972); Noah and Eckstein (1969); [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] |
-> | **历史健忘症诊断命题** | 学科实证繁荣背后历史维度的放逐危机与历史失忆症风险 | 学科研究策略元评估与史学传统重构呼吁 | Larsen (2001); Kazamias (2001, 2009a) |
+> | **历史健忘症诊断命题** | 学科实证繁荣背[[Post-histoire\|后历史]]维度的放逐危机与历史失忆症风险 | 学科研究策略元评估与史学传统重构呼吁 | Larsen (2001); Kazamias (2001, 2009a) |
 
 ---
 

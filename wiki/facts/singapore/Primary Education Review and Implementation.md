@@ -14,7 +14,7 @@ subtype: policy
 region: singapore
 fact_region: "singapore"
 fact_kind: "policy"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -46,6 +46,7 @@ related_facts:
   - "[[Teach Less, Learn More]]"
   - "[[Education for All]]"
   - "[[Ministry of Education of the People's Republic of China]]"
+  - "[[Direct School Admission]]"
 related_arguments:
   - "[[Argument_Lim_2013_APJE]]"
 confidence: high
@@ -127,7 +128,7 @@ updated: 2026-11-19
 > [!indicators] 评价指标
 > - **投入指标** 单班制校舍改建率（覆盖 102 所学校）；教育协作人员编制增长至 2,800 名；小学教师全员大学化招募比例；各校每年最高 17 万新元专款。[[Argument_Lim_2013_APJE|(Lim, 2013, pp. 7–8)]]
 > - **过程指标** 小学一年级总结性考试取消落实率；[[Formative Assessment|形成性评价]]与分段测验实施频率；小学一二年级全面学习计划课程开出率。[[Argument_Lim_2013_APJE|(Lim, 2013, pp. 7, 9)]]
-> - **成效与公平风险指标** 弱势学童学龄初期阅读技能追赶成效；不同阶层家庭在直接招生渠道（Direct School Admissions, DSA）中的录取分布均衡度。[[Argument_Lim_2013_APJE|(Lim, 2013, pp. 8, 10)]]
+> - **成效与公平风险指标** 弱势学童学龄初期阅读技能追赶成效；不同阶层家庭在直接招生渠道（Direct School Admissions, [[Direct School Admission|DSA]]）中的录取分布均衡度。[[Argument_Lim_2013_APJE|(Lim, 2013, pp. 8, 10)]]
 
 ---
 

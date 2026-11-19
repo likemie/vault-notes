@@ -5,7 +5,7 @@ aliases:
 summary: "对科学方法和科学权威的过度美化与神化，将其排他性外推至原本不适用的人类精神与社会探究领域的认识论倾向。科学主义将实证科学视为唯一合法的求真法则，以工具理性和概念数学化扼杀价值伦理辩论，在当代教育治理中表现为量化霸权与对多元认知方式的系统规训。"
 type: concept
 domain: "educational-philosophy"
-related_count: 60
+related_count: 63
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -64,6 +64,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
 related_persons:
+  - "[[Max Horkheimer]]"
   - "[[Jürgen Habermas]]"
   - "[[John Hattie]]"
   - "[[Martin Luther]]"
@@ -71,6 +72,7 @@ related_persons:
   - "[[Max Eckstein]]"
   - "[[Hu Shi]]"
   - "[[John Dewey]]"
+  - "[[Ernst Cassirer]]"
   - "[[Karl Popper]]"
 related_facts:
   - "[[New Culture Movement]]"
@@ -81,16 +83,17 @@ related_arguments:
   - "[[Argument_Zemplen_2007_SciEduc]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch08]]"
 confidence: high
 status: completed
 created: 2026-06-14
-updated: 2026-11-16
+updated: 2026-11-19
 ---
 
 ---
 
 > [!def] Scientism
-> 科学主义是一种将自然科学的方法与权威过度外推至人类精神、社会文化与教育探究领域的排他性[[Epistemic Stances|认识论立场]]。马克斯·霍克海默（Max Horkheimer, 1972）将其界定为“科学对自身的迷信”——深信实证科学是开展探究与解释现象的唯一合法途径，并将关于自然的概念全面数学化；[[Jürgen Habermas|尤尔根·哈贝马斯]]（Jürgen Habermas, 1972）进一步揭示科学心态已演变为当代西方社会的新宗教，将全部人类知识窄化为实证科学，扼杀了伦理、价值与审美维度的理性审议（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。在当代教育领域，科学主义表现为对数字、[[Effect Size|效应量]]与工业研发（R&D）管理逻辑的狂热崇拜（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 34]]）。
+> 科学主义是一种将自然科学的方法与权威过度外推至人类精神、社会文化与教育探究领域的排他性[[Epistemic Stances|认识论立场]]。[[Max Horkheimer|马克斯·霍克海默]]（Max Horkheimer, 1972）将其界定为“科学对自身的迷信”——深信实证科学是开展探究与解释现象的唯一合法途径，并将关于自然的概念全面数学化；[[Jürgen Habermas|尤尔根·哈贝马斯]]（Jürgen Habermas, 1972）进一步揭示科学心态已演变为当代西方社会的新宗教，将全部人类知识窄化为实证科学，扼杀了伦理、价值与审美维度的理性审议（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。在当代教育领域，科学主义表现为对数字、[[Effect Size|效应量]]与工业研发（R&D）管理逻辑的狂热崇拜（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 34]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 科学主义是一种排他性的认识论立场与意识形态，它将自然科学的经验观察、量化测定与受控实验神化为唯一合法的求真法则，否认诠释、批判、伦理与审美等其他[[Ways of Knowing|认知方式]]的独立合法性。
@@ -264,7 +267,7 @@ updated: 2026-11-16
 > - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 以 IB [[Theory of Knowledge|TOK]] 课程为解剖对象，揭示科学主义如何通过课程评价框架与评分细则实施隐性[[Paradigm|范式]]规训。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 梳理比较教育学自 1960 年代追求科学化的历程，分析自然情境与[[Dissimilar Units|非同质单位]]带来的[[Epistemology|认识论]]约束，实证展示单一科学主义向[[Pluralism|健康多元主义]]转型的知识轨迹。
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 阐明科学主义批判的高度情境依赖性，揭示科学在不同地缘文明与历史时期的权力[[Heterogeneity|异质性]]。
-> - [[Argument_Hammermeister_2002_Cambridge_Ch08|Hammermeister (2002, Ch. 8)]] — 析卡西尔以艺术集中强化制衡科学主义穷尽、支配实在的僭妄（pp. 154–155）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch08|Hammermeister (2002, Ch. 8)]] — 析[[Ernst Cassirer|卡西尔]]以艺术集中强化制衡科学主义穷尽、支配实在的僭妄（pp. 154–155）。
 
 ---
 

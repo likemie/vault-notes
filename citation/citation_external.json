@@ -283,6 +283,8 @@
     "Adorno, 1962": "Adorno, 1962",
     "Adorno, 1977": "Adorno, 1977",
     "Adorno, 1997": "Adorno, 1997",
+    "Adrian Raftery & Michael Hout (1993)": "Adrian Raftery & Michael Hout, 1993",
+    "Adrian Raftery & Michael Hout, 1993": "Adrian Raftery & Michael Hout, 1993",
     "Aeon et al. (2021)": "Aeon et al., 2021",
     "Aeon et al., 2021": "Aeon et al., 2021",
     "Against Learning (2004)": "Against Learning, 2004",
@@ -6652,6 +6654,8 @@
     "Donald Rubin, 1974": "Donald Rubin, 1974",
     "Donald Stokes (1997)": "Donald Stokes, 1997",
     "Donald Stokes, 1997": "Donald Stokes, 1997",
+    "Donald Treiman (1970)": "Donald Treiman, 1970",
+    "Donald Treiman, 1970": "Donald Treiman, 1970",
     "Donaldson & Koepke (2022)": "Donaldson & Koepke, 2022",
     "Donaldson & Koepke, 2022": "Donaldson & Koepke, 2022",
     "Donaldson et al. (2021)": "Donaldson et al., 2021",
@@ -19574,6 +19578,8 @@
     "Peter A. Hall, 2009": "Peter A. Hall, 2009",
     "Peter Blatchford (2003)": "Peter Blatchford, 2003",
     "Peter Blatchford, 2003": "Peter Blatchford, 2003",
+    "Peter Blau & Otis Dudley Duncan (1967)": "Peter Blau & Otis Dudley Duncan, 1967",
+    "Peter Blau & Otis Dudley Duncan, 1967": "Peter Blau & Otis Dudley Duncan, 1967",
     "Peter Demerath (1999)": "Peter Demerath, 1999",
     "Peter Demerath, 1999": "Peter Demerath, 1999",
     "Peter Evans (1995)": "Peter Evans, 1995",
@@ -24506,6 +24512,8 @@
     "Talan, 2021a": "Talan, 2021a",
     "Talan, 2021b": "Talan, 2021b",
     "Talan, 2021c": "Talan, 2021c",
+    "Talcott Parsons (1959)": "Talcott Parsons, 1959",
+    "Talcott Parsons, 1959": "Talcott Parsons, 1959",
     "Tamayo (1992)": "Tamayo, 1992",
     "Tamayo, 1992": "Tamayo, 1992",
     "Tamin et al. (2016)": "Tamin et al., 2016",
@@ -24818,6 +24826,8 @@
     "Thomas Alberts, 2015": "Thomas Alberts, 2015",
     "Thomas Barr Greenfield (1975)": "Thomas Barr Greenfield, 1975",
     "Thomas Barr Greenfield, 1975": "Thomas Barr Greenfield, 1975",
+    "Thomas DiPrete & David Grusky (1990)": "Thomas DiPrete & David Grusky, 1990",
+    "Thomas DiPrete & David Grusky, 1990": "Thomas DiPrete & David Grusky, 1990",
     "Thomas Haladyna et al. (1991)": "Thomas Haladyna et al., 1991",
     "Thomas Haladyna et al., 1991": "Thomas Haladyna et al., 1991",
     "Thomas Kuhn (1962)": "Thomas Kuhn, 1962",
@@ -28529,6 +28539,8 @@
     "牛新春和郑雅君, 2018": "牛新春和郑雅君, 2018",
     "牛津大学 (2005)": "牛津大学, 2005",
     "牛津大学, 2005": "牛津大学, 2005",
+    "特赖曼 (1970)": "特赖曼, 1970",
+    "特赖曼, 1970": "特赖曼, 1970",
     "王伟宜和刘秀娟 (2016)": "王伟宜和刘秀娟, 2016",
     "王伟宜和刘秀娟, 2016": "王伟宜和刘秀娟, 2016",
     "王卫东 (2019)": "王卫东, 2019",
@@ -30802,6 +30814,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/instruction-pedagogy/Teaching Theory of Gruschka.md"
+      ],
+      "title": ""
+    },
+    "Adrian Raftery & Michael Hout, 1993": {
+      "aliases": [
+        "Adrian Raftery & Michael Hout, 1993",
+        "Adrian Raftery & Michael Hout (1993)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Adrian Raftery & Michael Hout, 1993"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Modernization Theory.md"
       ],
       "title": ""
     },
@@ -51436,7 +51463,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md",
+        "wiki/theories/sociology-of-education/Modernization Theory.md"
       ],
       "title": "Reproduction in Education, Society and Culture"
     },
@@ -53172,7 +53200,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md",
+        "wiki/facts/asia/Indonesian Law No. 12 of 2012.md"
       ],
       "title": "Fair Access to Higher Education and Discourses of Development: A Policy Analysis from Indonesia"
     },
@@ -75823,7 +75852,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md",
+        "wiki/theories/sociology-of-education/Modernization Theory.md"
       ],
       "title": "The Multilevel Analysis of Trends with Repeated Cross-Sectional Data"
     },
@@ -77497,6 +77527,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/political-economy-geopolitics/Developmental Network State.md"
+      ],
+      "title": ""
+    },
+    "Donald Treiman, 1970": {
+      "aliases": [
+        "Donald Treiman, 1970",
+        "Donald Treiman (1970)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Donald Treiman, 1970"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Modernization Theory.md"
       ],
       "title": ""
     },
@@ -169195,7 +169240,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md",
+        "wiki/theories/sociology-of-education/Modernization Theory.md"
       ],
       "title": "Evolutionary Universals in Society"
     },
@@ -171616,6 +171662,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/New Zealand Journal of Educational Studies/Argument_Snook_2009_NZJES.md"
+      ],
+      "title": ""
+    },
+    "Peter Blau & Otis Dudley Duncan, 1967": {
+      "aliases": [
+        "Peter Blau & Otis Dudley Duncan, 1967",
+        "Peter Blau & Otis Dudley Duncan (1967)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Peter Blau & Otis Dudley Duncan, 1967"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Modernization Theory.md"
       ],
       "title": ""
     },
@@ -207545,6 +207606,21 @@
       "seen_in": [],
       "title": "The Effect of Simulation Technique on Academic Achievement: A Meta-Analysis Study"
     },
+    "Talcott Parsons, 1959": {
+      "aliases": [
+        "Talcott Parsons, 1959",
+        "Talcott Parsons (1959)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Talcott Parsons, 1959"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Modernization Theory.md"
+      ],
+      "title": ""
+    },
     "Tamayo, 1992": {
       "aliases": [
         "Tamayo, 1992",
@@ -209719,6 +209795,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-philosophy/Nominalism.md"
+      ],
+      "title": ""
+    },
+    "Thomas DiPrete & David Grusky, 1990": {
+      "aliases": [
+        "Thomas DiPrete & David Grusky, 1990",
+        "Thomas DiPrete & David Grusky (1990)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Thomas DiPrete & David Grusky, 1990"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Modernization Theory.md"
       ],
       "title": ""
     },
@@ -213741,7 +213832,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md",
+        "wiki/facts/asia/Universal Access to Quality Tertiary Education Act.md"
       ],
       "title": "Unintended Consequences of Free Education in Public Colleges and Universities in the Philippines 1"
     },
@@ -236450,6 +236542,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/uk/Kimberly Ochs.md"
+      ],
+      "title": ""
+    },
+    "特赖曼, 1970": {
+      "aliases": [
+        "特赖曼, 1970",
+        "特赖曼 (1970)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "特赖曼, 1970"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Modernization Theory.md"
       ],
       "title": ""
     },

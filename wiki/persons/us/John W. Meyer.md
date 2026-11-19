@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 45
+person_related_count: 47
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -50,6 +50,7 @@ related_concepts:
 related_theories:
   - "[[World Society Theory]]"
   - "[[Cultural Models]]"
+  - "[[Modernization Theory]]"
   - "[[Institutional Isomorphism]]"
   - "[[Dependency Theory]]"
   - "[[World-Systems Theory]]"
@@ -64,6 +65,7 @@ related_persons:
   - "[[Aaron Benavot]]"
   - "[[Robert Arnove]]"
   - "[[Immanuel Wallerstein]]"
+  - "[[Karl Marx]]"
 related_facts:
   - "[[UNESCO]]"
   - "[[OECD]]"
@@ -77,7 +79,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-11
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -115,7 +117,7 @@ updated: 2026-11-15
 > - **1970–1979 — 经验异常与[[Rationalized Myth|制度神话]]的发现：从国家内部[[Variable|变量]]到组织新制度主义** 这一时期主要回应战后跨国教育普及浪潮中出现的经验异常，即为何无论国家贫富、政体民主或专制，全球各地的学校入学率均出现步调一致的暴增，且组织内部的正式结构与实际技术活动往往严重脱节。
 >   - **代表著作** Meyer (1971) *Economic and Political Effects on National Educational Enrollment Patterns*; Meyer and Rowan (1977) *Institutionalized Organizations: Formal Structure as Myth and Ceremony*; Meyer and Hannan (1979) *National Development and the World-System: Educational, Economic, and Political Change, 1950–1970*. [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–103)]]
 >   - **关键概念／方法** 制度环境（Institutional Environments）、[[New Mythology|理性神话]]（Rationalized Myths）、仪式性脱节（decoupling）。
->   - **阶段转向** [[Falsification|证伪]]了古典现代化理论将教育扩张视作国家内部经济与政治自发需求的假定，论证组织的正式架构主要用于获取外部制度环境的合法性支持，开创了组织社会学的新制度主义[[Paradigm|范式]]。
+>   - **阶段转向** [[Falsification|证伪]]了古典[[Modernization Theory|现代化理论]]将教育扩张视作国家内部经济与政治自发需求的假定，论证组织的正式架构主要用于获取外部制度环境的合法性支持，开创了组织社会学的新制度主义[[Paradigm|范式]]。
 > - **1980–1999 — [[World Society Theory|世界社会理论]]的成熟：全球[[Cultural Models|文化模型]]与民族国家[[Institutional Isomorphism|制度同构]]** 这一阶段将研究视野从中观组织扩展至全球宏观体系，系统解释战后全球主权国家在宪法、公民身份、中小学课程设置与义务教育立法上的高度趋同现象。
 >   - **代表著作** Meyer, Kamens, & Benavot (1992) *School Knowledge for the Masses: World Models and National Primary Curricular Categories in the Twentieth Century*; Meyer, Boli, Thomas, & Ramirez (1997) *World Society and the Nation-State*. [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–104)]]、[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 145)]]
 >   - **关键概念／方法** [[World Society Theory|世界社会理论]]、[[Cultural Models|文化模型]]、制度同构（Isomorphism）、孤岛思想实验（Island Society Experiment）。
@@ -180,7 +182,7 @@ updated: 2026-11-15
 > [!person-network] 关系网络
 > - **学术同道与合作** 布赖恩·罗文（Brian Rowan）、约翰·博利（John Boli）、乔治·托马斯（George M. Thomas）、罗纳德·杰珀森（Ronald L. Jepperson）— 共同创立新制度主义组织理论、[[World Society Theory|世界社会理论]]与能动者文化建构理论。
 > - **学生／继承者** [[Robert Arnove|罗伯特·阿诺夫]]（早期博士生，将体系分析引入比较教育学，兼具世界文化与政治经济学双重视野）、弗朗西斯科·拉米雷斯（Francisco O. Ramirez）、戴维·贝克（David P. Baker）、阿伦·[[Aaron Benavot|贝纳沃特]]（Aaron Benavot）、帕特丽夏·布罗姆利（Patricia Bromley）、戴维·约翰·弗兰克（David John Frank）— 拓展[[Stanford School|斯坦福学派]]在跨国教育、人权与大学组织领域的实证研究。
-> - **批评者／论敌** [[Immanuel Wallerstein|伊曼努尔·沃勒斯坦]]、萨米尔·阿明（Samir Amin）— 马克思主义政治经济学与[[World-Systems Theory|世界体系分析]]现实主义流派代表，批判迈耶将帝国主义霸权与资本积累的不平等依附掩盖在普遍启蒙理性的世界文化共识之中。
+> - **批评者／论敌** [[Immanuel Wallerstein|伊曼努尔·沃勒斯坦]]、萨米尔·阿明（Samir Amin）— [[Karl Marx|马克思]]主义政治经济学与[[World-Systems Theory|世界体系分析]]现实主义流派代表，批判迈耶将帝国主义霸权与资本积累的不平等依附掩盖在普遍启蒙理性的世界文化共识之中。
 
 ---
 

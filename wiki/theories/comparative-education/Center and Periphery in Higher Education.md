@@ -9,7 +9,7 @@ aliases:
 summary: "阿特巴赫开创的高等教育政治社会学与比较教育学理论，揭示全球知识生产与大学体系存在结构性的中心—边缘层级；极少数核心国家的研究型大学垄断着科学前沿范式、资源与学术声誉，主导着全球学术流动与人才深层嵌入。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 16
+theory_related_count: 18
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -35,11 +35,13 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Original Innovation Capability]]"
 related_theories:
+  - "[[Modernization Theory]]"
   - "[[Dependency Theory]]"
   - "[[World-Systems Theory]]"
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Karl Marx]]"
   - "[[Philip Altbach]]"
   - "[[Immanuel Wallerstein]]"
 related_facts: []
@@ -48,16 +50,16 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-04
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 ---
 
 > [!theory-position] 理论定位
 > - **解释对象** 全球高等教育体系中大学之间的等级分层、知识流动不对称性以及顶尖学术人才培养的地理集聚机制。
-> - **理论问题** 回应早期现代化理论将大学视作无国界同质学术共同体的天真假设，揭示全球[[Knowledge Production|知识生产]]与传播的结构性依附格局。
+> - **理论问题** 回应早期[[Modernization Theory|现代化理论]]将大学视作无国界同质学术共同体的天真假设，揭示全球[[Knowledge Production|知识生产]]与传播的结构性依附格局。
 > - **理论类型** 比较高等教育宏观政治经济学与结构解释理论。
-> - **知识位置** 植根于新马克思主义[[Dependency Theory|依附理论]]与[[World-Systems Theory|世界体系理论]]，并与高等教育[[Scientific Mobility|学术流动]]与科学社会学深度融通。
+> - **知识位置** 植根于新[[Karl Marx|马克思]]主义[[Dependency Theory|依附理论]]与[[World-Systems Theory|世界体系理论]]，并与高等教育[[Scientific Mobility|学术流动]]与科学社会学深度融通。
 
 > [!claim] 核心判断
 > 全球高等教育与知识生产体系呈现鲜明的结构性层级，由极少数处于核心地位的顶尖[[Research Universities|研究型大学]]与处于外围依附地位的边缘机构共同构成；学术中心垄断着前沿[[Paradigm|研究范式]]、实验资源与顶尖声誉，顶尖学者的学术流动实质上是在关键发育阶段向学术中心实现深层制度化嵌入（Deep Embeddedness），超越单纯的地理空间位移。[[Argument_Zhang_Zhao_2026_EDR|(张娟和赵祥辉, 2026, p. 33)]]

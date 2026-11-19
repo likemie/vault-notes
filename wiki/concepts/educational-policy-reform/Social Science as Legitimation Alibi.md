@@ -13,10 +13,10 @@ aliases:
 summary: "在教育政策制定与跨国治理中，实证社会科学被政治决策者和技术官僚工具化为推卸行政责任、免受道德反思与公众问责、为既定政治决策提供客观性背书的政治借口机制"
 type: concept
 domain: "educational-policy-reform"
-related_count: 49
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 51
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - topic/educational-policy
   - theme/policy-planning
@@ -51,6 +51,7 @@ related_concepts:
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Structural Functionalism]]"
+  - "[[Modernization Theory]]"
   - "[[Panopticism]]"
 related_methods:
   - "[[Qualitative Research]]"
@@ -64,6 +65,7 @@ related_persons:
   - "[[Calvin Stowe]]"
   - "[[Martin Carnoy]]"
   - "[[Andreas Kazamias]]"
+  - "[[Karl Marx]]"
 related_facts:
   - "[[Common School Movement]]"
   - "[[OECD]]"
@@ -82,7 +84,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-08
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 > [!def] Social Science as Legitimation Alibi
@@ -159,7 +161,7 @@ updated: 2026-11-15
 > **去政治化与道德消解维度** 探讨实证硬数据如何被官僚体制用来平息民主审议、压制价值抗争，并将深层社会结构矛盾技术化。
 
 > [!claim] Mattheou, D.
-> **四大历史[[Champ\|场域]]中的去政治化操作** 战后国家机器在四个典型领域中将实证社会科学作为合法化借口：一是赫伯特·帕恩斯（Herbert Parnes）等经济学家主导的计划体制，以模型为大幅增加税收投入提供技术凭证；二是西奥多·舒尔茨（Theodore Schultz）与威廉·鲍恩（William Bowen）的[[Human Capital Theory\|人力资本理论]]与人才库测算，将教育投资塑造为经济增长发动机；三是哈尔西（A. H. Halsey）等人的阶层流动数据，为推行综合中学打破阶级双轨制提供科学旗帜；四是现代化理论为西方输出技术援助赋予学术祝福，使高度政治化的意识形态偏向转化为中立客观的技术规律。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 68)]]
+> **四大历史[[Champ\|场域]]中的去政治化操作** 战后国家机器在四个典型领域中将实证社会科学作为合法化借口：一是赫伯特·帕恩斯（Herbert Parnes）等经济学家主导的计划体制，以模型为大幅增加税收投入提供技术凭证；二是西奥多·舒尔茨（Theodore Schultz）与威廉·鲍恩（William Bowen）的[[Human Capital Theory\|人力资本理论]]与人才库测算，将教育投资塑造为经济增长发动机；三是哈尔西（A. H. Halsey）等人的阶层流动数据，为推行综合中学打破阶级双轨制提供科学旗帜；四是[[Modernization Theory|现代化理论]]为西方输出技术援助赋予学术祝福，使高度政治化的意识形态偏向转化为中立客观的技术规律。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 68)]]
 
 ---
 
@@ -171,7 +173,7 @@ updated: 2026-11-15
 
 ---
 
-> [!concept-proposition] 命题四｜新马克思主义批判揭示实证主义与人力资本理论充当资本主义阶级再生产的意识形态借口
+> [!concept-proposition] 命题四｜新[[Karl Marx|马克思]]主义批判揭示实证主义与人力资本理论充当资本主义阶级再生产的意识形态借口
 > **激进冲突批判与资本主义再生产解构** 该维度关注 1970–1980 年代批判政治经济学与激进学者如何撕开实证社会科学的“客观中立”面具，揭示其服务于资本主义国家机器与阶级利益的深层本质。
 
 > [!claim] [[Martin Carnoy\|Carnoy, M.]] & Kazamias, A. M.

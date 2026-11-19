@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 30
+fact_related_count: 31
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -57,6 +57,7 @@ related_persons:
   - "[[Carlos Alberto Torres]]"
 related_facts:
   - "[[World Bank]]"
+  - "[[Direct School Admission]]"
   - "[[Inter-American Development Bank]]"
 related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -98,7 +99,7 @@ updated: 2026-11-11
 > - **国际收支危机救助** 针对面临外汇枯竭、货币暴跌或主权债务违约的国家提供分批备用信贷安排（Stand-By Arrangements），按季度审查借款国是否满足宏观财政紧缩指标。
 > - **主权违约黑名单威慑机制（The Blacklist Mechanism）** 任何拖欠或拒绝偿还多边贷款（涵盖 IMF、[[World Bank|世行]]及区域开发银行）的国家，将立即被列入 IMF 的违约黑名单；该黑名单具有极强的排他性金融威慑力，瞬间切断借款国在国际金融市场的发债资格与商业银行信贷，迫使借款国将偿还多边贷款置于国内一切民生支出之上。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 457)]]
 > - **受迫性政策转移与硬性制度规训（Direct Coercive Policy Transfer）** 在跨国[[Policy Borrowing|政策借用]]多维连续谱中，国际货币基金组织是典型的受迫性转移推手（[[Argument_Legrand_2012_PolStud|Legrand, 2012, p. 322]]）：在受援国面临外汇耗尽或债务违约危机申请紧急救援时，IMF 将冻结公共部门编制、削减经常性财政赤字与推行私有化作为强制性附加条件，直接向主权国家政府强加硬性制度变迁。
-> - **债务上限管制与部门借贷约束** 通过债务可持续性分析（DSA）为受援国设定硬性借债上限；一旦借款国负债触顶，IMF 便禁止其进一步向世界银行或区域开发银行申请新教育贷款，从而从宏观源头锁死了教育财政扩张空间。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 475)]]
+> - **债务上限管制与部门借贷约束** 通过债务可持续性分析（[[Direct School Admission|DSA]]）为受援国设定硬性借债上限；一旦借款国负债触顶，IMF 便禁止其进一步向世界银行或区域开发银行申请新教育贷款，从而从宏观源头锁死了教育财政扩张空间。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 475)]]
 
 ---
 

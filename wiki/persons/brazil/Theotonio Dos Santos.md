@@ -10,10 +10,10 @@ cssclasses:
   - person-page
 nationality: brazil
 person_region: "brazil"
-person_related_count: 19
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 21
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1936"
 died: "2018"
 lifespan: "1936–2018"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Epistemology]]"
 related_theories:
   - "[[Dependency Theory]]"
+  - "[[Modernization Theory]]"
   - "[[Conditioned State Theory]]"
   - "[[Post-Imperialism Theory]]"
   - "[[World-Systems Theory]]"
@@ -39,6 +40,7 @@ related_methods:
   - "[[Historical-Comparative Method]]"
 related_instruments: []
 related_persons:
+  - "[[Karl Marx]]"
   - "[[Liliana Esther Olmos]]"
   - "[[Thomas D. Seeley]]"
   - "[[Immanuel Kant]]"
@@ -52,14 +54,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-22
+updated: 2026-11-19
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 巴西著名马克思主义政治经济学家、社会学家，第三世界发展研究与依附学派领军人物；曾任智利大学当代社会经济研究中心主任、米纳斯吉拉斯联邦大学教授、里约热内卢州立大学名誉教授，并长期担任[[UNESCO|联合国教科文组织]]拉丁美洲区域全球化与可持续发展协调员。
-> - **核心角色** [[Dependency Theory|依附理论]]（Dependency Theory）与“新依附论”（New Dependency）的核心开创者；在批判现代化理论与古典帝国主义理论的基础上，系统提出了外围国家在跨国垄断资本控制下的技术-金融依附模型；其结构性分析为拉美教育政治社会学揭示外围资本主义教育扩张悖论与[[Conditioned State Theory|受限国家]]机制奠定了奠基性宏观理论根基。
+> - **身份位置** 巴西著名[[Karl Marx|马克思]]主义政治经济学家、社会学家，第三世界发展研究与依附学派领军人物；曾任智利大学当代社会经济研究中心主任、米纳斯吉拉斯联邦大学教授、里约热内卢州立大学名誉教授，并长期担任[[UNESCO|联合国教科文组织]]拉丁美洲区域全球化与可持续发展协调员。
+> - **核心角色** [[Dependency Theory|依附理论]]（Dependency Theory）与“新依附论”（New Dependency）的核心开创者；在批判[[Modernization Theory|现代化理论]]与古典帝国主义理论的基础上，系统提出了外围国家在跨国垄断资本控制下的技术-金融依附模型；其结构性分析为拉美教育政治社会学揭示外围资本主义教育扩张悖论与[[Conditioned State Theory|受限国家]]机制奠定了奠基性宏观理论根基。
 > - **代表贡献** 提出系统的依附定义与历史分期模型（殖民依附、金融-工业依附、技术-工业新依附）；出版《依附与社会变革》（1970）、《当代资本主义的危机》（1977）与《依附理论：历史与理论总结》（1998）。
 
 > [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论多斯桑托斯与依附理论对解释外围国家困境的核心贡献

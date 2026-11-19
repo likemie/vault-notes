@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 33
+person_related_count: 34
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[People-to-People Connectivity]]"
   - "[[Transnational Education]]"
 related_theories:
+  - "[[Modernization Theory]]"
   - "[[Dependency Theory]]"
 related_methods:
   - "[[Fieldwork]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -122,7 +123,7 @@ updated: 2026-11-15
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 推进国际比较教育跳出单一依赖西方现代化理论与[[Dependency Theory|依附理论]]的传统框架，为审视非西方施援国提供了兼具实证严谨性与批判反思力的[[Discourse Analysis|话语分析]]视角。
+> - **理论路径** 推进国际比较教育跳出单一依赖西方[[Modernization Theory|现代化理论]]与[[Dependency Theory|依附理论]]的传统框架，为审视非西方施援国提供了兼具实证严谨性与批判反思力的[[Discourse Analysis|话语分析]]视角。
 > - **方法路径** 示范了将细致的政策文本逐字[[Discourse|话语]]比对同长期追踪的实地[[Fieldwork|田野调查]]深度结合的[[Paradigm|研究范式]]。
 > - **政策路径** 持续为[[UNESCO|联合国教科文组织]]（UNESCO）、[[International Labour Organization|国际劳工组织]]（ILO）等国际组织提供咨询，深刻启发了发展中国家职业技术教育与[[South-South Cooperation|南南合作]]政策的设计与评估。
 

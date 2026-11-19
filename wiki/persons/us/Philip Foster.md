@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 31
+person_related_count: 33
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -36,12 +36,14 @@ related_concepts:
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Value Neutrality]]"
   - "[[Technical Rationality]]"
+  - "[[Curricular Form]]"
   - "[[Operationalization]]"
-  - "[[Philosophical Aesthetics]]"
   - "[[Professional Interest]]"
   - "[[Working Hypothesis]]"
+  - "[[Philosophical Aesthetics]]"
 related_theories:
   - "[[Structural Functionalism]]"
+  - "[[Modernization Theory]]"
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Questionnaire]]"
@@ -64,7 +66,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-07
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 ---
@@ -152,7 +154,7 @@ updated: 2026-11-14
 > 探讨[[Positivism|实证主义]][[Quantitative Research|量化研究]]如何被卷入冷战时期的国家地缘竞争与国际组织技术援助。
 
 > [!citation-card] 卡扎米亚斯论实证科学作为国家五年计划与技术援助的[[Social Science as Legitimation Alibi|合法化借口]]
-> 卡扎米亚斯在学科史批判反思中指出，以芝加哥学派为代表的第三代际社会科学学者所建构的实证分析模型，其[[Value Neutrality|价值中立]]具有表面性。在战后冷战对抗、去殖民化与现代化理论盛行的背景下，这些声称客观的恒常规律与社会流动测量，深度充当了国家五年计划、[[Human Capital Theory\|人力资本]]投资与第三世界发展援助的[[Social Science as Legitimation Alibi\|合法化借口]]（Legitimation Alibi），将复杂的政治利益与价值博弈包装为中立的[[Technical Rationality|技术理性]]工程。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 145–147, 150–151)]]
+> 卡扎米亚斯在学科史批判反思中指出，以芝加哥学派为代表的第三代际社会科学学者所建构的实证分析模型，其[[Value Neutrality|价值中立]]具有表面性。在战后冷战对抗、去殖民化与[[Modernization Theory|现代化理论]]盛行的背景下，这些声称客观的恒常规律与社会流动测量，深度充当了国家五年计划、[[Human Capital Theory\|人力资本]]投资与第三世界发展援助的[[Social Science as Legitimation Alibi\|合法化借口]]（Legitimation Alibi），将复杂的政治利益与价值博弈包装为中立的[[Technical Rationality|技术理性]]工程。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 145–147, 150–151)]]
 
 ---
 
@@ -160,7 +162,7 @@ updated: 2026-11-14
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |:---|:---|:---|:---|
 > | **社会科学转向命题** | 历史个殊性排斥比较，比较学者应探求重复性通则模式 | 学科方法论范式转型、经验社会科学建构 | Foster (1960); [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] |
-> | **职业学校谬误命题** | 学生课程偏好取决于外部劳动力市场报酬结构而非学校课程形式 | 发展中国家技术与职业教育规划、劳动力预测 | Foster (1965) |
+> | **职业学校谬误命题** | 学生课程偏好取决于外部劳动力市场报酬结构而非学校[[Curricular Form\|课程形式]] | 发展中国家技术与职业教育规划、劳动力预测 | Foster (1965) |
 > | **恒常结构规律命题** | 教育与社会矩阵之间存在超越时空的客观恒常不变关系 | 结构功能分析、跨系统[[Causal Modeling\|因果建模]]与变量控制 | Anderson and Foster (1961) |
 > | **合法化借口批判命题** | 客观中立实证模型充当了冷战技术援助与国家五年计划的政治合法化工具 | 比较认识论反思、发展援助政策批评 | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] |
 

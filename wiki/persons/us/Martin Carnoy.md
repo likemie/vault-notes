@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 32
+person_related_count: 35
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -45,11 +45,14 @@ related_concepts:
 related_theories:
   - "[[Dependency Theory]]"
   - "[[Human Capital Theory]]"
+  - "[[Modernization Theory]]"
+  - "[[Developmental State]]"
 related_methods:
   - "[[Analytic Framework]]"
 related_persons:
   - "[[Joel Samoff]]"
   - "[[Liliana Esther Olmos]]"
+  - "[[Karl Marx]]"
   - "[[Andreas Kazamias]]"
   - "[[Michael W. Apple]]"
   - "[[Stephen Ball]]"
@@ -64,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-28
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -84,7 +87,7 @@ updated: 2026-11-15
 > [!timeline] 生平与职涯
 > - **1938** 出生于美国。早年在加州理工学院获得理学学士学位，后转入芝加哥大学获得经济学硕士与博士学位。早期受托尔斯滕·舒尔茨（Theodore Schultz）等芝加哥学派[[Human Capital Theory|人力资本理论]]训练，但在拉美实地考察后彻底转向批判政治经济学。
 > - **1969–至今** 任教于斯坦福大学教育研究生院，历任副教授、正教授与 Vida Jacks 讲席教授，担任国际比较教育专业核心学术导师。
-> - **1974** 出版里程碑式专著《教育作为文化帝国主义》（*Education as Cultural Imperialism*），将新马克思主义[[Dependency Theory|依附理论]]引入教育学，开启了战后比较教育学的批判转向。
+> - **1974** 出版里程碑式专著《教育作为文化帝国主义》（*Education as Cultural Imperialism*），将新[[Karl Marx|马克思]]主义[[Dependency Theory|依附理论]]引入教育学，开启了战后比较教育学的批判转向。
 > - **1980s** 深入宏观国家理论与民主国家机制研究，出版《国家与政治理论》（*The State and Political Theory*, 1984）与《民主国家中的学校教育与工作》（*Schooling and Work in the Democratic State*, 1985，与亨利·莱文合著）。
 > - **1990** 与[[Joel Samoff|乔尔·萨莫夫]]合著《第三世界的教育与社会转型》（*Education and Social Transition in the Third World*），实证考察中国、古巴、坦桑尼亚、莫桑比克与尼加拉瓜五国在社会转型时期的教育国家关系。
 > - **1992** 发表《教育与国家：从亚当·斯密到苏联解体》（*Education and the state: From Adam Smith to perestroika*），确立了国家理论在教育政策分析中的前置支配地位。
@@ -93,7 +96,7 @@ updated: 2026-11-15
 ---
 
 > [!thought-timeline] 思想发展
-> - **1970s — 文化帝国主义与外围依附批判** 此阶段致力于解构新古典[[Human Capital Theory|人力资本]]论与现代化理论关于“教育促进第三世界起飞”的神话。
+> - **1970s — 文化帝国主义与外围依附批判** 此阶段致力于解构新古典[[Human Capital Theory|人力资本]]论与[[Modernization Theory|现代化理论]]关于“教育促进第三世界起飞”的神话。
 >   - **代表著作** *Education as Cultural Imperialism* (1974)。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 75)]]
 >   - **关键概念／理论** [[Dependency Theory|依附理论]]、文化帝国主义、中心-外围不平等交换。
 >   - **阶段转向** 彻底与传统现代化理论决裂，指出西方宗主国与跨国援助在第三世界推行的正规学校制度，本质上是再生产外围国家在世界资本主义体系中附庸依附地位的制度中介。
@@ -168,7 +171,7 @@ updated: 2026-11-15
 > > - **卡诺伊与批判政治经济学者（Carnoy, 1999; [[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）** 揭露将教师污名化为体制恶棍的意识形态虚伪性，指出剥夺教师尊严与合理报酬必然瓦解公立教育根基。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 347)]]
 
 > [!warning] 适用局限
-> 卡诺伊关于资本积累与国家理论的分析主要建基于西方资本主义民主政体与第三世界后殖民转型政体，对于高度集权且国家深度掌控资本积累过程的非西方威权或发展型国家，其关于“国家合法性危机必定导致大众平权让步”的推导边界仍需结合具体历史制度具体分析。
+> 卡诺伊关于资本积累与国家理论的分析主要建基于西方资本主义民主政体与第三世界后殖民转型政体，对于高度集权且国家深度掌控资本积累过程的非西方威权或[[Developmental State|发展型国家]]，其关于“国家合法性危机必定导致大众平权让步”的推导边界仍需结合具体历史制度具体分析。
 
 ---
 

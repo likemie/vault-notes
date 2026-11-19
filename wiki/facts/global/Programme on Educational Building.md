@@ -12,7 +12,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 15
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -33,9 +33,11 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Personalized Learning]]"
   - "[[Technical Rationality]]"
+  - "[[Alienation]]"
   - "[[Hidden Curriculum]]"
   - "[[Critical Thinking]]"
-related_theories: []
+related_theories:
+  - "[[Modernization Theory]]"
 related_methods:
   - "[[Case Study]]"
 related_instruments: []
@@ -50,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-30
+updated: 2026-11-19
 ---
 
 ---
@@ -124,8 +126,8 @@ updated: 2026-10-30
 > > [!axis] [[Technical Rationality|技术理性]]标准化 vs 社区人文情境适切性之争
 > > 跨国建筑设计指标与本土社会文化环境的适应性冲突。
 > >
-> > - **批判文化社会学立场** 学者批评国际组织输出的现代主义建筑标准过于追求几何规整与工业化材料，容易忽视地方社区的历史文脉与特定地域文化习惯，导致千校一面的空间疏离感。
-> > - **技术功能主义立场** 项目专家辩称，建筑安全、抗震防灾、采光通风与基础能效属于普适性的科学规律，建立统一的跨国测量基线是保障全球儿童基本受教育权与人身安全的技术底线。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 439, 447)]]
+> > - **批判文化社会学立场** 学者批评国际组织输出的现代主义建筑标准过于追求几何规整与工业化材料，容易忽视地方社区的历史文脉与特定地域文化习惯，导致千校一面的空间[[Alienation|疏离]]感。
+> > - **[[Modernization Theory|技术功能主义]]立场** 项目专家辩称，建筑安全、抗震防灾、采光通风与基础能效属于普适性的科学规律，建立统一的跨国测量基线是保障全球儿童基本受教育权与人身安全的技术底线。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 439, 447)]]
 >
 > > [!axis] 财政紧缩成本控制 vs 理想教学空间投入之争
 > > 财政预算约束与教育家对宽敞自由空间愿景之间的现实撕裂。

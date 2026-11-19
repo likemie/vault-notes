@@ -12,7 +12,7 @@ subtype: event
 region: "global"
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 23
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Cosmopolitanism]]"
   - "[[Transnational Education]]"
 related_theories:
+  - "[[Modernization Theory]]"
   - "[[Human Capital Theory]]"
   - "[[Critical Geopolitics]]"
 related_methods: []
@@ -55,13 +56,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
 
 > [!claim] 核心定性
-> 1967 年威廉斯堡世界教育危机国际会议（International Conference on the World Crisis in Education）是战后全球教育治理与跨国[[Policy Brokerage\|政策中介]]演进的奠基性历史事件。会议首次在跨国精英层面确立了教育系统在全世界范围内普遍面临深刻危机的共识，将冷战地缘博弈、现代化理论与系统分析技术高度融合，开创了国际组织依托“全球危机叙事”干预主权国家教育发展议程的历史[[Paradigm\|范式]]。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
+> 1967 年威廉斯堡世界教育危机国际会议（International Conference on the World Crisis in Education）是战后全球教育治理与跨国[[Policy Brokerage\|政策中介]]演进的奠基性历史事件。会议首次在跨国精英层面确立了教育系统在全世界范围内普遍面临深刻危机的共识，将冷战地缘博弈、[[Modernization Theory|现代化理论]]与系统分析技术高度融合，开创了国际组织依托“全球危机叙事”干预主权国家教育发展议程的历史[[Paradigm\|范式]]。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 1967 年 10 月 5 日至 9 日，在美国弗吉尼亚州历史名镇威廉斯堡（Williamsburg, Virginia）举行。

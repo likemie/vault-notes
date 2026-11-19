@@ -7,7 +7,7 @@ aliases:
 summary: "源自微观社会学与社会心理学的核心理论范式，主张行动者基于事物对自身的主观意义采取行动，意义在符号互动与角色扮演中持续涌现、协商与修正，互动本身构成探究的基本分析单位。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 41
+theory_related_count: 42
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -39,6 +39,7 @@ related_theories:
   - "[[Thomas Theorem]]"
   - "[[Behaviorism]]"
   - "[[Structural Functionalism]]"
+  - "[[Modernization Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Ethnography]]"
@@ -67,7 +68,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -103,7 +104,7 @@ updated: 2026-11-11
 > - **1934 — 思想奠基** 米德遗作《心灵、自我与社会》出版，确立主我（I）与客我（Me）辩证结构以及扮演概化他人角色的社会化理论。
 > - **1969 — [[Paradigm|范式]]确立** 布卢默出版经典著作，正式提炼三大核心公设（行动基于意义、意义源于互动、意义在诠释中被修正与处理）。
 > - **1959–1967 — 拟剧论与情境[[Rich and Thick Description|深描]]拓展** 欧文·[[Michael Gove|戈夫]]曼引入前台/后台表演、印象管理与常人互动礼节，将符号互动论推向人际博弈与微观仪式分析。
-> - **1970s — 比较教育学科破除功能主义垄断** 随着战后现代化理论与实证功能主义霸权的解体，符号互动论被比较教育学者广泛引入，作为解释微观课堂生活与政策本土协商的 26 种核心理论/方法立场之一。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 131–132, 136)]]
+> - **1970s — 比较教育学科破除功能主义垄断** 随着战后[[Modernization Theory|现代化理论]]与实证功能主义霸权的解体，符号互动论被比较教育学者广泛引入，作为解释微观课堂生活与政策本土协商的 26 种核心理论/方法立场之一。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 131–132, 136)]]
 > - **1970–1980 至今 — 教育[[Ethnography|民族志]]与学校微观探究全盛** [[Peter Woods|彼得·伍兹]]等学者将符号互动论深度用于英国与[[International Education|国际教育]]探究，开创课堂生活亚文化、师生协商与边缘反抗的微观民族志繁荣。
 
 ---

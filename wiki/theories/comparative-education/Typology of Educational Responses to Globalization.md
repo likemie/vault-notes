@@ -9,7 +9,7 @@ aliases:
 summary: "拉斯特等人提出的全球化教育响应四分批判分析框架，整合主动采纳的接受、草根抗衡的抵制、本土赋权的恢复以及霸权强加的强制再生产四重动力机制，打破自愿对等借用假定并确立解放实践导向。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 41
+theory_related_count: 42
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Competitiveness]]"
 related_theories:
+  - "[[Modernization Theory]]"
   - "[[Dependency Theory]]"
   - "[[World-Systems Theory]]"
   - "[[Convergence Theory in Comparative Education]]"
@@ -69,14 +70,14 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
 
 > [!theory-position] 理论定位
 > - **解释对象** 全球化纵深推进与跨国资本渗透背景下，民族国家、地方社区与被边缘化群体在面对外部政策[[Paradigm|范式]]、发展援助和文化干预时所采取的复杂动力学应对形态。
-> - **理论问题** 传统比较教育学、现代化理论与新制度主义普遍预设[[Transnational Education|跨国教育]]流动是一个[[Technical Rationality|技术理性]]主导的自发趋同或自愿对等借用过程，遮蔽了跨国不平等权力格局中的暴力强加、阶级剥削、文化灭绝与草根抗争。
+> - **理论问题** 传统比较教育学、[[Modernization Theory|现代化理论]]与新制度主义普遍预设[[Transnational Education|跨国教育]]流动是一个[[Technical Rationality|技术理性]]主导的自发趋同或自愿对等借用过程，遮蔽了跨国不平等权力格局中的暴力强加、阶级剥削、文化灭绝与草根抗争。
 > - **理论类型** 结合历史唯物主义、[[Dependency Theory|依附理论]]与[[Critical Pedagogy|批判教育学]]的宏观政治社会学[[Analytic Framework|分析框架]]。
 > - **知识位置** 承继批判教育学（[[Paulo Freire]], [[Henry Giroux]]）的再生产与抵制理论，对话安诺夫（[[Robert Arnove]]）等学者的[[World-Systems Theory|世界体系分析]]与依附论，批判性扬弃主流新自由主义教育现代性叙事。
 

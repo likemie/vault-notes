@@ -8,7 +8,7 @@ aliases:
 summary: "本尼迪克特·安德森在后记中提出的跨国知识传播与理论挪用机制。边缘与外围社会的知识分子出于本土政治斗争与现实思想危机，在未经中心学术霸权授权、不受原产地理论初始解释框定的前提下，主动对外部理论进行引介、转译与创造性重构，打破自西方中心单向扩散的时间等级神话。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Ontology]]"
 related_theories:
   - "[[Imagined Community]]"
+  - "[[Modernization Theory]]"
   - "[[Post-colonial Theory]]"
 related_methods: []
 related_instruments: []
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-14
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -100,7 +101,7 @@ updated: 2026-11-15
 > **边缘自主性与理论传播轨迹重构** 探讨全球知识流动如何由接收端的本土现实政治诉求主导，而非源头的单向辐射。
 
 > [!claim] Anderson, B.
-> **[[Geo-biography|地理传记]]与去中心化翻译轨迹** [[Benedict Anderson|本尼迪克特·安德森]]通过梳理《想象的共同体》全球翻译地理传记指出，该书在前十年跨越了现代化理论预设的自西向东等级扩散模式，直接在土耳其、日本、韩国、葡萄牙、塞尔维亚-克罗地亚等遭遇剧烈社会转型与威权危机的边缘地区率先出版。推动翻译出版的核心力量正是各地具有批判反思意识的独立学者与左翼出版机构。他们把该书作为反抗国家主义霸权的思想武器，这种正向盗版彻底粉碎了西方中心主义知识垄断。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 211–220)]]
+> **[[Geo-biography|地理传记]]与去中心化翻译轨迹** [[Benedict Anderson|本尼迪克特·安德森]]通过梳理《想象的共同体》全球翻译地理传记指出，该书在前十年跨越了[[Modernization Theory|现代化理论]]预设的自西向东等级扩散模式，直接在土耳其、日本、韩国、葡萄牙、塞尔维亚-克罗地亚等遭遇剧烈社会转型与威权危机的边缘地区率先出版。推动翻译出版的核心力量正是各地具有批判反思意识的独立学者与左翼出版机构。他们把该书作为反抗国家主义霸权的思想武器，这种正向盗版彻底粉碎了西方中心主义知识垄断。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 211–220)]]
 
 ---
 

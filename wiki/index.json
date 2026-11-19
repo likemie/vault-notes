@@ -26016,6 +26016,17 @@
     ]
   },
   {
+    "title": "Modernization Theory",
+    "type": "theory",
+    "path": "wiki/theories/sociology-of-education/Modernization Theory.md",
+    "aliases": [
+      "现代化理论",
+      "经典现代化理论",
+      "技术功能主义",
+      "Technical-Functional Theory"
+    ]
+  },
+  {
     "title": "Network Society",
     "type": "theory",
     "path": "wiki/theories/sociology-of-education/Network Society.md",
@@ -39506,6 +39517,35 @@
     "subtype": "policy"
   },
   {
+    "title": "Indonesian Law No. 12 of 2012",
+    "type": "fact",
+    "path": "wiki/facts/asia/Indonesian Law No. 12 of 2012.md",
+    "aliases": [
+      "印尼2012年第12号高等教育法",
+      "印尼高等教育法",
+      "Law 12/2012",
+      "12/2012 Higher Education Act",
+      "Undang-Undang Nomor 12 Tahun 2012 tentang Pendidikan Tinggi",
+      "UU 12/2012",
+      "Indonesian Law 12/2012"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Universal Access to Quality Tertiary Education Act",
+    "type": "fact",
+    "path": "wiki/facts/asia/Universal Access to Quality Tertiary Education Act.md",
+    "aliases": [
+      "优质高等教育普惠法",
+      "菲律宾优质高等教育普惠法",
+      "免费公立高等教育法",
+      "Republic Act No. 10931",
+      "RA 10931",
+      "UAQTEA"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Borobudur Restoration",
     "type": "fact",
     "path": "wiki/facts/asia/Borobudur Restoration.md",
@@ -47206,6 +47246,19 @@
     "subtype": "policy"
   },
   {
+    "title": "Direct School Admission",
+    "type": "fact",
+    "path": "wiki/facts/singapore/Direct School Admission.md",
+    "aliases": [
+      "直接招生计划",
+      "新加坡直接招生计划",
+      "DSA",
+      "Direct School Admission Singapore",
+      "DSA-Sec"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Goh Report",
     "type": "fact",
     "path": "wiki/facts/singapore/Goh Report.md",
@@ -47315,6 +47368,32 @@
       "Global Schoolhouse",
       "东方波士顿",
       "Boston of the East"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Singapore National Education",
+    "type": "fact",
+    "path": "wiki/facts/singapore/Singapore National Education.md",
+    "aliases": [
+      "新加坡国民教育",
+      "新加坡国家教育",
+      "National Education Singapore",
+      "National Education (Singapore)",
+      "NE Singapore"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Singapore University Corporatisation",
+    "type": "fact",
+    "path": "wiki/facts/singapore/Singapore University Corporatisation.md",
+    "aliases": [
+      "新加坡大学公司化",
+      "新加坡公立大学公司化",
+      "University Corporatisation in Singapore",
+      "NUS and NTU Corporatisation",
+      "University Corporatisation Act"
     ],
     "subtype": "policy"
   },

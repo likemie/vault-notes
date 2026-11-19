@@ -3295,12 +3295,15 @@
   "unresolved": {
     "Singapore Ministry of Education": {
       "seen_in": [
+        "wiki/facts/singapore/Direct School Admission.md",
         "wiki/facts/singapore/Goh Report.md",
         "wiki/facts/singapore/Independent Schools Initiative.md",
         "wiki/facts/singapore/Integrated Programme.md",
         "wiki/facts/singapore/Primary Education Review and Implementation.md",
         "wiki/facts/singapore/School Cluster System.md",
         "wiki/facts/singapore/School Excellence Model.md",
+        "wiki/facts/singapore/Singapore National Education.md",
+        "wiki/facts/singapore/Singapore University Corporatisation.md",
         "wiki/facts/singapore/Teach Less, Learn More.md",
         "wiki/facts/singapore/Thinking Schools, Learning Nation.md"
       ]
@@ -3985,6 +3988,11 @@
         "wiki/facts/us/MOSIS.md"
       ]
     },
+    "印度尼西亚人民代表会议": {
+      "seen_in": [
+        "wiki/facts/asia/Indonesian Law No. 12 of 2012.md"
+      ]
+    },
     "原国家教育委员会": {
       "seen_in": [
         "wiki/facts/china/China College Graduate Employment Reform.md"
@@ -4208,6 +4216,11 @@
     "英国议会（Parliament of the United Kingdom）": {
       "seen_in": [
         "wiki/facts/uk/Education Reform Act 1988.md"
+      ]
+    },
+    "菲律宾国会": {
+      "seen_in": [
+        "wiki/facts/asia/Universal Access to Quality Tertiary Education Act.md"
       ]
     },
     "葡萄牙布拉干萨王室": {

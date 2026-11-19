@@ -7,7 +7,7 @@ aliases:
 summary: "反抗启蒙现代性与实证主义决定论的思想思潮；在教育研究中解构宏大元叙事，肯定断裂、差异与本土微观情境，揭示知识的社会建构性与权力纽带，并以变色龙般的亲和性连接诠释范式、复杂性理论与批判理论。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 44
+theory_related_count: 48
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Postpositivism]]"
   - "[[Technical Rationality]]"
   - "[[Enlightenment]]"
+  - "[[Perspectivism]]"
   - "[[Theoretical Standpoint]]"
   - "[[Emergence]]"
   - "[[Heterogeneity]]"
@@ -37,6 +38,7 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Reflexivity]]"
   - "[[International Education]]"
+  - "[[Mimesis]]"
   - "[[Research Question]]"
   - "[[Policy Borrowing]]"
   - "[[Analytical Stance]]"
@@ -45,6 +47,7 @@ related_theories:
   - "[[Post-structuralism]]"
   - "[[Complexity Theory]]"
   - "[[Critical Theory]]"
+  - "[[Modernization Theory]]"
   - "[[Structural Functionalism]]"
   - "[[Pluralism]]"
   - "[[Human Capital Theory]]"
@@ -60,6 +63,7 @@ related_persons:
   - "[[Friedrich Nietzsche]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Stephen Ball]]"
+  - "[[Karl Marx]]"
   - "[[Jürgen Habermas]]"
 related_facts: []
 related_arguments:
@@ -69,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -98,13 +102,13 @@ updated: 2026-11-11
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** [[Jean-François Lyotard|利奥塔]]（Jean-François Lyotard）于 1979 年出版《后现代状况：关于知识的报告》（*The Postmodern Condition: A Report on Knowledge*），首次将后现代界定为“对[[Grand Theory|元叙事]]的怀疑”（incredulity toward metanarratives）；詹姆逊（Fredric Jameson）于 1991 年出版《晚期资本主义的文化逻辑》（*Postmodernism, or, the Cultural Logic of Late Capitalism*），系统提炼后现代的 11 项核心特征。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, pp. 27–28)]]
 > - **原初问题** 面对二战后[[Technical Rationality|技术理性]]狂潮、后工业社会转型以及电子信息技术的爆炸，人类发现[[Enlightenment|启蒙运动]]许诺的“通过客观科学普及必然带来人类道德与政治解放”的宏大叙事彻底破产；教育与学术演化为服务于国家与跨国资本竞争的绩效技术工具。
-> - **理论资源与材料** 吸收了[[Friedrich Nietzsche|尼采]]的视角主义与权力意志哲学、维特根斯坦的“语言游戏”（language games）学说，以及德里达的解构主义和福柯的[[Discourse|话语]]权力谱系学。
+> - **理论资源与材料** 吸收了[[Friedrich Nietzsche|尼采]]的[[Perspectivism|视角主义]]与权力意志哲学、维特根斯坦的“语言游戏”（language games）学说，以及德里达的解构主义和福柯的[[Discourse|话语]]权力谱系学。
 > - **形成路径** 从解构现代科学的自我合法化神话切入，指出任何宏大理论（如[[Georg Wilhelm Friedrich Hegel|黑格尔]]精神辩证法、历史唯物论阶段论、[[Positivism|实证主义]]因果律）都依赖于未经证明的元叙事叙述；揭示科学知识不过是众多异质语言游戏中的一种，倡导走向微观叙事（petit récit）与地方性实践。
 
 > [!dev-timeline] 理论演变历程
 > - **1979 — 元叙事合法性危机确立** 利奥塔发表《后现代状况》，将后现代明确界定为对元叙事的质疑，宣告宏大真理时代的终结。
 > - **1991 — 11 项特征系统化与文化批判** 詹姆逊系统归纳后现代主义 11 项显著特征（无深度、情境性、差异、断裂、权力纽带等），建立跨学科分析坐标系。
-> - **1970s–1990s — 比较教育学科破除西方中心论与现代化正统** 战后比较教育学中由现代化理论与[[Structural Functionalism|结构功能主义]]构建的单向线性发展神话解体；拉斯特等人指出，后现代主义作为 26 种核心[[Theoretical Standpoint|理论立场]]之一，有力促成了对西方中心主义元叙事的解构，为非西方与本土经验的学术合法性确立了基础。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 131–132, 136)]]
+> - **1970s–1990s — 比较教育学科破除西方中心论与现代化正统** 战后比较教育学中由[[Modernization Theory|现代化理论]]与[[Structural Functionalism|结构功能主义]]构建的单向线性发展神话解体；拉斯特等人指出，后现代主义作为 26 种核心[[Theoretical Standpoint|理论立场]]之一，有力促成了对西方中心主义元叙事的解构，为非西方与本土经验的学术合法性确立了基础。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 131–132, 136)]]
 > - **1990s — 教育[[Qualitative Research|质性研究]]的后现代转向** 帕蒂·拉瑟（Patti Lather, 1991）与[[Stephen Ball|斯蒂芬·鲍尔]]（[[Stephen Ball]]）等将后现代思想全面引入课程论、政策社会学与[[Qualitative Interview|质性访谈]]，发起对研究者特权与权威文本的深度解构。
 > - **2010s 至今 — 复杂系统与多元[[Paradigm|范式]]共生前沿** Cohen, Manion and Morrison（2011）系统论述后现代主义与[[Complexity Theory|复杂性理论]]、[[Critical Theory|批判理论]]及[[Interpretive Paradigm|诠释范式]]的变色龙亲和性，奠定[[Pluralism|多元主义]]研究生态。
 
@@ -136,7 +140,7 @@ updated: 2026-11-11
 > 利奥塔（1979）与詹姆逊（1991）指出，任何声称揭示全人类教育普遍铁律或单一发展阶段论的宏大理论（如经典[[Positivism|实证主义]]因果律、机械[[Human Capital Theory|人力资本]]投资模型或正统现代化阶段论）在后现代视域下均告破产。多元世界的[[Heterogeneity|异质性]]无法被装入同一套理论容器。教育研究不再服务于构筑包罗万象的宏大理论大厦，而是转向关注地方性的、情境化的局部知识生产（Local Knowledge），为不同文化与弱势群体赋予发声空间。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, p. 27)]]
 
 > [!example|notitle]
-> 在[[International Education|国际教育]]援助与发展研究中，战后“现代化理论”将西方发达国家学校形态树立为亚非拉国家必须依次模仿演进的普遍终点。后现代主义批判彻底摧毁了这一线性元叙事，推动当代比较教育学者转向深入非洲、拉美原住民社区探究其内生性的知识传承模式，确立了多元现代性与本土教育实践的正当性。
+> 在[[International Education|国际教育]]援助与发展研究中，战后“现代化理论”将西方发达国家学校形态树立为亚非拉国家必须依次[[Mimesis|模仿]]演进的普遍终点。后现代主义批判彻底摧毁了这一线性元叙事，推动当代比较教育学者转向深入非洲、拉美原住民社区探究其内生性的知识传承模式，确立了多元现代性与本土教育实践的正当性。
 
 > [!theory-proposition] 命题二｜地方微观情境与时间性构成教育意义的不可还原边界，去情境化的通则测量必然失效
 > 詹姆逊（1991）与科恩等人（2011）指出，教学与学习的真实意涵永远根植于即时的时间、微观物理空间与师生交往的特定历史文化脉络中。任何试图将教学事件剥离出具体生活世界、抽象为标准化量化[[Variable|变量]]的举措，不仅无法解释教育事实，反而会人为斩断事件的历史连续性与主体间意义，导致对经验复杂性的粗暴抹杀。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, pp. 20, 28)]]
@@ -184,7 +188,7 @@ updated: 2026-11-11
 > > 争论后现代解构究竟是促进了教育公平与民主，还是导致了[[Analytical Stance|批判立场]]的彻底瘫痪。
 > >
 > > - **后现代倡导阵营（Lather, 1991; Jameson, 1991）** 主张消解普适真理能打破统治阶级的[[Discourse|话语]]霸权，让受压迫者的边缘声音重获学术合法性。
-> > - **[[Critical Theory|批判理论]]与马克思主义学者（Habermas, 1987; Apple, 1996）** 批评彻底的相对主义抹杀了真理与谎言、进步与倒退的客观界限；若一切都是相对的，则反抗教育不公的政治集体行动将丧失规范性道德基底。
+> > - **[[Critical Theory|批判理论]]与[[Karl Marx|马克思]]主义学者（Habermas, 1987; Apple, 1996）** 批评彻底的相对主义抹杀了真理与谎言、进步与倒退的客观界限；若一切都是相对的，则反抗教育不公的政治集体行动将丧失规范性道德基底。
 >
 > > [!axis] 后现代相对主义 vs [[Jürgen Habermas|哈贝马斯]]现代性未竟工程
 > > 争论启蒙理性项目应当被彻底埋葬，还是通过交往理性予以修复和完成。

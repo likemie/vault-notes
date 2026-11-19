@@ -46,6 +46,7 @@ related_concepts:
   - "[[School Vouchers]]"
   - "[[Post-Fordism]]"
   - "[[Cognitive Deskilling]]"
+  - "[[Curricular Form]]"
   - "[[Pedagogical Subject]]"
   - "[[Selective Affinity]]"
   - "[[Development Education]]"
@@ -57,6 +58,7 @@ related_concepts:
   - "[[Conscientization]]"
   - "[[Bureaucracy]]"
   - "[[Creativity]]"
+  - "[[Typicality]]"
 related_theories:
   - "[[World Society Theory]]"
   - "[[Conditioned State Theory]]"
@@ -69,7 +71,9 @@ related_theories:
   - "[[Path Dependence]]"
   - "[[Liberal-Pluralist Theory of the State]]"
   - "[[Dependency Theory]]"
+  - "[[Modernization Theory]]"
   - "[[Post-Imperialism Theory]]"
+  - "[[Developmental State]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Historical-Comparative Method]]"
@@ -78,6 +82,7 @@ related_methods:
   - "[[Case Study]]"
 related_instruments: []
 related_persons:
+  - "[[Karl Marx]]"
   - "[[Paulo Freire]]"
   - "[[Martin Carnoy]]"
   - "[[Michael W. Apple]]"
@@ -96,6 +101,7 @@ related_persons:
   - "[[Larissa Adler Lomnitz]]"
   - "[[Robert Arnove]]"
   - "[[Atilio Borón]]"
+  - "[[Jean-Paul Sartre]]"
 related_facts:
   - "[[World Bank]]"
   - "[[OECD]]"
@@ -112,14 +118,14 @@ sources:
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-28
-updated: 2026-11-15
+updated: 2026-11-19
 subtype: book-chapter
 publication_type: book-chapter
 title: "Argument_Olmos_Torres_2009_StateTheories"
 argument_key: "Argument_Olmos_Torres_2009_StateTheories"
 argument_display_title: "Theories of the state, educational expansion, development, and globalizations: Marxian and critical approaches"
 argument_kind: "book-chapter"
-argument_related_count: 80
+argument_related_count: 86
 argument_related_level: 8
 argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -135,7 +141,7 @@ issuing_organization: ""
 > 20 世纪下半叶波及全球的教育扩张为何无法通过功能主义或世界体系/[[World Society Theory|世界文化理论]]的同质化大爆炸假说得到合理解释？在跨国资本积累、全球化规训与本土阶级矛盾交织的背景下，民族国家的制度性质如何塑造公共教育政策？为何拉丁美洲等第三世界国家在经历了 1960 年代创纪录的教育扩张后，非但未能实现实质政治民主化与社会公平，反而在新自由主义结构调整中陷入公共教育退化、阶级双轨固化与公民身份商品化的多重危机？（pp. 73–76）
 
 > [!claim] 核心主张
-> 教育绝非政治中立的技术技能分配体系，而是深刻嵌入资本主义国家资本积累与社会合法化双重矛盾职能的争鸣[[Champ|场域]]；外围资本主义国家受制于全球资本积累的边缘地位与本土后封建政治结构，演化出排他性的[[Conditioned State Theory|受限国家]]与[[State Corporatism|国家法团主义]]体制，并借助双轨教育系统和[[Compensatory Legitimation|补偿性合法化]]维系阶级霸权；在新自由主义全球化下，以[[World Bank|世界银行]]（World Bank, WB）为核心的[[Financial-Intellectual Complex|金融-智识复合体]]通过结构性调整强推[[Educational Privatisation|教育私有化]]、分权化与使用者付费，实质上是以市场逻辑剥夺大众政治主体地位的阶级策略，唯有重构马克思主义[[Praxis|实践哲学]]与广泛的批判联盟方能开辟民主解放路径。（pp. 73–85）
+> 教育绝非政治中立的技术技能分配体系，而是深刻嵌入资本主义国家资本积累与社会合法化双重矛盾职能的争鸣[[Champ|场域]]；外围资本主义国家受制于全球资本积累的边缘地位与本土后封建政治结构，演化出排他性的[[Conditioned State Theory|受限国家]]与[[State Corporatism|国家法团主义]]体制，并借助双轨教育系统和[[Compensatory Legitimation|补偿性合法化]]维系阶级霸权；在新自由主义全球化下，以[[World Bank|世界银行]]（World Bank, WB）为核心的[[Financial-Intellectual Complex|金融-智识复合体]]通过结构性调整强推[[Educational Privatisation|教育私有化]]、分权化与使用者付费，实质上是以市场逻辑剥夺大众政治主体地位的阶级策略，唯有重构[[Karl Marx|马克思]]主义[[Praxis|实践哲学]]与广泛的批判联盟方能开辟民主解放路径。（pp. 73–85）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 现代国家理论与教育扩张的互动关系，以 20 世纪战后拉丁美洲（重点考证墨西哥、阿根廷、哥斯达黎加与智利）的教育发展史、工业化转型与新自由主义结构调整为核心经验案例。（pp. 73–74, 81–84）
@@ -267,7 +273,7 @@ issuing_organization: ""
 > - **行政管理与财政甩包袱（分权化改革）**
 >   中央政府以权力下放、自主管理为借口，将学校筹资和运营负担转移给财力孱弱的地方政府和贫困社区，导致区域校际鸿沟进一步拉大。
 
-学校组织模式的根本转变，根源于资本主义生产方式从福特制向[[Post-Fordism|后福特制]]的范式转型。正如[[Michael W. Apple|迈克尔·W·阿普尔]]（Michael W. Apple, 1982）所指出的，劳动过程从福特制向后福特制的转变，深刻重塑了劳动力的技能化与[[Cognitive Deskilling|去技能化]]进程，并将技术控制逻辑强力植入学校课程形态之中。
+学校组织模式的根本转变，根源于资本主义生产方式从福特制向[[Post-Fordism|后福特制]]的范式转型。正如[[Michael W. Apple|迈克尔·W·阿普尔]]（Michael W. Apple, 1982）所指出的，劳动过程从福特制向后福特制的转变，深刻重塑了劳动力的技能化与[[Cognitive Deskilling|去技能化]]进程，并将技术控制逻辑强力植入学校[[Curricular Form|课程形态]]之中。
 
 与此相伴随的是外围国家对公共教育的制度性撤资。托雷斯与[[Adriana Puiggrós|阿德里亚娜·普伊格罗斯]]（Torres & Puiggrós, 1995）深刻揭示，国家削减公立教育开支并转嫁成本，其直接后果是彻底摧毁了公立学校将底层大众塑造为具备民主权利与反思能力的“[[Pedagogical Subject|教育主体]]”（Pedagogical Subjects）的宪法功能，将公民降格为孤立自负的劳动力商品。（p. 79）
 
@@ -330,7 +336,7 @@ issuing_organization: ""
 > [!quad-grid] 解释外围国家困境的四大发展学派谱系（pp. 82–83）
 > - **[[Dependency Theory|依附理论]]学派**
 >   以[[Theotonio Dos Santos|特奥托尼奥·多斯桑托斯]]（Theotonio Dos Santos）为代表，指出外围国家的落后是世界资本主义体系不平等交换与剥削造成的，缺乏自主资本积累能力。
-> - **现代化理论学派**
+> - **[[Modernization Theory|现代化理论]]学派**
 >   主张落后根源在于第三世界国家自身缺乏现代价值观念、存在传统文化阻碍以及制度效率低下。
 > - **[[Post-Imperialism Theory|后帝国主义理论]]**
 >   强调跨国大资产阶级如何与发展中国家本土权贵结盟，共同分肥并压制工农阶级。
@@ -412,7 +418,7 @@ issuing_organization: ""
 >
 > *The theory of the "conditioned states" in the Third World, expanding upon and clarifying the notion of the dependent state, argues that the state is conditioned "by the nature of the peripheral role that its economy plays in the world system and the significant (postfeudal) elements in its own political system". Therefore, Latin American "conditioned states" have not been able to carry out their public functions properly for a number of reasons. On the one hand, the fragility of local economies made local dominant groups unwilling to allow the pluralist participation of the masses in the selection of the state [[Bureaucracy]]. On the other hand, since the state historically has been identified by the popular sectors more as a pact of domination by the dominant classes, or a surrogate state, it has not been seen as an independent state working on behalf of the citizenry.*
 
-> [!citation-card] 葛兰西与萨特视阈下[[Praxis|实践哲学]]的重构
+> [!citation-card] 葛兰西与[[Jean-Paul Sartre|萨特]]视阈下[[Praxis|实践哲学]]的重构
 > 重构作为方法与认识之道的辩证法，将马克思主义“冰冷”的一面（科学）与其“炽热”的一面（乌托邦）、知识与实践紧密结合，唯有如此，对现实的[[Creativity|创造性]]与革命性阐释才能得以展开，使马克思主义一如葛兰西所言，真正成为一门“实践哲学”。（p. 85）
 >
 > *Constructing partial synthesis and successive approximations, reconstructing the dialectic as a method and way of knowing, and associating the "cold" side of Marxism (science) with its "hot" phase (utopia), knowledge and [[Praxis]], will be how the creation and revolutionary interpretation of reality develops, so that Marxism continues to be as Gramsci Said, a "Philosophy of Praxis."*
@@ -422,7 +428,7 @@ issuing_organization: ""
 > [!warning] 原文自述理论局限与经验边界
 > - **微观教学过程经验研究匮乏** 作者明确承认，关于国家国际化与全球化对微观层面的具体教育政策、教科书内容以及实际课堂课程编制的深层渗透，学界迄今仍极度缺乏系统的经验与理论实证研究。（p. 80）
 > - **跨国战略对话缺位削弱政治效能** 马克思主义作为批判传统与[[Praxis|实践哲学]]，当前正受到政治联合项目缺乏战略性对话的负面制约，难以有效整合各方抵抗力量，必须在行动策略上进一步克服碎片化。（p. 77）
-> - **案例区域特殊性限制** 尽管关于国家理论、资本积累与教育扩张的核心论断适用于广泛的发展中国家，但本章主要基于拉丁美洲社会（特别是墨西哥等具备典型[[Neocorporatism|法团主义]]传统的国别经验）进行历史推演，对其他非西方外围区域（如非洲部落社会或东亚发展型国家）的适用性仍需因地制宜展开具体历史情境检验。（pp. 74, 83–84）
+> - **案例区域[[Typicality|特殊性]]限制** 尽管关于国家理论、资本积累与教育扩张的核心论断适用于广泛的发展中国家，但本章主要基于拉丁美洲社会（特别是墨西哥等具备典型[[Neocorporatism|法团主义]]传统的国别经验）进行历史推演，对其他非西方外围区域（如非洲部落社会或东亚[[Developmental State|发展型国家]]）的适用性仍需因地制宜展开具体历史情境检验。（pp. 74, 83–84）
 
 ---
 

@@ -8,7 +8,7 @@ aliases:
 summary: "解释国家经济现代化演进与教育成就之间非线性关系的理论假说，由加布里埃尔·赫勒·萨尔格伦等学者系统阐发；主张人均财富增长对全社会求学动力与学业表现呈现倒U型曲线，后发追赶阶段带来强大勤勉动力，而在跨越富裕门槛后闲暇偏好与去权威化则内生性抑制学业产出。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 16
+theory_related_count: 17
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Cultural Capital]]"
 related_theories:
+  - "[[Modernization Theory]]"
   - "[[Human Capital Theory]]"
 related_methods: []
 related_instruments: []
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-07
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -53,7 +54,7 @@ updated: 2026-11-11
 > - **解释对象** 国家宏观经济追赶、人均收入增长及福利国家建设与基础教育[[Academic Achievement|学业成就]]之间的长周期动态变迁机制。
 > - **理论问题** 回应国际比较教育长期存在的经验谜题：为何后发经济体在现代化早期能够实现学业成绩飞跃，而步入高度发达的后工业福利社会后，尽管教育投入持续增加，学业表现却普遍遭遇停滞与系统性滑坡。
 > - **理论类型** 结合教育经济学生产函数与制度社会学的长周期宏观解释理论。
-> - **知识位置** 植根于现代化理论（Modernization Theory）与新制度经济学中的文化演化规范模型，是对单纯预设“经济投入单调正向促进学业产出”的传统[[Human Capital Theory|人力资本理论]]的重要修正。
+> - **知识位置** 植根于[[Modernization Theory|现代化理论]]（Modernization Theory）与新制度经济学中的文化演化规范模型，是对单纯预设“经济投入单调正向促进学业产出”的传统[[Human Capital Theory|人力资本理论]]的重要修正。
 
 > [!claim] 核心判断
 > 国家经济增长对[[Education for All|全民教育]]重视程度与学生学业成就的影响呈现先上升后下降的倒 U 型曲线（hump-shaped curve）；在由落后农业国向工业化追赶的后发阶段，收入增长释放了强烈的阶层流动渴望，社会维持着极高的求学勤勉度与权威服从意愿；当国家跨越富裕门槛、建成高水平福利保障体系后，边际财富增量对努力的边际激励显著递减，家庭闲暇偏好替代了刻苦求学规范，学校权威与严格教学纪律随之瓦解，从而产生内生性的学业成就下滑。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 31–36, 53–54)]]

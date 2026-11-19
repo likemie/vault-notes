@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: france
 person_region: "france"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Critical Thinking Disposition]]"
 related_theories:
   - "[[Human Capital Theory]]"
+  - "[[Modernization Theory]]"
 related_methods: []
 related_instruments: []
 related_persons:
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -80,7 +81,7 @@ updated: 2026-11-11
 
 > [!work-line] 代表性学术著作
 > - **1981 — *L'Éducation comparée*（《比较教育》）** 战后法语学界关于比较教育学科性质、历史源流与方法模型的最高成就。全书打破了将各学科彼此割裂的藩篱，系统建构了由“历时性文化演更”与“共时性社会经济结构”交叉编织的多维比较分析模型。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 90)]]
-> - **1991 — *L'Éducation: cultures et sociétés*（《教育：文化与社会》）** 深入探讨世界各大古代文明（中华文明、印度文明、伊斯兰文明与西方文明）教育理念的[[Ontology|本体论]]差异，批判西方现代化理论将工业化指标等同于教育进步的单向度线性谬误。
+> - **1991 — *L'Éducation: cultures et sociétés*（《教育：文化与社会》）** 深入探讨世界各大古代文明（中华文明、印度文明、伊斯兰文明与西方文明）教育理念的[[Ontology|本体论]]差异，批判西方[[Modernization Theory|现代化理论]]将工业化指标等同于教育进步的单向度线性谬误。
 
 ---
 

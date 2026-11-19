@@ -7,7 +7,7 @@ aliases:
 summary: "一种将课程与教学视为文化政治斗争场域的批判教育哲学，主张以学生的活经验为起点，通过对话式提问、批判意识觉醒与可能性的语言，解构传统储蓄式教育与当代数智异化中的权力压迫，旨在培育具有自主性与社会解放潜能的批判求知者。"
 type: concept
 domain: "educational-philosophy"
-related_count: 61
+related_count: 62
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -62,6 +62,7 @@ related_theories:
   - "[[Critical Theory]]"
   - "[[Post-colonial Theory]]"
   - "[[Formative Epistemic Injustice]]"
+  - "[[Modernization Theory]]"
 related_methods:
   - "[[Discourse Analysis]]"
 related_instruments: []
@@ -88,7 +89,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-17
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -236,7 +237,7 @@ updated: 2026-11-15
 >
 > > [!axis] 资本主义现代性普遍进步论 vs 跨国结构再生产与解放实践论
 > > 战后西方工业现代性是否代表了全球教育发展的普世标杆？
-> > - **现代化理论与技术官僚借用论** 认为资本主义现代性与市场竞争能驱动生产力腾飞，发展中国家应当通过吸引外部跨国资本和技术援助缩小教育差距。
+> > - **[[Modernization Theory|现代化理论]]与技术官僚借用论** 认为资本主义现代性与市场竞争能驱动生产力腾飞，发展中国家应当通过吸引外部跨国资本和技术援助缩小教育差距。
 > > - **批判教育学与再生产批判论（Shor & Freire, 1987; [[Argument_Rust_2009_Reflections|Rust et al., 2009]]）** 强调教育本质上是高度政治化的事业，将西方现代性等同于教育实质上掩盖了跨国资本对边缘国家的结构再生产与依附控制；比较教育学必须转向促进主权自决与社会正义的解放实践。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 134–135)]]
 
 > [!warning] 适用局限与实施边界

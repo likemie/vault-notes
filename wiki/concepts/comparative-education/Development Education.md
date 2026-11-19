@@ -9,7 +9,7 @@ aliases:
 summary: "聚焦全球南方国家教育现代化、体制重塑与国际援助合作的专门学术研究与政策实务领域。二战后因去殖民化与冷战地缘博弈而兴起，长期与侧重理论建构的主流比较教育学保持建制分流；后伴随多边开发银行的主权借贷与结构调整，从学术系所分立转向以项目评估、信贷约束与政策咨询为主轴的实务运作，但面临设计端理念前沿与执行端官僚失能、资金拨付考核与实质学习成效脱节的深层制度张力。"
 type: concept
 domain: "comparative-education"
-related_count: 68
+related_count: 69
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -59,6 +59,7 @@ related_theories:
   - "[[Critical Theory]]"
   - "[[Path Dependence]]"
   - "[[Human Capital Theory]]"
+  - "[[Modernization Theory]]"
   - "[[Dependency Theory]]"
   - "[[Historical Institutionalism]]"
   - "[[World-Systems Theory]]"
@@ -98,7 +99,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -198,7 +199,7 @@ updated: 2026-11-15
 ---
 
 > [!dev-timeline] 发展教育的[[Paradigm|范式]]与建制演进
-> - **1950s–1960s — 现代化范式与冷战外援发轫** 二战后伴随殖民体系瓦解，新独立国家建立现代学校体系的需求上升；在冷战格局与现代化理论驱动下，西方国家与联合国教科文组织开启对外教育技术援助，奠定以学校基础设施建设、识字率普及与工业技术工人培养为核心的发展教育早期范式。
+> - **1950s–1960s — 现代化范式与冷战外援发轫** 二战后伴随殖民体系瓦解，新独立国家建立现代学校体系的需求上升；在冷战格局与[[Modernization Theory|现代化理论]]驱动下，西方国家与联合国教科文组织开启对外教育技术援助，奠定以学校基础设施建设、识字率普及与工业技术工人培养为核心的发展教育早期范式。
 > - **1970s–1980s — [[Dependency Theory|依附论]]批判与建制深度隔离** 依附理论学者揭示对外教育援助对全球边缘国家的结构性影响；在大学建制中，伦敦大学教育学院设立独立的发展中教育系，与传统比较教育学系长期分立；世界银行单方面终止与教科文组织的合作协定，以人力资本回报率测算主导发展教育的实务定义权。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–542)]]
 > - **1990s — [[Washington Consensus|华盛顿共识]]、结构调整与《[[Education for All|全民教育]]》** 1990 年泰国宗迪恩《世界全民教育大会》（EFA）确立全球基础教育普及目标，由世界银行深度主导；伴随结构调整计划推行，发展教育实务深入卷入财政紧缩与教育用户自费收费争议。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 466)]]
 > - **2000s–2010s — 买方市场转型、指标规训与[[Learning Crisis|学习危机]]反思** 面对拉美等中等收入国转向私人资本市场融资的趋势，多边银行推行基于成果的贷款等新型金融工具；国际学界深刻反思发展教育重硬件资金投入而轻实质认知学习成效的倾向，推动全球议程向[[UN Sustainable Development Goals|联合国可持续发展目标]]（SDG 4）下的学习危机治理转型。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 470–476)]]

@@ -10,7 +10,7 @@ aliases:
 summary: "衡量个体或群体接受正规学校教育的时长与最高学历层级的社会学与人口学范畴。在微观层面是认知成熟与认识论信念演化的解释变量，在宏观政治经济学层面是国家财政分配、阶级再生产与双轨分流的制度化阶梯；在拔尖人才培养中体现为长周期渐进积累规律与研究生阶段受教育年限的刚性延长。"
 type: concept
 domain: "sociology-of-education"
-related_count: 37
+related_count: 39
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -43,6 +43,7 @@ related_concepts:
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Conditioned State Theory]]"
+  - "[[Modernization Theory]]"
 related_methods:
   - "[[Quantitative Research]]"
   - "[[Comparative Policy Analysis]]"
@@ -55,6 +56,7 @@ related_persons:
   - "[[Liliana Esther Olmos]]"
   - "[[Carlos Alberto Torres]]"
   - "[[Stephen Ball]]"
+  - "[[Karl Marx]]"
 related_facts:
   - "[[World Bank]]"
   - "[[UNESCO]]"
@@ -66,7 +68,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-15
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -166,7 +168,7 @@ updated: 2026-11-15
 ---
 
 > [!dev-timeline] 概念演变
-> - **20世纪中叶 — 现代化理论与人力资本阶梯确立** 舒尔茨与贝克尔将受教育水平抽象为人力资本积累的连续度量指标，假定教育层级提升自动带来生产率提升与普遍经济繁荣。
+> - **20世纪中叶 — [[Modernization Theory|现代化理论]]与人力资本阶梯确立** 舒尔茨与贝克尔将受教育水平抽象为人力资本积累的连续度量指标，假定教育层级提升自动带来生产率提升与普遍经济繁荣。
 > - **1960s–1970s — 第三世界倒金字塔式层级扩张暴露** [[UNESCO|联合国教科文组织]]（UNESCO, 1974）与拉美经委会普查发现，发展中国家中高等受教育水平超速扩张与全民基础识字停滞形成尖锐对照，暴露出受教育层级背后深层的阶级区隔。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 81–82)]]
 > - **1980s–1990s — 新自由主义层级自费化与阶级策略成型** 斯蒂芬·鲍尔（1993）与拉美批判学者揭示，[[School Vouchers|教育券]]与自负盈亏改革加剧了高阶受教育水平的阶级垄断，将各层级学校系统推向商业市场化。
 > - **2000s–2010s — 认知发展与认识论信念精细化实证** 格林等学者（2010）借助潜类别与多项回归模型，精确度量了受教育年限从初中到研究生阶段对认识论信念进阶的差[[Alienation|异化]]促进效应。[[Argument_Greene_2010_JEP|(Greene et al., 2010)]]
@@ -177,7 +179,7 @@ updated: 2026-11-15
 > [!debates|notitle] 学术争议
 >
 > > [!axis] [[Credential Inflation|文凭通胀]]与虚假繁荣 vs 真实生产力技能提升
-> > 人力资本学者主张受教育水平提升代表劳动者技能存量增长；而文凭主义学派（Collins）与马克思主义政治经济学断言，教育层级膨胀往往只是文凭通胀的虚假表象，国家增发高阶文凭主要是为了推迟青年失业危机与购买政治合法性。
+> > 人力资本学者主张受教育水平提升代表劳动者技能存量增长；而文凭主义学派（Collins）与[[Karl Marx|马克思]]主义政治经济学断言，教育层级膨胀往往只是文凭通胀的虚假表象，国家增发高阶文凭主要是为了推迟青年失业危机与购买政治合法性。
 >
 > > [!axis] 初等教育优先普及 vs 高等教育精英驱动的发展战略之争
 > > [[World Bank|世界银行]]在 1980 年代根据收益率计算主张将公共预算主要投向初等教育水平；而受限国家内部统治精英与依附性资产阶级则强烈要求维持对中高等教育层级的大额财政补贴，以巩固特权阶层再生产通道。

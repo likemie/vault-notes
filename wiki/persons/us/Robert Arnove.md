@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 55
+person_related_count: 56
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -56,6 +56,7 @@ related_theories:
   - "[[Pluri-Scalar Governance]]"
   - "[[Hegemony]]"
   - "[[Structural Functionalism]]"
+  - "[[Modernization Theory]]"
   - "[[Globalization from Below]]"
   - "[[Dependency Theory]]"
   - "[[Conditioned State Theory]]"
@@ -89,7 +90,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-28
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -124,7 +125,7 @@ updated: 2026-11-15
 > - **1970–1980 年代 — [[Hegemony|文化霸权]]批判与[[World-Systems Theory|世界体系分析]]的引入** 聚焦跨国非政府基金会与国际金融援助的政治经济学机制，率先在比较教育学界确立中心-半边缘-边缘的世界体系[[Analytic Framework|分析框架]]。
 >   - **代表著作** *Comparative Education and World-Systems Analysis* (1980); *Philanthropy and Cultural Imperialism: The Foundations at Home and Abroad* (1980); *Education and Revolution in Nicaragua* (1986). [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101, 105–106)]]
 >   - **关键概念／方法** 世界体系分析、文化帝国主义、文化霸权、[[Popular Education|民众教育]]、历史-比较方法。
->   - **阶段转向** 彻底决裂于[[Structural Functionalism|结构功能主义]]与古典现代化理论，将[[International Education|国际教育]]关系置于跨国劳动分工与不平等交换的现实框架中考察。
+>   - **阶段转向** 彻底决裂于[[Structural Functionalism|结构功能主义]]与古典[[Modernization Theory|现代化理论]]，将[[International Education|国际教育]]关系置于跨国劳动分工与不平等交换的现实框架中考察。
 > - **1990 年代至今 — [[Dialectic of the Global and the Local|全球与本土的辩证法]]、[[Pluri-Scalar Governance|多标度治理]]与[[Globalization from Below|自下而上的全球化]]** 应对技术[[Time-Space Compression|时空压缩]]与新自由主义全球扩张，构建贯通宏观体系与微观课堂的辩证分析框架，揭示多标度治理与[[Shadow State|影子国家]]异化，探索跨国草根反抗路径。
 >   - **代表著作** *Comparative Education: The Dialectic of the Global and the Local* (1999/2007/2013); *Civil Society or Shadow State? State/NGO Relations in Education* (2004); *World-systems Analysis and Comparative Education in the Age of Globalization* (2009). [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 106–114)]]
 >   - **关键概念／方法** [[Dialectic of the Global and the Local|全球与本土的辩证法]]、双重视野（Double Vision）、[[Pluri-Scalar Governance|多标度治理]]、[[Shadow State|影子国家]]、[[Globalization from Below|自下而上的全球化]]、改革双轴分析矩阵。

@@ -9,7 +9,7 @@ aliases:
 summary: "弗朗西斯·福山提出的政治哲学与国际政治理论，主张冷战结束标志着人类意识形态演进的终点与自由民主制作为人类政府最终形式的普世确立；后遭遇文明冲突论、威权韧性及技术共和国视角下胜者谬误与硬实力懈怠的深刻批判。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 23
+theory_related_count: 26
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -26,6 +26,7 @@ tags:
   - paradigm/liberalism
 related_concepts:
   - "[[Grand Theory]]"
+  - "[[Post-histoire]]"
   - "[[Technological Republic]]"
   - "[[Winner's Fallacy]]"
   - "[[Hard Power]]"
@@ -35,7 +36,9 @@ related_concepts:
   - "[[Perpetual Peace]]"
   - "[[Unit of Analysis]]"
   - "[[Heterogeneity]]"
+  - "[[Alienation]]"
 related_theories:
+  - "[[Modernization Theory]]"
   - "[[Clash of Civilizations]]"
   - "[[Transitology]]"
   - "[[Strategic Bargaining Theory]]"
@@ -57,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -65,11 +68,11 @@ updated: 2026-11-15
 > [!theory-position] 理论坐标
 > - **解释对象** 人类政治制度演进方向、后冷战大国地缘均势变迁，以及意识形态终极形态的合法性基础。
 > - **理论问题** 自由民主制度在战胜法西斯主义与苏联共产主义之后，是否构成了人类社会意识形态演进的不可逆终点。
-> - **理论类型** 目的论政治哲学、[[Georg Wilhelm Friedrich Hegel|黑格尔]]主义现代化理论、自由主义[[Grand Theory|宏大叙事]]（[[Grand Theory]]）。
+> - **理论类型** 目的论政治哲学、[[Georg Wilhelm Friedrich Hegel|黑格尔]]主义[[Modernization Theory|现代化理论]]、自由主义[[Grand Theory|宏大叙事]]（[[Grand Theory]]）。
 > - **知识位置** 介于黑格尔-科耶夫历史哲学、冷战胜利主义政治学与后冷战国际关系自由主义阵营之间。
 
 > [!claim] 核心总体主张
-> 冷战的结束不仅标志着特定战后历史时期的落幕，更标志着人类意识形态演进的终点（The End of History as such）；作为一种政治与经济体制，自由民主制（Liberal Democracy）已无可争议地成为人类政府的“最终形式”（Final Form of Human Government）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Fukuyama, 1989, 1992; Karp & Zamiska, 2025, pp. 31–32)]]
+> 冷战的结束不仅标志着特定战[[Post-histoire|后历史]]时期的落幕，更标志着人类意识形态演进的终点（The End of History as such）；作为一种政治与经济体制，自由民主制（Liberal Democracy）已无可争议地成为人类政府的“最终形式”（Final Form of Human Government）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Fukuyama, 1989, 1992; Karp & Zamiska, 2025, pp. 31–32)]]
 
 ---
 
@@ -125,7 +128,7 @@ updated: 2026-11-15
 > |:---|:---|:---|:---|
 > | **意识形态终极性** | **历史终结假设** 决策者是否预设西方体制具有绝对道德吸引力与历史必然性？ | 官方国家安全报告中的道义修辞、国际民主推广项目的政策文件 | 若政策忽视地缘对手[[Heterogeneity\|异质性]]动机而盲目推行制度移植，易诱发严重的地缘战略误判。 |
 > | **实力地位与议价基础** | **[[Hard Power\|硬实力]]载体评估** 国家安全是建立在抽象价值宣传还是真实技术与武装威慑之上？ | 国防采购预算中先进软件与 AI 算法的投入比重、武器系统的实战敏捷度 | 仅凭道德优越感无法形成有效谈判筹码；在智能化时代硬实力体现为算法与软件代码（pp. 31–32）。 |
-> | **精英文化与国家契约** | **[[Winner's Fallacy\|胜者自满]]与文化异化** 科技与商业精英是否将国家安全视为理所当然并抵触防务责任？ | 科技巨头内部联名抵制防务合同（如 [[Project Maven\|梅文项目]]）的频率与舆论反应 | 精英群体的道德疏离反映出胜者谬误对社会共同体契约的侵蚀（pp. 33–35）。 |
+> | **精英文化与国家契约** | **[[Winner's Fallacy\|胜者自满]]与文化异化** 科技与商业精英是否将国家安全视为理所当然并抵触防务责任？ | 科技巨头内部联名抵制防务合同（如 [[Project Maven\|梅文项目]]）的频率与舆论反应 | 精英群体的道德[[Alienation\|疏离]]反映出胜者谬误对社会共同体契约的侵蚀（pp. 33–35）。 |
 
 ---
 

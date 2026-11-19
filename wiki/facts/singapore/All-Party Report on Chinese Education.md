@@ -11,7 +11,7 @@ subtype: policy
 region: singapore
 fact_region: "singapore"
 fact_kind: "policy"
-fact_related_count: 11
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -24,9 +24,12 @@ tags:
   - theme/social-cohesion
 related_concepts:
   - "[[Bilingual Education Policy]]"
+  - "[[School Autonomy]]"
   - "[[English-Knowing Bilingualism]]"
   - "[[Curriculum Alignment]]"
   - "[[Pedagogical Hybridity]]"
+  - "[[Blended Learning]]"
+  - "[[Paradigm]]"
 related_theories:
   - "[[Nation Building through Education]]"
   - "[[Developmental State]]"
@@ -36,6 +39,7 @@ related_persons:
   - "[[Zongyi Deng]]"
   - "[[Saravanan Gopinathan]]"
 related_facts:
+  - "[[Singapore National Education]]"
   - "[[Goh Report]]"
   - "[[Thinking Schools, Learning Nation]]"
 related_arguments:
@@ -43,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-17
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -52,7 +56,7 @@ updated: 2026-11-18
 > - **发布时间 / 发布主体** 1956 年由新加坡立法议会各党派委员会（All-Party Committee of the Singapore Legislative Assembly on Chinese Education）联合编制并发布。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 453)]]
 > - **适用地区 / 对象** 覆盖当时英殖民自治过渡期新加坡全岛不同语系学校，尤其是长期自治且处于政治敏感边缘的华文学校系统。
 > - **问题背景** 二战后新加坡社会族群高度分化，华语、英语、马来语、泰米尔语四套相互割裂的学校系统各自为政；华校师生因深感边缘化与政治冷遇爆发广泛学潮，社会稳定与政治整合遭遇严峻危机。
-> - **制度位置** 奠定了后殖民时代新加坡国民教育体制的宪制性基石，为后续统一国家课程、双语政策与精英贤能选拔体制确立了根本政治共识。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 454)]]
+> - **制度位置** 奠定了后殖民时代[[National Education (Singapore)|新加坡国民教育]]体制的宪制性基石，为后续统一国家课程、[[Bilingual Education Policy|双语政策]]与精英贤能选拔体制确立了根本政治共识。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 454)]]
 
 ---
 
@@ -116,13 +120,13 @@ updated: 2026-11-18
 > > - **华社传统主义力量立场** 担忧以英语为主要教学媒介将逐步侵蚀华文教育根基与传统文化传承，呼吁保持华校高度自治与母语教学纯洁性。
 > > - **报告书与执政党政治和解立场（[[Argument_Deng_2016_CE|Deng & Gopinathan, 2016]]）** 强调面对生存危机，必须以中立的国际语言超越族群藩篱并对接全球经济，同时通过母语必修维持文化根基，达成了经受历史检验的制度妥协。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 453)]]
 >
-> > [!axis] 国家课程统一与族群学校自主权丧失
+> > [!axis] 国家课程统一与族群[[School Autonomy|学校自主权]]丧失
 > > 探讨集中化国家课程对民间自治办学传统的替代。
 > >
 > > - **校董会自治立场** 传统华文学校校董会与部分社会团体对接受官方统一大纲与资助监管存有顾虑，主张维护自主办学自由。
 > > - **国家建构整合立场（[[Argument_Deng_2016_CE|Deng & Gopinathan, 2016]]）** 指出若听任四套语系学校各自为政，多元移民社会将无法形成共同政治忠诚；统一课程是构建国家凝聚力与社会和平的必由之路。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 453–454)]]
 
-> [!citation-card] 邓宗怡与高平纳坦论各党派报告书的建国基石作用
+> [!citation-card] [[Zongyi Deng|邓宗怡]]与[[Saravanan Gopinathan|高平纳坦]]论各党派报告书的建国基石作用
 > 各党派报告书达成的政治与语言妥协，为后殖民时期新加坡学校体系奠定了基调。它不仅解决了迫在眉睫的族群冲突，而且奠定了以英语为核心工具、母语为文化载体的双语制度根基，使教育成为服务国家建构与经济发展的关键支柱。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 453–454)]]
 >
 > *The political and linguistic compromise reached in the All-Party Report set the tone for the schooling system in post-colonial Singapore...*
@@ -136,10 +140,10 @@ updated: 2026-11-18
 > | [[Bilingual Education Policy]] | Concept | 报告书所奠定的核心语言教育制度架构。 |
 > | [[English-Knowing Bilingualism]] | Concept | 报告书确立以英语为通用工作语、兼顾母语学习的双语主义形态。 |
 > | [[Curriculum Alignment]] | Concept | 报告书通过跨族群统一教学大纲与考试标准实现的课程对齐。 |
-> | [[Pedagogical Hybridity]] | Concept | 统一课程在基层多语系学校落地演化出的混合教学实践。 |
+> | [[Pedagogical Hybridity]] | Concept | 统一课程在基层多语系学校落地演化出的[[Blended Learning\|混合教学]]实践。 |
 > | [[Goh Report]] | Fact (Policy) | 继承报告书双语原则并将其推进至效率分流阶段的后续重大政策。 |
 > | [[Thinking Schools, Learning Nation]] | Fact (Policy) | 在双语统一架构下进一步转向能力驱动改革的当代宏观愿景。 |
-> | [[Nation Building through Education]] | Theory | 解释报告书通过统一学校课程推进国家建构的理论范式。 |
+> | [[Nation Building through Education]] | Theory | 解释报告书通过统一学校课程推进国家建构的理论[[Paradigm\|范式]]。 |
 > | [[Developmental State]] | Theory | 阐明发展型国家通过教育政策妥协奠定经济工业化基础的理论机制。 |
 
 ---

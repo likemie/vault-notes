@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 30
+person_related_count: 32
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
 related_theories:
   - "[[World-Systems Theory]]"
+  - "[[Modernization Theory]]"
   - "[[Dependency Theory]]"
   - "[[Globalization from Below]]"
   - "[[Cultural Models]]"
@@ -47,6 +48,7 @@ related_methods:
   - "[[Ethnography]]"
 related_instruments: []
 related_persons:
+  - "[[Karl Marx]]"
   - "[[Fernand Braudel]]"
   - "[[Alexandre de Rhodes]]"
   - "[[Robert Arnove]]"
@@ -64,14 +66,14 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-29
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国历史社会学家、国际政治经济学家与新马克思主义理论家；曾任国际社会学学会（[[International Schools Association|ISA]]）主席（1994–1998）、纽约州立大学宾汉姆顿分校[[Fernand Braudel|费尔南·布罗代尔]]经济、历史体系与文明研究中心主任，以及耶鲁大学资深高级研究学者。
-> - **核心角色** [[World-Systems Theory|世界体系分析]]（World-Systems Analysis, WSA）的开创者；在批判传统现代化理论与拉美[[Dependency Theory|依附论]]静态模型的基础上，以资本主义世界经济的“中心—半边缘—边缘”三层结构和长时段历史动力学重塑了当代宏观社会科学，为比较教育学解构跨国资本积累、援助霸权控制以及教育[[Institutional Layering|制度分层]]固化提供了核心政治经济学支柱。
+> - **身份位置** 美国历史社会学家、国际政治经济学家与新[[Karl Marx|马克思]]主义理论家；曾任国际社会学学会（[[International Schools Association|ISA]]）主席（1994–1998）、纽约州立大学宾汉姆顿分校[[Fernand Braudel|费尔南·布罗代尔]]经济、历史体系与文明研究中心主任，以及耶鲁大学资深高级研究学者。
+> - **核心角色** [[World-Systems Theory|世界体系分析]]（World-Systems Analysis, WSA）的开创者；在批判传统[[Modernization Theory|现代化理论]]与拉美[[Dependency Theory|依附论]]静态模型的基础上，以资本主义世界经济的“中心—半边缘—边缘”三层结构和长时段历史动力学重塑了当代宏观社会科学，为比较教育学解构跨国资本积累、援助霸权控制以及教育[[Institutional Layering|制度分层]]固化提供了核心政治经济学支柱。
 > - **代表贡献** 创立资本主义[[World-Systems Theory|世界体系理论]]；确立长时段（la longue durée）与系统分析的结合；出版四卷本奠基性巨著《现代世界体系》（*The Modern World-System*, 1974, 1980, 1989, 2011）；倡导“反思 19 世纪社会科学”（unthinking nineteenth-century social science），弥合实证规律法则与叙事历史人文学科的二元割裂。
 
 > [!citation-card] 沃勒斯坦论世界体系分析的方法论定位与[[Epistemology|认识论]]批判

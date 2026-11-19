@@ -7,7 +7,7 @@ title: "Argument_Mattheou_2009_ScientificParadigm"
 argument_key: "Argument_Mattheou_2009_ScientificParadigm"
 argument_display_title: "The scientific paradigm in comparative education"
 argument_kind: "book-chapter"
-argument_related_count: 81
+argument_related_count: 82
 argument_related_level: 8
 argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -83,6 +83,7 @@ related_theories:
   - "[[Postmodernism]]"
   - "[[Critical Theory]]"
   - "[[Post-structuralism]]"
+  - "[[Modernization Theory]]"
 related_methods:
   - "[[Questionnaire]]"
   - "[[Sample Size Determination]]"
@@ -120,7 +121,7 @@ related_facts:
   - "[[World Bank]]"
 status: draft
 created: 2026-09-07
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 ---
 
@@ -433,7 +434,7 @@ updated: 2026-11-14
 > *Normative laws are man-made and can be accepted, rejected or changed by man... Representing man's beliefs, [they] are part of the context in which schools are run... On the other hand, sociological laws, like the laws of physics, are man-made statements that apply to the functioning of societal institutions... They are hypothetical, and if they are to be scientific, should be refutable. Finally, sociological laws are not universally valid: they are contingent, in the sense that, although they constitute universal or general statements they are dependent on the conditions under which they are to be applied.*
 
 > [!citation-card] 社会科学研究沦为现存执政正统的[[Social Science as Legitimation Alibi\|合法化借口]]
-> [[Development Education|发展教育]]学派与现代化理论家凭借其充满说服力的证据，成为了世界各地教育改革的基石，政策制定者迅速援引科学研究的硬事实作为支撑。在这一层面上，社会科学已然蜕变为现存教育政治正统的便利借口与合法化手段。（pp. 67–68）
+> [[Development Education|发展教育]]学派与[[Modernization Theory|现代化理论]]家凭借其充满说服力的证据，成为了世界各地教育改革的基石，政策制定者迅速援引科学研究的硬事实作为支撑。在这一层面上，社会科学已然蜕变为现存教育政治正统的便利借口与合法化手段。（pp. 67–68）
 >
 > *Exponents of development education... and modernisation theorists... with all their reassuring evidence were the cornerstone of reform almost everywhere, with policy makers prompt to call upon the hard facts of scientific research. In this sense social science had become a convenient alibi and/or a legitimising means for the prevailing political orthodoxy in education.*
 

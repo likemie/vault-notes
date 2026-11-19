@@ -7,9 +7,9 @@ title: "Argument_Rust_2009_Reflections"
 argument_key: "Argument_Rust_2009_Reflections"
 argument_display_title: "Reflections on the development of comparative education"
 argument_kind: "book-chapter"
-argument_related_count: 128
-argument_related_level: 12
-argument_related_stars: "💎💎💎💎"
+argument_related_count: 131
+argument_related_level: 13
+argument_related_stars: "💎💎💎💎⭐"
 argument_related_color: "#fecdd3"
 authors:
   - "[[Val D. Rust|Rust, V. D.]]"
@@ -59,6 +59,7 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Problem Finding]]"
   - "[[Falsification]]"
+  - "[[Typicality]]"
   - "[[Working Hypothesis]]"
   - "[[Variable]]"
   - "[[Educational Meliorism]]"
@@ -99,6 +100,7 @@ related_theories:
   - "[[Pluralism]]"
   - "[[Typology of Educational Responses to Globalization]]"
   - "[[Norwegian Four-Phase Model]]"
+  - "[[Modernization Theory]]"
   - "[[Human Capital Theory]]"
   - "[[Critical Theory]]"
   - "[[Dependency Theory]]"
@@ -156,6 +158,7 @@ related_persons:
   - "[[John Dewey]]"
   - "[[Robert E. Stake]]"
   - "[[Immanuel Kant]]"
+  - "[[Karl Marx]]"
   - "[[Val D. Rust]]"
 related_facts:
   - "[[Education for All]]"
@@ -173,7 +176,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 ---
 
@@ -351,7 +354,7 @@ updated: 2026-11-14
 > | **代表学者** | 艾萨克·坎德尔（[[Isaac Kandel]]）、尼古拉斯·汉斯（[[Nicholas Hans]]）、乔治·贝雷迪（[[George Bereday]]） | 布赖恩·霍姆斯（[[Brian Holmes]]，渊源于杜威探究理论与波普尔证伪主义） |
 > | **研究起点** | 从系统详尽的国别教育历史与现状描述起步 | 从明确的现实问题与预设假说出发 |
 > | **推论路径** | 现状描述 ➔ 社会政治背景解释 ➔ 并置比较（juxtaposition） ➔ 归纳法则 | 假说构建 ➔ 演绎检验 ➔ 逻辑[[Falsification\|证伪]] ➔ 政策预测 |
-> | **学术分歧** | 霍姆斯批评归纳法容易滞留在经验描述层面，理论生成滞后，难以指导战后规划 | 归纳派认为假说演绎法过于抽象，容易脱离鲜活的民族历史情境与制度特殊性 |
+> | **学术分歧** | 霍姆斯批评归纳法容易滞留在经验描述层面，理论生成滞后，难以指导战后规划 | 归纳派认为假说演绎法过于抽象，容易脱离鲜活的民族历史情境与制度[[Typicality\|特殊性]] |
 
 贝雷迪（[[George Bereday]]）开创的贝雷迪四步归纳比较法（Bereday, 1964）是该时期经验归纳进路的最系统形态：
 
@@ -427,10 +430,10 @@ updated: 2026-11-14
 > [!sub-claim] 3. 二十六种理论范式共存打破了冷战时期的单一实证教条，标志着学科研究心智的成熟
 
 > [!info] [[Structural Functionalism|结构功能主义]]正统的建立与瓦解
-> 1950–1960 年代，比较教育学曾被结构功能主义与现代化理论（以[[Human Capital Theory|人力资本理论]]与系统论为支柱）高度垄断，形成窒息探索的单一学术正统。自 1970 年代起，随着[[Critical Theory|批判理论]]与[[Interpretivism|解释主义]]范式的崛起，这一正统开始瓦解，令学科走向全面的理论多元化。（pp.131–132）
+> 1950–1960 年代，比较教育学曾被结构功能主义与[[Modernization Theory|现代化理论]]（以[[Human Capital Theory|人力资本理论]]与系统论为支柱）高度垄断，形成窒息探索的单一学术正统。自 1970 年代起，随着[[Critical Theory|批判理论]]与[[Interpretivism|解释主义]]范式的崛起，这一正统开始瓦解，令学科走向全面的理论多元化。（pp.131–132）
 
 > [!stat-cards]- 学科成熟期的实证计量快照（UCLA 调查成果）
-> - **26** 种并存理论范式，涵盖人力资本理论、结构功能主义、系统论、[[Dependency Theory|依附理论]]、马克思主义与新马克思主义、[[World-Systems Theory|世界体系分析]]、民族志、[[Constructivist Paradigm|建构主义]]、[[Phenomenology|现象学]]、[[Symbolic Interactionism|符号互动论]]、批判理论、文化复兴主义、女性主义、[[Post-structuralism|后结构主义]]、[[Postmodernism|后现代主义]]、[[Pragmatic Paradigm|实用主义]]与新殖民主义等，单一理论垄断宣告终结。（pp.132, 135）
+> - **26** 种并存理论范式，涵盖人力资本理论、结构功能主义、系统论、[[Dependency Theory|依附理论]]、[[Karl Marx|马克思]]主义与新马克思主义、[[World-Systems Theory|世界体系分析]]、民族志、[[Constructivist Paradigm|建构主义]]、[[Phenomenology|现象学]]、[[Symbolic Interactionism|符号互动论]]、批判理论、文化复兴主义、女性主义、[[Post-structuralism|后结构主义]]、[[Postmodernism|后现代主义]]、[[Pragmatic Paradigm|实用主义]]与新殖民主义等，单一理论垄断宣告终结。（pp.132, 135）
 > - **33** 个 WCCES 成员学会，遍布全球各大洲，打破早期西方的地域封闭，确立全球学术网络。（pp.129–130）
 > - **3** 大主流母学科认同，社会学、政治学与经济学构成当代比较学者最普遍认同的母学科。（pp.130–131）
 

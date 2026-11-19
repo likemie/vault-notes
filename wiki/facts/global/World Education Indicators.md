@@ -36,7 +36,6 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Structural Adjustment Programs]]"
   - "[[International Education]]"
-  - "[[Refined Mastery]]"
   - "[[Class Size]]"
   - "[[Heterogeneity]]"
   - "[[Discourse]]"
@@ -48,6 +47,7 @@ related_concepts:
   - "[[Steering at a Distance]]"
 related_theories:
   - "[[Human Capital Theory]]"
+  - "[[Modernization Theory]]"
   - "[[Situative Perspective]]"
 related_methods:
   - "[[Analytic Framework]]"
@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -116,7 +116,7 @@ updated: 2026-11-11
 
 > [!pathways] 实施路径与管理
 > - **指标本土化适配与概念对齐** 在严格遵循[[International Education|国际教育]]标准分类（ISCED）的前提下，由联合专家组协助各参与国梳理本国学制分段与办学形态，化解中等职业教育、成人培训等多元制度在跨国比较中的分类冲突。
-> - **网络化能力培训与工作坊** 定期在巴黎、蒙特利尔或各参与国首都举办跨国统计培训班与专家研讨会，培育了一批[[Refined Mastery|精通]]经合组织指标规范的发展中国家技术官僚群体。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 443)]]
+> - **网络化能力培训与工作坊** 定期在巴黎、蒙特利尔或各参与国首都举办跨国统计培训班与专家研讨会，培育了一批精通经合组织指标规范的发展中国家技术官僚群体。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 443)]]
 > - **定期政策审议与联合旗舰出版物** 坚持三方联合署名机制，出版系列跨国比较报告与国别概况简报，借助国际学术声誉对参与国国内教育资源分配产生柔性审议效应。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443, 447)]]
 
 ---
@@ -144,7 +144,7 @@ updated: 2026-11-11
 > > 关于 WEI 项目究竟属于无私的多边统计技术能力建构，还是西方主导的新自由主义治理理念向非西方世界的规范扩张，学术界存在尖锐交锋。
 > >
 > > - **批判政策社会学立场** 大卫·鲁特考夫斯基（David Rutkowski, 2007）以及法兹尔·里兹维（[[Fazal Rizvi]]）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard, 2009）深刻指出，[[OECD|经合组织]]在 WEI 项目中的角色不能被简化为[[Value Neutrality|价值中立]]的技术输出；该项目深植于经合组织的新自由主义规范预设之中，其技术专长与关于教育必须服务于全球经济增长的规范性信念不可分割，实质上是将西方发达国家的绩效治理与[[Human Capital Theory|人力资本]]教条外溢至非西方世界。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
-> > - **技术功能主义立场** 参与国际组织与部分经济学家辩称，发展中国家极度匮乏国际可比的坚实证据底座，WEI 提供了客观、科学的测量工具，协助转型国家发现资源配置断裂点并提升公共财政的使用效能，是推动教育透明度与现代化的重要途径。
+> > - **[[Modernization Theory|技术功能主义]]立场** 参与国际组织与部分经济学家辩称，发展中国家极度匮乏国际可比的坚实证据底座，WEI 提供了客观、科学的测量工具，协助转型国家发现资源配置断裂点并提升公共财政的使用效能，是推动教育透明度与现代化的重要途径。
 >
 > > [!axis] 全球标准化[[Commensuration|通约]] vs 本土教育情境脱嵌之争
 > > 标准化指标是否足以公平反映发展中国家极其复杂的社会文化与经济背景。

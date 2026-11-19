@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 17
+person_related_count: 19
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -33,12 +33,14 @@ related_concepts:
   - "[[Disciplinary Institutionalization]]"
   - "[[Document]]"
   - "[[National Biography]]"
-related_theories: []
+related_theories:
+  - "[[Modernization Theory]]"
 related_methods:
   - "[[Historical-Comparative Method]]"
 related_instruments: []
 related_persons:
   - "[[Ernest Gellner]]"
+  - "[[Karl Marx]]"
   - "[[Eric Hobsbawm]]"
   - "[[Benedict Anderson]]"
   - "[[Elie Kedourie]]"
@@ -50,14 +52,14 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-14
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国历史社会学家、政治学者，伦敦政治经济学院（LSE）[[Nationalism|民族主义]]荣休教授，《国家与民族主义》（*Nations and Nationalism*）学刊创刊主编，族裔与民族主义研究联合会（ASEN）创始人。
-> - **核心角色** 民族主义研究中“族裔象征主义”（Ethno-symbolism）学派的领袖与奠基人。与坚持现代主义功能主义解释的欧内斯特·盖尔纳（[[Ernest Gellner]]）、正统马克思主义历史学家埃里克·[[Eric Hobsbawm|霍布斯鲍姆]]（[[Eric Hobsbawm]]）以及现代建构论者[[Benedict Anderson|本尼迪克特·安德森]]（[[Benedict Anderson]]）形成长期经典理论论战。
+> - **核心角色** 民族主义研究中“族裔象征主义”（Ethno-symbolism）学派的领袖与奠基人。与坚持现代主义功能主义解释的欧内斯特·盖尔纳（[[Ernest Gellner]]）、正统[[Karl Marx|马克思]]主义历史学家埃里克·[[Eric Hobsbawm|霍布斯鲍姆]]（[[Eric Hobsbawm]]）以及现代建构论者[[Benedict Anderson|本尼迪克特·安德森]]（[[Benedict Anderson]]）形成长期经典理论论战。
 > - **代表贡献** 创立族裔象征主义理论，系统提炼“族裔共同体”（*ethnie*）及“神话-符号复合体”（*myth-symbol complex*）分析模型，确立前现代文化记忆对现代民族国家建构的深层制约机制。
 
 > [!citation-card] 安德森论战后英国民族主义理论格局中的史密斯
@@ -78,7 +80,7 @@ updated: 2026-11-15
 ---
 
 > [!thought-timeline] 思想发展
-> - **1970年代 — 现代主义批判与学术定位** 面对盖尔纳的技术功能主义与西方现代主义教条，系统梳理现有民族主义[[Paradigm|范式]]，指出过度强调“工业化与现代人造性”难以解释民族主义的情感魔力。
+> - **1970年代 — 现代主义批判与学术定位** 面对盖尔纳的[[Modernization Theory|技术功能主义]]与西方现代主义教条，系统梳理现有民族主义[[Paradigm|范式]]，指出过度强调“工业化与现代人造性”难以解释民族主义的情感魔力。
 >   - **代表著作** *Theories of Nationalism* (1971)。
 >   - **关键概念** 族裔意识（Ethnic Consciousness）、现代主义局限。
 >   - **阶段转向** 从对导师盖尔纳理论的内部反思，转向探寻前现代族裔文化根基。

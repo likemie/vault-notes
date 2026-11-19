@@ -8,7 +8,7 @@ aliases:
 summary: "关于知识本质、形式与获取方式的哲学假设，在研究哲学中决定不同范式的有效知识判准；在教育心理学与学习科学中，表现为个体心智协调主观与客观维度的认识论理解演进。"
 type: concept
 domain: "educational-philosophy"
-related_count: 141
+related_count: 142
 related_level: 14
 related_stars: "💎💎💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -105,6 +105,7 @@ related_theories:
   - "[[Complexity Theory]]"
   - "[[Critical Theory]]"
   - "[[Governing by Inspection]]"
+  - "[[Modernization Theory]]"
 related_methods:
   - "[[Observation Method]]"
   - "[[Effect Size]]"
@@ -168,7 +169,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -365,7 +366,7 @@ updated: 2026-11-18
 > > - **认识论正义与本土审议立场（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）** 批判全球实证霸权对地方实践情境的认识论压制，主张在决策社群中保障一线实践者的认知主权与平等审议权。
 
 > [!critique] 外部批评
-> - **批判认识论对[[Value Neutrality|价值中立]]假象的解构** [[Immanuel Wallerstein|沃勒斯坦]]（Wallerstein, 2000; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）批判主流[[Positivism|实证主义]]与技术功能主义将“价值中立”作为唯一的合法[[Scientific Attitude|科学态度]]，指出这种认识论掩盖了资本主义世界体系的剥削机制与不平等现状，沦为服务于统治阶级的“欺骗性认识论”。[[Argument_Arnove_2009_WorldSystems|(Wallerstein, 2000, cited in Arnove, 2009, p. 115)]]
+> - **批判认识论对[[Value Neutrality|价值中立]]假象的解构** [[Immanuel Wallerstein|沃勒斯坦]]（Wallerstein, 2000; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）批判主流[[Positivism|实证主义]]与[[Modernization Theory|技术功能主义]]将“价值中立”作为唯一的合法[[Scientific Attitude|科学态度]]，指出这种认识论掩盖了资本主义世界体系的剥削机制与不平等现状，沦为服务于统治阶级的“欺骗性认识论”。[[Argument_Arnove_2009_WorldSystems|(Wallerstein, 2000, cited in Arnove, 2009, p. 115)]]
 
 > [!warning|limits] 适用局限
 > - [[Epistemic Stances|认识论立场]]与具体研究方法之间不存在一一对应的机械绑定；客观主义研究者亦可运用定性访谈进行前期变量探索，[[Qualitative Research|质性研究]]者亦可统计主观意义单元的出现频次。

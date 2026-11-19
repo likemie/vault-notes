@@ -7,7 +7,7 @@ aliases:
 summary: "与实证主义相对立的社会科学哲学与认识论立场，主张社会实在由具有意向性的人类行动者在主体间互动中建构，探究的目的不在于发现普适因果定律，而在于通过领会与深描理解行动者赋予行动的主观意义及其所处的生活世界。"
 type: concept
 domain: "educational-philosophy"
-related_count: 61
+related_count: 62
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Document]]"
 related_theories:
   - "[[Structural Functionalism]]"
+  - "[[Modernization Theory]]"
   - "[[Critical Theory]]"
   - "[[Phenomenology]]"
   - "[[Symbolic Interactionism]]"
@@ -86,7 +87,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-30
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -105,7 +106,7 @@ updated: 2026-11-15
 > *We explain nature, but we understand psychological and spiritual life... The sciences of the mind must focus on human experience as it is lived and understood from within.*
 
 > [!citation-card] Rust et al. 论解释主义知识共同体打破[[Discipline-Based Theory|学科理论]]霸权
-> 比较教育学的数据分析在传统上本质是质性的，奠基于[[Constructivist Paradigm|建构主义]]、解释主义与自然主义传统。到 1970 年代，随着新兴的批判与解释性知识共同体的崛起，战后结构功能主义与现代化理论在学科内的霸权统治迅速瓦解，深刻重塑了比较教育学术环境的多元格局。[[Argument_Rust_2009_Reflections|Rust et al., 2009, pp. 130–132]]
+> 比较教育学的数据分析在传统上本质是质性的，奠基于[[Constructivist Paradigm|建构主义]]、解释主义与自然主义传统。到 1970 年代，随着新兴的批判与解释性知识共同体的崛起，战后结构功能主义与[[Modernization Theory|现代化理论]]在学科内的霸权统治迅速瓦解，深刻重塑了比较教育学术环境的多元格局。[[Argument_Rust_2009_Reflections|Rust et al., 2009, pp. 130–132]]
 >
 > *Data analysis in comparative education began almost exclusively as qualitative in nature. That is, the tradition was constructivist, interpretive, and naturalistic... By the 1970s, the domination of structural functionalism and modernization precipitously declined, challenged by a wide array of emergent critical and interpretive knowledge communities.*
 

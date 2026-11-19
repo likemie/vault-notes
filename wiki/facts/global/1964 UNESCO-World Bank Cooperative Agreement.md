@@ -11,7 +11,7 @@ subtype: policy
 region: "global"
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[State Educational Sovereignty]]"
 related_theories:
   - "[[Human Capital Theory]]"
+  - "[[Modernization Theory]]"
 related_methods: []
 related_instruments: []
 related_persons:
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-11-19
 ---
 
 ---
@@ -113,7 +114,7 @@ updated: 2026-10-26
 > > 自由主义功能主义史学视 1964 协定为联合国体系内合理分工的典范；批判政治经济学派则揭示该协定是[[World Bank\|世界银行]]渗透发展中[[State Educational Sovereignty\|国家教育主权]]的“特洛伊木马”。
 > >
 > > - **批判政治经济学史观** 揭示世界银行在不具备教育资质时策略性利用 [[UNESCO]] 作为掩护，一旦建立自身数据霸权便弃若敝屣，其实质是国际金融资本对公共教育领域的殖民。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
-> > - **技术功能主义史观** 强调协定打破了战后早期的部门孤岛，将宝贵的国际金融流动性首次引入教育贫瘠地区。
+> > - **[[Modernization Theory|技术功能主义]]史观** 强调协定打破了战后早期的部门孤岛，将宝贵的国际金融流动性首次引入教育贫瘠地区。
 
 > [!citation-card] 合作协定与世行教育治理霸权的形成
 > 在早期，世界银行的教育业务组合与教科文组织几乎完全一致。然而，与世界银行形成鲜明对比的是，联合国教科文组织采取的是人文主义和人权驱动的教育取向。两组织之间的联系通过 1964 年签署的《合作协定》得以确立。在借助教科文组织的帮助获得进入全球南方国家的途径之后，世界银行开始逐渐疏远教科文组织。越来越明显的是，两家机构既不认同彼此的愿景和优先事项，也不认同彼此的治理运作方式。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]

@@ -8,7 +8,7 @@ aliases:
 summary: "衡量跨国教育援助结构与功能变迁的分析范式，将教育发展合作划分为校舍教学基建、奖学金与职教技术培训、联合科研知识生产及文化交流四大标准化形态，揭示教育援助从单一硬件捐赠转向人力资本管道的演进历程。"
 type: concept
 domain: "comparative-education"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
 related_theories:
   - "[[Human Capital Theory]]"
+  - "[[Modernization Theory]]"
 related_facts:
   - "[[AidData]]"
   - "[[OECD]]"
@@ -47,7 +48,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -113,7 +114,7 @@ updated: 2026-11-15
 ---
 
 > [!timeline]- 理论演进
-> - **1960–1980 年** 早期现代化理论主导下的[[International Education|国际教育]]援助主要采取大型工程援建与西方现成教科书翻译输入，忽视本土制度消化能力。
+> - **1960–1980 年** 早期[[Modernization Theory|现代化理论]]主导下的[[International Education|国际教育]]援助主要采取大型工程援建与西方现成教科书翻译输入，忽视本土制度消化能力。
 > - **1990–2010 年** 达喀尔[[Education for All|全民教育]]（EFA）纲领与[[Millennium Development Goals|千年发展目标]]（MDGs）推动国际援助转向基础教育普及与女童入学等社会性基础指标。
 > - **2013 年至今** [[South-South Cooperation|南南合作]]与新兴发展中大国推动以产教融合、校企协同委培与职业技能标准输出为特征的[[Pragmatic Paradigm|实用主义]]教育援助新[[Paradigm|范式]]。
 

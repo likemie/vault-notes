@@ -11,10 +11,10 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 6
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 12
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1941"
 died: ""
 lifespan: "1941–至今"
@@ -25,28 +25,34 @@ tags:
   - region/us
 related_concepts:
   - "[[Credential Inflation]]"
-  - "[[Cultural Capital]]"
   - "[[Economy of Experience]]"
-related_theories: []
+  - "[[Construct]]"
+  - "[[Cultural Capital]]"
+related_theories:
+  - "[[Modernization Theory]]"
+  - "[[Neo-Weberian State]]"
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Phillip Brown]]"
   - "[[Pierre Bourdieu]]"
   - "[[Yajun Zheng]]"
-related_facts: []
+related_facts:
+  - "[[Higher Education Expansion in China 1999]]"
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch01]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
 confidence: high
 status: active
 created: 2026-11-17
-updated: 2026-11-17
+updated: 2026-11-19
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代著名社会学家，宾夕法尼亚大学（University of Pennsylvania）社会学系荣休讲席教授，曾任美国社会学学会（ASA）会长。
-> - **核心角色** 冲突社会学、微观社会学（互动仪式链理论）以及历史比较社会学领军人物，在教育社会学领域是反技术功能主义的奠基学者。
+> - **核心角色** 冲突社会学、微观社会学（互动仪式链理论）以及历史比较社会学领军人物，在教育社会学领域是反[[Modernization Theory|技术功能主义]]的奠基学者。
 > - **代表贡献** 1979 年出版经典名著《文凭社会》（*The Credential Society*），提出[[Credential Inflation|文凭通货膨胀]]理论，系统解构了“教育扩张直接对应生产技能提升”的传统假设。
 
 ---
@@ -62,8 +68,8 @@ updated: 2026-11-17
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 柯林斯的文凭通胀理论打破了技术功能主义的垄断地位，开创了从冲突论与新韦伯主义视角审视教育分层的新传统，对后续布朗（Phillip Brown）的履历经济学以及当代教育社会学产生深远影响。
-> - **经验应用** [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]在《金榜题名之后》第一章中将柯林斯文凭通胀理论引入中国高等教育大扩招分析，解释中国名校本科生在文凭交换价值缩水背景下向更高文凭与履历资本转移的行动逻辑。
+> - **理论路径** 柯林斯的文凭通胀理论打破了技术功能主义的垄断地位，开创了从冲突论与[[Neo-Weberian State|新韦伯主义]]视角审视教育分层的新传统，对后续布朗（[[Phillip Brown]]）的[[Economy of Experience|履历经济学]]以及当代教育社会学产生深远影响。
+> - **经验应用** [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]在《金榜题名之后》第一章中将柯林斯文凭通胀理论引入[[Higher Education Expansion in China 1999|中国高等教育大扩招]]分析，解释中国名校本科生在文凭交换价值缩水背景下向更高文凭与履历资本转移的行动逻辑。
 
 ---
 
@@ -71,8 +77,8 @@ updated: 2026-11-17
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Credential Inflation]] | 概念 | 柯林斯在《文凭社会》中系统提出的核心社会分层理论构念。 |
-> | [[Cultural Capital]] | 概念 | 与布迪厄文化资本理论形成大西洋两岸互补对话的教育分层概念。 |
+> | [[Credential Inflation]] | 概念 | 柯林斯在《文凭社会》中系统提出的核心社会分层[[Construct\|理论构念]]。 |
+> | [[Cultural Capital]] | 概念 | 与[[Pierre Bourdieu\|布迪厄]]文化资本理论形成大西洋两岸互补对话的教育分层概念。 |
 > | [[Economy of Experience]] | 概念 | 布朗在柯林斯文凭通胀理论基础上延伸发展的求职筛选新阶段理论。 |
 > | [[Pierre Bourdieu]] | 人物 | 共同构成从符号特权与社会封闭视角解构教育选拔神话的学术同道。 |
 > | [[Yajun Zheng]] | 人物 | 将其文凭通胀理论拓展应用于中国重点高校大学生出路分化研究。 |
