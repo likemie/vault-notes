@@ -9,7 +9,7 @@ aliases:
 summary: "指基于明确的职能分工、自顶向下的层级节制、非人格化的成文规则与专业化职业考核建立的理性化组织与治理形态。在古典社会学中被视作现代性理性化效率的基石；在当代工程治理中被批判为滋生层级设卡、会议工业复合体与避险自保；而在批判公共治理研究（奥尼尔等人，2016）中，科层制所内置的法定理性与中立规章被证实是维护代议制民主问责与信息公开的关键屏障，其在现代化改革中被弹性网络与部落治理侵蚀反而引发了严重的公共透明度危机。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 65
+related_count: 66
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -92,6 +92,7 @@ related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09]]"
   - "[[Argument_Anderson_2016_Verso]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
+  - "[[Argument_Dang_2017_ORE]]"
 confidence: high
 status: draft
 created: 2026-10-08
@@ -212,11 +213,14 @@ updated: 2026-11-19
 
 ---
 
-> [!concept-proposition] 命题六｜在多重理性[[Policy Network|政策网络]]中单向科层指令导致系统性治理失灵并倒逼间接治理转向
-> **[[Policy Network|政策网络]]与公共行政治理失灵视阈** 探讨韦伯式单中心科层指令在面对异质化、高度自治的专业组织网络时如何必然遭遇认知盲区与执行阻滞，倒逼国家治理[[Paradigm|范式]]从自上而下微观管制转向间接[[Steering at a Distance|远距离操纵]]。
+> [!concept-proposition] 命题六｜在多重理性[[Policy Network|政策网络]]中单向科层指令导致系统性治理失灵并促使间接治理转向
+> **[[Policy Network|政策网络]]与公共行政治理失灵视阈** 探讨韦伯式单中心科层指令在面对异质化、高度自治的专业组织网络时如何必然遭遇认知盲区与执行阻滞，促使国家治理[[Paradigm|范式]]从自上而下微观管制转向间接[[Steering at a Distance|远距离操纵]]。
 
 > [!claim] [[Argument_Kickert_1995_Governance|Kickert (1995)]]
 > **多重理性网络对单中心科层指令的瓦解与间接操纵转向** 传统韦伯式科层制预设了单一的金字塔权力中心、明确连贯的自上而下政策目标以及顺畅执行的行政指令链；然而在现代高等教育与专业社会领域，现实权力高度分散于异质化的半自主组织之中，构成了充满多重理性（Multiple Rationalities）的复杂政策网络。当国家行政机构试图运用传统的单向科层指令、繁复细密的事前审批与统一编制限制强推学科裁撤和预算压缩时，不仅无法实现预期调控目标，反而引发全行业的集体抵制与严重行政瘫痪。荷兰高等教育改革经验证实，唯有打破自上而下的微观科层干预，转向以一揽子总额拨款（[[Block Grants]]）和事后质量评估为核心的“间接远距离操纵”（[[Steering at a Distance]]），才能在多理性政策网络中重塑公共治理的效能与合法性。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 140–141, 148–150)]]
+
+> [!claim] [[Argument_Dang_2017_ORE|Dang (2017)]]
+> **跨国高教治理中横向协商网络对科层总署的替代** 邓氏清（Thi Thanh Dang）考察东亚高等教育区域治理指出，跨国教育一体化并不必然依赖布鲁塞尔式的集中科层官僚总署（Bureaucratic Commission）。日方官员与东盟专家的实证访谈表明，东亚次区域依靠跨国教育部委、大学网络与质保机构之间的横向网状信任纽带，以多中心协商和常态化社会化取代了自上而下的垂直科层指令链，实现了灵活务实的多边协调。[[Argument_Dang_2017_ORE|(Dang, 2017, pp. 11–13)]]
 
 ---
 
@@ -253,7 +257,7 @@ updated: 2026-11-19
 > | **微观地位与会议病理命题** | 地位特权固化与会议工业复合体抽干智力，导致实干人才逆向流失 | 大型跨国公司、官僚化研究机构、传统防卫型企业 | [[Alexander Karp\|Karp, A. C.]] & [[Nicholas Zamiska\|Zamiska, N. W.]] |
 > | **顺从文化与平庸之恶批判命题** | 制度性偏好唯命是从与礼貌合规，压制[[Constructive Disobedience\|建设性不服从]]并诱发平庸之恶与灾难性失明 | 航天安全审查、危机应对指挥、前沿技术攻坚 | [[Alexander Karp\|Karp, A. C.]] & [[Nicholas Zamiska\|Zamiska, N. W.]] |
 > | **公共采办定制垄断批判命题** | [[Red Tape\|繁文缛节]]与避险自保割裂开发者—用户连接，造成天量浪费与战备脱节 | 国防采办改革、政府采购现代化、[[Commercial Off-The-Shelf\|商用现货]]准入 | Glenn, J.; [[Alexander Karp\|Karp, A. C.]] & [[Nicholas Zamiska\|Zamiska, N. W.]] |
-> | **多理性网络科层失灵命题** | 揭示单中心科层指令在多重理性网络中的失能，论证向间接操纵治理范式转型的必然性 | 比较公共行政、高等教育体制改革、复杂政策网络协调 | [[Argument_Kickert_1995_Governance\|Kickert (1995)]] |
+> | **多理性网络科层失灵命题** | 揭示单中心科层指令在多重理性网络中的失能，论证向间接操纵与横向网络协商治理范式转型的必然性 | 比较公共行政、高等教育体制改革、跨国次区域治理网络协调 | [[Argument_Kickert_1995_Governance\|Kickert (1995)]]; [[Argument_Dang_2017_ORE\|Dang (2017)]] |
 > | **国际官僚自主性命题** | 揭示常任秘书处凭借统计测评技术垄断从协商论坛演进为自主政策行动者 | 超国家组织治理、跨国教育指标开发、经合组织常任秘书处职能扩张 | Henry et al.; [[Fazal Rizvi\|Rizvi, F.]]; [[Bob Lingard\|Lingard, B.]] |
 > | **网络与部落治理侵蚀命题** | 揭示公立教育去科层化改革反致网络与部落治理，以商业保密为盾牌架空法定代议制民主问责 | 公共教育现代化、私有化合同外包、教育管理组织（EMO）治理 | [[John O'Neill\|O'Neill et al. (2016)]]; Thompson, G. (1991) |
 > | **科层扩张与平民化命题** | 现代国家预算与科层人员膨胀促成行政平民化，诱发多语种帝国语言冲突 | 19世纪国家建设、奥匈帝国科层史、官僚语言政治 | [[Benedict Anderson]] |
@@ -322,7 +326,7 @@ updated: 2026-11-19
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Max Weber]] | 人物 | 古典社会学奠基人，确立现代法理型理性科层制理想型。 |
+> | [[Max Weber]] | 人物 | 古典社会学开创者，确立现代法理型理性科层制理想型。 |
 > | [[Benedict Anderson]] | 人物 | 考证19世纪欧洲公共科层扩张、管理平民化与语言民族主义博弈的历史学者。 |
 > | [[Alexander Karp]] | 人物 | 从实战工程治理视角对防卫型科层制与会议工业复合体展开批判的企业家与思想家。 |
 > | [[Nicholas Zamiska]] | 人物 | 与卡普合著《技术共和国》，系统论述打破科层桎梏与重塑工程治理。 |
@@ -342,3 +346,4 @@ updated: 2026-11-19
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 历史考证经合组织常任秘书处从协商论坛演进为具有独立议程的国际官僚机构。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 从实战工程治理视角对防卫型科层制展开系统批判，剖析中介阻滞、会议工业复合体与采办定制垄断。
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 剖析韦伯式科层指令在多重理性政策网络中的失灵，阐述荷兰高校转向间接远距离操纵的治理范式重塑。
+> - [[Argument_Dang_2017_ORE|Dang (2017)]] — 考察东亚高等教育治理实践，揭示跨国多中心横向协商网络在缺乏常设科层官僚总署情境下的替代性协调功能（pp. 11–13）。

@@ -8,7 +8,7 @@ aliases:
 summary: "指依托现代信息通信技术开展纯线上或混合式高等教育教学、跨国学位授予与课程特许经营的高等教育机构形态，它打破了实体校园的地理边界，但同时也引发了学术商品化、文凭去脉络化以及大学公共民主职能流失的深刻危机。"
 type: concept
 domain: "higher-education"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -49,10 +49,11 @@ related_facts:
   - "[[World Trade Organization]]"
 related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
+  - "[[Argument_Dang_2017_ORE]]"
 confidence: medium
 status: draft
 created: 2026-09-29
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -111,6 +112,9 @@ updated: 2026-11-15
 > [!claim] [[Robert Arnove|Arnove, R.]] F.
 > **跨国教育特许经营的不平等交换** 虚拟大学作为[[Time-Space Compression|时空压缩]]的极端产物，实质上复制了中心国家对边缘国家的文化与经济依附关系；中心大都市大学凭借品牌特许跨国吸纳高额学费，而受援国学生所获得的文凭往往与本土产业发展需求脱节，沦为全球教育不平等交换的新形式。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 112)]]
 
+> [!claim] [[Argument_Dang_2017_ORE|Dang (2017)]]
+> **区域教育外交与网络大学辐射** 在东亚次区域合作框架下，虚拟大学不仅充当跨国资本与教育服务的载体，也是国家实施教育外交的战略机制。韩国牵头设立东盟—韩国网络大学（ASEAN-Korea Cyber University），依托自身信息技术基建与数字教育服务优势向东南亚输出数字高教资源，通过拓展区域教育市场和培育中下层青年群体的文化亲和力，服务于国家的软实力与区域地缘战略目标。[[Argument_Dang_2017_ORE|(Dang, 2017, p. 12)]]
+
 ---
 
 > [!concept-proposition] 命题二｜实体校园与公共空间的消解削弱了大学培育批判公民与民主制衡的公共职能
@@ -127,7 +131,7 @@ updated: 2026-11-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **资本积累与空间去地域化** | 阐明虚拟大学如何借助电信技术与特许协议突破国家边界，实现全球高等教育服务的商业化套利 | 跨国在线学位教育、离岸高等教育办学、[[GATS and Trade in Education Services\|教育服务贸易]]研究 | Castells, M.; Arnove, R. F. |
+> | **资本积累与空间去地域化** | 阐明虚拟大学如何借助电信技术与特许协议突破国家边界，实现全球高等教育服务的商业化套利与区域教育外交拓展 | 跨国在线学位教育、离岸高等教育办学、[[GATS and Trade in Education Services\|教育服务贸易]]与区域教育合作研究 | Castells, M.; Arnove, R. F.; Dang, Q. T. |
 > | **民主批判性与公共性流失** | 揭示实体学术共同体消解对大学批判公共功能、国民认同塑造与民主公民培养的深远负面影响 | 高等教育公共性反思、大学与国家关系、数字化教育[[Alienation\|异化]]批评 | Edwards, R.; Arnove, R. F. |
 
 ---
@@ -148,5 +152,20 @@ updated: 2026-11-15
 
 ---
 
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Network Society]] | 理论 | 网络社会理论阐明瞬时数字通信技术对高等教育空间边界的解构与重组。 |
+> | [[Hegemony]] | 理论 | 霸权理论用于批判跨国虚拟大学对西方单一语言与知识范式的依附输出。 |
+> | [[Transnational Education]] | 概念 | 跨国高等教育构成了虚拟大学跨境提供学位与特许办学的制度场域。 |
+> | [[Distance Education]] | 概念 | 远程教育是虚拟大学依托现代通信技术实现的教学组织历史前身。 |
+> | [[Knowledge-Based Economy]] | 概念 | 知识经济确立了虚拟大学将知识服务商品化并进行跨国资本积累的宏观背景。 |
+> | [[Online Education]] | 概念 | 在线教育是虚拟大学开展课程交付与师生远程互动的基础形态。 |
+> | [[Peer Debriefing]] | 方法 | 同行审议在虚拟办学流水线化中被边缘化，反映学术共同体实体交往的瓦解。 |
+
+---
+
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 探讨[[Time-Space Compression|时空压缩]]背景下虚拟大学与跨国特许经营协议的兴起，反思其对民族国家文化认同与大学传统民主公共职能的深层侵蚀。
+> - [[Argument_Dang_2017_ORE|Dang (2017)]] — 结合东盟—韩国网络大学（ASEAN-Korea Cyber University）实践，揭示中等强国如何利用信息技术优势依托虚拟大学开展教育外交、拓展区域生源市场并培育文化亲和力（p. 12）。

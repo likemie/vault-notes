@@ -8,16 +8,34 @@ aliases:
 summary: "指将理性活动限定于计算和优化达成既定目标的有效手段，而悬置对目标本身合理性与伦理价值进行反思的认知取向；在课程与教育中将思维活动降格为服务于劳动力市场与绩效考核的封闭解题技能，维系既有社会分层与权力再生产"
 type: concept
 domain: "educational-philosophy"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/educational-philosophy
   - theme/instrumental-rationality
   - theme/curriculum
   - theme/critical-thinking
   - theme/stratification
+related_concepts:
+  - "[[Technical Rationality]]"
+  - "[[Narcissistic Rationality]]"
+  - "[[Sacred and Profane Knowledge]]"
+  - "[[Curricular Form]]"
+  - "[[Critical Thinking]]"
+related_theories:
+  - "[[Bernstein's Theory of Pedagogic Codes]]"
+related_methods: []
+related_instruments: []
+related_persons:
+  - "[[Michael W. Apple]]"
+  - "[[Basil Bernstein]]"
+  - "[[Max Weber]]"
+related_facts: []
+related_arguments:
+  - "[[Argument_Lim_2015_CurricInq]]"
+  - "[[Argument_Dang_2017_ORE]]"
 confidence: high
 status: draft
 created: 2026-11-19
@@ -97,7 +115,7 @@ updated: 2026-11-19
 ---
 
 > [!dev-timeline] 概念演变
-> - **1920s — 社会学理论奠基** 马克斯·韦伯系统界定目的理性与价值理性，揭示现代官僚科层体制中手段计算对实质价值的压制。
+> - **1920s — 社会学理论确立** 马克斯·韦伯系统界定目的理性与价值理性，揭示现代官僚科层体制中手段计算对实质价值的压制。
 > - **1947 — 法兰克福学派批判** 霍克海默出版《理性的蚀变》，深刻剖析启蒙理性退化为征服自然与控制人群的工具理性过程。
 > - **1970–1980s — 批判课程理论引入** 迈克尔·阿普尔（Michael W. Apple）与让·阿尼昂（Jean Anyon）将工具理性引入学校知识分析，揭示工薪阶层学校课程如何将知识工具化以配合资本主义劳动分工。
 > - **2015 — 亚洲思维课程实证** Lim & Apple 对比新加坡主流与精英学校，实证揭示官方倡导的批判性思维在平民学校如何被异化为迎合统考与劳动力市场的工具理性。[[Argument_Lim_2015_CurricInq|(Lim & Apple, 2015, pp. 473–482)]]
@@ -107,6 +125,7 @@ updated: 2026-11-19
 > [!tension|notitle] 核心张力
 > - **工具理性（外在适应与交换价值）** 知识被定性为完成外在任务的技术工具，强调向外迎合既定规范与劳动力市场雇主需求，培养顺从指令但缺乏深度反思的世俗劳动力。[[Argument_Lim_2015_CurricInq|(Lim & Apple, 2015, p. 481)]]
 > - **自恋理性（内在自足与崇高天职）** 知识被奉为内在自足的崇高追求，强调向内审视自身的思维品质，思维活动被内化为一种精神特权，涵育出强烈的精英自信与统治主体意识。[[Argument_Lim_2015_CurricInq|(Lim & Apple, 2015, p. 484)]]
+> - **工具理性（后果逻辑与利益算计） vs 价值理性（适当性逻辑与规范遵循）** 国际合作与区域治理中，行动主体的动力究竟源自物质收益最大化的理性算计，还是对共同准则与集体身份的价值认同。[[Argument_Dang_2017_ORE|Dang (2017)]] 考察东亚高等教育区域合作指出，单纯依赖工具理性的物质利益算计难以维系持久稳定的多边合作，必须依靠常态化协商网络实现向价值理性和共同体规范遵循的转变。[[Argument_Dang_2017_ORE|(Dang, 2017, pp. 11–13)]]
 
 > [!warning|limits] 适用局限
 > 工具理性分析适用于揭示标准化测验与功利导向下知识学习异化的机制，但不宜将一切实用性专业技能与程序性知识的学习均简单判定为意识形态规训。[[Argument_Lim_2015_CurricInq|(Lim & Apple, 2015, p. 486)]]
@@ -125,8 +144,10 @@ updated: 2026-11-19
 > | [[Bernstein's Theory of Pedagogic Codes]] | 理论 | 解释工具理性赖以生成的弱分类强框架教学代码理论。 |
 > | [[Michael W. Apple]] | 人物 | 批判课程研究中剖析教育知识工具化与劳动力再生产的核心学者。 |
 > | [[Basil Bernstein]] | 人物 | 提供分类与框架分析工具揭示工具理性符号控制机制的社会学家。 |
+> | [[Max Weber]] | 人物 | 界定目的理性与价值理性基础概念的经典社会学家。 |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Lim_2015_CurricInq|Lim and Apple (2015)]] — 实证揭示新加坡主流邻里中学通过融入式课程与强框架教学将思维训练异化为套用标准答案的工具理性。
+> - [[Argument_Dang_2017_ORE|Dang (2017)]] — 结合东亚高教次区域合作演进，阐释国家行动逻辑由早期工具理性的物质利益算计向价值理性的共同体规范遵循之跨越（pp. 11–13）。
