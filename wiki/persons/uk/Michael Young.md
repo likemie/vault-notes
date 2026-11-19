@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 6
+person_related_count: 7
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Powerful Knowledge]]"
   - "[[Educational Affordances]]"
+  - "[[Community of Inquiry]]"
   - "[[Constructivist Paradigm]]"
   - "[[Recontextualization]]"
 related_theories:
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-07
-updated: 2026-10-22
+updated: 2026-11-19
 ---
 
 ---
@@ -53,7 +54,7 @@ updated: 2026-10-22
 > [!tip] 知识与经验的区分
 > Young (2010) 强调教育者必须区分知识与经验。知识是经过学科检验的、系统化的认知成果，而经验是个体的、情境化的感知。将两者混淆会导致课程设计中知识的边缘化（引自 McPhail et al., 2023）。
 
-> [!tip] 探究社区
+> [!tip] [[Community of Inquiry|探究社区]]
 > Young (2020) 提出，学生应当通过成为学科「探究社区」（communities of enquiry）的成员来发展与知识的关系，最初作为非常初级的成员，与教师和高年级学生一起参与探究。这一观点强调了知识习得的社会性和渐进性（引自 McPhail et al., 2023）。
 
 > [!tip] 回归知识

@@ -7,7 +7,7 @@ aliases:
 summary: "知识的创造、建构与合法化过程。在宏观治理与地缘场域揭示资本偏向、跨国指标自指性、国家教育督导对单一范式知识的行政建构与清洗，以及大国脱钩对知识策源地地位的冲击；在微观教学场域指向学习者在协商共同体中依托证据协调自主生成新知并内化审议价值。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 156
+related_count: 157
 related_level: 15
 related_stars: "💎💎💎💎💎"
 related_color: "#ddd6fe"
@@ -64,6 +64,7 @@ related_concepts:
   - "[[Robot Scientist]]"
   - "[[Pilot Scale Platform]]"
   - "[[Technology Readiness Level]]"
+  - "[[Community of Inquiry]]"
   - "[[Reflective Structuration]]"
   - "[[Theory of Knowledge]]"
   - "[[Metacognition]]"
@@ -339,7 +340,7 @@ updated: 2026-11-19
 
 ---
 
-> [!concept-proposition] 命题八｜探究共同体中的社会化知识生产是促发深层概念转变与[[Epistemic Agency|认识能动性]]的关键路径
+> [!concept-proposition] 命题八｜[[Community of Inquiry|探究共同体]]中的社会化知识生产是促发深层概念转变与[[Epistemic Agency|认识能动性]]的关键路径
 > **认知建构与自主生成** 探讨学生直接被动接收结论与亲身参与证据协商在促发概念深层重构上的机制差异。
 
 > [!claim] [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]]

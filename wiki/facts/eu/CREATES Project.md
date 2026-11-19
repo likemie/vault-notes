@@ -10,7 +10,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Formative Assessment]]"
   - "[[Creativity]]"
   - "[[Academic Engagement]]"
+  - "[[Community of Inquiry]]"
   - "[[Wicked Problem]]"
 related_theories:
   - "[[Creative Problem Solving]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -115,7 +116,7 @@ updated: 2026-11-11
 
 > [!finding-cards] 核心实证结论
 > - **打破评价黑箱并显著提升高阶认知投入** 实证反馈表明，参与量规共创的学生展现出更强的元认知监控能力，对复杂问题的批判性剖析与创新解决深度明显优于传统对照课堂。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 8)]]
-> - **重塑平等包容的微观课堂权力关系** 评价共创消解了教师单向评判所带来的焦虑与被动依从，构建了更加开放透明的探究共同体氛围。
+> - **重塑平等包容的微观课堂权力关系** 评价共创消解了教师单向评判所带来的焦虑与被动依从，构建了更加开放透明的[[Community of Inquiry|探究共同体]]氛围。
 > - **示范财政激励型教改工具的辐射潜能** [[Argument_Bouckaert_2023_OECD|Bouckaert (2023, p. 8)]] 将其定性为欧盟利用财政资助孵化前沿评价技术的典型代表案例，有效示范了如何跨越国家界限协同破解高教质量深水区改革难题。
 
 > [!stat-cards]- 关键实证数据

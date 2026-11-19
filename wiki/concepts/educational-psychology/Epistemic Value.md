@@ -6,7 +6,7 @@ aliases:
 summary: "在认识论认知模型中，个体对特定认识成就（如深层机制理解、理论建构或实操技巧）所赋予的相对主观价值与意义评估，决定了探究资源与认知努力的分配。"
 type: concept
 domain: "educational-psychology"
-related_count: 16
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,15 +17,18 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Epistemic Aims]]"
   - "[[Presence]]"
+  - "[[The Interesting]]"
+  - "[[Sense of the Game]]"
   - "[[Alienation]]"
+  - "[[Learning Strategies]]"
   - "[[Epistemic Agency]]"
   - "[[Student Engagement]]"
   - "[[Disciplina and Doctrina]]"
   - "[[STEM Education]]"
   - "[[Axiology]]"
   - "[[Epistemic Cognition]]"
-  - "[[Learning Strategies]]"
   - "[[Variable]]"
+  - "[[Community of Inquiry]]"
   - "[[Pragmatic Paradigm]]"
 related_persons:
   - "[[Clark A. Chinn]]"
@@ -36,7 +39,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -64,7 +67,7 @@ updated: 2026-11-15
 > | 维度 | [[Epistemic Value]]（认识论价值） | 工具性实用价值（Utility Value） | 内在兴趣价值（Intrinsic / Interest Value） |
 > |---|---|---|---|
 > | 关注重心 | 认识成就（真理、理解、机制）的重要性 | 知识转化为外部奖励或现实利益的效用 | 探索过程本身带来的心理愉悦与[[Presence\|沉浸感]] |
-> | 评价标尺 | 知识对解释世界与消除无知的知性贡献 | 成绩、认证、职业准入、现实功利回报 | 趣味性、游戏感、好奇心满足 |
+> | 评价标尺 | 知识对解释世界与消除无知的知性贡献 | 成绩、认证、职业准入、现实功利回报 | [[The Interesting\|趣味性]]、[[Sense of the Game\|游戏感]]、好奇心满足 |
 > | 对探究的影响 | 引导个体承担认知负荷以换取深层解释 | 催生表面应试与最低限度记忆策略 | 激发自发探索，但在面临挫折时易发生转移 |
 
 ---
@@ -74,7 +77,7 @@ updated: 2026-11-15
 > - **学科文化的价值分歧（Disciplinary Cultural Values）** 不同的学术亚文化赋予不同认识成果以差[[Alienation|异化]]的价值定位（例如理论物理高度崇尚数学简洁性，而化学实验科学极度看重实验台上的“好手艺”实操技能）。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, p. 146)]]
 > - **重大真理 vs 琐碎事实的价值层级（Significant Truth vs Trivial Facts）** 科学哲学强调有别于所有真信念都具备同等价值；揭示普遍规律与因果机制的“重大真理”被赋予极高认识论价值，而孤立数据与琐碎事实的记忆价值极低。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, p. 145)]]
 
-> [!logic-map]- 认识论价值对认知策略投入的调节模型
+> [!logic-map]- 认识论价值对[[Learning Strategies|认知策略]]投入的调节模型
 > ```mermaid
 > flowchart LR
 >     A["探究情境触发"] --> B["评估认识成就的认识论价值<br>Epistemic Value"]
@@ -114,7 +117,7 @@ updated: 2026-11-15
 > [!dev-timeline] 概念演变
 > - **1986–2003 — 哲学[[Axiology\|价值论]]探讨** Goldman (1986) 与 Kvanvig (2003) 探讨重大真理与深层理解在[[Epistemology\|认识论]]中的内在价值，确立了认识论价值作为认知哲学范畴的合法性。
 > - **2011 — 纳入扩展[[Epistemic Cognition\|认识论认知]]构件** Chinn 等学者将认识论价值与[[Epistemic Aims\|认识目标]]结合并列，作为解释[[Learning Strategies|学习策略]]选择与学科文化差异的关键心理与哲学[[Variable\|变量]]。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011)]]
-> - **2014至今 — 与科学实践及[[Epistemic Agency\|认识主体性]]融合** 认识论价值逐渐与学科探究共同体协商、科学建模实践及培育边缘群体的认识主体性深度融合，成为科学文化育人的重要视角。
+> - **2014至今 — 与科学实践及[[Epistemic Agency\|认识主体性]]融合** 认识论价值逐渐与学科[[Community of Inquiry|探究共同体]]协商、科学建模实践及培育边缘群体的认识主体性深度融合，成为科学文化育人的重要视角。
 
 ---
 

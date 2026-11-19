@@ -297,6 +297,8 @@
     "Agata Wojciuk et al., 2015": "Agata Wojciuk et al., 2015",
     "Agbenyega et al. (2023)": "Agbenyega et al., 2023",
     "Agbenyega et al., 2023": "Agbenyega et al., 2023",
+    "Ager (2005)": "Ager, 2005",
+    "Ager, 2005": "Ager, 2005",
     "Aghion & Howitt (1992)": "Aghion & Howitt, 1992",
     "Aghion & Howitt, 1992": "Aghion & Howitt, 1992",
     "Aghion et al. (2015)": "Aghion et al., 2015",
@@ -448,6 +450,8 @@
     "Alan Jacobs, 2009": "Alan Jacobs, 2009",
     "Alasdair MacIntyre (2007)": "Alasdair MacIntyre, 2007",
     "Alasdair MacIntyre, 2007": "Alasdair MacIntyre, 2007",
+    "Alatas (2024)": "Alatas, 2024",
+    "Alatas, 2024": "Alatas, 2024",
     "Albanese & Mitchell (1993a)": "Albanese & Mitchell, 1993a",
     "Albanese & Mitchell (1993b)": "Albanese & Mitchell, 1993b",
     "Albanese & Mitchell, 1993": "Albanese & Mitchell, 1993a",
@@ -5220,6 +5224,8 @@
     "Coleman, 1990": "Coleman, 1990",
     "Coleman, 1991": "Coleman, 1991",
     "Coleman, 2009": "Coleman, 2009",
+    "Colin Ager (2005)": "Colin Ager, 2005",
+    "Colin Ager, 2005": "Colin Ager, 2005",
     "College of Policing (2016)": "College of Policing, 2016",
     "College of Policing, 2016": "College of Policing, 2016",
     "Collier & Morgan (2008)": "Collier & Morgan, 2008",
@@ -10559,6 +10565,8 @@
     "Hanushek, 2005": "Hanushek, 2005",
     "Hao et al. (2021)": "Hao et al., 2021",
     "Hao et al., 2021": "Hao et al., 2021",
+    "Harald Haarmann (1990)": "Harald Haarmann, 1990",
+    "Harald Haarmann, 1990": "Harald Haarmann, 1990",
     "Haraway (2016)": "Haraway, 2016",
     "Haraway, 2016": "Haraway, 2016",
     "Harbison & Myers (1964)": "Harbison & Myers, 1964",
@@ -14390,6 +14398,8 @@
     "Lamb, 1986": "Lamb, 1986",
     "Lambert & Barley (2001)": "Lambert & Barley, 2001",
     "Lambert & Barley, 2001": "Lambert & Barley, 2001",
+    "Lambert (1975)": "Lambert, 1975",
+    "Lambert, 1975": "Lambert, 1975",
     "Lamont & Lareau (1988)": "Lamont & Lareau, 1988",
     "Lamont & Lareau, 1988": "Lamont & Lareau, 1988",
     "Lamont & Molnár (2002)": "Lamont & Molnár, 2002",
@@ -15278,7 +15288,9 @@
     "Linn, 2006": "Linn, 2006",
     "Linn, 2015": "Linn, 2015",
     "Linn, 2016": "Linn, 2016",
+    "Lipman (1991)": "Lipman, 1991",
     "Lipman (2003)": "Lipman, 2003",
+    "Lipman, 1991": "Lipman, 1991",
     "Lipman, 2003": "Lipman, 2003",
     "Lippitt & White (1939)": "Lippitt & White, 1939",
     "Lippitt & White, 1939": "Lippitt & White, 1939",
@@ -26192,6 +26204,8 @@
     "Walkowiak (2007)": "Walkowiak, 2007",
     "Walkowiak, 2007": "Walkowiak, 2007",
     "Wallace (1989)": "Wallace, 1989",
+    "Wallace Lambert (1975)": "Wallace Lambert, 1975",
+    "Wallace Lambert, 1975": "Wallace Lambert, 1975",
     "Wallace, 1989": "Wallace, 1989",
     "Wallas (1926)": "Wallas, 1926",
     "Wallas, 1926": "Wallas, 1926",
@@ -28000,6 +28014,8 @@
     "influential philosopher Tingyang Zhao, 2021": "influential philosopher Tingyang Zhao, 2021",
     "interpretive analysis followed Yanow’s (2000)": "interpretive analysis followed Yanow’s, 2000",
     "interpretive analysis followed Yanow’s, 2000": "interpretive analysis followed Yanow’s, 2000",
+    "is adapted from Mathew Lipman’s (2003)": "is adapted from Mathew Lipman’s, 2003",
+    "is adapted from Mathew Lipman’s, 2003": "is adapted from Mathew Lipman’s, 2003",
     "jules & Salajan (2024)": "jules & Salajan, 2024",
     "jules & Salajan, 2024": "jules & Salajan, 2024",
     "latter corroborates Kvernbekk's (2016)": "latter corroborates Kvernbekk's, 2016",
@@ -30946,6 +30962,21 @@
       ],
       "title": ""
     },
+    "Ager, 2005": {
+      "aliases": [
+        "Ager, 2005",
+        "Ager (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ager, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-policy-reform/Prestige Planning.md"
+      ],
+      "title": ""
+    },
     "Aghion & Howitt, 1992": {
       "aliases": [
         "Aghion & Howitt, 1992",
@@ -31998,6 +32029,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/educational-policy-reform/Pluralism.md"
+      ],
+      "title": ""
+    },
+    "Alatas, 2024": {
+      "aliases": [
+        "Alatas, 2024",
+        "Alatas (2024)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Alatas, 2024"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/singapore/Syed Farid Alatas.md"
       ],
       "title": ""
     },
@@ -67035,6 +67081,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "The role of specialized intervention programs in improving academic performance outcomes in at-risk middle school students"
+    },
+    "Colin Ager, 2005": {
+      "aliases": [
+        "Colin Ager, 2005",
+        "Colin Ager (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Colin Ager, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-policy-reform/Prestige Planning.md"
+      ],
+      "title": ""
     },
     "College of Policing, 2016": {
       "aliases": [
@@ -106196,6 +106257,21 @@
       "seen_in": [],
       "title": "Technology-assisted vocabulary learning for EFL learners: A meta-analysis."
     },
+    "Harald Haarmann, 1990": {
+      "aliases": [
+        "Harald Haarmann, 1990",
+        "Harald Haarmann (1990)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Harald Haarmann, 1990"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-policy-reform/Prestige Planning.md"
+      ],
+      "title": ""
+    },
     "Haraway, 2016": {
       "aliases": [
         "Haraway, 2016",
@@ -123615,6 +123691,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md",
         "wiki/concepts/comparative-education/Policy Translation.md",
+        "wiki/concepts/educational-policy-reform/Prestige Planning.md",
         "wiki/methods/qualitative/Analytic Framework.md",
         "wiki/theories/educational-policy-reform/Kaplan and Baldauf's Language-in-Education Planning Framework.md"
       ],
@@ -128384,7 +128461,8 @@
       ],
       "isbn": "9789888028788",
       "seen_in": [
-        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md"
+        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md",
+        "wiki/concepts/curriculum/Additive Bilingualism.md"
       ],
       "title": "English as a lingua franca in ASEAN: A multilingual model"
     },
@@ -133909,6 +133987,22 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Paideia/Argument_Fredens_2015_Paideia.md"
+      ],
+      "title": ""
+    },
+    "Lambert, 1975": {
+      "aliases": [
+        "Lambert, 1975",
+        "Lambert (1975)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Lambert, 1975"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md",
+        "wiki/concepts/curriculum/Additive Bilingualism.md"
       ],
       "title": ""
     },
@@ -140340,6 +140434,21 @@
       ],
       "title": ""
     },
+    "Lipman, 1991": {
+      "aliases": [
+        "Lipman, 1991",
+        "Lipman (1991)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Lipman, 1991"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/Matthew Lipman.md"
+      ],
+      "title": ""
+    },
     "Lipman, 2003": {
       "aliases": [
         "Lipman, 2003",
@@ -140351,7 +140460,8 @@
       ],
       "isbn": "9780521012256",
       "seen_in": [
-        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md",
+        "wiki/concepts/instruction-pedagogy/Community of Inquiry.md"
       ],
       "title": "Thinking in Education"
     },
@@ -156379,7 +156489,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
-        "wiki/concepts/educational-philosophy/Pluriverse.md"
+        "wiki/concepts/educational-philosophy/Pluriverse.md",
+        "wiki/persons/singapore/Syed Farid Alatas.md"
       ],
       "title": "The intellectual biography of Syed Farid Alatas: Hegemonic orientations, epistemic decolonisation and the School of Autonomous Knowledge"
     },
@@ -168253,7 +168364,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md"
+        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md",
+        "wiki/persons/singapore/Anne Pakir.md"
       ],
       "title": "The range and depth of English-knowing bilinguals in Singapore"
     },
@@ -168267,7 +168379,9 @@
         "Pakir, 1999"
       ],
       "isbn": "9780878401321",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/persons/singapore/Anne Pakir.md"
+      ],
       "title": "Bilingual education with English as an official language: Sociocultural implications"
     },
     "Pakir, 2008": {
@@ -168281,7 +168395,8 @@
       ],
       "isbn": "9789810817756",
       "seen_in": [
-        "wiki/concepts/educational-policy-reform/Standard Language Ideology.md"
+        "wiki/concepts/educational-policy-reform/Standard Language Ideology.md",
+        "wiki/persons/singapore/Anne Pakir.md"
       ],
       "title": "English as a lingua franca: Negotiating Singapore’s English language education"
     },
@@ -178181,6 +178296,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
+        "wiki/concepts/educational-philosophy/Khwan.md",
         "wiki/concepts/educational-philosophy/Tri Hita Karana.md"
       ],
       "title": "The Khwan and its ceremonies"
@@ -219751,6 +219867,21 @@
       "seen_in": [],
       "title": "Longitudinal academic growth and the kindergarten schedule"
     },
+    "Wallace Lambert, 1975": {
+      "aliases": [
+        "Wallace Lambert, 1975",
+        "Wallace Lambert (1975)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Wallace Lambert, 1975"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/curriculum/Additive Bilingualism.md"
+      ],
+      "title": ""
+    },
     "Wallace, 1989": {
       "aliases": [
         "Wallace, 1989",
@@ -231011,7 +231142,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md"
+        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md",
+        "wiki/concepts/educational-policy-reform/Prestige Planning.md"
       ],
       "title": "The home language shift and its implications for language planning in Singapore: From the perspective of prestige planning"
     },
@@ -232625,6 +232757,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/methods/qualitative/Interpretive Policy Analysis.md"
+      ],
+      "title": ""
+    },
+    "is adapted from Mathew Lipman’s, 2003": {
+      "aliases": [
+        "is adapted from Mathew Lipman’s, 2003",
+        "is adapted from Mathew Lipman’s (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "is adapted from Mathew Lipman’s, 2003"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/Matthew Lipman.md"
       ],
       "title": ""
     },

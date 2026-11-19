@@ -9,9 +9,9 @@ summary: "通过识别行动者、关系、节点和连接来测量社会与学�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 69
-method_related_level: 6
-method_related_stars: "💎💎"
+method_related_count: 70
+method_related_level: 7
+method_related_stars: "💎💎⭐"
 method_related_color: "#fef3c7"
 cssclasses:
   - method-manual
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Theory of Knowledge]]"
   - "[[Research Question]]"
+  - "[[Community of Inquiry]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Boundary Spanner]]"
   - "[[Structural Holes]]"
@@ -137,7 +138,7 @@ updated: 2026-11-19
 ---
 
 > [!proc] 通用研究规程
-> 1. **界定[[Research Question|研究问题]]与网络边界** 明确分析对象为班级探究共同体、学校教研网络、学科合著网络还是跨国[[Educational Brokerage Agency|知识中介机构]]网络，采用名录列表法（Roster）或自由提名滚雪球法确定网络边界。
+> 1. **界定[[Research Question|研究问题]]与网络边界** 明确分析对象为班级[[Community of Inquiry|探究共同体]]、学校教研网络、学科合著网络还是跨国[[Educational Brokerage Agency|知识中介机构]]网络，采用名录列表法（Roster）或自由提名滚雪球法确定网络边界。
 > 2. **确定关系形式与内容维度** 明确连接的实质内容：观点回应、同行建议寻求、联合署名、资源共享、政策咨询或情感支持；界定有向（Directed）或无向（Undirected）、二元（0/1）或赋权（Weighted）连接。
 > 3. **构建关系矩阵与清洗数据** 将收集的关系[[Data Transformation|数据转换]]为 $N \times N$ 的邻接矩阵，处理对称性与缺失节点。
 > 4. **计算网络拓扑测度** 计算网络整体密度、传递性、各节点度数与中介中心度，探测子群聚类。

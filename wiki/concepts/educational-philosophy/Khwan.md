@@ -9,6 +9,10 @@ aliases:
 summary: "源自泰国原住民传统与泛灵论宇宙观的生命精神哲学构念，强调个体生命身心与精神元魄（Khwan）的紧密维系，以及依托社群安魂仪式维系集体连带与人际关照；在比较教育与去殖民区域治理视阈中，作为体现东南亚本土关怀伦理与精神照护的替代性认知系统，抵抗新自由主义高教的功利超竞争与情感疏离"
 type: concept
 domain: "educational-philosophy"
+related_count: 23
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 concept_field: "educational-philosophy"
 tags:
   - concept/educational-philosophy
@@ -18,16 +22,25 @@ tags:
   - theme/relational-ontology
 related_concepts:
   - "[[Construct]]"
-  - "[[Sejahtera]]"
-  - "[[Kapwa]]"
-  - "[[Tri Hita Karana]]"
-  - "[[Papuan Social Ecology]]"
-  - "[[Pluriverse]]"
+  - "[[Alienation]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
-  - "[[Epistemic Coloniality]]"
+  - "[[Discourse]]"
+  - "[[Tri Hita Karana]]"
+  - "[[Sejahtera]]"
+  - "[[Knowledge Production]]"
+  - "[[Kapwa]]"
+  - "[[Champ]]"
+  - "[[Grandes Ecoles]]"
+  - "[[Counseling Effects]]"
+  - "[[Paradigm]]"
+  - "[[Local Knowledge in Evidence-Based Policy]]"
+  - "[[Phronesis]]"
   - "[[Neoliberalism]]"
-  - "[[Alienation]]"
+  - "[[Zero-Sum Competition]]"
+  - "[[Papuan Social Ecology]]"
+  - "[[Pluriverse]]"
+  - "[[Epistemic Coloniality]]"
 related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"
 related_methods: []
@@ -54,13 +67,13 @@ updated: 2026-11-19
 > - **边界** 区别于纯粹占卜式巫术迷信；该构念在泰国民众社会中主要发挥着加固家庭伦理、安抚社群创伤与重建人际互信的公共心理功能。
 
 > [!citation-card|notitle] 魂魄哲学与日常关怀伦理
-> 本土认识论去殖民框架具有多元样态。泰国的魂魄（Khwan）哲学将形而上精神信仰融入日常世俗实践，是东南亚本土知识体系将关怀伦理与社群互助置于核心的典型范例。将原住民哲学纳入高等教育学术话语，有助于确立真正反映该区域独特文化规范与价值传统的区域高等教育认同。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, p. 10)]]
+> 本土[[Epistemology|认识论]]去殖民框架具有多元样态。泰国的魂魄（Khwan）哲学将形而上精神信仰融入日常世俗实践，是东南亚本土知识体系将关怀伦理与社群互助置于核心的典型范例。将原住民哲学纳入高等教育学术[[Discourse|话语]]，有助于确立真正反映该区域独特文化规范与价值传统的区域高等教育认同。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, p. 10)]]
 >
 > *This paper acknowledges that these three philosophies are not the only ones that embody the epistemic decolonial framing this work proposes... as well as the Thai khwan philosophy that integrates metaphysical beliefs into daily practice (Rajadhon, 1962) are other examples of localized knowledge systems that center an ethic of care and community. The inclusion of indigenous philosophies in higher educational discourse critically charts regional identities that are reflective of the cultures and norms of that region.*
 
 > [!boundary]- 概念边界
 > - 区别于 [[Tri Hita Karana]] 巴厘岛三界和谐哲学构建了敬神、爱人与护地的宏大宇宙三分法则；泰语 Khwan 哲学更加贴近微观生命个体的身心安顿与日常亲友社群的暖性关爱。
-> - 区别于 [[Sejahtera]] 马来群岛和乐福祉哲学侧重个人身心健康与在地知识生产自立的宏观政策构建；Khwan 依托具体的安魂民俗仪式强化微观人际的情感陪伴与集体抚慰。
+> - 区别于 [[Sejahtera]] 马来群岛和乐福祉哲学侧重个人身心健康与在地[[Knowledge Production|知识生产]]自立的宏观政策构建；Khwan 依托具体的安魂民俗仪式强化微观人际的情感陪伴与集体抚慰。
 > - 区别于 [[Kapwa]] 菲律宾伙伴同胞哲学侧重平等对话与打破新殖民等级威权；Khwan 更加聚焦精神元魄维系与个体生命的内在平衡。
 
 ---
@@ -69,7 +82,7 @@ updated: 2026-11-19
 > | 维度 | Khwan | [[Tri Hita Karana]] | [[Sejahtera]] |
 > |---|---|---|---|
 > | 哲学承载形态 | 生命元魄信念与日常社群安抚仪式 | 敬神、爱人、护地的三维平衡法则 | 身心和谐、生态永续与全人繁荣 |
-> | 实践干预场域 | 微观个体身心安顿与亲友关怀照护 | 村社自治协同与梯田生态秩序协调 | 大学校园生态与宏观教育政策重塑 |
+> | 实践干预[[Champ\|场域]] | 微观个体身心安顿与亲友关怀照护 | 村社自治协同与梯田生态秩序协调 | [[Grandes Ecoles\|大学校]]园生态与宏观教育政策重塑 |
 > | 教育伦理价值 | 缓解学业精神焦虑与克服情感异化 | 注入超越性神圣反思与社群公共德性 | 纠治功利性超生产力与学术依附 |
 
 ---
@@ -94,10 +107,10 @@ updated: 2026-11-19
 ---
 
 > [!concept-proposition] 命题一｜将形而上精神信念融入日常人际关照有助于化解现代大学体制造成的原子化心理危机
-> **本土心理滋养与去殖民学生支持体系** 探讨泰国本土生命哲学如何为重构大学学生心理辅导与社群生活提供非西方化的伦理范式。
+> **本土心理滋养与去殖民学生支持体系** 探讨泰国本土生命哲学如何为重构大学学生[[Counseling Effects|心理辅导]]与社群生活提供非西方化的伦理[[Paradigm|范式]]。
 
 > [!claim] Indrarajah, T.
-> **魂魄哲学作为日常关怀本土智慧的学理价值** 东南亚原住民哲学展现了将精神信念嵌入生活日常的深厚传统。泰语 Khwan 哲学表明，地方知识系统天然蕴含着关爱他人与维护集体心理健康的实践智慧。在现代高等教育深受新自由主义效率指标与排他性竞争困扰的背景下，激活此类关怀哲学有助于大学突破冷冰冰的绩效考核，营造具有文化共鸣与精神温度的育人生态。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, p. 10)]]
+> **魂魄哲学作为日常关怀本土智慧的学理价值** 东南亚原住民哲学展现了将精神信念嵌入生活日常的深厚传统。泰语 Khwan 哲学表明，[[Local Knowledge in Evidence-Based Policy|地方知识]]系统天然蕴含着关爱他人与维护集体心理健康的[[Phronesis|实践智慧]]。在现代高等教育深受[[Neoliberalism|新自由主义]]效率指标与[[Zero-Sum Competition|排他性竞争]]困扰的背景下，激活此类关怀哲学有助于大学突破冷冰冰的绩效考核，营造具有文化共鸣与精神温度的育人生态。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, p. 10)]]
 
 ---
 

@@ -136,7 +136,7 @@ updated: 2026-11-19
 > > - **[[Argument_Hogan_2013_ROE|Hogan et al. (2013)]]** 大规模实证论证 O 水准会考体制奖赏并激励了追求测验分数最大化的教学行为，构筑了阻碍以学习者为中心的教学法转型的根本制度障碍（pp. 58–60, 94–101）。
 
 > [!citation-card] Hogan et al. 论考试导向教学的制度奖赏
-> 教师在微观课堂中展现出的[[Pedagogical Hybridity|教学杂糅]]与以应试为焦点的实践配置，并非由于个体观念落后，而是面对国家[[High-Stakes Testing|高利害评估]]体系所作出的高度理性的制度性调适。制度体制激励了教师追求最大化考试成绩，而非政策文件倡导的[[Inquiry-Based Learning|探究式教学]]。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 58, 101)]]
+> 教师在微观课堂中展现出的[[Pedagogical Hybridity|教学杂糅]]与以应试为焦点的实践配置，直接源于面对国家[[High-Stakes Testing|高利害评估]]体系所作出的高度理性的制度性调适。现行体制持续激励并奖赏了追求最大化考试成绩的教学方式，导致政策文件倡导的[[Inquiry-Based Learning|探究式教学]]难以在实践中推行。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 58, 101)]]
 >
 > *This non-sectarian pragmatism and hybridity reflects the play of powerful vernacular discourses and the complex articulation of instructional practices in response to the national high stakes assessment system.*
 

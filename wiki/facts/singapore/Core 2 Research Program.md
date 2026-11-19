@@ -26,7 +26,6 @@ tags:
 related_concepts:
   - "[[Quality Education]]"
   - "[[Variable]]"
-  - "[[Paradigm]]"
   - "[[Direct Instruction]]"
   - "[[Pedagogical Hybridity]]"
   - "[[Co-regulated Learning]]"
@@ -42,6 +41,7 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Common Method Variance]]"
   - "[[Teaching for Understanding]]"
+  - "[[Paradigm]]"
   - "[[Metacognition]]"
   - "[[High-Stakes Testing]]"
   - "[[Discourse]]"
@@ -92,14 +92,14 @@ updated: 2026-11-19
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2008 年正式立项启动，2010 年完成全国大规模基准多源数据采集，2011 年完成结项与联合建模分析。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, p. 60)]]
-> - **发起方与资助机制** 由新加坡教育部（[[Ministry of Education of the People's Republic of China|MOE]]）委托并全额资助，CRPP 专业科研团队独立主持设计与施测执行。
+> - **发起方与资助机制** 由[[Singapore Ministry of Education|新加坡教育部]]委托并全额资助，CRPP 专业科研团队独立主持设计与施测执行。
 > - **覆盖范围与对象** 抽取新加坡全国 32 所公立中学，涵盖约 120 间中学三年级（Secondary 3）学术班级（普通学术流与快捷流），调查逾 4000 名学生及 120 余名中三数学与英语专职任课教师。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 60–61)]]
 > - **核心问题导向** 应对宏观[[Quality Education|素质教育]]大纲（如过程写作法、探究性学习）与微观课堂应试灌输之间的脱节悬殊，突破以往[[Qualitative Research|质性研究]]样本局限，以大规模潜[[Variable|变量]][[Causal Modeling|因果建模]]确证真实教学逻辑。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 58–60)]]
 
 ---
 
 > [!claim] 核心机制假说
-> 新加坡教师在微观课堂中并非机械执行某一种对立的教学[[Paradigm|范式]]，而是依据绩效最大化原则将传统讲授、[[Direct Instruction|显性直接教学]]与理解教学灵活编织为[[Pedagogical Hybridity|教学杂糅]]形态；这一实践组合受制于国家高利害统考体制的结构性塑造。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 58–60)]]
+> 新加坡教师在微观课堂中依据绩效最大化原则，将传统讲授、[[Direct Instruction|显性直接教学]]与理解教学灵活编织为务实的[[Pedagogical Hybridity|教学杂糅]]形态；这一实践组合受制于国家高利害统考体制的结构性塑造。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 58–60)]]
 
 > [!policy-design] 方案设计
 > - **项目目标** 1. 建立具有全国代表性的中三核心学科（数学与英语）教学实践全景数据库；2. 检验传统教学、直接教学、理解教学与[[Co-regulated Learning|共同调节学习]]四类策略之间的潜变量结构因果路径；3. 评估高利害统一评估体制对教师教学决策与专业信念的制度性影响。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 60–62)]]
@@ -120,12 +120,12 @@ updated: 2026-11-19
 > [!dev-timeline] 项目推进历程
 > - **2008–2009 — 工具研发与先导测试** 建立 230 题教学实践量表与教师专业信念量表，在部分公立中学开展[[Pilot Testing|预测试]]并检验信效度。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 60–62)]]
 > - **2010 — 全国大规模实地数据采集** 深入 32 所中学 120 间中三数学与英语课堂，完成 4000 余名学生分半问卷填答、120 名教师访谈与视频录像采集。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 60–62)]]
-> - **2011–2013 — 全模型分析与政策转化** 运用全潜变量结构方程全模型（SEM）发布系列实证论文，直接为教育部后续中学课程大纲修订与全面科目编班改革提供决策证据支持。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 57, 101–103)]]
+> - **2011–2013 — 全模型分析与政策转化** 运用全潜变量结构方程模型（SEM）完成系统实证建模与成果转化，直接为教育部后续中学课程大纲修订与全面科目编班改革提供决策证据支持。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 57, 101–103)]]
 
 ---
 
 > [!actor-grid] 实施协同矩阵
-> - **资助与监督方** 新加坡教育部（MOE），提供[[Congressional Earmarks|科研专项拨款]]与学校准入行政协调。
+> - **资助与监督方** 新加坡教育部（[[Ministry of Education of the People's Republic of China|MOE]]），提供[[Congressional Earmarks|科研专项拨款]]与学校准入行政协调。
 > - **研发与数据中心** 新加坡国立教育学院教育研究中心（CRPP），负责整体抽样、问卷研发、考务实测、测量模型构建与因果建模。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 60–62)]]
 > - **一线执行机构** 32 所样本中学的校长室与教研组，协助安排班级分半问卷填答与现场课堂录像。
 > - **受试对象** 4000 余名中三学生及 120 余名专职学科教师。
@@ -174,7 +174,7 @@ updated: 2026-11-19
 > |:-----|:-----|:-----|
 > | [[Pedagogical Hybridity]] | 概念 | Core 2 项目在实证中最为关键的理论发现，揭示新加坡课堂多流派教学融合形态。 |
 > | [[Direct Instruction]] | 概念 | 项目全模型中承接基础传统教学并驱动高阶理解教学的中介核心构念。 |
-> | [[Teaching for Understanding]] | 概念 | 项目检验的高阶教学范式，实证发现其发生率受到高利害考试的时间挤压。 |
+> | [[Teaching for Understanding]] | 概念 | 项目检验的高阶教学[[Paradigm\|范式]]，实证发现其发生率受到高利害考试的时间挤压。 |
 > | [[Co-regulated Learning]] | 概念 | 项目因果链条终端构件，展现微观课堂中[[Metacognition\|元认知]]与学生主体性发展的现状。 |
 > | [[Teacher Beliefs]] | 概念 | 项目通过教师问卷重点测查的[[High-Stakes Testing\|高利害评估]]制度感知与专业理念冲突构念。 |
 > | [[High-Stakes Testing]] | 概念 | 项目聚焦的核心制度环境自变量，分析其对课堂教学行为的规锁效应。 |

@@ -12,7 +12,7 @@ aliases:
 summary: "由Brown et al. 提出的证据知情学校改进模型，将校内基于数据的决策（DBDM）与校外研究知情教学实践（RITP）整合为八步探究反馈回路；并在证据知情学校系统中确立为防止活动陷阱、依托专业学习共同体检验干预成效的关键迭代引擎。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 46
+related_count: 48
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Effective Teaching]]"
   - "[[Scaffolding]]"
   - "[[Boundary Spanner]]"
+  - "[[Community of Inquiry]]"
   - "[[Alienation]]"
   - "[[Activity Traps]]"
   - "[[Self-Improving School System]]"
@@ -63,6 +64,7 @@ related_methods:
 related_persons:
   - "[[Chris Brown]]"
   - "[[Kim Schildkamp]]"
+  - "[[Charles Taylor]]"
   - "[[Julie Nelson]]"
   - "[[Carol Campbell]]"
   - "[[Jonathan Sharples]]"
@@ -77,7 +79,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-02
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -161,7 +163,7 @@ updated: 2026-11-15
 > **中介领导力与[[Professional Learning Community\|专业学习共同体]]的组织赋能** 探究循环无法靠普通教师自发完成，需要中层领导搭建制度化[[Scaffolding\|脚手架]]与心理安全环境。
 
 > [!claim] Danielle LaPointe-McEwan et al. (2017) / [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] / [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]]
-> **中层领导作为探究催化者** 学校探究循环的推行门槛较高，涉及数据解读、文献批判与教学试验等多重素养。中层领导（如年级组长、教研室主任、教学指导员）是激活探究循环的关键枢纽。他们一方面担任[[Boundary Spanner\|跨界中介者]]，为一线教师提供文献筛选与数据分析的专业支持；另一方面建立定期研讨制度与容错机制，将教师从单兵作战的孤岛状态转变为彼此信赖的探究共同体。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, pp. 129–130)]]
+> **中层领导作为探究催化者** 学校探究循环的推行门槛较高，涉及数据解读、文献批判与教学试验等多重素养。中层领导（如年级组长、教研室主任、教学指导员）是激活探究循环的关键枢纽。他们一方面担任[[Boundary Spanner\|跨界中介者]]，为一线教师提供文献筛选与数据分析的专业支持；另一方面建立定期研讨制度与容错机制，将教师从单兵作战的孤岛状态转变为彼此信赖的[[Community of Inquiry|探究共同体]]。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, pp. 129–130)]]
 
 ---
 
@@ -176,7 +178,7 @@ updated: 2026-11-15
 > [!concept-proposition] 命题四｜探究循环的成效评价环节是防范[[Activity Traps|活动陷阱]]与保障持续改进的制度命门
 > **评价反馈回路机制与抵御[[Activity Traps\|活动陷阱]]** 若探究循环缺乏严格的成效评价协议，频繁的教学尝试将不可避免地退化为忙碌而无效的“活动陷阱”。
 
-> [!claim] [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]]; Datnow, A. & Hubbard, L.; Taylor, C. & Spence-Thomas, K.
+> [!claim] [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]]; Datnow, A. & Hubbard, L.; [[Charles Taylor|Taylor, C.]] & Spence-Thomas, K.
 > **评价断裂与持续改进危机** 探究循环的核心价值在于通过终点阶段的严格成效评价，决定一项新型教学干预是被深化微调、全面铺开还是坚决终止。然而实证调查表明，学校在探究前端展现出极高热情，但在最关键的“评价新举措对学生学习与体验的实质影响”（Evaluation Stage）时却出现明显的制度性断裂（基线调查中仅 67% 的教师确认学校具备正式评价流程，显著低于其他环节）。若教师不严格评估教学变动对学生真实产出的影响，整个持续改进循环就会失控，极易沦为只注重开会和尝试新方法、却缺乏因果反馈机制的[[Activity Traps\|活动陷阱]]。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 130, 132)]]
 
 ---

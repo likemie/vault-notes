@@ -11,7 +11,7 @@ title: "Argument_McPhail_2023_JCS"
 argument_key: "Argument_McPhail_2023_JCS"
 argument_display_title: "Knowledge and the New Zealand curriculum refresh"
 argument_kind: "journal-article"
-argument_related_count: 35
+argument_related_count: 36
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Big Ideas]]"
   - "[[Artefact]]"
   - "[[Epistemic Ascent]]"
+  - "[[Community of Inquiry]]"
 related_theories:
   - "[[Social Realism]]"
   - "[[Curriculum Design Coherence Model]]"
@@ -303,7 +304,7 @@ citation_aliases:
 > **对学习如何发生的忽视**
 > - 课程文件几乎完全忽略了认知科学文献的大量成果（如 Sweller, 2021）
 > - 忽略了认知发展与接触结构化学科知识之间的关系(Geary & Berch, 2016)
-> - [[Michael Young]] (2020) 建议：学生应当通过成为学科「探究社区」（communities of enquiry）的成员来发展与知识的关系，最初作为非常初级的成员，与教师和高年级学生一起参与探究
+> - [[Michael Young]] (2020) 建议：学生应当通过成为学科「[[Community of Inquiry|探究社区]]」（communities of enquiry）的成员来发展与知识的关系，最初作为非常初级的成员，与教师和高年级学生一起参与探究
 > - 我们本期望在 21 世纪的课程中，这些关于知识的认识能够在再脉络化原则以及规约性和教学性话语中得到更明确的体现
 >
 > **新自由主义的延续与转向**

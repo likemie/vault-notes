@@ -4,7 +4,7 @@ title: "Argument_Darwish_2009_Queens"
 argument_key: "Argument_Darwish_2009_Queens"
 argument_display_title: "Education as a political act: Dewey, Freire and the (International Baccalaureate) Theory of Knowledge curriculum (Master's thesis)"
 argument_kind: "books"
-argument_related_count: 66
+argument_related_count: 67
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -77,6 +77,7 @@ related_concepts:
   - "[[Educative Experience]]"
   - "[[Mis-educative Experience]]"
   - "[[Democratic Education]]"
+  - "[[Community of Inquiry]]"
   - "[[Dialogue in Education]]"
   - "[[Education as Growth]]"
   - "[[Scientific Method]]"
@@ -196,7 +197,7 @@ related_persons:
 > - **反思性探究五步骤、“[[Learning by Doing\|在做中学]]”与面对面对话**
 >   拆解反思性思维的 5 大步骤（感知难题 → 明确难题 → 提出假设 → 推演后果 → 实证检验），揭示传统学校压抑身体活动制造课堂纪律难题与机械习惯的认识论根源；通过投石机制作与“活体动植物照顾 vs 死标本/学术事实”案例，论证基于在做中学的智性探究与社区面对面对话才是深层实践知识与心智磨砺（Training of Mind）之源 (pp. 33–40)。
 > - **作为联合生活方式的民主与杜威生长的批判性边界（实践缺失）**
->   将民主定义为联合生活与协同沟通经验的模式，指出[[Democratic Education\|民主教育]]要求学校成为合作探究社区；借助肥胖者健康觉察案例（The Obesity Example），揭示理智觉察与变革行动之间的撕裂，批判杜威预设平等沟通条件、未能明确承诺采取政治变革行动去解构压迫结构的理论局限 (pp. 40–44)。
+>   将民主定义为联合生活与协同沟通经验的模式，指出[[Democratic Education\|民主教育]]要求学校成为合作[[Community of Inquiry|探究社区]]；借助肥胖者健康觉察案例（The Obesity Example），揭示理智觉察与变革行动之间的撕裂，批判杜威预设平等沟通条件、未能明确承诺采取政治变革行动去解构压迫结构的理论局限 (pp. 40–44)。
 
 ---
 

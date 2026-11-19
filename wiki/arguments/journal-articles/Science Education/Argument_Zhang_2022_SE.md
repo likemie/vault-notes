@@ -36,6 +36,7 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Open-Mindedness]]"
   - "[[Knowledge Exchange]]"
+  - "[[Community of Inquiry]]"
   - "[[Creativity]]"
   - "[[Flow]]"
   - "[[Rich and Thick Description]]"
@@ -62,16 +63,16 @@ sources:
 part_of:
 status: draft
 created: 2026-09-22
-updated: 2026-10-29
+updated: 2026-11-19
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Zhang_2022_SE"
 argument_key: "Argument_Zhang_2022_SE"
 argument_display_title: "Epistemic agency for costructuring expansive knowledge‐building practices"
 argument_kind: "journal-article"
-argument_related_count: 29
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 30
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: "Science Education"
 book_title: ""
@@ -266,7 +267,7 @@ issuing_organization: ""
 
 > [!sub-claim] 1. 眼睛小组由学生自发组建，并通过 4 轮层层递进的探索攻克了视觉与大脑连接的机制谜团
 
-眼睛小组的诞生展现了小学生如何从阅读图谱中的认知冲突出发，自发结成探究共同体：
+眼睛小组的诞生展现了小学生如何从阅读图谱中的认知冲突出发，自发结成[[Community of Inquiry|探究共同体]]：
 
 > [!voice] 眼睛探究小组自发成立与初始困惑对话录音（9月22日–25日）
 > ST：你看……这块蓝色代表思考，深蓝色代表语言，听觉在那边，深绿色是味觉和触觉，浅绿色管运动。

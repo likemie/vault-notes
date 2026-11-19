@@ -5,7 +5,7 @@ aliases:
 summary: "教育研究中的认识论框架，强调学科知识的重要性，认为知识独立于知者存在且是社会建构的，同时承认知识会变化"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 8
+theory_related_count: 9
 theory_related_level: 0
 theory_related_stars: "☆"
 theory_related_color: "#e5e7eb"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Ways of Knowing]]"
   - "[[Constructivist Paradigm]]"
   - "[[Powerful Knowledge]]"
+  - "[[Community of Inquiry]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-10-22
+updated: 2026-11-19
 ---
 
 ---
@@ -61,7 +62,7 @@ updated: 2026-10-22
 > - **知识与教学法的区分**。将知识（学习的对象）与教学法（学习的方法）区分开来，为考虑教育的复杂相互关联元素提供了理论手段（Young, 2010, 引自）。
 > - **学科知识的禀赋**。学科知识的结构为结构化学习和通过设计连贯性增强人类认知发展提供了独特优势（McPhail, 2023）。
 > - **公平的基础**。社会实在论主张所有学生都有权接触学科的概念性[[Ways of Knowing\|认知方式]]，获得这种知识是公平的基础。[[OECD]] (2019) 也指出「获得学科知识的机会也是公平的基础」（引自 McPhail et al., 2023）。
-> - **知识与认知发展**。认知发展与接触结构化学科知识之间存在密切关系。学生应当通过成为学科「探究社区」的成员来发展与知识的关系，最初作为非常初级的成员，与教师和高年级学生一起参与探究（Young, 2020, 引自）。
+> - **知识与认知发展**。认知发展与接触结构化学科知识之间存在密切关系。学生应当通过成为学科「[[Community of Inquiry|探究社区]]」的成员来发展与知识的关系，最初作为非常初级的成员，与教师和高年级学生一起参与探究（Young, 2020, 引自）。
 > - **理论来源**。社会实在论的工作源自涂尔干 (1995)、[[Lev Vygotsky\|维果茨基]] (1986) 和[[Basil Bernstein\|伯恩斯坦]] (2000)，由 Moore (2007, 2013)、Muller (2009, 2022) 和 Young (2008) 等学者发展。
 
 ---

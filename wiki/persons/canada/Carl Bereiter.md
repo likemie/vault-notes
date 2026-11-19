@@ -10,10 +10,10 @@ cssclasses:
   - person-page
 nationality: canada
 person_region: "canada"
-person_related_count: 27
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 30
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1934"
 died: ""
 lifespan: "1934–至今"
@@ -32,14 +32,17 @@ related_concepts:
   - "[[Direct Instruction]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
+  - "[[Community of Inquiry]]"
   - "[[Constructivist Paradigm]]"
   - "[[Visible Learning]]"
   - "[[Surface and Deep Learning]]"
   - "[[Evidence-Based Education]]"
+  - "[[Objective Spirit]]"
   - "[[Problem Solving]]"
   - "[[Bildung]]"
   - "[[Metacognition]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Learning Strategies]]"
   - "[[SOLO Taxonomy]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
@@ -59,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-03'
-updated: 2026-11-02
+updated: 2026-11-19
 ---
 
 ---
@@ -103,7 +106,7 @@ updated: 2026-11-02
 ---
 
 > [!claim] 核心思想
-> 主观学习与客观[[Knowledge Building Theory|知识建构]]分属两个截然不同的[[Ontology|本体论]]范畴。主观学习属于世界二的心智状态改善与个体信念重组，而知识建构则属于世界三的公共精神产物生产与持续改良。真正的现代教育应当超越将学生心智视作待填充容器的传统意识理论，引导学生组成知识探究共同体，将理论、问题、解释与模型当作“概念[[Artefact|人工制品]]”（conceptual artifacts）展开持续的公开检验、理性批判与协同改进（Bereiter, 2002; [[Argument_Rømer_2018_EPT|Rømer, 2018, p. 10]]）。
+> 主观学习与客观[[Knowledge Building Theory|知识建构]]分属两个截然不同的[[Ontology|本体论]]范畴。主观学习属于世界二的心智状态改善与个体信念重组，而知识建构则属于世界三的公共精神产物生产与持续改良。真正的现代教育应当超越将学生心智视作待填充容器的传统意识理论，引导学生组成知识[[Community of Inquiry|探究共同体]]，将理论、问题、解释与模型当作“概念[[Artefact|人工制品]]”（conceptual artifacts）展开持续的公开检验、理性批判与协同改进（Bereiter, 2002; [[Argument_Rømer_2018_EPT|Rømer, 2018, p. 10]]）。
 
 > [!citation-card] 贝莱特论知识建构超越个体主观学习
 > 贝莱特强调，学校教育长期被一种将学习局限在学生颅骨内部的民间心理学所主导。知识建构的核心转向在于承认存在着心智之外的客观思想客体。正如科学家共同体合作完善演化论假说一样，学生在课堂中应当共同承担推进知识前沿的责任，对概念人工制品进行持续加工与改良。这种面向世界三客观知识的实践，在根本上区别于个体孤立的世界二记忆提取。[[Argument_Rømer_2018_EPT|(Rømer, 2018, p. 10)]]
@@ -131,7 +134,7 @@ updated: 2026-11-02
 > [!debates] 学术争议与批判反思
 >
 > > [!axis] 世界三的科学命题化削减 vs 文化艺术客观实在（Rømer 之辩）
-> > 争论焦点在于贝莱特在引介波普尔客观精神世界时是否对其进行了过度简化。
+> > 争论焦点在于贝莱特在引介波普尔[[Objective Spirit|客观精神]]世界时是否对其进行了过度简化。
 > >
 > > - **贝莱特的[[Knowledge Building Theory|知识建构]]界定（Bereiter, 2002）** 将世界三客体主要聚焦于可以讨论真伪的科学理论、概念模型与解释方案，强调知识作为生产力与[[Problem Solving|问题解决]]工具。
 > > - **勒默尔的实在论批判（[[Argument_Rømer_2018_EPT|Rømer, 2018, p. 10]]）** 批评指出，波普尔在坦纳演讲中反复以贝多芬交响乐与经典著作作为世界三的核心典范；贝莱特将世界三缩减为“真理与非真理”的科学命题，排除了人文学科、艺术与神学的广袤内容；这种削减削弱了客观精神世界的丰厚度，更为后继循证学者彻底抹杀世界三的客观性提供了借口。
@@ -146,7 +149,7 @@ updated: 2026-11-02
 > > 探讨[[Higher-Order Thinking Skills|高阶思维]]能力能否脱离具体学科概念独立培育的教学论争鸣。
 > >
 > > - **依附性认知立场（Bereiter, 2002; cited in [[Argument_Terhart_2011_JCS|Terhart, 2011, p. 430]]）** 贝莱特主张学生的思考与理论建构必须时刻绑定其既有的概念结构，哈蒂据此否定通用思维技能独立训练的必要性（比喻为“为夏尔巴背夫开设健美操课程”）。
-> > - **教学论学理反思（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp. 430–431]]）** 特哈特批评该立场与可见学习中同时极力推崇跨学科通用元认知策略的论调相互冲突，暴露出这种哲学嫁接缺乏严谨的[[Epistemology|认识论]]自洽性。
+> > - **教学论学理反思（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp. 430–431]]）** 特哈特批评该立场与可见学习中同时极力推崇跨学科通用元[[Learning Strategies|认知策略]]的论调相互冲突，暴露出这种哲学嫁接缺乏严谨的[[Epistemology|认识论]]自洽性。
 
 ---
 

@@ -27,11 +27,11 @@ related_concepts:
   - "[[Formative Assessment]]"
   - "[[Academic Achievement]]"
   - "[[Operationalization]]"
-  - "[[Genius]]"
   - "[[Creativity]]"
   - "[[International Baccalaureate]]"
   - "[[Ability-Driven Education]]"
   - "[[Alienation]]"
+  - "[[Genius]]"
   - "[[Homework]]"
   - "[[Quality Education]]"
   - "[[Inquiry-Based Learning]]"
@@ -54,6 +54,7 @@ related_facts:
   - "[[Desired Outcomes of Education]]"
   - "[[Goh Report]]"
   - "[[Integrated Programme]]"
+  - "[[Gifted Education Programme]]"
   - "[[Singapore-Cambridge GCE Ordinary Level]]"
   - "[[Independent Schools Initiative]]"
   - "[[Direct School Admission]]"
@@ -174,7 +175,7 @@ issuing_organization: ""
 
 > [!example] 新加坡精英教育基础设施的层级建构
 > 新加坡自 1980 年代以来逐步构筑了高度分层的精英培养网络，明确以培育国家治理精英为旨归：
-> - **[[Genius|天才]]教育计划（Gifted Education Programme, GEP）** 自小学三年级（9 岁）起通过全国统考筛选前 1% 的学童，编入专属课程轨道，官方明确定位为培养具智慧与[[Creativity|创造力]]的高级领导人才（MOE, 2011a）。
+> - **[[Gifted Education Programme|天才教育计划]]（Gifted Education Programme, GEP）** 自小学三年级（9 岁）起通过全国统考筛选前 1% 的学童，编入专属课程轨道，官方明确定位为培养具智慧与[[Creativity|创造力]]的高级领导人才（MOE, 2011a）。
 > - **直通车计划（IP）** 允许顶尖学术优胜者跳过中学阶段剑桥普通教育证书（General Certificate of Education, GCE）普通水准（[[Singapore-Cambridge GCE Ordinary Level|O-Level]]）统考，直通高级水准（A-Level）或[[International Baccalaureate|国际文凭]]（International Baccalaureate, IB），名校得以利用省下的应试时间拓展深层研学，进一步拉大与主流学校的办学差距（MOE, 2011b）。
 > - **特选中学（Special Assistance Plan, SAP）** 面向高分学生提供强化华族语言与传统文化熏陶的优质环境，在多元族群社会中引发华族文化精英在社交圈层与专业领域脱离非华族同侪的担忧。
 > - **[[Independent Schools Initiative|独立学校]]体系（Independent Schools Scheme）与名校联合体** 赋予顶尖名校充分的财务与课程自主权，名校联合体推行附属小学直升优先录取政策，形成自我封闭的特权循环网络。
@@ -189,7 +190,7 @@ issuing_organization: ""
 > | 改革举措 | 政策初衷与均等化修辞 | 执行实践中的[[Alienation\|异化]]与精英主义回归 |
 > |:---|:---|:---|
 > | **教育储蓄计划（Edusave）与机会基金** | 为家庭经济困难学童提供课外辅导与校本提升活动专项资助，防范阶层掉队。 | 补贴额度相对有限，无法抗衡富裕中产家庭长期在校外商业高价补习机构的持续投入。 |
-> | **取消初中统一天才班（GEP）** | 取消初中阶段中央统一管辖的天才班分轨，促进资优生与普通学生融合。 | 资优生毕业后直接全员流入顶尖直通车名校（IP），各名校转而建立校本天才课程，特权网络更加封闭。 |
+> | **取消初中统一[[Genius\|天才]]班（GEP）** | 取消初中阶段中央统一管辖的天才班分轨，促进资优生与普通学生融合。 | 资优生毕业后直接全员流入顶尖直通车名校（IP），各名校转而建立校本天才课程，特权网络更加封闭。 |
 > | **直接学校招生计划（[[Direct School Admission\|DSA]]）** | 允许中学与初级学院自主招收具备体育、艺术、领导力等非学术特长的学生。 | 招生名额大多集中于历史名校，且申请者仍需达到接近常规学术录取分数线的门槛，未惠及弱势学生。 |
 > | **[[Singapore National Education\|国民教育大纲（National Education）]]** | 构建跨阶层跨族群的国家凝聚力，培育国民对共同命运的认同。 | 课程针对不同学轨的学生设计差异化目标：潜在领导精英培养创新思维与全球视野，普通学生侧重服从与岗位奉献。 |
 

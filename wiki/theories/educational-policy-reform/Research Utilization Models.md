@@ -9,7 +9,7 @@ aliases:
 summary: "由卡罗尔·韦斯开创并经公共政策与教育研究发展的理论模型谱系，系统阐明学术研究进入政策与实践的非线性多元机制（知识驱动、问题解决、互动、政治、战术、启蒙及社会智识事业），奠定工具性、概念性与象征性使用三元分类的基础。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 58
+theory_related_count: 59
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Enlightenment]]"
   - "[[Evaluation Research]]"
   - "[[Research-Practice Partnership]]"
+  - "[[Community of Inquiry]]"
   - "[[Variable]]"
   - "[[Formative Assessment]]"
   - "[[Critical Pedagogy]]"
@@ -86,7 +87,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-29
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -137,7 +138,7 @@ updated: 2026-11-15
 > > |---|---|---|---|---|
 > > | **知识驱动模型**<br>Knowledge-Driven | 基础研究 $\rightarrow$ 应用研究 $\rightarrow$ 成果转化 | 自主产生技术突破，驱动后续实践变革 | 学习科学实验室脑成像发现转化为数字化教学软件 | 忽视教育复杂社会属性与情境约束 |
 > > | **问题解决模型**<br>Problem-Solving | 现实困境 $\rightarrow$ 检索/委托研究 $\rightarrow$ 直接采纳 | 决策者按需取用的“现成处方”与证据库存 | 针对特定年级阅读障碍委托针对性干预[[Evaluation Research\|评估研究]] | 假定问题与目标无争议，现实极易遇阻 |
-> > | **互动模型**<br>Interactive | 多边网络平等对话、经验与证据互构 | 协同共创与探究伙伴（[[Research-Practice Partnership\|RPP]] 范式） | 大学研究者与学校教研组组建长期行动探究共同体 | 沟通成本高，需要极高的组织专业信任 |
+> > | **互动模型**<br>Interactive | 多边网络平等对话、经验与证据互构 | 协同共创与探究伙伴（[[Research-Practice Partnership\|RPP]] 范式） | 大学研究者与学校教研组组建长期行动[[Community of Inquiry\|探究共同体]] | 沟通成本高，需要极高的组织专业信任 |
 > > | **政治模型**<br>Political | 立场先行 $\rightarrow$ 选择性引用研究为已有政策辩护 | 辩护武器与公关修辞弹药 | 政策制定者挑选支持特定考试分流方案的研究报告 | 证据被工具化操纵，扭曲学术求真本质 |
 > > | **战术模型**<br>Tactical | 借口“开展深入研究”以拖延或推卸行政责任 | 拖延决策与转移问责的挡箭牌 | 面临争议性减负方案时宣布“设立专家组开展长周期调研” | 消耗公众信任，造成政策实践瘫痪 |
 > > | **启蒙模型**<br>Enlightenment | 概念弥散渗透与决策累积，重塑常识与思维框架 | 慢[[Variable\|变量]]启蒙，水滴石穿改变行动者心智视界 | “[[Formative Assessment\|形成性评价]]”与“认知负荷”概念全面重塑日常教学常识 | 影响隐蔽漫长，难以开展即刻量化因果归因 |

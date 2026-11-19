@@ -7,10 +7,10 @@ aliases:
 summary: "在认识论认知模型中，个体或共同体在评价知识主张、证据可信度与理论解释时所依据的细粒度准则，涵盖个体认知试探法与共同体社会协商的实践规范。"
 type: concept
 domain: "educational-psychology"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - theme/epistemic-cognition
   - theme/argumentation
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Epistemological Beliefs]]"
   - "[[Epistemic Aims]]"
   - "[[Epistemic Cognition]]"
+  - "[[Community of Inquiry]]"
   - "[[Epistemic Ideals]]"
   - "[[Epistemology]]"
   - "[[Reliable Epistemic Processes]]"
@@ -63,7 +64,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-08-18
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 ---
@@ -77,7 +78,7 @@ updated: 2026-11-14
 > - **边界** 确证标准属于微观操作化准则，区别于“知识是否绝对确定”等宏观抽象的[[Epistemological Beliefs\|认识论信念]]（[[Epistemological Beliefs]]），也区别于探究追求的终极指向（[[Epistemic Aims]]）。
 
 > [!citation-card] 确证标准的微观操作化与情境社会性
-> 确证标准在[[Epistemic Cognition\|认识论认知]]中具有高度的微观操作化特征。粗略询问学生是否信任权威或证据毫无意义，关键在于他们基于何种细粒度的确证标准来赋予信任……在科学课堂与探究共同体中，确证准则是在社会互动中经过持续辩驳与协商而确立的公共规范，有别于脱域的抽象法则。（[[Argument_Chinn_2011_EducPsychol\|Chinn et al., 2011, pp. 154–155]]; [[Argument_Sandoval_2016_RRE\|Sandoval et al., 2016, p. 471]]; [[Argument_Duncan_2025_CI\|Duncan & Chinn, 2025, p. 208]]）
+> 确证标准在[[Epistemic Cognition\|认识论认知]]中具有高度的微观操作化特征。粗略询问学生是否信任权威或证据毫无意义，关键在于他们基于何种细粒度的确证标准来赋予信任……在科学课堂与[[Community of Inquiry|探究共同体]]中，确证准则是在社会互动中经过持续辩驳与协商而确立的公共规范，有别于脱域的抽象法则。（[[Argument_Chinn_2011_EducPsychol\|Chinn et al., 2011, pp. 154–155]]; [[Argument_Sandoval_2016_RRE\|Sandoval et al., 2016, p. 471]]; [[Argument_Duncan_2025_CI\|Duncan & Chinn, 2025, p. 208]]）
 >
 > *Justificatory standards are the fine-grained criteria used to evaluate knowledge claims and evidence... Rather than viewing justification as a static, decontextualized belief, standards are deeply embedded in disciplinary practices and socially negotiated through collective inquiry.*
 

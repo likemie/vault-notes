@@ -53,6 +53,7 @@ related_concepts:
   - "[[Professional Learning Community]]"
   - "[[Strategic Compliance]]"
   - "[[Collective Intelligence]]"
+  - "[[Community of Inquiry]]"
   - "[[Champ]]"
   - "[[Teacher Expertise]]"
   - "[[Normal School]]"
@@ -84,14 +85,14 @@ sources:
   - "[[sources/Brown_2017_EducRes|Brown_2017_EducRes]]"
 status: draft
 created: 2026-09-15
-updated: 2026-11-11
+updated: 2026-11-19
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Brown_2017_EducRes"
 argument_key: "Argument_Brown_2017_EducRes"
 argument_display_title: "Combining the best of two worlds: A conceptual proposal for evidence-informed school improvement"
 argument_kind: "journal-article"
-argument_related_count: 53
+argument_related_count: 54
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -305,7 +306,7 @@ ESTI 模型并非单纯的流程拼接，其平稳实施必须依托三项深层
 > 1. **两派割裂阻碍整体性 [[Evidence-Informed Practice\|EIP]] 达成** [[Data-Based Decision Making\|DBDM]] 与 [[Research-Informed Teaching Practice\|RITP]] 在[[International Education\|国际教育]]改革中长期作为两条互不交融的平行轨迹演进，导致学校在实践中要么陷于数据诊断而缺乏良方，要么盲目追逐学术热点而脱离校情。
 > 2. **优劣势呈现高度对称的镜像互补** DBDM 的优势（立足真实需求、自主假设病因、生成校本方案）恰好能对冲 RITP 的短板（追逐热点、无因盲跳、千校一面）；而 RITP 的优势（提供验证策略、阐明作用机制、拥有转译工具）亦恰好能弥补 DBDM 的盲区（知病因却不知如何治疗）。
 > 3. **[[School Enquiry Cycle\|ESTI]] 八步[[Inquiry Cycle\|探究循环]]构建了统摄操作[[Paradigm\|范式]]** 通过涵盖“确立愿景—假设成因—收集数据—质检分析—得出结论—搜寻方案—行动计划—循环评估”的严谨闭环，为学校提供了兼具校本针对性与科学严谨性的整体性实践模型。
-> 4. **双素养融合与协作意义建构是落地的关键支架** 成功推行 ESTI 要求职前与在职培训系统打破学科壁垒，同步培育教师的[[Data Literacy\|数据素养]]与[[Research Literacy\|研究素养]]，并在学校内部培育高信任度的协作文化与探究共同体。
+> 4. **双素养融合与协作意义建构是落地的关键支架** 成功推行 ESTI 要求职前与在职培训系统打破学科壁垒，同步培育教师的[[Data Literacy\|数据素养]]与[[Research Literacy\|研究素养]]，并在学校内部培育高信任度的协作文化与[[Community of Inquiry|探究共同体]]。
 
 > [!stat-cards]- 经验案例与研究规模参数
 > - **80+** 荷兰与瑞典中小学开展[[Data Team Intervention\|数据团队]]干预与 [[Randomised Controlled Trials\|RCT]] 实证检验。

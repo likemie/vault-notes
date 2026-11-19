@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 25
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
+  - "[[Community of Inquiry]]"
   - "[[Scientific Method]]"
   - "[[Pragmatism in China]]"
   - "[[Postpositivism]]"
@@ -41,6 +42,7 @@ related_methods:
 related_facts:
   - "[[Office of Educational Research and Improvement]]"
   - "[[Institute of Education Sciences]]"
+  - "[[National Institute of Education]]"
   - "[[House Committee on Education and the Workforce]]"
   - "[[National Research Council]]"
   - "[[United States Congress]]"
@@ -56,7 +58,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-09-27
-updated: 2026-10-26
+updated: 2026-11-19
 ---
 
 ---
@@ -70,7 +72,7 @@ updated: 2026-10-26
 ---
 
 > [!claim] 政策核心
-> 法案正式废除[[Office of Educational Research and Improvement|教育研究与改进办公室]]（OERI），设立独立于政治干预的[[Institute of Education Sciences|教育科学研究院]]（Institute of Education Sciences, IES），并在法律文本中确立了以探究问题适配性为导向的[[Scientifically Based Research|科学本位研究]]标准（Scientifically Based Research Standards），奠定了国家教育科学治理体系。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 34–36)]]
+> 法案正式废除[[Office of Educational Research and Improvement|教育研究与改进办公室]]（OERI），设立独立于政治干预的[[Institute of Education Sciences|教育科学研究院]]（[[National Institute of Education|Institute of Education]] Sciences, IES），并在法律文本中确立了以探究问题适配性为导向的[[Scientifically Based Research|科学本位研究]]标准（Scientifically Based Research Standards），奠定了国家教育科学治理体系。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 34–36)]]
 
 > [!policy-design] 政策设计
 > - **政策目标** 摆脱联邦教育研究的政治化干扰与信誉危机，建立高标准的国家教育科学研究体系，为教育决策与实践提供可靠、客观的实证知识基础。
@@ -136,7 +138,7 @@ updated: 2026-10-26
 > | 利益框架 | 确立以随机实验为金标准的量化因果证据，根除教育研究伪科学 | 捍卫探究方法随[[Research Question\|研究问题]]演化的灵活性，反对行政垄断科学定义 |
 > | 主要策略 | 在拨款法案中嵌入严苛定义，设立因果资助指标（如 75% 采用随机实验） | 国会质证听证、发布权威委员会报告、组织专业会议展开公开争鸣 |
 >
-> **关键分歧** 联邦法律究竟应当对研究方法作先验式的刚性框定（以实验排斥其他），抑或确立以探究共同体为主导、方法契合具体问题的宽泛探究标准。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 33–36)]]
+> **关键分歧** 联邦法律究竟应当对研究方法作先验式的刚性框定（以实验排斥其他），抑或确立以[[Community of Inquiry|探究共同体]]为主导、方法契合具体问题的宽泛探究标准。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 33–36)]]
 
 ---
 

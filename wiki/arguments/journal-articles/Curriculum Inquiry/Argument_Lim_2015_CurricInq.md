@@ -38,6 +38,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Reliability]]"
   - "[[Document]]"
+  - "[[Community of Inquiry]]"
   - "[[Philosophy in Schools]]"
   - "[[Falsification]]"
   - "[[Authentic Assessment]]"
@@ -55,10 +56,12 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Basil Bernstein]]"
+  - "[[Matthew Lipman]]"
   - "[[Karl Popper]]"
 related_facts:
   - "[[Independent Schools Initiative]]"
   - "[[Singapore Ministry of Education]]"
+  - "[[Gifted Education Programme]]"
 related_arguments:
   - "[[Argument_Gopinathan_2007_GSE]]"
 sources:
@@ -73,7 +76,7 @@ title: "Argument_Lim_2015_CurricInq"
 argument_key: "Argument_Lim_2015_CurricInq"
 argument_display_title: "Elite rationalities and curricular form: “Meritorious” class reproduction in the elite thinking curriculum in Singapore"
 argument_kind: "journal-article"
-argument_related_count: 34
+argument_related_count: 37
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -153,7 +156,7 @@ issuing_organization: ""
 > 许多关于精英教育的批判分析聚焦于学生的家庭阶层归属、文化资本与社会网络 (Bourdieu, 1996; Gaztambide-Fernández, 2009; Khan, 2011; Maxwell & Aggleton, 2013)，或剖析教育市场中的家庭竞争策略与声望累积 (Apple, 2001/2006; Ball, 2003; Kenway & Koh, 2013; Koh, 2014; Ye & Nylander, 2015)，却较少关注课程知识本身的组合规则。伯恩斯坦 (Bernstein, 1977, 1990) 强调，知识如何被选择、分类、排序、控制节奏和设立评判标准，构成了教育话语的深层语法。真正形塑学生认知习惯与社会身份的，正是这套底层的课程组织形式 (Anyon, 1981; MacDonald, 1977; Oakes, 1985; Young, 1971)。
 
 > [!sub-claim] 2. 官方普及思维的政策修辞掩盖了学校制度分层的现实
-> [[Singapore Ministry of Education|新加坡教育部]]（Ministry of Education, MOE）强调面向全体学生普及批判性思维，视其为应对全球[[Knowledge-Based Economy|知识经济]]的核心举措 (Heng, 2011; Ministry of Education, 1997, 2013b)。然而该国教育体系具有高度科层分轨属性 (Barr & Skrbis, 2008; Chua, 1995; [[Argument_Gopinathan_2007_GSE|Gopinathan, 2007]]; Tan, 2008)。占四分之三的主流邻里公立学校受制于学区督导与全国统考大纲，学生主要来自工薪阶层 (Luke, 2003; Tan, 2011)；而享有特殊地位的独立学校由社会要人组成的理事会自主掌舵，享有充沛经费、尖端设施与自主招生权 (Ministry of Education, 2011a, 2011b; Tan, 1993)。统一的思维课程口号在实践中被置入了两套截然不同的学校生态。
+> [[Singapore Ministry of Education|新加坡教育部]]（Ministry of Education, MOE）强调面向全体学生普及批判性思维，视其为应对全球[[Knowledge-Based Economy|知识经济]]的核心举措 (Heng, 2011; Ministry of Education, 1997, 2013b)。然而该国教育体系具有高度科层分轨属性 (Barr & Skrbis, 2008; Chua, 1995; [[Argument_Gopinathan_2007_GSE|Gopinathan, 2007]]; Tan, 2008)。在初等教育阶段，排名前 1% 的顶尖生源即通过[[Gifted Education Programme|天才教育计划]]（Gifted Education Programme, GEP）进入加速培育轨道 (Ministry of Education, 2011a)；占四分之三的主流邻里公立学校受制于学区督导与全国统考大纲，学生主要来自工薪阶层 (Luke, 2003; Tan, 2011)；而享有特殊地位的独立学校由社会要人组成的理事会自主掌舵，享有充沛经费、尖端设施与自主招生权 (Ministry of Education, 2011a, 2011b; Tan, 1993)。统一的思维课程口号在实践中被置入了两套截然不同的学校生态。
 
 > [!row-contrast] 办学制度与宏观背景横向对比
 > | 比较维度 | 主流邻里中学（Valley Point Secondary） | 顶尖独立精英高中（Queen's High） |
@@ -162,7 +165,7 @@ issuing_organization: ""
 > | **师资调配与财务机制** | 教师由教育部人事部门集中统一调配，经费完全依赖国家常规拨款标准。 | 自主聘任专职教师与特色学科专家，享受高额校友捐赠、自主学费定价与独立基金支持。 |
 > | **校园环境与物质空间** | 标准化公办校舍，按常规功能区划分，缺乏额外高端文体设施。 | 占地开阔，配备奥林匹克标准游泳池、网球场、独立表演艺术中心与全空调教室；校训采用拉丁文。 |
 > | **历史传统与象征资本** | 扎根周边普通劳工社区，被师生公认为典型的社区邻里学校。 | 拥有深厚精英校友传统，校舍走廊与外墙遍布政界领袖、企业巨头及文化精英校友的人物壁画与传记。 |
-> | **[[Tracking\|学力分轨]]与招生机制** | 设置快捷、普通学术与普通技术三类学术分轨。 | 实行全员拔尖学术考核，招生门槛极高，毕业生大量斩获国家全额奖学金并直升欧美顶级名校 (Ye & Nylander, 2015)。 |
+> | **[[Tracking\|学力分轨]]与招生机制** | 设置快捷、普通学术与普通技术三类学术分轨。 | 深度承接小学[[Gifted Education Programme\|天才教育计划]]（GEP）拔尖生源，实行全员拔尖学术考核，招生门槛极高，毕业生大量斩获国家全额奖学金并直升欧美顶级名校 (Ye & Nylander, 2015)。 |
 
 ---
 
@@ -189,10 +192,10 @@ issuing_organization: ""
 > 在顶尖精英学校 Queen's High，批判性思维依托校方自主研发的四年制全员独立哲学必修课展开 (Immersion Approach; Prawat, 1991; Scheffler, 1973)。该课程涵盖形式逻辑、法理学、伦理学与科学哲学等专门模块，形成明确的强分类（$C^+$）。课程引导学生摆脱单纯记诵哲学家观点的学习模式，通过跨年度、多语境的递归式演练，引导学生掌握高阶认识论规则，建立起对纯粹智力探索的学科认同。
 
 > [!sub-claim] 2. 开放式研讨促使学生将严谨反思转化为自觉的心智习惯
-> 精英学校课堂展现出显著的弱框架（$F^-$）。在研讨课与哲学课上，教师采用马修·李普曼 (Lipman, 2003) 的探究共同体模式，鼓励学生自主偏离预设讲义展开开放式论辩；讨论时长完全由学生的探究热情决定。在评价环节，学生使用基于保罗与埃尔德 (Paul & Elder, 2005; Paul, 2011) 标准的同行互评量规，将评价准则转化为自我监督的心智习惯 (Bernstein, 1977, p. 96; Bernstein, 2000, p. 55; Beck, 2002, p. 620)。
+> 精英学校课堂展现出显著的弱框架（$F^-$）。在研讨课与哲学课上，教师采用[[Matthew Lipman|马修·李普曼]] (Lipman, 2003) 的[[Community of Inquiry|探究共同体]]模式，鼓励学生自主偏离预设讲义展开开放式论辩；讨论时长完全由学生的探究热情决定。在评价环节，学生使用基于保罗与埃尔德 (Paul & Elder, 2005; Paul, 2011) 标准的同行互评量规，将评价准则转化为自我监督的心智习惯 (Bernstein, 1977, p. 96; Bernstein, 2000, p. 55; Beck, 2002, p. 620)。
 
 > [!case] 精英高中的弱框架探究记录
-> - **探究共同体研讨：去中心化物理空间与议题自决** 借鉴[[Philosophy in Schools|儿童哲学]]（Philosophy for Children, P4C; Lipman, 2003）理念，教室课桌椅被排成大圆形，授课教师完全坐于圆圈外部，在空间布局上实现去中心化。以学校是否有权规制并惩戒学生的网络言论及校外行为为主题的研讨课中，议题的选定完全基于学生群体的真实生活关切与兴趣。在一小时的讨论中，学生自主界定校外言论自由边界、学校管辖权极限以及攻击性言论的判定尺度。教师全程仅进行了 3 次实质性介入：2 次用于系统梳理场上多方论辩脉络，1 次用于促请学生进一步阐发其所提概念区分背后的深层哲学价值。
+> - **[[Community of Inquiry|探究共同体]]研讨：去中心化物理空间与议题自决** 借鉴[[Philosophy in Schools|儿童哲学]]（Philosophy for Children, P4C; Lipman, 2003）理念，教室课桌椅被排成大圆形，授课教师完全坐于圆圈外部，在空间布局上实现去中心化。以学校是否有权规制并惩戒学生的网络言论及校外行为为主题的研讨课中，议题的选定完全基于学生群体的真实生活关切与兴趣。在一小时的讨论中，学生自主界定校外言论自由边界、学校管辖权极限以及攻击性言论的判定尺度。教师全程仅进行了 3 次实质性介入：2 次用于系统梳理场上多方论辩脉络，1 次用于促请学生进一步阐发其所提概念区分背后的深层哲学价值。
 > - **科学哲学课：自主偏离讲义与高阶学术辨析** 课程原计划介绍归纳推理与演绎推理的区分、归纳问题对科学知识有效性的挑战，以及[[Karl Popper|卡尔·波普尔]]（Karl Popper）的[[Falsification|证伪主义]]与假说演绎法。在教师抛出科学家与哲学家是否应当捍卫科学作为主导理性探究形式的地位这一问题后，一名学生从社会缺乏其他可靠认知工具的角度给出肯定回答，随即引爆全班对历史学、地理学、经济学等不同学科描绘现实合法性的激烈交锋。随后学生更主动将波普尔的证伪标准延伸至宗教信仰与神学领域，深入论辩智能设计论（Intelligent Design）是否具备可证伪性。教师鼓励探究，使知识传递的步调完全服从于学生理智碰撞的节奏。
 > - **[[Authentic Assessment|表现性评价]]量规：内隐反思标准的深度内化** 在高年级阶段，学生每年进行多达 4 次严格的同行批判性思维互评。互评依托覆盖 9 项认知标准的表现量规展开 (Paul & Elder, 2005)。评判标准超越简单的二元正误核对，重点要求在具体辩论情境中持续进行语境化领会与深度阐释。哲学系主任特别说明，除了具体技能与严密思考，更深层的核心在于内化这些过程，使其化为学生思考习惯的一部分。
 

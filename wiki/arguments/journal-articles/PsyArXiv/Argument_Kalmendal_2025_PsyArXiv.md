@@ -47,6 +47,7 @@ related_concepts:
   - "[[Incommensurability]]"
   - "[[Research Topic]]"
   - "[[School Bullying]]"
+  - "[[Community of Inquiry]]"
   - "[[Doctoral Dissertation]]"
   - "[[Within-Class Grouping]]"
   - "[[Falsification]]"
@@ -85,17 +86,17 @@ sources:
 part_of:
 status: draft
 created: 2026-10-16
-updated: 2026-11-11
+updated: 2026-11-19
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Kalmendal_2025_PsyArXiv"
 argument_key: "Argument_Kalmendal_2025_PsyArXiv"
 argument_display_title: "Visible flaws: A comprehensive quality assessment of Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 49
-argument_related_level: 4
-argument_related_stars: "💎⭐"
-argument_related_color: "#dbeafe"
+argument_related_count: 50
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 journal: PsyArXiv
 book_title: ""
 publication_place: ""
@@ -276,7 +277,7 @@ issuing_organization: ""
 > |---|---|---|
 > | **硬件交互载体** | 智能平板、电子交互白板与多点触控移动终端。 | 1980 年代单色阴极射线管显示器与简易打字键盘。 |
 > | **教学软件形态** | 自适应智能学习算法与多模态交互平台。 | 基础计算机辅助练习与单向打字演练程序。 |
-> | **视听媒介环境** | 交互式超清流媒体与在线实时探究社区。 | 显像管闭路电视与受控录像带定时播放。 |
+> | **视听媒介环境** | 交互式超清流媒体与在线实时[[Community of Inquiry\|探究社区]]。 | 显像管闭路电视与受控录像带定时播放。 |
 
 文献分布详尽揭示了这一跨越数十年的时代滞后：
 

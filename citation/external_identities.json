@@ -1256,6 +1256,14 @@
       ],
       "title": ""
     },
+    "Ager, 2005": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-policy-reform/Prestige Planning.md"
+      ],
+      "title": ""
+    },
     "Aghion & Howitt, 1992": {
       "doi": "",
       "isbn": "",
@@ -1901,6 +1909,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/educational-policy-reform/Pluralism.md"
+      ],
+      "title": ""
+    },
+    "Alatas, 2024": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/singapore/Syed Farid Alatas.md"
       ],
       "title": ""
     },
@@ -22936,6 +22952,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "The role of specialized intervention programs in improving academic performance outcomes in at-risk middle school students"
+    },
+    "Colin Ager, 2005": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-policy-reform/Prestige Planning.md"
+      ],
+      "title": ""
     },
     "College of Policing, 2016": {
       "doi": "",
@@ -46417,6 +46441,14 @@
       "seen_in": [],
       "title": "Technology-assisted vocabulary learning for EFL learners: A meta-analysis."
     },
+    "Harald Haarmann, 1990": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-policy-reform/Prestige Planning.md"
+      ],
+      "title": ""
+    },
     "Haraway, 2016": {
       "doi": "",
       "isbn": "",
@@ -56859,6 +56891,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md",
         "wiki/concepts/comparative-education/Policy Translation.md",
+        "wiki/concepts/educational-policy-reform/Prestige Planning.md",
         "wiki/methods/qualitative/Analytic Framework.md",
         "wiki/theories/educational-policy-reform/Kaplan and Baldauf's Language-in-Education Planning Framework.md"
       ],
@@ -59751,7 +59784,8 @@
       "doi": "",
       "isbn": "9789888028788",
       "seen_in": [
-        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md"
+        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md",
+        "wiki/concepts/curriculum/Additive Bilingualism.md"
       ],
       "title": "English as a lingua franca in ASEAN: A multilingual model"
     },
@@ -63145,6 +63179,15 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Paideia/Argument_Fredens_2015_Paideia.md"
+      ],
+      "title": ""
+    },
+    "Lambert, 1975": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md",
+        "wiki/concepts/curriculum/Additive Bilingualism.md"
       ],
       "title": ""
     },
@@ -67073,11 +67116,20 @@
       ],
       "title": ""
     },
+    "Lipman, 1991": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/Matthew Lipman.md"
+      ],
+      "title": ""
+    },
     "Lipman, 2003": {
       "doi": "",
       "isbn": "9780521012256",
       "seen_in": [
-        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md",
+        "wiki/concepts/instruction-pedagogy/Community of Inquiry.md"
       ],
       "title": "Thinking in Education"
     },
@@ -76768,7 +76820,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
-        "wiki/concepts/educational-philosophy/Pluriverse.md"
+        "wiki/concepts/educational-philosophy/Pluriverse.md",
+        "wiki/persons/singapore/Syed Farid Alatas.md"
       ],
       "title": "The intellectual biography of Syed Farid Alatas: Hegemonic orientations, epistemic decolonisation and the School of Autonomous Knowledge"
     },
@@ -83883,21 +83936,25 @@
       "doi": "10.1111/j.1467-971X.1991.tb00149.x",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md"
+        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md",
+        "wiki/persons/singapore/Anne Pakir.md"
       ],
       "title": "The range and depth of English-knowing bilinguals in Singapore"
     },
     "Pakir, 1999": {
       "doi": "",
       "isbn": "9780878401321",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/persons/singapore/Anne Pakir.md"
+      ],
       "title": "Bilingual education with English as an official language: Sociocultural implications"
     },
     "Pakir, 2008": {
       "doi": "",
       "isbn": "9789810817756",
       "seen_in": [
-        "wiki/concepts/educational-policy-reform/Standard Language Ideology.md"
+        "wiki/concepts/educational-policy-reform/Standard Language Ideology.md",
+        "wiki/persons/singapore/Anne Pakir.md"
       ],
       "title": "English as a lingua franca: Negotiating Singapore’s English language education"
     },
@@ -89786,6 +89843,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
+        "wiki/concepts/educational-philosophy/Khwan.md",
         "wiki/concepts/educational-philosophy/Tri Hita Karana.md"
       ],
       "title": "The Khwan and its ceremonies"
@@ -114881,6 +114939,14 @@
       "seen_in": [],
       "title": "Longitudinal academic growth and the kindergarten schedule"
     },
+    "Wallace Lambert, 1975": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/curriculum/Additive Bilingualism.md"
+      ],
+      "title": ""
+    },
     "Wallace, 1989": {
       "datasets": [
         "metax:S0848"
@@ -121745,7 +121811,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md"
+        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md",
+        "wiki/concepts/educational-policy-reform/Prestige Planning.md"
       ],
       "title": "The home language shift and its implications for language planning in Singapore: From the perspective of prestige planning"
     },
@@ -122744,6 +122811,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/methods/qualitative/Interpretive Policy Analysis.md"
+      ],
+      "title": ""
+    },
+    "is adapted from Mathew Lipman’s, 2003": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/Matthew Lipman.md"
       ],
       "title": ""
     },

@@ -7,7 +7,7 @@ title: "Argument_BrunoJofre_Schriewer_2012_Routledge"
 argument_key: "Argument_BrunoJofre_Schriewer_2012_Routledge"
 argument_display_title: "The global reception of John Dewey's thought: Multiple refractions through time and space"
 argument_kind: "edited-volume"
-argument_related_count: 7
+argument_related_count: 8
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#e5e7eb"
@@ -32,12 +32,13 @@ related_persons:
   - "[[John Dewey]]"
   - "[[Jurgen Schriewer]]"
   - "[[Jeremy Rappleye]]"
+  - "[[Matthew Lipman]]"
   - "[[James C. Scott]]"
 sources:
   - "[[books/BrunoJofre_Schriewer_2012_Routledge/BrunoJofre_Schriewer_2012_Routledge|BrunoJofre_Schriewer_2012_Routledge]]"
 status: "draft"
 created: "2026-10-10"
-updated: 2026-10-30
+updated: 2026-11-19
 ---
 
 > [!volume-profile] 阅读档案
@@ -77,7 +78,7 @@ updated: 2026-10-30
 
 > [!chapter-index] 原文入口
 > - **第 8 章，1930 年前俄国对杜威思想的接受** John Dewey and the Development of Education in Russia Before 1930: Report on a Forgotten Reception。Irina Mchitarjan，原书 pp. 173–195。[TXT](../../../../raw/BrunoJofre_Schriewer_2012_Routledge_txt/Ch08_Mchitarjan_Dewey_in_Russia.txt)。待解读。
-> - **第 9 章，杜威与李普曼之争及其在德国的接受** A “New Republic”? The Debate between John Dewey and Walter Lippmann and Its Reception in Pre- and Postwar Germany。Norbert Grube，原书 pp. 196–214。[TXT](../../../../raw/BrunoJofre_Schriewer_2012_Routledge_txt/Ch09_Grube_Dewey_Lippmann_and_Germany.txt)。待解读。
+> - **第 9 章，杜威与[[Matthew Lipman|李普曼]]之争及其在德国的接受** A “New Republic”? The Debate between John Dewey and Walter Lippmann and Its Reception in Pre- and Postwar Germany。Norbert Grube，原书 pp. 196–214。[TXT](../../../../raw/BrunoJofre_Schriewer_2012_Routledge_txt/Ch09_Grube_Dewey_Lippmann_and_Germany.txt)。待解读。
 
 > [!chapter-index] 原文入口
 > - **后记，跨国阅读杜威思想中的交汇、对立与构型** Afterword: Intersections, Oppositions, and Configurations in the Transnational Readings of Dewey。[[James C. Scott|James Scott]] Johnston，原书 pp. 215–228。[TXT](../../../../raw/BrunoJofre_Schriewer_2012_Routledge_txt/Afterword_Johnston_Transnational_Readings_of_Dewey.txt)。待解读。

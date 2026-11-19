@@ -23,6 +23,8 @@ related_concepts:
   - "[[Language-of-State]]"
   - "[[Operationalization]]"
   - "[[Language Skills]]"
+  - "[[Additive Bilingualism]]"
+  - "[[Prestige Planning]]"
   - "[[Construct]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Teacher Qualifications]]"
@@ -38,6 +40,7 @@ related_concepts:
   - "[[Policy Translation]]"
   - "[[Competitiveness]]"
   - "[[Standard Language Ideology]]"
+  - "[[Alienation]]"
   - "[[Document]]"
   - "[[International Schools]]"
 related_theories:
@@ -47,6 +50,7 @@ related_methods:
   - "[[Documentary Analysis]]"
 related_instruments: []
 related_persons:
+  - "[[Anne Pakir]]"
   - "[[Lee Kuan Yew]]"
 related_facts:
   - "[[National Institute of Education]]"
@@ -68,7 +72,7 @@ title: "Argument_Chua_2011_CILP"
 argument_key: "Argument_Chua_2011_CILP"
 argument_display_title: "Singapore’s E(Si)nglish-knowing bilingualism"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 36
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -90,7 +94,7 @@ issuing_organization: ""
 > [!concept-lens] 阅读透镜
 > - **对象** 新加坡从 1819 年殖民建埠、1965 年建国至 2010 年间语言教育政策变迁、四次小学英语教学大纲调整、[[STELLAR Program|英文学习与阅读策略项目]]（Strategies for English Language Learning and Reading, STELLAR）规程、官方教育预算与[[Primary School Leaving Examination|小学离校考试]]（Primary School Leaving Examination, PSLE）统计。
 > - **张力** 国际标准英语的涉外经济工具理性与三大族群母语文化防御功能之间的结构失衡；官方对纯正标准英语的自上而下规范引导与民间青年群体对新加坡式英语自下而上情感依附之间的文化拉锯。
-> - **贡献** 将罗伯特·卡普兰与理查德·鲍尔道夫（Kaplan & Baldauf, 1997）的八维[[Kaplan and Baldauf's Language-in-Education Planning Framework|语言教育规划框架]]运用于东南亚国家治理实证，将安妮·帕基尔（Anne Pakir）（Pakir, 1991）界定的懂英语双语主义深化拓展为懂新式英语双语主义，揭示了后殖民多语[[Language-of-State|国家语言]]工程的非预期后果与微观社会语言学反弹。
+> - **贡献** 将罗伯特·卡普兰与理查德·鲍尔道夫（Kaplan & Baldauf, 1997）的八维[[Kaplan and Baldauf's Language-in-Education Planning Framework|语言教育规划框架]]运用于东南亚国家治理实证，将[[Anne Pakir|安妮·帕基尔]]（Anne Pakir）（Pakir, 1991）界定的懂英语双语主义深化拓展为懂新式英语双语主义，揭示了后殖民多语[[Language-of-State|国家语言]]工程的非预期后果与微观社会语言学反弹。
 
 ---
 
@@ -99,6 +103,8 @@ issuing_organization: ""
 > |---|---|
 > | **[[Kaplan and Baldauf's Language-in-Education Planning Framework\|卡普兰—鲍尔道夫语言教育规划框架]]**<br>[[Kaplan and Baldauf's Language-in-Education Planning Framework]] | 从准入政策、师资政策、课程政策、教学法政策、教材政策、资源政策、社区政策与评估政策八个[[Operationalization\|操作化]]维度，系统解构新加坡自上而下语言规划的制度支撑与政策协同机制。 |
 > | **[[English-Knowing Bilingualism\|懂英语的双语主义]]**<br>[[English-Knowing Bilingualism]] | 帕基尔界定的以中立国际语言为跨族群共同工作语、以族群母语为文化根基的双轨双语构型，用于透视新加坡国民[[Language Skills\|语言能力]]的结构特征与演进路径。 |
+> | **[[Additive Bilingualism\|附加型双语]]与削减型双语**<br>[[Additive Bilingualism]] | 兰伯特双语发展形态理论，用于辨析第二语言习得是作为增量认知资源丰富多语文化库（附加型），还是伴随主流语言扩张侵蚀母语与文化认同（削减型）。 |
+> | **[[Prestige Planning\|声望规划]]**<br>[[Prestige Planning]] | 语言规划理论的核心维度，用于解析国家如何通过大众运动与公共修辞塑造标准英语的高社会声望并边缘化本土接触变体。 |
 
 > [!warrant]- 理论如何支撑论证
 > 卡普兰与鲍尔道夫的八维[[Analytic Framework|分析框架]]提供了一套超越宏观法律文本宣示的政策执行透视镜，帮助将[[Singapore Ministry of Education|新加坡教育部]]在统一师资资历审定、全国大纲研制、高额财政预算调配、全社会动员及小学离校考试（PSLE）标准化评估之间的连贯咬合呈现为因果机制；帕基尔的[[Construct|构念]]则为审视英语+1政策在微观家庭与年轻社群中的代际转移与弱化确立了基准模型，从而揭示出政策在达成高标准学业产出的同时必然派生出新加坡式英语的理论逻辑。
@@ -145,7 +151,7 @@ issuing_organization: ""
 > [!policy-context] 新加坡双轨语言战略的制度起点
 > - **殖民放任遗产** 英国当局建埠初期推行放任政策，天主教传教士率先创办英语媒介学校，各族群学校自发分立并服务于转口贸易（Low & Brown, 2003）；英语文学教学初衷在于促使本土精英同化于宗主国文化（Foley, 2001）。
 > - **多语割裂危机** 建国前夕语言生态高度割裂，华校、英校、马来校与泰米尔校各自为政，华人内部存在多达 12 种方言藩篱（Chew, 2007；Turnbull, 2009）。
-> - **实用主义决断** 建国总理[[Lee Kuan Yew|李光耀]]（Lee Kuan Yew）立足小国地缘与经济生存现实，判定唯有掌握国际通用英语才能吸引跨国公司投资、汲取现代科技并化解族群利益冲突。
+> - **实用主义决断与声望规划** 建国总理[[Lee Kuan Yew|李光耀]]（Lee Kuan Yew）立足小国地缘与经济生存现实，判定唯有掌握国际通用英语才能吸引跨国公司投资、汲取现代科技并化解族群利益冲突；政府依托[[Prestige Planning|声望规划]]（Prestige Planning，Zhao & Liu, 2007）赋予标准英语以优厚经济回报与现代性象征，驱动家庭自发向英语转移。
 > - **文化防线规制** 规定各族群必须修习官方指定的族群母语（华语、马来语、泰米尔语），以维系亚洲传统道德价值观与文化活力（Dixon, 2009；Han et al., 2011；Mauzy & Milne, 2002）。
 
 > [!citation-card] 李光耀论学习英语与母语的双重战略必要性
@@ -324,7 +330,7 @@ issuing_organization: ""
 > - **官方标准语纯洁主义立场** 秉持主导性的[[Standard Language Ideology|标准语意识形态]]，坚持世界上只有单一标准英语具备合法性，视新加坡式英语为劣质变体与国际经贸阻碍，主张依托行政干预与教育规制予以全面消除（Crystal, 2003；Sinagatullin, 2006；Wagner, 2008）。
 > - **民间双层语言转换实践** 年轻一代在正式职场与非正式社交之间展现出成熟的双层语言（Diglossia）自适应切换能力，将新加坡式英语视为本土归属感、亲和力与社群凝聚力的不可替代载体。
 >
-> **核心张力** 官方行政强力规制与民间文化认同自发演进之间的结构性脱节，使得消除混合变体的努力收效甚微，反而加剧了政策规划与民众文化心理的隔阂。
+> **核心张力** 官方行政强力规制与民间文化认同自发演进之间的结构性脱节，使得消除混合变体的努力收效甚微；双语政策在实践中面临从理想的附加型双语（Additive Bilingualism）[[Alienation|异化]]为母语受蚀的削减型双语风险，呼唤以包容性语码转换为取向的增量调适机制（Lambert, 1975）。
 
 ---
 

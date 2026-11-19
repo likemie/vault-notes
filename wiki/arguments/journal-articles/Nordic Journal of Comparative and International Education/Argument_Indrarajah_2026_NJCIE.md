@@ -47,6 +47,7 @@ related_concepts:
   - "[[Global Regionalisms]]"
   - "[[Praxis]]"
   - "[[Tri Hita Karana]]"
+  - "[[Khwan]]"
 related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"
   - "[[Dependency Theory]]"
@@ -55,7 +56,8 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Critical Policy Analysis]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Syed Farid Alatas]]"
 related_facts:
   - "[[EU]]"
   - "[[ASEAN]]"
@@ -66,6 +68,7 @@ related_facts:
   - "[[AIMS Programme]]"
   - "[[Bologna Process]]"
   - "[[Belt and Road Initiative]]"
+  - "[[ASEAN Plus Three Working Group on Mobility and Quality Assurance of Higher Education]]"
 related_arguments:
   - "[[Argument_Chou_2017_PolSoc]]"
 sources:
@@ -80,7 +83,7 @@ title: "Argument_Indrarajah_2026_NJCIE"
 argument_key: "Argument_Indrarajah_2026_NJCIE"
 argument_display_title: "Challenging neocoloniality in Southeast Asian higher education: Charting the ASEAN way of regionalization through a decolonial lens"
 argument_kind: "journal-article"
-argument_related_count: 43
+argument_related_count: 46
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -133,7 +136,7 @@ issuing_organization: ""
 > |------|----------------|
 > | **方法论取向**<br>[[Critical Policy Analysis\|批判性政策分析]]（Critical Policy Analysis, CPA） | 运用批判性政策分析透视东盟高教治理的历史渊源、权力拓扑、决策主体代表性与政策分配效应，解构[[Discourse\|话语]]背后的新殖民利益关联（Diem et al., 2014; Taylor, 1997）。 |
 > | **材料范围**<br>概念综合与政策文本分析 | 综合分析东盟教育工作计划（2021–2025）、东南亚高教共同空间联合声明、AUN与SEAMEO-RIHED章程及公开政策文件（ASEAN, 2022, 2024）。 |
-> | **[[Analytical Stance\|批判立场]]与学者位置性** | 扎根东南亚本土多元族群生活经验与跨国高教学术合作实践，优先阐发长期受主流学界边缘化的原住民学者见解（Grande, 2018; Moosavi & Alatas, 2024）。 |
+> | **[[Analytical Stance\|批判立场]]与学者位置性** | 扎根东南亚本土多元族群生活经验与跨国高教学术合作实践，优先阐发赛义德·法里德·阿拉塔斯（[[Syed Farid Alatas]]）等学者关于去殖民学术重构的见解（Grande, 2018; Moosavi & Alatas, 2024）。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -208,7 +211,7 @@ issuing_organization: ""
 > | 渗透力量阵营 | 代表性行动者 | 核心渗透路径与政策工具 | 地缘战略意图与隐性动机 | 东南亚高教系统的依附表征 |
 > |---|---|---|---|---|
 > | **西方强权与欧盟**<br>（欧美新殖民势力） | 英国大学联合会、美国智库网络、欧洲对外行动署（European External Action Service, EEAS）驻越使团与驻东盟机构 | 跨国政策借用（博洛尼亚进程规程移植）、跨国教育分校设立、学位认证标准输出（[[Argument_Chou_2017_PolSoc\|Chou & Ravinet, 2017]]; Robertson, 2010） | 欧盟驻越南使团曾明确指出：跨国教育合作是欧盟在全球投射规范与软实力的关键渠道（EEAS, 2020）；视东南亚为分散的教育创收市场 | 盲目跟从国际最佳实践，将办学成效锚定于西方商业排名，忽视在地生计与社区福祉（Lee, 2013） |
-> | **东亚区域大国**<br>（中日新殖民势力） | 中国高校与地缘合作机制、日本政府文教部门及早稻田等顶尖大学 | 东盟10+3高教流动与质保工作组（日本发起）、双边定向留学全额奖学金、南海地缘博弈配套项目（Cheok & Chen, 2019） | 日本曾通过二战时期皇民化与大东亚共荣叙事塑造亚细亚现代性（Liao, 2021）；当代东亚大国借助高教奖学金培植亲和精英 | 东盟大学联盟（AUN）官方奖学金主要单向投向中日；区域跨国内部学生流动仅占总量的10%（Chi Hou et al., 2017） |
+> | **东亚区域大国**<br>（中日新殖民势力） | 中国高校与地缘合作机制、日本政府文教部门及早稻田等顶尖大学 | [[ASEAN Plus Three Working Group on Mobility and Quality Assurance of Higher Education\|东盟10+3高教流动与质保工作组]]（日本发起）、双边定向留学全额奖学金、南海地缘博弈配套项目（Cheok & Chen, 2019） | 日本曾通过二战时期皇民化与大东亚共荣叙事塑造亚细亚现代性（Liao, 2021）；当代东亚大国借助高教奖学金培植亲和精英 | 东盟大学联盟（AUN）官方奖学金主要单向投向中日；区域跨国内部学生流动仅占总量的10%（Chi Hou et al., 2017） |
 
 ---
 
@@ -306,7 +309,7 @@ issuing_organization: ""
 ---
 
 > [!warning] 自述局限
-> - 三大原住民哲学并未穷尽东南亚本土智慧；印度尼西亚巴厘岛[[Tri Hita Karana|三界和谐]]（Tri Hita Karana; Pitana, 2010）与泰国魂魄修养（Khwan; Rajadhon, 1962）同样是蕴含社群关怀的重要本土认知传统。
+> - 三大原住民哲学并未穷尽东南亚本土智慧；印度尼西亚巴厘岛[[Tri Hita Karana|三界和谐]]（Tri Hita Karana; Pitana, 2010）与[[Khwan|泰国魂魄修养]]（Khwan; Rajadhon, 1962）同样是蕴含社群关怀的重要本土认知传统。
 > - 巴布亚新几内亚在政治区划上未被纳入东盟正式成员国，但跨越殖民划界将其纳入考察，能为区域高教提供互补的生态认识论视角。
 > - 当前探讨立足概念综合与政策思辨，后续仍需结合各成员国具体高校推进在地实证调研。
 

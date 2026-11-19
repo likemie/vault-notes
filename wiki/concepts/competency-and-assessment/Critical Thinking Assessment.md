@@ -8,7 +8,7 @@ aliases:
 summary: "批判性思维测评是对个体在论证分析、证据评价、推论构建与反思判断等高阶认知技能及求真探究倾向的操作化测量与促学评价；在教育与心理研究中用于量化学业增益、诊断思维短板并检验课程对齐与构念效度。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 72
+related_count: 73
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -51,9 +51,10 @@ related_concepts:
   - "[[Knowledge Questions]]"
   - "[[Task Structure]]"
   - "[[Variable]]"
-  - "[[Domain Specificity]]"
   - "[[Authentic Assessment]]"
+  - "[[Peer Assessment]]"
   - "[[Philosophy in Schools]]"
+  - "[[Domain Specificity]]"
 related_theories: []
 related_methods:
   - "[[Multiple-Choice Questions]]"
@@ -65,8 +66,8 @@ related_methods:
   - "[[Meta-regression]]"
   - "[[Rating Scale]]"
   - "[[Analytic Framework]]"
-  - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
+  - "[[Systematic Review]]"
 related_instruments:
   - "[[Watson-Glaser Critical Thinking Appraisal]]"
   - "[[California Critical Thinking Skills Test]]"
@@ -92,14 +93,14 @@ related_arguments:
   - "[[Argument_Park_2026_TSC]]"
   - "[[Argument_Hughes_2014_JRIE]]"
   - "[[Argument_Cole_2015_AJE]]"
+  - "[[Argument_Lim_2015_CurricInq]]"
   - "[[Argument_Zemplen_2007_SciEduc]]"
   - "[[Argument_Bergeron_2015_TeachingTOK]]"
   - "[[Argument_Abrami_2015_RER]]"
-  - "[[Argument_Lim_2015_CurricInq]]"
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -112,7 +113,7 @@ updated: 2026-11-18
 > - **用途** 用于院校与系统的质量问责与增值监测、高利害专业准入与招生选拔、课程大纲与评估任务的[[Constructive Alignment\|建构性对齐]]审核，以及日常课堂中向师生提供精准的[[Formative Assessment\|形成性评价]]反馈。
 > - **边界** 测量命令词或题型格式本身不能等同于高阶思维的实际发生；[[Multiple-Choice Questions\|客观选择题]]易陷入“选项再认”而非“主动生成”的效度局限，自陈[[Questionnaire\|问卷]]则易受[[Common Method Variance\|共同方法变异]]与社会期望污染。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 24–26)]] [[Argument_Park_2026_TSC\|(Park et al., 2026, pp. 8–10)]]
 
-> [!citation-card|notitle] 真实性任务与测评范式转型
+> [!citation-card|notitle] 真实性任务与测评[[Paradigm|范式]]转型
 > 测量[[Creativity\|创造力]]与批判性思维等高阶思维技能，需要采用精细的开放式且嵌入课程的表现任务（如研究项目、产品开发、学术展示等），使学生能够深入分析、应用知识并创造全新解决方案，而非仅仅在预设选项中进行勾选。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 24)]]
 >
 > *Measuring advanced-thinking skills such as creativity and critical thinking calls for the use of elaborate open-ended and curriculum-embedded tasks through which students can engage in analysis, apply knowledge and create new solutions, rather than select among pre-determined options.*
@@ -183,7 +184,7 @@ updated: 2026-11-18
 > [!concept-proposition] 命题三｜课程嵌入式真实性评分量规是实现建构性对齐与微观促学评价的核心中枢
 > **校本评价与形成性促学** 探讨如何跨越宏观政策倡导与微观课堂教学考核之间的松散连结断裂，以及评价量规在同行互评中如何促成思维习惯内化。
 >
-> > [!claim] Biggs, J.; Rhodes, T. L.; Wagenaar, R.; Bouckaert, M.
+> > [!claim] [[John Biggs|Biggs, J.]]; Rhodes, T. L.; Wagenaar, R.; Bouckaert, M.
 > > **真实性评分量规的生态效度与促学机制** 大规模外部统考（如美国 [[Voluntary System of Accountability\|VSA]] 计划）因与具体学科脱节、评分昂贵且无法指导教学改进而逐步退潮；以全美 AAC&U VALUE 量规和欧洲 [[CALOHEE Project\|CALOHEE]] 框架为代表的课程嵌入式质性评分量规（Rubrics），将抽象思维目标转化为可观察的阶梯式表现描述符（Benchmark → Capstone），直接嵌入真实[[Homework\|作业]]与项目设计中。它既克服了传统评分的主观随意性与客观选择题的构念狭隘，又实现了从宏观资格框架、专业培养方案到课堂任务的[[Constructive Alignment\|建构性对齐]]，并通过透明标准全面赋能[[Formative Assessment\|形成性评价]]与学生自我调节。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 26–34)]]
 >
 > > [!claim] Lim & Apple
@@ -192,7 +193,7 @@ updated: 2026-11-18
 ---
 
 > [!concept-proposition] 命题四｜课程评价的[[Construct Validity|构念效度]]依赖对高阶认知活动的充分表征并须防范术语表演风险
-> **课程操作化与评价效度审查** 探讨显性思维课程在转化为具体评价任务时面临的效度覆盖与实操评分挑战。
+> **课程操作化与[[Evaluative Validity|评价效度]]审查** 探讨显性思维课程在转化为具体评价任务时面临的效度覆盖与实操评分挑战。
 >
 > > [!claim] Hughes, C.; Zemplén, G. Á.; Bergeron, L., & Rogers, C.
 > > **构念覆盖不足、术语表演与主观评分困境** 对探究性课程（如 IB ToK）的构念审查显示，书面课程目标虽高调倡导批判性思维，但实际评估任务往往局限于[[Knowledge Questions\|知识问题]]讨论与反主张列举，未能系统覆盖批判性阅读、证据来源考据、假设检验、概率判断与决策解决，导致内部对齐不能等同于完整的[[Construct Validity\|构念效度]]。同时，当评分标准过度依赖特定分析词汇时，易诱发学生通过套用套话进行“术语表演”（Jargon Performance）；而在教学一线，缺乏绝对客观答案的主观思维评估始终是教师面临的最大实操痛点。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 38–43)]] [[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007, pp. 171–174)]] [[Argument_Bergeron_2015_TeachingTOK\|(Bergeron & Rogers, 2015, pp. 18, 33)]]
@@ -251,17 +252,17 @@ updated: 2026-11-18
 > | [[Authentic Assessment]] | 概念 | 表现性任务与量规评定构成了克服客观测试构念代表性不足的真实性评价路径。 |
 > | [[Higher-Order Thinking Skills]] | 概念 | 批判性思维测评重点关注分析、评价与反思等高阶认知技能的生成性表现。 |
 > | [[Scoring Rubrics]] | 概念 | 质性评分量规将抽象思维目标分解为多梯级描述符，保障评价一致性与促学导向。 |
-> | [[Formative Assessment]] | 概念 | 批判性思维量规深度嵌入日常教学，通过多轮草稿与同伴互评提供形成性反馈。 |
+> | [[Formative Assessment]] | 概念 | 批判性思维量规深度嵌入日常教学，通过多轮草稿与[[Peer Assessment\|同伴互评]]提供形成性反馈。 |
 > | [[Philosophy in Schools]] | 概念 | 哲学探究共同体依托表现量规开展高频同行互评，促进批判准则内化。[[Argument_Lim_2015_CurricInq\|(Lim & Apple, 2015, pp. 11–13)]] |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Lim_2015_CurricInq|Lim and Apple (2015)]] — 揭示新加坡顶尖精英高中如何将基于 9 项认知标准的表现量规融入哲学研讨课同行互评，实证展示批判性思维评价准则向学生内在反思心智习惯的转化机制。
-> - [[Argument_Park_2026_TSC|Park et al. (2026)]] — 通过三水平元分析系统检验了主客观测量类型对批判性思维与其他高阶能力相关的显著调节效应，确立了自陈测量中 CMV 的膨胀机制与表现测验的真实认知重叠。
-> - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — 系统综述 OECD 国家高等教育评价政策与实践，详尽梳理 5 类测评工具谱系、客观统考的构念代表性不足及校本真实性评分量规的崛起机制。
+> - [[Argument_Park_2026_TSC|Park et al. (2026)]] — 通过三水平[[Meta-analysis|元分析]]系统检验了主客观测量类型对批判性思维与其他高阶能力相关的显著调节效应，确立了自陈测量中 CMV 的膨胀机制与表现测验的真实认知重叠。
+> - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — [[Systematic Review|系统综述]] [[OECD]] 国家高等教育评价政策与实践，详尽梳理 5 类测评工具谱系、客观统考的构念代表性不足及校本真实性评分量规的崛起机制。
 > - [[Argument_Hughes_2014_JRIE|Hughes (2014)]] — 运用 Facione、Halpern 与 Paul 等多套框架审查国际课程评估大纲，揭示名义对齐与实际构念覆盖不足的效度脱节。
-> - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 综合 341 项实验研究，对比了通用技能测验（$g+=0.30$）、学科特异性测验（$g+=0.57$）与倾向问卷（$g+=0.23$）在不同教学干预下的效应差异。
-> - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 运用 CTSS 与 MSLQ-CT 测量高中探究课程学生的批判性思维策略与动机表现。
+> - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 综合 341 项实验研究，对比了通用技能测验（$g+=0.30$）、[[Domain Specificity|学科特异性]]测验（$g+=0.57$）与倾向问卷（$g+=0.23$）在不同教学干预下的效应差异。
+> - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 运用 CTSS 与 [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale|MSLQ-CT]] 测量高中探究课程学生的批判性思维策略与动机表现。
 > - [[Argument_Bergeron_2015_TeachingTOK|Bergeron and Rogers (2015)]] — 调查 960 名国际课程教师，证实评估批判性思维进展是教师面临的首要教学实操痛点。
 > - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 批判分析评估量规如何诱发学生的套话表演与虚假反思，论证真实批判性判断的测评标准。

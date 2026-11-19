@@ -7,7 +7,7 @@ aliases:
 summary: "由语言学家安妮·帕基尔于1991年提出、后经蔡秀琼等学者深化发展的语言政策构念。指以英语作为跨族群共同行政工作语言与主导教学媒介语、同时将官方指定母语作为族群文化防线的双轨双语制度架构及其在多元社会中塑造的语言生存形态。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -32,6 +32,7 @@ related_theories:
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Anne Pakir]]"
   - "[[Lee Kuan Yew]]"
 related_facts:
   - "[[National Institute of Education]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-18
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -134,7 +135,7 @@ updated: 2026-11-18
 > [!dev-timeline] 概念演变
 > - **1966 — 政策奠基** 新加坡正式推行双语教育政策，规定全体学生必须修习英语及官方指定母语。
 > - **1979–1987 — 全英语媒介语统一** 逐步停办华语、马来语和泰米尔语媒介学校，确立标准英语在正规教育体系中的唯一通用媒介语地位。
-> - **1991 — 理论概念化** 语言学家安妮·帕基尔（Anne Pakir）正式提出“懂英语的双语主义”（English-Knowing Bilingualism），将其界定为小国生存与族群中立的语言政策模式。[[Argument_Chua_2011_CILP|(Chua, 2011, p. 125)]]
+> - **1991 — 理论概念化** 语言学家[[Anne Pakir|安妮·帕基尔]]（Anne Pakir）正式提出“懂英语的双语主义”（English-Knowing Bilingualism），将其界定为小国生存与族群中立的语言政策模式。[[Argument_Chua_2011_CILP|(Chua, 2011, p. 125)]]
 > - **2011 — 懂新式英语的双语主义深化** 蔡秀琼（Siew Kheng Catherine Chua）将该[[Construct|构念]]拓展为懂新式英语的双语主义（E(Si)nglish-knowing bilingualism），揭示出英语全浸润引发的母语素养断裂与混合变体认同反弹。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 125–142)]]
 
 ---

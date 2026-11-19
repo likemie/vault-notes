@@ -3166,6 +3166,19 @@
     ]
   },
   {
+    "title": "Additive Bilingualism",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Additive Bilingualism.md",
+    "aliases": [
+      "附加型双语",
+      "增量双语",
+      "相加型双语",
+      "Subtractive Bilingualism",
+      "削减型双语",
+      "消减型双语"
+    ]
+  },
+  {
     "title": "Advanced Placement Program",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Advanced Placement Program.md",
@@ -5846,6 +5859,18 @@
     ]
   },
   {
+    "title": "Khwan",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Khwan.md",
+    "aliases": [
+      "泰语生命精神哲学",
+      "魂魄哲学",
+      "泰国魂魄修养",
+      "泰语生命元魄",
+      "Khwan Philosophy"
+    ]
+  },
+  {
     "title": "Kunstformen",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Kunstformen.md",
@@ -8172,6 +8197,17 @@
       "实践本位证据",
       "实践产生的证据",
       "PBE"
+    ]
+  },
+  {
+    "title": "Prestige Planning",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Prestige Planning.md",
+    "aliases": [
+      "声望规划",
+      "语言声望规划",
+      "Prestige Language Planning",
+      "语言形象规划"
     ]
   },
   {
@@ -11885,6 +11921,15 @@
     "path": "wiki/concepts/instruction-pedagogy/Collaborative Learning.md",
     "aliases": [
       "协作学习"
+    ]
+  },
+  {
+    "title": "Community of Inquiry",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Community of Inquiry.md",
+    "aliases": [
+      "探究共同体",
+      "探究社区"
     ]
   },
   {
@@ -34651,6 +34696,16 @@
     ]
   },
   {
+    "title": "Anne Pakir",
+    "type": "person",
+    "path": "wiki/persons/singapore/Anne Pakir.md",
+    "aliases": [
+      "安妮·帕基尔",
+      "帕基尔",
+      "Pakir, A."
+    ]
+  },
+  {
     "title": "Goh Keng Swee",
     "type": "person",
     "path": "wiki/persons/singapore/Goh Keng Swee.md",
@@ -34677,6 +34732,17 @@
       "高平纳坦",
       "S. Gopinathan",
       "Gopinathan, S."
+    ]
+  },
+  {
+    "title": "Syed Farid Alatas",
+    "type": "person",
+    "path": "wiki/persons/singapore/Syed Farid Alatas.md",
+    "aliases": [
+      "赛义德·法里德·阿拉塔斯",
+      "S. F. Alatas",
+      "法里德·阿拉塔斯",
+      "Farid Alatas"
     ]
   },
   {
@@ -38355,6 +38421,17 @@
       "Martin A. Trow",
       "Trow, M.",
       "M. Trow"
+    ]
+  },
+  {
+    "title": "Matthew Lipman",
+    "type": "person",
+    "path": "wiki/persons/us/Matthew Lipman.md",
+    "aliases": [
+      "马修·李普曼",
+      "马修·利普曼",
+      "李普曼",
+      "Lipman, M."
     ]
   },
   {
@@ -46309,6 +46386,18 @@
     "subtype": "organization"
   },
   {
+    "title": "ASEAN Plus Three Working Group on Mobility and Quality Assurance of Higher Education",
+    "type": "fact",
+    "path": "wiki/facts/multi/ASEAN Plus Three Working Group on Mobility and Quality Assurance of Higher Education.md",
+    "aliases": [
+      "东盟与中日韩高等教育流动与质量保障工作组",
+      "东盟10+3高等教育流动与质量保障工作组",
+      "APT-WG",
+      "ASEAN Plus Three Working Group"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "ASEAN University Network",
     "type": "fact",
     "path": "wiki/facts/multi/ASEAN University Network.md",
@@ -47510,6 +47599,18 @@
       "mp1",
       "IT Masterplan 1",
       "Masterplan for ICT in Education 1"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Gifted Education Programme",
+    "type": "fact",
+    "path": "wiki/facts/singapore/Gifted Education Programme.md",
+    "aliases": [
+      "天才教育计划",
+      "新加坡天才教育计划",
+      "GEP",
+      "Gifted Education Programme Singapore"
     ],
     "subtype": "policy"
   },

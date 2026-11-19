@@ -7,7 +7,7 @@ aliases:
 summary: "学习者在知识建构、标准评估与探究决策中作为认知主体深度参与的能动权能，强调超越机械遵循预设程序，共同协商并塑造共同体的认识论准则，是指导式探究区别于直接讲授的核心标志"
 type: concept
 domain: "educational-psychology"
-related_count: 72
+related_count: 74
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Direct Instruction]]"
+  - "[[Community of Inquiry]]"
   - "[[Epistemology]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Alien Intelligence]]"
@@ -37,6 +38,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Discourse]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Dialogue in Education]]"
   - "[[Epistemological Understanding]]"
   - "[[Lecturing]]"
   - "[[Working Memory]]"
@@ -98,7 +100,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -107,7 +109,7 @@ updated: 2026-11-15
 > 认识能动性（Epistemic Agency，亦作认识主体性、认识能动权）是指学习者在探究实践中，有权且有能力对“知道什么”（知识主张的提出与模型建构）以及“如何知道”（认识准则、检验方法与评价标准的设定）进行自主决策、反思权衡与共同建构的能动状态。它要求教学超越由教师单向颁布规程的程序遵循[[Paradigm\|范式]]，促使学生真正承担起收集经验证据、权衡竞争性解释以及协商知识标准的认识责任，是区分[[Inquiry-Based Learning\|探究式学习]]与单一[[Direct Instruction\|直接教学]]的核心分水岭。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 222–224)]]; [[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 2)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 强调学习者在探究共同体中作为合法[[Knowledge Building Theory|知识建构]]者的权能地位，核心在于对因果推论过程与证据评价标准的双重自主权。
+> - **含义** 强调学习者在[[Community of Inquiry|探究共同体]]中作为合法[[Knowledge Building Theory|知识建构]]者的权能地位，核心在于对因果推论过程与证据评价标准的双重自主权。
 > - **用途** 帮助研究者透视课堂教学中看似热闹的探究活动是否仅停留在机械执行步骤的仪式性探究（Cookbook Inquiry），进而诊断学习者是否真正拥有[[Epistemology\|认识论]]层面的裁决责任。
 > - **[[Man-Computer Symbiosis|人机共生]]视界** 在智能技术常态化嵌入背景下，认识主体性并不追求孤立绝缘的技术纯洁性，是在人机共享网络与相互依赖关系中维持对证据核查、推理复现与责任承担的核心裁决权（[[Argument_Wu_2025_ER\|Wu et al., 2025, pp. 358–360]]; [[Argument_Du_Yuan_2026_AIS\|Du & Yuan, 2026, pp. 7–8]]）；同时，防范将构思、提纲与修改等高增益工序外包的私厨代劳陷阱，将 AI 视作[[Alien Intelligence|异己智能]]而非权威厨师，是避免学习者陷入自我贬抑的[[Reliability|信度]]赤字与虚假通胀、抵御[[Formative Epistemic Injustice|成长性认识不正义]]的伦理底线。[[Argument_Smith_2026_SPE|(Smith, 2026, pp. 3–4, 9–11)]]
 > - **边界** 必须严格区分纯粹的无指导放任猜测与有支架的认识能动性；认识能动性始终依托严谨的证据约束、教师促学支架与共同体公共论辩而展开。
@@ -178,7 +180,7 @@ updated: 2026-11-15
 > **教学[[Paradigm\|范式]]转型维度** 聚焦探究教学的核心矛盾：是将科学规程作为现成定论强行灌输给学生，还是引导学生在真实探究情境中自主推导规程背后的因果合理性。
 
 > [!claim] Duncan & Chinn
-> **超越程序主义的认识转向** 传统教学往往将控制[[Variable\|变量]]、设置对照组等方法论规则作为教条直接告知学生，导致学生仅机械套用步骤而不知其所以然。唯有引导学生直面相互对立的模型与存在严重缺陷的弱证据，并在课堂对话中辩护为何某种观察条件（如野外无物理遮挡、系统样线抽样）更为可靠，学生才能建立起深刻的[[Epistemological Understanding\|元认识论理解]]，真正确立认识能动性。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 222–223)]]
+> **超越程序主义的认识转向** 传统教学往往将控制[[Variable\|变量]]、设置对照组等方法论规则作为教条直接告知学生，导致学生仅机械套用步骤而不知其所以然。唯有引导学生直面相互对立的模型与存在严重缺陷的弱证据，并在[[Dialogue in Education|课堂对话]]中辩护为何某种观察条件（如野外无物理遮挡、系统样线抽样）更为可靠，学生才能建立起深刻的[[Epistemological Understanding\|元认识论理解]]，真正确立认识能动性。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 222–223)]]
 
 ---
 

@@ -9,7 +9,7 @@ aliases:
 summary: "由国家建制与主流教育系统维护的规范信念体系，将单一理想化书面标准变体视作唯一合法与优越的语言形式，并将本土演化的混合变体贬抑为劣质与退化。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 13
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,13 +28,15 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Singlish]]"
   - "[[Code-Switching]]"
+  - "[[Additive Bilingualism]]"
   - "[[Paradigm]]"
   - "[[English-Knowing Bilingualism]]"
 related_theories: []
 related_methods:
   - "[[Critical Policy Analysis]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Anne Pakir]]"
 related_facts:
   - "[[Speak Good English Movement]]"
 related_arguments:
@@ -96,7 +98,7 @@ updated: 2026-11-19
 > [!concept-proposition] 命题一｜标准语意识形态通过将语言规范性与国家经济生存[[Discourse|话语]]深度绑定，掩盖了语言演化的社会接触规律
 > **规制合法化机制** 这类命题关注后殖民国家如何借助工具理性与[[Pragmatic Paradigm|实用主义]]修辞，将单一标准语的推行从单纯的语言规划升华为关乎国家生死存亡的必然选择。
 
-> [!claim] Pakir, A.
+> [!claim] [[Anne Pakir|Pakir, A.]]
 > **标准语全渗透效应** 新加坡的“懂英语的双语制”深嵌于强烈的标准语意识形态之中；这种意识形态不仅完全主导了学校英语课程大纲与师资资历审定，更将偏离英国标准英语的本土语言创新视为对国家经济工具职能的削弱。[[Argument_Chua_2011_CILP|(Pakir, 2008; Chua, 2011, p. 140)]]
 
 > [!claim] Chua, S. K. C.
@@ -111,7 +113,7 @@ updated: 2026-11-19
 > **语言演化自主性原理** 英语在全球传播与本土接触中已经成长为独立于任何社会与国家行政控制的力量；任何企图依靠政策法令全面消除本土变体、推行单一标准语霸权的语言规划设想，在现实中均被证明是脱离社会语言学规律的空想。[[Argument_Chua_2011_CILP|(Crystal, 2003; Chua, 2011, p. 140)]]
 
 > [!claim] Chua, S. K. C.
-> **从消灭走向共存调适** [[Singlish|新加坡式英语]]已成为青年一代与本土多元族群维系情感联结和本土文化认同的不可替代载体；合理的语言政策必须超越狭隘的标准语意识形态，转向承认双层语言现实并注重培养[[Code-Switching|语码转换]]素养的增量双语[[Paradigm|范式]]。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 140–142)]]
+> **从消灭走向共存调适** [[Singlish|新加坡式英语]]已成为青年一代与本土多元族群维系情感联结和本土文化认同的不可替代载体；合理的语言政策必须超越狭隘的标准语意识形态，转向承认双层语言现实并注重培养[[Code-Switching|语码转换]]素养的[[Additive Bilingualism|增量双语]][[Paradigm|范式]]。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 140–142)]]
 
 ---
 

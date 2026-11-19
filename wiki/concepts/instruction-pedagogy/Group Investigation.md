@@ -7,7 +7,7 @@ aliases:
 summary: "由 Shlomo Sharan 与 Yael Sharan（1992）基于杜威实用主义与社会建构理论开发的民主探究型合作学习模式。通过全班确定总主题、小组自主分工规划、资料搜集探究、报告综合形成、全班展示与多维评价六步规程，实现高阶思维与深度学科素养的协同发展。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Cooperative Learning]]"
   - "[[Democratic Education]]"
+  - "[[Community of Inquiry]]"
   - "[[Scientific Method]]"
   - "[[Problem Solving]]"
   - "[[Jigsaw]]"
@@ -48,13 +49,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-11-03
+updated: 2026-11-19
 ---
 
 ---
 
 > [!def] Group Investigation
-> Group Investigation（小组[[Survey Research\|调查法]] / 小组探究法，GI）是由以色列学者 Shlomo Sharan 与 Yael Sharan 于 1992 年系统建构的一种高度开放、以学生为中心的民主探究型[[Cooperative Learning\|合作学习]]教学模式。该方法植根于[[John Dewey\|约翰·杜威]]（John Dewey）的[[Democratic Education\|民主教育]]与经验探究哲学，强调将课堂重组为微型“探究共同体”；学生根据兴趣自主组建 2–6 人的异质小组，围绕核心主题自主选定子课题并设计调查方案，通过多源信息搜集、协作分析与观点综合，最终向全班汇报探究成果并接受多维评价。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 3)]]
+> Group Investigation（小组[[Survey Research\|调查法]] / 小组探究法，GI）是由以色列学者 Shlomo Sharan 与 Yael Sharan 于 1992 年系统建构的一种高度开放、以学生为中心的民主探究型[[Cooperative Learning\|合作学习]]教学模式。该方法植根于[[John Dewey\|约翰·杜威]]（John Dewey）的[[Democratic Education\|民主教育]]与经验探究哲学，强调将课堂重组为微型“[[Community of Inquiry|探究共同体]]”；学生根据兴趣自主组建 2–6 人的异质小组，围绕核心主题自主选定子课题并设计调查方案，通过多源信息搜集、协作分析与观点综合，最终向全班汇报探究成果并接受多维评价。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 3)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将学习自主权高度下放给异质小组，结合社会化互动与[[Scientific Method\|科学探究方法]]，实现真实[[Problem Solving\|问题解决]]与集体智能生成。
