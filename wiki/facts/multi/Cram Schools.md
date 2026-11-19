@@ -17,11 +17,11 @@ summary: 东亚与东南亚社会广泛存在的校外营利性学业补习机�
 type: fact
 subtype: event
 region: multi
-fact_region: multi
-fact_kind: event
+fact_region: "multi"
+fact_kind: "event"
 fact_related_count: 24
 fact_related_level: 2
-fact_related_stars: ⭐⭐
+fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
   - region/east-asia

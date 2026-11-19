@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -156,7 +156,7 @@ updated: 2026-11-18
 >
 > | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | 异质性与预测区间 | 关键解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | Manning and Wong (2019) | 0.39 | — | Cohen's $d$ / 随机效应模型 | $k = 45$ / $N = —$ | 干预因素：学前教师专业资质对儿童认知与社会情感发展的促进效应 | — | 针对学前教育阶段（ECE），未能直接外推至中学高学科学段 |
+> | Manning and Wong (2019) | <span class="mx-bar ef-bar" title="Cohen's d 0.39"><span class="b8"></span></span>0.39 | — | Cohen's $d$ / 随机效应模型 | $k = 45$ / $N = —$ | 干预因素：学前教师专业资质对儿童认知与社会情感发展的促进效应 | — | 针对学前教育阶段（ECE），未能直接外推至中学高学科学段 |
 
 ---
 

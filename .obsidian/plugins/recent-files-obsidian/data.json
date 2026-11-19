@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
     },
     {
+      "basename": "Modernization Theory",
+      "path": "wiki/theories/sociology-of-education/Modernization Theory.md"
+    },
+    {
       "basename": "UN Sustainable Development Goals",
       "path": "wiki/facts/global/UN Sustainable Development Goals.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Goal-Controlled Mode",
       "path": "wiki/concepts/sociology-of-education/Goal-Controlled Mode.md"
-    },
-    {
-      "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch05",
-      "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch05.md"
     }
   ],
   "omittedPaths": [],

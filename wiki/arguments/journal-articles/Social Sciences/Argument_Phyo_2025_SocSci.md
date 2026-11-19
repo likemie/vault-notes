@@ -123,13 +123,26 @@ issuing_organization: ""
 > | **人口学与空间背景**<br>（协变量：性别与城乡区位） | 生理性别与居住地空间属性二元变量。 | 性别（女性 = 1，男性 = 0 基准组）；居住地（农村 = 1，城市 = 0 基准组）。(Byun et al., 2012) |
 > | **区域固定效应**<br>（控制项：$u_r$） | 各国内部次级行政区划的地理单元虚拟变量。 | 吸收省、州或大区层面不随时间演变的空间禀赋、院校分布密度与地方经济差异。 |
 
-> [!method-panel] 研究设计与计量模型设定
-> | 模块 | 计量模型规范与估计策略 |
+> [!method-panel] 研究设计与分析策略
+> | 研究环节 | 设计规范与方法策略 |
 > |---|---|
-> | **基准财富模型**<br>Model 1（单变量估计） | $$Y_{ir} = \alpha + \boldsymbol{\beta}_1 \cdot \text{wealth}_{ir} + u_r + \varepsilon_{ir}$$<br>仅引入财富五等分虚拟变量，估计未控制人口学特征时各财富群体相对最贫困基准组的原始获得差距。 |
-> | **协变量控制模型**<br>Model 2（主效应估计） | $$Y_{ir} = \alpha + \boldsymbol{\beta}_1 \cdot \text{wealth}_{ir} + \boldsymbol{\beta}_2 \cdot \mathbf{X}_i + u_r + \varepsilon_{ir}$$<br>加入性别与城乡区位向量 $\mathbf{X}_i$，检验在控制基本人口学特征后财富边际概率效应的稳定性。 |
-> | **交叉交互效应模型**<br>Model 3（多维交叉估计） | $$Y_{ir} = \alpha + \boldsymbol{\beta}_1 \cdot \text{wealth}_{ir} + \boldsymbol{\beta}_2 \cdot \mathbf{X}_i + \boldsymbol{\beta}_3 \cdot (\text{wealth}_{ir} \times \text{gender}_{ir}) + \boldsymbol{\beta}_4 \cdot (\text{wealth}_{ir} \times \text{rural}_{ir}) + u_r + \varepsilon_{ir}$$<br>全面引入财富与性别、财富与城乡的两组交互项，识别社会阶层内部的边缘化异质性。 |
-> | **估计策略与稳健性检验**<br>OLS & Logit Specifications | 统一采用 [[Linear Probability Model\|线性概率模型（Linear Probability Model, LPM）]]进行普通最小二乘法（Ordinary Least Squares, OLS）估计，系数具有直观百分点可比性；全模型运行二元 Logit 进行非线性稳健性核对，显著性与结论方向保持完全一致。(Fairlie & Sundstrom, 1999) |
+> | **抽样加权与适龄界定**<br>Sampling & Age Restriction | 基于 DHS 与 MICS 二阶段分层[[Cluster Sampling|整群抽样]]，施加调查抽样权重保证全国代表性；将分析样本严格限定于调查时点 25 岁及以上人口，确保被调查者已完整经历高等教育入口适龄期。(Ramirez Yee, 2024) |
+> | **跨期出生队列划分**<br>Cohort Construction | 针对 1946–1995 年出生人口按 5 年跨度划分连续出生队列（各省邦/国家覆盖 9–10 个队列），剥离调查实施时点的日历年干扰，并测算各队列相对于队列总人口的净入学率。 |
+> | **基准估计策略**<br>Linear Probability Model | 统一采用[[Linear Probability Model|线性概率模型（Linear Probability Model, LPM）]]进行普通最小二乘法（Ordinary Least Squares, OLS）估计，回归系数直接反映各群体相对基准组的高等教育获得边际概率百分点差异，具备直观跨国可比性。(Fairlie & Sundstrom, 1999) |
+> | **区域固定效应与稳健性**<br>Fixed Effects & Logit | 引入各国内部次级行政区划固定效应（$u_r$）吸收地理禀赋、院校分布与经济差异；全模型同步拟合二元 Logit 进行非线性稳健性核对，显著性与符号方向保持完全一致。 |
+
+> [!formula-set] 递进计量模型设定与公式规范
+> - **基准财富模型（Model 1 · 单变量估计）**
+>   $$Y_{ir} = \alpha + \boldsymbol{\beta}_1 \cdot \text{wealth}_{ir} + u_r + \varepsilon_{ir}$$
+>   仅引入家庭财富五等分虚拟变量向量 $\text{wealth}_{ir}$（以最贫困五分之一 Q1 为基准组），估计未控制人口学特征时各财富阶层相对基准组的高等教育获得原始概率差距。
+> - **协变量控制模型（Model 2 · 主效应估计）**
+>   $$Y_{ir} = \alpha + \boldsymbol{\beta}_1 \cdot \text{wealth}_{ir} + \boldsymbol{\beta}_2 \cdot \mathbf{X}_i + u_r + \varepsilon_{ir}$$
+>   在财富基准上纳入人口学与空间区位协变量向量 $\mathbf{X}_i$（性别：女性 = 1，男性 = 0 基准组；区位：农村 = 1，城市 = 0 基准组），检验控制基本背景特征后财富边际概率效应的稳定性。
+> - **多维交叉交互模型（Model 3 · 交叉异质性估计）**
+>   $$Y_{ir} = \alpha + \boldsymbol{\beta}_1 \cdot \text{wealth}_{ir} + \boldsymbol{\beta}_2 \cdot \mathbf{X}_i + \boldsymbol{\beta}_3 \cdot (\text{wealth}_{ir} \times \text{gender}_{ir}) + \boldsymbol{\beta}_4 \cdot (\text{wealth}_{ir} \times \text{rural}_{ir}) + u_r + \varepsilon_{ir}$$
+>   全面引入财富与性别、财富与城乡的两组交互项向量，捕捉社会阶层与人口、空间维度交叉塑造的深层异质性与非线性分层机制。
+> - **参数与误差项界定**
+>   $Y_{ir}$ 为个体 $i$ 在次级行政区划 $r$ 中是否曾进入高等教育的二元指示变量；$\alpha$ 为常数截距项；$\boldsymbol{\beta}_1$ 至 $\boldsymbol{\beta}_4$ 为待估参数向量；$u_r$ 为次级行政区划区域固定效应；$\varepsilon_{ir}$ 为随机扰动项。
 
 > [!sample-panel]- 跨国调查样本与微观教育程度分布（表 1 与表 2）
 >
@@ -204,7 +217,7 @@ issuing_organization: ""
 > - **大型系统极端分化（泰国）** 在高教体量最大的泰国，贫富差距从最年长世代的 29 个百分点飙升至年轻世代的 70 个百分点。
 > - **[[Maximally Maintained Inequality|MMI]] 阶层垄断机制印证** 跨期经验证实，在富裕家庭的大学需求彻底饱和之前，单纯扩大高校招生规模，新增席位就会持续被优势家庭锁定，底层群体难以自然分得扩招红利。(Buckner & Abdelaziz, 2023; Raftery & Hout, 1993)
 
-> [!row-contrast] 表3：分国别与队列的高等教育获得估计财富差距（基准组：最贫困五等分）
+> [!row-contrast]- 表3：分国别与队列的高等教育获得估计财富差距（基准组：最贫困五等分）
 > | 国家与出生队列 | 较贫困组 Model 1 / Model 2 | 中等组 Model 1 / Model 2 | 较富裕组 Model 1 / Model 2 | 最富裕组 Model 1 / Model 2 |
 > |---|---|---|---|---|
 > | **缅甸** 最年长队列 (1946–1950) | 0.006 / 0.002 | 0.012 / 0.005 | 0.004 / −0.015 | **0.134\*\*\* / 0.084\*\*\*** |
