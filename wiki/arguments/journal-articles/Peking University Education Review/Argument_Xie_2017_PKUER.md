@@ -53,13 +53,18 @@ related_instruments: []
 related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[Diane Reay]]"
+  - "[[Stephen Ball]]"
   - "[[Annette Lareau]]"
   - "[[Randall Collins]]"
   - "[[Paul Willis]]"
 related_facts:
   - "[[Rural School Consolidation]]"
+  - "[[Quota Allocation Scheme]]"
+  - "[[Higher Education Expansion in China 1999]]"
   - "[[Zhongkao]]"
+  - "[[Special Post Teacher Plan]]"
   - "[[Gaokao]]"
+  - "[[Gaokao Repetition]]"
 related_arguments: []
 sources:
   - "[[sources/Xie_2017_PKUER|Xie_2017_PKUER]]"
@@ -73,9 +78,9 @@ title: "Argument_Xie_2017_PKUER"
 argument_key: "Argument_Xie_2017_PKUER"
 argument_display_title: "“读书无用”还是“读书无望”——对农村底层居民教育观念的再认识"
 argument_kind: "journal-article"
-argument_related_count: 38
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 43
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: "北京大学教育评论"
 ---

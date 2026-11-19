@@ -14,9 +14,9 @@ subtype: policy
 region: "china"
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 8
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 12
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "[[Ministry of Education of the People's Republic of China|中华人民共和国教育部]]"
 tags:
@@ -30,6 +30,8 @@ related_concepts:
   - "[[First-Generation College Student]]"
   - "[[Credential Inflation]]"
   - "[[Quality Education]]"
+  - "[[Hopelessness in Schooling]]"
+  - "[[Opportunity Structure]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Effectively Maintained Inequality]]"
@@ -39,8 +41,10 @@ related_persons:
   - "[[Martin Trow]]"
 related_facts:
   - "[[1997 Asian Financial Crisis]]"
+  - "[[Gaokao Repetition]]"
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch01]]"
+  - "[[Argument_Xie_2017_PKUER]]"
 confidence: high
 status: active
 created: 2026-11-17

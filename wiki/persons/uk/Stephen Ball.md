@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 60
+person_related_count: 61
 person_related_level: 6
 person_related_stars: "💎💎"
 person_related_color: "#fef3c7"
@@ -90,6 +90,7 @@ related_arguments:
   - "[[Argument_Ball_2008_SR]]"
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
+  - "[[Argument_Xie_2017_PKUER]]"
   - "[[Argument_Volmari_2025_CE]]"
 confidence: high
 status: active
@@ -124,7 +125,7 @@ updated: 2026-11-19
 > - **2000 — *What is policy? Texts, trajectories and toolboxes*** 提出政策文本（Text）与政策执行（Enactment）的经典张力，阐明去情境化的普遍政策模板无法直接推导出各国的微观实践结果。[[Argument_Beech_2009_GlobalGarden|(Ball, 2000, cited in Beech, 2009b, p. 352)]]
 > - **2001 — *'You've been NERFed!' Dumbing down the academy: National Educational Research Forum*** 尖锐批判英国国家教育研究论坛推行的实用问责导向，揭示分类委托合同研究对大学基础研究自主逻辑的侵蚀与学术降维。[[Argument_Beech_2009_GlobalGarden|(Ball, 2001, cited in Beech, 2009b, pp. 355–356)]]
 > - **2003 — *The teacher's soul and the terrors of [[Performativity]]*** 确立表演性理论范式，剖析以指标生产和外在审计为核心的管理主义技术如何重塑教师灵魂，诱发伦理认知撕裂与职业异化。[[Argument_Johnson_2023_CritEduc|(Ball, 2003, cited in Johnson & Janzen, 2023, p. 29)]]
-> - **2008 — *Hidden Privatisation in Public Education*** （与 Deborah Youdell 合著）系统提出内生与[[Exogenous Privatisation|外生私有化]]分析范式，成为国际比较教育政策研究的奠基[[Document|文献]]。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 4)]]
+> - **2008 — *Hidden Privatisation in Public Education*** （与 Deborah Youdell 合著）系统提出内生与[[Exogenous Privatisation|外生私有化]]分析范式，成为国际比较教育政策研究的标志性[[Document|文献]]。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 4)]]
 > - **2008 — *Some sociologies of education: A history of problems and places, and segments and gazes*** 批判性总结教育社会学史，揭示量化审计指标如何将学校重构为可规训的[[Governing by Numbers|数字治理]]组织。[[Argument_Ball_2008_SR|(Ball, 2008, pp. 650–669)]]
 > - **2012 — *Global Education Inc.: New [[Policy Network|policy networks]] and the Neoliberal Imaginary*** 聚焦[[Transnational Education|跨国教育]]商业化与[[Policy Entrepreneur|政策企业家]]网络，剖析商业媒体对排位竞技的渲染如何加速教育政策的部长化与政治化。[[Argument_Xie_Li_Huang_2021_GEO|(Ball, 2012; Xie et al., 2021, p. 404)]]
 
@@ -209,7 +210,7 @@ updated: 2026-11-19
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Performativity]] | 概念 | 开创性提出；揭示基于数据产出与[[External Auditor\|外部审计]]的绩效技术对教师专业灵魂的规训重塑。 |
-> | [[Educational Privatisation]] | 概念 | 奠基框架；区分学校内部企业化运作（内生私有化）与将教学公共服务外包（外生私有化）。 |
+> | [[Educational Privatisation]] | 概念 | 分析框架构建；区分学校内部企业化运作（内生私有化）与将教学公共服务外包（外生私有化）。 |
 > | [[Policy Network]] | 概念 | 拓扑学发展；分析跨国商业与慈善资本如何通过非正式政策网络参与公共治理。 |
 > | [[Policy Entrepreneur]] | 概念 | 跨国拓展；指认在全球范围内游说并推销私有化与绩效化方案的商业与智库代理人。 |
 > | [[Governing by Numbers]] | 概念 | 批判分析；揭示数目化指标如何将复杂学校重构为可审计客体并赋能远距治理。 |

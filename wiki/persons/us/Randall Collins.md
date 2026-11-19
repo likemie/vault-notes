@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 12
+person_related_count: 16
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -28,6 +28,8 @@ related_concepts:
   - "[[Economy of Experience]]"
   - "[[Construct]]"
   - "[[Cultural Capital]]"
+  - "[[Hopelessness in Schooling]]"
+  - "[[Opportunity Structure]]"
 related_theories:
   - "[[Modernization Theory]]"
   - "[[Neo-Weberian State]]"
@@ -39,9 +41,11 @@ related_persons:
   - "[[Yajun Zheng]]"
 related_facts:
   - "[[Higher Education Expansion in China 1999]]"
+  - "[[Gaokao Repetition]]"
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch01]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
+  - "[[Argument_Xie_2017_PKUER]]"
 confidence: high
 status: active
 created: 2026-11-17
@@ -52,7 +56,7 @@ updated: 2026-11-19
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代著名社会学家，宾夕法尼亚大学（University of Pennsylvania）社会学系荣休讲席教授，曾任美国社会学学会（ASA）会长。
-> - **核心角色** 冲突社会学、微观社会学（互动仪式链理论）以及历史比较社会学领军人物，在教育社会学领域是反[[Modernization Theory|技术功能主义]]的奠基学者。
+> - **核心角色** 冲突社会学、微观社会学（互动仪式链理论）以及历史比较社会学领军人物，在教育社会学领域是反[[Modernization Theory|技术功能主义]]的开创性学者。
 > - **代表贡献** 1979 年出版经典名著《文凭社会》（*The Credential Society*），提出[[Credential Inflation|文凭通货膨胀]]理论，系统解构了“教育扩张直接对应生产技能提升”的传统假设。
 
 ---
