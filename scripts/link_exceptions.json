@@ -1258,5 +1258,19 @@
       "sentence": "东南亚高等教育区域化必须超越将传统东盟方式异化为向内孤立自保的消极防御，依托和乐福祉（Sejahtera）、巴布亚社会生态学与共享内在自我（Kapwa）三大原住民哲学确立认识论去殖民化实践，在抵御欧美与东亚双重新殖民依附的同时，开辟以跨国资源再平衡、生态永续关怀与内生人才循环为支柱的多元世界高教治理图景。",
       "target": "wiki/concepts/educational-philosophy/Alienation.md"
     }
+  ],
+  "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md": [
+    {
+      "sentence": "解释高校与中小企业如何通过同步整合内外部知识来源开展协同研发，实现高校技术转移绩效提升与企业市场竞争力增强的双向收益（Chesbrough, 2006; Rossoni et al., 2024）。",
+      "target": "wiki/concepts/educational-psychology/Source of Knowledge.md"
+    },
+    {
+      "sentence": "依据 Yin (2018) 的非穷尽式质性个案研究设计，通过对收集的案例资料进行反思与阐释生成证据，旨在形成初步理解并为后续研究提出可检验假说。",
+      "target": "wiki/concepts/science-policy/Cumulative Innovation.md"
+    },
+    {
+      "sentence": "同时，关于企业竞争力提升进而带动区域集群服务业就业扩张的中期影响，目前尚缺乏直接实证数据支撑，有待后续研究检验。",
+      "target": "wiki/concepts/science-policy/Cumulative Innovation.md"
+    }
   ]
 }

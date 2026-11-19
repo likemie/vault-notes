@@ -181,14 +181,14 @@ issuing_organization: ""
 > | **教师深度质性访谈**<br>Qualitative Teacher Interviews | 对 115 名中三一线数学与英语教师进行半结构化深入访谈，采集教师在国家高利害统考压力、大纲进度覆盖与“少教多学”（TLLM）改革倡导之间权衡博弈的论述语料。 |
 
 > [!sample-panel]- 样本与材料快照
-> | 样本层面 | 构成 |
-> |---|---|
-> | **学生知觉问卷样本（Panel 2）** | 新加坡全国 32 所公立中学 120 间学术班级超过 4000 名中三学生（数学有效样本 $N=1166$，英语有效样本 $N=1027$），覆盖快捷流与普通学术流班级。 |
-> | **教师调查样本（Panel 2）** | 120 名对应授课教师完成专业发展与评估信念问卷；另有覆盖全岛公立中学 2000 余名教师的全国性教学信念与制度影响普查数据。 |
-> | **课堂录像观察样本（Panel 3）** | 2010 年开展的 624 节中三常态课实地多机位教学录像（涵盖中三数学与英语常态课，由专业观察员完成细粒度[[Transcription in Qualitative Research\|转录]]与行为编码）。 |
-> | **课业任务与作业样本（Panel 5）** | 来自样本班级的全套教材、配套习题册、学生日常作业本、校内阶段测验试卷及历年统考模拟题，并包含对应的学生作业产出制品。 |
-> | **[[Qualitative Interview\|质性访谈]]样本** | 115 名一线中三数学与英语授课教师的深度半结构化录音访谈转录材料。 |
-> | **制度与调查情境** | 新加坡南洋理工大学[[National Institute of Education\|国立教育学院]]教育研究中心（[[Centre for Research in Pedagogy and Practice\|CRPP]]）主持开展的[[Core 2 Research Program\|核心教学研究计划二期（Core 2 Research Program）]]，处于“少教多学”课程改革与全国高利害升学统考相互博弈的真实制度场域。 |
+> | 调研模块 | 抽样对象与覆盖范围 | 样本规模与材料形态 |
+> |---|---|---|
+> | **学生问卷**<br><small>Panel 2 Survey</small> | 全岛 32 所公立中学、120 间学术班级（涵盖快捷流与普通学术流） | **4000+** 名中三学生知觉问卷<br><small>有效样本：数学 $N=1166$，英语 $N=1027$</small> |
+> | **教师调查**<br><small>Panel 2 Survey</small> | 样本班级授课教师及全岛公立中学教师群体 | **120** 名任课教师专业信念专项问卷<br><small>结合全岛 2000+ 名中学教师教学影响普查常模</small> |
+> | **课堂录像**<br><small>Panel 3 Video</small> | 样本学校子样本班级之中三常态课 | **624** 节中三常态课多机位实地录像（涵盖数学与英语）<br><small>由专业观察员完成细粒度[[Transcription in Qualitative Research\|转录]]与行为编码</small> |
+> | **课业制品**<br><small>Panel 5 Artifacts</small> | 样本班级课堂教材、配套练习册、学生作业本及校内阶段试卷 | **数百份**真实作业与统考模拟任务制品<br><small>基于真实智力成就（AIQ）标准评估任务认知复杂度</small> |
+> | **[[Qualitative Interview\|质性访谈]]**<br><small>Teacher Interviews</small> | 中三一线数学与英语授课教师 | **115** 名教师深度半结构化录音访谈转录材料<br><small>单人访谈时长 45–60 分钟</small> |
+> | **制度场域**<br><small>Institutional Context</small> | 新加坡南洋理工大学[[National Institute of Education\|国立教育学院]]教育研究中心（[[Centre for Research in Pedagogy and Practice\|CRPP]]） | [[Core 2 Research Program\|核心教学研究计划二期（Core 2 Research Program）]]<br><small>处于“少教多学”改革与全国高利害统考博弈之真实情境</small> |
 
 ---
 

@@ -9,7 +9,7 @@ aliases:
 summary: "由理查德·保罗与琳达·埃尔德建立的三维批判性思维理论模型；整合 9 项普遍智力标准、8 项思维要素与理智美德，通过持续自律性反思与语境化表现评价引导学习者将批判思维内化为深层认知习惯"
 type: theory
 theory_field: "instruction-pedagogy"
-theory_related_count: 25
+theory_related_count: 26
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -43,6 +43,7 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[In-depth Interview]]"
 related_persons:
+  - "[[Richard Paul]]"
   - "[[Socrates]]"
   - "[[John Dewey]]"
   - "[[Matthew Lipman]]"
@@ -68,10 +69,10 @@ updated: 2026-11-19
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 理查德·保罗（Richard Paul）与琳达·埃尔德（Linda Elder）依托美国批判性思维基金会（Foundation for Critical Thinking），在专著《批判性思维工具》（*Critical Thinking: Tools for Taking Charge of Your Learning and Your Life*, 2001/2005）与系列指南中系统提出该模型。
+> - **提出者与原始文本** [[Richard Paul|理查德·保罗]]（Richard Paul）与琳达·埃尔德（Linda Elder）依托美国批判性思维基金会（Foundation for Critical Thinking），在专著《批判性思维工具》（*Critical Thinking: Tools for Taking Charge of Your Learning and Your Life*, 2001/2005）与系列指南中系统提出该模型。
 > - **原初问题** 针对美国教育体系中普遍存在的碎片化事实死记与浅层批判倾向，探索能够跨学科通用、供师生日常自我监控与同行评议的[[Scaffolding|认知支架]]。
 > - **理论资源与材料** 吸收[[Socrates|苏格拉底]][[Socratic Dialogue|产婆术]]、[[John Dewey|约翰·杜威]]（John Dewey）[[Reflective Thinking|反思性思维]]理论以及当代非形式逻辑学成果，提炼出普遍[[Epistemic Ideals|认识论标准]]。
-> - **形成路径** 从剖析人类推理的基本要素入手，对应建立评价标准的检验维度，构建起由“思维要素—智力标准—理智美德”组成的三维立体框架。
+> - **形成路径** 从剖析人类推理的基本要素入手，对应建立评价标准的检验维度，构建起由思维要素、智力标准与理智美德组成的三维立体框架。
 
 > [!dev-timeline] 理论版本与贡献
 > - **2001 — 三维模型确立** 保罗与埃尔德系统整合 8 项思维要素与普遍智力标准，奠定理论基石。
@@ -155,6 +156,7 @@ updated: 2026-11-19
 > | [[Community of Inquiry]] | 概念 | 实践本模型智力标准与同行互评的典型课堂组织形态。 |
 > | [[Authentic Assessment]] | 概念 | 本模型在教学实践中所依托的表现性评价方法[[Paradigm\|范式]]。 |
 > | [[Epistemic Ideals]] | 概念 | 本模型所包含的 9 项普遍智力标准的认识论规范核心。 |
+> | [[Richard Paul]] | 人物 | 本模型的主要提出者与批判性思维强弱感之分的界定者。 |
 > | [[Matthew Lipman]] | 人物 | 共同倡导将儿童与青少年引入严谨哲学探究与反思思维的学者。 |
 
 ---
