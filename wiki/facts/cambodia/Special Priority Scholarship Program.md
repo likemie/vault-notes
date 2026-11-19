@@ -10,6 +10,12 @@ summary: "特别优先奖学金计划（SPP）是柬埔寨教育部于 2008 年�
 type: fact
 subtype: program
 region: cambodia
+fact_region: "cambodia"
+fact_kind: "program"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#ede9fe"
 period: 2008–至今
 initiator_organization: "Ministry of Education, Youth and Sport"
 tags:
@@ -74,8 +80,3 @@ updated: 2026-11-19
 > > - **财政与学业断层限制** 政府在资源制约下难以维系充足的资助名额；同时，单纯的学费免除未触及城乡中小学教学质量的早期鸿沟，处境不利群体进入大学后依然面临高辍学率压力。[[Argument_Phyo_2025_SocSci|(Phyo & Ilie, 2025, p. 5)]]
 
 ---
-
-## 来源
-
-- [[Argument_Phyo_2025_SocSci]]
-- Hun, 2024

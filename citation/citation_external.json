@@ -14911,6 +14911,8 @@
     "Lesta, 2002": "Lesta, 2002",
     "Lester et al. (2020)": "Lester et al., 2020",
     "Lester et al., 2020": "Lester et al., 2020",
+    "Leth & Heang (2024)": "Leth & Heang, 2024",
+    "Leth & Heang, 2024": "Leth & Heang, 2024",
     "Letourneau et al. (2013)": "Letourneau et al., 2013",
     "Letourneau et al., 2013": "Letourneau et al., 2013",
     "Letterlough (2018)": "Letterlough, 2018",
@@ -18851,6 +18853,8 @@
     "Olakanmi, 2017": "Olakanmi, 2017",
     "Olanoff (1969)": "Olanoff, 1969",
     "Olanoff, 1969": "Olanoff, 1969",
+    "Olapane et al. (2025)": "Olapane et al., 2025",
+    "Olapane et al., 2025": "Olapane et al., 2025",
     "Olasen (2020)": "Olasen, 2020",
     "Olasen, 2020": "Olasen, 2020",
     "Oldroyd (1986)": "Oldroyd, 1986",
@@ -53327,6 +53331,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md",
         "wiki/concepts/higher-education/Affirmative Action in Higher Education.md",
+        "wiki/facts/indonesia/ADIK Papua 3T Program.md",
         "wiki/facts/indonesia/Indonesian Law No. 12 of 2012.md"
       ],
       "title": "Fair Access to Higher Education and Discourses of Development: A Policy Analysis from Indonesia"
@@ -55482,7 +55487,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md",
+        "wiki/concepts/sociology-of-education/Intersectional Stratification in Higher Education.md"
       ],
       "title": "Education and Stratification in Developing Countries: A Review of Theories and Research"
     },
@@ -67444,7 +67450,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md",
+        "wiki/concepts/sociology-of-education/Intersectional Stratification in Higher Education.md"
       ],
       "title": "The Credential Society: An Historical Sociology of Education and Stratification"
     },
@@ -70328,7 +70335,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md",
+        "wiki/facts/thailand/Private College Act of 1969.md"
       ],
       "title": "Thai Higher Education: Privatization and Massification"
     },
@@ -110492,7 +110500,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md",
+        "wiki/facts/myanmar/8888 Uprising.md"
       ],
       "title": "Encountering Internationalisation: Higher Education and Social Justice in Myanmar"
     },
@@ -115312,7 +115321,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md",
+        "wiki/facts/cambodia/Special Priority Scholarship Program.md"
       ],
       "title": "Scholarship Schemes in Cambodian Higher Education: Unpacking Why Lower-Income Students Are Lagging Behind"
     },
@@ -127080,7 +127090,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md",
+        "wiki/facts/thailand/Private College Act of 1969.md"
       ],
       "title": "Thailand"
     },
@@ -133908,7 +133919,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md",
-        "wiki/concepts/higher-education/Affirmative Action in Higher Education.md"
+        "wiki/concepts/higher-education/Affirmative Action in Higher Education.md",
+        "wiki/facts/myanmar/8888 Uprising.md"
       ],
       "title": "Myanmar’s Education Reforms: A Pathway to Social Justice? London: UCL Press"
     },
@@ -137729,6 +137741,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Quality is critical for meaningful synthesis of afterschool program effects: a systematic review and meta-analysis."
+    },
+    "Leth & Heang, 2024": {
+      "aliases": [
+        "Leth & Heang, 2024",
+        "Leth & Heang (2024)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Leth & Heang, 2024"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/cambodia/Special Priority Scholarship Program.md"
+      ],
+      "title": ""
     },
     "Letourneau et al., 2013": {
       "aliases": [
@@ -144486,7 +144513,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md",
+        "wiki/concepts/sociology-of-education/Reverse Gender Disparity in Higher Education.md"
       ],
       "title": "(In)Equality and Action: The Role of Women’s Training Initiatives in Promoting Women’s Leadership Opportunities in Myanmar"
     },
@@ -166380,6 +166408,22 @@
       "seen_in": [],
       "title": "Musical ability utilization program (Final Report No. 2600). Washington, DC  U.S. Department of Health, Education, and Welfare."
     },
+    "Olapane et al., 2025": {
+      "aliases": [
+        "Olapane et al., 2025",
+        "Olapane et al. (2025)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Olapane et al., 2025"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md",
+        "wiki/facts/philippines/Expanded Students' Grant-in-Aid Program for Poverty Alleviation.md"
+      ],
+      "title": ""
+    },
     "Olasen, 2020": {
       "aliases": [
         "Olasen, 2020",
@@ -178548,7 +178592,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md",
+        "wiki/facts/philippines/Expanded Students' Grant-in-Aid Program for Poverty Alleviation.md"
       ],
       "title": ""
     },
@@ -207472,7 +207517,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md",
+        "wiki/concepts/sociology-of-education/Reverse Gender Disparity in Higher Education.md"
       ],
       "title": "Accessing Higher Education in Developing Countries: Panel Data Analysis from India, Peru, and Vietnam"
     },

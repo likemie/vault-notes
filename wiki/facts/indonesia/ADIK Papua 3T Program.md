@@ -10,6 +10,12 @@ summary: "ADIK Papua 3T 计划是印度尼西亚依据《2012 年第 12 号高�
 type: fact
 subtype: program
 region: indonesia
+fact_region: "indonesia"
+fact_kind: "program"
+fact_related_count: 6
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#ede9fe"
 period: 2012–至今
 initiator_organization: "Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi"
 tags:
@@ -82,12 +88,6 @@ updated: 2026-11-19
 > > 纯粹基于配额降分录取的功绩制调和引发了实质公平的学术审视。
 > >
 > > - **批评观点** 研究者指出，单纯降低高校入口录取线并未解决 3T 地区基础教育师资匮乏与办学质量落后的源头问题；学生在进入顶尖大学后面临沉重的学业脱节与文化适应挫折，存在显著的挂科与留存风险。[[Argument_Phyo_2025_SocSci|(Phyo & Ilie, 2025, p. 5)]]
-> > - **实证反思** 在缺乏贯通性基础教育补偿干预的前提下，大学阶段的单一配额平权难以抗衡由家庭社会资本与学业累积劣势构成的系统性结构壁垒。(Brewis, 2019; Phyo & Ilie, 2025)
+> > - **实证反思** 在缺乏贯通性基础教育补偿干预的前提下，大学阶段的单一配额平权难以抗衡由家庭社会资本与学业累积劣势构成的系统性结构壁垒。(Brewis, 2019; [[Argument_Phyo_2025_SocSci|Phyo & Ilie, 2025]])
 
 ---
-
-## 来源
-
-- [[Argument_Phyo_2025_SocSci]]
-- Brewis, 2019
-- Mulyaningsih et al., 2022

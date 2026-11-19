@@ -20832,6 +20832,18 @@
     ]
   },
   {
+    "title": "Intersectional Stratification in Higher Education",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Intersectional Stratification in Higher Education.md",
+    "aliases": [
+      "高等教育交叉性分层",
+      "高教多维交叉边缘化",
+      "Intersectional Inequality in Higher Education",
+      "交叉性教育分层",
+      "Intersectionality in Higher Education Access"
+    ]
+  },
+  {
     "title": "Intuition-Dependent Mode",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Intuition-Dependent Mode.md",
@@ -21091,6 +21103,19 @@
       "制度神话",
       "rationalised myth",
       "rationalized myths"
+    ]
+  },
+  {
+    "title": "Reverse Gender Disparity in Higher Education",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Reverse Gender Disparity in Higher Education.md",
+    "aliases": [
+      "高等教育逆向性别差距",
+      "教育逆向性别差距",
+      "Reverse Gender Gap in Higher Education",
+      "Pro-Female Advantage in Higher Education",
+      "高教女性相对优势",
+      "女性升学反超"
     ]
   },
   {
@@ -40262,6 +40287,19 @@
     "subtype": "organization"
   },
   {
+    "title": "Special Priority Scholarship Program",
+    "type": "fact",
+    "path": "wiki/facts/cambodia/Special Priority Scholarship Program.md",
+    "aliases": [
+      "SPP 计划",
+      "柬埔寨特别优先奖学金计划",
+      "Special Priority Scholarship",
+      "Cambodia Special Priority Scholarship Program",
+      "柬埔寨优先群体奖学金计划"
+    ],
+    "subtype": "program"
+  },
+  {
     "title": "Founding of Lester B. Pearson College",
     "type": "fact",
     "path": "wiki/facts/canada/Founding of Lester B. Pearson College.md",
@@ -45865,6 +45903,19 @@
     "subtype": "policy"
   },
   {
+    "title": "ADIK Papua 3T Program",
+    "type": "fact",
+    "path": "wiki/facts/indonesia/ADIK Papua 3T Program.md",
+    "aliases": [
+      "ADIK Papua/3T Program",
+      "Afirmasi Pendidikan Tinggi",
+      "ADIK 计划",
+      "印尼高等教育平权计划",
+      "巴布亚与边远落后地区高等教育平权计划"
+    ],
+    "subtype": "program"
+  },
+  {
     "title": "Bidikmisi Scholarship Program",
     "type": "fact",
     "path": "wiki/facts/indonesia/Bidikmisi Scholarship Program.md",
@@ -46645,6 +46696,19 @@
     "subtype": "program"
   },
   {
+    "title": "8888 Uprising",
+    "type": "fact",
+    "path": "wiki/facts/myanmar/8888 Uprising.md",
+    "aliases": [
+      "8888 民主运动",
+      "缅甸 8888 运动",
+      "8888 示威",
+      "8888 Democratic Movement",
+      "8888 Nationwide Popular Pro-Democracy Protests"
+    ],
+    "subtype": "event"
+  },
+  {
     "title": "Pacification of 1917",
     "type": "fact",
     "path": "wiki/facts/netherlands/Pacification of 1917.md",
@@ -47312,6 +47376,19 @@
       "UAQTEA"
     ],
     "subtype": "policy"
+  },
+  {
+    "title": "Expanded Students' Grant-in-Aid Program for Poverty Alleviation",
+    "type": "fact",
+    "path": "wiki/facts/philippines/Expanded Students' Grant-in-Aid Program for Poverty Alleviation.md",
+    "aliases": [
+      "ESGP-PA",
+      "菲律宾扶贫拔尖助学金计划",
+      "Expanded Students’ Grant-in-Aid Program",
+      "ESGP-PA 计划",
+      "Students' Grant-in-Aid Program for Poverty Alleviation"
+    ],
+    "subtype": "program"
   },
   {
     "title": "1846 Galician Slaughter",
@@ -48195,6 +48272,19 @@
       "瑞士教育研究协调中心"
     ],
     "subtype": "organization"
+  },
+  {
+    "title": "Private College Act of 1969",
+    "type": "fact",
+    "path": "wiki/facts/thailand/Private College Act of 1969.md",
+    "aliases": [
+      "1969 年私立学院法",
+      "泰国 1969 年私立学院法",
+      "Thailand Private College Act 1969",
+      "Private Higher Education Institutions Act of 1969",
+      "พระราชบัญญัติวิทยาลัยเอกชน พ.ศ. 2512"
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Education Reform Initiative",
