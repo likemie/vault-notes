@@ -10,9 +10,9 @@ summary: "在研究人类行为或社会现象时综合运用两种或更多资�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 40
+method_related_count: 41
 method_related_level: 4
-method_related_stars: "💎"
+method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
 cssclasses:
   - method-manual
@@ -95,7 +95,7 @@ updated: 2026-11-19
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 三角验证植根于多元逼近的认识论立场，认为任何单一经验观察均带有特定理论偏好与方法滤镜，通过异质视角的交叉对照能够更全面地逼近复杂的社会经验世界。
-> - **研究者角色** 研究者从单一工具的操作者转变为方法策略师，主动选择具有高反差度的材料渠道与工具组合，警惕自身的立场前见与选择性注意。
+> - **研究者角色** 研究者从单一工具的使用者转变为方法策略师，主动选择具有高反差度的材料渠道与工具组合，警惕自身的立场前见与选择性注意。
 > - **有效性标准** 主要服务于[[Concurrent Validity|共时效度]]与聚合效度（[[Convergent and Discriminant Validity|Convergent Validity]]）；当不同来源的独立测量产生汇聚结果时，研究者对核心发现的置[[Reliability|信度]]显著提升。
 > - **不声称回答的问题** 三角验证并不担保获得绝对绝对真理；林肯与古巴（Lincoln & Guba, 1985）强调三角互证是对数据质量的严格检查，而非机械式的效度终极证明；它无法自发消除研究者由于深层意识形态偏见所导致的系统性失明。
 

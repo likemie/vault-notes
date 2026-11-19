@@ -1293,6 +1293,10 @@
     {
       "sentence": "“面对双轨并行的制度现状，东盟秘书处将 SEAMEO 视作东盟在教育领域的亲兄弟：ASED 依靠首脑峰会的国家元首政治授权掌握总体战略方向；SEAMEO 则凭借半个世纪积累的专业声誉和曼谷中心网络承担方案研发与技术落地。",
       "target": "wiki/concepts/political-economy-geopolitics/Total War.md"
+    },
+    {
+      "sentence": "**1990** 马来西亚总理马哈蒂尔倡议成立东亚经济集团（East Asia Economic Group, EAEG），但因美日等外部大国反对而搁浅（Terada, 2003）。",
+      "target": "wiki/persons/new-zealand/John Hattie.md"
     }
   ],
   "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Nordtveit_2011_IJED.md": [
@@ -1303,6 +1307,14 @@
     {
       "sentence": "**交钥匙总承包机制** 采用需求响应模式（King, 2009），喀方自定校址，商务部在国内招标选拔中资建筑企业，施工方自带图纸、工程技工与核心建材封闭作业，全额赠款整体交付。",
       "target": "wiki/concepts/instruction-pedagogy/Homework.md"
+    },
+    {
+      "sentence": "*France does not give scholarships to any initial education at bachelor level, but only to post-graduate and research purposes.",
+      "target": "wiki/concepts/research-methodology/Research Purpose.md"
+    },
+    {
+      "sentence": "For example, we can plan to construct a school somewhere, and then some politician will 'take' the school and build it somewhere else [most often, in the home town or election base of the politician].",
+      "target": "wiki/concepts/research-methodology/Construct.md"
     }
   ]
 }

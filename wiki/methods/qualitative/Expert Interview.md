@@ -10,7 +10,7 @@ summary: "将受访者视为具有特定领域专业特权、制度性职能与�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 51
+method_related_count: 52
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#dbeafe"
@@ -82,7 +82,7 @@ related_persons:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---

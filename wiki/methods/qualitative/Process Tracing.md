@@ -10,7 +10,7 @@ summary: "政治学与比较政治学中用于案例内质性因果推断的核�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 28
+method_related_count: 29
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -61,13 +61,13 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-30
+updated: 2026-11-19
 ---
 
 ---
 
 > [!def] Process Tracing
-> 过程追踪法（Process Tracing）是政治学、历史社会学与公共政策分析中用于案例内[[Causality|因果推断]]的核心[[Qualitative Research|质性研究]]方法。该方法不依赖大样本统计控制，而是深入单一案例或少量比较案例的内部历程，通过对时间序列档案、口述证词与决策现场材料的密集挖掘，追踪连接初始条件（[[Independent Variable|自变量]]）与最终政策产出（[[Dependent Variable|因变量]]）之间的微观中介[[Causal Processes|因果过程]]（Intervening causal processes）与因果机制（Causal mechanisms）。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 7–8)]]
+> 过程追踪法（Process Tracing）是政治学、历史社会学与公共政策分析中用于案例内[[Causality|因果推断]]的核心[[Qualitative Research|质性研究]]方法。该方法深入单一案例或少量比较案例的内部历程，通过对时间序列档案、口述证词与决策现场材料的密集挖掘，追踪连接初始条件（[[Independent Variable|自变量]]）与最终政策产出（[[Dependent Variable|因变量]]）之间的微观中介[[Causal Processes|因果过程]]（Intervening causal processes）与因果机制（Causal mechanisms）。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 7–8)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 复杂的历史转折、重大制度变迁、公共政策制定与采纳全流程、多方利益博弈的决策因果链条。
@@ -83,9 +83,9 @@ updated: 2026-10-30
 ---
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** 秉持因果实在论（Causal Realism）。认为[[Causality|因果关系]]不仅是统计[[Variable|变量]]间恒常相伴的线性相关（Constant conjunction），而是存在于物理与社会世界中的真实生成机制（Productive mechanisms）；即便缺乏大样本统计量，详尽的微观[[Chain of Evidence|证据链]]同样能够确立强健的因果解释。
+> - **知识观** 秉持因果实在论（Causal Realism）。该方法将[[Causality|因果关系]]界定为存在于物理与社会世界中的真实生成机制（Productive mechanisms），区别于统计[[Variable|变量]]间外在的线性相关（Constant conjunction）；即便缺乏大样本统计量，详尽的微观[[Chain of Evidence|证据链]]同样能够确立强健的因果解释。
 > - **研究者角色** 兼具历史侦探与法官角色。研究者根据预先设定的理论假说，深入档案、会议纪要与当事人证词，运用贝叶斯更新（Bayesian updating）逻辑，评估每一条新发现的证据在多大程度上强化或削弱了特定因果链条的可[[Reliability|信度]]。
-> - **有效性标准** [[Internal Validity|内部效度]]极高；强调时间先后的不可逆性（Temporal precedence）、机制链条的无断裂闭合（Continuous causal chain）以及证据的来源多元性与互相印证。
+> - **有效性标准** [[Internal Validity|内部效度]]极高；强调时间先后的不可逆性（Temporal precedence）、机制链条的连续完整（Continuous causal chain）以及证据的来源多元性与互相印证。
 > - **不声称回答的问题** 无法直接估计[[Independent Variable|自变量]]在全样本总体中的平均处理效应（Average Treatment Effect, [[Advanced Technological Education|ATE]]），亦不能替代大样本实验推断跨总体普适率。
 
 > [!method-stack] 过程追踪中的四大经典因果证据检验
