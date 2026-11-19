@@ -150,7 +150,7 @@ updated: 2026-11-19
 > | [[Human Capital Theory]] | 理论 | 会考确立了全民高质量学术知识储备，为国家经济增长提供人力资本支撑。 |
 > | [[Discursive Institutionalism]] | 理论 | 阐释会考问责制度如何在微观教学实践中形成压倒性的制度[[Discourse|话语]]力量。 |
 > | [[Primary School Leaving Examination]] | 政策 | 与 O 水准会考共同构筑新加坡基础教育两次关键的高利害能力分流关口。 |
-> | [[Teach Less, Learn More]] | 政策 | 试图缩减课程大纲以缓解 O 水准会考高利害应试刚性约束的课程改革。 |
+> | [[Teach Less, Learn More]] | 政策 | 试图缩减课程大纲以缓解 O 水准会考高利害应试压力的课程改革。 |
 > | [[Thinking Schools, Learning Nation]] | 政策 | 新加坡国家宏观教育愿景，致力于平衡会考学术基线与创新思维培育。 |
 > | [[Goh Report]] | 政策 | 1979 年确立新教育体制，将 O 水准正式定为初中分流学制的核心检定依据。 |
 > | [[High-Stakes Testing]] | 概念 | 会考直接决定高中与大专升学去向，具备典型的高利害考试特征。 |

@@ -5,6 +5,14 @@
       "path": "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
     },
     {
+      "basename": "Global Campaign for Education",
+      "path": "wiki/facts/global/Global Campaign for Education.md"
+    },
+    {
+      "basename": "Inquiry-Based Learning",
+      "path": "wiki/concepts/instruction-pedagogy/Inquiry-Based Learning.md"
+    },
+    {
       "basename": "Folk Pedagogy",
       "path": "wiki/concepts/instruction-pedagogy/Folk Pedagogy.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Paulo Freire",
       "path": "wiki/persons/brazil/Paulo Freire.md"
-    },
-    {
-      "basename": "Confucian Heritage Cultures",
-      "path": "wiki/concepts/comparative-education/Confucian Heritage Cultures.md"
-    },
-    {
-      "basename": "Goh Report",
-      "path": "wiki/facts/singapore/Goh Report.md"
     }
   ],
   "omittedPaths": [],

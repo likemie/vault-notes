@@ -1,23 +1,22 @@
 ---
 title: Global Campaign for Education
 aliases:
-  - GCE
   - 全球教育运动
   - 全球教育运动同盟
-summary: "创设于1999年、总部设于南非约翰内斯堡的全球最大民间社会教育运动同盟，网络覆盖100余个国家的主权民间联合体与国际非政府组织，致力于动员公众与草根公民生成数据，监督各国政府与国际多边组织兑现全民免费优质公立教育的法定人权承诺。"
+summary: 创设于1999年、总部设于南非约翰内斯堡的全球最大民间社会教育运动同盟，网络覆盖100余个国家的主权民间联合体与国际非政府组织，致力于动员公众与草根公民生成数据，监督各国政府与国际多边组织兑现全民免费优质公立教育的法定人权承诺。
 type: fact
 subtype: organization
 region: global
-fact_region: "global"
-fact_kind: "organization"
+fact_region: global
+fact_kind: organization
 fact_related_count: 21
 fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_stars: ⭐⭐
 fact_related_color: "#dcfce7"
-org_type: "国际民间社会教育同盟"
-headquarters: "约翰内斯堡（南非）"
+org_type: 国际民间社会教育同盟
+headquarters: 约翰内斯堡（南非）
 established: "1999"
-official_website: "https://campaignforeducation.org/"
+official_website: https://campaignforeducation.org/
 tags:
   - fact/organization
   - region/global
