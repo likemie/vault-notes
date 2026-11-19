@@ -62,8 +62,12 @@
     "APA, 2020": "APA, 2020",
     "ARIA (2021)": "ARIA, 2021",
     "ARIA, 2021": "ARIA, 2021",
+    "ASEAN (2022)": "ASEAN, 2022",
+    "ASEAN (2024)": "ASEAN, 2024",
     "ASEAN Eminent Persons Group (2007)": "ASEAN Eminent Persons Group, 2007",
     "ASEAN Eminent Persons Group, 2007": "ASEAN Eminent Persons Group, 2007",
+    "ASEAN, 2022": "ASEAN, 2022",
+    "ASEAN, 2024": "ASEAN, 2024",
     "ASIC (2021a)": "ASIC, 2021a",
     "ASIC (2021b)": "ASIC, 2021b",
     "ASIC (2021c)": "ASIC, 2021c",
@@ -710,6 +714,7 @@
     "Altbach (1991)": "Altbach, 1991",
     "Altbach (1998)": "Altbach, 1998",
     "Altbach (2004)": "Altbach, 2004",
+    "Altbach (2007)": "Altbach, 2007",
     "Altbach (2011)": "Altbach, 2011",
     "Altbach et al. (2019)": "Altbach et al., 2019",
     "Altbach et al., 2019": "Altbach et al., 2019",
@@ -719,6 +724,7 @@
     "Altbach, 1991": "Altbach, 1991",
     "Altbach, 1998": "Altbach, 1998",
     "Altbach, 2004": "Altbach, 2004",
+    "Altbach, 2007": "Altbach, 2007",
     "Altbach, 2011": "Altbach, 2011",
     "Altenburg (2016)": "Altenburg, 2016",
     "Altenburg, 2016": "Altenburg, 2016",
@@ -3879,6 +3885,8 @@
     "CUREE, 2011": "CUREE, 2011",
     "CaSE (2025)": "CaSE, 2025",
     "CaSE, 2025": "CaSE, 2025",
+    "Caballero-Anthony (2014)": "Caballero-Anthony, 2014",
+    "Caballero-Anthony, 2014": "Caballero-Anthony, 2014",
     "Cabezas (2011)": "Cabezas, 2011",
     "Cabezas, 2011": "Cabezas, 2011",
     "Cabezon (1984)": "Cabezon, 1984",
@@ -4684,6 +4692,8 @@
     "Cheng, 1996": "Cheng, 1996",
     "Chengtao & Qiufeng (2020)": "Chengtao & Qiufeng, 2020",
     "Chengtao & Qiufeng, 2020": "Chengtao & Qiufeng, 2020",
+    "Cheok & Chen (2019)": "Cheok & Chen, 2019",
+    "Cheok & Chen, 2019": "Cheok & Chen, 2019",
     "Chera (2003)": "Chera, 2003",
     "Chera, 2003": "Chera, 2003",
     "Cherney et al. (2012)": "Cherney et al., 2012",
@@ -4721,6 +4731,8 @@
     "Chew et al. (1997)": "Chew et al., 1997",
     "Chew et al., 1997": "Chew et al., 1997",
     "Chew, 2007": "Chew, 2007",
+    "Chi Hou et al. (2017)": "Chi Hou et al., 2017",
+    "Chi Hou et al., 2017": "Chi Hou et al., 2017",
     "Chiang (2017)": "Chiang, 2017",
     "Chiang, 2017": "Chiang, 2017",
     "Chiappetta (1980)": "Chiappetta, 1980",
@@ -6443,6 +6455,8 @@
     "Dickson-Swift et al., 2006": "Dickson-Swift et al., 2006",
     "Diehl & Stroebe (1987)": "Diehl & Stroebe, 1987",
     "Diehl & Stroebe, 1987": "Diehl & Stroebe, 1987",
+    "Diem et al. (2014)": "Diem et al., 2014",
+    "Diem et al., 2014": "Diem et al., 2014",
     "Diener & Crandall (1978)": "Diener & Crandall, 1978",
     "Diener & Crandall, 1978": "Diener & Crandall, 1978",
     "Diery et al. (2020)": "Diery et al., 2020",
@@ -6988,6 +7002,8 @@
     "EDB (2021)": "EDB, 2021",
     "EDB, 2021": "EDB, 2021",
     "EDB, 2021b": "EDB, 2021",
+    "EEAS (2020)": "EEAS, 2020",
+    "EEAS, 2020": "EEAS, 2020",
     "EEF (2012)": "EEF, 2012",
     "EEF (2015)": "EEF, 2015",
     "EEF (2016)": "EEF, 2016",
@@ -9776,6 +9792,8 @@
     "Gramsci, 1971": "Gramsci, 1971",
     "Granacher (2017)": "Granacher, 2017",
     "Granacher, 2017": "Granacher, 2017",
+    "Grande (2018)": "Grande, 2018",
+    "Grande, 2018": "Grande, 2018",
     "Granena & Yilmaz (2018)": "Granena & Yilmaz, 2018",
     "Granena & Yilmaz, 2018": "Granena & Yilmaz, 2018",
     "Granovetter (1985)": "Granovetter, 1985",
@@ -14700,6 +14718,7 @@
     "Lee (2009)": "Lee, 2009",
     "Lee (2011a)": "Lee, 2011a",
     "Lee (2011b)": "Lee, 2011b",
+    "Lee (2013)": "Lee, 2013",
     "Lee (2014a)": "Lee, 2014a",
     "Lee (2014b)": "Lee, 2014b",
     "Lee (2015)": "Lee, 2015",
@@ -14741,6 +14760,7 @@
     "Lee, 2011": "Lee, 2011a",
     "Lee, 2011a": "Lee, 2011b",
     "Lee, 2011b": "Lee, 2011b",
+    "Lee, 2013": "Lee, 2013",
     "Lee, 2014": "Lee, 2014a",
     "Lee, 2014a": "Lee, 2014b",
     "Lee, 2014b": "Lee, 2014b",
@@ -15077,8 +15097,10 @@
     "Liao & Chen, 2018": "Liao & Chen, 2018",
     "Liao (1992)": "Liao, 1992",
     "Liao (1999)": "Liao, 1999",
+    "Liao (2021)": "Liao, 2021",
     "Liao, 1992": "Liao, 1992",
     "Liao, 1999": "Liao, 1999",
+    "Liao, 2021": "Liao, 2021",
     "Licklider & Taylor (1968)": "Licklider & Taylor, 1968",
     "Licklider & Taylor, 1968": "Licklider & Taylor, 1968",
     "Licklider (1960)": "Licklider, 1960",
@@ -15422,6 +15444,8 @@
     "Lonigan, 2016": "Lonigan, 2016",
     "Lonkila (1995)": "Lonkila, 1995",
     "Lonkila, 1995": "Lonkila, 1995",
+    "Loo (2013)": "Loo, 2013",
+    "Loo, 2013": "Loo, 2013",
     "Loomer (1962)": "Loomer, 1962",
     "Loomer, 1962": "Loomer, 1962",
     "Looney (2009)": "Looney, 2009",
@@ -16028,6 +16052,8 @@
     "Manski, 1993": "Manski, 1993",
     "Manso (2011)": "Manso, 2011",
     "Manso, 2011": "Manso, 2011",
+    "Mansoben (2007)": "Mansoben, 2007",
+    "Mansoben, 2007": "Mansoben, 2007",
     "Mantzicopoulos (1992a)": "Mantzicopoulos, 1992a",
     "Mantzicopoulos (1992b)": "Mantzicopoulos, 1992b",
     "Mantzicopoulos (2013)": "Mantzicopoulos, 2013",
@@ -17091,6 +17117,8 @@
     "Miedama & Wardekker, 1999": "Miedama & Wardekker, 1999",
     "Mies (1993)": "Mies, 1993",
     "Mies, 1993": "Mies, 1993",
+    "Mignolo & Walsh (2018)": "Mignolo & Walsh, 2018",
+    "Mignolo & Walsh, 2018": "Mignolo & Walsh, 2018",
     "Mignolo (2000)": "Mignolo, 2000",
     "Mignolo (2002)": "Mignolo, 2002",
     "Mignolo (2007)": "Mignolo, 2007",
@@ -17443,6 +17471,8 @@
     "Moore, 2008": "Moore, 2008",
     "Moorhouse (1964)": "Moorhouse, 1964",
     "Moorhouse, 1964": "Moorhouse, 1964",
+    "Moosavi & Alatas (2024)": "Moosavi & Alatas, 2024",
+    "Moosavi & Alatas, 2024": "Moosavi & Alatas, 2024",
     "Morales (2011)": "Morales, 2011",
     "Morales, 2011": "Morales, 2011",
     "Morales-Gómez & Torres (1990)": "Morales-Gómez & Torres, 1990",
@@ -17658,6 +17688,8 @@
     "Moynihan Report, 1965": "Moynihan Report, 1965",
     "Mubarok (2017)": "Mubarok, 2017",
     "Mubarok, 2017": "Mubarok, 2017",
+    "Mufwene (2002)": "Mufwene, 2002",
+    "Mufwene, 2002": "Mufwene, 2002",
     "Muhtadi et al. (2022a)": "Muhtadi et al., 2022a",
     "Muhtadi et al. (2022b)": "Muhtadi et al., 2022b",
     "Muhtadi et al., 2022": "Muhtadi et al., 2022a",
@@ -19722,7 +19754,9 @@
     "Phillips, 2016": "Phillips, 2016",
     "Phillips, 2019": "Phillips, 2019",
     "Phillips, 2021": "Phillips, 2021",
+    "Phillipson (2012)": "Phillipson, 2012",
     "Phillipson (2013)": "Phillipson, 2013",
+    "Phillipson, 2012": "Phillipson, 2012",
     "Phillipson, 2013": "Phillipson, 2013",
     "Physicians' Health Study (1988)": "Physicians' Health Study, 1988",
     "Physicians' Health Study, 1988": "Physicians' Health Study, 1988",
@@ -19848,6 +19882,8 @@
     "Piper, 2009": "Piper, 2009",
     "Pisano (2006)": "Pisano, 2006",
     "Pisano, 2006": "Pisano, 2006",
+    "Pitana (2010)": "Pitana, 2010",
+    "Pitana, 2010": "Pitana, 2010",
     "Pittman (1998)": "Pittman, 1998",
     "Pittman, 1998": "Pittman, 1998",
     "Pizmony-Levy & Woolsey (2017)": "Pizmony-Levy & Woolsey, 2017",
@@ -20002,6 +20038,8 @@
     "Portowitz, 2014": "Portowitz, 2014",
     "Portwood (2005)": "Portwood, 2005",
     "Portwood, 2005": "Portwood, 2005",
+    "Posholi (2020)": "Posholi, 2020",
+    "Posholi, 2020": "Posholi, 2020",
     "Posner (1961)": "Posner, 1961",
     "Posner et al. (1982)": "Posner et al., 1982",
     "Posner et al., 1982": "Posner et al., 1982",
@@ -20290,6 +20328,8 @@
     "Queen's University, 2009": "Queen's University, 2009",
     "Quick et al. (2009)": "Quick et al., 2009",
     "Quick et al., 2009": "Quick et al., 2009",
+    "Quijano (2000)": "Quijano, 2000",
+    "Quijano, 2000": "Quijano, 2000",
     "Quin (2017)": "Quin, 2017",
     "Quin, 2017": "Quin, 2017",
     "Quinn et al. (1999)": "Quinn et al., 1999",
@@ -20388,6 +20428,8 @@
     "Rains, 2015": "Rains, 2015",
     "Raisor (2006)": "Raisor, 2006",
     "Raisor, 2006": "Raisor, 2006",
+    "Rajadhon (1962)": "Rajadhon, 1962",
+    "Rajadhon, 1962": "Rajadhon, 1962",
     "Rajalo & Vadi (2017)": "Rajalo & Vadi, 2017",
     "Rajalo & Vadi, 2017": "Rajalo & Vadi, 2017",
     "Rajan & Wulf (2003)": "Rajan & Wulf, 2003",
@@ -24586,6 +24628,7 @@
     "Taylor (1992)": "Taylor, 1992",
     "Taylor (1995)": "Taylor, 1995",
     "Taylor (1996)": "Taylor, 1996",
+    "Taylor (1997)": "Taylor, 1997",
     "Taylor (1999)": "Taylor, 1999",
     "Taylor (2002)": "Taylor, 2002",
     "Taylor (2004)": "Taylor, 2004",
@@ -24613,6 +24656,7 @@
     "Taylor, 1992": "Taylor, 1992",
     "Taylor, 1995": "Taylor, 1995",
     "Taylor, 1996": "Taylor, 1996",
+    "Taylor, 1997": "Taylor, 1997",
     "Taylor, 1999": "Taylor, 1999",
     "Taylor, 2002": "Taylor, 2002",
     "Taylor, 2004": "Taylor, 2004",
@@ -25237,6 +25281,8 @@
     "Triebkräfte, 1947": "Triebkräfte, 1947",
     "Trimble et al. (2007)": "Trimble et al., 2007",
     "Trimble et al., 2007": "Trimble et al., 2007",
+    "Trinh (2018)": "Trinh, 2018",
+    "Trinh, 2018": "Trinh, 2018",
     "Triplett (2009)": "Triplett, 2009",
     "Triplett, 2009": "Triplett, 2009",
     "Tripney et al. (2018)": "Tripney et al., 2018",
@@ -25908,6 +25954,8 @@
     "Violato & Russell, 2000": "Violato & Russell, 2000",
     "Visible Learning MetaX (2023)": "Visible Learning MetaX, 2023",
     "Visible Learning MetaX, 2023": "Visible Learning MetaX, 2023",
+    "Visone (2017)": "Visone, 2017",
+    "Visone, 2017": "Visone, 2017",
     "Visscher & Meijer (2007)": "Visscher & Meijer, 2007",
     "Visscher & Meijer, 2007": "Visscher & Meijer, 2007",
     "Visser et al. (2022)": "Visser et al., 2022",
@@ -26467,9 +26515,11 @@
     "Welch & Hattie, 1987": "Welch & Hattie, 1987",
     "Welch (1990)": "Welch, 1990",
     "Welch (1995)": "Welch, 1995",
+    "Welch (2012)": "Welch, 2012",
     "Welch (2015)": "Welch, 2015",
     "Welch, 1990": "Welch, 1990",
     "Welch, 1995": "Welch, 1995",
+    "Welch, 2012": "Welch, 2012",
     "Welch, 2015": "Welch, 2015",
     "Wellington (2016)": "Wellington, 2016",
     "Wellington, 2016": "Wellington, 2016",
@@ -27650,6 +27700,7 @@
     "Zhang (2019c)": "Zhang, 2019c",
     "Zhang (2020)": "Zhang, 2020",
     "Zhang (2021)": "Zhang, 2021",
+    "Zhang (2025)": "Zhang, 2025",
     "Zhang et al. (2007)": "Zhang et al., 2007",
     "Zhang et al. (2008)": "Zhang et al., 2008",
     "Zhang et al. (2015)": "Zhang et al., 2015",
@@ -27685,6 +27736,7 @@
     "Zhang, 2019c": "Zhang, 2019c",
     "Zhang, 2020": "Zhang, 2020",
     "Zhang, 2021": "Zhang, 2021",
+    "Zhang, 2025": "Zhang, 2025",
     "Zhao & Liu (2007)": "Zhao & Liu, 2007",
     "Zhao & Liu, 2007": "Zhao & Liu, 2007",
     "Zhao & Meyer (2013)": "Zhao & Meyer, 2013",
@@ -27918,6 +27970,8 @@
     "influential philosopher Tingyang Zhao, 2021": "influential philosopher Tingyang Zhao, 2021",
     "interpretive analysis followed Yanow’s (2000)": "interpretive analysis followed Yanow’s, 2000",
     "interpretive analysis followed Yanow’s, 2000": "interpretive analysis followed Yanow’s, 2000",
+    "jules & Salajan (2024)": "jules & Salajan, 2024",
+    "jules & Salajan, 2024": "jules & Salajan, 2024",
     "latter corroborates Kvernbekk's (2016)": "latter corroborates Kvernbekk's, 2016",
     "latter corroborates Kvernbekk's, 2016": "latter corroborates Kvernbekk's, 2016",
     "lisahunter (2014)": "lisahunter, 2014",
@@ -29202,6 +29256,36 @@
         "wiki/arguments/journal-articles/JCMS Journal of Common Market Studies/Argument_Murray_Moxon-Browne_2013_JCMS.md"
       ],
       "title": "Report of the Eminent Persons Group"
+    },
+    "ASEAN, 2022": {
+      "aliases": [
+        "ASEAN, 2022",
+        "ASEAN (2022)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "ASEAN, 2022"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "ASEAN work plan on education 2021-2025"
+    },
+    "ASEAN, 2024": {
+      "aliases": [
+        "ASEAN, 2024",
+        "ASEAN (2024)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "ASEAN, 2024"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "Joint declaration on the common space in Southeast Asian higher education"
     },
     "ASIC, 2021a": {
       "aliases": [
@@ -32076,7 +32160,7 @@
         "Alcoff, 2007",
         "Alcoff (2007)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.1353/ncr.2008.0008",
       "identity_keys": [
         "Alcoff, 2007"
       ],
@@ -32084,7 +32168,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
       ],
-      "title": ""
+      "title": "Mignolo's epistemology of coloniality"
     },
     "Alderman, 2008": {
       "aliases": [
@@ -33866,6 +33950,21 @@
         "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md"
       ],
       "title": ""
+    },
+    "Altbach, 2007": {
+      "aliases": [
+        "Altbach, 2007",
+        "Altbach (2007)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Altbach, 2007"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "The imperial tongue: English as the dominating academic language"
     },
     "Altbach, 2011": {
       "aliases": [
@@ -57273,6 +57372,21 @@
       ],
       "title": ""
     },
+    "Caballero-Anthony, 2014": {
+      "aliases": [
+        "Caballero-Anthony, 2014",
+        "Caballero-Anthony (2014)"
+      ],
+      "doi": "https://doi.org/10.1080/09512748.2014.924227",
+      "identity_keys": [
+        "Caballero-Anthony, 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "Understanding ASEAN's centrality: bases and prospects in an evolving regional architecture"
+    },
     "Cabezas, 2011": {
       "aliases": [
         "Cabezas, 2011",
@@ -63079,6 +63193,21 @@
       ],
       "title": ""
     },
+    "Cheok & Chen, 2019": {
+      "aliases": [
+        "Cheok & Chen, 2019",
+        "Cheok & Chen (2019)"
+      ],
+      "doi": "https://doi.org/10.1355/ae36-1c",
+      "identity_keys": [
+        "Cheok & Chen, 2019"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "Assessing ASEAN’s Relevance: Have the Right Questions Been Asked?"
+    },
     "Chera, 2003": {
       "aliases": [
         "Chera, 2003",
@@ -63353,6 +63482,21 @@
         "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md"
       ],
       "title": "The history and policy of English education in Singapore"
+    },
+    "Chi Hou et al., 2017": {
+      "aliases": [
+        "Chi Hou et al., 2017",
+        "Chi Hou et al. (2017)"
+      ],
+      "doi": "https://doi.org/10.1108/heed-08-2017-003",
+      "identity_keys": [
+        "Chi Hou et al., 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "A comparative study of student mobility programs in SEAMEO-RIHED, UMAP, and Campus Asia: Regulation, challenges, and impacts on higher education regionalization"
     },
     "Chiang, 2017": {
       "aliases": [
@@ -73247,9 +73391,10 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
         "wiki/concepts/educational-philosophy/Kapwa.md"
       ],
-      "title": ""
+      "title": "A Systematic Review and Meta-synthesis of Indigenous Filipino Values in Educational Leadership"
     },
     "De Bondt et al., 2020": {
       "aliases": [
@@ -75968,6 +76113,21 @@
         "wiki/concepts/instruction-pedagogy/Brainstorming.md"
       ],
       "title": ""
+    },
+    "Diem et al., 2014": {
+      "aliases": [
+        "Diem et al., 2014",
+        "Diem et al. (2014)"
+      ],
+      "doi": "https://doi.org/10.1080/09518398.2014.916007",
+      "identity_keys": [
+        "Diem et al., 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "The intellectual landscape of critical policy analysis"
     },
     "Diener & Crandall, 1978": {
       "aliases": [
@@ -79858,6 +80018,21 @@
         "wiki/arguments/journal-articles/Journal of Curriculum Studies/Argument_Yan_2025_JCS.md"
       ],
       "title": ""
+    },
+    "EEAS, 2020": {
+      "aliases": [
+        "EEAS, 2020",
+        "EEAS (2020)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "EEAS, 2020"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "EU supports ASEAN to realise a common higher education space"
     },
     "EEF, 2012": {
       "aliases": [
@@ -84099,17 +84274,18 @@
       "identity_keys": [
         "Escobar, 2018"
       ],
-      "isbn": "",
+      "isbn": "9780822370901",
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Amos_2022_Springer.md",
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Parreira do Amaral_2022_geopolitics-knowledge.md",
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
         "wiki/persons/chile/Francisco Varela.md",
         "wiki/persons/chile/Humberto Maturana.md",
         "wiki/persons/us/Arturo Escobar.md",
         "wiki/theories/educational-philosophy/Autopoiesis.md",
         "wiki/theories/educational-philosophy/Transition Design.md"
       ],
-      "title": ""
+      "title": "Designs for the pluriverse: Radical interdependence, autonomy, and the making of worlds"
     },
     "Eshel, 2001": {
       "aliases": [
@@ -100293,6 +100469,21 @@
       "seen_in": [],
       "title": "Effects of sport-specific training during the early stages of long-term athlete development on physical fitness, body composition, cognitive, and academic performances."
     },
+    "Grande, 2018": {
+      "aliases": [
+        "Grande, 2018",
+        "Grande (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Grande, 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "The positionality of indigenous studies in the ongoing education reform"
+    },
     "Granena & Yilmaz, 2018": {
       "aliases": [
         "Granena & Yilmaz, 2018",
@@ -110660,15 +110851,16 @@
         "Hill et al., 2021",
         "Hill et al. (2021)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.1080/03075079.2019.1680966",
       "identity_keys": [
         "Hill et al., 2021"
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
         "wiki/methods/quantitative/Instrumental Variables.md"
       ],
-      "title": ""
+      "title": "Internationalising higher education in Cambodia, Lao PDR, Myanmar, and Viet Nam: challenges and approaches"
     },
     "Hill, 2011a": {
       "aliases": [
@@ -129471,11 +129663,12 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
         "wiki/arguments/journal-articles/Policy and Society/Argument_Chou_2017_PolSoc.md",
         "wiki/concepts/higher-education/Bologna Process Export Thesis.md",
         "wiki/concepts/political-economy-geopolitics/ASEAN Way.md"
       ],
-      "title": ""
+      "title": "The normative power of the “ASEAN Way”"
     },
     "Kogan & Atkin, 1991": {
       "aliases": [
@@ -136340,6 +136533,21 @@
       "seen_in": [],
       "title": "The Effect of the Experience Corps® Program on Student Reading Outcomes"
     },
+    "Lee, 2013": {
+      "aliases": [
+        "Lee, 2013",
+        "Lee (2013)"
+      ],
+      "doi": "https://doi.org/10.1007/s11125-013-9266-x",
+      "identity_keys": [
+        "Lee, 2013"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "Creating world-class universities: Implications for developing countries"
+    },
     "Lee, 2014a": {
       "aliases": [
         "Lee, 2014a",
@@ -138729,6 +138937,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Effects of hypermedia on students' achievement: a meta-analysis"
+    },
+    "Liao, 2021": {
+      "aliases": [
+        "Liao, 2021",
+        "Liao (2021)"
+      ],
+      "doi": "https://doi.org/10.4000/archipel.2620",
+      "identity_keys": [
+        "Liao, 2021"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "Creating and Mobilizing “Syonan” Youth: Youth and the Japanese Occupation of Singapore, 1942- 1945"
     },
     "Licklider & Taylor, 1968": {
       "aliases": [
@@ -141235,6 +141458,21 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28.md"
       ],
       "title": ""
+    },
+    "Loo, 2013": {
+      "aliases": [
+        "Loo, 2013",
+        "Loo (2013)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Loo, 2013"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "Historical Reconciliation in Southeast Asia"
     },
     "Loomer, 1962": {
       "aliases": [
@@ -145633,6 +145871,21 @@
         "wiki/persons/us/Gustavo Manso.md"
       ],
       "title": ""
+    },
+    "Mansoben, 2007": {
+      "aliases": [
+        "Mansoben, 2007",
+        "Mansoben (2007)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Mansoben, 2007"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "The Socio-cultural Plurality of Papuan Society"
     },
     "Mantzicopoulos, 1992a": {
       "aliases": [
@@ -153288,6 +153541,21 @@
       ],
       "title": ""
     },
+    "Mignolo & Walsh, 2018": {
+      "aliases": [
+        "Mignolo & Walsh, 2018",
+        "Mignolo & Walsh (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Mignolo & Walsh, 2018"
+      ],
+      "isbn": "9780822371090",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "On decoloniality: Concepts, analytics, praxis"
+    },
     "Mignolo, 2000": {
       "aliases": [
         "Mignolo, 2000",
@@ -155857,6 +156125,21 @@
       "seen_in": [],
       "title": "Interclass Grouping for Reading Instruction"
     },
+    "Moosavi & Alatas, 2024": {
+      "aliases": [
+        "Moosavi & Alatas, 2024",
+        "Moosavi & Alatas (2024)"
+      ],
+      "doi": "https://doi.org/10.1177/00113921231194094",
+      "identity_keys": [
+        "Moosavi & Alatas, 2024"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "The intellectual biography of Syed Farid Alatas: Hegemonic orientations, epistemic decolonisation and the School of Autonomous Knowledge"
+    },
     "Morales, 2011": {
       "aliases": [
         "Morales, 2011",
@@ -157458,6 +157741,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Cooperative Integrated Reading and Composition (CIRC) and Reading Motivation  Examining The Effect on Students’ Reading Ability"
+    },
+    "Mufwene, 2002": {
+      "aliases": [
+        "Mufwene, 2002",
+        "Mufwene (2002)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Mufwene, 2002"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "Colonisation, globalisation, and the future of languages in the twenty-first century"
     },
     "Muhtadi et al., 2022a": {
       "aliases": [
@@ -162377,12 +162675,12 @@
       "identity_keys": [
         "Nkrumah, 1965"
       ],
-      "isbn": "",
+      "isbn": "9780435900977",
       "seen_in": [
         "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
         "wiki/concepts/political-economy-geopolitics/ASEAN Way.md"
       ],
-      "title": ""
+      "title": "Neo-Colonialism, the Last Stage of Imperialism"
     },
     "Nnamani, 2020": {
       "aliases": [
@@ -172631,6 +172929,21 @@
       "seen_in": [],
       "title": "Supporting language and literacy development with intensive small-group interventions  An early childhood efficacy study"
     },
+    "Phillipson, 2012": {
+      "aliases": [
+        "Phillipson, 2012",
+        "Phillipson (2012)"
+      ],
+      "doi": "https://doi.org/10.1558/sols.v5i3.441",
+      "identity_keys": [
+        "Phillipson, 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "English: from British empire to corporate empire"
+    },
     "Phillipson, 2013": {
       "aliases": [
         "Phillipson, 2013",
@@ -173566,6 +173879,21 @@
         "wiki/arguments/journal-articles/Industrial and Corporate Change/Argument_Mazzucato_2018_ICC.md"
       ],
       "title": ""
+    },
+    "Pitana, 2010": {
+      "aliases": [
+        "Pitana, 2010",
+        "Pitana (2010)"
+      ],
+      "doi": "https://doi.org/10.1007/978-3-642-10829-7_18",
+      "identity_keys": [
+        "Pitana, 2010"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "Tri Hita Karana–the local wisdom of the Balinese in managing development"
     },
     "Pittman, 1998": {
       "aliases": [
@@ -174743,6 +175071,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "YouthFriends  Outcomes from a school-based mentoring program"
+    },
+    "Posholi, 2020": {
+      "aliases": [
+        "Posholi, 2020",
+        "Posholi (2020)"
+      ],
+      "doi": "https://doi.org/10.1080/05568641.2020.1779604",
+      "identity_keys": [
+        "Posholi, 2020"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "Epistemic decolonization as overcoming the hermeneutical injustice of Eurocentrism"
     },
     "Posner et al., 1982": {
       "aliases": [
@@ -176835,6 +177178,21 @@
       ],
       "title": ""
     },
+    "Quijano, 2000": {
+      "aliases": [
+        "Quijano, 2000",
+        "Quijano (2000)"
+      ],
+      "doi": "https://doi.org/10.1177/0268580900015002005",
+      "identity_keys": [
+        "Quijano, 2000"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "Coloniality of power and Eurocentrism in Latin America"
+    },
     "Quin, 2017": {
       "aliases": [
         "Quin, 2017",
@@ -177559,6 +177917,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "A comparison of phonological awareness intervention approaches"
+    },
+    "Rajadhon, 1962": {
+      "aliases": [
+        "Rajadhon, 1962",
+        "Rajadhon (1962)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Rajadhon, 1962"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "The Khwan and its ceremonies"
     },
     "Rajalo & Vadi, 2017": {
       "aliases": [
@@ -178537,15 +178910,16 @@
         "Razak & Sanusi, 2023",
         "Razak & Sanusi (2023)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.31436/jia.v20i2.1171",
       "identity_keys": [
         "Razak & Sanusi, 2023"
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
         "wiki/concepts/educational-philosophy/Sejahtera.md"
       ],
-      "title": ""
+      "title": "Sejahtera leadership: An Indigenous Malay Concept in Higher Education for Sustainable Development"
     },
     "Razak et al., 2018": {
       "aliases": [
@@ -178558,9 +178932,10 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
         "wiki/concepts/educational-philosophy/Sejahtera.md"
       ],
-      "title": ""
+      "title": "Decolonising the Paradigm of Sustainable Development of through the Traditional Concept of Sejahtera"
     },
     "Razel, 2001": {
       "aliases": [
@@ -182218,16 +182593,17 @@
         "Robertson, 2010",
         "Robertson (2010)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.1080/14767720903574033",
       "identity_keys": [
         "Robertson, 2010"
       ],
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Parreira do Amaral_2022_Springer.md",
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
         "wiki/concepts/political-economy-geopolitics/Regulatory Regionalism.md"
       ],
-      "title": ""
+      "title": "The EU,‘regulatory state regionalism’ and new modes of higher education governance"
     },
     "Robertson, 2012": {
       "aliases": [
@@ -185682,15 +186058,16 @@
         "Rungduin et al., 2014",
         "Rungduin et al. (2014)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.5861/ijrse.2014.937",
       "identity_keys": [
         "Rungduin et al., 2014"
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
         "wiki/concepts/educational-philosophy/Kapwa.md"
       ],
-      "title": ""
+      "title": "Mapping the emergence of interpersonal values during transgression: Inputs to teaching Filipino psychology and values education"
     },
     "Runyan, 1987": {
       "aliases": [
@@ -208182,6 +208559,21 @@
       ],
       "title": ""
     },
+    "Taylor, 1997": {
+      "aliases": [
+        "Taylor, 1997",
+        "Taylor (1997)"
+      ],
+      "doi": "https://doi.org/10.1080/0159630970180102",
+      "identity_keys": [
+        "Taylor, 1997"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "Critical policy analysis: Exploring contexts, texts and consequences"
+    },
     "Taylor, 1999": {
       "aliases": [
         "Taylor, 1999",
@@ -212725,6 +213117,21 @@
       "seen_in": [],
       "title": "Exploring the Boundary Conditions of the Harmful Associations Between Academic Boredom, Performance, and Effort: A Meta-Analysis and a Primary Study."
     },
+    "Trinh, 2018": {
+      "aliases": [
+        "Trinh, 2018",
+        "Trinh (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Trinh, 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "Local Insights from the Vietnamese Education System: The Impacts of Imperialism, Colonialism, and Neo-Liberalism of Globalization"
+    },
     "Triplett, 2009": {
       "aliases": [
         "Triplett, 2009",
@@ -214656,7 +215063,9 @@
         "Ullah, 2018"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
       "title": "Effects of peer tutoring on the academic achievement of students in the subject of biology at secondary level"
     },
     "Ulrich Pothast, 1982": {
@@ -217250,7 +217659,7 @@
         "Vickers & Epstein, 2024",
         "Vickers & Epstein (2024)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.1080/03050068.2024.2429297",
       "identity_keys": [
         "Vickers & Epstein, 2024"
       ],
@@ -217258,7 +217667,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
       ],
-      "title": ""
+      "title": "Trashing tradition: decoloniality and the rise of ideological dogmatism in comparative education"
     },
     "Vickers & Morris, 2007": {
       "aliases": [
@@ -217532,6 +217941,21 @@
         "wiki/concepts/educational-technology/Study Abroad.md"
       ],
       "title": ""
+    },
+    "Visone, 2017": {
+      "aliases": [
+        "Visone, 2017",
+        "Visone (2017)"
+      ],
+      "doi": "https://doi.org/10.1515/pof-2017-0001",
+      "identity_keys": [
+        "Visone, 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "The ”ASEAN Way”. A Decolonial Path beyond ”Asian Values”?"
     },
     "Visscher & Meijer, 2007": {
       "aliases": [
@@ -221609,6 +222033,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "A consultation and paraprofessional pull-in system of service delivery  A report on student outcomes and teacher satisfaction"
+    },
+    "Welch, 2012": {
+      "aliases": [
+        "Welch, 2012",
+        "Welch (2012)"
+      ],
+      "doi": "https://doi.org/10.1108/20463161211194441",
+      "identity_keys": [
+        "Welch, 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "The limits of regionalism in Indonesian higher education"
     },
     "Welch, 2015": {
       "aliases": [
@@ -230258,6 +230697,21 @@
       "seen_in": [],
       "title": "Three Research Topics in Education:(1) Associations between Approaches to Learning and Academic Achievement;(2) a Meta-Analytic Review on Approaches to Learning and Academic Achievement;(3) Power Analysis in Meta-Analysis: A Three-Level Model"
     },
+    "Zhang, 2025": {
+      "aliases": [
+        "Zhang, 2025",
+        "Zhang (2025)"
+      ],
+      "doi": "https://doi.org/10.1007/s10734-024-01295-x",
+      "identity_keys": [
+        "Zhang, 2025"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "Higher education regionalization in East and Southeast Asia: between decolonization, recolonization, and self-colonization"
+    },
     "Zhao & Liu, 2007": {
       "aliases": [
         "Zhao & Liu, 2007",
@@ -231885,6 +232339,19 @@
         "wiki/methods/qualitative/Interpretive Policy Analysis.md"
       ],
       "title": ""
+    },
+    "jules & Salajan, 2024": {
+      "aliases": [
+        "jules & Salajan, 2024",
+        "jules & Salajan (2024)"
+      ],
+      "doi": "https://doi.org/10.1086/728519",
+      "identity_keys": [
+        "jules & Salajan, 2024"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Co-editors’ introduction: De-centering comparative and international education"
     },
     "latter corroborates Kvernbekk's, 2016": {
       "aliases": [

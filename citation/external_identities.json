@@ -258,6 +258,22 @@
       ],
       "title": "Report of the Eminent Persons Group"
     },
+    "ASEAN, 2022": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "ASEAN work plan on education 2021-2025"
+    },
+    "ASEAN, 2024": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "Joint declaration on the common space in Southeast Asian higher education"
+    },
     "ASIC, 2021a": {
       "doi": "",
       "isbn": "",
@@ -1992,12 +2008,12 @@
       "title": ""
     },
     "Alcoff, 2007": {
-      "doi": "",
+      "doi": "https://doi.org/10.1353/ncr.2008.0008",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
       ],
-      "title": ""
+      "title": "Mignolo's epistemology of coloniality"
     },
     "Alderman, 2008": {
       "datasets": [
@@ -3071,6 +3087,14 @@
         "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md"
       ],
       "title": ""
+    },
+    "Altbach, 2007": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "The imperial tongue: English as the dominating academic language"
     },
     "Altbach, 2011": {
       "doi": "",
@@ -17087,6 +17111,14 @@
       ],
       "title": ""
     },
+    "Caballero-Anthony, 2014": {
+      "doi": "https://doi.org/10.1080/09512748.2014.924227",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "Understanding ASEAN's centrality: bases and prospects in an evolving regional architecture"
+    },
     "Cabezas, 2011": {
       "datasets": [
         "eef:small-group-tuition"
@@ -20617,6 +20649,14 @@
       ],
       "title": ""
     },
+    "Cheok & Chen, 2019": {
+      "doi": "https://doi.org/10.1355/ae36-1c",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "Assessing ASEAN’s Relevance: Have the Right Questions Been Asked?"
+    },
     "Chera, 2003": {
       "datasets": [
         "eef:phonics"
@@ -20781,6 +20821,14 @@
         "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md"
       ],
       "title": "The history and policy of English education in Singapore"
+    },
+    "Chi Hou et al., 2017": {
+      "doi": "https://doi.org/10.1108/heed-08-2017-003",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "A comparative study of student mobility programs in SEAMEO-RIHED, UMAP, and Campus Asia: Regulation, challenges, and impacts on higher education regionalization"
     },
     "Chiang, 2017": {
       "datasets": [
@@ -26693,9 +26741,10 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
         "wiki/concepts/educational-philosophy/Kapwa.md"
       ],
-      "title": ""
+      "title": "A Systematic Review and Meta-synthesis of Indigenous Filipino Values in Educational Leadership"
     },
     "De Bondt et al., 2020": {
       "datasets": [
@@ -28333,6 +28382,14 @@
         "wiki/concepts/instruction-pedagogy/Brainstorming.md"
       ],
       "title": ""
+    },
+    "Diem et al., 2014": {
+      "doi": "https://doi.org/10.1080/09518398.2014.916007",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "The intellectual landscape of critical policy analysis"
     },
     "Diener & Crandall, 1978": {
       "doi": "",
@@ -30692,6 +30749,14 @@
         "wiki/arguments/journal-articles/Journal of Curriculum Studies/Argument_Yan_2025_JCS.md"
       ],
       "title": ""
+    },
+    "EEAS, 2020": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "EU supports ASEAN to realise a common higher education space"
     },
     "EEF, 2012b": {
       "doi": "",
@@ -33184,17 +33249,18 @@
     },
     "Escobar, 2018": {
       "doi": "",
-      "isbn": "",
+      "isbn": "9780822370901",
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Amos_2022_Springer.md",
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Parreira do Amaral_2022_geopolitics-knowledge.md",
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
         "wiki/persons/chile/Francisco Varela.md",
         "wiki/persons/chile/Humberto Maturana.md",
         "wiki/persons/us/Arturo Escobar.md",
         "wiki/theories/educational-philosophy/Autopoiesis.md",
         "wiki/theories/educational-philosophy/Transition Design.md"
       ],
-      "title": ""
+      "title": "Designs for the pluriverse: Radical interdependence, autonomy, and the making of worlds"
     },
     "Eshel, 2001": {
       "doi": "",
@@ -42922,6 +42988,14 @@
       "seen_in": [],
       "title": "Effects of sport-specific training during the early stages of long-term athlete development on physical fitness, body composition, cognitive, and academic performances."
     },
+    "Grande, 2018": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "The positionality of indigenous studies in the ongoing education reform"
+    },
     "Granena & Yilmaz, 2018": {
       "datasets": [
         "metax:S2023"
@@ -49145,12 +49219,13 @@
       "title": ""
     },
     "Hill et al., 2021": {
-      "doi": "",
+      "doi": "https://doi.org/10.1080/03075079.2019.1680966",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
         "wiki/methods/quantitative/Instrumental Variables.md"
       ],
-      "title": ""
+      "title": "Internationalising higher education in Cambodia, Lao PDR, Myanmar, and Viet Nam: challenges and approaches"
     },
     "Hill, 2011": {
       "datasets": [
@@ -60476,11 +60551,12 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
         "wiki/arguments/journal-articles/Policy and Society/Argument_Chou_2017_PolSoc.md",
         "wiki/concepts/higher-education/Bologna Process Export Thesis.md",
         "wiki/concepts/political-economy-geopolitics/ASEAN Way.md"
       ],
-      "title": ""
+      "title": "The normative power of the “ASEAN Way”"
     },
     "Kogan & Atkin, 1991": {
       "doi": "",
@@ -64698,6 +64774,14 @@
       "seen_in": [],
       "title": "The Effect of the Experience Corps® Program on Student Reading Outcomes"
     },
+    "Lee, 2013": {
+      "doi": "https://doi.org/10.1007/s11125-013-9266-x",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "Creating world-class universities: Implications for developing countries"
+    },
     "Lee, 2014": {
       "datasets": [
         "eef:metacognition-and-self-regulation"
@@ -66173,6 +66257,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Effects of hypermedia on students' achievement: a meta-analysis"
+    },
+    "Liao, 2021": {
+      "doi": "https://doi.org/10.4000/archipel.2620",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "Creating and Mobilizing “Syonan” Youth: Youth and the Japanese Occupation of Singapore, 1942- 1945"
     },
     "Licklider & Taylor, 1968": {
       "doi": "",
@@ -67693,6 +67785,14 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28.md"
       ],
       "title": ""
+    },
+    "Loo, 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "Historical Reconciliation in Southeast Asia"
     },
     "Loomer, 1962": {
       "datasets": [
@@ -70356,6 +70456,14 @@
         "wiki/persons/us/Gustavo Manso.md"
       ],
       "title": ""
+    },
+    "Mansoben, 2007": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "The Socio-cultural Plurality of Papuan Society"
     },
     "Mantzicopoulos, 1992": {
       "datasets": [
@@ -74984,6 +75092,14 @@
       ],
       "title": ""
     },
+    "Mignolo & Walsh, 2018": {
+      "doi": "",
+      "isbn": "9780822371090",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "On decoloniality: Concepts, analytics, praxis"
+    },
     "Mignolo, 2000": {
       "doi": "",
       "isbn": "",
@@ -76526,6 +76642,14 @@
       "seen_in": [],
       "title": "Interclass Grouping for Reading Instruction"
     },
+    "Moosavi & Alatas, 2024": {
+      "doi": "https://doi.org/10.1177/00113921231194094",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "The intellectual biography of Syed Farid Alatas: Hegemonic orientations, epistemic decolonisation and the School of Autonomous Knowledge"
+    },
     "Morales, 2011": {
       "datasets": [
         "eef:physical-activity"
@@ -77508,6 +77632,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Cooperative Integrated Reading and Composition (CIRC) and Reading Motivation  Examining The Effect on Students’ Reading Ability"
+    },
+    "Mufwene, 2002": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "Colonisation, globalisation, and the future of languages in the twenty-first century"
     },
     "Muhtadi et al., 2022": {
       "datasets": [
@@ -80416,12 +80548,12 @@
     },
     "Nkrumah, 1965": {
       "doi": "",
-      "isbn": "",
+      "isbn": "9780435900977",
       "seen_in": [
         "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
         "wiki/concepts/political-economy-geopolitics/ASEAN Way.md"
       ],
-      "title": ""
+      "title": "Neo-Colonialism, the Last Stage of Imperialism"
     },
     "Nnamani, 2020": {
       "datasets": [
@@ -86559,6 +86691,14 @@
       "seen_in": [],
       "title": "Supporting language and literacy development with intensive small-group interventions  An early childhood efficacy study"
     },
+    "Phillipson, 2012": {
+      "doi": "https://doi.org/10.1558/sols.v5i3.441",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "English: from British empire to corporate empire"
+    },
     "Phillipson, 2013": {
       "datasets": [
         "metax:S0493"
@@ -87113,6 +87253,14 @@
         "wiki/arguments/journal-articles/Industrial and Corporate Change/Argument_Mazzucato_2018_ICC.md"
       ],
       "title": ""
+    },
+    "Pitana, 2010": {
+      "doi": "https://doi.org/10.1007/978-3-642-10829-7_18",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "Tri Hita Karana–the local wisdom of the Balinese in managing development"
     },
     "Pittman, 1998": {
       "datasets": [
@@ -87812,6 +87960,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "YouthFriends  Outcomes from a school-based mentoring program"
+    },
+    "Posholi, 2020": {
+      "doi": "https://doi.org/10.1080/05568641.2020.1779604",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "Epistemic decolonization as overcoming the hermeneutical injustice of Eurocentrism"
     },
     "Posner et al., 1982": {
       "doi": "",
@@ -89063,6 +89219,14 @@
       ],
       "title": ""
     },
+    "Quijano, 2000": {
+      "doi": "https://doi.org/10.1177/0268580900015002005",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "Coloniality of power and Eurocentrism in Latin America"
+    },
     "Quin, 2017": {
       "datasets": [
         "metax:S0132"
@@ -89486,6 +89650,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "A comparison of phonological awareness intervention approaches"
+    },
+    "Rajadhon, 1962": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "The Khwan and its ceremonies"
     },
     "Rajalo & Vadi, 2017": {
       "doi": "",
@@ -90082,20 +90254,22 @@
       "title": "A Meta-Analysis of Transfer of Learning in Mathematics with a Focus on Teaching Interventions"
     },
     "Razak & Sanusi, 2023": {
-      "doi": "",
+      "doi": "https://doi.org/10.31436/jia.v20i2.1171",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
         "wiki/concepts/educational-philosophy/Sejahtera.md"
       ],
-      "title": ""
+      "title": "Sejahtera leadership: An Indigenous Malay Concept in Higher Education for Sustainable Development"
     },
     "Razak et al., 2018": {
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
         "wiki/concepts/educational-philosophy/Sejahtera.md"
       ],
-      "title": ""
+      "title": "Decolonising the Paradigm of Sustainable Development of through the Traditional Concept of Sejahtera"
     },
     "Razel, 2001": {
       "datasets": [
@@ -92281,13 +92455,14 @@
       "title": ""
     },
     "Robertson, 2010": {
-      "doi": "",
+      "doi": "https://doi.org/10.1080/14767720903574033",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Parreira do Amaral_2022_Springer.md",
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
         "wiki/concepts/political-economy-geopolitics/Regulatory Regionalism.md"
       ],
-      "title": ""
+      "title": "The EU,‘regulatory state regionalism’ and new modes of higher education governance"
     },
     "Robertson, 2012": {
       "doi": "",
@@ -94351,12 +94526,13 @@
       "title": ""
     },
     "Rungduin et al., 2014": {
-      "doi": "",
+      "doi": "https://doi.org/10.5861/ijrse.2014.937",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
         "wiki/concepts/educational-philosophy/Kapwa.md"
       ],
-      "title": ""
+      "title": "Mapping the emergence of interpersonal values during transgression: Inputs to teaching Filipino psychology and values education"
     },
     "Runyan, 1987": {
       "datasets": [
@@ -107956,6 +108132,14 @@
       ],
       "title": ""
     },
+    "Taylor, 1997": {
+      "doi": "https://doi.org/10.1080/0159630970180102",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "Critical policy analysis: Exploring contexts, texts and consequences"
+    },
     "Taylor, 1999": {
       "doi": "",
       "isbn": "",
@@ -110701,6 +110885,14 @@
       "seen_in": [],
       "title": "Exploring the Boundary Conditions of the Harmful Associations Between Academic Boredom, Performance, and Effort: A Meta-Analysis and a Primary Study."
     },
+    "Trinh, 2018": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "Local Insights from the Vietnamese Education System: The Impacts of Imperialism, Colonialism, and Neo-Liberalism of Globalization"
+    },
     "Triplett, 2009": {
       "datasets": [
         "eef:summer-schools"
@@ -111838,7 +112030,9 @@
       ],
       "doi": "https://doi.org/10.3390/educsci8030112",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
       "title": "Effects of peer tutoring on the academic achievement of students in the subject of biology at secondary level"
     },
     "Ulrich Pothast, 1982": {
@@ -113454,12 +113648,12 @@
       "title": ""
     },
     "Vickers & Epstein, 2024": {
-      "doi": "",
+      "doi": "https://doi.org/10.1080/03050068.2024.2429297",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
       ],
-      "title": ""
+      "title": "Trashing tradition: decoloniality and the rise of ideological dogmatism in comparative education"
     },
     "Vickers & Morris, 2007": {
       "doi": "",
@@ -113624,6 +113818,14 @@
         "wiki/concepts/educational-technology/Study Abroad.md"
       ],
       "title": ""
+    },
+    "Visone, 2017": {
+      "doi": "https://doi.org/10.1515/pof-2017-0001",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "The ”ASEAN Way”. A Decolonial Path beyond ”Asian Values”?"
     },
     "Visscher & Meijer, 2007": {
       "doi": "",
@@ -116102,6 +116304,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "A consultation and paraprofessional pull-in system of service delivery  A report on student outcomes and teacher satisfaction"
+    },
+    "Welch, 2012": {
+      "doi": "https://doi.org/10.1108/20463161211194441",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "The limits of regionalism in Indonesian higher education"
     },
     "Welch, 2015": {
       "datasets": [
@@ -121370,6 +121580,14 @@
       "seen_in": [],
       "title": "Three Research Topics in Education:(1) Associations between Approaches to Learning and Academic Achievement;(2) a Meta-Analytic Review on Approaches to Learning and Academic Achievement;(3) Power Analysis in Meta-Analysis: A Three-Level Model"
     },
+    "Zhang, 2025": {
+      "doi": "https://doi.org/10.1007/s10734-024-01295-x",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+      ],
+      "title": "Higher education regionalization in East and Southeast Asia: between decolonization, recolonization, and self-colonization"
+    },
     "Zhao & Liu, 2007": {
       "doi": "",
       "isbn": "",
@@ -122375,6 +122593,12 @@
         "wiki/methods/qualitative/Interpretive Policy Analysis.md"
       ],
       "title": ""
+    },
+    "jules & Salajan, 2024": {
+      "doi": "https://doi.org/10.1086/728519",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Co-editors’ introduction: De-centering comparative and international education"
     },
     "latter corroborates Kvernbekk's, 2016": {
       "doi": "",

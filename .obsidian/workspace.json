@@ -346,6 +346,8 @@
   },
   "active": "a56d43867912ecb5",
   "lastOpenFiles": [
+    "output/parsed_indrarajah_refs.json",
+    "output/indrarajah_refs.txt",
     "output/related-updates/Argument_Indrarajah_2026_NJCIE-442f02bd/batch-010/result.json",
     "output/related-updates/Argument_Indrarajah_2026_NJCIE-442f02bd/batch-009/result.json",
     "output/related-updates/Argument_Indrarajah_2026_NJCIE-442f02bd/batch-008/result.json",
@@ -355,9 +357,7 @@
     "output/related-updates/Argument_Indrarajah_2026_NJCIE-442f02bd/batch-004/result.json",
     "output/related-updates/Argument_Indrarajah_2026_NJCIE-442f02bd/batch-003/result.json",
     "output/related-updates/Argument_Indrarajah_2026_NJCIE-442f02bd/batch-002/result.json",
-    "output/related-updates/Argument_Indrarajah_2026_NJCIE-442f02bd/batch-001/result.json",
     "output/related-updates/Argument_Indrarajah_2026_NJCIE-442f02bd/batch-010/prompt.md",
-    "output/related-updates/Argument_Indrarajah_2026_NJCIE-442f02bd/batch-010/batch-result.schema.json",
     "output/related-updates/Argument_Indrarajah_2026_NJCIE-442f02bd/batch-009/prompt.md",
     "output/related-updates/Argument_Indrarajah_2026_NJCIE-442f02bd/batch-008/prompt.md",
     "output/related-updates/Argument_Indrarajah_2026_NJCIE-442f02bd/batch-007/prompt.md",
