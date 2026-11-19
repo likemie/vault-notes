@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Knowledge Dashboard",
+      "path": "_system/dashboard/Knowledge Dashboard.md"
+    },
+    {
       "basename": "Clique Percolation Method",
       "path": "wiki/methods/quantitative/Clique Percolation Method.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Educational Meritocracy",
       "path": "wiki/concepts/sociology-of-education/Educational Meritocracy.md"
-    },
-    {
-      "basename": "Thinking Schools, Learning Nation",
-      "path": "wiki/facts/singapore/Thinking Schools, Learning Nation.md"
     }
   ],
   "omittedPaths": [],

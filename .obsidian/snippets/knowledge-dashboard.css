@@ -1,0 +1,529 @@
+/* The reading pane owns the width. These overrides apply only to this note. */
+.markdown-preview-view.kd-note,
+.markdown-source-view.kd-note {
+  --file-line-width: 1440px;
+}
+
+.markdown-preview-view.kd-note:has(.kd-dashboard) .inline-title,
+.markdown-preview-view.kd-note:has(.kd-dashboard) .metadata-container {
+  display: none;
+}
+
+.kd-dashboard {
+  --kd-border: var(--background-modifier-border);
+  --kd-panel: var(--background-primary);
+  --kd-quiet: var(--background-secondary);
+  --kd-rail: var(--background-modifier-hover);
+  --kd-chart: #1d5fbf;
+  --kd-gap: 16px;
+  --kd-radius: 10px;
+  container: kd / inline-size;
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 10px 0 32px;
+  color: var(--text-normal);
+  font-family: var(--font-interface);
+  font-size: 13px;
+  line-height: 1.45;
+}
+
+.theme-dark .kd-dashboard {
+  --kd-chart: #84b7ff;
+}
+
+.kd-dashboard *,
+.kd-dashboard *::before,
+.kd-dashboard *::after {
+  box-sizing: border-box;
+}
+
+.kd-dashboard :is(h1, h2, h3, p, dl, dd, ul, li, table) {
+  margin: 0;
+}
+
+.kd-dashboard :is(.kd-header, .kd-identity, .kd-actions, .kd-section-heading, .kd-section-controls,
+.kd-pagination, .kd-paging-controls, .kd-segments) {
+  display: flex;
+  align-items: center;
+}
+
+.kd-dashboard :is(.kd-header, .kd-section-heading, .kd-pagination) {
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.kd-dashboard .kd-header {
+  min-height: 56px;
+  margin-bottom: var(--kd-gap);
+}
+
+.kd-dashboard .kd-identity {
+  gap: 12px;
+  min-width: 0;
+}
+
+.kd-dashboard .kd-mark {
+  display: block;
+  flex: 0 0 20px;
+  height: 25px;
+  border: 1.5px solid currentColor;
+  border-left-width: 4px;
+  border-radius: 3px;
+  position: relative;
+}
+
+.kd-dashboard .kd-mark::after {
+  content: "";
+  position: absolute;
+  inset: 6px 4px auto 3px;
+  height: 5px;
+  border-block: 1px solid currentColor;
+}
+
+.kd-dashboard h1 {
+  color: var(--text-normal);
+  font: 650 28px/1.2 var(--font-interface);
+  letter-spacing: -.025em;
+}
+
+.kd-dashboard h2 {
+  color: var(--text-normal);
+  font: 650 16px/1.3 var(--font-interface);
+}
+
+.kd-dashboard h3 {
+  color: var(--text-normal);
+  font: 600 13px/1.4 var(--font-interface);
+}
+
+.kd-dashboard :is(.kd-muted, .kd-caption, .kd-message, .kd-empty, .kd-mobile-meta) {
+  color: var(--text-muted);
+}
+
+.kd-dashboard :is(.kd-muted, .kd-caption, .kd-message, .kd-mobile-meta, .kd-y-axis, .kd-x-axis) {
+  font-size: 12px;
+}
+
+.kd-dashboard :is(.kd-number, .kd-time-cell, .kd-paging-controls, .kd-metric dd, .kd-chart-summary,
+.kd-y-axis, .kd-x-axis) {
+  font-variant-numeric: tabular-nums;
+}
+
+.kd-dashboard .kd-message:not(:empty) {
+  padding: 9px 12px;
+  background: var(--kd-quiet);
+  border-left: 2px solid var(--text-muted);
+  margin-bottom: var(--kd-gap);
+}
+
+.kd-dashboard .kd-message:empty {
+  display: none;
+}
+
+.kd-dashboard :is(.kd-actions, .kd-section-controls, .kd-paging-controls, .kd-segments) {
+  gap: 6px;
+}
+
+.kd-dashboard :is(button, select, input[type="search"]) {
+  appearance: none;
+  height: 32px;
+  padding: 0 9px;
+  min-width: 0;
+  max-width: 100%;
+  border: 1px solid var(--kd-border);
+  border-radius: 6px;
+  background: var(--kd-panel);
+  color: var(--text-normal);
+  font: inherit;
+  box-shadow: none;
+}
+
+.kd-dashboard :is(button, select) {
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.kd-dashboard select {
+  appearance: auto;
+  text-overflow: ellipsis;
+  padding-inline: 6px;
+}
+
+.kd-dashboard :is(button, select):hover:not(:disabled) {
+  background: var(--kd-quiet);
+}
+
+.kd-dashboard :is(button, select):disabled {
+  color: var(--text-muted);
+  cursor: default;
+  opacity: .7;
+}
+
+.kd-dashboard :is(a, button, select, input, svg):focus-visible {
+  outline: 2px solid var(--interactive-accent);
+  outline-offset: 2px;
+}
+
+.kd-dashboard .kd-link {
+  color: var(--text-normal);
+  text-decoration: none;
+  text-underline-offset: 3px;
+  cursor: pointer;
+}
+
+.kd-dashboard .kd-link:hover {
+  text-decoration: underline;
+}
+
+.kd-dashboard .kd-refresh {
+  color: var(--kd-panel);
+  background: var(--text-normal);
+  border-color: var(--text-normal);
+}
+
+.kd-dashboard .kd-refresh:hover:not(:disabled) {
+  background: var(--text-muted);
+  border-color: var(--text-muted);
+}
+
+.kd-dashboard .kd-actions .kd-link {
+  white-space: nowrap;
+  padding: 5px 7px;
+}
+
+.kd-dashboard .kd-overview {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  border: 1px solid var(--kd-border);
+  border-radius: var(--kd-radius);
+  background: var(--kd-panel);
+}
+
+.kd-dashboard .kd-metric {
+  min-width: 0;
+  padding: 12px 16px;
+}
+
+.kd-dashboard .kd-metric + .kd-metric {
+  border-inline-start: 1px solid var(--kd-border);
+}
+
+.kd-dashboard .kd-metric dt {
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
+.kd-dashboard .kd-metric dd {
+  font-size: 28px;
+  line-height: 1.3;
+}
+
+.kd-dashboard .kd-metric:first-child dd {
+  font-size: 34px;
+  line-height: 1.08;
+}
+
+.kd-dashboard .kd-overview-note {
+  margin-top: 5px;
+}
+
+.kd-dashboard .kd-quick {
+  display: flex;
+  gap: 6px 16px;
+  flex-wrap: wrap;
+  align-items: center;
+  padding-block: 11px;
+  margin-bottom: 4px;
+}
+
+.kd-dashboard .kd-quick .kd-link {
+  color: var(--text-muted);
+  padding-block: 2px;
+}
+
+.kd-dashboard .kd-columns {
+  display: grid;
+  /* Activity takes the remainder. Its width + 16px gap + rail width fills the pane. */
+  grid-template-columns: minmax(0, 1fr) minmax(270px, .46fr);
+  align-items: start;
+  gap: var(--kd-gap);
+}
+
+.kd-dashboard .kd-side {
+  display: grid;
+  min-width: 0;
+  gap: var(--kd-gap);
+}
+
+.kd-dashboard .kd-panel {
+  min-width: 0;
+  padding: 14px;
+  border: 1px solid var(--kd-border);
+  border-radius: var(--kd-radius);
+  background: var(--kd-panel);
+}
+
+.kd-dashboard .kd-section-heading {
+  min-height: 32px;
+  margin-bottom: 8px;
+}
+
+.kd-dashboard .kd-segments {
+  gap: 1px;
+  background: var(--kd-quiet);
+  border-radius: 6px;
+  padding: 2px;
+}
+
+.kd-dashboard .kd-segments button {
+  height: 28px;
+  border: 0;
+  background: transparent;
+  color: var(--text-muted);
+}
+
+.kd-dashboard :is(.kd-segments button, .kd-health-check)[aria-pressed="true"],
+.kd-dashboard .kd-health-check[aria-expanded="true"] {
+  background: var(--kd-panel);
+  color: var(--text-normal);
+  font-weight: 600;
+}
+
+.kd-dashboard .kd-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  padding-block: 3px 9px;
+}
+
+.kd-dashboard .kd-filters .kd-search {
+  flex: 1 1 130px;
+  padding-inline: 9px;
+}
+
+.kd-dashboard .kd-filters select {
+  flex: 0 1 auto;
+  max-width: min(100%, 155px);
+}
+
+.kd-dashboard .kd-table {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+  color: var(--text-normal);
+  font-size: inherit;
+}
+
+.kd-dashboard .kd-table :is(th, td) {
+  padding: 8px 5px;
+  text-align: start;
+  vertical-align: middle;
+  border: 0;
+  border-bottom: 1px solid var(--kd-border);
+}
+
+.kd-dashboard .kd-table th {
+  color: var(--text-muted);
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.kd-dashboard .kd-table :is(th, td):first-child {
+  padding-left: 0;
+}
+
+.kd-dashboard .kd-table :is(th, td):last-child {
+  padding-right: 0;
+  text-align: end;
+  white-space: nowrap;
+}
+
+.kd-dashboard .kd-table th:nth-child(2) { width: 65px; }
+.kd-dashboard .kd-table th:nth-child(3) { width: 26%; }
+.kd-dashboard .kd-table th:last-child { width: 92px; }
+
+.kd-dashboard :is(.kd-table td, .kd-table .kd-link, .kd-mobile-meta,
+.kd-health-list .kd-link, .kd-health-list li > span, .kd-breakdown-label) {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.kd-dashboard .kd-table .kd-link,
+.kd-dashboard .kd-mobile-meta {
+  display: block;
+}
+
+.kd-dashboard .kd-mobile-meta {
+  display: none;
+}
+
+.kd-dashboard .kd-pagination {
+  padding-top: 10px;
+}
+
+.kd-dashboard .kd-paging-controls {
+  font-size: 12px;
+}
+
+.kd-dashboard .kd-paging-controls button {
+  height: 28px;
+}
+
+.kd-dashboard .kd-empty {
+  padding: 16px 0;
+}
+
+.kd-dashboard .kd-plot {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  gap: 4px 8px;
+  margin-block: 8px 6px;
+}
+
+.kd-dashboard .kd-plot svg {
+  display: block;
+  width: 100%;
+  height: 87px;
+  overflow: visible;
+}
+
+.kd-dashboard .kd-y-axis {
+  grid-row: 1;
+  grid-column: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-end;
+  line-height: 0;
+  color: var(--text-muted);
+}
+
+.kd-dashboard .kd-x-axis {
+  grid-row: 2;
+  grid-column: 2;
+  display: flex;
+  justify-content: space-between;
+  white-space: nowrap;
+  color: var(--text-muted);
+}
+
+.kd-dashboard .kd-chart-summary {
+  min-height: 20px;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.kd-dashboard .kd-gridline {
+  stroke: var(--kd-border);
+  stroke-width: 1;
+  vector-effect: non-scaling-stroke;
+}
+
+.kd-dashboard .kd-bar {
+  fill: var(--kd-chart);
+}
+
+.kd-dashboard .kd-hit {
+  fill: transparent;
+}
+
+.kd-dashboard g[data-active] .kd-hit {
+  fill: var(--kd-chart);
+  fill-opacity: .12;
+}
+
+.kd-dashboard .kd-health-checks {
+  display: grid;
+  gap: 4px;
+}
+
+.kd-dashboard .kd-health-check {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  background: var(--kd-quiet);
+  border-color: transparent;
+}
+
+.kd-dashboard .kd-health-check[aria-expanded="true"] {
+  border-color: var(--kd-border);
+}
+
+.kd-dashboard .kd-health-details:not(:empty) {
+  margin-top: 10px;
+}
+
+.kd-dashboard .kd-health-list,
+.kd-dashboard .kd-breakdown {
+  list-style: none;
+  padding: 0;
+}
+
+.kd-dashboard .kd-health-list li {
+  padding-block: 5px;
+  border-bottom: 1px solid var(--kd-border);
+}
+
+.kd-dashboard .kd-health-list li > :is(a, span) {
+  display: block;
+}
+
+.kd-dashboard .kd-breakdown li {
+  display: grid;
+  grid-template-columns: minmax(60px, auto) minmax(20px, 1fr) 54px;
+  align-items: center;
+  gap: 8px;
+  min-height: 24px;
+}
+
+.kd-dashboard .kd-breakdown-label {
+  max-width: 105px;
+}
+
+.kd-dashboard .kd-track,
+.kd-dashboard .kd-fill {
+  display: block;
+  height: 5px;
+  border-radius: 3px;
+}
+
+.kd-dashboard .kd-track { background: var(--kd-quiet); }
+.kd-dashboard .kd-fill { background: var(--text-muted); }
+.kd-dashboard .kd-number { text-align: end; }
+
+.kd-dashboard .kd-sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+@container kd (max-width: 820px) {
+  .kd-dashboard .kd-columns { grid-template-columns: minmax(0, 1fr); }
+  .kd-dashboard .kd-side { grid-template-columns: repeat(2, minmax(0, 1fr)); align-items: start; }
+}
+
+@container kd (max-width: 560px) {
+  .kd-dashboard .kd-side { grid-template-columns: minmax(0, 1fr); }
+  .kd-dashboard .kd-overview { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .kd-dashboard .kd-metric:nth-child(3) { border-inline-start: 0; }
+  .kd-dashboard .kd-metric:nth-child(n + 3) { border-top: 1px solid var(--kd-border); }
+  .kd-dashboard .kd-table :is(th, td):is(:nth-child(2), :nth-child(3)) { display: none; }
+  .kd-dashboard .kd-mobile-meta { display: block; }
+  .kd-dashboard .kd-filters .kd-search { flex-basis: 100%; }
+  .kd-dashboard .kd-filters select { max-width: 48%; }
+}
+
+@container kd (max-width: 365px) {
+  .kd-dashboard .kd-header { align-items: flex-start; flex-direction: column; }
+  .kd-dashboard .kd-quick { gap: 4px 12px; }
+  .kd-dashboard .kd-panel { padding: 10px; }
+  .kd-dashboard .kd-metric { padding: 10px 12px; }
+  .kd-dashboard h1 { font-size: 24px; }
+}

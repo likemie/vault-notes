@@ -42,6 +42,10 @@ related_concepts:
   - "[[Virtual University]]"
   - "[[Instrumental Rationality]]"
   - "[[Bureaucracy]]"
+  - "[[Regionness]]"
+  - "[[The Strength of Weak Ties]]"
+  - "[[Normative Power Europe]]"
+  - "[[Mosaic Harmonisation]]"
 related_theories:
   - "[[Comparative Regionalism]]"
   - "[[Human Capital Theory]]"

@@ -1,0 +1,49 @@
+{
+  "includeFolders": [],
+  "excludeFolders": [
+    "_system", "raw", "datasets", "citation", "scripts", "schema", "tests",
+    "scratch", "tmp", "private", "Claude outputs", "bases", "wiki/templates", "wiki/assets",
+    "output/related-updates"
+  ],
+  "excludeFiles": [
+    "AGENTS.md", "CLAUDE.md", "GEMINI.md", "vault-schema.md", "vault-use.md", "index.md",
+    "wiki/index.md", "wiki/research-map.md", "explore/index.md",
+    "wiki/arguments/index.md", "wiki/concepts/index.md", "wiki/theories/index.md", "wiki/facts/index.md",
+    "wiki/methods/index.md", "wiki/instruments/index.md", "wiki/persons/index.md"
+  ],
+  "typeRules": [
+    { "id": "argument", "label": "论证", "fieldValue": "argument", "folders": ["wiki/arguments"] },
+    { "id": "concept", "label": "概念", "fieldValue": "concept", "folders": ["wiki/concepts"] },
+    { "id": "theory", "label": "理论", "fieldValue": "theory", "folders": ["wiki/theories"] },
+    { "id": "fact", "label": "事实", "fieldValue": "fact", "folders": ["wiki/facts"] },
+    { "id": "method", "label": "方法", "fieldValue": "method", "folders": ["wiki/methods"] },
+    { "id": "instrument", "label": "测量工具", "fieldValue": "instrument", "folders": ["wiki/instruments"] },
+    { "id": "person", "label": "人物", "fieldValue": "person", "folders": ["wiki/persons"] },
+    { "id": "source", "label": "文献记录", "folders": ["sources", "books"] },
+    { "id": "research", "label": "研究笔记", "folders": ["output", "explore"] },
+    { "id": "clipping", "label": "剪藏", "folders": ["Clippings"] }
+  ],
+  "requiredFieldsByType": {
+    "argument": ["type", "title"],
+    "concept": ["type", "title"],
+    "theory": ["type", "title"],
+    "fact": ["type", "title", "subtype", "region"],
+    "method": ["type", "title", "method_type"],
+    "instrument": ["type", "title", "instrument_type"],
+    "person": ["type", "title"]
+  },
+  "quickLinks": [
+    { "label": "研究地图", "path": "wiki/research-map.md" },
+    { "label": "论证", "path": "bases/arguments.md" },
+    { "label": "概念", "path": "bases/concepts.md" },
+    { "label": "理论", "path": "bases/theories.md" },
+    { "label": "事实", "path": "bases/facts.md" },
+    { "label": "方法", "path": "bases/methods.md" },
+    { "label": "测量工具", "path": "bases/instruments.md" },
+    { "label": "人物", "path": "bases/persons.md" },
+    { "label": "主题探索", "path": "explore/index.md" }
+  ],
+  "allNotesPath": "wiki/index.md",
+  "pageSize": 20,
+  "trendDays": 30
+}

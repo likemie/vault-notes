@@ -11272,7 +11272,9 @@
     "Hetmanek et al. (2023)": "Hetmanek et al., 2023",
     "Hetmanek et al., 2023": "Hetmanek et al., 2023",
     "Hettne & Söderbaum (1998)": "Hettne & Söderbaum, 1998",
+    "Hettne & Söderbaum (2000)": "Hettne & Söderbaum, 2000",
     "Hettne & Söderbaum, 1998": "Hettne & Söderbaum, 1998",
+    "Hettne & Söderbaum, 2000": "Hettne & Söderbaum, 2000",
     "Hettne (2005)": "Hettne, 2005",
     "Hettne, 2005": "Hettne, 2005",
     "Hetzel (1980)": "Hetzel, 1980",
@@ -29056,6 +29058,8 @@
     "运用卢曼与肖尔, 1979": "运用卢曼与肖尔, 1979",
     "迪克勒等 (2021)": "迪克勒等, 2021",
     "迪克勒等, 2021": "迪克勒等, 2021",
+    "邓桂英 (2017)": "邓桂英, 2017",
+    "邓桂英, 2017": "邓桂英, 2017",
     "郑辉与李路路 (2009)": "郑辉与李路路, 2009",
     "郑辉与李路路, 2009": "郑辉与李路路, 2009",
     "里兹维与林加德 (2009)": "里兹维与林加德, 2009",
@@ -111874,6 +111878,21 @@
       ],
       "title": "The new regionalism approach"
     },
+    "Hettne & Söderbaum, 2000": {
+      "aliases": [
+        "Hettne & Söderbaum, 2000",
+        "Hettne & Söderbaum (2000)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hettne & Söderbaum, 2000"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/political-economy-geopolitics/Regionness.md"
+      ],
+      "title": ""
+    },
     "Hettne, 2005": {
       "aliases": [
         "Hettne, 2005",
@@ -111885,7 +111904,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md",
+        "wiki/concepts/political-economy-geopolitics/Regionness.md"
       ],
       "title": "Beyond the ‘new’ regionalism"
     },
@@ -209731,6 +209751,7 @@
       "isbn": "9781137571380",
       "seen_in": [
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md",
+        "wiki/concepts/political-economy-geopolitics/Regionness.md",
         "wiki/theories/political-economy-geopolitics/Comparative Regionalism.md"
       ],
       "title": "Rethinking regionalism"
@@ -240837,6 +240858,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/us/Inq-Blotter.md"
+      ],
+      "title": ""
+    },
+    "邓桂英, 2017": {
+      "aliases": [
+        "邓桂英, 2017",
+        "邓桂英 (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "邓桂英, 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/political-economy-geopolitics/Regionness.md"
       ],
       "title": ""
     },
