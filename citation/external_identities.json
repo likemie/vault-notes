@@ -572,6 +572,12 @@
       ],
       "title": "Sociological Theory and Rational Choice Theory"
     },
+    "Abels & Bode, 2022": {
+      "doi": "",
+      "isbn": "978-3-8376-6268-9",
+      "seen_in": [],
+      "title": "Aktuelle Herausforderungen für deutsch-chinesische Hochschulkooperationen"
+    },
     "Abelson, 1974": {
       "datasets": [
         "eef:mastery-learning"
@@ -2593,7 +2599,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
-      "title": ""
+      "title": "Ampel stärkt Rolle des Mercator-Institut als deutsches China-Kompetenzzentrum"
     },
     "Alison Andrew, 1985": {
       "doi": "",
@@ -6045,7 +6051,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
-      "title": ""
+      "title": "China-Strategie der Bundesregierung"
     },
     "Autonomous Region Department of Education, 2023": {
       "doi": "",
@@ -6368,7 +6374,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
-      "title": ""
+      "title": "Exportkontrolle und Wissenschaft: Handbuch für die Praxis"
     },
     "BBC, 2025": {
       "doi": "",
@@ -6444,7 +6450,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
-      "title": ""
+      "title": "China-Strategie des BMBF 2015–2020: Strategischer Rahmen für die Zusammenarbeit mit China in Forschung, Wissenschaft und Bildung"
     },
     "BMBF, 2015b": {
       "doi": "",
@@ -6452,7 +6458,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
-      "title": ""
+      "title": "Partner China: Zwischen Konkurrenz und Kooperation"
     },
     "BMBF, 2016": {
       "doi": "",
@@ -6460,7 +6466,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
-      "title": ""
+      "title": "Richtlinie zur Förderung von \"Innovativen Konzepten zum Ausbau der China-Kompetenz an deutschen Hochschulen\""
     },
     "BMBF, 2017": {
       "doi": "",
@@ -6476,7 +6482,31 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
-      "title": ""
+      "title": "Richtlinie zur Förderung des regionalen Ausbaus der China-Kompetenz in der Wissenschaft (Regio-China)"
+    },
+    "BMBF, 2021b": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Karliczek: Wir brauchen mehr unabhängige China-Expertise in Deutschland"
+    },
+    "BMBF, 2023": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "China – Partner, systemischer Rivale und Wettbewerber"
+    },
+    "BMBF, 2024a": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Richtlinie \"Moderne Chinaforschung II\" zur Förderung von Forschung zu aktuellen politischen, wissenschaftlichen sowie gesellschaftlichen Entwicklungen in der Volksrepublik China"
+    },
+    "BMBF, 2024b": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Richtlinie zur Förderung von Projekten zur Erforschung von Vermittlung und Erwerb von Chinesisch als Fremdsprache als Beitrag zum Auf- und Ausbau von unabhängiger China-Kompetenz"
     },
     "BMUB, 2016": {
       "doi": "",
@@ -14713,7 +14743,8 @@
         "wiki/concepts/comparative-education/The Nation-State as the Unit of Comparison.md",
         "wiki/concepts/higher-education/Scale in Higher Education.md",
         "wiki/concepts/research-methodology/Unit of Analysis.md",
-        "wiki/methods/qualitative/Vertical Case Study.md"
+        "wiki/methods/qualitative/Multilevel Comparative Analysis.md",
+        "wiki/persons/uk/Mark Bray.md"
       ],
       "title": "Levels of comparison in educational studies: Different insights from different literatures and the value of multilevel analyses"
     },
@@ -15880,12 +15911,12 @@
       "title": ""
     },
     "Brugha & Varvasovszky, 2000": {
-      "doi": "",
+      "doi": "10.1093/heapol/15.3.239",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
-      "title": ""
+      "title": "Stakeholder Analysis: A review"
     },
     "Bruhns, 2017": {
       "doi": "",
@@ -16448,7 +16479,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
-      "title": ""
+      "title": "Antwort auf die Kleine Anfrage der Fraktion der CDU/CSU: Stand des Ausbaus der China-Kompetenz in Deutschland (Drucksache 20/11181)"
     },
     "Bunge, 1985": {
       "doi": "",
@@ -17708,6 +17739,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Augmented reality technology in language learning: A meta-analysis."
+    },
+    "Cai, 2023": {
+      "doi": "10.36197/IHE.2023.116.03",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
+      ],
+      "title": "Decoding Discord: Paradoxes, Misperceptions and Risks in EU-China Higher Education Cooperation"
     },
     "Cain et al., 2016": {
       "doi": "",
@@ -21413,6 +21452,12 @@
         "wiki/theories/educational-psychology/Symbiotic Framework of Adaptive Epistemic Stances.md"
       ],
       "title": ""
+    },
+    "China-Schul-Akademie, 2019": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "China Perspektiven: Mehr vom Anderen wissen: (Lehr- und Lern-) Dialoge mit China"
     },
     "Chinese Culture Connection, 1987": {
       "doi": "",
@@ -25978,7 +26023,19 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
-      "title": ""
+      "title": "Die akademische Zusammenarbeit mit China realistisch gestalten: Handlungsempfehlungen des DAAD für deutsche Hochschulen"
+    },
+    "DAAD/DZHW, 2015": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Wissenschaft weltoffen 2015: Daten und Fakten zur Internationalität von Studium und Forschung in Deutschland"
+    },
+    "DAAD/DZHW, 2023": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Wissenschaft weltoffen 2023: Daten und Fakten zur Internationalität von Studium und Forschung in Deutschland und weltweit"
     },
     "DBR Collective, 2003": {
       "doi": "",
@@ -28492,6 +28549,30 @@
         "wiki/theories/instruction-pedagogy/Social Interdependence Theory.md"
       ],
       "title": ""
+    },
+    "Deutsches Zentrum für Luft- und Raumfahrt, 2017": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Deutsch-Chinesische Plattform Innovation Policy Briefs 2017 der deutschen Expertengruppe"
+    },
+    "Deutsches Zentrum für Luft- und Raumfahrt, 2018a": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Deutsch-Chinesische Plattform Innovation Policy Briefs 2018 der deutschen Expertengruppe"
+    },
+    "Deutsches Zentrum für Luft- und Raumfahrt, 2018b": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Deutsch-Chinesische Plattform Innovation Policy Briefs 2018 der deutschen Expertengruppe"
+    },
+    "Deutsches Zentrum für Luft- und Raumfahrt, 2019": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Deutsch-Chinesische Plattform Innovation Policy Briefs 2019 der deutschen Expertengruppe"
     },
     "Deutschlandfunk, 2017": {
       "doi": "",
@@ -34305,7 +34386,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
-      "title": ""
+      "title": "EU-China – A strategic outlook"
     },
     "European Commission, 2021": {
       "doi": "",
@@ -36539,13 +36620,13 @@
       "title": "A part-part-whole curriculum for teaching number in the kindergarten"
     },
     "Fischer, 2003": {
-      "doi": "",
+      "doi": "10.1093/019924222X.001.0001",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md",
         "wiki/persons/us/Deborah Stone.md"
       ],
-      "title": ""
+      "title": "Reframing Public Policy: Discursive Politics and Deliberative Practices"
     },
     "Fish, 1980": {
       "doi": "",
@@ -38482,12 +38563,12 @@
       "title": ""
     },
     "Frenzel & Godehardt, 2020": {
-      "doi": "",
+      "doi": "10.18449/2020A61",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
-      "title": ""
+      "title": "Mehr China-Kompetenz wagen! Zur Notwendigkeit einer bundesweiten Strategie"
     },
     "Freud, 1930": {
       "doi": "",
@@ -59959,6 +60040,12 @@
       ],
       "title": ""
     },
+    "Kierst, 2022": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Was ist \"China-Kompetenz\"? Interview mit Prof. Dr. Andreas Guder"
+    },
     "Kiesner, 1997": {
       "datasets": [
         "eef:homework"
@@ -61001,6 +61088,14 @@
       ],
       "title": ""
     },
+    "Klafki, 1999": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/germany/Wolfgang Klafki.md"
+      ],
+      "title": ""
+    },
     "Klager, 2018": {
       "datasets": [
         "metax:S2153"
@@ -61894,6 +61989,12 @@
       "isbn": "",
       "seen_in": [],
       "title": "A Study of Achievement as a Function of Homogeneous Grouping"
+    },
+    "Kooperation International, 2017": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "BMBF-geförderte Deutsch-Chinesische Alumnifachnetzwerke (DCHAN) gestartet"
     },
     "Koopsman, 1991": {
       "datasets": [
@@ -63363,6 +63464,12 @@
       "isbn": "",
       "seen_in": [],
       "title": "Meta-Analytic Studies of Acceleration"
+    },
+    "Kultusministerkonferenz et al., 2018": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Bund und Länder wollen China-Kompetenz fördern"
     },
     "Kumar, 1991": {
       "datasets": [
@@ -66487,6 +66594,14 @@
       "seen_in": [],
       "title": "Teacher incentives and student performance  Evidence from Brazil"
     },
+    "Lepori, 2011": {
+      "doi": "10.1016/j.respol.2010.12.004",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
+      ],
+      "title": "Coordination Modes in Public Funding Systems"
+    },
     "Leppiniemi, 2016": {
       "doi": "",
       "isbn": "",
@@ -66778,6 +66893,12 @@
         "wiki/concepts/comparative-education/Traveller Education.md"
       ],
       "title": ""
+    },
+    "Levinson et al., 2020": {
+      "doi": "10.1007/978-981-13-8347-2_16",
+      "isbn": "",
+      "seen_in": [],
+      "title": "An Anthropological Approach to Education Policy as a Practice of Power: Concepts and Methods"
     },
     "Levinthal & March, 1993": {
       "doi": "",
@@ -73123,6 +73244,14 @@
       "seen_in": [],
       "title": "Efficacy of Self-Regulated Strategy Development Instruction for Developing Writers with and without Disabilities in Rural Schools  A Randomized Controlled Trial."
     },
+    "Masschelein & Ricken, 2003": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/germany/Wolfgang Klafki.md"
+      ],
+      "title": ""
+    },
     "Masschelein & Ricken, 2010": {
       "doi": "",
       "isbn": "",
@@ -73729,7 +73858,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
-      "title": ""
+      "title": "Union fordert Ausbau deutscher China-Kompetenz: Risiken erkennen"
     },
     "Mayfield, 1987": {
       "doi": "",
@@ -73840,12 +73969,12 @@
       "title": ""
     },
     "Mayring, 2015": {
-      "doi": "",
+      "doi": "10.1007/978-3-658-10008-7_19",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
-      "title": ""
+      "title": "Qualitative Content Analysis: Theoretical Background and Procedures"
     },
     "Mazeh, 2020": {
       "datasets": [
@@ -79876,6 +80005,12 @@
       "seen_in": [],
       "title": "Short breaks at school  effects of a physical activity and a mindfulness intervention on children's attention, reading comprehension, and self-esteem."
     },
+    "Müller, 2023": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Mehr China-Kompetenz. Trotz Differenzen: Austausch mit China pflegen"
+    },
     "Münch, 2013": {
       "doi": "",
       "isbn": "",
@@ -85616,6 +85751,12 @@
         "wiki/facts/eu/Erasmus Programme.md"
       ],
       "title": ""
+    },
+    "Papenbrock & Schmid, 2023": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Deutschland stärkt seine China-Kompetenz: SPD-Fraktion im Bundestag"
     },
     "Papic, 2011": {
       "datasets": [
@@ -91999,12 +92140,12 @@
       "title": ""
     },
     "Reckwitz, 2002": {
-      "doi": "",
+      "doi": "10.1177/13684310222225432",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
-      "title": ""
+      "title": "Toward a Theory of Social Practices: A Development in Culturalist Theorizing"
     },
     "Redding & Nguyen, 2020": {
       "datasets": [
@@ -93525,6 +93666,12 @@
         "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md"
       ],
       "title": ""
+    },
+    "Robak, 2021": {
+      "doi": "10.1007/978-3-658-32982-2_9",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Transkulturelle China-Kompetenz"
     },
     "Robbins & Kegley, 2010": {
       "doi": "",
@@ -95999,6 +96146,12 @@
         "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md"
       ],
       "title": ""
+    },
+    "Rudyak, 2021": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Keine Orchidee: Über Chinakompetenz und Sinologie"
     },
     "Rueda, 2012": {
       "datasets": [
@@ -98642,11 +98795,11 @@
     },
     "Schatzki, 2001": {
       "doi": "",
-      "isbn": "",
+      "isbn": "978-0-415-24214-1",
       "seen_in": [
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
-      "title": ""
+      "title": "Introduction: Practice theory"
     },
     "Schau et al., 2001": {
       "doi": "",
@@ -106726,6 +106879,12 @@
       ],
       "title": ""
     },
+    "Stepan & Frenzel, 2021": {
+      "doi": "10.1007/978-3-658-32982-2_8",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Wege zu mehr China-Kompetenz"
+    },
     "Stephan Lewandowsky et al., 2017": {
       "doi": "",
       "isbn": "",
@@ -110501,6 +110660,12 @@
       ],
       "title": ""
     },
+    "Thelen et al., 2022": {
+      "doi": "",
+      "isbn": "978-3-8376-6268-9",
+      "seen_in": [],
+      "title": "Handbuch China-Kompetenz: Best-Practice-Beispiele aus deutschen Hochschulen"
+    },
     "Thelen, 2003": {
       "doi": "",
       "isbn": "",
@@ -114165,6 +114330,12 @@
         "wiki/arguments/journal-articles/Chinese Studies Journal/Argument_Velasco_2022_CSJ.md"
       ],
       "title": ""
+    },
+    "Universität Jena, 2024": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "ChinaKooP: China-Kompetenz-Plattform für Hochschulen und Forschungseinrichtungen in Thüringen"
     },
     "Unrau et al., 2018": {
       "datasets": [
@@ -119591,6 +119762,14 @@
       "seen_in": [],
       "title": "The impact of leisure-time television on school learning: A research synthesis"
     },
+    "Williams et al., 2009": {
+      "doi": "10.1186/1475-2875-8-85",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
+      ],
+      "title": "A Retrospective Analysis of the Change in Anti-Malarial Treatment Policy: Peru"
+    },
     "Williams et al., 2022": {
       "datasets": [
         "metax:S0866"
@@ -122004,12 +122183,12 @@
     },
     "Yanow, 2000": {
       "doi": "",
-      "isbn": "",
+      "isbn": "978-0-7619-0925-5",
       "seen_in": [
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md",
         "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md"
       ],
-      "title": ""
+      "title": "Conducting Interpretive Policy Analysis"
     },
     "Yanow, 2009": {
       "doi": "",
@@ -124105,6 +124284,12 @@
       "isbn": "",
       "seen_in": [],
       "title": "After-school tutoring in the context of no child left behind  Effectiveness of two programs in the Pittsburgh public schools"
+    },
+    "Zimmer, 2021": {
+      "doi": "10.1007/978-3-658-32982-2_10",
+      "isbn": "",
+      "seen_in": [],
+      "title": "China-Kompetenz und die Grenzen eines kleinen Faches"
     },
     "Zimmerman, 2002": {
       "doi": "",

@@ -193,7 +193,7 @@ updated: 2026-11-20
 > - **超国家标准化度量空间（Supranational Metric Assessment Space）** 20 世纪末期由国际大规模测评（如 [[IEA]]、[[OECD]]/[[PISA]]）所构建的去情境化、以量化[[Performance Indicators|绩效指标]]和通用胜任力为导向的数据空间，将分析基准从历史文化国别容器重构为跨国能力度量衡网络。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 95–96)]]
 > - **微观田野与多点比较案例（Micro-[[Fieldwork]] & [[Comparative Case Study]]）** 阿诺夫等学者倡导将分析单位深入课堂[[Rich and Thick Description|深描]]、基层女教师博弈与乡村青年亚文化，实现宏观世界体系与微观生活世界的辩证对接。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–110)]]
 > - **[[Space of Flows|流动空间]]中的跨国五重结构性[[Discourse|话语]]位置（Transnational Network Positions in the Space of Flows）** 比奇（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）融合[[Basil Bernstein|伯恩斯坦]]语篇位置与卡斯特[[Space of Flows|流动空间]]理论，批判将民族国家作为天然分析容器的[[Methodological Nationalism|方法论民族主义]]；确立由全球学术、国际机构、国家官方、本土学术与微观学校五大结构位置构成的关系型分析单位，将分析基准转向非领土化网络中流通的符号与话语控制权节点。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349–351)]]
-> - **多尺度垂直贯通分析单位（Multi-Scalar Vertically Bounded Unit）** 瓦夫鲁斯与巴特利特（[[Argument_Vavrus_2006_CICE|Vavrus & Bartlett, 2006]]）结合布雷与托马斯（Bray and Thomas, 1995）的多层分析框架以及马金森与莫里斯（Marginson & Mollis, 2001）对民族国家基本分析单位的解构，提出[[Vertical Case Study|垂直案例研究]]；将分析单位重构为跨越超国家政策宣示、国家制度网络、地方学区以及微观个体日常实践的“纵向限定案例（vertically-bounded case）”，在单一案例内部系统比对不同社会位置行动者的知识主张，实现宏观历史结构与微观生活经验的纵向贯通。[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, pp. 95–97)]]
+> - **多尺度垂直贯通分析单位（Multi-Scalar Vertically Bounded Unit）** 瓦夫鲁斯与巴特利特（[[Argument_Vavrus_2006_CICE|Vavrus & Bartlett, 2006]]）结合布雷与托马斯（Bray and Thomas, 1995）的[[Multilevel Comparative Analysis|多层分析框架]]以及马金森与莫里斯（Marginson & Mollis, 2001）对民族国家基本分析单位的[[Decentering the Nation-State|去中心化解构]]，提出[[Vertical Case Study|垂直案例研究]]；将分析单位重构为跨越超国家政策宣示、国家制度网络、地方学区以及微观个体日常实践的“纵向限定案例（vertically-bounded case）”，在单一案例内部系统比对不同社会位置行动者的知识主张，实现宏观历史结构与微观生活经验的纵向贯通。[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, pp. 95–97)]]
 
 > [!taxonomy] 量化[[Research Synthesis|证据综合]]与[[Meta-analysis|元分析]]中的分析单位层级（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]; Cooper & Koenka, 2012）
 > - **微观层级：个体受试者（Individual Participant / Micro-unit）** 实证实验的最底层数据源，对应于个体受试者数据（Individual Participant Data, IPD）元分析；能最精确地控制协[[Variable|变量]]与被试[[Heterogeneity|异质性]]，但通常在汇总报告中已被聚合。
@@ -240,7 +240,7 @@ updated: 2026-11-20
 > **跨层级推论效度与分析单位对齐** 本命题探讨宏观聚合数据与微观个体数据之间跨层级推导的方法论危险。
 
 > [!claim] Robinson & Bray
-> **跨层级分析单位的推论谬误** 罗宾逊（William S. Robinson, 1950）论证，在宏观聚合单位（如地区、学校）上观察到的相关关系，不能直接等同于微观分析单位（如学生个体）上的因果关联，违背此原则将导致[[Ecological Fallacy|生态谬误]]（Ecological Fallacy）；反之，将个体层面的特征机械外推至组织或国家整体则构成原子谬误（Individualistic Fallacy）。在比较教育研究中，布雷与托马斯（Mark Bray and R. Murray Thomas, 1995）提出的“比较分析立方体”要求研究者必须明确锚定地理/区域、人群/群体与教育层级三维分析单位，严防跨层错位。
+> **跨层级分析单位的推论谬误** 罗宾逊（William S. Robinson, 1950）论证，在宏观聚合单位（如地区、学校）上观察到的相关关系，不能直接等同于微观分析单位（如学生个体）上的因果关联，违背此原则将导致[[Ecological Fallacy|生态谬误]]（Ecological Fallacy）；反之，将个体层面的特征机械外推至组织或国家整体则构成原子谬误（Individualistic Fallacy）。在比较教育研究中，布雷与托马斯（Mark Bray and R. Murray Thomas, 1995）提出的“[[Multilevel Comparative Analysis|比较分析立方体]]”要求研究者必须明确锚定地理/区域、人群/群体与教育层级三维分析单位，严防跨层错位。
 
 ---
 
@@ -356,7 +356,7 @@ updated: 2026-11-20
 > - **1974–1980 — 世界体系整体分析单位确立** [[Immanuel Wallerstein|沃勒斯坦]]（Wallerstein, 1974）与[[Robert Arnove|阿诺夫]]（Arnove, 1980）打破[[Methodological Nationalism|方法论民族主义]]，确立以资本主义世界经济体为宏观比较教育的单一基准分析单位。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101, 104)]]
 > - **1980s — 传播[[Content Analysis|内容分析]]三级体系** 克里彭多夫（Krippendorff, 1980, 2004）系统提出抽样单位、记录单位与语境单位的三层划分，确立内容分析单位化标准。
 > - **1985 — 质性自然主义单位化规程** 林肯与古巴（Lincoln & Guba, 1985）将单位化引入[[Interpretive Paradigm|自然主义探究]]，确立具有独立语义完整性的“意义单位（Meaning units）”。
-> - **1990s — 聚合[[Reliability|信度]]律与多层比较模型** 罗伯特·韦伯（Weber, 1990）总结聚合尺度与信度的反比关系；布雷与托马斯（Bray & Thomas, 1995）构建比较教育多维分析单位立方体框架。
+> - **1990s — 聚合[[Reliability|信度]]律与多层比较模型** 罗伯特·韦伯（Weber, 1990）总结聚合尺度与信度的反比关系；布雷与托马斯（Bray & Thomas, 1995）构建[[Multilevel Comparative Analysis|多层比较分析立方体框架]]。
 > - **2000s–2010s — [[Complexity Theory|复杂性理论]]的生态网络转向** [[Keith Morrison|莫里森]]（Morrison, 2008）与卡普拉（Capra, 1996）推动分析单位从离散原子实体转向围绕奇异吸引子生成的共生生态系统，实现宏微观研究的方法论贯通。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 31)]]
 > - **2002–2009 — 多标度空间治理与微观比较案例转向** 戴尔与罗伯逊等人（2002）提出[[Pluri-Scalar Governance|多标度治理]]矩阵；阿诺夫（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）倡导微观田野[[Rich and Thick Description|深描]]与[[Comparative Case Study|比较案例研究]]（CCS），推动分析单位向宏微观辩证贯通演进。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–111)]]
 > - **2006 — 垂直案例研究与多尺度分析单位确立** [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] 结合非洲实地研究，将比较教育的区位层级从方法论工具提升为认识论范式，确立纵向贯通微观地方与宏观全球的多尺度分析单位范式。
@@ -439,6 +439,7 @@ updated: 2026-11-20
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[The Nation-State as the Unit of Comparison\|民族国家作为比较单位]] | 概念 | 战后比较教育学将主权民族国家视为核心分析单位的历史传统与方法论争鸣。[[Argument_Silova_2009_EE\|(Silova, 2009, pp. 22–25)]] |
+> | [[Decentering the Nation-State\|去民族国家中心化]] | 概念 | 解构民族国家作为唯一封闭分析单元的垄断特权，将其重置为多尺度治理网络中的中介节点。[[Argument_Vavrus_2006_CICE\|(Vavrus & Bartlett, 2006, p. 99)]] |
 > | [[Pluri-Scalar Governance\|多标度治理]] | 概念 | 将分析单位扩展为横跨超国家、国家、次国家与社区的多标度立体空间网络。[[Argument_Arnove_2009_WorldSystems\|(Arnove, 2009, pp. 110–111)]] |
 > | [[Domain Analysis\|领域分析]] | 概念 | 领域分析是建立分析单位之后的关键第二步，旨在将切碎的微观编码单元重新聚合为上位领域范畴。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 440)]] |
 > | [[State Educational Sovereignty\|国家教育权]] | 概念 | 现代民族国家对公共教育主权的垄断，确立了以主权领土为边界的国民学制作为宏观比较教育最持久的经验分析单位容器。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 87, 94)]] |
@@ -452,6 +453,7 @@ updated: 2026-11-20
 > | [[Meta-analysis\|元分析]] | 方法 | 一阶元分析以独立原始实证研究为分析单位，遵循独立抽样与方差反比赋权公理。 |
 > | [[Meta-meta-analysis\|二级元分析]] | 方法 | 宏观伞状综述中必须解决分析单位错位问题，避免将包含重复文献的一级元分析当作独立单位。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 24–25)]] |
 > | [[Vertical Case Study\|垂直案例研究]] | 方法 | 垂直案例研究将分析单位重构为纵向贯通微观地方生活与宏观国家及全球权力的多尺度网络。[[Argument_Vavrus_2006_CICE\|(Vavrus & Bartlett, 2006, pp. 95–97)]] |
+> | [[Multilevel Comparative Analysis\|多层比较分析]] | 方法 | 通过地理区位、非地理人口与教育系统三维立方体构建多层分析单位框架，防范跨层推论谬误。 |
 > | [[Inverse-Variance Weighting\|逆方差加权法]] | 方法 | 逆方差加权依赖分析单位的相互独立性；若分析单位存在重叠，协方差失效将导致估计偏差。 |
 > | 编码 | 方法 | 分析单位构成了质性编码的操作载体；编码是对分析单位赋予概念化标签的过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 560)]] |
 > | [[Content Analysis\|内容分析]] | 方法 | 分析单位的科学划分（抽样、记录、语境单位）是内容分析 11 步标准化操作规程的核心前置环节。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, pp. 564–565)]] |

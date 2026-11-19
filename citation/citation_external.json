@@ -140,6 +140,8 @@
     "Abe, 1987": "Abe, 1987",
     "Abell (2000)": "Abell, 2000",
     "Abell, 2000": "Abell, 2000",
+    "Abels & Bode (2022)": "Abels & Bode, 2022",
+    "Abels & Bode, 2022": "Abels & Bode, 2022",
     "Abelson (1974)": "Abelson, 1974",
     "Abelson, 1974": "Abelson, 1974",
     "Aberbach & Rockman (2002)": "Aberbach & Rockman, 2002",
@@ -1488,14 +1490,21 @@
     "BMBF (2015b)": "BMBF, 2015b",
     "BMBF (2016)": "BMBF, 2016",
     "BMBF (2017)": "BMBF, 2017",
-    "BMBF (2021)": "BMBF, 2021",
+    "BMBF (2021a)": "BMBF, 2021a",
+    "BMBF (2021b)": "BMBF, 2021b",
+    "BMBF (2023)": "BMBF, 2023",
+    "BMBF (2024a)": "BMBF, 2024a",
+    "BMBF (2024b)": "BMBF, 2024b",
     "BMBF, 2007": "BMBF, 2007",
     "BMBF, 2015a": "BMBF, 2015a",
     "BMBF, 2015b": "BMBF, 2015b",
     "BMBF, 2016": "BMBF, 2016",
     "BMBF, 2017": "BMBF, 2017",
-    "BMBF, 2021": "BMBF, 2021",
-    "BMBF, 2021a": "BMBF, 2021",
+    "BMBF, 2021a": "BMBF, 2021b",
+    "BMBF, 2021b": "BMBF, 2021a",
+    "BMBF, 2023": "BMBF, 2023",
+    "BMBF, 2024a": "BMBF, 2024a",
+    "BMBF, 2024b": "BMBF, 2024b",
     "BMUB (2016)": "BMUB, 2016",
     "BMUB, 2016": "BMUB, 2016",
     "BNDES (2012)": "BNDES, 2012",
@@ -4019,6 +4028,7 @@
     "Cahoon et al., 2022": "Cahoon et al., 2022",
     "Cai & Kivistö (2013)": "Cai & Kivistö, 2013",
     "Cai & Kivistö, 2013": "Cai & Kivistö, 2013",
+    "Cai (2023)": "Cai, 2023",
     "Cai et al. (2019)": "Cai et al., 2019",
     "Cai et al. (2022a)": "Cai et al., 2022a",
     "Cai et al. (2022b)": "Cai et al., 2022b",
@@ -4026,6 +4036,7 @@
     "Cai et al., 2022": "Cai et al., 2022b",
     "Cai et al., 2022a": "Cai et al., 2022a",
     "Cai et al., 2022b": "Cai et al., 2022b",
+    "Cai, 2023": "Cai, 2023",
     "Cain (2015a)": "Cain, 2015a",
     "Cain (2015b)": "Cain, 2015b",
     "Cain (2017)": "Cain, 2017",
@@ -4870,6 +4881,8 @@
     "Chin, 2007": "Chin, 2007",
     "Chin-Chung Tsai (2004)": "Chin-Chung Tsai, 2004",
     "Chin-Chung Tsai, 2004": "Chin-Chung Tsai, 2004",
+    "China-Schul-Akademie (2019)": "China-Schul-Akademie, 2019",
+    "China-Schul-Akademie, 2019": "China-Schul-Akademie, 2019",
     "Chinese Culture Connection (1987)": "Chinese Culture Connection, 1987",
     "Chinese Culture Connection, 1987": "Chinese Culture Connection, 1987",
     "Chingos (2012)": "Chingos, 2012",
@@ -5914,6 +5927,10 @@
     "D. Lee & Katrina A. See, 2004": "D. Lee & Katrina A. See, 2004",
     "DAAD (2024)": "DAAD, 2024",
     "DAAD, 2024": "DAAD, 2024",
+    "DAAD/DZHW (2015)": "DAAD/DZHW, 2015",
+    "DAAD/DZHW (2023)": "DAAD/DZHW, 2023",
+    "DAAD/DZHW, 2015": "DAAD/DZHW, 2015",
+    "DAAD/DZHW, 2023": "DAAD/DZHW, 2023",
     "DBR Collective (2003)": "DBR Collective, 2003",
     "DBR Collective, 2003": "DBR Collective, 2003",
     "DET Victoria (2017)": "DET Victoria, 2017",
@@ -6484,6 +6501,14 @@
     "Deunk et al., 2018": "Deunk et al., 2018",
     "Deutsch (1949)": "Deutsch, 1949",
     "Deutsch, 1949": "Deutsch, 1949",
+    "Deutsches Zentrum für Luft- und Raumfahrt (2017)": "Deutsches Zentrum für Luft- und Raumfahrt, 2017",
+    "Deutsches Zentrum für Luft- und Raumfahrt (2018)": "Deutsches Zentrum für Luft- und Raumfahrt, 2018",
+    "Deutsches Zentrum für Luft- und Raumfahrt (2019)": "Deutsches Zentrum für Luft- und Raumfahrt, 2019",
+    "Deutsches Zentrum für Luft- und Raumfahrt, 2017": "Deutsches Zentrum für Luft- und Raumfahrt, 2017",
+    "Deutsches Zentrum für Luft- und Raumfahrt, 2018": "Deutsches Zentrum für Luft- und Raumfahrt, 2018",
+    "Deutsches Zentrum für Luft- und Raumfahrt, 2018a": "Deutsches Zentrum für Luft- und Raumfahrt, 2018",
+    "Deutsches Zentrum für Luft- und Raumfahrt, 2018b": "Deutsches Zentrum für Luft- und Raumfahrt, 2018",
+    "Deutsches Zentrum für Luft- und Raumfahrt, 2019": "Deutsches Zentrum für Luft- und Raumfahrt, 2019",
     "Deutschlandfunk (2017)": "Deutschlandfunk, 2017",
     "Deutschlandfunk, 2017": "Deutschlandfunk, 2017",
     "Deveney (2005)": "Deveney, 2005",
@@ -13672,6 +13697,8 @@
     "Kienitz et al., 2014": "Kienitz et al., 2014",
     "Kierkegaard (1974)": "Kierkegaard, 1974",
     "Kierkegaard, 1974": "Kierkegaard, 1974",
+    "Kierst (2022)": "Kierst, 2022",
+    "Kierst, 2022": "Kierst, 2022",
     "Kiesner (1997)": "Kiesner, 1997",
     "Kiesner, 1997": "Kiesner, 1997",
     "Kijek et al. (2023)": "Kijek et al., 2023",
@@ -13909,10 +13936,12 @@
     "Klafki (1959)": "Klafki, 1959",
     "Klafki (1975)": "Klafki, 1975",
     "Klafki (1998)": "Klafki, 1998",
+    "Klafki (1999)": "Klafki, 1999",
     "Klafki, 1958": "Klafki, 1958",
     "Klafki, 1959": "Klafki, 1959",
     "Klafki, 1975": "Klafki, 1975",
     "Klafki, 1998": "Klafki, 1998",
+    "Klafki, 1999": "Klafki, 1999",
     "Klager (2018)": "Klager, 2018",
     "Klager, 2018": "Klager, 2018",
     "Klahr & Dunbar (1988)": "Klahr & Dunbar, 1988",
@@ -14113,6 +14142,8 @@
     "Kooli, 2023": "Kooli, 2023",
     "Koontz (1961)": "Koontz, 1961",
     "Koontz, 1961": "Koontz, 1961",
+    "Kooperation International (2017)": "Kooperation International, 2017",
+    "Kooperation International, 2017": "Kooperation International, 2017",
     "Koopsman (1991)": "Koopsman, 1991",
     "Koopsman, 1991": "Koopsman, 1991",
     "Kopelman-Rubin (2020)": "Kopelman-Rubin, 2020",
@@ -14456,6 +14487,8 @@
     "Kulik, 1994": "Kulik, 1994",
     "Kulik, 2003": "Kulik, 2003",
     "Kulik, 2004": "Kulik, 2004",
+    "Kultusministerkonferenz et al. (2018)": "Kultusministerkonferenz et al., 2018",
+    "Kultusministerkonferenz et al., 2018": "Kultusministerkonferenz et al., 2018",
     "Kumar (1991)": "Kumar, 1991",
     "Kumar (1998)": "Kumar, 1998",
     "Kumar, 1991": "Kumar, 1991",
@@ -15160,6 +15193,8 @@
     "Leow, 2009": "Leow, 2009",
     "Lepine (2016)": "Lepine, 2016",
     "Lepine, 2016": "Lepine, 2016",
+    "Lepori (2011)": "Lepori, 2011",
+    "Lepori, 2011": "Lepori, 2011",
     "Leppiniemi (2016)": "Leppiniemi, 2016",
     "Leppiniemi, 2016": "Leppiniemi, 2016",
     "Lepsius (2016)": "Lepsius, 2016",
@@ -15225,6 +15260,8 @@
     "Levine & Lentz, 1982": "Levine & Lentz, 1982",
     "Levinson & Sparkes (2005)": "Levinson & Sparkes, 2005",
     "Levinson & Sparkes, 2005": "Levinson & Sparkes, 2005",
+    "Levinson et al. (2020)": "Levinson et al., 2020",
+    "Levinson et al., 2020": "Levinson et al., 2020",
     "Levinthal & March (1993)": "Levinthal & March, 1993",
     "Levinthal & March, 1993": "Levinthal & March, 1993",
     "Levitt & List (2011)": "Levitt & List, 2011",
@@ -16685,7 +16722,9 @@
     "Mason, 2013": "Mason, 2013",
     "Mason, 2016": "Mason, 2016",
     "Mason, 2017": "Mason, 2017",
+    "Masschelein & Ricken (2003)": "Masschelein & Ricken, 2003",
     "Masschelein & Ricken (2010)": "Masschelein & Ricken, 2010",
+    "Masschelein & Ricken, 2003": "Masschelein & Ricken, 2003",
     "Masschelein & Ricken, 2010": "Masschelein & Ricken, 2010",
     "Masschelein & Simons (2010)": "Masschelein & Simons, 2010",
     "Masschelein & Simons, 2010": "Masschelein & Simons, 2010",
@@ -18212,11 +18251,13 @@
     "Müller (2011)": "Müller, 2011",
     "Müller (2016)": "Müller, 2016",
     "Müller (2021)": "Müller, 2021",
+    "Müller (2023)": "Müller, 2023",
     "Müller et al. (2019)": "Müller et al., 2019",
     "Müller et al., 2019": "Müller et al., 2019",
     "Müller, 2011": "Müller, 2011",
     "Müller, 2016": "Müller, 2016",
     "Müller, 2021": "Müller, 2021",
+    "Müller, 2023": "Müller, 2023",
     "Münch (2013)": "Münch, 2013",
     "Münch (2016)": "Münch, 2016",
     "Münch, 2013": "Münch, 2013",
@@ -19524,6 +19565,8 @@
     "Papathanasiou et al., 2014": "Papathanasiou et al., 2014",
     "Papatsiba (2005)": "Papatsiba, 2005",
     "Papatsiba, 2005": "Papatsiba, 2005",
+    "Papenbrock & Schmid (2023)": "Papenbrock & Schmid, 2023",
+    "Papenbrock & Schmid, 2023": "Papenbrock & Schmid, 2023",
     "Papic (2011)": "Papic, 2011",
     "Papic, 2011": "Papic, 2011",
     "Pappas (1979)": "Pappas, 1979",
@@ -21323,6 +21366,8 @@
     "Rizvi & Lingard, 2010": "Rizvi & Lingard, 2010",
     "Rizvi (2004)": "Rizvi, 2004",
     "Rizvi, 2004": "Rizvi, 2004",
+    "Robak (2021)": "Robak, 2021",
+    "Robak, 2021": "Robak, 2021",
     "Robbins & Kegley (2010)": "Robbins & Kegley, 2010",
     "Robbins & Kegley, 2010": "Robbins & Kegley, 2010",
     "Robbins et al. (2004)": "Robbins et al., 2004",
@@ -21891,6 +21936,8 @@
     "Ruddock, 1981": "Ruddock, 1981",
     "Rudestam & Newton (2014)": "Rudestam & Newton, 2014",
     "Rudestam & Newton, 2014": "Rudestam & Newton, 2014",
+    "Rudyak (2021)": "Rudyak, 2021",
+    "Rudyak, 2021": "Rudyak, 2021",
     "Rueda (2012)": "Rueda, 2012",
     "Rueda, 2012": "Rueda, 2012",
     "Ruff et al. (2019)": "Ruff et al., 2019",
@@ -24341,6 +24388,8 @@
     "Stenhouse, 1979": "Stenhouse, 1979",
     "Stentoft (2017)": "Stentoft, 2017",
     "Stentoft, 2017": "Stentoft, 2017",
+    "Stepan & Frenzel (2021)": "Stepan & Frenzel, 2021",
+    "Stepan & Frenzel, 2021": "Stepan & Frenzel, 2021",
     "Stephan (1986)": "Stephan, 1986",
     "Stephan (2012)": "Stephan, 2012",
     "Stephan (2015)": "Stephan, 2015",
@@ -25207,6 +25256,8 @@
     "Theda Skocpol, 1992": "Theda Skocpol, 1992",
     "Thelen (2003)": "Thelen, 2003",
     "Thelen (2004)": "Thelen, 2004",
+    "Thelen et al. (2022)": "Thelen et al., 2022",
+    "Thelen et al., 2022": "Thelen et al., 2022",
     "Thelen, 2003": "Thelen, 2003",
     "Thelen, 2004": "Thelen, 2004",
     "Theobald (2021)": "Theobald, 2021",
@@ -26050,6 +26101,8 @@
     "University of Melbourne & Ai-Media, 2013": "University of Melbourne & Ai-Media, 2013",
     "University of Southern California (2019)": "University of Southern California, 2019",
     "University of Southern California, 2019": "University of Southern California, 2019",
+    "Universität Jena (2024)": "Universität Jena, 2024",
+    "Universität Jena, 2024": "Universität Jena, 2024",
     "Unrau (1991)": "Unrau, 1991",
     "Unrau et al. (2018)": "Unrau et al., 2018",
     "Unrau et al., 2018": "Unrau et al., 2018",
@@ -27293,8 +27346,10 @@
     "Williams (2009)": "Williams, 2009",
     "Williams (2016)": "Williams, 2016",
     "Williams et al. (1982)": "Williams et al., 1982",
+    "Williams et al. (2009)": "Williams et al., 2009",
     "Williams et al. (2022)": "Williams et al., 2022",
     "Williams et al., 1982": "Williams et al., 1982",
+    "Williams et al., 2009": "Williams et al., 2009",
     "Williams et al., 2022": "Williams et al., 2022",
     "Williams, 1973": "Williams, 1973",
     "Williams, 1988": "Williams, 1988",
@@ -28334,7 +28389,9 @@
     "Zimbardo, 2007": "Zimbardo, 2007",
     "Zimbardo, 2007a": "Zimbardo, 2007",
     "Zimmer (2010)": "Zimmer, 2010",
+    "Zimmer (2021)": "Zimmer, 2021",
     "Zimmer, 2010": "Zimmer, 2010",
+    "Zimmer, 2021": "Zimmer, 2021",
     "Zimmerman (2002)": "Zimmerman, 2002",
     "Zimmerman, 2002": "Zimmerman, 2002",
     "Zinn (2015)": "Zinn, 2015",
@@ -30299,6 +30356,19 @@
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md"
       ],
       "title": "Sociological Theory and Rational Choice Theory"
+    },
+    "Abels & Bode, 2022": {
+      "aliases": [
+        "Abels & Bode, 2022",
+        "Abels & Bode (2022)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Abels & Bode, 2022"
+      ],
+      "isbn": "978-3-8376-6268-9",
+      "seen_in": [],
+      "title": "Aktuelle Herausforderungen für deutsch-chinesische Hochschulkooperationen"
     },
     "Abelson, 1974": {
       "aliases": [
@@ -33679,7 +33749,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
-      "title": ""
+      "title": "Ampel stärkt Rolle des Mercator-Institut als deutsches China-Kompetenzzentrum"
     },
     "Alison Andrew, 1985": {
       "aliases": [
@@ -39428,7 +39498,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
-      "title": ""
+      "title": "China-Strategie der Bundesregierung"
     },
     "Autonomous Region Department of Education, 2023": {
       "aliases": [
@@ -39979,7 +40049,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
-      "title": ""
+      "title": "Exportkontrolle und Wissenschaft: Handbuch für die Praxis"
     },
     "BBC, 2025": {
       "aliases": [
@@ -40118,7 +40188,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
-      "title": ""
+      "title": "China-Strategie des BMBF 2015–2020: Strategischer Rahmen für die Zusammenarbeit mit China in Forschung, Wissenschaft und Bildung"
     },
     "BMBF, 2015b": {
       "aliases": [
@@ -40133,7 +40203,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
-      "title": ""
+      "title": "Partner China: Zwischen Konkurrenz und Kooperation"
     },
     "BMBF, 2016": {
       "aliases": [
@@ -40148,7 +40218,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
-      "title": ""
+      "title": "Richtlinie zur Förderung von \"Innovativen Konzepten zum Ausbau der China-Kompetenz an deutschen Hochschulen\""
     },
     "BMBF, 2017": {
       "aliases": [
@@ -40165,10 +40235,23 @@
       ],
       "title": ""
     },
-    "BMBF, 2021": {
+    "BMBF, 2021a": {
       "aliases": [
-        "BMBF, 2021",
-        "BMBF (2021)"
+        "BMBF, 2021a",
+        "BMBF (2021a)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "BMBF, 2021b"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Karliczek: Wir brauchen mehr unabhängige China-Expertise in Deutschland"
+    },
+    "BMBF, 2021b": {
+      "aliases": [
+        "BMBF, 2021b",
+        "BMBF (2021b)"
       ],
       "doi": "",
       "identity_keys": [
@@ -40178,7 +40261,46 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
-      "title": ""
+      "title": "Richtlinie zur Förderung des regionalen Ausbaus der China-Kompetenz in der Wissenschaft (Regio-China)"
+    },
+    "BMBF, 2023": {
+      "aliases": [
+        "BMBF, 2023",
+        "BMBF (2023)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "BMBF, 2023"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "China – Partner, systemischer Rivale und Wettbewerber"
+    },
+    "BMBF, 2024a": {
+      "aliases": [
+        "BMBF, 2024a",
+        "BMBF (2024a)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "BMBF, 2024a"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Richtlinie \"Moderne Chinaforschung II\" zur Förderung von Forschung zu aktuellen politischen, wissenschaftlichen sowie gesellschaftlichen Entwicklungen in der Volksrepublik China"
+    },
+    "BMBF, 2024b": {
+      "aliases": [
+        "BMBF, 2024b",
+        "BMBF (2024b)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "BMBF, 2024b"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Richtlinie zur Förderung von Projekten zur Erforschung von Vermittlung und Erwerb von Chinesisch als Fremdsprache als Beitrag zum Auf- und Ausbau von unabhängiger China-Kompetenz"
     },
     "BMUB, 2016": {
       "aliases": [
@@ -53902,7 +54024,8 @@
         "wiki/concepts/comparative-education/The Nation-State as the Unit of Comparison.md",
         "wiki/concepts/higher-education/Scale in Higher Education.md",
         "wiki/concepts/research-methodology/Unit of Analysis.md",
-        "wiki/methods/qualitative/Vertical Case Study.md"
+        "wiki/methods/qualitative/Multilevel Comparative Analysis.md",
+        "wiki/persons/uk/Mark Bray.md"
       ],
       "title": "Levels of comparison in educational studies: Different insights from different literatures and the value of multilevel analyses"
     },
@@ -55870,7 +55993,7 @@
         "Brugha & Varvasovszky, 2000",
         "Brugha & Varvasovszky (2000)"
       ],
-      "doi": "",
+      "doi": "10.1093/heapol/15.3.239",
       "identity_keys": [
         "Brugha & Varvasovszky, 2000"
       ],
@@ -55878,7 +56001,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
-      "title": ""
+      "title": "Stakeholder Analysis: A review"
     },
     "Bruhns, 2017": {
       "aliases": [
@@ -56822,7 +56945,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
-      "title": ""
+      "title": "Antwort auf die Kleine Anfrage der Fraktion der CDU/CSU: Stand des Ausbaus der China-Kompetenz in Deutschland (Drucksache 20/11181)"
     },
     "Bunge, 1985": {
       "aliases": [
@@ -58930,6 +59053,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Effects of Scaffolding in Digital Game-Based Learning on Student's Achievement: a Three-Level Meta-analysis."
+    },
+    "Cai, 2023": {
+      "aliases": [
+        "Cai, 2023",
+        "Cai (2023)"
+      ],
+      "doi": "10.36197/IHE.2023.116.03",
+      "identity_keys": [
+        "Cai, 2023"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
+      ],
+      "title": "Decoding Discord: Paradoxes, Misperceptions and Risks in EU-China Higher Education Cooperation"
     },
     "Cain et al., 2016": {
       "aliases": [
@@ -65039,6 +65177,19 @@
         "wiki/theories/educational-psychology/Symbiotic Framework of Adaptive Epistemic Stances.md"
       ],
       "title": ""
+    },
+    "China-Schul-Akademie, 2019": {
+      "aliases": [
+        "China-Schul-Akademie, 2019",
+        "China-Schul-Akademie (2019)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "China-Schul-Akademie, 2019"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "China Perspektiven: Mehr vom Anderen wissen: (Lehr- und Lern-) Dialoge mit China"
     },
     "Chinese Culture Connection, 1987": {
       "aliases": [
@@ -72636,7 +72787,33 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
-      "title": ""
+      "title": "Die akademische Zusammenarbeit mit China realistisch gestalten: Handlungsempfehlungen des DAAD für deutsche Hochschulen"
+    },
+    "DAAD/DZHW, 2015": {
+      "aliases": [
+        "DAAD/DZHW, 2015",
+        "DAAD/DZHW (2015)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "DAAD/DZHW, 2015"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Wissenschaft weltoffen 2015: Daten und Fakten zur Internationalität von Studium und Forschung in Deutschland"
+    },
+    "DAAD/DZHW, 2023": {
+      "aliases": [
+        "DAAD/DZHW, 2023",
+        "DAAD/DZHW (2023)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "DAAD/DZHW, 2023"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Wissenschaft weltoffen 2023: Daten und Fakten zur Internationalität von Studium und Forschung in Deutschland und weltweit"
     },
     "DBR Collective, 2003": {
       "aliases": [
@@ -76866,6 +77043,46 @@
         "wiki/theories/instruction-pedagogy/Social Interdependence Theory.md"
       ],
       "title": ""
+    },
+    "Deutsches Zentrum für Luft- und Raumfahrt, 2017": {
+      "aliases": [
+        "Deutsches Zentrum für Luft- und Raumfahrt, 2017",
+        "Deutsches Zentrum für Luft- und Raumfahrt (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Deutsches Zentrum für Luft- und Raumfahrt, 2017"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Deutsch-Chinesische Plattform Innovation Policy Briefs 2017 der deutschen Expertengruppe"
+    },
+    "Deutsches Zentrum für Luft- und Raumfahrt, 2018": {
+      "aliases": [
+        "Deutsches Zentrum für Luft- und Raumfahrt, 2018",
+        "Deutsches Zentrum für Luft- und Raumfahrt (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Deutsches Zentrum für Luft- und Raumfahrt, 2018a",
+        "Deutsches Zentrum für Luft- und Raumfahrt, 2018b"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Deutsch-Chinesische Plattform Innovation Policy Briefs 2018 der deutschen Expertengruppe"
+    },
+    "Deutsches Zentrum für Luft- und Raumfahrt, 2019": {
+      "aliases": [
+        "Deutsches Zentrum für Luft- und Raumfahrt, 2019",
+        "Deutsches Zentrum für Luft- und Raumfahrt (2019)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Deutsches Zentrum für Luft- und Raumfahrt, 2019"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Deutsch-Chinesische Plattform Innovation Policy Briefs 2019 der deutschen Expertengruppe"
     },
     "Deutschlandfunk, 2017": {
       "aliases": [
@@ -86656,7 +86873,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
-      "title": ""
+      "title": "EU-China – A strategic outlook"
     },
     "European Commission, 2021": {
       "aliases": [
@@ -90399,7 +90616,7 @@
         "Fischer, 2003",
         "Fischer (2003)"
       ],
-      "doi": "",
+      "doi": "10.1093/019924222X.001.0001",
       "identity_keys": [
         "Fischer, 2003"
       ],
@@ -90408,7 +90625,7 @@
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md",
         "wiki/persons/us/Deborah Stone.md"
       ],
-      "title": ""
+      "title": "Reframing Public Policy: Discursive Politics and Deliberative Practices"
     },
     "Fish, 1980": {
       "aliases": [
@@ -93656,7 +93873,7 @@
         "Frenzel & Godehardt, 2020",
         "Frenzel & Godehardt (2020)"
       ],
-      "doi": "",
+      "doi": "10.18449/2020A61",
       "identity_keys": [
         "Frenzel & Godehardt, 2020"
       ],
@@ -93664,7 +93881,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
-      "title": ""
+      "title": "Mehr China-Kompetenz wagen! Zur Notwendigkeit einer bundesweiten Strategie"
     },
     "Freud, 1930": {
       "aliases": [
@@ -129454,6 +129671,19 @@
       ],
       "title": ""
     },
+    "Kierst, 2022": {
+      "aliases": [
+        "Kierst, 2022",
+        "Kierst (2022)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Kierst, 2022"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Was ist \"China-Kompetenz\"? Interview mit Prof. Dr. Andreas Guder"
+    },
     "Kiesner, 1997": {
       "aliases": [
         "Kiesner, 1997",
@@ -131137,6 +131367,21 @@
       ],
       "title": ""
     },
+    "Klafki, 1999": {
+      "aliases": [
+        "Klafki, 1999",
+        "Klafki (1999)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Klafki, 1999"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/germany/Wolfgang Klafki.md"
+      ],
+      "title": ""
+    },
     "Klager, 2018": {
       "aliases": [
         "Klager, 2018",
@@ -132620,6 +132865,19 @@
       "isbn": "",
       "seen_in": [],
       "title": "A Study of Achievement as a Function of Homogeneous Grouping"
+    },
+    "Kooperation International, 2017": {
+      "aliases": [
+        "Kooperation International, 2017",
+        "Kooperation International (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Kooperation International, 2017"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "BMBF-geförderte Deutsch-Chinesische Alumnifachnetzwerke (DCHAN) gestartet"
     },
     "Koopsman, 1991": {
       "aliases": [
@@ -134952,6 +135210,19 @@
       "isbn": "",
       "seen_in": [],
       "title": "Meta-Analytic Studies of Acceleration"
+    },
+    "Kultusministerkonferenz et al., 2018": {
+      "aliases": [
+        "Kultusministerkonferenz et al., 2018",
+        "Kultusministerkonferenz et al. (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Kultusministerkonferenz et al., 2018"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Bund und Länder wollen China-Kompetenz fördern"
     },
     "Kumar, 1991": {
       "aliases": [
@@ -140087,6 +140358,21 @@
       "seen_in": [],
       "title": "Teacher incentives and student performance  Evidence from Brazil"
     },
+    "Lepori, 2011": {
+      "aliases": [
+        "Lepori, 2011",
+        "Lepori (2011)"
+      ],
+      "doi": "10.1016/j.respol.2010.12.004",
+      "identity_keys": [
+        "Lepori, 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
+      ],
+      "title": "Coordination Modes in Public Funding Systems"
+    },
     "Leppiniemi, 2016": {
       "aliases": [
         "Leppiniemi, 2016",
@@ -140557,6 +140843,19 @@
         "wiki/concepts/comparative-education/Traveller Education.md"
       ],
       "title": ""
+    },
+    "Levinson et al., 2020": {
+      "aliases": [
+        "Levinson et al., 2020",
+        "Levinson et al. (2020)"
+      ],
+      "doi": "10.1007/978-981-13-8347-2_16",
+      "identity_keys": [
+        "Levinson et al., 2020"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "An Anthropological Approach to Education Policy as a Practice of Power: Concepts and Methods"
     },
     "Levinthal & March, 1993": {
       "aliases": [
@@ -151090,6 +151389,21 @@
       "seen_in": [],
       "title": "Efficacy of Self-Regulated Strategy Development Instruction for Developing Writers with and without Disabilities in Rural Schools  A Randomized Controlled Trial."
     },
+    "Masschelein & Ricken, 2003": {
+      "aliases": [
+        "Masschelein & Ricken, 2003",
+        "Masschelein & Ricken (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Masschelein & Ricken, 2003"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/germany/Wolfgang Klafki.md"
+      ],
+      "title": ""
+    },
     "Masschelein & Ricken, 2010": {
       "aliases": [
         "Masschelein & Ricken, 2010",
@@ -152070,7 +152384,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
-      "title": ""
+      "title": "Union fordert Ausbau deutscher China-Kompetenz: Risiken erkennen"
     },
     "Mayfield, 1987": {
       "aliases": [
@@ -152257,7 +152571,7 @@
         "Mayring, 2015",
         "Mayring (2015)"
       ],
-      "doi": "",
+      "doi": "10.1007/978-3-658-10008-7_19",
       "identity_keys": [
         "Mayring, 2015"
       ],
@@ -152265,7 +152579,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
-      "title": ""
+      "title": "Qualitative Content Analysis: Theoretical Background and Procedures"
     },
     "Mazeh, 2020": {
       "aliases": [
@@ -162221,6 +162535,19 @@
       "seen_in": [],
       "title": "Short breaks at school  effects of a physical activity and a mindfulness intervention on children's attention, reading comprehension, and self-esteem."
     },
+    "Müller, 2023": {
+      "aliases": [
+        "Müller, 2023",
+        "Müller (2023)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Müller, 2023"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Mehr China-Kompetenz. Trotz Differenzen: Austausch mit China pflegen"
+    },
     "Münch, 2013": {
       "aliases": [
         "Münch, 2013",
@@ -171854,6 +172181,19 @@
         "wiki/facts/eu/Erasmus Programme.md"
       ],
       "title": ""
+    },
+    "Papenbrock & Schmid, 2023": {
+      "aliases": [
+        "Papenbrock & Schmid, 2023",
+        "Papenbrock & Schmid (2023)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Papenbrock & Schmid, 2023"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Deutschland stärkt seine China-Kompetenz: SPD-Fraktion im Bundestag"
     },
     "Papic, 2011": {
       "aliases": [
@@ -182584,7 +182924,7 @@
         "Reckwitz, 2002",
         "Reckwitz (2002)"
       ],
-      "doi": "",
+      "doi": "10.1177/13684310222225432",
       "identity_keys": [
         "Reckwitz, 2002"
       ],
@@ -182592,7 +182932,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
-      "title": ""
+      "title": "Toward a Theory of Social Practices: A Development in Culturalist Theorizing"
     },
     "Redding & Nguyen, 2020": {
       "aliases": [
@@ -185087,6 +185427,19 @@
         "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md"
       ],
       "title": ""
+    },
+    "Robak, 2021": {
+      "aliases": [
+        "Robak, 2021",
+        "Robak (2021)"
+      ],
+      "doi": "10.1007/978-3-658-32982-2_9",
+      "identity_keys": [
+        "Robak, 2021"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Transkulturelle China-Kompetenz"
     },
     "Robbins & Kegley, 2010": {
       "aliases": [
@@ -189264,6 +189617,19 @@
         "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md"
       ],
       "title": ""
+    },
+    "Rudyak, 2021": {
+      "aliases": [
+        "Rudyak, 2021",
+        "Rudyak (2021)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Rudyak, 2021"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Keine Orchidee: Über Chinakompetenz und Sinologie"
     },
     "Rueda, 2012": {
       "aliases": [
@@ -193736,11 +194102,11 @@
       "identity_keys": [
         "Schatzki, 2001"
       ],
-      "isbn": "",
+      "isbn": "978-0-415-24214-1",
       "seen_in": [
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
-      "title": ""
+      "title": "Introduction: Practice theory"
     },
     "Schau et al., 2001": {
       "aliases": [
@@ -207115,6 +207481,19 @@
       ],
       "title": ""
     },
+    "Stepan & Frenzel, 2021": {
+      "aliases": [
+        "Stepan & Frenzel, 2021",
+        "Stepan & Frenzel (2021)"
+      ],
+      "doi": "10.1007/978-3-658-32982-2_8",
+      "identity_keys": [
+        "Stepan & Frenzel, 2021"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Wege zu mehr China-Kompetenz"
+    },
     "Stephan Lewandowsky et al., 2017": {
       "aliases": [
         "Stephan Lewandowsky et al., 2017",
@@ -213318,6 +213697,19 @@
       ],
       "title": ""
     },
+    "Thelen et al., 2022": {
+      "aliases": [
+        "Thelen et al., 2022",
+        "Thelen et al. (2022)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Thelen et al., 2022"
+      ],
+      "isbn": "978-3-8376-6268-9",
+      "seen_in": [],
+      "title": "Handbuch China-Kompetenz: Best-Practice-Beispiele aus deutschen Hochschulen"
+    },
     "Thelen, 2003": {
       "aliases": [
         "Thelen, 2003",
@@ -219439,6 +219831,19 @@
         "wiki/arguments/journal-articles/Chinese Studies Journal/Argument_Velasco_2022_CSJ.md"
       ],
       "title": ""
+    },
+    "Universität Jena, 2024": {
+      "aliases": [
+        "Universität Jena, 2024",
+        "Universität Jena (2024)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Universität Jena, 2024"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "ChinaKooP: China-Kompetenz-Plattform für Hochschulen und Forschungseinrichtungen in Thüringen"
     },
     "Unrau et al., 2018": {
       "aliases": [
@@ -228309,6 +228714,21 @@
       "seen_in": [],
       "title": "The impact of leisure-time television on school learning: A research synthesis"
     },
+    "Williams et al., 2009": {
+      "aliases": [
+        "Williams et al., 2009",
+        "Williams et al. (2009)"
+      ],
+      "doi": "10.1186/1475-2875-8-85",
+      "identity_keys": [
+        "Williams et al., 2009"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
+      ],
+      "title": "A Retrospective Analysis of the Change in Anti-Malarial Treatment Policy: Peru"
+    },
     "Williams et al., 2022": {
       "aliases": [
         "Williams et al., 2022",
@@ -232281,12 +232701,12 @@
       "identity_keys": [
         "Yanow, 2000"
       ],
-      "isbn": "",
+      "isbn": "978-0-7619-0925-5",
       "seen_in": [
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md",
         "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md"
       ],
-      "title": ""
+      "title": "Conducting Interpretive Policy Analysis"
     },
     "Yanow, 2009": {
       "aliases": [
@@ -235727,6 +236147,19 @@
       "isbn": "",
       "seen_in": [],
       "title": "After-school tutoring in the context of no child left behind  Effectiveness of two programs in the Pittsburgh public schools"
+    },
+    "Zimmer, 2021": {
+      "aliases": [
+        "Zimmer, 2021",
+        "Zimmer (2021)"
+      ],
+      "doi": "10.1007/978-3-658-32982-2_10",
+      "identity_keys": [
+        "Zimmer, 2021"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "China-Kompetenz und die Grenzen eines kleinen Faches"
     },
     "Zimmerman, 2002": {
       "aliases": [

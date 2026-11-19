@@ -12,6 +12,11 @@ aliases:
 summary: "由马克·布雷与默里·托马斯于1995年提出的比较教育经典分析框架，通过地理与区位尺度、非地理人口特征及社会与教育维度构建三维分析立方体，系统化跨层级比较并打破单一国家中心主义。"
 type: method
 method_type: qualitative
+method_family: "qualitative"
+method_related_count: 0
+method_related_level: 0
+method_related_stars: "☆"
+method_related_color: "#dbeafe"
 cssclasses:
   - method-manual
 tags:
@@ -117,4 +122,4 @@ updated: 2026-11-20
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Vavrus_2006_CICE|Vavrus & Bartlett (2006)]] — 系统评析布雷-托马斯多层分析模型的三维架构与学术贡献，并在此基础上发展出兼具认识论深度的垂直个案研究设计。
+> - [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] — 系统评析布雷-托马斯多层分析模型的三维架构与学术贡献，并在此基础上发展出兼具认识论深度的垂直个案研究设计。

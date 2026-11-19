@@ -545,6 +545,16 @@
     ]
   },
   {
+    "title": "Area Studies",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Area Studies.md",
+    "aliases": [
+      "区域研究",
+      "地区研究",
+      "国别与区域研究"
+    ]
+  },
+  {
     "title": "Assemblage",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Assemblage.md",
@@ -835,6 +845,17 @@
     ]
   },
   {
+    "title": "Decentering the Nation-State",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Decentering the Nation-State.md",
+    "aliases": [
+      "去民族国家中心化",
+      "去国家中心化",
+      "民族国家去中心化",
+      "Decentering the State"
+    ]
+  },
+  {
     "title": "Deductive Rationality",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Deductive Rationality.md",
@@ -865,6 +886,19 @@
       "国际发展教育",
       "Education in Developing Countries",
       "International Development Education"
+    ]
+  },
+  {
+    "title": "Development Expert",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Development Expert.md",
+    "aliases": [
+      "发展专家",
+      "发展援助专家",
+      "国际发展专家",
+      "发展专家构念批判",
+      "Development Expertise",
+      "Development Consultant"
     ]
   },
   {
@@ -27970,6 +28004,21 @@
     ]
   },
   {
+    "title": "Multilevel Comparative Analysis",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Multilevel Comparative Analysis.md",
+    "aliases": [
+      "多层比较分析",
+      "多层次比较分析",
+      "布雷-托马斯分析框架",
+      "布雷-托马斯立方体",
+      "布雷与托马斯多层分析模型",
+      "Bray and Thomas Multilevel Framework",
+      "Bray-Thomas Cube",
+      "Multilevel Analysis in Comparative Education"
+    ]
+  },
+  {
     "title": "Multimodal Discourse Analysis",
     "type": "method",
     "path": "wiki/methods/qualitative/Multimodal Discourse Analysis.md",
@@ -36105,6 +36154,16 @@
     "aliases": [
       "Pampaka, M.",
       "玛丽亚·潘帕卡"
+    ]
+  },
+  {
+    "title": "Mark Bray",
+    "type": "person",
+    "path": "wiki/persons/uk/Mark Bray.md",
+    "aliases": [
+      "马克·布雷",
+      "布雷",
+      "Bray, M."
     ]
   },
   {
@@ -49797,7 +49856,9 @@
     "type": "fact",
     "path": "wiki/facts/uk/Grammar School.md",
     "aliases": [
-      "文法学校"
+      "文法学校",
+      "英国文法学校",
+      "English Grammar Schools"
     ],
     "subtype": "policy"
   },
@@ -50913,6 +50974,18 @@
       "芝加哥大学比较教育中心",
       "Comparative Education Center",
       "Chicago Comparative Education Center"
+    ],
+    "subtype": "event"
+  },
+  {
+    "title": "Comparatively Speaking",
+    "type": "fact",
+    "path": "wiki/facts/us/Comparatively Speaking.md",
+    "aliases": [
+      "相对而言",
+      "比较而言",
+      "比较而言纪录片",
+      "Comparatively Speaking: The First 50 Years of the Comparative and International Education Society"
     ],
     "subtype": "event"
   },
