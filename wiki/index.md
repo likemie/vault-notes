@@ -6221,7 +6221,7 @@ Total entries: **5356**
 > - [[Argument_Snook_2010_NZJES]] — 对 Hattie (2010) 回应的再回应：逐点论证 Hattie 未充分解决 2009 年提出的方法论关切，提出元分析从医学移植到教育的基础性不匹配问题
 
 > [!index-list]- Nordic Journal of Comparative and International Education (1)
-> - [[Argument_Indrarajah_2026_NJCIE]] — 运用批判性政策分析透视东南亚高等教育中欧美与东亚新殖民力量的渗透机制，主张超越传统消极自保的东盟方式，依托和乐福祉（Sejahtera）、巴布亚社会生态学与同胞认同（Kapwa）三大原住民哲学重构去殖民区域主义，推进资源均等化再分配与本土人才内生循环
+> - [[Argument_Indrarajah_2026_NJCIE]] — 运用批判性政策分析透视东南亚高等教育中欧美软实力输出与东亚地缘吸附的双重新殖民机制，解构传统东盟方式消极自保所致的向内割裂与依附困境；系统整合和乐福祉（Sejahtera）、巴布亚社会生态学与同胞认同（Kapwa）三大本土哲学重构去殖民区域主义，提出打破 AUN 精英壁垒对口帮扶、消除 AIMS 成员国排斥以及建立内生人才循环等政策重塑路径
 
 > [!index-list]- Nordic Journal of Studies in Educational Policy (2)
 > - [[Argument_Knudsen_2017_NordSTEP]] — 围绕 Visible Learning 的跨国特许专营与丹麦本土争议，借助科学技术研究视角审视 John Hattie 的深度论述，剖析其依托商业授权与逐字脚本强制推行教学标准化的机制，揭示其以统计测量者自居规避理论审查、实质推行强固教学模型并获取全球实践数据的多重角色张力。

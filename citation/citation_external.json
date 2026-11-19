@@ -469,6 +469,8 @@
     "Alchin (2003b)": "Alchin, 2003b",
     "Alchin, 2003a": "Alchin, 2003a",
     "Alchin, 2003b": "Alchin, 2003b",
+    "Alcoff (2007)": "Alcoff, 2007",
+    "Alcoff, 2007": "Alcoff, 2007",
     "Alderman (2008)": "Alderman, 2008",
     "Alderman, 2008": "Alderman, 2008",
     "Aldrich & Herker (1977)": "Aldrich & Herker, 1977",
@@ -25865,6 +25867,8 @@
     "Vevea & Hedges, 1995": "Vevea & Hedges, 1995",
     "Veysey (1965)": "Veysey, 1965",
     "Veysey, 1965": "Veysey, 1965",
+    "Vickers & Epstein (2024)": "Vickers & Epstein, 2024",
+    "Vickers & Epstein, 2024": "Vickers & Epstein, 2024",
     "Vickers & Morris (2007)": "Vickers & Morris, 2007",
     "Vickers & Morris (2022)": "Vickers & Morris, 2022",
     "Vickers & Morris, 2007": "Vickers & Morris, 2007",
@@ -32064,6 +32068,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Science & Education/Argument_Zemplen_2007_SciEduc.md"
+      ],
+      "title": ""
+    },
+    "Alcoff, 2007": {
+      "aliases": [
+        "Alcoff, 2007",
+        "Alcoff (2007)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Alcoff, 2007"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
       ],
       "title": ""
     },
@@ -217223,6 +217242,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/us/Morrill Land-Grant Act of 1862.md"
+      ],
+      "title": ""
+    },
+    "Vickers & Epstein, 2024": {
+      "aliases": [
+        "Vickers & Epstein, 2024",
+        "Vickers & Epstein (2024)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Vickers & Epstein, 2024"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
       ],
       "title": ""
     },
