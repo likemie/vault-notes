@@ -47,6 +47,8 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Competitiveness]]"
   - "[[Embedded Autonomy]]"
+  - "[[South-South Cooperation]]"
+  - "[[Educational Assistance Modalities]]"
 related_theories:
   - "[[World-Systems Theory]]"
 related_methods:
@@ -82,6 +84,7 @@ related_arguments:
   - "[[Argument_Bulfone_2024_IAI]]"
   - "[[Argument_NIST_2023_NSTC]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
+  - "[[Argument_Nordtveit_2011_IJED]]"
 confidence: high
 status: active
 created: 2026-10-06

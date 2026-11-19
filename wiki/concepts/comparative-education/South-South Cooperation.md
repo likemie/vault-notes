@@ -8,7 +8,7 @@ aliases:
 summary: "发展中国家之间基于平等互利、不附加政治条件与共同发展原则开展的跨国合作范式，在教育领域强调能力建设、双向人文交流与发展经验互鉴，构成对传统南北援助供求二元结构的制度替代。"
 type: concept
 domain: "comparative-education"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -69,7 +69,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -176,7 +176,7 @@ updated: 2026-11-11
 ---
 
 > [!dev-timeline] 概念演变
-> - **1955 — 万隆会议与南南团结奠基** 万隆会议确立不结盟与南南团结原则，亚非国家首度提出摆脱殖民文化依附、开展自主文化教育合作的政治诉求。
+> - **1955 — 万隆会议与南南团结倡议** 万隆会议确立不结盟与南南团结原则，亚非国家首度提出摆脱殖民文化依附、开展自主文化教育合作的政治诉求。
 > - **1978 — 布宜诺斯艾利斯行动计划（BAPA）** 联合国通过《布宜诺斯艾利斯发展中国家间技术合作行动计划》，为南南技术与人力资源开发合作确立全球多边框架。
 > - **2000 — [[Forum on China-Africa Cooperation|中非合作论坛]]机制化建制** [[Forum on China-Africa Cooperation|中非合作论坛]]（FOCAC）正式成立，系统将留学生奖学金、官员研修与技术培训制度化，奠定新世纪中非南南教育合作格局。[[Argument_King_2020_ECNUROE|(King, 2020, p. 222)]]
 > - **2015–2018 — 实体化机构与旗舰项目落地** 中非合作论坛约翰内斯堡峰会与北京峰会相继推出庞大的人力资源开发指标，[[Institute of South-South Cooperation and Development|南南合作与发展学院]]以及非洲[[Luban Workshop|鲁班工坊]]相继落地运营。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 224–227)]]
@@ -187,7 +187,7 @@ updated: 2026-11-11
 
 ---
 
-> [!debates] 学术争议
+> [!debates|notitle] 学术争议
 >
 > > [!axis] 互利平等修辞与地缘经济工具属性的辩证分歧
 > > 围绕南南教育合作究竟是新型利他主义的区域公共产品，还是服务于新兴大国战略布局与产能出海的地缘工具展开的争辩。
@@ -202,7 +202,7 @@ updated: 2026-11-11
 > > - **批评观点（Taylor, 2011）** 认为论坛机制的根本特征在于象征意义与宣传修辞（symbolism and spin），旨在对非洲、全球及国内公众多层次塑造友好形象。[[Argument_King_2020_ECNUROE|(Taylor, 2011, 引自 King, 2020, p. 223)]]
 > > - **实证反驳观点（[[Argument_King_2020_ECNUROE|King, 2020]]）** 指出[[Forum on China-Africa Cooperation|中非合作论坛]]设立了中方后续行动委员会、高官磋商及非洲驻华使节团联动机制，并与具体国别开展务实双边磋商，具有严密的落地评估机制，不可简单归结为口头修辞。[[Argument_King_2020_ECNUROE|(King, 2020, p. 225)]]
 
-> [!warning] 适用局限
+> [!warning|limits] 适用局限
 > 南南合作概念如果脱离具体的国别制度与执行机制分析，容易被泛化为抽象的政治外交修辞。文本层面的对等协商[[Discourse|话语]]无法掩盖出资方在资源配置上的单向主导性；将南南教育合作简单等同于完全对等的双向交流，将忽视微观办学与[[Technology Transfer|技术转移]]中的依附风险。（[[Argument_King_2020_ECNUROE|King, 2020, pp. 222]], 232）
 
 ---
@@ -225,7 +225,23 @@ updated: 2026-11-11
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Educational Assistance Modalities]] | 概念 | 南南教育合作落地实践中采取的多维功能供给形态。 |
+> | [[International Education]] | 概念 | 南南合作构成战后国际教育治理体系中对西方依附结构的替代范式。 |
+> | [[Triangular Cooperation]] | 概念 | 传统捐资方、南方提供方与受援国三方协同的新型发展合作形态。 |
+> | [[Educational Diplomacy]] | 概念 | 发展中国家将教育交流纳入对外地缘经贸战略与民心相通的机制。 |
+> | [[Capability Approach]] | 理论 | 解释南南合作如何通过重大工程定向育人提升受援国自主造血能力。 |
+> | [[Kenneth King]] | 人物 | 长期追踪中非教育合作与南南人力资源开发话语演进的比较教育学者。 |
+> | [[Forum on China-Africa Cooperation]] | 事实 | 推动中非南南教育合作机制化与三年规划落地的主导多边平台。 |
+> | [[Luban Workshop]] | 事实 | 伴随一带一路走廊建设输出中国职业技术标准的标志性实训项目。 |
+> | [[Institute of South-South Cooperation and Development]] | 事实 | 设立于北京大学、为全球南方国家培养高层次治国理政人才的专门学院。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Nordtveit_2011_IJED|Nordtveit (2011)]] — 采用单国度质性个案研究，考察中国对喀麦隆教育援助的历程演化、四类合作形态及双边需求响应模式的运作张力。
 > - [[Argument_King_2020_ECNUROE|King (2020)]] — 运用政策[[Discourse Analysis|话语分析]]系统比对[[Forum on China-Africa Cooperation|中非合作论坛]]第六届与第七届行动计划及教育部《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》，剖析南南合作框架下教育与人力资源开发[[Discourse|话语]]由传统单向奖学金培训向全面能力合作与跨大陆互联互通的演进机制。
 > - [[Argument_Liu_2025_IndHE|Liu et al. (2025)]] — 基于[[University Alliance of the Silk Road|丝绸之路大学联盟]]旗下三所中国行业高校面向中亚、东南亚与非洲开展的跨国定向[[Engineering Education|工程教育]]实录，运用[[Knowledge Diplomacy|知识外交]]与[[Capability Approach|能力进路]]框架解构双边政府、中外企业、高校与学生四方协同网络，实证论证了南南合作中实体基础设施能力建设与互惠共生机制。
