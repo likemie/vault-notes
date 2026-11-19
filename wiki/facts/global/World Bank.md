@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 133
+fact_related_count: 134
 fact_related_level: 13
 fact_related_stars: "💎💎💎💎⭐"
 fact_related_color: "#fecdd3"
@@ -168,6 +168,7 @@ related_arguments:
   - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_Santos_Silova_2026_Discourse]]"
+  - "[[Argument_Nordtveit_2011_IJED]]"
 confidence: high
 status: active
 created: 2026-09-12
@@ -197,7 +198,7 @@ updated: 2026-11-19
 >   - **1962** 向突尼斯发放首笔中等技术教育贷款，初步敲开全球南方的教育大门。
 >   - **1964** 与教科文组织签署《合作协定》（Co-operative Agreement），依靠 UNESCO 专业团队物色与评估借贷国教育项目；业务严格限定于校舍建造与实验室器材采购。
 >
-> - **1968–1981** **麦克纳马拉改革与教育研究帝国奠基期**
+> - **1968–1981** **麦克纳马拉改革与教育研究体系初创期**
 >
 >   世行在这一时期把教育从消费性开支重新定义为生产性投资，并建立起自有的中央研究团队：教育经济学家[[George Psacharopoulos|乔治·萨卡罗普洛斯]]（George Psacharopoulos）等开创覆盖全球的[[Return on Investment|教育投资回报率]]（Rate of Return to Education，RORE）实证计量传统。[[Argument_Steiner-Khamsi_2024_CE|(Psacharopoulos, 1981; Steiner-Khamsi et al., 2024b, pp. 541–542)]]
 >
@@ -227,6 +228,7 @@ updated: 2026-11-19
 >   - **1999** 创设[[Global Development Network|全球发展网络]]（Global Development Network，GDN）探索本土去中心化[[Knowledge Production|知识生产]]，但很快被华盛顿总部集权的工具所取代。[[Argument_Steiner-Khamsi_2024_CE|(Stone, 2000; Steiner-Khamsi et al., 2024b, p. 543)]]
 >   - **2000s** 在公共服务提供上日益绕过受援国政府，直接委托非政府组织提供教育，架空国家公共权威，促使非政府组织转变为去政治化的影子国家。[[Argument_Arnove_2009_WorldSystems|(Sutton & Arnove, 2004; Kamat, 2004, cited in Arnove, 2009, pp. 111–112)]]
 >   - **2000s** 将巴西阿雷格里港首创的[[Participatory Budgeting|参与式预算]]（Participatory Budgeting）正式写入世行公民参与治理指南，确立南方城市微观民主创新在全球治理中的开拓者地位；同时全面吸纳拉美[[Conditional Cash Transfers|有条件现金转移支付]]（CCTs）模型（如巴西家庭补贴与墨西哥发展计划），将其作为旗舰减贫方案向撒哈拉以南非洲与东南亚推广。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 200, 204)]]
+>   - **2000s** 在国别宏观经济与多边援助协调上，世行驻外代表处充当主要召集平台；新兴出资国（如中国驻喀麦隆使馆）开始列席世行牵头的多边伙伴协调会以交流经济与援助动态，并表达未来在教育等领域联合开展项目的意向。[[Argument_Nordtveit_2011_IJED|(Nordtveit, 2011, p. 105)]]
 >   - **2010s** 形成拉美减贫专家向世行等国际多边机构的人事循环通道，曾主导拉美本土减贫与社会发展的高级技术官僚进入世行担任高级官员或长期核心顾问，推动南方本土政策社群参与重塑全球旗舰议程。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 241–244)]]
 >   - **2010–2014** 启动开放发展倡议与[[Open Knowledge Repository|开放知识库]]（OKR），实施 [[Skills Toward Employment and Productivity|STEP]] 成人技能测试，并将集中化政策诊断体系升级为涵盖 13 个领域的 [[Systems Approach for Better Education Results|SABER]] 系统。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 7–8)]]
 >   - **2011** 推出[[Systems Approach for Better Education Results|改善教育成果系统分析法]]（Systems Approach for Better Education Results，SABER），并联合英美双边援助机构组建[[Building Evidence in Education|构建教育证据联盟]]（Building Evidence in Education，BE2），确立自指性政策仓库。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 545, 548)]]
@@ -329,7 +331,7 @@ updated: 2026-11-19
 > > [!axis] 结构调整与[[Market Fundamentalism|市场原教旨主义]]的后殖民破坏
 > > 发展社会学家与全球南方批评家指控世行贷款长期推行[[Neoliberalism|新自由主义]]紧缩政策。
 > >
-> > - **批判政治经济学派与[[Evolutionary Economics|演化经济学]]批判（Bonal, 2002; Heyneman, 2003; [[Argument_Freeman_1995_CJE|Freeman, 1995]]）** 批评 1980–1990 年代世行推行的结构调整计划强迫借贷国冻结教师编制、引入公立学校用户收费并加速民办私立化，给撒哈拉以南非洲和拉美公共教育系统造成严重冲击；世行前资深教育专员[[Stephen P. Heyneman|海尼曼]]（Stephen Heyneman, 2003）亦坦承，世行长期主导的[[Cost-Benefit Analysis|成本效益分析]]与教育生产函数框架存在根本性缺陷，给更具公平性与效能的教育政策带来了严重的消极后果；[[Chris Freeman|克里斯·弗里曼]]（Chris Freeman, 1995）进一步指出，世行对拉美强加的财政紧缩迫使国家压缩高等技术教育与工程研发支持，导致巴西等国的高等教育毛入学率与工程师供给停滞不前，摧毁了应对第三次技术革命（信息通信技术）所需的[[National Innovation System|国家创新系统]]能力，形成了深刻的依附性发展锁定。[[Argument_Arnove_2009_WorldSystems|(Heyneman, 2003, cited in Arnove, 2009, p. 110)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 13–15)]]
+> > - **批判政治经济学派与[[Evolutionary Economics|演化经济学]]批判（Bonal, 2002; Heyneman, 2003; [[Argument_Freeman_1995_CJE|Freeman, 1995]]）** 批评 1980–1990 年代世行推行的结构调整计划强迫借贷国冻结教师编制、引入公立学校用户收费并加速民办私立化，给撒哈拉以南非洲和拉美公共教育系统造成严重冲击；世行前资深教育专员[[Stephen P. Heyneman|海尼曼]]（Stephen Heyneman, 2003）亦坦承，世行长期主导的[[Cost-Benefit Analysis|成本效益分析]]与教育生产函数框架存在根本性缺陷，给更具公平性与效能的教育政策带来了严重的消极后果；[[Chris Freeman|克里斯·弗里曼]]（Chris Freeman, 1995）进一步指出，世行对拉美强加的财政紧缩迫使国家压缩高等技术教育与工程研发支持，导致巴西等国的高等教育毛入学率与工程师供给停滞不前，摧毁了应对第三次技术革命（信息通信技术）所需的[[National Innovation System|国家创新系统]]能力，形成了深刻的依附性发展锁定；诺特维特（[[Argument_Nordtveit_2011_IJED|Nordtveit, 2011]]）在非洲受援国的田野调查亦表明，布雷顿森林机构强加的治理附加条件与紧缩削减使受援国公共开支深陷被动，促使受援国决策层转向偏好不附带政治条件的双边务实合作。[[Argument_Arnove_2009_WorldSystems|(Heyneman, 2003, cited in Arnove, 2009, p. 110)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 13–15)]]; [[Argument_Nordtveit_2011_IJED|(Nordtveit, 2011, pp. 105–106)]]
 > > - **世行辩护** 强调结构性改革旨在破除[[Development Education|发展中国家教育]]系统的寻租腐败与非生产性财政冗员，优先保证贫困人口享有最基本的初等读写算技能。
 >
 > > [!axis] [[Financial-Intellectual Complex|金融-智识复合体]]与单一体信贷逻辑：技术中立政策建议 vs 跨国资本规训同盟
@@ -466,4 +468,5 @@ updated: 2026-11-19
 > - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 剖析世界银行与 GEEAP 的职责规程，批判其“智能购买”话语背后的技术理性与教师赤字预设。
 > - [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] — 剖析世界银行吸纳拉美有条件现金转移支付与参与式预算的机制，揭示南方政策大使的人事循环与多标量政策扩散。
 > - [[Argument_King_2007_CE|King (2007)]] — 考证世界银行在宗滴恩大会、减贫战略与快速通道倡议中将教育窄化为初等指标的历史脉络。
+> - [[Argument_Nordtveit_2011_IJED|Nordtveit (2011)]] — 记录中国使馆参与世行驻喀麦隆多边伙伴协调会与信息交换动态，揭示受援国决策层在经历布雷顿森林机构结构调整紧缩后对无附加条件务实合作的偏好。
 > - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 访谈曾在世行任职的芬兰专家并解构报告，揭示学习危机话语中短期外援现金流对受援国本土师范生态与教育主权的侵蚀。
