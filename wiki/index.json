@@ -28438,6 +28438,17 @@
     ]
   },
   {
+    "title": "Vertical Case Study",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Vertical Case Study.md",
+    "aliases": [
+      "垂直个案研究",
+      "垂直案例研究",
+      "VCS",
+      "Vertical Case Study Approach"
+    ]
+  },
+  {
     "title": "Vignettes in Research",
     "type": "method",
     "path": "wiki/methods/qualitative/Vignettes in Research.md",
@@ -55567,6 +55578,11 @@
     "title": "Argument_Johnson_2023_CritEduc",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Critical Education/Argument_Johnson_2023_CritEduc.md"
+  },
+  {
+    "title": "Argument_Vavrus_2006_CICE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md"
   },
   {
     "title": "Argument_Chua_2011_CILP",

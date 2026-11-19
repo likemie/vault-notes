@@ -12,7 +12,7 @@ aliases:
 summary: "比较教育学核心认识论概念，批判将背景视为静态地理疆域或既定制度容器的传统小写背景观，主张将背景理解为由跨国话语、知识证据、专家网络与本土合法化需求相互装配而动态生成的大写背景"
 type: concept
 domain: "comparative-education"
-related_count: 33
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Scientization of Politics]]"
   - "[[Policy-Based Evidence-Making]]"
   - "[[Nordic Model of Education]]"
+  - "[[Determinism]]"
   - "[[Research Utilization]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
@@ -49,12 +50,15 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Process Tracing]]"
   - "[[Criss-Crossing Comparison]]"
+  - "[[Vertical Case Study]]"
+  - "[[Case Study]]"
 related_persons:
   - "[[Noah Sobe]]"
 related_facts:
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Volmari_2025_CE]]"
+  - "[[Argument_Vavrus_2006_CICE]]"
 confidence: high
 status: draft
 tags:
@@ -63,7 +67,7 @@ tags:
   - theme/assemblage
   - method/comparative-policy-analysis
 created: 2026-11-09
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -140,8 +144,8 @@ updated: 2026-11-15
 ---
 
 > [!dev-timeline] 概念演变
-> - **19 世纪末–20 世纪 — 容器式背景盛行** 早期比较教育研究将国家背景视为由民族性、文化传统与法律构成的既定环境，奠定了小写背景的分析[[Paradigm|范式]]。
-> - **2012–2018 — 关系性背景转向** 索比与科瓦尔奇克 (Sobe & Kowalczyk, 2012, 2014, 2018) 开展系列奠基性研究，批判方法论[[Nationalism|民族主义]]与容器式思维，系统提出结合装配理论（Assemblage）的大写背景观。
+> - **19 世纪末–20 世纪 — 容器式背景盛行** 早期比较教育研究将国家背景视为由民族性、文化传统与法律构成的既定环境，确立了小写背景的分析[[Paradigm|范式]]。
+> - **2012–2018 — 关系性背景转向** 索比与科瓦尔奇克 (Sobe & Kowalczyk, 2012, 2014, 2018) 开展系列开拓性研究，批判方法论[[Nationalism|民族主义]]与容器式思维，系统提出结合装配理论（Assemblage）的大写背景观。
 > - **2024–2025 — 经验化循证政策追踪** [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] 将大写背景观运用于北欧三国学校改革实证检验，揭示了知识、专家与政策议程如何在微观博弈中共同编织政策背景。
 
 ---
@@ -175,8 +179,10 @@ updated: 2026-11-15
 > | [[Policy-Based Evidence-Making]] | 概念 | 政策导向型证据制造展示了决策者如何为了政治方案反向编织背景叙事。 |
 > | [[Recontextualization]] | 概念 | 再情境化关注政策移入的转译，与大写背景共同丰富了情境研究维度。 |
 > | [[Nordic Model of Education]] | 概念 | 北欧教育模式常被视作小写背景容器，大写背景观揭示了其内部的解构与分化。 |
+> | [[Vertical Case Study]] | 方法 | 将关系性背景观转化为跨越微观行动与宏观权力的多尺度比较研究设计。 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] — 批判脱离情境的宏观比较导致[[Determinism|决定论]]偏误与数据不可比，提出垂直[[Case Study|个案研究]]将地方情境理解与宏观结构同构。
 > - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 追踪丹麦、芬兰与挪威学校改革中的[[Research Utilization|证据使用]]，实证论证了背景属于决策者在挑选证据与吸纳全球素养话语中共同建构出的大写背景（Big-C Context），超越了静态国家容器假定。

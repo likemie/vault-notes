@@ -1,6 +1,7 @@
 ---
-citation: ""
-extracted_to: []
+citation: "Vavrus, F., & Bartlett, L. (2006). Comparatively knowing: Making a case for the vertical case study. Current Issues in Comparative Education, 8(2), 95–103."
+extracted_to:
+  - "[[Argument_Vavrus_2006_CICE]]"
 processed_date: 2026-11-19
 ---
 

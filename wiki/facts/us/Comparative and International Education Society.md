@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 46
+fact_related_count: 48
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"
@@ -78,6 +78,8 @@ related_arguments:
   - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Klerides_2023_CE]]"
   - "[[Argument_Cowen_2009_HistoryCreation]]"
+  - "[[Argument_Vavrus_2006_CICE]]"
+  - "[[Argument_Silova_2009_EE]]"
 confidence: high
 status: active
 created: 2026-07-08
@@ -192,6 +194,7 @@ updated: 2026-11-19
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] — 借 CIES 成立 50 周年与口述史纪录片《比较而言》反思学会半个世纪的方法论论争，揭示关于定性与定量及区域与学科的分野掩盖了深层认识论危机。
 > - [[Argument_Cowen_2009_HistoryCreation|Cowen (2009a)]] — 深度解构 CIES 的词汇突变与[[Structural Functionalism|结构功能主义]]元认识型塑造，指出学会档案发掘与口述史工程的滞后性。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 梳理 CIES 创会与《比较教育评论》（CER）半个世纪的历史轨迹，依托文献计量与[[Questionnaire|问卷调查]]揭示学科从单一功能主义霸权走向 26 种[[Paradigm|范式]]并存之理论[[Pluralism|多元主义]]的建制演进（pp. 122–123, 131–132）。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 辨析 CIES 1969 年更名中“国际”植入所代表的海外援助技术治理转型与认识型重构。

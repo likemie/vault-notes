@@ -6,10 +6,10 @@ aliases:
 summary: "要求将研究场所的具体特征纳入研究考量而非假设政策以预定意图的方式被实施的效度类型，更亲近质性研究的厚描述，与外部效度交叉，在实验控制与真实世界适用性之间构成核心张力。"
 type: concept
 domain: "research-methodology"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 43
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - research-methods
   - validity
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Causality]]"
   - "[[Reliability]]"
+  - "[[Typicality]]"
   - "[[Paradigm]]"
   - "[[Positivism]]"
   - "[[Effective Teaching]]"
@@ -47,6 +48,8 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Effect Size]]"
   - "[[Accounts]]"
+  - "[[Case Study]]"
+  - "[[Vertical Case Study]]"
 related_instruments: []
 related_persons:
   - "[[Elliott Eisner]]"
@@ -61,11 +64,12 @@ related_arguments:
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Hattie_2010_NZJES]]"
   - "[[Argument_Golovchin_2019_ESC]]"
+  - "[[Argument_Vavrus_2006_CICE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 confidence: high
 status: active
 created: 2026-06-23
-updated: 2026-11-03
+updated: 2026-11-19
 ---
 
 ---
@@ -90,7 +94,7 @@ updated: 2026-11-03
 > |---|---|---|---|
 > | **核心问题** | 发现在自然与真实生态情境中是否成立？ | 发现能否跨样本、跨群体、跨时期广泛推广？ | 实验变量 $X$ 是否真正导致了结果 $Y$？ |
 > | **关注焦点** | 研究情境的人为性与真实情境之间的契合度 | 抽样代表性与推广边界 | 排除替代性解释与混杂偏差 |
-> | **威胁来源** | 实验室人工控制、脱离生态情境的测量工具 | 样本偏差、情境特殊性、历史事件干扰 | 混淆[[Variable\|变量]]、成熟效应、仪器偏差、选择偏差 |
+> | **威胁来源** | 实验室人工控制、脱离生态情境的测量工具 | 样本偏差、情境[[Typicality\|特殊性]]、历史事件干扰 | 混淆[[Variable\|变量]]、成熟效应、仪器偏差、选择偏差 |
 > | **方法论偏好** | 质性自然主义、[[Rich and Thick Description\|厚描述]]、田野观察 | 大样本[[Random Sampling\|随机抽样]]、统计代表性推断 | [[Randomised Controlled Trials\|随机对照试验]]（RCT）、严格实验室控制 |
 
 ---
@@ -217,7 +221,7 @@ updated: 2026-11-03
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Vavrus_Bartlett_2006_CICE|Vavrus and Bartlett (2006)]] — 结合 Crossley & Vulliamy (1984) 的案例研究传统，论证垂直案例研究如何通过扎根微观情境并贯通宏观结构来保障比较教育的生态效度，揭示政策“应然”修辞与地方“实然”实践的鸿沟。
+> - [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] — 结合 Crossley and Vulliamy (1984) 的[[Case Study|案例研究]]传统，论证[[Vertical Case Study|垂直案例研究]]如何通过扎根微观情境并贯通宏观结构来保障比较教育的生态效度，揭示政策“应然”修辞与地方“实然”实践的鸿沟。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 跨章节界定生态效度内涵：辨析其与内部及[[External Validity|外部效度]]的关系与[[Variable|变量]]剥离局限（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Ch. 10]]），剖析受控实验对教室生态的歪曲（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Ch. 16]]），并确立质性现场观察的独特优势（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Ch. 23]]）。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 引入科学哲学家 Phillips (2014) 与课程学者 Eisner (1983) 理论，批判 [[Visible Learning]] 等[[Meta-meta-analysis|二阶元分析]]试图以硬科学实验室控制手段提炼[[Effective Teaching|有效教学]]清单的做法彻底抹杀了教育的生态效度。
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 梳理国外学者针对《可见学习》的六大方法论通病，剖析其强行汇总[[Heterogeneity|异质性]]研究、排除社会环境变量导致生态效度严重剥落的[[Epistemology|认识论]]局限。
