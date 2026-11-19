@@ -12,9 +12,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 17
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "跨国政府间政策协调与援助审议机构"
 headquarters: "巴黎（法国）"
@@ -34,11 +34,13 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Performance Indicators]]"
   - "[[Discourse]]"
+  - "[[South-South Cooperation]]"
 related_theories: []
 related_methods:
   - "[[Peer Debriefing]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Kenneth King]]"
 related_facts:
   - "[[OECD]]"
   - "[[Organisation for European Economic Co-operation]]"
@@ -50,10 +52,13 @@ related_facts:
   - "[[UNESCO]]"
 related_arguments:
   - "[[Argument_King_2007_CE]]"
+  - "[[Argument_Nordtveit_2011_IJED]]"
 confidence: high
-status: draft
+status: active
 created: 2026-11-06
 updated: 2026-11-19
+---
+
 ---
 
 > [!claim] 核心定位
@@ -87,7 +92,7 @@ updated: 2026-11-19
 >   主导全球援助有效性高级别论坛，应对新兴非 DAC 经济体对外合作带来的新格局。
 >
 >   - **2005** 主持通过《关于援助有效性的巴黎宣言》，确立[[Country Ownership|国家所有权]]、协调一致、对齐本土等五大原则。
->   - **2015** 参与联合国《[[UN Sustainable Development Goals|2030年可持续发展议程]]》（[[UN Sustainable Development Goals|SDGs]]）筹资框架与全要素可持续发展支持（TOSSD）指标设计。
+>   - **2015** 参与联合国《[[UN Sustainable Development Goals|2030年可持续发展议程]]》（SDGs）筹资框架与全要素可持续发展支持（TOSSD）指标设计。
 
 ---
 
@@ -119,15 +124,56 @@ updated: 2026-11-19
 
 > [!indicators] 影响力维度与指标
 > - **援助资源掌控力** DAC 成员国官方发展援助总额占全球双边官方援助的 80% 以上。
-> - **统计[[Discourse|话语]]排他性** ODA 资格定义与计算法则构成全球发展融资的唯一通用黄金标准。
+> - **统计[[Discourse|话语]]排他性** ODA 资格定义与计算法则构成全球发展融资的通用权威标准。
 > - **跨国政策传导度** 报告提出的 IDTs 框架直接被英国、美国等关键大国白皮书及联合国千年峰会采纳转化为全球发展目标。[[Argument_King_2007_CE|(King, 2007, pp. 383–384, 386)]]
 
 > [!finding-cards] 关键成效与辐射影响
 > - **规训全球受援国公共开支** 迫使发展中国家在缺乏外部对中高职与高等教育支持的情况下，将极度有限的财政资源向初等学制单点汇聚。[[Argument_King_2007_CE|(King, 2007, pp. 387–389)]]
 > - **重置国际组织教育分工** 削弱了联合国教科文组织在教育发展规范上的传统定义权，巩固了以经合组织与世界银行为代表的量化评估话语权。[[Argument_King_2007_CE|(King, 2007, pp. 385–387)]]
-> - **塑造援助结果导向时代** 彻底扭转了过去仅重视资金投入的传统模式，将国际援助引向指标考核与可量化产出管理。[[Argument_King_2007_CE|(King, 2007, pp. 381, 388)]]
+> - **塑造援助结果导向时代** 扭转了过去重视资金投入的传统模式，将国际援助引向指标考核与可量化产出管理。[[Argument_King_2007_CE|(King, 2007, pp. 381, 388)]]
+
+> [!stat-cards]- 核心规模数据
+> - **32** （个） 截至 2024 年正式加入经合组织发展援助委员会的成员国数量。
+> - **80%+** DAC 成员国官方发展援助（ODA）净支出占全球双边官方发展援助总额的比例。
+> - **$43.4B** 2006–2008 年间 DAC 成员国向受援国提供的官方双边援助总规模（434 亿美元），显著高于同期新兴非 DAC 捐助国总量。[[Argument_Nordtveit_2011_IJED|(Nordtveit, 2011, p. 101)]]
+> - **0.7%** 联合国倡导的官方发展援助占国民总收入（GNI）目标基准线。
+
+---
+
+> [!debates] 核心争议交锋
+>
+> > [!axis] “捐助国俱乐部”垄断与全球南方代表性赤字
+> > 学术界批评 DAC 作为排他性的富国俱乐部，长期垄断 ODA 官方标准制定权与援助有效性议程，将发展中国家与新兴出资方排斥于决策核心之外。
+> >
+> > - **批评视角（全球南方与批判学者）** 指出 DAC 规则带有深厚的北方中心主义偏见，其强加的治理附加条件与繁冗报告程序削弱了受援国的主权自主权，未能适应[[South-South Cooperation|南南合作]]的互利伙伴特征。[[Argument_Nordtveit_2011_IJED|(Nordtveit, 2011, p. 101)]]
+> > - **机构辩护立场** 强调建立多边统一统计标准是防范腐败寻租、保障纳税人资金透明度与确立全球援助问责的公共基准。
+>
+> > [!axis] 全球教育议程的极简化窄化争议
+> > DAC 1996 年《塑造21世纪》报告将教育目标单向压缩为普及初等教育与初中等性别均等两项指标，引发严重挤出效应。
+> >
+> > - **批判观点（[[Argument_King_2007_CE|King, 2007]]）** 批评 DAC 的技术官僚剪裁边缘化了职业技术培训、高等教育与终身学习，迫使受援国财政单一扎堆于小学阶段，扭曲了国家长远的人力资本结构。[[Argument_King_2007_CE|(King, 2007, pp. 381–383, 387–389)]]
+> > - **DAC 政策逻辑** 辩称在资源有限情境下，基础教育具有最高的社会回报率与减贫拉动效应，明确量化指标有利于集中全球政治意愿与衡量履约进展。
+
+> [!citation-card] 金（Kenneth King）论捐助国俱乐部对全球教育目标的二次窄化
+> 经合组织发展援助委员会的官僚选择过程，不仅将宗迪恩大会所包含的丰富成人扫盲与生活技能目标删减殆尽，更排除了对中等与高等教育的任何资金支持。这种极简主义的指标规训，使受援国在整个千年发展目标周期内陷入了只见初等教育而忽视全面发展的制度性困局。肯尼斯·金（[[Argument_King_2007_CE|King, 2007, pp. 387–389]]）
+>
+> *The DAC's minimalist selection of two primary-level targets effectively dismantled the broader vision of education for all. By systematically excluding secondary, vocational and higher education, the donors' committee imposed a severely constrained policy agenda on developing countries.*
+
+---
+
+> [!entry-map] 相关条目网络
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Country Ownership]] | Concept | 《巴黎宣言》中倡导的核心援助有效性原则，主张受援国自主设定国家发展战略。 |
+> | [[Statistical Normalisation]] | Concept | DAC 依托 ODA 定义与债权人报告系统确立全球发展融资统计标准化的核心机制。 |
+> | [[International Development Targets]] | Fact (Policy) | DAC 1996 年报告确立的 6 项量化目标，构成联合国千年发展目标的制度母体。 |
+> | [[Millennium Development Goals]] | Fact (Policy) | 联合国千年发展目标，其教育条款直接吸收了 DAC 确立的初等普及与性别均等指标。 |
+> | [[OECD]] | Fact (Organization) | 发展援助委员会的母体超国家政府间组织。 |
+> | [[Kenneth King]] | Person | 深入考证 DAC 官僚运作及其对全球教育议程产生窄化效应的比较教育学者。 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Nordtveit_2011_IJED|Nordtveit (2011)]] — 将西方 OECD-DAC 传统官方发展援助框架与中国在非洲不附加政治条件的双边直达教育合作模式进行制度对比。
 > - [[Argument_King_2007_CE|King (2007)]] — 考证 DAC 制定国际开发目标并将其推向联合国千年峰会的官僚运作脉络，分析其对全球教育治理结构的深远重塑。

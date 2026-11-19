@@ -8,10 +8,16 @@ aliases:
   - 复读工厂
   - Gaokao Retaking
   - Gaokao Cramming Schools
-summary: "中国高考制度与文凭分层格局下考生通过延期进入劳动力市场、重返全日制高三参与应试再竞争的社会实践；在县域与中西部地区孕育出以严密军事化管理和集中训练为特征的超级复读学校；在民办三本文凭严重贬值与昂贵学费挤压下，复读成为农村与低收入家庭规避高额教育债务、争取公办二本与一本学位的防御性对冲工具。"
+summary: "中国高考制度与文凭分层格局下考生通过延期进入劳动力市场、重返全日制高三参与应试再竞争的社会实践；在县域与中西部地区孕育出以严密军事化管理和集中训练为特征的超级复读学校；在民办独立学院学历严重贬值与昂贵学费挤压下，复读成为农村与低收入家庭规避高额教育债务、争取公办二本与一本学位的防御性对冲工具。"
 type: fact
 subtype: event
 region: "china"
+fact_region: "china"
+fact_kind: "event"
+fact_related_count: 6
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#fef3c7"
 tags:
   - fact/event
   - region/china
@@ -19,13 +25,19 @@ tags:
   - examination-system
   - social-stratification
   - rural-education
-related_concepts: []
+related_concepts:
+  - "[[Credential Inflation]]"
+  - "[[Opportunity Structure]]"
+  - "[[Hopelessness in Schooling]]"
+  - "[[Examination-Oriented Education]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[Gaokao]]"
+related_arguments:
+  - "[[Argument_Xie_2017_PKUER]]"
 confidence: high
 status: active
 created: 2026-11-19
@@ -57,7 +69,7 @@ updated: 2026-11-19
 > [!finding-cards] 核心社会机制
 > - **低成本防御性投资对冲** 民办三本四年学费开销高达 6–10 万元且就业前景黯淡，复读一年直接成本（约 5,000–8,000 元）远低于四年学杂费；对于弱势家庭而言，复读一年冲击公办二本是避免因学致贫的理性财务核算。[[Argument_Xie_2017_PKUER|(谢爱磊, 2017, p. 103)]]
 > - **应试工厂的军事化规训** 超级复读学校通过晨曦至深夜的高度标准化作息、严苛的纪律监控与高频模拟考，将应试做题技巧训练至极致，形成高强度的工业化文凭生产线。
-> - **存量博弈与加剧内卷** 规模庞大的高分复读生群体凭借多沉淀一年的知识储备挤占名牌大学名额，直接拉高了区域内当年应届生考取重点大学的实际竞争基准线。
+> - **存量博弈与加剧内卷** 规模庞大的高分复读生群体凭借多学习一年的知识储备与应试经验挤占名牌大学名额，直接拉高了区域内当年应届生考取重点大学的实际竞争基准线。
 
 ---
 
@@ -88,7 +100,7 @@ updated: 2026-11-19
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Gaokao]] | 事实 | 高考全国统一制度构成了复读行为发生与循环的上位制度母体。 |
-> | [[Credential Inflation]] | 概念 | 普通本专科文凭严重贬值是倒逼考生放弃录取、复读冲刺名校的经济根源。 |
+> | [[Credential Inflation]] | 概念 | 普通本专科文凭严重贬值促使考生放弃当年录取、转向复读冲刺名校。 |
 > | [[Opportunity Structure]] | 概念 | 复读是底层家庭在高等教育阶梯化与就业门槛严苛的客观机会结构下的能动防御策略。 |
 > | [[Hopelessness in Schooling]] | 概念 | 放弃就读高昂民办高校选择复读，体现了底层行动者对就学沉没风险的主动防范。 |
 > | [[Examination-Oriented Education]] | 概念 | 复读学校的封闭集训体现了应试教育模式在组织形态与行为规训上的极端延伸。 |

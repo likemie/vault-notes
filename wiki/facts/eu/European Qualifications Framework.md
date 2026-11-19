@@ -12,7 +12,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 24
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -49,8 +49,8 @@ related_facts:
   - "[[European Commission]]"
   - "[[Bologna Process]]"
   - "[[ASEAN]]"
-  - "[[Comparative Education Society in Europe]]"
   - "[[SHARE Programme]]"
+  - "[[Comparative Education Society in Europe]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"

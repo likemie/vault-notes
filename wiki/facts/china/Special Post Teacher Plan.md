@@ -10,6 +10,12 @@ summary: "2006 年起中国教育部等四部委联合实施的中央财政专�
 type: fact
 subtype: program
 region: "china"
+fact_region: "china"
+fact_kind: "program"
+fact_related_count: 5
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#ede9fe"
 period: "2006–"
 initiator_organization: "[[Ministry of Education of the People's Republic of China|中华人民共和国教育部]]"
 tags:
@@ -18,13 +24,18 @@ tags:
   - rural-education
   - teacher-policy
   - educational-equity
-related_concepts: []
+related_concepts:
+  - "[[Opportunity Structure]]"
+  - "[[Hopelessness in Schooling]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[Rural School Consolidation]]"
+  - "[[Ministry of Education of the People's Republic of China]]"
+related_arguments:
+  - "[[Argument_Xie_2017_PKUER]]"
 confidence: high
 status: active
 created: 2026-11-19
@@ -92,13 +103,13 @@ updated: 2026-11-19
 > > [!axis] 资源均等注入 vs 县域二次马太效应
 > > 围绕特岗计划是否真正惠及了最底层的乡村学校展开讨论。
 > >
-> > - **谢爱磊（2017）** 县域实际操作将年轻特岗教师截留在乡镇中心校，村级教学点在师资老化与断代危机中被边缘化，加剧了乡村底层的就学成本。[[Argument_Xie_2017_PKUER|(谢爱磊, 2017, p. 98)]]
+> > - **[[Argument_Xie_2017_PKUER|谢爱磊 (2017)]]** 县域实际操作将年轻特岗教师截留在乡镇中心校，村级教学点在师资老化与断代危机中被边缘化，加剧了乡村底层的就学成本。[[Argument_Xie_2017_PKUER|(谢爱磊, 2017, p. 98)]]
 > > - **官方评估政策立场（2018）** 政策着眼于提升乡村整体专任教师合格率与规模效应，中心学校的强化带动了全乡镇教研辐射与资源共享。
 >
 > > [!axis] 编制吸附力 vs 青年教师流动性
 > > 围绕 3 年服务期满后的教师留存率展开争议。
 > >
-> > - **体制留存肯定论** 事业编制保障构成了强有力的制度吸引力，为中西部基层沉淀了数以万计的青年骨干骨干。
+> > - **体制留存肯定论** 事业编制保障构成了强有力的制度吸引力，为中西部基层保留了数以万计的青年业务骨干。
 > > - **人才中转过客论** 调查指出部分高学历毕业生将特岗视为考研或考公务员的跳板，导致基层学校面临持续的人员流动与教学衔接困难。
 
 ---

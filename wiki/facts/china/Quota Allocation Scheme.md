@@ -11,6 +11,12 @@ summary: "中国中考改革中针对优质公办普通高中的招生均衡政�
 type: fact
 subtype: policy
 region: "china"
+fact_region: "china"
+fact_kind: "policy"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: "[[Ministry of Education of the People's Republic of China|中华人民共和国教育部]]"
 tags:
   - fact/policy
@@ -19,13 +25,20 @@ tags:
   - educational-equity
   - affirmative-action
   - secondary-education
-related_concepts: []
+related_concepts:
+  - "[[Peidu]]"
+  - "[[Opportunity Structure]]"
+  - "[[Hopelessness in Schooling]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[Zhongkao]]"
+  - "[[Targeted Admissions Scheme]]"
+  - "[[Ministry of Education of the People's Republic of China]]"
+related_arguments:
+  - "[[Argument_Xie_2017_PKUER]]"
 confidence: high
 status: active
 created: 2026-11-19
@@ -94,7 +107,7 @@ updated: 2026-11-19
 > > [!axis] 入学公平 vs 学业结果公平（进得去与学得好）
 > > 围绕指标倾斜能否真正转化为底层学生的实质学业成就展开反思。
 > >
-> > - **谢爱磊（2017）** 政策善意如果在进入重点高中后缺乏针对性的补偿教育与生活救助配套，降分录取的制度补偿往往在微观激烈的学业竞争中演化为二次淘汰机制。[[Argument_Xie_2017_PKUER|(谢爱磊, 2017, pp. 98-99)]]
+> > - **[[Argument_Xie_2017_PKUER|谢爱磊 (2017)]]** 政策善意如果在进入重点高中后缺乏针对性的补偿教育与生活救助配套，降分录取的制度补偿往往在微观激烈的学业竞争中演化为二次淘汰机制。[[Argument_Xie_2017_PKUER|(谢爱磊, 2017, pp. 98-99)]]
 > > - **制度设计辩护论** 政策确保了底线维度的阶层准入通道，打破了优势阶层对优质高中的垄断，为弱势群体保留了向上攀爬的核心希望。
 >
 > > [!axis] 分数至上 vs 区域校际均衡

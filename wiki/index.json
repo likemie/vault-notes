@@ -40916,6 +40916,21 @@
     "subtype": "event"
   },
   {
+    "title": "Gaokao Repetition",
+    "type": "fact",
+    "path": "wiki/facts/china/Gaokao Repetition.md",
+    "aliases": [
+      "高考复读",
+      "高复",
+      "高考复读学校",
+      "高考复读现象",
+      "复读工厂",
+      "Gaokao Retaking",
+      "Gaokao Cramming Schools"
+    ],
+    "subtype": "event"
+  },
+  {
     "title": "Great Firewall of China",
     "type": "fact",
     "path": "wiki/facts/china/Great Firewall of China.md",
@@ -41407,6 +41422,20 @@
     "subtype": "policy"
   },
   {
+    "title": "Quota Allocation Scheme",
+    "type": "fact",
+    "path": "wiki/facts/china/Quota Allocation Scheme.md",
+    "aliases": [
+      "指标到校",
+      "定向生制度",
+      "名额分配到校",
+      "优质普通高中名额分配",
+      "中考指标到校政策",
+      "High School Quota Allocation Policy"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Recommendation-Based Graduate Admission System",
     "type": "fact",
     "path": "wiki/facts/china/Recommendation-Based Graduate Admission System.md",
@@ -41657,6 +41686,19 @@
       "丝绸之路奖学金",
       "一带一路奖学金",
       "Silk Road Scholarship Program"
+    ],
+    "subtype": "program"
+  },
+  {
+    "title": "Special Post Teacher Plan",
+    "type": "fact",
+    "path": "wiki/facts/china/Special Post Teacher Plan.md",
+    "aliases": [
+      "特岗计划",
+      "农村特岗教师计划",
+      "特岗教师",
+      "农村义务教育阶段学校教师特设岗位计划",
+      "Special Post Teacher Program for Rural Compulsory Education"
     ],
     "subtype": "program"
   },

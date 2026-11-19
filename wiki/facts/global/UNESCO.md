@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 103
+fact_related_count: 104
 fact_related_level: 10
 fact_related_stars: "💎💎💎⭐"
 fact_related_color: "#fecdd3"
@@ -132,6 +132,7 @@ related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch08]]"
+  - "[[Argument_Nordtveit_2011_IJED]]"
   - "[[Argument_Haubrock_2026_NHB]]"
   - "[[Argument_Santos_Silova_2026_Discourse]]"
 confidence: high
@@ -365,6 +366,7 @@ updated: 2026-11-19
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Nordtveit_2011_IJED|Nordtveit (2011)]] — 通过访谈教科文组织驻喀麦隆代表，审视联合国全民教育倡议面临的资金兑现瓶颈，并对照中国不附带政治条件的新兴双边援助形态。
 > - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 结合联合国教科文组织统计研究所（UIS）跨国数据剖析全球科研人力与经费分布的极端极化格局，探讨多边国际组织在推动开放科学与矫正地缘科研不平等中的制度角色。
 > - [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987)]] — 记录教科文组织对营养科学课程推广的小额专项资助，辨析国际规范倡导与具体办学供给责任。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 梳理教育多边主义演进中教科文组织主导权流失，辨析 6-3-3 学制模板在本土落地时的适切性张力。

@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 194
+fact_related_count: 195
 fact_related_level: 19
 fact_related_stars: "💎💎💎💎💎💎⭐"
 fact_related_color: "#fecdd3"
@@ -228,6 +228,7 @@ related_arguments:
   - "[[Argument_Barrenechea_2023_JEC]]"
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Deng_2016_CE]]"
+  - "[[Argument_Nordtveit_2011_IJED]]"
 confidence: high
 status: active
 created: 2026-10-14
@@ -505,6 +506,7 @@ updated: 2026-11-19
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Nordtveit_2011_IJED|Nordtveit (2011)]] — 将中国对非教育合作模式与 OECD-DAC 传统官方发展援助（ODA）框架进行制度对比，阐明新兴援助主体在不附带政治条件与项目直达上的差异。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 运用国际关系理论透镜剖析 OECD 远处治理、量化排名与知识霸权对主权国家教育体系的规训。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 运用[[World Education Reform Database|世界教育改革数据库]]实证检验 OECD 政策中介机制、挪威课程改革中的中介垄断以及跨国机构竞争。
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 剖析 OECD 弗拉斯卡蒂手册单一研发投入排行的局限，阐明国家创新系统理论对科技政策的范式重构。

@@ -9,7 +9,7 @@ subtype: organization
 region: multi
 fact_region: "multi"
 fact_kind: "organization"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -48,12 +48,12 @@ related_facts:
   - "[[Confucius Institute]]"
   - "[[Belt and Road Education Action Plan]]"
 related_arguments:
-  - "[[Argument_Nordtveit_2011_IJED]]"
   - "[[Argument_King_2020_ECNUROE]]"
+  - "[[Argument_Nordtveit_2011_IJED]]"
 confidence: high
 status: active
 created: 2026-10-20
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
