@@ -136,13 +136,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-11-18
+updated: 2026-11-20
 ---
 
 ---
 
 > [!def] Paradigm
-> 范式（Paradigm）由[[Thomas Kuhn|托马斯·库恩]]（Thomas Kuhn, 1962, p. 23）最初界定为“一种被接受的模型或模式”（an accepted model or pattern）。更具体而言，范式是一个科学或学术研究共同体所共享的一整套看待与研究现象的方式、基本世界观、对何谓合法科学知识的共识、原则集合以及典型的[[Problem Solving|问题解决]]方案；它规定了该共同体应当探讨何种问题以及如何展开有效探究（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]）。在比较教育等社会科学领域，范式进一步指涉特定历史时期主导[[Knowledge Production|知识生产]]的[[Epistemology|认识论]]框架与方法论传统（[[Argument_Mitter_2009_Europe|Mitter, 2009, pp. 92–94]]）。在科学学实证计量中，奠基性成果开辟的全新研究范式构成了学术共同体注意力长期汇聚与引文重尾分布的微观基石（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási, 2021, pp. 180–181]]）。
+> 范式（Paradigm）由[[Thomas Kuhn|托马斯·库恩]]（Thomas Kuhn, 1962, p. 23）最初界定为“一种被接受的模型或模式”（an accepted model or pattern）。更具体而言，范式是一个科学或学术研究共同体所共享的一整套看待与研究现象的方式、基本世界观、对何谓合法科学知识的共识、原则集合以及典型的[[Problem Solving|问题解决]]方案；它规定了该共同体应当探讨何种问题以及如何展开有效探究（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]）。在比较教育等社会科学领域，范式进一步指涉特定历史时期主导[[Knowledge Production|知识生产]]的[[Epistemology|认识论]]框架与方法论传统（[[Argument_Mitter_2009_Europe|Mitter, 2009, pp. 92–94]]）。在科学学实证计量中，开创性成果开辟的全新研究范式构成了学术共同体注意力长期汇聚与引文重尾分布的微观基石（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási, 2021, pp. 180–181]]）。
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指涉科学共同体在深层[[Ontology|本体论]]（现实的本质）、认识论（知识的性质与获得方式）、方法论（探究工具与规程）及[[Axiology|价值论]]上达成的底层共识。
@@ -154,8 +154,8 @@ updated: 2026-11-18
 >
 > *A paradigm is a way of looking at or researching phenomena, a world view, a view of what counts as accepted or correct scientific knowledge or ways of working, an 'accepted model or pattern' (Kuhn, 1962: 23), a shared system of beliefs or set of principles, a shared consensus, identity for a community of researchers, a way of pursuing knowledge, consensus on what problems are to be investigated and how such investigations are to be conducted, typical solutions to problems, and an understanding that is more acceptable than its rivals.*
 
-> [!citation-card] 顶层奠基性成果与[[Scientific Paradigm|科学范式]]开辟
-> 顶层高被引论著往往代表开辟全新研究范式的奠基性突破。百年[[Bibliometric Analysis|文献计量分析]]表明，尽管多数成果沉没于引文尾部，但少数具有范式开创力的成果在微观上重塑了学术共同体的解谜框架，并在宏观上吸纳了越来越大的被引份额。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 180–181)]]
+> [!citation-card] 顶层开创性成果与[[Scientific Paradigm|科学范式]]开辟
+> 顶层高被引论著往往代表开辟全新研究范式的突破性成果。百年[[Bibliometric Analysis|文献计量分析]]表明，尽管多数成果沉没于引文尾部，但少数具有范式开创力的成果在微观上重塑了学术共同体的解谜框架，并在宏观上吸纳了越来越大的被引份额。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 180–181)]]
 >
 > *Top-cited publications often represent groundbreaking discoveries that open up entirely new paradigms. Over the course of a century, these pioneer papers absorb an increasing fraction of the community's citations.*
 
@@ -263,7 +263,7 @@ updated: 2026-11-18
 ---
 
 > [!dev-timeline] 概念演变
-> - **1962 — 库恩科学哲学奠基** [[Thomas Kuhn|托马斯·库恩]]出版《科学革命的结构》，确立常规科学、异常、危机与范式转换理论，打破了逻辑[[Positivism|实证主义]]平稳线性积累的科学进步观。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
+> - **1962 — 库恩确立科学范式理论** [[Thomas Kuhn|托马斯·库恩]]出版《科学革命的结构》，确立常规科学、异常、危机与范式转换理论，打破了逻辑[[Positivism|实证主义]]平稳线性积累的科学进步观。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
 > - **1960s–1980s — 社会科学实证主义大论战与比较教育方法转向** 德国社会学界爆发波普尔与[[Jürgen Habermas|哈贝马斯]]的[[Positivist Dispute in German Sociology|实证主义争论]]（Positivismusstreit），新[[Karl Marx|马克思]]主义批判兴起；比较教育学界以[[Brian Holmes|布莱恩·霍姆斯]]引入波普尔[[Critical Dualism|批判二元论]]为契机，在伦敦大学 IOE 掀起文化主义与实证主义[[Problem Approach|问题法]]的激烈范式论战。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–93)]]
 > - **1980s–1990s — 教育研究中的“[[Paradigm Wars|范式战争]]”与[[Mixed Methods Research|混合方法]]调和** 教育学术界在定量实证范式与质性[[Constructivist Paradigm|建构主义范式]]之间展开长达十余年的“范式战争”；随后[[Mixed Methods Research|混合方法研究]]确立以[[Pragmatic Paradigm|实用主义]]（Pragmatism）为哲学根基，架桥弥合二元对立。（Gage, 1989; Tashakkori & Teddlie, 1998）
 > - **1990s–2010s — 后现代解构、系统论[[Autopoiesis|自创生]]与跨文化融合** 斯坦福[[World-Systems Theory|世界体系理论]]、后现代文化[[Pluralism|多元主义]]与[[Niklas Luhmann|尼克拉斯·卢曼]]的自创生系统论进入比较教育；施里维尔开创意义[[Externalization|外化]]比较范式，同时比较教育与多民族移民社会的[[Intercultural Education|跨文化教育]]实现范式合流。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94, 97–98)]]
@@ -285,6 +285,7 @@ updated: 2026-11-18
 > > [!axis] [[Incommensurability|不可通约性]]坚守 vs [[Pragmatic Paradigm|实用主义]]兼容（跨范式整合）
 > > - **原教旨不可通约论（Kuhn, 1962; Guba & Lincoln, 1989）** 坚持[[Ontology|本体论]]与[[Epistemology|认识论]]公理具有排他性，一人不可同时持守两套相互矛盾的世界观；混合量化与质性方法往往导致理论折中主义与认识论混乱。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
 > > - **实用主义兼容论（Patton; Tashakkori & Teddlie）** 认为教育研究本质上是解决现实问题的实践探究，不应被抽象形而上学范式绑架；主张根据具体[[Research Question|研究问题]]灵活吸纳不同范式的有效工具。
+> > - **多尺度垂直整合范式（[[Argument_Vavrus_2006_CICE|Vavrus & Bartlett, 2006]]）** 批判学界将“范式之争”矮化为定性与定量操作技术的表层程序冲突，主张回溯深层认识论追问；提出垂直案例研究（Vertical Case Study, VCS）作为超越传统封闭个案范式与宏观跨国量化范式的新型范式，在单个纵向案例中整合微观深描与宏观政治经济学（pp. 95–97）。
 >
 > > [!axis] 社会科学是否具备“单一主导范式”
 > > - **自然[[Scientific Paradigm|科学范式]]论** 库恩最初主要基于物理学、天文学等硬科学历史，认为成熟科学应当具有全行业共享的单一正统范式（常规科学）。
@@ -338,7 +339,7 @@ updated: 2026-11-18
 > - [[Argument_Chen_2025_HSSC|Chen et al. (2025)]] — 结合折损累积增益算法与微观边际贡献测算，确证学术爆发期兼具高范式颠覆度，并揭示常规解谜高引成果对范式突破的资源挤出效应。
 > - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 系统确立科学学定量范式，实证阐明小团队颠覆既有范式、大团队深化成熟路径的生态位分工（pp. 1–5）。
 > - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 开源构建覆盖 1.34 亿篇文献的 SciSciNet 数据湖，预计算 2800 万篇颠覆性指数与 4500 万篇组合新颖性测度，在大规模跨学科样本中复现小团队开辟新范式突破等经典规律，为范式演变研究提供计算实证基底。
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang and Barabási (2021)]] — 依托《物理评论》百年文献库，量化证实开辟新范式的顶层 1% 论著所占次年引文份额从 20% 攀升至 35%，揭示科学革命奠基之作的注意力极化效应（pp. 180–181）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang and Barabási (2021)]] — 依托《物理评论》百年文献库，量化证实开辟新范式的顶层 1% 论著所占次年引文份额从 20% 攀升至 35%，揭示科学革命开创性成果的注意力极化效应（pp. 180–181）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统解构库恩范式理论、科学革命循环、[[Incommensurability|不可通约性]]论辩及其对教育研究多范式格局与方法论选择的深远影响。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 宏观审视 20 世纪欧洲比较教育从宏大历史文化全景、[[Positivism|实证主义]]争论（[[Positivist Dispute in German Sociology|Positivismusstreit]]）到当代后现代与[[Niklas Luhmann|卢曼]][[Autopoiesis|自创生]]系统论的范式更迭全景。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 阐释 [[PISA]] 驱动下教育评价从课程内聚向成人生活功能性素养的范式转换，以及[[EU|欧盟]]在[[Subsidiarity Principle|辅助性原则]]下从硬性条约法律向依托跨国数据指标的软治理范式转型。
@@ -349,3 +350,4 @@ updated: 2026-11-18
 > - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 系统揭示当代同行评审与量化考评如何作为既有主流范式的守门机制，抑制高风险的非典型理论假说并阻碍科学范式更迭。
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 对[[System-Wide Improvement|教育系统改进]]文献开展主题综合，提炼出理性选择、文化制度、课程规制与能力建设四大理论范式，解析不同范式的认识论假定与政策干预张力。
 > - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 阐明新加坡教育政策从生存与效率驱动范式向能力驱动与知识经济范式的转型历程，揭示旧范式留存的统考机制对新范式落地的制度性摩擦。
+> - [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] — 批判将范式争论降格为方法操作技术争端，构建贯通微观深描与宏观政治经济学的垂直案例研究多尺度比较范式（pp. 95–97）。

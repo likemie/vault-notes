@@ -15948,9 +15948,7 @@
     "Brustein, 2006": {
       "doi": "10.1086/498471",
       "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md"
-      ],
+      "seen_in": [],
       "title": "Comparative education, area studies, and the disciplines"
     },
     "Bryant & Trabasso, 1971": {
@@ -57030,6 +57028,14 @@
       ],
       "title": "Meritocracy and Elitism in a Global City: Ideological Shifts in Singapore"
     },
+    "K. Watkins, 2001": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md"
+      ],
+      "title": ""
+    },
     "K.-H., 2005": {
       "doi": "",
       "isbn": "",
@@ -60450,7 +60456,6 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md",
         "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Nordtveit_2011_IJED.md"
       ],
       "title": "China and Africa: New approaches to aid, trade and international cooperation"
@@ -72754,7 +72759,8 @@
       "doi": "10.1086/446970",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md"
+        "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md",
+        "wiki/concepts/educational-philosophy/Epistemology.md"
       ],
       "title": "Ways of knowing: Implications for comparative education"
     },
@@ -78662,9 +78668,7 @@
     "Motivans, 2006": {
       "doi": "10.1086/498471",
       "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md"
-      ],
+      "seen_in": [],
       "title": "Comparative education, area studies, and the disciplines"
     },
     "Motteram, 2016": {
@@ -105339,6 +105343,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md",
+        "wiki/concepts/comparative-education/Context in Comparative Education.md",
         "wiki/concepts/comparative-education/The Nation-State as the Unit of Comparison.md"
       ],
       "title": "Recent Curriculum Developments in France, West Germany and Italy"
@@ -106131,7 +106136,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md"
+        "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md",
+        "wiki/concepts/higher-education/Disciplinary Institutionalization.md"
       ],
       "title": "Comparatively speaking: An oral history of the first 50 years of the Comparative and International Education Society"
     },
@@ -117251,9 +117257,7 @@
       ],
       "doi": "",
       "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md"
-      ],
+      "seen_in": [],
       "title": "Correlates of Approaches to Learning: A Cross-Cultural Meta-Analysis"
     },
     "Watkins, 2007": {

@@ -169,7 +169,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 
 ---
@@ -215,6 +215,7 @@ updated: 2026-11-19
 > - **批判认识论与世界体系抗争（Critical Epistemology & Epistemological Protest）** [[Immanuel Wallerstein|沃勒斯坦]]（Wallerstein, 2000; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）将[[World-Systems Theory|世界体系分析]]界定为对抗“欺骗性认识论”（deceptive epistemologies）的智识反抗，主张必须彻底反思并解构 19 世纪社会科学将学科割裂、将事实与价值绝对二分的非[[Reflexivity|反思性]]前提，确立“探寻真理”（the search for the true）与“追求正义社会”（the search for the good）在批判认识论上的内在同构与不可分割。
 > - **[[Protean Episteme|普罗透斯式认识体系]]（Protean Episteme）** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）将跨学科探究（如比较教育学）的知识体系定义为能够随时代智识思潮、方法风尚与意识形态诉求而不断变换装束的“[[Protean Episteme|普罗透斯式认识体系]]”，揭示了社会探究认识论历史性、流变性与多学科交叉融合的内在本质。
 > - **[[Empiricism|唯方法论主义]]批判（Critique of Methodologism）** [[Bernard Barber|伯纳德·巴伯]]（Bernard Barber, 1973）与卡扎米亚斯揭示了实证主义认识论在现代社会科学中[[Alienation|异化]]出的技术拜物教——将科学严谨性狭隘等同于统计建模与[[Variable|变量]]测算，误把方法工具当成实质知识本身，导致认识论深度的严重贫困与价值伦理的彻底放逐。
+> - **比较认知与多尺度批判认识论（Comparatively Knowing & Multi-Scalar Epistemology）** [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] 批判比较教育学界将认识论争端降格为定性与定量的表层操作程序争吵，主张回溯比较认知的哲学本质（Comparatively Knowing）。结合马塞曼（Masemann, 1990）对狭隘“认知方式”束缚学科定义的反思，垂直案例研究将比较认识论拓展为多尺度纵向对质：既超越抹杀情境的普遍主义，又避免隔绝案例的极端相对主义，在认识论上赋予微观地方知识与官方权威话语平等的对等审视地位。[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, pp. 95–97, 100–101)]]
 > - **评价认识论的效用转向（Assessment Epistemology & Utilitarian Shift）** [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 26–27, 35)]] 揭示，国际大规模测评（如 [[OECD]] 的 [[PISA]]）在教育评价领域确立了新型评价认识论：摆脱具体国家课程知识再现的判准，转向以应对未来生活挑战的通用胜任力、[[Lifelong Learning|终身学习]]倾向及[[Self-Efficacy|自我效能感]]等非认知自我规制特质为有效知识核心，将教育产出重构为支撑[[Knowledge-Based Economy|知识经济]]的直接输入。
 > - **非西方关系性认识论与天下框架（Relational Epistemology & [[Tianxia Heuristic]]）** [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024, pp. 1703–1705)]] 引入非西方传统中的“天下”认识论启发框架，打破西方实证与后实证主义对个体与实体的绝对二分，强调以关系性与共生共存为认知基底。该认识论将全球等级制与平等主义视作相互渗透的连续体，为解析跨国知识网络、地缘高等教育治理与[[Knowledge Diplomacy|知识外交]]中的不对称权力互动提供了超越二元对立的认识论透镜。
 > - **发生认识论与教育知识的动态可错性（[[Piaget's Theory of Cognitive Development|Genetic Epistemology]] & Dynamic Fallibility）** [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022, pp. 654–655)]] 结合让·[[Jean Piaget|皮亚杰]]（Jean Piaget）的发生认识论与[[Basil Bernstein|伯恩斯坦]]（Basil Bernstein）关于教育学[[Horizontal Knowledge Structure|弱语法]]知识结构的论述，揭示教育知识是一个随着主体情境互动而持续生成的动态演进形态；任何将特定学术流派固化为技术官僚督导标准与审计常模的企图，在认识论上都属于将流变知识虚构为静态客观真理的范畴错置。
@@ -414,4 +415,5 @@ updated: 2026-11-19
 > - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 结合[[Interpretive Policy Analysis|解释性政策分析]]解构超国家政策文本中的修辞隐喻与排他性认识论层级，倡导重构兼顾制度使能环境与地方认知正义的包容性决策生态。
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 对系统改进实证[[Document|文献]]开展质性综合，对比了理性选择、文化制度、课程规制与协作网络四大路径在因果解释与变革机制上的认识论假设分歧。
 > - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch04|第 4]]、[[Argument_Hammermeister_2002_Cambridge_Ch06|6 章]]析浪漫派审美认识论与叔本华意志工具论；[[Argument_Hammermeister_2002_Cambridge_Ch09|第 9 章]]析海德格尔真理事件与科学正确性之分及伽达默尔艺术认知论；[[Argument_Hammermeister_2002_Cambridge_Ch10|第 10 章]]析阿多诺非同一性真理器官与当代美学放弃认识论的虚无困境（pp. 194–216）。
+> - [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] — 提出“比较认知”（comparatively knowing）认识论构想，批判比较教育将认识论降格为技术程序争吵，确立垂直案例研究跨越普遍主义与极端相对主义的多尺度认识论框架（pp. 95–97, 100–101）。
 
