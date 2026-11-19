@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Cochran's Q Test",
+      "path": "wiki/methods/quantitative/Cochran's Q Test.md"
+    },
+    {
+      "basename": "Co-relational Study",
+      "path": "wiki/methods/quantitative/Co-relational Study.md"
+    },
+    {
+      "basename": "Cluster Sampling",
+      "path": "wiki/methods/quantitative/Cluster Sampling.md"
+    },
+    {
+      "basename": "Cluster Randomized Trials",
+      "path": "wiki/methods/quantitative/Cluster Randomized Trials.md"
+    },
+    {
+      "basename": "Cluster Analysis",
+      "path": "wiki/methods/quantitative/Cluster Analysis.md"
+    },
+    {
       "basename": "Argument_Xie_2017_PKUER",
       "path": "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md"
     },
@@ -11,10 +31,6 @@
     {
       "basename": "Argument_Natario_2025_IndHE",
       "path": "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
-    },
-    {
-      "basename": "Cluster Analysis",
-      "path": "wiki/methods/quantitative/Cluster Analysis.md"
     },
     {
       "basename": "Visible Learning Branding and Global Influences",
@@ -71,18 +87,6 @@
     {
       "basename": "arguments",
       "path": "bases/arguments.md"
-    },
-    {
-      "basename": "Co-relational Study",
-      "path": "wiki/methods/quantitative/Co-relational Study.md"
-    },
-    {
-      "basename": "Cluster Sampling",
-      "path": "wiki/methods/quantitative/Cluster Sampling.md"
-    },
-    {
-      "basename": "Cluster Randomized Trials",
-      "path": "wiki/methods/quantitative/Cluster Randomized Trials.md"
     },
     {
       "basename": "Argument_Hammermeister_2002_Cambridge_Ch06",
@@ -195,10 +199,6 @@
     {
       "basename": "Causal Modeling",
       "path": "wiki/methods/quantitative/Causal Modeling.md"
-    },
-    {
-      "basename": "Career Shuffling Method",
-      "path": "wiki/methods/quantitative/Career Shuffling Method.md"
     }
   ],
   "omittedPaths": [],

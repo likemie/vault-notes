@@ -7,7 +7,7 @@ aliases:
 summary: "一种将课程与教学视为文化政治斗争场域的批判教育哲学，主张以学生的活经验为起点，通过对话式提问、批判意识觉醒与可能性的语言，解构传统储蓄式教育与当代数智异化中的权力压迫，旨在培育具有自主性与社会解放潜能的批判求知者。"
 type: concept
 domain: "educational-philosophy"
-related_count: 62
+related_count: 63
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -86,10 +86,11 @@ related_arguments:
   - "[[Argument_Stone_2020_PolSoc]]"
   - "[[Argument_Partaken_2022_Springer]]"
   - "[[Argument_Rust_2009_Reflections]]"
+  - "[[Argument_Silova_2009_EE]]"
 confidence: high
 status: active
 created: 2026-06-17
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 
 ---
@@ -97,7 +98,7 @@ updated: 2026-11-19
 > [!def] Critical Pedagogy
 > 批判教育学（Critical Pedagogy，亦作解放教育学）是一种将学校课程、知识传递与师生互动界定为文化政治[[Champ|场域]]的规范性教育哲学。它源于法兰克福学派[[Critical Theory|批判理论]]、拉美[[Liberation Theology|解放神学]]与[[Paulo Freire|保罗·弗莱雷]]（Paulo Freire）的解放实践，主张教育必须从学生的真实活经验出发，审视日常压迫与被沉默体验中蕴含的意识形态控制。在[[Theory of Knowledge|知识论]]层面，批判教育学坚决拒斥将学生视为空容器的[[Banking Model of Education|储蓄式教育]]（Banking Model of Education），倡导通过[[Problem-Posing Education|提问式教育]]（Problem-Posing Education）与反思实践（[[Praxis]]）唤醒批判意识（[[Conscientization|conscientização]]）；在当代数智技术背景下，它进一步拓展为抵抗算法全流程代劳的批判工具，致力于打破对[[Generative Artificial Intelligence|生成式人工智能]]的权威迷信，捍卫学生的[[Epistemic Agency|认识主体性]]与社会解放自主性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 145–148)]]; [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 5–9)]]; [[Argument_Smith_2026_SPE|(Smith, 2026, pp. 10–11)]]; [[Argument_Stone_2020_PolSoc|(Stone et al., 2020, p. 7)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 课程与教学是不同社会阶层与文化群体争夺[[Discourse|话语]]权与合法性的文化政治场域，排除了[[Value Neutrality|价值中立]]的技术传递假定。
 > - **用途** 帮助研究者与一线教师识别课程安排与智能技术中的意识形态支配，将教学从顺从性灌输转化为促发批判意识与主体赋权的解放过程。
 > - **边界** 属于规范性批判哲学而非描述性量化模型；提供的是价值反思与实践重构方向，不能机械等同于[[Operationalization|操作化]]的[[Classroom Management|课堂管理]]技巧或单一的教学技能模板。
@@ -124,7 +125,7 @@ updated: 2026-11-19
 
 ---
 
-> [!contrast-table] 批判教育学与[[Positivism|实证主义]]课程论及数字[[Banking Model of Education|储蓄式教育]]模式辨析
+> [!contrast-table|notitle] 概念辨析
 > | 比较维度 | 实证主义 / [[Tyler Rationale\|泰勒原理]]课程论 | 经典批判教育学（Freire, 1972） | 数字储蓄式教育模式（[[Argument_Smith_2026_SPE\|Smith, 2026]]） |
 > |---|---|---|---|
 > | **底层[[Epistemology\|认识论]]** | [[Positivism\|实证主义]]客观真理观，知识与价值中立分割 | 辩证唯物主义与解释认识论，知识由人机/人际社会建构 | 统计概率生成论，将算法文本误设为全知先知 |
@@ -198,7 +199,7 @@ updated: 2026-11-19
 > **教育即政治与超越西方资本主义现代性** 伊拉·肖尔与[[Paulo Freire|保罗·弗莱雷]]（Shor & Freire, 1987）深刻指出，教育在本质上蕴含着鲜明的政治属性，根本不存在脱离政治意识形态的中立教育。[[Val D. Rust|瓦尔·拉斯特]]等人（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）进一步结合[[Henry Giroux|吉鲁]]（Henry Giroux）的再生产理论，批判主流比较教育学长期将追求西方工业现代性作为定义教育的潜意识基准，实质上合谋了资本主义跨国扩张；核心国家通过附带苛刻前置条件的跨国援助与[[Structural Adjustment Programs|结构调整方案]]，向发展中国家强制移植私有化体制与依附性[[Hidden Curriculum|隐蔽课程]]。[[UNESCO|联合国教科文组织]]《[[Education for All|全民教育]]》（EFA）在亚非拉的推进历程表明，被迫照搬外部市场化模式的国家普遍受挫，而坚持主权自决与社会主义人道主义国家动员的古巴则取得了突出的教育成就。比较教育学必须彻底扬弃技术官僚干涉，转向以主权自决与社会正义为核心的解放实践（praxis of liberation）。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 133–135)]]
 
 > [!claim] Stone, D., Porto de Oliveira, O., & Pal, L. A.
-> **[[Representational Knowledge|代表性知识]]反向流动打破北方中心[[Paradigm|范式]]垄断** 黛安·斯通等学者（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）指出，批判教育学在发轫之初即深深植根于全球南方的生存体验与底层道义团结（Freire, 1970）。20 世纪 70 年代，弗莱雷在流亡期间通过世界基督教协进会以及与坦桑尼亚总统朱利叶斯·尼雷尔（Julius Nyerere）等南方领袖的实践合作，推动以意识化与批判性对话为核心的代表性知识反向流动至日内瓦、欧洲和北[[Philosophical Aesthetics|美学]]术界，打破了全球北方对教育知识流动的单向技术垄断，在跨国政策空间确立了具有南方向北方扩散特征的解放范式。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 6–7)]]
+> **[[Representational Knowledge|代表性知识]]反向流动打破北方中心[[Paradigm|范式]]垄断** 黛安·斯通等学者（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）指出，批判教育学在发轫之初即深深植根于全球南方的生存体验与底层道义团结（Freire, 1970）。20 世纪 70 年代，弗莱雷在流亡期间通过世界基督教协进会以及与坦桑尼亚总统朱利叶斯·尼雷尔（Julius Nyerere）等南方领袖的实践合作，推动以意识化与批判性对话为核心的代表性知识反向流动至日内瓦、欧洲和北美学术界，打破了全球北方对教育知识流动的单向技术垄断，在跨国政策空间确立了具有南方向北方扩散特征的解放范式。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 6–7)]]
 
 ---
 
@@ -213,7 +214,7 @@ updated: 2026-11-19
 ---
 
 > [!dev-timeline] 概念演变
-> - **1960–1970s — 解放实践奠基期** [[Paulo Freire|保罗·弗莱雷]]在巴西贫困农村扫盲运动中践行批判意识培养，1968/1972 年出版《被压迫者教育学》，提出[[Banking Model of Education|储蓄式教育]]批判、[[Problem-Posing Education|提问式教育]]与反思实践（[[Praxis]]），确立批判教育学的理论基石。
+> - **1960–1970s — 解放实践形成期** [[Paulo Freire|保罗·弗莱雷]]在巴西贫困农村扫盲运动中践行批判意识培养，1968/1972 年出版《被压迫者教育学》，提出[[Banking Model of Education|储蓄式教育]]批判、[[Problem-Posing Education|提问式教育]]与反思实践（[[Praxis]]），确立批判教育学的理论基石。
 > - **1970s — 南方向北方反向流动与跨国解放范式确立** 弗莱雷流亡日内瓦并与坦桑尼亚总统尼雷尔展开[[South-South Cooperation|南南合作]]，推动批判教育学作为代表性知识向欧洲与北美学界反向流动，确立全球跨国教育扩散的解放范式。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 6–7)]]
 > - **1980–1990s — 北美理论建构与文化政治转向** [[Henry Giroux|亨利·吉鲁]]（Henry Giroux）、彼得·麦克拉伦（Peter McLaren）与[[Michael W. Apple|迈克尔·阿普尔]]（Michael Apple）等学者将法兰克福学派[[Critical Theory|批判理论]]引入北美课程领域，提出可能性的语言与抵制理论，将学校定义为阶级、种族与性别[[Discourse|话语]]争夺的文化政治[[Champ|场域]]。
 > - **2000–2010s — 全球化反思、[[Geopolitics of Knowledge|知识地缘政治]]与跨国再生产批判** 批判教育学进一步与[[Post-colonial Theory|后殖民理论]]、全球南方视角以及[[Geopolitics of Knowledge|知识地缘政治]]交织；学者运用储蓄式教育概念剖析[[Forced Knowledge Transfer|强制知识转移]]与跨国[[Policy Borrowing|政策借用]]中的隐性权力梯度（[[Argument_Partaken_2022_Springer|Partaken, 2022]]）；拉斯特等学者（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）将吉鲁与弗莱雷的再生产批判引入全球化教育响应研究，确立了跨国解放实践[[Paradigm|范式]]。

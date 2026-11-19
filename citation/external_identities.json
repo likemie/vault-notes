@@ -25374,6 +25374,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md",
+        "wiki/concepts/educational-policy-reform/Local Knowledge in Evidence-Based Policy.md",
         "wiki/concepts/research-methodology/Ecological Validity.md"
       ],
       "title": "Case study research methods and comparative education"
@@ -72772,6 +72773,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md",
+        "wiki/concepts/curriculum/Ways of Knowing.md",
         "wiki/concepts/educational-philosophy/Epistemology.md"
       ],
       "title": "Ways of knowing: Implications for comparative education"
@@ -97307,7 +97309,8 @@
       "doi": "",
       "isbn": "978-0847688173",
       "seen_in": [
-        "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md"
+        "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md",
+        "wiki/concepts/educational-policy-reform/Local Knowledge in Evidence-Based Policy.md"
       ],
       "title": "Institutionalising international influence"
     },
@@ -115164,6 +115167,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "The effects of gamification on computerized cognitive training: systematic review and meta-analysis."
+    },
+    "Verna Masemann, 1990": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/curriculum/Ways of Knowing.md"
+      ],
+      "title": ""
     },
     "Vernon & Blake, 1993": {
       "datasets": [
