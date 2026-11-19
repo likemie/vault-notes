@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 134
+fact_related_count: 136
 fact_related_level: 13
 fact_related_stars: "💎💎💎💎⭐"
 fact_related_color: "#fecdd3"
@@ -105,6 +105,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Classroom Observation]]"
   - "[[Difference-in-Differences]]"
+  - "[[Fieldwork]]"
   - "[[Comparative Case Study]]"
   - "[[Analytic Framework]]"
 related_instruments:
@@ -163,13 +164,13 @@ related_arguments:
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Zapp_2017_IJED]]"
   - "[[Argument_Stone_2020_PolSoc]]"
+  - "[[Argument_Nordtveit_2011_IJED]]"
   - "[[Argument_WorldBank_2019_Teach]]"
   - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
-  - "[[Argument_Santos_Silova_2026_Discourse]]"
-  - "[[Argument_Nordtveit_2011_IJED]]"
   - "[[Argument_Vavrus_2006_CICE]]"
+  - "[[Argument_Santos_Silova_2026_Discourse]]"
 confidence: high
 status: active
 created: 2026-09-12
@@ -332,7 +333,7 @@ updated: 2026-11-20
 > > [!axis] 结构调整与[[Market Fundamentalism|市场原教旨主义]]的后殖民破坏
 > > 发展社会学家与全球南方批评家指控世行贷款长期推行[[Neoliberalism|新自由主义]]紧缩政策。
 > >
-> > - **批判政治经济学派与[[Evolutionary Economics|演化经济学]]批判（Bonal, 2002; Heyneman, 2003; [[Argument_Freeman_1995_CJE|Freeman, 1995]]）** 批评 1980–1990 年代世行推行的结构调整计划强迫借贷国冻结教师编制、引入公立学校用户收费并加速民办私立化，给撒哈拉以南非洲和拉美公共教育系统造成严重冲击；世行前资深教育专员[[Stephen P. Heyneman|海尼曼]]（Stephen Heyneman, 2003）亦坦承，世行长期主导的[[Cost-Benefit Analysis|成本效益分析]]与教育生产函数框架存在根本性缺陷，给更具公平性与效能的教育政策带来了严重的消极后果；[[Chris Freeman|克里斯·弗里曼]]（Chris Freeman, 1995）进一步指出，世行对拉美强加的财政紧缩迫使国家压缩高等技术教育与工程研发支持，导致巴西等国的高等教育毛入学率与工程师供给停滞不前，摧毁了应对第三次技术革命（信息通信技术）所需的[[National Innovation System|国家创新系统]]能力，形成了深刻的依附性发展锁定；诺特维特（[[Argument_Nordtveit_2011_IJED|Nordtveit, 2011]]）在非洲受援国的田野调查亦表明，布雷顿森林机构强加的治理附加条件与紧缩削减使受援国公共开支深陷被动，促使受援国决策层转向偏好不附带政治条件的双边务实合作；瓦夫鲁斯与巴特利特基于坦桑尼亚田野考察指出，世行推行结构调整与教育成本分摊预设市场化收费能提升办学资源配置效率，但在农村社区却直接导致贫困家庭负担激增与学生大面积失学，显露宏观经济模型脱离微观社会情境的局限。[[Argument_Arnove_2009_WorldSystems|(Heyneman, 2003, cited in Arnove, 2009, p. 110)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 13–15)]]; [[Argument_Nordtveit_2011_IJED|(Nordtveit, 2011, pp. 105–106)]]; [[Argument_Vavrus_2006_CICE|(Vavrus, 2005; Vavrus & Bartlett, 2006, pp. 95, 99)]]
+> > - **批判政治经济学派与[[Evolutionary Economics|演化经济学]]批判（Bonal, 2002; Heyneman, 2003; [[Argument_Freeman_1995_CJE|Freeman, 1995]]）** 批评 1980–1990 年代世行推行的结构调整计划强迫借贷国冻结教师编制、引入公立学校用户收费并加速民办私立化，给撒哈拉以南非洲和拉美公共教育系统造成严重冲击；世行前资深教育专员[[Stephen P. Heyneman|海尼曼]]（Stephen Heyneman, 2003）亦坦承，世行长期主导的[[Cost-Benefit Analysis|成本效益分析]]与教育生产函数框架存在根本性缺陷，给更具公平性与效能的教育政策带来了严重的消极后果；[[Chris Freeman|克里斯·弗里曼]]（Chris Freeman, 1995）进一步指出，世行对拉美强加的财政紧缩迫使国家压缩高等技术教育与工程研发支持，导致巴西等国的高等教育毛入学率与工程师供给停滞不前，摧毁了应对第三次技术革命（信息通信技术）所需的[[National Innovation System|国家创新系统]]能力，形成了深刻的依附性发展锁定；诺特维特（[[Argument_Nordtveit_2011_IJED|Nordtveit, 2011]]）在非洲受援国的[[Fieldwork|田野调查]]亦表明，布雷顿森林机构强加的治理附加条件与紧缩削减使受援国公共开支深陷被动，促使受援国决策层转向偏好不附带政治条件的双边务实合作；瓦夫鲁斯与巴特利特基于坦桑尼亚田野考察指出，世行推行结构调整与教育成本分摊预设市场化收费能提升办学资源配置效率，但在农村社区却直接导致贫困家庭负担激增与学生大面积失学，显露宏观经济模型脱离微观社会情境的局限。[[Argument_Arnove_2009_WorldSystems|(Heyneman, 2003, cited in Arnove, 2009, p. 110)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 13–15)]]; [[Argument_Nordtveit_2011_IJED|(Nordtveit, 2011, pp. 105–106)]]; [[Argument_Vavrus_2006_CICE|(Vavrus, 2005; Vavrus & Bartlett, 2006, pp. 95, 99)]]
 > > - **世行辩护** 强调结构性改革旨在破除[[Development Education|发展中国家教育]]系统的寻租腐败与非生产性财政冗员，优先保证贫困人口享有最基本的初等读写算技能。
 >
 > > [!axis] [[Financial-Intellectual Complex|金融-智识复合体]]与单一体信贷逻辑：技术中立政策建议 vs 跨国资本规训同盟

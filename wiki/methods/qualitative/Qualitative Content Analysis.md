@@ -9,7 +9,7 @@ summary: "将规则主导的系统性程序与质性诠释深度融合的文本�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 34
+method_related_count: 36
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Emergence]]"
   - "[[Paradigm]]"
+  - "[[China Competence]]"
   - "[[Transnational Education]]"
 related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"
@@ -61,16 +62,17 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30]]"
   - "[[Argument_Santos_Silova_2026_Discourse]]"
   - "[[Argument_Dedering_2009_EERJ]]"
+  - "[[Argument_Luo_2026_IFDCK]]"
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-11-11
+updated: 2026-11-20
 ---
 
 ---
 
 > [!def] Qualitative Content Analysis
-> **质性[[Content Analysis|内容分析]]（Qualitative Content Analysis，简称 QCA，又称质性文本分析）** 是一种将定性诠释学的深度语境理解与经典内容分析的严密规则性相融合的实证文本分析方法。由德国心理学与教育学方法学家菲利普·迈林（Philipp Mayring, 2000, 2004, 2014）系统奠基。该方法将分析置于传播生成情境中，依托逐级抽象释义、编码指南（Coding agenda）与形成性复核（Formative [[Reliability|reliability]] check），从经验材料中系统提炼出兼具理论严谨性与情境扎根性的范畴体系。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|(Cohen et al., 2011, pp. 563, 567)]]
+> **质性[[Content Analysis|内容分析]]（Qualitative Content Analysis，简称 QCA，又称质性文本分析）** 是一种将定性诠释学的深度语境理解与经典内容分析的严密规则性相融合的实证文本分析方法。由德国心理学与教育学方法学家菲利普·迈林（Philipp Mayring, 2000, 2004, 2014）系统创立并阐发。该方法将分析置于传播生成情境中，依托逐级抽象释义、编码指南（Coding agenda）与形成性复核（Formative [[Reliability|reliability]] check），从经验材料中系统提炼出兼具理论严谨性与情境扎根性的范畴体系。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|(Cohen et al., 2011, pp. 563, 567)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 访谈[[Transcription in Qualitative Research|转录]]文稿、政策公文、教科书、公开档案、开放[[Questionnaire|问卷]]作答及机构会议纪要等传播文本。
@@ -153,4 +155,5 @@ updated: 2026-11-11
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al. (2011)]] — 整合 Mayring 质性内容分析的三大核心进路与形成性复核规程，确立其在教育研究文本分析中的基础地位。
 > - [[Argument_Dedering_2009_EERJ|Dedering (2009)]] — 运用 Mayring 质性内容分析法对德国 4 州教育部官员访谈与公文系统编码，揭示实证监测工具在科层实践中的常态化应用。
+> - [[Argument_Luo_2026_IFDCK|Luo (2026)]] — 运用 Mayring 质性内容分析法对 2015 至 2024 年间德国联邦对华政策文本、资助指南与智库报告系统编码，重构“[[China Competence|中国能力]]”从合作建构向去风险安全治理的动态演化。
 > - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 运用 Mayring (2014) 质性内容分析法处理 23 位[[Transnational Education|跨国教育]]专家访谈文本与国际组织政策公文，解构全球学习危机话语的权力逻辑。

@@ -11,10 +11,10 @@ subtype: policy
 region: "global"
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 49
-fact_related_level: 4
-fact_related_stars: "💎⭐"
-fact_related_color: "#dbeafe"
+fact_related_count: 52
+fact_related_level: 5
+fact_related_stars: "💎⭐⭐"
+fact_related_color: "#fecdd3"
 issuing_organization: "[[UNESCO]], [[World Bank]], [[UNICEF]], UNDP"
 tags:
   - fact/policy
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Development Education]]"
   - "[[Engineering Education]]"
+  - "[[Heterogeneity]]"
   - "[[Governing by Numbers]]"
   - "[[Discourse]]"
 related_theories:
@@ -47,7 +48,8 @@ related_theories:
   - "[[Critical Theory]]"
   - "[[Systems of Innovation]]"
   - "[[Typology of Educational Responses to Globalization]]"
-related_methods: []
+related_methods:
+  - "[[Fieldwork]]"
 related_instruments: []
 related_persons:
   - "[[Chris Freeman]]"
@@ -79,6 +81,7 @@ related_arguments:
   - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Santos_Silova_2026_Discourse]]"
   - "[[Argument_King_2007_CE]]"
+  - "[[Argument_Vavrus_2006_CICE]]"
 confidence: high
 status: active
 created: 2026-09-12
@@ -206,6 +209,12 @@ updated: 2026-11-20
 > >
 > > - **世行传统[[Human Capital Theory|人力资本]]收益率论（Psacharopoulos & Woodhall, 1985）** 依据微观初等教育极高的私人回报率测算，主张后发国家应将几乎全部教育援助资源压注于小学基础教育，甚至建议压缩对中等与[[Engineering Education|高等工程教育]]的公共投入。
 > > - **国家[[Systems of Innovation|创新系统]]与技术[[Absorptive Capacity|吸收能力]]论（弗里曼，1995）** 反驳了孤立看待初等教育的狭隘视角，强调基础教育普及虽是必要前提，但若缺乏与中等职业技术培训、高等工科教育的系统性衔接，后发国家将陷入低技能锁定陷阱。韩国的赶超经验表明，基础教育普及必须与高等工程教育的扩张形成协同咬合（韩国高等教育入学率 32%，工科生占人口 0.54%），才能真正将人口转化为吸收外国技术的国家创新能力；而巴西将资源孤立分散且高等技术教育停滞（入学率 11%，工科生占人口 0.13%），导致国家整体技术能力在外部债务危机面前全面溃退。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 13–15)]]
+>
+> > [!axis] 宏观扫盲指标跨国可比性预设 vs 本土文化实践中识字内涵的[[Heterogeneity|异质性]]
+> > 围绕全民教育全球监测报告中的宏观统计指标是否具备实质跨国可比性的争论。
+> >
+> > - **批判与微观人类学视角（瓦夫鲁斯与巴特利特）** 指出《全民教育全球监测报告》（UNESCO, 2006）广泛宣称女性识字具有降低婴儿死亡率等普遍因果效应，但各国对“识字”的统计口径与测度标准差异巨大，单纯依赖宏观指标开展跨国比较容易使用缺乏真实可比性的数据；微观[[Fieldwork|田野研究]]表明识字是深嵌于地方文化脉络的异质实践，无法被还原为单一的标准化读写技能。[[Argument_Vavrus_2006_CICE|(UNESCO, 2006; Vavrus & Bartlett, 2006, pp. 95–96, 99)]]
+> > - **多边监测与统计规划立场** 强调建立全球统一的扫盲与入学基准是评估发展中国家履约进展、动员国际官方发展援助（ODA）并向主权政府施加同侪问责压力的必要管理工具。
 
 > [!citation-card] 全民教育目标下的结构调整与量化依赖
 > 世界银行对[[Development Education|发展中国家教育]]的影响源于其资金实力以及对管理主义-科学效率的宣称，其典型代表是高度官僚化的贷款周期和[[Poverty Reduction Strategy Papers|减贫战略文件]]等管理工具。伴随全民教育的推进，这种量化指标体系迅速膨胀，最终构筑起对整个受援国教育系统的深层规制。Elfert & Ydesen (2023, p. 100, 引自 Steiner-Khamsi et al., 2024, p. 541)
@@ -241,4 +250,5 @@ updated: 2026-11-20
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 从圈内高阶官员实务视角，披露 1990 年宗迪恩大会由世界银行强势主导、[[UNESCO|教科文组织]]理念领导权终结的历史内幕，并以“信贷约束迫使政策落地”和“[[Disbursement-Driven Evaluation|放贷驱动评估]]造成在校无学”揭示全民教育推进中的多边制度逻辑（pp. 466, 470–474）。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 援引[[UNESCO|联合国教科文组织]] 2006 年《[[Global Education Monitoring Report|全民教育全球监测报告]]》，反思全球化外援依附对受援国达标的消极后果，以古巴国家动员为例论证主权自决对于保障全民受教育权的核心机制（p. 134）。
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 从历史与[[National Innovation System|国家创新系统]]视角，对比韩国与巴西在基础教育普及与工科人才储备上的悬殊反差，论证教育链条对后发国家技术[[Absorptive Capacity|吸收能力]]与经济韧性的决定性作用（pp. 13–15）。
+> - [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] — 结合教科文组织《全民教育全球监测报告》（UNESCO, 2006）成人扫盲指标，揭示跨国宏观可比性预设与各国扫盲测度标准异质性之间的脱节，批判还原主义指标忽视地方文化情境的局限。
 > - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 从全球教育治理史学视角，揭示全民教育将教育窄化为可测量个人技能指标并最终演变为“学习危机”干预修辞的制度逻辑。

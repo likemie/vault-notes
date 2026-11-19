@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 33
+fact_related_count: 35
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Policy Conditionalities]]"
   - "[[International Education]]"
   - "[[Policy Borrowing]]"
+  - "[[Shared Book Approach]]"
   - "[[Class Size]]"
   - "[[Shadow State]]"
   - "[[State Educational Sovereignty]]"
@@ -64,8 +65,8 @@ related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Castro_2009_MultilateralBanks]]"
   - "[[Argument_Legrand_2012_PolStud]]"
-  - "[[Argument_Nordtveit_2011_IJED]]"
   - "[[Argument_Vavrus_2006_CICE]]"
+  - "[[Argument_Nordtveit_2011_IJED]]"
 confidence: high
 status: active
 created: 2026-09-29
@@ -116,7 +117,7 @@ updated: 2026-11-20
 > ```
 
 > [!finding-cards] 核心金融产品与宏观监控矩阵
-> - **备用信贷安排与扩展基金安排（Stand-By Arrangements & Extended Fund Facility, SBA/EFF）** 面向面临急性或中期国际收支失衡的成员国提供附带分阶段财政赤字压降、货币贬值与外债控制指标的分批贷款工具。
+> - **备用信贷安排与扩展基金安排（Stand-By Arrangements & Extended Fund Facility, [[Shared Book Approach|SBA]]/EFF）** 面向面临急性或中期国际收支失衡的成员国提供附带分阶段财政赤字压降、货币贬值与外债控制指标的分批贷款工具。
 > - **减贫与增长信托与优惠融资（Poverty Reduction and Growth Trust, PRGT）** 面向低收入国家提供零息或超低息优惠应急流动性，声称引入“社会支出底线（Social Spending Floors）”，但往往伴随严苛的经常性公共支出压缩。
 > - **第四条款双边宏观经济磋商报告（Article [[Instrumental Variables|IV]] Consultation Reports）** 每年由驻国代表团对成员国财政预算、经常账户与主权债务可持续性进行现场全面审计，对主权政府编制预算构成实质性超国家审查。
 > - **旗舰研究与全球风险监测（World Economic Outlook & Global Financial Stability Report, WEO/GFSR）** 定期发布全球与区域经济预测，设定国际资本流动与宏观风险基准，主导全球经济治理议程。

@@ -10874,6 +10874,21 @@
     ]
   },
   {
+    "title": "China Competence",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/China Competence.md",
+    "aliases": [
+      "中国能力",
+      "对华能力",
+      "涉华能力",
+      "China-Kompetenz",
+      "涉华素养",
+      "对华胜任力",
+      "独立中国能力",
+      "Independent China Competence"
+    ]
+  },
+  {
     "title": "Cold War University",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Cold War University.md",
@@ -56091,6 +56106,11 @@
     "title": "Argument_Natario_2025_IndHE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
+  },
+  {
+    "title": "Argument_Luo_2026_IFDCK",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
   },
   {
     "title": "Argument_Yang_2023_ICE",

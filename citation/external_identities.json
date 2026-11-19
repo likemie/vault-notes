@@ -3832,7 +3832,6 @@
         "wiki/concepts/comparative-education/Scientific Paradigm.md",
         "wiki/concepts/educational-philosophy/Positivism.md",
         "wiki/concepts/educational-philosophy/Subjectivism.md",
-        "wiki/persons/uk/Brian Holmes.md",
         "wiki/persons/us/C. Arnold Anderson.md"
       ],
       "title": "Methodology of comparative education"
@@ -6415,11 +6414,27 @@
       ],
       "title": ""
     },
+    "BMBF, 2016": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
+      ],
+      "title": ""
+    },
     "BMBF, 2017": {
       "doi": "",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Beiträge zur Schulentwicklung/Argument_Manitius_vanHolt_2019_BzS.md"
+      ],
+      "title": ""
+    },
+    "BMBF, 2021a": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
       "title": ""
     },
@@ -7935,7 +7950,6 @@
         "wiki/concepts/educational-philosophy/Positivism.md",
         "wiki/concepts/educational-philosophy/Value Neutrality.md",
         "wiki/concepts/research-methodology/Variable.md",
-        "wiki/persons/us/Harold Noah.md",
         "wiki/persons/us/Max Eckstein.md"
       ],
       "title": ""
@@ -10370,8 +10384,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mattheou_2009_ScientificParadigm.md",
-        "wiki/persons/us/George Bereday.md"
+        "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mattheou_2009_ScientificParadigm.md"
       ],
       "title": ""
     },
@@ -10425,7 +10438,8 @@
       "doi": "10.2753/EUE1056-4934010106",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md",
+        "wiki/persons/us/George Bereday.md"
       ],
       "title": "Greetings from advisory board members"
     },
@@ -15822,6 +15836,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Australian Journal of Education/Argument_Cole_2015_AJE.md"
+      ],
+      "title": ""
+    },
+    "Brugha & Varvasovszky, 2000": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
       "title": ""
     },
@@ -36456,6 +36478,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md",
         "wiki/persons/us/Deborah Stone.md"
       ],
       "title": ""
@@ -37435,7 +37458,6 @@
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mattheou_2009_ScientificParadigm.md",
         "wiki/concepts/comparative-education/Historical-Philosophical-Cultural Motif.md",
         "wiki/concepts/educational-philosophy/Subjectivism.md",
-        "wiki/persons/uk/Brian Holmes.md",
         "wiki/persons/us/Philip Foster.md"
       ],
       "title": ""
@@ -51064,6 +51086,14 @@
       ],
       "title": ""
     },
+    "Holmes, 1969": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/uk/Brian Holmes.md"
+      ],
+      "title": ""
+    },
     "Holmes, 1981": {
       "doi": "",
       "isbn": "",
@@ -51078,7 +51108,6 @@
         "wiki/concepts/educational-philosophy/Subjectivism.md",
         "wiki/concepts/educational-philosophy/Value Neutrality.md",
         "wiki/methods/qualitative/Problem Approach.md",
-        "wiki/persons/uk/Brian Holmes.md",
         "wiki/persons/uk/Jeremy Rappleye.md"
       ],
       "title": ""
@@ -52766,6 +52795,14 @@
       ],
       "title": ""
     },
+    "Husén, 1969": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/sweden/Torsten Husén.md"
+      ],
+      "title": ""
+    },
     "Husén, 1982": {
       "doi": "",
       "isbn": "",
@@ -52774,14 +52811,6 @@
         "wiki/concepts/comparative-education/Comparative Educations.md",
         "wiki/persons/sweden/Torsten Husén.md",
         "wiki/theories/political-economy-geopolitics/Human Capital Theory.md"
-      ],
-      "title": ""
-    },
-    "Husén, 1994": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/persons/sweden/Torsten Husén.md"
       ],
       "title": ""
     },
@@ -58636,8 +58665,7 @@
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_HistoricalReflections.md",
         "wiki/concepts/research-methodology/Working Hypothesis.md",
         "wiki/persons/us/Andreas Kazamias.md",
-        "wiki/persons/us/Crane Brinton.md",
-        "wiki/persons/us/Robert Ulich.md"
+        "wiki/persons/us/Crane Brinton.md"
       ],
       "title": ""
     },
@@ -73731,6 +73759,14 @@
       ],
       "title": ""
     },
+    "Mayring, 2015": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
+      ],
+      "title": ""
+    },
     "Mazeh, 2020": {
       "datasets": [
         "eef:metacognition-and-self-regulation"
@@ -80282,14 +80318,6 @@
       "seen_in": [],
       "title": "Effectiveness of structured peer tutoring on the achievement in physics at secondary level"
     },
-    "Nash et al., 1965": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/persons/us/Robert Ulich.md"
-      ],
-      "title": ""
-    },
     "Nash, 1966": {
       "doi": "",
       "isbn": "",
@@ -81971,8 +81999,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/research-methodology/Variable.md",
-        "wiki/persons/us/Harold Noah.md"
+        "wiki/concepts/research-methodology/Variable.md"
       ],
       "title": ""
     },
@@ -81988,7 +82015,8 @@
       "doi": "10.2753/EUE1056-4934380301",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md",
+        "wiki/persons/us/Harold Noah.md"
       ],
       "title": "U.S. social and educational research during the cold war: An interview with Harold J. Noah by Gita Steiner-Khamsi"
     },
@@ -91890,6 +91918,14 @@
       ],
       "title": ""
     },
+    "Reckwitz, 2002": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
+      ],
+      "title": ""
+    },
     "Redding & Nguyen, 2020": {
       "datasets": [
         "metax:S0605"
@@ -98521,6 +98557,14 @@
       "seen_in": [
         "wiki/concepts/comparative-education/Nation Branding.md",
         "wiki/facts/finland/Finnish Country Brand Report.md"
+      ],
+      "title": ""
+    },
+    "Schatzki, 2001": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
       "title": ""
     },
@@ -113680,7 +113724,10 @@
       "doi": "",
       "isbn": "978-9231040085",
       "seen_in": [
-        "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md"
+        "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md",
+        "wiki/facts/global/Education for All.md",
+        "wiki/facts/global/Global Education Monitoring Report.md",
+        "wiki/facts/global/UNESCO.md"
       ],
       "title": "Education for All Global Monitoring Report 2006: Literacy for Life"
     },
@@ -113829,7 +113876,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md",
+        "wiki/persons/us/Robert Ulich.md"
       ],
       "title": "Some observations concerning the study of comparative education"
     },
@@ -113838,8 +113886,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_ForgottenThemes.md",
-        "wiki/concepts/educational-philosophy/Bildung.md",
-        "wiki/persons/us/Robert Ulich.md"
+        "wiki/concepts/educational-philosophy/Bildung.md"
       ],
       "title": ""
     },
@@ -121879,6 +121926,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md",
         "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md"
       ],
       "title": ""
@@ -125239,6 +125287,14 @@
         "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md"
       ],
       "title": "高等教育扩展与入学机会差异: 1978～2003"
+    },
+    "创刊背景与学术孤立反思, 2006": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/Harold Noah.md"
+      ],
+      "title": ""
     },
     "创立, 1955": {
       "doi": "",

@@ -11,7 +11,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 41
+fact_related_count: 44
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"
@@ -32,6 +32,8 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Knowledge Transfer]]"
   - "[[Comprehensive Education]]"
+  - "[[China Competence]]"
+  - "[[Research Security]]"
   - "[[Paradigm]]"
   - "[[Evidence-Based Education]]"
   - "[[Champ]]"
@@ -74,10 +76,11 @@ related_arguments:
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Niemann_Martens_2018_GSP]]"
   - "[[Argument_Manitius_vanHolt_2019_BzS]]"
+  - "[[Argument_Luo_2026_IFDCK]]"
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-11-15
+updated: 2026-11-20
 ---
 
 ---
@@ -152,6 +155,7 @@ updated: 2026-11-15
 > - **教育数字化与基础设施战略** 出资数百亿欧元推进“学校数字化公约”（DigitalPakt Schule），支持全德中小学与职业学校宽带网络、数字化教学工具与终端配置。
 > - **前沿科学教育与卓越资助** 统筹国家卓越大学战略（Exzellenzstrategie）、[[Max Planck Society|马克斯·普朗克学会]]与[[Gottfried Wilhelm Leibniz|莱布尼茨]]学会等国家骨干科研联合会的长期财政资助。
 > - **应对 PISA 冲击的理科教学创新攻坚工程** 在首轮测评震荡后，立项资助直接对接国际评估框架的学科改进工程，包括情境中的化学（[[Chemie im Kontext|CHIK]]）、情境中的物理（PIKO）以及理科教学增效项目（[[SINUS]]），推动一线课堂从传统概念灌输转向情境化探究与产出监控。（BMBF, 2007; [[Argument_Grek_2009_JEdPolicy|Grek, 2009, pp. 29–30]]）
+> - **国际科技合作与高校“[[China Competence|中国能力]]”资助战略** 2015 年发布《中国战略 2015–2020》，设立 10 项专项资助计划（累计出资超 2400 万欧元），支持全德高校设立 11 个中国中心并资助当代中国研究；2019 年底随对华地缘格局生变提前终止旧战略，转而协同外交部推进聚焦[[Research Security|科研安全]]、出口合规与法律风控的[[China Competence|中国能力]]建设。[[Argument_Luo_2026_IFDCK|(Luo, 2026)]]
 
 ---
 
@@ -176,7 +180,7 @@ updated: 2026-11-15
 > > [!axis] 国家专项资助的行政引导 vs 大学学术生态的多元[[Paradigm|范式]]张力
 > > BMBF 通过 [[Qualitätsoffensive Lehrerbildung|QLB]] 等重大攻坚计划以巨额专项经费引导全国高校师资培养与循证转化，但在大学学术[[Champ|场域]]内部遭遇了多范式治理冲突与自主性抵制。[[Argument_Manitius_vanHolt_2019_BzS\|(Heinrich & Streblow, 2019; Manitius & van Holt, 2019, p. 13)]]
 > >
-> > - **自上而下政策导向（BMBF 与[[Positivism|实证主义]]取向）** 试图将实证证据、因果效能与清算转化确立为高校师资培养的法定基准，强调以国家项目指标考核倒逼大学内部组织变革。
+> > - **自上而下政策导向（BMBF 与[[Positivism|实证主义]]取向）** 试图将实证证据、因果效能与清算转化确立为高校师资培养的法定基准，强调以国家项目指标考核推动大学内部组织变革。
 > > - **大学内部多范式反思（学术自治与学科多元派）** 指出大学教师教育历来由[[Allgemeine Pädagogik|普通教育学]]（人文学派哲学思辨）、学科教学论（Fachdidaktik）与[[Experiential Learning|经验教育]]心理学等多重范式共存构成，国家自上而下的行政专项资助易被[[Alienation|异化]]为对学术自主的规训；若忽略大学内部异质学科文化的协商对话与制度土壤，单纯依靠国家行政协议与项目制资金注入难以催生内生性的教学实践改进。
 
 ---
@@ -197,6 +201,7 @@ updated: 2026-11-15
 > | [[Tina Seidel]] | Person | 慕尼黑工业大学讲席教授，主持 BMBF 资助的清算中心中介项目研发。 |
 > | [[Educational Evidence Clearinghouses]] | Concept | BMBF 资助代表着欧洲大陆高校依托型清算所的重要公共治理模式。 |
 > | [[Research-Practice Gap]] | Concept | BMBF 长期政策议程的核心主线，致力于消解国家科研成果与课堂实践之间的转移阻滞。 |
+| [[China Competence]] | Concept | BMBF 发起设立并主导注资的德国高校涉华科研与政策咨询能力培育计划。 |
 
 ---
 
@@ -205,4 +210,5 @@ updated: 2026-11-15
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 记录 BMBF 在 PISA 震荡后资助 CHIK 与 SINUS 等理科改进工程并转向产出监控的实证[[Document|文献]]。
 > - [[Argument_Knogler_2025_BB|Knogler et al. (2025)]] — 剖析 BMBF 在 QLB 框架下孵化 CHU 清算中心并协同 ZIB 的文献。
 > - [[Argument_Hartong_2018_GSE|Hartong (2018)]] — 剖析 BMBF 在国家教育监测[[Total War|总体战]]略与跨尺度[[Data Infrastructure|数据基础设施]]中的联邦治理定位。
+> - [[Argument_Luo_2026_IFDCK|Luo (2026)]] — 系统梳理 BMBF 2015 至 2024 年间主导实施的中国战略与中国能力资助项目，揭示资助治理从双边合作向地缘安全去风险演化的政策轨迹。
 > - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 剖析 BMBF 实证教育研究框架规划（聚焦转移与实施研究）与 QLB 教师教育攻坚中的多[[Paradigm|范式]]治理张力。
