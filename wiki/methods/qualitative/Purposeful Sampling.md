@@ -69,6 +69,7 @@ related_arguments:
   - "[[Argument_Cai_Gao_Liu_2025_HE]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Lim_2015_CurricInq]]"
+  - "[[Argument_Xie_2017_PKUER]]"
 confidence: high
 status: completed
 created: 2026-06-01
@@ -187,6 +188,7 @@ updated: 2026-11-18
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 系统梳理[[Qualitative Research|质性研究]]五大设计中目的性抽样类型学、招募规程与[[Sample Size Determination|样本量]]估算基准（Ch. 9）。
+> - [[Argument_Xie_2017_PKUER|谢爱磊 (2017)]] — 在田野调查中后期依据家庭阶层差异与信息丰富度原则，运用目的性抽样从开放网络中收拢选定 22 个重点家庭展开深度个案追踪。
 > - [[Argument_Liu_2025_IndHE|Liu et al. (2025)]] — 遵循斯塔勒（Staller, 2021）抽样标准，从[[University Alliance of the Silk Road|丝绸之路大学联盟]]中目的性选取三所在石油、水利与交通领域与跨国重大工程深度合作的代表性行业高校。
 > - [[Argument_Cai_Gao_Liu_2025_HE|Cai et al. (2025)]] — 结合档案分析与目的性抽样，从[[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]]高校中锁定 30 位跨部门关键学者开展深入访谈。
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 采用目的性抽样结合追踪设计，分阶段选取 62 名不同阶层背景的名校大学生探究[[Cultural Capital|文化资本]]与生涯决策。

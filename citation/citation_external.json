@@ -64,10 +64,12 @@
     "APA, 2020": "APA, 2020",
     "ARIA (2021)": "ARIA, 2021",
     "ARIA, 2021": "ARIA, 2021",
+    "ASEAN (2015)": "ASEAN, 2015",
     "ASEAN (2022)": "ASEAN, 2022",
     "ASEAN (2024)": "ASEAN, 2024",
     "ASEAN Eminent Persons Group (2007)": "ASEAN Eminent Persons Group, 2007",
     "ASEAN Eminent Persons Group, 2007": "ASEAN Eminent Persons Group, 2007",
+    "ASEAN, 2015": "ASEAN, 2015",
     "ASEAN, 2022": "ASEAN, 2022",
     "ASEAN, 2024": "ASEAN, 2024",
     "ASIC (2021a)": "ASIC, 2021a",
@@ -183,7 +185,15 @@
     "Acemoglu & Robinson, 2008": "Acemoglu & Robinson, 2008",
     "Acharya & Johnston (2007)": "Acharya & Johnston, 2007",
     "Acharya & Johnston, 2007": "Acharya & Johnston, 2007",
+    "Acharya (2001)": "Acharya, 2001",
+    "Acharya (2005)": "Acharya, 2005",
+    "Acharya (2012a)": "Acharya, 2012a",
+    "Acharya (2012b)": "Acharya, 2012b",
     "Acharya (2014)": "Acharya, 2014",
+    "Acharya, 2001": "Acharya, 2001",
+    "Acharya, 2005": "Acharya, 2005",
+    "Acharya, 2012a": "Acharya, 2012a",
+    "Acharya, 2012b": "Acharya, 2012b",
     "Acharya, 2014": "Acharya, 2014",
     "Achieve (2004)": "Achieve, 2004",
     "Achieve, 2004": "Achieve, 2004",
@@ -3691,8 +3701,10 @@
     "Bunge, 1985": "Bunge, 1985",
     "Bunketorp (2015)": "Bunketorp, 2015",
     "Bunketorp, 2015": "Bunketorp, 2015",
+    "Burawoy (1998)": "Burawoy, 1998",
     "Burawoy et al. (2000)": "Burawoy et al., 2000",
     "Burawoy et al., 2000": "Burawoy et al., 2000",
+    "Burawoy, 1998": "Burawoy, 1998",
     "Burcham (2002)": "Burcham, 2002",
     "Burcham, 2002": "Burcham, 2002",
     "Burchinal et al. (2011)": "Burchinal et al., 2011",
@@ -4632,6 +4644,10 @@
     "Che Wenbo, 1956": "Che Wenbo, 1956",
     "Cheah (1998)": "Cheah, 1998",
     "Cheah, 1998": "Cheah, 1998",
+    "Checkel (1999)": "Checkel, 1999",
+    "Checkel (2005)": "Checkel, 2005",
+    "Checkel, 1999": "Checkel, 1999",
+    "Checkel, 2005": "Checkel, 2005",
     "Chelinsky & Mulhauser (1993)": "Chelinsky & Mulhauser, 1993",
     "Chelinsky & Mulhauser, 1993": "Chelinsky & Mulhauser, 1993",
     "Chen & Chang (2024)": "Chen & Chang, 2024",
@@ -6671,6 +6687,8 @@
     "Dogan et al., 2023": "Dogan et al., 2023",
     "Dohn (2007)": "Dohn, 2007",
     "Dohn, 2007": "Dohn, 2007",
+    "Doidge (2007)": "Doidge, 2007",
+    "Doidge, 2007": "Doidge, 2007",
     "Dolan (1993)": "Dolan, 1993",
     "Dolan (2020)": "Dolan, 2020",
     "Dolan, 1993": "Dolan, 1993",
@@ -7469,8 +7487,10 @@
     "Emaikwu, 2021": "Emaikwu, 2021",
     "Emanuele & Minoretti (2024)": "Emanuele & Minoretti, 2024",
     "Emanuele & Minoretti, 2024": "Emanuele & Minoretti, 2024",
+    "Emerson (2014)": "Emerson, 2014",
     "Emerson et al. (2011)": "Emerson et al., 2011",
     "Emerson et al., 2011": "Emerson et al., 2011",
+    "Emerson, 2014": "Emerson, 2014",
     "Emery (1992)": "Emery, 1992",
     "Emery, 1992": "Emery, 1992",
     "Emese K. Nagy (2022)": "Emese K. Nagy, 2022",
@@ -7914,6 +7934,8 @@
     "Falco, 2008": "Falco, 2008",
     "Falenchuk et al. (2017)": "Falenchuk et al., 2017",
     "Falenchuk et al., 2017": "Falenchuk et al., 2017",
+    "Falleti (2016)": "Falleti, 2016",
+    "Falleti, 2016": "Falleti, 2016",
     "Fan & Chen (2001)": "Fan & Chen, 2001",
     "Fan & Chen, 2001": "Fan & Chen, 2001",
     "Fan (1993)": "Fan, 1993",
@@ -9372,7 +9394,9 @@
     "Gilovich et al. (1985)": "Gilovich et al., 1985",
     "Gilovich et al., 1985": "Gilovich et al., 1985",
     "Gilson (2004)": "Gilson, 2004",
+    "Gilson (2005)": "Gilson, 2005",
     "Gilson, 2004": "Gilson, 2004",
+    "Gilson, 2005": "Gilson, 2005",
     "Ginns (2005)": "Ginns, 2005",
     "Ginns, 2005": "Ginns, 2005",
     "Ginsburg & Smith (2016)": "Ginsburg & Smith, 2016",
@@ -9411,6 +9435,8 @@
     "Gladney-Campbell, 2024": "Gladney-Campbell, 2024",
     "Glaeser (1998)": "Glaeser, 1998",
     "Glaeser, 1998": "Glaeser, 1998",
+    "Glas (2016)": "Glas, 2016",
+    "Glas, 2016": "Glas, 2016",
     "Glaser & Strauss (1967)": "Glaser & Strauss, 1967",
     "Glaser & Strauss, 1967": "Glaser & Strauss, 1967",
     "Glaser (1941)": "Glaser, 1941",
@@ -9899,7 +9925,9 @@
     "Grande, 2018": "Grande, 2018",
     "Granena & Yilmaz (2018)": "Granena & Yilmaz, 2018",
     "Granena & Yilmaz, 2018": "Granena & Yilmaz, 2018",
+    "Granovetter (1973)": "Granovetter, 1973",
     "Granovetter (1985)": "Granovetter, 1985",
+    "Granovetter, 1973": "Granovetter, 1973",
     "Granovetter, 1985": "Granovetter, 1985",
     "Granstrand & Holgersson (2020)": "Granstrand & Holgersson, 2020",
     "Granstrand & Holgersson, 2020": "Granstrand & Holgersson, 2020",
@@ -11223,6 +11251,10 @@
     "Hetland, 2000b": "Hetland, 2000b",
     "Hetmanek et al. (2023)": "Hetmanek et al., 2023",
     "Hetmanek et al., 2023": "Hetmanek et al., 2023",
+    "Hettne & Söderbaum (1998)": "Hettne & Söderbaum, 1998",
+    "Hettne & Söderbaum, 1998": "Hettne & Söderbaum, 1998",
+    "Hettne (2005)": "Hettne, 2005",
+    "Hettne, 2005": "Hettne, 2005",
     "Hetzel (1980)": "Hetzel, 1980",
     "Hetzel, 1980": "Hetzel, 1980",
     "Hew & Lo (2018)": "Hew & Lo, 2018",
@@ -13183,6 +13215,8 @@
     "Katz & Ordover, 1990": "Katz & Ordover, 1990",
     "Katz (1965)": "Katz, 1965",
     "Katz, 1965": "Katz, 1965",
+    "Katzenstein (2005)": "Katzenstein, 2005",
+    "Katzenstein, 2005": "Katzenstein, 2005",
     "Kaube (2014)": "Kaube, 2014",
     "Kaube, 2014": "Kaube, 2014",
     "Kauffman (1993)": "Kauffman, 1993",
@@ -14334,6 +14368,8 @@
     "Kurecka, 2000": "Kurecka, 2000",
     "Kurlantzick (2007)": "Kurlantzick, 2007",
     "Kurlantzick, 2007": "Kurlantzick, 2007",
+    "Kuroda (2009)": "Kuroda, 2009",
+    "Kuroda, 2009": "Kuroda, 2009",
     "Kurt & Kurt (2024)": "Kurt & Kurt, 2024",
     "Kurt & Kurt, 2024": "Kurt & Kurt, 2024",
     "Kurt Lewin (1946)": "Kurt Lewin, 1946",
@@ -16183,7 +16219,9 @@
     "Manlove, 2013": "Manlove, 2013",
     "Mann (1947)": "Mann, 1947",
     "Mann, 1947": "Mann, 1947",
+    "Manners (2002)": "Manners, 2002",
     "Manners (2009)": "Manners, 2009",
+    "Manners, 2002": "Manners, 2002",
     "Manners, 2009": "Manners, 2009",
     "Manning & Wong (2019)": "Manning & Wong, 2019",
     "Manning & Wong, 2019": "Manning & Wong, 2019",
@@ -19643,6 +19681,8 @@
     "Pellegrino & Hilton, 2012": "Pellegrino & Hilton, 2012",
     "Pelz (1978)": "Pelz, 1978",
     "Pelz, 1978": "Pelz, 1978",
+    "Pempel (2010)": "Pempel, 2010",
+    "Pempel, 2010": "Pempel, 2010",
     "Pence (2016)": "Pence, 2016",
     "Pence, 2016": "Pence, 2016",
     "Pencea (2021)": "Pencea, 2021",
@@ -20790,6 +20830,8 @@
     "Redfield & Rousseau, 1981": "Redfield & Rousseau, 1981",
     "Redford (2012)": "Redford, 2012",
     "Redford, 2012": "Redford, 2012",
+    "Reding (2003)": "Reding, 2003",
+    "Reding, 2003": "Reding, 2003",
     "Redline et al. (2002)": "Redline et al., 2002",
     "Redline et al., 2002": "Redline et al., 2002",
     "Reed (2001)": "Reed, 2001",
@@ -21073,6 +21115,8 @@
     "Ripoll & Aguado, 2014": "Ripoll & Aguado, 2014",
     "Risemberg (1992)": "Risemberg, 1992",
     "Risemberg, 1992": "Risemberg, 1992",
+    "Risse (2000)": "Risse, 2000",
+    "Risse, 2000": "Risse, 2000",
     "Ristanto et al. (2022)": "Ristanto et al., 2022",
     "Ristanto et al., 2022": "Ristanto et al., 2022",
     "Ritchey (2012)": "Ritchey, 2012",
@@ -21449,6 +21493,8 @@
     "Rorty, 1992": "Rorty, 1992",
     "Rosa (2019)": "Rosa, 2019",
     "Rosa, 2019": "Rosa, 2019",
+    "Rosamond (2000)": "Rosamond, 2000",
+    "Rosamond, 2000": "Rosamond, 2000",
     "Rosbach et al. (2025)": "Rosbach et al., 2025",
     "Rosbach et al., 2025": "Rosbach et al., 2025",
     "Rose & Lin (1984a)": "Rose & Lin, 1984a",
@@ -24356,7 +24402,9 @@
     "Stuart Kauffman, 1995": "Stuart Kauffman, 1995",
     "Stubbs & Delamont (1976)": "Stubbs & Delamont, 1976",
     "Stubbs & Delamont, 1976": "Stubbs & Delamont, 1976",
+    "Stubbs (2009)": "Stubbs, 2009",
     "Stubbs (2014)": "Stubbs, 2014",
+    "Stubbs, 2009": "Stubbs, 2009",
     "Stubbs, 2014": "Stubbs, 2014",
     "Stuber (2009)": "Stuber, 2009",
     "Stuber (2011)": "Stuber, 2011",
@@ -24642,6 +24690,8 @@
     "Sénéchal, 2006": "Sénéchal, 2006b",
     "Sénéchal, 2006a": "Sénéchal, 2006a",
     "Sénéchal, 2006b": "Sénéchal, 2006b",
+    "Söderbaum (2016)": "Söderbaum, 2016",
+    "Söderbaum, 2016": "Söderbaum, 2016",
     "Sölpük (2017)": "Sölpük, 2017",
     "Sölpük, 2017": "Sölpük, 2017",
     "Søilen (2016)": "Søilen, 2016",
@@ -24727,6 +24777,7 @@
     "Tan (2008)": "Tan, 2008",
     "Tan (2010)": "Tan, 2010",
     "Tan (2011)": "Tan, 2011",
+    "Tan (2013)": "Tan, 2013",
     "Tan (2016)": "Tan, 2016",
     "Tan (2017)": "Tan, 2017",
     "Tan (2022)": "Tan, 2022",
@@ -24755,6 +24806,7 @@
     "Tan, 2008": "Tan, 2008",
     "Tan, 2010": "Tan, 2010",
     "Tan, 2011": "Tan, 2011",
+    "Tan, 2013": "Tan, 2013",
     "Tan, 2016": "Tan, 2016",
     "Tan, 2017": "Tan, 2017",
     "Tan, 2022": "Tan, 2022",
@@ -24920,6 +24972,8 @@
     "Teo et al., 2013": "Teo et al., 2013",
     "Teong (2003)": "Teong, 2003",
     "Teong, 2003": "Teong, 2003",
+    "Terada (2003)": "Terada, 2003",
+    "Terada, 2003": "Terada, 2003",
     "Terhart (2003)": "Terhart, 2003",
     "Terhart (2012)": "Terhart, 2012",
     "Terhart, 2003": "Terhart, 2003",
@@ -29498,6 +29552,21 @@
       ],
       "title": "Report of the Eminent Persons Group"
     },
+    "ASEAN, 2015": {
+      "aliases": [
+        "ASEAN, 2015",
+        "ASEAN (2015)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "ASEAN, 2015"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
+      ],
+      "title": ""
+    },
     "ASEAN, 2022": {
       "aliases": [
         "ASEAN, 2022",
@@ -30314,6 +30383,66 @@
       ],
       "title": "Comparing Regional Institutions: An Introduction"
     },
+    "Acharya, 2001": {
+      "aliases": [
+        "Acharya, 2001",
+        "Acharya (2001)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Acharya, 2001"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
+      ],
+      "title": ""
+    },
+    "Acharya, 2005": {
+      "aliases": [
+        "Acharya, 2005",
+        "Acharya (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Acharya, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
+      ],
+      "title": ""
+    },
+    "Acharya, 2012a": {
+      "aliases": [
+        "Acharya, 2012a",
+        "Acharya (2012a)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Acharya, 2012a"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
+      ],
+      "title": ""
+    },
+    "Acharya, 2012b": {
+      "aliases": [
+        "Acharya, 2012b",
+        "Acharya (2012b)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Acharya, 2012b"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
+      ],
+      "title": ""
+    },
     "Acharya, 2014": {
       "aliases": [
         "Acharya, 2014",
@@ -30325,6 +30454,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md",
         "wiki/concepts/political-economy-geopolitics/Networked Regionalism.md"
       ],
       "title": ""
@@ -56197,6 +56327,21 @@
       ],
       "title": ""
     },
+    "Burawoy, 1998": {
+      "aliases": [
+        "Burawoy, 1998",
+        "Burawoy (1998)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Burawoy, 1998"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
+      ],
+      "title": ""
+    },
     "Burcham, 2002": {
       "aliases": [
         "Burcham, 2002",
@@ -63096,6 +63241,36 @@
         "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
       ],
       "title": "The Examination Culture and Its Impact on Literacy Innovations: The Case of Singapore"
+    },
+    "Checkel, 1999": {
+      "aliases": [
+        "Checkel, 1999",
+        "Checkel (1999)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Checkel, 1999"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
+      ],
+      "title": ""
+    },
+    "Checkel, 2005": {
+      "aliases": [
+        "Checkel, 2005",
+        "Checkel (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Checkel, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
+      ],
+      "title": ""
     },
     "Chelinsky & Mulhauser, 1993": {
       "aliases": [
@@ -77928,6 +78103,21 @@
       ],
       "title": "Knowledge and Skills for PISA – Assessing the Assessment"
     },
+    "Doidge, 2007": {
+      "aliases": [
+        "Doidge, 2007",
+        "Doidge (2007)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Doidge, 2007"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
+      ],
+      "title": ""
+    },
     "Dolan, 1993": {
       "aliases": [
         "Dolan, 1993",
@@ -83771,6 +83961,21 @@
       ],
       "title": "Writing Ethnographic Fieldnotes"
     },
+    "Emerson, 2014": {
+      "aliases": [
+        "Emerson, 2014",
+        "Emerson (2014)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Emerson, 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
+      ],
+      "title": ""
+    },
     "Emery, 1992": {
       "aliases": [
         "Emery, 1992",
@@ -87081,6 +87286,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Education of staff in preschool aged classrooms in child care centers and child outcomes: A meta-analysis and systematic review."
+    },
+    "Falleti, 2016": {
+      "aliases": [
+        "Falleti, 2016",
+        "Falleti (2016)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Falleti, 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
+      ],
+      "title": ""
     },
     "Fan & Chen, 2001": {
       "aliases": [
@@ -97694,6 +97914,21 @@
       ],
       "title": "Trade Relations between Europe and East Asia"
     },
+    "Gilson, 2005": {
+      "aliases": [
+        "Gilson, 2005",
+        "Gilson (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Gilson, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
+      ],
+      "title": ""
+    },
     "Ginns, 2005": {
       "aliases": [
         "Ginns, 2005",
@@ -97981,6 +98216,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "The Effects of an Instructional Model for Improving Reading Comprehension Achievement of Students with Learning Disabilities, Normally-Achieving, At-Risk, and Gifted Students in a Multi-Age, Inclusive General Education Classroom"
+    },
+    "Glas, 2016": {
+      "aliases": [
+        "Glas, 2016",
+        "Glas (2016)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Glas, 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
+      ],
+      "title": ""
     },
     "Glaser & Strauss, 1967": {
       "aliases": [
@@ -101550,6 +101800,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Aptitude-treatment interaction in L2 learning: A research synthesis."
+    },
+    "Granovetter, 1973": {
+      "aliases": [
+        "Granovetter, 1973",
+        "Granovetter (1973)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Granovetter, 1973"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
+      ],
+      "title": ""
     },
     "Granovetter, 1985": {
       "aliases": [
@@ -111391,6 +111656,36 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Unterrichtswissenschaft/Argument_Besa_2024_UW.md",
         "wiki/concepts/science-communication/Educational Science Communication.md"
+      ],
+      "title": ""
+    },
+    "Hettne & Söderbaum, 1998": {
+      "aliases": [
+        "Hettne & Söderbaum, 1998",
+        "Hettne & Söderbaum (1998)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hettne & Söderbaum, 1998"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
+      ],
+      "title": ""
+    },
+    "Hettne, 2005": {
+      "aliases": [
+        "Hettne, 2005",
+        "Hettne (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hettne, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
       ],
       "title": ""
     },
@@ -122737,6 +123032,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md",
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md",
         "wiki/concepts/competency-and-assessment/Creativity.md",
         "wiki/concepts/science-policy/Conceptual Innovators.md",
         "wiki/concepts/science-policy/Experimental Innovators.md"
@@ -125535,6 +125831,21 @@
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Partaken_2022_Springer.md",
         "wiki/concepts/university-industry-collaboration/Knowledge Transfer.md"
+      ],
+      "title": ""
+    },
+    "Katzenstein, 2005": {
+      "aliases": [
+        "Katzenstein, 2005",
+        "Katzenstein (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Katzenstein, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
       ],
       "title": ""
     },
@@ -133764,6 +134075,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Higher Education Policy/Argument_Woo_2023_HEP.md"
+      ],
+      "title": ""
+    },
+    "Kuroda, 2009": {
+      "aliases": [
+        "Kuroda, 2009",
+        "Kuroda (2009)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Kuroda, 2009"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
       ],
       "title": ""
     },
@@ -147148,6 +147474,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-philosophy/Faust.md"
+      ],
+      "title": ""
+    },
+    "Manners, 2002": {
+      "aliases": [
+        "Manners, 2002",
+        "Manners (2002)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Manners, 2002"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
       ],
       "title": ""
     },
@@ -172468,6 +172809,21 @@
       ],
       "title": ""
     },
+    "Pempel, 2010": {
+      "aliases": [
+        "Pempel, 2010",
+        "Pempel (2010)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Pempel, 2010"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
+      ],
+      "title": ""
+    },
     "Pence, 2016": {
       "aliases": [
         "Pence, 2016",
@@ -180909,6 +181265,21 @@
       "seen_in": [],
       "title": "Concept Mapping Improves Metacomprehension Accuracy Among 7th Graders"
     },
+    "Reding, 2003": {
+      "aliases": [
+        "Reding, 2003",
+        "Reding (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Reding, 2003"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
+      ],
+      "title": ""
+    },
     "Redline et al., 2002": {
       "aliases": [
         "Redline et al., 2002",
@@ -182957,6 +183328,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Using mime to improve children’s writing of autobiographical narratives."
+    },
+    "Risse, 2000": {
+      "aliases": [
+        "Risse, 2000",
+        "Risse (2000)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Risse, 2000"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
+      ],
+      "title": ""
     },
     "Ristanto et al., 2022": {
       "aliases": [
@@ -185706,6 +186092,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Achievement gains from reconfiguring early schooling: The case of Brazil's primary education reform"
+    },
+    "Rosamond, 2000": {
+      "aliases": [
+        "Rosamond, 2000",
+        "Rosamond (2000)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Rosamond, 2000"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
+      ],
+      "title": ""
     },
     "Rosbach et al., 2025": {
       "aliases": [
@@ -192768,6 +193169,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Alexiadou_Rambla_2023_EERJ.md",
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md",
         "wiki/arguments/journal-articles/Policy and Society/Argument_Chou_2017_PolSoc.md",
         "wiki/theories/political-economy-geopolitics/Discursive Institutionalism.md"
       ],
@@ -206932,6 +207334,21 @@
       ],
       "title": ""
     },
+    "Stubbs, 2009": {
+      "aliases": [
+        "Stubbs, 2009",
+        "Stubbs (2009)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Stubbs, 2009"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
+      ],
+      "title": ""
+    },
     "Stubbs, 2014": {
       "aliases": [
         "Stubbs, 2014",
@@ -206943,6 +207360,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md",
         "wiki/concepts/political-economy-geopolitics/Networked Regionalism.md"
       ],
       "title": ""
@@ -208927,6 +209345,21 @@
       "seen_in": [],
       "title": "The Effect of Family Literacy Interventions on Children's Acquisition of Reading. From Kindergarten to Grade 3. A Meta-Analytic Review."
     },
+    "Söderbaum, 2016": {
+      "aliases": [
+        "Söderbaum, 2016",
+        "Söderbaum (2016)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Söderbaum, 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
+      ],
+      "title": ""
+    },
     "Sölpük, 2017": {
       "aliases": [
         "Sölpük, 2017",
@@ -209699,6 +210132,21 @@
         "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
       ],
       "title": "Framing Educational Success: A Comparative Study of Shanghai and Singapore"
+    },
+    "Tan, 2013": {
+      "aliases": [
+        "Tan, 2013",
+        "Tan (2013)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Tan, 2013"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
+      ],
+      "title": ""
     },
     "Tan, 2016": {
       "aliases": [
@@ -210910,6 +211358,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "The effect of metacognitive training on mathematical word-problem solving"
+    },
+    "Terada, 2003": {
+      "aliases": [
+        "Terada, 2003",
+        "Terada (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Terada, 2003"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
+      ],
+      "title": ""
     },
     "Terhart, 2003": {
       "aliases": [

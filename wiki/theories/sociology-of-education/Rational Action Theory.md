@@ -90,7 +90,7 @@ updated: 2026-11-19
 > - **形成路径** 从布东的次属效应出发，布林与戈德索普剔除对行动者价值偏好的外在假设，预设所有阶层均有维持家庭地位的原初动机，将决策差异还原为行动者面对客观阶层位置差异时的理性计算，从而构建起以相对风险规避为枢纽的形式化理性行动理论（Rational Action Theory）。
 
 > [!dev-timeline] 理论版本与贡献
-> - **1974 — 奠基区分** 布东（Boudon, 1974）提出“首属效应”（Primary Effects，家庭资源通过影响早期学业能力造成的差异）与“次属效应”（Secondary Effects，在控制[[Academic Achievement|学业成绩]]后不同阶层自愿升学决策的分化），为理性行动理论界定了核心解释领地。
+> - **1974 — 核心效应分野确立** 布东（Boudon, 1974）提出“首属效应”（Primary Effects，家庭资源通过影响早期学业能力造成的差异）与“次属效应”（Secondary Effects，在控制[[Academic Achievement|学业成绩]]后不同阶层自愿升学决策的分化），为理性行动理论界定了核心解释领地。
 > - **1997 — 形式化数理模型建立** 布林与戈德索普（Breen & Goldthorpe, 1997）建立形式化决策模型，将相对风险规避（RRA）确立为次属效应的微观核心，确立了教育分流点的理性计算方程。
 > - **1997 — [[Pragmatic Paradigm|实用主义]]与[[Habitus|习性]]修正** 霍德金森与斯帕克斯（Phil Hodkinson & Andrew C. Sparkes, 1997）结合布迪厄的习性与[[Champ|场域]]理论，指出青年教育决策受限于个体行动视野（Horizons for Action），是深嵌于家庭生活背景中的[[Pragmatic Paradigm|实用主义]]决策，决策信息本身深受家庭背景扭曲。
 > - **1999 — 跨文化检验与反向[[Falsification|证伪]]** 彼得·德梅拉斯（Peter Demerath, 1999; 引自 [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 109–110]]）在巴布亚新几内亚佩雷村的[[Fieldwork|田野研究]]指出，当外部劳动力市场破产与现代[[Credential Inflation|文凭通胀]]并存时，边缘乡村青年主动放弃升学、集体嘲讽考学者并颂扬传统渔猎生活，实证[[Falsification|证伪]]了脱离本土文化情境的西方抽象[[Cost-Benefit Analysis|成本效益分析]]与理性选择假设。

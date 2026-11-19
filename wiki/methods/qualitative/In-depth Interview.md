@@ -98,6 +98,7 @@ related_arguments:
   - "[[Argument_Heinze_2009_RP]]"
   - "[[Argument_Volmari_2025_CE]]"
   - "[[Argument_Santos_Silova_2026_Discourse]]"
+  - "[[Argument_Xie_2017_PKUER]]"
 confidence: medium
 status: draft
 created: 2026-07-22
@@ -189,6 +190,7 @@ updated: 2026-11-17
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 运用深度访谈追踪 62 位名校生（[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|第二章]]、[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|第三章]]）；并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]依托 11 位典型个案生活史解剖投入策略与[[Habitus|习性]]转换机制。
+> - [[Argument_Xie_2017_PKUER|谢爱磊 (2017)]] — 抓住春节返乡与农忙两大战术性时间窗口，对中部县域 22 个重点家庭开展集中深入入户访谈与长期追踪回访，详尽记录求学账本与主观抉择。
 > - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 针对澳大利亚新南威尔士州（New South Wales, NSW）四所学校[[Theory of Knowledge|知识论]]（Theory of Knowledge, TOK）课程实施开展研究，对 22 名教师进行深度访谈并组织 8 组学生[[Focus Group|焦点小组]]。
 > - [[Argument_Cai_Gao_Liu_2025_HE|Cai et al. (2025)]] — 考察[[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]][[Space Production|高等教育空间生产]]，深入访谈 39 名跨界高校教师（其中 30 名为关键制度节点人物）。
 > - [[Argument_Yu_2024_CE|Yu and Zhao (2024)]] — 多元文化视角下的儒家教育传统研究，对 37 名涵盖 15 个少数民族的大学生开展深度对话。

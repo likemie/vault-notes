@@ -59,6 +59,7 @@ related_arguments:
   - "[[Argument_Teng_2025_CE]]"
   - "[[Argument_Santos_Silova_2026_Discourse]]"
   - "[[Argument_Grek_2024_EERJ]]"
+  - "[[Argument_Xie_2017_PKUER]]"
 related_theories: []
 related_facts:
   - "[[Reach]]"
@@ -157,6 +158,7 @@ updated: 2026-11-11
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Teng_2025_CE|Teng and Wang (2025, p. 305)]] — 招募公立学校教师作为转介种子，通过滚雪球抽样获取 128 名进城[[Peidu|陪读]]与留守乡村的农村家庭访谈样本。
+> - [[Argument_Xie_2017_PKUER|谢爱磊 (2017)]] — 在教育民族志撒大网抽样初期，运用无人数限制的滚雪球抽样建立社区联系并开展开放式访谈，后期再过渡至目的性抽样。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 系统阐述滚雪球抽样、受访者驱动抽样与声誉滚雪球的技术规程及其系统偏差；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09|Ch. 9]] 讨论运用非正式网络化策略绕过守门人行政屏蔽以进入敏感现场。
 > - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 在欧洲高等教育质保政策网络中逐层招募 [[European Association for Quality Assurance in Higher Education|ENQA]]、[[European Quality Assurance Register for Higher Education|EQAR]]、[[European Commission|欧盟委员会]]及[[OECD|经合组织]]的高级决策官员，揭示跨国官僚协同机制。
 > - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 依托芬兰外交部初始候选名单在知情同意下开展滚雪球抽样，招募 23 位曾在三大国际组织任职的芬兰教育专家。
