@@ -66,6 +66,7 @@ related_arguments:
   - "[[Argument_Hartong_Forschler_2019_BDS]]"
   - "[[Argument_Knudsen_2017_NordSTEP]]"
   - "[[Argument_Volmari_2025_CE]]"
+  - "[[Argument_Dang_2017_ORE]]"
 related_facts:
   - "[[National Science Foundation]]"
   - "[[Engineering Research Centers]]"
@@ -87,7 +88,7 @@ updated: 2026-11-11
 ---
 
 > [!def] Expert Interview
-> **专家访谈法（Expert Interview，德语：Experteninterview）** 是一种在经验社会研究与政策分析中广泛应用的[[Qualitative Interview\|质性访谈]]方法。由德国知识社会学家米夏埃尔·莫伊瑟（Michael Meuser）与乌尔里克·纳格尔（Ulrike Nagel, 2003）系统奠基。该方法将受访者界定为在特定组织、科层机构或功能系统（如教育部、质保机构、[[School Inspection\|学校督导]]部门）中拥有专门职能特权、信息获取优势与实践操作责任的专家行动者，区别于呈现个体私人经历或心理状态的普通被试。专家访谈旨在获取受访者在实际履职过程中积累形成的内部制度知识、程序逻辑与决策情境，从而重构复杂社会系统与政策运作的深层机制。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 489–490)]]
+> **专家访谈法（Expert Interview，德语：Experteninterview）** 是一种在经验社会研究与政策分析中广泛应用的[[Qualitative Interview\|质性访谈]]方法。由德国知识社会学家米夏埃尔·莫伊瑟（Michael Meuser）与乌尔里克·纳格尔（Ulrike Nagel, 2003）系统确立。该方法将受访者界定为在特定组织、科层机构或功能系统（如教育部、质保机构、[[School Inspection\|学校督导]]部门）中拥有专门职能特权、信息获取优势与实践操作责任的专家行动者，区别于呈现个体私人经历或心理状态的普通被试。专家访谈旨在获取受访者在实际履职过程中积累形成的内部制度知识、程序逻辑与决策情境，从而重构复杂社会系统与政策运作的深层机制。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 489–490)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 组织决策过程、政策制定与执行网络、科层行政常规、[[Professional Judgment\|专业判断]]规程与制度变革阻力。
@@ -174,3 +175,4 @@ updated: 2026-11-11
 > - [[Argument_Knudsen_2017_NordSTEP\|Knudsen (2017, pp. 253–254)]] — 对[[Transnational Education|跨国教育]]倡导核心学者[[John Hattie\|约翰·哈蒂]]（John Hattie）开展专家访谈，深挖其在《[[Visible Learning\|可见的学习]]》[[Knowledge Production|知识生产]]、全球专营授权、政府政策建言与海量数据回流等交错网络中的制度性职能与角色平衡。
 > - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 深度访谈曾在三大国际组织任职的 23 位芬兰教育专家并分析机构报告，解构[[Learning Crisis|全球学习危机]]叙事背后的技术官僚逻辑与救世主心态。
 > - [[Argument_Volmari_2025_CE\|Volmari et al. (2025)]] — 对丹麦、芬兰与挪威参与学校改革起草的 15 位关键决策官员与委员会专家实施深度访谈，揭示循证政策微观准备中对私人学术网络与文官[[Tacit Knowledge|默会知识]]的高度依赖。
+> - [[Argument_Dang_2017_ORE|Dang (2017)]] — 在东南亚教育部长组织高层研讨会中访谈区域高教专家，揭示次区域协调中求同存异与文化自主的内部规范理解（pp. 7–8）。

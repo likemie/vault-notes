@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Hammermeister_2002_Cambridge_Ch06",
+      "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md"
+    },
+    {
+      "basename": "vault-schema",
+      "path": "vault-schema.md"
+    },
+    {
       "basename": "Chi-Squared Test",
       "path": "wiki/methods/quantitative/Chi-Squared Test.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Argument_Hogan_2013_ROE",
       "path": "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
-    },
-    {
-      "basename": "Argument_Hammermeister_2002_Cambridge_Ch06",
-      "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md"
     },
     {
       "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch06",
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Zheng_2023_ShanghaiSanlian",
       "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian.md"
-    },
-    {
-      "basename": "Argument_He_2018_HEP",
-      "path": "wiki/arguments/journal-articles/Higher Education Policy/Argument_He_2018_HEP.md"
     }
   ],
   "omittedPaths": [],

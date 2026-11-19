@@ -197,7 +197,7 @@ updated: 2026-11-15
 
 ---
 
-> [!debates] 学术争议
+> [!debates|notitle] 学术争议
 >
 > > [!axis] 专业技能工匠 vs [[Reflexivity\|反思性]]批判学者
 > > 传统师范学校高度强调对教学法套路、板书技术、手势教态与班级纪律的机械[[Mimesis|模仿]]操练，被 20 世纪进步主义与[[Critical Pedagogy\|批判教育学]]批评为培养缺乏跨学科视野与反思能力的“教学技工（instructional technicians）”；而现代大学教育学派主张教师应当是深具社会学、心理学与哲学反思力的“反思性实践者（reflective practitioners）”。
@@ -214,17 +214,17 @@ updated: 2026-11-15
 > > - **国际金融机构与援助官僚立场** 强调应急性与成本效益，倾向于资助针对特定脚本化教材的短期速成工作坊以期快速提升基础测试表现。
 > > - **比较教育与专业发展学者立场** [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026, pp. 676–677)]] 指出短期速成无法形成真正的学科素养与职业认同，反而削弱国家本土师范建制并加剧依附。
 
-> [!critique] 福柯式微观规训权力批判
+> [!critique|notitle] 外部批评与微观规训权力解构
 > 福柯主义教育史学者指出，“师范（Normal）”的本质是近代规训权力（Disciplinary Power）与规范化裁决（Normalising Judgement）的技术机器。师范学校通过时刻表、列队操练、标准化考核与模范行为规训，不仅规训了师范生自身的肉体与认知，更通过他们将这一套规训语法植入全体适龄儿童的心智中，成为现代国家监控与规制国民身体的微观装置。
 
-> [!warning] 制度移植与边界局限
+> [!warning|limits] 适用局限
 > 师范学校模型高度依赖自上而下的国家财政托底与集权化专业审查机制。在崇尚极端地方自治、地方学区财政微弱或缺乏中央教育行政协调的历史情境中（如 19 世纪初美国边疆各州或发展中国家农村地区），盲目移植城市化师范模式往往面临招生困难、毕业生拒绝下乡任教或经费中断而沦为形式主义空壳。[[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015, pp. 51–52)]]
 
 ---
 
 > [!entry-map] 条目关联
 >
-> | 条目 | 类型 | 贡献 |
+> | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Common School Movement]] | 概念 | 师范学校为美国公共学校运动提供了专业化师资来源与人道教学法规范。 |
 > | [[Grammar of Schooling]] | 概念 | 师范学校是塑造、操练并规模化传递标准化学校语法的专门组织机器。 |
@@ -247,7 +247,7 @@ updated: 2026-11-15
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 系统梳理 19 世纪大西洋两岸先驱（朱利安、[[Victor Cousin\|库森]]、曼、斯托）如何将普鲁士公立师范学校经验转译为母国确立[[State Educational Sovereignty\|国家教育权]]与公学法案的合法化武器。
 > - [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]] — 运用[[Relational Space\|关系性空间]]与[[Circular Transfer\|循环转移]]视角，追踪师范学校从欧陆经北美向阿根廷等拉美国家的空间流动、本土转化与制度变迁轨迹。
 > - [[Argument_Besa_2024_UW\|Besa (2024)]] — 揭示大学师范教育职前知识供给的时效半衰期与在岗教师研究接触负荷，论证借助二阶清算中介与大学教师教育者乘数群体实现三阶段教师教育全流程循证[[Knowledge Mobilisation\|知识动员]]的必要性。
