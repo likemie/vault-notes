@@ -20,7 +20,6 @@ tags:
   - region/southeast-asia
 related_concepts:
   - "[[ASEAN Way]]"
-  - "[[Alienation]]"
   - "[[Sejahtera]]"
   - "[[Kapwa]]"
   - "[[Epistemology]]"
@@ -31,20 +30,24 @@ related_concepts:
   - "[[Buen Vivir]]"
   - "[[Central Phenomenon]]"
   - "[[Discourse]]"
-  - "[[Document]]"
-  - "[[Soft Power]]"
+  - "[[Analytical Stance]]"
+  - "[[Alienation]]"
+  - "[[Transnational Education]]"
+  - "[[Scientific Mobility]]"
   - "[[Knowledge Production]]"
-  - "[[Educational Soft Power]]"
-  - "[[Geopolitics]]"
+  - "[[Avatar]]"
+  - "[[Soft Power]]"
   - "[[Study Abroad]]"
   - "[[Construct]]"
   - "[[Paradigm]]"
-  - "[[Scientific Mobility]]"
+  - "[[Mentorship]]"
+  - "[[Geopolitics]]"
   - "[[Global Regionalisms]]"
   - "[[Praxis]]"
 related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"
   - "[[Dependency Theory]]"
+  - "[[Human Capital Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Critical Policy Analysis]]"
@@ -56,9 +59,12 @@ related_facts:
   - "[[ASEAN University Network]]"
   - "[[SEAMEO RIHED]]"
   - "[[SEAMEO]]"
+  - "[[Southeast Asian Higher Education Common Space]]"
+  - "[[AIMS Programme]]"
   - "[[Bologna Process]]"
   - "[[Belt and Road Initiative]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Chou_2017_PolSoc]]"
 sources:
   - "[[sources/Indrarajah_2026_NJCIE/Indrarajah_2026_NJCIE|Indrarajah_2026_NJCIE]]"
 part_of:
@@ -71,9 +77,9 @@ title: "Argument_Indrarajah_2026_NJCIE"
 argument_key: "Argument_Indrarajah_2026_NJCIE"
 argument_display_title: "Challenging neocoloniality in Southeast Asian higher education: Charting the ASEAN way of regionalization through a decolonial lens"
 argument_kind: "journal-article"
-argument_related_count: 34
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 40
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: "Nordic Journal of Comparative and International Education"
 book_title: ""
@@ -88,10 +94,10 @@ issuing_organization: ""
 > 在逆全球化回潮与大国地缘博弈加剧背景下，东南亚高等教育如何摆脱美英、[[EU|欧洲联盟]]（European Union, EU，简称欧盟）与东亚外部强权的新殖民性支配，克服传统[[ASEAN Way|东盟方式]]内向自保所导致的碎片化困境，进而依托本土文化传统确立自主自立的去殖民区域高教认同？
 
 > [!claim] 核心主张
-> 东南亚高等教育区域化必须超越将传统[[ASEAN Way|东盟方式]][[Alienation|异化]]为向内孤立自保的消极防御，依托[[Sejahtera|和乐福祉]]（[[Sejahtera]]）、巴布亚社会生态学与共享内在自我（[[Kapwa]]）三大原住民哲学确立[[Epistemology|认识论]]去殖民化实践，在抵御欧美与东亚双重新殖民依附的同时，开辟以跨国资源再平衡、生态永续关怀与内生人才循环为支柱的多元世界高教治理图景。
+> 东南亚高等教育区域化必须超越将传统[[ASEAN Way|东盟方式]]异化为向内孤立自保的消极防御，依托[[Sejahtera|和乐福祉]]（[[Sejahtera]]）、巴布亚社会生态学与共享内在自我（[[Kapwa]]）三大原住民哲学确立[[Epistemology|认识论]]去殖民化实践，在抵御欧美与东亚双重新殖民依附的同时，开辟以跨国资源再平衡、生态永续关怀与内生人才循环为支柱的多元世界高教治理图景。
 
 > [!concept-lens] 阅读透镜
-> - **对象** [[ASEAN|东南亚国家联盟]]（Association of Southeast Asian Nations, ASEAN）高等教育治理框架、[[ASEAN University Network|东盟大学联盟]]（ASEAN University Network, AUN）、[[SEAMEO RIHED|东南亚教育部长组织高等教育与发展区域中心]]（SEAMEO Regional Centre for Higher Education and Development, SEAMEO RIHED）及东盟[[Student Mobility|学生流动]]机制。
+> - **对象** [[ASEAN|东南亚国家联盟]]（Association of Southeast Asian Nations, ASEAN）高等教育治理框架、[[ASEAN University Network|东盟大学联盟]]（ASEAN University Network, AUN）、[[SEAMEO RIHED|东南亚教育部长组织高等教育与发展区域中心]]（[[SEAMEO]] Regional Centre for Higher Education and Development, SEAMEO RIHED）及东盟[[Student Mobility|学生流动]]机制。
 > - **张力** 二战后防范邻国干涉的主权防御机制与区域深度一体化需求之间的张力；摆脱西方欧洲中心主义霸权与面对东亚邻国地缘经济渗透之间的复杂交织。
 > - **贡献** 驳斥将比较教育去殖民化贬为西方文化战的保守立场，系统构建整合西方与东亚维度的双重新殖民性[[Analytic Framework|分析框架]]，将东南亚本土原住民哲学[[Operationalization|操作化]]为区域教育治理的制度支柱。
 
@@ -99,8 +105,8 @@ issuing_organization: ""
 
 > [!policy-context] 东南亚高等教育区域治理政策背景档案
 > - **发布主体与协调机构** [[ASEAN|东南亚国家联盟]]（ASEAN）与[[SEAMEO|东南亚教育部长组织]]（Southeast Asian Ministers of Education Organization, SEAMEO）双轨协调。
-> - **核心纲领与政策倡议** 《东盟教育工作计划（2021–2025）》（ASEAN, 2022）与《东南亚高等教育共同空间联合声明》（ASEAN, 2024）。
-> - **适用范围与治理对象** 东南亚11国高等教育生态系统、AUN大学联盟院校、亚洲国际学生流动项目（Asian International Mobility for Students, AIMS）及相关学分互认机制。
+> - **核心纲领与政策倡议** 《东盟教育工作计划（2021–2025）》（ASEAN, 2022）与《[[Southeast Asian Higher Education Common Space|东南亚高等教育共同空间]]联合声明》（ASEAN, 2024）。
+> - **适用范围与治理对象** 东南亚11国高等教育生态系统、AUN大学联盟院校、亚洲国际学生流动项目（[[AIMS Programme|Asian International Mobility for Students]], AIMS）及相关学分互认机制。
 > - **核心政策矛盾与瓶颈** 既有治理极度依赖自愿性、非约束性的东盟方式，导致区域协调机制疲弱；在引入欧洲[[Bologna Process|博洛尼亚进程]]规程与外部资源过程中，滋生严重的外部制度与知识依附（[[Argument_Chou_2017_PolSoc|Chou & Ravinet, 2017]]; Robertson, 2010）。
 
 ---
@@ -122,9 +128,9 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **方法论取向**<br>[[Critical Policy Analysis|批判性政策分析]]（Critical Policy Analysis, CPA） | 运用批判性政策分析透视东盟高教治理的历史渊源、权力拓扑、决策主体代表性与政策分配效应，解构[[Discourse\|话语]]背后的新殖民利益关联（Diem et al., 2014; Taylor, 1997）。 |
+> | **方法论取向**<br>[[Critical Policy Analysis\|批判性政策分析]]（Critical Policy Analysis, CPA） | 运用批判性政策分析透视东盟高教治理的历史渊源、权力拓扑、决策主体代表性与政策分配效应，解构[[Discourse\|话语]]背后的新殖民利益关联（Diem et al., 2014; Taylor, 1997）。 |
 > | **材料范围**<br>概念综合与政策文本分析 | 综合分析东盟教育工作计划（2021–2025）、东南亚高教共同空间联合声明、AUN与SEAMEO-RIHED章程及公开政策文件（ASEAN, 2022, 2024）。 |
-> | **批判立场与学者位置性** | 扎根东南亚本土多元族群生活经验与跨国高教学术合作实践，优先阐发长期受主流学界边缘化的原住民学者见解（Grande, 2018; Moosavi & Alatas, 2024）。 |
+> | **[[Analytical Stance\|批判立场]]与学者位置性** | 扎根东南亚本土多元族群生活经验与跨国高教学术合作实践，优先阐发长期受主流学界边缘化的原住民学者见解（Grande, 2018; Moosavi & Alatas, 2024）。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -153,19 +159,23 @@ issuing_organization: ""
 ---
 
 > [!claim|step] 论证步骤一　东盟互不干涉的自保传统导致各国大学各自为战
-> 东南亚各国受制于差异化的殖民历史而走上截然不同的发展道路；二战后确立的东盟方式旨在防范邻国过度干预，在高等教育领域却导致各国封闭自保，阻碍了区域深层协作。
+> 东南亚各国受制于差[[Alienation|异化]]的殖民历史而走上截然不同的发展道路；二战后确立的东盟方式旨在防范邻国过度干预，在高等教育领域却导致各国封闭自保，阻碍了区域深层协作。
 
 > [!sub-claim] 1. 宗主国的制度移植使各国大学发展基础高度悬殊
+
+> [!mechanism] 殖民制度移植与高教底盘的历史分化机制
 > 英国与美国在马来西亚、新加坡和菲律宾的殖民统治确立了英语的学术霸权，使三国在战后迅速接入以西方为中心的学术评价网络（Altbach, 2007; Phillipson, 2012）；印度尼西亚在荷兰殖民后需优先整合1.7万座岛屿与多元族群，形成了公立系统与融合伊斯兰传统的穆罕默迪亚大学并行的庞大格局（Welch, 2012）；越南等中南半岛国家则在中法美苏等多重外部势力影响下，形成了依托国语字、兼具法式学院制与苏式工科的混合高教系统（Trinh, 2018）。这种历史起点差异使各国大学缺乏共同的制度底盘。
 
 > [!row-contrast] 东南亚重点国别高等教育历史演进与殖民地缘特征对比
 > | 案例国别与组群 | 殖民宗主与地缘力量 | 语言与制度遗产 | 战后高教模式与制度混合 | 对区域一体化的制度含义 |
 > |---|---|---|---|---|
-> | **马新菲组群**<br>（马来西亚、新加坡、菲律宾） | 英国直接殖民、美国行政统治与文化渗透 | 英语确立为官方与学术通用语，全盘吸收英美大学学位与质量评价体制（Altbach, 2007） | 依托英语优势快速嵌入全球学术分工，新加坡与马来西亚发展为跨国教育（Transnational Education, TNE）区域枢纽 | 具备较强国际学术流动优势，但易强化对西方期刊评价体系与排名的单向依附 |
+> | **马新菲组群**<br>（马来西亚、新加坡、菲律宾） | 英国直接殖民、美国行政统治与文化渗透 | 英语确立为官方与学术通用语，全盘吸收英美大学学位与质量评价体制（Altbach, 2007） | 依托英语优势快速嵌入全球学术分工，新加坡与马来西亚发展为[[Transnational Education\|跨国教育]]（Transnational Education, TNE）区域枢纽 | 具备较强国际[[Scientific Mobility\|学术流动]]优势，但易强化对西方期刊评价体系与排名的单向依附 |
 > | **印度尼西亚**<br>（群岛国家典型） | 荷兰东印度公司与荷兰殖民行政当局 | 荷语未获普及，战后确立印尼语为统一国语；面临群岛地理极度分散挑战 | 凝聚万余岛屿与数百族群，公立大学系统与庞大伊斯兰穆罕默迪亚大学网络平行并进（Welch, 2012） | 优先服务于国内多民族整合与社会稳定，对外部区域一体化进程反应相对内敛 |
 > | **中南半岛组群**<br>（以越南为代表） | 中国儒家历史辐射、法国殖民统治、美越战争、苏联援助 | 废弃汉字并确立国语字拼音文字，融合法式学院制与苏式专业工程专科体系（Trinh, 2018） | 经历多重帝国势力拉锯，形成融合儒学传统、殖民遗存与社会主义规划的高教混合体 | 在师资培训与学分互认上面临多重技术规程衔接门槛，更加依赖双边定向协议 |
 
 > [!sub-claim] 2. 成员国防范邻国干涉的避险心态使高教政策退守为封闭自保
+
+> [!mechanism] 主权防卫逻辑向封闭自保的异化机制
 > 经历过印尼与马来西亚对抗（Konfrontasi）以及冷战地缘震荡的东南亚国家，将不干涉内政与协商一致确立为区域治理红线（Koga, 2010; Loo, 2013; Visone, 2017）。这种避险机制虽然维系了政局稳定，却使高教决策退缩为狭隘的国家利益优先倾向；各国大学只顾本国发展，事实上陷入类似殖民时代分而治之的割裂状态（Nkrumah, 1965）。
 
 > [!case] 战后地缘冲突与东盟方式的防御性制度奠基
@@ -177,15 +187,19 @@ issuing_organization: ""
 > 东南亚高教深陷欧美与东亚的双重支配：既承受欧美新自由主义办学标准的规训，又面临东亚邻国以奖学金和工作组为工具的地缘吸附；解构这种复杂依附需要秉持认识论去殖民化立场（Mignolo & Walsh, 2018; Zhang, 2025）。
 
 > [!sub-claim] 1. 扶持原住民与边缘学者发声直接纠正了历史形成的学术特权
-> 针对有学者将去殖民化贬低为排他性文化战的保守观点（Vickers & Epstein, 2024, p. 2），学术史证据表明全球知识评价标准长期打着欧美帝国的历史特权烙印。扶持东南亚本土原住民与边缘学者开展知识生产，是破除历史特权、落实学术正义的必要实践（Alcoff, 2007; jules & Salajan, 2024, p. 5; Posholi, 2020）。
+
+> [!theory-stance] 认识论去殖民化的正义诉求与学术定位
+> 针对有学者将去殖民化贬低为排他性文化战的保守观点（Vickers & Epstein, 2024, p. 2），学术史证据表明全球知识评价标准长期打着欧美帝国的历史特权烙印。扶持东南亚本土原住民与边缘学者开展[[Knowledge Production|知识生产]]，是破除历史特权、落实学术正义的必要实践（Alcoff, 2007; jules & Salajan, 2024, p. 5; Posholi, 2020）。
 
 > [!tension] 比较教育学去殖民化学术论争：南方觉醒诉求 vs 保守文化战指责
 > - **南方觉醒与去殖民诉求（蓝方）** 《比较教育评论》（Comparative Education Review, CER）主编团队主张全面去殖民化教育系统、课程与研究议程，正视过去与当代政策中延续的殖民遗产，将全球南方原住民与被殖民社群学者的发声权置于学术生产中心（jules & Salajan, 2024, p. 5）。
 > - **保守反动与文化战指责（红方）** 部分比较教育学者批评去殖民诉求沦为教条主义的身份表演与文化战，指责其制造西方与非西方的二元受害者迷思，甚至认为强调学者位置性会削弱学术批评的连贯性与严谨性（Vickers & Epstein, 2024, p. 2）。
-> - **批判哲学反驳与辩护** 现代认识论批判（Alcoff, 2007）表明，全球知识等级秩序自奠基之初便与种族化身份和殖民暴力紧密绑定，并不存在脱离具体情境的中立客观立场；倡导去殖民化并关注边缘学者位置性，是校正全球知识生产历史偏差的正当学术实践。
+> - **批判哲学反驳与辩护** 现代认识论批判（Alcoff, 2007）表明，全球知识等级秩序自奠基之初便与种族[[Avatar|化身]]份和殖民暴力紧密绑定，并不存在脱离具体情境的中立客观立场；倡导去殖民化并关注边缘学者位置性，是校正全球知识生产历史偏差的正当学术实践。
 
 > [!sub-claim] 2. 欧美制度输出与东亚单向吸纳共同侵蚀了东盟的教育自主权
-> 欧盟通过输出博洛尼亚学分与质保规程投射软实力，将东南亚视为文凭创收市场（EEAS, 2020; Robertson, 2010）；中国与日本则通过主导东盟10+3流动工作组和设立定向高额奖学金，单向吸纳东盟优秀学子（Cheok & Chen, 2019; Liao, 2021）。这种双向拉扯导致东盟内部高教投入严重不足，区域内留学生互派比例仅占总量的10%（Chi Hou et al., 2017; Ullah, 2018）。
+
+> [!mechanism] 欧美规训与东亚吸附的双重新殖民传导机制
+> 欧盟通过输出博洛尼亚学分与质保规程投射[[Soft Power|软实力]]，将东南亚视为文凭创收市场（EEAS, 2020; Robertson, 2010）；中国与日本则通过主导东盟10+3流动工作组和设立定向高额奖学金，单向吸纳东盟优秀学子（Cheok & Chen, 2019; Liao, 2021）。这种双向拉扯导致东盟内部高教投入严重不足，区域内[[Study Abroad|留学]]生互派比例仅占总量的10%（Chi Hou et al., 2017; Ullah, 2018）。
 
 > [!row-contrast] 欧美与东亚对东南亚高等教育的新殖民性运作机制对比
 > | 渗透力量阵营 | 代表性行动者 | 核心渗透路径与政策工具 | 地缘战略意图与隐性动机 | 东南亚高教系统的依附表征 |
@@ -199,6 +213,8 @@ issuing_organization: ""
 > 摆脱外部依附必须立足东南亚本土语言的独立性，系统激活马来群岛和乐哲学、巴布亚社会生态学与菲律宾同胞认同三大原住民智慧，重构高等教育的办学目标与人际交往规范（Mignolo & Walsh, 2018; Razak et al., 2018）。
 
 > [!sub-claim] 1. 坚持使用本土语言执教与办公为摆脱宗主国思维奠定了基石
+
+> [!voice] 本土语言自主性作为去殖民认知护盾
 > 东南亚多数国家长期坚持将马来语、印尼语、他加禄语、泰语和越南语作为行政管理与社会交流的主导语言（Mufwene, 2002; Trinh, 2018）。这种语言自主性有效抵御了完全照搬西方学术话语的惯性，为探索扎根本土的大学模式提供了坚强护盾。
 
 > [!figure]- 图1：认识论去殖民化框架
@@ -206,18 +222,24 @@ issuing_organization: ""
 > *图1展示了作用于东南亚高教的外部欧美与东亚双重新殖民力量，以及由和乐福祉（Sejahtera）、巴布亚社会生态学与同胞认同（Kapwa）三大原住民哲学构成的认识论去殖民框架，指引重塑东盟方式走向合作、本土与可持续的多元世界认同。*
 
 > [!sub-claim] 2. 马来和乐哲学倡导身心平衡以抵制追求全球排名的学术压榨
+
+> [!warrant] 和乐福祉对超高生产力与商业排名的解构逻辑
 > 扎根马来群岛的 [[Sejahtera]] 哲学强调身心健康、社会和谐与生态永续的动态平衡（Razak & Sanusi, 2023, p. 348）。这一理念要求大学课程兼顾学术探索与人格修养，坚决反对盲目服从资本主义超高产出与全球大学商业排名，倡导知识生产必须优先满足本土社区的真实诉求（Razak et al., 2018）。
 
 > [!sub-claim] 3. 巴布亚生态观倡导人与自然共生以扭转资本主义掠夺式开发
+
+> [!warrant] 巴布亚社会生态学对掠夺式开采的纠偏逻辑
 > 巴布亚原住民将人类视为自然网络不可分割的一部分，拒绝居高临下的资源征服思维（Mansoben, 2007）。部分学者将这种敬畏自然的传统贬为缺乏进取心，恰恰暴露了西方资本掠夺式开发的傲慢；巴布亚社会生态学为当代大学应对生态危机与践行气候韧性树立了典范。
 
 > [!sub-claim] 4. 菲律宾同胞认同倡导平权协商对话以消除师生内化的自卑感
+
+> [!warrant] 同胞认同对威权学术等级的瓦解逻辑
 > 菲律宾原住民理念 [[Kapwa]] 倡导将他人视作自我的延伸，主张在平等、开放、寻求共识的对话中打破威权等级（Dayson et al., 2024; Rungduin et al., 2014）。这一伦理能够消除东南亚青年对西方标准的盲目崇拜与内化自卑，重塑本土学者的学术尊严与文化自信。
 
 > [!contrast-table] 东南亚三大原住民哲学及其高等教育去殖民重塑维度对比
-> | 哲学构念 | 地缘文化原点 | 核心本体预设 | 高教去殖民批判指向 | 重塑东盟方式之政策映射 |
+> | 哲学[[Construct\|构念]] | 地缘文化原点 | 核心本体预设 | 高教去殖民批判指向 | 重塑东盟方式之政策映射 |
 > |---|---|---|---|---|
-> | **[[Sejahtera]]**<br>（和乐福祉） | 马来群岛原住民文明与伊斯兰教义交融区 | 整体福祉、心灵安定、人际和谐与生态平衡之动态统一（Razak & Sanusi, 2023） | 批判新自由主义唯排名论与学业超生产力，抵御西方期刊霸权（Razak et al., 2018） | 投资本土人力资本与在地知识生产，支持大学开展切合社群实际的教学科研 |
+> | **[[Sejahtera]]**<br>（和乐福祉） | 马来群岛原住民文明与伊斯兰教义交融区 | 整体福祉、心灵安定、人际和谐与生态平衡之动态统一（Razak & Sanusi, 2023） | 批判新自由主义唯排名论与学业超生产力，抵御西方期刊霸权（Razak et al., 2018） | 投资本土[[Human Capital Theory\|人力资本]]与在地知识生产，支持大学开展切合社群实际的教学科研 |
 > | **巴布亚社会生态学**<br>（Papuan Social Ecology） | 美拉尼西亚群岛与巴布亚原住民雨林生态系统 | 人类仅为自然生态网络的有机组成部分，非自然主宰者（Mansoben, 2007） | 破除资本主义对自然资源的掠夺式开采，反思殖民划界遗毒（Nkrumah, 1965） | 跨越殖民国界构建多元高教模式，将生态永续与气候韧性确立为区域核心学科 |
 > | **[[Kapwa]]**<br>（共享内在自我） | 菲律宾群岛南岛语族原住民社群伦理 | 他人即自我之延伸，人人休戚与共的交互主体性（Dayson et al., 2024） | 瓦解外来知者自上而下的权威等级制，消除内化殖民自卑感（Rungduin et al., 2014） | 确立扁平化、协商一致与包容性对话机制，推动区域教育资源均等化跨梯队再分配 |
 
@@ -227,9 +249,13 @@ issuing_organization: ""
 > 注入本土哲学精神的新东盟方式必须超越消极不干涉的防卫藩篱，主动推行区域内部高教资源的扶持与再分配，建立阻断人才单向外流的安全网（Ullah, 2018; Visone, 2017）。
 
 > [!sub-claim] 1. 东盟大学联盟必须打破前三十所名校门槛并建立跨国帮扶网络
-> 东盟大学联盟（AUN）长期将资格限定在区域内前三十所顶尖名校，加剧了区域内部的马太效应（[[Argument_Chou_2017_PolSoc|Chou & Ravinet, 2017]]）。新范式要求顶尖院校与薄弱大学结成跨国帮扶对子，全面共享科研与教学基础设施，整体抬高东南亚高等教育的发展底线。
+
+> [!pathways] AUN精英壁垒破除与跨国导师对口帮扶路径
+> 东盟大学联盟（AUN）长期将资格限定在区域内前三十所顶尖名校，加剧了区域内部的马太效应（[[Argument_Chou_2017_PolSoc|Chou & Ravinet, 2017]]）。新[[Paradigm|范式]]要求顶尖院校与薄弱大学结成跨国帮扶对子，全面共享科研与教学基础设施，整体抬高东南亚高等教育的发展底线。
 
 > [!sub-claim] 2. 区域学生流动项目必须消除国别限制并将奖学金留在东盟内部
+
+> [!pathways] 跨国学术流动全员覆盖与奖学金内生循环机制
 > 既有的东盟学生流动项目排除了老挝、缅甸等后发国家，亟需实现全员包容性覆盖（Chi Hou et al., 2017）；东盟官方应取消专门资助学生流向东亚大国的单向奖学金，将公共资金集中投入区域内部高校的联合培养，培养具有深厚东盟认同的青年骨干。
 
 > [!case] 区域双边学生流动与在地知识网络实践
@@ -240,14 +266,14 @@ issuing_organization: ""
 > [!policy-design] 去殖民新东盟方式高等教育治理重塑矩阵
 > - **治理目标** 提升全域教育发展底线，消解对欧美东亚依附，确立多元世界区域认同。
 > - **赋权对象** 覆盖老挝与缅甸等被排斥成员国、AUN以外的普通与地方高校、原住民知识持有者与青年学生。
-> - **制度工具** 依托新加坡与马来西亚科研资源建立跨国大学结对导师制；设立东盟内部流动全额奖学金；推行区域特色学科分工（如印尼生物多样性与防灾减灾中心、菲律宾公卫护理网络）。
+> - **制度工具** 依托新加坡与马来西亚科研资源建立跨国大学结对[[Mentorship|导师制]]；设立东盟内部流动全额奖学金；推行区域特色学科分工（如印尼生物多样性与防灾减灾中心、菲律宾公卫护理网络）。
 > - **约束规范** 扭转单向补贴学生赴东亚外流的奖学金机制；终结照搬博洛尼亚集权规范；破除新自由主义掠夺性开发，践行生态永续指标。
 
 ---
 
 > [!finding-cards] 核心发现
 > 1. **东盟方式历史局限** 揭示以消极不干涉与主权绝对防卫为特征的传统东盟方式，在冷战后演变为国家优先的自保格局，在事实上强化了高等教育的离散与脆弱。
-> 2. **双重新殖民依附** 明确东南亚高等教育不仅受到欧美新自由主义范式与软实力支配，同时面临东亚地缘政治力量的单向利益吸附。
+> 2. **双重新殖民依附** 明确东南亚高等教育不仅受到欧美新自由主义范式与软实力支配，同时面临东亚[[Geopolitics|地缘政治]]力量的单向利益吸附。
 > 3. **本土哲学多元世界方案** 阐明 Sejahtera（全人身心平衡）、巴布亚社会生态学（生态伦理共生）与 Kapwa（共享内在自我）构成重塑区域治理的本土哲学工具箱。
 > 4. **去殖民政策改革进路** 提出扩大 AUN 准入建立对口帮扶、纠偏单向外流奖学金机制以及保障区域高教项目全员参与等实质性制度举措。
 

@@ -51,6 +51,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Qu_2024_IJED]]"
   - "[[Argument_Kuortti_2025_JEdPolicy]]"
+  - "[[Argument_Indrarajah_2026_NJCIE]]"
 confidence: high
 status: active
 created: 2026-11-10

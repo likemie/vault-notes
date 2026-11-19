@@ -15757,8 +15757,6 @@
     "M. S., 2016": "M. S., 2016",
     "M. Terrell (1962)": "M. Terrell, 1962",
     "M. Terrell, 1962": "M. Terrell, 1962",
-    "M. Tlostanova (2015)": "M. Tlostanova, 2015",
-    "M. Tlostanova, 2015": "M. Tlostanova, 2015",
     "M. et al. (2012)": "M. et al., 2012",
     "M. et al., 2012": "M. et al., 2012",
     "MCEETYA (2008)": "MCEETYA, 2008",
@@ -20344,8 +20342,6 @@
     "R. A. W. Rhodes, 1996": "R. A. W. Rhodes, 1996",
     "R. C. R. (1996)": "R. C. R., 1996",
     "R. C. R., 1996": "R. C. R., 1996",
-    "R. Connell (2007)": "R. Connell, 2007",
-    "R. Connell, 2007": "R. Connell, 2007",
     "R. E. (2002)": "R. E., 2002",
     "R. E. (2004)": "R. E., 2004",
     "R. E. (2008)": "R. E., 2008",
@@ -26036,8 +26032,6 @@
     "W. D., 2000": "W. D., 2000",
     "W. D., 2002": "W. D., 2002",
     "W. D., 2003": "W. D., 2003",
-    "W. Mignolo (2000)": "W. Mignolo, 2000",
-    "W. Mignolo, 2000": "W. Mignolo, 2000",
     "W. Ross Ashby (1956)": "W. Ross Ashby, 1956",
     "W. Ross Ashby, 1956": "W. Ross Ashby, 1956",
     "WEF (2016)": "WEF, 2016",
@@ -28297,8 +28291,6 @@
     "库恩, 1962": "库恩, 1962",
     "库珀与施里弗 (1957)": "库珀与施里弗, 1957",
     "库珀与施里弗, 1957": "库珀与施里弗, 1957",
-    "康奈尔 (2014)": "康奈尔, 2014",
-    "康奈尔, 2014": "康奈尔, 2014",
     "廖青 (2019)": "廖青, 2019",
     "廖青, 2019": "廖青, 2019",
     "建制与亲北京媒体 (2019)": "建制与亲北京媒体, 2019",
@@ -32166,7 +32158,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
+        "wiki/concepts/political-economy-geopolitics/Epistemic Coloniality.md"
       ],
       "title": "Mignolo's epistemology of coloniality"
     },
@@ -67534,13 +67527,14 @@
       "identity_keys": [
         "Connell, 2007"
       ],
-      "isbn": "",
+      "isbn": "978-0-7456-4242-0",
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Parreira do Amaral_2022_geopolitics-knowledge.md",
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Rizvi_2022_Springer.md",
-        "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md"
+        "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md",
+        "wiki/concepts/political-economy-geopolitics/Epistemic Coloniality.md"
       ],
-      "title": ""
+      "title": "Southern theory: The global dynamics of knowledge in social science"
     },
     "Connell, 2014a": {
       "aliases": [
@@ -143724,21 +143718,6 @@
       ],
       "title": ""
     },
-    "M. Tlostanova, 2015": {
-      "aliases": [
-        "M. Tlostanova, 2015",
-        "M. Tlostanova (2015)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "M. Tlostanova, 2015"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/political-economy-geopolitics/Epistemic Coloniality.md"
-      ],
-      "title": ""
-    },
     "M. et al., 2012": {
       "aliases": [
         "M. et al., 2012",
@@ -153565,11 +153544,12 @@
       "identity_keys": [
         "Mignolo, 2000"
       ],
-      "isbn": "",
+      "isbn": "978-0-691-00140-1",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md"
+        "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md",
+        "wiki/concepts/political-economy-geopolitics/Epistemic Coloniality.md"
       ],
-      "title": ""
+      "title": "Local histories/global designs: Coloniality, subaltern knowledges, and border thinking"
     },
     "Mignolo, 2002": {
       "aliases": [
@@ -177289,21 +177269,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/political-economy-geopolitics/Historical Institutionalism.md"
-      ],
-      "title": ""
-    },
-    "R. Connell, 2007": {
-      "aliases": [
-        "R. Connell, 2007",
-        "R. Connell (2007)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "R. Connell, 2007"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/political-economy-geopolitics/Epistemic Coloniality.md"
       ],
       "title": ""
     },
@@ -218534,21 +218499,6 @@
       ],
       "title": ""
     },
-    "W. Mignolo, 2000": {
-      "aliases": [
-        "W. Mignolo, 2000",
-        "W. Mignolo (2000)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "W. Mignolo, 2000"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/political-economy-geopolitics/Epistemic Coloniality.md"
-      ],
-      "title": ""
-    },
     "W. Ross Ashby, 1956": {
       "aliases": [
         "W. Ross Ashby, 1956",
@@ -234713,21 +234663,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/science-policy/Sleeping Beauty in Science.md"
-      ],
-      "title": ""
-    },
-    "康奈尔, 2014": {
-      "aliases": [
-        "康奈尔, 2014",
-        "康奈尔 (2014)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "康奈尔, 2014"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/political-economy-geopolitics/Epistemic Coloniality.md"
       ],
       "title": ""
     },

@@ -2011,7 +2011,8 @@
       "doi": "https://doi.org/10.1353/ncr.2008.0008",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
+        "wiki/concepts/political-economy-geopolitics/Epistemic Coloniality.md"
       ],
       "title": "Mignolo's epistemology of coloniality"
     },
@@ -23245,13 +23246,14 @@
     },
     "Connell, 2007": {
       "doi": "",
-      "isbn": "",
+      "isbn": "978-0-7456-4242-0",
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Parreira do Amaral_2022_geopolitics-knowledge.md",
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Rizvi_2022_Springer.md",
-        "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md"
+        "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md",
+        "wiki/concepts/political-economy-geopolitics/Epistemic Coloniality.md"
       ],
-      "title": ""
+      "title": "Southern theory: The global dynamics of knowledge in social science"
     },
     "Connell, 2014": {
       "doi": "",
@@ -69172,14 +69174,6 @@
       ],
       "title": ""
     },
-    "M. Tlostanova, 2015": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/political-economy-geopolitics/Epistemic Coloniality.md"
-      ],
-      "title": ""
-    },
     "M. et al., 2012": {
       "doi": "",
       "isbn": "",
@@ -75102,11 +75096,12 @@
     },
     "Mignolo, 2000": {
       "doi": "",
-      "isbn": "",
+      "isbn": "978-0-691-00140-1",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md"
+        "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md",
+        "wiki/concepts/political-economy-geopolitics/Epistemic Coloniality.md"
       ],
-      "title": ""
+      "title": "Local histories/global designs: Coloniality, subaltern knowledges, and border thinking"
     },
     "Mignolo, 2002": {
       "doi": "",
@@ -89283,14 +89278,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/political-economy-geopolitics/Historical Institutionalism.md"
-      ],
-      "title": ""
-    },
-    "R. Connell, 2007": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/political-economy-geopolitics/Epistemic Coloniality.md"
       ],
       "title": ""
     },
@@ -114181,14 +114168,6 @@
       ],
       "title": ""
     },
-    "W. Mignolo, 2000": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/political-economy-geopolitics/Epistemic Coloniality.md"
-      ],
-      "title": ""
-    },
     "W. Ross Ashby, 1956": {
       "doi": "",
       "isbn": "",
@@ -123972,14 +123951,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/science-policy/Sleeping Beauty in Science.md"
-      ],
-      "title": ""
-    },
-    "康奈尔, 2014": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/political-economy-geopolitics/Epistemic Coloniality.md"
       ],
       "title": ""
     },
