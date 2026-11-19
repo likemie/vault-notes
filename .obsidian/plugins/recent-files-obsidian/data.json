@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
     },
     {
+      "basename": "Universal Access to Quality Tertiary Education Act",
+      "path": "wiki/facts/asia/Universal Access to Quality Tertiary Education Act.md"
+    },
+    {
       "basename": "Modernization Theory",
       "path": "wiki/theories/sociology-of-education/Modernization Theory.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "The Interesting",
       "path": "wiki/concepts/educational-philosophy/The Interesting.md"
-    },
-    {
-      "basename": "Goal-Controlled Mode",
-      "path": "wiki/concepts/sociology-of-education/Goal-Controlled Mode.md"
     }
   ],
   "omittedPaths": [],
