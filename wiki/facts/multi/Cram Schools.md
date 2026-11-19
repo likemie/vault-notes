@@ -12,15 +12,16 @@ aliases:
   - private tutoring academies
   - 影子教育
   - Shadow Education
-summary: "东亚与东南亚社会广泛存在的校外营利性学业补习机构（如日本塾、韩国补习所、中国与台湾补习班、新加坡补习中心），深植于高利害升学统考与唯才是用竞争，呈现出抵消官方减负改革并维系阶层再生产的影子教育生态。"
+  - Private tutoring
+summary: 东亚与东南亚社会广泛存在的校外营利性学业补习机构（如日本塾、韩国补习所、中国与台湾补习班、新加坡补习中心），深植于高利害升学统考与唯才是用竞争，呈现出抵消官方减负改革并维系阶层再生产的影子教育生态。
 type: fact
 subtype: event
 region: multi
-fact_region: "multi"
-fact_kind: "event"
+fact_region: multi
+fact_kind: event
 fact_related_count: 24
 fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_stars: ⭐⭐
 fact_related_color: "#fef3c7"
 tags:
   - region/east-asia
