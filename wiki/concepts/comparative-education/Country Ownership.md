@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-06
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -104,6 +104,9 @@ updated: 2026-11-11
 >
 > > [!claim] [[Kenneth King|King, K.]]
 > > **国家自主修辞下的被动遵从现实** [[International Development Targets|国际开发目标]]与[[Millennium Development Goals|千年发展目标]]全部在[[OECD|经合组织]]巴黎总部或纽约联合国大楼由捐助国官僚闭门商定，缺乏发展中国家的实质参与；世界银行等机构通过推行《全面发展框架》与《减贫战略文件》，以“国家自主”为名实施深层政策规训。受援国教育部长难以依据本国工业化与就业需求统筹中高等教育，其发展议程被强制锚定在两项初等指标上，使国家自主拥有沦为掩盖外部控制的话语外壳。[[Argument_King_2007_CE|(King, 2007, pp. 385–389)]]
+>
+> > [!claim] McCormick, A.
+> > **“自主拥有”被降格为名义“领导权”的话语替代** 尽管《[[Paris Declaration on Aid Effectiveness|巴黎援助实效宣言]]》与[[Sector-Wide Approach|全行业方法（SWAp）]]将国家自主拥有视为援助有效性与可持续性的前提，但由于对受援国财政与治理能力的担忧，“自主拥有”常被“领导权”（leadership）替代；在柬埔寨与老挝的部门工作组中，SWAp 本身由捐助方发起推动，实际话语权与出资规模挂钩，“从捐助主导转向伙伴关系”的范式转移甚至在官方评估文本中以被动语态呈现，折射出自主权的外部建构实质。[[Argument_McCormick_2012_CER|(McCormick, 2012, pp. 23–24, 30–31)]]
 
 ---
 
@@ -116,3 +119,4 @@ updated: 2026-11-11
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_King_2007_CE|King (2007)]] — 剖析多边机构在推行教育全球指标时标榜国家自主拥有的修辞策略，揭示其与受援国被动从属现实之间的尖锐矛盾。
+> - [[Argument_McCormick_2012_CER|McCormick (2012)]] — 对比柬埔寨与老挝的全民教育政策过程，揭示“国家自主拥有”在全行业方法与援助协调中常被降格为由主要捐助方主导的名义“领导权”。

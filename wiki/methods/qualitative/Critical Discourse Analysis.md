@@ -162,5 +162,6 @@ updated: 2026-11-19
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 结合福柯权力-知识理论与批判话语分析，解构[[EU|欧盟]]官方白皮书与政策文本中“[[Europe of Knowledge|知识欧洲]]”的市场化话语建构。（pp. 479–481, 483–484）
+> - [[Argument_McCormick_2012_CER|McCormick (2012)]] — 将费尔克拉夫（2003）[[Genre Chain|体裁链]]与互文性分析结合民族志认识论田野观察，追踪全球[[Education for All|全民教育]]规范在柬埔寨与老挝教育政策中的传导与失衡。（pp. 19–21）
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 创新结合费尔克拉夫三维批判[[Discourse Analysis|话语分析]]模型、政策框架理论与[[Critical Realism|批判实在论]][[Explanatory Critique|解释性批判]]，系统解构中国[[Belt and Road Education Action Plan|“一带一路”教育行动]]政策文本群的[[Discourse|话语]]建构与[[Geopolitics|地缘政治]]逻辑。
 > - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 引入费尔克拉夫批判性话语分析视角，揭示大众媒体与官方报告如何通过技术中立化语言将新自由主义权力关系自然化（p. 423）。

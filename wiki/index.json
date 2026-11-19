@@ -2068,6 +2068,18 @@
     ]
   },
   {
+    "title": "Sector-Wide Approach",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Sector-Wide Approach.md",
+    "aliases": [
+      "SWAp",
+      "SWAps",
+      "全行业方法",
+      "部门整体方法",
+      "Sector-Wide Approaches"
+    ]
+  },
+  {
     "title": "Sedentarism",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Sedentarism.md",
@@ -17198,6 +17210,15 @@
     ]
   },
   {
+    "title": "Genre Chain",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Genre Chain.md",
+    "aliases": [
+      "体裁链",
+      "Genre Chains"
+    ]
+  },
+  {
     "title": "Going Native",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Going Native.md",
@@ -23219,6 +23240,15 @@
       "趋同理论",
       "convergence theory",
       "趋同论"
+    ]
+  },
+  {
+    "title": "Critical Development Theory",
+    "type": "theory",
+    "path": "wiki/theories/comparative-education/Critical Development Theory.md",
+    "aliases": [
+      "批判发展理论",
+      "Critical Development Studies"
     ]
   },
   {
@@ -44958,6 +44988,17 @@
     "subtype": "policy"
   },
   {
+    "title": "Paris Declaration on Aid Effectiveness",
+    "type": "fact",
+    "path": "wiki/facts/global/Paris Declaration on Aid Effectiveness.md",
+    "aliases": [
+      "巴黎援助实效宣言",
+      "Paris Declaration",
+      "援助实效巴黎宣言"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Poverty Reduction Strategy Papers",
     "type": "fact",
     "path": "wiki/facts/global/Poverty Reduction Strategy Papers.md",
@@ -55231,6 +55272,11 @@
     "title": "Argument_Zhou_2024_CE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Zhou_2024_CE.md"
+  },
+  {
+    "title": "Argument_McCormick_2012_CER",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Comparative Education Review/Argument_McCormick_2012_CER.md"
   },
   {
     "title": "Argument_Li_2026_CEAI",

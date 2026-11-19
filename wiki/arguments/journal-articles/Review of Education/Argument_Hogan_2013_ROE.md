@@ -174,11 +174,11 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **多面板协同架构**<br>Core 2 Multi-Panel Architecture | [[Centre for Research in Pedagogy and Practice\|CRPP]] 核心教学研究计划二期（[[Core 2 Research Program]]）整合大样本知觉问卷调查（Panel 2）、大规模常态课堂多机位录像与细粒度编码（Panel 3）、课业与测验任务真实智力成就评估（Panel 5）以及教师[[In-depth Interview\|深度访谈]]的多源互证设计。 |
-> | **面板二：问卷调查与因果建模**<br>Panel 2 Survey & SEM Modeling | 采用分半多水平[[Stratified Sampling\|分层抽样]]，面向 32 所公立中学 120 间学术班级 4000 余名中三学生采集 230 题项教学实践问卷；运用[[Item Parceling\|题项打包（Item Parceling）]]技术将题项聚合为 22 个潜变量复合指标，并通过高阶[[Confirmatory Factor Analysis\|验证性因子分析]]（CFA）与全潜变量结构方程模型（[[Causal Modeling\|SEM]]）测查四类教学策略的因子载荷与因果路径；同时抽取 120 名授课教师完成专业发展与评估信念问卷，并与全岛 2000 余名教师的教学影响宏观调查相互校验。 |
-> | **面板三：624 节常态课实录与微观编码**<br>Panel 3 Video Observation & Micro-Coding | 从问卷样本学校中抽取子样本班级，实地多机位完整录制 624 节中三数学与英语常态课；由专业观察员依据 CRPP 课堂话语与互动编码系统，逐段量化测查引发—应答—评估（IRE）三段式结构、提问类型、反馈机制、合作学习频次，并对照“积极教学”与[[Visible Learning\|“可见的学习”（Visible Learning）]]测量清单进行微观行为核定。 |
-> | **面板五：课业任务真实智力水准评估**<br>Panel 5 Authentic Intellectual Quality | 依托同批样本班级，系统收集配套教材、课堂练习册、学生作业本、校内阶段测验及国家统考试题；参照 Newmann 等人的真实智力成就标准（Authentic Intellectual Quality）与任务认知需求[[Analytic Framework\|分析框架]]，对任务的认知深度（程序性操练 vs 高阶探究）、[[Epistemology\|认识论]]清晰度以及学生实际作业产出的智力品质进行质性与量化评定。 |
-> | **教师深度质性访谈**<br>Qualitative Teacher Interviews | 对 115 名中三一线数学与英语教师进行半结构化深入访谈，采集教师在国家高利害统考压力、大纲进度覆盖与“少教多学”（TLLM）改革倡导之间权衡博弈的论述语料。 |
+> | **多面板协同架构**<br><small>Core 2 Multi-Panel Architecture</small> | [[Centre for Research in Pedagogy and Practice\|CRPP]] 核心教学研究计划二期（[[Core 2 Research Program]]）整合大样本知觉问卷调查（Panel 2）、大规模常态课堂多机位录像与细粒度编码（Panel 3）、课业与测验任务真实智力成就评估（Panel 5）以及教师[[In-depth Interview\|深度访谈]]的多源互证设计。 |
+> | **面板二：问卷调查与因果建模**<br><small>Panel 2 Survey & SEM Modeling</small> | 采用分半多水平[[Stratified Sampling\|分层抽样]]，面向 32 所公立中学 120 间学术班级 4000 余名中三学生采集 230 题项教学实践问卷；运用[[Item Parceling\|题项打包（Item Parceling）]]技术将题项聚合为 22 个潜变量复合指标，并通过高阶[[Confirmatory Factor Analysis\|验证性因子分析]]（CFA）与全潜变量结构方程模型（[[Causal Modeling\|SEM]]）测查四类教学策略的因子载荷与因果路径；同时抽取 120 名授课教师完成专业发展与评估信念问卷，并与全岛 2000 余名教师的教学影响宏观调查相互校验。 |
+> | **面板三：624 节常态课实录与微观编码**<br><small>Panel 3 Video Observation & Micro-Coding</small> | 从问卷样本学校中抽取子样本班级，实地多机位完整录制 624 节中三数学与英语常态课；由专业观察员依据 CRPP 课堂话语与互动编码系统，逐段量化测查引发—应答—评估（IRE）三段式结构、提问类型、反馈机制、合作学习频次，并对照“积极教学”与[[Visible Learning\|“可见的学习”（Visible Learning）]]测量清单进行微观行为核定。 |
+> | **面板五：课业任务真实智力水准评估**<br><small>Panel 5 Authentic Intellectual Quality</small> | 依托同批样本班级，系统收集配套教材、课堂练习册、学生作业本、校内阶段测验及国家统考试题；参照 Newmann 等人的真实智力成就标准（Authentic Intellectual Quality）与任务认知需求[[Analytic Framework\|分析框架]]，对任务的认知深度（程序性操练 vs 高阶探究）、[[Epistemology\|认识论]]清晰度以及学生实际作业产出的智力品质进行质性与量化评定。 |
+> | **教师深度质性访谈**<br><small>Qualitative Teacher Interviews</small> | 对 115 名中三一线数学与英语教师进行半结构化深入访谈，采集教师在国家高利害统考压力、大纲进度覆盖与“少教多学”（TLLM）改革倡导之间权衡博弈的论述语料。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 调研模块 | 抽样对象与覆盖范围 | 样本规模与材料形态 |
