@@ -86,7 +86,7 @@ updated: 2026-11-19
 > - **1994** 获得拉脱维亚大学学士学位。
 > - **1996** 获得哥伦比亚大学教育学院硕士学位。
 > - **2002** 获得哥伦比亚大学比较与国际教育学博士学位。
-> - **2008–2015** 历任理海大学（Lehigh University）助理教授、副教授，深入研究中欧、东欧与中亚后社会主义转型时期的教育[[Policy Borrowing|政策借用]]与分权化改革。
+> - **2008–2015** 历任理海大学（Lehigh University）助理教授、副教授，接任学术期刊《欧洲教育》（*European Education*）主编，深入研究中欧、东欧与中亚后社会主义转型时期的教育[[Policy Borrowing|政策借用]]与分权化改革，并发表该刊创刊四十周年学科史回顾研究。[[Argument_Silova_2009_EE|(Silova, 2009, pp. 17–31)]]
 > - **2015–至今** 任职于亚利桑那州立大学，历任教授、全球参与事务副院长，开拓人类世背景下的[[Posthumanism|后人类主义]]与去殖民比较教育研究。
 > - **2018–2019** 当选担任比较与国际教育学会会长，以“教育与人类世：构想超人类世界”（Education and the Anthropocene）为年会主题，推动学会反思西方中心主义现代性假设。
 > - **2026** 与桑托斯（Íris Santos）联合发表研究，深入剖析国际组织全球学习危机[[Discourse|话语]]的[[Knowledge Production|知识生产]]逻辑与援助机制。[[Argument_Santos_Silova_2026_Discourse|(Santos & Silova, 2026, pp. 669–681)]]
@@ -95,8 +95,8 @@ updated: 2026-11-19
 
 > [!thought-timeline] 思想发展
 > - **2000–2010 — 后社会主义转型与政策借用批判** 重点探讨苏联解体后中东欧与中亚国家的教育重构，质疑西方[[Neoliberalism|新自由主义]]教育方案在全球转型情境中的普适性假设。
->   - **代表著作** *Post-socialism is not dead: (Re)[[Readings of the Global|reading the global]] in comparative education* (2010)。
->   - **关键概念／方法** 政策借用、后社会主义转型、[[Qualitative Content Analysis]]。
+>   - **代表著作** *Post-socialism is not dead: (Re)[[Readings of the Global|reading the global]] in comparative education* (2010); *The changing frontiers of comparative education: A forty-year retrospective on European Education* (2009)。[[Argument_Silova_2009_EE|(Silova, 2009, pp. 17–31)]]
+>   - **关键概念／方法** 政策借用、后社会主义转型、多案例比较、[[Qualitative Content Analysis]]。
 >   - **阶段转向** 突破传统现代性线性发展假定，强调历史遗留轨迹与地方社会文脉的韧性。
 > - **2011–2019 — 去殖民地缘知识政治与[[Ontology|本体论]]反思** 将拉美现代性/殖民性学派概念工具引入比较教育，解构西方理性主义对多元[[Local Knowledge in Evidence-Based Policy|地方知识]]的认识论压制。
 >   - **代表著作** *Beyond the Western Horizon in Educational Thought: Toward a Deeper Dialogue with Eastern and Indigenous Knowledge Systems* (2019)。

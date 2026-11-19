@@ -68,7 +68,7 @@ updated: 2026-11-19
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国二十世纪著名比较教育史学家、教育史学者，纽约大学与宾夕法尼亚大学教育学讲席教授，美国比较教育学会（[[Comparative and International Education Society|CIES]]，原 CES）创始人兼首任会长，《比较教育评论》（CER）创刊编辑。
-> - **核心角色** 比较教育学从战前史学传统向战后建制化学科过渡时期的“历史良心”与制度奠基人；长期捍卫一手[[Primary and Secondary Documents|原始文献]]考据的人文史学传统，抵制无视文化脉络的纯量化[[Positivism|实证主义]]浪潮。
+> - **核心角色** 比较教育学从战前史学传统向战后建制化学科过渡时期的“历史良心”与创会开拓者；长期捍卫一手[[Primary and Secondary Documents|原始文献]]考据的人文史学传统，抵制无视文化脉络的纯量化[[Positivism|实证主义]]浪潮。
 > - **代表贡献** 创立美国比较教育学术共同体建制；挖掘并系统编目上起古典古代、下至十九世纪的[[Transnational Education|跨国教育]][[Document|文献]]遗产；与斯图尔特·E·弗雷泽（Stewart E. Fraser）合著权威史料集《国际与比较教育史》（1968）。
 
 > [!citation-card] 编目古典[[Intercultural Education|跨文化教育]]文献的历史使命
@@ -85,8 +85,9 @@ updated: 2026-11-19
 > - **1956** 发起创办美国比较教育学会（[[Comparative and International Education Society|Comparative Education Society]], CES，后更名为 CIES）并担任创会会长（1956–1959），开创学科专业共同体建制。
 > - **1957–1969** 创办学科旗舰刊物《比较教育评论》（*Comparative Education Review*），并担任首任主编逾十二载，确立多元开放的学术交流[[Champ|场域]]。
 > - **1962–1981** 转任宾夕法尼亚大学教育学与历史学教授，建立教育史与比较教育博士培养项目。
+> - **1970年代至1980年代** 出任《欧洲教育》（原《西欧教育》）继任主编，撰写多篇前瞻性专刊导言，批判美国学界关于“有价值外国文献皆已被英译”的盲目预设，力倡系统译介欧洲各语种一手教育史料与改革报告。[[Argument_Silova_2009_EE|(Silova, 2009, pp. 18, 25–26)]]
 > - **1968** 与弗雷泽联合出版经典史料汇编《国际与比较教育史》（*A History of International and Comparative Education*）。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 122)]]
-> - **1986** 逝世于宾夕法尼亚州，享年 72 岁；CIES 特设“威廉·W·布里克曼优秀研究论文奖”（William W. Brickman Award）以资纪念。
+> - **1986** 逝世于宾夕法尼亚州，享年 72 岁；CIES 特设威廉·W·布里克曼奖（William W. Brickman Award）以资纪念。
 
 ---
 
@@ -99,7 +100,7 @@ updated: 2026-11-19
 ---
 
 > [!claim] 核心思想
-> 比较教育学不是脱离历史虚构的抽象[[Variable|变量]]实验，而是一门深深植根于一手史料考据与文化脉络的人文历史探究。任何无视制度历史生成过程与文化[[Typicality|特殊性]]的跨国指标对比，不仅违背史学求真伦理，而且必然陷入“[[Dissimilar Units|非同质单位]]”（dissimilar units）的虚妄比较。
+> 比较教育学本质上是植根于一手史料考据与文化脉络的人文历史探究，抵制脱离历史情境的抽象[[Variable|变量]]实验。任何无视制度历史生成过程与文化[[Typicality|特殊性]]的跨国指标对比，不仅违背史学求真伦理，而且必然陷入“[[Dissimilar Units|非同质单位]]”（dissimilar units）的虚妄比较。
 
 > [!citation-card] 历史主义取向学者的学术阵营
 > 在比较教育学的[[Paradigm|范式]]大论战中，存在着一股具有深厚历史与文化取向的强大传统，包括历史学家艾萨克·[[Immanuel Kant|康德]]尔、[[Friedrich Schneider|弗里德里希·施奈德]]、[[Nicholas Hans|尼古拉斯·汉斯]]、[[Robert Ulich|罗伯特·乌利希]]、[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]、[[Claude A. Eggertsen|克劳德·A·埃格特森]]以及威廉·布里克曼。（p.128）[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 128)]]
@@ -123,7 +124,7 @@ updated: 2026-11-19
 ---
 
 > [!person-network] 关系网络
-> - **学术合作者** 斯图尔特·E·弗雷泽（Stewart E. Fraser） — 长期合编跨国比较教育原始史料汇编，重构学科前现代思想谱系。
+> - **合作学者** 斯图尔特·E·弗雷泽（Stewart E. Fraser） — 长期合编跨国比较教育原始史料汇编，重构学科前现代思想谱系。
 > - **历史主义同行** [[Isaac Kandel]]、[[Robert Ulich]]、[[Andreas Kazamias]]、[[Claude A. Eggertsen]] — 共同构成战后反对激进[[Positivism|实证主义]]的比较教育历史学派支柱。
 > - **[[Scientific Paradigm|科学范式]]论争方** [[C. Arnold Anderson]]、[[Harold Noah]]、[[Max Eckstein]] — 虽身处不同方法论阵营，但在学会平台共创学科专业建制。
 

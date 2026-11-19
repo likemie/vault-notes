@@ -7,7 +7,7 @@ aliases:
   - 乔治·贝雷迪
   - G. Z. F. Bereday
   - G. Bereday
-summary: "哥伦比亚大学师范学院比较教育学讲座教授，《比较教育评论》（CER）创刊主编，美国比较教育学会早期会长，提出归纳式四步比较法，是战后历史主义向科学范式过渡的关键桥梁学者与跨国学术网络奠基者。"
+summary: "哥伦比亚大学师范学院比较教育学讲座教授，《比较教育评论》（CER）创刊主编，美国比较教育学会早期会长，提出归纳式四步比较法，是战后历史主义向科学范式过渡的关键桥梁学者与跨国学术网络开拓者。"
 type: person
 cssclasses:
   - person-page
@@ -75,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -85,7 +85,7 @@ updated: 2026-11-11
 > - **核心角色** 20 世纪 50 至 60 年代比较教育学从历史主义学派向[[Scientific Paradigm\|科学范式]]过渡的关键桥梁学者；率先提出探讨方法论是比较教育教学与研究最紧迫的使命；创立经典的归纳式[[Bereday's Comparative Method|四步比较法]]；通过绘制全球院系版图与主编核心期刊，为战后现代比较教育学奠定了专业存在感与职业合法性。
 > - **代表贡献** 著作《教育中的比较方法》（*Comparative Method in Education*, 1964）确立“描述-解释-并列-比较”四步归纳分析程序，将学科目标推向探寻“所有教育体制据以构建的内在普遍力量”；创办并主持 CER 奠定学科公认同行评审阵地；与[[Joseph Lauwerys\|约瑟夫·劳韦里斯]]（Joseph Lauwerys）联合主持《世界教育年鉴》（*World Year Book of Education*），构筑战后跨国思想立交桥。
 
-> [!citation-card] 考恩论贝雷迪的跨国学者网络与学科合法化奠基
+> [!citation-card] 考恩论贝雷迪的跨国学者网络与学科合法化建构
 > 贝雷迪著作中对各国学者及其大学与院系的出色记载，证实了比较教育学真实存在且拥有自己的历史。他与劳韦里斯不仅跨越文化和大洲联结了思想与行动者，而且凭借其对学术机构、学术学会和几代研究生的深远影响，成为学科发展中不可绕过的里程碑人物。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 7, 9)]]
 >
 > *There was also that marvellous account in Bereday's book (1964) about scholars in other countries and their universities and departments. Comparative education existed and it had a history as well... Both Bereday and Lauwerys linked persons and ideas across cultures and continents and for quite justifiable reasons – including their impact on their own institutions, and on the societies of comparative education and on generations of graduate students.*
@@ -100,6 +100,7 @@ updated: 2026-11-11
 > - **1961–1962** 出任美国比较教育学会会长，推动学会专业化与国际化学术交流。
 > - **1964** 出版标志性经典专著《教育中的比较方法》（*[[Bereday's Comparative Method|Comparative Method in Education]]*），提出归纳式四步比较分析程序，成为全球比较教育研究者的权威方法论指南。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 7)]]; [[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 61–62)]]
 > - **1965–1966** 发表坎德尔纪念文集与评传文章，从[[Epistemology\|认识论]]与学科思想史高度总结老一代学者的历史-哲学遗产。
+> - **1968–1969** 深度参与由其指导的哥伦比亚大学博士生乌苏拉·施普林格（Ursula Springer）发起的学术期刊《西欧教育》（*Western European Education*）创办工作，出任首届学术顾问委员会核心成员，倡导结合一手史料译介与多国案例比较以打破美国学界的文献语言壁垒。[[Argument_Silova_2009_EE|(Silova, 2009, pp. 18, 21, 26)]]
 > - **1970年代** 攻读法学博士（J.D.）并在哥伦比亚大学讲授教育法学与比较法学，拓展跨领域比较视野。
 > - **1983** 逝世于美国纽约。[[Comparative and International Education Society\|CIES]] 为纪念其杰出贡献，设立学术界享有盛誉的年度文章奖乔治·贝雷迪奖（George Bereday Award）。
 
@@ -157,7 +158,7 @@ updated: 2026-11-11
 
 ---
 
-> [!citation-card] 考恩论贝雷迪对战后学科职业合法性的奠基与深层历史评传的缺位
+> [!citation-card] 考恩论贝雷迪对战后学科职业合法性的确立与深层历史评传的缺位
 > 贝雷迪在其 1964 年经典著作中对各国学者及其大学与院系的出色记载，证实了比较教育学真实存在且拥有自己的历史。贝雷迪与劳韦里斯不仅跨越文化和大洲联结了思想与行动者，而且凭借其对自身所在机构、比较教育学会以及几代研究生的深远影响，成为学科发展中不可绕过的里程碑人物。然而，学界对贝雷迪的认知长期停留在传奇演讲魅力与表面声望上，至今缺少一部由严肃史学家撰写的深层学术评传。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 7, 9)]]
 >
 > *There was also that marvellous account in Bereday's book (1964) about scholars in other countries and their universities and departments. Comparative education existed and it had a history as well... Both Bereday and Lauwerys linked persons and ideas across cultures and continents and for quite justifiable reasons – including their impact on their own institutions, and on the societies of comparative education and on generations of graduate students.*

@@ -259,3 +259,4 @@ updated: 2026-11-19
 > - [[Argument_Heinze_2009_RP|Heinze et al. (2009)]] — 结合专家提名、学术获奖与引文数据，对欧美纳米技术与人类遗传学领域的 20 个重大科研突破开展多案例比较研究，提炼微观团队规模、[[Complementary Variety|互补多样性]]与制度资助对[[Scientific Creativity|科学创造力]]的复合影响机制。
 > - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 采用北欧跨国比较案例研究设计，对比丹麦、芬兰与挪威基础教育改革中的政策文本、引文网络与决策者访谈，揭示不同福利国家制度情境下证据利用与政治合法化的共生机制（pp. 531–535）。
 > - [[Argument_Natario_2025_IndHE|Natário and Oliveira (2025)]] — 采用探索性与反思性定性个案研究，考察葡萄牙中部六所理工学院的四项协同项目，剖析应用型高校如何催化区域与[[Social Innovation Ecosystem|社会创新生态系统]]。
+> - [[Argument_Silova_2009_EE|Silova (2009)]] — 结合《欧洲教育》四十卷出版史，评析主题化多案例比较设计（multiple case-study comparison）在调和单国历史深描与跨国量化实证两极对立中的方法论桥梁作用（pp. 22–25）。

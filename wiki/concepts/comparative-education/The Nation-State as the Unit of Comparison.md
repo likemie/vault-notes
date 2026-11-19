@@ -160,7 +160,7 @@ updated: 2026-11-19
 ---
 
 > [!dev-timeline] 概念演变
-> - **19 世纪中后期 — 现代民族国家公立教育创建与官方考察奠基** 维多利亚时代皇家学校督学[[Matthew Arnold\|马修·阿诺德]]（Arnold, 1864）与法国哲学家[[Victor Cousin\|库森]]将考察单位锚定于中央集权制的法国与普鲁士国家体系，论证唯有国家公共权威与主权干预才能奠定普遍国民教化。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 38)]]
+> - **19 世纪中后期 — 现代民族国家公立教育创建与官方考察源起** 维多利亚时代皇家学校督学[[Matthew Arnold\|马修·阿诺德]]（Arnold, 1864）与法国哲学家[[Victor Cousin\|库森]]将考察单位锚定于中央集权制的法国与普鲁士国家体系，论证唯有国家公共权威与主权干预才能奠定普遍国民教化。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 38)]]
 > - **1900–1950 年代 — 历史-哲学母题与民族国家[[Epistemology\|认识论]][[Paradigm\|范式]]确立** [[Michael Sadler\|萨德勒]]（1900）、[[Isaac Kandel\|坎德尔]]（1933）与汉斯（1949）将民族国家及其“国民教育体系”确立为跨国比较的公认首要认识论单位，以民族主义与[[National Character\|民族性格]]作为核心因果机制。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 40, 47–50)]]
 > - **1960–1970 年代 — 战后新兴国家冲击与批判性国家理论重塑** 亚非拉大批脱离殖民统治的新兴国家崛起；[[Martin Carnoy|马丁·卡诺伊]]（Martin Carnoy）、[[Joel Samoff|萨莫夫]]与戴尔引入新[[Karl Marx|马克思]]主义批判国家理论，将国家重构为调和资本积累、阶级利益与合法性危机的冲突竞技场。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 48, 52–53)]]
 > - **1990 年代至今 — 布雷-托马斯多层分析立方体与反思[[Methodological Nationalism\|方法论民族主义]]** 马克·布雷与 R. 默里·托马斯（Bray & Thomas, 1995）提出打破单一国家容器的多层级比较分析立方体；[[Roger Dale|罗杰·戴尔]]、考恩与诺沃亚等学者系统反思方法论民族主义，推动比较教育走向全球治理与超国家空间分析。
@@ -192,3 +192,4 @@ updated: 2026-11-19
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] — 系统考掘民族国家作为历史-哲学母题核心[[Epistemology\|认识论]]单位的确立、[[Isaac Kandel\|坎德尔]]对国家解释[[Variable\|变量]]的开创性贡献，以及战后该[[Paradigm\|范式]]遭遇的历史局限与反思。
+> - [[Argument_Silova_2009_EE|Silova (2009)]] — 考证民族国家作为支配性比较单位的历史脉络及其在战后引发的单国历史叙述与跨国量化两极分化，论证主题化多案例跨国比较如何维系文脉敏感性并拓展比较单位（pp. 22–25）。

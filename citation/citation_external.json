@@ -3316,7 +3316,9 @@
     "Bray & Thomas (1995)": "Bray & Thomas, 1995",
     "Bray & Thomas, 1995": "Bray & Thomas, 1995",
     "Bray (2007)": "Bray, 2007",
+    "Bray (2008)": "Bray, 2008",
     "Bray, 2007": "Bray, 2007",
+    "Bray, 2008": "Bray, 2008",
     "Brazziel & Terrell (1962)": "Brazziel & Terrell, 1962",
     "Brazziel & Terrell, 1962": "Brazziel & Terrell, 1962",
     "Breakwell (2000)": "Breakwell, 2000",
@@ -3391,8 +3393,10 @@
     "Brice, 2017a": "Brice, 2017b",
     "Brice, 2017b": "Brice, 2017b",
     "Brickman (1968)": "Brickman, 1968",
+    "Brickman (1981)": "Brickman, 1981",
     "Brickman (2002)": "Brickman, 2002",
     "Brickman, 1968": "Brickman, 1968",
+    "Brickman, 1981": "Brickman, 1981",
     "Brickman, 2002": "Brickman, 2002",
     "Bridgstock (2009)": "Bridgstock, 2009",
     "Bridgstock, 2009": "Bridgstock, 2009",
@@ -10635,6 +10639,7 @@
     "Hannu Simola, 2008": "Hannu Simola, 2008",
     "Hannu Simola, 2015": "Hannu Simola, 2015",
     "Hans (1949)": "Hans, 1949",
+    "Hans (1950)": "Hans, 1950",
     "Hans (1952)": "Hans, 1952",
     "Hans (1955)": "Hans, 1955",
     "Hans (1958)": "Hans, 1958",
@@ -10643,6 +10648,7 @@
     "Hans Reichenbach (1956)": "Hans Reichenbach, 1956",
     "Hans Reichenbach, 1956": "Hans Reichenbach, 1956",
     "Hans, 1949": "Hans, 1949",
+    "Hans, 1950": "Hans, 1950",
     "Hans, 1952": "Hans, 1952",
     "Hans, 1955": "Hans, 1955",
     "Hans, 1958": "Hans, 1958",
@@ -13059,10 +13065,13 @@
     "Kanadli, 2016": "Kanadli, 2016",
     "Kanchewa (2014)": "Kanchewa, 2014",
     "Kanchewa, 2014": "Kanchewa, 2014",
-    "Kandel (1933)": "Kandel, 1933",
+    "Kandel (1933a)": "Kandel, 1933a",
+    "Kandel (1933b)": "Kandel, 1933b",
     "Kandel (1955)": "Kandel, 1955",
     "Kandel (1959)": "Kandel, 1959",
-    "Kandel, 1933": "Kandel, 1933",
+    "Kandel, 1933": "Kandel, 1933a",
+    "Kandel, 1933a": "Kandel, 1933b",
+    "Kandel, 1933b": "Kandel, 1933b",
     "Kandel, 1955": "Kandel, 1955",
     "Kandel, 1959": "Kandel, 1959",
     "Kander et al. (2024)": "Kander et al., 2024",
@@ -18596,10 +18605,12 @@
     "Noah & Eckstein, 1969": "Noah & Eckstein, 1969",
     "Noah (1973)": "Noah, 1973",
     "Noah (1984)": "Noah, 1984",
+    "Noah (2006)": "Noah, 2006",
     "Noah W. Sobe & Trevor Fischer (2009)": "Noah W. Sobe & Trevor Fischer, 2009",
     "Noah W. Sobe & Trevor Fischer, 2009": "Noah W. Sobe & Trevor Fischer, 2009",
     "Noah, 1973": "Noah, 1973",
     "Noah, 1984": "Noah, 1984",
+    "Noah, 2006": "Noah, 2006",
     "Noble (1967)": "Noble, 1967",
     "Noble, 1967": "Noble, 1967",
     "Noddings (1986)": "Noddings, 1986",
@@ -21336,6 +21347,8 @@
     "Robin, 2006": "Robin, 2006",
     "Robins & Rotnitzky (1995)": "Robins & Rotnitzky, 1995",
     "Robins & Rotnitzky, 1995": "Robins & Rotnitzky, 1995",
+    "Robinsohn (1969)": "Robinsohn, 1969",
+    "Robinsohn, 1969": "Robinsohn, 1969",
     "Robinson & Kelley (2007)": "Robinson & Kelley, 2007",
     "Robinson & Kelley, 2007": "Robinson & Kelley, 2007",
     "Robinson (1950)": "Robinson, 1950",
@@ -22256,6 +22269,8 @@
     "Satterfield et al., 2009": "Satterfield et al., 2009",
     "Satz (2007)": "Satz, 2007",
     "Satz, 2007": "Satz, 2007",
+    "Saul Robinsohn (1969)": "Saul Robinsohn, 1969",
+    "Saul Robinsohn, 1969": "Saul Robinsohn, 1969",
     "Saunders (2014)": "Saunders, 2014",
     "Saunders (2015)": "Saunders, 2015",
     "Saunders, 2014": "Saunders, 2014",
@@ -27134,6 +27149,7 @@
     "Wilson & McLean (1994)": "Wilson & McLean, 1994",
     "Wilson & McLean, 1994": "Wilson & McLean, 1994",
     "Wilson (1978)": "Wilson, 1978",
+    "Wilson (1994)": "Wilson, 1994",
     "Wilson (1998)": "Wilson, 1998",
     "Wilson (2008)": "Wilson, 2008",
     "Wilson (2009)": "Wilson, 2009",
@@ -27147,6 +27163,7 @@
     "Wilson et al., 2018": "Wilson et al., 2018",
     "Wilson et al., 2019": "Wilson et al., 2019",
     "Wilson, 1978": "Wilson, 1978",
+    "Wilson, 1994": "Wilson, 1994",
     "Wilson, 1998": "Wilson, 1998",
     "Wilson, 2008": "Wilson, 2008",
     "Wilson, 2009": "Wilson, 2009",
@@ -35498,6 +35515,7 @@
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings.md",
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_ForgottenThemes.md",
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mattheou_2009_ScientificParadigm.md",
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md",
         "wiki/concepts/comparative-education/Historical-Philosophical-Cultural Motif.md",
         "wiki/concepts/comparative-education/Scientific Paradigm.md",
         "wiki/concepts/educational-philosophy/Positivism.md",
@@ -53487,6 +53505,21 @@
       ],
       "title": ""
     },
+    "Bray, 2008": {
+      "aliases": [
+        "Bray, 2008",
+        "Bray (2008)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bray, 2008"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
+      ],
+      "title": ""
+    },
     "Brazziel & Terrell, 1962": {
       "aliases": [
         "Brazziel & Terrell, 1962",
@@ -54066,6 +54099,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings.md"
+      ],
+      "title": ""
+    },
+    "Brickman, 1981": {
+      "aliases": [
+        "Brickman, 1981",
+        "Brickman (1981)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Brickman, 1981"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
       ],
       "title": ""
     },
@@ -98273,6 +98321,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md",
         "wiki/concepts/comparative-education/Development Turn in Comparative Education.md"
       ],
       "title": ""
@@ -107104,6 +107153,21 @@
         "wiki/concepts/comparative-education/Factorial Interpretive Framework.md",
         "wiki/concepts/comparative-education/Protean Episteme.md",
         "wiki/persons/uk/Nicholas Hans.md"
+      ],
+      "title": ""
+    },
+    "Hans, 1950": {
+      "aliases": [
+        "Hans, 1950",
+        "Hans (1950)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hans, 1950"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
       ],
       "title": ""
     },
@@ -124732,10 +124796,10 @@
       "seen_in": [],
       "title": "An investigation of same- versus cross-gender matching for boys in formal school-based mentoring programs"
     },
-    "Kandel, 1933": {
+    "Kandel, 1933a": {
       "aliases": [
-        "Kandel, 1933",
-        "Kandel (1933)"
+        "Kandel, 1933a",
+        "Kandel (1933a)"
       ],
       "doi": "",
       "identity_keys": [
@@ -124753,6 +124817,21 @@
         "wiki/concepts/educational-philosophy/Positivism.md",
         "wiki/persons/uk/Nicholas Hans.md",
         "wiki/persons/us/Isaac Kandel.md"
+      ],
+      "title": ""
+    },
+    "Kandel, 1933b": {
+      "aliases": [
+        "Kandel, 1933b",
+        "Kandel (1933b)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Kandel, 1933a"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
       ],
       "title": ""
     },
@@ -126510,6 +126589,7 @@
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_ForgottenThemes.md",
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mattheou_2009_ScientificParadigm.md",
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md",
         "wiki/concepts/educational-philosophy/Empiricism.md",
         "wiki/persons/us/Andreas Kazamias.md",
         "wiki/persons/us/Isaac Kandel.md"
@@ -164796,6 +164876,7 @@
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_HistoricalReflections.md",
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mattheou_2009_ScientificParadigm.md",
         "wiki/arguments/journal-articles/Comparative Education/Argument_Cowen_2009_CE.md",
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md",
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/concepts/comparative-education/Academic Iconography.md",
         "wiki/concepts/comparative-education/Auslandspadagogik.md",
@@ -164827,8 +164908,7 @@
         "wiki/facts/us/Toward a Science of Comparative Education 1969.md",
         "wiki/methods/qualitative/Historical-Comparative Method.md",
         "wiki/persons/switzerland/Johann Heinrich Pestalozzi.md",
-        "wiki/persons/uk/Nicholas Hans.md",
-        "wiki/persons/us/Calvin Stowe.md"
+        "wiki/persons/uk/Nicholas Hans.md"
       ],
       "title": ""
     },
@@ -164878,6 +164958,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Rappleye_2006_RCIE.md"
+      ],
+      "title": ""
+    },
+    "Noah, 2006": {
+      "aliases": [
+        "Noah, 2006",
+        "Noah (2006)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Noah, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
       ],
       "title": ""
     },
@@ -184988,6 +185083,21 @@
       ],
       "title": ""
     },
+    "Robinsohn, 1969": {
+      "aliases": [
+        "Robinsohn, 1969",
+        "Robinsohn (1969)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Robinsohn, 1969"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
+      ],
+      "title": ""
+    },
     "Robinson & Kelley, 2007": {
       "aliases": [
         "Robinson & Kelley, 2007",
@@ -189758,6 +189868,7 @@
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_HistoricalReflections.md",
         "wiki/arguments/journal-articles/Comparative Education/Argument_Cowen_2009_CE.md",
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md",
         "wiki/concepts/comparative-education/Cross-National Attraction.md",
         "wiki/concepts/comparative-education/Influences Across Cultures.md",
         "wiki/concepts/comparative-education/Policy Borrowing.md",
@@ -191750,6 +191861,21 @@
         "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Lim_2013_APJE.md"
       ],
       "title": "Equality, Adequacy, and Education for Citizenship"
+    },
+    "Saul Robinsohn, 1969": {
+      "aliases": [
+        "Saul Robinsohn, 1969",
+        "Saul Robinsohn (1969)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Saul Robinsohn, 1969"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
+      ],
+      "title": ""
     },
     "Saunders, 2014": {
       "aliases": [
@@ -205394,6 +205520,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Klerides_2023_CE.md",
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md",
         "wiki/facts/global/1967 Williamsburg Conference on the World Crisis in Education.md",
         "wiki/facts/global/International Institute for Educational Planning.md"
       ],
@@ -216743,6 +216870,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
         "wiki/arguments/journal-articles/Education Policy Analysis Archives/Argument_Edmondson_2005_EPAA.md",
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md",
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/concepts/comparative-education/Grammar of Schooling.md",
         "wiki/concepts/educational-policy-reform/Silver-Bullet Fallacy.md",
@@ -227024,6 +227152,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Relationship of diagnostic-cooperative teaching approach to mathematics achievement and personal-social adjustment of inner city intermediate students"
+    },
+    "Wilson, 1994": {
+      "aliases": [
+        "Wilson, 1994",
+        "Wilson (1994)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Wilson, 1994"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
+      ],
+      "title": ""
     },
     "Wilson, 1998": {
       "aliases": [

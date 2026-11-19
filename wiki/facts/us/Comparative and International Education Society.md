@@ -195,3 +195,4 @@ updated: 2026-11-19
 > - [[Argument_Cowen_2009_HistoryCreation|Cowen (2009a)]] — 深度解构 CIES 的词汇突变与[[Structural Functionalism|结构功能主义]]元认识型塑造，指出学会档案发掘与口述史工程的滞后性。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 梳理 CIES 创会与《比较教育评论》（CER）半个世纪的历史轨迹，依托文献计量与[[Questionnaire|问卷调查]]揭示学科从单一功能主义霸权走向 26 种[[Paradigm|范式]]并存之理论[[Pluralism|多元主义]]的建制演进（pp. 122–123, 131–132）。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 辨析 CIES 1969 年更名中“国际”植入所代表的海外援助技术治理转型与认识型重构。
+> - [[Argument_Silova_2009_EE|Silova (2009)]] — 考证学会领导层（Brickman、Shafer、Springer、Bereday）与专业期刊的制度互动，揭示冷战初期年会与 CER 会刊聚焦苏联教育的出版数据及其反映的地缘偏向（pp. 18–21）。
