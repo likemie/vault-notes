@@ -234,6 +234,7 @@ updated: 2026-11-19
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Nordtveit_2011_IJED|Nordtveit (2011)]] — 采用单国度质性个案研究设计，结合分层关键知情人访谈、焦点小组与实地考察，考察中国对喀麦隆教育援助的四类形态及治理特征。
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 采用跟踪式个案设计，结合目的抽样与理论抽样分两阶段选取 62 名个案，用以检视叙述可靠性并确证意向与行为的关联。
 > - [[Argument_Wang_2025_CE|Wang and McLaughlin (2025)]] — 以多案例研究设计，从 15 所参与跨文化 [[Learner-Centred Education|LCE]] 教师培训项目的学校中选取 4 所进行深度追踪，对比不同学校在[[Test-Based Accountability|考试问责]]压力下推进 LCE 的路径差异。
 > - [[Argument_He_2018_HEP|He and Wilkins (2018)]] — 采用多案例研究设计，选取[[Soochow University in Laos|老挝苏州大学]]、[[Xiamen University Malaysia|厦门大学马来西亚分校]]与泰国[[Bangkok Business School|曼谷商学院]]三所境外分校，对比不同东道国语境下[[Educational Soft Power|教育软实力]]的运作差异。

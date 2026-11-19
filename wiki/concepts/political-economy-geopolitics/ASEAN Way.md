@@ -87,26 +87,26 @@ updated: 2026-11-19
 
 > [!feature] 核心要素
 > - **不干涉国家内部事务（Principle of Non-Interference）** 成员国对近代殖民历史具有深刻的历史记忆，将国家主权防卫置于首位，坚决禁止多边机制评判或干预各国内部制度安排。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 152)]]
-> - **协商一致与非正式磋商（Consensus-Building and Informality）** 避免进行公开发生阵营对立的举手表决，倾向于在会前通过闭门非正式磋商化解矛盾，以最大公约数形成非约束性政治声明。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 152)]]; [[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 524–525)]]
-> - **防范超国家权力掺杂（Prevention of Power Co-Mingling）** 严格警惕国际公务员或常设秘书处擅自攫取政策裁量权，坚决切断国家部委决策权威与超国家代理人混合决策的制度通道。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 152)]]
-> - **双轨功能性组织分工（Dual-Track Functional Division of Labour）** 在高等教育领域体现为由[[ASEAN University Network|东盟大学联盟]]承担顶尖高校间的微观学术合作与学分试点，由[[SEAMEO RIHED|东南亚教育部长组织高教中心]]承担政府间宏观多边对话，两机构平行协作、互不统属。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151–153)]]
+> - **协商一致与非正式磋商（Consensus-Building and Informality）** 避免进行公开发生阵营对立的举手表决，倾向于在会前通过闭门非正式磋商化解矛盾，以最大公约数形成非约束性政治声明。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 524–525)]]
+> - **防范超国家权力掺杂（Prevention of Power Co-Mingling）** 严格警惕国际公务员或常设秘书处擅自攫取政策裁量权，坚决切断国家部委决策权威与超国家代理人混合决策的制度通道。
+> - **双轨功能性组织分工（Dual-Track Functional Division of Labour）** 在高等教育领域体现为由[[ASEAN University Network|东盟大学联盟]]承担顶尖高校间的微观学术合作与学分试点，由[[SEAMEO RIHED|东南亚教育部长组织高教中心]]承担政府间宏观多边对话，两机构平行协作、互不统属。
 
 > [!logic-map]- 东盟方式的规范生成与高教治理分工结构
-> ```mermaid
-> flowchart TD
->     A["历史根源：后殖民建国历程与高度主权敏感"] --> B["东盟方式 (ASEAN Way) 规范确立"]
->     
->     B --> C["不干涉内政与协商一致"]
->     B --> D["防范超国家权力集权与掺杂"]
->     B --> E["非约束性共识与自愿参与"]
->     
->     C & D & E --> F["高等教育建区策略：多帆竞逐模式 (Regatta Model)"]
->     
->     F --> G["高校学术轨道：东盟大学联盟 (AUN) 负责名校自主结网"]
->     F --> H["部委政治轨道：SEAMEO RIHED / ASED 负责政府间宏观对话"]
->     
->     G & H --> I["构建东南亚高教共同空间，维系国家教育主权完整"]
-> ```
+```mermaid
+flowchart TD
+    A["历史根源：后殖民建国历程与高度主权敏感"] --> B["东盟方式 (ASEAN Way) 规范确立"]
+    
+    B --> C["不干涉内政与协商一致"]
+    B --> D["防范超国家权力集权与掺杂"]
+    B --> E["非约束性共识与自愿参与"]
+    
+    C & D & E --> F["高等教育建区策略：多帆竞逐模式 (Regatta Model)"]
+    
+    F --> G["高校学术轨道：东盟大学联盟 (AUN) 负责名校自主结网"]
+    F --> H["部委政治轨道：SEAMEO RIHED / ASED 负责政府间宏观对话"]
+    
+    G & H --> I["构建东南亚高教共同空间，维系国家教育主权完整"]
+```
 
 ---
 
@@ -115,6 +115,9 @@ updated: 2026-11-19
 
 > [!claim] Chou, M.-H. and Ravinet, P.
 > **治理准则决定去中心化分工体系** 周孟娴与宝琳·拉维内（Meng-Hsuan Chou & Pauline Ravinet）实证指出，东盟方式在东南亚高等教育领域的具体体现，根植于对建立集权型超国家管理机构的高度制度警惕。在不干预内政与非正式磋商原则的主导下，东南亚国家走出了一条立足项目载体、由成员国自愿参与（case-by-case）的多元网络路径；这一柔性治理形态使区域合作能够规避成员国之间巨大的体制与发展[[Heterogeneity|异质性]]，以务实兼容达成多边共识。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151–154)]]
+
+> [!claim] Dang, Q. A.
+> **自愿协调机制对主权防卫与空间构建的平衡** 邓桂英（Que Anh Dang）指出，东盟方式的不干涉与协商一致规范直接孕育了高等教育领域的自愿协调（voluntary coordination）机制。东南亚国家将“趋同协调（harmonisation）”重塑为区别于欧洲强制一体化的非约束性政策话语，依托弱连接非正式网络在严格捍卫国家教育主权的前提下推进跨国学分互认与资格对齐，使东盟方式转化为支撑区域高等教育空间渐进建构的合法性规范基础。[[Argument_Dang_2017_ORE|(Dang, 2017, pp. 420–425)]]
 
 ---
 
@@ -135,45 +138,61 @@ updated: 2026-11-19
 ---
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
-> |---|---|---|---|
-> | **架构塑造机制** | 协商一致原则塑造了以自愿和项目为基础的去中心化合作形态 | 东南亚多边治理、区域公共政策分析 | [[Argument_Chou_2017_PolSoc\|Chou and Ravinet (2017)]]; Koga (2010) |
-> | **主权隔离机制** | 通过机构功能平行并立阻断超国家集权侵蚀国家法定权力 | [[Comparative Regionalism\|比较区域主义]]、行政权力防卫制度设计 | [[Argument_Chou_2017_PolSoc\|Chou and Ravinet (2017)]]; Narine (2008) |
-> | **去殖民重塑机制** | 消极不干涉的离散效应加剧外部依附，需依托本土哲学转向主动互助 | 高等教育去殖民化、地缘政治与区域公共治理 | [[Argument_Indrarajah_2026_NJCIE\|Indrarajah (2026)]]; Nkrumah (1965) |
+| 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+|---|---|---|---|
+| **架构塑造机制** | 协商一致原则塑造了以自愿和项目为基础的去中心化合作形态 | 东南亚多边治理、区域公共政策分析 | [[Argument_Chou_2017_PolSoc\|Chou and Ravinet (2017)]]; [[Argument_Dang_2017_ORE\|Dang (2017)]]; Koga (2010) |
+| **主权隔离机制** | 通过机构功能平行并立阻断超国家集权侵蚀国家法定权力 | [[Comparative Regionalism\|比较区域主义]]、行政权力防卫制度设计 | [[Argument_Chou_2017_PolSoc\|Chou and Ravinet (2017)]]; Narine (2008) |
+| **去殖民重塑机制** | 消极不干涉的离散效应加剧外部依附，需依托本土哲学转向主动互助 | 高等教育去殖民化、地缘政治与区域公共治理 | [[Argument_Indrarajah_2026_NJCIE\|Indrarajah (2026)]]; Nkrumah (1965) |
 
 ---
 
-> [!dev-timeline]- 东盟方式的确立与高等教育实践演变
-> - **1967 — 《曼谷宣言》签署与机制创立** 印度尼西亚、马来西亚、菲律宾、新加坡与泰国签署宣言创立东盟，正式确立不干预内政与和平共处的区域行为准则。
-> - **1976 — [[Treaty of Amity and Cooperation in Southeast Asia|《东南亚友好合作条约》]]法典化** 正式将主权平等、领土完整、不干预内政与协商一致上升为全域具有根本约束力的准则性共识。
-> - **1992–1993 — 高教领域双轨制度化确立** 东盟成立 AUN 推进名校自主学术结网，[[SEAMEO]] 重启 RIHED 推进政府间高教对话，东盟方式在教育部门确立起组织分工架构。
-> - **2007–2008 — [[ASEAN Charter|《东盟宪章》]]出台与主权共识再确认** 宪章虽赋予东盟国际法主体资格，但严格维系协商一致原则；同期 RIHED 报告重申坚持东盟方式、抵制照搬欧洲集权模型。
-> - **2015–至今 — 面向共同空间的务实自愿衔接** 在[[ASEAN Economic Community|东盟经济共同体]]（AEC）建成背景下，东盟方式保障了各国在维系主权的前提下以技术兼容推动高教共同空间建设。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 152–154)]]
-> - **2017 — 趋同协调话语与东盟方式高教实践结合** 邓桂英（[[Argument_Dang_2017_ORE|Dang, 2017]]）揭示趋同协调在东南亚被赋予积极内涵，作为东盟方式在高等教育领域的具体载体，依托弱连接非正式网络推进自愿渐进整合（pp. 422–425）。
-> - **2026 — 去殖民视角下的反思与重塑** 学界从认识论去殖民化视角反思东盟方式在高等教育治理中的局限，主张融入 Sejahtera 与 Kapwa 等本土哲学，以资源再分配与本土人才内生循环重构区域认同。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 12–15)]]
+> [!dev-timeline] 概念演变
+- **1967 — 《曼谷宣言》签署与机制创立** 印度尼西亚、马来西亚、菲律宾、新加坡与泰国签署宣言创立东盟，正式确立不干预内政与和平共处的区域行为准则。
+- **1976 — [[Treaty of Amity and Cooperation in Southeast Asia|《东南亚友好合作条约》]]法典化** 正式将主权平等、领土完整、不干预内政与协商一致上升为全域具有根本约束力的准则性共识。
+- **1992–1993 — 高教领域双轨制度化确立** 东盟成立 AUN 推进名校自主学术结网，[[SEAMEO]] 重启 RIHED 推进政府间高教对话，东盟方式在教育部门确立起组织分工架构。
+- **2007–2008 — [[ASEAN Charter|《东盟宪章》]]出台与主权共识再确认** 宪章虽赋予东盟国际法主体资格，但严格维系协商一致原则；同期 RIHED 报告重申坚持东盟方式、抵制照搬欧洲集权模型。
+- **2015–至今 — 面向共同空间的务实自愿衔接** 在[[ASEAN Economic Community|东盟经济共同体]]（AEC）建成背景下，东盟方式保障了各国在维系主权的前提下以技术兼容推动高教共同空间建设。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 152–154)]]
+- **2017 — 趋同协调话语与东盟方式高教实践结合** 邓桂英（[[Argument_Dang_2017_ORE|Dang, 2017]]）揭示趋同协调在东南亚被赋予积极内涵，作为东盟方式在高等教育领域的具体载体，依托弱连接非正式网络推进自愿渐进整合（pp. 422–425）。
+- **2026 — 去殖民视角下的反思与重塑** 学界从认识论去殖民化视角反思东盟方式在高等教育治理中的局限，主张融入 Sejahtera 与 Kapwa 等本土哲学，以资源再分配与本土人才内生循环重构区域认同。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 12–15)]]
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] — 实证阐明东盟方式如何作为核心解释[[Variable|变量]]，驱动东南亚[[Global Regionalisms|高等教育区域主义]]形成独特的 AUN-RIHED 双轨组织分工。
-> - [[Argument_Dang_2017_ORE|Dang (2017)]] — 分析东盟方式在高等教育领域的趋同协调机制，揭示非正式协商与弱连接网络如何推动东南亚形成求同存异的区域教育认同。
-> - [[Argument_Indrarajah_2026_NJCIE|Indrarajah (2026)]] — 从认识论去殖民化视角批判东盟方式消极不干涉对区域高教一体化的阻滞，提出融合本土哲学以推动跨国资源再分配的新范式。
-> - [[Argument_Murray_Moxon-Browne_2013_JCMS|Murray and Moxon-Browne (2013)]] — 比较[[Committee of Permanent Representatives to ASEAN|东盟常驻代表委员会]]（CPR）与欧洲常设代表委员会（[[Coreper]]），剖析东盟方式对微观外交官社交网络与裁量权的制约。
+> [!debates|notitle] 学术争议
+>
+> > [!axis] 柔性协商的稳固韧性 vs 危机应对的制度效能
+> > 探讨缺乏超国家裁判权与法律硬约束的东盟方式在深层危机面前是否具备有效的治理能力。
+> >
+> > - **批判立场（现实主义与制度主义学派）** 认为东盟方式的协商一致准则往往导致政策沦为最低公约数，缺乏硬性制裁使区域合作在面临地缘摩擦或深层利益分歧时陷入行动迟缓。[[Argument_Dang_2017_ORE|(Jones, 2010, cited in Dang, 2017, p. 421)]]
+> > - **辩护立场（建构主义与柔性区域化学派）** 指出在体制与文化极端异质的多边环境中，柔性协商有效避免了成员国破裂，通过不设定强制裁判维护了长期的战略互信与和平合作环境。[[Argument_Dang_2017_ORE|(Stubbs, 2009; Dang, 2017, p. 421)]]
 
 ---
 
-> [!entry-map] 相关条目网络
+> [!warning|limits] 适用局限
+> - **政策执行赤字风险** 协商一致形成的政治共识不具备国内司法强制力，合作成效高度依赖各成员国自觉推动国内法规调整，面临政策落地缓慢或落地悬空的风险。
+> - **权力不平等下的弱者沉默** 在自愿参与原则下，教育资源薄弱的落后成员国可能因缺乏技术与财力支持而边缘化，加剧区域内部发展水平的不均衡。[[Argument_Dang_2017_ORE|(Dang, 2017, p. 425)]]
+
+---
+
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[ASEAN]] | Fact (Organization) | 孕育、践行并制度化确立东盟方式的核心区域组织。 |
-> | [[ASEAN University Network]] | Fact (Organization) | 在东盟方式指导下由 30 所顶尖大学组成的务实学术结网轨道。 |
-> | [[SEAMEO RIHED]] | Fact (Organization) | 在东盟方式指导下负责政府间宏观高教政策研讨与多边对话的轨道。 |
-> | [[Southeast Asian Higher Education Common Space]] | Fact (Policy) | 在东盟方式原则下探索建立的非强制、多元包容的区域高教空间。 |
-> | [[State Educational Sovereignty]] | Concept | 东南亚国家在践行东盟方式时最为敏感且寸步不让的宪制主权底线。 |
-> | [[Global Regionalisms\|Higher Education Regionalism]] | Concept | 东盟方式在具体政策部门产生深远塑造作用的研究对象领域。 |
-> | [[Sejahtera]] | Concept | 支撑重塑东盟方式、推动全人身心平衡与本土人才培养的马来本土哲学。 |
-> | [[Kapwa]] | Concept | 支撑重塑东盟方式、推动平权协商与跨梯队资源分享的菲律宾本土伦理。 |
-> | [[Epistemic Coloniality]] | Concept | 东盟方式在高等教育领域面对外部依附时亟需消解的隐性知识霸权。 |
-> | [[Comparative Regionalism]] | Theory | 将东盟方式作为非西方区域一体化独特样本进行理论解析的[[Analytic Framework\|分析框架]]。 |
-> | [[Decolonial Geopolitics of Knowledge]] | Theory | 提供批判性审视东盟方式地缘演进与知识自主权的宏观分析视角。 |
+> | [[ASEAN]] | 事实 | 孕育、践行并制度化确立东盟方式的核心区域组织。 |
+> | [[ASEAN University Network]] | 事实 | 在东盟方式指导下由 30 所顶尖大学组成的务实学术结网轨道。 |
+> | [[SEAMEO RIHED]] | 事实 | 在东盟方式指导下负责政府间宏观高教政策研讨与多边对话的轨道。 |
+> | [[Southeast Asian Higher Education Common Space]] | 事实 | 在东盟方式原则下探索建立的非强制、多元包容的区域高教空间。 |
+> | [[State Educational Sovereignty]] | 概念 | 东南亚国家在践行东盟方式时最为敏感且寸步不让的宪制主权底线。 |
+> | [[Global Regionalisms\|Higher Education Regionalism]] | 概念 | 东盟方式在具体政策部门产生深远塑造作用的研究对象领域。 |
+> | [[Sejahtera]] | 概念 | 支撑重塑东盟方式、推动全人身心平衡与本土人才培养的马来本土哲学。 |
+> | [[Kapwa]] | 概念 | 支撑重塑东盟方式、推动平权协商与跨梯队资源分享的菲律宾本土伦理。 |
+> | [[Epistemic Coloniality]] | 概念 | 东盟方式在高等教育领域面对外部依附时亟需消解的隐性知识霸权。 |
+> | [[Comparative Regionalism]] | 理论 | 将东盟方式作为非西方区域一体化独特样本进行理论解析的分析框架。 |
+> | [[Decolonial Geopolitics of Knowledge]] | 理论 | 提供批判性审视东盟方式地缘演进与知识自主权的宏观分析视角。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] — 实证阐明东盟方式如何作为核心解释变量，驱动东南亚高等教育区域主义形成独特的 AUN-RIHED 双轨组织分工。
+> - [[Argument_Dang_2017_ORE|Dang (2017)]] — 分析东盟方式在高等教育领域的趋同协调机制，揭示非正式协商与弱连接网络如何推动东南亚形成求同存异的区域教育认同。
+> - [[Argument_Indrarajah_2026_NJCIE|Indrarajah (2026)]] — 从认识论去殖民化视角批判东盟方式消极不干涉对区域高教一体化的阻滞，提出融合本土哲学以推动跨国资源再分配的新范式。
+> - [[Argument_Murray_Moxon-Browne_2013_JCMS|Murray and Moxon-Browne (2013)]] — 比较东盟常驻代表委员会与欧洲常设代表委员会，剖析东盟方式对微观外交官社交网络与裁量权的制约。
