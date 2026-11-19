@@ -4191,6 +4191,17 @@
     ]
   },
   {
+    "title": "Social Economy",
+    "type": "concept",
+    "path": "wiki/concepts/economics/Social Economy.md",
+    "aliases": [
+      "社会经济",
+      "第三部门",
+      "third sector",
+      "Économie sociale"
+    ]
+  },
+  {
     "title": "Technological Convergence",
     "type": "concept",
     "path": "wiki/concepts/economics/Technological Convergence.md",
@@ -22141,6 +22152,17 @@
     "aliases": [
       "驻校企业家",
       "驻校创业者"
+    ]
+  },
+  {
+    "title": "Entrepreneurial Ecosystem",
+    "type": "concept",
+    "path": "wiki/concepts/university-industry-collaboration/Entrepreneurial Ecosystem.md",
+    "aliases": [
+      "创业生态系统",
+      "创业生态",
+      "entrepreneurial ecosystems",
+      "创业生态网络"
     ]
   },
   {

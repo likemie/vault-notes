@@ -44,6 +44,10 @@ related_concepts:
   - "[[Public-Private Partnership]]"
   - "[[Third Mission]]"
   - "[[Emergence]]"
+  - "[[Social Economy]]"
+  - "[[Entrepreneurial Ecosystem]]"
+  - "[[Agglomeration Externalities]]"
+  - "[[Multi-channel Interactive Learning Model]]"
 related_theories:
   - "[[Triple Helix]]"
   - "[[Systems of Innovation]]"
@@ -80,7 +84,7 @@ title: "Argument_Natario_2025_IndHE"
 argument_key: "Argument_Natario_2025_IndHE"
 argument_display_title: "How higher education institutions may catalyse regional innovation ecosystems: The case of polytechnics in Portugal"
 argument_kind: "journal-article"
-argument_related_count: 41
+argument_related_count: 43
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -97,7 +101,7 @@ issuing_organization: ""
 > 理工学院等应用型高等教育机构如何有效激发[[Innovation Ecosystem|区域创新生态]]系统，特别是在人口密度较低的非大都市和外围地区，通过哪些具体渠道与政产学社协同机制推动技术创新、创业孵化与社会包容性内生发展？
 
 > [!claim] 核心主张
-> 在葡萄牙二元高等教育体制下，理工学院通过应用导向人才培养、产学研发共创网络与社会经济组织协作，在非大都市与内陆外围区域发挥[[Innovation Hub|区域创新枢纽]]作用；其在教学、科研与商业化之外，正通过构想、设计与推广社会创新项目赋权周边社区，履行促进地方可持续内生发展与领土凝聚的[[Fourth Mission of Higher Education|高等教育第四使命]]。
+> 在葡萄牙二元高等教育体制下，理工学院通过应用导向人才培养、产学研发共创网络与[[Social Economy|社会经济]]组织协作，在非大都市与内陆外围区域发挥[[Innovation Hub|区域创新枢纽]]作用；其在教学、科研与商业化之外，正通过构想、设计与推广社会创新项目赋权周边社区，履行促进地方可持续内生发展与领土凝聚的[[Fourth Mission of Higher Education|高等教育第四使命]]。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 葡萄牙公立理工高等教育网络，聚焦中部地域统计单位命名法二级区（Nomenclature of Territorial Units for Statistics II, NUTS II）内的六所理工学院及四项代表性协同项目。
@@ -194,7 +198,7 @@ issuing_organization: ""
 > [!sub-claim] 2. [[Open Innovation|开放式创新]]与空间邻近帮助中小企业降低研发风险并吸纳青年人才
 
 > [!feature] 赋能中小企业的双重机制
-> - **双向知识流动** 在[[Open Innovation|开放式创新]]模式下，研发与创新项目兼顾内部研发与外部知识引入，既能提高高校[[Technology Transfer|技术转移]]成效、加快成果商业化，也能让企业用上高校的先进实验设施，同时帮助高校及时把握市场需求（Chesbrough, 2006; Bogers et al., 2019; Rossoni et al., 2024）。[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）的研究也显示，高校正通过创业课程、孵化加速与联合研究持续连接地方企业家与周边社区（OECD, 2022）。
+> - **双向知识流动** 在[[Open Innovation|开放式创新]]模式下，研发与创新项目兼顾内部研发与外部知识引入，既能提高高校[[Technology Transfer|技术转移]]成效、加快成果商业化，也能让企业用上高校的先进实验设施，同时帮助高校及时把握市场需求（Chesbrough, 2006; Bogers et al., 2019; Rossoni et al., 2024）。[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）的研究也显示，高校正通过创业课程、孵化加速与联合研究持续连接地方企业家与周边社区，赋能区域[[Entrepreneurial Ecosystem|创业生态系统]]构建（OECD, 2022）。
 > - **空间与社会邻近** 从空间与社会关系来看，区域创新体现为特定地区依托地理集聚、文化相近与社会信任共同生产并运用知识的能力（Kijek et al., 2023; Boschma, 2005）。在[[UN Sustainable Development Goals|可持续发展目标]]框架下，企业、非营利组织、高校与地方政府之间的协作能够降低交易成本，减轻投资者的风险顾虑（Kirat & Lung, 1999; Christensen & Pedersen, 2018），也能为中小企业提供贴合需求的员工培训并吸引青年人才，在企业内部培育持续改进与创新文化（Liu et al., 2021; Phonthanukitithaworn et al., 2023）。
 
 > [!row-contrast] [[Regional Innovation System|区域创新系统]]概念[[Framework Synthesis|框架综合]]
@@ -203,7 +207,7 @@ issuing_organization: ""
 > | **区域创新** | 在特定区域内促进技术创新与发展的过程和系统 | 与理工学院及本地企业开展创新项目协作 |
 > | **理工学院** | 聚焦应用教育与实践性研究的高等教育机构 | 提供教育培训，并合作开展研究与创新项目 |
 > | **本地企业** | 与教育机构协作推动创新的本地公司 | 与教育机构和地方政府合作开发新技术与解决方案 |
-> | **社会经济** | 致力于促进社会与经济福祉的组织 | 参与旨在提升区域生活质量的创新项目 |
+> | **[[Social Economy|社会经济]]** | 致力于促进社会与经济福祉的组织 | 参与旨在提升区域生活质量的创新项目 |
 > | **地方政府** | 支持创新政策与倡议的政府实体 | 为创新与区域发展项目提供支持与资助 |
 > | **本地社区** | 受创新与区域发展活动影响的群体与个人 | 积极参与创新倡议并就社区影响提供反馈 |
 
@@ -242,7 +246,7 @@ issuing_organization: ""
 
 > [!case] 案例三：INOV C + 中部智慧创新生态系统（中部地区）
 > - **高制度密度联盟** [[INOV C + Smart Innovation Ecosystem|INOV C + 中部智慧创新生态系统]]汇聚中部全部六所理工学院（莱里亚、科英布拉、托马尔、布朗库堡、瓜尔达、维塞乌）与三所大学（科英布拉大学、阿威罗大学、贝拉内陆大学），同时吸纳多家技术价值化与转移中心、技术接口中心、研发中心以及科学和工业园区（Universidade de Coimbra, 2023）。
-> - **运行逻辑与政策对接** 该联盟以[[Regional Innovation System|区域创新系统]]理论为蓝图，聚焦将高校、科技园区与研发中心所具备的显著技术研究潜力转化为本地商业部门的创新能力，营造更具活力的区域创业生态，全面契合欧洲[[Smart Specialisation|智慧专业化]]发展议程。
+> - **运行逻辑与政策对接** 该联盟以[[Regional Innovation System|区域创新系统]]理论为蓝图，聚焦将高校、科技园区与研发中心所具备的显著技术研究潜力转化为本地商业部门的创新能力，营造更具活力的区域[[Entrepreneurial Ecosystem|创业生态]]，全面契合欧洲[[Smart Specialisation|智慧专业化]]发展议程。
 
 > [!case] 案例四：瓜尔达[[Centre for Social Economy and Innovation|社会经济与创新中心]]（CEIS，2023 年启动）
 > - **内陆选址的政治象征与人口背景** 2023 年启动的[[Centre for Social Economy and Innovation|社会经济与创新中心]]（CEIS）设于中部内陆首府瓜尔达（属地域统计单位命名法三级区，Nomenclature of Territorial Units for Statistics III, NUTS III 贝拉斯与埃什特雷拉山脉地区）。该地区长期受青年人口迁往里斯本、波尔图及中欧地区影响（Cerdeira et al., 2023）。中心总部设于首都里斯本之外而服务全国，体现葡萄牙中央政府在欠发达内陆地区推动区域创新与领土凝聚的政策意志（Governo de Portugal, 2023）。

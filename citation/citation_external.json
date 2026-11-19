@@ -3887,6 +3887,8 @@
     "C4E, 2013": "C4E, 2013",
     "CAE (2013)": "CAE, 2013",
     "CAE, 2013": "CAE, 2013",
+    "CASES (2023)": "CASES, 2023",
+    "CASES, 2023": "CASES, 2023",
     "CAUBO (2020)": "CAUBO, 2020",
     "CAUBO, 2020": "CAUBO, 2020",
     "CBR (2010)": "CBR, 2010",
@@ -44123,6 +44125,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
+        "wiki/concepts/economics/Social Economy.md",
         "wiki/concepts/university-industry-collaboration/Social Innovation Ecosystem.md"
       ],
       "title": "Social enterprises in Structurally Weak rural regions"
@@ -57630,6 +57633,21 @@
       ],
       "title": ""
     },
+    "CASES, 2023": {
+      "aliases": [
+        "CASES, 2023",
+        "CASES (2023)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "CASES, 2023"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/economics/Social Economy.md"
+      ],
+      "title": "Conta Satélite da Economia Social 2020"
+    },
     "CAUBO, 2020": {
       "aliases": [
         "CAUBO, 2020",
@@ -58671,6 +58689,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
+        "wiki/concepts/university-industry-collaboration/Entrepreneurial Ecosystem.md",
         "wiki/concepts/university-industry-collaboration/Smart Specialisation.md"
       ],
       "title": "A multi-stakeholder system-based methodology to evaluate the needs of innovation ecosystems"
@@ -61876,6 +61895,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
+        "wiki/concepts/economics/Social Economy.md",
         "wiki/concepts/university-industry-collaboration/Social Innovation Ecosystem.md",
         "wiki/facts/portugal/Centre for Social Economy and Innovation.md"
       ],
@@ -69550,6 +69570,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
+        "wiki/concepts/economics/Social Economy.md",
         "wiki/concepts/university-industry-collaboration/Social Innovation Ecosystem.md"
       ],
       "title": "Transformative social innovation in developing and emerging ecosystems: a configurational examination"

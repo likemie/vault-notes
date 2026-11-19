@@ -34,6 +34,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Caraca_2009_TFSC]]"
+  - "[[Argument_Natario_2025_IndHE]]"
 confidence: medium
 status: draft
 created: 2026-06-09
@@ -95,3 +96,9 @@ updated: 2026-10-30
 > 该模型对大学角色有直接的政策推论。在创新从 R&D 向 R 即 D 的转变中，大学需要发展更广泛的知识带宽（吸收组织洞见和营销创意），同时不削弱教学和基础科学研究的卓越性。大学与产业的日常[[Knowledge Exchange\|知识交流]]——学者和学生在互动中与企业交换知识——比大学作为商业企业出售专利更为重要。[[Argument_Caraca_2009_TFSC\|(Caraça et al., 2009, p. 866)]]
 
 该模型同时对教育研究有方法论启示。界面概念可用于分析教育机构如何从外部（如[[Global Policy Space|全球政策空间]]、研究网络、产业伙伴）识别和吸收新的教育理念和实践。三类知识池的区分有助于理解教育创新依赖的多元知识基础——不仅包括学习科学研究，还包括组织管理知识和学习者背景知识。
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Caraca_2009_TFSC|Caraça et al. (2009)]] — 提出多通道互动学习模型，界定螺旋式循环、三类知识池与界面机制。
+> - [[Argument_Natario_2025_IndHE|Natário and Oliveira (2025)]] — 实证检验多通道互动学习在葡萄牙二元高教理工学院中的展开，归纳非正式交流、联合研发、高阶实习与社会经济咨询四大协同通道。

@@ -45,6 +45,7 @@ related_facts:
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
 related_arguments:
   - "[[Argument_Bown_2024_JEconPersp]]"
+  - "[[Argument_Natario_2025_IndHE]]"
 confidence: high
 status: active
 created: 2026-10-04
@@ -184,5 +185,11 @@ updated: 2026-11-03
 > | [[Learning by Doing]] | Concept | 制造良率的动态学习曲线与集聚外部性共同强化了领先集群的先发优势。 |
 > | [[Taiwan Semiconductor Manufacturing Corporation]] | Fact (Organization) | 深度嵌入台湾高密度产业集群、最大化释放集聚外部性的全球晶圆代工垄断巨头。 |
 > | [[CHIPS and Science Act]] | Fact (Policy) | 美国试图通过 390 亿美元补贴打破东亚集聚垄断、重建本土先进制造集群的标志性法案。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Bown_2024_JEconPersp|Bown and Wang (2024)]] — 结合全球半导体制造产能数据，剖析集聚外部性驱动芯片先进制程向东亚极化集中的微观机制。
+> - [[Argument_Natario_2025_IndHE|Natário and Oliveira (2025)]] — 阐述外围与稀疏人口地区如何依托空间邻近与社会信任弥补技术规模劣势，通过高校与中小企业协同释放集聚外部性。
 
 ---
