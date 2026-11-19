@@ -7746,8 +7746,6 @@
     "Essien et al., 2024": "Essien et al., 2024",
     "Estrella et al. (2018)": "Estrella et al., 2018",
     "Estrella et al., 2018": "Estrella et al., 2018",
-    "Etienne Wenger (1991)": "Etienne Wenger, 1991",
-    "Etienne Wenger, 1991": "Etienne Wenger, 1991",
     "Etienne Woo (2023)": "Etienne Woo, 2023",
     "Etienne Woo, 2023": "Etienne Woo, 2023",
     "Etnier et al. (1997)": "Etnier et al., 1997",
@@ -23406,12 +23404,10 @@
     "Simons, 2000": "Simons, 2000",
     "Simonsmeier et al. (2018)": "Simonsmeier et al., 2018",
     "Simonsmeier et al., 2018": "Simonsmeier et al., 2018",
-    "Simonton (1977)": "Simonton, 1977",
     "Simonton (1988)": "Simonton, 1988",
     "Simonton (1989)": "Simonton, 1989",
     "Simonton (1991)": "Simonton, 1991",
     "Simonton (1997)": "Simonton, 1997",
-    "Simonton, 1977": "Simonton, 1977",
     "Simonton, 1988": "Simonton, 1988",
     "Simonton, 1989": "Simonton, 1989",
     "Simonton, 1991": "Simonton, 1991",
@@ -28683,6 +28679,8 @@
     "岳英, 2018": "岳英, 2018",
     "崔盛和吴秋翔 (2018)": "崔盛和吴秋翔, 2018",
     "崔盛和吴秋翔, 2018": "崔盛和吴秋翔, 2018",
+    "巴特利特 (2006)": "巴特利特, 2006",
+    "巴特利特, 2006": "巴特利特, 2006",
     "布卢默 (1969)": "布卢默, 1969",
     "布卢默, 1969": "布卢默, 1969",
     "布朗等人 (1997)": "布朗等人, 1997",
@@ -29184,6 +29182,8 @@
     "韦尔奇, 2012": "韦尔奇, 2012",
     "马奥尼与希伦 (2009)": "马奥尼与希伦, 2009",
     "马奥尼与希伦, 2009": "马奥尼与希伦, 2009",
+    "马金森与莫利斯 (2001)": "马金森与莫利斯, 2001",
+    "马金森与莫利斯, 2001": "马金森与莫利斯, 2001",
     "高谢 (2000)": "高谢, 2000",
     "高谢, 2000": "高谢, 2000",
     "鲁登道夫 (1935)": "鲁登道夫, 1935",
@@ -36243,7 +36243,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md",
         "wiki/concepts/educational-philosophy/Causality.md",
         "wiki/concepts/research-methodology/Credibility Revolution.md",
         "wiki/concepts/research-methodology/Internal Validity.md"
@@ -54222,7 +54221,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Scandinavian Journal of Educational Research/Argument_Segerholm_Lindgren_Novak_2022_SJER.md",
         "wiki/theories/educational-policy-reform/Three Lenses of Evidence-Based Policy.md"
       ],
       "title": ""
@@ -86027,21 +86025,6 @@
       "seen_in": [],
       "title": "Is Inquiry Science Instruction Effective for English Language Learners? A Meta-Analytic Review"
     },
-    "Etienne Wenger, 1991": {
-      "aliases": [
-        "Etienne Wenger, 1991",
-        "Etienne Wenger (1991)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Etienne Wenger, 1991"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Scandinavian Journal of Educational Research/Argument_Segerholm_Lindgren_Novak_2022_SJER.md"
-      ],
-      "title": ""
-    },
     "Etienne Woo, 2023": {
       "aliases": [
         "Etienne Woo, 2023",
@@ -116639,7 +116622,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Policy and Society/Argument_Chou_2017_PolSoc.md",
         "wiki/concepts/higher-education/Bologna Process Export Thesis.md"
       ],
       "title": ""
@@ -148803,7 +148785,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md",
-        "wiki/concepts/educational-psychology/Epistemic Stances.md"
+        "wiki/concepts/educational-psychology/Epistemic Stances.md",
+        "wiki/concepts/higher-education/Scale in Higher Education.md"
       ],
       "title": "\"The door opens and the tiger leaps\": Theories and reflexivities of comparative education for a global millennium"
     },
@@ -150681,7 +150664,6 @@
         "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md",
         "wiki/concepts/comparative-education/Methodological Nationalism.md",
         "wiki/concepts/educational-philosophy/Multiplicity.md",
-        "wiki/concepts/higher-education/Scale in Higher Education.md",
         "wiki/concepts/political-economy-geopolitics/Geopolitics of Knowledge.md",
         "wiki/persons/uk/Doreen Massey.md",
         "wiki/theories/comparative-education/World-Systems Theory.md",
@@ -200304,21 +200286,6 @@
       "seen_in": [],
       "title": "Domain-Specific Prior Knowledge and Learning: A Meta-Analysis"
     },
-    "Simonton, 1977": {
-      "aliases": [
-        "Simonton, 1977",
-        "Simonton (1977)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Simonton, 1977"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Chen_2025_HSSC.md"
-      ],
-      "title": ""
-    },
     "Simonton, 1988": {
       "aliases": [
         "Simonton, 1988",
@@ -238124,6 +238091,21 @@
       ],
       "title": ""
     },
+    "巴特利特, 2006": {
+      "aliases": [
+        "巴特利特, 2006",
+        "巴特利特 (2006)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "巴特利特, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Scale in Higher Education.md"
+      ],
+      "title": ""
+    },
     "布卢默, 1969": {
       "aliases": [
         "布卢默, 1969",
@@ -241883,6 +241865,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/us/James Mahoney.md"
+      ],
+      "title": ""
+    },
+    "马金森与莫利斯, 2001": {
+      "aliases": [
+        "马金森与莫利斯, 2001",
+        "马金森与莫利斯 (2001)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "马金森与莫利斯, 2001"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Scale in Higher Education.md"
       ],
       "title": ""
     },

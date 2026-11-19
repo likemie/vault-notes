@@ -170,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 302.22265625
   },
   "right": {
     "id": "ec50234132d5cb15",
@@ -316,11 +316,15 @@
   },
   "active": "96c685dea1ff308e",
   "lastOpenFiles": [
+    "file:/Users/shaoyangwu/Documents/zhangyue/docs/ireader-bundle-resolution-plan.md",
+    "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md",
+    "wiki/methods/quantitative/Cluster Analysis.md",
+    "wiki/facts/new-zealand/Visible Learning Branding and Global Influences.md",
+    "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md",
     "wiki/concepts/political-economy-geopolitics/Principle of Non-Interference.md",
     "wiki/concepts/political-economy-geopolitics/Elite Capture.md",
     "output/related-updates/Argument_Silova_2009_EE-a804596a/batch-004/result.json",
     "output/related-updates/Argument_Vavrus_2006_CICE-9ce314a2/batch-001/result.json",
-    "wiki/methods/quantitative/Cluster Analysis.md",
     "output/related-updates/Argument_Vavrus_2006_CICE-9ce314a2/batch-012/prompt.md",
     "output/related-updates/Argument_Vavrus_2006_CICE-9ce314a2/batch-012/batch-result.schema.json",
     "output/related-updates/Argument_Vavrus_2006_CICE-9ce314a2/batch-012",
@@ -348,10 +352,6 @@
     "output/related-updates/Argument_Vavrus_2006_CICE-20261120-004944/batch-006/prompt.md",
     "output/related-updates/Argument_Vavrus_2006_CICE-20261120-004944/batch-002/prompt.md",
     "output/related-updates/Argument_Vavrus_2006_CICE-20261120-004944/batch-005/prompt.md",
-    "output/related-updates/Argument_Vavrus_2006_CICE-20261120-004944/batch-004/prompt.md",
-    "output/related-updates/Argument_Vavrus_2006_CICE-20261120-004944/batch-003/prompt.md",
-    "output/related-updates/Argument_Vavrus_2006_CICE-20261120-004944/batch-001/prompt.md",
-    "wiki/concepts/political-economy-geopolitics/Tied Aid.md",
     "sources/Dang_2017_ORE/figures/Dang_2017_ORE_Fig1_ASEAN_Education_Cooperation_Structure.jpg",
     "sources/Natario_2025_IndHE/figures/Natario_2025_IndHE_Fig1_Portuguese_Polytechnic_Network.jpg",
     "sources/Indrarajah_2026_NJCIE/figures/Indrarajah_2026_NJCIE_Fig1_Epistemic_Decolonization_Framework.jpg",

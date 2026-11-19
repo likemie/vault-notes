@@ -82,6 +82,16 @@ updated: 2026-11-20
 > - **用途** 在教育研究中，生态效度对追踪政策如何在粉笔层面（at the chalk face）实际展开尤为关键，用于检验政策在真实实践中的落地效果，抵制政策文本的自我美化。
 > - **边界** 生态效度不要求研究巨细靡遗地复制现实所有细枝末节，是要求对情境关键特征进行有意识的理论纳入与[[Rich and Thick Description|厚描述]]。
 
+> [!citation-card] 生态效度与政策修辞的解构
+> 生态效度要求将研究场所的具体特征纳入研究考量，有别于简单地通过调查、访谈、观察和[[Questionnaire|问卷]]来复现政策的修辞，即假设政策总是以其预定意图的方式被忠实实施。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 187–188, citing Brock-Utne, 1996)]]
+>
+> *Ecological validity demands that the specific characteristics of the research setting be taken into [[Accounts|account]] rather than merely replicating the rhetoric of policies.*
+
+> [!citation-card] 生态效度揭示政策修辞与基层实践断层
+> 迈克尔·克罗斯利与格雷厄姆·武利亚米指出，定性个案研究在发展中国家提供具备生态效度的实地证据，能够直接穿透官方政策宣传的“应然”修辞，揭示教育改革在基层落地时的真实断层与复杂转化。[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, p. 97, citing Crossley & Vulliamy, 1984, p. 198)]]
+>
+> *Qualitative case-study research can provide ecologically valid evidence that bridges the gap between policy rhetoric and practice in developing countries.*
+
 > [!boundary]- 概念边界
 > - 不等于 [[External Validity|外部效度]]（External Validity） — 外部效度关注更宽泛的样本向总体的统计可推广性，而生态效度特指**情境自然性**这一维度，即剥离实验人为性后现实解释力的存留度。
 > - 不等于 [[Internal Validity|内部效度]]（Internal Validity） — 内部效度关注[[Variable|变量]]间[[Causality|因果关系]]的纯粹性与可[[Reliability|信度]]。内部高度有效的严密实验，其生态效度可能极低甚至归零（Pilliner, 1973）。
@@ -191,38 +201,11 @@ updated: 2026-11-20
 
 ---
 
-> [!citation-card] [[Variable|变量]]控制在教育中消除生态效度
-> 科学哲学家丹尼斯·菲利普斯指出，在物理科学中变量可以被严密控制，但在学校情境中，这些变量是具有重大人文与教育意义的本体内容——在这里施加控制，将消除一切生态效度的表象，有别于干扰噪音。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 35, citing Phillips, 2014, p. 10)]]
->
-> *In the physical sciences variables can be controlled, but in school settings, these variables are 'not nuisances but are of great human and educational significance—control here removes all semblance of ecological validity.'*
-
-> [!citation-card] 教学的人文艺术性抗拒行为预设
-> [[Elliott Eisner|埃利奥特·艾斯纳]]曾指出，教育是一项充满活力且复杂的教学过程，其产出的丰富成果远远超出了在事先用行为和内容术语所能确定的范围。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 35, citing Eisner, 1983, p. 554)]]
->
-> *Education is a 'dynamic and complex process of instruction yield(ing) outcomes far too numerous and complex to be specified in behavioral and content terms in advance.'*
-
-> [!citation-card] 跨国证据转译与本土实证匮乏之辩
-> [[John Hattie|约翰·哈蒂]]针对新西兰特殊制度情境的质疑回应指出，当面临本土实证研究积累不足以精确判定国别差异时，批判性翻译与借鉴现有国际研究，可能比根本不依赖任何实证研究而盲目决策更有价值。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, p. 89)]]
->
-> *Translating existing research might be more valuable than not relying on any research at all.*
-
-> [!citation-card] 生态效度与政策修辞的解构
-> 生态效度要求将研究场所的具体特征纳入研究考量，有别于简单地通过调查、访谈、观察和[[Questionnaire|问卷]]来复现政策的修辞，即假设政策总是以其预定意图的方式被忠实实施。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 187–188, citing Brock-Utne, 1996)]]
->
-> *Ecological validity demands that the specific characteristics of the research setting be taken into [[Accounts|account]] rather than merely replicating the rhetoric of policies.*
-
-> [!citation-card] 生态效度揭示政策修辞与基层实践断层
-> 迈克尔·克罗斯利与格雷厄姆·武利亚米指出，定性个案研究在发展中国家提供具备生态效度的实地证据，能够直接穿透官方政策宣传的“应然”修辞，揭示教育改革在基层落地时的真实断层与复杂转化。[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, p. 97, citing Crossley & Vulliamy, 1984, p. 198)]]
->
-> *Qualitative case-study research can provide ecologically valid evidence that bridges the gap between policy rhetoric and practice in developing countries.*
-
----
-
 > [!case] 实验室 vs 教室：阅读干预的双重困境
-> 一项在严格控制条件的大学实验室中验证有效的阅读干预方法，在真实的小学教室中可能完全失效——教室中有噪音、有不同阅读水平的学生同时活动、有教师需要同时管理课堂纪律。实验室的发现声称具有高[[Internal Validity|内部效度]]，但其[[Ecological Validity|生态效度]]极低。另一方面，如果直接在教室中进行实地实验，失去对[[Variable|变量]]的严格控制后，即使发现有效果，也无法确定是干预本身还是教室特有的情境因素（如教师的教学风格、[[Class Climate Effects|班级氛围]]）产生了效果。这是实验方法在生态效度与内部效度之间的根本取舍。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|(Cohen et al., 2011, Ch. 16, pp. 319–320)]]
+> 一项在严格控制条件的大学实验室中验证有效的阅读干预方法，在真实的小学教室中可能完全失效：教室中有噪音、有不同阅读水平的学生同时活动、有教师需要同时管理课堂纪律。实验室的发现声称具有高[[Internal Validity|内部效度]]，但其[[Ecological Validity|生态效度]]极低。另一方面，如果直接在教室中进行实地实验，失去对[[Variable|变量]]的严格控制后，即使发现有效果，也无法确定是干预本身还是教室特有的情境因素（如教师的教学风格、[[Class Climate Effects|班级氛围]]）产生了效果。这是实验方法在生态效度与内部效度之间的根本取舍。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|(Cohen et al., 2011, Ch. 16, pp. 319–320)]]
 
 > [!case] [[Internet-Based Experiments|网络实验]]：生态效度的新路径
-> 在比较三种在线学习平台界面的可用性实验中，传统做法是邀请参与者到实验室计算机上完成任务。但网络实验允许参与者在自己的电脑、自己的浏览器、自己的时间完成任务——这不仅扩大了样本的多样性，也提高了生态效度：参与者使用平台的方式更接近真实使用场景。代价是研究者失去了对屏幕分辨率、浏览器版本、网络速度和房间环境的控制，但这些变量在真实世界中本来就不可控——网络实验选择了面对而非消除它们。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|(Cohen et al., 2011, Ch. 16, pp. 340–341)]]
+> 在比较三种在线学习平台界面的可用性实验中，传统做法是邀请参与者到实验室计算机上完成任务。但网络实验允许参与者在自己的电脑、自己的浏览器、自己的时间完成任务，这不仅扩大了样本的多样性，也提高了生态效度：参与者使用平台的方式更接近真实使用场景。代价是研究者失去了对屏幕分辨率、浏览器版本、网络速度和房间环境的控制，但这些变量在真实世界中本来就不可控，网络实验选择了面对而非消除它们。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|(Cohen et al., 2011, Ch. 16, pp. 340–341)]]
 
 ---
 
