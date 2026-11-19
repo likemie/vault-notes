@@ -8,7 +8,7 @@ aliases:
 summary: "国际关系学与国际政治经济学核心分析范式；主张超越以欧洲联盟为唯一样板的欧洲中心主义与特例论二分陷阱，通过跨地域、多尺度的制度与规范经验比较，系统解释不同区域组织在一体化动力、微观制度架构、主权让渡意愿及本土规范互动中的多样化治理路径。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 33
+theory_related_count: 35
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Research Question]]"
   - "[[Commensuration]]"
+  - "[[Networked Regionalism]]"
 related_theories:
   - "[[Wight's Three Traditions of International Theory]]"
   - "[[Historical Institutionalism]]"
@@ -58,10 +59,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Murray_Moxon-Browne_2013_JCMS]]"
   - "[[Argument_Chou_2017_PolSoc]]"
+  - "[[Argument_Dang_2017_ORE]]"
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -88,10 +90,11 @@ updated: 2026-11-11
 > - **2010 — 概念框架系统化** 菲洛梅娜·默里出版《比较区域主义与欧亚关系：导论》，正式确立连接欧洲研究与新区域主义的比较议程。
 > - **2013 — 微观委员会与[[Zone of Discretion|裁量空间]]拓展** 菲洛梅娜·默里与爱德华·莫克森-布朗在《公共市场研究杂志》（*JCMS*）推进微观制度比较，提出“裁量空间”（[[Zone of Discretion]]）与“[[Engrenage|齿轮啮合]]”（[[Engrenage]]）分析视角，揭示微观常设机构模仿与演化的真实机制。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 522–535)]]
 > - **2017 — 政策部门导向转向与反思“扩散偏见”** 周孟娴与宝琳·拉维内（[[Argument_Chou_2017_PolSoc|Chou & Ravinet, 2017]]）推进比较区域主义方法论反思，针对学界普遍存在的“欧洲中心扩散偏见”与以组织为尺度的“阶梯幻觉”，提出“以政策部门为基准”（Policy Sector-based Approach）的比较[[Paradigm|范式]]；主张将具体的政策领域发展作为首要比较单位，并通过开展对扩散盲审（diffusion-blind）的扎根[[Fieldwork|田野研究]]，揭示相似性表象下的内生动力与[[Norm Localisation|规范本土化]]机制。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 147, 155–157)]]
+> - **2017 — 网络化区域主义与次区域高等教育治理比较** 邓氏清（Thi Thanh Dang）将比较区域主义与新区域主义方法（NRA）引入东亚与东南亚高等教育合作分析，对比欧洲刚性制度一体化与东亚依托弱连接的柔性网络治理模式，揭示高等教育部门从单纯经贸依附转向主动建构区域身份认同与地缘战略再定位的治理路径。[[Argument_Dang_2017_ORE|(Dang, 2017, pp. 11–13)]]
 
 ---
 
-> [!entry-map] 关键概念与理论构件
+> [!theory-constructs] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -99,6 +102,7 @@ updated: 2026-11-11
 > | [[Engrenage\|齿轮啮合（Engrenage）]] | 机制概念 | 刻画微观委员会体系内国家官僚与超国家常设机构之间偏好深度融合的制度化状态。 |
 > | [[Institutional Mimesis\|制度拟态（Institutional Mimesis）]] | 解释机制 | 解释后发组织为获得国际合法性而对先发成熟模式进行外观复制的动力与脱节风险。 |
 > | [[Norm Localisation\|规范本土化（Norm Localisation）]] | 过程机制 | 描述外来制度理念在进入本土区域语境时经历的筛选、修剪与适应性[[Recontextualization\|再情境化]]改造。 |
+> | [[Networked Regionalism\|网络化区域主义（Networked Regionalism）]] | 组织形态 | 刻画以非正式协商、弱连接、自愿遵守与多中心节点为特征的非集权区域治理模式。 |
 > | [[Bologna Process Export Thesis\|博洛尼亚输出假说（Export Thesis）]] | 批判靶标 | 预设欧洲经验是全球政策协调样板的单向扩散假说，在具体政策部门比较中遭遇实证[[Falsification\|证伪]]。 |
 
 ---
@@ -122,6 +126,12 @@ updated: 2026-11-11
 > [!example|notitle]
 > 欧洲高等教育演化出[[Bologna Process|博洛尼亚进程]]主导的全域趋同旗舰模式，东南亚则依托[[ASEAN Way|东盟方式]]发展出名校结网与部委协调并立的竞逐模式；两地在高教领域的[[Heterogeneity|异质性]]充分印证了以政策部门为单位深入微观观念转译的必要性，推翻了单向模仿的制度同形预设。
 
+> [!theory-proposition] 命题四｜区域一体化模式呈现多样性，东亚柔性网络化治理展现出区别于欧洲超国家科层制的替代路径
+> 基于比较区域主义与新区域主义方法（NRA），区域一体化并不存在向布鲁塞尔式超国家中央集权演进的唯一步径。在东亚与东南亚高等教育区域合作中，区域治理超越了单纯的自由贸易或经济依附，依托“东盟方式”（ASEAN Way）的协商共识、弱连接（Weak Ties）与跨国大学网络，以常态化社会化与互学互鉴替代了自上而下的垂直科层指令链，使中小国家能够在不让渡主权前提下实现区域协调与地缘战略自主。[[Argument_Dang_2017_ORE|(Dang, 2017, pp. 11–13)]]
+
+> [!example|notitle]
+> 东亚高教次区域通过“东盟+3”与“亚洲校园”（CAMPUS Asia）框架建立跨国流动与学分互认网络，其治理依托各教育部委、大学财团与认证机构之间的多中心协商，在缺乏常设超国家官僚总署的情境下印证了非正式网络化治理在异质性多元区域中的可行性。
+
 ---
 
 > [!theory-use] 框架入口
@@ -137,6 +147,7 @@ updated: 2026-11-11
 > | 制度适切性命题 [[Argument_Murray_Moxon-Browne_2013_JCMS\|(Murray & Moxon-Browne, 2013, p. 522)]] | **制度抱负与承载力匹配度** 组织架构是否超越成员国让渡主权的政治底线？ | 常设秘书处预算规模、专业雇员编制、违约惩戒权力的法律效力 | 具备法定强制力支持一体化深度；反之仅为象征性制度拟态。 |
 > | 微观社会化命题 [[Argument_Murray_Moxon-Browne_2013_JCMS\|(Murray & Moxon-Browne, 2013, p. 531)]] | **微观委员会社会化深度** 使节群体是否建立超越本国狭隘指令的共识反射？ | 闭门会议频率、非正式社交安排、下设专业技术工作组数量 | 形成弥散互惠显示齿轮啮合初显；僵硬执行母国电报则显示纯粹政府间博弈。 |
 > | 决策规范演化命题 [[Argument_Murray_Moxon-Browne_2013_JCMS\|(Murray & Moxon-Browne, 2013, p. 528)]] | **本土规范对外部模板的转译** 组织如何调和外来规则与传统政治文化？ | 表决规则（绝对一致 vs 多数表决）、不干涉内政申明、对外代表权重 | 坚持共识导向体现对本土规范的保留；引入多数表决体现向超国家让步。 |
+> | 多元治理网络命题 [[Argument_Dang_2017_ORE\|(Dang, 2017, pp. 11–13)]] | **治理结构与协调网络形态** 区域一体化是依赖垂直超国家科层总署还是依靠横向弱连接协商网络？ | 秘书处层级节制硬度、非正式磋商平台密度、大学跨国联盟网络自主性 | 垂直科层指令主导体现欧洲超国家一体化特征；多中心协商与自愿遵守体现东亚网络化区域主义特征。 |
 
 > [!theory-hierarchy] 分层维度与末级指标
 > - **D1｜多边制度化水平与主权让渡深度**
@@ -154,6 +165,15 @@ updated: 2026-11-11
 
 ---
 
+> [!theory-boundary] 局限性与适用边界
+> - **适合分析** 跨地域区域组织在制度生成、条约履约、规范转译与政策部门协调上的多层比较；评估非西方区域组织借鉴成熟模式时的制度适切性。
+> - **成立条件** 需要对多个区域组织的制度文本、外交决策过程与具体政策部门田野材料具备可比性数据支撑。
+> - **解释不足** 对区域外部全球地缘大国博弈的直接军事干预与单边强权施压对区域一体化的冲击缺乏内生解释机制。
+> - **转化困难** 各区域政治文化、主权敏感度与非正式协商惯习差异巨大，难以抽象为统一标准化的定量指标进行跨情境测度。
+> - **不能直接推出** 不能从区域组织外观形式的相似性直接推导出实质性一体化效能；不能认为柔性网络治理在所有政策领域（如共同防务或统一货币）均可替代硬性法律制度。
+
+---
+
 > [!debates] 学术争议
 >
 > > [!axis] 欧洲经验的可[[Commensuration|通约]]性 vs 区域发展的独特不可替代性
@@ -161,9 +181,16 @@ updated: 2026-11-11
 > >
 > > - **普适参照论者** 认为欧盟提供了丰富的规制工具、多层治理概念与微观技术模板，对非欧洲组织具有不可忽视的借鉴价值。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 525)]]
 > > - **批判特例论者** 强调各区域历史创伤、国家建构阶段与地缘环境迥异，以欧盟为蓝本往往陷入“一体化势利”或引发严重的治理排异。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 524)]]
+>
+> > [!axis] 超国家刚性科层一体化 vs 柔性非正式网络化治理
+> > 争论区域一体化是否必须以让渡部分主权、建立具有法律约束力的超国家科层总署为前提。
+> >
+> > - **欧洲超国家一体化传统** 主张深度一体化必须以具有约束力的超国家法、常设科层执行机构与集中仲裁为基石。
+> > - **比较区域主义与新区域主义学派（[[Argument_Dang_2017_ORE|Dang, 2017]]; Söderbaum, 2016）** 论证非西方区域组织能够依托协商共识、弱连接与多中心网络，在不侵蚀民族国家主权的前提下实现深度的政策协调与规范社会化。[[Argument_Dang_2017_ORE|(Dang, 2017, pp. 11–13)]]
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Murray_Moxon-Browne_2013_JCMS|Murray and Moxon-Browne (2013)]] — 通过对欧盟 Coreper 与东盟 CPR 的微观对比，实证检视比较区域主义视角下制度借鉴的边界与适切性（pp. 522–535）。
 > - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] — 提出以政策部门为核心的比较区域主义范式，基于一手田野[[Qualitative Interview|质性访谈]]反思欧洲中心扩散偏见与博洛尼亚输出假说（pp. 143–159）。
+> - [[Argument_Dang_2017_ORE|Dang (2017)]] — 将比较区域主义引入东亚高教治理分析，对比欧洲超国家科层制与东亚柔性网络化区域主义的治理哲学与机制差异（pp. 11–13）。
