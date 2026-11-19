@@ -9,8 +9,8 @@ aliases:
 summary: "1928年10月28日荷属东印度第二届青年大会在巴达维亚通过的历史性宣言。跨群岛多语族青年代表共同宣誓拥有同一个祖国（印尼群岛）、同一个民族（印尼民族）并尊崇同一种语言（印度尼西亚语），标志着现代反殖民民族主义完成跨族群政治与符号认同凝结。"
 type: fact
 subtype: event
-region: asia
-fact_region: "asia"
+region: indonesia
+fact_region: "indonesia"
 fact_kind: "event"
 fact_related_count: 7
 fact_related_level: 0
@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-19
 ---
 
 ---

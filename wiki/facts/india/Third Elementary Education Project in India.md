@@ -8,8 +8,8 @@ aliases:
 summary: "世界银行执行董事会于2014年批准的巨额主权信贷援助项目，贷款总额达10亿美元，为世界银行教育投资历史上单笔金额最大、覆盖人口最多的标志性项目；三年实施周期内直接服务全印度2亿适龄学童与450万名中小学教师。该项目深度嵌合印度全国全民普及初等教育计划（SSA），强制植入学生学业成果标准化监测、教师出勤数字化追踪及学校管理委员会自治机制，是将巨额信贷直接转化为微观教育治理实验场的标志性工程。"
 type: fact
 subtype: program
-region: asia
-fact_region: "asia"
+region: india
+fact_region: "india"
 fact_kind: "program"
 fact_related_count: 15
 fact_related_level: 1
@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-23
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 # Third Elementary Education Project in India

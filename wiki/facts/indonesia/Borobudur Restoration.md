@@ -8,8 +8,8 @@ aliases:
 summary: "1814至1911年间荷属东印度殖民政府主导的世界最大佛教古迹发掘、测绘与系统工程大修复。工程历经莱佛士丛林清理、谢弗达盖尔银版摄影、威尔森石版画测绘、莱曼斯首部专著出版、古物委员会设立以及凡·埃尔普工程队全面重修。该工程排空了活态宗教朝圣，将神圣遗存重塑为草坪环绕的世俗国家古迹，其图腾化成果在独立后被印度尼西亚教育部教材无缝继承为去宗教化的纯白国家祖先权标。"
 type: fact
 subtype: program
-region: asia
-fact_region: "asia"
+region: indonesia
+fact_region: "indonesia"
 fact_kind: "program"
 fact_related_count: 10
 fact_related_level: 1
@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-19
 ---
 
 ---

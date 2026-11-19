@@ -9,8 +9,8 @@ aliases:
 summary: "印度尼西亚政府于 2010 年设立、并经 2012 年第 12 号《高等教育法》法定化的国家级专项资助项目，旨在为经济困难且具备良好学业潜力的学生提供全额学费减免与生活津贴，2020 年升级为印尼智慧卡大学版（KIP Kuliah）。"
 type: fact
 subtype: program
-region: asia
-fact_region: "asia"
+region: indonesia
+fact_region: "indonesia"
 fact_kind: "program"
 fact_related_count: 6
 fact_related_level: 0

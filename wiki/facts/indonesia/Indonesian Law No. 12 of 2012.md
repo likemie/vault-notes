@@ -11,8 +11,8 @@ aliases:
 summary: "印度尼西亚于 2012 年颁布的高等教育根本大法（2012 年第 12 号法律），确立了国家干预高等教育公平的法定架构：强制要求所有国立大学（PTN）为经济困难与偏远地区优秀生源保留至少 20% 的招生学额，正式将 Bidikmisi 助学金法典化，并设立面向边境与欠发达地区（3T 地区及巴布亚）的 ADIK 定向降分资助计划。"
 type: fact
 subtype: policy
-region: asia
-fact_region: "asia"
+region: indonesia
+fact_region: "indonesia"
 fact_kind: "policy"
 fact_related_count: 10
 fact_related_level: 1

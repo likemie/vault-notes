@@ -10,8 +10,8 @@ aliases:
 summary: "法国殖民当局于1917年在法属印度支那颁布并推行的双轨殖民教育体制。由总督阿尔贝·萨罗通过《公共教育法典》确立，废除儒家科举取士旧制，将罗马化拼音国语字作为初等教育通用教学媒介，旨在切断越南与中华文化的历史联系并培养顺从的基层双语职员；该政策意外引发了近代越南大众读写普及革命，成为反殖民民族主义动员的文化工具。"
 type: fact
 subtype: policy
-region: asia
-fact_region: "asia"
+region: vietnam
+fact_region: "vietnam"
 fact_kind: "policy"
 fact_related_count: 17
 fact_related_level: 1
@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-13
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---

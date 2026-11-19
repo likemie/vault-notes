@@ -8,8 +8,8 @@ aliases:
 summary: "柬埔寨金边历史最悠久的现代公立完全中学。始建于1905年并于1935年升格为与河内、西贡平级的国家公立完全中学；终结了高棉学子必须远赴越南求学的历史局面，作为柬埔寨现代政治与知识精英的摇篮，培养了首批高棉民族主义者与民主党领袖，标志着高棉教育朝圣在金边的本土化锁定。"
 type: fact
 subtype: organization
-region: asia
-fact_region: "asia"
+region: cambodia
+fact_region: "cambodia"
 fact_kind: "organization"
 fact_related_count: 10
 fact_related_level: 1
@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-19
 ---
 
 ---

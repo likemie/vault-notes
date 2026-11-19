@@ -9,8 +9,8 @@ aliases:
 summary: "1902年至1907年由马卡里奥·萨凯在菲律宾建立的反美抗暴革命政权。该政权坚持反对美军殖民占领，其1902年宪法明确确立超越种族、肤色与阶级差别的绝对平等原则与一体心性（loób），被本尼迪克特·安德森作为论证反殖民民族主义具有横向博爱本质且不产生逆向种族主义的核心历史实证。"
 type: fact
 subtype: event
-region: asia
-fact_region: "asia"
+region: philippines
+fact_region: "philippines"
 fact_kind: "event"
 fact_related_count: 11
 fact_related_level: 1
@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-13
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 ---

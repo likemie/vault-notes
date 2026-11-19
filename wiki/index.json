@@ -39721,32 +39721,6 @@
     "subtype": "event"
   },
   {
-    "title": "Republic of Katagalugan",
-    "type": "fact",
-    "path": "wiki/facts/asia/Republic of Katagalugan.md",
-    "aliases": [
-      "加达洛共和国",
-      "卡塔加卢甘共和国",
-      "他加禄共和国",
-      "Katagalugan Republic",
-      "Tagalog Republic"
-    ],
-    "subtype": "event"
-  },
-  {
-    "title": "Sumpah Pemuda",
-    "type": "fact",
-    "path": "wiki/facts/asia/Sumpah Pemuda.md",
-    "aliases": [
-      "青年誓言",
-      "1928年青年誓言",
-      "印度尼西亚青年誓言",
-      "Youth Pledge",
-      "Youth Pledge of 1928"
-    ],
-    "subtype": "event"
-  },
-  {
     "title": "ANTRIEP",
     "type": "fact",
     "path": "wiki/facts/asia/ANTRIEP.md",
@@ -39757,86 +39731,6 @@
     "subtype": "organization"
   },
   {
-    "title": "Lycée Sisowath",
-    "type": "fact",
-    "path": "wiki/facts/asia/Lycée Sisowath.md",
-    "aliases": [
-      "西索瓦中学",
-      "西索瓦公学",
-      "Collège Sisowath",
-      "金边西索瓦中学"
-    ],
-    "subtype": "organization"
-  },
-  {
-    "title": "Franco-Vietnamese Schools",
-    "type": "fact",
-    "path": "wiki/facts/asia/Franco-Vietnamese Schools.md",
-    "aliases": [
-      "法越学校制",
-      "越南国语字推广政策",
-      "1917年公共教育法典",
-      "法越学校体制",
-      "Code of Public Instruction of 1917",
-      "Franco-Vietnamese Educational System"
-    ],
-    "subtype": "policy"
-  },
-  {
-    "title": "Indonesian Law No. 12 of 2012",
-    "type": "fact",
-    "path": "wiki/facts/asia/Indonesian Law No. 12 of 2012.md",
-    "aliases": [
-      "印尼2012年第12号高等教育法",
-      "印尼高等教育法",
-      "Law 12/2012",
-      "12/2012 Higher Education Act",
-      "Undang-Undang Nomor 12 Tahun 2012 tentang Pendidikan Tinggi",
-      "UU 12/2012",
-      "Indonesian Law 12/2012"
-    ],
-    "subtype": "policy"
-  },
-  {
-    "title": "Universal Access to Quality Tertiary Education Act",
-    "type": "fact",
-    "path": "wiki/facts/asia/Universal Access to Quality Tertiary Education Act.md",
-    "aliases": [
-      "优质高等教育普惠法",
-      "菲律宾优质高等教育普惠法",
-      "免费公立高等教育法",
-      "Republic Act No. 10931",
-      "RA 10931",
-      "UAQTEA"
-    ],
-    "subtype": "policy"
-  },
-  {
-    "title": "Bidikmisi Scholarship Program",
-    "type": "fact",
-    "path": "wiki/facts/asia/Bidikmisi Scholarship Program.md",
-    "aliases": [
-      "Bidikmisi 奖学金",
-      "印尼 Bidikmisi 奖学金计划",
-      "Bidikmisi 奖学金计划",
-      "Program Beasiswa Bidikmisi",
-      "Bidikmisi"
-    ],
-    "subtype": "program"
-  },
-  {
-    "title": "Borobudur Restoration",
-    "type": "fact",
-    "path": "wiki/facts/asia/Borobudur Restoration.md",
-    "aliases": [
-      "婆罗浮屠世纪修复工程",
-      "婆罗浮屠修复工程",
-      "婆罗浮屠古迹修复",
-      "Restoration of Borobudur"
-    ],
-    "subtype": "program"
-  },
-  {
     "title": "SEA-PLM",
     "type": "fact",
     "path": "wiki/facts/asia/SEA-PLM.md",
@@ -39844,18 +39738,6 @@
       "东南亚初等教育学习指标",
       "Southeast Asia Primary Learning Metrics",
       "SEA-PLM Assessment"
-    ],
-    "subtype": "program"
-  },
-  {
-    "title": "Third Elementary Education Project in India",
-    "type": "fact",
-    "path": "wiki/facts/asia/Third Elementary Education Project in India.md",
-    "aliases": [
-      "印度第三期基础教育项目",
-      "印度基础教育三期项目",
-      "Third Elementary Education Project",
-      "India Third Elementary Education Project"
     ],
     "subtype": "program"
   },
@@ -40366,6 +40248,18 @@
       "文莱 Jerudong International School 建校项目"
     ],
     "subtype": "event"
+  },
+  {
+    "title": "Lycée Sisowath",
+    "type": "fact",
+    "path": "wiki/facts/cambodia/Lycée Sisowath.md",
+    "aliases": [
+      "西索瓦中学",
+      "西索瓦公学",
+      "Collège Sisowath",
+      "金边西索瓦中学"
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Founding of Lester B. Pearson College",
@@ -45931,6 +45825,71 @@
     "subtype": "organization"
   },
   {
+    "title": "Third Elementary Education Project in India",
+    "type": "fact",
+    "path": "wiki/facts/india/Third Elementary Education Project in India.md",
+    "aliases": [
+      "印度第三期基础教育项目",
+      "印度基础教育三期项目",
+      "Third Elementary Education Project",
+      "India Third Elementary Education Project"
+    ],
+    "subtype": "program"
+  },
+  {
+    "title": "Sumpah Pemuda",
+    "type": "fact",
+    "path": "wiki/facts/indonesia/Sumpah Pemuda.md",
+    "aliases": [
+      "青年誓言",
+      "1928年青年誓言",
+      "印度尼西亚青年誓言",
+      "Youth Pledge",
+      "Youth Pledge of 1928"
+    ],
+    "subtype": "event"
+  },
+  {
+    "title": "Indonesian Law No. 12 of 2012",
+    "type": "fact",
+    "path": "wiki/facts/indonesia/Indonesian Law No. 12 of 2012.md",
+    "aliases": [
+      "印尼2012年第12号高等教育法",
+      "印尼高等教育法",
+      "Law 12/2012",
+      "12/2012 Higher Education Act",
+      "Undang-Undang Nomor 12 Tahun 2012 tentang Pendidikan Tinggi",
+      "UU 12/2012",
+      "Indonesian Law 12/2012"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Bidikmisi Scholarship Program",
+    "type": "fact",
+    "path": "wiki/facts/indonesia/Bidikmisi Scholarship Program.md",
+    "aliases": [
+      "Bidikmisi 奖学金",
+      "印尼 Bidikmisi 奖学金计划",
+      "Bidikmisi 奖学金计划",
+      "Program Beasiswa Bidikmisi",
+      "Bidikmisi"
+    ],
+    "subtype": "program"
+  },
+  {
+    "title": "Borobudur Restoration",
+    "type": "fact",
+    "path": "wiki/facts/indonesia/Borobudur Restoration.md",
+    "aliases": [
+      "婆罗浮屠世纪修复工程",
+      "婆罗浮屠修复工程",
+      "婆罗浮屠古迹修复",
+      "Restoration of Borobudur"
+    ],
+    "subtype": "program"
+  },
+  {
     "title": "Higher Education Authority",
     "type": "fact",
     "path": "wiki/facts/ireland/Higher Education Authority.md",
@@ -47324,6 +47283,33 @@
       "秘鲁化法令",
       "San Martin Peruvianization Decree",
       "Decree of San Martin 1821"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Republic of Katagalugan",
+    "type": "fact",
+    "path": "wiki/facts/philippines/Republic of Katagalugan.md",
+    "aliases": [
+      "加达洛共和国",
+      "卡塔加卢甘共和国",
+      "他加禄共和国",
+      "Katagalugan Republic",
+      "Tagalog Republic"
+    ],
+    "subtype": "event"
+  },
+  {
+    "title": "Universal Access to Quality Tertiary Education Act",
+    "type": "fact",
+    "path": "wiki/facts/philippines/Universal Access to Quality Tertiary Education Act.md",
+    "aliases": [
+      "优质高等教育普惠法",
+      "菲律宾优质高等教育普惠法",
+      "免费公立高等教育法",
+      "Republic Act No. 10931",
+      "RA 10931",
+      "UAQTEA"
     ],
     "subtype": "policy"
   },
@@ -53865,6 +53851,20 @@
       "Simon Bolivar United World College of Agriculture"
     ],
     "subtype": "program"
+  },
+  {
+    "title": "Franco-Vietnamese Schools",
+    "type": "fact",
+    "path": "wiki/facts/vietnam/Franco-Vietnamese Schools.md",
+    "aliases": [
+      "法越学校制",
+      "越南国语字推广政策",
+      "1917年公共教育法典",
+      "法越学校体制",
+      "Code of Public Instruction of 1917",
+      "Franco-Vietnamese Educational System"
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Argument_Anderson_2016_Verso",

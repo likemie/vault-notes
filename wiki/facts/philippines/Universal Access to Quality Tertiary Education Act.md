@@ -10,8 +10,8 @@ aliases:
 summary: "菲律宾于 2017 年颁布的里程碑式教育法案（共和国第 10931 号法案），免除所有公立州立大学与学院及地方大学本科生的全部学杂费；该政策虽然推动了高等教育总体毛入学率增长，但优质免费学额在实践中多被拥有优质私立中小学背景的富裕生源垄断，形成显著的再分配逆向补贴与私立高教挤出效应。"
 type: fact
 subtype: policy
-region: asia
-fact_region: "asia"
+region: philippines
+fact_region: "philippines"
 fact_kind: "policy"
 fact_related_count: 9
 fact_related_level: 0
