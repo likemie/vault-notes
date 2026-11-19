@@ -196,10 +196,6 @@ updated: 2026-11-11
 > [!finding-cards] 可确认的制度影响
 > - **成员路径增多** 网络从单一寄宿模式发展出全龄学校和关联学校路径，沃特福德的加入推动 IB 十一月考试季实施。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, pp. 123–126)]]
 > - **公共支持先例** 加拿大与意大利为书院提供公共支持，使[[International Education|国际教育]]被纳入国家教育责任的可能性得到实践展示。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 214)]]
-> - **使命进入地方服务** 农业、农村发展和社区需要成为书院讨论的教育议题，但拟议项目的目标不能当作已产生的地方发展效果。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, pp. 168–174)]] [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 214–215)]]
-
-> [!boundary]- 网络规模与和平效果必须分开判断
-> 第八章末记述 UWC 校友刚超过 6,000 人，IB 文凭获得者刚超过 10,000 人，这些是作者写作时期的累积规模。面对菲利普·齐格勒（Philip Ziegler）对书院的怀疑，Peterson 强调学校经验和向不同背景学生开放的价值，同时承认是否已经防止大战是另一问题。访问者热情、校友规模与办学延续均不能单独证明宏观和平效果。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 216–217)]]
 
 ---
 

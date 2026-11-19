@@ -312,8 +312,6 @@ issuing_organization: ""
 > 本研究采用单水平经典[[Random-Effects Model\|随机效应模型]]的[[Inverse-Variance Weighting\|逆方差加权法]]（$w_i^* = \frac{1}{v_i + \tau^2}$，其中 $v_i$ 为一阶元分析抽样方差，$\tau^2 = 0.13$ 为研究间异质性方差），在宏观整合上提供了全局基准，但存在四项关键的方法学局限与统计边界：
 > - **初级研究未微观去重（重复计算风险，Double-Counting）** 遵循 Cooper and Koenka (2012) 的 $\le 25\%$ 重叠率宏观门槛，容许部分高影响力原始实验在不同一阶元分析中被重复计入，导致其统计权重被隐性放大；
 > - **集群依赖性未建模（集群依赖被忽略，Cluster-Dependence Ignored）** 将 15 项一阶元分析拆分为 23 个独立效应量（如 Kyndt et al. 贡献 3 个、Siagian et al. 贡献 2 个），缺乏现代多水平[[Correlated and Hierarchical Effects Model\|相关与层级效应模型]]（Correlated and Hierarchical Effects Model，CHE）进行三水平方差分解；
-> - **缺乏[[Robust Variance Estimation\|稳健方差估计]]（Robust Variance Estimation，RVE）** 未采用三明治估计量（RVE）校正聚类[[Standard Error\|标准误]]（Standard Error，SE），理论上会导致二阶标准误偏小、[[Confidence Interval\|置信区间]]偏窄、[[Statistical Significance|显著性检验]]存在轻微假阳性膨胀风险；
-> - **效应量测度转换的粗放近似** 在将 Hedges' $g$ 与 Cohen's $d$ 合并时直接采用了大样本近似假设（$g \approx d$），未对小样本研究自由度进行精细分层。
 
 ---
 

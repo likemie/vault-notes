@@ -166,4 +166,3 @@ updated: 2026-11-16
 > [!critique] 批评索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]] — 指出在教育研究实操中，若将主观性能力极端化为对一切经验规律的拒斥，亦可能导致研究滑入无法进行横向比较与政策对话的微观独语困境。
 > - [[Argument_Hammermeister_2002_Cambridge_Ch07|Hammermeister (2002, Ch. 7)]] — 指出[[Kierkegaard's Aesthetics|克尔凯郭尔美学]]将感性狭隘绑定于情欲而丧失了前唯心论感性论的认知维度，其假名人物亦沦为哲学范畴的图解（pp. 129–135）。
-

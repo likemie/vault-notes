@@ -458,8 +458,6 @@ issuing_organization: ""
 > - **$ES = .40$ vs $.73$** K12 阶段与混合学段效应量对比（$p = .01$）
 > - **$ES = .99$ vs $.34$** 计算机科学与数学学科效应量对比（$p = .04$）
 > - **$\text{Coef.} = .01$** 初级研究数量 $n$ 对效应量的[[Meta-regression\|元回归]]正向预测系数（$p = .01$）
-> - **$\kappa = .87$** R-[[AMSTAR]] [[Intercoder Agreement|编码一致性]] Kappa 系数
-> - **19 FOM / 58,702** （ / 名学生） 纳入证据总规模
 
 ---
 

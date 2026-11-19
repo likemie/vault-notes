@@ -228,7 +228,8 @@ citation_aliases:
 > [!sub-claim] 1. 变差系数的计算方式与判断阈值
 
 > [!formula] 变差系数公式与统计学同质性判定基准
-> 60413V_\sigma = rac{\sigma}{ar{x}} 	imes 100\%60413
+> 60413V_\sigma = 
+rac{\sigma}{ar{x}} 	imes 100\%60413
 >
 > **参数释义** 其中 $\sigma$ 为效应量标准差，$ar{x}$ 为效应量算术平均值。本研究用于检验 Hattie 汇总的 133 项正向效应量以及六大分维度的内在离散度与同质性。
 >

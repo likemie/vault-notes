@@ -472,6 +472,8 @@ Method 条目沿用 v4.1 扁平体系（短横眉标 + 衬线标题 + 发丝线�
 | 公式 / 计算 / 推导 / 方程（单个） | `[!formula]` 或 `[!formula-step]` |
 | 多个公式 / 公式组 | `[!formula-set]` |
 | 实验/准实验设计符号 / R-X-O 记号 / Campbell & Stanley 记号法 / 前测后测符号示意 | `[!design-notation]` |
+| 量化调查问卷 / 测量工具全卷协议（含登记表、伦理须知、模块标题、填空槽与量表嵌套） | `[!questionnaire]` |
+| 质性深度访谈提纲 / 半结构化访谈协议（含阶段分段、发问意图、层进提纲与有序列表） | `[!interview]` |
 
 #### `[!design-notation]` 写法
 

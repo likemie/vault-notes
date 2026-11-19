@@ -202,14 +202,6 @@ updated: 2026-11-15
 > [!feature] 工程师与科学家作为 20 世纪国家英雄的文化崇尚
 > - **布什成为国家战争英雄** 1942 年《科利尔周刊》（*Collier’s*）以可能赢得战争的人为题向近 300 万读者深度报道万尼瓦尔·布什，使其成为美国家喻户晓的科技领袖。
 > - **[[Star Scientists|科学巨擘]]的公众追捧** 居里夫人（Marie Curie）1903 年发现镭后引发跨大西洋轰动，爱因斯坦（Albert Einstein）频频登上《时代》封面并成为全民偶像。（pp. 7–8）
-> - **工程师时代的文明信念** 1920–1930 年代[[Herbert Hoover|赫伯特·胡佛]]（Herbert Hoover）时期的工程师英雄主义，将大型水坝、摩天大楼与电气化工程视为推动文明向上攀登的[[The Sublime|崇高]]国家事业。（pp. 8, 224）
-
-> [!evidence-grid] 冷战国防安全与军工采购哺育早期硅谷的实证证据
-> - **仙童半导体研制间谍卫星设备** 1950 年代末期加州山景城的[[Fairchild Semiconductor|仙童半导体]]不仅奠定微电子工业基础，其航空部门更直接为美国中央情报局（Central Intelligence Agency, CIA）的侦察卫星研制机载高分辨率侦察设备，微芯片的首要初始市场为军方。（pp. 3–4）
-> - **圣克拉拉县作为海军导弹制造中枢** 二战后至冷战鼎盛时期，圣克拉拉县生产了美国海军全部的洲际弹道导弹，以及绝大部分军用侦察卫星与雷达追踪系统。
-> - **军工巨头高科技制造集群** 洛克希德导弹与空间公司、西屋电气、福特航天及联合技术公司在 1980 至 1990 年代于硅谷雇佣数万名工程师从事尖端武器与航电系统制造。
-> - **空军资助奠定人机共生与计算底座** 心理学家与计算先驱[[J. C. R. Licklider|约瑟夫·利克莱德]] 1960 年受美国空军资助发表《人机共生》（*Man-Computer Symbiosis*），1962 年受聘执掌后来演进为[[DARPA|美国国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）的信息处理技术办公室（Information Processing Techniques Office, IPTO），直接催生了[[ARPANET|高级研究计划局网络]]（Advanced Research Projects Agency Network, ARPANET）与全球定位系统（Global Positioning System, GPS）。
-> - **白宫危机决策极速创立[[National Aeronautics and Space Administration|国家航空航天局]]** 1957 年 10 月苏联发射斯普特尼克号人造卫星后，[[Dwight D. Eisenhower|艾森豪威尔]]总统紧急召见汉斯·贝特（Hans Bethe），在一小时内敲定太空计划路线图，并于次年（1958 年）正式组建美国国家航空航天局（National Aeronautics and Space Administration, NASA）。（p. 7）
 
 ---
 
