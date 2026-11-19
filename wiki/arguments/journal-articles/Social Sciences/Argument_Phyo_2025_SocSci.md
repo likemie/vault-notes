@@ -19,6 +19,7 @@ tags:
   - region/southeast-asia
   - method/quantitative
 related_concepts:
+  - "[[Affirmative Action in Higher Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Cultural Capital]]"
   - "[[Heterogeneity]]"
@@ -26,6 +27,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Construct]]"
   - "[[Higher Education Access]]"
+  - "[[Household Wealth Index]]"
   - "[[Interaction Effect]]"
   - "[[Credential Inflation]]"
   - "[[Research Universities]]"
@@ -51,6 +53,7 @@ related_facts:
   - "[[Demographic and Health Surveys]]"
   - "[[Multiple Indicator Cluster Surveys]]"
   - "[[Universal Access to Quality Tertiary Education Act]]"
+  - "[[Bidikmisi Scholarship Program]]"
   - "[[Indonesian Law No. 12 of 2012]]"
   - "[[ASEAN]]"
 related_arguments: []
@@ -66,9 +69,9 @@ title: "Argument_Phyo_2025_SocSci"
 argument_key: "Argument_Phyo_2025_SocSci"
 argument_display_title: "Toward 2030: Inequities in higher education access in Southeast Asia"
 argument_kind: "journal-article"
-argument_related_count: 29
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 32
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: "Social Sciences"
 book_title: ""
@@ -80,7 +83,7 @@ issuing_organization: ""
 ---
 
 > [!question]
-> 伴随联合国 2030 [[UN Sustainable Development Goals|可持续发展目标]]（Sustainable Development Goals, SDG，此处指目标 4.3）的倡议推进，东南亚各国高等教育规模历经数十年的迅猛扩张 (Altbach et al., 2019; McCowan, 2007; Wu & Hawkins, 2018)；然而系统总容量的膨胀是否自发带来了入学机会的实质均等 (Carpentier & Unterhalter, 2011; Salmi, 2023)，家庭财富、性别与城乡区位如何在半个世纪的出生队列演进中交叉塑造微观入学机会 (Byun et al., 2012; Ilie et al., 2021)，以及各国推行的免学费、奖助学金与定向配额政策为何难以平抑阶层鸿沟。
+> 伴随联合国 2030 [[UN Sustainable Development Goals|可持续发展目标]]（Sustainable Development Goals, SDG，此处指目标 4.3）的倡议推进，东南亚各国高等教育规模历经数十年的迅猛扩张 (Altbach et al., 2019; McCowan, 2007; Wu & Hawkins, 2018)；然而系统总容量的膨胀是否自发带来了入学机会的实质均等 (Carpentier & Unterhalter, 2011; Salmi, 2023)，家庭财富、性别与城乡区位如何在半个世纪的出生队列演进中交叉塑造微观入学机会 (Byun et al., 2012; Ilie et al., 2021)，以及各国推行的免学费、专项助学与[[Affirmative Action in Higher Education|平权行动配额]]政策为何难以平抑阶层鸿沟。
 
 > [!claim] 核心主张
 > 东南亚八国半个世纪的历史演进表明，高等教育总体规模扩张严格遵循最大限度维持不平等（[[Maximally Maintained Inequality]], MMI）假说：新增入学机会优先被富裕阶层垄断，导致贫富群体间的绝对入学率差距跨期持续走阔；与此同时，农村区位对富裕家庭学生的升学概率构成强烈的负向惩罚，表明经济财富未能在偏远地区形成保护屏障；未触及基础教育学业准备分化的供给端学费减免与配额政策，无法自发打破多维交叉的阶层壁垒。
@@ -116,7 +119,7 @@ issuing_organization: ""
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心测量工具、指标界定与数据口径 |
 > |---|---|---|
 > | **[[Higher Education Access\|高等教育获得]]**<br>（因变量：$Y_{ir}$） | 个体是否曾进入公立或私立中等后教育机构就读的二元指示变量。 | 依据微观调查中最高受教育程度编码，曾进入高等教育记为 1，初中、高中、学前及未受正规教育记为 0。不考核是否中途辍学或获得学位。(Ilie & Rose, 2016; Tentshol et al., 2019) |
-> | **家庭财富五等分**<br>（解释变量：Wealth Quintiles） | 反映家庭长期经济生活水准的资产相对定位代理指标。 | 采用主成分分析法基于住房建材、供水、卫生设施及耐用消费品（车辆、电视机等）加权合成，在各国内部分为最贫困（基准组）、较贫困、中等、较富裕、最富裕五个等分组。(Rutstein & Johnson, 2004) |
+> | **[[Household Wealth Index|家庭财富五等分指数]]**<br>（解释变量：Wealth Quintiles） | 反映家庭长期经济生活水准的资产相对定位代理指标。 | 采用主成分分析法基于住房建材、供水、卫生设施及耐用消费品（车辆、电视机等）加权合成，在各国内部分为最贫困（基准组）、较贫困、中等、较富裕、最富裕五个等分组。(Rutstein & Johnson, 2004) |
 > | **人口学与空间背景**<br>（协变量：性别与城乡区位） | 生理性别与居住地空间属性二元变量。 | 性别（女性 = 1，男性 = 0 基准组）；居住地（农村 = 1，城市 = 0 基准组）。(Byun et al., 2012) |
 > | **区域固定效应**<br>（控制项：$u_r$） | 各国内部次级行政区划的地理单元虚拟变量。 | 吸收省、州或大区层面不随时间演变的空间禀赋、院校分布密度与地方经济差异。 |
 
@@ -342,9 +345,9 @@ issuing_organization: ""
 
 > [!sub-claim] 2. 助学金资格屡遭虚报冒领，弱势学生因基础学业差距难以按期读完
 
-> [!case] 案例二｜印度尼西亚：第 12/2012 号法案配额与 Bidikmisi 奖学金机制
+> [!case] 案例二｜印度尼西亚：第 12/2012 号法案[[Affirmative Action in Higher Education|平权配额]]与 [[Bidikmisi Scholarship Program|Bidikmisi 奖学金]]机制
 > - **法定干预架构** [[Indonesian Law No. 12 of 2012|印尼 2012 年第 12 号《高等教育法》（Law 12/2012）]]强制要求全国公立大学（Perguruan Tinggi Negeri, PTN）必须将至少 20% 的招生席位保留给来自经济困难家庭或农村偏远地区的优秀学生。(Brewis, 2019)
-> - **专项资助工具** 同步推进 Bidikmisi 奖学金项目，向经济困难学生全额提供学费资助与生活津贴；针对巴布亚及边境偏远落后地区实施高等教育平权计划（Afirmasi Pendidikan Tinggi, ADIK）与边远、边境和欠发达地区（Terdepan, Terluar, Tertinggal; 3T）专项倾斜方案，下调录取分数线并提供全额补贴。
+> - **专项资助工具** 同步推进[[Bidikmisi Scholarship Program|Bidikmisi 奖学金项目]]，向经济困难学生全额提供学费资助与生活津贴；针对巴布亚及边境偏远落后地区实施[[Affirmative Action in Higher Education|高等教育平权计划（Afirmasi Pendidikan Tinggi, ADIK）]]与边远、边境和欠发达地区（Terdepan, Terluar, Tertinggal; 3T）专项倾斜方案，下调录取分数线并提供全额补贴。
 > - **实施阻碍与制度张力** 在选拔过程中，由于家庭收入核查机制薄弱，出现部分优势家庭伪造经济困难证明以争夺名额的资格失真现象；更为根本的是，偏远地区薄弱的基础教育质量使得受助学生进入大学后难以适应学术要求，暴露出单纯大学入口端配额无法补足前期[[Human Capital Theory|人力资本]]赤字的根本缺陷。
 
 > [!case] 案例三｜柬埔寨：历史制度动荡与特别优先奖学金的资源约束

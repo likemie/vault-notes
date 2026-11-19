@@ -10,9 +10,9 @@ subtype: program
 region: multi
 fact_region: "multi"
 fact_kind: "program"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 11
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "2009–至今"
 initiator_organization: "[[SEAMEO RIHED]]"
@@ -26,7 +26,8 @@ tags:
 related_concepts:
   - "[[Student Mobility]]"
   - "[[ASEAN Way]]"
-related_theories: []
+related_theories:
+  - "[[Decolonial Geopolitics of Knowledge]]"
 related_methods: []
 related_instruments: []
 related_persons: []
@@ -34,15 +35,16 @@ related_facts:
   - "[[SEAMEO RIHED]]"
   - "[[Erasmus Programme]]"
   - "[[ASEAN Economic Community]]"
-  - "[[SEAMEO]]"
   - "[[Southeast Asian Higher Education Common Space]]"
+  - "[[SEAMEO]]"
   - "[[ASEAN University Network]]"
 related_arguments:
   - "[[Argument_Chou_2017_PolSoc]]"
+  - "[[Argument_Indrarajah_2026_NJCIE]]"
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-30
+updated: 2026-11-19
 ---
 
 ---
@@ -62,25 +64,20 @@ updated: 2026-10-30
 > AIMS 假定通过各参与国政府部委权威背书学分折算规范，并以特定优势学科为切入点建立校际合作网络，能够在维系各国现有高等教育制度与主权完整的前提下，达成跨国学分互认与高水平学生流动。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151, 154)]]
 
 > [!policy-design] 方案设计
-> - **项目目标** 推进区域内重点高校本科生在特定学科门类开展为期一至两学期的跨境互惠交流；促进校际课程体系衔接与学术互信。
+> - **项目目标** 推进区域内重点高校本科生在特定学科门类开展为期一至两学期的跨境互惠交流；促进校际课程体系衔接与学术互信。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]
 > - **覆盖对象** 参与国教育部推荐并经评估认定的高等院校，重点选拔农学、工程、国际商务、语言文化、环境科学等指定专业方向的全日制本科生。
-> - **干预措施** 实行接收学校学费全免、学分双向对等认定；派出方政府或院校提供往返交通与生活补助；[[SEAMEO]] RIHED 提供统一的学分转换指南与跨国协调支持。
+> - **干预措施** 实行接收学校学费全免、学分双向对等认定；派出方政府或院校提供往返交通与生活补助；[[SEAMEO RIHED]] 提供统一的学分转换指南与跨国协调支持。
 > - **实施控制** 设立年度指导委员会会议（Steering Committee Meeting），监督各专业学科群的交换规模与质量；通过院校互访与同行评估保障教学大纲的契合度。
 
 ---
 
 > [!dev-timeline] 项目推进历程
-> - **2009–2011 年** **先导试验与三边机制创立**
->
+> - **2009–2011 年 — 先导试验与三边机制创立**
 >   马来西亚、印度尼西亚和泰国教育部启动 M-I-T 学生流动试点计划，在农业、国际商务和工程等领域开展小规模学分互换，验证政府间协调框架的可行性。
->
-> - **2012–2016 年** **区域扩容与多边品牌定型**
->
+> - **2012–2016 年 — 区域扩容与多边品牌定型**
 >   项目正式定名为 AIMS，越南、菲律宾、文莱相继加入，日本与韩国受邀成为伙伴国；确立十个重点合作学科领域，流动规模由数百人稳步扩展至数千人。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]
->
-> - **2017 年–至今** **共同空间融合与多元模式探索**
->
->   深度融入[[Southeast Asian Higher Education Common Space|东南亚高等教育共同空间]]框架，探索混合式跨国课程与短期研修，形成东南亚跨国流动的标志性载体。
+> - **2017 年–至今 — 共同空间融合与去殖民反思深化**
+>   深度融入[[Southeast Asian Higher Education Common Space|东南亚高等教育共同空间]]框架，探索混合式跨国课程与短期研修，形成东南亚跨国流动的标志性载体；同时学界针对其排除老挝、缅甸等后发成员国的排斥倾向与内部生源失衡展开去殖民反思。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 6–7, 13–15)]]
 
 ---
 
@@ -88,7 +85,7 @@ updated: 2026-10-30
 > - **多边协调枢纽** [[SEAMEO RIHED]]承担项目秘书处职责，负责制定通用指南、组织年度指导会议及监督执行进度。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]
 > - **国家教育行政部门** 各国教育部指定国家协调员，负责国内参与院校审核、政策法规协调及本国专项流动资金保障。
 > - **执行高校与院系** 参与大学设立专门联络处，负责对口专业课程对齐、学生学籍管理与成绩单转换。
-> - **参与学生** 经过选拔派遣至目标高校修读正规学分并获得本校认可的本科生群体。
+> - **参与学生群体** 经过选拔派遣至目标高校修读正规学分并获得本校认可的本科生群体。
 
 > [!pathways] 实施路径与管理
 > - **学科驱动与模块扩展** 避开全学科盲目铺开，优先在课程重合度高、行业需求明确的应用性与特色学科开展对口互认。
@@ -97,13 +94,40 @@ updated: 2026-10-30
 
 ---
 
+> [!indicators] 评估指标体系
+> - **投入指标** 各国教育部专项资助基金规模、参与高校配套奖学金到位率、学分转换指南覆盖专业数。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]
+> - **过程指标** 学期学分完全互认兑换率、项目参与高校网络活跃度、交换学生课程依从度。
+> - **产出与结果指标** 跨国流动学生总人次、参与国别覆盖广度、回国后跨文化胜任力与就业率改善。
+
+> [!finding-cards] 核心实证结论
+> - **开创柔性多边流动治理范式** 证实无需构建欧洲式超国家中央管理架构，依托政府间信任与对口学科互认，亦能支撑高质量本科生跨境学分流动。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151–154)]]
+> - **区域内部流动规模结构性受限** 尽管 AIMS 建立了多边互通渠道，但东盟区域整体学生流动仍面临严重不对称，区域内留学生互派比例仅占整体出境流动的约 10%，大量生源与奖学金资源仍被欧美及东亚大国单向虹吸。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 8, 14)]]
+> - **后发成员国体制性边缘化** 自愿出资与对等匹配机制对财政基础薄弱的成员国构成隐性门槛，老挝、柬埔寨、缅甸等国在早期和中期网络中参与不足，形成区域流动成果向核心国倾斜的马太效应。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 6–7, 13)]]
+
+> [!stat-cards]- 关键实证数据
+> - **10%** 东南亚跨国留学生中留在区域内部流动的比例基准，九成学子流向欧美与东亚外部大国。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, p. 8)]]
+> - **2009** （年） 马来西亚、印度尼西亚与泰国启动 M-I-T 先导流动试点的年份。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]
+> - **10** （个） AIMS 项目重点覆盖与推进对口学分转换的核心专业学科群（农学、工程、国际商务等）。
+
+---
+
 > [!debates] 核心争议
 >
 > > [!axis] 资助模式与教育流动均等化困境
 > > AIMS 依赖各国自行匹配资金与家庭自筹的模式，在推动流动的同时也面临公平性挑战。
 > >
-> > - **资源非对称与机会差距** 批评观点指出，由于成员国经济发展水平与财政投入差距明显，流动机会多集中于经济较发达国家及办学资源雄厚的知名高校，欠发达地区及经济困难学生参与率较低。
-> > - **尊重国情与现实可持续性** 辩护观点强调，在缺乏超国家财政转移支付工具的东南亚地缘现实下，自愿匹配出资是维系项目长期运行且不侵犯国家教育财政主权的有效路径。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151, 154)]]
+> > - **批评观点** 批评指出，由于成员国经济发展水平与财政投入差距明显，流动机会多集中于经济较发达国家及办学资源雄厚的知名高校，欠发达地区及经济困难学生参与率较低。
+> > - **辩护观点** 辩护强调，在缺乏超国家财政转移支付工具的东南亚地缘现实下，自愿匹配出资是维系项目长期运行且不侵犯国家教育财政主权的有效路径。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151, 154)]]
+>
+> > [!axis] 认识论殖民性与成员国包容性壁垒
+> > 围绕 AIMS 是否实质上再生产了区域核心国家对边缘国家的排斥展开批判。
+> >
+> > - **去殖民批判视角** [[Argument_Indrarajah_2026_NJCIE|Indrarajah (2026, pp. 6–7, 13–15)]] 批评指出，AIMS 项目长期排除了老挝、缅甸等后发国家，未能触动区域内部的经济与知识层级；官方应取消单向资助学生流向东亚大国的奖学金，将公共资金集中投入区域内部高校的联合培养，建立全域无国别壁垒的包容性流动网络。
+> > - **务实渐进视角** 组织方认为从具备条件的高校先行试验，待学分与质保体系成熟后再稳步吸纳新成员，是保障项目跨国学术信誉与平稳落地的理性选择。
+
+> [!lessons] 经验教训与启示
+> - **对等互换中的隐性壁垒防范** 证明在缺乏区域集中救助基金的前提下，单纯依靠院校对等免学费极易使经济脆弱家庭学生因生活成本被阻隔在外，未来需设立区域倾斜性生活补助机制。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 13–14)]]
+> - **以多边互信超越全域同构** 为全球南方教育合作提供了宝贵范本：无需牺牲国家教育主权推行强行立法，依托共同学科切入与成果导向折算，同样能达成实质性学分互认与深层交流。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 154–156)]]
 
 ---
 
@@ -111,10 +135,17 @@ updated: 2026-10-30
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[SEAMEO RIHED]] | Fact (Organization) | AIMS 的发起方、秘书处与常设多边协调中心。 |
-> | [[SEAMEO]] | Fact (Organization) | AIMS 所依托的区域性政府间母体组织。 |
 > | [[Student Mobility]] | Concept | AIMS 旨在促进与规范的核心高等教育治理对象。 |
 > | [[ASEAN Way]] | Concept | 决定 AIMS 自愿出资与弹性学分认定的治理原则。 |
-> | [[Southeast Asian Higher Education Common Space]] | Fact (Program) | AIMS 参与共建的区域宏观高等教育协调平台。 |
-> | [[Erasmus Programme]] | Fact (Program) | 欧洲全域趋同模式下的学生流动参照案例。 |
+> | [[Decolonial Geopolitics of Knowledge]] | Theory | [[Argument_Indrarajah_2026_NJCIE\|Indrarajah (2026)]] 用于解构 AIMS 区域内部不平等与生源吸附的理论透镜。 |
+> | [[SEAMEO RIHED]] | Fact (Organization) | AIMS 的发起方、秘书处与常设多边协调中心。 |
+> | [[SEAMEO]] | Fact (Organization) | AIMS 所依托的区域性政府间母体组织。 |
 > | [[ASEAN University Network]] | Fact (Organization) | 东南亚另一平行运作高校网络的流动项目承载方。 |
+> | [[Southeast Asian Higher Education Common Space]] | Fact (Policy) | AIMS 参与共建的区域宏观高等教育协调平台。 |
+> | [[Erasmus Programme]] | Fact (Program) | 欧洲全域趋同模式下的学生流动参照案例。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Indrarajah_2026_NJCIE|Indrarajah (2026)]] — 从认识论去殖民化视角批判 AIMS 排除老挝与缅甸等成员国的局限，揭示区域内部流动仅占 10% 的结构性依附（pp. 6–7, 13–15）。
+> - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] — 系统剖析 AIMS 项目在东南亚高等教育竞逐模式中的创设背景、运作逻辑与治理特征（pp. 151, 154）。

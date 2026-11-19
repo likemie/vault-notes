@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Chain-of-Thought Prompting",
+      "path": "wiki/methods/quantitative/Chain-of-Thought Prompting.md"
+    },
+    {
+      "basename": "Causal Modeling",
+      "path": "wiki/methods/quantitative/Causal Modeling.md"
+    },
+    {
+      "basename": "Career Shuffling Method",
+      "path": "wiki/methods/quantitative/Career Shuffling Method.md"
+    },
+    {
+      "basename": "Campbell and Stanley Notation System",
+      "path": "wiki/methods/quantitative/Campbell and Stanley Notation System.md"
+    },
+    {
+      "basename": "Blinding",
+      "path": "wiki/methods/quantitative/Blinding.md"
+    },
+    {
+      "basename": "Black Box RCTs",
+      "path": "wiki/methods/quantitative/Black Box RCTs.md"
+    },
+    {
       "basename": "Binary Logistic Regression",
       "path": "wiki/methods/quantitative/Binary Logistic Regression.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Patient Capital",
       "path": "wiki/concepts/economics/Patient Capital.md"
-    },
-    {
-      "basename": "John Hattie",
-      "path": "wiki/persons/new-zealand/John Hattie.md"
-    },
-    {
-      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit10",
-      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit10.md"
-    },
-    {
-      "basename": "EU",
-      "path": "wiki/facts/eu/EU.md"
-    },
-    {
-      "basename": "Argument_Barrenechea_2023_JEC",
-      "path": "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
-    },
-    {
-      "basename": "Globalization from Below",
-      "path": "wiki/theories/comparative-education/Globalization from Below.md"
-    },
-    {
-      "basename": "Argument_Campbell_2026_JPCC",
-      "path": "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md"
     }
   ],
   "omittedPaths": [],

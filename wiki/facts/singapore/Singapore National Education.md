@@ -12,7 +12,7 @@ subtype: policy
 region: singapore
 fact_region: "singapore"
 fact_kind: "policy"
-fact_related_count: 4
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -24,8 +24,11 @@ tags:
   - theme/national-identity
   - theme/social-cohesion
   - theme/educational-governance
-related_concepts: []
+related_concepts:
+  - "[[Civic Rituals]]"
+  - "[[Official Nationalism]]"
 related_theories:
+  - "[[Nation Building through Education]]"
   - "[[Developmental State]]"
 related_methods: []
 related_instruments: []
@@ -102,8 +105,9 @@ updated: 2026-11-19
 > |:-----|:-----|:-----|
 > | [[Thinking Schools, Learning Nation]] | 事实 | 国民教育是 1997 年 TSLN 宏观改革框架不可分割的四大战略支柱之一。 |
 > | [[Independent Schools Initiative]] | 事实 | 国家在下放办学与课程自主权的同时，要求所有独立学校严格守住国民教育底线。 |
-> | [[Social Cohesion]] | 概念 | 国民教育政策致力于在多元种族与宗教复杂语境下培育的核心社会资本。 |
-> | [[Civic Competence]] | 概念 | 分析学生参与公共社区事务、理解国家体制运作与履行公民责任的关键能力。 |
+> | [[Civic Rituals]] | 概念 | 分析升旗礼、信约宣读与四大纪念日活动如何以仪式化实践内化国家认同。 |
+> | [[Official Nationalism]] | 概念 | 阐明国家机器自上而下通过学校课程塑造统一公民文化与官方叙事的机制。 |
+> | [[Nation Building through Education]] | 理论 | 阐述后殖民新兴国家依托学校教育整合多元族群并熔铸政治合法性的宏观理论。 |
 > | [[Developmental State]] | 理论 | 阐释发展型国家在拥抱全球化市场的同时，主动借助意识形态国家机器强化忠诚的政治逻辑。 |
 
 ---

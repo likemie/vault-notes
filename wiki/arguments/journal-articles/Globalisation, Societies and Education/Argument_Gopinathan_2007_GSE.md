@@ -66,6 +66,8 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Thinking Schools, Learning Nation]]"
+  - "[[Manpower 21]]"
+  - "[[Junior College and Upper Secondary Education Review Committee]]"
   - "[[Teach Less, Learn More]]"
   - "[[National Institute of Education]]"
   - "[[Singapore National Education]]"
@@ -73,6 +75,7 @@ related_facts:
   - "[[School Cluster System]]"
   - "[[Singapore University Corporatisation]]"
   - "[[School Excellence Model]]"
+  - "[[First Masterplan for ICT in Education]]"
   - "[[Integrated Programme]]"
   - "[[Direct School Admission]]"
   - "[[Independent Schools Initiative]]"
@@ -90,7 +93,7 @@ title: "Argument_Gopinathan_2007_GSE"
 argument_key: "Argument_Gopinathan_2007_GSE"
 argument_display_title: "Globalisation, the Singapore developmental state and education policy: a thesis revisited"
 argument_kind: "journal-article"
-argument_related_count: 52
+argument_related_count: 55
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -133,7 +136,7 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **宏观制度分析**<br>Macro-Institutional Policy Analysis | 追踪新加坡建国四十年间政治经济体制演变脉络，结合外商直接投资结构与劳动力政策演进，评估国家与市场的互动边界。 |
-> | **政策文献批判审视**<br>Critical Document Analysis | 系统研读1997年[[Thinking Schools, Learning Nation\|思考型学校，学习型国家]]纲领、2002年初级学院与高中教育检讨委员会报告、2004年[[Teach Less, Learn More\|少教多学]]倡议及大学公司化法案。 |
+> | **政策文献批判审视**<br>Critical Document Analysis | 系统研读1997年[[Thinking Schools, Learning Nation\|思考型学校，学习型国家]]纲领、1999年[[Manpower 21\|《人力21》规划]]、2002年[[Junior College and Upper Secondary Education Review Committee\|初级学院与高中教育检讨委员会报告]]、2004年[[Teach Less, Learn More\|少教多学]]倡议及大学公司化法案。 |
 > | **教育社会学辨析**<br>Sociological-Pedagogical Synthesis | 结合课堂教学实证观察文献与社会分层统计，评估微观教学法演进与宏观阶层再生产之间的双向制约。 |
 
 > [!sample-panel]- 样本与材料快照
@@ -279,7 +282,7 @@ issuing_organization: ""
 > | **基础教育行政** | 设立[[School Cluster System\|学校群（School Cluster）治理网络]]，下放课程校本开发权与资源调配权 | 教育部委派学校群督学统领，依托[[School Excellence Model\|学校卓越成就模型]]（School Excellence Model, SEM）实施严密产出问责 |
 > | **高等教育体制** | 2005年推动[[Singapore University Corporatisation|新加坡国立大学与南洋理工大学公司化改制]]，赋予全球招聘与预算自主权 | 政府通过大学教育资助委员会掌控巨额核心财政拨款，直接锚定国家重大科技攻关课题 |
 > | **办学多元选择** | 批准成立英华[[International Schools\|国际学校]]与华中国际学校等2–3所私立高中，吸纳海外自费生与归国侨民 | 强制要求至少50%生源必须为新加坡公民，严格执行双语教育与[[Singapore National Education|国民教育]]法定规程 |
-> | **终身职业技能** | 2003年设立[[Workforce Development\|劳动力发展]]局（Workforce Development Agency, WDA），整合市场力量推进成人职业[[Further Education\|继续教育]]与转岗培训 | 紧随国家经济发展局（EDB）确立的生物医药、物流与数字创意等支柱产业目录定向资助 |
+> | **终身职业技能** | 人力部推行[[Manpower 21|人力21规划]]并于2003年设立[[Workforce Development\|劳动力发展]]局（Workforce Development Agency, WDA），整合市场力量推进成人职业[[Further Education\|继续教育]]与转岗培训 | 紧随国家经济发展局（EDB）确立的生物医药、物流与数字创意等支柱产业目录定向资助 |
 
 ---
 
@@ -297,14 +300,14 @@ issuing_organization: ""
 > - **行政管理追求卓越** 推行[[School Excellence Model|学校卓越成就模型]]（SEM），重塑校长领导力研修，将学校建设为具备自我造血功能的学习型组织。
 
 > [!pathways] TSLN 愿景的三大制度保障与资源供给
-> 1. **教育信息技术总蓝图注资** 第一阶段斥资二十亿新元实施信息技术总蓝图，将生机比由五比一优化至二比一，要求信息[[Technology Infusion|技术整合]]占教学时间的三成（Ministry of Education, 1998）。
+> 1. **教育信息技术总蓝图注资** 斥资二十亿新元实施[[First Masterplan for ICT in Education|第一代教育资讯科技总蓝图（mp1）]]，将生机比由五比一优化至二比一，要求信息[[Technology Infusion|技术整合]]占教学时间的三成（Ministry of Education, 1998）。
 > 2. **教师终身在职进修法定权益** 制度化确立全体公立在职教师每年一百小时带薪进修培训权益，确保师资队伍的知识更新（Sharpe & Gopinathan, 2002）。
 > 3. **跨学科专题研习与升学绑定** 将跨学科专题研习（Project Work）纳为初级学院必修科目并与大学入学资格实质挂钩，引导高阶探究实践。
 
 > [!sub-claim] 2. [[Integrated Programme|直通车计划]]打破统考限制，为拔尖学生提供灵活的个性化升学通道
 
 > [!feature] 突破单一统考壁垒的三大多样化选拔创新
-> - **综合课程（IP 直通车计划）** 允许顶尖 10% 的中学生跳过剑桥普通教育证书普通水准（General Certificate of Education Ordinary Level, O-Level）升学考试，直接衔接大学预科课程，免除应试重复刷题，提供深层探究空间（Ministry of Education, 2002）。
+> - **综合课程（IP 直通车计划）** 根据[[Junior College and Upper Secondary Education Review Committee|初级学院与高中教育检讨委员会]]建议，允许顶尖 10% 的中学生跳过剑桥普通教育证书普通水准（General Certificate of Education Ordinary Level, O-Level）升学考试，直接衔接大学预科课程，免除应试重复刷题，提供深层探究空间（Ministry of Education, 2002）。
 > - **顶尖专业化特色院校设立** 批准创办新加坡体育学校（2004 年）与新加坡国立大学数理中学（2005 年）等高度自主的专业院校，定制拔尖英才培养方案。
 > - **[[Direct School Admission|直接招生计划（Direct School Admission, DSA）]]推行** 赋予[[Independent Schools Initiative|自主学校]]高达 20%、主流学校 5% 的提前自主选拔招生配额，打破单一以统一纸笔考试总分为纲的录取格局。
 

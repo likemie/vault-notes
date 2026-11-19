@@ -10588,6 +10588,19 @@
     ]
   },
   {
+    "title": "Affirmative Action in Higher Education",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Affirmative Action in Higher Education.md",
+    "aliases": [
+      "高等教育平权行动",
+      "高等教育配额制",
+      "高校平权措施",
+      "高校平权政策",
+      "大学平权行动",
+      "平权招生政策"
+    ]
+  },
+  {
     "title": "Anchor Institution",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Anchor Institution.md",
@@ -20599,6 +20612,19 @@
       "horizontal discourse",
       "weak grammar",
       "弱语法"
+    ]
+  },
+  {
+    "title": "Household Wealth Index",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Household Wealth Index.md",
+    "aliases": [
+      "家庭财富指数",
+      "家庭财富五等分指数",
+      "DHS 财富指数",
+      "资产财富指数",
+      "DHS Wealth Index",
+      "Asset-Based Wealth Index"
     ]
   },
   {
@@ -39546,6 +39572,19 @@
     "subtype": "policy"
   },
   {
+    "title": "Bidikmisi Scholarship Program",
+    "type": "fact",
+    "path": "wiki/facts/asia/Bidikmisi Scholarship Program.md",
+    "aliases": [
+      "Bidikmisi 奖学金",
+      "印尼 Bidikmisi 奖学金计划",
+      "Bidikmisi 奖学金计划",
+      "Program Beasiswa Bidikmisi",
+      "Bidikmisi"
+    ],
+    "subtype": "program"
+  },
+  {
     "title": "Borobudur Restoration",
     "type": "fact",
     "path": "wiki/facts/asia/Borobudur Restoration.md",
@@ -47259,6 +47298,19 @@
     "subtype": "policy"
   },
   {
+    "title": "First Masterplan for ICT in Education",
+    "type": "fact",
+    "path": "wiki/facts/singapore/First Masterplan for ICT in Education.md",
+    "aliases": [
+      "第一代教育资讯科技总蓝图",
+      "教育资讯科技总蓝图第一阶段",
+      "mp1",
+      "IT Masterplan 1",
+      "Masterplan for ICT in Education 1"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Goh Report",
     "type": "fact",
     "path": "wiki/facts/singapore/Goh Report.md",
@@ -47293,6 +47345,34 @@
       "IP 直通车",
       "IP",
       "Singapore Integrated Programme"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Junior College and Upper Secondary Education Review Committee",
+    "type": "fact",
+    "path": "wiki/facts/singapore/Junior College and Upper Secondary Education Review Committee.md",
+    "aliases": [
+      "2002年初级学院与高中教育检讨委员会",
+      "初级学院与高中教育检讨报告",
+      "初级学院与高中教育审查委员会",
+      "JC Review Committee",
+      "JC Review 2002",
+      "Junior College and Upper Secondary Education Review",
+      "Junior College and Upper Secondary Education Review 2002"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Manpower 21",
+    "type": "fact",
+    "path": "wiki/facts/singapore/Manpower 21.md",
+    "aliases": [
+      "人力21",
+      "人力21规划",
+      "新加坡人力21计划",
+      "Manpower 21 Plan",
+      "Manpower 21 Blueprint"
     ],
     "subtype": "policy"
   },

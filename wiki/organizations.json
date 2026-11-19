@@ -3296,9 +3296,11 @@
     "Singapore Ministry of Education": {
       "seen_in": [
         "wiki/facts/singapore/Direct School Admission.md",
+        "wiki/facts/singapore/First Masterplan for ICT in Education.md",
         "wiki/facts/singapore/Goh Report.md",
         "wiki/facts/singapore/Independent Schools Initiative.md",
         "wiki/facts/singapore/Integrated Programme.md",
+        "wiki/facts/singapore/Junior College and Upper Secondary Education Review Committee.md",
         "wiki/facts/singapore/Primary Education Review and Implementation.md",
         "wiki/facts/singapore/School Cluster System.md",
         "wiki/facts/singapore/School Excellence Model.md",
@@ -3871,6 +3873,11 @@
     "Singapore Examinations and Assessment Board": {
       "seen_in": [
         "wiki/facts/singapore/Primary School Leaving Examination.md"
+      ]
+    },
+    "Singapore Ministry of Manpower": {
+      "seen_in": [
+        "wiki/facts/singapore/Manpower 21.md"
       ]
     },
     "Students & Intellectuals (Beijing University / Student Unions)": {
