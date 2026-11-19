@@ -6119,6 +6119,8 @@
     "Davies (2011)": "Davies, 2011",
     "Davies (2020)": "Davies, 2020",
     "Davies (2022)": "Davies, 2022",
+    "Davies et al. (2008)": "Davies et al., 2008",
+    "Davies et al., 2008": "Davies et al., 2008",
     "Davies, 1997": "Davies, 1997",
     "Davies, 1999": "Davies, 1999",
     "Davies, 2000": "Davies, 2000",
@@ -7865,7 +7867,12 @@
     "FFT Education Datalab, 2018": "FFT Education Datalab, 2018",
     "FNAE (2020)": "FNAE, 2020",
     "FNAE, 2020": "FNAE, 2020",
+    "FOCAC (2006)": "FOCAC, 2006",
+    "FOCAC (2009)": "FOCAC, 2009",
     "FOCAC (2015)": "FOCAC, 2015",
+    "FOCAC, 2006": "FOCAC, 2006",
+    "FOCAC, 2009": "FOCAC, 2009",
+    "FOCAC, 2009a": "FOCAC, 2009",
     "FOCAC, 2015": "FOCAC, 2015",
     "FORMIN (2018)": "FORMIN, 2018",
     "FORMIN, 2018": "FORMIN, 2018",
@@ -10986,11 +10993,15 @@
     "He & Thompson (2022)": "He & Thompson, 2022",
     "He & Thompson, 2022": "He & Thompson, 2022",
     "He (2001)": "He, 2001",
+    "He (2006)": "He, 2006",
+    "He Wenping (2006)": "He Wenping, 2006",
+    "He Wenping, 2006": "He Wenping, 2006",
     "He et al. (2019)": "He et al., 2019",
     "He et al. (2024)": "He et al., 2024",
     "He et al., 2019": "He et al., 2019",
     "He et al., 2024": "He et al., 2024",
     "He, 2001": "He, 2001",
+    "He, 2006": "He, 2006",
     "Heaberlin (2000)": "Heaberlin, 2000",
     "Heaberlin, 2000": "Heaberlin, 2000",
     "Head (2008)": "Head, 2008",
@@ -13466,6 +13477,8 @@
     "Kenneth Clark, 1969": "Kenneth Clark, 1969",
     "Kenneth Goodman (1999)": "Kenneth Goodman, 1999",
     "Kenneth Goodman, 1999": "Kenneth Goodman, 1999",
+    "Kenneth King (2010)": "Kenneth King, 2010",
+    "Kenneth King, 2010": "Kenneth King, 2010",
     "Kenneth Pike (1954)": "Kenneth Pike, 1954",
     "Kenneth Pike, 1954": "Kenneth Pike, 1954",
     "Kennett et al. (2008)": "Kennett et al., 2008",
@@ -13717,6 +13730,8 @@
     "King (1997)": "King, 1997",
     "King (1999)": "King, 1999",
     "King (2003)": "King, 2003",
+    "King (2006)": "King, 2006",
+    "King (2009)": "King, 2009",
     "King (2013)": "King, 2013",
     "King (2015)": "King, 2015",
     "King et al. (1987)": "King et al., 1987",
@@ -13732,6 +13747,8 @@
     "King, 1997": "King, 1997",
     "King, 1999": "King, 1999",
     "King, 2003": "King, 2003",
+    "King, 2006": "King, 2006",
+    "King, 2009": "King, 2009",
     "King, 2013": "King, 2013",
     "King, 2015": "King, 2015",
     "King-Sears et al. (2021)": "King-Sears et al., 2021",
@@ -24881,6 +24898,7 @@
     "Taylor (1999)": "Taylor, 1999",
     "Taylor (2002)": "Taylor, 2002",
     "Taylor (2004)": "Taylor, 2004",
+    "Taylor (2006)": "Taylor, 2006",
     "Taylor (2011)": "Taylor, 2011",
     "Taylor (2012a)": "Taylor, 2012a",
     "Taylor (2012b)": "Taylor, 2012b",
@@ -24909,6 +24927,7 @@
     "Taylor, 1999": "Taylor, 1999",
     "Taylor, 2002": "Taylor, 2002",
     "Taylor, 2004": "Taylor, 2004",
+    "Taylor, 2006": "Taylor, 2006",
     "Taylor, 2011": "Taylor, 2011",
     "Taylor, 2012": "Taylor, 2012a",
     "Taylor, 2012a": "Taylor, 2012b",
@@ -73906,6 +73925,21 @@
       ],
       "title": ""
     },
+    "Davies et al., 2008": {
+      "aliases": [
+        "Davies et al., 2008",
+        "Davies et al. (2008)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Davies et al., 2008"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Nordtveit_2011_IJED.md"
+      ],
+      "title": ""
+    },
     "Davies, 1997": {
       "aliases": [
         "Davies, 1997",
@@ -86778,6 +86812,36 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md",
         "wiki/facts/finland/Finnish Government Education Export Programme.md"
+      ],
+      "title": ""
+    },
+    "FOCAC, 2006": {
+      "aliases": [
+        "FOCAC, 2006",
+        "FOCAC (2006)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "FOCAC, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Nordtveit_2011_IJED.md"
+      ],
+      "title": ""
+    },
+    "FOCAC, 2009": {
+      "aliases": [
+        "FOCAC, 2009",
+        "FOCAC (2009)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "FOCAC, 2009a"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Nordtveit_2011_IJED.md"
       ],
       "title": ""
     },
@@ -109715,6 +109779,21 @@
       "seen_in": [],
       "title": "Family involvement and English learners' outcomes: A synthetic analysis."
     },
+    "He Wenping, 2006": {
+      "aliases": [
+        "He Wenping, 2006",
+        "He Wenping (2006)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "He Wenping, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Nordtveit_2011_IJED.md"
+      ],
+      "title": ""
+    },
     "He et al., 2019": {
       "aliases": [
         "He et al., 2019",
@@ -109755,6 +109834,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/instruction-pedagogy/Revoicing.md"
+      ],
+      "title": ""
+    },
+    "He, 2006": {
+      "aliases": [
+        "He, 2006",
+        "He (2006)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "He, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Nordtveit_2011_IJED.md"
       ],
       "title": ""
     },
@@ -127684,6 +127778,21 @@
       ],
       "title": ""
     },
+    "Kenneth King, 2010": {
+      "aliases": [
+        "Kenneth King, 2010",
+        "Kenneth King (2010)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Kenneth King, 2010"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Nordtveit_2011_IJED.md"
+      ],
+      "title": ""
+    },
     "Kenneth Pike, 1954": {
       "aliases": [
         "Kenneth Pike, 1954",
@@ -129560,6 +129669,36 @@
       "isbn": "",
       "seen_in": [],
       "title": "The effects of formative assessment on student self-regulation, motivational beliefs and achievement in elementary science"
+    },
+    "King, 2006": {
+      "aliases": [
+        "King, 2006",
+        "King (2006)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "King, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Nordtveit_2011_IJED.md"
+      ],
+      "title": ""
+    },
+    "King, 2009": {
+      "aliases": [
+        "King, 2009",
+        "King (2009)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "King, 2009"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Nordtveit_2011_IJED.md"
+      ],
+      "title": ""
     },
     "King, 2013": {
       "aliases": [
@@ -140419,7 +140558,9 @@
         "Li, 2006"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Nordtveit_2011_IJED.md"
+      ],
       "title": "Peer tutoring and strategy instruction  The effects on Chinese pupils' reading skills and attitudes"
     },
     "Li, 2008": {
@@ -210875,6 +211016,21 @@
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Rizvi_Lingard_2009_OECDEducationPolicy.md",
         "wiki/concepts/political-economy-geopolitics/Social Imaginary.md"
+      ],
+      "title": ""
+    },
+    "Taylor, 2006": {
+      "aliases": [
+        "Taylor, 2006",
+        "Taylor (2006)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Taylor, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Nordtveit_2011_IJED.md"
       ],
       "title": ""
     },

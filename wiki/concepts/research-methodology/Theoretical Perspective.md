@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 ---
@@ -143,18 +143,6 @@ updated: 2026-11-14
 >     TP -.->|"规范方法选择"| Met
 > ```
 
-> [!entry-map]- 理论视角关联网络
-> | 条目 | 类型 | 贡献与核心关联说明 |
-> |---|---|---|
-> | [[Epistemology]] | 认识论基础 | 理论视角在科学探究层级架构中居于认识论顶层，规定知识性质。 |
-> | [[Paradigm]] | 宏观范畴 | 理论视角是研究范式在具体探究任务中的显性理论透镜体现。 |
-> | [[Independent Variable]] | 演绎要素 | 理论视角通过因果机制解释自变量为何对因变量产生影响。 |
-> | [[Dependent Variable]] | 演绎要素 | 作为理论逻辑链条末端的解释客体与可测反应变量。 |
-> | [[Hypothesis]] | 假设推导 | 理论视角在课题设计中充当推导经验性可检验假设的演绎依据。 |
-> | [[Research Proposal]] | 文本载体 | 理论视角作为课题申报书与研究方案中阐明理论依据的独立章节。 |
-> | [[Val D. Rust]] | 代表学者 | 论证方法论即理论视角的认识论等同性，并系统计量 26 种理论视角演进。 |
-> | [[John W. Creswell]] | 代表学者 | 提出连接自变量与因变量的彩虹桥梁机制及五步标准化写作脚本。 |
-
 ---
 
 > [!concept-proposition] 命题一｜理论视角处于方法论最高[[Epistemology|认识论]]层级并决定[[Knowledge Production|知识生产]]性质
@@ -199,7 +187,7 @@ updated: 2026-11-14
 
 ---
 
-> [!debates] 学术争议与[[Epistemology|认识论]]交锋
+> [!debates|notitle] 学术争议与[[Epistemology|认识论]]交锋
 >
 > > [!axis] 方法论降维之争：哲学认识论透镜 vs 经验操作技术
 > > 争论研究方法论究竟是统领探究的理论视角，还是仅为样本与量表等技术规程。
@@ -219,10 +207,10 @@ updated: 2026-11-14
 > > - **欧美二元理论视角** 将跨国高教活动截然划分为[[Geopolitics|地缘政治]]权力扩张或多边外交公共产品，在解释多边大学联盟网络时陷入解释盲区。
 > > - **非西方关系性视角** 周与德米尔约尔（[[Argument_Chou_Demiryol_2024_HE|Chou & Demiryol, 2024]]）引入天下秩序观，提供超越西方二元对立的理论视角，阐明等级与平等、排他性旗舰联盟与开放大众化网络的辩证共生机制。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1703–1705)]]
 
-> [!critique] 外部批评
+> [!critique|notitle] 外部批评
 > - **标签化与理论买空卖空（Theoretical Window-Dressing）** 批评指出，许多研究仅在引言或[[Literature Review|文献综述]]中生硬罗列著名理论大师名字作为装饰，而在实际研究设计、[[Variable|变量]][[Operationalization|操作化]]与数据讨论中完全没有贯彻该理论的核心逻辑。
 
-> [!warning] 适用局限
+> [!warning|limits] 适用局限
 > - **单一视角的认知盲区** 单一理论视角只能截取复杂现实的特定侧面，任何宣称自身具备全能解释力的理论视角都会沦为盲目教条；研究者必须保持认识论自省，明确所选视角的观察盲区。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 123)]]
 
 ---
@@ -238,7 +226,22 @@ updated: 2026-11-14
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Epistemology]] | 概念 | 理论视角在科学探究层级架构中居于认识论顶层，规定知识性质。 |
+> | [[Paradigm]] | 概念 | 理论视角是研究范式在具体探究任务中的显性理论透镜体现。 |
+> | [[Independent Variable]] | 概念 | 理论视角通过因果机制解释自变量为何对因变量产生影响。 |
+> | [[Dependent Variable]] | 概念 | 作为理论逻辑链条末端的解释客体与可测反应变量。 |
+> | [[Hypothesis]] | 概念 | 理论视角在课题设计中充当推导经验性可检验假设的演绎依据。 |
+> | [[Research Proposal]] | 概念 | 理论视角作为课题申报书与研究方案中阐明理论依据的独立章节。 |
+> | [[Val D. Rust]] | 人物 | 论证方法论即理论视角的认识论等同性，并系统计量 26 种理论视角演进。 |
+> | [[John W. Creswell]] | 人物 | 提出连接自变量与因变量的彩虹桥梁机制及五步标准化写作脚本。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 详述[[Quantitative Research|量化研究]]计划中理论视角章节的[[Research Writing Script|写作脚本]]、彩虹桥梁比喻及克鲁奇菲尔德经典案例。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 结合罗布森与菲利普斯的研究分层理论，实证计量 26 种理论视角的长程演进，确立理论视角作为上位方法论的[[Epistemology|认识论]]合法性。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 揭示[[Geopolitics|地缘政治]]与[[Developmentalism|发展主义]]二元理论视角在跨国大学联盟中的解释盲区，提出基于[[Tianxia Heuristic|天下观]]的非西方理论视角（pp. 1702–1705）。
