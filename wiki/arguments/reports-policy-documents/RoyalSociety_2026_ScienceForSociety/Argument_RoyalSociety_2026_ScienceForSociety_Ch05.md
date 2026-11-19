@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch05"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch05"
 argument_display_title: "Chapter five: Policy"
 argument_kind: "book-chapter"
-argument_related_count: 40
+argument_related_count: 41
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Scientific Literacy]]"
+  - "[[Alienation]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Post-Normal Science]]"
   - "[[Chain of Evidence]]"
@@ -77,7 +78,7 @@ related_facts:
 related_persons: []
 status: draft
 created: 2026-09-04
-updated: 2026-10-29
+updated: 2026-11-19
 ---
 ---
 
@@ -234,7 +235,7 @@ updated: 2026-10-29
 调查数据进一步揭示了立法机构在[[Scientific Literacy|科学素养]]与信息鉴别机制上的系统性缺失：
 
 > [!challenges] 议员科学信息鉴别的能力短板与新兴技术风险
-> 1. **新任议员对权威科学中介尤为疏离** 2024 年大选后进入议会的新生代议员中，使用权威法定科学信源的比例处于显著少数，仅 22% 提及 POST，仅 12% 查阅国家学术院综合报告。
+> 1. **新任议员对权威科学中介尤为[[Alienation|疏离]]** 2024 年大选后进入议会的新生代议员中，使用权威法定科学信源的比例处于显著少数，仅 22% 提及 POST，仅 12% 查阅国家学术院综合报告。
 > 2. **科学证据可靠性判断规程缺失** 议员在面对海量互联网信息与精美游说简报时，缺乏经过同行评议验证的科学可靠性与稳健性甄别规程，易受带有立场偏见的材料误导。
 > 3. **生成式人工智能渗透带来的隐性风险** 尽管仅 5% 议员自述使用 AI，但主流商业搜索引擎已深度内嵌生成式 AI 摘要，议员及其助手在检索中正承受算法幻觉与偏见隐性渗透的风险。（p. 82）
 
@@ -425,13 +426,12 @@ updated: 2026-10-29
 > 4. **公众高度认同专家建言但对决策参与赤字表达强烈不满** 75% 公众支持专家建言政府、62% 诉求顺应民意，但仅 12% 感觉充分参与科技决策，76% 批评政府未作公众咨询努力；报告提出由法定证据陈述、学术院独立审计与前瞻对话构成的行动闭环。（pp. 85–88）
 
 > [!stat-cards]- 核心数据
-> - **55% vs 22%** 英国国会议员履职中主要依赖智库与倡导团体（55%），而使用[[Parliamentary Office of Science and Technology\|议会科学技术办公室]]（POST）的比例仅为 22%（YouGov, 2025, p. 83）。
+> - **55% / 22%** 英国国会议员履职中主要依赖智库与倡导团体（55%），而使用[[Parliamentary Office of Science and Technology\|议会科学技术办公室]]（POST）的比例仅为 22%（YouGov, 2025, p. 83）。
 > - **12%** 英国国会议员主动查阅国家学术院权威综合科学报告的比例仅为 12%（YouGov, 2025, p. 83）。
 > - **47%** 近半数国会议员在立法工作中将开放互联网检索作为主要科学信息来源（YouGov, 2025, p. 83）。
 > - **75%** 英国公众压倒性认同应由专家而非普通公众就科技发展的长远影响向政府提供专业建言（PAS 2025, p. 85）。
-> - **62% vs 12%** 62% 公众要求政府决策顺应公众对科技的关切，但仅 12% 感觉公众在科技决策中得到了充分参与（PAS 2025, p. 85）。
+> - **62% / 12%** 62% 公众要求政府决策顺应公众对科技的关切，但仅 12% 感觉公众在科技决策中得到了充分参与（PAS 2025, p. 85）。
 > - **76%** 超过四分之三受访公众严厉批评政府在重大科技决策中几乎没有付出努力去咨询民意（PAS 2025, p. 86）。
-> - **30 min** 英国国家紧急状态宣布后，[[Scientific Advisory Group for Emergencies\|紧急情况科学咨询小组]]（[[Sage]]）可完成动态跨学科专家组建的响应时间（p. 81）。
 
 ---
 

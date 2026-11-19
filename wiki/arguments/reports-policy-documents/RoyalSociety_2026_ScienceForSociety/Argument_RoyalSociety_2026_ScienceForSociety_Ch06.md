@@ -10,10 +10,10 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch06"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch06"
 argument_display_title: "Chapter six: Academic scientific community"
 argument_kind: "book-chapter"
-argument_related_count: 49
-argument_related_level: 4
-argument_related_stars: "💎⭐"
-argument_related_color: "#fef3c7"
+argument_related_count: 50
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 issuing_organization: "[[The Royal Society]]"
 year: 2026
 isbn: 978-1-78252-829-6
@@ -78,7 +78,8 @@ related_methods:
   - "[[External Auditor]]"
   - "[[Participatory Research]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Charles Taylor]]"
 related_facts:
   - "[[The Perception Census]]"
   - "[[The Royal Society]]"
@@ -89,7 +90,7 @@ related_facts:
 related_arguments: []
 status: draft
 created: 2026-09-04
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 ---
 
@@ -472,7 +473,7 @@ REF 作为决定英国各大学每年数十亿英镑质量相关（Quality-Relat
 >   - 劳拉·凯利博士（Dr Laura Kelley）：埃克塞特大学多萝西·霍奇金研究员（Dorothy Hodgkin Research Fellow）、生态与行为进化副教授；
 >   - 保罗·曼纳斯（Paul Manners）：英国国家公众参与协调中心（National Co-ordinating Centre for Public Engagement, NCCPE）联合主任（Co-director）；
 >   - 阿丽娜·帕泰利博士（Dr Alina Patelli）：英国青年科学院（UK Young Academy）成员、阿斯顿大学计算机科学资深讲师；
->   - 爱丽丝·泰勒-吉（Alice Taylor-Gee）：伦敦国王学院高级公众参与经理（Senior Public Engagement Manager）。（Annex 1, p. 111）
+>   - 爱丽丝·[[Charles Taylor|泰勒]]-吉（Alice Taylor-Gee）：伦敦国王学院高级公众参与经理（Senior Public Engagement Manager）。（Annex 1, p. 111）
 
 ---
 
@@ -484,12 +485,9 @@ REF 作为决定英国各大学每年数十亿英镑质量相关（Quality-Relat
 
 > [!stat-cards]- 核心数据（pp. 94–100）
 > - **85%** 英国理工科（STEM）科研人员报告开展过至少一项公众参与活动（2006 年为 74%）。
-> - **27%** 每年参与 10 次以上公众参与的高活跃度学者骨干比例（2006 年为 11%）。
 > - **83%** 明确认同“公众参与是科研人员不可推卸的道德义务”的受访者比例（2006 年为 73%）。
-> - **64%** 认同“公众参与能够显著提升科学研究整体质量”的受访者比例（2015 年为 36%）。
 > - **9%** 认为公众参与“最适合由资深研究人员承担”的学者比例（2006 年为 44%）。
 > - **75%** 将严峻的“时间压力”列为开展公众参与的首要障碍（2015 年为 61%）。
-> - **45%** 将“专项活动经费短缺”列为关键障碍（2015 年为 26%）。
 > - **25%** 认为公众参与对在依托高校内部的职称晋升有实质性帮助的比例。
 > - **50%** 英国 REF 2014 与 REF 2021 评估中将公众参与作为促成社会效益关键路径的影响力案例比例。
 

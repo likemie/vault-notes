@@ -11,7 +11,7 @@ subtype: organization
 region: cambodia
 fact_region: "cambodia"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -27,17 +27,18 @@ tags:
   - nationalism
   - region/asia
 related_concepts:
+  - "[[Nationalism]]"
+  - "[[Emergence]]"
   - "[[Educational Pilgrimage]]"
   - "[[Administrative Pilgrimage]]"
   - "[[Bilingual Intelligentsia]]"
-  - "[[Emergence]]"
-  - "[[Nationalism]]"
 related_theories:
   - "[[Imagined Community]]"
 related_methods:
   - "[[Historical-Comparative Method]]"
 related_instruments: []
 related_persons:
+  - "[[Albert Sarraut]]"
   - "[[Benedict Anderson]]"
 related_facts:
   - "[[Royal University of Phnom Penh]]"
@@ -52,7 +53,7 @@ updated: 2026-11-19
 ---
 
 > [!claim] 核心定位
-> **西索瓦中学（Lycée Sisowath）** 是柬埔寨金边历史最悠久的现代公立精英完全中学。该校在1935年升格为享有与河内萨罗中学（Lycée Albert Sarraut）及西贡沙瑟卢-罗巴中学（Lycée Chasseloup-Laubat）同等地位的国家公立中学，终结了高棉学子必须远赴越南完成中等教育的格局，成为20世纪中叶柬埔寨现代民族主义运动骨干与政治领袖的核心孵化枢纽。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 131–134)]]
+> **西索瓦中学（Lycée Sisowath）** 是柬埔寨金边历史最悠久的现代公立精英完全中学。该校在1935年升格为享有与河内[[Albert Sarraut|萨罗]]中学（Lycée Albert Sarraut）及西贡沙瑟卢-罗巴中学（Lycée Chasseloup-Laubat）同等地位的国家公立中学，终结了高棉学子必须远赴越南完成中等教育的格局，成为20世纪中叶柬埔寨现代[[Nationalism|民族主义]]运动骨干与政治领袖的核心孵化枢纽。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 131–134)]]
 
 > [!org-context] 机构背景
 > - **成立时间与创设背景** 1905年由法国保护国当局在金边建立，前身为法柬公学（Collège Sisowath），以柬埔寨国王西索瓦（King Sisowath）命名，初衷是为法属印度支那保护国政府培养初级法印双语职员与通译人才。
@@ -75,7 +76,7 @@ updated: 2026-11-19
 >   1935年正式升格为完全公立中学（Lycée），享有与西贡和河内顶尖中学平等的法定地位与课程大纲。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 131)]]
 >
 >   - **1935** 法国总督府颁布法令将学校升格为西索瓦中学，高棉学子在金边本土即可完成全部高中课程并参加统考。
->   - **1940年代** 校园涌现反抗法国殖民统治与反对越南文官垄断的政治讨论，催生民主党创始人西索瓦·尤特旺（Sisowath Youtevong）与内阁成员群体。
+>   - **1940年代** 校园[[Emergence|涌现]]反抗法国殖民统治与反对越南文官垄断的政治讨论，催生民主党创始人西索瓦·尤特旺（Sisowath Youtevong）与内阁成员群体。
 >
 > - **1953–至今** **国家独立后的学术旗舰与战后重建**
 >
@@ -100,11 +101,11 @@ updated: 2026-11-19
 ---
 
 > [!finding-cards] 核心制度特征与历史影响
-> - **教育朝圣路线的本土化终结** 1935年该校的升格使高棉青年的教育上升通道无需再通往河内或西贡；他们在金边就地完成了精英教育，促使其政治想象从泛印度支那空间急剧收缩并定型于金边王都边界。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 131–134)]]
+> - **[[Educational Pilgrimage|教育朝圣]]路线的本土化终结** 1935年该校的升格使高棉青年的教育上升通道无需再通往河内或西贡；他们在金边就地完成了精英教育，促使其政治想象从泛印度支那空间急剧收缩并定型于金边王都边界。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 131–134)]]
 > - **柬埔寨政党政治发源地** 1946年成立的柬埔寨民主党（Democratic Party）核心领袖群体（西索瓦·尤特旺亲王、国防部长孙文赛、战后总理胡扬图尔等）多为该校校友或执教人员。
 > - **族群竞争加剧与反殖民转向** 由于法国在柬埔寨大量起用越南籍文官（1937年驻柬越南人达17.6万，占柬人口6%），该校培养的高棉青年在毕业后遭遇严重的升迁天花板，这种教育精英与行政权力的不匹配迅速转化为激进的民族主义抗争动力。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 131–132)]]
 
-> [!citation-card] 本尼迪克特·安德森论西索瓦中学的空间意义
+> [!citation-card] [[Benedict Anderson|本尼迪克特·安德森]]论西索瓦中学的空间意义
 > 1935年金边的西索瓦学院被升格为完全公立中学，其地位与课程大纲完全等同于西贡与河内现有的国家公立中学。尽管其学生最初大多来自当地华裔高棉商人家庭和定居的越南公务员家庭，但本土高棉人的比例稳步上升。在1940年之后，绝大多数获得扎实法国高中教育的高棉语青年，都是在殖民者为诺罗敦王室建立的整洁殖民首府里完成学业的。高棉与老挝学子或许在西贡与河内的法语中学和大学里与越南人比肩而坐，但毕业后却极少能在当地分享行政职位。他们如同达喀尔学校里的科托努与阿比让青年一样，在毕业后注定被遣返回殖民主义为他们划定的故乡。如果说他们的求学朝圣朝向河内，他们的仕途旅程却在金边和万象终结。从这些矛盾中，走出了后来被尊为首批柬埔寨民族主义者的高棉语青年。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 131–132)]]
 >
 > *Second, in 1935 the Collège Sisowath in Phnom Penh was upgraded into a full-fledged state lycée, with a status equal to, and a curriculum identical with, those of the existing state lycées in Saigon and Hanoi. Although its students were at first drawn heavily (in the tradition of the Collège) from local Sino-Khmer merchant families and those of resident Vietnamese functionaries, the proportion of native Khmers steadily increased. It is probably fair to say that, after 1940, the great bulk of Khmer-speaking adolescents who achieved a solid French high-school education did so in the neat colonial capital the colonialists had built for the Norodoms. . . . Out of these contradictions emerged those Khmer-speaking students who subsequently came to be remembered as the first Cambodian nationalists.*
@@ -115,11 +116,6 @@ updated: 2026-11-19
 > - **办学层级突破** 打破了河内大学与西贡中学对法属印度支那完全中学文凭的垄断。
 > - **国家政治班底供给** 构成了20世纪40至60年代柬埔寨内阁、议会及政党骨干的基石。
 > - **现代高棉语读写普及** 推动了脱离传统佛寺巴利语教育的现代高棉读写系统在青年层面的制度确立。
-
-> [!stat-cards]- 核心规模数据
-> - **1905** 西索瓦公学正式创立年份。
-> - **1935** 升格为与河内、西贡平级的完全公立中学年份。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 131)]]
-> - **176,000** 1937年驻留柬埔寨的越南人口总数（占当时柬埔寨总人口近6%），构成了该校毕业生面临的主要官僚竞争群体。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 131)]]
 
 ---
 

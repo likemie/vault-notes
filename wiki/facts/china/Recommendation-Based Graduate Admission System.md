@@ -12,7 +12,7 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 23
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -32,6 +32,8 @@ related_concepts:
   - "[[Intuition-Dependent Mode]]"
   - "[[Continuous Doctoral Training]]"
   - "[[Social Engagement]]"
+  - "[[Cultural Disorientation]]"
+  - "[[Champ]]"
   - "[[Professional Interest]]"
   - "[[Alienation]]"
   - "[[Grit]]"
@@ -48,13 +50,12 @@ related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch01]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch04]]"
-  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
-  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch05]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch06]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
 confidence: high
 status: active
 created: '2026-05-08'
-updated: 2026-11-17
+updated: 2026-11-19
 ---
 
 ---
@@ -115,11 +116,11 @@ updated: 2026-11-17
 > - **生活组织模式与阶层[[Cultural Capital|文化资本]]的筛选** 推免机制天然青睐从入学伊始便洞察评价体系并实施绩点管理的“[[Goal-Controlled Mode|目标掌控]]者”；习惯于高中苦学惯性而忽视绩点规划的“[[Intuition-Dependent Mode|直觉依赖]]者”往往面临信息滞后与机会丧失。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(郑雅君, 2023, pp. 87–88)]]
 > - **出路决策中的分化机制** 在第三章质性个案中，直觉依赖者容易因早期规则认知滞后错失推免机会（如冰倩大三才知晓绩点与保研绑定），或在缺乏求职规划时将推免[[Continuous Doctoral Training|直博]]视作回避就业市场的仓促避难所（如禹海）；目标掌控者则将保研作为可计算的理性选项，甚至主动放弃保研资格投身商业求职（如泽斌凭借实习直接斩获高薪岗位）。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 66–69)]]
 > - **门槛达标与被动避险的二元分化** 目标掌控者将推免 GPA 视作可计算的底线门槛（如研支团 2.8 绩点标准），达标后迅速抽调精力布局[[Social Engagement|社会性投入]]；直觉依赖者则容易因大一盲目松懈直接痛失保研资格，或在缺乏自主职业目标时将推免直博作为延缓就业压力的被动避风港（[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|郑雅君, 2023, 第四章]]）。
-> - **文化迷失下的防御性升学避难所** 郑雅君在第六章进一步揭示，面对场域转换引发的深层文化迷失，弱势学子普遍采取自保性勤奋，将精力局限于熟悉的课业绩点以维系优等生尊严，推免直研因而常被作为未作审慎志趣规划、延缓直面劳动力市场决断时刻的防御性避险机制。[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|(郑雅君, 2023, 第六章, pp. 364–365)]]
+> - **[[Cultural Disorientation|文化迷失]]下的防御性升学避难所** [[Yajun Zheng|郑雅君]]在第六章进一步揭示，面对[[Champ|场域]]转换引发的深层文化迷失，弱势学子普遍采取自保性勤奋，将精力局限于熟悉的课业绩点以维系优等生尊严，推免直研因而常被作为未作审慎[[Professional Interest|志趣]]规划、延缓直面劳动力市场决断时刻的防御性避险机制。[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|(郑雅君, 2023, 第六章, pp. 364–365)]]
 
 > [!stat-cards]- 核心数据
-> - **≥ 40%** 原 [[Project 985|985 工程]]重点大学本科生推免直研比例普遍达到 40% 以上，部分优势基础学科拔尖班推免率超过 70%。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(范皑皑和杨钋, 2015；郑雅君, 2023, p. 86)]]
-> - **6 Semesters** 选拔核心依据集中于大一至大三前 6 个学期的所有必修与专业限选课程平均学分绩点（GPA）。
+> - **≥ 40%** 原 [[Project 985|985 工程]]重点大学本科生推免直研比例普遍达到 40% 以上。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(范皑皑和杨钋, 2015；郑雅君, 2023, p. 86)]]
+> - **> 70%** 部分优势基础学科拔尖班推免率超过 70%。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(范皑皑和杨钋, 2015；郑雅君, 2023, p. 86)]]
 
 ---
 

@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-28
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -106,10 +106,6 @@ updated: 2026-11-11
 > [!finding-cards] 核心成效与辐射影响
 > - **组织职能战略延伸** 推动 EQAR 由以往仅面向中介机构的注册名录，延伸至直连全欧大学微观认证状态的数据中心。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 224, 226)]]
 > - **制度性互认支撑** 显著降低了跨境学位认知的交易成本，为欧洲教育区提出的资格“自动互认”目标提供了切实的操作工具。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 224–225, 230)]]
-
-> [!stat-cards]- 关键实证数据
-> - **2018** DEQAR 数据库正式发布上线年份。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, p. 223)]]
-> - **10000+** 数据库内集中归档的全欧外部质保报告与有效认证决议估算规模。
 
 ---
 

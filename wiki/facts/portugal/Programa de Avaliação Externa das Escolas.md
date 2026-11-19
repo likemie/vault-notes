@@ -105,10 +105,6 @@ updated: 2026-11-19
 > - **问责机制的软化与去高利害化** 激烈的社会对抗使得葡萄牙政府始终无法像英美国家那样将评估结果同教师薪酬、学校关停直接绑定，迫使国家评估演化为偏向组织诊断的温和框架。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 255, 260)]]
 > - **教师专业士气与行政负荷失衡** 尽管刚性惩戒被遏制，外部视导催生的大量案头自评材料与档案填报依然加剧了教师群体的行政负担感与职业倦怠。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
 
-> [!stat-cards]- 关键实证数据
-> - **2006** 葡萄牙教育部正式启动全国学校外部评估计划（PEE）的年份。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
-> - **4** 个法定核心考查维度构成了全葡统一的视导规程。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
-
 ---
 
 > [!debates] 项目争议

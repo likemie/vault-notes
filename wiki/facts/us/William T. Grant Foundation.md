@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 ---
@@ -124,14 +124,6 @@ updated: 2026-11-14
 > [!finding-cards] 关键成效与辐射影响
 > - **破除唯学术发表的象牙塔激励错配** 迫使美国高校社会科学界反思将论文篇数与[[Journal Impact Factor|影响因子]]作为唯一评价指标的弊端，为从事跨界实践研究的学者拓宽了职业生涯通道。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 222)]]
 > - **终结采矿式科研伦理危害** 唤醒了全[[Philosophical Aesthetics|美学]]术界对边缘社区“数据采矿”剥削现象的深刻警惕，使权力共享与社区自决成为受资助项目的法定前置伦理标准。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–221)]]
-
-> [!stat-cards]- 核心规模数据
-> - **≈ 90** 基金会深耕青少年发展与社会科学研究资助的历史（年）。
-> - **5** 基金会资助制定的全美《RPP 有效性评估指南》核心准则维度（大）。
->
-> > [!feature] 数千万
-> > 设立机构挑战资助与 URE 专项持续撬动的高等教育与学区协作资金（美元）。
->
 
 ---
 

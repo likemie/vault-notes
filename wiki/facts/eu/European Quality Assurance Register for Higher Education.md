@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-28
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -114,10 +114,6 @@ updated: 2026-11-11
 > [!finding-cards] 关键成效与辐射影响
 > - **塑造欧洲质保主体** 成功推动了“在欧洲运作的质保机构”向“欧洲维度的质保机构”的制度转变。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, p. 223)]]
 > - **打通机构直连渠道** 借助 DEQAR 数据库打破了以往仅对接中介机构的局限，建立起与全欧高校微观层面的直接联结。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, p. 226)]]
-
-> [!stat-cards]- 核心规模数据
-> - **2008** 博洛尼亚进程框架下设立首个法定实体的创设年份。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, p. 223)]]
-> - **49** 认可其注册权威的欧洲高等教育区成员国范围。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, p. 223)]]
 
 ---
 

@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-30
+updated: 2026-11-19
 ---
 
 ---
@@ -112,7 +112,9 @@ updated: 2026-10-30
 > - **[[Systems Approach for Better Education Results\|SABER]] 联动** [[Systems Approach for Better Education Results\|SABER]] 评估框架直接采用 WDI 指标作为基准对比参照，将 WDI 数字进一步转化为可[[Operationalization\|操作化]]的政策处方依据。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–542)]]
 
 > [!stat-cards]- 核心规模数据
-> 覆盖 217 个经济体；1,400 余项发展指标（其中[[Performance Indicators\|教育指标]]超 100 项）；历史数据追溯至 1960 年代；每年更新频次一次以上；在全球学术数据库引用量常年位居首位。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
+> - **217** 个覆盖经济体。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
+> - **1,400+** 项发展指标（历史数据追溯至 1960 年代，每年更新一次以上）。
+> - **100+** 项核心[[Performance Indicators|教育指标]]（在全球学术数据库引用量常年位居首位）。
 
 ---
 

@@ -26,7 +26,6 @@ tags:
 related_concepts:
   - "[[Education Going Global]]"
   - "[[Engineering Education]]"
-  - "[[Refined Mastery]]"
   - "[[People-to-People Connectivity]]"
   - "[[Industry Affiliate Program]]"
   - "[[Technology Transfer]]"
@@ -36,6 +35,7 @@ related_concepts:
   - "[[Hard Power]]"
   - "[[Document]]"
 related_theories:
+  - "[[Cumulative Inequality Theory]]"
   - "[[Dependency Theory]]"
 related_methods:
   - "[[Matching]]"
@@ -53,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -73,7 +73,7 @@ updated: 2026-11-11
 > 通过校企联合出海与软硬件一体化输出模式，以中国高水平实训设备、双语技术教材与工程教学标准为依托，直接支持东道国[[Engineering Education|工程教育]]发展，并有效降低中资重大工程的跨国运维成本。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 685)]]
 
 > [!policy-design] 方案设计
-> - **项目目标** 建设高标准现代化技术实训中心，培养[[Refined Mastery|精通]]中国技术标准的本土工程师，服务国际产能合作与[[People-to-People Connectivity|民心相通]]。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 683–685)]]
+> - **项目目标** 建设高标准现代化技术实训中心，培养精通中国技术标准的本土工程师，服务国际产能合作与[[People-to-People Connectivity|民心相通]]。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 683–685)]]
 > - **覆盖对象** 合作国职业院校在读学生、中资境外项目属地员工及社会工程技术从业人员。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 685)]]
 > - **干预措施** 捐赠先进实训设备、共建专业教学标准、联合开发工程技术课程、外派骨干师资开展技术实训。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680, 685)]]
 > - **实施控制** 依托《高等职业教育创新发展行动计划（2015—2018年）》进行专业资质备案与重点项目质量监测。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 685)]]
@@ -88,7 +88,7 @@ updated: 2026-11-11
 > [!dev-timeline] 项目推进历程
 > - **2015–2016 — 制度萌芽与首站落地** 教育部发布《高等职业教育创新发展行动计划（2015—2018年）》；2016年天津渤海职业技术学院在泰国建立首家鲁班工坊。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680, 685)]]
 > - **2017–2020 — 跨洲网络扩展与央企联合布局** 在非洲、欧洲（塞尔维亚、英国）及亚洲设立工坊；2018年[[Forum on China-Africa Cooperation|中非合作论坛]]北京峰会正式承诺在非洲设立10所鲁班工坊，2019年3月非洲首所工坊在吉布提设立并紧密服务亚吉铁路运营人才本地化，随后在埃及开罗艾因夏姆斯大学推进第二所工坊建设。[[Argument_King_2020_ECNUROE|(King, 2020, p. 227)]]; [[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680, 685)]]
-> - **2018–2021 — 亚洲腹地深耕与[[Industry Affiliate Program|产业联盟]]共建** 2018年在印度金奈设立鲁班工坊（CIT），由中资制造企业联盟（汇聚31家骨干企业）与18所职业院校联合投资实训基地；在巴基斯坦拉合尔与职业教育和职业培训局（TEVTA）共建工坊，针对重大工程定向培养本土机电技术人员。2021年中方进一步承诺向中亚五国各援建一所工坊、向上海合作组织国家提供10所工坊配额。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 26–27)]]
+> - **2018–2021 — 亚洲腹地深耕与[[Industry Affiliate Program|产业联盟]]共建** 2018年在印度金奈设立鲁班工坊（[[Cumulative Inequality Theory|CIT]]），由中资制造企业联盟（汇聚31家骨干企业）与18所职业院校联合投资实训基地；在巴基斯坦拉合尔与职业教育和职业培训局（TEVTA）共建工坊，针对重大工程定向培养本土机电技术人员。2021年中方进一步承诺向中亚五国各援建一所工坊、向上海合作组织国家提供10所工坊配额。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 26–27)]]
 > - **2021–至今 — 品牌制度化与国家级推广** 被纳入国家对外援助与人文交流旗舰工程，形成覆盖亚非欧三大洲的立体化技术实训网络。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 685, 695)]]
 
 ---
@@ -117,10 +117,7 @@ updated: 2026-11-11
 > - **边界条件** 工坊的可持续运行高度依赖国内财政补贴与中资企业持续订单需求。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–693)]]
 
 > [!stat-cards]- 关键实证数据
->
-> > [!feature] 18 所
-> > 截至2021年5月中国在中亚、南亚、非洲与欧洲累计设立的海外鲁班工坊总数。[[Argument_Custer_2021_AidData|(Custer et al., 2021, p. 26)]]
->
+> - **18** （所） 截至2021年5月中国在中亚、南亚、非洲与欧洲累计设立的海外鲁班工坊总数。[[Argument_Custer_2021_AidData|(Custer et al., 2021, p. 26)]]
 > - **31** （家） 印度金奈鲁班工坊联合的中资制造企业联盟规模，协同18所职校提供工业机器人与数控机床实训。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 26–27)]]
 > - **10** （所） 2018年[[Forum on China-Africa Cooperation|中非合作论坛]]北京峰会明确承诺在非洲设立的鲁班工坊配额。[[Argument_King_2020_ECNUROE|(King, 2020, p. 227)]]
 

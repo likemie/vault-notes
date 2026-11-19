@@ -13,7 +13,7 @@ subtype: policy
 region: vietnam
 fact_region: "vietnam"
 fact_kind: "policy"
-fact_related_count: 17
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -43,7 +43,6 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Albert Sarraut]]"
-  - "[[Alexandre de Rhodes]]"
   - "[[Benedict Anderson]]"
 related_facts:
   - "[[Civil Service Examination]]"
@@ -112,11 +111,6 @@ updated: 2026-11-19
 > - **斩断传统汉学[[Document|文献]]代际传递** 随着汉字教育的边缘化，古代王朝历史档案与儒家士绅文集在年轻一代面前迅速变为无法阅读的死文字，达成了殖民当局切断中华文化圈传统的预期设想。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 127)]]
 > - **现代大众[[Nationalism|民族主义]]的意外引爆** 拼音文字极低的掌握门槛打破了汉字原本对平民大众筑起的漫长学习壁垒。青年一代[[Bilingual Intelligentsia|双语知识分子]]将这一原本由欧洲人发明的文字工具，挪用为宣扬民族团结、组织平民抗争与建构越南主权共同体的大众媒介。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 128)]]
 > - **印度支那内部族群撕裂加深** 该体系优先服务于越南语人口，西部的高棉人与老挝人被长期排除在优质教育资源之外，加剧了西部族群对越南文官特权的敌意，瓦解了统一殖民地认同。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 128–131)]]
-
-> [!stat-cards]- 核心历史数据
-> - **1917** 阿尔贝·萨罗颁布《公共教育法典》确立法越学校制的年份。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 128, n. 24)]]
-> - **10%** 1930年代末得益于国语字普及达到的越南本土人口识字率。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 128)]]
-> - **1651** 耶稣会传教士[[Alexandre de Rhodes|亚历山大·德·罗德]]出版《越葡拉词典》确立国语字拉丁化方案的奠基年代。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 127, n. 22)]]
 
 ---
 

@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-06
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -134,12 +134,6 @@ updated: 2026-11-11
 > - **推动治理范式彻底去中心化** 1991 年改革彻底废除了视导与教科书审查，为基层教师赋予了极高的专业自由度。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 12–13)]]
 > - **理念倡导与代际更替效应** 委员会倡导的[[Constructivist Instruction|建构主义教学]]在大纲中确立后，伴随青年教师入职在 2000 年代中后期实质进入微观课堂。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 58–60)]]
 > - **成绩滑坡带来的治理反思** 2006 年后 PISA 成绩大幅滑坡引发了芬兰学界对委员会放弃统一质量把控与过度推崇[[Inquiry-Based Learning|探究式学习]]的批评。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 58–61)]]
-
-> [!stat-cards]- 核心规模数据
-> - **1991** 现代芬兰国家教育委员会通过两机构合并正式设立年。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 12)]]
-> - **1869** 机构前身国家学校委员会（Kouluhallitus）建立历史年份。
-> - **0** 1991 年废除国家视导后委员会设有的专职督学编制人数。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 12–13)]]
-> - **300+** 委员会课程框架直接指导与服务的芬兰自治市镇数量。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 8)]]
 
 ---
 

@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 36
+fact_related_count: 37
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Academic Freedom]]"
   - "[[Socioscientific Issues]]"
+  - "[[Alienation]]"
   - "[[Research Topic]]"
   - "[[Bureaucracy]]"
   - "[[Indirect Costs of Research]]"
@@ -69,7 +70,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 ---
@@ -97,7 +98,7 @@ updated: 2026-11-14
 >
 > - **1961–1968** **肯尼迪与约翰逊时期职能扩张与学科脱节隐忧**
 >
->   约翰·肯尼迪（John F. Kennedy）总统任命 MIT 教授杰罗姆·威斯纳（Jerome Wiesner）为科学顾问兼 PSAC 主席；1962 年在白宫创设科学技术办公室（OST），为委员会配置常设专业技术参谋班子。林登·约翰逊（Lyndon B. Johnson）执政期间推行“伟大社会”内政改革，但以物理、天文与工程专家为主体的委员会难以就贫困、种族与城市等[[Socioscientific Issues|社会科学议题]]提供有效支撑，科学顾问与总统政治诉求逐渐疏离。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 38–39)]]
+>   约翰·肯尼迪（John F. Kennedy）总统任命 MIT 教授杰罗姆·威斯纳（Jerome Wiesner）为科学顾问兼 PSAC 主席；1962 年在白宫创设科学技术办公室（OST），为委员会配置常设专业技术参谋班子。林登·约翰逊（Lyndon B. Johnson）执政期间推行“伟大社会”内政改革，但以物理、天文与工程专家为主体的委员会难以就贫困、种族与城市等[[Socioscientific Issues|社会科学议题]]提供有效支撑，科学顾问与总统政治诉求逐渐[[Alienation|疏离]]。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 38–39)]]
 >
 >   - **1962** 白宫科学技术办公室（OST）成立，作为 PSAC 常设参谋机构。
 >   - **1965** 面对国会对大学科研实用性的质疑，与国家科学院[[Committee on Science and Public Policy|科学与公共政策委员会]]（COSPUP）形成双轨互动。
@@ -146,12 +147,6 @@ updated: 2026-11-14
 > - **学术引领与契约确立** 促成了冷战科技政策黄金十年的繁荣，使基础研究被正式赋予应对未来不确定性的战略储备定位，确立了科学家作为国家理性代表的崇高威信。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 > - **科研资助结构的民事基础转向** 推动联邦科研投入打破五角大楼与原子能委员会以武器合同对学术科研的垄断（曾占 76%），开创了以国家科学基金会为主导的自由探索时代。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 37–38)]]
 > - **白宫科技参谋建制的历史母本** PSAC 虽遭政治解散，但其体制实践促成了 1976 年国会立法常设白宫科学技术政策办公室（OSTP），将科学顾问制度永久固定在国家治理顶层。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 39)]]
-
-> [!stat-cards]- 核心规模数据
-> - **17** 1957 年 PSAC 首届委员会委员人数，其中 14 人来自顶尖研究型大学（占比 82%）。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]
-> - **1957–1967** 委员会主导下的美国科技政策“黄金十年”，联邦研发经费年均保持两位数高速增长。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
-> - **30–40** 1960 年西博格报告建议联邦重点扶持的顶尖世界级卓越研究型大学中心数量。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 15)]]
-> - **1976** 国会通过立法重设白宫科学技术政策办公室（OSTP）的年份。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 39)]]
 
 ---
 

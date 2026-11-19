@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 127
+fact_related_count: 126
 fact_related_level: 12
 fact_related_stars: "💎💎💎💎"
 fact_related_color: "#fecdd3"
@@ -90,7 +90,6 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
-  - "[[Sample Size Determination]]"
   - "[[In-depth Interview]]"
   - "[[Efficacy Trial]]"
   - "[[Systematic Review]]"
@@ -322,18 +321,12 @@ updated: 2026-11-19
 > - **严密的独立评估防火墙** 实行干预开发者与评估者彻底剥离的制度设计，显著遏制了商业课程机构自卖自夸所带来的[[Publication Bias\|发表偏倚]]与[[Effect Size\|效应量]]虚高。
 
 > [!stat-cards]- 核心规模数据
-> - **£125M** 初始财政种子捐赠基金，开创准独立公共中介资助范式
-> - **#14** 全球 103 国教育决策者战略审查中认知度最高的证据主体排名（前 15 强中唯一的国家级中介）。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, p. 24)]]
-> - **400+** （项） 截至最新官方评估报告累计资助执行的教育研究、现场试验与创新试点项目总数（[EEF Impact Report](https://educationendowmentfoundation.org.uk/impact-report)）
-> - **80% (4/5)** 全英格兰公立中小学校实际参与过 EEF 资助项目的累计比例
-> - **85%** 英格兰中小学校长依据 EEF 指导报告制定针对弱势学生教育策略的比例
-> - **1.58M** （名） 早期卷入 EEF 资助研究项目的学生累计规模
-> - **200+** （项） 资助执行的大规模教育[[Randomised Controlled Trials\|随机对照试验]]（占全球近十年教育 RCT 的近两成）
-> - **2×** 2014 年后试验[[Effective Sample Size\|有效样本量]]提升幅度，大幅提高检验统计功效（Sanders, 2019）
-> - **10,000+** （项） 全球教育活数据库（EEF Education Database）深度编码的全球实证研究规模
-> - **70% vs 25%** EEF 试验中[[Sample Size Determination\|样本量]]超过 1,000 人的比例，远超全球同类平均水平（25%）
-> - **105** （项） 关联[[National Pupil Database\|国家学生数据库]]（NPD）的完整试验微观数据归档
-> - **70%** 英格兰中学领导者常规参考决策比例[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 111)]]
+> - **£125M** 初始财政种子捐赠基金，开创准独立公共中介资助范式。
+> - **400+** 截至最新官方评估报告累计资助执行的教育研究、现场试验与创新试点项目总数（项）。（[EEF Impact Report](https://educationendowmentfoundation.org.uk/impact-report)）
+> - **200+** 资助执行的大规模教育[[Randomised Controlled Trials\|随机对照试验]]数量（项），占全球近十年教育 RCT 的近两成。
+> - **1.58M** 早期卷入 EEF 资助研究项目的学生累计规模（名）。
+> - **80%** 全英格兰公立中小学校实际参与过 EEF 资助项目的累计比例。
+> - **85%** 英格兰中小学校长依据 EEF 指导报告制定针对弱势学生教育策略的比例。
 
 ---
 

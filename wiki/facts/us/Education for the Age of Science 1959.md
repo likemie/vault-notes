@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 14
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Competitiveness]]"
   - "[[Early-Career Researchers]]"
-  - "[[Document]]"
   - "[[Academic Freedom]]"
 related_theories: []
 related_methods: []
@@ -46,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-04
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -113,10 +112,6 @@ updated: 2026-11-11
 > - **重塑联邦资助哲学** 终结了单纯将高校视为外部武器承包商的狭隘规训，确立了联邦政府对大学学术探索与研究生培育负有系统性兜底扶持责任。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 38–39)]]
 > - **促成两份纲领衔接** 本报告在 1958 年《加强美国科学》的制度批判与 1960 年《西博格报告》的操作方案之间搭起桥梁，使“科研与教学一体同构”成为不可动摇的公共政策共识。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
 > - **边界条件** 政策红利高度集中于具有高水平实验室基础设施的顶尖研究型大学，普通高校与非涉军学科在获取联邦一体化资助上面临分化。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 37–39)]]
-
-> [!stat-cards]- 核心数据
-> - **1959** 报告正式呈报艾森豪威尔总统并向全国公开发布的年份。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
-> - **3** PSAC 在艾森豪威尔第二任期内发布的科技政策核心[[Document|文献]]链条数量（1958 年《加强美国科学》、1959 年《科学时代的教育》、1960 年《西博格报告》）。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
 
 ---
 

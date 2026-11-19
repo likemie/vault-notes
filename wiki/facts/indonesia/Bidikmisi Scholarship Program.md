@@ -12,9 +12,9 @@ subtype: program
 region: indonesia
 fact_region: "indonesia"
 fact_kind: "program"
-fact_related_count: 6
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 12
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "2010–至今"
 initiator_organization: "印度尼西亚教育与文化部"
@@ -26,8 +26,12 @@ tags:
   - theme/educational-equity
   - theme/affirmative-action
 related_concepts:
-  - "[[Affirmative Action in Higher Education]]"
+  - "[[Academic Achievement]]"
   - "[[Higher Education Access]]"
+  - "[[Academic Attrition]]"
+  - "[[Heterogeneity]]"
+  - "[[Counseling Effects]]"
+  - "[[Affirmative Action in Higher Education]]"
 related_theories:
   - "[[Maximally Maintained Inequality]]"
   - "[[Human Capital Theory]]"
@@ -35,6 +39,8 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Higher Education Act of 1965]]"
+  - "[[Gaokao]]"
   - "[[Indonesian Law No. 12 of 2012]]"
 related_arguments:
   - "[[Argument_Phyo_2025_SocSci]]"
@@ -47,7 +53,7 @@ updated: 2026-11-19
 ---
 
 > [!claim] 项目定位
-> Bidikmisi 奖学金计划（Program Bantuan Biaya Pendidikan Mahasiswa Miskin Berprestasi, Bidikmisi）是印度尼西亚政府于 2010 年由国家教育部启动、并经 2012 年第 12 号《高等教育法》法定确认的国家级公平资助项目，旨在消除经济壁垒，向具有良好学业潜力的贫困家庭青年提供全额学费资助与生活补贴。（[[Argument_Phyo_2025_SocSci|Phyo & Ilie, 2025, pp. 5–6]]）
+> Bidikmisi 奖学金计划（Program Bantuan Biaya Pendidikan Mahasiswa Miskin Berprestasi, Bidikmisi）是印度尼西亚政府于 2010 年由国家教育部启动、并经 2012 年第 12 号《[[Higher Education Act of 1965|高等教育法]]》法定确认的国家级公平资助项目，旨在消除经济壁垒，向具有良好学业潜力的贫困家庭青年提供全额学费资助与生活补贴。（[[Argument_Phyo_2025_SocSci|Phyo & Ilie, 2025, pp. 5–6]]）
 
 > [!program-context] 项目背景（[[Argument_Phyo_2025_SocSci|Phyo & Ilie, 2025, pp. 5–6]]）
 > - **立项时间 / 周期** 2010 年由印度尼西亚国家教育部设立并试行，2012 年纳入国家法律常态化实施，2020 年进一步整合升级为印尼智慧卡大学版（Kartu Indonesia Pintar Kuliah, KIP Kuliah）。
@@ -64,10 +70,10 @@ updated: 2026-11-19
 > - **项目目标** 扩充经济弱势家庭子女的公立大学入学机会，打破贫困代际传递，提升高等教育系统的社会包容性与区域均衡度。（[[Argument_Phyo_2025_SocSci|Phyo & Ilie, 2025, pp. 5–6]]）
 > - **覆盖对象** 具备学术潜力、通过全国大学入学选拔或保送考核、且经地方与学校核准属于低收入阶层的应届毕业生。
 > - **干预措施** 实行四年制本科（或三年制专科）学费全免政策，每学期直接划拨高校经常性运营补贴；同时按月向受助学生个人银行账户直发生活津贴。
-> - **实施控制** 与全国公立大学统一选拔系统（SNMPTN / SBMPTN）挂钩，设定大学学期最低平均学分绩点（Grade Point Average, GPA）考核阈值，未达标者经辅导仍不合格将终止资助资格。
+> - **实施控制** 与全国公立大学统一选拔系统（SNMPTN / SBMPTN）挂钩，设定大学学期最低平均学分绩点（Grade Point Average, [[Academic Achievement|GPA]]）考核阈值，未达标者经辅导仍不合格将终止资助资格。
 
 > [!citation-card] 资助宗旨与实施原则
-> 印度尼西亚 2010 年推出的 Bidikmisi 奖学金项目，向具备良好学业成绩且家庭背景处于经济劣势的学生提供学费资助和生活津贴，旨在扩大其高等教育入学机会。（[[Argument_Phyo_2025_SocSci|Phyo & Ilie, 2025, pp. 2, 5–6]]）
+> 印度尼西亚 2010 年推出的 Bidikmisi 奖学金项目，向具备良好学业成绩且家庭背景处于经济劣势的学生提供学费资助和生活津贴，旨在扩大其[[Higher Education Access|高等教育入学机会]]。（[[Argument_Phyo_2025_SocSci|Phyo & Ilie, 2025, pp. 2, 5–6]]）
 >
 > *In Indonesia, the Bidikmisi scholarship programs, introduced in 2010, provide tuition assistance and a stipend to students from economically underprivileged backgrounds with a good academic record with the aim of increasing their higher education enrolment.*
 
@@ -75,7 +81,7 @@ updated: 2026-11-19
 
 > [!dev-timeline] 项目推进历程
 > - **2010–2011 — 项目试行与规模探索期** 印度尼西亚国家教育部正式设立项目，初始资助规模约为两万人，建立中央直拨学费与生活费的运行通道。（[[Argument_Phyo_2025_SocSci|Phyo & Ilie, 2025, p. 5]]）
-> - **2012–2019 — 法定确立与协同推进期** [[Indonesian Law No. 12 of 2012|《印尼 2012 年第 12 号高等教育法》]]颁布，明确规定公立高校必须为弱势学生预留 20% 学额，并将 Bidikmisi 确立为落实该法案的核心财政支撑工具；协同启动面向边境与落后地区的 ADIK Papua/3T 平权资助计划。（[[Argument_Phyo_2025_SocSci|Phyo & Ilie, 2025, pp. 5–6]]）
+> - **2012–2019 — 法定确立与协同推进期** 《印尼 2012 年第 12 号高等教育法》颁布，明确规定公立高校必须为弱势学生预留 20% 学额，并将 Bidikmisi 确立为落实该法案的核心财政支撑工具；协同启动面向边境与落后地区的 ADIK Papua/3T 平权资助计划。（[[Argument_Phyo_2025_SocSci|Phyo & Ilie, 2025, pp. 5–6]]）
 > - **2020–至今 — 制度整合与升级期** 整合并入佐科·维多多总统推行的“印尼智慧卡大学版”（KIP Kuliah），进一步扩大资助名额与覆盖范围，提升对偏远私立高校学生的倾斜力度。
 
 ---
@@ -88,26 +94,20 @@ updated: 2026-11-19
 
 > [!pathways] 实施路径与管理
 > - **纵向直达与穿透拨付** 财政资金采取双轨拨付：学费由国库直接清算至接收高校账户；生活津贴则由中央银行系统直接打入受助学生实名银行卡，规避中间截留。（[[Argument_Phyo_2025_SocSci|Phyo & Ilie, 2025, pp. 5–6]]）
-> - **多维资格审查联动** 将国家统一高考信息系统、地方贫困人口数据库与中学推荐名单进行交叉核验，防止资质失真。
+> - **多维资格审查联动** 将国家统一[[Gaokao|高考]]信息系统、地方贫困人口数据库与中学推荐名单进行交叉核验，防止资质失真。
 > - **动态学业追踪** 受助学生每学期需提交学业进展报告与绩点单，高校配备学术导师开展朋辈学业辅导。
 
 ---
 
 > [!indicators] 评估指标体系
 > - **投入指标** 中央财政年度专项预算规模、各省高校资助指标分配数、人均月度生活补贴额度。
-> - **过程与依从性指标** 资格审核通过率、学业及格与绩点达标率、学业流失率（Dropout Rate）。
+> - **过程与依从性指标** 资格审核通过率、学业及格与绩点达标率、[[Academic Attrition|学业流失]]率（Dropout Rate）。
 > - **产出与结果指标** 底层财富群体公立大学净入学率提升幅度、受助生按期毕业率、毕业后就业初薪与职业阶层流动。
 
 > [!finding-cards] 核心实证结论
 > - **主要效应** 资助显著降低了贫困家庭进入公立大学的财务门槛，有力拉动了印尼过去十年间中等后教育整体入学规模的快速增长。（[[Argument_Phyo_2025_SocSci|Phyo & Ilie, 2025, pp. 5–6]]）
-> - **异质性效应** 在缩小城乡入学概率差距方面显现出积极效应，印尼近期出生队列中城乡学生在控制家庭财富后的升学概率差异已收窄至统计不显著水平。（[[Argument_Phyo_2025_SocSci|Phyo & Ilie, 2025, p. 18]]）
+> - **[[Heterogeneity|异质性]]效应** 在缩小城乡入学概率差距方面显现出积极效应，印尼近期出生队列中城乡学生在控制家庭财富后的升学概率差异已收窄至统计不显著水平。（[[Argument_Phyo_2025_SocSci|Phyo & Ilie, 2025, p. 18]]）
 > - **边界条件** 政策效益受限于初高中阶段学业准备赤字，单纯大学入口处的经济资助无法消解早期基础教育质量差异带来的长期学业积累劣势。（[[Argument_Phyo_2025_SocSci|Phyo & Ilie, 2025, pp. 6, 18]]）
-
-> [!stat-cards]- 关键实证数据
-> - **2010** （设立年份）
-> - **2012** （法定化年份）
-> - **20%** （法定公立大学弱势生源最低保留名额比例）
-> - **2020** （升级整合为 KIP Kuliah 年份）
 
 ---
 
@@ -126,7 +126,7 @@ updated: 2026-11-19
 > > - **支持观点** 经济安全感是底层学子安心求学的先决条件，免除学费与生活压力为学生专注学业提供了最根本的物质屏障。
 
 > [!lessons] 经验教训与启示
-> - **实施教训** 专项资助若未与高校在校学业支持、心理辅导及就业引导深度结合，受助群体进入名校后易遭遇学术适应不良与社交边缘化。
+> - **实施教训** 专项资助若未与高校在校学业支持、[[Counseling Effects|心理辅导]]及就业引导深度结合，受助群体进入名校后易遭遇学术适应不良与社交边缘化。
 > - **对未来改革的启示** 高等教育机会均等化不能仅停留在终点端的大学免学费与生活补贴，必须将公共教育资源前置倾斜至处境不利区域的学前与基础教育阶段，实现全链条补偿。
 
 ---

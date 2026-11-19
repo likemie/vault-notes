@@ -12,9 +12,9 @@ subtype: event
 region: europe
 fact_region: "europe"
 fact_kind: "event"
-fact_related_count: 8
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 13
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
 tags:
   - fact/event
@@ -24,10 +24,15 @@ tags:
   - multilingualism
   - region/europe
 related_concepts:
-  - "[[Modular Nationalism]]"
-  - "[[Official Nationalism]]"
   - "[[Nationalism]]"
+  - "[[Assemblage]]"
+  - "[[Print-Capitalism]]"
+  - "[[Modular Nationalism]]"
+  - "[[Paradigm]]"
+  - "[[Official Nationalism]]"
   - "[[Print-Language]]"
+  - "[[Knowledge Exchange]]"
+  - "[[Horizontal Comradeship]]"
 related_theories:
   - "[[Imagined Community]]"
 related_methods:
@@ -41,13 +46,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-19
 ---
 
 ---
 
 > [!claim] 核心定性
-> **1891年瑞士联邦庆典（1891 Swiss Jubilee）** 是瑞士联邦官方举行的建国六百周年全国性盛典。瑞士国家在经历了六个世纪的历史漫流后，于1891年正式确立将1291年古老的三州同盟誓约追认为国家诞生的原点。该事件是政治学与历史学界界定“发明的传统”的经典范例，标志着瑞士现代民族主义正式成型。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 138–141)]]
+> **1891年瑞士联邦庆典（1891 Swiss Jubilee）** 是瑞士联邦官方举行的建国六百周年全国性盛典。瑞士国家在经历了六个世纪的历史漫流后，于1891年正式确立将1291年古老的三州同盟誓约追认为国家诞生的原点。该事件是政治学与历史学界界定“发明的传统”的经典范例，标志着瑞士现代[[Nationalism|民族主义]]正式成型。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 138–141)]]
 
 > [!event-context] 事件背景
 > - **时间节点与地理空间** 1891年8月，盛典以卢塞恩湖畔吕特利草地（Rütli）及施维茨州为核心象征空间，并在全联邦各州同步展开。
@@ -80,8 +85,8 @@ updated: 2026-11-13
 
 ---
 
-> [!citation-card] 本尼迪克特·安德森论瑞士建国神话的确立
-> 1891年，在一场纪念施维茨、下瓦尔登与乌里同盟六百周年的新颖庆典中，瑞士国家正式决定将1291年定为瑞士的建国之年。这样一个足足等待了六百年才作出的决定，展现出耐人寻味的特质，它有力表明：这是现代性的创造，属于古老传统的自我延续。如果克里斯托弗·休斯将瑞士现代民族主义的诞生定在1891年是正确的，那么它并不比缅甸或印尼的民族主义古老多少。它崛起于民族国家已经成为国际合法规范的时代，从而能够以一种远比过去更为复杂的方式来组装民族属性。瑞士民族主义在20世纪大众传媒革命前夕的出现，使其在实践中能够以完全不需要语言同质化的方式来再现想象的共同体。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 138–141)]]
+> [!citation-card] [[Benedict Anderson|本尼迪克特·安德森]]论瑞士建国神话的确立
+> 1891年，在一场纪念施维茨、下瓦尔登与乌里同盟六百周年的新颖庆典中，瑞士国家正式决定将1291年定为瑞士的建国之年。这样一个足足等待了六百年才作出的决定，展现出耐人寻味的特质，它有力表明：这是现代性的创造，属于古老传统的自我延续。如果克里斯托弗·休斯将瑞士现代民族主义的诞生定在1891年是正确的，那么它并不比缅甸或印尼的民族主义古老多少。它崛起于民族国家已经成为国际合法规范的时代，从而能够以一种远比过去更为复杂的方式来[[Assemblage|组装]]民族属性。瑞士民族主义在20世纪大众传媒革命前夕的出现，使其在实践中能够以完全不需要语言同质化的方式来再现[[Imagined Community|想象的共同体]]。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 138–141)]]
 >
 > *In 1891, amidst novel jubilees marking the 600th anniversary of the Confederacy of Schwyz, Obwalden, and Nidwalden, the Swiss state ‘decided on’ 1291 as the date of the ‘founding’ of Switzerland. Such a decision, waiting 600 years to be made, has its diverting aspects, and suggests already that modernity rather than antiquity was at work. . . . If Hughes is right in dating its birth to 1891, it is not much more than a decade older than Burmese or Indonesian nationalism. . . . Finally, as in the case of the Southeast Asian examples, the appearance of Swiss nationalism on the eve of the communications revolution of the twentieth century made it possible and practical to ‘represent’ the imagined community in ways that did not require linguistic uniformity.*
 
@@ -98,18 +103,17 @@ updated: 2026-11-13
 > [!indicators] 历史影响维度
 > - **民族主义类型重划** 证实瑞士民族主义在时间谱系上属于“最后一波民族主义”，与亚非殖民地同时代诞生。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 140)]]
 > - **单语迷信的破除** 在73%德语压倒性多数下，确立德、法、意、罗曼什四种语言平等的宪制共识。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 140)]]
-> - **视听媒介与现代公民想象** 证明依托广播、戏剧仪式与现代印刷资本主义，多语社会完全能够生成牢固的平民同志情谊。
+> - **视听媒介与现代公民想象** 证明依托广播、戏剧仪式与现代[[Print-Capitalism|印刷资本主义]]，多语社会完全能够生成牢固的平民同志情谊。
 
 > [!finding-cards] 关键历史后果
 > - **模块化政治模板的成功移用** 瑞士国家精英无需原生语言同质化，直接挪用19世纪欧美成熟的宪政共和制、建国神话叙事与纪念碑仪式，完成了高效率的主权整合。
 > - **地缘中立与内政稳定的制度锁定** 放弃强行推行德语同化（日耳曼化），避免了因国内语言倒向邻国而引发列强吞并或分裂的危险，使瑞士永久中立成为具有全民向心力的制度资产。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 140)]]
-> - **反向印证亚非非同质语言建国可能性** [[Benedict Anderson|本尼迪克特·安德森（Benedict Anderson）]]指出，瑞士的经验有力印证了莫桑比克、印尼等亚非新兴国家为何能够在缺乏单一原生母语的情形下维系领土主权完整。
+> - **反向印证亚非非同质语言建国可能性** 本尼迪克特·安德森（Benedict Anderson）指出，瑞士的经验有力印证了莫桑比克、印尼等亚非新兴国家为何能够在缺乏单一原生母语的情形下维系领土主权完整。
 
 > [!stat-cards]- 核心历史数据
-> - **1891** 官方决议确立国家诞生日与举办六百周年庆典的年份。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 138)]]
-> - **1291** 庆典追溯的三州誓约签订年份，两者跨越整整六个世纪。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 138)]]
 > - **73%** 1910年瑞士讲德语人口占全境母语分布的绝对比例。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 140)]]
-> - **22% / 4%** 分别对应的法语与意大利语人口占比。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 140)]]
+> - **22%** 1910年瑞士讲法语人口占比。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 140)]]
+> - **4%** 1910年瑞士讲意大利语人口占比。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 140)]]
 
 ---
 
@@ -127,11 +131,11 @@ updated: 2026-11-13
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Modular Nationalism]] | Concept | 瑞士在1891年成功借用欧美现成的建国神话与纪念仪式范式。 |
+> | [[Modular Nationalism]] | Concept | 瑞士在1891年成功借用欧美现成的建国神话与纪念仪式[[Paradigm\|范式]]。 |
 > | [[Official Nationalism]] | Concept | 瑞士依托非君主制与永久中立，成功克制了沙俄与暹罗式的强制同化暴政。 |
 > | [[Nationalism]] | Concept | 1891年庆典标志着瑞士现代平民民族主义正式成型。 |
-> | [[Print-Language]] | Concept | 德语书面语（Hochsprache）与多语印刷媒介维系了跨语族知识交流。 |
-> | [[Imagined Community]] | Theory | 解释多语种社会如何无需母语同一性而生成横向同志情谊。 |
+> | [[Print-Language]] | Concept | 德语书面语（Hochsprache）与多语印刷媒介维系了跨语族[[Knowledge Exchange\|知识交流]]。 |
+> | [[Imagined Community]] | Theory | 解释多语种社会如何无需母语同一性而生成[[Horizontal Comradeship\|横向同志情谊]]。 |
 > | [[Historical-Comparative Method]] | Method | 安德森将瑞士经验与缅甸、印尼及莫桑比克进行跨时代比较。 |
 > | [[Benedict Anderson]] | Person | 将瑞士界定为“最后一波民族主义”欧洲典范的历史政治学者。 |
 

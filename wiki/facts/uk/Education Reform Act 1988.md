@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -117,10 +117,6 @@ updated: 2026-11-11
 > - **跨党派政策连续性** 后续上台的新工党（1997–2010）与保守党-自民党联合政府全面继承并细化了 ERA 1988 确立的测验与排行榜制度，持续强化表现主义控制。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 256–257)]]
 > - **塑造全球 [[New Public Management|NPM]] 教育改革范本** 该法案将标准化评估、择校竞争与公开问责相绑定的治理模式，成为智利、美国、澳大利亚等国竞相借鉴的政策模板。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 250, 253)]]
 > - **诱发应试操练与课程窄化** 官方排位表给学校带来沉重的声誉压力，诱发了以测验为中心教学与对薄弱学生的歧视性生源筛选。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 256, 261)]]
-
-> [!stat-cards]- 核心数据
-> - **4** 法案设立的关键学段（Key Stages 1–4）考核节点数量。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 253)]]
-> - **1988** 法案正式通过确立英国新公共管理教育治理元年。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 253)]]
 
 ---
 

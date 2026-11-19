@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -107,10 +107,6 @@ updated: 2026-11-15
 > - **工会抵抗策略的务实转变** 实证研究显示，工会面对问责会采取多样化博弈策略。在公立教育面临生源与资源萎缩的双重危机下，工会将技术评估作为争取薪酬待遇普惠提升的谈判筹码，体现出工会治理的妥协智慧。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
 > - **重塑公立学校教学常态** 课堂实录与[[Reflexivity|反思性]]档案袋的强制引入，推动了教师对课程标准和教学策略的规范化关注，逐步弱化了传统公立教学的封闭性。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
 > - **公私立学校制度双轨分割** 长期以来该系统仅强制施加于公立市镇学校，政府资助的私立学校（Subvencionados）不受此限，反倒加剧了教师身份与规制强度的体制分割。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 260)]]
-
-> [!stat-cards]- 关键实证数据
-> - **2003** 智利教育部与全国教师工会达成框架协议的立项年份。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
-> - **4** 年一次公立学校在岗教师法定强制循环评价周期。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
 
 ---
 

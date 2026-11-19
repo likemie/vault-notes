@@ -70,7 +70,7 @@ related_persons:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -144,9 +144,7 @@ updated: 2026-11-11
 > - **A\$50M** 游说促成联邦与各州向 AERO 拨付的公共财政启动资金（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 8]]）。
 > - **A\$1,216,000 / A\$625,000** 2021 年度从政府获得直接财政补贴与对外发放赠款总额，对外资助仅占政府拨款的 51%（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 527]]）。
 > - **A\$15M** 获得的联邦保密投标资助，官员明令竞标期间不得公开政府支持（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 526]]）。
-> - **50** （学校） 发起的亮点学校连接项目重塑试点的低[[Socioeconomic Status|社会经济地位]]公立学校总数（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 525]]）。
-> - **4** （子公司） 依据《公司法》建立的四层控股子公司架构总数（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 528]]）。
-> - **17** （官方档案） ASIC 付费提取的企业注册执照、章程与董事变更档案总数（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 11]]）。
+> - **50** 发起的亮点学校连接项目重塑试点的低[[Socioeconomic Status|社会经济地位]]公立学校总数（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 525]]）。
 
 ---
 

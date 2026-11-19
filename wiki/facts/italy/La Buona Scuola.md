@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -104,10 +104,6 @@ updated: 2026-11-15
 > - **突破拿破仑制度惯性的立法范例** 在长期受制于政党更迭与工会否决权的南欧行政传统中，技术官僚型政府借由立法手段完成了问责工具的制度化确立。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 255, 258)]]
 > - **校长行政权威的大幅强化** 打破了传统意大利公立学校内教师平级自治的共决文化，使校长角色向企业型经理人转变，强化了自上而下的微观组织控制。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
 > - **剧烈的职业身份[[Alienation|异化]]与反弹** 强大利害与个体竞争机制的嵌入引发了学校内部的人际信任危机，导致工会组织数十万人规模的总罢工，使管理主义政策陷入基层隐性抵制。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 258, 260)]]
-
-> [!stat-cards]- 核心数据
-> - **2015** 意大利议会正式通过并生效《好学校》法案的年份。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
-> - **15** 年左右该国在引入校长评估与管理主义问责中经历的试错与拉锯跨度（2001–2015）。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
 
 ---
 

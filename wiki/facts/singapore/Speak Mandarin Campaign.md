@@ -9,7 +9,7 @@ subtype: program
 region: "singapore"
 fact_region: "singapore"
 fact_kind: "program"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ tags:
   - region/singapore
 related_concepts:
   - "[[Dialect Use]]"
+  - "[[Kapwa]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Imagined Community]]"
@@ -37,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-30
+updated: 2026-11-19
 ---
 
 ---
@@ -103,7 +104,8 @@ updated: 2026-10-30
 > - **文化修剪代价** 传统方言口头传统与戏曲文化遭受显著挤压，引发了关于文化多样性流失的长期讨论。
 
 > [!stat-cards]- 关键实证数据
-> 新加坡人均国内生产总值（GDP）从 1960 年的 428 美元飙升至 2023 年的 84,734 美元；华裔家庭日常主要使用方言的比例从 1979 年的 85% 降至 2020 年的不到 10%。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194–196)]]
+> - **\$428 → \$84,734** 新加坡人均国内生产总值（GDP）从 1960 年升至 2023 年的变化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194–196)]]
+> - **85% → <10%** 华裔家庭日常主要使用方言的比例从 1979 年降至 2020 年的变化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194–196)]]
 
 ---
 
@@ -113,7 +115,7 @@ updated: 2026-10-30
 > > 文化学者与方言保护倡导者批评该运动将生机勃勃的“语言热带雨林”修剪为过于功利的“经济作物花园”；而[[Lee Kuan Yew|李光耀]]与政府领导层坚持认为，小国在严酷地缘生存竞争中必须保持高度专注与沟通效率。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
 >
 > > [!axis] 官方语言规划对私人领域的介入边界
-> > 自由主义评论家质疑政府通过行政力量深度干预家庭内部语言选择的正当性；新加坡建国实践则证明了国家意志主动塑造共享认同的不可或缺性。
+> > 自由主义评论家质疑政府通过行政力量深度干预家庭内部语言选择的正当性；新加坡建国实践则证明了国家意志主动塑造[[Kapwa|共享认同]]的不可或缺性。
 
 ---
 

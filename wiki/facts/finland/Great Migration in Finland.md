@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-06
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -105,7 +105,7 @@ updated: 2026-11-11
 > - **塑造后发富裕社会的学业财富曲线** 迁徙一代将强烈的脱贫抱负投射于子女教育，与原有的[[Sisu|西苏]][[Grit|坚毅]]文化结合，激活了 1970 至 1990 年代学业成绩的持续高位攀升。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 30–34)]]
 
 > [!stat-cards]- 核心历史数据
-> - **20 年 vs 50–80 年** 芬兰将农业劳动力自 50% 压降至 15% 仅用时 20 年，而瑞典耗时 50 年、挪威耗时 80 年。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 30)]]
+> - **20 vs 50–80** 年转型耗时对比（芬兰将农业劳动力自 50% 压降至 15% 仅用时 20 年，瑞典耗时 50 年、挪威耗时 80 年）。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 30)]]
 > - **~60%** 1945 年芬兰劳动力中从事农林业的比例（同期丹、挪、瑞不足 30%）。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 30)]]
 > - **60%** 1950 年芬兰人均 GDP 仅相当于瑞典和丹麦的 60%。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 30)]]
 

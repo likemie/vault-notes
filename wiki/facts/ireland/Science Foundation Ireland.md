@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-11-19
 ---
 
 ---
@@ -92,10 +92,6 @@ updated: 2026-10-22
 > 1. **重塑爱尔兰大学科研生态** 推动爱尔兰高校从以传统教学为主导的象牙塔，全面跨越为具备国际[[Competitiveness|竞争力]]的前沿[[Research Universities|研究型大学]]群落。
 > 2. **夯实高科技外资研发高地** 促使落户爱尔兰的跨国科技与制药巨头（如 Google、Apple、Pfizer）从单纯的欧洲税收与制造运营中心，深度拓展为与本地大学紧密联动的先导研发中心。
 > 3. **跨国科技政策移植典范** 成为全球科技政策史上成功将美国[[Big Science|大科学]]产学中心机制移植并本地化改造的典型示范案例。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 369–370)]]
-
-> [!stat-cards]- 核心规模数据
-> - **2000** 爱尔兰科学基金会正式成立年份。
-> - **16** SFI 资助设立的大型跨学科旗舰研究中心网络规模。
 
 ---
 

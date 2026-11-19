@@ -11,7 +11,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 42
+fact_related_count: 43
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"
@@ -58,6 +58,7 @@ related_instruments: []
 related_persons:
   - "[[David Gough]]"
 related_facts:
+  - "[[National Institute of Education]]"
   - "[[OECD]]"
   - "[[Education in Europe]]"
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
@@ -78,13 +79,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
 
 > [!claim] 核心定位
-> 政策与实践证据信息协调中心（Evidence for Policy and Practice Information and Co-ordinating Centre, EPPI-Centre）是 1995 年设于伦敦大学学院教育学院（UCL Institute of Education, IOE）的学术型证据中介旗舰机构，开创了教育与社会政策领域的[[Systematic Review\|系统综述]]（Systematic Review）方法论，并在[[OECD\|经合组织]]（OECD）十五年纵向追踪中被确立为少数抵御财政与政治周期冲击、实现长效存续的高校锚定型[[Knowledge Mediation\|知识中介]]典范([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 57, 64]]; [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 33]])。
+> 政策与实践证据信息协调中心（Evidence for Policy and Practice Information and Co-ordinating Centre, EPPI-Centre）是 1995 年设于伦敦大学学院教育学院（UCL [[National Institute of Education|Institute of Education]], IOE）的学术型证据中介旗舰机构，开创了教育与社会政策领域的[[Systematic Review\|系统综述]]（Systematic Review）方法论，并在[[OECD\|经合组织]]（OECD）十五年纵向追踪中被确立为少数抵御财政与政治周期冲击、实现长效存续的高校锚定型[[Knowledge Mediation\|知识中介]]典范([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 57, 64]]; [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 33]])。
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1995 年由安·奥克利（Ann Oakley）等学者依托 UCL 教育学院社会科学研究部（Social Science Research Unit, SSRU）创建，初期以循证医学为蓝本开展卫生保健综述，随后迅速拓展至初等与中等教育、社会照护、就业及国际发展等广阔领域([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 33]])。
@@ -137,14 +138,6 @@ updated: 2026-11-11
 > [!finding-cards] 关键成效与[[Paradigm\|范式]]重塑
 > - **打破医学循证范式的机械移植** 成功证明系统综述不应沦为狭隘的[[Randomised Controlled Trials\|随机对照试验]]垄断工具，证明质性证据在揭示教育干预微观机制与情境阻力上具有同等关键的证据权重。
 > - **推动“中介的中介”元治理实践** 牵头搭建 [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 跨国网络，率先在全球倡导中介机构不应各自为战，而应开展“综述的综述”（Reviews of Reviews）并联合进行二阶证据中介，成为当代[[Knowledge Mobilisation\|知识动员]]元治理的实践先驱([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 67–68]])。
-
-> [!stat-cards]- 标志性数据与存续指标
-> - **1995** 创立年份，至今平稳运行超过 30 年，是全球连续活跃时间最悠久的专业[[Research Synthesis|证据综合]]中介机构之一
-> - **1/3** 在 [[OECD]] 2007 年确立的 6 大国际标杆样本中保持全功能运行的机构存活比例，为唯二幸存机构之一([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]])
->
-> > [!feature] 数千
-> > 依托其研发的 EPPI-Reviewer 平台完成的全球教育与社会科学系统综述数量（项）
->
 
 ---
 

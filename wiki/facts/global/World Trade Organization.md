@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 31
+fact_related_count: 32
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Transnational Education]]"
   - "[[Study Abroad]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Deglobalization]]"
   - "[[Strategic Autonomy]]"
   - "[[Commensuration]]"
   - "[[Paradigm]]"
@@ -85,7 +86,7 @@ updated: 2026-11-19
 > - **1947–1994 — GATT 货物贸易时代** 关税与贸易总协定长期聚焦于工业品与农产品的关税减让与货物贸易争端协调，教育、文化与卫生等公共领域被严格视为国家不可让渡的主权行政事务，排斥在多边商业协定管辖之外。
 > - **1995 — WTO 成立与服务贸易扩张** 世贸组织正式运行并实施 [[GATS and Trade in Education Services|GATS]]，确立了全球服务贸易分类标准（W/120），将高等教育、成人教育与其他教育服务明确列为第 5 类受国际贸易法规范的商业服务部门，开启教育服务商品化时代。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]; [[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 97–98)]]
 > - **2000 年代初 — 多哈发展议程与教育贸易谈判** WTO 发起多哈回合谈判，积极推动成员国扩大教育服务市场准入与国民待遇承诺；同时，欧美主要发达国家与大型[[Transnational Education|跨国教育]]集团将跨境办学、[[Study Abroad|留学]]生招募与远程高等教育作为核心服务出口增长点。
-> - **2000 年代中期至 2010 年代末 — 全球[[Knowledge-Based Economy|知识经济]]与[[Pluri-Scalar Governance|多标度治理]]重组** 世贸组织规则深度渗透学历学位跨国互认、资质认证与知识产权流动，促使教育治理从单一民族国家制度容器转向由超国家协定、国家法规与次国家学区相互交织的多标度治理矩阵；但在金融危机与地缘冲突下，也遭遇逆全球化与国家安全保护主义的强力反弹。
+> - **2000 年代中期至 2010 年代末 — 全球[[Knowledge-Based Economy|知识经济]]与[[Pluri-Scalar Governance|多标度治理]]重组** 世贸组织规则深度渗透学历学位跨国互认、资质认证与知识产权流动，促使教育治理从单一民族国家制度容器转向由超国家协定、国家法规与次国家学区相互交织的多标度治理矩阵；但在金融危机与地缘冲突下，也遭遇[[Deglobalization|逆全球化]]与国家安全保护主义的强力反弹。
 > - **2020 年代 — 地缘科技博弈与多边贸易规约边缘化** 随着中美高科技竞争加剧与供应链安全危机爆发，主要经济体绕过 WTO 多边规制，密集出台大规模单边产业补贴与出口管制；[[EU|欧盟]]在 2019 年前仍坚持诉诸 WTO 多边贸易解决方案，但此后被迫转向[[Strategic Autonomy|战略自主]]与防卫性产业政策，凸显 WTO 在规约尖端科技产业与单边补贴竞赛中的制度失灵与边缘化。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 8)]]
 
 ---
@@ -126,9 +127,6 @@ updated: 2026-11-19
 > - **重构全球教育[[Pluri-Scalar Governance|多标度治理]]空间** 罗伯逊、博纳尔与戴尔（Robertson, Bonal, & Dale, 2002）指出，WTO 打破了单一民族国家对教育治理的垄断，将教育的筹资、供给、所有权与规约重新分布在超国家、国家与次国家空间网络之中。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 > - **倒逼后发大国主动融入与制度革新** WTO 规则不仅是外部强加，亦被许多发展中国家（例如 2001 年加入 WTO 后的中国）用作参与全球[[Knowledge-Based Economy|知识经济]]竞争、倒逼国内高等教育体制改革、加速国际化水平与吸引优质外部教育资源的战略工具（Zhou & Shi, 2003）。
 > - **加剧南北国家不对称的主权与自主权分化** 大国能主动利用世贸规则提升[[Competitiveness|国家竞争力]]，而经济体量薄弱的边缘小国则在服务贸易规则面前丧失了统筹[[National Education|国民教育]]的宏观调控权。
-
-> [!stat-cards]- 核心规模数据
-> 成员国数量：164 个；全球贸易覆盖率：>98%；教育服务列入 [[GATS and Trade in Education Services|GATS]] 规约部门：第 5 大类（含高等教育、成人教育等 5 项子类）。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
 
 ---
 

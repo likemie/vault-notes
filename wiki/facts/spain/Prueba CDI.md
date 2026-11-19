@@ -103,10 +103,6 @@ updated: 2026-11-19
 > - **公立教育系统的生源分化与污名化** 成绩排位表的公开发布促使中产阶层家庭加速撤离弱势公立学校，加剧了以[[Socioeconomic Status|社会经济地位]]为边界的校际隔离。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 258)]]
 > - **教学应试化与非测验学科边缘化** 统考促使大量学校将整学期时间用于刷题与强化训练，剥夺了学生的全面探究与艺术修养空间。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 256, 258)]]
 
-> [!stat-cards]- 关键实证数据
-> - **2003–2012** 政治强人阿吉雷主政马德里大区并推行激进市场化实验的年份跨度。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
-> - **2** 个接受 CDI 普查性统考的关键学段（小学 6 年级与初中 3 年级）。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
-
 ---
 
 > [!debates] 项目争议

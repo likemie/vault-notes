@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-26
-updated: 2026-10-22
+updated: 2026-11-19
 ---
 
 ---
@@ -64,7 +64,8 @@ updated: 2026-10-22
 ---
 
 > [!stat-cards]- 布局调整核心数据
-> - **83%** 2000 年至 2022 年间中国农村小学数量的累计降幅，从 440,284 所骤降至 76,093 所，导致大量农村儿童失去了在家门口就近入学的地理条件。[[Argument_Teng_2025_CE\|Teng and Wang (2025, p. 304)]]（引自 Ministry of Education 2022）
+> - **83%** 2000 年至 2022 年间中国农村小学数量的累计降幅，导致大量农村儿童失去了在家门口就近入学的地理条件。[[Argument_Teng_2025_CE|Teng and Wang (2025, p. 304)]]（引自 Ministry of Education 2022）
+> - **440,284 → 76,093** 2000 年至 2022 年间中国农村小学总数的变化（所）。[[Argument_Teng_2025_CE|Teng and Wang (2025, p. 304)]]（引自 Ministry of Education 2022）
 
 > [!actor-grid] G 县的撤并案例运作
 > - **村级小学行政关停** 在湖北 G 县，2022 年村级学校 Village School 8 被地方政府行政关闭，绝大多数在读生源被迫面临分流，被强制划片至新建的城内 School X 就读。[[Argument_Teng_2025_CE\|Teng and Wang (2025, pp. 306–307)]]

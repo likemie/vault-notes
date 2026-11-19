@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-04
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -94,10 +94,6 @@ updated: 2026-11-11
 > - **确立科学政治家的政策中枢地位** 会议展现了250位跨界科学领袖通过组织化平台向国家最高领导人输出政策议程的强大效能，奠定了学术界在冷战高科技决策中的核心[[Discourse|话语]]权。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
 > - **白宫对大学实验室的政治担保落地** 总统亲临演讲清晰表明，冷战触角已经延伸至公共科学家最关心的大学实验室，将大学基础探索直接上升为国家生存与竞争的战略基石。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
 > - **启幕大学科研黄金时代** 会议消除了政界对资助大学基础研究的合宪性与合理性疑虑，与《[[National Defense Education Act of 1958|国防教育法]]》协同推动联邦资金向 [[National Science Foundation|NSF]]、[[National Institutes of Health|NIH]] 转移，开启了持续十余年的高教科研黄金鼎盛期。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 38, 40)]]
-
-> [!stat-cards]- 核心历史数据
-> - **250** （位） 齐聚纽约研讨会的科学界政治领袖与资深学者总人数。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
-> - **3** （家） 共同发起组织该历史性研讨会的顶尖学会与基金会机构数（NAS、AAAS 与斯隆基金会）。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
 
 ---
 

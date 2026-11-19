@@ -10,7 +10,7 @@ subtype: organization
 region: sweden
 fact_region: "sweden"
 fact_kind: "organization"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -50,6 +50,7 @@ related_persons:
 related_facts:
   - "[[Swedish National Agency for Education]]"
   - "[[PISA]]"
+  - "[[Independent Schools Initiative]]"
   - "[[Ofsted]]"
   - "[[Swedish Institute for Educational Research]]"
   - "[[PISA Shock in Sweden]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-11-02
+updated: 2026-11-19
 ---
 
 ---
@@ -70,7 +71,7 @@ updated: 2026-11-02
 > - **成立时间与制度背景** 瑞典学校督导在缺席十余年后于 2003 年重新引入，由政府委托 NAE 以六年一轮的方式实施。2008 年秋，新的独立督导机构督察局开始运作。作为新设国家机构，督察局面临政府提高学生整体学业水平、提升学科知识与保障等值性的强烈政治要求，特别是面对 2000 年代瑞典学生在国际测试中的急剧下滑以及后续演变为全国危机的瑞典 [[PISA]] 震荡，督察局从头设计和开发各类督导流程，承担起强化中央规制与纠偏过度市场化的职能。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 646)]]
 > - **法律依据** 瑞典《教育法》（Education Act, SFS 2010:800）第 1 章第 5 节要求学校教育建立在“科学依据与经验验证”之上。2011 年 7 月起，督察局还可对不服从其决定的办学机构使用罚款等制裁。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 646–648)]]
 > - **督导范围** 督察局按三年一轮，对学前教育、小学与中学、成人教育及特殊学校按比例开展督导。大学与大学学院由另一督导机构负责，不在督察局委托范围内。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 646)]]
-> - **核心宗旨** 通过常规督导、质量审计、投诉处理与独立学校许可，检查学校与办学机构是否符合国家目标、法规与质量标准；同时以研究综述、判断标准与报告，向学校、办学机构与公众传达何为良好实践。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 646–649)]]
+> - **核心宗旨** 通过常规督导、质量审计、投诉处理与[[Independent Schools Initiative|独立学校]]许可，检查学校与办学机构是否符合国家目标、法规与质量标准；同时以研究综述、判断标准与报告，向学校、办学机构与公众传达何为良好实践。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 646–649)]]
 
 ---
 
@@ -120,10 +121,6 @@ updated: 2026-11-02
 > - **治理效力** 评估领域与审计报告把学校实践转换为可比较、可判断、可整改的对象，使督察局能够同时面向政府、地方政治家、政策制定者、研究者与学校行动者定位自身。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 652–654)]]
 
 > [!stat-cards]- 核心规模数据
-> - **2008** 督察局开始运作的年份。（p. 646）
-> - **3** 常规督导覆盖全部学校的周期，单位为年。（p. 646）
-> - **5** 地区部门数量。（p. 646）
-> - **10** 常规督导评估领域的近似数量。（p. 648）
 > - **30** 每次质量审计抽样的学校近似数量。（p. 645）
 > - **1/3** 计划具备“一般调查背景”的督导比例。（p. 647）
 > - **3/10** 透明委员会中大学高级研究人员的数量。（p. 647）

@@ -10,7 +10,7 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -46,6 +46,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Confucius]]"
+  - "[[Johann Wolfgang von Goethe]]"
 related_facts:
   - "[[Belt and Road Initiative]]"
   - "[[American Spaces]]"
@@ -54,12 +55,12 @@ related_arguments:
   - "[[Argument_Custer_2021_AidData]]"
   - "[[Argument_Velasco_2022_CSJ]]"
   - "[[Argument_King_2020_ECNUROE]]"
-  - "[[Argument_Zhu_Yang_2025_HE]]"
   - "[[Argument_Zhu_Yang_2023_HEP]]"
+  - "[[Argument_Zhu_Yang_2025_HE]]"
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -133,9 +134,6 @@ updated: 2026-11-15
 > - **160+** 孔子学院与课堂覆盖的国家和地区数量（个）。
 > - **153** （所） 截至2019年在54个“[[Belt and Road Initiative|一带一路]]”沿线国家建立并运营的孔子学院总数。[[Argument_King_2020_ECNUROE|(King, 2020, p. 232)]]
 > - **65** （个） 截至2021年中国在南亚与中亚13国布设的孔子机构总数（含28所孔子学院与37所孔子课堂），占区域外国文化中心总数的 30%（仅次于美国的 42%）。[[Argument_Custer_2021_AidData|(Custer et al., 2021, p. 24)]]
-> - **25** （个） 截至2021年吉尔吉斯斯坦境内的孔子机构总数，占全吉外国文化中心总数的 64%，形成高度集中的语言基地。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 24–25)]]
-> - **2** （所） 乌兹别克斯坦对孔子学院设置的法定数量上限（分别设于塔什干与撒马尔罕）。[[Argument_Custer_2021_AidData|(Custer et al., 2021, p. 26)]]
-> - **27** （个） 截至2017年柬埔寨皇家科学院孔子学院在全柬设立的教学班与下设课堂总数，展现出在东南亚周边国家的密集下沉办学网络。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 1047)]]
 > - **31** （所） 截至 2021 年中国在东南亚地区设立并运营的孔子学院总数，深度嵌入在地大学建制。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 85)]]
 
 ---
@@ -148,7 +146,7 @@ updated: 2026-11-15
 > > - **批评性观点** 担忧资助可能影响外方管理者的自我审查，限制对特定敏感议题的自由学术探讨。
 > > - **共建院校观点** 强调孔子学院恪守当地法律及[[Grandes Ecoles|大学校]]规，教学内容聚焦现代标准汉语与文化交流，不参与意识形态争论。
 > > - **[[Argument_Woo_2023_HEP|Woo (2023, pp. 693–694)]]** 指出，地缘战略博弈加剧使教育交流面临政治化挑战，部分西方国家的立法审查与关停行动重创了孔子学院在传统学术核心区的制度生存空间。
-> > - **[[Argument_Velasco_2022_CSJ|Velasco (2022, p. 85)]]** 揭示孔子学院区别于歌德学院或英国文化协会独立设立文化中心的独特性：其组织深度嵌入当地承办大学建制，融合语言授课、文化活动、学术研讨与高层互访等多元手段，这种“深嵌建制”模式一方面促进了校际学术合作，另一方面也使在地大学直接暴露于外部地缘安全关切与机构治理摩擦之中。
+> > - **[[Argument_Velasco_2022_CSJ|Velasco (2022, p. 85)]]** 揭示孔子学院区别于[[Johann Wolfgang von Goethe|歌德]]学院或英国文化协会独立设立文化中心的独特性：其组织深度嵌入当地承办大学建制，融合语言授课、文化活动、学术研讨与高层互访等多元手段，这种“深嵌建制”模式一方面促进了校际学术合作，另一方面也使在地大学直接暴露于外部地缘安全关切与机构治理摩擦之中。
 >
 > > [!axis] [[Soft Power|软实力]]转化的边界与地缘博弈下的脆弱性
 > > 探讨语言文化传播能否自主转化为国家整体吸引力。

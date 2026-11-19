@@ -11,7 +11,7 @@ subtype: program
 region: "brazil"
 fact_region: "brazil"
 fact_kind: "program"
-fact_related_count: 13
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Alienation]]"
   - "[[Paradigm]]"
   - "[[Externalization]]"
-  - "[[New Public Management]]"
   - "[[New Managerialism]]"
   - "[[National Large-Scale Assessments]]"
   - "[[Test-Based Accountability]]"
@@ -45,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -105,10 +104,6 @@ updated: 2026-11-15
 > - **低利害向高利害的单向演进[[Paradigm|范式]]** 米纳斯吉拉斯州案例证实了发展中国家地方政权在采纳管理主义工具时，极易将原初设计用于诊断支持的测试改装为高强度的奖惩工具。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 259)]]
 > - **显性指标短期飙升与实质教学矛盾** 强大利害促使该州在联邦 IDEB 排位中迅速升至全巴西前列，但实证调查揭示出严重的高利害扭曲，包括针对落后学生的策略性排斥与狭窄的应试教学。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 259)]]
 > - **教师薪酬结构的风险[[Externalization|外部化]]** 依靠绩效奖金替代经常性工资普调的做法，加剧了基层教师的收入不稳定性，导致工会对抗情绪的持续积聚。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 259, 260)]]
-
-> [!stat-cards]- 关键实证数据
-> - **2003** 米纳斯吉拉斯州将 SIMAVE 与[[New Public Management|新公共管理]]结果导向改革绑定的年份。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 259)]]
-> - **1** 个月全额薪资作为学校达标后教职工可获得的卓越生产力奖金上限。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 259)]]
 
 ---
 

@@ -11,9 +11,9 @@ subtype: organization
 region: multi
 fact_region: "multi"
 fact_kind: "organization"
-fact_related_count: 18
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 21
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "政府间国际组织专门中心"
 headquarters: "曼谷（泰国）"
@@ -31,11 +31,13 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Paradigm]]"
   - "[[State Educational Sovereignty]]"
+  - "[[Epistemology]]"
   - "[[Document]]"
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Raymond Boudon]]"
 related_facts:
   - "[[SEAMEO]]"
   - "[[UNESCO]]"
@@ -49,6 +51,7 @@ related_facts:
   - "[[SHARE Programme]]"
 related_arguments:
   - "[[Argument_Chou_2017_PolSoc]]"
+  - "[[Argument_Indrarajah_2026_NJCIE]]"
 confidence: high
 status: active
 created: 2026-10-29
@@ -90,7 +93,7 @@ updated: 2026-11-19
 >
 >   - **2008** 发布《高等教育趋同：[[Bologna Process|博洛尼亚进程]]的经验教训》测绘报告，明确提示规避欧洲自上而下的同构趋同路径，并提出“迈向东南亚高等教育共同空间”蓝图。
 >   - **2010** 发起马印泰（M-I-T）学生流动试点，后升级为覆盖多国的[[AIMS Programme|亚洲国际学生流动计划]]（AIMS）。
->   - **2012** 发布东南亚国家质保模型研究报告，推进国家资格框架与东盟资历参考框架（AQRF）对标。
+>   - **2012** 发[[Raymond Boudon|布东]]南亚国家质保模型研究报告，推进国家资格框架与东盟资历参考框架（AQRF）对标。
 >   - **2024** 协同东盟正式联合签署《东南亚高等教育共同空间宣言》，将长期培育的政策架构固化为区域最高政治承诺。
 
 ---
@@ -131,11 +134,6 @@ updated: 2026-11-19
 > - **开辟去中心化的高教空间整合路径** 证明了在缺乏超国家统一立法的背景下，依托多边试点与底线兼容亦能实现跨国学分与质保互通。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 153–155)]]
 > - **成功抵御外生单向政策移植** 在官方报告中明确警示博洛尼亚模式在亚洲引发的疑虑，促使东南亚高教合作坚守本土发展逻辑与主体性。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 153, 155)]]
 
-> [!stat-cards]- 核心规模数据
-> - **11** （个） 覆盖的东南亚正式成员国总数（含东盟十国及东帝汶）。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]
-> - **1993** （年） SEAMEO 部长理事会在曼谷重建高教中心的年份。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]
-> - **2008** （年） 正式出台测绘报告并提出构建东南亚高等教育共同空间的标志性年份。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 153)]]
-
 ---
 
 > [!debates] 核心争议交锋
@@ -173,5 +171,5 @@ updated: 2026-11-19
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Indrarajah_2026_NJCIE|Indrarajah (2026)]] — 从认识论去殖民化视角检视 SEAMEO RIHED 与 AUN 主导的高教共同空间及 AIMS 跨国学生流动机制，主张破除对老挝、缅甸等后发成员国的排斥偏向，推进全域覆盖与本土人才循环（pp. 6–7, 13–15）。
+> - [[Argument_Indrarajah_2026_NJCIE|Indrarajah (2026)]] — 从[[Epistemology|认识论]]去殖民化视角检视 SEAMEO RIHED 与 AUN 主导的高教共同空间及 AIMS 跨国学生流动机制，主张破除对老挝、缅甸等后发成员国的排斥偏向，推进全域覆盖与本土人才循环（pp. 6–7, 13–15）。
 > - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] — 系统剖析 RIHED 组织定位、历史演进及其在东南亚双轨竞逐模式中地位的核心[[Document|文献]]。

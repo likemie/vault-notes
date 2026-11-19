@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 75
+fact_related_count: 76
 fact_related_level: 7
 fact_related_stars: "💎💎⭐"
 fact_related_color: "#fecdd3"
@@ -107,10 +107,11 @@ related_arguments:
 related_methods: []
 related_persons:
   - "[[Francis Bacon]]"
+  - "[[Charles Taylor]]"
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -219,7 +220,7 @@ updated: 2026-11-11
 > - **结果指标** 美国先进制程全球制造份额、本土半导体高技能就业增长、对东亚单一节点依赖度下降。
 
 > [!finding-cards] 实施成效与结构反响
-> - **重塑全球先进制程投资流向** 成功吸引[[Taiwan Semiconductor Manufacturing Corporation|台积电]]（亚利桑那州凤凰城超级晶圆厂追加至 650 亿美元）、三星（德州泰勒）、英特尔（俄亥俄与亚利桑那州）及美光（纽约州超级 DRAM 厂）落地，锁定了未来 2nm–4nm 先进产能。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 100)]]; [[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 10)]]
+> - **重塑全球先进制程投资流向** 成功吸引[[Taiwan Semiconductor Manufacturing Corporation|台积电]]（亚利桑那州凤凰城超级晶圆厂追加至 650 亿美元）、三星（德州[[Charles Taylor|泰勒]]）、英特尔（俄亥俄与亚利桑那州）及美光（纽约州超级 DRAM 厂）落地，锁定了未来 2nm–4nm 先进产能。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 100)]]; [[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 10)]]
 > - **开创三代公私研发合作新格局** 推动建立[[National Semiconductor Technology Center|国家半导体技术中心]]（NSTC）与独立非营利受托实体 [[Natcast]]，使[[University-Industry Collaboration|产学合作]]从公司自发投资跃升为国家战略级法定公私合作创新基础设施。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–5, 21–23)]]
 > - **全流程[[Policy Conditionalities|制度化附加条件]]确立国家权威** 法案开创性地将国家安全护栏（10 年中国扩产限制）、劳工体面工资标准、员工托儿福利、禁止股票回购及超额利润分享等条件作为资金转移契约的前置要求，确保公共资本干预服务于公共战略价值。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 14–15)]]
 > - **联邦集中治理与投资地理高度集聚** 法案依托中央财政直投的高集中度治理实现高效筛选与快速资金下达；2022 年 8 月至 2024 年 2 月全美录得 28 项重大制造投资公告，除台积电（扩建至 650 亿美元）与博世外主要响应者均为美资科技龙头（美光 350 亿、英特尔 300 亿、IBM 200 亿、德州仪器 110 亿、Wolfspeed 55 亿、应用材料 40 亿），且增量投资与新增岗位极度集聚于亚利桑那州与纽约州。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 9–11)]]
@@ -228,15 +229,9 @@ updated: 2026-11-11
 > [!stat-cards]- 核心数据
 > - **\$280B** 《芯片与科学法案》授权的新增科技支出总额（含 [[National Science Foundation|NSF]] 五年 810 亿及能源部科学办公室 305 亿）。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
 > - **\$52.7B** 联邦直接预算总额（390 亿制造补贴 + 110 亿研发中枢与设施 + 20 亿国防 + 5 亿 ITSI）。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 97–98)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–3)]]
-> - **\$3B** 《芯片法案》专门拨付用于[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（NAPMP）的专项资金。[[Argument_NIST_2023_NSTC|(NIST, 2023, p. 26)]]
-> - **\$2B** 国防部[[Microelectronics Commons|微电子共用体]]建立 8 个区域中试枢纽的专项拨款。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8, 11)]]
-> - **67K / 1.4M** （名） 预计至 2030 年美国半导体产业面临的专业技术岗位缺口，以及全美面临的高技能技术工人宏观短缺总数。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 20)]]
-> - **28 / \$65B** （项） 2022 年 8 月至 2024 年 2 月全美因法案激励宣布的制造投资项目数；台积电在亚利桑那州凤凰城晶圆厂扩建后的总投资承诺（获美联邦 66 亿美元补助与至多 50 亿美元贷款）。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 10)]]
-> - **14** （顶尖大学） [[DARPA]] 与 [[Semiconductor Research Corporation|SRC]] 在 JUMP 2.0 框架下由宾夕法尼亚州立大学牵头共建[[Heterogeneous Integration|异构集成]]中心的高校网络规模。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 23)]]
 > - **25%** 先进半导体制造设施投资税收抵免（ITC）比例。
-> - **5%** （上限） 受资助企业 10 年内在中国扩产先进制程（$\le 28\text{nm}$）的严格上限。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 97)]]
-> - **2** （亚利桑那与纽约州） 吸收法案宣布制造投资额与创造就业岗位最多的前两大受益州。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 11)]]
-> - **1 / 28** 历史同类立法中最终拿到全额拨款并落实的新项目比例。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 10)]]
+> - **28 / \$65B** 2022 年 8 月至 2024 年 2 月全美因法案激励宣布的制造投资项目数（28 项），以及台积电在亚利桑那州凤凰城晶圆厂扩建后的总投资承诺（获美联邦 66 亿美元补助与至多 50 亿美元贷款）。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 10)]]
+> - **67K / 1.4M** 预计至 2030 年美国半导体产业面临的专业技术岗位缺口人数，以及全美面临的高技能技术工人宏观短缺总人数。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 20)]]
 > - **30%–50%** 美国本土建设和运营晶圆厂相比东亚（台湾/韩国）高出的额外成本溢价。
 
 ---

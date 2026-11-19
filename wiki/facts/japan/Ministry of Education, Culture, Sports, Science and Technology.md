@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-26
-updated: 2026-10-30
+updated: 2026-11-19
 ---
 
 ---
@@ -113,9 +113,6 @@ updated: 2026-10-30
 > - **政策外化化解改革阻力** 将 PISA 数据转化为推进高争议学制与课时政策的合法依据，成功化解自由派教师团体的阻力。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018)]]
 > - **以教学内容为中心的调适路径** 区别于德国侧重学制重组与督导体系调整，日本将外部评估反映的短板聚焦于课程内容与教学法改善。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
 > - **探究素养与扎实学力融合** 推动基础教育在夯实基础知识概念理解的同时，系统转向注重真实[[Problem Solving|问题解决]]与主动学习（[[Active Learning]]）。
-
-> [!stat-cards]- 核心规模数据
-> 统辖日本 47 个都道府县，业务覆盖逾 1000 万名在校中小学生与高校大学生，年度预算支出达数万亿日元。
 
 ---
 

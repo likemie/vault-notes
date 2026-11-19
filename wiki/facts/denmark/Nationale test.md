@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -108,10 +108,6 @@ updated: 2026-11-15
 > - **透明度绕道效应的实证确立** 丹麦案例表明，即便中央政府由于政治轮替主动放弃了英美式的高利害排位，民间机构与媒体也能利用既有的信息公开法律框架自行复活排行榜，展现了透明度绕道（[[Transparency Bypass]]）的强劲势能。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
 > - **自适应算法测量误差的基层争议** 独立心理测量学评估揭示，由于底层题库参数校准波动，自适应测验在班级微观层面的测量[[Standard Error|标准误]]偏大，难以作为精准指导日常教学的唯一依据。
 > - **[[Neo-Weberian State|新韦伯主义国家]]的进二退一演进路径** 展现了北欧国家在接纳国际问责工具时，社会民主协商传统对纯粹市场达尔文主义竞争的有效缓冲。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 254, 258)]]
-
-> [!stat-cards]- 关键实证数据
-> - **10** 丹麦基础学校阶段强制实施的全国自适应测试项目总数。
-> - **2011** 丹麦中左翼执政联盟正式废止官方发布学校排行榜的年份。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
 
 ---
 

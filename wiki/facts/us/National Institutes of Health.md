@@ -44,13 +44,13 @@ related_concepts:
   - "[[Patent Citation]]"
   - "[[Clinical Trial]]"
   - "[[Early-Career Researchers]]"
-  - "[[Counterfactual]]"
   - "[[Externalization]]"
   - "[[Discourse]]"
   - "[[Portfolio-Based Research Funding]]"
 related_theories:
   - "[[Social Contract of Science]]"
   - "[[Pasteur's Quadrant]]"
+  - "[[Developmental State]]"
   - "[[Path Dependence]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -100,7 +100,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-11-05
+updated: 2026-11-19
 ---
 
 ---
@@ -176,13 +176,9 @@ updated: 2026-11-05
 > - **$45B+** NIH 当前年度联邦科研财政预算总额。
 > - **≈ 75%** FDA 批准的高创新度新分子实体（NMEs）中直接追溯至 NIH 前期高风险公共资助的比例。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 809)]]
 > - **6.01M** SciSciNet 数据湖中收录并高保真贯通的 NIH 课题资助成果关联总数（外部比对重合率 99.7%）。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
-> - **2×** 获得 NIH 主任先锋奖的长周期资助学者产出顶级高影响力成果的相对概率。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
 > - **18% → 7%** 1980 至 2010 年间 NIH 核心 R01 资助中 36 岁及以下[[Early-Career Researchers|青年学者]]占比的萎缩幅度（66 岁以上资深学者则增长十倍，两群体比例从 1:18 逆转为 2:1）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 39–40)]]
-> - **42.0** （岁） 当代美国 NIH 首席研究员首次获得 R01 独立资助的平均年龄（已系统性超越 1980–2010 年间 96 位获诺奖得主做出奠基突破的平均年龄 41.0 岁）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 43)]]
-> - **44%** 联邦科研人员在资助申请、合规报销等行政文书事务所消耗的时间占比。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 9)]]
 > - **50% → 100%** 1960 年代末至当代全美医学院全职专任教师薪资中依赖科研软钱覆盖的比例。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 30)]]
 > - **10% / 30%** NIH 资助课题中直接催生发明专利的比例（约 10%），以及所发表学术论著后续被商业专利引用的比例（30%），量化证实公共医学资助对产业创新的广泛渗透。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, p. 247)]]
-> - **$1.3M vs $0** NIH 青年学者 R01 评审临界线上险胜组（获 5 年 130 万美元）与惜败组（未获资助）的资源分野，为检验早期学术挫折提供了严密准实验断点[[Counterfactual|反事实]]。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 243–244)]]
 
 ---
 
@@ -191,7 +187,7 @@ updated: 2026-11-05
 > > [!axis] 风险与收益结构性失衡：纳税人的“双重付费”悖论（以抗癌药紫杉醇为例）
 > > 公共资金承担了新药研发的早期极高风险，私营药企却垄断了暴利并向公众收取天价药费。
 > >
-> > - **政治经济学批判（[[Argument_Block_2008_PS|Block, 2008]]; [[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）** [[Fred Block|弗雷德·布洛克]]与[[Mariana Mazzucato|马祖卡托]]指出，NIH 形成了严重的公私收益脱节。最具标志性的案例是抗癌药紫杉醇（Taxol）：国家癌症研究所（NCI）投入巨资完成了从天然提取物分离、作用机理测定到三期[[Clinical Trial|临床试验]]的全过程，随后依据[[Cooperative Research and Development Agreement|合作研发协议]]（CRADA）将独家生产与商业化权利授予百时美施贵宝（BMS）。BMS 由此获取了数十亿美元暴利，而 NIH 仅获得 3500 万美元版税；更严重的是，联邦医疗保险（Medicare）反需额外支付超 5 亿美元为昂贵药价买单。纳税人承担了早期研发全部失败风险，终端却陷入“先出资研发、后高价买药”的双重付费不公，暴露出隐藏发展型国家缺乏公共收益回流机制的根本制度缺陷。[[Argument_Block_2008_PS|(Block, 2008, pp. 195–196)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
+> > - **政治经济学批判（[[Argument_Block_2008_PS|Block, 2008]]; [[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）** [[Fred Block|弗雷德·布洛克]]与[[Mariana Mazzucato|马祖卡托]]指出，NIH 形成了严重的公私收益脱节。最具标志性的案例是抗癌药紫杉醇（Taxol）：国家癌症研究所（NCI）投入巨资完成了从天然提取物分离、作用机理测定到三期[[Clinical Trial|临床试验]]的全过程，随后依据[[Cooperative Research and Development Agreement|合作研发协议]]（CRADA）将独家生产与商业化权利授予百时美施贵宝（BMS）。BMS 由此获取了数十亿美元暴利，而 NIH 仅获得 3500 万美元版税；更严重的是，联邦医疗保险（Medicare）反需额外支付超 5 亿美元为昂贵药价买单。纳税人承担了早期研发全部失败风险，终端却陷入“先出资研发、后高价买药”的双重付费不公，暴露出隐藏[[Developmental State|发展型国家]]缺乏公共收益回流机制的根本制度缺陷。[[Argument_Block_2008_PS|(Block, 2008, pp. 195–196)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
 > > - **制药工业界辩护** 辩护称从实验室分子到大规模符合 GMP 标准量产并完成全球分销仍需巨额私人商业资本承担，排他性专利与高定价是激励企业完成工业化落地的必要市场报酬。
 >
 > > [!axis] 同行评审避险倾向与青年学者老龄化困境

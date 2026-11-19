@@ -51,7 +51,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 status: active
 created: '2026-10-16'
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -86,7 +86,7 @@ updated: 2026-11-11
 > [!actor-grid] 组织治理架构
 > - **董事会（Board of Directors）** 前微软全球首席财务官兼通用汽车副董事长克里斯·利德尔（Chris Liddell）担任董事会主席；成员包括普华永道前高级合伙人、安永前合伙人等商界精英。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 55)]]
 > - **高级执行团队（Executive Team）** 由新西兰最大本土风投 Direct Capital 联合创始人比尔·科莫德（Bill Kermode）出任首席执行官，前瑞士信贷第一波士顿投行家出任投资总监。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 55)]]
-> - **教育咨询专家委员会** 吸纳科[[Cognition Education|认知教育信托]]人兼 [[Teach First New Zealand|TFNZ]] 高级顾问 Margaret Bendall、[[Charter Schools|特许学校]]委员会委员兼 [[New Zealand Initiative|NZI]] 顾问 John Taylor 等跨界[[Academic-Administrator Entrepreneurs|学者官员]]。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 55–56)]]
+> - **教育咨询专家委员会** 吸纳科[[Cognition Education|认知教育信托]]人兼 [[Teach First New Zealand|TFNZ]] 高级顾问 Margaret Bendall、[[Charter Schools|特许学校]]委员会委员兼 [[New Zealand Initiative|NZI]] 顾问 John Taylor et al. 跨界[[Academic-Administrator Entrepreneurs|学者官员]]。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 55–56)]]
 
 > [!pathways] 业务运行机制
 > - **风险投资式尽职调查** 拒绝公开被动接受零散资助申请，由投资团队主动物色能够实现全系统规模扩张且具有显著辐射效应的教育项目并展开严格的商业尽调。
@@ -119,8 +119,8 @@ updated: 2026-11-11
 > - **固化国家部分补贴政策转向** 为政府放弃基础教育全额公费兜底责任、鼓励学校寻求社会资本配套提供了现实退路。
 
 > [!stat-cards]- 核心规模数据
-> - **$100,000,000 NZD** 基金会成立时注资的专属项目资金总额。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 55)]]
-> - **10 yr** 基金会确立的将全部资本散尽并发放完毕的激进存续周期。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 55)]]
+> - **$100M** 基金会成立时注资的专属项目资金总额（新西兰元）。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 55)]]
+> - **10** 基金会确立的将全部资本散尽并发放完毕的激进存续周期（年）。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 55)]]
 
 ---
 

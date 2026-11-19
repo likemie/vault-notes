@@ -10,7 +10,7 @@ title: "Argument_Zheng_2023_ShanghaiSanlian_Ch05"
 argument_key: "Argument_Zheng_2023_ShanghaiSanlian_Ch05"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book-chapter"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -34,6 +34,7 @@ sources:
   - "[[books/Zheng_2023_ShanghaiSanlian/Zheng_2023_ShanghaiSanlian|Zheng_2023_ShanghaiSanlian]]"
 part_of: "[[Argument_Zheng_2023_ShanghaiSanlian]]"
 related_concepts:
+  - "[[Instrumental Rationality]]"
   - "[[Work Meaning Schemas]]"
   - "[[Discourse]]"
   - "[[Self-Driven Mode]]"
@@ -72,13 +73,13 @@ related_facts:
   - "[[Gaokao]]"
 status: draft
 created: 2026-11-17
-updated: 2026-11-17
+updated: 2026-11-19
 ---
 
 ---
 
 > [!question]
-> 为什么考入顶尖名校的学生在面对未来生涯抉择时，对工作意义的理解与长远目标的设定会产生深层的分化与迷茫？名校大学生从外部社会环境中汲取了哪些文化资源来建构自身工作的价值感与意义感？价值信念在工具理性的目的-手段行动中扮演何种前置导引角色？当行动策略能力与价值信念驱动力相互交织时，如何塑造出四种截然不同的毕业出路产生机制？在市场体制与政府体制并存的二元精英流动格局下，弱势阶层学子如何借助大学与体制的赞助性流动实现阶层突围？
+> 为什么考入顶尖名校的学生在面对未来生涯抉择时，对工作意义的理解与长远目标的设定会产生深层的分化与迷茫？名校大学生从外部社会环境中汲取了哪些文化资源来建构自身工作的价值感与意义感？价值信念在[[Instrumental Rationality|工具理性]]的目的-手段行动中扮演何种前置导引角色？当行动策略能力与价值信念驱动力相互交织时，如何塑造出四种截然不同的毕业出路产生机制？在市场体制与政府体制并存的二元精英流动格局下，弱势阶层学子如何借助大学与体制的赞助性流动实现阶层突围？
 
 > [!claim] 核心主张
 > 大学生毕业出路的生成受制于做事策略能力与价值信念驱动力的双重塑造。通过对 70 位名校毕业生的 216 处访谈编码进行归纳，学生理解工作意义与确立生涯目标的微观机制展现出明确规律：
@@ -234,25 +235,26 @@ updated: 2026-11-17
 > [!claim|step] 论证步骤三　做事策略能力与价值信念强弱相互组合，塑造出四种不同的毕业去向机制
 > 大学生能否找到满意的出路，取决于两件事：手头有没有实现目标的有效手段（行动策略能力），心里有没有明确坚定的追求（价值信念驱动力）。将这两个维度交叉组合，就构成了划分名校生毕业出路的 2×2 四分类模型 (Swidler, 1986; Weber, 1946; pp. 279–280)。
 
-> [!quad-grid|axes] 大学生出路产生机制的 2×2 四分类模型
+> [!quad-grid|axes] 图 5-4　大学生出路产生机制的 2×2 四分类模型 (p. 280, 图 4)
 > <div class="quad-axis-key"><span>横轴：价值信念驱动力（向右增强）</span><span>纵轴：行动策略能力（向上增强）</span></div>
+>
 > - **机会主义者（[[Opportunist Mode]]）**
 >   高策略能力、弱功利信念。熟稔大学与职场规则，以最少精力博取高绩点与丰富实习，追逐世俗高薪职位 (pp. 283–285)。
-> - **自主驱动者（Self-Driven Mode）**
+> - **[[Self-Driven Mode|自主驱动者]]（Self-Driven Mode）**
 >   高策略能力、强自洽信念。依托家庭资本托底，敢于试错并追求热爱，进入门槛极高的精英职业或学术深造 (pp. 280–283)。
-> - **迷失无从者（Lost Mode）**
+> - **[[Lost Mode|迷失无从者]]（Lost Mode）**
 >   低策略能力、弱游离信念。缺乏求职常识与社会网络，深陷观念冲突且错失决策窗口期，被迫延毕或仓促升学 (pp. 285–288)。
-> - **价值归顺者（Value Conformist Mode）**
+> - **[[Value Conformist Mode|价值归顺者]]（Value Conformist Mode）**
 >   低策略能力、强体制信念。高度认同学校主流价值，依托组织庇护与体制内选拔渠道实现阶层突围 (pp. 288–292)。
+
+> [!figure]- 原书图 5-4 影印：大学生出路产生机制的四分类 (p. 280, 图 4)
+> ![](https://img.mylikemie.icu/books/Zheng_2023_ShanghaiSanlian/figures/Figure_05_04_Four_Types.jpg)
+> 以纵轴（目的-手段行动力/家庭背景）与横轴（价值信念驱动力）构建的 2×2 出路发生机制模型，划定自主驱动者、机会主义者、迷失无从者与价值归顺者四个象限。
 
 > [!sub-claim] 1. 策略能力决定手段丰富度，价值信念决定目标坚定度，二者共同打破单一家庭决定论
 
 > [!warrant]- 目的与手段的双维分离机制
 > 行动策略能力考察学生懂得多少大学与职场规则，这往往与原生家庭的资源储备密切相关；价值信念驱动力则考察学生是否有清晰自洽的人生目标。两者相互独立又紧密咬合：手段高超但没有追求，容易变成纯粹的功利投机；有[[The Sublime|崇高]]理想但缺乏手段，只能被动顺从体制安排；两者兼备能自主达成抱负；两者皆无则陷入盲目迷茫 (图 5-4, p. 280)。
-
-> [!figure]- 图 5-4　大学生出路产生机制的四分类 (p. 280, 图 4)
-> ![](https://img.mylikemie.icu/books/Zheng_2023_ShanghaiSanlian/figures/Figure_05_04_Four_Types.jpg)
-> 以纵轴（目的-手段行动力/家庭背景）与横轴（价值信念驱动力）构建的 2×2 出路发生机制模型，划定自主驱动者、机会主义者、迷失无从者与价值归顺者四个象限。
 
 > [!sub-claim] 2. 价值信念为行动指明轨道，文化工具则提供实现手段，两者相辅相成
 

@@ -48,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-22
-updated: 2026-11-02
+updated: 2026-11-19
 ---
 
 ---
@@ -102,11 +102,6 @@ updated: 2026-11-02
 > 理论导向型研究平台主要由政府和大学主导，聚焦于中国—东盟职业教育的基础理论与战略研究。以中国—东盟职业教育研究中心为例，其基本定位是面向中国与东盟国家开展前沿学术研究、提供决策咨询服务、承担精准专业培训并构筑国际化平台；伴随合作深化，中心进一步设立了以文莱为先导的面向东盟十国的国别研究所，形成了针对东盟职业教育的深度综合研究格局。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, p. 293)]]
 >
 > *Among these, the research platforms guided by theory are largely led by governments, universities and so on, and this type of platform focuses on basic theoretical research on Chinese-ASEAN vocational education: In the example of the Center for Research on Chinese-ASEAN Vocational Education, the basic orientation of this center is geared toward engagement in cutting-edge academic research on China and the nations of ASEAN, providing consulting services for policy decisions, undertaking precise, specialized training, and building internationalized platforms. In recent years... ten country-specific research institutes focusing on the ten nations of ASEAN have furthermore been established, with Brunei in the lead...*
-
----
-
-> [!stat-cards]- 核心规模数据
-> - **10** （个） 建立的覆盖东盟十国（文莱、柬埔寨、印尼、老挝、马来西亚、缅甸、菲律宾、新加坡、泰国、越南）的国别职业教育研究所总数。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, p. 293)]]
 
 ---
 

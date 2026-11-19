@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -99,10 +99,6 @@ updated: 2026-11-11
 > 1. **基础科研组织[[Paradigm|范式]]转型** 成功打破了传统自然科学领域个人 PI 单打独斗的科研局限，构建起能够承担大跨度基础科学难题攻坚的实体跨学科平台。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 366, 369)]]
 > 2. **催生重大前沿科学集群** 在先进材料、光电子、基因测序与复杂气候系统模拟等战略领域形成具有全球影响力的科学高地。
 > 3. **跨学科拔尖人才摇篮** 培养了大批兼具深厚基础理论与跨学科工程协作视野的高阶博士后与青年科学家。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 370)]]
-
-> [!stat-cards]- 关键实证数据
-> - **7.96** 2003 财年 [[National Science Foundation|NSF]] 工程学部 EEC 对 STC 子项目直接拨付的经费规模（百万美元）。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 369)]]
-> - **10** NSF 设定的中心最长资助年限（5 年初始期 + 5 年续约期），严格执行[[Sunset Provisions|日落条款]]。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 374)]]
 
 ---
 

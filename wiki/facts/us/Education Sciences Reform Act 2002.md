@@ -147,9 +147,6 @@ updated: 2026-11-19
 > - **明确方法契合问题原则** 法案在条文中写入“根据所开展研究的具体情况”与“采用与所提出[[Research Question|研究问题]]相契合的研究设计与方法”，标志着联邦立法承认[[Scientific Method|科学方法]]不能先验钦定，而必须由研究问题的[[Epistemology|认识论]]属性决定。
 > - **行政执行层面的因果偏好惯性** 尽管法定标准相对包容，但美国教育部 2002–2007 年战略规划仍明确要求到 2004 年 75% 的因果资助项目必须采用[[Random Assignment|随机分配]]；在 2002 财年，[[Institute of Education Sciences|IES]] 资助的全部因果主张项目均采用了随机设计，显示出行政执行规程对立法意图的偏向性收紧。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 34–36)]]
 
-> [!stat-cards]- 核心数据
-> - **75% / 100%** 联邦教育部规划设定的因果研究随机分配资助目标比例，以及 IES 在 2002 财年针对[[Causality|因果推断]]主张实际资助项目中采用随机分配设计的比例。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, p. 34)]]
-
 ---
 
 > [!debates] 政策争议

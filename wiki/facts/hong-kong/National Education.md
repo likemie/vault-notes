@@ -10,7 +10,7 @@ subtype: policy
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "policy"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[One Country, Two Systems]]"
   - "[[Academic Freedom]]"
   - "[[Psychologisation]]"
+  - "[[Alienation]]"
   - "[[Sinicisation]]"
   - "[[Avatar]]"
   - "[[Patriotic Education]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-01
-updated: 2026-11-02
+updated: 2026-11-19
 ---
 
 ---
@@ -143,12 +144,8 @@ updated: 2026-11-02
 
 > [!finding-cards] 效果与评价
 > - **教育成员资格创生功能的制度升级** 香港国民教育从回归初期的温和浸润转变为 2020 年后的强制推行，体现出现代民族国家教育的成员资格创生功能在运作强度上的显著切换，以教育划定政治忠诚边界，强化国家建构。[[Argument_Amos_2022_Springer|(Amos, 2022, pp. 54–55)]]
-> - **青年不满的[[Psychologisation|心理化]]治理转向** 特区政府出台《青年发展蓝图》并推进“我的行动承诺”活动，将青年群体的政治疏离与社会抗争重构为个体心理适应问题，通过强调感恩态度与生活满意度，弱化对深层制度矛盾的批判思考。[[Argument_Vickers_2024_CE|(Vickers, 2024, pp. 153–154)]]
+> - **青年不满的[[Psychologisation|心理化]]治理转向** 特区政府出台《青年发展蓝图》并推进“我的行动承诺”活动，将青年群体的政治[[Alienation|疏离]]与社会抗争重构为个体心理适应问题，通过强调感恩态度与生活满意度，弱化对深层制度矛盾的批判思考。[[Argument_Vickers_2024_CE|(Vickers, 2024, pp. 153–154)]]
 > - **边疆民族同质化治理逻辑的跨区外延** 比较学者将香港国民教育与西藏、新疆及内蒙古的边疆教育并置考察，揭示通过普及标准语言与统编历史教材推行统一“[[Zhonghua Minzu|中华民族]]”认同的系统性治理逻辑，在香港体现为由温和渗透走向制度性强制的推进策略。[[Argument_Yan_2025_JCS|(Yan & Morris, 2025, pp. 489–492)]]; [[Argument_Bulag_2024_CE|(Bulag, 2024)]]
-
-> [!stat-cards]- 核心数据
-> - **2012 vs 2020** 2012 年反国教运动成功迫使特区政府搁置 MNE 必修；2020 年《香港国安法》实施后，社会公开抗争空间大幅收窄，国民教育以极高行政效能实现全盘制度化。[[Argument_Yan_2025_JCS|(Yan & Morris, 2025, pp. 491–492)]]
-> - **100%** 全港高中学生全员转轨修读公民与社会发展科，取消等级赋分制，改为公开考试“达标 / 不达标”的资格考核。[[Argument_Vickers_2024_CE|(Vickers, 2024, pp. 147–148)]]
 
 ---
 

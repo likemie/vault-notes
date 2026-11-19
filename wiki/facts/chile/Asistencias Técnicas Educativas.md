@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -111,10 +111,6 @@ updated: 2026-11-15
 > - **应试导向的短期化服务偏向** 实证调研证实，大量 ATE 机构为迎合校方的迫切达标诉求，过度提供围绕 SIMCE 考题类型的刷题技巧与模拟测验，挤压了长效深度的学校[[Organizational Culture|组织文化]]改进。（Osses, Bellei, & Valenzuela, 2015; [[Argument_Verger_2019_Discourse|Verger et al., 2019, p. 259]]）
 > - **政策支持群体的制度化锁定** ATE 体系催生了庞大的商业利益集团，这些主体通过游说与政策互动，积极捍卫[[Test-Based Accountability|基于测验的问责制]]度（Test-Based Accountability, TBA），形成阻碍政策反思的制度[[Path Dependence|锁定效应]]。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 259–260)]]
 > - **基层专业自主权的被动稀释** 外部标准化的教学处方入校实施，容易将一线专任教师矮化为被动执行外部商业方案的工匠，削弱了教师的本土教学裁量权。
-
-> [!stat-cards]- 关键实证数据
-> - **2008** 智利通过 SEP 法案确立 ATE 采购制度的年份。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 259)]]
-> - **1000+** 智利教育部登记在册的[[Asistencias Técnicas Educativas|外部技术教育支持机构]]数量峰值。
 
 ---
 

@@ -10,7 +10,7 @@ subtype: program
 region: "us"
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Metascience]]"
   - "[[Data Infrastructure]]"
   - "[[Champ]]"
+  - "[[Typicality]]"
   - "[[Patent Citation]]"
   - "[[Clinical Trial]]"
   - "[[Document]]"
@@ -59,7 +60,7 @@ related_arguments:
   - "[[Argument_Lin_2023_SciData]]"
 confidence: high
 status: active
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -99,7 +100,7 @@ updated: 2026-11-11
 
 > [!dev-timeline] 项目推进历程
 > - **2021–2022 — 原始图谱抽取与清洗算法研发期** 锁定[[Microsoft Academic Graph|微软学术图谱]] 2021 年终版数据，研发成果家族聚合算法与内部引文重算规程，建立美国国家科学基金会（National Science Foundation, NSF）非结构化引文字符串解析流水线。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
-> - **2022–2023 — 大规模高通量指标解算与交叉验证期** 全量解算 4800 万篇论著的颠覆性得分与 4400 万篇期刊成果的共引非典型性 Z 分数，与 Dimensions 商业数据库开展跨库交叉验证。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
+> - **2022–2023 — 大规模高通量指标解算与交叉验证期** 全量解算 4800 万篇论著的颠覆性得分与 4400 万篇期刊成果的共引非[[Typicality|典型性]] Z 分数，与 Dimensions 商业数据库开展跨库交叉验证。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 > - **2023–至今 — 开放平台上线与共同体开源运营** 数据湖正式通过 Figshare 与《科学数据》对全球学术共同体免费开放，持续支持跨学科量化科学学研究。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 
 ---
@@ -128,9 +129,9 @@ updated: 2026-11-11
 > - **公共资助与产业渗透的可见性** 揭示了基础科研受公共资助的持续支撑格局及其向专利和临床医疗转化的长程路径。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 
 > [!stat-cards]- 关键实证数据
-> - **134,129,188 篇** 核心主出版物收录总量。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
-> - **1,588,739,703 条** 核心文献集内部引文对。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
-> - **38,740,313 条** 专利引用科学文献关联记录。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
+> - **134,129,188** 核心主出版物收录总量（篇）。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
+> - **1,588,739,703** 核心文献集内部引文对数量（条）。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
+> - **38,740,313** 专利引用科学文献关联记录数（条）。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 > - **0.991** 引文重新配赋前后的斯皮尔曼等级相关系数。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 
 ---

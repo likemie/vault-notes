@@ -310,12 +310,8 @@ updated: 2026-11-19
 
 > [!stat-cards]- 核心规模数据
 > - **189** （个） 截至目前的正式成员国总数。
-> - **15–30 yr** 主权开发贷款的典型偿还周期，还款期限远超商业银行。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 456–457)]]
-> - **1 pp** 在国际债券融资成本基础上额外加收的转贷利差，仅用于维系机构日常人员薪资开销以实现保本运营。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 456)]]
 > - **1/3** 1980 年代世界银行激进强推[[Structural Adjustment Programs|结构调整政策]]附加条件时期，陷入低效与停摆危机的教育借贷项目组合比例。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 466)]]
 > - **1,120** （项） 教育投资回报率数据库整合的 139 国微观计量估算总数。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 542, 548)]]
-> - **1,600** （项） [[World Development Indicators|世界发展指标]]（WDI）数据库涵盖的宏观指标总数。
-> - **3×** 世界银行教育学术产出达到全球前 13 所高产大学均值的倍数。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 6)]]
 > - **6,900+** （份） 开放知识库（OKR）收录的免费教育学术[[Document|文献]]总数，累计下载近 900 万次。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 7)]]
 > - **3,261** （项） [[EdStats|教育统计查询系统]]（EdStats）整合的跨国可比教育指标数量。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 7)]]
 > - **10,000+** （个） 1947 年以来世界银行发起的教育项目总数，总投资累计达 690 亿美元。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 9)]]

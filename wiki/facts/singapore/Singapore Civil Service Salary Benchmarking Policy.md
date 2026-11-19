@@ -11,7 +11,7 @@ subtype: policy
 region: singapore
 fact_region: "singapore"
 fact_kind: "policy"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Competitiveness]]"
   - "[[The Sublime]]"
+  - "[[Asceticism]]"
   - "[[Technological Republic]]"
 related_persons:
   - "[[Lee Kuan Yew]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 ---
@@ -100,10 +101,9 @@ updated: 2026-11-14
 
 > [!finding-cards] 核心政策发现
 > - **高薪与严惩相结合彻底铲除腐败土壤** 市场化报酬使公职人员无需依靠隐性寻租维持生活尊严，辅以严惩形成强大震慑。
-> - **打破西方公职道德禁欲主义悖论** 卡普与扎米斯卡指出，西方限制公职薪酬导致政坛被巨富阶层垄断或引发离职变现潮；新加坡模式证明了激励现实主义在维持国家治理能力中的关键作用。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 180–183)]]
+> - **打破西方公职道德[[Asceticism|禁欲主义]]悖论** 卡普与扎米斯卡指出，西方限制公职薪酬导致政坛被巨富阶层垄断或引发离职变现潮；新加坡模式证明了激励现实主义在维持国家治理能力中的关键作用。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 180–183)]]
 
-> [!stat-cards]- 关键政策数据
-> 新加坡部长平均年薪于 2007 年达到 126 万美元；国家清廉指数连续数十年稳居全球前五、亚洲第一。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]
+新加坡部长平均年薪于 2007 年达到 126 万美元；国家清廉指数连续数十年稳居全球前五、亚洲第一。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]
 
 ---
 
