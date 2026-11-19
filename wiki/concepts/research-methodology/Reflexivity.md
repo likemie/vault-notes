@@ -116,7 +116,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-14
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -285,7 +285,7 @@ updated: 2026-11-15
 ---
 
 > [!dev-timeline] 概念演变
-> - **1960s–1970s — [[Phenomenology|现象学]]与[[Ethnomethodology|俗民方法学]]奠基** 舒茨（[[Alfred Schutz]]）提出回顾性赋予意义的时间性反思理论（Schutz, 1967）；加芬克尔（[[Harold Garfinkel]]）确立社会说明与情境相互依存的构成性反身性（Garfinkel, 1967）。
+> - **1960s–1970s — [[Phenomenology|现象学]]与[[Ethnomethodology|俗民方法学]]的理论确立** 舒茨（[[Alfred Schutz]]）提出回顾性赋予意义的时间性反思理论（Schutz, 1967）；加芬克尔（[[Harold Garfinkel]]）确立社会说明与情境相互依存的构成性反身性（Garfinkel, 1967）。
 > - **1980s — [[Ethnography|民族志]]反思浪潮与工具确立** 哈默斯利与阿特金森（Hammersley & Atkinson, 1983）确立“研究者即卓越工具”的方法论命题；阿什莫尔（Ashmore, 1989）提出[[Discourse Analysis|话语分析]]的双重反身性，反身性进入[[Qualitative Research|质性研究]]核心。
 > - **1990s — 批判转向与[[Emancipatory Action Research|解放性行动研究]]** 霍尔（Hall, 1996）与匡茨（Quantz, 1992）等学者将反身性融入解放性[[Action Research|行动研究]]与[[Critical Ethnography|批判民族志]]，反身性被提升为打破支配结构、揭示利益偏倚的[[Epistemology|认识论]]基石。
 > - **2000s–2010s — 质性写作规范与[[Operationalization|操作化]]** 克雷斯威尔（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）与沃尔福德（Walford, 2001）推动反身性操作化，确立研究者位置性陈述、第一人称主体叙事规范，并划定克制个人自传性暴露的理论边界。
