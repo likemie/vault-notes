@@ -68,6 +68,21 @@ function classifyNote(path, type, rules) {
   return match?.id ?? "other";
 }
 
+function recordedDate(value, source) {
+  if (value instanceof Date && Number.isFinite(value.getTime())) {
+    const iso = value.toISOString();
+    value = iso.endsWith("T00:00:00.000Z") ? iso.slice(0, 10) : iso;
+  }
+  if (typeof value !== "string") return null;
+  const match = /^(\d{4}-\d{2}-\d{2})(?:[T ](\d{2}:\d{2}(?::\d{2}(?:\.\d+)?)?(?:Z|[+-]\d{2}:?\d{2})?))?$/.exec(value.trim());
+  if (!match) return null;
+  const [, day, clock] = match;
+  const utc = Date.parse(day + "T00:00:00Z");
+  if (!Number.isFinite(utc) || new Date(utc).toISOString().slice(0, 10) !== day) return null;
+  const ms = Date.parse(day + "T" + (clock ?? "00:00:00"));
+  return Number.isFinite(ms) ? { ms, day: clock ? null : day, source } : null;
+}
+
 function collectNotes(paths, vault, metadata, config) {
   const include = config.includeFolders.map(normalizedPath);
   const exclude = config.excludeFolders.map(normalizedPath);
@@ -88,10 +103,14 @@ function collectNotes(paths, vault, metadata, config) {
     const folder = path.slice(0, Math.max(0, path.lastIndexOf("/")));
     const name = [fields.argument_display_title, fields.title]
       .find(value => typeof value === "string" && value.trim())?.trim() || file.basename;
-    const createdMs = file.stat.ctime > 0 && Number.isFinite(file.stat.ctime) ? file.stat.ctime : null;
-    const modifiedMs = file.stat.mtime > 0 && Number.isFinite(file.stat.mtime) ? file.stat.mtime : null;
+    const isSource = pathWithin(key, "sources") || pathWithin(key, "books");
+    const creation = recordedDate(fields.created, "创建日期（created）") ??
+      (isSource ? recordedDate(fields.processed_date, "入库日期（processed_date）") : null);
+    const mtime = file.stat.mtime;
+    const modification = recordedDate(fields.updated, "更新日期（updated）") ??
+      (Number.isFinite(mtime) && mtime > 0 ? { ms: mtime, day: null, source: "文件修改时间" } : null);
     notes.push({
-      path, name, folder, createdMs, modifiedMs, fields,
+      path, name, folder, creation, modification, fields,
       type: classifyNote(key, fields.type, rules),
       search: (name + "\n" + path).normalize("NFC").toLowerCase(),
     });
@@ -107,49 +126,48 @@ function localDay(now, offset = 0) {
 }
 
 function withinTime(ms, start, end) {
-  return ms !== null && ms >= start && ms <= end;
+  return ms != null && ms >= start && ms <= end;
 }
 
 function computeOverview(notes, now) {
   const today = localDay(now);
   const week = localDay(now, -((new Date(now).getDay() + 6) % 7));
-  const overview = { total: notes.length, created: 0, modified: 0, week: 0 };
+  const overview = { total: notes.length, created: 0, modified: 0, week: 0, undated: 0 };
   for (const note of notes) {
-    const createdToday = withinTime(note.createdMs, today, now);
+    if (!note.creation) overview.undated++;
+    const createdToday = withinTime(note.creation?.ms, today, now);
     if (createdToday) overview.created++;
-    else if (withinTime(note.modifiedMs, today, now)) overview.modified++;
-    if (withinTime(note.createdMs, week, now)) overview.week++;
+    else if (withinTime(note.modification?.ms, today, now)) overview.modified++;
+    if (withinTime(note.creation?.ms, week, now)) overview.week++;
   }
   return overview;
 }
 
-function activityTime(note, mode, now) {
-  if (mode === "created") return note.createdMs;
-  if (mode === "modified") return note.modifiedMs;
-  const start = localDay(now);
-  const created = withinTime(note.createdMs, start, now) ? note.createdMs : null;
-  const modified = withinTime(note.modifiedMs, start, now) ? note.modifiedMs : null;
-  return Math.max(created ?? 0, modified ?? 0) || null;
+function activityDate(note, mode, start, now) {
+  if (mode === "created") return note.creation;
+  if (mode === "modified") return note.modification;
+  const created = withinTime(note.creation?.ms, start, now) ? note.creation : null;
+  const modified = withinTime(note.modification?.ms, start, now) ? note.modification : null;
+  return !modified || (created && created.ms >= modified.ms) ? created : modified;
 }
 
 function queryActivity(notes, filters, now, activityOrders) {
   const orderKey = filters.mode + filters.sort;
   if (!activityOrders.has(orderKey)) {
     const direction = filters.sort === "asc" ? 1 : -1;
-    const entries = notes.map(note => ({ note, time: activityTime(note, filters.mode, now) }));
+    const today = localDay(now);
+    const entries = notes.map(note => ({ note, date: activityDate(note, filters.mode, today, now) }));
     entries.sort((a, b) => {
-      if (a.time === null || b.time === null) {
-        if (a.time !== b.time) return a.time === null ? 1 : -1;
-      }
-      return direction * (a.time - b.time) || COLLATOR.compare(a.note.path, b.note.path);
+      if (Boolean(a.date) !== Boolean(b.date)) return a.date ? -1 : 1;
+      return direction * ((a.date?.ms ?? 0) - (b.date?.ms ?? 0)) || COLLATOR.compare(a.note.path, b.note.path);
     });
     activityOrders.set(orderKey, entries);
   }
   const query = filters.search.trim().normalize("NFC").toLowerCase();
   const start = filters.window === "all" ? -Infinity : localDay(now, filters.window === "today" ? 0 : 1 - Number(filters.window));
-  const matches = activityOrders.get(orderKey).filter(({ note, time }) =>
-    (filters.mode !== "today" || time !== null) &&
-    (filters.window === "all" || withinTime(time, start, now)) &&
+  const matches = activityOrders.get(orderKey).filter(({ note, date }) =>
+    (filters.mode !== "today" || date !== null) &&
+    (filters.window === "all" || withinTime(date?.ms, start, now)) &&
     (!filters.type || filters.type === note.type) &&
     (!filters.folder || pathWithin(note.folder, filters.folder)) &&
     (!query || note.search.includes(query))
@@ -171,7 +189,7 @@ function computeDailySeries(notes, now, days, mode) {
   for (let offset = 1 - days; offset <= 0; offset++) counts.set(localDay(now, offset), 0);
   const start = localDay(now, 1 - days);
   for (const note of notes) {
-    const time = mode === "created" ? note.createdMs : note.modifiedMs;
+    const time = (mode === "created" ? note.creation : note.modification)?.ms;
     if (!withinTime(time, start, now)) continue;
     const day = localDay(time);
     counts.set(day, counts.get(day) + 1);
@@ -384,13 +402,13 @@ function renderActivityTable(parent, rows, mode, types, now, app) {
   const table = element(parent, "table", "kd-table");
   table.setAttribute("aria-label", "最近活动列表");
   const heading = element(table.createTHead(), "tr");
-  const timeHeading = mode === "created" ? "创建时间" : mode === "modified" ? "修改时间" : "活动时间";
+  const timeHeading = mode === "created" ? "新建日期" : mode === "modified" ? "修改时间" : "活动时间";
   for (const label of ["笔记标题", "类型", "所在目录", timeHeading]) {
     const th = element(heading, "th", "", label);
     th.scope = "col";
   }
   const body = table.createTBody();
-  for (const { note, time } of rows) {
+  for (const { note, date } of rows) {
     const row = element(body, "tr");
     const title = element(row, "td", "kd-title-cell");
     noteLink(app, title, note.path, note.name, note.name + "\n" + note.path);
@@ -399,10 +417,12 @@ function renderActivityTable(parent, rows, mode, types, now, app) {
     element(row, "td", "kd-muted", types.get(note.type) ?? "其他");
     element(row, "td", "kd-muted", note.folder || "根目录").title = note.folder || "根目录";
     const timeCell = element(row, "td", "kd-time-cell");
-    const date = element(timeCell, time === null ? "span" : "time", "kd-muted", timeLabel(time, now));
-    if (time !== null) {
-      date.dateTime = new Date(time).toISOString();
-      date.title = EXACT_TIME.format(time);
+    if (date) {
+      const shown = element(timeCell, "time", "kd-muted", date.day ?? timeLabel(date.ms, now));
+      shown.dateTime = date.day ?? new Date(date.ms).toISOString();
+      shown.title = (date.day ?? EXACT_TIME.format(date.ms)) + " · " + date.source;
+    } else {
+      element(timeCell, "span", "kd-muted", "日期未知");
     }
   }
 }
@@ -412,16 +432,17 @@ function renderOverview(parent, notes, now) {
   const overview = computeOverview(notes, now);
   const metrics = [
     ["知识总量", overview.total, "统计范围内的 Markdown 笔记"],
-    ["今日新增", overview.created, "今天创建的笔记"],
-    ["今日更新", overview.modified, "今天修改的旧笔记"],
-    ["本周新增", overview.week, "本周一零时起创建的笔记"],
+    ["今日新增", overview.created, "创建或入库日期为今天的笔记"],
+    ["今日更新", overview.modified, "今天修改且未计入今日新增的笔记"],
+    ["本周新增", overview.week, "自本周一创建或入库的笔记"],
   ];
   for (const [label, value, hint] of metrics) {
     const cell = element(box, "div", "kd-metric");
     element(cell, "dt", "", label).title = hint;
     element(cell, "dd", "", COUNTS.format(value));
   }
-  element(parent, "p", "kd-overview-note kd-caption", "新增按文件创建时间统计，迁移或同步可能影响计数。");
+  const undated = overview.undated ? "，另有 " + COUNTS.format(overview.undated) + " 条日期未知" : "";
+  element(parent, "p", "kd-overview-note kd-caption", "新增按创建或入库日期统计" + undated + "。");
 }
 
 function svgElement(parent, tag, attributes) {
@@ -486,7 +507,8 @@ function renderTrend(parent, data, state, save) {
     for (const fraction of [0, 1 / 3, 2 / 3, 1]) {
       element(labels, "span", "", SHORT_DATE.format(series[Math.round(fraction * (series.length - 1))].date));
     }
-    const caption = element(chart, "p", "kd-caption", "按当前文件时间估算");
+    const caption = element(chart, "p", "kd-caption",
+      trend.mode === "created" ? "按记录的创建或入库日期汇总" : "按记录的更新日期或文件修改时间汇总");
     const detail = element(chart, "span", "kd-sr-only");
     detail.setAttribute("role", "status");
     let selected = null;
@@ -513,7 +535,7 @@ function renderTrend(parent, data, state, save) {
       event.preventDefault();
       show(Math.min(series.length - 1, Math.max(0, next)), true);
     });
-    caption.title = "每天汇总仍在库中的笔记。修改序列只记录各文件最后一次修改。";
+    caption.title = "每天汇总仍在库中的笔记，每条笔记在所选序列中最多计一次。";
   }
   draw();
 }
@@ -637,7 +659,6 @@ function defaultState(config) {
 async function mount() {
   const { app, container } = dv;
   const root = element(container, "div", "kd-dashboard");
-  root.dataset.ui = "";
   const loading = element(root, "p", "kd-empty", "正在读取笔记索引…");
   loading.setAttribute("role", "status");
   const { config, message } = await loadConfig(app.vault);

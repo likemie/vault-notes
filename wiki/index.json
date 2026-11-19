@@ -1536,6 +1536,18 @@
     ]
   },
   {
+    "title": "Mosaic Harmonisation",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Mosaic Harmonisation.md",
+    "aliases": [
+      "马赛克式协调",
+      "镶嵌式协调",
+      "马赛克式趋同",
+      "熔炉式协调",
+      "Melting Pot Harmonisation"
+    ]
+  },
+  {
     "title": "Multilateral Development Bank",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Multilateral Development Bank.md",
@@ -15534,6 +15546,17 @@
     ]
   },
   {
+    "title": "Normative Power Europe",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Normative Power Europe.md",
+    "aliases": [
+      "规范性力量欧洲",
+      "规范力量欧洲",
+      "NPE",
+      "规范欧洲"
+    ]
+  },
+  {
     "title": "Nosotros los Americanos",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Nosotros los Americanos.md",
@@ -21481,6 +21504,19 @@
     "aliases": [
       "精英休克",
       "精英冲击"
+    ]
+  },
+  {
+    "title": "The Strength of Weak Ties",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/The Strength of Weak Ties.md",
+    "aliases": [
+      "弱连接优势",
+      "弱连带优势",
+      "弱连接理论",
+      "弱关系",
+      "Strength of Weak Ties",
+      "Weak Ties"
     ]
   },
   {
@@ -41874,6 +41910,18 @@
       "Taiwan Semiconductor Manufacturing Co."
     ],
     "subtype": "organization"
+  },
+  {
+    "title": "CAMPUS Asia",
+    "type": "fact",
+    "path": "wiki/facts/east-asia/CAMPUS Asia.md",
+    "aliases": [
+      "亚洲校园",
+      "亚洲大学生集体行动交流计划",
+      "日中韩大学间交流与学生流动项目",
+      "Collective Action for Mobility Program of University Students in Asia"
+    ],
+    "subtype": "program"
   },
   {
     "title": "Fifth Generation Computer Systems",

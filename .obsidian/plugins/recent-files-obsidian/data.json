@@ -5,6 +5,10 @@
       "path": "_system/dashboard/Knowledge Dashboard.md"
     },
     {
+      "basename": "arguments",
+      "path": "bases/arguments.md"
+    },
+    {
       "basename": "Clique Percolation Method",
       "path": "wiki/methods/quantitative/Clique Percolation Method.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Dependency Theory",
       "path": "wiki/theories/comparative-education/Dependency Theory.md"
-    },
-    {
-      "basename": "Educational Meritocracy",
-      "path": "wiki/concepts/sociology-of-education/Educational Meritocracy.md"
     }
   ],
   "omittedPaths": [],

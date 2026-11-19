@@ -20,15 +20,19 @@ tags:
   - theme/inter-regionalism
 related_concepts:
   - "[[Geopolitics]]"
+  - "[[The Strength of Weak Ties]]"
   - "[[Mutual Learning]]"
+  - "[[Regionness]]"
   - "[[Heterogeneity]]"
   - "[[Paradigm]]"
   - "[[Constructivist Paradigm]]"
   - "[[Networked Regionalism]]"
+  - "[[Mosaic Harmonisation]]"
   - "[[ASEAN Way]]"
   - "[[Global Regionalisms]]"
   - "[[Unit of Analysis]]"
   - "[[Theoretical Perspective]]"
+  - "[[Normative Power Europe]]"
   - "[[Document]]"
   - "[[Grandes Ecoles]]"
   - "[[Student Mobility]]"
@@ -42,10 +46,6 @@ related_concepts:
   - "[[Virtual University]]"
   - "[[Instrumental Rationality]]"
   - "[[Bureaucracy]]"
-  - "[[Regionness]]"
-  - "[[The Strength of Weak Ties]]"
-  - "[[Normative Power Europe]]"
-  - "[[Mosaic Harmonisation]]"
 related_theories:
   - "[[Comparative Regionalism]]"
   - "[[Human Capital Theory]]"
@@ -87,10 +87,10 @@ title: "Argument_Dang_2017_ORE"
 argument_key: "Argument_Dang_2017_ORE"
 argument_display_title: "Regionalising higher education for repositioning Southeast Asia"
 argument_kind: "journal-article"
-argument_related_count: 46
-argument_related_level: 4
-argument_related_stars: "💎⭐"
-argument_related_color: "#dbeafe"
+argument_related_count: 50
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 journal: "Oxford Review of Education"
 book_title: ""
 publication_place: ""
@@ -104,7 +104,7 @@ issuing_organization: ""
 > 在成员国宗教信仰、语言文化、政治体制与经济发展水平高度异质且缺乏超国家行政实体的背景下，[[ASEAN|东南亚国家联盟]]（Association of Southeast Asian Nations, ASEAN）究竟通过何种具体机制推进内部高等教育整合、拓展东盟与中日韩（ASEAN Plus Three, ASEAN+3）次区域协作并参与[[Asia-Europe Meeting|亚欧会议]]（Asia-Europe Meeting, ASEM）跨洲对话？这些机制如何促使区域行动者重塑自我与他者认知，并推动东南亚在国际地缘格局中实现集体重新定位？
 
 > [!claim] 核心主张
-> 区域不仅由[[Geopolitics|地缘政治]]或市场等物质力量塑造，更由规范与认同等文化观念结构动态建构（Acharya, 2012b; Katzenstein, 2005; Söderbaum, 2016）。东南亚依托非正式弱连接网络，在内部推行以自愿包容为原则的协调机制、对中日韩实施规范互动的双向社会化、对欧洲展开平权对话的[[Mutual Learning|互学互鉴]]，三项机制协同推动东南亚从基于地理邻近的自在区域演进为具备集体行动自觉的自为区域。
+> 区域不仅由[[Geopolitics|地缘政治]]或市场等物质力量塑造，更由规范与认同等文化观念结构动态建构（Acharya, 2012b; Katzenstein, 2005; Söderbaum, 2016）。东南亚依托[[The Strength of Weak Ties|非正式弱连接]]网络，在内部推行以自愿包容为原则的协调机制、对中日韩实施规范互动的双向社会化、对欧洲展开平权对话的[[Mutual Learning|互学互鉴]]，三项机制协同推动东南亚在[[Regionness|区域度]]（Regionness）层级上发生历史性转变，从基于地理邻近的自在区域演进为具备集体行动自觉的自为区域。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 东南亚国家联盟（ASEAN）及其主导发起的东盟与中日韩（ASEAN+3）及亚欧会议（ASEM）跨洲高等教育合作实践。
@@ -116,14 +116,18 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
+> | **[[Regionness\|区域度]]**<br>[[Regionness]] | 赫特内与瑟德鲍姆提出的五级区域度演进模型，阐释东南亚如何从被动承受外部经贸冲击的“自在区域”转变为拥有战略自觉与自决主体性的“自为区域”（Hettne & Söderbaum, 2000; Hettne, 2005）。 |
+> | **[[The Strength of Weak Ties\|弱连接优势]]**<br>[[The Strength of Weak Ties]] | 格兰诺维特在网络社会学中提出的命题，解释多元异质的非西方区域如何在缺乏常设超国家行政总署的情境下依托横向松散网络降低主权防备、培育战略互信（Granovetter, 1973; Yeo, 2010）。 |
 > | **[[Networked Regionalism\|网络化区域主义]]**<br>[[Networked Regionalism]] | 提炼依托弱连接、非正式磋商与议题导向领导权展开的治理形态，解释多元异质成员国在避免紧密层级制约的同时维系战略协同的制度逻辑（Granovetter, 1973; Yeo, 2010）。 |
+> | **[[Mosaic Harmonisation\|马赛克式协调]]**<br>[[Mosaic Harmonisation]] | 黑田一雄提出的比较高教一体化概念，与欧洲熔炉式趋同对照，阐明东盟如何在保护成员国教育主权的前提下依托转换接口实现求同存异与交响协奏（Kuroda, 2009）。 |
 > | **[[ASEAN Way\|东盟方式]]**<br>[[ASEAN Way]] | 提供以不干涉内政、非正式磋商与协商一致为准则的行为规范，解释协调机制如何在包容多样性的前提下演化为具有广泛正当性的区域规范（Acharya, 2001; Acharya, 2005; Stubbs, 2009）。 |
 > | **[[Global Regionalisms\|高等教育区域主义]]**<br>[[Global Regionalisms]] | 确立将高等教育政策部门作为[[Unit of Analysis\|分析单位]]的[[Theoretical Perspective\|理论视角]]，阐明教育合作如何从最初服务于经贸增长转向主动生产区域认同与地缘再定位（Söderbaum, 2016）。 |
 > | **[[Comparative Regionalism\|比较区域主义]]**<br>[[Comparative Regionalism]] | 突破欧洲中心主义的超国家整合模板，比较欧洲刚性制度一体化与东南亚柔性网络模式的治理哲学差异（Acharya, 2012a; Yeo, 2010）。 |
+> | **[[Normative Power Europe\|规范性力量欧洲]]**<br>[[Normative Power Europe]] | 曼纳斯提出的对外规范输出范式，揭示欧盟视博洛尼亚为全球典范并试图输出的单向霸权逻辑，以及该逻辑在亚欧对等互学中的瓦解（Manners, 2002）。 |
 > | **[[Mutual Learning\|互学互鉴]]**<br>[[Mutual Learning]] | 解释跨区域对话中平权伙伴关系的建构逻辑，阐明亚洲行动者如何通过重塑自我与他者认知抵御外部政策单向输入（Doidge, 2007; Manners, 2002）。 |
 
 > [!warrant]- 理论如何支撑论证
-> 社会建构主义与新区域主义方法强调区域属于社会、经济与政治的建构产物，观念与规范结构深刻规定了行动者的身份认同与利益边界（Acharya, 2012b; Checkel, 1999; Söderbaum, 2016）。网络化区域主义与弱连接概念将宏观外交规范与微观高等教育实践紧密连接（Granovetter, 1973; Yeo, 2010）：东盟方式的不干涉与协商规范孕育了自愿协调机制（Acharya, 2001; Stubbs, 2014），弱连接多边网络支撑了与东亚邻国的社会化进程（Checkel, 2005; Tan, 2013），对等平权观念则引导亚欧关系走向双向互学互鉴（Doidge, 2007）。这一理论框架系统阐明了行动者如何跨越物质利益计算，在规范协商与制度实践中完成自为区域的身份建构。
+> 社会建构主义与新区域主义方法强调区域属于社会、经济与政治的建构产物，观念与规范结构深刻规定了行动者的身份认同与利益边界（Acharya, 2012b; Checkel, 1999; Söderbaum, 2016）。网络化区域主义与[[The Strength of Weak Ties|弱连接]]概念将宏观外交规范与微观高等教育实践紧密连接（Granovetter, 1973; Yeo, 2010）：东盟方式的不干涉与协商规范孕育了自愿协调机制（Acharya, 2001; Stubbs, 2014），弱连接多边网络支撑了与东亚邻国的社会化进程（Checkel, 2005; Tan, 2013），对等平权观念则引导亚欧关系走向双向互学互鉴（Doidge, 2007）。这一理论框架系统阐明了行动者如何跨越物质利益计算，在规范协商与制度实践中完成自为区域的身份建构。
 
 ---
 
@@ -245,7 +249,7 @@ issuing_organization: ""
 > “亚洲即便没有类似欧盟委员会那样的常设超国家行政官僚，仅靠东盟与中日韩高等教育流动与质量保障工作组（APT-WG）的定期磋商，也完全能够推动跨国学分互认与质保标准对接。更关键的是，东盟各国坚持在统一的多边框架下集体行动，有效化解了外部大国在单独双边交往中施加政治经济影响的风险，确保了各国地位平等。”（APT-WG 协商会议日方代表深度访谈）
 
 > [!actor-grid] 中日韩三国的地缘战略诉求与软实力博弈
-> - **日本：生源引流与校际网络主导** 作为工作组主要出资方主导机制建立，依托中日韩亚洲校园（CAMPUS Asia）优质校际网络吸引东南亚青年人才，以缓解国内少子老龄化带来的生源与劳动力缺口。
+> - **日本：生源引流与校际网络主导** 作为工作组主要出资方主导机制建立，依托中日韩[[CAMPUS Asia|亚洲校园]]（CAMPUS Asia）优质校际网络吸引东南亚青年人才，以缓解国内少子老龄化带来的生源与劳动力缺口。
 > - **中国：睦邻友好与全额奖学金网络** 秉持远亲不如近邻的周边外交方针，依托设于北京的东盟—中国中心（ASEAN-China Centre, ACC）提供大量政府奖学金，推进国内重点高校与 AUN 学分全面对接。
 > - **韩国：信息技术优势与[[Virtual University|网络大学]]辐射** 牵头设立东盟—韩国网络大学，借助数字教育基建拓展东亚教育服务市场，提升在东盟中下层青年群体中的文化亲和力。
 
@@ -275,7 +279,7 @@ issuing_organization: ""
 
 > [!tension] 规范性规训与多元自主的交锋：布鲁塞尔删词博弈
 > - **欧洲立场：输出统一规制（NPE）**
->   长期习惯于以规范性力量欧洲（Normative Power Europe, NPE）自居，视[[Bologna Process|博洛尼亚进程]]为全球典范。维维安·雷丁（Viviane Reding）等欧盟官员主张在全球推广博洛尼亚以吸引生源。在 2014 年 11 月亚欧教育高官会上，欧洲起草团队试图在部长公报标题中写入带有指令性色彩的“协调”表述（Manners, 2002; Reding, 2003）。
+>   长期习惯于以[[Normative Power Europe|规范性力量欧洲]]（Normative Power Europe, NPE）自居，视[[Bologna Process|博洛尼亚进程]]为全球典范。维维安·雷丁（Viviane Reding）等欧盟官员主张在全球推广博洛尼亚以吸引生源。在 2014 年 11 月亚欧教育高官会上，欧洲起草团队试图在部长公报标题中写入带有指令性色彩的“协调”表述（Manners, 2002; Reding, 2003）。
 > - **亚洲立场：坚守多元自主与主权平等**
 >   亚洲各国代表高度警惕一体化规训意图，明确指出统一规制抹杀亚洲体制多样性，坚决拒绝当听话学徒。亚洲代表寸步不让，果断要求删除任何带有集权统编色彩的官方词汇，最终迫使会议在公报终稿标题中将该词彻底剔除，确立起平起平坐的政治基调（Acharya, 2014）。
 
