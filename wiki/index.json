@@ -6848,6 +6848,18 @@
     ]
   },
   {
+    "title": "Ability-Driven Education",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Ability-Driven Education.md",
+    "aliases": [
+      "能力驱动型教育",
+      "能力驱动教育",
+      "能力导向教育",
+      "Ability-Driven Curriculum",
+      "ADE Singapore"
+    ]
+  },
+  {
     "title": "Academic Attrition",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Academic Attrition.md",
@@ -47285,6 +47297,18 @@
     "subtype": "policy"
   },
   {
+    "title": "Desired Outcomes of Education",
+    "type": "fact",
+    "path": "wiki/facts/singapore/Desired Outcomes of Education.md",
+    "aliases": [
+      "新加坡教育期望成果",
+      "教育期望成果",
+      "DOE Singapore",
+      "Singapore Desired Outcomes of Education"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Direct School Admission",
     "type": "fact",
     "path": "wiki/facts/singapore/Direct School Admission.md",
@@ -47474,6 +47498,19 @@
       "University Corporatisation in Singapore",
       "NUS and NTU Corporatisation",
       "University Corporatisation Act"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Specialised Independent Schools",
+    "type": "fact",
+    "path": "wiki/facts/singapore/Specialised Independent Schools.md",
+    "aliases": [
+      "新加坡专科自主学校",
+      "专科自主学校",
+      "专业化自主学校",
+      "Specialised Independent Schools Singapore",
+      "Specialist Schools Singapore"
     ],
     "subtype": "policy"
   },

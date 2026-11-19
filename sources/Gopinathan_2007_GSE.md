@@ -9,6 +9,10 @@ extracted_to:
   - "[[Independent Schools Initiative]]"
   - "[[Direct School Admission]]"
   - "[[Singapore University Corporatisation]]"
+  - "[[Singapore National Education]]"
+  - "[[Junior College and Upper Secondary Education Review Committee]]"
+  - "[[Manpower 21]]"
+  - "[[First Masterplan for ICT in Education]]"
 processed_date: 2026-11-17
 ---
 

@@ -44,6 +44,7 @@ related_concepts:
   - "[[International Schools]]"
   - "[[Further Education]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Ability-Driven Education]]"
   - "[[Technology Infusion]]"
   - "[[Class Size]]"
   - "[[Seed Funding]]"
@@ -75,8 +76,10 @@ related_facts:
   - "[[School Cluster System]]"
   - "[[Singapore University Corporatisation]]"
   - "[[School Excellence Model]]"
+  - "[[Desired Outcomes of Education]]"
   - "[[First Masterplan for ICT in Education]]"
   - "[[Integrated Programme]]"
+  - "[[Specialised Independent Schools]]"
   - "[[Direct School Admission]]"
   - "[[Independent Schools Initiative]]"
   - "[[Primary School Leaving Examination]]"
@@ -93,7 +96,7 @@ title: "Argument_Gopinathan_2007_GSE"
 argument_key: "Argument_Gopinathan_2007_GSE"
 argument_display_title: "Globalisation, the Singapore developmental state and education policy: a thesis revisited"
 argument_kind: "journal-article"
-argument_related_count: 55
+argument_related_count: 58
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -289,11 +292,12 @@ issuing_organization: ""
 > [!claim|step] 论证步骤三　从应试走向能力，国家以巨大资源投入推动教学与学制松绑
 
 > [!goal] 能力驱动型教育转型的战略动因
-> 为满足[[Knowledge-Based Economy|知识经济]]对[[Higher-Order Thinking Skills|高阶思维]]、不确定性耐受力与创新[[Creativity|创造力]]的新型人才规格需求，新加坡政府全面启动由效率驱动型教育向能力驱动型教育的体系重塑。布朗与劳德（Brown & Lauder, 2001）指出，工业大规模生产模式下的标准化灌输已演化为知识经济中训练出来的无能（trained incapacity），迫使国家必须打破传统应试定势，以高额财政与人力供给推动教学松绑。
+> 为满足[[Knowledge-Based Economy|知识经济]]对[[Higher-Order Thinking Skills|高阶思维]]、不确定性耐受力与创新[[Creativity|创造力]]的新型人才规格需求，新加坡政府全面启动由效率驱动型教育向[[Ability-Driven Education|能力驱动型教育（Ability-Driven Education, ADE）]]的体系重塑。布朗与劳德（Brown & Lauder, 2001）指出，工业大规模生产模式下的标准化灌输已演化为知识经济中训练出来的无能（trained incapacity），迫使国家必须打破传统应试定势，以高额财政与人力供给推动教学松绑。
 
 > [!sub-claim] 1. 思考型学校全面削减大纲内容，将思维训练与信息技术列为核心
 
 > [!feature] 思考型学校，学习型国家（TSLN）四大支柱与落地举措
+> - **全面对齐教育期望成果** 以[[Desired Outcomes of Education|教育期望成果（Desired Outcomes of Education, DOE）]]为总体成效总纲，分学段细化全人素养指标。
 > - **批判与创造性思维** 削减各科统编大纲10%–20%内容，在各学科全面推行思维技能显性教授与课堂浸润式探究。
 > - **教育信息技术应用** 投入巨额专项国库预算，确保软硬件全面进校，将计算机辅助教学考核纳入教师职前必修。
 > - **强化国家[[Singapore National Education|国民教育]]** 应对全球化带来的公民归属感淡化风险，通过课堂内外历史国情体验强化新加坡作为共同家园的认同。
@@ -308,7 +312,7 @@ issuing_organization: ""
 
 > [!feature] 突破单一统考壁垒的三大多样化选拔创新
 > - **综合课程（IP 直通车计划）** 根据[[Junior College and Upper Secondary Education Review Committee|初级学院与高中教育检讨委员会]]建议，允许顶尖 10% 的中学生跳过剑桥普通教育证书普通水准（General Certificate of Education Ordinary Level, O-Level）升学考试，直接衔接大学预科课程，免除应试重复刷题，提供深层探究空间（Ministry of Education, 2002）。
-> - **顶尖专业化特色院校设立** 批准创办新加坡体育学校（2004 年）与新加坡国立大学数理中学（2005 年）等高度自主的专业院校，定制拔尖英才培养方案。
+> - **顶尖专业化特色院校设立** 推进[[Specialised Independent Schools|专科自主学校（Specialised Independent Schools）]]体制，批准创办新加坡体育学校（2004 年）与新加坡国立大学数理中学（2005 年）等高度自主的专业院校，定制拔尖英才培养方案。
 > - **[[Direct School Admission|直接招生计划（Direct School Admission, DSA）]]推行** 赋予[[Independent Schools Initiative|自主学校]]高达 20%、主流学校 5% 的提前自主选拔招生配额，打破单一以统一纸笔考试总分为纲的录取格局。
 
 > [!sub-claim] 3. [[Teach Less, Learn More|少教多学]]大规模扩充教师编制并缩减[[Class Size|班级规模]]，腾出探究空间
