@@ -65,6 +65,7 @@ related_arguments:
   - "[[Argument_Liu_2025_IndHE]]"
   - "[[Argument_Stone_2020_PolSoc]]"
   - "[[Argument_Zhu_Yang_2025_HE]]"
+  - "[[Argument_Nordtveit_2011_IJED]]"
 confidence: medium
 status: draft
 created: 2026-10-20
