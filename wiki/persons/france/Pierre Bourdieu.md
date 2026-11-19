@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: france
 person_region: "france"
-person_related_count: 64
+person_related_count: 65
 person_related_level: 6
 person_related_stars: "💎💎"
 person_related_color: "#fef3c7"
@@ -89,6 +89,7 @@ related_arguments:
   - "[[Argument_Schulze-Cleven_2017_HE]]"
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
   - "[[Argument_Lim_2013_APJE]]"
+  - "[[Argument_Xie_2017_PKUER]]"
 related_facts:
   - "[[CNRS]]"
   - "[[OECD]]"
@@ -199,11 +200,13 @@ updated: 2026-11-19
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 运用习性与资本解释名校资本化（[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|第二章]]），检验大学再社会化（[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]），并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|第六章]]结合撕裂习性阐明自反性叙事跨越（pp. 361–366）。
+> - [[Argument_Xie_2017_PKUER|谢爱磊 (2017)]] — 借助布迪厄生存心态（habitus）构念剖析农村家庭分层教育期望，揭示宏观机会结构转化为底层防御性实践理性的微观中介机制。
 > - [[Argument_Teng_2025_CE|Teng and Wang (2025)]] — 证明了在中国县域择校迁移中，由于选拔机制简化，家庭资本展现出垂直阶梯分层筛选，户籍行政限制被置换为隐性阶级筛选，文化资本不得不退让并折算为社会资本关系。
 > - [[Argument_Eacott_2011_JEAH|Eacott (2011)]] — 将场域和 [[Doxa]] 运用于澳大利亚[[School Leadership|学校领导力]]培养体系研究，剖析了管理主义绩效体制如何掏空学校管理者的自主实践空间。
 > - [[Argument_Eacott_2015_EPT|Eacott (2015)]] — 聚焦[[Epistemological Break|认识论断裂]]和警觉，反思了教育行政研究中对 Bourdieu 理论工具的生硬套用，强调研究者必须对自身的行业凝视保持警惕。
 > - [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]] — 运用其符号商品与学术阶级分数分析当代高等教育，指出绩效问责的无休止竞争正在学术界内部催生出新封建主义依附秩序。
 > - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 借鉴布迪厄的场域与资本理论（Lingard & Rawolle, 2011），将全球教育治理空间界定为跨国博弈场域，剖析 OECD 如何凭借统计测量资本与象征资本确立跨国仲裁权威并规制主权国家政策议程（p. 421）。
+> - [[Argument_Lim_2013_APJE|Lim (2013)]] — 结合布迪厄文化资本与资本转化理论剖析新加坡小学改革，揭示优势阶层如何将经济财富迅速转化为非学术资质并重新垄断名校录取。
 
 ---
 
@@ -246,15 +249,10 @@ updated: 2026-11-19
 > | [[Habitus]] | 概念 | 创立习性概念，用以跨越主客观对立，解释行动者的持久行为倾向与[[Praxis\|实践]]感。 |
 > | [[Champ]] | 概念 | 创立场域概念，将社会次空间概念化为由相对自主规则和资本结构支配的关系性竞争空间。 |
 > | [[Cultural Capital]] | 概念 | 创立文化资本概念，区分为具体化、客观化与制度化三种存在形态，揭示学业选拔中的隐性不平等前提。 |
-> | [[Reflexivity]] | 方法 | 确立反思性社会学，要求研究者系统反思自身的社会轨迹、位置与智识凝视以保持认识论警觉。 |
 > | [[Liberalization]] | 概念 | 晚期介入著作批判新自由主义经济自由化为蓄意重组公共领域的意识形态工程。 |
 > | [[Global Educational Policy Field]] | 理论 | 理论渊源；场域与资本理论被后继学者引申为全球教育政策场域分析模型。 |
-> | [[OECD]] | 政策 | 治理分析；揭示跨国组织凭借统计测量资本与象征资本确立跨国教育仲裁权威。
-> | 法兰西学院（Collège de France） | 组织 | 实践社会学与反思性研究的制度阵地。
-> | 欧洲社会学中心（Centre de sociologie européenne, [[Creative Self-Efficacy\|CSE]]） | 组织 | 实践社会学与反思性研究的制度阵地。
+> | [[Reflexivity]] | 方法 | 确立反思性社会学，要求研究者系统反思自身的社会轨迹、位置与智识凝视以保持认识论警觉。 |
+> | [[OECD]] | 政策 | 治理分析；揭示跨国组织凭借统计测量资本与象征资本确立跨国教育仲裁权威。 |
+> | 法兰西学院（Collège de France） | 组织 | 实践社会学与反思性研究的制度阵地。 |
+> | 欧洲社会学中心（Centre de sociologie européenne, [[Creative Self-Efficacy\|CSE]]） | 组织 | 实践社会学与反思性研究的制度阵地。 |
 > | 《社会科学研究学术活动》（ARSS） | 组织 | 实践社会学与反思性研究的制度阵地。 |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Lim_2013_APJE|Lim (2013)]] — 结合布迪厄文化资本与资本转化理论剖析新加坡小学改革，揭示优势阶层如何将经济财富迅速转化为非学术资质并重新垄断名校录取。

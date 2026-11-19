@@ -6,11 +6,11 @@ aliases:
   - 田野研究
   - 实地调查
   - field research
-summary: "研究者深入研究现场进行长期观察、参与和深度体验，以获取研究对象真实自然状况与文化意义体系的质性实证调查方法"
+summary: "研究者深入研究现场进行长期观察、参与和深度体验，以获取研究对象真实自然状况与文化意义体系的质性实证调查方法。"
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 40
+method_related_count: 41
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -66,10 +66,11 @@ related_arguments:
   - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Haubrock_2026_NHB]]"
   - "[[Argument_Wang_2025_CE]]"
+  - "[[Argument_Xie_2017_PKUER]]"
 confidence: high
 status: completed
 created: 2026-06-25
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -168,6 +169,7 @@ updated: 2026-11-11
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 指出全球科研经费向高收入国家与短期量化指标过度倾斜，导致低资源团队赖以产生原创洞见的本土情境、野外实践与长周期田野调查等研究范式遭遇系统性边缘化。
+> - [[Argument_Xie_2017_PKUER|谢爱磊 (2017)]] — 在中部农业县开展为期一年的深度田野驻扎与后续回访，以研究者自身为探究工具，打通主位经验感知与客位理论对话。
 > - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015, Ch.7)]] — 系统阐明田野调查的定义、基本特征、[[Phenomenology|现象学]][[Epistemology|认识论]]基石以及进入现场、搜集资料与[[Rich and Thick Description|深描]]呈现的完整规范。
 > - [[Argument_Wang_2025_CE|Wang and McLaughlin (2025)]] — 深入华北某区域 4 所案例学校开展实地[[Qualitative Observation|田野观察]]并记录同行评课研讨的[[Field Notes|田野笔记]]，交叉验证校长与教师的教学改进决策。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 108–110)]] — 评析比较教育学者如何通过精细的实证田野研究（fieldwork），考察以色列课程分权、几内亚与美法阅读教学、巴布亚新几内亚乡村青年文化抵抗以及印度女教师在职培训，实证确立全球与本土辩证互动的微观机制。

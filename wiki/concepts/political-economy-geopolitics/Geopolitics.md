@@ -106,7 +106,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -184,6 +184,9 @@ updated: 2026-11-18
 > [!claim] [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]]
 > **超国家[[Epistemic Infrastructure|认识论基础设施]]对大学地缘战略使命的重塑** [[Sotiria Grek|索蒂丽亚·格雷克]]与伊恩·拉塞尔分析欧洲高等教育治理演进指出，在[[European Commission|欧盟委员会]]推动的“全球欧洲”（Global Europe）战略框架下，大学通过跨国质量保障标准与互联数据库网络被赋予鲜明的地缘政治角色，被定义为展现欧洲生活方式的战略灯塔，支撑欧洲在缺乏直接立法权的情境下依托技术化认知网络参与全球地缘竞争。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 216, 230–232)]]
 
+> [!claim] [[Argument_Dang_2017_ORE|Dang (2017)]]
+> **网络化治理抵御大国地缘控制** 邓泉安（Quyen Anh Dang）追踪东南亚高等教育区域主义演进指出，处于地缘断层线的中小国家通过主动搭建东盟与中日韩教育部长会议（ASED+3）等多边机制，将中日韩等周边强邻纳入东盟制定的非正式磋商轨道；依托松散的弱连接网络化治理，东盟中小国家有效化解了单一外部强邻在双边交往中的施压渗透，将高等教育合作转变为平衡大国地缘博弈、重塑区域战略自主的关键依托。[[Argument_Dang_2017_ORE|(Dang, 2017, pp. 423–426)]]
+
 ---
 
 > [!concept-proposition] 命题三｜地缘政治逻辑与跨国科学合作之间存在开放流动与国家安全边界的结构性张力
@@ -204,7 +207,7 @@ updated: 2026-11-18
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **本体论范式演进** | 从客观物质领土容器向话语空间社会生产的[[Epistemology\|认识论]]与本体论跨越 | 地缘政治学史、空间社会理论与批判认识论探讨 | [[Argument_Yu_Xie_2025_JHE\|余婧然和谢爱磊 (2025)]]; Agnew (1994) |
-> | **制度性知识权力** | 地缘竞争延伸至科技前沿生态、关键供应链、跨国规则与无形资产投资 | 知识经济化、跨国精英大学联盟、欧盟地缘战略与[[National Innovation System\|国家创新体系]] | [[Argument_Chou_Demiryol_2024_HE\|Chou and Demiryol (2024)]]; [[Argument_Moisio_2022_Springer\|Moisio (2022)]]; [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]]; [[Argument_Grek_2024_EERJ\|Grek and Russell (2024)]] |
+> | **制度性知识权力** | 地缘竞争延伸至科技前沿生态、关键供应链、跨国规则与无形资产投资 | 知识经济化、跨国精英大学联盟、欧盟地缘战略与[[National Innovation System\|国家创新体系]] | [[Argument_Chou_Demiryol_2024_HE\|Chou and Demiryol (2024)]]; [[Argument_Moisio_2022_Springer\|Moisio (2022)]]; [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]]; [[Argument_Grek_2024_EERJ\|Grek and Russell (2024)]]; [[Argument_Dang_2017_ORE\|Dang (2017)]] |
 > | **流动与安全的结构张力** | 全球科学公共产品的开放协作网络与民族国家安全化防卫壁垒之间的体制冲突 | 跨国学者流动受阻、关键科研合规审查与技术脱钩防范 | [[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]]; [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]]; [[Argument_Custer_2021_AidData\|Custer et al. (2021)]]; [[Argument_Velasco_2022_CSJ\|Velasco (2022)]] |
 
 ---
@@ -215,6 +218,7 @@ updated: 2026-11-18
 > - **1990s–2010s — [[Critical Geopolitics|批判地缘政治]]兴起与全球化非自觉阶段** 伴随冷战结束与[[Constructivist Paradigm|建构主义]]思潮，奥图阿瑟（Gearóid Ó Tuathail）与阿格纽等学者发起批判地缘政治转向，解构地缘政治修辞中的空间霸权。高等教育研究广泛借用中心—外围理论分析南北差距，但多归于[[Developmentalism|发展主义]]与国际化[[Discourse|话语]]，对地缘权力的理论自觉相对有限。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 4–5)]]
 > - **2009 年 — 知识经济转型与超国家地缘政治前途** 帕西亚斯与鲁萨基斯解构欧盟[[Lisbon Strategy|里斯本战略]]话语，揭示无形资产投资与科研教育培训如何被定义为决定欧洲未来全球地缘政治前途的核心支柱。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 486)]]
 > - **2016–至今 — 大国竞争回归、[[Securitization of Technology|科技安全化]]与理论自觉** 逆全球化浪潮、技术脱钩与地缘冲突重塑国际秩序，地缘政治研究走向自觉。[[Space Production|空间生产]]理论与[[Relational Space|关系性空间]]视角全面引入高教与知识研究，学术界关注[[Knowledge Production|知识生产]]、科技安全、跨境网络与多边治理中的复合地缘政治博弈。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 5–6, 12–13)]]; [[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1696–1698)]]
+> - **2017 年 — 弱连接网络化治理与防范大国地缘控制** [[Argument_Dang_2017_ORE|Dang (2017)]] 揭示东盟中小国家如何依托多边高教网络化协调化解中日韩地缘竞争压力，推动区域从被动地缘容器向具备战略自觉的自为实体转型。
 > - **2022 年 — 东南亚高教外交拓展与地缘安全边界** [[Argument_Velasco_2022_CSJ|Velasco (2022)]] 考察中国面向[[ASEAN|东盟]]的高教合作，阐明南海领土争议等核心地缘政治关切对跨国教育公共产品政治转化效能的刚性阻滞。
 > - **2024 年 — 欧洲大学地缘政治化与认识论基础设施** [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] 揭示[[European Association for Quality Assurance in Higher Education|欧洲高等教育质量保障网络]]如何超越内部协调，演变为支撑“全球欧洲”战略并赋予大学以地缘政治灯塔使命的深层治理基石。
 
@@ -288,6 +292,7 @@ updated: 2026-11-18
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 从后殖民与批判视角反思全球高等教育中的[[Geopolitics of Knowledge|知识地缘政治]]格局与西方中心主义认知统治。
 > - [[Argument_Custer_2021_AidData|Custer et al. (2021)]] — 针对南亚与中亚 13 国实证分析地缘博弈与公共外交的互动机制，以中印边境安全危机导致孔子学院与高校合作备忘录遭遇安全合规排查为例，揭示高位地缘政治冲突对跨国教育合作网络的阻断与安全化重塑（pp. 31, 34）。
 > - [[Argument_Velasco_2022_CSJ|Velasco (2022)]] — 结合东南亚在华留学生定向招募、境外实体分校与孔子学院布局，揭示南海领土主权争议等核心地缘政治关切对跨国教育公共产品政治转化效能的结构性阻滞（pp. 83–86）。
+> - [[Argument_Dang_2017_ORE|Dang (2017)]] — 运用过程追踪法剖析东盟高等教育区域主义，揭示东南亚中小国家如何依托弱连接网络化治理将周边强邻带入多边轨道，防范外部大国地缘控制并重塑战略自主（pp. 423–426）。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 结合福柯权力理论解构欧盟教育政策话语，阐明无形投资与科研培训如何被建构为决定欧洲全球地缘政治前途的关键支柱（p. 486）。
 > - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 论证欧洲质量保障认识论基础设施如何促使大学成为服务于全球欧洲与[[European Education Area|欧洲教育区]]的地缘政治灯塔。
 > - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 从后殖民城邦的地缘生存脆弱性出发，揭示新加坡强发展型国家如何将双语教育、国民教育与技能形成深度嵌入地缘防卫与国家认同维系之中。

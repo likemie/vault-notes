@@ -105,7 +105,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-30
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -206,6 +206,9 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 > [!claim] [[Argument_Zapp_2022_Springer\|Zapp (2022)]]
 > **知识分类可以转化为治理能力**　国际关系建构主义表明，军备和经济资源不足以单独解释国际秩序。国际组织通过[[Cultural Models\|文化模型]]、政策类别和制度规范界定何为合宜的国家行为，并使人权、可持续发展等观念转化为评价政府的基准。[[Knowledge Production\|知识生产]]因此同时具有描述和治理功能（Barnett & Finnemore, 2004, as cited in Zapp, 2022; Wendt, 1999, as cited in [[Argument_Zapp_2022_Springer\|Zapp, 2022, pp. 145, 148]]）。
 
+> [!claim] [[Argument_Dang_2017_ORE|Dang (2017)]]
+> **规范互动与区域共同体的社会建构** 邓泉安（Quyen Anh Dang）将社会建构主义拓展至高等教育区域主义研究，论证区域本质上是行动者在多边规范与认同互动中动态建构的社会产物，超越了先验固定的静态地理边界。在东盟加三（ASEAN+3）高教政策协调中，常态化的非正式协商网络推动了参与国官员的规范社会化（Socialisation）进程，促使各国外交与教育精英的决策心理从最初计算生源与经贸红利的物质工具理性，逐步内化为照顾彼此舒适度、维护东亚整体声誉的共同准则，证明文化规范与认同塑造在低制度化环境中具备决定性的秩序整合力量。[[Argument_Dang_2017_ORE|(Dang, 2017, pp. 418–420, 423–426)]]
+
 ---
 
 > [!concept-proposition] 命题五｜学习主体的认识论建构性要求教师承担主动激活与结构化指导角色
@@ -222,7 +225,7 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 > | **意义生成与研究设计** | 从参与者经验和情境中归纳意义，并说明研究者的解释位置 | [[Qualitative Interview\|质性访谈]]、[[Ethnography\|民族志]]、[[Constructivist Grounded Theory\|建构主义扎根理论]] | [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] |
 > | **学习活动与概念改变** | 通过学生实际开展的活动改变理解，并使目标、教学和评估对齐 | 课程设计、课堂教学与评估 | [[Argument_Biggs_1999_HERD\|Biggs (1999)]] |
 > | **跨文化结合与本土重构** | 西方建构主义与东亚儒家对话传统的选择性亲和 | 跨国[[Policy Borrowing\|政策借用]]、LCE 本土化 | [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] |
-> | **观念与[[Epistemic Governance\|知识治理]]权力** | 解构物质[[Determinism\|决定论]]，强调规范与文化模型的建构性力量 | 全球教育治理、国际组织分析 | [[Argument_Zapp_2022_Springer\|Zapp (2022)]] |
+> | **观念与[[Epistemic Governance\|知识治理]]权力** | 解构物质[[Determinism\|决定论]]，强调规范与文化模型的建构性力量 | 全球教育治理、国际组织与区域共同体分析 | [[Argument_Zapp_2022_Springer\|Zapp (2022)]]; [[Argument_Dang_2017_ORE\|Dang (2017)]] |
 > | **建构认知与教学激活统一** | 建构主义认识论与放任式教学法存在范畴区隔，主体建构需要教师显性领导 | 学习哲学向教学实践转化、教学角色设计 | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] |
 
 ---
@@ -235,6 +238,7 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 > - **1990 年代：教育与国际关系中的制度化扩展**　课程改革广泛采用建构主义学习语言；Wendt 等学者则把规范、身份和观念的建构作用带入国际关系分析。芬兰教育讨论也在这一时期把 Dewey 的反思与 Mead 的社会互动结合为[[Pragmatic Constructivism\|实用主义建构主义]]。[[Argument_Schaffar_2024_CogentEdu\|(Schaffar & Wolff, 2024)]]
 > - **1999 年：从学习理论转化为课程设计**　Biggs 用[[Constructive Alignment\|建构性对齐]]把意义建构、学生学习活动、课程目标和评估整合为可操作的教学系统。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 60–65)]]
 > - **2011 年：对可见学习反建构主义实证修辞的教学论审视** [[Ewald Terhart|埃瓦尔德·特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）评述《[[Visible Learning|可见的学习]]》，指出[[John Hattie|哈蒂]]以[[Meta-meta-analysis|二阶元分析]]数据（激活者 $d = 0.60$ vs 促进者 $d = 0.17$）猛烈批判将教师降格为被动促进者的[[Constructivist Instruction|建构主义教学]]风尚，并宣称建构主义属于知识形式、不属于教学形式；特哈特从德国教学论视角指出，建构主义作为[[Epistemology|认识论]]早已与教师直接指导的主流教学共识内在融合，反驳了将建构主义狭隘等同于去指导化教学的流行偏见。
+> - **2017 年：社会建构主义拓展至高等教育区域主义** [[Argument_Dang_2017_ORE|Dang (2017)]] 运用社会建构主义因果机制解构东南亚高等教育合作，阐明文化规范、弱连接网络与认同塑造如何推动地理邻近的自在区域演化为具备战略自觉的自为共同体。
 > - **2020 年代：[[Recontextualization|再脉络化]]、知识批评与专业发展拓展** 跨文化研究考察[[Constructivist Instruction|建构主义教学]]如何与本土传统形成[[Selective Affinity|选择性亲和]]（[[Argument_Wang_2025_CE|Wang & McLaughlin, 2025]]）；[[Social Realism|社会实在论]]反思自主建构对系统学科知识的边缘化（[[Argument_McPhail_2023_JCS|McPhail et al., 2023]]）；同时在高等教育与科研管理领域，社会建构主义（Social Constructivism）被拓展至大学科研人员与教师专业发展，指导以结构化提示、[[Brainstorming|头脑风暴]]与跨学科研讨为核心的学者工作坊设计，推动不同院系学者在集体社会协商中实现协同[[Knowledge Building Theory|知识建构]]与国家重大战略承接。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 3, 6)]]
 
 ---
@@ -292,6 +296,7 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 > - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]　展示建构主义诠释学和[[Constructivist Grounded Theory\|建构主义扎根理论]]如何处理研究者、参与者与资料之间的共同解释。
 > - [[Argument_McPhail_2023_JCS\|McPhail et al. (2023)]]　从[[Social Realism\|社会实在论]]出发，批评课程改革对系统学科知识的边缘化。
 > - [[Argument_Zapp_2022_Springer\|Zapp (2022)]]　用国际关系建构主义解释观念、规范和知识在全球教育治理中的制度权力。
+> - [[Argument_Dang_2017_ORE|Dang (2017)]]　运用社会建构主义因果机制，论证东盟如何依托自愿协调、规范社会化与互学互鉴将文化观念内化为多边共同准则，推动东南亚由自在区域转型为具备战略自觉的自为实体（pp. 418–420, 423–426）。
 > - [[Argument_Rømer_2018_EPT\|Rømer (2018)]]　分析[[Radical Constructivism\|激进建构主义]]与教师权威、文化内容之间的张力。
 > - [[Argument_OConnor_2020_AJLL\|O'Connor (2020)]]　审计反建构主义判断中的数据选择、研究分类和效应解释。
 > - [[Argument_Schaffar_2024_CogentEdu\|Schaffar and Wolff (2024)]]　追溯芬兰现象化学习中[[Pragmatic Constructivism\|实用主义建构主义]]与教化传统的结合。

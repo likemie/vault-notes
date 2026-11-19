@@ -10,7 +10,7 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -49,10 +49,11 @@ related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch05]]"
+  - "[[Argument_Xie_2017_PKUER]]"
 confidence: high
 status: active
 created: 2026-07-22
-updated: 2026-11-17
+updated: 2026-11-19
 ---
 
 ---
@@ -113,6 +114,7 @@ updated: 2026-11-17
 > - **权力共享的结构硬边界** 刚性高考大纲决定了学习内容与考查方式必须由国家和教师掌控，排除了学生共决课程大纲与评估形式的可能性。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 599)]]
 > - **应试惯性形塑阶层化[[Adjustment to College|大学适应]]图式** [[Argument_Zheng_2023_ShanghaiSanlian_Ch03|郑雅君 (2023, pp. 74–82)]]指出，县中与薄弱中学高度集约的高考备考机制（刷题、高压纪律管理与单一分数导向）在弱势学生身上形塑了依赖外部指令与题海战术的苦学惯性，进入大学[[Champ|场域]]后易转化为适应不良的[[Intuition-Dependent Mode|直觉依赖模式]]；优势阶层集中的开放式高中在高考备考之余保留了自主探索与综合活动，培养了兼顾长程规划的[[Goal-Controlled Mode|目标掌控模式]]。
 > - **高考专业志愿填报的阶层逻辑分流** 高考出分后的志愿填报构成了关键的[[Cultural Capital|文化资本]]折现关卡：优势家庭立足长程发展开展前瞻性专业布局与通道转换，弱势家庭受制于信息匮乏，往往采取不浪费高考分数的分数最大化逻辑、情绪补偿或被动避短，造成专业错配与后续学业转换障碍。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 82–90)]]
+> - **高考层级化录取格局与底层升学风险** [[Argument_Xie_2017_PKUER|谢爱磊 (2017)]] 揭示，高等教育扩招后形成的一本、二本与民办三本的分层录取格局对农村底层家庭构成刚性规制。由于优质公办大学录取率极低，多数达线农村考生的分数徘徊于民办三本区间；年学费过万的直接成本相当于家庭全年务工积蓄，叠加普通文凭贬值与缺乏社会资本，使得跨越高考分数门槛不仅难以确保向上社会流动，反而诱发因教致贫风险，促使底层家长调低教育期望甚至陷入“读书无望”的防御性退守。
 
 > [!stat-cards]- 核心数据
 > - **1952 / 1977** 高考初建与文革后正式恢复的历史年份。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 589)]]
@@ -160,4 +162,5 @@ updated: 2026-11-17
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_2025_CE|Wang and McLaughlin (2025)]] — 实证检验重点高中在高考高利害问责硬约束下转译践行以学生为中心教学法的本土化调适策略。
+> - [[Argument_Xie_2017_PKUER|谢爱磊 (2017)]] — 剖析高考分层录取格局（一本、二本与民办三本）对农村底层家庭的主观规制，揭示高额学费与就业沉没风险如何形塑“读书无望”的防御性期望。
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 在[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|第三章]]中剖析县中高考备考对学子习性的塑造与专业选报中的阶层分化（pp. 75–90）；并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|第五章]]指出经由高考严苛筛选胜出的寒门学子更深地内化了正规学校教育的主流价值认同，反衬出与西方反学校文化不同的体制归顺倾向（p. 287）。
