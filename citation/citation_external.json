@@ -4671,7 +4671,6 @@
     "Chen Hancai (1981)": "Chen Hancai, 1981",
     "Chen Hancai, 1981": "Chen Hancai, 1981",
     "Chen et al. (2012)": "Chen et al., 2012",
-    "Chen et al. (2016)": "Chen et al., 2016",
     "Chen et al. (2017)": "Chen et al., 2017",
     "Chen et al. (2018a)": "Chen et al., 2018a",
     "Chen et al. (2018b)": "Chen et al., 2018b",
@@ -4684,7 +4683,6 @@
     "Chen et al. (2024)": "Chen et al., 2024",
     "Chen et al. (2025)": "Chen et al., 2025",
     "Chen et al., 2012": "Chen et al., 2012",
-    "Chen et al., 2016": "Chen et al., 2016",
     "Chen et al., 2017": "Chen et al., 2017",
     "Chen et al., 2018": "Chen et al., 2018b",
     "Chen et al., 2018a": "Chen et al., 2018a",
@@ -5194,7 +5192,6 @@
     "Cohen (1988)": "Cohen, 1988",
     "Cohen (1992)": "Cohen, 1992",
     "Cohen (1994)": "Cohen, 1994",
-    "Cohen (1997)": "Cohen, 1997",
     "Cohen (1999)": "Cohen, 1999",
     "Cohen et al. (1981)": "Cohen et al., 1981",
     "Cohen et al. (1982)": "Cohen et al., 1982",
@@ -5224,7 +5221,6 @@
     "Cohen, 1988": "Cohen, 1988",
     "Cohen, 1992": "Cohen, 1992",
     "Cohen, 1994": "Cohen, 1994",
-    "Cohen, 1997": "Cohen, 1997",
     "Cohen, 1999": "Cohen, 1999",
     "Cohen-Mimran (2016)": "Cohen-Mimran, 2016",
     "Cohen-Mimran, 2016": "Cohen-Mimran, 2016",
@@ -8654,18 +8650,15 @@
     "Freire (1998a)": "Freire, 1998a",
     "Freire (1998b)": "Freire, 1998b",
     "Freire (1998c)": "Freire, 1998c",
-    "Freire (1998d)": "Freire, 1998d",
     "Freire (2000)": "Freire, 2000",
     "Freire (2004)": "Freire, 2004",
     "Freire, 1968": "Freire, 1968",
     "Freire, 1970": "Freire, 1970",
     "Freire, 1972": "Freire, 1972",
     "Freire, 1973": "Freire, 1973",
-    "Freire, 1998": "Freire, 1998a",
-    "Freire, 1998a": "Freire, 1998b",
-    "Freire, 1998b": "Freire, 1998c",
-    "Freire, 1998c": "Freire, 1998d",
-    "Freire, 1998d": "Freire, 1998d",
+    "Freire, 1998a": "Freire, 1998a",
+    "Freire, 1998b": "Freire, 1998b",
+    "Freire, 1998c": "Freire, 1998c",
     "Freire, 2000": "Freire, 2000",
     "Freire, 2004": "Freire, 2004",
     "Freire, 2004b": "Freire, 2004",
@@ -10922,8 +10915,6 @@
     "Hawkins, 1999": "Hawkins, 1999",
     "Hay (2011)": "Hay, 2011",
     "Hay, 2011": "Hay, 2011",
-    "Hayden (2011)": "Hayden, 2011",
-    "Hayden, 2011": "Hayden, 2011",
     "Hayek (1942)": "Hayek, 1942",
     "Hayek (1945)": "Hayek, 1945",
     "Hayek, 1942": "Hayek, 1942",
@@ -11232,8 +11223,6 @@
     "Hewson et al., 2003": "Hewson et al., 2003",
     "Heyard et al. (2022)": "Heyard et al., 2022",
     "Heyard et al., 2022": "Heyard et al., 2022",
-    "Heyman (1979)": "Heyman, 1979",
-    "Heyman, 1979": "Heyman, 1979",
     "Heyneman (1999)": "Heyneman, 1999",
     "Heyneman (2003)": "Heyneman, 2003",
     "Heyneman, 1999": "Heyneman, 1999",
@@ -25748,8 +25737,6 @@
     "Ulrichsen & Kelleher, 2022": "Ulrichsen & Kelleher, 2022",
     "Ulrichsen & O'Sullivan (2015)": "Ulrichsen & O'Sullivan, 2015",
     "Ulrichsen & O'Sullivan, 2015": "Ulrichsen & O'Sullivan, 2015",
-    "Ulrichsen (2024)": "Ulrichsen, 2024",
-    "Ulrichsen, 2024": "Ulrichsen, 2024",
     "Ulrike Nagel (2003)": "Ulrike Nagel, 2003",
     "Ulrike Nagel, 2003": "Ulrike Nagel, 2003",
     "Ulum & Küçükdanaci (2022)": "Ulum & Küçükdanaci, 2022",
@@ -28970,9 +28957,6 @@
     "霍耐特, 2008": "霍耐特, 2008",
     "韦尔奇 (2012)": "韦尔奇, 2012",
     "韦尔奇, 2012": "韦尔奇, 2012",
-    "项目 (1980)": "项目, 1980",
-    "项目, 1980": "项目, 1980",
-    "项目, 1980s": "项目, 1980",
     "马奥尼与希伦 (2009)": "马奥尼与希伦, 2009",
     "马奥尼与希伦, 2009": "马奥尼与希伦, 2009",
     "高谢 (2000)": "高谢, 2000",
@@ -37861,7 +37845,6 @@
       "seen_in": [
         "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ulrichsen_2025_UIR_Evolution.md",
         "wiki/concepts/university-industry-collaboration/Corporate R&D Labs.md",
-        "wiki/concepts/university-industry-collaboration/Third Mission.md",
         "wiki/facts/us/Bell Labs.md"
       ],
       "title": ""
@@ -63246,21 +63229,6 @@
       "seen_in": [],
       "title": "Are K–12 Learners Motivated in Physical Education? A Meta-Analysis"
     },
-    "Chen et al., 2016": {
-      "aliases": [
-        "Chen et al., 2016",
-        "Chen et al. (2016)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Chen et al., 2016"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/university-industry-collaboration/Third Mission.md"
-      ],
-      "title": ""
-    },
     "Chen et al., 2017": {
       "aliases": [
         "Chen et al., 2017",
@@ -67254,21 +67222,6 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Behavioral Education/Argument_Hitchcock_2015_JBE.md",
         "wiki/concepts/research-methodology/5-3-20 Rule.md"
-      ],
-      "title": ""
-    },
-    "Cohen, 1997": {
-      "aliases": [
-        "Cohen, 1997",
-        "Cohen (1997)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Cohen, 1997"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Research Policy/Argument_Thompson_et_al_2018_RP.md"
       ],
       "title": ""
     },
@@ -92534,21 +92487,6 @@
       ],
       "doi": "",
       "identity_keys": [
-        "Freire, 1998"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Rust_2009_Reflections.md"
-      ],
-      "title": ""
-    },
-    "Freire, 1998b": {
-      "aliases": [
-        "Freire, 1998b",
-        "Freire (1998b)"
-      ],
-      "doi": "",
-      "identity_keys": [
         "Freire, 1998a"
       ],
       "isbn": "",
@@ -92557,10 +92495,10 @@
       ],
       "title": ""
     },
-    "Freire, 1998c": {
+    "Freire, 1998b": {
       "aliases": [
-        "Freire, 1998c",
-        "Freire (1998c)"
+        "Freire, 1998b",
+        "Freire (1998b)"
       ],
       "doi": "",
       "identity_keys": [
@@ -92572,10 +92510,10 @@
       ],
       "title": ""
     },
-    "Freire, 1998d": {
+    "Freire, 1998c": {
       "aliases": [
-        "Freire, 1998d",
-        "Freire (1998d)"
+        "Freire, 1998c",
+        "Freire (1998c)"
       ],
       "doi": "",
       "identity_keys": [
@@ -109154,21 +109092,6 @@
       ],
       "title": ""
     },
-    "Hayden, 2011": {
-      "aliases": [
-        "Hayden, 2011",
-        "Hayden (2011)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Hayden, 2011"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Research Policy/Argument_Thompson_et_al_2018_RP.md"
-      ],
-      "title": ""
-    },
     "Hayek, 1942": {
       "aliases": [
         "Hayek, 1942",
@@ -111423,21 +111346,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/science-policy/Modified Lottery in Research Funding.md"
-      ],
-      "title": ""
-    },
-    "Heyman, 1979": {
-      "aliases": [
-        "Heyman, 1979",
-        "Heyman (1979)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Heyman, 1979"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Rust_2009_Reflections.md"
       ],
       "title": ""
     },
@@ -117631,7 +117539,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
         "wiki/concepts/science-policy/Citation Disparity.md",
         "wiki/concepts/science-policy/My-Baby Bias.md"
@@ -127642,7 +127549,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/higher-education/Multi-University.md",
-        "wiki/concepts/university-industry-collaboration/Third Mission.md",
         "wiki/facts/us/Morrill Land-Grant Act of 1862.md"
       ],
       "title": ""
@@ -148848,8 +148754,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ulrichsen_2025_UIR_Evolution.md",
-        "wiki/concepts/university-industry-collaboration/Third Mission.md"
+        "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ulrichsen_2025_UIR_Evolution.md"
       ],
       "title": ""
     },
@@ -160212,7 +160117,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Research Policy/Argument_Thompson_et_al_2018_RP.md",
         "wiki/concepts/science-policy/Data Withholding.md",
         "wiki/concepts/university-industry-collaboration/Reach-Through Rights.md",
         "wiki/facts/us/Oncomouse.md",
@@ -206421,7 +206325,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Research Policy/Argument_Thompson_et_al_2018_RP.md",
         "wiki/concepts/science-policy/Data Withholding.md"
       ],
       "title": ""
@@ -216881,21 +216784,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ulrichsen_2025_UIR_Evolution.md"
-      ],
-      "title": ""
-    },
-    "Ulrichsen, 2024": {
-      "aliases": [
-        "Ulrichsen, 2024",
-        "Ulrichsen (2024)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Ulrichsen, 2024"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/university-industry-collaboration/Third Mission.md"
       ],
       "title": ""
     },
@@ -231135,8 +231023,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ulrichsen_2025_UIR_Evolution.md",
-        "wiki/concepts/university-industry-collaboration/Third Mission.md"
+        "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ulrichsen_2025_UIR_Evolution.md"
       ],
       "title": ""
     },
@@ -232263,9 +232150,7 @@
         "Zhang et al., 2008"
       ],
       "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md"
-      ],
+      "seen_in": [],
       "title": "A cognitive perspective on Singaporean primary pupils’ use of reading strategies in learning to read in English"
     },
     "Zhang et al., 2015": {
@@ -240065,21 +239950,6 @@
         "wiki/persons/australia/Anthony Welch.md"
       ],
       "title": "The limits of regionalism in Indonesian higher education"
-    },
-    "项目, 1980": {
-      "aliases": [
-        "项目, 1980",
-        "项目 (1980)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "项目, 1980s"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/university-industry-collaboration/Third Mission.md"
-      ],
-      "title": ""
     },
     "马奥尼与希伦, 2009": {
       "aliases": [

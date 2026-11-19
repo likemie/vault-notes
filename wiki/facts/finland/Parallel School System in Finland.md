@@ -42,9 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-06
-updated: 2026-11-11
----
-
+updated: 2026-11-19
 ---
 
 > [!policy-context] 政策背景
@@ -101,12 +99,6 @@ updated: 2026-11-11
 > - **维系了早期的学术精英高标准** 旧双轨制通过高淘汰率考试将优势资源集中于文法学校，使少数精英学生获得了极为扎实的高难度学科训练，但在底层大众中制造了广泛的学业挫败感。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7, 16)]]
 > - **阶层再生产与固化效应** 计量实证（Pekkarinen et al., 2009）证实，二元学制严重固化了家庭背景对认知得分与收入的代际传递，废除分轨直接将代际收入相关性显著降低了约 20%。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 8)]]
 > - **对总体认知平均分影响有限** [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]]指出，尽管废除双轨制极大地促进了底层公平与阶层流动，但征兵测验数据表明学制并轨对全国总体认知均分的拉动效应极小，不能作为解释芬兰全国平均分跻身世界一流的核心动因。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7–8, 15)]]
-
-> [!stat-cards]- 核心数据
-> - **4** 学生在初等学校面临学术与职业命运分流的法定修业年级。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 7)]]
-> - **10–11** 芬兰儿童参加文法学校淘汰性分流考试的标准生理年龄。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 7)]]
-> - **1968** 芬兰议会立法决定废除二元分流学制的法案通过年。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 7)]]
-> - **1972–1977** 芬兰在全境由北向南分批彻底淘汰[[Dual School System|双轨学制]]的时间跨度。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7–8)]]
 
 ---
 

@@ -54,8 +54,6 @@ created: '2026-09-12'
 updated: 2026-11-19
 ---
 
----
-
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1999 年 9 月由[[World Bank\|世界银行]]（World Bank）与[[International Monetary Fund|国际货币基金组织]]（IMF）发展委员会暨执委会联合正式确立并发布。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
 > - **适用地区 / 对象** 全球南方重债穷国（Heavily Indebted Poor Countries，HIPC）及所有申请[[International Development Association|国际开发协会]]（IDA）优惠无息贷款与减贫增长信贷（PRGF）的发展中国家。
@@ -129,9 +127,6 @@ updated: 2026-11-19
 > - **基础教育预算刚性化保护** 成功迫使借贷国政府在面临严峻财政危机时，依然维持对初等教育的最低预算投入，支撑了全球南方小学入学率的快速爬升。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
 > - **“在校无学”的质量妥协** 过度聚焦于入学率等粗放量化指标，导致学校盲目扩容而忽视师资匮乏与教材短缺，埋下了后来深刻的“[[Learning Crisis|学习贫困]]”危机。
 > - **国家政策主权的实质让渡** 名义上高唱“国家完全自主”，实质受援国官员为了确保资金到位，主动迎合[[World Bank\|世行]]偏好，抑制了本土教育哲学的创新空间。
-
-> [!stat-cards]- 核心数据
-> 全球累计超过 70 个低收入国家签署并实施了 PRSP 规划，撬动了数百亿美元的多边开发援助与债务免除，重塑了战后全球南方基础教育治理版图。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
 
 ---
 

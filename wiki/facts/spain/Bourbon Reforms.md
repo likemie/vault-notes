@@ -40,9 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-12
-updated: 2026-11-12
----
-
+updated: 2026-11-19
 ---
 
 > [!policy-context] 政策背景
@@ -91,11 +89,6 @@ updated: 2026-11-12
 > - **财政掠夺激化阶级抗争** 税赋飙升直接激怒了美洲富足的土生白人阶层，使海外西班牙后裔逐渐将马德里视作掠夺性的外来异己力量。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 52–54)]]
 > - **行政天花板塑造同侪认同** 半岛官员的人事垄断直接将土生白人官员的仕途升迁限制在各自的副王区首府，客观上促成了以殖民区划为边界的[[Administrative Pilgrimage|行政朝圣]]与同侪同志情谊。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 59–60)]]
 > - **贸易割裂固化区域离散格局** 严禁美洲殖民地之间直航内贸，使各区域沦为彼此孤立的封闭经济单元，为日后拉美无法形成统一国家埋下分裂根源。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 54–55)]]
-
-> [!stat-cards]- 核心历史数据
-> - 财政汲取：墨西哥年上缴王室收入从 18 世纪初的 300 万比索激增至世纪末的 1400 万比索，其中纯利润达 600 万比索，400 万比索补贴其他殖民地，留存本地开支仅 400 万比索。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 52–53, n. 16)]]
-> - 官员失衡：1813 年独立运动前夕，历任 170 名西属美洲总督中仅 4 名为土生白人；墨西哥土生白人与半岛人人口比达 70:1，高级主教中仅 1 名为土生白人。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, p. 59, n. 33)]]
-> - 人口流动：1780 至 1790 年间半岛赴美官员与移民流量达到 1710 至 1730 年间的 5 倍。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, p. 53, n. 17)]]
 
 ---
 

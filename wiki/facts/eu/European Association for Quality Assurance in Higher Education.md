@@ -51,9 +51,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-28
-updated: 2026-11-11
----
-
+updated: 2026-11-19
 ---
 
 > [!claim] 核心定位
@@ -122,11 +120,6 @@ updated: 2026-11-11
 > [!finding-cards] 关键成效与辐射影响
 > - **行业自治规范确立** 实现了欧洲质量保障机构由分散的地方性实体向遵守共同准则的专业共同体转变。
 > - **互信网络维系** 通过常态化的同行评审，支撑了欧洲高等教育区不同国家间学位证书与学习周期的互认基础。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, p. 221)]]
-
-> [!stat-cards]- 核心规模数据
-> - **55** 符合 ESG 标准的正规会员质保机构数量。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, p. 225)]]
-> - **40** 会员机构所在的欧洲国家分布数量。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, p. 225)]]
-> - **55** 遍布欧洲内部与全球其他区域的附属合作机构数量。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, p. 225)]]
 
 ---
 

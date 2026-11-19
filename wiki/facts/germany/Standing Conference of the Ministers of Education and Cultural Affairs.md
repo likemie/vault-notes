@@ -64,9 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-11-15
----
-
+updated: 2026-11-19
 ---
 
 > [!claim] 核心定位
@@ -127,9 +125,6 @@ updated: 2026-11-15
 > - **确立全国教育质量等价基准** 通过 [[Institute for Educational Quality Improvement|IQB]] 国家标准题库与统一监测指标，扭转了长期以来各州毕业考试（Abitur）标准悬殊、跨州流转互认不畅的离散局面。
 > - **推动宏观方位与微观干预的理性分工** 确立了以大规模国际测评服务宏观政治定位、以校际测试（[[Vergleichsarbeiten|VERA]]）与[[School Inspection|学校督导]]直接指导具体薄弱校扶持的理性工具分工。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, p. 494)]]
 > - **低利害诊断文化的制度化护栏** 区别于英美的高利害[[Test-Based Accountability|考试问责]]，KMK 坚守了禁止编制与公布学校排名表（Schul-Rankings）的联邦政治共识，将标准化监测严格定位于校内教学诊断与专业反思的低利害工具，有效遏制了惩罚性监控与商业算法接管。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 11, 14)]]
-
-> [!stat-cards]- 核心规模数据
-> 16 个联邦州教育文化部门，全德逾 3 万所中小学校，覆盖约 1100 万名在籍学生与 80 万名在编教师。
 
 ---
 

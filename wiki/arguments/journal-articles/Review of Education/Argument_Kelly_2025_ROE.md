@@ -89,7 +89,7 @@ sources:
 part_of:
 status: draft
 created: 2026-09-18
-updated: 2026-11-15
+updated: 2026-11-19
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Kelly_2025_ROE"
@@ -105,7 +105,6 @@ book_title: ""
 publication_place: ""
 publisher: ""
 issuing_organization: ""
----
 ---
 
 > [!question]
@@ -288,11 +287,6 @@ issuing_organization: ""
 > 2. **[[Interactional Expertise\|交互型专长]]与[[Contributory Expertise\|贡献型专长]]的[[Epistemology\|认识论]]鸿沟制约[[Research Translation\|研究转化]]** 推崇技术客观性与还原论的医学化循证模型脱离一线教学的复杂情境；当外部中介证据（如 [[Education Endowment Foundation\|EEF]] 评估认为助教成本高而成效低）与一线校长长期积累的具身手艺知识直接冲突时，一线专业人员展现出强烈的怀疑主义与实践抵触。
 > 3. **高利害问责导致研究证据被异化为[[Performativity|表演性]]防卫工具** 在生存焦虑笼罩下的英格兰体系中，[[Evidence-Informed Practice\|证据知情实践]]在很大程度上退化为校长迎合督导审查、向家长证明专业胜任力乃至为财政裁员提供合理化借口的工具性外衣，反而挤压了真正的[[Reflexivity\|反思性]]实践空间。
 > 4. **[[Practitioner Enquiry\|实践者探究]]构筑弥合专长断裂的制度桥梁** 苏格兰将[[Practitioner Enquiry\|实践者探究]]（Practitioner Enquiry）制度化嵌入教师专业标准（[[General Teaching Council for Scotland\|GTCS]]），使教师能够结合具体学校情境对外部证据进行调适、检验与重构，展现了弥合交互专长与贡献专长的有效路径。
-
-> [!stat-cards]- 核心数据
-> - **49** 份纳入系统[[Documentary Analysis\|文献分析]]的官方政策、督导规程与中介文献总量。
-> - **9** 位接受深度[[Semi-structured Interview\|半结构化访谈]]的三国中小学与特殊教育[[School Leadership\|学校领导]]者。
-> - **3** 个极具制度对照价值的欧洲国家与地区教育治理体系（英格兰、苏格兰、德国）。
 
 ---
 

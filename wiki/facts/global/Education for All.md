@@ -85,8 +85,6 @@ created: 2026-09-12
 updated: 2026-11-19
 ---
 
----
-
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1990 年 3 月由[[UNESCO\|联合国教科文组织]]（UNESCO）、[[World Bank\|世界银行]]（World Bank）、[[UNICEF\|联合国儿童基金会]]（UNICEF）与联合国开发计划署（UNDP）联合在泰国宗滴恩（Jomtien）世界全民教育大会上正式发布《[[World Declaration on Education for All|世界全民教育宣言]]：满足[[Basic Learning Needs|基本学习需求]]》（*World Declaration on Education for All: Meeting Basic Learning Needs*）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 > - **适用地区 / 对象** 全球联合国成员国，重点覆盖撒哈拉以南非洲、南亚与拉丁美洲等全球南方发展中国家。
@@ -158,9 +156,6 @@ updated: 2026-11-19
 > - **量化治理规制转向** 施泰纳-哈姆西等指出，EFA 的关键历史意义在于促成了全球南方国家首次向国际组织量化指标霸权低头；它打破了主权国家原本多元的教育发展节律，将发展中国家牢牢锁定制式化的国际基准评价链条之中。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 > - **外部依赖性借用的达标困境与主权自主对照** [[UNESCO|教科文组织]] 2006 年 EFA 全球监测报告与拉斯特等（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）的比较研究表明，被动接受国际金融机构结构调整贷款的第三世界国家普遍未能达成 2005 年预定指标；相反，古巴等将全民教育作为核心人道主义任务并拒绝新自由主义私有化借调的国家，反而取得了远超受援国的高完成度，表明主权国家内在的政治承诺而非外部依附性贷款才是实现全民教育的决定性因素。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 134)]]
 > - **新自由主义工具化与[[Learning Crisis|学习危机]]前置温床** 桑托斯与西洛娃（[[Argument_Santos_Silova_2026_Discourse|Santos & Silova, 2026]]）指出，全民教育运动固化了将教育从集体社会公共品转向可计量个人产出（读写算基本技能）的新自由主义转向；其对初等入学率的片面追求引发全球南方就学人口激增，但在缺乏配套教育主权与师资支持下造成大面积学力匮乏，反而成为多边组织随后建构“全球学习危机”与强化外部干预的前置制度温床。[[Argument_Santos_Silova_2026_Discourse|(Santos & Silova, 2026, p. 670)]]
-
-> [!stat-cards]- 核心数据
-> 覆盖全球 164 个签署国、设立 6 大量化全球目标、涉及数千亿美元[[Transnational Education|跨国教育]]投资、促成全球失学儿童减少近 5,000 万人。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 
 ---
 

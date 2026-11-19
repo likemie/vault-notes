@@ -49,7 +49,7 @@ sources:
 part_of:
 status: draft
 created: 2026-05-25
-updated: 2026-11-11
+updated: 2026-11-19
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Bulag_2024_CE"
@@ -68,7 +68,6 @@ doi: ""
 citation_aliases:
   - "Bulag, 2024"
   - "Bulag (2024)"
----
 ---
 
 > [!question] [[Research Question\|研究问题]]与主权管辖矛盾
@@ -234,12 +233,6 @@ citation_aliases:
 > 2. **西方批评[[Discourse|话语]]与学术合谋** 西方的灭绝种族/[[Settler Colonialism\|定居殖民主义]][[Paradigm\|范式]]不仅无法支持少数民族政治自决，其推动的 `minzu` ➔ `zuqun`（去政治化的族群）概念转换更在客观上被中共政策学者挪用为废除民族区域自治的科学依据，形成非意图合谋。
 > 3. **中华民族建构的[[Retrotopia\|怀旧乌托邦]]** 中华[[National Rejuvenation Narrative|民族复兴]]话语是一种修复性怀旧国家工程，通过重构前现代的起源神话与吸引力叙事（如[[Zhao Tingyang\|赵汀阳]]的[[Tianxia Heuristic|天下体系]]、[[Pan Yue\|潘岳]]的[[Wuhu Ruhua\|五胡入华]]），将文化消亡美化为自愿且向上的成为。
 > 4. **[[2020 Inner Mongolia Bilingual Education Reform\|内蒙古双语教育改革]]的危机实践** 2020 年内蒙古双语教育危机通过表彰精英的公开阉割、免职官员的政治清洗和基层干部自杀的个体悲剧，全面呈现了自我牺牲机制的残酷推行，将模范自治区重塑为模范牺牲区。
-
-> [!stat-cards]- 核心数据与关键节点
-> - **100+** （万） 新疆教育培训中心被拘留的少数民族估计人数。
-> - **11** （例） 2020 年内蒙古双语教育改革危机中蒙古族个体的自杀记录。
-> - **1988** [[Fei Xiaotong\|费孝通]]提出多元一体格局，成为中共处理民族关系的核心学术理论支撑。
-> - **2002** 中共党章修订将党定义为中华民族的先锋队，完成向单一国族（Nation）的政治转向。
 
 ---
 

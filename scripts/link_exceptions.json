@@ -17,10 +17,6 @@
       "target": "wiki/concepts/research-methodology/Retroduction.md"
     },
     {
-      "sentence": "**方法启示** 展示了探索性比较案例研究与溯因推理在透视宏大跨国教育倡议中的应用价值，通过对多边联盟组织章程、治理架构与活动清单的深度制度分析提炼理论假说。",
-      "target": "wiki/concepts/research-methodology/Retroduction.md"
-    },
-    {
       "sentence": "举办年度丝绸之路大学校长论坛",
       "target": "wiki/concepts/higher-education/Grandes Ecoles.md"
     },
@@ -309,10 +305,6 @@
       "target": "wiki/concepts/comparative-education/Assemblage.md"
     },
     {
-      "sentence": "**66%** 跨领域成果颠覆性变异中能够直接由团队组织规模本身所独立解释的方差比例（控制研究主题与方法设计后）",
-      "target": "wiki/concepts/research-methodology/Research Topic.md"
-    },
-    {
       "sentence": "顶尖成员占比与绩效经验曲线",
       "target": "wiki/concepts/university-industry-collaboration/Learning Economy.md"
     },
@@ -453,16 +445,6 @@
       "target": "wiki/concepts/research-methodology/Research Scope.md"
     }
   ],
-  "wiki/arguments/journal-articles/Educational Research/Argument_Zhang_Zhao_2026_EDR.md": [
-    {
-      "sentence": "进入该校后，他融入该校崇尚高强度数理推导与合作研讨的学术文化，师从爱德华·普雷斯科特（Edward Prescott），在博士第一学年便共同起草发表了关于动态经济学与时间一致性的奠基性学术成果，直接奠定了其荣获 2004 年诺贝尔经济学奖的核心研究。",
-      "target": "wiki/persons/us/James C. Scott.md"
-    },
-    {
-      "sentence": "经济学大师索洛在哈佛大学受教于瓦西里·列昂惕夫（Wassily Leontief），导师在研讨班上一对一日常讨论中对投入产出模型与经济增长动态精髓的精辟点拨，促使索洛领悟到现代宏观增长理论的内在精神脉络；化学诺奖得主戴森霍费尔在慕尼黑马克斯·普朗克生物化学研究所攻读博士期间，导师罗伯特·胡贝尔（Robert Huber）对 X 射线晶体解析精益求精的炽热激情与对科学真理的执着信仰，宛如一种无声的精神力量深刻濡染了门下弟子，最终合力攻克光合作用反应中心三维结构解析难题。",
-      "target": "wiki/persons/germany/Max Planck.md"
-    }
-  ],
   "wiki/arguments/journal-articles/Modern University Education/Argument_Yang_2017_MUE.md": [
     {
       "sentence": "面对大学科研被军工任务捆绑的现实，大学校长、学术基金会与初创时期的国家科学基金会持续发出抗议，但在紧缩预算与政治审查下，早期争取自由基础研究经费的努力历经波折。",
@@ -485,10 +467,6 @@
     {
       "sentence": "理论工具箱将关注焦点从专利权授予本身推进至专利商业许可与实体材料控制的交互作用。",
       "target": "wiki/concepts/research-methodology/Interaction Effect.md"
-    },
-    {
-      "sentence": "**材料管控与收益索取** 杜邦公司对实验小鼠推行极高的单鼠采购定价，严禁科研人员自行繁育后代，要求科学家在发表研究成果前接受公司预先审查，并强制要求对任何利用该小鼠获得的后续科研突破索取到达提成（reach-through royalties）。",
-      "target": "wiki/facts/uk/Reach.md"
     }
   ],
   "wiki/arguments/journal-articles/RAND Journal of Economics/Argument_Azoulay_2011_RJE.md": [

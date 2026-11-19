@@ -172,7 +172,6 @@ status: draft
 created: 2026-10-22
 updated: 2026-11-19
 ---
----
 
 > [!question]
 > 在推进联合国 2030 年[[UN Sustainable Development Goals|可持续发展目标]]4（Sustainable Development Goal 4, SDG 4）进程中，如何有效提升教育政策、规划与实施（Policy, Planning, and Implementation, PPI）中的研究证据利用（[[Research Utilization|Use of Research Evidence]], URE）效能？全球公共卫生领域在统筹、管理与转化研究证据方面的长期经验，能够为全球教育循证治理提供何种制度镜鉴？
@@ -546,7 +545,6 @@ updated: 2026-11-19
 > - **0.006** 全球教育证据利用来源网络的整体密度，展现出极度松散态势（p. 23）。
 > - **121** 个在网络拓扑分析中识别出的完全相互隔离的子网络群（p. 23）。
 > - **520 vs 66** 篇高被引经典文献数量对比（公共卫生 vs 教育）（p. 12）。
-> - **30.5% vs 23.6%** 文献发表年均复合增长率对比（公共卫生 vs 教育）（p. 12）。
 
 ---
 

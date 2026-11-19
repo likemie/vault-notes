@@ -47,9 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-10-26
----
-
+updated: 2026-11-19
 ---
 
 > [!claim] 项目定位
@@ -108,9 +106,6 @@ updated: 2026-10-26
 > - **主要效应** 在试验干预期间对单亲群体的在职留存率与收入产生显著正向促进，但在奖金期结束后部分群体的促进效应出现回落。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 343)]]
 > - **[[Heterogeneity|异质性]]效应** 对基线就业意愿强烈且具备基本职业技能的受试者成效更为持久，对多重障碍的极端弱势群体效果相对有限。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 343)]]
 > - **边界条件** 成效取决于地方就业顾问队伍的专业辅导深度以及区域劳动力市场的有效用工需求。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 341–343)]]
-
-> [!stat-cards]- 关键实证数据
-> 开展 3 轮独立随机对照测试，覆盖 NDLP、ND25+ 与在职低收入群体。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 343)]]
 
 ---
 

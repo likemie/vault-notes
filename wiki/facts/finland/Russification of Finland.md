@@ -50,9 +50,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-06
-updated: 2026-11-14
----
-
+updated: 2026-11-19
 ---
 
 > [!claim] 核心定性
@@ -108,17 +106,6 @@ updated: 2026-11-14
 > - **教育立国共识确立** 地缘压迫催生全民族生存危机感，促成全社会倾力投资教育与信任学校专业自主的制度惯性。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 20–21)]]
 > - **反弹激化边疆起义** 沙皇推行强制同化未能稳固帝国统治，反在波罗的海与芬兰边疆播下彻底决裂火种，成为引爆1905年与1917年帝国崩溃的加速器。[[Argument_Anderson_2016_Verso_Ch06|(Anderson, 2016, p. 90)]]
 > - **教师崇高声望成型** 教师在抗争中积聚深厚社会资本，使芬兰教师选拔长年保持严苛门槛，成为后续[[Finnish PISA Miracle|芬兰教育奇迹]]的深层历史动力。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 18–21)]]
-
-> [!stat-cards]- 核心历史数据
-> - **1899**
->   沙皇签署《二月宣言》
->   强行规定帝国立法全面凌驾于芬兰大公国法律之上。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 20)]]
-> - **523,000**
->   大请愿全民联署人数
->   占当时芬兰成年总人口三分之一以上，创下欧洲和平抗争史联署纪录。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 20)]]
-> - **1906**
->   欧洲首个实行普遍男女平等普选的议会建立
->   抗争迫使沙皇妥协建立一院制现代议会并赋予女性投票与参选权。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 20)]]
 
 ---
 

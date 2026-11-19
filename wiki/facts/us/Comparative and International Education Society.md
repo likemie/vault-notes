@@ -81,9 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-08
-updated: 2026-11-11
----
-
+updated: 2026-11-19
 ---
 
 > [!claim] 核心定位
@@ -142,13 +140,6 @@ updated: 2026-11-11
 > - **[[Disciplinary Institutionalization|学科建制化]]确立** 终结了 19 世纪零星的个人游记与业余行政考察，将比较教育建构为具有专业学会、核心刊物、博士梯队与同行评议规程的完整现代社会科学学科。
 > - **范式演变与方法拓殖** 依托 CER 半个世纪的发表实践，推动比较研究从早期思辨描述向现代经验量化拓展（非历史研究占比达约 60%）；破除了战后[[Structural Functionalism|结构功能主义]]一元垄断，孕育了包容[[Positivism|实证主义]]、[[Dependency Theory|依附理论]]、[[Critical Theory|批判理论]]与[[Postmodernism|后现代主义]]的理论[[Pluralism|多元主义]]。
 > - **全球多中心学术网络催化** 作为核心创会主体促成[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（WCCES）壮大至 33 个成员学会，从制度上瓦解了早期英美西欧学术霸权的封闭垄断，推动非西方自主知识生产的合法化。
-
-> [!stat-cards]- 核心规模数据
-> - **1956** 学会创办年份（与旗舰会刊 CER 共同诞生）；
-> - **50** 年期刊文献计量跨度（1957–2007 CER 实证发表追踪）；
-> - **26** 种并存理论范式（UCLA 调查证实学科告别单一范式垄断）；
-> - **33** 个 WCCES 成员学会（催化全球多中心比较教育学会网络）。
-> [[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 122, 129–132)]]
 
 ---
 

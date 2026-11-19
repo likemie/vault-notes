@@ -52,9 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-11-02
----
-
+updated: 2026-11-19
 ---
 
 > [!claim] 核心定位
@@ -129,12 +127,6 @@ updated: 2026-11-02
 > - **建立东盟常态化日常治理枢纽** 终结了东盟过去完全依赖轮值主席国巡回办公的松散传统，使雅加达具备了真正的常设决策支持中枢。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 532–533)]]
 > - **培育跨国外交官的人际信任与合作惯习** 通过长期集中驻扎与密集互动，在严格的主权防卫边界内探索出增进共识的务实机制。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 532)]]
 > - **夯实“东盟中心地位”的对外承载平台** 在大国地缘博弈加剧背景下，为东盟主导亚太区域多边架构提供了高反应速度的外交执行载体。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 528)]]
-
-> [!stat-cards]- 核心规模数据
-> - **10** （位） 派驻雅加达的东盟十国特命全权常驻代表大使。
-> - **12** （人） 东盟成员国派驻雅加达使团的平均编制人数。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 533)]]
-> - **75** （人） 东盟秘书处下设专业官员的总编制数量。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 532)]]
-> - **3** （次） 截至 2012 年 5 月常态化举行的“东盟+3”CPR 正式磋商会议次数。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 534)]]
 
 ---
 

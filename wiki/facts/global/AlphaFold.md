@@ -45,9 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-02
-updated: 2026-11-11
----
-
+updated: 2026-11-19
 ---
 
 > [!claim] 项目定位
@@ -100,9 +98,6 @@ updated: 2026-11-11
 > - **预测精度打破历史慢速积累** 单届竞赛实现的算法预测精度增幅，相当于 CASP 过去两届（四年）常规进展的总和。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, p. 231)]]
 > - **非建制团队展现颠覆性优势** 完全缺乏分子生物学传统建制背景的计算团队跨界击败全部顶尖领域学者，验证了通用深层网络在特定高维科学空间内的求解效率。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 231–232)]]
 > - **窄域智能的边界与互补性** 汪大胜（[[Dashun Wang]]）与阿尔伯特-拉斯洛·[[Albert-László Barabási|巴拉巴西]]（Albert-László Barabási）指出，AlphaFold 展现了专用解题工具的极致性能，但其成功高度依赖海量高质量训练数据与明确的优化目标，无法自行提出新的前沿科学命题或替代人类直觉。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 238–239)]]
-
-> [!stat-cards]- 关键实证数据
-> 在针对 90 种已知但未公开构象的盲测蛋白质中全面领先；击败全场 97 支由资深科学家领衔的国际顶尖参赛团队；预测精度单届提升增量达到过去两届赛事总和。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 231–232)]]
 
 ---
 

@@ -57,8 +57,6 @@ created: 2026-10-29
 updated: 2026-11-19
 ---
 
----
-
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2007 年 11 月 20 日在新加坡举行的第 13 届[[ASEAN|东盟]]首脑会议上由十国国家元首或政府首脑共同签署，2008 年 12 月 15 日正式生效；发布主体为东南亚国家联盟（Association of Southeast Asian Nations, ASEAN）。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 522–523)]]
 > - **适用地区 / 对象** 东南亚十个成员国（文莱、柬埔寨、印度尼西亚、老挝、马来西亚、缅甸、菲律宾、新加坡、泰国、越南）主权政府、区域常设机构及各层级合作机制。
@@ -113,12 +111,6 @@ updated: 2026-11-19
 > - **确立现代国际组织法定外壳** 结束了东盟长达 40 年缺乏条约法地位的历史，为东南亚在国际多边体系中以统一实体行动确立了宪制基石。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 523)]]
 > - **强化亚太地缘合作的东盟中心地位** 宪章确立的[[Open-Mindedness|开放性]]多边合作机制，巩固了东盟主导东亚峰会、东盟+3 及[[ASEAN Regional Forum|东盟地区论坛]]的政治合法性。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 528–529)]]
 > - **履约机制空心化瓶颈** 缺乏类似[[Court of Justice of the European Union|欧洲法院]]的超国家司法审判实体与多数表决规程，导致宪章倡导的规则约束高度依赖成员国自觉配合，集体问责能力受到严格制约。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 523–524)]]
-
-> [!stat-cards]- 核心数据
-> - **10** （个） 签署并批准《东盟宪章》的东南亚主权成员国数量。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 522)]]
-> - **3** （大） 依据宪章确立的一体化共同体支柱体系（政治安全、经济、社会文化）。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 523)]]
-> - **2** （次） 宪章第 7 条规定的东盟首脑峰会每年法定召开频次。
-> - **2008** （年） 《东盟宪章》完成全域法定批准程序并正式生效的年份。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 523)]]
 
 ---
 

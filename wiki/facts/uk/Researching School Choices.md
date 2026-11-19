@@ -70,9 +70,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-11-11
----
-
+updated: 2026-11-19
 ---
 
 > [!claim] 项目定位
@@ -127,11 +125,6 @@ updated: 2026-11-11
 > - **破除“无 [[Randomised Controlled Trials\|RCT]] 即无因果”的教条主义迷思** 确立了严密的[[Quasi-Experimental Designs\|准实验设计]]在宏观教育治理领域的法定地位，证明了在组织变革领域，高水准的 QED 能够提供远比强行实施畸形 RCT 更加稳健可靠的实践指导。
 > - **零负担获取全样本高代表性因果证据** 依托 NPD 行政普查数据开展回顾性与前瞻性准实验，不仅免去了对公立学校长达数年的实地打扰，更消除了小样本 RCT 常见的[[Hawthorne Effect\|霍桑效应]]（Hawthorne Effect）与招募偏倚，大幅提升了证据的[[External Validity\|外部效度]]。
 > - **平息基础教育界长达数世纪的意识形态争端** 针对按能力分班与混合编班、学校作息调整等高度政治化的争议，以数百万学生的客观统考匹配数据进行去魅，使学校决策重归实证理性。
-
-> [!stat-cards]- 关键实证特征
-> - 数据样本底座：英格兰全境数百万中小学生全量行政普查记录（NPD）。
-> - 研究扰动度：对一线学校日常教学与管理实现 0 田野打扰。
-> - 评估设计库：全面集成回归断点（[[Regression Discontinuity Design\|RDD]]）、[[Difference-in-Differences\|双重差分]]（DID）与[[Propensity Score Matching\|倾向得分匹配]]（PSM）。
 
 ---
 

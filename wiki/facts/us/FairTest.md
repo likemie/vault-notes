@@ -45,9 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-10-22
----
-
+updated: 2026-11-19
 ---
 
 > [!claim] 核心定位
@@ -118,10 +116,6 @@ updated: 2026-10-22
 > - **填补教师工会的集体行动盲区** 当主要教师工会因担心被指责漠视学生学业差距而陷入战略犹疑时，FairTest 支持的退考运动以家长为主体开辟了反抗新战线，突破了职业工会的行动局限。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 260–261)]]
 > - **迫使政府降低测验利害与频次** 强力推动了纽约州等地方当局暂停将测试与教师评价硬性挂钩，并大幅缩减了中小学统考时长与施测科目。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
 > - **从体制外抗争向体制内决策转变** 促成了退考运动领袖与家长进入官方学区委员会，使基层教育抵抗力量直接参与学区教育政策制订。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
-
-> [!stat-cards]- 关键实证数据
-> - **1985** FairTest 机构创立年份。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
-> - **> 20%** 纽约州部分学区家长响应退考号召的学生罢考率峰值。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
 
 ---
 

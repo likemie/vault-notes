@@ -78,9 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-11
----
-
+updated: 2026-11-19
 ---
 
 > [!claim] 核心定位
@@ -166,9 +164,6 @@ updated: 2026-11-11
 > - **学术引领** 率先打破纯认知纸笔测验的狭隘[[Paradigm|范式]]，将“[[Social-Emotional Learning|社会情感能力]]（SEL）”与“微观家庭福祉”引入全球主流教育政策视野，促成[[OECD|经合组织]]等其他多边机构的政策跟进。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 544)]]
 > - **政策塑造** 推动国际社会确立“女童受教育权”与“危机情境中受教育权”的最高道德红线，倒逼各国在战争、灾荒和公共卫生危机期间维持基础教育生命线。
 > - **学校与实践改变** 在数十万所边远乡村与难民营小学建立免受体罚、包容女童卫生设施的爱生学校空间；同时通过资助基层在职教师培训，为农村一线女教师提供教学专业知识权威，支持其在学校与社区中协商拓展教学自主性（Stacki, 1999, 2004; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, p. 109]]）。
-
-> [!stat-cards]- 核心规模数据
-> 业务覆盖全球 190 多个国家和地区；MICS 调查历经六轮、涵盖 110 余国数百万家庭微观样本；年均支持数千万处于危机情境的儿童重返课堂。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 544)]]
 
 ---
 

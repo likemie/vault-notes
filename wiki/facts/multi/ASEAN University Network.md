@@ -57,8 +57,6 @@ created: 2026-10-29
 updated: 2026-11-19
 ---
 
----
-
 > [!claim] 核心定位
 > [[ASEAN|东南亚国家联盟]]框架下的区域旗舰高校自治网络；通过推动成员国 30 所顶尖[[Research Universities|研究型大学]]在具体学科上的微观协同、[[ASEAN Credit Transfer System|东盟学分转移系统]]（ACTS）及质量保障体系（AUN-QA），确立了以大学自主结网和务实合作为重心的东南亚高等教育[[Pragmatic Paradigm|实用主义]]区域治理[[Paradigm|范式]]。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151–152)]]
 
@@ -130,11 +128,6 @@ updated: 2026-11-19
 > - **确立高校自主结网范式** 开创了绕开繁琐行政审批、以大学自主协同为重心的区域合作实践路径，为东南亚高教治理提供了微观活力。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151–152)]]
 > - **培育内生质量保障文化** 推动各参与院校建立起符合国际规范又尊重本土制度[[Heterogeneity|异质性]]的内部质保机制，摆脱对西方评估框架的单一依赖。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]
 > - **奠定多帆竞逐格局中的名校支柱** 在东南亚高等教育区域主义中扮演名校网络核心支柱，与政府部委主导的 [[SEAMEO RIHED]] 形成平级分立与良性竞合。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 152–154)]]
-
-> [!stat-cards]- 核心规模数据
-> - **30** （所） 东盟大学联盟正式成员高校数量，覆盖东盟十国顶尖研究型大学。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]
-> - **10** （个） 成员高校所在的东南亚国家联盟成员国总数。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]
-> - **1995** （年） 联盟章程正式签署并设立常设秘书处的年份。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]
 
 ---
 

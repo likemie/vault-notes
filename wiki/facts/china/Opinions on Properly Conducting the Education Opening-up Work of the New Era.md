@@ -53,9 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-13
-updated: 2026-11-13
----
-
+updated: 2026-11-19
 ---
 
 > [!policy-context] 政策背景
@@ -112,11 +110,6 @@ updated: 2026-11-13
 > - **奠定中国教育全面走向海外的制度基准** 突破了此前单一依赖[[Study Abroad|留学]]生公派与[[Sino-Foreign Cooperation in Running Schools|中外合作办学]]“引进来”的单向格局，正式确立了双向开放的现代高教治理[[Paradigm|范式]]。[[Argument_He_2018_HEP|(He & Wilkins, 2018, p. 322)]]
 > - **激活多层次高校面向周边的办学探索** 为地方高校和专业类院校开展境外轻资产办学拓宽了通道，丰富了中国[[Educational Diplomacy|高教外交]]的在地接触点。
 > - **揭示宏观政策话语与微观市场利益的共生机制** 实证表明，该政策既作为顶层战略指引，也成为海外分校在自负盈亏市场运营中争取体制内资源的战略工具。[[Argument_He_2018_HEP|(He & Wilkins, 2018, p. 330)]]
-
-> [!stat-cards]- 核心数据
-> - **2016** （年） 中共中央办公厅、国务院办公厅印发《意见》年份。[[Argument_He_2018_HEP|(He & Wilkins, 2018, p. 322)]]
-> - **4** （所） 政策实施前后中国教育部正式批准设立的海外实体大学分校数量。[[Argument_He_2018_HEP|(He & Wilkins, 2018, p. 322)]]
-> - **98** （个） 截至 2016 年 3 月中国高校在境外举办的高等教育机构与项目总数。[[Argument_He_2018_HEP|(He & Wilkins, 2018, p. 322)]]
 
 ---
 

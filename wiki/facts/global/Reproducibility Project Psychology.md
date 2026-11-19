@@ -50,9 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-02
-updated: 2026-11-15
----
-
+updated: 2026-11-19
 ---
 
 > [!claim] 项目定位
@@ -105,9 +103,6 @@ updated: 2026-11-15
 > - **显著性复制率不足四成** 原始研究中 97% 报告了显著结果，但独立复验中仅 36% 的实验达到 $p < 0.05$ 的统计显著水平。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, p. 237)]]
 > - **效应量断崖式衰减** 复验实验的平均效应量仅为原始报告数值的一半左右，证实学术出版体系中充斥着被放大的假阳性估计。
 > - **[[Metascience|元科学]]算法基准价值** 经过严格审查的 RPP 实验集成为检验元科学计量与人工智能可复现性预测模型的核心数据资产。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 237–238)]]
-
-> [!stat-cards]- 关键实证数据
-> 涉及 100 项研究、270 位参与学者；原始研究显著率 97%，复验显著率 36%；复验失败率 61%（61/100）；为吴优优（Youyou Wu）、杨阳（Yang Yang）与布赖恩·乌兹（[[Brian Uzzi]]）训练全文语言网络模型提供了 96 项高可信基准样本。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 237–238)]]
 
 ---
 

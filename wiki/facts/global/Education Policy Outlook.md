@@ -52,9 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-02
----
-
+updated: 2026-11-19
 ---
 
 > [!claim] 项目定位
@@ -101,9 +99,6 @@ updated: 2026-11-02
 > - **政策借鉴影响** EPO 国别简报成为各国教育部在制定中期教育规划时的常用参照文件，尤其在发生"[[PISA]] 冲击"后，落后成员国政府官员频繁援引 EPO 的跨国改革案例作为国内改革合法化依据。
 > - **规制[[Soft Power\|软权力]]** 通过系统性的"点名褒贬"（Naming and Praising）——将芬兰、加拿大等高绩效体系的政策特征转化为范本推广——EPO 形成了无需强制执行的软权力规范压力，驱动成员国政策自发向高分体系靠拢。
 > - **知识市场地位** 与[[World Education Reform Database\|世界教育改革数据库]]（WERD）研究证实，[[OECD\|经合组织]]报告整体呈现高度"外向型"知识借鉴特征，引用其他成员国改革实践的频次显著高于[[World Bank\|世界银行]]报告的自指性引用模式。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 544–545)]]
-
-> [!stat-cards]- 核心规模数据
-> 覆盖经合组织 38 个成员国及多个伙伴国；每两年发布一部 300–400 页旗舰报告及逾 40 份国别简报；配套 [[Education GPS]] 平台提供实时互动政策比较数据可视化；与[[PISA]]、[[Teaching and Learning International Survey\|TALIS]]、[[Programme for the International Assessment of Adult Competencies\|PIAAC]] 数据深度整合联动。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 542–544)]]
 
 ---
 

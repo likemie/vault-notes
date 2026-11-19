@@ -72,7 +72,7 @@ sources:
 part_of:
 status: active
 created: 2026-11-10
-updated: 2026-11-14
+updated: 2026-11-19
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Yang_2023_ICE"
@@ -88,8 +88,6 @@ book_title: ""
 publication_place: ""
 publisher: ""
 issuing_organization: ""
----
-
 ---
 
 > [!question]
@@ -300,7 +298,7 @@ issuing_organization: ""
 > 3. **品牌与传播双向演进** 品牌塑造在与国际受众的互动反馈中动态调整，由最初的外事接待自发传播逐步演进为有组织的国家教育出口产业与全球教育治理战略。
 > 4. **话语神话与他者建构反思** 商业化品牌营销容易滑向价值灌输，构建优越自我与劣势他者的等级叙事，并以难以证伪的修辞话术遮蔽教育在福利体制中的真实根基；中国教育经验出海亟须汲取其系统整合与渠道协同经验。
 
-> [!stat-cards]- 核心数据
+> [!timeline]- 核心数据
 > - **2001** 芬兰在首届 PISA 测试中荣获阅读世界第一，成为全球教育品牌建设的关键事件起点。
 > - **2008** 芬兰外交部部长倡议成立芬兰国家品牌代表团，将教育确立为三大国家品牌支柱之一。
 > - **2010** 芬兰发布《芬兰的使命》官方报告与《芬兰教育出口战略》，正式将教育作为国家服务出口产业。

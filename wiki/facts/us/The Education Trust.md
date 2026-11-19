@@ -62,9 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-11-15
----
-
+updated: 2026-11-19
 ---
 
 > [!claim] 核心定位
@@ -122,12 +120,6 @@ updated: 2026-11-15
 > 2. **充当学术研究与立法决策的高效连接器** 在教育立法生态分析中，EdTrust 被列为最具代表性的全国性中介机构之一，成功打通了大学基础研究象牙塔与国会山立法中枢之间的信息壁垒，将学术因果分析转化为直接的立法燃料。
 > 3. **奠定共同核心标准改革的早期基石** 通过[[American Diploma Project|美国文凭项目]]（ADP）与持续的各州标准质量评价报告，联合州长与跨国企业领袖建立起追求高标准跨州网络，为随后 CCSS 运动在全美 45 州的快速过关提供了前期组织准备。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9, 16)]]
 > 4. **推动教育资助公式公平化改革** 凭借详实的跨学区资金差距计量研究，迫使全美数十个州法院与州议会承认现行基于房产税的学校资助体制存在系统性倾斜，推动了针对高需求学区的加权资助公式落地。
-
-> [!stat-cards]- 核心规模数据
-> - **18** （家） 获得盖茨基金会核心资助推动全国统一学术标准的全国性骨干机构数量（EdTrust 位列其中）。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 22)]]
-> - **50** （州） EdTrust 长期开展学术标准质量评估与 [[National Assessment of Educational Progress|NAEP]] 成绩映射比对所覆盖的美国州级系统总数。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]
-> - **5** （个） EdTrust 在加利福尼亚、纽约、得克萨斯、田纳西、路易斯安那等教育大州设立的常设州级办公室数量。
-> - **1996** EdTrust 在卡蒂·海科克领导下正式独立注册为全国非营利法人的年份。
 
 ---
 

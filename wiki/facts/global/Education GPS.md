@@ -44,9 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-26
----
-
+updated: 2026-11-19
 ---
 
 > [!claim] 项目定位
@@ -84,9 +82,6 @@ updated: 2026-10-26
 > - **可及性扩张** 将[[OECD\|经合组织]]教育数据从专业统计年鉴（需订阅或购买）转变为全球免费开放的数字服务，极大降低了中小国家教育部获取国际比较数据的成本。
 > - **政策框架的无声渗透** 在帮助用户"客观查询数据"的界面设计中，平台将经合组织定义的"重要指标"与"政策优先项"作为默认导航框架，对各国政策思维框架产生无声的认知塑造效应。
 > - **品牌强化** Education GPS 成为经合组织教育品牌的数字旗舰，与 [[PISA]] 排名发布联动推广，强化各国政府对经合组织作为权威教育信息中枢的认知。
-
-> [!stat-cards]- 核心规模数据
-> 覆盖经合组织 38 个成员国及逾 30 个伙伴经济体；接入多个百万级样本测评数据库；通过 gpseducation.oecd.org 免费对外开放；每年随 PISA、[[Teaching and Learning International Survey\|TALIS]] 等测评结果发布进行数据实时更新。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 544)]]
 
 ---
 

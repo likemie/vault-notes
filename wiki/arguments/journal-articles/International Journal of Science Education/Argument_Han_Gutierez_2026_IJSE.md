@@ -63,7 +63,7 @@ sources:
 part_of:
 status: draft
 created: 2026-09-22
-updated: 2026-11-13
+updated: 2026-11-19
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Han_Gutierez_2026_IJSE"
@@ -79,7 +79,6 @@ book_title: ""
 publication_place: ""
 publisher: ""
 issuing_organization: ""
----
 ---
 
 > [!question]
@@ -228,7 +227,6 @@ issuing_organization: ""
 > | 行 41 | **学生 H** "Should we also mention that the roots absorb minerals together with the water?" | 拓展解释广度：提出在图文说明中补充矿物质吸收过程 |
 > | 行 42 | **学生 G** "Good idea. Otherwise people might think the roots only absorb water." | 确认补充必要性：防止产生“根系仅吸收水分”的片面认知 |
 
-
 > [!example] 图解：对话 4 多模态转录片段
 > ![](https://img.mylikemie.icu/sources/Han_Gutierez_2026_IJSE/figures/Han_Gutierez_2026_IJSE_Dialogue4_Illustration.jpg)
 
@@ -290,12 +288,6 @@ issuing_organization: ""
 > 1. **中学生能够全面践行三维[[Epistemological Vigilance\|认识论警觉]]** 初中生在人机交互中展现出扎实的内容评估（识别事实堆砌、剔除修辞干扰、补全输导机制与微观结构）、[[Source Evaluation\|信源评估]]（追问数据来源、查阅教科书核实）和自身理解监控（反思已有概念、拒绝不懂的术语）。
 > 2. **双轨支架形成了协同互补的作用机制** [[Scientific Explanation\|科学解释]]标准直接指导对内容的审查，并带动对来源与自身的关注；反思提示语则直接激发信源审查与自我反思，并以解释质量标准为归宿。
 > 3. **[[Generative Artificial Intelligence\|生成式人工智能]]可以发挥激发思考的作用** 算法输出中的不完整内容及其自带的警示语，在[[Scaffolding\|教学支架]]的引导下，能够转化为促使学生主动怀疑、查证与深层探究的良好契机。
-
-> [!stat-cards]- 核心数据
-> - **8** 韩国初中二年级参与学生总数（人，分为 4 个合作小组）。
-> - **2** 开展的[[Man-Computer Symbiosis|人机协同]]科学探究课时主题（植物生长机制与真菌分类学界定）。
-> - **4** 课堂确立的人机协同核心规范与科学解释评价标准维度。
-> - **3** 质性[[Discourse Analysis\|话语分析]]提炼的核心认识论警觉实践维度（内容、信源、接收者评估）。
 
 ---
 

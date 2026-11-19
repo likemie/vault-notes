@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-11-02
+updated: 2026-11-19
 ---
 
 > [!caution] 机构缩写辨析
@@ -127,10 +127,6 @@ updated: 2026-11-02
 > - **奠定顶层跨部门统筹常态** 彻底改变了二战后各联邦部委在研发投资上“老死不相往来”的割裂状态，建立了制度化的协调管道。
 > - **支撑重大前沿战略攻坚** 通过 [[National Nanotechnology Initiative|NNI]]、[[National Quantum Initiative|NQI]] 以及[[National Strategy on Microelectronics Research|国家微电子研究战略]]等旗舰计划，确保美国在关键前沿[[Comparative Education as a Cross-Sectional Area|交叉学科]]持续保持战略先发优势。
 > - **推动科学契约由分散走向集中** 构成了战后[[Social Contract of Science|科学社会契约]]由部门自主资助向国家目标驱动转型的重要组织依托。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1059)]]
-
-> [!stat-cards]- 核心规模数据
-> - **1993-11-23** 由比尔·克林顿总统签署第 12881 号行政令正式设立的时间。
-> - **20+** （个） NSTC 统辖的全美拥有主要研发预算的联邦部委与独立执行机构数量。
 
 ---
 

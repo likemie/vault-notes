@@ -133,7 +133,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-07-12
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 > [!knowledge-map] 第16章 [[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_16_Concept_Map.jpg)
@@ -336,7 +336,7 @@ $$\text{因果效应} = (O_2 - RO_1) - (O_4 - RO_3)$$
 
 **随机化的力量演示** — Box 16.1（改编自 Pilliner, 1973）（pp. 318–319）：
 
-> [!stat-cards]- Box 16.1：随机化的效应演示
+> [!case]- Box 16.1：随机化的效应演示
 > **操作** 从一副牌中选 20 张（10 红 10 黑），洗牌后分成两堆各 10 张，记录每堆中红黑牌的数量，重复多次。
 >
 > **结果**
@@ -783,7 +783,7 @@ Dietz (1977) 在特殊教育班级中使用 ABAB 设计，研究教师对一名*
 > [!claim] 效应量优于统计显著性
 > 大样本量下统计显著性比较容易获得，因此应更重视**效应量**而非单纯的统计显著性，统计显著性是样本量的函数，效应量才反映实际意义的大小（Kline, 2004）（p. 334）。
 
-> [!stat-cards]- 小效应的实践意义
+> [!warrant]- 小效应的实践意义
 > Torgerson and Torgerson (2003a, pp. 70–71) 指出：小样本可能无法发现小效应，导致 II 型错误。在[[Evidence-Based Education\|证据本位教育]]的语境下，小效应可能具有重要价值——如果仅对课程实施方式做出一个小改变，就能使每班多一名学生通过公共考试，全英国每年将增加 **20,000 至 30,000** 名通过者（p. 334）。
 
 ---

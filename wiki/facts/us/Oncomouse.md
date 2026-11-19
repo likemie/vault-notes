@@ -53,9 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-05
-updated: 2026-11-15
----
-
+updated: 2026-11-19
 ---
 
 > [!claim] 核心定性
@@ -116,7 +114,7 @@ updated: 2026-11-15
 > - **确立科研工具非排他底线** 迫使美国各大[[Research Universities|研究型大学]]重新审视技术转移办公室的许可策略，不再轻易向上游基础实验工具授予带有到达提成性质的独家排他许可。
 > - **揭示合规盾牌防卫机制** 揭示了学者在面对同行材料索要时，借助商业独占协议作为防卫盾牌（Strategic Alibi）拒绝交付实体物料的微观行为[[Alienation|异化]]。[[Argument_Thompson_et_al_2018_RP|(Strandburg, 2008; via Thompson et al., 2018, p. 1068)]]
 
-> [!stat-cards]- 核心历史数据
+> [!timeline]- 核心历史数据
 > - **US Patent 4,736,866** 美国专利商标局授予哈佛大学致癌小鼠的正式专利编号。
 > - **1988** 美国历史上首次为转基因哺乳动物颁发专利授权的标志性年份。
 > - **11 Years** 从 1988 年独占许可引发学术阻滞，到 1999 年 NIH 与杜邦签署和解备忘录所经历的时间跨度。

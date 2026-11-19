@@ -79,7 +79,7 @@ sources:
 part_of:
 status: draft
 created: 2026-10-28
-updated: 2026-11-14
+updated: 2026-11-19
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Grek_2024_EERJ"
@@ -95,8 +95,6 @@ book_title: ""
 publication_place: ""
 publisher: ""
 issuing_organization: ""
----
-
 ---
 
 > [!question]
@@ -297,12 +295,6 @@ issuing_organization: ""
 > 1. **博洛尼亚治理中心的多极分化** 欧洲高教治理摆脱了最初依赖单一政策公报的模式，分化演进为由 ESG、EQAR、ETER 与 DEQAR 共同构成的多极复合认识论基础设施。
 > 2. **数据物质载体的深层穿透** 质保系统突破以往单纯对接中介评审机构的局限，借助高校注册底账与结果数据库互联，直接穿透至大学与专业微观层面。
 > 3. **技术评估向政治治理转化** 质量保障从技术性审查工具全面转化为支撑跨国学历自动互认、构建欧洲教育区并服务欧盟地缘战略的核心治理载体。
-
-> [!stat-cards]- 核心数据
-> - **55** 符合 ESG 标准并隶属于 ENQA 的正式会员质保机构数量。
-> - **40** ENQA 会员机构分布的欧洲国家总数。
-> - **49** 遵循博洛尼亚原则与欧洲高等教育区质保架构的成员国数量。
-> - **3** ESG 覆盖的质保层级数量（高校内部、中介外部、机构自身）。
 
 ---
 

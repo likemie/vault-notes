@@ -51,9 +51,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-30
----
-
+updated: 2026-11-19
 ---
 
 > [!policy-context] 政策背景
@@ -97,14 +95,6 @@ updated: 2026-10-30
 > - **中央设计与控制** 通过 AITSL 将四大领域的“核心内容”制度化为国家认证程序中的约束性指令。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 5–6]])
 > - **机构对齐与压力** 大学被迫重新设计其教师培训课程，引入认知神经科学内容并以指定的 Sweller [[Document|文献]]作为基本参考文献。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 5–6, p. 11]])
 > - **反馈与抵抗** 面临来自批判学者与大学教育者的反对意见，被质疑侵犯大学教师学术自主权并进行“监视治理”；然而[[Policy Network\|政策网络]]通过 [[Australian Education Research Organisation\|AERO]] 董事会的强硬表态（倾向于惩罚性资金），坚持推行权威性的国家规范。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 8]])
-
----
-
-> [!stat-cards]- 核心文本分析数据
-> - 200次：“证据”（evidence）一词在政策文本中出现的次数。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
-> - 197次：“认证”（accreditation）一词在政策文本中出现的次数。
-> - 90次：“评估”（assessment）一词在政策文本中出现的次数。
-> - 4大领域：强制性核心内容（大脑与学习、[[Effective Teaching\|有效教学]]实践、[[Classroom Management\|课堂管理]]、回应性教学）。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 5–6]])
 
 ---
 

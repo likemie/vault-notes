@@ -35,9 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-11-14
----
-
+updated: 2026-11-19
 ---
 
 > [!claim] 核心定性
@@ -101,9 +99,6 @@ updated: 2026-11-14
 > | 1984年学校与治理席位 | 约一半IB学校在北美；24名理事中4名来自北美，其中2名为校长；三分之一席位由校长会议选举 | 用于反驳学校份额直接等于治理支配的推论，不证明北美没有其他政策影响。[[Argument_Peterson_1987_OpenCourt_Ch08\|Peterson (1987, p. 208)]] |
 
 文凭颁发还为会议提供了一个学生跨国流动的具体节点。
-
-> [!stat-cards]- 规模节点
-> 会议期间，法尔库奇向一名在多国受教育、于坦桑尼亚莫希[[International Schools|国际学校]]完成课程的芬兰学生颁发第 10,000 份 IB 文凭。该案例说明多文化流动学生对共同国际资格的实际需要。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, p. 190)]]
 
 ---
 

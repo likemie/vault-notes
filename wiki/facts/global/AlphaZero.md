@@ -39,9 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-02
-updated: 2026-11-14
----
-
+updated: 2026-11-19
 ---
 
 > [!claim] 项目定位
@@ -93,9 +91,6 @@ updated: 2026-11-14
 > - **超高速泛化与学习能力** 在零人类经验输入下，仅耗费 4 小时国际象棋对弈、2 小时将棋对弈与 8 小时围棋对弈，即全面击败该领域最顶尖的专用计算机程序（Stockfish、elmo 与 AlphaGo Lee）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, p. 235)]]
 > - **创造超越人类传统的异质直觉** 国际特级大师复盘证实，AlphaZero 频繁走出突破数百年人类围棋与国际象棋定式原则的招法，表现出主动牺牲子力以换取动态位置优势的非人类策略[[Philosophical Aesthetics|美学]]。
 > - **机器假说空间的自主拓展范式** 证明在目标函数与规则边界确凿的封闭空间中，机器探索无需依赖人类历史数据的平庸输入，甚至能主动规避人类经验中固有的认知死角与偏误。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 234–235)]]
-
-> [!stat-cards]- 关键实证数据
-> 训练时间：国际象棋 4 小时、将棋 2 小时、围棋 8 小时；对战国际象棋世界冠军引擎 Stockfish 取得 28 胜 72 平 0 负（胜率 100% 不败）；每秒评估局面仅 6 万步，而传统引擎需评估 6000 万步。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 234–235)]]
 
 ---
 

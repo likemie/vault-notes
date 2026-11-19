@@ -51,9 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-11-15
----
-
+updated: 2026-11-19
 ---
 
 > [!claim] 项目定位
@@ -111,10 +109,6 @@ updated: 2026-11-15
 > - **评估工具的技术化自我繁殖** 英国经验揭示出国家评估一旦建立，官僚系统与专业数据人员便会本能地通过深化统计模型与开发解聚工具，使监控网络在测试本身频次不变的情况下实现不可逆扩张。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 256)]]
 > - **数字凝视下的表演主义与内耗** 复杂的统计报表将学校生活抽象为可量化矩阵，驱使教师将大量时间耗费在填报学情数据和迎合算法预警上，引发广泛的职业身份异化。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 256–257)]]
 > - **强化弱势学校的声誉困境** 尽管情境化增值模型试图剔除生源差距，但在实践中落后学校依然更容易在细分指标上暴露异常，促发连锁性的行政干预与生源流失。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 257)]]
-
-> [!stat-cards]- 关键实证数据
-> - **1998** [[Ofsted]] 首次向英格兰中小学派发 PANDA 表现与评估报告的年份。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 256)]]
-> - **2006** PANDA 与 PAT 追踪器正式整合为国家在线数据库平台 RAISEonline 的年份。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 256)]]
 
 ---
 

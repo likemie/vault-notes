@@ -62,9 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-14
-updated: 2026-11-02
----
-
+updated: 2026-11-19
 ---
 
 > [!claim] 核心定位
@@ -118,12 +116,6 @@ updated: 2026-11-02
 > [!finding-cards] 关键成效与辐射影响
 > - **推动英国国家循证网络成型** 早期证据网络的实践直接启发了后续涵盖教育、医疗等多领域的国家级“何者有效网络”（What Works Network）与英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）的制度设计。
 > - **改善研究利用类型学中的互动维度** 在证据利用影响因素框架中，证据网络被公认为通过本地协同与非正式接触克服官僚阻力的制度范式。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, pp. 106, 122)]]
-
-> [!stat-cards]- 核心规模数据
-> - **1999** 英国经济与社会研究委员会（ESRC）资助设立证据网络的年份。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17, p. 330)]]
-> - **£1.3M** ESRC 为建立“英国循证政策与实践中心”网络注入的初始专项基金。
-> - **2021** 威尔士政府将“融入国际证据网络”列为国家教育研究战略（NSERE）四大支柱的年份。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 117)]]
-> - **1,000+** （名） 区域证据网络（如非洲证据网络 AEN）常规连接的跨国研究者与政府官员规模。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 44–46)]]
 
 ---
 

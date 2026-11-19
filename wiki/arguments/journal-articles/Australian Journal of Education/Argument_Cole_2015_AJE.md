@@ -78,7 +78,7 @@ related_instruments:
   - "[[Academic Self-Concept General Scale]]"
 status: draft
 created: 2026-06-30
-updated: 2026-11-15
+updated: 2026-11-19
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Cole_2015_AJE"
@@ -90,7 +90,6 @@ argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: "Australian Journal of Education"
----
 ---
 
 > [!question]
@@ -246,7 +245,7 @@ journal: "Australian Journal of Education"
 >
 > 注：全部为 7 点 Likert 量表（1=不太可能，7=极有可能），NS=不显著。Hedges' $g$ 由组别均值、标准差和[[Sample Size Determination\|样本量]]以 Python 计算，正值表示 Y12 较高；该列为派生统计量，非原文报告。标准化差异最大的三项为评估主张（$g=0.263$）、分析论证（$g=0.225$）、识别论证（$g=0.217$）。
 
-> [!stat-cards]- 阶段一量表级汇总
+> [!exegesis]- 阶段一量表级汇总补充说明
 > 注：MSLQ 批判性思维分量表同样显示 Y12 > Y11（$M = 4.69$ vs 4.48$, $g=0.177$, $t(1240) = 3.04$, $p < .01$），与 CTSS 总分汇聚于一致方向。
 
 > [!warrant]- 推理桥梁
@@ -319,7 +318,7 @@ journal: "Australian Journal of Education"
 > 3. **ToK 的批判性思维教学效果高度依赖学校实施方式** 四所案例学校展示了从全校整合（学校 1 和 4）到过度依赖讨论（学校 2）的四种截然不同的实施模式。课程框架本身不能自动保证批判性思维培养。学校文化、教师经验和知识传统是关键调节[[Variable\|变量]]。其中一所学校已将 ToK 模式复制给非 IB 学生，构成对课程价值的"揭示的偏好"
 > 4. **学生经历"ToK 冲击"后长期获益** 学生在 ToK 课程初期可能遇到困难（"ToK-shock"），因为这是他们第一次被要求在没有标准答案的情况下思考，但许多学生日后重新肯定这门课程的价值，认识到它培养了一种以成熟方式批判性思考的能力
 
-> [!stat-cards]- 核心数据汇总
+> [!effect-table]- 核心数据汇总
 >
 > | 指标 | 原文统计量 | Hedges' $g$（派生） |
 > |:-----|:-------------|:------------------|

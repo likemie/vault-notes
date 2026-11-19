@@ -56,9 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-11-15
----
-
+updated: 2026-11-19
 ---
 
 > [!claim] 核心定性
@@ -117,9 +115,6 @@ updated: 2026-11-15
 > - **教育投资共识确立** 奠定了教育开支作为资本性积累的西方政策共识，促成二战后欧美及第三世界长达二十年的公立教育大扩张。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
 > - **危机动员三部曲起点** 开启了战后“1960 贝拉吉奥 ➔ 1961 华盛顿 ➔ 1967 威廉斯堡”[[International Education\|国际教育]]危机动员链条，使危机叙事成为多边机构介入国家政策的通用杠杆。
 > - **技术官僚规划的普及** 催生了以[[Manpower Requirements Approach\|人力需求预测法]]（MRA）为核心的教育规划技术，将数学模型与国家宏观行政深度捆绑。
-
-> [!stat-cards]- 核心历史数据
-> 涵盖 30 余位欧美核心学者与高级幕僚参会，奠定了后续覆盖地中海 6 国试点 MRP 项目以及战后两万亿美元级全球教育扩张周期的理论范式。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
 
 ---
 

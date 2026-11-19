@@ -234,8 +234,6 @@ created: 2026-10-14
 updated: 2026-11-19
 ---
 
----
-
 > [!claim] 核心定位
 > 经济合作与发展组织（Organisation for Economic Co-operation and Development，OECD，简称经合组织）是由市场经济发达国家组成的跨政府间国际经济组织。作为二战后西方阵营构建的重要多边协调中枢，该机构不仅是全球科技创新政策与研发统计标准的奠基者（从 1963 年《弗拉斯卡蒂手册》到 1990 年代[[National Innovation System|国家创新系统]]框架），还在后冷战时代演进为[[Global Education Governing Complex\|全球教育治理复合体]]事实上的核心协调者与国际基准制定者。OECD 通过研发以[[PISA\|国际学生评估项目]]（Programme for International Student Assessment，PISA）为代表的跨国标准化大型学生学业与技能测评体系，开创了以量化指标、公开排行、[[Policy Brokerage\|政策中介]]与[[Peer Debriefing\|同行审议]]为基础的[[Governing at a Distance\|远处治理]]（Governing at a Distance）模式，系统地将各成员国科技研发与教育体系重塑为服务于[[Human Capital Theory\|人力资本]]积累与经济增长的战略工具。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 422–425)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 538–540)]]; [[Argument_Freeman_1995_CJE\|(Freeman, 1995, pp. 8–11)]]
 
@@ -361,9 +359,6 @@ updated: 2026-11-19
 > - **主权国家法定行政转化中的中介垄断** 在国家教育改革从议程设置迈向官方行政立法或颁行阶段时，OECD 的[[Policy Brokerage\|政策中介]]工具与指标表现出极强的排他性垄断力。实证研究显示，在挪威能力课程改革中，尽管前期咨询吸纳了 464 篇多元[[Document|文献]]，但教育部最终颁布的官方行政法规中仅保留 22 篇参考文献，其中高达 20 篇被经合组织审查组垄断（涵盖[[Definition and Selection of Competencies\|能力界定与选择]]（Definition and Selection of Competencies，DeSeCo）项目框架及 OECD 挪威教育政策审查报告），印证了经合组织在主权国家行政决策出台阶段无与伦比的[[Discourse|话语]]权威。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 547–548)]]
 > - **跨国课程趋同与政治合法化背书** 尽管北欧国家（丹麦、芬兰、挪威）在推进基础教育改革时极力强调本国改革植根于独特的本土情境，但在核心课程设计上均全面吸纳经合组织 21 世纪技能与素养框架（如挪威[[Ludvigsen Commission|卢德维格森委员会]]赴巴黎总部实地考察并直接采纳其模型）；跨国比较证据主要被执政者用作宣示改革前沿性与科学化的政治背书，服从于政治合法化诉求。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 531, 542–544)]]
 > - **跨期纵向提质度量与系统改进研究催化（[[Argument_Barrenechea_2023_JEC|Barrenechea et al., 2023]]）** 经合组织主导的大型跨国测评（PISA）不仅重塑了横向空间排名，更确立了跨越时空的通用度量标尺，被比较学者定性为“全球教育定位系统”（Novoa & Yariv-Mashal, 2014）；它促使[[System-Wide Improvement|全系统改进]]研究进入“后大型国际评估时代”，使基于跨期增量数据捕捉长周期提质系统（如 2003–2018 年间爱沙尼亚、葡萄牙与波兰）并总结互锁驱动架构成为可能。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 3, 11)]]
-
-> [!stat-cards]- 核心规模数据
-> 38 个正式成员国，逾 80 个 PISA 测评参与经济体，单轮受测学生样本约 60 万人，汇聚 3,000 余名专业雇员及数亿欧元年度综合运作预算。
 
 ---
 

@@ -140,11 +140,8 @@ created: 2026-09-12
 updated: 2026-11-19
 ---
 
----
-
 > [!claim] 核心定位
 > 联合国教育、科学及文化组织（United Nations Educational, Scientific and Cultural Organization，UNESCO；简称联合国教科文组织）是联合国系统内主管教育事务的法定专门机构，代表了战后全球教育多边治理的人文主义、和平主义与人权规范传统，主导着全球[[Education for All|全民教育]]（Education for All，EFA）与[[UN Sustainable Development Goals|可持续发展目标]]中的第四项目标（Sustainable Development Goal 4，SDG 4）的统筹协调。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 541, 544)]]
-
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1945 年 11 月 16 日由 37 个创始国在伦敦签署《联合国教科文组织宪章》，1946 年正式运作，作为反思二战浩劫的制度产物，确立“战争起源于人之思想，故务需于人之思想中筑起保卫和平之屏障”的立宪初衷。
@@ -242,9 +239,6 @@ updated: 2026-11-19
 > - **学术引领** 确立了教育人文主义哲学传统，提出“学会认知、学会做事、学会共处、学会生存”四大支柱，成功对抗纯粹功利性[[Human Capital Theory|人力资本理论]]对教育价值的窄化。
 > - **政策塑造** 推动全球形成对弱势群体教育机会均等、难民受教育权保护以及教育公共属性的国际法和政治承诺。
 > - **学校与实践改变** 在发展中国家基层推动扫盲课程、和平教育、母语教学与环境[[Sustainability Education|可持续发展教育]]实验。
-
-> [!stat-cards]- 核心规模数据
-> 拥有 194 个成员国与 12 个准会员，UIS 汇聚逾 200 个国家和地区的年度官方教育普查数据，全球教育监测网络覆盖数十亿学龄与终身学习人口。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 
 ---
 

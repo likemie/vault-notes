@@ -70,9 +70,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-11-15
----
-
+updated: 2026-11-19
 ---
 
 > [!claim] 核心定位
@@ -133,9 +131,6 @@ updated: 2026-11-15
 > - **突破单向供给的“同伴中介”[[Paradigm\|范式]]** [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] 指出，教育中介若仅停留在象牙塔极易[[Alienation|异化]]；RSN 证实最有效的中介往往由一线教育同行充当，共享的职业文化与微观现实感极大地化解了教师面对外部研究时的抵触情绪与[[Evidence Backlash\|证据反弹]]。
 > - **平衡标准化证据与情境化[[Professional Judgment\|专业判断]]** RSN 不搞一刀切的机械套用，而是指导教师理解证据背后的核心机制（Active Ingredients），在校本情境中开展适应性微调，护持了教师的[[Professional Judgment\|专业判断力]]与[[Phronesis\|实践智慧]]。
 > - **助教配置区域推广达成终极学业显著增益** 深度参与南西约克郡助教指南推广战役，经英国财政研究所（IFS）[[Difference-in-Differences\|双重差分]]评估证实，参与学校 11 岁学童在全国统考（KS2）阅读与数学测试中获得数个月的显著学业进展。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 157)]]
-
-> [!stat-cards]- 核心规模数据
-> 覆盖英格兰近 40 所研究学校、设立数十个区域研究学习网络、培训认证数百名教育证据带头人（ELEs）、间接辐射英格兰数千所公立中小学校。
 
 ---
 

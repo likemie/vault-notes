@@ -49,8 +49,6 @@ created: 2026-10-29
 updated: 2026-11-19
 ---
 
----
-
 > [!claim] 核心定位
 > 东南亚教育部长组织（Southeast Asian Ministers of Education Organisation, SEAMEO）是东南亚区域内历史悠久的政府间公约组织；在法律与行政上独立于[[ASEAN|东盟]]官僚体系，通过教育部长理事会建立多边共识，统筹专业区域中心推进教育、科学与文化领域的政策对话与项目试点。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 147, 151)]]
 
@@ -116,11 +114,6 @@ updated: 2026-11-19
 > - **确立以部委为核心的高教宏观协调范式** 依托专业中心开展全域性政策测绘与多边试点，与大学自治结网形成良性互补，维系各成员国主权决策权威。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151–152)]]
 > - **协同推进东南亚高等教育共同空间** 携手东盟推进区域学分互认、质保框架对接与流动规程建设，并在面对欧洲趋同模式时坚守本土异质性与自愿协商传统。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 153–155)]]; [[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 6–7)]]
 
-> [!stat-cards]- 核心规模数据
-> - **11** （个） 东南亚正式成员国总数（东盟十国及东帝汶）。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]
-> - **1965** （年） 组织宪章在曼谷正式签署创立的年份，早于 1967 年东盟成立。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 147)]]
-> - **26** （个） 分布于东南亚各成员国的 SEAMEO 专业区域中心与网络总数。
-
 ---
 
 > [!debates] 核心争议交锋
@@ -143,7 +136,7 @@ updated: 2026-11-19
 > | [[ASEAN University Network]] | Fact (Organization) | 东盟旗下的精英大学联盟网络，与 SEAMEO 的部委协调功能平级分立。 |
 > | [[Southeast Asian Higher Education Common Space]] | Fact (Policy) | SEAMEO 协同东盟各方共同推进的弹性区域高等教育合作空间。 |
 > | [[ASEAN Way]] | Concept | 指导 SEAMEO 内部多边协商与项目自愿参与的规范原则。 |
-> | [[Comparative Regionalism]] | Theory | [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] 用以分析 SEAMEO 治理模式的理论视角。 |
+> | [[Comparative Regionalism]] | Theory | [[Argument_Chou_2017_PolSoc\|Chou and Ravinet (2017)]] 用以分析 SEAMEO 治理模式的理论视角。 |
 
 ---
 
