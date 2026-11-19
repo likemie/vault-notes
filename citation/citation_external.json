@@ -20503,6 +20503,8 @@
     "Ramirez (1997)": "Ramirez, 1997",
     "Ramirez (2006)": "Ramirez, 2006",
     "Ramirez (2013)": "Ramirez, 2013",
+    "Ramirez Yee (2024)": "Ramirez Yee, 2024",
+    "Ramirez Yee, 2024": "Ramirez Yee, 2024",
     "Ramirez, 1997": "Ramirez, 1997",
     "Ramirez, 2006": "Ramirez, 2006",
     "Ramirez, 2013": "Ramirez, 2013",
@@ -178532,6 +178534,21 @@
         "wiki/persons/schools/Stanford School.md",
         "wiki/theories/comparative-education/Nation Building through Education.md",
         "wiki/theories/comparative-education/World Society Theory.md"
+      ],
+      "title": ""
+    },
+    "Ramirez Yee, 2024": {
+      "aliases": [
+        "Ramirez Yee, 2024",
+        "Ramirez Yee (2024)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ramirez Yee, 2024"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Social Sciences/Argument_Phyo_2025_SocSci.md"
       ],
       "title": ""
     },

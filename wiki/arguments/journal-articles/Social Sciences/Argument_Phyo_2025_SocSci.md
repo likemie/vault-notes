@@ -131,34 +131,42 @@ issuing_organization: ""
 > | **基准估计策略**<br>Linear Probability Model | 统一采用[[Linear Probability Model|线性概率模型（Linear Probability Model, LPM）]]进行普通最小二乘法（Ordinary Least Squares, OLS）估计，回归系数直接反映各群体相对基准组的高等教育获得边际概率百分点差异，具备直观跨国可比性。(Fairlie & Sundstrom, 1999) |
 > | **区域固定效应与稳健性**<br>Fixed Effects & Logit | 引入各国内部次级行政区划固定效应（$u_r$）吸收地理禀赋、院校分布与经济差异；全模型同步拟合二元 Logit 进行非线性稳健性核对，显著性与符号方向保持完全一致。 |
 
-> [!formula-set] 递进计量模型设定与公式规范
-> - **基准财富模型（Model 1 · 单变量估计）**
->   $$Y_{ir} = \alpha + \boldsymbol{\beta}_1 \cdot \text{wealth}_{ir} + u_r + \varepsilon_{ir}$$
->   仅引入家庭财富五等分虚拟变量向量 $\text{wealth}_{ir}$（以最贫困五分之一 Q1 为基准组），估计未控制人口学特征时各财富阶层相对基准组的高等教育获得原始概率差距。
-> - **协变量控制模型（Model 2 · 主效应估计）**
->   $$Y_{ir} = \alpha + \boldsymbol{\beta}_1 \cdot \text{wealth}_{ir} + \boldsymbol{\beta}_2 \cdot \mathbf{X}_i + u_r + \varepsilon_{ir}$$
->   在财富基准上纳入人口学与空间区位协变量向量 $\mathbf{X}_i$（性别：女性 = 1，男性 = 0 基准组；区位：农村 = 1，城市 = 0 基准组），检验控制基本背景特征后财富边际概率效应的稳定性。
-> - **多维交叉交互模型（Model 3 · 交叉异质性估计）**
->   $$Y_{ir} = \alpha + \boldsymbol{\beta}_1 \cdot \text{wealth}_{ir} + \boldsymbol{\beta}_2 \cdot \mathbf{X}_i + \boldsymbol{\beta}_3 \cdot (\text{wealth}_{ir} \times \text{gender}_{ir}) + \boldsymbol{\beta}_4 \cdot (\text{wealth}_{ir} \times \text{rural}_{ir}) + u_r + \varepsilon_{ir}$$
->   全面引入财富与性别、财富与城乡的两组交互项向量，捕捉社会阶层与人口、空间维度交叉塑造的深层异质性与非线性分层机制。
-> - **参数与误差项界定**
->   $Y_{ir}$ 为个体 $i$ 在次级行政区划 $r$ 中是否曾进入高等教育的二元指示变量；$\alpha$ 为常数截距项；$\boldsymbol{\beta}_1$ 至 $\boldsymbol{\beta}_4$ 为待估参数向量；$u_r$ 为次级行政区划区域固定效应；$\varepsilon_{ir}$ 为随机扰动项。
+> [!formula] 递进计量模型设定与参数界定
+> **基准财富模型（Model 1 · 单变量估计）**
+> $$Y_{ir} = \alpha + \boldsymbol{\beta}_1 \cdot \text{wealth}_{ir} + u_r + \varepsilon_{ir}$$
+> 仅引入家庭财富五等分虚拟变量向量 $\text{wealth}_{ir}$（以最贫困五分之一 Q1 为基准组），估计未控制人口学特征时各财富阶层相对基准组的高等教育获得原始概率差距。
+>
+> **协变量控制模型（Model 2 · 主效应估计）**
+> $$Y_{ir} = \alpha + \boldsymbol{\beta}_1 \cdot \text{wealth}_{ir} + \boldsymbol{\beta}_2 \cdot \mathbf{X}_i + u_r + \varepsilon_{ir}$$
+> 在财富基准上纳入人口学与空间区位协变量向量 $\mathbf{X}_i$（性别：女性 = 1，男性 = 0 基准组；区位：农村 = 1，城市 = 0 基准组），检验控制基本背景特征后财富边际概率效应的稳定性。
+>
+> **多维交叉交互模型（Model 3 · 交叉异质性估计）**
+> $$Y_{ir} = \alpha + \boldsymbol{\beta}_1 \cdot \text{wealth}_{ir} + \boldsymbol{\beta}_2 \cdot \mathbf{X}_i + \boldsymbol{\beta}_3 \cdot (\text{wealth}_{ir} \times \text{gender}_{ir}) + \boldsymbol{\beta}_4 \cdot (\text{wealth}_{ir} \times \text{rural}_{ir}) + u_r + \varepsilon_{ir}$$
+> 全面引入财富与性别、财富与城乡的两组交互项向量，捕捉社会阶层与人口、空间维度交叉塑造的深层异质性与非线性分层机制。
+>
+> **参数与误差项界定**
+> - $Y_{ir}$：个体 $i$ 在次级行政区划 $r$ 中是否曾进入高等教育的二元指示变量；
+> - $\alpha$：常数截距项；
+> - $\boldsymbol{\beta}_1$ 至 $\boldsymbol{\beta}_4$：待估参数向量；
+> - $u_r$：次级行政区划区域固定效应；
+> - $\varepsilon_{ir}$：随机扰动项。
 
 > [!sample-panel]- 跨国调查样本与微观教育程度分布（表 1 与表 2）
+> <span class="scrollable-table-marker" aria-hidden="true"></span>
 >
 > **表 1：各国分析样本容量与微观调查来源**
 >
-> | 调查系统 | 国家 | 样本容量（人） | 调查实施年份 | 抽样设计与代表性 |
+> | 调查系统 | 国家 | 样本容量（人） | 实施年份 | 抽样设计与代表性 |
 > |---|---|---|---|---|
-> | **[[Demographic and Health Surveys\|人口与健康调查（Demographic and Health Surveys, DHS）]]** | 缅甸 | 27,694 | 2015–2016 | 二阶段分层[[Cluster Sampling\|整群抽样]]，全样本应用抽样权重 |
-> | **DHS** | 东帝汶 | 23,096 | 2016 | 二阶段分层整群抽样，全样本应用抽样权重 |
-> | **DHS** | 印度尼西亚 | 102,320 | 2017 | 二阶段分层整群抽样，全样本应用抽样权重 |
-> | **DHS** | 柬埔寨 | 43,721 | 2021–2022 | 二阶段分层整群抽样，全样本应用抽样权重 |
-> | **DHS** | 菲律宾 | 65,099 | 2022 | 二阶段分层整群抽样，全样本应用抽样权重 |
-> | **[[Multiple Indicator Cluster Surveys\|多指标聚类调查（Multiple Indicator Cluster Surveys, MICS）]]** | 老挝 | 48,290 | 2017 | 二阶段分层整群抽样，全样本应用抽样权重 |
-> | **MICS** | 越南 | 27,629 | 2021 | 二阶段分层整群抽样，全样本应用抽样权重 |
-> | **MICS** | 泰国 | 61,424 | 2022 | 二阶段分层整群抽样，全样本应用抽样权重 |
-> | **全库总计** | 东南亚八国 | **399,273** | 2015–2022 | 年龄限定为 25 岁及以上，最年长出生于 1946 年 |
+> | [[Demographic and Health Surveys|DHS]] | 缅甸 | 27,694 | 2015–2016 | 二阶段分层[[Cluster Sampling|整群抽样]]，施加全样本调查权重 |
+> | DHS | 东帝汶 | 23,096 | 2016 | 二阶段分层整群抽样，施加全样本调查权重 |
+> | DHS | 印度尼西亚 | 102,320 | 2017 | 二阶段分层整群抽样，施加全样本调查权重 |
+> | DHS | 柬埔寨 | 43,721 | 2021–2022 | 二阶段分层整群抽样，施加全样本调查权重 |
+> | DHS | 菲律宾 | 65,099 | 2022 | 二阶段分层整群抽样，施加全样本调查权重 |
+> | [[Multiple Indicator Cluster Surveys|MICS]] | 老挝 | 48,290 | 2017 | 二阶段分层整群抽样，施加全样本调查权重 |
+> | MICS | 越南 | 27,629 | 2021 | 二阶段分层整群抽样，施加全样本调查权重 |
+> | MICS | 泰国 | 61,424 | 2022 | 二阶段分层整群抽样，施加全样本调查权重 |
+> | **全库总计** | 东南亚八国 | **399,273** | 2015–2022 | 年龄限定为 25 岁及以上（1946–1995 年出生队列） |
 >
 > ---
 >
@@ -266,7 +274,7 @@ issuing_organization: ""
 > - **女性优势全面反超国家（菲律宾、泰国、越南、印尼、缅甸）** 早期的男性优势逐步瓦解，并在年轻世代中全面转向女性优势；越南最年轻世代中女性入学几率反超男性 6.7 个百分点，菲律宾女性净优势达 7.4 个百分点（$p < 0.001$）。
 > - **交叉性劣势未消除** 单一性别维度的差距缩小并不同步伴随其他不平等维度的消除，底层阶层依然深陷整体剥夺。(Shukla & Mishra, 2024)
 
-> [!row-contrast] 表4：分国别与全部 10 个出生队列的高等教育获得性别与城乡估计差距（控制财富，Model 2）
+> [!row-contrast]- 表4：分国别与全部 10 个出生队列的高等教育获得性别与城乡估计差距（控制财富，Model 2）
 > | 国家与[[Variable\|变量]] | 队列 1<br>(1946–50) | 队列 2<br>(1951–55) | 队列 3<br>(1956–60) | 队列 4<br>(1961–65) | 队列 5<br>(1966–70) | 队列 6<br>(1971–75) | 队列 7<br>(1976–80) | 队列 8<br>(1981–85) | 队列 9<br>(1986–90) | 队列 10<br>(1991–95) |
 > |---|---|---|---|---|---|---|---|---|---|---|
 > | **缅甸** 女性系数 | −0.019\* | −0.019\* | 0.002 | −0.009 | 0.020\* | 0.014 | 0.027\*\* | 0.044\*\*\* | 0.036\*\*\* | — |
