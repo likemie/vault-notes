@@ -8,7 +8,7 @@ aliases:
 summary: "19世纪下半叶在美国以洪堡模式为母本并融合赠地实用传统而崛起的现代高等教育核心组织范式；二战后经布什报告奠定联邦常规资助基础，成为国家科学技术与创新系统的战略中枢；1980年代以来在发展型网络国家中演进为跨界创新协作与早期技术孵化的法定网络枢纽，但亦面临虚构商品化产权壁垒与博士生产扩张伴随的高校教职吸纳断层。"
 type: concept
 domain: "higher-education"
-related_count: 116
+related_count: 118
 related_level: 11
 related_stars: "💎💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -54,6 +54,7 @@ related_concepts:
   - "[[Corporate R&D Labs]]"
   - "[[Market Fundamentalism]]"
   - "[[Technology Transfer]]"
+  - "[[Pluriverse]]"
   - "[[Academic Pipeline]]"
   - "[[STEM Education]]"
   - "[[Hard Power]]"
@@ -128,6 +129,7 @@ related_theories:
   - "[[Systems of Innovation]]"
   - "[[Pool of Knowledge]]"
   - "[[Developmental Network State]]"
+  - "[[Developmental State]]"
   - "[[Triple Helix]]"
   - "[[Social Contract of Science]]"
 related_methods:
@@ -144,7 +146,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -271,14 +273,14 @@ updated: 2026-11-15
 
 ---
 
-> [!concept-proposition] 命题九｜发展型国家将研究型大学整编为高精尖科技攻坚与地缘战略输出的制度支柱
+> [!concept-proposition] 命题九｜[[Developmental State|发展型国家]]将研究型大学整编为高精尖科技攻坚与地缘战略输出的制度支柱
 > **发展型国家动员与跨国战略从属性** 探讨非西方国家如何通过中央自上而下的战略授权，将顶尖研究型大学直接整编为服务国家地缘经济利益与关键技术突破的攻坚前哨。
 
 > [!claim] [[Argument_Woo_2023_HEP|Woo (2023)]]
 > **研究型大学服务国家战略的高新技术与智库分工** 中国在推进[[Belt and Road Education Action Plan|“一带一路”教育行动]]的政策互文网络表明，75所教育部直属顶尖研究型大学被赋予明确的政治与战略使命。区别于应用型高职院校配套基建出海的现场技能培训，研究型大学被集中统筹于《高等学校科技创新服务“[[Belt and Road Initiative|一带一路]]”倡议行动计划》，承担重大战略走廊上的高新技术研发交流、跨国联合实验室建设、国际技术转移中心设立以及高端国别智库职能。这一体制使研究型大学的科研创新与国际化活动直接服从于大国竞争中的核心技术自主与国家复兴叙事。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 685–687)]]
 
 > [!claim] [[Argument_Qu_2024_IJED|Qu and Dai (2024)]]
-> **高水平研究型大学作为跨境教育枢纽的核心锚点** 屈丽娟与代玉文指出，中国跨境高等教育枢纽以高水平研究型大学为战略支柱。在空间与治理形态上，长三角依托浙江大学单一高水平研究型大学本部统筹多元世界一流合作办学机构，构建“单核驱动型”知识与创新枢纽；[[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]]依托香港大学、香港科技大学等公立研究型大学跨法域设立分校，形成多核网络化高教集群；三地枢纽通过大学与骨干产业联合设立研发中心，将跨国智力要素直接注入区域创新体系。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 2–3, 8–10)]]
+> **高水平研究型大学作为跨境教育枢纽的核心锚点** 屈丽娟与代玉文指出，中国跨境高等教育枢纽以高水平研究型大学为战略支柱。在空间与治理形态上，长三角依托浙江大学单一高水平研究型大学本部统筹[[Pluriverse|多元世界]]一流合作办学机构，构建“单核驱动型”知识与创新枢纽；[[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]]依托香港大学、香港科技大学等公立研究型大学跨法域设立分校，形成多核网络化高教集群；三地枢纽通过大学与骨干产业联合设立研发中心，将跨国智力要素直接注入区域创新体系。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 2–3, 8–10)]]
 
 ---
 

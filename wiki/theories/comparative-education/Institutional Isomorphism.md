@@ -9,7 +9,7 @@ aliases:
 summary: "组织社会学新制度主义理论，阐明处于同一场域中的组织因追求制度合法性与采纳合理化神话，通过强制型、模仿型与规范型三种机制走向结构与行为模式的系统性趋同。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 47
+theory_related_count: 49
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -57,9 +57,11 @@ related_persons:
   - "[[Max Weber]]"
   - "[[John W. Meyer]]"
 related_facts:
+  - "[[Teach Less, Learn More]]"
   - "[[Department for Education]]"
   - "[[Committee for the Accreditation of Teacher Education]]"
   - "[[Ofsted]]"
+  - "[[Singapore Ministry of Education]]"
   - "[[National Research and Resource Facility for Submicron Structures]]"
   - "[[ASEAN]]"
   - "[[EU]]"
@@ -68,14 +70,14 @@ related_facts:
 related_arguments:
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
   - "[[Argument_Helgetun_2022_JEdPolicy]]"
+  - "[[Argument_Hogan_2013_ROE]]"
   - "[[Argument_Mody_2017_MOH]]"
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
   - "[[Argument_Murray_Moxon-Browne_2013_JCMS]]"
-  - "[[Argument_Hogan_2013_ROE]]"
 confidence: high
 status: active
 created: 2026-05-18
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -106,7 +108,7 @@ updated: 2026-11-18
 > - **1977年 — 制度化神话奠基** [[John W. Meyer|约翰·迈耶]]与布赖恩·罗恩（Meyer & Rowan, 1977）发表《作为神话与仪式的正式组织》，指出正式结构往往是获取合法性的[[Rationalized Myth|合理化神话]]。
 > - **1983年 — 三大同构机制系统确立** 迪马吉奥与鲍威尔（DiMaggio & Powell, 1983）发表《铁笼再访》，系统界定强制型、模仿型与规范型同构，确立组织[[Champ|场域]]分析[[Paradigm|范式]]。
 > - **1988年 — 制度创业与能动性反思** DiMaggio (1988) 引入“制度创业者（institutional entrepreneurs）”概念，反思同构理论过分强调[[Climatic Determinism|环境决定论]]的倾向，探讨行动者如何调动资源创建或操纵制度规则。
-> - **2013年 — 基础教育课程改革的同构吸纳** [[Argument_Hogan_2013_ROE|Hogan et al. (2013)]] 基于新加坡“少教多学”改革实证，揭示即使课程削减 20% 留白以鼓励探究，在高利害统考的刚性制度压力下，腾出的课时自主权迅速被应试训练同构吸纳（p. 102）。
+> - **2013年 — 基础教育课程改革的同构吸纳** [[Argument_Hogan_2013_ROE|Hogan et al. (2013)]] 基于新加坡“[[Teach Less, Learn More|少教多学]]”改革实证，揭示即使课程削减 20% 留白以鼓励探究，在高利害统考的刚性制度压力下，腾出的课时自主权迅速被应试训练同构吸纳（p. 102）。
 > - **2017年 — 高等教育科研网络同构验证** 赛勒斯·莫迪（[[Argument_Mody_2017_MOH|Mody, 2017]]）以全美大学微电子研究中心为实证，揭示高技术重资产背景下，各大学通过先行者标杆跟踪、模式主动示范以及教员与博士生跨校流动（Personnel Mobility），完成组织形态与治理规范的制度同构进程。（p. 297）
 > - **2021–2022年 — 跨国[[Corporate Education|企业教育]]与跨国测评同构深化** [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] 揭示跨国公司企业教育中的权威动员机制与[[Geopolitics|地缘政治]]不对称；[[Argument_Helgetun_2022_JEdPolicy|Helgetun and Menter (2022)]] 揭示教师教育政策中证据作为合理化神话驱动的规范与强制同构机制；[[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] 阐明跨国测评文化如何驱动主权国家主动接纳标准化现代教育模型并诱发制度脱耦。
 
@@ -129,7 +131,7 @@ updated: 2026-11-18
 > 组织在生存中高度依赖外部政治权威（如立法机关、教育行政部门）或垄断性资源提供者。当违背外部规制将面临丧失办学资质、失去生源拨款或遭受法律制裁的高昂制度成本时，组织倾向于调整内部结构以完全符合外部法定要求，促成场域内组织形态与管理流程的制度趋同。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, p. 183)]]; [[Argument_Helgetun_2022_JEdPolicy|(Helgetun & Menter, 2022, pp. 90–93)]]
 
 > [!example|notitle]
-> [[Department for Education|英国教育部]]通过法定[[Teacher Qualifications|教师资质]]标准、核心内容框架及 [[Committee for the Accreditation of Teacher Education|CATE]] 与 [[Ofsted]] 督导审查，强制大学与教师培训机构转型为校本技能与循证合规模式，各培训机构为了确保办学资质与拨款而建立高度一致的质量监控体系；在基础教育改革中，新加坡教育部推行“少教多学”削减 20% 教学大纲内容以释放探究留白，但因国家高利害统考的选拔功能与题型刚性未变，学校与教师在强制规制与应试绩效压力下，将释放出的自主课时一致转化为模拟考刷题与补习，展现了制度同构对改革创新的系统性吸纳（[[Argument_Hogan_2013_ROE|Hogan et al., 2013, p. 102]]）；在跨国企业教育中，微软（Microsoft）利用操作系统市场的技术排他性，强制上下游生态伙伴采纳其统一的技术认证培训体系。
+> [[Department for Education|英国教育部]]通过法定[[Teacher Qualifications|教师资质]]标准、核心内容框架及 [[Committee for the Accreditation of Teacher Education|CATE]] 与 [[Ofsted]] 督导审查，强制大学与教师培训机构转型为校本技能与循证合规模式，各培训机构为了确保办学资质与拨款而建立高度一致的质量监控体系；在基础教育改革中，[[Singapore Ministry of Education|新加坡教育部]]推行“少教多学”削减 20% 教学大纲内容以释放探究留白，但因国家高利害统考的选拔功能与题型刚性未变，学校与教师在强制规制与应试绩效压力下，将释放出的自主课时一致转化为模拟考刷题与补习，展现了制度同构对改革创新的系统性吸纳（[[Argument_Hogan_2013_ROE|Hogan et al., 2013, p. 102]]）；在跨国企业教育中，微软（Microsoft）利用操作系统市场的技术排他性，强制上下游生态伙伴采纳其统一的技术认证培训体系。
 
 > [!theory-proposition] 命题二｜模仿型同构是不确定性环境下以声誉标杆组织与合理化神话为参照的标准反应
 > 当组织技术面临严重模糊性、实践因果机制不明或政策未来走向充满高度不确定性时，组织难以依靠纯粹的理性计算做出最优决策。模仿场域内被公认为成功、具有现代性声望或占据领先地位的标杆组织，能以较低的探索成本为组织抵御外部质疑并赢得制度合法性，引发跨组织与跨国界的结构复制。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, p. 184)]]; [[Argument_Mody_2017_MOH|(Mody, 2017, pp. 292, 297)]]

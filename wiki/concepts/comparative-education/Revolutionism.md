@@ -8,7 +8,7 @@ aliases:
 summary: "Martin Wight 国际关系三大传统之一（对应 Kant 思想），将政治的终极现实视为普遍人类共同体而非国家间关系，以“武力”为推翻旧秩序的必要手段。在比较教育中，它塑造了以揭露不平等和开辟解放可能性为使命的道德事业形态，涵盖 1970 年代的新马克思主义依附论以及当代的后殖民与去殖民批判。"
 type: concept
 domain: "comparative-education"
-related_count: 20
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Rationalism in International Relations]]"
   - "[[Praxis]]"
   - "[[Epistemological Break]]"
+  - "[[Pluriverse]]"
   - "[[Re-Westernisation]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
@@ -45,6 +46,7 @@ related_persons:
   - "[[Immanuel Kant]]"
   - "[[Martin Carnoy]]"
   - "[[Iveta Silova]]"
+  - "[[Karl Marx]]"
 related_facts:
   - "[[OECD]]"
 related_arguments:
@@ -52,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-08
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -89,7 +91,7 @@ updated: 2026-11-11
 > [!feature] 核心要素 (本要素主要归纳自 [[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 426–427]])
 > - **道德激情与传教 [[Praxis]]（Missionary Praxis）** 学术的主要使命是通过唤醒心智，解构不平等的压迫机制（如解构西方强加的“心智奴役”），协助边缘受压迫者打破旧秩序，有别于解释世界。
 > - **中心-边缘不对称模型（Centre-Periphery Asymmetry）** 拒绝将国家视为单一理性的决策单位，而将其剖析为支配者与被支配者在跨国空间（“中心之中心”与“边缘之中心”的利益勾连）上的斗争。
-> - **[[Epistemological Break\|认识论断裂]]与南南脱钩（Epistemic Delinking & Pluriversality）** 在当代表现为对西方普世理性（即“西方地平线”）的决裂，强调引入南方理论 and 本土生态，建立多元共生（Pluriversality）的世界秩序。
+> - **[[Epistemological Break\|认识论断裂]]与南南脱钩（Epistemic Delinking & [[Pluriverse|Pluriversality]]）** 在当代表现为对西方普世理性（即“西方地平线”）的决裂，强调引入南方理论 and 本土生态，建立多元共生（Pluriversality）的世界秩序。
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -119,7 +121,7 @@ updated: 2026-11-11
 
 > [!dev-timeline] 发展脉络
 > - **16–18世纪 — 宗教与世俗的普遍秩序革命** 以16、17世纪宗教革命和18世纪法国大革命为开端，革命主义将消除苦难的激情投射于武力重建普遍道德社会。(引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 419]])
-> - **20世纪中叶 — 左右翼极权主义革命与[[Dependency Theory\|依附论]]萌芽** 极权革命表现了道德激情与强力专政的结合；到 1970 年代，该精神在比较教育领域转化为新马克思主义依附论与中心-边缘结构批判。(引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 419, 426]])
+> - **20世纪中叶 — 左右翼极权主义革命与[[Dependency Theory\|依附论]]萌芽** 极权革命表现了道德激情与强力专政的结合；到 1970 年代，该精神在比较教育领域转化为新[[Karl Marx|马克思]]主义依附论与中心-边缘结构批判。(引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 419, 426]])
 > - **2000s 至今 — 后殖民与去殖民比较教育转向** 革命主义超越了阶级斗争的单一[[Paradigm\|范式]]，将矛头直指[[Epistemic Coloniality\|认识论殖民性]]。它反对依附论提出社会主义作为替代普遍方案的倾向（认为其同样具有霸权性），转而追求与“西方地平线”的彻底脱钩，倡导多元共生的南南[[Knowledge Exchange\|知识交流]]。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 427]])
 
 ---

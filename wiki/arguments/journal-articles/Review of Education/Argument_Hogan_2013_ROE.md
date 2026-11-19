@@ -2,7 +2,7 @@
 summary: "通过新加坡32所中学4000余名中三学生的课堂问卷调查与全潜变量结构方程建模，揭示传统讲授、直接教学、理解教学与共同调节学习之间单向递进的层级因果结构，实证确证微观课堂呈现无宗派实用主义的教学杂糅，并论证全国统一高利害考试体系在维系高绩效的同时对学习者中心教学改革构成了决定性的制度规锁。"
 type: argument
 authors:
-  - "Hogan, D."
+  - "[[David Hogan|Hogan, D.]]"
   - "Chan, M."
   - "Rahim, R."
   - "Kwek, D."
@@ -31,6 +31,8 @@ related_concepts:
   - "[[Pedagogical Hybridity]]"
   - "[[Teacher Beliefs]]"
   - "[[Variable]]"
+  - "[[Folk Pedagogy]]"
+  - "[[Habitus]]"
   - "[[Teaching for Understanding]]"
   - "[[Construct]]"
   - "[[Direct Instruction]]"
@@ -38,6 +40,7 @@ related_concepts:
   - "[[Co-regulated Learning]]"
   - "[[Metacognition]]"
   - "[[High-Stakes Testing]]"
+  - "[[Confucian Heritage Cultures]]"
   - "[[Champ]]"
   - "[[Operationalization]]"
   - "[[Homework]]"
@@ -74,6 +77,7 @@ related_methods:
   - "[[Causal Modeling]]"
   - "[[Confirmatory Factor Analysis]]"
   - "[[Stratified Sampling]]"
+  - "[[Item Parceling]]"
   - "[[Composite Reliability]]"
   - "[[Classroom Observation]]"
   - "[[Semi-structured Interview]]"
@@ -82,31 +86,35 @@ related_methods:
   - "[[Model Fit Indices in SEM and CFA]]"
   - "[[Sample Size Determination]]"
   - "[[Confidence Interval]]"
-related_instruments:
-  - "[[Framework for Teaching]]"
+related_instruments: []
 related_persons:
   - "[[David Hogan]]"
   - "[[John Hattie]]"
 related_facts:
   - "[[Teach Less, Learn More]]"
+  - "[[National Institute of Education]]"
+  - "[[Centre for Research in Pedagogy and Practice]]"
+  - "[[Core 2 Research Program]]"
+  - "[[Singapore-Cambridge GCE Ordinary Level]]"
   - "[[Global Campaign for Education]]"
   - "[[Primary School Leaving Examination]]"
+  - "[[Singapore Ministry of Education]]"
 related_arguments: []
 sources:
   - "[[sources/Hogan_2013_ROE/Hogan_2013_ROE|Hogan_2013_ROE]]"
 part_of: ""
 status: active
 created: 2026-11-18
-updated: 2026-11-18
+updated: 2026-11-19
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Hogan_2013_ROE"
 argument_key: "Argument_Hogan_2013_ROE"
 argument_display_title: "Assessment and the logic of instructional practice in Secondary 3 English and mathematics classrooms in Singapore"
 argument_kind: "journal-article"
-argument_related_count: 58
-argument_related_level: 5
-argument_related_stars: "💎⭐⭐"
+argument_related_count: 66
+argument_related_level: 6
+argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
 journal: "Review of Education"
 book_title: ""
@@ -121,7 +129,7 @@ issuing_organization: ""
 > 新加坡中小学生在国际测试中常年名列前茅，其微观课堂教学究竟遵循怎样的运作逻辑？在国家大力推行[[Teach Less, Learn More|少教多学]]（Teach Less, Learn More, TLLM）与探究式改革的背景下，为什么一线教师依然重度依赖课本讲授与刷题操练？传统讲授、分步练习、概念理解与自主调节四类教学方法在实际课堂中呈现怎样的先后依赖关系？全国统一的升学淘汰考试又是如何扼杀教师的改革尝试，把课堂死死绑在应试战车上的？
 
 > [!claim] 核心主张
-> 戴维·霍根（[[David Hogan]]）等学者通过大规模实证揭示，新加坡中学课堂由高利害考试深度驱动，教师务实地将传统讲授、示范练习与理解探究拼贴在一起，形成主次分明的[[Pedagogical Hybridity|杂糅教学实践]]；全模型检验确证，没有扎实的讲授与练习铺垫，学生就无法真正发展出深层概念理解与自主反思能力；覆盖全岛的全国统一升学考试虽然托底了优异的测试成绩，却把课堂牢牢锁死在应试轨道上，使以学生为中心的教学改革难以落地。
+> [[David Hogan|戴维·霍根]]（[[David Hogan]]）等学者通过大规模实证揭示，新加坡中学课堂由高利害考试深度驱动，教师务实地将传统讲授、示范练习与理解探究拼贴在一起，形成主次分明的[[Pedagogical Hybridity|杂糅教学实践]]；全模型检验确证，没有扎实的讲授与练习铺垫，学生就无法真正发展出深层概念理解与自主反思能力；覆盖全岛的全国统一升学考试虽然托底了优异的测试成绩，却把课堂牢牢锁死在应试轨道上，使以学生为中心的教学改革难以落地。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 新加坡 32 所公立中学 120 间中三数学与英语学术类班级，涵盖 4000 余名学生[[Questionnaire|问卷]]、[[Teacher Beliefs|教师信念]]调查与深度个案访谈。
@@ -134,13 +142,14 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |---|---|
 > | **教学杂糅理论**<br>[[Pedagogical Hybridity]] | 阐明一线教师如何在外部考试压力与文化规范下，不讲究理论纯洁性，将不同教学流派的手法务实组合为管用的教学实践。 |
+> | **民俗教学法理论**<br>[[Folk Pedagogy]] | 借助 Bruner (1996) 与 Cohen (1988) 的概念，阐明教师基于本土常识经验与直觉心智模型维持以传授示范为主轴的实践[[Habitus\|惯习]]。 |
 > | **为理解而教框架**<br>[[Teaching for Understanding]] | 确立包含提问质量、概念聚焦、学习监控、形成性反馈与协作支架等十一维高阶教学[[Construct\|构念]]的测量与评估体系。 |
 > | **显性直接教学模型**<br>[[Direct Instruction]] | 刻画教师通过分步示范、内容结构化呈现、复习检测与针对性练习引导学生系统掌握[[Procedural Skill\|程序技能]]与良构知识的中介性策略。 |
 > | **共同调节学习理论**<br>[[Co-regulated Learning]] | 刻画学生在教师支架与同伴互动下，逐步将学习目标设立、反思监控与表现自评内化为[[Metacognition\|元认知调节]]能力的过程。 |
 > | **高利害评估与制度同构**<br>[[High-Stakes Testing]] | 剖析全国统一考试体制如何通过刚性升学问责与反向回冲效应，将学校微观教学牢固锁定在应试复现轨道上。 |
 
 > [!warrant]- 理论如何支撑论证
-> Hogan et al. (2013) 将社会学的新制度主义（Powell & DiMaggio, 1991; Scott, 1995）与认知学习论（Perkins, 1993, 1998; Rosenshine & Stevens, 1986）有机整合：在宏观制度层面，国家高利害考试构成了不可动摇的刚性制度[[Champ|场域]]，促使教师采取务实折衷的杂糅适应策略；在微观教学互动层面，结构方程模型检验了从低阶讲授到高阶探究之间的逐级依赖关系，论证了缺乏基础直接教学支撑的探究性改革在现实应试体系中无法孤立存活的认知与制度必然性。
+> Hogan et al. (2013) 将社会学的新制度主义（Powell & DiMaggio, 1991; Scott, 1995）、文化认知论中的民俗教学法（Folk Pedagogy）（Bruner, 1996; Cohen, 1988）与认知学习论（Perkins, 1993, 1998; Rosenshine & Stevens, 1986）有机整合：在文化与心理层面，深植于[[Confucian Heritage Cultures|儒家文化圈]]（Confucian Heritage Cultures）的民俗教学法赋予了讲授操练以直觉合理性；在宏观制度层面，国家高利害考试构成了不可动摇的刚性制度[[Champ|场域]]，促使教师采取务实折衷的杂糅适应策略；在微观教学互动层面，结构方程模型检验了从低阶讲授到高阶探究之间的逐级依赖关系，论证了缺乏基础直接教学支撑的探究性改革在现实应试体系中无法孤立存活的认知与制度必然性。
 
 ### 核心变量与操作化编码表
 
@@ -162,6 +171,7 @@ issuing_organization: ""
 > |---|---|
 > | **抽样设计**<br>Split-Half Multi-Level Design | 采用分半多水平[[Stratified Sampling\|分层抽样]]，每个样本班级内 50% 学生随机作答教学实践知觉问卷，另 50% 作答背景与动机问卷。 |
 > | **数据收集工具**<br>Instructional Practices Survey | 使用含 230 个题项的学生课堂知觉问卷，采用李克特 5 点量表测查各项教学实践的发生频率与行为特征。 |
+> | **测量指标打包**<br>[[Item Parceling]] | 运用[[Item Parceling\|题项打包（Item Parceling）]]技术（Bandalos & Finney, 2001）将 230 个问卷题项聚合为 22 个潜变量的 3 至 4 个复合包裹指标，削减参数估计负担并平抑测量误差。 |
 > | **测量模型确证**<br>[[Confirmatory Factor Analysis]] | 运用高阶验证性因子分析（CFA）分别检验四类教学策略在数学与英语学科中的测量模型与[[Composite Reliability\|构念信度]]（.79–.90）。 |
 > | **因果结构建模**<br>[[Causal Modeling]] (SEM) | 构建全潜变量结构方程模型，检验不同策略构件之间的直接效应、间接效应与协同协方差路径。 |
 > | **微观个案分析**<br>Qualitative Ethnographic Cases | 结合现场[[Classroom Observation\|课堂观察]]与深度[[Semi-structured Interview\|半结构化访谈]]，对中三英语与数学教师在应对大纲改革与升学考试之间的实践抉择展开个案追踪。 |
@@ -172,7 +182,7 @@ issuing_organization: ""
 > | **学生样本** | 新加坡全国 32 所公立中学超过 4000 名中三学生（数学样本 $N=1166$，英语样本 $N=1027$）。 |
 > | **班级与学科** | 约 120 间学术类班级，涵盖中三数学与中三英语两大基础主干学科。 |
 > | **教师与学校** | 抽取 120 名对应科目的授课教师完成专业发展与评估信念问卷，并选取典型教师进行深度[[Qualitative Interview\|质性访谈]]。 |
-> | **调查情境** | 2010 年开展的新加坡核心教学调查二期（Core 2 Research Program），全面覆盖公立中学普通流与快捷流班级。 |
+> | **调查情境** | 新加坡南洋理工大学[[National Institute of Education\|国立教育学院]]教育研究中心（[[Centre for Research in Pedagogy and Practice\|CRPP]]）主持开展的[[Core 2 Research Program\|核心教学研究计划二期（Core 2 Research Program）]]，全面覆盖公立中学普通流与快捷流班级。 |
 
 ---
 
@@ -347,8 +357,8 @@ issuing_organization: ""
 > [!contrast-table] 表 16 四类教学策略在中三数学与英语学科中的总览均分及策略间差异效应量
 > | 教学策略维度 | 中三数学均分（标准差） | 中三英语均分（标准差） | 学科间差异（Cohen's d） | 策略间配对效应量（数学 d） | 策略间配对效应量（英语 d） |
 > |---|---|---|---|---|---|
-> | **传统教学（TI）** | 3.69（0.642） | 3.45（0.669） | 0.37 | TI vs [[Direct Instruction\|DI]]: 0.03 | TI vs [[Discursive Institutionalism\|DI]]: 0.24 |
-> | **直接教学（DI）** | 3.67（0.670） | 3.61（0.655） | 0.09 | TI vs TfU: 0.50 | TI vs TfU: 0.03 |
+> | **传统教学（TI）** | 3.69（0.642） | 3.45（0.669） | 0.37 | TI vs [[Direct Instruction\|DI]]: 0.03 | TI vs DI: 0.24 |
+> | **直接教学（[[Discursive Institutionalism\|DI]]）** | 3.67（0.670） | 3.61（0.655） | 0.09 | TI vs TfU: 0.50 | TI vs TfU: 0.03 |
 > | **理解性教学（TfU）** | 3.38（0.602） | 3.43（0.564） | 0.09 | TI vs CRLS: 0.96 | TI vs CRLS: 0.25 |
 > | **共同调节学习（CRLS）** | 3.01（0.770） | 3.28（0.688） | 0.37 | DI vs TfU: 0.46 | DI vs TfU: 0.30 |
 > | **—** | — | — | — | DI vs CRLS: 0.91 | DI vs CRLS: 0.49 |
@@ -441,7 +451,7 @@ issuing_organization: ""
 ---
 
 > [!claim|step] 论证步骤四　全国统一升学考试死死锁住课堂，阻碍[[Inquiry-Based Learning|探究式教学]]改革落地
-> 新加坡教师的教学杂糅与绩效导向深刻植根于制度环境，受到剑桥普通水准考试（Singapore-Cambridge General Certificate of Education Ordinary Level, [[Global Campaign for Education|GCE]] O-Level）与[[Primary School Leaving Examination|小六离校考试]]（Primary School Leaving Examination, PSLE）等高利害考试体制的刚性规锁。
+> 新加坡教师的教学杂糅与绩效导向深刻植根于制度环境，受到[[Singapore-Cambridge GCE Ordinary Level|新加坡剑桥普通教育证书普通水准会考]]（Singapore-Cambridge [[Global Campaign for Education|GCE]] Ordinary Level, GCE O-Level）与[[Primary School Leaving Examination|小六离校考试]]（Primary School Leaving Examination, PSLE）等高利害考试体制的刚性规锁。
 
 > [!sub-claim] 1. 升学考试压倒教学改革，教师为求稳重回题海应试
 
@@ -452,7 +462,7 @@ issuing_organization: ""
 > **生存理性妥协** 面对两者的深层断裂，一线教师迅速放弃探究尝试，全线退守至强化习题演练、词汇填空与样板背诵的基础回归防线。个案印证了 Cheah（1998）提出的应试型读写能力（examination-type literacy）机制：教师教学决策紧密服从于怎样做才能让最多学生通过统考的现实生存理性。
 
 > [!case] 质性田野追踪个案：英语教师 Elise 在考试压力下的教学规避与回退
-> **个案背景** Elise 是新加坡一所普通中学的资深英语教师，参与了教育部 2001 年英语课程大纲实施实验。新大纲要求打破填鸭教学，推行过程写作法与[[Critical Thinking|批判性思维]]探究。
+> **个案背景** Elise 是新加坡一所普通中学的资深英语教师，参与了[[Singapore Ministry of Education|新加坡教育部]] 2001 年英语课程大纲实施实验。新大纲要求打破填鸭教学，推行过程写作法与[[Critical Thinking|批判性思维]]探究。
 > **教学困境** Elise 在日常备课中强烈感知到教学大纲与现实考卷之间的断裂：大纲强调[[Divergent Thinking|发散思维]]与真实交际，但剑桥 O 水准考试评价标准依然侧重语法精度、固定文体结构与标准化题型套路。
 > **策略应对** 经过初期微型尝试后，Elise 迅速退回到以应试为核心的基础回归防线，在课堂中反复强化习题集演练、词汇填空与样板作文背诵。
 > **机制提炼** 个案印证了 Cheah（1998）提出的应试型读写能力（examination-type literacy）机制：教师教学决策紧密服从于怎样做才能让最多学生通过统考的现实生存理性。
@@ -464,11 +474,11 @@ issuing_organization: ""
 > [!sub-claim] 2. 改革留给基层的两成自主时间被考前补习迅速占领
 
 > [!challenges] 自上而下分权倡议在基层的应试[[Alienation|异化]]（Goh, 1997; Scott, 1995）
-> - **政策自主授权** 为推动[[Teach Less, Learn More|少教多学]]（TLLM），教育部推行留白空间（White Space）倡议，正式授权学校和教师将高达 20% 的正式课程课时自由支配，用于校本特色课程或探究性学习。
+> - **政策自主授权** 为推动[[Teach Less, Learn More|少教多学]]（TLLM），[[Singapore Ministry of Education|新加坡教育部]]推行留白空间（White Space）倡议，正式授权学校和教师将高达 20% 的正式课程课时自由支配，用于校本特色课程或探究性学习。
 > - **[[Institutional Isomorphism|制度同构]]吸纳** 实证调查与访谈显示，这 20% 的留白时间迅速转化为巩固知识点、加码模拟考刷题与查漏补缺的补习课时，偏离了预期的探究研讨设想。只要国家统考的题型难度与选拔功能保持刚性，给予基层的课时自主权必然被应试焦虑机制重新吸纳，呈现典型的组织社会学[[Institutional Isomorphism|制度同构]]与惯性复制。
 
 > [!case] 制度性同化案例：留白空间（White Space）倡议被应试训练挤占
-> **政策设计** 新加坡教育部在 TLLM 框架下扣减 20% 统一大纲内容，设立 20% 课程留白，旨在为教师提供探索非应试、以学习者为中心的教学实验空间。
+> **政策设计** [[Singapore Ministry of Education|新加坡教育部]]在 TLLM 框架下扣减 20% 统一大纲内容，设立 20% 课程留白，旨在为教师提供探索非应试、以学习者为中心的教学实验空间。
 > **[[Alienation|异化]]过程** 实证调查与访谈显示，这 20% 的留白时间迅速转化为巩固知识点、加码模拟考刷题与查漏补缺的补习课时，偏离了预期的探究研讨设想。
 > **体制归因** 只要国家统考的题型难度与选拔功能保持刚性，给予基层的课时自主权必然被应试焦虑机制重新吸纳。这构成了典型的组织社会学[[Institutional Isomorphism|制度同构]]与惯性复制（Scott, 1995）。
 
@@ -522,7 +532,7 @@ issuing_organization: ""
 > *Teachers in Singapore draw from a variety of instructional perspectives in ways that reflect their pragmatic, instrumental fit-for-purpose approach and broader performative orientation ... this non-sectarian pragmatism and hybridity is neither culturally or institutionally innocent but reflects the play of powerful vernacular discourses and the complex articulation of instructional practices in response to the national high stakes assessment system.*
 
 > [!citation-card] Hogan et al. 论国家高利害统考对教学改革的刚性规锁
-> 现行高利害考试体系在多年间确实提升了教与学的达标标准，但如今它明显抑制并限制了教师按照当前政策偏好改变教学实践的意愿与机会。在客观效果上，现行评价体系激励并奖赏了那些能够最大化考试成绩的教与学方式，而非国家政策文件所呼吁的、通常与理解性[[Framework for Teaching|教学框架]]紧密相关的教学形态。
+> 现行高利害考试体系在多年间确实提升了教与学的达标标准，但如今它明显抑制并限制了教师按照当前政策偏好改变教学实践的意愿与机会。在客观效果上，现行评价体系激励并奖赏了那些能够最大化考试成绩的教与学方式，而非国家政策文件所呼吁的、通常与理解性教学框架紧密相关的教学形态。
 >
 > *So while the current assessment system has improved teaching and learning standards over the years, it now appears that the current assessment regime inhibits or constrains the willingness and opportunity of teachers to change their instructional practices in line with current policy priorities ... In effect, the current assessment regime incentivizes and rewards teachers to teach in ways that maximize assessment performance rather than the kinds of teaching and learning called for in national policy documents.*
 

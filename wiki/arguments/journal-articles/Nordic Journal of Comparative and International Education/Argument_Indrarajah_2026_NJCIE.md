@@ -21,8 +21,10 @@ tags:
 related_concepts:
   - "[[ASEAN Way]]"
   - "[[Sejahtera]]"
+  - "[[Papuan Social Ecology]]"
   - "[[Kapwa]]"
   - "[[Epistemology]]"
+  - "[[Pluriverse]]"
   - "[[Student Mobility]]"
   - "[[Operationalization]]"
   - "[[Epistemic Coloniality]]"
@@ -44,6 +46,7 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Global Regionalisms]]"
   - "[[Praxis]]"
+  - "[[Tri Hita Karana]]"
 related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"
   - "[[Dependency Theory]]"
@@ -77,7 +80,7 @@ title: "Argument_Indrarajah_2026_NJCIE"
 argument_key: "Argument_Indrarajah_2026_NJCIE"
 argument_display_title: "Challenging neocoloniality in Southeast Asian higher education: Charting the ASEAN way of regionalization through a decolonial lens"
 argument_kind: "journal-article"
-argument_related_count: 40
+argument_related_count: 43
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -94,7 +97,7 @@ issuing_organization: ""
 > 在逆全球化回潮与大国地缘博弈加剧背景下，东南亚高等教育如何摆脱美英、[[EU|欧洲联盟]]（European Union, EU，简称欧盟）与东亚外部强权的新殖民性支配，克服传统[[ASEAN Way|东盟方式]]内向自保所导致的碎片化困境，进而依托本土文化传统确立自主自立的去殖民区域高教认同？
 
 > [!claim] 核心主张
-> 东南亚高等教育区域化必须超越将传统[[ASEAN Way|东盟方式]]异化为向内孤立自保的消极防御，依托[[Sejahtera|和乐福祉]]（[[Sejahtera]]）、巴布亚社会生态学与共享内在自我（[[Kapwa]]）三大原住民哲学确立[[Epistemology|认识论]]去殖民化实践，在抵御欧美与东亚双重新殖民依附的同时，开辟以跨国资源再平衡、生态永续关怀与内生人才循环为支柱的多元世界高教治理图景。
+> 东南亚高等教育区域化必须超越将传统[[ASEAN Way|东盟方式]]异化为向内孤立自保的消极防御，依托[[Sejahtera|和乐福祉]]（[[Sejahtera]]）、[[Papuan Social Ecology|巴布亚社会生态学]]与共享内在自我（[[Kapwa]]）三大原住民哲学确立[[Epistemology|认识论]]去殖民化实践，在抵御欧美与东亚双重新殖民依附的同时，开辟以跨国资源再平衡、生态永续关怀与内生人才循环为支柱的[[Pluriverse|多元世界]]高教治理图景。
 
 > [!concept-lens] 阅读透镜
 > - **对象** [[ASEAN|东南亚国家联盟]]（Association of Southeast Asian Nations, ASEAN）高等教育治理框架、[[ASEAN University Network|东盟大学联盟]]（ASEAN University Network, AUN）、[[SEAMEO RIHED|东南亚教育部长组织高等教育与发展区域中心]]（[[SEAMEO]] Regional Centre for Higher Education and Development, SEAMEO RIHED）及东盟[[Student Mobility|学生流动]]机制。
@@ -116,12 +119,12 @@ issuing_organization: ""
 > |----------|----------|
 > | **认识论去殖民化**<br>[[Epistemic Coloniality]] / [[Decolonial Geopolitics of Knowledge]] | 解构以西方为绝对参照的普适主义真理宣称，揭示教育现代性背后的殖民性依附，主张重估受压制的南方原住民知识体系（Alcoff, 2007; Mignolo & Walsh, 2018; Quijano, 2000）。 |
 > | **新殖民主义理论**<br>[[Dependency Theory]] | 阐明国家在取得政治独立后，外部强权如何通过操纵经济流向、教育援助特权与知识标准持续维系间接支配（Nkrumah, 1965）。 |
-> | **多元世界构想**<br>[[Decolonial Geopolitics of Knowledge]] | 设想由多元认识论、[[Ontology\|本体论]]与文化传统共存共生的去中心化世界秩序，抵御全球资本主义与同质化现代化叙事的吞噬（Escobar, 2018; Mignolo & Walsh, 2018）。 |
+> | **多元世界构想**<br>[[Pluriverse]] / [[Decolonial Geopolitics of Knowledge]] | 设想由多元认识论、[[Ontology\|本体论]]与文化传统共存共生的去中心化世界秩序，抵御全球资本主义与同质化现代化叙事的吞噬（Escobar, 2018; Mignolo & Walsh, 2018）。 |
 > | **东盟方式**<br>[[ASEAN Way]] | 提供剖析不干涉内政、协商一致与主权防御规范的制度透镜，检视其历史反殖合法性及演变过程中的碎片化局限（Caballero-Anthony, 2014; Koga, 2010; Visone, 2017）。 |
-> | **南方原住民哲学**<br>[[Sejahtera]] / [[Kapwa]] / [[Buen Vivir]] | 提炼全人身心平衡、人与自然生态共生及平权社群互依等本土[[Central Phenomenon\|核心范畴]]，为区域教育治理改革提供内生价值锚点（Dayson et al., 2024; Mansoben, 2007; Razak & Sanusi, 2023）。 |
+> | **南方原住民哲学**<br>[[Sejahtera]] / [[Kapwa]] / [[Papuan Social Ecology]] / [[Buen Vivir]] | 提炼全人身心平衡、人与自然生态共生及平权社群互依等本土[[Central Phenomenon\|核心范畴]]，为区域教育治理改革提供内生价值锚点（Dayson et al., 2024; Mansoben, 2007; Razak & Sanusi, 2023）。 |
 
 > [!warrant]- 理论如何支撑论证
-> 认识论去殖民化与新殖民主义理论揭示了东南亚高教在国际标准、外语教学与学生流动上的深层不对称依附；多元世界理论破除了将欧洲博洛尼亚进程视作区域一体化唯一范本的技术迷思；三大本土哲学（Sejahtera、巴布亚社会生态学、Kapwa）将去殖民主张转化为重塑东盟方式的三大支柱（身心与本土知识自立、生态永续责任、平权协商互助），进而为东盟内部推行资源再分配与本土人才培养规划提供了价值推理桥梁。
+> 认识论去殖民化与新殖民主义理论揭示了东南亚高教在国际标准、外语教学与学生流动上的深层不对称依附；[[Pluriverse|多元世界]]理论破除了将欧洲博洛尼亚进程视作区域一体化唯一范本的技术迷思；三大本土哲学（[[Sejahtera]]、[[Papuan Social Ecology|巴布亚社会生态学]]、[[Kapwa]]）将去殖民主张转化为重塑东盟方式的三大支柱（身心与本土知识自立、生态永续责任、平权协商互助），进而为东盟内部推行资源再分配与本土人才培养规划提供了价值推理桥梁。
 
 ---
 
@@ -219,7 +222,7 @@ issuing_organization: ""
 
 > [!figure]- 图1：认识论去殖民化框架
 > ![](https://img.mylikemie.icu/sources/Indrarajah_2026_NJCIE/figures/Indrarajah_2026_NJCIE_Fig1_Epistemic_Decolonization_Framework.jpg)
-> *图1展示了作用于东南亚高教的外部欧美与东亚双重新殖民力量，以及由和乐福祉（Sejahtera）、巴布亚社会生态学与同胞认同（Kapwa）三大原住民哲学构成的认识论去殖民框架，指引重塑东盟方式走向合作、本土与可持续的多元世界认同。*
+> *图1展示了作用于东南亚高教的外部欧美与东亚双重新殖民力量，以及由和乐福祉（[[Sejahtera]]）、[[Papuan Social Ecology|巴布亚社会生态学]]与同胞认同（[[Kapwa]]）三大原住民哲学构成的认识论去殖民框架，指引重塑东盟方式走向合作、本土与可持续的[[Pluriverse|多元世界]]认同。*
 
 > [!sub-claim] 2. 马来和乐哲学倡导身心平衡以抵制追求全球排名的学术压榨
 
@@ -228,8 +231,8 @@ issuing_organization: ""
 
 > [!sub-claim] 3. 巴布亚生态观倡导人与自然共生以扭转资本主义掠夺式开发
 
-> [!warrant] 巴布亚社会生态学对掠夺式开采的纠偏逻辑
-> 巴布亚原住民将人类视为自然网络不可分割的一部分，拒绝居高临下的资源征服思维（Mansoben, 2007）。部分学者将这种敬畏自然的传统贬为缺乏进取心，恰恰暴露了西方资本掠夺式开发的傲慢；巴布亚社会生态学为当代大学应对生态危机与践行气候韧性树立了典范。
+> [!warrant] [[Papuan Social Ecology|巴布亚社会生态学]]对掠夺式开采的纠偏逻辑
+> 巴布亚原住民将人类视为自然网络不可分割的一部分，拒绝居高临下的资源征服思维（Mansoben, 2007）。部分学者将这种敬畏自然的传统贬为缺乏进取心，恰恰暴露了西方资本掠夺式开发的傲慢；[[Papuan Social Ecology|巴布亚社会生态学]]为当代大学应对生态危机与践行气候韧性树立了典范。
 
 > [!sub-claim] 4. 菲律宾同胞认同倡导平权协商对话以消除师生内化的自卑感
 
@@ -240,7 +243,7 @@ issuing_organization: ""
 > | 哲学[[Construct\|构念]] | 地缘文化原点 | 核心本体预设 | 高教去殖民批判指向 | 重塑东盟方式之政策映射 |
 > |---|---|---|---|---|
 > | **[[Sejahtera]]**<br>（和乐福祉） | 马来群岛原住民文明与伊斯兰教义交融区 | 整体福祉、心灵安定、人际和谐与生态平衡之动态统一（Razak & Sanusi, 2023） | 批判新自由主义唯排名论与学业超生产力，抵御西方期刊霸权（Razak et al., 2018） | 投资本土[[Human Capital Theory\|人力资本]]与在地知识生产，支持大学开展切合社群实际的教学科研 |
-> | **巴布亚社会生态学**<br>（Papuan Social Ecology） | 美拉尼西亚群岛与巴布亚原住民雨林生态系统 | 人类仅为自然生态网络的有机组成部分，非自然主宰者（Mansoben, 2007） | 破除资本主义对自然资源的掠夺式开采，反思殖民划界遗毒（Nkrumah, 1965） | 跨越殖民国界构建多元高教模式，将生态永续与气候韧性确立为区域核心学科 |
+> | **[[Papuan Social Ecology\|巴布亚社会生态学]]**<br>（Papuan Social Ecology） | 美拉尼西亚群岛与巴布亚原住民雨林生态系统 | 人类仅为自然生态网络的有机组成部分，非自然主宰者（Mansoben, 2007） | 破除资本主义对自然资源的掠夺式开采，反思殖民划界遗毒（Nkrumah, 1965） | 跨越殖民国界构建多元高教模式，将生态永续与气候韧性确立为区域核心学科 |
 > | **[[Kapwa]]**<br>（共享内在自我） | 菲律宾群岛南岛语族原住民社群伦理 | 他人即自我之延伸，人人休戚与共的交互主体性（Dayson et al., 2024） | 瓦解外来知者自上而下的权威等级制，消除内化殖民自卑感（Rungduin et al., 2014） | 确立扁平化、协商一致与包容性对话机制，推动区域教育资源均等化跨梯队再分配 |
 
 ---
@@ -274,7 +277,7 @@ issuing_organization: ""
 > [!finding-cards] 核心发现
 > 1. **东盟方式历史局限** 揭示以消极不干涉与主权绝对防卫为特征的传统东盟方式，在冷战后演变为国家优先的自保格局，在事实上强化了高等教育的离散与脆弱。
 > 2. **双重新殖民依附** 明确东南亚高等教育不仅受到欧美新自由主义范式与软实力支配，同时面临东亚[[Geopolitics|地缘政治]]力量的单向利益吸附。
-> 3. **本土哲学多元世界方案** 阐明 Sejahtera（全人身心平衡）、巴布亚社会生态学（生态伦理共生）与 Kapwa（共享内在自我）构成重塑区域治理的本土哲学工具箱。
+> 3. **本土哲学多元世界方案** 阐明 [[Sejahtera]]（全人身心平衡）、[[Papuan Social Ecology|巴布亚社会生态学]]（生态伦理共生）与 [[Kapwa]]（共享内在自我）构成重塑区域治理的本土哲学工具箱。
 > 4. **去殖民政策改革进路** 提出扩大 AUN 准入建立对口帮扶、纠偏单向外流奖学金机制以及保障区域高教项目全员参与等实质性制度举措。
 
 > [!stat-cards]- 核心数据
@@ -286,7 +289,7 @@ issuing_organization: ""
 ---
 
 > [!citation-card] 认识论去殖民化与本土哲学重塑东盟方式
-> 去殖民实践的重点在于创造多元世界图景，以反抗和抵制全球高等教育等级的不平衡。图1概述了影响东南亚的西方与东方新殖民力量，以及应作为区域去殖民回应基石的三大本土哲学：马来和乐福祉（Sejahtera）、巴布亚社会生态学与菲律宾同胞共享（Kapwa）。选择这三种哲学展现了东南亚的地理多样性，也阐明了共同构建去殖民[[Global Regionalisms|高等教育区域主义]]认同的不同理论原则。重构后的东盟方式融合了批判性原住民哲学根基与聚焦区域需求的原则，通过资源与价值的再分配、区域内部优势的明确表达以及本土人才计划的推进来实现。
+> 去殖民实践的重点在于创造[[Pluriverse|多元世界]]图景，以反抗和抵制全球高等教育等级的不平衡。图1概述了影响东南亚的西方与东方新殖民力量，以及应作为区域去殖民回应基石的三大本土哲学：马来和乐福祉（[[Sejahtera]]）、[[Papuan Social Ecology|巴布亚社会生态学]]与菲律宾同胞共享（[[Kapwa]]）。选择这三种哲学展现了东南亚的地理多样性，也阐明了共同构建去殖民[[Global Regionalisms|高等教育区域主义]]认同的不同理论原则。重构后的东盟方式融合了批判性原住民哲学根基与聚焦区域需求的原则，通过资源与价值的再分配、区域内部优势的明确表达以及本土人才计划的推进来实现。
 >
 > *Therefore, to counter this trend, this work pushes for a decolonial [[Praxis|praxis]], with an emphasis on creating pluriversal outcomes to combat and resist imbalance in the global higher educational hierarchy... Figure 1 above outlines the Western and Eastern neocolonial influences that affect Southeast Asia and the three indigenous philosophies – Malayan sejahtera, Papuan social ecology, and Filipino kapwa – that this work argues should undergird the region’s decolonial response to neocoloniality... The re-thought ASEAN Way blends critically indigenous philosophical groundings with principles that center the needs of the region, namely through a redistribution of resources and values, an articulation of intra-regional strengths, and the promotion of a local talent plan.*
 
@@ -303,7 +306,7 @@ issuing_organization: ""
 ---
 
 > [!warning] 自述局限
-> - 三大原住民哲学并未穷尽东南亚本土智慧；印度尼西亚巴厘岛三界和谐（Tri Hita Karana; Pitana, 2010）与泰国魂魄修养（Khwan; Rajadhon, 1962）同样是蕴含社群关怀的重要本土认知传统。
+> - 三大原住民哲学并未穷尽东南亚本土智慧；印度尼西亚巴厘岛[[Tri Hita Karana|三界和谐]]（Tri Hita Karana; Pitana, 2010）与泰国魂魄修养（Khwan; Rajadhon, 1962）同样是蕴含社群关怀的重要本土认知传统。
 > - 巴布亚新几内亚在政治区划上未被纳入东盟正式成员国，但跨越殖民划界将其纳入考察，能为区域高教提供互补的生态认识论视角。
 > - 当前探讨立足概念综合与政策思辨，后续仍需结合各成员国具体高校推进在地实证调研。
 

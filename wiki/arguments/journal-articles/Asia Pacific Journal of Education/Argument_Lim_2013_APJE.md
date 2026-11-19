@@ -48,11 +48,13 @@ related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[Basil Bernstein]]"
 related_facts:
+  - "[[Singapore Ministry of Education]]"
   - "[[Primary Education Review and Implementation]]"
   - "[[Primary School Leaving Examination]]"
   - "[[Desired Outcomes of Education]]"
   - "[[Goh Report]]"
   - "[[Integrated Programme]]"
+  - "[[Singapore-Cambridge GCE Ordinary Level]]"
   - "[[Independent Schools Initiative]]"
   - "[[Direct School Admission]]"
   - "[[Singapore National Education]]"
@@ -70,7 +72,7 @@ title: "Argument_Lim_2013_APJE"
 argument_key: "Argument_Lim_2013_APJE"
 argument_display_title: "Meritocracy, elitism, and egalitarianism: A preliminary and provisional assessment of Singapore’s primary education review"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 34
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -84,7 +86,7 @@ issuing_organization: ""
 ---
 
 > [!question]
-> 新加坡自 1965 年建国以来始终将[[Educational Meritocracy|唯才是用]]（meritocracy）奉为国家治理与教育资源分配的核心原则。然而，该体制在实践中长期固化了阶层与族群学业分化，导致公众对社会流动的信任产生动摇。新加坡教育部（Ministry of Education, MOE）于 2009 年采纳[[Primary Education Review and Implementation|小学教育审查与实施委员会]]（Primary Education Review and Implementation, PERI）报告，试图在初等教育学龄起点推行均等化资源倾斜与整全育人改革。这项旨在重振均等主义承诺的重大政策，在既有的精英主义体制与高利害竞争文化中，究竟具备何种促进教育公平的实质潜能，又面临哪些诱发优势阶层反向垄断的结构性边界？
+> 新加坡自 1965 年建国以来始终将[[Educational Meritocracy|唯才是用]]（meritocracy）奉为国家治理与教育资源分配的核心原则。然而，该体制在实践中长期固化了阶层与族群学业分化，导致公众对社会流动的信任产生动摇。[[Singapore Ministry of Education|新加坡教育部]]（Ministry of Education, MOE）于 2009 年采纳[[Primary Education Review and Implementation|小学教育审查与实施委员会]]（Primary Education Review and Implementation, PERI）报告，试图在初等教育学龄起点推行均等化资源倾斜与整全育人改革。这项旨在重振均等主义承诺的重大政策，在既有的精英主义体制与高利害竞争文化中，究竟具备何种促进教育公平的实质潜能，又面临哪些诱发优势阶层反向垄断的结构性边界？
 
 > [!claim] 核心主张
 > 新加坡初等教育审查报告通过单班制普及、语言辅导员设立、教育协作人员扩充以及低年级非考试评价，在学龄初期建立了实质性的兜底补偿机制；但在高利害[[Primary School Leaving Examination|小学离校考试]]（Primary School Leaving Examination, PSLE）与名校[[Tracking|分轨制]]度未获根本变革的情境下，将才干定义拓宽至艺体户外领域并推行隐性探究教学，易被优势家庭的[[Cultural Capital|文化资本]]、经济财富与闲暇时间策略性转化，致使均等化政策在微观执行中反向巩固了精英主义结构与不平等意识形态。
@@ -173,7 +175,7 @@ issuing_organization: ""
 > [!example] 新加坡精英教育基础设施的层级建构
 > 新加坡自 1980 年代以来逐步构筑了高度分层的精英培养网络，明确以培育国家治理精英为旨归：
 > - **[[Genius|天才]]教育计划（Gifted Education Programme, GEP）** 自小学三年级（9 岁）起通过全国统考筛选前 1% 的学童，编入专属课程轨道，官方明确定位为培养具智慧与[[Creativity|创造力]]的高级领导人才（MOE, 2011a）。
-> - **直通车计划（IP）** 允许顶尖学术优胜者跳过中学阶段剑桥普通教育证书（General Certificate of Education, GCE）普通水准（O-Level）统考，直通高级水准（A-Level）或[[International Baccalaureate|国际文凭]]（International Baccalaureate, IB），名校得以利用省下的应试时间拓展深层研学，进一步拉大与主流学校的办学差距（MOE, 2011b）。
+> - **直通车计划（IP）** 允许顶尖学术优胜者跳过中学阶段剑桥普通教育证书（General Certificate of Education, GCE）普通水准（[[Singapore-Cambridge GCE Ordinary Level|O-Level]]）统考，直通高级水准（A-Level）或[[International Baccalaureate|国际文凭]]（International Baccalaureate, IB），名校得以利用省下的应试时间拓展深层研学，进一步拉大与主流学校的办学差距（MOE, 2011b）。
 > - **特选中学（Special Assistance Plan, SAP）** 面向高分学生提供强化华族语言与传统文化熏陶的优质环境，在多元族群社会中引发华族文化精英在社交圈层与专业领域脱离非华族同侪的担忧。
 > - **[[Independent Schools Initiative|独立学校]]体系（Independent Schools Scheme）与名校联合体** 赋予顶尖名校充分的财务与课程自主权，名校联合体推行附属小学直升优先录取政策，形成自我封闭的特权循环网络。
 

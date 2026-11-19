@@ -9,10 +9,10 @@ aliases:
 summary: "主张个体首要伦理忠诚应归于全人类共同体而非特定民族国家的规范哲学与教育思潮。在比较教育中主张超越狭隘爱国主义培育世界公民；在政治哲学与战略治理中则引发深层张力——批评者指出抽象世界主义常制造公共道德真空，弱化民主政体的防卫意志与制度凝聚力；安德森在民族主义研究中揭示其对爱国政治之爱的病理化误判，并展示启蒙普遍主义如何使早期美洲独立实践被体验为自明的全人类真理。"
 type: concept
 domain: "comparative-education"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - theme/political-philosophy
   - theme/comparative-education
@@ -31,6 +31,7 @@ related_concepts:
   - "[[The Sublime]]"
   - "[[Dunbar's Number]]"
   - "[[Alienation]]"
+  - "[[Pluriverse]]"
   - "[[Perpetual Peace]]"
   - "[[Technological Republic]]"
   - "[[Construct]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -130,7 +131,7 @@ updated: 2026-11-15
 > **世界主义公民教育的道德正当性** 论证基于斯多葛学派的世界公民理想能够打破狭隘沙文主义，教育的根本目标应当是培养能够与全人类产生共情、具备普世批判理性的自由公民。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Nussbaum, 1994; Karp & Zamiska, 2025, p. 198)]]
 >
 > [!claim] [[Alasdair MacIntyre|MacIntyre, A.]]
-> **泛滥多元世界主义对道德共同体的侵蚀** 警示脱离具体历史传统与实质美德实践的泛滥[[Pluralism|多元主义]]威胁着要将所有人淹没，强调必须在具体社群中重建维系崇高道德生活的新型共同体。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(MacIntyre, 2007; quoted in Karp & Zamiska, 2025, p. 201)]]
+> **泛滥[[Pluriverse|多元世界]]主义对道德共同体的侵蚀** 警示脱离具体历史传统与实质美德实践的泛滥[[Pluralism|多元主义]]威胁着要将所有人淹没，强调必须在具体社群中重建维系崇高道德生活的新型共同体。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(MacIntyre, 2007; quoted in Karp & Zamiska, 2025, p. 201)]]
 
 ---
 

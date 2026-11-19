@@ -10,7 +10,7 @@ subtype: program
 region: "singapore"
 fact_region: "singapore"
 fact_kind: "program"
-fact_related_count: 16
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Reading Strategies]]"
   - "[[Whole Language]]"
   - "[[Rote Learning]]"
+  - "[[Shared Book Approach]]"
   - "[[Language Experience Approach]]"
   - "[[Assertiveness]]"
   - "[[Critical Thinking]]"
@@ -38,6 +39,7 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Singapore Ministry of Education]]"
   - "[[Ministry of Education of the People's Republic of China]]"
   - "[[National Institute of Education]]"
   - "[[Primary School Leaving Examination]]"
@@ -47,13 +49,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-18
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
 
 > [!claim] 项目定位
-> 英文学习与[[Reading Strategies|阅读策略]]项目（Strategies for English Language Learning and Reading, STELLAR）是新加坡教育部（Ministry of Education, [[Ministry of Education of the People's Republic of China|MOE]]）于 2006 年试点并在 2009 年全面覆盖全岛公立小学的旗舰级英语教学改革工程，旨在重塑小学低幼学段的语言习得路径，以真实情境下的[[Whole Language|全语言]]体验与互动阅读取代传统的机械[[Rote Learning|死记硬背]]与孤立语法操练。[[Argument_Chua_2011_CILP|(MOE, 2008; cited in Chua, 2011, pp. 135–136)]]
+> 英文学习与[[Reading Strategies|阅读策略]]项目（Strategies for English Language Learning and Reading, STELLAR）是[[Singapore Ministry of Education|新加坡教育部]]（Ministry of Education, [[Ministry of Education of the People's Republic of China|MOE]]）于 2006 年试点并在 2009 年全面覆盖全岛公立小学的旗舰级英语教学改革工程，旨在重塑小学低幼学段的语言习得路径，以真实情境下的[[Whole Language|全语言]]体验与互动阅读取代传统的机械[[Rote Learning|死记硬背]]与孤立语法操练。[[Argument_Chua_2011_CILP|(MOE, 2008; cited in Chua, 2011, pp. 135–136)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2006 年在部分先导公立小学启动实验，2009 年推广至全岛公立小学一年级至三年级，随后常态化覆盖至小学六年级。[[Argument_Chua_2011_CILP|(Chua, 2011, p. 136)]]
@@ -64,7 +66,7 @@ updated: 2026-11-18
 ---
 
 > [!claim] 核心干预／机制假说
-> 通过创设富含丰富文本刺激的大书共享阅读与师生协作经验构作（Shared Book Approach & Modified [[Language Experience Approach]]），使学生在有意义的真实语境中自然习得语法与词汇规则，提升英语交流的自信心与高阶读写思维。[[Argument_Chua_2011_CILP|(Chua, 2011, p. 136)]]
+> 通过创设富含丰富文本刺激的大书共享阅读与师生协作经验构作（[[Shared Book Approach]] & Modified [[Language Experience Approach]]），使学生在有意义的真实语境中自然习得语法与词汇规则，提升英语交流的自信心与高阶读写思维。[[Argument_Chua_2011_CILP|(Chua, 2011, p. 136)]]
 
 > [!policy-design] 方案设计
 > - **项目目标** 培养学生在日常交流中自信、清晰地使用英语；确保绝大多数学生获得良好的口语与书面表达能力；确保至少 20% 的学生达到极高水准的英语卓越素养。

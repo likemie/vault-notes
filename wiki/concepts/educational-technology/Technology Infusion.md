@@ -7,7 +7,7 @@ aliases:
 summary: "将数字设备、网络资源、教师专业发展与学科教学法系统嵌入课堂教学的组织与课程改革。技术融入不同于单一软件干预或孤立设备配发，其评价需区分输入、输出与长短期结果，防范将技术成效狭隘化为短期统考分数的倾向。"
 type: concept
 domain: "educational-technology"
-related_count: 36
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -50,8 +50,10 @@ related_methods:
   - "[[Formative Program Evaluation]]"
   - "[[Meta-analysis]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Saravanan Gopinathan]]"
 related_facts:
+  - "[[Singapore Ministry of Education]]"
   - "[[Azione LIM]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Students and Teachers Accessing Tomorrow]]"
@@ -63,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-23
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -128,8 +130,8 @@ updated: 2026-11-18
 > [!concept-proposition] 命题二｜国家战略性财政注资与基础设施总蓝图推动技术融入走向全系统制度化
 > **国家战略驱动与基础设施保障** 探讨东亚强[[Developmental State|发展型国家]]如何通过巨额专款与顶层规划将技术融入确立为[[Competitiveness|国家竞争力]]战略支柱。
 >
-> > [!claim] Gopinathan, S.
-> > **国家级信息技术总蓝图的系统性注资** 戈皮纳坦考察新加坡教育改革指出，为支撑[[Knowledge-Based Economy|知识经济]]转型，新加坡教育部于 1997 年实施第一阶段教育信息技术总蓝图（Masterplan for IT in Education），直接拨款二十亿新元推进技术融入。国家通过顶层设计将中小学生机比从五比一压缩至二比一，并明确下达硬性指标，要求数字技术整合必须覆盖各学科教学时间的百分之三十。这种由国家行政与巨额财政深度绑定的推进路径，确立了技术融入在基础教育中的制度化核心地位。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, p. 58)]]
+> > [!claim] [[Saravanan Gopinathan|Gopinathan, S.]]
+> > **国家级信息技术总蓝图的系统性注资** 戈皮纳坦考察新加坡教育改革指出，为支撑[[Knowledge-Based Economy|知识经济]]转型，[[Singapore Ministry of Education|新加坡教育部]]于 1997 年实施第一阶段教育信息技术总蓝图（Masterplan for IT in Education），直接拨款二十亿新元推进技术融入。国家通过顶层设计将中小学生机比从五比一压缩至二比一，并明确下达硬性指标，要求数字技术整合必须覆盖各学科教学时间的百分之三十。这种由国家行政与巨额财政深度绑定的推进路径，确立了技术融入在基础教育中的制度化核心地位。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, p. 58)]]
 
 ---
 

@@ -9,7 +9,7 @@ aliases:
 summary: "基于学习者自身真实口语经验生成阅读与写作材料的早期读写教学法，强调从能想、能说到能写、能读的连续发展，在国家课程中演化为修正语言经验法。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 31
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Early Literacy Approaches]]"
   - "[[Explicit Teaching Strategies]]"
+  - "[[Shared Book Approach]]"
   - "[[Reading Strategies]]"
   - "[[Whole Language]]"
   - "[[Direct Instruction]]"
@@ -50,6 +51,7 @@ related_persons:
   - "[[John Hattie]]"
   - "[[Steven Stahl]]"
 related_facts:
+  - "[[Singapore Ministry of Education]]"
   - "[[STELLAR Program]]"
   - "[[Primary School Leaving Examination]]"
   - "[[Thinking Schools, Learning Nation]]"
@@ -59,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -80,11 +82,11 @@ updated: 2026-11-18
 > 3. **从记录到阅读** 我能写的，就能读（*What I can write, I can read.*）；
 > 4. **从自我到他人** 我能读自己写的，也能读别人为我写的（*I can read what I can write and what other people can write for me to read.*）。
 >
-> 新加坡教育部在 [[STELLAR Program|STELLAR]] 课程中将其拓展为“修正语言经验法”（MLEA），通过“共同体验 $\to$ 课堂口头讨论 $\to$ 师生共建文本 $\to$ 个人独立写作”的四步循环，使经典经验法成功服务于标准化国家考试下的二语读写教学。([[Argument_Chua_2011_CILP|Chua, 2011, pp. 142–143]])
+> [[Singapore Ministry of Education|新加坡教育部]]在 [[STELLAR Program|STELLAR]] 课程中将其拓展为“修正语言经验法”（MLEA），通过“共同体验 $\to$ 课堂口头讨论 $\to$ 师生共建文本 $\to$ 个人独立写作”的四步循环，使经典经验法成功服务于标准化国家考试下的二语读写教学。([[Argument_Chua_2011_CILP|Chua, 2011, pp. 142–143]])
 
 > [!boundary]- 概念边界
 > - 不等于 **完全自由无序的儿童即兴涂鸦** — 语言经验法虽然以学生口语为基础，但高度依赖教师在共建板书过程中的规范化示范与正字法支架。
-> - 不等于 **全盘否定系统技能的极端建构** — 修正语言经验法（MLEA）与大书共享阅读法（SBA）结合，兼具真实语境浸润与显性[[Reading Strategies|阅读策略]]和基础词汇教学。
+> - 不等于 **全盘否定系统技能的极端建构** — 修正语言经验法（MLEA）与[[Shared Book Approach|大书共享阅读法]]（SBA）结合，兼具真实语境浸润与显性[[Reading Strategies|阅读策略]]和基础词汇教学。
 > - 不等于 **[[Whole Language|全语言]]（Whole Language）** — 语言经验法诞生于 1960 年代，以学生自身口语[[Transcription in Qualitative Research|转录]]文本为核心；全语言成型于 1970 年代中后期，强调以真实优秀的专业儿童文学作品为核心，二者在证据谱系与教学载体上存在明确差异。
 
 ---
@@ -146,8 +148,8 @@ flowchart TD
 在多语种与移民背景为主的教育体系中，原始语言经验法易受学生家庭背景与口语水平差异的制约。通过引入班级“共同体验”（Shared Experience）进行修正，能够拉平先验知识不均，为二语学习者提供强大的读写支架。
 
 > [!case] 新加坡 [[STELLAR Program|STELLAR]] 课程中的修正语言经验法（MLEA）实践
-> 新加坡教育部推行的“走向[[Active Learning|主动学习]]与阅读的英文学习”（STELLAR）改革将修正语言经验法作为核心支柱：
-> - 实施架构：低年级（小一至小三）先由教师开展大书共享阅读法（SBA），激发语境兴趣并示范[[Reading Strategies|阅读策略]]；紧接着开展 MLEA，全班共同参与一项具体活动（如制作三明治、参观动物园、[[Observation Method|科学观察]]），随后经历“口语讨论 $\to$ 共同板书撰写 $\to$ 班级共读 $\to$ 个人独立写作”；
+> [[Singapore Ministry of Education|新加坡教育部]]推行的“走向[[Active Learning|主动学习]]与阅读的英文学习”（STELLAR）改革将修正语言经验法作为核心支柱：
+> - 实施架构：低年级（小一至小三）先由教师开展[[Shared Book Approach|大书共享阅读法]]（SBA），激发语境兴趣并示范[[Reading Strategies|阅读策略]]；紧接着开展 MLEA，全班共同参与一项具体活动（如制作三明治、参观动物园、[[Observation Method|科学观察]]），随后经历“口语讨论 $\to$ 共同板书撰写 $\to$ 班级共读 $\to$ 个人独立写作”；
 > - 政策效能：该模式消除了外在机械练习册导致的[[Rote Learning|死记硬背]]与应试倦怠，同时有力保障了国家统考质量，[[Primary School Leaving Examination|小学离校考试]]（[[Primary School Leaving Examination|PSLE]]）英文科及格率稳定维持在 97.5%–98.9% 的卓越区间。([[Argument_Chua_2011_CILP|Chua, 2011, pp. 142–144]])
 
 > [!proposition-summary] 语言经验法核心命题推导

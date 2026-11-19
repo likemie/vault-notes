@@ -12,11 +12,11 @@ subtype: policy
 region: singapore
 fact_region: "singapore"
 fact_kind: "policy"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 22
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: "Singapore Ministry of Education"
+issuing_organization: "[[Singapore Ministry of Education]]"
 tags:
   - fact/policy
   - region/singapore
@@ -25,6 +25,7 @@ tags:
   - theme/educational-governance
   - theme/equity
 related_concepts:
+  - "[[Ability-Driven Education]]"
   - "[[Alienation]]"
   - "[[School Autonomy]]"
   - "[[Critical Pedagogy]]"
@@ -41,10 +42,12 @@ related_instruments: []
 related_persons:
   - "[[Saravanan Gopinathan]]"
 related_facts:
+  - "[[Singapore Ministry of Education]]"
   - "[[Ministry of Education of the People's Republic of China]]"
   - "[[Independent Schools Initiative]]"
   - "[[Primary School Leaving Examination]]"
   - "[[Global Campaign for Education]]"
+  - "[[Singapore-Cambridge GCE Ordinary Level]]"
   - "[[Thinking Schools, Learning Nation]]"
   - "[[Integrated Programme]]"
 related_arguments:
@@ -59,10 +62,10 @@ updated: 2026-11-19
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2002 年底由初级学院及高中教育审查委员会提出构想，新加坡教育部（Ministry of Education, [[Ministry of Education of the People's Republic of China|MOE]]）于 2004 年正式启动中学直接招生试点，2005 年全面推行至中学与初级学院学段。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, p. 63)]]
-> - **适用地区 / 对象** 新加坡全国公立初中、开办直通车课程的[[Independent Schools Initiative|独立学校]]、自主学校以及提供高中课程的初级学院；主要面向即将参加[[Primary School Leaving Examination|小学离校考试]]（Primary School Leaving Examination, PSLE）的小六学生及剑桥普通水准（[[Global Campaign for Education|GCE]] O-Level）备考学生。
+> - **发布时间 / 发布主体** 2002 年底由初级学院及高中教育审查委员会提出构想，[[Singapore Ministry of Education|新加坡教育部]]（Ministry of Education, [[Ministry of Education of the People's Republic of China|MOE]]）于 2004 年正式启动中学直接招生试点，2005 年全面推行至中学与初级学院学段。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, p. 63)]]
+> - **适用地区 / 对象** 新加坡全国公立初中、开办直通车课程的[[Independent Schools Initiative|独立学校]]、自主学校以及提供高中课程的初级学院；主要面向即将参加[[Primary School Leaving Examination|小学离校考试]]（Primary School Leaving Examination, PSLE）的小六学生及剑桥普通水准（[[Global Campaign for Education|GCE]] [[Singapore-Cambridge GCE Ordinary Level|O-Level]]）备考学生。
 > - **问题背景** 长期以来新加坡中等教育选拔完全由统一笔试成绩单一决定，学生必须依据统考总分参与全国电脑集中派位，导致基础教育阶段机械刷题与应试高压盛行，非学术特长与多元潜能难以在升学环节获得制度性认可。
-> - **制度位置** 属于“[[Thinking Schools, Learning Nation|思考型学校，学习型国家]]”（TSLN）愿景下构建能力驱动型教育体制的配套支柱，与[[Integrated Programme|直通车计划]]（Integrated Programme, IP）和独立学校政策深度协同，构成国家拓宽才干认定口径的代表性举措。
+> - **制度位置** 属于“[[Thinking Schools, Learning Nation|思考型学校，学习型国家]]”（TSLN）愿景下构建[[Ability-Driven Education|能力驱动型教育]]体制的配套支柱，与[[Integrated Programme|直通车计划]]（Integrated Programme, IP）和独立学校政策深度协同，构成国家拓宽才干认定口径的代表性举措。
 
 ---
 

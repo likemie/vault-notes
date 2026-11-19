@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: singapore
 person_region: "singapore"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -40,6 +40,7 @@ related_facts:
   - "[[Goh Report]]"
   - "[[Speak Mandarin Campaign]]"
   - "[[Curriculum Development Institute of Singapore]]"
+  - "[[Singapore Ministry of Education]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
   - "[[Argument_Deng_2016_CE]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -127,4 +128,4 @@ updated: 2026-11-18
 > | [[Hard Power\|硬实力]] | 概念 | 吴庆瑞指出道德价值观凝聚力是军事与经济硬实力维系的基础。 |
 > | 新加坡财政部 | 组织 | 任职机构。 |
 > | 新加坡国防部 | 组织 | 任职机构。 |
-> | 新加坡教育部 | 组织 | 任职机构。 |
+> | [[Singapore Ministry of Education\|新加坡教育部]] | 组织 | 任职机构。 |

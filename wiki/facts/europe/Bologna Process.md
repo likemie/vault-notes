@@ -12,7 +12,7 @@ subtype: policy
 region: europe
 fact_region: "europe"
 fact_kind: "policy"
-fact_related_count: 62
+fact_related_count: 63
 fact_related_level: 6
 fact_related_stars: "💎💎"
 fact_related_color: "#fecdd3"
@@ -54,6 +54,7 @@ related_concepts:
   - "[[Geopolitics of Higher Education]]"
   - "[[Global Universities Rankings]]"
   - "[[Alienation]]"
+  - "[[Pluriverse]]"
 related_theories:
   - "[[Panopticism]]"
   - "[[Comparative Regionalism]]"
@@ -249,7 +250,7 @@ updated: 2026-11-19
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Indrarajah_2026_NJCIE|Indrarajah (2026)]] — 从认识论去殖民化视角批判东盟对欧洲博洛尼亚进程的单向政策借鉴与新殖民依附，主张以本土原住民哲学重塑多元世界区域主义（pp. 4, 7–8）。
+> - [[Argument_Indrarajah_2026_NJCIE|Indrarajah (2026)]] — 从认识论去殖民化视角批判东盟对欧洲博洛尼亚进程的单向政策借鉴与新殖民依附，主张以本土原住民哲学重塑[[Pluriverse|多元世界]]区域主义（pp. 4, 7–8）。
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 从地缘政治视角深入剖析博洛尼亚进程中的治理权转移与高校战略能动性。
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 实证批判西班牙高校博洛尼亚对标背后的表面欧洲主义、实质质量落后与学术近亲繁殖。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 从福柯权力-知识理论批判解构博洛尼亚进程如何作为知识欧洲支柱之一服务于经贸竞争与全景监控。

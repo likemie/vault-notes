@@ -12,11 +12,11 @@ subtype: policy
 region: singapore
 fact_region: "singapore"
 fact_kind: "policy"
-fact_related_count: 5
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 16
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: "Singapore Ministry of Education"
+issuing_organization: "[[Singapore Ministry of Education]]"
 tags:
   - fact/policy
   - region/singapore
@@ -25,15 +25,26 @@ tags:
   - theme/teacher-education
   - theme/infrastructure
 related_concepts:
+  - "[[Competitiveness]]"
+  - "[[Creativity]]"
   - "[[Technology Infusion]]"
+  - "[[School Inspection]]"
+  - "[[Epistemology]]"
+  - "[[Rote Learning]]"
 related_theories:
   - "[[Developmental State]]"
-related_methods: []
+related_methods:
+  - "[[Causal Modeling]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Saravanan Gopinathan]]"
 related_facts:
-  - "[[Thinking Schools, Learning Nation]]"
+  - "[[Singapore Ministry of Education]]"
+  - "[[Ministry of Education of the People's Republic of China]]"
   - "[[National Institute of Education]]"
+  - "[[National Education]]"
+  - "[[Thinking Schools, Learning Nation]]"
+  - "[[School Excellence Model]]"
 related_arguments:
   - "[[Argument_Gopinathan_2007_GSE]]"
 confidence: high
@@ -45,10 +56,10 @@ updated: 2026-11-19
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 1997 年 4 月 28 日由时任教育部长李文兴（Lee Yock Suan）正式公布，由新加坡教育部（Ministry of Education, MOE）统筹推进第一阶段（1997–2002 年）实施。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 60–61)]]
-> - **适用地区 / 对象** 新加坡全国公立小学、中学与初级学院，覆盖全体在校师生及国家教育学院（NIE）师训学员。
-> - **问题背景** 1990 年代互联网浪潮兴起，全球经济加速向知识与数字密集型产业转型，新加坡原有教育装备主要依托粉笔与黑板单向讲授，学生计算机素养匮乏且难以在日常课业中接触数字化信息检索与自主探究，面临数字鸿沟制约竞争力的战略挑战。
-> - **制度位置** 与批判性创造性思维、国民教育及行政卓越并列，共同构成 1997 年“思考型学校，学习型国家”（TSLN）宏观战略的四大支柱之一。
+> - **发布时间 / 发布主体** 1997 年 4 月 28 日由时任教育部长李文兴（Lee Yock Suan）正式公布，由[[Singapore Ministry of Education|新加坡教育部]]（Ministry of Education, [[Ministry of Education of the People's Republic of China|MOE]]）统筹推进第一阶段（1997–2002 年）实施。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 60–61)]]
+> - **适用地区 / 对象** 新加坡全国公立小学、中学与初级学院，覆盖全体在校师生及国家教育学院（[[National Institute of Education|NIE]]）师训学员。
+> - **问题背景** 1990 年代互联网浪潮兴起，全球经济加速向知识与数字密集型产业转型，新加坡原有教育装备主要依托粉笔与黑板单向讲授，学生计算机素养匮乏且难以在日常课业中接触数字化信息检索与自主探究，面临数字鸿沟制约[[Competitiveness|竞争力]]的战略挑战。
+> - **制度位置** 与批判性[[Creativity|创造性思维]]、[[National Education|国民教育]]及行政卓越并列，共同构成 1997 年“[[Thinking Schools, Learning Nation|思考型学校，学习型国家]]”（TSLN）宏观战略的四大支柱之一。
 
 ---
 
@@ -58,11 +69,11 @@ updated: 2026-11-19
 > [!policy-design] 政策设计
 > - **政策目标** 转变以教师为中心的单向讲授生态，培养学生自主检索、处理、分析与运用信息解决真实问题的综合数字素养。
 > - **适用对象** 全体中小学在校生、学科任课教师及师训学员。
-> - **政策工具** 第一阶段（1997–2002）拨发 20 亿新元专款，实现小学与中学达到 1 台电脑对 5 名学生的生机比配置（后续迈向 1:2）；强制要求各学科大纲将信息技术融入至少 30% 的课堂教学时间；国家教育学院为全体师范生开设必修与选修 ICT 教学法模块。
-> - **约束机制** 依托学校卓越成就模型（SEM）与教学督导机制，将各校计算机机房利用率、软硬件整合进度及教师技术整合能力纳入年度学校绩效评估。
+> - **政策工具** 第一阶段（1997–2002）拨发 20 亿新元专款，实现小学与中学达到 1 台电脑对 5 名学生的生机比配置（后续迈向 1:2）；强制要求各学科大纲将信息[[Technology Infusion|技术融入]]至少 30% 的课堂教学时间；国家教育学院为全体师范生开设必修与选修 ICT 教学法模块。
+> - **约束机制** 依托[[School Excellence Model|学校卓越成就模型]]（[[Causal Modeling|SEM]]）与[[School Inspection|教学督导]]机制，将各校计算机机房利用率、软硬件整合进度及教师技术整合能力纳入年度学校绩效评估。
 
 > [!citation-card] 教育资讯科技战略的资本注入与整合目标
-> 高平纳坦论述，信息技术对提升学习的潜在贡献获得了政府的高额预算支持。在第一阶段（1997–2002 年），国家承诺投入 20 亿新元资金，旨在实现每 5 名学生配备一台计算机的标准，并随后向每 2 名学生一台迈进。政策明确认识到计算机本身仅是一种工具，其核心在于将其融入学习与教学，使其占到授课时间的 30%。与此同时，所有受训教师均须修读必修与选修模块以掌握信息通信技能。然而实证评估显示，第一代总蓝图主要提供了硬件基础设施和基础技能，教学实践层面的深度重构仍有待深化。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 61, 63)]]
+> [[Saravanan Gopinathan|高平纳坦]]论述，信息技术对提升学习的潜在贡献获得了政府的高额预算支持。在第一阶段（1997–2002 年），国家承诺投入 20 亿新元资金，旨在实现每 5 名学生配备一台计算机的标准，并随后向每 2 名学生一台迈进。政策明确认识到计算机本身仅是一种工具，其核心在于将其融入学习与教学，使其占到授课时间的 30%。与此同时，所有受训教师均须修读必修与选修模块以掌握信息通信技能。然而实证评估显示，第一代总蓝图主要提供了硬件基础设施和基础技能，教学实践层面的深度重构仍有待深化。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 61, 63)]]
 >
 > *IT's potential contribution to enhancing learning has been recognised with a commitment of two billion Singapore dollars to provide, in the first phase (1997–2002), one computer for every five students, and later, one for every two students. There is clear recognition that the computer is but a tool, and the emphasis is on integrating it into learning and teaching for up to 30% of instruction time... As regards IT Masterplan 1 it essentially provided the hard infrastructure and some IT skills.*
 
@@ -92,8 +103,8 @@ updated: 2026-11-19
 
 > [!debates] 硬件普及成效与微观教学套路化之争
 >
-> > [!axis] 技术基建快速建成 vs 教学认识论变革滞后与形式化
-> > 政策制定者高度赞赏 mp1 在短时间内为全国中小学建立了世界一流的数字硬件环境，彻底消除了校园数字鸿沟；教育技术与课程学者（Koh, 2003；[[Argument_Gopinathan_2007_GSE|Gopinathan, 2007, p. 63]]）指出，总蓝图第一阶段本质上是一场由强政府主导的“硬基建与基础工具普及工程”。在高利害统考大纲未根本缩减的压力下，大量一线教师往往将计算机简单降格为展示死记硬背考点的电子黑板或机械操练软件，未能真正实现技术赋能下的开放探究，呈现出工具先进而教学法依旧保守的结构性脱节。
+> > [!axis] 技术基建快速建成 vs 教学[[Epistemology|认识论]]变革滞后与形式化
+> > 政策制定者高度赞赏 mp1 在短时间内为全国中小学建立了世界一流的数字硬件环境，彻底消除了校园数字鸿沟；教育技术与课程学者（Koh, 2003；[[Argument_Gopinathan_2007_GSE|Gopinathan, 2007, p. 63]]）指出，总蓝图第一阶段本质上是一场由强政府主导的“硬基建与基础工具普及工程”。在高利害统考大纲未根本缩减的压力下，大量一线教师往往将计算机简单降格为展示[[Rote Learning|死记硬背]]考点的电子黑板或机械操练软件，未能真正实现技术赋能下的开放探究，呈现出工具先进而教学法依旧保守的结构性脱节。
 
 ---
 

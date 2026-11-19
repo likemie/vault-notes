@@ -5,7 +5,7 @@ aliases:
 summary: "强调星球共同体、生命多样性和世界普遍责任的替代全球化概念，用以对抗市场驱动的单一路径全球化"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Mutual Learning]]"
   - "[[Discourse]]"
+  - "[[Pluriverse]]"
   - "[[Posthumanism]]"
 related_theories: []
 related_methods: []
@@ -28,7 +29,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-08'
-updated: 2026-10-30
+updated: 2026-11-19
 ---
 
 > [!info] 定义
@@ -42,7 +43,7 @@ updated: 2026-10-30
 >
 > 法国哲学家 Simone Weil 复兴了这一被遗忘的含义。法学家 Alain Supiot (2019) 系统阐述了 Weil 的 mondialisation 概念——以"星球的普世性"（planetary ecumene）为视野，关注对生命的顾及和对多元或多样形式的尊重。Supiot 明确将 mondialisation 作为 globalisation 的反概念使用。
 >
-> Amos 将 mondialisation 与 Escobar 的 pluriverse（多元世界）并置：Mondialisation 以具体的生活世界为主要参照——生活质量、社区关系、生态可持续性——而非抽象的经济指标和排名([[Argument_Amos_2022_Springer\|Amos, 2022, pp.61–62]])。
+> Amos 将 mondialisation 与 Escobar 的 [[Pluriverse|pluriverse]]（多元世界）并置：Mondialisation 以具体的生活世界为主要参照——生活质量、社区关系、生态可持续性——而非抽象的经济指标和排名([[Argument_Amos_2022_Springer\|Amos, 2022, pp.61–62]])。
 >
 
 > [!example] 概念辨析

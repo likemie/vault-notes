@@ -14,11 +14,11 @@ subtype: policy
 region: singapore
 fact_region: "singapore"
 fact_kind: "policy"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: "Singapore Ministry of Education"
+issuing_organization: "[[Singapore Ministry of Education]]"
 tags:
   - fact/policy
   - region/singapore
@@ -40,6 +40,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Singapore Ministry of Education]]"
   - "[[Primary School Leaving Examination]]"
   - "[[Cram Schools]]"
   - "[[Thinking Schools, Learning Nation]]"
@@ -58,7 +59,7 @@ updated: 2026-11-19
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2008 年由新加坡教育部（Ministry of Education, MOE）设立小学教育审查与实施委员会（Primary Education Review and Implementation, PERI），由教育部高级政务部长傅海燕（Grace Fu）担任主席；委员会于 2009 年正式发布报告并获教育部全盘采纳实施。[[Argument_Lim_2013_APJE|(Lim, 2013, pp. 6–7)]]
+> - **发布时间 / 发布主体** 2008 年由[[Singapore Ministry of Education|新加坡教育部]]（Ministry of Education, MOE）设立小学教育审查与实施委员会（Primary Education Review and Implementation, PERI），由教育部高级政务部长傅海燕（Grace Fu）担任主席；委员会于 2009 年正式发布报告并获教育部全盘采纳实施。[[Argument_Lim_2013_APJE|(Lim, 2013, pp. 6–7)]]
 > - **适用地区 / 对象** 覆盖新加坡全岛所有公立小学、初等教育阶段学生、小学任课教师与学校管理层。[[Argument_Lim_2013_APJE|(Lim, 2013, pp. 6–8)]]
 > - **问题背景** 长期以来，新加坡初等教育深受以[[Primary School Leaving Examination|小学离校考试]]（Primary School Leaving Examination, PSLE）为代表的高利害选拔机制支配。早期应试竞争导致优势阶层家长提前购买校外[[Cram Schools|影子教育]]与补习服务，加剧不同[[Socioeconomic Status|社会经济背景]]学生在学龄初期的[[Academic Achievement|学业成就]]差距与阶层隔阂，传统半日双班制亦限制了学校提供课后补救辅导的物理空间与教学时间。[[Argument_Lim_2013_APJE|(Lim, 2013, pp. 2, 7–8)]]
 > - **制度位置** 该政策衔接[[Thinking Schools, Learning Nation|思考型学校，学习型国家]]（Thinking Schools, Learning Nation, TSLN）宏观愿景与[[Teach Less, Learn More|少教多学]]（Teach Less, Learn More, TLLM）微观课改，专门针对小学低幼学段设计整全育人与制度兜底机制。[[Argument_Lim_2013_APJE|(Lim, 2013, p. 7)]]

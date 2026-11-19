@@ -8,7 +8,7 @@ aliases:
 summary: "源自新几内亚岛巴布亚原住民文化与社会生态理论交叉的生态哲学构念，强调人是自然生态系统的有机组成部分，主张以人与环境的灵性互依和代际永续抵抗资本主义掠夺式开发；在高等教育去殖民化中，为系统内部各单元承担差异化互补功能、构建互惠共生的高教区域生态提供本体论依托"
 type: concept
 domain: "educational-philosophy"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,24 +23,25 @@ tags:
 related_concepts:
   - "[[Construct]]"
   - "[[Ontology]]"
-  - "[[Epistemology]]"
-  - "[[Epistemic Coloniality]]"
+  - "[[Alienation]]"
+  - "[[Neoliberalism]]"
+  - "[[Global Regionalisms]]"
   - "[[Buen Vivir]]"
   - "[[Ubuntu]]"
   - "[[Sejahtera]]"
+  - "[[Developmentalism]]"
+  - "[[Paradigm]]"
   - "[[Kapwa]]"
   - "[[Pluriverse]]"
   - "[[ASEAN Way]]"
-  - "[[Knowledge Production]]"
-  - "[[Developmentalism]]"
-  - "[[Heterogeneity]]"
 related_theories:
+  - "[[Modernization Theory]]"
   - "[[Decolonial Geopolitics of Knowledge]]"
-related_methods: []
+related_methods:
+  - "[[Fieldwork]]"
 related_instruments: []
 related_persons: []
-related_facts:
-  - "[[ASEAN]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Indrarajah_2026_NJCIE]]"
 confidence: medium
@@ -52,15 +53,15 @@ updated: 2026-11-19
 ---
 
 > [!def] Papuan Social Ecology
-> **巴布亚社会生态学（Papuan Social Ecology）** 是新几内亚岛巴布亚原住民文化传统与社会生态理论交叉融合形成的哲学[[Construct|构念]]。该构念确立了人作为自然环境内在组成部分的生态关系[[Ontology|本体论]]，认为自然生态深度形塑了人类社会的组织架构、亲族网络与文化规范。在比较教育学与高等教育去殖民化视阈中，巴布亚社会生态学用于解构将自然降格为可榨取商品的资本主义发展观，并在区域教育治理中提供以“差异中见力量”（strength in diversity）为原则的生态分工模型，论证区域高等教育系统内部异质单元承担差异化互补功能的正当性。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 11, 14)]]
+> **巴布亚社会生态学（Papuan Social Ecology）** 是新几内亚岛巴布亚原住民文化传统与社会生态理论交叉融合形成的哲学[[Construct|构念]]。该构念确立了人作为自然环境内在组成部分的生态关系[[Ontology|本体论]]，认为自然生态深度形塑了人类社会的组织架构、亲族网络与文化规范。在比较教育学与高等教育去殖民化视阈中，巴布亚社会生态学用于解构将自然降格为可榨取商品的资本主义发展观，并在区域教育治理中提供以“差异中见力量”（strength in diversity）为原则的生态分工模型，论证区域高等教育系统内部异质单元承担差[[Alienation|异化]]互补功能的正当性。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 11, 14)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指涉人类社会与自然生态环境不可分割的互依共生状态，以及同一生态系统内各单元依据自身禀赋承担差异化互补功能的系统规律。
-> - **用途** 帮助研究者透视将未开发自然贬低为“经济失败”的新自由主义偏见，并为高等教育区域一体化中规避一刀切趋同、确立多轨协同的教育生态提供哲学支撑。
+> - **用途** 帮助研究者透视将未开发自然贬低为“经济失败”的[[Neoliberalism|新自由主义]]偏见，并为高等教育区域一体化中规避一刀切趋同、确立多轨协同的教育生态提供哲学支撑。
 > - **边界** 区别于单纯将自然视作外在客体的技术性环境保护论；该构念强调人与自然环境在精神、文化与社会网络层面的本体论交织。
 
 > [!citation-card|notitle] 关键表述：巴布亚社会生态学与区域高等教育生态
-> 社会生态理论与巴布亚原住民文化的结合表明，人类是自然环境的组成部分，并不与自然分离或凌驾于自然之上（Frank & Idris, 2020）。巴布亚人居住的生态环境深刻塑造了其社会制度与交往网络。巴布亚文化规范与周边自然环境之间的深刻互依，曾被部分学者视为未能深入开发自然的失败例证（Mansoben, 2007）。这类观点认为巴布亚传统对自然精神力量的信仰导致了对自然的被动适应，其实质是新自由主义指责巴布亚人错失了掠夺自然资源投入资本市场的商业机会。东南亚高等教育区域主义必须确立巴布亚社会生态伙伴关系，以此作为和谐学习与共存的典范，抵御以资本主义剥削为根基的新殖民主义（Nkrumah, 1965）。在高等教育治理中，这一生态哲学揭示出同一生态系统内的不同单元能够承担差异化功能，共同促进整个生态系统的繁荣。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 11, 14)]]
+> 社会生态理论与巴布亚原住民文化的结合表明，人类是自然环境的组成部分，并不与自然分离或凌驾于自然之上（Frank & Idris, 2020）。巴布亚人居住的生态环境深刻塑造了其社会制度与交往网络。巴布亚文化规范与周边自然环境之间的深刻互依，曾被部分学者视为未能深入开发自然的失败例证（Mansoben, 2007）。这类观点认为巴布亚传统对自然精神力量的信仰导致了对自然的被动适应，其实质是新自由主义指责巴布亚人错失了掠夺自然资源投入资本市场的商业机会。东南亚[[Global Regionalisms|高等教育区域主义]]必须确立巴布亚社会生态伙伴关系，以此作为和谐学习与共存的典范，抵御以资本主义剥削为根基的新殖民主义（Nkrumah, 1965）。在高等教育治理中，这一生态哲学揭示出同一生态系统内的不同单元能够承担差异化功能，共同促进整个生态系统的繁荣。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 11, 14)]]
 >
 > *In a complementary vein, the intersection between social ecological theory and Papuan indigenous culture reveals an underlying indigenous understanding of humans as part of the natural environment and not separate from or sovereign over it (Frank & Idris, 2020)... According to Frank and Idris (2020), the ecological environment Papuan people reside in influences their social systems and networks. This deep, interconnected relationship between Papuan cultural norms and their environmental surroundings was deemed by some scholars as examples of Papuan failure in not pursuing more exhaustive explorations of nature (Mansoben, 2007)... The neoliberal underpinning of Mansoben’s scholarship is exactly why Southeast Asian higher education regionalism needs to champion, advocate for, and elevate Papuan social ecological partnerships as models of harmonious learning and living... The construction of these bilateral relationships within the larger regional fabric of Southeast Asia reflects the Papuan social ecological understanding of how differing units within the same ecosystem play differentiated roles for the benefit of the entire ecosystem.*
 
@@ -82,7 +83,7 @@ updated: 2026-11-19
 ---
 
 > [!feature] 核心要素
-> - **人与自然的本体共生（Human-Nature Inseparability）** 确认人类并非独立于自然或凌驾于自然之上的主宰者，人类生存完全嵌入特定地理生态系统之中，环境直接塑造社会结构与文化认同。
+> - **人与自然的本体共生（Human-Nature Inseparability）** 强调人类生存全面嵌入特定地理生态系统网络，将人际协作与社群规范建基于地方环境的承载与滋养之上。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, p. 11)]]
 > - **生态批判与去殖民抵御（Ecological Resistance to Exploitation）** 拒绝将自然环境单纯工具化为资本市场的榨取对象，抵抗将原住民对自然的敬畏抹黑为落后或失败的新自由主义殖民修辞。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, p. 11)]]
 > - **系统单元的差异化互补（Differentiated Roles in Ecosystem）** 认定健康的生态系统依赖各构成单元发挥独特且不可替代的功能；映射至区域高等教育治理中，主张各成员国依据自身历史文化与学科禀赋承担差异化办学职能，共同维护区域知识生态的生机。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, p. 14)]]
 
@@ -125,7 +126,7 @@ updated: 2026-11-19
 ---
 
 > [!dev-timeline] 概念演变
-> - **2000 年代 — 人类学生态观察与现代化范式争议** 学界对巴布亚原住民社会文化多样性开展田野调查，传统现代化理论视角往往将巴布亚人对自然精神力量的敬畏视作未充分开发自然资源的被动表现。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, p. 11)]]
+> - **2000 年代 — 人类学生态观察与现代化[[Paradigm|范式]]争议** 学界对巴布亚原住民社会文化多样性开展[[Fieldwork|田野调查]]，传统[[Modernization Theory|现代化理论]]视角往往将巴布亚人对自然精神力量的敬畏视作未充分开发自然资源的被动表现。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, p. 11)]]
 > - **2020 年 — 社会生态互动机制的人类学确证** 弗兰克与伊德里斯（Frank & Idris, 2020）深入阐明巴布亚文化习俗与自然地理生态环境的深度交织机制，确立人与环境共生的生态学解释模型。
 > - **2026 年 — 高等教育去殖民化与区域生态重构** 因德拉拉贾（[[Argument_Indrarajah_2026_NJCIE|Indrarajah, 2026]]）将巴布亚社会生态学提升为抗击教育新殖民主义的三大原住民哲学支柱之一，开创性地将其转化为指导东南亚高教差异化互补与生态协同的治理方法论。
 
@@ -136,8 +137,8 @@ updated: 2026-11-19
 > > [!axis] 自然敬畏信仰：开发滞后的消极表现 vs 抵御资本掠夺的永续智慧
 > > 围绕巴布亚原住民对待自然环境的态度究竟属于发展失败还是可持续生存智慧展开争论。
 > >
-> > - **Mansoben (2007)** 认为巴布亚传统中对自然精神力量的主导性信仰促使其对自然环境采取了较为被动的适应态度，未能深入探求对自然资源的全面开发。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, p. 11)]]
-> > - **[[Argument_Indrarajah_2026_NJCIE|Indrarajah (2026)]]** 批评上述立场深嵌新自由主义偏见，指出将敬畏自然贬低为失败实质上是遗憾未能在资本主义市场中榨取自然资源牟利；巴布亚社会生态学恰恰提供了以生态关怀与社群和谐抵抗新殖民资本掠夺的典范。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, p. 11)]]
+> > - **Mansoben (2007, p. 116)** 认为巴布亚传统中对自然精神力量的主导性信仰促使其对自然环境采取了较为被动的适应态度，未能深入探求对自然资源的全面开发。
+> > - **[[Argument_Indrarajah_2026_NJCIE|Indrarajah (2026, p. 11)]]** 批评上述立场深嵌新自由主义偏见，指出将敬畏自然贬低为失败实质上是遗憾未能在资本主义市场中榨取自然资源牟利；巴布亚社会生态学恰恰提供了以生态关怀与社群和谐抵抗新殖民资本掠夺的典范。
 
 ---
 
@@ -145,13 +146,13 @@ updated: 2026-11-19
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Sejahtera]] | Concept | 与巴布亚社会生态学共同构成东南亚去殖民高教的三大原住民哲学支柱。 |
-> | [[Kapwa]] | Concept | 与巴布亚社会生态学形成本体互补，分别支撑人际关系扁平协商与生态系统差异互补。 |
-> | [[Pluriverse]] | Concept | 巴布亚社会生态学作为多元世界认知在东南亚群岛生态中的具体实践形态。 |
-> | [[Ontology]] | Concept | 巴布亚社会生态学提供了人与自然密不可分的关系本体论基底。 |
-> | [[Buen Vivir]] | Concept | 拉美安第斯人与自然共生哲学，为巴布亚生态哲学提供跨区域南方对照。 |
-> | [[ASEAN Way]] | Concept | 巴布亚社会生态学为重构东盟方式、推动成员国差异化协同提供哲学依据。 |
-> | [[Decolonial Geopolitics of Knowledge]] | Theory | 指导发掘巴布亚生态哲学以抗击欧美与东亚新殖民知识垄断的宏观理论框架。 |
+> | [[Sejahtera]] | 概念 | 与巴布亚社会生态学共同构成东南亚去殖民高教的三大原住民哲学支柱。 |
+> | [[Kapwa]] | 概念 | 与巴布亚社会生态学形成本体互补，分别支撑人际关系扁平协商与生态系统差异互补。 |
+> | [[Pluriverse]] | 概念 | 巴布亚社会生态学作为多元世界认知在东南亚群岛生态中的具体实践形态。 |
+> | [[Ontology]] | 概念 | 巴布亚社会生态学提供了人与自然密不可分的关系本体论基底。 |
+> | [[Buen Vivir]] | 概念 | 拉美安第斯人与自然共生哲学，为巴布亚生态哲学提供跨区域南方对照。 |
+> | [[ASEAN Way]] | 概念 | 巴布亚社会生态学为重构东盟方式、推动成员国差异化协同提供哲学依据。 |
+> | [[Decolonial Geopolitics of Knowledge]] | 理论 | 指导发掘巴布亚生态哲学以抗击欧美与东亚新殖民知识垄断的宏观理论框架。 |
 
 ---
 

@@ -26,6 +26,7 @@ related_concepts:
   - "[[Curricular Form]]"
   - "[[Infusion Approach]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Sacred and Profane Knowledge]]"
   - "[[Cultural Capital]]"
   - "[[Habitus]]"
   - "[[Official Knowledge]]"
@@ -57,6 +58,7 @@ related_persons:
   - "[[Karl Popper]]"
 related_facts:
   - "[[Independent Schools Initiative]]"
+  - "[[Singapore Ministry of Education]]"
 related_arguments:
   - "[[Argument_Gopinathan_2007_GSE]]"
 sources:
@@ -71,7 +73,7 @@ title: "Argument_Lim_2015_CurricInq"
 argument_key: "Argument_Lim_2015_CurricInq"
 argument_display_title: "Elite rationalities and curricular form: “Meritorious” class reproduction in the elite thinking curriculum in Singapore"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 34
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -92,7 +94,7 @@ issuing_organization: ""
 
 > [!concept-lens] 阅读透镜
 > - **对象** 新加坡两所对照公立初中（主流邻里公立学校 Valley Point Secondary 与顶尖独立精英学校 Queen's High）的[[Critical Thinking|批判性思维]]教学实践。
-> - **张力** 官方普及[[Higher-Order Thinking Skills|高阶思维]]能力的政策修辞，与微观课堂因课程形态差异而诱导出的对立知识理性（工具理性 vs 自恋理性）及阶层认同（世俗知识工人 vs 神圣领导精英）之间的结构性脱节。
+> - **张力** 官方普及[[Higher-Order Thinking Skills|高阶思维]]能力的政策修辞，与微观课堂因课程形态差异而诱导出的对立知识理性（工具理性 vs 自恋理性）及阶层认同（[[Sacred and Profane Knowledge|世俗知识]]工人 vs 神圣领导精英）之间的结构性脱节。
 > - **贡献** 将批判课程社会学对精英学校的经验考察视线，从外部行动者资本（[[Cultural Capital|文化资本]]、[[Habitus|惯习]]、阶级区隔）转向学校知识内部结构语法（[[Basil Bernstein|伯恩斯坦]]教学代码），阐明课程的结构形式能够深度分化认知取向并支撑唯才体制的运作。
 
 ---
@@ -151,7 +153,7 @@ issuing_organization: ""
 > 许多关于精英教育的批判分析聚焦于学生的家庭阶层归属、文化资本与社会网络 (Bourdieu, 1996; Gaztambide-Fernández, 2009; Khan, 2011; Maxwell & Aggleton, 2013)，或剖析教育市场中的家庭竞争策略与声望累积 (Apple, 2001/2006; Ball, 2003; Kenway & Koh, 2013; Koh, 2014; Ye & Nylander, 2015)，却较少关注课程知识本身的组合规则。伯恩斯坦 (Bernstein, 1977, 1990) 强调，知识如何被选择、分类、排序、控制节奏和设立评判标准，构成了教育话语的深层语法。真正形塑学生认知习惯与社会身份的，正是这套底层的课程组织形式 (Anyon, 1981; MacDonald, 1977; Oakes, 1985; Young, 1971)。
 
 > [!sub-claim] 2. 官方普及思维的政策修辞掩盖了学校制度分层的现实
-> 新加坡教育部（Ministry of Education, MOE）强调面向全体学生普及批判性思维，视其为应对全球[[Knowledge-Based Economy|知识经济]]的核心举措 (Heng, 2011; Ministry of Education, 1997, 2013b)。然而该国教育体系具有高度科层分轨属性 (Barr & Skrbis, 2008; Chua, 1995; [[Argument_Gopinathan_2007_GSE|Gopinathan, 2007]]; Tan, 2008)。占四分之三的主流邻里公立学校受制于学区督导与全国统考大纲，学生主要来自工薪阶层 (Luke, 2003; Tan, 2011)；而享有特殊地位的独立学校由社会要人组成的理事会自主掌舵，享有充沛经费、尖端设施与自主招生权 (Ministry of Education, 2011a, 2011b; Tan, 1993)。统一的思维课程口号在实践中被置入了两套截然不同的学校生态。
+> [[Singapore Ministry of Education|新加坡教育部]]（Ministry of Education, MOE）强调面向全体学生普及批判性思维，视其为应对全球[[Knowledge-Based Economy|知识经济]]的核心举措 (Heng, 2011; Ministry of Education, 1997, 2013b)。然而该国教育体系具有高度科层分轨属性 (Barr & Skrbis, 2008; Chua, 1995; [[Argument_Gopinathan_2007_GSE|Gopinathan, 2007]]; Tan, 2008)。占四分之三的主流邻里公立学校受制于学区督导与全国统考大纲，学生主要来自工薪阶层 (Luke, 2003; Tan, 2011)；而享有特殊地位的独立学校由社会要人组成的理事会自主掌舵，享有充沛经费、尖端设施与自主招生权 (Ministry of Education, 2011a, 2011b; Tan, 1993)。统一的思维课程口号在实践中被置入了两套截然不同的学校生态。
 
 > [!row-contrast] 办学制度与宏观背景横向对比
 > | 比较维度 | 主流邻里中学（Valley Point Secondary） | 顶尖独立精英高中（Queen's High） |
@@ -223,7 +225,7 @@ issuing_organization: ""
 > [!sub-claim] 1. 超然自足的学术训练为优势阶层积累了声望资本
 
 > [!mechanism] 神圣知识对阶层声望资本的转化机制
-> 精英学校的哲学浸润将知识从狭隘的经济功利中抽离，转化为具有[[The Sublime|崇高]]感的神圣知识（Sacred Knowledge; Bernstein, 1977, 2000; Durkheim, 1915）。这种知识具有内在自足与超脱特征，培育出学生强大的智力优越感与未来领导者姿态。精英学校通过充沛的办学资源建立起抵御功利经济理性的绝缘屏障 (Beck, 2002, p. 620)，从而将其毕业生的阶级身份转化为超然中立的学术造诣与社会责任感。
+> 精英学校的哲学浸润将知识从狭隘的经济功利中抽离，转化为具有[[The Sublime|崇高]]感的[[Sacred and Profane Knowledge|神圣知识]]（Sacred Knowledge; Bernstein, 1977, 2000; Durkheim, 1915）。这种知识具有内在自足与超脱特征，培育出学生强大的智力优越感与未来领导者姿态。精英学校通过充沛的办学资源建立起抵御功利经济理性的绝缘屏障 (Beck, 2002, p. 620)，从而将其毕业生的阶级身份转化为超然中立的学术造诣与社会责任感。
 
 > [!sub-claim] 2. 统一考核将课程形式带来的表达优势包装成个人天资
 
@@ -231,7 +233,7 @@ issuing_organization: ""
 > 在以[[Educational Meritocracy|教育唯才是用制]]为立国基石的新加坡，社会分层被解释为个人能力与努力的自然结果 (Chua, 1995; Ng, 2014; Tan, 2008)。由于两类学校在名义上均推行批判性思维，制度性的课程形态鸿沟被有效遮蔽。文化专断性在此过程中被系统性否认 (Bourdieu & Passeron, 1977; Bourdieu, 1996)。精英学生在弱框架哲学浸润中所习得的自如表达、反思批判与领袖气质，在后续升学考核与高端公费奖学金选拔中被裁定为纯粹的个人天赋 (Ye & Nylander, 2015)；而主流学校学生依循强框架训练所习得的机械执行力则被锚定为平庸劳动力的表征。课程形态正是借此实现了对阶级权力不平等的合法化维系。
 
 > [!tension] 课程形态诱导出的双重理性与主体身份对立
-> - **工具理性与世俗知识工人认同（主流学校）** 知识被定性为外在任务解决的技术工具，强调向外迎合既定规范与劳动力市场雇主需求 (Apple, 1986; Braverman, 1974)；思维活动被规训为可消耗的、产生外在交换价值的操作技能，培养出勤勉、听从指令但缺乏批判反思深度的平民劳动力主体。
+> - **工具理性与[[Sacred and Profane Knowledge|世俗知识]]工人认同（主流学校）** 知识被定性为外在任务解决的技术工具，强调向外迎合既定规范与劳动力市场雇主需求 (Apple, 1986; Braverman, 1974)；思维活动被规训为可消耗的、产生外在交换价值的操作技能，培养出勤勉、听从指令但缺乏批判反思深度的平民劳动力主体。
 > - **自恋理性与神圣精英领袖认同（精英学校）** 知识被奉为内在自足、不附庸于外部功利的崇高追求 (Bernstein, 1977, p. 96; Bernstein, 2000, p. 55)，强调向内审视自身的思维品质；思维活动被内化为一种精神特权与神圣天职，赋予学生强大的智力自负感与贵族责任感（Noblesse Oblige），培育出视统治与社会领导为理所应当的统治阶层主体 (Bourdieu, 1996)。
 
 ---

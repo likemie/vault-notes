@@ -11,7 +11,7 @@ subtype: policy
 region: singapore
 fact_region: "singapore"
 fact_kind: "policy"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -40,6 +40,7 @@ related_persons:
   - "[[Saravanan Gopinathan]]"
 related_facts:
   - "[[Singapore National Education]]"
+  - "[[Singapore Ministry of Education]]"
   - "[[Goh Report]]"
   - "[[Thinking Schools, Learning Nation]]"
 related_arguments:
@@ -56,7 +57,7 @@ updated: 2026-11-19
 > - **发布时间 / 发布主体** 1956 年由新加坡立法议会各党派委员会（All-Party Committee of the Singapore Legislative Assembly on Chinese Education）联合编制并发布。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 453)]]
 > - **适用地区 / 对象** 覆盖当时英殖民自治过渡期新加坡全岛不同语系学校，尤其是长期自治且处于政治敏感边缘的华文学校系统。
 > - **问题背景** 二战后新加坡社会族群高度分化，华语、英语、马来语、泰米尔语四套相互割裂的学校系统各自为政；华校师生因深感边缘化与政治冷遇爆发广泛学潮，社会稳定与政治整合遭遇严峻危机。
-> - **制度位置** 奠定了后殖民时代[[National Education (Singapore)|新加坡国民教育]]体制的宪制性基石，为后续统一国家课程、[[Bilingual Education Policy|双语政策]]与精英贤能选拔体制确立了根本政治共识。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 454)]]
+> - **制度位置** 奠定了后殖民时代[[Singapore National Education|新加坡国民教育]]体制的宪制性基石，为后续统一国家课程、[[Bilingual Education Policy|双语政策]]与精英贤能选拔体制确立了根本政治共识。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 454)]]
 
 ---
 
@@ -85,7 +86,7 @@ updated: 2026-11-19
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** 新加坡立法议会跨党派委员会，由各政党代表共同协商妥协。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 453)]]
-> - **执行主体** 新加坡教育部，负责将双语规范与统编教材逐步推行至各族学校。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 454)]]
+> - **执行主体** [[Singapore Ministry of Education|新加坡教育部]]，负责将双语规范与统编教材逐步推行至各族学校。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 454)]]
 > - **适用对象** 传统华社校董会、宗乡会馆及多元族群师生家长。
 > - **政策工具** 统一财政拨款、统编双语课程标准与公立考试准入机制。
 

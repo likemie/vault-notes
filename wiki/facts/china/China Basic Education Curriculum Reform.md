@@ -19,7 +19,7 @@ issuing_organization: 教育部
 confidence: medium
 status: draft
 created: '2026-05-17'
-updated: 2026-11-15
+updated: 2026-11-19
 tags:
   - region/china
   - level/k12

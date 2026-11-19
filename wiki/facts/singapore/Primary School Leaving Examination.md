@@ -10,7 +10,7 @@ subtype: policy
 region: singapore
 fact_region: "singapore"
 fact_kind: "policy"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -41,6 +41,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Singapore Ministry of Education]]"
   - "[[Goh Report]]"
   - "[[Teach Less, Learn More]]"
   - "[[Cram Schools]]"
@@ -59,7 +60,7 @@ updated: 2026-11-19
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 组织主体** 始创于 1960 年，由新加坡教育部设立；现由法定机构新加坡考试与评鉴局（Singapore Examinations and Assessment Board, SEAB）负责统一命题、施测与阅卷评分。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 453)]]
+> - **发布时间 / 组织主体** 始创于 1960 年，由[[Singapore Ministry of Education|新加坡教育部]]设立；现由法定机构新加坡考试与评鉴局（Singapore Examinations and Assessment Board, SEAB）负责统一命题、施测与阅卷评分。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 453)]]
 > - **适用地区 / 对象** 覆盖新加坡全岛所有公立小学六年级修业期满学生，具有全国适龄学童普适性。
 > - **问题背景** 独立初期新加坡各语言源流学校教育标准悬殊、[[Academic Attrition|学业流失]]率严重；政府亟需一项具有公信力且兼顾公平的统一标准化测量工具，为学生匹配适宜的中学教学进度。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 453–454)]]
 > - **制度位置** 构筑了新加坡基础教育由小学通识阶段向中等教育分轨阶段过渡的关键分水岭，并在 1979 年《[[Goh Report|吴庆瑞报告]]》新教育体制中确立为能力分流与[[Curriculum Alignment|课程对齐]]的核心锚点。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 453–455)]]

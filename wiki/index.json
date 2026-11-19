@@ -6761,6 +6761,17 @@
     ]
   },
   {
+    "title": "Tri Hita Karana",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Tri Hita Karana.md",
+    "aliases": [
+      "三界和谐",
+      "巴厘岛三界和谐哲学",
+      "三因和谐哲学",
+      "三和哲学"
+    ]
+  },
+  {
     "title": "Typicality",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Typicality.md",
@@ -15543,18 +15554,6 @@
       "词典编纂革命",
       "语文学运动",
       "lexicographic revolution"
-    ]
-  },
-  {
-    "title": "Pluriverse",
-    "type": "concept",
-    "path": "wiki/concepts/political-economy-geopolitics/Pluriverse.md",
-    "aliases": [
-      "多元世界",
-      "多元宇宙",
-      "多元共存世界",
-      "Pluriversality",
-      "多元性存在"
     ]
   },
   {
@@ -47424,6 +47423,17 @@
       "教师教育学院",
       "Institute of Education",
       "IE"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "Singapore Ministry of Education",
+    "type": "fact",
+    "path": "wiki/facts/singapore/Singapore Ministry of Education.md",
+    "aliases": [
+      "新加坡教育部",
+      "Ministry of Education Singapore",
+      "MOE Singapore"
     ],
     "subtype": "organization"
   },

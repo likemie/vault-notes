@@ -6,7 +6,7 @@ aliases:
 summary: "跨越单一国家教育体系、服务跨国流动家庭或本地国际课程需求的学校类型。从早期侨民通道发展出跨国资格协调、市场化连锁与国家调控规制形态。"
 type: concept
 domain: "comparative-education"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -51,6 +51,7 @@ related_facts:
   - "[[Global Campaign for Education]]"
   - "[[International Schools Examination Syndicate]]"
   - "[[Science Technology and Social Change Curriculum Pilot]]"
+  - "[[Singapore Ministry of Education]]"
   - "[[International Schools Association]]"
   - "[[English Schools Foundation Hong Kong]]"
 related_arguments:
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-17
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -157,7 +158,7 @@ flowchart TD
 
 > [!case] 新加坡发展型国家对特许国际学校的双重调控
 > 学术研究系统考察了新加坡在教育国际化进程中的规制创新：
-> - 政策背景：为应对全球化[[Knowledge-Based Economy|知识经济]]竞争、吸引跨国顶尖科研人才并满足归国公民子女就学，新加坡教育部特许英华国际学校（ACS International）与华中国际学校（Hwa Chong International）等本土顶尖名校开办国际部；
+> - 政策背景：为应对全球化[[Knowledge-Based Economy|知识经济]]竞争、吸引跨国顶尖科研人才并满足归国公民子女就学，[[Singapore Ministry of Education|新加坡教育部]]特许英华国际学校（ACS International）与华中国际学校（Hwa Chong International）等本土顶尖名校开办国际部；
 > - 强力制度规制：与西方放任模式不同，国家明确规定此类学校的本地公民生源比例不得低于 50%，且本土学生必须严格遵守法定[[Bilingual Education Policy|双语教育政策]]（必修母语）并修读[[National Education|国民教育]]课程，成功将国际学校改造为服务于国家人力资本战略与国家凝聚力建设的受控制度载体。([[Argument_Gopinathan_2007_GSE|Gopinathan, 2007, pp. 67–68]]; [[Argument_Chua_2011_CILP|Chua, 2011]])
 
 > [!proposition-summary] 国际学校核心命题推导

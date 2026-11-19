@@ -8,7 +8,7 @@ aliases:
 summary: "源自马来群岛原住民传统的整体和乐福祉哲学，强调身心健康、社会和谐、生态永续与本土知识生产的动态平衡；在高等教育去殖民化视阈中，构成抵制新自由主义过度竞争、文凭工具主义与欧洲中心主义知识垄断的替代性本土认知范式"
 type: concept
 domain: "educational-philosophy"
-related_count: 23
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,9 @@ related_concepts:
   - "[[Buen Vivir]]"
   - "[[Ubuntu]]"
   - "[[Ontology]]"
+  - "[[Papuan Social Ecology]]"
+  - "[[Alienation]]"
+  - "[[Tri Hita Karana]]"
   - "[[Developmentalism]]"
   - "[[Performance Indicators]]"
   - "[[Academic Anxiety]]"
@@ -38,6 +41,7 @@ related_concepts:
   - "[[Transnational Education]]"
   - "[[ASEAN Way]]"
   - "[[Kapwa]]"
+  - "[[Pluriverse]]"
   - "[[Epistemology]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -73,7 +77,8 @@ updated: 2026-11-19
 > [!boundary]- 概念边界
 > - 不等于 [[Buen Vivir]] 西班牙语美洲安第斯哲学侧重人与大自然母亲的宇宙共生伦理；Sejahtera 虽包含生态维度，但在制度实践中更加聚焦马来群岛的整体福祉与在地知识自主生产。
 > - 不等于 [[Ubuntu]] 非洲人道主义哲学高度聚焦“人在社群连接中成为人”的人际共生[[Ontology|本体论]]；Sejahtera 涵盖社会人际维度的同时，更加强调个体身心平衡与可持续发展的互构。
-> - 不等于印度尼西亚巴厘岛“三界和谐”（Tri Hita Karana） 后者强调神、人与自然三维度的宇宙宗教秩序平衡；Sejahtera 虽涵括精神面向，但在高教治理实践中侧重全人身心修养与在地知识自主生产。
+> - 不等于 [[Papuan Social Ecology]] 美拉尼西亚巴布亚原住民哲学侧重人类对海陆自然生态的本体依附与生态系统内部各单元的差[[Alienation|异化]]功能互补；Sejahtera 更加聚焦身心健康、社会和谐与在地知识自立的整体繁荣。
+> - 不等于印度尼西亚巴厘岛“[[Tri Hita Karana|三界和谐]]”（Tri Hita Karana） 后者强调神、人与自然三维度的宇宙宗教秩序平衡；Sejahtera 虽涵括精神面向，但在高教治理实践中侧重全人身心修养与在地知识自主生产。
 > - 不等于泰国“魂魄修养”（Khwan） 后者将形而上学的泛灵论信仰渗透于日常生命照料实践；Sejahtera 更加聚焦宏观教育政策与大学可持续发展生态的制度化建构。
 
 ---
@@ -146,7 +151,7 @@ updated: 2026-11-19
 > | [[Kapwa]] | Concept | 同为东南亚本土哲学，与 Sejahtera 共同支撑去殖民高教区域主义。 |
 > | [[Epistemic Coloniality]] | Concept | Sejahtera 主张本土知识自立所直接对抗的欧洲中心主义认识论霸权。 |
 > | [[ASEAN Way]] | Concept | Sejahtera 为重塑东盟方式、推动本土人才投资与内生发展提供哲学指引。 |
-> | [[Decolonial Geopolitics of Knowledge]] | Theory | 将 Sejahtera 作为非西方知识合法性源泉纳入全球知识多元世界构建的理论框架。 |
+> | [[Decolonial Geopolitics of Knowledge]] | Theory | 将 Sejahtera 作为非西方知识合法性源泉纳入全球知识[[Pluriverse\|多元世界]]构建的理论框架。 |
 
 ---
 

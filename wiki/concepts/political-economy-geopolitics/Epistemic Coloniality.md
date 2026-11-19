@@ -6,7 +6,7 @@ aliases:
 summary: "全球知识体系以欧洲中心主义认识论为基础的隐性权力结构，通过学术语言垄断、量化评估标准及学者自我规训固化全球知识等级秩序；在比较教育与去殖民研究中，构成批判大学排名霸权、欧美东亚双重新殖民吸附以及倡导南方本土知识自立的核心分析框架"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 31
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Global Universities Rankings]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
+  - "[[Pluriverse]]"
   - "[[Praxis]]"
   - "[[Discourse]]"
   - "[[Epistemic Governance]]"
@@ -35,6 +36,7 @@ related_concepts:
   - "[[Philosophical Aesthetics]]"
   - "[[Epistemic Practices]]"
   - "[[Sejahtera]]"
+  - "[[Papuan Social Ecology]]"
   - "[[Kapwa]]"
   - "[[ASEAN Way]]"
   - "[[Ways of Knowing]]"
@@ -77,7 +79,7 @@ updated: 2026-11-19
 > *The global knowledge system has long been built upon Eurocentric epistemological and methodological foundations, establishing a covert yet potent structure of epistemic coloniality. This structure dictates what knowledge is visible, accepted, and cited, while institutionally consolidating hierarchical boundaries of symbolic space... The universal legitimacy of modern knowledge systems rests upon the 'hubris of the zero point', which assumes knowledge can attain objective neutrality divorced from bodily and geographic situatedness, thereby obscuring the particular historical and geographic roots of Western knowledge.*
 
 > [!citation-card] 因德拉拉贾论认识论去殖民化与学术正义
-> 学术史证据表明，全球知识评价标准长期打着欧美帝国的历史特权烙印。扶持东南亚本土原住民与边缘学者开展[[Knowledge Production|知识生产]]，是破除历史特权、落实学术正义的必要实践。去殖民实践的重点在于创造多元世界图景，以反抗和抵制全球高等教育等级的不平衡。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 4–5, 12)]]
+> 学术史证据表明，全球知识评价标准长期打着欧美帝国的历史特权烙印。扶持东南亚本土原住民与边缘学者开展[[Knowledge Production|知识生产]]，是破除历史特权、落实学术正义的必要实践。去殖民实践的重点在于创造[[Pluriverse|多元世界]]图景，以反抗和抵制全球高等教育等级的不平衡。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 4–5, 12)]]
 >
 > *Epistemic decolonization directly redresses historically entrenched academic privileges. Historical evidence demonstrates that global knowledge evaluation standards have long carried the imperial privileges of Europe and North America. Supporting indigenous and marginalized scholars in the Global South to produce knowledge is an essential [[Praxis|praxis]] of epistemic justice... The emphasis must be placed on creating pluriversal outcomes to combat and resist imbalances in the global higher educational hierarchy.*
 
@@ -134,7 +136,7 @@ updated: 2026-11-19
 > **去殖民[[Epistemic Practices|认识论实践]]与反思** 这类命题主张破除以单一西方理性为绝对尺度的认知霸权，重估全球南方被压制的生活经验与原住民智慧。
 
 > [!claim] Indrarajah, T.
-> **本土原住民哲学破除双重新殖民垄断** 针对保守派将去殖民化贬低为文化战的指责，历史证据显示知识评价标准深度交织着殖民特权。在东南亚高等教育中，抵御欧美办学标准垄断与东亚单向地缘吸附的双重新殖民格局，必须依托本土语言的自主性，系统激活马来群岛[[Sejahtera|和乐福祉]]（[[Sejahtera]]）、巴布亚社会生态学与菲律宾同胞认同（[[Kapwa]]）三大原住民智慧。通过将平权协商、身心平衡与生态永续融入课程和治理体系，东南亚大学能够打破唯商业排名的内卷怪圈，推动[[ASEAN Way|东盟方式]]由封闭自保转向资源互助与本土人才内生循环，构建去中心化的多元世界高教秩序。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 4–13)]]
+> **本土原住民哲学破除双重新殖民垄断** 针对保守派将去殖民化贬低为文化战的指责，历史证据显示知识评价标准深度交织着殖民特权。在东南亚高等教育中，抵御欧美办学标准垄断与东亚单向地缘吸附的双重新殖民格局，必须依托本土语言的自主性，系统激活马来群岛[[Sejahtera|和乐福祉]]（[[Sejahtera]]）、[[Papuan Social Ecology|巴布亚社会生态学]]与菲律宾同胞认同（[[Kapwa]]）三大原住民智慧。通过将平权协商、身心平衡与生态永续融入课程和治理体系，东南亚大学能够打破唯商业排名的内卷怪圈，推动[[ASEAN Way|东盟方式]]由封闭自保转向资源互助与本土人才内生循环，构建去中心化的多元世界高教秩序。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 4–13)]]
 
 ---
 

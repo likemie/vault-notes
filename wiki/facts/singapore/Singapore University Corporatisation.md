@@ -12,11 +12,11 @@ subtype: policy
 region: singapore
 fact_region: "singapore"
 fact_kind: "policy"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: "Singapore Ministry of Education"
+issuing_organization: "[[Singapore Ministry of Education]]"
 tags:
   - fact/policy
   - region/singapore
@@ -43,6 +43,7 @@ related_instruments: []
 related_persons:
   - "[[Saravanan Gopinathan]]"
 related_facts:
+  - "[[Singapore Ministry of Education]]"
   - "[[Ministry of Education of the People's Republic of China]]"
   - "[[Singapore Education Hub Policy]]"
 related_arguments:
@@ -56,7 +57,7 @@ updated: 2026-11-19
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2005 年 1 月由新加坡教育部（Ministry of Education, [[Ministry of Education of the People's Republic of China|MOE]]）正式公布大学公司化政策报告，国会随后通过《大学公司化法案》（*University Corporatisation Act 2005*），并于 2006 年 4 月 1 日正式生效落地。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, p. 66)]]
+> - **发布时间 / 发布主体** 2005 年 1 月由[[Singapore Ministry of Education|新加坡教育部]]（Ministry of Education, [[Ministry of Education of the People's Republic of China|MOE]]）正式公布大学公司化政策报告，国会随后通过《大学公司化法案》（*University Corporatisation Act 2005*），并于 2006 年 4 月 1 日正式生效落地。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, p. 66)]]
 > - **适用地区 / 对象** 新加坡两所历史悠久的旗舰公立大学——新加坡国立大学（National University of Singapore, NUS）与南洋理工大学（Nanyang Technological University, NTU），后续延伸至新建的新加坡管理大学（Singapore Management University, SMU）等公立高等院校。
 > - **问题背景** 在传统法定机构（Statutory Board）体制下，公立大学人事聘用、薪酬体系与经费预算严格受制于公务员层级管理与行政核批，机制难以快速响应全球高等教育对世界级顶尖科研人才的激烈争夺，亟须破除官僚约束以匹配[[Knowledge-Based Economy|知识经济]]高新技术研发需求。
 > - **制度位置** 属于新加坡高等教育现代治理重构的关键支柱，与“环球校园”（[[Singapore Education Hub Policy|Global Schoolhouse]]）及教育枢纽战略紧密协同，是强[[Developmental State|发展型国家]]在公共服务领域推行[[Tactical Marketisation|战术性市场化]]的标志性举措。

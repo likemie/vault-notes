@@ -2020,6 +2020,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
+        "wiki/concepts/educational-philosophy/Pluriverse.md",
         "wiki/concepts/political-economy-geopolitics/Epistemic Coloniality.md"
       ],
       "title": "Mignolo's epistemology of coloniality"
@@ -7325,6 +7326,14 @@
       ],
       "title": ""
     },
+    "Bandalos & Finney, 2001": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": ""
+    },
     "Bandman & Bandman, 1988": {
       "doi": "",
       "isbn": "",
@@ -9155,7 +9164,8 @@
       "doi": "10.1080/0142569022000038459",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md",
+        "wiki/concepts/curriculum/Sacred and Profane Knowledge.md"
       ],
       "title": "The Sacred and the Profane in Recent Struggles to Promote Official Pedagogic Identities"
     },
@@ -15571,6 +15581,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md",
         "wiki/concepts/instruction-pedagogy/Folk Pedagogy.md"
       ],
       "title": ""
@@ -75204,7 +75215,8 @@
       "doi": "",
       "isbn": "9780822371090",
       "seen_in": [
-        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
+        "wiki/concepts/educational-philosophy/Pluriverse.md"
       ],
       "title": "On decoloniality: Concepts, analytics, praxis"
     },
@@ -76755,7 +76767,8 @@
       "doi": "https://doi.org/10.1177/00113921231194094",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
+        "wiki/concepts/educational-philosophy/Pluriverse.md"
       ],
       "title": "The intellectual biography of Syed Farid Alatas: Hegemonic orientations, epistemic decolonisation and the School of Autonomous Knowledge"
     },
@@ -87382,7 +87395,8 @@
       "doi": "https://doi.org/10.1007/978-3-642-10829-7_18",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
+        "wiki/concepts/educational-philosophy/Tri Hita Karana.md"
       ],
       "title": "Tri Hita Karana–the local wisdom of the Balinese in managing development"
     },
@@ -89771,7 +89785,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
+        "wiki/concepts/educational-philosophy/Tri Hita Karana.md"
       ],
       "title": "The Khwan and its ceremonies"
     },

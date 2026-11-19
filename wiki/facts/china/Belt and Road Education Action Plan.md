@@ -11,7 +11,7 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 35
+fact_related_count: 36
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -54,6 +54,7 @@ related_facts:
   - "[[Ministry of Education of the People's Republic of China]]"
   - "[[Belt and Road Initiative]]"
   - "[[Luban Workshop]]"
+  - "[[Opinions on Properly Conducting the Education Opening-up Work of the New Era]]"
   - "[[Xiamen University Malaysia]]"
   - "[[University Alliance of the Silk Road]]"
   - "[[Confucius Institute]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -99,7 +100,7 @@ updated: 2026-11-11
 > [!timeline] 政策时间线
 > - **2013 年** 国家领导层在哈萨克斯坦与印度尼西亚发表演讲，正式提出共建“丝绸之路经济带”与“21世纪海上丝绸之路”倡议，倡导[[People-to-People Connectivity|民心相通]]与青年教育交流。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 682)]]
 > - **2015 年** 国家发改委、外交部、商务部联合发布《推动共建[[Belt and Road Initiative|丝绸之路经济带和21世纪海上丝绸之路]]的愿景与行动》，提出扩大相互留学规模并提供1万个政府奖学金名额；教育部印发《高等职业教育创新发展行动计划（2015—2018年）》。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 682, 685)]]
-> - **2016 年** 中共中央办公厅、国务院办公厅印发《关于做好新时期教育对外开放工作的若干意见》；教育部于7月正式印发《推进共建“一带一路”教育行动》，8月举行新闻发布会形成官方权威解读。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 682–684)]]
+> - **2016 年** 中共中央办公厅、国务院办公厅印发《[[Opinions on Properly Conducting the Education Opening-up Work of the New Era|关于做好新时期教育对外开放工作的若干意见]]》；教育部于7月正式印发《推进共建“一带一路”教育行动》，8月举行新闻发布会形成官方权威解读。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 682–684)]]
 > - **2018 年** 教育部印发《高等学校科技创新服务“一带一路”倡议行动计划》，进一步聚焦高科技研发协同、联合实验室共建与高新[[Research Translation|技术转化]]。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 685–686)]]
 
 ---

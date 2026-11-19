@@ -7,7 +7,7 @@ title: "Argument_Zhu_Yang_2025_HE"
 argument_key: "Argument_Zhu_Yang_2025_HE"
 argument_display_title: "Deciphering China’s higher education outreach paradigm in Southeast Asia: can a neo-tributary perspective work? Higher Education, 89(4), 1041–1060"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 38
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -70,12 +70,13 @@ related_facts:
   - "[[MOFCOM Scholarship]]"
   - "[[Chinese Academy of Sciences]]"
   - "[[Royal University of Phnom Penh]]"
+  - "[[National Institute of Education]]"
   - "[[ASEAN]]"
   - "[[Asian Infrastructure Investment Bank]]"
   - "[[Institute of South-South Cooperation and Development]]"
 status: draft
 created: 2026-10-20
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 ---
 
@@ -161,7 +162,7 @@ updated: 2026-11-11
 > | **I 36** | 金边皇家大学（RUPP） | 金边 | 2011–至今 | RUPP-大理大学汉语中心副主任 | 联合办学实体执行机构领导 |
 > | **I 37** | 金边皇家大学（RUPP） | 金边 | 2016–至今 | 外语学院院长（兼具法援项目经验） | 多边语言合作规划负责人 |
 > | **I 38** | 金边市教育局 | 金边 | 2015–至今 | 督导处副处长（曾分管中柬交流项目） | 教育行政管理官员 |
-> | **I 39** | 柬埔寨教师教育学院 | 金边 | 2016–至今 | 院长（曾参与日本国际协力机构（Japan International Cooperation Agency, JICA）援柬师范项目） | 教师教育机构最高决策者 |
+> | **I 39** | 柬埔寨[[National Institute of Education\|教师教育学院]] | 金边 | 2016–至今 | 院长（曾参与日本国际协力机构（Japan International Cooperation Agency, JICA）援柬师范项目） | 教师教育机构最高决策者 |
 > | **I 40** | 金边皇家大学（RUPP） | 金边 | 2019–至今 | 社会科学学院讲师 | 青年留华归国学者 |
 
 ---

@@ -88,6 +88,7 @@ related_facts:
   - "[[Department of Energy]]"
   - "[[First Masterplan for ICT in Education]]"
   - "[[Integrated Programme]]"
+  - "[[Singapore-Cambridge GCE Ordinary Level]]"
   - "[[Specialised Independent Schools]]"
   - "[[Direct School Admission]]"
   - "[[Independent Schools Initiative]]"
@@ -105,7 +106,7 @@ title: "Argument_Gopinathan_2007_GSE"
 argument_key: "Argument_Gopinathan_2007_GSE"
 argument_display_title: "Globalisation, the Singapore developmental state and education policy: a thesis revisited"
 argument_kind: "journal-article"
-argument_related_count: 67
+argument_related_count: 68
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -320,7 +321,7 @@ issuing_organization: ""
 > [!sub-claim] 2. [[Integrated Programme|直通车计划]]打破统考限制，为拔尖学生提供灵活的个性化升学通道
 
 > [!feature] 突破单一统考壁垒的三大多样化选拔创新
-> - **综合课程（IP 直通车计划）** 根据初级学院与高中教育检讨委员会建议，允许顶尖 10% 的中学生跳过剑桥普通教育证书普通水准（General Certificate of Education Ordinary Level, O-Level）升学考试，直接衔接大学预科课程，免除应试重复刷题，提供深层探究空间（Ministry of Education, 2002）。
+> - **综合课程（IP 直通车计划）** 根据初级学院与高中教育检讨委员会建议，允许顶尖 10% 的中学生跳过剑桥普通教育证书普通水准（General Certificate of Education Ordinary Level, [[Singapore-Cambridge GCE Ordinary Level|O-Level]]）升学考试，直接衔接大学预科课程，免除应试重复刷题，提供深层探究空间（Ministry of Education, 2002）。
 > - **顶尖专业化特色院校设立** 推进[[Specialised Independent Schools|专科自主学校]]（Specialised Independent Schools）体制，批准创办新加坡体育学校（2004 年）与新加坡国立大学数理中学（2005 年）等高度自主的专业院校，定制拔尖英才培养方案。
 > - **[[Direct School Admission|直接招生计划]]（Direct School Admission, DSA）推行** 赋予[[Independent Schools Initiative|自主学校]]高达 20%、主流学校 5% 的提前自主选拔招生配额，打破单一以统一纸笔考试总分为纲的录取格局。
 

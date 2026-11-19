@@ -8,7 +8,7 @@ aliases:
 summary: "参与公立学校教育政策制定、管理运营支持与核心教育服务交付的私营部门实体，兼具营利与非营利形式。在英美多以特许学校或学院连锁运营，在新西兰则演化为母体慈善信托与全资营利公司构成的双层混合法人架构，借助官方信息法豁免构筑民主问责屏障并实现免税套利。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -52,6 +52,7 @@ related_facts:
   - "[[Cognition Education]]"
   - "[[Corwin Press]]"
   - "[[Partnership Schools Kura Hourua]]"
+  - "[[Cram Schools]]"
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
@@ -60,7 +61,7 @@ related_instruments:
 confidence: high
 status: completed
 created: '2026-05-04'
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -199,7 +200,7 @@ updated: 2026-11-15
 > | **[[CORE Education]]** | 顶层为 CORE Education Trust（免税慈善信托）；底层为 CORE Education Ltd（100% 全资持股营利有限公司） | 2010 年为 780 万新西兰元；2015 年快速飙升至 2,270 万新西兰元（p. 77） | **极度依赖** 2014–2015 财年约 **85%** 的年收入直接来自教育部采购外包合同（p. 77） | 虽声称设立微额奖学金，但绝大多数营利全额用于内部团队扩张与留存利润累积 | 依靠免税非营利声誉垄断数字化学习技术与教师专业发展国家采购订单 |
 > | **培生集团新西兰业务（Pearson NZ）** | 英国跨国教育巨头 Pearson [[Professional Learning Community\|PLC]] 设立的全资有限责任子公司 | 集团全球销售额达 45 亿英镑；新西兰分支年营利数百至数千万新西兰元（pp. 59–64） | 竞标国家数字化教育基础设施、教材出版及在线评估系统 | 完全商业营利驱动，不承担任何本土慈善反哺义务 | 纯粹商业跨国公司架构，跨国转移定价与资本运作，规避本土公众治理监督 |
 
-> [!ref-table]- 表二：新西兰公私教育支出比例与影子教育发展特征（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 20–21]]）
+> [!ref-table]- 表二：新西兰公私教育支出比例与[[Cram Schools|影子教育]]发展特征（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 20–21]]）
 > 
 > | 指标维度 | 统计数值与国际排位 | 国际参照基准（[[OECD]] 平均水平） | 制度特征与政策含义 |
 > |---|---|---|---|

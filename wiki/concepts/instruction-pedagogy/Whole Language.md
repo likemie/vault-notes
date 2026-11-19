@@ -8,7 +8,7 @@ aliases:
 summary: "强调儿童在真实完整的交际与文学语境中整体习得语言与读写的教学哲学，主张阅读是读者协同调动语义、句法与字形线索的心理语言学猜测游戏；反对将读写能力机械拆解为脱离语境的孤立子技能灌输，并作为新加坡英文学习与阅读策略项目（STELLAR）等宏观课程改革的核心教学法基石。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 53
+related_count: 55
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Rote Learning]]"
   - "[[Decodification]]"
+  - "[[Shared Book Approach]]"
   - "[[Language Experience Approach]]"
   - "[[Technical Rationality]]"
   - "[[Professional Judgment]]"
@@ -70,6 +71,7 @@ related_facts:
   - "[[Reading Excellence Act]]"
   - "[[National Reading Panel]]"
   - "[[STELLAR Program]]"
+  - "[[Singapore Ministry of Education]]"
   - "[[Primary School Leaving Examination]]"
   - "[[United States Congress]]"
   - "[[No Child Left Behind Act 2001]]"
@@ -91,7 +93,7 @@ updated: 2026-11-19
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 语言是一个不可分割的有机整体，阅读实质上是读者利用语义、句法与字形多重线索主动预测和印证意义的“心理语言学猜测游戏”（Psycholinguistic Guessing Game; Goodman, 1967），超越了单纯字母符号的机械[[Decodification|解码]]累加。
-> - **用途** 指导以完整儿童文学大书（Big Books）、共享阅读（Shared Book Approach, SBA）、修正语言体验（Modified [[Language Experience Approach]], MLEA）、自主阅读工坊及真实日常对话为核心的课堂读写活动设计。
+> - **用途** 指导以完整儿童文学大书（Big Books）、共享阅读（[[Shared Book Approach]], SBA）、修正语言体验（Modified [[Language Experience Approach]], MLEA）、自主阅读工坊及真实日常对话为核心的课堂读写活动设计。
 > - **边界** 全语言排斥脱离情境、教条化的拼读技能切片灌输，但并不排斥在文学共享阅读与写作的具体情境中，由教师根据学生需要自然、流动地讲授拼读与字形解码规则（Hornsby & Powell, 1993）。
 
 > [!citation-card] 心理语言学视界下的整体阅读观
@@ -170,7 +172,7 @@ updated: 2026-11-19
 > **国家课程工程化落地与实证成效** 探讨全语言在非母语后殖民社会中经由系统性[[Scaffolding|脚手架]]改造后的制度化生命力，解构全语言必然导致学业产出下滑的技术主义偏见。
 
 > [!claim] [[Argument_Chua_2011_CILP|Chua (2011)]]
-> **[[STELLAR Program|STELLAR]] 课程改革中的全语言支架化落地与卓越达标率** 蔡欣美（Sok Hoon Chua）深入解构新加坡教育部自 2006 年起在全岛公立小学实施的 STELLAR 项目（英文学习与[[Reading Strategies|阅读策略]]项目），论证了全语言哲学如何转化为高绩效国家课程工程：面对死记硬背与孤立语法操练造成的听说交际瓶颈，新加坡官方系统整合全语言原则，以共享阅读法（SBA）大书共读与修正语言体验法（MLEA）为支柱，将真实语境浸润与系统教学法有机结合。官方统考统计证实，该项目推行后公立小学小学会考（[[Primary School Leaving Examination|PSLE]]）的标准英语合格率常年保持在 97.5%–98.9% 的极高水准，实证证明了全语言在融入系统性教学法支架与国家统筹保障后，完全能够兼容高标准的学业产出要求。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 131–134, 141)]]
+> **[[STELLAR Program|STELLAR]] 课程改革中的全语言支架化落地与卓越达标率** 蔡欣美（Sok Hoon Chua）深入解构[[Singapore Ministry of Education|新加坡教育部]]自 2006 年起在全岛公立小学实施的 STELLAR 项目（英文学习与[[Reading Strategies|阅读策略]]项目），论证了全语言哲学如何转化为高绩效国家课程工程：面对死记硬背与孤立语法操练造成的听说交际瓶颈，新加坡官方系统整合全语言原则，以共享阅读法（SBA）大书共读与修正语言体验法（MLEA）为支柱，将真实语境浸润与系统教学法有机结合。官方统考统计证实，该项目推行后公立小学小学会考（[[Primary School Leaving Examination|PSLE]]）的标准英语合格率常年保持在 97.5%–98.9% 的极高水准，实证证明了全语言在融入系统性教学法支架与国家统筹保障后，完全能够兼容高标准的学业产出要求。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 131–134, 141)]]
 
 ---
 

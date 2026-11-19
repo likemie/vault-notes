@@ -10,7 +10,7 @@ aliases:
 summary: "国家通过法定课程与教学语言规制，要求学生同时修习通用工作语与族群母语的系统性公共教育制度；在新加坡实践中依托八维语言规划网络确立英语优先与母语文化锚定的双轨战略，在达成高普及达标率的同时，派生出家庭母语萎缩与本土新加坡式英语认同抵抗的深层张力。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -48,6 +48,7 @@ related_instruments: []
 related_persons:
   - "[[Lee Kuan Yew]]"
   - "[[Goh Keng Swee]]"
+  - "[[Saravanan Gopinathan]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
 related_facts:
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -131,7 +132,7 @@ updated: 2026-11-18
 > [!claim] [[Lee Kuan Yew]] & [[Goh Keng Swee]]
 > **千年尺度下的语言文化整合** 新加坡独立之初面对缺乏资源纵深与 12 种方言割裂的严峻局面，李光耀与吴庆瑞主张必须以未来一百年乃至一千年的长远时间尺度思考生存；通过双语教育与[[Speak Mandarin Campaign|讲华语运动]]果断打破方言壁垒，使四分五裂的移民群体凝聚为具备共同道德价值观与奋斗意志的现代国家实体。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Lee, 1965, 1986; Goh, 1979; Karp & Zamiska, 2025, pp. 194–197)]]
 
-> [!claim] Gopinathan, S.
+> [!claim] [[Saravanan Gopinathan|Gopinathan, S.]]
 > **语言政策对国家文化人格的塑造作用** 论证新加坡的双语教育政策是多族群多元社会进行国家建构、确立“国家文化人格”（cultural personality of the nation）的核心制度战略，有别于单纯的教学法安排。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Gopinathan, 1979; Karp & Zamiska, 2025, p. 196)]]
 
 ---

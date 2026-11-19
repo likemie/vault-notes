@@ -10,23 +10,37 @@ aliases:
 summary: "早期儿童读写教学中以特大开本绘本为媒介、以师生互动共读为核心的结构化教学策略，通过多轮递进式互动建立印刷概念、词汇认读与文本理解，为独立阅读提供支架。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 14
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - shared-book-approach
   - early-literacy
   - reading-instruction
   - whole-language
   - primary-education
-related_concepts: []
+related_concepts:
+  - "[[Whole Language]]"
+  - "[[Language Experience Approach]]"
+  - "[[Early Literacy Approaches]]"
+  - "[[Scaffolding]]"
+  - "[[Reading Strategies]]"
+  - "[[Decodification]]"
+  - "[[The Interesting]]"
+  - "[[Learner Autonomy]]"
+  - "[[Variable]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[STELLAR Program]]"
+  - "[[Singapore Ministry of Education]]"
+  - "[[Primary School Leaving Examination]]"
+related_arguments:
+  - "[[Argument_Chua_2011_CILP]]"
 confidence: high
 status: draft
 created: 2026-11-19
@@ -36,21 +50,21 @@ updated: 2026-11-19
 ---
 
 > [!def] Shared Book Approach
-> 大书共享阅读法（Shared Book Approach, SBA）是一种以特大开本图画书（Big Books）为教学媒介、依托师生多轮互动共读构建早期读写素养的教学方法。该策略由唐·霍尔德威（Don Holdaway, 1979）在全语言运动中系统确立，旨在通过将家庭亲子共读的亲密愉悦体验移植至学校班级情境，使全体儿童均能清晰看清文本印刷符号与图画细节；教师在朗读过程中运用指读、提问预测、韵律朗诵及结构化讨论，帮助低龄儿童自然掌握从左至右的阅读流向、词图对应关系与篇章意义建构，进而在国家级读写课程中与修正语言经验法协同构成早期读写教学的核心支架。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 135–136)]]
+> 大书共享阅读法（Shared Book Approach, SBA）是一种以特大开本图画书（Big Books）为教学媒介、依托师生多轮互动共读构建早期读写素养的教学方法。该策略由唐·霍尔德威（Don Holdaway, 1979）在[[Whole Language|全语言]]运动中系统确立，旨在通过将家庭亲子共读的亲密愉悦体验移植至学校班级情境，使全体儿童均能清晰看清文本印刷符号与图画细节；教师在朗读过程中运用指读、提问预测、韵律朗诵及结构化讨论，帮助低龄儿童自然掌握从左至右的阅读流向、词图对应关系与篇章意义建构，进而在国家级读写课程中与修正[[Language Experience Approach|语言经验法]]协同构成[[Early Literacy Approaches|早期读写教学]]的核心支架。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 135–136)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向在集体教学中利用超大字体图文材料、通过显性示范与合作互动引导初学者浸润于完整意义文本的读写指导模式。
-> - **用途** 帮助教师在非母语或多语混合班级中降低印刷文本的感知门槛，为幼小衔接阶段的儿童搭建从口头语言过渡到书面符号理解的脚手架。
+> - **用途** 帮助教师在非母语或多语混合班级中降低印刷文本的感知门槛，为幼小衔接阶段的儿童搭建从口头语言过渡到书面符号理解的[[Scaffolding|脚手架]]。
 > - **边界** 不等于教师单向朗读且学生仅作为被动听众的“听读故事”（Read Aloud），也不等于缺乏教师示范引领的儿童自主泛读或分级“独立阅读”（Independent Reading）。
 
 > [!citation-card] 共享阅读法在国家早期英语课程中的定位
-> STELLAR 是由英语学习与阅读策略各词首字母组成的缩写。该项目由三大核心要素构成：大书共享阅读法、修正语言经验法以及学习中心。其核心目标在于通过以学习者为中心的教学法，切实巩固儿童的语言与阅读能力。其基本理念是：喜爱阅读的儿童往往会在语言发展上奠定更扎实的基础。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 135–136)]]
+> [[STELLAR Program|STELLAR]] 是由英语学习与[[Reading Strategies|阅读策略]]各词首字母组成的缩写。该项目由三大核心要素构成：大书共享阅读法、修正语言经验法以及学习中心。其核心目标在于通过以学习者为中心的教学法，切实巩固儿童的语言与阅读能力。其基本理念是：喜爱阅读的儿童往往会在语言发展上奠定更扎实的基础。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 135–136)]]
 >
 > *STELLAR is an acronym composed of the letters of the words Strategies for English Language Learning and Reading. The programme is made up of three major components: the Shared Book Approach; the Modified Language Experience Approach and Learning Centres. The main aims are to strengthen language and reading skills through the use of learner-centred teaching pedagogies... The belief is that children who enjoy reading will tend to have a stronger foundation in the language.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Language Experience Approach|语言经验法（LEA/MLEA）]]：大书共享阅读法以成熟的高品质出版绘本为输入载体，偏重阅读理解、印刷意识与词汇输入的示范；语言经验法则以儿童自身的口头生活经历记录为文本，偏重由说到写的表达产出。两者在课程中形成前后衔接的读写互补链条。
-> - 不等于孤立的拼音/自然拼读训练（Phonics）：共享阅读法坚持在有意义的完整故事语境中自然融入语音感知与字形解码，反对脱离上下文的机械字形切分与无意义跟读。
+> - 不等于 语言经验法（LEA/MLEA）：大书共享阅读法以成熟的高品质出版绘本为输入载体，偏重阅读理解、印刷意识与词汇输入的示范；语言经验法则以儿童自身的口头生活经历记录为文本，偏重由说到写的表达产出。两者在课程中形成前后衔接的读写互补链条。
+> - 不等于孤立的拼音/自然拼读训练（Phonics）：共享阅读法坚持在有意义的完整故事语境中自然融入语音感知与字形[[Decodification|解码]]，反对脱离上下文的机械字形切分与无意义跟读。
 > - 不适用于已有成熟独立阅读能力的学段中高年级纯文本复杂学科阅读。
 
 ---
@@ -68,7 +82,7 @@ updated: 2026-11-19
 > [!feature] 核心要素
 > - **大开本视觉可达性** 采用特制超大尺寸文本与清晰图画，确保全班每一位儿童在集体教学中均能清晰辨识文字笔画排布与图文对应线索。[[Argument_Chua_2011_CILP|(Chua, 2011, p. 135)]]
 > - **多轮递进式互动共读** 教学通常包含多日连续推进循环：从首轮的故事通读与情节推测，过渡到次轮的指读跟读与高频词识别，再深化为语法句式解析与戏剧表演拓展。[[Argument_Chua_2011_CILP|(Chua, 2011, p. 136)]]
-> - **以儿童为中心的情感浸润** 打破传统“以教师讲授为中心”的机械字词抄写，强调在趣味性故事叙述与韵律朗诵中培养阅读愉悦感，激发语言习得内驱力。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 135–136)]]
+> - **以儿童为中心的情感浸润** 打破传统“以教师讲授为中心”的机械字词抄写，强调在[[The Interesting|趣味性]]故事叙述与韵律朗诵中培养阅读愉悦感，激发语言习得内驱力。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 135–136)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -96,7 +110,7 @@ updated: 2026-11-19
 > [!concept-proposition] 命题二｜在国家级早期读写改革体系中，共享阅读法构成了从语言输入转化为表达输出的关键前端支架
 > **课程协同机制** 这类命题探讨综合性读写项目中各教学策略之间的结构性咬合，论证输入型策略与产出型策略的有机配合。
 
-> [!claim] MOE Singapore
+> [!claim] [[Singapore Ministry of Education|MOE Singapore]]
 > **教学支柱协同效应** 大书共享阅读法负责提供丰富的语言样本与阅读示范，随后借助修正语言经验法将所获词汇和句式迁移至协同写作中，最终在学习中心完成个性化巩固，三大支柱协同构成了完整的早期素养培育体系。[[Argument_Chua_2011_CILP|(MOE, 2008; Chua, 2011, pp. 135–136)]]
 
 ---
@@ -105,16 +119,16 @@ updated: 2026-11-19
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **早期读写建构** | 依托共享图文与示范互动降低符号解码门槛，弥合家庭读写资源差异 | 学前至小学低年级幼小衔接与二语早期启蒙 | Holdaway (1979); [[Argument_Chua_2011_CILP\|Chua (2011)]] |
-> | **课程协同机制** | 与经验写作和自主学习中心紧密咬合，形成输入向产出的系统衔接 | 国家级小学基础教育英语与母语全语言课程改革 | MOE Singapore (2008); [[Argument_Chua_2011_CILP\|Chua (2011)]] |
+> | **课程协同机制** | 与经验写作和[[Learner Autonomy\|自主学习]]中心紧密咬合，形成输入向产出的系统衔接 | 国家级小学基础教育英语与母语全语言课程改革 | MOE Singapore (2008); [[Argument_Chua_2011_CILP\|Chua (2011)]] |
 
 ---
 
-> [!other-empirical-table] 其他实证结果（无效应量）
+> [!other-empirical-table] 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Chua_2011_CILP\|Chua (2011)]] | 新加坡全国小学早期英语教学体系（以南洋小学等为代表） | 官方大纲评析与校本课程质性案例追踪 | STELLAR 项目中共享阅读法的推行效果与小学会考通过率 | 依托包含 SBA 的全语言项目实施，小学离校考试（PSLE）标准英语及格率持续稳定在 97.5%–98.9% 之间 | 定性政策分析与官方教育统计汇总 | 该结果反映宏观课程系统（含 SBA、师资培训与充沛财政）的综合成效，不可单项归因于 SBA 孤立要素 |
+> | [[Argument_Chua_2011_CILP\|Chua (2011)]] | 新加坡全国小学早期英语教学体系（以南洋小学等为代表） | 官方大纲评析与校本课程质性案例追踪 | STELLAR 项目中共享阅读法的推行效果与小学会考通过率 | 依托包含 SBA 的全语言项目实施，[[Primary School Leaving Examination\|小学离校考试]]（PSLE）标准英语及格率持续稳定在 97.5%–98.9% 之间 | 定性政策分析与官方教育统计汇总 | 该结果反映宏观课程系统（含 SBA、师资培训与充沛财政）的综合成效，不可单项归因于 SBA 孤立要素 |
 
 ---
 

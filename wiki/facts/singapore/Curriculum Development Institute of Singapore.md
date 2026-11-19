@@ -10,9 +10,9 @@ subtype: organization
 region: singapore
 fact_region: "singapore"
 fact_kind: "organization"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 12
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 tags:
   - fact/organization
@@ -30,7 +30,10 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Goh Keng Swee]]"
+  - "[[Zongyi Deng]]"
+  - "[[Saravanan Gopinathan]]"
 related_facts:
+  - "[[Singapore Ministry of Education]]"
   - "[[Goh Report]]"
   - "[[National Institute of Education]]"
 related_arguments:
@@ -38,13 +41,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-18
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
 
 > [!claim] 核心定位
-> 新加坡课程发展署（Curriculum Development Institute of Singapore, CDIS）是新加坡教育部于 1980 年设立的官方教材、教参及多媒体教学资源中央研制部门。该机构直属于教育部管理架构，以确保全国各学段各学科教学大纲、能力分流要求与全国统考标准实现高精度物化对齐为核心使命，为新加坡基础教育摆脱教材质量混乱、确立统一课堂教学质量基线发挥了决定性奠基作用。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 453–455)]]
+> 新加坡课程发展署（Curriculum Development Institute of Singapore, CDIS）是[[Singapore Ministry of Education|新加坡教育部]]于 1980 年设立的官方教材、教参及多媒体教学资源中央研制部门。该机构直属于教育部管理架构，以确保全国各学段各学科教学大纲、能力分流要求与全国统考标准实现高精度物化对齐为核心使命，为新加坡基础教育摆脱教材质量混乱、确立统一课堂教学质量基线发挥了决定性奠基作用。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 453–455)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1980 年 6 月正式组建，直接落实 1979 年《[[Goh Report|吴庆瑞报告]]》针对基础教育师生辍学流失率严重、缺乏本土适用高质量教材的诊断建议。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 454)]]
@@ -85,7 +88,7 @@ updated: 2026-11-18
 ---
 
 > [!debates] 制度贡献与实践争议
-> 邓宗怡与高平纳坦论证指出，CDIS 是理解新加坡从早期落后系统转变为全球高绩效系统的“缺失制度环节”：它通过提供高质量、结构化、包含详尽教学法指引的成套教材教参，实质性解决了发展中国家普遍面临的师资水平参差不齐与教学资源匮乏难题，为全系统教师提供了可靠的教学质量[[Scaffolding|脚手架]]。然而，这种高度脚本化与标准化的大纲材料组合，也从制度深处规训了一线教师对教材的高度依赖，使得注重统一标准答案复现的[[Direct Instruction|直接教学]]模式成为微观课堂的稳定常态。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 454–455)]]
+> [[Zongyi Deng|邓宗怡]]与[[Saravanan Gopinathan|高平纳坦]]论证指出，CDIS 是理解新加坡从早期落后系统转变为全球高绩效系统的“缺失制度环节”：它通过提供高质量、结构化、包含详尽教学法指引的成套教材教参，实质性解决了发展中国家普遍面临的师资水平参差不齐与教学资源匮乏难题，为全系统教师提供了可靠的教学质量[[Scaffolding|脚手架]]。然而，这种高度脚本化与标准化的大纲材料组合，也从制度深处规训了一线教师对教材的高度依赖，使得注重统一标准答案复现的[[Direct Instruction|直接教学]]模式成为微观课堂的稳定常态。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 454–455)]]
 
 ---
 

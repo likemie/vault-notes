@@ -7,7 +7,7 @@ aliases:
 summary: "读者在阅读过程中为促进文本理解、监控加工进程及克服理解障碍而自主调用的认知与元认知操作总和。以显性建模、元认知监控与真实语境应用为核心支架。"
 type: concept
 domain: "curriculum"
-related_count: 26
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,6 +20,7 @@ tags:
   - level/k12
 related_concepts:
   - "[[Metacognition]]"
+  - "[[Learning Strategies]]"
   - "[[Concept Mapping]]"
   - "[[Decodification]]"
   - "[[Scaffolding]]"
@@ -33,6 +34,7 @@ related_concepts:
   - "[[Language Experience Approach]]"
   - "[[Active Learning]]"
   - "[[Rote Learning]]"
+  - "[[Shared Book Approach]]"
   - "[[Early Literacy Approaches]]"
 related_theories:
   - "[[Behaviorism]]"
@@ -45,6 +47,7 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Visible Learning Meta-X]]"
   - "[[STELLAR Program]]"
+  - "[[Singapore Ministry of Education]]"
   - "[[Thinking Schools, Learning Nation]]"
   - "[[Primary School Leaving Examination]]"
   - "[[National Reading Panel]]"
@@ -53,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -62,7 +65,7 @@ updated: 2026-11-18
 > 阅读策略（Reading Strategies，在实证干预中常表述为阅读理解策略 Reading Comprehension Strategies）是指读者在阅读过程中，为建构文本意义、监控认知加工进程以及排除理解障碍而有意识调用的认知操作与[[Metacognition|元认知]]监控手段的总和。其核心操作包括预测（predicting）、提问（questioning）、澄清（clarifying）、总结（summarizing）、推论（inferencing）以及文本结构图式映射（text structure mapping）。实证综合表明，显性策略教学是提升中小学生阅读理解成效最具成本效益的教学干预之一。[[Argument_Chua_2011_CILP|(Chua, 2011)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 阅读策略兼具认知加工与元认知调节双重属性。认知策略直接操作文本信息以提取和重构[[Concept Mapping|命题网络]]；元认知策略则负责评估理解状态、侦测理解断裂并动态调用补偿手段。
+> - **含义** 阅读策略兼具认知加工与元认知调节双重属性。[[Learning Strategies|认知策略]]直接操作文本信息以提取和重构[[Concept Mapping|命题网络]]；元认知策略则负责评估理解状态、侦测理解断裂并动态调用补偿手段。
 > - **用途** 指导教师通过显性建模（explicit modeling）、出声思维（think-aloud）与渐退支架（gradual release of responsibility），帮助学童克服表层[[Decodification|解码]]瓶颈，迈向深度文本推论与批判性阅读。
 > - **边界** 阅读策略是达成文本深度理解的[[Scaffolding|认知脚手架]]，本身非阅读目的；它依赖于基础字词解码与领域背景知识，不能脱离真实文本孤立演练为抽象套路。
 
@@ -143,7 +146,7 @@ flowchart TD
 传统应试导向将策略[[Alienation|异化]]为孤立的题型解题套路，导致学生在脱离练习册后丧失真实阅读能力。将策略教学有机嵌入[[Whole Language|全语言]]大书共享阅读与[[Language Experience Approach|语言经验法]]情境中，不仅能够唤醒儿童的文学兴趣与语用意识，而且在宏观标准化考核中能够保持高水平达标率。
 
 > [!case] 新加坡 [[STELLAR Program|STELLAR]] 课程中的策略嵌入实践
-> 新加坡教育部在推行“[[Thinking Schools, Learning Nation|重思考的学校，好学习的国民]]”（TSLN）理念下，于 2006–2009 年全面实施小学英文“走向[[Active Learning|主动学习]]与阅读的英文学习”（STELLAR）改革。该方案破除以语法练习册为核心的[[Rote Learning|死记硬背]]模式，将显性阅读策略（预测、提问、图表组织、推论等）深度嵌入大书共享阅读法（SBA）与修正语言经验法（MLEA）之中：
+> [[Singapore Ministry of Education|新加坡教育部]]在推行“[[Thinking Schools, Learning Nation|重思考的学校，好学习的国民]]”（TSLN）理念下，于 2006–2009 年全面实施小学英文“走向[[Active Learning|主动学习]]与阅读的英文学习”（STELLAR）改革。该方案破除以语法练习册为核心的[[Rote Learning|死记硬背]]模式，将显性阅读策略（预测、提问、图表组织、推论等）深度嵌入[[Shared Book Approach|大书共享阅读法]]（SBA）与修正语言经验法（MLEA）之中：
 > - 教学实施：教师首先借助大书示范预测情节与文本结构分析，随后组织学生围绕共同生活经验开展写作与阅读迁移；
 > - 评估结果：改革在彻底淡化传统试卷套路操练的同时，新加坡[[Primary School Leaving Examination|小学离校考试]]（[[Primary School Leaving Examination|PSLE]]）英文科及格率在全国推行期间保持在 97.5%–98.9% 的顶尖高位，证实了策略教学与语境阅读深度融合的高实效性。([[Argument_Chua_2011_CILP|Chua, 2011, pp. 142–144]])
 

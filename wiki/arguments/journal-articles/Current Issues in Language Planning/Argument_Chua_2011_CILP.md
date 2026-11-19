@@ -29,12 +29,15 @@ related_concepts:
   - "[[Bilingual Education Policy]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Whole Language]]"
+  - "[[Code-Switching]]"
   - "[[Rote Learning]]"
   - "[[Reading Strategies]]"
+  - "[[Shared Book Approach]]"
   - "[[Language Experience Approach]]"
   - "[[Champ]]"
   - "[[Policy Translation]]"
   - "[[Competitiveness]]"
+  - "[[Standard Language Ideology]]"
   - "[[Document]]"
   - "[[International Schools]]"
 related_theories:
@@ -46,7 +49,10 @@ related_instruments: []
 related_persons:
   - "[[Lee Kuan Yew]]"
 related_facts:
+  - "[[National Institute of Education]]"
   - "[[STELLAR Program]]"
+  - "[[Primary School Leaving Examination]]"
+  - "[[Singapore Ministry of Education]]"
   - "[[OECD]]"
   - "[[Speak Good English Movement]]"
 related_arguments: []
@@ -62,9 +68,9 @@ title: "Argument_Chua_2011_CILP"
 argument_key: "Argument_Chua_2011_CILP"
 argument_display_title: "Singapore’s E(Si)nglish-knowing bilingualism"
 argument_kind: "journal-article"
-argument_related_count: 26
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 32
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: Current Issues in Language Planning
 book_title: ""
@@ -79,10 +85,10 @@ issuing_organization: ""
 > 新加坡作为一个缺乏原生英语人口、各族方言割裂的后殖民移民社会，如何依托国家自上而下的强力教育规制，将前宗主国语言塑造为全体国民共享的第一教学媒介语与经济工作语？该体系在带来近乎完全普及的标准英语学业通过率的同时，为何引发了母语生态的系统性萎缩与本土混合变体[[Singlish|新加坡式英语]]的自发扩散？
 
 > [!claim] 核心主张
-> 新加坡凭借政党领袖意志、教育部课程大纲、全额财政保障与南洋理工大学国立教育学院（National Institute of Education, NIE）师资统筹的四位一体协同，建构了以英语为中枢的懂英语双语社会；但这一制度化全域干预深度重塑了私人生活领域的语言生态，导致家庭第一语言全面倒向英语、族群传统母语发生代际断裂，并在高度多语接触中催生了兼具多重母语特征的接触变体新加坡式英语（Singlish），使原初设计的英语+1法定双语模式不可逆地演进为蕴含自下而上文化认同博弈的懂新式英语双语主义（[[English-Knowing Bilingualism|E(Si)nglish-knowing bilingualism]]）。
+> 新加坡凭借政党领袖意志、教育部课程大纲、全额财政保障与南洋理工大学国立教育学院（[[National Institute of Education]], NIE）师资统筹的四位一体协同，建构了以英语为中枢的懂英语双语社会；但这一制度化全域干预深度重塑了私人生活领域的语言生态，导致家庭第一语言全面倒向英语、族群传统母语发生代际断裂，并在高度多语接触中催生了兼具多重母语特征的接触变体新加坡式英语（Singlish），使原初设计的英语+1法定双语模式不可逆地演进为蕴含自下而上文化认同博弈的懂新式英语双语主义（[[English-Knowing Bilingualism|E(Si)nglish-knowing bilingualism]]）。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 新加坡从 1819 年殖民建埠、1965 年建国至 2010 年间语言教育政策变迁、四次小学英语教学大纲调整、[[STELLAR Program|英文学习与阅读策略项目]]（Strategies for English Language Learning and Reading, STELLAR）规程、官方教育预算与小学离校考试（Primary School Leaving Examination, PSLE）统计。
+> - **对象** 新加坡从 1819 年殖民建埠、1965 年建国至 2010 年间语言教育政策变迁、四次小学英语教学大纲调整、[[STELLAR Program|英文学习与阅读策略项目]]（Strategies for English Language Learning and Reading, STELLAR）规程、官方教育预算与[[Primary School Leaving Examination|小学离校考试]]（Primary School Leaving Examination, PSLE）统计。
 > - **张力** 国际标准英语的涉外经济工具理性与三大族群母语文化防御功能之间的结构失衡；官方对纯正标准英语的自上而下规范引导与民间青年群体对新加坡式英语自下而上情感依附之间的文化拉锯。
 > - **贡献** 将罗伯特·卡普兰与理查德·鲍尔道夫（Kaplan & Baldauf, 1997）的八维[[Kaplan and Baldauf's Language-in-Education Planning Framework|语言教育规划框架]]运用于东南亚国家治理实证，将安妮·帕基尔（Anne Pakir）（Pakir, 1991）界定的懂英语双语主义深化拓展为懂新式英语双语主义，揭示了后殖民多语[[Language-of-State|国家语言]]工程的非预期后果与微观社会语言学反弹。
 
@@ -95,7 +101,7 @@ issuing_organization: ""
 > | **[[English-Knowing Bilingualism\|懂英语的双语主义]]**<br>[[English-Knowing Bilingualism]] | 帕基尔界定的以中立国际语言为跨族群共同工作语、以族群母语为文化根基的双轨双语构型，用于透视新加坡国民[[Language Skills\|语言能力]]的结构特征与演进路径。 |
 
 > [!warrant]- 理论如何支撑论证
-> 卡普兰与鲍尔道夫的八维[[Analytic Framework|分析框架]]提供了一套超越宏观法律文本宣示的政策执行透视镜，帮助将新加坡教育部在统一师资资历审定、全国大纲研制、高额财政预算调配、全社会动员及小学离校考试（PSLE）标准化评估之间的连贯咬合呈现为因果机制；帕基尔的[[Construct|构念]]则为审视英语+1政策在微观家庭与年轻社群中的代际转移与弱化确立了基准模型，从而揭示出政策在达成高标准学业产出的同时必然派生出新加坡式英语的理论逻辑。
+> 卡普兰与鲍尔道夫的八维[[Analytic Framework|分析框架]]提供了一套超越宏观法律文本宣示的政策执行透视镜，帮助将[[Singapore Ministry of Education|新加坡教育部]]在统一师资资历审定、全国大纲研制、高额财政预算调配、全社会动员及小学离校考试（PSLE）标准化评估之间的连贯咬合呈现为因果机制；帕基尔的[[Construct|构念]]则为审视英语+1政策在微观家庭与年轻社群中的代际转移与弱化确立了基准模型，从而揭示出政策在达成高标准学业产出的同时必然派生出新加坡式英语的理论逻辑。
 
 ---
 
@@ -175,7 +181,7 @@ issuing_organization: ""
 > | 国家 | 政策举措与实施机制 | 受挫症结与实践困境 | 制度结果与现状 |
 > |---|---|---|---|
 > | **马来西亚** | 2003 年推行英语教数理政策（PPSMI） | 农村学校师资英语水平薄弱，引发母语团体强烈政治反弹（Ali et al., 2011；Hamid, 2010） | 2009 年宣布废止，2012 年重回马来语和族群母语为主导的媒介语体系 |
-> | **文莱** | 1984 年确立双语教育体制（Dwibahasa） | 课堂教学中师生频繁在马来语与英语间杂糅[[Code-Switching|语码转换]]（Wood et al., 2009） | 标准英语流利度未能达到预期标准，双语转译存在断层 |
+> | **文莱** | 1984 年确立双语教育体制（Dwibahasa） | 课堂教学中师生频繁在马来语与英语间杂糅[[Code-Switching\|语码转换]]（Wood et al., 2009） | 标准英语流利度未能达到预期标准，双语转译存在断层 |
 > | **孟加拉国** | 尝试在基础教育引入英语媒介课程 | 缺乏统一师资培训与教材配套，大众教育缺少浸润时间（Hamid, 2010） | 英语沦为少数精英阶层的阶级特权工具，大众普及受挫 |
 > | **新加坡** | 构建准入、师资、课程与财政八维全方位干预网络 | 早期面临族群母语藩篱与文化认同抗拒，后转向实用主义双语制 | 英语成为行政、司法与商务中枢语言，实现全员普惠掌握 |
 
@@ -238,7 +244,7 @@ issuing_organization: ""
 > - **核心问题导向** 破除[[Rote Learning|死记硬背]]与孤立语法操练，依托全语言体验提升真实[[Reading Strategies|阅读策略]]与听说流利度（Zhang et al., 2008；Toh, 2008）。
 
 > [!feature] STELLAR 低幼全语言教学法的三大支柱
-> - **共享阅读法（Shared Book Approach, SBA）** 教师使用超大开本经典绘本置于全班中央，引导学生观察插图、预测情节、指读生词，改变传统的被动听写模式。
+> - **[[Shared Book Approach|大书共享阅读法]]（Shared Book Approach, SBA）** 教师使用超大开本经典绘本置于全班中央，引导学生观察插图、预测情节、指读生词，改变传统的被动听写模式。
 > - **修正语言体验法（Modified [[Language Experience Approach]], MLEA）** 教师带领全班开展共同体验活动（如简易烹饪与科学小实验），师生共同口述经历并板书成文，将生活经验直接转化为读写材料。
 > - **学习中心（Learning Centres）** 教室划分为阅读角、字词探究角与视听角，使不同进度学生依据个性化节奏开展同伴合作与拓展学习。
 
@@ -265,7 +271,7 @@ issuing_organization: ""
 > 2. **传统母语退化为课外补习科目** 大量学龄儿童入学前已将英语作为事实第一语言，母语反而演变为需要课外高强度补习的应试科目，引发母语+1文化支柱的系统性空心化（Zhao & Liu, 2007）。
 > 3. **族群认同与语言活力的结构性断裂** 学校标准化母语考核难以阻挡实际语用能力的衰减，使母语作为道德与文化锚点的既定战略预期面临落空（Kirkpatrick, 2010）。
 
-> [!figure]- 语言[[Policy Translation|政策转译]]与语码转换互动模型
+> [!figure]- 语言[[Policy Translation|政策转译]]与[[Code-Switching|语码转换]]互动模型
 > ![](https://img.mylikemie.icu/sources/Chua_2011_CILP/figures/Chua_2011_CILP_Fig4_Language_Policy_Translating_Process.jpg)
 
 > [!citation-card] 柯克帕特里克论英语+1双语模式的半截成功
@@ -284,7 +290,7 @@ issuing_organization: ""
 > ![](https://img.mylikemie.icu/sources/Chua_2011_CILP/figures/Chua_2011_CILP_Fig5_Language_Interactions_Evolution.jpg)
 
 > [!feature] 新加坡式英语的核心语用与句法语义机制
-> - **多元语码交织** 与欧美移民家庭中简单的单一母语加英语语码转换不同，新加坡日常语用是多语库的复合调用：融合了马来语助词、闽南语日常词汇（如 *kiasu* 怕输、*chope* 占位、*makan* 吃饭）以及粤语句式。
+> - **多元语码交织** 与欧美移民家庭中简单的单一母语加英语[[Code-Switching|语码转换]]不同，新加坡日常语用是多语库的复合调用：融合了马来语助词、闽南语日常词汇（如 *kiasu* 怕输、*chope* 占位、*makan* 吃饭）以及粤语句式。
 > - **话题优先句法（Topic-Prominent Syntax）** 受汉语底层语序投射，普遍呈现省略主语和连接词的特征（例如用“This movie I watch already”替代标准英语的“I have already seen this movie”）。
 > - **细密的情感微调语气词系统** 句末嵌入源于汉语方言的语气助词（如 *lah* 强调确信或缓和语气、*leh* 表达疑问或试探、*lor* 表达无奈认同、*meh* 表达反诘），构成只有本土社群才能领会的精密人际关系调节器。
 
@@ -312,10 +318,10 @@ issuing_organization: ""
 >
 > *There can be only one kind of English, the standard kind, and that all others should be eliminated.* (Crystal, 2003, p. 175)
 
-> [!sub-claim] 2. 单一标准语霸权与双层语言现实的冲突
+> [!sub-claim] 2. [[Standard Language Ideology|标准语意识形态]]与双层语言现实的冲突
 
 > [!tension] 官方标准语单一纯洁主义 vs 民间双层语言实践
-> - **官方标准语纯洁主义立场** 坚持世界上只有单一标准英语具备合法性，视新加坡式英语为劣质变体与国际经贸阻碍，主张依托行政干预与教育规制予以全面消除（Crystal, 2003；Sinagatullin, 2006；Wagner, 2008）。
+> - **官方标准语纯洁主义立场** 秉持主导性的[[Standard Language Ideology|标准语意识形态]]，坚持世界上只有单一标准英语具备合法性，视新加坡式英语为劣质变体与国际经贸阻碍，主张依托行政干预与教育规制予以全面消除（Crystal, 2003；Sinagatullin, 2006；Wagner, 2008）。
 > - **民间双层语言转换实践** 年轻一代在正式职场与非正式社交之间展现出成熟的双层语言（Diglossia）自适应切换能力，将新加坡式英语视为本土归属感、亲和力与社群凝聚力的不可替代载体。
 >
 > **核心张力** 官方行政强力规制与民间文化认同自发演进之间的结构性脱节，使得消除混合变体的努力收效甚微，反而加剧了政策规划与民众文化心理的隔阂。

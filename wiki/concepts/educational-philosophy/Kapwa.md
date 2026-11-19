@@ -8,10 +8,10 @@ aliases:
 summary: "源自菲律宾本土心理学与原住民传统的互依关系哲学，核心指涉将他人视为与自我休戚与共的“共享内在自我”；在教育与区域治理中，主张通过扁平化、开放协商与共识构建对话化解新殖民等级制与内化自卑，确立包容互惠的社群合作伦理"
 type: concept
 domain: "educational-philosophy"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 concept_field: "educational-philosophy"
 tags:
   - concept/educational-philosophy
@@ -29,6 +29,8 @@ related_concepts:
   - "[[Ubuntu]]"
   - "[[Sejahtera]]"
   - "[[Knowledge Production]]"
+  - "[[Papuan Social Ecology]]"
+  - "[[Alienation]]"
   - "[[Dialogue in Education]]"
   - "[[Operationalization]]"
   - "[[ASEAN Way]]"
@@ -69,6 +71,7 @@ updated: 2026-11-19
 > [!boundary]- 概念边界
 > - 不等于 [[Ubuntu]] 非洲 Ubuntu 哲学以班图社会亲族互惠与公共道德秩序为核心组织架构；Kapwa 在菲律宾语境中更加侧重人际相遇时的内在感知共鸣与打破新殖民心理依附。
 > - 不等于 [[Sejahtera]] 马来群岛 Sejahtera 聚焦身心健康、生态共生与在地[[Knowledge Production|知识生产]]的整体福祉；Kapwa 更加聚焦人际交往平权、接纳异质差异与共识协商对话。
+> - 不等于 [[Papuan Social Ecology]] 巴布亚社会生态学侧重人对自然环境的本体依附与生态系统内部各单元的差[[Alienation|异化]]功能互补；Kapwa 更加侧重人际相遇中的共享内在自我与扁平化共识构建。
 
 ---
 

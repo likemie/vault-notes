@@ -11,9 +11,9 @@ subtype: program
 region: "singapore"
 fact_region: "singapore"
 fact_kind: "program"
-fact_related_count: 20
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 49
+fact_related_level: 4
+fact_related_stars: "💎⭐"
 fact_related_color: "#ede9fe"
 period: "2008–2011"
 initiator_organization: "Centre for Research in Pedagogy and Practice"
@@ -24,30 +24,59 @@ tags:
   - theme/high-stakes-testing
   - theme/pedagogical-hybridity
 related_concepts:
-  - "[[Pedagogical Hybridity]]"
+  - "[[Quality Education]]"
+  - "[[Variable]]"
+  - "[[Paradigm]]"
   - "[[Direct Instruction]]"
-  - "[[Teaching for Understanding]]"
+  - "[[Pedagogical Hybridity]]"
   - "[[Co-regulated Learning]]"
+  - "[[Student Motivation]]"
   - "[[Teacher Beliefs]]"
+  - "[[Congressional Earmarks]]"
+  - "[[Reliability]]"
+  - "[[Construct]]"
+  - "[[Causality]]"
+  - "[[Learning Gain]]"
+  - "[[Hawthorne Effect]]"
+  - "[[Independent Variable]]"
+  - "[[Dependent Variable]]"
+  - "[[Common Method Variance]]"
+  - "[[Teaching for Understanding]]"
+  - "[[Metacognition]]"
   - "[[High-Stakes Testing]]"
+  - "[[Discourse]]"
+  - "[[Academic Achievement]]"
 related_theories:
   - "[[Discursive Institutionalism]]"
   - "[[Institutional Isomorphism]]"
 related_methods:
-  - "[[Confirmatory Factor Analysis]]"
+  - "[[Qualitative Research]]"
   - "[[Causal Modeling]]"
-  - "[[Stratified Sampling]]"
-  - "[[Classroom Observation]]"
+  - "[[Split-Half Reliability]]"
+  - "[[Questionnaire]]"
+  - "[[In-depth Interview]]"
+  - "[[Random Sampling]]"
   - "[[Item Parceling]]"
+  - "[[Classroom Observation]]"
+  - "[[Accounts]]"
+  - "[[Pilot Testing]]"
+  - "[[Composite Reliability]]"
+  - "[[Model Fit Indices in SEM and CFA]]"
+  - "[[Effect Size]]"
+  - "[[Value-Added Model]]"
+  - "[[Confirmatory Factor Analysis]]"
+  - "[[Stratified Sampling]]"
 related_instruments: []
 related_persons:
   - "[[David Hogan]]"
 related_facts:
-  - "[[Centre for Research in Pedagogy and Practice]]"
   - "[[National Institute of Education]]"
+  - "[[Centre for Research in Pedagogy and Practice]]"
+  - "[[Singapore Ministry of Education]]"
+  - "[[Teach Less, Learn More]]"
+  - "[[Ministry of Education of the People's Republic of China]]"
   - "[[Singapore-Cambridge GCE Ordinary Level]]"
   - "[[Primary School Leaving Examination]]"
-  - "[[Teach Less, Learn More]]"
 related_arguments:
   - "[[Argument_Hogan_2013_ROE]]"
 confidence: high
@@ -59,44 +88,44 @@ updated: 2026-11-19
 ---
 
 > [!claim] 项目定位
-> 核心教学研究计划二期（Core 2 Research Program）是新加坡南洋理工大学国立教育学院（National Institute of Education, NIE）教育研究中心（Centre for Research in Pedagogy and Practice, CRPP）于 2008 至 2011 年推进的三年期旗舰实证科研项目。项目由戴维·霍根（David Hogan）主持，获得新加坡教育部专项科研基金全额资助，旨在全面刻画全国公立中学课堂教学实践的真实生态，确证多元教学策略间的因果因应机制，评估“[[Teach Less, Learn More|少教多学]]”（TLLM）改革政策落地成效与高利害考试制度的反拨制约。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 60–62)]]
+> 核心教学研究计划二期（Core 2 Research Program）是新加坡南洋理工大学国立教育学院（[[National Institute of Education]], NIE）教育研究中心（[[Centre for Research in Pedagogy and Practice]], CRPP）于 2008 至 2011 年推进的三年期旗舰实证科研项目。项目由[[David Hogan|戴维·霍根]]（David Hogan）主持，获得[[Singapore Ministry of Education|新加坡教育部]]专项科研基金全额资助，旨在全面刻画全国公立中学课堂教学实践的真实生态，确证多元教学策略间的因果因应机制，评估“[[Teach Less, Learn More|少教多学]]”（TLLM）改革政策落地成效与高利害考试制度的反拨制约。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 60–62)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2008 年正式立项启动，2010 年完成全国大规模基准多源数据采集，2011 年完成结项与联合建模分析。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, p. 60)]]
-> - **发起方与资助机制** 由新加坡教育部（MOE）委托并全额资助，CRPP 专业科研团队独立主持设计与施测执行。
+> - **发起方与资助机制** 由新加坡教育部（[[Ministry of Education of the People's Republic of China|MOE]]）委托并全额资助，CRPP 专业科研团队独立主持设计与施测执行。
 > - **覆盖范围与对象** 抽取新加坡全国 32 所公立中学，涵盖约 120 间中学三年级（Secondary 3）学术班级（普通学术流与快捷流），调查逾 4000 名学生及 120 余名中三数学与英语专职任课教师。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 60–61)]]
-> - **核心问题导向** 应对宏观素质教育大纲（如过程写作法、探究性学习）与微观课堂应试灌输之间的脱节悬殊，突破以往质性研究样本局限，以大规模潜变量因果建模确证真实教学逻辑。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 58–60)]]
+> - **核心问题导向** 应对宏观[[Quality Education|素质教育]]大纲（如过程写作法、探究性学习）与微观课堂应试灌输之间的脱节悬殊，突破以往[[Qualitative Research|质性研究]]样本局限，以大规模潜[[Variable|变量]][[Causal Modeling|因果建模]]确证真实教学逻辑。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 58–60)]]
 
 ---
 
 > [!claim] 核心机制假说
-> 新加坡教师在微观课堂中并非机械执行某一种对立的教学范式，而是依据绩效最大化原则将传统讲授、显性直接教学与理解教学灵活编织为[[Pedagogical Hybridity|教学杂糅]]形态；这一实践组合受制于国家高利害统考体制的结构性塑造。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 58–60)]]
+> 新加坡教师在微观课堂中并非机械执行某一种对立的教学[[Paradigm|范式]]，而是依据绩效最大化原则将传统讲授、[[Direct Instruction|显性直接教学]]与理解教学灵活编织为[[Pedagogical Hybridity|教学杂糅]]形态；这一实践组合受制于国家高利害统考体制的结构性塑造。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 58–60)]]
 
 > [!policy-design] 方案设计
-> - **项目目标** 1. 建立具有全国代表性的中三核心学科（数学与英语）教学实践全景数据库；2. 检验传统教学、直接教学、理解教学与共同调节学习四类策略之间的潜变量结构因果路径；3. 评估高利害统一评估体制对教师教学决策与专业信念的制度性影响。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 60–62)]]
+> - **项目目标** 1. 建立具有全国代表性的中三核心学科（数学与英语）教学实践全景数据库；2. 检验传统教学、直接教学、理解教学与[[Co-regulated Learning|共同调节学习]]四类策略之间的潜变量结构因果路径；3. 评估高利害统一评估体制对教师教学决策与专业信念的制度性影响。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 60–62)]]
 > - **覆盖对象** 全国 32 所具有代表性的政府中学与政府资助中学三年级师生。
 > - **干预措施与工具** 
->   1. **分半多水平设计（Split-Half Multi-Level Design）** 每班 50% 学生作答 230 题教学实践知觉量表，另外 50% 作答家庭背景、学习动机与自我信念量表；
->   2. **教师主观信念与评估感知问卷** 测查教师在教学创新与统考问责之间的价值权衡；
->   3. **微观课堂视频录像与深度访谈** 采集教师在教学实施中的质性反思与应对机制。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 60–62)]]
-> - **实施控制** 采用严格的[[Stratified Sampling|分层随机抽样]]，平衡学校办学水平与源流分布；运用[[Item Parceling|题项打包]]技术控制测量误差，确保测量模型获得优异拟合。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 62–63)]]
+>   1. **分半多水平设计（[[Split-Half Reliability|Split-Half]] Multi-Level Design）** 每班 50% 学生作答 230 题教学实践知觉量表，另外 50% 作答家庭背景、[[Student Motivation|学习动机]]与自我信念量表；
+>   2. **教师主观信念与评估感知[[Questionnaire|问卷]]** 测查教师在教学创新与统考问责之间的价值权衡；
+>   3. **微观课堂视频录像与[[In-depth Interview|深度访谈]]** 采集教师在教学实施中的质性反思与应对机制。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 60–62)]]
+> - **实施控制** 采用严格的分层[[Random Sampling|随机抽样]]，平衡学校办学水平与源流分布；运用[[Item Parceling|题项打包]]技术控制测量误差，确保测量模型获得优异拟合。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 62–63)]]
 
 > [!citation-card] 核心方案立项纲要
-> Core 2 研究项目致力于提供关于新加坡课堂教学实践的首个大规模、多水平与多维度的严谨经验全貌。通过整合结构方程建模、课堂观察与教师信念测查，项目旨在揭示支撑新加坡高绩效教育体制微观运作的深层教学逻辑及其制度根源。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 60–62)]]
+> Core 2 研究项目致力于提供关于新加坡课堂教学实践的首个大规模、多水平与多维度的严谨经验全貌。通过整合结构方程建模、[[Classroom Observation|课堂观察]]与[[Teacher Beliefs|教师信念]]测查，项目旨在揭示支撑新加坡高绩效教育体制微观运作的深层教学逻辑及其制度根源。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 60–62)]]
 >
-> *The Core 2 Research Program was designed to provide an extensive, multi-level, empirical account of classroom pedagogy in Singapore secondary schools... to model the underlying logic of instructional practice and examine how national assessment policies shape teachers' instructional decisions.*
+> *The Core 2 Research Program was designed to provide an extensive, multi-level, empirical [[Accounts|account]] of classroom pedagogy in Singapore secondary schools... to model the underlying logic of instructional practice and examine how national assessment policies shape teachers' instructional decisions.*
 
 ---
 
 > [!dev-timeline] 项目推进历程
-> - **2008–2009 — 工具研发与先导测试** 建立 230 题教学实践量表与教师专业信念量表，在部分公立中学开展预测试并检验信效度。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 60–62)]]
+> - **2008–2009 — 工具研发与先导测试** 建立 230 题教学实践量表与教师专业信念量表，在部分公立中学开展[[Pilot Testing|预测试]]并检验信效度。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 60–62)]]
 > - **2010 — 全国大规模实地数据采集** 深入 32 所中学 120 间中三数学与英语课堂，完成 4000 余名学生分半问卷填答、120 名教师访谈与视频录像采集。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 60–62)]]
 > - **2011–2013 — 全模型分析与政策转化** 运用全潜变量结构方程全模型（SEM）发布系列实证论文，直接为教育部后续中学课程大纲修订与全面科目编班改革提供决策证据支持。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 57, 101–103)]]
 
 ---
 
 > [!actor-grid] 实施协同矩阵
-> - **资助与监督方** 新加坡教育部（MOE），提供科研专项拨款与学校准入行政协调。
+> - **资助与监督方** 新加坡教育部（MOE），提供[[Congressional Earmarks|科研专项拨款]]与学校准入行政协调。
 > - **研发与数据中心** 新加坡国立教育学院教育研究中心（CRPP），负责整体抽样、问卷研发、考务实测、测量模型构建与因果建模。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 60–62)]]
 > - **一线执行机构** 32 所样本中学的校长室与教研组，协助安排班级分半问卷填答与现场课堂录像。
 > - **受试对象** 4000 余名中三学生及 120 余名专职学科教师。
@@ -109,8 +138,8 @@ updated: 2026-11-19
 
 > [!indicators] 评估指标体系
 > - **投入与抽样指标** 样本学校覆盖率、班级代表性、问卷有效回收率（超过 95%）。
-> - **测量模型质量指标** 潜变量构念信度（Composite Reliability, .79–.90）、比较拟合指数（CFI $\ge .98$）、RMSEA（$\le .03$）。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 62–64)]]
-> - **实证产出指标** 显性直接教学、理解教学与传统教学各维度的标准化路径系数与间接驱动效应量。
+> - **测量模型质量指标** 潜变量[[Composite Reliability|构念信度]]（Composite [[Reliability]], .79–.90）、比较拟合指数（[[Model Fit Indices in SEM and CFA|CFI]] $\ge .98$）、RMSEA（$\le .03$）。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 62–64)]]
+> - **实证产出指标** 显性直接教学、理解教学与传统教学各维度的标准化路径系数与间接驱动[[Effect Size|效应量]]。
 
 > [!finding-cards] 核心实证结论
 > - **单向递归因果链条确证** SEM 全模型证实，教学策略遵循传统教学 $\rightarrow$ 直接教学 $\rightarrow$ 理解教学 $\rightarrow$ 共同调节学习的单向递进链条，传统讲授与直接教学为高阶理解提供了基础结构支撑。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 88–94)]]
@@ -120,18 +149,18 @@ updated: 2026-11-19
 > [!stat-cards]- 关键实证数据
 > - **32 所中学 / 120 间学术班级** 覆盖全国公立初中网络的代表性抽样规模。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, p. 61)]]
 > - **4000+** 中三受试学生样本总规模（数学 $N=1166$，英语 $N=1027$）。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, p. 61)]]
-> - **230 题** 教学实践知觉问卷包含的原始题项数量，测量 22 项核心教学构念。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, p. 62)]]
+> - **230 题** 教学实践知觉问卷包含的原始题项数量，测量 22 项核心教学[[Construct|构念]]。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, p. 62)]]
 > - **.986 / .989** 数学与英语学科 SEM 全模型比较拟合指数（CFI）。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, p. 94)]]
 
 ---
 
 > [!debates] 核心争议
 >
-> > [!axis] 横截面学生知觉自陈 vs 长期追踪增值因果推断
-> > 争论焦点在于仅凭单一时点的学生自陈问卷能否充分捕捉微观课堂中复杂的师生互动认知深度，以及是否应当结合跨学段增值评价（Value-Added Modeling）。
+> > [!axis] 横截面学生知觉自陈 vs 长期追踪增值[[Causality|因果推断]]
+> > 争论焦点在于仅凭单一时点的学生自陈问卷能否充分捕捉微观课堂中复杂的师生互动认知深度，以及是否应当结合跨学段[[Learning Gain|增值评价]]（[[Value-Added Model|Value-Added Modeling]]）。
 > >
-> > - **方法学审慎批评** 指出学生问卷可能受到霍桑效应或近期记忆偏误影响，且横截面模型无法彻底替代严格的准实验纵向因果追踪。
-> > - **项目团队辩护（[[Argument_Hogan_2013_ROE|Hogan et al., 2013]]）** 项目通过分半抽样（将背景自变量与教学实践因变量在班级内部随机隔离填答）有效控制了同源方差（Common Method Bias），并通过大样本 CFA 与严密拟合确证了学生知觉评价的高构念信度（pp. 61–63）。
+> > - **方法学审慎批评** 指出学生问卷可能受到[[Hawthorne Effect|霍桑效应]]或近期记忆偏误影响，且横截面模型无法彻底替代严格的准实验纵向因果追踪。
+> > - **项目团队辩护（[[Argument_Hogan_2013_ROE|Hogan et al., 2013]]）** 项目通过分半抽样（将背景[[Independent Variable|自变量]]与教学实践[[Dependent Variable|因变量]]在班级内部随机隔离填答）有效控制了同源方差（[[Common Method Variance|Common Method Bias]]），并通过大样本 [[Confirmatory Factor Analysis|CFA]] 与严密拟合确证了学生知觉评价的高构念信度（pp. 61–63）。
 
 > [!lessons] 经验教训与启示
 > - **教育改革不可脱离制度评估土壤** 任何试图推行以学生为中心或探究性理解的教学改革，若未对终结性高利害考试的命题形式与选拔机制做出同步调整，最终必然导致基层教师的理性回退。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 101–103)]]
@@ -146,15 +175,15 @@ updated: 2026-11-19
 > | [[Pedagogical Hybridity]] | 概念 | Core 2 项目在实证中最为关键的理论发现，揭示新加坡课堂多流派教学融合形态。 |
 > | [[Direct Instruction]] | 概念 | 项目全模型中承接基础传统教学并驱动高阶理解教学的中介核心构念。 |
 > | [[Teaching for Understanding]] | 概念 | 项目检验的高阶教学范式，实证发现其发生率受到高利害考试的时间挤压。 |
-> | [[Co-regulated Learning]] | 概念 | 项目因果链条终端构件，展现微观课堂中元认知与学生主体性发展的现状。 |
-> | [[Teacher Beliefs]] | 概念 | 项目通过教师问卷重点测查的高利害评估制度感知与专业理念冲突构念。 |
+> | [[Co-regulated Learning]] | 概念 | 项目因果链条终端构件，展现微观课堂中[[Metacognition\|元认知]]与学生主体性发展的现状。 |
+> | [[Teacher Beliefs]] | 概念 | 项目通过教师问卷重点测查的[[High-Stakes Testing\|高利害评估]]制度感知与专业理念冲突构念。 |
 > | [[High-Stakes Testing]] | 概念 | 项目聚焦的核心制度环境自变量，分析其对课堂教学行为的规锁效应。 |
-> | [[Discursive Institutionalism]] | 理论 | 解释项目所揭示的本土话语、国家统考问责与教师教学行为互动的理论支架。 |
+> | [[Discursive Institutionalism]] | 理论 | 解释项目所揭示的本土[[Discourse\|话语]]、国家统考问责与教师教学行为互动的理论支架。 |
 > | [[Institutional Isomorphism]] | 理论 | 解释样本学校在应对统考时为何表现出高度一致的应试讲授趋同现象。 |
 > | [[Centre for Research in Pedagogy and Practice]] | 机构 | 主持并具体实施 Core 2 核心教学研究计划的国立专业科研实体。 |
 > | [[National Institute of Education]] | 机构 | CRPP 的母体机构，新加坡唯一的国立职前与在职师资培养学府。 |
 > | [[Singapore-Cambridge GCE Ordinary Level]] | 政策 | Core 2 项目重点调研的中三师生所面临的最主要国家终结性高利害统考。 |
-> | [[Primary School Leaving Examination]] | 政策 | 学生的先备能力测量来源，在模型中充当决定中三学业表现的最强预测自变量。 |
+> | [[Primary School Leaving Examination]] | 政策 | 学生的先备能力测量来源，在模型中充当决定中三[[Academic Achievement\|学业表现]]的最强预测自变量。 |
 > | [[Teach Less, Learn More]] | 政策 | Core 2 项目立项时旨在评估其实施进展与微观课堂阻力的宏观国家课改。 |
 > | [[Confirmatory Factor Analysis]] | 方法 | 项目用于检验各教学构念单维测量模型与构念信度的核心统计方法。 |
 > | [[Causal Modeling]] | 方法 | 项目构建数学与英语学科四类教学策略单向递进因果链条的全模型分析技术。 |

@@ -1673,6 +1673,8 @@
     "Balu et al., 2015": "Balu et al., 2015",
     "Banal-Estañol et al. (2015)": "Banal-Estañol et al., 2015",
     "Banal-Estañol et al., 2015": "Banal-Estañol et al., 2015",
+    "Bandalos & Finney (2001)": "Bandalos & Finney, 2001",
+    "Bandalos & Finney, 2001": "Bandalos & Finney, 2001",
     "Bandman & Bandman (1988)": "Bandman & Bandman, 1988",
     "Bandman & Bandman, 1988": "Bandman & Bandman, 1988",
     "Bandola-Gill et al. (2022)": "Bandola-Gill et al., 2022",
@@ -32210,6 +32212,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
+        "wiki/concepts/educational-philosophy/Pluriverse.md",
         "wiki/concepts/political-economy-geopolitics/Epistemic Coloniality.md"
       ],
       "title": "Mignolo's epistemology of coloniality"
@@ -41031,6 +41034,21 @@
       ],
       "title": ""
     },
+    "Bandalos & Finney, 2001": {
+      "aliases": [
+        "Bandalos & Finney, 2001",
+        "Bandalos & Finney (2001)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bandalos & Finney, 2001"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": ""
+    },
     "Bandman & Bandman, 1988": {
       "aliases": [
         "Bandman & Bandman, 1988",
@@ -44095,7 +44113,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md",
+        "wiki/concepts/curriculum/Sacred and Profane Knowledge.md"
       ],
       "title": "The Sacred and the Profane in Recent Struggles to Promote Official Pedagogic Identities"
     },
@@ -54824,6 +54843,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md",
         "wiki/concepts/instruction-pedagogy/Folk Pedagogy.md"
       ],
       "title": ""
@@ -153772,7 +153792,8 @@
       ],
       "isbn": "9780822371090",
       "seen_in": [
-        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
+        "wiki/concepts/educational-philosophy/Pluriverse.md"
       ],
       "title": "On decoloniality: Concepts, analytics, praxis"
     },
@@ -156357,7 +156378,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
+        "wiki/concepts/educational-philosophy/Pluriverse.md"
       ],
       "title": "The intellectual biography of Syed Farid Alatas: Hegemonic orientations, epistemic decolonisation and the School of Autonomous Knowledge"
     },
@@ -174134,7 +174156,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
+        "wiki/concepts/educational-philosophy/Tri Hita Karana.md"
       ],
       "title": "Tri Hita Karana–the local wisdom of the Balinese in managing development"
     },
@@ -178157,7 +178180,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md"
+        "wiki/arguments/journal-articles/Nordic Journal of Comparative and International Education/Argument_Indrarajah_2026_NJCIE.md",
+        "wiki/concepts/educational-philosophy/Tri Hita Karana.md"
       ],
       "title": "The Khwan and its ceremonies"
     },

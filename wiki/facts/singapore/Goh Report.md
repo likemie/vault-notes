@@ -11,11 +11,11 @@ subtype: policy
 region: singapore
 fact_region: "singapore"
 fact_kind: "policy"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: Singapore Ministry of Education
+issuing_organization: "[[Singapore Ministry of Education]]"
 tags:
   - fact/policy
   - region/singapore
@@ -26,12 +26,12 @@ tags:
 related_concepts:
   - "[[School Inspection]]"
   - "[[Language Skills]]"
-  - "[[Bilingual Education Policy]]"
   - "[[Academic Attrition]]"
   - "[[Socioeconomic Status]]"
-  - "[[Curriculum Alignment]]"
-  - "[[Pedagogical Hybridity]]"
+  - "[[Ability-Driven Education]]"
+  - "[[Bilingual Education Policy]]"
 related_theories:
+  - "[[Path Dependence]]"
   - "[[Developmental State]]"
 related_methods: []
 related_instruments: []
@@ -39,6 +39,7 @@ related_persons:
   - "[[Goh Keng Swee]]"
   - "[[Lee Kuan Yew]]"
 related_facts:
+  - "[[Singapore Ministry of Education]]"
   - "[[Primary School Leaving Examination]]"
   - "[[Speak Mandarin Campaign]]"
   - "[[Curriculum Development Institute of Singapore]]"
@@ -50,13 +51,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 1979 年 2 月 10 日，由新加坡副总理[[Goh Keng Swee|吴庆瑞]]领衔的特别研究小组向新加坡教育部正式提交并发布。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
+> - **发布时间 / 发布主体** 1979 年 2 月 10 日，由新加坡副总理[[Goh Keng Swee|吴庆瑞]]领衔的特别研究小组向[[Singapore Ministry of Education|新加坡教育部]]正式提交并发布。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
 > - **适用地区 / 对象** 新加坡全国中小学教育体系、全体教师、在校学生及其家庭。
 > - **问题背景** 独立初期的新加坡由多元移民群体组成，多达 12 种汉语方言与英语、马来语、泰米尔语并存；调查发现 85% 的儿童在家中使用方言，导致学校双语教学流失率高达 20% 以上，社群隔阂严重。
 > - **制度位置** 标志着新加坡由生存驱动型教育正式转向“效率驱动型教育（Efficiency-Driven Education, 1979–1996）”阶段，确立了以[[Primary School Leaving Examination|小学离校考试]]（PSLE）和特选、快捷、普通三轨分流为核心的制度架构。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 454–455)]]
@@ -108,7 +109,7 @@ updated: 2026-11-18
 > [!finding-cards] 效果与评价
 > - **因材施教分流显著降低失败率** 根据学生语言认知节奏实行梯级分流，大幅改善了原先统一进度下的严重挫败与流失现象。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 454–455)]]
 > - **奠定双语文化认同防御屏障** 阻断了全盘西化造成的文化虚浮危机，在多元族群中牢固确立了东方共同核心价值观。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
-> - **边界条件与制度锁定效应** 政策效果依托于集权式发展型国家的强执行力；但能力早期定型与阶层再生产效应也固化了应试避险文化。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 57–58)]]
+> - **边界条件与制度[[Path Dependence|锁定效应]]** 政策效果依托于集权式[[Developmental State|发展型国家]]的强执行力；但能力早期定型与阶层再生产效应也固化了应试避险文化。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 57–58)]]
 
 > [!stat-cards]- 核心数据
 > - **1979** 《吴庆瑞报告》正式发布并确立效率驱动型教育制度的年份。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 454)]]
@@ -138,7 +139,7 @@ updated: 2026-11-18
 > | [[Goh Keng Swee]] | Person | 报告的主持者与首席起草人。 |
 > | [[Lee Kuan Yew]] | Person | 委托吴庆瑞进行教育审计并强力推行改革的建国总理。 |
 > | [[Speak Mandarin Campaign]] | Fact (Policy) | 依据报告调研结果直接启动的全国性语言整合运动。 |
-> | [[Thinking Schools, Learning Nation]] | Fact (Policy) | 承接效率驱动阶段后，于1997年引领新加坡转向能力驱动型教育的后续宏观政策愿景。 |
+> | [[Thinking Schools, Learning Nation]] | Fact (Policy) | 承接效率驱动阶段后，于1997年引领新加坡转向[[Ability-Driven Education\|能力驱动型教育]]的后续宏观政策愿景。 |
 > | [[Curriculum Development Institute of Singapore]] | Fact (Organization) | 依据报告建议设立的统编中英文教材与教学指引研发专责机构。 |
 > | [[Primary School Leaving Examination]] | Fact (Event) | 落实报告分流设计与中学源流配置的全国统考工具。 |
 > | [[Bilingual Education Policy]] | Concept | 报告进一步制度化推进的双语教育核心政策架构。 |

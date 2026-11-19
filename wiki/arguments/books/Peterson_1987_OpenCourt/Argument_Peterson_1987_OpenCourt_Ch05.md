@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch05"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch05"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch05"
 argument_kind: "book-chapter"
-argument_related_count: 34
+argument_related_count: 38
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -63,15 +63,19 @@ related_facts:
   - "[[Education Resources Information Center]]"
   - "[[Transformation of Singapore International School into United World College of South East Asia]]"
   - "[[National Education]]"
+  - "[[Singapore Ministry of Education]]"
+  - "[[Integrated Programme]]"
   - "[[Waterford Kamhlaba Admission to United World Colleges]]"
+  - "[[Singapore-Cambridge GCE Ordinary Level]]"
   - "[[United World Colleges Associated Schools Policy 1977]]"
+  - "[[Independent Schools Initiative]]"
 sources:
   - "[[books/Peterson_1987_OpenCourt/Peterson_1987_OpenCourt|Peterson_1987_OpenCourt]]"
 related_methods:
   - "[[Fieldwork]]"
 status: draft
 created: 2026-08-24
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 ---
 
@@ -424,7 +428,7 @@ updated: 2026-11-14
 > [!stat-cards]- 樟宜复制方案的数量约束
 > - **£83K / £275K** 霍尔估计开办前所需的改建费用（英镑）与最终改建可能达到的费用（英镑）。
 > - **≈ 300 / ≈ 200** 樟宜设施规划的学生和教职员规模（人），与加拿大和意大利后来采用的较小目标规模（人）。
-> - **10** 新加坡教育部长原则上只愿为其作私校政策例外的本国奖学金生数量（名）。
+> - **10** [[Singapore Ministry of Education|新加坡教育部]]长原则上只愿为其作私校政策例外的本国奖学金生数量（名）。
 
 > [!factors] 樟宜方案面临的两项约束
 > - **住宿压力** 其余学生几乎都须寄宿，单位成本明显高于区域内地方学校。
@@ -540,7 +544,7 @@ updated: 2026-11-14
 > 马修斯没有沿用教学楼和宿舍分离的传统校园，而把本地红杉建成的低层建筑组织为森林村落。不同国家学生在同一空间中生活、学习并服务地方社区，定期学生会议被称为村民大会，校长也以名字杰克与学生相处。空间布局试图降低正式等级，让共同生活成为课程的一部分。村落不是自然环境装饰，而是把住宿、自治、服务和[[Student-Teacher Relationship\|师生关系]]（student-teacher relationship）组合成教育制度（pp. 120–122）。
 
 > [!case] 强调完整课程并没有降低学术要求
-> 村落生活和社区服务没有取代大学预科要求。课堂教学时间可能少于传统学校，IB 成绩仍与其他书院相当。一名来自塞拉利昂的女生因 IB 要求学习数学而把课程形容为可怕的怪物，后来仍取得文凭。个别经历不能证明整体成效，却显示综合课程迫使学生跨越原有学科偏好，也说明加拿大项目需要以共同资格维持学术可信度（p. 120）。
+> 村落生活和社区服务没有取代大学预科要求。课堂教学时间可能少于传统学校，IB 成绩仍与其他书院相当。一名来自塞拉利昂的女生因 IB 要求学习数学而把课程形容为可怕的怪物，后来仍取得文凭。个别经历不能证明整体成效，却显示[[Integrated Programme|综合课程]]迫使学生跨越原有学科偏好，也说明加拿大项目需要以共同资格维持学术可信度（p. 120）。
 
 > [!citation-card] 百分之百奖学金目标
 > 书院不应成为富裕家庭子女的私立学校，目标是实现百分之百奖学金入学。实现这一目标极为困难，但困难不能取消其公共方向。（p. 121）
@@ -572,7 +576,7 @@ updated: 2026-11-14
 > |---|---|---|
 > | **创校目的** | 直接反对种族隔离，让不同种族学生共同学习并服务社区 | 并非由 UWC 国际机构、国家委员会或政府创办 |
 > | **学生共同体** | 1975 年学生性别和原书所用种族类别大体各半 | 覆盖多个年龄阶段，多数学生由家庭选择并缴费入学 |
-> | **课程资格** | 学术标准较高，具备转入国际课程的基础 | 原先采用剑桥海外普通程度考试（Cambridge Overseas Ordinary Level，O-level）和 A-level，不使用 IB |
+> | **课程资格** | 学术标准较高，具备转入国际课程的基础 | 原先采用剑桥海外普通程度考试（Cambridge Overseas Ordinary Level，[[Singapore-Cambridge GCE Ordinary Level\|O-level]]）和 A-level，不使用 IB |
 > | **地方关系** | 在斯威士兰实践南非境内不合法的多种族教育，并强调社区服务 | 地理位置孤立，国际同伴、课程支持和持续组织联系不足 |
 > | **网络贡献** | 能把非洲反种族隔离经验和社区服务带入 UWC | 需要国际办公室持续投入，不能只靠名称关联维持共同标准（pp. 122–125） |
 
@@ -914,7 +918,7 @@ updated: 2026-11-14
 > [!warning] 史料与解释边界
 > - **核心参与者视角** 蒙巴顿、国际办公室、加拿大和意大利筹备过程主要通过彼得森本人、同事回忆和内部信件呈现，能够重建决策逻辑，不能替代各国政府、家长与学生的独立记录。
 > - **成效证据有限** 章节说明学校数量、招生构成、奖学金安排和组织变化，没有系统比较各校学生的态度、学业、社会背景或长期和平影响。
-> - **概念来源** 强弱两种[[United World Colleges\|UWC]] 构想来自彼得森对国家支持书院和独立学校网络的区分，现有材料没有显示运动正式采纳了这一分类（pp. 108–109）。
+> - **概念来源** 强弱两种[[United World Colleges\|UWC]] 构想来自彼得森对国家支持书院和[[Independent Schools Initiative|独立学校]]网络的区分，现有材料没有显示运动正式采纳了这一分类（pp. 108–109）。
 > - **财务数据不可合并审计** 资本筹资、专项捐款、慈善活动收入、改建估算、政府预算和奖学金名额来自不同年份并使用多种币种；原书没有统一汇率、逐年现金流或各校完整决算（pp. 101, 109, 112, 119, 121, 126–128）。
 > - **时间边界延伸** 章节名以蒙巴顿扩展时期为中心，却追踪沃特福德到 1982 年、亚得里亚海书院到 1984 年，以呈现他参与启动但未及看到的制度结果（pp. 125–129）。
 > - **死亡叙述带有评价** 1979 年暗杀评论及菲利普·齐格勒（Philip Ziegler）传记引文包含明显价值判断，不能作为 UWC 教育成效的证据（p. 130）。

@@ -11,11 +11,11 @@ subtype: policy
 region: singapore
 fact_region: "singapore"
 fact_kind: "policy"
-fact_related_count: 41
+fact_related_count: 42
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: Singapore Ministry of Education
+issuing_organization: "[[Singapore Ministry of Education]]"
 tags:
   - fact/policy
   - region/singapore
@@ -65,6 +65,7 @@ related_facts:
   - "[[National Institute of Education]]"
   - "[[TIMSS]]"
   - "[[PISA]]"
+  - "[[Singapore Ministry of Education]]"
   - "[[OECD]]"
   - "[[Primary School Leaving Examination]]"
 related_arguments:
@@ -138,7 +139,7 @@ updated: 2026-11-19
 > - **1997** 吴作栋总理宣告 TSLN 愿景并启动能力驱动型教育改革的年份。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 456)]]
 > - **$2,000,000,000 SGD** 第一阶段教育信息与通信技术总蓝图（ICT Masterplan 1）专款预算总额。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, p. 61)]]
 > - **10%–20%** 1998 年官方统筹削减的各学科教学大纲核心知识内容比例。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 457)]]
-> - **100** （小时）新加坡教育部制度化保障每位教师每年享有的带薪在职专业研修时间基准。
+> - **100** （小时）[[Singapore Ministry of Education|新加坡教育部]]制度化保障每位教师每年享有的带薪在职专业研修时间基准。
 
 ---
 

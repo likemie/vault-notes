@@ -2783,6 +2783,15 @@
         "Caltech Silicon Structures Project"
       ]
     },
+    "Singapore Ministry of Education": {
+      "path": "wiki/facts/singapore/Singapore Ministry of Education.md",
+      "names": [
+        "Singapore Ministry of Education",
+        "新加坡教育部",
+        "Ministry of Education Singapore",
+        "MOE Singapore"
+      ]
+    },
     "Singapore Workforce Development Agency": {
       "path": "wiki/facts/singapore/Singapore Workforce Development Agency.md",
       "names": [
@@ -3304,25 +3313,6 @@
     }
   },
   "unresolved": {
-    "Singapore Ministry of Education": {
-      "seen_in": [
-        "wiki/facts/singapore/Desired Outcomes of Education.md",
-        "wiki/facts/singapore/Direct School Admission.md",
-        "wiki/facts/singapore/First Masterplan for ICT in Education.md",
-        "wiki/facts/singapore/Goh Report.md",
-        "wiki/facts/singapore/Independent Schools Initiative.md",
-        "wiki/facts/singapore/Integrated Programme.md",
-        "wiki/facts/singapore/Junior College and Upper Secondary Education Review Committee.md",
-        "wiki/facts/singapore/Primary Education Review and Implementation.md",
-        "wiki/facts/singapore/School Cluster System.md",
-        "wiki/facts/singapore/School Excellence Model.md",
-        "wiki/facts/singapore/Singapore National Education.md",
-        "wiki/facts/singapore/Singapore University Corporatisation.md",
-        "wiki/facts/singapore/Specialised Independent Schools.md",
-        "wiki/facts/singapore/Teach Less, Learn More.md",
-        "wiki/facts/singapore/Thinking Schools, Learning Nation.md"
-      ]
-    },
     "芬兰议会": {
       "seen_in": [
         "wiki/facts/finland/1979 Finnish Teacher Education Reform.md",

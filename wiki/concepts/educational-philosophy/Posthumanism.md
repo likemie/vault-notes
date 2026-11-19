@@ -5,7 +5,7 @@ aliases:
 summary: "将人类从世界中心位置移开并强调人与非人共同生成、相互依存和关系责任的思想取向，是现代人类中心主义的重要批判方向"
 type: concept
 domain: "educational-philosophy"
-related_count: 16
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,12 +21,14 @@ related_concepts:
   - "[[Sympoiesis]]"
   - "[[Response-ability]]"
   - "[[Haraway's SF]]"
+  - "[[Pluriverse]]"
   - "[[Mondialisation]]"
   - "[[Ubuntu]]"
   - "[[Buen Vivir]]"
   - "[[Ontology]]"
   - "[[Humility]]"
   - "[[Emergence]]"
+  - "[[Mimesis]]"
 related_theories:
   - "[[Transition Design]]"
   - "[[Autopoiesis]]"
@@ -40,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-10-22
+updated: 2026-11-19
 ---
 
 > [!info] 定义
@@ -60,7 +62,7 @@ updated: 2026-10-22
 > Amos 追溯了两条后人类主义的当代思想脉络([[Argument_Amos_2022_Springer\|Amos, 2022, pp.60–63]])：
 >
 > - **Haraway 脉络（2016）** 以 *Staying with the Trouble* 为代表，核心概念为 [[Sympoiesis]]（共同制造）、[[Response-ability]]（[[Response-ability\|回应能力]]）、SF（线绳图案／[[Haraway's SF\|推测性编造]]／科幻／迄今）。立场是"后救赎、后乐观"——彻底关注当下，"可能没有未来，但一定有一个丰富的此时此地"
-> - **Escobar 脉络（2018）** 以 *Designs for the Pluriverse* 为代表，核心概念为 pluriverse（多元世界）和 [[Transition Design]]（[[Transition Design\|转型设计]]）。语气比 Haraway 更充满希望——相信通过结社和连接，地方方案可以在更大尺度上起作用
+> - **Escobar 脉络（2018）** 以 *Designs for the [[Pluriverse]]* 为代表，核心概念为 pluriverse（多元世界）和 [[Transition Design]]（[[Transition Design\|转型设计]]）。语气比 Haraway 更充满希望——相信通过结社和连接，地方方案可以在更大尺度上起作用
 > - **Weil/Supiot 脉络（2019）** Simone Weil 的 [[Mondialisation]]（世界化），恢复"全球化"一词在 Decroly (1929) 那里的原初含义——作为一种把握整体现实的认知功能，而非市场、劳动力灵活化和文化同质化的同义词
 >
 > Amos 指出这三条脉络共享对全球化的怀疑、对后增长的追求、以及对人类中心主义的根本批判。它们与非洲 [[Ubuntu]]（"我存在，因为我们存在"）和拉丁美洲 [[Buen Vivir]]（与自然和共同体和谐共处的"好好生活"）具有"家族相似性"([[Argument_Amos_2022_Springer\|Amos, 2022, p.64]])。
@@ -83,7 +85,7 @@ updated: 2026-10-22
 > [!warning] 争议与批评
 > - **教育的缺失** Haraway and Escobar 都没有将教育作为论述重点。Amos 给出两个解释：(1) 大众教育——无论国家中心还是市场中心——的 DNA（竞争、增长、rugged individualism）本身就是问题的一部分；(2) 他们似乎将社会化和教育视为社区转型的自动结果([[Argument_Amos_2022_Springer\|Amos, 2022, p.63]])
 > - **大众教育的不可替代性** Amos 同时也指出，公共教育是现代性的重大成就——它创造了一个公共领域，在其中教什么、怎么教是公开可见、可批评、可修订的。如果教育完全变成社区内部的事务，"教育公平"的讨论也将随之消失([[Argument_Amos_2022_Springer\|Amos, 2022, pp.63–64]])
-> - **学术性与可行性的鸿沟** 后人类主义的愿景（小而美的共同体、学习即模仿和古代学园模式）与当今大众高等教育系统的规模和政治生态之间存在巨大的操作鸿沟。Amos 的回应是呼吁一种"新教育理论"，但未给出具体轮廓([[Argument_Amos_2022_Springer\|Amos, 2022, p.64]])
+> - **学术性与可行性的鸿沟** 后人类主义的愿景（小而美的共同体、学习即[[Mimesis|模仿]]和古代学园模式）与当今大众高等教育系统的规模和政治生态之间存在巨大的操作鸿沟。Amos 的回应是呼吁一种"新教育理论"，但未给出具体轮廓([[Argument_Amos_2022_Springer\|Amos, 2022, p.64]])
 >
 
 > [!example] 相关案例／政策

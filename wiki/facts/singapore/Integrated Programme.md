@@ -12,11 +12,11 @@ subtype: policy
 region: singapore
 fact_region: "singapore"
 fact_kind: "policy"
-fact_related_count: 29
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 32
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
-issuing_organization: "Singapore Ministry of Education"
+issuing_organization: "[[Singapore Ministry of Education]]"
 tags:
   - fact/policy
   - region/singapore
@@ -47,12 +47,15 @@ related_instruments: []
 related_persons:
   - "[[Thomas Stamford Raffles]]"
 related_facts:
+  - "[[Singapore Ministry of Education]]"
   - "[[Ministry of Education of the People's Republic of China]]"
   - "[[Primary School Leaving Examination]]"
   - "[[Global Campaign for Education]]"
+  - "[[Singapore-Cambridge GCE Ordinary Level]]"
   - "[[Thinking Schools, Learning Nation]]"
   - "[[Direct School Admission]]"
   - "[[Independent Schools Initiative]]"
+  - "[[Junior College and Upper Secondary Education Review Committee]]"
   - "[[Teach Less, Learn More]]"
   - "[[School Excellence Model]]"
 related_arguments:
@@ -68,9 +71,9 @@ updated: 2026-11-19
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2002 年 11 月由初级学院及高中教育审查委员会（Junior College/Upper Secondary Education Review Committee）正式提议，新加坡教育部（Ministry of Education, [[Ministry of Education of the People's Republic of China|MOE]]）于 2004 年正式施行。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 62–63)]]; [[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 457)]]
+> - **发布时间 / 发布主体** 2002 年 11 月由初级学院及高中教育审查委员会（Junior College/Upper Secondary Education Review Committee）正式提议，[[Singapore Ministry of Education|新加坡教育部]]（Ministry of Education, [[Ministry of Education of the People's Republic of China|MOE]]）于 2004 年正式施行。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 62–63)]]; [[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 457)]]
 > - **适用地区 / 对象** 覆盖新加坡全岛经教育部特许的顶尖独立中学、自主中学与初级学院，主要面向[[Primary School Leaving Examination|小六离校考试]]（PSLE）排名前 10% 的高学术资质学生。
-> - **问题背景** 长期以来中学生需花费初三与初四大量时间集中备战剑桥普通水准（[[Global Campaign for Education|GCE]] O-Level）统考，教学聚焦考点记忆与套路化演练，导致进入初级学院后缺乏深层探究素养，难以适应[[Knowledge-Based Economy|知识经济]]对拔尖创新人才的需求。
+> - **问题背景** 长期以来中学生需花费初三与初四大量时间集中备战剑桥普通水准（[[Global Campaign for Education|GCE]] [[Singapore-Cambridge GCE Ordinary Level|O-Level]]）统考，教学聚焦考点记忆与套路化演练，导致进入初级学院后缺乏深层探究素养，难以适应[[Knowledge-Based Economy|知识经济]]对拔尖创新人才的需求。
 > - **制度位置** 隶属于“[[Thinking Schools, Learning Nation|思考型学校，学习型国家]]”（TSLN）顶层愿景下打破学制统一步调、推行多元化办学的关键学制重组举措，与[[Direct School Admission|直接招生计划]]（Direct School Admission, DSA）协同构成拔尖创新人才通道。
 
 ---
@@ -92,7 +95,7 @@ updated: 2026-11-19
 ---
 
 > [!timeline] 政策时间线
-> - 2002 初级学院与高中教育审查委员会发布报告，正式提议开办六年一贯制综合课程。
+> - 2002 [[Junior College and Upper Secondary Education Review Committee|初级学院与高中教育审查委员会]]发布报告，正式提议开办六年一贯制综合课程。
 > - 2004 首批四所名校（莱佛士书院与莱佛士女中联合莱佛士初级学院、华侨中学与南洋女中联合华中初级学院、英华自主中学、国家初级学院）正式推出 IP 课程。
 > - 2005 配合 IP 课程推行直接招生计划（Direct School Admission, DSA），允许学校提前锁定专长生源。
 > - 2012 课程范围进一步扩充，更多公立名校（如公教中学、圣尼各拉女校、新加坡女子学校联合美华初级学院）获批加入直通车办学行列。

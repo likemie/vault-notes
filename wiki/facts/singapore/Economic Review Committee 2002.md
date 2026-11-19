@@ -12,7 +12,7 @@ subtype: policy
 region: singapore
 fact_region: "singapore"
 fact_kind: "policy"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -45,6 +45,7 @@ related_facts:
   - "[[Remaking Singapore Committee]]"
   - "[[Ministry of Education of the People's Republic of China]]"
   - "[[Singapore Education Hub Policy]]"
+  - "[[Singapore Ministry of Education]]"
   - "[[Singapore University Corporatisation]]"
   - "[[Engineering Research Centers]]"
 related_arguments:
@@ -92,7 +93,7 @@ updated: 2026-11-19
 
 > [!actor-grid] 实施角色分工
 > - **牵头统筹** 经济检讨委员会全体执委会（由内阁政要、商界领袖与工会代表组成）。
-> - **教育对接** 新加坡教育部与经济发展局（EDB），负责执行教育服务业开放与大学治理改制方案。
+> - **教育对接** [[Singapore Ministry of Education|新加坡教育部]]与经济发展局（EDB），负责执行教育服务业开放与大学治理改制方案。
 > - **产业协同** 跨国高科技企业与海外名校驻新分支机构，共建产学研联合体。
 > - **政策工具** 国际留学生签证便利化政策、大学研发配比拨款、私立教育法定规约及土地税收优惠。
 
