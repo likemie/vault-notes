@@ -11,7 +11,7 @@ summary: "利用初始接触人的社会网络逐层扩展样本的非概率抽�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 41
+method_related_count: 42
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -70,7 +70,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-06-22
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---

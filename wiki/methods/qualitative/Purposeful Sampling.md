@@ -9,7 +9,7 @@ summary: "质性研究中依据研究问题与理论意图系统选取具有丰�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 45
+method_related_count: 46
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-01
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
