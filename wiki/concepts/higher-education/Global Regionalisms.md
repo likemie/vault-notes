@@ -145,7 +145,7 @@ updated: 2026-11-19
 > **区域建构的[[Epistemology|认识论]]转向** 探讨高等教育研究如何突破早期将区域视为既定地理容器的技术局限，确立教育政策在想象、界定与重塑世界区域空间秩序中的能动作用。
 
 > [!claim] Robertson et al. / Parreira do Amaral
-> **教育从被动反映空间到主动想象与生产世界区域** [[Susan L. Robertson|苏珊·罗伯逊]]（Susan L. Robertson）团队与[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|帕雷拉·杜阿马拉尔（Marcelo Parreira do Amaral, 2022）]]指出，早期研究多将区域主义视为给定的外在环境，仅考察超国家经济组织对教育政策的单向冲击。全球区域比较证实，教育是国家政府与跨国精英主动想象、划界并生产“世界区域（World Regions）”本身的关键制度载体。通过确立区域[[Student Mobility|学生流动]]项目、共同科研空间与区域质量基准，政策行动者在地理空间中塑造出共享的文[[Avatar|化身]]份与[[Geopolitics|地缘政治]]合法性，使高等教育成为区域政治项目得以具象化存在的核心力量。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|(Parreira do Amaral, 2022, pp. 41–42)]]
+> **教育从被动反映空间到主动想象与生产世界区域** [[Susan L. Robertson|苏珊·罗伯逊]]（Susan L. Robertson）团队与[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|帕雷拉·杜阿马拉尔（Marcelo Parreira do Amaral, 2022）]]指出，早期研究多将区域主义视为给定的外在环境，仅考察超国家经济组织对教育政策的单向冲击。全球区域比较证实，教育是国家政府与跨国精英主动想象、划界并生产“世界区域（World Regions）”本身的关键制度载体。通过确立区域[[Student Mobility|学生流动]]项目、共同科研空间与区域质量基准，政策行动者在地理空间中塑造出共享的文化身份与[[Geopolitics|地缘政治]]合法性，使高等教育成为区域政治项目得以具象化存在的核心力量。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|(Parreira do Amaral, 2022, pp. 41–42)]]
 
 ---
 

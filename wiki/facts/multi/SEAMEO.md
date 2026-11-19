@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-30
+updated: 2026-11-19
 ---
 
 ---
@@ -81,7 +81,7 @@ updated: 2026-10-30
 >
 >   协同东盟推进[[Southeast Asian Higher Education Common Space|东南亚高等教育共同空间]]，主导[[Student Mobility|跨国学生流动]]网络与跨大洲政策对话。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151–152)]]
 >
->   - **2009** 启动跨国学生流动试点，后续扩容升级为[[AIMS Programme|亚洲国际学生流动计划]]（[[AIMS Programme]]）。
+>   - **2009** 启动跨国学生流动试点，后续扩容升级为[[AIMS Programme|亚洲国际学生流动计划]]。
 >   - **2015** 与[[EU|欧盟]]等域外伙伴展开对话，推动区域间高等教育多边对接。
 
 ---
@@ -106,6 +106,23 @@ updated: 2026-10-30
 
 ---
 
+> [!indicators] 影响力维度与指标
+> - **成员国与联系国覆盖** 覆盖东南亚全部 11 个国家（东盟十国及东帝汶）教育行政主管部门，设立 8 个联系会员国与 5 个附属会员单位。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]
+> - **专业区域中心网络** 设立分布于各成员国的 26 个专业区域中心，涵盖基础教育、职业培训、高等教育到公共卫生等业务谱系。
+> - **流动与监测项目覆盖** 统筹推进[[AIMS Programme|亚洲国际学生流动计划]]与[[SEA-PLM|东南亚小学学业素养监测项目]]，构建覆盖区域各级教育的实证监测与学生交流网络。
+
+> [!finding-cards] 关键成效与辐射影响
+> - **筑牢去中心化的政府间专业合作纽带** 在东盟初创期教育合作机制尚不健全的背景下，长期维系了东南亚教育部委间的常态化政策协调与技术合作，奠定了区域教育互信。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 147, 151)]]
+> - **确立以部委为核心的高教宏观协调范式** 依托专业中心开展全域性政策测绘与多边试点，与大学自治结网形成良性互补，维系各成员国主权决策权威。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151–152)]]
+> - **协同推进东南亚高等教育共同空间** 携手东盟推进区域学分互认、质保框架对接与流动规程建设，并在面对欧洲趋同模式时坚守本土异质性与自愿协商传统。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 153–155)]]; [[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 6–7)]]
+
+> [!stat-cards]- 核心规模数据
+> - **11** （个） 东南亚正式成员国总数（东盟十国及东帝汶）。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]
+> - **1965** （年） 组织宪章在曼谷正式签署创立的年份，早于 1967 年东盟成立。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 147)]]
+> - **26** （个） 分布于东南亚各成员国的 SEAMEO 专业区域中心与网络总数。
+
+---
+
 > [!debates] 核心争议交锋
 >
 > > [!axis] 与东盟官方教育治理架构的职能重叠与竞合
@@ -124,6 +141,12 @@ updated: 2026-10-30
 > | [[AIMS Programme]] | Fact (Program) | SEAMEO RIHED 主导发起的亚洲国际学生流动旗舰计划。 |
 > | [[ASEAN]] | Fact (Organization) | 东南亚核心区域整合组织，与 SEAMEO 共同构成区域多边治理双轨。 |
 > | [[ASEAN University Network]] | Fact (Organization) | 东盟旗下的精英大学联盟网络，与 SEAMEO 的部委协调功能平级分立。 |
-> | [[Southeast Asian Higher Education Common Space]] | Fact (Program) | SEAMEO 协同东盟各方共同推进的弹性区域高等教育合作空间。 |
+> | [[Southeast Asian Higher Education Common Space]] | Fact (Policy) | SEAMEO 协同东盟各方共同推进的弹性区域高等教育合作空间。 |
 > | [[ASEAN Way]] | Concept | 指导 SEAMEO 内部多边协商与项目自愿参与的规范原则。 |
-> | [[Comparative Regionalism]] | Theory | [[Argument_Chou_2017_PolSoc\|Chou and Ravinet (2017)]] 用以分析 SEAMEO 治理模式的理论视角。 |
+> | [[Comparative Regionalism]] | Theory | [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] 用以分析 SEAMEO 治理模式的理论视角。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Indrarajah_2026_NJCIE|Indrarajah (2026)]] — 从认识论去殖民化视角检视 SEAMEO 与东盟双轨协调的高教共同空间建设，反思区域内部流动不平等并倡导本土哲学引领的包容性治理（pp. 6–7, 13–15）。
+> - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] — 比较欧洲与东南亚高等教育区域主义，阐述 SEAMEO 独立法理地位、历史演进及其在东南亚部委协调模式中的核心支柱作用（pp. 147, 151–154）。

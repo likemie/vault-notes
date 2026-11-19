@@ -11,7 +11,7 @@ aliases:
 summary: "将标准化考试成绩作为衡量个人能力与努力的客观标尺，并据此进行课程分流、高等教育选拔与社会经济地位分配的制度与意识形态安排，在为社会流动提供形式平等合法性的同时，深层加剧阶层优势再生产并固化应试教学体制"
 type: concept
 domain: "sociology-of-education"
-related_count: 27
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Student Engagement]]"
   - "[[Variable]]"
   - "[[Tracking]]"
-  - "[[Alienation]]"
   - "[[Hybrid Pedagogy]]"
   - "[[Curricular Form]]"
   - "[[Knowledge Production]]"
@@ -44,7 +43,6 @@ related_arguments:
 related_facts:
   - "[[Cram Schools]]"
   - "[[Primary School Leaving Examination]]"
-  - "[[Research in Schools Evaluation]]"
   - "[[Primary Education Review and Implementation]]"
 related_theories:
   - "[[Developmental State]]"
@@ -89,7 +87,7 @@ updated: 2026-11-19
 > [!feature] 核心要素
 > - **标准化客观量度** 以全国统一编制的纸笔测试成绩作为评估个人才能与[[Student Engagement|学习投入]]的硬性标准，排除种族、家庭背景等非学术先赋[[Variable|变量]]的直接干预。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 454)]]
 > - **文凭资格与社会经济回报的高效挂钩** 公共治理部门与劳动力市场将学术文凭作为岗位招募、晋升和薪酬定价的核心通衢，赋予考试优胜者直接的阶层向上流动通道。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 453)]]
-> - **早熟分流的合法性辩护** 将基于考试分数的早期[[Tracking|学力分轨]]表述为对个体天赋差异的客观顺应，为差[[Alienation|异化]]课程供给与资源分配建立程序正当性。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 455)]]
+> - **早熟分流的合法性辩护** 将基于考试分数的早期[[Tracking|学力分轨]]表述为对个体天赋差异的客观顺应，为差异化课程供给与资源分配建立程序正当性。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 455)]]
 > - **强韧的社会竞争共识与心理内化** 个人与家庭将应试成功归因于勤奋自律，将分流受挫归因于个人学力局限，促使公众积极参与校外补习等应试强化实践。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 459)]]
 
 > [!logic-map]- 要素关系
@@ -129,19 +127,19 @@ updated: 2026-11-19
 ---
 
 > [!contrast-table] 所有命题归纳
-| 命题类型 | 核心指向 | 适用情境 | 代表学者 |
-|---|---|---|---|
-| **合法性建构命题** | 客观测试程序化解族群矛盾并激发全民向上奋斗动机 | 建国初期的社会整合与[[Developmental State\|发展型国家]]治理 | [[Argument_Deng_2016_CE\|Deng and Gopinathan (2016)]] |
-| **结构异化命题** | 升学分流、校外补习与差异化课程形态加剧微观应试依附与阶层再生产 | 现代高度分层与高利害考试盛行的教育体系 | [[Argument_Deng_2016_CE\|Deng and Gopinathan (2016)]]; [[Argument_Lim_2013_APJE\|Lim (2013)]]; [[Argument_Lim_2015_CurricInq\|Lim and Apple (2015)]] |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **合法性建构命题** | 客观测试程序化解族群矛盾并激发全民向上奋斗动机 | 建国初期的社会整合与[[Developmental State\|发展型国家]]治理 | [[Argument_Deng_2016_CE\|Deng and Gopinathan (2016)]] |
+> | **结构异化命题** | 升学分流、校外补习与差异化课程形态加剧微观应试依附与阶层再生产 | 现代高度分层与高利害考试盛行的教育体系 | [[Argument_Deng_2016_CE\|Deng and Gopinathan (2016)]]; [[Argument_Lim_2013_APJE\|Lim (2013)]]; [[Argument_Lim_2015_CurricInq\|Lim and Apple (2015)]] |
 
 ---
 
 > [!dev-timeline] 概念演变
-- **1958 — 讽刺性反乌托邦起源** 英国社会学家 [[Michael Young]] 发表《唯才是用制的崛起》（*The [[Research in Schools Evaluation|Rise]] of the Meritocracy*），提出才能等于智商（Intelligence Quotient, IQ）加努力的讽刺性公式，警示以智力测验为基础的技术官僚统治导致道德优越感与新阶级固化。
-- **1965–1980s — 发展型国家的立国实践** 新加坡等东亚经济体将唯才是用转化为国家核心治理哲学，依托统一中英文双语大纲与全国统考打破族群壁垒，驱动社会阶层流动与经济腾飞。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 453–455)]]
-- **2013 — 均等与精英张力批判与才能拓宽悖论** [[Argument_Lim_2013_APJE|Lim (2013)]] 剖析新加坡初等教育政策中唯才制的内在断裂，指出拓宽才能评价维度容易被优势家庭的文化资本与影子教育再次俘获，揭示了唯才制如何以平等之名掩盖阶层再生产的不平等意识形态。
-- **2015 — 课程形式与才能误认批判** [[Argument_Lim_2015_CurricInq|Lim and Apple (2015)]] 揭示官方思维技能改革通过差异化的微观课程形态（弱控制 vs. 强控制）赋予不同阶层学生截然不同的知识理性，将结构性的阶级再生产误认为个人才能差异，揭露了唯才是用制的意识形态遮蔽功能。
-- **2000s–2020s — 结构反思与拓宽唯才范式** 学界与政策层深入检视家庭社会经济地位对考试成绩的侵蚀，批判文凭特权与道德自负；新加坡官方推行全面科目编班制（Subject-Based Banding）并改革小学积分计算方式，试图从狭隘学术唯才是用转向多维度宽口析唯才。
+> - **1958 — 讽刺性反乌托邦起源** 英国社会学家 [[Michael Young]] 发表《唯才是用制的崛起》（*The Rise of the Meritocracy*），提出才能等于智商（Intelligence Quotient, IQ）加努力的讽刺性公式，警示以智力测验为基础的技术官僚统治导致道德优越感与新阶级固化。
+> - **1965–1980s — 发展型国家的立国实践** 新加坡等东亚经济体将唯才是用转化为国家核心治理哲学，依托统一中英文双语大纲与全国统考打破族群壁垒，驱动社会阶层流动与经济腾飞。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 453–455)]]
+> - **2013 — 均等与精英张力批判与才能拓宽悖论** [[Argument_Lim_2013_APJE|Lim (2013)]] 剖析新加坡初等教育政策中唯才制的内在断裂，指出拓宽才能评价维度容易被优势家庭的文化资本与影子教育再次俘获，揭示了唯才制如何以平等之名掩盖阶层再生产的不平等意识形态。
+> - **2015 — 课程形式与才能误认批判** [[Argument_Lim_2015_CurricInq|Lim and Apple (2015)]] 揭示官方思维技能改革通过差异化的微观课程形态（弱控制 vs. 强控制）赋予不同阶层学生截然不同的知识理性，将结构性的阶级再生产误认为个人才能差异，揭露了唯才是用制的意识形态遮蔽功能。
+> - **2000s–2020s — 结构反思与拓宽唯才范式** 学界与政策层深入检视家庭社会经济地位对考试成绩的侵蚀，批判文凭特权与道德自负；新加坡官方推行全面科目编班制（Subject-Based Banding）并改革小学积分计算方式，试图从狭隘学术唯才是用转向多维度宽口径唯才。
 
 ---
 

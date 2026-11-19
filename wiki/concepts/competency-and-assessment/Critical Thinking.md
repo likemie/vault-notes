@@ -151,7 +151,7 @@ related_instruments:
 confidence: medium
 status: stable
 created: 2026-06-30
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 > [!def] Critical Thinking
@@ -340,15 +340,15 @@ updated: 2026-11-18
 ---
 
 > [!dev-timeline] 批判性思维概念的演变
-- **古典传统至 20 世纪中期　理性判断与教育自主** [[Plato\|柏拉图]]和[[Aristotle\|亚里士多德]]传统开启以理由审查信念的教育理想，后续哲学家和教育思想家持续把理性、自主和自我纠正视为教育的重要成果。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, p. 31)]]
-- **1980 年代　反思判断成为定义核心** Siegel 将批判性思维与理性和理由权衡相连，Ennis and Weir 将其聚焦于决定相信什么或采取何种行动，使概念从宽泛教育理想转向可讨论的判断过程。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, p. 32)]]
-- **1990 年代　技能、倾向与多层分类发展** Facione 的德尔菲框架、Paul 的三维分类和 Halpern 的技能体系扩展了[[Construct\|构念]]范围，认知技能、思维倾向、迁移和[[Problem Solving\|问题解决]]成为主要议题。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 32–34)]]
-- **2000 年代　课程[[Operationalization|操作化]]与[[Construct Validity|构念效度]]审查** 修订版 Bloom 分类法、Cambridge Assessment 框架及 ToK 等显性探究课程推动概念进入课程目标、测量工具和评估标准，研究重点转向教学效果、迁移条件与构念效度。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 33–35)]] [[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 249–250)]]
-- **2000 年代　[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]下的工具化窄化与反思遮蔽** 批判政策学者揭示，在新自由主义全球治理与知识经济[[Discourse|话语]]下，批判性思维在政策层面被窄化为适应劳动力市场的非政治性技能，其民主公民批判与价值反思功能面临系统性遮蔽。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 446)]]
-- **2010 年代至今　微观策略协同与高阶实证综合** [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] 通过大规模[[Meta-analysis|元分析]]确立了[[Authentic Instruction|真实性教学]]、对话与[[Mentorship|导师制]]三维协同干预机制；[[Argument_Li_2026_CEAI|Li et al. (2026)]] [[Systematic Review|系统综述]] 67 项高校实证研究，揭示生成式 AI 对批判性思维的双向塑造机制，确立了以反思提示和[[Epistemological Vigilance|认识论警觉]]防范[[Cognitive Offloading|认知卸载]]的教学干预体系。
-- **2015 年　课程形态与阶层化批判思维理性分化** [[Argument_Lim_2015_CurricInq|Lim and Apple (2015)]] 揭示官方批判性思维改革在微观课程组织中呈现阶层化分化，精英学校的弱控制形态培育探究掌控理性，普通学校的强控制形态则将其收编为标准化解题技术，暴露了批判性思维话语下的社会再生产机制。
-- **2019 年　全球微观[[Classroom Observation|课堂观察]]与[[Rote Learning|死记硬背]]打破** [[World Bank|世界银行]]发布《Teach 观察员手册》（[[Argument_WorldBank_2019_Teach|World Bank Group, 2019]]），将批判性思维下沉为发展中国家初等教育课堂的核心评价要素（要素 6）；打破了将批判性思维视为仅属于高等教育或发达国家的精英偏见，在基础教育语境中将死记硬背（Rote Learning）与实质性[[Higher-Order Thinking Skills|高阶思维]]任务（Substantial Thinking Tasks）作出了严格的学科化行为锚定。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 26–27)]]
-- **2026 年　学术过度竞争对[[Early-Career Researchers|青年学者]]批判性反思的挤压** [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] 揭示以末位淘汰和短期项目制为特征的学术评价生态，逼迫青年科研人员将策略性从众作为生存策略，在学者独立性孕育的关键期严重压制了批判性思维与高风险学术质疑。
+> - **古典传统至 20 世纪中期　理性判断与教育自主** [[Plato\|柏拉图]]和[[Aristotle\|亚里士多德]]传统开启以理由审查信念的教育理想，后续哲学家和教育思想家持续把理性、自主和自我纠正视为教育的重要成果。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, p. 31)]]
+> - **1980 年代　反思判断成为定义核心** Siegel 将批判性思维与理性和理由权衡相连，Ennis and Weir 将其聚焦于决定相信什么或采取何种行动，使概念从宽泛教育理想转向可讨论的判断过程。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, p. 32)]]
+> - **1990 年代　技能、倾向与多层分类发展** Facione 的德尔菲框架、Paul 的三维分类和 Halpern 的技能体系扩展了[[Construct\|构念]]范围，认知技能、思维倾向、迁移和[[Problem Solving\|问题解决]]成为主要议题。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 32–34)]]
+> - **2000 年代　课程[[Operationalization|操作化]]与[[Construct Validity|构念效度]]审查** 修订版 Bloom 分类法、Cambridge Assessment 框架及 ToK 等显性探究课程推动概念进入课程目标、测量工具和评估标准，研究重点转向教学效果、迁移条件与构念效度。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 33–35)]] [[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 249–250)]]
+> - **2000 年代　[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]下的工具化窄化与反思遮蔽** 批判政策学者揭示，在新自由主义全球治理与知识经济[[Discourse|话语]]下，批判性思维在政策层面被窄化为适应劳动力市场的非政治性技能，其民主公民批判与价值反思功能面临系统性遮蔽。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 446)]]
+> - **2010 年代至今　微观策略协同与高阶实证综合** [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] 通过大规模[[Meta-analysis|元分析]]确立了[[Authentic Instruction|真实性教学]]、对话与[[Mentorship|导师制]]三维协同干预机制；[[Argument_Li_2026_CEAI|Li et al. (2026)]] [[Systematic Review|系统综述]] 67 项高校实证研究，揭示生成式 AI 对批判性思维的双向塑造机制，确立了以反思提示和[[Epistemological Vigilance|认识论警觉]]防范[[Cognitive Offloading|认知卸载]]的教学干预体系。
+> - **2015 年　课程形态与阶层化批判思维理性分化** [[Argument_Lim_2015_CurricInq|Lim and Apple (2015)]] 揭示官方批判性思维改革在微观课程组织中呈现阶层化分化，精英学校的弱控制形态培育探究掌控理性，普通学校的强控制形态则将其收编为标准化解题技术，暴露了批判性思维话语下的社会再生产机制。
+> - **2019 年　全球微观[[Classroom Observation|课堂观察]]与[[Rote Learning|死记硬背]]打破** [[World Bank|世界银行]]发布《Teach 观察员手册》（[[Argument_WorldBank_2019_Teach|World Bank Group, 2019]]），将批判性思维下沉为发展中国家初等教育课堂的核心评价要素（要素 6）；打破了将批判性思维视为仅属于高等教育或发达国家的精英偏见，在基础教育语境中将死记硬背（Rote Learning）与实质性[[Higher-Order Thinking Skills|高阶思维]]任务（Substantial Thinking Tasks）作出了严格的学科化行为锚定。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 26–27)]]
+> - **2026 年　学术过度竞争对[[Early-Career Researchers|青年学者]]批判性反思的挤压** [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] 揭示以末位淘汰和短期项目制为特征的学术评价生态，逼迫青年科研人员将策略性从众作为生存策略，在学者独立性孕育的关键期严重压制了批判性思维与高风险学术质疑。
 
 ---
 

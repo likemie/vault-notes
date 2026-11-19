@@ -9,7 +9,7 @@ aliases:
 summary: "国际教育与比较教育学核心范畴，指学习者身处所在国，而所接受的课程教学、学业考核、学术文凭或教育机构主要来源于另一主权国家的跨境教育交付模式。作为第二代跨境教育形态，涵盖独立合作大学、联合学院与双学位项目，在当代进一步向第三代集群化国际教育枢纽演化。"
 type: concept
 domain: "comparative-education"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-19
 ---
 
 ---
@@ -95,6 +95,7 @@ updated: 2026-11-10
 > - **规制管辖与质量保障张力** 输出国必须通过官方第三方评估机构（如芬兰 [[Finnish Education Evaluation Centre|KARVI]]、英国 QAA）对其离岸交付质量进行域外背书，以捍卫国家教育品牌。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 385–386)]]
 > - **全学段泛化与产业渗透** 当代国家政策将 TNE 范畴由大学学位扩展至职业教育、微专业以及涵盖课桌椅家具、AI 教学平台的集成解决方案。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, p. 382)]]
 > - **向第三代国际教育枢纽演化** 第二代 TNE 提供的机构合作经验与优质学科资源，为国家级试验区（如[[Guangdong-Hong Kong-Macau Greater Bay Area|大湾区]]、海南陵水、浙江海宁）建设空间高度集聚、三螺旋协同的第三代教育枢纽奠定了组织支柱。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 2–3)]]
+> - **地缘软实力投射与文凭创收工具** 在全球南方区域治理中，跨国教育常被外部强权视作投射规范与软实力的关键渠道，并将发展中国家视作分散的文凭创收市场，易强化后发国家对西方评价体系的单向依附。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 6–7)]]
 
 > [!logic-map]- 跨国教育的多维形态与治理结构
 > ```mermaid
@@ -171,6 +172,7 @@ updated: 2026-11-10
 > | 研究 | 样本与情境 | 指标 | 关键结果 | 解释边界 |
 > |---|---|---|---|---|
 > | [[Argument_Qu_2024_IJED\|Qu and Dai (2024, pp. 2–3)]] | 中国跨境高等教育与合作办学（2019–2020） | 毛入学率与留学目的地地位 | 2020 年中国高教毛入学率达 58.4%；2019 年为亚洲第一大、2020 年为全球第四大留学目的地国 | 宏观统计指标表明[[Internationalization at Home\|在地国际化]]需求与跨国合作办学的规模扩张背景 |
+> | [[Argument_Indrarajah_2026_NJCIE\|Indrarajah (2026)]] | 东南亚（马、新、越等国）跨国高等教育网络 | 批判性政策分析与政策文本考察 | TNE 地缘软实力投射与文凭创收依附机制 | 揭示外部强权将 TNE 作为投射规范与文凭创收的渠道，指出新马借英语优势发展为区域 TNE 枢纽的同时，加剧了对西方期刊与商业排名的单向依附 | 聚焦东南亚区域高教治理视角，揭示 TNE 的新殖民性制度风险 |
 
 ---
 
@@ -193,3 +195,4 @@ updated: 2026-11-10
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 辨析跨国教育（TNE）与芬兰教育出口的学理范畴，指出官方战略如何将 TNE 突破性泛化至学前、基础与职业教育等全学段集成交付。
 > - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 提出中国跨境教育三代演化理论，阐述以中外合作办学为特征的第二代跨国教育如何向第三代国际教育枢纽集群演进（pp. 1–11）。
+> - [[Argument_Indrarajah_2026_NJCIE|Indrarajah (2026)]] — 从认识论去殖民化视阈剖析跨国教育在东南亚的运作机制，揭示外部强权借助 TNE 进行软实力投射与文凭创收的依附结构（pp. 6–7）。
