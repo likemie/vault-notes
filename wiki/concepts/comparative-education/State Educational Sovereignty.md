@@ -140,7 +140,7 @@ updated: 2026-11-19
 ---
 
 > [!feature] 核心要素
-> - **教育作为国家公共资源的法哲学奠基（Education as a Public Resource）** 彻底否定教育权属于个人或教会私人所有，在法理上确立国家通过公共财政征税建设学校体系、推进强制义务入学的本体正当性。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 28)]]
+> - **教育作为国家公共资源的法哲学确立（Education as a Public Resource）** 彻底否定教育权属于个人或教会私人所有，在法理上确立国家通过公共财政征税建设学校体系、推进强制义务入学的本体正当性。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 28)]]
 > - **世俗国家最高督导视察网络（Supreme State Inspection Network）** 普鲁士《1819 年[[Johann Wilhelm Süvern|聚芬]]草案》设立教育部最高督察司；法国《1833 年[[Guizot Law of 1833|基佐法案]]》设立专职皇家督学与省级特别委员会；美国马萨诸塞州设立州立教育委员会（Board of Education）与专职秘书，形成中央/州级世俗公权力直接视察每所学校的督导网络。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 26–28, 31)]]
 > - **市镇公学义务与贫困儿童免费托底（Statutory School Obligation and Social Protection）** 强制全境所有市镇必须依法设立初等公学，对赤贫家庭子女实行完全免收学费，将教育可及性作为国家对公民的不可剥夺承诺。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 26, 28)]]
 > - **垄断师资准入标准与国家最低薪资保障（Centralised Teacher Certification and Salary Guarantee）** 建立由国家财政兜底的公立[[Normal School|师范学校]]网络，实行国家统一执业考试，并以国家法律统一设定教师法定最低年薪标准，使公立教师升格为国家公职人员。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 27–29)]]
@@ -235,6 +235,9 @@ updated: 2026-11-19
 > [!claim] [[Fazal Rizvi|Rizvi, F.]] and [[Bob Lingard|Lingard, B.]]
 > **外部软法测评作为推进国内教育改革的战略性合法化工具** 法扎尔·里兹维（Fazal Rizvi）与鲍勃·灵格德（Bob Lingard）深入剖析经合组织（OECD）的多边治理机制指出，OECD 既无条约制定权亦无法律制裁手段，完全依靠无约束力的“软法”（soft law）、[[Peer Debriefing|同行审议]]与跨国数据比较施展权威；主权国家之所以高度重视并主动对接这些国际测评，是因为国内政策精英往往将 OECD 指标与 PISA 国际排位作为战略性合法化工具（legitimation tool）。当政府试图推行削减公共开支、重塑课程标准或推行[[New Public Management|新公共管理]]问责等具有政治争议的改革时，通过援引外部“权威客观”的国际排位与落后危机，能够有效绕过或压制国内工会与利益团体的阻力；然而，这种对跨国工具的主动借助，在实质上将本国教育主权决策深度锚定于全球经济竞争与人力资本逻辑之中，构成了国家教育主权内涵与行使方式的根本转型。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444, 447)]]
 
+> [!claim] [[Argument_Dang_2017_ORE|Dang (2017)]]
+> **东盟方式对国家教育主权的自愿协商保护** 邓氏清（Thi Thanh Dang）考察东南亚高等教育区域治理指出，与欧洲博洛尼亚进程中担忧“协调”削弱国家自主权、导致超国家集权统编不同，东盟各国在推进区域高等教育趋同（Harmonisation）中严格坚持“东盟方式”（ASEAN Way）。通过不具法律拘束力的自愿参与、协商一致与非正式多边网络，东盟在推进区域质保与学分互认的同时，坚决维护各成员国的国家教育主权，承认各国办学体制与发展起点的多样性，形成了一种以主权完整为前提的多边网络化协调模式。[[Argument_Dang_2017_ORE|(Dang, 2017, pp. 6–9)]]
+
 ---
 
 > [!concept-proposition] 命题七｜超国家[[Epistemic Infrastructure|认识论基础设施]]通过微观数据互操作性规避宪制主权壁垒实现深度渗透
@@ -253,7 +256,7 @@ updated: 2026-11-19
 > | **经验容器与全球重构命题** | 民族国家教育主权垄断奠定了比较教育的国别容器，当代面临超国家数据治理与微观跨文化教育的双向重塑 | 20 世纪比较教育学科史、超国家组织教育规训与多民族社会教育政策分析 | [[Wolfgang Mitter\|Mitter]]; [[Michael Sadler\|Sadler]]; [[Marc-Antoine Jullien\|Jullien]] |
 > | **经贸穿透与影子国家侵蚀命题** | 超国家经贸规制（WTO/GATS）与公共服务外包共同侵蚀民族国家教育主权，加剧大国与小国自主权分化 | 20 世纪末以来的新自由主义全球化、[[Pluri-Scalar Governance\|多标度治理]]空间重组与国际援助外包 | Robertson et al. (2002); Sutton and Arnove (2004); [[Robert Arnove\|Arnove (2009)]] |
 > | **多层级防守与次国家分裂命题** | 国家教育主权在超国家层面受到成员国排他性固守，在次国家层面遭遇地方民族主义争夺独立教育系统的解体危机 | 欧洲联盟多层级治理限度、次国家民族主义教育动员、激进分权体制危机 | [[José Luis García Garrido\|García Garrido (2009)]] |
-> | **多层网络与权力共享合法化命题** | 全球化重塑主权权力的运作条件，推动其转型为跨层级权力共享行使；国内精英将外部软法测评工具化为推行争议改革的合法化工具 | 20 世纪末跨国多边治理（OECD/PISA）、国家政策议程重构与新公共管理改革 | Held and McGrew (2005); [[Fazal Rizvi\|Rizvi]] & [[Bob Lingard\|Lingard]] (2009) |
+> | **多层网络与权力共享合法化命题** | 全球化重塑主权权力的运作条件，推动其转型为跨层级权力共享行使；国内精英将外部软法测评工具化为推行争议改革的合法化工具 | 20 世纪末跨国多边治理（OECD/PISA）、国家政策议程重构与新公共管理改革 | Held and McGrew (2005); [[Fazal Rizvi\|Rizvi]] & [[Bob Lingard\|Lingard]] (2009); [[Argument_Dang_2017_ORE\|Dang (2017)]] |
 > | **认识论基础设施技术规避命题** | 超国家机构依托元标准与微观数据互操作性规避宪制主权壁垒，重塑跨国流动与文凭认定的实质管辖权 | 欧洲高等教育区、跨国文凭自动互认与底层数据互操作治理 | [[Argument_Grek_2024_EERJ\|Grek and Russell (2024)]] |
 
 ---
@@ -310,7 +313,23 @@ updated: 2026-11-19
 
 ---
 
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Pluri-Scalar Governance]] | 理论 | 多标度治理揭示全球化下国家教育主权职能向超国家、国家与次国家网络的空间重组。 |
+> | [[Developmental State]] | 理论 | 发展型国家理论用于解释后发国家如何依托强有力国家主权掌控教育市场化节奏与核心意识形态。 |
+> | [[Network Governance]] | 概念 | 网络化治理界定主权国家在多边多层网络中开展权力共享行使的制度形态。 |
+> | [[Shadow State]] | 概念 | 影子国家批判外包模式导致民间组织依附于外部资助并架空公共教育主权。 |
+> | [[National Education]] | 概念 | 国民教育是近代国家教育权确立后旨在培育公民认同与国家忠诚的基础教育载体。 |
+> | [[Epistemic Infrastructure]] | 概念 | 认识论基础设施揭示超国家机构通过元标准与微观数据库互操作底层穿透国家主权壁垒。 |
+> | [[In-depth Interview]] | 方法 | 深度访谈用于挖掘涉外教育决策者在多边博弈中维系国家主权与自主权的深层考量。 |
+> | [[Peer Debriefing]] | 方法 | 同行审议是跨国软法治理中主权国家在缺乏法律强制力下开展多边对齐与合法化借用的核心规程。 |
+
+---
+
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Dang_2017_ORE|Dang (2017)]] — 考察东南亚高等教育区域治理与“东盟方式”（ASEAN Way），阐明后发成员国如何依托自愿参与、协商一致与非正式多边网络，在推进区域趋同协调的同时坚决维护国家教育主权（pp. 6–9）。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合[[Pluri-Scalar Governance|多标度治理]]理论，深刻揭示 [[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]] 经贸规制与非政府组织[[Shadow State|影子国家]]外包对民族国家教育主权的削弱，剖析南北国家在自主权上的严重分化（pp. 110–112）。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009)]] — 系统解构 19 世纪法国[[Victor Cousin|库森]]与美国[[Horace Mann|霍勒斯·曼]]如何分别动用国家公共资源论与自由共和政治合法化依据，推动世俗国家确立教育最高主权并开创两种跨国借用[[Paradigm|范式]]。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 系统阐明民族国家对教育主权的垄断如何确立了整个 20 世纪比较教育的经验容器，剖析主权多样性与欧洲统一性的结构张力，并揭示当代超国家测评规训与[[Intercultural Education|跨文化教育]]对国家教育主权的双向重塑。

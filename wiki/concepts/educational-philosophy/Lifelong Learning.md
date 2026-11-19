@@ -147,7 +147,7 @@ updated: 2026-11-19
 > *Learning, Foray and Lundvall argue, should not only involve the ability to use new technologies to access global knowledge, but should also mean using technology to communicate with other people about how to improve productivity. This implies that individuals, corporations, and nations create wealth in proportion to their capacity to learn and share innovation. If this is so then learning must be continuous and not restricted to formal schooling – that is, it must be lifelong learning. ([[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, p. 446]]; citing Foray & Lundvall, 1996)*
 
 > [!boundary]- 概念边界
-> - 不等于正规学校教育：正规教育仅是终身学习的奠基起点，终身学习涵盖大量校外非正式、非结构化与兴趣驱动的探索实践。
+> - 不等于正规学校教育：正规教育仅是终身学习的基础阶段，终身学习涵盖大量校外非正式、非结构化与兴趣驱动的探索实践。
 > - 不等于传统成人扫盲或补习教育：终身学习构成贯穿全生命周期的常态化素养累积与自主更新机制，超越对学校正规教育的事后查漏补缺。
 
 ---
@@ -259,7 +259,7 @@ updated: 2026-11-19
 
 > [!dev-timeline] 概念演变
 > - **1970–1980 年代 [[OECD|经合组织]] [[Centre for Educational Research and Innovation|CERI]] 支持“循环教育与终身学习”** 经合组织教育研究与[[Innovation Hub|创新中心]]（Centre for Educational Research and Innovation, CERI）赞助多项循环教育（recurrent education）与终身学习项目，彼时主要支持成员国社会民主主义福利国家议程，强调教育资源向弱势群体的二次再分配。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 441)]]; Papadopoulos (1994)
-> - **1972 年 [[UNESCO|联合国教科文组织]]《学会生存》报告奠基** 联合国教科文组织（UNESCO）发布《学会生存》（Learning to Be: The World of Education Today and Tomorrow，Faure 报告），首次在国际层面系统确立终身教育理念，强调教育的人本主义属性与个体自由全面发展。
+> - **1972 年 [[UNESCO|联合国教科文组织]]《学会生存》报告确立理念** 联合国教科文组织（UNESCO）发布《学会生存》（Learning to Be: The World of Education Today and Tomorrow，Faure 报告），首次在国际层面系统确立终身教育理念，强调教育的人本主义属性与个体自由全面发展。
 > - **1996 年 [[Delors Report|德洛尔报告]]确立四大支柱与应对全球化挑战** 联合国教科文组织发布《教育：财富蕴藏其中》（Learning: The Treasure Within，Delors 报告），将终身学习凝练为四大支柱：学会认知（Learning to know）、学会做事（Learning to do）、学会共处（Learning to live together）以及学会生存（Learning to be），并警惕经济全球化与纯粹功利主义可能侵蚀社会连带；但国际多边治理主导权已开始向国际金融机构倾斜。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
 > - **1996 年 [[OECD|经合组织]]推动学习型经济与终身学习[[Paradigm|范式]]重塑** 经合组织出版[[Dominique Foray|多米尼克·福雷]]与本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]编著的《[[Knowledge-Based Economy|知识经济]]中的教育与增长》，确立“向学习型经济转型”论断；终身学习被重新定义为知识快速折旧下维持国家与个体财富创造能力的必要前提，学习重心从[[Knowledge-that and Know-how-to|知其然]]（knowing that）转向掌握实践操作诀窍（[[Procedural Knowledge|knowing how]]）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
 > - **1990 年代末至 2000 年代初 [[Knowledge-Based Economy|知识经济]]主导与[[Policy Borrowing|政策借用]]转向** 伴随全球化进程，终身学习被[[World Bank|世界银行]]（[[World Bank]]）与 [[OECD]] 深度重塑为服务[[Knowledge-Based Economy|知识经济]]与劳动力市场[[Employability|就业能力]]的工具；各国政府亦频繁借用终身学习[[Discourse|话语]]作为[[Externalization|外部化]]国内矛盾的政策工具。[[Argument_Yan_2025_JCS|(Yan & Morris, 2025, p. 487)]]
@@ -318,6 +318,21 @@ updated: 2026-11-19
 > | [[UK Science Education Tracker\|SET 2016–2023 追踪 (The Royal Society, 2026, p. 33)]] | 英格兰 14–16 岁青少年样本 | 7 年三期纵向追踪 | 课堂动手实验参与频率 | 双周动手实验率自 44% 下降至 26% | — | 聚焦英格兰青少年，实证探究萎缩对终身科学探究信心的影响 |
 > | PwC 绿色技能缺口模型 [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 32)]] | 英国劳动力市场预测 | 计量经济劳动力模型 | 绿色转型岗位技能缺口 | 英国低碳转型面临约 20 万名绿色技能专业人才缺口 | — | 宏观劳动力模型预测，反映成年劳动力终身技能重构的迫切性 |
 > | [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 26–27, 35)]] | 欧洲教育治理体系与 OECD PISA 测评实践（英国、德国与芬兰） | 政策社会学比较[[Case Study\|个案研究]]（专家[[In-depth Interview\|深度访谈]]与多边政策文本分析） | 终身学习测评指标（学习动机、自我效能感与自主规制策略）及治理机制 | 揭示 OECD 将终身学习前置至 15 岁义务教育阶段，通过跨国标准化等值标尺将非认知心理特质转化为可比的终身学习胜任力指标，重构国家教育政策议程 | — | 质性政策社会学分析，揭示国际组织指标建构背后的治理术演进 |
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Human Capital Theory]] | 理论 | 人力资本理论将终身学习视作应对知识折旧与维系生产力的持续投资机制。 |
+> | [[Spatial Governmentality]] | 理论 | 空间治理术揭示超国家教育空间如何将跨国流动编码为个体终身就业胜任力。 |
+> | [[Discursive Institutionalism]] | 理论 | 话语制度主义用于剖析终身学习作为成熟宏观理念抵御激进认知重构的制度韧性。 |
+> | [[Knowledge-Based Economy]] | 概念 | 知识经济构成了当代终身学习由福利权利向生产力生存命令重塑的宏观背景。 |
+> | [[Employability]] | 概念 | 就业能力是新自由主义政策话语中将终身学习工具化的核心衡量维度。 |
+> | [[Learnification]] | 概念 | 学习化批判揭示终身学习将全人教化降维为无休止自我优化与监控的异化陷阱。 |
+> | [[Cohort Study]] | 方法 | 队列追踪用于检验非正式科学参与对个体全生命周期科学素养重塑的累积效应。 |
+> | [[In-depth Interview]] | 方法 | 深度访谈用于透视政策制定者与一线教师对终身学习话语修辞借用的微观动机。 |
 
 ---
 

@@ -11,7 +11,7 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 8
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -25,13 +25,16 @@ related_concepts:
   - "[[Boarding Schools]]"
   - "[[School Choice]]"
   - "[[Peidu]]"
+  - "[[Hopelessness in Schooling]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[Zhongkao]]"
   - "[[Hukou System]]"
 related_arguments:
   - "[[Argument_Teng_2025_CE]]"
+  - "[[Argument_Xie_2017_PKUER]]"
 confidence: high
 status: draft
 created: 2026-05-26
@@ -104,4 +107,12 @@ updated: 2026-11-19
 > |:-----|:-----|:-----|
 > | [[Peidu]] | 事实 | 农村学校撤并导致了就近入学权的丧失，是催生农村家长进行地理跨区陪读的直接前置推力。 |
 > | [[School Choice]] | 概念 | 撤并使农村家庭在就近入学破灭后，不得不走上向城内寻求优质学校的被动择校道路。 |
+> | [[Hopelessness in Schooling]] | 概念 | 撤点并校增加的求学半径与陪读经济成本，加剧了农村底层弱势家庭的读书无望感。 |
+> | [[Zhongkao]] | 政策 | 撤点并校使农村初中生源向城镇中心校集中，重构了县域中考的备考生态与竞争格局。 |
 > | [[Hukou System]] | 政策 | 撤并后的分流进入县城学校，受到户籍制度放开程度与购房、社保等隐性门槛的制约。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Teng_2025_CE|Teng and Wang (2025)]] — 结合湖北 G 县实地调查，揭示农村学校撤并如何从早期效率导向异化为推动农民进城购房与人口城镇化的制度工具。
+> - [[Argument_Xie_2017_PKUER|谢爱磊 (2017)]] — 实证分析中县 1989–2013 年撤点并校序列与师资城镇化集中，揭示其推高农村家庭求学与陪读成本并诱发教育退缩的微观机制。
