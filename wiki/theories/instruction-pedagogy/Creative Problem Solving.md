@@ -171,8 +171,8 @@ updated: 2026-11-20
 > > [!axis] 通用策略训练 vs 领域专业知识根基
 > > 通用创造性策略能否脱离学科专门知识而独立发挥效用。
 > >
-> > - **Runco et al. (2026)** 指出单一依赖脱离学科知识的独立操练容易陷入浅层技能化，应与长周期学科深度探究相结合。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 7)]]
-> > - **Guo et al. (2025)** 实证指出技术型训练若缺乏深层学科情境嵌入，其远迁移效应受到制约。[[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 8–9)]]
+> > - **[[Argument_Runco_2026_CRJ|Runco et al. (2026)]]** 指出单一依赖脱离学科知识的独立操练容易陷入浅层技能化，应与长周期学科深度探究相结合。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 7)]]
+> > - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]]** 实证指出技术型训练若缺乏深层学科情境嵌入，其远迁移效应受到制约。[[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 8–9)]]
 
 > [!critique] 批评索引
 > - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 指出单一依赖脱离学科知识的独立 CPS 操练容易陷入浅层技能化，应与长周期学科深度探究（如 PBL）相结合。

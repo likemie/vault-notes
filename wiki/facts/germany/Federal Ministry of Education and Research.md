@@ -201,7 +201,7 @@ updated: 2026-11-20
 > | [[Tina Seidel]] | Person | 慕尼黑工业大学讲席教授，主持 BMBF 资助的清算中心中介项目研发。 |
 > | [[Educational Evidence Clearinghouses]] | Concept | BMBF 资助代表着欧洲大陆高校依托型清算所的重要公共治理模式。 |
 > | [[Research-Practice Gap]] | Concept | BMBF 长期政策议程的核心主线，致力于消解国家科研成果与课堂实践之间的转移阻滞。 |
-| [[China Competence]] | Concept | BMBF 发起设立并主导注资的德国高校涉华科研与政策咨询能力培育计划。 |
+> | [[China Competence]] | Concept | BMBF 发起设立并主导注资的德国高校涉华科研与政策咨询能力培育计划。 |
 
 ---
 

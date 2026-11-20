@@ -39894,6 +39894,15 @@
     ]
   },
   {
+    "title": "Ursula Springer",
+    "type": "person",
+    "path": "wiki/persons/us/Ursula Springer.md",
+    "aliases": [
+      "乌苏拉·施普林格",
+      "施普林格"
+    ]
+  },
+  {
     "title": "Val D. Rust",
     "type": "person",
     "path": "wiki/persons/us/Val D. Rust.md",
@@ -52146,6 +52155,19 @@
     "path": "wiki/facts/us/Long Beach Unified School District.md",
     "aliases": [
       "long-beach-unified-school-district"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "M.E. Sharpe",
+    "type": "fact",
+    "path": "wiki/facts/us/M.E. Sharpe.md",
+    "aliases": [
+      "M.E. 夏普出版公司",
+      "国际艺术与科学出版社",
+      "International Arts and Sciences Press",
+      "IASP",
+      "M.E. Sharpe, Inc."
     ],
     "subtype": "organization"
   },

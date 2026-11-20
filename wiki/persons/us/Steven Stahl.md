@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-17
-updated: 2026-11-13
+updated: 2026-11-20
 ---
 
 ---
@@ -73,18 +73,18 @@ updated: 2026-11-13
 ---
 
 > [!work-line] 主要著作
-> - **1989 — *Whole Language and Language Experience Approaches for Beginning Reading: A Quantitative Synthesis*** 首次将全语言与语言经验法合并进行量化合成（d = 0.09–0.17），得出其与传统基本阅读器相比无显著优势的结论。[[Argument_OConnor_2020_AJLL|(O'Connor, 2020, p. 144)]]
-> - **1994 — *The Effects of Whole-Language Instruction: An Update and a Reappraisal*** 对全语言效果进行更新评估（d = 0.15），明确将语言经验法剔除出数据源。[[Argument_OConnor_2020_AJLL|(O'Connor, 2020, p. 145)]]
+> - **1989 — *Whole Language and Language Experience Approaches for Beginning Reading: A Quantitative Synthesis*** 首次将全语言与语言经验法合并进行量化合成（$d = 0.09 \sim 0.17$），得出其与传统基本阅读器相比无显著优势的结论。[[Argument_OConnor_2020_AJLL|(O'Connor, 2020, p. 144)]]
+> - **1994 — *The Effects of Whole-Language Instruction: An Update and a Reappraisal*** 对全语言效果进行更新评估（$d = 0.15$），明确将语言经验法剔除出数据源。[[Argument_OConnor_2020_AJLL|(O'Connor, 2020, p. 145)]]
 
 ---
 
-> [!claim] 核心思想
-> 虽然全语言与语言经验法在历史演进上存在继承关系，但二者在教学法操作和材料使用上存在显著差异；在实证评估中，不能将 1960 年代（全语言运动诞生前）的语言经验法研究结果直接套用到全语言的教学推论上。
-
-> [!citation-card] 斯塔尔论全语言与语言经验法的概念分野
-> 全语言运动强调让儿童沉浸于真实的优秀儿童文学作品之中，而早期的语言经验法更依赖学生口述、教师笔录的个人口语记录作为初级读物；二者在材料和哲学上截然不同，不能在元分析中混为一谈。[[Argument_OConnor_2020_AJLL|(O'Connor, 2020, pp. 144–145)]]
+> [!person-thesis] 主张一｜元分析必须严格厘清教学法时代边界，不得混同全语言与早期语言经验法
+> 虽然全语言与语言经验法在历史演进上存在继承关系，但二者在教学法操作和材料使用上存在显著差异；在实证评估中，不能将 1960 年代（全语言运动诞生前）的语言经验法研究结果直接套用到全语言的教学推论上。[[Argument_OConnor_2020_AJLL|(O'Connor, 2020, pp. 144–145)]]
 >
-> *Stahl, McKenna, and Pagnucco (1994) recognised the distinction between whole language and the earlier language experience approaches... not least because the latter predated the former by several decades and utilized fundamentally different instructional materials.*
+> > [!thesis-quote] 斯塔尔等人（1994）转述
+> > 全语言运动强调让儿童沉浸于真实的优秀儿童文学作品之中，而早期的语言经验法更依赖学生口述、教师笔录的个人口语记录作为初级读物；二者在材料和哲学上截然不同，不能在元分析中混为一谈。[[Argument_OConnor_2020_AJLL|(O'Connor, 2020, pp. 144–145)]]
+> >
+> > *Stahl, McKenna, and Pagnucco (1994) recognised the distinction between whole language and the earlier language experience approaches... not least because the latter predated the former by several decades and utilized fundamentally different instructional materials.*
 
 ---
 
@@ -92,9 +92,6 @@ updated: 2026-11-13
 > - **阅读教学论路径** 推动了早期识字教学中全语言、语言经验法与直接拼读教学的概念厘清与边界划定。
 > - **元分析方法学路径** 示范了元分析合成在解决教育政策争论中的应用潜力，其早期分类失误亦成为元分析合成中防范时代错误（Anachronism）的经典教训。
 > - **循证证据库路径** 1989 年与 1994 年元分析数据被[[John Hattie|约翰·哈蒂]]直接采纳并整合进《[[Visible Learning|可见的学习]]》，成为衡量阅读教学效应量的关键证据源。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_OConnor_2020_AJLL|O'Connor (2020)]] — 详析斯塔尔两项元分析的分类演进，批评哈蒂在《可见的学习》中对斯塔尔数据的时代错误采纳（pp. 144–145）。
 
 ---
 
