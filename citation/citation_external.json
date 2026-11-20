@@ -16698,6 +16698,7 @@
     "Martin & Balla, 1991": "Martin & Balla, 1991",
     "Martin & Vallance (2008)": "Martin & Vallance, 2008",
     "Martin & Vallance, 2008": "Martin & Vallance, 2008",
+    "Martin (1996)": "Martin, 1996",
     "Martin (2010)": "Martin, 2010",
     "Martin (2011)": "Martin, 2011",
     "Martin (2012)": "Martin, 2012",
@@ -16725,6 +16726,7 @@
     "Martin et al., 2010": "Martin et al., 2010",
     "Martin et al., 2021": "Martin et al., 2021",
     "Martin et al., 2022": "Martin et al., 2022",
+    "Martin, 1996": "Martin, 1996",
     "Martin, 2010": "Martin, 2010",
     "Martin, 2011": "Martin, 2011",
     "Martin, 2012": "Martin, 2012",
@@ -20988,6 +20990,8 @@
     "Ramming, 2013": "Ramming, 2013",
     "Ramnarain (2014)": "Ramnarain, 2014",
     "Ramnarain, 2014": "Ramnarain, 2014",
+    "Rampley (2000)": "Rampley, 2000",
+    "Rampley, 2000": "Rampley, 2000",
     "Ramsden (1991)": "Ramsden, 1991",
     "Ramsden, 1991": "Ramsden, 1991",
     "Ran et al. (2021a)": "Ran et al., 2021a",
@@ -151564,6 +151568,21 @@
       ],
       "title": ""
     },
+    "Martin, 1996": {
+      "aliases": [
+        "Martin, 1996",
+        "Martin (1996)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Martin, 1996"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch07.md"
+      ],
+      "title": ""
+    },
     "Martin, 2010": {
       "aliases": [
         "Martin, 2010",
@@ -182880,6 +182899,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Empowering educationally disadvantaged mathematics students through a strategies-based problem solving approach"
+    },
+    "Rampley, 2000": {
+      "aliases": [
+        "Rampley, 2000",
+        "Rampley (2000)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Rampley, 2000"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch07.md"
+      ],
+      "title": ""
     },
     "Ramsden, 1991": {
       "aliases": [

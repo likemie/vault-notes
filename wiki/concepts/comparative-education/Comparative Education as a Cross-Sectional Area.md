@@ -52,7 +52,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-09-28
-updated: 2026-11-15
+updated: 2026-11-20
 ---
 
 ---
@@ -135,7 +135,7 @@ updated: 2026-11-15
 
 ---
 
-> [!debates|notitle]
+> [!debates|notitle] 学术争议
 >
 > > [!axis] 母体依附 vs 独立[[Disciplinary Institutionalization|学科建制]]
 > > 围绕比较教育是否需要固守[[Allgemeine Pädagogik|普通教育学]]母体地位的建制路线分歧。
@@ -149,16 +149,16 @@ updated: 2026-11-15
 > > - **交叉融通立场** 认为唯有横切外部社会科学，比较教育才能获得对宏观政治经济变迁的解释力，避免自我封闭。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 98)]]
 > > - **学科纯粹性担忧** 批评者担忧过度依赖外部历史学与社会学工具会导致比较教育沦为其他成熟社科的经验附庸，消解自身的理论生成能力。
 
-> [!warning|notitle]
+> [!warning|limits] 适用局限
 > 在当今追求快速产出跨国绩效排名与可操作指标处方的量化治理环境中，交叉领域论所强调的深层历史发生学、多学科交织审慎分析，容易被讲求效率的政策官僚视为过于繁复缓慢，从而面临在大学编制与竞争性科研资助中受挤压的现实局限。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 96, 98)]]
 
 ---
 
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Oskar Anweiler]] | 人物 | 1967 年正式提出将比较教育定性为“交叉领域”的德国比较教育学核心奠基人。 |
+> | [[Oskar Anweiler]] | 人物 | 1967 年正式提出将比较教育定性为“交叉领域”的德国比较教育学首创学者。 |
 > | [[Wolfgang Mitter]] | 人物 | 总结欧洲比较教育[[Disciplinary Institutionalization\|学科建制]]传统、高度评价安维勒交叉领域论的学科史学者。 |
 > | [[Bildung]] | 概念 | 交叉领域论所依托的[[Allgemeine Pädagogik\|普通教育学]]母体学科的核心哲学与育人基石。 |
 > | [[Navigation Metaphor in Comparative Education]] | 概念 | 交叉领域模式学者在面对国家政治干预时所秉持的超然政策咨询立场。 |
@@ -168,5 +168,5 @@ updated: 2026-11-15
 
 ---
 
-> [!evidence-grid-a|notitle]
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 系统梳理欧洲比较教育学科演进史，详尽分析安维勒将学科界定为交叉领域的制度意义及其与英国独立分支模式的历史性融合。

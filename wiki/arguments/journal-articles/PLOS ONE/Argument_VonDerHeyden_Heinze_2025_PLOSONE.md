@@ -1,5 +1,4 @@
 ---
-title: Argument_VonDerHeyden_Heinze_2025_PLOSONE
 summary: "基于 1901 至 1969 年诺贝尔物理学与化学奖 8832 次解密提名档案与 3319 位学者的聘任机构追踪数据，系统考察 20 世纪全球科学中心从德国向美国转移的历史动力学。实证发现德美两国在提名人与被提名人份额上发生根本性反转，机构提名网络的核心节点从欧洲老牌名校全面转向北美研究型大学；本国同行互荐率与国家科学地位紧密共变，顶尖研究机构展现出显著的内部自荐倾向，印证了学术自我再生产与圈层封闭机制；二元 Logistic 回归进一步表明，霸权国身份显著提高了候选人最终折桂的概率，但霸权国内提名人的推荐成功率反而显著下降，揭示出提名权的垄断并未转化为掌控终审裁决的特权。"
 type: argument
 authors:
@@ -42,6 +41,14 @@ created: 2026-11-20
 updated: 2026-11-20
 subtype: journal-article
 publication_type: journal-article
+title: "Argument_VonDerHeyden_Heinze_2025_PLOSONE"
+argument_key: "Argument_VonDerHeyden_Heinze_2025_PLOSONE"
+argument_display_title: "Decline of German and rise of North-American hegemony in science: Insights from Nobel Prize nominations (Physics/Chemistry, 1901–1969)"
+argument_kind: "journal-article"
+argument_related_count: 9
+argument_related_level: 0
+argument_related_stars: "☆"
+argument_related_color: "#dbeafe"
 journal: "PLOS ONE"
 ---
 
