@@ -155,5 +155,6 @@ updated: 2026-11-20
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al. (2011)]] — 整合 Mayring 质性内容分析的三大核心进路与形成性复核规程，确立其在教育研究文本分析中的基础地位。
 > - [[Argument_Dedering_2009_EERJ|Dedering (2009)]] — 运用 Mayring 质性内容分析法对德国 4 州教育部官员访谈与公文系统编码，揭示实证监测工具在科层实践中的常态化应用。
+> - [[Argument_Hippach-Schneider_Rieder_2022_RCIE|Hippach-Schneider and Rieder (2022, p. 626)]] — 运用 Mayring 归纳总结性质性内容分析法处理德瑞两国 16 场职教专家访谈逐字稿，提取数字化转型中行动者诉求与利益博弈范畴。
 > - [[Argument_Luo_2026_IFDCK|Luo (2026)]] — 运用 Mayring 质性内容分析法对 2015 至 2024 年间德国联邦对华政策文本、资助指南与智库报告系统编码，重构“[[China Competence|中国能力]]”从合作建构向去风险安全治理的动态演化。
 > - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 运用 Mayring (2014) 质性内容分析法处理 23 位[[Transnational Education|跨国教育]]专家访谈文本与国际组织政策公文，解构全球学习危机话语的权力逻辑。

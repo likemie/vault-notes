@@ -172,6 +172,7 @@ updated: 2026-11-19
 > - [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] — 针对德国四个联邦州教育部质量保障与发展部门官员开展 12 场半结构化专家访谈，深入剖析州教育行政层级对大型实证监测数据的接收、处理与日常利用机制。
 > - [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 24, 32–34)]] — 深度访谈[[European Commission|欧盟委员会]]教育文化总司与 [[Eurydice]] 政策官员，剖析跨国组织在指标生产、数据采信、经费资助与政策动员中的机构共生与权力运作机制。
 > - [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019)]] — 访谈美国马萨诸塞州 [[Massachusetts Department of Elementary and Secondary Education|DESE]] 与德国汉堡 BSB、[[Institute for Educational Monitoring and Quality Improvement\|IfBQ]] 的 20 位数据专家，揭示州级机构在数据清洗、[[Commensuration\|通约]]与问责建模中的暗箱实践。
+> - [[Argument_Hippach-Schneider_Rieder_2022_RCIE|Hippach-Schneider and Rieder (2022, p. 625)]] — 对德瑞两国雇主协会、工会、联邦与州文教部门及教师团体的 16 位核心行动者实施半结构化专家访谈，检验两国双元制职教政策的微观博弈与制度张力。
 > - [[Argument_Knudsen_2017_NordSTEP\|Knudsen (2017, pp. 253–254)]] — 对[[Transnational Education|跨国教育]]倡导核心学者[[John Hattie\|约翰·哈蒂]]（John Hattie）开展专家访谈，深挖其在《[[Visible Learning\|可见的学习]]》[[Knowledge Production|知识生产]]、全球专营授权、政府政策建言与海量数据回流等交错网络中的制度性职能与角色平衡。
 > - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 深度访谈曾在三大国际组织任职的 23 位芬兰教育专家并分析机构报告，解构[[Learning Crisis|全球学习危机]]叙事背后的技术官僚逻辑与救世主心态。
 > - [[Argument_Volmari_2025_CE\|Volmari et al. (2025)]] — 对丹麦、芬兰与挪威参与学校改革起草的 15 位关键决策官员与委员会专家实施深度访谈，揭示循证政策微观准备中对私人学术网络与文官[[Tacit Knowledge|默会知识]]的高度依赖。

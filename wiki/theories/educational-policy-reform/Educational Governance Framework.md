@@ -163,4 +163,5 @@ updated: 2026-11-19
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] — 以教育治理框架为核心理论坐标，实证检验奥地利中小学校长治理态度聚类及其对微观日常工时配置与教学领导的重塑效应。
+> - [[Argument_Hippach-Schneider_Rieder_2022_RCIE|Hippach-Schneider and Rieder (2022)]] — 对比德瑞双元制职教系统在数字化转型中的治理结构，揭示法律分权架构对行动者行动空间与制度调适弹性的塑造机制。
 > - [[Argument_Zapp_2017_IJED|Zapp (2017)]] — 将教育治理分析框架拓展至全球多边组织，结合制度三支柱与治理工具分类提出认知治理三维模型。
