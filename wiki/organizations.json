@@ -1332,6 +1332,15 @@
         "Bundesministerium für Bildung und Forschung"
       ]
     },
+    "Federal Office for Economic Affairs and Export Control": {
+      "path": "wiki/facts/germany/Federal Office for Economic Affairs and Export Control.md",
+      "names": [
+        "Federal Office for Economic Affairs and Export Control",
+        "联邦经济与出口管制局",
+        "BAFA",
+        "Bundesamt für Wirtschaft und Ausfuhrkontrolle"
+      ]
+    },
     "Federally Funded Research and Development Centers": {
       "path": "wiki/facts/us/Federally Funded Research and Development Centers.md",
       "names": [
@@ -3577,6 +3586,11 @@
     "Australian Government Productivity Commission": {
       "seen_in": [
         "wiki/facts/australia/National Education Evidence Base Inquiry.md"
+      ]
+    },
+    "Auswärtiges Amt": {
+      "seen_in": [
+        "wiki/facts/germany/China Strategy of the Federal Government.md"
       ]
     },
     "Baltimore County Public Schools": {

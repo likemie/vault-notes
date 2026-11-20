@@ -42,6 +42,7 @@ related_concepts:
   - "[[Educational Diplomacy]]"
   - "[[Scientific Mobility]]"
   - "[[Academic Risk Aversion]]"
+  - "[[De-risking]]"
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
@@ -53,6 +54,9 @@ related_facts:
   - "[[Federal Ministry of Education and Research]]"
   - "[[EU]]"
   - "[[European Commission]]"
+  - "[[China Strategy of the Federal Government]]"
+  - "[[German Academic Exchange Service]]"
+  - "[[Federal Office for Economic Affairs and Export Control]]"
 related_arguments:
   - "[[Argument_Luo_2026_IFDCK]]"
 confidence: high
@@ -64,7 +68,7 @@ updated: 2026-11-20
 ---
 
 > [!def] China Competence
-> **中国能力（China Competence，德文写作 China-Kompetenz，亦称对华能力或涉华能力）** 是德国高等教育与科技政策语境中由联邦政府资助治理与[[Geopolitics|地缘政治]]互动共同塑造的复合型政策[[Construct|构念]]与机构实践能力。该概念早期聚焦于促进德中高校间文化理解、语言习得与双边科研合作，后随地缘政治博弈演化为以科研去风险（de-risking）、合规审查、出口管制与国家安全战略咨询为主导的防御性制度能力。[[Argument_Luo_2026_IFDCK|(Luo, 2026)]]
+> **中国能力（China Competence，德文写作 China-Kompetenz，亦称对华能力或涉华能力）** 是德国高等教育与科技政策语境中由联邦政府资助治理与[[Geopolitics|地缘政治]]互动共同塑造的复合型政策[[Construct|构念]]与机构实践能力。该概念早期聚焦于促进德中高校间文化理解、语言习得与双边科研合作，后随地缘政治博弈演化为以科研[[De-risking|去风险]]（de-risking）、合规审查、出口管制与国家安全战略咨询为主导的防御性制度能力。[[Argument_Luo_2026_IFDCK|(Luo, 2026)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指涉个人层面掌握的现代中国语言文化、专业领域知识与政治体制研判经验，以及高校与科研组织层面开展对华科研合作风险评估、法律合规审核与战略咨询的综合制度架构。
@@ -138,7 +142,7 @@ updated: 2026-11-20
 > [!dev-timeline] 概念演变
 > - **2015–2019 — 合作与互信导向阶段** BMBF 发布《中国战略 2015–2020》，将中国能力界定为通过语言培训、[[Early-Career Researchers|青年学者]]交流与高校中国中心建设弥合双向认知赤字，支撑双边科技创新平台运作。
 > - **2019–2023 — 政策转向与范式过渡** [[European Commission|欧盟委员会]]发布战略文件确立对华三重定位，BMBF 提前下线旧战略，学术智库倡导超越传统高校边界建构自主涉华安全研判体系。
-> - **2023–2024 — 去风险与安全治理主导阶段** 德国联邦政府正式发布《中国战略》，外交部主导强化独立中国能力，资助重点拓展至法律风控审查、安全尽职调查与战略性对策研究。[[Argument_Luo_2026_IFDCK|(Luo, 2026)]]
+> - **2023–2024 — 去风险与安全治理主导阶段** 德国联邦政府正式发布[[China Strategy of the Federal Government|《中国战略》]]，外交部主导强化独立中国能力，资助重点拓展至法律风控审查、安全尽职调查与战略性对策研究。[[Argument_Luo_2026_IFDCK|(Luo, 2026)]]
 
 ---
 
@@ -155,12 +159,17 @@ updated: 2026-11-20
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
+> | [[De-risking]] | Concept | 中国能力当代战略转型中内涵演进与治理规制的核心宏观范式。 |
+> | [[Research Security]] | Concept | 伴随地缘政治博弈加剧，中国能力由文化交流全面转向的核心制度防线。 |
 > | [[Knowledge Diplomacy]] | Concept | 中国能力是知识外交中服务于国家对外科技利益与地缘博弈的战略能力载体。 |
 > | [[Educational Diplomacy]] | Concept | 早期中国能力资助项目作为教育外交纽带促进跨国学者网络与青年[[Scientific Mobility\|学术流动]]。 |
 > | [[Academic Freedom]] | Concept | 去风险安全审查与防范机制的强化对高校传统学术自由和跨国合作构成制度性制约。 |
 > | [[Academic Risk Aversion]] | Concept | 地缘政治审查与法律合规压力促使部分德国高校在涉华合作中产生学术避险倾向。 |
 > | [[Qualitative Content Analysis]] | Method | 质性[[Content Analysis\|内容分析]]是研究者用于解构 2015 至 2024 年间中国能力政策话语流变的核心方法工具。 |
 > | [[Federal Ministry of Education and Research]] | Fact | 德国联邦教育与研究部作为核心资助主体主导了中国能力培育项目的创立与前两期资助布局。 |
+> | [[China Strategy of the Federal Government]] | Fact (Policy) | 确立新时期独立中国能力战略定位与科研去风险安全防线要求的国家纲领。 |
+> | [[German Academic Exchange Service]] | Fact (Organization) | 依据外贸与国家安全法规制定高校涉华合作指南并落地中国能力评估的资助中介。 |
+> | [[Federal Office for Economic Affairs and Export Control]] | Fact (Organization) | 出台学术出口管制手册、将涉华两用技术合规防线内嵌至大学治理的监管机构。 |
 
 ---
 

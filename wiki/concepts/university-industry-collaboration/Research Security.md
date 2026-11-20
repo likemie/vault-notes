@@ -40,6 +40,8 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[University-Industry Collaboration]]"
   - "[[Sensitive Research]]"
+  - "[[China Competence]]"
+  - "[[De-risking]]"
 related_theories:
   - "[[Social Contract of Science]]"
 related_methods:
@@ -50,11 +52,15 @@ related_facts:
   - "[[Web of Science]]"
   - "[[CHIPS and Science Act]]"
   - "[[Restoring Gold Standard Science Executive Order]]"
+  - "[[China Strategy of the Federal Government]]"
+  - "[[German Academic Exchange Service]]"
+  - "[[Federal Office for Economic Affairs and Export Control]]"
 related_arguments:
   - "[[Argument_Dean_2025_UICollaborationSupport]]"
   - "[[Argument_Fan_2026_BCAS]]"
   - "[[Argument_Zhuo_2026_ICE]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
+  - "[[Argument_Luo_2026_IFDCK]]"
 confidence: high
 status: active
 created: 2026-06-03
@@ -194,6 +200,7 @@ updated: 2026-11-15
 > - [[Argument_Dean_2025_UICollaborationSupport|Dean et al. (2025)]] — 阐述滑铁卢大学如何在[[University-Industry Collaboration|产学合作]]中通过设立保障研究（Safeguarding Research）专业团队，在[[Academic Freedom|学术自由]]与安全防护之间达成平衡，化解教师的地缘与法律焦虑并支撑高额产业研发网络。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从长时段[[Social Contract of Science|科学社会契约]]演化视角，系统论证 2016 年以来科研安全如何上升为大国竞争核心议题并全面法定化，揭示其对科学国际主义公理的瓦解与学术自治受限机制。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 结合《[[CHIPS and Science Act|芯片与科学法案]]》与美国[[Research Universities|研究型大学]]实践，系统阐明半导体竞争逻辑的[[Securitization of Technology|技术安全化]]转向如何将安全审查穿透至大学微观科研，揭示外籍人才限制与跨国学术壁垒导致的科研生态封闭化与学术自主受损困境。
+> - [[Argument_Luo_2026_IFDCK|Luo (2026)]] — 系统解构德国 2015–2024 年间科研资助由开放合作向去风险安全防范的历时转向，揭示科研安全审查要求与外贸出口管制法规对大学自治传统与涉华合作生态造成的深层体制冲击。
 
 ---
 
@@ -201,6 +208,8 @@ updated: 2026-11-15
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
+> | [[De-risking]] | Concept | 欧洲及国际科技治理中重塑科研安全边界与风险合规审查的总体战略范式。 |
+> | [[China Competence]] | Concept | 德国高校为应对科研安全与地缘博弈而系统建构的法律合规与战略研判能力。 |
 > | [[Academic Freedom]] | Concept | 研究安全制度设计必须保护与平衡的核心学术价值基石。 |
 > | [[Securitization of Technology]] | Concept | 驱动科研安全从微观合规演进为宏观地缘战略工具的核心理论与政治逻辑。 |
 > | [[University-Industry Collaboration]] | Concept | 研究安全实践最为密集且最易爆发知识产权与合规冲突的制度场景。 |
@@ -211,3 +220,6 @@ updated: 2026-11-15
 > | [[Restoring Gold Standard Science Executive Order]] | Fact (Policy) | 依托数据透明与程序审计进一步收紧大学科研自治与外部合规控制的行政令。 |
 > | [[Dual-Use Technology]] | Concept | 研究安全与出口管制重点监管的具有潜在民用与军用双重用途的前沿技术形态。 |
 > | [[Knowledge Transfer]] | Concept | 研究安全机制旨在规范、保护与防止被恶意利用的核心知识流动过程。 |
+> | [[China Strategy of the Federal Government]] | Fact (Policy) | 将科研安全列为战略防卫三大支柱之一的德国国家级总体政策文件。 |
+> | [[German Academic Exchange Service]] | Fact (Organization) | 依据外贸与科研安全法规出台高校合作指引并协调涉外合规治理的资助中介机构。 |
+> | [[Federal Office for Economic Affairs and Export Control]] | Fact (Organization) | 依法行使两用物项出口许可、向高校推行科研出口管制合规手册的德国联邦主管机构。 |

@@ -70,6 +70,9 @@ related_facts:
   - "[[Clearing House Unterricht]]"
   - "[[Max Planck Society]]"
   - "[[Vergleichsarbeiten]]"
+  - "[[China Strategy of the Federal Government]]"
+  - "[[German Academic Exchange Service]]"
+  - "[[Federal Office for Economic Affairs and Export Control]]"
 related_arguments:
   - "[[Argument_Knogler_2025_BB]]"
   - "[[Argument_Hartong_2018_GSE]]"
@@ -202,6 +205,9 @@ updated: 2026-11-20
 > | [[Educational Evidence Clearinghouses]] | Concept | BMBF 资助代表着欧洲大陆高校依托型清算所的重要公共治理模式。 |
 > | [[Research-Practice Gap]] | Concept | BMBF 长期政策议程的核心主线，致力于消解国家科研成果与课堂实践之间的转移阻滞。 |
 > | [[China Competence]] | Concept | BMBF 发起设立并主导注资的德国高校涉华科研与政策咨询能力培育计划。 |
+> | [[China Strategy of the Federal Government]] | Fact (Policy) | 联邦政府接替 BMBF 原旧版对华战略制定的跨部委总体国家涉华纲领。 |
+> | [[German Academic Exchange Service]] | Fact (Organization) | BMBF 长期核心资助与业务指导的高校国际化与涉华学术交流执行中介机构。 |
+> | [[Federal Office for Economic Affairs and Export Control]] | Fact (Organization) | 协同落实高校科研安全合规防线与涉外敏感技术出口管制的联邦主管机关。 |
 
 ---
 

@@ -14578,6 +14578,17 @@
     ]
   },
   {
+    "title": "De-risking",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/De-risking.md",
+    "aliases": [
+      "去风险",
+      "科技去风险",
+      "战略去风险",
+      "科研去风险"
+    ]
+  },
+  {
     "title": "De-Westernisation",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/De-Westernisation.md",
@@ -44041,6 +44052,17 @@
     "subtype": "organization"
   },
   {
+    "title": "Federal Office for Economic Affairs and Export Control",
+    "type": "fact",
+    "path": "wiki/facts/germany/Federal Office for Economic Affairs and Export Control.md",
+    "aliases": [
+      "联邦经济与出口管制局",
+      "BAFA",
+      "Bundesamt für Wirtschaft und Ausfuhrkontrolle"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "Forschungsmonitor Schule",
     "type": "fact",
     "path": "wiki/facts/germany/Forschungsmonitor Schule.md",
@@ -44206,6 +44228,21 @@
       "Centre for International Student Assessment"
     ],
     "subtype": "organization"
+  },
+  {
+    "title": "China Strategy of the Federal Government",
+    "type": "fact",
+    "path": "wiki/facts/germany/China Strategy of the Federal Government.md",
+    "aliases": [
+      "德国联邦政府中国战略",
+      "德国联邦政府《中国战略》",
+      "德国对华战略",
+      "德国联邦政府对华战略",
+      "联邦政府中国战略",
+      "China Strategy of the Federal Government 2023",
+      "Strategie der Bundesregierung zu China"
+    ],
+    "subtype": "policy"
   },
   {
     "title": "German Innovation Policy System",
