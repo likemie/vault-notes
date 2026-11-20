@@ -48351,7 +48351,8 @@
       ],
       "isbn": "9781446269985",
       "seen_in": [
-        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md"
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md",
+        "wiki/methods/quantitative/Binary Logistic Regression.md"
       ],
       "title": "Logistic Regression"
     },
@@ -88054,7 +88055,6 @@
         "wiki/concepts/research-methodology/Consequential Validity.md",
         "wiki/methods/qualitative/Content Analysis.md",
         "wiki/methods/qualitative/Feminist Research.md",
-        "wiki/methods/qualitative/Qualitative Codebook.md",
         "wiki/methods/qualitative/Theoretical Sampling.md"
       ],
       "title": ""
@@ -91941,8 +91941,7 @@
         "wiki/concepts/research-methodology/Reactivity in Qualitative Research.md",
         "wiki/concepts/research-methodology/Researcher as Key Instrument.md",
         "wiki/methods/qualitative/Ethnography.md",
-        "wiki/methods/qualitative/Participant Observation.md",
-        "wiki/methods/qualitative/Qualitative Codebook.md"
+        "wiki/methods/qualitative/Participant Observation.md"
       ],
       "title": ""
     },
