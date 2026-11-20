@@ -8,6 +8,12 @@ summary: "依据德国《职业教育法》设立的联邦公法机构，承担�
 type: fact
 subtype: organization
 region: germany
+fact_region: "germany"
+fact_kind: "organization"
+fact_related_count: 5
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dcfce7"
 org_type: federal-institute
 headquarters: Bonn, Germany
 established: "1970"
@@ -59,7 +65,7 @@ updated: 2026-11-20
 ---
 
 > [!org-evolution] 组织发展历程
-> - **1970–1989** **法制奠基与双元制标准化**
+> - **1970–1989** **制度创立与双元制标准化**
 >
 >   确立国家承认职业的规范化审查规程，推动企业现场技能标准与职业学校框架教学大纲（Rahmenlehrpläne）的跨部门对接机制建立。
 >
@@ -83,4 +89,4 @@ updated: 2026-11-20
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Hippach-Schneider_Rieder_2022_RCIE|Hippach-Schneider & Rieder (2022, pp. 624–625)]] — 梳理 BIBB 主事会在德国职业教育治理架构中的四方法定协商机制，剖析其在数字化技术标准修订过程中的协调功能与多方博弈。
+> - [[Argument_Hippach-Schneider_Rieder_2022_RCIE|Hippach-Schneider and Rieder (2022, pp. 624–625)]] — 梳理 BIBB 主事会在德国职业教育治理架构中的四方法定协商机制，剖析其在数字化技术标准修订过程中的协调功能与多方博弈。

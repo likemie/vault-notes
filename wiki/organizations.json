@@ -1322,6 +1322,15 @@
         "National Center for Fair & Open Testing"
       ]
     },
+    "Federal Institute for Vocational Education and Training": {
+      "path": "wiki/facts/germany/Federal Institute for Vocational Education and Training.md",
+      "names": [
+        "Federal Institute for Vocational Education and Training",
+        "联邦职业教育研究所",
+        "BIBB",
+        "Bundesinstitut für Berufsbildung"
+      ]
+    },
     "Federal Ministry of Education and Research": {
       "path": "wiki/facts/germany/Federal Ministry of Education and Research.md",
       "names": [
@@ -4246,6 +4255,11 @@
     "爱尔兰政府与高等教育战略指导小组": {
       "seen_in": [
         "wiki/facts/ireland/Hunt Report.md"
+      ]
+    },
+    "瑞士联邦议会": {
+      "seen_in": [
+        "wiki/facts/switzerland/Swiss Vocational and Professional Education and Training Act.md"
       ]
     },
     "白宫管理与预算办公室（OMB）": {

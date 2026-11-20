@@ -9,6 +9,12 @@ summary: "德国联邦政府为化解各州公立学校数字化基础设施建�
 type: fact
 subtype: program
 region: germany
+fact_region: "germany"
+fact_kind: "program"
+fact_related_count: 5
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#ede9fe"
 period: "2019–2024"
 initiator_organization: "[[Federal Ministry of Education and Research|德国联邦教育与研究部（BMBF）]]与各州文教部长联席会议（KMK）"
 tags:
@@ -82,4 +88,4 @@ updated: 2026-11-20
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Hippach-Schneider_Rieder_2022_RCIE|Hippach-Schneider & Rieder (2022, pp. 629–630)]] — 将学校数字公约作为剖析德国职业教育“权责分裂”与联邦制协调困境的典型案例，揭示联邦跨越合作禁令进行财政干预的制度限度。
+> - [[Argument_Hippach-Schneider_Rieder_2022_RCIE|Hippach-Schneider and Rieder (2022, pp. 629–630)]] — 将学校数字公约作为剖析德国职业教育“权责分裂”与联邦制协调困境的典型案例，揭示联邦跨越合作禁令进行财政干预的制度限度。

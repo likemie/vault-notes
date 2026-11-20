@@ -44040,6 +44040,17 @@
     "subtype": "organization"
   },
   {
+    "title": "Federal Institute for Vocational Education and Training",
+    "type": "fact",
+    "path": "wiki/facts/germany/Federal Institute for Vocational Education and Training.md",
+    "aliases": [
+      "联邦职业教育研究所",
+      "BIBB",
+      "Bundesinstitut für Berufsbildung"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "Federal Ministry of Education and Research",
     "type": "fact",
     "path": "wiki/facts/germany/Federal Ministry of Education and Research.md",
@@ -44318,6 +44329,18 @@
       "Project COACTIV",
       "教师专业能力与认知激活教学项目",
       "Professional Competence of Teachers, Cognitively Activating Instruction, and the Development of Students' Mathematical Literacy"
+    ],
+    "subtype": "program"
+  },
+  {
+    "title": "DigitalPakt Schule",
+    "type": "fact",
+    "path": "wiki/facts/germany/DigitalPakt Schule.md",
+    "aliases": [
+      "学校数字公约",
+      "数字校园公约",
+      "德国学校数字协定",
+      "Digital Pact for Schools"
     ],
     "subtype": "program"
   },
@@ -49124,6 +49147,20 @@
       "瑞士教育研究协调中心"
     ],
     "subtype": "organization"
+  },
+  {
+    "title": "Swiss Vocational and Professional Education and Training Act",
+    "type": "fact",
+    "path": "wiki/facts/switzerland/Swiss Vocational and Professional Education and Training Act.md",
+    "aliases": [
+      "瑞士联邦职业教育法",
+      "瑞士职业教育法",
+      "BBG",
+      "VPETA",
+      "Berufsbildungsgesetz",
+      "Swiss VPETA"
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Private College Act of 1969",
@@ -56783,6 +56820,11 @@
     "title": "Argument_Fan_Song_Zhai_2024_RSEE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Regional Science and Environmental Economics/Argument_Fan_Song_Zhai_2024_RSEE.md"
+  },
+  {
+    "title": "Argument_Hippach-Schneider_Rieder_2022_RCIE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Hippach-Schneider_Rieder_2022_RCIE.md"
   },
   {
     "title": "Argument_Rappleye_2006_RCIE",

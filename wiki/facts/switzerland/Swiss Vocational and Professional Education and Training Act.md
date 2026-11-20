@@ -11,6 +11,12 @@ summary: "依据 1999 年瑞士联邦宪法修正案制定的全国性职业教�
 type: fact
 subtype: policy
 region: switzerland
+fact_region: "switzerland"
+fact_kind: "policy"
+fact_related_count: 3
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: 瑞士联邦议会
 tags:
   - region/switzerland
@@ -77,4 +83,4 @@ updated: 2026-11-20
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Hippach-Schneider_Rieder_2022_RCIE|Hippach-Schneider & Rieder (2022, pp. 627–628)]] — 将《瑞士联邦职业教育法》第 1 条合作原则与第 63 条宪制整合作为分析基准，论证瑞士依托统合型三方治理在数字化转型中达成敏捷调适的制度机制。
+> - [[Argument_Hippach-Schneider_Rieder_2022_RCIE|Hippach-Schneider and Rieder (2022, pp. 627–628)]] — 将《瑞士联邦职业教育法》第 1 条合作原则与第 63 条宪制整合作为分析基准，论证瑞士依托协同型三方治理在数字化转型中达成敏捷调适的制度机制。
