@@ -9,7 +9,7 @@ aliases:
 summary: "Antonio Gramsci (1971) 的权力理论：区分强制与霸权，指支配群体通过法律、教育、媒体、科学、大学及智能算法等文化制度，正当化其统治并赢得被统治者积极同意的治理机制。在教育中，学校课程、全球大学排名与平台技术嵌入充当了制造文化共识与自然化中心—边缘等级的霸权装置。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 50
+theory_related_count: 52
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -56,6 +56,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Sinicisation]]"
+  - "[[Scientific Hegemony]]"
 related_theories:
   - "[[Critical Theory]]"
   - "[[Post-colonial Theory]]"
@@ -81,6 +82,7 @@ related_arguments:
   - "[[Argument_Du_Yuan_2026_AIS]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Yu_2024_CE]]"
+  - "[[Argument_VonDerHeyden_Heinze_2025_PLOSONE]]"
 confidence: high
 status: active
 created: 2026-05-13
@@ -222,7 +224,7 @@ updated: 2026-11-20
 > |:---|:---|:---|:---|:---|:---|
 > | [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] | 217 册国家统编必修教材；37 名少数民族/信教大学生 | 批判性[[Discourse Analysis\|话语分析]]（CDA）与质性[[In-depth Interview\|深度访谈]] | 教科书汉儒等价化修辞频次；学生对霸权共识的同意度与反抗表述 | • **86%** 学生拒斥儒家垄断中华文化<br>• **43%** 批判其男权与封建等级性<br>• 呈现系统性的“师生教化隐喻” | 经验证实课程霸权无法达成绝对控制，边缘学生展现出高度反霸权批判主体性。 |
 > | [[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]] | 全球前 200 顶尖大学排名数据与学术出版引文网络（1990–2020） | 历史比较制度分析与[[Geopolitics of Higher Education\|高等教育地缘政治]]学追踪 | 英美大学在世界排名中的集中度与学术英语全球化指标 | • 英美大学垄断全球前 20 强达 **85%** 以上<br>• 全球高被引出版物中英语成果占比超 **90%** | 确证高等教育全球化呈现出高度不对称的盎格鲁-美利坚学术霸权生成结构。 |
-> | [[Argument_VonDerHeyden_Heinze_2025_PLOSONE|von der Heyden & Heinze (2025)]] | 1901–1969 年诺贝尔物理学与化学奖 8110 次有效提名观测 | 二元 Logistic 回归（控制候选人与提名人国别） | 科学霸权国身份与同行推选成功率 | 霸权国候选人获奖溢价显著（1933 年前德国 $AME = 0.10$；1934 年后美国 $AME = 0.05$）；提名人安置力持续显著为负（$AME = -0.04$ / $-0.03$） | 实证确证国际科学霸权通过客观学术声誉而非提名权对评奖决策的直接操纵来实现再生产 |
+> | [[Argument_VonDerHeyden_Heinze_2025_PLOSONE\|von der Heyden & Heinze (2025)]] | 1901–1969 年诺贝尔物理学与化学奖 8110 次有效提名观测 | 二元 Logistic 回归（控制候选人与提名人国别） | 科学霸权国身份与同行推选成功率 | 霸权国候选人获奖溢价显著（1933 年前德国 $AME = 0.10$；1934 年后美国 $AME = 0.05$）；提名人安置力持续显著为负（$AME = -0.04$ / $-0.03$） | 实证确证国际科学霸权通过客观学术声誉而非提名权对评奖决策的直接操纵来实现再生产 |
 
 ---
 

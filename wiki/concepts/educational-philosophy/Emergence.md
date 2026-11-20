@@ -93,7 +93,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-11-11
+updated: 2026-11-20
 ---
 
 ---
@@ -187,7 +187,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题三｜涌现作为质性自然主义[[Paradigm|范式]]的核心公理贯穿理论扎根与设计演进
-> **涌现机制对质性探究方法论的规范奠基** 论证自然主义[[Qualitative Research|质性研究]]如何将涌现原理内化为探究的本体论承诺，规范理论从实地数据中生发以及研究设计随现场深入而动态迭代。
+> **涌现机制对质性探究方法论的规范建构** 论证自然主义[[Qualitative Research|质性研究]]如何将涌现原理内化为探究的本体论承诺，规范理论从实地数据中生发以及研究设计随现场深入而动态迭代。
 
 > [!claim] Lincoln and Guba (1985) & Parlett (1976)
 > **双重涌现公理重塑质性探究形态** 在自然主义[[Paradigm|范式]]中，涌现表现为理论的涌现（实地情境中动态涌现的[[Grounded Theory|扎根理论]]取代先验假设）与设计的涌现（研究设计随着现场沉浸与抽样重构而持续演变）；探究者通过[[Progressive Focussing|逐步聚焦]]（Progressive Focussing）使认知过程契合现实世界的自组织属性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 404–405, 435)]]
@@ -215,7 +215,7 @@ updated: 2026-11-11
 > |---|---|---|---|
 > | **自组织微观生成** | 复杂全局秩序由底层行动者遵循简单局部规则的微观互动自发派生 | 复杂适应系统、学校[[Organizational Culture\|组织文化]]、计算仿真、科学网络 | Waldrop; Lewin; Kauffman; Reynolds; Wang & Barabási; [[Argument_Fortunato_2018_Science\|Fortunato et al. (2018)]] |
 > | **整体不可还原** | 涌现的高阶整体具有全新属性与不可逆质变，不可向下分解还原 | 系统哲学、教育生态系统、宏观制度演变 | Davis & Sumara; Bar-Yam; Goodwin |
-> | **质性方法论奠基** | 涌现公理贯穿理论扎根生成与研究设计的实地动态演进 | [[Interpretive Paradigm\|自然主义探究]]、扎根理论、逐步聚焦策略 | Lincoln & Guba; Glaser & Strauss; Flick |
+> | **质性方法论建构** | 涌现公理贯穿理论扎根生成与研究设计的实地动态演进 | [[Interpretive Paradigm\|自然主义探究]]、扎根理论、逐步聚焦策略 | Lincoln & Guba; Glaser & Strauss; Flick |
 > | **实证因果解构** | 开放世界的动态涌现性否定受控实验保持变量恒常的逻辑基础 | [[Randomised Controlled Trials\|随机对照试验]]反思、教育干预评估 | Morrison; Kuhn |
 > | **计算认知智能涌现** | 万亿参数隐空间在跨越临界尺度后自发涌现出常识力学推理与概念具象化 | 大模型预训练、[[Artificial General Intelligence\|通用人工智能]]、心智哲学 | Bubeck et al.; Karp & Zamiska |
 
