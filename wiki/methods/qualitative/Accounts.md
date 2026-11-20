@@ -1,7 +1,11 @@
 ---
 title: Accounts
-aliases: [行动陈述, 行动说明, 陈述法, account]
-summary: "一种以情境中的语言为焦点的质性资料收集方法，通过引发和分析参与者对其行动的言语说明来解释社会行为，植根于人因取向和诠释范式。"
+aliases:
+  - 行动陈述
+  - 行动说明
+  - 陈述法
+  - account
+summary: "一种以情境中的语言为焦点的质性资料收集与分析方法，通过引发和分析参与者对其行动的言语说明来解释社会互动，植根于人因取向与诠释范式。"
 type: method
 method_type: qualitative
 method_family: "qualitative"
@@ -11,7 +15,10 @@ method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
 cssclasses:
   - method-manual
-tags: [method/qualitative, data-collection, paradigm/interpretive, theme/language]
+tags:
+  - method/qualitative
+  - qualitative-research
+  - data-collection
 related_concepts:
   - "[[Social Episodes]]"
   - "[[Unit of Analysis]]"
@@ -41,78 +48,78 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-11-06
+updated: 2026-11-21
 ---
 
 ---
 
 > [!def] Accounts
-> 陈述法是以**情境中的语言（language in context）** 为焦点的资料收集与分析方法，研究对象涵盖言语行为、[[Ethnomethodology|俗民方法学]]、对话分析与[[Discourse Analysis|话语分析]]。陈述包含语言的描述性、分析性与解释性特征，关注语言在社会行动中的运作逻辑，即语言兼具社会行动的形式与载体双重功能（Wooffitt, 1993, p. 303）。陈述亦指行动者为使其行为对他人变得可理解与可辩护而作出的言语说明，例如日常互动中的致歉说明通过将行为界定为非预谋偶发事件以化解人际冲突（Harré, 1978）。
+> **陈述法（Accounts）** 是一种以情境中的语言（language in context）为焦点的质性资料收集与分析方法。它通过引发和分析行动者为使其行为对他人变得可理解与可辩护而作出的言语说明，揭示社会互动背后的意义建构、规则遵循与解释图式（Harré, 1978；Wooffitt, 1993）。其核心分析单位为行动者的言语陈述与[[Social Episodes|社会片段]]，典型输出为研究者对参与者言语说明的分析性重构（accounts of accounts）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22|Cohen et al., 2011, pp. 441–442]]）。
 
 > [!method-scope] 方法范围
-> - **研究对象** 参与者在[[Social Episodes\|社会片段]]中的言语说明，包括其意图、信念、对规则的认识，以及伴随行动的言语。
-> - **问题类型** 解释参与者如何理解其社会世界、如何赋予行动以意义、以及社会互动如何通过语言被建构和协商。
-> - **[[Unit of Analysis\|分析单位]]** 个体陈述、社会片段、对话序列、录音访谈。
-> - **输出形式** 对陈述的再陈述（accounts of accounts）——即研究者对参与者言语说明的分析性重构，包括主题、解释图式和意义系统。
+> - **研究对象** 参与者在[[Social Episodes|社会片段]]中的言语说明，包括行动意图、信念、对社会规则的理解，以及伴随行为发生的言语互动。
+> - **问题类型** 适合回答解释性与描述性问题，探究参与者如何理解其社会世界、如何赋予行动以意义，以及互动秩序如何通过语言被协商与建构。
+> - **分析单位** 个体言语陈述、社会交往片段、对话序列或录音访谈转录本。
+> - **输出形式** 对陈述的再陈述（accounts of accounts）——即研究者对参与者言语说明的系统性重构，涵盖核心主题、解释图式与意义结构。
 
-> [!citation-card] 关键定义
-> 解释我们的行为可以理解为**为我们的行动作出说明（accounting for our actions）**，以使它们对周围的人变得可理解和可辩护。（第22章, p.441）
+> [!citation-card] 行为说明与社会可辩护性
+> 解释我们的行为可以理解为**为我们的行动作出说明（accounting for our actions）**，以使它们对周围的人变得可理解和可辩护。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22|(Harré, 1978; 引自 Cohen et al., 2011, p. 441)]]
 >
-> *Explaining our behaviour towards one another can be thought of as accounting for our actions in order to make them intelligible and justifiable to our fellow beings. (Harré, 1978)*
+> *Explaining our behaviour towards one another can be thought of as accounting for our actions in order to make them intelligible and justifiable to our fellow beings.*
 
 ---
 
-> [!method-position] [[Epistemology\|认识论]]与方法定位
-> - **知识观** 知识在主体间的人际互动中生成，体现为参与者在具体社会情境中赋予行动以意义的言语建构产物。
-> - **研究者角色** 研究者进入参与者的意义世界，通过参与者的眼睛看待情境，捕捉其[[Intentionality|意向性]]和对复杂情境的解释。研究者需要对陈述作出再陈述，这要求[[Reflexivity\|反身性]]和对多重意义的敏感。
-> - **有效性标准** 陈述的真实性（authenticity）通过协商、[[Internal Consistency\|内部一致性]]、交叉佐证和[[Member Tests\|成员核验]]来判断。不存在传统意义上的好与坏陈述，只有对社会遭遇的不同理论解释。
-> - **不声称回答的问题** 不声称产生普遍规律或统计概括；不声称单一精确测量；所获意义是多元的，不可穷尽。
+> [!method-position] 认识论与方法定位
+> - **知识观** 知识生成于主体间的人际互动过程，体现为行动者在特定社会情境中赋予行为以意义的语言建构产物。
+> - **研究者角色** 理解者与反身性重构者。研究者进入参与者的意义世界，捕捉行动者的[[Intentionality|意向性]]；同时保持[[Reflexivity|反身性]]，明确自身对陈述的重构也是一种情境化文本。
+> - **有效性标准** 质性真确性（authenticity），主要通过内部一致性检验、协商验证、交叉检查（[[Cross-checking]]）以及成员核验（[[Member Tests]]）来确立。
+> - **不声称回答的问题** 不声称产出跨情境的统计因果律或普适性实证模型；所揭示的行动意义具有多元性与情境嵌入性，无法还原为单一测量标量。
 
 > [!method-stack] 方法层级
-> - **研究设计** [[Ethogenic Approach\|人因研究]]、[[Ethnography\|民族志研究]]、[[Interpretive Paradigm\|自然主义探究]]
-> - **数据收集** 访谈（录音）、自由评论法、[[Qualitative Experience-Sampling Method\|质性经验取样法]]、[[Account Gathering\|陈述收集]]框架（Brown & Sime）
-> - **分析方法** 内容分类、主题追踪、遗漏分析、生活世界重建、假设检验、[[Network Analysis\|网络分析]]、[[Discourse Analysis\|话语分析]]
-> - **辅助技术** [[Transcription in Qualitative Research\|转录]]、[[Cross-checking\|交叉检查]]、成员核验、协商验证
+> - **研究设计** [[Ethogenic Approach|人因研究]]、[[Ethnography|民族志研究]]、[[Interpretive Paradigm|自然主义探究]]。
+> - **数据收集** 录音访谈、自由评论法、[[Qualitative Experience-Sampling Method|质性经验取样法]]、陈述收集框架（[[Account Gathering]]）。
+> - **分析方法** 内容类属分析、主题追踪、生活世界重建、对话序列分析、[[Discourse Analysis|话语分析]]。
+> - **辅助技术** 会话[[Transcription in Qualitative Research|转录]]、副语言标注、[[Cross-checking|交叉检查]]、成员核验。
 
 ---
 
 > [!proc] 通用程序
-> 1. 明确社会交往片段、互动情境、行动者角色与分析单位。
-> 2. 选取典型社会情境与信息提供者，建立信任并协商进入现场。
-> 3. 引发行动者的口头或书面言语陈述，记录完整会话并进行转录与副语言标注。
-> 4. 发展尝试性解释图式，通过交叉检查、成员核验与多方会话比对进行真确性检验。
-> 5. 撰写研究者对陈述的再陈述（accounts of accounts），呈现主题、解释图式与意义系统。
+> 1. 明确研究问题、界定相关的社会交往片段（Social Episodes）与行动者角色。
+> 2. 选取典型社会情境与关键信息提供者，协商进入现场并建立研究信任关系。
+> 3. 引发参与者的口头或书面言语陈述，记录完整会话并完成精细化文本转录。
+> 4. 发展尝试性解释图式，通过同伴交叉检查与参与者成员核验开展真确性校准。
+> 5. 撰写研究者对陈述的再陈述（accounts of accounts），系统呈现行动者的意义系统。
 
 > [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
 > |---|---|
-> | 材料来源 | 录音访谈、参与者观察记录、[[Dialogue in Education\|对话]][[Transcription in Qualitative Research\|转录]]。陈述可以是个人记录、对话、信件、日记等。 |
-> | 抽样或选案 | 界定社会片段的角色群体 → 识别典型代表 → 选择个体信息提供者（Brown & Sime, 1981） |
-> | 研究者位置 | 研究者需建立融洽关系、协商进入现场、保持[[Reflexivity\|反身性]]，并对自己作出的对陈述的再陈述负责 |
-> | 资料边界 | 以[[Social Episodes\|社会片段]]为自然边界；需说明分析所基于的片段范围和时间跨度 |
+> | 材料来源 | 深度录音访谈、参与观察记录、对话转录本、日记、信件或生活史自述。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22\|(Cohen et al., 2011, pp. 443–445)]] |
+> | 抽样或选案 | 界定特定社会片段中的角色群体，识别典型代表，选取具有丰富经验阐述能力的个体行动者（Brown & Sime, 1981）。 |
+> | 研究者位置 | 研究者需建立融洽的人际关系、协商进入现场，并对自身在再陈述中的主观视角保持反身性反思。 |
+> | 资料边界 | 以具体的[[Social Episodes\|社会片段]]为自然时空边界，明确分析所涵盖的互动情境与时间跨度。 |
 
 > [!proc] 质性分析程序
-> 1. 在自然情境中引发参与者的言语陈述，使用录音记录完整对话
-> 2. 转录口头材料为文本，注意语调、停顿、强调等副语言信息
-> 3. 反复聆听和阅读以获取整体感，进入参与者的意义世界
-> 4. 逐步发展尝试性解释图式，在研究进行中修改、确认或[[Falsification\|证伪]]
-> 5. 通过[[Cross-checking\|交叉检查]]和[[Member Tests\|成员核验]]验证分析的真确性
-> 6. 撰写研究者对陈述的再陈述——摘要、概览和解释
+> 1. **自然情境言语引发** 在贴近日常生活的自然情境中引导参与者陈述，利用录音设备完整记录对话与情境互动（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22|Cohen et al., 2011, p. 443]]）。
+> 2. **转录与副语言标注** 将口头叙述转录为文字，细致保留语调、停顿、重音等副语言线索，以还原话语的情感色彩与深层意涵。
+> 3. **整体浸润与移情理解** 反复聆听录音并研读转录文本，从参与者的第一人称视角理解其行为理由与价值判断。
+> 4. **提炼尝试性解释图式** 逐步识别陈述中的关键主题与归因逻辑，构建能够阐释行动连贯性的解释框架，并在分析过程中持续验证与修正。
+> 5. **交叉检验与成员核验** 结合多位研究者的独立编码协商（Cross-checking），并将初步分析反馈给参与者进行核实（Member Tests），评估解释的真确性。
+> 6. **撰写再陈述成果** 产出包含原始引语、主题框架与结构化解释的综合研究报告，呈现情境化行动意义。
 
 ---
 
 > [!method-fit] 适用判断
-> - **适合使用** 研究参与者如何理解其社会世界；研究[[Social Episodes\|社会片段]]中的意义系统和互动动态；研究伴随行动的言语如何使行动变得可理解和可辩护；需要捕捉[[Intentionality|意向性]]和多重意义的研究。
-> - **谨慎使用** 当参与者可能因各种原因（权力不对称、文化差异、社会期望）而无法或不愿提供完整陈述时；当研究者的解释可能过度偏离参与者自身理解时；当陈述之间的不一致需要额外的[[Triangulation\|三角验证]]时。
-> - **不适合使用** 需要统计概括或[[Causality\|因果推断]]的研究；需要标准化测量和跨情境比较的研究；需要排除研究者解释影响的研究。
+> - **适合使用** 探究行动者对其行为的自我合理化说明、分析师生或组织微观互动动态、揭示特定亚文化群体的价值规范与社会规则认知。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22|(Cohen et al., 2011, pp. 441–442)]]
+> - **谨慎使用** 参与者受权力不对称、社会期望压力或创伤记忆影响而倾向于策略性隐瞒真实动机的情境；需辅以多方三角互证。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22|(Cohen et al., 2011, pp. 456–457)]]
+> - **不适合使用** 旨在推导普适性因果定律、大样本总体参数估计或脱离具体情境的标准化跨国指标测评。
 
 ---
 
 > [!method-limits] 方法局限
-> - **偏误来源** 多数行为可以被赋予多重意义，且多种意义可同时有效（Menzel, 1978）；研究者可能将自身意义强加于参与者陈述之上；参与者的陈述可能受社会期望、记忆偏差和情境压力影响。
-> - **适用边界** 不声称产生普遍规律；分析结果的情境嵌入性限制了可转移性；研究者作出的陈述之再陈述本身也是可被分析的文本。
-> - **误用风险** 将一个意义当成那个意义是谬误的（Menzel, 1978）；将参与者的陈述视为完全透明的信息窗口；忽视陈述中的权力不对称和意识形态维度。
-> - **补救方式** [[Cross-checking\|交叉检查]]（多位研究者独立分析后协商）、[[Member Tests\|成员核验]]（将解释带回参与者征求意见）、[[Reflexivity\|反身性]]记录、[[Triangulation\|三角验证]]。
+> - **偏误来源** 行为意义的多重性与模糊性（同一行动可能蕴含多种同时成立的合理解释，见 Menzel, 1978）；研究者先入为主的概念强加；参与者记忆重构与事后合理化偏误。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22|(Cohen et al., 2011, p. 456)]]
+> - **适用边界** 研究成果高度嵌入于特定的文化与交往情境，不可作机械的跨情境推广；研究者形成的再陈述本身亦属于一种待解构的文本。
+> - **误用风险** 将参与者的单一陈述误作为客观事实的唯一直观镜像；忽视陈述生产过程中的权力关系与话语操纵。
+> - **补救方式** 采用多研究者交叉比对（Cross-checking）、开展参与者成员核验（Member Tests）、详实记录研究反身性备忘录，并结合[[Triangulation|三角验证]]提高解释的信实度。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22|(Cohen et al., 2011, pp. 457–458)]]
 
 ---
 
@@ -120,15 +127,15 @@ updated: 2026-11-06
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Ethogenic Approach]] | 前置方法 | 人因取向是[[Account Gathering\|陈述收集]]与分析的理论基础和方法论框架 |
-> | [[Account Gathering]] | 子方法 | 陈述收集是陈述法中引发和记录陈述的具体操作程序 |
-> | [[Qualitative Experience-Sampling Method]] | 子方法 | [[Qualitative Experience-Sampling Method\|质性经验取样法]]是引发和分析陈述的一种具体质性技术 |
-> | [[Discourse Analysis]] | 姐妹方法 | 话语分析同样以情境中的语言为焦点，但更侧重语言如何执行社会行动 |
-> | [[Ethnomethodology]] | 理论基础 | 俗民方法学提供了将日常活动作为经验研究对象的理论前提 |
-> | [[Member Tests]] | 验证方法 | 成员核验是验证陈述分析真确性的核心手段 |
-> | [[Cross-checking]] | 验证方法 | 交叉检查是预防研究者偏见的安全措施 |
+> | [[Ethogenic Approach]] | 前置方法 | 人因研究为陈述法提供核心理论假设与行动分析框架。 |
+> | [[Account Gathering]] | 子方法 | 陈述收集是陈述法中激发、记录与整理言语陈述的操作技术。 |
+> | [[Qualitative Experience-Sampling Method]] | 子方法 | 质性经验取样法可作为即时捕捉日常陈述的抽样工具。 |
+> | [[Discourse Analysis]] | 替代方法 | 话语分析同样聚焦语言，但更侧重话语在权力运作与制度建构中的执行功能。 |
+> | [[Ethnomethodology]] | 理论 | 俗民方法学为将日常言语活动视作可解释的实践成就奠定认识论基础。 |
+> | [[Member Tests]] | 补充方法 | 成员核验是检验研究者再陈述与行动者原初理解是否吻合的关键质控手段。 |
+> | [[Cross-checking]] | 补充方法 | 多编码者交叉检查用于降低单一研究者主观推论偏倚。 |
 
 ---
 
-> [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22|Cohen et al. (2011, Ch. 22)]] — 系统阐述陈述法的理论根基、引发与分析程序（Kitwood 八种方法、Brown & Sime 框架）、应用案例及方法论问题（pp. 441–460）。
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22|Cohen, Manion & Morrison (2011, Ch. 22)]] — 系统阐述陈述法的理论根基、引发与分析程序（Kitwood 方案与 Brown & Sime 框架）、应用案例及方法论限度（pp. 441–460）。

@@ -1421,6 +1421,10 @@
     {
       "sentence": "其实验物理学的突破直接伴随斯坦福跻身世界顶尖学府，而战后美国得主高频推荐本土同僚的行为，进一步强化了北美学术体制的统治地位 (Heinze & Fuchs, 2022)。",
       "target": "wiki/concepts/educational-philosophy/Philosophical Aesthetics.md"
+    },
+    {
+      "sentence": "*While Crawford interprets high levels of own-country nominations as indicative of national chauvinism, we take a broader perspective on self-nominations that accounts for their structural role in scientific recognition.",
+      "target": "wiki/methods/qualitative/Accounts.md"
     }
   ],
   "wiki/concepts/research-methodology/Theoretical Perspective.md": [
