@@ -264,7 +264,7 @@ updated: 2026-11-21
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **专业自主与问责重塑** | 量化绩效与管理主义问责替代专业[[Phronesis\|实践智慧]]与育人审议，规训[[School Leadership\|学校领导]]者 | 基础教育学校领导、督导评级与课程交付 | Møller; Eacott |
-> | **高等教育市场化与分层** | 财政紧缩倒逼大学企业化运营与国际生源商品化，强化资源马太效应 | 高等教育治理、科研评价与[[Transnational Education\|跨国教育]]市场 | Rizvi; Schulze-Cleven et al.; Amos |
+> | **高等教育市场化与分层** | 财政紧缩迫使大学加速企业化运营与国际生源商品化，强化资源马太效应 | 高等教育治理、科研评价与[[Transnational Education\|跨国教育]]市场 | Rizvi; Schulze-Cleven et al.; Amos |
 > | **[[Output-Oriented Governance\|循证治理]]与证据异化** | 借循证实践与性价比核算推行分权表象下的集中规训与逆向证据生产 | 教师教育准入资质、核心框架与宏观政策合法化 | Helgetun & Menter |
 > | **公共动态能力剥离与青蛙视角** | 咨询外包导致组织去技能化，微观成本考核扼杀长期高风险探索与系统学习 | 国家科技创新战略、公共部门组织能力与[[Grand Challenges\|重大挑战]]治理 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018)]]; [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] |
 > | **制度分化与评估国家悖论** | 揭示英美市场代理化（Next Steps）与大陆网络间接操纵的制度边界，剖析事后质量评估潜在的事后隐性集权风险 | 比较公共行政、欧洲高等教育治理范式转型与审计文化反思 | [[Argument_Kickert_1995_Governance\|Kickert (1995)]] |
@@ -321,7 +321,7 @@ updated: 2026-11-21
 > [!critique] 外部批评
 > - **教育与公共目的的窄化与技术化** 将复杂的育人与公共治理过程简化为可测量的产出指标，使公共政策脱离民主审议，遮蔽了社会正义目标。[[Argument_Møller_2017_EERJ\|(Møller, 2017, p. 382)]]
 > - **准市场下的制度化马太效应** 竞争性拨款指标偏向已有优势的顶尖精英机构，系统性加剧了资源配置的不平等。[[Argument_Schulze-Cleven_2017_HE\|(Schulze-Cleven et al., 2017, p. 802)]]
-> - **基于政策的证据异化** 在[[Evidence Era\|证据时代]]，NPM 对性价比与政治适宜性的追求倒逼学术研究沦为迎合政客预期的修辞工具，损害了学术探索的独立性。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 93–94)]]
+> - **基于政策的证据异化** 在[[Evidence Era\|证据时代]]，NPM 对性价比与政治适宜性的追求迫使学术研究退化为迎合政客预期的修辞工具，损害了学术探索的独立性。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 93–94)]]
 > - **公共部门去技能化与治理空心化** 过度依赖外部管理咨询公司剥离了公共部门内生解决问题的经验积累，使国家在面对危机时缺乏战略研判与技术鉴别能力。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 791–792)]]
 > - **“评估国家”的事后集权悖论（Evaluative State Paradox）** 1990 年[[OECD|经合组织]]（OECD）荷兰高教审查指出，NPM 式的“去细化规章与扩大自治”潜藏着反向集权风险：一旦国家将事后质量评估与严厉财政制裁挂钩，繁密的质量审计指标便会取代事前审批，导致国家控制力不降反升，令公共机构深陷审计官僚主义泥潭。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 154)]]
 
@@ -340,7 +340,6 @@ updated: 2026-11-21
 > | [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] | 英美跨国[[Policy Borrowing\|政策借用]]与福利改革筛选 | 政策文本分析与决策官员[[In-depth Interview\|深度访谈]] | 新西兰 NPM 模式（市场化契约与经办分离）vs 美国循证实验模式 | 新西兰推行经办分离与财务审计，但因缺乏个体层面的失业转化因果实证数据，在英国官方筛选中仅被列为“有限参考”，最终全面让位于美国基于[[Random Assignment\|随机分配]]实验的循证模式 | 揭示 NPM 传统的运营效率与财务审计指标在因果干预评估刚需下的解释局限 |
 > | [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al. (2017)]] | 英国与德国高等教育科研卓越框架（REF） | 跨国高等教育制度比较与拨款数据追踪 | 科研[[Performance Indicators\|绩效指标]]（KPIs）与公共科研经费分配比例 | 绩效指标导向的拨款导致资源高度集中化，全英前 20% 的精英[[Research Universities\|研究型大学]]捕获了超过 75% 的公共研究拨款，强化了机构间马太效应 | 针对英德高教体制，揭示量化绩效拨款对学术层级分化的制度固化效应 |
 > | [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] | 英格兰教师教育改革 35 年制度变迁 | 政策历程追踪与供给机构份额统计 | 教师准入从大学主导向校本（SCITT / School Direct）市场化转移 | 大学传统[[Normal School\|师范教育]]供给份额遭系统性压缩，市场化准入与国家核心内容框架远程监控并行，循证实践呈现政策辩护工具化倾向 | 确立 NPM 分权外包表象下国家通过资质规程实施远程集权控制的微观机制 |
-> | [[Argument_Sarbiewska_2019_KiW\|Sarbiewska (2019)]]（引自 Wylie, 1999） | 新西兰 1989 年《明日学校》基础教育十年改革追踪 | 国家政策演进追踪与实证审查 | 激进市场化分权、家长校董会治理、[[School Inspection\|教育审查办公室]]（ERO）督导 vs 学生学业与公平 | 激进结构性分权与竞争机制未能带来学生学业成就的普遍提升，亦未能改善原住民与弱势群体教育公平；十年后促使国家政策由结构改革转向微观课堂教学有效性 | 证实单纯依赖新公共管理组织重构与外部问责无法自发转化为课堂教学质量与育人成效 |
 
 ---
 

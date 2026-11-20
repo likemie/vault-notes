@@ -143,6 +143,7 @@ related_arguments:
   - "[[Argument_Erfurth_2022_education-hubs]]"
   - "[[Argument_Lim_2015_CurricInq]]"
   - "[[Argument_Gopinathan_2007_GSE]]"
+  - "[[Argument_Munch_2014_TCR]]"
 confidence: high
 status: completed
 created: 2026-05-07
@@ -291,6 +292,7 @@ updated: 2026-11-19
 > - **发展型[[Network Governance|网络治理]]与虚构商品批判（2000s–2008） — 跨组织协同与产权反思** [[Fred Block|弗雷德·布洛克]]基于美国《R&D 100》大奖纵向追踪证实，后工业知识经济的突破性创新已从单一企业封闭研发转向由大学、联邦实验室与企业构成的跨组织网络，确立了去中心化[[Developmental Network State|发展型网络国家]]在[[Pasteur's Quadrant|巴斯德象限]]中的中介功能；同时从卡尔·波兰尼（Karl Polanyi）虚构商品视角批判了激进知识产权占有对开放科学与跨界研发协作的制度性反噬。[[Argument_Block_2008_PS|(Block, 2008, pp. 171–176, 195–198)]]
 > - **2009 — 超国家软法数据治理与成人生活技能转向** 索蒂里亚·格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, pp. 26–27, 32–35]]）基于[[European Education Space|欧洲教育空间]]经验揭示知识经济下的两重治理机制：欧盟在[[Lisbon Strategy|里斯本战略]]下通过开放协调法与采购经合组织数据实施软法治理，突破辅助性原则限制；同时大规模跨国测评跳过具体课程大纲，直接考核面向成人市场的生活技能与终身学习自我调节，推动个体在知识经济中承担自我优化的终身责任。
 > - **2009 — 超国家全景敞视式知识经济规训批判** 帕西亚斯与鲁萨基斯解构里斯本战略，揭示知识被定义为易耗商品后，超国家实体如何依托开放协调法构筑全景敞视式软法监视体系，将成员国教育体系规训为知识经济竞争工具。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480–482, 486–487)]]
+> - **2014 — 德国区位竞争与知识经济话语对本土教育生态的规制与制度混杂危机** [[Argument_Munch_2014_TCR|Münch (2014)]] 揭示跨国认知精英与经济精英如何借由达沃斯 WEF 与经合组织，将国家区位竞争与知识经济话语转化为 PISA 测评规制，在与德国深度分科教化传统和三轨分流体制的碰撞中催生出功能失调的制度混杂体。
 > - **全球扩散与空间运作（2000s–2010s） — 教育出口与枢纽建设** 亚洲国家与澳大利亚将 KBE 转化为教育出口战略；新加坡与迪拜通过“教育枢纽”政策将大学完全产业化为经济增长极。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022)]]; [[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022)]]
 > - **2017 — 跨区域比较中的知识话语本土化赋权** 周孟萱与波琳·拉维内（[[Argument_Chou_2017_PolSoc|Chou & Ravinet, 2017, pp. 147–149, 153–155]]）揭示全球知识经济话语在区域一体化中的双重赋权机制：在欧洲被用作将高等教育吸纳进统一大市场战略的深层协调支点，在东南亚则充当在不触碰国家主权红线的前提下推进跨国高教务实合作的合法化锚点。
 > - **智能时代评价重构（2020s至今） — 聚焦高阶认知素养与评价治理** 面对生成式 AI 与劳动力深度重组，OECD 等国际组织反思“教育扩张”数量指标，转向推动以[[Critical Thinking|批判性思维]]、[[Creativity|创造力]]与真实表现任务为核心的高教评价与治理变革。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023)]]
@@ -311,6 +313,7 @@ updated: 2026-11-19
 > >
 > > - **[[OECD|经济合作与发展组织]]（OECD）与知识经济政策[[Discourse|话语]]** 坚称知识与技能是后工业经济增长的内生核心动力；必须推动学习从正规编码化的“[[Knowledge-that and Know-how-to|知其然]]”转向灵活实用的“知其操作”与[[Lifelong Learning|终身学习]]，教育投资的首要合法性在于培育适应全球竞争的人力资本。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–446)]]
 > > - **批判教育政策社会学立场（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）** 指出知识经济[[Social Imaginary|社会想象]]遮蔽了替代性社会经济方案；[[Economic Fundamentalism|经济基要主义]]将教育降格为经济附庸，不仅抽空了机会均等与社会资本的实质正义内涵，更侵蚀了战后教育作为民主公物的根本[[Public Value|公共价值]]。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 448–452)]]
+> > - **区位竞争与制度混杂批判（[[Argument_Munch_2014_TCR|Münch, 2014]]）** 指出将教育全面收拢为国家区位竞争与知识经济人力资本工具，瓦解了战后达伦多夫“教育即公民权”的民主基石与学科教化传统，迫使学校陷入浅层通用技能的流水线规训。
 
 > [!critique] 外部学术批判
 > - **[[Spatial Sortings|空间分化]]与不平等极化** [[Progressive Neoliberalism|进步新自由主义]]的知识经济极度偏向少数跨国大都市[[Innovation Hub|创新枢纽]]，导致非枢纽中小城镇与农村地区经历不可逆的经济衰退与人才流失。[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 30–32)]]
@@ -355,6 +358,7 @@ updated: 2026-11-19
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Munch_2014_TCR|Münch (2014)]] — 阐明跨国认知与经济精英如何将知识经济与国家区位竞争话语转化为 PISA 规制，并在与德国传统制度碰撞中诱发功能失调的制度混杂体。
 > - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 追溯新加坡“思考型学校，学习型国家”如何推动教育向能力驱动转型，揭示发展型国家在知识经济诉求与高利害分流问责之间构建的混合调和机制。
 > - [[Argument_Lim_2015_CurricInq|Lim and Apple (2015)]] — 揭示新自由主义知识经济话语在微观学校层面的阶层化分异，批判性思维虽被标榜为全体国民应对知识经济的必备素养，但在实践中被分化为精英掌控理性与工薪阶层应试规训技术。
 > - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 阐明新加坡强发展型国家在知识经济转型中如何推行[[Tactical Marketisation|战术性市场化]]与[[Teach Less, Learn More|少教多学]]改革，揭示制度放权与升学统考刚性之间的结构性悖论。
