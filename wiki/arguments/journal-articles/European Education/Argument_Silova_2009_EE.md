@@ -34,6 +34,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Area Studies]]"
   - "[[International Education]]"
+  - "[[Extreme Historicism]]"
   - "[[Variable]]"
   - "[[Scientism]]"
   - "[[Comprehensive Education]]"
@@ -68,6 +69,7 @@ related_persons:
   - "[[Susanne Shafer]]"
   - "[[Iveta Silova]]"
 related_facts:
+  - "[[European Education]]"
   - "[[National Defense Education Act of 1958]]"
   - "[[United States Congress]]"
   - "[[M.E. Sharpe]]"
@@ -96,9 +98,9 @@ title: "Argument_Silova_2009_EE"
 argument_key: "Argument_Silova_2009_EE"
 argument_display_title: "The changing frontiers of comparative education: A forty-year retrospective on European Education"
 argument_kind: "journal-article"
-argument_related_count: 59
-argument_related_level: 5
-argument_related_stars: "💎⭐⭐"
+argument_related_count: 61
+argument_related_level: 6
+argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
 journal: "European Education"
 book_title: ""
@@ -110,7 +112,7 @@ issuing_organization: ""
 ---
 
 > [!question]
-> 比较教育学在战后冷战博弈与实证科学化浪潮中面临怎样的地缘重构与方法论分野？学术期刊《欧洲教育》（*European Education*）创刊四十年来的演进轨迹揭示了何种跨越学科极化对立、拓展跨国研究前沿的替代性[[Epistemology|认识论]]路径？
+> 比较教育学在战后冷战博弈与实证科学化浪潮中面临怎样的地缘重构与方法论分野？学术期刊《[[European Education|欧洲教育]]》（*European Education*）创刊四十年来的演进轨迹揭示了何种跨越学科极化对立、拓展跨国研究前沿的替代性[[Epistemology|认识论]]路径？
 
 > [!claim] 核心主张
 > 《欧洲教育》的创立与演进是对冷战时期比较教育学科[[Development Turn in Comparative Education|发展转向]]与方法论两极撕裂的自觉修正。该刊确立了以[[Thematic Multiple Case-Study Comparison|主题化多案例比较]]整合微观历史文脉与跨国横向分析的第三条认识论路径，通过系统译介非英语欧洲[[Primary and Secondary Documents|原始文献]]打破了美国学界的语言壁垒，并在后冷战与全球化进程中持续拓展了比较教育学的地理版图与理论前沿。
@@ -220,7 +222,7 @@ issuing_organization: ""
 > - **历史主义学派（人文史学传统 · 蓝方）**
 >   - **核心主张** 比较教育学是教育通史在当代的自然延展，教育制度的本质深嵌于民族国家的独特文化传统、思想脉络与制度演进中（Brickman, 1981; Kandel, 1933b; Sadler, 1900; Ulich, 1954）。[[Robert Ulich|乌利希]]特别强调，理解特定民族国家的教育需要深厚扎实的跨文化与历史积淀（Ulich, 1954, p. 11）。
 >   - **分析单位与方法** 以单一民族国家为主要分析单元，采用一手史料考据、多语种档案解读与深厚历史情境叙述（Bray, 2008; Hans, 1950; Kandel, 1933a）。
->   - **面临的学术批评** 被安德森（Anderson, 1961）与卡扎米亚斯等学者批评为陷入极端历史主义（extreme historicism），将各国体制视作互不相通的偶发产物，缺乏跨越国界的系统解释力。
+>   - **面临的学术批评** 被安德森（Anderson, 1961）与卡扎米亚斯等学者批评为陷入[[Extreme Historicism|极端历史主义]]（extreme historicism），将各国体制视作互不相通的偶发产物，缺乏跨越国界的系统解释力。
 > - **实证科学学派（社会科学实证范式 · 红方）**
 >   - **核心主张** 比较教育学必须成为具有假设检验能力的经验社会科学，探寻独立于观察者、客观可测的普遍规律与[[Variable|变量]]间函数关系（Noah & Eckstein, 1969）。
 >   - **分析单位与方法** 依托大规模跨国量化[[Questionnaire|问卷]]与测验数据（以 1960 年代初[[IEA|国际教育成就评价协会]]（International Association for the Evaluation of Educational Achievement, IEA）国际评估为典范），实施跨国多变量统计控制与相关分析。

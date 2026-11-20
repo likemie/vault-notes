@@ -1064,6 +1064,15 @@
     ]
   },
   {
+    "title": "Extreme Historicism",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Extreme Historicism.md",
+    "aliases": [
+      "极端历史主义",
+      "历史极端主义"
+    ]
+  },
+  {
     "title": "Factorial Interpretive Framework",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Factorial Interpretive Framework.md",
@@ -53844,6 +53853,19 @@
     "aliases": [
       "增强型核心阅读教学",
       "ECRI"
+    ],
+    "subtype": "program"
+  },
+  {
+    "title": "European Education",
+    "type": "fact",
+    "path": "wiki/facts/us/European Education.md",
+    "aliases": [
+      "欧洲教育",
+      "西欧教育",
+      "Western European Education",
+      "European Education: Issues and Studies",
+      "Western European Education: A Journal of Translations"
     ],
     "subtype": "program"
   },

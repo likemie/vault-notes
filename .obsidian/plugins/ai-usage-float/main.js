@@ -24,10 +24,12 @@ var require_model = __commonJS({
     };
     var AVAILABLE_SOURCES = /* @__PURE__ */ new Set([...KEYS2.map((id) => PROVIDERS2[id].source), "Antigravity Tools \u5FEB\u7167"]);
     var isObject = (value) => value !== null && typeof value === "object" && !Array.isArray(value);
-    var text = (value, limit = 100) => typeof value === "string" ? value.trim().slice(0, limit) : "";
+    var text2 = (value, limit = 100) => typeof value === "string" ? value.trim().slice(0, limit) : "";
     var percent = (value) => typeof value === "number" && Number.isFinite(value) && value >= 0 && value <= 100 ? value : null;
     var timestamp = (value) => Number.isFinite(value) && value > 0 && value < 864e13 ? value : null;
     var isoTimestamp = (value) => typeof value === "string" && /T.*(?:Z|[+-]\d{2}:\d{2})$/i.test(value) ? timestamp(Date.parse(value)) : null;
+    var isAntigravityId2 = (id) => typeof id === "string" && /^[a-f0-9]{24}$/.test(id);
+    var savedSize = (value) => Number.isFinite(value) && value > 0 ? value : null;
     var dateLabel = new Intl.DateTimeFormat("zh-CN", { month: "numeric", day: "numeric" });
     var timeLabel = new Intl.DateTimeFormat("zh-CN", { hour: "2-digit", minute: "2-digit", hourCycle: "h23" });
     function resetLabel(time, now = Date.now()) {
@@ -40,19 +42,44 @@ var require_model = __commonJS({
     }
     function settings2(raw) {
       const data = isObject(raw) ? raw : {};
+      const names = isObject(data.antigravityNames) ? Object.entries(data.antigravityNames) : [];
       return {
         interval: INTERVALS2.includes(data.interval) ? data.interval : 5,
         shown: typeof data.shown === "boolean" ? data.shown : true,
         collapsed: typeof data.collapsed === "boolean" ? data.collapsed : false,
         left: typeof data.left === "number" && Number.isFinite(data.left) ? data.left : null,
         top: typeof data.top === "number" && Number.isFinite(data.top) ? data.top : null,
+        width: savedSize(data.width),
+        height: savedSize(data.height),
+        antigravityNames: Object.fromEntries(names.flatMap(([id, rawName]) => {
+          const name = text2(rawName, 60);
+          return isAntigravityId2(id) && name ? [[id, name]] : [];
+        })),
         enabled: Object.fromEntries(KEYS2.map((id) => [id, data.enabled?.[id] !== false]))
       };
     }
+    function accountName(provider, account, preferences) {
+      return provider === "antigravity" ? preferences.antigravityNames[account.id] ?? account.label : account.label;
+    }
+    function retainAntigravitySnapshots2(current, previous, names) {
+      const saved = new Map(previous.filter((row) => names[row.id] && row.windows.length).map((row) => [row.id, row]));
+      if (!saved.size) return current;
+      const stale = (row) => ({
+        ...row,
+        issue: { status: "offline", message: "\u6B64\u8D26\u53F7\u7684\u989D\u5EA6\u5C1A\u672A\u66F4\u65B0\uFF0C\u663E\u793A\u4E0A\u6B21\u91C7\u96C6\u7684\u5FEB\u7167\u3002" }
+      });
+      const rows = current.map((row) => {
+        const old = saved.get(row.id);
+        saved.delete(row.id);
+        return old && old.fetchedAt > (row.fetchedAt ?? 0) ? stale(old) : row;
+      });
+      const remembered = [...rows, ...[...saved.values()].map(stale)];
+      return remembered.some((row) => isAntigravityId2(row.id)) ? remembered.filter((row) => row.id !== "antigravity") : remembered;
+    }
     function normalizeWindow(raw) {
       if (!isObject(raw)) return [];
-      const name = text(raw.name);
-      const id = text(raw.id);
+      const name = text2(raw.name);
+      const id = text2(raw.id);
       const remaining = percent(raw.remaining);
       const resetAt = timestamp(raw.resetAt);
       return id && name && (remaining !== null || resetAt !== null) ? [{ id, name, remaining, resetAt }] : [];
@@ -67,9 +94,9 @@ var require_model = __commonJS({
           if (!windows.length) return [];
           return [{
             id: row.id,
-            label: text(row.label),
+            label: text2(row.label),
             source: row.source,
-            plan: text(row.plan),
+            plan: text2(row.plan),
             fetchedAt: row.fetchedAt,
             windows
           }];
@@ -99,7 +126,7 @@ var require_model = __commonJS({
       INTERVALS: INTERVALS2,
       STATUSES,
       isObject,
-      text,
+      text: text2,
       percent,
       timestamp,
       isoTimestamp,
@@ -110,7 +137,10 @@ var require_model = __commonJS({
       normalizeWindow,
       accountStatus,
       usableWindows,
-      quotaText
+      quotaText,
+      isAntigravityId: isAntigravityId2,
+      accountName,
+      retainAntigravitySnapshots: retainAntigravitySnapshots2
     };
   }
 });
@@ -127,7 +157,7 @@ var require_collectors = __commonJS({
     var {
       HOUR,
       PROVIDERS: PROVIDERS2,
-      text,
+      text: text2,
       percent,
       timestamp,
       isoTimestamp,
@@ -150,7 +180,7 @@ var require_collectors = __commonJS({
       return error instanceof SourceError ? { status: error.status, message: error.message } : { status: "offline", message: "\u91C7\u96C6\u5931\u8D25\uFF0C\u8BF7\u7A0D\u540E\u91CD\u8BD5\u3002" };
     }
     function rpcError(provider, content) {
-      const message = text(content?.message, 400).toLowerCase();
+      const message = text2(content?.message, 400).toLowerCase();
       if (content?.code === -32601) return new SourceError("unsupported", "\u5F53\u524D\u5BA2\u6237\u7AEF\u7F3A\u5C11\u989D\u5EA6\u67E5\u8BE2\u63A5\u53E3\u3002");
       if (content?.code === 401 || /authenticat|unauthoriz|log(?:ged)? in|sign in|login/.test(message)) {
         return new SourceError("auth", "\u8BF7\u5728 " + PROVIDERS2[provider].source + " \u4E2D\u767B\u5F55\u8BA2\u9605\u8D26\u53F7\u3002");
@@ -298,7 +328,7 @@ var require_collectors = __commonJS({
       return [row("codex", requireReading(codexWindows(result)))];
     }
     function grokWindows(result) {
-      const plan = text(result?.subscription_tier);
+      const plan = text2(result?.subscription_tier);
       if (!/^supergrok(?: heavy)?$/i.test(plan)) {
         throw new SourceError("unsupported", "\u672C\u5730 Grok \u672A\u786E\u8BA4 SuperGrok \u8BA2\u9605\u79EF\u5206\u3002");
       }
@@ -398,17 +428,17 @@ var require_collectors = __commonJS({
       const ports = [...sockets.matchAll(/^n127\.0\.0\.1:(\d{1,5})$/gm)].map((match) => Number(match[1]));
       const answers = await Promise.allSettled(ports.slice(0, 6).map(async (port) => {
         const first = (await loopback(port, csrf, "GetUserStatus", signal))?.userStatus;
-        const email = text(first?.email);
+        const email = text2(first?.email);
         if (!email) throw new SourceError("auth", "\u8BF7\u5728 Antigravity \u684C\u9762\u7AEF\u767B\u5F55\u3002");
         const payload = await loopback(port, csrf, "RetrieveUserQuotaSummary", signal);
         const current = (await loopback(port, csrf, "GetUserStatus", signal))?.userStatus;
-        if (text(current?.email).toLowerCase() !== email.toLowerCase()) {
+        if (text2(current?.email).toLowerCase() !== email.toLowerCase()) {
           throw new SourceError("offline", "\u68C0\u6D4B\u5230\u8D26\u53F7\u5207\u6362\uFF0C\u8BF7\u91CD\u65B0\u5237\u65B0\u3002");
         }
         return row("antigravity", requireReading(antiWindows(payload)), {
           id: accountId(email),
           label: "\u684C\u9762\u8D26\u53F7",
-          plan: text(current.userTier?.name)
+          plan: text2(current.userTier?.name)
         });
       }));
       const success = answers.find((answer) => answer.status === "fulfilled");
@@ -421,13 +451,13 @@ var require_collectors = __commonJS({
       if (!Array.isArray(payload?.groups)) return [];
       return payload.groups.flatMap((group) => {
         if (!Array.isArray(group?.buckets)) return [];
-        const label = text(group.displayName ?? group.name) || "\u989D\u5EA6\u7EC4";
+        const label = text2(group.displayName ?? group.name) || "\u989D\u5EA6\u7EC4";
         return group.buckets.flatMap((bucket) => {
-          const id = text(bucket?.bucketId ?? bucket?.id);
+          const id = text2(bucket?.bucketId ?? bucket?.id);
           if (!id || bucket.disabled) return [];
           const value = bucket.remainingFraction ?? bucket.remaining?.remainingFraction ?? (bucket.remaining?.case === "remainingFraction" ? bucket.remaining.value : null);
           const remaining = typeof value === "number" ? percent(100 * value) : null;
-          const scope = { weekly: "\u6BCF\u5468", "5h": "5 \u5C0F\u65F6" }[bucket.window] ?? (text(bucket.displayName ?? bucket.name) || id);
+          const scope = { weekly: "\u6BCF\u5468", "5h": "5 \u5C0F\u65F6" }[bucket.window] ?? (text2(bucket.displayName ?? bucket.name) || id);
           return [{ id, name: label + " \xB7 " + scope, remaining, resetAt: isoTimestamp(bucket.resetTime) }];
         });
       });
@@ -444,8 +474,8 @@ var require_collectors = __commonJS({
         const { accounts } = await readJSON(join(ANTI_CACHE, "accounts.json"));
         if (!Array.isArray(accounts)) throw new Error("Invalid account index");
         return accounts.flatMap((account, index) => {
-          const email = text(account?.email);
-          const fileId = text(account?.id);
+          const email = text2(account?.email);
+          const fileId = text2(account?.id);
           if (!email || !/^[a-f0-9-]{36}$/i.test(fileId)) return [];
           return [{ id: accountId(email), fileId, label: "\u8D26\u53F7 " + (index + 1) }];
         });
@@ -466,15 +496,15 @@ var require_collectors = __commonJS({
         }
         const fetchedAt = timestamp(typeof quota?.last_updated === "number" ? quota.last_updated * 1e3 : null);
         const windows = fetchedAt && Array.isArray(quota?.models) ? quota.models.flatMap((model) => [{
-          id: text(model?.name),
-          name: text(model?.display_name) || text(model?.name),
+          id: text2(model?.name),
+          name: text2(model?.display_name) || text2(model?.name),
           remaining: percent(model?.percentage),
           resetAt: isoTimestamp(model?.reset_time)
         }]) : [];
         return row(provider, windows, {
           ...options,
           fetchedAt,
-          plan: text(quota?.subscription_tier),
+          plan: text2(quota?.subscription_tier),
           error: windows.length ? void 0 : { status: "offline", message: "\u8BF7\u5728 Antigravity Tools \u4E2D\u5237\u65B0\u6B64\u8D26\u53F7\u7684\u989D\u5EA6\u3002" }
         });
       } catch {
@@ -559,9 +589,15 @@ var require_view = __commonJS({
       freshness,
       accountStatus,
       usableWindows,
-      quotaText
+      quotaText,
+      accountName
     } = require_model();
     var MARGIN = 10;
+    var MIN_WIDTH = 240;
+    var MIN_HEIGHT = 150;
+    function clamp(value, min, max) {
+      return Math.max(min, Math.min(max, value));
+    }
     function add(parent, tag, name, value) {
       const node = parent.ownerDocument.createElement(tag);
       if (name) node.className = "auf-" + name;
@@ -625,8 +661,9 @@ var require_view = __commonJS({
       const head = add(box, "div", "account-head");
       const labels = add(head, "div", "account-label");
       const status = rowStatus(account, state.now, state.settings.interval);
-      if (account.label) {
-        add(labels, "strong", "", [account.label, account.plan].filter(Boolean).join(" \xB7 "));
+      const name = accountName(id, account, state.settings);
+      if (name) {
+        add(labels, "strong", "", [name, account.plan].filter(Boolean).join(" \xB7 "));
       }
       if (status) add(labels, "span", "status", STATUSES[status]);
       sourceLine(labels, account, state.now);
@@ -706,7 +743,12 @@ var require_view = __commonJS({
           const readout = add(priority, "div", "readout");
           if (low) {
             add(readout, "div", "priority-value", quotaText(low.quota.remaining));
-            add(readout, "div", "context", [PROVIDERS2[low.id].title, low.row.label, low.quota.name].filter(Boolean).join(" \xB7 "));
+            add(
+              readout,
+              "div",
+              "context",
+              [PROVIDERS2[low.id].title, accountName(low.id, low.row, state.settings), low.quota.name].filter(Boolean).join(" \xB7 ")
+            );
             add(readout, "small", "muted", resetLabel(low.quota.resetAt, state.now));
             track(readout, low.quota.remaining, false);
           } else {
@@ -720,7 +762,7 @@ var require_view = __commonJS({
               const item = add(list, "li");
               const label = add(item, "div");
               add(label, "div", "", PROVIDERS2[id].title);
-              add(label, "small", "muted", [row.label, quota.name].filter(Boolean).join(" \xB7 "));
+              add(label, "small", "muted", [accountName(id, row, state.settings), quota.name].filter(Boolean).join(" \xB7 "));
               add(item, "time", "num", freshness(quota.resetAt, state.now)).dateTime = new Date(quota.resetAt).toISOString();
             }
           } else {
@@ -747,8 +789,9 @@ var require_view = __commonJS({
         this.footer = add(this.root, "footer", "float-foot");
         this.footer.setAttribute("role", "status");
         this.footer.setAttribute("aria-live", "polite");
+        this.grips = [this.resizeGrip("left"), this.resizeGrip("right")];
         this.place = this.place.bind(this);
-        this.bindDrag();
+        this.bindPointer(this.handle, (bounds) => (dx, dy) => this.move(bounds.left + dx, bounds.top + dy));
         this.resize = new win.ResizeObserver(this.place);
         this.resize.observe(this.root);
         win.addEventListener("resize", this.place, { signal: this.events.signal });
@@ -757,6 +800,9 @@ var require_view = __commonJS({
         this.root.hidden = !state.settings.shown;
         this.root.classList.toggle("is-collapsed", state.settings.collapsed);
         this.body.hidden = this.footer.hidden = state.settings.collapsed;
+        this.grips.forEach((grip) => {
+          grip.hidden = state.settings.collapsed;
+        });
         const open = new Set([...this.body.querySelectorAll("details[open]")].map((el) => el.dataset.account));
         const scroll = this.body.scrollTop;
         preserveFocus(this.root, () => {
@@ -797,7 +843,7 @@ var require_view = __commonJS({
               const summary = add(element, "summary", "float-row");
               summary.dataset.aufFocus = "summary-" + row.id;
               const identity = add(summary, "div", "float-label");
-              add(identity, "div", "", row.label || service.title);
+              add(identity, "div", "", accountName(id, row, state.settings) || service.title);
               const status = rowStatus(row, state.now, state.settings.interval);
               const valid = usableWindows(row, state.now, state.settings.interval);
               const windows = valid.length ? valid : row.windows;
@@ -820,8 +866,9 @@ var require_view = __commonJS({
         this.place();
       }
       place() {
-        if (this.root.hidden || this.dragging) return;
-        const { left, top } = this.actions.state().settings;
+        if (this.root.hidden || this.interacting) return;
+        const { left, top, width: savedWidth, height: savedHeight, collapsed } = this.actions.state().settings;
+        this.size(collapsed ? null : savedWidth, collapsed ? null : savedHeight);
         const width = this.root.offsetWidth;
         const height = this.root.offsetHeight;
         this.move(left ?? this.win.innerWidth - width - 36, top ?? this.win.innerHeight * 0.35, width, height);
@@ -829,34 +876,73 @@ var require_view = __commonJS({
       move(left, top, width = this.root.offsetWidth, height = this.root.offsetHeight) {
         const maxLeft = Math.max(MARGIN, this.win.innerWidth - width - MARGIN);
         const maxTop = Math.max(MARGIN, this.win.innerHeight - height - MARGIN);
-        const position = { left: Math.max(MARGIN, Math.min(maxLeft, left)), top: Math.max(MARGIN, Math.min(maxTop, top)) };
+        const position = { left: clamp(left, MARGIN, maxLeft), top: clamp(top, MARGIN, maxTop) };
         this.root.style.left = position.left + "px";
         this.root.style.top = position.top + "px";
         return position;
       }
-      bindDrag() {
+      size(width, height) {
+        const maxWidth = Math.max(1, this.win.innerWidth - 2 * MARGIN);
+        const maxHeight = Math.max(1, this.win.innerHeight - 2 * MARGIN);
+        const nextWidth = width === null ? null : clamp(Math.round(width), Math.min(MIN_WIDTH, maxWidth), maxWidth);
+        const nextHeight = height === null ? null : clamp(Math.round(height), Math.min(MIN_HEIGHT, maxHeight), maxHeight);
+        this.root.classList.toggle("is-sized", nextHeight !== null);
+        this.root.style.width = nextWidth === null ? "" : nextWidth + "px";
+        this.root.style.height = nextHeight === null ? "" : nextHeight + "px";
+        return { width: nextWidth, height: nextHeight };
+      }
+      resizeFrom(side, bounds, dx, dy) {
+        const dimensions = this.size(bounds.width + (side === "left" ? -dx : dx), bounds.height + dy);
+        const left = side === "left" ? bounds.right - dimensions.width : bounds.left;
+        return { ...this.move(left, bounds.top), ...dimensions };
+      }
+      resizeGrip(side) {
+        const grip = add(this.root, "button", "resize auf-resize-" + side);
+        const corner = side === "left" ? "\u5DE6\u4E0B\u89D2" : "\u53F3\u4E0B\u89D2";
+        grip.type = "button";
+        grip.setAttribute("aria-label", "\u4ECE" + corner + "\u8C03\u6574\u6D6E\u7A97\u5927\u5C0F");
+        grip.title = "\u62D6\u52A8\u6216\u6309\u65B9\u5411\u952E\u8C03\u6574\u6D6E\u7A97\u5927\u5C0F";
+        this.bindPointer(grip, (bounds) => (dx, dy) => this.resizeFrom(side, bounds, dx, dy));
+        grip.addEventListener("keydown", (event) => {
+          const step = event.shiftKey ? 24 : 8;
+          const arrows = { ArrowLeft: [-step, 0], ArrowRight: [step, 0], ArrowUp: [0, -step], ArrowDown: [0, step] };
+          const delta = arrows[event.key];
+          if (!delta) return;
+          event.preventDefault();
+          this.actions.geometry(this.resizeFrom(side, this.root.getBoundingClientRect(), ...delta));
+        }, { signal: this.events.signal });
+        return grip;
+      }
+      bindPointer(handle, begin) {
         const { signal } = this.events;
         let drag;
-        this.handle.addEventListener("pointerdown", (event) => {
-          if (event.button !== 0) return;
-          const { left, top } = this.root.getBoundingClientRect();
-          drag = { id: event.pointerId, x: event.clientX - left, y: event.clientY - top, position: null };
-          this.dragging = true;
-          this.handle.setPointerCapture(event.pointerId);
+        handle.addEventListener("pointerdown", (event) => {
+          if (event.button !== 0 || this.interacting) return;
+          drag = {
+            id: event.pointerId,
+            x: event.clientX,
+            y: event.clientY,
+            patch: null,
+            update: begin(this.root.getBoundingClientRect())
+          };
+          this.interacting = true;
+          handle.setPointerCapture(event.pointerId);
+          event.preventDefault();
         }, { signal });
-        this.handle.addEventListener("pointermove", (event) => {
+        handle.addEventListener("pointermove", (event) => {
           if (drag?.id !== event.pointerId) return;
-          drag.position = this.move(event.clientX - drag.x, event.clientY - drag.y);
+          drag.patch = drag.update(event.clientX - drag.x, event.clientY - drag.y);
         }, { signal });
         const finish = (event) => {
           if (drag?.id !== event.pointerId) return;
-          this.dragging = false;
-          if (drag.position) this.actions.move(drag.position);
+          const { patch } = drag;
           drag = null;
+          this.interacting = false;
+          if (patch) this.actions.geometry(patch);
         };
-        this.handle.addEventListener("pointerup", finish, { signal });
-        this.handle.addEventListener("pointercancel", finish, { signal });
-        this.handle.addEventListener("lostpointercapture", finish, { signal });
+        for (const event of ["pointerup", "pointercancel", "lostpointercapture"]) {
+          handle.addEventListener(event, finish, { signal });
+        }
       }
       destroy() {
         this.events.abort();
@@ -870,7 +956,17 @@ var require_view = __commonJS({
 
 // src/main.js
 var { Plugin, PluginSettingTab, Setting } = require("obsidian");
-var { KEYS, PROVIDERS, MINUTE, INTERVALS, cacheFrom, settings } = require_model();
+var {
+  KEYS,
+  PROVIDERS,
+  MINUTE,
+  INTERVALS,
+  cacheFrom,
+  settings,
+  text,
+  isAntigravityId,
+  retainAntigravitySnapshots
+} = require_model();
 var { collectors, issue, defaultFailure } = require_collectors();
 var { Dashboard, FloatingPanel } = require_view();
 var UsageSettings = class extends PluginSettingTab {
@@ -892,6 +988,14 @@ var UsageSettings = class extends PluginSettingTab {
       new Setting(containerEl).setName(title).setDesc(scope || "\u663E\u793A\u5DF2\u9A8C\u8BC1\u7684\u684C\u9762\u8D26\u53F7\u53CA Antigravity Tools \u6CE8\u518C\u8D26\u53F7\u7684\u672C\u5730\u5FEB\u7167\u3002").addToggle((control) => control.setValue(plugin.preferences.enabled[provider]).onChange((value) => plugin.enableProvider(provider, value)));
     }
     new Setting(containerEl).setName("\u91CD\u7F6E\u6D6E\u7A97\u4F4D\u7F6E").addButton((button) => button.setButtonText("\u91CD\u7F6E\u4F4D\u7F6E").onClick(() => plugin.configure({ left: null, top: null })));
+    new Setting(containerEl).setName("\u91CD\u7F6E\u6D6E\u7A97\u5927\u5C0F").addButton((button) => button.setButtonText("\u6062\u590D\u9ED8\u8BA4\u5927\u5C0F").onClick(() => plugin.configure({ width: null, height: null })));
+    const accounts = plugin.rows.antigravity.filter((row) => isAntigravityId(row.id));
+    if (accounts.length) {
+      new Setting(containerEl).setName("Antigravity \u8D26\u53F7\u540D\u79F0").setHeading();
+      for (const row of accounts) {
+        new Setting(containerEl).setName(row.label).setDesc(row.source).addText((input) => input.setPlaceholder(row.label).setValue(plugin.preferences.antigravityNames[row.id] ?? "").onChange((value) => plugin.nameAntigravityAccount(row.id, value)));
+      }
+    }
   }
 };
 var UsageFloatPlugin = class extends Plugin {
@@ -917,7 +1021,7 @@ var UsageFloatPlugin = class extends Plugin {
       refresh: (id, account) => void this.refresh(id, account),
       collapse: () => this.configure({ collapsed: !this.preferences.collapsed }),
       hide: () => this.configure({ shown: false }),
-      move: (position) => this.configure(position)
+      geometry: (patch) => this.configure(patch)
     };
     this.addSettingTab(new UsageSettings(this.app, this));
     this.addRibbonIcon("chart-no-axes-column", "\u663E\u793A\u6216\u9690\u85CF\u989D\u5EA6\u6D6E\u7A97", () => this.toggle());
@@ -976,6 +1080,14 @@ var UsageFloatPlugin = class extends Plugin {
     if (!enabled) this.busy.get(id)?.abort();
     else if (this.preferences.interval) void this.refresh(id);
   }
+  nameAntigravityAccount(id, value) {
+    if (!isAntigravityId(id)) return;
+    const names = { ...this.preferences.antigravityNames };
+    const name = text(value, 60);
+    if (name) names[id] = name;
+    else delete names[id];
+    this.configure({ antigravityNames: names });
+  }
   tick() {
     if (this.lifetime.signal.aborted) return;
     this.render();
@@ -1007,8 +1119,13 @@ var UsageFloatPlugin = class extends Plugin {
         }
         return row;
       });
-      failed = merged.every((row) => row.issue || !row.windows.length);
-      this.rows[id] = accountId ? prior.map((row) => row.id === accountId ? merged[0] ?? row : row) : merged;
+      const resolved = id === "antigravity" ? retainAntigravitySnapshots(
+        merged,
+        accountId ? prior.filter((row) => row.id === accountId) : prior,
+        this.preferences.antigravityNames
+      ) : merged;
+      failed = resolved.every((row) => row.issue || !row.windows.length);
+      this.rows[id] = accountId ? prior.map((row) => row.id === accountId ? resolved[0] ?? row : row) : resolved;
     } catch (error) {
       if (signal.aborted) return;
       failed = true;

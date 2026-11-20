@@ -48,8 +48,12 @@
 .auf-float.is-collapsed {
   width: min(177px, calc(100vw - 20px));
 }
+.auf-float.is-sized {
+  max-height: calc(100vh - 20px);
+}
 .auf-float-head {
   display: flex;
+  flex: 0 0 auto;
   align-items: center;
   padding: 4px 7px 4px 12px;
   gap: 6px;
@@ -73,16 +77,67 @@
   cursor: grabbing;
 }
 .auf-float-body {
+  flex: 1 1 auto;
+  min-height: 0;
   overflow: auto;
   overscroll-behavior: contain;
   padding: 3px 12px;
 }
 .auf-float-foot {
+  flex: 0 0 auto;
   color: var(--auf-muted);
   border-top: 1px solid var(--auf-line);
-  padding: 6px 12px;
+  padding: 6px 22px;
   font-size: 12px;
   white-space: nowrap;
+}
+.auf-float button.auf-resize {
+  position: absolute;
+  bottom: 0;
+  width: 20px;
+  height: 20px;
+  padding: 0;
+  background: transparent;
+  box-shadow: none;
+  border: 0;
+  border-radius: 4px;
+  color: var(--auf-muted);
+  touch-action: none;
+}
+.auf-float button.auf-resize:hover {
+  background: var(--background-modifier-hover);
+  color: var(--auf-ink);
+}
+.auf-resize::before,
+.auf-resize::after {
+  position: absolute;
+  content: "";
+  width: 9px;
+  height: 9px;
+  bottom: 4px;
+  border-bottom: 1px solid currentColor;
+}
+.auf-resize::after {
+  width: 5px;
+  height: 5px;
+}
+.auf-resize-left {
+  left: 0;
+  cursor: nesw-resize;
+}
+.auf-resize-left::before,
+.auf-resize-left::after {
+  left: 4px;
+  border-left: 1px solid currentColor;
+}
+.auf-resize-right {
+  right: 0;
+  cursor: nwse-resize;
+}
+.auf-resize-right::before,
+.auf-resize-right::after {
+  right: 4px;
+  border-right: 1px solid currentColor;
 }
 .auf-head-buttons {
   display: flex;

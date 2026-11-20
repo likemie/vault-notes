@@ -937,6 +937,8 @@
     "Andreas Kazamias, 2009": "Andreas Kazamias, 2009a",
     "Andreas Kazamias, 2009a": "Andreas Kazamias, 2009b",
     "Andreas Kazamias, 2009b": "Andreas Kazamias, 2009b",
+    "Andreas M. Kazamias & Karl Schwartz (1977)": "Andreas M. Kazamias & Karl Schwartz, 1977",
+    "Andreas M. Kazamias & Karl Schwartz, 1977": "Andreas M. Kazamias & Karl Schwartz, 1977",
     "Andreassen (2011)": "Andreassen, 2011",
     "Andreassen, 2011": "Andreassen, 2011",
     "Andrew (1985)": "Andrew, 1985",
@@ -3927,6 +3929,8 @@
     "Bürger, 1990": "Bürger, 1990",
     "C & A Guide (2021)": "C & A Guide, 2021",
     "C & A Guide, 2021": "C & A Guide, 2021",
+    "C. Arnold Anderson (1961)": "C. Arnold Anderson, 1961",
+    "C. Arnold Anderson, 1961": "C. Arnold Anderson, 1961",
     "C. H. (1995)": "C. H., 1995",
     "C. H., 1995": "C. H., 1995",
     "C. K. (2017)": "C. K., 2017",
@@ -28800,7 +28804,9 @@
     "学生用书 (2003)": "学生用书, 2003",
     "学生用书, 2003": "学生用书, 2003",
     "学生用书, 2003b": "学生用书, 2003",
+    "安德森 (1961)": "安德森, 1961",
     "安德森 (2016)": "安德森, 2016",
+    "安德森, 1961": "安德森, 1961",
     "安德森, 2016": "安德森, 2016",
     "官方与改革派 (2016)": "官方与改革派, 2016",
     "官方与改革派, 2016": "官方与改革派, 2016",
@@ -36107,6 +36113,21 @@
         "wiki/persons/france/Victor Cousin.md",
         "wiki/persons/us/Henry Barnard.md",
         "wiki/persons/us/Horace Mann.md"
+      ],
+      "title": ""
+    },
+    "Andreas M. Kazamias & Karl Schwartz, 1977": {
+      "aliases": [
+        "Andreas M. Kazamias & Karl Schwartz, 1977",
+        "Andreas M. Kazamias & Karl Schwartz (1977)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Andreas M. Kazamias & Karl Schwartz, 1977"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Extreme Historicism.md"
       ],
       "title": ""
     },
@@ -58263,6 +58284,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/methods/qualitative/Historical Document Analysis of Curriculum.md"
+      ],
+      "title": ""
+    },
+    "C. Arnold Anderson, 1961": {
+      "aliases": [
+        "C. Arnold Anderson, 1961",
+        "C. Arnold Anderson (1961)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "C. Arnold Anderson, 1961"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Extreme Historicism.md"
       ],
       "title": ""
     },
@@ -239143,6 +239179,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Science & Education/Argument_Zemplen_2007_SciEduc.md"
+      ],
+      "title": ""
+    },
+    "安德森, 1961": {
+      "aliases": [
+        "安德森, 1961",
+        "安德森 (1961)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "安德森, 1961"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Extreme Historicism.md"
       ],
       "title": ""
     },

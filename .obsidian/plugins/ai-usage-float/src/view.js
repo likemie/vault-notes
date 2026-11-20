@@ -1,9 +1,15 @@
 const { Modal, setIcon } = require("obsidian");
 const {
-  HOUR, KEYS, PROVIDERS, STATUSES, resetLabel, freshness, accountStatus, usableWindows, quotaText,
+  HOUR, KEYS, PROVIDERS, STATUSES, resetLabel, freshness, accountStatus, usableWindows, quotaText, accountName,
 } = require("./model");
 
 const MARGIN = 10;
+const MIN_WIDTH = 240;
+const MIN_HEIGHT = 150;
+
+function clamp(value, min, max) {
+  return Math.max(min, Math.min(max, value));
+}
 
 function add(parent, tag, name, value) {
   const node = parent.ownerDocument.createElement(tag);
@@ -77,8 +83,9 @@ function displayAccount(parent, id, account, state, actions) {
   const head = add(box, "div", "account-head");
   const labels = add(head, "div", "account-label");
   const status = rowStatus(account, state.now, state.settings.interval);
-  if (account.label) {
-    add(labels, "strong", "", [account.label, account.plan].filter(Boolean).join(" · "));
+  const name = accountName(id, account, state.settings);
+  if (name) {
+    add(labels, "strong", "", [name, account.plan].filter(Boolean).join(" · "));
   }
   if (status) add(labels, "span", "status", STATUSES[status]);
   sourceLine(labels, account, state.now);
@@ -159,7 +166,8 @@ class Dashboard extends Modal {
       const readout = add(priority, "div", "readout");
       if (low) {
         add(readout, "div", "priority-value", quotaText(low.quota.remaining));
-        add(readout, "div", "context", [PROVIDERS[low.id].title, low.row.label, low.quota.name].filter(Boolean).join(" · "));
+        add(readout, "div", "context",
+          [PROVIDERS[low.id].title, accountName(low.id, low.row, state.settings), low.quota.name].filter(Boolean).join(" · "));
         add(readout, "small", "muted", resetLabel(low.quota.resetAt, state.now));
         track(readout, low.quota.remaining, false);
       } else {
@@ -175,7 +183,7 @@ class Dashboard extends Modal {
           const item = add(list, "li");
           const label = add(item, "div");
           add(label, "div", "", PROVIDERS[id].title);
-          add(label, "small", "muted", [row.label, quota.name].filter(Boolean).join(" · "));
+          add(label, "small", "muted", [accountName(id, row, state.settings), quota.name].filter(Boolean).join(" · "));
           add(item, "time", "num", freshness(quota.resetAt, state.now)).dateTime = new Date(quota.resetAt).toISOString();
         }
       } else {
@@ -204,8 +212,9 @@ class FloatingPanel {
     this.footer = add(this.root, "footer", "float-foot");
     this.footer.setAttribute("role", "status");
     this.footer.setAttribute("aria-live", "polite");
+    this.grips = [this.resizeGrip("left"), this.resizeGrip("right")];
     this.place = this.place.bind(this);
-    this.bindDrag();
+    this.bindPointer(this.handle, bounds => (dx, dy) => this.move(bounds.left + dx, bounds.top + dy));
     this.resize = new win.ResizeObserver(this.place);
     this.resize.observe(this.root);
     win.addEventListener("resize", this.place, { signal: this.events.signal });
@@ -215,6 +224,7 @@ class FloatingPanel {
     this.root.hidden = !state.settings.shown;
     this.root.classList.toggle("is-collapsed", state.settings.collapsed);
     this.body.hidden = this.footer.hidden = state.settings.collapsed;
+    this.grips.forEach(grip => { grip.hidden = state.settings.collapsed; });
     const open = new Set([...this.body.querySelectorAll("details[open]")].map(el => el.dataset.account));
     const scroll = this.body.scrollTop;
     preserveFocus(this.root, () => {
@@ -245,7 +255,7 @@ class FloatingPanel {
           const summary = add(element, "summary", "float-row");
           summary.dataset.aufFocus = "summary-" + row.id;
           const identity = add(summary, "div", "float-label");
-          add(identity, "div", "", row.label || service.title);
+          add(identity, "div", "", accountName(id, row, state.settings) || service.title);
           const status = rowStatus(row, state.now, state.settings.interval);
           const valid = usableWindows(row, state.now, state.settings.interval);
           const windows = valid.length ? valid : row.windows;
@@ -271,8 +281,9 @@ class FloatingPanel {
   }
 
   place() {
-    if (this.root.hidden || this.dragging) return;
-    const { left, top } = this.actions.state().settings;
+    if (this.root.hidden || this.interacting) return;
+    const { left, top, width: savedWidth, height: savedHeight, collapsed } = this.actions.state().settings;
+    this.size(collapsed ? null : savedWidth, collapsed ? null : savedHeight);
     const width = this.root.offsetWidth;
     const height = this.root.offsetHeight;
     this.move(left ?? this.win.innerWidth - width - 36, top ?? this.win.innerHeight * 0.35, width, height);
@@ -281,35 +292,74 @@ class FloatingPanel {
   move(left, top, width = this.root.offsetWidth, height = this.root.offsetHeight) {
     const maxLeft = Math.max(MARGIN, this.win.innerWidth - width - MARGIN);
     const maxTop = Math.max(MARGIN, this.win.innerHeight - height - MARGIN);
-    const position = { left: Math.max(MARGIN, Math.min(maxLeft, left)), top: Math.max(MARGIN, Math.min(maxTop, top)) };
+    const position = { left: clamp(left, MARGIN, maxLeft), top: clamp(top, MARGIN, maxTop) };
     this.root.style.left = position.left + "px";
     this.root.style.top = position.top + "px";
     return position;
   }
 
-  bindDrag() {
+  size(width, height) {
+    const maxWidth = Math.max(1, this.win.innerWidth - 2 * MARGIN);
+    const maxHeight = Math.max(1, this.win.innerHeight - 2 * MARGIN);
+    const nextWidth = width === null ? null : clamp(Math.round(width), Math.min(MIN_WIDTH, maxWidth), maxWidth);
+    const nextHeight = height === null ? null : clamp(Math.round(height), Math.min(MIN_HEIGHT, maxHeight), maxHeight);
+    this.root.classList.toggle("is-sized", nextHeight !== null);
+    this.root.style.width = nextWidth === null ? "" : nextWidth + "px";
+    this.root.style.height = nextHeight === null ? "" : nextHeight + "px";
+    return { width: nextWidth, height: nextHeight };
+  }
+
+  resizeFrom(side, bounds, dx, dy) {
+    const dimensions = this.size(bounds.width + (side === "left" ? -dx : dx), bounds.height + dy);
+    const left = side === "left" ? bounds.right - dimensions.width : bounds.left;
+    return { ...this.move(left, bounds.top), ...dimensions };
+  }
+
+  resizeGrip(side) {
+    const grip = add(this.root, "button", "resize auf-resize-" + side);
+    const corner = side === "left" ? "左下角" : "右下角";
+    grip.type = "button";
+    grip.setAttribute("aria-label", "从" + corner + "调整浮窗大小");
+    grip.title = "拖动或按方向键调整浮窗大小";
+    this.bindPointer(grip, bounds => (dx, dy) => this.resizeFrom(side, bounds, dx, dy));
+    grip.addEventListener("keydown", event => {
+      const step = event.shiftKey ? 24 : 8;
+      const arrows = { ArrowLeft: [-step, 0], ArrowRight: [step, 0], ArrowUp: [0, -step], ArrowDown: [0, step] };
+      const delta = arrows[event.key];
+      if (!delta) return;
+      event.preventDefault();
+      this.actions.geometry(this.resizeFrom(side, this.root.getBoundingClientRect(), ...delta));
+    }, { signal: this.events.signal });
+    return grip;
+  }
+
+  bindPointer(handle, begin) {
     const { signal } = this.events;
     let drag;
-    this.handle.addEventListener("pointerdown", event => {
-      if (event.button !== 0) return;
-      const { left, top } = this.root.getBoundingClientRect();
-      drag = { id: event.pointerId, x: event.clientX - left, y: event.clientY - top, position: null };
-      this.dragging = true;
-      this.handle.setPointerCapture(event.pointerId);
+    handle.addEventListener("pointerdown", event => {
+      if (event.button !== 0 || this.interacting) return;
+      drag = {
+        id: event.pointerId, x: event.clientX, y: event.clientY, patch: null,
+        update: begin(this.root.getBoundingClientRect()),
+      };
+      this.interacting = true;
+      handle.setPointerCapture(event.pointerId);
+      event.preventDefault();
     }, { signal });
-    this.handle.addEventListener("pointermove", event => {
+    handle.addEventListener("pointermove", event => {
       if (drag?.id !== event.pointerId) return;
-      drag.position = this.move(event.clientX - drag.x, event.clientY - drag.y);
+      drag.patch = drag.update(event.clientX - drag.x, event.clientY - drag.y);
     }, { signal });
     const finish = event => {
       if (drag?.id !== event.pointerId) return;
-      this.dragging = false;
-      if (drag.position) this.actions.move(drag.position);
+      const { patch } = drag;
       drag = null;
+      this.interacting = false;
+      if (patch) this.actions.geometry(patch);
     };
-    this.handle.addEventListener("pointerup", finish, { signal });
-    this.handle.addEventListener("pointercancel", finish, { signal });
-    this.handle.addEventListener("lostpointercapture", finish, { signal });
+    for (const event of ["pointerup", "pointercancel", "lostpointercapture"]) {
+      handle.addEventListener(event, finish, { signal });
+    }
   }
 
   destroy() {
