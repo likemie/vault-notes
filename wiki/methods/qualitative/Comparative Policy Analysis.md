@@ -189,13 +189,12 @@ updated: 2026-11-19
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 运用比较政策分析方法，对比德、丹、瑞、日、以、美、英、芬等国在面对 [[PISA]] 国际测评硬事实时的异质性政治反应，揭示软治理工具对各国国内改革议程与利益博弈格局的差[[Alienation|异化]]重塑机制。
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 针对美欧半导体产业政策构建涵盖治理主体、政策目标、资金规模、政策工具与[[Policy Conditionalities|制度化附加条件]]的五维比较[[Analytic Framework|分析框架]]，揭示美国集中式补贴模式与[[EU|欧盟]]去中心化协调者模式的制度差异与效能分化。
-> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 采用跨大西洋与跨国比较政策分析，对比欧盟[[Erasmus Programme|伊拉斯谟计划]]将[[Student Mobility|学生流动性]]建构为世界公民积极资本与美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》将学生流动性编码为病态化漂泊问责借口的[[Discourse|话语]]机制，并系统比较中、美、西、英、印等国对流动学童的空间教育治理政策。
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 采用跨国比较政策分析视角，将西班牙教育置于欧盟多国治理坐标系下，系统对比英、美、德、法、意与北欧的分权模式演变，解构西班牙教育激进分权导致的行政膨胀与中等学制平庸化困境。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 运用历史与跨国比较政策分析方法，对比[[OECD]]在1960–1990年社会民主主义妥协期与1990年代中期后[[Neoliberalism|新自由主义]]期的治理架构、工作模式及[[PISA]]指标体系，揭示国际组织从政府间论坛向独立跨国政策行动者的制度转型。
+> - [[Argument_Hippach-Schneider_Rieder_2022_RCIE|Hippach-Schneider and Rieder (2022)]] — 横向比较德瑞双元制职教系统，系统对照两国在宪制权限、社会伙伴权能配比与数字化应对弹性上的共性与分异。
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 在英国新工党福利改革案例中，横向对比英国决策者对美、瑞、新、澳四国政策及评估方案的选择性筛选过程，揭示因果评估证据充沛性如何决定跨国借用的最终取舍。
-> - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 运用比较政策分析视角审视现存 254 个跨国职教合作平台的空间分布与专业结构数据，剖析主权规制差异对[[Transnational Education|跨境教育]]合作成效的制度制约（pp. 294–295）。
 > - [[Argument_Murray_Moxon-Browne_2013_JCMS|Murray and Moxon-Browne (2013)]] — 采用比较政策与制度分析设计，系统对照欧盟[[Coreper|常驻代表委员会]]与[[Committee of Permanent Representatives to ASEAN|东盟常驻代表委员会]]的决策架构、履约约束力与协商规范，评估区域一体化中[[Institutional Mimesis|制度拟态]]的复制边界（pp. 522–534）。
-
----
+> - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 运用比较政策分析方法，对比德、丹、瑞、日、以、美、英、芬等国在面对 [[PISA]] 国际测评硬事实时的异质性政治反应，揭示软治理工具对各国国内改革议程与利益博弈格局的差异化重塑机制。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 运用历史与跨国比较政策分析方法，对比[[OECD]]在1960–1990年社会民主主义妥协期与1990年代中期后[[Neoliberalism|新自由主义]]期的治理架构、工作模式及[[PISA]]指标体系，揭示国际组织从政府间论坛向独立跨国政策行动者的制度转型。
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 采用跨大西洋与跨国比较政策分析，对比欧盟[[Erasmus Programme|伊拉斯谟计划]]将[[Student Mobility|学生流动性]]建构为世界公民积极资本与美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》将学生流动性编码为病态化漂泊问责借口的[[Discourse|话语]]机制，并系统比较中、美、西、英、印等国对流动学童的空间教育治理政策。
+> - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 运用比较政策分析视角审视现存 254 个跨国职教合作平台的空间分布与专业结构数据，剖析主权规制差异对[[Transnational Education|跨境教育]]合作成效的制度制约（pp. 294–295）。

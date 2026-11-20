@@ -86,7 +86,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-16
-updated: 2026-11-11
+updated: 2026-11-21
 ---
 
 ---
@@ -139,7 +139,7 @@ updated: 2026-11-11
 > > 3. **选取文本样本** 依据代表性或理论目的抽取文本样本，处理嵌套[[Unit of Analysis\|记录单位]]（[[Multi-phase Sampling\|多阶段抽样]]）。
 >
 > > [!step] 阶段二：情境考证与单位界定（步骤 4–5）
-> > 4. **辨识文献生成情境** 审查文本生成背景、撰写者意图、权力关系以及作者道出真相的能力。
+> > 4. **辨识文献生成情境** 审查文本生成背景、撰写者意图、权力关系以及文本生产者阐明事实的可靠性。
 > > 5. **界定分析单位** 划分抽样单位、记录单位（词、句子、主题）与语境单位，权衡语义效度与[[Reliability\|信度]]。
 >
 > > [!step] 阶段三：编码体系与领域建构（步骤 6–7）
@@ -171,7 +171,7 @@ updated: 2026-11-11
 > > [!step] 阶段二：数据沉浸与范畴提炼（步骤 6–8）
 > > 6. **沉浸（[[Presence\|immersion]]）** 深入浸润于文本数据中，捕捉细微线索。
 > > 7. **类别化（categorizing）** 设定类别与标签，严格落实反映[[Research Purpose\|研究目的]]、穷尽、互斥三大原则。
-> > 8. **孵化（[[Incubation]]）** 沉淀并反思数据，孕育理论解释与深层意义。
+> > 8. **孵化（[[Incubation]]）** 深入反思数据，孕育理论解释与深层意义。
 >
 > > [!step] 阶段三：数据浓缩与意义综合（步骤 9–11）
 > > 9. **综合（synthesis）** 回顾编码依据，识别[[Emergence\|涌现]]的模式与核心主题。
@@ -187,12 +187,12 @@ updated: 2026-11-11
 > - **阶段二：确立四大主题领域** 将 33 条陈述归拢入工作负荷、体制政策、学生行为与人际支持四大领域。
 > - **阶段三：画线计票与频数统计** 运用计票单（tally sheets）统计各陈述的发生频次与分布偏态，直观揭示主要矛盾焦点。
 > - **阶段四：二级细分归组与类属包容** 依据层级包容系统（hierarchies of subsumption）细分次级类别，合并语义重叠陈述，建立清晰可控的浅层编码树。
-> - **阶段五：提炼实质性理论洞见** 从矩阵表格中提炼出 14 项实质性理论洞见，完成从离散文本片段到深层因果机制解释的跃升。
+> - **阶段五：提炼实质性理论洞见** 从矩阵表格中提炼出 14 项实质性理论洞见，完成从离散文本片段到深层因果机制解释的理论归纳。
 
 > [!case] 案例示范二：学科研究策略演进与[[Historical Amnesia|历史健忘症]]的期刊文献计量内容分析（[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias, 2009a, pp. 155–156]]；Larsen, 2001; Rust et al., 1999）
-> - **文本总体与多[[Stage Sampling|阶段抽样]]** 聚焦比较教育领域三大国际旗舰期刊（《比较教育评论》[Comparative Education Review, CER]、《比较教育》[Comparative Education, [[Cognitive Extent|CE]]]、《[[International Education|国际教育]]发展杂志》[International Journal of Educational Development, IJED]），将 1955 至 1994 年四十年间发表的近 2,000 篇学术论文作为全样本总体。
-> - **分析单位与编码范畴建构** 以单篇论文为分析单位，构建互斥互补的研究策略分类范畴（涵盖史学编纂与历史研究、跨国量化实证、国别描述性调查、哲学理论思辨等）。
-> - **纵向长周期频次统计与份额测算** 统计各研究策略在不同十年的发表频次与占比：1955–1994 年全期依赖史学编纂与历史研究的论文占比仅为 10.5%；而在 1985–1995 年近十年期，历史比较研究论文占比更是断崖式跌破 5%。
+> - **文本总体与多[[Stage Sampling|阶段抽样]]** 聚焦比较教育领域三大国际旗舰期刊（《比较教育评论》[Comparative Education Review, CER]、《比较教育》[Comparative Education, [[Cognitive Extent|CE]]]、《[[International Education|国际教育]]发展杂志》[International Journal of Educational Development, IJED]），将 1955 至 1994 年四十年间发表的近 2,000 篇期刊文献作为全样本总体。
+> - **分析单位与编码范畴建构** 以单篇期刊文献为分析单位，构建互斥互补的研究策略分类范畴（涵盖史学编纂与历史研究、跨国量化实证、国别描述性调查、哲学理论思辨等）。
+> - **纵向长周期频次统计与份额测算** 统计各研究策略在不同十年的发表频次与占比：1955–1994 年全期依赖史学编纂与历史研究的期刊文献占比仅为 10.5%；而在 1985–1995 年近十年期，历史比较研究文献占比更是大幅跌破 5%。
 > - **实质性推论与理论建构** 从词频与策略份额的量化骤降向学科[[Epistemology|认识论]]生态作出推论，实证确证了比较教育学在世纪之交多元理论繁荣的表象之下，深陷近乎彻底放逐历史维度的“历史健忘症”（Historical Amnesia），为学科开展认识论反思与方法综合提供了坚实的经验依据。
 
 ---
@@ -205,7 +205,7 @@ updated: 2026-11-11
 ---
 
 > [!method-limits] 方法局限与[[Reliability\|信度]]威胁
-> - **有意与无意证据（Witting and Unwitting Evidence）** 文本通常为非[[Research Purpose\|研究目的]]而产生，包含作者未明说的意识形态偏向与写作意图，需推断撰写背景。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 573)]]
+> - **有意与无意证据（Witting and Unwitting Evidence）** 文本通常为非[[Research Purpose\|研究目的]]而产生，包含撰写主体未明说的意识形态偏向与写作意图，需推断撰写背景。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 573)]]
 > - **同形多义词与多价性（Homographs and Polysemy）** 同一词汇在不同语境中含义迥异（如 school 可指学校建筑、学术流派或训育），脱离上下文的孤立关键词检索极易造成误读。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 574)]]
 > - **聚合尺度与信度反比规律** 单词、短语及单句具有较高的[[Intercoder Agreement\|编码一致性]]，而跨句群或不完整段落因主观推论介入过深，信度显著降低（Weber, 1990）。
 > - **频次与重要性脱节风险** 文本中高频词汇可能是无意识的口头修辞，而最关键的禁忌、权力压制或核心洞见往往仅出现一次甚至处于文本沉默状态。
@@ -213,23 +213,23 @@ updated: 2026-11-11
 
 ---
 
-> [!entry-map] 相关理论与方法矩阵
+> [!entry-map] 相关理论与方法
 >
-> | 关系层级 | 条目 | 类型 | 关系 |
-> |:---|:-----|:-----|:-----|
-> | **核心支撑与基础架构** | [[Coding in Qualitative Research\|质性编码]] | 前置方法 | 编码是内容分析的基本技术支撑，为文本切片赋予概念标签。 |
-> | | [[Unit of Analysis\|分析单位]] | 核心概念 | 界定抽样单位、记录单位与语境单位的操作边界。 |
-> | | [[Data Reduction\|数据缩减]] | 上位概念 | 内容分析是实现质性数据缩减与保真转化的核心分析规程。 |
-> | | [[Data Display\|数据展示]] | 协同工具 | 通过矩阵、表格与网络图空间化呈现内容分析的范畴与频次结构。 |
-> | **范畴建构与比较检验** | [[Domain Analysis\|领域分析]] | 范畴建构 | 在内容分析中将离散分析单元聚合为上位象征范畴。 |
-> | | [[Constant Comparison\|持续比较]] | 补充方法 | 在编码过程中反复比对新旧文本片段，检验范畴一致性与排除反例。 |
-> | | [[Typological Analysis\|类型学分析]] | 相近方法 | 同属按明确标准分类的质性分析技术，类型学分析更侧重多维交叉属性划分。 |
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Coding in Qualitative Research\|质性编码]] | 前置方法 | 作为内容分析的基本技术支撑，为文本切片赋予概念标签。 |
+> | [[Unit of Analysis\|分析单位]] | 核心概念 | 界定抽样单位、记录单位与语境单位的操作边界。 |
+> | [[Data Reduction\|数据缩减]] | 上位概念 | 作为质性数据缩减与保真转化的核心分析规程。 |
+> | [[Data Display\|数据展示]] | 协同工具 | 通过矩阵、表格与网络图空间化呈现内容分析的范畴与频次结构。 |
+> | [[Domain Analysis\|领域分析]] | 范畴建构 | 在分析中将离散分析单元聚合为上位象征范畴。 |
+> | [[Constant Comparison\|持续比较]] | 补充方法 | 在编码过程中反复比对新旧文本片段，检验范畴一致性与排除反例。 |
+> | [[Typological Analysis\|类型学分析]] | 相近方法 | 同属按明确标准分类的质性分析技术，更侧重多维交叉属性划分。 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011)]] — 系统构建内容分析的 11 步标准化操作规程与 Mayring 三类进路，并通过教师工作压力案例示范从质性提取、范畴包容归拢、频次计票到实质性理论生成的完整五阶段流程。
 > - [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]] — 结合[[Observation Method\|观察研究]]中的结构化编码体系与访谈质性分析，示范如何在教育研究中通过范畴化提炼核心概念与建构理论逻辑。
-> - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 探讨内容分析在[[Mixed Methods Research\|混合方法]]与质性文本研究中的应用，强调如何通过[[Winnowing\|数据筛选]]（Winnowing）将繁复编码收敛为 5–7 个核心解释主题。
+> - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 探讨内容分析在[[Mixed Methods Research\|混合方法]]与质性文本研究中的应用，强调如何通过[[Winnowing\|数据筛选]]（Winnowing）将繁复编码凝练为 5–7 个核心解释主题。
 > - [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] — 以 MAXQDA 对德国教育行政官员的 12 场[[Expert Interview\|专家访谈]]、2,796 篇报道与 1,500 份公文做混合编码，考察[[Evidence-Based Education\|循证教育]]工具如何被科层实践吸纳。
-> - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 征引 Rust et al.（1999）与 Larsen（2001）对三大期刊近 2,000 篇论文的内容分析，以历史论文占比跌破 5% 证实学科的[[Historical Amnesia|历史健忘症]]。
+> - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 征引 Rust et al.（1999）与 Larsen（2001）对三大期刊近 2,000 篇期刊文献的内容分析，以历史文献占比跌破 5% 证实学科的[[Historical Amnesia|历史健忘症]]。
