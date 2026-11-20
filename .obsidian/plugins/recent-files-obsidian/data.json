@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Hammermeister_2002_Cambridge_英汉对照",
+      "path": "output/Hammermeister_2002_Cambridge_英汉对照.md"
+    },
+    {
+      "basename": "德国美学传统翻译（全文彭正梅）(1)",
+      "path": "output/德国美学传统翻译（全文彭正梅）(1).md"
+    },
+    {
+      "basename": "基础领域青年人才与科研资助文献摘要",
+      "path": "output/基础领域青年人才与科研资助文献摘要.md"
+    },
+    {
       "basename": "Argument_Hammermeister_2002_Cambridge_Ch07",
       "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch07.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "Argument_Hammermeister_2002_Cambridge_Ch06",
       "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md"
-    },
-    {
-      "basename": "德国美学传统翻译（全文彭正梅）(1)",
-      "path": "output/德国美学传统翻译（全文彭正梅）(1).md"
     },
     {
       "basename": "image1",
@@ -191,14 +199,6 @@
     {
       "basename": "Argument_Gopinathan_2007_GSE",
       "path": "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
-    },
-    {
-      "basename": "Argument_Lim_2015_CurricInq",
-      "path": "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
-    },
-    {
-      "basename": "Curricular Form",
-      "path": "wiki/concepts/curriculum/Curricular Form.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@ subtype: policy
 region: germany
 fact_region: "germany"
 fact_kind: "policy"
-fact_related_count: 24
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -55,6 +55,8 @@ related_facts:
 related_arguments:
   - "[[Argument_Freeman_1995_CJE]]"
   - "[[Argument_Block_2008_PS]]"
+  - "[[Argument_Hippach-Schneider_Rieder_2022_RCIE]]"
+  - "[[Argument_Rohde-Liebenau_Graf_2024_EERJ]]"
 related_methods: []
 confidence: high
 status: active
@@ -154,3 +156,4 @@ updated: 2026-11-20
 > - [[Argument_Block_2008_PS|Block (2008)]] — 从隐蔽[[Developmental Network State|发展型网络国家理论]]视阈，对比德国依托政府、工会与企业“三方协同机制”对一线生产工人技能进行大规模投资的制度实践，深刻揭示美国因忽视双元[[Apprenticeship|学徒制]]而陷入高技术技工断层、最终导致平板显示等先进制造外流的体制弊端。
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 考证 19 世纪普鲁士设立工艺学校（[[Gewerbe-Institut]]）吸引外国工匠带徒传艺并与车间制造紧密协作的历史脉络，论证隐性工艺知识在德国[[National Innovation System|国家创新系统]]与高端机床工程制造中的基石作用。
 > - [[Argument_Hippach-Schneider_Rieder_2022_RCIE|Hippach-Schneider and Rieder (2022)]] — 剖析德国双元制体系在数字化转型中的权责分裂困境，揭示联邦企业培训权与州级学校教育权分离对全国协同现代化的阻滞。
+> - [[Argument_Rohde-Liebenau_Graf_2024_EERJ|Rohde-Liebenau and Graf (2024)]] — 追踪德国职前与继续培训联盟的治理演进，揭示德国双元制在应对结构性缺工中的实验主义协调与欧洲标杆塑造（pp. 513–516）。

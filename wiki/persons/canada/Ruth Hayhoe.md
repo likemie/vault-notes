@@ -9,10 +9,10 @@ cssclasses:
   - person-page
 nationality: canada
 person_region: "canada"
-person_related_count: 0
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1945"
 died: ""
 lifespan: "1945–至今"
@@ -21,13 +21,23 @@ tags:
   - comparative-education
   - higher-education
   - chinese-education
-related_concepts: []
+related_concepts:
+  - "[[Area Studies]]"
+  - "[[Context in Comparative Education]]"
+  - "[[Disciplinary Institutionalization]]"
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons: []
-related_facts: []
-related_arguments: []
+related_persons:
+  - "[[Brian Holmes]]"
+  - "[[Verna Masemann]]"
+  - "[[Robert Cowen]]"
+  - "[[Frances Vavrus]]"
+  - "[[Lesley Bartlett]]"
+related_facts:
+  - "[[Comparative and International Education Society]]"
+related_arguments:
+  - "[[Argument_Vavrus_2006_CICE]]"
 confidence: high
 status: draft
 created: 2026-11-20
@@ -88,8 +98,9 @@ updated: 2026-11-20
 
 > [!person-network] 关系网络
 > - **博士导师** [[Brian Holmes]] — 伦敦大学期间师从霍姆斯，研习问题法与比较教育认识论。
+> - **学术同行** [[Verna Masemann]] — 同在多伦多大学安大略教育研究院（OISE）任教，共同致力于 CIES 领导工作及非西方文明跨文化教育对话。
 > - **学术对话者** [[Robert Cowen]] — 长期围绕比较教育中的“空间、时间与移动（Shape, Time and Move）”展开学术交流。
-> - **学术对话者** 弗朗西丝·瓦夫鲁斯（Frances Vavrus） — 瓦夫鲁斯在倡导跨尺度比较与博士生跨学科培养方案时，将许美德关于区域研究的论断作为关键佐证。
+> - **学术对话者** [[Frances Vavrus|弗朗西丝·瓦夫鲁斯]]（Frances Vavrus）与[[Lesley Bartlett|莱斯利·巴特利特]]（Lesley Bartlett） — 瓦夫鲁斯与巴特利特在倡导跨尺度比较与博士生培养规程时，将许美德关于区域研究的论断作为关键学理佐证。
 
 ---
 

@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 0
+person_related_count: 9
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -24,13 +24,22 @@ tags:
   - qualitative-methods
   - policy-analysis
   - african-education
-related_concepts: []
+related_concepts:
+  - "[[Structural Adjustment Programs]]"
+  - "[[Development Expert]]"
+  - "[[Quick and Dirty Evaluation]]"
+  - "[[Ways of Knowing]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Vertical Case Study]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Lesley Bartlett]]"
+  - "[[Verna Masemann]]"
+  - "[[Michael Crossley]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Vavrus_2006_CICE]]"
 confidence: high
 status: draft
 created: 2026-11-20
@@ -71,7 +80,7 @@ updated: 2026-11-20
 ---
 
 > [!person-thesis] 主张一｜微观地方理解是宏观制度结构的有机组成部分
-> 比较教育学长期存在的微观田野与宏观结构二元割裂，源于将不同尺度视作相互孤立的实体。宏观经济力量与国际援助政策并不是抽象的外部背景，它们直接经由地方层面的社会互动、权力协商与文化抵抗而获得现实具身化。研究者在开展垂直案例分析时，必须将对教室和社区微观实践的深入观察，置于全球政策网络、国家预算分配与历史演变的纵向链条中进行审视，从而化解结构决定论与单纯经验描述主义的双重局限。[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, pp. 96–97)]]
+> 比较教育学长期存在的微观田野与宏观结构二元割裂，源于将不同尺度视作相互孤立的实体。宏观经济力量与国际援助政策深度嵌入地方层面的社会互动、权力协商与文化抵抗，由此获得现实具身化。研究者在开展垂直案例分析时，必须将对教室和社区微观实践的深入观察，置于全球政策网络、国家预算分配与历史演变的纵向链条中进行审视，从而化解结构决定论与单纯经验描述主义的双重局限。[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, pp. 96–97)]]
 >
 > > [!thesis-quote] 《比较认知：为垂直案例研究辩护》（2006）
 > > 垂直案例研究在垂直限定的个案中比较不同社会位置行动者的知识主张，旨在将地方行动和解释置于更广泛的文化、历史与政治考察之中。[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, p. 95)]]
@@ -99,7 +108,7 @@ updated: 2026-11-20
 ---
 
 > [!person-network] 关系网络
-> - **长期学术合作者** [[Lesley Bartlett]] — 共同提出垂直案例研究与比较案例研究框架，长期合著方法论专著与研究论文。
+> - **主要学术伙伴** [[Lesley Bartlett]] — 共同提出垂直案例研究与比较案例研究框架，长期合著方法论专著与研究成果。
 > - **思想承接** [[Verna Masemann]] — 承接其关于认知方式与批判民族志的思想资源，推进多尺度比较案例的认识论转向。
 > - **对话同行** [[Michael Crossley]] — 共同倡导情境敏感性与生态效度原则，批评去情境化的短期快餐式发展评估。
 

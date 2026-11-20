@@ -9,9 +9,9 @@ summary: "由瓦夫鲁斯与巴特利特提出的一种贯通微观与宏观尺�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 34
-method_related_level: 3
-method_related_stars: "💎"
+method_related_count: 44
+method_related_level: 4
+method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
 cssclasses:
   - method-manual
@@ -35,16 +35,21 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Scale in Higher Education]]"
+  - "[[Area Studies]]"
   - "[[Context in Comparative Education]]"
   - "[[Reliability]]"
+  - "[[Decentering the Nation-State]]"
+  - "[[Development Expert]]"
   - "[[Ontology]]"
 related_theories:
   - "[[Critical Realism]]"
+  - "[[Ideological Model of Literacy]]"
 related_methods:
   - "[[Case Study]]"
   - "[[Qualitative Research]]"
   - "[[Fieldwork]]"
   - "[[Effect Size]]"
+  - "[[Multilevel Comparative Analysis]]"
   - "[[Participant Observation]]"
   - "[[Semi-structured Interview]]"
   - "[[Qualitative Observation]]"
@@ -56,9 +61,14 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Comparative Case Study]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Frances Vavrus]]"
+  - "[[Lesley Bartlett]]"
+  - "[[Mark Bray]]"
+  - "[[Michael Crossley]]"
 related_facts:
   - "[[Comparative and International Education Society]]"
+  - "[[Comparatively Speaking]]"
 related_arguments:
   - "[[Argument_Vavrus_2006_CICE]]"
 confidence: high
@@ -70,7 +80,7 @@ updated: 2026-11-20
 ---
 
 > [!def] Vertical Case Study
-> **垂直[[Case Study|个案研究]]（Vertical Case Study, VCS）** 是由弗朗西丝·瓦夫鲁斯（Frances Vavrus）与莱斯利·巴特利特（Lesley Bartlett）提出的一种跨越微观、中观与宏观尺度的[[Qualitative Research|质性研究]]设计。该方法主张在垂直限定的个案内部，比较处于不同社会位置行动者的知识主张，将地方层面的微观行动与意义解释置于宏观历史、文化与政治权力的考察脉络之中，打破将民族国家预设为封闭容器的传统假设，为超越普遍主义与极端相对主义确立了多尺度比较[[Epistemology|认识论]]路径。[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, pp. 95–96)]]
+> **垂直[[Case Study|个案研究]]（Vertical Case Study, VCS）** 是由[[Frances Vavrus|弗朗西丝·瓦夫鲁斯]]（Frances Vavrus）与[[Lesley Bartlett|莱斯利·巴特利特]]（Lesley Bartlett）提出的一种跨越微观、中观与宏观尺度的[[Qualitative Research|质性研究]]设计。该方法主张在垂直限定的个案内部，比较处于不同社会位置行动者的知识主张，将地方层面的微观行动与意义解释置于宏观历史、文化与政治权力的考察脉络之中，打破将民族国家预设为封闭容器的传统假设，为超越普遍主义与极端相对主义确立了多尺度比较[[Epistemology|认识论]]路径。[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, pp. 95–96)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 深度嵌入在地方社区、学校、国家行政机构以及跨国治理网络中的教育政策实践、改革干预与行动者意义协商。
@@ -78,7 +88,7 @@ updated: 2026-11-20
 > - **[[Unit of Analysis|分析单位]]** 垂直限定的多层级个案，涵盖微观行动者（学生、教师、社区成员）、中观机构（学校、地方学区、国家教育部）以及宏观超国家实体（国际援助机构、跨国[[Policy Network|政策网络]]）。
 > - **输出形式** 跨尺度的[[Rich and Thick Description|深描]]叙事、权力与知识的位序对照图景、政策修辞与地方实践的断层解析，以及制度运行的多层机制推演。
 
-> [!citation-card] 瓦夫鲁斯与巴特利特论垂直个案研究的核心界定
+> [!citation-card] [[Frances Vavrus|瓦夫鲁斯]]与[[Lesley Bartlett|巴特利特]]论垂直个案研究的核心界定
 > 垂直个案研究作为一种比较处于不同社会位置的行动者知识主张的途径，旨在将地方行动和解释置于更广泛的文化、历史与政治考察之中……对情境和地方层面的关注是生成可信知识所必须履行的义务。[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, pp. 95–96)]]
 >
 > *Based on our view of comparative knowledge, we propose the vertical case study as a means of comparing knowledge claims among actors with different social locations in an attempt to situate local action and interpretation within a broader cultural, historical, and political investigation... attention to context and the local level is not optional but obligatory in order to generate trustworthy knowledge.*

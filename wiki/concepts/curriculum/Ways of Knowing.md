@@ -6,7 +6,7 @@ aliases:
 summary: "认识论与课程论中指称人类获取、建构、表达和审查知识的多维途径与经验资源；既是国际文凭知识论课程中连接个人与共享知识的元认知分析框架，也是科学教育视阈下体现学科特异性与文化多样性的认识论实践形态，并被拓展为比较教育中考察不同社会位置行动者知识主张的多尺度分析视角。"
 type: concept
 domain: "curriculum"
-related_count: 45
+related_count: 44
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -25,11 +25,10 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[STEM Education]]"
   - "[[Epistemic Practices]]"
-  - "[[Scientific Method]]"
-  - "[[The Sublime]]"
   - "[[Champ]]"
   - "[[Knowledge Framework]]"
   - "[[Scaffolding]]"
+  - "[[Scientific Method]]"
   - "[[Retrodiction]]"
   - "[[Construct]]"
   - "[[Unit of Analysis]]"
@@ -42,17 +41,16 @@ related_concepts:
   - "[[Domain Specificity]]"
   - "[[Socioscientific Issues]]"
   - "[[Chain of Evidence]]"
+  - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Heterogeneity]]"
   - "[[Evidence Standards]]"
   - "[[Operationalization]]"
   - "[[Scoring Rubrics]]"
-  - "[[Alienation]]"
   - "[[Critical Thinking]]"
   - "[[Reliability]]"
   - "[[Problem Solving]]"
   - "[[Critical Thinking Assessment]]"
   - "[[Knowledge Questions]]"
-  - "[[Local Knowledge in Evidence-Based Policy]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
 related_methods:
@@ -60,15 +58,16 @@ related_methods:
   - "[[Comparative Case Study]]"
 related_instruments: []
 related_persons:
-  - "[[René Descartes]]"
-  - "[[Plato]]"
+  - "[[Verna Masemann]]"
+  - "[[Frances Vavrus]]"
+  - "[[Lesley Bartlett]]"
 related_facts: []
 related_arguments:
+  - "[[Argument_Vavrus_2006_CICE]]"
   - "[[Argument_Hughes_2014_JRIE]]"
   - "[[Argument_Kelly_Licona_2018_EpistemicPractices]]"
   - "[[Argument_Darwish_2009_Queens]]"
   - "[[Argument_Zemplen_2007_SciEduc]]"
-  - "[[Argument_Vavrus_2006_CICE]]"
 confidence: high
 status: completed
 created: 2026-07-26
@@ -78,7 +77,7 @@ updated: 2026-11-20
 ---
 
 > [!def] Ways of Knowing
-> 认知方式（Ways of Knowing, WOK）是[[Epistemology|认识论]]、课程论与比较教育学中用于阐释人类个体与共同体如何获取、建构、表达与检验知识的核心分析概念。知者在面对复杂经验现象时，调动感知、语言、推理、情感以及学科特定实践规程以赋予世界以意义。在[[International Baccalaureate|国际文凭]]大学预科项目（International Baccalaureate, IB）[[Theory of Knowledge|知识论]]课程（Theory of Knowledge, TOK）中，它表现为连接认知主体、个人知识、共享知识与[[Areas of Knowledge|知识领域]]（Areas of Knowledge, AOK）的课程[[Metacognition|元认知]]分析工具；在当代[[STEM Education|跨学科科学教育]]与科学实践研究中，它体现为不同学科门类与文化共同体所持有的情境化[[Epistemic Practices|认识论实践]]；而在比较教育学中，维斯娜·马塞曼（Verna Masemann, 1990）与瓦夫鲁斯和巴特利特（[[Argument_Vavrus_2006_CICE|Vavrus & Bartlett, 2006]]）将其拓展为审视多尺度知识主张及其社会定位的认识论透镜。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, p. 36)]]；[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, p. 154)]]；[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, p. 96)]]
+> 认知方式（Ways of Knowing, WOK）是[[Epistemology|认识论]]、课程论与比较教育学中用于阐释人类个体与共同体如何获取、建构、表达与检验知识的核心分析概念。知者在面对复杂经验现象时，调动感知、语言、推理、情感以及学科特定实践规程以赋予世界以意义。在[[International Baccalaureate|国际文凭]]大学预科项目（International Baccalaureate, IB）[[Theory of Knowledge|知识论]]课程（Theory of Knowledge, TOK）中，它表现为连接认知主体、个人知识、共享知识与[[Areas of Knowledge|知识领域]]（Areas of Knowledge, AOK）的课程[[Metacognition|元认知]]分析工具；在当代[[STEM Education|跨学科科学教育]]与科学实践研究中，它体现为不同学科门类与文化共同体所持有的情境化[[Epistemic Practices|认识论实践]]；而在比较教育学中，[[Verna Masemann|维斯娜·马塞曼]]（Verna Masemann, 1990）与[[Frances Vavrus|瓦夫鲁斯]]和[[Lesley Bartlett|巴特利特]]（[[Argument_Vavrus_2006_CICE|Vavrus & Bartlett, 2006]]）将其拓展为审视多尺度知识主张及其社会定位的认识论透镜。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, p. 36)]]；[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, p. 154)]]；[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, p. 96)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 刻画知者借助哪些认知资源、符号中介、社会规程与权力网络形成并审查知识主张。
@@ -177,8 +176,8 @@ updated: 2026-11-20
 > [!concept-proposition] 命题三｜比较与国际教育将认知方式拓展为多尺度认识论追问，比较不同社会位置行动者的知识主张
 > **跨尺度认识论追问与知识主张定位** 探讨比较教育学如何超越单一维度的国家制度对比，将认知方式拓展为追问知识如何生成、谁的知识被赋予特权的认识论反思。
 
-> [!claim] Vavrus, F. & Bartlett, L.
-> **多尺度垂直透镜下的认知方式与知识主张比较** 维斯娜·马塞曼（Masemann, 1990）指出，对“认知方式”概念的狭隘理解长期束缚了比较教育学的基本定义。比较教育的核心命题不仅在于比较不同国家的教育运行方式，更在于开展深层的认识论追问——确立何种知识可以通过比较被认知，以及人类如何获知世界。[[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] 承接这一命题，指出垂直案例研究必须将处于不同社会位置行动者的知识主张纳入对比视野。通过在单个研究设计中贯通国际捐助方、国家教育部官员与基层学校师生的微观深描，研究者能够揭示各层级行动者不同的认知方式，使宏观技术官僚的抽象假设与微观群体的生存现实展开认识论对话。[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, pp. 96–97)]]
+> [!claim] [[Frances Vavrus|Vavrus, F.]] & [[Lesley Bartlett|Bartlett, L.]]
+> **多尺度垂直透镜下的认知方式与知识主张比较** [[Verna Masemann|维斯娜·马塞曼]]（Masemann, 1990）指出，对“认知方式”概念的狭隘理解长期束缚了比较教育学的基本定义。比较教育的核心命题不仅在于比较不同国家的教育运行方式，更在于开展深层的认识论追问——确立何种知识可以通过比较被认知，以及人类如何获知世界。[[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] 承接这一命题，指出垂直案例研究必须将处于不同社会位置行动者的知识主张纳入对比视野。通过在单个研究设计中贯通国际捐助方、国家教育部官员与基层学校师生的微观深描，研究者能够揭示各层级行动者不同的认知方式，使宏观技术官僚的抽象假设与微观群体的生存现实展开认识论对话。[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, pp. 96–97)]]
 
 ---
 
@@ -198,15 +197,15 @@ updated: 2026-11-20
 > |---|---|---|---|
 > | **认知协同建构命题** | 多种认知方式动态互动，构成私人经验通向共享知识的认识论桥梁 | 跨学科探究、知识主张形成机制分析 | [[Argument_Darwish_2009_Queens\|Darwish (2009)]]; [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] |
 > | **学科异质与公共审查命题** | 认知方式具有鲜明的学科特异性，核心在于使证据面向公共理性审查开放 | K-12 科学教育、跨学科认识论实践、科学方法批判 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] |
-> | **多尺度认识论追问命题** | 认知方式超越表层制度对比，通过贯通垂直尺度揭示不同社会位置行动者的知识主张 | 比较与国际教育、垂直案例研究、多尺度政策分析 | Masemann (1990); [[Argument_Vavrus_2006_CICE\|Vavrus and Bartlett (2006)]] |
+> | **多尺度认识论追问命题** | 认知方式超越表层制度对比，通过贯通垂直尺度揭示不同社会位置行动者的知识主张 | 比较与国际教育、垂直案例研究、多尺度政策分析 | [[Verna Masemann|Masemann]] (1990); [[Argument_Vavrus_2006_CICE\|Vavrus and Bartlett (2006)]] |
 > | **评估异化与构念张力命题** | 认知方式的标准化评分在促进对齐的同时存在术语表演与替代思维的风险 | 课程评估设计、文章量规研制、[[Critical Thinking Assessment\|批判性思维评价]] | [[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]]; 同上（Hughes） |
 
 ---
 
 > [!dev-timeline] 概念演变
-> - **1990 — 比较教育认识论转向** 马塞曼（Masemann, 1990）在比较与国际教育学会（CIES）会长演讲中指出，狭隘的认知方式理解束缚了比较教育的发展，呼吁确立探寻“何种知识能通过比较被认知”的认识论维度。
+> - **1990 — 比较教育认识论转向** [[Verna Masemann|马塞曼]]（Masemann, 1990）在比较与国际教育学会（CIES）会长演讲中指出，狭隘的认知方式理解束缚了比较教育的发展，呼吁确立探寻“何种知识能通过比较被认知”的认识论维度。
 > - **1990s–2000s — IB [[Theory of Knowledge|知识论]]课程确立传统四项模型** 知识论大纲将感官知觉、情感、语言与理性确立为核心认知方式，突出认知主体中心与跨学科知识反思。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 16–17)]]
-> - **2006 — 垂直案例研究与多尺度知态比较** 瓦夫鲁斯与巴特利特（[[Argument_Vavrus_2006_CICE|Vavrus & Bartlett, 2006]]）将认知方式引申至多尺度个案研究，强调比较处于不同社会位置行动者的知识主张。
+> - **2006 — 垂直案例研究与多尺度知态比较** [[Frances Vavrus|瓦夫鲁斯]]与[[Lesley Bartlett|巴特利特]]（[[Argument_Vavrus_2006_CICE|Vavrus & Bartlett, 2006]]）将认知方式引申至多尺度个案研究，强调比较处于不同社会位置行动者的知识主张。
 > - **2007 — 课程术语反思与规训批判** 曾普伦（[[Argument_Zemplen_2007_SciEduc|Zemplén, 2007]]）发表批判性研究，警示认知方式等分类术语在实际教学中可能演化为阻碍实质性反思的评价标签。
 > - **2013 — 分类扩展为八项并强化结构连接** 新版指南扩展引入想象、信仰、直觉与记忆，要求学生系统探索认知方式与[[Areas of Knowledge|知识领域]]、[[Knowledge Questions|知识问题]]之间的多维联系。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 36–38)]]
 > - **2018 — [[STEM Education|跨学科科学教育]]与多元[[Epistemic Practices|认识论实践]]整合** [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]] 将认知方式拓展至广阔的科学实践视域，揭示不同学科门类情境化的认知方式，强化面向公共理性审查的证据价值。
@@ -245,6 +244,6 @@ updated: 2026-11-20
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hughes_2014_JRIE|Hughes (2014)]] — 分析认知方式在 IB [[Theory of Knowledge|TOK]] 课程大纲、评估目标与文章评分量规中的结构对齐情况，探讨其在[[Epistemology|认识论]]分析与[[Critical Thinking|批判性思维]]培养中的功能与界限。
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]] — 将认知方式拓展至跨学科科学实践研究，论证探究科学、工程设计与社会议题具有不同的学科认知方式，强调面向公共审查的系统化证据建构价值（pp. 140, 154）。
-> - [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] — 结合马塞曼（Masemann, 1990）的总统演讲，将认知方式拓展为比较教育的深层认识论追问，论证垂直案例研究如何比较处于不同社会位置行动者的知识主张（pp. 96–97）。
+> - [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] — 结合[[Verna Masemann|马塞曼]]（Masemann, 1990）的会长演讲，将认知方式拓展为比较教育的深层认识论追问，论证垂直案例研究如何比较处于不同社会位置行动者的知识主张（pp. 96–97）。
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 梳理 TOK 传统四项认知方式（感知、情感、语言、理性）在认知者中心的连续互动机制与课堂探究设计。
 > - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 从科学教育与修辞学视角批判跨学科课程框架术语的潜在规训效应，揭示认知方式分类诱发术语表演的形式主义风险。

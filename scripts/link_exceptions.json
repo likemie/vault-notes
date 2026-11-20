@@ -1398,5 +1398,11 @@
       "sentence": "其实验物理学的突破直接伴随斯坦福跻身世界顶尖学府，而战后美国得主高频推荐本土同僚的行为，进一步强化了北美学术体制的统治地位 (Heinze & Fuchs, 2022)。",
       "target": "wiki/concepts/educational-philosophy/Philosophical Aesthetics.md"
     }
+  ],
+  "wiki/concepts/research-methodology/Theoretical Perspective.md": [
+    {
+      "sentence": "北美学术界常将方法论收窄为统计抽样等技术操作，造成学科认识论贫乏；而在英欧传统与严谨元研究中，方法论是统领研究范式与概念框架的最高层级，其实质正是“理论视角”。",
+      "target": "wiki/concepts/educational-philosophy/Philosophical Aesthetics.md"
+    }
   ]
 }

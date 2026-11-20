@@ -1053,6 +1053,16 @@
     ]
   },
   {
+    "title": "Experimentalist Governance",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Experimentalist Governance.md",
+    "aliases": [
+      "实验主义治理",
+      "实验主义治理模式",
+      "实验主义治理架构"
+    ]
+  },
+  {
     "title": "Externalization",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Externalization.md",
@@ -42802,6 +42812,16 @@
     "subtype": "program"
   },
   {
+    "title": "European Alliance for Apprenticeships",
+    "type": "fact",
+    "path": "wiki/facts/eu/European Alliance for Apprenticeships.md",
+    "aliases": [
+      "欧洲学徒制联盟",
+      "EAfA"
+    ],
+    "subtype": "program"
+  },
+  {
     "title": "European Research Area",
     "type": "fact",
     "path": "wiki/facts/eu/European Research Area.md",
@@ -44376,6 +44396,18 @@
       "Preußischer Bildungsgesetzentwurf von 1819"
     ],
     "subtype": "policy"
+  },
+  {
+    "title": "Alliance for Initial and Further Training",
+    "type": "fact",
+    "path": "wiki/facts/germany/Alliance for Initial and Further Training.md",
+    "aliases": [
+      "全德职前与继续培训联盟",
+      "德国职前与继续培训联盟",
+      "Allianz für Aus- und Weiterbildung",
+      "AAW"
+    ],
+    "subtype": "program"
   },
   {
     "title": "Chemie im Kontext",
@@ -56329,6 +56361,11 @@
     "title": "Argument_Møller_2017_EERJ",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Møller_2017_EERJ.md"
+  },
+  {
+    "title": "Argument_Rohde-Liebenau_Graf_2024_EERJ",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
   },
   {
     "title": "Argument_Berk_2011_EvalRev",

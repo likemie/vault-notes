@@ -103,17 +103,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "output/德国美学传统翻译（全文彭正梅）(1).md",
+                "file": "output/Hammermeister_2002_Cambridge_英汉对照.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "德国美学传统翻译（全文彭正梅）(1)"
+              "title": "Hammermeister_2002_Cambridge_英汉对照"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -330,8 +330,22 @@
       "ai-usage-float:显示或隐藏额度浮窗": false
     }
   },
-  "active": "e2374d26ccaac553",
+  "active": "747dffa84dfbb974",
   "lastOpenFiles": [
+    "output/related-updates/Argument_Hippach-Schneider_Rieder_2022_RCIE-b6d97e98/batch-002/result.json",
+    "sources/Rohde-Liebenau_Graf_2024_EERJ/figures/Rohde-Liebenau_Graf_2024_EERJ_Fig1_Theorised_Drivers_of_VET_Governance_Reforms.jpg",
+    "sources/Rohde-Liebenau_Graf_2024_EERJ/Rohde-Liebenau_Graf_2024_EERJ.pdf",
+    "sources/Rohde-Liebenau_Graf_2024_EERJ/figures",
+    "sources/Rohde-Liebenau_Graf_2024_EERJ/Rohde-Liebenau_Graf_2024_EERJ.md",
+    "sources/Rohde-Liebenau_Graf_2024_EERJ",
+    "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md",
+    "output/德国美学传统翻译（全文彭正梅）(1).md",
+    "output/基础领域青年人才与科研资助文献摘要.md",
+    "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch07.md",
+    "wiki/facts/germany/Alliance for Initial and Further Training.md",
+    "wiki/facts/eu/European Alliance for Apprenticeships.md",
+    "wiki/concepts/comparative-education/Experimentalist Governance.md",
+    "output/related-updates/Argument_VonDerHeyden_Heinze_2025_PLOSONE-812c138c/batch-003/result.json",
     "sources/Rohde-Liebenau_Graf_2024_EERJ.md",
     "sources/Rohde-Liebenau_Graf_2024_EERJ.pdf",
     "wiki/persons/us/Lesley Bartlett.md",
@@ -348,28 +362,15 @@
     "output/related-updates/Argument_VonDerHeyden_Heinze_2025_PLOSONE-812c138c/batch-008/prompt.md",
     "output/related-updates/Argument_VonDerHeyden_Heinze_2025_PLOSONE-812c138c/batch-008/batch-result.schema.json",
     "output/related-updates/Argument_VonDerHeyden_Heinze_2025_PLOSONE-812c138c/batch-007/prompt.md",
-    "output/related-updates/Argument_VonDerHeyden_Heinze_2025_PLOSONE-812c138c/batch-007/batch-result.schema.json",
     "output/related-updates/Argument_VonDerHeyden_Heinze_2025_PLOSONE-812c138c/batch-006/prompt.md",
-    "output/related-updates/Argument_VonDerHeyden_Heinze_2025_PLOSONE-812c138c/batch-006/batch-result.schema.json",
     "output/related-updates/Argument_VonDerHeyden_Heinze_2025_PLOSONE-812c138c/batch-005/prompt.md",
-    "output/related-updates/Argument_VonDerHeyden_Heinze_2025_PLOSONE-812c138c/batch-005/batch-result.schema.json",
     "output/related-updates/Argument_VonDerHeyden_Heinze_2025_PLOSONE-812c138c/batch-004/prompt.md",
-    "output/related-updates/Argument_VonDerHeyden_Heinze_2025_PLOSONE-812c138c/batch-004/batch-result.schema.json",
     "output/related-updates/Argument_VonDerHeyden_Heinze_2025_PLOSONE-812c138c/batch-003/prompt.md",
     "output/related-updates/Argument_VonDerHeyden_Heinze_2025_PLOSONE-812c138c/batch-002/prompt.md",
     "output/related-updates/Argument_VonDerHeyden_Heinze_2025_PLOSONE-812c138c/batch-001/prompt.md",
     "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md",
     "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md",
-    "output/德国美学传统翻译（全文彭正梅）(1).md",
-    "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch07.md",
     "output/德国美学传统翻译（全文彭正梅）(1)_assets/image1.png",
-    "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/掌阅最低购书成本算法-精简实施方案.md",
-    "file:/Users/shaoyangwu/Documents/zhangyue/docs/ireader-work-access-master-plan-v4.md",
-    "wiki/concepts/educational-philosophy/Philosophical Aesthetics.md",
-    "wiki/methods/quantitative/Cochran's Q Test.md",
-    "wiki/methods/quantitative/Cognitive Extent.md",
-    "output/related-updates/Argument_Hippach-Schneider_Rieder_2022_RCIE-b6d97e98/batch-010/prompt.md",
-    "output/related-updates/Argument_Hippach-Schneider_Rieder_2022_RCIE-b6d97e98/batch-009/prompt.md",
     "sources/VonDerHeyden_Heinze_2025_PLOSONE/figures/VonDerHeyden_Heinze_2025_PLOSONE_Fig5_Self_Nominations_Over_Time.jpg",
     "sources/VonDerHeyden_Heinze_2025_PLOSONE/figures/VonDerHeyden_Heinze_2025_PLOSONE_Fig4_Organizational_Nomination_Network.jpg",
     "sources/VonDerHeyden_Heinze_2025_PLOSONE/figures/VonDerHeyden_Heinze_2025_PLOSONE_Fig3_Proportions_Nominators_Nominees.jpg",
@@ -377,7 +378,6 @@
     "sources/VonDerHeyden_Heinze_2025_PLOSONE/figures/VonDerHeyden_Heinze_2025_PLOSONE_Fig1_Top4_Nominating_Countries.jpg",
     "sources/Luo_2026_IFDCK/figures/Luo_2026_IFDCK_Fig3_Dual_Nature_Conceptual_Model.jpg",
     "sources/Luo_2026_IFDCK/figures/Luo_2026_IFDCK_Fig2_Funding_Strategy_Architecture.jpg",
-    "sources/Luo_2026_IFDCK/figures/Luo_2026_IFDCK_Fig1_Policy_Shift_Milestones.jpg",
     "未命名.canvas"
   ]
 }

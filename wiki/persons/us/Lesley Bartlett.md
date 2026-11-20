@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 0
+person_related_count: 8
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -24,13 +24,21 @@ tags:
   - literacy-studies
   - qualitative-methods
   - case-study
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Quick and Dirty Evaluation]]"
+  - "[[Ways of Knowing]]"
+related_theories:
+  - "[[Ideological Model of Literacy]]"
+related_methods:
+  - "[[Vertical Case Study]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Frances Vavrus]]"
+  - "[[Verna Masemann]]"
+  - "[[Michael Crossley]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Vavrus_2006_CICE]]"
 confidence: high
 status: draft
 created: 2026-11-20
@@ -97,7 +105,7 @@ updated: 2026-11-20
 ---
 
 > [!person-network] 关系网络
-> - **长期学术合作者** [[Frances Vavrus]] — 共同开创垂直案例研究与比较案例研究范式，合著核心方法论著作。
+> - **主要学术伙伴** [[Frances Vavrus]] — 共同开创垂直案例研究与比较案例研究范式，合著核心方法论著作。
 > - **思想承接** [[Verna Masemann]] — 承接批判民族志在比较教育中的方法探索，深化为跨越微观宏观的系统案例设计。
 > - **对话同行** [[Michael Crossley]] — 在质性案例研究生态效度与反对短期快餐式发展评估方面持有共同学术立场。
 
@@ -108,6 +116,6 @@ updated: 2026-11-20
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Vertical Case Study]] | 方法 | 与瓦夫鲁斯共同创立垂直案例研究，确立多尺度质性比较框架。 |
-> | [[Quick and Dirty Evaluation]] | 概念 | 批判发展咨询缺乏实地沉浸与理论基础的浅层评估，主张扎根深描。 |
 > | [[Ideological Model of Literacy]] | 理论 | 将扫盲意识形态模型应用于跨国教育人类学实地调查与案例分析。 |
+> | [[Quick and Dirty Evaluation]] | 概念 | 批判发展咨询缺乏实地沉浸与理论基础的浅层评估，主张扎根深描。 |
 > | [[Ways of Knowing]] | 概念 | 运用认识方式视角对比不同社会位置行动者的知识主张与实践逻辑。 |

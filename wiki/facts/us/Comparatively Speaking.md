@@ -11,7 +11,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 0
+fact_related_count: 9
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -21,13 +21,22 @@ tags:
   - discipline-history
   - documentary
   - region/us
-related_concepts: []
+related_concepts:
+  - "[[Epistemology]]"
+  - "[[Ways of Knowing]]"
+  - "[[Disciplinary Institutionalization]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Vertical Case Study]]"
 related_instruments: []
-related_persons: []
-related_facts: []
-related_arguments: []
+related_persons:
+  - "[[Verna Masemann]]"
+  - "[[Frances Vavrus]]"
+  - "[[Lesley Bartlett]]"
+related_facts:
+  - "[[Comparative and International Education Society]]"
+related_arguments:
+  - "[[Argument_Vavrus_2006_CICE]]"
 confidence: high
 status: draft
 created: 2026-11-20
@@ -79,9 +88,9 @@ updated: 2026-11-20
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Epistemology]] | 概念 | 纪录片所记录的学科争论实质指向如何通过比较获得可信知识的核心认识论议题。 |
-> | [[Ways of Knowing]] | 概念 | 马塞曼在纪录片中强调的认知方式构成了反思学科定义的重要参照。 |
+> | [[Ways of Knowing]] | 概念 | [[Verna Masemann|马塞曼]]在演说与访谈中强调的认知方式构成了反思学科定义的重要参照。 |
 > | [[Disciplinary Institutionalization]] | 概念 | 纪录片完整呈现了比较与国际教育学会成立半个世纪以来的学科建制化轨迹。 |
-> | [[Vertical Case Study]] | 方法 | 瓦夫鲁斯与巴特利特将该纪录片揭示的学科断裂作为提出垂直个案研究的历史动因。 |
+> | [[Vertical Case Study]] | 方法 | [[Frances Vavrus|瓦夫鲁斯]]与[[Lesley Bartlett|巴特利特]]将该纪录片揭示的学科分立作为提出垂直个案研究的历史动因。 |
 > | [[Comparative and International Education Society]] | 事实 | 该纪录片由学会 50 周年庆典委员会发起并专门记录其半个世纪学术历史。 |
 
 ---

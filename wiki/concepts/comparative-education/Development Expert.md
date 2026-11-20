@@ -10,7 +10,7 @@ aliases:
 summary: "国际发展援助与教育咨询体系中的关键角色构念，指代受多边金融机构或双边援助组织委托的技术顾问；后殖民批判与垂直个案研究揭示其去情境化的短期咨询范式容易压制本土知识并再生产依附性权力关系。"
 type: concept
 domain: "comparative-education"
-related_count: 0
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,13 +19,22 @@ tags:
   - international-development
   - postcolonialism
   - methodology
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Quick and Dirty Evaluation]]"
+  - "[[Local Knowledge in Evidence-Based Policy]]"
+  - "[[Context in Comparative Education]]"
+  - "[[Reflexivity]]"
+related_theories:
+  - "[[Human Capital Theory]]"
+related_methods:
+  - "[[Vertical Case Study]]"
 related_instruments: []
-related_persons: []
-related_facts: []
-related_arguments: []
+related_persons:
+  - "[[Joel Samoff]]"
+related_facts:
+  - "[[World Bank]]"
+related_arguments:
+  - "[[Argument_Vavrus_2006_CICE]]"
 confidence: high
 status: draft
 created: 2026-11-20
@@ -65,7 +74,7 @@ updated: 2026-11-20
 
 > [!feature] 核心要素
 > - **制度化声望激励与权威建构** 国际机构提供丰厚报酬与学术合法性声望，促使研究者在缺乏本土储备时以专家自居。[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, p. 98)]]
-> - **快餐式评估的去情境化倾向** 依赖预制标准化问卷与短期走访，抽离复杂的社区权力结构与历史脉络。
+> - **[[Quick and Dirty Evaluation|快餐式评估]]的去情境化倾向** 依赖预制标准化问卷与短期走访，抽离复杂的社区权力结构与历史脉络。
 > - **虚假全球共识的单向移植** 将特定出资机构的意识形态与管理偏好包装为普遍适用的国际经验。
 
 > [!logic-map]- 要素关系

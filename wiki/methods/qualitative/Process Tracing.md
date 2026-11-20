@@ -10,7 +10,7 @@ summary: "政治学与比较政治学中用于案例内质性因果推断的核�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 29
+method_related_count: 28
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Document]]"
   - "[[Internal and External Generalizability]]"
-  - "[[Professional Judgment]]"
 related_theories:
   - "[[Six-Stage Model of Policymaking]]"
   - "[[Punctuated Equilibrium Theory]]"
@@ -54,14 +53,14 @@ related_persons: []
 related_facts:
   - "[[Advanced Technological Education]]"
   - "[[Higher Education and Research Plan]]"
-  - "[[Common Core State Standards]]"
 related_arguments:
   - "[[Argument_McDonnell_2013_AmJE]]"
   - "[[Argument_Dang_2017_ORE]]"
+  - "[[Argument_Rohde-Liebenau_Graf_2024_EERJ]]"
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 
 ---
@@ -150,4 +149,4 @@ updated: 2026-11-19
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 运用过程追踪法考察美国《共同核心州立标准》（CCSS）全生命周期中研究证据的利用轨迹与因果机制。
 > - [[Argument_Dang_2017_ORE|Dang (2017)]] — 运用过程追踪法追踪东盟高等教育关键决策节点，识别出内部协调、加三社会化与亚欧互鉴三维因果机制（pp. 3–4）。
-> - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 麦克唐纳与韦瑟福德通过过程追踪法追踪[[Common Core State Standards|共同核心标准]] 5 年生命周期，揭示出实证研究如何与[[Professional Judgment|专业判断]]及政治价值发生阶段权变性整合。
+> - [[Argument_Rohde-Liebenau_Graf_2024_EERJ|Rohde-Liebenau and Graf (2024)]] — 运用过程追踪法检验欧盟与德国学徒制联盟平行演进机制，确证应对宏观治理挑战的外部驱动力（pp. 509–511）。

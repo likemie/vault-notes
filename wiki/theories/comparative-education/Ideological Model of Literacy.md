@@ -10,7 +10,7 @@ aliases:
 summary: "由布赖恩·斯特里特于1984年提出的识字与社会实践理论，批判将读写能力视为技术中立认知技能的自主模型，主张识字实践始终嵌入在特定的文化意义、制度脉络与微观权力关系之中。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 0
+theory_related_count: 9
 theory_related_level: 0
 theory_related_stars: "☆"
 theory_related_color: "#e5e7eb"
@@ -19,13 +19,22 @@ tags:
   - comparative-education
   - literacy-studies
   - anthropology-of-education
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Context in Comparative Education]]"
+  - "[[Local Knowledge in Evidence-Based Policy]]"
+  - "[[Ecological Validity]]"
+related_theories:
+  - "[[Human Capital Theory]]"
+related_methods:
+  - "[[Vertical Case Study]]"
 related_instruments: []
-related_persons: []
-related_facts: []
-related_arguments: []
+related_persons:
+  - "[[Frances Vavrus]]"
+  - "[[Lesley Bartlett]]"
+related_facts:
+  - "[[Education for All]]"
+related_arguments:
+  - "[[Argument_Vavrus_2006_CICE]]"
 confidence: high
 status: draft
 created: 2026-11-20
@@ -54,7 +63,7 @@ updated: 2026-11-20
 > [!dev-timeline] 理论版本与贡献
 > - **1984 — 自主模型与意识形态模型二元分类确立** 布赖恩·斯特里特出版《理论与实践中的识字》，确立新素养研究的认识论基石。
 > - **1990s — 发展中国家多元识字民族志拓展** 库利克与斯特劳德（Don Kulick & Christopher Stroud, 1993）及卡罗琳·戴尔与阿奇纳·乔克西（Caroline Dyer & Archana Choksi, 1998）等人将该模型拓展至大洋洲与南亚实地，证明本土识字实践具备抵御经济欺诈与维系宗教仪式的独特功能。
-> - **2006 — 比较教育跨尺度认识论整合** 瓦夫鲁斯与巴特利特将意识形态模型与垂直案例研究结合，论证宏观跨国统一量化指标掩盖了地方文化真实，确立了微观识字民族志对宏观教育政策制定的认识论校正功能。[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, p. 97)]]
+> - **2006 — 比较教育跨尺度认识论整合** [[Frances Vavrus|瓦夫鲁斯]]与[[Lesley Bartlett|巴特利特]]将意识形态模型与[[Vertical Case Study|垂直案例研究]]结合，论证宏观跨国统一量化指标掩盖了地方文化真实，确立了微观识字民族志对宏观教育政策制定的认识论校正功能。[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, p. 97)]]
 
 ---
 

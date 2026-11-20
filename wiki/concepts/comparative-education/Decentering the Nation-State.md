@@ -8,7 +8,7 @@ aliases:
 summary: "解构将民族国家视为主权封闭、内部均质的天然比较单元的方法论预设，将国家重置为由地方实践、国家制度与跨国全球网络相互建构的多尺度治理节点。"
 type: concept
 domain: "comparative-education"
-related_count: 0
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,13 +16,21 @@ tags:
   - comparative-education
   - methodology
   - globalization
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Unit of Analysis]]"
+  - "[[Scale in Higher Education]]"
+related_theories:
+  - "[[Pluri-Scalar Governance]]"
+related_methods:
+  - "[[Multilevel Comparative Analysis]]"
+  - "[[Vertical Case Study]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Frances Vavrus]]"
+  - "[[Lesley Bartlett]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Vavrus_2006_CICE]]"
 confidence: high
 status: draft
 created: 2026-11-20
@@ -86,8 +94,8 @@ updated: 2026-11-20
 > [!concept-proposition] 命题二｜去中心化视角在超越普遍主义与极端相对主义的同时拓展了多尺度比较解释力
 > **双重超越与关系性比较** 该命题确立了去国家中心化在方法论上的平衡功能，指出唯有解构以国家为单位的虚假均质性，才能同时容纳微观地方的情境真实与宏观跨国权力的结构共通性。
 
-> [!claim] Vavrus, F. & Bartlett, L.
-> **关系性比较规避方法偏误** 瓦夫鲁斯（Frances Vavrus）与巴特利特（Lesley Bartlett）论证，去民族国家中心化通过开启地方-国家与地方-全球的多重纵向探究路径，拓展了对国家制度中介功能的深层考察。这种取向反对抹杀地方差异、强推同一发展模式的普遍主义，同时也防止了将不同国家或社区视为完全无法沟通孤岛的极端相对主义，确立了具有批判力量的比较认知范式。[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, p. 99)]]
+> [!claim] [[Frances Vavrus|Vavrus, F.]] & [[Lesley Bartlett|Bartlett, L.]]
+> **关系性比较规避方法偏误** [[Frances Vavrus|瓦夫鲁斯]]（Frances Vavrus）与[[Lesley Bartlett|巴特利特]]（Lesley Bartlett）论证，去民族国家中心化通过开启地方-国家与地方-全球的多重纵向探究路径，拓展了对国家制度中介功能的深层考察。这种取向反对抹杀地方差异、强推同一发展模式的普遍主义，同时也防止了将不同国家或社区视为完全无法沟通孤岛的极端相对主义，确立了具有批判力量的比较认知范式。[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, p. 99)]]
 
 ---
 
