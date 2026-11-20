@@ -118,7 +118,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-20
+updated: 2026-11-21
 ---
 
 ---
@@ -181,6 +181,7 @@ updated: 2026-11-20
 > - **地缘[[Knowledge Power|知识权力]]中的规范性话语建构（Discursive Power in Transnational Knowledge Governance）** 新兴大国在重构[[Transnational Education|跨国教育]]与科研合作网络时，依托多边大学联盟、智库对话与联合平台输出以“[[South-South Cooperation|南南合作]]”、“[[Community of Shared Future for Mankind|命运共同体]]”与“非对齐互惠”为核心的规范性话语，对冲西方[[Cosmopolitanism|普世主义]]叙事，为新型多边知识秩序确立正当性基础与议程主导权。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1700–1701, 1703–1705)]]
 > - **修辞隐喻的话语规训与认知层级建构（Rhetorical Metaphors & Discursive Framing）** 国际多边机构借助“爵士乐队”、“[[Smart Buys|智能购买]]”等修辞隐喻建构政策话语网络，将跨国量化综合证据确立为优先认知层级，并通过责任个体化叙事将政策执行受阻归咎于公职人员个人素养短板，完成[[Governing at a Distance|远处治理]]与话语规训。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 341, 346–348)]]
 > - **官方大战略话语的策略性借用与资源置换（Strategic Discourse Appropriation）** 微观机构行动者（如大学境外分校管理层）敏锐地借用服务国家[[Soft Power|软实力]]辐射与配合[[Belt and Road Initiative|一带一路]]建设等官方宏大话语符号，将自身的市场扩张与创收诉求包装为国家战略实体工程，借此撬动国内教育主管部门的行政办学许可与专项财政经费扶持，实现微观利益同宏观话语的工具性契合。[[Argument_He_2018_HEP|(He & Wilkins, 2018, pp. 330, 334–335)]]
+> - **区位竞争话语与符号权力垄断（Location Competition & Discursive Monopoly）** [[Argument_Munch_2014_TCR|Münch (2014)]] 揭示跨国认知与经济精英如何将“国家区位竞争”（Standortwettbewerb）与“知识经济”构筑为主导话语，将心理测量数据包装为不可挑战的科学证据神话，借此垄断优质教育合法性定义权，并在话语层面上将本土人文教养（Bildung）与专业深度的坚守边缘化为保守阻力（pp. 2–4）。
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -309,3 +310,4 @@ updated: 2026-11-20
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 运用福柯话语-权力理论批判解构 1992–2007 年[[EU|欧盟]]教育政策话语，揭示危机修辞与市场化话语如何将教育工具化，并依托软法话语构筑欧洲教育[[Panopticism|全景敞视]]式治理（pp. 479–494）。
 > - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 运用巴奇（[[Carol Bacchi|Bacchi]]）“问题被表征为何”（[[Bacchi's WPR Approach|WPR]]）后结构主义分析框架，解构芬兰高中[[Education Export|教育出口]]政策话语，揭示危机叙事如何将公立教育赤字建构为本体性问题并合法化商业外包。
 > - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 剖析新加坡执政精英如何策略性动用全球化与知识经济生存话语，制造关于教育市场化改革的政治共识并合法化强[[Developmental State|发展型国家]]的持续主导权。
+> - [[Argument_Munch_2014_TCR|Münch (2014)]] — 揭示经合组织专家网络与跨国经济界如何依托“国家区位竞争”话语与心理测量科学证据神话垄断教育合法性，剖析其对主权国家本土人文传统的符号权力剥夺（pp. 2–4）。

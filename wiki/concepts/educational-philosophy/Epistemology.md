@@ -176,7 +176,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-11-20
+updated: 2026-11-21
 ---
 
 ---
@@ -229,6 +229,7 @@ updated: 2026-11-20
 > - **认识论正义与超国家认知层级解构（Epistemic Justice & Supranational Hierarchies）** [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] 揭示超国家政策[[Discourse|话语]]建构起以跨国量化实验与综合证据为特权的排他性认识论层级，压制本土[[Tacit Knowledge|默会知识]]；倡导在决策社群中为地方实践者确立包容性[[Deliberative Space|审议空间]]，推进全球—本土间的认识论正义。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 340, 347–351)]]
 > - **[[Aesthetic Truth|审美真理]]事件与命题正确性之分（Truth-Event vs. Propositional Correctness）** [[Martin Heidegger|马丁·海德格尔]]（Martin Heidegger）将艺术界定为先行敞开语义与存在视域的原初真理事件，科学仅能在此已敞开领域内追求派生的命题正确性（*Richtigkeit*）；[[Hans-Georg Gadamer|汉斯-格奥尔格·伽达默尔]]（Hans-Georg Gadamer）则批判[[Immanuel Kant|康德]]将认知狭隘化为自然科学方法论，以[[Philosophical Hermeneutics|哲学诠释学]]重建“艺术即认知”的地位。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 178, 186–190)]]
 > - **[[The Nonidentical|非同一性]]真理与客体顺应的认识论修正（Nonidentical Truth & Object-Affinity）** [[Theodor Adorno|西奥多·阿多诺]]（Theodor W. Adorno）批判唯心论概念思维强行以主体的概念同一性吞噬具体客体，将[[Kunstformen|艺术形式]]与前概念[[Mimesis|摹仿]]顺应确立为抵御概念暴力、弥补抽象思维缺陷的独特真理器官；并以此警示[[Philosophical Aesthetics|美学]]若彻底切断与认识论、形而上学和真理的关联，必将陷入日常生活感官化或绝对自律虚无的死胡同。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 194–197, 203–205, 214–216)]]
+> - **实用主义基础素养与人文教养传统的认识论冲突（Pragmatic Competency vs. Humanist Bildung Epistemology）** [[Argument_Munch_2014_TCR|Münch (2014)]] 揭示经合组织 PISA 规制与大陆法系教育传统之间的深层认识论对立：英美实用主义认识论将有效知识窄化为即时、通用且可量化通约的基础应用技能（如说明书信息提取、情境化算术），而德国人文主义认识论则将知识确立为严密学科演绎推理（微积分、欧氏几何）与文化传统深层内化（古典文学精读）。将浅层通用技能强行奉为普世科学基准，在认识论上剥夺了本土学科深度与文化教养自决的合法性（pp. 4–7）。
 
 > [!logic-map]- 认识论的双重视角与谱系映射
 > ```mermaid
@@ -423,4 +424,5 @@ updated: 2026-11-20
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 对系统改进实证[[Document|文献]]开展质性综合，对比了理性选择、文化制度、课程规制与协作网络四大路径在因果解释与变革机制上的认识论假设分歧。
 > - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch04|第 4]]、[[Argument_Hammermeister_2002_Cambridge_Ch06|6 章]]析浪漫派审美认识论与叔本华意志工具论；[[Argument_Hammermeister_2002_Cambridge_Ch09|第 9 章]]析海德格尔真理事件与科学正确性之分及伽达默尔艺术认知论；[[Argument_Hammermeister_2002_Cambridge_Ch10|第 10 章]]析阿多诺非同一性真理器官与当代美学放弃认识论的虚无困境（pp. 194–216）。
 > - [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] — 提出“比较认知”（comparatively knowing）认识论构想，批判比较教育将认识论降格为技术程序争吵，确立垂直[[Case Study|案例研究]]跨越普遍主义与极端相对主义的多尺度认识论框架（pp. 95–97, 100–101）。
+> - [[Argument_Munch_2014_TCR|Münch (2014)]] — 剖析经合组织 PISA 通用基础素养（实用主义认识论）与德国本土人文教养（Bildung）及深度学科分化传统之间的认识论冲突，揭示外部标准化规制对本土知识生态的侵蚀（pp. 4–7）。
 
