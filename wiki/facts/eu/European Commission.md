@@ -11,10 +11,10 @@ subtype: organization
 region: eu
 fact_region: "eu"
 fact_kind: "organization"
-fact_related_count: 48
-fact_related_level: 4
-fact_related_stars: "💎⭐"
-fact_related_color: "#dcfce7"
+fact_related_count: 51
+fact_related_level: 5
+fact_related_stars: "💎⭐⭐"
+fact_related_color: "#fecdd3"
 org_type: intergovernmental-organization
 headquarters: "布鲁塞尔（比利时）"
 established: "1958"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[European Education Space]]"
   - "[[Knowledge Co-production]]"
   - "[[Document]]"
+  - "[[Experimentalist Governance]]"
 related_theories:
   - "[[Panopticism]]"
   - "[[Human Capital Theory]]"
@@ -73,16 +74,18 @@ related_facts:
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
   - "[[CHIPS and Science Act]]"
   - "[[Horizon Europe]]"
+  - "[[European Alliance for Apprenticeships]]"
 related_arguments:
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Bulfone_2024_IAI]]"
   - "[[Argument_Alexiadou_Rambla_2023_EERJ]]"
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
+  - "[[Argument_Rohde-Liebenau_Graf_2024_EERJ]]"
 confidence: high
 status: active
 created: 2026-10-26
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 ---
@@ -127,7 +130,8 @@ updated: 2026-11-19
 >
 >   出台《欧洲 2020 战略》与《[[EU Skills Agenda|欧洲技能议程]]》，设立 2025 年建成欧洲教育区（EEA）的顶层框架；在地缘科技博弈中主导《[[European Chips Act|欧洲芯片法案]]》并审批微电子重大项目。
 >
->   - **2020–2021** 欧委会发布《在 2025 年前建成欧洲教育区》公报（COM(2020) 625 final），尝试以“社会包容”重构政策议程并设立集中化治理平台；但该倡议遭到欧盟理事会纠偏，理事会决议推翻了委员会对终身学习的边缘化定位，将欧委会治理工具重新锁定在去立法的传统开放协调法（OMC）框架内。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 855–857, 863–864)]]
+>   - **2013** 欧委会就业总司（DG EMPL）发起设立[[European Alliance for Apprenticeships|欧洲学徒制联盟]]（EAfA），作为动员跨国企业与社会伙伴的自愿认领质押平台，开创超越传统软协调的实验主义多利益相关方治理。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 510–511)]]
+>   - **2020–2021** 欧委会发布《在 2025 年前建成欧洲教育区》公报（COM/2020/625 final），尝试以“社会包容”重构政策议程并设立集中化治理平台；但该倡议遭到欧盟理事会纠偏，理事会决议推翻了委员会对终身学习的边缘化定位，将欧委会治理工具重新锁定在去立法的传统开放协调法（OMC）框架内。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 855–857, 863–864)]]
 >   - **2023** 批准微电子与通信技术欧洲共同利益重大项目（[[Important Projects of Common European Interest|IPCEI ME/CT]]），推进防卫性半导体产业战略。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14)]]
 
 ---
@@ -135,20 +139,22 @@ updated: 2026-11-19
 > [!actor-grid] 组织治理架构
 > - **委员学院（College of Commissioners）** 政治领导最高中枢，由 27 位各成员国提名的委员组成，负责审查并批准所有跨国教育战略通信、立法草案与白皮书。
 > - **专门业务总司（DG EAC 与 DG CNECT）** 教育、青年、体育与文化总司（DG EAC，前身为第 22 总司 DG XXII）主管日常教育战略与 OMC 推进；通信网络、内容和技术总司（DG CNECT）主导数字化与芯片产业政策。
-> - **跨总司管辖权分割（DG EAC 与 DG EMPL）** 欧委会内部教育与劳动力市场职能被制度化割裂：DG EAC 主管基础教育与高等教育，而职业教育与培训（VET）、技能议程与成人学习由就业总司（DG EMPL）管辖；此外，宏观[[European Semester|欧洲学期]]监控由经济金融总司（DG-Economy）把控，导致委员会在推进一体化教育战略时面临内部科层协调壁垒。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 858–859)]]
+> - **跨总司管辖权分割（DG EAC 与 DG EMPL）** 欧委会内部教育与劳动力市场职能被制度化割裂：DG EAC 主管基础教育与高等教育，而职业教育与培训（VET）、技能议程与成人学习由就业总司（DG EMPL）管辖；此外，宏观[[European Semester|欧洲学期]]监控由经济金融总司（DG-Economy）把控，导致委员会在推进一体化教育战略时面临内部科层协调壁垒。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 858–859)]] 就业总司随后绕开刚性立法，独立设立[[European Alliance for Apprenticeships|欧洲学徒制联盟]]（EAfA），通过动员雇主自愿认领质押探索实验主义治理。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 510–512)]]
 > - **常设指标工作组与专家网络** 设立常设指标与基准工作组（SGIB），吸纳各国技术官僚与数据专家确定衡量公尺；协同运行[[Eurydice|欧洲教育信息网络]]（[[Eurydice]]）。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 489–490)]]
 > - **成员国常设对接与同行评审网** 组织各成员国教育部门司局级官员召开常态化同行评审会议，负责评估各国《国家改革计划》（NRPs）与教育达标自评报告。
 
-> [!pathways] 业务运行机制与软治理技术
+> [!pathways] 业务运行机制
 > - **真理政制话语建构（Regimes of Truth）** 欧委会通过出台权威白皮书与政策战略，确立以“质量”、“卓越”、“[[Employability|就业能力]]”与“终身学习”为核心的话语谱系，将宏观经济竞争逻辑自然化为无可动摇的教育改革准则。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480–481, 484–486)]]
 > - **凝视技术（Technologies of the Gaze）** 设立常设指标工作组，制定涵盖早期离校率、高等教育普及率、终身学习参与度等跨国统一指标，依托密集数据采集形成强光照射，使各国教育现实完全置于超国家机构审视之下。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 490–492)]]
 > - **绩效技术（Technologies of Performance）** 发布年度达标记分牌（Scoreboards）与国家排行榜，利用最佳实践转移与公开曝光机制，促成成员国之间的横向攀比与声誉压力。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 491–493)]]
 > - **治理技术（Technologies of Governance）** 实施同行评审（Peer Review）与国家自评机制，诱导各国官员将外部量化指标内化为本国教育规划逻辑，完成自愿式的自我规训。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 492–493)]]
+> - **自愿认领质押与实验主义平台（Pledge Platform & Experimentalist Governance）** 欧委会在职业教育领域设立欧洲学徒制联盟等协商平台，依托不具法律强制性的自愿认领（Pledges）机制动员成员国政府、行业商会、工会与跨国企业，通过宽泛框架目标与点对点同行互学分担转型风险。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 510–512)]]
 
 ---
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **政策白皮书与战略框架** 发布 1993 年与 1995 年关键白皮书、《[[Education and Training 2010|教育与培训 2010]]/2020》工作规划与《欧洲技能议程》。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 482–484)]]
+> - **跨国协商与自愿承诺平台** 发起运作[[European Alliance for Apprenticeships|欧洲学徒制联盟]]（EAfA）与《欧洲技能协议》（Pact for Skills），动员数百家雇主与工会参与多利益相关方治理。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 510–511)]]
 > - **开放协调法基准线与监测系统** 研制发布覆盖基础教育与高等教育的欧洲五大核心基准线体系及年度《教育与培训监测报告》（Education and Training Monitor）。
 > - **证据中介网络与数据库** 运行 Eurydice 定性政策数据库；资助 EIPEE 与 [[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] 跨国[[Knowledge Mediation|知识中介]]网络推广[[Evidence-Based Policy-Making|循证决策]]。[[Argument_Burns_Schuller_2022_BrokerageAgencies|(Burns & Schuller, 2022, pp. 67–68)]]
 > - **高科技国家援助协调工具** 协调设立微电子欧洲共同利益重大项目（IPCEI ME/CT），推进《欧洲[[CHIPS and Science Act|芯片法案]]》。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14)]]
@@ -199,15 +205,17 @@ updated: 2026-11-19
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[EU]] | Fact (Organization) | 欧委会所属的欧洲联盟超国家政体。 |
+> | [[Eurydice]] | Fact (Organization) | 与欧委会[[Knowledge Co-production|合作生产]]教育信息与政策比较数据库的欧洲网络。 |
+> | [[European Chips Act]] | Fact (Policy) | 欧委会主导推进的半导体战略自主产业法案。 |
+> | [[European Alliance for Apprenticeships]] | Fact (Program) | 欧委会就业总司发起设立的跨国学徒制多利益相关方自愿质押平台。 |
 > | [[Subsidiarity Principle]] | Concept | 宪制条约设定的教育辅助性原则，禁止欧委会推行统一立法。 |
 > | [[Open Method of Coordination]] | Concept | 欧委会用于突破辅助性原则、推进软法治理的核心政策工具。 |
 > | [[Performance Indicators]] | Concept | 常设指标工作组制定的五大基准线等量化监控公尺。 |
 > | [[European Education Space]] | Concept | 欧委会软治理旨在建构的超国家政策与符号空间。 |
+> | [[Orchestrator State]] | Concept | 描述欧委会在高科技产业政策中撮合与审批补贴的协调型角色。 |
+> | [[Experimentalist Governance]] | Concept | 欧委会通过自愿认领质押与同行互学应对经济不确定性的新型治理范式。 |
 > | [[Panopticism]] | Theory | 帕西亚斯与鲁萨基斯用于解构欧委会软法监控体系的核心权力理论。 |
 > | [[Governmentality]] | Theory | 解释欧委会如何通过真理政制引导成员国自愿合规的治理术理论。 |
-> | [[Eurydice]] | Fact (Organization) | 与欧委会[[Knowledge Co-production\|合作生产]]教育信息与政策比较数据库的欧洲网络。 |
-> | [[European Chips Act]] | Fact (Policy) | 欧委会主导推进的半导体战略自主产业法案。 |
-> | [[Orchestrator State]] | Concept | 描述欧委会在高科技产业政策中撮合与审批补贴的协调型角色。 |
 
 ---
 
@@ -216,3 +224,4 @@ updated: 2026-11-19
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 剖析欧委会与经合组织制度共生、依托指标采购制作欧洲教育空间的实证文献。
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 考察欧委会在芯片政策中协调型角色与国家援助审批的实证文献。
 > - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 剖析欧委会在欧洲教育区战略中面临的跨总司分割、成员国阻力及开放协调法[[Path Dependence|路径依赖]]的文献。
+> - [[Argument_Rohde-Liebenau_Graf_2024_EERJ|Rohde-Liebenau and Graf (2024)]] — 考察欧委会就业总司（DG EMPL）设立欧洲学徒制联盟并主导实验主义自愿认领质押的治理实践（pp. 510–512）。

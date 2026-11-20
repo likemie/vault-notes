@@ -1266,7 +1266,7 @@ Total entries: **1258**
 > - [[Swiss Coordination Centre for Research in Education]] — 瑞士联邦政府与各州教育局长联席会议（EDK）联合设立并出资的常设独立中介机构，通过联邦与地方州跨辖区联合资助模式，有效协调多语种与分权体制下的国家教育证据中介与定期教育报告编制，是Burns & Schuller（2022）论述联邦制下多方利益相关者稳定资助范式的国际代表。
 
 > [!index-list]- Policy (1)
-> - [[Swiss Vocational and Professional Education and Training Act]] — 依据 1999 年瑞士联邦宪法修正案制定的全国性职业教育基石法案，确立了联邦对全国职教领域的立法统辖权，并将职业教育与专业培训确立为联邦、州和工作界组织三方共同承担的治理任务
+> - [[Swiss Vocational and Professional Education and Training Act]] — 依据 1999 年瑞士联邦宪法修正案制定的全国性职业教育基石法案，确立了联邦对全国职教领域的立法统辖权，并将职业教育与专业培训确立为联邦、州和工作界组织三方共同承担的法定伙伴治理任务。
 
 ## Thailand
 

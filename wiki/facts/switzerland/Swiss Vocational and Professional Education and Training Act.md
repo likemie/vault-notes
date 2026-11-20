@@ -13,9 +13,9 @@ subtype: policy
 region: switzerland
 fact_region: "switzerland"
 fact_kind: "policy"
-fact_related_count: 7
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 6
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
 period: "2004–至今"
 issuing_organization: "瑞士联邦议会"
