@@ -85,7 +85,7 @@ updated: 2026-11-19
 > [!def] Subsidiarity Principle
 > **辅助性原则（Subsidiarity Principle / 辅助原则）** 是现代宪政分权与多层次治理体系中的基石性原则。该原则规定：一切公共事务的决策与执行应当优先保留在最低、最贴近公民且行之有效的治理层级；较高层级的政治实体（如中央政府或超国家联盟）仅在地方或成员国行动无法充分实现特定政策目标时，方具备合法性介入并提供从属性、补充性的协调与支持。在欧洲教育治理中，《马斯特里赫特条约》明确将辅助性原则确立为处理超国家机构与成员国关系的法律准绳，严格限定[[EU|欧洲共同体]]不得制定统一强制性教育法令，必须充分尊重各成员国在教学内容与学制组织方面的排他性主权。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24–25)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **指向** 规范中央/超国家权威与地方/成员国自主权之间权力边界的宪制权力分配机制。
 > - **用途** 帮助研究者透视超国家机构在缺乏直接立法指挥权的情境下，如何发展数据指标与软性技术以规避主权冲突。
 > - **边界** 区别于单向的行政地方分权，亦非放任自流的地方主义；其强调各级权力实体的功能互补与必要干预门槛。
@@ -101,7 +101,7 @@ updated: 2026-11-19
 
 ---
 
-> [!contrast-table] 治理原则与权力运作模式对比
+> [!contrast-table|notitle] 治理原则与权力运作模式对比
 > | 维度 | 辅助性原则（Subsidiarity） | 地方分权（Decentralization） | 主权让渡（Supranational Integration） |
 > |---|---|---|---|
 > | **权力渊源** | 基层优先，更高层级的干预权具有补充性质 | 权力属于中央，自上而下特许授予地方 | 成员国将法定管辖权实质性转移至超国家实体 |
@@ -189,7 +189,7 @@ updated: 2026-11-19
 
 ---
 
-> [!debates] 学术争议
+> [!debates|notitle] 学术争议
 >
 > > [!axis] 主权防火墙还是隐性集权的遮羞布
 > > 主权论学者认为辅助性原则有效保卫了各成员国深厚的民族文化传统与独特的[[German Dual Education System|双元制]]或综合高中体制；而批判学者认为，该原则为[[EU|欧盟]]推行逃避民主问责的软法技术提供了绝佳掩护，导致各成员国在不经议会辩论的情况下便被动吸纳了超国家的[[Neoliberalism|新自由主义]]教育议程。
@@ -197,7 +197,7 @@ updated: 2026-11-19
 > > - **传统公法学者** 主张辅助性原则是维持欧洲多元统一与制约布鲁塞尔官僚越权的宪制支柱。
 > > - **Nóvoa（2002）** 揭示辅助性原则催生了以最佳实践和基准线为表象的隐蔽软性渗透机制。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]
 
-> [!warning] 适用局限
+> [!warning|limits] 适用局限
 > 辅助性原则的司法审查极其困难，在[[Court of Justice of the European Union|欧洲法院]]（ECJ）的实践中罕有以违反辅助性原则为由直接撤销共同体教育协调行动的先例，其法律实效在高度依赖专家网络的治理实践中常面临被边缘化的风险。
 
 ---
@@ -213,7 +213,25 @@ updated: 2026-11-19
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:---|:---|:---|
+> | [[Open Method of Coordination]] | 概念 | 辅助性原则禁止统一立法，倒逼欧盟创设开放协调法等软治理机制。 |
+> | [[European Education Space]] | 概念 | 辅助性原则构成超国家教育空间制度建构必须恪守的宪制底线。 |
+> | [[Experimentalist Governance]] | 概念 | 赋予基层试验裁量权的机制与辅助性原则的最低有效层级理念高度契合。 |
+> | [[Educational Decentralization]] | 概念 | 与辅助性原则相近但分属行政让渡与先验宪制哲学的权力配置机制。 |
+> | [[Data Infrastructure]] | 概念 | 欧盟借助第三方数据基建规避辅助性原则立法限制的技术载体。 |
+> | [[Panopticism]] | 理论 | 帕西亚斯等学者用以解构辅助性原则表象下全景敞视规训的理论模型。 |
+> | [[Pluri-Scalar Governance]] | 理论 | 解释多标度网络穿透传统辅助性原则主权容器边界的分析视角。 |
+> | [[Court of Justice of the European Union]] | 事实 | 负责审查共同体立法与干预是否逾越辅助性原则的最高司法机关。 |
+> | [[European Commission]] | 事实 | 在辅助性原则宪制制约下探索软治理工具箱的超国家行政机关。 |
+> | [[European Education Area]] | 事实 | 欧洲教育区战略谈判中成员国动用辅助性原则抵御行政集权的最新实践。 |
+> | [[German Dual Education System]] | 事实 | 德国依托辅助性原则保卫的国家核心职业教育制度模式。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 结合欧洲教育区（EEA 2030）个案，揭示辅助性原则与理事会共识决如何赋予成员国抵御超国家机构集权与过滤价值倡导的制度权力。
 > - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 阐明欧盟在第 165 条辅助性原则约束下，如何依托质保认识论基础设施（ESG/EQAR/ETER/DEQAR）实现跨国文凭自动核验与高教事实一体化。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 考证《马斯特里赫特条约》第 126/127 条辅助性原则，揭示欧盟如何通过进取型政府间主义与开放协调法突破宪制限制。（pp. 481–482, 490–493）

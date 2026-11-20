@@ -107,7 +107,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-09
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 ---
@@ -115,7 +115,7 @@ updated: 2026-11-19
 > [!def] European Education Space
 > **欧洲教育空间（European Education Space，EES）** 是指在超国家治理与欧洲一体化进程中，由[[EU|欧洲联盟]]（European Union，EU）与[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD）通过跨国[[Data Infrastructure|数据基础设施]]、政策开放协调机制（[[Open Method of Coordination]]，OMC）、学分资格互认框架以及大规模跨国流动网络所共同构想、生产与维系的功能性治理空间与象征性社会空间。该空间不仅使欧洲各异质教育体系的跨国量化比较与政策趋同成为可能，更是塑造欧洲性（Europeanness）超国家公民认同与灵活[[Employability|就业能力]]的核心治理舞台；但在实践中，它也常被成员国作为化解内部改革合法性危机的修辞盾牌。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]; [[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360, 362–363)]]; [[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 321–322)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 指向在超国家治理与欧洲一体化进程中，由跨国数据基础设施、资格互认框架与人员流动网络共同构筑的功能与象征性教育治理空间。
 > - **用途** 帮助研究者透视超国家机构如何绕开法定条约限制，依托量化比较与软法协调实现跨国[[Governing at a Distance|远距治理]]，并分析成员国在主权防御下的策略性借用。
 > - **边界** 不等于欧洲政治或法律上的中央集权一体化，亦不适用于解释排斥标准化与数据对齐的前现代或孤立教育体系。
@@ -134,7 +134,7 @@ updated: 2026-11-19
 
 ---
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 欧洲教育空间（EES） | [[Bologna Process\|欧洲高等教育区（EHEA）]] | [[Governing by Numbers\|全球教育治理场域]] |
 > |---|---|---|---|
 > | **统筹主体** | [[EU\|欧洲联盟]]委员会与 [[OECD\|经合组织]]深度协同 | 48 个成员国部长级会议自愿政府间进程 | 经合组织、[[World Bank\|世界银行]]、[[UNESCO\|联合国教科文组织]]等多边机构 |
@@ -245,7 +245,7 @@ updated: 2026-11-19
 
 ---
 
-> [!debates] 学术争议
+> [!debates|notitle] 学术争议
 >
 > > [!axis] 自愿一体化 vs 隐性[[Neoliberalism|新自由主义]]规训
 > > - **官方政策叙事** 欧洲教育空间是通过自愿合作、学分互认与文化交流实现多元一体的和平民主项目，尊重各自主权。
@@ -273,7 +273,26 @@ updated: 2026-11-19
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:---|:---|:---|
+> | [[Open Method of Coordination]] | 概念 | 欧洲教育空间核心的软法规训与政策协调工具。 |
+> | [[Subsidiarity Principle]] | 概念 | 限制欧洲教育空间形成硬性共同法治的宪制分权原则。 |
+> | [[Data Infrastructure]] | 概念 | 支撑欧洲教育空间量化比较与绩效排位的基础设施。 |
+> | [[Epistemic Infrastructure]] | 概念 | 高等教育质保标准与微观数据库互联构成的认识论基建。 |
+> | [[Governing by Numbers]] | 概念 | 欧洲教育空间依托数据指标实现远距治理的核心机制。 |
+> | [[Governing at a Distance]] | 理论 | 超国家机构在缺乏直接管辖权时调控成员国教育的理论概括。 |
+> | [[Spatial Governmentality]] | 理论 | 解构欧洲教育空间话语生产与主体塑造的空间治理理论。 |
+> | [[Panopticism]] | 理论 | 用以解构欧洲教育空间全景敞视监视架构的理论模型。 |
+> | [[European Commission]] | 事实 | 推动欧洲教育空间构想与战略执行的核心超国家机构。 |
+> | [[OECD]] | 事实 | 与欧盟委员会深度合作、共同支撑欧洲教育空间数据基建的多边组织。 |
+> | [[Bologna Process]] | 事实 | 欧洲高等教育区一体化进程，为欧洲教育空间奠定三层学位架构。 |
+> | [[European Education Area]] | 事实 | 欧盟委员会 2025/2030 战略愿景，是欧洲教育空间的当代制度形态。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 结合精英访谈与战略文本分析，解构欧洲教育区 2030 议程设定中的理念权力博弈、历史制度韧性与科层分立困境。
 > - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 结合精英访谈与制度分析，揭示欧洲高等教育质保认识论基础设施（ESG/EQAR/ETER/DEQAR）如何为欧洲教育区奠定落地砖石并重塑大学地缘角色。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 结合对芬兰、德国与英国的案例比较及欧盟官员访谈，揭示经合组织与欧盟委员会如何通过数据基础设施与财政资助共谋建构欧洲教育空间。
