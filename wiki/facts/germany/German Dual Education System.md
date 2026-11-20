@@ -9,10 +9,10 @@ aliases:
   - 德国双元制职业教育体系
 summary: "德国以企业现场学徒实践与职业学校理论教学交替进行为核心的法定职业技能形成体系；依托政府、工会与行业协会三方协同治理，克服雇主搭便车与技能沉没成本难题，为德国制造业全球竞争力与先进工艺传承奠定制度基石。"
 type: fact
-subtype: system
+subtype: policy
 region: germany
 fact_region: "germany"
-fact_kind: "system"
+fact_kind: "policy"
 fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"

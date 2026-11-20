@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Hammermeister_2002_Cambridge_Ch06",
+      "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md"
+    },
+    {
       "basename": "Cochran's Q Test",
       "path": "wiki/methods/quantitative/Cochran's Q Test.md"
     },
     {
-      "basename": "Argument_Hammermeister_2002_Cambridge_Ch06",
-      "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md"
+      "basename": "Cognitive Extent",
+      "path": "wiki/methods/quantitative/Cognitive Extent.md"
     },
     {
       "basename": "Knowledge Diplomacy",
@@ -195,10 +199,6 @@
     {
       "basename": "AIMS Programme",
       "path": "wiki/facts/multi/AIMS Programme.md"
-    },
-    {
-      "basename": "Cram Schools",
-      "path": "wiki/facts/multi/Cram Schools.md"
     }
   ],
   "omittedPaths": [],
