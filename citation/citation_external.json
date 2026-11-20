@@ -21151,6 +21151,8 @@
     "Renkl, 2015": "Renkl, 2015",
     "Reno (2017)": "Reno, 2017",
     "Reno, 2017": "Reno, 2017",
+    "Renold et al. (2019)": "Renold et al., 2019",
+    "Renold et al., 2019": "Renold et al., 2019",
     "Rensis Likert (1932)": "Rensis Likert, 1932",
     "Rensis Likert, 1932": "Rensis Likert, 1932",
     "Renzetti & Lee (1993)": "Renzetti & Lee, 1993",
@@ -26151,8 +26153,6 @@
     "Urbina, 2017": "Urbina, 2017",
     "Urhan et al. (2024)": "Urhan et al., 2024",
     "Urhan et al., 2024": "Urhan et al., 2024",
-    "Ursula Renold et al. (2019)": "Ursula Renold et al., 2019",
-    "Ursula Renold et al., 2019": "Ursula Renold et al., 2019",
     "Ursula Springer (1969)": "Ursula Springer, 1969",
     "Ursula Springer, 1969": "Ursula Springer, 1969",
     "Ursula Springer, 1969a": "Ursula Springer, 1969",
@@ -85049,7 +85049,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Hippach-Schneider_Rieder_2022_RCIE.md"
       ],
-      "title": ""
+      "title": "Expertenbericht zur systematischen Steuerung der Berufsbildung in der Schweiz"
     },
     "Emmioglu & Capa-Aydin, 2012": {
       "aliases": [
@@ -100819,7 +100819,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Hippach-Schneider_Rieder_2022_RCIE.md"
       ],
-      "title": ""
+      "title": "Einleitung. In: Governance und Gerechtigkeit in der Berufsbildung"
     },
     "Gonon, 1998": {
       "aliases": [
@@ -182490,7 +182490,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Hippach-Schneider_Rieder_2022_RCIE.md"
       ],
-      "title": ""
+      "title": "Die Berufsschule – warum aus dem Juniorpartner ein Partner in der dualen Berufsausbildung werden muss"
     },
     "Rauscher, 1997": {
       "aliases": [
@@ -183927,6 +183927,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Who's getting targeted for behavioral interventions? Exploring the connections between school culture, Positive Behavior Support, and elementary student achievement"
+    },
+    "Renold et al., 2019": {
+      "aliases": [
+        "Renold et al., 2019",
+        "Renold et al. (2019)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Renold et al., 2019"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Hippach-Schneider_Rieder_2022_RCIE.md"
+      ],
+      "title": "Governance im Berufsbildungssystem Schweiz: Systemische Steuerung der Berufsbildung in der Schweiz"
     },
     "Rensis Likert, 1932": {
       "aliases": [
@@ -220262,21 +220277,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Computers and Education Artificial Intelligence/Argument_Li_2026_CEAI.md"
-      ],
-      "title": ""
-    },
-    "Ursula Renold et al., 2019": {
-      "aliases": [
-        "Ursula Renold et al., 2019",
-        "Ursula Renold et al. (2019)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Ursula Renold et al., 2019"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Hippach-Schneider_Rieder_2022_RCIE.md"
       ],
       "title": ""
     },
