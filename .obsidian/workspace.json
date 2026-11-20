@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -315,11 +315,12 @@
       "ai-usage-float:显示或隐藏额度浮窗": false
     }
   },
-  "active": "e2374d26ccaac553",
+  "active": "3643ff474ee79da9",
   "lastOpenFiles": [
+    "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/掌阅最低购书成本算法-精简实施方案.md",
+    "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch07.md",
     "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md",
     "file:/Users/shaoyangwu/Documents/zhangyue/docs/ireader-work-access-master-plan-v4.md",
-    "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch07.md",
     "wiki/assets/geogebra/cognitive_extent.ggb",
     "wiki/concepts/educational-philosophy/Philosophical Aesthetics.md",
     "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md",
@@ -357,7 +358,6 @@
     "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/Floating_Title_Search_开发方案.md",
     "wiki/concepts/science-policy/Scientific Hegemony.md",
     "sources/VonDerHeyden_Heinze_2025_PLOSONE.md",
-    "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/Floating_Knowledge_Switcher_V1.3_开发方案.md",
     "sources/Luo_2026_IFDCK/figures/Luo_2026_IFDCK_Fig3_Dual_Nature_Conceptual_Model.jpg",
     "sources/Luo_2026_IFDCK/figures/Luo_2026_IFDCK_Fig2_Funding_Strategy_Architecture.jpg",
     "sources/Luo_2026_IFDCK/figures/Luo_2026_IFDCK_Fig1_Policy_Shift_Milestones.jpg",

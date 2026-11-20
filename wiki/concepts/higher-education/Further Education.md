@@ -62,7 +62,7 @@ updated: 2026-11-18
 > - **用途** 帮助教育学与政治经济学学者透视后福特制生产方式下劳动力技能的持续再生产机制，分析企业内化培训与市场[[Externalization|外化]]采购的治理边界，以及诊断跨国产业链转移中的全周期技能配套需求。
 > - **边界** 区别于授予学士及以上学术学位的正规高等教育，亦有别于覆盖人一生全部认知活动的泛在化[[Lifelong Learning|终身学习]]；继续教育特指面向成年劳动力、以非学历文凭和实用技能升级为主要目标的有组织教育实践。
 
-> [!citation-card|notitle] 继续教育在永久创新经济中的制度地位
+> [!citation-card|notitle] 关键表述
 > 在制造业向知识密集型经济转型的后福特时代，知识生命周期的快速缩短与人口老龄化加剧了劳动力的技能折旧。终身学习需求随之稳步上升，使继续教育从教育系统的边缘地带走向中心，与正规高等教育共同构成了国家创新与劳动力再技能化的核心制度载体。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, p. 179)]]
 >
 > *In a perpetual innovation economy, shorter knowledge lifecycles and demographic shifts make lifelong learning an imperative, elevating further education alongside higher education as a foundational pillar of [[Human Capital Theory|human capital]] renewal.*
@@ -74,7 +74,7 @@ updated: 2026-11-18
 
 ---
 
-> [!contrast-table|notitle] 继续教育、高等教育与企业教育多维辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 继续教育（Further Education） | 正规高等教育（Higher Education） | 企业教育（Corporate Education） |
 > |---|---|---|---|
 > | **制度定位** | 中学后非正规教育，依托证书与技能模块运作 | 正规学制最高阶段，以学位授予与学术研究为核心 | 继续教育的企业子集，由用人单位出资与定制 |
@@ -144,11 +144,21 @@ updated: 2026-11-18
 > - **2000–2010年代 — 参与率攀升与多边统计建制** 欧盟启动继续职业教育培训调查（CVTS），数据显示 25–64 岁成人教育培训年参与率突破 40%，继续教育被纳入跨国终身学习政策指标体系。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, pp. 179–180)]]
 > - **2003 年 — 东亚[[Developmental State|发展型国家]]的定向职业技能重组** 新加坡成立[[Workforce Development|劳动力发展]]局（WDA），由国家紧密围绕经济发展局（EDB）确立的生物医药、精密工程与数字创意等高附加值产业目录，定向资助成人继续教育与在职转岗培训，将继续教育作为支撑国家产业结构转型的战略性远距离治理工具。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, p. 66)]]
 > - **2010年代末 — 微证书繁荣与商业寡头集聚** 替代性微证书（Micro-credentials）快速崛起，Skillsoft 等跨国在线商业培训机构依靠资本并购与平台效应形成全球性市场集聚。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, pp. 190–193)]]
+> - **2017 年 — 瑞士《联邦继续教育法》（WeBiG）确立企业法定责任** 瑞士全面实施《联邦继续教育法》（WeBiG），以法律形式确立公私部门用人单位促进员工在岗继续教育的法定义务（第 5.2 条），并设立 digitalinform.swiss 等公共资助项目，实现终身学习治理法治化。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, p. 435)]]
+> - **2019 年 — 德国《国家继续教育战略》（NWS）与多方协商** 面对数字化转型中的技能更新压力，德国联邦教研部与劳资双方联合推出《国家继续教育战略》（NWS），作为协调跨部门培训倡议与劳资成本博弈的政策平台。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, p. 433)]]
 > - **2020年代至今 — 全周期技能贯通与跨国数字走廊** 在跨国工程合作与职业教育开放实践中，继续教育深度融入“职前、入职、在职”全生命周期资源库，依托多语种数字平台支撑区域技能标准化协同。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 300–301)]]
 
 ---
 
-> [!warning] 适用局限与研究审思
+> [!debates|notitle] 学术争议
+>
+> > [!axis] 在岗继续教育责任分担：雇主法定义务 vs 私域契约自主
+> > 争论数字化转型与工业 4.0 冲击下，劳动者再培训的经济成本与工时损失应由雇主与国家承担法定责任，还是由市场主体自主协商。
+> >
+> > - **公法责任与基金共建倡导（DGB, 瑞士 WeBiG）** 主张将继续教育纳入公共法治与三方协商轨道，通过立法确立带薪进修假、雇主法定义务与联合培训基金，防范劳动者陷入技能贫困。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, pp. 433–435)]]
+> > - **私域契约自主立场（雇主联合会）** 强调继续教育属于企业内部人力资本投资与私域契约范畴，抵制设立全国性硬性培训税或行政管制，主张依托岗位真实需求灵活微调。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, pp. 433–434)]]
+
+> [!warning|limits] 适用局限
 > - **教育研究的公立偏见（Public Bias）** 学术研究长期以公立中小学与[[Research Universities|研究型大学]]为中心，对继续教育这一庞大的非正规体系存在系统性理论与经验关注不足。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, p. 179)]]
 > - **商业化培训的稳定性赤字** 营利性商业教育机构为维持营销热度，往往频繁推出短期概念模型，容易造成教育知识积累的碎片化与表面化。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, pp. 191–192)]]
 
@@ -194,3 +204,4 @@ updated: 2026-11-18
 > - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 结合区域产教协同与职教出海实践，阐明在职继续教育在打通全周期人才培养链条与支撑跨国产业用工中的关键枢纽功能（pp. 300–301）。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 考察欧盟教育政策演进，指出构筑制度化欧洲教育空间的关键目标之一是推进初始教育与继续教育体系的一体化整合（p. 485）。
 > - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 阐明新加坡强发展型国家如何于 2003 年设立劳动力发展局（WDA），通过政策激励与财政定向资助推动成人继续教育与转岗培训，使其紧密服务于战略性新兴产业布局（p. 66）。
+> - [[Argument_Hippach-Schneider_Rieder_2022_RCIE|Hippach-Schneider and Rieder (2022)]] — 比较德瑞两国在岗继续教育在数字化转型中的治理架构，揭示瑞士《联邦继续教育法》（WeBiG）的企业法定义务与德国《国家继续教育战略》（NWS）的劳资博弈。
