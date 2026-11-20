@@ -6,7 +6,7 @@ aliases:
 summary: "国际组织基于紧迫实用主义与技术理性对全球学术话语过度简化所生成的通用教育改革范式，宣称以信息时代为前景并窄化本土政策空间"
 type: concept
 domain: "comparative-education"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 ---
@@ -169,7 +169,7 @@ updated: 2026-11-19
 ---
 
 > [!dev-timeline] 概念演变
-> - **1950s–1960s — 战后技术官僚与[[Developmentalism|发展主义]][[Discourse|话语]]奠基** 二战后 [[UNESCO]]、[[World Bank|世界银行]]与[[OECD|经合组织]]前身 [[Organisation for European Economic Co-operation|OEEC]] 转型为发展促进机构，在拉美等地区推行以国家计划委员会和“教育计划”为代表的[[Technical Rationality|技术理性]]社会技术，确立国际机构作为“中立科学专家”的合法性地位。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 345)]]
+> - **1950s–1960s — 战后技术官僚与[[Developmentalism|发展主义]][[Discourse|话语]]兴起** 二战后 [[UNESCO]]、[[World Bank|世界银行]]与[[OECD|经合组织]]前身 [[Organisation for European Economic Co-operation|OEEC]] 转型为发展促进机构，在拉美等地区推行以国家计划委员会和“教育计划”为代表的[[Technical Rationality|技术理性]]社会技术，确立国际机构作为“中立科学专家”的合法性地位。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 345)]]
 > - **1980s–1990s — 信息时代同质化改革[[Paradigm|范式]]成型** 伴随冷战结束与新自由主义全球化，三大国际机构跨越意识形态分歧，将未来统一编码为“信息时代”，确立了以分权化、[[School Autonomy|学校自主]]、教师专业化、能力本位与质量测评为核心的五支柱全球教育话语体系。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 347–348)]]
 > - **2005–2009 — 全球教育话语概念的学术化建构** [[Jason Beech|杰森·比奇]]（[[Jason Beech]]）基于对阿根廷与巴西教师教育改革的长达十余年实证追踪，在其博士文章及 2009 年论著中正式提出“全球教育话语”概念与五位置流通模型，揭示国际机构过度简化[[Knowledge Production|知识生产]]与窄化地方政策空间的批判性机制。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–354)]]
 > - **2010s 至今 — 全球治理网络与数字化话语拓展** 随着 [[PISA]] 跨国数据治理体系的强化以及[[Transnational Education|跨国教育]]科技公司的兴起，全球教育话语进一步融入[[Governing by Numbers|数字治理]]、[[Lifelong Learning|终身学习]]与[[Social-Emotional Learning|社会情感能力]]等新维度，空间分析与批判[[Discourse Analysis|话语分析]]成为剖析该范式演进的主导工具。

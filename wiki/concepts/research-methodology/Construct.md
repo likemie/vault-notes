@@ -7,7 +7,7 @@ aliases:
 summary: "变量在理论层面的抽象意义表达，代表不可直接观察的潜在概念实体；必须通过明确的操作化转化为具有可测属性的变量才能被经验检验（Creswell & Creswell, 2022），在二阶证据综合与元分析中依赖严格的 PICO 门禁以防范构念错位与因果解释力瓦解（Kalmendal et al., 2025）。"
 type: concept
 domain: "research-methodology"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 ---

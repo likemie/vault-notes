@@ -7,7 +7,7 @@ aliases:
 summary: "经加工的派生统计量，具技术理性与权力规制双重属性（Le Galès, 2016）。通过将异质系统还原为可比数值与排名，在提供决策信息的同时重塑组织行为；既是构筑“理性表象”的政治脚手架（Steiner-Khamsi et al., 2024），亦在经合组织投入产出系统中以等价空间悬置教育目的哲学辩论（Rizvi & Lingard, 2009），并在超国家治理中形成跨机构数据依附与资产流动（Grek, 2009）。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 95
+related_count: 96
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -124,7 +124,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-11-18
+updated: 2026-11-21
 ---
 
 ---
@@ -273,7 +273,7 @@ updated: 2026-11-18
 > - **1850s–1960s — 描述性统计的初生与技术困境** 教育统计多局限于学校数、入学人数和教师规模等基础盘点。索瓦若（Sauvageot）指出早期统计口径不一且缺乏深度建模，对政策决策的实际支撑有限。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 7)]]
 > - **1970s–1980s — 经合组织早期教育指标探索与福利共识** OECD [[Centre for Educational Research and Innovation|教育研究与创新中心]]（CERI）赞助系列教育指标项目，主要服务于成员国内部福利议程，体现成员国协商式共识决策风格（Papadopoulos, 1994; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, p. 441]]）。
 > - **1983 — 冷战危机动员与[[Comparative Turn in Education Policy|比较转向]]** 美国《国家处在危险之中》（*[[A Nation at Risk 1983|A Nation at Risk]]*）发布，促使联邦政府要求经合组织开发跨国可比教育指标，推动教育统计从国内行政记录转向国际横向比较与排名。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–542)]]
-> - **1988 — [[International Indicators of Education Systems|INES]] 项目启动与指标工业化奠基** OECD 正式设立“[[International Education|国际教育]]指标开发项目”（INES），系统研制涵盖产出、投入与过程的三维指标体系，博塔尼（Bottani）确立以实用为主的政策工具导向。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 8)]]
+> - **1988 — [[International Indicators of Education Systems|INES]] 项目启动与指标工业化确立** OECD 正式设立“[[International Education|国际教育]]指标开发项目”（INES），系统研制涵盖产出、投入与过程的三维指标体系，博塔尼（Bottani）确立以实用为主的政策工具导向。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 8)]]
 > - **1990s — [[World Education Indicators|世界教育指标]]（WEI）项目与多边技术同盟** OECD 联合[[World Bank|世界银行]]与[[UNESCO|联合国教科文组织]]发起“世界教育指标”（WEI）项目，向转型期经济体输出比较教育数据与绩效指标技术方案（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, pp. 443–444]]）。
 > - **1992 — 《[[Education at a Glance|教育概览]]》（EAG）首版与指标制度化** OECD 正式出版首部《[[Education at a Glance|教育概览]]》，标志着教育绩效指标实现年度常规化出版，确立了全球通用的比较指标标准体系。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 11)]]
 > - **1996 — 经合组织 [[Development Assistance Committee|DAC]] 报告确立国际发展指标（[[International Development Targets|IDTs]]）** 经合组织发展援助委员会（DAC）在巴黎闭门通过《塑造21世纪》报告，将全球教育目标首次窄化为初等普及与性别两项国际发展指标。[[Argument_King_2007_CE|(King, 2007, pp. 380–383)]]

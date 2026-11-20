@@ -9,7 +9,7 @@ aliases:
 summary: "现代社会分工、专门化知识生产与科层理性造成个体官能分裂、劳动者与其劳动产物及本质相割裂的生存状态；在教育与社会批判中体现为高利害应试规训下学习者主体性受抑与意义感丧失的系统性危机。"
 type: concept
 domain: "educational-philosophy"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-15
-updated: 2026-11-18
+updated: 2026-11-21
 ---
 
 > [!def] Alienation

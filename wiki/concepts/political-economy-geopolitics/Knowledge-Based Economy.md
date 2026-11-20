@@ -7,7 +7,7 @@ aliases:
 summary: "以知识、创新、高等教育、研发与高阶思维技能作为价值创造与全球竞争核心要素的经济形态；在技术自动化与AI浪潮下，其战略重心从静态专业知识转向高阶认知能力，但面临宏观政策宣示与微观学业评价滞后的深层制度悖论。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 118
+related_count: 119
 related_level: 11
 related_stars: "💎💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -147,7 +147,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-07
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 ---
@@ -286,7 +286,7 @@ updated: 2026-11-19
 
 > [!dev-timeline] 知识经济概念演进脉络
 > - **十九世纪先驱 — [[Friedrich List]] 国家[[Systems of Innovation|创新系统]]萌芽** List《政治经济学的国家系统》（1841）主张国家必须通过有组织的技术教育、科研与长期产业政策拓展知识优势，奠定[[National Innovation System|国家创新系统]]的知性根源。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 22)]]
-> - **二战后奠基（1950s–1970s） — 知识劳动者与后工业理论** Drucker（1959/1969）提出“知识型雇员”（Knowledge Worker）；Bell（1973）阐述[[Theoretical Knowledge|理论知识]]在后工业主义中的核心地位；人造卫星危机（1957）促使 [[OECD]] 将 [[STEM Education|STEM]] 教育与国家地缘经济[[Competitiveness|竞争力]]深度绑定。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]
+> - **二战后初期（1950s–1970s） — 知识劳动者与后工业理论** Drucker（1959/1969）提出“知识型雇员”（Knowledge Worker）；Bell（1973）阐述[[Theoretical Knowledge|理论知识]]在后工业主义中的核心地位；人造卫星危机（1957）促使 [[OECD]] 将 [[STEM Education|STEM]] 教育与国家地缘经济[[Competitiveness|竞争力]]深度绑定。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]
 > - **经济学理论化（1980s–1990s） — 内生增长与新自由主义全球化** Romer（1986）[[New Growth Theory|内生增长理论]]将知识与[[Human Capital Theory|人力资本]]确立为不受边际收益递减限制的内生动力；世界银行（1991）与 OECD（1996）正式将 KBE [[Discourse|话语]]确立为全球教育与经济政策主导典范。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 23)]]
 > - **1997 — 亚洲东亚发展型体系响应知识经济转型** 面对全球知识经济与技术变革冲击，新加坡官方宣布“[[Thinking Schools, Learning Nation|思考型学校，学习型国家]]”（TSLN）愿景，削减课程大纲以赋能信息[[Technology Infusion|技术整合]]与高阶思维培养，开启[[Ability-Driven Education|能力驱动型教育]]阶段，展现了东亚[[Developmental State|发展型国家]]在维持严格应试问责的同时主动适应知识经济的混合政策折射。[[Argument_Deng_2016_CE|(Goh, 1997; Deng & Gopinathan, 2016)]]
 > - **发展型[[Network Governance|网络治理]]与虚构商品批判（2000s–2008） — 跨组织协同与产权反思** [[Fred Block|弗雷德·布洛克]]基于美国《R&D 100》大奖纵向追踪证实，后工业知识经济的突破性创新已从单一企业封闭研发转向由大学、联邦实验室与企业构成的跨组织网络，确立了去中心化[[Developmental Network State|发展型网络国家]]在[[Pasteur's Quadrant|巴斯德象限]]中的中介功能；同时从卡尔·波兰尼（Karl Polanyi）虚构商品视角批判了激进知识产权占有对开放科学与跨界研发协作的制度性反噬。[[Argument_Block_2008_PS|(Block, 2008, pp. 171–176, 195–198)]]
