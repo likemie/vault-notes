@@ -1433,6 +1433,10 @@
     {
       "sentence": "case] 埃米尔·瓦尔堡与罗伯特·霍夫施塔特：德美霸权更迭中的学术领袖",
       "target": "wiki/persons/us/Douglas Hofstadter.md"
+    },
+    {
+      "sentence": "采用克莱因伯格（Jon Kleinberg）提出的超链接诱导主题搜索算法（Hyperlink-Induced Topic Search, HITS）计算；节点大小对应中心度取值，涵盖巴黎大学、柏林洪堡大学、剑桥大学、哈佛大学、加州理工学院等科研实体。",
+      "target": "wiki/facts/australia/Victorian HITS and Literacy Toolkit.md"
     }
   ],
   "wiki/concepts/research-methodology/Theoretical Perspective.md": [

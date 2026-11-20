@@ -42,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 ---
 
 ---
@@ -58,7 +58,7 @@ updated: 2026-11-20
 
 ---
 
-> [!claim] 核心干预假说
+> [!claim] 核心干预／机制假说
 > 欧洲学徒制联盟假定通过在超国家层面建立软性协调与经验对标平台，将成员国高层国家承诺与基层雇主自愿认领相结合，能够克服缺乏硬性立法权限的制度制约，推动以双元制为代表的工作本位学习模式跨国扩散。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 509–513)]]
 
 > [!policy-design] 方案设计
@@ -67,10 +67,10 @@ updated: 2026-11-20
 > - **干预措施** 搭建中介知识共享网络、设立跨国对标互评工作坊、推广工作本位学习政策指引、制定《高质量和有效学徒制欧洲框架》（EFQEA），并提供学徒制支持服务（Apprenticeship Support Services）。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 511–513)]]
 > - **实施控制** 实行自愿认领质押制度（Stakeholder Pledges），由签约组织公开承诺提供具体规模的学徒岗位或质量提升行动，由欧洲委员会进行跟踪汇总与同行审议。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, p. 511)]]
 
-> [!citation-card] 欧洲委员会倡导双元制与工作本位学习
-> 工作本位学习（如双元制模式）应当成为全欧职业教育与培训体系的核心支柱，其目标在于降低青年失业率、促进从学习到就业的顺畅过渡，并切实回应劳动力市场的技能需求。
+> [!citation-card] 核心方案条文／立项纲要
+> 工作本位学习（如双元制模式）应当成为全欧职业教育与培训体系的核心支柱，其目标在于降低青年失业率、促进从学习到就业的顺畅过渡，并切实回应劳动力市场的技能需求。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, p. 512)]]
 >
-> *Work-based learning, such as dual approaches, should be a central pillar of vocational education and training systems across Europe, with the aim of reducing youth unemployment, facilitating the transition from learning to employment and responding to the skill needs of the labour market.* [[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, p. 512)]]
+> *Work-based learning, such as dual approaches, should be a central pillar of vocational education and training systems across Europe, with the aim of reducing youth unemployment, facilitating the transition from learning to employment and responding to the skill needs of the labour market.*
 
 ---
 
@@ -104,6 +104,9 @@ updated: 2026-11-20
 > - **双元制模式确立为核心标杆** 联盟确立了以德国、奥地利、瑞士为代表的双元制职业培训作为全欧工作本位学习的黄金标准，有力推动了成员国层面的政策学习。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 512–513)]]
 > - **非强制性带来的制度混合** 联盟依赖自愿机制运作，使得各成员国在吸纳德国双元制经验时结合本土既有教育体制形成了多元混合制度格局，避免了机械照搬。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 514–516)]]
 
+> [!stat-cards]- 关键实证数据
+> 覆盖 37 个国家（包含欧盟成员国与欧洲自由贸易联盟国家）；汇聚 362 项来自公私机构的自愿认领质押（截至 2021 年）；累计动员提供超过百万个学徒与青年实习培训机会。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, p. 511)]]
+
 ---
 
 > [!debates] 核心争议
@@ -120,20 +123,24 @@ updated: 2026-11-20
 > > - **批评观点** 德国模式高度依赖其悠久的行会社团主义传统与工会雇主法定义务，缺乏相应制度基石的南欧与东欧国家强行引入往往遭遇制度排异。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 513–515)]]
 > > - **回应辩护** 联盟倡导的是核心原则（如高质量实操与劳资共商）的政策借用与本土混合化重构，而非简单的制度复制。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 514–515)]]
 
+> [!lessons] 经验教训与启示
+> - **自愿承诺机制的实施限度** 实验主义软协调在跨国动员与经验对标上具有极高灵活性，但因缺乏法定强制惩戒手段，在岗位质量监督与承诺兑现率上存在执行赤字，必须配合欧盟理事会质量框架标准与独立监督。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 511–513)]]
+> - **制度异质性下的渐进借用** 跨国推广德国双元制不能采取全盘照搬模式，必须允许各成员国结合本土教育传统进行选择性借用与制度杂交，以规避制度排斥。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 514–516)]]
+
 ---
 
-> [!entry-map] 条目关联
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
-> |---|---|---|
-> | [[Experimentalist Governance]] | Concept | 为欧洲学徒制联盟提供了非层级化多层治理分析框架。 |
-> | [[Open Method of Coordination]] | Concept | 联盟依托的跨国软治理程序背景。 |
-> | [[European Education Space]] | Concept | 联盟从属的欧洲教育与培训一体化战略空间。 |
-> | [[Alliance for Initial and Further Training]] | Fact | 德国国家层面建立的同构性学徒制治理对等机构。 |
-> | [[German Dual Education System]] | Fact | 联盟跨国推广工作本位学习时倚重的标杆制度形态。 |
-> | [[Copenhagen Process]] | Fact | 启动欧洲职业教育与培训一体化互通的关键历史进程。 |
-> | [[Youth Guarantee Scheme]] | Fact | 欧盟同属应对青年失业危机的一体化政策保障方案。 |
-> | [[European Commission]] | Fact | 承担联盟设立发起与平台统筹职能的超国家机构。 |
+> |:---|:---|:---|
+> | [[Experimentalist Governance]] | 概念 | 为欧洲学徒制联盟提供了非层级化多层治理分析框架。 |
+> | [[Open Method of Coordination]] | 概念 | 联盟依托的跨国软治理程序背景。 |
+> | [[European Education Space]] | 概念 | 联盟从属的欧洲教育与培训一体化战略空间。 |
+> | [[Alliance for Initial and Further Training]] | 事实 | 德国国家层面建立的同构性学徒制治理对等机构。 |
+> | [[German Dual Education System]] | 事实 | 联盟跨国推广工作本位学习时倚重的标杆制度形态。 |
+> | [[Copenhagen Process]] | 事实 | 启动欧洲职业教育与培训一体化互通的关键历史进程。 |
+> | [[Youth Guarantee Scheme]] | 事实 | 欧盟同属应对青年失业危机的一体化政策保障方案。 |
+> | [[European Commission]] | 事实 | 承担联盟设立发起与平台统筹职能的超国家机构。 |
 
 ---
 
