@@ -6,7 +6,7 @@ aliases:
 summary: "劳动力市场中获取与维持就业的可雇用性构念；涵盖求职者的绝对专业能力与大众化文凭通胀下的相对排序竞争，并在超国家空间治理与技能话语中被重构为融合跨国流动弹性与自我企业家精神的个体化规训机制。"
 type: concept
 domain: "higher-education"
-related_count: 61
+related_count: 63
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -89,7 +89,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-08'
-updated: 2026-11-20
+updated: 2026-11-21
 ---
 
 > [!def] Employability
@@ -129,7 +129,7 @@ updated: 2026-11-20
 > [!concept-proposition] 命题一｜高等教育大众化驱动就业能力由绝对专业积累向相对排位竞争与履历包装异化
 > **文凭贬值与排位博弈** 当高等教育普及化打破了稀缺学位的天然阶层区隔，大学文凭的交换价值随之缩水；求职竞争的重心不可逆转地向简历呈现、社会性实习与微观[[Cultural Capital|文化资本]]转移。
 
-> [!claim] 郑雅君 (2023) & Brown and Hesketh (2004)
+> [!claim] [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] & Brown and Hesketh (2004)
 > **文凭通胀下的相对就业力统治** 在分析高等教育大众化时代的毕业生竞争时指出，文凭从昔日的就业保障退化为初筛门槛。面对高度同质化的学术资格，雇主转向考察求职者展示自我品质、性格修养与组织契合度的“演绎能力”（Performance）。求职者被迫卷入对实习声望、名企背书与职业人际网络的无休止竞逐，使就业能力演变为高度阶层化、依赖家庭社会文化资本支撑的相对排序博弈。[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君，2023)]]
 
 > [!claim] 郑雅君 (2023, 第四章)
@@ -140,7 +140,7 @@ updated: 2026-11-20
 > [!concept-proposition] 命题二｜超国家空间治理将跨国流动性重构为就业能力并将宏观劳动力市场动荡个体化
 > **空间治理术与流动的伦理化** 超国家治理机构借助空间流动政策，将青年肉体的地理跨越包装为现代劳动者的至高美德，隐秘地转移了去工业化与经济紧缩的治理危机。
 
-> [!claim] Sobe and Fischer (2009) & Papatsiba (2005)
+> [!claim] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] & Papatsiba (2005)
 > **流动胜任力话语对结构性风险的个人化转嫁** 索贝与菲舍尔（Noah W. Sobe & Trevor Fischer, 2009, pp. 362–363）援引瓦西莉基·帕帕齐巴（Vassiliki Papatsiba, 2005）的批判考证指出，[[EU|欧盟]]官方政策话语通过 [[Erasmus Programme|ERASMUS]] 与综合性[[Lifelong Learning|终身学习]]计划，将[[Student Mobility|跨国学生流动]]重塑为获取“就业能力（Employability）”的法定途径。然而，将流动性道德化为个人竞争优势的[[Governmentality|治理术]]，直接将宏观经济去规制化、就业不安全感与全球化结构性动荡的制度成本，系统性地个体化（individualized）为青年劳动者个人的责任。官方话语宣称青年必须随时保持灵活流动以适应资本流动；结构性失业风险由此被归咎于劳动者自身缺乏跨国流动意愿与地理适应能力，掩盖了宏观经济治理责任。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 
 ---
@@ -148,7 +148,7 @@ updated: 2026-11-20
 > [!concept-proposition] 命题三｜技能素养话语将就业能力建构为自我企业家持续获取的生产要素与远距治理技术
 > **外部期望内化与自我企业化规训** 探讨国际技能框架如何通过设定外在于个体的规范期望，将劳动者塑造成自发追逐资本效益与持续自我审计的规训主体。
 
-> [!claim] Zelinka (2022) & Hampson and Junor (2009)
+> [!claim] [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022)]] & Hampson and Junor (2009)
 > **自我企业家的生产与外部标准的内化** 泽林卡（Milos Zelinka, 2022, pp. 258–261）解构 21 世纪技能与素养框架（[[21st Century Skills and Competencies Discourse]]）指出，就业能力被制度化呈现为[[Self-Entrepreneur|自我企业家]]必须源源不断采购并整合的通用资产。素养（Competency）概念本身遵循高度雇主导向逻辑：其[[Success Criteria|成功标准]]完全由外部劳动力市场决定，迫使个体在日常学习中不断开展自我审计，使教育成为服务于劳动力可雇佣性的工具性规训，构成了典型的福柯式[[Governing at a Distance|远距治理]]。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, pp. 258–261)]]
 
 ---
@@ -156,7 +156,7 @@ updated: 2026-11-20
 > [!concept-proposition] 命题四｜知识易耗品化与超国家规训将维持就业能力确立为个体终身自我更新的强制义务
 > **知识折旧、终身学习与就业能力规训** 探讨在[[Knowledge-Based Economy|知识经济]]话语下，知识的易耗品化如何将维持就业能力转变为劳动者必须终身承担的自我规训任务。
 
-> [!claim] Pasias and Roussakis (2009)
+> [!claim] [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]]
 > **知识易耗品化与维持就业能力的规训要求** 乔治·帕西亚斯与扬尼斯·鲁萨基斯解构欧盟教育政策话语指出，在[[Lisbon Strategy|里斯本战略]]构筑的“欧洲[[Panopticism|全景敞视建筑]]”中，知识被重新定义为具有明确保质期、随技术迭代迅速折旧的易耗品（consumable good）。为应对不稳定的劳动力市场与全球竞争，超国家话语将维持“[[Employability|就业能力]]”升格为个体不可推卸的生存伦理。劳动者被迫通过[[Lifelong Learning|终身学习]]持续进行技能翻新与自我监控，在缺乏外部直接强制的形式下自发承担起维系自身经济可用性的全部风险与责任。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 484, 487, 492–493)]]
 
 ---
@@ -172,11 +172,11 @@ updated: 2026-11-20
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心论断 | 实践机制与政策含义 | 代表文献 / 理论源流 |
 > |---|---|---|---|
-> | **相对排位与履历异化** | 文凭通胀将就业力从知识技能积累异化为[[Soft Power|软实力]]与社交演练的相对博弈 | 催生以名企实习和印象管理为核心的履历经济，再生产阶层不平等 | 郑雅君 (2023); Brown and Hesketh (2004) |
-> | **空间流动与风险个体化** | 超国家空间治理将跨国流动编码为就业胜任力，把宏观劳动力失衡转嫁为个人流动责任 | 警惕流动话语将结构性失业去政治化，掩盖宏观经济治理责任 | Sobe and Fischer (2009); Papatsiba (2005) |
-> | **技能话语与远距治理** | 21 世纪素养将就业力建构为由雇主外部期望界定的自我企业家投资项目 | 批判教育工具化对全人发展的侵蚀，揭示外部规范向个体主观认同的渗透 | Zelinka (2022); Hampson and Junor (2009) |
-> | **知识易耗品化与终身规训** | 知识被重新定义为快速折旧的易耗品，维持就业能力演变为个体自负盈亏与自我监控的终身规训 | 欧洲全景敞视监视、知识经济话语、终身学习与劳动力不安全感 | Pasias and Roussakis (2009) |
-> | **职教技能更新与代表赤字** | 数字化转型要求员工自主维持终身就业力，但法团主义治理网络缺乏青年学徒直接利益代表 | 职教治理正当性隐忧、青年受训者权益边缘化与风险个体化 | Hippach-Schneider & Rieder (2022) |
+> | **相对排位与履历异化** | 文凭通胀将就业力从知识技能积累异化为[[Soft Power|软实力]]与社交演练的相对博弈 | 催生以名企实习和印象管理为核心的履历经济，再生产阶层不平等 | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]; Brown and Hesketh (2004) |
+> | **空间流动与风险个体化** | 超国家空间治理将跨国流动编码为就业胜任力，把宏观劳动力失衡转嫁为个人流动责任 | 警惕流动话语将结构性失业去政治化，掩盖宏观经济治理责任 | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]]; Papatsiba (2005) |
+> | **技能话语与远距治理** | 21 世纪素养将就业力建构为由雇主外部期望界定的自我企业家投资项目 | 批判教育工具化对全人发展的侵蚀，揭示外部规范向个体主观认同的渗透 | [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022)]]; Hampson and Junor (2009) |
+> | **知识易耗品化与终身规训** | 知识被重新定义为快速折旧的易耗品，维持就业能力演变为个体自负盈亏与自我监控的终身规训 | 欧洲全景敞视监视、知识经济话语、终身学习与劳动力不安全感 | [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]] |
+> | **职教技能更新与代表赤字** | 数字化转型要求员工自主维持终身就业力，但法团主义治理网络缺乏青年学徒直接利益代表 | 职教治理正当性隐忧、青年受训者权益边缘化与风险个体化 | [[Argument_Hippach-Schneider_Rieder_2022_RCIE\|Hippach-Schneider and Rieder (2022)]] |
 
 ---
 
@@ -193,12 +193,12 @@ updated: 2026-11-20
 ---
 
 > [!evidence-grid] 就业能力与履历竞争的代表性经验案例
-> - **中国顶尖高校毕业生求职博弈（郑雅君，2023）** 结合北方大学与南方大学 60 余位毕业生质性追踪，证实社会性投入（实习、学生干部）对求职排位的区分度显著超越学业成绩，优势家庭学生凭借信息与经济支持在实习包装中建立压倒性排位优势。[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君，2023)]]
-> - **求职演绎资本建构个案（钦凯案例）** 呈现南方大学化学系本科生将竞争力拆解为硬技能与软演绎，通过跨年级商界社交模拟高管谈吐，最终通过面试气场赢得外企咨询岗位的自律主体性运作。[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|(郑雅君，2023)]]
+> - **中国顶尖高校毕业生求职博弈** 结合北方大学与南方大学 60 余位毕业生质性追踪，证实社会性投入（实习、学生干部）对求职排位的区分度显著超越学业成绩，优势家庭学生凭借信息与经济支持在实习包装中建立压倒性排位优势。[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君，2023)]]
+> - **求职演绎资本建构个案（钦凯案例）** 呈现南方大学化学系本科生将竞争力拆解为硬技能与软演绎，通过跨年级商界社交模拟高管谈吐，最终通过面试气场赢得外企咨询岗位的自律主体性运作。
 > - **全美岗位技能需求与任务设计审计（Finegold & Notabartolo, 2010）** 劳动力经济学分析表明大量中低阶白领岗位任务高度标准化，并不需要高阶批判与创新技能，过度投资通用素养无法直接转化为生产力，揭示政策话语与微观劳动组织真实需求之间的脱节。
 > - **通用技能因果证据评估（Pellegrino & Hilton, 2012）** 美国国家科学院多学科评估委员会指出，通用素养与成年期职业成功之间缺乏因果证据支持，政策界宣称与实证数据存在显著裂隙。
 > - **欧洲 ERASMUS 跨国流动性功能审视（Papatsiba, 2005, 2006）** 官方文本将跨国移动等同于就业灵活性，学生将流动经历作为履历区隔符号，但宏观青年失业率并未因流动增加而下降，证实跨国流动性已被超国家治理技术工具化吸收为劳动者自负盈亏的排位资本。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
-> - **德国与瑞士双元制职教中的学徒代表权审视（Hippach-Schneider & Rieder, 2022）** 数字化转型迫使员工自主承担终身就业力维系压力，而两国现行职教协商网络长期排斥受训学徒的直接利益发声，凸显出正当性与代表权结构性失衡。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, pp. 12–14)]]
+> - **德国与瑞士双元制职教中的学徒代表权审视** 数字化转型迫使员工自主承担终身就业力维系压力，而两国现行职教协商网络长期排斥受训学徒的直接利益发声，凸显出正当性与代表权结构性失衡。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, pp. 12–14)]]
 
 ---
 
