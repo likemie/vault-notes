@@ -5,6 +5,14 @@
       "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch07.md"
     },
     {
+      "basename": "Argument_Dang_2017_ORE",
+      "path": "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
+    },
+    {
+      "basename": "ireader-work-access-master-plan-v4",
+      "path": "file:/Users/shaoyangwu/Documents/zhangyue/docs/ireader-work-access-master-plan-v4.md"
+    },
+    {
       "basename": "Philosophical Aesthetics",
       "path": "wiki/concepts/educational-philosophy/Philosophical Aesthetics.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "Floating_Title_Search_开发方案",
       "path": "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/Floating_Title_Search_开发方案.md"
-    },
-    {
-      "basename": "Argument_Dang_2017_ORE",
-      "path": "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
     },
     {
       "basename": "Floating_Knowledge_Switcher_V1.3_开发方案",
@@ -195,10 +199,6 @@
     {
       "basename": "Decolonial Geopolitics of Knowledge",
       "path": "wiki/theories/political-economy-geopolitics/Decolonial Geopolitics of Knowledge.md"
-    },
-    {
-      "basename": "ASEAN Way",
-      "path": "wiki/concepts/political-economy-geopolitics/ASEAN Way.md"
     }
   ],
   "omittedPaths": [],
