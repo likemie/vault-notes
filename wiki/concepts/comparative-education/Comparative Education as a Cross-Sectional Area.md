@@ -60,24 +60,24 @@ updated: 2026-11-15
 > [!def] Comparative Education as a Cross-Sectional Area
 > **比较教育作为交叉领域（Comparative Education as a Cross-Sectional Area / Querschnittsbereich）** 是指将比较教育界定为牢固依附于母体学科[[Allgemeine Pädagogik|普通教育学]]（德文：Allgemeine Pädagogik），同时向历史学、社会学与政治学等邻近学科全方位开放的横截面知识建制形态。该概念由德国比较教育学家[[Oskar Anweiler|奥斯卡·安维勒]]（Oskar Anweiler）于 1967 年提出，并在[[Wolfgang Mitter|沃尔夫冈·米特]]（Wolfgang Mitter）2009 年的学科史考察中被确立为欧陆比较教育学调和规范育人关怀与跨学科实证解释力的核心建制[[Paradigm|范式]]。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
 
-> [!concept-lens|notitle]
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 指向比较教育在大学建制与科学知识谱系中的结构性定位：它特指横切于教育学各大分支与外部社科之间的横截面[[Areas of Knowledge|知识领域]]。
 > - **用途** 帮助研究者理清德语区与欧陆比较教育学为何长期坚持与普通教育学保持母子血缘纽带，同时合法化其吸纳实证社会学、政治经济学与历史解释学工具的跨学科行动。
 > - **边界** 区别于脱离教育科学体系的纯粹独立学科（如英国模式中作为独立分支模块自足存在），亦区别于取消自身边界的泛化跨学科拼盘。
 
-> [!citation-card] 交叉领域的经典界定
+> [!citation-card|notitle] 关键表述
 > 奥斯卡·安维勒早在 20 世纪 60 年代便将其界定为参照历史与社会学邻近学科的交叉领域。在这方面，他为打开学科边界走向跨学科性奠定了基础，同时并未放弃该学科对作为其母体学科的普通教育学的传统依附。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
 >
 > *Oskar Anweiler, already in the sixties of the twentieth century – though contested in that period – defined it as a "cross-sectional area" in reference to its historical and sociological neighbours. In this respect he contributed to laying the ground for opening its borders to interdisciplinarity without, however, abandoning its traditional affiliation to 'general pedagogy' as its 'mother-discipline'.*
 
 > [!boundary]- 概念边界
-> - **区别于脱离教育学的纯粹独立学科（英国模式）** 英国大学建制将比较教育直接作为教育学院（如伦敦大学教育学院）内部平行的分支学科或独立系所进行实用化建制；而欧陆交叉领域论坚决捍卫普通教育学与教化（[[Bildung]]）哲学的母体地位。
-> - **区别于取消学科边界的泛化跨学科拼盘** 交叉领域始终以受教育者的人格形成、教育制度与社会的内在价值关联为轴心，有选择地汲取外部邻近学科的概念工具。
-> - **区别于去情境化的实证测量工匠** 与将比较教育降格为单纯大样本统计、指标排行与心理测量的工具主义范式不同，交叉领域论深度依托历史解释学与制度发生学，强调制度与社会生态的共生性。
+> - 不等于 **脱离教育学的纯粹独立学科（英国模式）** — 英国大学建制将比较教育直接作为教育学院（如伦敦大学教育学院）内部平行的分支学科或独立系所进行实用化建制；欧陆交叉领域论坚决捍卫普通教育学与教化（[[Bildung]]）哲学的母体地位。
+> - 不等于 **取消学科边界的泛化跨学科拼盘** — 交叉领域始终以受教育者的人格形成、教育制度与社会的内在价值关联为轴心，有选择地汲取外部邻近学科的概念工具。
+> - 不适用于 **去情境化的纯实证测量** — 交叉领域论深度依托历史解释学与制度发生学，强调制度与社会生态的共生性，不适用于单纯追求跨国排名与心理指标测量的去情境化研究。
 
 ---
 
-> [!contrast-table|notitle]
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 交叉领域模式（欧陆/德国） | 独立分支模式（英国） | 工具性测量模式（北美/[[IEA]]） |
 > |---|---|---|---|
 > | **母体学科依附** | 牢固依托普通教育学（Allgemeine Pädagogik）与[[Bildung\|教化哲学]] | 不设统一的[[Allgemeine Pädagogik\|普通教育学]]，直接作为大学教育学院平行独立系所 | 依托心理计量学、行为科学与教育经济学 |
@@ -87,13 +87,13 @@ updated: 2026-11-15
 
 ---
 
-> [!feature|notitle]
+> [!feature] 核心要素
 > - **母体学科根基** 始终将受教育者的教化、人的形成以及教育体系与社会的内在价值关联作为核心问题意识，避免沦为缺乏价值反思的纯工程技术。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 98)]]
 > - **历史学维度** 强调对教育制度的理解必须溯源其制度发生学脉络，汲取史料[[Document|文献]]考证与思想史诠释方法。
 > - **社会学维度** 引入社会结构、阶级分层、国家政治形态与全球资本流动的结构性分析视角，使比较分析具备扎实的经验解释力。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 97)]]
 > - **跨国横截面视角** 突破单一民族国家的国别容器，以多国横向对比作为照亮本国与外国体制隐蔽特征的棱镜。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 87–88)]]
 
-> [!logic-map]- 要素逻辑关联
+> [!logic-map]- 要素关系
 > ```mermaid
 > flowchart LR
 >     A["母体学科根基<br>(普通教育学与 Bildung)"] --> E["交叉领域定位<br>(Querschnittsbereich)"]
@@ -120,7 +120,7 @@ updated: 2026-11-15
 
 ---
 
-> [!contrast-table|notitle]
+> [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **学科合法性命题** | 交叉领域在母体依附与跨学科工具吸纳之间建立认识论动态平衡 | 冷战时期教育扩张、战后德国教育科学重建 | [[Wolfgang Mitter\|Mitter]]; [[Oskar Anweiler\|Anweiler]] |
@@ -128,7 +128,7 @@ updated: 2026-11-15
 
 ---
 
-> [!dev-timeline|notitle]
+> [!dev-timeline] 概念演变
 > - **1967 — 概念提出与建制突破** [[Oskar Anweiler|奥斯卡·安维勒]]首次提出将比较教育定性为交叉领域（Querschnittsbereich），旨在打破战后西德[[Allgemeine Pädagogik|普通教育学]]的形而上学孤立，使比较教育成为吸纳历史学与社会学前沿成果的跨学科门户。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
 > - **1970s–1980s — 实证论战与重大国别比较工程检验** 在德国社会学[[Positivism|实证主义]]争论（[[Positivist Dispute in German Sociology|Positivismusstreit]]）冲击下，安维勒等人依托交叉领域架构，主持实施了著名的两德教育比较工程（Vergleich von [[Bildung]] und Erziehung in der BRD und DDR），展示了兼具社会制度经验对比与教化哲学反思的强大解释力。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 96)]]
 > - **1990s–至今 — 全球化挑战与二元模式消解** 随着全球教育治理、跨国大规模测评与[[Intercultural Education|跨文化教育]]的兴起，欧陆传统的“母体交叉领域”与英国传统的“独立系所分支”二元格局逐渐被多边网络与超学科协同所重组。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 98)]]

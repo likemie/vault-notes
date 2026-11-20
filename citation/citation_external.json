@@ -2318,6 +2318,10 @@
     "Ben Levin, 2013": "Ben Levin, 2013",
     "Ben Williamson (2017)": "Ben Williamson, 2017",
     "Ben Williamson, 2017": "Ben Williamson, 2017",
+    "Ben-David (1960)": "Ben-David, 1960",
+    "Ben-David (1971)": "Ben-David, 1971",
+    "Ben-David, 1960": "Ben-David, 1960",
+    "Ben-David, 1971": "Ben-David, 1971",
     "Benavides-Varela (2020)": "Benavides-Varela, 2020",
     "Benavides-Varela, 2020": "Benavides-Varela, 2020",
     "Benavot & Resh (2001)": "Benavot & Resh, 2001",
@@ -2569,6 +2573,8 @@
     "Besançon & Barbot, 2011": "Besançon & Barbot, 2011",
     "Best & Holmes (2010)": "Best & Holmes, 2010",
     "Best & Holmes, 2010": "Best & Holmes, 2010",
+    "Best & Wolf (2015)": "Best & Wolf, 2015",
+    "Best & Wolf, 2015": "Best & Wolf, 2015",
     "Best (1992)": "Best, 1992",
     "Best, 1992": "Best, 1992",
     "Betancourt et al. (2011)": "Betancourt et al., 2011",
@@ -3191,6 +3197,7 @@
     "Bourdieu (1980)": "Bourdieu, 1980",
     "Bourdieu (1984)": "Bourdieu, 1984",
     "Bourdieu (1986)": "Bourdieu, 1986",
+    "Bourdieu (1988)": "Bourdieu, 1988",
     "Bourdieu (1990)": "Bourdieu, 1990",
     "Bourdieu (1996)": "Bourdieu, 1996",
     "Bourdieu (1997)": "Bourdieu, 1997",
@@ -3205,6 +3212,7 @@
     "Bourdieu, 1980": "Bourdieu, 1980",
     "Bourdieu, 1984": "Bourdieu, 1984",
     "Bourdieu, 1986": "Bourdieu, 1986",
+    "Bourdieu, 1988": "Bourdieu, 1988",
     "Bourdieu, 1990": "Bourdieu, 1990",
     "Bourdieu, 1996": "Bourdieu, 1996",
     "Bourdieu, 1997": "Bourdieu, 1997",
@@ -5151,7 +5159,9 @@
     "Classen et al. (2007)": "Classen et al., 2007",
     "Classen et al., 2007": "Classen et al., 2007",
     "Clauset et al. (2009)": "Clauset et al., 2009",
+    "Clauset et al. (2015)": "Clauset et al., 2015",
     "Clauset et al., 2009": "Clauset et al., 2009",
+    "Clauset et al., 2015": "Clauset et al., 2015",
     "Clauss et al. (2024)": "Clauss et al., 2024",
     "Clauss et al., 2024": "Clauss et al., 2024",
     "Clavero (2010)": "Clavero, 2010",
@@ -5737,8 +5747,12 @@
     "Crangle, 1971": "Crangle, 1971",
     "Crato (2021)": "Crato, 2021",
     "Crato, 2021": "Crato, 2021",
+    "Crawford (1992)": "Crawford, 1992",
+    "Crawford (2001)": "Crawford, 2001",
     "Crawford (2011)": "Crawford, 2011",
     "Crawford (2014)": "Crawford, 2014",
+    "Crawford, 1992": "Crawford, 1992",
+    "Crawford, 2001": "Crawford, 2001",
     "Crawford, 2011": "Crawford, 2011",
     "Crawford, 2014": "Crawford, 2014",
     "Crede & Niehorster (2012)": "Crede & Niehorster, 2012",
@@ -6733,6 +6747,8 @@
     "Diperna, 2015": "Diperna, 2015",
     "Dishion et al. (1999)": "Dishion et al., 1999",
     "Dishion et al., 1999": "Dishion et al., 1999",
+    "Dittmar & Meisenzahl (2022)": "Dittmar & Meisenzahl, 2022",
+    "Dittmar & Meisenzahl, 2022": "Dittmar & Meisenzahl, 2022",
     "Dix et al. (2020)": "Dix et al., 2020",
     "Dix et al., 2020": "Dix et al., 2020",
     "Dixon & Marsh (1997)": "Dixon & Marsh, 1997",
@@ -9129,6 +9145,8 @@
     "Gallotta, 2015": "Gallotta, 2015b",
     "Gallotta, 2015a": "Gallotta, 2015a",
     "Gallotta, 2015b": "Gallotta, 2015b",
+    "Gallotti & De Domenico (2019)": "Gallotti & De Domenico, 2019",
+    "Gallotti & De Domenico, 2019": "Gallotti & De Domenico, 2019",
     "Galloway (2003)": "Galloway, 2003",
     "Galloway, 2003": "Galloway, 2003",
     "Galton & Simon (1980)": "Galton & Simon, 1980",
@@ -10523,6 +10541,8 @@
     "Habermas, 2007": "Habermas, 2007",
     "Habib et al. (2024)": "Habib et al., 2024",
     "Habib et al., 2024": "Habib et al., 2024",
+    "Habinek & Fu (2023)": "Habinek & Fu, 2023",
+    "Habinek & Fu, 2023": "Habinek & Fu, 2023",
     "Hacke (2010)": "Hacke, 2010",
     "Hacke, 2010": "Hacke, 2010",
     "Hacker & Dunlosky (1998)": "Hacker & Dunlosky, 1998",
@@ -11231,8 +11251,14 @@
     "Heinrich & Streblow, 2019": "Heinrich & Streblow, 2019",
     "Heintz (2010)": "Heintz, 2010",
     "Heintz, 2010": "Heintz, 2010",
+    "Heinze & Fuchs (2022)": "Heinze & Fuchs, 2022",
+    "Heinze & Fuchs, 2022": "Heinze & Fuchs, 2022",
     "Heinze et al. (2007)": "Heinze et al., 2007",
+    "Heinze et al. (2019)": "Heinze et al., 2019",
+    "Heinze et al. (2020)": "Heinze et al., 2020",
     "Heinze et al., 2007": "Heinze et al., 2007",
+    "Heinze et al., 2019": "Heinze et al., 2019",
+    "Heinze et al., 2020": "Heinze et al., 2020",
     "Heishman et al. (1997)": "Heishman et al., 1997",
     "Heishman et al., 1997": "Heishman et al., 1997",
     "Heitmann (2013)": "Heitmann, 2013",
@@ -11695,8 +11721,12 @@
     "Hollingsworth & Hollingsworth, 2011": "Hollingsworth & Hollingsworth, 2011",
     "Hollingsworth (1991)": "Hollingsworth, 1991",
     "Hollingsworth (2000)": "Hollingsworth, 2000",
+    "Hollingsworth (2004)": "Hollingsworth, 2004",
+    "Hollingsworth (2006)": "Hollingsworth, 2006",
     "Hollingsworth, 1991": "Hollingsworth, 1991",
     "Hollingsworth, 2000": "Hollingsworth, 2000",
+    "Hollingsworth, 2004": "Hollingsworth, 2004",
+    "Hollingsworth, 2006": "Hollingsworth, 2006",
     "Holloway (2004)": "Holloway, 2004",
     "Holloway, 2004": "Holloway, 2004",
     "Holly & Whitehead (1986)": "Holly & Whitehead, 1986",
@@ -12210,6 +12240,8 @@
     "Ianni, 1996": "Ianni, 1996",
     "Ianno (1995)": "Ianno, 1995",
     "Ianno, 1995": "Ianno, 1995",
+    "Iaria et al. (2018)": "Iaria et al., 2018",
+    "Iaria et al., 2018": "Iaria et al., 2018",
     "Ibe (2009)": "Ibe, 2009",
     "Ibe, 2009": "Ibe, 2009",
     "Ibnouf et al. (2013)": "Ibnouf et al., 2013",
@@ -16247,6 +16279,8 @@
     "MacIntyre, 1981": "MacIntyre, 1981",
     "MacIntyre, 1984": "MacIntyre, 1984",
     "MacIntyre, 2007": "MacIntyre, 2007",
+    "MacLeod & Urquiola (2021)": "MacLeod & Urquiola, 2021",
+    "MacLeod & Urquiola, 2021": "MacLeod & Urquiola, 2021",
     "MacLeod (2007)": "MacLeod, 2007",
     "MacLeod, 2007": "MacLeod, 2007",
     "MacLure (2005)": "MacLure, 2005",
@@ -18073,6 +18107,8 @@
     "Moser & Kalton (1977)": "Moser & Kalton, 1977",
     "Moser & Kalton, 1977": "Moser & Kalton, 1977",
     "Moser (2012)": "Moser, 2012",
+    "Moser et al. (2014)": "Moser et al., 2014",
+    "Moser et al., 2014": "Moser et al., 2014",
     "Moser, 2012": "Moser, 2012",
     "Moses (1965)": "Moses, 1965",
     "Moses Abramovitz (1956)": "Moses Abramovitz, 1956",
@@ -18238,6 +18274,8 @@
     "Murawski & Swanson, 2001": "Murawski & Swanson, 2001",
     "Murdoch (2006)": "Murdoch, 2006",
     "Murdoch, 2006": "Murdoch, 2006",
+    "Murmann (2003)": "Murmann, 2003",
+    "Murmann, 2003": "Murmann, 2003",
     "Murnane & Cohen (1981)": "Murnane & Cohen, 1981",
     "Murnane & Cohen, 1981": "Murnane & Cohen, 1981",
     "Murnane & Ganimian (2014)": "Murnane & Ganimian, 2014",
@@ -23057,6 +23095,10 @@
     "Seedhouse, 1998a": "Seedhouse, 1998",
     "Seefeldt (1977)": "Seefeldt, 1977",
     "Seefeldt, 1977": "Seefeldt, 1977",
+    "Seeman & Restrepo (2023a)": "Seeman & Restrepo, 2023a",
+    "Seeman & Restrepo (2023b)": "Seeman & Restrepo, 2023b",
+    "Seeman & Restrepo, 2023a": "Seeman & Restrepo, 2023b",
+    "Seeman & Restrepo, 2023b": "Seeman & Restrepo, 2023a",
     "Seferian (2021)": "Seferian, 2021",
     "Seferian, 2021": "Seferian, 2021",
     "Segers (2005)": "Segers, 2005",
@@ -26211,6 +26253,8 @@
     "Urbina, 2017": "Urbina, 2017",
     "Urhan et al. (2024)": "Urhan et al., 2024",
     "Urhan et al., 2024": "Urhan et al., 2024",
+    "Urquiola (2020)": "Urquiola, 2020",
+    "Urquiola, 2020": "Urquiola, 2020",
     "Ursula Springer (1969)": "Ursula Springer, 1969",
     "Ursula Springer, 1969": "Ursula Springer, 1969",
     "Ursula Springer, 1969a": "Ursula Springer, 1969",
@@ -26727,7 +26771,11 @@
     "Walder et al., 2000": "Walder et al., 2000",
     "Walder, 1995": "Walder, 1995",
     "Waldinger (2010)": "Waldinger, 2010",
+    "Waldinger (2011)": "Waldinger, 2011",
+    "Waldinger (2016)": "Waldinger, 2016",
     "Waldinger, 2010": "Waldinger, 2010",
+    "Waldinger, 2011": "Waldinger, 2011",
+    "Waldinger, 2016": "Waldinger, 2016",
     "Waldow (2017)": "Waldow, 2017",
     "Waldow et al. (2014)": "Waldow et al., 2014",
     "Waldow et al., 2014": "Waldow et al., 2014",
@@ -26911,6 +26959,8 @@
     "Wanzek, 2020": "Wanzek, 2020b",
     "Wanzek, 2020a": "Wanzek, 2020a",
     "Wanzek, 2020b": "Wanzek, 2020b",
+    "Wapman et al. (2022)": "Wapman et al., 2022",
+    "Wapman et al., 2022": "Wapman et al., 2022",
     "Waquet (2001)": "Waquet, 2001",
     "Waquet, 2001": "Waquet, 2001",
     "Warburton & Saunders (1996)": "Warburton & Saunders, 1996",
@@ -46384,6 +46434,36 @@
       ],
       "title": ""
     },
+    "Ben-David, 1960": {
+      "aliases": [
+        "Ben-David, 1960",
+        "Ben-David (1960)"
+      ],
+      "doi": "https://doi.org/10.2307/2089982",
+      "identity_keys": [
+        "Ben-David, 1960"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md"
+      ],
+      "title": "Scientific Productivity and Academic Organization in Nineteenth Century Medicine"
+    },
+    "Ben-David, 1971": {
+      "aliases": [
+        "Ben-David, 1971",
+        "Ben-David (1971)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ben-David, 1971"
+      ],
+      "isbn": "9780226042220",
+      "seen_in": [
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md"
+      ],
+      "title": "The Scientist's Role in Society: A Comparative Study"
+    },
     "Benavides-Varela, 2020": {
       "aliases": [
         "Benavides-Varela, 2020",
@@ -48255,6 +48335,21 @@
         "wiki/theories/sociology-of-education/Organizational Culture.md"
       ],
       "title": ""
+    },
+    "Best & Wolf, 2015": {
+      "aliases": [
+        "Best & Wolf, 2015",
+        "Best & Wolf (2015)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Best & Wolf, 2015"
+      ],
+      "isbn": "9781446269985",
+      "seen_in": [
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md"
+      ],
+      "title": "Logistic Regression"
     },
     "Best, 1992": {
       "aliases": [
@@ -52966,6 +53061,21 @@
         "wiki/theories/sociology-of-education/Social Capital Theory.md"
       ],
       "title": "The Forms of Capital"
+    },
+    "Bourdieu, 1988": {
+      "aliases": [
+        "Bourdieu, 1988",
+        "Bourdieu (1988)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bourdieu, 1988"
+      ],
+      "isbn": "9780804717984",
+      "seen_in": [
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md"
+      ],
+      "title": "Homo Academicus"
     },
     "Bourdieu, 1990": {
       "aliases": [
@@ -67219,6 +67329,21 @@
       ],
       "title": ""
     },
+    "Clauset et al., 2015": {
+      "aliases": [
+        "Clauset et al., 2015",
+        "Clauset et al. (2015)"
+      ],
+      "doi": "https://doi.org/10.1126/sciadv.1400005",
+      "identity_keys": [
+        "Clauset et al., 2015"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md"
+      ],
+      "title": "Systematic inequality and hierarchy in faculty hiring networks"
+    },
     "Clauss et al., 2024": {
       "aliases": [
         "Clauss et al., 2024",
@@ -71464,6 +71589,36 @@
         "wiki/persons/portugal/Nuno Crato.md"
       ],
       "title": ""
+    },
+    "Crawford, 1992": {
+      "aliases": [
+        "Crawford, 1992",
+        "Crawford (1992)"
+      ],
+      "doi": "https://doi.org/10.1017/CBO9780511529191",
+      "identity_keys": [
+        "Crawford, 1992"
+      ],
+      "isbn": "9780521403863",
+      "seen_in": [
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md"
+      ],
+      "title": "Nationalism and Internationalism in Science, 1880–1939: Four Studies of the Nobel Population"
+    },
+    "Crawford, 2001": {
+      "aliases": [
+        "Crawford, 2001",
+        "Crawford (2001)"
+      ],
+      "doi": "https://doi.org/10.1088/2058-7058/14/11/29",
+      "identity_keys": [
+        "Crawford, 2001"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md"
+      ],
+      "title": "Nobel population 1901–50: anatomy of a scientific elite"
     },
     "Crawford, 2011": {
       "aliases": [
@@ -78834,6 +78989,21 @@
         "wiki/concepts/educational-policy-reform/Iatrogenic Effects in Education.md"
       ],
       "title": ""
+    },
+    "Dittmar & Meisenzahl, 2022": {
+      "aliases": [
+        "Dittmar & Meisenzahl, 2022",
+        "Dittmar & Meisenzahl (2022)"
+      ],
+      "doi": "https://doi.org/10.2139/ssrn.4144714",
+      "identity_keys": [
+        "Dittmar & Meisenzahl, 2022"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md"
+      ],
+      "title": "The Research University, Invention, and Industry: Evidence from German History"
     },
     "Dix et al., 2020": {
       "aliases": [
@@ -94471,7 +94641,9 @@
         "Friedman, 1989"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md"
+      ],
       "title": "Mathematics and the Gender Gap: A Met-Analysis of Recent Studies on Sex Differences in Mathematical Tasks"
     },
     "Friedman, 1990": {
@@ -94496,11 +94668,12 @@
       "identity_keys": [
         "Friedman, 2001"
       ],
-      "isbn": "",
+      "isbn": "9780716731030",
       "seen_in": [
-        "wiki/arguments/journal-articles/Medical Education Online/Argument_Sandrone_2025_MEO.md"
+        "wiki/arguments/journal-articles/Medical Education Online/Argument_Sandrone_2025_MEO.md",
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md"
       ],
-      "title": ""
+      "title": "The Politics of Excellence: Behind the Nobel Prize in Science"
     },
     "Friedman, 2023": {
       "aliases": [
@@ -96330,6 +96503,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Impacts of coordinative training on normal weight and overweight/obese children’s attentional performance"
+    },
+    "Gallotti & De Domenico, 2019": {
+      "aliases": [
+        "Gallotti & De Domenico, 2019",
+        "Gallotti & De Domenico (2019)"
+      ],
+      "doi": "https://doi.org/10.1038/s41598-019-53657-6",
+      "identity_keys": [
+        "Gallotti & De Domenico, 2019"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md"
+      ],
+      "title": "Effects of homophily and academic reputation in the nomination and selection of Nobel laureates"
     },
     "Galloway, 2003": {
       "aliases": [
@@ -106581,6 +106769,21 @@
       ],
       "title": ""
     },
+    "Habinek & Fu, 2023": {
+      "aliases": [
+        "Habinek & Fu, 2023",
+        "Habinek & Fu (2023)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Habinek & Fu, 2023"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md"
+      ],
+      "title": "Social and cultural closure in awarding the Nobel Prize in Physics"
+    },
     "Hacke, 2010": {
       "aliases": [
         "Hacke, 2010",
@@ -111902,6 +112105,21 @@
       ],
       "title": ""
     },
+    "Heinze & Fuchs, 2022": {
+      "aliases": [
+        "Heinze & Fuchs, 2022",
+        "Heinze & Fuchs (2022)"
+      ],
+      "doi": "https://doi.org/10.1007/s11192-021-04250-0",
+      "identity_keys": [
+        "Heinze & Fuchs, 2022"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md"
+      ],
+      "title": "National and organizational patterns of Nobel laureate careers in physiology/medicine, physics, and chemistry"
+    },
     "Heinze et al., 2007": {
       "aliases": [
         "Heinze et al., 2007",
@@ -111916,6 +112134,36 @@
         "wiki/concepts/science-policy/Scientific Creativity.md"
       ],
       "title": ""
+    },
+    "Heinze et al., 2019": {
+      "aliases": [
+        "Heinze et al., 2019",
+        "Heinze et al. (2019)"
+      ],
+      "doi": "https://doi.org/10.1371/journal.pone.0213916",
+      "identity_keys": [
+        "Heinze et al., 2019"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md"
+      ],
+      "title": "From North American hegemony to global competition for scientific leadership? Insights from the Nobel population"
+    },
+    "Heinze et al., 2020": {
+      "aliases": [
+        "Heinze et al., 2020",
+        "Heinze et al. (2020)"
+      ],
+      "doi": "https://doi.org/10.1371/journal.pone.0239805",
+      "identity_keys": [
+        "Heinze et al., 2020"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md"
+      ],
+      "title": "Institutional environments and breakthroughs in science: Comparison of France, Germany, the United Kingdom, and the United States"
     },
     "Heishman et al., 1997": {
       "aliases": [
@@ -115323,6 +115571,36 @@
         "wiki/concepts/science-policy/Complementary Variety.md"
       ],
       "title": ""
+    },
+    "Hollingsworth, 2004": {
+      "aliases": [
+        "Hollingsworth, 2004",
+        "Hollingsworth (2004)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hollingsworth, 2004"
+      ],
+      "isbn": "9780874700619",
+      "seen_in": [
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md"
+      ],
+      "title": "Institutionalizing Excellence in Biomedical Research: The Case of the Rockefeller University"
+    },
+    "Hollingsworth, 2006": {
+      "aliases": [
+        "Hollingsworth, 2006",
+        "Hollingsworth (2006)"
+      ],
+      "doi": "https://doi.org/10.1093/oso/9780199286805.003.0022",
+      "identity_keys": [
+        "Hollingsworth, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md"
+      ],
+      "title": "A Path-Dependent Perspective on Institutional and Organizational Factors Shaping Major Scientific Discoveries"
     },
     "Holloway, 2004": {
       "aliases": [
@@ -119020,6 +119298,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "A Meta-Analysis of Research on the Effects of Computer-Assisted Instruction on Reading Achievement of Learning-Disabled Students"
+    },
+    "Iaria et al., 2018": {
+      "aliases": [
+        "Iaria et al., 2018",
+        "Iaria et al. (2018)"
+      ],
+      "doi": "https://doi.org/10.1093/qje/qjx046",
+      "identity_keys": [
+        "Iaria et al., 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md"
+      ],
+      "title": "Frontier Knowledge and Scientific Production: Evidence from the Collapse of International Science"
     },
     "Ibe, 2009": {
       "aliases": [
@@ -148073,6 +148366,21 @@
       ],
       "title": ""
     },
+    "MacLeod & Urquiola, 2021": {
+      "aliases": [
+        "MacLeod & Urquiola, 2021",
+        "MacLeod & Urquiola (2021)"
+      ],
+      "doi": "https://doi.org/10.1257/jep.35.1.185",
+      "identity_keys": [
+        "MacLeod & Urquiola, 2021"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md"
+      ],
+      "title": "Why Does the United States Have the Best Research Universities? Incentives, Resources, and Virtuous Circles"
+    },
     "MacLeod, 2007": {
       "aliases": [
         "MacLeod, 2007",
@@ -156281,7 +156589,7 @@
         "Merton, 1968",
         "Merton (1968)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.1126/science.159.3810.56",
       "identity_keys": [
         "Merton, 1968"
       ],
@@ -156292,12 +156600,13 @@
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit06.md",
         "wiki/arguments/journal-articles/Educational Research/Argument_Zhang_Zhao_2026_EDR.md",
         "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Chen_2025_HSSC.md",
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md",
         "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
         "wiki/concepts/higher-education/Matthew Effect in Academia.md",
         "wiki/concepts/science-policy/Goliath's Shadow.md",
         "wiki/concepts/science-policy/Peer Effects in Science.md"
       ],
-      "title": ""
+      "title": "The Matthew Effect in Science"
     },
     "Merton, 1982": {
       "aliases": [
@@ -161319,6 +161628,21 @@
       ],
       "title": ""
     },
+    "Moser et al., 2014": {
+      "aliases": [
+        "Moser et al., 2014",
+        "Moser et al. (2014)"
+      ],
+      "doi": "https://doi.org/10.1257/aer.104.10.3222",
+      "identity_keys": [
+        "Moser et al., 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md"
+      ],
+      "title": "German Jewish Émigrés and US Invention"
+    },
     "Moser, 2012": {
       "aliases": [
         "Moser, 2012",
@@ -162525,6 +162849,21 @@
         "wiki/concepts/political-economy-geopolitics/Network Governance.md"
       ],
       "title": ""
+    },
+    "Murmann, 2003": {
+      "aliases": [
+        "Murmann, 2003",
+        "Murmann (2003)"
+      ],
+      "doi": "https://doi.org/10.1017/CBO9780511488665",
+      "identity_keys": [
+        "Murmann, 2003"
+      ],
+      "isbn": "9780521813600",
+      "seen_in": [
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md"
+      ],
+      "title": "Knowledge and Competitive Advantage: The Coevolution of Firms, Technology, and National Institutions"
     },
     "Murnane & Cohen, 1981": {
       "aliases": [
@@ -197999,6 +198338,36 @@
       "seen_in": [],
       "title": "Montessori and responsive environment models: A longitudinal study of two preschool programs, phase two."
     },
+    "Seeman & Restrepo, 2023a": {
+      "aliases": [
+        "Seeman & Restrepo, 2023a",
+        "Seeman & Restrepo (2023a)"
+      ],
+      "doi": "https://doi.org/10.1002/poc.4509",
+      "identity_keys": [
+        "Seeman & Restrepo, 2023b"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md"
+      ],
+      "title": "On the nonexistent Nobel Prizes for two pioneers of modern physical organic chemistry: Sir Christopher K. Ingold and Saul Winstein"
+    },
+    "Seeman & Restrepo, 2023b": {
+      "aliases": [
+        "Seeman & Restrepo, 2023b",
+        "Seeman & Restrepo (2023b)"
+      ],
+      "doi": "https://doi.org/10.1002/chem.202203985",
+      "identity_keys": [
+        "Seeman & Restrepo, 2023a"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md"
+      ],
+      "title": "The Uncertain Role of Nominations for the Nobel Prize in Chemistry"
+    },
     "Seferian, 2021": {
       "aliases": [
         "Seferian, 2021",
@@ -220775,6 +221144,21 @@
       ],
       "title": ""
     },
+    "Urquiola, 2020": {
+      "aliases": [
+        "Urquiola, 2020",
+        "Urquiola (2020)"
+      ],
+      "doi": "https://doi.org/10.4159/9780674249677",
+      "identity_keys": [
+        "Urquiola, 2020"
+      ],
+      "isbn": "9780674244849",
+      "seen_in": [
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md"
+      ],
+      "title": "Markets, Minds, and Money: Why America Leads the World in University Research"
+    },
     "Ursula Springer, 1969": {
       "aliases": [
         "Ursula Springer, 1969",
@@ -224451,11 +224835,42 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
         "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md",
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md",
         "wiki/concepts/science-policy/Scientific Productivity.md",
         "wiki/facts/germany/Nazi Purge of University Scholars.md",
         "wiki/methods/quantitative/Instrumental Variables.md"
       ],
       "title": "Quality matters: The expulsion of professors and the consequences for PhD student outcomes in Nazi Germany"
+    },
+    "Waldinger, 2011": {
+      "aliases": [
+        "Waldinger, 2011",
+        "Waldinger (2011)"
+      ],
+      "doi": "https://doi.org/10.1093/restud/rdr029",
+      "identity_keys": [
+        "Waldinger, 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md"
+      ],
+      "title": "Peer Effects in Science: Evidence from the Dismissal of Scientists in Nazi Germany"
+    },
+    "Waldinger, 2016": {
+      "aliases": [
+        "Waldinger, 2016",
+        "Waldinger (2016)"
+      ],
+      "doi": "https://doi.org/10.1162/REST_a_00609",
+      "identity_keys": [
+        "Waldinger, 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md"
+      ],
+      "title": "Bombs, Brains, and Science: The Role of Human and Physical Capital for the Creation of Scientific Knowledge"
     },
     "Waldow et al., 2014": {
       "aliases": [
@@ -225730,6 +226145,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Intensive intervention for upper elementary students with severe reading comprehension difficulties"
+    },
+    "Wapman et al., 2022": {
+      "aliases": [
+        "Wapman et al., 2022",
+        "Wapman et al. (2022)"
+      ],
+      "doi": "https://doi.org/10.1038/s41586-022-05222-x",
+      "identity_keys": [
+        "Wapman et al., 2022"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md"
+      ],
+      "title": "Quantifying hierarchy and dynamics in US faculty hiring and retention"
     },
     "Waquet, 2001": {
       "aliases": [
@@ -237273,12 +237703,13 @@
       "identity_keys": [
         "Zuckerman, 1977"
       ],
-      "isbn": "",
+      "isbn": "9780029357606",
       "seen_in": [
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md",
         "wiki/concepts/higher-education/Mentorship.md",
         "wiki/concepts/science-policy/Benefit of the Doubt in Peer Review.md"
       ],
-      "title": ""
+      "title": "Scientific Elite: Nobel Laureates in the United States"
     },
     "Zuckerman, 1979": {
       "aliases": [

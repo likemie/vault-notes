@@ -9,10 +9,10 @@ source_language: en
 citation: "von der Heyden, M., & Heinze, T. (2025). Decline of German and rise of North-American hegemony in science: Insights from Nobel Prize nominations (Physics/Chemistry, 1901–1969). PLOS ONE, 20(5), e0323103. https://doi.org/10.1371/journal.pone.0323103"
 year: 2025
 doi: "10.1371/journal.pone.0323103"
-isbn: ""
 citation_aliases:
   - "von der Heyden & Heinze, 2025"
-  - "von der Heyden & Heinze (2025)"
+  - "von der Heyden and Heinze (2025)"
+isbn: ""
 tags:
   - theme/science-policy
   - theme/sociology-of-science
@@ -55,7 +55,7 @@ journal: "PLOS ONE"
 
 > [!concept-lens] 阅读透镜
 > - **对象** 1901 至 1969 年间诺贝尔物理学奖与化学奖全部 8832 次解密提名记录，涵盖 3319 位学者及其接受或发出提名当年的真实就职机构与地理坐标。
-> - **张力** [[Harriet Zuckerman|哈里特·朱克曼]]（Harriet Zuckerman）所论证的诺贝尔奖评选遵循功绩制普遍主义规范 (Zuckerman, 1977)，与科学史家伊丽莎白·克劳福德（Elisabeth Crawford）强调的学术民族主义、“本国提名”沙文主义 (Crawford, 1992, 2001) 以及非正式人际网络与权力干预 (Friedman, 1989, 2001) 之间的学术争鸣。
+> - **张力** [[Harriet Zuckerman|哈里特·朱克曼]]（Harriet Zuckerman）所论证的诺贝尔奖评选遵循功绩制普遍主义规范 (Zuckerman, 1977)，与科学史家伊丽莎白·克劳福德（Elisabeth Crawford）强调的学术民族主义、“本国提名”沙文主义 (Crawford, 1992; Crawford, 2001) 以及非正式人际网络与权力干预 (Friedman, 1989; Friedman, 2001) 之间的学术争鸣。
 > - **贡献** 突破以往仅以最终获奖者为静态分析对象的局限，首次从长时段、全样本的提名人与被提名人动态网络入手，结合学者提名当年的精确聘任机构追踪跨国[[Scientific Mobility|学术流动]]，系统揭示了霸权演进中机构枢纽度、权威度、学术自我再生产与提名安置力的非对称结构。
 
 ---
@@ -64,12 +64,12 @@ journal: "PLOS ONE"
 > | 理论工具 | 解释功能 |
 > |---|---|
 > | **科学霸权**<br>[[Scientific Hegemony]] | 界定特定国家或学术体制在跨国科学共同体中建立并维持的结构性主导地位与权威层级，表征为在国际同行承认、议程设定与顶尖成果产出中的中心支配关系 (Heinze et al., 2019)。 |
-> | **科学中心转移理论**<br>Ben-David's Theory of Scientific Centers | 约瑟夫·本-戴维（Joseph Ben-David）指出国家科学卓越地位取决于教育与政治体制的结构性特征，分权竞争与组织创新驱动世界科学中心在不同历史时期发生跨国转移 (Ben-David, 1960, 1971; Murmann, 2003; Dittmar & Meisenzahl, 2022)。 |
+> | **科学中心转移理论**<br>Ben-David's Theory of Scientific Centers | 约瑟夫·本-戴维（Joseph Ben-David）指出国家科学卓越地位取决于教育与政治体制的结构性特征，分权竞争与组织创新驱动世界科学中心在不同历史时期发生跨国转移 (Ben-David, 1960; Ben-David, 1971; Murmann, 2003; Dittmar & Meisenzahl, 2022)。 |
 > | **学术自我再生产与社会封闭**<br>Academic Self-Reproduction & Social Closure | 解释科学界高声望机构与网络通过内部互荐、近亲繁殖与声誉互认巩固学术权威并维系圈层壁垒的社会学机制 (Bourdieu, 1988; Habinek & Fu, 2023; Clauset et al., 2015; Wapman et al., 2022)。 |
 > | **默顿科学社会学普遍主义假说**<br>Mertonian Universalism & Meritocracy | 罗伯特·K·默顿（Robert K. Merton）与朱克曼提出的功绩制评价假说，主张高阶学术承认在根本上由实质性科学成就决定，能有效抵御地缘游说与群体偏误 (Merton, 1968; Zuckerman, 1977; Gallotti & De Domenico, 2019)。 |
 
 > [!warrant]- 理论如何支撑论证
-> 理论工具构成了将宏观科学史演进与微观计量数据相连接的逻辑桥梁。本-戴维的历史制度分析表明，德国大学在 19 世纪凭借分权竞争体制成为世界科学中心 (Ben-David, 1960, 1971)，并与合成染料等新兴工业紧密咬合 (Murmann, 2003)；但进入 20 世纪后，正教授讲座制固步自封促使前沿探索转向威廉皇帝学会，体制僵化渐显。霍林斯沃思（J. Rogers Hollingsworth）的制度环境论进一步阐明，美国大学凭借系所分权、研究生院科研训练与多元竞争资助体系实现了整体崛起 (Hollingsworth, 2004, 2006; MacLeod & Urquiola, 2021; Urquiola, 2020)。随后，纳粹政权强行清洗驱逐犹太学者，不仅造成德国数理学科顶尖人才与合著网络的不可逆破坏 (Waldinger, 2010, 2011, 2016)，更因流亡科学家的汇聚极大地充实了美国的科技创新基础 (Moser et al., 2014)。在承认网络层面，朱克曼关于精英评价的功绩制断言 (Zuckerman, 1977) 与克劳福德的偏误指控 (Crawford, 1992, 2001) 形成对照，使得将“本国提名”重构为科学霸权确立后学术自我再生产的结构性指标成为可能。机构拓扑分析与计量回归模型的结合，揭示了科学霸权在微观同行评议网络中留下的制度印记。
+> 理论工具构成了将宏观科学史演进与微观计量数据相连接的逻辑桥梁。本-戴维的历史制度分析表明，德国大学在 19 世纪凭借分权竞争体制成为世界科学中心 (Ben-David, 1960; Ben-David, 1971)，并与合成染料等新兴工业紧密咬合 (Murmann, 2003)；但进入 20 世纪后，正教授讲座制固步自封促使前沿探索转向威廉皇帝学会，体制僵化渐显。霍林斯沃思（J. Rogers Hollingsworth）的制度环境论进一步阐明，美国大学凭借系所分权、研究生院科研训练与多元竞争资助体系实现了整体崛起 (Hollingsworth, 2004; Hollingsworth, 2006; MacLeod & Urquiola, 2021; Urquiola, 2020)。随后，纳粹政权强行清洗驱逐犹太学者，不仅造成德国数理学科顶尖人才与合著网络的不可逆破坏 (Waldinger, 2010; Waldinger, 2011; Waldinger, 2016)，更因流亡科学家的汇聚极大地充实了美国的科技创新基础 (Moser et al., 2014)。在承认网络层面，朱克曼关于精英评价的功绩制断言 (Zuckerman, 1977) 与克劳福德的偏误指控 (Crawford, 1992; Crawford, 2001) 形成对照，使得将“本国提名”重构为科学霸权确立后学术自我再生产的结构性指标成为可能。机构拓扑分析与计量回归模型的结合，揭示了科学霸权在微观同行评议网络中留下的制度印记。
 
 ---
 
@@ -135,7 +135,7 @@ journal: "PLOS ONE"
 > ![](https://img.mylikemie.icu/sources/VonDerHeyden_Heinze_2025_PLOSONE/figures/VonDerHeyden_Heinze_2025_PLOSONE_Fig2_Top4_Nominated_Countries.jpg)
 > *注：采用 5 年移动平均平滑处理。涵盖 1901 至 1969 年间德国、美国、英国和法国接收被提名的相对比例演进。*
 
-以 1933 年为界切分前后两个阶段，对比尤为鲜明。1901 至 1933 年间，德国获得了全库 38% 的被提名份额和 31% 的提名人份额，位列全球榜首；在 1934 至 1969 年间，美国包揽了 42% 的被提名份额和 24% 的提名人份额，成为绝对领跑者，而德国在同期的被提名份额缩减过半。以[[Nazi Purge of University Scholars|纳粹解聘驱逐学者]]为代表的政治暴力，造成德国顶尖[[Scientific Productivity|科研生产力]]永久受损 (Waldinger, 2010, 2011)，驱使爱因斯坦（Albert Einstein）等大批领军科学家流亡北美，直接加速了美国科学实力的飞跃 (Moser et al., 2014)。
+以 1933 年为界切分前后两个阶段，对比尤为鲜明。1901 至 1933 年间，德国获得了全库 38% 的被提名份额和 31% 的提名人份额，位列全球榜首；在 1934 至 1969 年间，美国包揽了 42% 的被提名份额和 24% 的提名人份额，成为绝对领跑者，而德国在同期的被提名份额缩减过半。以[[Nazi Purge of University Scholars|纳粹解聘驱逐学者]]为代表的政治暴力，造成德国顶尖[[Scientific Productivity|科研生产力]]永久受损 (Waldinger, 2010; Waldinger, 2011)，驱使爱因斯坦（Albert Einstein）等大批领军科学家流亡北美，直接加速了美国科学实力的飞跃 (Moser et al., 2014)。
 
 > [!figure]- 图3：1901–1933与1934–1969两时期美德提名人与被提名人占比对比
 > ![](https://img.mylikemie.icu/sources/VonDerHeyden_Heinze_2025_PLOSONE/figures/VonDerHeyden_Heinze_2025_PLOSONE_Fig3_Proportions_Nominators_Nominees.jpg)
@@ -162,7 +162,7 @@ journal: "PLOS ONE"
 > ![](https://img.mylikemie.icu/sources/VonDerHeyden_Heinze_2025_PLOSONE/figures/VonDerHeyden_Heinze_2025_PLOSONE_Fig5_Self_Nominations_Over_Time.jpg)
 > *注：采用 5 年移动平均。展示德、美两强在其各自科学霸权确立时期本国自荐提名比例的峰值形态。*
 
-德国在 1910 年代处于科学顶峰时，本国提名比例一度高达近 90%；二战后伴随德国地位的丧失，其内部提名大幅退潮（前后两期 Phi 相关系数为 -0.2）。反观美国，在 1930 年代跃居世界首位后，本国提名率迅速升至 50% 至 70% 的高位平台并保持平稳（前后两期 Phi 相关系数为 +0.1）。这一结果印证了如下机制：当一个国家汇聚了全球最密集的顶尖科研力量时，学者推举本国同行属于必然的学术再生产，并非克劳福德所批评的无理性民族沙文主义 (Crawford, 1992, 2001)。
+德国在 1910 年代处于科学顶峰时，本国提名比例一度高达近 90%；二战后伴随德国地位的丧失，其内部提名大幅退潮（前后两期 Phi 相关系数为 -0.2）。反观美国，在 1930 年代跃居世界首位后，本国提名率迅速升至 50% 至 70% 的高位平台并保持平稳（前后两期 Phi 相关系数为 +0.1）。这一结果印证了如下机制：当一个国家汇聚了全球最密集的顶尖科研力量时，学者推举本国同行属于必然的学术再生产，并非克劳福德所批评的无理性民族沙文主义 (Crawford, 1992; Crawford, 2001)。
 
 > [!sub-claim] 2. 顶尖科研机构表现出极高的本单位学者互荐偏好
 > 从机构微观视角审视，学者推荐本校或本所同事的比例呈现严重的层级分化。洛克菲勒研究所的内部互荐率高达 51%，加州理工学院达 44%，普林斯顿大学达 39%；德国海德堡大学（22%）与柏林洪堡大学（17%）亦保持一定比例；而麻省理工学院（10%）与慕尼黑大学（6%）的自荐率较低。高自荐率集中出现在顶尖声望机构，反映出优势学术群体借助推举圈内成员来维系声誉垄断与精英壁垒的社会封闭特性，与高校师资选聘中的排他性网络如出一辙 (Clauset et al., 2015; Wapman et al., 2022)。
@@ -181,7 +181,7 @@ journal: "PLOS ONE"
 
 > [!case] 克里斯托弗·英戈尔德：提名累积并未换来最终授奖
 > **学者背景** 英国物理有机化学奠基人克里斯托弗·英戈尔德（Christopher Ingold）系统建立了亲核取代等划时代反应理论，获得众多同行多次提名。
-> **落选事实** 尽管在提名网络中累积了极高的声望和被提名频次，英戈尔德因委员会内部偏好与网络阻力终生未能获奖 (Seeman & Restrepo, 2023a, 2023b)。
+> **落选事实** 尽管在提名网络中累积了极高的声望和被提名频次，英戈尔德因委员会内部偏好与网络阻力终生未能获奖 (Seeman & Restrepo, 2023a; Seeman & Restrepo, 2023b)。
 > **经验结论** 进一步证实即便在提名网络中处于声望顶层，提名推荐权的累积与最终评奖决议之间依然存在明确的权力边界。
 
 ---
