@@ -422,6 +422,10 @@ var FloatingSearch = class {
 };
 
 // src/title-index.ts
+function isBackupPath(path) {
+  const folders = path.split("/").slice(0, -1);
+  return folders.some((folder) => /(?:^|[._ -])(?:backups?|备份)(?:$|[._ -])/i.test(folder));
+}
 var TitleIndex = class {
   constructor() {
     this.byPath = /* @__PURE__ */ new Map();
@@ -430,6 +434,7 @@ var TitleIndex = class {
     return this.byPath.values();
   }
   set(path, mtime, properties) {
+    if (isBackupPath(path)) return this.byPath.delete(path);
     const title = typeof properties?.title === "string" ? properties.title.trim() : "";
     if (!title) return this.byPath.delete(path);
     const raw = properties?.aliases;
@@ -454,7 +459,7 @@ var TitleIndex = class {
     const cached = this.byPath.get(oldPath);
     if (!cached || oldPath === path) return false;
     this.byPath.delete(oldPath);
-    this.byPath.set(path, { ...cached, path, mtime });
+    if (!isBackupPath(path)) this.byPath.set(path, { ...cached, path, mtime });
     return true;
   }
   remove(path, folder = false) {

@@ -61,3 +61,22 @@ test("highlights displayed character boundaries when lowercasing expands a lette
   deepEqual(titleRange(title, folded, 0, 2), [0, 1]);
   deepEqual(titleRange(title, folded, folded.indexOf("stan"), 4), [1, 5]);
 });
+
+test("excludes backup folders from title and alias search and removes notes moved into them", () => {
+  const index = new TitleIndex();
+  const properties = { title: "Knowledge Diplomacy", aliases: ["知识外交"] };
+  const original = "wiki/Knowledge Diplomacy.md";
+  const backup = "tmp/proposition-migration/backup/wiki/Knowledge Diplomacy.md";
+  index.set(original, 1, properties);
+  index.set(backup, 2, properties);
+  index.set("tmp/callout-design-backup-v4/Knowledge Diplomacy.md", 3, properties);
+  index.set("Backups/Knowledge Diplomacy.md", 3, properties);
+  index.set("备份/Knowledge Diplomacy.md", 3, properties);
+  equal(searchTitles(index.entries(), "Knowledge Diplomacy", false).total, 1);
+  equal(searchTitles(index.entries(), "知识外交", true).rows[0].entry.path, original);
+  equal(searchTitles(index.entries(), "知识外交", true).total, 1);
+  equal(index.move(original, backup, 4), true);
+  equal(searchTitles(index.entries(), "Knowledge Diplomacy", false).total, 0);
+  index.set("wiki/backup policy.md", 5, { title: "Backup policy" });
+  equal(searchTitles(index.entries(), "backup policy", false).total, 1);
+});

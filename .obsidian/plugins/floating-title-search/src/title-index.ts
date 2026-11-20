@@ -6,6 +6,11 @@ export interface TitleEntry {
   mtime: number;
 }
 
+function isBackupPath(path: string): boolean {
+  const folders = path.split("/").slice(0, -1);
+  return folders.some(folder => /(?:^|[._ -])(?:backups?|备份)(?:$|[._ -])/i.test(folder));
+}
+
 export class TitleIndex {
   private readonly byPath = new Map<string, TitleEntry>();
 
@@ -14,6 +19,7 @@ export class TitleIndex {
   }
 
   set(path: string, mtime: number, properties: Record<string, unknown> | undefined): boolean {
+    if (isBackupPath(path)) return this.byPath.delete(path);
     const title = typeof properties?.title === "string" ? properties.title.trim() : "";
     if (!title) return this.byPath.delete(path);
     const raw = properties?.aliases;
@@ -41,7 +47,7 @@ export class TitleIndex {
     const cached = this.byPath.get(oldPath);
     if (!cached || oldPath === path) return false;
     this.byPath.delete(oldPath);
-    this.byPath.set(path, { ...cached, path, mtime });
+    if (!isBackupPath(path)) this.byPath.set(path, { ...cached, path, mtime });
     return true;
   }
 
