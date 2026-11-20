@@ -16,7 +16,7 @@ fact_kind: "policy"
 fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
-fact_related_color: "#e5e7eb"
+fact_related_color: "#dbeafe"
 period: "1969–至今"
 initiator_organization: 联邦职业教育研究所（Bundesinstitut für Berufsbildung, BIBB）与联邦经济及劳动部门
 tags:
