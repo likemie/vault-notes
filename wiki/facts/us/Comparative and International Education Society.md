@@ -64,6 +64,8 @@ related_persons:
   - "[[Gita Steiner-Khamsi]]"
   - "[[Val D. Rust]]"
   - "[[Robert Cowen]]"
+  - "[[William W. Brickman]]"
+  - "[[Iveta Silova]]"
 related_facts:
   - "[[World Council of Comparative Education Societies]]"
   - "[[Economics of Education Movement]]"
@@ -98,9 +100,9 @@ updated: 2026-11-19
 ---
 
 > [!dev-timeline] 组织发展历程
-> - **1956–1969 — 学会创设、会刊创办与冷战[[Structural Functionalism|结构功能主义]]渗透** 1956 年美国学者在纽约正式创设 CES，标志着专业学者共同体正式制度化；由[[George Bereday|乔治·贝雷迪]]（[[George Bereday]]）领衔创办旗舰学术期刊《比较教育评论》（*Comparative Education Review*, CER）。在冷战意识形态对抗与美国[[Economics of Education Movement|教育经济学运动]]驱动下，战后美国结构功能主义社会学深刻塑造了学会的元认识型；大批学会骨干出任美援与[[Mediterranean Regional Project|地中海区域项目]]的专家顾问，使学术研究与对外援助干预紧密交织。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 9)]]; [[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 122–123)]]
+> - **1956–1969 — 学会创设、会刊创办与冷战[[Structural Functionalism|结构功能主义]]渗透** 1956 年美国学者在纽约正式创设 CES，首任会长为威廉·W·布里克曼（[[William W. Brickman]]），标志着专业学者共同体正式制度化；由布里克曼与[[George Bereday|乔治·贝雷迪]]等领衔创办旗舰学术期刊《比较教育评论》（*Comparative Education Review*, CER）。在冷战意识形态对抗与美国[[Economics of Education Movement|教育经济学运动]]驱动下，战后美国结构功能主义社会学深刻塑造了学会的元认识型；大批学会骨干出任美援与[[Mediterranean Regional Project|地中海区域项目]]的专家顾问，使学术研究与对外援助干预紧密交织。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 9)]]; [[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 122–123)]]
 > - **1969–1980年代 — 词汇突变更名、发起 [[World Council of Comparative Education Societies|WCCES]] 与认识型多元分化** 1969 年学会决议正式更名为 CIES，在元[[Epistemology|认识论]]上完成了对多边开发实务与[[International Education|国际教育]]应用的建制整合；1970 年学会在加拿大渥太华联合发起成立世界比较教育学会联合会（[[World Council of Comparative Education Societies|WCCES]]），推动学会网络跨大洲扩展。伴随[[Dependency Theory|依附理论]]与后殖民思潮的兴起，早期单一功能主义垄断开始解体，在[[Harold Noah|哈罗德·诺亚]]（[[Harold Noah]]，1976–1977 年会长）与[[Max Eckstein|马克斯·埃克斯坦]]（[[Max Eckstein]]，1988–1989 年会长）等领航下，学会在《比较教育评论》上展开了关于实证科学化、历史诠释与批判政治经济学的持久大辩论。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, pp. 7–9)]]; [[Argument_Klerides_2023_CE|(Klerides, 2023, p. 422)]]; [[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 129–130)]]
-> - **1990年代–至今 — [[Pluralism|范式多元主义]]成熟、实证量化演进与史料口述工程** 拉斯特等（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）对《比较教育评论》（CER）半个世纪（1957–2007）的[[Document|文献]]计量及加利福尼亚大学洛杉矶分校（UCLA）调查证实，学会旗帜下形成了涵盖 26 种并存[[Paradigm|范式]]的繁荣理论多元主义，非历史的经验[[Quantitative Research|量化研究]]上升至约 60%；与此同时，学会档案积淀浩瀚，吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）等学者在 2000 年代率先发起口述史抢救工程，重建被官方报告遮蔽的活态制度记忆。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, pp. 7–8)]]; [[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 124, 131–132)]]
+> - **1990年代–至今 — [[Pluralism|范式多元主义]]成熟、实证量化演进与史料口述工程** 拉斯特等（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）对《比较教育评论》（CER）半个世纪（1957–2007）的文献计量证实，学会旗帜下形成了涵盖 26 种并存范式的繁荣理论多元主义，非历史的经验量化研究上升至约 60%；与此同时，学会档案积淀浩瀚，吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）等学者在 2000 年代率先发起口述史抢救工程；伊薇塔·西洛娃（[[Iveta Silova]]，2018–2019 年会长）等学者进一步推动学会反思西方中心现代性与开展去殖民探索。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, pp. 7–8)]]; [[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 124, 131–132)]]
 
 ---
 
@@ -137,11 +139,18 @@ updated: 2026-11-19
 > - **资源与网络规模** 拥有逾三千名注册专业会员，覆盖全球超百个主权国家；年均汇聚数千项国际学术成果评审与宣读。
 > - **学术与[[Knowledge Production|知识生产]]** 会刊 CER 的总被引量与[[Journal Impact Factor|影响因子]]长期稳居[[International Education|国际教育]]学科前列，构成了衡量比较教育学理论[[Paradigm|范式]]演进与方法论创新的世界风向标。
 > - **政策与制度渗透** 学会历任骨干学者深度参与[[World Bank|世界银行]]、[[UNESCO|联合国教科文组织]]、[[OECD|经合组织]]（[[OECD]]）与美国国际开发署的[[CORE Education|核心教育]]援助决策，直接塑造了全球教育[[Policy Borrowing|政策借用]]与技术治理的模型库。
+> - **冷战地缘出版导向** 创会初期学术议程高度聚焦苏联与战略区域研究，1956 年创会年会全部汇报中 50% 聚焦苏联，1958 年《比较教育评论》（CER）刊载成果中 33.3% 聚焦苏联教育，展现了防务资助对学会知识生产的重塑。[[Argument_Silova_2009_EE|(Silova, 2009, pp. 18–19)]]
 
 > [!finding-cards] 关键成效与辐射影响
 > - **[[Disciplinary Institutionalization|学科建制化]]确立** 终结了 19 世纪零星的个人游记与业余行政考察，将比较教育建构为具有专业学会、核心刊物、博士梯队与同行评议规程的完整现代社会科学学科。
 > - **范式演变与方法拓殖** 依托 CER 半个世纪的发表实践，推动比较研究从早期思辨描述向现代经验量化拓展（非历史研究占比达约 60%）；破除了战后[[Structural Functionalism|结构功能主义]]一元垄断，孕育了包容[[Positivism|实证主义]]、[[Dependency Theory|依附理论]]、[[Critical Theory|批判理论]]与[[Postmodernism|后现代主义]]的理论[[Pluralism|多元主义]]。
 > - **全球多中心学术网络催化** 作为核心创会主体促成[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（WCCES）壮大至 33 个成员学会，从制度上瓦解了早期英美西欧学术霸权的封闭垄断，推动非西方自主知识生产的合法化。
+
+> [!stat-cards]- 核心规模数据
+> - **3,000+** 学会注册专业会员与年会常态参会代表规模。
+> - **50%** 1956 年创会年会全部学术汇报中聚焦苏联教育的主题占比。[[Argument_Silova_2009_EE|(Silova, 2009, p. 19)]]
+> - **33.3%** 1958 年会刊《比较教育评论》（CER）刊发的全部成果中苏联教育研究的占比。[[Argument_Silova_2009_EE|(Silova, 2009, p. 19)]]
+> - **26** 创会半个世纪后《比较教育评论》刊载成果所涵盖的并存理论范式总数。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 131)]]
 
 ---
 
@@ -190,6 +199,8 @@ updated: 2026-11-19
 > | [[Max Eckstein]] | 人物 | 曾任 CIES 会长，与诺亚携手奠定战后美国比较教育实证[[Paradigm\|范式]]。 |
 > | [[Gita Steiner-Khamsi]] | 人物 | 曾任 CIES 会长，率先开启学会活态记忆抢救与口述史建制化工程。 |
 > | [[Robert Cowen]] | 人物 | 深入剖析 CIES 词汇突变背后的元认识论预设与冷战[[Structural Functionalism\|结构功能主义]]渗透。 |
+| [[William W. Brickman]] | 人物 | CIES 创会会长（1956–1959），《比较教育评论》创刊主编。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, p. 122)]] |
+| [[Iveta Silova]] | 人物 | 曾任 CIES 会长（2018–2019），推动学会反思西方中心主义并倡导去殖民地缘知识政治。[[Argument_Silova_2009_EE\|(Silova, 2009, pp. 26–31)]] |
 
 ---
 
