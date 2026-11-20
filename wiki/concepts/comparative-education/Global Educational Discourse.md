@@ -76,6 +76,7 @@ related_arguments:
   - "[[Argument_Beech_2009_CE]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Castro_2009_MultilateralBanks]]"
+  - "[[Argument_Munch_2014_TCR]]"
 confidence: high
 status: active
 created: 2026-10-15
@@ -172,6 +173,7 @@ updated: 2026-11-19
 > - **1980s–1990s — 信息时代同质化改革[[Paradigm|范式]]成型** 伴随冷战结束与新自由主义全球化，三大国际机构跨越意识形态分歧，将未来统一编码为“信息时代”，确立了以分权化、[[School Autonomy|学校自主]]、教师专业化、能力本位与质量测评为核心的五支柱全球教育话语体系。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 347–348)]]
 > - **2005–2009 — 全球教育话语概念的学术化建构** [[Jason Beech|杰森·比奇]]（[[Jason Beech]]）基于对阿根廷与巴西教师教育改革的长达十余年实证追踪，在其博士文章及 2009 年论著中正式提出“全球教育话语”概念与五位置流通模型，揭示国际机构过度简化[[Knowledge Production|知识生产]]与窄化地方政策空间的批判性机制。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–354)]]
 > - **2010s 至今 — 全球治理网络与数字化话语拓展** 随着 [[PISA]] 跨国数据治理体系的强化以及[[Transnational Education|跨国教育]]科技公司的兴起，全球教育话语进一步融入[[Governing by Numbers|数字治理]]、[[Lifelong Learning|终身学习]]与[[Social-Emotional Learning|社会情感能力]]等新维度，空间分析与批判[[Discourse Analysis|话语分析]]成为剖析该范式演进的主导工具。
+> - **2014 — 跨国精英联盟确立人力资本话语霸权与 PISA 制度同构规制** [[Argument_Munch_2014_TCR|Münch (2014)]] 揭示跨国知识专家依托经合组织，与追求国家区位竞争的经济精英结盟，将[[Human Capital Theory|人力资本理论]]确立为全球教育话语霸权，借助符号权力垄断正当性标准，并通过制度同构将统一通用素养规制强加给主权国家，导致本土教育生态功能失调。
 
 ---
 
@@ -182,6 +184,7 @@ updated: 2026-11-19
 > >
 > > - **[[World Bank|世界银行]]（1995）** 主张人力资本理论在实证上无可匹敌，国际咨询旨在促进减贫与经济增长。
 > > - **[[Argument_Beech_2009_GlobalGarden\|Beech (2009b, pp. 346–348)]]** 揭示其“中立科学”修辞背后的霸权本质与[[Discourse|话语]]空间窄化功能。
+> > - **符号权力与制度同构批判（[[Argument_Munch_2014_TCR|Münch, 2014]]）** 揭示跨国认知与经济精英通过垄断 PISA 科学客观性修辞，将人力资本范式建构为不可抵御的全球教育话语霸权，压制了主权国家基于本土文化与民主法治的政策探索空间。
 >
 > > [!axis] 机构间的表面分歧竞争 vs 底层深层预设的惊人[[Homophily|同质性]]
 > > 部分观察者强调[[UNESCO|教科文组织]]的人道主义立场与世界银行的纯经济理性之间存在剧烈的跨机构冲突与政治竞争；全球教育话语视角则揭示，这种表象冲突掩盖了它们在未来[[Social Imaginary|社会想象]]（信息社会）与通用学校结构（五大支柱）上的高度同构。
@@ -191,9 +194,9 @@ updated: 2026-11-19
 
 ---
 
-> [!entry-map] 相关条目网络
+> [!entry-map] 条目关联
 >
-> | 条目 | 类型 | 关联维度与贡献 |
+> | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
 > | [[Beech's Model of Discourse Circulation]] | Theory | 全球教育[[Discourse\|话语]]在学术、国际组织、国家、本土学者与学校五位置流转的系统理论模型。 |
 > | [[Discourse]] | Concept | 全球教育话语依托的[[Epistemology\|认识论]]上位概念，体现宏观权力-知识[[Disciplina and Doctrina\|规训]]与[[Floating Signifier\|漂浮能指]]动员。 |
@@ -211,7 +214,8 @@ updated: 2026-11-19
 
 ---
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Munch_2014_TCR|Münch (2014)]] — 揭示经合组织专家网络与跨国经济精英如何确立全球教育话语霸权，通过制度同构强推标准化素养规制并瓦解德国教养传统。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 提出全球教育[[Discourse|话语]]概念与[[Champ|场域]]五位置模型，实证剖析国际组织在拉美推进五大支柱模型时的空间封闭与实践脱节。
 > - [[Argument_Beech_2009_CE|Beech (2009a)]] — 将[[Space of Flows|流动空间]]与[[Space of Places|地方空间]]二分法引入比较教育学，追踪[[Global Policy Space|全球政策空间]]生产的能力话语向拉美国家与学校逐层变形的机制。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 解构[[OECD|经合组织]]如何通过[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]与 [[PISA]] [[Space of Equivalence|等值空间]]重构全球教育政策话语。

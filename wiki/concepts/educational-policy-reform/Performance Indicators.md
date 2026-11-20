@@ -120,6 +120,7 @@ related_arguments:
   - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Morgan_Shahjahan_2014_CE]]"
   - "[[Argument_Gopinathan_2007_GSE]]"
+  - "[[Argument_Munch_2014_TCR]]"
 confidence: high
 status: active
 created: 2026-05-01
@@ -282,6 +283,7 @@ updated: 2026-11-18
 > - **2010s — 区域记分牌与多边排他性同盟分化** 欧盟推广区域创新记分牌（[[Regional Innovation System|RIS]]）；世界银行开发“[[Systems Approach for Better Education Results|改善教育成果系统分析法]]”（[[Systems Approach for Better Education Results|SABER]]），各多边机构形成自成体系的指标数据库并建立政策同盟。[[Argument_Rambla_2022_Springer|(Rambla, 2022, pp. 169–170)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 545–546)]]
 > - **2010s — 规制指标分层演进与控制网底深化** 国家测试问责体制在既有全员统考之上，通过层叠增设 6 岁语音拼读筛查与英国学士学位（EBacc）等细分绩效指标，对基层学校课程教学实施纵深规制。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 256–257)]]
 > - **2012–2014 — 多源测评汇聚与 SABER 四级成熟度量规体系** 迈克·扎普（[[Argument_Zapp_2017_IJED|Zapp, 2017, pp. 7–8]]）揭示，世界银行通过[[EdStats|教育统计查询系统]]（EdStats）将高收入国家测验（PISA、[[TIMSS]]）与全球南方区域测评（[[SACMEQ]]、[[PASEC]]、[[LLECE]]）合并，建立涵盖 242 个国家和地区的 3,261 项比较指标库；同时依托 SABER 将 13 个政策领域[[Operationalization|操作化]]为四级成熟度量规，构筑起全球教育指标的集中化管理中枢。
+> - **2014 — 德国教育治理中量化绩效指标对科层法治与专业伦理的替代危机** [[Argument_Munch_2014_TCR|Münch (2014)]] 剖析在 PISA 规制下，新公共管理推行的量化绩效指标、认证机构与外部评估如何取代德国传统科层法定程序与教师专业伦理，并在与三轨分流体制的碰撞中催生出功能失调的制度混杂体。
 > - **2021–2023 — 欧洲教育区量化基准与财政资金挂钩** [[European Commission|欧盟委员会]]发布《欧洲教育区 2030 战略框架》，在保持早期离校与基础技能量化指标连续性的同时，将指标监控接入欧洲学期国别建议并挂钩欧洲社会基金（ESF+），强化软法指标的财政硬约束。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 855–857, 863–864)]]
 
 ---
@@ -300,6 +302,7 @@ updated: 2026-11-18
 > >
 > > - **技术官僚与[[New Public Management|新公共管理]]倡导者** 认为指标剥离了主观随意性，使公共问责建立在公开透明的绩效事实之上。
 > > - **指标社会学与批判学者（Espeland, 2015; [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al., 2024]]）** 揭示指标抽离了具体因果情境，制造出[[Façade of Rationality|理性表象]]，为政策中介机构推介特定方案提供了免于实质审议的技术屏障。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 539–540)]]
+> > - **新公共管理与专业伦理冲突视角（[[Argument_Munch_2014_TCR|Münch, 2014]]）** 揭示量化指标作为新公共管理外部监控机器，瓦解了基于法定规程与教师专业自主的制度信任，加剧了基层学校的异化与功能失调。
 >
 > > [!axis] 均一化等价空间与信度优先 vs 本土情境效度与教育目的多元性
 > > 跨国可比性与本土教育实际之间的认识论冲突。
@@ -352,6 +355,7 @@ updated: 2026-11-18
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Munch_2014_TCR|Münch (2014)]] — 剖析德国在 PISA 规制下引入量化绩效指标，如何以技术官僚评估机器取代传统科层法治与教师专业伦理，导致制度功能失调。
 > - [[Argument_King_2007_CE|King (2007)]] — 考证多边机构建构国际发展指标（IDTs/MDGs）的两次窄化历程，揭示极简指标如何割裂生产性经济增长并造成受援国教育生态失衡（pp. 377–389）。
 > - [[Argument_Gorur_2014_Discourse|Gorur (2014)]] — 历史解构经合组织 INES 项目与《教育概览》指标开发史，揭示科学纯度向政策可用性妥协的制度机制及测量的反身履行性。
 > - [[Argument_Rambla_2022_Springer|Rambla (2022)]] — 整合勒加莱斯与杰索普理论，提出绩效指标四维政策工具分析模型，以欧盟区域创新记分牌和[[Lifelong Learning|终身学习]]政策为实证检验。
