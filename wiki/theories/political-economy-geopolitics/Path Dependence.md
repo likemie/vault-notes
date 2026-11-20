@@ -6,7 +6,7 @@ aliases:
   - path dependence theory
   - 技术锁定
   - 锁定效应
-summary: "由 David 与 Arthur 奠基、经 Pierson 扩展至制度分析的演化经济学与制度主义核心理论；阐明历史偶然事件在规模报酬递增、自我强化机制、网络外部性与高转换成本驱动下，如何将技术轨道、产业标准或组织制度锁定于特定均衡；在半导体与高教领域，揭示高校通过“教育即标准”将开源架构内生化为全球产业生态路径依赖的微观机制。"
+summary: "由 David 与 Arthur 提出、经 Pierson 扩展至制度分析的演化经济学与制度主义核心理论；阐明历史偶然事件在规模报酬递增、自我强化机制、网络外部性与高转换成本驱动下，如何将技术轨道、产业标准或组织制度锁定于特定均衡；在半导体与高教领域，揭示高校通过“教育即标准”将开源架构内生化为全球产业生态路径依赖的微观机制。"
 type: theory
 theory_field: "political-economy-geopolitics"
 theory_related_count: 39
@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-11-15
+updated: 2026-11-21
 ---
 
 ---
@@ -88,7 +88,7 @@ updated: 2026-11-15
 > - **提出者与原始文本** 经济史学家保罗·戴维（Paul A. David, 1985）在《Clio and the Economics of QWERTY》中通过打字机键盘布局的标准演进确立了该理论的现代[[Analytic Framework|分析框架]]；随后[[Evolutionary Economics|演化经济学]]家布莱恩·阿瑟（W. Brian Arthur, 1989）在《Competing Technologies, Increasing Returns, and Lock-In by Historical Events》中建立了报酬递增与技术锁定的数学模型。
 > - **原初问题** 为什么效率更低、打字速度更慢的 QWERTY 键盘能够在与 Dvorak 等更优键位方案的竞争中长期占据垄断地位？市场竞争机制为何未能出清效率低下的技术方案？
 > - **理论资源与材料** 汲取了生物进化论中的历史偶然性与断裂平衡观、波利亚（Pólya）随机过程与非线性动力学数学工具，以及工业革命以来的技术标准化史料。
-> - **形成路径** David 与 Arthur 提炼出报酬递增的四个核心支柱（大额固定成本摊薄、学习效应、协调效应与适应性预期），论证了技术选择的非遍历性——即历史上的微小波动能够永久改变系统的最终均衡走向。
+> - **形成路径** David 与 Arthur 提炼出报酬递增的四个核心支柱（大额固定成本摊薄、学习效应、协调效应与适应性预期），论证了技术选择的非遍历性，即历史上的微小波动能够改变系统的最终均衡走向。
 
 > [!dev-timeline] 理论版本与贡献
 > - **1985–1989 — 经典技术路径依赖模型** Paul A. David 与 W. Brian Arthur 确立了技术演化中的正反馈报酬递增机制与锁定效应数学模型。
@@ -97,10 +97,11 @@ updated: 2026-11-15
 > - **2014–2026 — 开源生态与“教育即标准”机制拓展** Krste Asanović 与 David Patterson（2014）推动 RISC-V 架构发展，卓泽林进一步揭示大学如何通过课程教学体系、教材编写与跨层级工程人才培养，将开源指令集架构直接内生化为新一代软硬件开发者的认知事实标准，在全球范围内形成反向锁定与技术生态主导权。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 20)]]
 > - **2018 — 科学学超图网络与学科拓扑路径依赖** [[Santo Fortunato|桑托·福图纳托]]（Santo Fortunato）等在《科学》（*Science*）综述中指出，科学知识网络的微观演化存在显著的近邻稠密化机制；研究者在开拓新课题时高度依赖自身或团队成员的既有专长，导致学术关联局限在相隔一至两步的近邻节点内，学术关系网的局部过度稠密反向锁定了学科发展轨道并阻碍向未知领域的跨界探索。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 2)]]
 > - **2019 — 国家行政传统对政策工具折射的路径依赖** 安东尼·维格（Antoni Verger）等学者揭示不同国家的历史行政传统（如英美[[New Public Management|新公共管理]]体制与欧洲大陆[[Neo-Weberian State|新韦伯主义]]体制）构成强大的制度路径依赖，系统性过滤与折射全球流动的标准化测验问责工具，抑制了全球政策走向同质模式。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 250, 262–263)]]
+> - **2022 — 双元制职教系统的制度韧性与路径分化** [[Argument_Hippach-Schneider_Rieder_2022_RCIE|Hippach-Schneider and Rieder (2022)]] 将路径依赖理论引入双元制职业教育系统的跨国比较，指出面对数字化技术外部冲击，德瑞两国依托各自深厚的制度传统展现出极强韧性与自我存续特征，同时揭示两国宏观治理结构的差异使系统在应对相同冲击时沿着不同的路径依赖轨迹演进。
 
 ---
 
-> [!entry-map] 关键概念与理论构件
+> [!theory-constructs] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -199,7 +200,7 @@ updated: 2026-11-15
 > > 新古典经济学派与[[Evolutionary Economics|演化经济学]]派就“市场是否会真正长期锁定在次优劣质技术上”展开激烈学术论争。
 > >
 > > - **Stan Liebowitz & Stephen Margolis（1990, 1995）** 批判 David 对 QWERTY 键盘的叙事，认为所谓 Dvorak 键盘效率更高的证据缺乏严格受控实验支持；市场机制与理性的前瞻性预期能够克服低阶路径依赖，企业有充分激励自发消除低效锁定。
-> > - **Paul A. David（1997）** 回应指出，路径依赖的核心是历史过程的不可逆性与动态正反馈，而非简单的“[[Market Failure|市场失灵]]”；在分布式决策与不完全信息环境中，局部理性行为的叠加完全可能导致全局次优的技术固化。
+> > - **Paul A. David（1997）** 回应指出，路径依赖强调历史过程的不可逆性与动态正反馈；在分布式决策与不完全信息环境中，局部理性行为的叠加完全可能导致全局次优的技术固化。
 >
 > > [!axis] 制度变迁中的[[Determinism|决定论]] vs 制度演化能动性
 > > [[Historical Institutionalism|历史制度主义]]内部就路径依赖理论是否过度强调制度刚性、无法解释渐进式制度演进与制度突破进行反思。
@@ -216,10 +217,11 @@ updated: 2026-11-15
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 运用路径依赖理论与开源标准锁定机制，阐释美国[[Research Universities|研究型大学]]如何通过科教融合将 RISC-V 指令集嵌入工程人才梯队，形成全球半导体产业生态的主导权。
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 揭示[[Multilateral Development Bank|多边开发银行]]主权贷款协议中的双重路径依赖机制：法定[[Counterpart Funds|对等资金]]与契约惰性抵御内阁政客更迭的减震效应，以及报销审计铁笼导致的病态合规锁定与“白色大象”。
+> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 揭示科学学知识网络与学者合作中的拓扑路径依赖：生物医药超图分析表明新成果过度扎堆在相隔一至两步的近邻熟人圈与已知实体，局部过度稠密构筑起阻滞跨界科学发现的路径锁定。（p. 2）
+> - [[Argument_Hippach-Schneider_Rieder_2022_RCIE|Hippach-Schneider and Rieder (2022)]] — 将路径依赖运用于德瑞双元制比较，揭示两国面对数字化冲击时自我存续的制度韧性与分化路径。
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 批判路径依赖理论的刚性死锁假定，阐发以权力分配与[[Rule Ambiguity|规则模糊性]]为基石的渐进内生演化模型。
+> - [[Argument_Murray_Moxon-Browne_2013_JCMS|Murray and Moxon-Browne (2013)]] — 将路径依赖运用于跨区域组织比较，揭示二战后西欧主权自救与东南亚后殖民建国传统所锁定的差异化一体化轨道（pp. 524–527）。
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 评析复合技术标准中外围叠加与厚度商对核心标准的路径依赖加固机制，辨析制度再生产与[[Institutional Layering|制度层叠]]的分析边界。
 > - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 揭示国家行政传统（如英美新公共管理传统与欧洲大陆新韦伯主义传统）对全球教育测验问责政策折射的路径依赖效应，表明历史行政遗产锁定国家差异，抑制了全球均质化趋同。（pp. 250, 262–263）
-> - [[Argument_Murray_Moxon-Browne_2013_JCMS|Murray and Moxon-Browne (2013)]] — 将路径依赖运用于跨区域组织比较，揭示二战后西欧主权自救与东南亚后殖民建国传统所锁定的差[[Alienation|异化]]一体化轨道（pp. 524–527）。
-> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 揭示科学学知识网络与学者合作中的拓扑路径依赖：生物医药超图分析表明新成果过度扎堆在相隔一至两步的近邻熟人圈与已知实体，局部过度稠密构筑起阻滞跨界科学发现的路径锁定。（p. 2）
+> - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 运用路径依赖理论与开源标准锁定机制，阐释美国[[Research Universities|研究型大学]]如何通过科教融合将 RISC-V 指令集嵌入工程人才梯队，形成全球半导体产业生态的主导权。
