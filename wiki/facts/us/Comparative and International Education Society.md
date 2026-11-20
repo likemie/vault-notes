@@ -11,10 +11,10 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 48
-fact_related_level: 4
-fact_related_stars: "💎⭐"
-fact_related_color: "#dcfce7"
+fact_related_count: 50
+fact_related_level: 5
+fact_related_stars: "💎⭐⭐"
+fact_related_color: "#fecdd3"
 org_type: academic-society
 headquarters: "美国"
 established: "1956"
@@ -85,7 +85,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-08
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 
 > [!claim] 核心定位
@@ -148,7 +148,7 @@ updated: 2026-11-19
 
 > [!stat-cards]- 核心规模数据
 > - **3,000+** 学会注册专业会员与年会常态参会代表规模。
-> - **50%** 1956 年创会年会全部学术汇报中聚焦苏联教育的主题占比。[[Argument_Silova_2009_EE|(Silova, 2009, p. 19)]]
+> - **50%** 1956 年创会年会全部学术汇报中聚焦苏联教育的主题占比。
 > - **33.3%** 1958 年会刊《比较教育评论》（CER）刊发的全部成果中苏联教育研究的占比。[[Argument_Silova_2009_EE|(Silova, 2009, p. 19)]]
 > - **26** 创会半个世纪后《比较教育评论》刊载成果所涵盖的并存理论范式总数。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 131)]]
 
@@ -199,8 +199,8 @@ updated: 2026-11-19
 > | [[Max Eckstein]] | 人物 | 曾任 CIES 会长，与诺亚携手奠定战后美国比较教育实证[[Paradigm\|范式]]。 |
 > | [[Gita Steiner-Khamsi]] | 人物 | 曾任 CIES 会长，率先开启学会活态记忆抢救与口述史建制化工程。 |
 > | [[Robert Cowen]] | 人物 | 深入剖析 CIES 词汇突变背后的元认识论预设与冷战[[Structural Functionalism\|结构功能主义]]渗透。 |
-| [[William W. Brickman]] | 人物 | CIES 创会会长（1956–1959），《比较教育评论》创刊主编。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, p. 122)]] |
-| [[Iveta Silova]] | 人物 | 曾任 CIES 会长（2018–2019），推动学会反思西方中心主义并倡导去殖民地缘知识政治。[[Argument_Silova_2009_EE\|(Silova, 2009, pp. 26–31)]] |
+> | [[William W. Brickman]] | 人物 | CIES 创会会长（1956–1959），《比较教育评论》创刊主编。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, p. 122)]] |
+> | [[Iveta Silova]] | 人物 | 曾任 CIES 会长（2018–2019），推动学会反思西方中心主义并倡导去殖民地缘知识政治。[[Argument_Silova_2009_EE\|(Silova, 2009, pp. 26–31)]] |
 
 ---
 

@@ -184,7 +184,6 @@ function readSaved(value) {
   return {
     panel: {
       dock: "right",
-      collapsed: docked && typeof panel.collapsed === "boolean" ? panel.collapsed : true,
       centerY: docked && typeof panel.centerY === "number" && Number.isFinite(panel.centerY) ? panel.centerY : null
     },
     checkpoint
@@ -195,6 +194,7 @@ function readSaved(value) {
 var import_obsidian = require("obsidian");
 var MARGIN = 8;
 var ROW_HEIGHT = 26;
+var LEAVE_DELAY = 150;
 function append(parent, tag, className, text) {
   const node = parent.ownerDocument.createElement(tag);
   if (className) node.className = className;
@@ -217,6 +217,8 @@ var RecentPanel = class {
     this.events = new AbortController();
     this.rowButtons = [];
     this.unread = 0;
+    this.expanded = false;
+    this.closeTimer = null;
     this.drag = null;
     const { document } = window2;
     this.root = append(document.body, "aside", "ras-float");
@@ -245,13 +247,29 @@ var RecentPanel = class {
     this.status.hidden = true;
     const signal = this.events.signal;
     this.rail.addEventListener("click", () => this.toggle(true), { signal });
+    this.rail.addEventListener("pointerenter", (event) => {
+      if (event.pointerType !== "mouse") return;
+      this.cancelClose();
+      this.setExpanded(true);
+    }, { signal });
+    this.root.addEventListener("pointerenter", (event) => {
+      if (event.pointerType === "mouse") this.cancelClose();
+    }, { signal });
+    this.root.addEventListener("pointerleave", (event) => {
+      if (event.pointerType !== "mouse" || !this.expanded) return;
+      this.cancelClose();
+      this.closeTimer = this.window.setTimeout(() => {
+        this.closeTimer = null;
+        this.setExpanded(false);
+      }, LEAVE_DELAY);
+    }, { signal });
     this.list.addEventListener("click", (event) => {
       void this.openRow(event);
     }, { signal });
     this.root.addEventListener("keydown", (event) => this.onKey(event), { signal });
     window2.addEventListener("resize", () => this.place(), { signal });
     this.bindDrag(handle, signal);
-    this.updateVisibility();
+    this.setExpanded(false);
   }
   render(data) {
     const activeElement = this.window.document.activeElement;
@@ -312,38 +330,53 @@ var RecentPanel = class {
     }
   }
   toggle(focus) {
-    this.state.collapsed = !this.state.collapsed;
-    this.updateVisibility();
-    this.save();
+    this.cancelClose();
+    this.setExpanded(!this.expanded);
     if (focus) {
-      const target = this.state.collapsed ? this.rail : this.rowButtons.find((control) => control.tabIndex === 0) ?? this.rail;
+      const target = this.expanded ? this.rowButtons.find((control) => control.tabIndex === 0) ?? this.rail : this.rail;
       target.focus({ preventScroll: true });
     }
   }
   destroy() {
+    this.cancelClose();
     this.events.abort();
     this.root.remove();
   }
-  updateVisibility() {
-    this.body.hidden = this.state.collapsed;
+  cancelClose() {
+    if (this.closeTimer === null) return;
+    this.window.clearTimeout(this.closeTimer);
+    this.closeTimer = null;
+  }
+  setExpanded(expanded) {
+    const restoreFocus = !expanded && this.body.contains(this.window.document.activeElement);
+    this.expanded = expanded;
+    this.body.hidden = !expanded;
+    this.root.dataset.open = String(expanded);
     this.updateRail();
     this.place();
+    if (restoreFocus) this.rail.focus({ preventScroll: true });
   }
   updateRail() {
-    const action = this.state.collapsed ? "\u5C55\u5F00\u6700\u8FD1\u8BBA\u8BC1" : "\u6536\u8D77\u6700\u8FD1\u8BBA\u8BC1";
-    this.rail.setAttribute("aria-expanded", String(!this.state.collapsed));
+    const action = this.expanded ? "\u6536\u8D77\u6700\u8FD1\u8BBA\u8BC1" : "\u5C55\u5F00\u6700\u8FD1\u8BBA\u8BC1";
+    this.rail.setAttribute("aria-expanded", String(this.expanded));
     this.rail.setAttribute("aria-label", action + "\uFF0C" + this.unread + " \u6761\u672A\u8BFB");
     this.rail.title = action + " \xB7 " + this.unread + " \u6761\u672A\u8BFB";
   }
   place(center = this.drag?.moved ? this.drag.center : this.state.centerY) {
-    const height = this.root.offsetHeight;
     const viewport = this.window.innerHeight;
-    const top = Math.min(
-      Math.max(MARGIN, (center ?? viewport * 0.68) - height / 2),
-      Math.max(MARGIN, viewport - height - MARGIN)
-    );
+    const height = this.rail.offsetHeight;
+    const top = this.clampTop((center ?? viewport * 0.68) - height / 2, height, viewport);
     this.root.style.top = top + "px";
-    return top + height / 2;
+    const railCenter = top + height / 2;
+    if (this.expanded) {
+      const bodyHeight = this.body.offsetHeight;
+      const bodyTop = this.clampTop(railCenter - bodyHeight / 2, bodyHeight, viewport);
+      this.body.style.top = bodyTop - top + "px";
+    }
+    return railCenter;
+  }
+  clampTop(top, height, viewport) {
+    return Math.min(Math.max(MARGIN, top), Math.max(MARGIN, viewport - height - MARGIN));
   }
   bindDrag(handle, signal) {
     handle.addEventListener("pointerdown", (event) => {
@@ -382,13 +415,13 @@ var RecentPanel = class {
     for (const control of this.rowButtons) control.tabIndex = control === selected ? 0 : -1;
   }
   onKey(event) {
-    if (event.key === "Escape" && !this.state.collapsed) {
+    if (event.key === "Escape" && this.expanded) {
       event.preventDefault();
       event.stopPropagation();
       this.toggle(true);
       return;
     }
-    if (this.state.collapsed || !this.rowButtons.length || event.key !== "ArrowDown" && event.key !== "ArrowUp") return;
+    if (!this.expanded || !this.rowButtons.length || event.key !== "ArrowDown" && event.key !== "ArrowUp") return;
     event.preventDefault();
     event.stopPropagation();
     const current = this.rowButtons.indexOf(event.target);

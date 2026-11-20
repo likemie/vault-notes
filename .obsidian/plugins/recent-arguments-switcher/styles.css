@@ -5,10 +5,6 @@
   position: fixed;
   right: var(--ras-edge);
   z-index: var(--layer-popover, 30);
-  display: flex;
-  flex-direction: row-reverse;
-  align-items: center;
-  gap: var(--ras-gap);
   color: var(--text-normal);
   font: 12px/1.35 var(--font-interface);
 }
@@ -27,6 +23,8 @@
 }
 
 .ras-float .ras-body {
+  position: absolute;
+  right: calc(100% + var(--ras-gap));
   display: flex;
   flex-direction: column;
   width: min(230px, calc(100vw - 2 * var(--ras-edge) - var(--ras-rail-width) - var(--ras-gap)));
@@ -37,6 +35,13 @@
 
 .ras-float .ras-body[hidden] {
   display: none;
+}
+
+.ras-float[data-open="true"]::before {
+  position: absolute;
+  inset: 0 100% 0 auto;
+  width: var(--ras-gap);
+  content: "";
 }
 
 .ras-float .ras-header {

@@ -3,7 +3,7 @@ import type { Checkpoint } from "./recent-store";
 export const ARGUMENT_ROOT = "wiki/arguments/";
 export const BATCH_MS = 200;
 
-export interface PanelState { dock: "right"; collapsed: boolean; centerY: number | null }
+export interface PanelState { dock: "right"; centerY: number | null }
 export interface SaveState { panel: PanelState; checkpoint: Checkpoint | null }
 
 export function readSaved(value: Partial<SaveState> | null): SaveState {
@@ -22,7 +22,6 @@ export function readSaved(value: Partial<SaveState> | null): SaveState {
   return {
     panel: {
       dock: "right",
-      collapsed: docked && typeof panel.collapsed === "boolean" ? panel.collapsed : true,
       centerY: docked && typeof panel.centerY === "number" && Number.isFinite(panel.centerY) ? panel.centerY : null,
     },
     checkpoint,

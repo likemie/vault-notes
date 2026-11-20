@@ -13,9 +13,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 38
-fact_related_level: 3
-fact_related_stars: "💎"
+fact_related_count: 40
+fact_related_level: 4
+fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"
 org_type: "international-organization"
 headquarters: "法国巴黎（Paris, France）"
@@ -54,6 +54,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Philip H. Coombs]]"
+  - "[[Saul B. Robinsohn]]"
 related_facts:
   - "[[UNESCO]]"
   - "[[Sputnik Shock 1957]]"
@@ -73,10 +74,11 @@ related_arguments:
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
   - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
+  - "[[Argument_Silova_2009_EE]]"
 confidence: high
 status: draft
 created: 2026-06-08
-updated: 2026-11-11
+updated: 2026-11-20
 ---
 
 ---
@@ -94,8 +96,8 @@ updated: 2026-11-11
 ---
 
 > [!dev-timeline] 组织发展历程
-> - **1958–1962 — 理论奠基与[[Geopolitics|地缘政治]]筹备** 芝加哥大学建立比较教育中心，推动教育经济学与比较研究深度融合；1961 年[[Organisation for European Economic Co-operation|欧洲经济合作组织]]（Organisation for European Economic Co-operation，OEEC）改组为[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织），被定位为“经济北约”并启动地中海地区项目（[[Mediterranean Regional Project]]，MRP）；赫伯特·帕恩斯（Herbert Parnes, 1962）发布教育人力预测模型，为全球技术官僚规划奠定了方法论标准。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 67–68)]]
-> - **1963–1970 — 机构创立与普世危机[[Discourse|话语]]确立** 1963 年 7 月 IIEP 正式建立，首任主任由前美国教育与文化助理国务卿[[Philip H. Coombs|菲利普·库姆斯]]（Philip Coombs）担任；1967 年库姆斯牵头组织弗吉尼亚州威廉斯堡“世界教育危机国际会议”，并在 1968 年由 IIEP 正式出版里程碑著作《世界教育危机：系统分析》（*The World Education Crisis: A Systems Analysis*），将教育落后确立为跨国普世危机，开创了国际组织依托危机叙事拓展教育治理职能的经典[[Paradigm|范式]]。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 422)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–542)]]
+> - **1958–1962 — 理论构想与[[Geopolitics|地缘政治]]筹备** 芝加哥大学建立比较教育中心，推动教育经济学与比较研究深度融合；1961 年[[Organisation for European Economic Co-operation|欧洲经济合作组织]]（Organisation for European Economic Co-operation，OEEC）改组为[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织），被定位为“经济北约”并启动地中海地区项目（[[Mediterranean Regional Project]]，MRP）；赫伯特·帕恩斯（Herbert Parnes, 1962）发布教育人力预测模型，为全球技术官僚规划奠定了方法论标准。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 67–68)]]
+> - **1963–1970 — 机构创立与普世危机[[Discourse|话语]]确立** 1963 年 7 月 IIEP 正式建立，首任主任由前美国教育与文化助理国务卿[[Philip H. Coombs|菲利普·库姆斯]]（Philip Coombs）担任；1967 年库姆斯牵头组织弗吉尼亚州威廉斯堡“世界教育危机国际会议”，并在 1968 年由 IIEP 正式出版里程碑著作《世界教育危机：系统分析》（*The World Education Crisis: A Systems Analysis*），将教育落后确立为跨国普世危机，开创了国际组织依托危机叙事拓展教育治理职能的经典[[Paradigm|范式]]。在此期间，[[Saul B. Robinsohn|索尔·罗宾逊]]曾出任 IIEP 所长，推动机构早期规划研究并主导欧洲与国际教育网络连接，后转任西柏林马克斯·普朗克人类发展研究所联合所长。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 422)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–542)]]; [[Argument_Silova_2009_EE|(Silova, 2009, p. 24)]]
 > - **1964–1980 — [[World Bank|世行]]—[[UNESCO|教科文组织]]合作期与实证扩张** 1964 年世界银行与联合国教科文组织签署合作协议借道入场，IIEP 深度参与世界银行向第三世界提供基础设施贷款的前期规划与学校建筑设计；同时为亚非拉数十个新独立国家编制国家五年教育扩张规划。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 > - **1980 年代 — 世行决裂与规划理性危机反思** 1980 年世界银行发布首份独立《教育部门政策文件》，依托自身建立的 1,120 项教育投资收益率数据库彻底与联合国教科文组织合作机制决裂，自立实证放贷门户；同时伴随全球经济滞胀与文凭贬值，战后机械人力预测承诺破灭，IIEP 陷入方法论反思，逐步放弃僵化中央规划，转向基础教育普及、弱势群体公平与分权化行政治理。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 68–69)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 548)]]
 > - **2000 年代至今 — 危机情境治理与数字化规划转型** 面对全球冲突、气候灾害与数字鸿沟，IIEP 重构其核心使命，将业务重点转移至受危机影响地区的韧性教育规划、教育反腐败与伦理平台（Ethics and Corruption in Education，ETICO）审计、以及利用地理信息系统（Geographic Information System，GIS）进行学校网络布局优化。
@@ -192,6 +194,8 @@ updated: 2026-11-11
 > | [[OECD]] | Fact (Organization) | 与 IIEP 共同构成二战后推动[[Transnational Education\|跨国教育]]规划与统计规制的西方“双翼”。 |
 > | [[Comparative Education Center at Chicago 1958]] | Fact (Organization) | 芝加哥学派学术阵地，为 IIEP 输送了大量人力资本实证研究与理论支持。 |
 > | [[Global Education Governing Complex]] | Concept | IIEP 早期深度介入的跨国公共机构与外部资金混合治理网络。 |
+> | [[Philip H. Coombs]] | Person | IIEP 首任所长，著有《世界教育危机》，开创普世教育危机叙事范式。 |
+> | [[Saul B. Robinsohn]] | Person | 曾任 IIEP 所长，推动欧洲课程改革与跨国教育研究传播。[[Argument_Silova_2009_EE\|(Silova, 2009, p. 24)]] |
 
 ---
 
@@ -201,3 +205,4 @@ updated: 2026-11-11
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 从冷战地缘政治三大范式切入，拆解 IIEP 作为国家利益与大国外交战略软实力延伸的制度成因。
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 剖析 IIEP 所代表的战后国家规划理性，揭示量化实证模型沦为执政权力推卸责任的“合法化借口”。
 > - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 剖析 IIEP 2025 年战略审议与 IIEP Dakar 政策简报，揭示跨国教育规划诊断的仪式性重复与全球南方证据鸿沟。
+> - [[Argument_Silova_2009_EE|Silova (2009)]] — 记录 IIEP 前所长索尔·罗宾逊出任《西欧教育》学术顾问并推动欧洲改革经验跨国传播的人事网络（p. 24）。

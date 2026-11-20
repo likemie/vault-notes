@@ -4,6 +4,7 @@ import type { PanelState } from "./settings";
 
 const MARGIN = 8;
 const ROW_HEIGHT = 26;
+const LEAVE_DELAY = 150;
 
 function append<K extends keyof HTMLElementTagNameMap>(
   parent: HTMLElement, tag: K, className?: string, text?: string,
@@ -41,6 +42,8 @@ export class RecentPanel {
   private readonly events = new AbortController();
   private rowButtons: HTMLButtonElement[] = [];
   private unread = 0;
+  private expanded = false;
+  private closeTimer: number | null = null;
   private drag: { pointer: number; startY: number; center: number; moved: boolean } | null = null;
 
   constructor(
@@ -78,11 +81,27 @@ export class RecentPanel {
 
     const signal = this.events.signal;
     this.rail.addEventListener("click", () => this.toggle(true), { signal });
+    this.rail.addEventListener("pointerenter", event => {
+      if (event.pointerType !== "mouse") return;
+      this.cancelClose();
+      this.setExpanded(true);
+    }, { signal });
+    this.root.addEventListener("pointerenter", event => {
+      if (event.pointerType === "mouse") this.cancelClose();
+    }, { signal });
+    this.root.addEventListener("pointerleave", event => {
+      if (event.pointerType !== "mouse" || !this.expanded) return;
+      this.cancelClose();
+      this.closeTimer = this.window.setTimeout(() => {
+        this.closeTimer = null;
+        this.setExpanded(false);
+      }, LEAVE_DELAY);
+    }, { signal });
     this.list.addEventListener("click", event => { void this.openRow(event); }, { signal });
     this.root.addEventListener("keydown", event => this.onKey(event), { signal });
     window.addEventListener("resize", () => this.place(), { signal });
     this.bindDrag(handle, signal);
-    this.updateVisibility();
+    this.setExpanded(false);
   }
 
   render(data: ViewData): void {
@@ -148,40 +167,59 @@ export class RecentPanel {
   }
 
   toggle(focus: boolean): void {
-    this.state.collapsed = !this.state.collapsed;
-    this.updateVisibility();
-    this.save();
+    this.cancelClose();
+    this.setExpanded(!this.expanded);
     if (focus) {
-      const target = this.state.collapsed ? this.rail : this.rowButtons.find(control => control.tabIndex === 0) ?? this.rail;
-      target.focus({preventScroll: true});
+      const target = this.expanded ? this.rowButtons.find(control => control.tabIndex === 0) ?? this.rail : this.rail;
+      target.focus({ preventScroll: true });
     }
   }
 
   destroy(): void {
+    this.cancelClose();
     this.events.abort();
     this.root.remove();
   }
 
-  private updateVisibility(): void {
-    this.body.hidden = this.state.collapsed;
+  private cancelClose(): void {
+    if (this.closeTimer === null) return;
+    this.window.clearTimeout(this.closeTimer);
+    this.closeTimer = null;
+  }
+
+  private setExpanded(expanded: boolean): void {
+    const restoreFocus = !expanded && this.body.contains(this.window.document.activeElement);
+    this.expanded = expanded;
+    this.body.hidden = !expanded;
+    this.root.dataset.open = String(expanded);
     this.updateRail();
     this.place();
+    if (restoreFocus) this.rail.focus({ preventScroll: true });
   }
 
   private updateRail(): void {
-    const action = this.state.collapsed ? "展开最近论证" : "收起最近论证";
-    this.rail.setAttribute("aria-expanded", String(!this.state.collapsed));
+    const action = this.expanded ? "收起最近论证" : "展开最近论证";
+    this.rail.setAttribute("aria-expanded", String(this.expanded));
     this.rail.setAttribute("aria-label", action + "，" + this.unread + " 条未读");
     this.rail.title = action + " · " + this.unread + " 条未读";
   }
 
   private place(center = this.drag?.moved ? this.drag.center : this.state.centerY): number {
-    const height = this.root.offsetHeight;
     const viewport = this.window.innerHeight;
-    const top = Math.min(Math.max(MARGIN, (center ?? viewport * .68) - height / 2),
-      Math.max(MARGIN, viewport - height - MARGIN));
+    const height = this.rail.offsetHeight;
+    const top = this.clampTop((center ?? viewport * .68) - height / 2, height, viewport);
     this.root.style.top = top + "px";
-    return top + height / 2;
+    const railCenter = top + height / 2;
+    if (this.expanded) {
+      const bodyHeight = this.body.offsetHeight;
+      const bodyTop = this.clampTop(railCenter - bodyHeight / 2, bodyHeight, viewport);
+      this.body.style.top = bodyTop - top + "px";
+    }
+    return railCenter;
+  }
+
+  private clampTop(top: number, height: number, viewport: number): number {
+    return Math.min(Math.max(MARGIN, top), Math.max(MARGIN, viewport - height - MARGIN));
   }
 
   private bindDrag(handle: HTMLElement, signal: AbortSignal): void {
@@ -218,13 +256,13 @@ export class RecentPanel {
   }
 
   private onKey(event: KeyboardEvent): void {
-    if (event.key === "Escape" && !this.state.collapsed) {
+    if (event.key === "Escape" && this.expanded) {
       event.preventDefault();
       event.stopPropagation();
       this.toggle(true);
       return;
     }
-    if (this.state.collapsed || !this.rowButtons.length ||
+    if (!this.expanded || !this.rowButtons.length ||
         (event.key !== "ArrowDown" && event.key !== "ArrowUp")) return;
     event.preventDefault();
     event.stopPropagation();
