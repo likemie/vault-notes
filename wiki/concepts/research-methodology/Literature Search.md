@@ -123,7 +123,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-06-21
-updated: 2026-11-10
+updated: 2026-11-20
 ---
 
 ---
@@ -448,11 +448,11 @@ updated: 2026-11-10
 > > - **标准化计量学者** 认为锁定知名核心索引库能够保证纳入文献的方法学严谨性与数据质量。
 > > - **[[Critical Pedagogy|批判教育学]]者（[[Argument_Verger_2019_Discourse|Verger et al., 2019]]）** 指出这种检索策略系统性排除了广阔的南方国家本土文献，强化了英美经验的普遍化假象。
 
-> [!tension] 核心张力
+> [!tension|notitle] 核心张力
 > - **检索范围穷尽性的理想诉求** 推动研究者尽可能覆盖所有相关未发表报告、灰色文献与多语种文献。
 > - **实际研究资源与检索周期的现实约束** 迫使研究团队在语言门槛、数据库订阅费用与时间成本之间妥协。
 
-> [!warning] 适用局限
+> [!warning|limits] 适用局限
 > 互联网学术文献良莠不齐，单纯的关键词检索无法保证纳入文献的内在因果效度；若文献检索仅局限于单一商业数据库，极易在地理区域与制度模式上引入[[Publication Bias|发表偏倚]]。
 
 ---
@@ -470,12 +470,19 @@ updated: 2026-11-10
 
 ---
 
-> [!entry-map] [[Concept Mapping|概念图]]谱
-> - 上位概念：研究方法论 · 研究过程
-> - 核心操作：关键词布尔逻辑 · 倒三角检索 · 数据库筛选 · 质量甄别
-> - 工具与平台：[[Education Resources Information Center|ERIC]] · Web of Science · [[SciSciNet]] · Google Scholar
-> - 成果与下游环节：[[Literature Review|文献综述]] · [[Literature Map|文献地图]] · [[Systematic Review|系统综述]]
-> - 实践与政策边界：学术精读 · 算法驱动挖掘 · 社交网络便利检索 · [[Technical Rationality|技术理性]]假设批判
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Literature Review]] | 概念 | 文献检索的下游论证环节，将检索获取的文献综合为结构化评述。 |
+> | [[Literature Map]] | 方法 | 梳理和可视化呈现检索所得文献逻辑脉络的方法工具。 |
+> | [[Inverted Triangle Literature Search]] | 概念 | 从宽泛学科背景向核心研究问题逐层收窄的文献检索递进策略。 |
+> | [[Documentary Analysis]] | 方法 | 依托检索获取的政策文本与历史档案开展质性编码与内容考证的研究方法。 |
+> | [[Systematic Review]] | 方法 | 依据严格预设方案与布尔检索语法开展证据综合的规范化研究方法。 |
+> | [[Construct Validity]] | 概念 | 文献检索与既有研究对照所要奠定的核心测量效度基石。 |
+> | [[Generative Artificial Intelligence]] | 概念 | 介入自动化文献初筛与跨模态模式挖掘的新型技术载体。 |
+> | [[SciSciNet]] | 事实 | 支撑大规模全景学术文献与引文网络检索的开源科学学数据湖。 |
+> | [[Education Resources Information Center]] | 事实 | 教育学领域最具权威性的专业文献与研究报告计算机化检索数据库。 |
 
 ---
 
@@ -489,3 +496,4 @@ updated: 2026-11-10
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Wang and Barabási (2021)]] — 基于 2,800 万篇文献实证阐明兼顾前沿与经典的知识热点检索架构将突破概率提升 2.2 倍，揭示数字搜索引擎对学术记忆的拓展。
 > - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 比较北欧三国改革起草专家的文献搜寻实践，实证揭示紧迫周期与海量成果下客观文献检索的失效，以及人际关系网络和[[Convenience Sampling|便利抽样]]的主导地位。
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 结合数据库布尔检索、知名学者追踪、高引文献溯源与 PISA 增值前十国国别定向检索，展示多渠道互补的系统综述文献检索策略。
+> - [[Argument_Hippach-Schneider_Rieder_2022_RCIE|Hippach-Schneider and Rieder (2022)]] — 结合 Google Scholar、BIBB、ERIC 与 VOCED 等数据库检索 2016–2019 年政策文本与学术文献，建立主题群组与相关度分级。

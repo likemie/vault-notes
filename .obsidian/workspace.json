@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -315,11 +315,12 @@
       "ai-usage-float:显示或隐藏额度浮窗": false
     }
   },
-  "active": "3643ff474ee79da9",
+  "active": "e2374d26ccaac553",
   "lastOpenFiles": [
+    "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md",
+    "output/related-updates/Argument_Hippach-Schneider_Rieder_2022_RCIE-b6d97e98/batch-001/result.json",
     "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/掌阅最低购书成本算法-精简实施方案.md",
     "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch07.md",
-    "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md",
     "file:/Users/shaoyangwu/Documents/zhangyue/docs/ireader-work-access-master-plan-v4.md",
     "wiki/assets/geogebra/cognitive_extent.ggb",
     "wiki/concepts/educational-philosophy/Philosophical Aesthetics.md",
@@ -342,7 +343,6 @@
     "output/related-updates/Argument_Hippach-Schneider_Rieder_2022_RCIE-b6d97e98/batch-004/batch-result.schema.json",
     "output/related-updates/Argument_Hippach-Schneider_Rieder_2022_RCIE-b6d97e98/batch-003/prompt.md",
     "output/related-updates/Argument_Hippach-Schneider_Rieder_2022_RCIE-b6d97e98/batch-003/batch-result.schema.json",
-    "output/related-updates/Argument_Hippach-Schneider_Rieder_2022_RCIE-b6d97e98/batch-002/batch-result.schema.json",
     "output/related-updates/Argument_Hippach-Schneider_Rieder_2022_RCIE-b6d97e98/batch-002/prompt.md",
     "output/related-updates/Argument_Hippach-Schneider_Rieder_2022_RCIE-b6d97e98/batch-001/prompt.md",
     "sources/VonDerHeyden_Heinze_2025_PLOSONE/figures/VonDerHeyden_Heinze_2025_PLOSONE_Fig5_Self_Nominations_Over_Time.jpg",
@@ -357,7 +357,6 @@
     "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md",
     "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/Floating_Title_Search_开发方案.md",
     "wiki/concepts/science-policy/Scientific Hegemony.md",
-    "sources/VonDerHeyden_Heinze_2025_PLOSONE.md",
     "sources/Luo_2026_IFDCK/figures/Luo_2026_IFDCK_Fig3_Dual_Nature_Conceptual_Model.jpg",
     "sources/Luo_2026_IFDCK/figures/Luo_2026_IFDCK_Fig2_Funding_Strategy_Architecture.jpg",
     "sources/Luo_2026_IFDCK/figures/Luo_2026_IFDCK_Fig1_Policy_Shift_Milestones.jpg",
