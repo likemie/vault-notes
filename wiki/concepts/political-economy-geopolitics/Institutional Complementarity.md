@@ -9,10 +9,10 @@ aliases:
 summary: "比较政治经济学核心概念，指不同制度领域之间相互支持、相互强化的协同配置状态，即某一制度的存在能提升另一制度的运行效能；传统理论视其为资本主义多样性的超稳定均衡基石，渐进变迁学派则批判其功能主义偏误，揭示行动者如何在松弛与杂糅的互补性外壳下推进局部演化与韧性调适。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 22
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/political-economy
   - theme/political-economy
@@ -25,12 +25,16 @@ related_concepts:
   - "[[Opportunists]]"
   - "[[Variable]]"
   - "[[Liberalization]]"
+  - "[[Institutional Displacement]]"
   - "[[Apprenticeship]]"
 related_theories:
   - "[[Varieties of Capitalism]]"
   - "[[Historical Institutionalism]]"
+  - "[[Human Capital Theory]]"
   - "[[Path Dependence]]"
-related_methods: []
+  - "[[Neocorporatism]]"
+related_methods:
+  - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
   - "[[Peter A. Hall]]"
@@ -68,12 +72,12 @@ updated: 2026-11-21
 ---
 
 > [!contrast-table|notitle] 概念辨析
-> | 维度 | 传统 [[Varieties of Capitalism|VoC]] 视角（静态均衡） | 渐进变迁视角（动态演化） | 杂糅与层叠视角（局部重构） |
+> | 维度 | 传统 [[Varieties of Capitalism\|VoC]] 视角（静态均衡） | 渐进变迁视角（动态演化） | 杂糅与层叠视角（局部重构） |
 > |:---|:---|:---|:---|
 > | **核心假定** | 制度结构紧密连结、高度一致 | 制度间存在逻辑裂隙与功能松弛（Slack） | 新制度逻辑在旧互补性外围累积层叠 |
 > | **变迁观念** | 间断均衡：非整体存续即全盘崩溃 | 内生演化：在互补性外壳下渐进脱节 | 制度杂糅（Hybridization）：多元模式并存 |
-> | **行动者角色** | 企业作为被动适应制度激励的协调者 | 行动者主动利用制度空隙推进策略重组 | [[Subversives|颠覆者]]与[[Opportunists|机会主义者]]利用边缘机制套利 |
-> | **代表学者** | [[Peter A. Hall|Hall & Soskice (2001)]] | [[Wolfgang Streeck|Streeck & Thelen (2005)]] | Crouch and Keune (2005); Thelen (2004) |
+> | **行动者角色** | 企业作为被动适应制度激励的协调者 | 行动者主动利用制度空隙推进策略重组 | [[Subversives\|颠覆者]]与[[Opportunists\|机会主义者]]利用边缘机制套利 |
+> | **代表学者** | [[Peter A. Hall\|Hall & Soskice (2001)]] | [[Wolfgang Streeck\|Streeck & Thelen (2005)]] | Crouch and Keune (2005); Thelen (2004) |
 
 ---
 
@@ -82,7 +86,7 @@ updated: 2026-11-21
 > - **制度聚类与比较优势（Institutional Clustering）** 相互互补的制度自发集聚，引导企业专注于需要特定制度支撑的生产活动（如德国擅长渐进创新工程，美国擅长激进创新高科技）。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 4–5)]]
 > - **制度松弛与结构性摩擦（Institutional Slack）** 现实体制中的子系统有别于无缝咬合，不同制度之间存在缓冲带与不协调空间，为行动者提供了试探新规则的回旋余地。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 19–21)]]
 > - **制度杂糅与重组潜力（Hybridization & Recombination）** 行动者无需全盘推翻互补性网络，是将外来机制嫁接至本土骨架上，形成制度杂糅体。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 20–22)]]
-> - **双元技能形成协同（Dual Skill Formation Synergy）** 强集体谈判、高解雇保护与雇主主导的标准化特定技能培训相互支撑，确保学徒与雇主双向进行专用性人力资本投资。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, pp. 11–13)]]
+> - **双元技能形成协同（Dual Skill Formation Synergy）** 强集体谈判、高解雇保护与雇主主导的标准化特定技能培训相互支撑，确保学徒与雇主双向进行专用性[[Human Capital Theory|人力资本]]投资。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, pp. 11–13)]]
 
 > [!logic-map]- 制度互补性与渐进演化动态
 > ```mermaid
@@ -104,7 +108,7 @@ updated: 2026-11-21
 
 ---
 
-> [!concept-proposition] 命题一｜不同子系统的制度互补性能够产生比较制度优势并强化路径依赖
+> [!concept-proposition] 命题一｜不同子系统的制度互补性能够产生比较制度优势并强化[[Path Dependence|路径依赖]]
 > **制度协同与稳态锁定** 探讨发达资本主义国家为何在经济全球化竞争中未发生制度单一化趋同，反而各自强化了特有的协调模式。
 
 > [!claim] Hall, P. A. & Soskice, D.
@@ -112,19 +116,19 @@ updated: 2026-11-21
 
 ---
 
-> [!concept-proposition] 命题二｜现实中的制度互补性包含结构性松弛，允许行动者推行局部自由化重构
+> [!concept-proposition] 命题二｜现实中的制度互补性包含结构性松弛，允许行动者推行局部[[Liberalization|自由化]]重构
 > **制度松弛与演化重组** 揭示现实中的互补性体制为何在法律连续的外壳下，依然能够容纳深刻的内生制度演化与结构重组。
 
-> [!claim] Streeck, W. & Thelen, K.
+> [!claim] Streeck, W. & [[Kathleen Thelen|Thelen, K.]]
 > **突破超稳定功能主义神话** 施特雷克与希伦深刻批判了将制度互补性视为超稳定反馈回路的偏误。他们指出，没有任何现代经济的制度安排能够做到绝对的内在一致。恰恰相反，体制内部时刻充满着不同历史妥协遗留下来的不一致性与张力。当企业面临全球市场压力时，行动者并不需要颠覆整个互补性大厦，是会主动利用制度边界处的“松弛”（Slack），向外围层叠灵活用工，或是将既有协调机制转换为市场化重组工具。因此，协调市场经济内部发生的广泛[[Liberalization|自由化]]演进，正是建立在对互补性制度的局部重构与功能侵蚀之上。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 19–21, 31–33)]]
 
 ---
 
-> [!concept-proposition] 命题三｜技能形成系统与法团主义协调网络的互补性赋予双元制系统应对技术冲击的存续韧性
+> [!concept-proposition] 命题三｜技能形成系统与[[Neocorporatism|法团主义]]协调网络的互补性赋予双元制系统应对技术冲击的存续韧性
 > **技能形成体制的互补韧性** 探讨双元制职教体系在面对数字化技术冲击时，如何依托长期积累的集体主义制度互补性抵御系统性崩溃。
 
 > [!claim] Hippach-Schneider & Rieder
-> **集体主义互补性抵御外部制度替代** 德国与瑞士在面对工业4.0冲击时，双元制职教系统展现出强大的制度存续韧性，未走向体系崩溃或被全日制学校化模式所替代。这种韧性得益于两国长期积累的集体主义制度互补性：劳资集体谈判、行会质量监督与双元制职业培训深度嵌套；瑞士通过工作界组织牵头的多方协商与试验平台实现机制的自我升级，德国通过制度层叠嫁接软性协作网络维持法团主义框架存续，印证了制度互补性在剧烈技术冲击下具备支撑体系自保调适的制度功能。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, pp. 11–13)]]
+> **集体主义互补性抵御外部[[Institutional Displacement|制度替代]]** 德国与瑞士在面对工业4.0冲击时，双元制职教系统展现出强大的制度存续韧性，未走向体系崩溃或被全日制学校化模式所替代。这种韧性得益于两国长期积累的集体主义制度互补性：劳资集体谈判、行会质量监督与双元制职业培训深度嵌套；瑞士通过工作界组织牵头的多方协商与试验平台实现机制的自我升级，德国通过制度层叠嫁接软性协作网络维持法团主义框架存续，印证了制度互补性在剧烈技术冲击下具备支撑体系自保调适的制度功能。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, pp. 11–13)]]
 
 ---
 
@@ -163,7 +167,7 @@ updated: 2026-11-21
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Varieties of Capitalism]] | 理论 | 制度互补性所属的宏观理论框架，用于划分协调市场经济与自由市场经济。 |
-> | [[Historical Institutionalism]] | 理论 | 批判静态互补性假说并提出动态松弛与演化分析框架的历史制度主义流派。 |
+> | [[Historical Institutionalism]] | 理论 | 批判静态互补性假说并提出动态松弛与演化[[Analytic Framework\|分析框架]]的历史制度主义流派。 |
 > | [[Path Dependence]] | 理论 | 制度互补性产生的报酬递增构成了路径依赖锁定的微观机制。 |
 > | [[German Dual Education System]] | 事实 | 德国协调市场经济中与劳资谈判、长期关系融资深度互补的技能形成体制。 |
 > | [[Apprenticeship]] | 概念 | 双元制学徒制培训是协调市场经济维系专用性技能投资与比较制度优势的核心支柱。 |

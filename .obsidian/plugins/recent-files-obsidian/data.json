@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "01 鲍姆加登和门德尔松",
+      "path": "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照/01 鲍姆加登和门德尔松.md"
+    },
+    {
       "basename": "Hammermeister_2002_Cambridge_英汉对照",
       "path": "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照.md"
+    },
+    {
+      "basename": "Argument_Hammermeister_2002_Cambridge_Ch01",
+      "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch01.md"
+    },
+    {
+      "basename": "Argument_Hammermeister_2002_Cambridge_Ch07",
+      "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch07.md"
     },
     {
       "basename": "Argument_Dang_2017_ORE",
@@ -31,10 +43,6 @@
     {
       "basename": "基础领域青年人才与科研资助文献摘要",
       "path": "output/基础领域青年人才与科研资助文献摘要.md"
-    },
-    {
-      "basename": "Argument_Hammermeister_2002_Cambridge_Ch07",
-      "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch07.md"
     },
     {
       "basename": "image1",
@@ -191,14 +199,6 @@
     {
       "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch06",
       "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md"
-    },
-    {
-      "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch04",
-      "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md"
-    },
-    {
-      "basename": "Global Campaign for Education",
-      "path": "wiki/facts/global/Global Campaign for Education.md"
     }
   ],
   "omittedPaths": [],
