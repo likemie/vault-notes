@@ -67,14 +67,14 @@ issuing_organization: ""
 ---
 
 > [!question]
-> 德国联邦政府在 2015 至 2024 年间把 [[China Competence|中国能力]]（China-Kompetenz）确立为关键科技资助政策工具与国家对华战略核心支柱，但学术界与政策界对该构念的理论内涵与实践机制长期缺乏系统考察。在国家对华战略由深化科研合作转向地缘去风险（de-risking）的转型期（Cai, 2023; [[Argument_Liu_2025_IndHE|Liu et al., 2025]]），中国能力如何在资助治理与行动者实践中被政策话语建构并实现功能重塑？其核心功能究竟是促进双边理解与互信，还是充当应对地缘博弈的战略防御工具？
+> 德国联邦政府在 2015 至 2024 年间把 [[China Competence|中国能力]]（China-Kompetenz）确立为关键科技资助政策工具与国家对华战略核心支柱，但学术界与政策界对该构念的理论内涵与实践机制长期缺乏系统考察。在国家对华战略由深化科研合作转向地缘[[De-risking|去风险]]（de-risking）的转型期（Cai, 2023; [[Argument_Liu_2025_IndHE|Liu et al., 2025]]），中国能力如何在资助治理与行动者实践中被政策话语建构并实现功能重塑？其核心功能究竟是促进双边理解与互信，还是充当应对地缘博弈的战略防御工具？
 
 > [!claim] 核心主张
 > 德国中国能力是在国家资助治理、制度博弈与地缘政治转向中动态生成的复合型政策构念与机构实践体系，超越了静态孤立的跨文化知识或语言技能集范畴：十年间其核心功能由早期促进双边战略合作、语言文化理解与互信建构，全面转向服务于地缘政治去风险、科研安全治理、合规审查与战略性对华政策咨询，致使德国高校在学术开放合作与地缘安全防范的双重逻辑张力中陷入深层制度两难。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 2015 至 2024 年间德国联邦层面涉及中国能力的 57 份官方战略公文、资助指南、议会质询与权威智库报告，以及获得联邦教育与研究部（Federal Ministry of Education and Research, BMBF）等部门资助的高校、科研院所、公共基金会、专业律所与独立智库。
-> - **张力** 倡导[[Academic Freedom|学术自由]]与全球流动的传统高等教育国际化合作逻辑，与强调技术主权、防范军民两用风险、实行严格合规审查的国家地缘安全去风险逻辑之间的制度性碰撞。
+> - **张力** 倡导[[Academic Freedom|学术自由]]与全球流动的传统高等教育国际化合作逻辑，与强调技术主权、防范[[Dual-Use Technology|军民两用]]风险、实行严格合规审查的国家地缘安全[[De-risking|去风险]]逻辑之间的制度性碰撞。
 > - **贡献** 突破将能力局限于个体语言技能或传统汉学素养的静态规范性视角，建立整合政策话语分析、利益相关者分析与实践理论的三层分析模型，提出揭示中国能力合作与去风险双重属性演化的动态理论概念模型。
 
 ---
@@ -95,7 +95,7 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **语料收集与回顾性政策分析**<br>(Williams et al., 2009) | 检索并筛选 2015 至 2024 年间德国联邦教育与研究部（BMBF）、联邦外交部、联邦议院、受资助高校、德意志学术交流中心（German Academic Exchange Service, DAAD）以及核心安全智库德国国际与安全事务研究所（German Institute for International and Security Affairs, SWP）与墨卡托中国研究中心（Mercator Institute for China Studies, MERICS）发布的 57 份关键文本。 |
+> | **语料收集与回顾性政策分析**<br>(Williams et al., 2009) | 检索并筛选 2015 至 2024 年间德国联邦教育与研究部（BMBF）、联邦外交部、联邦议院、受资助高校、[[German Academic Exchange Service|德意志学术交流中心]]（German Academic Exchange Service, DAAD）以及核心安全智库德国国际与安全事务研究所（German Institute for International and Security Affairs, SWP）与墨卡托中国研究中心（Mercator Institute for China Studies, MERICS）发布的 57 份关键文本。 |
 > | **质性内容分析**<br>(Mayring, 2015; [[Qualitative Content Analysis]]) | 遵循质性内容分析程序，按决策主体、政策动机、指导公文、能力要素构成、资助对象及项目具体活动六大维度建立分析范畴矩阵。 |
 > | **时序与跨阶段比较分析** | 以关键政策转折点（2019 年底旧战略终止、2023 年联邦新战略发布）为节点实施历时比较，提炼政策导向与微观治理规程的系统性位移。 |
 
@@ -170,8 +170,8 @@ issuing_organization: ""
 > - **2020-07 — 德国国际与安全事务研究所（SWP）发布政策建议** 主张超越高校视界，将中国能力直接服务于国家外交与安全战略（Frenzel & Godehardt, 2020）。
 > - **2021-06 — BMBF 部长强调建立独立涉华专业能力** 官方定调对华能力不仅关乎合作，更关乎国家利益捍卫（BMBF, 2021b）。
 > - **2023-04 — 联邦议院主要反对党发起小质询** 基督教民主联盟与基督教社会联盟（Christian Democratic Union / Christian Social Union, CDU/CSU，简称联盟党）敦促政府评估涉华风险并加速构建独立中国能力（Bundesregierung, 2024; Mayer-Kuckuk, 2023）。
-> - **2023-07 — 德国联邦政府发布首部《中国战略》** 联邦外交部（Federal Foreign Office, AA）接管主导权，将科研去风险、政治导航经验与合规审查列为核心支柱（Auswärtiges Amt, 2023）。
-> - **2024-01 — DAAD 出台对华合作指南** 依据联邦经济与出口管制局（Federal Office for Economic Affairs and Export Control, BAFA）法规，正式确立德国大学开展涉华合作的尽职审查与出口管制安全框架（BAFA, 2023; DAAD, 2024）。
+> - **2023-07 — 德国联邦政府发布首部《中国战略》** 联邦外交部（Federal Foreign Office, AA）接管主导权，将科研去风险、政治导航经验与合规审查列为核心支柱（Auswärtiges Amt, 2023; [[China Strategy of the Federal Government]]）。
+> - **2024-01 — DAAD 出台对华合作指南** 依据[[Federal Office for Economic Affairs and Export Control|联邦经济与出口管制局]]（Federal Office for Economic Affairs and Export Control, BAFA）法规，正式确立德国大学开展涉华合作的尽职审查与出口管制安全框架（BAFA, 2023; DAAD, 2024）。
 
 > [!sub-claim] 1. 欧盟把中国定性为制度性对手，彻底瓦解了单纯依靠科研合作的政策预设
 > 2019 年 3 月，欧盟委员会发布战略纲领文件《欧盟—中国：战略展望》（European Commission, 2019），突破以往全面战略伙伴的单一叙事，确立了涵盖三大支柱的三重定位框架：
