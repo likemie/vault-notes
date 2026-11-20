@@ -70,6 +70,7 @@ class UsageFloatPlugin extends Plugin {
     this.actions = {
       state: () => this.state(),
       dashboard: () => this.openDashboard(),
+      toggle: () => this.toggle(),
       refresh: (id, account) => void this.refresh(id, account),
       collapse: () => this.configure({ collapsed: !this.preferences.collapsed }),
       hide: () => this.configure({ shown: false }),

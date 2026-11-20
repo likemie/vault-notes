@@ -203,7 +203,11 @@ class FloatingPanel {
     this.actions = actions;
     this.events = new AbortController();
     this.root = add(win.document.body, "aside", "float");
+    this.root.id = "auf-floating-panel";
     this.root.setAttribute("aria-label", "AI Usage Float");
+    this.launcher = control(win.document.body, "额度", actions.toggle, { name: "launcher", icon: "chart-no-axes-column" });
+    this.launcher.title = "显示或隐藏额度浮窗";
+    this.launcher.setAttribute("aria-controls", this.root.id);
     this.header = add(this.root, "header", "float-head");
     this.handle = add(this.header, "div", "handle", "AI Usage");
     this.handle.title = "拖动浮窗";
@@ -218,11 +222,14 @@ class FloatingPanel {
     this.listenForPointer();
     this.resize = new win.ResizeObserver(this.place);
     this.resize.observe(this.root);
+    this.dockObserver = new win.MutationObserver(() => this.followDock());
+    this.followDock();
     win.addEventListener("resize", this.place, { signal: this.events.signal });
   }
 
   render(state) {
     this.root.hidden = !state.settings.shown;
+    this.launcher.setAttribute("aria-expanded", String(state.settings.shown));
     this.root.classList.toggle("is-collapsed", state.settings.collapsed);
     this.body.hidden = this.footer.hidden = state.settings.collapsed;
     this.grips.forEach(grip => { grip.hidden = state.settings.collapsed; });
@@ -282,12 +289,38 @@ class FloatingPanel {
   }
 
   place() {
+    this.placeLauncher();
     if (this.root.hidden || this.gesture) return;
     const { left, top, width: savedWidth, height: savedHeight, collapsed } = this.actions.state().settings;
     this.size(collapsed ? null : savedWidth, collapsed ? null : savedHeight);
     const width = this.root.offsetWidth;
     const height = this.root.offsetHeight;
     this.move(left ?? this.win.innerWidth - width - 36, top ?? this.win.innerHeight * 0.35, width, height);
+  }
+
+  followDock() {
+    const dock = this.win.document.querySelector(".ras-dock");
+    if (dock !== this.linkDock) {
+      if (this.linkDock) this.resize.unobserve(this.linkDock);
+      this.linkDock = dock;
+      this.dockObserver.disconnect();
+      this.dockObserver.observe(this.win.document.body, { childList: true });
+      if (dock) {
+        this.dockObserver.observe(dock, { attributes: true, attributeFilter: ["style", "class", "hidden"] });
+        this.resize.observe(dock);
+      }
+    }
+    this.placeLauncher();
+  }
+
+  placeLauncher() {
+    const dock = this.linkDock?.getBoundingClientRect();
+    const height = this.launcher.offsetHeight;
+    const gap = 8;
+    const above = dock?.height ? dock.top - height - gap : this.win.innerHeight * 0.55;
+    const top = dock?.height && above < MARGIN ? dock.bottom + gap : above;
+    const limit = Math.max(MARGIN, this.win.innerHeight - height - MARGIN);
+    this.launcher.style.top = clamp(top, MARGIN, limit) + "px";
   }
 
   move(left, top, width = this.root.offsetWidth, height = this.root.offsetHeight) {
@@ -373,7 +406,9 @@ class FloatingPanel {
   destroy() {
     this.events.abort();
     this.resize.disconnect();
+    this.dockObserver.disconnect();
     this.root.remove();
+    this.launcher.remove();
   }
 }
 
