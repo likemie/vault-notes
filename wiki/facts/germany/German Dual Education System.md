@@ -167,7 +167,7 @@ updated: 2026-11-21
 
 ---
 
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 从隐蔽发展型网络国家理论视阈，对比德国依托三方协同机制开展的大规模技能投资实践，揭示美国缺乏双元制引发的先进制造外流弊端。
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 考证 19 世纪普鲁士设立工艺学校结合车间制造的历史脉络，论证隐性工艺知识在德国国家创新系统中的基石作用。
 > - [[Argument_Hippach-Schneider_Rieder_2022_RCIE|Hippach-Schneider and Rieder (2022)]] — 剖析德国双元制体系在数字化转型中的权责分立困境，揭示联邦企业培训权与州级学校教育权分离对全国协同的影响。
