@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Argument_Dang_2017_ORE",
-      "path": "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
+      "basename": "Argument_Hammermeister_2002_Cambridge_Ch06",
+      "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md"
+    },
+    {
+      "basename": "Argument_Hammermeister_2002_Cambridge",
+      "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge.md"
+    },
+    {
+      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit05",
+      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
     },
     {
       "basename": "Argument_Vavrus_2006_CICE",
       "path": "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md"
+    },
+    {
+      "basename": "Argument_Dang_2017_ORE",
+      "path": "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
     },
     {
       "basename": "Area Studies",
@@ -95,10 +107,6 @@
     {
       "basename": "arguments",
       "path": "bases/arguments.md"
-    },
-    {
-      "basename": "Argument_Hammermeister_2002_Cambridge_Ch06",
-      "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md"
     },
     {
       "basename": "vault-schema",
@@ -191,14 +199,6 @@
     {
       "basename": "Talcott Parsons",
       "path": "wiki/persons/us/Talcott Parsons.md"
-    },
-    {
-      "basename": "Argument_Deng_2016_CE",
-      "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
-    },
-    {
-      "basename": "Robin Alexander",
-      "path": "wiki/persons/uk/Robin Alexander.md"
     }
   ],
   "omittedPaths": [],
