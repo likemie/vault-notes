@@ -3427,6 +3427,8 @@
     "Brian Pusser & Sarah Turner, 2004": "Brian Pusser & Sarah Turner, 2004",
     "Brian Rowan (1977)": "Brian Rowan, 1977",
     "Brian Rowan, 1977": "Brian Rowan, 1977",
+    "Brian Street (1984)": "Brian Street, 1984",
+    "Brian Street, 1984": "Brian Street, 1984",
     "Brian Uzzi (2005)": "Brian Uzzi, 2005",
     "Brian Uzzi, 2005": "Brian Uzzi, 2005",
     "Brian W. Head (2008)": "Brian W. Head, 2008",
@@ -4314,6 +4316,8 @@
     "Carolan et al., 2014": "Carolan et al., 2014",
     "Carole Torgerson et al. (2013)": "Carole Torgerson et al., 2013",
     "Carole Torgerson et al., 2013": "Carole Torgerson et al., 2013",
+    "Caroline Dyer & Archana Choksi (1998)": "Caroline Dyer & Archana Choksi, 1998",
+    "Caroline Dyer & Archana Choksi, 1998": "Caroline Dyer & Archana Choksi, 1998",
     "Caroline Dyer (2001)": "Caroline Dyer, 2001",
     "Caroline Dyer, 2001": "Caroline Dyer, 2001",
     "Caroline Gipps (1994)": "Caroline Gipps, 1994",
@@ -6814,6 +6818,8 @@
     "Domino, 2010": "Domino, 2010",
     "Don Holdaway (1979)": "Don Holdaway, 1979",
     "Don Holdaway, 1979": "Don Holdaway, 1979",
+    "Don Kulick & Christopher Stroud (1993)": "Don Kulick & Christopher Stroud, 1993",
+    "Don Kulick & Christopher Stroud, 1993": "Don Kulick & Christopher Stroud, 1993",
     "Don et al. (2020)": "Don et al., 2020",
     "Don et al., 2020": "Don et al., 2020",
     "Donahue (2011)": "Donahue, 2011",
@@ -14858,6 +14864,8 @@
     "Lauer et al., 2006": "Lauer et al., 2006",
     "Laun & Wolff (2025)": "Laun & Wolff, 2025",
     "Laun & Wolff, 2025": "Laun & Wolff, 2025",
+    "Laura Ahearn (2001)": "Laura Ahearn, 2001",
+    "Laura Ahearn, 2001": "Laura Ahearn, 2001",
     "Laureano (2015)": "Laureano, 2015",
     "Laureano, 2015": "Laureano, 2015",
     "Laurin (2010)": "Laurin, 2010",
@@ -15205,6 +15213,8 @@
     "Lepsius, 2016": "Lepsius, 2016",
     "Leritz & Mumford (2004)": "Leritz & Mumford, 2004",
     "Leritz & Mumford, 2004": "Leritz & Mumford, 2004",
+    "Lesley Bartlett (2006)": "Lesley Bartlett, 2006",
+    "Lesley Bartlett, 2006": "Lesley Bartlett, 2006",
     "Leslie (1972)": "Leslie, 1972",
     "Leslie (1993)": "Leslie, 1993",
     "Leslie (1998)": "Leslie, 1998",
@@ -26548,7 +26558,9 @@
     "Vukelich, 2012": "Vukelich, 2012",
     "Vula (2017)": "Vula, 2017",
     "Vula, 2017": "Vula, 2017",
+    "Vulliamy (1984)": "Vulliamy, 1984",
     "Vulliamy (1990)": "Vulliamy, 1990",
+    "Vulliamy, 1984": "Vulliamy, 1984",
     "Vulliamy, 1990": "Vulliamy, 1990",
     "Vuogan & Li (2022)": "Vuogan & Li, 2022",
     "Vuogan & Li, 2022": "Vuogan & Li, 2022",
@@ -28667,6 +28679,8 @@
     "佩卡里宁等, 2009": "佩卡里宁等, 2009",
     "先后在埃及亚历山大 (2006)": "先后在埃及亚历山大, 2006",
     "先后在埃及亚历山大, 2006": "先后在埃及亚历山大, 2006",
+    "克罗斯利与武利亚米 (1984)": "克罗斯利与武利亚米, 1984",
+    "克罗斯利与武利亚米, 1984": "克罗斯利与武利亚米, 1984",
     "克鲁格与德尼西 (1996)": "克鲁格与德尼西, 1996",
     "克鲁格与德尼西, 1996": "克鲁格与德尼西, 1996",
     "公共外交与发展援助视角 (2021)": "公共外交与发展援助视角, 2021",
@@ -43819,7 +43833,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md"
+        "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md",
+        "wiki/theories/comparative-education/Ideological Model of Literacy.md"
       ],
       "title": "The Comparative Ethnography of Educational Projects"
     },
@@ -54598,6 +54613,21 @@
       ],
       "title": ""
     },
+    "Brian Street, 1984": {
+      "aliases": [
+        "Brian Street, 1984",
+        "Brian Street (1984)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Brian Street, 1984"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/comparative-education/Ideological Model of Literacy.md"
+      ],
+      "title": ""
+    },
     "Brian Uzzi, 2005": {
       "aliases": [
         "Brian Uzzi, 2005",
@@ -61180,6 +61210,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/uk/Numbers Count.md"
+      ],
+      "title": ""
+    },
+    "Caroline Dyer & Archana Choksi, 1998": {
+      "aliases": [
+        "Caroline Dyer & Archana Choksi, 1998",
+        "Caroline Dyer & Archana Choksi (1998)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Caroline Dyer & Archana Choksi, 1998"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/comparative-education/Ideological Model of Literacy.md"
       ],
       "title": ""
     },
@@ -72833,7 +72878,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
+        "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md",
+        "wiki/facts/germany/German Academic Exchange Service.md"
       ],
       "title": "Die akademische Zusammenarbeit mit China realistisch gestalten: Handlungsempfehlungen des DAAD für deutsche Hochschulen"
     },
@@ -79315,6 +79361,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/instruction-pedagogy/Shared Book Approach.md"
+      ],
+      "title": ""
+    },
+    "Don Kulick & Christopher Stroud, 1993": {
+      "aliases": [
+        "Don Kulick & Christopher Stroud, 1993",
+        "Don Kulick & Christopher Stroud (1993)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Don Kulick & Christopher Stroud, 1993"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/comparative-education/Ideological Model of Literacy.md"
       ],
       "title": ""
     },
@@ -110576,9 +110637,7 @@
         "Hayhoe, 2006"
       ],
       "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md"
-      ],
+      "seen_in": [],
       "title": "Comparative education, area studies, and the disciplines"
     },
     "Haymon, 2009": {
@@ -137986,6 +138045,21 @@
       ],
       "title": ""
     },
+    "Laura Ahearn, 2001": {
+      "aliases": [
+        "Laura Ahearn, 2001",
+        "Laura Ahearn (2001)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Laura Ahearn, 2001"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/comparative-education/Ideological Model of Literacy.md"
+      ],
+      "title": ""
+    },
     "Laureano, 2015": {
       "aliases": [
         "Laureano, 2015",
@@ -140471,6 +140545,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/instruction-pedagogy/SCAMPER.md"
+      ],
+      "title": ""
+    },
+    "Lesley Bartlett, 2006": {
+      "aliases": [
+        "Lesley Bartlett, 2006",
+        "Lesley Bartlett (2006)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Lesley Bartlett, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/comparative-education/Ideological Model of Literacy.md"
       ],
       "title": ""
     },
@@ -209177,7 +209266,8 @@
       ],
       "isbn": "978-0521289610",
       "seen_in": [
-        "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md"
+        "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md",
+        "wiki/theories/comparative-education/Ideological Model of Literacy.md"
       ],
       "title": "Literacy in Theory and Practice"
     },
@@ -223015,6 +223105,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "The impact of metacognitive strategies and self-regulating processes of solving math word problems *"
+    },
+    "Vulliamy, 1984": {
+      "aliases": [
+        "Vulliamy, 1984",
+        "Vulliamy (1984)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Vulliamy, 1984"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md"
+      ],
+      "title": ""
     },
     "Vulliamy, 1990": {
       "aliases": [
@@ -238112,6 +238217,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/europe/Mediterranean Society of Comparative Education.md"
+      ],
+      "title": ""
+    },
+    "克罗斯利与武利亚米, 1984": {
+      "aliases": [
+        "克罗斯利与武利亚米, 1984",
+        "克罗斯利与武利亚米 (1984)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "克罗斯利与武利亚米, 1984"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/uk/Michael Crossley.md"
       ],
       "title": ""
     },

@@ -23589,6 +23589,19 @@
     ]
   },
   {
+    "title": "Ideological Model of Literacy",
+    "type": "theory",
+    "path": "wiki/theories/comparative-education/Ideological Model of Literacy.md",
+    "aliases": [
+      "识字的意识形态模型",
+      "读写能力的意识形态模型",
+      "识字意识形态模型",
+      "意识形态读写模型",
+      "Ideological Model",
+      "Ideological Model of Literacy by Brian Street"
+    ]
+  },
+  {
     "title": "Institutional Isomorphism",
     "type": "theory",
     "path": "wiki/theories/comparative-education/Institutional Isomorphism.md",
@@ -32719,6 +32732,15 @@
     ]
   },
   {
+    "title": "Ruth Hayhoe",
+    "type": "person",
+    "path": "wiki/persons/canada/Ruth Hayhoe.md",
+    "aliases": [
+      "许美德",
+      "Hayhoe, R."
+    ]
+  },
+  {
     "title": "Thomas Barr Greenfield",
     "type": "person",
     "path": "wiki/persons/canada/Thomas Barr Greenfield.md",
@@ -36237,6 +36259,16 @@
       "米高·巴伯",
       "Sir Michael Barber",
       "Barber, M."
+    ]
+  },
+  {
+    "title": "Michael Crossley",
+    "type": "person",
+    "path": "wiki/persons/uk/Michael Crossley.md",
+    "aliases": [
+      "迈克尔·克罗斯利",
+      "克罗斯利",
+      "Crossley, M."
     ]
   },
   {
@@ -44030,6 +44062,17 @@
       "Fraunhofer Society",
       "Fraunhofer-Gesellschaft",
       "弗劳恩霍夫模式"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "German Academic Exchange Service",
+    "type": "fact",
+    "path": "wiki/facts/germany/German Academic Exchange Service.md",
+    "aliases": [
+      "德意志学术交流中心",
+      "DAAD",
+      "Deutscher Akademischer Austauschdienst"
     ],
     "subtype": "organization"
   },

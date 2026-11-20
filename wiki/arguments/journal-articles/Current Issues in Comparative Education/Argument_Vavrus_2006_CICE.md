@@ -113,12 +113,12 @@ issuing_organization: ""
 > |---|---|
 > | **[[Context in Comparative Education\|比较教育情境观]]**<br>Broadfoot (1999) | 确立微观具体情境对理解教育过程的认识论强制性，打破将背景视作封闭物理容器的传统假定，赋予地方情境知识与官方权威[[Discourse\|话语]]对等的对话地位。 |
 > | **[[Multilevel Comparative Analysis\|多层分析框架]]**<br>Bray and Thomas (1995) | 划分地理区位尺度、非地理人口特征与社会力量三维空间；从方法论拓展至认识论，论证单一[[Scale in Higher Education\|尺度分析]]必然导致情境剥离与解释失真。 |
-> | **[[Ecological Validity\|生态效度与个案传统]]**<br>Crossley and Vulliamy (1984) | 确立知识的情境特异性原则，即一个情境中的发现不能假设在另一情境成立，揭示政策宣示修辞与地方实际实践之间的结构性鸿沟。 |
+> | **[[Ecological Validity\|生态效度与个案传统]]**<br>[[Michael Crossley|Crossley]] and Vulliamy (1984) | 确立知识的情境特异性原则，即一个情境中的发现不能假设在另一情境成立，揭示政策宣示修辞与地方实际实践之间的结构性鸿沟。 |
 > | **[[Decentering the Nation-State\|去中心化的比较教育理论]]**<br>Marginson and Mollis (2001) | 解构民族国家作为唯一基本[[Unit of Analysis\|分析单元]]的垄断地位，提出协调普遍主义与极端相对主义的分析原则，指引对不同尺度间相似性与差异性的双重审视。 |
 > | **权力/知识生产政治**<br>Parpart (1995); Samoff (1999) | 批判国际发展机构对[[Development Expert|发展专家]]角色的建构与短期咨询中的依附关系，阐明缺乏地方承载者的自上而下改革难以避免失败命运的机制。 |
 
 > [!warrant]- 理论如何支撑论证
-> 四项理论工具紧密支撑核心论证。克罗斯利与武利亚米（Michael Crossley & Graham Vulliamy）的生态效度原则（Crossley & Vulliamy, 1984）与布[[Alexandre de Rhodes|罗德]]富特（[[Patricia Broadfoot]]）的[[Situative Perspective|情境观]]（Broadfoot, 1999）确立了微观地方情境知识的不可替代性；[[Mark Bray|布雷]]与托马斯的多层分析构想（Bray & Thomas, 1995）经注入认识论基础，揭示了单一宏观尺度的决定论偏误；马金森与莫利斯（Simon Marginson & Marcela Mollis）的全球化理论（Marginson & Mollis, 2001）与发展援助政治批判（Parpart, 1995; Samoff, 1999）相互印证，解构了民族国家的单一中心地位，从而使垂直案例研究成为贯通微观行动与宏观全球权力的严整桥梁。
+> 四项理论工具紧密支撑核心论证。[[Michael Crossley|克罗斯利]]与武利亚米（Michael Crossley & Graham Vulliamy）的生态效度原则（Crossley & Vulliamy, 1984）与布[[Alexandre de Rhodes|罗德]]富特（[[Patricia Broadfoot]]）的[[Situative Perspective|情境观]]（Broadfoot, 1999）确立了微观地方情境知识的不可替代性；[[Mark Bray|布雷]]与托马斯的多层分析构想（Bray & Thomas, 1995）经注入认识论基础，揭示了单一宏观尺度的决定论偏误；马金森与莫利斯（Simon Marginson & Marcela Mollis）的全球化理论（Marginson & Mollis, 2001）与发展援助政治批判（Parpart, 1995; Samoff, 1999）相互印证，解构了民族国家的单一中心地位，从而使垂直案例研究成为贯通微观行动与宏观全球权力的严整桥梁。
 
 ---
 
@@ -133,7 +133,7 @@ issuing_organization: ""
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
-> | **学科史料** | CIES 成立 50 周年口述史纪录片《[[Comparatively Speaking|相对而言]]》（*Comparatively Speaking*；Steiner-Khamsi & Johnson, 2006）、历任会长就职演说（Hayhoe, 2006; Masemann, 1990）以及学术界关于区域研究与学科建制的专题讨论记录（Merkx et al., 2006）。 |
+> | **学科史料** | CIES 成立 50 周年口述史纪录片《[[Comparatively Speaking|相对而言]]》（*Comparatively Speaking*；Steiner-Khamsi & Johnson, 2006）、历任会长就职演说（[[Ruth Hayhoe|Hayhoe]], 2006; Masemann, 1990）以及学术界关于区域研究与学科建制的专题讨论记录（Merkx et al., 2006）。 |
 > | **实证研究文献** | 发展中国家成人扫盲政策与微观人类学实证研究（Ahearn, 2001; Bartlett, 2006, 2007; Dyer & Choksi, 1998; Kulick & Stroud, 1993; Luke, 1996; Street, 1984）、UNESCO《[[Global Education Monitoring Report\|全民教育全球监测报告]]》（UNESCO, 2006）、乐施会教育报告（K. Watkins, 2001）以及坦桑尼亚结构调整实证考察（Vavrus, 2005）。 |
 > | **制度考察情境** | 国际[[Multilateral Development Bank\|多边开发银行]]、双边援助机构、国家教育部、地方学区与微观学校社区之间的多层治理互动情境。 |
 
@@ -207,7 +207,7 @@ issuing_organization: ""
 
 > [!tension] 跨国成人扫盲：宏观普适效应宣示 vs 微观情境特异实践
 > - **宏观普适效应宣示** 联合国教科文组织《全民教育全球监测报告》（UNESCO, 2006, 第 5 章）与乐施会教育报告（K. Watkins, 2001, 第 1 章）广泛宣称女性掌握识字能力能直接降低婴儿死亡率、改善母婴健康并提高政治参与；然而各国对识字的定义与测度标准差异巨大（UNESCO, 2006, 第 6 章），单纯依赖宏观量化指标开展跨国比较容易使用缺乏真实可比性的数据。
-> - **微观情境特异实践** 布赖恩·斯特里特（Brian Street）提出识字的意识形态模型（Ideological Model），指出识字始终嵌入在特定的文化、制度与权力关系之中，其赋能潜力受到地方社会阶级与父权亲属结构的实质制约（Street, 1984）。
+> - **微观情境特异实践** 布赖恩·斯特里特（Brian Street）提出[[Ideological Model of Literacy|识字的意识形态模型]]（Ideological Model），指出识字始终嵌入在特定的文化、制度与权力关系之中，其赋能潜力受到地方社会阶级与父权亲属结构的实质制约（Street, 1984）。
 
 > [!evidence-grid] 成人扫盲的微观人类学实证证据
 > - **尼泊尔朱尼高村的情书书写与女性能动性** 劳拉·阿亨（Laura Ahearn）的研究表明，识字技能伴随着情书书写实践的兴起，改变了年轻女性关于恋爱与婚姻选择的能动性观念，但这种转变同时受到当地父权亲属制度与阶级结构的严密约束（Ahearn, 2001）。
@@ -218,7 +218,7 @@ issuing_organization: ""
 > [!sub-claim] 3. 对照官方宣示与民间经验，直接揭露政策落地的断层
 
 > [!warrant]- 弥合政策修辞与地方实践的断层
-> - **修辞与实践的结构性断层** 克罗斯利与武利亚米指出，教育个案研究揭示了政策领域中修辞与实践的断层（Crossley & Vulliamy, 1984, p. 198）。政策修辞往往源于忽视地方实践的研究，这类研究不加批判地描述官方政策宣称应当发生的状态。垂直案例研究将[[Local Knowledge in Evidence-Based Policy|地方知识]]置于与官方权威知识同等重要的审视地位，同时剖析政策文本宣示的应然要求与地方行动者亲历的实然处境，使研究能够精准定位政策意图与基层落地之间的裂隙。
+> - **修辞与实践的结构性断层** [[Michael Crossley|克罗斯利]]与武利亚米指出，教育个案研究揭示了政策领域中修辞与实践的断层（Crossley & Vulliamy, 1984, p. 198）。政策修辞往往源于忽视地方实践的研究，这类研究不加批判地描述官方政策宣称应当发生的状态。垂直案例研究将[[Local Knowledge in Evidence-Based Policy|地方知识]]置于与官方权威知识同等重要的审视地位，同时剖析政策文本宣示的应然要求与地方行动者亲历的实然处境，使研究能够精准定位政策意图与基层落地之间的裂隙。
 > - **微观意义作为宏观结构的内在组成** 通过将地方理解与社会互动视为宏观结构与政策力量的内在组成部分，垂直案例研究突破了孤立地理场所的局限，深入挖掘微观层面的意义层次，揭示宏观政策在地方遭遇的转化、协商与抵制。
 
 ---
@@ -252,14 +252,14 @@ issuing_organization: ""
 
 > [!tension] 统计还原主义 vs 区域情境深度
 > - **[[Objectivism|客观主义]]统计文化** 国际组织统计界倾向于将客观事实置于主观观点之上，崇尚还原主义解释而压制复杂情境；阿尔伯特·莫蒂万斯（Albert Motivans）指出，这种机构文化构成了承认和重视情境的认识论障碍（Motivans, in Merkx et al., 2006, p. 147）。世界银行教育经济学家伊丽莎白·金（Elizabeth King）虽肯定区域研究有助于理解教育决策的文化背景（King, in Merkx et al., 2006, p. 132），但仍未将地方知识视作独立的认识论主体。
-> - **区域研究的推广张力** 许美德（Ruth Hayhoe）强调，区域研究是从非主导文化与文明中汲取智慧的根本途径，能够推动当代教育与发展理论的历史性革新（Hayhoe, in Merkx et al., 2006, pp. 142–143）；而罗伯特·布鲁斯坦（Robert Brustein）则批评区域研究未能将其丰富发现向广阔世界推广（Brustein, in Merkx et al., 2006, p. 136）。瓦莱丽·拉斯特（[[Val D. Rust|Val Rust]]）指出比较教育长期被窄化为跨越两个或更多国家的横向比较（Rust, 2002, p. 54，援引 Jary & Jary）。垂直案例研究突破了这一局限，倡导自下而上穿透不同层级的纵向比较，而非单纯跨越国界的横向对照。
+> - **区域研究的推广张力** [[Ruth Hayhoe|许美德]]（Ruth Hayhoe）强调，区域研究是从非主导文化与文明中汲取智慧的根本途径，能够推动当代教育与发展理论的历史性革新（Hayhoe, in Merkx et al., 2006, pp. 142–143）；而罗伯特·布鲁斯坦（Robert Brustein）则批评区域研究未能将其丰富发现向广阔世界推广（Brustein, in Merkx et al., 2006, p. 136）。瓦莱丽·拉斯特（[[Val D. Rust|Val Rust]]）指出比较教育长期被窄化为跨越两个或更多国家的横向比较（Rust, 2002, p. 54，援引 Jary & Jary）。垂直案例研究突破了这一局限，倡导自下而上穿透不同层级的纵向比较，而非单纯跨越国界的横向对照。
 
 > [!row-contrast] 《比较教育评论》圆桌辩论代表学者立场矩阵
 > | 学者与机构归属 | 核心立场倾向 | 认识论取态 | 对地方情境知识的评价 |
 > |---|---|---|---|
 > | **阿尔伯特·莫蒂万斯**<br>UNESCO 统计研究所 | 揭示机构统计文化弊端 | 反思客观[[Positivism\|实证主义]] | 承认还原主义统计偏好构成了重视复杂情境的根本障碍 |
 > | **伊丽莎白·金**<br>世界银行教育经济学家 | 折衷吸纳区域研究 | 经济学[[Instrumental Rationality\|工具理性]] | 将情境降格为经济决策的外部文化背景，未触及深层认识论 |
-> | **许美德**<br>CIES 前会长 / 香港教育学院 | 坚定捍卫区域研究价值 | 多元文化诠释论 | 视向非西方文明学习为革新当代教育理论的核心动力 |
+> | **[[Ruth Hayhoe\|许美德]]**<br>CIES 前会长 / 香港教育学院 | 坚定捍卫区域研究价值 | 多元文化诠释论 | 视向非西方文明学习为革新当代教育理论的核心动力 |
 > | **罗伯特·布鲁斯坦**<br>比较政治学者 / 匹兹堡大学 | 坚持学科普适推广准则 | 普遍主义实证论 | 批评区域研究过于沉溺丰富情境，无法产出能推广的通则知识 |
 
 > [!sub-claim] 2. 研究生训练须结合本土语言历史与多元方法，扎根社区现场
@@ -294,7 +294,7 @@ issuing_organization: ""
 >
 > *What makes single-level analysis 'incomplete and unbalanced' is often, though not always, the absence of contextualized knowledge that takes into [[Accounts|account]] how larger forces, structures, and histories inform local social interactions and understanding… in a vertical case study, understanding of the micro-level is viewed as part and parcel of larger structures, forces, and policies about which the researcher must also develop a full and thorough knowledge.*
 
-> [!citation-card] 克罗斯利与武利亚米论政策修辞与地方实践的断层
+> [!citation-card] [[Michael Crossley|克罗斯利]]与武利亚米论政策修辞与地方实践的断层
 > 个案研究在教育领域揭示了政策舞台上修辞与实践之间的鸿沟。修辞是由那些不关注地方实践的研究生成的，这些研究不加批判地描述官方政策中所阐明的应当发生状态。垂直案例研究具有通过分析基于政策宣示的应然要求以及地方行动者叙述的实然处境，使地方知识与官方权威知识处于更平等地位的潜力。(Crossley & Vulliamy, 1984, p. 198)
 >
 > *… case studies in education have 'exposed the gap between rhetoric and practice' in the policy arena. Rhetoric… is what is generated by studies that do not focus on local practice but instead 'uncritically describe what ought to be happening' as articulated in official policy. Vertical case study research has the potential to place local knowledge on a more equal footing with official, authoritative knowledge by analyzing what 'ought to be' based on policy pronouncements… as well as what 'is happening' as recounted by local actors.*
