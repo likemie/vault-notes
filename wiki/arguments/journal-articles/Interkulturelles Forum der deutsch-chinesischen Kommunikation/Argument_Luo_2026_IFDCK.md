@@ -26,6 +26,9 @@ related_concepts:
   - "[[Educational Diplomacy]]"
   - "[[Academic Freedom]]"
   - "[[Academic Risk Aversion]]"
+  - "[[De-risking]]"
+  - "[[Research Security]]"
+  - "[[Dual-Use Technology]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Content Analysis]]"
@@ -33,6 +36,10 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Federal Ministry of Education and Research]]"
+  - "[[China Strategy of the Federal Government]]"
+  - "[[German Academic Exchange Service]]"
+  - "[[Federal Office for Economic Affairs and Export Control]]"
+  - "[[Confucius Institute]]"
 related_arguments: []
 sources:
   - "[[sources/Luo_2026_IFDCK/Luo_2026_IFDCK|Luo_2026_IFDCK]]"
