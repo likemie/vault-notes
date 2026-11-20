@@ -9,7 +9,7 @@ summary: "元分析中用于检验多项初级研究效应量同质性假设的�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 15
+method_related_count: 17
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -32,6 +32,8 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Fixed-Effect Model]]"
+  - "[[Forest Plot]]"
+  - "[[Confidence Interval]]"
   - "[[Sample Size Determination]]"
   - "[[I-squared Statistic]]"
   - "[[Between-Study Variance]]"
@@ -75,7 +77,7 @@ updated: 2026-11-20
 > $$Q = \sum_{i=1}^k w_i y_i^2 - \frac{(\sum_{i=1}^k w_i y_i)^2}{\sum_{i=1}^k w_i}$$
 >
 > > [!geogebra] 加权离差平方和与同质性判定动态模拟
-> > - **森林图** 5 项研究的效应量 $y_i$（圆点）与 95% 置信区间（水平线），圆点大小对应逆方差权重 $w_i$。
+> > - **[[Forest Plot|森林图]]** 5 项研究的效应量 $y_i$（圆点）与 95% [[Confidence Interval|置信区间]]（水平线），圆点大小对应逆方差权重 $w_i$。
 > > - **橙色垂直虚线** 固定效应加权均值 $\hat{\theta}_{\text{FE}}$，随各研究效应量实时更新。
 > > - **红色水平虚线** 各研究效应量到 $\hat{\theta}_{\text{FE}}$ 的偏差，对应 $w_i(y_i - \hat{\theta})^2$ 的几何含义。
 > > - **滑块 研究 3 效应量 y₃** 拖动改变研究 3 的效应量（0.20–0.90），观察异质性变化。
