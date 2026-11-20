@@ -12,7 +12,7 @@ aliases:
 summary: "在国家资助治理与地缘政治转向中动态建构的复合型政策构念与机构实践能力，内涵历经从以语言文化理解、互信建构与双边合作为核心，向以科研去风险、合规审查、安全治理与战略政策咨询为主导的双重属性转变。"
 type: concept
 domain: "higher-education"
-related_count: 24
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

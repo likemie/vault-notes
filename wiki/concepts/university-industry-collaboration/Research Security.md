@@ -8,7 +8,7 @@ aliases:
 summary: "大学与科研体系为保护学术研究、关键技术与知识产权免受外国不当干预、经济间谍活动与未经授权转移而建立的制度性风险防范机制；近年在大国地缘技术博弈中进一步上升为国家科技治理重塑国际科研合作边界、将学术自治置于国家安全合规之下的核心治理工具。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 30
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-11-15
+updated: 2026-11-20
 ---
 
 ---

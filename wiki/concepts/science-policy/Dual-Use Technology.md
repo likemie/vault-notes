@@ -7,10 +7,10 @@ aliases:
 summary: "兼具军事国防与民用商业应用潜力的前沿技术范式；在产业生命周期早期表现为国防研发与采购对民用创新的单向衍生溢出，随着民用市场规模反超与技术规范分化，逐渐演进为民用前沿向国防系统回哺的逆向溢出。"
 type: concept
 domain: "science-policy"
-related_count: 15
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/science-policy
   - theme/innovation-economics
@@ -27,6 +27,9 @@ related_concepts:
   - "[[Learning by Doing]]"
   - "[[Sage]]"
   - "[[Second-Sourcing]]"
+  - "[[Research Security]]"
+  - "[[De-risking]]"
+  - "[[China Competence]]"
 related_theories:
   - "[[Technological Trajectories]]"
 related_methods: []
@@ -37,12 +40,14 @@ related_facts:
   - "[[Department of Defense]]"
   - "[[ARPANET]]"
   - "[[Semi-Automatic Ground Environment]]"
+  - "[[Federal Office for Economic Affairs and Export Control]]"
 related_arguments:
   - "[[Argument_Fabrizio_Mowery_2005_REI]]"
+  - "[[Argument_Luo_2026_IFDCK]]"
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-11-03
+updated: 2026-11-20
 ---
 
 ---
@@ -121,6 +126,16 @@ updated: 2026-11-03
 > |:-----|:-----|:-----|
 > | [[General Purpose Technology]] | Concept | 军民两用技术往往也是能够赋能全社会生产率提升的通用目的技术。 |
 > | [[Second-Sourcing]] | Concept | 军方在两用技术先导采购中为保障供应并加速民用技术扩散推行的关键制度工具。 |
+> | [[Research Security]] | Concept | 伴随前沿两用技术界限模糊，现代高等教育与科研体系建立的风险防范治理框架。 |
+> | [[De-risking]] | Concept | 针对敏感两用技术与知识转移实施精准排查与审慎合作的核心国家战略范式。 |
+> | [[China Competence]] | Concept | 涉华科技交往中用于识别两用技术风险与出口管制红线的专业研判与合规能力。 |
+> | [[Federal Office for Economic Affairs and Export Control]] | Fact (Organization) | 依据外贸管制法规对高校与工业界两用物资、无形技术转移实施行政许可的主管机构。 |
 > | [[ARPANET]] | Fact | 军民两用技术从军用容灾通信网络成功演化为全球民用开放互联网的最典型实证。 |
 > | [[Semi-Automatic Ground Environment]] | Fact | 国防超大型系统工程培育早期军民两用软件工程人才的代表性案例。 |
 > | [[David C. Mowery]] | Person | 系统提出国防两用技术生命周期理论与逆向技术溢出机制的代表学者。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]] — 阐述战后美国国防研发与先导采购在军民两用技术萌芽期的制度催化机制及成熟期的逆向溢出衰减规律。
+> - [[Argument_Luo_2026_IFDCK|Luo (2026)]] — 阐明军民两用技术边界模糊如何成为地缘去风险政策干预大学自治、推行学术出口管制与诱发科研合作避险的体制诱因。

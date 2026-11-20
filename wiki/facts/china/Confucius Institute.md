@@ -10,9 +10,9 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 27
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 32
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
 period: "2004–至今"
 initiator_organization: "国家汉语国际推广领导小组办公室 / 中国国际中文教育基金会"
@@ -40,6 +40,8 @@ related_concepts:
   - "[[Hard Power]]"
   - "[[Document]]"
   - "[[Geopolitics]]"
+  - "[[China Competence]]"
+  - "[[De-risking]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Interview]]"
@@ -50,6 +52,8 @@ related_persons:
 related_facts:
   - "[[Belt and Road Initiative]]"
   - "[[American Spaces]]"
+  - "[[China Strategy of the Federal Government]]"
+  - "[[German Academic Exchange Service]]"
 related_arguments:
   - "[[Argument_Nordtveit_2011_IJED]]"
   - "[[Argument_Woo_2023_HEP]]"
@@ -58,10 +62,11 @@ related_arguments:
   - "[[Argument_King_2020_ECNUROE]]"
   - "[[Argument_Zhu_Yang_2023_HEP]]"
   - "[[Argument_Zhu_Yang_2025_HE]]"
+  - "[[Argument_Luo_2026_IFDCK]]"
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 
 ---
@@ -171,7 +176,11 @@ updated: 2026-11-19
 > |:-----|:-----|:-----|
 > | [[Internationalization of Higher Education]] | Concept | [[Confucius\|孔子]]学院是中国早期[[Outward-Oriented Internationalization\|外向型高等教育国际化]]与文化走出去的标志性实践载体。 |
 > | [[Hard Power]] | Concept | 剖析文化[[Soft Power\|软实力]]传播机制与国家硬实力支撑之间相互依存的理论透镜。 |
+> | [[China Competence]] | Concept | 德国政界与学界为摆脱对孔子学院依赖而推动构建的自主独立涉华专业能力。 |
+> | [[De-risking]] | Concept | 推动欧洲及德国高校审查、解约或重构孔子学院合作协议的核心宏观政策范式。 |
 > | [[Belt and Road Initiative]] | Fact (Program) | 孔子学院自 2016 年起深度嵌入一带一路沿线人文交流与语言互通布局。 |
+> | [[German Academic Exchange Service]] | Fact (Organization) | 出台对华合作行动指南、指导高校合规评估校内涉华文化与学术机构的德国中介组织。 |
+> | [[China Strategy of the Federal Government]] | Fact (Policy) | 明确要求保护学术自由、防范境外意识形态与政治干预的国家总体战略纲领。 |
 
 ---
 
@@ -182,3 +191,4 @@ updated: 2026-11-19
 > - [[Argument_Custer_2021_AidData|Custer et al. (2021)]] — 测度南亚与中亚 13 国孔子学院与孔子课堂分布格局，揭示其集中于大都市与首都、次国家覆盖有限的实证特征。
 > - [[Argument_Velasco_2022_CSJ|Velasco (2022)]] — 考察孔子学院在东南亚的 31 所机构布局，揭示其嵌入在地大学的办学模式与[[Geopolitics|地缘政治]]争议。
 > - [[Argument_Zhu_Yang_2023_HEP|Zhu and Yang (2023)]] — 针对柬埔寨皇家科学院孔子学院师生开展[[Qualitative Interview|质性访谈]]，揭示功利性就业驱动作为青年学习中文核心动因及其向现代发展模式认同转化的机制。
+> - [[Argument_Luo_2026_IFDCK|Luo (2026)]] — 记录德国联邦议院与政界围绕孔子学院学术自由审查与地缘安全风险发起质询，促使德国加速构建独立涉华能力并调整大学合作模式的政策演进事实。

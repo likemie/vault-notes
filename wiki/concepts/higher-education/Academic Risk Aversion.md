@@ -9,10 +9,10 @@ aliases:
 summary: "在高度竞争性科研资助、同行评审可行性偏见与短周期考评约束下，科研人员与资助机构系统性偏向选择高确定性、短期可见的渐进型研究，极力规避长周期、高失败率之颠覆性探索的制度性行为偏好。"
 type: concept
 domain: "higher-education"
-related_count: 37
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 41
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - higher-education
   - science-policy
@@ -37,6 +37,9 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Interaction Effect]]"
   - "[[Scientific Creativity]]"
+  - "[[Research Security]]"
+  - "[[De-risking]]"
+  - "[[China Competence]]"
 related_theories:
   - "[[Hegemony]]"
 related_methods:
@@ -58,6 +61,7 @@ related_facts:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[National Institutes of Health]]"
   - "[[DARPA]]"
+  - "[[Federal Office for Economic Affairs and Export Control]]"
 related_arguments:
   - "[[Argument_Stephan_2013_NBER]]"
   - "[[Argument_Atkinson_2008_TIS]]"
@@ -178,7 +182,7 @@ updated: 2026-11-20
 > - **1970s–1980s — [[Soft-Money Faculty Model|软钱教职模式]]普及与资助竞争抬头** 战后高校大规模扩张后联邦经常性预算收紧，大学开始广泛采用软钱岗位与管理费扣取机制，学者个人生计与项目中标率深度绑定。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 30–31)]]
 > - **1990s–2000s — 同行评审可行性偏见固化与文献平庸化** 随着自然科学各领域竞争加剧，评审委员会将“[[Pilot Testing|预实验]]完备性”奉为圭臬；阿特金森与布兰皮德揭示青年教师在 2–3 年启动金耗尽后集体退守“安全课题”，文献平庸化成为系统性顽疾。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 44–45)]]
 > - **2010s 至今 — 科学经济学批判与新型资助机制探索** 科学经济学界系统批判商场化大学与学术避险主义，催生了霍华德·休斯医学研究所（HHMI）“资助人而非项目（[[People, Not Projects|people, not projects]]）”模式、[[National Institutes of Health|NIH]] 院长开拓者奖以及各种高风险高回报（High-Risk High-Reward）专项基金改革。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 32)]]
-> - **2026 — 地缘安全化规训拓展学术避险的外部制度维度** [[Argument_Luo_2026_IFDCK|Luo (2026)]] 实证解构德国十年来涉华科教能力资助政策，揭示学术避险不仅根植于同行评议与短聘生存考核，同样能够在国家地缘安全规训、军民两用出口管制法规（BAFA）与自上而下的法务尽调压力下被激发，展现出学者在涉外前沿探索中的预防性退缩与合作冻结。[[Argument_Luo_2026_IFDCK|(Luo, 2026)]]
+> - **2026 — 地缘安全化规训拓展学术避险的外部制度维度** [[Argument_Luo_2026_IFDCK|Luo (2026)]] 实证解构德国十年来涉华科教能力资助政策，揭示学术避险不仅根植于同行评议与短聘生存考核，同样能够在国家地缘安全规训、[[Dual-Use Technology|军民两用]]出口管制法规（[[Federal Office for Economic Affairs and Export Control|BAFA]]）与自上而下的法务尽调压力下被激发，展现出学者在涉外前沿探索中的预防性退缩与合作冻结。[[Argument_Luo_2026_IFDCK|(Luo, 2026)]]
 
 ---
 
@@ -209,6 +213,20 @@ updated: 2026-11-20
 > | [[Argument_Stephan_2013_NBER\|Stephan (2013, p. 31)]] | [[National Institutes of Health\|美国国立卫生研究院]]（NIH）R01 基金申请人与生命科学实验室 | 标书提交时的实质完成度 | 知名生命科学家与评审专家调查证实，获得资助的申请书中，三个核心研究目标通常有两个在标书提交前已在实验室内实质完成 | 证实同行评审过度偏重技术可行性与完备[[Pilot Testing\|预实验]]数据，使未完成的高风险探索无法获得支持 |
 > | [[Argument_Stephan_2013_NBER\|Stephan (2013, pp. 28, 30)]] | 美国研究型大学医学院科研人员薪酬结构 | 软钱薪资依赖度 | 医学院教师 60%–80% 的个人基本工资依赖外部科研项目提成（软钱），科研中断直接导致个人降薪甚至失业 | 表明个人生计威胁是驱动学者采取极端避险策略的最强微观经济诱因 |
 | [[Argument_Haubrock_2026_NHB\|Haubrock et al. (2026)]] | 全球青年科研人员（ECRs）职业发展与跨国学术资助体系 | 比较分析与文献[[Research Synthesis\|证据综合]] | 教授初聘年龄、基金近微失利退出率与玛丽·居里博士后资助率 | 德国教授初聘平均 42.5 岁、法国 34.4 岁；关键项目微弱落选增加退出学术界风险超 10%；2025 年玛丽·居里博士后入选率仅 9.6%（超 1.5 万份合格标书中仅资助 1,610 项） | 宏观统计确证极度白热化竞争直接扼杀独立探索空间，学术不稳定状态是驱动青年群体选题避险与策略性依从的结构性根源 |
+
+---
+
+> [!entry-map] 相关条目网络
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Research Security]] | Concept | 伴随涉外科研安全审查与合规问责强化，诱发学者跨境合作避险的宏观制度驱动力。 |
+> | [[De-risking]] | Concept | 地缘科技竞争中推行穿透审查与技术防卫、自上而下加剧学术合作避险的政策导向。 |
+> | [[China Competence]] | Concept | 德国高校在学术开放与涉外风控两难碰撞中展现出微观避险效应的关键能力政策领域。 |
+> | [[Dual-Use Technology]] | Concept | 出口管制法规重点核验、因界限模糊导致科研团队预防性回避合作的核心受控对象。 |
+> | [[Curiosity-Driven Research]] | Concept | 学术避险机制在竞争性考评与合规压力下挤压与边缘化的自由探索形态。 |
+> | [[Soft-Money Faculty Model]] | Concept | 迫使学者依赖外部项目提成以求生存、结构性催生短期安全选题的聘用制度根源。 |
+> | [[Federal Office for Economic Affairs and Export Control]] | Fact (Organization) | 实施外贸出口管制与合规督查、引发高校涉外科技合作问责焦虑的行政主管机关。 |
 
 ---
 
