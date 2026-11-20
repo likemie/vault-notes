@@ -64,7 +64,7 @@ title: "Argument_VonDerHeyden_Heinze_2025_PLOSONE"
 argument_key: "Argument_VonDerHeyden_Heinze_2025_PLOSONE"
 argument_display_title: "Decline of German and rise of North-American hegemony in science: Insights from Nobel Prize nominations (Physics/Chemistry, 1901–1969)"
 argument_kind: "journal-article"
-argument_related_count: 27
+argument_related_count: 28
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -176,7 +176,7 @@ journal: "PLOS ONE"
 >
 > - **北美科学霸权接管期（1934–1969）**
 >
->   以 1933 年纳粹德国颁布《专业公务员恢复法》清洗学者为历史转折点，德国顶尖[[Scientific Productivity\|科研生产力]]遭受不可逆破坏 (Waldinger, 2010; Waldinger, 2011)，其被提名份额锐减过半；爱因斯坦（Albert Einstein）等大批领军学者流亡北美极大充实了美国的科技创新基础 (Moser et al., 2014)，美国在此期斩获 42% 的被提名份额与 24% 的提名人份额，全面跃升为全球科学中心。
+>   以 1933 年纳粹德国颁布《专业公务员恢复法》清洗学者为历史转折点，德国顶尖[[Scientific Productivity\|科研生产力]]遭受不可逆破坏 (Waldinger, 2010; Waldinger, 2011)，其被提名份额锐减过半；爱因斯坦（Albert Einstein）等大批领军学者流亡北美极大充实了美国的科技创新基础 (Moser et al., 2014)，美国在此期的被提名份额为 42%，提名人份额为 24%，成为全球科学中心。
 
 > [!figure]- 图3：1901–1933与1934–1969两时期美德提名人与被提名人占比对比
 > ![](https://img.mylikemie.icu/sources/VonDerHeyden_Heinze_2025_PLOSONE/figures/VonDerHeyden_Heinze_2025_PLOSONE_Fig3_Proportions_Nominators_Nominees.jpg)

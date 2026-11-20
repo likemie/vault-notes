@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "德国美学传统翻译（全文彭正梅）(1)",
+      "path": "output/德国美学传统翻译（全文彭正梅）(1).md"
+    },
+    {
       "basename": "Argument_Hammermeister_2002_Cambridge_Ch07",
       "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch07.md"
+    },
+    {
+      "basename": "image1",
+      "path": "output/德国美学传统翻译（全文彭正梅）(1)_assets/image1.png"
     },
     {
       "basename": "Argument_Dang_2017_ORE",
@@ -191,14 +199,6 @@
     {
       "basename": "Curricular Form",
       "path": "wiki/concepts/curriculum/Curricular Form.md"
-    },
-    {
-      "basename": "Sacred and Profane Knowledge",
-      "path": "wiki/concepts/curriculum/Sacred and Profane Knowledge.md"
-    },
-    {
-      "basename": "Knowledge Production",
-      "path": "wiki/concepts/university-industry-collaboration/Knowledge Production.md"
     }
   ],
   "omittedPaths": [],
