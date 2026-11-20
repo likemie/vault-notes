@@ -52,7 +52,7 @@ updated: 2026-11-20
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2014 年正式签署成立，其直接制度前身为 2004 年发起的《国家培训与青年专业人才公约》（Nationaler Pakt für Ausbildung und Fachkräftenachwuchs），历经 2019 年与后续周期性协议更新并持续常态化运作。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, p. 513)]]
-> - **发起方与资助机制** 由德国联邦经济事务与气候保护部（BMWK）牵头主持，联合德国联邦教育与研究部（Bundesministerium für Bildung und Forschung, BMBF）、德国联邦劳动与社会事务部（BMAS）、联邦劳动局（BA）、联邦各州文教部长联席会议（KMK）及劳资各方共同出资与实施。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 513–514)]]
+> - **发起方与资助机制** 由德国联邦经济事务与气候保护部（BMWK）牵头主持，联合德国联邦教育与研究部（Bundesministerium für Bildung und Forschung, BMBF）、德国联邦劳动与社会事务部（BMAS）、联邦劳动局（BA）、联邦各州文教部长联席会议（KMK）及劳资各方共同出资与实施。
 > - **覆盖范围与对象** 覆盖全德十六个联邦州的职业培训市场，直接关联全国数万家提供双元制培训的企业、职业学校以及数百万学徒与求职青年。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 513–514)]]
 > - **核心问题导向** 应对学术化学历追求扩张导致的职业教育吸引力下滑、青年与培训岗位在地域和行业上的结构性错配、移民青年的社会融入，以及劳动力老龄化带来的中高级专业技能短缺危机。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 514–515)]]
 
@@ -62,7 +62,7 @@ updated: 2026-11-20
 > 联盟假定通过克服早期单边公约排斥工会的结构缺陷，建立涵盖联邦、州、雇主与工会四方共治的协商平台，能够运用柔性协同与专项配套计划化解培训岗位供需两端的错位难题，维系双元制作为国家技术劳动力基石的稳固性。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 513–515)]]
 
 > [!policy-design] 方案设计
-> - **项目目标** 确保每位有意愿且具备能力的青年均能获得企业学徒岗位或替代性培训方案、降低培训中途解约率、提高继续培训参与度，并促进职业资格与学术学位的横向立交互通。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, p. 514)]]
+> - **项目目标** 确保每位有意愿且具备能力的青年均能获得企业学徒岗位或替代性培训方案、降低培训中途解约率、提高继续培训参与度，并促进职业资格与学术学位的横向立交互通。
 > - **覆盖对象** 德国初中与高中应届毕业生、处境不利与需辅导青年、难民与移民群体、在职技术工人以及参与培训的各类企业。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, p. 514)]]
 > - **干预措施** 设立带辅助的学徒培训资助计划（Assistierte Ausbildung）、推行跨企业培训中心（ÜBS）现代化升级、启动职业定向辅助方案（Berufsorientierungsprogramm, BOP），并协同对接《国家继续培训战略》（Nationale Weiterbildungsstrategie）。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 514–515)]]
 > - **实施控制** 签约各方签署具有政治承诺效力的联合决议书，定期由德国联邦职业教育研究所（Federal Institute for Vocational Education and Training, BIBB）依托年度职业教育报告开展独立数据监测与成效审议。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 513–514)]]
@@ -83,12 +83,12 @@ updated: 2026-11-20
 
 > [!actor-grid] 实施协同矩阵
 > - **联邦部委统筹方** 联邦经济部主持大局，联邦教育部负责现代职教法规与科学评估，联邦劳动部提供就业促进资金。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 513–514)]]
-> - **联邦州教育主管** 各联邦州文教部长联席会议负责落实兼读制职业学校（Berufsschule）的师资调配与课程更新。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, p. 513)]]
-> - **工商业雇主协会** 德国雇主协会联合会（BDA）、德国工商业大会（DIHK）与手工业总会（ZDH）组织企业挖掘培训岗位指标。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, p. 513)]]
+> - **联邦州教育主管** 各联邦州文教部长联席会议负责落实兼读制职业学校（Berufsschule）的师资调配与课程更新。
+> - **工商业雇主协会** 德国雇主协会联合会（BDA）、德国工商业大会（DIHK）与手工业总会（ZDH）组织企业挖掘培训岗位指标。
 > - **劳工工会组织** 德国工会联合会（DGB）代表受训青年维护劳动权益，监督岗位质量并参与协商培训津贴方案。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, p. 513)]]
 
 > [!pathways] 实施路径与管理
-> - **纵向传导与支持** 联邦层面设立专项资助计划，资金直接下沉至各地方行会与职业学校，支持开展一对一学徒辅导。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, p. 514)]]
+> - **纵向传导与支持** 联邦层面设立专项资助计划，资金直接下沉至各地方行会与职业学校，支持开展一对一学徒辅导。
 > - **横向跨部门协同** 联邦劳动局在全国就业服务中心设立“青年就业代理处”（Jugendberufsagenturen），实现劳动局、青年局与学校职能的无缝集成。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, p. 514)]]
 > - **动态反馈与调整** BIBB 每年发布官方数据白皮书，联盟据此在年度高层峰会上调整各方认领的指标配额与帮扶方案。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 513–514)]]
 
