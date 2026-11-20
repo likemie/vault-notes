@@ -13,6 +13,8 @@
     "AACU, 2002": "AACU, 2002",
     "AAMC (2015)": "AAMC, 2015",
     "AAMC, 2015": "AAMC, 2015",
+    "AAW (2019)": "AAW, 2019",
+    "AAW, 2019": "AAW, 2019",
     "ABPI (2024)": "ABPI, 2024",
     "ABPI, 2024": "ABPI, 2024",
     "ACARA (2017)": "ACARA, 2017",
@@ -1052,7 +1054,9 @@
     "Antos (2001)": "Antos, 2001",
     "Antos, 2001": "Antos, 2001",
     "Antunes (2010)": "Antunes, 2010",
+    "Antunes (2016)": "Antunes, 2016",
     "Antunes, 2010": "Antunes, 2010",
+    "Antunes, 2016": "Antunes, 2016",
     "António Nóvoa (2002)": "António Nóvoa, 2002",
     "António Nóvoa (2021)": "António Nóvoa, 2021",
     "António Nóvoa, 2002": "António Nóvoa, 2002",
@@ -1490,7 +1494,8 @@
     "BLV (2013)": "BLV, 2013",
     "BLV, 2013": "BLV, 2013",
     "BMBF (2007)": "BMBF, 2007",
-    "BMBF (2013)": "BMBF, 2013",
+    "BMBF (2013a)": "BMBF, 2013a",
+    "BMBF (2013b)": "BMBF, 2013b",
     "BMBF (2015a)": "BMBF, 2015a",
     "BMBF (2015b)": "BMBF, 2015b",
     "BMBF (2016)": "BMBF, 2016",
@@ -1501,8 +1506,8 @@
     "BMBF (2024a)": "BMBF, 2024a",
     "BMBF (2024b)": "BMBF, 2024b",
     "BMBF, 2007": "BMBF, 2007",
-    "BMBF, 2013": "BMBF, 2013",
-    "BMBF, 2013a": "BMBF, 2013",
+    "BMBF, 2013a": "BMBF, 2013a",
+    "BMBF, 2013b": "BMBF, 2013b",
     "BMBF, 2015a": "BMBF, 2015a",
     "BMBF, 2015b": "BMBF, 2015b",
     "BMBF, 2016": "BMBF, 2016",
@@ -1578,6 +1583,8 @@
     "Baer, 2012": "Baer, 2012",
     "Baert (2015)": "Baert, 2015",
     "Baert, 2015": "Baert, 2015",
+    "Baethge & Wolter (2015)": "Baethge & Wolter, 2015",
+    "Baethge & Wolter, 2015": "Baethge & Wolter, 2015",
     "Bagasi (2014)": "Bagasi, 2014",
     "Bagasi, 2014": "Bagasi, 2014",
     "Bagozzi & Yi (1988)": "Bagozzi & Yi, 1988",
@@ -2141,6 +2148,8 @@
     "Bazhenova et al., 2022": "Bazhenova et al., 2022",
     "Beach & Doerr-Stevens (2009)": "Beach & Doerr-Stevens, 2009",
     "Beach & Doerr-Stevens, 2009": "Beach & Doerr-Stevens, 2009",
+    "Beach & Pedersen (2013)": "Beach & Pedersen, 2013",
+    "Beach & Pedersen, 2013": "Beach & Pedersen, 2013",
     "Beach (2004)": "Beach, 2004",
     "Beach (2018)": "Beach, 2018",
     "Beach (2021)": "Beach, 2021",
@@ -3872,8 +3881,12 @@
     "Buscha et al., 2021": "Buscha et al., 2021",
     "Busco (1991)": "Busco, 1991",
     "Busco, 1991": "Busco, 1991",
+    "Busemeyer & Trampusch (2012)": "Busemeyer & Trampusch, 2012",
+    "Busemeyer & Trampusch, 2012": "Busemeyer & Trampusch, 2012",
     "Busemeyer (2009)": "Busemeyer, 2009",
+    "Busemeyer (2015)": "Busemeyer, 2015",
     "Busemeyer, 2009": "Busemeyer, 2009",
+    "Busemeyer, 2015": "Busemeyer, 2015",
     "Bush (1945)": "Bush, 1945",
     "Bush (1949)": "Bush, 1949",
     "Bush (2017)": "Bush, 2017",
@@ -5377,8 +5390,10 @@
     "Collier & Morgan, 2008": "Collier & Morgan, 2008",
     "Collier (1994)": "Collier, 1994",
     "Collier (1999)": "Collier, 1999",
+    "Collier (2011)": "Collier, 2011",
     "Collier, 1994": "Collier, 1994",
     "Collier, 1999": "Collier, 1999",
+    "Collier, 2011": "Collier, 2011",
     "Collin (2024)": "Collin, 2024",
     "Collin, 2024": "Collin, 2024",
     "Collings (1994)": "Collings, 1994",
@@ -5896,6 +5911,8 @@
     "Culliney, 2021": "Culliney, 2021",
     "Cullum Clark (2022)": "Cullum Clark, 2022",
     "Cullum Clark, 2022": "Cullum Clark, 2022",
+    "Culpepper (2003)": "Culpepper, 2003",
+    "Culpepper, 2003": "Culpepper, 2003",
     "Cummings & Kiesler (2005)": "Cummings & Kiesler, 2005",
     "Cummings & Kiesler, 2005": "Cummings & Kiesler, 2005",
     "Cummings (1985)": "Cummings, 1985",
@@ -7877,6 +7894,8 @@
     "Eugene Bardach & Robert Kagan, 1982": "Eugene Bardach & Robert Kagan, 1982",
     "Eugene Belisle (1944)": "Eugene Belisle, 1944",
     "Eugene Belisle, 1944": "Eugene Belisle, 1944",
+    "Euler (2013)": "Euler, 2013",
+    "Euler, 2013": "Euler, 2013",
     "European Commission (1993a)": "European Commission, 1993a",
     "European Commission (1993b)": "European Commission, 1993b",
     "European Commission (1995)": "European Commission, 1995",
@@ -7884,8 +7903,11 @@
     "European Commission (1997b)": "European Commission, 1997b",
     "European Commission (2007)": "European Commission, 2007",
     "European Commission (2010)": "European Commission, 2010",
+    "European Commission (2012)": "European Commission, 2012",
     "European Commission (2016)": "European Commission, 2016",
+    "European Commission (2017)": "European Commission, 2017",
     "European Commission (2019)": "European Commission, 2019",
+    "European Commission (2020)": "European Commission, 2020",
     "European Commission (2021)": "European Commission, 2021",
     "European Commission (2022)": "European Commission, 2022",
     "European Commission, 1993a": "European Commission, 1993a",
@@ -7896,8 +7918,13 @@
     "European Commission, 1997b": "European Commission, 1997b",
     "European Commission, 2007": "European Commission, 2007",
     "European Commission, 2010": "European Commission, 2010",
+    "European Commission, 2012": "European Commission, 2012",
     "European Commission, 2016": "European Commission, 2016",
+    "European Commission, 2017": "European Commission, 2017",
+    "European Commission, 2017a": "European Commission, 2017",
     "European Commission, 2019": "European Commission, 2019",
+    "European Commission, 2020": "European Commission, 2020",
+    "European Commission, 2020a": "European Commission, 2020",
     "European Commission, 2021": "European Commission, 2021",
     "European Commission, 2022": "European Commission, 2022",
     "European Council (1997)": "European Council, 1997",
@@ -10011,8 +10038,12 @@
     "Graczewski et al., 2009": "Graczewski et al., 2009",
     "Graeber (2012)": "Graeber, 2012",
     "Graeber, 2012": "Graeber, 2012",
+    "Graf & Marques (2022)": "Graf & Marques, 2022",
+    "Graf & Marques, 2022": "Graf & Marques, 2022",
     "Graf (2015)": "Graf, 2015",
+    "Graf (2018)": "Graf, 2018",
     "Graf, 2015": "Graf, 2015",
+    "Graf, 2018": "Graf, 2018",
     "Graff (2008)": "Graff, 2008",
     "Graff, 2008": "Graff, 2008",
     "Graham & Hebert (2010)": "Graham & Hebert, 2010",
@@ -15725,6 +15756,8 @@
     "Liston et al., 2006": "Liston et al., 2006",
     "Littell (2000)": "Littell, 2000",
     "Littell, 2000": "Littell, 2000",
+    "Littig (2009)": "Littig, 2009",
+    "Littig, 2009": "Littig, 2009",
     "Little & Rubin (1989)": "Little & Rubin, 1989",
     "Little & Rubin, 1989": "Little & Rubin, 1989",
     "Little (1991)": "Little, 1991",
@@ -20465,6 +20498,8 @@
     "Polit & Beck, 2006": "Polit & Beck, 2006",
     "Politécnico de Coimbra (2023)": "Politécnico de Coimbra, 2023",
     "Politécnico de Coimbra, 2023": "Politécnico de Coimbra, 2023",
+    "Pollack (1994)": "Pollack, 1994",
+    "Pollack, 1994": "Pollack, 1994",
     "Pollard (1985)": "Pollard, 1985",
     "Pollard (2008)": "Pollard, 2008",
     "Pollard (2011)": "Pollard, 2011",
@@ -20575,6 +20610,10 @@
     "Potter, 2020": "Potter, 2020",
     "Pouliot & Thérien (2018)": "Pouliot & Thérien, 2018",
     "Pouliot & Thérien, 2018": "Pouliot & Thérien, 2018",
+    "Pouliot (2015)": "Pouliot, 2015",
+    "Pouliot, 2015": "Pouliot, 2015",
+    "Poulsen & Eberhardt (2016)": "Poulsen & Eberhardt, 2016",
+    "Poulsen & Eberhardt, 2016": "Poulsen & Eberhardt, 2016",
     "Poverty Comparisons (1994)": "Poverty Comparisons, 1994",
     "Poverty Comparisons, 1994": "Poverty Comparisons, 1994",
     "Powdthavee et al. (2018)": "Powdthavee et al., 2018",
@@ -22265,6 +22304,10 @@
     "Sabatier, 1991": "Sabatier, 1991",
     "Sabato (1993)": "Sabato, 1993",
     "Sabato, 1993": "Sabato, 1993",
+    "Sabel & Zeitlin (2012a)": "Sabel & Zeitlin, 2012a",
+    "Sabel & Zeitlin (2012b)": "Sabel & Zeitlin, 2012b",
+    "Sabel & Zeitlin, 2012a": "Sabel & Zeitlin, 2012a",
+    "Sabel & Zeitlin, 2012b": "Sabel & Zeitlin, 2012b",
     "Sabine (1951)": "Sabine, 1951",
     "Sabine, 1951": "Sabine, 1951",
     "Sacerdote (2001)": "Sacerdote, 2001",
@@ -25233,6 +25276,8 @@
     "Taspinar-Sener, 2023": "Taspinar-Sener, 2023",
     "Tavis Jules & Matthew Thomas (2021)": "Tavis Jules & Matthew Thomas, 2021",
     "Tavis Jules & Matthew Thomas, 2021": "Tavis Jules & Matthew Thomas, 2021",
+    "Tavory (2020)": "Tavory, 2020",
+    "Tavory, 2020": "Tavory, 2020",
     "Tawaldi et al. (2023)": "Tawaldi et al., 2023",
     "Tawaldi et al., 2023": "Tawaldi et al., 2023",
     "Tawarik (2021)": "Tawarik, 2021",
@@ -25386,11 +25431,13 @@
     "Thelen (2003)": "Thelen, 2003",
     "Thelen (2004)": "Thelen, 2004",
     "Thelen (2007)": "Thelen, 2007",
+    "Thelen (2014)": "Thelen, 2014",
     "Thelen et al. (2022)": "Thelen et al., 2022",
     "Thelen et al., 2022": "Thelen et al., 2022",
     "Thelen, 2003": "Thelen, 2003",
     "Thelen, 2004": "Thelen, 2004",
     "Thelen, 2007": "Thelen, 2007",
+    "Thelen, 2014": "Thelen, 2014",
     "Theobald (2021)": "Theobald, 2021",
     "Theobald, 2021": "Theobald, 2021",
     "Theodor Adorno (1962)": "Theodor Adorno, 1962",
@@ -26983,6 +27030,8 @@
     "Warfa, 2016": "Warfa, 2016a",
     "Warfa, 2016a": "Warfa, 2016b",
     "Warfa, 2016b": "Warfa, 2016b",
+    "Warleigh-Lack & Drachenberg (2011)": "Warleigh-Lack & Drachenberg, 2011",
+    "Warleigh-Lack & Drachenberg, 2011": "Warleigh-Lack & Drachenberg, 2011",
     "Warleigh-Lack & Rosamond (2010)": "Warleigh-Lack & Rosamond, 2010",
     "Warleigh-Lack & Rosamond, 2010": "Warleigh-Lack & Rosamond, 2010",
     "Warmington & Murphy (2004)": "Warmington & Murphy, 2004",
@@ -27356,6 +27405,8 @@
     "Wickman, 2004": "Wickman, 2004",
     "Wideman (1993)": "Wideman, 1993",
     "Wideman, 1993": "Wideman, 1993",
+    "Wieland (2015)": "Wieland, 2015",
+    "Wieland, 2015": "Wieland, 2015",
     "Wieman et al. (2008)": "Wieman et al., 2008",
     "Wieman et al., 2008": "Wieman et al., 2008",
     "Wiener (1972)": "Wiener, 1972",
@@ -29585,6 +29636,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/instruments/tests/Medical College Admission Test.md"
+      ],
+      "title": ""
+    },
+    "AAW, 2019": {
+      "aliases": [
+        "AAW, 2019",
+        "AAW (2019)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "AAW, 2019"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
       ],
       "title": ""
     },
@@ -37118,6 +37184,21 @@
       ],
       "title": ""
     },
+    "Antunes, 2016": {
+      "aliases": [
+        "Antunes, 2016",
+        "Antunes (2016)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Antunes, 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
+      ],
+      "title": ""
+    },
     "António Nóvoa, 2002": {
       "aliases": [
         "António Nóvoa, 2002",
@@ -40359,14 +40440,29 @@
       ],
       "title": ""
     },
-    "BMBF, 2013": {
+    "BMBF, 2013a": {
       "aliases": [
-        "BMBF, 2013",
-        "BMBF (2013)"
+        "BMBF, 2013a",
+        "BMBF (2013a)"
       ],
       "doi": "",
       "identity_keys": [
         "BMBF, 2013a"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
+      ],
+      "title": ""
+    },
+    "BMBF, 2013b": {
+      "aliases": [
+        "BMBF, 2013b",
+        "BMBF (2013b)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "BMBF, 2013b"
       ],
       "isbn": "",
       "seen_in": [
@@ -40990,6 +41086,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Modeling the Effects of Grade Retention in High School"
+    },
+    "Baethge & Wolter, 2015": {
+      "aliases": [
+        "Baethge & Wolter, 2015",
+        "Baethge & Wolter (2015)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Baethge & Wolter, 2015"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
+      ],
+      "title": ""
     },
     "Bagasi, 2014": {
       "aliases": [
@@ -45140,6 +45251,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26.md"
+      ],
+      "title": ""
+    },
+    "Beach & Pedersen, 2013": {
+      "aliases": [
+        "Beach & Pedersen, 2013",
+        "Beach & Pedersen (2013)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Beach & Pedersen, 2013"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
       ],
       "title": ""
     },
@@ -58000,6 +58126,21 @@
       "seen_in": [],
       "title": "The impact of a Hispanic parental involvement literacy program on limited English proficiency students in Grades 1, 2, and 3."
     },
+    "Busemeyer & Trampusch, 2012": {
+      "aliases": [
+        "Busemeyer & Trampusch, 2012",
+        "Busemeyer & Trampusch (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Busemeyer & Trampusch, 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
+      ],
+      "title": ""
+    },
     "Busemeyer, 2009": {
       "aliases": [
         "Busemeyer, 2009",
@@ -58014,6 +58155,21 @@
         "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Hippach-Schneider_Rieder_2022_RCIE.md"
       ],
       "title": "Asset specificity, institutional complementarities and the variety of skill regimes in coordinated market economies"
+    },
+    "Busemeyer, 2015": {
+      "aliases": [
+        "Busemeyer, 2015",
+        "Busemeyer (2015)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Busemeyer, 2015"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
+      ],
+      "title": ""
     },
     "Bush, 1945": {
       "aliases": [
@@ -68932,6 +69088,21 @@
       ],
       "title": ""
     },
+    "Collier, 2011": {
+      "aliases": [
+        "Collier, 2011",
+        "Collier (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Collier, 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
+      ],
+      "title": ""
+    },
     "Collin, 2024": {
       "aliases": [
         "Collin, 2024",
@@ -72718,6 +72889,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Byrne_2025_InnovationCenters.md"
+      ],
+      "title": ""
+    },
+    "Culpepper, 2003": {
+      "aliases": [
+        "Culpepper, 2003",
+        "Culpepper (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Culpepper, 2003"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
       ],
       "title": ""
     },
@@ -87282,6 +87468,21 @@
       ],
       "title": ""
     },
+    "Euler, 2013": {
+      "aliases": [
+        "Euler, 2013",
+        "Euler (2013)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Euler, 2013"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
+      ],
+      "title": ""
+    },
     "European Commission, 1993a": {
       "aliases": [
         "European Commission, 1993a",
@@ -87388,6 +87589,21 @@
       ],
       "title": ""
     },
+    "European Commission, 2012": {
+      "aliases": [
+        "European Commission, 2012",
+        "European Commission (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "European Commission, 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
+      ],
+      "title": ""
+    },
     "European Commission, 2016": {
       "aliases": [
         "European Commission, 2016",
@@ -87400,6 +87616,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/eu/Europe 2020 Strategy.md"
+      ],
+      "title": ""
+    },
+    "European Commission, 2017": {
+      "aliases": [
+        "European Commission, 2017",
+        "European Commission (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "European Commission, 2017a"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
       ],
       "title": ""
     },
@@ -87417,6 +87648,21 @@
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
       "title": "EU-China – A strategic outlook"
+    },
+    "European Commission, 2020": {
+      "aliases": [
+        "European Commission, 2020",
+        "European Commission (2020)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "European Commission, 2020a"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
+      ],
+      "title": ""
     },
     "European Commission, 2021": {
       "aliases": [
@@ -102905,6 +103151,21 @@
       ],
       "title": ""
     },
+    "Graf & Marques, 2022": {
+      "aliases": [
+        "Graf & Marques, 2022",
+        "Graf & Marques (2022)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Graf & Marques, 2022"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
+      ],
+      "title": ""
+    },
     "Graf, 2015": {
       "aliases": [
         "Graf, 2015",
@@ -102917,6 +103178,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/higher-education/Neo-feudalism in Higher Education.md"
+      ],
+      "title": ""
+    },
+    "Graf, 2018": {
+      "aliases": [
+        "Graf, 2018",
+        "Graf (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Graf, 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
       ],
       "title": ""
     },
@@ -107343,6 +107619,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md",
         "wiki/theories/higher-education/Academic Capitalism.md",
         "wiki/theories/political-economy-geopolitics/Historical Institutionalism.md",
         "wiki/theories/political-economy-geopolitics/Varieties of Capitalism.md"
@@ -144387,6 +144664,21 @@
       ],
       "title": ""
     },
+    "Littig, 2009": {
+      "aliases": [
+        "Littig, 2009",
+        "Littig (2009)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Littig, 2009"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
+      ],
+      "title": ""
+    },
     "Little & Rubin, 1989": {
       "aliases": [
         "Little & Rubin, 1989",
@@ -177430,6 +177722,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md",
         "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Rappleye_2006_RCIE.md"
       ],
       "title": ""
@@ -179021,6 +179314,21 @@
       ],
       "title": "Projeto @GIR Arranca No Terreno"
     },
+    "Pollack, 1994": {
+      "aliases": [
+        "Pollack, 1994",
+        "Pollack (1994)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Pollack, 1994"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
+      ],
+      "title": ""
+    },
     "Pollard, 1985": {
       "aliases": [
         "Pollard, 1985",
@@ -179868,6 +180176,36 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Policy and Society/Argument_Stone_2020_PolSoc.md"
+      ],
+      "title": ""
+    },
+    "Pouliot, 2015": {
+      "aliases": [
+        "Pouliot, 2015",
+        "Pouliot (2015)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Pouliot, 2015"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
+      ],
+      "title": ""
+    },
+    "Poulsen & Eberhardt, 2016": {
+      "aliases": [
+        "Poulsen & Eberhardt, 2016",
+        "Poulsen & Eberhardt (2016)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Poulsen & Eberhardt, 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
       ],
       "title": ""
     },
@@ -192255,6 +192593,36 @@
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Feeding Frenzy.md",
         "wiki/concepts/political-economy-geopolitics/Goldfish Bowl Politics.md"
+      ],
+      "title": ""
+    },
+    "Sabel & Zeitlin, 2012a": {
+      "aliases": [
+        "Sabel & Zeitlin, 2012a",
+        "Sabel & Zeitlin (2012a)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Sabel & Zeitlin, 2012a"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
+      ],
+      "title": ""
+    },
+    "Sabel & Zeitlin, 2012b": {
+      "aliases": [
+        "Sabel & Zeitlin, 2012b",
+        "Sabel & Zeitlin (2012b)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Sabel & Zeitlin, 2012b"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
       ],
       "title": ""
     },
@@ -208292,6 +208660,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md",
         "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Grek_2009_JEdPolicy.md",
         "wiki/concepts/comparative-education/Shape-Shifting.md",
         "wiki/concepts/educational-policy-reform/Policy Mobility.md",
@@ -213753,6 +214122,21 @@
       ],
       "title": ""
     },
+    "Tavory, 2020": {
+      "aliases": [
+        "Tavory, 2020",
+        "Tavory (2020)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Tavory, 2020"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
+      ],
+      "title": ""
+    },
     "Tawaldi et al., 2023": {
       "aliases": [
         "Tawaldi et al., 2023",
@@ -214886,6 +215270,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Discourse Studies in the Cultural Politics of Education/Argument_Verger_2019_Discourse.md",
         "wiki/arguments/journal-articles/Educational Research and Evaluation/Argument_Cowen_2019_ERE.md",
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md",
         "wiki/arguments/journal-articles/Politics/Argument_VanDerHeijden_2011_Politics.md",
         "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Hippach-Schneider_Rieder_2022_RCIE.md",
         "wiki/concepts/political-economy-geopolitics/Institutional Complementarity.md",
@@ -214911,6 +215296,21 @@
         "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Hippach-Schneider_Rieder_2022_RCIE.md"
       ],
       "title": "Contemporary challenges to the German vocational training systems"
+    },
+    "Thelen, 2014": {
+      "aliases": [
+        "Thelen, 2014",
+        "Thelen (2014)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Thelen, 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
+      ],
+      "title": ""
     },
     "Theobald, 2021": {
       "aliases": [
@@ -226320,6 +226720,21 @@
       "seen_in": [],
       "title": "Using cooperative learning to teach chemistry: A meta-analytic review."
     },
+    "Warleigh-Lack & Drachenberg, 2011": {
+      "aliases": [
+        "Warleigh-Lack & Drachenberg, 2011",
+        "Warleigh-Lack & Drachenberg (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Warleigh-Lack & Drachenberg, 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
+      ],
+      "title": ""
+    },
     "Warleigh-Lack & Rosamond, 2010": {
       "aliases": [
         "Warleigh-Lack & Rosamond, 2010",
@@ -229051,6 +229466,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Knowledge Base Construction as a Pedagogical Activity"
+    },
+    "Wieland, 2015": {
+      "aliases": [
+        "Wieland, 2015",
+        "Wieland (2015)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Wieland, 2015"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
+      ],
+      "title": ""
     },
     "Wieman et al., 2008": {
       "aliases": [
