@@ -34841,6 +34841,18 @@
     ]
   },
   {
+    "title": "Philip J. Idenburg",
+    "type": "person",
+    "path": "wiki/persons/netherlands/Philip J. Idenburg.md",
+    "aliases": [
+      "菲利普·J·伊登堡",
+      "菲利普·伊登堡",
+      "伊登堡",
+      "Philip Jacobus Idenburg",
+      "Philippus Jacobus Idenburg"
+    ]
+  },
+  {
     "title": "Ton de Jong",
     "type": "person",
     "path": "wiki/persons/netherlands/Ton de Jong.md",
@@ -39789,6 +39801,17 @@
     ]
   },
   {
+    "title": "Susanne Shafer",
+    "type": "person",
+    "path": "wiki/persons/us/Susanne Shafer.md",
+    "aliases": [
+      "苏珊娜·谢弗",
+      "苏珊娜·沙弗",
+      "沙弗",
+      "Susanne M. Shafer"
+    ]
+  },
+  {
     "title": "Talcott Parsons",
     "type": "person",
     "path": "wiki/persons/us/Talcott Parsons.md",
@@ -42865,6 +42888,16 @@
       "欧洲核子研究中心",
       "European Organization for Nuclear Research",
       "Organisation européenne pour la recherche nucléaire"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "Council of Europe",
+    "type": "fact",
+    "path": "wiki/facts/europe/Council of Europe.md",
+    "aliases": [
+      "欧洲委员会",
+      "COE"
     ],
     "subtype": "organization"
   },
@@ -51299,6 +51332,17 @@
       "Purdue Discovery District",
       "Discovery District",
       "普渡发现区"
+    ],
+    "subtype": "event"
+  },
+  {
+    "title": "Recent Curriculum Developments in France, West Germany and Italy 1969",
+    "type": "fact",
+    "path": "wiki/facts/us/Recent Curriculum Developments in France, West Germany and Italy 1969.md",
+    "aliases": [
+      "Recent Curriculum Developments in France, West Germany and Italy",
+      "recent-curriculum-developments-in-france-west-germany-and-italy-1969",
+      "法国、西德与意大利的近期课程发展"
     ],
     "subtype": "event"
   },
