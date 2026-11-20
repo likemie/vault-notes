@@ -215,6 +215,7 @@ class FloatingPanel {
     this.grips = [this.resizeGrip("left"), this.resizeGrip("right")];
     this.place = this.place.bind(this);
     this.bindPointer(this.handle, bounds => (dx, dy) => this.move(bounds.left + dx, bounds.top + dy));
+    this.listenForPointer();
     this.resize = new win.ResizeObserver(this.place);
     this.resize.observe(this.root);
     win.addEventListener("resize", this.place, { signal: this.events.signal });
@@ -281,7 +282,7 @@ class FloatingPanel {
   }
 
   place() {
-    if (this.root.hidden || this.interacting) return;
+    if (this.root.hidden || this.gesture) return;
     const { left, top, width: savedWidth, height: savedHeight, collapsed } = this.actions.state().settings;
     this.size(collapsed ? null : savedWidth, collapsed ? null : savedHeight);
     const width = this.root.offsetWidth;
@@ -334,32 +335,39 @@ class FloatingPanel {
   }
 
   bindPointer(handle, begin) {
-    const { signal } = this.events;
-    let drag;
     handle.addEventListener("pointerdown", event => {
-      if (event.button !== 0 || this.interacting) return;
-      drag = {
+      if (event.button !== 0 || this.gesture) return;
+      this.gesture = {
         id: event.pointerId, x: event.clientX, y: event.clientY, patch: null,
         update: begin(this.root.getBoundingClientRect()),
       };
-      this.interacting = true;
       handle.setPointerCapture(event.pointerId);
       event.preventDefault();
-    }, { signal });
-    handle.addEventListener("pointermove", event => {
-      if (drag?.id !== event.pointerId) return;
-      drag.patch = drag.update(event.clientX - drag.x, event.clientY - drag.y);
-    }, { signal });
-    const finish = event => {
-      if (drag?.id !== event.pointerId) return;
-      const { patch } = drag;
-      drag = null;
-      this.interacting = false;
+    }, { signal: this.events.signal });
+  }
+
+  listenForPointer() {
+    const options = { signal: this.events.signal, capture: true };
+    const finish = () => {
+      const patch = this.gesture?.patch;
+      this.gesture = null;
       if (patch) this.actions.geometry(patch);
     };
-    for (const event of ["pointerup", "pointercancel", "lostpointercapture"]) {
-      handle.addEventListener(event, finish, { signal });
+    this.win.addEventListener("pointermove", event => {
+      const drag = this.gesture;
+      if (drag?.id !== event.pointerId) return;
+      if (!event.buttons) {
+        finish();
+        return;
+      }
+      drag.patch = drag.update(event.clientX - drag.x, event.clientY - drag.y);
+    }, options);
+    for (const name of ["pointerup", "pointercancel"]) {
+      this.win.addEventListener(name, event => {
+        if (this.gesture?.id === event.pointerId) finish();
+      }, options);
     }
+    this.win.addEventListener("blur", finish, { signal: this.events.signal });
   }
 
   destroy() {

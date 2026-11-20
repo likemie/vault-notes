@@ -27,6 +27,7 @@
   margin: 0;
   color: inherit;
 }
+.auf-float[hidden],
 .auf-float [hidden],
 .auf-modal [hidden] {
   display: none !important;
