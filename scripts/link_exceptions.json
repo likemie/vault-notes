@@ -1453,6 +1453,10 @@
     {
       "sentence": "**话语同盟的跨国整合** 经合组织为跨国教育研究精英提供了制度依托，与世界银行、国际货币基金组织（International Monetary Fund, IMF）、世界贸易组织（World Trade Organization, WTO）及达沃斯 WEF 所代表的跨国管理与金融精英深度融合，推动国家区位竞争与知识社会成为主导认知框架（Martens et al., 2004, 2007; Martens & Weymann, 2007）。",
       "target": "wiki/concepts/comparative-education/Transnational Education.md"
+    },
+    {
+      "sentence": "**测验距离偏差** 测评成绩高低主要取决于测试题型与受测国本土教学大纲的亲疏邻近度，而非绝对认知能力（OECD, 2007）。",
+      "target": "wiki/concepts/educational-psychology/Absolute Knowing.md"
     }
   ]
 }
