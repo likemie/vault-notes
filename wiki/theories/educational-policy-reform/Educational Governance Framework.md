@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 ---
@@ -78,13 +78,13 @@ updated: 2026-11-19
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 德语区教育治理[[Analytic Framework\|分析框架]]由社会学家乌韦·希曼克（Uwe Schimank, 2007）与教育学家[[Herbert Altrichter\|赫伯特·阿尔特里希特]]（Herbert Altrichter, 2005, 2016）、卡塔琳娜·马格·梅尔基（Katharina Maag Merki, 2016）等学者系统奠定。核心纲领性文本载于《教育社会学杂志》（*Österreichische Zeitschrift für Soziologie*）创刊专号及权威专著《学校系统新治理手册》（*Handbuch Neue Steuerung im Schulsystem*, Springer VS）。
+> - **提出者与原始文本** 德语区教育治理[[Analytic Framework\|分析框架]]由社会学家乌韦·希曼克（Uwe Schimank, 2007）与教育学家[[Herbert Altrichter\|赫伯特·阿尔特里希特]]（Herbert Altrichter, 2005, 2016）、卡塔琳娜·马格·梅尔基（Katharina Maag Merki, 2016）等学者系统建构。核心纲领性文本载于《教育社会学杂志》（*Österreichische Zeitschrift für Soziologie*）创刊专号及权威专著《学校系统新治理手册》（*Handbuch Neue Steuerung im Schulsystem*, Springer VS）。
 > - **原初问题** 面对 1990 年代以来的[[School Autonomy\|学校自主权]]改革与 2000 年后 [[PISA]] 冲击驱动的国家教育质量标准出台，传统以自上而下科层指令为前提的行政法学与规划论彻底失效，亟需一套能够整合宏观国家规制与微观学校能动性的全新分析词汇。
 > - **理论资源与材料** 汲取雷纳特·梅恩茨（Renate Mayntz）与弗里茨·沙尔普夫（Fritz Scharpf）的行动者中心制度主义、[[Helmut Fend\|赫尔穆特·芬德]]（Helmut Fend, 2006）的学校多层级功能理论，以及[[John W. Meyer\|约翰·迈耶]]与布赖恩·罗恩（Meyer & Rowan, 1977）关于制度仪式与松散结合（Loose Coupling）的组织社会学洞见。
 > - **形成路径** 从单一国家控制[[Paradigm\|范式]]抽离出两大基本维度：**调控维度的演进**（从事前投入规制转向事后产出监控）与**行动者维度的重组**（多元利益相关方权责再分配与协商网络建立）。
 
 > [!dev-timeline] 理论版本与贡献
-> - **2005年 — 理论奠基** [[Herbert Altrichter\|赫伯特·阿尔特里希特]]（Herbert Altrichter）等学者发表《治理改革的特征与问题》，确立从行政管理（Verwaltung）向教育治理（Governance）的研究范式转换。
+> - **2005年 — 理论确立** [[Herbert Altrichter\|赫伯特·阿尔特里希特]]（Herbert Altrichter）等学者发表《治理改革的特征与问题》，确立从行政管理（Verwaltung）向教育治理（Governance）的研究范式转换。
 > - **2006年 — [[Recontextualization|再情境化]]与多层链条整合** [[Helmut Fend\|赫尔穆特·芬德]]（Helmut Fend）出版《学校新理论》（*Neue Theorie der Schule*），引入再情境化理论，将治理分析具体化为治理工具、[[School Leadership\|学校领导]]、教师教学、学习过程与学业成果五级多层因果链条。
 > - **2016年 — 权威手册集大成** 阿尔特里希特与马格·梅尔基主编《学校系统新治理手册》，将督导评估、自评规划、数据反馈与校长领导力纳入统一治理构件。
 > - **2017年 — 国际组织[[Epistemic Governance|认知治理]]扩展** [[Argument_Zapp_2017_IJED|Zapp (2017, pp. 2–3, 9–10)]] 将教育治理分析框架由国家与单校多层级系统拓展至全球多边组织，结合[[Three Pillars of Institutions|制度三支柱]]与治理工具分类，确立规制性硬治理、规范性软治理与认知治理三维谱系，揭示[[Knowledge Production|知识生产]]、管理与传播作为全球教育治理的核心机制。
@@ -92,7 +92,7 @@ updated: 2026-11-19
 
 ---
 
-> [!entry-map] 关键概念与理论构件
+> [!theory-constructs] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
