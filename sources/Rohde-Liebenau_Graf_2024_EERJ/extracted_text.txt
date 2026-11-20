@@ -1,0 +1,1000 @@
+--- PAGE 1 ---
+https://doi.org/10.1177/14749041221148282
+European Educational Research Journal
+2024, Vol. 23(4) 503 –523
+© The Author(s) 2022
+Article reuse guidelines:  
+sagepub.com/journals-permissions
+DOI: 10.1177/14749041221148282
+journals.sagepub.com/home/eer
+Two instruments, one melody: The 
+parallel evolvement of European and 
+German alliances for apprenticeships
+Judith Rohde-Liebenau
+Hertie School – The University of Governance in Berlin, Germany
+Lukas Graf
+Hertie School – The University of Governance in Berlin, Germany
+Abstract
+European education and training policies have gained momentum with the debt crisis and soaring 
+youth unemployment. In 2013, the ‘European Alliance for Apprenticeships’ was launched. In 
+Germany, a role model for apprenticeship training in Europe, a national ‘Alliance for Initial and 
+Further Training’ was signed just one year later. Both Alliances represent a new, experimentalist 
+governance mode, in which a novel steering entity orchestrates stakeholder cooperation. What 
+explains the parallel evolvement of alliances for apprenticeships in Germany and at the EU level? 
+Studying developments around the Alliances in the last two decades, we trace and critically 
+discuss four theorised drivers: (1) German-driven VET governance reforms with a strong influence 
+of German best practices, (2) EU-driven cooperation that influences German VET policies, (3) 
+cross-fertilising reforms and (4) externally driven, parallel reforms in response to governance 
+mega-challenges. Our analysis supports a prevalence of the fourth driver: increasingly complex 
+policy problems push both the EU and Germany to implement policy innovations such as the 
+Alliances for apprenticeship training. In an experimentalist setting that often entails a governance 
+by (seemingly neutral) numbers, benchmarking and learning, this also gives leeway to Germany to 
+present itself as a pioneer of the EU’s focus on dual training.
+Keywords
+Education governance, European Union, vocational education and training, experimentalist 
+governance, alliance for apprenticeships
+Corresponding author:
+Judith Rohde-Liebenau, Hertie School – The University of Governance in Berlin, Friedrichstr. 180, Berlin 10117, 
+Germany. 
+Email: rohde-liebenau@hertie-school.org
+General submission
+1148282EER0010.1177/14749041221148282European Educational Research JournalRohde-Liebenau and Graf
+research-article2022
+
+--- PAGE 2 ---
+504 European Educational Research Journal 23(4)
+Introduction
+Although education can be seen as integral to the rise and reproduction of nation states (Hobsbawm, 
+2007; Tröhler, 2016), education and training have also been part of European integration since its 
+beginnings (Rohde-Liebenau, 2020). Governance of training – with its rationale of occupational 
+qualifications and training of skilled workers clearly aligned with the early understanding of the 
+European project as an economic one (Antunes, 2016) – has already been explicitly mentioned in 
+the Treaty of Rome in 1957. The advancement of a European governance model of V ocational 
+Education and Training (VET) has been further promoted by the Lisbon European Council (2000) 
+in claiming that the European Union should become ‘the most competitive and dynamic knowl-
+edge-based economy in the world’. In the case of cooperation around VET specifically, the 
+European Commission emphasises that Germany is one of few member states with ‘world-class 
+VET systems’ (European Commission, 2012). In recent years, the EU further enhanced its involve-
+ment in education and training through the strategic framework for European cooperation in educa-
+tion and training 2020 (ET 2020). Crucially, in 2013, the European Commission launched the 
+European Alliance for Apprenticeships, which was renewed in 2020 (European Commission, 
+2020b). The European Alliance was initiated to strengthen apprenticeship training in member 
+states and its goal is to increase VET quality, supply and attractiveness by linking relevant stake-
+holders, VET providers and think tanks at the European and national levels. The Alliance is man-
+aged by the European Commission and relies on the implementation of national commitments and 
+stakeholder pledges (Antunes, 2016; Poulsen and Eberhardt, 2016). Strikingly, a German Alliance 
+for Initial and Further Training (‘Allianz für Aus- und Weiterbildung’) was signed only one year 
+after the European Alliance and is referred to as a ‘national equivalent of the European initiative’ 
+(European Commission, 2017b: 66). This German Alliance, renewed in 2019 (AAW, 2019), was 
+launched by the federal government, businesses, unions, German states (Länder) and the Federal 
+Employment Agency (BMBF, 2013a).
+Given these strikingly similar and almost parallel developments in German and EU VET gov-
+ernance, the paper explores to what extent Germany or the EU have been drivers in the evolvement 
+of the two Alliances – or whether alternative driving forces are more relevant: What explains the 
+parallel evolvement of alliances for apprenticeships in Germany and at the EU level? In address-
+ing this question, this paper also contributes to a better understanding of the extent to which 
+German and European VET governance reforms are interlinked.
+This paper focuses on the alliances for apprenticeships with the two Alliances as nested cases. 
+Analysing parallel developments in Germany and at the EU level, we also shed light on an emer -
+gent European VET governance model (Graf and Marques, 2022; Powell et al., 2012). We adopt a 
+governance perspective, which is interdisciplinary in nature and implies that we consider a broad 
+range of literature, while focussing on VET governance. The existing literature (Antunes, 2016; 
+Busemeyer, 2015; Poulsen and Eberhardt, 2016) remains rather vague regarding different drivers 
+in the evolvement of the Alliances and especially their relationship. Reviewing the literature, we 
+argue that the Alliances represent a new mode of governance (Héritier and Rhodes, 2011; 
+Walkenhorst, 2008) and a shift towards experimenting (Sabel and Zeitlin, 2012b) in both EU and 
+national VET governance. We contribute to the literature by theorising four possible drivers of 
+VET governance reforms towards experimenting at the EU and national level, pointing to (1) 
+nationally driven reforms, (2) EU-driven ones, (3) a cross-fertilisation or (4) externally driven 
+reforms due to governance mega-challenges, for instance, around liberalisation and globalisation, 
+technological change and digitisation, or ecological transformations of economies. The theorisa-
+tion of drivers contributes to uncovering the black box of European education policymaking 
+(Souto-Otero, 2015) beyond the specific case. The drivers we develop here can inform studies on 
+--- PAGE 3 ---
+Rohde-Liebenau and Graf 505
+the European education area and European soft coordination and integration in nationally domi-
+nated policy fields beyond the case of VET governance.
+In the empirical study, to trace the prevalence of the different drivers, the paper analyses the emer-
+gence and structural and thematic set-up of the two Alliances relying on German and EU policy docu-
+ments as well as semi-structured interviews with German and EU officials. Process tracing reveals a 
+prevalence of external driving forces (Driver 4) or, more precisely, the evolvement of the respective 
+Alliance as a parallel, but separate response of the EU and Germany to similar mega-challenges. 
+Governance reforms towards such soft, experimentalist governance to deal with uncertainties in view 
+of increasingly complex policy problems make it possible for both the EU and Germany to trigger 
+policy innovations inspired by best practices. This then still gives leeway to Germany to present itself 
+as a best-practice VET system and a pioneer of the EU’s focus on dual training.
+Theoretical framework: Four drivers of governance reforms
+In line with the Bologna (1999) and Copenhagen (2002) processes for higher education and VET 
+integration, a European model of education and training is emerging (Antunes, 2006; Graf and 
+Marques, 2022; Kushnir, 2016; Powell et al., 2012; Telling and Serapioni, 2019; Ursin et al., 2010; 
+Walkenhorst, 2008). It needs to be put into practice in a governance field traditionally regarded as 
+a stronghold of the nation-state. A governance perspective (Scharpf, 1997) is crucial for this 
+research, as it allows us to look at coordination of both public and private actors as well as present 
+ways of steering for the specific case of alliances for VET governance and thus focuses on tasks 
+rather than governments as an institution (Souto-Otero and Beneito-Montagut, 2016). In the fol-
+lowing, we theorise four drivers of governance reforms from the existing interdisciplinary litera-
+ture to provide a holistic picture of possible interactions between the European and national 
+governance levels – in our case, referring to VET governance and specifically, the reforms towards 
+alliances for apprenticeships. The four drivers are: (1) German-driven VET governance reforms 
+with a strong influence of German best practices supplied to the EU level; (2) EU-driven coopera-
+tion given the EU-wide demand for VET integration and in turn, EU-driven developments of poli-
+cies in German VET governance; (3) cross-fertilising VET governance reforms signifying a mutual 
+influence; and (4) externally driven VET governance reforms that – each in their own right – 
+respond to more general governance mega-challenges VET systems are facing (e.g. around liber -
+alisation, digitisation and ecological transformations) in similar ways. These four drivers serve as 
+the analytical grid of the empirical study. We see them as ideal types and expect to see interactions 
+between them when looking at the empirical cases of alliances for apprenticeships.
+Germany’s VET governance as role model
+In Germany’s dual apprenticeship training, a defining part of the country’s education system 
+(Greinert, 2010; Wieland, 2015), school and workplace-based training is combined. German VET 
+governance is defined by decentralised cooperation (Culpepper, 2003; Emmenegger et al., 2019), 
+that is, a decentralised, multi-actor approach, involving business associations, chambers, unions 
+and state actors. Germany’s corporatist VET governance means that both private and public (state 
+and federal) actors cooperate to provide collective goods, which include portable skills and a safety 
+net for young people (Culpepper, 2003; Di Maio et al., 2019; Shavit and Muller, 2000). This also 
+implies that those who complete training usually have very good labour-market opportunities. The 
+fact that Germany’s VET system is attuned to employment policies has received praise across 
+countries, in particular for its success in addressing youth unemployment (Busemeyer and 
+Trampusch, 2012; Thelen, 2014).
+--- PAGE 4 ---
+506 European Educational Research Journal 23(4)
+Germany is understood as having an exemplary, ‘world-class’ VET system and as playing a key 
+role in European VET integration (Paterson, 2011; Powell et al., 2012). It could supply good prac-
+tices to the EU level (Euler, 2013; Fortwengel and Jackson, 2016) and functions as a role model for 
+a European governance model of VET, facilitating policy learning in other member states. In line 
+with theories on decentralised cooperation and the empirical observation that Germany’s VET 
+system is perceived as exemplary, Germany could be a driver for European governance reforms in 
+VET in general and a European Alliance for Apprenticeships in particular, potentially pushing 
+major elements of its own VET model at the EU level and across member states (Driver 1: 
+Germany). With Germany being a hypothesised dominant player in the emergence of the Alliances, 
+the theoretical expectation is that in our process-tracing analysis, we see an influence of German 
+governance practices on the establishment or configuration of the European Alliance. This influ-
+ence should be explicit in interviews or policy documents, either directly and pointing towards 
+alliances, for example, interviewees arguing that German officials advocated for the establishment 
+of an alliance in the European context, or indirectly and pointing towards VET governance in gen-
+eral, with German practices being cited as role-model practices the EU should ideally follow.
+Demand for EU soft coordination and relationship between EU and national 
+governance reforms
+In the emergent European education and training model (Powell et al., 2012), VET policies aim at 
+enhancing global competitiveness, but are also seen as crucial for achieving better socio-economic 
+outcomes (O’Reilly et al., 2015; Telling and Serapioni, 2019). The European Alliance for 
+Apprenticeships is one European policy initiative among several, such as the ‘European strategy 
+for smart, sustainable and inclusive growth’ (Europe 2020), the Youth Guarantee or the ET 2020 
+framework (cf. Antunes, 2016; Eeva, 2021).
+In the last decades, for arenas in which EU-level legal and/or significant political action was out 
+of scope, as is the case for EU governance of VET, the EU has increasingly relied on new modes 
+and soft forms of enhancing cooperation and coordination (Héritier and Rhodes, 2011; Walkenhorst, 
+2008). The Open Method of Coordination (OMC), initiated in 2000 for arenas in which EU-level 
+legal and/or significant political action was limited, is a prime example of a ‘soft’, non-hierarchical 
+EU policy-making instrument (Lange and Alexiadou, 2007). The European Commission as the 
+prime orchestrator of such coordination can rely on soft forms of incentivisation and comparison: 
+change is pushed through seemingly neutral indicators and benchmarking (Grek, 2010; Tveit and 
+Lundahl, 2018), progress is assessed (Nóvoa, 2013) and a lack of progress flagged. Ultimately, 
+learning should be achieved (Eeva, 2021; Grek, 2008), which is often based on administrative 
+exchange rather than (top-down) political action.
+In recent years, European VET cooperation has mostly taken place in ET 2020 aiming to ‘iden-
+tify, spread, measure and compare’ (Nóvoa, 2013) across countries to facilitate learning. Today, a 
+European Education Area Working Group on VET and the green and digital transitions continue 
+the OMC-style peer-learning activities (European Commission, 2022). Members of such Working 
+Groups are mostly member-state officials who receive guidance for national policy reforms and 
+support EU and national policy making (European Commission, 2019a, 2019b). More recently, the 
+European Skills Agenda absorbed parts of the previous ET 2020 framework (European Commission, 
+2020a) and called member states to join forces and ‘foster cooperation’ through the Pact for Skills, 
+which the European Alliance is a part of. Today, soft coordination remains central for employment, 
+education and other policy areas (de la Porte and Pochet, 2012; Eeva, 2021; Gilardi and Radaelli, 
+2012; Lange and Alexiadou, 2007; Lodge, 2007; Maggetti and Gilardi, 2014; Prpic, 2014).
+--- PAGE 5 ---
+Rohde-Liebenau and Graf 507
+While nations are still largely sovereign in VET, European integration through soft coordination 
+can be described as one of ‘creeping competence’ (Pollack, 1994) or ‘covert action’ (Murphy, 
+2003). A push towards a European model could result in member-state policy learning and possibly 
+a partial convergence of VET governance because seemingly soft governance platforms provide 
+potent tools for European actors to influence educational policies in the member states. Here, mul-
+tiple studies show how European governance is influencing national education systems (Alexiadou 
+and Lange, 2015; Bieber, 2010; Eeva, 2021; Grek, 2008; Maggetti and Gilardi, 2014; Nóvoa, 
+2013). Recent examples in VET are the establishment of the European Qualification Framework or 
+the European Credit System for V ocational Education and Training (Cort, 2010; Elken, 2016; Graf, 
+2015).
+Considering how EU-level VET governance is becoming influential through soft coordination, 
+EU-level soft cooperation is likely to be driven by the EU (here: the European Commission), which 
+in this very context pushes Germany to implement VET governance reforms such as the establish-
+ment of the German Alliance (Driver 2: EU). Hence, for this driver, the theoretical expectation is 
+that we see an explicit influence of the EU level, and possibly the European Alliance specifically, 
+in the evolvement of the German Alliance. While this happens through soft coordination, there 
+could still be a perceived push by the European Commission towards forming a national alliance, 
+which we expect to be expressed by interviewees or in documents if existing.
+Cross-inspirations in German and EU VET governance
+Modern education and training systems need to reconcile demands for quality education, social 
+inclusion and (economic) efficiency (Carstensen and Ibsen, 2021; Mayer and Solga, 2008). At the 
+EU level, a demand for integration is visible in VET: the EU increasingly sees education – and 
+especially apprenticeship training – as a means to enhance social cohesion (Graf and Marques, 
+2022; Protsch and Solga, 2017). EU soft coordination can provide a forum for mutual policy learn-
+ing through a voluntary, transnational exchange of experiences (Egeberg and Trondal, 2009) in the 
+form of experimentalist governance (Sabel and Zeitlin, 2012b). In cases of multi-polar power dis-
+tribution and strategic uncertainty (Kristensen and Morgan, 2012; Sabel and Zeitlin, 2012b), hier-
+archic goal setting for policy reforms is unfeasible and ‘command and control (. . .) play a minor 
+role’ (Héritier and Rhodes, 2011). In a more experimentalist set-up, a principal typically orches-
+trates (Blauberger and Rittberger, 2015) an iterative policy cycle and both monitors and bench-
+marks experiences emerging from the ground to improve the cycle. In this experimentalist cycle, 
+instead of hierarchical goal-setting, which is limited in cases of strategic uncertainty and multi-
+polar power distribution (Kristensen and Morgan, 2012; Sabel and Zeitlin, 2012b), the top level 
+(here: European Commission or nation state) learns from experiences on the ground. In forums for 
+soft coordination such as the aforementioned Working Groups, the most common tools are com-
+parisons (Nóvoa, 2013; Tveit and Lundahl, 2018) and learning (Lange and Alexiadou, 2010) to 
+support EU and national policy making (European Commission, 2019a). As intermediary plat-
+forms between different governance levels (European, national and subnational), the two Alliances 
+for apprenticeships enable various stakeholders to come together and deliberate on innovative poli-
+cies and concrete activities. How EU member states react to and use ‘best practices’ for recursive 
+learning is hence key to European integration of education and training.
+While soft coordination can provide the European Commission with leeway to push a certain 
+agenda (in line with a ‘driver EU’ as theorised above), soft coordination also provides a channel for 
+uploading elements of the German apprenticeship governance model to the EU level and for an 
+exchange and learning at the EU level – in the sense of a mutual influence. In the case of Germany’s 
+best-practice VET system of decentralised cooperation and dual training, it is important to note that 
+--- PAGE 6 ---
+508 European Educational Research Journal 23(4)
+this system relies heavily on its historically evolved institutional embeddedness (Emmenegger 
+et al., 2019; Hall and Soskice, 2001; Thelen, 2004): decentralised cooperation needs stable public 
+policies, intermediary platforms and shared logics of action. Considering again the soft governance 
+mechanisms in place at the EU level, it is possible that Germany’s VET governance practices 
+inspire and get hybridised (Padgett, 2003) through deliberations.
+Taken together, a cross-fertilisation in the sense of a mutual influence of German and EU-level 
+VET governance reforms can take place (Driver 3: Cross-fertilisation). The theoretical expectation 
+following this driver is that a mutual influence of German and EU governance reforms is expressed 
+in the empirical material, for example, in descriptions of mutual learning related to the formation 
+of the European and German Alliances. That is, Germany’s ‘good practices’ as part of the national 
+Alliance’s set-up could get deliberated on and hybridised at the EU level. At the same time, 
+EU-driven developments could inspire the structural set-up of the German Alliance. Ultimately, 
+such a cross-fertilisation – mutual learning between the EU and national levels rather than a clear 
+direction as hypothesised in Driver 1 and 2 – could lead to innovations from and for lower and 
+higher echelons of governance (Marks and Hooghe, 2016; Scharpf, 2001). For VET, a cross-ferti-
+lisation of best practices also seems likely due to the outlined demand for European integration in 
+this policy field.
+External drivers for VET governance reforms
+As opposed to the first three possible drivers, this section argues that the set-up of the Alliances 
+could be driven by increasingly complex governance challenges that can no longer adequately be 
+addressed through more traditional modes of governance. Mega-challenges create a new level of 
+uncertainty regarding adequate policy responses and actors seek new ways to deliberate on and 
+explore policy avenues together at (and across) relevant governance levels (Sabel and Zeitlin, 
+2012b). In this regard, while external challenges could in principle be important as part of the other 
+three theorised drivers as well, we hypothesise here that prevalent external challenges lead to paral-
+lel, but independent governance reforms in the absence of a clear driving force of the national or 
+EU level or of cross-fertilisation.
+Indeed, the challenges that VET governance faces are manifold. At the European level, VET 
+and its governance have gained particular momentum in light of the financial crisis and soaring 
+youth unemployment in several EU member states (European Commission, 2012). Today, VET 
+systems are expected to provide young people with general analytical skills for them to thrive in a 
+knowledge society and to attract young people despite an ongoing academisation in most European 
+countries (Baker, 2014). Increasing the permeability between VET and higher education, providing 
+employment opportunities to young people and addressing questions of social inequality are of 
+paramount importance (Baethge and Wolter, 2015; Graf, 2018; Powell and Solga, 2010). Policy 
+initiatives such as a Youth Guarantee for good-quality offers of education, training or employment 
+(EP, 2018) or the ‘Pact for Skills’ (European Commission, 2020a) underline the need to seek new 
+governance solutions at the European level.
+Despite being a role-model VET system, Germany’s traditional decentralised mode of govern-
+ance is also increasingly being challenged. Germany’s VET system specifically is struggling with 
+migrant integration, the provision of general analytical skills and its attractiveness in the face of 
+academisation (Graf, 2018; Thelen, 2014). Improving the quality of apprenticeship training should 
+tackle unemployment and advance economic stability and social cohesion (Bonoli and Wilson, 
+2019). In this context, Germany’s lack of permeability between VET and general education is seen 
+to delimit educational and employment opportunities for young people and raises questions of 
+social inequality (Ertl, 2020; Powell and Solga, 2010). More generally, even in Germany’s 
+--- PAGE 7 ---
+Rohde-Liebenau and Graf 509
+exemplary VET system, a need to (re-)connect relevant stakeholders beyond traditional corporatist 
+governance structures (Martin and Graf, 2019) has been observed given mega-trends such as dig-
+itisation, liberalisation and marketisation and ecological transformations of economic sectors 
+(Höpner, 2005; Solga et al., 2013; Streeck et al., 2005). Here, less hierarchical and local approaches 
+play an increasingly important role in addressing governance mega-challenges that transcend 
+national borders (Jørgensen et al., 2018).
+In this context, new modes of governance (Héritier and Rhodes, 2011; Sabel and Zeitlin, 2012a; 
+Walkenhorst, 2008) share the goal of utilising diversity and of combining space for innovation on 
+the ground with benchmarking at higher governance levels. They allow public-private interactions 
+and grant an important role to intermediary platforms. V oluntary commitment of stakeholders – 
+and of nation-states more generally – is central to allow innovative policy practices. In VET gov-
+ernance specifically, state actors increasingly network with private and lower-level public actors 
+and quasi-markets have been introduced in education and training (Gornitzka, 2006; Mattei, 2012).
+Novel, more experimentalist forms of stakeholder engagement and interaction can emerge 
+simultaneously at different governance levels with or due to the outlined mega-challenges that 
+traverse education sectors (e.g. general education, VET, adult or ‘lifelong’ learning) and various 
+policy activities that accompany or compete with economic policies for (youth) employment. In 
+this regard, separate developments towards VET alliances – and more generally, towards experi-
+mentalist forms of governance in the VET policy field – could be externally driven by increasingly 
+complex governance challenges (Driver 4: External). Governance mega-challenges can hardly be 
+addressed through the traditional governance configuration and its key actors alone. Arguably, they 
+require a vertical reallocation of authority and a horizontal inclusion of new, for example, private 
+and third-sector actors (Hooghe and Marks, 2003; Kohler-Koch and Rittberger, 2006) in more 
+experimentalist governance set-ups. Following this hypothesised driving force of external pres-
+sures, the theoretical expectation is that we see a recurrence to governance mega-challenges in 
+interviews and policy documents at both the EU and German levels and that these are framed as 
+requiring novel policy responses and experimentalist governance set-ups leading to the separate 
+evolvement of alliances for apprenticeships at each level.
+Figure 1 above provides an overview of the four possible drivers theorised from the literature 
+that inform our subsequent process tracing and, ultimately, future research on policy reforms in 
+multi-level governance settings. To carve out the prevalence of a specific driver or a combination 
+of them, the study of each Alliance’s emergence (e.g. pointing to dominant players in this process) 
+is particularly important. Aiming to explain the parallel evolvement of the Alliances, we also ana-
+lyse the structural set-up (e.g. detecting best practices that come from or feed into other contexts) 
+and the thematic set-up (e.g. showcasing topics perceived as pressing challenges that need to be 
+solved).
+Data and methods
+To study how VET governance reforms unfold, the following empirical analysis intensively 
+describes (Panke, 2012) the emergence and set-up of the German Alliance for Initial and Further 
+Training and the European Alliance for Apprenticeships. In doing so, it carves out and compares 
+potential drivers in their evolution. Hence, the paper studies the pathway case (Gerring, 2008) of 
+reforms towards alliances for apprenticeships with the two Alliances as nested cases to be analysed 
+and compared in their evolvement and set-up.
+The project applies process tracing to ‘diagnose or explain individual or historical cases’ 
+(Bennett, 2008: 4) with a fairly ‘deterministic’ ontological outlook: we expect at least one of the 
+four theorised drivers (in the language of process tracing: mechanisms) to be present but assess this 
+--- PAGE 8 ---
+510 European Educational Research Journal 23(4)
+expectation critically in the empirical analysis. Epistemologically, we aim at developing a deep 
+understanding of the case (and its two nested sub-cases) to (dis-)confirm these very mechanisms 
+(Beach, 2016). Our process-tracing analysis focuses on practices (Pouliot, 2015) – that is, institu-
+tionalised, recurrent patterns and interactions – and moves beyond exploring the singular causal 
+mechanics of a (more confined) process.
+For an in-depth analysis of case evidence (Beach and Pedersen, 2013), we rely on policy docu-
+ments (EU policy documents, for example, directives, reports or press releases) as well eight semi-
+structured interviews conducted from late 2019 to late 2021.
+1 With interviewees being German and 
+EU civil servants whose work is related to the European Alliance, German Alliance or both, the 
+interviewees are considered experts/elite (Littig, 2009) who can provide us with causal process 
+observations (Collier et al., 2004). We acknowledge that the concept of ‘experts’ who share ‘their’ 
+expertise is questionable: expertise itself is a powerful political tool (Nóvoa, 2013) and interview 
+accounts should not be taken at face value. Nevertheless, the ‘process-oriented interviews’ help us 
+to uncover the organisations’ biography (Tavory, 2020) and to collect causal process observations 
+and thus, particularly meaningful insights from within the process (Collier, 2011). Crucially, our 
+analysis of documents triangulates the interview data and puts the insights received from experts 
+into perspective. We chose a qualitative thematic approach for the data analysis (Flick, 2014), 
+which increases the reliability of results. To this end, relevant pieces in interview transcripts and 
+documents were coded by focussing on extracting themes (Flick, 2014; Maxwell and Chmiel, 
+2014) related to the theorised drivers and further topics.
+In sum, the research project acknowledges that explanations resulting from process tracing are 
+provisional (Bennett, 2008) but exhibit a high level of internal validity. Our process-tracing analy-
+sis of our pathway case provides us with deeper knowledge of multi-level VET governance. The 
+results inform theory building and future empirical research by tracing systematic components of 
+a mechanism from this specific case (Beach and Pedersen, 2013: 16). Therefore, the theorised driv-
+ers can – as outlined above – inform studies on other education sectors or even soft coordination in 
+other policy fields.
+Figure 1. Theorised drivers of VET governance reforms towards alliances for apprenticeships.
+--- PAGE 9 ---
+Rohde-Liebenau and Graf 511
+Empirical analysis: Alliances for apprenticeships and drivers in 
+German and European VET governance
+To shed light on drivers of alliances for apprenticeships in Germany and at the EU level, we trace 
+the emergence and the structural and thematic set-up of the European Alliance (Section 4.1) and 
+the German Alliance (Section 4.2). In a subsequent more comparative Section (4.3), we discuss the 
+extent to which our study has provided evidence for the four drivers. We find a prevalence of exter-
+nal driving forces of pressing governance challenges that make it possible for both the EU and 
+Germany to trigger separate policy initiatives in line with experimentalist governance.
+The European Alliance for Apprenticeships
+In the following, we trace the emergence and set-up of the European Alliance, focussing on domi-
+nant players throughout the process as well as the structural and thematic set-up of the Alliance. 
+First, it is worthwhile to look at the Alliance’s establishment: the European Alliance for 
+Apprenticeships, renewed in 2020 by the European Commission, was originally launched in 2013 
+at the WorldSkills conference in Leipzig, Germany (European Commission, 2017b). The launch in 
+Germany suggests an involvement of Germany in its establishment, which could point to Germany 
+being a dominant player and a driver as hypothesised above. However, the empirical analysis did 
+not confirm this link. Neither policy documents on the Alliance’s emergence (e.g. BMBF, 2013a; 
+Council of the European Union, 2013; European Commission, 2018) nor interviewees argued that 
+there has been a clear push by a specific country or actor to establish the European Alliance.
+An EU official interviewed argued that „social partners say they initiated it, a colleague also 
+says she initiated it. Germany and others have used [the] WorldSkills [competition in 2013] in 
+Leipzig, the opportunity, to initiate the Alliance. That [Leipzig’s WorldSkills] was in fact a launch 
+event without having planned a follow-up” (Interview_6). Somewhat contradicting this statement, 
+another interviewee (Interview_5) claimed that the European Commission was the player who 
+initiated the European Alliance. Overall, with regards to the European Alliance’s emergence, we 
+see some evidence for the EU (here: Commission) being a dominant player in the Alliance’s estab-
+lishment, which is not surprising for a policy initiative at the EU level, but we see less evidence for 
+Germany being a dominant driving force.
+Second, this leads us to the structural set-up of the Alliance that is intended to enable an increase 
+in the supply of apprenticeships – in countries with and without an established tradition in this form 
+of work-based training (Graf and Marques, 2022). The European Alliance was launched by a joint 
+declaration of European Social Partners, European Commission and the Presidency of the Council 
+of the EU (European Commission, 2017b). Thus, the Alliance resembles Germany’s VET model of 
+bringing together relevant stakeholders in voluntary, decentralised cooperation: following its 
+establishment, the European Alliance has been relying on the proclamation and ultimately imple-
+mentation of national commitments by 37 countries (as of 2021) and on a growing number (362 as 
+of 2021) of stakeholder pledges (European Commission, 2021a, 2021b). With the focus on volun-
+tary commitments of member states and other, often private stakeholders located at the subnational 
+level, the Alliance functions as an intermediary platform and the Commission acts as orchestrator. 
+The Alliance aims at linking governments, VET providers, social partners and other relevant stake-
+holders at the European and national levels (European Commission, 2020b).
+While this is a striking similarity to German VET governance, a clear driving force (in the sense 
+of a push towards the establishment of the Alliance) or an explicit inspiration (by Germany’s 
+decentralised cooperation model) in the case of the European Alliance is not visible. This has also 
+been confirmed in expert interviews: ‘there is still not enough interface’ (Interview_6) between EU 
+--- PAGE 10 ---
+512 European Educational Research Journal 23(4)
+and national level, ‘this is something we also want to strengthen’ (Interview_6). Hence, regarding 
+the general structure of involving various stakeholders, it seems most likely that the Alliance’s set-
+up is in line with a general trend towards soft policies and coordination (Warleigh-Lack and 
+Drachenberg, 2011). Our analysis of the structural set-up also clarifies the new mode of govern-
+ance that the European Alliance stands for: following theories on new modes of governance 
+(Héritier and Rhodes, 2011; Walkenhorst, 2008), voluntary, public-private interactions around 
+innovative policy practices are at the centre of the Alliance.
+Third, regarding the thematic set-up, the European Alliance was originally established to 
+strengthen apprenticeship training in member states at a time when youth unemployment moved 
+up on the political agenda of both European Commission (Interview_5) and member states. The 
+renewed Alliance of 2020 (European Commission, 2020b) aims to increase VET quality, supply 
+and attractiveness. More generally, in its soft coordination, the European Commission aims to 
+‘cover the topics of the future’ (Interview_6) and both for the European Alliance and for VET gov-
+ernance in general, interviewees mentioned a shift of the political agenda from a perceived need to 
+tackle youth unemployment to a focus on tackling a skills shortage (potentially to be met by 
+migrants). The two salient political topics imply very different challenges to European skill forma-
+tion systems, but interviewees agreed that they demonstrate that there is a need – both at the EU 
+level and within member states – for improved apprenticeship training as well as a demand for a 
+dual VET model (Interview_1; Interview_6). This is the case regardless of whether a country 
+focuses more on youth unemployment or on skills shortage.
+Thus, a prevalent external driving force of governance mega-challenges is clearly visible for 
+VET governance. For the case of the European Alliance, our analysis shows that the perceived 
+pressure to address these challenges functions as a motivator for establishing (European 
+Commission) and participating in (EU member states) the European Alliance. With regards to 
+specific governance mega-challenges that should be addressed in the Alliance, both interviewees 
+and documents mentioned, among others, innovation and digitisation as pressing topics and also 
+alluded to the European Commission’s Green Deal (e.g. Interview_6; European Commission, 
+2021c). Furthermore, continuing and lifelong training are mentioned as crucial at the EU level (e.g. 
+Interview_7). The themes are reflected in the Commission’s recent focus on opportunities to re-/
+upskill and on apprenticeships for adults (European Commission, 2021c) and most importantly, in 
+the aforementioned Pact for Skills of 2020 that now also formally entails the European Alliance. 
+Lastly, a stronger involvement of the regional level in tackling these challenges and a strengthening 
+of local-level networking is alluded to (e.g. European Commission, 2017a).
+Finally, with regards to the emergence as well as the set-up of the Alliance, interviewees and 
+documents recurrently mentioned the diversity of European VET systems– and the perceived supe-
+riority of dual-training systems. For instance, interviewees emphasise that EU coordination must 
+deal with very diverse apprenticeship traditions in EU member states, ranging from entirely or 
+mostly school-led systems in some member states to national apprenticeship systems where train-
+ing on the job is key (e.g. Interview_6). As a consequence of these perceived differences, the EU 
+strongly endorses dual systems, which are therefore systems prone to ‘borrowing’ or ‘learning 
+from’ (Phillips, 2004; Steiner-Khamsi, 2004) or even to be benchmarked against (cf. Nóvoa, 2013):
+Work-based learning, such as dual approaches, should be a central pillar of vocational education and training 
+systems across Europe, with the aim of reducing youth unemployment, facilitating the transition from learning 
+to employment and responding to the skill needs of the labour market (European Commission, 2012: 7).
+Of dual systems, the German system is one prime example, next to some smaller European states 
+(Switzerland, Austria, Denmark and Luxembourg). This implies a potential inspiration that is 
+--- PAGE 11 ---
+Rohde-Liebenau and Graf 513
+provided by Germany when it comes to presenting its own dual-training practices at the EU level 
+(Interview_8): they can be framed as ‘most successful practices’ (cf. Nóvoa, 2013), legitimising 
+policy changes. Nevertheless, rather than advocating a direct policy transfer, the European Alliance 
+and EU forums for soft coordination aim at a cross-fertilisation of EU-level and national-level VET 
+governance practices and reforms: ‘you take up an idea’ (Interview_3). Member-states as well as 
+the EU-level perceivably try to adhere to formulated goals: ‘we have the same overarching goal’ 
+(Interview_3) of furthering VET and lowering youth unemployment. This provides some evidence 
+for a cross-fertilisation of German and European VET governance practices, also within the setting 
+of the European Alliance. Most importantly, it shows a shared willingness to address governance 
+challenges that the member-states as well as the EU are confronted with.
+In all, having traced the emergence and set-up of the European Alliance for Apprenticeships, our 
+analysis has shown that it was established as an explicit response to governance challenges, and 
+takes up experimentalist forms of governance in its set-up. With the European Commission being 
+able to set the agenda of the Alliance and to push for commitments of member-states and stake-
+holders, a VET model is endorsed that is in line with work-based training approaches, which dual-
+training countries such as Germany exhibit. Overall, our process tracing has thus shown a 
+prevalence of external driving forces for the European Alliance – external governance challenges 
+fuelling the set-up of an experimentalist alliance – and it also provided some evidence for cross-
+fertilisation, but rather within the set-up of the experimentalist policy initiatives like the European 
+Alliance where best practices can be exchanged.
+German Alliance for Initial and Further Training
+In the following, we trace the emergence and set-up of the German Alliance for Initial and Further 
+Training, shedding light the dominant players as well as its structural and thematic set-up.
+First, regarding its establishment, the German ‘Alliance for Initial and Further Training’ was 
+signed in 2014, one year after the European Alliance. In an EU-level document, it is, as mentioned, 
+explicitly referred to as its ‘national equivalent’ (European Commission, 2017b: 66). The timing of 
+the German Alliance’s establishment and its framing as a national commitment point to the EU 
+being a driver of the German Alliance. However, a ‘National Pact for Training and Young Skilled 
+Staff’ had existed in Germany already from 2004 (IAB, 2004). The Pact, periodically renewed in 
+the following decade, was established in a period characterised by a significant lack of apprentice-
+ship positions. It represented a compromise between a legal reform and an informal agreement 
+between the government and employers in order to increase the number of apprenticeship offers 
+(Busemeyer, 2015). The rebranding as ‘Alliance’ in 2014 most likely shows a deliberate borrowing 
+of the name of the new European Alliance rather than a general adoption of a specific European 
+policy idea. The name was not the only novelty, however. The predating Pacts were problematic 
+with respect to the consensus principle found in the VET governance tradition (Busemeyer, 2015), 
+not least as they failed to include trade unions: ‘those were purely pacts between business and the 
+federal state. (. . .) The Alliance was now different. The unions were onboard’ (Interview_4).
+This leads us to, second, the structural set-up. The structural set-up of Germany’s Alliance is 
+similar to that of the EU but it was signed by the federal government, businesses, unions, states and 
+the Federal Employment Agency (BMBF, 2013a). While the exact role of the different stakehold-
+ers cannot be uncovered using this approach, the policy documents indicate the actors’ willingness 
+to work alongside each other and commit to the Alliances’ goals. Like the European Alliance, the 
+German Alliance integrates a multi-level dimension as it includes a state-level alliance for each of 
+the German states (BMWK, 2021). These 16 state-level alliances mirror the structural set-up of the 
+national Alliance. Both the national and the state-level alliances regularly produce declarations in 
+--- PAGE 12 ---
+514 European Educational Research Journal 23(4)
+which stakeholders outline their commitments and activities to enhance the demand and supply 
+conditions for apprenticeship training (e.g. AAW, 2019). Interviewees perceive the emergence of 
+the German Alliance as leading to an intensification of national VET governance (e.g. Interview_4). 
+The Federal Ministry for Economic Affairs, among other ministries, orchestrates the Alliance (see 
+Busemeyer et al., 2022) but is seen as having mainly a ‘moderating function’ (Interview_4). 
+However, this function also implies an agenda-setting role. Furthermore, interviewees mentioned 
+the Federal Ministry for Education as a recent ‘driving force’ (Interview_2).
+The experimentalist set-up of the German Alliance and the orchestrating (and thus: agenda-
+setting) role of the Federal Ministry for Economic Affairs shows that, just like the European 
+Alliance, the German Alliance’s design is in line with theories on new modes of governance. Here, 
+experimentalism is a way to allow policy innovations to emerge on the ground, but the Alliance 
+arguably also pushes certain ‘best’ practices across local contexts, which are perceived as the most 
+successful solutions considering governance mega-challenges.
+In line with its own aims, a European Alliance brochure argues that in several countries, ‘key 
+stakeholders have joined forces for a coordinated approach that will lead to better results with 
+increased impact’ (European Commission, 2017a). Countries mentioned in this respect are 
+Germany, Spain and Norway where government and social partners signed a ‘Social Contract on 
+Apprenticeships’ in 2016. Germany’s VET system is regularly cited as a best-practice example and 
+explicitly counted among ‘world-class VET systems’ by the EU (European Commission, 2012) as 
+well as in the scholarly literature (Euler, 2013; Wieland, 2015). However, it is also clear that it most 
+likely gets highly hybridised if being downloaded to other national contexts: a one-to-one transfer 
+of the German apprenticeship model is highly unlikely given the specific institutional corporatist 
+environment in which it is embedded (Euler, 2013). Rather, specific elements of the German VET 
+model can get adopted and translated to the European and individual national contexts (Fortwengel 
+and Jackson, 2016; Graf et al., 2014). In this regard, a cross-fertilisation of German and EU (or 
+other member-states’) best practices within the setting of experimentalist policy initiatives such as 
+the Alliance is possible and desired.
+Third, with regard to the thematic set-up, just like the European Alliance was put into practice 
+with an explicit framing of helping to address major governance challenges, the German Alliance 
+has for example, the task to increase the attractiveness and quality of apprenticeships, to support 
+apprentices and their firms, to bring migrants into the apprenticeship system and to increase the 
+permeability between academic and apprenticeship training (AAW, 2019; European Union, 2018). 
+With regards to current policy pressures addressed by the Alliance, the difficulty to match appli-
+cants and apprenticeship positions as well as a general academisation have been emphasised in 
+interviews (e.g. Interview_4; Interview_1) and documents (AAW, 2019, 2021). A shift of the polit-
+ical agenda from a perceived need to tackle youth unemployment to a focus on tackling skills 
+shortages as well as a turn towards continuing and lifelong training, observed already at the EU 
+level, are emphasised as important governance challenges (AAW, 2019; European Union, 2018; 
+several interviews). Interviewees and documents mention the National Strategy for Continuing 
+Education as an important tool and the role of digitisation as a critical external political pressure 
+(e.g. Interview_1; AAW, 2019). In this regard, one interviewee described the German Alliance as 
+enabling ‘better visibility’ for pressing challenges in VET (Interview_1). This also points to an 
+important role of external drivers in the establishment of the German Alliance.
+Interviewees argued that the pressures of the outlined mega-challenges are ‘more immediate’ 
+(Interview_1) at lower governance levels, while problems are too big to be solved on lower gov-
+ernance levels, let alone by single actors. This is in line with the literature on challenges in VET 
+governance and Germany’s collective skill formation system (Emmenegger et al., 2019; Martin 
+and Graf, 2019), which call for less hierarchical approaches. Such approaches take on an 
+--- PAGE 13 ---
+Rohde-Liebenau and Graf 515
+increasingly important role in addressing governance challenges that transcend national borders 
+(Jørgensen et al., 2018). Given pressing governance challenges, Germany’s frequent exchange 
+with other countries in the European context is explicitly intended to further strengthen its own 
+VET system (Bundesregierung, 2015). Germany’s attention to lifelong training (Interview_6) and 
+its dual-training system are best practices Germany can supply to other member states.
+In this regard, beyond the emergence and set-up of the German Alliance specifically, it is also 
+worthwhile to consider Germany’s ambition regarding general VET policy transfer. Germany 
+wants to ‘become the export champion in the area of education services’ (BMBF, 2015) and the 
+dual-training system should serve ‘as reference model in Europe and worldwide’ (BMBF, 2013b). 
+Export initiatives are supported by a specific agency, ‘iMOVE: Training – Made in Germany’ 
+(BIBB, 2019) as well as the German Office for International Cooperation in V ocational Education 
+and Training (GOVET). The ‘apprenticeship export’ (DLR, 2015) should ideally enable a ‘lever-
+age effect’ for the German industry since the export of industrial goods often requires well-trained 
+workers in foreign countries.
+Evidence for the importance the German government assigns to VET transfer are also found in 
+official guidelines for the support of VET internationalisation: Germany makes major funds avail-
+able to organisations involved in promoting the German apprenticeship model abroad (BMBF, 
+2017). Germany’s dual system is explicitly mentioned as a source of policy borrowing in Portugal’s 
+‘apprenticeship (dual) system’ (European Commission, 2021c). The German government also 
+signed a memorandum with six European countries (Greece, Italy, Latvia, Slovakia and Spain) in 
+2012 to promote VET cooperation and apprenticeship training – partly to tackle youth unemploy-
+ment after the financial crisis (BIBB, 2015). German bureaucrats interviewed emphasised that 
+there are delegations coming from other countries who specifically want to learn about Germany’s 
+VET system. Regarding policy reforms at the EU level, countries with a dual system of VET devel-
+oped the ‘Apprenticeship Toolbox’, among them Germany (Interview_5). However, this toolbox 
+does not represent a European policy but rather an EU-funded source of information provided by 
+these countries.
+Beyond our specific case, these examples show that Germany aims at pushing VET governance 
+reforms in other European countries. However, this has so far mostly been carried out through 
+bilateral exchange (BIBB, 2015). Our analysis finds no strong evidence that Germany has been a 
+driving force in shaping VET governance reforms specifically towards alliances through EU-level 
+cooperation. In all, the analysis highlighted a prevalence of external pressures as driving forces in 
+the establishment of the German Alliance. The set-up of the Alliance follows previous policy initia-
+tives and, in global comparison, is in line with German corporatist VET governance. With regards 
+to the inherent experimentalist mode of the German Alliance, a parallel evolvement of German and 
+European governance reforms in light of pressing governance mega-challenges has been revealed.
+Drivers for German and EU VET governance reforms
+For governance reforms at the EU level to be driven by Germany, based on our theoretical frame-
+work, we have expected interviewees and documents to explicitly mention an influence of German 
+governance practices on the establishment or configuration of the European Alliance for 
+Apprenticeships. Our analysis has shown that Germany is perceived as one of several best-practice 
+VET systems and that there is evidence for Germany’s willingness to supply good practices to 
+other countries. In fact, Germany aims at facilitating VET governance reforms in other European 
+countries. However, for the case of the European Alliance, we have found no evidence for a strong 
+push by Germany. Rather, our analysis has shown that Germany promotes VET reforms abroad, 
+but it does so most often bilaterally (BIBB, 2015) and often in a wider international sphere than in 
+specific EU forums (Graf et al., 2014). Nevertheless, the EU endorses dual VET systems and 
+--- PAGE 14 ---
+516 European Educational Research Journal 23(4)
+Germany has exactly this system on offer (e.g. European Commission, 2012), which means that it 
+can supply best practices to the EU level. This points to an influential standing of Germany, not 
+necessarily in the specific case of the European Alliances’ evolvement, but more generally in terms 
+of lending its dual-training model to other contexts.
+For VET governance reform to be EU-driven, we have expected interviews and documents to make 
+the influence of the EU level in the evolvement of the German Alliance for apprenticeships explicit. 
+While the German Alliance was signed one year after the launch of the European Alliance and has a 
+very similar set-up, we have found no evidence that the German Alliance is EU-driven: With its origin 
+in the preceding National Pacts (IAB, 2004), the Alliance’s coordination set-up evolved prior to the 
+establishment of the European Alliance in the domestic arena. Policy makers were seeking new ways 
+to orchestrate the provision of apprenticeship offers with the relevant stakeholder groups (Busemeyer 
+et al., 2022). The fact that the German Alliance is mentioned as national commitment and a good prac-
+tice at the EU level hints to some extent at a cross-fertilisation of specific VET practices.
+In the case of a cross-fertilisation of the EU and German VET governance model, we expected 
+from our theorisation that a mutual influence of German and EU governance reforms is expressed 
+in empirical materials. Our analysis has revealed that regarding the Alliances neither Germany nor 
+the EU constitute clear drivers in each other’s VET governance reforms. Yet, our empirical analysis 
+shows that within the EU, Germany’s VET governance model is established as a best-practice 
+system embedded in a specific institutional environment of decentralised cooperation. This, in 
+turn, provides some evidence for VET best practices cross-fertilising each other and being adapted 
+to a specific context, which is something explicitly aimed for in EU soft coordination.
+For a prevalence of external drivers, we have expected to see recurrent references in interviews 
+and policy documents to political and socioeconomic mega challenges as well as a perceived need 
+to find novel policy responses. Our analysis has provided strong evidence for the important role of 
+external challenges. On the one hand, we have shown that both the German and the European 
+Alliance share the explicit framing of addressing complex governance challenges. On the other 
+hand, complex governance challenges call for specific, new modes of governance, which our anal-
+ysis has found both at the EU and the German level. Interviewees and documents at both levels also 
+mentioned the shifting nature of policy pressures that need to be addressed – ranging from a need 
+to tackle youth unemployment to a perceived focus on skills shortages. In this regard, our research 
+has also touched upon topics to be studied in the future, for example, how the Alliances facilitate 
+‘policy legitimation’ (Tveit and Lundahl, 2018) in VET governance at the EU and national level. 
+Likewise, tensions that exist in the multi-actor setting of the Alliances are worthwhile exploring 
+further (see Fumasoli et al., 2018).
+In sum, we find the most support for external drivers in the form of governance mega-chal-
+lenges, indicating that the European and German Alliance were established at the same time but 
+largely independently from each other. The main reasons for their establishment are that VET 
+systems are faced with an unprecedented scale of complex policy problems that create uncertain-
+ties about the best way forward and that, hence, new modes of experimentalist governance are 
+needed. In this setting, cross-fertilisation as well as learning from best practices (e.g. Germany’s 
+dual-training practices) can take place, but the impetus for the evolvement of each Alliance at 
+roughly the same time is mainly an external one, driving similar, yet mostly independent develop-
+ments at the EU and national level.
+Conclusion
+In this paper we were concerned with governance reforms in skill formation in the European multi-
+level context. Exploring the case of alliances for apprenticeship training, we have theorised four 
+possible drivers to explore the evolution of recent VET governance reforms in Germany and at the 
+--- PAGE 15 ---
+Rohde-Liebenau and Graf 517
+EU level. We contend that these four alternative drivers can inform future research – for example, 
+on national VET governance structures in other EU member states, further educational sectors 
+embedded in the multi-level governance structure of the European education area, or other nation-
+ally dominated policy fields in which European soft coordination takes place. Applying the theo-
+rised driving forces to governance settings of education and training and beyond ultimately helps 
+to uncover the diagnosed black box (Souto-Otero, 2015) of European policymaking. The systema-
+tisation of drivers (top-down, bottom-up, cross-fertilising or external drivers) informs theory-
+building on similar multi-level settings. Future research could also study in more depth the role of 
+specific stakeholders ‘within’ a certain driving force.
+For the alliances for apprenticeships, our analysis has provided most support for the prevalence 
+of external driving forces. That is, the Alliances at the EU and German level have emerged sepa-
+rately from each other driven by governance mega-challenges VET systems face. General VET 
+governance reforms to deal with uncertainties in view of increasingly complex policy problems 
+make it possible for both the EU and Germany to trigger (or even pressure towards, e.g. through 
+benchmarking) parallel policy innovations inspired by joint experimenting and best practices. The 
+evolving experimentalist setting still gives leeway to Germany (and other dual-training member-
+states) to present itself as a most successful practice other countries could be benchmarked against 
+(Nóvoa, 2013), that is, a best-practice VET system and a pioneer of the EU’s focus on dual 
+training.
+In line with previous research on EU education policy (e.g. Antunes, 2016; Eeva, 2021; Elken, 
+2017; Gornitzka, 2006, 2015; Lange and Alexiadou, 2010), our paper has provided further evidence 
+that also in this specific case of VET governance, EU governance takes the shape of Commission-
+orchestrated soft coordination with room for member-state policy learning and cross-fertilisations. 
+While we have not observed a clear cross-fertilisation for the Alliances’ evolvement specifically, 
+this study has shown that national VET systems and their diverse actors make use of mutual, best-
+practice learning. Both Alliances fuel this through their experimentalist set-up. Given that VET 
+systems are closely interlinked with economic as well as social policies, member states (even those 
+exhibiting exemplary VET systems) as well as the EU can gain from VET soft coordination to 
+achieve policy learning and ultimately address mega-challenges across governance levels.
+In all, our analysis has shown that in multi-level governance systems, new modes of governance 
+– of which both Alliances are a case – do not necessarily emerge in a clear top-down or bottom-up 
+manner. While parallel developments in governance reforms may give such an impression, govern-
+ance mega-challenges have a significant impact on such reforms at each level separately. With its 
+process-oriented focus (on driving forces that condition novel policies), our analysis has provided 
+more general insights into the drivers of governance reforms in multi-level systems – of which 
+European education governance is a prime example. The prevalence of external governance chal-
+lenges, however, is not contradictory to the possibility of both governance levels – national and 
+European – still benefitting from cross-fertilisations of specific practices. This is particularly the 
+case in complex policy arenas like education, in which multiple public and private stakeholders are 
+closely interlinked and can make use of mutual learning from best practices.
+Declaration of conflicting interests
+The authors declared no potential conflicts of interest with respect to the research, authorship, and/or publica-
+tion of this article.
+Funding
+The authors received no financial support for the research, authorship, and/or publication of this article.
+--- PAGE 16 ---
+518 European Educational Research Journal 23(4)
+ORCID iDs
+Judith Rohde-Liebenau  https://orcid.org/0000-0001-8692-6696
+Lukas Graf  https://orcid.org/0000-0002-1447-4165
+Note
+1. Interview_1_29.11.2019, Interview_2_10.12.2019 and Interview_4_18.12.2019 focused mostly on the 
+German level, Interview_3_13.12.2019, Interview_5_10.01.2020 and Interview_6_27.01.2020 on both 
+levels, Interview_7_29.11.2021 and Interview_8_15.12.2021 mostly on the EU level.
+References
+AAW (2019) Allianz für Aus- und Weiterbildung 2019-2021. Gemeinsame Erklärung zur Gründungsoffensive. 
+26. August 2019. Bonn: KMK.
+AAW (2021) Allianz für Aus- und Weiterbildung. 14. Mai 2021. Available at: https://www.aus-und-wei-
+terbildungsallianz.de/AAW/Navigation/DE/Allianz-fuer-aus-und-Weiterbildung-2019-2022/aaw-2019-
+2022.html (accessed 13 December 2021).
+Alexiadou N and Lange B (2015) Europeanizing the National Education Space? Adjusting to the Open Method 
+of Coordination (OMC) in the UK. International Journal of Public Administration 38(3): 157–166.
+Antunes F (2006) Globalisation and Europeification of education policies: Routes, processes and metamor-
+phoses. European Educational Research Journal 5(1): 38–55.
+Antunes F (2016) Economising education: From the silent revolution to rethinking education. A new moment 
+of Europeanisation of education? European Educational Research Journal 15(4): 410–427.
+Baethge M and Wolter A (2015) The German skill formation model in transition: From dual system of VET 
+to higher education? Journal for Labour Market Research 48(2): 97–112.
+Baker DP (2014) The Schooled Society. The Educational Transformation of Global Culture. Stanford, CA: 
+Stanford University Press.
+Beach D (2016) It’s all about mechanisms – What process-tracing case studies should be tracing. New 
+Political Economy 21(5): 463–472.
+Beach D and Pedersen RB (2013) Process-Tracing Methods. Ann Arbor, MI: The University of Michigan 
+Press.
+Bennett A (2008) Process tracing. In: Box-Steffensmeier JM, Brady HE and Collier D (eds) The Oxford 
+Handbook of Political Methodology. New York, NY: Oxford University Press, pp.1–25.
+BIBB (2015) GOVET Jahresbericht. Bundesinstitut für Berufsbildung. Bonn: German Office for International 
+Cooperation in Vocational Education and Training.
+BIBB (2019) iMOVE: Training - Made in Germany. Available at: https://www.bibb.de/en/722.php (accessed 
+15 June 2019).
+Bieber T (2010) Europe à la Carte? Swiss convergence towards European policy models in higher education 
+and vocational education and training. Swiss Political Science Review 16(4): 773–800.
+Blauberger M and Rittberger B (2015) Orchestrating policy implementation. In: Abbott KW, Genschel P and 
+Snidal D (eds) International Organizations as Orchestrators. Cambridge: Cambridge University Press, 
+pp.39–64.
+BMBF (2013a) European Alliance for Apprenticeships. Member States - Planned Reforms/Initiatives. Bonn.: 
+Bundesministerium für Bildung und Forschung.
+BMBF (2013b) Strategiepapier der Bundesregierung zur internationalen Berufsbildung aus einer Hand. 
+Berlin: Deutscher Bundestag. Available at: https://www.bmbf.de/bmbf/shareddocs/downloads/files/
+strategiepapier_der_bundesregi-n_berufsbildungszusammenarbeit.html (accessed 13 December 
+2021).
+BMBF (2015) International vocational training cooperation: Success in education export. Available at: https://
+web.archive.org/web/20150929000406/http://www.bmbf.de/en/17127.php (accessed 15 June 2019).
+BMBF (2017) Richtlinie zur Förderung der Internationalisierung der Berufsbildung. Available at: https://
+www.bmbf.de/foerderungen/bekanntmachung-1351.html (accessed 16 June 2019).
+--- PAGE 17 ---
+Rohde-Liebenau and Graf 519
+BMWK (2021) Länderbündnisse. Bundesministerium für Wirtschaft und Klimaschutz. Available at: https://
+www.aus-und-weiterbildungsallianz.de/AAW/Navigation/DE/Laenderbuendnisse/laenderbuendnisse.
+html (accessed 13 December 2021).
+Bonoli G and Wilson A (2019) Bringing firms on board. Inclusiveness of the dual apprenticeship systems in 
+Germany, Switzerland and Denmark. International Journal of Social Welfare 28: 369–379.
+Bundesregierung (2015) Antwort der Bundesregierung auf die Kleine Anfrage der Abgeordneten Dr. 
+Rosemarie Hein, Sigrid Hupach, Dr. Petra Sitte, weiterer Abgeordneter und der Fraktion DIE LINKE. 
+Berlin: Deutscher Bundestag.
+Busemeyer MR (2015) Aufbruch oder Stillstand in der Berufsbildungspolitik? Die neue Allianz für Aus- und 
+Weiterbildung. WISO Direkt Juli 2015. Available at: http://www.fes.de/wiso (accessed 13 December 
+2021).
+Busemeyer MR, Carstensen MB and Emmenegger P (2022) Orchestrators of coordination: Towards a new 
+role of the state in coordinated capitalism? European Journal of Industrial Relations 28(2): 231–250.
+Busemeyer MR and Trampusch C (2012) The Political Economy of Collective Skill Formation. Oxford: 
+Oxford University Press.
+Carstensen MB and Ibsen CL (2021) Three dimensions of institutional contention: Efficiency, equality and 
+governance in Danish vocational education and training reform. Socio-Economic Review 19(3): 1037–
+1063.
+Collier D (2011) Understanding process tracing. PS: Political Science & Politics 44(4): 823–830.
+Collier D, Brady HE and Seawright J (2004) Sources of leverage in causal inference: Toward an alterna-
+tive view of methodology. In: Brady HE and Collier D (eds) Rethinking Social Inquiry. Diverse Tools, 
+Shared Standards. Lanham, Boulder: Rowman and Littlefield, pp.229–266.
+Cort P (2010) Stating the obvious: The European qualifications framework is not a neutral evidence-based 
+policy tool. European Educational Research Journal 9(3): 304–316.
+Council of the European Union (2013) ‘European alliance for apprenticeships’ council declaration. 
+Luxembourg. Available at: https://www.consilium.europa.eu/uedocs/cms_data/docs/pressdata/en/
+lsa/139011.pdf (accessed 8 August 2022).
+Culpepper PD (2003) Creating Cooperation. How States Develop Human Capital in Europe. Ithaca, NY: 
+Cornell University Press.
+De la Porte C and Pochet P (2012) Why and how (still) study the Open Method of Co-ordination (OMC)? 
+Journal of European Social Policy 22(3): 336–349.
+Di Maio G, Graf L and Wilson A (2019) Torn between economic efficiency and social equality? Short-track 
+apprenticeships in Denmark, Germany and Switzerland. European Educational Research Journal 18(6): 
+699–723.
+DLR (2015) Berufsbildungsexport. Available at: https://web.archive.org/web/20151108102126/http://www.
+dlr.de/pt/desktopdefault.aspx/tabid-7364/12387_read-29763/ (accessed 9 July 2019).
+Eeva K (2021) Governing through consensus? The European semester, soft power and education govern-
+ance in the EU. European Educational Research Journal. Advance online publication. https://doi.
+org/10.1177/14749041211055601
+Egeberg M and Trondal J (2009) National agencies in the European administrative space. Public Administration 
+87(4): 779–790.
+Elken M (2016) ‘EU-on-demand’: developing national qualifications frameworks in a multi-level context. 
+European Educational Research Journal 15(6): 628–643.
+Elken M (2017) Standardization of (higher) education in Europe – Policy coordination 2.0? Policy and 
+Society 36(1): 127–142.
+Emmenegger P, Graf L and Trampusch C (2019) The governance of decentralised cooperation in collective train-
+ing systems: A review and conceptualisation. Journal of Vocational Education and Training 71(1): 21–45.
+EP (2018) Employment policy. Fact Sheets on the European Union. Available at: http://www.europarl.europa.
+eu/factsheets/en/sheet/54/employment-policy (accessed 8 May 2019).
+Ertl H (2020) Dual study programmes in Germany: blurring the boundaries between higher education and 
+vocational training? Oxford Review of Education 46(1): 79–95.
+--- PAGE 18 ---
+520 European Educational Research Journal 23(4)
+Euler D (2013) Das duale System in Deutschland – Vorbild für einen Transfer ins Ausland? Gütersloh: 
+Bertelsmann Stiftung.
+European Commission (2012) Rethinking Education: Investing in skills for better socio-economic outcomes. 
+Communication from the Commission to the European Parliament, the Council, the European Economic 
+and Social Committee and the Committee of the Regions. Strasbourg: European Commission.
+European Commission (2017a) European Alliance for Apprenticeships: Good for Youth, Good for Business 
+– Four Years On. Luxembourg: Publications Office of the European Union. DOI: 10.2767/716741.
+European Commission (2017b) European Alliance for Apprenticeships - Assessment of Progress and 
+Planning the Future. Brussels: DG Employment, Social Affairs and Inclusion. DOI: 10.2767/416056.
+European Commission (2018) Good for Youth, Good for Business. Luxembourg: Publications Office of the 
+European Union. DOI: 10.2767/718077.
+European Commission (2019a) Education and Training: ET 2020 Working Groups. Available at: https://
+ec.europa.eu/education/policies/european-policy-cooperation/et2020-working-groups_en (accessed 1 
+February 2019).
+European Commission (2019b) Education and training. European Policy Cooperation (ET2020 framework). 
+Available at: https://ec.europa.eu/education/policies/european-policy-cooperation/et2020-framework_
+en (accessed 1 February 2019).
+European Commission (2020a) European Skills Agenda for Sustainable Competitiveness, Social Fairness 
+and Resilience. Available at: https://ec.europa.eu/social/main.jsp?catId=1223&langId=hr (accessed 8 
+August 2022).
+European Commission (2020b) The renewed European Alliance for Apprenticeships. Action plan 2020-2021. 
+Employment, Social Affairs and Inclusion. Available at: https://ec.europa.eu/social/main.jsp?langId=en
+&catId=89&newsId=9812&furtherNews=yes (accessed 8 August 2022).
+European Commission (2021a) Facts and Figures. Available at: https://ec.europa.eu/social/main.
+jsp?catId=1499&langId=en (accessed 13 December 2021).
+European Commission (2021b) National Commitments. Available at: https://ec.europa.eu/social/main.
+jsp?catId=1148&langId=en (accessed 13 December 2021).
+European Commission (2021c) Putting into Practice the European Framework for Quality and Effective 
+Apprenticeships - Implementation of the Council Recommendation by Member States. Commission 
+Staff Working Document. SWD(2021) 230 final.
+European Commission (2022) Working Group on Vocational Education and Training and the Green Transition 
+(E03798). Available at: https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/
+consult?lang=en&groupID=3798 (accessed 8 August 2022).
+European Union (2018) Alliance for Initial and Further Training. Developing and Promoting Dual Vocational 
+Training Through Stakeholder Alliance. Berlin: Federal Ministry of Labour and Social Affairs.
+Flick U (2014) An Introduction to Qualitative Research, 5th edn. London: SAGE.
+Fortwengel J and Jackson G (2016) Legitimizing the apprenticeship practice in a distant environment: Institutional 
+entrepreneurship through inter-organizational networks. Journal of World Business 51(6): 895–909.
+Fumasoli T, Stensaker B and Vukasovic M (2018) Tackling the multi-actor and multi-level complexity of 
+European governance of knowledge: Transnational actors in focus. European Educational Research 
+Journal 17(3): 325–334.
+Gerring J (2008) Case selection for case study analysis. In: Box-Steffensmeier JM, Brady HE and Collier D 
+(eds) Oxford Handbook of Political Methodology. New York, NY: Oxford University Press, pp.645–684.
+Gilardi F and Radaelli CM (2012) Governance and Learning. In: Levi-Faur D (ed.) The Oxford Handbook of 
+Governance. New York, NY: Oxford University Press, pp.155–168.
+Gornitzka (2006) The Open Method of Coordination as practice - A watershed in European education policy? 
+ARENA Working Papers. 16. Oslo: ARENA.
+Gornitzka (2015) ‘All in’? Patterns of participation in EU education policy. In: Souto-Otero M (ed.) Evaluating 
+European Education Policy-Making. Evaluating. London: Palgrave Macmillan, pp.92–123.
+Graf L (2015) The European educational model and its paradoxical impact at the national level. In: Tröhler D 
+and Lenz T (eds) Trajectories in the Development of Modern School Systems: Between the National and 
+the Global. New York, NY: Routledge, pp.227–240.
+--- PAGE 19 ---
+Rohde-Liebenau and Graf 521
+Graf L (2018) Combined modes of gradual change: The case of academic upgrading and declining collectiv-
+ism in German skill formation. Socio-Economic Review 16(1): 185–205.
+Graf L and Marques M (2022) Towards a European model of collective skill formation? Analysing the 
+European Alliance for Apprenticeships. Journal of Education Policy. 1–21. Advance online publication.  
+https://doi.org/10.1080/02680939.2022.2097317
+Graf L, Powell JJW, Fortwengel J, et al. (2014) Dual Study Programmes in Global Context: 
+Internationalisation in Germany and Transfer to Brazil, France, Qatar, Mexico and the US. Dok&Mat 
+77. Bonn: DAAD.
+Greinert W-D (2010) Governance models of training for employment: A European perspective. Research in 
+Comparative and International Education 5(3): 251–260.
+Grek S (2008) From symbols to numbers: The shifting technologies of education governance in Europe. 
+European Educational Research Journal 7(2): 208–218.
+Grek S (2010) International organisations and the shared construction of policy ‘problems’: Problematisation 
+and change in education governance in Europe. European Educational Research Journal 9(3): 396–406.
+Hall PA and Soskice DW (2001) Varieties of Capitalism: The Institutional Foundations of Comparative 
+Advantage. New York, NY: Oxford University Press.
+Héritier A and Rhodes M (2011) New Modes of Governance. London: Palgrave Macmillan UK.
+Hobsbawm E (2007) Nations and Nationalism Since 1780. Programme, Myth, Reality, 2nd edn. Cambridge: 
+Cambridge University Press.
+Marks G and Hooghe L (2003) Unraveling the central state, but how? Types of multi-level governance. 
+American Political Science Review 97(2): 233–243.
+Höpner M (2005) Epilogue to ‘Explaining institutional complementarity’: What have we learnt? 
+Complementarity, coherence and institutional change. Socio-Economic Review 3(2): 383–388.
+IAB (2004) Nationaler Pakt für Ausbildung und Fachkräftenachwuchs in Deutschland. Institut für 
+Arbeitsmarkt- und Berufsforschung. Bundesagentur für Arbeit. Nationaler Pakt für Ausbildung 
+und Fachkräftenachwuchs in Deutschland vom 16.06.2004. Available at: https://doku.iab.de/
+chronik/31/2004_06_16_31_ausbildungspakt.pdf (accessed 13 December 2021).
+Jørgensen CH, Olsen OJ and Thunqvist DP (2018) Vocational Education in the Nordic Countries. Learning 
+From Diversity. New York, NY: Routledge.
+Kohler-Koch B and Rittberger B (2006) Review article: The ‘governance turn’ in EU studies. Journal of 
+Common Market Studies 44(s1): 27–49.
+Kristensen PH and Morgan G (2012) From institutional change to experimentalist institutions. Industrial 
+Relations 51: 413–437.
+Kushnir I (2016) The role of the Bologna process in defining Europe. European Educational Research 
+Journal 15(6): 664–675.
+Lange B and Alexiadou N (2007) New forms of European Union governance in the education sector? A prelimi-
+nary analysis of the Open Method of Coordination. European Educational Research Journal 6(4): 321–335.
+Lange B and Alexiadou N (2010) Policy learning and governance of education policy in the EU. Journal of 
+Education Policy 25(4): 443–463.
+Lisbon European Council (2000) Presidency Conclusions (23-24 Mar. 2000). Lisbon: European Council 
+(EC). Available at: http://www.consilium.europa.eu/uedocs/cms_data/docs/pressdata/en/ec/00100-r1.
+en0.htm (accessed 8 August 2022).
+Littig B (2009) Interviewing the elite interviewing experts: Is There a difference? In: Bogner A (ed.) 
+Interviewing Experts. Basingstoke: Palgrave Macmillan, pp.98–113.
+Lodge M (2007) Comparing non-hierarchical governance in action: The Open Method of Co-ordination in 
+pensions and information society. Journal of Common Market Studies 45(2): 343–365.
+Maggetti M and Gilardi F (2014) Network governance and the domestic adoption of soft rules. Journal of 
+European Public Policy 21(9): 1293–1310.
+Martin CJ and Graf L (2019) Industrial coordination and vocational training in the post-industrial age. In: 
+Nijhuis DO (ed.) Business Interests and the Development of the Modern Welfare State. New York, NY: 
+Routledge, pp.292–313.
+--- PAGE 20 ---
+522 European Educational Research Journal 23(4)
+Mattei P (2012) Market accountability in schools: Policy reforms in England, Germany, France and Italy. 
+Oxford Review of Education 38(3): 247–266.
+Maxwell JA and Chmiel M (2014) Notes toward a theory of qualitative data analysis. In: Flick U (ed.) The 
+SAGE Handbook of Qualitative Data Analysis. London: SAGE Publications Ltd. pp.21–34.
+Mayer KU and Solga H (2008) Skill Formation: Interdisciplinary and Cross-National Perspectives. New 
+York, NY: Cambridge University Press.
+Murphy M (2003) Covert action? Education, social policy and law in the European Union. Journal of 
+Education Policy 18(5): 551–562.
+Nóvoa A (2013) Numbers do not replace thinking. European Educational Research Journal 12(1): 139–148.
+O’Reilly J, Eichhorst W, Gábos A, et al. (2015) Five characteristics of youth unemployment in Europe. Sage 
+Open 5(1): 1–19.
+Padgett S (2003) Between synthesis and emulation: EU policy transfer in the power sector. Journal of 
+European Public Policy 10(2): 227–245.
+Panke D (2012) Process tracing. In: Radaelli CM and Exadyktolos T (eds) Research Design in European 
+Studies. New York, NY: Palgrave Macmillan, pp.1–16.
+Paterson WE (2011) The reluctant hegemon? Germany moves centre stage in the European union. Journal of 
+Common Market Studies 49(L.1): 57–75.
+Phillips D (2004) Toward a theory of policy attraction in education. In: Steiner-Khamsi G (ed.) The Global 
+Politics of Educational Borrowing and Lending. New York, NY: Teachers College Press, pp.54–68.
+Pollack MA (1994) Creeping competence: The expanding agenda of the European Community. Journal of 
+Public Policy 14(2): 95–145.
+Pouliot VJTC (2015) Practice tracing. In: Andrew B (ed.) Process Tracing. Cambridge: Cambridge University 
+Press, pp.237–259.
+Poulsen SB and Eberhardt C (2016) Approaching Apprenticeship Systems From a European Perspective. 
+Bonn: BIBB.
+Powell JJW, Bernhard N and Graf L (2012) The emergent European model in skill formation: Comparing 
+higher education and vocational training in the Bologna and Copenhagen processes. Sociology of 
+Education 85(3): 240–258.
+Powell JJW and Solga H (2010) Analyzing the nexus of higher education and vocational training in Europe: 
+A comparative-institutional framework. Higher Education Studies 35(6): 705–721.
+Protsch P and Solga H (2017) Going across Europe for an apprenticeship? A factorial survey experiment on 
+employers’ hiring preferences in Germany. Journal of European Social Policy 27(4): 387–399.
+Prpic M (2014) At a Glance: The Open Method of Coordination. Brussels: European Parliamentary Research 
+Service.
+Rohde-Liebenau J (2020) Raising European Citizens? European identity in European Schools. Journal of 
+Common Market Studies 58(6): 1504–1522.
+Sabel CF and Zeitlin J (2012a) Experimentalism in the EU: Common ground and persistent differences. 
+Regulation & Governance 6(3): 410–426.
+Sabel CF and Zeitlin J (2012b) Experimentalist governance. In: Levi-Faur D (ed.) The Oxford Handbook of 
+Governance. New York, NY: Oxford University Press, pp.1–19.
+Scharpf FW (1997) Introduction: The problem-solving capacity of multi-level governance. Journal of 
+European Public Policy 4(4): 520–538.
+Scharpf FW (2001) Notes toward a theory of multilevel governing in Europe. Scandinavian Political Studies 
+24(1): 1–26.
+Shavit Y and Muller W (2000) Vocational secondary education: Where diversion and where safety net? 
+European Societies 2(1): 29–50.
+Solga H, Brzinsky-Fay C, Graf L, et al. (2013) Vergleiche innerhalb von Gruppen und institutionelle 
+Gelingensbedingungen. Berlin: WZB Discussion Paper SP I, pp.2013–2501.
+Souto-Otero M (2015) Conclusions: Who benefits from EU policy-making in education? The European 
+Commission and the privatization of education policy. In: Souto-Otero M (ed.) Evaluating European 
+Education Policy-Making. London: Palgrave Macmillan UK, pp.166–182.
+--- PAGE 21 ---
+Rohde-Liebenau and Graf 523
+Souto-Otero M and Beneito-Montagut R (2016) From governing through data to governmentality through 
+data: Artefacts, strategies and the digital turn. European Educational Research Journal 15(1): 14–33.
+Steiner-Khamsi G (2004) Globalization in Education. In: Steiner-Khamsi G (ed.) The Global Politics of 
+Educational Borrowing and Lending. New York, NY: Teachers College Press, pp.1–6.
+Streeck W, Crouch C, Boyer R, et al. (2005) Dialogue on ‘Institutional complementarity and political econ-
+omy’ complementarity, hierarchy, compatibility, coherence. Socio-Economic Review 3: 371–373.
+Tavory I (2020) Interviews and inference: Making sense of interview data in qualitative research. Qualitative 
+Sociology 43(4): 449–465.
+Telling K and Serapioni M (2019) The rise and change of the competence strategy: Reflections on twenty-five 
+years of skills policies in the EU. European Educational Research Journal 18(4): 387–406.
+Thelen K (2004) How Institutions Evolve. New York, NY: Cambridge University Press.
+Thelen K (2014) Varieties of Liberalization and the New Politics of Social Solidarity. New York, NY: 
+Cambridge University Press.
+Tröhler D (2016) Curriculum history or the educational construction of Europe in the long nineteenth century. 
+European Educational Research Journal 15(3): 279–297.
+Tveit S and Lundahl C (2018) New modes of policy legitimation in education: (Mis)using comparative data 
+to effectuate assessment reform. European Educational Research Journal 17(5): 631–655.
+Ursin J, Zamorski B, Stiwne EE, et al. (2010) The Bologna process: Help or hindrance to the development of 
+European higher education? European Educational Research Journal 9(1): 29–31.
+Walkenhorst H (2008) Explaining change in EU education policy. Journal of European Public Policy 15(4): 
+567–587.
+Warleigh-Lack A and Drachenberg R (2011) Spillover in a soft policy era? Evidence from the Open Method 
+of Co-ordination in education and training. Journal of European Public Policy 18(7): 999–1015.
+Wieland C (2015) Germany’s dual vocational-training system: Possibilities for and limitations to transfer-
+ability. Local Economy 30(5): 577–583.
+Author biographies
+Judith Rohde-Liebenau is affiliate research fellow at the Jacques Delors Centre, Hertie School, Berlin. 
+Previously, she was a postdoctoral researcher at the Hertie School. Her research interests include European 
+integration and policy learning, (transnational) education and identity, and qualitative methods. She success-
+fully completed her DPhil (PhD) in Sociology at the University of Oxford in 2018. She also holds Political 
+Science degrees from Freie Universität Berlin, Sciences Po Paris, UCL London, and Humboldt-Universität zu 
+Berlin.
+Lukas Graf is Assistant Professor of Educational Governance at the Hertie School, Berlin. His research analy-
+ses contemporary challenges and developments related to education, training, skill formation, and lifelong 
+learning, as well as social inequality and change, from a comparative and international perspective. He leads 
+the Hertie School’s Educational Governance Team. Previously, he worked at the University of St. Gallen, the 
+University of Luxembourg, and the WZB Berlin Social Science Center.

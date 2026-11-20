@@ -74,12 +74,13 @@ related_facts:
   - "[[German Academic Exchange Service]]"
   - "[[Federal Office for Economic Affairs and Export Control]]"
 related_arguments:
-  - "[[Argument_Knogler_2025_BB]]"
-  - "[[Argument_Hartong_2018_GSE]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
-  - "[[Argument_Niemann_Martens_2018_GSP]]"
-  - "[[Argument_Manitius_vanHolt_2019_BzS]]"
+  - "[[Argument_Hartong_2018_GSE]]"
+  - "[[Argument_Hippach-Schneider_Rieder_2022_RCIE]]"
+  - "[[Argument_Knogler_2025_BB]]"
   - "[[Argument_Luo_2026_IFDCK]]"
+  - "[[Argument_Manitius_vanHolt_2019_BzS]]"
+  - "[[Argument_Niemann_Martens_2018_GSP]]"
 confidence: high
 status: active
 created: 2026-09-18
@@ -212,9 +213,10 @@ updated: 2026-11-20
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 剖析 BMBF 如何利用 2000 年 PISA 冲击冲破各州文化主权束缚，推行 40 亿欧元全日制学校计划（IZBB）并协同确立国家教育标准。
-> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 记录 BMBF 在 PISA 震荡后资助 CHIK 与 SINUS 等理科改进工程并转向产出监控的实证[[Document|文献]]。
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 记录 BMBF 在 PISA 震荡后资助 CHIK 与 SINUS 等理科改进工程并转向产出监控的实证文献。
+> - [[Argument_Hartong_2018_GSE|Hartong (2018)]] — 剖析 BMBF 在国家教育监测总体战略与跨尺度数据基础设施中的联邦治理定位。
+> - [[Argument_Hippach-Schneider_Rieder_2022_RCIE|Hippach-Schneider and Rieder (2022)]] — 剖析 BMBF 在推进 50 亿欧元学校数字化公约中遭遇的宪制“合作禁令”阻力，揭示联邦财政专项与各州教育主权之间的修宪博弈（pp. 627–628）。
 > - [[Argument_Knogler_2025_BB|Knogler et al. (2025)]] — 剖析 BMBF 在 QLB 框架下孵化 CHU 清算中心并协同 ZIB 的文献。
-> - [[Argument_Hartong_2018_GSE|Hartong (2018)]] — 剖析 BMBF 在国家教育监测[[Total War|总体战]]略与跨尺度[[Data Infrastructure|数据基础设施]]中的联邦治理定位。
 > - [[Argument_Luo_2026_IFDCK|Luo (2026)]] — 系统梳理 BMBF 2015 至 2024 年间主导实施的中国战略与中国能力资助项目，揭示资助治理从双边合作向地缘安全去风险演化的政策轨迹。
-> - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 剖析 BMBF 实证教育研究框架规划（聚焦转移与实施研究）与 QLB 教师教育攻坚中的多[[Paradigm|范式]]治理张力。
+> - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 剖析 BMBF 实证教育研究框架规划（聚焦转移与实施研究）与 QLB 教师教育攻坚中的多范式治理张力。
+> - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 剖析 BMBF 如何利用 2000 年 PISA 冲击冲破各州文化主权束缚，推行 40 亿欧元全日制学校计划（IZBB）并协同确立国家教育标准。

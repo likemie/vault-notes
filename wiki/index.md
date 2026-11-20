@@ -4596,7 +4596,7 @@ Total entries: **5510**
 > [!index-list]- Organization (18)
 > - [[Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung]] — 德国联邦政府与十六个联邦州于 1970 年联合创设的常设跨政府协调机构（2007 年因联邦制改革由联合科学大会 GWK 接替），作为协同联邦主义架构下统筹全国教育规划与国家级科研资助的最高枢纽，通过设立“教育体系模型试验计划”（Modellversuche im Bildungswesen），孵化了 SINUS、CHiK 等重大改革工程，奠定了德语区教育转移科学与跨校协作治理的历史制度基石。
 > - [[Clearing House Unterricht]] — 2017年慕尼黑工业大学创设的德语区首个教育科学证据清算中介机构，经历联邦项目孵化、大学实体运行与私人基金会接续资助三阶段，以理科教学有效性元分析为基底，与德国国际比较中心（ZIB）开展宏微观协同，重点面向大学教师教育者与研训骨干提供简评与学院培训，但其底层单向改写的转移作用假设面临实证成效赤字批判。
-> - [[Federal Institute for Vocational Education and Training]] — 依据德国《职业教育法》设立的联邦公法机构，承担国家职业教育科学研究、现代职业培训条例开发协调以及促进联邦、各州与社会伙伴三方治理协商的核心法定智库职能
+> - [[Federal Institute for Vocational Education and Training]] — 依据德国《职业教育法》设立的联邦公法机构，承担国家职业教育科学研究、现代职业培训条例开发协调以及促进联邦、各州与社会伙伴三方治理协商的核心法定智库职能。
 > - [[Federal Ministry of Education and Research]] — 德国联邦最高教育与科研行政主管部委，在文化联邦制宪法框架下统筹国家重大科技创新资助、产学研协同、实证教育研究框架规划（设转移与实施专项）及全国性教育质量攻坚工程（如 QLB），联合 KMK 创设国际比较中心（ZIB）、委托编撰国家教育报告（DIPF）并立项出资孵化德国教学研究清算中心（CHU）。
 > - [[Federal Office for Economic Affairs and Export Control]] — 德国联邦经济和气候保护部下属的高级联邦行政主管机关，负责国家外贸与出口管制、战略物资与两用技术监管、经济促进及能源转型补贴；在科研安全治理转型中出台学术环境出口管制手册，将外贸法防线内嵌至大学跨国科研合作与涉外人员资质筛查体系。
 > - [[Forschungsmonitor Schule]] — 德国各联邦州州立研究所与质量保障机构联合发起的教育实证研究监测与中介平台，面向职前职后教师、教师教育者与教育行政人员，不设学科限制，提供数字化与学校发展等多元主题的实践导向研究评介。

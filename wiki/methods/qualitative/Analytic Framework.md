@@ -9,7 +9,7 @@ summary: "质性研究与比较教育研究中超越参与者日常语言、运�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 106
+method_related_count: 107
 method_related_level: 10
 method_related_stars: "💎💎💎⭐"
 method_related_color: "#dbeafe"
@@ -133,10 +133,11 @@ related_arguments:
   - "[[Argument_Deng_2016_CE]]"
   - "[[Argument_Chua_2011_CILP]]"
   - "[[Argument_Vavrus_2006_CICE]]"
+  - "[[Argument_Munch_2014_TCR]]"
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-11-20
+updated: 2026-11-21
 ---
 
 ---
@@ -207,6 +208,7 @@ updated: 2026-11-20
 > | **超国家证据利用五维分析框架** | 涵盖研究与证据界定、行动者定位、[[Research Utilization\|证据使用]]形态（工具/概念/象征）、整合与转译机制、系统与制度条件五大维度，追踪政策话语建构 | 解构超国家组织如何战略性推介特定证据形态、建构[[Evidence Culture\|证据文化]]并形塑各层决策社群 | [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026, pp. 342–344)]] |
 > | **多标量跨国政策循环分析框架** | 引入发展合作透镜，整合[[Policy Ambassador\|政策大使]]、[[Representational Knowledge\|代表性知识]]与南南技术协作，追踪政策模型在多标量与多向度网络中的循环流动 | 跨国政策流动如何超越西方中心与国家主义假设、全球南方制度创新如何实现跨国扩散 | [[Argument_Stone_2020_PolSoc\|Stone et al. (2020, pp. 2–4, 15–16)]] |
 > | **政策反应二维四象限分析框架** | 以政策指引程度（高/低）与政策背书强度（强/弱）为双轴建立类型学矩阵，系统映射主权国家应对跨国治理工具的差异化吸纳与防御策略 | 跨国比较教育治理中主权国家对全球评估工具的多元政策回应机制与本土制度重构 | [[Argument_Xie_Li_Huang_2021_GEO\|谢爱磊等 (2021, pp. 419–420)]] |
+> | **制度同构与制度混杂体分析框架** | 整合新制度主义制度同构（规范/模仿）、布迪厄符号权力与历史制度主义制度混杂体理论，追踪全球测评规制、课程快餐化与本土历史三轨体制的深层冲突 | 跨国评估规制对主权国家教育体制的合法性垄断与微观功能失调混杂体生成 | [[Argument_Munch_2014_TCR\|Münch (2014, pp. 1–32)]] |
 > | **超国家教育[[Panopticism\|全景敞视]]分析框架** | 融合福柯权力-知识理论、[[Governmentality\|治理术]]与全景敞视机制，从欧洲教育空间、知识社会与经济、知识政治及全景敞视建筑四层级拆解软治理技术规程 | 解构超国家一体化中非民选专家如何借助软法协调、指标监测与同行排位构建跨国规训监控网络 | [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009, pp. 480–481, 486–487)]] |
 
 > [!proc] 质性分析程序
@@ -267,4 +269,5 @@ updated: 2026-11-20
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 通过三级扎根编码提炼[[System-Wide Improvement|全系统改进]]的关键驱动力，构建以宏微观治理桥接与教学实践为核心的整合性分析框架（p. 5）。
 > - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 构建整合跨国政策批判、五十年历史制度演化考证与千余节常态课堂录像实证的三维分析框架，系统解构高绩效神话并阐释[[Pedagogical Hybridity|教学杂糅]]机理。（pp. 450–452）
 > - [[Argument_Chua_2011_CILP|Chua (2011)]] — 运用卡普兰与鲍尔道夫（Kaplan & Baldauf, 1997）的八维语言教育规划分析框架，系统解构新加坡从非英语社会转型为懂英语国家的政策协同机制与非预期语言接触后果（pp. 127–130）。
+> - [[Argument_Munch_2014_TCR|Münch (2014)]] — 整合新制度主义制度同构、布迪厄符号权力与制度混杂体分析框架，系统解构经合组织 PISA 测评对教育合法性定义的垄断及其在德国中等教育体制中催生的功能失调病理。
 > - [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] — 阐明比较教育学者如何依托学科基础理论确立概念分析框架，并结合跨学科方法以把握微观、国家与国际多尺度变量的复杂互动机制（p. 100）。
