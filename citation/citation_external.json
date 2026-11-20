@@ -7593,6 +7593,8 @@
     "Emese K. Nagy, 2022": "Emese K. Nagy, 2022",
     "Emma Rowe (2022)": "Emma Rowe, 2022",
     "Emma Rowe, 2022": "Emma Rowe, 2022",
+    "Emmenegger & Seitzl (2019)": "Emmenegger & Seitzl, 2019",
+    "Emmenegger & Seitzl, 2019": "Emmenegger & Seitzl, 2019",
     "Emmioglu & Capa-Aydin (2012)": "Emmioglu & Capa-Aydin, 2012",
     "Emmioglu & Capa-Aydin, 2012": "Emmioglu & Capa-Aydin, 2012",
     "Emslander et al. (2023)": "Emslander et al., 2023",
@@ -9744,6 +9746,8 @@
     "Gong, 2009": "Gong, 2009",
     "Gong, 2020": "Gong, 2020",
     "Gonon (1998)": "Gonon, 1998",
+    "Gonon et al. (2016)": "Gonon et al., 2016",
+    "Gonon et al., 2016": "Gonon et al., 2016",
     "Gonon, 1998": "Gonon, 1998",
     "Gonsalves (2024)": "Gonsalves, 2024",
     "Gonsalves, 2024": "Gonsalves, 2024",
@@ -20949,6 +20953,8 @@
     "Raudenbush, 2015": "Raudenbush, 2015",
     "Rauenbusch (1991)": "Rauenbusch, 1991",
     "Rauenbusch, 1991": "Rauenbusch, 1991",
+    "Rauner (2017)": "Rauner, 2017",
+    "Rauner, 2017": "Rauner, 2017",
     "Rauscher (1997)": "Rauscher, 1997",
     "Rauscher (2000)": "Rauscher, 2000",
     "Rauscher, 1997": "Rauscher, 1997",
@@ -26145,6 +26151,8 @@
     "Urbina, 2017": "Urbina, 2017",
     "Urhan et al. (2024)": "Urhan et al., 2024",
     "Urhan et al., 2024": "Urhan et al., 2024",
+    "Ursula Renold et al. (2019)": "Ursula Renold et al., 2019",
+    "Ursula Renold et al., 2019": "Ursula Renold et al., 2019",
     "Ursula Springer (1969)": "Ursula Springer, 1969",
     "Ursula Springer, 1969": "Ursula Springer, 1969",
     "Ursula Springer, 1969a": "Ursula Springer, 1969",
@@ -85028,6 +85036,21 @@
       ],
       "title": ""
     },
+    "Emmenegger & Seitzl, 2019": {
+      "aliases": [
+        "Emmenegger & Seitzl, 2019",
+        "Emmenegger & Seitzl (2019)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Emmenegger & Seitzl, 2019"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Hippach-Schneider_Rieder_2022_RCIE.md"
+      ],
+      "title": ""
+    },
     "Emmioglu & Capa-Aydin, 2012": {
       "aliases": [
         "Emmioglu & Capa-Aydin, 2012",
@@ -100783,6 +100806,21 @@
       ],
       "title": ""
     },
+    "Gonon et al., 2016": {
+      "aliases": [
+        "Gonon et al., 2016",
+        "Gonon et al. (2016)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Gonon et al., 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Hippach-Schneider_Rieder_2022_RCIE.md"
+      ],
+      "title": ""
+    },
     "Gonon, 1998": {
       "aliases": [
         "Gonon, 1998",
@@ -103651,7 +103689,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Hippach-Schneider_Rieder_2022_RCIE.md"
       ],
-      "title": ""
+      "title": "Die dimension politischer blockierung: hindernisse wirksamer reformpolitik"
     },
     "Grek & Lindgren, 2015": {
       "aliases": [
@@ -182439,6 +182477,21 @@
       "seen_in": [],
       "title": "Making Reading More Difficult  A Degraded Text Microworld for Teaching Reading Comprehension Strategies"
     },
+    "Rauner, 2017": {
+      "aliases": [
+        "Rauner, 2017",
+        "Rauner (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Rauner, 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Hippach-Schneider_Rieder_2022_RCIE.md"
+      ],
+      "title": ""
+    },
     "Rauscher, 1997": {
       "aliases": [
         "Rauscher, 1997",
@@ -220209,6 +220262,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Computers and Education Artificial Intelligence/Argument_Li_2026_CEAI.md"
+      ],
+      "title": ""
+    },
+    "Ursula Renold et al., 2019": {
+      "aliases": [
+        "Ursula Renold et al., 2019",
+        "Ursula Renold et al. (2019)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ursula Renold et al., 2019"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Hippach-Schneider_Rieder_2022_RCIE.md"
       ],
       "title": ""
     },
