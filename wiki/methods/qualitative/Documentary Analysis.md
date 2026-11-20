@@ -130,7 +130,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 ---
@@ -220,15 +220,16 @@ updated: 2026-11-19
 
 ---
 
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_King_2007_CE|King (2007)]] — 运用政策文献分析系统比对[[World Declaration on Education for All|宗滴恩宣言]]、[[Development Assistance Committee|DAC]] 报告、达喀尔纲领与千年宣言，揭示多边机构在[[Policy Translation|政策转译]]中将基础教育议程窄化为初等量化指标的机制（pp. 377–389）。
 > - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 系统比对[[European Commission|欧盟委员会]]公报、工作人员工作文件与[[EU|欧盟]]理事会决议等战略政策文本，对比里斯本目标、[[Education and Training 2020|ET2020]] 与[[European Education Area|欧洲教育区]]指标体系的历史演进与话语流变。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 运用政策法规与课程大纲文献分析，梳理阿根廷与巴西 1990 年代国家教育法、联邦课程指南及商业教辅目录，结合访谈揭示官方修辞与学校微观实践的剧烈脱节。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|Cohen et al. (2011, Ch. 12)]] — 系统介绍了文献分析方法的核心程序、三种理论传统、伦理与法律议题，并提供了教育研究中文献分析的多个案例。
-> - [[Argument_Hughes_2014_JRIE|Hughes (2014, pp. 35–41)]] — 以 2013 年 ToK 课程指南为材料，将课程目标、评估目标和最高等级评分描述符中的命令词与多套[[Critical Thinking|批判性思维]]分类框架进行质性对齐，以判断课程[[Internal Consistency|内部一致性]]及其[[Construct Validity|构念效度]]。
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023, pp. 5–20)]] — 对 152 个国家政策文件及 [[OECD]] 成员国资格框架展开文献分析，梳理监管、财政与信息等政策工具在推动[[Creativity|创造力]]与[[Critical Thinking Assessment|批判性思维评价]]中的机制断裂。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|Cohen et al. (2011, Ch. 12)]] — 系统介绍了文献分析方法的核心程序、三种理论传统、伦理与法律议题，并提供了教育研究中文献分析的多个案例。
 > - [[Argument_Gough_2022_EvidenceOnEIPP|Gough et al. (2022, pp. 149–156)]] — 对全英有效性中心（[[What Works Network|WWCs]]）的官方战略规划、实施指南及 15 个国际网络证据门户的规程文本展开系统性文献与跨案例分析（Documentary Analysis），提炼出[[Educational Brokerage Agency|知识中介机构]]的演变轨迹、六维[[Evidence Standards|证据标准]]与功效主张的四类病理根源。
 > - [[Argument_Helgetun_2022_JEdPolicy|Helgetun and Menter (2022, pp. 91–93)]] — 运用 MAXQDA 对 1983 至 2019 年间英格兰 46 份教师教育政策开展文献分析，追踪引文演化与国际参照系变迁，揭示“证据”如何被制度化为[[Rationalized Myth|合理化神话]]。
+> - [[Argument_Hippach-Schneider_Rieder_2022_RCIE|Hippach-Schneider and Rieder (2022)]] — 检索 2016 至 2019 年间德瑞两国数字化职教政策法案、行会倡议与学术白皮书，归纳为五大主题群组开展比较文献分析。
+> - [[Argument_Hughes_2014_JRIE|Hughes (2014, pp. 35–41)]] — 以 2013 年 ToK 课程指南为材料，将课程目标、评估目标和最高等级评分描述符中的命令词与多套[[Critical Thinking|批判性思维]]分类框架进行质性对齐，以判断课程[[Internal Consistency|内部一致性]]及其[[Construct Validity|构念效度]]。
 > - [[Argument_Kelly_2025_ROE|Kelly et al. (2025, pp. 9–10)]] — 对英格兰、德国（汉堡）与苏格兰三地的 49 份政府政策文本、国际非政府组织报告及中介机构公开文献进行跨国文献分析（Documentary Analysis），系统梳理了不同治理体制下[[Research Utilization|研究使用]]指引的目标受众、证据呈现与支持方式。
 > - [[Argument_Edmondson_2005_EPAA|Edmondson (2005, pp. 4–10)]] — 运用文献分析（Documentary Analysis）系统对比了美国《[[Reading Excellence Act|卓越阅读法案]]》在众议院与参议院审议中的立法文本草案、听证会证词及专业协会政策声明，解析了阅读定义与科学证据门槛演变背后的政策博弈。
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024, pp. 6–13)]] — 运用文献分析对美国《[[Infrastructure Investment and Jobs Act|IIJA]]》、《[[CHIPS and Science Act|芯片法案]]》与《[[International Reading Association|IRA]]》法定条文、联邦规章及资助公告展开系统梳理，解析护栏条款与社会附加条件的运行机制。

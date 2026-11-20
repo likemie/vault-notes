@@ -74,9 +74,9 @@ issuing_organization: ""
 > 两大学徒制联盟的平行演化根植于欧盟与德国分别应对跨界宏观治理危机的独立政策创新，外部挑战驱动机制在多层治理变革中发挥了决定性作用。以自愿承诺、议程编排与中介平台为特征的实验主义治理架构为跨情境经验互鉴提供了制度载体；国家间制度传统的异质性决定了外部最佳实践在落地时必须通过情境化混合吸纳，消解了单一范本机械单向移植的可能。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 欧洲联盟（European Union, EU）层面的[[European Alliance for Apprenticeships|欧洲学徒制联盟]]（European Alliance for Apprenticeships, EAfA）与德国国家层面的[[Alliance for Initial and Further Training|职前与继续培训联盟]]（Allianz für Aus- und Weiterbildung, AAW）在 2004 至 2021 年间的制度演进。
-> - **张力** 经验现象上两大多边联盟在一年之内相继问世且组织结构高度同构，传统政策转移理论在解释这一现象时陷入了“德国模式单向输出论”与“欧盟软协调自上而下规制论”的经验对立与实证脱节。
-> - **贡献** 引入[[Experimentalist Governance|实验主义治理]]理论并构建四维驱动因果分析网格，运用过程追踪法打开了多层职业技能形成治理变革的因果黑箱，确立了外部治理危机作为分散化政策创新原生动力的理论定位。
+- **对象** 欧洲联盟（European Union, EU）层面的[[European Alliance for Apprenticeships|欧洲学徒制联盟]]（European Alliance for Apprenticeships, EAfA）与德国国家层面的[[Alliance for Initial and Further Training|职前与继续培训联盟]]（Allianz für Aus- und Weiterbildung, AAW）在 2004 至 2021 年间的制度演进。
+- **张力** 经验现象上两大多边联盟在一年之内相继问世且组织结构高度同构，传统政策转移理论在解释这一现象时陷入了德国模式单向输出与欧盟自上而下软协调规制的经验对立与实证脱节。
+- **贡献** 引入[[Experimentalist Governance|实验主义治理]]理论并构建四维驱动因果分析网格，运用过程追踪法打开了多层职业技能形成治理变革的因果黑箱，确立了外部治理危机作为分散化政策创新原生动力的理论定位。
 
 ---
 
@@ -95,14 +95,14 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **路径案例与嵌套子案例过程追踪**<br>[[Process Tracing]] | 采用路径案例（Pathway case）与双嵌套案例比较设计，运用实践追踪与因果过程观察（Beach & Pedersen, 2013; Collier, 2011; Pouliot, 2015），对四种理论化驱动假说进行严格的案例内经验检验与排他性裁决。 |
+> | **路径案例与嵌套子案例过程追踪**<br>[[Process Tracing]] | 采用路径案例与双嵌套案例比较设计，运用实践追踪与因果过程观察（Beach & Pedersen, 2013; Collier, 2011; Pouliot, 2015），对四种理论化驱动假说进行严格的案例内经验检验与排他性裁决。 |
 > | **精英深度访谈**<br>[[Elite Interview]] | 于 2019 年底至 2021 年底期间，对 8 位直接参与或主管欧洲学徒制联盟与德国联盟事务的高级文官实施半结构化深度访谈（Littig, 2009; Tavory, 2020），挖掘组织演化轨迹与内部决策考量。 |
-> | **跨期政策档案考证与主题编码**<br>Qualitative Thematic Analysis | 系统搜集并编码 2004 至 2021 年间欧盟指令、理事会建议书（EFQEA）、公报及德国国家培训公约、联盟协议文本与官方评估白皮书，实现口述实录与公开档案的三角互证。 |
+> | **跨期政策档案考证与质性主题编码** | 系统搜集并编码 2004 至 2021 年间欧盟指令、2018 年《高质量和有效学徒制欧洲框架》（European Framework for Quality and Effective Apprenticeships, EFQEA）理事会建议书、公报及德国国家培训公约、联盟协议文本与官方评估白皮书，实现口述实录与公开档案的三角互证。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
-> | **文本样本** | 涵盖 2004 至 2021 年间欧盟委员会 2012 年《重新思考教育》公报、2013 年莱比锡联合宣言、2018 年《高质量和有效学徒制欧洲框架》理事会建议书、2020 年《欧洲技能议程》；德国 2004 至 2014 年《国家培训与青年专业人才公约》、2014 与 2019 年两轮《职前与继续培训联盟协议》及联邦职业教育研究所（BIBB）年度数据白皮书。 |
+> | **文本样本** | 涵盖 2004 至 2021 年间欧盟委员会 2012 年《重新思考教育》公报、2013 年莱比锡联合宣言、2018 年《高质量和有效学徒制欧洲框架》（EFQEA）理事会建议书、2020 年《欧洲技能议程》；德国 2004 至 2014 年《国家培训与青年专业人才公约》、2014 与 2019 年两轮《职前与继续培训联盟协议》及德国联邦职业教育研究所（Federal Institute for Vocational Education and Training, BIBB）年度数据白皮书。 |
 > | **访谈样本** | 8 位核心决策高级文官：德国层面 3 位（Interview_1, Interview_2, Interview_4，涵盖联邦经济部、联邦教育部）；双重治理层面 3 位（Interview_3, Interview_5, Interview_6）；欧盟层面 2 位（Interview_7, Interview_8，涵盖欧洲委员会就业总司）。 |
 > | **材料情境** | 德英双语档案考证与匿名访谈实录，重点结合非公开谈判脉络与政策修辞进行三角核验，有效排除受访者事后合理化与公关说辞干扰。 |
 
@@ -111,10 +111,10 @@ issuing_organization: ""
 > [!row-contrast] 职业教育治理改革四种理论化驱动机制与过程追踪检验结果
 > | 驱动机制假说 | 传导方向与核心预设 | 预期经验证据 | 过程追踪经验检验与实证裁决 |
 > |---|---|---|---|
-> | **假说一：德国驱动**<br>（German-driven） | 自下而上；德国凭借双元制标杆优势，向欧盟输出本国最佳实践模式（Euler, 2013; Wieland, 2015）。 | 访谈与档案显现德国官方在欧盟联盟筹备中充当主导游说者与方案设计者。 | **证据不足排除** 莱比锡启动仅为各方借势发布的公关节点；欧委会主导议程，德国对外职教合作长期以双边为主（BMBF, 2013b）。 |
-> | **假说二：欧盟驱动**<br>（EU-driven） | 自上而下；欧盟为推进一体化产生治理需求，通过软协调自上而下塑造国家政策（Pollack, 1994; Warleigh-Lack & Drachenberg, 2011）。 | 德国联盟的签署体现对欧盟指令、建议书或欧洲联盟设立的依从性响应。 | **证据否定排除** 德国联盟脱胎于 2004 年《国家培训公约》，重组核心在于吸纳工会共治以化解内生协商失衡，借用“联盟”仅为标签借用（Busemeyer, 2015）。 |
-> | **假说三：相互借鉴**<br>（Cross-fertilisation） | 双向水平；欧盟与国家在平台内持续双向互动，共同探索并吸收最佳实践（Phillips, 2004; Steiner-Khamsi, 2004）。 | 双方在政策制定中显现明确的相互吸收与制度学习痕迹。 | **部分确证但属从属机制** 未构成联盟创立的原生动力，但在联盟常态化运作中成为经验流动与标杆展示的重要平台载体（Graf & Marques, 2022）。 |
-> | **假说四：外部驱动**<br>（External mega-challenges） | 外部冲击；宏观危机超出既有治理承载能力，推动双方在多层架构中独立启动创新（Sabel & Zeitlin, 2012b）。 | 双方访谈与文本均高频指向青年失业、技能错配与产业转型危机，并采纳实验主义治理应对。 | **核心主导机制确证** 欧债危机、青年失业高企、技能短缺、学术化浪潮与双重转型，独立激发了双边的实验主义平台构建（European Commission, 2012, 2020a）。 |
+> | **假说一：德国驱动** | 自下而上；德国凭借双元制标杆优势，向欧盟输出本国最佳实践模式（Euler, 2013; Wieland, 2015）。 | 访谈与档案显现德国官方在欧盟联盟筹备中充当主导游说者与方案设计者。 | **证据不足排除** 莱比锡启动仅为各方借势发布的公关节点；欧委会主导议程，德国对外职教合作长期以双边为主（BMBF, 2013b）。 |
+> | **假说二：欧盟驱动** | 自上而下；欧盟为推进一体化产生治理需求，通过软协调自上而下塑造国家政策（Pollack, 1994; Warleigh-Lack & Drachenberg, 2011）。 | 德国联盟的签署体现对欧盟指令、建议书或欧洲联盟设立的依从性响应。 | **证据否定排除** 德国联盟脱胎于 2004 年《国家培训公约》，重组核心在于吸纳工会共治以化解内生协商失衡，借用联盟一词作为政治标签（Busemeyer, 2015）。 |
+> | **假说三：相互借鉴** | 双向水平；欧盟与国家在平台内持续双向互动，共同探索并吸收最佳实践（Phillips, 2004; Steiner-Khamsi, 2004）。 | 双方在政策制定中显现明确的相互吸收与制度学习痕迹。 | **部分确证但属从属机制** 未构成联盟创立的原生动力，但在联盟常态化运作中成为经验流动与标杆展示的重要平台载体（Graf & Marques, 2022）。 |
+> | **假说四：外部驱动** | 外部冲击；宏观危机超出既有治理承载能力，推动双方在多层架构中独立启动创新（Sabel & Zeitlin, 2012b）。 | 双方访谈与文本均高频指向青年失业、技能错配与产业转型危机，并采纳实验主义治理应对。 | **核心主导机制确证** 欧债危机、青年失业高企、技能短缺、学术化浪潮与双重转型，独立激发了双边的实验主义平台构建（European Commission, 2012, 2020a）。 |
 
 ---
 
@@ -147,13 +147,13 @@ flowchart TD
 > | 比较维度 | 欧洲学徒制联盟（EAfA） | 德国职前与继续培训联盟（AAW） |
 > |---|---|---|
 > | **正式启动时点** | 2013 年 7 月（莱比锡世界技能大赛宣布成立，2020 年深化更新） | 2014 年 12 月（联合声明签署成立，承接 2004–2014 年国家培训公约） |
-> | **协调统筹中枢** | 欧洲委员会（就业、社会事务与包容总司，DG EMPL）充当议程编排者 | 联邦经济事务与气候保护部（BMWK）牵头主持，联邦教育部（BMBF）协同推动 |
-> | **核心参与主体** | 欧洲委员会、理事会主席国、欧洲社会伙伴（ETUC、BusinessEurope、CEEP、UEAPME） | 联邦政府（经济部、教育部、劳动部）、联邦各州（KMK）、雇主商会（BDA、DIHK、ZDH）、工会（DGB） |
-> | **纵向多层结构** | 超国家欧盟中枢连接 37 个成员国政府承诺及地方企业、商会、职校 | 联邦全国性联盟全面对接全德 16 个联邦州设立的州级学徒制联盟（Landesallianzen） |
-> | **核心治理工具** | 37 项国家行动承诺（National commitments）与 362 项利益相关者自愿认领质押（Pledges） | 联合决议政治承诺、一对一学徒辅导资助（AsA）、跨企业培训中心现代化升级（ÜBS） |
-> | **科学监测依托** | 欧洲职业培训发展中心（Cedefop）与联盟学徒制支持服务体系（Apprenticeship Support Services） | 德国联邦职业教育研究所（Federal Institute for Vocational Education and Training, BIBB）年度数据白皮书 |
-> | **战略议程演进** | 从最初应对欧债危机青年高失业，转向 2018 年《高质量学徒制框架》与 2020 年绿色数字双重转型 | 从解决学徒岗位短缺，转向治理岗位错配、学术化学历膨胀、移民融入及 2019 年《国家继续培训战略》 |
-> | **跨国借鉴特征** | 推崇双元制工作本位学习为欧洲基准，成员国依本国体制发生深度混合化重塑 | 借用欧洲“联盟”政治词汇标签，借助欧盟多边平台展示德国双元制标杆权威 |
+> | **协调统筹中枢** | 欧洲委员会就业、社会事务与包容总司（Directorate-General for Employment, Social Affairs and Inclusion, DG EMPL）充当议程编排者 | 联邦经济事务与气候行动部（Federal Ministry for Economic Affairs and Climate Action, BMWK）牵头主持，联邦教育与研究部（Federal Ministry of Education and Research, BMBF）协同推动 |
+> | **核心参与主体** | 欧洲委员会、理事会主席国，以及欧洲工会联合会（European Trade Union Confederation, ETUC）、欧洲雇主协会（BusinessEurope）、欧洲公共雇主协会（European Centre of Employers and Enterprises providing Public Services, CEEP）、欧洲手工业与中小企业联合会（European Association of Craft, Small and Medium-sized Enterprises, UEAPME）等欧洲社会伙伴 | 联邦经济部、联邦教育部、联邦劳动部，德国各州文教部长联席会议（Standing Conference of the Ministers of Education and Cultural Affairs, KMK），德国雇主协会联合会（Confederation of German Employers' Associations, BDA）、德国工商大会（Association of German Chambers of Industry and Commerce, DIHK）、德国手工业中央协会（German Confederation of Skilled Crafts, ZDH），以及德国工会联合会（German Trade Union Confederation, DGB） |
+> | **纵向多层结构** | 超国家欧盟中枢连接 37 个成员国政府承诺及地方企业、商会、职校 | 联邦全国性联盟全面对接全德 16 个联邦州设立的州级学徒制联盟 |
+> | **核心治理工具** | 37 项国家行动承诺与 362 项利益相关者自愿认领承诺 | 联合决议政治承诺、带辅助的学徒培训（Assistierte Ausbildung, AsA）一对一辅导、跨企业培训中心（Überbetriebliche Berufsbildungsstätten, ÜBS）现代化升级 |
+> | **科学监测依托** | 欧洲职业培训发展中心（European Centre for the Development of Vocational Training, Cedefop）与学徒制支持服务体系 | 德国联邦职业教育研究所（BIBB）年度数据白皮书 |
+> | **战略议程演进** | 从最初应对欧债危机青年高失业，转向 2018 年 EFQEA 质量框架与 2020 年绿色数字双重转型 | 从解决学徒岗位短缺，转向治理岗位错配、学术化学历膨胀、移民融入及 2019 年《国家继续培训战略》 |
+> | **跨国借鉴特征** | 推崇双元制工作本位学习为欧洲基准，成员国依本国体制发生深度混合化重塑 | 借用欧洲联盟倡议的政治标签，借助欧盟多边平台展示德国双元制标杆权威 |
 
 ---
 
