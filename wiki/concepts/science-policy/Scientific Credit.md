@@ -32,7 +32,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Variable]]"
   - "[[Matthew Effect in Academia]]"
-  - "[[Study Abroad]]"
+  - "[[Scientific Hegemony]]"
 related_theories: []
 related_methods:
   - "[[Experimental Research]]"
@@ -52,10 +52,11 @@ related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit06]]"
   - "[[Argument_Fortunato_2018_Science]]"
+  - "[[Argument_VonDerHeyden_Heinze_2025_PLOSONE]]"
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-11-14
+updated: 2026-11-20
 ---
 
 ---
@@ -132,12 +133,21 @@ updated: 2026-11-14
 
 ---
 
+> [!concept-proposition] 命题四｜跨国最高学术承认的分配受国家科学霸权调节，但提名垄断未能直接掌控裁决
+> **宏观学术霸权与顶阶荣誉分配** 探讨国际最高学术荣誉（诺贝尔奖）的承认分配究竟遵循功绩制普遍主义规范，还是受地缘强权与提名推荐权垄断的结构性操纵。
+
+> [!claim] [[Argument_VonDerHeyden_Heinze_2025_PLOSONE|von der Heyden, M. & Heinze, T. (2025)]]
+> **霸权溢价与提名安置力的非对称分离** 基于 1901 至 1969 年诺贝尔物理学与化学奖 8832 次提名记录的二元 Logistic 回归表明，霸权国身份能够为候选人带来显著正向的最终获奖边际增益（1933 年前德国 $AME = 0.10$；1934 年后美国 $AME = 0.05$），但来自霸权国的提名人推选成功率反而显著下降（德美提名人 $AME$ 均显著为负）。这实证揭示国际顶阶科学信誉的分配既吸纳了科研霸权国的声誉优势，又在评选终审机制中守住了制度自主，阻断了大国学者对终审授奖裁决的直接操纵。[[Argument_VonDerHeyden_Heinze_2025_PLOSONE|(von der Heyden & Heinze, 2025, pp. 13–16)]]
+
+---
+
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **署名排序精度命题** | 署名位次客观反映首尾核心负荷，但自述清单仍存在高度主观认知分歧 | 跨学科合署规范、贡献声明清单设计 | Corrêa et al. (2017); Marušić et al. (2006) |
 > | **独立建树锁定命题** | 突破成果后的持续独立高水平产出决定了共同体感知的最终信誉归属 | 青年学者职业转型、合作团队学术主导权确立 | [[Argument_Wang_Barabasi_2021_Cambridge_Unit06\|Shen and Barabási (2014)]] |
 > | **共引拓扑去偏命题** | 团队扩张加剧声誉马太效应，基于施引共引图谱的算法可解构个体真实贡献份额 | 大规模团队评价、合署成果去偏计量与奖项遴选 | [[Argument_Fortunato_2018_Science\|Fortunato et al. (2018)]]; Shen and Barabási (2014) |
+> | **霸权调节与自主裁决命题** | 霸权国候选人享有显著获奖声望溢价，但提名权垄断并不等于掌控终审授奖裁决 | 国际顶尖学术大奖评选、跨国同行评议权威结构 | [[Argument_VonDerHeyden_Heinze_2025_PLOSONE\|von der Heyden & Heinze (2025)]] |
 
 ---
 
@@ -149,6 +159,7 @@ updated: 2026-11-14
 > - **2017 — Corrêa et al. 确立首尾位署名者主导规律** 大数据挖掘证实非[[Alphabetical Authorship|字母序署名]]中第一与通讯署名者承担绝大部分智力与实验劳动。
 > - **2018 — Fortunato et al. [[Systematic Review|系统综述]]大团队信誉困境与算法去偏方案** 福图纳托等在《科学》科学学综述中指出团队规模膨胀加剧马太效应，系统引介共引拓扑算法作为团队贡献评价的客观基准。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 3)]]
 > - **2021 — Wang & Barabási 系统化科学信誉动力学** [[Dashun Wang|王大顺]]与巴拉巴西系统解构科学信誉[[Construct|构念]]，阐明责任转嫁、性别偏见与后续代表作对感知信誉份额的决定性机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 135–156)]]
+> - **2025 — von der Heyden & Heinze 实证检验宏观霸权对顶阶大奖承认的调节** 冯·德·海登与海因策（[[Argument_VonDerHeyden_Heinze_2025_PLOSONE|von der Heyden & Heinze, 2025, pp. 13–16]]）基于长时段解密提名全样本，实证确证霸权国候选人享有显著的折桂溢价，但提名人安置力持续为负，揭示提名权累积与最终信誉授予之间的制度权力边界。
 
 ---
 
@@ -180,6 +191,7 @@ updated: 2026-11-14
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit06\|Wang & Barabási (2021)]] 引述 Marušić et al. (2006) | 《克罗地亚医学杂志》（Croatian Medical Journal）919 位通讯学者及其团队 | [[Questionnaire\|问卷]]与投稿系统对照研究 | 通讯学者认定的团队成员贡献范畴与合作学者自我申报范畴的重合率 | 69.4% 的团队在分工认定上存在不一致，合作学者自我申报的贡献显著高于通讯学者的认定 | 医学学术团队全量审稿样本 | 证实自述贡献规范仍难以彻底消解团队内部对于学术信誉认定的主观认知冲突 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit06\|Wang & Barabási (2021)]] 引述 Shen & Barabási (2014) | 涵盖物理、化学与生理医学全学科 63 项包含多位合署学者的诺贝尔奖里程碑成果 | 基于施引文献共引图谱的矩阵算法验证（$c = As$） | 算法测算的个人信誉份额与诺贝尔奖实际得主名单的重合度 | 算法在 81% 的成果（51 篇）中准确预测出最终获奖科学家，且不受字母序或学科规范干扰 | 全历史多合署人诺贝尔奖全样本验证 | 证实科学共同体分配声誉遵循严谨的共引网络感知法则 |
 > | [[Argument_Fortunato_2018_Science\|Fortunato et al. (2018)]] | 跨学科合署科研团队与基于施引图谱的集体信誉算法实证库 | 科学学综述与超大团队信誉分配机制分析 | 团队规模对声誉倾斜的影响；共引网络解构精度 | 团队规模膨胀加剧成名学者对合著声誉的马太效应；共引拓扑算法在全学科多合署里程碑中均能有效还原真实贡献权重 | 复杂网络动力学检验稳健 | 确立了共引算法在矫正大团队声誉偏倚中的客观基准功能（p. 3） |
+> | [[Argument_VonDerHeyden_Heinze_2025_PLOSONE|von der Heyden & Heinze (2025)]] | 1901–1969 年诺贝尔物理学与化学奖 8110 次有效提名观测 | 二元 Logistic 回归（控制候选人与提名人国别） | 霸权国候选人获奖溢价与提名人学术安置力（Placement Power） | 1933 年前德国候选人 $AME = 0.10$（$p < 0.001$）；1934 年后美国候选人 $AME = 0.05$（$p < 0.001$）；德美提名人安置力均显著为负（德国 $AME = -0.04$，美国 $AME = -0.03$） | 全样本与分期模型均在 $p < 0.001$ 水平下高度稳健 | 证实最高学术信誉的分配吸纳了霸权国的卓越声望，但有效防御了提名垄断对终审结果的操纵 |
 
 ---
 
@@ -187,7 +199,8 @@ updated: 2026-11-14
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Matthew Effect in Academia]] | 概念 | 合著成果中资深学者不成比例截[[Study Abroad\|留学]]术声誉的社会学偏倚机制。 |
+> | [[Matthew Effect in Academia]] | 概念 | 合著成果中资深学者不成比例截留学术声誉的社会学偏倚机制。 |
+> | [[Scientific Hegemony]] | 概念 | 调节顶阶科学信誉分配与候选人获奖概率的宏观跨国结构。 |
 > | [[Alphabetical Authorship]] | 概念 | 人文社科等领域规避序位偏倚但在大团队中导致感知信誉模糊的署名传统。 |
 > | [[Author Contribution Disclosures]] | 概念 | 细粒度自述任务分工以缓解署名名单信息不对称的制度性工具。 |
 > | [[Bibliometric Analysis]] | 方法 | 基于施引成果拓扑图谱构建共引矩阵、客观测算个体信誉份额的技术工具。 |
@@ -196,4 +209,5 @@ updated: 2026-11-14
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 在《科学》科学学综述中系统评述科学信誉分配难题，探讨合作扩张背景下的马太效应与基于共引拓扑的个体信誉份额客观测度方法。
+> - [[Argument_VonDerHeyden_Heinze_2025_PLOSONE|von der Heyden and Heinze (2025)]] — 基于诺贝尔物理学与化学奖长时段解密提名档案，实证检验霸权国候选人享有的显著获奖声誉溢价，以及提名人安置力的负向效应（pp. 13–16）。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit06|Wang & Barabási (2021)]] — 系统解构科学信誉构念、团队署名位次与实际劳动分工偏离，并基于共引图谱验证多合著者信誉分配矩阵算法（pp. 135–156）。

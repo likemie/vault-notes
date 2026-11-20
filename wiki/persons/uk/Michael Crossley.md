@@ -14,9 +14,9 @@ person_related_count: 0
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
-born: ""
+born: "c. 1950"
 died: ""
-lifespan: ""
+lifespan: "c. 1950–至今"
 tags:
   - person/scholar
   - comparative-education
@@ -51,7 +51,7 @@ updated: 2026-11-20
 
 > [!timeline] 生平与职涯
 > - **1970s–1980s** 在英国及巴布亚新几内亚等发展中国家开展长期基层教育调查，关注去中心化课程改革与本土师资建设。
-> - **1984** 与格雷厄姆·武利亚米（Graham Vulliamy）在《比较教育》期刊联合发表里程碑论文《个案研究方法与比较教育》（*Case study research methods and comparative education*），奠定比较教育质性范式的认识论地位。
+> - **1984** 与格雷厄姆·武利亚米（Graham Vulliamy）在《比较教育》期刊联合发表重要成果《个案研究方法与比较教育》（*Case study research methods and comparative education*），奠定比较教育质性范式的认识论地位。
 > - **1990s** 出版《在发展中国家开展教育研究：质性策略》，系统总结第三世界教育实地调查的伦理与方法学规范。
 > - **2000s** 出任布里斯托大学比较与国际教育研究中心主任，兼任国际权威期刊《比较教育》（*Comparative Education*）主编与 BAICE 会长。
 > - **2010s–至今** 持续领导关于小国教育发展、气候变化与跨文化研究方法论创新的多国合作项目。
@@ -69,7 +69,7 @@ updated: 2026-11-20
 > 比较教育不能仅将跨国大样本量化调查视作科学发现的唯一途径。教育过程始终受制于特定文化、经济与历史脉络，在某一情境下成立的因果推论不能预设为在另一情境自动有效。个案研究通过对微观自然发生环境的长期沉浸与深描，提供了无可替代的生态效度，构成了检验宏观政策命题的基础依据。[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, p. 96)]]
 >
 > > [!thesis-quote] 《个案研究方法与比较教育》（1984）
-> > 我们之所以支持个案研究，绝非出于对单一方法的盲目偏好，而是建立在深层认识论原则之上：在一个特定情境中被认识的知识，不能被直接假定在另一个不同情境中依然真实。[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, p. 96)]]
+> > 对个案研究的推崇建立在深层认识论原则之上：在一个特定情境中被认识的知识，不能被直接假定在另一个不同情境中依然真实。[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, p. 96)]]
 > >
 > > *Crossley and Vulliamy make an epistemological 'case for the case' by arguing that what can be known about one context cannot be assumed to be true in another context... which they refer to as 'ecological validity'.*
 
@@ -91,9 +91,9 @@ updated: 2026-11-20
 ---
 
 > [!person-network] 关系网络
-> - **长期合作者** Graham Vulliamy — 长期共同推动比较教育质性个案方法与生态效度理论。
+> - **合作学者** Graham Vulliamy — 共同推动比较教育质性个案方法与生态效度理论。
 > - **学术对话者** [[Patricia Broadfoot]] — 共同深耕布里斯托学派的情境比较教育理论与质性评估研究。
-> - **学术继承与拓展者** [[Frances Vavrus]] — 瓦夫鲁斯在继承克罗斯利生态效度的基础上，拓展建构了垂直案例研究。
+> - **学术继承与拓展者** 弗朗西丝·瓦夫鲁斯（Frances Vavrus） — 瓦夫鲁斯在继承克罗斯利生态效度的基础上，拓展建构了垂直案例研究。
 
 ---
 

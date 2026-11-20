@@ -64,12 +64,12 @@ updated: 2026-11-20
 ---
 
 > [!claim] 政策核心
-> 德国联邦政府《中国战略》（*Strategie der Bundesregierung zu China*）是德国历史上首份国家级对华综合战略纲领，制度化确立了中国作为“合作伙伴、经济竞争者与制度性对手”的三重定位，以[[De-risking|去风险]]替代全面脱钩，强制要求德国高校和科研机构在坚守[[Academic Freedom|学术自由]]的同时，发展独立涉华能力，并在军民两用关键技术、人员流动及科研合作中全面构筑合规与安全防线。[[Argument_Luo_2026_IFDCK|(Luo, 2026, pp. 9–11)]]
+> 德国联邦政府《中国战略》（*Strategie der Bundesregierung zu China*）是德国历史上首份国家级对华综合战略纲领，制度化确立了中国作为“合作伙伴、经济竞争者与制度性对手”的三重定位，以“去风险”替代全面脱钩，强制要求德国高校和科研机构在坚守[[Academic Freedom|学术自由]]的同时，发展独立涉华能力，并在军民两用关键技术、人员流动及科研合作中全面构筑合规与安全防线。[[Argument_Luo_2026_IFDCK|(Luo, 2026, pp. 9–11)]]
 
 > [!policy-design] 政策设计
 > - **政策目标** 减少在关键前沿技术与高附加值产业链上的单向依附；防范国家敏感科研资产流失；构建独立、批判且具备安全防御效能的国家涉华专业知识储备。[[Argument_Luo_2026_IFDCK|(Luo, 2026, pp. 9–10)]]
 > - **适用对象** 面向公立大学管理层、独立国家实验室、科研资助机构以及各学科从事涉华联合研发的研究团队与学者。
-> - **政策工具** 竞争性涉华能力专项资助、涉外商业律所尽职调查支持、[[Federal Office for Economic Affairs and Export Control|BAFA]] 出口审查指南及高校伦理委员会前置准入机制。[[Argument_Luo_2026_IFDCK|(Luo, 2026, pp. 11–14)]]
+> - **政策工具** 竞争性涉华能力专项资助、涉外商业律所尽职调查支持、联邦经济与出口管制局（BAFA）出口审查指南及高校伦理委员会前置准入机制。[[Argument_Luo_2026_IFDCK|(Luo, 2026, pp. 11–14)]]
 > - **约束机制** 将军民两用出口管制法规（AWG/AWV）硬性嵌入科研立项与学者交流审查；对违反透明原则或涉嫌技术转移风险的项目实施叫停或经费撤回。
 
 > [!citation-card] 《中国战略》论发展独立涉华能力与学术安全
@@ -93,7 +93,7 @@ updated: 2026-11-20
 > [!actor-grid] 实施角色分工
 > - **顶层设计与外交统筹** 德国联邦外交部（Auswärtiges Amt）牵头跨部委协调机制，把控对华宏观政治研判与国际多边立场。
 > - **科技与教育资助配置** [[Federal Ministry of Education and Research|联邦教育与研究部]]（BMBF）负责向高校及研究联合体配置专项资助基金（如 Regio-China 区域网络）。
-> - **出口管制与法律监督** 联邦经济与出口管制局（[[Federal Office for Economic Affairs and Export Control|BAFA]]）主管高校尖端设备、技术数据及研究人员出入境背景的法定审批。
+> - **出口管制与法律监督** 联邦经济与出口管制局（BAFA）主管高校尖端设备、技术数据及研究人员出入境背景的法定审批。
 > - **中介服务与高校落地** [[German Academic Exchange Service|DAAD]] 与各公立大学建立跨部门风险评估专班、第三方尽职审查及伦理委员会。
 
 ---
@@ -112,13 +112,11 @@ updated: 2026-11-20
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[De-risking]] | Concept | 该战略确立为国家对外经济与科学技术交往的核心指导范式。 |
-> | [[China Competence]] | Concept | 该战略明确要求全德国民、政府公务员与科学界系统拓展的独立知识素养。 |
-> | [[Research Security]] | Concept | 该战略要求全德高校与科研院所建立前置伦理准入与安全审查的核心管理抓手。 |
-> | [[Academic Freedom]] | Concept | 该战略声称必须予以制度捍卫、但在去风险实践中屡受行政规训挤压的核心学术底线。 |
-> | [[Federal Ministry of Education and Research]] | Fact (Organization) | 配合该战略执行高校涉华资助计划与科研项目布局的联邦主管部委。 |
-> | [[German Academic Exchange Service]] | Fact (Organization) | 负责将该战略细化为全德大学涉华合作具体操作指南的核心政策中介机构。 |
-> | [[Federal Office for Economic Affairs and Export Control]] | Fact (Organization) | 依据该战略对高校跨境敏感科研实施出口管制执法的联邦主管局。 |
+> | [[China Competence]] | 概念 | 该战略明确要求全德国民、政府公务员与科学界系统拓展的独立知识素养。 |
+> | [[Research Security]] | 概念 | 该战略要求全德高校与科研院所建立前置伦理准入与安全审查的核心管理举措。 |
+> | [[Academic Freedom]] | 概念 | 该战略声称必须予以制度捍卫、但在去风险实践中屡受行政规训挤压的核心学术底线。 |
+> | [[Federal Ministry of Education and Research]] | 事实 | 配合该战略执行高校涉华资助计划与科研项目布局的联邦主管部委。 |
+> | [[German Academic Exchange Service]] | 事实 | 负责将该战略细化为全德大学涉华合作具体操作指南的核心政策中介机构。 |
 
 ---
 

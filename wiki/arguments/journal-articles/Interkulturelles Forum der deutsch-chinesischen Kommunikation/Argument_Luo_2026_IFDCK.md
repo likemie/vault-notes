@@ -171,7 +171,7 @@ issuing_organization: ""
 > - **2021-06 — BMBF 部长强调建立独立涉华专业能力** 官方定调对华能力不仅关乎合作，更关乎国家利益捍卫（BMBF, 2021b）。
 > - **2023-04 — 联邦议院主要反对党发起小质询** 基督教民主联盟与基督教社会联盟（Christian Democratic Union / Christian Social Union, CDU/CSU，简称联盟党）敦促政府评估涉华风险并加速构建独立中国能力（Bundesregierung, 2024; Mayer-Kuckuk, 2023）。
 > - **2023-07 — 德国联邦政府发布首部《中国战略》** 联邦外交部（Federal Foreign Office, AA）接管主导权，将科研去风险、政治导航经验与合规审查列为核心支柱（Auswärtiges Amt, 2023; [[China Strategy of the Federal Government]]）。
-> - **2024-01 — DAAD 出台对华合作指南** 依据[[Federal Office for Economic Affairs and Export Control|联邦经济与出口管制局]]（Federal Office for Economic Affairs and Export Control, BAFA）法规，正式确立德国大学开展涉华合作的尽职审查与出口管制安全框架（BAFA, 2023; DAAD, 2024）。
+> - **2024-01 — DAAD 出台对华合作指南** 依据联邦经济与出口管制局（Federal Office for Economic Affairs and Export Control, BAFA）法规，[[German Academic Exchange Service|德意志学术交流中心]]（DAAD）正式确立德国大学开展涉华合作的尽职审查与出口管制安全框架（BAFA, 2023; DAAD, 2024）。
 
 > [!sub-claim] 1. 欧盟把中国定性为制度性对手，彻底瓦解了单纯依靠科研合作的政策预设
 > 2019 年 3 月，欧盟委员会发布战略纲领文件《欧盟—中国：战略展望》（European Commission, 2019），突破以往全面战略伙伴的单一叙事，确立了涵盖三大支柱的三重定位框架：

@@ -78,7 +78,7 @@ updated: 2026-11-20
 
 > [!pathways] 业务运行机制
 > - **多部委委托资助矩阵** 承接外交部、教研部等多部委专项专款，将国家外交与科技政策战略导向细化为可操作的高校国际合作项目。
-> - **风险咨询与合规协调平台** 设立专门的国际科研合作咨询专席（KIWi），联合联邦经济与出口管制局（[[Federal Office for Economic Affairs and Export Control|BAFA]]）向德国高校提供涉外法律风险排查、伦理规范以及出口管制咨询。[[Argument_Luo_2026_IFDCK|(Luo, 2026, p. 14)]]
+> - **风险咨询与合规协调平台** 设立专门的国际科研合作咨询专席（KIWi），联合联邦经济与出口管制局（BAFA）向德国高校提供涉外法律风险排查、伦理规范以及出口管制咨询。[[Argument_Luo_2026_IFDCK|(Luo, 2026, p. 14)]]
 > - **驻外网络政策信息反馈** 依托全球代表处收集东道国科技教育体制演进一手信息，为联邦政府外交科技决策提供政策简报。
 
 ---
@@ -105,14 +105,12 @@ updated: 2026-11-20
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Federal Ministry of Education and Research]] | Fact (Organization) | 联邦主要出资与政策指导部委，委托 DAAD 执行多项国际科研与能力资助工程。 |
-> | [[Max Planck Society]] | Fact (Organization) | 联合牵头开展全国科研组织中国能力与安全评估（Wi-Wi-Ko-China）的战略伙伴。 |
-> | [[China Strategy of the Federal Government]] | Fact (Policy) | 指导 DAAD 制定新时期大学涉华交流指南与去风险合规政策的顶层国家文件。 |
-> | [[Federal Office for Economic Affairs and Export Control]] | Fact (Organization) | 协助 DAAD 指南在高校落地出口审查与军民两用合规的技术监督部委。 |
-> | [[China Competence]] | Concept | DAAD 在新时期致力培育与系统评估的独立学术涉华研究与风险评估素养。 |
-> | [[De-risking]] | Concept | 深刻改变 DAAD 资助政策与指导方针的国家对外科技战略宏观范式。 |
-> | [[Research Security]] | Concept | DAAD 指南要求各大学伦理委员会与国际处严格落实的核心管理防线。 |
-> | [[Educational Diplomacy]] | Concept | DAAD 承担的以学术奖学金和高等教育合作为载体的国家公共外交职能。 |
+> | [[China Competence]] | 概念 | DAAD 在新时期致力培育与系统评估的独立学术涉华研究与风险评估素养。 |
+> | [[Research Security]] | 概念 | DAAD 指南要求各大学伦理委员会与国际处严格落实的核心管理防线。 |
+> | [[Educational Diplomacy]] | 概念 | DAAD 承担的以学术奖学金和高等教育合作为载体的国家公共外交职能。 |
+> | [[Federal Ministry of Education and Research]] | 事实 | 联邦主要出资与政策指导部委，委托 DAAD 执行多项国际科研与能力资助工程。 |
+> | [[Max Planck Society]] | 事实 | 联合牵头开展全国科研组织中国能力与安全评估（Wi-Wi-Ko-China）的战略伙伴。 |
+> | [[China Strategy of the Federal Government]] | 事实 | 指导 DAAD 制定新时期大学涉华交流指南与去风险合规政策的顶层国家文件。 |
 
 ---
 

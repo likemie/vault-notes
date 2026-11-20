@@ -75,7 +75,7 @@ updated: 2026-11-20
 > > *I see area studies as a vital means of learning from non-dominant cultures and civilizations. This learning may fundamentally change contemporary theories of education and development over time.*
 
 > [!person-thesis] 主张二｜中国大学的现代化探索走出了一条结合西方学科体制与本土书院精神的调适之路
-> 中国现代高等教育并非对西方大学模式的单向被动模仿。百余年来，中国大学在吸纳法、德、美、苏等外来学制经验的同时，始终在深层文化中传承宋元明清以来的书院讲学传统与道德教化使命，呈现出独特的文明互鉴与制度重构样态。
+> 中国现代高等教育展现了独特的制度调适与文化重构历程。百余年来，中国大学在吸纳法、德、美、苏等外来学制经验的同时，始终在深层文化中传承宋元明清以来的书院讲学传统与道德教化使命，呈现出深度的文明互鉴样态。
 
 ---
 
@@ -89,7 +89,7 @@ updated: 2026-11-20
 > [!person-network] 关系网络
 > - **博士导师** [[Brian Holmes]] — 伦敦大学期间师从霍姆斯，研习问题法与比较教育认识论。
 > - **学术对话者** [[Robert Cowen]] — 长期围绕比较教育中的“空间、时间与移动（Shape, Time and Move）”展开学术交流。
-> - **学术对话者** [[Frances Vavrus]] — 瓦夫鲁斯在倡导跨尺度比较与博士生跨学科培养方案时，将许美德关于区域研究的论断作为关键佐证。
+> - **学术对话者** 弗朗西丝·瓦夫鲁斯（Frances Vavrus） — 瓦夫鲁斯在倡导跨尺度比较与博士生跨学科培养方案时，将许美德关于区域研究的论断作为关键佐证。
 
 ---
 
