@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md"
     },
     {
+      "basename": "Veil of Maya",
+      "path": "wiki/concepts/educational-philosophy/Veil of Maya.md"
+    },
+    {
       "basename": "Argument_Xie_2017_PKUER",
       "path": "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Modernization Theory",
       "path": "wiki/theories/sociology-of-education/Modernization Theory.md"
-    },
-    {
-      "basename": "UN Sustainable Development Goals",
-      "path": "wiki/facts/global/UN Sustainable Development Goals.md"
     }
   ],
   "omittedPaths": [],
