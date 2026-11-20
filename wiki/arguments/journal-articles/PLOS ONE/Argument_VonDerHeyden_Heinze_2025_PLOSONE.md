@@ -33,7 +33,6 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Scientific Productivity]]"
   - "[[Champ]]"
-  - "[[Philosophical Aesthetics]]"
   - "[[Theoretical Perspective]]"
 related_theories:
   - "[[Hegemony]]"
@@ -43,12 +42,10 @@ related_methods:
   - "[[Confidence Interval]]"
   - "[[Sample Size Determination]]"
   - "[[Standard Error]]"
-  - "[[Accounts]]"
 related_instruments: []
 related_persons:
   - "[[Harriet Zuckerman]]"
   - "[[Robert K. Merton]]"
-  - "[[Carl Rogers]]"
   - "[[Douglas Hofstadter]]"
 related_facts:
   - "[[Victorian HITS and Literacy Toolkit]]"
@@ -57,14 +54,14 @@ sources:
   - "[[sources/VonDerHeyden_Heinze_2025_PLOSONE/VonDerHeyden_Heinze_2025_PLOSONE|VonDerHeyden_Heinze_2025_PLOSONE]]"
 status: draft
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_VonDerHeyden_Heinze_2025_PLOSONE"
 argument_key: "Argument_VonDerHeyden_Heinze_2025_PLOSONE"
 argument_display_title: "Decline of German and rise of North-American hegemony in science: Insights from Nobel Prize nominations (Physics/Chemistry, 1901–1969)"
 argument_kind: "journal-article"
-argument_related_count: 28
+argument_related_count: 25
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -102,7 +99,7 @@ journal: "PLOS ONE"
 > > 诺贝尔奖提名生态深受本国同行沙文主义、[[Geopolitics|地缘政治]]偏好以及评委会内部非正式人际网络与权力运作的深刻渗透 (Crawford, 1992; Friedman, 1989)。
 
 > [!warrant]- 理论如何支撑论证
-> 理论工具构成了将宏观科学史演进与微观计量数据相连接的逻辑桥梁。本-戴维的历史制度分析表明，德国大学在 19 世纪凭借分权竞争体制成为世界科学中心 (Ben-David, 1960; Ben-David, 1971)，并与合成染料等新兴工业紧密咬合 (Murmann, 2003)；但进入 20 世纪后，正教授讲座制固步自封促使前沿探索转向威廉皇帝学会，体制僵化渐显。J·[[Carl Rogers|罗杰斯]]·霍林斯沃思（J. Rogers Hollingsworth）的制度环境论进一步阐明，美国大学凭借系所分权、研究生院科研训练与多元竞争资助体系实现了整体崛起 (Hollingsworth, 2004; Hollingsworth, 2006; MacLeod & Urquiola, 2021; Urquiola, 2020)。随后，纳粹政权强行清洗驱逐犹太学者，不仅造成德国数理学科顶尖人才与[[Coauthorship Network\|合著网络]]的不可逆破坏 (Waldinger, 2010; Waldinger, 2011; Waldinger, 2016)，更因流亡科学家的汇聚极大地充实了美国的科技创新基础 (Moser et al., 2014)。在承认网络层面，朱克曼关于精英评价的功绩制断言 (Zuckerman, 1977) 与克劳福德的偏误指控 (Crawford, 1992; Crawford, 2001) 形成对照，使得将本国同行提名重构为科学霸权确立后学术自我再生产的结构性指标成为可能。机构拓扑分析与计量回归模型的结合，揭示了科学霸权在微观同行评议网络中留下的制度印记。
+> 理论工具构成了将宏观科学史演进与微观计量数据相连接的逻辑桥梁。本-戴维的历史制度分析表明，德国大学在 19 世纪凭借分权竞争体制成为世界科学中心 (Ben-David, 1960; Ben-David, 1971)，并与合成染料等新兴工业紧密咬合 (Murmann, 2003)；但进入 20 世纪后，正教授讲座制固步自封促使前沿探索转向威廉皇帝学会，体制僵化渐显。J·罗杰斯·霍林斯沃思（J. Rogers Hollingsworth）的制度环境论进一步阐明，美国大学凭借系所分权、研究生院科研训练与多元竞争资助体系实现了整体崛起 (Hollingsworth, 2004; Hollingsworth, 2006; MacLeod & Urquiola, 2021; Urquiola, 2020)。随后，纳粹政权强行清洗驱逐犹太学者，不仅造成德国数理学科顶尖人才与[[Coauthorship Network\|合著网络]]的不可逆破坏 (Waldinger, 2010; Waldinger, 2011; Waldinger, 2016)，更因流亡科学家的汇聚极大地充实了美国的科技创新基础 (Moser et al., 2014)。在承认网络层面，朱克曼关于精英评价的功绩制断言 (Zuckerman, 1977) 与克劳福德的偏误指控 (Crawford, 1992; Crawford, 2001) 形成对照，使得将本国同行提名重构为科学霸权确立后学术自我再生产的结构性指标成为可能。机构拓扑分析与计量回归模型的结合，揭示了科学霸权在微观同行评议网络中留下的制度印记。
 
 ---
 
@@ -231,9 +228,9 @@ journal: "PLOS ONE"
 > - **提名结构** 庞加莱既获得了大量来自法国本土科学家的集中推选，表现出本土力荐的特征；同时更获得了来自德国、意大利、日本、俄罗斯、瑞典、瑞士、西班牙、荷兰、英国与美国等十余国学者的广泛提名。
 > - **经验结论** 这一案例表明本国提名并不排斥跨国界的高度学术卓越，推翻了单纯将内部推荐斥为偏狭沙文主义的看法 (Crawford, 1992)。
 
-> [!case] 埃米尔·瓦尔堡与罗伯特·[[Douglas Hofstadter|霍夫施塔特]]：德美霸权更迭中的学术领袖
+> [!case] 埃米尔·瓦尔堡与罗伯特·霍夫施塔特：德美霸权更迭中的学术领袖
 > - **德意志霸权巅峰（埃米尔·瓦尔堡）** 柏林洪堡大学物理学教授埃米尔·瓦尔堡（Emil Warburg）代表了 20 世纪初德国学术影响力的极盛期。其与瑞典诺贝尔评委会及德国科学界核心学者构建了紧密的非正式交往网络，在早期提名中拥有举足轻重的分量。
-> - **北美霸权确立（罗伯特·霍夫施塔特）** 1961 年诺贝尔物理学奖得主、斯坦福大学教授罗伯特·霍夫施塔特（Robert Hofstadter）体现了二战后美国科学霸权的稳固。其实验物理学的突破直接伴随斯坦福跻身世界顶尖学府，而战后美国得主高频推荐本土同僚的行为，进一步强化了北[[Philosophical Aesthetics|美学]]术体制的统治地位 (Heinze & Fuchs, 2022)。
+> - **北美霸权确立（罗伯特·[[Douglas Hofstadter|霍夫施塔特]]）** 1961 年诺贝尔物理学奖得主、斯坦福大学教授罗伯特·霍夫施塔特（Robert Hofstadter）体现了二战后美国科学霸权的稳固。其实验物理学的突破直接伴随斯坦福跻身世界顶尖学府，而战后美国得主高频推荐本土同僚的行为，进一步强化了北美学术体制的统治地位 (Heinze & Fuchs, 2022)。
 
 > [!case] 克里斯托弗·英戈尔德：提名累积并未换来最终授奖
 > - **学者背景** 英国物理有机化学家克里斯托弗·英戈尔德（Christopher Ingold）系统建立了单分子亲核取代反应（Unimolecular Nucleophilic Substitution, SN1）与双分子亲核取代反应（Bimolecular Nucleophilic Substitution, SN2）等划时代反应动力学理论，获得众多同行多次提名。
@@ -304,7 +301,7 @@ journal: "PLOS ONE"
 > [!citation-card] 本国提名与学术自我再生产
 > 我们对自荐提名采取更广阔的[[Theoretical Perspective|理论视角]]，将其纳入科学承认的结构性功能来考量。正如诺贝尔奖章程明确禁止学者推举自己，严格意义上的狭义自我提名并不会出现。相反，我们将自荐提名界定为科学家推荐来自自身机构或本国国籍的同事，这构成了现行规则约束下最接近的自我提名形态。这一实践与学术界广泛存在的自我再生产模式高度契合，例如高地位大学更倾向于聘任自身的博士毕业生。它反映了社会封闭与精英凝聚机制，既有声望网络借此强化自身成员的能见度与学术地位。
 >
-> *While Crawford interprets high levels of own-country nominations as indicative of national chauvinism, we take a broader perspective on self-nominations that [[Accounts|accounts]] for their structural role in scientific recognition. As explicitly prohibited by the Nobel Prize Statutes, self-nomination in the strict sense - scholars nominating themselves - does not occur. Instead, we define self-nominations as cases where scientists nominate colleagues from their own organizational or national affiliation, which represents the closest possible form of self-nomination within the given rules. This practice aligns with broader patterns of academic self-reproduction, such as universities hiring their own PhD graduates, which is particularly prevalent among high-status institutions. It reflects mechanisms of social closure and elite cohesion, where established networks reinforce their own members' visibility and prestige.*
+> *While Crawford interprets high levels of own-country nominations as indicative of national chauvinism, we take a broader perspective on self-nominations that accounts for their structural role in scientific recognition. As explicitly prohibited by the Nobel Prize Statutes, self-nomination in the strict sense - scholars nominating themselves - does not occur. Instead, we define self-nominations as cases where scientists nominate colleagues from their own organizational or national affiliation, which represents the closest possible form of self-nomination within the given rules. This practice aligns with broader patterns of academic self-reproduction, such as universities hiring their own PhD graduates, which is particularly prevalent among high-status institutions. It reflects mechanisms of social closure and elite cohesion, where established networks reinforce their own members' visibility and prestige.*
 
 > [!citation-card] 提名权垄断与最终裁决效力的分离
 > 统计分析表明，霸权国提名人在安置候选人方面仅具有边缘优势甚至无明确效果，这表明获得提名权以及积累大量提名，与掌控最终的授奖结果并不能等同。二元 Logistic 回归模型显示，来自德国和美国的提名人在成功推举候选人方面显著不及其他国家。霸权国享有极高的候选人声誉，却伴随着提名人安置力的偏低，证明诺贝尔评选程序在吸纳地缘声誉的同时有效抵御了单一强权的集团垄断。

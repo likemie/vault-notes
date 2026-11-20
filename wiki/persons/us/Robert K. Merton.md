@@ -7,7 +7,7 @@ aliases:
   - Robert King Merton
   - R. K. Merton
   - Merton, R. K.
-summary: "美国科学社会学奠基人，哥伦比亚大学教授，美国国家科学奖章得主；提出科学界马太效应、第四十一把交椅与科学发现优先权机制，奠定了科学奖励系统与同行评议地位偏倚的制度社会学理论基石。"
+summary: "美国科学社会学开创者，哥伦比亚大学特聘教授，美国国家科学奖章得主；提出科学界马太效应、第四十一把交椅与科学发现优先权机制，系统构建了科学奖励系统与同行评议地位偏倚的制度社会学分析框架。"
 type: person
 cssclasses:
   - person-page
@@ -49,15 +49,15 @@ related_arguments:
 confidence: high
 status: completed
 created: "2026-10-29"
-updated: 2026-10-29
+updated: 2026-11-21
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国科学社会学奠基人、[[Structural Functionalism|结构功能主义]]社会学家，哥伦比亚大学特聘大学教授，[[National Academy of Sciences|美国国家科学院]]院士，1994 年荣获美国国家科学奖章。
-> - **核心角色** 科学社会学领域的理论奠基者，开创了关于科学界奖励系统、优先权竞争、社会承认网络与累积优势动态的制度社会学传统。
-> - **代表贡献** 1968 年确立科学界马太效应（[[Matthew Effect in Academia]]），提出[[The 41st Chair|第四十一把交椅]]（[[The 41st Chair]]）隐喻与自证预言假说，系统阐明科学奖励系统与同行评议中的声望偏倚机制。
+> - **身份位置** 美国当代社会学家、[[Structural Functionalism|结构功能主义]]代表学者，哥伦比亚大学特聘大学教授，[[National Academy of Sciences|美国国家科学院]]院士，1994 年荣获美国国家科学奖章。
+> - **核心角色** 现代科学社会学的重要开创者，系统建立了关于科学界奖励系统、优先权竞争、社会承认网络与累积优势动态的制度社会学传统。
+> - **代表贡献** 1968 年确立科学界马太效应（[[Matthew Effect in Academia]]），提出[[The 41st Chair|第四十一把交椅]]隐喻与自证预言假说，系统阐明科学奖励系统与同行评议中的声望偏倚机制。
 
 > [!citation-card] 默顿论科学奖励体系与马太效应的核心机制
 > 科学界的马太效应表现为已有声誉的学者在特定贡献中获得超额的同行承认，而不知名学者的相同贡献则面临严苛质疑。这一机制不仅直接影响手稿评审与基金资助的客观性，更在宏观层面持续扩大着学术资源的结构性不平等。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 28)]]
@@ -72,7 +72,7 @@ updated: 2026-10-29
 > - **1936** 在哈佛大学师从皮蒂里姆·索罗金与[[Talcott Parsons|塔尔科特·帕森斯]]获得博士学位，完成博士学位专著《十七世纪英格兰的科学、技术与社会》。
 > - **1941** 入职哥伦比亚大学社会学系并长期执教，随后晋升特聘大学教授，与保罗·拉扎斯菲尔德共同将哥大建设为经验社会研究的全球重镇。
 > - **1957** 当选美国社会学会主席，发表《科学发现中的优先权》主席演讲，系统探讨科学界对首创发现的符号承认与优先权争夺机制。
-> - **1968** 在《科学》（*Science*）发表奠基性论著《科学中的马太效应》，揭示科学奖励分配与同行评审中声望符号驱动的累积优势。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 28, 35–36)]]
+> - **1968** 在《科学》（*Science*）发表代表性论著《科学中的马太效应》，揭示科学奖励分配与同行评审中声望符号驱动的累积优势。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 28, 35–36)]]
 > - **1973** 出版经典代表作《科学社会学：理论与经验考察》，确立科学规范体系（公有主义、普遍主义、无私利性与有组织的怀疑主义）。
 > - **1994** 荣获美国科学界最高荣誉美国国家科学奖章（National Medal of Science），成为首位获此殊荣的社会学家。
 > - **2003** 逝世于纽约市。
@@ -87,13 +87,13 @@ updated: 2026-10-29
 
 ---
 
-> [!claim] 核心思想
-> 科学界是受符号承认与优先权驱动的社会制度系统。学术声望与同行承认充当了主导注意力和资源分配的外生地位信号。先发荣誉与制度性光环通过马太效应赋予知名学者疑罪从无的信誉溢价，持续放大结构性资源倾斜并固化科学界的分层秩序。
-
-> [!citation-card] 默顿论第四十一把交椅与制度名额的符号分野
-> 法兰西学术院受限于 40 把席位而将[[René Descartes|笛卡尔]]、莫里哀、[[Jean-Jacques Rousseau|卢梭]]与普鲁斯特等历史学者永久阻隔在第四十一把交椅之外，生动体现了同等才华的研究者却在体制声望上遭遇极端分野的结构性机制。这一制度筛选过程证实学术荣誉具有高度的排他性与人为边界，不能简单等同于学术才华的客观映射。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 35–36)]]
+> [!person-thesis] 主张一｜科学界是由符号承认与优先权驱动的社会制度系统
+> 科学界是一个受符号承认与优先权驱动的社会制度系统。学术声誉与同行承认充当了主导注意力和资源分配的外生地位信号；先发荣誉与制度性光环通过马太效应赋予知名学者疑罪从无的信誉溢价，持续放大结构性资源倾斜并固化科学界的分层秩序。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 28, 35–36)]]
 >
-> *The 41st chair metaphor illustrates how arbitrary institutional ceilings permanently exclude scholars of immense talent from institutional recognition, creating disparities in prestige that exceed actual differences in merit.*
+> > [!thesis-quote] 《科学中的马太效应》（1968）
+> > 法兰西学术院受限于 40 把席位而将[[René Descartes|笛卡尔]]、莫里哀、[[Jean-Jacques Rousseau|卢梭]]与普鲁斯特等历史学者永久阻隔在第四十一把交椅之外，生动体现了同等才华的研究者却在体制声望上遭遇极端分野的结构性机制。这一制度筛选过程证实学术荣誉具有高度的排他性与人为边界，不能简单等同于学术才华的客观映射。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 35–36)]]
+> >
+> > *The 41st chair metaphor illustrates how arbitrary institutional ceilings permanently exclude scholars of immense talent from institutional recognition, creating disparities in prestige that exceed actual differences in merit.*
 
 ---
 
@@ -117,6 +117,12 @@ updated: 2026-10-29
 
 ---
 
+> [!person-network] 关系网络
+> - **师承与学术谱系** [[Talcott Parsons]] — 哈佛大学博士导师与结构功能主义理论同行。
+> - **长期合作学者与学术伴侣** [[Harriet Zuckerman]] — 长期思想伙伴与妻子，共同开创对美国诺贝尔奖得主阶层的经验调查。
+
+---
+
 > [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
@@ -124,4 +130,4 @@ updated: 2026-10-29
 > | [[Matthew Effect in Academia]] | 概念 | 首次系统提出科学界马太效应与累积优势[[Analytic Framework\|分析框架]]。 |
 > | [[The 41st Chair]] | 概念 | 提出第四十一把交椅隐喻，揭示制度名额硬上限造成的承认分野。 |
 > | [[Status Bias in Peer Review]] | 概念 | 揭示学术声望作为外生信号在单盲评审中的优先承认与[[Benefit of the Doubt in Peer Review\|疑罪从无特权]]。 |
-| [[Harriet Zuckerman]] | 人物 | 长期合作学者与妻子，共同开创对美国诺贝尔奖得主阶层的科学社会学经验调查。 |
+> | [[Harriet Zuckerman]] | 人物 | 长期合作学者与妻子，共同开创对美国诺贝尔奖得主阶层的科学社会学经验调查。 |

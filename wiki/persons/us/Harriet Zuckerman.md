@@ -6,13 +6,13 @@ aliases:
   - Harriet Anne Zuckerman
   - H. Zuckerman
   - Zuckerman, H.
-summary: "美国科学社会学家，哥伦比亚大学社会学荣休教授，安德鲁·W·梅隆基金会前高级副总裁；与罗伯特·K·默顿长期合作，通过对全美 41 位诺贝尔奖得主的开创性深度访谈与定量分析，出版经典名著《科学精英》（1977），为科学界马太效应、第四十一把交椅以及同行评审中知名学者享有的疑罪从无特权确立了奠基性经验证据。"
+summary: "美国科学社会学家，哥伦比亚大学社会学荣休教授，安德鲁·W·梅隆基金会前高级副总裁；与罗伯特·K·默顿长期合作，通过对全美 41 位诺贝尔奖得主的开创性深度访谈与定量分析，出版经典名著《科学精英》（1977），为科学界马太效应、第四十一把交椅以及同行评审中知名学者享有的疑罪从无特权确立了系统经验证据。"
 type: person
 cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -46,18 +46,19 @@ related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
+  - "[[Argument_VonDerHeyden_Heinze_2025_PLOSONE]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: completed
 created: "2026-10-29"
-updated: 2026-11-11
+updated: 2026-11-21
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国科学社会学家，哥伦比亚大学社会学荣休教授，美国文理科学院院士、美国哲学会会士，曾任安德鲁·W·梅隆基金会高级副总裁。
-> - **核心角色** [[Robert K. Merton|默顿]]科学社会学学派的核心合作学者与实证奠基人；率先将深度[[Qualitative Interview|质性访谈]]与宏观[[Document|文献]]计量、分层社会学统计相融合，系统揭示科学顶尖精英群体的社会化机制与符号特权。
+> - **核心角色** [[Robert K. Merton|默顿]]科学社会学学派的核心合作学者；率先将深度[[Qualitative Interview|质性访谈]]与宏观[[Document|文献]]计量、分层社会学统计相融合，系统揭示科学顶尖精英群体的社会化机制与符号特权。
 > - **代表贡献** 1977 年出版名著《科学精英：美国的诺贝尔奖获得者》，为学术界马太效应与[[The 41st Chair|第四十一把交椅]]提供详尽一手实证材料，确立同行评审中知名学者享有的[[Benefit of the Doubt in Peer Review|疑罪从无特权]]。
 
 > [!citation-card] 朱克曼论科学界分层与学者的疑罪从无特权
@@ -84,25 +85,26 @@ updated: 2026-11-11
 
 ---
 
-> [!claim] 核心思想
-> 科学共同体不仅是一个追求客观知识的[[Epistemology|认识论]]体系，更是一个由学术声誉、象征资本与制度化奖赏所驱动的严密分层社会；外生赋予的顶级学术荣誉具有强烈的自我强化效能，既为精英阶层提供了持续的审阅宽容与资源倾斜，也造成了许多同等卓越者被永久放逐于主流承认之外的结构性分化。
-
-> [!citation-card] 朱克曼论顶尖学术荣誉的符号聚集效应
-> 诺贝尔奖等最高学术荣誉的降临，不仅是对单项重大突破的确认，更在学者身上投射出持久的[[Halo Effect|光环效应]]。这种外生符号资本不仅重塑同行对其过去与未来全部工作的评价倾向，亦在整个科学界构筑起一道难以逾越的身份区隔。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 28, 35)]]
+> [!person-thesis] 主张一｜科学共同体是由学术声誉与制度化奖赏驱动的严密分层体系
+> 科学共同体不仅是追求客观知识的[[Epistemology|认识论]]体系，更是一个由学术声誉、象征资本与制度化奖赏所驱动的严密分层社会。外生赋予的顶级学术荣誉具有强烈的自我强化效能，既为精英阶层提供了持续的审阅宽容与资源倾斜，也造成了许多同等卓越者被永久阻隔于主流承认之外的结构性分化。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 28)]]; [[Argument_VonDerHeyden_Heinze_2025_PLOSONE|(von der Heyden & Heinze, 2025, p. 3)]]
 >
-> *Major accolades cast an enduring light on a scientist’s entire corpus of work, reinforcing cumulative advantage and institutional stratification across the scientific community.*
+> > [!thesis-quote] 《科学精英：美国的诺贝尔奖获得者》（1977）
+> > 诺贝尔奖等最高学术荣誉的降临，不仅是对单项重大突破的确认，更在学者身上投射出持久的[[Halo Effect|光环效应]]。这种外生符号资本不仅重塑同行对其过去与未来全部工作的评价倾向，亦在整个科学界构筑起一道难以逾越的身份区隔。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 28, 35)]]
+> >
+> > *Major accolades cast an enduring light on a scientist’s entire corpus of work, reinforcing cumulative advantage and institutional stratification across the scientific community.*
 
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 朱克曼的实证访谈与统计分析为默顿学派构建[[Matthew Effect in Academia|学术马太效应]]、[[The 41st Chair|第四十一把交椅]]与科学奖励制度理论提供了最为核心的微观质性支撑。
-> - **方法路径** 开创了针对顶尖科技精英群体的半结构化[[In-depth Interview|深度访谈]]与全景文献计量相结合的实证[[Paradigm|范式]]，奠定了当代科学社会学质性与量化混合研究的标准。
+> - **理论路径** 朱克曼的实证访谈与统计分析为默顿学派构建[[Matthew Effect in Academia|学术马太效应]]、[[The 41st Chair|第四十一把交椅]]与科学奖励制度理论提供了核心微观质性支撑。
+> - **方法路径** 开创了针对顶尖科技精英群体的半结构化[[In-depth Interview|深度访谈]]与全景文献计量相结合的实证[[Paradigm|范式]]，确立了当代科学社会学质性与量化混合研究的标准。
 > - **政策路径** 其对单盲评审特权偏倚与[[Gender Inequality in Science|科学界性别不平等]]的深刻揭示，直接推动了欧美主流学术期刊推行双盲审稿改革与青年基金独立评审机制。
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 深入援引其诺奖得主访谈实证，确证知名学者享有同行评审疑罪从无特权，并援引其关于科学精英对团队合作具有内生偏好以获取竞争优势的实证发现。
+> - [[Argument_VonDerHeyden_Heinze_2025_PLOSONE|von der Heyden and Heinze (2025)]] — 将朱克曼关于科学评价普遍主义功绩制断言与诺贝尔奖提名人安置力落差进行实证检验，揭示霸权更迭下的学术自我再生产机制（pp. 3, 11–13）。
 
 ---
 
