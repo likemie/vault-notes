@@ -133,7 +133,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-11-15
+updated: 2026-11-20
 ---
 
 ---
@@ -253,7 +253,7 @@ updated: 2026-11-15
 ---
 
 > [!dev-timeline] 产学合作历史演变脉络
-> - **1862–1914 — [[Pragmatic Paradigm|实用主义]]与赠地学院奠基** 1862 年《莫里尔赠地学院法案》将高等教育与工业阶层实用培训直接挂钩；1914 年《[[Smith Lever Act of 1914|史密斯-利弗法案]]》在赠地大学设立农业推广服务，确立科研成果服务地方经济的早期[[Paradigm|范式]]。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, p. 11)]]
+> - **1862–1914 — [[Pragmatic Paradigm|实用主义]]与赠地学院制度形成** 1862 年《莫里尔赠地学院法案》将高等教育与工业阶层实用培训直接挂钩；1914 年《[[Smith Lever Act of 1914|史密斯-利弗法案]]》在赠地大学设立农业推广服务，确立科研成果服务地方经济的早期[[Paradigm|范式]]。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, p. 11)]]
 > - **1920s–1940s — 战前企业主导与战时科技动员** 二战前美国企业在全美研发开支中占比高达 67.8%（1940 年），与大学合作密切；二战期间[[Manhattan Project|曼哈顿计划]]与[[MIT Radiation Laboratory|麻省理工学院辐射实验室]]展示了政产学战时协同的巨大潜能。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–35)]]
 > - **1945–1975 — 战后联邦资助主导与产学严重脱钩** [[Science, The Endless Frontier 1945|布什报告]]催生国家科学基金会（[[National Science Foundation|NSF]]），联邦研发经费垄断性激增（1963 年占 68%）；大学转向由同行评议支持的自由探索基础科研，与产业实际需求严重脱钩，1975 年企业出资跌至大学研发预算的 3.3%。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 38–40)]]
 > - **1978–1980s — 国家政策纠偏与法制重构** 1978 年 NSF 设立产学合作试点计划并拓展为 11 年期的[[Engineering Research Centers|工程研究中心]]（ERC）；1980 年《[[Bayh-Dole Act of 1980|拜杜法案]]》将专利权下放给高校，全美大学全面组建[[Technology Transfer Office|技术许可办公室]]（TLO），全美高校专利数由 1988 年的 800 项暴涨至 2003 年的 3200 项。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 40–41)]] 与此同时，产业界于 1982 年创立[[Semiconductor Research Corporation|半导体研究公司]]（SRC）作为行业自律重构的另一制度路径，以企业联合会费驱动大学前竞争期研究，与拜杜法案构成政策—产业双轨并行格局。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 238–241)]]
