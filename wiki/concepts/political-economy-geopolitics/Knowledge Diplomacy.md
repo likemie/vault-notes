@@ -5,7 +5,7 @@ aliases:
 summary: "Knight 界定的分析概念，指通过高等教育、科学研究与创新合作建立国家间互信互惠关系，超越零和博弈以协同应对全球共同危机。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -59,10 +59,11 @@ related_arguments:
   - "[[Argument_Chou_Demiryol_2024_HE]]"
   - "[[Argument_Liu_2025_IndHE]]"
   - "[[Argument_Zhu_Yang_2025_HE]]"
+  - "[[Argument_Luo_2026_IFDCK]]"
 confidence: medium
 status: draft
 created: 2026-06-29
-updated: 2026-11-14
+updated: 2026-11-20
 ---
 
 ---
@@ -158,7 +159,7 @@ updated: 2026-11-14
 ---
 
 > [!dev-timeline] 知识外交的概念发展脉络
-> - **2019–2021 — 概念系统化奠基**
+> - **2019–2021 — 知识外交的概念界定**
 >   [[Jane Knight|简·奈特]]（Jane Knight）反思[[Internationalization of Higher Education|高等教育国际化]]与[[Geopolitics|地缘政治]]关系，正式界定知识外交，倡导以非零和、互信互惠框架替代单向的[[Soft Power|软实力]][[Paradigm|范式]]。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11)]]
 > - **2021 — 跨国大学联盟的实证对照**
 >   潘（Pan, 2021）将概念应用于[[Belt and Road Initiative|一带一路]]大学联盟比较，指出[[Asian Universities Alliance|亚洲大学联盟]]体现精英化[[Knowledge Power|知识权力]]，而[[University Alliance of the Silk Road|丝绸之路大学联盟]]则展现了开放大众化的知识外交取向。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11)]]
@@ -170,6 +171,8 @@ updated: 2026-11-14
 >   刘伟（Wei Liu）等学者将简·奈特（Jane Knight）的知识外交五要素框架拓展至高校微观实证，系统呈现中亚油气、东南亚水电与非洲交通基建中校企协同的定向培养模式，确立了知识外交与国家长期经济利益的共生机制。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 190–195)]]
 > - **2025 — 知识外交与[[Neo-Tributary Perspective|新朝贡视角]]的范式整合**
 >   朱柯锦与[[Rui Yang|杨锐]]（[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）结合中柬跨境高等教育实证，主张将强调平等学术自主与跨国知识共享的知识外交，与揭示地缘现实中微观功利互动的新朝贡[[Analytic Framework|分析框架]]以及构想宏观共生秩序的[[Tianxia Heuristic|天下启发式]]深度融合，以破除自上而下行政主导导致的协议虚置困境，全面透视大国跨国高教战略的演进图景。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1052, 1054)]]
+> - **2026 — 欧洲地缘去风险对知识外交逻辑的解构与制度两难**
+>   罗勋（[[Argument_Luo_2026_IFDCK|Luo, 2026]]）回顾德国十年来[[China Competence|中国能力]]资助政策流变，指出早期的知识外交范式（以语言文化理解、互信建构与双边科研合作为主导）随着欧盟将对华定位转向制度性对手而遭遇瓦解；第二阶段全面转向以科技去风险、科研安全合规审查与战略对策咨询为主导，揭示出知识外交在遭遇大国地缘博弈与出口管制时面临的深层体制两难。
 
 ---
 
@@ -189,3 +192,4 @@ updated: 2026-11-14
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 深入比较丝路大学联盟与亚洲大学联盟的制度架构，提炼知识外交与[[Knowledge Power|知识权力]]的共存机制，并引入[[Tianxia Heuristic|天下启发式框架]]。
 > - [[Argument_Liu_2025_IndHE|Liu et al. (2025)]] — 运用知识外交五要素框架实证检验三所中国高校参与一带一路的产学研合作项目，揭示长期经济诉求与多边互惠共赢的微观共生机制。
 > - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 实证检验中柬跨境高等教育拓展，主张将知识外交的学术自主与双向互惠理念引入新朝贡修正模型，弥补国家经贸外交主导下基层校际学术合作虚置的缺陷。
+> - [[Argument_Luo_2026_IFDCK|Luo (2026)]] — 系统剖析德国从早期双边科技合作与文化理解（知识外交合作范式）向去风险和科研安全审查演化的政策转向，揭示大学在开放合作与地缘防务双重逻辑下的制度两难。

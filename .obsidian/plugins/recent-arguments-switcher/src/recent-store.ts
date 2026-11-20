@@ -43,11 +43,13 @@ export function creationDay(value: unknown): string | null {
   return Number.isFinite(at) && new Date(at).toISOString().slice(0, 10) === day ? day : null;
 }
 
-function noteDay(note: RecentNote): string | null {
+type NoteDate = { created: string | null; firstSeen?: number };
+
+function noteDay(note: NoteDate): string | null {
   return note.created ?? (note.firstSeen ? dayKey(note.firstSeen) : null);
 }
 
-export function displayDate(note: RecentNote, now: number): string {
+export function displayDate(note: NoteDate, now: number): string {
   const day = noteDay(note);
   if (!day) return "日期未知";
   const elapsed = Math.round((Date.parse(dayKey(now)) - Date.parse(day)) / DAY);
@@ -56,10 +58,15 @@ export function displayDate(note: RecentNote, now: number): string {
   return note.created ? label : label + "发现";
 }
 
-export function dateDescription(note: RecentNote): string {
+export function dateDescription(note: NoteDate): string {
   if (note.created) return "创建日期 " + note.created;
   if (note.firstSeen) return "首次发现于 " + dayKey(note.firstSeen) + "，创建日期未知";
   return "创建日期未知";
+}
+
+export function compareCreationDays(a: string | null, b: string | null): number {
+  if (a === b) return 0;
+  return (a ?? "") > (b ?? "") ? -1 : 1;
 }
 
 export class RecentStore {
@@ -148,8 +155,8 @@ export class RecentStore {
       if (note.created === day) todayPaths.push(note.path);
     }
     sorted.sort((a, b) => {
-      if (a.day !== b.day) return (a.day ?? "") > (b.day ?? "") ? -1 : 1;
-      return b.note.firstSeen - a.note.firstSeen || PATH_ORDER.compare(a.note.path, b.note.path);
+      return compareCreationDays(a.day, b.day) || b.note.firstSeen - a.note.firstSeen ||
+        PATH_ORDER.compare(a.note.path, b.note.path);
     });
     const rows = sorted.slice(0, LIMIT).map(({ note }) => note);
     const checkpoint: Checkpoint = {

@@ -10,7 +10,7 @@ alias_reviewed:
 summary: "主权国家将高等教育体系、国际学生流动、海外分校与语言文化机构等教育资源体系化纳入对外政策与公共外交战略，旨在培育他国精英好感、形塑地缘规范认同与构建准外交纽带的权力投射机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 56
+related_count: 57
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -74,6 +74,7 @@ related_arguments:
   - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_Yu_Xie_2025_JHE]]"
   - "[[Argument_Nordtveit_2011_IJED]]"
+  - "[[Argument_Luo_2026_IFDCK]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
@@ -85,7 +86,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 
 ---
@@ -191,6 +192,7 @@ updated: 2026-11-19
 > - **1990–2000年代 — 软实力框架收拢与[[Internationalization of Higher Education|高等教育国际化]]** [[Joseph S. Nye Jr.|约瑟夫·奈]]提出软实力理论后，学术界将留学生招募与大学国际化全面归入国家[[Public Diplomacy|公共外交]]范畴；西方国家逐步转向教育出口创汇与文化吸引并重的双轨模式。
 > - **2010年代 — 新兴大国战略嵌入与基础设施化** 中国发布《[[Study in China|留学中国计划]]》并推进“[[Belt and Road Initiative|一带一路]]”教育行动，教育外交从零散文化交流上升为涵盖奖学金供给、世界一流大学建设、孔子学院与境外独立分校建设的系统工程。[[Argument_Nordtveit_2011_IJED|Nordtveit (2011)]] 深入剖析对非双边教育合作中奖学金、短训、孔院与援建小学的落地机制，指出交钥匙外交模式在微观可持续性上的关键短板。
 > - **2020年代至今 — 地缘政治回潮与转化困境反思** 国际环境复杂化与大国博弈加剧，促使学者深入考察教育外交的边界与阻力；[[Argument_Velasco_2022_CSJ|Velasco (2022)]] 确立了以东南亚为经验[[Champ|场域]]的三大支柱框架，系统论证了教育外交在遭遇领土争议与主权安全焦虑时的现实转化局限。
+> - **2026年 — 欧洲涉外能力培育的双重演进与安全转向** [[Argument_Luo_2026_IFDCK|Luo (2026)]] 考察德国十年来[[China Competence|中国能力]]政策，揭示第一阶段（2015–2019）教研部通过资助大学设立中国中心、短期交换学期与跨学科校友网络，具有鲜明的教育外交与双边互信培育属性；但随着欧盟将对华定位转向制度性对手，涉外能力建设的统筹权被外交部接管并全面转向科研去风险、出口合规与防御性安全审查，表明西方国家教育外交在面临大国地缘博弈时极易被安全化规训收拢。
 
 ---
 
@@ -249,6 +251,7 @@ updated: 2026-11-19
 > | [[Forum on China-Africa Cooperation]] | 事实 | 推动中非双边教育外交机制化与三年期奖学金规划落地的核心多边平台。 |
 > | [[Confucius Institute]] | 事实 | 深度嵌入受纳国大学建制、行使语言培训与文化传播复合功能的涉外机构。 |
 > | [[Luban Workshop]] | 事实 | 伴随跨国产能合作出海、构建技能培训型教育外交支点的实体实训项目。 |
+| [[China Competence]] | 概念 | 德国依托高校中国中心与涉华交流构建的国别涉外能力载体，展现从教育外交向地缘防卫的演进。 |
 
 ---
 
@@ -259,3 +262,4 @@ updated: 2026-11-19
 > - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 拓展教育外交视阈至职业教育领域，实证剖析中国对东盟职教合作在服务周边外交、对接跨国产能布局与提升制度性[[Discourse|话语]]权中的实践路径。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 运用[[Critical Discourse Analysis|批判话语分析]]解构[[Belt and Road Education Action Plan|“一带一路”教育行动]]，揭示教育对外开放与奖学金输出背后的国家复兴战略意图与经济[[Hard Power|硬实力]]依附特征（pp. 679–694）。
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 梳理跨境高等教育中的地缘政治工具化现象，反思以国家利益为导向的[[Educational Soft Power|教育软实力]]竞赛，提倡超越国家中心主义的[[Knowledge Diplomacy|知识外交]]范式（pp. 10–12）。
+> - [[Argument_Luo_2026_IFDCK|Luo (2026)]] — 系统追踪德国十年涉华科教能力建设，揭示教育外交从早期的双边合作与认知培育向以科研安全、法律合规与去风险为主导的战略防卫属性转变。

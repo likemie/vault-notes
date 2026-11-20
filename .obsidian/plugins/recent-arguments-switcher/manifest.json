@@ -1,9 +1,9 @@
 {
   "id": "recent-arguments-switcher",
   "name": "Recent Arguments Switcher",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "minAppVersion": "1.5.0",
-  "description": "Open recently created argument notes from a floating panel in MyNotes.",
+  "description": "Open recent arguments and links from the current note in two small floating panels.",
   "author": "MyNotes",
   "isDesktopOnly": true
 }

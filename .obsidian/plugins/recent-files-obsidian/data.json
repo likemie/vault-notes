@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md"
     },
     {
+      "basename": "Area Studies",
+      "path": "wiki/concepts/comparative-education/Area Studies.md"
+    },
+    {
       "basename": "Cochran's Q Test",
       "path": "wiki/methods/quantitative/Cochran's Q Test.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Robin Alexander",
       "path": "wiki/persons/uk/Robin Alexander.md"
-    },
-    {
-      "basename": "Chain-of-Thought Prompting",
-      "path": "wiki/methods/quantitative/Chain-of-Thought Prompting.md"
     }
   ],
   "omittedPaths": [],

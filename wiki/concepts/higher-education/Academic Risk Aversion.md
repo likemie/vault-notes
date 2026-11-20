@@ -62,6 +62,7 @@ related_arguments:
   - "[[Argument_Stephan_2013_NBER]]"
   - "[[Argument_Atkinson_2008_TIS]]"
   - "[[Argument_Haubrock_2026_NHB]]"
+  - "[[Argument_Luo_2026_IFDCK]]"
 confidence: high
 status: active
 created: 2026-10-02
@@ -105,6 +106,7 @@ updated: 2026-11-15
 > - **低中标率下的挤兑效应（Grant Hypercompetition）** 当基金中标率跌至 10%–20% 的极端区间时，任何带有潜在争议或不确定性的标书都会在打分中被一票否决，筛选机制自然向最稳妥的方案汇合。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 44–45)]]
 > - **生存期倒计时挤压（Tenure Runway Pressure）** 新聘教师面临 3 年启动资金耗尽与 6 年长聘考评的刚性时间约束，无法承受长期不开花结果的高风险探索。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 44)]]
 > - **软钱教职制度捆绑（Soft-Money Vulnerability）** 教师个人薪资与实验室研究生津贴高度依赖外部课题提成，立项失败直接威胁团队生存，倒逼学者退守安全边际。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 30–31)]]
+> - **地缘去风险与出口合规风险规避（Geopolitical Compliance Aversion）** 自上而下的涉外合作审查、出口管制法规与穿透式法务尽调施加沉重程序负担，促使学者为规避未知红线或政治问责而主动退缩、回避跨国合作。[[Argument_Luo_2026_IFDCK|(Luo, 2026)]]
 
 > [!logic-map]- 学术避险主义的生成与循环固化
 > ```mermaid
