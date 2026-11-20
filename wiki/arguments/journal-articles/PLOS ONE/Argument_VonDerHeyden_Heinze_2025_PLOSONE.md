@@ -1,5 +1,4 @@
 ---
-title: Argument_VonDerHeyden_Heinze_2025_PLOSONE
 summary: "基于 1901 至 1969 年诺贝尔物理学与化学奖 8832 次提名与 3319 位学者的全量解密档案，结合学者提名时的真实就职机构追溯跨国学术流动，系统揭示国际科学霸权自 1930 年代起从德国向美国转移的演进轨迹。实证发现霸权国不仅占据逾四成被提名人与提名人份额，其国内科研机构间的本国提名率亦显著攀升；二元 Logistic 回归进一步表明，霸权国身份显著提升候选人最终获奖概率，但霸权国内提名人的学术安置力呈现负向效应，表明提名权的垄断未能转化为对最终授奖裁决的直接操纵。"
 type: argument
 authors:
@@ -42,6 +41,14 @@ created: 2026-11-20
 updated: 2026-11-20
 subtype: journal-article
 publication_type: journal-article
+title: "Argument_VonDerHeyden_Heinze_2025_PLOSONE"
+argument_key: "Argument_VonDerHeyden_Heinze_2025_PLOSONE"
+argument_display_title: "Decline of German and rise of North-American hegemony in science: Insights from Nobel Prize nominations (Physics/Chemistry, 1901–1969)"
+argument_kind: "journal-article"
+argument_related_count: 9
+argument_related_level: 0
+argument_related_stars: "☆"
+argument_related_color: "#dbeafe"
 journal: "PLOS ONE"
 ---
 
@@ -65,7 +72,7 @@ journal: "PLOS ONE"
 > |---|---|
 > | **科学霸权**<br>[[Scientific Hegemony]] | 界定特定国家在跨国科学共同体中建立并维持的结构性主导地位与权威层级，表征为在国际同行承认、议程设定与顶尖成果产出中的中心支配关系。 |
 > | **科学中心转移假说**<br>Ben-David's Theory of Scientific Centers | 约瑟夫·本-戴维（Joseph Ben-David）指出国家科学卓越地位取决于教育与政治体制的结构性特征，分权竞争与组织创新驱动世界科学中心跨国迁徙。 |
-> | **学术自我再生产与社会闭合**<br>Academic Self-Reproduction & Social Closure | 解释科学界高地位机构与网络通过内部互荐、近亲繁殖与声誉互认巩固学术权威并维系圈层壁垒的社会学机制。 |
+> | **学术自我再生产与社会封闭**<br>Academic Self-Reproduction & Social Closure | 解释科学界高地位机构与网络通过内部互荐、近亲繁殖与声誉互认巩固学术权威并维系圈层壁垒的社会学机制。 |
 
 > [!warrant]- 理论如何支撑论证
 > 理论工具构成了将宏观科学史叙事与微观提名数据相连接的逻辑桥梁。本-戴维的体制分析界定了德国大学在 19 世纪凭借分权竞争体制成为世界科学中心的制度根基，以及 20 世纪因讲座制科层僵化与外部政治冲击导致的体制衰退；霍林斯沃思（J. Rogers Hollingsworth）的制度环境论进一步阐明了美国大学与独立研究机构凭借自主治理、研究生院科研训练与多元竞争资助体系实现崛起的组织基础。在承认网络层面，朱克曼的功绩制视角与克劳福德的偏误假说形成对照，促使研究者将“本国提名”重构为科学霸权确立后学术自我再生产的结构性指标。通过将提名网络中的机构拓扑分析与计量回归模型相结合，研究团队检验了科学霸权如何在微观同行评议网络中留下可测量的制度印记。
@@ -145,7 +152,7 @@ journal: "PLOS ONE"
 ---
 
 > [!claim|step] 论证步骤二　本国提名反映霸权确立后的学术自我再生产而非单纯的狭隘民族沙文主义
-> 主要科学大国内部同行互相提名的现象不可简单斥为学术沙文主义；实证数据表明，本国提名率与一国在国际科学体系中的霸权地位高度共变，本质上表征了核心学术圈层的自我再生产能力与声誉闭合。
+> 主要科学大国内部同行互相提名的现象不可简单斥为学术沙文主义；实证数据表明，本国提名率与一国在国际科学体系中的霸权地位高度共变，本质上表征了核心学术圈层的自我再生产能力与声誉封闭机制。
 
 > [!sub-claim] 1. 本国提名强度与国家科学霸权地位呈正向同步演进
 > 纵向对比英、法、德、美四国的本国提名率（提名人与被提名人属同一国家）可以发现，处于科学霸权时期的国家展现出极高的内部互荐比例。
@@ -155,7 +162,7 @@ journal: "PLOS ONE"
 
 德国在 1910 年代达到霸权顶峰时，本国提名率一度攀升至近 90%；伴随二战后德国科学地位的跌落，其本国提名率显著下降（二期 Phi 相关系数为 -0.2）。与之相反，美国在 1930 年代确立霸权地位后，本国提名率迅速上升并维持在 50% 至 70% 的高位平台（二期 Phi 相关系数为 +0.1）。这种规律证实，当一国汇聚了全球最具创造力的顶尖科学家群体时，学者在本国内部发现并推举高水平候选人构成了学术自我再生产的必然体现，不能将所有内部推荐均归咎于非理性的民族偏见。
 
-> [!sub-claim] 2. 微观机构层面的自荐偏好揭示出顶尖研究型机构的学术声誉闭合
+> [!sub-claim] 2. 微观机构层面的自荐偏好揭示出顶尖研究型机构的学术声誉封闭
 > 在学术组织微观层面，学者提名本校或本所同事的“同机构自荐率”展现出强烈的层级分化特征。洛克菲勒研究所的机构自荐率高达 51%，加州理工学院达到 44%，普林斯顿大学达到 39%；德国老牌名校海德堡大学（22%）与柏林洪堡大学（17%）亦保持可观比例；麻省理工学院（10%）与慕尼黑大学（6%）的自荐率则相对较低。高自荐率集中出现在顶尖精英机构，印证了顶级学术场域内部通过推举自身成员以巩固符号特权与学术正统性的社会学封闭机制。
 
 ---
@@ -195,7 +202,7 @@ journal: "PLOS ONE"
 
 > [!finding-cards] 核心发现
 > 1. **霸权交替历史拐点** 1930 年代初（以 1933 年纳粹反犹清洗为分水岭）是全球科学霸权从德国向美国转移的核心枢纽期，美德两国在提名与被提名网络中的份额发生结构性互换。
-> 2. **本国提名的再生产属性** 本国提名率的高企直接映射出科学霸权国的学术自我再生产与社会闭合机制，而非单纯的狭隘民族偏见。
+> 2. **本国提名的再生产属性** 本国提名率的高企直接映射出科学霸权国的学术自我再生产与社会封闭机制，而非单纯的狭隘民族偏见。
 > 3. **候选人声望溢价** 霸权国候选人在其霸权周期内享有稳健正向的最终获奖边际概率增益（1933 年前德国 AME 为 0.10，1934 年后美国 AME 为 0.05）。
 > 4. **安置力悖论与制度制衡** 霸权国提名人在推举候选人获奖上的安置力呈现显著负效应，表明提名权的垄断未能直接渗透并操纵诺贝尔委员会的终审裁决。
 
@@ -214,7 +221,7 @@ journal: "PLOS ONE"
 > *Such transitions are not simply the consequence of internal scientific advancement; they are also shaped by broader social, economic, and institutional forces. The nomination network, comprising nominators and nominees, may also reflect the hierarchies of authority and influence that define international scientific hegemony. As global scientific leadership shifts between nations, so does the distribution of Nobel nominations, indicating where the most influential scientific work is being conducted and which countries and research organizations are positioned as global leaders.*
 
 > [!citation-card] 本国提名与学术自我再生产
-> 我们对自荐提名采取更广阔的理论视角，将其纳入科学承认的结构性功能来考量。正如诺贝尔奖章程明确禁止学者推举自己，严格意义上的狭义自我提名并不会出现。相反，我们将自荐提名界定为科学家推荐来自自身机构或本国国籍的同事，这构成了现行规则约束下最接近的自我提名形态。这一实践与学术界广泛存在的自我再生产模式高度契合，例如高地位大学更倾向于聘任自身的博士毕业生。它反映了社会闭合与精英凝聚机制，既有声望网络借此强化自身成员的能见度与学术地位。
+> 我们对自荐提名采取更广阔的理论视角，将其纳入科学承认的结构性功能来考量。正如诺贝尔奖章程明确禁止学者推举自己，严格意义上的狭义自我提名并不会出现。相反，我们将自荐提名界定为科学家推荐来自自身机构或本国国籍的同事，这构成了现行规则约束下最接近的自我提名形态。这一实践与学术界广泛存在的自我再生产模式高度契合，例如高地位大学更倾向于聘任自身的博士毕业生。它反映了社会封闭与精英凝聚机制，既有声望网络借此强化自身成员的能见度与学术地位。
 >
 > *While Crawford interprets high levels of own-country nominations as indicative of national chauvinism, we take a broader perspective on self-nominations that accounts for their structural role in scientific recognition. As explicitly prohibited by the Nobel Prize Statutes, self-nomination in the strict sense - scholars nominating themselves - does not occur. Instead, we define self-nominations as cases where scientists nominate colleagues from their own organizational or national affiliation, which represents the closest possible form of self-nomination within the given rules. This practice aligns with broader patterns of academic self-reproduction, such as universities hiring their own PhD graduates, which is particularly prevalent among high-status institutions. It reflects mechanisms of social closure and elite cohesion, where established networks reinforce their own members' visibility and prestige.*
 

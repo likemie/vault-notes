@@ -16,7 +16,7 @@ fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
 period: "2019–2024"
-initiator_organization: "[[Federal Ministry of Education and Research|德国联邦教育与研究部（BMBF）]]与各州文教部长联席会议（KMK）"
+initiator_organization: "[[Federal Ministry of Education and Research|德国联邦教育与研究部（Federal Ministry of Education and Research, BMBF）]]与各州文教部长联席会议（Standing Conference of the Ministers of Education and Cultural Affairs, KMK）"
 tags:
   - region/germany
   - policy/digital-education
@@ -55,13 +55,13 @@ updated: 2026-11-20
 ---
 
 > [!claim] 核心干预假说与宪制突破
-> 联邦政府通过修改《基本法》第 104c 条绕过联邦制“合作禁令”（Kooperationsverbot），以中央直接专项转移支付的形式，为各州学校提供数字化硬件与系统基础设施补偿，从而提升全国学校教育与双元制职业培训的数字化适应水平。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, p. 629)]]
+> 联邦政府通过修改《基本法》第 104c 条绕过联邦制合作禁令（Kooperationsverbot），以中央直接专项转移支付的形式，为各州学校提供数字化硬件与系统基础设施补偿，从而提升全国学校教育与双元制职业培训的数字化适应水平。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, p. 629)]]
 
 > [!policy-design] 方案设计
 > - **项目目标** 推动全国学校数字基础设施标准化升级，促进信息技术与各学科教学深度融合，缩小不同联邦州之间以及普通学校与职业学校之间的数字化装备差距。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, p. 629)]]
 > - **覆盖对象** 全德约四万所公立与受认可私立中小学及公立职业院校，重点覆盖基层校内教学空间与实训教室。
 > - **干预措施** 重点资助校内高速无线局域网覆盖、交互式电子白板、云端教学服务系统构建与教学显示终端采购，由各办学主体（Schulträger）基于校本数字化规划提出立项申请。
-> - **宪制争议与实施制约** 由于 2006 年联邦制改革一期取消了教育规划联合任务并确立严格的“合作禁令”，联邦不得常态化资助属于各州文化主权（Kulturhoheit）的学校教育；2019 年历经激烈政治博弈后通过修宪增设第 104c 条例外条款，方才允许联邦向各州市政级办学主体提供针对学校数字基建的财政资助。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, p. 629)]]
+> - **宪制争议与实施制约** 由于 2006 年联邦制改革一期取消了教育规划联合任务并确立严格的合作禁令，联邦不得常态化资助属于各州文化主权（Kulturhoheit）的学校教育；2019 年历经激烈政治博弈后通过修宪增设第 104c 条例外条款，方才允许联邦向各州市政级办学主体提供针对学校数字基建的财政资助。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, p. 629)]]
 
 > [!citation-card] 联邦基本法第 104c 条关于财政援助之例外规定
 > 联邦可向各州授予财政援助，用于对市政办学主体的学校教育基础设施进行具有跨区域重要性的重大投资。
@@ -88,4 +88,4 @@ updated: 2026-11-20
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Hippach-Schneider_Rieder_2022_RCIE|Hippach-Schneider and Rieder (2022, pp. 629–630)]] — 将学校数字公约作为剖析德国职业教育“权责分裂”与联邦制协调困境的典型案例，揭示联邦跨越合作禁令进行财政干预的制度限度。
+> - [[Argument_Hippach-Schneider_Rieder_2022_RCIE|Hippach-Schneider and Rieder (2022, pp. 629–630)]] — 将学校数字公约作为剖析德国职业教育权责分裂与联邦制协调困境的典型案例，揭示联邦跨越合作禁令进行财政干预的制度限度。

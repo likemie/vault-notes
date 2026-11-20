@@ -20093,6 +20093,18 @@
     ]
   },
   {
+    "title": "Scientific Hegemony",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Scientific Hegemony.md",
+    "aliases": [
+      "科学霸权",
+      "学术霸权",
+      "国际科学霸权",
+      "科学领导权",
+      "global scientific hegemony"
+    ]
+  },
+  {
     "title": "Scientific Mobility",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Scientific Mobility.md",
@@ -56780,6 +56792,11 @@
     "title": "Argument_Jovchevski_2026_PT",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Philosophy & Technology/Argument_Jovchevski_2026_PT.md"
+  },
+  {
+    "title": "Argument_VonDerHeyden_Heinze_2025_PLOSONE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md"
   },
   {
     "title": "Argument_Chou_2017_PolSoc",

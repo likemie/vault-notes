@@ -1,0 +1,9 @@
+{
+  "id": "floating-title-search",
+  "name": "Floating Title Search",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Search Markdown note titles from a compact right-side panel.",
+  "author": "MyNotes",
+  "isDesktopOnly": true
+}

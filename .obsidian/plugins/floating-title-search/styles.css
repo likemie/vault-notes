@@ -1,0 +1,253 @@
+.fts-float {
+  --fts-rail: 22px;
+  --fts-gap: 5px;
+  --fts-edge: 10px;
+  position: fixed;
+  right: var(--fts-edge);
+  z-index: var(--layer-popover, 30);
+  color: var(--text-normal);
+  font: 12px/1.35 var(--font-interface);
+}
+
+.fts-float[hidden],
+.fts-float [hidden] {
+  display: none;
+}
+
+.fts-float[data-open="true"] {
+  z-index: calc(var(--layer-popover, 30) + 1);
+}
+
+.fts-float[data-open="true"]::before {
+  position: absolute;
+  inset: 0 100% 0 auto;
+  width: var(--fts-gap);
+  content: "";
+}
+
+.fts-float :is(.fts-body, .fts-rail) {
+  box-sizing: border-box;
+  border: 1px solid var(--background-modifier-border);
+  background: var(--background-primary);
+  color: var(--text-normal);
+  box-shadow: 0 4px 16px rgb(0 0 0 / 14%);
+}
+
+.fts-float .fts-rail {
+  display: grid;
+  grid-template-rows: 14px 24px;
+  align-content: center;
+  justify-items: center;
+  gap: 4px;
+  width: var(--fts-rail);
+  height: 66px;
+  padding: 0;
+  border-radius: 7px;
+  font: inherit;
+  cursor: pointer;
+}
+
+.fts-float .fts-rail-icon svg {
+  width: 12px;
+  height: 12px;
+  color: var(--text-muted);
+}
+
+.fts-float .fts-rail-label {
+  font-size: 11px;
+  letter-spacing: 1px;
+  writing-mode: vertical-rl;
+  line-height: 1;
+}
+
+.fts-float .fts-body {
+  position: absolute;
+  right: calc(100% + var(--fts-gap));
+  display: flex;
+  flex-direction: column;
+  width: min(var(--fts-width, 320px), calc(100vw - 2 * var(--fts-edge) - var(--fts-rail) - var(--fts-gap)));
+  max-height: min(var(--fts-height, 330px), calc(100vh - 16px));
+  overflow: hidden;
+  border-radius: 9px;
+}
+
+.fts-float .fts-body[hidden] {
+  display: none;
+}
+
+.fts-float .fts-header {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  min-height: 31px;
+  padding: 0 5px 0 8px;
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.fts-float .fts-handle {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  gap: 6px;
+  min-width: 0;
+  height: 29px;
+  cursor: ns-resize;
+  touch-action: none;
+  user-select: none;
+}
+
+.fts-float .fts-heading {
+  margin: 0;
+  color: var(--text-normal);
+  font: 600 13px/1.35 var(--font-interface);
+  white-space: nowrap;
+}
+
+.fts-float .fts-grip {
+  display: grid;
+  color: var(--text-muted);
+}
+
+.fts-float :is(.fts-grip, .fts-icon-button) svg {
+  width: 14px;
+  height: 14px;
+}
+
+.fts-float .fts-icon-button {
+  display: grid;
+  place-items: center;
+  width: 24px;
+  height: 24px;
+  padding: 0;
+  border: 0;
+  border-radius: 5px;
+  background: transparent;
+  box-shadow: none;
+  color: var(--text-muted);
+  cursor: pointer;
+}
+
+.fts-float .fts-field {
+  flex: none;
+  padding: 7px 7px 4px;
+}
+
+.fts-float .fts-input {
+  box-sizing: border-box;
+  width: 100%;
+  height: 31px;
+  padding: 0 8px;
+  font: inherit;
+}
+
+.fts-float .fts-status {
+  flex: none;
+  margin: 0;
+  padding: 7px 10px 8px;
+  color: var(--text-muted);
+  font-size: 12px;
+}
+
+.fts-float .fts-status.fts-has-results {
+  padding-block: 3px 1px;
+  font-size: 11px;
+  font-variant-numeric: tabular-nums;
+}
+
+.fts-float .fts-results {
+  min-height: 0;
+  padding: 3px;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  scrollbar-width: thin;
+}
+
+.fts-float .fts-row {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  height: auto;
+  padding: 4px 7px;
+  border: 0;
+  border-radius: 5px;
+  background: transparent;
+  box-shadow: none;
+  color: var(--text-normal);
+  font: inherit;
+  text-align: start;
+  cursor: pointer;
+}
+
+.fts-float :is(.fts-result-title, .fts-result-path) {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.fts-float .fts-result-path {
+  color: var(--text-muted);
+  font-size: 11px;
+}
+
+.fts-float mark {
+  background: color-mix(in srgb, var(--interactive-accent) 18%, transparent);
+  color: inherit;
+}
+
+.fts-float :is(.fts-icon-button, .fts-row, .fts-rail):hover,
+.fts-float .fts-rail[aria-expanded="true"],
+.fts-float .fts-row[aria-selected="true"] {
+  background: var(--background-modifier-hover);
+}
+
+.fts-float :is(button, input):focus-visible {
+  outline: 2px solid var(--interactive-accent);
+  outline-offset: -1px;
+}
+
+.fts-float .fts-footer {
+  display: flex;
+  flex: none;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 27px;
+  padding: 0 8px 0 17px;
+  border-top: 1px solid var(--background-modifier-border);
+}
+
+.fts-float .fts-alias-option {
+  display: inline-flex;
+  gap: 4px;
+  align-items: center;
+  color: var(--text-muted);
+  font-size: 11px;
+  cursor: pointer;
+}
+
+.fts-float .fts-alias-option input {
+  width: 13px;
+  height: 13px;
+  margin: 0;
+}
+
+.fts-float .fts-resize {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 13px;
+  height: 13px;
+  cursor: nesw-resize;
+  touch-action: none;
+}
+
+.fts-float .fts-resize::after {
+  position: absolute;
+  bottom: 3px;
+  left: 3px;
+  width: 6px;
+  height: 6px;
+  border-bottom: 1px solid var(--text-muted);
+  border-left: 1px solid var(--text-muted);
+  content: "";
+}

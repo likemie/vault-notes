@@ -43,19 +43,19 @@ updated: 2026-11-20
 
 > [!policy-context] 政策背景
 > - **发布时间与发布主体** 瑞士联邦议会于 2002 年 12 月 13 日审议通过，自 2004 年 1 月 1 日起全面生效实施。
-> - **适用地区与对象** 适用于瑞士全境二十六个联邦州；规范中等二级职业教育与培训（VET）、高等三级专业职业教育（PET）、职业资格考试及职业导向的继续教育。
+> - **适用地区与对象** 适用于瑞士全境二十六个联邦州；规范中等二级职业教育培训（Vocational Education and Training, VET）、高等专业教育（Professional Education and Training, PET）、职业资格考试及职业导向的继续教育。
 > - **问题背景** 历史传统的瑞士职业教育主要由各州自治管理且行业分散，卫生、护理、社会工作与艺术等关键领域长期被排除在联邦统一职教体系之外；1999 年瑞士联邦宪法修正案（第 63 条及第 63a 条）赋予联邦对职业教育的全面管辖权，亟需一部整合全行业领域的现代统一法案。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, pp. 621, 627)]]
-> - **制度位置** 奠定瑞士现代职业与专业教育培训体系（VPET）的最高位阶基本法律，与 2017 年施行的《联邦继续教育法》（WeBiG）共同构成瑞士终身技能形成的法定制度基石。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, pp. 627–628)]]
+> - **制度位置** 奠定瑞士现代职业与专业教育培训体系（Vocational and Professional Education and Training, VPET）的最高位阶基本法律，与 2017 年施行的《联邦继续教育法》（Continuing Education and Training Act, WeBiG）共同构成瑞士终身技能形成的法定制度基石。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, pp. 627–628)]]
 
 ---
 
 > [!claim] 政策核心与法治原则
-> 法案在第一条开宗明义确立“合作伙伴原则”，将职业教育明确界定为联邦（Confederation）、州（Cantons）以及工作界组织（Organisations of the World of Work, OdA）三方共同承担的法定任务，通过立法制度化了行业主导与公私协同的统一治理架构。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, pp. 627, 633)]]
+> 法案在第一条开宗明义确立合作伙伴原则，将职业教育明确界定为联邦（Confederation）、州（Cantons）以及工作界组织（Organisations of the World of Work, OdA）三方共同承担的法定任务，通过立法制度化了行业主导与公私协同的统一治理架构。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, pp. 627, 633)]]
 
 > [!policy-design] 政策设计与三方权责划分
 > - **政策目标** 确保职业教育紧密适应经济与科技变革，保障职业资格证书在全国范围内的等值性与流动性，确立高等职业教育与普通学术高等教育并行的平等第三级地位。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, p. 628)]]
 > - **三方协同治理结构**
->   - **联邦层面（国家战略与法规审批）** 由联邦经济、教育与科研部（EAER）辖下的国家教育、科研与创新秘书处（SBFI）行使宏观调控权，负责审核并正式颁布各职业培训条例（Bildungsverordnungen, BiVo），提供全系统约四分之一的公共财政资助。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, pp. 627–628)]]
+>   - **联邦层面（国家战略与法规审批）** 由联邦经济、教育与科研部（Federal Department of Economic Affairs, Education and Research, EAER）辖下的国家教育、科研与创新秘书处（State Secretariat for Education, Research and Innovation, SBFI）行使宏观调控权，负责审核并正式颁布各职业培训条例（Vocational Training Ordinance, BiVo），提供全系统约四分之一的公共财政资助。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, pp. 627–628)]]
 >   - **各州层面（落地监管与学校主办）** 各州文教行政部门负责本地职业学校的组织运营、教学督导、学徒合同审批以及跨企业培训课程的统筹协调。
 >   - **工作界组织层面（内容主导与标准开发）** 雇主协会、行业组织与专业协会（OdA）拥有法定的培训方案起草权，主导制定具体的培养计划（Bildungspläne），并主导组织行业技能实践考试。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, pp. 624, 630)]]
 > - **约束与质量复核机制** 法律强制规定所有职业培训条例与培养计划原则上必须每五年开展一次系统性质量与时代适应性评估，确保教学内容敏捷跟进技术前沿与生产工艺变革。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, p. 630)]]
@@ -74,11 +74,11 @@ updated: 2026-11-20
 >
 > - **2014–2020** **教育科研创新联动与战略整合**
 >
->   职教系统与联邦教育、科研与创新总框架（BFI 战略）实现四年期联动规划；2017 年配套出台《继续教育法》（WeBiG），进一步明晰企业与公立机构支持员工继续进修的法定义务。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, pp. 627–628)]]
+>   职教系统与联邦教育、科研与创新（Education, Research and Innovation, BFI）总框架实现四年期联动规划；2017 年配套出台《联邦继续教育法》（Continuing Education and Training Act, WeBiG），进一步明晰企业与公立机构支持员工继续进修的法定义务。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, pp. 627–628)]]
 >
 > - **2021–至今** **职教 2030 战略与数字化转型**
 >
->   三方合作伙伴共同启动《职业教育 2030 战略》（VPET Strategy 2030）及数字化重点项目（digitalinform.swiss），依托每五年定期评估机制全面更新职业技术大纲，支持模块化与定制化人才培养。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, pp. 628, 631)]]
+>   三方合作伙伴共同启动《职业教育 2030 战略》（Vocational and Professional Education and Training Strategy 2030, VPET Strategy 2030）及数字化重点项目 digitalinform.swiss，依托每五年定期评估机制全面更新职业技术大纲，支持模块化与定制化人才培养。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, pp. 628, 631)]]
 
 ---
 
