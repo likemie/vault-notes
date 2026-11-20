@@ -67,12 +67,14 @@ related_arguments:
   - "[[Argument_Santos_Silova_2026_Discourse]]"
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Zhang_Zhao_2026_EDR]]"
+  - "[[Argument_Munch_2014_TCR]]"
 related_persons:
   - "[[Alain Desrosières]]"
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
   - "[[Sigrid Hartong]]"
   - "[[Nikolas Rose]]"
+  - "[[Richard Münch]]"
 related_facts:
   - "[[CREATES Project]]"
   - "[[OECD]]"
@@ -88,7 +90,7 @@ related_theories:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 ---
@@ -101,12 +103,12 @@ updated: 2026-11-19
 > - **用途** 帮助研究者透视指标中立表象之下的规范预设，揭示教育数据从原始信息向治理知识转化时的权力运作。
 > - **边界** 区别于纯数学单位换算，通约本质上是充满政治协商与制度权衡的社会实践，带有鲜明的权力界定与价值偏向属性。
 
-> [!citation-card] 通约的社会本质与治理制造
+> [!citation-card|notitle] 通约的社会本质与治理制造
 > 州级学校监测实践中的关键机制在于制造通约，即把不同的质态转化为可比较的量化指标。然而，通约需要大量的组织协调、决断与权重赋予，这些在很大程度上意味着将数字同规范、价值及政治相互连接。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, p. 3)]]
 >
 > *As our empirical observations will show, a key mechanism within the doing of state school monitoring is the fabrication of commensuration, which is the transformation of different qualities into comparable, usually quantified metrics (Espeland & Stevens, 1998). At the same time, however, commensuration requires enormous organisation, decision-making and weighting which, as many of our interviewees reported, can pose significant challenges (which are mostly externally invisible).*
 
-> [!citation-card] 通约制造[[Space of Equivalence|等值空间]]与质态折算
+> [!citation-card|notitle] 通约制造[[Space of Equivalence|等值空间]]与质态折算
 > 通约依照共享指标在异质实体之间建立关联；它将质态转化为量态，建立起[[Alain Desrosières|德罗西埃]]（Desrosières, 1998）所谓的等值空间，成为欧洲治理空间得以成型的核心技术基础。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 25)]]
 >
 > *Commensuration [[CREATES Project|creates]] relations between different entities according to a shared metric; it transforms qualities into quantities... The work of commensuration was essential in creating what Desrosières (1998) terms a 'space of equivalence'.*
@@ -137,6 +139,8 @@ updated: 2026-11-19
 >   [[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières, 1998）与[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）、[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，在[[OECD]]主导的[[PISA]]等跨国大规模测评中，通约机制凭空创造出一个全球可比较的“等值空间”；为此，测量专家在方法论上将跨国信度（reliability）与可比性置于[[Construct Validity|构念效度]]（[[Construct]] validity）与[[Ontology|本体论]][[Heterogeneity|异质性]]之上，使复杂的价值决断隐形化[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|(Rizvi & Lingard, 2009, pp. 447–448)]]。
 > - **超国家软治理的基石**
 >   [[Argument_Grek_2009_JEdPolicy|Grek (2009, p. 25)]] 与[[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等（2021）]]指出，通约不仅是量化操作，更是构建跨国比较接口的政治技术；它与去背景化、政策导向并列为经合组织树立跨国评价权威的三大技术支柱，通过将各国异质教育传统折算为单一通用标尺，在缺乏法定行政管辖权的情境下建立起强大的政策协调与排位权威。
+> - **通用人力资本通约对深度教化传统的制度侵蚀**
+>   跨国评估将教育价值还原为劳动生产率的要素投入，追求通用、即时、可跨国通约的量化人力资本储备，将德国重在理论深度、文学熏陶与学科自主的传统教化（[[Bildung]]）大纲通约为狭隘的英美实用主义基本技能。[[Argument_Munch_2014_TCR|(Münch, 2014, pp. 2–3, 10–13)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -157,6 +161,9 @@ updated: 2026-11-19
 
 > [!claim] Grek, S. & Russell, I. (2024)
 > **质保元标准作为跨国通约的公分母机制** 索蒂里亚·格雷克与伊恩·拉塞尔论证指出，跨国教育治理中的通约实践不仅涵盖 PISA 等数值测验量表，更深度依托质性元规范实现制度通约。在欧洲高等教育区建设中，《[[European Standards and Guidelines|欧洲高等教育区质量保障标准与准则]]》（[[European Standards and Guidelines|ESG]]）充当了将 49 个成员国高度异质的质保传统转化为共有尺度的通约公分母。依托[[European Quality Assurance Register for Higher Education|欧洲高等教育质量保障注册局]]（[[European Quality Assurance Register for Higher Education|EQAR]]）与外部质保结果数据库（[[Database of External Quality Assurance Results|DEQAR]]），不同国家大学的内部治理与办学资质被统一折算为可跨境查验与免检对标的标准化记录，从而在缺乏超国家行政集权的前提下，构建起支撑全欧文凭自动互认的等值空间。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024)]]
+
+> [!claim] [[Richard Münch|Münch, R.]]
+> **通用人力资本通约对深度教化传统的制度侵蚀** 理查德·明希（[[Richard Münch]]）剖析德国案例指出，经合组织推行的人力资本范式将教育彻底降格为经济劳动力要素投入，极力建构即时、通用且可跨国通约的技能指标体系。这一通约机制与德国重视理论推导、哲学思考与多学科深厚涵育的洪堡式教化（[[Bildung]]）传统产生剧烈碰撞，不仅未能提高实际教育质量，反而通过将长效学术素养削足适履地通约为短期应试技能，加剧了学校体系的功利主义异化。[[Argument_Munch_2014_TCR|(Münch, 2014, pp. 2–3, 10–13)]]
 
 ---
 
@@ -179,15 +186,16 @@ updated: 2026-11-19
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **等值空间命题** | 跨国通约虚构等值空间，将统计信度置于本土效度之上 | 全球大规模学生评估（PISA）、跨国质保元标准 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]]; Desrosières (1998); [[Argument_Grek_2024_EERJ\|Grek and Russell (2024)]] |
+> | **等值空间命题** | 跨国通约虚构等值空间，将统计信度与通用人力资本置于本土效度与深度教化之上 | 全球大规模学生评估（PISA）、跨国质保元标准 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]]; Desrosières (1998); [[Argument_Grek_2024_EERJ\|Grek and Russell (2024)]]; [[Argument_Munch_2014_TCR\|Münch (2014)]] |
 > | **价值隐形命题** | 脱域化公分母将充满冲突的政治决断包装为中立黑箱算法 | 州级/联邦学校监测与资源分配 | [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019)]]; Rose (1999) |
 > | **博弈异化命题** | 通约指标与高利害问责挂钩诱发策略性博弈与反身性数据操纵 | 学校绩效问责与补偿经费绑定 | [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019)]]; Espeland and Sauder (2007) |
 
 ---
 
 > [!dev-timeline] 概念演变
-> - **1998 — 数量通约与统计等值理论奠基** Espeland and Stevens（1998）提出通约概念，阐明将不同质态折算为量化指标的社会过程；Desrosières（1998）在《大数的政治》中阐释大规模统计如何建立等值空间。
+> - **1998 — 数量通约与统计等值理论确立** Espeland and Stevens（1998）提出通约概念，阐明将不同质态折算为量化指标的社会过程；Desrosières（1998）在《大数的政治》中阐释大规模统计如何建立等值空间。
 > - **2006–2009 — 跨国教育治理与大规模评估应用** Lawn（2006）、[[Argument_Grek_2009_JEdPolicy|Grek (2009)]] 与 [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] 将通约理论引入[[International Large-Scale Assessments|国际大规模评估]]研究，揭示 [[PISA]] 如何通过数量通约在欧洲与全球制造可比等值空间。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 25)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
+> - **2014 — 德国传统教化体制面临人力资本通用通约的混杂危机** [[Argument_Munch_2014_TCR|Münch (2014)]] 揭示经合组织 PISA 规制如何将通用人力资本通约指标强加于德国分流体制与洪堡教化传统，在追求短期跨国可比排位的过程中引发课程麦当劳化与文凭通胀危机。
 > - **2019 — 数字化监测与次国家治理微观机制深化** [[Argument_Hartong_Forschler_2019_BDS|Hartong and Förschler (2019)]] 通过美德州级教育数据监测系统实证，深入剖析脱域化公分母、统计同伴组与微观做数据博弈。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 3–7)]]
 > - **2024 — 高等教育质保元标准与跨国资质通约深化** 索蒂里亚·格雷克与伊恩·拉塞尔（[[Argument_Grek_2024_EERJ|Grek & Russell, 2024]]）拓展通约分析至质保基础设施，揭示 ESG 元标准与 DEQAR 数据库如何将各国异质质量体系通约为可互操作的数据记录，支撑全欧学历互认。
 > - **2026 — [[Learning Crisis|全球学习危机]]话语中的量化及格线通约批判** [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] 批判国际组织将复杂育人实践强行通约为小学低年级[[Foundational Literacy and Numeracy|基础读写算]]及格率（如学习贫困指标），指出这种技术通约抹杀了全球南方的语言情境与本土口述[[Epistemology|认识论]]传统。（pp. 675–676）
@@ -211,14 +219,14 @@ updated: 2026-11-19
 > > [!axis] 通约测量的系统治理改进 vs 虚假合规与博弈性目标置换
 > > 围绕量化通约究竟能提升系统透明度，还是必然诱发[[Goodhart's Law|古德哈特定律]]（Goodhart's Law）式的策略博弈展开交锋。
 > >
-> > - **[[New Public Management|新公共管理]]与问责拥护者** 坚信没有量化通约就没有问责，透明的可比指标能有效倒逼落后学校查缺补漏、提高公共资金使用效率。
+> > - **[[New Public Management|新公共管理]]与问责拥护者** 坚信没有量化通约就没有问责，透明的可比指标能有效促使落后学校查缺补漏、提高公共资金使用效率。
 > > - **[[Reflexivity|反身性]]批判社会学派** 指出“一旦指标成为目标，它就不再是好指标”；通约指标将专业教育人员的精力从育人工作异化为指标生产与数据公关，严重侵蚀教育专业自主权。
 >
 > > [!axis] 单一[[Effect Size|效应量]]通约 vs 具身教化的[[Incommensurability|不可通约性]]
-> > 围绕将多元教育产出通约为单一效应量指标是否抹杀教育本真价值展开辩论。
+> > 围绕将多元教育产出通约为单一效应量或通用人力资本指标是否抹杀教育本真价值展开辩论。
 > >
-> > - **[[Positivism|实证主义]][[Meta-analysis|元分析]]立场** 认为效应量（$d$）提供了跨越教学法与课程内容的统一比较标尺，唯有通过数量通约才能识别“哪些措施最有效”。
-> > - **[[Phenomenology|现象学]]与批判教育哲学立场** [[Argument_Larsen_2019_EducSci|Larsen (2019, pp. 2–3)]] 指出，将复杂的师生互动与漫长涵育（[[Bildung]]）过程通约为单一效应量，抹杀了教育活动与生俱来的质性不可通约性，将[[Student-Teacher Relationship|师生关系]]异化为可折算的投入产出链条。
+> > - **[[Positivism|实证主义]][[Meta-analysis|元分析]]与人力资本衡量立场** 认为效应量（$d$）与量化技能指标提供了跨越教学法与课程内容的统一比较标尺，唯有通过数量通约才能识别“哪些措施最有效”并评估国家劳动力存量。
+> > - **[[Phenomenology|现象学]]与批判教育哲学立场** [[Argument_Larsen_2019_EducSci|Larsen (2019, pp. 2–3)]] 与 [[Argument_Munch_2014_TCR|Münch (2014, pp. 10–13)]] 指出，将复杂的师生互动与漫长涵育（[[Bildung]]）过程通约为单一效应量或通用技能点数，抹杀了教育活动与生俱来的质性不可通约性，将师生关系异化为可折算的投入产出链条，并引发文法高中学术深度的制度性稀释。
 
 > [!tension-table] 通约落地中的核心治理张力
 > | 张力维度 | 通约导向 | 实践诉求 | 治理两难 |
@@ -242,6 +250,7 @@ updated: 2026-11-19
 > | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009, pp. 446–448)]] | 经合组织（OECD）跨国教育政策演进史与 PISA 技术框架 | 制度史[[Document\|文献]]考证与[[Critical Discourse Analysis\|批判话语分析]] | 跨国通约标尺建构与构念效度权衡 | 依托 [[Item Response Theory\|IRT]] 与 Rasch 模型构建均值 500、标准差 100 的无国界标尺；信度优先压倒本土构念效度 | — | 揭示跨国通约在方法论上剔除本土高阶试题并制造远处掌舵空间的机制 |
 > | [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 25, 32)]] | 经合组织教育局 PISA 预算及[[EU\|欧盟]]指标对 OECD 数据的采信 | 跨国治理机构政策档案与深度[[Elite Interview\|关键知情人访谈]] | 跨国通约标尺研发成本；欧盟指标依赖率 | PISA 占经合组织教育局年度预算约 30%；欧盟[[Lisbon Strategy\|里斯本战略]]指标报告中 50%–60% 数据来自 OECD（[[UOE Data Collection\|UOE]] 占 60%） | — | 实证说明维持跨国通约标尺与等值空间需要高昂的跨国财政支撑与机构共生 |
 > | [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019, pp. 4–8)]] | 德国汉堡市（社会指数）与美国马萨诸塞州（RADAR/DART）学校监测 | 跨国[[Comparative Case Study\|比较案例研究]]与半结构化[[Expert Interview\|专家访谈]]（16 场 / 20 位官员） | 算法通约匹配机制；统计同伴组对标行为 | 汉堡将生源失业与贫困折算为 1–6 级社会指数；马萨诸塞州算法自动匹配全州特征最相似的 10 所统计双胞胎学校 | — | 实证揭示次国家治理中通约机制如何建立形式公平对标并诱发基层博弈 |
+| [[Argument_Munch_2014_TCR\|Münch (2014, pp. 2–5, 10–15)]] | 德国中等教育三轨分流体制与文法高中（Gymnasien）改革 | 制度社会学与批判政策分析 | 通用人力资本量化通约指标与三轨分流、文法高中教化传统张力 | 揭示跨国通约指标迫使各州推行 G8 缩水改革与标准化测评，导致文法高中名义通过率上升伴随学术后劲不足 | 德国全国及州级中等教育体制全样考察 | 实证揭示跨国人力资本通约指标强行嵌入本土教化体制后产生的制度混杂与文凭贬值后果 |
 
 ---
 
@@ -254,6 +263,7 @@ updated: 2026-11-19
 > | [[International Large-Scale Assessments]] | 概念 | 依赖数量通约技术建立全球统一学生能力标尺的大规模测评制度。 |
 > | [[Goodhart's Law]] | 概念 | 揭示通约指标一旦与高利害问责刚性挂钩便诱发策略性博弈与目标置换的规律。 |
 > | [[Alain Desrosières]] | 人物 | 统计社会学家，在《大数的政治》中阐释大规模统计与等值空间建构。 |
+> | [[Richard Münch]] | 人物 | 剖析德国教化传统与经合组织人力资本通用通约冲突的社会学家。 |
 
 ---
 
@@ -263,6 +273,7 @@ updated: 2026-11-19
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 揭示经合组织如何通过通约技术构建等值空间，将异质教育传统化约为通用标尺以实现跨国软治理。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 批判可见学习以效应量为公分母将多元教育过程通约化，阐明数量通约对师生具身关系与漫长教化过程的遮蔽。
 > - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 将跨国通约性界定为 PISA 规制权威的三大技术支柱之一，揭示其依托等价空间排位将新自由主义绩效治理包装为中立测量事实的机制。
+> - [[Argument_Munch_2014_TCR|Münch (2014)]] — 剖析经合组织如何将教育价值还原为通用人力资本通约指标，揭示其与德国深度教化传统和分流制度碰撞引发的制度混杂。
 > - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 阐释欧洲高等教育区如何依托 ESG 元标准与 DEQAR 数据库构建通约公分母，将各国异质质保体制转化为全欧可比与自动互认的等值空间。
 > - [[Argument_Zhang_Zhao_2026_EDR|张娟, 赵祥辉 (2026)]] — 提出跨学科教育经历遵循方法可迁移与知识可通约规律，指出数理与实验硬核工具的通约性是促成近缘学科交叉创新的必要基础。
 > - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 批判国际组织全球学习危机话语对小学低年级基础读写算及格线的普世通约，揭示技术化通约对全球南方语言生态与本土认识论传统的抹杀（pp. 675–676）。

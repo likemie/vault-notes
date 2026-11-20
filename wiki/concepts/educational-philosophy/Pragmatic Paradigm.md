@@ -80,6 +80,7 @@ related_persons:
   - "[[Jason Beech]]"
   - "[[Herbert Hoover]]"
   - "[[Alexander Karp]]"
+  - "[[Richard Münch]]"
 related_facts:
   - "[[OECD]]"
   - "[[World Bank]]"
@@ -97,10 +98,11 @@ related_arguments:
   - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
   - "[[Argument_Deng_2016_CE]]"
+  - "[[Argument_Munch_2014_TCR]]"
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 ---
@@ -248,6 +250,9 @@ updated: 2026-11-19
 > [!claim] [[Jason Beech|Beech, J.]]
 > **紧迫实用主义驱动的过度简化与话语盲区** 杰森·比奇（Jason Beech）深入剖析跨国多边机构在生成[[Global Educational Discourse|全球教育话语]]时的认知机制，指出以[[World Bank|世界银行]]、经合组织与[[UNESCO|联合国教科文组织]]为代表的国际组织，其政策干预受制于强烈的“紧迫实用主义（urgent pragmatism）”与[[Educational Meliorism|改良主义]]行动逻辑。面对在短周期内交付“见效且具实操性”政策处方的行政压力，国际机构将原本复杂的全球学术理论深度删剪与过度简化为标准化的五大支柱模型。更为关键的是，这种对紧迫实用主义的执着使国际机构陷入集体认知盲区，使其无法审视自身实践所依托的潜意识假设、熟悉概念与未经反思的思维方式，最终在自限[[Discursive Field|话语空间]]的同时，将全球教育改革锁死在排他性的技术官僚脚本之内。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 350–352)]]
 
+> [!claim] [[Richard Münch|Münch, R.]]
+> **英美实用主义基本技能取向对大陆教化传统的规制冲突** 理查德·明希（[[Richard Münch]]）揭示经合组织 PISA 测评内嵌的实用主义范式具有鲜明的英美文化特殊性：它将考核重点窄化为日常生活情境中的基础读写算与即时应用技能，完全脱离了德国重视学科独立体系、理论推导深度与文学人文熏陶的洪堡式教化（[[Bildung]]）大纲。明希实证指出，跨国排位高低仅反映了考题与特定国别课程大纲的贴近度，而非系统长远学术后劲；超国家机构将英美实用主义技能范式强行塑造成全球唯一通用的“现代教育标准”，在大陆教育体系中催生出课程麦当劳化与深层制度混杂。[[Argument_Munch_2014_TCR|(Münch, 2014, pp. 10–13, 21–22)]]
+
 > [!citation-card] 比奇论国际组织的紧迫实用主义与话语自限
 > 国际机构对紧迫实用主义问题的关注，使其无法看清自身的实践究竟建立在何种假设、熟悉观念以及确立已久且未经检视的思维方式之上。通过这种方式，国际机构限制了自身的话语空间。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 350)]]
 >
@@ -263,16 +268,17 @@ updated: 2026-11-19
 > | **跨国脱钩与功能性拆解** | 层次三：实践与跨国层 | 探讨危机语境下哲学理想与方法手段的脱钩 | 比较教育与跨国知识转移 | [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024)]]; [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] |
 > | **假设-演绎与实用互动论** | 层次四：比较教育学层 | 依托杜威问题法构建假设-演绎比较范式，突破功能主义垄断 | 比较教育方法论与范式争鸣 | [[Brian Holmes\|Holmes (1965)]]; [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] |
 > | **工程求真与反教条认识论** | 层次五：工程治理层 | 走下神坛投身具体系统运作，以物理代码实测检验理论 | 现代软件工程哲学与国家技术治理 | Dewey (1922); [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14\|Karp and Zamiska (2025, Ch. 14)]] |
-> | **劳动力精算与治理去政治化** | 层次六：全球治理层 | 借助实用主义解题理性将教育伦理辩论降格为绩效精算，并因紧迫实用主义陷入话语自限 | 超国家治理与全球教育政策转型 | [[Fazal Rizvi\|Rizvi]] and [[Bob Lingard\|Lingard]] (2009); [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] |
+> | **劳动力精算与治理去政治化** | 层次六：全球治理层 | 借助实用主义解题理性将教育伦理辩论降格为绩效精算，并因紧迫实用主义陷入话语自限，英美基本技能取向压制大陆教化传统 | 超国家治理与全球教育政策转型 | [[Fazal Rizvi\|Rizvi]] and [[Bob Lingard\|Lingard]] (2009); [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]]; [[Argument_Munch_2014_TCR\|Münch (2014)]] |
 
 ---
 
 > [!dev-timeline] 概念演变
 > - **19世纪末–20世纪初 — 哲学起源（哲学层面）** Peirce, James, Mead 与 [[John Dewey|杜威]] 建立实用主义哲学体系，重构经验、探究、民主与行动后果；1922年杜威发表《实用主义美国》，阐发深入具体事物运作机理的实验精神。
 > - **1960s–1970s — 比较教育方法论论争与实用互动论（比较教育学层）** [[Brian Holmes|布莱恩·霍姆斯]]（Holmes, 1965）借鉴[[John Dewey|杜威]]问题求解逻辑提出“假设-演绎[[Problem Approach|问题法]]”，掀起与归纳法的[[Paradigm|范式]]论争；“实用互动论”被确认为 1970 年代打破[[Structural Functionalism|结构功能主义]]实证霸权的核心批判范式之一。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 128–129, 136)]]
-> - **1990s–2000s — 方法论[[Paradigm|范式]]奠基（方法论层次）** Cherryholmes (1992), Patton (1990), Tashakkori and Teddlie (2010), Johnson and Onwuegbuzie (2004), Denscombe (2008), Morgan (2007) 将实用主义确立为[[Mixed Methods Research|混合方法研究]]的官方哲学基础。
+> - **1990s–2000s — 方法论[[Paradigm|范式]]确立（方法论层次）** Cherryholmes (1992), Patton (1990), Tashakkori and Teddlie (2010), Johnson and Onwuegbuzie (2004), Denscombe (2008), Morgan (2007) 将实用主义确立为[[Mixed Methods Research|混合方法研究]]的官方哲学基础。
 > - **2000 年代 — 超国家治理的技术主义规范与紧迫实用主义盲区** 里兹维与林加德（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）揭示[[OECD|经合组织]]如何将教育治理窄化为劳动力技能精算；比奇（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）进一步提炼国际机构的“紧迫实用主义（urgent pragmatism）”机制，揭示其实用主义解题冲动如何导致学术理论过度简化与政策空间封闭。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 451–452)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 350–352)]]
 > - **2009 年 — 杜威实证探究[[Epistemology|认识论]]对技术统治论排名的批判** [[Ivan Snook|斯努克]]等人重温[[John Dewey|杜威]]（1929）《教育科学的渊源》，在批判[[John Hattie|哈蒂]]量化排名的论辩中重新激活了实用主义认识论基石：实证证据并不直接规范行动的技术铁律，而仅是供一线教育者在具体情境中反思目的与明智解题的探究假设（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）。
+> - **2014 年 — 英美实用主义基本技能范式与大陆深度教化传统的规制冲突** [[Argument_Munch_2014_TCR|Münch (2014)]] 揭示 PISA 测评内嵌的英美实用主义基本技能范式如何与德国重视理论深度和学科自主的洪堡教化传统产生制度冲突，阐明跨国排位反映的课纲贴近度偏差及其对本土教育生态的规制后果。
 > - **2010s至今 — 教育研究应用、跨国解构与现代工程[[Epistemology|认识论]]复兴** 深入[[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]]与[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]]教材体系；在比较教育中被用来分析实用主义哲学在非西方社会的跨国转移与结构性拆解（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024]]）；并在现代科技哲学中被卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）升华为[[Engineering Mindset|工程思维]]与反官僚推诿的核心认识论。
 
 ---
