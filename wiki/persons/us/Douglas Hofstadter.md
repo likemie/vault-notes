@@ -5,13 +5,13 @@ aliases:
   - Douglas R. Hofstadter
   - 道格拉斯·霍夫施塔特
   - 霍夫施塔特
-summary: "美国认知科学家、哲学家与计算机科学家，普利策奖著作《哥德尔、艾舍尔、巴赫》作者，印第安纳大学杰出教授。长期致力于类比推理、意识形成机制与概念创造研究，批判大语言模型仅为训练数据的表层拼凑，主张统计相关性无法替代人类心灵的核心推理机制。"
+summary: "美国认知科学家、哲学家与计算机科学家，以跨学科名著《哥德尔、艾舍尔、巴赫》获普利策奖，印第安纳大学杰出教授。长期致力于类比推理、意识形成机制与概念创造研究，批判大语言模型仅为训练数据的表层拼凑，主张统计相关性无法替代人类心灵的核心推理机制。"
 type: person
 cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 8
+person_related_count: 7
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"

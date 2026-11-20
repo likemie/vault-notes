@@ -21768,12 +21768,10 @@
     "Rogers & Skinner (1956)": "Rogers & Skinner, 1956",
     "Rogers & Skinner, 1956": "Rogers & Skinner, 1956",
     "Rogers (1945)": "Rogers, 1945",
-    "Rogers (1951)": "Rogers, 1951",
     "Rogers (1969)": "Rogers, 1969",
     "Rogers (1991)": "Rogers, 1991",
     "Rogers (2019)": "Rogers, 2019",
     "Rogers, 1945": "Rogers, 1945",
-    "Rogers, 1951": "Rogers, 1951",
     "Rogers, 1969": "Rogers, 1969",
     "Rogers, 1991": "Rogers, 1991",
     "Rogers, 2019": "Rogers, 2019",
@@ -188636,21 +188634,6 @@
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21.md",
         "wiki/methods/qualitative/Non-directive Interview.md"
-      ],
-      "title": ""
-    },
-    "Rogers, 1951": {
-      "aliases": [
-        "Rogers, 1951",
-        "Rogers (1951)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Rogers, 1951"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/persons/us/Carl Rogers.md"
       ],
       "title": ""
     },
