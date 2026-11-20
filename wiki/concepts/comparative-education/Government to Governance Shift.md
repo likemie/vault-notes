@@ -8,10 +8,10 @@ aliases:
 summary: "描述公共政策与教育管理形态从传统单一科层制统治向多元公私行动者网络化协同治理的系统性演进。国家从直接生产与自上而下指令的中心，转变为依托战略框架、中介平台与自愿承诺进行多层政策编排的网络国家。"
 type: concept
 domain: "comparative-education"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 13
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/education-policy
   - theory/governance
@@ -45,7 +45,7 @@ updated: 2026-11-21
 ---
 
 > [!def] Government to Governance Shift
-> 从统治到治理的转变（Government to Governance Shift）描述了国家公共政策与教育管理范式的系统性变迁。传统统治（Government）依赖国家官僚科层制的自上而下行政命令、法定管辖与统一法令；而治理（Governance）体现为主权国家、国际组织、地方政府、私营企业、中介平台、行业商会与社会工会等多元公私主体共同参与的网络化协调机制。这一转变并不意味主权国家权能的消亡，而是国家通过演变为网络国家（Network State）或政策编排者，在不同层级与多元主体之间重新分工与配置权力。[[Argument_Beech_2015_GSE|(Beech & Artopoulos, 2015)]]; [[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 509–510)]]
+> 从统治到治理的转变（Government to Governance Shift）描述了国家公共政策与教育管理范式的系统性变迁。传统统治（Government）依赖国家官僚科层制的自上而下行政命令、法定管辖与统一法令；治理（Governance）体现为主权国家、国际组织、地方政府、私营企业、中介平台、行业商会与社会工会等多元公私主体共同参与的网络化协调机制。在这一转变中，国家演变为网络国家（Network State）或政策编排者，在不同层级与公私多元主体之间重新分工与配置治理权力。[[Argument_Beech_2015_GSE|(Beech & Artopoulos, 2015)]]; [[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 509–510)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 权力运行形态从单一科层命令向多元行动者协商网络的系统性迁移。
@@ -60,7 +60,7 @@ updated: 2026-11-21
 > [!boundary]- 概念边界
 > - 不等于 [[Policy Borrowing]]（政策借用） — 政策借用通常关注国家间正式法律或政策文本的单向转移；统治到治理的转变则涉及跨国多标度网络中超越国家法典的权力编排。
 > - 不等于 [[Network Governance]]（网络治理） — 网络治理是具体分析多元主体互动网络的分析构念；统治到治理的转变是更为宏观的制度演化范式描述。
-> - 不等于国家权力消亡 — 国家并未退出历史舞台，而是从直接微观干预者转变为战略目标制定者、平台编排者与监督者。
+> - 不等于国家权力消亡 — 国家职能从直接微观干预转向战略目标制定、平台编排与过程监督。
 
 ---
 
@@ -78,7 +78,7 @@ updated: 2026-11-21
 > - **网络国家的兴起** 国家重塑为由跨国、国家、地方及非政府政治实体构成的复杂权力共享网络，在维系宏观合法性的同时吸纳多元主体协同共治。[[Argument_Beech_2015_GSE|(Beech & Artopoulos, 2015)]]
 > - **公私边界的模糊化** 国家、市场与公民社会之间的传统法权边界逐渐消解，私营企业、跨国基金会与中介平台深度介入公共教育的议程设置与服务供给。[[Argument_Beech_2015_GSE|(Beech & Artopoulos, 2015)]]
 > - **多元行动者的横向互动** 参与政策空间的行动者呈现异质性与跨界性，权力部署绕开单一国家法案，通过多标度网络实现去中心化渗透。
-> - **新旧治理形式的并存互嵌** 传统的科层制与法定行政指令并未彻底消失，而是与新型弹性协调平台、自愿承诺机制并存互嵌，形成复合治理结构。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 509–511)]]
+> - **新旧治理形式的并存互嵌** 传统的科层制与法定行政指令持续发挥基础规范功能，同时与新型弹性协调平台、自愿承诺机制深度互嵌，形成复合治理结构。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 509–511)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -95,18 +95,18 @@ updated: 2026-11-21
 > [!concept-proposition] 命题一｜多层跨界治理挑战推动国家从直接科层干预转向平台化中介编排
 > **外部冲击与中介协调** 面对经济波动、技能结构错配以及失业压力等跨界复杂议题，传统的垂直行政管辖与单一科层命令难以调动基层创新活力，国家倾向于退居为政策编排者，搭建多主体协同平台。
 
-> [!claim] [[Argument_Beech_2015_GSE|Beech & Artopoulos (2015)]]
+> [!claim] [[Argument_Beech_2015_GSE|Beech and Artopoulos (2015)]]
 > **多元行动者网络对国家政策垄断的打破** 杰森·比奇（Jason Beech）与亚历杭德罗·阿托波洛斯（Alejandro Artopoulos）指出，全球教育空间中涌现出由国际机构、大学、企业与非政府组织构成的庞大网络，这些行动者的权力部署不再单纯依附于主权国家的立法通道，使教育政策制定脱离了单一国家的垂直控制。[[Argument_Beech_2015_GSE|(Beech & Artopoulos, 2015)]]
 
 > [!claim] [[Argument_Rohde-Liebenau_Graf_2024_EERJ|Rohde-Liebenau and Graf (2024)]]
-> **国家向中介联盟平台的战略转移** 茱迪丝·罗德-利贝瑙（Judith Rohde-Liebenau）与卢卡斯·格拉夫（Lukas Graf）指出，面对欧债危机后青年失业与学徒岗位供需赤字，欧洲联盟与德国联邦政府并未诉诸硬性立法干预，而是分别搭建起欧洲学徒制联盟与德国培训联盟；国家机关在此演化为中介平台的构建者，依托非约束性的自愿质押机制调动私营雇主与社会伙伴，生动展现了从行政统治向多层治理的演进逻辑。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 509–512)]]
+> **国家向中介联盟平台的战略转移** 茱迪丝·罗德-利贝瑙（Judith Rohde-Liebenau）与卢卡斯·格拉夫（Lukas Graf）指出，面对欧债危机后青年失业与学徒岗位供需赤字，欧洲联盟与德国联邦政府分别搭建起欧洲学徒制联盟与德国培训联盟；国家机关转型为中介平台的构建者与引导者，依托非约束性的自愿质押机制充分调动私营雇主与社会伙伴，生动展现了从行政统治向多层治理的演进逻辑。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 509–512)]]
 
 ---
 
 > [!concept-proposition] 命题二｜治理范式转型伴随着权力部署渠道的多标度分散与去政治化
 > **多标度扩散与去政治化修辞** 治理机制的扩散使权力隐蔽在技术性指南、最佳实践与自愿协议之中，在回避立法争议的同时重塑教育治理空间。
 
-> [!claim] [[Argument_Beech_2015_GSE|Beech & Artopoulos (2015)]]
+> [!claim] [[Argument_Beech_2015_GSE|Beech and Artopoulos (2015)]]
 > **去中心化权力网络与政策借用视域的重塑** 比奇与阿托波洛斯强调，在从统治转向治理后，部分权力机制直接与国家政策相关，部分松散相关，更有部分完全绕过国家政策。因此，传统的政策借用视角若仅聚焦于国家层面的法案转移，将遗漏跨国网络中绝大多数非国家行动者的实质性规训实践。[[Argument_Beech_2015_GSE|(Beech & Artopoulos, 2015)]]
 
 ---
@@ -115,14 +115,14 @@ updated: 2026-11-21
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **外部冲击与中介协调** | 跨界危机驱动国家从垂直命令转向平台化中介编排与公私协同 | 欧洲学徒制政策、危机治理响应 | [[Argument_Rohde-Liebenau_Graf_2024_EERJ\|Rohde-Liebenau and Graf (2024)]] |
-> | **多标度扩散与去政治化** | 治理权力分散于非国家主体网络，以技术性协议实现去政治化渗透 | 全球教育政策流动、跨国网络分析 | [[Argument_Beech_2015_GSE\|Beech & Artopoulos (2015)]] |
+> | **多标度扩散与去政治化** | 治理权力分散于非国家主体网络，以技术性协议实现去政治化渗透 | 全球教育政策流动、跨国网络分析 | [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]] |
 
 ---
 
 > [!dev-timeline] 概念演变
-> - **1990 年代 — 政治学与公共管理理论奠基** 罗茨（R. A. W. Rhodes）等学者系统阐述从科层统治转向网络治理的范式变迁，强调国家在权力分散网络中的空心化与再协调。
+> - **1990 年代 — 政治学与公共管理理论发端** 罗茨（R. A. W. Rhodes）等学者系统阐述从科层统治转向网络治理的范式变迁，强调国家在权力分散网络中的空心化与再协调。
 > - **2000 年代初 — 网络国家与教育政策引入** 卡斯特（Manuel Castells）与戴尔（Roger Dale）将网络国家概念引入全球教育政策与空间研究，剖析国家与非国家主体间的权力分工。
-> - **2015 年 — 全球教育政策流动研究深化** [[Argument_Beech_2015_GSE|Beech & Artopoulos (2015)]] 揭示跨国行动者网络如何绕开国家法令部署教育权力，重构政策空间。
+> - **2015 年 — 全球教育政策流动研究深化** [[Argument_Beech_2015_GSE|Beech and Artopoulos (2015)]] 揭示跨国行动者网络如何绕开国家法令部署教育权力，重构政策空间。
 > - **2024 年 — 比较职业教育与实验主义联盟** [[Argument_Rohde-Liebenau_Graf_2024_EERJ|Rohde-Liebenau and Graf (2024)]] 剖析欧洲与德大学徒制联盟，实证展现国家如何依托平台自愿承诺实现治理机制的重构。
 
 ---
@@ -130,7 +130,7 @@ updated: 2026-11-21
 > [!debates|notitle] 学术争议
 >
 > > [!axis] 国家能力的空心化 vs 国家控制的隐秘强化
-> > 治理空心化论者认为，向多元治理的转变削弱了民主国家的公共问责与主权掌控，使公共政策受制于资本与跨国精英；而国家回归论者指出，国家并未失去控制，而是通过制定元规制框架与掌握财政杠杆，实现了更为灵巧隐蔽的元治理（Metagovernance）。
+> > 治理空心化论者认为，向多元治理的转变削弱了民主国家的公共问责与主权掌控，使公共政策受制于资本与跨国精英；国家回归论者则强调，国家通过制定元规制框架与调配公共财政资源，实现了更为灵巧隐蔽的元治理（Metagovernance），持续主导整体制度演化方向。
 > >
 > > - **空心化批判学者** 担忧公共责任下移导致民主问责脱节与商业利益侵蚀。
 > > - **元治理理论学者** 强调国家通过平台编排与游戏规则设定维持了根本主导权。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 509–511)]]
@@ -155,5 +155,5 @@ updated: 2026-11-21
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Beech_2015_GSE|Beech & Artopoulos (2015)]] — 追踪多元行动者网络如何绕开国家正式政策部署权力，反思政策借用视角的局限。
+> - [[Argument_Beech_2015_GSE|Beech and Artopoulos (2015)]] — 追踪多元行动者网络如何绕开国家正式政策部署权力，反思政策借用视角的局限。
 > - [[Argument_Rohde-Liebenau_Graf_2024_EERJ|Rohde-Liebenau and Graf (2024)]] — 结合欧洲与德国学徒制联盟，实证展现国家如何从科层干预演变为多利益相关方联盟的编排者。
