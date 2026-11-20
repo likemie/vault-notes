@@ -96,19 +96,9 @@
               "icon": "lucide-file",
               "title": "Argument_Xie_2017_PKUER"
             }
-          },
-          {
-            "id": "a819205125ac27fb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -325,12 +315,19 @@
       "ai-usage-float:显示或隐藏额度浮窗": false
     }
   },
-  "active": "a819205125ac27fb",
+  "active": "92726dce4704cd87",
   "lastOpenFiles": [
+    "sources/VonDerHeyden_Heinze_2025_PLOSONE/VonDerHeyden_Heinze_2025_PLOSONE.md",
+    "sources/VonDerHeyden_Heinze_2025_PLOSONE/figures",
+    "sources/VonDerHeyden_Heinze_2025_PLOSONE/VonDerHeyden_Heinze_2025_PLOSONE.pdf",
+    "sources/VonDerHeyden_Heinze_2025_PLOSONE",
+    "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md",
+    "wiki/arguments/journal-articles/PLOS ONE",
+    "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/Floating_Title_Search_开发方案.md",
+    "wiki/concepts/science-policy/Scientific Hegemony.md",
     "sources/VonDerHeyden_Heinze_2025_PLOSONE.md",
     "sources/VonDerHeyden_Heinze_2025_PLOSONE.pdf",
     "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md",
-    "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/Floating_Title_Search_开发方案.md",
     "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md",
     "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/Floating_Knowledge_Switcher_V1.3_开发方案.md",
     "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md",
@@ -354,15 +351,8 @@
     "wiki/theories/comparative-education/Ideological Model of Literacy.md",
     "wiki/facts/us/European Education.md",
     "wiki/concepts/comparative-education/Extreme Historicism.md",
-    "wiki/methods/qualitative/Thematic Multiple Case-Study Comparison.md",
-    "wiki/facts/europe/Council of Europe.md",
-    "wiki/persons/netherlands/Philip J. Idenburg.md",
     "output/pdf_text.txt",
     "output/related-updates/Argument_Luo_2026_IFDCK-4c5903bd/batch-006/result.json",
-    "output/related-updates/Argument_Luo_2026_IFDCK-4c5903bd/batch-005/result.json",
-    "output/related-updates/Argument_Luo_2026_IFDCK-4c5903bd/batch-004/result.json",
-    "output/related-updates/Argument_Luo_2026_IFDCK-4c5903bd/batch-003/result.json",
-    "output/related-updates/Argument_Luo_2026_IFDCK-4c5903bd/batch-002/result.json",
     "sources/Luo_2026_IFDCK/figures/Luo_2026_IFDCK_Fig3_Dual_Nature_Conceptual_Model.jpg",
     "sources/Luo_2026_IFDCK/figures/Luo_2026_IFDCK_Fig2_Funding_Strategy_Architecture.jpg",
     "sources/Luo_2026_IFDCK/figures/Luo_2026_IFDCK_Fig1_Policy_Shift_Milestones.jpg",

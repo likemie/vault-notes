@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-12
-updated: 2026-11-17
+updated: 2026-11-20
 ---
 
 ---
@@ -186,6 +186,7 @@ updated: 2026-11-17
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Teng_2025_CE\|Teng and Wang (2025)]] — 建立三个二元 Logistic 回归模型分析家庭资本（经济、文化、社会资本）对是否[[Peidu\|陪读]]、进城陪读以及进入重点小学的预测显著度与优势比 (p.310)。
+> - [[Argument_VonDerHeyden_Heinze_2025_PLOSONE\|von der Heyden and Heinze (2025)]] — 运用二元 Logistic 回归模型与平均边际效应（AME），检验被提名人与提名人所属国对诺贝尔奖成功获奖的预测概率，揭示霸权国候选人胜出优势与提名人安置力偏低特征。
 
 ---
 

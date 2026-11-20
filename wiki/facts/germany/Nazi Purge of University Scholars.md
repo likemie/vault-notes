@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-11-11
+updated: 2026-11-20
 ---
 
 ---
@@ -98,3 +98,4 @@ updated: 2026-11-11
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang and Barabási (2021)]] — 第 9 章第 9.2 节将纳粹德国解聘事件确立为验证无形学院客观实在性三大准自然实验之一。
+> - [[Argument_VonDerHeyden_Heinze_2025_PLOSONE|von der Heyden and Heinze (2025)]] — 将 1933 年纳粹清洗确立为全球科学霸权转移的关键分水岭，实证展示此后德国在诺贝尔奖提名网络中的份额发生断崖式下跌。
