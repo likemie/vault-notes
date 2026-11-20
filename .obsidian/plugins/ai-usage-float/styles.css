@@ -1,0 +1,363 @@
+.auf-float,
+.auf-modal {
+  --auf-ink: var(--text-normal);
+  --auf-muted: var(--text-muted);
+  --auf-line: var(--background-modifier-border);
+  --auf-surface: var(--background-primary);
+  --auf-ground: var(--background-secondary);
+  --auf-meter: #1d5fbf;
+  --auf-status: var(--text-warning);
+  color: var(--auf-ink);
+  font-variant-numeric: tabular-nums;
+}
+.theme-dark .auf-float,
+.theme-dark .auf-modal {
+  --auf-meter: #8bbaff;
+}
+.auf-float *,
+.auf-modal * {
+  box-sizing: border-box;
+}
+.auf-float h3,
+.auf-float h4,
+.auf-float p,
+.auf-modal h3,
+.auf-modal h4,
+.auf-modal p {
+  margin: 0;
+  color: inherit;
+}
+.auf-float [hidden],
+.auf-modal [hidden] {
+  display: none !important;
+}
+.auf-float {
+  position: fixed;
+  z-index: var(--layer-popover, 30);
+  display: flex;
+  flex-direction: column;
+  width: min(310px, calc(100vw - 20px));
+  max-height: min(560px, calc(100vh - 20px));
+  border: 1px solid var(--auf-line);
+  border-radius: 8px;
+  overflow: hidden;
+  background: var(--auf-surface);
+  box-shadow: var(--shadow-s);
+  font: 13px/1.45 var(--font-interface);
+}
+.auf-float.is-collapsed {
+  width: min(177px, calc(100vw - 20px));
+}
+.auf-float-head {
+  display: flex;
+  align-items: center;
+  padding: 4px 7px 4px 12px;
+  gap: 6px;
+  min-height: 38px;
+  border-bottom: 1px solid var(--auf-line);
+}
+.is-collapsed .auf-float-head {
+  border-bottom: 0;
+}
+.auf-handle {
+  display: flex;
+  align-items: center;
+  flex: 1;
+  align-self: stretch;
+  font-weight: 600;
+  cursor: grab;
+  touch-action: none;
+  user-select: none;
+}
+.auf-handle:active {
+  cursor: grabbing;
+}
+.auf-float-body {
+  overflow: auto;
+  overscroll-behavior: contain;
+  padding: 3px 12px;
+}
+.auf-float-foot {
+  color: var(--auf-muted);
+  border-top: 1px solid var(--auf-line);
+  padding: 6px 12px;
+  font-size: 12px;
+  white-space: nowrap;
+}
+.auf-head-buttons {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}
+.auf-float button.auf-icon-button,
+.auf-float button.auf-button,
+.auf-modal button.auf-button {
+  appearance: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  background: var(--auf-surface);
+  box-shadow: none;
+  color: var(--auf-ink);
+  border: 1px solid var(--auf-line);
+  border-radius: 6px;
+  height: 32px;
+  padding: 0 9px;
+  font: 500 13px/1.3 var(--font-interface);
+  white-space: nowrap;
+  cursor: pointer;
+}
+.auf-float button.auf-icon-button {
+  border-color: transparent;
+  width: 25px;
+  height: 27px;
+  padding: 0;
+}
+.auf-float button.auf-quiet,
+.auf-modal button.auf-quiet {
+  background: transparent;
+  border-color: transparent;
+}
+.auf-float button.auf-button:disabled,
+.auf-float button.auf-icon-button:disabled,
+.auf-modal button.auf-button:disabled {
+  opacity: .55;
+  cursor: default;
+}
+.auf-float button:not(:disabled):hover,
+.auf-modal button.auf-button:not(:disabled):hover {
+  background: var(--background-modifier-hover);
+}
+.auf-modal button.auf-primary {
+  background: var(--auf-ink);
+  color: var(--auf-surface);
+}
+.auf-modal button.auf-primary:not(:disabled):hover {
+  background: var(--auf-muted);
+}
+.auf-icon {
+  display: flex;
+}
+.auf-icon svg {
+  width: 15px;
+  height: 15px;
+}
+.auf-float-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 39px;
+  gap: 7px;
+  cursor: pointer;
+  padding: 4px 0;
+}
+.auf-float-row::marker {
+  content: "";
+}
+.auf-float-row::-webkit-details-marker {
+  display: none;
+}
+.auf-float-row:hover {
+  background: var(--background-modifier-hover);
+}
+.auf-float-account + .auf-float-account,
+.auf-float-service + .auf-float-service {
+  border-top: 1px solid var(--auf-line);
+}
+.auf-float-row .auf-track {
+  width: 42px;
+  flex: 0 0 42px;
+  margin: 0 0 0 auto;
+}
+.auf-float-row .auf-num {
+  min-width: 34px;
+  text-align: right;
+}
+.auf-float-label {
+  min-width: 0;
+}
+.auf-float-label small {
+  display: block;
+  overflow-wrap: anywhere;
+}
+.auf-float-group {
+  font-weight: 600;
+  padding: 6px 0 2px;
+}
+.auf-float-account[open] > .auf-account {
+  padding: 5px 0 8px;
+  border-top: 1px solid var(--auf-line);
+}
+.auf-float-account .auf-quota-grid {
+  grid-template-columns: minmax(0, 1fr);
+  gap: 7px;
+}
+.auf-modal {
+  width: min(920px, calc(100vw - 36px));
+  max-width: unset;
+  padding: 20px 22px;
+  background: var(--auf-ground);
+}
+.auf-modal .modal-title {
+  margin: 0;
+  font-size: 24px;
+  font-weight: 600;
+  color: var(--auf-ink);
+}
+.auf-dashboard {
+  font: 14px/1.45 var(--font-interface);
+}
+.auf-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin: 8px 0 12px;
+}
+.auf-dashboard-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.9fr) minmax(0, 1fr);
+  gap: 12px;
+  align-items: start;
+}
+.auf-right {
+  display: grid;
+  gap: 12px;
+  min-width: 0;
+}
+.auf-card {
+  border: 1px solid var(--auf-line);
+  border-radius: 8px;
+  background: var(--auf-surface);
+  min-width: 0;
+}
+.auf-card-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 8px;
+  padding: 10px 13px;
+  border-bottom: 1px solid var(--auf-line);
+}
+.auf-card-head h3 {
+  font-size: 15px;
+  font-weight: 600;
+}
+.auf-service {
+  padding: 9px 13px;
+}
+.auf-service + .auf-service {
+  border-top: 1px solid var(--auf-line);
+}
+.auf-service-head,
+.auf-account-head,
+.auf-account-label {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: 8px;
+}
+.auf-service-head h4 {
+  font-size: 14px;
+  font-weight: 600;
+}
+.auf-account + .auf-account {
+  border-top: 1px solid var(--auf-line);
+  margin-top: 8px;
+  padding-top: 6px;
+}
+.auf-account-head {
+  margin-bottom: 4px;
+  justify-content: space-between;
+  align-items: center;
+}
+.auf-account-note {
+  padding-bottom: 4px;
+}
+.auf-quota-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  column-gap: 13px;
+  row-gap: 9px;
+}
+.auf-quota-line {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 5px;
+  font-size: 13px;
+}
+.auf-quota-line span {
+  overflow-wrap: anywhere;
+}
+.auf-num {
+  font-variant-numeric: tabular-nums;
+  font-weight: 600;
+  white-space: nowrap;
+}
+.auf-track {
+  height: 4px;
+  background: var(--background-modifier-hover);
+  border-radius: 2px;
+  overflow: hidden;
+  margin: 4px 0 3px;
+}
+.auf-track span {
+  display: block;
+  height: 100%;
+  background: var(--auf-meter);
+}
+.auf-track-old span {
+  background: var(--auf-muted);
+}
+.auf-muted,
+.auf-status {
+  color: var(--auf-muted);
+  font-size: 12px;
+}
+.auf-status {
+  color: var(--auf-status, var(--auf-muted));
+  font-weight: 500;
+  white-space: nowrap;
+}
+.auf-readout,
+.auf-empty {
+  padding: 9px 13px 12px;
+}
+.auf-readout .auf-track {
+  margin-top: 8px;
+}
+.auf-priority-value {
+  font-size: 31px;
+  line-height: 1.18;
+  font-weight: 500;
+}
+.auf-context {
+  margin: 4px 0 2px;
+  overflow-wrap: anywhere;
+}
+.auf-resets {
+  list-style: none;
+  margin: 0;
+  padding: 0 13px;
+}
+.auf-resets li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 8px 0;
+}
+.auf-resets li + li {
+  border-top: 1px solid var(--auf-line);
+}
+@media (max-width: 680px) {
+  .auf-modal {
+    width: calc(100vw - 20px);
+    padding: 16px;
+  }
+  .auf-dashboard-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}

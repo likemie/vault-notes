@@ -32,6 +32,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Geopolitics]]"
   - "[[Unit of Analysis]]"
+  - "[[Area Studies]]"
   - "[[International Education]]"
   - "[[Variable]]"
   - "[[Scientism]]"
@@ -43,12 +44,11 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Politics of Knowledge]]"
   - "[[Neoliberalism]]"
-  - "[[Open-Mindedness]]"
-  - "[[Cumulative Innovation]]"
 related_theories:
   - "[[Modernization Theory]]"
   - "[[Cultural Political Economy]]"
 related_methods:
+  - "[[Thematic Multiple Case-Study Comparison]]"
   - "[[Analytic Framework]]"
   - "[[Historical-Comparative Method]]"
   - "[[Questionnaire]]"
@@ -56,26 +56,31 @@ related_methods:
   - "[[Problem Approach]]"
 related_instruments: []
 related_persons:
+  - "[[Ursula Springer]]"
   - "[[Harold Noah]]"
   - "[[Robert Ulich]]"
   - "[[George Bereday]]"
   - "[[Brian Holmes]]"
   - "[[Torsten Husén]]"
+  - "[[Philip J. Idenburg]]"
   - "[[Saul B. Robinsohn]]"
   - "[[William W. Brickman]]"
+  - "[[Susanne Shafer]]"
   - "[[Iveta Silova]]"
 related_facts:
   - "[[National Defense Education Act of 1958]]"
   - "[[United States Congress]]"
+  - "[[M.E. Sharpe]]"
   - "[[Sputnik Shock 1957]]"
   - "[[Comparative and International Education Society]]"
-  - "[[Education in Europe]]"
   - "[[IEA]]"
+  - "[[Recent Curriculum Developments in France, West Germany and Italy 1969]]"
   - "[[Grammar School]]"
   - "[[Max Planck Institute for Human Development]]"
   - "[[International Institute for Educational Planning]]"
   - "[[Leibniz Institute for Educational Research and Educational Information]]"
   - "[[EU]]"
+  - "[[Council of Europe]]"
   - "[[PISA]]"
   - "[[TIMSS]]"
 related_arguments: []
@@ -91,7 +96,7 @@ title: "Argument_Silova_2009_EE"
 argument_key: "Argument_Silova_2009_EE"
 argument_display_title: "The changing frontiers of comparative education: A forty-year retrospective on European Education"
 argument_kind: "journal-article"
-argument_related_count: 54
+argument_related_count: 59
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -108,7 +113,7 @@ issuing_organization: ""
 > 比较教育学在战后冷战博弈与实证科学化浪潮中面临怎样的地缘重构与方法论分野？学术期刊《欧洲教育》（*European Education*）创刊四十年来的演进轨迹揭示了何种跨越学科极化对立、拓展跨国研究前沿的替代性[[Epistemology|认识论]]路径？
 
 > [!claim] 核心主张
-> 《欧洲教育》的创立与演进是对冷战时期比较教育学科[[Development Turn in Comparative Education|发展转向]]与方法论两极撕裂的自觉修正。该刊确立了以主题化多案例比较整合微观历史文脉与跨国横向分析的第三条认识论路径，通过系统译介非英语欧洲[[Primary and Secondary Documents|原始文献]]打破了美国学界的语言壁垒，并在后冷战与全球化进程中持续拓展了比较教育学的地理版图与理论前沿。
+> 《欧洲教育》的创立与演进是对冷战时期比较教育学科[[Development Turn in Comparative Education|发展转向]]与方法论两极撕裂的自觉修正。该刊确立了以[[Thematic Multiple Case-Study Comparison|主题化多案例比较]]整合微观历史文脉与跨国横向分析的第三条认识论路径，通过系统译介非英语欧洲[[Primary and Secondary Documents|原始文献]]打破了美国学界的语言壁垒，并在后冷战与全球化进程中持续拓展了比较教育学的地理版图与理论前沿。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 《欧洲教育》（原《西欧教育》，*Western European Education*）1969 至 2009 年四十年的出版轨迹、历任主编制度实践、编委会学术构想及其卷入的战后美国比较教育大论战。
@@ -135,7 +140,7 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **学科史文献分析**<br>[[Historical-Comparative Method]] | 梳理 1950 年代至 2000 年代《欧洲教育》创刊号与代表性专辑、学术著作、学会档案与核心期刊量化出版数据。 |
-> | **个人通信与口述史料**<br>Oral History and Personal Communication | 采集创刊主编施普林格（[[Ursula Springer|Ursula Springer]]）、历任主编及前主编诺亚（[[Harold Noah]]）等核心亲历者的口述回忆与学术通信。 |
+> | **个人通信与口述史料**<br>Oral History and Personal Communication | 采集创刊主编施普林格（[[Ursula Springer\|Ursula Springer]]）、历任主编及前主编诺亚（[[Harold Noah]]）等核心亲历者的口述回忆与学术通信。 |
 > | **方法论谱系考证**<br>Historiographical Analysis | 系统考证比较教育学在历史主义（Kandel, Ulich）与实证科学化（Noah & Eckstein）之间的论争脉络。 |
 
 > [!sample-panel]- 样本与材料快照
@@ -165,7 +170,7 @@ issuing_organization: ""
 > [!claim|step] 论证步骤一　冷战防务拨款转向第三世界，导致西欧教育研究陷入经费断层
 > 冷战防务需求推动美国联邦经费涌向苏联与第三世界，比较教育学出现[[Development Turn in Comparative Education|发展转向]]，使长期作为学科根基的西欧研究几乎丧失全部官方资助。
 
-> [!sub-claim] 1. 《[[National Defense Education Act of 1958|国防教育法案]]》将科研绑定国家安全，全力资助苏联与战略区域研究
+> [!sub-claim] 1. 《[[National Defense Education Act of 1958|国防教育法案]]》将科研绑定国家安全，全力资助苏联与战略[[Area Studies|区域研究]]
 
 > [!event-context] 卫星危机与《国防教育法案》的防务科研绑定
 > - **历史触发** 1957 年苏联成功发射人造地球卫星引发美国朝野震动。
@@ -202,7 +207,7 @@ issuing_organization: ""
 > [!citation-card] 施泰纳-哈姆西论西欧研究的资金断层
 > 在语言与区域研究大行其道之前，美国比较与国际教育研究几乎全盘以欧洲为中心，极少数例外仅限于在发展中国家开展的应用型援助项目。但这一格局在 1960 年代发生了彻底逆转：除了苏联教育，当时几乎没有任何联邦经费支持欧洲本土教育研究；绝大部分资助以及随之而来的学术注意力，全都流向了第三世界的教育发展。(Steiner-Khamsi, 2006, p. 30)
 >
-> *"Before the heyday of language and area studies, U.S. comparative and international education research was exclusively Eurocentric, with a few exceptions in the form of 'applied research' (projects) in developing countries. The proportion changed radically in the 1960s: With the exception of Soviet education, there was virtually no funding made available to study [[Education in Europe|education in Europe]]. Most funding, and consequently the research focus, was directed toward education development in the Third World."*
+> *"Before the heyday of language and area studies, U.S. comparative and international education research was exclusively Eurocentric, with a few exceptions in the form of 'applied research' (projects) in developing countries. The proportion changed radically in the 1960s: With the exception of Soviet education, there was virtually no funding made available to study education in Europe. Most funding, and consequently the research focus, was directed toward education development in the Third World."*
 
 ---
 
@@ -231,7 +236,7 @@ issuing_organization: ""
 > [!case] 施普林格与贝雷迪的主题化多案例比较范式探索
 > - **学术旨趣与跨学科主张** 针对历史主义与量化[[Scientism|科学主义]]的两极对立，[[George Bereday|乔治·贝雷迪]]主张比较教育学应综合人文科学与社会科学的多重视角，形成独特的地理与跨国视野（Bereday, 1964, p. x）。
 > - **跨国实证课题经验积淀** 施普林格（[[Ursula Springer]]）早年求学于柏林大学、博洛尼亚大学与慕尼黑大学，1954 年在哥伦比亚大学师从贝雷迪完成比较教育学博士学位；长期主持受联邦政府与福特基金会资助的战后欧洲中等教育课程改革跨国重大课题，出版专著《[[Recent Curriculum Developments in France, West Germany and Italy 1969|法国、西德与意大利的近期课程发展]]》（Springer, 1969）。
-> - **创刊号方法论范式确立** 施普林格将课题经验直接转化为办刊范式，1969 年《西欧教育》创刊号被明确设计为**主题化多案例比较设计（thematic multiple case-study comparison）** 的典范之作（Springer, 1969a）：全期聚焦战后西欧中等教育课程重构，汇集瑞典、西德、英国、法国与意大利五国案例，并由主编撰写宏观综合导言以提炼共同模式。
+> - **创刊号方法论范式确立** 施普林格将课题经验直接转化为办刊范式，1969 年《西欧教育》创刊号被明确设计为 **主题化多案例比较设计（thematic multiple case-study comparison）** 的典范之作（Springer, 1969a）：全期聚焦战后西欧中等教育课程重构，汇集瑞典、西德、英国、法国与意大利五国案例，并由主编撰写宏观综合导言以提炼共同模式。
 
 > [!row-contrast] 1969 年创刊号五国中等教育课程改革多案例比较架构
 > | 案例国家 | 战后社会背景与改革目标 | 办学体制结构调整 | 追踪分流与选拔机制 | 横向比较综合发现 |
@@ -268,7 +273,7 @@ issuing_organization: ""
 > | **兰伯托·博尔吉**<br>（Lamberto Borghi） | 佛罗伦萨大学（意大利） | 意大利著名教育哲学家、反法西斯[[Progressive Education\|进步主义教育]]先驱。 | 联结南欧[[Critical Pedagogy\|批判教育学]]网络，推介意大利战后义务教育改革与草根经验。 |
 > | **布赖恩·霍姆斯**<br>（[[Brian Holmes]]） | 伦敦大学教育学院（英国） | 比较教育学讲席教授，假说演绎[[Problem Approach\|问题法]]开创者。 | 强化欧洲批判理性主义视角，倡导结合政策问题开展多国体制对质。 |
 > | **托斯滕·胡森**<br>（[[Torsten Husén]]） | 斯德哥尔摩大学（瑞典） | 国际教育评价权威，IEA 首任理事会主席，瑞典综合学校架构师。 | 引入北欧民主化综合教育改革蓝图，兼顾跨国量化数据与政策文脉考量。 |
-> | **[[Philip J. Idenburg|菲利普·J·伊登堡]]**<br>（Philip J. Idenburg） | 阿姆斯特丹大学（荷兰） | 著名统计学家、教育社会学家，荷兰中央统计局前局长。 | 倡导打破国家自足封闭倾向，确立期刊作为通向世界知识门户的跨国地位。 |
+> | **[[Philip J. Idenburg\|菲利普·J·伊登堡]]**<br>（Philip J. Idenburg） | 阿姆斯特丹大学（荷兰） | 著名统计学家、教育社会学家，荷兰中央统计局前局长。 | 倡导打破国家自足封闭倾向，确立期刊作为通向世界知识门户的跨国地位。 |
 > | **约瑟夫·马约**<br>（Joseph Majault） | 国家教育研究院（Institut Pédagogique National, IPN，法国） | 法国中央教育科研管理中枢核心负责人、课程改革专家。 | 打通法国国家教育改革官方白皮书与一手课程法令的系统英译通道。 |
 > | **R. L. 普朗克**<br>（R. L. Plancke） | 根特大学（比利时） | 著名教育史学家，欧洲教育史文献学权威学者。 | 强化低地国家及双语地区的史料整理规范，守护一手档案文献学传统。 |
 > | **索尔·B·罗宾逊**<br>（Saul B. Robinsohn） | [[Max Planck Institute for Human Development\|马克斯·普朗克人类发展研究所]]（西德） | 柏林马普所教育研究中心主任，[[International Institute for Educational Planning\|联合国教科文组织国际教育规划研究所]]（International Institute for Educational Planning, IIEP）前所长。 | 组织西德课程改革与教学法实验成果跨国传播，搭建英德双向学术网络。 |
@@ -317,7 +322,7 @@ issuing_organization: ""
 > 1. **冷战拨款导致西欧研究陷入断层** 联邦 NDEA 立法与防务需求催生了比较教育的发展转向，科研经费全面倒向苏联与第三世界，迫使学者自发创立专业期刊重拾西欧教育现实。
 > 2. **主题化多案例比较开辟第三条道路** 围绕共同改革主题汇集多国个案并由主编撰写宏观综合导言的办刊设计，化解了单一国别历史考据与抽象量化实证的二元对立。
 > 3. **一手史料英译打破单语自负** 期刊系统英译欧洲多语种一手档案与政策文献，既打破了英美学界的单语自满，也帮助非英语欧洲学者的本土思考走向国际学术舞台。
-> 4. **前沿演进兼顾制度文脉与理论创新** 四十年来期刊在坚守历史制度文脉的同时，向后社会主义转型、政策借用与批判地缘理论全面拓展，保持了比较研究的[[Open-Mindedness|开放性]]与生命力。
+> 4. **前沿演进兼顾制度文脉与理论创新** 四十年来期刊在坚守历史制度文脉的同时，向后社会主义转型、政策借用与批判地缘理论全面拓展，保持了比较研究的开放性与生命力。
 
 > [!stat-cards]- 核心数据
 > - **50%** 1956 年美国比较教育学会年会全部汇报中聚焦苏联教育的主题占比。
@@ -329,7 +334,7 @@ issuing_organization: ""
 ---
 
 > [!warning] 自述局限
-> 这一回顾聚焦于《欧洲教育》四十年办刊历程、主编群体学术旨趣与编委会制度化实践，未对期刊四十年间刊载的数百项实证成果展开细粒度的量化引文网络与主题图谱统计；[[Cumulative Innovation|后续研究]]可针对欧洲大学治理演进或后社会主义转型等议题开展历时性文献计量考证。
+> 这一回顾聚焦于《欧洲教育》四十年办刊历程、主编群体学术旨趣与编委会制度化实践，未对期刊四十年间刊载的数百项实证成果展开细粒度的量化引文网络与主题图谱统计；后续研究可针对欧洲大学治理演进或后社会主义转型等议题开展历时性文献计量考证。
 
 ---
 

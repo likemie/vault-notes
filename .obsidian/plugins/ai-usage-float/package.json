@@ -1,0 +1,12 @@
+{
+  "name": "ai-usage-float",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "esbuild src/main.js --bundle --platform=node --target=es2020 --external:obsidian --format=cjs --outfile=main.js",
+    "check": "node --check src/main.js && node --check src/view.js && node --check src/model.js && node --check src/collectors.js"
+  },
+  "devDependencies": {
+    "esbuild": "0.27.3"
+  }
+}

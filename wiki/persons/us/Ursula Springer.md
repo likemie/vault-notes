@@ -9,10 +9,10 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 0
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 21
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1922"
 died: "2014"
 lifespan: "1922–2014"
@@ -21,13 +21,34 @@ tags:
   - curriculum-reform
   - academic-publishing
   - region/us
-related_concepts: []
+related_concepts:
+  - "[[Normal School]]"
+  - "[[Primary and Secondary Documents]]"
+  - "[[Paradigm]]"
+  - "[[International Education]]"
+  - "[[Champ]]"
+  - "[[Document]]"
+  - "[[Rich and Thick Description]]"
+  - "[[Area Studies]]"
+  - "[[Philosophical Aesthetics]]"
+  - "[[Disciplinary Institutionalization]]"
+  - "[[Transnational Education]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Thematic Multiple Case-Study Comparison]]"
+  - "[[Historical-Comparative Method]]"
+  - "[[Bereday's Comparative Method]]"
 related_instruments: []
-related_persons: []
-related_facts: []
-related_arguments: []
+related_persons:
+  - "[[George Bereday]]"
+  - "[[William W. Brickman]]"
+  - "[[Harold Noah]]"
+related_facts:
+  - "[[Recent Curriculum Developments in France, West Germany and Italy 1969]]"
+  - "[[Comparative and International Education Society]]"
+  - "[[M.E. Sharpe]]"
+related_arguments:
+  - "[[Argument_Silova_2009_EE]]"
 confidence: high
 status: draft
 created: 2026-11-20
@@ -37,14 +58,14 @@ updated: 2026-11-20
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美籍比较教育学者、出版家，曾任教于纽约市立大学布鲁克林学院与哥伦比亚大学师范学院，后接掌纽约施普林格出版公司（Springer Publishing Company）。
-> - **核心角色** 作为比较教育学会早期女性学者，在学科方法论两极分化的背景下，开创了主题化多案例跨国比较方法，通过创办专业学术期刊与主持欧洲重大中等教育课改项目，搭建了大西洋两岸课程研究与一手文献交流的建制桥梁。
-> - **代表贡献** 创办专业学术译刊《西欧教育》（后更名为《欧洲教育》）；主持战后欧洲中等教育课程改革跨国比较课题并出版专著《法国、西德与意大利的近期课程发展》（1969）；确立兼顾历史制度文脉与实践效用的同题多案例比较范式。
+> - **身份位置** 美籍比较教育学者、出版家，曾任教于纽约市立大学布鲁克林学院与哥伦比亚大学[[Normal School|师范学院]]，后接掌纽约施普林格出版公司（Springer Publishing Company）。
+> - **核心角色** 作为比较教育学会早期女性学者，在学科方法论两极分化的背景下，开创了主题化多案例跨国比较方法，通过创办专业学术期刊与主持欧洲重大中等教育课改项目，搭建了大西洋两岸课程研究与[[Primary and Secondary Documents|一手文献]]交流的建制桥梁。
+> - **代表贡献** 创办专业学术译刊《西欧教育》（后更名为《欧洲教育》）；主持战后欧洲中等教育课程改革跨国比较课题并出版专著《[[Recent Curriculum Developments in France, West Germany and Italy 1969|法国、西德与意大利的近期课程发展]]》（1969）；确立兼顾历史制度文脉与实践效用的同题多案例比较[[Paradigm|范式]]。
 
 > [!citation-card] 西洛娃论施普林格的学术建制贡献
-> 乌苏拉·施普林格在二战后开展了关于欧洲课程改革的重大国际研究项目，成果体现为师范学院出版社 1969 年出版的专著《法国、西德与意大利的近期课程发展》……她在职业生涯早期就是 CIES 社群的活跃成员，对该领域做出了重要贡献，包括通过课程开发以及与乔治·贝雷迪共同授课加强了师范学院的比较与国际教育项目，担任 CIES 理事会成员（1969–1971），更重要的是，于 1969 年在 M.E. 夏普出版社创办了《西欧教育》（现名《欧洲教育》）。[[Argument_Silova_2009_EE|(Silova, 2009, p. 29, Note 5)]]
+> 乌苏拉·施普林格在二战后开展了关于欧洲课程改革的重大国际研究项目，成果体现为师范学院出版社 1969 年出版的专著《法国、西德与意大利的近期课程发展》……她在职业生涯早期就是 [[Comparative and International Education Society|CIES]] 社群的活跃成员，对该领域做出了重要贡献，包括通过课程开发以及与[[George Bereday|乔治·贝雷迪]]共同授课加强了师范学院的比较与[[International Education|国际教育]]项目，担任 CIES 理事会成员（1969–1971），更重要的是，于 1969 年在 M.E. 夏普出版社创办了《西欧教育》（现名《欧洲教育》）。[[Argument_Silova_2009_EE|(Silova, 2009, p. 29, Note 5)]]
 >
-> *Ursula Springer conducted a major international research project on European curriculum reforms after World War II, which resulted in the publication Recent Curriculum developments in France, West Germany and Italy, published by Teachers College Press in 1969. She also had several publications in Comparative Education Review (CER). She has been an active member of the CIES community early in her career and has made important contributions to the field, including strengthening the comparative and international education program at Teachers College through curriculum development and coteaching with George Bereday, serving as CIES board member (1969–71), and, more importantly, establishing Western European Education in 1969 (currently called European Education) published by M.E. Sharpe.*
+> *Ursula Springer conducted a major international research project on European curriculum reforms after World War II, which resulted in the publication Recent Curriculum developments in France, West Germany and Italy, published by Teachers College Press in 1969. She also had several publications in Comparative Education Review (CER). She has been an active member of the CIES community early in her career and has made important contributions to the [[Champ|field]], including strengthening the comparative and international education program at Teachers College through curriculum development and coteaching with George Bereday, serving as CIES board member (1969–71), and, more importantly, establishing Western European Education in 1969 (currently called European Education) published by [[M.E. Sharpe]].*
 
 ---
 
@@ -52,7 +73,7 @@ updated: 2026-11-20
 > - **1950s** 先后在柏林大学、博洛尼亚大学与慕尼黑大学接受高等教育，后赴美进入哥伦比亚大学师范学院深造，师从[[George Bereday|乔治·贝雷迪]]（George Bereday）获比较教育学博士学位。[[Argument_Silova_2009_EE|(Silova, 2009, p. 24, Note 5)]]
 > - **1960s** 任教于纽约市立大学布鲁克林学院，并在哥伦比亚大学与贝雷迪合开比较与国际教育课程；主持受美国联邦政府与福特基金会资助的战后欧洲中等教育课程改革重大跨国实证课题。
 > - **1969** 结合跨国实证研究出版专著《法国、西德与意大利的近期课程发展》；同年创办学术期刊《西欧教育》并担任创刊主编；出任[[Comparative and International Education Society|比较与国际教育学会]]（CIES）理事会成员（1969–1971）。[[Argument_Silova_2009_EE|(Silova, 2009, pp. 24–25, Note 5)]]
-> - **1970–1976** 持续主持《西欧教育》编辑工作，确立同题多案例比较架构与一手文献系统英译规范，随后由[[William W. Brickman|威廉·W·布里克曼]]（William W. Brickman）接任主编。[[Argument_Silova_2009_EE|(Silova, 2009, p. 26)]]
+> - **1970–1976** 持续主持《西欧教育》编辑工作，确立同题多案例比较架构与一手[[Document|文献]]系统英译规范，随后由[[William W. Brickman|威廉·W·布里克曼]]（William W. Brickman）接任主编。[[Argument_Silova_2009_EE|(Silova, 2009, p. 26)]]
 > - **1970s–2000s** 接管并领导纽约施普林格出版公司，推动护理学、行为科学与教育学专业学术出版。[[Argument_Silova_2009_EE|(Silova, 2009, p. 31)]]
 
 ---
@@ -72,8 +93,8 @@ updated: 2026-11-20
 > >
 > > *broad understanding and pragmatic utility, rather than scientific elegance*
 
-> [!person-thesis] 主张二｜主题化多案例比较设计是兼顾情境与横向综合的分析工具
-> 单一国家的历史纵深描述难以直接进行跨国推论，而大规模脱离文脉的跨国量化调查又容易剥离具体社会的文化土壤与制度博弈。施普林格确立了主题化多案例比较设计：在同一出版单元或研究框架内，紧密围绕某一具有共同性的教育改革主题（如二战后初中教育普及与分流机制改革），汇聚多个代表性国家的深入案例，并由研究者撰写宏观综合导言提炼横向共通规律与制度差异。[[Argument_Silova_2009_EE|(Silova, 2009, pp. 24–25)]]
+> [!person-thesis] 主张二｜[[Thematic Multiple Case-Study Comparison|主题化多案例比较]]设计是兼顾情境与横向综合的分析工具
+> 单一国家的历史纵[[Rich and Thick Description|深描]]述难以直接进行跨国推论，而大规模脱离文脉的跨国量化调查又容易剥离具体社会的文化土壤与制度博弈。施普林格确立了主题化多案例比较设计：在同一出版单元或研究框架内，紧密围绕某一具有共同性的教育改革主题（如二战后初中教育普及与分流机制改革），汇聚多个代表性国家的深入案例，并由研究者撰写宏观综合导言提炼横向共通规律与制度差异。[[Argument_Silova_2009_EE|(Silova, 2009, pp. 24–25)]]
 >
 > > [!thesis-quote] 施普林格论主题化多案例比较设计（2008）
 > > 我们发现围绕具体主题组稿效果要好得多，例如探讨各国的中等教育改革或初等教育发展……在同一期期刊里，我们不仅能呈现意大利南部农民的受教育状况，还能同步对比法国与德国农民的情况。作为主编，我负责撰写导言引出主题并展开比较分析，在更宏观的层面上提供提纲挈领的综合评述。这确实是丰富比较研究方法的一把利器。[[Argument_Silova_2009_EE|(Silova, 2009, p. 25)]]
@@ -83,8 +104,8 @@ updated: 2026-11-20
 ---
 
 > [!influence-path] 影响路径
-> - **方法路径** 确立了“共同政策主题 + 多国深度个案 + 跨国综合导言”的主题化多案例比较框架，为区域研究与制度比较提供了兼顾历史情境与横向综合的实用分析工具。
-> - **学术建制路径** 创办《西欧教育》，为冷战时期边缘化的西欧教育研究开辟了独立的学术阵地，并打破英美学界的单语障碍。
+> - **方法路径** 确立了“共同政策主题 + 多国深度个案 + 跨国综合导言”的主题化多案例比较框架，为[[Area Studies|区域研究]]与制度比较提供了兼顾历史情境与横向综合的实用分析工具。
+> - **学术建制路径** 创办《西欧教育》，为冷战时期边缘化的西欧教育研究开辟了独立的学术阵地，并打破英[[Philosophical Aesthetics|美学]]界的单语障碍。
 > - **课程研究路径** 将比较视野深度引入中学课程改革与分流体制研究，开创了大西洋两岸课程政策的比较考证传统。
 
 > [!evidence-grid-a] 相关研究索引
@@ -107,5 +128,6 @@ updated: 2026-11-20
 > | [[Disciplinary Institutionalization]] | 概念 | 创办专业学术期刊并服务 CIES 学会建制，抗衡防务拨款引发的学科地缘失衡。 |
 > | [[Historical-Comparative Method]] | 方法 | 将多国个案比较与一手历史制度文献解读相融合。 |
 > | [[Bereday's Comparative Method]] | 方法 | 继承并发展贝雷迪比较步骤，将其落实为主题化专辑编纂规程。 |
+> | [[Thematic Multiple Case-Study Comparison]] | 方法 | 确立围绕核心议题并置多国个案并由主编撰写宏观综合导论的方法论框架。 |
 > | [[Comparative and International Education Society]] | 事实 | 1969 至 1971 年担任学会理事会成员，积极参与学会早期治理。 |
-> | [[M.E. Sharpe]] | 事实 | 与该出版机构合作创办《西欧教育》，构建跨国教育译介发行网络。 |
+> | [[M.E. Sharpe]] | 事实 | 与该出版机构合作创办《西欧教育》，构建[[Transnational Education\|跨国教育]]译介发行网络。 |

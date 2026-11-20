@@ -1,0 +1,9 @@
+{
+  "id": "ai-usage-float",
+  "name": "AI Usage Float",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "View verified AI subscription quotas in a floating panel.",
+  "author": "MyNotes",
+  "isDesktopOnly": true
+}
