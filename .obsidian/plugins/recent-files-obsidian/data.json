@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Xie_2017_PKUER",
+      "path": "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md"
+    },
+    {
+      "basename": "Floating_Title_Search_开发方案",
+      "path": "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/Floating_Title_Search_开发方案.md"
+    },
+    {
+      "basename": "Argument_Dang_2017_ORE",
+      "path": "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
+    },
+    {
+      "basename": "Floating_Knowledge_Switcher_V1.3_开发方案",
+      "path": "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/Floating_Knowledge_Switcher_V1.3_开发方案.md"
+    },
+    {
       "basename": "Argument_Hammermeister_2002_Cambridge_Ch06",
       "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md"
     },
@@ -15,10 +31,6 @@
     {
       "basename": "Argument_Vavrus_2006_CICE",
       "path": "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md"
-    },
-    {
-      "basename": "Argument_Dang_2017_ORE",
-      "path": "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
     },
     {
       "basename": "Area Studies",
@@ -43,10 +55,6 @@
     {
       "basename": "Cluster Analysis",
       "path": "wiki/methods/quantitative/Cluster Analysis.md"
-    },
-    {
-      "basename": "Argument_Xie_2017_PKUER",
-      "path": "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md"
     },
     {
       "basename": "ireader-bundle-resolution-plan",
@@ -191,14 +199,6 @@
     {
       "basename": "UN Sustainable Development Goals",
       "path": "wiki/facts/global/UN Sustainable Development Goals.md"
-    },
-    {
-      "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch02",
-      "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md"
-    },
-    {
-      "basename": "Talcott Parsons",
-      "path": "wiki/persons/us/Talcott Parsons.md"
     }
   ],
   "omittedPaths": [],

@@ -96,9 +96,19 @@
               "icon": "lucide-file",
               "title": "Argument_Xie_2017_PKUER"
             }
+          },
+          {
+            "id": "a819205125ac27fb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -315,12 +325,18 @@
       "ai-usage-float:显示或隐藏额度浮窗": false
     }
   },
-  "active": "e2374d26ccaac553",
+  "active": "a819205125ac27fb",
   "lastOpenFiles": [
+    "sources/VonDerHeyden_Heinze_2025_PLOSONE.md",
+    "sources/VonDerHeyden_Heinze_2025_PLOSONE.pdf",
+    "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md",
+    "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/Floating_Title_Search_开发方案.md",
+    "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md",
+    "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/Floating_Knowledge_Switcher_V1.3_开发方案.md",
+    "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md",
     "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge.md",
     "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md",
     "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md",
-    "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md",
     "raw_extracted_text.txt",
     "sources/Hippach-Schneider_Rieder_2022_RCIE.md",
     "sources/Hippach-Schneider_Rieder_2022_RCIE.pdf",
@@ -341,18 +357,12 @@
     "wiki/methods/qualitative/Thematic Multiple Case-Study Comparison.md",
     "wiki/facts/europe/Council of Europe.md",
     "wiki/persons/netherlands/Philip J. Idenburg.md",
-    "wiki/facts/us/Recent Curriculum Developments in France, West Germany and Italy 1969.md",
-    "wiki/persons/us/Susanne Shafer.md",
     "output/pdf_text.txt",
     "output/related-updates/Argument_Luo_2026_IFDCK-4c5903bd/batch-006/result.json",
-    "wiki/facts/us/M.E. Sharpe.md",
-    "wiki/persons/us/Ursula Springer.md",
     "output/related-updates/Argument_Luo_2026_IFDCK-4c5903bd/batch-005/result.json",
     "output/related-updates/Argument_Luo_2026_IFDCK-4c5903bd/batch-004/result.json",
     "output/related-updates/Argument_Luo_2026_IFDCK-4c5903bd/batch-003/result.json",
     "output/related-updates/Argument_Luo_2026_IFDCK-4c5903bd/batch-002/result.json",
-    "wiki/concepts/comparative-education/Area Studies.md",
-    "output/related-updates/Argument_Luo_2026_IFDCK-4c5903bd/batch-001/result.json",
     "sources/Luo_2026_IFDCK/figures/Luo_2026_IFDCK_Fig3_Dual_Nature_Conceptual_Model.jpg",
     "sources/Luo_2026_IFDCK/figures/Luo_2026_IFDCK_Fig2_Funding_Strategy_Architecture.jpg",
     "sources/Luo_2026_IFDCK/figures/Luo_2026_IFDCK_Fig1_Policy_Shift_Milestones.jpg",
