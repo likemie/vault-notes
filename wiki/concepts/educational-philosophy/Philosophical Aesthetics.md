@@ -341,8 +341,3 @@ updated: 2026-11-20
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 系统梳理从鲍姆嘉通、康德、黑格尔到海德格尔与[[Argument_Hammermeister_2002_Cambridge_Ch10|阿多诺]]的德国美学演进（pp. 1–216）。
-
----
-
-> [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 系统梳理从鲍姆嘉通、康德、黑格尔到海德格尔与[[Argument_Hammermeister_2002_Cambridge_Ch10|阿多诺]]的德国美学演进（pp. 1–216）。

@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-11-11
+updated: 2026-11-20
 ---
 
 ---
@@ -148,7 +148,7 @@ updated: 2026-11-11
 > [!dev-timeline] 概念演变
 > - **1990 — [[Six Degrees of Separation|六度分隔]]文学表达** 剧作家约翰·盖尔（John Guare）在戏剧中写下著名台词，指出全人类由平均六个人隔开。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 107)]]
 > - **1998 — 小世界网络数理形式化** 邓肯·瓦茨（Duncan Watts）与史蒂文·斯特罗加茨（Steven Strogatz）形式化定义高聚类与短路径并存的小世界网络模型。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 106–107)]]
-> - **2001–2002 — 科学合著网络实证奠基** [[Mark Newman|马克·纽曼]]（Mark Newman）与巴拉巴西等将合著网络作为复杂网络真实样本，测定其无标度与小世界拓扑属性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 104–106)]]
+> - **2001–2002 — 科学合著网络实证研究确立** [[Mark Newman|马克·纽曼]]（Mark Newman）与巴拉巴西等将合著网络作为复杂网络真实样本，测定其无标度与小世界拓扑属性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 104–106)]]
 > - **2005 — 团队组配模型与相变机制确立** 罗杰·吉梅拉（Roger Guimerà）与布赖恩·乌齐（Brian Uzzi）提出基于老手-新秀池的团队组装生成模型，量化 $p-q$ 参数对合著网络相变的调控。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 119–121, 254–256)]]
 > - **2015 — 终身超级联结动力学揭示** 亚历山大·彼得森（Alexander M. Petersen）在 PNAS 发文系统揭示合著网络中弱纽带高流失与超级强纽带超额溢价的规律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 121–123)]]
 
@@ -170,6 +170,20 @@ updated: 2026-11-11
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit04\|Uzzi & Spiro (2005)]] | 百老汇 1889 至 1989 年间上演的全部 2,258 部音乐剧创作网络 | 历史创作网络纵向计量回归模型 | 小世界商数 $W$ 与票房收益、剧评得分的关联 | 呈现高度稳健的倒 U 形关联：中等 $W$ 下作品票房与艺术声誉达到双重峰值 | $p < 0.01$ | 样本聚焦艺术创意产业团队网络 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|Guimerà et al. (2005)]] | 经济学、生态学、天文学与社会心理学四大领域数十年发表记录 | 团队组装生成模型拟合与计量回归 | 老手资历参数 $p$、重复合作参数 $q$ 与期刊影响因子的关联 | 在所有四个学科中，$p$ 与期刊影响因子均呈高度显著正相关，$q$ 与期刊影响因子呈高度显著负相关 | $P < 0.001$ | 适用于高校与科研院所学术合署论著 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|Petersen (2015)]] | 细胞生物学与物理学 473 位资深学者，166,000 条合著关系 | 终身合著网络生命周期生存分析 | 合作持续时间；超级合作纽带发生率；发文速率与引文溢价 | 60%–80% 合作仅存活 1 年；平均每 25 位合署学者中出现 1 位超级搭档；与超级搭档合作时发文速率提升 8 倍，引文净影响提升 14 倍 | 统计检验显著 | 针对长期高产资深学者的合署轨迹追踪 |
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Giant Component]] | 概念 | 合著网络演化跨越临界相变阈值时涌现出的最大全局连通分支。 |
+> | [[Small-World Quotient]] | 概念 | 测度合著网络局域高聚类与全局短路径特征的拓扑指标。 |
+> | [[Super Ties in Science]] | 概念 | 合著网络中极少数高频次、长周期且贡献核心突破的终身强合作纽带。 |
+> | [[Team Assembly Model]] | 理论 | 基于老手资历参数与重复合作概率刻画微观组队驱动宏观合著网络相变的生成模型。 |
+> | [[Bibliometric Analysis]] | 方法 | 解析学术合著关系拓扑结构与科研人员合作模式的计量工具。 |
+> | [[Paul Erdős]] | 人物 | 拥有海量合署学者的超级枢纽数学家，其协作网络成为小世界六度分隔的经验典范。 |
+> | [[Brian Uzzi]] | 人物 | 提出小世界倒 U 形创造力假说及微观团队组装模型的网络科学学者。 |
 
 ---
 

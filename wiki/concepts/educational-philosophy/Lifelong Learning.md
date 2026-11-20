@@ -128,7 +128,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-07
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 
 ---
@@ -136,7 +136,7 @@ updated: 2026-11-19
 > [!def] Lifelong Learning
 > 终身学习（Lifelong Learning）指贯穿个体全生命周期的持续性、情境化与自愿性学习过程。它突破了传统正规学校教育的时空界限，涵盖成人进修、职业技能重塑、社区文化参与、科学探索场馆互动及数字化自主探究等多元形态，致力于培育学习者适应社会、技术与生态剧变的[[Cognitive Flexibility|认知灵活性]]，实现个体潜能开发、健康福祉提升与公民民主参与。[[Argument_Yan_2025_JCS|(Yan & Morris, 2025, p. 487)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, pp. 42, 48)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 终身学习超越了将教育等同于一次性学龄阶段文凭获取的传统观念，强调学习是跨越儿童、青年、成人与老年全生命周期的具身化[[Knowledge Building Theory|知识建构]]与能力迭代过程。
 > - **用途** 在政策研究中，它一方面被用作分析全球化[[Knowledge-Based Economy|知识经济]]与产业变革下劳动力技能升级的分析工具；另一方面作为批判透镜，揭示官方借用国际流行[[Discourse|话语]]以合法化本土课程改革的修辞机制。
 > - **边界** 终身学习超越纯粹服务劳动力市场[[Employability|就业能力]]的职业技能重塑；其有效运作依赖普惠均等的公共社会与文化基础设施予以制度化支撑，防范国家公共教育保障责任被单向推卸给受教个体。
@@ -152,7 +152,7 @@ updated: 2026-11-19
 
 ---
 
-> [!contrast-table] 终身学习与相关教育形态的学理辨析
+> [!contrast-table|notitle] 概念辨析
 > | 概念维度 | [[Central Phenomenon\|核心范畴]]与时空范围 | 驱动机制与目的旨趣 | 制度化载体与评价方式 |
 > |---|---|---|---|
 > | **[[Lifelong Learning\|终身学习（Lifelong Learning）]]** | 贯穿个体生命全周期（涵盖儿童、青年、成人与老年）；跨越正规、非正规与非正式[[Champ\|场域]] | 适应知识快速折旧、发展通用胜任力与自主规制倾向；兼具全人发展与[[Human Capital Theory\|人力资本]]更新 | 社区文化设施、科普场馆、跨国流动、自我规制学习与生活情境评估（如 PISA） |
@@ -161,13 +161,10 @@ updated: 2026-11-19
 
 ---
 
-> [!dimension] 终身学习的三重理论维度与实践支柱
-> - **1. 人本主义与全人发展维度（Humanistic & Personal Development）**
->   将学习视为个体探索未知世界、丰富精神生活与提升生命福祉的内在需求。通过非正式探究、艺术科技体验与闲暇阅读，激发持久好奇心与[[Critical Thinking|批判性思维]]，促进身心健康与认知多样性包容。
-> - **2. [[Human Capital Theory|人力资本]]与经济适应维度（Human Capital & Economic Adaptability）**
->   服务于技术颠覆下的劳动力市场重构。重点提升成年工人的[[Data Literacy|数据素养]]、[[AI Literacy|人工智能素养]]以及适应低碳经济转型的绿色技能（Green Skills），防范结构性失业并支撑经济创新。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 32)]]
-> - **3. 社会文化基础设施与非正式参与生态（Social & Cultural Infrastructure）**
->   依托公共图书馆、科技博物馆、科学探索中心（[[Association for Science and Discovery Centres|ASDC]] 网络）、动植物园以及线上[[Citizen Science|公民科学]]平台（如 [[Big Butterfly Count]]、[[The Perception Census]]），构建去中心化、低门槛的全民学习网络，支持公众在医疗健康、环境治理等公共事务中开展理性民主协商。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, pp. 43, 48)]]
+> [!feature] 核心要素
+> - **人本主义与全人发展维度（Humanistic & Personal Development）** 将学习视为个体探索未知世界、丰富精神生活与提升生命福祉的内在需求。通过非正式探究、艺术科技体验与闲暇阅读，激发持久好奇心与[[Critical Thinking|批判性思维]]，促进身心健康与认知多样性包容。
+> - **[[Human Capital Theory|人力资本]]与经济适应维度（Human Capital & Economic Adaptability）** 服务于技术颠覆下的劳动力市场重构。重点提升成年工人的[[Data Literacy|数据素养]]、[[AI Literacy|人工智能素养]]以及适应低碳经济转型的绿色技能（Green Skills），防范结构性失业并支撑经济创新。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 32)]]
+> - **社会文化基础设施与非正式参与生态（Social & Cultural Infrastructure）** 依托公共图书馆、科技博物馆、科学探索中心（[[Association for Science and Discovery Centres|ASDC]] 网络）、动植物园以及线上[[Citizen Science|公民科学]]平台（如 [[Big Butterfly Count]]、[[The Perception Census]]），构建去中心化、低门槛的全民学习网络，支持公众在医疗健康、环境治理等公共事务中开展理性民主协商。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, pp. 43, 48)]]
 
 > [!contrast-table] 表：终身学习三大[[Theoretical Perspective|理论取向]]系统特征对比表
 > | 比较维度 | 人本主义取向（Humanistic Approach） | 人力资本取向（Human Capital Approach） | 社会文化基础设施取向（Infrastructure Approach） |
@@ -268,12 +265,13 @@ updated: 2026-11-19
 > - **2007 年 欧盟“终身学习计划”（Lifelong Learning Programme, LLP）确立跨国流动支柱** 欧盟正式启动 2007–2013 综合性“终身学习计划”（LLP），将[[Erasmus Programme|伊拉斯谟计划]]（ERASMUS）、夸美纽斯计划（COMENIUS）、[[Leonardo da Vinci Programme|达芬奇计划]]（LEONARDO [[Dynamic Assessment|DA]] VINCI）及格伦特维计划（GRUNDTVIG）全面整合；将学生跨国流动（[[Student Mobility|学生流动性]]）确立为获取终身学习素养与提升个体就业胜任力的核心制度载体。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 > - **2009 年 — PISA 测评将终身学习前置并嵌入义务教育治理** 索蒂里亚·格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009]]）论证指出，经合组织通过 PISA 测评将终身学习机制前置至 15 岁义务教育阶段；测评不仅脱离了具体国家课程，更系统测查学生的学习动机、[[Self-Efficacy|自我效能感]]与自我规制策略，将青年学生提前塑造为必须终身自负其责、持续自我规制的知识经济主体（pp. 26–27, 35）。
 > - **2009 年 — 全景敞视式软法监控批判解构** 帕西亚斯与鲁萨基斯运用福柯规训理论解构欧盟终身学习话语，揭示知识易耗品化与开放协调法如何将终身学习重塑为全景敞视式软法监控建筑。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 483, 492–493)]]
+> - **2017 年 — 瑞士《联邦继续教育法》（WeBiG）确立用人单位与国家终身培训协同责任** 瑞士全面实施《联邦继续教育法》（WeBiG），法定界定国家创设终身学习前提之义务与用人单位促进员工再培训之责任，并通过数字公约工程（digitalinform.swiss）实现继续培训创新成果跨行业迁移。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022)]]
 > - **2020 年代中 数字化、绿色化转型与社会文化基础设施演进** 面对[[Generative Artificial Intelligence|生成式人工智能]]（Artificial Intelligence, AI）颠覆与气候变化危机，[[The Royal Society|英国皇家学会]]（Royal Society, 2026）重塑终身学习[[Construct|构念]]，提出涵盖[[Data Literacy|数据素养]]、批判性 AI 素养与可持续发展素养的交叉素养框架，并将科技馆、探索中心及[[Citizen Science|公民科学]]确立为保障全民终身学习的社会与文化基础设施。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 31–32)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 48)]]
 > - **2021–2023 年 — 波尔图非正式峰会与欧洲教育区终身学习核心地位捍卫** [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] 揭示欧盟委员会起草精英试图在《欧洲教育区 2030 通讯》中以“包容”置换终身学习并将其降格，但遭遇欧盟理事会与成员国抵制；波尔图社会峰会与理事会决议强力捍卫了终身学习连通教育与就业的制度基石地位。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 853–854, 866–867)]]
 
 ---
 
-> [!debates] 核心学术争议与张力
+> [!debates|notitle] 学术争议
 >
 > > [!axis] 超国家技术官僚认知重构 vs 历史制度韧性与全生命周期范畴
 > > 争论终身学习是否可以被“包容”等新兴社会政策议题所替代或降格。
@@ -304,6 +302,9 @@ updated: 2026-11-19
 > > 探讨终身学习在理念倡导与实际获得之间的结构性断裂。
 > > - **修辞盛宴与资源贫瘠的断层** 各国官方文件高调宣示终身学习愿景，但公共财政中用于成人非正规教育和校外科技场馆的经费屡遭削减。
 > > - **[[Science Capital|科学资本]]自选与阶层固化壁垒** 高端终身学习项目常被高[[Socioeconomic Status|社会经济地位]]人群垄断，欠发达地区与低技能群体因时间贫困与经济门槛面临实质性排斥。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 48)]]
+
+> [!warning|limits] 适用局限
+> 终身学习概念在运用于政策规划时，容易受到新自由主义工具主义的窄化，将劳动力市场动荡与技术折旧风险单向转嫁为个体受教者的自我投资责任，从而消解国家在公共教育与社会保障基础设施方面的兜底责任。[[Argument_Yan_2025_JCS|(Yan & Morris, 2025, p. 487)]]; [[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 7–10)]]
 
 ---
 
@@ -336,7 +337,8 @@ updated: 2026-11-19
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Hippach-Schneider_Rieder_2022_RCIE|Hippach-Schneider and Rieder (2022)]] — 考察德瑞职业继续培训转型，揭示瑞士《联邦继续教育法》（WeBiG）如何确立企业与政府的终身学习法定责任，并通过数字公约工程促进跨行业技能迁移。
 > - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 揭示终身学习作为核心认知理念在欧洲教育区战略重构中的制度韧性，阐明欧盟委员会试图以“包容”替代终身学习的认知转向为何遭致欧盟理事会与成员国的普遍抵制与纠偏。
 > - [[Argument_Yan_2025_JCS|Yan and Morris (2025)]] — 深度剖析终身学习[[Discourse|话语]]在香港课程改革中的政策[[Externalization|外部化]]与修辞借用机制。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 倡导面向全体公民的全生命周期[[Scientific Literacy|科学素养]]建设，以[[Data Literacy|数据素养]]与批判性 AI 素养重构跨人生阶段的[[Foundational Literacy and Numeracy|基础素养]]支撑，并将[[Informal Science Learning|非正式科学学习]]场馆与社区参与网络确立为国家终身学习不可或缺的公共社会文化基础设施。

@@ -150,7 +150,7 @@ updated: 2026-11-20
 > | **选择性偏差命题** | 跨国流动学者的引文溢价源于事前能力筛选与潜能优势 | 国际学术劳动力流动与人才引进计划评估 | Sugimoto et al. (2017); [[Argument_Fortunato_2018_Science\|Fortunato et al. (2018)]] |
 > | **个体决定机构命题** | 机构声望排位变迁无法系统性改变学者成果的学术影响力轨迹 | 大学声望评价与高层次学者跨校聘任机制 | Deville et al. (2014); [[Argument_Fortunato_2018_Science\|Fortunato et al. (2018)]] |
 > | **中心嵌入命题** | 学术流动塑造力取决于研究生关键阶段向全球学术中心的高质量嵌入 | 拔尖创新人才跨境跨校培养与学术网络布局 | [[Argument_Zhang_Zhao_2026_EDR\|张娟和赵祥辉 (2026)]] |
-> | **政治外生迁移命题** | 政治迫害驱动的学者跨国流亡摧毁母国研究网络并赋能迁入国跃升为新科学中心 | 极权统治、战争冲击与战后跨国科学中心转移 | [[Argument_VonDerHeyden_Heinze_2025_PLOSONE\|von der Heyden & Heinze (2025)]] |
+> | **政治外生迁移命题** | 政治迫害驱动的学者跨国流亡削弱母国研究网络，并促成迁入国发展为新科学中心 | 极权统治、战争冲击与战后跨国科学中心转移 | [[Argument_VonDerHeyden_Heinze_2025_PLOSONE\|von der Heyden & Heinze (2025)]] |
 
 ---
 

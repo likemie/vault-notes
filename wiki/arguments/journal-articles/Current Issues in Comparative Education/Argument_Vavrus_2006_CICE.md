@@ -99,11 +99,11 @@ issuing_organization: ""
 > 半个世纪以来，[[Comparative and International Education Society|比较与国际教育学会]]（Comparative and [[International Education]] Society, CIES）的学术论辩频繁受困于定性与定量、[[Case Study|个案研究]]与跨国调查、[[Area Studies|区域研究]]与[[Disciplinary Institutionalization|学科建制]]等方法操作层面的二元对立。此类技术性争端仅触及资料收集手段与推论程序的表象，回避了更为根本的[[Epistemology|认识论]]追问：比较研究究竟能够认识现实世界的何种知识？又如何通过比较获取可信知识？在传统学术[[Paradigm|范式]]将民族国家预设为天然封闭比较容器、将微观地方经验边缘化为宏观官方政策附庸的背景下，比较教育如何建构一种既扎根微观实地生活世界、又纵向贯通宏观多层权力结构的[[Epistemic Stances|认识论立场]]与研究范式？
 
 > [!claim] 核心主张
-> 比较与国际教育研究须将学术重心从具体方法的技术争论，转向探寻比较认知（comparatively knowing）的认识论根基。[[Vertical Case Study|垂直案例研究]]（Vertical Case Study, VCS）立足垂直限定的个案内部，系统比对处于不同社会位置行动者的知识主张，将微观地方行动与意义解释深度嵌入宏观文化、历史与政治脉络之中。这种设计克服了单一尺度宏观分析将经济政治过程自主化与[[Determinism|决定论]]化的缺陷，在破除国家中心主义的同时，兼顾[[Ecological Validity|生态效度]]与权力反思，为超越普遍主义与极端相对主义确立了多尺度比较路径。
+> [[Frances Vavrus|弗朗西丝·瓦夫鲁斯]]（Frances Vavrus）与[[Lesley Bartlett|莱斯利·巴特利特]]（Lesley Bartlett）指出，比较与国际教育研究须将学术重心从具体方法的技术争论，转向探寻比较认知（comparatively knowing）的认识论根基。[[Vertical Case Study|垂直案例研究]]（Vertical Case Study, VCS）立足垂直限定的个案内部，系统比对处于不同社会位置行动者的知识主张，将微观地方行动与意义解释深度嵌入宏观文化、历史与政治脉络之中。这种设计克服了单一尺度宏观分析将经济政治过程自主化与[[Determinism|决定论]]化的缺陷，在破除国家中心主义的同时，兼顾[[Ecological Validity|生态效度]]与权力反思，为超越普遍主义与极端相对主义确立了多尺度比较路径。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 比较与国际教育的方法论根基与研究生培养制度，重点剖析国际发展援助咨询、教育政策评估、成人扫盲度量以及公共卫生干预等跨尺度教育治理现象。
-> - **张力** 宏观抽象政策宣示的应然修辞与微观实地复杂样貌的实然实践发生严重脱节；无视情境特异性强推普适通则的普遍主义，与将差异绝对化为不可比孤岛的极端相对主义产生认识论对立；国际短期咨询中轻率浮泛的快餐式评估对支配性权力与知识格局实施盲目再生产。
+> - **张力** 宏观抽象政策宣示的应然修辞与微观实地复杂样貌的实然实践发生严重脱节；无视情境特异性强推普适通则的普遍主义，与将差异绝对化为不可比孤岛的极端相对主义产生认识论对立；国际短期咨询中轻率浮泛的[[Quick and Dirty Evaluation|快餐式评估]]对支配性权力与知识格局实施盲目再生产。
 > - **贡献** 正式提出垂直案例研究作为贯通微观与宏观的质性比较设计；拓展了[[Mark Bray|马克·布雷]]与拉姆齐·托马斯（Mark Bray & R. Murray Thomas）的[[Multilevel Comparative Analysis|多层分析立方体]]（Bray & Thomas, 1995）并为其奠定认识论依据；践行[[Decentering the Nation-State|去民族国家中心化]]，构建贯通地方-国家-全球的立体比较范式，重塑了兼顾[[Area Studies|区域研究]]深度与跨学科方法广度的高层次学者培养规程。
 
 ---
@@ -133,7 +133,7 @@ issuing_organization: ""
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
-> | **学科史料** | CIES 成立 50 周年口述史纪录片《[[Comparatively Speaking|相对而言]]》（*Comparatively Speaking*；Steiner-Khamsi & Johnson, 2006）、历任会长就职演说（[[Ruth Hayhoe|Hayhoe]], 2006; Masemann, 1990）以及学术界关于区域研究与学科建制的专题讨论记录（Merkx et al., 2006）。 |
+> | **学科史料** | CIES 成立 50 周年口述史纪录片《[[Comparatively Speaking|相对而言]]》（*Comparatively Speaking*；Steiner-Khamsi & Johnson, 2006）、历任会长就职演说（[[Ruth Hayhoe|Hayhoe]], 2006; [[Verna Masemann|Masemann]], 1990）以及学术界关于区域研究与学科建制的专题讨论记录（Merkx et al., 2006）。 |
 > | **实证研究文献** | 发展中国家成人扫盲政策与微观人类学实证研究（Ahearn, 2001; Bartlett, 2006, 2007; Dyer & Choksi, 1998; Kulick & Stroud, 1993; Luke, 1996; Street, 1984）、UNESCO《[[Global Education Monitoring Report\|全民教育全球监测报告]]》（UNESCO, 2006）、乐施会教育报告（K. Watkins, 2001）以及坦桑尼亚结构调整实证考察（Vavrus, 2005）。 |
 > | **制度考察情境** | 国际[[Multilateral Development Bank\|多边开发银行]]、双边援助机构、国家教育部、地方学区与微观学校社区之间的多层治理互动情境。 |
 
@@ -149,7 +149,7 @@ issuing_organization: ""
 >     D --> E
 >     E --> F["立足首要场域，贯通微观行动、国家政策与全球治理网络"]
 >     E --> G["[[Decentering the Nation-State|去中心化民族国家]]，超越普遍主义与极端相对主义"]
->     E --> H["抵制快餐式评估，避免再生产支配性权力与知识格局"]
+>     E --> H["抵制[[Quick and Dirty Evaluation|快餐式评估]]，避免再生产支配性权力与知识格局"]
 >     F --> I["重塑研究生培养规程：兼顾区域研究深度与跨学科方法广度"]
 >     G --> I
 >     H --> I
@@ -164,7 +164,7 @@ issuing_organization: ""
 
 > [!tension] 表层方法程序 vs 深层认识论追问
 > - **表层方法程序之争** CIES 成立 50 周年的学科演进中，学者聚焦于定性与定量、个案研究与跨国跨地区研究等操作层面的程序争论；此类争论将焦点局限于资料收集手段和分析规则。在口述史纪录片《[[Comparatively Speaking|相对而言]]》（*Comparatively Speaking*；Steiner-Khamsi & Johnson, 2006）中，历任会长揭示了学科半个世纪以来的三大主要分歧：比较教育与国际教育的建制划分、理论与实践的割裂、以及比较方法的内涵界定。
-> - **深层认识论追问** 比较研究的核心命题在于确立何种知识可以通过比较被认知，以及如何认识世界；维斯娜·马塞曼（Verna Masemann）强调，对[[Ways of Knowing|认知方式]]概念的狭隘理解束缚了比较教育的根本定义，促使研究必须回溯知识主张的生成机制与社会定位（Masemann, 1990, p. 465）。
+> - **深层认识论追问** 比较研究的核心命题在于确立何种知识可以通过比较被认知，以及如何认识世界；[[Verna Masemann|维斯娜·马塞曼]]（Verna Masemann）强调，对[[Ways of Knowing|认知方式]]概念的狭隘理解束缚了比较教育的根本定义，促使研究必须回溯知识主张的生成机制与社会定位（Masemann, 1990, p. 465）。
 
 > [!dimension] 学科口述史展现的三重建制分立
 > - **比较教育与国际教育的建制分立**
@@ -228,14 +228,14 @@ issuing_organization: ""
 
 > [!sub-claim] 1. 走马观花的快餐评估脱离现实，忽略基层诉求的改革注定落空
 
-> [!critique-method] 发展咨询中的快餐式评估与外部[[Development Expert|发展专家]]陷阱
-> - **去情境化的专家权威陷阱** 国际发展机构主导的短期咨询往往许以丰厚报酬与学术声望，促使学者在缺乏扎实地方专长的情况下以[[Development Expert|发展专家]]自居，仓促产出缺乏理论底蕴与实地深度的描述性报告（Parpart, 1995）。克罗斯利与武利亚米（Crossley & Vulliamy, 1984, p. 203）告诫学界警惕缺乏严谨资料收集与理论框架的快餐式评估，这种肤浅的评估阻碍了深入微观实地挖掘复杂的意义层次。
+> [!critique-method] 发展咨询中的[[Quick and Dirty Evaluation|快餐式评估]]与外部[[Development Expert|发展专家]]陷阱
+> - **去情境化的专家权威陷阱** 国际发展机构主导的短期咨询往往许以丰厚报酬与学术声望，促使学者在缺乏扎实地方专长的情况下以[[Development Expert|发展专家]]自居，仓促产出缺乏理论底蕴与实地深度的描述性报告（Parpart, 1995）。克罗斯利与武利亚米（Crossley & Vulliamy, 1984, p. 203）告诫学界警惕缺乏严谨资料收集与理论框架的[[Quick and Dirty Evaluation|快餐式评估]]，这种肤浅的评估阻碍了深入微观实地挖掘复杂的意义层次。
 > - **虚假全球共识的强加** 国际资助研究容易将特定援助机构的治理理念包装为全球共识，并在政策制定中完全忽视微观受众的声音（Samoff, 1999）。
 > - **改革失败的根源机制** [[Joel Samoff|乔尔·萨莫夫]]（Joel Samoff）警示，除非改革的受益者转化为改革的真正承载者，否则教育改革注定沦为早夭之作（Samoff, 1999, p. 84）。唯有将教师、学生、家长与社区行动者的声音纳入制度设计，教育创新方能具备持久生命力。
 
 > [!pathways] 外部咨询研究者的[[Reflexivity|反思性]]自审准则
 > - **区域专长审视** 严审自身对特定地区的历史、语言与文化储备是否足以胜任出资机构设定的任务，抵御在缺乏深厚本土洞察时盲目以专家自居的诱惑（Parpart, 1995）。
-> - **田野周期评估** 审慎评估项目时间周期与研究参数是否允许开展足够深度的微观实地调查，防范产出脱离实际的快餐式评估报告，避免在实务中沦为支配性权力关系的盲目附庸（Crossley & Vulliamy, 1984, p. 203）。
+> - **田野周期评估** 审慎评估项目时间周期与研究参数是否允许开展足够深度的微观实地调查，防范产出脱离实际的[[Quick and Dirty Evaluation|快餐式评估]]报告，避免在实务中沦为支配性权力关系的盲目附庸（Crossley & Vulliamy, 1984, p. 203）。
 
 > [!sub-claim] 2. 国家退为多层网络的中介，纵向比较能够化解普适与相对的对立
 
@@ -284,12 +284,12 @@ issuing_organization: ""
 
 ---
 
-> [!citation-card] 马塞曼论认识方式对学科定义的束缚
+> [!citation-card] [[Verna Masemann|马塞曼]]论认识方式对学科定义的束缚
 > 我们的认知方式概念限制并束缚了比较教育的根本定义，这种定义被我们传授给学生、用于自身研究，并确实被传播给了实践者。(Masemann, 1990, p. 465)
 >
 > *… our conceptions of ways of knowing have limited and restricted the very definition of comparative education that we have taught to students and used in our own research and, indeed, have promulgated to practitioners.*
 
-> [!citation-card] 瓦夫鲁斯与巴特利特论微观理解作为宏观结构的内在组成
+> [!citation-card] [[Frances Vavrus|瓦夫鲁斯]]与[[Lesley Bartlett|巴特利特]]论微观理解作为宏观结构的内在组成
 > 使单一尺度分析显得不完整和不平衡的原因，往往在于缺乏情境化的知识，这种知识未能考虑更宏大的力量、结构和历史如何塑造地方层面的社会互动与理解……在垂直案例研究中，对微观层面的理解被视为更宏大结构、力量与政策的内在组成部分，研究者同样必须对后者建立充分而彻底的认识。
 >
 > *What makes single-level analysis 'incomplete and unbalanced' is often, though not always, the absence of contextualized knowledge that takes into [[Accounts|account]] how larger forces, structures, and histories inform local social interactions and understanding… in a vertical case study, understanding of the micro-level is viewed as part and parcel of larger structures, forces, and policies about which the researcher must also develop a full and thorough knowledge.*
