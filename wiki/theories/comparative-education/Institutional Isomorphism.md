@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-18
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 ---
@@ -109,6 +109,7 @@ updated: 2026-11-19
 > - **1983年 — 三大同构机制系统确立** 迪马吉奥与鲍威尔（DiMaggio & Powell, 1983）发表《铁笼再访》，系统界定强制型、模仿型与规范型同构，确立组织[[Champ|场域]]分析[[Paradigm|范式]]。
 > - **1988年 — 制度创业与能动性反思** DiMaggio (1988) 引入“制度创业者（institutional entrepreneurs）”概念，反思同构理论过分强调[[Climatic Determinism|环境决定论]]的倾向，探讨行动者如何调动资源创建或操纵制度规则。
 > - **2013年 — 基础教育课程改革的同构吸纳** [[Argument_Hogan_2013_ROE|Hogan et al. (2013)]] 基于新加坡“[[Teach Less, Learn More|少教多学]]”改革实证，揭示即使课程削减 20% 留白以鼓励探究，在高利害统考的刚性制度压力下，腾出的课时自主权迅速被应试训练同构吸纳（p. 102）。
+> - **2014年 — 跨国测评规制与制度混杂体批判** 理查德·明希（[[Argument_Munch_2014_TCR|Münch, 2014]]）运用制度同构理论剖析经合组织 PISA 测评的扩散机制，指出跨国专家网络凭借规范型与模仿型同构迫使主权国家推行标准化与新公共管理审计，但在与本土历史分流旧结构的拼接中催生了功能失调的制度混杂体。
 > - **2017年 — 高等教育科研网络同构验证** 赛勒斯·莫迪（[[Argument_Mody_2017_MOH|Mody, 2017]]）以全美大学微电子研究中心为实证，揭示高技术重资产背景下，各大学通过先行者标杆跟踪、模式主动示范以及教员与博士生跨校流动（Personnel Mobility），完成组织形态与治理规范的制度同构进程。（p. 297）
 > - **2021–2022年 — 跨国[[Corporate Education|企业教育]]与跨国测评同构深化** [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] 揭示跨国公司企业教育中的权威动员机制与[[Geopolitics|地缘政治]]不对称；[[Argument_Helgetun_2022_JEdPolicy|Helgetun and Menter (2022)]] 揭示教师教育政策中证据作为合理化神话驱动的规范与强制同构机制；[[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] 阐明跨国测评文化如何驱动主权国家主动接纳标准化现代教育模型并诱发制度脱耦。
 
@@ -220,6 +221,7 @@ updated: 2026-11-19
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Munch_2014_TCR|Münch (2014)]] — 运用制度同构理论剖析跨国专家网络如何推行 PISA 标准化规制，并揭示其在德国旧体制中引发的制度混杂化病理。
 > - [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] — 运用三种制度同构机制分析跨国公司企业教育的国际化扩散模式与权威调动策略。
 > - [[Argument_Helgetun_2022_JEdPolicy|Helgetun and Menter (2022)]] — 揭示英格兰教师教育治理中证据作为合理化神话如何驱动多方机构走向规范与强制同构。
 > - [[Argument_Hogan_2013_ROE|Hogan et al. (2013)]] — 运用制度同构视角剖析新加坡“少教多学”改革中 20% 留白课时被高利害应试训练重新吸纳的制度机制（pp. 95, 102）。

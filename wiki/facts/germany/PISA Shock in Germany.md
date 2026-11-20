@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 ---
@@ -140,7 +140,7 @@ updated: 2026-11-19
 > > 学界对 [[PISA]] 震荡究竟是推动了制度现代化还是导致了商业化[[Governing by Numbers|数字治理]]的争鸣。
 > >
 > > - **现代化学派（2018）** 肯定 PISA 震荡打破了联邦分权体制数十年的改革积压，实现了教育标准的历史性统一与公平性提升。[[Argument_Hartong_2018_GSE|(Hartong, 2018, pp. 135–138)]]
-> > - **批判社会学派（Pongratz, 2006; [[Argument_Grek_2009_JEdPolicy|Grek, 2009]]）** 将震荡后的激进改革与 1960 年代“教育大灾难”危机叙事并置，指出测评数据本身不足以构成狂热改革的充分依据，其本质是借助外部压力将学校重塑为自负盈亏、受全面质量控制的自我管理组织。（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, pp. 29–30]]）
+> > - **批判社会学派（Pongratz, 2006; [[Argument_Grek_2009_JEdPolicy|Grek, 2009]]; [[Argument_Munch_2014_TCR|Münch, 2014]]）** 将震荡后的激进改革与 1960 年代“教育大灾难”危机叙事并置，指出测评数据本身不足以构成狂热改革的充分依据；理查德·明希（[[Argument_Munch_2014_TCR|Münch, 2014]]）进一步揭示，以通用素养标准推行新公共管理外部评估与文法中学八年制（G8）学制压缩，强行嵌入三轨分流旧结构，导致主要中学（Hauptschule）沦为底层隔离的“剩余学校”，制造出功能失调的制度混杂体。
 > > - **[[Critical Pedagogy|批判教育学]]派** 指责技术官僚主导的产出控制矮化了传统人文教养理想，导致学校教学窄化为应试技能训练。
 
 > [!citation-card] 代表性史学论著引言：[[Sigrid Hartong|哈通]]论德国[[Topological Spatialisation|拓扑治理]]装配
@@ -162,4 +162,5 @@ updated: 2026-11-19
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Munch_2014_TCR|Münch (2014)]] — 剖析 PISA 通用素养规制与德国学科分化传统的冲突，揭示新公共管理与 G8 改革在三轨旧体制中催生的制度混杂体失灵。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 比较分析德国对 PISA 2000 的媒体风暴（687 个版面）与激进产出重组，揭示危机叙事下的外在化借用逻辑。

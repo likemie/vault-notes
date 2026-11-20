@@ -1,5 +1,5 @@
 ---
-citation: ""
+citation: "Münch, R. (2014). Education under the regime of PISA & Co.: Global standards and local traditions in conflict—The case of Germany. Teachers College Record, 116(9), 1–16. https://doi.org/10.1177/016146811411600904"
 extracted_to: []
 processed_date: 2026-11-21
 ---

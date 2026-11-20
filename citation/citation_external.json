@@ -21502,6 +21502,8 @@
     "Rittle-Johnson et al., 2017": "Rittle-Johnson et al., 2017",
     "Ritts et al. (1992)": "Ritts et al., 1992",
     "Ritts et al., 1992": "Ritts et al., 1992",
+    "Ritzer (1993)": "Ritzer, 1993",
+    "Ritzer, 1993": "Ritzer, 1993",
     "Riva et al. (2003)": "Riva et al., 2003",
     "Riva et al., 2003": "Riva et al., 2003",
     "Rivas et al. (2020)": "Rivas et al., 2020",
@@ -78218,6 +78220,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Hartmann_2022_CorporateEducation.md",
+        "wiki/arguments/journal-articles/Teachers College Record/Argument_Munch_2014_TCR.md",
         "wiki/concepts/educational-policy-reform/Policy Mobility.md",
         "wiki/theories/comparative-education/Institutional Isomorphism.md"
       ],
@@ -186657,6 +186660,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Expectations, impressions, and judgments of physically attractive students: A review"
+    },
+    "Ritzer, 1993": {
+      "aliases": [
+        "Ritzer, 1993",
+        "Ritzer (1993)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ritzer, 1993"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Teachers College Record/Argument_Munch_2014_TCR.md"
+      ],
+      "title": ""
     },
     "Riva et al., 2003": {
       "aliases": [
