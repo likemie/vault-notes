@@ -6,7 +6,7 @@ aliases:
 summary: "Pierre Bourdieu 的核心概念，指具有相对自主性、客观位置关系网络和资本分布结构的社会空间，行动者在此依据内隐规则争夺特定资源与象征资本；亦被拓展用于分析超国家机构通过数据基础设施与可比指标建构的跨国政策场域。"
 type: concept
 domain: "sociology-of-education"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -64,10 +64,11 @@ related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch06]]"
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
+  - "[[Argument_Munch_2014_TCR]]"
 confidence: high
 status: completed
 created: 2026-05-08
-updated: 2026-11-17
+updated: 2026-11-21
 ---
 
 ---
@@ -177,6 +178,7 @@ updated: 2026-11-17
 > - **1987 — 《言说之道》（*Choses dites*）公式化成熟** 布迪厄明确宣布结构主义建构论（structuralisme constructiviste）立场，提出实践理论的核心公式：$[(\text{习性})(\text{资本})] + \text{场域} = \text{实践}$，标志着场域理论的成熟。
 > - **1992 — 《艺术的法则》（*Les Règles de l'art*）自主性历史发生学** 深入分析 19 世纪法国文学场域如何摆脱经济赞助人与政治权威的控制，系统阐释了场域相对自主性的制度生成过程与 illusio 的维系机制。
 > - **2002–2009 — 超国家教育治理与政策场域拓展** Nóvoa & Lawn (2002) 与 [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 24–25)]] 将场域分析拓展至超国家层面，揭示超国家机构如何通过跨国流动、[[Data Infrastructure|数据基础设施]]与跨国可比指标，共同建构具有通约性与象征资本博弈特征的欧洲教育空间。
+> - **2014 — 跨国政策场域中认知精英与经济精英对国家教育场域的符号权力规制** [[Argument_Munch_2014_TCR|Münch (2014)]] 运用布迪厄符号权力理论，揭示超国家政策场域中跨国知识专家与经济精英如何将 PISA 心理测量标准确立为正当性唯一的象征资本，并通过制度同构规制国家教育场域，导致本土制度功能失调。
 > - **2010s–2020s — 教育治理与高等教育分流研究中的当代转向** 场域理论被广泛拓展至当代教育研究，一方面用于诊断全球绩效问责与[[New Public Management|新公共管理]]对教育行政场域自主性的侵蚀（[[Argument_Eacott_2011_JEAH|Eacott, 2011]]; [[Argument_Larsen_2019_EducSci|Larsen, 2019]]），另一方面用于解构大学场域中阶层习性与学业出路的微观博弈（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]]）。
 
 ---
@@ -231,6 +233,7 @@ updated: 2026-11-17
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Munch_2014_TCR|Münch (2014)]] — 结合布迪厄符号权力理论，剖析跨国认知精英与经济精英如何在政策场域中垄断测评象征资本，并通过制度同构重构主权国家教育场域。
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 将精英大学概念化为布迪厄式的竞技场域，并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]实证剖析学业门槛与课外社会性博弈双重子场域中的规则认知差异与精力配置博弈（N=63）；在[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|第六章]]系统论述跨场域转换诱发的二重文化障碍与习性裂化机制（pp. 361–366）。
 > - [[Argument_Eacott_2011_JEAH|Eacott (2011)]] — 运用布迪厄场域与习性框架，系统分析澳大利亚教育管理场域中外部政治-经济逻辑对[[School Leadership|学校领导]]专业自主性的侵蚀机制。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 批判可见学习[[Paradigm|范式]]，揭示制度化问责场域如何将教师规训为追逐达标测验数据的参赛者，造成对具身教育过程的盲视。
