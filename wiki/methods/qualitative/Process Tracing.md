@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-11-20
+updated: 2026-11-21
 ---
 
 ---
@@ -87,11 +87,19 @@ updated: 2026-11-20
 > - **有效性标准** [[Internal Validity|内部效度]]极高；强调时间先后的不可逆性（Temporal precedence）、机制链条的连续完整（Continuous causal chain）以及证据的来源多元性与互相印证。
 > - **不声称回答的问题** 无法直接估计[[Independent Variable|自变量]]在全样本总体中的平均处理效应（Average Treatment Effect, [[Advanced Technological Education|ATE]]），亦不能替代大样本实验推断跨总体普适率。
 
-> [!method-stack] 过程追踪中的四大经典因果证据检验
-> 根据质性方法学家范·埃弗拉（Stephen Van Evera）与戴维·科利尔（David Collier）的分类，过程追踪运用[[Necessary and Sufficient Conditions|充分条件]]与必要条件逻辑，对理论假说进行四种严苛度不同的经验证据检验：
+> [!method-stack] 方法层级
+> - **研究设计** 案例内纵向过程追踪、比较案例因果分析、反事实推理设计。
+> - **数据收集** 关键决策者访谈、内部未公开备忘录、公开政策档案、会议纪要与历史统计。
+> - **分析方法** 因果机制解构、时间序列编目、证据链条贝叶斯检验、替代性假说排除。
+> - **辅助技术**
+>   - 检验技术：风中麦草测试、环形测试、吸烟枪测试与双重决定性测试。
+>   - 验证技术：多源三角互证、口述证词与官方记录交叉质证。
+
+> [!feature]- 过程追踪四大因果证据检验
+> 根据范·埃弗拉（Stephen Van Evera）与戴维·科利尔（David Collier）的分类，过程追踪运用充分条件与必要条件逻辑，对理论假说进行四种严苛度不同的经验证据检验：
 > - **风中麦草测试（Straw-in-the-wind test）** 既非充分条件亦非必要条件。能为假说提供初步支持或怀疑，但无法确立或彻底排除假说。
-> - **环形测试（[[Higher Education and Research Plan|HOOP]] test）** 是假说成立的必要条件，但非充分条件。假说若未通过此检验则直接被[[Falsification|证伪]]排除，但通过检验尚不足以完全确证。
-> - **吸烟枪测试（Smoking gun test）** 是假说成立的充分条件，但非必要条件。一旦发现该类铁证（如决策者在私密日记中明确承认因某一报告而改变立场），即可强力确证假说，但未找到此类证据并不直接证伪假说。
+> - **环形测试（HOOP test）** 是假说成立的必要条件，但非充分条件。假说若未通过此检验则直接被证伪排除，但通过检验尚不足以完全确证。
+> - **吸烟枪测试（Smoking gun test）** 是假说成立的充分条件，但非必要条件。一旦发现该类铁证，即可强力确证假说，但未找到此类证据并不直接证伪假说。
 > - **双重决定性测试（Doubly decisive test）** 兼具充分条件与必要条件。单一测试同时确证某一核心假说并彻底排除所有替代性竞争假说。
 
 ---
@@ -146,7 +154,7 @@ updated: 2026-11-20
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 运用过程追踪法考察美国《共同核心州立标准》（CCSS）全生命周期中研究证据的利用轨迹与因果机制。
 > - [[Argument_Dang_2017_ORE|Dang (2017)]] — 运用过程追踪法追踪东盟高等教育关键决策节点，识别出内部协调、加三社会化与亚欧互鉴三维因果机制（pp. 3–4）。
 > - [[Argument_Rohde-Liebenau_Graf_2024_EERJ|Rohde-Liebenau and Graf (2024)]] — 运用过程追踪法检验欧盟与德国学徒制联盟平行演进机制，确证应对宏观治理挑战的外部驱动力（pp. 509–511）。

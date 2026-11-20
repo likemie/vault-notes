@@ -10,9 +10,9 @@ summary: "针对政策制定者、高级官员、学术领袖等具有高层决�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 49
-method_related_level: 4
-method_related_stars: "💎⭐"
+method_related_count: 50
+method_related_level: 5
+method_related_stars: "💎⭐⭐"
 method_related_color: "#dbeafe"
 cssclasses:
   - method-manual
@@ -77,10 +77,11 @@ related_arguments:
   - "[[Argument_Alexiadou_Rambla_2023_EERJ]]"
   - "[[Argument_McDonnell_2013_AmJE]]"
   - "[[Argument_Legrand_2012_PolStud]]"
+  - "[[Argument_Rohde-Liebenau_Graf_2024_EERJ]]"
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 ---
@@ -128,7 +129,7 @@ updated: 2026-11-19
 > [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
 > |---|---|
-> | 材料来源 | 占据关键决策位置的高级官员、政府顾问、智库领袖与学者的半结构化[[In-depth Interview\|深度访谈]]录音与逐字转录文本（如 Legrand, 2012; [[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022]]; [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi, Faul, et al., 2024, p. 18]]）。 |
+> | 材料来源 | 占据关键决策位置的高级官员、政府顾问、智库领袖与学者的半结构化[[In-depth Interview\|深度访谈]]录音与逐字转录文本（如 Legrand, 2012; [[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022]]; [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi, Faul, et al., 2024, p. 18]]; [[Argument_Rohde-Liebenau_Graf_2024_EERJ\|Rohde-Liebenau & Graf, 2024]]）。 |
 > | 抽样或选案 | [[Purposeful Sampling\|立意抽样]]与[[Snowball Sampling\|滚雪球抽样]]相结合，依据决策权力网络拓扑锁定跨部门关键知情人。 |
 > | 研究者位置 | 研究者必须具备扎实的专业知识以平抑权力不对称，恪守学术伦理并采用严格匿名编码保护受访者安全。 |
 > | 资料边界 | 明确决策周期、政策事件断代与制度管辖边界，并辅以同期未公开备忘录或公开白皮书作为对照边界。 |
@@ -168,7 +169,7 @@ updated: 2026-11-19
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Nordtveit_2011_IJED|Nordtveit (2011)]] — 针对喀麦隆教育部官员、总理府顾问、中国驻喀使馆外交官及国际组织代表开展关键知情人访谈，剖析双边文教援助背后的决策权衡、使馆协调局限与寻租风险。
 > - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 运用滚雪球抽样深度访谈欧洲高等教育质保协会、注册局、[[European Commission|欧盟委员会]]及[[OECD|经合组织]]现任与前任高层官员，解析欧洲高教质保[[Epistemic Infrastructure|认识论基础设施]]的演变格局与组织博弈。
 > - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 对欧盟委员会教育文化总司、委员会主席内阁与[[EU|欧盟]]理事会 9 位高级官员开展深度半结构化访谈，通过归纳主题分析与[[Discourse|话语]]解读追踪[[European Education Area|欧洲教育区]]战略议程中的理念协调与机构博弈。
@@ -176,5 +177,6 @@ updated: 2026-11-19
 > - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 对 20 位具备英格兰教育政策内部准入资格的高级官员、政府顾问与学者展开精英访谈，揭示了[[Evidence Era\|证据时代]]教师教育治理中政府守门与[[Policy-Based Evidence-Making\|逆向证据生产]]机制。
 > - [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] — 结构化访谈全美及四州 111 位政策制定者、标准起草者、工会领袖与批评者，结合档案做[[Process Tracing|过程追踪]]，阐明共同核心各阶段对研究证据与政治价值的整合。
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — [[In-depth Interview|深度访谈]][[HM Treasury|英国财政部]]高级官员、教育与就业部（DfEE）高层主管、“新政”特别工作组成员及美国智库政策专家，揭示政策转移决策中官僚行动者采纳美国证据与评估技术的幕后考量（pp. 341–342）。
+> - [[Argument_Rohde-Liebenau_Graf_2024_EERJ|Rohde-Liebenau and Graf (2024)]] — 深度访谈 8 位主管欧洲与德大学徒制联盟事务的高级文官，探究平台制度演进轨迹与内部决策动因。
 
 
