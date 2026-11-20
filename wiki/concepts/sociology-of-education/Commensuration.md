@@ -9,7 +9,7 @@ aliases:
 summary: "将不同性质的异质事物转化为基于同一通用尺度或公分母的标准化可比量化指标的社会过程，为跨情境绩效评价与资源配置确立形式公平，但伴随着质性情境剥离、统计公平与地域公平冲突及策略性博弈操纵等治理代价"
 type: concept
 domain: "sociology-of-education"
-related_count: 60
+related_count: 62
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -74,7 +74,6 @@ related_persons:
   - "[[Bob Lingard]]"
   - "[[Sigrid Hartong]]"
   - "[[Nikolas Rose]]"
-  - "[[Richard Münch]]"
 related_facts:
   - "[[CREATES Project]]"
   - "[[OECD]]"
@@ -162,8 +161,8 @@ updated: 2026-11-21
 > [!claim] Grek, S. & Russell, I. (2024)
 > **质保元标准作为跨国通约的公分母机制** 索蒂里亚·格雷克与伊恩·拉塞尔论证指出，跨国教育治理中的通约实践不仅涵盖 PISA 等数值测验量表，更深度依托质性元规范实现制度通约。在欧洲高等教育区建设中，《[[European Standards and Guidelines|欧洲高等教育区质量保障标准与准则]]》（[[European Standards and Guidelines|ESG]]）充当了将 49 个成员国高度异质的质保传统转化为共有尺度的通约公分母。依托[[European Quality Assurance Register for Higher Education|欧洲高等教育质量保障注册局]]（[[European Quality Assurance Register for Higher Education|EQAR]]）与外部质保结果数据库（[[Database of External Quality Assurance Results|DEQAR]]），不同国家大学的内部治理与办学资质被统一折算为可跨境查验与免检对标的标准化记录，从而在缺乏超国家行政集权的前提下，构建起支撑全欧文凭自动互认的等值空间。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024)]]
 
-> [!claim] [[Richard Münch|Münch, R.]]
-> **通用人力资本通约对深度教化传统的制度侵蚀** 理查德·明希（[[Richard Münch]]）剖析德国案例指出，经合组织推行的人力资本范式将教育彻底降格为经济劳动力要素投入，极力建构即时、通用且可跨国通约的技能指标体系。这一通约机制与德国重视理论推导、哲学思考与多学科深厚涵育的洪堡式教化（[[Bildung]]）传统产生剧烈碰撞，不仅未能提高实际教育质量，反而通过将长效学术素养削足适履地通约为短期应试技能，加剧了学校体系的功利主义异化。[[Argument_Munch_2014_TCR|(Münch, 2014, pp. 2–3, 10–13)]]
+> [!claim] Münch, R.
+> **通用人力资本通约对深度教化传统的制度侵蚀** 理查德·明希（Richard Münch）剖析德国案例指出，经合组织推行的人力资本范式将教育彻底降格为经济劳动力要素投入，极力建构即时、通用且可跨国通约的技能指标体系。这一通约机制与德国重视理论推导、哲学思考与多学科深厚涵育的洪堡式教化（[[Bildung]]）传统产生剧烈碰撞，不仅未能提高实际教育质量，反而通过将长效学术素养削足适履地通约为短期应试技能，加剧了学校体系的功利主义异化。[[Argument_Munch_2014_TCR|(Münch, 2014, pp. 2–3, 10–13)]]
 
 ---
 
@@ -263,7 +262,6 @@ updated: 2026-11-21
 > | [[International Large-Scale Assessments]] | 概念 | 依赖数量通约技术建立全球统一学生能力标尺的大规模测评制度。 |
 > | [[Goodhart's Law]] | 概念 | 揭示通约指标一旦与高利害问责刚性挂钩便诱发策略性博弈与目标置换的规律。 |
 > | [[Alain Desrosières]] | 人物 | 统计社会学家，在《大数的政治》中阐释大规模统计与等值空间建构。 |
-> | [[Richard Münch]] | 人物 | 剖析德国教化传统与经合组织人力资本通用通约冲突的社会学家。 |
 
 ---
 

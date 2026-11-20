@@ -8,7 +8,7 @@ aliases:
 summary: "先完整论述古典哲学层面（杜威等的经验、探究与行动后果），再阐述延伸出的研究方法论层次（混合方法研究的问题驱动与方法自由），并剖析跨国治理中将教育窄化为绩效精算的实用主义范式与紧迫实用主义认知盲区。"
 type: concept
 domain: "educational-philosophy"
-related_count: 73
+related_count: 75
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -80,7 +80,6 @@ related_persons:
   - "[[Jason Beech]]"
   - "[[Herbert Hoover]]"
   - "[[Alexander Karp]]"
-  - "[[Richard Münch]]"
 related_facts:
   - "[[OECD]]"
   - "[[World Bank]]"
@@ -250,8 +249,8 @@ updated: 2026-11-21
 > [!claim] [[Jason Beech|Beech, J.]]
 > **紧迫实用主义驱动的过度简化与话语盲区** 杰森·比奇（Jason Beech）深入剖析跨国多边机构在生成[[Global Educational Discourse|全球教育话语]]时的认知机制，指出以[[World Bank|世界银行]]、经合组织与[[UNESCO|联合国教科文组织]]为代表的国际组织，其政策干预受制于强烈的“紧迫实用主义（urgent pragmatism）”与[[Educational Meliorism|改良主义]]行动逻辑。面对在短周期内交付“见效且具实操性”政策处方的行政压力，国际机构将原本复杂的全球学术理论深度删剪与过度简化为标准化的五大支柱模型。更为关键的是，这种对紧迫实用主义的执着使国际机构陷入集体认知盲区，使其无法审视自身实践所依托的潜意识假设、熟悉概念与未经反思的思维方式，最终在自限[[Discursive Field|话语空间]]的同时，将全球教育改革锁死在排他性的技术官僚脚本之内。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 350–352)]]
 
-> [!claim] [[Richard Münch|Münch, R.]]
-> **英美实用主义基本技能取向对大陆教化传统的规制冲突** 理查德·明希（[[Richard Münch]]）揭示经合组织 PISA 测评内嵌的实用主义范式具有鲜明的英美文化特殊性：它将考核重点窄化为日常生活情境中的基础读写算与即时应用技能，完全脱离了德国重视学科独立体系、理论推导深度与文学人文熏陶的洪堡式教化（[[Bildung]]）大纲。明希实证指出，跨国排位高低仅反映了考题与特定国别课程大纲的贴近度，而非系统长远学术后劲；超国家机构将英美实用主义技能范式强行塑造成全球唯一通用的“现代教育标准”，在大陆教育体系中催生出课程麦当劳化与深层制度混杂。[[Argument_Munch_2014_TCR|(Münch, 2014, pp. 10–13, 21–22)]]
+> [!claim] Münch, R.
+> **英美实用主义基本技能取向对大陆教化传统的规制冲突** 理查德·明希（Richard Münch）揭示经合组织 PISA 测评内嵌的实用主义范式具有鲜明的英美文化特殊性：它将考核重点窄化为日常生活情境中的基础读写算与即时应用技能，完全脱离了德国重视学科独立体系、理论推导深度与文学人文熏陶的洪堡式教化（[[Bildung]]）大纲。明希实证指出，跨国排位高低仅反映了考题与特定国别课程大纲的贴近度，而非系统长远学术后劲；超国家机构将英美实用主义技能范式强行塑造成全球唯一通用的“现代教育标准”，在大陆教育体系中催生出课程麦当劳化与深层制度混杂。[[Argument_Munch_2014_TCR|(Münch, 2014, pp. 10–13, 21–22)]]
 
 > [!citation-card] 比奇论国际组织的紧迫实用主义与话语自限
 > 国际机构对紧迫实用主义问题的关注，使其无法看清自身的实践究竟建立在何种假设、熟悉观念以及确立已久且未经检视的思维方式之上。通过这种方式，国际机构限制了自身的话语空间。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 350)]]
@@ -283,7 +282,7 @@ updated: 2026-11-21
 
 ---
 
-> [!debates] 学术争议
+> [!debates|notitle] 学术争议
 >
 > > [!axis] [[Incommensurability|范式不可通约性]]与方法论折中主义（方法论层次）
 > > 传统[[Positivism|实证主义]]与[[Constructivist Paradigm|建构主义]]学者质疑[[Mixed Methods Research|混合方法]]是否打破了库恩[[Paradigm|范式]]的不可[[Commensuration|通约]]性（Incommensurability），担心将不同[[Ontology|本体论假设]]混用会导致逻辑不自洽。
@@ -301,6 +300,12 @@ updated: 2026-11-21
 > >
 > > - **技术官僚治理取向** 强调依托量化指标与实用技能干预，以“行之有效（What works）”解决劳动力市场匹配与公共治理问责问题。
 > > - **批判政策社会学取向（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）** 指责这种实用主义范式遮蔽了关于教育公共善与社会平等的深层政治决断，将教育降格为服务资本竞争的技术工具。
+>
+> > [!axis] 英美实用主义基本技能范式 vs 大陆深度教化（Bildung）传统
+> > 围绕跨国测评所锚定的实用主义生活技能取向，究竟是面向未来的通用核心素养，还是对理论深度与学科体系的功利主义矮化展开交锋。
+> >
+> > - **跨国实用主义素养取向（OECD / PISA 立场）** 主张教育必须面向真实生活与工作情境，将考核重点置于实用读写算与跨情境问题解决能力。
+> > - **大陆人文主义与教化哲学取向（[[Argument_Munch_2014_TCR|Münch, 2014]]）** 指出英美实用主义将教育窄化为浅层即用工具，侵蚀了注重系统学科理论、哲学反思与文学陶冶的长期教化根基，使跨国排位沦为考题与英美实用课纲贴近度的片面测量。
 
 > [!warning|limits] 适用局限
 > 实用主义有别于无原则的“怎么都行”（Anything Goes）；它不能替代研究者对价值立场、[[Research Ethics|研究伦理]]与权力关系的审视，亦无法消除方法实施本身的质量缺陷。（Denscombe, 2008；[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p. 622]]）
@@ -335,7 +340,8 @@ updated: 2026-11-21
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 追踪实用主义范式在建国后中国教育政治[[Discourse|话语]]中的三重变形。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 451–452)]] — 揭示[[OECD|经合组织]]如何将教育治理窄化为劳动力技能核算的实用主义范式，遮蔽教育的民主与伦理目的。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 剖析国际多边机构在生成[[Global Educational Discourse|全球教育话语]]时的“紧迫实用主义（urgent pragmatism）”与行动改良逻辑，揭示其过度简化机制与[[Epistemology|认识论]]盲区（pp. 350–352）。
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 探讨实用主义哲学（杜威《实用主义美国》）对现代[[Engineering Mindset|工程思维]]与反教条经验[[Epistemology|认识论]]的奠基（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]]）。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 探讨实用主义哲学（杜威《实用主义美国》）对现代[[Engineering Mindset|工程思维]]与反教条经验[[Epistemology|认识论]]的思想源流（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]]）。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 援引杜威论证实证证据仅是明智探究的假设而非行动铁律，批判将量化[[Effect Size|效应量]]排名[[Alienation|异化]]为技术统治处方的做法（pp. 93, 104）。
+> - [[Argument_Munch_2014_TCR|Münch (2014)]] — 揭示 PISA 测评内嵌的英美实用主义基本技能取向如何与德国重视理论深度、文学熏陶与学科自主的教化传统发生规制冲突。
 > - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 分析新加坡[[Developmental State|发展型国家]]教育治理中的“实用主义范式”，揭示政策在吸纳全球 21 世纪素养与保持应试分流双轨之间达成的精明平衡。
 
