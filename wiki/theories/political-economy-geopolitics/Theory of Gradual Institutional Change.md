@@ -93,13 +93,14 @@ updated: 2026-11-19
 > - **形成路径** 首先将制度界定为依赖第三方强制力的社会规制体系，揭示规则设计与基层落实之间的结构性张力，建构过程（渐进/突发）与结果（延续/断裂）的二维属性矩阵，提炼五大渐进演进形态；随后引入微观行动者遵从博弈与否决点环境，形成完整的中观解释理论。
 
 > [!dev-timeline] 理论演进与学术扩展
-> - **2005 年 — 经验形态学奠基** 施特雷克与希伦打破间断均衡二元对立，正式提出渐进制度变迁形态学，系统界定置换（[[Institutional Displacement|displacement]]）、分层（[[Institutional Layering|layering]]）、漂移（Drift）、转换（conversion）与耗竭（[[Institutional Exhaustion|exhaustion]]）五大机制，揭示资本主义[[Liberalization|自由化]]如何以渐进演变为特权推进路径。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 18–34)]]
+> - **2005 年 — 经验形态学确立** 施特雷克与希伦打破间断均衡二元对立，正式提出渐进制度变迁形态学，系统界定置换（[[Institutional Displacement|displacement]]）、分层（[[Institutional Layering|layering]]）、漂移（Drift）、转换（conversion）与耗竭（[[Institutional Exhaustion|exhaustion]]）五大机制，揭示资本主义[[Liberalization|自由化]]如何以渐进演变为特权推进路径。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 18–34)]]
 > - **2009 年 — 因果建模与行动者整合** 马奥尼与希伦建构“[[Veto Possibilities|否决可能性]] × [[Enforcement Discretion|执行裁量权]]”二维因果矩阵，将[[Insurrectionaries|起义者]]、[[Subversives|颠覆者]]、[[Symbionts|共生者]]与[[Opportunists|机会主义者]]四类变革行动者及同盟动力学引入模型，确立中观因果解释规范。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 1–37)]]
 > - **2011 年 — [[Policy Science in Comparative Education|政策科学]]对话与指标审视** 耶龙·[[Jeroen van der Heijden|范德海登]]（Jeroen van der Heijden）系统梳理六十年期刊[[Document|文献]]，指出经验研究常将制度适应性再生产误判为渐进变迁，提出通过被添加的行动者与规制工具[[Variable|变量]]精确测量制度层叠，搭建起渐变模型与突变模型的微观桥梁。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 9–16)]]
+> - **2022 年 — 双元制职教在技术冲击下的渐进层叠与转换** [[Argument_Hippach-Schneider_Rieder_2022_RCIE|Hippach-Schneider and Rieder (2022)]] 运用渐进制度变迁理论，揭示德瑞两国双元制技能系统面对工业 4.0 颠覆性技术冲击时，通过国家战略附加与能力中心构建（[[Institutional Layering|制度层叠]]）以及将传统培训条例引向数字化技能（[[Institutional Conversion|制度转换]]），在未发生根本性体制断裂的前提下实现系统的适应性韧性存续。
 
 ---
 
-> [!entry-map] 关键概念与理论构件
+> [!theory-constructs] 关键概念与理论构件
 > | 构件 | 类型 | 在理论中的功能 |
 > |:---|:---|:---|
 > | **社会规制体系**<br>Social Regimes | 核心本体 | 将制度界定为由规则制定者、遵守者与行使强制力的第三方共同构成的权力规制网络。（[[Argument_Streeck_Thelen_2005_OUP\|Streeck & Thelen, 2005, pp. 11–14]]） |
@@ -116,7 +117,7 @@ updated: 2026-11-19
 ---
 
 > [!theory-proposition] 命题一｜制度稳定性依赖持续政治动员，内生分配冲突构成变迁源泉
-> 制度绝非技术中立的协调工具或自发运转的静态均衡，而是承载不对称资源配置的权力分配体系。制度在创制之初就凝固了获益者与受损者的权力妥协；制度获益者必须在日常政治中持续投入动员资源以压制异议，制度稳定本质上是处于动态紧张中的平衡状态。权力对比的微小变动随时会打破这一平衡，为制度注入持续的内生变迁动力。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 9–11)]]; [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 7–10)]]
+> 制度是承载不对称资源配置与权力分配后果的规制体系。制度在创制之初就凝固了获益者与受损者的权力妥协；制度获益者必须在日常政治中持续投入动员资源以压制异议，制度稳定本质上是处于动态紧张中的平衡状态。权力对比的微小变动随时会打破这一平衡，为制度注入持续的内生变迁动力。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 9–11)]]; [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 7–10)]]
 
 > [!example|notitle]
 > 印度尼西亚苏哈托威权统治的维系依赖于对军队与官僚网络的持续利益输送与动态平衡；当 1997 年金融危机削弱其收买动员能力时，被剥夺独立治理能力的制度体系迅速发生内生崩塌。（示例：苏哈托政权维系分析，Mahoney & Thelen, 2009, pp. 9–10）
@@ -143,7 +144,7 @@ updated: 2026-11-19
 > 建立非市场化的集体规制制度，需要克服严重的搭便车困境，动员全社会克服阻力服从统一的呼吁逻辑（Voice）；而推进自由化改革只需向微观个体提供一个私有市场替代选项，行动者自利最大化的退出逻辑（Exit）便会自动瓦解既有集体制度。这种集体行动门槛的非对称性，使置换、分层、漂移、转换与耗竭五大机制成为当代西方资本主义国家深入推进[[Neoliberalism|新自由主义]]市场重塑的默认优势路径。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 31–34)]]
 
 > [!example|notitle]
-> 美国反对公共养老金的保守派政客并未正面发起废除社会保障的立法决战，而是分层增设 401(k) 计划与个人退休账户（[[International Reading Association|IRA]]）；私人账户的爆炸性增长迅速吸引了中产阶级，通过市场退出机制顺水推舟地削弱了对公共社保的政治拥护。（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005, pp. 22–23]], 33）
+> 美国反对公共养老金的保守派政客规避正面废除社会保障的立法对抗，策略性地分层增设 401(k) 计划与个人退休账户（[[International Reading Association|IRA]]）；私人账户的爆炸性增长迅速吸引了中产阶级，通过市场退出机制顺水推舟地削弱了对公共社保的政治拥护。（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005, pp. 22–23]], 33）
 
 > [!logic-map]- 渐进制度变迁理论的因果传导全景
 > ```mermaid
@@ -161,7 +162,7 @@ updated: 2026-11-19
 
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 解释某项正式制度为何在没有经历重大政权崩溃、战争或突发大危机的常态时期，其治理职能、执行效力与权力资源分配格局发生了根本性质变。
-> - **分析对象与单位** 国家成文法律、宪制规约、监管体系、社会福利与技能培训制度；[[Unit of Analysis|分析单位]]为中观制度安排及其嵌入的政治利益行动者网络。
+> - **分析对象与单位** 国家成文法律、宪法规范、监管体系、社会福利与技能培训制度；[[Unit of Analysis|分析单位]]为中观制度安排及其嵌入的政治利益行动者网络。
 > - **需要的材料** 立法与议会辩论档案、司法判决文书演进记录、行政自由裁量指导细则、利益集团游说备忘录、长时段预算拨款与社会统计指标。
 > - **解释目标** 准确判定变迁属于置换、分层、漂移、转换还是耗竭；识别人权博弈中的主导行动者策略及其联盟形态；评估否决点与裁量缝隙对变迁路径的塑造作用。
 

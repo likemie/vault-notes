@@ -1490,6 +1490,7 @@
     "BLV (2013)": "BLV, 2013",
     "BLV, 2013": "BLV, 2013",
     "BMBF (2007)": "BMBF, 2007",
+    "BMBF (2013)": "BMBF, 2013",
     "BMBF (2015a)": "BMBF, 2015a",
     "BMBF (2015b)": "BMBF, 2015b",
     "BMBF (2016)": "BMBF, 2016",
@@ -1500,6 +1501,8 @@
     "BMBF (2024a)": "BMBF, 2024a",
     "BMBF (2024b)": "BMBF, 2024b",
     "BMBF, 2007": "BMBF, 2007",
+    "BMBF, 2013": "BMBF, 2013",
+    "BMBF, 2013a": "BMBF, 2013",
     "BMBF, 2015a": "BMBF, 2015a",
     "BMBF, 2015b": "BMBF, 2015b",
     "BMBF, 2016": "BMBF, 2016",
@@ -5672,6 +5675,8 @@
     "Couldry, 2003": "Couldry, 2003",
     "Council of the EU (2001)": "Council of the EU, 2001",
     "Council of the EU, 2001": "Council of the EU, 2001",
+    "Council of the European Union (2013)": "Council of the European Union, 2013",
+    "Council of the European Union, 2013": "Council of the European Union, 2013",
     "Courtney (2007)": "Courtney, 2007",
     "Courtney, 2007": "Courtney, 2007",
     "Courtois & Veiga (2022)": "Courtois & Veiga, 2022",
@@ -28811,6 +28816,8 @@
     "克鲁格与德尼西, 1996": "克鲁格与德尼西, 1996",
     "公共外交与发展援助视角 (2021)": "公共外交与发展援助视角, 2021",
     "公共外交与发展援助视角, 2021": "公共外交与发展援助视角, 2021",
+    "公报 (2012)": "公报, 2012",
+    "公报, 2012": "公报, 2012",
     "公法与地方分权批评者 (2013)": "公法与地方分权批评者, 2013",
     "公法与地方分权批评者, 2013": "公法与地方分权批评者, 2013",
     "共和主义平权论 (2005)": "共和主义平权论, 2005",
@@ -40351,6 +40358,21 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Grek_2009_JEdPolicy.md",
         "wiki/facts/germany/Federal Ministry of Education and Research.md"
+      ],
+      "title": ""
+    },
+    "BMBF, 2013": {
+      "aliases": [
+        "BMBF, 2013",
+        "BMBF (2013)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "BMBF, 2013a"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
       ],
       "title": ""
     },
@@ -71055,6 +71077,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/eu/Education and Training 2010.md"
+      ],
+      "title": ""
+    },
+    "Council of the European Union, 2013": {
+      "aliases": [
+        "Council of the European Union, 2013",
+        "Council of the European Union (2013)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Council of the European Union, 2013"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
       ],
       "title": ""
     },
@@ -239340,6 +239377,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/china/Belt and Road Education Action Plan.md"
+      ],
+      "title": ""
+    },
+    "公报, 2012": {
+      "aliases": [
+        "公报, 2012",
+        "公报 (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "公报, 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
       ],
       "title": ""
     },
