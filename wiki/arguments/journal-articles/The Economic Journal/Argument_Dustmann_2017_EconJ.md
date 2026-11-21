@@ -21,22 +21,33 @@ tags:
   - region/germany
 related_concepts:
   - "[[Tracking]]"
-  - "[[Tripartite School System]]"
   - "[[Educational Permeability]]"
-  - "[[Academic Achievement]]"
+  - "[[Paradigm]]"
+  - "[[Tripartite School System]]"
   - "[[Variable]]"
+  - "[[Operationalization]]"
   - "[[Construct]]"
+  - "[[Academic Achievement]]"
+  - "[[Apprenticeship]]"
+  - "[[Heterogeneity]]"
+  - "[[Learning Economy]]"
+  - "[[Educational Level]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
+  - "[[Natural Experiment]]"
+  - "[[Sample Size Determination]]"
   - "[[Regression Discontinuity Design]]"
+  - "[[Analytic Framework]]"
   - "[[Ordinary Least Squares]]"
+  - "[[Standard Error]]"
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
-related_arguments:
-  - "[[Argument_Ertl_2006_ORE]]"
+  - "[[Hauptschule]]"
+  - "[[German Dual Education System]]"
+  - "[[PISA]]"
+related_arguments: []
 sources:
   - "[[sources/Dustmann_2017_EconJ/Dustmann_2017_EconJ|Dustmann_2017_EconJ]]"
 part_of:
@@ -49,9 +60,9 @@ title: "Argument_Dustmann_2017_EconJ"
 argument_key: "Argument_Dustmann_2017_EconJ"
 argument_display_title: "The long-term effects of early track choice"
 argument_kind: "journal-article"
-argument_related_count: 11
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 22
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "The Economic Journal"
 book_title: ""
@@ -63,15 +74,15 @@ issuing_organization: ""
 ---
 
 > [!question]
-> 中等教育早期分轨（Tracking at age 10）将学生长期隔离于同伴学术水平、师资资质与课程难度差异显著的不同学校环境，是否会对处于分流临界线上的边缘学生（Marginal Students）造成不可逆的长期成人福利损害？学制内部在初中毕业后提供的转轨通道能否有效纠正早期信息不完全导致的资源错配？
+> 中等教育早期分轨（[[Tracking]] at age 10）将学生长期隔离于同伴学术水平、师资资质与课程难度差异显著的不同学校环境，是否会对处于分流临界线上的边缘学生（Marginal Students）造成不可逆的长期成人福利损害？学制内部在初中毕业后提供的转轨通道能否有效纠正早期信息不完全导致的资源错配？
 
 > [!claim] 核心主张
-> 基于德国法定小学入学截止日期的拟自然实验证实，10 岁早期分选虽在初中阶段造成了显著的轨道锁定，但对边缘学生的长期劳动力市场结果（经验校正对数工资、就业天数与失业率）及最终完成学业层次均未造成显著因果惩罚或溢价；德国中等教育体系在初中阶段后制度化供给的升轨（尤其是专科高级中学）与降轨通道，通过向后延期选择并纠正初始配置偏差，完全化解了早期分轨的长期不利影响。
+> 基于德国法定小学入学截止日期的拟[[Natural Experiment|自然实验]]证实，10 岁早期分选虽在初中阶段造成了显著的轨道锁定，但对边缘学生的长期劳动力市场结果（经验校正对数工资、就业天数与失业率）及最终完成学业层次均未造成显著因果惩罚或溢价；德国中等教育体系在初中阶段后制度化供给的升轨（尤其是专科高级中学）与降轨通道，通过向后延期选择并纠正初始配置偏差，完全化解了早期分轨的长期不利影响。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 德国联邦统计局微观普查（Microcensus 1976–1987，样本量 37,808 人）、德国社会保障管理数据库（Social Security Records / IABS，追踪 1961–1976 年出生男性至 30–47 岁，工时记录逾 3,700 万条），以及巴伐利亚与黑森州学校普查档案（School Census，样本量达 99 万人）。
+> - **对象** 德国联邦统计局微观普查（Microcensus 1976–1987，样本量 37,808 人）、德国社会保障管理数据库（Social Security Records / IABS，追踪 1961–1976 年出生男性至 30–47 岁，工时记录逾 3,700 万条），以及巴伐利亚与黑森州学校普查档案（School Census，[[Sample Size Determination|样本量]]达 99 万人）。
 > - **张力** 分轨倡导者的“适性因材施教与生产效率假说”与批评者的“早期错配放大与阶层固化假说”；既有研究多局限于短期测试分数或包含严重能力自选择的高低轨横截面对比，缺乏对边缘群体长期成人福利因果效应与学制转轨弹性的识别。
-> - **贡献** 首次在世界上早期分轨最为严苛的学制情境中，利用基于入学年龄截止日的[[Regression Discontinuity Design|断点回归设计（Regression Discontinuity Design, RDD）]]估计出早期分流对边缘群体的长期因果效应（Local Average Treatment Effect, LATE）；实证确立了初中后“逆向转轨”（Track Reversal）对纠正初始错配的制度功能，提出了将[[Educational Permeability|学制通透性（Educational Permeability）]]作为评估分轨制度核心基准的分析范式。
+> - **贡献** 首次在世界上早期分轨最为严苛的学制情境中，利用基于入学年龄截止日的[[Regression Discontinuity Design|断点回归设计]]（Regression Discontinuity Design, RDD）估计出早期分流对边缘群体的长期因果效应（Local Average Treatment Effect, LATE）；实证确立了初中后“逆向转轨”（Track Reversal）对纠正初始错配的制度功能，提出了将[[Educational Permeability|学制通透性]]（Educational Permeability）作为评估分轨制度核心基准的分析[[Paradigm|范式]]。
 
 ---
 
@@ -79,20 +90,20 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **学力分轨制**<br>[[Tracking]] | 依据早期能力评估将学生分流至不同难度课程轨道的制度安排；由于 10 岁儿童学术潜能信息高度不完备，早期分轨存在显著的边际学生错配风险。 |
-> | **三轨学制**<br>[[Tripartite School System]] | 德国中等教育将学生分流至文法中学（Gymnasium）、实科中学（Realschule）与主要中学（Hauptschule）的组织实体，各轨在初中阶段教学目标与同伴构成高度分化。 |
+> | **三轨学制**<br>[[Tripartite School System]] | 德国中等教育将学生分流至文法中学（Gymnasium）、实科中学（Realschule）与[[Hauptschule\|主要中学]]（Hauptschule）的组织实体，各轨在初中阶段教学目标与同伴构成高度分化。 |
 > | **教育通透性**<br>[[Educational Permeability]] | 中等教育中后期允许学生跨轨流动与文凭补修的制度弹性，通过专科高级中学（Fachoberschule）等通道为错配学生提供二次校正机制。 |
 > | **人力资本理论**<br>[[Human Capital Theory]] | 检验早期优势轨道所提供的额外课程暴露与同伴溢价能否转化为成人劳动力市场中持久的生产力与工资优势。 |
 
 > [!warrant]- 理论如何支撑论证
-> 传统分流理论预设早期环境暴露具有累积乘数效应，低轨学生遭遇的教学降阶与同伴劣势会永久固化为其人力资本缺陷；引入学制通透性分析框架后，当个体真实学术能力随生理发育与认知成熟在初中后期逐步显现时，系统内部设立的延迟流转通道使被错配的边缘学生能够重新向高阶轨道回流，从而在制度层面截断了早期环境劣势向成年劳动力市场结果的因果传导链条。
+> 传统分流理论预设早期环境暴露具有累积乘数效应，低轨学生遭遇的教学降阶与同伴劣势会永久固化为其人力资本缺陷；引入学制通透性[[Analytic Framework|分析框架]]后，当个体真实学术能力随生理发育与认知成熟在初中后期逐步显现时，系统内部设立的延迟流转通道使被错配的边缘学生能够重新向高阶轨道回流，从而在制度层面截断了早期环境劣势向成年劳动力市场结果的因果传导链条。
 
 ### 核心变量与操作化编码表（仅量化研究填写）
 
-> [!index-table] 核心变量操作化定义与编码规程
+> [!index-table] 核心[[Variable|变量]][[Operationalization|操作化]]定义与编码规程
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
 > | **长期劳动力市场产出**<br>（Long-Term Labor Outcomes） | 衡量成年期人力资本存量与经济产出的客观指标，涵盖对数日薪、终身就业稳定性与职业声望。 | 采用社会保障管理数据库提取的 30 岁以上男性全职对数日薪，应用[[Ordinary Least Squares\|普通最小二乘法（OLS）]]拟合四次经验多项式剥离潜在工作经验影响；同时测算进入劳动力市场后的工作天数比例、失业天数比例及白领职位虚拟变量。 |
-> | **最终完成教育程度**<br>（Highest Degree Completed） | 衡量个体跨越整个受教育生命周期最终达成的正规资质层级，反映长期学业成就积累。 | 划分为三个互斥类别：无中等后正规学历（No Post-secondary）、完成双元制职业学徒培训或同等资质（Apprenticeship）、完成应用科学大学或综合性大学本科及以上学业（College or University）。 |
+> | **最终完成教育程度**<br>（Highest Degree Completed） | 衡量个体跨越整个受教育生命周期最终达成的正规资质层级，反映长期[[Academic Achievement\|学业成就]]积累。 | 划分为三个互斥类别：无中等后正规学历（No Post-secondary）、完成[[German Dual Education System\|双元制]]职业[[Apprenticeship\|学徒培训]]或同等资质（Apprenticeship）、完成应用科学大学或综合性大学本科及以上学业（College or University）。 |
 > | **初中就读轨道分配**<br>（Middle School Track Assignment, $T_i$） | 个体在初中阶段所处的核心制度化学习环境，反映同伴学术质量、师资配备与课程难度暴露。 | 以 14 岁时在学校普查或微观普查中记录的就读学校类型为代理变量，划分为文法中学（High Track）、实科中学（Medium Track）与主要中学（Low Track）。 |
 > | **外生政策分配工具**<br>（School Entry Cut-off, $Z_i$） | 法定入学年龄阈值引发的外生年龄变异，构造拟自然实验的核心驱动变量。 | 以联邦各州规定的 6 月 30 日为入学基准截止日；7 月 1 日及之后出生的儿童须推迟一年入学，导致其在入学时具有更高的相对年龄与成熟度（$Z_i = 1$），6 月 30 日及之前出生的儿童相对低龄入学（$Z_i = 0$）。 |
 >
@@ -137,10 +148,10 @@ issuing_organization: ""
 ## 论证步骤
 
 > [!claim|step] 论证步骤一　德国学制轨间暴露差异悬殊且初中阶段转轨冻结，但法定入学截止日诱发了显著的轨道外生分配阶跃
-> 德国初中三轨学制在教学时数、同伴学术能力及师资资质上存在显著异质性，且初中阶段校际流动率极低；依据出生日期的法定入学截断规则使得年长入学的 7 月出生儿童进入高级轨道的概率显著高于 6 月出生的同龄人，构成了识别轨道暴露因果效应的外生准实验冲击。
+> 德国初中[[Tripartite School System|三轨学制]]在教学时数、同伴学术能力及师资资质上存在显著[[Heterogeneity|异质性]]，且初中阶段校际流动率极低；依据出生日期的法定入学截断规则使得年长入学的 7 月出生儿童进入高级轨道的概率显著高于 6 月出生的同龄人，构成了识别轨道暴露因果效应的外生准实验冲击。
 
 > [!sub-claim] 1. 轨间教学大纲、同伴学术水准与师资资质深度分化且初中校际流转近乎停滞
-> 德国在小学四年级末（约 10 岁）依据能力评估将学生分流至文法中学、实科中学与主要中学三轨。如表 1 所示，文法中学在九年级的每周授课时数达 36 小时，显著高于实科与主要中学的 32 小时，并在第二、第三外语及自然科学教学上投入显著更多课时；在国际学生评估项目（Programme for International Student Assessment, [[PISA]]）测验中，文法中学九年级学生的阅读与数学平均分比实科中学高出近 1 个标准差，比主要中学高出约 1.7 个标准差；文法中学教师的法定大学培养年限与起薪亦显著高于其余两轨。巴伐利亚与黑森州的学校普查数据表明，在初中 5 至 9 年级期间，跨轨转换学校的学生比例年均仅约 2%，各轨学生在长达 5 年的时间内稳定处于极为悬殊的微观教育环境中。
+> 德国在小学四年级末（约 10 岁）依据能力评估将学生分流至文法中学、实科中学与[[Hauptschule|主要中学]]三轨。如表 1 所示，文法中学在九年级的每周授课时数达 36 小时，显著高于实科与主要中学的 32 小时，并在第二、第三外语及自然科学教学上投入显著更多课时；在[[PISA|国际学生评估项目]]（Programme for International Student Assessment, [[PISA]]）测验中，文法中学九年级学生的阅读与数学平均分比实科中学高出近 1 个标准差，比主要中学高出约 1.7 个标准差；文法中学教师的法定大学培养年限与起薪亦显著高于其余两轨。巴伐利亚与黑森州的学校普查数据表明，在初中 5 至 9 年级期间，跨轨转换学校的学生比例年均仅约 2%，各轨学生在长达 5 年的时间内稳定处于极为悬殊的微观教育环境中。
 
 > [!figure]- 图 1：德国学制分流结构与转轨路径总览
 > ![](https://img.mylikemie.icu/sources/Dustmann_2017_EconJ/figures/Dustmann_2017_EconJ_Fig1_German_Education_System.jpg)
@@ -190,7 +201,7 @@ issuing_organization: ""
 > ![](https://img.mylikemie.icu/sources/Dustmann_2017_EconJ/figures/Dustmann_2017_EconJ_Fig4_Log_Wage_Differences_by_Age.jpg)
 
 > [!sub-claim] 2. 多重多项式控制与半参数估计一致证实初中轨道分配对成人劳动力市场产出的因果影响精确为零
-> 如表 3 所示，应用四次潜在经验多项式剥离经验差异后，简化式回归显示 7 月出生对日薪的影响系数在各模型设定下均精确收拢于零（系数位于 -0.0010 至 +0.0003 之间，标准误均为 0.0010，均未达到显著性水平）。表 4 的稳健性检验表明，无论改用经验哑变量非参数控制、将样本限定于 40 岁以上经验曲线完全平缓的群体，还是调整出生日期多项式阶数，经验校正工资差异均稳定保持在 0 附近；在劳动力市场参与度方面，出生日期对累计工作天数比例（系数介于 -0.0002 至 0.0006）、累计失业天数比例（系数为 0.0000 至 0.0001）以及从事白领职业概率（系数介于 -0.0016 至 0.0003）的估计值均在统计上高度不显著。
+> 如表 3 所示，应用四次潜在经验多项式剥离经验差异后，简化式回归显示 7 月出生对日薪的影响系数在各模型设定下均精确收拢于零（系数位于 -0.0010 至 +0.0003 之间，标准误均为 0.0010，均未达到显著性水平）。表 4 的稳健性检验表明，无论改用经验哑[[Variable|变量]]非参数控制、将样本限定于 40 岁以上[[Learning Economy|经验曲线]]完全平缓的群体，还是调整出生日期多项式阶数，经验校正工资差异均稳定保持在 0 附近；在劳动力市场参与度方面，出生日期对累计工作天数比例（系数介于 -0.0002 至 0.0006）、累计失业天数比例（系数为 0.0000 至 0.0001）以及从事白领职业概率（系数介于 -0.0016 至 0.0003）的估计值均在统计上高度不显著。
 
 > [!framework-table] 表 3：初中轨道分配对长期工资与劳动力市场产出的简化式估计结果
 > | 产出维度与模型设定 | （1）6–7月窗宽 无多项式 | （2）1–12月 5阶多项式 | （3）1–12月 6阶多项式 | （4）4–9月 2阶多项式 | （5）1–12月 两侧变斜率2阶 | （6）4–9月 两侧变斜率线性 |
@@ -205,7 +216,7 @@ issuing_organization: ""
 > | （iii）从事白领职业概率（White collar occupation） | -0.0005（0.0011） | 0.0001（0.0014） | 0.0002（0.0014） | -0.0016（0.0013） | 0.0003（0.0013） | -0.0016（0.0013） |
 
 > [!framework-table] 表 4：经验校正对数工资估计的函数形式与样本子集稳健性检验
-> | 估计模型与样本截面 | （1）基准 OLS 四次经验多项式 | （2）替代模型 潜在经验哑变量非参数控制 | （3）40岁以上样本 原始对数日薪差异 | （4）40岁以上样本 四次多项式经验校正 |
+> | 估计模型与样本截面 | （1）基准 [[Ordinary Least Squares\|OLS]] 四次经验多项式 | （2）替代模型 潜在经验哑变量非参数控制 | （3）40岁以上样本 原始对数日薪差异 | （4）40岁以上样本 四次多项式经验校正 |
 > |---|---|---|---|---|
 > | 7月出生 vs 6月出生估计系数 | -0.0010（0.0010） | -0.0009（0.0010） | 0.0000（0.0019） | -0.0002（0.0019） |
 
@@ -215,13 +226,13 @@ issuing_organization: ""
 > 初中毕业后的大规模转轨流转（尤其是专科高级中学与职业中学的升轨通道）使实科中学的边缘学生能够重新获得大学准入文凭，文法中学的错配学生亦自然分流，从而完全抹平了初中分轨对最终完成学历的长期因果影响。
 
 > [!sub-claim] 1. 专科高级中学的制度供给抹平了初中分轨导致的大学准入资格差异
-> 初中 9 年级与 10 年级结束后，学制体系为不同轨道的学生提供了系统的跨轨通道。如表 5 所示，在学校普查样本中，尽管 7 月出生相较 6 月出生在 14 岁就读文法中学的概率高出 5.2 个百分点，但到 22 岁时毕业于普通文法高中的落差已缩减至 2.0 个百分点；当进一步将面向实科中学毕业生的专科高级中学（Fachoberschule）纳入核算时，两组学生获得高级中学毕业文凭（具备高等教育入学资格）的差异变为 -0.001（标准误 0.005，完全归零）。这证实了以专科高级中学为代表的学制通透性结构完全吸收并纠正了初中时期的初始轨道错配。
+> 初中 9 年级与 10 年级结束后，学制体系为不同轨道的学生提供了系统的跨轨通道。如表 5 所示，在学校普查样本中，尽管 7 月出生相较 6 月出生在 14 岁就读文法中学的概率高出 5.2 个百分点，但到 22 岁时毕业于普通文法高中的落差已缩减至 2.0 个百分点；当进一步将面向实科中学毕业生的专科高级中学（Fachoberschule）纳入核算时，两组学生获得高级中学毕业文凭（具备高等教育入学资格）的差异变为 -0.001（[[Standard Error|标准误]] 0.005，完全归零）。这证实了以专科高级中学为代表的[[Educational Permeability|学制通透性]]结构完全吸收并纠正了初中时期的初始轨道错配。
 
 > [!figure]- 图 5：出生日期与文理中学高中阶段降轨分流的断点关系
 > ![](https://img.mylikemie.icu/sources/Dustmann_2017_EconJ/figures/Dustmann_2017_EconJ_Fig5_Date_of_Birth_and_Downgrading.jpg)
 
 > [!sub-claim] 2. 逆向流转机制阻断了早期轨道暴露向最终文凭分布的传导
-> 如图 6 与表 6 所示，以社会保障数据库全量样本考察最终完成的最高学历时，7 月出生与 6 月出生在未完成中等后教育的比例（系数约 0.0012）、完成双元制职业学徒培训的比例（系数为 0.0000）以及完成高等院校或应用科学大学本科学历的比例（系数约 -0.0012）上均未表现出统计或经济学意义上的显著差异。早期被分配至较低轨道的边缘学生充分利用后期的转轨弹性补齐了学业阶梯，打破了早期选拔对终身学历层次的刚性锁定。
+> 如图 6 与表 6 所示，以社会保障数据库全量样本考察最终完成的最高学历时，7 月出生与 6 月出生在未完成中等后教育的比例（系数约 0.0012）、完成[[German Dual Education System|双元制]]职业[[Apprenticeship|学徒培训]]的比例（系数为 0.0000）以及完成高等院校或应用科学大学本科学历的比例（系数约 -0.0012）上均未表现出统计或经济学意义上的显著差异。早期被分配至较低轨道的边缘学生充分利用后期的转轨弹性补齐了学业阶梯，打破了早期选拔对终身[[Educational Level|学历层次]]的刚性锁定。
 
 > [!figure]- 图 6：出生日期与最终完成教育层次分布的断点关系（Panel A 无中等后学历、Panel B 学徒制、Panel C 大学）
 > ![](https://img.mylikemie.icu/sources/Dustmann_2017_EconJ/figures/Dustmann_2017_EconJ_Fig6_Date_of_Birth_and_Completed_Education.jpg)
@@ -260,7 +271,7 @@ issuing_organization: ""
 
 ---
 
-> [!citation-card] 转轨弹性与分轨制评估基准
+> [!citation-card] 转轨弹性与[[Tracking|分轨制]]评估基准
 > 评估分轨学制的核心依据应当是其是否具备内置的自我修正机制，使系统能够在个体真实能力与潜质显现时纠正早期的不当分配。
 >
 > *These findings emphasise a core aspect of the basis on which tracking systems should be assessed: the built-in possibilities to correct earlier allocations at a stage when more information is revealed about a student’s true potential.*

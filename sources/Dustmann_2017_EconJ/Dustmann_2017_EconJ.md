@@ -1,6 +1,7 @@
 ---
 citation: "Dustmann, C., Puhani, P. A., & Schönberg, U. (2017). The long-term effects of early track choice. The Economic Journal, 127(603), 1348–1380. https://doi.org/10.1111/ecoj.12419"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Dustmann_2017_EconJ]]"
 processed_date: 2026-11-21
 ---
 

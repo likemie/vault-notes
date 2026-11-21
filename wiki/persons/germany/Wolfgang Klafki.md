@@ -51,6 +51,7 @@ related_arguments:
   - "[[Argument_Schaffar_2024_CogentEdu]]"
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Hopmann_2007_EERJ]]"
+  - "[[Argument_Ertl_2006_ORE]]"
 related_theories:
   - "[[Critical Theory]]"
   - "[[Phenomenology]]"
@@ -131,13 +132,14 @@ updated: 2026-11-20
 > [!influence-path] 影响路径
 > - **理论路径** 创立“批判建设性教学论”，将法兰克福学派[[Critical Theory|批判理论]]引入传统的德国[[Geisteswissenschaften|精神科学]]教学论，使教学论转变为反思社会权力结构与促成个体解放的理论载体；提出由自我决定、共同参与和团结互助组成的三维素养构架，在德语教育学中展现出深远开拓性。
 > - **方法路径** 确立教学分析（Didaktische Analyse）操作框架，提供在维护学科逻辑严谨性的同时开展跨学科整合的课程甄选工具。主持马尔堡小学实验项目（Marburger Grundschulprojekt，1972 年起），推进常识课整合课程与教育学[[Action Research|行动研究]]（Handlungsforschung）实践。
-> - **政策路径** 深度参与黑森州课程指南（Hessische Rahmenrichtlinien）与北莱茵-威斯特法伦州教育委员会报告的研制；时代关键问题理念成为芬兰[[Phenomenon-Based Learning|现象本位学习]]（PhBL）政策的核心哲学基础。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 6–7, 10]]
+> - **政策路径** 深度参与黑森州课程指南（Hessische Rahmenrichtlinien）与北莱茵-威斯特法伦州教育委员会报告的研制；其实质教学论传统将教学内容选择与教学分析置于核心，构成 1960 至 1970 年代西德各州教学大纲（Lehrpläne）的主干，直至 PISA 冲击后受到以产出为导向的实证国家标准的系统挑战（[[Argument_Ertl_2006_ORE|Ertl, 2006, pp. 624–625]]）；时代关键问题理念亦成为芬兰[[Phenomenon-Based Learning|现象本位学习]]（PhBL）政策的核心哲学基础（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 6–7, 10]]）。
 > - **跨国／跨领域传播** 思想广泛辐射至北欧教师教育与课程改革。1970 年代丹麦学者重读克拉夫基以反对威权灌输式教学，推进以学生为中心的[[Reform Pedagogy|改革教育学]]实验校建设；在当代芬兰与瑞典课程论研究中，持续作为抗衡技能碎片化与标准主义控制的理论资源。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 8)]]
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Schaffar_2024_CogentEdu|Schaffar and Wolff (2024)]] — 追溯芬兰现象本位学习的哲学根源，阐释克拉夫基时代关键问题框架如何支撑跨学科课程在保持学科深度的同时抵御技能原子化。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 考掘 1970 年代丹麦教育学界重读克拉夫基以反思威权灌输、探索民主改革教育学实验的本土历史经验。
 > - [[Argument_Hopmann_2007_EERJ|Hopmann (2007)]] — 从克制型教学视阈阐明克拉夫基范畴教学论的辩证世界敞开机制，确立其为当代德语教师教育中连接教学克制与教化生成的代表理论。
+> - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 阐释克拉夫基实质教学论传统对 1960 至 1970 年代德国各州教学大纲的核心塑造，及其在 PISA 冲击后直面英美行为主义能力标准冲击时的认识论张力。
 
 ---
 

@@ -1467,6 +1467,14 @@
     {
       "sentence": "*As the participation in the school types of the tripartite system shows a clear social selectivity (children from well-off families are much more likely to go to the Gymnasium), selectivity in terms of pupils’ achievement, which is the primary rationale of the tripartite system, is being overshadowed by selectivity in terms of pupils’ socio-economic backgrounds.*",
       "target": "wiki/concepts/political-economy-geopolitics/Selectivity.md"
+    },
+    {
+      "sentence": "阐明以内容分析和自主人格陶冶为核心的传统普通教学论，与以心理测量和因果干预为核心的实证课堂教学研究之间的认识论分野。",
+      "target": "wiki/methods/qualitative/Content Analysis.md"
+    },
+    {
+      "sentence": "由基尔大学莱布尼茨科学与数学教育研究所（Leibniz Institute for Science and Mathematics Education, IPN）主持并在全德逾千所中小学落地的提高数理教学效率（Increasing the Efficiency of Mathematics and Science Instruction, SINUS）试点工程，依据实证研究成果系统重塑课堂探究情境，改善学生的数学与科学认知激活水平（IPN, 2004）。",
+      "target": "wiki/persons/germany/Gottfried Wilhelm Leibniz.md"
     }
   ]
 }

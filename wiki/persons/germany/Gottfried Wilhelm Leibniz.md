@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-11-14"
-updated: 2026-11-16
+updated: 2026-11-21
 ---
 
 ---
@@ -99,8 +99,7 @@ updated: 2026-11-16
 ---
 
 > [!influence-path] 影响路径
-> - **早期美学奠基路径** “清晰而混乱的认识”与“说不清道不明”成为鲍姆嘉通建立感性认识科学和审美真理的直接出发点。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 6, 8)]]
-> - **现代自律艺术理论路径** 单子论预定和谐与封闭镜像原理被阿多诺吸收，成为《美学理论》界定艺术兼具自律性与社会事实的关键机制。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 201–203)]]
+> - **理论路径** “清晰而混乱的认识”与“说不清道不明”成为鲍姆嘉通建立感性认识科学和审美真理的直接出发点（[[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister, 2002, pp. 6, 8]]）；单子论预定和谐与封闭镜像原理被阿多诺吸收，成为《美学理论》界定现代艺术兼具自律性与社会事实双重品格的核心范型（[[Argument_Hammermeister_2002_Cambridge_Ch10|Hammermeister, 2002, pp. 201–203]]）。
 
 ---
 

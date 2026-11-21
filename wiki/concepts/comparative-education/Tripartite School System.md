@@ -9,10 +9,10 @@ aliases:
 summary: "中等教育阶段依据早期学术能力选拔将学生分流至文法中学、实科中学与主要中学的分轨制学制结构；在比较教育学与教育社会学中，该体系揭示了早期能力分流如何被家庭阶层与移民背景所主导，进而成为维系社会分层与阻滞全面综合教育改革的深层制度惯性。"
 type: concept
 domain: "comparative-education"
-related_count: 12
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 24
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/school-system
   - theme/comparative-education
@@ -20,24 +20,36 @@ tags:
   - region/germany
   - level/k12
 related_concepts:
+  - "[[Academic Achievement]]"
+  - "[[General Education]]"
+  - "[[Socioeconomic Status]]"
+  - "[[Immigrant Status]]"
+  - "[[Discourse]]"
   - "[[Comprehensive Education]]"
   - "[[Dual School System]]"
+  - "[[Selectivity]]"
+  - "[[Alienation]]"
+  - "[[Variable]]"
   - "[[Selective Education]]"
   - "[[Tracking]]"
-  - "[[PISA Shock]]"
+  - "[[Educational Permeability]]"
   - "[[Output-Oriented Governance]]"
-  - "[[Bildung]]"
 related_theories: []
 related_methods:
-  - "[[Comparative Policy Analysis]]"
+  - "[[Effect Size]]"
+  - "[[Regression Discontinuity Design]]"
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[PISA Shock in Germany]]"
+  - "[[German Dual Education System]]"
+  - "[[Hauptschule]]"
+  - "[[PISA]]"
   - "[[Klieme Report]]"
+  - "[[PISA Shock in Germany]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
 related_arguments:
   - "[[Argument_Ertl_2006_ORE]]"
+  - "[[Argument_Dustmann_2017_EconJ]]"
 confidence: high
 status: active
 created: 2026-11-21
@@ -47,15 +59,15 @@ updated: 2026-11-21
 ---
 
 > [!def] Tripartite School System
-> 三轨学制（Tripartite School System / Dreigliedriges Schulsystem）特指以德国为典型代表的中等教育制度安排；该体系在初等教育结束时（通常为 10 岁或 12 岁），依据学生的学业成绩推荐与能力评估，将学生分流至三类定位严格区隔的中学轨道：培养学术精英并通往大学教育的高中文凭文法中学（Gymnasium）、侧重中级现代通识与商业技术教育的实科中学（Realschule），以及提供基础大众通识教育并主要衔接双元制学徒职业培训的主要中学（Hauptschule）。[[Argument_Ertl_2006_ORE|(Ertl, 2006, pp. 620, 631)]]
+> 三轨学制（Tripartite School System / Dreigliedriges Schulsystem）特指以德国为典型代表的中等教育制度安排；该体系在初等教育结束时（通常为 10 岁或 12 岁），依据学生的[[Academic Achievement|学业成绩]]推荐与能力评估，将学生分流至三类定位严格区隔的中学轨道：培养学术精英并通往大学教育的高中文凭文法中学（Gymnasium）、侧重中级现代通识与商业技术教育的实科中学（Realschule），以及提供基础大众[[General Education|通识教育]]并主要衔接[[German Dual Education System|双元制]]学徒职业培训的[[Hauptschule|主要中学]]（Hauptschule）。[[Argument_Ertl_2006_ORE|(Ertl, 2006, pp. 620, 631)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 该概念指向中等教育通过制度化多轨分流实现社会分工与文凭分配的学制骨架。
-> - **用途** 帮助研究者透视早期能力分流如何转变为基于家庭社会经济地位与移民身份的社会阶层复制机制。
+> - **用途** 帮助研究者透视早期能力分流如何转变为基于家庭[[Socioeconomic Status|社会经济地位]]与[[Immigrant Status|移民身份]]的社会阶层复制机制。
 > - **边界** 该学制特指分流明确、文凭通道分立的三轨组织形态，有别于单一学校内部按科目分层的走班制，亦有别于面向全体适龄青少年的无分流综合中学。
 
 > [!citation-card] 格鲁伯论德国综合中学作为政治禁忌
-> 无论这些变革在未来被证明会产生多么深远的影响，在可预见的时期内，综合中学（Gesamtschule）在德国教育话语中仍将保持为‘巨大的政治禁忌’。[[Argument_Ertl_2006_ORE|(Ertl, 2006, p. 631)]]
+> 无论这些变革在未来被证明会产生多么深远的影响，在可预见的时期内，综合中学（Gesamtschule）在德国教育[[Discourse|话语]]中仍将保持为‘巨大的政治禁忌’。[[Argument_Ertl_2006_ORE|(Ertl, 2006, p. 631)]]
 >
 > *However far-reaching the consequences of the changes outlined in this paper might prove to be in future, it seems safe to predict that the Gesamtschule (comprehensive school) will remain ‘the great taboo’ in the German educational discourse for the time being.*
 
@@ -77,7 +89,7 @@ updated: 2026-11-21
 > [!feature] 核心要素
 > - **早期能力分选（Early Selection）** 在小学四年级（约 10 岁）或六年级，学校依据学生学科表现进行第一次终身性质的轨道分流判定。[[Argument_Ertl_2006_ORE|(Ertl, 2006, pp. 620–621)]]
 > - **功能区隔的轨道结构（Differentiated Tracks）** 文法中学承载进入大学资格的高级文凭（Abitur），实科中学衔接中级职业培训与专科教育，主要中学定位于熟练体力劳动力再生产。[[Argument_Ertl_2006_ORE|(Ertl, 2006, p. 631)]]
-> - **单向流动与阶层筛选（Social Selectivity）** 制度设计初衷为依据学术潜质选拔，但在实际运作中被家庭社会经济背景与移民背景主导，形成深层的阶层隔离。[[Argument_Ertl_2006_ORE|(Ertl, 2006, p. 620)]]
+> - **单向流动与阶层筛选（Social [[Selectivity]]）** 制度设计初衷为依据学术潜质选拔，但在实际运作中被家庭社会经济背景与移民背景主导，形成深层的阶层隔离。[[Argument_Ertl_2006_ORE|(Ertl, 2006, p. 620)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -93,7 +105,7 @@ updated: 2026-11-21
 
 ---
 
-> [!concept-proposition] 命题一｜三轨学制的名义学术能力选拔在实践中异化为社会背景与移民身份的分层机制
+> [!concept-proposition] 命题一｜三轨学制的名义学术能力选拔在实践中[[Alienation|异化]]为社会背景与移民身份的分层机制
 > **社会分选对能力选拔的遮蔽** 制度理论假定三轨学制能够依据学生的认知能力进行客观适性分选，但大规模跨国比较数据证明，家庭背景构成了决定轨道分配的最关键因素。
 
 > [!claim] Ertl, H.
@@ -105,7 +117,7 @@ updated: 2026-11-21
 > **学制结构避忌与技术治理偏误** 决策层在推进产出导向与国家标准改革时刻意回避三轨学制的结构调整，导致资源与技术收益不对称地流向优势轨道。
 
 > [!claim] Ertl, H.
-> **文法中学优势扩大与综合学制改革禁忌** 德国在 PISA 2003 中取得的整体微弱回升完全依赖文法中学学生成绩的提升，实科中学与主要中学学生的表现未获同等改善，导致高分段与低分段学生之间的差距进一步拉大；政治力量回避三轨学制早期分流这一争议核心，将综合中学（Gesamtschule）置于政治讨论的禁忌地位，使得单纯依赖教学质量和质量标准的政策无法消除结构性教育不平等。[[Argument_Ertl_2006_ORE|(Ertl, 2006, pp. 620, 630–631)]]
+> **文法中学优势扩大与综合学制改革禁忌** 德国在 [[PISA]] 2003 中取得的整体微弱回升完全依赖文法中学学生成绩的提升，实科中学与主要中学学生的表现未获同等改善，导致高分段与低分段学生之间的差距进一步拉大；政治力量回避三轨学制早期分流这一争议核心，将综合中学（Gesamtschule）置于政治讨论的禁忌地位，使得单纯依赖教学质量和质量标准的政策无法消除结构性教育不平等。[[Argument_Ertl_2006_ORE|(Ertl, 2006, pp. 620, 630–631)]]
 
 ---
 
@@ -139,14 +151,14 @@ updated: 2026-11-21
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Ertl_2006_ORE\|Ertl (2006)]] | 德国 2003/04 学年全国普通初中与高中学校统计（$N = 16,992$ 所中等学校） | 官方统计汇总分析 | 学校类型结构分布 | 主要中学 5,324 所（31.3%）、文法中学 3,139 所（18.5%）、实科中学 2,980 所（17.5%）、综合中学 759 所（4.5%）、联合办学类 2,436 所（14.3%） | 全口径行政统计 | 呈现三轨学制下传统分轨中学的绝对主导地位，综合中学处于高度边缘地位。 |
 > | [[Argument_Ertl_2006_ORE\|Ertl (2006)]] | PISA 2000 德国 15 岁学生样本 | 跨国大规模测评次级分析 | 家庭阶层对就读文法中学的几率比 | 高管及专业管理层子女就读文法中学的几率是非技术劳工家庭子女的约 5 倍（埃里克森六级社会阶层模型） | 文献报告为五倍倍率（Baumert & Schümer, 2001） | 说明三轨早期选拔在很大程度上反映的是家庭阶层资本的分配。 |
-> | [[Argument_Dustmann_2017_EconJ\|Dustmann et al. (2017)]] | 德国社会保障数据与巴伐利亚、黑森州学校普查档案 | 基于小学入学截止日期的断点回归设计（RDD） | 三轨制就读轨道（14岁）、普通文理高中毕业率、专科高中毕业率及最终学历 | 7月较6月出生在14岁读文法中学高 **5.2%**，但在22岁完成普通高中毕业率仅高 **2.0%**；计入专科高级中学（Fachoberschule）后大学准入资格差异降为 **-0.1%**；对长期对数日薪影响为 **-0.001** 至 **0.0003**（不显著） | 样本量超千万工时记录，系数在零附近且极精确（$p > 0.1$） | 揭示三轨学制在初中毕业后具有高度通透性，逆向转轨机制消解了 10 岁初始分流对边缘学生的长期不利影响。 |
+> | [[Argument_Dustmann_2017_EconJ\|Dustmann et al. (2017)]] | 德国社会保障数据与巴伐利亚、黑森州学校普查档案 | 基于小学入学截止日期的[[Regression Discontinuity Design\|断点回归设计]]（RDD） | 三轨制就读轨道（14岁）、普通文理高中毕业率、专科高中毕业率及最终学历 | 7月较6月出生在14岁读文法中学高 **5.2%**，但在22岁完成普通高中毕业率仅高 **2.0%**；计入专科高级中学（Fachoberschule）后大学准入资格差异降为 **-0.1%**；对长期对数日薪影响为 **-0.001** 至 **0.0003**（不显著） | 样本量超千万工时记录，系数在零附近且极精确（$p > 0.1$） | 揭示三轨学制在初中毕业后具有高度通透性，逆向转轨机制消解了 10 岁初始分流对边缘学生的长期不利影响。 |
 
 ---
 

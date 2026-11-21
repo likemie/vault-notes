@@ -39,24 +39,21 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Output-Oriented Governance]]"
   - "[[Professional Judgment]]"
-  - "[[The Sublime]]"
   - "[[Rote Learning]]"
+  - "[[The Sublime]]"
   - "[[Bildung]]"
   - "[[Geisteswissenschaften]]"
   - "[[Cultural Disembedding]]"
   - "[[Scientific Paradigm]]"
   - "[[Further Education]]"
   - "[[Technical Rationality]]"
-  - "[[Transnational Education]]"
   - "[[Operationalization]]"
   - "[[Scientific Method]]"
-  - "[[Selectivity]]"
   - "[[Heterogeneity]]"
 related_theories:
   - "[[Behaviorism]]"
 related_methods:
   - "[[Comparative Policy Analysis]]"
-  - "[[Content Analysis]]"
   - "[[Analytic Framework]]"
   - "[[Quasi-Experimental Designs]]"
 related_instruments: []
@@ -92,7 +89,7 @@ title: "Argument_Ertl_2006_ORE"
 argument_key: "Argument_Ertl_2006_ORE"
 argument_display_title: "Educational standards and the changing discourse on education: the reception and consequences of the PISA study in Germany"
 argument_kind: "journal-article"
-argument_related_count: 54
+argument_related_count: 51
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -122,7 +119,7 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |---|---|
 > | **比较政策与话语分析<br>[[Comparative Policy Analysis]]** | 解构德国决策层如何通过系统对比芬兰、瑞典、荷兰、英法等 PISA 优势国的标准与评估机制，为打破国内联邦分权僵局寻找跨国[[Policy Borrowing\|政策借用]]依据。 |
-> | **欧陆实质教学论范式<br>[[Didaktik]]** | 阐明以[[Content Analysis\|内容分析]]和自主人格陶冶为核心的传统普通教学论，与以心理测量和因果干预为核心的实证课堂教学研究之间的认识论分野。 |
+> | **欧陆实质教学论范式<br>[[Didaktik]]** | 阐明以内容分析和自主人格陶冶为核心的传统普通教学论，与以心理测量和因果干预为核心的实证课堂教学研究之间的认识论分野。 |
 > | **三轨制学制选择性模型<br>[[Tripartite School System]]** | 剖析中等教育早期分流机制中名义上的学术能力筛选如何被家庭[[Socioeconomic Status\|社会经济地位]]与[[Immigrant Status\|移民身份]]所置换。 |
 
 > [!warrant]- 理论如何支撑论证
@@ -206,7 +203,7 @@ issuing_organization: ""
 > [!sub-claim] 1. 传统教学大纲详列知识与教化要求，却完全缺乏学业产出考核
 
 > [!feature] 德意志实质教学论大纲的规制特征
-> - **教学分析与教化目标置于核心** 德意志传统课程大纲深受实质教学论（bildungstheoretische Didaktik，代表学者包括埃里希·韦尼格、[[Wolfgang Klafki|沃尔夫冈·克拉夫基]]、赫威格·布兰肯茨）影响（Jank & Meyer, 1994）。该传统将课程内容的选择与教学分析置于核心，推导出[[The Sublime|崇高]]抽象的教化目标与详尽的知识清单，构成 1960 至 1970 年代各州教学大纲的主干（Bohl, 2004）。
+> - **教学分析与教化目标置于核心** 德意志传统课程大纲深受实质教学论（bildungstheoretische Didaktik，代表学者包括埃里希·韦尼格、[[Wolfgang Klafki|沃尔夫冈·克拉夫基]]、赫威格·布兰肯茨）影响（Jank & Meyer, 1994）。该传统将课程内容的选择与教学分析置于核心，推导出崇高抽象的教化目标与详尽的知识清单，构成 1960 至 1970 年代各州教学大纲的主干（Bohl, 2004）。
 > - **坚守评价不进课程的传统信念** 这种大纲缺乏任何形式的产出控制，遵循评价不应进入课程的传统信念，教学法、风格、材料全权交由教师自主裁量（Klieme et al., 2003, pp. 91–94）。
 > - **依托准入培训保障整体教学质量** 国家权力仅通过规定大纲内容、教师培训标准与资格认证来确保教学质量，不对最终学业产出实施外部测量（Klieme et al., 2003, pp. 91–94）。
 
@@ -230,7 +227,7 @@ issuing_organization: ""
 ### 论证步骤三　教育学术研究从哲学思辨转向实证测量，引进的行为主义能力指标引发学科传统冲突
 
 > [!claim|step] 论证步骤三　教育学术研究从哲学思辨转向实证测量，引进的行为主义能力指标引发学科传统冲突
-> 在学术维度，PISA 不仅是一场政策危机，更引发了关于教育科学（Erziehungswissenschaft）学科根基的历史性大论战。传统教育学以普通教学论（Allgemeine Didaktik）为正统，遵循人文学科范式，致力于通过哲学诠释推演抽象崇高的教化（[[Bildung]]）目标，对教学过程的可量化测量持深刻怀疑态度。
+> 在学术维度，PISA 不仅是一场政策危机，更引发了关于教育科学（Erziehungswissenschaft）学科根基的历史性大论战。传统教育学以普通教学论（Allgemeine Didaktik）为正统，遵循人文学科范式，致力于通过哲学诠释推演抽象[[The Sublime|崇高]]的教化（[[Bildung]]）目标，对教学过程的可量化测量持深刻怀疑态度。
 
 > [!contrast-table] 德语普通教学论与实证课堂教学研究的认识论范式对峙
 > | 比较维度 | 传统普通教学论（Allgemeine Didaktik） | 实证课堂教学研究（empirische Unterrichtsforschung） |
@@ -275,7 +272,7 @@ issuing_organization: ""
 
 > [!sub-claim] 1. 官方选择性借鉴外国测评技术，却刻意过滤领先国家的综合学制经验
 
-> [!feature] 德国对[[Transnational Education|跨国教育]]政策的选择性借用特征
+> [!feature] 德国对跨国教育政策的选择性借用特征
 > - **打破长期孤立与闭门内省** 自 1960 年代以来，德国除 TIMSS 外极少参与国际测评，政界对跨国数据长期持冷漠态度（Tillmann, 2004）。PISA 彻底唤醒了德国对跨国比较的兴趣，标志着德国教育政策告别孤立，重新融入全球政策借用网络。
 > - **技术标准深层跨国考察** 联邦教研部（BMBF）迅速资助并发布涵盖加拿大、英格兰、芬兰、法国、荷兰与瑞典六国的深度比较研究，重点考查各国教育标准的制定与评估机制（BMBF, 2003; Klieme, 2003; van Ackeren, 2003）。
 > - **全面铺开横向测评网络** 德国全面参与[[PIRLS|国际阅读素养进展研究]]（Progress in International Reading Literacy Study, PIRLS；德语区称国际基础教育阅读能力研究，Internationale Grundschul-Lese-Untersuchung, IGLU，并扩展至数学与科学测评 IGLU-E；Bos et al., 2003），并在十六个联邦州之间系统展开州际学业成绩横向比照（Baumert et al., 2002; Deutsches PISA-Konsortium, 2003b）。
@@ -318,7 +315,7 @@ issuing_organization: ""
 > [!citation-card] [[Alexander Oettl|厄特尔]]论家庭阶层筛选掩盖学业择优初衷
 > 三轨学制各类学校的生源分布带有极其鲜明的社会阶层印记（富裕家庭子女升入文法中学的几率远超其他群体）。这一现状导致该学制以学业成绩为基准的选拔初衷，被家庭社会经济背景所决定的阶层筛选完全掩盖。
 >
-> *As the participation in the school types of the tripartite system shows a clear social [[Selectivity|selectivity]] (children from well-off families are much more likely to go to the Gymnasium), selectivity in terms of pupils’ achievement, which is the primary rationale of the tripartite system, is being overshadowed by selectivity in terms of pupils’ socio-economic backgrounds.*
+> *As the participation in the school types of the tripartite system shows a clear social selectivity (children from well-off families are much more likely to go to the Gymnasium), selectivity in terms of pupils’ achievement, which is the primary rationale of the tripartite system, is being overshadowed by selectivity in terms of pupils’ socio-economic backgrounds.*
 
 > [!citation-card] 厄特尔论综合学制改革是德国政界不可触碰的话语禁区
 > 无论当前启动的各项体制变革在未来产生多么深远的影响，至少在当前阶段，综合学校（Gesamtschule）在德国教育政策讨论中仍将是一个不可触碰的政治禁忌。

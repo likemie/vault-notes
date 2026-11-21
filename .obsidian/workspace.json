@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -300,8 +300,16 @@
       "ai-usage-float:显示或隐藏额度浮窗": false
     }
   },
-  "active": "e2374d26ccaac553",
+  "active": "3643ff474ee79da9",
   "lastOpenFiles": [
+    "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch01.md",
+    "sources/Dustmann_2017_EconJ/figures/Dustmann_2017_EconJ_Fig6_Date_of_Birth_and_Completed_Education.jpg",
+    "sources/Dustmann_2017_EconJ/figures/Dustmann_2017_EconJ_Fig5_Date_of_Birth_and_Downgrading.jpg",
+    "sources/Dustmann_2017_EconJ/figures/Dustmann_2017_EconJ_Fig4_Log_Wage_Differences_by_Age.jpg",
+    "sources/Dustmann_2017_EconJ/figures/Dustmann_2017_EconJ_Fig3_Date_of_Birth_and_Wages.jpg",
+    "sources/Dustmann_2017_EconJ/figures/Dustmann_2017_EconJ_Fig2_Conceptual_Framework.jpg",
+    "sources/Dustmann_2017_EconJ/figures/Dustmann_2017_EconJ_Fig1_German_Education_System.jpg",
+    "output/related-updates/Argument_Ertl_2006_ORE-3faa12dd/batch-009/result.json",
     "output/related-updates/Argument_Ertl_2006_ORE-3faa12dd/batch-008/result.json",
     "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照/02 康德.md",
     "sources/Dustmann_2017_EconJ/Dustmann_2017_EconJ.md",
@@ -311,7 +319,6 @@
     "wiki/arguments/journal-articles/The Economic Journal/Argument_Dustmann_2017_EconJ.md",
     "wiki/arguments/journal-articles/The Economic Journal",
     "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照/01 鲍姆加登和门德尔松.md",
-    "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch01.md",
     "output/美学翻译/宗白华_西方美学散文_翻译风格.md",
     "wiki/concepts/comparative-education/Educational Permeability.md",
     "sources/Dustmann_2017_EconJ.md",
@@ -323,9 +330,7 @@
     "wiki/methods/quantitative/Collective Credit Allocation Algorithm.md",
     "wiki/methods/quantitative/Cohort Study.md",
     "wiki/methods/quantitative/Cognitive Extent.md",
-    "output/related-updates/Argument_Ertl_2006_ORE-3faa12dd/batch-006/result.json",
     "wiki/facts/new-zealand/Visible Learning Branding and Global Influences.md",
-    "output/related-updates/Argument_Ertl_2006_ORE-3faa12dd/batch-005/result.json",
     "output/related-updates/Argument_Ertl_2006_ORE-3faa12dd/batch-014/prompt.md",
     "output/related-updates/Argument_Ertl_2006_ORE-3faa12dd/batch-013/prompt.md",
     "output/related-updates/Argument_Ertl_2006_ORE-3faa12dd/batch-012/prompt.md",
@@ -342,12 +347,6 @@
     "raw/Figure1.png",
     "output/德国美学传统翻译（全文彭正梅）(1)_assets/image1.png",
     "sources/VonDerHeyden_Heinze_2025_PLOSONE/figures/VonDerHeyden_Heinze_2025_PLOSONE_Fig5_Self_Nominations_Over_Time.jpg",
-    "sources/VonDerHeyden_Heinze_2025_PLOSONE/figures/VonDerHeyden_Heinze_2025_PLOSONE_Fig4_Organizational_Nomination_Network.jpg",
-    "sources/VonDerHeyden_Heinze_2025_PLOSONE/figures/VonDerHeyden_Heinze_2025_PLOSONE_Fig3_Proportions_Nominators_Nominees.jpg",
-    "sources/VonDerHeyden_Heinze_2025_PLOSONE/figures/VonDerHeyden_Heinze_2025_PLOSONE_Fig2_Top4_Nominated_Countries.jpg",
-    "sources/VonDerHeyden_Heinze_2025_PLOSONE/figures/VonDerHeyden_Heinze_2025_PLOSONE_Fig1_Top4_Nominating_Countries.jpg",
-    "sources/Luo_2026_IFDCK/figures/Luo_2026_IFDCK_Fig3_Dual_Nature_Conceptual_Model.jpg",
-    "sources/Luo_2026_IFDCK/figures/Luo_2026_IFDCK_Fig2_Funding_Strategy_Architecture.jpg",
     "未命名.canvas"
   ]
 }
