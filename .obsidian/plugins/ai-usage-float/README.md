@@ -1,6 +1,6 @@
 # AI Usage Float
 
-Obsidian 桌面版额度悬浮窗。MyNotes 已启用此插件。点击窗口右侧的「额度」按钮可打开或隐藏浮窗。拖动浮窗标题可移动位置，拖动任一底角可调整大小。点击某行可展开对应的额度窗口，点击标题栏的面板图标可打开额度总览。位置、大小、折叠状态和刷新间隔会保存。
+Obsidian 桌面版额度悬浮窗。MyNotes 已启用此插件。鼠标移到窗口右侧的「额度」按钮会弹出 Gemini 看板，移开后自动收起。点击「额度」可固定浮窗，固定后可拖动标题移动位置或拖动底角调整大小。点击标题栏的面板图标可查看所有服务和模型的额度。位置、大小、折叠状态和刷新间隔会保存。
 
 安装到另一个 vault 时，将 `manifest.json`、`main.js` 和 `styles.css` 复制到该 vault 的 `.obsidian/plugins/ai-usage-float/`，然后在「设置 → 第三方插件」启用 AI Usage Float。当前采集器在 macOS 上核验。构建命令为 `npm ci && npm run build`。
 

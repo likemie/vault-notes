@@ -38,6 +38,7 @@ related_facts:
   - "[[Pact for Skills]]"
 related_arguments:
   - "[[Argument_Rohde-Liebenau_Graf_2024_EERJ]]"
+  - "[[Argument_Thelen_2007_RegGov]]"
 confidence: high
 status: active
 created: 2026-11-21
@@ -119,6 +120,7 @@ updated: 2026-11-21
 ---
 
 > [!dev-timeline] 概念演变
+> - **2007 — 高端服务业与高等教育融通深化** 凯瑟琳·西伦（[[Argument_Thelen_2007_RegGov|Thelen, 2007, pp. 255–257]]）实证揭示工作本位学习在德国零售银行与 IT 等高阶部门出现结构性重组：持有文理中学毕业文凭的高学历青年将学徒制工作本位实务经验作为进入大学深造的跳板，打破了职业工作实训与学术学位的传统轨制壁垒，形成工作本位学习与学术学位融通的新型复合人力资本积累路径。
 > - **2010 — 欧洲战略确立** 欧洲联盟在《布鲁日公报》（Bruges Communiqué）中正式提出要在全欧职业教育中系统扩充工作本位学习比重。
 > - **2012 — 政策核心地位确立** 欧洲委员会在《重新思考教育》战略公报中将工作本位学习列为提升生产力与克服青年失业危机的头号支柱。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 512–513)]]
 > - **2024 — 多层治理机制检验** 罗德-利贝瑙与格拉夫（[[Argument_Rohde-Liebenau_Graf_2024_EERJ|Rohde-Liebenau & Graf, 2024, pp. 512–514]]）实证检验工作本位学习作为跨国最佳实践，在德欧学徒制联盟中如何作为核心政策载体促进多边经验流动。
@@ -158,3 +160,4 @@ updated: 2026-11-21
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Rohde-Liebenau_Graf_2024_EERJ|Rohde-Liebenau and Graf (2024)]] — 考察工作本位学习在德欧多层学徒制联盟中作为核心基准与跨国政策借用载体的机制（pp. 512–514）。
+> - [[Argument_Thelen_2007_RegGov|Thelen (2007)]] — 结合德国零售银行业与 IT 行业案例，阐释具备文理中学文凭的高学历学徒如何依托工作本位学习实现与高等教育学术学位的深度融通。（pp. 255–257）

@@ -14,9 +14,9 @@ class UsageSettings extends PluginSettingTab {
   display() {
     const { containerEl, plugin } = this;
     containerEl.empty();
-    new Setting(containerEl).setName("悬浮窗")
-      .setDesc("显示额度悬浮窗。也可从左侧功能区或命令面板打开。")
-      .addToggle(control => control.setValue(plugin.preferences.shown).onChange(value => plugin.configure({ shown: value })));
+    new Setting(containerEl).setName("固定额度浮窗")
+      .setDesc("固定后，鼠标移开时仍可查看和调整浮窗。")
+      .addToggle(control => control.setValue(plugin.preferences.pinned).onChange(value => plugin.configure({ pinned: value })));
     new Setting(containerEl).setName("自动刷新")
       .setDesc("遇到采集失败时延长自动重试间隔。手动刷新可随时重试。")
       .addDropdown(control => {
@@ -73,7 +73,7 @@ class UsageFloatPlugin extends Plugin {
       toggle: () => this.toggle(),
       refresh: (id, account) => void this.refreshFromControl(id, account),
       collapse: () => this.configure({ collapsed: !this.preferences.collapsed }),
-      hide: () => this.configure({ shown: false }),
+      hide: () => this.configure({ pinned: false }),
       geometry: patch => this.configure(patch),
     };
 
@@ -119,7 +119,7 @@ class UsageFloatPlugin extends Plugin {
   }
 
   toggle() {
-    this.configure({ shown: !this.preferences.shown });
+    this.configure({ pinned: !this.preferences.pinned, collapsed: false });
   }
 
   configure(patch) {

@@ -49,7 +49,7 @@ var require_model = __commonJS({
       const names = isObject(data.antigravityNames) ? Object.entries(data.antigravityNames) : [];
       return {
         interval: INTERVALS2.includes(data.interval) ? data.interval : 5,
-        shown: typeof data.shown === "boolean" ? data.shown : true,
+        pinned: data.pinned === true,
         collapsed: typeof data.collapsed === "boolean" ? data.collapsed : false,
         left: typeof data.left === "number" && Number.isFinite(data.left) ? data.left : null,
         top: typeof data.top === "number" && Number.isFinite(data.top) ? data.top : null,
@@ -636,11 +636,14 @@ var require_view = __commonJS({
       accountStatus,
       usableWindows,
       quotaText,
-      accountName: accountName2
+      accountName: accountName2,
+      isAntigravityId: isAntigravityId2
     } = require_model();
     var MARGIN = 10;
     var MIN_WIDTH = 240;
     var MIN_HEIGHT = 150;
+    var PREVIEW_GAP = 6;
+    var LEAVE_DELAY = 160;
     function clamp(value, min, max) {
       return Math.max(min, Math.min(max, value));
     }
@@ -734,6 +737,39 @@ var require_view = __commonJS({
       if (account.windows.length) {
         const grid = add(box, "div", "quota-grid");
         account.windows.forEach((quota) => quotaWindow(grid, quota, status, state.now));
+      }
+    }
+    function displayGemini(parent, state, actions) {
+      if (!state.settings.enabled.antigravity) {
+        add(parent, "p", "empty", "\u8BF7\u5728\u8BBE\u7F6E\u4E2D\u542F\u7528 Antigravity\u3002");
+        return;
+      }
+      const heading = add(parent, "div", "float-group");
+      add(heading, "span", "", "Antigravity");
+      refreshAntigravity(heading, state, actions);
+      const accounts = state.rows.antigravity.filter((row) => isAntigravityId2(row.id));
+      if (!accounts.length) {
+        add(parent, "p", "empty", state.rows.antigravity[0]?.issue?.message || "\u6682\u65E0 Gemini \u989D\u5EA6\u3002");
+        return;
+      }
+      for (const row of accounts) {
+        const entry = add(parent, "section", "gemini-account");
+        const title = add(entry, "div", "gemini-account-head");
+        add(title, "strong", "", accountName2("antigravity", row, state.settings));
+        const windows = row.windows.filter((quota) => /^gemini(?:$|[-_])/i.test(quota.id));
+        const status = rowStatus({ ...row, windows }, state.now, state.settings.interval);
+        if (status) {
+          const label = [STATUSES[status], row.fetchedAt && windows.length && freshness(row.fetchedAt, state.now)].filter(Boolean).join(" \xB7 ");
+          add(title, "small", "status", label);
+        }
+        if (!windows.length) {
+          add(entry, "p", "muted", "\u6682\u65E0 Gemini \u989D\u5EA6\u3002");
+          continue;
+        }
+        const grid = add(entry, "div", "quota-grid");
+        for (const quota of windows) {
+          quotaWindow(grid, { ...quota, name: quota.name.replace(/^Gemini Models · /i, "") }, status, state.now);
+        }
       }
     }
     function card(parent, title, detail) {
@@ -837,13 +873,12 @@ var require_view = __commonJS({
         this.events = new AbortController();
         this.root = add(win.document.body, "aside", "float");
         this.root.id = "auf-floating-panel";
-        this.root.setAttribute("aria-label", "AI Usage Float");
+        this.root.hidden = true;
+        this.root.setAttribute("aria-label", "Gemini \u989D\u5EA6");
         this.launcher = control(win.document.body, "\u989D\u5EA6", actions.toggle, { name: "launcher", icon: "chart-no-axes-column" });
-        this.launcher.title = "\u663E\u793A\u6216\u9690\u85CF\u989D\u5EA6\u6D6E\u7A97";
         this.launcher.setAttribute("aria-controls", this.root.id);
         this.header = add(this.root, "header", "float-head");
-        this.handle = add(this.header, "div", "handle", "AI Usage");
-        this.handle.title = "\u62D6\u52A8\u6D6E\u7A97";
+        this.handle = add(this.header, "div", "handle", "Gemini \u989D\u5EA6");
         this.buttons = add(this.header, "div", "head-buttons");
         this.body = add(this.root, "div", "float-body");
         this.footer = add(this.root, "footer", "float-foot");
@@ -853,6 +888,7 @@ var require_view = __commonJS({
         this.place = this.place.bind(this);
         this.bindPointer(this.handle, (bounds) => (dx, dy) => this.move(bounds.left + dx, bounds.top + dy));
         this.listenForPointer();
+        this.listenForPreview();
         this.resize = new win.ResizeObserver(this.place);
         this.resize.observe(this.root);
         this.dockObserver = new win.MutationObserver(() => this.followDock());
@@ -860,14 +896,16 @@ var require_view = __commonJS({
         win.addEventListener("resize", this.place, { signal: this.events.signal });
       }
       render(state) {
-        this.root.hidden = !state.settings.shown;
-        this.launcher.setAttribute("aria-expanded", String(state.settings.shown));
-        this.root.classList.toggle("is-collapsed", state.settings.collapsed);
-        this.body.hidden = this.footer.hidden = state.settings.collapsed;
+        const { pinned } = state.settings;
+        const collapsed = pinned && state.settings.collapsed;
+        this.updateVisibility(pinned);
+        this.root.classList.toggle("is-pinned", pinned);
+        this.root.classList.toggle("is-collapsed", collapsed);
+        this.handle.title = pinned ? "\u62D6\u52A8\u6D6E\u7A97" : "";
+        this.body.hidden = this.footer.hidden = collapsed;
         this.grips.forEach((grip) => {
-          grip.hidden = state.settings.collapsed;
+          grip.hidden = !pinned || collapsed;
         });
-        const open = new Set([...this.body.querySelectorAll("details[open]")].map((el) => el.dataset.account));
         const scroll = this.body.scrollTop;
         preserveFocus(this.root, () => {
           this.buttons.replaceChildren();
@@ -877,66 +915,35 @@ var require_view = __commonJS({
             name: "icon-button",
             id: "dashboard"
           });
-          if (!state.settings.collapsed) {
-            control(this.buttons, state.busy.size ? "\u5237\u65B0\u4E2D" : "\u5237\u65B0\u5168\u90E8", () => this.actions.refresh(), {
-              icon: "refresh-cw",
+          if (pinned) {
+            control(this.buttons, collapsed ? "\u5C55\u5F00\u6D6E\u7A97" : "\u6298\u53E0\u6D6E\u7A97", this.actions.collapse, {
+              icon: collapsed ? "chevron-down" : "minus",
               iconOnly: true,
               name: "icon-button",
-              disabled: Boolean(state.busy.size),
-              id: "refresh"
-            });
+              id: "collapse"
+            }).setAttribute("aria-expanded", String(!collapsed));
+            control(this.buttons, "\u9690\u85CF\u6D6E\u7A97", () => this.dismiss(), { icon: "x", iconOnly: true, name: "icon-button", id: "hide" });
           }
-          control(this.buttons, state.settings.collapsed ? "\u5C55\u5F00\u6D6E\u7A97" : "\u6298\u53E0\u6D6E\u7A97", this.actions.collapse, {
-            icon: state.settings.collapsed ? "chevron-down" : "minus",
-            iconOnly: true,
-            name: "icon-button",
-            id: "collapse"
-          }).setAttribute("aria-expanded", String(!state.settings.collapsed));
-          control(this.buttons, "\u9690\u85CF\u6D6E\u7A97", this.actions.hide, { icon: "x", iconOnly: true, name: "icon-button", id: "hide" });
-          if (state.settings.collapsed) return;
+          if (collapsed) return;
           this.body.replaceChildren();
-          const ids = KEYS2.filter((id) => state.settings.enabled[id]);
-          for (const id of ids) {
-            const service = PROVIDERS2[id];
-            const group = add(this.body, "section", "float-service");
-            if (id === "antigravity") {
-              const heading = add(group, "div", "float-group");
-              add(heading, "span", "", service.title);
-              refreshAntigravity(heading, state, this.actions);
-            }
-            for (const row of state.rows[id]) {
-              const element = add(group, "details", "float-account");
-              element.dataset.account = row.id;
-              element.open = open.has(row.id);
-              const summary = add(element, "summary", "float-row");
-              summary.dataset.aufFocus = "summary-" + row.id;
-              const identity = add(summary, "div", "float-label");
-              add(identity, "div", "", accountName2(id, row, state.settings) || service.title);
-              const status = rowStatus(row, state.now, state.settings.interval);
-              const valid = usableWindows(row, state.now, state.settings.interval);
-              const windows = valid.length ? valid : row.windows;
-              const quota = [...windows].filter((quota2) => quota2.remaining !== null).sort((a, b) => a.remaining - b.remaining)[0];
-              if (quota) {
-                const cue = status ? [STATUSES[status], row.fetchedAt && freshness(row.fetchedAt, state.now)].filter(Boolean).join(" \xB7 ") : resetLabel(quota.resetAt, state.now);
-                add(identity, "small", "muted", (id === "grok" ? "SuperGrok \xB7 " : "") + quota.name + " \xB7 " + cue);
-                track(summary, quota.remaining, status);
-                add(summary, "strong", "num", quotaText(quota.remaining));
-              } else {
-                add(summary, "small", "status", STATUSES[status] ?? "\u989D\u5EA6\u672A\u77E5");
-              }
-              displayAccount(element, id, row, state, this.actions);
-            }
-          }
-          if (!ids.length) add(this.body, "p", "empty", "\u8BF7\u5728\u8BBE\u7F6E\u4E2D\u542F\u7528\u670D\u52A1\u3002");
+          displayGemini(this.body, state, this.actions);
           this.body.scrollTop = scroll;
-          this.footer.textContent = state.busy.size ? "\u6B63\u5728\u67E5\u8BE2\u989D\u5EA6\u2026" : state.lastRefresh ? "\u6700\u8FD1\u67E5\u8BE2 " + freshness(state.lastRefresh, state.now) : "\u7B49\u5F85\u91C7\u96C6";
+          this.footer.textContent = state.busy.has("antigravity") ? "\u6B63\u5728\u67E5\u8BE2 Gemini \u989D\u5EA6\u2026" : "\u767E\u5206\u6BD4\u4E3A\u5269\u4F59\u989D\u5EA6";
         });
         this.place();
       }
       place() {
         this.placeLauncher();
         if (this.root.hidden || this.gesture) return;
-        const { left, top, width: savedWidth, height: savedHeight, collapsed } = this.actions.state().settings;
+        const { left, top, width: savedWidth, height: savedHeight, collapsed, pinned } = this.actions.state().settings;
+        if (!pinned) {
+          this.size(null, null);
+          const rail = this.launcher.getBoundingClientRect();
+          this.root.style.maxWidth = Math.max(1, rail.left - MARGIN - PREVIEW_GAP) + "px";
+          this.move(rail.left - this.root.offsetWidth - PREVIEW_GAP, rail.top + (rail.height - this.root.offsetHeight) / 2);
+          return;
+        }
+        this.root.style.maxWidth = "";
         this.size(collapsed ? null : savedWidth, collapsed ? null : savedHeight);
         const width = this.root.offsetWidth;
         const height = this.root.offsetHeight;
@@ -954,7 +961,54 @@ var require_view = __commonJS({
             this.resize.observe(dock);
           }
         }
-        this.placeLauncher();
+        this.place();
+      }
+      updateVisibility(pinned = this.actions.state().settings.pinned) {
+        const visible = pinned || this.preview === true;
+        const restoreFocus = !visible && this.root.contains(this.win.document.activeElement);
+        this.root.hidden = !visible;
+        this.launcher.setAttribute("aria-expanded", String(visible));
+        this.launcher.setAttribute("aria-pressed", String(pinned));
+        this.launcher.title = pinned ? "\u53D6\u6D88\u56FA\u5B9A\u989D\u5EA6\u6D6E\u7A97" : "\u60AC\u505C\u67E5\u770B\u989D\u5EA6\uFF0C\u70B9\u51FB\u56FA\u5B9A";
+        if (restoreFocus) this.launcher.focus({ preventScroll: true });
+      }
+      clearPreviewTimer() {
+        this.win.clearTimeout(this.leaveTimer);
+        this.leaveTimer = void 0;
+      }
+      dismiss() {
+        this.clearPreviewTimer();
+        this.preview = false;
+        if (this.actions.state().settings.pinned) this.actions.hide();
+        else this.updateVisibility();
+      }
+      listenForPreview() {
+        const { signal } = this.events;
+        this.launcher.addEventListener("pointerenter", (event) => {
+          if (event.pointerType !== "mouse") return;
+          this.clearPreviewTimer();
+          this.preview = true;
+          this.updateVisibility();
+          this.place();
+        }, { signal });
+        this.root.addEventListener("pointerenter", (event) => {
+          if (event.pointerType === "mouse") this.clearPreviewTimer();
+        }, { signal });
+        for (const region of [this.launcher, this.root]) {
+          region.addEventListener("pointerleave", (event) => {
+            if (event.pointerType !== "mouse") return;
+            this.clearPreviewTimer();
+            this.leaveTimer = this.win.setTimeout(() => {
+              this.preview = false;
+              this.updateVisibility();
+            }, LEAVE_DELAY);
+          }, { signal });
+          region.addEventListener("keydown", (event) => {
+            if (event.key !== "Escape" || this.root.hidden) return;
+            event.stopPropagation();
+            this.dismiss();
+          }, { signal });
+        }
       }
       placeLauncher() {
         const dock = this.linkDock?.getBoundingClientRect();
@@ -1007,7 +1061,7 @@ var require_view = __commonJS({
       }
       bindPointer(handle, begin) {
         handle.addEventListener("pointerdown", (event) => {
-          if (event.button !== 0 || this.gesture) return;
+          if (event.button !== 0 || this.gesture || !this.actions.state().settings.pinned) return;
           this.gesture = {
             id: event.pointerId,
             x: event.clientX,
@@ -1043,6 +1097,7 @@ var require_view = __commonJS({
         this.win.addEventListener("blur", finish, { signal: this.events.signal });
       }
       destroy() {
+        this.clearPreviewTimer();
         this.events.abort();
         this.resize.disconnect();
         this.dockObserver.disconnect();
@@ -1078,7 +1133,7 @@ var UsageSettings = class extends PluginSettingTab {
   display() {
     const { containerEl, plugin } = this;
     containerEl.empty();
-    new Setting(containerEl).setName("\u60AC\u6D6E\u7A97").setDesc("\u663E\u793A\u989D\u5EA6\u60AC\u6D6E\u7A97\u3002\u4E5F\u53EF\u4ECE\u5DE6\u4FA7\u529F\u80FD\u533A\u6216\u547D\u4EE4\u9762\u677F\u6253\u5F00\u3002").addToggle((control) => control.setValue(plugin.preferences.shown).onChange((value) => plugin.configure({ shown: value })));
+    new Setting(containerEl).setName("\u56FA\u5B9A\u989D\u5EA6\u6D6E\u7A97").setDesc("\u56FA\u5B9A\u540E\uFF0C\u9F20\u6807\u79FB\u5F00\u65F6\u4ECD\u53EF\u67E5\u770B\u548C\u8C03\u6574\u6D6E\u7A97\u3002").addToggle((control) => control.setValue(plugin.preferences.pinned).onChange((value) => plugin.configure({ pinned: value })));
     new Setting(containerEl).setName("\u81EA\u52A8\u5237\u65B0").setDesc("\u9047\u5230\u91C7\u96C6\u5931\u8D25\u65F6\u5EF6\u957F\u81EA\u52A8\u91CD\u8BD5\u95F4\u9694\u3002\u624B\u52A8\u5237\u65B0\u53EF\u968F\u65F6\u91CD\u8BD5\u3002").addDropdown((control) => {
       for (const interval of INTERVALS) control.addOption(String(interval), interval ? interval + " \u5206\u949F" : "\u4EC5\u624B\u52A8");
       control.setValue(String(plugin.preferences.interval)).onChange((value) => plugin.configure({ interval: Number(value) }));
@@ -1122,7 +1177,7 @@ var UsageFloatPlugin = class extends Plugin {
       toggle: () => this.toggle(),
       refresh: (id, account) => void this.refreshFromControl(id, account),
       collapse: () => this.configure({ collapsed: !this.preferences.collapsed }),
-      hide: () => this.configure({ shown: false }),
+      hide: () => this.configure({ pinned: false }),
       geometry: (patch) => this.configure(patch)
     };
     this.addSettingTab(new UsageSettings(this.app, this));
@@ -1165,7 +1220,7 @@ var UsageFloatPlugin = class extends Plugin {
     }
   }
   toggle() {
-    this.configure({ shown: !this.preferences.shown });
+    this.configure({ pinned: !this.preferences.pinned, collapsed: false });
   }
   configure(patch) {
     const previous = this.preferences.interval;

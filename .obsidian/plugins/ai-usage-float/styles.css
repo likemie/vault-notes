@@ -105,11 +105,13 @@ button.auf-launcher[aria-expanded="true"] {
   flex: 1;
   align-self: stretch;
   font-weight: 600;
+}
+.auf-float.is-pinned .auf-handle {
   cursor: grab;
   touch-action: none;
   user-select: none;
 }
-.auf-handle:active {
+.auf-float.is-pinned .auf-handle:active {
   cursor: grabbing;
 }
 .auf-float-body {
@@ -234,42 +236,20 @@ button.auf-launcher[aria-expanded="true"] {
   width: 15px;
   height: 15px;
 }
-.auf-float-row {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  min-height: 39px;
-  gap: 7px;
-  cursor: pointer;
-  padding: 4px 0;
-}
-.auf-float-row::marker {
-  content: "";
-}
-.auf-float-row::-webkit-details-marker {
-  display: none;
-}
-.auf-float-row:hover {
-  background: var(--background-modifier-hover);
-}
-.auf-float-account + .auf-float-account,
-.auf-float-service + .auf-float-service {
+.auf-gemini-account {
   border-top: 1px solid var(--auf-line);
+  padding: 7px 0;
 }
-.auf-float-row .auf-track {
-  width: 42px;
-  flex: 0 0 42px;
-  margin: 0 0 0 auto;
+.auf-gemini-account-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 3px 8px;
+  margin-bottom: 4px;
 }
-.auf-float-row .auf-num {
-  min-width: 34px;
-  text-align: right;
-}
-.auf-float-label {
+.auf-gemini-account-head strong {
   min-width: 0;
-}
-.auf-float-label small {
-  display: block;
   overflow-wrap: anywhere;
 }
 .auf-float-group {
@@ -285,13 +265,8 @@ button.auf-launcher[aria-expanded="true"] {
   padding: 0 4px;
   font-size: 12px;
 }
-.auf-float-account[open] > .auf-account {
-  padding: 5px 0 8px;
-  border-top: 1px solid var(--auf-line);
-}
-.auf-float-account .auf-quota-grid {
-  grid-template-columns: minmax(0, 1fr);
-  gap: 7px;
+.auf-gemini-account .auf-quota:last-child:nth-child(odd) {
+  grid-column: 1 / -1;
 }
 .auf-modal {
   width: min(920px, calc(100vw - 36px));

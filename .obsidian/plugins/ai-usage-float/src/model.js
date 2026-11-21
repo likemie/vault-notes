@@ -45,7 +45,7 @@ function settings(raw) {
   const names = isObject(data.antigravityNames) ? Object.entries(data.antigravityNames) : [];
   return {
     interval: INTERVALS.includes(data.interval) ? data.interval : 5,
-    shown: typeof data.shown === "boolean" ? data.shown : true,
+    pinned: data.pinned === true,
     collapsed: typeof data.collapsed === "boolean" ? data.collapsed : false,
     left: typeof data.left === "number" && Number.isFinite(data.left) ? data.left : null,
     top: typeof data.top === "number" && Number.isFinite(data.top) ? data.top : null,
