@@ -39,6 +39,13 @@ function control(parent, label, callback, { icon, iconOnly = false, name = "butt
   return button;
 }
 
+function refreshAntigravity(parent, state, actions) {
+  const busy = state.busy.has("antigravity");
+  control(parent, busy ? "刷新中" : "刷新当前账号", () => actions.refresh("antigravity"), {
+    icon: "refresh-cw", name: "button auf-quiet auf-refresh-current", id: "refresh-antigravity", disabled: busy,
+  });
+}
+
 function track(parent, value, old) {
   if (value === null) return;
   const bar = add(parent, "div", old ? "track auf-track-old" : "track");
@@ -155,6 +162,7 @@ class Dashboard extends Modal {
         const plan = id === "antigravity" && registered.length ? registered.length + " 个账号" :
           (id === "grok" && state.rows[id][0]?.plan ? state.rows[id][0].plan + " 积分" : provider.scope);
         if (plan) add(head, "small", "muted", plan);
+        if (id === "antigravity") refreshAntigravity(head, state, this.actions);
         state.rows[id].forEach(row => displayAccount(section, id, row, state, this.actions));
       }
       if (!ids.length) add(services, "p", "empty", "请在设置中启用要查看的服务。");
@@ -255,7 +263,11 @@ class FloatingPanel {
       for (const id of ids) {
         const service = PROVIDERS[id];
         const group = add(this.body, "section", "float-service");
-        if (id === "antigravity") add(group, "div", "float-group", service.title);
+        if (id === "antigravity") {
+          const heading = add(group, "div", "float-group");
+          add(heading, "span", "", service.title);
+          refreshAntigravity(heading, state, this.actions);
+        }
         for (const row of state.rows[id]) {
           const element = add(group, "details", "float-account");
           element.dataset.account = row.id;

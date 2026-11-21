@@ -10,6 +10,8 @@ const {
 
 const MAX_OUTPUT = 1024 * 1024;
 const ANTI_CACHE = join(homedir(), ".antigravity_tools");
+const ANTI_DAEMON = join(homedir(), ".gemini", "antigravity", "daemon");
+const TOKEN_PATTERN = /^[A-Za-z0-9_-]{6,256}$/;
 const ANTI_APPS = new Set([
   "/Applications/Antigravity.app/Contents/Resources/bin/language_server",
   join(homedir(), "Applications/Antigravity.app/Contents/Resources/bin/language_server"),
@@ -244,16 +246,41 @@ async function antigravityProcessIds(signal) {
   }
 }
 
+async function desktopDaemonToken(pid, port) {
+  let file;
+  try {
+    file = await fs.open(join(ANTI_DAEMON, `hub_${port}.json`), constants.O_RDONLY | constants.O_NOFOLLOW | constants.O_NONBLOCK);
+    const info = await file.stat();
+    if (!info.isFile() || info.uid !== process.getuid() || (info.mode & 0o077) !== 0 || info.size > 4096) return null;
+    const buffer = Buffer.alloc(4097);
+    const { bytesRead } = await file.read(buffer, 0, buffer.length, 0);
+    if (bytesRead >= buffer.length) return null;
+    const descriptor = JSON.parse(buffer.toString("utf8", 0, bytesRead));
+    if (descriptor?.pid !== Number(pid) || descriptor.httpPort !== port) return null;
+    return typeof descriptor.csrfToken === "string" && TOKEN_PATTERN.test(descriptor.csrfToken)
+      ? descriptor.csrfToken : null;
+  } catch {
+    return null;
+  } finally {
+    if (file) await file.close().catch(() => {});
+  }
+}
+
 async function localAntigravity(pid, signal) {
   const args = await command("/bin/ps", ["-ww", "-p", pid, "-o", "uid=,args="], signal);
   const [uid, invocation] = args.trim().split(/\s+(.*)/s, 2);
   if (uid !== String(process.getuid()) || ![...ANTI_APPS].some(path => invocation?.startsWith(path + " "))) return null;
-  const csrf = /(?:^|\s)--csrf_token(?:=|\s+)([A-Za-z0-9_-]{6,})/.exec(invocation)?.[1];
-  if (!csrf) return null;
+  const legacyToken = /(?:^|\s)--csrf_token(?:=|\s+)([A-Za-z0-9_-]{6,256})(?=\s|$)/.exec(invocation)?.[1];
   const sockets = await command("/usr/sbin/lsof",
     ["-a", "-nP", "-p", pid, "-iTCP", "-sTCP:LISTEN", "-Fn"], signal);
-  const ports = [...sockets.matchAll(/^n127\.0\.0\.1:(\d{1,5})$/gm)].map(match => Number(match[1]));
-  const answers = await Promise.allSettled(ports.slice(0, 6).map(async port => {
+  const ports = [...sockets.matchAll(/^n127\.0\.0\.1:(\d{1,5})$/gm)].map(match => Number(match[1])).slice(0, 6);
+  // Newer desktop builds advertise their HTTP endpoint in a same-user daemon descriptor.
+  const listeners = await Promise.all(ports.map(async port => ({ port, csrf: legacyToken ?? await desktopDaemonToken(pid, port) })));
+  const targets = listeners.filter(listener => listener.csrf);
+  if (!targets.length) {
+    throw new SourceError("unsupported", "当前 Antigravity 桌面端未提供可读取的本地额度接口。请在桌面端的 Models & Usage 查看。");
+  }
+  const answers = await Promise.allSettled(targets.map(async ({ port, csrf }) => {
     const first = (await loopback(port, csrf, "GetUserStatus", signal))?.userStatus;
     const email = text(first?.email);
     if (!email) throw new SourceError("auth", "请在 Antigravity 桌面端登录。");

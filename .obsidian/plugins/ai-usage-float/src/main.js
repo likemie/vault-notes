@@ -1,4 +1,4 @@
-const { Plugin, PluginSettingTab, Setting } = require("obsidian");
+const { Notice, Plugin, PluginSettingTab, Setting } = require("obsidian");
 const {
   KEYS, PROVIDERS, MINUTE, INTERVALS, cacheFrom, settings, text, isAntigravityId, retainAntigravitySnapshots,
 } = require("./model");
@@ -71,7 +71,7 @@ class UsageFloatPlugin extends Plugin {
       state: () => this.state(),
       dashboard: () => this.openDashboard(),
       toggle: () => this.toggle(),
-      refresh: (id, account) => void this.refresh(id, account),
+      refresh: (id, account) => void this.refreshFromControl(id, account),
       collapse: () => this.configure({ collapsed: !this.preferences.collapsed }),
       hide: () => this.configure({ shown: false }),
       geometry: patch => this.configure(patch),
@@ -81,7 +81,7 @@ class UsageFloatPlugin extends Plugin {
     this.addRibbonIcon("chart-no-axes-column", "显示或隐藏额度浮窗", () => this.toggle());
     this.addCommand({ id: "toggle", name: "显示或隐藏额度浮窗", callback: () => this.toggle() });
     this.addCommand({ id: "dashboard", name: "打开额度总览", callback: this.actions.dashboard });
-    this.addCommand({ id: "refresh", name: "刷新订阅额度", callback: () => void this.refresh() });
+    this.addCommand({ id: "refresh", name: "刷新订阅额度", callback: () => void this.refreshFromControl() });
     this.app.workspace.onLayoutReady(() => {
       if (this.lifetime.signal.aborted) return;
       this.panel = new FloatingPanel(window, this.actions);
@@ -160,6 +160,27 @@ class UsageFloatPlugin extends Plugin {
   async refresh(onlyProvider, accountId) {
     const selected = onlyProvider ? [onlyProvider] : KEYS;
     await Promise.all(selected.filter(id => this.preferences.enabled[id]).map(id => this.refreshProvider(id, accountId)));
+  }
+
+  async refreshFromControl(onlyProvider, accountId) {
+    if ((onlyProvider && onlyProvider !== "antigravity") || !this.preferences.enabled.antigravity) {
+      return this.refresh(onlyProvider, accountId);
+    }
+    if (this.busy.has("antigravity")) {
+      new Notice("Antigravity 正在查询额度。");
+      return;
+    }
+    const previous = new Map(this.rows.antigravity.map(row => [row.id, row.fetchedAt]));
+    await this.refresh(onlyProvider, accountId);
+    if (this.lifetime.signal.aborted) return;
+    const rows = this.rows.antigravity.filter(row => !accountId || row.id === accountId);
+    if (rows.some(row => !row.issue && row.fetchedAt > (previous.get(row.id) ?? 0))) {
+      new Notice("Antigravity 额度已更新。");
+      return;
+    }
+    const reason = rows.find(row => row.issue)?.issue?.message;
+    const summary = rows.some(row => row.windows.length) ? "Antigravity 保留了上次快照。" : "Antigravity 未取得额度。";
+    new Notice([summary, reason].filter(Boolean).join("\n"), 7000);
   }
 
   async refreshProvider(id, accountId) {

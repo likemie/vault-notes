@@ -165,6 +165,8 @@ var require_collectors = __commonJS({
     } = require_model();
     var MAX_OUTPUT = 1024 * 1024;
     var ANTI_CACHE = join(homedir(), ".antigravity_tools");
+    var ANTI_DAEMON = join(homedir(), ".gemini", "antigravity", "daemon");
+    var TOKEN_PATTERN = /^[A-Za-z0-9_-]{6,256}$/;
     var ANTI_APPS = /* @__PURE__ */ new Set([
       "/Applications/Antigravity.app/Contents/Resources/bin/language_server",
       join(homedir(), "Applications/Antigravity.app/Contents/Resources/bin/language_server")
@@ -414,19 +416,42 @@ var require_collectors = __commonJS({
         throw error;
       }
     }
+    async function desktopDaemonToken(pid, port) {
+      let file;
+      try {
+        file = await fs.open(join(ANTI_DAEMON, `hub_${port}.json`), constants.O_RDONLY | constants.O_NOFOLLOW | constants.O_NONBLOCK);
+        const info = await file.stat();
+        if (!info.isFile() || info.uid !== process.getuid() || (info.mode & 63) !== 0 || info.size > 4096) return null;
+        const buffer = Buffer.alloc(4097);
+        const { bytesRead } = await file.read(buffer, 0, buffer.length, 0);
+        if (bytesRead >= buffer.length) return null;
+        const descriptor = JSON.parse(buffer.toString("utf8", 0, bytesRead));
+        if (descriptor?.pid !== Number(pid) || descriptor.httpPort !== port) return null;
+        return typeof descriptor.csrfToken === "string" && TOKEN_PATTERN.test(descriptor.csrfToken) ? descriptor.csrfToken : null;
+      } catch {
+        return null;
+      } finally {
+        if (file) await file.close().catch(() => {
+        });
+      }
+    }
     async function localAntigravity(pid, signal) {
       const args = await command("/bin/ps", ["-ww", "-p", pid, "-o", "uid=,args="], signal);
       const [uid, invocation] = args.trim().split(/\s+(.*)/s, 2);
       if (uid !== String(process.getuid()) || ![...ANTI_APPS].some((path) => invocation?.startsWith(path + " "))) return null;
-      const csrf = /(?:^|\s)--csrf_token(?:=|\s+)([A-Za-z0-9_-]{6,})/.exec(invocation)?.[1];
-      if (!csrf) return null;
+      const legacyToken = /(?:^|\s)--csrf_token(?:=|\s+)([A-Za-z0-9_-]{6,256})(?=\s|$)/.exec(invocation)?.[1];
       const sockets = await command(
         "/usr/sbin/lsof",
         ["-a", "-nP", "-p", pid, "-iTCP", "-sTCP:LISTEN", "-Fn"],
         signal
       );
-      const ports = [...sockets.matchAll(/^n127\.0\.0\.1:(\d{1,5})$/gm)].map((match) => Number(match[1]));
-      const answers = await Promise.allSettled(ports.slice(0, 6).map(async (port) => {
+      const ports = [...sockets.matchAll(/^n127\.0\.0\.1:(\d{1,5})$/gm)].map((match) => Number(match[1])).slice(0, 6);
+      const listeners = await Promise.all(ports.map(async (port) => ({ port, csrf: legacyToken ?? await desktopDaemonToken(pid, port) })));
+      const targets = listeners.filter((listener) => listener.csrf);
+      if (!targets.length) {
+        throw new SourceError("unsupported", "\u5F53\u524D Antigravity \u684C\u9762\u7AEF\u672A\u63D0\u4F9B\u53EF\u8BFB\u53D6\u7684\u672C\u5730\u989D\u5EA6\u63A5\u53E3\u3002\u8BF7\u5728\u684C\u9762\u7AEF\u7684 Models & Usage \u67E5\u770B\u3002");
+      }
+      const answers = await Promise.allSettled(targets.map(async ({ port, csrf }) => {
         const first = (await loopback(port, csrf, "GetUserStatus", signal))?.userStatus;
         const email = text2(first?.email);
         if (!email) throw new SourceError("auth", "\u8BF7\u5728 Antigravity \u684C\u9762\u7AEF\u767B\u5F55\u3002");
@@ -624,6 +649,15 @@ var require_view = __commonJS({
       button.addEventListener("click", callback);
       return button;
     }
+    function refreshAntigravity(parent, state, actions) {
+      const busy = state.busy.has("antigravity");
+      control(parent, busy ? "\u5237\u65B0\u4E2D" : "\u5237\u65B0\u5F53\u524D\u8D26\u53F7", () => actions.refresh("antigravity"), {
+        icon: "refresh-cw",
+        name: "button auf-quiet auf-refresh-current",
+        id: "refresh-antigravity",
+        disabled: busy
+      });
+    }
     function track(parent, value, old) {
       if (value === null) return;
       const bar = add(parent, "div", old ? "track auf-track-old" : "track");
@@ -733,6 +767,7 @@ var require_view = __commonJS({
             const registered = state.rows[id].filter((row) => row.id !== id);
             const plan = id === "antigravity" && registered.length ? registered.length + " \u4E2A\u8D26\u53F7" : id === "grok" && state.rows[id][0]?.plan ? state.rows[id][0].plan + " \u79EF\u5206" : provider.scope;
             if (plan) add(head, "small", "muted", plan);
+            if (id === "antigravity") refreshAntigravity(head, state, this.actions);
             state.rows[id].forEach((row) => displayAccount(section, id, row, state, this.actions));
           }
           if (!ids.length) add(services, "p", "empty", "\u8BF7\u5728\u8BBE\u7F6E\u4E2D\u542F\u7528\u8981\u67E5\u770B\u7684\u670D\u52A1\u3002");
@@ -843,7 +878,11 @@ var require_view = __commonJS({
           for (const id of ids) {
             const service = PROVIDERS2[id];
             const group = add(this.body, "section", "float-service");
-            if (id === "antigravity") add(group, "div", "float-group", service.title);
+            if (id === "antigravity") {
+              const heading = add(group, "div", "float-group");
+              add(heading, "span", "", service.title);
+              refreshAntigravity(heading, state, this.actions);
+            }
             for (const row of state.rows[id]) {
               const element = add(group, "details", "float-account");
               element.dataset.account = row.id;
@@ -995,7 +1034,7 @@ var require_view = __commonJS({
 });
 
 // src/main.js
-var { Plugin, PluginSettingTab, Setting } = require("obsidian");
+var { Notice, Plugin, PluginSettingTab, Setting } = require("obsidian");
 var {
   KEYS,
   PROVIDERS,
@@ -1059,7 +1098,7 @@ var UsageFloatPlugin = class extends Plugin {
       state: () => this.state(),
       dashboard: () => this.openDashboard(),
       toggle: () => this.toggle(),
-      refresh: (id, account) => void this.refresh(id, account),
+      refresh: (id, account) => void this.refreshFromControl(id, account),
       collapse: () => this.configure({ collapsed: !this.preferences.collapsed }),
       hide: () => this.configure({ shown: false }),
       geometry: (patch) => this.configure(patch)
@@ -1068,7 +1107,7 @@ var UsageFloatPlugin = class extends Plugin {
     this.addRibbonIcon("chart-no-axes-column", "\u663E\u793A\u6216\u9690\u85CF\u989D\u5EA6\u6D6E\u7A97", () => this.toggle());
     this.addCommand({ id: "toggle", name: "\u663E\u793A\u6216\u9690\u85CF\u989D\u5EA6\u6D6E\u7A97", callback: () => this.toggle() });
     this.addCommand({ id: "dashboard", name: "\u6253\u5F00\u989D\u5EA6\u603B\u89C8", callback: this.actions.dashboard });
-    this.addCommand({ id: "refresh", name: "\u5237\u65B0\u8BA2\u9605\u989D\u5EA6", callback: () => void this.refresh() });
+    this.addCommand({ id: "refresh", name: "\u5237\u65B0\u8BA2\u9605\u989D\u5EA6", callback: () => void this.refreshFromControl() });
     this.app.workspace.onLayoutReady(() => {
       if (this.lifetime.signal.aborted) return;
       this.panel = new FloatingPanel(window, this.actions);
@@ -1140,6 +1179,26 @@ var UsageFloatPlugin = class extends Plugin {
   async refresh(onlyProvider, accountId) {
     const selected = onlyProvider ? [onlyProvider] : KEYS;
     await Promise.all(selected.filter((id) => this.preferences.enabled[id]).map((id) => this.refreshProvider(id, accountId)));
+  }
+  async refreshFromControl(onlyProvider, accountId) {
+    if (onlyProvider && onlyProvider !== "antigravity" || !this.preferences.enabled.antigravity) {
+      return this.refresh(onlyProvider, accountId);
+    }
+    if (this.busy.has("antigravity")) {
+      new Notice("Antigravity \u6B63\u5728\u67E5\u8BE2\u989D\u5EA6\u3002");
+      return;
+    }
+    const previous = new Map(this.rows.antigravity.map((row) => [row.id, row.fetchedAt]));
+    await this.refresh(onlyProvider, accountId);
+    if (this.lifetime.signal.aborted) return;
+    const rows = this.rows.antigravity.filter((row) => !accountId || row.id === accountId);
+    if (rows.some((row) => !row.issue && row.fetchedAt > (previous.get(row.id) ?? 0))) {
+      new Notice("Antigravity \u989D\u5EA6\u5DF2\u66F4\u65B0\u3002");
+      return;
+    }
+    const reason = rows.find((row) => row.issue)?.issue?.message;
+    const summary = rows.some((row) => row.windows.length) ? "Antigravity \u4FDD\u7559\u4E86\u4E0A\u6B21\u5FEB\u7167\u3002" : "Antigravity \u672A\u53D6\u5F97\u989D\u5EA6\u3002";
+    new Notice([summary, reason].filter(Boolean).join("\n"), 7e3);
   }
   async refreshProvider(id, accountId) {
     if (this.busy.has(id) || this.lifetime.signal.aborted) return;
