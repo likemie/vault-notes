@@ -27,16 +27,20 @@ related_concepts:
   - "[[Champ]]"
   - "[[Ontology]]"
   - "[[Critical Thinking]]"
+  - "[[Restrained Teaching]]"
   - "[[Discipline-Based Theory]]"
   - "[[Positivism]]"
   - "[[Learning Strategies]]"
   - "[[Pure Evaluation]]"
   - "[[Alienation]]"
   - "[[Central Phenomenon]]"
+  - "[[Empirische Unterrichtsforschung]]"
+  - "[[Paradigm]]"
 related_theories:
   - "[[Didactic Triangle]]"
   - "[[Radical Constructivism]]"
   - "[[Panopticism]]"
+  - "[[Behaviorism]]"
 related_methods:
   - "[[Effect Size]]"
 related_persons:
@@ -45,12 +49,17 @@ related_persons:
   - "[[Thomas Aastrup Rømer]]"
   - "[[John Hattie]]"
   - "[[Johan Vilhelm Snellman]]"
-related_facts: []
+  - "[[Alexander Oettl]]"
+related_facts:
+  - "[[Teach Less, Learn More]]"
+  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Schaffar_2024_CogentEdu]]"
   - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
   - "[[Argument_Terhart_2011_JCS]]"
+  - "[[Argument_Hopmann_2007_EERJ]]"
   - "[[Argument_Rømer_2018_EPT]]"
+  - "[[Argument_Ertl_2006_ORE]]"
 confidence: medium
 status: active
 created: '2026-05-06'
@@ -107,7 +116,7 @@ updated: 2026-11-20
 > - **培养反思、论证与共情** 教学论致力于促进学生的[[Critical Thinking|批判性思维]]、自我反思、论证水平与限制共情，与通过标准化问责管理已知知识的逻辑保持距离。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 10]]
 > - **[[Didactic Triangle|教学三角]]形（Didactic Triangle）的三元中介结构** 德语教学论传统确立了教师、学生与学科内容三者构成的教学三角形。教学由具有教育学价值的学科具体知识作为中介展开，反对将教学过程降维为脱离学科内容的二元人际互看或纯形式化技巧训练。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431, 434)]]
 > - **教学分析与课程正当性辩护（Didaktische Analyse）** 以克拉夫基为代表的教学论将教学分析置于备课核心，深入追问具体学科内容如何向学生展现生活世界的意义，以及学生如何通过该内容获得对现实的洞察，要求备课必须完成课程内容选择的价值辩护。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431)]]
-> - **克制型教学（[[Restrained Teaching]]）的共同核心** 教学论的核心行动准则在于通过审慎克制与最小必要介入，为学生自主精神成长留出空间。教学无法直接产出教化，其功能是通过精选文化材料促成学生自我建构。[[Argument_Hopmann_2007_EERJ|(Hopmann, 2007, pp. 109, 115)]]
+> - **[[Restrained Teaching|克制型教学]]（[[Restrained Teaching]]）的共同核心** 教学论的核心行动准则在于通过审慎克制与最小必要介入，为学生自主精神成长留出空间。教学无法直接产出教化，其功能是通过精选文化材料促成学生自我建构。[[Argument_Hopmann_2007_EERJ|(Hopmann, 2007, pp. 109, 115)]]
 > - **客观内容与教育意义的教育学差异** 教学论根本性地区分了客观教授内容（Matter / Inhalt）与教育性内涵（Meaning / Gehalt）。任何教学事实皆非僵死给定的客观存在（factum brutum），二者的结合取决于课堂相遇的实质，教学评价关注教育性内涵的生成性敞开而非单一掌握度。[[Argument_Hopmann_2007_EERJ|(Hopmann, 2007, pp. 116–117)]]
 > - **教学法自由与大纲劳动分工** 教学论传统确立了国家教学大纲划定内容范围、基层教师享有具体方法裁量权的制度契约，确保教学免受微观行政指令与僵化题型操练的过度干预。[[Argument_Hopmann_2007_EERJ|(Hopmann, 2007, pp. 113–114)]]
 
@@ -125,7 +134,7 @@ updated: 2026-11-20
 > [!claim] Terhart, E.
 > 德语教学论传统主张教学必须兼顾思维能力的陶冶（形式教学论）与文化科学知识的传递（实质教学论）。特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）审视《[[Visible Learning|可见的学习]]》指出，英美[[Positivism|实证主义]]将教学窄化为跨情境的通用[[Learning Strategies|认知策略]]与[[Effect Size|效应量]]竞赛，滑向了单一的形式教学论；而在课程维度完全回避各学科的教育学意义以及内容选择的合法化辩护（为何纳入此项、排除彼项），导致教学理论陷入实质内容空洞化的困境。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431)]]
 
-> [!claim] Rømer, T. A.
+> [!claim] [[Thomas Aastrup Rømer|Rømer, T. A.]]
 > **评价图式对教学论传统的遮蔽与教学三角形解体** 托马斯·奥斯特鲁普·罗默（[[Thomas Aastrup Rømer]]）从欧陆教学论与分析哲学视阈审查指出，可见学习在本质上表征了教学完全屈从于简陋评价图式（[[Pure Evaluation|纯粹评价]]）的理论[[Alienation|异化]]。[[John Hattie|哈蒂]]体系系统性放逐了教学论与教化（[[Bildung]]）的[[Central Phenomenon|核心范畴]]（如世界、启迪、权威与学科实质），将师生与文化中介的三元互动还原为学生孤立的主观认知建构；这种[[Radical Constructivism|激进建构主义]]反学校思维将承载人类文明精粹的学科内容降格为工具性刺激载体，导致教学论传统的教学三角形（教师–学生–内容）彻底解体，使教学退化为追求 $d > 0.40$ 的量化控制规程。[[Argument_Rømer_2018_EPT|(Rømer, 2018, pp. 2–3, 7)]]
 
 ---
@@ -157,11 +166,11 @@ updated: 2026-11-20
 
 > [!dev-timeline] 概念演变
 > - **中世纪大学时期 — 规训与生成的词义分化** 欧洲教学实践中形成规训（[[Disciplina and Doctrina|disciplina]]，侧重训诫与纠错）与生成（doctrina，侧重[[Knowledge Production|知识生产]]）的二元区分。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
-> - **17世纪 — 夸美纽斯确立少教多学原则** 夸美纽斯在《大教学论》确立让教师少教、学生多学的方法准则，将教学论奠定为追求自然序列与精炼介入的共同语言。[[Argument_Hopmann_2007_EERJ|(Hopmann, 2007, pp. 112–113)]]
+> - **17世纪 — 夸美纽斯确立[[Teach Less, Learn More|少教多学]]原则** 夸美纽斯在《大教学论》确立让教师少教、学生多学的方法准则，将教学论奠定为追求自然序列与精炼介入的共同语言。[[Argument_Hopmann_2007_EERJ|(Hopmann, 2007, pp. 112–113)]]
 > - **19世纪初 — 德国教学论在芬兰的发展** 伴随芬兰哲学家[[Johan Vilhelm Snellman|约翰·威廉·斯内尔曼]]（Johan Wilhelm Snellman）对教化观的推动，德国教学理论开始影响芬兰的教师教育和学术构建。
 > - **19世纪初 — 普鲁士教学大纲与教学法自由确立** 普鲁士废止繁苛的微观学校章程，转向纲领性教学大纲，并在国家大纲规定与学校教学之间确立了以教师教学法自由（pedagogical freedom）为基石的专业分工。[[Argument_Hopmann_2007_EERJ|(Hopmann, 2007, pp. 113–114)]]
 > - **20世纪末 — 批判建设性教学论转向** 克拉夫基提出[[Epochal Key Problems|时代关键问题]]假说，旨在通过重组课程结构，使教育直面社会的全球性正义与危机。
-> - **2006年 — 后 PISA 实证转型与普通教学论危机** 厄特尔（[[Argument_Ertl_2006_ORE|Ertl, 2006]]）系统剖析德意志教学大纲与教学论传统的历史遭遇：传统大纲深受实质教学论影响，将教学分析置于核心并坚守评价不进课程的传统信念；PISA 震荡后国家推行产出导向胜任力标准，引发教育科学界普通教学论与实证教学研究的学科范式冲突与基层备课真空（pp. 623–624, 627–629）。
+> - **2006年 — 后 [[PISA]] 实证转型与普通教学论危机** [[Alexander Oettl|厄特尔]]（[[Argument_Ertl_2006_ORE|Ertl, 2006]]）系统剖析德意志教学大纲与教学论传统的历史遭遇：传统大纲深受实质教学论影响，将教学分析置于核心并坚守评价不进课程的传统信念；PISA 震荡后国家推行产出导向胜任力标准，引发教育科学界普通教学论与[[Empirische Unterrichtsforschung|实证教学研究]]的学科[[Paradigm|范式]]冲突与基层备课真空（pp. 623–624, 627–629）。
 > - **2007年 — 霍普曼提炼克制型教学共同核心** 霍普曼系统考掘欧陆教学论的共同基石为克制型教学，从内容与意义差异及教与学自主性视阈，批判能力本位测试对教学法自由与教化追求的制度瓦解。[[Argument_Hopmann_2007_EERJ|(Hopmann, 2007, pp. 109, 118–121)]]
 > - **2014年 — 芬兰跨学科课程改革的理论整合** 教学论传统的时代危机意识与[[Phenomenon-Based Learning|现象本位学习]]取向融合，成为芬兰核心课程政策的哲学底色。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 7]]
 
@@ -198,7 +207,7 @@ updated: 2026-11-20
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 梳理 PISA 震荡后普通教学论与实证课堂教学研究的学科冲突，揭示行为主义胜任力标准对传统内容大纲的冲击。
+> - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 梳理 PISA 震荡后普通教学论与实证课堂教学研究的学科冲突，揭示[[Behaviorism|行为主义]]胜任力标准对传统内容大纲的冲击。
 > - [[Argument_Schaffar_2024_CogentEdu|Schaffar and Wolff (2024)]] — 考掘欧洲教学论与教化传统的批判解放内涵，阐述芬兰国家核心课程中跨学科与[[Phenomenon-Based Learning|现象本位学习]]的理论根基。
 > - [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz and Klinge (2022)]] — 探讨算法化时代教学论、教化与规范教育的整合星座，反思技术介入对教师教学判断的影响。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 从欧陆教学论与教化传统批判可见学习抽空学科实质内容与课程合法化反思的形式主义局限。

@@ -36,10 +36,14 @@ related_concepts:
   - "[[International Large-Scale Assessments]]"
   - "[[Curriculum Alignment]]"
   - "[[Competitiveness]]"
+  - "[[Direct Instruction]]"
+  - "[[Hybrid Pedagogy]]"
+  - "[[Rote Learning]]"
   - "[[Alienation]]"
   - "[[Research Utilization]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Document]]"
+  - "[[Empirische Unterrichtsforschung]]"
 related_theories: []
 related_methods:
   - "[[Trend Study]]"
@@ -54,6 +58,8 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[William H. Schmidt]]"
+  - "[[Zongyi Deng]]"
+  - "[[Saravanan Gopinathan]]"
   - "[[John Hattie]]"
 related_facts:
   - "[[IEA]]"
@@ -190,8 +196,8 @@ updated: 2026-11-21
 > > [!axis] 课程知识掌握与生活情境应用测评的二元分立真伪
 > > 探讨教育界流行假定（TIMSS 仅测查大纲知识识记而讲授操练足矣，PISA 测查情境应用必须依赖探究课改）是否成立。
 > >
-> > - **流行二元划分假定** 假定直接讲授只能应对基于大纲测查知识掌握的 TIMSS，而应对考查生活情境应用的 PISA 则必须转向以学生为中心的开放探究教学。
-> > - **课程实证批判视角（Hopmann, 2008; [[Argument_Deng_2016_CE|Deng & Gopinathan, 2016]]）** 邓宗怡与高平纳坦实证指出，两类国际测评的试题本质上均为高度结构化与抽象化的纸笔学术测试；以直接讲授为骨干、查漏补缺为辅助的混合教学法规程，对学生在 TIMSS 与 PISA 中的顶尖得分均具备最稳健的预测效力，打破了将 TIMSS 贬低为单纯机械记忆测试的刻板偏见。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 450, 454)]]
+> > - **流行二元划分假定** 假定[[Direct Instruction|直接讲授]]只能应对基于大纲测查知识掌握的 TIMSS，而应对考查生活情境应用的 PISA 则必须转向以学生为中心的开放探究教学。
+> > - **课程实证批判视角（Hopmann, 2008; [[Argument_Deng_2016_CE|Deng & Gopinathan, 2016]]）** [[Zongyi Deng|邓宗怡]]与[[Saravanan Gopinathan|高平纳坦]]实证指出，两类国际测评的试题本质上均为高度结构化与抽象化的纸笔学术测试；以直接讲授为骨干、查漏补缺为辅助的[[Hybrid Pedagogy|混合教学法]]规程，对学生在 TIMSS 与 PISA 中的顶尖得分均具备最稳健的预测效力，打破了将 TIMSS 贬低为单纯[[Rote Learning|机械记忆]]测试的刻板偏见。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 450, 454)]]
 >
 > > [!axis] 跨国大规模量化测评的技术主义去情境化 vs 深嵌历史制度文脉的多案例比较
 > > 围绕以 TIMSS 和 PISA 为代表的跨国标准化测验带来的去情境化技术主义冲击，与扎根具体社会历史文脉和制度生态的质性多案例比较传统之间的学科争鸣。
@@ -225,7 +231,7 @@ updated: 2026-11-21
 > | [[Gesamtstrategie zum Bildungsmonitoring]] | Fact (Policy) | 德国将 TIMSS 纳为国家教育监测第一支柱的纲领性政策。 |
 > | [[William H. Schmidt]] | Person | 密歇根州立大学教授，利用 TIMSS 数据诊断全美课程病理的关键政策企业家。 |
 > | [[Policy Entrepreneur]] | Concept | 运用 TIMSS 证据将课程缺陷与国家竞争力危机相联系以推动政策议程的行动者理论。 |
-> | [[Research Utilization]] | Concept | 阐释 TIMSS 数据在宏观议程设置中发挥概念性与[[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]功能的理论框架。 |
+> | [[Research Utilization]] | Concept | 阐释 TIMSS 数据在宏观议程设置中发挥概念性与[[Conceptual, Instrumental, and Symbolic Use of Research\|象征性使用]]功能的理论框架。 |
 > | [[School Inspection]] | Concept | 现场过程督导机制，弥补 TIMSS 纯量化产出测试的机制缺失。 |
 
 ---
@@ -238,4 +244,4 @@ updated: 2026-11-21
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 记录 ACER 等机构垄断 TIMSS 核心合同引发欧洲抗议及 TIMSS 震荡催生 SINUS 的机制。
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 援引 TIMSS 对 54 个教育系统的跨国课程轨迹比较（Cogan et al., 2001），论证中央集权型且流转对齐的课程体制在保障学生学业一致性上的制度优势（p. 8）。
 > - [[Argument_Silova_2009_EE|Silova (2009)]] — 批判 TIMSS 等大规模量化评价对教育制度的去情境化技术主义冲击，论证坚守深嵌历史文脉与制度生态之多案例质性比较的学科底线（pp. 28–29）。
-> - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 记录 TIMSS 作为德国在 1960 年代后长期孤立政策下少数参与的国际测评之一，及其在实证教学研究取代传统普通教学论过程中充当技术诊断工具的定位。
+> - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 记录 TIMSS 作为德国在 1960 年代后长期孤立政策下少数参与的国际测评之一，及其在[[Empirische Unterrichtsforschung|实证教学研究]]取代传统普通教学论过程中充当技术诊断工具的定位。

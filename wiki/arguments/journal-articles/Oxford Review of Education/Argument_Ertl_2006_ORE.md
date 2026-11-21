@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Discourse]]"
   - "[[Tripartite School System]]"
+  - "[[Empirische Unterrichtsforschung]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Alienation]]"
@@ -46,6 +47,7 @@ related_concepts:
   - "[[Cultural Disembedding]]"
   - "[[Scientific Paradigm]]"
   - "[[Further Education]]"
+  - "[[Competence Clash]]"
   - "[[Technical Rationality]]"
   - "[[Operationalization]]"
   - "[[Scientific Method]]"
@@ -68,10 +70,12 @@ related_facts:
   - "[[Federal Ministry of Education and Research]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[Klieme Report]]"
+  - "[[PISA-Ländervergleich]]"
   - "[[OECD]]"
   - "[[Education at a Glance]]"
   - "[[A Nation at Risk 1983]]"
   - "[[Realschule]]"
+  - "[[KMK-Bildungsstandards]]"
   - "[[Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung]]"
   - "[[SINUS]]"
   - "[[Investitionsprogramm Zukunft Bildung und Betreuung]]"
@@ -91,7 +95,7 @@ title: "Argument_Ertl_2006_ORE"
 argument_key: "Argument_Ertl_2006_ORE"
 argument_display_title: "Educational standards and the changing discourse on education: the reception and consequences of the PISA study in Germany"
 argument_kind: "journal-article"
-argument_related_count: 53
+argument_related_count: 58
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -108,7 +112,7 @@ issuing_organization: ""
 > [[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）首届测试结果如何改变德国在教育政治、课程开发与学术研究三个维度的政策[[Discourse|话语]]，以及为何随之形成的激进改革议程聚焦于技术性的国家标准与质量评估，却刻意回避了中等教育[[Tripartite School System|三轨学制]]的早期能力分流结构？
 
 > [!claim] 核心主张
-> PISA 2000 的不利结果在德国引发了全国性的制度恐慌与政治动员，打破了联邦各州在文化高权壁垒下持续数十年的改革积压，迅速确立了以制定国家教育标准（National Educational Standards, NES）和设立柏林[[Institute for Educational Quality Improvement|教育质量发展研究所]]（Institute for Educational Quality Improvement, IQB）为中枢的新治理共识；课程开发机制随之从传统的教学论内容规制转向以胜任力为导向的外部产出控制，教育学学术话语亦实现了从思辨教化哲学向实证教学研究的[[Paradigm|范式]]转向。然而，各派政治力量与主流学术界在改革中达成共谋，将三轨学制的早期分流与[[Gesamtschule|综合中学]]改革定性为不可触碰的政治禁忌，导致技术标准的引入不仅未能触及阶层固化的结构性根源，反而扩大了优势学术文法中学与弱势轨道之间的成就差距。
+> PISA 2000 的不利结果在德国引发了全国性的制度恐慌与政治动员，打破了联邦各州在文化高权壁垒下持续数十年的改革积压，迅速确立了以制定国家教育标准（National Educational Standards, NES）和设立柏林[[Institute for Educational Quality Improvement|教育质量发展研究所]]（Institute for Educational Quality Improvement, IQB）为中枢的新治理共识；课程开发机制随之从传统的教学论内容规制转向以胜任力为导向的外部产出控制，教育学学术话语亦实现了从思辨教化哲学向[[Empirische Unterrichtsforschung|实证教学研究]]的[[Paradigm|范式]]转向。然而，各派政治力量与主流学术界在改革中达成共谋，将三轨学制的早期分流与[[Gesamtschule|综合中学]]改革定性为不可触碰的政治禁忌，导致技术标准的引入不仅未能触及阶层固化的结构性根源，反而扩大了优势学术文法中学与弱势轨道之间的成就差距。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 2000 年与 2003 年两轮 PISA 测评后[[Federal Ministry of Education and Research|德国联邦教育与研究部]]（Federal Ministry of Education and Research, BMBF）、[[Standing Conference of the Ministers of Education and Cultural Affairs|常设各州教育与文化部长会议]]（Standing Conference of the Ministers of Education and Cultural Affairs, KMK）、劳资社会伙伴的政策法令、专家论证报告以及课程实施方案。
@@ -141,7 +145,7 @@ issuing_organization: ""
 > |---|---|
 > | **政策与法规文本** | KMK 国家教育标准文件（KMK, 1995, 2005）、联邦教研部改革行动纲领（BMBF, 2003, 2005）、克利姆专家论证报告（Klieme et al., 2003）。 |
 > | **社会伙伴[[Document\|文献]]** | 劳资双方关于第二轮 PISA 评估后果的联合声明（DGB & BDA, 2005）、教育与科学工会改革行动计划（GEW, 2005）。 |
-> | **官方统计与测评数据** | 联邦统计局中小学办学全口径建制数据（Statistisches Bundesamt, 2006）、PISA 2000 与 2003 德国联合测试数据集（Deutsches PISA-Konsortium, 2001, 2003a）。 |
+> | **官方统计与测评数据** | 联邦统计局中小学办学全口径建制数据（Statistisches Bundesamt, 2006）、PISA 2000 与 2003 德国联合测试及[[PISA-Ländervergleich\|各州比较研究]]（PISA-Ländervergleich）数据集（Deutsches PISA-Konsortium, 2001, 2002, 2003a, 2003b）。 |
 
 ---
 
@@ -182,7 +186,7 @@ issuing_organization: ""
 
 > [!proc] 国家教育标准与质量监测中枢的确立进程
 > 1. **研制国家标准技术蓝图** 联邦教育与研究部（BMBF）委托埃克哈德·克利姆（Eckhard Klieme）领衔的专家组研制国家标准方案。《克利姆报告》（Klieme Report）将国家教育标准（NES）定义为制定学校教学与学习的法定约束性要求，规定学生在特定年级终结时必须达到的胜任力（Klieme et al., 2003, p. 9）。
-> 2. **通过全德统一执行决议** KMK 依据该方案打破旷日持久的协商周期，于 2003 年 7 月即颁布初中毕业（[[Realschule|实科中学]]阶段）德语、数学和第一外语的标准蓝图，并在 12 月正式通过全德在 2004/05 学年统一执行国家教育标准的决议。
+> 2. **通过全德统一执行决议** KMK 依据该方案打破旷日持久的协商周期，于 2003 年 7 月即颁布初中毕业（[[Realschule|实科中学]]阶段）德语、数学和第一外语的标准蓝图，并在 12 月正式通过全德在 2004/05 学年统一执行[[KMK-Bildungsstandards|KMK 国家教育标准]]的决议。
 > 3. **设立跨州质量监测中枢** 2004 年在柏林洪堡大学创立的柏林[[Institute for Educational Quality Improvement|教育质量发展研究所]]（IQB），成为二战后德国首个跨越州级界限行使全国教育质量评估与测试职能的常设机构，确立了全德统一的[[Output-Oriented Governance|产出导向治理]]技术中枢（KMK, 2005; IQB, 2006）。
 
 > [!feature] 联邦教研部（BMBF）后 PISA 综合改革行动光谱
@@ -255,7 +259,7 @@ issuing_organization: ""
 >
 > - **经验社会[[Scientific Paradigm|科学范式]]确立主导**
 >
->   学科经历急剧的经验转向（scharfe empirische Wende），学科重组的合法性天平全面倒向能够直接生产诊断指标的教育心理学与实证教学研究团队（Bohl, 2004）。
+>   学科经历急剧的经验转向（scharfe empirische Wende），学科重组的合法性天平全面倒向能够直接生产诊断指标的教育心理学与[[Empirische Unterrichtsforschung|实证教学研究]]团队（Bohl, 2004）。
 
 > [!sub-claim] 2. 强调考试产出的行为主义能力指标，与注重育人过程的德国陶冶传统产生剧烈冲突
 
@@ -263,7 +267,7 @@ issuing_organization: ""
 > - **行为主义产出测评导向** 外部引进的教育标准以可测量行为指标为基底（类似英国国家职业资格（National Vocational Qualifications, NVQs）模式遭致的工具化批评；Smithers, 1997），片面紧盯测试终端产出，将真实的教学生成过程与认知互动推入黑箱。
 > - **人文本质与行动陶冶导向** 德语本土传统在职教和[[Further Education|继续教育]]领域虽有行动胜任力（Handlungskompetenz）传统（Arnold, 1998; Bader & Müller, 2002; Ertl, 2005），但更强调教学输入保障、长周期育人陶冶与师生反思对话，主张胜任力不可脱离具体情境与人文教化过程。
 >
-> **关键分歧** 斯隆与迪尔格将该冲突定性为胜任力冲突（Competence clash; Sloane & Dilger, 2005），揭示出考试[[Technical Rationality|技术理性]]对人文陶冶传统的强烈侵蚀与学科范式不可调和的深层矛盾。
+> **关键分歧** 斯隆与迪尔格将该冲突定性为[[Competence Clash|能力范式冲突]]（Competence clash; Sloane & Dilger, 2005），揭示出考试[[Technical Rationality|技术理性]]对人文陶冶传统的强烈侵蚀与学科范式不可调和的深层矛盾。
 
 ---
 
@@ -302,7 +306,7 @@ issuing_organization: ""
 > [!finding-cards] 核心发现
 > 1. **外生危机打破分权宪政僵局** PISA 震荡作为强有力的外生政治动能，打破了各州文化主权数十年的制度僵局，催生了全国统一的教育标准与全德计算中枢 IQB。
 > 2. **课程指导真空诱发教材反噬** 激进废除教学大纲而缺乏教学转化配套，导致基层教师陷入胜任力[[Operationalization|操作化]]真空，被迫重归对传统商业教科书的高度依附。
-> 3. **教育科学话语经历经验转向** 实证课堂教学研究打破人文学派普通教学论的传统垄断，确立了以量化可测胜任力为导向的[[Scientific Method|经验科学]]主导地位。
+> 3. **教育科学话语经历经验转向** [[Empirische Unterrichtsforschung|实证课堂教学研究]]打破人文学派普通教学论的传统垄断，确立了以量化可测胜任力为导向的[[Scientific Method|经验科学]]主导地位。
 > 4. **回避学制分轨巩固阶层鸿沟** 决策层在推行质量标准时刻意回避三轨学制早期分选弊端，将[[Gesamtschule|综合中学]]定性为政治禁忌，导致 PISA 2003 的分数微增演变为文法中学的孤立红利，反向拉大了阶层不平等。
 
 > [!stat-cards]- 核心数据

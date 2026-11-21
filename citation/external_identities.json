@@ -9304,7 +9304,8 @@
       "doi": "",
       "isbn": "978-3-8100-3663-6",
       "seen_in": [
-        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
+        "wiki/facts/germany/PISA-Ländervergleich.md"
       ],
       "title": "Pisa 2000—Die Länder der Bundesrepublik Deutschland im Vergleich"
     },
@@ -13173,7 +13174,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
+        "wiki/concepts/instruction-pedagogy/Empirische Unterrichtsforschung.md"
       ],
       "title": "Empirische Unterrichtsforschung und Allgemeine Didaktik. Entstehung, Situation und Konsequenzen eines prekären Spannungsverhältnisses im Kontext der PISA-Studie"
     },
@@ -29115,7 +29117,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
+        "wiki/facts/germany/PISA-Ländervergleich.md"
       ],
       "title": "PISA 2003: Ergebnisse des zweiten Ländervergleichs. Zusammenfassung"
     },
@@ -34633,7 +34636,8 @@
       "doi": "",
       "isbn": "978-3-933436-67-2",
       "seen_in": [
-        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
+        "wiki/concepts/educational-policy-reform/Competence Clash.md"
       ],
       "title": "Das Kompetenzkonzept: Zugänge zur Diskussion in der deutschen Berufs- und Wirtschaftspädagogik"
     },
@@ -61921,7 +61925,8 @@
       "doi": "",
       "isbn": "978-3-89676-712-7",
       "seen_in": [
-        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
+        "wiki/concepts/instruction-pedagogy/Empirische Unterrichtsforschung.md"
       ],
       "title": "Literacy versus curriculum?"
     },
@@ -62371,6 +62376,14 @@
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
       "title": "PISA II—Ernte erster Früchte oder Anlass zu erneutem Zweifel am deutschen Schulsystem?"
+    },
+    "Klein, 2005b": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/germany/PISA-Ländervergleich.md"
+      ],
+      "title": ""
     },
     "Klein, 2008": {
       "datasets": [
@@ -65759,7 +65772,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
+        "wiki/concepts/instruction-pedagogy/Empirische Unterrichtsforschung.md"
       ],
       "title": "Trial and error? Konsequenzen aus PISA—Ein Zwischenruf"
     },
@@ -86602,14 +86616,6 @@
       ],
       "title": ""
     },
-    "P. A., 1986": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/theories/political-economy-geopolitics/Historical Institutionalism.md"
-      ],
-      "title": ""
-    },
     "P. David Miller, 1989": {
       "doi": "",
       "isbn": "",
@@ -92513,14 +92519,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Network Governance.md"
-      ],
-      "title": ""
-    },
-    "R. C. R., 1996": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/theories/political-economy-geopolitics/Historical Institutionalism.md"
       ],
       "title": ""
     },
@@ -105857,6 +105855,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
+        "wiki/concepts/educational-policy-reform/Competence Clash.md",
         "wiki/facts/germany/KMK-Bildungsstandards.md"
       ],
       "title": "The competence clash—Dilemmata bei der Übertragung des Konzepts der nationalen Bildungsstandards auf die berufliche Bildung"

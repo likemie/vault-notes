@@ -34,6 +34,7 @@ related_concepts:
   - "[[Educational Brokerage Agency]]"
   - "[[Epistemology]]"
   - "[[Critical Thinking]]"
+  - "[[Empirische Unterrichtsforschung]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Knowledge Transfer]]"
   - "[[Reliability]]"
@@ -154,7 +155,7 @@ journal: "berufsbildung: Zeitschrift für Theorie-Praxis-Dialog"
 现代教师专业化发展日益借鉴医学等成熟专业领域，要求教师不仅依赖个人主观经验或直觉惯性，而应面向可靠科学证据作出理性决策（Bauer & Kollar, 2023）。科学立论的行动能够提升教学有效性并更可靠地达成培养目标（Knogler et al., 2022a, 2022b），但在学校日常教学中推进[[Evidence-Informed Practice|证据知情实践]]（Stark, 2017）面临深刻的结构性障碍。
 
 > [!feature] 教师专业决策转向与转移困境的双重表征
-> - **科学立论的专业化诉求** 教师日常面临常规测试效用、[[Critical Thinking\|批判性思维]]培养路径、数字化工具应用边界等微观抉择；实证教学研究（如[[Inquiry-Based Learning\|探究学习]]与问题导向学习）虽已积累大量有效因果证据，但多散见于专业期刊，难以直接转化为微观决策支撑。
+> - **科学立论的专业化诉求** 教师日常面临常规测试效用、[[Critical Thinking\|批判性思维]]培养路径、数字化工具应用边界等微观抉择；[[Empirische Unterrichtsforschung|实证教学研究]]（如[[Inquiry-Based Learning\|探究学习]]与问题导向学习）虽已积累大量有效因果证据，但多散见于专业期刊，难以直接转化为微观决策支撑。
 > - **结构性转移困境的成因** 转移难题（Gräsel, 2010）并非源于证据匮乏，而是学术生产通常以理论推进与科学知识演进为目标，不直接提供行动方案（Shavelson, 2020）；同时，学术出版物质量良莠不齐，一线实践者既缺乏计量文献鉴别能力，又承受着繁重课务与时间挤压，导致科研产出与实践需求长期脱节。
 
 面对此种系统性脱节，[[Knowledge Transfer|知识转移]]绝非学术论文发表后的自发扩散过程，必须由专业中介机构承担连接与重构职能。

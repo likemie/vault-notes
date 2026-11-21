@@ -32,6 +32,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Feedback]]"
   - "[[Didaktik]]"
+  - "[[Competence Clash]]"
   - "[[Technical Rationality]]"
   - "[[Intentionality]]"
   - "[[Neo-Taylorism]]"
@@ -115,7 +116,7 @@ updated: 2026-11-21
 > - **1963 — 格拉泽创立[[Criterion-Referenced Test|标准参照测验]]** 提出以行为表现是否达到绝对胜任标准为判准的标准参照测验（CRM），取代依据常模群体排名的相对评价，奠定现代课程标准胜任力评价基础。
 > - **1980/1982 — [[Herbert Walberg|沃尔伯格]]学派对强化技术的[[Meta-analysis|元分析]]综合** 莱萨科夫斯基与沃尔伯格（Lysakowski & Walberg, 1980, 1982）针对课堂强化与矫正性线索展开大规模一阶元分析，分别录得 $d = 1.17$ 与 $d = 0.97$ 的超高[[Effect Size|效应量]]，为行为控制技术提供了大[[Sample Size Determination|样本量]]化证据支撑。
 > - **1987/2009 — [[John Hattie|哈蒂]]将行为控制模型植入可见学习** 约翰·哈蒂（[[John Hattie]]）在 1987 年学生学习模型中明确依凭格拉泽理论，在《[[Visible Learning|可见的学习]]》中将[[Feedback|教学反馈]]狭义界定为修正偏差的后置刺激（$d = 0.73$），使行为主义控制逻辑成为循证教学评价的核心理论基石。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 4–5)]]
-> - **2006 — 德国 [[PISA]] 改革中行为主义能力指标与[[Didaktik|欧陆教学论]]的冲突** [[Argument_Ertl_2006_ORE|Ertl (2006)]] 揭示德国在应对 PISA 冲击时外部引进以可测量行为指标为基底的能力标准与产出测评，与本土强调长周期育人陶冶、教学输入保障与师生反思对话的德意志教学论（[[Didaktik]]）及行动胜任力（Handlungskompetenz）传统爆发剧烈冲突（胜任力冲突，Competence Clash），导致真实教学生成过程被推入黑箱。
+> - **2006 — 德国 [[PISA]] 改革中行为主义能力指标与[[Didaktik|欧陆教学论]]的冲突** [[Argument_Ertl_2006_ORE|Ertl (2006)]] 揭示德国在应对 PISA 冲击时外部引进以可测量行为指标为基底的能力标准与产出测评，与本土强调长周期育人陶冶、教学输入保障与师生反思对话的德意志教学论（[[Didaktik]]）及行动胜任力（Handlungskompetenz）传统爆发剧烈冲突（[[Competence Clash|胜任力冲突]]，Competence Clash），导致真实教学生成过程被推入黑箱。
 > - **2021 — [[Critical Theory|批判理论]]对行为主义[[Technical Rationality|技术理性]]的系统解构** 尼尔森与克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）确凿证实哈蒂实证综合的思想底色属于斯金纳—格拉泽行为主义谱系与[[Technical Rationality|技术理性]]，揭示其抽离师生[[Intentionality|主体意向性]]并演化为[[Neo-Taylorism|新泰勒主义]]规训工具的机制。
 
 ---

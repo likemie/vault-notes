@@ -38,6 +38,7 @@ related_concepts:
   - "[[School Choice]]"
   - "[[Tracking]]"
   - "[[Selective Education]]"
+  - "[[Opportunity Structure]]"
   - "[[Cross-National Attraction]]"
   - "[[PISA Shock]]"
 related_theories:
@@ -157,7 +158,7 @@ updated: 2026-11-21
 > | [[Comprehensive Education]] | Concept | 综合中学所属的国际中等教育理论与非分流单轨制哲学形态。 |
 > | [[Tracking]] | Concept | 综合中学致力于废止或推迟的核心制度机制（小学 10 岁早期分轨）。 |
 > | [[Selective Education]] | Concept | 综合中学所反对的以考试与学能推荐为前置筛选的教育模式。 |
-> | 教育公平（Educational Equality） | Concept | 综合中学改革方案的核心价值诉求与正当性辩护基石。 |
+> | [[Opportunity Structure]] | Concept | 综合中学改革方案旨在重构的阶层升学与发展机会结构。 |
 > | [[Cross-National Attraction]] | Concept | 德国在 PISA 后对芬兰综合学制表现出吸引力，但随后被政治禁忌化阻断。 |
 > | [[Discourse]] | Concept | 综合中学在德国后 PISA 政策话语中被建构成不可触及的话语禁忌。 |
 > | [[PISA Shock]] | Concept | 重新激活关于综合学校与分流学制孰优孰劣讨论的外部危机事件。 |

@@ -25,6 +25,7 @@ tags:
   - theme/visible-learning-critique
 related_concepts:
   - "[[Experiential Learning]]"
+  - "[[Empirische Unterrichtsforschung]]"
   - "[[Evidence-Based Education]]"
   - "[[Visible Learning]]"
   - "[[Commensuration]]"
@@ -68,7 +69,7 @@ updated: 2026-11-15
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 德国[[Experiential Learning|经验教育]]研究与学科教学论（Empirische Unterrichtsforschung）权威学者，希尔德斯海姆大学（Universität Hildesheim）教授，曾任慕尼黑大学（LMU）与慕尼黑工业大学（TUM）研究员。
+> - **身份位置** 德国[[Experiential Learning|经验教育]]研究与学科教学论（[[Empirische Unterrichtsforschung]]）权威学者，希尔德斯海姆大学（Universität Hildesheim）教授，曾任慕尼黑大学（LMU）与慕尼黑工业大学（TUM）研究员。
 > - **核心角色** [[Evidence-Based Education|循证教育]]方法学计量审查领军学者；在国际学术界以对[[John Hattie|约翰·哈蒂]]（John Hattie）《[[Visible Learning|可见的学习]]》开展公理化统计模型推导与严密六步方法学技术审计而著称。
 > - **代表贡献** 证明[[Fixed-Effect Model|固定效应]]二阶[[Meta-meta-analysis|元-元分析]]等价于单级直接合成的代数充要条件；提出解构排行榜范畴[[Commensuration|通约]]失范的[[Category Mistake|德甲联赛隐喻]]；首倡建立解耦商业出版与全量原始统计矩阵归档的中央标准化证据[[Data Infrastructure|数据基础设施]]（Zentrale Datenbank）。
 

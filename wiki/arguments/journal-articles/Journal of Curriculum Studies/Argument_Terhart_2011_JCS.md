@@ -41,6 +41,7 @@ related_concepts:
   - "[[Performance Pay]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Hypothesis]]"
+  - "[[Empirische Unterrichtsforschung]]"
   - "[[Variable]]"
   - "[[Teacher Effects]]"
   - "[[Discourse]]"
@@ -250,7 +251,7 @@ journal: "Journal of Curriculum Studies"
 > - **结论：金字塔替代圣杯** 未曾寻获终极圣杯，其实际成果是筑起了一座庞大的金字塔：一方面体量巨大、形式固化而无法移位；另一方面局部不断受损、整体无休止扩建修复，始终处于临时性与未完成状态。
 
 > [!implication]- [[Evidence-Based Policy-Making|循证决策]]与教学研究的方法学启示
-> - **对实证教学研究的警示** 教学实践的复杂性与情境性无法被二阶统计聚合彻底吸收，二阶元分析绝不能取代针对特定课堂情境与微观互动的初级实证研究与质性探究。
+> - **对[[Empirische Unterrichtsforschung|实证教学研究]]的警示** 教学实践的复杂性与情境性无法被二阶统计聚合彻底吸收，二阶元分析绝不能取代针对特定课堂情境与微观互动的初级实证研究与质性探究。
 > - **对教育政策制定的规诫** 政策制定者不能寄望于单一量化效应排行榜作为终极决策工具，必须警惕量化还原论，并在循证决策中重拾对教育实质价值与课程内容合法性的反思。
 
 ---

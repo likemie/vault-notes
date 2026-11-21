@@ -27,6 +27,7 @@ tags:
   - theme/competence-assessment
 related_concepts:
   - "[[Discourse]]"
+  - "[[Immigrant Status]]"
   - "[[Socioeconomic Status]]"
   - "[[Center of Calculation]]"
   - "[[Total War]]"
@@ -43,6 +44,7 @@ related_facts:
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[Gesamtstrategie zum Bildungsmonitoring]]"
   - "[[PISA]]"
+  - "[[PISA-Ländervergleich]]"
   - "[[Zentrum für internationale Bildungsvergleichsstudien]]"
   - "[[National Education]]"
   - "[[New Zealand National Standards]]"
@@ -62,7 +64,7 @@ updated: 2026-10-30
 > [[Institute for Educational Quality Improvement\|IQB]] 教育趋势测评（IQB-Bildungstrend，早期亦称 Ländervergleich / 跨州比较研究）是德国依据各州教育与文化部长常设会议（[[Standing Conference of the Ministers of Education and Cultural Affairs]], KMK）[[Gesamtstrategie zum Bildungsmonitoring\|国家教育监测总体战略]]设立的全国代表性抽样达标测评项目。该项目由[[Institute for Educational Quality Improvement\|柏林教育质量发展研究所]]（Institute for Educational Quality Improvement, IQB）全面统筹，用于系统监测德国 16 个联邦州的学生在多大程度上达到了国家统一制定的教育标准（Bildungsstandards）（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 143–144]]）。
 
 > [!program-context] 项目背景
-> - **立项时间 / 周期** 2008–2009 年正式从早期 [[PISA]] 各州扩展样本（PISA-E / PISA-BS）脱胎独立；以 3 年为轮替周期（小学 4 年级与初中 9 年级交替施测），已常态化运行至今。
+> - **立项时间 / 周期** 2008–2009 年正式从早期 [[PISA]] 各州扩展样本（[[PISA-Ländervergleich|PISA-E]] / PISA-BS）脱胎独立；以 3 年为轮替周期（小学 4 年级与初中 9 年级交替施测），已常态化运行至今。
 > - **发起方与资助机制** 由 KMK 决议发起，16 个联邦州共同出资，委托洪堡大学附属的独立研究中枢 IQB 负责具体的框架研发、试题编制、抽样施测与数据分析。
 > - **覆盖范围与对象** 覆盖全德 16 个联邦州的普通中小学校，每轮测评抽取数千所学校、数万名小学 4 年级或初中 9 年级学生，构成具备全州与全国代表性的分层[[Random Sampling\|概率抽样]]。
 > - **核心问题导向** 克服 2000 年 PISA 震荡后各州仅依赖国际测评排名的被动局面，建立德国本土自主可控的、对标国家教育标准的跨州达标度追踪工具（[[Argument_Hartong_2018_GSE\|Hartong, 2018, p. 143]]）。
@@ -116,7 +118,7 @@ updated: 2026-10-30
 
 > [!finding-cards] 核心学术与政策影响
 > - **国家标准达成度的透明化刻画** 精确测定全德及各联邦州未能达到最低标准（Mindeststandard）的学生比例，打破了传统德国仅凭毕业证书互认而缺乏实际学业产出度量的黑箱。
-> - **社会背景与移民背景学业差距揭示** 持续监测移民一代、二代学生及低[[Socioeconomic Status|社会经济地位]]家庭子女在阅读与数学领域的达标鸿沟，为全德教育公平政策提供客观靶向。
+> - **社会背景与[[Immigrant Status|移民背景]]学业差距揭示** 持续监测移民一代、二代学生及低[[Socioeconomic Status|社会经济地位]]家庭子女在阅读与数学领域的达标鸿沟，为全德教育公平政策提供客观靶向。
 > - **反向穿透各州文化主权** 尽管德国法律严格禁止公开发布个别学校排名表，但 [[Institute for Educational Quality Improvement\|IQB]]-Bildungstrend 输出的跨州达标排行榜对各州教育部构成了巨大的政治与公众舆论压力，实质性重塑了联邦多层级教育治理格局（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 143–145]]）。
 
 ---

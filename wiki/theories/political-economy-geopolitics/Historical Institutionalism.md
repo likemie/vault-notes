@@ -7,7 +7,7 @@ aliases:
 summary: "当代政治学与社会学核心制度分析范式；主张制度是承载权力分配后果的持久组织安排，强调历史时间性、路径依赖与关键节点；早期侧重外生危机冲击下的间断均衡，后经施特雷克、马奥尼与希伦发展，将制度重构为包含第三方强制力与执行缝隙的社会规制，全面转向常态历史时期的内生渐进演变分析。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 45
+theory_related_count: 46
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -18,8 +18,11 @@ tags:
   - theme/political-economy
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Heterogeneity]]"
   - "[[Veto Possibilities]]"
   - "[[Enforcement Discretion]]"
+  - "[[High-Performing Education Systems]]"
+  - "[[Educational Meritocracy]]"
   - "[[Institutional Layering]]"
   - "[[Institutional Conversion]]"
   - "[[Institutional Drift]]"
@@ -32,6 +35,7 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Research Question]]"
   - "[[Unit of Analysis]]"
+  - "[[Social Economy]]"
   - "[[Subversives]]"
   - "[[Symbionts]]"
   - "[[Insurrectionaries]]"
@@ -40,6 +44,7 @@ related_concepts:
   - "[[Institutional Complementarity]]"
   - "[[National Large-Scale Assessments]]"
   - "[[Discourse]]"
+  - "[[Pedagogical Hybridity]]"
 related_theories:
   - "[[Behaviorism]]"
   - "[[Pluralism]]"
@@ -55,15 +60,21 @@ related_instruments: []
 related_persons:
   - "[[Theda Skocpol]]"
   - "[[Peter A. Hall]]"
+  - "[[Charles Taylor]]"
   - "[[Max Weber]]"
   - "[[Kathleen Thelen]]"
   - "[[Paul Pierson]]"
   - "[[James Mahoney]]"
   - "[[Wolfgang Streeck]]"
-related_facts: []
+  - "[[Zongyi Deng]]"
+  - "[[Saravanan Gopinathan]]"
+related_facts:
+  - "[[German Dual Education System]]"
+  - "[[Primary School Leaving Examination]]"
 related_arguments:
   - "[[Argument_Streeck_Thelen_2005_OUP]]"
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
+  - "[[Argument_Thelen_2007_RegGov]]"
   - "[[Argument_Deng_2016_CE]]"
   - "[[Argument_Verger_2019_Discourse]]"
   - "[[Argument_VanDerHeijden_2011_Politics]]"
@@ -71,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-11
-updated: 2026-11-18
+updated: 2026-11-21
 ---
 
 ---
@@ -88,7 +99,7 @@ updated: 2026-11-18
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 20 世纪 80 年代由赛达·[[Theda Skocpol|斯考切波]]（Theda Skocpol）、[[Peter A. Hall|彼得·A·霍尔]]（Peter A. Hall）（1986《治理经济》）等学者在“找回国家”运动中奠基；霍尔与罗斯玛丽·泰勒（Rosemary C. R. Taylor）于 1996 年发表《政治学与新制度主义三大学派》（*Political Science and the Three New Institutionalisms*），正式在学术界确立其作为独立理论流派的核心坐标。
+> - **提出者与原始文本** 20 世纪 80 年代由赛达·[[Theda Skocpol|斯考切波]]（Theda Skocpol）、[[Peter A. Hall|彼得·A·霍尔]]（Peter A. Hall）（1986《治理经济》）等学者在“找回国家”学术运动中确立基础；霍尔与罗斯玛丽·[[Charles Taylor|泰勒]]（Rosemary C. R. Taylor）于 1996 年发表《政治学与新制度主义三大学派》（*Political Science and the Three New Institutionalisms*），正式在学术界确立其作为独立理论流派的核心坐标。
 > - **原初问题** 为何具备相似经济发展水平的工业化民主国家（如英、法、德、美），在面对相似的外部经济冲击（如大萧条、两次世界大战、石油危机）时，会选择截然不同的经济干预与福利政策轨道。
 > - **理论资源与材料** 吸收[[Max Weber|马克斯·韦伯]]的国家官僚与支配组织理论、卡尔·波兰尼的嵌入性思想以及欧洲比较历史社会学传统；经验材料以欧美发达工业化国家长时段国家建设、福利资本主义与宏观经济治理档案为主。
 > - **形成路径** 将中观制度（国家机关、法律规章、政党体制、劳资工会）设定为连接宏观历史结构与微观政治行动的因果中介，确立“制度结构塑造权力分配与行动者偏好”的核心因果假定。
@@ -96,9 +107,10 @@ updated: 2026-11-18
 > [!dev-timeline] 理论演进与学术扩展
 > - **1990 年代初 — 学派自觉与体系确立** 斯温·施泰因莫（Sven Steinmo）、[[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen）等出版《建构政治》（*Structuring Politics*, 1992），霍尔与泰勒（1996）系统梳理三大制度主义分野，奠定历史制度主义的学科规范。
 > - **2000 年代初 — [[Path Dependence|路径依赖]]的形式化[[Causal Modeling|因果建模]]** [[Paul Pierson|保罗·皮尔逊]]（Paul Pierson, 2000, 2004）与[[James Mahoney|詹姆斯·马奥尼]]（James Mahoney）（2000）系统引入经济学报酬递增概念，建构[[Path Dependence|路径依赖]]、关键节点与反应序列的形式化因果分析模型。
-> - **2005 年 — 内生渐进演进形态学奠基** [[Wolfgang Streeck|沃尔夫冈·施特雷克]]（Wolfgang Streeck）与希伦（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005]]）反思历史制度主义早期过度沉迷路径锁定的保守偏误，将制度重构为包含第三方强制力与执行缝隙的社会规制，系统提出置换、分层、漂移、转换与耗竭五大变迁形态，彻底扭转了将重大变迁等同于外生危机突变的二元论。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 1–39)]]
+> - **2005 年 — 内生渐进演进形态学开创** [[Wolfgang Streeck|沃尔夫冈·施特雷克]]（Wolfgang Streeck）与希伦（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005]]）反思历史制度主义早期过度沉迷路径锁定的保守偏误，将制度重构为包含第三方强制力与执行缝隙的社会规制，系统提出置换、分层、漂移、转换与耗竭五大变迁形态，彻底扭转了将重大变迁等同于外生危机突变的二元论。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 1–39)]]
+> - **2007 年 — 技能形成体制长时段演进与制度自适应（[[Argument_Thelen_2007_RegGov|Thelen, 2007]]）** 希伦将历史制度主义视阈延伸至当代[[German Dual Education System|德国双元制]]职业培训体制变迁，指出跨企业[[Heterogeneity|异质性]]协调、通用标准与分段冲动的张力以及公私责任分担构成了贯穿其百年历史的常态机制；通过考察 2005 年《职业教育法》改革对校本学分的有限认可与商会考核垄断的维系，论证制度正是通过持续微观政治调适展现出惊人的自适应韧性。[[Argument_Thelen_2007_RegGov|(Thelen, 2007, pp. 248–250, 260–261)]]
 > - **2009 年 — 行动者博弈模型确立与分析扩展** 马奥尼与希伦（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009]]）出版《解释制度变迁》，建构“[[Veto Possibilities|否决可能性]] × [[Enforcement Discretion|执行裁量权]]”双维矩阵与四类行动者微观博弈模型，确立[[Theory of Gradual Institutional Change|渐进制度变迁理论]]，并被广泛应用于比较政治学与公共政策分析。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 1–37)]]
-> - **2016 年 — 跨国比较教育中的历史制度主义应用** 邓宗怡与高平纳坦（[[Argument_Deng_2016_CE|Deng & Gopinathan, 2016]]）将历史制度主义视角引入东亚高绩效教育系统研究，证明微观常态课堂教学实践深嵌于半个世纪以来的宏观国家制度演变（统一大纲、小学离校考试早期高利害分流、考试唯才是用意识形态与课外补习生态），有力解构了跨国咨询机构去情境化的输入-产出因果神话。
+> - **2016 年 — 跨国比较教育中的历史制度主义应用** [[Zongyi Deng|邓宗怡]]与[[Saravanan Gopinathan|高平纳坦]]（[[Argument_Deng_2016_CE|Deng & Gopinathan, 2016]]）将历史制度主义视角引入东亚[[High-Performing Education Systems|高绩效教育系统]]研究，证明微观常态课堂教学实践深嵌于半个世纪以来的宏观国家制度演变（统一大纲、[[Primary School Leaving Examination|小学离校考试]]早期高利害分流、[[Educational Meritocracy|考试唯才是用]]意识形态与课外补习生态），有力解构了跨国咨询机构去情境化的输入-产出因果神话。
 > - **2019 年 — 全球教育治理与问责扩散的制度演变** 安东尼·维格（Antoni Verger）、路易斯·帕塞里萨（Lluís Parcerisa）与克拉拉·丰德维拉（Clara Fontdevila）将历史制度主义渐进演变理论（[[Institutional Layering|制度分层]]、[[Institutional Conversion|制度转换]]与[[Institutional Drift|制度漂移]]）引入全球教育治理分析，揭示全球测试问责政策在英美[[New Public Management|新公共管理]]传统、欧洲[[Neo-Weberian State|新韦伯主义]]与[[Napoleonic Administrative Tradition|拿破仑行政传统]]下的差[[Alienation|异化]]折射轨迹。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 250–252, 262–263)]]
 
 ---
@@ -140,7 +152,7 @@ updated: 2026-11-18
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 解释某项国家制度为何展现出惊人的长期韧性，或为何在缺乏外生剧烈冲击的情形下发生了实质性质变。
 > - **分析对象与单位** 国家政体、宪制条款、监管机构、劳资技能体系与公共政策构型；[[Unit of Analysis|分析单位]]为中观制度安排及其权力行动者网络。
-> - **需要的材料** 法律草案与辩论记录、行政自由裁量执行规章、司法判例演进线索、关键利益集团游说动员档案与长历史时段社会经济统计指标。
+> - **需要的材料** 法律草案与辩论记录、行政自由裁量执行规章、司法判例演进线索、关键利益集团游说动员档案与长历史时段[[Social Economy|社会经济]]统计指标。
 > - **解释目标** 识别制度建立之初的权力妥协与关键节点；追踪报酬递增机制或内生演化形态（置换/分层/漂移/转换/耗竭）；厘清微观行动者角色及其政治联盟策略。
 
 > [!theory-framework] 命题如何转化为分析维度
@@ -178,24 +190,10 @@ updated: 2026-11-18
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 历史制度主义内生演化转向奠基之作，系统批判间断均衡与连续性偏误，建构五大渐进变迁形态学。（pp. 18–34）
+> - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 历史制度主义内生演化转向开创之作，系统批判间断均衡与连续性偏误，建构五大渐进变迁形态学。（pp. 18–34）
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 历史制度主义内生演变转向里程碑著作，系统建构[[Theory of Gradual Institutional Change|渐进制度变迁理论]]与微观博弈矩阵。（pp. 1–37）
+> - [[Argument_Thelen_2007_RegGov|Thelen (2007)]] — 运用历史制度主义视阈分析德国职业培训体制长时段演进，论证双元技能形成体系在面对成本攀升与服务业转型时，如何通过校企权责再平衡与模块化选修实现内生制度维系与自适应演进。（pp. 248–250, 260–261）
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 评述历史制度主义[[Institutional Layering|制度分层]]概念在当代公共政策中的经验演化与理论反思。
 > - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 将历史制度主义渐进变迁机制（制度分层、[[Institutional Conversion|制度转换]]与[[Institutional Drift|制度漂移]]）应用于全球教育治理与国家大尺度测评（[[National Large-Scale Assessments|NLSA]]）扩散研究，解释全球测评问责[[Discourse|话语]]如何与不同国家行政传统发生折射。（pp. 250–252, 262–263）
 > - [[Argument_Murray_Moxon-Browne_2013_JCMS|Murray and Moxon-Browne (2013)]] — 结合历史制度主义比较战后欧洲主权危机与东南亚后殖民建国历程，阐释区域组织对不同历史路径的制度依赖与规范锁闭（pp. 524–527）。
-> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 运用历史制度主义视角阐释新加坡五十年教育演进，揭示宏观集权考试分流制度对微观教学杂糅的支撑、规范与约束机制。（pp. 450–454, 460–464）
-
----
-
-## 参考文献
-
-- Deng, Z., & Gopinathan, S. (2016). PISA and high-performing education systems: explaining Singapore's education success. *Comparative Education*, 52(4), 449–472.
-- Hall, P. A. (1986). *Governing the economy: The politics of state intervention in Britain and France*. New York: Oxford University Press.
-- [[Peter A. Hall|Hall, P. A.]], & Soskice, D. (Eds.). (2001). *[[Varieties of Capitalism]]: The institutional foundations of comparative advantage*. Oxford: Oxford University Press.
-- Hall, P. A., & Taylor, R. C. R. (1996). Political science and the three new institutionalisms. *Political Studies*, 44(5), 936–957.
-- Mahoney, J. (2000). [[Path Dependence]] in historical sociology. *Theory and Society*, 29(4), 507–548.
-- [[James Mahoney|Mahoney, J.]], & [[Kathleen Thelen|Thelen, K.]] (Eds.). (2009). *Explaining institutional change: Ambiguity, agency, and power*. Cambridge: Cambridge University Press.
-- Pierson, P. (2000). Increasing returns, path dependence, and the study of politics. *American Political Science Review*, 94(2), 251–267.
-- Pierson, P. (2004). *Politics in time: History, institutions, and social analysis*. Princeton: Princeton University Press.
-- Steinmo, S., Thelen, K., & Longstreth, F. (Eds.). (1992). *Structuring politics: Historical institutionalism in comparative analysis*. Cambridge: Cambridge University Press.
-- [[Wolfgang Streeck|Streeck, W.]], & Thelen, K. (Eds.). (2005). *Beyond continuity: Institutional change in advanced political economies*. Oxford: Oxford University Press.
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 运用历史制度主义视角阐释新加坡五十年教育演进，揭示宏观集权考试分流制度对微观[[Pedagogical Hybridity|教学杂糅]]的支撑、规范与约束机制。（pp. 450–454, 460–464）

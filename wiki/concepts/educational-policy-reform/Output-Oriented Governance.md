@@ -45,27 +45,32 @@ related_concepts:
   - "[[School Inspection]]"
   - "[[Praxis]]"
   - "[[Knowledge Transfer]]"
+  - "[[Operationalization]]"
   - "[[Sage]]"
   - "[[Technical Rationality]]"
   - "[[Data Literacy]]"
   - "[[Variable]]"
   - "[[Document]]"
   - "[[Discourse]]"
+  - "[[Effective Teaching]]"
   - "[[Dependent Variable]]"
-  - "[[Competitiveness]]"
   - "[[Pragmatic Paradigm]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Cluster Analysis]]"
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Bibliometric Analysis]]"
+  - "[[Discourse Analysis]]"
 related_facts:
+  - "[[Independent Schools Initiative]]"
   - "[[Vergleichsarbeiten]]"
   - "[[PISA]]"
   - "[[Schulqualität Allgemeinbildung]]"
+  - "[[Institute for Educational Quality Improvement]]"
+  - "[[European Education]]"
   - "[[OECD]]"
   - "[[UNESCO]]"
-  - "[[Institute for Educational Quality Improvement]]"
+  - "[[KMK-Bildungsstandards]]"
 related_arguments:
   - "[[Argument_Altrichter_2019_ZfB]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15]]"
@@ -73,11 +78,11 @@ related_arguments:
   - "[[Argument_Kickert_1995_Governance]]"
   - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Manitius_vanHolt_2019_BzS]]"
+  - "[[Argument_Ertl_2006_ORE]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
   - "[[Argument_Volmari_2025_CE]]"
   - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Barrenechea_2023_JEC]]"
-  - "[[Argument_Ertl_2006_ORE]]"
 related_persons:
   - "[[Herbert Altrichter]]"
   - "[[Lee Kuan Yew]]"
@@ -109,7 +114,7 @@ updated: 2026-11-21
 >   - 在国家治理领域，区别于单纯追求利润的商业私有化，强调对国家重大战略成果的终极责任担当。
 
 > [!citation-card] 产出导向治理与行动者重构
-> 产出导向治理或循证治理工具被作为各系统层级决策与发展的关键要素予以全面铺开。在行动者层面，基层学校专业人员被要求将精力投入自主学校发展，但必须遵循路径自主而非目标自主的原则，将学校工作紧密围绕国家既定的能力与过程目标展开；[[School Leadership|学校领导]]者的重要性进一步提升，他们必须动员、协调并支持教师重视目标导向、解读数据反馈并采取教学改进活动。[[Argument_Altrichter_2019_ZfB|(Altrichter et al., 2019, p. 20)]]
+> 产出导向治理或循证治理工具被作为各系统层级决策与发展的关键要素予以全面铺开。在行动者层面，基层学校专业人员被要求将精力投入[[Independent Schools Initiative|自主学校]]发展，但必须遵循路径自主而非目标自主的原则，将学校工作紧密围绕国家既定的能力与过程目标展开；[[School Leadership|学校领导]]者的重要性进一步提升，他们必须动员、协调并支持教师重视目标导向、解读数据反馈并采取教学改进活动。[[Argument_Altrichter_2019_ZfB|(Altrichter et al., 2019, p. 20)]]
 >
 > *In dieser Phase werden also Instrumente zur Umsetzung von Outputorientierung (oft auch als evidenzbasierte Steuerung bezeichnet) ausgearbeitet, auf ganzer Breite bereitgestellt und als wesentliche Elemente des Entscheidens und Entwickelns auf allen Systemebenen postuliert... Die Berufstätigen in den Einzelschulen sollen weiterhin Energien in autonome Schulentwicklung kanalisieren, diese jedoch – in einer Autonomie der Wege, nicht der Ziele – stärker auf die vorgegebenen Kompetenz- und Prozessziele ausrichten.*
 
@@ -225,8 +230,8 @@ updated: 2026-11-21
 > - **1980 年代 — 单校发展（Einzelschulentwicklung）理念萌生** 德语区学界与政策界认识到去中心化的单所学校作为教育变革核心行动单元的关键价值。
 > - **1990 年代 — 治理变革与新加坡国家治理现代化** 欧洲推行[[School Autonomy|学校自主权]]改革；新加坡（[[Lee Kuan Yew|李光耀]]）在国家层面确立以结果为导向的高薪对标与权责对称治理模式。
 > - **2000 年代至 2010 年代初 — 欧洲产出导向与循证治理成型** [[PISA]] 冲击促发全面转向，建立国家教育标准、跨校统考监测、国家教育报告以及新型督导目标协定体系（如奥地利 [[Schulqualität Allgemeinbildung|SQA]]）。[[Argument_Altrichter_2019_ZfB|(Altrichter et al., 2019, pp. 19–20)]]
-> - **2006 — 德国后 PISA 产出规制转向与大纲废除困境** [[Argument_Ertl_2006_ORE|Ertl (2006)]] 深度剖析德国从输入控制（教学大纲）向产出导向治理（国家标准与 IQB 监测）激进转型的制度病理：各州大范围废除传统大纲（如巴符州废除逾 300 部大纲）寄望赋予学校实现路径自主，却因产出标准过于抽象未能在微观教学中有效操作化，导致基层教师陷入备课真空并产生对商业教科书的严重依附，揭示了缺乏教学转化支持时产出治理引发的逆向反噬。[[Argument_Ertl_2006_ORE|(Ertl, 2006, pp. 622–624)]]
-> - **2015 年至今 — 欧洲中层支持重构与全球国家能力实效反思** 欧洲教育界通过中层研训机构解决单校成效缺失；卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在政治经济学领域重构产出导向治理，批判将公职人员视作苦行[[Sage|圣人]]的[[Procedural Piety|程序虔敬]]，主张以物理成果重塑[[Technological Republic|技术共和国]]。
+> - **2006 — 德国后 PISA 产出规制转向与大纲废除困境** [[Argument_Ertl_2006_ORE|Ertl (2006)]] 深度剖析德国从输入控制（教学大纲）向产出导向治理（国家标准与 [[Institute for Educational Quality Improvement|IQB]] 监测）激进转型的制度病理：各州大范围废除传统大纲（如巴符州废除逾 300 部大纲）寄望赋予学校实现路径自主，却因产出标准过于抽象未能在微观教学中有效[[Operationalization|操作化]]，导致基层教师陷入备课真空并产生对商业教科书的严重依附，揭示了缺乏教学转化支持时产出治理引发的逆向反噬。[[Argument_Ertl_2006_ORE|(Ertl, 2006, pp. 622–624)]]
+> - **2015 年至今 — 欧洲中层支持重构与全球国家能力实效反思** [[European Education|欧洲教育]]界通过中层研训机构解决单校成效缺失；卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在政治经济学领域重构产出导向治理，批判将公职人员视作苦行[[Sage|圣人]]的[[Procedural Piety|程序虔敬]]，主张以物理成果重塑[[Technological Republic|技术共和国]]。
 > - **2026 — 循证治理的象征性表演与实施断层反思** [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] 结合[[OECD|经合组织]]与[[UNESCO|联合国教科文组织]]案例，指出产出导向的循证治理在实际政治博弈中极易退化为后置辩护与公关表演，教育系统反复诊断相同痼疾而缺乏持续落实机制（pp. 348–351）。
 
 ---
@@ -259,7 +264,7 @@ updated: 2026-11-21
 > |---|---|---|---|---|---|---|
 > | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 28)]] | 奥地利施泰尔马克州 362 名公立义务教育学校校长 | 问卷调查与 $k$ 均值[[Cluster Analysis\|聚类分析]]（22 项治理工具评价） | 治理态度亚群分布比例 | [[Evidence-Based School Development\|循证学校发展]]型（27.5%）；资源驱动发展型（37.5%）；弱发展取向型（35.0%） | [[Intraclass Correlation Coefficient\|组内相关系数]]（ICC）介于 0.09 至 0.41；资源类题项组间方差最高 | 针对奥地利中小学样本，揭示了真正认同产出导向与循证工具的校长仅占少数 |
 > | [[Argument_Volmari_2025_CE\|Volmari et al. (2025, pp. 535–540)]] | 丹麦、芬兰、挪威 16 份基础教育改革核心官方[[Document\|文献]]（含 1,385 条引文） | 政策知识社会学与[[Bibliometric Analysis\|文献计量分析]] | 循证产出治理的[[Discourse\|话语]]修辞与实际文献引用结构 | 改革文本普遍将产出导向与循证治理作为核心合法化话语，但实际引用中同行评议学术研究仅占 13.9%–14.5%，逾六成依赖政府委托报告与评估文献 | 跨国全样本的文献计量与话语追踪 | 证实产出导向循证治理在实际政治运作中脱离了理性技术主义模型，常异化为选择性引用与政治后置合法化工具 |
-> | [[Argument_Ertl_2006_ORE\|Ertl (2006)]] | 德国各州（如巴登-符腾堡、莱法）新课程法令与 KMK 2003 国家教育标准 | 政策文献与话语分析 | 输入控制转向产出规制（Lehrpläne to Bildungsstandards）、胜任力操作化真空、教科书依附 | 联邦与 16 州废除传统教学大纲（单州废除超 **300** 部）；创立柏林 IQB 行使全国统测；但因缺乏微观操作化指南，基层教师备课对商业教科书的依附率发生反弹性激增 | 政策法规档案追踪与个案分析 | 证实缺乏有效教学转化的激进产出导向改革，不仅无法实现设想的路径自主，反而诱发基层向商业出版物转嫁大纲功能的制度反噬 |
+> | [[Argument_Ertl_2006_ORE\|Ertl (2006)]] | 德国各州（如巴登-符腾堡、莱法）新课程法令与 [[KMK-Bildungsstandards\|KMK 2003 国家教育标准]] | 政策文献与[[Discourse Analysis\|话语分析]] | 输入控制转向产出规制（Lehrpläne to Bildungsstandards）、胜任力操作化真空、教科书依附 | 联邦与 16 州废除传统教学大纲（单州废除超 **300** 部）；创立柏林 IQB 行使全国统测；但因缺乏微观操作化指南，基层教师备课对商业教科书的依附率发生反弹性激增 | 政策法规档案追踪与个案分析 | 证实缺乏[[Effective Teaching\|有效教学]]转化的激进产出导向改革，不仅无法实现设想的路径自主，反而诱发基层向商业出版物转嫁大纲功能的制度反噬 |
 
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>

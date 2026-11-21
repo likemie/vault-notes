@@ -14246,13 +14246,14 @@
     "Kleibert, 2018": "Kleibert, 2018",
     "Klein & Verhulst (2017)": "Klein & Verhulst, 2017",
     "Klein & Verhulst, 2017": "Klein & Verhulst, 2017",
-    "Klein (2005)": "Klein, 2005",
+    "Klein (2005a)": "Klein, 2005a",
+    "Klein (2005b)": "Klein, 2005b",
     "Klein (2008)": "Klein, 2008",
     "Klein (2012)": "Klein, 2012",
     "Klein et al. (1999)": "Klein et al., 1999",
     "Klein et al., 1999": "Klein et al., 1999",
-    "Klein, 2005": "Klein, 2005",
-    "Klein, 2005a": "Klein, 2005",
+    "Klein, 2005a": "Klein, 2005b",
+    "Klein, 2005b": "Klein, 2005a",
     "Klein, 2008": "Klein, 2008",
     "Klein, 2012": "Klein, 2012",
     "Klerides et al. (2014)": "Klerides et al., 2014",
@@ -19782,8 +19783,6 @@
     "O’Connor, 2014": "O’Connor, 2014",
     "O’Day & Quick (2009)": "O’Day & Quick, 2009",
     "O’Day & Quick, 2009": "O’Day & Quick, 2009",
-    "P. A. (1986)": "P. A., 1986",
-    "P. A., 1986": "P. A., 1986",
     "P. David Miller (1989)": "P. David Miller, 1989",
     "P. David Miller, 1989": "P. David Miller, 1989",
     "P. Davies (2007)": "P. Davies, 2007",
@@ -21130,8 +21129,6 @@
     "R Core Team, 2018": "R Core Team, 2018",
     "R. A. W. Rhodes (1996)": "R. A. W. Rhodes, 1996",
     "R. A. W. Rhodes, 1996": "R. A. W. Rhodes, 1996",
-    "R. C. R. (1996)": "R. C. R., 1996",
-    "R. C. R., 1996": "R. C. R., 1996",
     "R. E. (2002)": "R. E., 2002",
     "R. E. (2004)": "R. E., 2004",
     "R. E. (2008)": "R. E., 2008",
@@ -45460,7 +45457,8 @@
       ],
       "isbn": "978-3-8100-3663-6",
       "seen_in": [
-        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
+        "wiki/facts/germany/PISA-Ländervergleich.md"
       ],
       "title": "Pisa 2000—Die Länder der Bundesrepublik Deutschland im Vergleich"
     },
@@ -51949,7 +51947,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
+        "wiki/concepts/instruction-pedagogy/Empirische Unterrichtsforschung.md"
       ],
       "title": "Empirische Unterrichtsforschung und Allgemeine Didaktik. Entstehung, Situation und Konsequenzen eines prekären Spannungsverhältnisses im Kontext der PISA-Studie"
     },
@@ -78569,7 +78568,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
+        "wiki/facts/germany/PISA-Ländervergleich.md"
       ],
       "title": "PISA 2003: Ergebnisse des zweiten Ländervergleichs. Zusammenfassung"
     },
@@ -87868,7 +87868,8 @@
       ],
       "isbn": "978-3-933436-67-2",
       "seen_in": [
-        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
+        "wiki/concepts/educational-policy-reform/Competence Clash.md"
       ],
       "title": "Das Kompetenzkonzept: Zugänge zur Diskussion in der deutschen Berufs- und Wirtschaftspädagogik"
     },
@@ -133432,7 +133433,8 @@
       ],
       "isbn": "978-3-89676-712-7",
       "seen_in": [
-        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
+        "wiki/concepts/instruction-pedagogy/Empirische Unterrichtsforschung.md"
       ],
       "title": "Literacy versus curriculum?"
     },
@@ -134174,10 +134176,25 @@
       "seen_in": [],
       "title": "Goal commitment and the goal-setting process: conceptual clarification and empirical synthesis"
     },
-    "Klein, 2005": {
+    "Klein, 2005a": {
       "aliases": [
-        "Klein, 2005",
-        "Klein (2005)"
+        "Klein, 2005a",
+        "Klein (2005a)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Klein, 2005b"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/germany/PISA-Ländervergleich.md"
+      ],
+      "title": ""
+    },
+    "Klein, 2005b": {
+      "aliases": [
+        "Klein, 2005b",
+        "Klein (2005b)"
       ],
       "doi": "",
       "identity_keys": [
@@ -139723,7 +139740,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
+        "wiki/concepts/instruction-pedagogy/Empirische Unterrichtsforschung.md"
       ],
       "title": "Trial and error? Konsequenzen aus PISA—Ein Zwischenruf"
     },
@@ -174316,21 +174334,6 @@
       ],
       "title": ""
     },
-    "P. A., 1986": {
-      "aliases": [
-        "P. A., 1986",
-        "P. A. (1986)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "P. A., 1986"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/theories/political-economy-geopolitics/Historical Institutionalism.md"
-      ],
-      "title": ""
-    },
     "P. David Miller, 1989": {
       "aliases": [
         "P. David Miller, 1989",
@@ -184291,21 +184294,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Network Governance.md"
-      ],
-      "title": ""
-    },
-    "R. C. R., 1996": {
-      "aliases": [
-        "R. C. R., 1996",
-        "R. C. R. (1996)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "R. C. R., 1996"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/theories/political-economy-geopolitics/Historical Institutionalism.md"
       ],
       "title": ""
     },
@@ -206584,6 +206572,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
+        "wiki/concepts/educational-policy-reform/Competence Clash.md",
         "wiki/facts/germany/KMK-Bildungsstandards.md"
       ],
       "title": "The competence clash—Dilemmata bei der Übertragung des Konzepts der nationalen Bildungsstandards auf die berufliche Bildung"

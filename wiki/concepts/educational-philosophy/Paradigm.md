@@ -48,6 +48,8 @@ related_concepts:
   - "[[Paradigm Wars]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Intercultural Education]]"
+  - "[[Didaktik]]"
+  - "[[Empirische Unterrichtsforschung]]"
   - "[[Document]]"
   - "[[Combinatorial Novelty]]"
   - "[[Geopolitics]]"
@@ -65,6 +67,7 @@ related_concepts:
   - "[[Interpretivism]]"
   - "[[Developmentalism]]"
   - "[[System-Wide Improvement]]"
+  - "[[Lesson Study]]"
 related_theories:
   - "[[Critical Realism]]"
   - "[[Autopoiesis]]"
@@ -112,6 +115,7 @@ related_facts:
   - "[[Positivist Dispute in German Sociology]]"
   - "[[OECD]]"
   - "[[PISA]]"
+  - "[[European Education]]"
   - "[[EU]]"
   - "[[Lisbon Strategy]]"
   - "[[European Commission]]"
@@ -127,6 +131,7 @@ related_arguments:
   - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
+  - "[[Argument_Ertl_2006_ORE]]"
   - "[[Argument_Lin_2023_SciData]]"
   - "[[Argument_Chou_Demiryol_2024_HE]]"
   - "[[Argument_Chen_2025_HSSC]]"
@@ -248,7 +253,7 @@ updated: 2026-11-21
 > **评价认识论范式从课程内聚转向成人功能性生活技能** 索蒂里亚·格雷克（[[Sotiria Grek]]）指出，[[OECD|经合组织]]通过 [[PISA]] 确立了教育评价领域的重大范式转换：传统评价范式以国家具体教学大纲为基准，检验学科知识体系的内部达成度；PISA 则脱离各国课程大纲，转而建立面向成人生活现实情境的功能性素养范式。该范式将评估锚定于未来劳动力市场所需的应用能力与[[Lifelong Learning|终身学习]]自我调节，把应对经济竞争风险的责任深植于个体，确立了全球通用的评价新范式。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 26–27)]]
 
 > [!claim] [[Argument_Grek_2009_JEdPolicy|Grek (2009)]]
-> **超国家治理范式从硬性条约法律转向软性量化数据治理** 格雷克论证，欧洲教育治理见证了从硬法指令向软治理范式的深刻转型：受[[EU|欧盟]]条约[[Subsidiarity Principle|辅助性原则]]限制，布鲁塞尔无权制定强制性教育大纲或立法指令；欧盟因而转向[[Open Method of Coordination|开放协调法]]（OMC），通过资助 PISA 调查并大规模采信经合组织数据指标，建立以数据基准、排名对照与同伴压力为驱动的软性数字治理（[[Governing by Numbers|governing by numbers]]）范式。这一范式无需修改法律条约，仅凭量化比较的客观性权威，便在维系主权分权表象的同时达成了[[European Education Space|欧洲教育空间]]的深度政策趋同。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 32–35)]]
+> **超国家治理范式从硬性条约法律转向软性量化数据治理** 格雷克论证，[[European Education|欧洲教育]]治理见证了从硬法指令向软治理范式的深刻转型：受[[EU|欧盟]]条约[[Subsidiarity Principle|辅助性原则]]限制，布鲁塞尔无权制定强制性教育大纲或立法指令；欧盟因而转向[[Open Method of Coordination|开放协调法]]（OMC），通过资助 PISA 调查并大规模采信经合组织数据指标，建立以数据基准、排名对照与同伴压力为驱动的软性数字治理（[[Governing by Numbers|governing by numbers]]）范式。这一范式无需修改法律条约，仅凭量化比较的客观性权威，便在维系主权分权表象的同时达成了[[European Education Space|欧洲教育空间]]的深度政策趋同。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 32–35)]]
 
 > [!claim] [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]]
 > **从辅助性原则到[[Panopticism|全景敞视]]治理范式的历史性断裂** 帕西亚斯与鲁萨基斯（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009]]）进一步揭示了欧盟教育治理范式的历史性断裂：2000 年里斯本峰会前，欧盟教育合作范式严格受制于《马斯特里赫特条约》第 126/127 条确立的辅助性原则（Subsidiarity Principle），以尊重各成员国主权、文化多样性与自愿交流为边界；[[Lisbon Strategy|里斯本战略]]确立“最具活力的[[Knowledge-Based Economy|知识经济]]体”目标后，超国家治理范式重构为全景敞视治理范式。[[European Commission|欧委会]]绕过条约立法限制，依托开放协调法（OMC）、五大基准线与同行评审技术，将教育从主权文化领域收编为从属于经济增长与[[Human Capital Theory|人力资本]]积累的“无形投资”，构建起全景式监控与政策趋同网络。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 488–491)]]
@@ -270,7 +275,7 @@ updated: 2026-11-21
 > - **1960s–1980s — 社会科学实证主义大论战与比较教育方法转向** 德国社会学界爆发波普尔与[[Jürgen Habermas|哈贝马斯]]的[[Positivist Dispute in German Sociology|实证主义争论]]（Positivismusstreit），新[[Karl Marx|马克思]]主义批判兴起；比较教育学界以[[Brian Holmes|布莱恩·霍姆斯]]引入波普尔[[Critical Dualism|批判二元论]]为契机，在伦敦大学 IOE 掀起文化主义与实证主义[[Problem Approach|问题法]]的激烈范式论战。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–93)]]
 > - **1980s–1990s — 教育研究中的“[[Paradigm Wars|范式战争]]”与[[Mixed Methods Research|混合方法]]调和** 教育学术界在定量实证范式与质性[[Constructivist Paradigm|建构主义范式]]之间展开长达十余年的“范式战争”；随后[[Mixed Methods Research|混合方法研究]]确立以[[Pragmatic Paradigm|实用主义]]（Pragmatism）为哲学根基，架桥弥合二元对立。（Gage, 1989; Tashakkori & Teddlie, 1998）
 > - **1990s–2010s — 后现代解构、系统论[[Autopoiesis|自创生]]与跨文化融合** 斯坦福[[World-Systems Theory|世界体系理论]]、后现代文化[[Pluralism|多元主义]]与[[Niklas Luhmann|尼克拉斯·卢曼]]的自创生系统论进入比较教育；施里维尔开创意义[[Externalization|外化]]比较范式，同时比较教育与多民族移民社会的[[Intercultural Education|跨文化教育]]实现范式合流。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94, 97–98)]]
-> - **2006 — PISA 震荡驱动德语教育科学认识论与范式经验转向** [[Argument_Ertl_2006_ORE|Ertl (2006)]] 揭示德国在 PISA 冲击下，传统人文学科取向的普通教学论（Allgemeine Didaktik）因缺乏量化诊断工具而陷入范式危机，促发教育科学经历急剧的经验转向（scharfe empirische Wende），使实证课堂教学研究与心理测量团队占据学科主导（pp. 627–629）。
+> - **2006 — PISA 震荡驱动德语教育科学认识论与范式经验转向** [[Argument_Ertl_2006_ORE|Ertl (2006)]] 揭示德国在 PISA 冲击下，传统人文学科取向的普通教学论（Allgemeine [[Didaktik]]）因缺乏量化诊断工具而陷入范式危机，促发教育科学经历急剧的经验转向（scharfe empirische Wende），使[[Empirische Unterrichtsforschung|实证课堂教学研究]]与心理测量团队占据学科主导（pp. 627–629）。
 > - **2009 — 评价功能化与软性数字治理双重范式确立** 索蒂里亚·格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, pp. 26–27, 32–35]]）阐释全球教育领域中两项相互交织的范式转变：评价范式脱离民族国家课程大纲、转向考查成人生活功能性应用能力；治理范式则在欧盟辅助性原则限制下，从传统的条约立法与信贷强制转向依托跨国测评与量化基准的软性数字治理。
 > - **2009 — 超国家教育治理全景敞视范式断裂** 帕西亚斯与鲁萨基斯阐明欧盟教育治理从基于辅助性原则的主权多样性传统范式，向依托里斯本战略、开放协调法与量化监控的全景敞视治理范式发生历史性断裂。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 488–491)]]
 > - **2018 — 团队规模在范式颠覆与深化中的功能分工确立** [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] 系统量化跨学科成果，确立小团队颠覆既有范式、大团队深化主流成熟路径的功能生态位分工（pp. 3–4）。
@@ -355,4 +360,4 @@ updated: 2026-11-21
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 对[[System-Wide Improvement|教育系统改进]]文献开展主题综合，提炼出理性选择、文化制度、课程规制与能力建设四大理论范式，解析不同范式的认识论假定与政策干预张力。
 > - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 阐明新加坡教育政策从生存与效率驱动范式向能力驱动与知识经济范式的转型历程，揭示旧范式留存的统考机制对新范式落地的制度性摩擦。
 > - [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] — 批判将范式争论降格为方法操作技术争端，构建贯通微观深描与宏观政治经济学的垂直案例研究多尺度比较范式（pp. 95–97）。
-> - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 系统剖析后 PISA 时代德语教育学界从人文学科思辨（普通教学论）向定量心理测量与实证课堂研究的急剧经验范式转向（scharfe empirische Wende），揭示产出导向治理对传统陶冶范式的深层冲击（pp. 627–629）。
+> - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 系统剖析后 PISA 时代德语教育学界从人文学科思辨（普通教学论）向定量心理测量与实证[[Lesson Study|课堂研究]]的急剧经验范式转向（scharfe empirische Wende），揭示产出导向治理对传统陶冶范式的深层冲击（pp. 627–629）。

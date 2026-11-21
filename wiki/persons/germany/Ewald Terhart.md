@@ -29,6 +29,7 @@ related_concepts:
   - "[[Paideia]]"
   - "[[Visible Learning]]"
   - "[[Epistemology]]"
+  - "[[Empirische Unterrichtsforschung]]"
   - "[[Discourse]]"
   - "[[Critical Pedagogy]]"
   - "[[Critique of Evidence-Based Education]]"
@@ -38,6 +39,7 @@ related_concepts:
   - "[[Phronesis]]"
   - "[[Bildung]]"
   - "[[Commensuration]]"
+  - "[[Typicality]]"
   - "[[Metascience]]"
 related_theories:
   - "[[Stability vs. Variability Dilemma]]"
@@ -63,7 +65,7 @@ updated: 2026-11-15
 > - **核心角色** 在英美经验[[Positivism|实证主义]]与欧陆[[Paideia|古典教化]]传统之间充当了极其关键的批判性反思桥梁；面对以《[[Visible Learning|可见的学习]]》为代表的证据本位量化狂潮，特哈特从[[Epistemology|认识论]]与教学论高度提出了标志性的学术审读。
 > - **代表贡献** 提出解构[[Meta-meta-analysis|二阶元分析]]圣杯神话的[[Stability vs. Variability Dilemma|稳定性与变异性双重困境]]模型，系统阐发德语普通教学论对实证主义教学形式化的解构，以及对教师教育与教师职业专业化的理论建构。
 
-> [!citation-card] 特哈特论德语教学论与实证教学研究的张力（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）
+> [!citation-card] 特哈特论德语教学论与[[Empirische Unterrichtsforschung|实证教学研究]]的张力（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）
 > [[John Hattie|哈蒂]]的模型结合了以教师为中心的教学与以学生为中心的学习……但这恰恰遗漏了教育最关键的实质问题：肉在哪里？在课程一章中，关于内容、学科的教育学意义以及课程决策合法化辩护的反思被完全忽略了。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431)]]
 >
 > *“That might have been the starting point of a [[Discourse]] about the substance of education and teaching, but Hattie does not follow this possible line of thought. So one wonders: Where is the beef? The question of content, the question of the pedagogical significance of subjects, reflections about problems, and possibilities of legitimizing curricular decisions are completely ignored.”*
@@ -88,7 +90,7 @@ updated: 2026-11-15
 ---
 
 > [!claim] 核心思想
-> 特哈特明确主张教学的本质构成为学科知识正当性辩护、文化陶冶（[[Bildung]]）与动态师生交互交织的复杂专业实践，坚决反对脱离实质内容的抽象操作技术化倾向。任何试图通过粗放的统计二次[[Commensuration|通约]]（[[Commensuration]]）消除教育情境特殊性、以单一度量指针支配一线教师的“科学圣杯”，在[[Epistemology|认识论]]上均是脆弱的伪确定性表象。
+> 特哈特明确主张教学的本质构成为学科知识正当性辩护、文化陶冶（[[Bildung]]）与动态师生交互交织的复杂专业实践，坚决反对脱离实质内容的抽象操作技术化倾向。任何试图通过粗放的统计二次[[Commensuration|通约]]（[[Commensuration]]）消除教育情境[[Typicality|特殊性]]、以单一度量指针支配一线教师的“科学圣杯”，在[[Epistemology|认识论]]上均是脆弱的伪确定性表象。
 
 > [!citation-card] 特哈特论[[Meta-meta-analysis|二阶元分析]]信息流失与货币通约隐喻
 > 通过反复累加，原始详尽的经验信息消失了。当然，可以通过不同渠道积累金钱并将不同货币汇聚在一起——但你能用来自不同项目、不同方法的研究结果做同样的事吗？如果你这样做，这仍然可靠吗——还是你累加得越多，证据的稳健性反而越发降低？[[Argument_Terhart_2011_JCS|(Terhart, 2011, p. 436)]]

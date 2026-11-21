@@ -7302,6 +7302,18 @@
     ]
   },
   {
+    "title": "Competence Clash",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Competence Clash.md",
+    "aliases": [
+      "能力范式冲突",
+      "胜任力冲突",
+      "Kompetenz-Konflikt",
+      "Competency Clash in Education",
+      "胜任力与教学论冲突"
+    ]
+  },
+  {
     "title": "Conceptual, Instrumental, and Symbolic Use of Research",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Conceptual, Instrumental, and Symbolic Use of Research.md",
@@ -12381,6 +12393,19 @@
       "瑞典式自导作业",
       "Own Work",
       "Independent Work Method"
+    ]
+  },
+  {
+    "title": "Empirische Unterrichtsforschung",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Empirische Unterrichtsforschung.md",
+    "aliases": [
+      "实证教学研究",
+      "实证课堂教学研究",
+      "Empirical Classroom Research",
+      "Empirical Research of Pedagogical Practice",
+      "经验教学研究",
+      "Empirische Bildungsforschung"
     ]
   },
   {
@@ -44702,6 +44727,8 @@
     "path": "wiki/facts/germany/KMK-Bildungsstandards.md",
     "aliases": [
       "德国国家教育标准",
+      "KMK 国家教育标准",
+      "KMK 2003 国家教育标准",
       "KMK Educational Standards",
       "National Educational Standards in Germany",
       "Bildungsstandards der KMK",
@@ -44929,6 +44956,21 @@
       "PIKO",
       "语境中的物理",
       "语境物理教学项目"
+    ],
+    "subtype": "program"
+  },
+  {
+    "title": "PISA-Ländervergleich",
+    "type": "fact",
+    "path": "wiki/facts/germany/PISA-Ländervergleich.md",
+    "aliases": [
+      "德国各州PISA比较研究",
+      "PISA-E",
+      "PISA 联邦州比较",
+      "PISA 2000 Ländervergleich",
+      "Inner-German PISA Comparison",
+      "PISA State Comparison Germany",
+      "德国各州教育水平比较"
     ],
     "subtype": "program"
   },

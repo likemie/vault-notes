@@ -23,6 +23,7 @@ tags:
   - research-funding
   - bmbf
 related_concepts:
+  - "[[Empirische Unterrichtsforschung]]"
   - "[[Normal School]]"
   - "[[Research-Practice Gap]]"
   - "[[Heterogeneity]]"
@@ -47,6 +48,7 @@ related_facts:
   - "[[Federal Ministry of Education and Research]]"
   - "[[Clearing House Unterricht]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
+  - "[[National Institute of Education]]"
   - "[[SINUS]]"
   - "[[German State Educational Institutes and Quality Agencies]]"
 related_arguments:
@@ -61,7 +63,7 @@ updated: 2026-10-30
 ---
 
 > [!claim] 项目定位
-> “[[Qualitätsoffensive Lehrerbildung|教师教育质量攻坚计划]]”（德语：Qualitätsoffensive Lehrerbildung, 缩写为 QLB）是由[[Federal Ministry of Education and Research\|德国联邦教育与研究部]]（BMBF）联合全德十六个联邦州共同设立的战后规模最大的国家级教师教育专项改革工程（2015–2023，联邦总注资达 5 亿欧元）；该工程依据德国基本法第 91b 条行政协议设立（BLV, 2013），致力于贯穿教师教育全周期三大阶段，通过竞争性拔尖资助打破大学内部学科壁垒，推动实证教学研究、学科教学论与教学实践基地深度融合，并成功孵化了德语区首个教育科学中介机构——慕尼黑工业大学教学研究清算中心（[[Clearing House Unterricht\|CHU]]）。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]; [[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, pp. 12–13)]]
+> “[[Qualitätsoffensive Lehrerbildung|教师教育质量攻坚计划]]”（德语：Qualitätsoffensive Lehrerbildung, 缩写为 QLB）是由[[Federal Ministry of Education and Research\|德国联邦教育与研究部]]（BMBF）联合全德十六个联邦州共同设立的战后规模最大的国家级教师教育专项改革工程（2015–2023，联邦总注资达 5 亿欧元）；该工程依据德国基本法第 91b 条行政协议设立（BLV, 2013），致力于贯穿教师教育全周期三大阶段，通过竞争性拔尖资助打破大学内部学科壁垒，推动[[Empirische Unterrichtsforschung|实证教学研究]]、学科教学论与教学实践基地深度融合，并成功孵化了德语区首个教育科学中介机构——慕尼黑工业大学教学研究清算中心（[[Clearing House Unterricht\|CHU]]）。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]; [[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, pp. 12–13)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2013 年 4 月经联邦与各州共同签署行政协议（Bund-Länder-Vereinbarung, BLV）确立，2015 年正式启动资助，历经两期滚动推进与数字化专项扩展，于 2023 年底全面收官结项。
@@ -90,7 +92,7 @@ updated: 2026-10-30
 > - **2013–2015 — 顶层制度确立与首轮竞争遴选** 联邦与各州历经数轮宪法权责磋商，达成联合攻坚协议；2014 年完成首轮全国盲审申报，2015 年首批 49 个大学改革项目正式启动实施。
 > - **2017 — 证据中介示范实体正式破土** 慕尼黑工业大学[[Tina Seidel\|蒂娜·赛德尔]]（Tina Seidel）团队在 [[Qualitätsoffensive Lehrerbildung|QLB]] 专项资金支持下，正式推出[[Clearing House Unterricht\|德国教学研究清算中心]]（CHU）线上中介平台，成为全德首个专注于教学有效性证据二次转译的示范旗舰。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]
 > - **2019–2023 — 第二轮深化推进与数字化专项追加** 通过严谨的中期成果审计，绝大多数项目获准进入第二阶段（2019–2023）；面对全球疫情与数字化挑战，联邦追加设立“数字化与职业教育”专门子通道（Förderlinie Digitalisierung），资助 43 个数字化教学转型子专项。
-> - **2023–至今 — 终期结项与长效机制沉淀** 2023 年底 QLB 正式结项收官；[[Federal Ministry of Education and Research\|BMBF]] 委托独立智库完成国家综合评估报告；各受资助大学将 QLB 设立的教师教育学院、循证资源库与清算中心平台（如 CHU 通过对接威廉·施特默基金会（Wilhelm Stemmer Stiftung）长期注资）沉淀为各州高校的常设法定组织。
+> - **2023–至今 — 终期结项与长效机制沉淀** 2023 年底 QLB 正式结项收官；[[Federal Ministry of Education and Research\|BMBF]] 委托独立智库完成国家综合评估报告；各受资助大学将 QLB 设立的[[National Institute of Education|教师教育学院]]、循证资源库与清算中心平台（如 CHU 通过对接威廉·施特默基金会（Wilhelm Stemmer Stiftung）长期注资）沉淀为各州高校的常设法定组织。
 
 ---
 

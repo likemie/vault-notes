@@ -20,8 +20,6 @@ tags:
   - theme/historiography
   - region/germany
 related_concepts:
-  - "[[Bildung]]"
-  - "[[Didaktik]]"
   - "[[Epistemology]]"
   - "[[Determinism]]"
   - "[[Paradigm]]"
@@ -34,24 +32,32 @@ related_concepts:
   - "[[Champ]]"
   - "[[Scientism]]"
   - "[[Epistemic Ideals]]"
+  - "[[Objective Spirit]]"
   - "[[Performance Indicators]]"
   - "[[Causality]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Value Neutrality]]"
   - "[[Variable]]"
   - "[[Commensuration]]"
+  - "[[Fusion of Horizons]]"
   - "[[National Character]]"
   - "[[Hypothesis]]"
   - "[[Allgemeine Pädagogik]]"
   - "[[Transnational Education]]"
   - "[[Intangible Spiritual Forces]]"
   - "[[Scientific Method]]"
+  - "[[Typicality]]"
   - "[[Positivism]]"
   - "[[Historical Amnesia]]"
   - "[[Operationalization]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Postpositivism]]"
+  - "[[Experiential Learning]]"
+  - "[[Empirische Unterrichtsforschung]]"
   - "[[Falsification]]"
+  - "[[Bildung]]"
+  - "[[Didaktik]]"
+  - "[[Output-Oriented Governance]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Situative Perspective]]"
@@ -74,6 +80,7 @@ related_persons:
   - "[[Andreas Kazamias]]"
   - "[[Bernard Barber]]"
   - "[[Immanuel Kant]]"
+  - "[[Karl Marx]]"
 related_facts:
   - "[[IEA]]"
   - "[[OECD]]"
@@ -81,9 +88,9 @@ related_facts:
 related_arguments:
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
+  - "[[Argument_Ertl_2006_ORE]]"
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
   - "[[Argument_Larsen_2019_EducSci]]"
-  - "[[Argument_Ertl_2006_ORE]]"
 confidence: high
 status: completed
 created: 2026-09-29
@@ -113,7 +120,7 @@ updated: 2026-11-21
 > [!boundary]- 概念边界
 > - **不等于唯心主义抽象玄思** 精神科学立足于客观历史遗存、历史文本与制度实体，强调以扎实的历史发生学批判还原生活现实，而非脱离经验的经院玄学。
 > - **不等于反[[Scientism|科学主义]]的相对主义** 狄尔泰与后继学者致力于为精神科学构建普遍有效的[[Epistemic Ideals|认识论标准]]，主张理解拥有不同于自然科学因果定律的独立认识论尊严与学理严谨性。
-> - **不等于单一心理学内省** 精神科学的研究客体是客观精神（客观化了的文化制度、法律、语言与教育体系），个体心理体验必须置于宏观历史文化网状结构中方能显现意义。
+> - **不等于单一心理学内省** 精神科学的研究客体是[[Objective Spirit|客观精神]]（客观化了的文化制度、法律、语言与教育体系），个体心理体验必须置于宏观历史文化网状结构中方能显现意义。
 
 ---
 
@@ -132,7 +139,7 @@ updated: 2026-11-21
 > [!feature] 核心要素
 > - **生命体验（Erlebnis）** 精神科学的原初基石。教育本质上是生动的生命交往与体验积淀，蕴含不可[[Commensuration|通约]]的个性化与情境性，超越了单纯外在技术传习的机械框架。
 > - **客观精神表达（Ausdruck）** 人类的内在生命体验通过语言、艺术、法律、哲学及各级学校教育制度等客观载体物化流传，成为可供检验的学术文献。
-> - **解释学理解（Verstehen）** 通过历史文献与文化脉络，从外在客观表达反溯其内在精神意图与时代动力，实现阐释者与历史文本的视域融合。
+> - **解释学理解（Verstehen）** 通过历史文献与文化脉络，从外在客观表达反溯其内在精神意图与时代动力，实现阐释者与历史文本的[[Fusion of Horizons|视域融合]]。
 > - **历史性与文化整体观（Historicity and Holism）** 坚持任何教育制度都无法脱离其民族历史土壤而孤立存在，必须将其置于[[National Character|国民性格]]与社会驱动力的整体网络中展开综合审视。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88, 93)]]
 > - **广义科学观与探索性[[Working Hypothesis|工作假说]]（Wissenschaft and Working [[Hypothesis|hypotheses]]）** 承袭德语广义学术观，精神科学坚信严谨的历史比较同样是严密科学；正如历史学家[[Crane Brinton|布林顿]]（Crane Brinton）所示，历史比较能够提炼出虽然适用范围有限、但能在同类情境中检验的工作假说（Working Hypotheses），具备坚实的经验解释力。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 151–152)]]
 > - **政体对学校教育的根本塑造（Polity Shaping Education）** 精神科学传统在考察教育时，将政体（Polity）与时代大思潮作为核心坐标，确立国家如何学校亦如何的分析论断，将教育探究提升为关涉人类自由与民主命运的思想事业。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 144)]]
@@ -175,7 +182,7 @@ updated: 2026-11-21
 > **追索办学理念与政体对学校教育的根本塑造** 坎德尔与汉斯将精神[[Scientific Method|科学方法]]发展为系统的历史-[[Philosophical Analysis in Education|哲学分析]]框架。汉斯解构自然、宗教与世俗三大历史塑造因素；坎德尔强调比较研究的根本任务在于把握制度背后的思想理念与哲学态度。坎德尔提出国家如何学校亦如何的著名断言，揭示教育形态与民族国家政治体制之间的同构关系，并在两次世界大战与流亡岁月中将比较教育探究确立为捍卫自由民主、抵御极权主义的精神堡垒。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 143–144)]]
 
 > [!claim] [[Andreas Kazamias|Kazamias, A.]] M.
-> **精神科学传统确立[[Historical-Comparative Method|历史比较法]]探索性[[Working Hypothesis|工作假说]]的学术严谨性** 卡扎米亚斯总结指出，萨德勒、坎德尔与汉斯代表的第二代比较教育学深嵌于精神科学传统。针对战后实证学派关于历史法缺乏科学预测力的指责，卡扎米亚斯援引[[Crane Brinton|布林顿]]（Crane Brinton）的比较史学理论反驳指出：历史比较研究完全能够通过严谨的史料考掘与类型对照，归纳提炼出具有扎实解释力的中程工作假说（Working [[Hypothesis|hypotheses]]）。特殊性与普遍性在此达成辩证统一，精神科学以其宏大的人文反思构成了比较教育学深厚扎实的认识论基石。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–140, 151–152)]]
+> **精神科学传统确立[[Historical-Comparative Method|历史比较法]]探索性[[Working Hypothesis|工作假说]]的学术严谨性** 卡扎米亚斯总结指出，萨德勒、坎德尔与汉斯代表的第二代比较教育学深嵌于精神科学传统。针对战后实证学派关于历史法缺乏科学预测力的指责，卡扎米亚斯援引[[Crane Brinton|布林顿]]（Crane Brinton）的比较史学理论反驳指出：历史比较研究完全能够通过严谨的史料考掘与类型对照，归纳提炼出具有扎实解释力的中程工作假说（Working [[Hypothesis|hypotheses]]）。[[Typicality|特殊性]]与普遍性在此达成辩证统一，精神科学以其宏大的人文反思构成了比较教育学深厚扎实的认识论基石。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–140, 151–152)]]
 
 ---
 
@@ -204,9 +211,9 @@ updated: 2026-11-21
 > - **1900 年 — [[Michael Sadler|萨德勒]]牛津演讲确立文化[[Situative Perspective|情境主义]]** 萨德勒提出探寻学校门外[[Intangible Spiritual Forces|无形精神力量]]的原则，将精神科学的整体论视角引入英美跨国教育考察。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 141–142)]]
 > - **1920s–1950s — 精神科学教育学与比较教育历史-哲学学派黄金期** 欧陆诺尔与斯普朗格建立精神科学教育学；[[Isaac Kandel|坎德尔]]、汉斯、[[Robert Ulich|乌利希]]与施奈德将精神科学的历史主义与理念史分析确立为成熟学术学科的核心范式。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94)]]；[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 143–144)]]
 > - **1950s–1970s — 战后经验实证化风潮与精神科学传统的遭遇边缘化** 诺亚、埃克斯坦、安德森与福斯特等倡导跨国量化[[Variable|变量]]检验与[[Structural Functionalism|结构功能主义]]，指责精神科学传统为缺乏预测力的前科学，学科陷入[[Empiricism|唯方法论主义]]与技术官僚效能控制。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 144–151)]]
-> - **1970s–1990s — 批判冲突范式兴起与实证神话瓦解** 新马克思主义、[[World-Systems Theory|世界体系分析]]与依赖理论解构[[Positivism|实证主义]]的[[Value Neutrality|价值中立]]神话，重新激活了历史唯物主义制度溯源的人文批判锋芒。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–155)]]
+> - **1970s–1990s — 批判冲突范式兴起与实证神话瓦解** 新[[Karl Marx|马克思]]主义、[[World-Systems Theory|世界体系分析]]与依赖理论解构[[Positivism|实证主义]]的[[Value Neutrality|价值中立]]神话，重新激活了历史唯物主义制度溯源的人文批判锋芒。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–155)]]
 > - **世纪之交 — [[Historical Amnesia|历史健忘症]]危机与精神科学传统重申** 面对量化测评指标（[[PISA]]）席卷与历史维度的严重流失，卡扎米亚斯与米特等学者呼吁找回精神科学的历史阐释灵魂，重构历史学与社会科学的理性综合。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 155–156)]]
-> - **2006 年 — 德国 PISA 冲击后的“急剧经验转向”与精神科学教育学边缘化** [[Argument_Ertl_2006_ORE|Ertl (2006)]] 揭示德国应对 PISA 冲击所发起的“急剧经验转向”（scharfe empirische Wende），使长期主导德意志教育传统、以规范哲学与人文阐释为核心的精神科学教育学（*Geisteswissenschaftliche Pädagogik*）在政策制定与国家资助体系中被经验教育研究（*Empirische Bildungsforschung*）全面挤压与取代。
+> - **2006 年 — 德国 PISA 冲击后的“急剧经验转向”与精神科学教育学边缘化** [[Argument_Ertl_2006_ORE|Ertl (2006)]] 揭示德国应对 PISA 冲击所发起的“急剧经验转向”（scharfe empirische Wende），使长期主导德意志教育传统、以规范哲学与人文阐释为核心的精神科学教育学（*Geisteswissenschaftliche Pädagogik*）在政策制定与国家资助体系中被[[Experiential Learning|经验教育]]研究（*[[Empirische Unterrichtsforschung|Empirische Bildungsforschung]]*）全面挤压与取代。
 
 ---
 
@@ -253,4 +260,4 @@ updated: 2026-11-21
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 系统考据[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、汉斯与[[Robert Ulich|乌利希]]等历史学派学者的思想遗产，阐明历史-哲学母题的精神科学[[Epistemology|认识论]]基石，并借[[Crane Brinton|布林顿]]理论为非普适探索性[[Working Hypothesis|工作假说]]确立现代科学合法性（pp. 37–58）。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 米特深入梳理欧洲比较教育学跨越两个世纪的学统演进，揭示[[Wilhelm Dilthey|狄尔泰]]精神科学传统如何深刻塑造德语[[Allgemeine Pädagogik|普通教育学]]母体，并构成了欧洲文化主义学统抵抗纯量化[[Positivism|实证主义]]的理论源泉（pp. 88–89, 93–94）。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 承继德意志精神科学与教化传统，批判可见学习将教育降解为透明绩效测度的技术主义偏向，确立教育作为自足自主的人文反思根基（pp. 8–10）。
-> - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 对比精神科学教育学（*Geisteswissenschaftliche Pädagogik*）与经验教育研究的范式分歧，揭示德国应对 PISA 冲击过程中精神科学传统被实证产出导向治理制度性替代的历程。
+> - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 对比精神科学教育学（*Geisteswissenschaftliche Pädagogik*）与经验教育研究的范式分歧，揭示德国应对 PISA 冲击过程中精神科学传统被实证[[Output-Oriented Governance|产出导向治理]]制度性替代的历程。

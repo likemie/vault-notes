@@ -8,7 +8,7 @@ summary: "公共政策与比较政治经济学中系统比较不同国家、地�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 57
+method_related_count: 58
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#dbeafe"
@@ -39,11 +39,12 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Modern Industrial Policy]]"
   - "[[Academic Achievement]]"
+  - "[[Social Economy]]"
   - "[[Policy Borrowing]]"
+  - "[[Institutional Mimesis]]"
   - "[[Alienation]]"
   - "[[Neoliberalism]]"
   - "[[Transnational Education]]"
-  - "[[Institutional Mimesis]]"
 related_theories:
   - "[[Cultural Political Economy]]"
   - "[[Spatial Governmentality]]"
@@ -66,26 +67,30 @@ related_facts:
   - "[[Dimensions]]"
   - "[[Erasmus Programme]]"
   - "[[No Child Left Behind Act 2001]]"
-  - "[[PISA]]"
-  - "[[OECD]]"
+  - "[[German Dual Education System]]"
   - "[[Coreper]]"
   - "[[Committee of Permanent Representatives to ASEAN]]"
+  - "[[PISA]]"
+  - "[[OECD]]"
 related_arguments:
   - "[[Argument_Bulfone_2024_IAI]]"
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
   - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
   - "[[Argument_Niemann_Martens_2018_GSP]]"
-  - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
+  - "[[Argument_Ertl_2006_ORE]]"
+  - "[[Argument_Hippach-Schneider_Rieder_2022_RCIE]]"
   - "[[Argument_Legrand_2012_PolStud]]"
-  - "[[Argument_Wang_Liang_Chen_2025_CES]]"
   - "[[Argument_Murray_Moxon-Browne_2013_JCMS]]"
+  - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
+  - "[[Argument_Thelen_2007_RegGov]]"
+  - "[[Argument_Wang_Liang_Chen_2025_CES]]"
 related_persons:
   - "[[Noah Sobe]]"
   - "[[José Luis García Garrido]]"
 confidence: high
 status: completed
 created: 2026-10-06
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 ---
@@ -170,7 +175,7 @@ updated: 2026-11-19
 > [!method-limits] 方法局限
 > - **功能等价性难题（Functional Equivalence）** 不同政体的法律概念、行政层级与财政口径存在显著内涵差异（例如法国的权力外派与西班牙的实质分权在地方机构称谓上易产生混淆），需审慎确立比较基准。
 > - **政策纸面与实践脱节偏误** 官方立法前言中充斥着迎合国际组织的修辞借用与宣示性目标（如对标欧洲标准），若仅依赖文本解读而不探究其实际落地的行政官僚阻力与近亲繁殖现实，易产生研究偏差。
-> - **忽视[[Institutional Complementarity|制度互补性]]（Institutional Complementarity）** 脱离国家整体社会经济福利体制孤立比较单一教育或产业政策，容易忽视政策在原产国有效而在输入国失效的深层制度配套原因。
+> - **忽视[[Institutional Complementarity|制度互补性]]（Institutional Complementarity）** 脱离国家整体[[Social Economy|社会经济]]福利体制孤立比较单一教育或产业政策，容易忽视政策在原产国有效而在输入国失效的深层制度配套原因。
 > - **补救方式** 结合历史文献、官僚编制数据、学业失败率与跨区域协调机制展开多源[[Triangulation|三角互证]]；区分政策声明（Rhetoric）与制度实践（Practice）。
 
 ---
@@ -192,10 +197,10 @@ updated: 2026-11-19
 > - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 运用比较政策与话语分析视角，对照德、芬、瑞等多国教育标准与治理改革，揭示德国选择性借用外部数据时的制度禁忌。
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 针对美欧半导体产业政策构建涵盖治理主体、政策目标、资金规模、政策工具与[[Policy Conditionalities|制度化附加条件]]的五维比较[[Analytic Framework|分析框架]]，揭示美国集中式补贴模式与[[EU|欧盟]]去中心化协调者模式的制度差异与效能分化。
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 采用跨国比较政策分析视角，将西班牙教育置于欧盟多国治理坐标系下，系统对比英、美、德、法、意与北欧的分权模式演变，解构西班牙教育激进分权导致的行政膨胀与中等学制平庸化困境。
-> - [[Argument_Hippach-Schneider_Rieder_2022_RCIE|Hippach-Schneider and Rieder (2022)]] — 横向比较德瑞双元制职教系统，系统对照两国在宪制权限、社会伙伴权能配比与数字化应对弹性上的共性与分异。
+> - [[Argument_Hippach-Schneider_Rieder_2022_RCIE|Hippach-Schneider and Rieder (2022)]] — 横向比较德瑞[[German Dual Education System|双元制]]职教系统，系统对照两国在宪制权限、社会伙伴权能配比与数字化应对弹性上的共性与分异。
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 在英国新工党福利改革案例中，横向对比英国决策者对美、瑞、新、澳四国政策及评估方案的选择性筛选过程，揭示因果评估证据充沛性如何决定跨国借用的最终取舍。
 > - [[Argument_Murray_Moxon-Browne_2013_JCMS|Murray and Moxon-Browne (2013)]] — 采用比较政策与制度分析设计，系统对照欧盟[[Coreper|常驻代表委员会]]与[[Committee of Permanent Representatives to ASEAN|东盟常驻代表委员会]]的决策架构、履约约束力与协商规范，评估区域一体化中[[Institutional Mimesis|制度拟态]]的复制边界（pp. 522–534）。
-> - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 运用比较政策分析方法，对比德、丹、瑞、日、以、美、英、芬等国在面对 [[PISA]] 国际测评硬事实时的异质性政治反应，揭示软治理工具对各国国内改革议程与利益博弈格局的差异化重塑机制。
+> - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 运用比较政策分析方法，对比德、丹、瑞、日、以、美、英、芬等国在面对 [[PISA]] 国际测评硬事实时的异质性政治反应，揭示软治理工具对各国国内改革议程与利益博弈格局的差[[Alienation|异化]]重塑机制。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 运用历史与跨国比较政策分析方法，对比[[OECD]]在1960–1990年社会民主主义妥协期与1990年代中期后[[Neoliberalism|新自由主义]]期的治理架构、工作模式及[[PISA]]指标体系，揭示国际组织从政府间论坛向独立跨国政策行动者的制度转型。
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 采用跨大西洋与跨国比较政策分析，对比欧盟[[Erasmus Programme|伊拉斯谟计划]]将[[Student Mobility|学生流动性]]建构为世界公民积极资本与美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》将学生流动性编码为病态化漂泊问责借口的[[Discourse|话语]]机制，并系统比较中、美、西、英、印等国对流动学童的空间教育治理政策。
 > - [[Argument_Thelen_2007_RegGov|Thelen (2007)]] — 运用比较制度与政策分析框架，系统对比德国双元制集体技能体制与美日等国技能体制，剖析 2005 年德国职教法改革在模块弹性与公私责任再平衡上的制度调适。

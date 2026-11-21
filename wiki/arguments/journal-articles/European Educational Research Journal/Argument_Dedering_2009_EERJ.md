@@ -34,6 +34,8 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[School Autonomy]]"
   - "[[School Inspection]]"
+  - "[[Instrumental Rationality]]"
+  - "[[Immigrant Status]]"
   - "[[Hypothesis]]"
 related_theories: []
 related_methods:
@@ -49,6 +51,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[PISA]]"
+  - "[[PISA-Ländervergleich]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[Gesamtstrategie zum Bildungsmonitoring]]"
   - "[[Vergleichsarbeiten]]"
@@ -121,7 +124,7 @@ issuing_organization: ""
 > | **调查时空跨度** | 访谈材料覆盖 2001 年底 PISA 2000 发布、2006 年 PISA 第三轮发布直至 2009 年初的日常行政运作，兼具历时追踪与横断面比较特征。 |
 
 > [!row-contrast] 表 I：案例选择的四格矩阵面板（Four-[[Champ\|field]] Panel for Case Selection）
-> | 联邦州地理区位 | PISA 联邦州比较测试表现优良 | PISA 联邦州比较测试表现不良 |
+> | 联邦州地理区位 | [[PISA-Ländervergleich\|PISA 联邦州比较]]测试表现优良 | PISA 联邦州比较测试表现不良 |
 > |---|---|---|
 > | **西德各联邦州** | 巴伐利亚、巴登-符腾堡、**莱茵兰-普法尔茨** | **不来梅**、下萨克森、黑森、北莱茵-威斯特法伦 |
 > | **东德各联邦州** | 萨克森、**图林根** | **勃兰登堡**、萨克森-安哈尔特 |
@@ -254,7 +257,7 @@ issuing_organization: ""
 > [!chain-link] 德国循证教育政策从象征性修辞走向日常行政常规的机制演进链
 > - **前提：外部危机驱动象征性合法化防御** 面对 PISA 震荡的舆论关注与执政联盟博弈，教育部官员因缺乏实证工具与分析能力，主要将数据用作防御性政治包装与既定政策背书。
 > - **机制一：常态化监测体制推动专业能力内生化** KMK 四大支柱监测战略落地，催生了专职质保处室、专业社会科学研究员编制与长效高校合作网络，推动官员实践运作知识走向专业化。
-> - **机制二：日常行政内嵌双重模式与工具理性甄别** 数据融入问题诊断与薄弱校识别，决策者区分宏观测评与微观督导的治理边界，推动[[Output-Oriented Governance\|循证治理]]成为日常行政常规。
+> - **机制二：日常行政内嵌双重模式与[[Instrumental Rationality|工具理性]]甄别** 数据融入问题诊断与薄弱校识别，决策者区分宏观测评与微观督导的治理边界，推动[[Output-Oriented Governance\|循证治理]]成为日常行政常规。
 > - **结论：循证教育政策在德国完成从口头修辞向常规实践的转型** 尽管面临数据过载与多源关联瓶颈，但德国各州教育部已将实证数据内化为日常科层治理与资源配置的基础逻辑。
 
 ---
@@ -263,7 +266,7 @@ issuing_organization: ""
 > 1. **[[Evidence-Based Education\|循证教育]]政策已实质性确立为日常行政常规** 德国各州教育部的循证政策已超越危机应对时期的政治修辞与口头空话，在日常行政中展现出日益成熟的数据处理程序与高度制度化的应用常规。
 > 2. **数据研读实现由被动通读向假设检验的认知转变** 官员在 [[PISA]] 2006 中不再通篇通读报告，而是依托成熟的[[Working Knowledge\|实践运作知识]]展开精准的靶向假设检验，并主动借助专业学术期刊（如 ZfE）进行深度反思。
 > 3. **专业数据处理能力实现科层内外的双轨制度化沉淀** 各州通过设置专职社会科学量化分析编制、建立州级[[Institute for Educational Quality Improvement\|教育质量发展研究所]]或委托本土大学，建立了稳定的学术协作网络与方法论交流机制。
-> 4. **日常行政分化出问题导向与数据导向双重应用模式** 数据在非峰值期被常规用于诊断特定弱势群体困境（如男童与移民学生），以及自下而上识别需要行政倾斜干预的危急状态薄弱学校。
+> 4. **日常行政分化出问题导向与数据导向双重应用模式** 数据在非峰值期被常规用于诊断特定弱势群体困境（如男童与[[Immigrant Status|移民学生]]），以及自下而上识别需要行政倾斜干预的危急状态薄弱学校。
 > 5. **密集测评引发数据过载并阻碍多源横向关联分析** [[Vergleichsarbeiten\|VERA]] 等比较测试的极短施测周期挤占了官员行政精力，导致各测评数据多处于孤立状态，仅有个别州迈向全州贯通式集中追踪数据库。
 > 6. **决策者清醒甄别宏观测评与微观工具的治理效力** 官员认为 PISA 等大型国际测评仅具宏观定位价值，而全样本、兼顾输入过程与产出的校际比较测试（VERA）与[[School Inspection\|学校督导]]才具备直接指导政策微调的深层价值。
 

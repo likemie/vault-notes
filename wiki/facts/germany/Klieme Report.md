@@ -35,6 +35,7 @@ related_concepts:
   - "[[Alienation]]"
   - "[[Individualised Instruction]]"
   - "[[Output-Oriented Governance]]"
+  - "[[Empirische Unterrichtsforschung]]"
   - "[[Topological Spatialisation]]"
   - "[[Data Infrastructure]]"
   - "[[Tracking]]"
@@ -126,7 +127,7 @@ updated: 2026-11-21
 
 > [!indicators] 历史评价与制度影响
 > - **实现治理范式历史性翻转** 终结了德国教育界长期偏重行政教学大纲（Lehrpläne）的输入控制惯性，开启了基于证据的产出监测（[[Output-Oriented Governance|Output-Orientierung]]）时代。
-> - **确立经验实证教育科学的主导地位** 推动德国教育学界整体完成了从思辨哲学向经验实证研究（Empirische Bildungsforschung）的体制转移，实证专家网络成为国家教育决策的核心智囊。
+> - **确立经验实证教育科学的主导地位** 推动德国教育学界整体完成了从思辨哲学向经验实证研究（[[Empirische Unterrichtsforschung|Empirische Bildungsforschung]]）的体制转移，实证专家网络成为国家教育决策的核心智囊。
 > - **构建[[Topological Spatialisation|拓扑空间化]]新型规训体系** 在严格恪守宪法禁止公开学校排名的法律底线下，依托克利姆报告构想的 IQB [[Data Infrastructure|数据基础设施]]，在微观学校现场与宏观国家标准之间架设了远距离的隐蔽监控回路。[[Argument_Hartong_2018_GSE|(Hartong, 2018)]]
 > - **技术标准与三轨分流禁忌的政治共谋** 克利姆报告聚焦于[[Hauptschule|主要中学]]与[[Realschule|实科中学]]的胜任力层级研发，刻意回避对文法中学及早期[[Tracking|分轨制]]结构的制度反思，使技术标准的引入兼顾了各派政治势力维持三轨体系不变的政治共识（[[Argument_Ertl_2006_ORE|Ertl, 2006, pp. 625–626]]）。
 

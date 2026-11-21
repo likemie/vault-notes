@@ -2,6 +2,8 @@
 title: KMK-Bildungsstandards
 aliases:
   - 德国国家教育标准
+  - KMK 国家教育标准
+  - KMK 2003 国家教育标准
   - KMK Educational Standards
   - National Educational Standards in Germany
   - Bildungsstandards der KMK
@@ -37,14 +39,18 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Professional Judgment]]"
   - "[[Output-Oriented Governance]]"
+  - "[[Competence Clash]]"
   - "[[Paradigm Wars]]"
   - "[[Analytical Stance]]"
   - "[[Paideia]]"
   - "[[Bildung]]"
   - "[[Scientific Method]]"
+  - "[[Evidence Standards]]"
+  - "[[Evidence-Based Education]]"
   - "[[Governing by Numbers]]"
   - "[[PISA Shock]]"
   - "[[Construct]]"
+  - "[[Curriculum Alignment]]"
   - "[[Document]]"
   - "[[Total War]]"
   - "[[Policy Borrowing]]"
@@ -136,7 +142,7 @@ updated: 2026-11-21
 
 > [!finding-cards] 关键政策后果
 > - **向[[Output-Oriented Governance|产出导向治理]]的历史性飞跃** [[Argument_Ertl_2006_ORE|Ertl (2006)]] 论证，国家教育标准打破了德国长期信任“只要规定教学内容、培训师资并认证合格即可保障质量”的输入控制假定，全面确立了以可测量胜任力为尺度的产出控制主导逻辑。[[Argument_Ertl_2006_ORE|(Ertl, 2006, pp. 624–625)]]
-> - **学术界的胜任力范式冲突** 斯隆与迪尔格（Sloane & Dilger, 2005）等学者指出，标准过度倚重外在可测指标，导致真实的教学互动过程退居次席；同时引发了语言学、心理学与狭隘[[Behaviorism|行为主义]]技能概念之间的剧烈学术碰撞（Competence Clash）。[[Argument_Ertl_2006_ORE|(Ertl, 2006, p. 628)]]
+> - **学术界的胜任力范式冲突** 斯隆与迪尔格（Sloane & Dilger, 2005）等学者指出，标准过度倚重外在可测指标，导致真实的教学互动过程退居次席；同时引发了语言学、心理学与狭隘[[Behaviorism|行为主义]]技能概念之间的剧烈学术碰撞（[[Competence Clash]]）。[[Argument_Ertl_2006_ORE|(Ertl, 2006, p. 628)]]
 > - **标准执行力争议** 赫尔曼（Ulrich Herrmann, 2004）严厉批评 KMK 颁布的标准在文本结构上仍然深陷旧式大纲窠臼，缺乏微观教学法支持，直言“所谓标准只是一厢情愿改写的大纲，其实施成败全凭天意”。[[Argument_Ertl_2006_ORE|(Ertl, 2006, p. 626)]]
 
 > [!stat-cards]- 核心数据
@@ -167,12 +173,12 @@ updated: 2026-11-21
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Output-Oriented Governance]] | Concept | 国家教育标准所奠定的德国现代基础教育治理根本范式。 |
-> | 教育标准（Educational Standards） | Concept | 政策所属的教育质量控制与评价的国际理论概念。 |
+> | [[Evidence Standards]] | Concept | 国家标准与测评模型所依据的[[Evidence-Based Education\|循证教育]]质量与效度基准。 |
 > | [[Governing by Numbers]] | Concept | 国家标准与后续统一量表测验构成了基于数据的[[Governing at a Distance\|远程治理]]核心技术。 |
 > | [[PISA Shock]] | Concept | 直接迫使各州打破文化主权妥协出台国家标准的历史性危机推手。 |
 > | [[Didaktik]] | Concept | 国家教育标准致力于取代并重构的德国传统教学论分析传统。 |
-> | 胜任力（Competence） | Concept | 国家教育标准据以构建期望目标与测评题库的顶层[[Construct\|理论构念]]。 |
-> | 课程开发（Curriculum Development） | Concept | 国家标准实施促使各州课程大纲重构为核心大纲与教育计划。 |
+> | [[Construct]] | Concept | 国家教育标准据以构建期望目标与测评题库的胜任力理论构念。 |
+> | [[Curriculum Alignment]] | Concept | 国家标准实施促使各州课程大纲与产出目标实现的课程对齐机制。 |
 > | [[Standing Conference of the Ministers of Education and Cultural Affairs]] | Fact (Organization) | 研制、签署并强制推行国家教育标准的各州最高教育协调机构。 |
 > | [[Institute for Educational Quality Improvement]] | Fact (Organization) | 专为落实国家教育标准测评、题库研发与跨州对标设立的国家中枢。 |
 > | [[Klieme Report]] | Fact ([[Document]]) | 为国家教育标准提供胜任力模型与实施技术蓝图的纲领性专家咨询报告。 |

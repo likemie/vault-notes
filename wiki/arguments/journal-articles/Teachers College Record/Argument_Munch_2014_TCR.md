@@ -65,6 +65,7 @@ related_facts:
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[World Bank]]"
   - "[[G8 Reform in Germany]]"
+  - "[[KMK-Bildungsstandards]]"
   - "[[Realschule]]"
   - "[[International Monetary Fund]]"
   - "[[World Trade Organization]]"
@@ -131,7 +132,7 @@ issuing_organization: ""
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **文本样本** | PISA 2000、2006、2009 官方测评报告与技术框架，德国 KMK 国家教育标准文本，巴伐利亚等州文法中学教学大纲与考试规程。 |
+> | **文本样本** | PISA 2000、2006、2009 官方测评报告与技术框架，德国 [[KMK-Bildungsstandards\|KMK 国家教育标准]]文本，巴伐利亚等州文法中学教学大纲与考试规程。 |
 > | **政策[[Document\|文献]]** | 德国联邦与各州中等教育分流法规、八年制文法中学（G8）改革决议、政党政策声明（基督教民主联盟与基督教社会联盟［CDU/CSU］统一高中毕业考倡议）及教师专业协会立场报告。 |
 > | **材料情境** | 德国战后联邦文化主权宪制结构、三轨中等教育分流制度（文法中学 Gymnasium / [[Realschule\|实科中学]] Realschule / 主要中学 Hauptschule）及洪堡人文主义教养历史传统。 |
 
