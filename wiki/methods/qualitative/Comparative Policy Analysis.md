@@ -198,4 +198,5 @@ updated: 2026-11-19
 > - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 运用比较政策分析方法，对比德、丹、瑞、日、以、美、英、芬等国在面对 [[PISA]] 国际测评硬事实时的异质性政治反应，揭示软治理工具对各国国内改革议程与利益博弈格局的差异化重塑机制。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 运用历史与跨国比较政策分析方法，对比[[OECD]]在1960–1990年社会民主主义妥协期与1990年代中期后[[Neoliberalism|新自由主义]]期的治理架构、工作模式及[[PISA]]指标体系，揭示国际组织从政府间论坛向独立跨国政策行动者的制度转型。
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 采用跨大西洋与跨国比较政策分析，对比欧盟[[Erasmus Programme|伊拉斯谟计划]]将[[Student Mobility|学生流动性]]建构为世界公民积极资本与美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》将学生流动性编码为病态化漂泊问责借口的[[Discourse|话语]]机制，并系统比较中、美、西、英、印等国对流动学童的空间教育治理政策。
+> - [[Argument_Thelen_2007_RegGov|Thelen (2007)]] — 运用比较制度与政策分析框架，系统对比德国双元制集体技能体制与美日等国技能体制，剖析 2005 年德国职教法改革在模块弹性与公私责任再平衡上的制度调适。
 > - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 运用比较政策分析视角审视现存 254 个跨国职教合作平台的空间分布与专业结构数据，剖析主权规制差异对[[Transnational Education|跨境教育]]合作成效的制度制约（pp. 294–295）。

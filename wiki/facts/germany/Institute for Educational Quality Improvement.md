@@ -12,7 +12,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -60,10 +60,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Hartong_2018_GSE]]"
   - "[[Argument_Dedering_2009_EERJ]]"
+  - "[[Argument_Ertl_2006_ORE]]"
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-11-02
+updated: 2026-11-21
 ---
 
 ---
@@ -80,7 +81,7 @@ updated: 2026-11-02
 ---
 
 > [!dev-timeline] 组织发展历程
-> - **2004–2006 — 机构创设与国家教育标准题库奠基** 2004 年由 [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 决议在柏林正式组建，初期核心任务是为 KMK 颁布的中学第一阶段（Sekundarstufe I）与小学国家教育标准（Bildungsstandards）研发心理测量学指标、试题库与能力层级量规（[[Argument_Dedering_2009_EERJ\|Dedering, 2009, p. 484]]）。
+> - **2004–2006 — 机构创设与国家教育标准题库研制** 2004 年由 [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 决议在柏林正式组建，初期核心任务是为 KMK 颁布的中学第一阶段（Sekundarstufe I）与小学国家教育标准（Bildungsstandards）研发心理测量学指标、试题库与能力层级量规（[[Argument_Dedering_2009_EERJ\|Dedering, 2009, p. 484]]；[[Argument_Ertl_2006_ORE\|Ertl, 2006, pp. 624–625]]）。
 > - **2007–2012 — 联邦州比较测试常规化与 [[Vergleichsarbeiten\|VERA]] 统筹接管** 2009 年起常态化组织实施全国代表性样本的联邦州学业达标比较测试（[[IQB-Bildungstrend\|Ländervergleich]]），并逐步接管由各州自发发起的校际比较测试（[[Vergleichsarbeiten\|VERA]]）的全国命题与元治理协调职能，确立其作为全国命题与标准标定中枢的法定权威（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 141, 144]]）。
 > - **2013–至今 — 研究数据中心（FDZ）集成与数字化拓扑拓展** 正式建立并扩大教育研究数据中心（Forschungsdatenzentrum, FDZ），将跨国（[[PISA]]、[[TIMSS]]、[[PIRLS]]）与国内大规模测评数据全面集成归档；同时上线面向全德一线教师的数字化练习任务平台，推动国家标准向微观课堂教学直接延伸（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 144–145]]）。
 
@@ -151,16 +152,17 @@ updated: 2026-11-02
 > | [[Topological Spatialisation]] | Concept | IQB 通过[[Data Infrastructure\|数据基础设施]]在各州之间编织起跨尺度的拓扑治理网络。 |
 > | [[Data Infrastructure]] | Concept | IQB 运营的题库平台与 FDZ 数据库是全德[[CORE Education\|核心教育]]数据基础设施。 |
 > | [[Standing Conference of the Ministers of Education and Cultural Affairs]] | Fact (Organization) | 创设并委托 IQB 执行国家教育监测战略的国家最高协调机构。 |
-> | [[Gesamtstrategie zum Bildungsmonitoring]] | Fact (Policy) | 规范 IQB 职能定位与监测支柱的国家最高政策纲领。 |
 > | [[Leibniz Institute for Educational Research and Educational Information]] | Fact (Organization) | 国家兄弟研究机构，DIPF 统筹国家教育报告与教育信息基础设施。 |
 > | [[Zentrum für internationale Bildungsvergleichsstudien]] | Fact (Organization) | 国家兄弟研究联合体，ZIB 统筹德国 [[PISA]] 测评研发与实施。 |
+> | [[Institute for Educational Monitoring and Quality Improvement]] | Fact (Organization) | 汉堡州立监测机构（IfBQ），在州级层面落实 IQB 标准与 VERA 实施。 |
+> | [[Gesamtstrategie zum Bildungsmonitoring]] | Fact (Policy) | 规范 IQB 职能定位与监测支柱的国家最高政策纲领。 |
 > | [[Vergleichsarbeiten]] | Fact (Program) | IQB 承担命题研制与元治理协调的全德国校际比较测试项目。 |
 > | [[PISA]] | Fact (Program) | 催生 IQB 成立的根本性国际危机事件，其数据集由 IQB FDZ 集成管理。 |
-> | [[Institute for Educational Monitoring and Quality Improvement]] | Fact (Organization) | 汉堡州立监测机构（IfBQ），在州级层面落实 IQB 标准与 VERA 实施。 |
 > | [[Sigrid Hartong]] | Person | 深入剖析 IQB 机构崛起、计算中心机制与政策拓扑重组的核心研究者。 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Hartong_2018_GSE|Hartong, 2018]] — 深入解剖 IQB 作为国家计算中心与数据基础设施运作机制的核心[[Document|文献]]。
-> - [[Argument_Dedering_2009_EERJ|Dedering, 2009]] — 记录 IQB 早期创设背景及其在各州教育部日常落实机制中的文献。
+> - [[Argument_Hartong_2018_GSE|Hartong (2018)]] — 深入解剖 IQB 作为国家计算中心与数据基础设施运作机制的核心文献。
+> - [[Argument_Dedering_2009_EERJ|Dedering (2009)]] — 记录 IQB 早期创设背景及其在各州教育部日常落实机制中的文献。
+> - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 阐释 PISA 震荡如何打破各州文化主权壁垒，推动建立战后首个全德统一的质量评估中枢 IQB（pp. 624–625）。

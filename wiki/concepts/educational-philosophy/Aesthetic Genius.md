@@ -1,7 +1,9 @@
 ---
-title: Genius
+title: Aesthetic Genius
 aliases:
-  - 天才
+  - 审美天才
+  - 艺术天才
+  - 天才论
   - Genie
   - ingenium
 summary: "康德在《判断力批判》中界定的艺术家先天精神禀赋，指自然借以向艺术赋予规则的造化能力，使人工艺术制品呈现出宛如自然造化的自由风貌。"
@@ -24,7 +26,7 @@ related_concepts:
   - "[[Judgment of Taste]]"
   - "[[Commensuration]]"
   - "[[Aesthetic Autonomy]]"
-  - "[[Poetics]]"
+  - "[[Philosophical Poetics]]"
 related_persons:
   - "[[Immanuel Kant]]"
   - "[[Friedrich Wilhelm Joseph Schelling]]"
@@ -49,8 +51,8 @@ updated: 2026-11-21
 
 ---
 
-> [!def] Genius
-> **天才（Genius，德文 *Genie*，拉丁文 *ingenium*）** 在[[Immanuel Kant|康德]] 1790 年《判断力批判》第 46 节中被界定为“赋予艺术以规则的才能（自然禀赋）”；由于艺术家天生的创造能力本身属于自然，天才亦被概括为“自然借以向艺术赋予规则的先天精神资质”。在康德[[Philosophical Aesthetics|哲学美学]]中，典范的纯艺术必然是天才的艺术，唯独天才能够使合目的的[[Artefact|人工制品]]摆脱学院派教条的刻板束缚，呈现出宛如自然天成的自由风貌[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 35–36)]]。在历史脉络中，天才概念经历从 18 世纪对规则[[Poetics|诗学]]（*Regelpoetiken*）的反拨，到[[Sturm und Drang|狂飙突进运动]]（Sturm und Drang）的狂热主观化，再到德国唯心论与叔本华形而上学体系化重构的多重嬗变[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 7, 12)]]；[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 71–73)]]。
+> [!def] Aesthetic Genius
+> **审美天才（Aesthetic Genius，德文 *Genie*，拉丁文 *ingenium*）** 在[[Immanuel Kant|康德]] 1790 年《判断力批判》第 46 节中被界定为“赋予艺术以规则的才能（自然禀赋）”；由于艺术家天生的创造能力本身属于自然，天才亦被概括为“自然借以向艺术赋予规则的先天精神资质”。在康德[[Philosophical Aesthetics|哲学美学]]中，典范的纯艺术必然是天才的艺术，唯独天才能够使合目的的[[Artefact|人工制品]]摆脱学院派教条的刻板束缚，呈现出宛如自然天成的自由风貌[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 35–36)]]。在历史脉络中，天才概念经历从 18 世纪对规则[[Philosophical Poetics|诗学]]（*Regelpoetiken*）的反拨，到[[Sturm und Drang|狂飙突进运动]]（Sturm und Drang）的狂热主观化，再到德国唯心论与叔本华形而上学体系化重构的多重嬗变[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 7, 12)]]；[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 71–73)]]。
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 艺术家兼具规则熟稔与超越开创的先天自然资质，是自然创造力向艺术领域延伸的先验通道。
@@ -118,7 +120,7 @@ updated: 2026-11-21
 ---
 
 > [!dev-timeline] 概念演变
-> - **18 世纪中叶 — 规则诗学到天才诗学萌芽** [[Alexander Gottlieb Baumgarten|鲍姆加登]]尚在修辞学三阶段与规则[[Poetics|诗学]]（*Regelpoetiken*）框架内探讨创作法则，随后[[Sturm und Drang|狂飙突进运动]]推崇天才诗学（*Geniepoetik*），为批判美学对天才的哲学界定开辟空间。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 7, 12)]]
+> - **18 世纪中叶 — 规则诗学到天才诗学萌芽** [[Alexander Gottlieb Baumgarten|鲍姆加登]]尚在修辞学三阶段与规则[[Philosophical Poetics|诗学]]（*Regelpoetiken*）框架内探讨创作法则，随后[[Sturm und Drang|狂飙突进运动]]推崇天才诗学（*Geniepoetik*），为批判美学对天才的哲学界定开辟空间。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 7, 12)]]
 > - **1790 — 康德确立先验自然立法说** 康德在《判断力批判》第 46 节正式提出“自然借天才给艺术立法”，解决人工构作与自然外观的审美悖论。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 35–36)]]
 > - **1800 — 谢林结合技艺与无意识恩典** 谢林在《先验唯心论体系》中将天才规定为意识技艺与无意识诗意恩典的交融，确立艺术美高于自然美的新秩序。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 71–73)]]
 > - **1818 — 叔本华提出纯客观认知说** 叔本华在《作为意志和表象的世界》中将天才视为脱离欲望意志的纯粹认知主体。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 120–121)]]
@@ -139,7 +141,7 @@ updated: 2026-11-21
 > |:-----|:-----|:-----|
 > | [[Judgment of Taste]] | 概念 | 鉴赏判断规范审美接受与品评，天才则规范美的艺术生产。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 35–36)]] |
 > | [[Aesthetic Autonomy]] | 概念 | 天才超越外在规则规训，体现艺术在生产层面的自足性。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 35–36)]] |
-> | [[Poetics]] | 概念 | 狂飙突进运动以天才诗学打破 18 世纪规则诗学的桎梏。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 7, 12)]] |
+> | [[Philosophical Poetics]] | 概念 | 狂飙突进运动以天才诗学打破 18 世纪规则诗学的桎梏。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 7, 12)]] |
 > | [[Alexander Gottlieb Baumgarten]] | 人物 | 确立包含修辞学三阶段的规则诗学，构成天才诗学反拨的历史语境。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 7, 12)]] |
 > | [[Immanuel Kant]] | 人物 | 在《判断力批判》第 46 节提出“自然借天才给艺术立法”。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 35–36)]] |
 > | [[Friedrich Wilhelm Joseph Schelling]] | 人物 | 以天才融合意识技艺与无意识恩典，逆转康德的自然美优先论。[[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, pp. 71–73)]] |
