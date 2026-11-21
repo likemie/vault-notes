@@ -10,7 +10,7 @@ aliases:
 summary: "将专业实践与教育治理窄化为手段-目的因果计算与去情境化技术控制的实证主义模型；在微观教学中剥夺教师专业判断，在宏观政策与比较教育中将教育退化为劳动力技能规训并侵蚀全人教化"
 type: concept
 domain: "educational-philosophy"
-related_count: 156
+related_count: 157
 related_level: 15
 related_stars: "💎💎💎💎💎"
 related_color: "#ddd6fe"
@@ -183,6 +183,7 @@ related_arguments:
   - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
   - "[[Argument_Hill_2022_FacilitatingActors]]"
   - "[[Argument_Barrenechea_2023_JEC]]"
+  - "[[Argument_Ertl_2006_ORE]]"
 confidence: high
 status: active
 created: 2026-05-03
@@ -430,7 +431,7 @@ updated: 2026-11-21
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] — 解构超国家组织（GEEAP、世界银行）以客观中立与纯粹证据为名推行的技术理性治理，揭示成本效益排位对本土实践智慧的边缘化及对地缘政治议程的遮蔽（pp. 347–348）。
 > - [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] — 批判经典政策转移研究的技术理性与中立借鉴预设，论证代表性知识与南南对等协商对技术官僚专长垄断的解构。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 结合[[Policy Instrumentation Theory|政策工具社会学]]，揭示经合组织如何运用技术理性排位将政治价值抉择置换为客观数据以推进跨国[[Governing at a Distance|远距治理]]。
@@ -450,6 +451,7 @@ updated: 2026-11-21
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 剖析欧盟开放协调法（OMC）全景敞视网络中，成员国教育部与专家群体如何将以可就业性与绩效产出为核心的技术官僚理性内化为政策常模与自我规训机制（pp. 487, 492–493）。
 > - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 比较北欧三国改革政策起草实践，实证揭示行政默会知识、学术社交网络与后置合法化需求对客观系统检索假说的替代，系统解构[[Evidence-Based Policy-Making|循证政策制定]]的技术理性神话。
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 对系统改进实证文献开展质性综合，批判线性阶段论与自上而下激励控制背后的技术理性假设，强调制度文化惯性与情境复杂性。
+> - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 剖析德国 PISA 冲击后外部引进的能力测试技术理性对本土人文陶冶与行动胜任力传统的侵蚀，揭示考试行为主义产出测评与复杂育人过程之间的范式对立。
 > - Schön (1983) — 著作《反思性实践者》，系统界定技术理性并阐明反思性实践作为专业认识论的替代方案。
 > - Habermas (1976) — 阐明技术理性作为晚期资本主义治理媒介对生活世界的侵蚀与合法化危机生成机制。
 

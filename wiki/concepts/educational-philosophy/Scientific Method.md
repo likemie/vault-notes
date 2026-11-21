@@ -9,7 +9,7 @@ aliases:
 summary: "以经验观察、受控检验与假设证伪为基础的系统性探究程序；传统实证主义将其预设为贯通自然与社会的普适法则，当代科学哲学与科学教育将其重构为多元情境化的社会认识论实践，而在跨国治理中其亦被超国家机构包装为客观中立的科学决策品牌以推行去政治化协调。"
 type: concept
 domain: "educational-philosophy"
-related_count: 102
+related_count: 103
 related_level: 10
 related_stars: "💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -128,10 +128,11 @@ related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
+  - "[[Argument_Ertl_2006_ORE]]"
 confidence: high
 status: completed
 created: 2026-06-13
-updated: 2026-11-15
+updated: 2026-11-21
 ---
 
 ---
@@ -335,6 +336,25 @@ updated: 2026-11-15
 
 ---
 
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Positivism]] | 概念 | 实证主义，将科学方法预设为贯通自然与社会的普适认识论基石。 |
+> | [[Falsification]] | 概念 | 可证伪性，波普尔科学哲学中划界科学与非科学的核心方法论准则。 |
+> | [[Nature of Science]] | 概念 | 科学本质，阐明科学方法的暂定性、实证性与社会建构属性的元理论。 |
+> | [[Technical Rationality]] | 概念 | 技术理性，将科学方法窄化为去情境化手段-目的计算与官僚控制。 |
+> | [[Evidence-Based Education]] | 概念 | 循证教育，主张将严格的实验科学方法作为教育决策正统依据的治理范式。 |
+> | [[Critical Theory]] | 理论 | 批判理论，解构科学方法中立神话并揭示其实证控制背后权力预设的理论。 |
+> | [[Inquiry Cycle]] | 理论 | 探究循环，将科学探究分解为假设、设计、施测与反思的认知模型。 |
+> | [[Randomised Controlled Trials]] | 方法 | 随机对照试验，检验教育与科技体制干预因果效应的实验科学方法金标准。 |
+> | [[Meta-analysis]] | 方法 | 元分析，对同类主题经验实证结果进行统计综合的宏观科学方法。 |
+> | [[Francis Bacon]] | 人物 | 经验主义哲学家，著有《新工具》，系统倡导近代经验归纳科学方法。 |
+> | [[Karl Popper]] | 人物 | 科学哲学家，倡导批判理性主义与证伪主义科学方法论。 |
+> | [[OECD]] | 事实 | 经合组织，通过 PISA 测评将比较研究包装为科学方法以推行跨国数字治理。 |
+
+---
+
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Liu_2023_NHB|Liu et al. (2023)]] — 系统梳理将描述性建模、[[Natural Experiment|准自然实验]]与随机对照试验反躬应用于科学运行本身的科学学方法论体系，为科技政策优化确立经验因果基底（pp. 314–317, 341–350, 368）。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási (2021)]] — 结合皮埃尔·阿祖莱呼吁与哈佛研讨会面对面随机对照试验，实证阐释将实验科学方法反躬应用于评估科技体制与合作机制的科学学因果革命（pp. 249–251）。
@@ -348,3 +368,4 @@ updated: 2026-11-15
 > - [[Argument_Peterson_1987_OpenCourt|Peterson (1987)]] — 从[[Theory of Knowledge|知识论]]视角界定科学方法的有效性限度与认识论边界，强调[[General Education|通识教育]]的核心在于理解科学方法能够支持哪些结论，以及哪些伦理与价值判断落在其解释范围之外。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 反思[[School Effectiveness|学校效能]]研究与量化评价中过度借用实证科学方法的认识论陷阱，揭示指标驱动的评价模式对微观教育复杂性的遮蔽。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 从两级[[Fixed-Effect Model|固定效应]]数学公理推导出宏观[[Research Synthesis|证据综合]]的六项方法论要求，运用数据基础批判、内部合规批判与外部认识论批判三层次框架，实证解构《[[Visible Learning|可见的学习]]》借用科学方法外衣却违背基础计量规范引发的排名虚真，提出建设中央标准化证据数据库。
+> - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 剖析德国应对 PISA 冲击过程中，以量化可测胜任力为导向的经验科学研究对德意志人文学派普通教学论传统的范式替代历程。

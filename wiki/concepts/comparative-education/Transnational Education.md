@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-10
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 ---
@@ -93,7 +93,7 @@ updated: 2026-11-19
 > - **物理与空间错位** 学习者的地理驻留地与教学资格授予机构的法定注册地分属于两个不同的主权管辖区。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, p. 382)]]
 > - **多元交付模式谱系** 从轻资产的远程数字化课程、课程特许授权，到重资产的海外独立实体分校、[[Sino-Foreign Cooperation in Running Schools|中外合作办学]]大学及联合学院。
 > - **规制管辖与质量保障张力** 输出国必须通过官方第三方评估机构（如芬兰 [[Finnish Education Evaluation Centre|KARVI]]、英国 QAA）对其离岸交付质量进行域外背书，以捍卫国家教育品牌。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 385–386)]]
-> - **全学段泛化与产业渗透** 当代国家政策将 TNE 范畴由大学学位扩展至职业教育、微专业以及涵盖课桌椅家具、AI 教学平台的集成解决方案。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, p. 382)]]
+> - **全学段泛化与产业渗透** 当代国家政策将 TNE 范畴由大学学位扩展至职业教育、微专业以及涵盖课桌椅家具、AI 教学平台的集成解决方案。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 382–383)]]
 > - **向第三代国际教育枢纽演化** 第二代 TNE 提供的机构合作经验与优质学科资源，为国家级试验区（如[[Guangdong-Hong Kong-Macau Greater Bay Area|大湾区]]、海南陵水、浙江海宁）建设空间高度集聚、三螺旋协同的第三代教育枢纽奠定了组织支柱。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 2–3)]]
 > - **地缘软实力投射与文凭创收工具** 在全球南方区域治理中，跨国教育常被外部强权视作投射规范与软实力的关键渠道，并将发展中国家视作分散的文凭创收市场，易强化后发国家对西方评价体系的单向依附。[[Argument_Indrarajah_2026_NJCIE|(Indrarajah, 2026, pp. 6–7)]]
 
