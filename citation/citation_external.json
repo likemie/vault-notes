@@ -2110,6 +2110,8 @@
     "Baumeister et al., 1998": "Baumeister et al., 1998",
     "Baumer (2005)": "Baumer, 2005",
     "Baumer, 2005": "Baumer, 2005",
+    "Baumert & Schümer (2001)": "Baumert & Schümer, 2001",
+    "Baumert & Schümer, 2001": "Baumert & Schümer, 2001",
     "Baumert et al. (2001)": "Baumert et al., 2001",
     "Baumert et al. (2010)": "Baumert et al., 2010",
     "Baumert et al., 2001": "Baumert et al., 2001",
@@ -7840,8 +7842,6 @@
     "Ertl & Phillips (2006)": "Ertl & Phillips, 2006",
     "Ertl & Phillips, 2000": "Ertl & Phillips, 2000",
     "Ertl & Phillips, 2006": "Ertl & Phillips, 2006",
-    "Ertl (2006)": "Ertl, 2006",
-    "Ertl, 2006": "Ertl, 2006",
     "Erwin Epstein (1970)": "Erwin Epstein, 1970",
     "Erwin Epstein (1981)": "Erwin Epstein, 1981",
     "Erwin Epstein, 1970": "Erwin Epstein, 1970",
@@ -9150,7 +9150,9 @@
     "GEEAP (2024)": "GEEAP, 2024",
     "GEEAP, 2020": "GEEAP, 2020",
     "GEEAP, 2024": "GEEAP, 2024",
+    "GEW (2005)": "GEW, 2005",
     "GEW (2018)": "GEW, 2018",
+    "GEW, 2005": "GEW, 2005",
     "GEW, 2018": "GEW, 2018",
     "GME (1963)": "GME, 1963",
     "GME, 1963": "GME, 1963",
@@ -13474,7 +13476,9 @@
     "Kates et al., 2018": "Kates et al., 2018",
     "Katharina Maag Merki (2016)": "Katharina Maag Merki, 2016",
     "Katharina Maag Merki, 2016": "Katharina Maag Merki, 2016",
+    "Kathleen Thelen (2002)": "Kathleen Thelen, 2002",
     "Kathleen Thelen (2004)": "Kathleen Thelen, 2004",
+    "Kathleen Thelen, 2002": "Kathleen Thelen, 2002",
     "Kathleen Thelen, 2004": "Kathleen Thelen, 2004",
     "Kathryn Borman (2011)": "Kathryn Borman, 2011",
     "Kathryn Borman, 2011": "Kathryn Borman, 2011",
@@ -14459,7 +14463,9 @@
     "Kratochwill & Levin, 2014": "Kratochwill & Levin, 2014",
     "Kratochwill et al. (2010)": "Kratochwill et al., 2010",
     "Kratochwill et al., 2010": "Kratochwill et al., 2010",
+    "Kraus (2004)": "Kraus, 2004",
     "Kraus (2005)": "Kraus, 2005",
+    "Kraus, 2004": "Kraus, 2004",
     "Kraus, 2005": "Kraus, 2005",
     "Kraut & Resnick (2012)": "Kraut & Resnick, 2012",
     "Kraut & Resnick, 2012": "Kraut & Resnick, 2012",
@@ -17080,6 +17086,8 @@
     "Maynard, 2013": "Maynard, 2013",
     "Mayne (2012)": "Mayne, 2012",
     "Mayne, 2012": "Mayne, 2012",
+    "Mayntz & Scharpf (1995)": "Mayntz & Scharpf, 1995",
+    "Mayntz & Scharpf, 1995": "Mayntz & Scharpf, 1995",
     "Mayor et al. (1997)": "Mayor et al., 1997",
     "Mayor et al., 1997": "Mayor et al., 1997",
     "Mayring & Fenzl (2019)": "Mayring & Fenzl, 2019",
@@ -29529,6 +29537,8 @@
     "蔺亚琼与李紫玲, 2021": "蔺亚琼与李紫玲, 2021",
     "行为经济 (2024)": "行为经济, 2024",
     "行为经济, 2024": "行为经济, 2024",
+    "行动计划 (2005)": "行动计划, 2005",
+    "行动计划, 2005": "行动计划, 2005",
     "袁振国 (2017)": "袁振国, 2017",
     "袁振国, 2017": "袁振国, 2017",
     "被马奥尼与希伦 (2009)": "被马奥尼与希伦, 2009",
@@ -45060,6 +45070,22 @@
       "isbn": "",
       "seen_in": [],
       "title": "Promoting narrative competence through adult-child joint pretense: Lessons from the Scandinavian educational practice of playworld"
+    },
+    "Baumert & Schümer, 2001": {
+      "aliases": [
+        "Baumert & Schümer, 2001",
+        "Baumert & Schümer (2001)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Baumert & Schümer, 2001"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
+        "wiki/concepts/comparative-education/Tripartite School System.md"
+      ],
+      "title": ""
     },
     "Baumert et al., 2001": {
       "aliases": [
@@ -87157,24 +87183,6 @@
       ],
       "title": ""
     },
-    "Ertl, 2006": {
-      "aliases": [
-        "Ertl, 2006",
-        "Ertl (2006)"
-      ],
-      "doi": "10.1080/03054980600976320",
-      "identity_keys": [
-        "Ertl, 2006"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Pasias_Roussakis_2009_EuropeanPanopticon.md",
-        "wiki/arguments/journal-articles/Global Education Outlook/Argument_Xie_Li_Huang_2021_GEO.md",
-        "wiki/facts/eu/Socrates Programme.md",
-        "wiki/theories/comparative-education/Three-Level Mechanism Model of PISA's Impact on Education Policy.md"
-      ],
-      "title": "Educational Standards and the Changing Discourse on Education: The Reception and Consequences of the PISA Study in Germany"
-    },
     "Erwin Epstein, 1970": {
       "aliases": [
         "Erwin Epstein, 1970",
@@ -96701,6 +96709,21 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md",
         "wiki/concepts/educational-policy-reform/Smart Buys.md"
+      ],
+      "title": ""
+    },
+    "GEW, 2005": {
+      "aliases": [
+        "GEW, 2005",
+        "GEW (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "GEW, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Tripartite School System.md"
       ],
       "title": ""
     },
@@ -128319,6 +128342,21 @@
       ],
       "title": ""
     },
+    "Kathleen Thelen, 2002": {
+      "aliases": [
+        "Kathleen Thelen, 2002",
+        "Kathleen Thelen (2002)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Kathleen Thelen, 2002"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/sociology-of-education/Institutional Hybridity.md"
+      ],
+      "title": ""
+    },
     "Kathleen Thelen, 2004": {
       "aliases": [
         "Kathleen Thelen, 2004",
@@ -133251,6 +133289,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md",
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
         "wiki/facts/germany/Klieme Report.md"
       ],
       "title": "Zur Entwicklung nationaler Bildungsstandards: Eine Expertise"
@@ -135436,6 +135475,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Behavioral Education/Argument_Hitchcock_2015_JBE.md"
+      ],
+      "title": ""
+    },
+    "Kraus, 2004": {
+      "aliases": [
+        "Kraus, 2004",
+        "Kraus (2004)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Kraus, 2004"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Tripartite School System.md"
       ],
       "title": ""
     },
@@ -146023,7 +146077,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Teachers College Record/Argument_Munch_2014_TCR.md"
+        "wiki/arguments/journal-articles/Teachers College Record/Argument_Munch_2014_TCR.md",
+        "wiki/concepts/curriculum/McDonaldization of Curriculum.md"
       ],
       "title": "Die verkaufte Bildung. Kritik und Kontroversen zur Kommerzialisierung von Schule, Weiterbildung, Erziehung und Wissenschaft"
     },
@@ -154321,6 +154376,21 @@
       ],
       "title": ""
     },
+    "Mayntz & Scharpf, 1995": {
+      "aliases": [
+        "Mayntz & Scharpf, 1995",
+        "Mayntz & Scharpf (1995)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Mayntz & Scharpf, 1995"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/political-economy-geopolitics/Actor-Centred Institutionalism.md"
+      ],
+      "title": ""
+    },
     "Mayor et al., 1997": {
       "aliases": [
         "Mayor et al., 1997",
@@ -158026,6 +158096,7 @@
         "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Helgetun_2022_JEdPolicy.md",
         "wiki/arguments/journal-articles/Teachers College Record/Argument_Munch_2014_TCR.md",
         "wiki/arguments/journal-articles/Zeitschrift für Bildungsforschung/Argument_Altrichter_2019_ZfB.md",
+        "wiki/concepts/sociology-of-education/Institutional Hybridity.md",
         "wiki/concepts/sociology-of-education/Rationalized Myth.md",
         "wiki/persons/schools/Stanford School.md",
         "wiki/persons/us/John W. Meyer.md",
@@ -196193,7 +196264,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/theories/comparative-education/Multi-Level Governance.md"
+        "wiki/theories/comparative-education/Multi-Level Governance.md",
+        "wiki/theories/political-economy-geopolitics/Actor-Centred Institutionalism.md"
       ],
       "title": ""
     },
@@ -196208,7 +196280,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Hippach-Schneider_Rieder_2022_RCIE.md"
+        "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Hippach-Schneider_Rieder_2022_RCIE.md",
+        "wiki/theories/political-economy-geopolitics/Actor-Centred Institutionalism.md"
       ],
       "title": "Interaktionsformen; Akteurszentrierter Institutionalismus in der Politikforschung"
     },
@@ -244901,6 +244974,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Philosophy & Technology/Argument_Jovchevski_2026_PT.md"
+      ],
+      "title": ""
+    },
+    "行动计划, 2005": {
+      "aliases": [
+        "行动计划, 2005",
+        "行动计划 (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "行动计划, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
       "title": ""
     },

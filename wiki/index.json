@@ -2518,6 +2518,18 @@
     ]
   },
   {
+    "title": "Tripartite School System",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Tripartite School System.md",
+    "aliases": [
+      "三轨学制",
+      "三轨制中学体系",
+      "三分流制中学体系",
+      "德意志三轨学制",
+      "Dreigliedriges Schulsystem"
+    ]
+  },
+  {
     "title": "Turnkey Project",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Turnkey Project.md",
@@ -3830,6 +3842,17 @@
     "path": "wiki/concepts/curriculum/Mathematics Problem Solving Instruction.md",
     "aliases": [
       "数学问题解决教学"
+    ]
+  },
+  {
+    "title": "McDonaldization of Curriculum",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/McDonaldization of Curriculum.md",
+    "aliases": [
+      "课程麦当劳化",
+      "教育麦当劳化",
+      "McDonaldization of Education",
+      "McDonaldization of the Global Curriculum"
     ]
   },
   {
@@ -7160,6 +7183,18 @@
       "适切证据",
       "恰当研究证据",
       "appropriate research evidence"
+    ]
+  },
+  {
+    "title": "Berufsprinzip",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Berufsprinzip.md",
+    "aliases": [
+      "完整职业原则",
+      "全科职业原则",
+      "职业原则",
+      "Occupational Principle",
+      "Vocational Principle"
     ]
   },
   {
@@ -21203,6 +21238,17 @@
     ]
   },
   {
+    "title": "Institutional Hybridity",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Institutional Hybridity.md",
+    "aliases": [
+      "制度混杂",
+      "制度杂糅",
+      "Institutional Hybrids",
+      "制度混合体"
+    ]
+  },
+  {
     "title": "Intellectual-Social Divide",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Intellectual-Social Divide.md",
@@ -25512,6 +25558,17 @@
     "aliases": [
       "教育生产力模型",
       "Walberg九因素模型"
+    ]
+  },
+  {
+    "title": "Actor-Centred Institutionalism",
+    "type": "theory",
+    "path": "wiki/theories/political-economy-geopolitics/Actor-Centred Institutionalism.md",
+    "aliases": [
+      "行动者中心制度主义",
+      "行动者中心的新制度主义",
+      "Akteurzentrierter Institutionalismus",
+      "ACI"
     ]
   },
   {
@@ -44470,6 +44527,18 @@
     "subtype": "policy"
   },
   {
+    "title": "G8 Reform in Germany",
+    "type": "fact",
+    "path": "wiki/facts/germany/G8 Reform in Germany.md",
+    "aliases": [
+      "德国八年制文理中学改革",
+      "G8改革",
+      "G8-Reform",
+      "Eight-Year Gymnasium in Germany"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "German Dual Education System",
     "type": "fact",
     "path": "wiki/facts/germany/German Dual Education System.md",
@@ -56974,6 +57043,11 @@
     "title": "Argument_Dang_2017_ORE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Dang_2017_ORE.md"
+  },
+  {
+    "title": "Argument_Ertl_2006_ORE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
   },
   {
     "title": "Argument_Allerup_2015_Paideia",

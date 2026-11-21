@@ -46,6 +46,7 @@ related_theories:
   - "[[Theory of Change]]"
   - "[[Neo-Weberian State]]"
   - "[[Path Dependence]]"
+  - "[[Actor-Centred Institutionalism]]"
 related_methods:
   - "[[Documentary Analysis]]"
   - "[[Expert Interview]]"
@@ -70,14 +71,14 @@ sources:
 part_of: ""
 status: draft
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Hippach-Schneider_Rieder_2022_RCIE"
 argument_key: "Argument_Hippach-Schneider_Rieder_2022_RCIE"
 argument_display_title: "Between pressure to act and framework for action – the actors in the German and Swiss vocational education and training systems in the face of digitalisation"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 38
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -99,7 +100,7 @@ issuing_organization: ""
 > [!concept-lens] 阅读透镜
 > - **对象** 德国与瑞士职业教育培训（Vocational Education and Training, VET）系统中的国家行动者（联邦政府、州级政府）、非国家直接法定行动者（雇主协会、工会、工作界组织）以及间接实践行动者（公立职业学校、专任教师与科研机构）。
 > - **张力** 数字化技术快速迭代对课程标准即时更新的要求，与双元制系统依赖多方审议、追求长期稳定性的制度惯性之间的张力；德国碎片化教育联邦制与瑞士协同型三方伙伴制之间的治理效能对比。
-> - **贡献** 解构了将德瑞两国双元制职教系统简单归并为均质化模式的表面分类（Gonon, 2005; Greinert, 2010），从行动者中心制度主义与教育治理视角，揭示了底层宪制权责配置对技能形成体系应对技术变革弹性的决定性作用。
+> - **贡献** 解构了将德瑞两国双元制职教系统简单归并为均质化模式的表面分类（Gonon, 2005; Greinert, 2010），从[[Actor-Centred Institutionalism|行动者中心制度主义]]与教育治理视角，揭示了底层宪制权责配置对技能形成体系应对技术变革弹性的决定性作用。
 
 ---
 
@@ -107,12 +108,12 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **[[Educational Governance Framework\|教育治理分析框架]]**<br>[[Educational Governance Framework]] | 将职业教育系统界定为由多层级公私行动者在制度结构中通过博弈、协商与政策工具达成行动协调的动态网络（Gonon, 2016b），用于解释数字化政策在不同国家体制中的落实阻力。 |
-> | **行动者中心制度主义**<br>Actor-Centered Institutionalism | 借鉴弗里茨·沙尔普夫（Fritz Scharpf）的分析架构（Scharpf, 2000），将行动者结构界定为由行动主体、战略选择空间与利益偏好构成的复合体，将法律制度界定为划定行动自由度的制度边界。 |
+> | **[[Actor-Centred Institutionalism\|行动者中心制度主义]]**<br>Actor-Centered Institutionalism | 借鉴弗里茨·沙尔普夫（Fritz Scharpf）的分析架构（Scharpf, 2000），将行动者结构界定为由行动主体、战略选择空间与利益偏好构成的复合体，将法律制度界定为划定行动自由度的制度边界。 |
 > | **[[Varieties of Capitalism\|资本主义多样性理论]]**<br>[[Varieties of Capitalism]] | 将德国与瑞士归入协调型市场经济（Coordinated Market Economies, CME）（Thelen, 2004; Busemeyer, 2009），剖析两国依靠非市场协同机制与行业协会克服企业员工技能投资搭便车难题的共同制度逻辑。 |
 > | **[[Theory of Gradual Institutional Change\|渐进制度变革理论]]**<br>[[Theory of Gradual Institutional Change]] | 运用制度层叠（Institutional Layering）与制度转化概念（[[Argument_Streeck_Thelen_2005_OUP\|Streeck & Thelen, 2005]]; Thelen & Busemeyer, 2008），解释德国与瑞士双元制职教系统在技术冲击下通过适应性微调维持自我存续的韧性机制。 |
 
 > [!warrant]- 理论如何支撑论证
-> 理论工具将宏观宪法条文与微观行动者诉求有效串联。行动者中心制度主义确立了制度规则与行动策略之间的因果链条：法律赋予行动者特定的职能管辖权，从而划定了其应对数字化冲击时的工具箱；教育治理框架则帮助识别在中央政府、地方行政区、行业行会与工会构成的多层网络中，协调摩擦与政策阻滞具体发生于哪一个制度交界点；渐进制度[[Theory of Change|变革理论]]则为系统在遭受颠覆性技术冲击时仍能保持高度稳定性提供了机制解释。
+> 理论工具将宏观宪法条文与微观行动者诉求有效串联。[[Actor-Centred Institutionalism|行动者中心制度主义]]确立了制度规则与行动策略之间的因果链条：法律赋予行动者特定的职能管辖权，从而划定了其应对数字化冲击时的工具箱；教育治理框架则帮助识别在中央政府、地方行政区、行业行会与工会构成的多层网络中，协调摩擦与政策阻滞具体发生于哪一个制度交界点；渐进制度[[Theory of Change|变革理论]]则为系统在遭受颠覆性技术冲击时仍能保持高度稳定性提供了机制解释。
 
 ---
 
