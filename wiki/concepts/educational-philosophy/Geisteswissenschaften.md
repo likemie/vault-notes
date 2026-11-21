@@ -6,7 +6,7 @@ aliases:
   - 精神科学传统
   - Geisteswissenschaft
   - 精神科学进路
-summary: "19世纪末由德国哲学家威廉·狄尔泰系统奠基的人文与社会研究知识传统。主张精神科学（以历史、文化、社会与教育为对象）与自然科学具有根本的认识论分野：自然科学旨在通过外在因果规律“说明”自然现象，而精神科学则通过生命体验的内在重构与历史脉络进行“理解”与“解释”。安德烈亚斯·卡扎米亚斯将其视为比较教育学作为普罗透斯式认识体系的核心学术母体，揭示其实证主义放逐所导致的历史健忘症危机。"
+summary: "19世纪末由德国哲学家威廉·狄尔泰系统创立的人文与社会研究知识传统。主张精神科学（以历史、文化、社会与教育为对象）与自然科学具有根本的认识论分野：自然科学旨在通过外在因果规律“说明”自然现象，而精神科学则通过生命体验的内在重构与历史脉络进行“理解”与“解释”。安德烈亚斯·卡扎米亚斯将其视为比较教育学作为普罗透斯式认识体系的核心学术母体，揭示其实证主义放逐所导致的历史健忘症危机。"
 type: concept
 domain: "educational-philosophy"
 related_count: 56
@@ -20,6 +20,8 @@ tags:
   - theme/historiography
   - region/germany
 related_concepts:
+  - "[[Bildung]]"
+  - "[[Didaktik]]"
   - "[[Epistemology]]"
   - "[[Determinism]]"
   - "[[Paradigm]]"
@@ -81,6 +83,7 @@ related_arguments:
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
   - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Argument_Ertl_2006_ORE]]"
 confidence: high
 status: completed
 created: 2026-09-29
@@ -90,7 +93,7 @@ updated: 2026-11-11
 ---
 
 > [!def] Geisteswissenschaften
-> **精神科学（Geisteswissenschaften）**，又译人文科学（Human Sciences），是指以人类历史、社会、文化与精神创造物为研究对象的知识体系总称，由德国哲学家[[Wilhelm Dilthey|威廉·狄尔泰]]（Wilhelm Dilthey）于 19 世纪末在《精神科学引论》（1883）中系统奠基。狄尔泰确立了精神科学与自然科学（Naturwissenschaften）之间的根本[[Epistemology|认识论]]划界：自然科学面对外在于人的物理客体，旨在通过因果假设与实证测量实现客观说明（*Erklären*）；精神科学面对人类自身生命体验（*Erlebnis*）及其历史精神客观化表达（*Ausdruck*），必须依托阐释学循环进行内在理解（*Verstehen*）。在教育学中，该传统孕育了以诺尔（Herman Nohl）、斯普朗格（Eduard Spranger）为代表的精神科学教育学，并构成了欧洲比较教育学以民族历史、文化形态与哲学理念为核心的古典母体。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88–89, 93–94)]]；[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–140, 143–144)]]
+> **精神科学（Geisteswissenschaften）**，又译人文科学（Human Sciences），是指以人类历史、社会、文化与精神创造物为研究对象的知识体系总称，由德国哲学家[[Wilhelm Dilthey|威廉·狄尔泰]]（Wilhelm Dilthey）于 19 世纪末在《精神科学引论》（1883）中系统创立。狄尔泰确立了精神科学与自然科学（Naturwissenschaften）之间的根本[[Epistemology|认识论]]划界：自然科学面对外在于人的物理客体，旨在通过因果假设与实证测量实现客观说明（*Erklären*）；精神科学面对人类自身生命体验（*Erlebnis*）及其历史精神客观化表达（*Ausdruck*），必须依托阐释学循环进行内在理解（*Verstehen*）。在教育学中，该传统孕育了以诺尔（Herman Nohl）、斯普朗格（Eduard Spranger）为代表的精神科学教育学，并构成了欧洲比较教育学以民族历史、文化形态与哲学理念为核心的古典母体。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88–89, 93–94)]]；[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–140, 143–144)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 确立人文与社会科学独立的知识合法性，拒绝将自然科学的机械[[Determinism|决定论]]、单一方法论教条与实证量化[[Paradigm|范式]]强加于具有历史性、价值负载与意义生成的人类教育世界。

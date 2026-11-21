@@ -103,6 +103,7 @@ related_arguments:
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Cowen_2023_CE]]"
   - "[[Argument_Munch_2014_TCR]]"
+  - "[[Argument_Ertl_2006_ORE]]"
 confidence: high
 status: active
 created: 2026-05-04
@@ -262,6 +263,7 @@ updated: 2026-11-21
 > - **20世纪中叶 — 文明危机中的全人教化防线** [[Robert Ulich\|乌利希]]发表《民族教育：历史视重视角下的比较》（1961），梳理西方思想史四阶段，将教化升华为战后比较教育抵御技术官僚异化的人文底线；克拉夫基（Klafki）提出结合[[Epochal Key Problems\|时代关键问题]]的[[Critical Pedagogy|批判教学论]]教化观。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 51–52)]]；[[Argument_Schaffar_2024_CogentEdu\|(Schaffar & Wolff, 2024, pp. 6–7)]]
 > - **1940s–1950s — 二战浩劫与[[Scientific Paradigm\|比较教育科学范式]]转型** 欧洲受教育精英与法西斯极权合流的残酷事实打破了古典教化的道德神话，比较教育学全面反思唯心主义历史学派的局限，开启了追求因果规律、教育规划与政策处方的[[Scientific Paradigm\|科学范式]]转型。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 59–60)]]
 > - **1960s–1990s — 欧陆母体学科依托与两德制度比较** 在欧洲比较教育[[Disciplinary Institutionalization|学科建制化]]过程中，安维勒与米特将教化（Bildung）及其母体学科[[Allgemeine Pädagogik|普通教育学]]（Allgemeine Pädagogik）确立为学科根基；通过将比较教育定义为横切历史与社会学的“[[Comparative Education as a Cross-Sectional Area\|交叉领域]]”，成功开展了跨越冷战意识形态对立的两德教化与教育制度宏大比较工程（Anweiler, 1990），确立了教化作为欧陆比较研究核心规范价值的地位。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 96–98)]]
+> - **2006 — PISA 冲击与德国教育研究的“急剧经验转向”** [[Argument_Ertl_2006_ORE|Ertl (2006)]] 揭示德国在应对 PISA 冲击时以英美“素养”（Literacy）与能力标准（Bildungsstandards）全面取代传统以洪堡教化（*Bildung*）为导向的内容教学大纲（Lehrpläne），导致以精神科学为根基的德意志教学论（Didaktik）传统被边缘化，引发了从哲学教化向经验教育研究（Empirische Bildungsforschung）的“急剧经验转向”（scharfe empirische Wende）。
 > - **2014 — 德国 PISA 规制下通用基础素养对学科教化传统的解构与制度混杂危机** [[Argument_Munch_2014_TCR|Münch (2014)]] 揭示 PISA 规制推行浅层通用的标准化基础素养与人力资本范式，同德国注重深层学科分化的人文教养（Bildung）传统和达伦多夫（Dahrendorf, 1965）“教育即公民权”的民主基石形成深层认识论对立，并在与三轨分流体制的冲突中瓦解了本土教养生态。
 > - **21世纪初至今 — 抵抗数字化算法治理与技能原子化** 面临[[Learnification\|学习化]]（Learnification）、[[Visible Learning\|可见的学习]]（Hattie）及在线自我评估（[[Online Self-Assessment\|OSA]]）的算法挤压，学界重拾教化哲学以捍卫不可度量的生命体验与开放未来。[[Argument_Larsen_2019_EducSci\|(Larsen, 2019, p. 8)]]；[[Argument_Thompson_2022_Promising_Student\|(Thompson et al., 2022, p. 227)]]
 
@@ -337,5 +339,6 @@ updated: 2026-11-21
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 从[[Didaktik|欧陆教学论]]与教化传统批判《[[Visible Learning|可见的学习]]》抽空学科教学内容与课程合法化反思的形式主义局限，质问其实质内容何在（pp. 425–438）。
 > - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] — 考察《可见的学习》商业项目在北欧的落地冲突，揭示丹麦格隆维全人教化与民主自治传统对特许专营与逐字脚本规训的本土抵抗。
 > - [[Argument_Hopmann_2007_EERJ|Hopmann (2007)]] — 论证教化无法由教学直接达成，确立克制型教学为教化展开的前提，并批判能力测评将教化贬为附带伤害。
+> - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 剖析德国 PISA 冲击后以国家能力标准替代传统教化（Bildung）导向教学大纲的“急剧经验转向”，揭示英美素养测评对欧陆精神科学教学论传统的系统性挤压与操作化真空。
 
 
