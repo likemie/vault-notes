@@ -8,10 +8,10 @@ cssclasses:
   - person-page
 nationality: greece
 person_region: "greece"
-person_related_count: 25
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 30
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "384 BCE"
 died: "322 BCE"
 lifespan: "384 BCE – 322 BCE"
@@ -34,10 +34,10 @@ related_concepts:
   - "[[Canon Wars]]"
   - "[[Critical Pedagogy]]"
   - "[[Philosophical Aesthetics]]"
-  - "[[Poetics]]"
   - "[[Catharsis]]"
   - "[[Mimesis]]"
   - "[[Aesthetics of Ugliness]]"
+  - "[[Philosophical Poetics]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -47,26 +47,31 @@ related_persons:
   - "[[Karl Marx]]"
   - "[[John Dewey]]"
   - "[[Paulo Freire]]"
+  - "[[Moses Mendelssohn]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Karl Rosenkranz]]"
+  - "[[Ernst Cassirer]]"
+  - "[[Georg Lukács]]"
 related_facts:
   - "[[1968 Stanford Western Civ Reform]]"
 related_arguments:
   - "[[Argument_Darwish_2009_Queens]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch01]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch05]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch08]]"
 confidence: high
-status: draft
+status: active
 created: 2026-07-25
-updated: 2026-11-16
+updated: 2026-11-21
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 古希腊哲学家（384–322 BCE），出生于斯塔吉拉，古希腊哲学三大奠基人之一。
-> - **核心角色** 创立吕克昂学园（Lyceum），提出目的论（Telos）、[[Phronesis|实践智慧]]（[[Phronesis]]）、德性伦理与[[Habituation|习惯化]]教育论；在西方教育史上与[[Plato|柏拉图]]并列为[[General Education|通识教育]]核心正典的奠基支柱。
+> - **身份位置** 古希腊哲学家（384–322 BCE），出生于斯塔吉拉，古希腊哲学三大核心代表之一。
+> - **核心角色** 创立吕克昂学园（Lyceum），提出目的论（Telos）、[[Phronesis|实践智慧]]（[[Phronesis]]）、德性伦理与[[Habituation|习惯化]]教育论；在西方教育史上与[[Plato|柏拉图]]并列为[[General Education|通识教育]]核心正典的代表思想家。
 > - **代表贡献** 《尼各马可伦理学》《政治学》《形而上学》《工具论》。
 
 ---
@@ -111,11 +116,11 @@ updated: 2026-11-16
 > - **理论路径** 确立了目的论伦理学、[[Phronesis|实践智慧]]与[[Habituation|习惯化]]德性教育传统，深刻塑造了西方古典至现代共和主义政治与教育哲学。
 > - **通识课程坐标** 在哥伦比亚、芝加哥、斯坦福等名校“名著课程”（Great Books）与西方文明必修课中作为核心必读文本；在20世纪60年代后成为[[Canon Wars|经典之争]]中反思课程大纲编辑特权与宗派主义的经典案例。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, p. 88)]]
 > - **[[Critical Pedagogy|批判教育学]]反思** 后世[[Critical Pedagogy|批判教育学]]派（如[[John Dewey|杜威]]与[[Paulo Freire|弗莱雷]]）指出，亚里士多德将教育限定于适应既有社会阶层与权威指令，缺乏对社会不公的批判与变革能力（[[Argument_Darwish_2009_Queens|Darwish, 2009, pp. 4–5]]）。
-> - **[[Philosophical Aesthetics|美学]]与[[Poetics|诗学]]接受** [[Georg Wilhelm Friedrich Hegel|黑格尔]]在美学讲演中对亚里士多德《诗学》的“[[Catharsis|卡塔西斯]]”（Catharsis，净化说）作理性主义解读（将恐惧与怜悯视为非理性情感并归于理念认知），后世[[Karl Rosenkranz|罗森克兰茨]]亦承接《诗学》（1448b）“丑物若经成功[[Mimesis|模仿]]亦可生快感”的命题推进[[Aesthetics of Ugliness|丑的美学]]探讨 [[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 94–96, 105)]]。
+> - **[[Philosophical Aesthetics|美学]]与诗学接受** 亚里士多德《诗学》中的“易观性”（*eusynopton*，即适于感官一眼纵览与心智通盘把握的适度规模）被18世纪德国美学家[[Moses Mendelssohn|门德尔松]]重申，确立为美依存于人类尺度的知觉判据（[[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister, 2002, p. 15]]）；[[Georg Wilhelm Friedrich Hegel|黑格尔]]在美学讲演中对《诗学》的“[[Catharsis|卡塔西斯]]”作理性主义解读，后世[[Karl Rosenkranz|罗森克兰茨]]亦承接《诗学》（1448b）“丑物若经成功[[Mimesis|摹仿]]亦可生快感”的命题推进[[Aesthetics of Ugliness|丑的美学]]探讨（[[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister, 2002, pp. 94–96, 105]]）。
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|Karp and Zamiska (2025)]] — 以图斯曼“为何选柏拉图而不选亚里士多德”之问为例，剖析 1960 年代高校通识正典大纲选目的武断性与合法性危机（p. 88）。
-> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]析黑格尔诠释卡塔西斯与《诗学》丑学渊源（pp. 94–96, 105）；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析[[Ernst Cassirer|卡西尔]]与[[Georg Lukács|卢卡奇]]对卡塔西斯及个体摹仿传统的吸纳（pp. 154–156, 163–166）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 析《诗学》在德国美学史的回响：[[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]论易观性对门德尔松的影响；[[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]析黑格尔与罗森克兰茨对卡塔西斯与丑论的改造；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析[[Ernst Cassirer|卡西尔]]与[[Georg Lukács|卢卡奇]]对摹仿的吸纳。
 
 ---
 
@@ -139,5 +144,6 @@ updated: 2026-11-16
 > | [[Habituation]] | 概念 | 论证通过重复践行正义与节制等行为养成德性[[Habitus\|习性]]的教育机制 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 4)]]。 |
 > | [[General Education]] | 概念 | 作为西方大学[[Western Civilization Course\|西方文明课程]]的核心正典思想家之一，其选目争议成为 1960 年代[[Canon Wars\|经典之争]]的导火索 [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07\|(Karp & Zamiska, 2025, p. 88)]]。 |
 > | [[Aesthetics of Ugliness]] | 概念 | 《诗学》（1448b）指出人对丑陋事物之精细模仿亦可产生审美快感，为后世黑格尔学派推进丑的美学提供古典依据 [[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, p. 105)]]。 |
+> | [[Philosophical Poetics\|哲学诗学]] | 概念 | 《诗学》提出易观性、卡塔西斯与摹仿说，构成西方诗学与美学传统的典范源头。 |
 > | [[1968 Stanford Western Civ Reform]] | 事实 | 其正典选目代表性争议助推了 1968 年斯坦福大学废除西方文明统一必修课的改革。 |
 
