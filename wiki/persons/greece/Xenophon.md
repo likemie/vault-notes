@@ -3,15 +3,14 @@ title: Xenophon
 type: person
 cssclasses:
   - person-page
-status: stable
 created: 2026-10-01
-updated: 2026-11-15
+updated: 2026-11-21
 nationality: greece
 person_region: "greece"
-person_related_count: 8
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 11
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "c. 430 BCE"
 died: "354 BCE"
 lifespan: "c. 430 BCE – 354 BCE"

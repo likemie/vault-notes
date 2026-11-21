@@ -8845,8 +8845,6 @@
     "Fransella, 2003": "Fransella, 2003",
     "Frantz (2022)": "Frantz, 2022",
     "Frantz, 2022": "Frantz, 2022",
-    "Franz Hilker (1962)": "Franz Hilker, 1962",
-    "Franz Hilker, 1962": "Franz Hilker, 1962",
     "Franz et al. (2023)": "Franz et al., 2023",
     "Franz et al., 2023": "Franz et al., 2023",
     "Franzke (2005)": "Franzke, 2005",
@@ -24938,8 +24936,6 @@
     "Stewart (2012)": "Stewart, 2012",
     "Stewart (2017)": "Stewart, 2017",
     "Stewart (2022)": "Stewart, 2022",
-    "Stewart E. Fraser (1968)": "Stewart E. Fraser, 1968",
-    "Stewart E. Fraser, 1968": "Stewart E. Fraser, 1968",
     "Stewart et al. (2019)": "Stewart et al., 2019",
     "Stewart et al., 2019": "Stewart et al., 2019",
     "Stewart, 1990": "Stewart, 1990",
@@ -26663,9 +26659,7 @@
     "Vaknin-Nusbaum, 2017": "Vaknin-Nusbaum, 2017",
     "Val D. Rust (1999)": "Val D. Rust, 1999",
     "Val D. Rust et al. (1999)": "Val D. Rust et al., 1999",
-    "Val D. Rust et al. (2009)": "Val D. Rust et al., 2009",
     "Val D. Rust et al., 1999": "Val D. Rust et al., 1999",
-    "Val D. Rust et al., 2009": "Val D. Rust et al., 2009",
     "Val D. Rust, 1999": "Val D. Rust, 1999",
     "Vale (2015)": "Vale, 2015",
     "Vale, 2015": "Vale, 2015",
@@ -29323,6 +29317,8 @@
     "布鲁姆, 1987": "布鲁姆, 1987",
     "希伦 (2009)": "希伦, 2009",
     "希伦, 2009": "希伦, 2009",
+    "希尔克 (1962)": "希尔克, 1962",
+    "希尔克, 1962": "希尔克, 1962",
     "帕维特 (1984)": "帕维特, 1984",
     "帕维特, 1984": "帕维特, 1984",
     "平克 (2011)": "平克, 2011",
@@ -29406,6 +29402,8 @@
     "拉图尔, 2005": "拉图尔, 2005",
     "拉斯库姆与勒加莱斯 (2007)": "拉斯库姆与勒加莱斯, 2007",
     "拉斯库姆与勒加莱斯, 2007": "拉斯库姆与勒加莱斯, 2007",
+    "拉斯特 (2009)": "拉斯特, 2009",
+    "拉斯特, 2009": "拉斯特, 2009",
     "拉森 (2019)": "拉森, 2019",
     "拉森, 2019": "拉森, 2019",
     "挪威 (2005)": "挪威, 2005",
@@ -94751,21 +94749,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/higher-education/Graduate Attributes.md"
-      ],
-      "title": ""
-    },
-    "Franz Hilker, 1962": {
-      "aliases": [
-        "Franz Hilker, 1962",
-        "Franz Hilker (1962)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Franz Hilker, 1962"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/persons/greece/Xenophon.md"
       ],
       "title": ""
     },
@@ -212041,21 +212024,6 @@
       ],
       "title": ""
     },
-    "Stewart E. Fraser, 1968": {
-      "aliases": [
-        "Stewart E. Fraser, 1968",
-        "Stewart E. Fraser (1968)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Stewart E. Fraser, 1968"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/persons/greece/Xenophon.md"
-      ],
-      "title": ""
-    },
     "Stewart et al., 2019": {
       "aliases": [
         "Stewart et al., 2019",
@@ -224520,21 +224488,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/methods/qualitative/Historical-Comparative Method.md"
-      ],
-      "title": ""
-    },
-    "Val D. Rust et al., 2009": {
-      "aliases": [
-        "Val D. Rust et al., 2009",
-        "Val D. Rust et al. (2009)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Val D. Rust et al., 2009"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/persons/greece/Xenophon.md"
       ],
       "title": ""
     },
@@ -243548,6 +243501,21 @@
       ],
       "title": ""
     },
+    "希尔克, 1962": {
+      "aliases": [
+        "希尔克, 1962",
+        "希尔克 (1962)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "希尔克, 1962"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/greece/Xenophon.md"
+      ],
+      "title": ""
+    },
     "帕维特, 1984": {
       "aliases": [
         "帕维特, 1984",
@@ -244165,6 +244133,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/educational-policy-reform/Policy Instrumentation Theory.md"
+      ],
+      "title": ""
+    },
+    "拉斯特, 2009": {
+      "aliases": [
+        "拉斯特, 2009",
+        "拉斯特 (2009)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "拉斯特, 2009"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/greece/Xenophon.md"
       ],
       "title": ""
     },

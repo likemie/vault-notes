@@ -38742,14 +38742,6 @@
       ],
       "title": ""
     },
-    "Franz Hilker, 1962": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/persons/greece/Xenophon.md"
-      ],
-      "title": ""
-    },
     "Franz et al., 2023": {
       "datasets": [
         "metax:S0784"
@@ -109139,14 +109131,6 @@
       ],
       "title": ""
     },
-    "Stewart E. Fraser, 1968": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/persons/greece/Xenophon.md"
-      ],
-      "title": ""
-    },
     "Stewart et al., 2019": {
       "doi": "",
       "isbn": "",
@@ -116677,14 +116661,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/methods/qualitative/Historical-Comparative Method.md"
-      ],
-      "title": ""
-    },
-    "Val D. Rust et al., 2009": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/persons/greece/Xenophon.md"
       ],
       "title": ""
     },
@@ -128202,6 +128178,14 @@
       ],
       "title": ""
     },
+    "希尔克, 1962": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/greece/Xenophon.md"
+      ],
+      "title": ""
+    },
     "帕维特, 1984": {
       "doi": "",
       "isbn": "",
@@ -128532,6 +128516,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/educational-policy-reform/Policy Instrumentation Theory.md"
+      ],
+      "title": ""
+    },
+    "拉斯特, 2009": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/greece/Xenophon.md"
       ],
       "title": ""
     },
