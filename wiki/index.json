@@ -1035,6 +1035,21 @@
     ]
   },
   {
+    "title": "Educational Permeability",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Educational Permeability.md",
+    "aliases": [
+      "教育通透性",
+      "学制通透性",
+      "教育体系通透性",
+      "轨道流动性",
+      "弹性转轨",
+      "Bildungsdurchlässigkeit",
+      "system permeability",
+      "track permeability"
+    ]
+  },
+  {
     "title": "Encyclopaedism",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Encyclopaedism.md",
@@ -5488,6 +5503,7 @@
     "aliases": [
       "无功利愉悦",
       "无利害愉悦",
+      "赞许能力",
       "赞同官能",
       "Billigungsvermögen",
       "faculty of approbation"
@@ -33817,6 +33833,9 @@
     "path": "wiki/persons/germany/Alexander Gottlieb Baumgarten.md",
     "aliases": [
       "Alexander Baumgarten",
+      "亚历山大·戈特利布·鲍姆加登",
+      "鲍姆加登",
+      "亚历山大·鲍姆加登",
       "亚历山大·戈特利布·鲍姆嘉通",
       "鲍姆嘉通",
       "亚历山大·鲍姆嘉通",
@@ -57417,6 +57436,11 @@
     "title": "Argument_Atkinson_2008_TIS",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Technology in Society/Argument_Atkinson_2008_TIS.md"
+  },
+  {
+    "title": "Argument_Dustmann_2017_EconJ",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/The Economic Journal/Argument_Dustmann_2017_EconJ.md"
   },
   {
     "title": "Argument_Bozeman_2004_JTT",

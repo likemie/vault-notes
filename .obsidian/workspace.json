@@ -73,17 +73,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照/01 鲍姆加登和门德尔松.md",
+                "file": "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照/02 康德.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "01 鲍姆加登和门德尔松"
+              "title": "02 康德"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -300,11 +300,18 @@
       "ai-usage-float:显示或隐藏额度浮窗": false
     }
   },
-  "active": "3643ff474ee79da9",
+  "active": "e2374d26ccaac553",
   "lastOpenFiles": [
+    "output/related-updates/Argument_Ertl_2006_ORE-3faa12dd/batch-008/result.json",
     "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照/02 康德.md",
-    "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch01.md",
+    "sources/Dustmann_2017_EconJ/Dustmann_2017_EconJ.md",
+    "sources/Dustmann_2017_EconJ/figures",
+    "sources/Dustmann_2017_EconJ/Dustmann_2017_EconJ.pdf",
+    "sources/Dustmann_2017_EconJ",
+    "wiki/arguments/journal-articles/The Economic Journal/Argument_Dustmann_2017_EconJ.md",
+    "wiki/arguments/journal-articles/The Economic Journal",
     "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照/01 鲍姆加登和门德尔松.md",
+    "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch01.md",
     "output/美学翻译/宗白华_西方美学散文_翻译风格.md",
     "wiki/concepts/comparative-education/Educational Permeability.md",
     "sources/Dustmann_2017_EconJ.md",
@@ -319,10 +326,6 @@
     "output/related-updates/Argument_Ertl_2006_ORE-3faa12dd/batch-006/result.json",
     "wiki/facts/new-zealand/Visible Learning Branding and Global Influences.md",
     "output/related-updates/Argument_Ertl_2006_ORE-3faa12dd/batch-005/result.json",
-    "output/related-updates/Argument_Ertl_2006_ORE-3faa12dd/batch-004/result.json",
-    "output/related-updates/Argument_Ertl_2006_ORE-3faa12dd/batch-003/result.json",
-    "output/related-updates/Argument_Ertl_2006_ORE-3faa12dd/batch-002/result.json",
-    "output/related-updates/Argument_Ertl_2006_ORE-3faa12dd/batch-001/result.json",
     "output/related-updates/Argument_Ertl_2006_ORE-3faa12dd/batch-014/prompt.md",
     "output/related-updates/Argument_Ertl_2006_ORE-3faa12dd/batch-013/prompt.md",
     "output/related-updates/Argument_Ertl_2006_ORE-3faa12dd/batch-012/prompt.md",
@@ -335,9 +338,6 @@
     "output/related-updates/Argument_Ertl_2006_ORE-3faa12dd/batch-005/prompt.md",
     "output/related-updates/Argument_Ertl_2006_ORE-3faa12dd/batch-004/prompt.md",
     "output/related-updates/Argument_Ertl_2006_ORE-3faa12dd/batch-001/prompt.md",
-    "output/related-updates/Argument_Ertl_2006_ORE-3faa12dd/batch-003/prompt.md",
-    "output/related-updates/Argument_Ertl_2006_ORE-3faa12dd/batch-002/prompt.md",
-    "wiki/facts/germany/Hauptschule.md",
     "sources/Rohde-Liebenau_Graf_2024_EERJ/figures/Rohde-Liebenau_Graf_2024_EERJ_Fig1_Theorised_Drivers_of_VET_Governance_Reforms.jpg",
     "raw/Figure1.png",
     "output/德国美学传统翻译（全文彭正梅）(1)_assets/image1.png",

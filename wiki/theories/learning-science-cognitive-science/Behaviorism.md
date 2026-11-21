@@ -9,7 +9,7 @@ aliases:
 summary: "主张心理学与学习科学应聚焦于可观察、可测量的外显行为及其与环境刺激的函数关系，通过强化排程、程序化教学与矫正性反馈控制行为习得，构成了当代实证主义技术理性教学工程与输入—输出评价体系的深层心理学源流"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 52
+theory_related_count: 54
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
