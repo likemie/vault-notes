@@ -1462,5 +1462,11 @@
       "sentence": "分析立足于 PISA 2000 至 2009 年测评周期德国教育体制变迁的宏观社会学与政策批判，着重从制度主义理论角度剖析跨国规范与地方传统的结构性冲突，未展开大样本量化追踪以衡量不同联邦州在因地制宜调试混杂模式时的具体政策绩效差异；同时经验范围主要聚焦于普通中等教育体系，未对双元制职业教育系统在抵御全球素养冲击时的制度韧性进行展开分析。",
       "target": "wiki/methods/quantitative/Sample Size Determination.md"
     }
+  ],
+  "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md": [
+    {
+      "sentence": "该传统将课程内容的选择与教学分析置于核心，推导出崇高抽象的教化目标与详尽的知识清单，构成 1960 至 1970 年代各州教学大纲的主干（Bohl, 2004）。",
+      "target": "wiki/concepts/educational-philosophy/The Sublime.md"
+    }
   ]
 }

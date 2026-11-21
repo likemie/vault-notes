@@ -65,6 +65,7 @@ related_facts:
   - "[[Schulqualität Allgemeinbildung]]"
   - "[[OECD]]"
   - "[[UNESCO]]"
+  - "[[Institute for Educational Quality Improvement]]"
 related_arguments:
   - "[[Argument_Altrichter_2019_ZfB]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15]]"
@@ -76,6 +77,7 @@ related_arguments:
   - "[[Argument_Volmari_2025_CE]]"
   - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Barrenechea_2023_JEC]]"
+  - "[[Argument_Ertl_2006_ORE]]"
 related_persons:
   - "[[Herbert Altrichter]]"
   - "[[Lee Kuan Yew]]"
@@ -85,7 +87,7 @@ related_persons:
 related_theories:
   - "[[Organizational Culture]]"
 confidence: high
-status: draft
+status: completed
 created: 2026-09-18
 updated: 2026-11-15
 ---
