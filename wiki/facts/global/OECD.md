@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 195
+fact_related_count: 197
 fact_related_level: 19
 fact_related_stars: "💎💎💎💎💎💎⭐"
 fact_related_color: "#fecdd3"
@@ -132,6 +132,7 @@ related_theories:
   - "[[Panopticism]]"
   - "[[Policy Transfer Framework]]"
   - "[[Beech's Model of Discourse Circulation]]"
+  - "[[Institutional Isomorphism]]"
 related_methods:
   - "[[Peer Debriefing]]"
   - "[[Item Response Theory]]"
@@ -229,10 +230,11 @@ related_arguments:
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Deng_2016_CE]]"
   - "[[Argument_Nordtveit_2011_IJED]]"
+  - "[[Argument_Munch_2014_TCR]]"
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 > [!claim] 核心定位
@@ -383,6 +385,7 @@ updated: 2026-11-19
 > >
 > > - **科学客观论（机构立场）** OECD 坚称其测评框架基于严密的心理计量学技术，具有跨文化等值性与客观中立性，为各国超越体制利益保护、精准识别教育短板和促进社会流动提供了不可或缺的循证依据。
 > > - **去情境化[[Positivism\|实证主义]]霸权（批评视角）** 比较教育学者指出，OECD 陷入了深刻的[[Methodological Statism\|方法论国家主义]]与[[Methodological Educationism\|教育主义]]陷阱。去情境化的数据测试强行抹杀了各民族国家的历史传统、本土文化生态与教育固有的育人本质，诱发了急功近利的“为测验而教”与全球教育政策的病态同质化。
+> > - **跨国认知网络与教育合法性垄断批判（制度社会学视角）** 制度社会学者理查德·明希（Richard Münch）指出，经合组织的 PISA 测评标志着跨国研究精英对教育合法性定义的垄断；经合组织为跨国认知精英提供了制度依托，借助符号权力将心理测量标准奉为唯一科学客观的评判标尺，并通过[[Institutional Isomorphism|制度同构]]向主权国家输出量化规制；然而，当这种立足于人力资本范式与通用基础技能的外来规制强行嵌入德国等深植于洪堡教养传统与严密学科逻辑的本土教育体制时，不仅未能消除传统分流壁垒，反而催生了课程碎片化与深层功能失调的制度混杂体。[[Argument_Munch_2014_TCR|(Münch, 2014, pp. 2–4, 18–20)]]
 >
 > > [!axis] 测试品牌霸权与对本土政治曲解的象征性共谋
 > > 探讨 OECD 面对主权国家政客公然扭曲其报告实证结论时的默许立场与民主授权争议。
@@ -531,3 +534,4 @@ updated: 2026-11-19
 > - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 实证解构北欧基础教育改革（丹麦、芬兰、挪威）对经合组织 21 世纪技能框架的采纳，揭示跨国能力框架在本土改革中被用作政治合法化背书的科学化修辞（pp. 531, 542–544）。
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 阐述经合组织主导的 PISA 测评作为“全球教育定位系统”为识别跨时间显著提质的教育系统提供了时空度量标尺，促成全系统改进规律的大规模实证探讨（pp. 3, 11）。
 > - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 解构 OECD 高绩效系统叙事对官方探究修辞的轻信，阐明混合教学法与高利害分流制度对学业表现的实质支撑及教育政治使命遮蔽。
+> - [[Argument_Munch_2014_TCR|Münch (2014)]] — 结合新制度主义社会学制度同构与布迪厄符号权力视角，系统解构经合组织跨国认知精英如何依托 PISA 测评垄断教育合法性定义，并揭示其标准化测试与德国本土深度分科及人文教养传统的认识论冲突与制度混杂病理。
