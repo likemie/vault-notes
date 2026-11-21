@@ -8940,6 +8940,8 @@
     "Frisbie, 1981": "Frisbie, 1981",
     "Friso-van den Bos et al. (2013)": "Friso-van den Bos et al., 2013",
     "Friso-van den Bos et al., 2013": "Friso-van den Bos et al., 2013",
+    "Fritz Scharpf (1997)": "Fritz Scharpf, 1997",
+    "Fritz Scharpf, 1997": "Fritz Scharpf, 1997",
     "Froeschle (2007)": "Froeschle, 2007",
     "Froeschle, 2007": "Froeschle, 2007",
     "Frost et al. (1994)": "Frost et al., 1994",
@@ -9288,6 +9290,8 @@
     "Gartlehner et al., 2025": "Gartlehner et al., 2025",
     "Garud & Karnøe (2003)": "Garud & Karnøe, 2003",
     "Garud & Karnøe, 2003": "Garud & Karnøe, 2003",
+    "Gary Marks (1993)": "Gary Marks, 1993",
+    "Gary Marks, 1993": "Gary Marks, 1993",
     "Gary S. Becker (1964)": "Gary S. Becker, 1964",
     "Gary S. Becker, 1964": "Gary S. Becker, 1964",
     "Gary-Bobo (2016)": "Gary-Bobo, 2016",
@@ -11861,6 +11865,8 @@
     "Hood (1991)": "Hood, 1991",
     "Hood, 1990": "Hood, 1990",
     "Hood, 1991": "Hood, 1991",
+    "Hooghe & Marks (2003)": "Hooghe & Marks, 2003",
+    "Hooghe & Marks, 2003": "Hooghe & Marks, 2003",
     "Hooker (1999)": "Hooker, 1999",
     "Hooker, 1999": "Hooker, 1999",
     "Hooper (1992)": "Hooper, 1992",
@@ -15618,6 +15624,8 @@
     "Liebowitz & Margolis, 1990": "Liebowitz & Margolis, 1990",
     "Liebowitz & Porter (2019)": "Liebowitz & Porter, 2019",
     "Liebowitz & Porter, 2019": "Liebowitz & Porter, 2019",
+    "Liesbet Hooghe & Gary Marks (2001)": "Liesbet Hooghe & Gary Marks, 2001",
+    "Liesbet Hooghe & Gary Marks, 2001": "Liesbet Hooghe & Gary Marks, 2001",
     "Lietz & Keeves (1997)": "Lietz & Keeves, 1997",
     "Lietz & Keeves, 1997": "Lietz & Keeves, 1997",
     "Lietz (2006)": "Lietz, 2006",
@@ -16706,8 +16714,12 @@
     "Markovitz (2021)": "Markovitz, 2021",
     "Markovitz, 2014": "Markovitz, 2014",
     "Markovitz, 2021": "Markovitz, 2021",
+    "Marks & Hooghe (2001)": "Marks & Hooghe, 2001",
+    "Marks & Hooghe, 2001": "Marks & Hooghe, 2001",
     "Marks (1989)": "Marks, 1989",
+    "Marks (1993)": "Marks, 1993",
     "Marks, 1989": "Marks, 1989",
+    "Marks, 1993": "Marks, 1993",
     "Markus & Kitayama (1991)": "Markus & Kitayama, 1991",
     "Markus & Kitayama, 1991": "Markus & Kitayama, 1991",
     "Markussen-Brown et al. (2017)": "Markussen-Brown et al., 2017",
@@ -18030,6 +18042,8 @@
     "Moran et al., 2008": "Moran et al., 2008",
     "Morandi (2013)": "Morandi, 2013",
     "Morandi, 2013": "Morandi, 2013",
+    "Moravcsik (1998)": "Moravcsik, 1998",
+    "Moravcsik, 1998": "Moravcsik, 1998",
     "Moreno (1934)": "Moreno, 1934",
     "Moreno (1939)": "Moreno, 1939",
     "Moreno, 1934": "Moreno, 1934",
@@ -19734,8 +19748,10 @@
     "Paolucci & Violato, 2004": "Paolucci & Violato, 2004",
     "Papadopoulos (1994)": "Papadopoulos, 1994",
     "Papadopoulos (2001)": "Papadopoulos, 2001",
+    "Papadopoulos (2007)": "Papadopoulos, 2007",
     "Papadopoulos, 1994": "Papadopoulos, 1994",
     "Papadopoulos, 2001": "Papadopoulos, 2001",
+    "Papadopoulos, 2007": "Papadopoulos, 2007",
     "Papanastasiou (2013)": "Papanastasiou, 2013",
     "Papanastasiou, 2013": "Papanastasiou, 2013",
     "Papastephanou (2022)": "Papastephanou, 2022",
@@ -22740,7 +22756,9 @@
     "Schaik et al., 2018": "Schaik et al., 2018",
     "Schama (1999)": "Schama, 1999",
     "Schama, 1999": "Schama, 1999",
+    "Scharpf (1997)": "Scharpf, 1997",
     "Scharpf (2000)": "Scharpf, 2000",
+    "Scharpf, 1997": "Scharpf, 1997",
     "Scharpf, 2000": "Scharpf, 2000",
     "Schartinger et al. (2002)": "Schartinger et al., 2002",
     "Schartinger et al., 2002": "Schartinger et al., 2002",
@@ -95255,6 +95273,21 @@
       "seen_in": [],
       "title": "Working memory and mathematics in primary school children: A meta-analysis"
     },
+    "Fritz Scharpf, 1997": {
+      "aliases": [
+        "Fritz Scharpf, 1997",
+        "Fritz Scharpf (1997)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Fritz Scharpf, 1997"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/comparative-education/Multi-Level Governance.md"
+      ],
+      "title": ""
+    },
     "Froeschle, 2007": {
       "aliases": [
         "Froeschle, 2007",
@@ -97642,6 +97675,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/science-policy/Distributed Agency.md"
+      ],
+      "title": ""
+    },
+    "Gary Marks, 1993": {
+      "aliases": [
+        "Gary Marks, 1993",
+        "Gary Marks (1993)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Gary Marks, 1993"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/comparative-education/Multi-Level Governance.md"
       ],
       "title": ""
     },
@@ -116700,6 +116748,21 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/concepts/science-policy/Reflexive Governance.md"
+      ],
+      "title": ""
+    },
+    "Hooghe & Marks, 2003": {
+      "aliases": [
+        "Hooghe & Marks, 2003",
+        "Hooghe & Marks (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hooghe & Marks, 2003"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/comparative-education/Multi-Level Governance.md"
       ],
       "title": ""
     },
@@ -143655,6 +143718,21 @@
       "seen_in": [],
       "title": "The effect of principal behaviors on student, teacher, and school outcomes: A systematic review and meta-analysis of the empirical literature"
     },
+    "Liesbet Hooghe & Gary Marks, 2001": {
+      "aliases": [
+        "Liesbet Hooghe & Gary Marks, 2001",
+        "Liesbet Hooghe & Gary Marks (2001)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Liesbet Hooghe & Gary Marks, 2001"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/comparative-education/Multi-Level Governance.md"
+      ],
+      "title": ""
+    },
     "Lietz & Keeves, 1997": {
       "aliases": [
         "Lietz & Keeves, 1997",
@@ -151560,6 +151638,21 @@
       "seen_in": [],
       "title": "Evaluating the Effectiveness of a Volunteer One-on-One Tutoring Model for Early Elementary Reading Intervention  A Randomized Controlled Trial Replication Study"
     },
+    "Marks & Hooghe, 2001": {
+      "aliases": [
+        "Marks & Hooghe, 2001",
+        "Marks & Hooghe (2001)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Marks & Hooghe, 2001"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/comparative-education/Multi-Level Governance.md"
+      ],
+      "title": ""
+    },
     "Marks, 1989": {
       "aliases": [
         "Marks, 1989",
@@ -151572,6 +151665,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Medical Education Online/Argument_Sandrone_2025_MEO.md"
+      ],
+      "title": ""
+    },
+    "Marks, 1993": {
+      "aliases": [
+        "Marks, 1993",
+        "Marks (1993)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Marks, 1993"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/comparative-education/Multi-Level Governance.md"
       ],
       "title": ""
     },
@@ -161157,6 +161265,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/The Journal of Technology Transfer/Argument_Cohen_2025_JTT.md"
+      ],
+      "title": ""
+    },
+    "Moravcsik, 1998": {
+      "aliases": [
+        "Moravcsik, 1998",
+        "Moravcsik (1998)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Moravcsik, 1998"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/comparative-education/Multi-Level Governance.md"
       ],
       "title": ""
     },
@@ -173721,6 +173844,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Phonological and Cognitive Correlates of Word-Reading Acquisition under Two Different Instructional Approaches in Greek"
+    },
+    "Papadopoulos, 2007": {
+      "aliases": [
+        "Papadopoulos, 2007",
+        "Papadopoulos (2007)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Papadopoulos, 2007"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/comparative-education/Multi-Level Governance.md"
+      ],
+      "title": ""
     },
     "Papanastasiou, 2013": {
       "aliases": [
@@ -195823,6 +195961,21 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md",
         "wiki/concepts/research-methodology/Document.md",
         "wiki/concepts/research-methodology/Virtual Documents.md"
+      ],
+      "title": ""
+    },
+    "Scharpf, 1997": {
+      "aliases": [
+        "Scharpf, 1997",
+        "Scharpf (1997)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Scharpf, 1997"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/comparative-education/Multi-Level Governance.md"
       ],
       "title": ""
     },

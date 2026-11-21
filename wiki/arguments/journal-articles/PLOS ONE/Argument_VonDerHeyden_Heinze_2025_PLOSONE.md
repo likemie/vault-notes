@@ -20,6 +20,7 @@ tags:
   - methodology/quantitative
 related_concepts:
   - "[[Scientific Hegemony]]"
+  - "[[Placement Power]]"
   - "[[Nationalism]]"
   - "[[Scientific Mobility]]"
   - "[[Scientific Credit]]"
@@ -39,6 +40,7 @@ related_theories:
 related_methods:
   - "[[Qualitative Codebook]]"
   - "[[Binary Logistic Regression]]"
+  - "[[Hyperlink-Induced Topic Search]]"
   - "[[Confidence Interval]]"
   - "[[Sample Size Determination]]"
   - "[[Standard Error]]"
@@ -47,8 +49,7 @@ related_persons:
   - "[[Harriet Zuckerman]]"
   - "[[Robert K. Merton]]"
   - "[[Douglas Hofstadter]]"
-related_facts:
-  - "[[Victorian HITS and Literacy Toolkit]]"
+related_facts: []
 related_arguments: []
 sources:
   - "[[sources/VonDerHeyden_Heinze_2025_PLOSONE/VonDerHeyden_Heinze_2025_PLOSONE|VonDerHeyden_Heinze_2025_PLOSONE]]"
