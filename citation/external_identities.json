@@ -6471,6 +6471,14 @@
       ],
       "title": ""
     },
+    "BIBB et al., 2004": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+      ],
+      "title": ""
+    },
     "BIBB, 2015": {
       "doi": "",
       "isbn": "",
@@ -6501,6 +6509,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/germany/Qualitätsoffensive Lehrerbildung.md"
+      ],
+      "title": ""
+    },
+    "BMBF, 2000": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
       ],
       "title": ""
     },
@@ -6931,6 +6947,14 @@
         "wiki/concepts/educational-policy-reform/Academisation.md"
       ],
       "title": "The German skill formation model in transition: From dual system of VET to higher education?"
+    },
+    "Baethge, 1999": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+      ],
+      "title": ""
     },
     "Bagasi, 2014": {
       "datasets": [
@@ -9256,7 +9280,8 @@
       "isbn": "978-3-8100-3344-4",
       "seen_in": [
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
-        "wiki/concepts/comparative-education/Tripartite School System.md"
+        "wiki/concepts/comparative-education/Tripartite School System.md",
+        "wiki/facts/germany/Hauptschule.md"
       ],
       "title": "Familiäre Lebensverhältnisse, Bildungsbeteiligung und Kompetenzerwerb"
     },
@@ -9271,8 +9296,7 @@
       "isbn": "978-3-8100-3344-4",
       "seen_in": [
         "wiki/arguments/journal-articles/Teachers College Record/Argument_Munch_2014_TCR.md",
-        "wiki/concepts/curriculum/Realistic Mathematics Education.md",
-        "wiki/facts/germany/Hauptschule.md"
+        "wiki/concepts/curriculum/Realistic Mathematics Education.md"
       ],
       "title": "PISA 2000. Basiskompetenzen von Schülerinnen und Schülern im internationalen Vergleich"
     },
@@ -26180,6 +26204,22 @@
       ],
       "title": ""
     },
+    "Culpepper & Thelen, 2007": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+      ],
+      "title": ""
+    },
+    "Culpepper, 1999": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+      ],
+      "title": ""
+    },
     "Culpepper, 2003": {
       "doi": "",
       "isbn": "978-0-8014-4045-8",
@@ -26347,8 +26387,7 @@
       "doi": "",
       "isbn": "978-3-631-42416-2",
       "seen_in": [
-        "wiki/arguments/journal-articles/Teachers College Record/Argument_Munch_2014_TCR.md",
-        "wiki/facts/germany/Hauptschule.md"
+        "wiki/arguments/journal-articles/Teachers College Record/Argument_Munch_2014_TCR.md"
       ],
       "title": "Schülerurteile über die Schule. Bericht über eine internationale Untersuchung"
     },
@@ -31073,6 +31112,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Educational Psychologist/Argument_Chinn_2011_EducPsychol.md"
+      ],
+      "title": ""
+    },
+    "Drexel, 2005": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
       ],
       "title": ""
     },
@@ -40088,6 +40135,14 @@
       ],
       "title": "A dynamic network measure of technological change"
     },
+    "Funk, 2006": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+      ],
+      "title": ""
+    },
     "Funtowicz & Ravetz, 1993": {
       "doi": "",
       "isbn": "",
@@ -47098,6 +47153,7 @@
       "isbn": "978-0-19-924775-2",
       "seen_in": [
         "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md",
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md",
         "wiki/theories/higher-education/Academic Capitalism.md",
         "wiki/theories/political-economy-geopolitics/Collective Skill Formation.md",
         "wiki/theories/political-economy-geopolitics/Historical Institutionalism.md",
@@ -48865,6 +48921,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Impact of mobile assisted language learning (MALL) on EFL: A meta-analysis."
+    },
+    "Hassel, 2006": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+      ],
+      "title": ""
     },
     "Hasselblad & Hedges, 1995": {
       "doi": "",
@@ -58339,6 +58403,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/facts/germany/Hauptschule.md",
         "wiki/facts/germany/Standing Conference of the Ministers of Education and Cultural Affairs.md"
       ],
       "title": ""
@@ -67619,8 +67684,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Teachers College Record/Argument_Munch_2014_TCR.md",
-        "wiki/facts/germany/Hauptschule.md"
+        "wiki/arguments/journal-articles/Teachers College Record/Argument_Munch_2014_TCR.md"
       ],
       "title": "Die verspätete Entwicklung der deutschen Schule"
     },
@@ -69671,8 +69735,7 @@
       "doi": "10.1037/0022-3514.69.4.686",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Teachers College Record/Argument_Munch_2014_TCR.md",
-        "wiki/facts/germany/Hauptschule.md"
+        "wiki/arguments/journal-articles/Teachers College Record/Argument_Munch_2014_TCR.md"
       ],
       "title": "Children's Action-Control Beliefs about School Performance: How do American children compare with German and Russian children?"
     },
@@ -73342,6 +73405,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch08.md"
+      ],
+      "title": ""
+    },
+    "Marcussen & Kaspersen, 2007": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
       ],
       "title": ""
     },
@@ -92301,6 +92372,22 @@
       "seen_in": [],
       "title": "Association between adverse childhood experiences and academic performance among children and adolescents: a global meta-analysis."
     },
+    "Quack & Hildebrandt, 1996": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+      ],
+      "title": ""
+    },
+    "Quack et al., 1995": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+      ],
+      "title": ""
+    },
     "Qualter, 2000": {
       "datasets": [
         "eef:collaborative-learning-approaches"
@@ -93218,6 +93305,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Making Reading More Difficult  A Degraded Text Microworld for Teaching Reading Comprehension Strategies"
+    },
+    "Rauner, 2005": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+      ],
+      "title": ""
     },
     "Rauner, 2017": {
       "doi": "",
@@ -106949,6 +107044,14 @@
       ],
       "title": ""
     },
+    "Soskice, 1994": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+      ],
+      "title": ""
+    },
     "Sotiria Grek & Joakim Lindgren, 2015": {
       "doi": "",
       "isbn": "",
@@ -108060,7 +108163,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
+        "wiki/facts/germany/Hauptschule.md"
       ],
       "title": "Allgemeinbildende Schulen"
     },
@@ -108086,6 +108190,22 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Review of Education/Argument_Gorard_2020_ROE.md"
+      ],
+      "title": ""
+    },
+    "Steedman & Wagner, 2005a": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+      ],
+      "title": ""
+    },
+    "Steedman & Wagner, 2005b": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
       ],
       "title": ""
     },
@@ -109408,6 +109528,14 @@
       "seen_in": [],
       "title": "Effects of Storybook Reading Style on Comprehension  The Role of Word Elaboration and Coherence Questions"
     },
+    "Stratmann, 1994": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+      ],
+      "title": ""
+    },
     "Strauss & Corbin, 1990": {
       "doi": "",
       "isbn": "",
@@ -109472,6 +109600,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md"
+      ],
+      "title": ""
+    },
+    "Streeck, 1991": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
       ],
       "title": ""
     },
@@ -112364,6 +112500,7 @@
         "wiki/arguments/journal-articles/Educational Research and Evaluation/Argument_Cowen_2019_ERE.md",
         "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md",
         "wiki/arguments/journal-articles/Politics/Argument_VanDerHeijden_2011_Politics.md",
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md",
         "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Hippach-Schneider_Rieder_2022_RCIE.md",
         "wiki/concepts/comparative-education/Decentralised Cooperation.md",
         "wiki/concepts/political-economy-geopolitics/Institutional Complementarity.md",
@@ -114728,6 +114865,14 @@
       ],
       "title": ""
     },
+    "Troltsch, 2005": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+      ],
+      "title": ""
+    },
     "Trotsky, 1930": {
       "doi": "",
       "isbn": "",
@@ -115865,12 +116010,28 @@
       ],
       "title": "Effects of peer tutoring on the academic achievement of students in the subject of biology at secondary level"
     },
+    "Ulrich & Troltsch, 2003": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+      ],
+      "title": ""
+    },
     "Ulrich Pothast, 1982": {
       "doi": "",
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-philosophy/Poiesis.md",
         "wiki/concepts/educational-philosophy/Principle of Sufficient Reason.md"
+      ],
+      "title": ""
+    },
+    "Ulrich, 2005": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
       ],
       "title": ""
     },
@@ -118280,6 +118441,22 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26.md"
+      ],
+      "title": ""
+    },
+    "Wagner, 1999": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+      ],
+      "title": ""
+    },
+    "Wagner, 2006": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
       ],
       "title": ""
     },

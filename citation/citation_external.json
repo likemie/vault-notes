@@ -1494,6 +1494,8 @@
     "BERA-RSA (2014)": "BERA-RSA, 2014",
     "BERA-RSA, 2014": "BERA-RSA, 2014",
     "BIBB (2015)": "BIBB, 2015",
+    "BIBB et al. (2004)": "BIBB et al., 2004",
+    "BIBB et al., 2004": "BIBB et al., 2004",
     "BIBB, 2015": "BIBB, 2015",
     "BLK (2003)": "BLK, 2003",
     "BLK (2004)": "BLK, 2004",
@@ -1501,6 +1503,7 @@
     "BLK, 2004": "BLK, 2004",
     "BLV (2013)": "BLV, 2013",
     "BLV, 2013": "BLV, 2013",
+    "BMBF (2000)": "BMBF, 2000",
     "BMBF (2003)": "BMBF, 2003",
     "BMBF (2005)": "BMBF, 2005",
     "BMBF (2006)": "BMBF, 2006",
@@ -1516,6 +1519,7 @@
     "BMBF (2023)": "BMBF, 2023",
     "BMBF (2024a)": "BMBF, 2024a",
     "BMBF (2024b)": "BMBF, 2024b",
+    "BMBF, 2000": "BMBF, 2000",
     "BMBF, 2003": "BMBF, 2003",
     "BMBF, 2005": "BMBF, 2005",
     "BMBF, 2006": "BMBF, 2006",
@@ -1601,6 +1605,8 @@
     "Baert, 2015": "Baert, 2015",
     "Baethge & Wolter (2015)": "Baethge & Wolter, 2015",
     "Baethge & Wolter, 2015": "Baethge & Wolter, 2015",
+    "Baethge (1999)": "Baethge, 1999",
+    "Baethge, 1999": "Baethge, 1999",
     "Bagasi (2014)": "Bagasi, 2014",
     "Bagasi, 2014": "Bagasi, 2014",
     "Bagozzi & Yi (1988)": "Bagozzi & Yi, 1988",
@@ -5965,7 +5971,11 @@
     "Culliney, 2021": "Culliney, 2021",
     "Cullum Clark (2022)": "Cullum Clark, 2022",
     "Cullum Clark, 2022": "Cullum Clark, 2022",
+    "Culpepper & Thelen (2007)": "Culpepper & Thelen, 2007",
+    "Culpepper & Thelen, 2007": "Culpepper & Thelen, 2007",
+    "Culpepper (1999)": "Culpepper, 1999",
     "Culpepper (2003)": "Culpepper, 2003",
+    "Culpepper, 1999": "Culpepper, 1999",
     "Culpepper, 2003": "Culpepper, 2003",
     "Cummings & Kiesler (2005)": "Cummings & Kiesler, 2005",
     "Cummings & Kiesler, 2005": "Cummings & Kiesler, 2005",
@@ -7089,6 +7099,8 @@
     "Dresel, 2008": "Dresel, 2008",
     "Dretske (2000)": "Dretske, 2000",
     "Dretske, 2000": "Dretske, 2000",
+    "Drexel (2005)": "Drexel, 2005",
+    "Drexel, 2005": "Drexel, 2005",
     "Driscoll (2009)": "Driscoll, 2009",
     "Driscoll, 2009": "Driscoll, 2009",
     "Driver (2004)": "Driver, 2004",
@@ -9157,6 +9169,8 @@
     "Fung & Su, 2016": "Fung & Su, 2016",
     "Funk & Owen-Smith (2017)": "Funk & Owen-Smith, 2017",
     "Funk & Owen-Smith, 2017": "Funk & Owen-Smith, 2017",
+    "Funk (2006)": "Funk, 2006",
+    "Funk, 2006": "Funk, 2006",
     "Funtowicz & Ravetz (1993)": "Funtowicz & Ravetz, 1993",
     "Funtowicz & Ravetz, 1993": "Funtowicz & Ravetz, 1993",
     "Furlong & Oancea (2005)": "Furlong & Oancea, 2005",
@@ -11140,6 +11154,8 @@
     "Hassan & Madhum, 2007": "Hassan & Madhum, 2007",
     "Hassan et al. (2016)": "Hassan et al., 2016",
     "Hassan et al., 2016": "Hassan et al., 2016",
+    "Hassel (2006)": "Hassel, 2006",
+    "Hassel, 2006": "Hassel, 2006",
     "Hasselblad & Hedges (1995)": "Hasselblad & Hedges, 1995",
     "Hasselblad & Hedges, 1995": "Hasselblad & Hedges, 1995",
     "Hassinger-Das (2015)": "Hassinger-Das, 2015",
@@ -16758,6 +16774,8 @@
     "Marcucci, 1980": "Marcucci, 1980",
     "Marcuse (1978)": "Marcuse, 1978",
     "Marcuse, 1978": "Marcuse, 1978",
+    "Marcussen & Kaspersen (2007)": "Marcussen & Kaspersen, 2007",
+    "Marcussen & Kaspersen, 2007": "Marcussen & Kaspersen, 2007",
     "Marder & Walkington (2010)": "Marder & Walkington, 2010",
     "Marder & Walkington, 2010": "Marder & Walkington, 2010",
     "Maren Elfert (2023)": "Maren Elfert, 2023",
@@ -21078,6 +21096,10 @@
     "Qu & Becker, 2003": "Qu & Becker, 2003",
     "Qu et al. (2024)": "Qu et al., 2024",
     "Qu et al., 2024": "Qu et al., 2024",
+    "Quack & Hildebrandt (1996)": "Quack & Hildebrandt, 1996",
+    "Quack & Hildebrandt, 1996": "Quack & Hildebrandt, 1996",
+    "Quack et al. (1995)": "Quack et al., 1995",
+    "Quack et al., 1995": "Quack et al., 1995",
     "Qualter (2000)": "Qualter, 2000",
     "Qualter, 2000": "Qualter, 2000",
     "Quantz (1992)": "Quantz, 1992",
@@ -21289,7 +21311,9 @@
     "Raudenbush, 2015": "Raudenbush, 2015",
     "Rauenbusch (1991)": "Rauenbusch, 1991",
     "Rauenbusch, 1991": "Rauenbusch, 1991",
+    "Rauner (2005)": "Rauner, 2005",
     "Rauner (2017)": "Rauner, 2017",
+    "Rauner, 2005": "Rauner, 2005",
     "Rauner, 2017": "Rauner, 2017",
     "Rauscher (1997)": "Rauscher, 1997",
     "Rauscher (2000)": "Rauscher, 2000",
@@ -24428,6 +24452,8 @@
     "Sosa et al. (2011)": "Sosa et al., 2011",
     "Sosa et al., 2011": "Sosa et al., 2011",
     "Sosa, 1980": "Sosa, 1980",
+    "Soskice (1994)": "Soskice, 1994",
+    "Soskice, 1994": "Soskice, 1994",
     "Sotiria Grek & Joakim Lindgren (2015)": "Sotiria Grek & Joakim Lindgren, 2015",
     "Sotiria Grek & Joakim Lindgren, 2015": "Sotiria Grek & Joakim Lindgren, 2015",
     "Sotiria Grek (2009)": "Sotiria Grek, 2009",
@@ -24690,6 +24716,10 @@
     "Stecher et al. (2019)": "Stecher et al., 2019",
     "Stecher et al., 1998": "Stecher et al., 1998",
     "Stecher et al., 2019": "Stecher et al., 2019",
+    "Steedman & Wagner (2005a)": "Steedman & Wagner, 2005a",
+    "Steedman & Wagner (2005b)": "Steedman & Wagner, 2005b",
+    "Steedman & Wagner, 2005a": "Steedman & Wagner, 2005a",
+    "Steedman & Wagner, 2005b": "Steedman & Wagner, 2005b",
     "Steedman (2001)": "Steedman, 2001",
     "Steedman, 2001": "Steedman, 2001",
     "Steel (2007)": "Steel, 2007",
@@ -24992,6 +25022,8 @@
     "Strange et al., 2003": "Strange et al., 2003",
     "Strasser (2013)": "Strasser, 2013",
     "Strasser, 2013": "Strasser, 2013",
+    "Stratmann (1994)": "Stratmann, 1994",
+    "Stratmann, 1994": "Stratmann, 1994",
     "Strauss & Corbin (1990)": "Strauss & Corbin, 1990",
     "Strauss & Corbin (1998)": "Strauss & Corbin, 1998",
     "Strauss & Corbin, 1990": "Strauss & Corbin, 1990",
@@ -25004,6 +25036,8 @@
     "Strauss, 2001": "Strauss, 2001",
     "Stray (1994)": "Stray, 1994",
     "Stray, 1994": "Stray, 1994",
+    "Streeck (1991)": "Streeck, 1991",
+    "Streeck, 1991": "Streeck, 1991",
     "Street (1984)": "Street, 1984",
     "Street, 1984": "Street, 1984",
     "Streke & Chan (2011)": "Streke & Chan, 2011",
@@ -26212,6 +26246,8 @@
     "Tripp, 1985": "Tripp, 1985",
     "Tripp, 1993": "Tripp, 1993",
     "Tripp, 2003": "Tripp, 2003",
+    "Troltsch (2005)": "Troltsch, 2005",
+    "Troltsch, 2005": "Troltsch, 2005",
     "Trotsky (1930)": "Trotsky, 1930",
     "Trotsky, 1930": "Trotsky, 1930",
     "Trout (2003)": "Trout, 2003",
@@ -26473,8 +26509,12 @@
     "Uljens & Ylimaki, 2017": "Uljens & Ylimaki, 2017",
     "Ullah (2018)": "Ullah, 2018",
     "Ullah, 2018": "Ullah, 2018",
+    "Ulrich & Troltsch (2003)": "Ulrich & Troltsch, 2003",
+    "Ulrich & Troltsch, 2003": "Ulrich & Troltsch, 2003",
+    "Ulrich (2005)": "Ulrich, 2005",
     "Ulrich Pothast (1982)": "Ulrich Pothast, 1982",
     "Ulrich Pothast, 1982": "Ulrich Pothast, 1982",
+    "Ulrich, 2005": "Ulrich, 2005",
     "Ulrichsen & Kelleher (2022)": "Ulrichsen & Kelleher, 2022",
     "Ulrichsen & Kelleher, 2022": "Ulrichsen & Kelleher, 2022",
     "Ulrichsen & O'Sullivan (2015)": "Ulrichsen & O'Sullivan, 2015",
@@ -27023,6 +27063,8 @@
     "Wagner (1986)": "Wagner, 1986",
     "Wagner (1988)": "Wagner, 1988",
     "Wagner (1998)": "Wagner, 1998",
+    "Wagner (1999)": "Wagner, 1999",
+    "Wagner (2006)": "Wagner, 2006",
     "Wagner (2008)": "Wagner, 2008",
     "Wagner (2012)": "Wagner, 2012",
     "Wagner et al. (2019)": "Wagner et al., 2019",
@@ -27030,6 +27072,8 @@
     "Wagner, 1986": "Wagner, 1986",
     "Wagner, 1988": "Wagner, 1988",
     "Wagner, 1998": "Wagner, 1998",
+    "Wagner, 1999": "Wagner, 1999",
+    "Wagner, 2006": "Wagner, 2006",
     "Wagner, 2008": "Wagner, 2008",
     "Wagner, 2012": "Wagner, 2012",
     "Waiksnis (2014)": "Waiksnis, 2014",
@@ -40663,6 +40707,21 @@
       ],
       "title": ""
     },
+    "BIBB et al., 2004": {
+      "aliases": [
+        "BIBB et al., 2004",
+        "BIBB et al. (2004)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "BIBB et al., 2004"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+      ],
+      "title": ""
+    },
     "BIBB, 2015": {
       "aliases": [
         "BIBB, 2015",
@@ -40721,6 +40780,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/germany/Qualitätsoffensive Lehrerbildung.md"
+      ],
+      "title": ""
+    },
+    "BMBF, 2000": {
+      "aliases": [
+        "BMBF, 2000",
+        "BMBF (2000)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "BMBF, 2000"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
       ],
       "title": ""
     },
@@ -41465,6 +41539,21 @@
         "wiki/concepts/educational-policy-reform/Academisation.md"
       ],
       "title": "The German skill formation model in transition: From dual system of VET to higher education?"
+    },
+    "Baethge, 1999": {
+      "aliases": [
+        "Baethge, 1999",
+        "Baethge (1999)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Baethge, 1999"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+      ],
+      "title": ""
     },
     "Bagasi, 2014": {
       "aliases": [
@@ -45326,7 +45415,8 @@
       "isbn": "978-3-8100-3344-4",
       "seen_in": [
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
-        "wiki/concepts/comparative-education/Tripartite School System.md"
+        "wiki/concepts/comparative-education/Tripartite School System.md",
+        "wiki/facts/germany/Hauptschule.md"
       ],
       "title": "Familiäre Lebensverhältnisse, Bildungsbeteiligung und Kompetenzerwerb"
     },
@@ -45355,8 +45445,7 @@
       "isbn": "978-3-8100-3344-4",
       "seen_in": [
         "wiki/arguments/journal-articles/Teachers College Record/Argument_Munch_2014_TCR.md",
-        "wiki/concepts/curriculum/Realistic Mathematics Education.md",
-        "wiki/facts/germany/Hauptschule.md"
+        "wiki/concepts/curriculum/Realistic Mathematics Education.md"
       ],
       "title": "PISA 2000. Basiskompetenzen von Schülerinnen und Schülern im internationalen Vergleich"
     },
@@ -73547,6 +73636,36 @@
       ],
       "title": ""
     },
+    "Culpepper & Thelen, 2007": {
+      "aliases": [
+        "Culpepper & Thelen, 2007",
+        "Culpepper & Thelen (2007)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Culpepper & Thelen, 2007"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+      ],
+      "title": ""
+    },
+    "Culpepper, 1999": {
+      "aliases": [
+        "Culpepper, 1999",
+        "Culpepper (1999)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Culpepper, 1999"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+      ],
+      "title": ""
+    },
     "Culpepper, 2003": {
       "aliases": [
         "Culpepper, 2003",
@@ -73832,8 +73951,7 @@
       ],
       "isbn": "978-3-631-42416-2",
       "seen_in": [
-        "wiki/arguments/journal-articles/Teachers College Record/Argument_Munch_2014_TCR.md",
-        "wiki/facts/germany/Hauptschule.md"
+        "wiki/arguments/journal-articles/Teachers College Record/Argument_Munch_2014_TCR.md"
       ],
       "title": "Schülerurteile über die Schule. Bericht über eine internationale Untersuchung"
     },
@@ -81805,6 +81923,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Educational Psychologist/Argument_Chinn_2011_EducPsychol.md"
+      ],
+      "title": ""
+    },
+    "Drexel, 2005": {
+      "aliases": [
+        "Drexel, 2005",
+        "Drexel (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Drexel, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
       ],
       "title": ""
     },
@@ -96926,6 +97059,21 @@
       ],
       "title": "A dynamic network measure of technological change"
     },
+    "Funk, 2006": {
+      "aliases": [
+        "Funk, 2006",
+        "Funk (2006)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Funk, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+      ],
+      "title": ""
+    },
     "Funtowicz & Ravetz, 1993": {
       "aliases": [
         "Funtowicz & Ravetz, 1993",
@@ -108593,6 +108741,7 @@
       "isbn": "978-0-19-924775-2",
       "seen_in": [
         "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md",
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md",
         "wiki/theories/higher-education/Academic Capitalism.md",
         "wiki/theories/political-economy-geopolitics/Collective Skill Formation.md",
         "wiki/theories/political-economy-geopolitics/Historical Institutionalism.md",
@@ -111564,6 +111713,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Impact of mobile assisted language learning (MALL) on EFL: A meta-analysis."
+    },
+    "Hassel, 2006": {
+      "aliases": [
+        "Hassel, 2006",
+        "Hassel (2006)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hassel, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+      ],
+      "title": ""
     },
     "Hasselblad & Hedges, 1995": {
       "aliases": [
@@ -127476,6 +127640,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/facts/germany/Hauptschule.md",
         "wiki/facts/germany/Standing Conference of the Ministers of Education and Cultural Affairs.md"
       ],
       "title": ""
@@ -142723,8 +142888,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Teachers College Record/Argument_Munch_2014_TCR.md",
-        "wiki/facts/germany/Hauptschule.md"
+        "wiki/arguments/journal-articles/Teachers College Record/Argument_Munch_2014_TCR.md"
       ],
       "title": "Die verspätete Entwicklung der deutschen Schule"
     },
@@ -146119,8 +146283,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Teachers College Record/Argument_Munch_2014_TCR.md",
-        "wiki/facts/germany/Hauptschule.md"
+        "wiki/arguments/journal-articles/Teachers College Record/Argument_Munch_2014_TCR.md"
       ],
       "title": "Children's Action-Control Beliefs about School Performance: How do American children compare with German and Russian children?"
     },
@@ -152172,6 +152335,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch08.md"
+      ],
+      "title": ""
+    },
+    "Marcussen & Kaspersen, 2007": {
+      "aliases": [
+        "Marcussen & Kaspersen, 2007",
+        "Marcussen & Kaspersen (2007)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Marcussen & Kaspersen, 2007"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
       ],
       "title": ""
     },
@@ -183868,6 +184046,36 @@
       "seen_in": [],
       "title": "Association between adverse childhood experiences and academic performance among children and adolescents: a global meta-analysis."
     },
+    "Quack & Hildebrandt, 1996": {
+      "aliases": [
+        "Quack & Hildebrandt, 1996",
+        "Quack & Hildebrandt (1996)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Quack & Hildebrandt, 1996"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+      ],
+      "title": ""
+    },
+    "Quack et al., 1995": {
+      "aliases": [
+        "Quack et al., 1995",
+        "Quack et al. (1995)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Quack et al., 1995"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+      ],
+      "title": ""
+    },
     "Qualter, 2000": {
       "aliases": [
         "Qualter, 2000",
@@ -185403,6 +185611,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Making Reading More Difficult  A Degraded Text Microworld for Teaching Reading Comprehension Strategies"
+    },
+    "Rauner, 2005": {
+      "aliases": [
+        "Rauner, 2005",
+        "Rauner (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Rauner, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+      ],
+      "title": ""
     },
     "Rauner, 2017": {
       "aliases": [
@@ -208308,6 +208531,21 @@
       ],
       "title": ""
     },
+    "Soskice, 1994": {
+      "aliases": [
+        "Soskice, 1994",
+        "Soskice (1994)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Soskice, 1994"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+      ],
+      "title": ""
+    },
     "Sotiria Grek & Joakim Lindgren, 2015": {
       "aliases": [
         "Sotiria Grek & Joakim Lindgren, 2015",
@@ -210157,7 +210395,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
+        "wiki/facts/germany/Hauptschule.md"
       ],
       "title": "Allgemeinbildende Schulen"
     },
@@ -210201,6 +210440,36 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Review of Education/Argument_Gorard_2020_ROE.md"
+      ],
+      "title": ""
+    },
+    "Steedman & Wagner, 2005a": {
+      "aliases": [
+        "Steedman & Wagner, 2005a",
+        "Steedman & Wagner (2005a)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Steedman & Wagner, 2005a"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+      ],
+      "title": ""
+    },
+    "Steedman & Wagner, 2005b": {
+      "aliases": [
+        "Steedman & Wagner, 2005b",
+        "Steedman & Wagner (2005b)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Steedman & Wagner, 2005b"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
       ],
       "title": ""
     },
@@ -212433,6 +212702,21 @@
       "seen_in": [],
       "title": "Effects of Storybook Reading Style on Comprehension  The Role of Word Elaboration and Coherence Questions"
     },
+    "Stratmann, 1994": {
+      "aliases": [
+        "Stratmann, 1994",
+        "Stratmann (1994)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Stratmann, 1994"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+      ],
+      "title": ""
+    },
     "Strauss & Corbin, 1990": {
       "aliases": [
         "Strauss & Corbin, 1990",
@@ -212539,6 +212823,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md"
+      ],
+      "title": ""
+    },
+    "Streeck, 1991": {
+      "aliases": [
+        "Streeck, 1991",
+        "Streeck (1991)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Streeck, 1991"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
       ],
       "title": ""
     },
@@ -217276,6 +217575,7 @@
         "wiki/arguments/journal-articles/Educational Research and Evaluation/Argument_Cowen_2019_ERE.md",
         "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md",
         "wiki/arguments/journal-articles/Politics/Argument_VanDerHeijden_2011_Politics.md",
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md",
         "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Hippach-Schneider_Rieder_2022_RCIE.md",
         "wiki/concepts/comparative-education/Decentralised Cooperation.md",
         "wiki/concepts/political-economy-geopolitics/Institutional Complementarity.md",
@@ -221189,6 +221489,21 @@
       ],
       "title": ""
     },
+    "Troltsch, 2005": {
+      "aliases": [
+        "Troltsch, 2005",
+        "Troltsch (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Troltsch, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+      ],
+      "title": ""
+    },
     "Trotsky, 1930": {
       "aliases": [
         "Trotsky, 1930",
@@ -223116,6 +223431,21 @@
       ],
       "title": "Effects of peer tutoring on the academic achievement of students in the subject of biology at secondary level"
     },
+    "Ulrich & Troltsch, 2003": {
+      "aliases": [
+        "Ulrich & Troltsch, 2003",
+        "Ulrich & Troltsch (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ulrich & Troltsch, 2003"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+      ],
+      "title": ""
+    },
     "Ulrich Pothast, 1982": {
       "aliases": [
         "Ulrich Pothast, 1982",
@@ -223129,6 +223459,21 @@
       "seen_in": [
         "wiki/concepts/educational-philosophy/Poiesis.md",
         "wiki/concepts/educational-philosophy/Principle of Sufficient Reason.md"
+      ],
+      "title": ""
+    },
+    "Ulrich, 2005": {
+      "aliases": [
+        "Ulrich, 2005",
+        "Ulrich (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ulrich, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
       ],
       "title": ""
     },
@@ -227057,6 +227402,36 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26.md"
+      ],
+      "title": ""
+    },
+    "Wagner, 1999": {
+      "aliases": [
+        "Wagner, 1999",
+        "Wagner (1999)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Wagner, 1999"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+      ],
+      "title": ""
+    },
+    "Wagner, 2006": {
+      "aliases": [
+        "Wagner, 2006",
+        "Wagner (2006)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Wagner, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
       ],
       "title": ""
     },

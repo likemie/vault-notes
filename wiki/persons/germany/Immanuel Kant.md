@@ -4,7 +4,7 @@ aliases:
   - "Kant, I."
   - 康德
   - 伊曼努尔·康德
-summary: "德国古典哲学奠基人，以三大批判重塑认识论、伦理学与美学，提出哥白尼式革命调和先天论与经验论，其启蒙自主性与世界主义永久和平思想深刻启迪了现代教育哲学与比较教育学发端。"
+summary: "德国古典哲学开创者，以三大批判重塑认识论、伦理学与美学，提出哥白尼式革命调和先天论与经验论，其启蒙自主性与世界主义永久和平思想深刻启迪了现代教育哲学与比较教育学发端。"
 type: person
 cssclasses:
   - person-page
@@ -44,7 +44,7 @@ related_concepts:
   - "[[Judgment of Taste]]"
   - "[[Disinterested Pleasure]]"
   - "[[Aesthetic Idea]]"
-  - "[[Genius]]"
+  - "[[Aesthetic Genius]]"
   - "[[Critical Thinking]]"
   - "[[Typicality]]"
   - "[[Self-Cultivation]]"
@@ -90,13 +90,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-11-16
+updated: 2026-11-21
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 德国哲学家（1724–1804），[[Enlightenment|启蒙运动]]集大成者与德国古典哲学奠基人，终身执教于柯尼斯堡大学。
+> - **身份位置** 德国哲学家（1724–1804），[[Enlightenment|启蒙运动]]集大成者与德国古典哲学开创者，终身执教于柯尼斯堡大学。
 > - **核心角色** 在西方哲学史上发动[[Epistemology|认识论]]的“哥白尼式革命”，提出先天范畴论终结先天论与[[Empiricism|经验论]]的千年论争；确立理性自律伦理学；在哲学美学中开启范式时代；在国际政治理论中开创[[Revolutionism|革命主义]]传统；在教育哲学中确立启蒙自主性与理性成人命题。
 > - **代表贡献** 创立三大批判体系（《纯粹理性批判》《实践理性批判》《判断力批判》）；发表《答复这个问题：什么是启蒙？》（1784）与《论永久和平》（1795）；其思想深刻启迪了现代比较教育学始祖朱利安。
 
@@ -158,9 +158,15 @@ updated: 2026-11-16
 
 > [!influence-path] 影响路径
 > - **认识论与学习科学路径** 康德的哥白尼式革命击碎了心灵被动接受印记的白板说，提出心智主动加工经验的架构，构成了现代[[Cognitive Constructivism|认知建构主义]]与概念认知科学的思想先声。[[Argument_Li_2012_Cambridge|Li (2012, pp. 25–26, 30)]]
-> - **哲学美学范式奠基路径** 在《判断力批判》中确立美学作为独立学科的首个强范式，提出[[Judgment of Taste|鉴赏判断]]、[[Disinterested Pleasure|无功利愉悦]]与[[Aesthetic Idea|审美理念]]，成为黑格尔、海德格尔、伽达默尔与阿多诺美学的共同理论起点。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. ix–x, 17–20)]]
+> - **哲学美学范式确立路径** 在《判断力批判》中确立美学作为独立学科的首个强范式，提出[[Judgment of Taste|鉴赏判断]]、[[Disinterested Pleasure|无功利愉悦]]与[[Aesthetic Idea|审美理念]]，成为黑格尔、海德格尔、伽达默尔与阿多诺美学的共同理论起点。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. ix–x, 17–20)]]
 > - **国际关系英国学派与革命主义传统** 马丁·怀特将康德确立为革命主义传统的始祖，确立普遍人类共同体与永久和平蓝图。[[Argument_Klerides_2023_CE|Klerides (2023, p. 418)]]
 > - **比较教育学启蒙纽带** 其启蒙自主性与永久和平论断启发了学科始祖朱利安，推动比较教育学走向和平治理范式。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009, pp. 20, 22–24)]]
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 析康德美学范式确立（第 1–2 章）及后世黑格尔与法兰克福学派的批判回响（第 5、7、8、9 章）。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009)]] — 考证康德启蒙哲学如何直接催生朱利安比较教育的永久和平蓝图。
+> - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 阐释怀特国际理论框架中的康德革命主义传统及其道德世界主义影响。
+> - [[Argument_Li_2012_Cambridge|Li (2012)]] — 在西方知识确定性传统中剖析康德范畴论对调和唯理论与经验论的贡献。
 
 ---
 
@@ -189,8 +195,8 @@ updated: 2026-11-16
 
 ---
 
-> [!critique] 形式主义空洞批判
-> 黑格尔与现代伦理学派批评康德的定言律令陷入纯粹的形式主义；其绝对命令要求不含矛盾的普遍化，脱离了具体历史情境、社会关系与伦理生活，在面临复杂伦理冲突时难以提供切实的实质性指引。
+> [!critique] 批评索引
+> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — 析黑格尔对康德定言律令形式主义及主客体二元分裂的辩证批判。
 
 ---
 
@@ -213,11 +219,3 @@ updated: 2026-11-16
 > | [[Wight's Three Traditions of International Theory\|怀特国际理论三大传统]] | 理论 | 构成三大传统中与现实主义、理性主义并立的康德式世界主义道德传统。 |
 > | [[Bildung\|教化]] | 概念 | 将教育界定为人从动物自然走向理性自律的唯一途径，深远滋养德意志教化传统。 |
 > | [[Marc-Antoine Jullien\|马克-安托万·朱利安]] | 人物 | 启迪朱利安将启蒙理性与永久和平诉求转化为跨国教育比较观察表的行动蓝图。 |
-
----
-
-> [!evidence-grid-a|notitle]
-> - [[Argument_Li_2012_Cambridge|Li (2012)]] — 在西方知识确定性传统中剖析康德范畴论对调和唯理论与经验论的贡献。
-> - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 阐释怀特国际理论框架中的康德革命主义传统及其道德世界主义影响。
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009)]] — 考证康德启蒙哲学如何直接催生朱利安比较教育的永久和平蓝图。
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 梳理康德美学奠基：[[Argument_Hammermeister_2002_Cambridge_Ch01|第 1]]–[[Argument_Hammermeister_2002_Cambridge_Ch02|2 章]]析美学范式；[[Argument_Hammermeister_2002_Cambridge_Ch05|第 5]]、[[Argument_Hammermeister_2002_Cambridge_Ch07|7]]、[[Argument_Hammermeister_2002_Cambridge_Ch08|8]]、[[Argument_Hammermeister_2002_Cambridge_Ch09|9 章]]析后世批判与回响。
