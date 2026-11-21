@@ -225,7 +225,7 @@ updated: 2026-11-21
 ---
 
 > [!concept-proposition] 命题八｜海德格尔与[[Hans-Georg Gadamer|伽达默尔]]在拒斥传统美学的同时，以真理事件与[[Philosophical Hermeneutics|哲学诠释学]]重续浪漫主义范式
-> **存在论逆转与诠释学消融** 20 世纪[[Phenomenology|现象学]]与诠释学美学表面上与鲍姆嘉通、康德以来的学科传统决裂，实质上将谢林确立的艺术真理发生范式推进至存在论守护与理解事件层面。
+> **存在论逆转与诠释学消融** 20 世纪[[Phenomenology|现象学]]与诠释学美学表面上与鲍姆加登、康德以来的学科传统决裂，实质上将谢林确立的艺术真理发生范式推进至存在论守护与理解事件层面。
 
 > [!claim] Hammermeister, K.
 > **海德格尔的物性逆转与伽达默尔的[[Fusion of Horizons|视域融合]]** [[Martin Heidegger|马丁·海德格尔]]（Martin Heidegger）论证传统物性本体论无法区分艺术与普通物品，转而通过艺术体验揭示器具性与真理，在[[World and Earth|世界与大地]]的竞技争执中将艺术确立为对抗计算理性的存在论守护者；[[Hans-Georg Gadamer|汉斯-格奥尔格·伽达默尔]]（Hans-Georg Gadamer）则批判康德式审美意识将作品孤立于生活世界，借助[[Aesthetic Nondifferentiation|审美无区分]]、游戏（*Spiel*）、[[Fusion of Horizons|视域融合]]与毕达哥拉斯式秩序[[Mimesis|摹仿]]，把美学彻底并入[[Philosophical Hermeneutics|哲学诠释学]]并确立艺术高于哲学追问的完满性。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 173–193)]]
@@ -256,8 +256,8 @@ updated: 2026-11-21
 ---
 
 > [!dev-timeline] 概念演变
-> - **1735 — 学科命名** 鲍姆嘉通在《关于诗的若干哲学沉思》中首次提出“美学（aesthetics）”作为独立哲学学科的名称，意指感性知觉理论。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 4)]]
-> - **1750–1758 — 体系创立** 鲍姆嘉通出版《美学》，将其界定为感性认识科学和自由艺术理论；其学生迈尔于 1748 年率先以德文出版讲义使之广为传播。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 6–7)]]
+> - **1735 — 学科命名** 鲍姆加登在《关于诗的若干哲学沉思》中首次提出“美学（aesthetics）”作为独立哲学学科的名称，意指感性知觉理论。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 4)]]
+> - **1750–1758 — 体系创立** 鲍姆加登出版《美学》，将其界定为感性认识科学和自由艺术理论；其学生迈尔于 1748 年率先以德文出版讲义使之广为传播。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 6–7)]]
 > - **1755–1761 — 情感与心理转向** 门德尔松发表《论情感的书信》与《狂想曲》，将美学从认识论转向主体愉悦、[[The Sublime|崇高]]与审美教育。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 14–19)]]
 > - **1781–1790 — 语义定型与范式确立** [[Immanuel Kant|康德]]在《纯粹理性批判》（1781）“先验感性论”中沿用感性经验先验条件之旧义，而在 1790 年《判断力批判》中正式将其转为关于鉴赏、美与艺术的哲学（同时区分哲学的“批判”即可能性条件探究与赫尔德、[[Gotthold Ephraim Lessing|莱辛]]的艺术批评），开启以形式主义、主观化及脱离认知与道德为特征的首个强美学范式。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 23–24, 40–41)]]
 > - **1795 — 历史化与人类学转向** [[Friedrich Schiller|席勒]]在《[[Aesthetic Education|审美教育]]书简》中批判康德美学的主观与非历史局限，引入历史维度、[[Schiller's Theory of Drives|冲动学说]]与[[Play Drive|游戏冲动]]，将美学重塑为应对现代性分裂与通向道德共同体的中介桥梁，开启从先验唯心论向[[Georg Wilhelm Friedrich Hegel|黑格尔]]客观唯心论的过渡。[[Argument_Hammermeister_2002_Cambridge_Ch03|(Hammermeister, 2002, pp. 42–44, 51–54)]]
@@ -281,7 +281,7 @@ updated: 2026-11-21
 > > 争论美学究竟是享有独立认知法则与真理标准的自主学科，还是辅助逻辑理性认识的下级认识论工具。
 > >
 > > - **理性从属论（莱布尼茨、沃尔夫学派）** 将感性知觉界定为混乱模糊的低阶认知，美学充其量作为通往清晰理性概念的过渡桥梁。
-> > - **感性自律论（鲍姆嘉通、康德、席勒）** 论证感性拥有不可被抽象逻辑穷尽的自身完美性，美学是守护人类经验完整性的独立学科。
+> > - **感性自律论（鲍姆加登、康德、席勒）** 论证感性拥有不可被抽象逻辑穷尽的自身完美性，美学是守护人类经验完整性的独立学科。
 >
 > > [!axis] 艺术作为绝对真理器官 vs 概念哲学的初级感性显现
 > > 争论艺术能否传达超越概念思维的最高终极真理，抑或必然在反思时代让位于哲学概念。
@@ -298,7 +298,7 @@ updated: 2026-11-21
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Sensual Cognition]] | 概念 | 鲍姆嘉通将感性认识确立为哲学美学的核心对象与理论起点。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, p. 7)]] |
+> | [[Sensual Cognition]] | 概念 | 鲍姆加登将感性认识确立为哲学美学的核心对象与理论起点。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, p. 7)]] |
 > | [[Aesthetic Truth]] | 概念 | 构成哲学美学在认识论维度上区别于逻辑真理的核心判准。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 9–10)]] |
 > | [[Disinterested Pleasure]] | 概念 | 门德尔松与康德通过无功利愉悦推进哲学美学向接受心理学与主体判断转向。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 18–19)]]；[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 28–29)]] |
 > | [[The Sublime]] | 概念 | 门德尔松引入并由康德在主体理性层面重构的重要审美范畴。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 17–18)]]；[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 32–34)]] |
@@ -340,4 +340,4 @@ updated: 2026-11-21
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 系统梳理从鲍姆嘉通、康德、黑格尔到海德格尔与[[Argument_Hammermeister_2002_Cambridge_Ch10|阿多诺]]的德国美学演进（pp. 1–216）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 系统梳理从鲍姆加登、康德、黑格尔到海德格尔与[[Argument_Hammermeister_2002_Cambridge_Ch10|阿多诺]]的德国美学演进（pp. 1–216）。

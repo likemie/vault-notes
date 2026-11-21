@@ -5506,7 +5506,8 @@
       "赞许能力",
       "赞同官能",
       "Billigungsvermögen",
-      "faculty of approbation"
+      "faculty of approbation",
+      "interesseloses Wohlgefallen"
     ]
   },
   {
@@ -10722,7 +10723,8 @@
     "path": "wiki/concepts/epistemology/Aesthetic Truth.md",
     "aliases": [
       "审美真理",
-      "感性真理"
+      "感性真理",
+      "veritas aesthetica"
     ]
   },
   {
@@ -10750,13 +10752,15 @@
     "type": "concept",
     "path": "wiki/concepts/epistemology/Sensual Cognition.md",
     "aliases": [
-      "感性认识",
       "感性认知",
+      "感性认识",
       "下级认识论",
+      "低级认识论",
       "gnoseologia inferior",
       "inferior cognition",
       "clear and confused cognition",
-      "清晰而混乱的认识"
+      "清晰而混淆的认知",
+      "清晰而混淆的认识"
     ]
   },
   {
