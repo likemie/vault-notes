@@ -12,7 +12,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 15
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -26,12 +26,8 @@ tags:
   - policy/research-governance
   - theme/science-policy
 related_concepts:
-  - "[[Academic Freedom]]"
-  - "[[National Innovation System]]"
-  - "[[General Education]]"
-  - "[[Discourse]]"
   - "[[Knowledge Production]]"
-  - "[[Curiosity-Driven Research]]"
+  - "[[Academic Freedom]]"
   - "[[China Competence]]"
   - "[[Research Security]]"
 related_theories: []
@@ -40,26 +36,27 @@ related_instruments: []
 related_persons:
   - "[[Max Planck]]"
 related_facts:
+  - "[[Kaiser Wilhelm Society]]"
+  - "[[Federal Ministry of Education and Research]]"
   - "[[Fraunhofer Society Model]]"
   - "[[CNRS]]"
   - "[[Max Planck Institute for Human Development]]"
-  - "[[Federal Ministry of Education and Research]]"
 related_arguments:
   - "[[Argument_Atkinson_2008_TIS]]"
   - "[[Argument_Luo_2026_IFDCK]]"
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-11-20
+updated: 2026-11-21
 ---
 
 ---
 
 > [!claim] 核心定位
-> [[Max Planck|马克斯·普朗克]]科学促进学会（Max-Planck-Gesellschaft zur Förderung der Wissenschaften e.V., MPG）是德国负责国家顶尖基础科学研究的独立非营利科研机构网络，其前身为 1911 年创立的威廉皇帝学会（Kaiser-Wilhelm-Gesellschaft），1948 年重组建立；学会专司高风险、跨学科前沿纯基础研究，享有充分的学术自主权与公共财政全额保障，与专注应用转化的弗劳恩霍夫学会及综合大学共同构成德国国家创新体系的核心支柱。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 42)]]
+> [[Max Planck|马克斯·普朗克]]科学促进学会（Max-Planck-Gesellschaft zur Förderung der Wissenschaften e.V., MPG）是德国负责国家顶尖基础科学研究的独立非营利科研机构网络，其前身为 1911 年创立的[[Kaiser Wilhelm Society|威廉皇帝学会]]（Kaiser-Wilhelm-Gesellschaft），1948 年重组建立；学会专司高风险、跨学科前沿纯基础研究，享有充分的学术自主权与公共财政全额保障，与专注应用转化的弗劳恩霍夫学会及综合大学共同构成德国国家创新体系的核心支柱。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 42)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 1948 年 2 月在西德哥廷根重组成立，承接原威廉皇帝学会的核心科研基础设施与学术传统。
+> - **成立时间 / 创设背景** 1948 年 2 月在西德哥廷根重组成立，承接原[[Kaiser Wilhelm Society|威廉皇帝学会]]的核心科研基础设施与学术传统。
 > - **总部地点 / 业务辐射** 总部设于巴伐利亚州慕尼黑，在全德及海外设立了 80 余所高度专业化的马克斯·普朗克研究所（MPI）。
 > - **法人属性与经费基础** 享有公法社团法人自治地位；年度预算主要由德国联邦政府和 16 个联邦州政府按比例通过联合科学委员会（GWK）全额财政划拨支持。
 > - **核心宗旨与法定职责** 奉行“哈纳克原则”（Harnack Principle）：围绕国际公认的顶尖科学家创设研究所，赋予所长在科研选题、团队选聘与经费支配上的自主权，专注长周期、高探索性的基础科学攻关。
@@ -114,6 +111,7 @@ updated: 2026-11-20
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
+> | [[Kaiser Wilhelm Society]] | Fact (Organization) | 1911 年创设的历史前身实体，1948 年重组改名为马普学会。 |
 > | [[Fraunhofer Society Model]] | Fact (Organization) | 德国国家创新体系中与马普所并列的应用工程技术研发支柱。 |
 > | [[CNRS]] | Fact (Organization) | 法国对应的国家级公立综合科研实体，同属欧洲国家科学院体系。 |
 > | [[Federal Ministry of Education and Research]] | Fact (Organization) | 联邦层面为马普学会提供主要长期财政拨款与重大项目资助的主管部委。 |

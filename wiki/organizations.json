@@ -1482,6 +1482,15 @@
         "Deutscher Akademischer Austauschdienst"
       ]
     },
+    "German Office for International Cooperation in Vocational Education and Training": {
+      "path": "wiki/facts/germany/German Office for International Cooperation in Vocational Education and Training.md",
+      "names": [
+        "German Office for International Cooperation in Vocational Education and Training",
+        "GOVET",
+        "德国职业教育国际合作办公室",
+        "德国联邦职业教育国际合作中心"
+      ]
+    },
     "German State Educational Institutes and Quality Agencies": {
       "path": "wiki/facts/germany/German State Educational Institutes and Quality Agencies.md",
       "names": [
@@ -1939,6 +1948,18 @@
         "芬兰于韦斯屈莱师范学院",
         "Jyväskylän seminaari",
         "Jyväskylä Teacher College"
+      ]
+    },
+    "Kaiser Wilhelm Society": {
+      "path": "wiki/facts/germany/Kaiser Wilhelm Society.md",
+      "names": [
+        "Kaiser Wilhelm Society",
+        "威廉皇帝学会",
+        "威廉皇家学会",
+        "帝皇威廉学会",
+        "KWG",
+        "Kaiser-Wilhelm-Gesellschaft",
+        "Kaiser Wilhelm Society for the Advancement of Science"
       ]
     },
     "Kenniskamer": {
@@ -4175,6 +4196,11 @@
     "广东省人民政府": {
       "seen_in": [
         "wiki/facts/china/Guangdong-Hong Kong-Macau Greater Bay Area.md"
+      ]
+    },
+    "德国联邦经济与劳动部": {
+      "seen_in": [
+        "wiki/facts/germany/National Pact for Training and Young Skilled Staff.md"
       ]
     },
     "意大利共和国议会（Parlamento Italiano） / 意大利教育部（MIUR）": {

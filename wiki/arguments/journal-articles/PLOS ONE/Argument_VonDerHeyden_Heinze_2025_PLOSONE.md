@@ -47,9 +47,12 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Harriet Zuckerman]]"
+  - "[[Elisabeth Crawford]]"
   - "[[Robert K. Merton]]"
+  - "[[J. Rogers Hollingsworth]]"
   - "[[Douglas Hofstadter]]"
-related_facts: []
+related_facts:
+  - "[[Kaiser Wilhelm Society]]"
 related_arguments: []
 sources:
   - "[[sources/VonDerHeyden_Heinze_2025_PLOSONE/VonDerHeyden_Heinze_2025_PLOSONE|VonDerHeyden_Heinze_2025_PLOSONE]]"
@@ -62,7 +65,7 @@ title: "Argument_VonDerHeyden_Heinze_2025_PLOSONE"
 argument_key: "Argument_VonDerHeyden_Heinze_2025_PLOSONE"
 argument_display_title: "Decline of German and rise of North-American hegemony in science: Insights from Nobel Prize nominations (Physics/Chemistry, 1901–1969)"
 argument_kind: "journal-article"
-argument_related_count: 26
+argument_related_count: 29
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -79,7 +82,7 @@ journal: "PLOS ONE"
 
 > [!concept-lens] 阅读透镜
 > - **对象** 1901 至 1969 年间诺贝尔物理学奖与化学奖全部 8832 次解密提名记录，涵盖 3319 位学者及其接受或发出提名当年的真实就职机构与地理坐标。
-> - **张力** [[Harriet Zuckerman|哈里特·朱克曼]]（Harriet Zuckerman）所论证的诺贝尔奖评选遵循功绩制普遍主义规范 (Zuckerman, 1977)，与科学史家伊丽莎白·克劳福德（Elisabeth Crawford）强调的学术[[Nationalism|民族主义]]与本国提名沙文主义 (Crawford, 1992; Crawford, 2001) 以及罗伯特·M·弗里德曼（Robert Marc Friedman）指出的非正式人际网络与权力干预 (Friedman, 1989; Friedman, 2001) 之间的学术争鸣。
+> - **张力** [[Harriet Zuckerman|哈里特·朱克曼]]（Harriet Zuckerman）所论证的诺贝尔奖评选遵循功绩制普遍主义规范 (Zuckerman, 1977)，与科学史家[[Elisabeth Crawford|伊丽莎白·克劳福德]]（Elisabeth Crawford）强调的学术[[Nationalism|民族主义]]与本国提名沙文主义 (Crawford, 1992; Crawford, 2001) 以及罗伯特·M·弗里德曼（Robert Marc Friedman）指出的非正式人际网络与权力干预 (Friedman, 1989; Friedman, 2001) 之间的学术争鸣。
 > - **贡献** 突破以往仅以最终获奖者为静态分析对象的局限，首次从长时段、全样本的提名人与被提名人动态网络入手，结合学者提名当年的精确聘任机构追踪跨国[[Scientific Mobility|学术流动]]，系统揭示了霸权演进中机构枢纽度、权威度、学术自我再生产与提名安置力的非对称结构。
 
 ---
@@ -97,10 +100,10 @@ journal: "PLOS ONE"
 > > 科学界高阶承认本质上遵循功绩制规范，学术声望由实质性科学成就决定，能有效抵御地缘游说与群体偏误 (Merton, 1968; Zuckerman, 1977)。
 > >
 > > [!col-r] 民族主义与权力干预假说（克劳福德与弗里德曼）
-> > 诺贝尔奖提名生态深受本国同行沙文主义、[[Geopolitics|地缘政治]]偏好以及评委会内部非正式人际网络与权力运作的深刻渗透 (Crawford, 1992; Friedman, 1989)。
+> > 诺贝尔奖提名生态深受本国同行沙文主义、[[Geopolitics|地缘政治]]偏好以及评委会内部非正式人际网络与权力运作的深刻渗透 ([[Elisabeth Crawford|Crawford, 1992]]; Friedman, 1989)。
 
 > [!warrant]- 理论如何支撑论证
-> 理论工具构成了将宏观科学史演进与微观计量数据相连接的逻辑桥梁。本-戴维的历史制度分析表明，德国大学在 19 世纪凭借分权竞争体制成为世界科学中心 (Ben-David, 1960; Ben-David, 1971)，并与合成染料等新兴工业紧密咬合 (Murmann, 2003)；但进入 20 世纪后，正教授讲座制固步自封促使前沿探索转向威廉皇帝学会，体制僵化渐显。J·罗杰斯·霍林斯沃思（J. Rogers Hollingsworth）的制度环境论进一步阐明，美国大学凭借系所分权、研究生院科研训练与多元竞争资助体系实现了整体崛起 (Hollingsworth, 2004; Hollingsworth, 2006; MacLeod & Urquiola, 2021; Urquiola, 2020)。随后，纳粹政权强行清洗驱逐犹太学者，不仅造成德国数理学科顶尖人才与[[Coauthorship Network\|合著网络]]的不可逆破坏 (Waldinger, 2010; Waldinger, 2011; Waldinger, 2016)，更因流亡科学家的汇聚极大地充实了美国的科技创新基础 (Moser et al., 2014)。在承认网络层面，朱克曼关于精英评价的功绩制断言 (Zuckerman, 1977) 与克劳福德的偏误指控 (Crawford, 1992; Crawford, 2001) 形成对照，使得将本国同行提名重构为科学霸权确立后学术自我再生产的结构性指标成为可能。机构拓扑分析与计量回归模型的结合，揭示了科学霸权在微观同行评议网络中留下的制度印记。
+> 理论工具构成了将宏观科学史演进与微观计量数据相连接的逻辑桥梁。本-戴维的历史制度分析表明，德国大学在 19 世纪凭借分权竞争体制成为世界科学中心 (Ben-David, 1960; Ben-David, 1971)，并与合成染料等新兴工业紧密咬合 (Murmann, 2003)；但进入 20 世纪后，正教授讲座制固步自封促使前沿探索转向[[Kaiser Wilhelm Society|威廉皇帝学会]]，体制僵化渐显。[[J. Rogers Hollingsworth|J·罗杰斯·霍林斯沃思]]（J. Rogers Hollingsworth）的制度环境论进一步阐明，美国大学凭借系所分权、研究生院科研训练与多元竞争资助体系实现了整体崛起 (Hollingsworth, 2004; Hollingsworth, 2006; MacLeod & Urquiola, 2021; Urquiola, 2020)。随后，纳粹政权强行清洗驱逐犹太学者，不仅造成德国数理学科顶尖人才与[[Coauthorship Network\|合著网络]]的不可逆破坏 (Waldinger, 2010; Waldinger, 2011; Waldinger, 2016)，更因流亡科学家的汇聚极大地充实了美国的科技创新基础 (Moser et al., 2014)。在承认网络层面，朱克曼关于精英评价的功绩制断言 (Zuckerman, 1977) 与[[Elisabeth Crawford|克劳福德]]的偏误指控 (Crawford, 1992; Crawford, 2001) 形成对照，使得将本国同行提名重构为科学霸权确立后学术自我再生产的结构性指标成为可能。机构拓扑分析与计量回归模型的结合，揭示了科学霸权在微观同行评议网络中留下的制度印记。
 
 ---
 

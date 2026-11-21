@@ -9,10 +9,10 @@ aliases:
 summary: "衡量特定国家或学术体制在国际科学界所占据的结构性主导地位与权威层级，表征为在国际同行承认、议程设定、高影响力成果产出与科学精英生产网络中的中心度分布。实证研究通过诺贝尔奖提名网络揭示，科学霸权经历从德国到美国的历史转移，霸权国不仅占据提名网络的核心枢纽与权威节点，其国内学术自我再生产率亦显著上升，但提名垄断并不直接等同于操纵最终授奖裁决。"
 type: concept
 domain: "science-policy"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/science-policy
   - theme/sociology-of-science
@@ -29,9 +29,11 @@ related_methods:
   - "[[Hyperlink-Induced Topic Search]]"
 related_instruments: []
 related_persons:
+  - "[[Elisabeth Crawford]]"
   - "[[Harriet Zuckerman]]"
 related_facts:
   - "[[Nazi Purge of University Scholars]]"
+  - "[[Kaiser Wilhelm Society]]"
 related_arguments:
   - "[[Argument_VonDerHeyden_Heinze_2025_PLOSONE]]"
 confidence: high
@@ -103,7 +105,7 @@ updated: 2026-11-21
 > **声誉网络结构化** 探讨霸权国如何在同行推荐与提名中累积非对称优势，以及该优势如何与国内学术网络的社会封闭及自我再生产相互交织。
 
 > [!claim] Crawford, E.
-> **本国提名体现学术民族主义与沙文主义偏误** 科学史家伊丽莎白·克劳福德（Elisabeth Crawford）指出，主要科学大国在诺贝尔奖提名中约有 50% 集中投向本国学者，且在战时尤为剧烈，将这种现象定性为破坏科学普遍主义规范的狭隘民族主义倾向。[[Argument_VonDerHeyden_Heinze_2025_PLOSONE|(von der Heyden & Heinze, 2025, pp. 5–6)]]
+> **本国提名体现学术民族主义与沙文主义偏误** 科学史家[[Elisabeth Crawford|伊丽莎白·克劳福德]]（Elisabeth Crawford）指出，主要科学大国在诺贝尔奖提名中约有 50% 集中投向本国学者，且在战时尤为剧烈，将这种现象定性为破坏科学普遍主义规范的狭隘民族主义倾向。[[Argument_VonDerHeyden_Heinze_2025_PLOSONE|(von der Heyden & Heinze, 2025, pp. 5–6)]]
 
 > [!claim] von der Heyden, M. & Heinze, T.
 > **本国提名反映霸权地位确立后的学术再生产与社会封闭** 冯·德·海登与海因策反驳了克劳福德单纯将本国提名视为民族偏见的观点，指出本国提名在社会学上反映了科学霸权国的学术自我再生产与精英群体的社会封闭。处于科学霸权时期的国家，其机构内部和国内同行间的互荐率显著攀升；德国在 1910 年代巅峰期本国提名率高达 90%，而美国在二战后登顶霸权地位后亦维持极高的本国提名份额，且洛克菲勒研究所（51%）、加州理工学院（44%）与普林斯顿大学（39%）等顶尖机构表现出极高的同校自荐偏好。[[Argument_VonDerHeyden_Heinze_2025_PLOSONE|(von der Heyden & Heinze, 2025, pp. 6, 12–13)]]
@@ -136,7 +138,9 @@ updated: 2026-11-21
 > | [[Binary Logistic Regression]] | 方法 | 用于实证检验霸权国身份对候选人获奖概率与提名人安置力效应的计量模型。 |
 > | [[Hyperlink-Induced Topic Search]] | 方法 | 测度霸权转移中有向提名网络机构枢纽度与权威度的拓扑算法。 |
 > | [[Harriet Zuckerman]] | 人物 | 以开创性研究讨论科学精英的声望分配与普遍主义/特殊主义之争。 |
+> | [[Elisabeth Crawford]] | 人物 | 开创诺贝尔奖解密档案计量史学并提出科学中的民族主义与本国提名假说。 |
 > | [[Nazi Purge of University Scholars]] | 历史事件 | 纳粹 1933 年政治清洗促成德国科学人才外流并驱动全球霸权向美国转移。 |
+> | [[Kaiser Wilhelm Society]] | 组织 | 20 世纪前叶德意志科学霸权的基础科研核心实体与提名枢纽。 |
 
 ---
 

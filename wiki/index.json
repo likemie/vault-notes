@@ -7129,6 +7129,18 @@
     ]
   },
   {
+    "title": "Academisation",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Academisation.md",
+    "aliases": [
+      "学术化",
+      "学术漂移",
+      "学术化学历膨胀",
+      "学历通胀",
+      "Academization"
+    ]
+  },
+  {
     "title": "Analytical Stance",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Analytical Stance.md",
@@ -13267,6 +13279,17 @@
     "path": "wiki/concepts/instruction-pedagogy/Within-Class Grouping.md",
     "aliases": [
       "班内分组"
+    ]
+  },
+  {
+    "title": "Work-Based Learning",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Work-Based Learning.md",
+    "aliases": [
+      "工作本位学习",
+      "基于工作的学习",
+      "岗位实训学习",
+      "WBL"
     ]
   },
   {
@@ -33483,6 +33506,15 @@
     ]
   },
   {
+    "title": "Elisabeth Crawford",
+    "type": "person",
+    "path": "wiki/persons/france/Elisabeth Crawford.md",
+    "aliases": [
+      "伊丽莎白·克劳福德",
+      "E. Crawford"
+    ]
+  },
+  {
     "title": "Ernest Renan",
     "type": "person",
     "path": "wiki/persons/france/Ernest Renan.md",
@@ -38499,6 +38531,16 @@
     ]
   },
   {
+    "title": "J. Rogers Hollingsworth",
+    "type": "person",
+    "path": "wiki/persons/us/J. Rogers Hollingsworth.md",
+    "aliases": [
+      "J·罗杰斯·霍林斯沃思",
+      "J. R. Hollingsworth",
+      "Rogers Hollingsworth"
+    ]
+  },
+  {
     "title": "Jack Douglas",
     "type": "person",
     "path": "wiki/persons/us/Jack Douglas.md",
@@ -42968,6 +43010,18 @@
     "subtype": "program"
   },
   {
+    "title": "Pact for Skills",
+    "type": "fact",
+    "path": "wiki/facts/eu/Pact for Skills.md",
+    "aliases": [
+      "欧洲技能协议",
+      "欧盟技能协议",
+      "欧洲技能公约",
+      "技能协议"
+    ],
+    "subtype": "program"
+  },
+  {
     "title": "Peer-Learning Activities",
     "type": "fact",
     "path": "wiki/facts/eu/Peer-Learning Activities.md",
@@ -44245,6 +44299,17 @@
     "subtype": "organization"
   },
   {
+    "title": "German Office for International Cooperation in Vocational Education and Training",
+    "type": "fact",
+    "path": "wiki/facts/germany/German Office for International Cooperation in Vocational Education and Training.md",
+    "aliases": [
+      "GOVET",
+      "德国职业教育国际合作办公室",
+      "德国联邦职业教育国际合作中心"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "German State Educational Institutes and Quality Agencies",
     "type": "fact",
     "path": "wiki/facts/germany/German State Educational Institutes and Quality Agencies.md",
@@ -44294,6 +44359,20 @@
       "柏林教育质量发展研究所",
       "IQB",
       "Institut zur Qualitätsentwicklung im Bildungswesen"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "Kaiser Wilhelm Society",
+    "type": "fact",
+    "path": "wiki/facts/germany/Kaiser Wilhelm Society.md",
+    "aliases": [
+      "威廉皇帝学会",
+      "威廉皇家学会",
+      "帝皇威廉学会",
+      "KWG",
+      "Kaiser-Wilhelm-Gesellschaft",
+      "Kaiser Wilhelm Society for the Advancement of Science"
     ],
     "subtype": "organization"
   },
@@ -44439,6 +44518,19 @@
       "Zur Entwicklung nationaler Bildungsstandards",
       "德国国家教育标准专业论证报告",
       "Development of National Educational Standards"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "National Pact for Training and Young Skilled Staff",
+    "type": "fact",
+    "path": "wiki/facts/germany/National Pact for Training and Young Skilled Staff.md",
+    "aliases": [
+      "德国国家培训与青年技术人才公约",
+      "德国国家培训公约",
+      "国家培训公约",
+      "Nationaler Pakt für Ausbildung und Fachkräftenachwuchs in Deutschland",
+      "National Pact for Training"
     ],
     "subtype": "policy"
   },

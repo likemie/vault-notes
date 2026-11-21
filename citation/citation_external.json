@@ -1491,6 +1491,8 @@
     "BERA, 2014": "BERA, 2014",
     "BERA-RSA (2014)": "BERA-RSA, 2014",
     "BERA-RSA, 2014": "BERA-RSA, 2014",
+    "BIBB (2015)": "BIBB, 2015",
+    "BIBB, 2015": "BIBB, 2015",
     "BLV (2013)": "BLV, 2013",
     "BLV, 2013": "BLV, 2013",
     "BMBF (2007)": "BMBF, 2007",
@@ -1653,6 +1655,7 @@
     "Baker (1998)": "Baker, 1998",
     "Baker (2000)": "Baker, 2000",
     "Baker (2013)": "Baker, 2013",
+    "Baker (2014)": "Baker, 2014",
     "Baker (2015)": "Baker, 2015",
     "Baker (2019)": "Baker, 2019",
     "Baker (2020)": "Baker, 2020",
@@ -1674,6 +1677,7 @@
     "Baker, 1998": "Baker, 1998",
     "Baker, 2000": "Baker, 2000",
     "Baker, 2013": "Baker, 2013",
+    "Baker, 2014": "Baker, 2014",
     "Baker, 2015": "Baker, 2015",
     "Baker, 2019": "Baker, 2019",
     "Baker, 2020": "Baker, 2020",
@@ -6187,6 +6191,8 @@
     "David (1990)": "David, 1990",
     "David (2002)": "David, 2002",
     "David (2004)": "David, 2004",
+    "David Baker (2014)": "David Baker, 2014",
+    "David Baker, 2014": "David Baker, 2014",
     "David Berliner (2002)": "David Berliner, 2002",
     "David Berliner (2007)": "David Berliner, 2007",
     "David Berliner, 2002": "David Berliner, 2002",
@@ -16163,7 +16169,9 @@
     "Luiten et al. (1980)": "Luiten et al., 1980",
     "Luiten et al., 1980": "Luiten et al., 1980",
     "Lukas Graf (2013)": "Lukas Graf, 2013",
+    "Lukas Graf (2018)": "Lukas Graf, 2018",
     "Lukas Graf, 2013": "Lukas Graf, 2013",
+    "Lukas Graf, 2018": "Lukas Graf, 2018",
     "Luke (1996)": "Luke, 1996",
     "Luke (2003)": "Luke, 2003",
     "Luke, 1996": "Luke, 1996",
@@ -40496,6 +40504,21 @@
       ],
       "title": ""
     },
+    "BIBB, 2015": {
+      "aliases": [
+        "BIBB, 2015",
+        "BIBB (2015)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "BIBB, 2015"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
+      ],
+      "title": ""
+    },
     "BLV, 2013": {
       "aliases": [
         "BLV, 2013",
@@ -41185,7 +41208,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md",
+        "wiki/concepts/educational-policy-reform/Academisation.md"
       ],
       "title": "The German skill formation model in transition: From dual system of VET to higher education?"
     },
@@ -41810,6 +41834,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/us/Inq-ITS.md"
+      ],
+      "title": ""
+    },
+    "Baker, 2014": {
+      "aliases": [
+        "Baker, 2014",
+        "Baker (2014)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Baker, 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-policy-reform/Academisation.md"
       ],
       "title": ""
     },
@@ -46712,7 +46751,8 @@
       ],
       "isbn": "9780226042220",
       "seen_in": [
-        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md"
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md",
+        "wiki/facts/germany/Kaiser Wilhelm Society.md"
       ],
       "title": "The Scientist's Role in Society: A Comparative Study"
     },
@@ -58317,7 +58357,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md",
+        "wiki/facts/germany/National Pact for Training and Young Skilled Staff.md"
       ],
       "title": "Aufbruch oder Stillstand in der Berufsbildungspolitik? Die neue Allianz für Aus- und Weiterbildung"
     },
@@ -71961,7 +72002,8 @@
       ],
       "isbn": "9780521403863",
       "seen_in": [
-        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md"
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md",
+        "wiki/facts/germany/Kaiser Wilhelm Society.md"
       ],
       "title": "Nationalism and Internationalism in Science, 1880–1939: Four Studies of the Nobel Population"
     },
@@ -74986,6 +75028,21 @@
         "wiki/concepts/educational-leadership-administration/Instructional Leadership.md",
         "wiki/concepts/educational-leadership-administration/Teacher Leadership.md",
         "wiki/facts/us/Sanger Unified School District.md"
+      ],
+      "title": ""
+    },
+    "David Baker, 2014": {
+      "aliases": [
+        "David Baker, 2014",
+        "David Baker (2014)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "David Baker, 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-policy-reform/Academisation.md"
       ],
       "title": ""
     },
@@ -87812,7 +87869,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md",
+        "wiki/concepts/instruction-pedagogy/Work-Based Learning.md"
       ],
       "title": "Rethinking Education: Investing in skills for better socio-economic outcomes"
     },
@@ -103465,6 +103523,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md",
+        "wiki/concepts/educational-policy-reform/Academisation.md",
         "wiki/theories/political-economy-geopolitics/Collective Skill Formation.md"
       ],
       "title": "Combined modes of gradual change: The case of academic upgrading and declining collectivism in German skill formation"
@@ -116203,7 +116262,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md"
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md",
+        "wiki/facts/germany/Kaiser Wilhelm Society.md"
       ],
       "title": "A Path-Dependent Perspective on Institutional and Organizational Factors Shaping Major Scientific Discoveries"
     },
@@ -147678,6 +147738,21 @@
       ],
       "title": ""
     },
+    "Lukas Graf, 2018": {
+      "aliases": [
+        "Lukas Graf, 2018",
+        "Lukas Graf (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Lukas Graf, 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-policy-reform/Academisation.md"
+      ],
+      "title": ""
+    },
     "Luke, 1996": {
       "aliases": [
         "Luke, 1996",
@@ -178331,7 +178406,8 @@
       "isbn": "978-0-8077-4439-0",
       "seen_in": [
         "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md",
-        "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Rappleye_2006_RCIE.md"
+        "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Rappleye_2006_RCIE.md",
+        "wiki/concepts/instruction-pedagogy/Work-Based Learning.md"
       ],
       "title": "Toward a theory of policy attraction in education"
     },
@@ -216055,6 +216131,7 @@
       "isbn": "978-1-107-62421-4",
       "seen_in": [
         "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md",
+        "wiki/concepts/educational-policy-reform/Academisation.md",
         "wiki/theories/political-economy-geopolitics/Collective Skill Formation.md"
       ],
       "title": "Varieties of Liberalization and the New Politics of Social Solidarity"
@@ -230226,7 +230303,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md",
+        "wiki/concepts/instruction-pedagogy/Work-Based Learning.md"
       ],
       "title": "Germany’s dual vocational-training system: Possibilities for and limitations to transferability"
     },

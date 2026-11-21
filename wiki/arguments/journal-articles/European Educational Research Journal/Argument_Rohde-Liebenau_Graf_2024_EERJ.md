@@ -27,6 +27,7 @@ related_concepts:
   - "[[Experimentalist Governance]]"
   - "[[Government to Governance Shift]]"
   - "[[Decentralised Cooperation]]"
+  - "[[Academisation]]"
 related_theories:
   - "[[Multi-Level Governance]]"
   - "[[Collective Skill Formation]]"
@@ -39,6 +40,8 @@ related_facts:
   - "[[European Alliance for Apprenticeships]]"
   - "[[Alliance for Initial and Further Training]]"
   - "[[German Dual Education System]]"
+  - "[[National Pact for Training and Young Skilled Staff]]"
+  - "[[Pact for Skills]]"
 related_arguments: []
 sources:
   - "[[sources/Rohde-Liebenau_Graf_2024_EERJ/Rohde-Liebenau_Graf_2024_EERJ|Rohde-Liebenau_Graf_2024_EERJ]]"
@@ -52,7 +55,7 @@ title: "Argument_Rohde-Liebenau_Graf_2024_EERJ"
 argument_key: "Argument_Rohde-Liebenau_Graf_2024_EERJ"
 argument_display_title: "Two instruments, one melody: The parallel evolvement of European and German alliances for apprenticeships"
 argument_kind: "journal-article"
-argument_related_count: 10
+argument_related_count: 13
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -110,9 +113,9 @@ issuing_organization: ""
 > | 驱动机制假说 | 传导方向与核心预设 | 预期经验证据 | 过程追踪经验检验与实证裁决 |
 > |---|---|---|---|
 > | **假说一：德国驱动** | 自下而上；德国凭借双元制标杆优势，向欧盟输出本国最佳实践模式（Euler, 2013; Wieland, 2015）。 | 访谈与档案显现德国官方在欧盟联盟筹备中充当主导游说者与方案设计者。 | **证据不足排除** 莱比锡启动仅为各方借势发布的公关节点；欧委会主导议程，德国对外职教合作长期以双边为主（BMBF, 2013b）。 |
-> | **假说二：欧盟驱动** | 自上而下；欧盟为推进一体化产生治理需求，通过软协调自上而下塑造国家政策（Pollack, 1994; Warleigh-Lack & Drachenberg, 2011）。 | 德国联盟的签署体现对欧盟指令、建议书或欧洲联盟设立的依从性响应。 | **证据否定排除** 德国联盟脱胎于 2004 年《国家培训公约》，重组核心在于吸纳工会共治以化解内生协商失衡，借用联盟一词作为政治标签（Busemeyer, 2015）。 |
+> | **假说二：欧盟驱动** | 自上而下；欧盟为推进一体化产生治理需求，通过软协调自上而下塑造国家政策（Pollack, 1994; Warleigh-Lack & Drachenberg, 2011）。 | 德国联盟的签署体现对欧盟指令、建议书或欧洲联盟设立的依从性响应。 | **证据否定排除** 德国联盟脱胎于 2004 年[[National Pact for Training and Young Skilled Staff\|《国家培训公约》]]，重组核心在于吸纳工会共治以化解内生协商失衡，借用联盟一词作为政治标签（Busemeyer, 2015）。 |
 > | **假说三：相互借鉴** | 双向水平；欧盟与国家在平台内持续双向互动，共同探索并吸收最佳实践（Phillips, 2004; Steiner-Khamsi, 2004）。 | 双方在政策制定中显现明确的相互吸收与制度学习痕迹。 | **部分确证但属从属机制** 未构成联盟创立的原生动力，但在联盟常态化运作中成为经验流动与标杆展示的重要平台载体（Graf & Marques, 2022）。 |
-> | **假说四：外部驱动** | 外部冲击；宏观危机超出既有治理承载能力，推动双方在多层架构中独立启动创新（Sabel & Zeitlin, 2012b）。 | 双方访谈与文本均高频指向青年失业、技能错配与产业转型危机，并采纳实验主义治理应对。 | **核心主导机制确证** 欧债危机、青年失业高企、技能短缺、学术化浪潮与双重转型，独立激发了双边的实验主义平台构建（European Commission, 2012, 2020a）。 |
+> | **假说四：外部驱动** | 外部冲击；宏观危机超出既有治理承载能力，推动双方在多层架构中独立启动创新（Sabel & Zeitlin, 2012b）。 | 双方访谈与文本均高频指向青年失业、技能错配与产业转型危机，并采纳实验主义治理应对。 | **核心主导机制确证** 欧债危机、青年失业高企、技能短缺、[[Academisation\|学术化]]浪潮与双重转型，独立激发了双边的实验主义平台构建（European Commission, 2012, 2020a）。 |
 
 ---
 
@@ -169,7 +172,7 @@ flowchart TD
 > [!evidence-scope] 排除德国驱动假说的实证档案与访谈证据
 > - **莱比锡启动的借势公关性质** 欧盟委员会受访官员证实，2013 年 7 月选在德国莱比锡世界技能大赛宣布成立联盟，本质上是各方借势扩大宣传的公关契机，事前并未规划明确的后续制度安排。
 > - **官方文件中的零游说痕迹** 德国官方政策文本（BMBF, 2013a）与欧盟理事会结论（Council of the European Union, 2013）均表明，德国在欧盟决策层保持低调，未就联盟机制开展积极游说或强推特定方案。欧洲委员会自主设定议程并统筹协调各项事务。
-> - **对外职教合作的双边传统路径** 德国对外国别职业教育合作长期依托德国联邦职业教育研究所（BIBB）开展双边合作，未在欧盟多边论坛推行其整体制度（BMBF, 2013b; Euler, 2013）。
+> - **对外职教合作的双边传统路径** 德国对外国别职业教育合作长期依托[[Federal Institute for Vocational Education and Training|德国联邦职业教育研究所]]（BIBB）下设的[[German Office for International Cooperation in Vocational Education and Training|德国职业教育国际合作办公室]]（GOVET）开展双边协作与“学徒制出口”，未在欧盟多边论坛强推其整体制度（BIBB, 2015; BMBF, 2013b, 2017; Euler, 2013）。
 
 > [!citation-card] 欧洲联盟初创时期的多方主体认知
 > 一位受访的欧盟高级官员指出，社会伙伴声称是他们发起了联盟，内部同事也坚称是自身发起。德国等各方确实利用了 2013 年莱比锡世界技能大赛的机会来启动联盟，但这在当时实际上是一场尚未规划后续跟进步骤的发布活动。
@@ -183,7 +186,7 @@ flowchart TD
 德国学徒制联盟虽然在时间上紧随欧洲联盟之后建立，但其重组动力源于国内劳资协商失衡的内生调整，独立于欧盟超国家软法协调。
 
 > [!mechanism] 德国重组学徒制联盟的内生动力机制
-> - **十年国家培训公约的历史承续** 德国早在 2004 年便设立了职能相近的《国家培训与青年专业人才公约》（Nationaler Pakt für Ausbildung und Fachkräftenachwuchs），并持续运行十年，构成本土实践根基。
+> - **十年国家培训公约的历史承续** 德国早在 2004 年便设立了职能相近的[[National Pact for Training and Young Skilled Staff|《国家培训与青年技术人才公约》]]（Nationaler Pakt für Ausbildung und Fachkräftenachwuchs），并持续运行十年，构成本土实践根基。
 > - **纠正排斥工会的制度失衡** 早期公约主要由政府与雇主商会签署，工会被边缘化；2014 年更名为联盟的核心实质，在于吸纳工会共治以化解协商失衡，重新回归传统的四方社团主义协商架构（Busemeyer, 2015; Thelen, 2014）。
 > - **借用欧洲修辞标签的自主演变** 德国借用欧洲新倡议的联盟表述仅为政治标签借用，政策实质遵循本土技能形成体制的自主演进轨道。
 
@@ -202,7 +205,7 @@ flowchart TD
 > [!challenges] 冲击职业技能形成体系的四大跨界宏观治理危机
 > 1. **欧债危机与青年失业剧增** 2008 年金融危机与欧债危机导致欧洲外围国家（如西班牙、希腊）青年失业率超过 50%，形成全欧性社会震荡，迫切需要超越常规政策工具的紧急干预（European Commission, 2012）。
 > 2. **劳动力市场结构性供需错配** 伴随技术变革与人口结构老龄化，企业岗位空置与青年求职困难并存，由最初的纯粹岗位短缺迅速演变为全欧中高级专业技能的结构性断层。
-> 3. **高等教育大众化与学术化浪潮侵蚀** 综合大学入学人数历史性超过双元制学徒招募总数，实体工业面临技能工人社会声望流失与生源枯竭的严峻挑战（Baethge & Wolter, 2015; Graf, 2018）。
+> 3. **高等教育大众化与[[Academisation|学术化]]浪潮侵蚀** 综合大学入学人数历史性超过双元制学徒招募总数，实体工业面临技能工人社会声望流失与生源枯竭的严峻挑战（Baethge & Wolter, 2015; Graf, 2018）。
 > 4. **绿色与数字化双重转型对技能持续更新的紧迫需求** 工业 4.0 与欧盟绿色协议迫使职业教育跳出青年初次就学范畴，对全生命周期的在职培训与技能重塑提出系统性要求（European Commission, 2020a）。
 
 ---
@@ -252,16 +255,16 @@ flowchart TD
 >
 > - **2020 至今 · 技能重塑与终身继续教育拓展期**
 >
->   欧盟将学徒制联盟正式纳入《欧洲技能协议》，主攻成年劳动力技能提升与绿色数字双重转型；德国签署《国家继续培训战略》（Nationale Weiterbildungsstrategie, NWS），推动学徒制与应用型双元制高等教育（Duales Studium）的衔接贯通。
+>   欧盟将学徒制联盟正式纳入[[Pact for Skills|《欧洲技能协议》]]，主攻成年劳动力技能提升与绿色数字双重转型；德国签署《国家继续培训战略》（Nationale Weiterbildungsstrategie, NWS），推动学徒制与应用型双元制高等教育（Duales Studium）的衔接贯通。
 
 ---
 
 > [!sub-claim] 联盟将双元制树立为全欧标杆，德国借此扩大国际政策话语权
 
-常态化运作的中介平台拓宽了经验流动通道，确立了工作本位学习的欧洲典范。
+常态化运作的中介平台拓宽了经验流动通道，确立了[[Work-Based Learning|工作本位学习]]的欧洲典范。
 
 > [!feature] 经验流动通道与双元制标杆的制度化确立
-> - **欧盟质量标准的树立** 欧洲联盟通过《高质量和有效学徒制欧洲框架》（EFQEA），明确将以德国为代表的双元制工作本位学习树立为全欧技能基准与示范范本（Graf & Marques, 2022; Poulsen & Eberhardt, 2016）。
+> - **欧盟质量标准的树立** 欧洲联盟通过《高质量和有效学徒制欧洲框架》（EFQEA），明确将以德国为代表的双元制[[Work-Based Learning|工作本位学习]]树立为全欧技能基准与示范范本（Graf & Marques, 2022; Poulsen & Eberhardt, 2016）。
 > - **德国国际话语权威的拓展** 德国政府充分利用欧洲联盟多边展示窗口，推介自身在终身技能培训与双元制办学上的制度经验，在巩固国内职业培训合法性的同时，扩大了在全欧教育治理中的政策主导力。
 
 ---
