@@ -139,7 +139,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-11-20
+updated: 2026-11-21
 ---
 
 ---
@@ -270,6 +270,7 @@ updated: 2026-11-20
 > - **1960s–1980s — 社会科学实证主义大论战与比较教育方法转向** 德国社会学界爆发波普尔与[[Jürgen Habermas|哈贝马斯]]的[[Positivist Dispute in German Sociology|实证主义争论]]（Positivismusstreit），新[[Karl Marx|马克思]]主义批判兴起；比较教育学界以[[Brian Holmes|布莱恩·霍姆斯]]引入波普尔[[Critical Dualism|批判二元论]]为契机，在伦敦大学 IOE 掀起文化主义与实证主义[[Problem Approach|问题法]]的激烈范式论战。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–93)]]
 > - **1980s–1990s — 教育研究中的“[[Paradigm Wars|范式战争]]”与[[Mixed Methods Research|混合方法]]调和** 教育学术界在定量实证范式与质性[[Constructivist Paradigm|建构主义范式]]之间展开长达十余年的“范式战争”；随后[[Mixed Methods Research|混合方法研究]]确立以[[Pragmatic Paradigm|实用主义]]（Pragmatism）为哲学根基，架桥弥合二元对立。（Gage, 1989; Tashakkori & Teddlie, 1998）
 > - **1990s–2010s — 后现代解构、系统论[[Autopoiesis|自创生]]与跨文化融合** 斯坦福[[World-Systems Theory|世界体系理论]]、后现代文化[[Pluralism|多元主义]]与[[Niklas Luhmann|尼克拉斯·卢曼]]的自创生系统论进入比较教育；施里维尔开创意义[[Externalization|外化]]比较范式，同时比较教育与多民族移民社会的[[Intercultural Education|跨文化教育]]实现范式合流。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94, 97–98)]]
+> - **2006 — PISA 震荡驱动德语教育科学认识论与范式经验转向** [[Argument_Ertl_2006_ORE|Ertl (2006)]] 揭示德国在 PISA 冲击下，传统人文学科取向的普通教学论（Allgemeine Didaktik）因缺乏量化诊断工具而陷入范式危机，促发教育科学经历急剧的经验转向（scharfe empirische Wende），使实证课堂教学研究与心理测量团队占据学科主导（pp. 627–629）。
 > - **2009 — 评价功能化与软性数字治理双重范式确立** 索蒂里亚·格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, pp. 26–27, 32–35]]）阐释全球教育领域中两项相互交织的范式转变：评价范式脱离民族国家课程大纲、转向考查成人生活功能性应用能力；治理范式则在欧盟辅助性原则限制下，从传统的条约立法与信贷强制转向依托跨国测评与量化基准的软性数字治理。
 > - **2009 — 超国家教育治理全景敞视范式断裂** 帕西亚斯与鲁萨基斯阐明欧盟教育治理从基于辅助性原则的主权多样性传统范式，向依托里斯本战略、开放协调法与量化监控的全景敞视治理范式发生历史性断裂。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 488–491)]]
 > - **2018 — 团队规模在范式颠覆与深化中的功能分工确立** [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] 系统量化跨学科成果，确立小团队颠覆既有范式、大团队深化主流成熟路径的功能生态位分工（pp. 3–4）。
@@ -354,3 +355,4 @@ updated: 2026-11-20
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 对[[System-Wide Improvement|教育系统改进]]文献开展主题综合，提炼出理性选择、文化制度、课程规制与能力建设四大理论范式，解析不同范式的认识论假定与政策干预张力。
 > - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 阐明新加坡教育政策从生存与效率驱动范式向能力驱动与知识经济范式的转型历程，揭示旧范式留存的统考机制对新范式落地的制度性摩擦。
 > - [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] — 批判将范式争论降格为方法操作技术争端，构建贯通微观深描与宏观政治经济学的垂直案例研究多尺度比较范式（pp. 95–97）。
+> - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 系统剖析后 PISA 时代德语教育学界从人文学科思辨（普通教学论）向定量心理测量与实证课堂研究的急剧经验范式转向（scharfe empirische Wende），揭示产出导向治理对传统陶冶范式的深层冲击（pp. 627–629）。

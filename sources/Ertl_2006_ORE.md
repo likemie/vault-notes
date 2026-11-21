@@ -1,6 +1,7 @@
 ---
 citation: "Ertl, H. (2006). Educational standards and the changing discourse on education: the reception and consequences of the PISA study in Germany. Oxford Review of Education, 32(5), 619–634. https://doi.org/10.1080/03054980600976320"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Ertl_2006_ORE]]"
 processed_date: 2026-11-21
 ---
 

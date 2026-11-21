@@ -80,7 +80,7 @@ related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]"
   - "[[Argument_Gopinathan_2007_GSE]]"
 confidence: high
-status: draft
+status: active
 created: 2026-10-17
 updated: 2026-11-19
 ---
@@ -277,6 +277,7 @@ updated: 2026-11-19
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 批判[[John Hattie|哈蒂]]拒绝将 SES 纳入调节[[Variable|变量]]的孤立归因偏误，提出“阶级盲教学思维”概念（pp. 6–7）。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 援引[[OECD|经合组织]]数据确证家庭背景占据学业方差的绝对主导地位，反思新自由主义“学校抹平一切”的神话。
 > - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 结合新加坡[[Integrated Programme|直通车计划]]与顶尖[[Independent Schools Initiative|独立学校]]分析，揭示高社会经济地位家庭如何凭借校外补习与文化资本优势捕获拔尖教育资源，侵蚀[[Educational Meritocracy|唯才是用]]神话的合法性（pp. 63–65）。
+> - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 基于 PISA 2000 德国国家报告次级分析，确证最高与最低 SES 四分位数学生阅读差距高居 OECD 首位，且高管阶层子女升入文法中学的几率是非技术劳工子女的 5 倍，实证揭示中等教育三轨分流中社会选择性对学术选拔的系统性压倒（pp. 620–621）。
 
 ---
 

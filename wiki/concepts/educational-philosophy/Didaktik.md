@@ -52,7 +52,7 @@ related_arguments:
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Rømer_2018_EPT]]"
 confidence: medium
-status: draft
+status: active
 created: '2026-05-06'
 updated: 2026-11-20
 ---
@@ -161,6 +161,7 @@ updated: 2026-11-20
 > - **19世纪初 — 德国教学论在芬兰的发展** 伴随芬兰哲学家[[Johan Vilhelm Snellman|约翰·威廉·斯内尔曼]]（Johan Wilhelm Snellman）对教化观的推动，德国教学理论开始影响芬兰的教师教育和学术构建。
 > - **19世纪初 — 普鲁士教学大纲与教学法自由确立** 普鲁士废止繁苛的微观学校章程，转向纲领性教学大纲，并在国家大纲规定与学校教学之间确立了以教师教学法自由（pedagogical freedom）为基石的专业分工。[[Argument_Hopmann_2007_EERJ|(Hopmann, 2007, pp. 113–114)]]
 > - **20世纪末 — 批判建设性教学论转向** 克拉夫基提出[[Epochal Key Problems|时代关键问题]]假说，旨在通过重组课程结构，使教育直面社会的全球性正义与危机。
+> - **2006年 — 后 PISA 实证转型与普通教学论危机** 厄特尔（[[Argument_Ertl_2006_ORE|Ertl, 2006]]）系统剖析德意志教学大纲与教学论传统的历史遭遇：传统大纲深受实质教学论影响，将教学分析置于核心并坚守评价不进课程的传统信念；PISA 震荡后国家推行产出导向胜任力标准，引发教育科学界普通教学论与实证教学研究的学科范式冲突与基层备课真空（pp. 623–624, 627–629）。
 > - **2007年 — 霍普曼提炼克制型教学共同核心** 霍普曼系统考掘欧陆教学论的共同基石为克制型教学，从内容与意义差异及教与学自主性视阈，批判能力本位测试对教学法自由与教化追求的制度瓦解。[[Argument_Hopmann_2007_EERJ|(Hopmann, 2007, pp. 109, 118–121)]]
 > - **2014年 — 芬兰跨学科课程改革的理论整合** 教学论传统的时代危机意识与[[Phenomenon-Based Learning|现象本位学习]]取向融合，成为芬兰核心课程政策的哲学底色。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 7]]
 
