@@ -13,7 +13,7 @@ aliases:
 summary: "彼得·A·霍尔与戴维·索斯基斯于2001年提出的比较政治经济学经典分析框架；以企业为核心协调主体，将发达资本主义划分为自由市场经济体（LMEs）与协调型市场经济体（CMEs），强调金融、劳资、职业培训与公司治理间的跨领域制度互补性；施特雷克与希伦等学者后续批判其功能主义与超稳定假定，揭示两类体制在制度互补性遮蔽下共同走向渐进自由化的演化轨迹。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 34
+theory_related_count: 35
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -63,6 +63,7 @@ related_arguments:
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
   - "[[Argument_Streeck_Thelen_2005_OUP]]"
   - "[[Argument_Schulze-Cleven_2017_HE]]"
+  - "[[Argument_Thelen_2007_RegGov]]"
 confidence: high
 status: active
 created: 2026-05-18
@@ -91,6 +92,7 @@ updated: 2026-11-21
 > [!dev-timeline] 理论版本与贡献
 > - **2001 年 — 原初建构** 霍尔与索斯基斯确立 LME 与 CME 二元类型学，提出[[Institutional Complementarity|制度互补性]]（Institutional Complementarities）与比较制度优势（Comparative Institutional Advantage）概念。
 > - **2005 年 — 动态变迁批判与内生[[Liberalization|自由化]]转向（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005]]）** [[Wolfgang Streeck|沃尔夫冈·施特雷克]]与[[Kathleen Thelen|凯瑟琳·希伦]]系统批判 VoC 将制度互补性等同于自我强化的超稳定功能主义均衡，指出两类体制在制度表面延续的假象下，实际均经历了通过分层、漂移与转换推动的深刻自由化，将制度研究由静态类型学引向渐进变迁动态学。
+> - **2007 年 — 双元技能形成体制的当代挑战与渐进自适应调适（[[Argument_Thelen_2007_RegGov|Thelen, 2007]]）** 希伦实证检视作为 CME 典范的德国双元制职业培训体系面临的培训成本攀升、东德制造业萎缩与服务业吸纳不足多重挑战，评估 2005 年《联邦职业教育法》改革在赋予企业模块化弹性与公立学校分担成本上的妥协，证实协调型市场体制依靠主动的政治维护而非机械自发均衡维系其制度互补性与比较优势。[[Argument_Thelen_2007_RegGov|(Thelen, 2007, pp. 248–250, 254–257)]]
 > - **2017 年 — 高等教育与[[Academic Capitalism|学术资本主义]]跨国多样性扩展（[[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al., 2017]]）** 舒尔策-克[[Ben Levin|莱文]]等学者将 VoC 框架引入高等教育领域，揭示[[Academic Capitalism|学术资本主义]]如何映射国家生产体制类型：美国（LME）呈现激进的市场化与学生贷款金融化，德国（保守协调）在学费政策上遭遇社会自组织反弹并撤销改革，挪威（社会民主协调）则依托强国家供给维系公共教育韧性，论证制度互补性与合法性框架塑造的强[[Path Dependence|路径依赖]]。
 > - **2022 年 — [[Corporate Education|企业教育]]跨国化与组织架构映射（[[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022]]）** 哈特曼将 VoC 与跨国公司（Multinational Corporations, MNCs）产业组织学结合，证实德国等 CME 企业的初始职业教育与培训（Initial Vocational Education and Training, IVET）双元[[Apprenticeship|学徒制]]深嵌于母国制度网络，在跨国移植中屡遭失败；而美英 LME 企业依托商品化市场逻辑在[[Corporate Education|企业教育]]全球化中占据主导地位。
 > - **2022 年 — CME 双元制职教在数字化转型中的协调韧性** [[Argument_Hippach-Schneider_Rieder_2022_RCIE|Hippach-Schneider and Rieder (2022)]] 将 VoC 理论运用于德瑞两国双元制技能形成体系，指出两国作为典型协调型市场经济体（CMEs），在应对数字化技术冲击时依靠行业协会、企业与公共部门的非市场协同机制，有效克服个体企业技能投资中的搭便车困境，在维持传统生产体制优势的同时推动资格标准适应性更新。
@@ -191,3 +193,4 @@ updated: 2026-11-21
 > - [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] — 运用 VoC 框架系统分析跨国公司在[[Corporate Education|企业教育]]全球化中的组织分化，解释为何德国[[German Dual Education System|双元制]][[Apprenticeship|学徒制]]在海外跨国移植中遭遇排异失败。
 > - [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]] — 将 VoC 理论拓展至高等教育部门，揭示美、德、挪三国在[[Academic Capitalism|学术资本主义]]与大学学费改革中因[[Institutional Complementarity|制度互补性]]与合法性框架产生的[[Path Dependence|路径依赖]]分化。
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 批判资本主义多样性框架中制度互补性的功能主义静态假设与连续性偏误，揭示先进资本主义体制向[[Liberalization|自由化]]渐进漂移的微观变迁机制。
+> - [[Argument_Thelen_2007_RegGov|Thelen (2007)]] — 检视德国双元技能形成体制在当代面临的成本与结构挑战，实证评估 2005 年《联邦职业教育法》改革如何通过赋予企业模块化定制弹性与借助公立职校分担成本维系 CME 协调型生产体制的制度韧性。（pp. 248–250, 254–257）

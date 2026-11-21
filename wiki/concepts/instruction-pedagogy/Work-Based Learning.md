@@ -8,7 +8,7 @@ aliases:
 summary: "职业技术教育学与教育政策的核心构念，由欧洲联盟委员会、欧洲职业培训发展中心（Cedefop）及比较职业教育学者系统界定。工作本位学习指将正规教育课程与真实企业工作场所的实际操作深度结合的教学与技能习得模式，涵盖双元制学徒制、在岗轮训与企业实习等不同组织形态；构念强调工作场所所特有的默会知识传授、真实生产环境浸润与劳动力市场快速过渡功能，被欧盟确立为提升职业教育吸引力与缓解青年失业的核心支柱。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -55,7 +55,7 @@ updated: 2026-11-21
 > - **用途** 帮助研究者透视职业技能如何通过身体力行的实务参与转化为可跨企业流通的技术能力。
 > - **边界** 必须包含有计划的教学大纲与资质考核评估，不同于无教学目标的纯粹简单体力劳作。
 
-> [!citation-card|notitle] 欧委会界定工作本位学习为全欧职教核心支柱
+> [!citation-card] 欧委会界定工作本位学习为全欧职教核心支柱
 > 基于工作的学习（如双元制模式）应当成为全欧洲职业教育与培训体系的核心支柱，其目标在于降低青年失业率、促进从学习向就业的平稳过渡，并灵活响应劳动力市场的技能需求。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 512–513)]]
 >
 > *Work-based learning, such as dual approaches, should be a central pillar of vocational education and training systems across Europe, with the aim of reducing youth unemployment, facilitating the transition from learning to employment and responding to the skill needs of the labour market.*

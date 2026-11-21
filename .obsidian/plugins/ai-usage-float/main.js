@@ -201,17 +201,19 @@ var require_collectors = __commonJS({
       }
       return new SourceError("offline", PROVIDERS2[provider].source + " \u672A\u80FD\u8FD4\u56DE\u8BA2\u9605\u989D\u5EA6\u3002");
     }
-    async function executable(bin, provider) {
+    function cliDirectories() {
       const base = homedir();
-      const dirs = [
+      return [.../* @__PURE__ */ new Set([
         ...(process.env.PATH ?? "").split(":").filter(isAbsolute),
         join(base, ".local/bin"),
         join(base, ".grok/bin"),
         "/opt/homebrew/bin",
         "/usr/local/bin",
         "/usr/bin"
-      ];
-      for (const dir of new Set(dirs)) {
+      ])];
+    }
+    async function executable(bin, provider) {
+      for (const dir of cliDirectories()) {
         const path = join(dir, bin);
         try {
           const file = await fs.stat(path);
@@ -237,7 +239,12 @@ var require_collectors = __commonJS({
     function rpc(provider, path, args, initialize, method, signal) {
       return new Promise((resolve, reject) => {
         signal.throwIfAborted();
-        const child = spawn(path, args, { cwd: tmpdir(), stdio: ["pipe", "pipe", "ignore"] });
+        const child = spawn(path, args, {
+          cwd: tmpdir(),
+          stdio: ["pipe", "pipe", "ignore"],
+          // GUI launches can omit the runtime needed by an executable's env shebang.
+          env: { ...process.env, PATH: cliDirectories().join(":") }
+        });
         const timer = setTimeout(() => finish(new SourceError("offline", "\u989D\u5EA6\u67E5\u8BE2\u8D85\u65F6\u3002")), 14e3);
         let pending = "";
         let total = 0;
@@ -739,21 +746,44 @@ var require_view = __commonJS({
         account.windows.forEach((quota) => quotaWindow(grid, quota, status, state.now));
       }
     }
-    function displayGemini(parent, state, actions) {
-      if (!state.settings.enabled.antigravity) {
-        add(parent, "p", "empty", "\u8BF7\u5728\u8BBE\u7F6E\u4E2D\u542F\u7528 Antigravity\u3002");
+    function displayCompactSubscription(parent, id, state, actions) {
+      const subscription = state.rows[id][0];
+      const title = id === "codex" ? "Codex" : PROVIDERS2[id].title;
+      const section = add(parent, "section", "float-service");
+      const heading = add(section, "div", "float-group");
+      add(heading, "span", "", title);
+      if (subscription?.plan) add(heading, "small", "muted", subscription.plan);
+      const busy = state.busy.has(id);
+      control(heading, busy ? title + " \u5237\u65B0\u4E2D" : "\u5237\u65B0 " + title, () => actions.refresh(id), {
+        icon: "refresh-cw",
+        iconOnly: true,
+        name: "icon-button",
+        id: "refresh-" + id,
+        disabled: busy
+      });
+      if (!subscription?.windows.length) {
+        add(section, "p", "muted auf-account-note", subscription?.issue?.message || "\u6682\u65E0\u989D\u5EA6\u3002");
         return;
       }
-      const heading = add(parent, "div", "float-group");
-      add(heading, "span", "", "Antigravity");
+      const status = rowStatus(subscription, state.now, state.settings.interval);
+      if (status) {
+        add(section, "p", "status auf-account-note", [STATUSES[status], freshness(subscription.fetchedAt, state.now)].join(" \xB7 "));
+      }
+      const grid = add(section, "div", "quota-grid");
+      subscription.windows.forEach((quota) => quotaWindow(grid, quota, status, state.now));
+    }
+    function displayGemini(parent, state, actions) {
+      const section = add(parent, "section", "float-service");
+      const heading = add(section, "div", "float-group");
+      add(heading, "span", "", "Antigravity \xB7 Gemini");
       refreshAntigravity(heading, state, actions);
       const accounts = state.rows.antigravity.filter((row) => isAntigravityId2(row.id));
       if (!accounts.length) {
-        add(parent, "p", "empty", state.rows.antigravity[0]?.issue?.message || "\u6682\u65E0 Gemini \u989D\u5EA6\u3002");
+        add(section, "p", "empty", state.rows.antigravity[0]?.issue?.message || "\u6682\u65E0 Gemini \u989D\u5EA6\u3002");
         return;
       }
       for (const row of accounts) {
-        const entry = add(parent, "section", "gemini-account");
+        const entry = add(section, "section", "gemini-account");
         const title = add(entry, "div", "gemini-account-head");
         add(title, "strong", "", accountName2("antigravity", row, state.settings));
         const windows = row.windows.filter((quota) => /^gemini(?:$|[-_])/i.test(quota.id));
@@ -874,11 +904,11 @@ var require_view = __commonJS({
         this.root = add(win.document.body, "aside", "float");
         this.root.id = "auf-floating-panel";
         this.root.hidden = true;
-        this.root.setAttribute("aria-label", "Gemini \u989D\u5EA6");
+        this.root.setAttribute("aria-label", "\u989D\u5EA6\u7528\u91CF");
         this.launcher = control(win.document.body, "\u989D\u5EA6", actions.toggle, { name: "launcher", icon: "chart-no-axes-column" });
         this.launcher.setAttribute("aria-controls", this.root.id);
         this.header = add(this.root, "header", "float-head");
-        this.handle = add(this.header, "div", "handle", "Gemini \u989D\u5EA6");
+        this.handle = add(this.header, "div", "handle", "\u989D\u5EA6\u7528\u91CF");
         this.buttons = add(this.header, "div", "head-buttons");
         this.body = add(this.root, "div", "float-body");
         this.footer = add(this.root, "footer", "float-foot");
@@ -926,9 +956,14 @@ var require_view = __commonJS({
           }
           if (collapsed) return;
           this.body.replaceChildren();
-          displayGemini(this.body, state, this.actions);
+          const ids = ["codex", "grok", "antigravity"].filter((id) => state.settings.enabled[id]);
+          for (const id of ids) {
+            if (id === "antigravity") displayGemini(this.body, state, this.actions);
+            else displayCompactSubscription(this.body, id, state, this.actions);
+          }
+          if (!ids.length) add(this.body, "p", "empty", "\u8BF7\u5728\u8BBE\u7F6E\u4E2D\u542F\u7528\u8981\u67E5\u770B\u7684\u670D\u52A1\u3002");
           this.body.scrollTop = scroll;
-          this.footer.textContent = state.busy.has("antigravity") ? "\u6B63\u5728\u67E5\u8BE2 Gemini \u989D\u5EA6\u2026" : "\u767E\u5206\u6BD4\u4E3A\u5269\u4F59\u989D\u5EA6";
+          this.footer.textContent = ids.some((id) => state.busy.has(id)) ? "\u6B63\u5728\u67E5\u8BE2\u989D\u5EA6\u2026" : "\u767E\u5206\u6BD4\u4E3A\u5269\u4F59\u989D\u5EA6";
         });
         this.place();
       }
@@ -1258,23 +1293,23 @@ var UsageFloatPlugin = class extends Plugin {
     await Promise.all(selected.filter((id) => this.preferences.enabled[id]).map((id) => this.refreshProvider(id, accountId)));
   }
   async refreshFromControl(onlyProvider, accountId) {
-    if (onlyProvider && onlyProvider !== "antigravity" || !this.preferences.enabled.antigravity) {
-      return this.refresh(onlyProvider, accountId);
-    }
-    if (this.busy.has("antigravity")) {
-      new Notice("Antigravity \u6B63\u5728\u67E5\u8BE2\u989D\u5EA6\u3002");
+    const id = onlyProvider ?? "antigravity";
+    if (!this.preferences.enabled[id]) return this.refresh(onlyProvider, accountId);
+    const title = id === "codex" ? "Codex" : PROVIDERS[id].title;
+    if (this.busy.has(id)) {
+      new Notice(title + " \u6B63\u5728\u67E5\u8BE2\u989D\u5EA6\u3002");
       return;
     }
-    const previous = new Map(this.rows.antigravity.map((row) => [row.id, row.fetchedAt]));
+    const previous = new Map(this.rows[id].map((row) => [row.id, row.fetchedAt]));
     await this.refresh(onlyProvider, accountId);
-    if (this.lifetime.signal.aborted) return;
-    const rows = this.rows.antigravity.filter((row) => !accountId || row.id === accountId);
+    if (this.lifetime.signal.aborted || !this.preferences.enabled[id]) return;
+    const rows = this.rows[id].filter((row) => !accountId || row.id === accountId);
     if (rows.some((row) => !row.issue && row.fetchedAt > (previous.get(row.id) ?? 0))) {
-      new Notice("Antigravity \u989D\u5EA6\u5DF2\u66F4\u65B0\u3002");
+      new Notice(title + " \u989D\u5EA6\u5DF2\u66F4\u65B0\u3002");
       return;
     }
     const reason = rows.find((row) => row.issue)?.issue?.message;
-    const summary = rows.some((row) => row.windows.length) ? "Antigravity \u4FDD\u7559\u4E86\u4E0A\u6B21\u5FEB\u7167\u3002" : "Antigravity \u672A\u53D6\u5F97\u989D\u5EA6\u3002";
+    const summary = title + (rows.some((row) => row.windows.length) ? " \u4FDD\u7559\u4E86\u4E0A\u6B21\u5FEB\u7167\u3002" : " \u672A\u53D6\u5F97\u989D\u5EA6\u3002");
     new Notice([summary, reason].filter(Boolean).join("\n"), 7e3);
   }
   async refreshProvider(id, accountId) {

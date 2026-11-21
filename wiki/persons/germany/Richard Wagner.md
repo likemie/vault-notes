@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 8
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -60,7 +60,7 @@ updated: 2026-11-21
 > - **1813** 出生于莱比锡。
 > - **1849** 参与德累斯顿起义后流亡瑞士，相继发表《艺术与革命》与《未来的艺术作品》，系统阐述总体艺术构想。
 > - **1851** 完成长篇理论专著《歌剧与戏剧》，确立诗歌与音乐在音乐剧中的有机共生法则。
-> - **1872** 尼采发表《悲剧的诞生》盛赞瓦格纳；同年拜罗伊特节日剧院奠基。
+> - **1872** 尼采发表《悲剧的诞生》盛赞瓦格纳；同年拜罗伊特节日剧院破土动工。
 > - **1876** 首届拜罗伊特音乐节上演四联剧《尼伯龙根的指环》。
 > - **1882** 舞台神圣祝圣剧《帕西法尔》首演。
 > - **1883** 逝世于威尼斯。
@@ -75,7 +75,7 @@ updated: 2026-11-21
 ---
 
 > [!person-thesis] 主张一｜总体艺术作品以综合戏剧重构文化新神话，试图恢复艺术的绝对必要性
-> 瓦格纳试图打破近代各艺术门类的孤立状态，将诗、音乐与舞台造型统摄于总体艺术作品（*Gesamtkunstwerk*）之中。这一构想不仅旨在超越传统歌剧作为感官娱乐的附庸地位，更试图通过集体的艺术庆典与神话再现，为现代社会重建共享的文化视域（[[New Mythology|新神话]]），从而恢复艺术在共同体公共生活中的绝对必要性与精神引领力量（[[Argument_Hammermeister_2002_Cambridge_Ch07|Hammermeister, 2002, pp. 138, 141–143]]）。
+> 瓦格纳试图打破近代各艺术门类的孤立状态，将诗、音乐与舞台造型融汇于总体艺术作品（*Gesamtkunstwerk*）之中。这一构想不仅旨在超越传统歌剧作为感官娱乐的附庸地位，更试图通过集体的艺术庆典与神话再现，为现代社会重建共享的文化视域（[[New Mythology|新神话]]），从而恢复艺术在共同体公共生活中的绝对必要性与精神引领力量（[[Argument_Hammermeister_2002_Cambridge_Ch07|Hammermeister, 2002, pp. 138, 141–143]]）。
 >
 > > [!thesis-quote] 《未来的艺术作品》（1849）
 > > 伟大的总体艺术作品必须包容所有艺术门类，将每一种艺术手段运用于共同目的的实现；唯有在集体艺术中，各门艺术才能克服自身的孤立与片面性。
@@ -97,7 +97,7 @@ updated: 2026-11-21
 > - **海德格尔艺术史叙事的第五阶段** 在海德格尔重构的西方艺术衰落六阶段叙事中，瓦格纳代表第五阶段（19 世纪），其试图重申艺术绝对必要性的努力反而使艺术消解为单纯的情绪化与虚无，以情感陶醉补偿贫瘠的技术化生存，却无力为伟大诗歌与思想提供方向。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, p. 175)]]
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 梳理瓦格纳在德国美学史中的定位与批评谱系：[[Argument_Hammermeister_2002_Cambridge_Ch01|前言与第 1 章]]阐明哲学美学通史对实践艺术家随笔的编纂边界（第 xiii–xiv 页）；[[Argument_Hammermeister_2002_Cambridge_Ch06|第 6 章]]论其承接叔本华音乐形而上学（第 111 页）；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]析尼采早期推崇与晚期生理学断裂（第 138, 141–147 页）；[[Argument_Hammermeister_2002_Cambridge_Ch09|第 9 章]]转述海德格尔对艺术感伤化与虚无主义的批判（第 175 页）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 析瓦格纳美学坐标：[[Argument_Hammermeister_2002_Cambridge_Ch01|前言]]论通史编纂边界；[[Argument_Hammermeister_2002_Cambridge_Ch06|第 6 章]]论叔本华启发；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]论尼采生理学断裂；[[Argument_Hammermeister_2002_Cambridge_Ch09|第 9 章]]论海德格尔虚无主义批评。
 
 ---
 

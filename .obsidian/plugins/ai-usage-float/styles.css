@@ -258,6 +258,14 @@ button.auf-launcher[aria-expanded="true"] {
   gap: 5px;
   font-weight: 600;
 }
+.auf-float-service + .auf-float-service {
+  border-top: 1px solid var(--auf-line);
+  margin-top: 7px;
+  padding-top: 3px;
+}
+.auf-float-group .auf-icon-button {
+  margin-inline-start: auto;
+}
 .auf-float button.auf-refresh-current,
 .auf-modal button.auf-refresh-current {
   height: 26px;
@@ -265,7 +273,7 @@ button.auf-launcher[aria-expanded="true"] {
   padding: 0 4px;
   font-size: 12px;
 }
-.auf-gemini-account .auf-quota:last-child:nth-child(odd) {
+.auf-float-service .auf-quota:last-child:nth-child(odd) {
   grid-column: 1 / -1;
 }
 .auf-modal {

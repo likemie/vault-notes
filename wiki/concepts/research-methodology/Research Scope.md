@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-20
-updated: 2026-11-11
+updated: 2026-11-21
 ---
 
 ---
@@ -62,7 +62,7 @@ updated: 2026-11-11
 > - **用途** 帮助研究者在选题阶段画出审慎的边界，清晰界定研究将做什么和不做什么。清晰、可感知、现实、公平和可管理的边界是研究成立的前提。
 > - **边界** 收窄范围不等于降低研究价值。Axline（1964）聚焦单一儿童产生心理治疗经典，[[Jean Piaget|皮亚杰]]（Piaget, 1932）观察少数儿童构建道德发展理论，均证明了窄聚焦所蕴含的重大理论力量。
 
-> [!citation-card|notitle] 关键表述：吃大象与研究规划中的范围管理
+> [!citation-card] 研究规划中的范围管理与吃大象隐喻
 > 我们建议一项研究保持狭窄和有限的范围，以实现可管理性与严谨性。俗话说“吃大象的最佳方式是一次一口”！研究者必须为研究设定清晰、可感知、现实、公平和可管理的边界。如果无法直截了当地做到这一点，研究者也许应重新考虑是否继续推进该计划，因为失控的研究可能会漫游各处，实际上哪里也去不了。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|(Cohen et al., 2011, pp. 92–93)]]
 >
 > *Principally, we advise a single piece of research to be narrow and limited in scope in order to [[Achieve]] manageability as well as rigour. As the saying goes 'the best way to eat an elephant is one bite at a time'! Researchers will need to put clear, perceptible, realistic, fair and manageable boundaries round their research. If this cannot be done straightforwardly then maybe the researcher should reconsider whether to proceed with the planned enterprise, as uncontrolled research may wander everywhere and actually arrive nowhere.*

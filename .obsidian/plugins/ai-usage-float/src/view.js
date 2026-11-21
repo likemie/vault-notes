@@ -110,21 +110,41 @@ function displayAccount(parent, id, account, state, actions) {
   }
 }
 
-function displayGemini(parent, state, actions) {
-  if (!state.settings.enabled.antigravity) {
-    add(parent, "p", "empty", "请在设置中启用 Antigravity。");
+function displayCompactSubscription(parent, id, state, actions) {
+  const subscription = state.rows[id][0];
+  const title = id === "codex" ? "Codex" : PROVIDERS[id].title;
+  const section = add(parent, "section", "float-service");
+  const heading = add(section, "div", "float-group");
+  add(heading, "span", "", title);
+  if (subscription?.plan) add(heading, "small", "muted", subscription.plan);
+  const busy = state.busy.has(id);
+  control(heading, busy ? title + " 刷新中" : "刷新 " + title, () => actions.refresh(id), {
+    icon: "refresh-cw", iconOnly: true, name: "icon-button", id: "refresh-" + id, disabled: busy,
+  });
+  if (!subscription?.windows.length) {
+    add(section, "p", "muted auf-account-note", subscription?.issue?.message || "暂无额度。");
     return;
   }
-  const heading = add(parent, "div", "float-group");
-  add(heading, "span", "", "Antigravity");
+  const status = rowStatus(subscription, state.now, state.settings.interval);
+  if (status) {
+    add(section, "p", "status auf-account-note", [STATUSES[status], freshness(subscription.fetchedAt, state.now)].join(" · "));
+  }
+  const grid = add(section, "div", "quota-grid");
+  subscription.windows.forEach(quota => quotaWindow(grid, quota, status, state.now));
+}
+
+function displayGemini(parent, state, actions) {
+  const section = add(parent, "section", "float-service");
+  const heading = add(section, "div", "float-group");
+  add(heading, "span", "", "Antigravity · Gemini");
   refreshAntigravity(heading, state, actions);
   const accounts = state.rows.antigravity.filter(row => isAntigravityId(row.id));
   if (!accounts.length) {
-    add(parent, "p", "empty", state.rows.antigravity[0]?.issue?.message || "暂无 Gemini 额度。");
+    add(section, "p", "empty", state.rows.antigravity[0]?.issue?.message || "暂无 Gemini 额度。");
     return;
   }
   for (const row of accounts) {
-    const entry = add(parent, "section", "gemini-account");
+    const entry = add(section, "section", "gemini-account");
     const title = add(entry, "div", "gemini-account-head");
     add(title, "strong", "", accountName("antigravity", row, state.settings));
     const windows = row.windows.filter(quota => /^gemini(?:$|[-_])/i.test(quota.id));
@@ -250,11 +270,11 @@ class FloatingPanel {
     this.root = add(win.document.body, "aside", "float");
     this.root.id = "auf-floating-panel";
     this.root.hidden = true;
-    this.root.setAttribute("aria-label", "Gemini 额度");
+    this.root.setAttribute("aria-label", "额度用量");
     this.launcher = control(win.document.body, "额度", actions.toggle, { name: "launcher", icon: "chart-no-axes-column" });
     this.launcher.setAttribute("aria-controls", this.root.id);
     this.header = add(this.root, "header", "float-head");
-    this.handle = add(this.header, "div", "handle", "Gemini 额度");
+    this.handle = add(this.header, "div", "handle", "额度用量");
     this.buttons = add(this.header, "div", "head-buttons");
     this.body = add(this.root, "div", "float-body");
     this.footer = add(this.root, "footer", "float-foot");
@@ -295,9 +315,14 @@ class FloatingPanel {
       }
       if (collapsed) return;
       this.body.replaceChildren();
-      displayGemini(this.body, state, this.actions);
+      const ids = ["codex", "grok", "antigravity"].filter(id => state.settings.enabled[id]);
+      for (const id of ids) {
+        if (id === "antigravity") displayGemini(this.body, state, this.actions);
+        else displayCompactSubscription(this.body, id, state, this.actions);
+      }
+      if (!ids.length) add(this.body, "p", "empty", "请在设置中启用要查看的服务。");
       this.body.scrollTop = scroll;
-      this.footer.textContent = state.busy.has("antigravity") ? "正在查询 Gemini 额度…" : "百分比为剩余额度";
+      this.footer.textContent = ids.some(id => state.busy.has(id)) ? "正在查询额度…" : "百分比为剩余额度";
     });
     this.place();
   }

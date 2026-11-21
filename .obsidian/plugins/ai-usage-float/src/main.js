@@ -163,23 +163,23 @@ class UsageFloatPlugin extends Plugin {
   }
 
   async refreshFromControl(onlyProvider, accountId) {
-    if ((onlyProvider && onlyProvider !== "antigravity") || !this.preferences.enabled.antigravity) {
-      return this.refresh(onlyProvider, accountId);
-    }
-    if (this.busy.has("antigravity")) {
-      new Notice("Antigravity 正在查询额度。");
+    const id = onlyProvider ?? "antigravity";
+    if (!this.preferences.enabled[id]) return this.refresh(onlyProvider, accountId);
+    const title = id === "codex" ? "Codex" : PROVIDERS[id].title;
+    if (this.busy.has(id)) {
+      new Notice(title + " 正在查询额度。");
       return;
     }
-    const previous = new Map(this.rows.antigravity.map(row => [row.id, row.fetchedAt]));
+    const previous = new Map(this.rows[id].map(row => [row.id, row.fetchedAt]));
     await this.refresh(onlyProvider, accountId);
-    if (this.lifetime.signal.aborted) return;
-    const rows = this.rows.antigravity.filter(row => !accountId || row.id === accountId);
+    if (this.lifetime.signal.aborted || !this.preferences.enabled[id]) return;
+    const rows = this.rows[id].filter(row => !accountId || row.id === accountId);
     if (rows.some(row => !row.issue && row.fetchedAt > (previous.get(row.id) ?? 0))) {
-      new Notice("Antigravity 额度已更新。");
+      new Notice(title + " 额度已更新。");
       return;
     }
     const reason = rows.find(row => row.issue)?.issue?.message;
-    const summary = rows.some(row => row.windows.length) ? "Antigravity 保留了上次快照。" : "Antigravity 未取得额度。";
+    const summary = title + (rows.some(row => row.windows.length) ? " 保留了上次快照。" : " 未取得额度。");
     new Notice([summary, reason].filter(Boolean).join("\n"), 7000);
   }
 

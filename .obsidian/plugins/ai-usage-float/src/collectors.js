@@ -40,13 +40,16 @@ function rpcError(provider, content) {
   return new SourceError("offline", PROVIDERS[provider].source + " 未能返回订阅额度。");
 }
 
-async function executable(bin, provider) {
+function cliDirectories() {
   const base = homedir();
-  const dirs = [
+  return [...new Set([
     ...(process.env.PATH ?? "").split(":").filter(isAbsolute),
     join(base, ".local/bin"), join(base, ".grok/bin"), "/opt/homebrew/bin", "/usr/local/bin", "/usr/bin",
-  ];
-  for (const dir of new Set(dirs)) {
+  ])];
+}
+
+async function executable(bin, provider) {
+  for (const dir of cliDirectories()) {
     const path = join(dir, bin);
     try {
       const file = await fs.stat(path);
@@ -69,7 +72,11 @@ function command(path, args, signal, options = {}) {
 function rpc(provider, path, args, initialize, method, signal) {
   return new Promise((resolve, reject) => {
     signal.throwIfAborted();
-    const child = spawn(path, args, { cwd: tmpdir(), stdio: ["pipe", "pipe", "ignore"] });
+    const child = spawn(path, args, {
+      cwd: tmpdir(), stdio: ["pipe", "pipe", "ignore"],
+      // GUI launches can omit the runtime needed by an executable's env shebang.
+      env: { ...process.env, PATH: cliDirectories().join(":") },
+    });
     const timer = setTimeout(() => finish(new SourceError("offline", "额度查询超时。")), 14_000);
     let pending = "";
     let total = 0;
