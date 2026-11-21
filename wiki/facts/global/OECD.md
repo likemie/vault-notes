@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 197
+fact_related_count: 198
 fact_related_level: 19
 fact_related_stars: "💎💎💎💎💎💎⭐"
 fact_related_color: "#fecdd3"
@@ -205,6 +205,7 @@ related_facts:
   - "[[World Education Reform Database]]"
   - "[[European Commission]]"
 related_arguments:
+  - "[[Argument_Ertl_2006_ORE]]"
   - "[[Argument_Klerides_2023_CE]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Freeman_1995_CJE]]"
@@ -509,6 +510,7 @@ updated: 2026-11-21
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 阐明 OECD 的 PISA 测评与指标报告（EAG）如何暴露德国教育体制的深层社会经济梯度，并推动德国从输入导向教学论规制转向产出导向国家教育标准（pp. 619–620, 627–628）。
 > - [[Argument_Nordtveit_2011_IJED|Nordtveit (2011)]] — 将中国对非教育合作模式与 OECD-DAC 传统官方发展援助（ODA）框架进行制度对比，阐明新兴援助主体在不附带政治条件与项目直达上的差异。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 运用国际关系理论透镜剖析 OECD 远处治理、量化排名与知识霸权对主权国家教育体系的规训。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 运用[[World Education Reform Database|世界教育改革数据库]]实证检验 OECD 政策中介机制、挪威课程改革中的中介垄断以及跨国机构竞争。

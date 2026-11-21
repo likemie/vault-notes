@@ -13325,11 +13325,15 @@
     "K.S., 1967": "K.S., 1967",
     "K.S., 1989": "K.S., 1989",
     "KMK (1995)": "KMK, 1995",
+    "KMK (2002)": "KMK, 2002",
+    "KMK (2004)": "KMK, 2004",
     "KMK (2005)": "KMK, 2005",
     "KMK (2006)": "KMK, 2006",
     "KMK (2015)": "KMK, 2015",
     "KMK (2019)": "KMK, 2019",
     "KMK, 1995": "KMK, 1995",
+    "KMK, 2002": "KMK, 2002",
+    "KMK, 2004": "KMK, 2004",
     "KMK, 2005": "KMK, 2005",
     "KMK, 2006": "KMK, 2006",
     "KMK, 2015": "KMK, 2015",
@@ -127445,6 +127449,36 @@
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
       "title": "Standards für den Mittleren Schulabschluss in den Fächern Deutsch, Mathematik und erste Fremdsprache"
+    },
+    "KMK, 2002": {
+      "aliases": [
+        "KMK, 2002",
+        "KMK (2002)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "KMK, 2002"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/germany/Standing Conference of the Ministers of Education and Cultural Affairs.md"
+      ],
+      "title": ""
+    },
+    "KMK, 2004": {
+      "aliases": [
+        "KMK, 2004",
+        "KMK (2004)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "KMK, 2004"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/germany/Standing Conference of the Ministers of Education and Cultural Affairs.md"
+      ],
+      "title": ""
     },
     "KMK, 2005": {
       "aliases": [
