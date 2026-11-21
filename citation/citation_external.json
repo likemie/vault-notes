@@ -1500,6 +1500,7 @@
     "BLV (2013)": "BLV, 2013",
     "BLV, 2013": "BLV, 2013",
     "BMBF (2003)": "BMBF, 2003",
+    "BMBF (2005)": "BMBF, 2005",
     "BMBF (2007)": "BMBF, 2007",
     "BMBF (2013a)": "BMBF, 2013a",
     "BMBF (2013b)": "BMBF, 2013b",
@@ -1513,6 +1514,7 @@
     "BMBF (2024a)": "BMBF, 2024a",
     "BMBF (2024b)": "BMBF, 2024b",
     "BMBF, 2003": "BMBF, 2003",
+    "BMBF, 2005": "BMBF, 2005",
     "BMBF, 2007": "BMBF, 2007",
     "BMBF, 2013a": "BMBF, 2013a",
     "BMBF, 2013b": "BMBF, 2013b",
@@ -2119,7 +2121,9 @@
     "Baumer (2005)": "Baumer, 2005",
     "Baumer, 2005": "Baumer, 2005",
     "Baumert & Schümer (2001)": "Baumert & Schümer, 2001",
+    "Baumert & Schümer (2002)": "Baumert & Schümer, 2002",
     "Baumert & Schümer, 2001": "Baumert & Schümer, 2001",
+    "Baumert & Schümer, 2002": "Baumert & Schümer, 2002",
     "Baumert et al. (2001)": "Baumert et al., 2001",
     "Baumert et al. (2002)": "Baumert et al., 2002",
     "Baumert et al. (2003)": "Baumert et al., 2003",
@@ -6602,10 +6606,11 @@
     "Deutscher Bundestag - wissenschaftliche Dienste (2016)": "Deutscher Bundestag - wissenschaftliche Dienste, 2016",
     "Deutscher Bundestag - wissenschaftliche Dienste, 2016": "Deutscher Bundestag - wissenschaftliche Dienste, 2016",
     "Deutsches PISA-Konsortium (2001)": "Deutsches PISA-Konsortium, 2001",
-    "Deutsches PISA-Konsortium (2003)": "Deutsches PISA-Konsortium, 2003",
+    "Deutsches PISA-Konsortium (2003a)": "Deutsches PISA-Konsortium, 2003a",
+    "Deutsches PISA-Konsortium (2003b)": "Deutsches PISA-Konsortium, 2003b",
     "Deutsches PISA-Konsortium, 2001": "Deutsches PISA-Konsortium, 2001",
-    "Deutsches PISA-Konsortium, 2003": "Deutsches PISA-Konsortium, 2003",
-    "Deutsches PISA-Konsortium, 2003b": "Deutsches PISA-Konsortium, 2003",
+    "Deutsches PISA-Konsortium, 2003a": "Deutsches PISA-Konsortium, 2003a",
+    "Deutsches PISA-Konsortium, 2003b": "Deutsches PISA-Konsortium, 2003b",
     "Deutsches Zentrum für Luft- und Raumfahrt (2017)": "Deutsches Zentrum für Luft- und Raumfahrt, 2017",
     "Deutsches Zentrum für Luft- und Raumfahrt (2018)": "Deutsches Zentrum für Luft- und Raumfahrt, 2018",
     "Deutsches Zentrum für Luft- und Raumfahrt (2019)": "Deutsches Zentrum für Luft- und Raumfahrt, 2019",
@@ -7871,6 +7876,8 @@
     "Ertl & Phillips (2006)": "Ertl & Phillips, 2006",
     "Ertl & Phillips, 2000": "Ertl & Phillips, 2000",
     "Ertl & Phillips, 2006": "Ertl & Phillips, 2006",
+    "Ertl (2005)": "Ertl, 2005",
+    "Ertl, 2005": "Ertl, 2005",
     "Erwin Epstein (1970)": "Erwin Epstein, 1970",
     "Erwin Epstein (1981)": "Erwin Epstein, 1981",
     "Erwin Epstein, 1970": "Erwin Epstein, 1970",
@@ -12335,7 +12342,9 @@
     "INES, 1988": "INES, 1988",
     "IPN (2004)": "IPN, 2004",
     "IPN, 2004": "IPN, 2004",
+    "IQB (2006)": "IQB, 2006",
     "IQB (2016)": "IQB, 2016",
+    "IQB, 2006": "IQB, 2006",
     "IQB, 2016": "IQB, 2016",
     "Ialongo (1999)": "Ialongo, 1999",
     "Ialongo, 1999": "Ialongo, 1999",
@@ -13281,10 +13290,12 @@
     "K.S. (1989)": "K.S., 1989",
     "K.S., 1967": "K.S., 1967",
     "K.S., 1989": "K.S., 1989",
+    "KMK (1995)": "KMK, 1995",
     "KMK (2005)": "KMK, 2005",
     "KMK (2006)": "KMK, 2006",
     "KMK (2015)": "KMK, 2015",
     "KMK (2019)": "KMK, 2019",
+    "KMK, 1995": "KMK, 1995",
     "KMK, 2005": "KMK, 2005",
     "KMK, 2006": "KMK, 2006",
     "KMK, 2015": "KMK, 2015",
@@ -14200,8 +14211,10 @@
     "Kleven (2017)": "Kleven, 2017",
     "Kleven, 1995": "Kleven, 1995",
     "Kleven, 2017": "Kleven, 2017",
+    "Klieme (2003)": "Klieme, 2003",
     "Klieme et al. (2003)": "Klieme et al., 2003",
     "Klieme et al., 2003": "Klieme et al., 2003",
+    "Klieme, 2003": "Klieme, 2003",
     "Klimova & de Campos (2024)": "Klimova & de Campos, 2024",
     "Klimova & de Campos, 2024": "Klimova & de Campos, 2024",
     "Kline & Rosenberg (1986)": "Kline & Rosenberg, 1986",
@@ -19287,6 +19300,7 @@
     "OECD (2000)": "OECD, 2000",
     "OECD (2001)": "OECD, 2001",
     "OECD (2002)": "OECD, 2002",
+    "OECD (2004)": "OECD, 2004",
     "OECD (2005)": "OECD, 2005",
     "OECD (2006)": "OECD, 2006",
     "OECD (2007)": "OECD, 2007",
@@ -19330,6 +19344,7 @@
     "OECD, 2000": "OECD, 2000",
     "OECD, 2001": "OECD, 2001",
     "OECD, 2002": "OECD, 2002",
+    "OECD, 2004": "OECD, 2004",
     "OECD, 2005": "OECD, 2005",
     "OECD, 2006": "OECD, 2006",
     "OECD, 2007": "OECD, 2007",
@@ -19625,8 +19640,10 @@
     "Osorio Gonnet, 2018": "Osorio Gonnet, 2018",
     "Osses et al. (2015)": "Osses et al., 2015",
     "Osses et al., 2015": "Osses et al., 2015",
+    "Ostermann (2005)": "Ostermann, 2005",
     "Ostermann et al. (2022)": "Ostermann et al., 2022",
     "Ostermann et al., 2022": "Ostermann et al., 2022",
+    "Ostermann, 2005": "Ostermann, 2005",
     "Ostovar (2023)": "Ostovar, 2023",
     "Ostovar, 2023": "Ostovar, 2023",
     "Otaghi et al. (2019)": "Otaghi et al., 2019",
@@ -22385,6 +22402,8 @@
     "Rüdiger Bubner, 1973": "Rüdiger Bubner, 1973",
     "Rüdiger Fahlenbrach (2009)": "Rüdiger Fahlenbrach, 2009",
     "Rüdiger Fahlenbrach, 2009": "Rüdiger Fahlenbrach, 2009",
+    "Rürup (2005)": "Rürup, 2005",
+    "Rürup, 2005": "Rürup, 2005",
     "SAMSUNG (2023)": "SAMSUNG, 2023",
     "SAMSUNG, 2023": "SAMSUNG, 2023",
     "SEAMEO RIHED (2008)": "SEAMEO RIHED, 2008",
@@ -23150,6 +23169,8 @@
     "Schwab & Roby, 1986": "Schwab & Roby, 1986",
     "Schwab (1969)": "Schwab, 1969",
     "Schwab, 1969": "Schwab, 1969",
+    "Schwager (2005)": "Schwager, 2005",
+    "Schwager, 2005": "Schwager, 2005",
     "Schwalb et al. (1986)": "Schwalb et al., 1986",
     "Schwalb et al., 1986": "Schwalb et al., 1986",
     "Schwandt (2014)": "Schwandt, 2014",
@@ -24606,7 +24627,9 @@
     "Statistik Austria (2016)": "Statistik Austria, 2016",
     "Statistik Austria, 2016": "Statistik Austria, 2016",
     "Statistisches Bundesamt (2001)": "Statistisches Bundesamt, 2001",
+    "Statistisches Bundesamt (2006)": "Statistisches Bundesamt, 2006",
     "Statistisches Bundesamt, 2001": "Statistisches Bundesamt, 2001",
+    "Statistisches Bundesamt, 2006": "Statistisches Bundesamt, 2006",
     "Staunton (2003)": "Staunton, 2003",
     "Staunton, 2003": "Staunton, 2003",
     "Stecher et al. (1998)": "Stecher et al., 1998",
@@ -28885,6 +28908,8 @@
     "noted by Smith, 2000": "noted by Smith, 2000",
     "ter Beek (2019)": "ter Beek, 2019",
     "ter Beek, 2019": "ter Beek, 2019",
+    "van Ackeren (2003)": "van Ackeren, 2003",
+    "van Ackeren, 2003": "van Ackeren, 2003",
     "van Alten (2020a)": "van Alten, 2020a",
     "van Alten (2020b)": "van Alten, 2020b",
     "van Alten et al. (2019)": "van Alten et al., 2019",
@@ -29593,8 +29618,6 @@
     "蔺亚琼与李紫玲, 2021": "蔺亚琼与李紫玲, 2021",
     "行为经济 (2024)": "行为经济, 2024",
     "行为经济, 2024": "行为经济, 2024",
-    "行动计划 (2005)": "行动计划, 2005",
-    "行动计划, 2005": "行动计划, 2005",
     "袁振国 (2017)": "袁振国, 2017",
     "袁振国, 2017": "袁振国, 2017",
     "被马奥尼与希伦 (2009)": "被马奥尼与希伦, 2009",
@@ -38543,7 +38566,7 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26.md",
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
-      "title": ""
+      "title": "Kompetenzentwicklung. Anmerkungen zur Proklamation einer konzeptionellen Wende in der Berufs- und Erwachsenenpädagogik"
     },
     "Arnold, 2002": {
       "aliases": [
@@ -40599,7 +40622,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
-      "title": ""
+      "title": "Lesen in Deutschland. Aktionsrahmen zur Förderung der Lesekultur von Kindern und Jugendlichen im außerschulischen Bereich"
     },
     "BLK, 2004": {
       "aliases": [
@@ -40614,7 +40637,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
-      "title": ""
+      "title": "Vorschläge zur Verbesserung der Bildungsberatung für Personen mit Migrationshintergrund"
     },
     "BLV, 2013": {
       "aliases": [
@@ -40644,7 +40667,22 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
-      "title": ""
+      "title": "Vertiefender Vergleich der Schulsysteme ausgewählter PISA-Staaten"
+    },
+    "BMBF, 2005": {
+      "aliases": [
+        "BMBF, 2005",
+        "BMBF (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "BMBF, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+      ],
+      "title": "Was ist seit PISA geschehen?"
     },
     "BMBF, 2007": {
       "aliases": [
@@ -41208,7 +41246,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
-      "title": ""
+      "title": "Leitziel der Berufsbildung: Handlungskompetenz: Anregungen zur Ausdifferenzierung des Begriffs"
     },
     "Bae & Sahin, 2021": {
       "aliases": [
@@ -45197,12 +45235,25 @@
       "identity_keys": [
         "Baumert & Schümer, 2001"
       ],
-      "isbn": "",
+      "isbn": "978-3-8100-3344-4",
       "seen_in": [
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
         "wiki/concepts/comparative-education/Tripartite School System.md"
       ],
-      "title": ""
+      "title": "Familiäre Lebensverhältnisse, Bildungsbeteiligung und Kompetenzerwerb"
+    },
+    "Baumert & Schümer, 2002": {
+      "aliases": [
+        "Baumert & Schümer, 2002",
+        "Baumert & Schümer (2002)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Baumert & Schümer, 2002"
+      ],
+      "isbn": "978-3-8100-3663-6",
+      "seen_in": [],
+      "title": "Familiäre Lebensverhältnisse, Bildungsbeteiligung und Kompetenzerwerb im nationalen Vergleich"
     },
     "Baumert et al., 2001": {
       "aliases": [
@@ -45230,11 +45281,11 @@
       "identity_keys": [
         "Baumert et al., 2002"
       ],
-      "isbn": "",
+      "isbn": "978-3-8100-3663-6",
       "seen_in": [
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
-      "title": ""
+      "title": "Pisa 2000—Die Länder der Bundesrepublik Deutschland im Vergleich"
     },
     "Baumert et al., 2003": {
       "aliases": [
@@ -45249,7 +45300,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
-      "title": ""
+      "title": "Pisa 2000—Ein differenzierter Blick auf die Länder der Bundesrepublik Deutschland: Zusammenfassung zentraler Befunde"
     },
     "Baumert et al., 2010": {
       "aliases": [
@@ -46029,7 +46080,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
-      "title": ""
+      "title": "OECD—Nachprüfung nicht bestanden"
     },
     "Beckmann, 2009": {
       "aliases": [
@@ -51663,7 +51714,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
-      "title": ""
+      "title": "Empirische Unterrichtsforschung und Allgemeine Didaktik. Entstehung, Situation und Konsequenzen eines prekären Spannungsverhältnisses im Kontext der PISA-Studie"
     },
     "Boice, 1990": {
       "aliases": [
@@ -52887,11 +52938,11 @@
       "identity_keys": [
         "Bos et al., 2003"
       ],
-      "isbn": "",
+      "isbn": "978-3-8309-1300-9",
       "seen_in": [
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
-      "title": ""
+      "title": "Erste Ergebnisse aus IGLU. Schülerleistungen am Ende der vierten Jahrgangsstufe im internationalen Vergleich"
     },
     "Bos et al., 2012": {
       "aliases": [
@@ -57748,7 +57799,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
-      "title": ""
+      "title": "Bildungsstandards: Die neue curriculare Welt nach PISA"
     },
     "Bunge, 1985": {
       "aliases": [
@@ -73939,7 +73990,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
-      "title": ""
+      "title": "Gemeinsame Erklärung von BDA und DGB zu den Konsequenzen aus den Ergebnissen von PISA II"
     },
     "DGB, 2019": {
       "aliases": [
@@ -78193,16 +78244,29 @@
       "identity_keys": [
         "Deutsches PISA-Konsortium, 2001"
       ],
-      "isbn": "",
+      "isbn": "978-3-8100-3344-4",
       "seen_in": [
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
-      "title": ""
+      "title": "PISA 2000. Basiskompetenz von Schülerinnen und Schülern im internationalen Vergleich"
     },
-    "Deutsches PISA-Konsortium, 2003": {
+    "Deutsches PISA-Konsortium, 2003a": {
       "aliases": [
-        "Deutsches PISA-Konsortium, 2003",
-        "Deutsches PISA-Konsortium (2003)"
+        "Deutsches PISA-Konsortium, 2003a",
+        "Deutsches PISA-Konsortium (2003a)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Deutsches PISA-Konsortium, 2003a"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "PISA 2003: Ergebnisse des zweiten internationalen Vergleichs. Zusammenfassung"
+    },
+    "Deutsches PISA-Konsortium, 2003b": {
+      "aliases": [
+        "Deutsches PISA-Konsortium, 2003b",
+        "Deutsches PISA-Konsortium (2003b)"
       ],
       "doi": "",
       "identity_keys": [
@@ -78212,7 +78276,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
-      "title": ""
+      "title": "PISA 2003: Ergebnisse des zweiten Ländervergleichs. Zusammenfassung"
     },
     "Deutsches Zentrum für Luft- und Raumfahrt, 2017": {
       "aliases": [
@@ -87150,7 +87214,7 @@
         "Erikson et al., 1979",
         "Erikson et al. (1979)"
       ],
-      "doi": "",
+      "doi": "10.2307/589716",
       "identity_keys": [
         "Erikson et al., 1979"
       ],
@@ -87158,7 +87222,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
-      "title": ""
+      "title": "Intergenerational class mobility in three Western European societies: England, France and Sweden"
     },
     "Erikson, 1967": {
       "aliases": [
@@ -87453,6 +87517,21 @@
         "wiki/facts/eu/Education and Training 2010.md"
       ],
       "title": ""
+    },
+    "Ertl, 2005": {
+      "aliases": [
+        "Ertl, 2005",
+        "Ertl (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ertl, 2005"
+      ],
+      "isbn": "978-3-933436-67-2",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+      ],
+      "title": "Das Kompetenzkonzept: Zugänge zur Diskussion in der deutschen Berufs- und Wirtschaftspädagogik"
     },
     "Erwin Epstein, 1970": {
       "aliases": [
@@ -96997,7 +97076,7 @@
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
         "wiki/concepts/comparative-education/Tripartite School System.md"
       ],
-      "title": ""
+      "title": "Aktionsplan der GEW zu den PISA-2003-Ergebnissen"
     },
     "GEW, 2018": {
       "aliases": [
@@ -98703,7 +98782,7 @@
         "Geißler, 2004",
         "Geißler (2004)"
       ],
-      "doi": "",
+      "doi": "10.1007/978-3-322-80614-7_5",
       "identity_keys": [
         "Geißler, 2004"
       ],
@@ -98711,7 +98790,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
-      "title": ""
+      "title": "Die Metamorphose der Arbeitertochter zum Migrantensohn: Zum Wandel der Chancenstrukturen im Bildungssystem nach Schicht, Geschlecht und ethnischer Herkunft"
     },
     "Gellin, 2003": {
       "aliases": [
@@ -105761,11 +105840,11 @@
       "identity_keys": [
         "Gruber, 2006"
       ],
-      "isbn": "",
+      "isbn": "978-1-873927-24-3",
       "seen_in": [
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
-      "title": ""
+      "title": "‘Das große Tabu’: some aspects of the extraordinary impact of the OECD’s PISA study on the German education system"
     },
     "Grumet, 1998": {
       "aliases": [
@@ -114221,7 +114300,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
-      "title": ""
+      "title": "Schule im Jahr IV nach PISA. Ein 10-Punkte-Programm gegen illusionäre Bildungsstandards"
     },
     "Herson, 1961": {
       "aliases": [
@@ -120230,7 +120309,22 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
-      "title": ""
+      "title": "BLK-Modellversuchsprogramm Steigerung der Effizienz des mathematisch-naturwissenschaftlichen Unterrichts"
+    },
+    "IQB, 2006": {
+      "aliases": [
+        "IQB, 2006",
+        "IQB (2006)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "IQB, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+      ],
+      "title": "Nationale Bildungsstandards"
     },
     "IQB, 2016": {
       "aliases": [
@@ -122720,11 +122814,11 @@
       "identity_keys": [
         "Jank & Meyer, 1994"
       ],
-      "isbn": "",
+      "isbn": "978-3-589-21010-7",
       "seen_in": [
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
-      "title": ""
+      "title": "Didaktische Modelle"
     },
     "Jankowicz, 2003": {
       "aliases": [
@@ -127029,6 +127123,21 @@
       ],
       "title": ""
     },
+    "KMK, 1995": {
+      "aliases": [
+        "KMK, 1995",
+        "KMK (1995)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "KMK, 1995"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+      ],
+      "title": "Standards für den Mittleren Schulabschluss in den Fächern Deutsch, Mathematik und erste Fremdsprache"
+    },
     "KMK, 2005": {
       "aliases": [
         "KMK, 2005",
@@ -127042,7 +127151,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
-      "title": ""
+      "title": "Bildungsstandards der Kultusministerkonferenz. Erläuterungen zur Konzeption und Entwicklung"
     },
     "KMK, 2006": {
       "aliases": [
@@ -132812,11 +132921,11 @@
       "identity_keys": [
         "Kiper, 2003"
       ],
-      "isbn": "",
+      "isbn": "978-3-89676-712-7",
       "seen_in": [
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
-      "title": ""
+      "title": "Literacy versus curriculum?"
     },
     "Kirat & Lung, 1999": {
       "aliases": [
@@ -133569,7 +133678,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
-      "title": ""
+      "title": "PISA II—Ernte erster Früchte oder Anlass zu erneutem Zweifel am deutschen Schulsystem?"
     },
     "Klein, 2008": {
       "aliases": [
@@ -133685,6 +133794,21 @@
         "wiki/facts/germany/Klieme Report.md"
       ],
       "title": "Zur Entwicklung nationaler Bildungsstandards: Eine Expertise"
+    },
+    "Klieme, 2003": {
+      "aliases": [
+        "Klieme, 2003",
+        "Klieme (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Klieme, 2003"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+      ],
+      "title": "Fragestellungen, zentrale Befunde und Konsequenzen der Studie Vertiefender Vergleich der Schulsysteme ausgewählter PISA-Teilnehmerländer"
     },
     "Klimova & de Campos, 2024": {
       "aliases": [
@@ -135884,7 +136008,7 @@
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
         "wiki/concepts/comparative-education/Tripartite School System.md"
       ],
-      "title": ""
+      "title": "PISA-Diskussion zwischen Realismus und Hysterie"
     },
     "Kraus, 2005": {
       "aliases": [
@@ -139093,7 +139217,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
-      "title": ""
+      "title": "Trial and error? Konsequenzen aus PISA—Ein Zwischenruf"
     },
     "Langer et al., 2016": {
       "aliases": [
@@ -170721,6 +170845,21 @@
       ],
       "title": ""
     },
+    "OECD, 2004": {
+      "aliases": [
+        "OECD, 2004",
+        "OECD (2004)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "OECD, 2004"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+      ],
+      "title": "What makes schools systems perform? Seeing school systems through the prism of PISA"
+    },
     "OECD, 2005": {
       "aliases": [
         "OECD, 2005",
@@ -173073,6 +173212,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "The influence of mindfulness-based interventions on the academic performance of students measured by their GPA. A systematic review and meta-analysis."
+    },
+    "Ostermann, 2005": {
+      "aliases": [
+        "Ostermann, 2005",
+        "Ostermann (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ostermann, 2005"
+      ],
+      "isbn": "978-0-415-35327-4",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+      ],
+      "title": "Bildung oder Ausbildung? Reorienting German higher education"
     },
     "Ostovar, 2023": {
       "aliases": [
@@ -176627,7 +176781,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
-      "title": ""
+      "title": "PISA die Zweite. Anmerkungen und ein Plädoyer für genaueres Nachfragen und gegen vorschnelle Antworten"
     },
     "Peeples, 1996": {
       "aliases": [
@@ -193390,6 +193544,21 @@
       ],
       "title": ""
     },
+    "Rürup, 2005": {
+      "aliases": [
+        "Rürup, 2005",
+        "Rürup (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Rürup, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+      ],
+      "title": "Der Föderalismus als institutionelle Rahmenbedingung im deutschen Bildungswesen—Perspektiven der Bildungspolitikforschung"
+    },
     "SAMSUNG, 2023": {
       "aliases": [
         "SAMSUNG, 2023",
@@ -198999,6 +199168,21 @@
         "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md"
       ],
       "title": "The Practical: A Language for Curriculum"
+    },
+    "Schwager, 2005": {
+      "aliases": [
+        "Schwager, 2005",
+        "Schwager (2005)"
+      ],
+      "doi": "10.1111/j.1468-0270.2005.00554.x",
+      "identity_keys": [
+        "Schwager, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+      ],
+      "title": "PISA-Schock und Hochschulmisere—Hat der Bildungsföderalismus versagt?"
     },
     "Schwalb et al., 1986": {
       "aliases": [
@@ -205734,7 +205918,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
-      "title": ""
+      "title": "The competence clash—Dilemmata bei der Übertragung des Konzepts der nationalen Bildungsstandards auf die berufliche Bildung"
     },
     "Sloane & Gorard, 2003": {
       "aliases": [
@@ -206444,11 +206628,9 @@
       "identity_keys": [
         "Smithers, 1997"
       ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
-      ],
-      "title": ""
+      "isbn": "978-0-485-00602-5",
+      "seen_in": [],
+      "title": "A critique of NVQs and GNVQs"
     },
     "Smithson, 2000": {
       "aliases": [
@@ -209505,6 +209687,21 @@
         "wiki/arguments/journal-articles/Contemporary Educational Psychology/Argument_Trautwein_2007_CEP.md"
       ],
       "title": ""
+    },
+    "Statistisches Bundesamt, 2006": {
+      "aliases": [
+        "Statistisches Bundesamt, 2006",
+        "Statistisches Bundesamt (2006)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Statistisches Bundesamt, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+      ],
+      "title": "Allgemeinbildende Schulen"
     },
     "Staunton, 2003": {
       "aliases": [
@@ -218124,7 +218321,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
-      "title": ""
+      "title": "Was ist eigentlich neu an PISA?"
     },
     "Tilton & Toole, 2010": {
       "aliases": [
@@ -240218,6 +240415,19 @@
       "seen_in": [],
       "title": "Scaffolding expository history text reading  Effects on adolescents' comprehension, self-regulation, and motivation"
     },
+    "van Ackeren, 2003": {
+      "aliases": [
+        "van Ackeren, 2003",
+        "van Ackeren (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "van Ackeren, 2003"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Zur Diskussion um Bildungsstandards in Deutschland: Internationale Erfahrungen wahrnehmen und nutzbar machen"
+    },
     "van Alten et al., 2019": {
       "aliases": [
         "van Alten et al., 2019",
@@ -245445,21 +245655,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Philosophy & Technology/Argument_Jovchevski_2026_PT.md"
-      ],
-      "title": ""
-    },
-    "行动计划, 2005": {
-      "aliases": [
-        "行动计划, 2005",
-        "行动计划 (2005)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "行动计划, 2005"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
       "title": ""
     },
