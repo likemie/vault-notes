@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: 2026-11-15
+updated: 2026-11-21
 ---
 
 ---
@@ -81,7 +81,7 @@ updated: 2026-11-15
 > - **1790 — 康德限定于神性** 康德在《判断力批判》第 77 节将“直观理性”严格归属上帝，排除人类拥有理智直观的可能。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 68)]]
 > - **1795–1797 — 荷尔德林与费希特的哲学引入** 荷尔德林在《判断与存在》（1795）中将理智直观界定为主客紧密合一的原初状态；费希特在《知识学第二导论》（1797）中正式铸造 *intellektuelle Anschauung* 术语以指称哲学家对自我“事行”的直观。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 68–69)]]
 > - **1800 — 谢林的审美转化** 谢林在《先验唯心论体系》中指出理智直观只是脆弱、私密的“类死亡状态”，唯有转化为艺术作品中的[[Aesthetic Intuition|审美直观]]才能获得普遍客观的证明。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 69, 74–75)]]
-> - **1818 — 叔本华的矛盾借用** [[Arthur Schopenhauer|阿图尔·叔本华]]（Arthur Schopenhauer）在批判费希特哲学时曾严厉抨击理智直观，却在《作为意志和表象的世界》中借用同一概念来刻画[[Genius|天才]]对柏拉图理念的纯粹直观，用以树立艺术家与庸人的对立。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, p. 120)]]
+> - **1818 — 叔本华的矛盾借用** [[Arthur Schopenhauer|阿图尔·叔本华]]（Arthur Schopenhauer）在批判费希特哲学时曾严厉抨击理智直观，却在《作为意志和表象的世界》中借用同一概念来刻画[[Aesthetic Genius|天才]]对柏拉图理念的纯粹直观，用以树立艺术家与庸人的对立。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, p. 120)]]
 
 ---
 

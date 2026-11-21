@@ -19,7 +19,7 @@ tags:
 related_concepts:
   - "[[Esoteric Mimesis]]"
   - "[[The Sublime]]"
-  - "[[Genius]]"
+  - "[[Aesthetic Genius]]"
   - "[[Infinite Interpretability of Art]]"
 related_theories:
   - "[[Schelling's Aesthetics]]"
@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: 2026-11-15
+updated: 2026-11-21
 ---
 
 ---
@@ -53,7 +53,7 @@ updated: 2026-11-15
 
 > [!theory-origin] 代表文本与核心转变
 > - **主要文献** 涵盖对话《布鲁诺》（1802）、生前未刊的讲稿[[Philosophy of Art|《艺术哲学》]]（1802–1803 耶拿、1804–1805 维尔茨堡）、《学术研究方法论讲演录》第十四讲（1803）以及演说《论造型艺术与自然的关系》（1807）。
-> - **对 1800 年《体系》的四项关键改写** ① 艺术从高于哲学概念变为与哲学并列或居于哲学概念阐释之下；② 创作主体从孤立的个体[[Genius|天才]]扩展为宏大历史尺度下的整个“民族”；③ 绝对者新增混沌、黑夜与“无底之空”（*bodenlose Leere*）的幽暗维度，通过古代神话诸神等“理念”的自我限制方能创造宇宙；④ 明确采取[[Esoteric Mimesis|秘传摹仿]]与新柏拉图主义立场，将美定义为上帝之光辉（*splendor dei*），将丑解释为光辉匮乏的时间性视角错觉。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 65–66, 77–81)]]
+> - **对 1800 年《体系》的四项关键改写** ① 艺术从高于哲学概念变为与哲学并列或居于哲学概念阐释之下；② 创作主体从孤立的个体[[Aesthetic Genius|天才]]扩展为宏大历史尺度下的整个“民族”；③ 绝对者新增混沌、黑夜与“无底之空”（*bodenlose Leere*）的幽暗维度，通过古代神话诸神等“理念”的自我限制方能创造宇宙；④ 明确采取[[Esoteric Mimesis|秘传摹仿]]与新柏拉图主义立场，将美定义为上帝之光辉（*splendor dei*），将丑解释为光辉匮乏的时间性视角错觉。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 65–66, 77–81)]]
 
 ---
 

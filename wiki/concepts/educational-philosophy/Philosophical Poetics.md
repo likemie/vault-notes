@@ -1,8 +1,9 @@
 ---
-title: Poetics
+title: Philosophical Poetics
 aliases:
-  - 诗学
-  - 诗论
+  - 哲学诗学
+  - 规则诗学
+  - 诗学理论
   - Poetik
 summary: "以规范性创作法则与体裁要求为核心的传统文艺理论门类，鲍姆加登借此分化出感性认识之学，后经狂飙突进运动转向天才诗学，并在黑格尔处与描述性哲学美学严格界分。"
 type: concept
@@ -20,7 +21,7 @@ related_concepts:
   - "[[Philosophical Aesthetics]]"
   - "[[Mimesis]]"
   - "[[Aesthetics of Ugliness]]"
-  - "[[Genius]]"
+  - "[[Aesthetic Genius]]"
   - "[[Sensual Cognition]]"
   - "[[Aesthetic Truth]]"
 related_theories:
@@ -46,8 +47,8 @@ updated: 2026-11-21
 
 ---
 
-> [!def] Poetics
-> **诗学（Poetics，德文 *Poetik*）** 指侧重于艺术创作规范、体裁律则与生产技巧的文艺理论形态。在 18 世纪德国美学发端期，[[Alexander Gottlieb Baumgarten|亚历山大·戈特利布·鲍姆加登]]（Alexander Gottlieb Baumgarten）于 1735 年硕士学位著述《关于诗的若干问题的哲学沉思录》中，立足传统诗学论著首次提炼出感性认知科学，全面汲取古典修辞学传统以构建规则诗学（*Regelpoetiken*）；此后，[[Sturm und Drang|狂飙突进运动]]（Sturm und Drang）以灵感独创反叛规则，催生了[[Genius|天才]]诗学（*Geniepoetik*）[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 7, 12)]]。至 19 世纪，[[Georg Wilhelm Friedrich Hegel|格奥尔格·威廉·弗里德里希·黑格尔]]（Georg Wilhelm Friedrich Hegel）在《美学讲演录》中将作为**规定性/规范性（prescriptive）** 指南的传统诗学与作为**描述性（descriptive）** 哲学反思的[[Philosophical Aesthetics|哲学美学]]严格区隔，确立了美学纯粹以概念把握艺术真理的学科性质[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 95)]]。
+> [!def] Philosophical Poetics
+> **哲学诗学（Philosophical Poetics，德文 *Poetik*）** 指侧重于艺术创作规范、体裁律则与生产技巧的文艺理论形态。在 18 世纪德国美学发端期，[[Alexander Gottlieb Baumgarten|亚历山大·戈特利布·鲍姆加登]]（Alexander Gottlieb Baumgarten）于 1735 年硕士学位著述《关于诗的若干问题的哲学沉思录》中，立足传统诗学论著首次提炼出感性认知科学，全面汲取古典修辞学传统以构建规则诗学（*Regelpoetiken*）；此后，[[Sturm und Drang|狂飙突进运动]]（Sturm und Drang）以灵感独创反叛规则，催生了[[Aesthetic Genius|天才]]诗学（*Geniepoetik*）[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 7, 12)]]。至 19 世纪，[[Georg Wilhelm Friedrich Hegel|格奥尔格·威廉·弗里德里希·黑格尔]]（Georg Wilhelm Friedrich Hegel）在《美学讲演录》中将作为**规定性/规范性（prescriptive）** 指南的传统诗学与作为**描述性（descriptive）** 哲学反思的[[Philosophical Aesthetics|哲学美学]]严格区隔，确立了美学纯粹以概念把握艺术真理的学科性质[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 95)]]。
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 为文学与艺术构作制定文体范式、修辞范型与技巧准则的规范性理论门类。
@@ -124,7 +125,7 @@ updated: 2026-11-21
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Philosophical Aesthetics]] | 概念 | 从 18 世纪规则诗学沉思中分化确立的哲学学科分支。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, p. 7)]] |
-> | [[Genius]] | 概念 | 狂飙突进运动用以取代传统规则诗学、强调灵感独创的核心概念。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, p. 12)]] |
+> | [[Aesthetic Genius]] | 概念 | 狂飙突进运动用以取代传统规则诗学、强调灵感独创的核心概念。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, p. 12)]] |
 > | [[Aesthetics of Ugliness]] | 概念 | 18 世纪传统诗学将丑归类为“有趣之物”，为后续专门丑学理论的发展留下铺垫。[[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, p. 105)]] |
 > | [[Mimesis]] | 概念 | 古典诗学核心概念，亚里士多德借此肯定再现丑陋客体的审美价值。[[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, p. 105)]] |
 > | [[Hegel's Aesthetics]] | 理论 | 通过界分描述性美学与规定性诗学，将概念反思确立为美学的唯一工具。[[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, p. 95)]] |

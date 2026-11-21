@@ -22,7 +22,7 @@ related_concepts:
   - "[[Sensual Cognition]]"
   - "[[Aesthetic Autonomy]]"
   - "[[Epistemology]]"
-  - "[[Poetics]]"
+  - "[[Philosophical Poetics]]"
   - "[[Independent Knowing]]"
   - "[[Mimesis]]"
   - "[[Document]]"
@@ -134,7 +134,7 @@ updated: 2026-11-21
 > [!boundary]- 概念边界
 > - 不等于 艺术批评（Art Criticism）— 艺术批评侧重对具体作品的价值判断与文本细读，哲学美学侧重对美、艺术与感性认识的本体论地位与认识论合法性展开先验探究。
 > - 不等于 实验心理美学（Empirical Aesthetics）— 实验心理学运用生理与量化测量分析审美快感与反应，哲学美学聚焦审美经验的意义建构、真理承诺与伦理维度。
-> - 不等于 传统规则[[Poetics|诗学]]（Regelpoetik）— 规则诗学提供规范性的创作技法指南，哲学美学将感性提升为与理性并立的[[Independent Knowing|独立认知]]方式。
+> - 不等于 传统规则[[Philosophical Poetics|诗学]]（Regelpoetik）— 规则诗学提供规范性的创作技法指南，哲学美学将感性提升为与理性并立的[[Independent Knowing|独立认知]]方式。
 
 ---
 
@@ -176,7 +176,7 @@ updated: 2026-11-21
 
 ---
 
-> [!concept-proposition] 命题二｜18世纪德国美学经历了从规则[[Poetics|诗学]]向情感心理美学的重心转移
+> [!concept-proposition] 命题二｜18世纪德国美学经历了从规则[[Philosophical Poetics|诗学]]向情感心理美学的重心转移
 > **从客观规则转向主体感受** 早期德国美学先后由认识论与情感心理学两种取向推进，推动审美评价标准从遵循客观创作规则转向考察主体感受与心理官能，但仍处于[[Immanuel Kant|康德]]之前的前[[Paradigm|范式]]阶段。
 
 > [!claim] Hammermeister, K.

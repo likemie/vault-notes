@@ -15,7 +15,7 @@ tags:
   - field/educational-philosophy
   - theme/aesthetics
 related_concepts:
-  - "[[Genius]]"
+  - "[[Aesthetic Genius]]"
   - "[[Phronesis]]"
 related_theories:
   - "[[Schopenhauer's Aesthetics]]"
@@ -29,13 +29,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-15
-updated: 2026-11-15
+updated: 2026-11-21
 ---
 
 ---
 
 > [!def] Poiesis
-> **诗性制作（Poiesis）** 指主体为使作品得以生成而展开的有意识创作与形式执行活动。在[[Arthur Schopenhauer|阿图尔·叔本华]]（Arthur Schopenhauer）的艺术理论中，[[Genius|天才]]对理念的纯粹静观处于无意志状态，遵循诗性制作（poiesis）模式的艺术生产过程却需要意志介入，由意志驱动艺术家寻找最恰当的媒介与手段来传达已直观到的理念。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, p. 120)]]
+> **诗性制作（Poiesis）** 指主体为使作品得以生成而展开的有意识创作与形式执行活动。在[[Arthur Schopenhauer|阿图尔·叔本华]]（Arthur Schopenhauer）的艺术理论中，[[Aesthetic Genius|天才]]对理念的纯粹静观处于无意志状态，遵循诗性制作（poiesis）模式的艺术生产过程却需要意志介入，由意志驱动艺术家寻找最恰当的媒介与手段来传达已直观到的理念。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, p. 120)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 作为有意识生产与媒介选择的艺术创作执行环节。
@@ -74,7 +74,7 @@ updated: 2026-11-15
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Genius]] | 概念 | 叔本华先以压倒意志界定天才直观，又在诗性制作环节重新引入意志以传达理念 [[Argument_Hammermeister_2002_Cambridge_Ch06\|(Hammermeister, 2002, p. 120)]]。 |
+> | [[Aesthetic Genius]] | 概念 | 叔本华先以压倒意志界定天才直观，又在诗性制作环节重新引入意志以传达理念 [[Argument_Hammermeister_2002_Cambridge_Ch06\|(Hammermeister, 2002, p. 120)]]。 |
 > | [[Phronesis]] | 概念 | 同源古希腊实践哲学概念谱系，分别指向有意识的创作生产与审慎的实践判断。 |
 > | [[Schopenhauer's Aesthetics]] | 理论 | 诗性制作概念揭示了该美学体系在无意志静观与有意识创作之间的结构裂隙 [[Argument_Hammermeister_2002_Cambridge_Ch06\|(Hammermeister, 2002, pp. 118–120)]]。 |
 > | [[Arthur Schopenhauer]] | 人物 | 在《关于美与美学的形而上学》中以诗性制作模式解释艺术作品执行的哲学家 [[Argument_Hammermeister_2002_Cambridge_Ch06\|(Hammermeister, 2002, pp. 120, 231 n.10)]]。 |

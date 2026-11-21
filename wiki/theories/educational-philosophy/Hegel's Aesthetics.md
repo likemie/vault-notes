@@ -27,7 +27,7 @@ related_concepts:
   - "[[Disinterested Pleasure]]"
   - "[[Catharsis]]"
   - "[[Kunstformen]]"
-  - "[[Genius]]"
+  - "[[Aesthetic Genius]]"
   - "[[Natural Beauty]]"
   - "[[Mimesis]]"
   - "[[End of Art]]"
@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: 2026-11-15
+updated: 2026-11-21
 ---
 
 ---
@@ -79,7 +79,7 @@ updated: 2026-11-15
 > - **形成路径** 黑格尔将哲学史与艺术史均纳入精神“自在—自为—自在而自为”的逻辑演进中，以“精神”取代席勒与[[Friedrich Hölderlin|荷尔德林]]（Friedrich Hölderlin）用来弥合康德二元裂隙的“爱”，进而在客观精神（家庭、市民社会、国家）之上设立绝对精神三环节（艺术、宗教、哲学），把[[Kunstformen|艺术形式]]的历史演进与具体艺术门类的物质性递减系统并行贯通。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 90–91, 97–101)]]
 
 > [!dev-timeline] 理论版本与贡献
-> - **1817/1827/1830 — 《哲学全书纲要》定型版** 黑格尔亲自审定出版的体系纲要，明确将艺术置于绝对精神第一环节，论证艺术受制于感性形式并让位于宗教与哲学，对谢林与浪漫派[[Genius|天才]]的批评较讲演录更为温和（§560）。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 90, 228 n.12)]]
+> - **1817/1827/1830 — 《哲学全书纲要》定型版** 黑格尔亲自审定出版的体系纲要，明确将艺术置于绝对精神第一环节，论证艺术受制于感性形式并让位于宗教与哲学，对谢林与浪漫派[[Aesthetic Genius|天才]]的批评较讲演录更为温和（§560）。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 90, 228 n.12)]]
 > - **1835/1842 — 霍托编辑《美学讲演录》通行版** 霍托为回应谢林与索尔格浪漫派的竞争，强化了黑格尔客观唯心论与反浪漫派立场（并可能淡化了黑格尔对“次要艺术”的同情、增写了[[Natural Beauty|自然美]]章节，甚至铸造了“理念的感性显现”这一名言）。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 89–90, 95, 228 n.5, n.11, n.14)]]
 > - **1995–1998 — 原始学生听课笔记考订本** 安妮玛丽·格特曼-西费特（Annemarie Gethmann-Siefert）与赫尔穆特·施奈德（Helmut Schneider）出版 1820–1821 及 1823 年未修饰听课笔记，推动学界重新评估黑格尔对“次要艺术”与审美享受的原本态度。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 89–90, 228 n.5)]]
 

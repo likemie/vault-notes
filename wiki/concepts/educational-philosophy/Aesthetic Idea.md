@@ -26,7 +26,7 @@ related_concepts:
   - "[[Scientism]]"
   - "[[Kunstformen]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Genius]]"
+  - "[[Aesthetic Genius]]"
   - "[[Document]]"
   - "[[Aesthetic Negativity]]"
   - "[[Typicality]]"
@@ -132,7 +132,7 @@ updated: 2026-11-21
 ---
 
 > [!dev-timeline] 概念演变
-> - **1790** — 康德在《判断力批判》第 49 节系统界定审美理念，阐释[[Genius|天才]]与想象力的自由构型。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, p. 30)]]
+> - **1790** — 康德在《判断力批判》第 49 节系统界定审美理念，阐释[[Aesthetic Genius|天才]]与想象力的自由构型。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, p. 30)]]
 > - **1800** — 谢林将审美理念客体化为艺术[[Document|文献]]，视为绝对同一性的客观显现。
 > - **1930 年代** — 卡西尔与海德格尔分别借符号形式与大地概念，延续审美理念抗拒科学抽象的深度。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 154–155)]]; [[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, p. 182)]]
 > - **1970** — 阿多诺在《[[Aesthetic Theory|美学理论]]》中将审美理念重构为艺术的谜题特征，为现代主义[[Aesthetic Negativity|否定美学]]确立理论支点。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 205–206)]]

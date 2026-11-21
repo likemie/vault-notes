@@ -16,7 +16,7 @@ tags:
   - theme/aesthetics
   - theme/voluntarism
 related_concepts:
-  - "[[Genius]]"
+  - "[[Aesthetic Genius]]"
   - "[[The Sublime]]"
   - "[[Hierarchy of the Arts]]"
   - "[[Epistemology]]"
@@ -53,13 +53,13 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: 2026-11-17
+updated: 2026-11-21
 ---
 
 ---
 
 > [!theory-position] 理论定位
-> - **解释对象** 审美经验的解脱功能、[[Genius|天才]]的客观直观机制、美与[[The Sublime|崇高]]的本质，以及从建筑到音乐的[[Hierarchy of the Arts|艺术门类等级]]系统。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 117–125)]]
+> - **解释对象** 审美经验的解脱功能、[[Aesthetic Genius|天才]]的客观直观机制、美与[[The Sublime|崇高]]的本质，以及从建筑到音乐的[[Hierarchy of the Arts|艺术门类等级]]系统。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 117–125)]]
 > - **理论问题** 回应人类受盲目意志驱使、因匮乏与欲望循环而陷入永恒痛苦的生存困境，追问人类如何在彻底禁欲之外获得暂时平息意志的[[Epistemology|认识论]]与实践通道。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 115–117)]]
 > - **理论类型** 依附于悲观主义意志形而上学与救赎论（soteriology）的[[Philosophical Aesthetics|哲学美学]]体系。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 113, 126)]]
 > - **知识位置** 德国古典唯心论美学[[Paradigm|范式]]遭到怀疑论拆解的转折点：表面承袭[[Immanuel Kant|康德]]（Immanuel Kant）的无利害静观与谢林（[[Friedrich Wilhelm Joseph Schelling]]）的艺术认知至上论，实则在共同体维度、认识论基础与实践导向上全面逆转唯心论传统。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 111–113, 118–119)]]
@@ -72,7 +72,7 @@ updated: 2026-11-17
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** [[Arthur Schopenhauer|阿图尔·叔本华]]（Arthur Schopenhauer）在 1818 年出版的《作为意志和表象的世界》（*Die Welt als Wille und Vorstellung*）第三卷系统提出该[[Aesthetic Theory|美学理论]]，并在《论[[The Interesting|趣味性]]》（1821）、《关于美与美学的形而上学》及《人生的智慧》中加以扩充。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 111–112, 231–232)]]
 > - **原初问题** 康德将自在之物设为不可知，而浪漫派与谢林仍保留理性或精神的目的论乐观叙事；叔本华以身体运动与意欲的直接同一性打破自在之物的不可知性，将世界本质判定为盲目、自私且循环制造痛苦的非理性意志，进而亟需一种能暂时中止意志奴役的经验机制。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 113–116)]]
-> - **理论资源与材料** 融合康德先验唯心论（重构为“世界是表象”）、《奥义书》（Upanishads）中的“摩耶之幕”（Maya）及阿特曼—梵天（Atman and Brahman）观念、柏拉图（[[Plato]]）理念论、浪漫派[[Genius|天才]]观与雅各布·伯梅（Jakob Böhme）、埃克哈特大师（Meister Eckhart）等神秘主义传统。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 113–116, 120–121)]]
+> - **理论资源与材料** 融合康德先验唯心论（重构为“世界是表象”）、《奥义书》（Upanishads）中的“摩耶之幕”（Maya）及阿特曼—梵天（Atman and Brahman）观念、柏拉图（[[Plato]]）理念论、浪漫派[[Aesthetic Genius|天才]]观与雅各布·伯梅（Jakob Böhme）、埃克哈特大师（Meister Eckhart）等神秘主义传统。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 113–116, 120–121)]]
 > - **形成路径** 叔本华先将康德十二范畴简化为单一的[[Principle of Sufficient Reason|充足理由律]]，再借由身体双重经验将个体意志体验外推为宇宙普遍意志，并区分意志客体化的柏拉图理念层级；最后从平息意志的三条道路（审美静观、同情、禁欲）中确立艺术作为普通人可及但短暂的解脱通道。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 113–117)]]
 
 ---
@@ -84,7 +84,7 @@ updated: 2026-11-17
 > | [[Principle of Sufficient Reason]] | 认识论限制 | 规定日常与科学认知只能把握时空因果关联中的现象，成为艺术静观必须悬置的认知框架。 |
 > | [[Principium Individuationis]] | [[Ontology\|本体论]]幻象 | 制造个体分离与利己冲突的根源，也是艺术静观与同情伦理所要突破的虚妄界限。 |
 > | 柏拉图理念（Platonic Ideas） | 本体论中介 | 意志在无机物、植物、动物与人类各层级客体化的普遍原型，充当除音乐外一切再现艺术的认知对象。 |
-> | [[Genius]] | 主体能力 | 认知能力压倒意志、实现绝对客观直观并透过“制作”（[[Poiesis\|poiesis]]）将理念传达给观众的罕见禀赋。 |
+> | [[Aesthetic Genius]] | 主体能力 | 认知能力压倒意志、实现绝对客观直观并透过“制作”（[[Poiesis\|poiesis]]）将理念传达给观众的罕见禀赋。 |
 > | [[The Interesting]] | 审美反面 | 迫使主体意志作出反应的刺激物，因扰动无意志静观而与纯粹美感相抵牾。 |
 
 ---
@@ -93,7 +93,7 @@ updated: 2026-11-17
 > 日常经验与科学受制于服务意志的[[Principle of Sufficient Reason|充足理由律]]，只能把对象置于无穷因果语境中，因而无法穷尽事物本质；当主体突然挣脱意志束缚、成为纯粹无意志的认知主体时，对象便脱离一切关系网络而作为自由自足的柏拉图理念显现出来，使艺术获得超越日常知觉与科学知识的认知位阶。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 116, 118–119)]]
 
 > [!example|notitle]
-> **[[Natural Beauty|自然美]]与艺术美的中介差异** 叔本华指出，直接静观自然或人生与欣赏艺术作品所获得的审美愉悦本质相同，但艺术作品的价值在于[[Genius|天才]]已替观者剥除了现实中的偶然杂质，将纯粹理念直接呈现在观众面前；相比之下，面对自然美时，观者仍需自行穿透现象表层去捕捉理念（p. 122）。
+> **[[Natural Beauty|自然美]]与艺术美的中介差异** 叔本华指出，直接静观自然或人生与欣赏艺术作品所获得的审美愉悦本质相同，但艺术作品的价值在于[[Aesthetic Genius|天才]]已替观者剥除了现实中的偶然杂质，将纯粹理念直接呈现在观众面前；相比之下，面对自然美时，观者仍需自行穿透现象表层去捕捉理念（p. 122）。
 
 > [!theory-proposition] 命题二｜美邀请无冲突的纯认知，崇高则需主体强力挣脱威胁性的意志压迫
 > 美感与[[The Sublime|崇高]]同以无意志认知为归宿，但达成路径相反：面对美的对象时，纯粹认知无需经历挣扎便自然占据上风；面对威胁个体生存与意志驱力的崇高对象时，主体必须有意识地、猛烈地将自身从危险感知与意志恐惧中撕扯出来，方能进入同等的宁静静观状态。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, p. 123)]]
@@ -139,7 +139,7 @@ updated: 2026-11-17
 > > [!axis] 审美静观的无意志要求与主动—被动悖论
 > > 叔本华要求审美经验彻底摆脱意志，却在静观启动、艺术制作与崇高体验中重新引入意志的主动参与。
 > >
-> > - **保罗·盖耶（Paul Guyer, 1996）** 指出无意志静观与[[Genius|天才]]创作及审美启动所需的意志能量之间存在内在紧张。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 118–121, 231)]]
+> > - **保罗·盖耶（Paul Guyer, 1996）** 指出无意志静观与[[Aesthetic Genius|天才]]创作及审美启动所需的意志能量之间存在内在紧张。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 118–121, 231)]]
 > > - **凯·哈默迈斯特（Kai Hammermeister, 2002）** 论证叔本华在定义[[The Interesting|趣味性]]与崇高主体撕裂恐惧时，实质承认了意志的主动介入，导致静观的纯被动性难以成立。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 118–123)]]
 >
 > > [!axis] 美的普遍化界定与强迫静观的自相矛盾

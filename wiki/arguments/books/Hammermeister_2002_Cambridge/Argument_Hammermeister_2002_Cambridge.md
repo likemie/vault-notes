@@ -34,7 +34,7 @@ related_concepts:
   - "[[The Sublime]]"
   - "[[Judgment of Taste]]"
   - "[[Aesthetic Idea]]"
-  - "[[Genius]]"
+  - "[[Aesthetic Genius]]"
   - "[[Aesthetic Education]]"
   - "[[Play Drive]]"
   - "[[Aesthetic Semblance]]"
@@ -67,7 +67,7 @@ related_theories:
   - "[[Hegel's Aesthetics]]"
 status: "draft"
 created: "2026-11-14"
-updated: 2026-11-16
+updated: 2026-11-21
 ---
 
 > [!monograph-profile] 阅读档案
@@ -81,7 +81,7 @@ updated: 2026-11-16
 > |---|---|---|
 > | 章节 | 所属部分与文本入口 | 进度 |
 > | [[Argument_Hammermeister_2002_Cambridge_Ch01\|第 1 章 Baumgarten, Mendelssohn]] | I · The Age of [[Paradigm\|Paradigms]]；pp. 3–20（含 Preface pp. ix–xv）。[[Alexander Gottlieb Baumgarten\|鲍姆嘉通]]的[[Sensual Cognition\|感性认识]]论、[[Aesthetic Truth\|审美真理]]与[[Moses Mendelssohn\|门德尔松]]的情感心理美学、[[Disinterested Pleasure\|赞同官能]]及[[The Sublime\|崇高]]范畴。 | 已解读 |
-> | [[Argument_Hammermeister_2002_Cambridge_Ch02\|第 2 章 Kant]] | I · The Age of [[Paradigm\|Paradigms]]；pp. 21–41。[[Immanuel Kant\|康德]]《判断力批判》的[[Judgment of Taste\|鉴赏判断]]四重契机、[[Aesthetic Idea\|审美理念]]、[[The Sublime\|崇高]]二分、[[Genius\|天才]]立法及美作为道德象征。 | 已解读 |
+> | [[Argument_Hammermeister_2002_Cambridge_Ch02\|第 2 章 Kant]] | I · The Age of [[Paradigm\|Paradigms]]；pp. 21–41。[[Immanuel Kant\|康德]]《判断力批判》的[[Judgment of Taste\|鉴赏判断]]四重契机、[[Aesthetic Idea\|审美理念]]、[[The Sublime\|崇高]]二分、[[Aesthetic Genius\|天才]]立法及美作为道德象征。 | 已解读 |
 > | [[Argument_Hammermeister_2002_Cambridge_Ch03\|第 3 章 Schiller]] | I · The Age of [[Paradigm\|Paradigms]]；pp. 42–61。[[Friedrich Schiller\|席勒]]《[[Aesthetic Education\|审美教育]]书简》的现代性异化诊断、[[Schiller's Theory of Drives\|冲动学说]]、[[Play Drive\|游戏冲动]]、“显现中的自由”与[[Aesthetic Semblance\|审美外观]]悖论。 | 已解读 |
 > | [[Argument_Hammermeister_2002_Cambridge_Ch04\|第 4 章 Schelling]] | I · The Age of [[Paradigm\|Paradigms]]；pp. 62–86。[[Friedrich Wilhelm Joseph Schelling\|谢林]]《先验唯心论体系》的[[Aesthetic Intuition\|审美直观]]与[[New Mythology\|新神话]]、《艺术哲学》的新柏拉图主义转向，以及[[Friedrich Schlegel\|施莱格尔]]与[[Karl Wilhelm Ferdinand Solger\|索尔格]]的[[Romantic Irony\|浪漫反讽]]。 | 已解读 |
 > | [[Argument_Hammermeister_2002_Cambridge_Ch05\|第 5 章 Hegel]] | I · The Age of [[Paradigm\|Paradigms]]；pp. 87–108。[[Georg Wilhelm Friedrich Hegel\|黑格尔]]的[[Absolute Spirit\|绝对精神]]与[[Hegel's Aesthetics\|黑格尔美学]]、反[[Mimesis\|摹仿]]论、[[End of Art\|艺术终结论]]及[[Karl Rosenkranz\|罗森克兰茨]]的[[Aesthetics of Ugliness\|丑的美学]]。 | 已解读 |

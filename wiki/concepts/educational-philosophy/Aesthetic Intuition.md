@@ -23,7 +23,7 @@ related_concepts:
   - "[[Intellectual Intuition]]"
   - "[[Document]]"
   - "[[New Mythology]]"
-  - "[[Genius]]"
+  - "[[Aesthetic Genius]]"
   - "[[Paradigm]]"
   - "[[The Nonidentical]]"
 related_theories:
@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-15
-updated: 2026-11-16
+updated: 2026-11-21
 ---
 
 ---
@@ -66,7 +66,7 @@ updated: 2026-11-16
 ---
 
 > [!feature] 核心认识论机制
-> - **意识与无意识的感性融合** 艺术通过[[Genius|天才]]创造力将有意识的技术操作与无意识的灵感恩典熔铸为一，使矛盾在客观作品中获得感性展现。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 70–72)]]
+> - **意识与无意识的感性融合** 艺术通过[[Aesthetic Genius|天才]]创造力将有意识的技术操作与无意识的灵感恩典熔铸为一，使矛盾在客观作品中获得感性展现。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 70–72)]]
 > - **整体性与解密满足** 克服分析性概念对经验世界的切割，在瞬间感性直观中提供主体官能充分共鸣的无限满意体验。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 72, 74)]]
 > - **谜题特征与阐释张力** 现代艺术作品拒绝简单交流，其内在谜题特征要求哲学阐释介入，同时拒绝被概念完全还原。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 205–206)]]
 

@@ -1503,6 +1503,7 @@
     "BLV, 2013": "BLV, 2013",
     "BMBF (2003)": "BMBF, 2003",
     "BMBF (2005)": "BMBF, 2005",
+    "BMBF (2006)": "BMBF, 2006",
     "BMBF (2007)": "BMBF, 2007",
     "BMBF (2013a)": "BMBF, 2013a",
     "BMBF (2013b)": "BMBF, 2013b",
@@ -1517,6 +1518,7 @@
     "BMBF (2024b)": "BMBF, 2024b",
     "BMBF, 2003": "BMBF, 2003",
     "BMBF, 2005": "BMBF, 2005",
+    "BMBF, 2006": "BMBF, 2006",
     "BMBF, 2007": "BMBF, 2007",
     "BMBF, 2013a": "BMBF, 2013a",
     "BMBF, 2013b": "BMBF, 2013b",
@@ -25657,14 +25659,12 @@
     "Thelen (2002)": "Thelen, 2002",
     "Thelen (2003)": "Thelen, 2003",
     "Thelen (2004)": "Thelen, 2004",
-    "Thelen (2007)": "Thelen, 2007",
     "Thelen (2014)": "Thelen, 2014",
     "Thelen et al. (2022)": "Thelen et al., 2022",
     "Thelen et al., 2022": "Thelen et al., 2022",
     "Thelen, 2002": "Thelen, 2002",
     "Thelen, 2003": "Thelen, 2003",
     "Thelen, 2004": "Thelen, 2004",
-    "Thelen, 2007": "Thelen, 2007",
     "Thelen, 2014": "Thelen, 2014",
     "Theobald (2021)": "Theobald, 2021",
     "Theobald, 2021": "Theobald, 2021",
@@ -27516,7 +27516,9 @@
     "Werkheiser (2014)": "Werkheiser, 2014",
     "Werkheiser, 2014": "Werkheiser, 2014",
     "Werner (1997)": "Werner, 1997",
+    "Werner (2004)": "Werner, 2004",
     "Werner, 1997": "Werner, 1997",
+    "Werner, 2004": "Werner, 2004",
     "Wescott (2022)": "Wescott, 2022",
     "Wescott, 2022": "Wescott, 2022",
     "Wesley Salmon (1998)": "Wesley Salmon, 1998",
@@ -40729,7 +40731,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
-        "wiki/concepts/sociology-of-education/Immigrant Status.md"
+        "wiki/concepts/sociology-of-education/Immigrant Status.md",
+        "wiki/facts/germany/Federal Ministry of Education and Research.md"
       ],
       "title": "Vertiefender Vergleich der Schulsysteme ausgewählter PISA-Staaten"
     },
@@ -40744,9 +40747,25 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
       ],
       "title": "Was ist seit PISA geschehen?"
+    },
+    "BMBF, 2006": {
+      "aliases": [
+        "BMBF, 2006",
+        "BMBF (2006)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "BMBF, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+      ],
+      "title": ""
     },
     "BMBF, 2007": {
       "aliases": [
@@ -165340,9 +165359,7 @@
         "Mühlenweg & Puhani, 2010"
       ],
       "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/The Economic Journal/Argument_Dustmann_2017_EconJ.md"
-      ],
+      "seen_in": [],
       "title": "The Evolution of the School-Entry Age Effect in a School Tracking System"
     },
     "Müller & Sigmund, 2014": {
@@ -217239,21 +217256,6 @@
       ],
       "title": "How Institutions Evolve: The Political Economy of Skills in Germany, Britain, the United States, and Japan"
     },
-    "Thelen, 2007": {
-      "aliases": [
-        "Thelen, 2007",
-        "Thelen (2007)"
-      ],
-      "doi": "10.1111/j.1748-5991.2007.00017.x",
-      "identity_keys": [
-        "Thelen, 2007"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Hippach-Schneider_Rieder_2022_RCIE.md"
-      ],
-      "title": "Contemporary challenges to the German vocational training systems"
-    },
     "Thelen, 2014": {
       "aliases": [
         "Thelen, 2014",
@@ -230608,6 +230610,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Effects of learning structure and summarization during computer-based instruction"
+    },
+    "Werner, 2004": {
+      "aliases": [
+        "Werner, 2004",
+        "Werner (2004)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Werner, 2004"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+      ],
+      "title": ""
     },
     "Wescott, 2022": {
       "aliases": [

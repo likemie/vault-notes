@@ -9,6 +9,12 @@ summary: "2005年德国联邦议会通过的《联邦职业教育法》全面修
 type: fact
 subtype: policy
 region: germany
+fact_region: "germany"
+fact_kind: "policy"
+fact_related_count: 11
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dbeafe"
 issuing_organization: "Federal Ministry of Education and Research"
 tags:
   - region/germany
@@ -97,11 +103,11 @@ updated: 2026-11-21
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
-> | [[Berufsprinzip]] | 概念 | 规范边界：法案推行的模块化与过程考核在提供企业灵活性的同时，持续受到完整职业原则的规约以防技能碎片化。 |
+> | [[Berufsprinzip]] | 概念 | 规范边界：法案推行的模块化与过程考核在提供企业灵活性的同时，持续受到完整职业原则的约束以防技能碎片化。 |
 > | [[Vocational Holding Pattern]] | 概念 | 现实回应：法案设立校本培训折算通往商会考试的过渡规程，直接旨在疏解滞留于等候回路青年的转轨梗阻。 |
 > | [[Collective Skill Formation]] | 理论 | 制度载体：法案体现了集体技能形成体系在面对企业成本约束时通过制度调适维系通用技能供给的典型机制。 |
 > | [[Varieties of Capitalism]] | 理论 | 制度互补：在协调型市场经济中通过法律调适化解技能刚性，支撑德国高端制造业持续具备出口竞争优势。 |
-> | [[Theory of Gradual Institutional Change]] | 理论 | 演进特征：法案未推翻既有双元结构，而是通过在既有框架下引入模块选修与校本折算展现了层叠与功能转换逻辑。 |
+> | [[Theory of Gradual Institutional Change]] | 理论 | 演进特征：法案在既有双元结构框架下引入模块选修与校本折算，展现了层叠与功能转换的制度演进逻辑。 |
 > | [[Comparative Policy Analysis]] | 方法 | 分析透镜：通过制度多维对比评估法案在全国通用标准与企业自主灵活性之间的妥协均衡。 |
 > | [[Kathleen Thelen]] | 人物 | 关键研究者：以该法案为核心经验案例考察历史制度主义视角下德国技能形成体制的主动制度维护。 |
 > | [[German Dual Education System]] | 事实 | 制度母体：法案构成对 1969 年德国双元制公法监管体系三十余年以来的最全面立法重塑。 |

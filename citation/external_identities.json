@@ -6508,7 +6508,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
-        "wiki/concepts/sociology-of-education/Immigrant Status.md"
+        "wiki/concepts/sociology-of-education/Immigrant Status.md",
+        "wiki/facts/germany/Federal Ministry of Education and Research.md"
       ],
       "title": "Vertiefender Vergleich der Schulsysteme ausgewählter PISA-Staaten"
     },
@@ -6516,9 +6517,18 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
       ],
       "title": "Was ist seit PISA geschehen?"
+    },
+    "BMBF, 2006": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+      ],
+      "title": ""
     },
     "BMBF, 2007": {
       "doi": "",
@@ -81285,9 +81295,7 @@
     "Mühlenweg & Puhani, 2010": {
       "doi": "10.3368/jhr.45.2.407",
       "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/The Economic Journal/Argument_Dustmann_2017_EconJ.md"
-      ],
+      "seen_in": [],
       "title": "The Evolution of the School-Entry Age Effect in a School Tracking System"
     },
     "Müller & Sigmund, 2014": {
@@ -112354,14 +112362,6 @@
       ],
       "title": "How Institutions Evolve: The Political Economy of Skills in Germany, Britain, the United States, and Japan"
     },
-    "Thelen, 2007": {
-      "doi": "10.1111/j.1748-5991.2007.00017.x",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Hippach-Schneider_Rieder_2022_RCIE.md"
-      ],
-      "title": "Contemporary challenges to the German vocational training systems"
-    },
     "Thelen, 2014": {
       "doi": "",
       "isbn": "978-1-107-62421-4",
@@ -120448,6 +120448,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Effects of learning structure and summarization during computer-based instruction"
+    },
+    "Werner, 2004": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+      ],
+      "title": ""
     },
     "Wescott, 2022": {
       "doi": "",

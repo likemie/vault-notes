@@ -40,8 +40,8 @@ related_concepts:
   - "[[Judgment of Taste]]"
   - "[[Natural Beauty]]"
   - "[[Aesthetic Idea]]"
-  - "[[Poetics]]"
-  - "[[Genius]]"
+  - "[[Philosophical Poetics]]"
+  - "[[Aesthetic Genius]]"
   - "[[The Nonidentical]]"
   - "[[The Sublime]]"
   - "[[Psychologisation]]"
@@ -171,7 +171,7 @@ updated: 2026-11-21
 > - **审美热情与非自愿记忆** 鲍姆加登将情绪感受重新纳入认知理论，提出审美热情（aesthetic enthusiasm）以重释柏拉图贬抑的诗性狂迷（*mania* / *enthousiasmos*），指出艺术意象能够穿透显意识表层，调动意志无法主动提取的沉睡记忆，遥相呼应了普鲁斯特（Marcel Proust）在现代文学中阐发的非自愿记忆（*mémoire involontaire*）（p. 12）。
 
 > [!exegesis]- 解读：历史题材、非自愿记忆与修辞诗学模型
-> 在鲍姆加登的体系中，逻辑真理通过抽象化牺牲了经验的丰富性与个别性；相反，当鉴赏者凝视一件杰出艺术品时，心灵在繁复交织的感性意象中穿梭流连，体验到混淆表象特有的丰沛生机（pp. 10–11）。因此，描摹人类崇高行动的历史叙事画优于单纯的花卉静物，感性意象更能唤醒主体深层非自愿记忆（pp. 10, 12）。在创作方法上，鲍姆加登全面继承了古典修辞学的构思（*inventio*）、布局（*dispositio*）与文采（*elocutio*）三阶段，将其从演说术拓展至造型艺术与音乐创作，确立了18世纪注重典范法度的规则[[Poetics|诗学]]（*Regelpoetiken*），直到后来的[[Sturm und Drang|狂飙突进运动]]才转向强调灵感与主体独创的[[Genius|天才]]诗学（*Geniepoetik*）（pp. 7, 12）。
+> 在鲍姆加登的体系中，逻辑真理通过抽象化牺牲了经验的丰富性与个别性；相反，当鉴赏者凝视一件杰出艺术品时，心灵在繁复交织的感性意象中穿梭流连，体验到混淆表象特有的丰沛生机（pp. 10–11）。因此，描摹人类崇高行动的历史叙事画优于单纯的花卉静物，感性意象更能唤醒主体深层非自愿记忆（pp. 10, 12）。在创作方法上，鲍姆加登全面继承了古典修辞学的构思（*inventio*）、布局（*dispositio*）与文采（*elocutio*）三阶段，将其从演说术拓展至造型艺术与音乐创作，确立了18世纪注重典范法度的规则[[Philosophical Poetics|诗学]]（*Regelpoetiken*），直到后来的[[Sturm und Drang|狂飙突进运动]]才转向强调灵感与主体独创的[[Aesthetic Genius|天才]]诗学（*Geniepoetik*）（pp. 7, 12）。
 
 > [!sub-claim] 3. 鲍姆加登的实践目标最终推翻了它的理论前提
 

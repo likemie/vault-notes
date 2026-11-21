@@ -29,7 +29,7 @@ related_concepts:
   - "[[Central Phenomenon]]"
   - "[[Epistemic Stances]]"
   - "[[Aesthetics of Ugliness]]"
-  - "[[Genius]]"
+  - "[[Aesthetic Genius]]"
   - "[[Research Question]]"
   - "[[Discourse]]"
   - "[[Document]]"
@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-15
-updated: 2026-11-15
+updated: 2026-11-21
 ---
 
 ---
@@ -110,7 +110,7 @@ updated: 2026-11-15
 > 跨越早、中、晚三期，尼采唯一恒定不变的预设是艺术乃生命的刺激物。中期实证主义之所以批评艺术，是因为它认为艺术通过“不纯思想的面纱”和宗教式幻想阻滞人类改进现实；晚期之所以重新高扬艺术，则是因为将美定义为生命能量与权力感的提升，将丑定义为颓废与能量衰竭，从而猛烈攻击康德的无利害（真实靶心实为叔本华将艺术当作逃离意志之万灵药的避世观）与为艺术而艺术。[[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, pp. 144–146)]]
 
 > [!example|notitle]
-> 在《人性的，太人性的》（§146–148）中，尼采指责艺术家如同宗教信徒般沉溺神话与[[Genius|天才]]奇迹，“终生停留在儿童或少年阶段”，这与克尔凯郭尔将审美阶段诊断为“发育停滞”形成了显著平行；而在晚期《尼采反瓦格纳》中，他则明确宣称对瓦格纳音乐的反对实为生理学判断，“美学无非是应用生理学”。[[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, pp. 145, 147)]]
+> 在《人性的，太人性的》（§146–148）中，尼采指责艺术家如同宗教信徒般沉溺神话与[[Aesthetic Genius|天才]]奇迹，“终生停留在儿童或少年阶段”，这与克尔凯郭尔将审美阶段诊断为“发育停滞”形成了显著平行；而在晚期《尼采反瓦格纳》中，他则明确宣称对瓦格纳音乐的反对实为生理学判断，“美学无非是应用生理学”。[[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, pp. 145, 147)]]
 
 > [!theory-proposition] 命题三｜晚期哲学审美化以“创造性欺骗”取代客观真理，将自我与宇宙皆重塑为艺术品
 > 在 1880 年代的第三阶段，美学取代形而上学成为第一哲学，但已脱离谢林式的真理器官定位，转而充当“创造性、不可避免且受欢迎的欺骗”的器官。尼采不仅将宇宙与自我审美化（“成为自己生活的诗人”），而且将真理归结为隐喻大军与[[Perspectivism|视角主义]]阐释，并将哲学推进动力归因于“改变共同趣味”而非理性论证。[[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, pp. 137–138, 146–148)]]

@@ -27,7 +27,7 @@ related_concepts:
   - "[[Subjectivism]]"
   - "[[Aesthetic Education]]"
   - "[[Alienation]]"
-  - "[[Genius]]"
+  - "[[Aesthetic Genius]]"
   - "[[Champ]]"
 related_theories: []
 related_methods: []
@@ -52,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: "2026-11-15"
-updated: 2026-11-15
+updated: 2026-11-21
 ---
 
 ---
@@ -120,7 +120,7 @@ updated: 2026-11-15
 > [!dev-timeline] 概念演变
 > - **1750–1758 — 认知自主萌芽** 鲍姆嘉通在《美学》中确立独立于逻辑真理的审美真理，客观上动摇了美学对逻辑的从属地位。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 12–13)]]
 > - **1755–1785 — 心理与伦理自主推进** 门德尔松先后提出表象完美独立、舞台自有其道德与赞同官能，推动美学从规则诗学转向接受美学并扩大艺术自主空间。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 17–19)]]
-> - **1790 — 范式确立** 康德《判断力批判》切断美与概念认知的直接绑缚，正式确立审美判断的先验独立地位，并在“自然借[[Genius|天才]]给艺术立法”中规定艺术生产自主性。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 21–23, 35–36)]]
+> - **1790 — 范式确立** 康德《判断力批判》切断美与概念认知的直接绑缚，正式确立审美判断的先验独立地位，并在“自然借[[Aesthetic Genius|天才]]给艺术立法”中规定艺术生产自主性。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 21–23, 35–36)]]
 > - **1793–1803 — 形式自足与外观隔离** [[Friedrich Schiller|席勒]]在《卡里亚斯书简》《审美教育书简》与《墨西拿的新娘》序言中提出“显现中的自由”与诚实自足的[[Aesthetic Semblance|审美外观]]，彻底切断艺术与现实功利、认知结论的关联。[[Argument_Hammermeister_2002_Cambridge_Ch03|(Hammermeister, 2002, pp. 54–55, 57–58)]]
 > - **1800 — 自身即目的的体系顶点** 谢林在《先验唯心论体系》中反对赋予艺术任何经济、感官、道德或科学用途，将艺术确立为优先于科学探索的绝对自由领域。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 73–74)]]
 
@@ -139,7 +139,7 @@ updated: 2026-11-15
 > | [[Aesthetic Truth]] | 概念 | 审美真理独立于逻辑真理的地位是鲍姆嘉通推动美学自主的认识论依据。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 12–13)]] |
 > | [[Disinterested Pleasure]] | 概念 | 门德尔松与康德先后通过无功利愉悦将审美体验从欲望与实用目的中解放出来。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 18–19)]]；[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 28–29)]] |
 > | [[Judgment of Taste]] | 概念 | 康德确立审美判断独立于概念认知与道德利害的核心机制。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 23, 28–32)]] |
-> | [[Genius]] | 概念 | 康德赋予艺术创作摆脱陈规模仿、自主确立新规范的生产机制。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 35–36)]] |
+> | [[Aesthetic Genius]] | 概念 | 康德赋予艺术创作摆脱陈规模仿、自主确立新规范的生产机制。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 35–36)]] |
 > | [[Aesthetic Semblance]] | 概念 | 席勒借由放弃现实声索的纯粹审美外观，将形式自主推向与现实彻底分离的境地。[[Argument_Hammermeister_2002_Cambridge_Ch03\|(Hammermeister, 2002, pp. 57–58)]] |
 > | [[Alexander Gottlieb Baumgarten]] | 人物 | 客观上以审美真理动摇理性主义独尊，开启美学独立化进程。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 12–13)]] |
 > | [[Moses Mendelssohn]] | 人物 | 以表象完美、赞同官能与舞台道德进一步拓展艺术自主空间。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 17–19)]] |

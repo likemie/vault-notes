@@ -35,7 +35,7 @@ related_concepts:
   - "[[Veil of Maya]]"
   - "[[Epoché]]"
   - "[[Asceticism]]"
-  - "[[Genius]]"
+  - "[[Aesthetic Genius]]"
   - "[[Ersatz Religion]]"
   - "[[Praxis]]"
   - "[[Epistemology]]"
@@ -65,7 +65,7 @@ related_facts:
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: 2026-11-17
+updated: 2026-11-21
 ---
 
 ---
@@ -107,7 +107,7 @@ updated: 2026-11-17
 > > *All willing is founded in need [Bedürfniss], hence in lack [Mangel], hence in suffering.*
 
 > [!person-thesis] 主张二｜审美静观与音乐能够暂时[[Epoché|悬置]]意志奴役，但艺术只能提供个人避世的短暂安慰
-> 唯有在审美静观、同情伦理与[[Asceticism|禁欲否定]]三条道路中，主体才能暂时或彻底摆脱[[Principium Individuationis|个体化原理]]的幻象。在审美经验中，[[Genius|天才]]与静观主体脱离充足理由律的因果关联，直接直观意志客体化的[[Plato|柏拉图]]理念，而音乐更跳过理念直接客体化意志本身；然而，主体终究必须重返受欲望支配的日常世界，艺术因此从道德与共同体教化抽离，转化为孤立个体逃离现实的短暂慰藉。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 116–127)]]
+> 唯有在审美静观、同情伦理与[[Asceticism|禁欲否定]]三条道路中，主体才能暂时或彻底摆脱[[Principium Individuationis|个体化原理]]的幻象。在审美经验中，[[Aesthetic Genius|天才]]与静观主体脱离充足理由律的因果关联，直接直观意志客体化的[[Plato|柏拉图]]理念，而音乐更跳过理念直接客体化意志本身；然而，主体终究必须重返受欲望支配的日常世界，艺术因此从道德与共同体教化抽离，转化为孤立个体逃离现实的短暂慰藉。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 116–127)]]
 >
 > > [!thesis-quote] 凯·哈默迈斯特论叔本华美学的历史转向
 > > 在叔本华那里，美学发生了个人主义转向，艺术脱离共同体与实践参与，沦为孤立个体逃离不可忍受之现实的解脱技术，开启了[[Aestheticism|唯美主义]]与艺术[[Ersatz Religion|替代性宗教]]化的现代路径。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 112–113, 126–127)]]
@@ -135,7 +135,7 @@ updated: 2026-11-17
 > [!debates] 学术争议
 >
 > > [!axis] 审美静观的被动性要求 vs 意志主动参与
-> > 叔本华宣称审美静观必须彻底摆脱意志，却在静观启动、[[Genius|天才]]制作与[[The Sublime|崇高]]体验中重新引入意志力量的主动介入。
+> > 叔本华宣称审美静观必须彻底摆脱意志，却在静观启动、[[Aesthetic Genius|天才]]制作与[[The Sublime|崇高]]体验中重新引入意志力量的主动介入。
 > >
 > > - **保罗·盖耶（Paul Guyer, 1996）** 批评“脱离意志的静观必须以主动投入的意志为开端”，暴露出无意志体验与创作动能之间的张力。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 118–121, 231)]]
 > > - **凯·哈默迈斯特（Kai Hammermeister）** 指出叔本华在界定[[The Interesting|趣味性]]与崇高主体抗争恐惧时，实质承认了意志的主动参与。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 118–123)]]
@@ -159,7 +159,7 @@ updated: 2026-11-17
 > | [[Voluntarism]] | 概念 | 颠倒西方理性居先传统，确立非理性盲目意志作为世界自在之物的本体论地位。 |
 > | [[Principle of Sufficient Reason]] | 概念 | 将康德十二范畴压缩为单一认知律，划定日常科学认知的现象界边界。 |
 > | [[Principium Individuationis]] | 概念 | 将时空个体化视为“摩耶之幕”幻象，以此解释人类利己冲突与苦难根源。 |
-> | [[Genius]] | 概念 | 界定为认知压倒意志的罕见禀赋，承担剥除现象杂质与传达理念的功能。 |
+> | [[Aesthetic Genius]] | 概念 | 界定为认知压倒意志的罕见禀赋，承担剥除现象杂质与传达理念的功能。 |
 > | [[The Sublime]] | 概念 | 区分美与崇高：前者无冲突进入静观，后者需主体猛烈挣脱恐惧进入静观。 |
 > | [[The Interesting]] | 概念 | 界定迫使意志作出反应的刺激物，划清纯粹美感与欲望扰动的边界。 |
 > | [[Aestheticism]] | 概念 | 剥离艺术的道德与共同体义务，开启个体避世与艺术替代性宗教的现代转向。 |

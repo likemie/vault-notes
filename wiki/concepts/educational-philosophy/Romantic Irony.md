@@ -19,7 +19,7 @@ tags:
   - theme/romanticism
 related_concepts:
   - "[[Sittlichkeit]]"
-  - "[[Genius]]"
+  - "[[Aesthetic Genius]]"
   - "[[New Mythology]]"
 related_theories:
   - "[[Schelling's Aesthetics]]"
@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: 2026-11-15
+updated: 2026-11-21
 ---
 
 ---
@@ -81,7 +81,7 @@ updated: 2026-11-15
 > >
 > > - **Behler (1988) 与 [[Manfred Frank]]** 恩斯特·贝勒（Ernst Behler）主张浪漫反讽只是将苏格拉底反讽应用于文学（Behler, 1988）；曼弗雷德·弗兰克（Manfred Frank）则认为浪漫反讽是对自我自大幻想的贬抑。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 84–85)]]
 > > - **Bubner (1995)** 吕迪格·布布纳（Rüdiger Bubner）认为施莱格尔的反讽在[[Johann Gottlieb Fichte|费希特]]“绝对自我”与黑格尔“客观绝对者”之间扮演辩证中介，不断唤起超越既有成就、趋向绝对者的渴望（Bubner, 1995）。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 227 n.37)]]
-> > - **[[Georg Wilhelm Friedrich Hegel|黑格尔]]与克尔凯郭尔（[[Søren Kierkegaard]]）** 黑格尔批评浪漫反讽违背要求个体认同的[[Sittlichkeit|社会风习]]（*Sittlichkeit*），切断一切现实纽带，“只活在自我享乐的极乐之中”（13. 95），是自我吹捧的任性自我之症候（不过《哲学全书纲要》§560 对谢林与浪漫[[Genius|天才]]的评价相对温和）；克尔凯郭尔在《论反讽概念》中指出，当浪漫诗人自诩同时主宰理念与现象、随心立废万物时，所有严肃性、感恩与谦卑都随之消失，暴露出“膨胀自我”（hypertrophic self）与价值共识瓦解的危机。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 85)]]; [[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 93–94)]]
+> > - **[[Georg Wilhelm Friedrich Hegel|黑格尔]]与克尔凯郭尔（[[Søren Kierkegaard]]）** 黑格尔批评浪漫反讽违背要求个体认同的[[Sittlichkeit|社会风习]]（*Sittlichkeit*），切断一切现实纽带，“只活在自我享乐的极乐之中”（13. 95），是自我吹捧的任性自我之症候（不过《哲学全书纲要》§560 对谢林与浪漫[[Aesthetic Genius|天才]]的评价相对温和）；克尔凯郭尔在《论反讽概念》中指出，当浪漫诗人自诩同时主宰理念与现象、随心立废万物时，所有严肃性、感恩与谦卑都随之消失，暴露出“膨胀自我”（hypertrophic self）与价值共识瓦解的危机。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 85)]]; [[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 93–94)]]
 
 ---
 

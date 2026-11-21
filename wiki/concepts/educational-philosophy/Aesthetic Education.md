@@ -16,7 +16,7 @@ tags:
 related_concepts:
   - "[[Philosophical Aesthetics]]"
   - "[[Epistemology]]"
-  - "[[Genius]]"
+  - "[[Aesthetic Genius]]"
   - "[[Perfectionism]]"
   - "[[Aesthetic Truth]]"
   - "[[Judgment of Taste]]"
@@ -84,7 +84,7 @@ updated: 2026-11-21
 
 > [!feature] 核心要素
 > - **官能和谐与心理改善** 审美愉悦能够改善身体状态并引发人类全部心智能力的和谐游戏，使低级感性官能与高级理性官能达到良性互动。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 17, 19)]]
-> - **双向完善机制** 艺术既源于[[Genius|天才]]艺术家诸官能的和谐完善，又在欣赏过程中反过来唤醒并提升受众自身的完善程度，使其在审美愉悦中获得精神提升。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 19)]]
+> - **双向完善机制** 艺术既源于[[Aesthetic Genius|天才]]艺术家诸官能的和谐完善，又在欣赏过程中反过来唤醒并提升受众自身的完善程度，使其在审美愉悦中获得精神提升。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 19)]]
 > - **全面人性的培养理想** 克服仅注重抽象推理的未成气候的哲学家（*philosopher manqué*）之偏狭，塑造兼具健康身体、明净理性、正直心灵与审美敏锐度的审美完人（*felix aestheticus*）。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 8–9, 19)]]
 
 > [!logic-map]- 要素关系

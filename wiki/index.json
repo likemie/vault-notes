@@ -4923,6 +4923,18 @@
     ]
   },
   {
+    "title": "Aesthetic Genius",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Aesthetic Genius.md",
+    "aliases": [
+      "审美天才",
+      "艺术天才",
+      "天才论",
+      "Genie",
+      "ingenium"
+    ]
+  },
+  {
     "title": "Aesthetic Idea",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Aesthetic Idea.md",
@@ -5886,16 +5898,6 @@
     ]
   },
   {
-    "title": "Genius",
-    "type": "concept",
-    "path": "wiki/concepts/educational-philosophy/Genius.md",
-    "aliases": [
-      "天才",
-      "Genie",
-      "ingenium"
-    ]
-  },
-  {
     "title": "Haraway's SF",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Haraway's SF.md",
@@ -6456,6 +6458,17 @@
     ]
   },
   {
+    "title": "Philosophical Poetics",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Philosophical Poetics.md",
+    "aliases": [
+      "哲学诗学",
+      "规则诗学",
+      "诗学理论",
+      "Poetik"
+    ]
+  },
+  {
     "title": "Philosophy of Tragedy",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Philosophy of Tragedy.md",
@@ -6496,16 +6509,6 @@
       "Pluriversality",
       "多元宇宙认知",
       "Pluriversal World"
-    ]
-  },
-  {
-    "title": "Poetics",
-    "type": "concept",
-    "path": "wiki/concepts/educational-philosophy/Poetics.md",
-    "aliases": [
-      "诗学",
-      "诗论",
-      "Poetik"
     ]
   },
   {
@@ -9085,6 +9088,18 @@
       "政策场所搜寻",
       "场所转换",
       "制度论坛转移"
+    ]
+  },
+  {
+    "title": "Vocational Holding Pattern",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Vocational Holding Pattern.md",
+    "aliases": [
+      "职教等候回路",
+      "等候回路",
+      "Warteschleifen",
+      "职教过渡等待回路",
+      "Holding Pattern in Vocational Training"
     ]
   },
   {
@@ -44717,6 +44732,18 @@
     "subtype": "policy"
   },
   {
+    "title": "Vocational Training Act of 2005",
+    "type": "fact",
+    "path": "wiki/facts/germany/Vocational Training Act of 2005.md",
+    "aliases": [
+      "2005年德国联邦职业教育法改革",
+      "2005年职业教育法",
+      "Berufsbildungsgesetz 2005",
+      "BBiG 2005"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Alliance for Initial and Further Training",
     "type": "fact",
     "path": "wiki/facts/germany/Alliance for Initial and Further Training.md",
@@ -57253,6 +57280,11 @@
     "title": "Argument_Fan_Song_Zhai_2024_RSEE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Regional Science and Environmental Economics/Argument_Fan_Song_Zhai_2024_RSEE.md"
+  },
+  {
+    "title": "Argument_Thelen_2007_RegGov",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
   },
   {
     "title": "Argument_Hippach-Schneider_Rieder_2022_RCIE",
