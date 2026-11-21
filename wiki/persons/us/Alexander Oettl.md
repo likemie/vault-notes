@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-11-11
+updated: 2026-11-21
 ---
 
 ---
@@ -75,7 +75,7 @@ updated: 2026-11-11
 > - **1978** 出生。
 > - **2009** 在加拿大多伦多大学罗特曼管理学院获得战略管理学博士学位，专注于创新经济学与科学同行效应的计量研究。
 > - **2009–至今** 加盟佐治亚理工学院施勒商学院历任助理教授、副教授及长聘正教授，并获聘为 NBER 兼职研究员。
-> - **2012** 在顶级期刊《管理科学》（*Management Science*）发表奠基性论著《重新概念化明星学者：学者热心度与同行绩效》，同期在《自然》（*Nature*）撰文呼吁学术界制度化表彰热心学者。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 100)]]
+> - **2012** 在顶级期刊《管理科学》（*Management Science*）发表代表性论著《重新概念化明星学者：学者热心度与同行绩效》，同期在《自然》（*Nature*）撰文呼吁学术界制度化表彰热心学者。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 100)]]
 > - **2017** 与阿格拉瓦尔、麦克海尔在《经济学与管理战略期刊》发表全美 255 个进化生物学系长程[[Cohort Study|面板研究]]，实证明星学者对院系原有梯队的深层溢出网络。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 97)]]
 
 ---
@@ -87,8 +87,13 @@ updated: 2026-11-11
 
 ---
 
-> [!claim] 核心思想
-> 亚历山大·厄特尔（Alexander Oettl）主张，科学卓越不仅体现为个人发表工分的高产明星，更深度植根于由乐于分享批评的同行织就的无形互助网络。提供概念实质反馈（如批评思路、澄清假设与指引方向）的热心学者为[[Research Universities|研究型大学]]注入了关键的智识公共品；现代科学评价体制若持续漠视这一非署名维度的价值，将诱发学术利己主义，弱化科学共同体的整体突破动能。
+> [!person-thesis] 主张一｜科学卓越深度植根于非正式同行互助，热心学者的概念反馈构成不可替代的隐性公共品
+> 亚历山大·厄特尔（Alexander Oettl）主张，科学卓越不仅体现为个人发表工分的高产明星，更深度植根于由乐于分享批评的同行织就的无形互助网络。提供概念实质反馈（如批评思路、澄清假设与指引方向）的热心学者为[[Research Universities|研究型大学]]注入了关键的智识公共品；现代科学评价体制若持续漠视这一非署名维度的价值，将诱发学术利己主义，弱化科学共同体的整体突破动能。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 100)]]
+>
+> > [!thesis-quote] 《自然》（2012）
+> > 顶尖学者通常以引文、专利和经费等显性指标被定义，但在学术机构内部，日常提供反馈的同行同样具有不可替代的价值。对学术论著致谢部分的大数据挖掘识别出了那些频繁在致谢中被公开致谢的热心学者。提供概念实质反馈的热心学者，其影响力显著超越仅提供仪器材料借用或实验技术支持的人员。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 100)]]
+> >
+> > *Top-performing scientists are often recognized by citations, grants, and patents... But at the same time, we all benefit from having colleagues who provide valuable [[Feedback|feedback]] on our work.*
 
 ---
 
@@ -98,7 +103,7 @@ updated: 2026-11-11
 > - **政策路径** 为研究型大学的人才招聘、终身教职评审以及团队领导力选拔提供了破除单纯依赖显性发表工分倾向的制度化依据。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang & Barabási (2021)]] — 在第 9 章第 9.1 节（p. 97）与专栏 9.3（p. 100）重点引用厄特尔等人的奠基性实证，构建了明星引才溢出与致谢热心学者的完整经验链条。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang & Barabási (2021)]] — 在第 9 章第 9.1 节（p. 97）与专栏 9.3（p. 100）重点引用厄特尔等人的代表性实证，构建了明星引才溢出与致谢热心学者的完整经验链条。
 
 ---
 
