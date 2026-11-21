@@ -45,6 +45,7 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Institutional Hybridity]]"
   - "[[McDonaldization of Curriculum]]"
+  - "[[Realistic Mathematics Education]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Institutional Isomorphism]]"
@@ -58,6 +59,7 @@ related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[Johann Wolfgang von Goethe]]"
   - "[[Friedrich Schiller]]"
+  - "[[Richard Münch]]"
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
@@ -67,6 +69,7 @@ related_facts:
   - "[[World Trade Organization]]"
   - "[[German Dual Education System]]"
   - "[[G8 Reform in Germany]]"
+  - "[[Hauptschule]]"
 related_arguments: []
 sources:
   - "[[sources/Munch_2014_TCR|Munch_2014_TCR]]"
@@ -96,7 +99,7 @@ issuing_organization: ""
 > [[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD，以下简称经合组织）[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）确立的全球教育标准，如何通过跨国知识专家与[[Neoliberalism|新自由主义]]经济精英的网络联盟形成对教育合法性定义的垄断？这一立足于通用[[Foundational Literacy and Numeracy|基础素养]]与[[Human Capital Theory|人力资本]][[Paradigm|范式]]的外来规制，在遭遇德国以文化传承、深度学科分化及教师专业伦理为核心的本土教育体制时，引发了何种[[Epistemology|认识论]]维度的课程冲突与微观治理转型？当全球趋同规制被强行嵌入未被根本触动的三轨分流历史旧结构中时，为何未带来预期效能优化，反而催生了功能失调的制度混杂体？
 
 > [!claim] 核心主张
-> PISA 测评推行的通用基础素养与人力资本范式，其全球扩散由跨国认知精英与经济精英通过[[Institutional Isomorphism|制度同构]]与符号权力转移建立的政治[[Discourse|话语]]规制所驱动，缺乏基于功能效能客观优越性的实证支持。该规制以[[New Public Management|新公共管理]]（New Public Management, NPM）的技术官僚外部监控取代了科层法治与教师专业伦理，将浅层通用的标准化技能强行植入德国深度分科教学体系与三轨分流旧结构之中，既瓦解了深厚的学科文化教养传统，又加剧了弱势群体边缘化与师生过度负荷，最终形成了功能失调的制度混杂体。
+> 德国社会学家[[Richard Münch|理查德·明希]]（Richard Münch）指出，PISA 测评推行的通用基础素养与人力资本范式，其全球扩散由跨国认知精英与经济精英通过[[Institutional Isomorphism|制度同构]]与符号权力转移建立的政治[[Discourse|话语]]规制所驱动，缺乏基于功能效能客观优越性的实证支持。该规制以[[New Public Management|新公共管理]]（New Public Management, NPM）的技术官僚外部监控取代了科层法治与教师专业伦理，将浅层通用的标准化技能强行植入德国深度分科教学体系与三轨分流旧结构之中，既瓦解了深厚的学科文化教养传统，又加剧了弱势群体边缘化与师生过度负荷，最终形成了功能失调的制度混杂体。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 经合组织与 PISA 全球标准及其在德意志联邦共和国中等教育体制（文法中学与主要中学）中的政策规制与课程冲突。
@@ -124,7 +127,7 @@ issuing_organization: ""
 > |------|----------------|
 > | **比较课程与大纲文本对质**<br>Comparative Curriculum and Syllabus Analysis | 系统对质 PISA 2000 试题框架与德国文法中学、[[Standing Conference of the Ministers of Education and Cultural Affairs\|常设各州教育与文化部长会议]]（Standing Conference of the Ministers of Education and Cultural Affairs, KMK）教学大纲，重点比对数学、阅读与自然科学领域的考核[[Construct\|构念]]、文本类型与题型结构差异。 |
 > | **制度社会学场域权力剖析**<br>Sociological Institutional Analysis | 结合新制度主义社会学与布迪厄场域分析框架，追踪跨国组织（经合组织、[[World Bank\|世界银行]]与世界经济论坛）与国内行动者（政党、各州教育部长、教师协会、工会）之间的权力转移与话语博弈。 |
-> | **体制演变与案例考察**<br>Institutional Case Analysis | 聚焦巴伐利亚州[[G8 Reform in Germany|八年制文理中学改革]]（Gymnasium 8-jährig, G8）的学制压缩与主要中学（Hauptschule）社会隔离演变，考察全球素养规制在德国地方教育生态中的深层病理反应。 |
+> | **体制演变与案例考察**<br>Institutional Case Analysis | 聚焦巴伐利亚州[[G8 Reform in Germany|八年制文理中学改革]]（Gymnasium 8-jährig, G8）的学制压缩与[[Hauptschule|主要中学]]（Hauptschule）社会隔离演变，考察全球素养规制在德国地方教育生态中的深层病理反应。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -199,7 +202,7 @@ issuing_organization: ""
 > [!row-contrast] 课程传统与 PISA 测评构念的领域对质
 > | 考察维度 | 德国传统课程与教学范式 | PISA 国际测评构念标准 | 认识论冲突实质 |
 > |:---|:---|:---|:---|
-> | **数学教育** | 强调微积分导向与欧几里得几何严密演绎推理，注重学科内部深层逻辑。 | 采纳源自英美主导的现实数学教育（Realistic Mathematics Education, RME），偏重日常生活情境中的通用认知素养（Baumert et al., 2001, pp. 178–179）。 | 德国学生在欧几里得几何等特定专业领域表现优异，但在缺乏情境包裹的基础通用数学问题上得分偏低。 |
+> | **数学教育** | 强调微积分导向与欧几里得几何严密演绎推理，注重学科内部深层逻辑。 | 采纳源自英美主导的[[Realistic Mathematics Education|现实数学教育]]（Realistic Mathematics Education, RME），偏重日常生活情境中的通用认知素养（Baumert et al., 2001, pp. 178–179）。 | 德国学生在欧几里得几何等特定专业领域表现优异，但在缺乏情境包裹的基础通用数学问题上得分偏低。 |
 > | **阅读素养** | 广泛精读[[Johann Wolfgang von Goethe\|歌德]]、[[Friedrich Schiller\|席勒]]与里尔克等古典与现代文学经典文本，注重思想深度、审美体验与道德反思。 | 大量充斥说明书、技术手册、图表等非连续性实用文本（PISA 2000 中占比达 38%）。 | 测评抛开深厚文学传统，将阅读能力窄化为提取生活与职场功能性信息的浅层技能。 |
 > | **自然科学** | 物理、化学、生物独立成科分化教学，课时充裕（达 144 课时，比国际平均多 16 课时），由专业教师系统讲授。 | 倡导源自英美的大众科学素养（Scientific Literacy），考查跨学科通用过程理解（Baumert et al., 2001, pp. 193–201）。 | 德国学生隐含掌握的跨学科素养未被显性设题契合，而在涉及环境等课程契合试题上表现明显更佳。 |
 

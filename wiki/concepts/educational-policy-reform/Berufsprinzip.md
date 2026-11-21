@@ -103,7 +103,7 @@ updated: 2026-11-21
 > **劳资博弈与标准防御** 完整职业原则的维系依赖于劳资三方的权力均衡，工会坚决抵制任何可能将职业整体拆分为廉价局部工种的模块化方案。
 >
 > > [!claim] Hippach-Schneider and Rieder
-> > **工会对模块化侵蚀的防御** 德国工会（如 DGB 与 IG Metall）坚持维护完整职业原则，将部分资格（Teilqualifikationen）与模块化微证书视作对职业系统完整性的潜在威胁，警惕雇主借灵活性之名剥夺年轻人的全面受教育权；德国选择通过推行统一的[[Standardberufsbildpositionen|通用标准职业能力条目]]与选修“附加资质”（Zusatzqualifikationen）实现适应，避免体系滑向碎片化。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, pp. 631–633)]]
+> > **工会对模块化侵蚀的防御** 德国工会（如 DGB 与 IG Metall）坚持维护完整职业原则，将部分资格（Teilqualifikationen）与模块化微证书视作对职业系统完整性的潜在威胁，警惕雇主借灵活性之名剥夺年轻人的全面受教育权；德国选择通过推行统一的通用标准职业能力条目（Standardberufsbildpositionen）与选修“附加资质”（Zusatzqualifikationen）实现适应，避免体系滑向碎片化。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, pp. 631–633)]]
 
 ---
 
@@ -137,7 +137,6 @@ updated: 2026-11-21
 > |:-----|:-----|:-----|
 > | [[Actor-Centred Institutionalism]] | 理论 | 用于解析工会与雇主协会围绕职业原则与模块化展开的博弈策略。 |
 > | [[Collective Skill Formation]] | 理论 | 完整职业原则构成了集体技能形成模式区别于自由主义技能体系的关键基石。 |
-> | [[Standardberufsbildpositionen]] | 政策 | 德国在维持完整职业原则框架下向全部职业嵌入数字化与可持续发展素养的制度工具。 |
 > | [[German Dual Education System]] | 事实 | 完整职业原则是德国双元制职业教育的根本法治与组织基石。 |
 
 ---

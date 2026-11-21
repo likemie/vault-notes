@@ -2508,6 +2508,15 @@
         "美国国家半导体中心"
       ]
     },
+    "Nationaler Bildungsrat": {
+      "path": "wiki/facts/germany/Nationaler Bildungsrat.md",
+      "names": [
+        "Nationaler Bildungsrat",
+        "德国国家教育委员会",
+        "国家教育委员会倡议",
+        "National Education Council"
+      ]
+    },
     "Netherlands Initiative for Education Research": {
       "path": "wiki/facts/netherlands/Netherlands Initiative for Education Research.md",
       "names": [
@@ -2686,6 +2695,15 @@
         "OEEC",
         "欧洲经济合作组织",
         "European Economic Co-operation"
+      ]
+    },
+    "Organisations of the World of Work": {
+      "path": "wiki/facts/switzerland/Organisations of the World of Work.md",
+      "names": [
+        "Organisations of the World of Work",
+        "工作界组织",
+        "OdA",
+        "Organisationen der Arbeitswelt"
       ]
     },
     "Palantir Technologies": {
@@ -4203,6 +4221,11 @@
         "wiki/facts/germany/National Pact for Training and Young Skilled Staff.md"
       ]
     },
+    "德国联邦议院（German Federal Parliament, Bundestag）与德国联邦参议院（German Federal Council, Bundesrat）": {
+      "seen_in": [
+        "wiki/facts/germany/Kooperationsverbot.md"
+      ]
+    },
     "意大利共和国议会（Parlamento Italiano） / 意大利教育部（MIUR）": {
       "seen_in": [
         "wiki/facts/italy/La Buona Scuola.md"
@@ -4341,6 +4364,11 @@
     "联合质量倡议（Joint Quality Initiative）/ 博洛尼亚进程后继工作组": {
       "seen_in": [
         "wiki/facts/europe/Dublin Descriptors.md"
+      ]
+    },
+    "联邦职业教育研究所主事会（Board of the Federal Institute for Vocational Education and Training, BIBB-Hauptausschuss）": {
+      "seen_in": [
+        "wiki/facts/germany/Standardberufsbildpositionen.md"
       ]
     },
     "芬兰国家大学入学统考委员会": {

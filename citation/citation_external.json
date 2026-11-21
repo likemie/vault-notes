@@ -1493,8 +1493,13 @@
     "BERA-RSA, 2014": "BERA-RSA, 2014",
     "BIBB (2015)": "BIBB, 2015",
     "BIBB, 2015": "BIBB, 2015",
+    "BLK (2003)": "BLK, 2003",
+    "BLK (2004)": "BLK, 2004",
+    "BLK, 2003": "BLK, 2003",
+    "BLK, 2004": "BLK, 2004",
     "BLV (2013)": "BLV, 2013",
     "BLV, 2013": "BLV, 2013",
+    "BMBF (2003)": "BMBF, 2003",
     "BMBF (2007)": "BMBF, 2007",
     "BMBF (2013a)": "BMBF, 2013a",
     "BMBF (2013b)": "BMBF, 2013b",
@@ -1507,6 +1512,7 @@
     "BMBF (2023)": "BMBF, 2023",
     "BMBF (2024a)": "BMBF, 2024a",
     "BMBF (2024b)": "BMBF, 2024b",
+    "BMBF, 2003": "BMBF, 2003",
     "BMBF, 2007": "BMBF, 2007",
     "BMBF, 2013a": "BMBF, 2013a",
     "BMBF, 2013b": "BMBF, 2013b",
@@ -1569,6 +1575,8 @@
     "Baddeley, 2000": "Baddeley, 2000",
     "Badeo & Duque (2022)": "Badeo & Duque, 2022",
     "Badeo & Duque, 2022": "Badeo & Duque, 2022",
+    "Bader & Müller (2002)": "Bader & Müller, 2002",
+    "Bader & Müller, 2002": "Bader & Müller, 2002",
     "Bae & Sahin (2021)": "Bae & Sahin, 2021",
     "Bae & Sahin, 2021": "Bae & Sahin, 2021",
     "Baechle (1990)": "Baechle, 1990",
@@ -2113,8 +2121,12 @@
     "Baumert & Schümer (2001)": "Baumert & Schümer, 2001",
     "Baumert & Schümer, 2001": "Baumert & Schümer, 2001",
     "Baumert et al. (2001)": "Baumert et al., 2001",
+    "Baumert et al. (2002)": "Baumert et al., 2002",
+    "Baumert et al. (2003)": "Baumert et al., 2003",
     "Baumert et al. (2010)": "Baumert et al., 2010",
     "Baumert et al., 2001": "Baumert et al., 2001",
+    "Baumert et al., 2002": "Baumert et al., 2002",
+    "Baumert et al., 2003": "Baumert et al., 2003",
     "Baumert et al., 2010": "Baumert et al., 2010",
     "Baumgartner & Jones (1993)": "Baumgartner & Jones, 1993",
     "Baumgartner & Jones, 1993": "Baumgartner & Jones, 1993",
@@ -2219,7 +2231,9 @@
     "Becker, 1989": "Becker, 1989",
     "Becker, 1990": "Becker, 1990",
     "Becker, 2006": "Becker, 2006",
+    "Beckmann (2004)": "Beckmann, 2004",
     "Beckmann (2009)": "Beckmann, 2009",
+    "Beckmann, 2004": "Beckmann, 2004",
     "Beckmann, 2009": "Beckmann, 2009",
     "Bedard (2020)": "Bedard, 2020",
     "Bedard et al. (2019)": "Bedard et al., 2019",
@@ -2973,6 +2987,8 @@
     "Bogliacino & Pianta, 2011": "Bogliacino & Pianta, 2011",
     "Boh (2007)": "Boh, 2007",
     "Boh, 2007": "Boh, 2007",
+    "Bohl (2004)": "Bohl, 2004",
+    "Bohl, 2004": "Bohl, 2004",
     "Boice (1990)": "Boice, 1990",
     "Boice, 1990": "Boice, 1990",
     "Boit (2010)": "Boit, 2010",
@@ -3140,7 +3156,9 @@
     "Borón, 2002": "Borón, 2002",
     "Bos (1990)": "Bos, 1990",
     "Bos (1992)": "Bos, 1992",
+    "Bos et al. (2003)": "Bos et al., 2003",
     "Bos et al. (2012)": "Bos et al., 2012",
+    "Bos et al., 2003": "Bos et al., 2003",
     "Bos et al., 2012": "Bos et al., 2012",
     "Bos, 1990": "Bos, 1990",
     "Bos, 1992": "Bos, 1992",
@@ -3785,6 +3803,8 @@
     "Bulut, 2017": "Bulut, 2017",
     "Bundesregierung (2024)": "Bundesregierung, 2024",
     "Bundesregierung, 2024": "Bundesregierung, 2024",
+    "Bung (2004)": "Bung, 2004",
+    "Bung, 2004": "Bung, 2004",
     "Bunge (1985)": "Bunge, 1985",
     "Bunge, 1985": "Bunge, 1985",
     "Bunketorp (2015)": "Bunketorp, 2015",
@@ -6007,6 +6027,8 @@
     "DET Victoria, 2017": "DET Victoria, 2017",
     "DFID (1997)": "DFID, 1997",
     "DFID, 1997": "DFID, 1997",
+    "DGB & BDA (2005)": "DGB & BDA, 2005",
+    "DGB & BDA, 2005": "DGB & BDA, 2005",
     "DGB (2019)": "DGB, 2019",
     "DGB, 2019": "DGB, 2019",
     "DWP (2007)": "DWP, 2007",
@@ -6579,6 +6601,11 @@
     "Deutsch, 1949": "Deutsch, 1949",
     "Deutscher Bundestag - wissenschaftliche Dienste (2016)": "Deutscher Bundestag - wissenschaftliche Dienste, 2016",
     "Deutscher Bundestag - wissenschaftliche Dienste, 2016": "Deutscher Bundestag - wissenschaftliche Dienste, 2016",
+    "Deutsches PISA-Konsortium (2001)": "Deutsches PISA-Konsortium, 2001",
+    "Deutsches PISA-Konsortium (2003)": "Deutsches PISA-Konsortium, 2003",
+    "Deutsches PISA-Konsortium, 2001": "Deutsches PISA-Konsortium, 2001",
+    "Deutsches PISA-Konsortium, 2003": "Deutsches PISA-Konsortium, 2003",
+    "Deutsches PISA-Konsortium, 2003b": "Deutsches PISA-Konsortium, 2003",
     "Deutsches Zentrum für Luft- und Raumfahrt (2017)": "Deutsches Zentrum für Luft- und Raumfahrt, 2017",
     "Deutsches Zentrum für Luft- und Raumfahrt (2018)": "Deutsches Zentrum für Luft- und Raumfahrt, 2018",
     "Deutsches Zentrum für Luft- und Raumfahrt (2019)": "Deutsches Zentrum für Luft- und Raumfahrt, 2019",
@@ -7803,6 +7830,8 @@
     "Eriksen (2022)": "Eriksen, 2022",
     "Eriksen, 2022": "Eriksen, 2022",
     "Erikson (1967)": "Erikson, 1967",
+    "Erikson et al. (1979)": "Erikson et al., 1979",
+    "Erikson et al., 1979": "Erikson et al., 1979",
     "Erikson, 1967": "Erikson, 1967",
     "Eriksson & Martinsen (2012)": "Eriksson & Martinsen, 2012",
     "Eriksson & Martinsen, 2012": "Eriksson & Martinsen, 2012",
@@ -9386,6 +9415,8 @@
     "Gehring et al., 2005": "Gehring et al., 2005",
     "Geiger (2004)": "Geiger, 2004",
     "Geiger, 2004": "Geiger, 2004",
+    "Geißler (2004)": "Geißler, 2004",
+    "Geißler, 2004": "Geißler, 2004",
     "Gellin (2003)": "Gellin, 2003",
     "Gellin, 2003": "Gellin, 2003",
     "Gellner (1975)": "Gellner, 1975",
@@ -10343,6 +10374,8 @@
     "Groves, 2023": "Groves, 2023",
     "Grubbs' (1950)": "Grubbs', 1950",
     "Grubbs', 1950": "Grubbs', 1950",
+    "Gruber (2006)": "Gruber, 2006",
+    "Gruber, 2006": "Gruber, 2006",
     "Grumet (1998)": "Grumet, 1998",
     "Grumet, 1998": "Grumet, 1998",
     "Grundy & Kemmis (1988)": "Grundy & Kemmis, 1988",
@@ -11474,6 +11507,8 @@
     "Herrera, 2011a": "Herrera, 2011b",
     "Herrera, 2011b": "Herrera, 2011b",
     "Herrera, 2013": "Herrera, 2013",
+    "Herrmann (2004)": "Herrmann, 2004",
+    "Herrmann, 2004": "Herrmann, 2004",
     "Herson (1961)": "Herson, 1961",
     "Herson, 1961": "Herson, 1961",
     "Herzog (1960)": "Herzog, 1960",
@@ -12298,6 +12333,8 @@
     "INCITE, 2010": "INCITE, 2010",
     "INES (1988)": "INES, 1988",
     "INES, 1988": "INES, 1988",
+    "IPN (2004)": "IPN, 2004",
+    "IPN, 2004": "IPN, 2004",
     "IQB (2016)": "IQB, 2016",
     "IQB, 2016": "IQB, 2016",
     "Ialongo (1999)": "Ialongo, 1999",
@@ -12637,6 +12674,8 @@
     "Jang, 2020": "Jang, 2020",
     "Janiszewski et al. (2003)": "Janiszewski et al., 2003",
     "Janiszewski et al., 2003": "Janiszewski et al., 2003",
+    "Jank & Meyer (1994)": "Jank & Meyer, 1994",
+    "Jank & Meyer, 1994": "Jank & Meyer, 1994",
     "Jankowicz (2003)": "Jankowicz, 2003",
     "Jankowicz, 2003": "Jankowicz, 2003",
     "Jannsen (2014)": "Jannsen, 2014",
@@ -13242,9 +13281,11 @@
     "K.S. (1989)": "K.S., 1989",
     "K.S., 1967": "K.S., 1967",
     "K.S., 1989": "K.S., 1989",
+    "KMK (2005)": "KMK, 2005",
     "KMK (2006)": "KMK, 2006",
     "KMK (2015)": "KMK, 2015",
     "KMK (2019)": "KMK, 2019",
+    "KMK, 2005": "KMK, 2005",
     "KMK, 2006": "KMK, 2006",
     "KMK, 2015": "KMK, 2015",
     "KMK, 2019": "KMK, 2019",
@@ -14042,6 +14083,8 @@
     "Kingston & Nash, 2011": "Kingston & Nash, 2011a",
     "Kingston & Nash, 2011a": "Kingston & Nash, 2011b",
     "Kingston & Nash, 2011b": "Kingston & Nash, 2011b",
+    "Kiper (2003)": "Kiper, 2003",
+    "Kiper, 2003": "Kiper, 2003",
     "Kirat & Lung (1999)": "Kirat & Lung, 1999",
     "Kirat & Lung, 1999": "Kirat & Lung, 1999",
     "Kirk & Miller (1986)": "Kirk & Miller, 1986",
@@ -14138,10 +14181,13 @@
     "Kleibert, 2018": "Kleibert, 2018",
     "Klein & Verhulst (2017)": "Klein & Verhulst, 2017",
     "Klein & Verhulst, 2017": "Klein & Verhulst, 2017",
+    "Klein (2005)": "Klein, 2005",
     "Klein (2008)": "Klein, 2008",
     "Klein (2012)": "Klein, 2012",
     "Klein et al. (1999)": "Klein et al., 1999",
     "Klein et al., 1999": "Klein et al., 1999",
+    "Klein, 2005": "Klein, 2005",
+    "Klein, 2005a": "Klein, 2005",
     "Klein, 2008": "Klein, 2008",
     "Klein, 2012": "Klein, 2012",
     "Klerides et al. (2014)": "Klerides et al., 2014",
@@ -14913,7 +14959,9 @@
     "Langberg, 2007": "Langberg, 2007",
     "Langberg, 2008": "Langberg, 2008",
     "Lange (1999)": "Lange, 1999",
+    "Lange (2004)": "Lange, 2004",
     "Lange, 1999": "Lange, 1999",
+    "Lange, 2004": "Lange, 2004",
     "Langer et al. (2016)": "Langer et al., 2016",
     "Langer et al., 2016": "Langer et al., 2016",
     "Langley et al. (2009)": "Langley et al., 2009",
@@ -20059,6 +20107,8 @@
     "Peck & Theodore, 2015": "Peck & Theodore, 2015",
     "Pedaste et al. (2015)": "Pedaste et al., 2015",
     "Pedaste et al., 2015": "Pedaste et al., 2015",
+    "Peek (2005)": "Peek, 2005",
+    "Peek, 2005": "Peek, 2005",
     "Peeples (1996)": "Peeples, 1996",
     "Peeples, 1996": "Peeples, 1996",
     "Peers & Johnston (1994)": "Peers & Johnston, 1994",
@@ -24032,6 +24082,8 @@
     "Slemp et al., 2024": "Slemp et al., 2024",
     "Sloan (2018)": "Sloan, 2018",
     "Sloan, 2018": "Sloan, 2018",
+    "Sloane & Dilger (2005)": "Sloane & Dilger, 2005",
+    "Sloane & Dilger, 2005": "Sloane & Dilger, 2005",
     "Sloane & Gorard (2003)": "Sloane & Gorard, 2003",
     "Sloane & Gorard, 2003": "Sloane & Gorard, 2003",
     "Slotta & Linn (2009)": "Slotta & Linn, 2009",
@@ -24129,8 +24181,10 @@
     "Smith, 2015": "Smith, 2015",
     "Smith, 2016": "Smith, 2016",
     "Smith, 2017": "Smith, 2017",
+    "Smithers (1997)": "Smithers, 1997",
     "Smithers et al. (2018)": "Smithers et al., 2018",
     "Smithers et al., 2018": "Smithers et al., 2018",
+    "Smithers, 1997": "Smithers, 1997",
     "Smithson (2000)": "Smithson, 2000",
     "Smithson, 2000": "Smithson, 2000",
     "Smolkowski (2017)": "Smolkowski, 2017",
@@ -25737,6 +25791,8 @@
     "Tikly, 2004": "Tikly, 2004",
     "Tillman (2002)": "Tillman, 2002",
     "Tillman, 2002": "Tillman, 2002",
+    "Tillmann (2004)": "Tillmann, 2004",
+    "Tillmann, 2004": "Tillmann, 2004",
     "Tilton & Toole (2010)": "Tilton & Toole, 2010",
     "Tilton & Toole, 2010": "Tilton & Toole, 2010",
     "Tilton (1971)": "Tilton, 1971",
@@ -38484,7 +38540,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26.md"
+        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26.md",
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
       "title": ""
     },
@@ -40529,6 +40586,36 @@
       ],
       "title": ""
     },
+    "BLK, 2003": {
+      "aliases": [
+        "BLK, 2003",
+        "BLK (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "BLK, 2003"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+      ],
+      "title": ""
+    },
+    "BLK, 2004": {
+      "aliases": [
+        "BLK, 2004",
+        "BLK (2004)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "BLK, 2004"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+      ],
+      "title": ""
+    },
     "BLV, 2013": {
       "aliases": [
         "BLV, 2013",
@@ -40541,6 +40628,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/germany/Qualitätsoffensive Lehrerbildung.md"
+      ],
+      "title": ""
+    },
+    "BMBF, 2003": {
+      "aliases": [
+        "BMBF, 2003",
+        "BMBF (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "BMBF, 2003"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
       "title": ""
     },
@@ -41092,6 +41194,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "The effect of Socio-Scientific Issues (SSI) in teaching science: A meta-analysis study."
+    },
+    "Bader & Müller, 2002": {
+      "aliases": [
+        "Bader & Müller, 2002",
+        "Bader & Müller (2002)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bader & Müller, 2002"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+      ],
+      "title": ""
     },
     "Bae & Sahin, 2021": {
       "aliases": [
@@ -45102,6 +45219,36 @@
       ],
       "title": "PISA 2000. Basiskompetenzen von Schülerinnen und Schülern im internationalen Vergleich"
     },
+    "Baumert et al., 2002": {
+      "aliases": [
+        "Baumert et al., 2002",
+        "Baumert et al. (2002)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Baumert et al., 2002"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+      ],
+      "title": ""
+    },
+    "Baumert et al., 2003": {
+      "aliases": [
+        "Baumert et al., 2003",
+        "Baumert et al. (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Baumert et al., 2003"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+      ],
+      "title": ""
+    },
     "Baumert et al., 2010": {
       "aliases": [
         "Baumert et al., 2010",
@@ -45866,6 +46013,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Student achievement as a function of class size and pupil-teacher ratio"
+    },
+    "Beckmann, 2004": {
+      "aliases": [
+        "Beckmann, 2004",
+        "Beckmann (2004)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Beckmann, 2004"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+      ],
+      "title": ""
     },
     "Beckmann, 2009": {
       "aliases": [
@@ -51486,6 +51648,21 @@
       ],
       "title": ""
     },
+    "Bohl, 2004": {
+      "aliases": [
+        "Bohl, 2004",
+        "Bohl (2004)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bohl, 2004"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+      ],
+      "title": ""
+    },
     "Boice, 1990": {
       "aliases": [
         "Boice, 1990",
@@ -52696,6 +52873,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/comparative-education/Post-Imperialism Theory.md"
+      ],
+      "title": ""
+    },
+    "Bos et al., 2003": {
+      "aliases": [
+        "Bos et al., 2003",
+        "Bos et al. (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bos et al., 2003"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
       "title": ""
     },
@@ -57540,6 +57732,21 @@
         "wiki/arguments/journal-articles/Interkulturelles Forum der deutsch-chinesischen Kommunikation/Argument_Luo_2026_IFDCK.md"
       ],
       "title": "Antwort auf die Kleine Anfrage der Fraktion der CDU/CSU: Stand des Ausbaus der China-Kompetenz in Deutschland (Drucksache 20/11181)"
+    },
+    "Bung, 2004": {
+      "aliases": [
+        "Bung, 2004",
+        "Bung (2004)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bung, 2004"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+      ],
+      "title": ""
     },
     "Bunge, 1985": {
       "aliases": [
@@ -73716,6 +73923,21 @@
       ],
       "title": ""
     },
+    "DGB & BDA, 2005": {
+      "aliases": [
+        "DGB & BDA, 2005",
+        "DGB & BDA (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "DGB & BDA, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+      ],
+      "title": ""
+    },
     "DGB, 2019": {
       "aliases": [
         "DGB, 2019",
@@ -77958,6 +78180,36 @@
         "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Hippach-Schneider_Rieder_2022_RCIE.md"
       ],
       "title": "Bund-Länder-Vereinbarungen nach Art. 91b GG"
+    },
+    "Deutsches PISA-Konsortium, 2001": {
+      "aliases": [
+        "Deutsches PISA-Konsortium, 2001",
+        "Deutsches PISA-Konsortium (2001)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Deutsches PISA-Konsortium, 2001"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+      ],
+      "title": ""
+    },
+    "Deutsches PISA-Konsortium, 2003": {
+      "aliases": [
+        "Deutsches PISA-Konsortium, 2003",
+        "Deutsches PISA-Konsortium (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Deutsches PISA-Konsortium, 2003b"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+      ],
+      "title": ""
     },
     "Deutsches Zentrum für Luft- und Raumfahrt, 2017": {
       "aliases": [
@@ -85904,6 +86156,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Hippach-Schneider_Rieder_2022_RCIE.md",
+        "wiki/facts/switzerland/Organisations of the World of Work.md",
         "wiki/facts/switzerland/Swiss Vocational and Professional Education and Training Act.md"
       ],
       "title": "Expertenbericht zur systematischen Steuerung der Berufsbildung in der Schweiz"
@@ -86886,6 +87139,21 @@
         "wiki/concepts/teacher-education/Research Literacy.md",
         "wiki/concepts/teacher-education/Teacher Knowledge Base.md",
         "wiki/theories/educational-policy-reform/Four Generations of Research Use.md"
+      ],
+      "title": ""
+    },
+    "Erikson et al., 1979": {
+      "aliases": [
+        "Erikson et al., 1979",
+        "Erikson et al. (1979)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Erikson et al., 1979"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
       "title": ""
     },
@@ -96723,6 +96991,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
         "wiki/concepts/comparative-education/Tripartite School System.md"
       ],
       "title": ""
@@ -98423,6 +98692,21 @@
       "seen_in": [
         "wiki/arguments/journal-articles/International and Comparative Education/Argument_Zhuo_2026_ICE.md",
         "wiki/concepts/university-industry-collaboration/National Innovation System.md"
+      ],
+      "title": ""
+    },
+    "Geißler, 2004": {
+      "aliases": [
+        "Geißler, 2004",
+        "Geißler (2004)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Geißler, 2004"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
       "title": ""
     },
@@ -105462,6 +105746,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Cartiff_2021_JEP.md"
+      ],
+      "title": ""
+    },
+    "Gruber, 2006": {
+      "aliases": [
+        "Gruber, 2006",
+        "Gruber (2006)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Gruber, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
       "title": ""
     },
@@ -113906,6 +114205,21 @@
       "seen_in": [],
       "title": "The role of risk  Mentoring experiences and outcomes for youth with varying risk profiles."
     },
+    "Herrmann, 2004": {
+      "aliases": [
+        "Herrmann, 2004",
+        "Herrmann (2004)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Herrmann, 2004"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+      ],
+      "title": ""
+    },
     "Herson, 1961": {
       "aliases": [
         "Herson, 1961",
@@ -119900,6 +120214,21 @@
       ],
       "title": ""
     },
+    "IPN, 2004": {
+      "aliases": [
+        "IPN, 2004",
+        "IPN (2004)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "IPN, 2004"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+      ],
+      "title": ""
+    },
     "IQB, 2016": {
       "aliases": [
         "IQB, 2016",
@@ -122378,6 +122707,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "A meta-analysis of the spacing effect in verbal learning: Implications for research on advertising repetition and consumer memory"
+    },
+    "Jank & Meyer, 1994": {
+      "aliases": [
+        "Jank & Meyer, 1994",
+        "Jank & Meyer (1994)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Jank & Meyer, 1994"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+      ],
+      "title": ""
     },
     "Jankowicz, 2003": {
       "aliases": [
@@ -126679,6 +127023,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/us/Ken Goodman.md"
+      ],
+      "title": ""
+    },
+    "KMK, 2005": {
+      "aliases": [
+        "KMK, 2005",
+        "KMK (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "KMK, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
       "title": ""
     },
@@ -132441,6 +132800,21 @@
       "seen_in": [],
       "title": "Formative assessment: A meta-analysis and a call for research"
     },
+    "Kiper, 2003": {
+      "aliases": [
+        "Kiper, 2003",
+        "Kiper (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Kiper, 2003"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+      ],
+      "title": ""
+    },
     "Kirat & Lung, 1999": {
       "aliases": [
         "Kirat & Lung, 1999",
@@ -133178,6 +133552,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Goal commitment and the goal-setting process: conceptual clarification and empirical synthesis"
+    },
+    "Klein, 2005": {
+      "aliases": [
+        "Klein, 2005",
+        "Klein (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Klein, 2005a"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+      ],
+      "title": ""
     },
     "Klein, 2008": {
       "aliases": [
@@ -135489,6 +135878,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
         "wiki/concepts/comparative-education/Tripartite School System.md"
       ],
       "title": ""
@@ -138684,6 +139074,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Dedering_2009_EERJ.md"
+      ],
+      "title": ""
+    },
+    "Lange, 2004": {
+      "aliases": [
+        "Lange, 2004",
+        "Lange (2004)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Lange, 2004"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
       "title": ""
     },
@@ -176204,6 +176609,21 @@
       ],
       "title": ""
     },
+    "Peek, 2005": {
+      "aliases": [
+        "Peek, 2005",
+        "Peek (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Peek, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+      ],
+      "title": ""
+    },
     "Peeples, 1996": {
       "aliases": [
         "Peeples, 1996",
@@ -185845,6 +186265,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Hippach-Schneider_Rieder_2022_RCIE.md",
+        "wiki/facts/switzerland/Organisations of the World of Work.md",
         "wiki/facts/switzerland/Swiss Vocational and Professional Education and Training Act.md"
       ],
       "title": "Governance im Berufsbildungssystem Schweiz: Systemische Steuerung der Berufsbildung in der Schweiz"
@@ -205295,6 +205716,21 @@
       "seen_in": [],
       "title": "Zippy’s Friends  Evaluation report and executive summary"
     },
+    "Sloane & Dilger, 2005": {
+      "aliases": [
+        "Sloane & Dilger, 2005",
+        "Sloane & Dilger (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Sloane & Dilger, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+      ],
+      "title": ""
+    },
     "Sloane & Gorard, 2003": {
       "aliases": [
         "Sloane & Gorard, 2003",
@@ -205993,6 +206429,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "A systematic review and meta-analysis of effects of early life non-cognitive skills on academic, psychosocial, cognitive and health outcomes. achievement, psychosocial, language and cognitive, and health outcomes"
+    },
+    "Smithers, 1997": {
+      "aliases": [
+        "Smithers, 1997",
+        "Smithers (1997)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Smithers, 1997"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+      ],
+      "title": ""
     },
     "Smithson, 2000": {
       "aliases": [
@@ -217652,6 +218103,21 @@
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09.md",
         "wiki/concepts/research-methodology/Sensitive Research.md"
+      ],
+      "title": ""
+    },
+    "Tillmann, 2004": {
+      "aliases": [
+        "Tillmann, 2004",
+        "Tillmann (2004)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Tillmann, 2004"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
       "title": ""
     },
