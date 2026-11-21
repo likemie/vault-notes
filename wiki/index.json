@@ -4001,6 +4001,17 @@
     ]
   },
   {
+    "title": "Realistic Mathematics Education",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Realistic Mathematics Education.md",
+    "aliases": [
+      "现实数学教育",
+      "RME",
+      "现实主义数学教育",
+      "Realistic Mathematics"
+    ]
+  },
+  {
     "title": "Regulative and Instructional Discourse",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Regulative and Instructional Discourse.md",
@@ -34430,6 +34441,16 @@
     ]
   },
   {
+    "title": "Richard Münch",
+    "type": "person",
+    "path": "wiki/persons/germany/Richard Münch.md",
+    "aliases": [
+      "理查德·明希",
+      "理查德·蒙克",
+      "Richard Muench"
+    ]
+  },
+  {
     "title": "Richard Wagner",
     "type": "person",
     "path": "wiki/persons/germany/Richard Wagner.md",
@@ -44585,6 +44606,20 @@
       "德国国家教育监测总体战略",
       "KMK Gesamtstrategie",
       "Gesamtstrategie der KMK zum Bildungsmonitoring"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Hauptschule",
+    "type": "fact",
+    "path": "wiki/facts/germany/Hauptschule.md",
+    "aliases": [
+      "主要中学",
+      "普通中学",
+      "基础中学",
+      "德意志主要中学",
+      "Restschule",
+      "残差学校"
     ],
     "subtype": "policy"
   },

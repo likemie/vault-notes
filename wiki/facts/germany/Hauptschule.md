@@ -13,10 +13,10 @@ subtype: policy
 region: germany
 fact_region: "germany"
 fact_kind: "policy"
-fact_related_count: 5
-fact_related_level: 0
-fact_related_stars: "☆"
-fact_related_color: "#dcfce7"
+fact_related_count: 12
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dbeafe"
 period: "1964–至今（多数联邦州已合并转型）"
 initiator_organization: "[[Standing Conference of the Ministers of Education and Cultural Affairs|常设各州教育与文化部长会议（KMK）]]"
 issuing_organization: "常设各州教育与文化部长会议（KMK）及各联邦州教育部"
@@ -61,12 +61,12 @@ updated: 2026-11-21
 ---
 
 > [!claim] 制度核心
-> 主要中学作为德国三轨制学制中提供基础大众教育的底座学校，在 20 世纪末面临教育文凭通胀与早期分流僵化机制的重压；伴随社会中产群体对学术性文凭的狂热追求，该校型生源结构迅速塌陷，蜕变为集中承载移民后裔、社会经济弱势阶层与学业受挫学童的“残差学校”（Restschule），最终在 PISA 国际测评冲击下成为阶层隔离与制度失调的焦点。[[Argument_Munch_2014_TCR|(Münch, 2014, pp. 10, 12)]]
+> 主要中学作为德国三轨制学制中提供基础大众教育的基础学校类型，在 20 世纪末面临教育文凭通胀与早期分流僵化机制的重压；伴随社会中产群体对学术性文凭的追求，该校型生源结构迅速衰退，演变为集中承载移民后裔、社会经济弱势阶层与学业受挫学童的“残差学校”（Restschule），最终在 PISA 国际测评冲击下成为阶层隔离与制度失调的焦点。[[Argument_Munch_2014_TCR|(Münch, 2014, pp. 10, 12)]]
 
 ---
 
 > [!policy-design] 制度设计与运行特征
-> - **早期刚性分流机制** 学生在 10 岁（小学四年级末）即根据任课教师主观评价、在校学业成绩与家长意愿接受首次人生轨制分流。由于缺乏补救性的贯通升学通道，一旦进入主要中学，后续向文法中学的向上流动通道几乎闭合。
+> - **早期刚性分流机制** 学生在 10 岁（小学四年级末）即根据任课教师主观评价、在校学业成绩与家长意愿接受首次人生轨制分流。由于缺乏补救性的贯通升学通道，一旦进入主要中学，后续向文法中学的向上流动通道几乎阻断。
 > - **实用主义课程编排** 课时重点设置工艺劳动（Arbeitslehre）、基础实用数学、德语及职业启蒙实践，大幅剔除第二外语、理论物理与高级文学赏析等学术性预科内容。
 > - **毕业文凭与职业分流** 经考核合格者授予主要中学毕业证书（Hauptschulabschluss）或达标延长学年的合格证书，主要作为进入企业现场学徒制与职业学校（Berufsschule）的准入门槛。
 
@@ -83,10 +83,3 @@ updated: 2026-11-21
 > - **残差学校（Restschule）的污名螺旋** 随着中产及以上家庭全员逃离，主要中学在社会舆论与求职市场中被贴上“学业失败者收容所”的刻板污名。甚至企业雇主在招募传统学徒时，也开始优先筛选实科中学乃至文法中学毕业生，导致主要中学文凭严重贬值（Lenhardt, 2002a, 2002b）。
 > - **学习共同体解体与惩罚性机器异化** 明希指出，在阶层剥夺感与未来绝望情绪蔓延下，主要中学演变为校园暴力、心理挫折与边缘化体验的聚集地；学校从师生互信的教育共同体退化为执行威慑与隔离职能的惩罚性机构（Czerwenka et al., 1990; Little et al., 1995）。
 > - **全德各州的合并与废改潮** 鉴于主要中学的制度合法性崩解，自 2000 年代末起，柏林、汉堡、不来梅、萨克森、莱茵兰-普法尔茨等大多数联邦州通过立法相继撤并独立的 Hauptschule，将其与 Realschule 合并为一体化的社区学校、全科中学或综合初中（如 Stadtteilschule、Oberschule、Integrierte Sekundarschule），仅少数南部州以重塑校名（如巴伐利亚的 Mittelschule）的方式继续保留分轨。
-
----
-
-## 来源
-
-- [[Argument_Munch_2014_TCR]]
-- [[sources/Munch_2014_TCR|Munch_2014_TCR]]

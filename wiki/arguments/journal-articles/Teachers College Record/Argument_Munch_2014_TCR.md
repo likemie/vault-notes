@@ -82,7 +82,7 @@ title: "Argument_Munch_2014_TCR"
 argument_key: "Argument_Munch_2014_TCR"
 argument_display_title: "Education under the regime of PISA & Co.: Global standards and local traditions in conflict—The case of Germany"
 argument_kind: "journal-article"
-argument_related_count: 41
+argument_related_count: 44
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -249,10 +249,10 @@ issuing_organization: ""
 
 > [!sub-claim] 2. 十岁早期分流把差校办成底层收容所，断绝了弱势群体生路
 
-> [!case] 案例剖析二｜早期分流体制下主要中学的剩余学校化
-> - **剩余学校（Restschule）的污名形成** 德国传统三轨制在学生年仅 10 岁（小学四年级）时即实施刚性分流。在全社会精英化文法中学崇拜下，主要中学生源急剧流失，沦为吸纳学业受挫者、劳工阶层与外来移民家庭子女的剩余学校（Lenhardt, 2002a, 2002b）。
+> [!case] 案例剖析二｜早期分流体制下[[Hauptschule|主要中学]]的剩余学校化
+> - **剩余学校（Restschule）的污名形成** 德国传统三轨制在学生年仅 10 岁（小学四年级）时即实施刚性分流。在全社会精英化文法中学崇拜下，[[Hauptschule|主要中学]]生源急剧流失，沦为吸纳学业受挫者、劳工阶层与外来移民家庭子女的剩余学校（Lenhardt, 2002a, 2002b）。
 > - **惩罚性甄别与移民儿童系统性失败** 早期分流机制将处于语言弱势的移民儿童牢牢锁定在失败轨道上，移民学生在德国 PISA 测评中的表现显著逊于其他所有受测国（Baumert et al., 2001, p. 397）。特殊教育需求儿童被转入特殊学校（Sonderschule）并遭受永久社会污名。
-> - **学习共同体的瓦解与惩罚机器异化** 主要中学演化为暴力、物质匮乏与失落感的温床。不同于美国学生将标准化测试视为可激励自我的基准，德国师生将测验体会为排他性甄别威胁，学校从师生学习共同体彻底异化为排斥弱势群体的惩罚性机制（Czerwenka et al., 1990; Little et al., 1995）。
+> - **学习共同体的瓦解与惩罚机器异化** [[Hauptschule|主要中学]]演化为暴力、物质匮乏与失落感的温床。不同于美国学生将标准化测试视为可激励自我的基准，德国师生将测验体会为排他性甄别威胁，学校从师生学习共同体彻底异化为排斥弱势群体的惩罚性机制（Czerwenka et al., 1990; Little et al., 1995）。
 
 > [!conclusion] 德国[[Institutional Hybridity|制度混杂体]]的双重失灵
 > - **既有优势的瓦解** 混杂化破坏了传统文法中学严谨深邃的学术学养与人文教养品质，削弱了支撑精密制造业的高品质学徒文化底蕴。

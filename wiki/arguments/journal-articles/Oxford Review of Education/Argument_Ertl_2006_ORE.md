@@ -38,6 +38,7 @@ related_facts:
   - "[[Institute for Educational Quality Improvement]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[SINUS]]"
+  - "[[Hauptschule]]"
 related_arguments: []
 sources:
   - "[[sources/Ertl_2006_ORE|Ertl_2006_ORE]]"
@@ -51,7 +52,7 @@ title: "Argument_Ertl_2006_ORE"
 argument_key: "Argument_Ertl_2006_ORE"
 argument_display_title: "Educational standards and the changing discourse on education: the reception and consequences of the PISA study in Germany"
 argument_kind: "journal-article"
-argument_related_count: 13
+argument_related_count: 14
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -203,7 +204,7 @@ issuing_organization: ""
 > 自 1960 年代以来，德国长期游离于大规模跨国教育比较之外，除 TIMSS 外极少参与国际测评，政界对跨国数据长期持冷漠态度（Tillmann, 2004）。PISA 彻底唤醒了德国对跨国比较的兴趣：BMBF 迅速资助并发布涵盖加拿大、英格兰、芬兰、法国、荷兰与瑞典六国的深度比较研究，重点考查各国教育标准的制定与评估机制（BMBF, 2003; van Ackeren, 2003）；德国随即全面参与国际阅读素养研究（PIRLS，德语区称 IGLU，并由各州自筹资金扩展至数学与科学测评 IGLU-E；Bos et al., 2003），并在十六个联邦州之间系统展开州际学业成绩横向比照（Baumert et al., 2002; Deutsches PISA-Konsortium, 2003b）。这一转向标志着德国教育政策告别了闭门内省，重新融入全球政策借用网络。
 
 > [!sub-claim] 2. 三轨学制的社会选择性彻底压倒能力选择性
-> 依据埃里克森社会阶层分类（Erikson et al., 1979），德国高管与管理层阶层子女就读文法中学（Gymnasium）的几率是非技术体力劳工家庭子女的约 5 倍（Baumert & Schümer, 2001, p. 355）。三轨学制原本以基于学业成就的能力选拔（Leistungsselektion）为核心法理，在实践中却完全被家庭阶层背景与移民身份所决定的社会选择性（Sozialselektion）所压倒（Geißler, 2004; Baumert et al., 2003）。主要中学（Hauptschule）沦为劳工与移民子弟高度过度集中的底层隔离场所，甚至在德国完成全部学业的移民二代仍遭受严重的制度性分流歧视（Baumert & Schümer, 2001, 2002）。
+> 依据埃里克森社会阶层分类（Erikson et al., 1979），德国高管与管理层阶层子女就读文法中学（Gymnasium）的几率是非技术体力劳工家庭子女的约 5 倍（Baumert & Schümer, 2001, p. 355）。三轨学制原本以基于学业成就的能力选拔（Leistungsselektion）为核心法理，在实践中却完全被家庭阶层背景与移民身份所决定的社会选择性（Sozialselektion）所压倒（Geißler, 2004; Baumert et al., 2003）。[[Hauptschule|主要中学]]（Hauptschule）沦为劳工与移民子弟高度过度集中的底层隔离场所，甚至在德国完成全部学业的移民二代仍遭受严重的制度性分流歧视（Baumert & Schümer, 2001, 2002）。
 
 > [!sub-claim] 3. 综合中学作为“最大政治禁忌”导致的政策偏误
 > 芬兰、瑞典等 PISA 领跑国无一例外均推行全纳性的综合学制，但这一核心制度经验在德国政策话语中被蓄意过滤。德国教育与科学工会（GEW, 2005）与国际 PISA 协调员安德烈亚斯·施莱歇尔（Andreas Schleicher）明确指出，德国教育的巨大差距根源于十岁过早分流，单纯依靠提高教学质量与技术标准的方案无法触及不平等的结构根源，甚至会加剧小学的早期应试甄别压力（Herrmann, 2004; Peek, 2005）。GEW 明确主张推行体系变革、发展面向全体学生的综合中学。然而，保守派政客与传统教师联合会坚决抵制学制结构调整；PISA 2003 中德国位次的轻微回升（主要得益于文法中学学生分数的孤立提升，而实科与主要中学几乎停滞，导致轨道间鸿沟反向扩大；Kraus, 2004; Klein, 2005a）更被政客作为辩护资本。无论技术层面的国家标准变革推进得如何狂热，综合中学（Gesamtschule）在德国主流政治与政策话语中依然保持为绝对不可触碰的“最大政治禁忌”（Gruber, 2006）。
@@ -220,7 +221,7 @@ issuing_organization: ""
 > - **1st** 在 PISA 2000 中，德国最高与最低四分之一社会经济地位学生间的阅读能力差距在全体参测国中高居第一。
 > - **5x** 高管与管理层家庭子女升入文法中学的概率是非技术劳工家庭子女的约 5 倍（Baumert & Schümer, 2001）。
 > - **5%** 在 2003 年危机爆发初期，全德国仅有约 5% 的学校提供常规下午全日制教学服务。
-> - **31,630** 德国 2003/04 学年中小学总数达 31,630 所，其中初高中分轨学校中主要中学占 5,324 所，文法中学占 3,139 所，实科中学占 2,980 所，而综合中学仅占 759 所。
+> - **31,630** 德国 2003/04 学年中小学总数达 31,630 所，其中初高中分轨学校中[[Hauptschule|主要中学]]占 5,324 所，文法中学占 3,139 所，实科中学占 2,980 所，而综合中学仅占 759 所。
 > - **€4B** 联邦政府通过 IZBB 项目投入 40 亿欧元巨资用于全德增建 5,000 所全日制学校。
 
 ---

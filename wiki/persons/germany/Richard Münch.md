@@ -8,10 +8,15 @@ summary: "德国当代社会学家、班贝格大学荣休讲席教授，以学�
 type: person
 cssclasses:
   - person-page
-nationality: 德国
+nationality: germany
+person_region: "germany"
+person_related_count: 15
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1945"
 died: ""
-lifespan: "1945–"
+lifespan: "1945–至今"
 tags:
   - person/sociologist
   - region/germany
@@ -56,7 +61,7 @@ updated: 2026-11-21
 > [!citation-card] 人物定位的关键来源
 > 理查德·明希聚焦于跨国竞争与国际组织对欧洲高等教育与中等教育领域的重构效应。[[Argument_Munch_2014_TCR|(Münch, 2014, p. 16)]]
 >
-> *His research interests are in social theory and comparative macrosociology. Most recently, he has focused on the impact of international competition and international organizations on the changing fields of higher and secondary education. (Münch, 2014, p. 16)*
+> *His research interests are in social theory and comparative macrosociology. Most recently, he has focused on the impact of international competition and international organizations on the changing fields of higher and secondary education.*
 
 ---
 
@@ -69,20 +74,20 @@ updated: 2026-11-21
 ---
 
 > [!work-line] 主要著作
-> - **2010 — *European Governmentality: The Liberal Drift of Multilevel Governance*** 探讨欧洲多层治理向新自由主义规制与竞争型国家漂移的制度动力。[[Argument_Munch_2014_TCR|(Münch, 2014, p. 16)]]
-> - **2012 — *Inclusion and Exclusion in the Liberal Competition State: The Cult of the Individual*** 批判自由主义竞争国家中的个体狂热崇拜及其加剧的系统性社会排斥。[[Argument_Munch_2014_TCR|(Münch, 2014, p. 16)]]
-> - **2014 — *Academic Capitalism: Universities in the Global Struggle for Excellence*** 剖析全球大学在卓越倡议与世界排名指标裹挟下的资本化重组与学术阶层分化。[[Argument_Munch_2014_TCR|(Münch, 2014, p. 16)]]
-> - **2014 — *Education under the Regime of PISA & Co.: Global Standards and Local Traditions in Conflict—The Case of Germany*** 论文揭示跨国能力标准强加于德国分流体制所导致的认识论冲突与制度混杂危机。[[Argument_Munch_2014_TCR|(Münch, 2014, pp. 1–16)]]
+> - **2010 — *European Governmentality: The Liberal Drift of Multilevel Governance*** 探讨欧洲多层治理向新自由主义规制与竞争型国家漂移的制度动力。
+> - **2012 — *Inclusion and Exclusion in the Liberal Competition State: The Cult of the Individual*** 批判自由主义竞争国家中的个体狂热崇拜及其加剧的系统性社会排斥。
+> - **2014 — *Academic Capitalism: Universities in the Global Struggle for Excellence*** 剖析全球大学在卓越倡议与世界排名指标裹挟下的资本化重组与学术阶层分化。
+> - **2014 — *Education under the Regime of PISA & Co.: Global Standards and Local Traditions in Conflict—The Case of Germany*** 揭示跨国能力标准强加于德国分流体制所导致的认识论冲突与制度混杂危机。[[Argument_Munch_2014_TCR|(Münch, 2014, pp. 1–16)]]
 
 ---
 
 > [!person-thesis] 主张一｜跨国量化测评确立了新自由主义审计霸权，削弱了本土学科深度与专业伦理
-> 明希认为，经合组织（OECD）推行的 PISA 国际测试并非客观中立的科学测评，而是一套依托知识精英与跨国经济网络建构的符号权力霸权。该霸权将教育宗旨窄化为通用劳动力技能与经济区位竞争的人力资本逻辑，并借助新公共管理的量化绩效指标，全面取代以学术自治、教师职业伦理与博雅陶冶（Bildung）为基石的传统欧洲教育理念。这一外来规制迫使学校转向片面应试训练与模块化快餐知识，从根本上侵蚀了深度学科分化与探究精神。[[Argument_Munch_2014_TCR|(Münch, 2014, pp. 2, 8)]]
+> 明希认为，经合组织（OECD）推行的 PISA 国际测试实质上是一套依托知识精英与跨国经济网络建构的符号权力霸权，缺乏纯粹中立的客观科学属性。该霸权将教育宗旨窄化为通用劳动力技能与经济区位竞争的人力资本逻辑，并借助新公共管理的量化绩效指标，全面取代以学术自治、教师职业伦理与博雅陶冶（Bildung）为基石的传统欧洲教育理念。这一外来规制迫使学校转向片面应试训练与模块化快餐知识，从根本上侵蚀了深度学科分化与探究精神。[[Argument_Munch_2014_TCR|(Münch, 2014, pp. 2, 8)]]
 >
 > > [!thesis-quote] 《经合组织与 PISA 规制下的教育》（2014）
 > > 经合组织所推行的全球教育标准通过心理测量技术将特定能力模型自然化为普遍理性，以此消解民族国家教育传统中关于人的全面教养追求。[[Argument_Munch_2014_TCR|(Münch, 2014, p. 2)]]
 > >
-> > *The PISA regime establishes a transnational standard of education that reduces schooling to the production of economically usable human capital, undermining the Humboldtian tradition of Bildung and the professional autonomy of teachers. (Münch, 2014, p. 2)*
+> > *The PISA regime establishes a transnational standard of education that reduces schooling to the production of economically usable human capital, undermining the Humboldtian tradition of Bildung and the professional autonomy of teachers.*
 
 > [!person-thesis] 主张二｜全球通用能力模型与本土刚性分流旧轨道的拼接形成了制度混杂体，加剧了阶层隔离
 > 明希进一步指出，跨国能力规制嵌入民族国家时，往往未能触及本土根深蒂固的历史体制骨架。在德国，外来的标准化考核指标与未被破除的中等教育三轨分流机制生硬嫁接，形成了功能失调的制度混杂体（Dysfunctional Hybrids）。文法中学为迎合国际 12 年学制推行 G8 改革，导致课程超载与师生身心透支；而主要中学（Hauptschule）在缺乏资源与选拔壁垒的挤压下迅速沦为边缘阶层的残差学校，加剧了以移民和劳工子弟为代价的社会再生产与结构性排斥。[[Argument_Munch_2014_TCR|(Münch, 2014, pp. 10, 12)]]
@@ -90,7 +95,7 @@ updated: 2026-11-21
 > > [!thesis-quote] 《经合组织与 PISA 规制下的教育》（2014）
 > > 新范式的要素被生硬引入，却没有清除旧制度的痕迹，因此产生了带来非预期排斥后果的功能失调混杂体。[[Argument_Munch_2014_TCR|(Münch, 2014, p. 10)]]
 > >
-> > *Elements of the new paradigm are included without removing the traces of the old one. For this reason, hybrids with nonintended effects come into being. (Münch, 2014, p. 10)*
+> > *Elements of the new paradigm are included without removing the traces of the old one. For this reason, hybrids with nonintended effects come into being.*
 
 ---
 
@@ -101,9 +106,4 @@ updated: 2026-11-21
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Munch_2014_TCR|Münch (2014)]] — 运用制度同构与符号权力分析框架，解构经合组织跨国素养标准对德国中等教育体制的侵蚀与制度混杂危机。
 
----
 
-## 来源
-
-- [[Argument_Munch_2014_TCR]]
-- [[sources/Munch_2014_TCR|Munch_2014_TCR]]
