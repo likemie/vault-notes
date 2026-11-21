@@ -53,7 +53,7 @@ updated: 2026-11-21
 
 > [!person-profile] 人物档案
 > - **身份位置** 17 至 18 世纪之交德国理性主义哲学家、数学家与形而上学家。
-> - **核心角色** 在笛卡尔数学化认知之外首创认知层级谱系，其认知范畴与单子论宇宙观成为鲍姆嘉通建构早期德国美学的直接理论底板，亦成为阿多诺阐释现代自律艺术单子式结构的思想资源。
+> - **核心角色** 在笛卡尔数学化认知之外首创认知层级谱系，其认知范畴与单子论宇宙观成为鲍姆加登建构早期德国美学的直接理论底板，亦成为阿多诺阐释现代自律艺术单子式结构的思想资源。
 > - **代表贡献** 提出微知觉与清晰/混乱/明晰认知层级；创立单子论以解释宇宙预定和谐与主客体镜像同构。
 
 > [!citation-card] 莱布尼茨论艺术评判中的“说不清道不明”
@@ -81,7 +81,7 @@ updated: 2026-11-21
 ---
 
 > [!person-thesis] 主张一｜以逻辑-本体论等价性为基石，将美与艺术置于清晰而混乱的认知层级
-> 莱布尼茨主张现实结构与理性法则完全一致，即逻辑-本体论等价性。在层级化的认知谱系中，艺术与美被归入[[Sensual Cognition|清晰而混乱的认识]]，属于人类感性认识能力的特有产物；这一划界一方面为美提供了认知谱系中的定位，另一方面也促使鲍姆嘉通通过重估混乱认识的积极价值来为感性辩护。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 5–6)]]
+> 莱布尼茨主张现实结构与理性法则完全一致，即逻辑-本体论等价性。在层级化的认知谱系中，艺术与美被归入[[Sensual Cognition|清晰而混乱的认识]]，属于人类感性认识能力的特有产物；这一划界一方面为美提供了认知谱系中的定位，另一方面也促使鲍姆加登通过重估混乱认识的积极价值来为感性辩护。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 5–6)]]
 >
 > > [!thesis-quote] 《关于认识、真理和观念的沉思》（1684）
 > > 当我们能够毫无疑虑地辨认事物却无法列举其区别特征时，认知就是清晰而混乱的；画家与鉴赏家往往通过这种认知准确评价作品，却说不清道不明其内在法则。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 5–6)]]
@@ -99,13 +99,16 @@ updated: 2026-11-21
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** “清晰而混乱的认识”与“说不清道不明”成为鲍姆嘉通建立感性认识科学和审美真理的直接出发点（[[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister, 2002, pp. 6, 8]]）；单子论预定和谐与封闭镜像原理被阿多诺吸收，成为《美学理论》界定现代艺术兼具自律性与社会事实双重品格的核心范型（[[Argument_Hammermeister_2002_Cambridge_Ch10|Hammermeister, 2002, pp. 201–203]]）。
+> - **理论路径** “清晰而混乱的认识”与“说不清道不明”成为鲍姆加登建立感性认识科学和审美真理的直接出发点（[[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister, 2002, pp. 6, 8]]）；单子论预定和谐与封闭镜像原理被阿多诺吸收，成为《美学理论》界定现代艺术兼具自律性与社会事实双重品格的核心范型（[[Argument_Hammermeister_2002_Cambridge_Ch10|Hammermeister, 2002, pp. 201–203]]）。
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 析莱布尼茨美学前史：第 1 章论认知层级；第 10 章论阿多诺借单子论阐发艺术的自律性与社会事实。
 
 ---
 
 > [!person-network] 关系网络
 > - **哲学前驱** [[René Descartes|勒内·笛卡尔]] — 迈出了摆脱笛卡尔纯粹数学化认知的第一步，引入多层次认知谱系。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 4)]]
-> - **继承与修正者** [[Alexander Gottlieb Baumgarten|鲍姆嘉通]] — 沿用其认知谱系与单子镜像论，但将混乱从消极缺陷重估为独立认知模式。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 5–8)]]
+> - **继承与修正者** [[Alexander Gottlieb Baumgarten|鲍姆加登]] — 沿用其认知谱系与单子镜像论，但将混乱从消极缺陷重估为独立认知模式。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 5–8)]]
 > - **后世批判理论转化** [[Theodor Adorno|西奥多·阿多诺]] — 将单子自足且镜像社会的原理运用于现代自律艺术的形式分析中。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 201–203)]]
 
 ---
@@ -118,10 +121,5 @@ updated: 2026-11-21
 > | [[Philosophical Aesthetics\|哲学美学]] | 概念 | 莱布尼茨理性主义体系构成了早期德国哲学美学试图加固并最终超越的母体。 |
 > | [[The Nonidentical\|非同一性]] | 概念 | 其单子论镜像原理被阿多诺借用，用于阐明自律艺术如何庇护非同一性。 |
 > | [[Adorno's Aesthetics\|阿多诺美学]] | 理论 | 其单子论为阿多诺界定艺术作品自律性与社会事实双重品格提供了核心模型。 |
-> | [[Alexander Gottlieb Baumgarten\|鲍姆嘉通]] | 人物 | 门下后继，将莱布尼茨认识层级推向独立感性认识科学的创立。 |
+> | [[Alexander Gottlieb Baumgarten\|鲍姆加登]] | 人物 | 门下后继，将莱布尼茨认识层级推向独立感性认识科学的创立。 |
 > | [[Theodor Adorno\|西奥多·阿多诺]] | 人物 | 现代后继，在《美学理论》中吸纳单子论模型解释自律艺术形式。 |
-
----
-
-> [!evidence-grid-a|notitle]
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 析莱布尼茨美学前史：[[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]论认知层级；[[Argument_Hammermeister_2002_Cambridge_Ch10|第 10 章]]论阿多诺借单子论阐发艺术的自律性与社会事实。

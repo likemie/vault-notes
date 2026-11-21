@@ -42,34 +42,37 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Metacognition]]"
   - "[[Truth-Language]]"
+  - "[[Sensual Cognition]]"
+  - "[[Philosophical Aesthetics]]"
 related_theories:
   - "[[Imagined Community]]"
 related_methods: []
 related_instruments: []
 related_persons:
-  - "[[René Descartes]]"
   - "[[Jin Li]]"
   - "[[Socrates]]"
   - "[[Plato]]"
   - "[[Baruch Spinoza]]"
   - "[[Gottfried Wilhelm Leibniz]]"
   - "[[Immanuel Kant]]"
+  - "[[Alexander Gottlieb Baumgarten]]"
   - "[[Otto Neurath]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
   - "[[Argument_Anderson_2016_Verso_Ch02]]"
   - "[[Argument_Zemplen_2007_SciEduc]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch01]]"
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-11-15
+updated: 2026-11-21
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 法国哲学家、数学家与自然科学家，近代哲学之父与欧陆理性主义传统的奠基人。
+> - **身份位置** 法国哲学家、数学家与自然科学家，近代哲学之父与欧陆理性主义传统的开创者。
 > - **核心角色** 以方法性怀疑为起点，以我思故我在（*Cogito, ergo sum*）为第一确定性，构建心物二元论的[[Epistemology|认识论]]与形而上学体系，推动西方哲学从经院哲学转向主体性哲学；发明解析几何，为微积分奠定数学基础。
 > - **代表贡献** 确立认识论在哲学中的首要地位、提出心物二元论（思维实体与广延实体）、发明[[René Descartes|笛卡尔]]坐标系，在西方思想史中复兴并升华先天观念论。
 
@@ -100,11 +103,21 @@ updated: 2026-11-15
 
 ---
 
-> [!claim] 核心思想
-> 真正的确定性知识必须经由彻底的方法性怀疑确立坚实基石。人类感官容易产生错觉与虚妄经验，唯有怀疑主体对自己正在进行思考的直观意识（*Cogito, ergo sum*）构成了不可动摇的第一确定性。世界区分为思维实体（*res cogitans*）与广延实体（*res extensa*）：前者属于自由、不可分割的理性心智，后者属于服从确定力学法则的物质宇宙。这种将理智置于感官经验之上的立场，构成了西方思想崇奉人类心智认知奇迹的核心哲学源头。
+> [!person-thesis] 主张一｜经由普遍怀疑确立我思为第一确定性，构建心物二元论形而上学体系
+> 笛卡尔主张一切源自感官的经验皆具可疑性，唯有怀疑主体正在怀疑与思维的直观意识（*Cogito, ergo sum*）构成不可动摇的认识论基石；由此将实在区分为自由不可分的思维实体（*res cogitans*）与服从力学法则的广延实体（*res extensa*），确立近代主体性哲学与理性主义传统。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 28)]]
+>
+> > [!thesis-quote] 《谈谈方法》（1637）
+> > 既然我想要专心寻求真理，我就必须坚决抛弃一切只要带有一丝可疑之物；然而紧接着我就注意到，当我想把一切都看作虚假时，那个思考这件事情的‘我’必然是某种真实存在。我发现‘我思故我在’这条真理是如此坚实可靠，即使怀疑论者最狂妄的假定也无法动摇它。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 28)]]
+> >
+> > *Je pense, donc je suis.*
 
-> [!citation-card] 笛卡尔论怀疑与我思
-> 既然我想要专心寻求真理，我就必须坚决抛弃一切只要带有一丝可疑之物；然而紧接着我就注意到，当我想把一切都看作虚假时，那个思考这件事情的‘我’必然是某种真实存在。我发现‘我思故我在’这条真理是如此坚实可靠，即使怀疑论者最狂妄的假定也无法动摇它。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 28)]]
+> [!person-thesis] 主张二｜将严格知识局限于数学化的清晰且分明观念，将感官对象与审美判断排除出科学方法
+> 笛卡尔复兴了柏拉图对感官对象的贬抑，将严格认知限定在能够进行数学推理与逻辑演绎的清晰且分明观念（*ideae clarae et distinctae*）；将鉴赏与审美判断判定为缺乏普遍方法论根基的主观评价，从而将无法上升为公理的感官经验证据排除在科学方法之外。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 4)]]
+>
+> > [!thesis-quote] 《第一哲学沉思集》（1641）
+> > 凡是清晰且分明地被我知觉到的事物都是真实的；而感官所传达的性质充斥着模糊与混淆，不足以作为确立物理世界本质与科学法则的可靠依据。
+> >
+> > *All things that I perceive very clearly and very distinctly are true ... Sensory perceptions are obscure and confused.*
 
 ---
 
@@ -116,6 +129,7 @@ updated: 2026-11-15
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 梳理苏格拉底—柏拉图回忆说到笛卡尔我思的先天论演进，将笛卡尔怀疑定位为西方心智及其惊奇学习传统的哲学顶峰（p. 28）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 析笛卡尔数学化理性主义对感官与鉴赏的排斥，及其作为鲍姆加登创立感性认识科学对质面的思想史功能（p. 4）。
 
 ---
 
@@ -123,6 +137,7 @@ updated: 2026-11-15
 > - **思想前驱** [[Socrates]]、[[Plato]] — 笛卡尔的理性观念论被视为古典理性主义在近代认识论框架下的[[Creativity|创造性]]复兴。
 > - **学术论敌与批判者** [[Otto Neurath]] — 纽拉特以“海上修船”隐喻直接批判笛卡尔的绝对基础主义，提出整体主义反基础主义。
 > - **哲学继承与对话者** [[Baruch Spinoza]]、[[Immanuel Kant]] — 斯宾诺莎以一元论改造其心物体系，康德以批判哲学综合理性主义与[[Empiricism|经验主义]]。
+> - **美学思想对质面** [[Alexander Gottlieb Baumgarten|亚历山大·戈特利布·鲍姆加登]] — 针对笛卡尔将感官经验排除出科学方法的倾向，创立感性认识科学为艺术与审美真理辩护。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 4)]]
 
 ---
 
@@ -131,7 +146,7 @@ updated: 2026-11-15
 > > [!axis] 基础主义（Foundationalism） vs 反基础主义（Anti-foundationalism）
 > > 争论人类知识体系是否必须依凭绝对自明、无可动摇的单一起点向上层层建构。
 > >
-> > - **笛卡尔基础主义** 坚信知识大厦必须奠基于无可怀疑的第一原理（cogito），以此保证演绎体系的必然[[Reliability|可靠性]]。
+> > - **笛卡尔基础主义** 坚信知识大厦必须立足于无可怀疑的第一原理（cogito），以此保证演绎体系的必然[[Reliability|可靠性]]。
 > > - **纽拉特反基础主义** 提出水手在海上修船比喻，强调探究者必须在既有语言与经验传统中边航行边替换损坏木板，拒斥绝对纯粹的认识论起点。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 183–184)]]
 
 > [!critique] 外部批评
@@ -146,8 +161,11 @@ updated: 2026-11-15
 > |:-----|:-----|:-----|
 > | [[Epistemology]] | 概念 | 将认识论确立为近代哲学的首要论题，取代古代经院哲学的[[Ontology\|本体论]]优先。 |
 > | [[Ontology]] | 概念 | 确立思维实体与广延实体的心物二元论形而上学构型。 |
+> | [[Sensual Cognition\|感性认识]] | 概念 | 笛卡尔对感官认识的排斥构成感性认识理论建立的反向推动力。 |
+> | [[Philosophical Aesthetics\|哲学美学]] | 概念 | 笛卡尔将鉴赏归为主观价值判断，成为后世确立审美自律的论争焦点。 |
 > | [[Critical Thinking]] | 概念 | 笛卡尔方法性怀疑为现代批判性思维与[[Reflexivity\|反思性]]求证提供方法论源泉。 |
 > | [[Metacognition]] | 概念 | 将人类存在的最终确证归结为主体对自身思维的元认知监控意识。 |
 > | [[Mind and Its Wonders]] | 概念 | 李瑾界定的西方学习传统核心主题，笛卡尔我思构成了该传统的理性主义顶峰。 |
 > | [[Truth-Language]] | 概念 | 安德森引述笛卡尔学术写作与通信语言的演进，展现跨国拉丁语霸权的瓦解轨迹。 |
+> | [[Alexander Gottlieb Baumgarten\|鲍姆加登]] | 人物 | 针对笛卡尔对感性经验的排斥，开创美学并为感性认识争取哲学合法性。 |
 > | [[Otto Neurath]] | 人物 | 提出著名的海上修船比喻，系统解构笛卡尔主义的绝对基础主义。 |
