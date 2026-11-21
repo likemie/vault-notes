@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: france
 person_region: "france"
-person_related_count: 65
+person_related_count: 66
 person_related_level: 6
 person_related_stars: "💎💎"
 person_related_color: "#fef3c7"
@@ -90,13 +90,14 @@ related_arguments:
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
   - "[[Argument_Lim_2013_APJE]]"
   - "[[Argument_Xie_2017_PKUER]]"
+  - "[[Argument_Munch_2014_TCR]]"
 related_facts:
   - "[[CNRS]]"
   - "[[OECD]]"
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 ---
@@ -195,10 +196,11 @@ updated: 2026-11-19
 > [!influence-path] 影响路径
 > - **理论路径** 彻底改写了战[[Post-structuralism|后结构主义]]与功利主义的对抗格局，其习性、资本与[[Champ|场域]]框架成为教育社会学、文化社会学与批判政策分析的基础[[Paradigm|范式]]语言；后继学者（Lingard & Rawolle, 2011）将其延伸至超国家层面的[[Global Educational Policy Field|全球教育政策场域]]研究。
 > - **方法路径** 主张超越量化实证与质性[[Phenomenology|现象学]]的二元对立，将多维对应分析（MCA）与深度[[Ethnography|民族志]]结合，为社会空间的关系性建模提供了实证模版；倡导以[[Epistemological Break|认识论断裂]]和[[Epistemological Vigilance|认识论警觉]]开展反思性研究。
-> - **政策路径** 其教育再生产学说强力拆穿了贤能主义（Meritocracy）的客观神话，推动了西方对弱势阶层教育补偿、平权法案以及多元评价的政策讨论；晚期对新自由主义全球化的政治介入启发了对超国家组织物化全球化、强推[[Liberalization|经济自由化]]的政策[[Discourse|话语]]解构；并在跨国治理分析中揭示 [[OECD]] 如何凭借统计测量资本与象征资本确立[[Transnational Education|跨国教育]]仲裁权威。
+> - **政策路径** 其教育再生产学说强力拆穿了贤能主义（Meritocracy）的客观神话，推动了西方对弱势阶层教育补偿、平权法案以及多元评价的政策讨论；晚期对新自由主义全球化的政治介入启发了对超国家组织物化全球化、强推[[Liberalization|经济自由化]]的政策[[Discourse|话语]]解构；并在跨国治理分析中揭示 [[OECD]] 如何凭借统计测量资本与象征资本确立[[Transnational Education|跨国教育]]仲裁权威；[[Argument_Munch_2014_TCR|理查德·明希（Richard Münch, 2014）]]进一步动用布迪厄符号权力理论，解构跨国认知精英如何将 PISA 心理测量数据包装为不可挑战的客观证据，以此垄断教育合法性定义并压制本土人文教养传统的自决权。
 > - **跨国／跨领域传播** 在进入中国高等教育与基础教育研究中，其资本转换模型被相继改造，用以解析转型期大学生的求职分化（目标掌控与[[Intuition-Dependent Mode|直觉依赖模式]]）以及农村随迁家庭的[[School Choice|择校]]博弈；在澳大利亚与英美，其场域分析被广泛应用于解构校长培训体制的管理主义 Doxa 与高等教育学术界的新封建主义依附关系。
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Munch_2014_TCR|Münch (2014)]] — 动用布迪厄符号权力与合法性垄断理论（Bourdieu, 1998），解构经合组织跨国认知精英如何将心理测量数据包装为不可挑战的客观权威，剥夺民族本土人文教育传统的自决权。
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 运用习性与资本解释名校资本化（[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|第二章]]），检验大学再社会化（[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]），并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|第六章]]结合撕裂习性阐明自反性叙事跨越（pp. 361–366）。
 > - [[Argument_Xie_2017_PKUER|谢爱磊 (2017)]] — 借助布迪厄生存心态（habitus）构念剖析农村家庭分层教育期望，揭示宏观机会结构转化为底层防御性实践理性的微观中介机制。
 > - [[Argument_Teng_2025_CE|Teng and Wang (2025)]] — 证明了在中国县域择校迁移中，由于选拔机制简化，家庭资本展现出垂直阶梯分层筛选，户籍行政限制被置换为隐性阶级筛选，文化资本不得不退让并折算为社会资本关系。
