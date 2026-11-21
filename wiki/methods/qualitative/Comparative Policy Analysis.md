@@ -189,6 +189,7 @@ updated: 2026-11-19
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 运用比较政策与话语分析视角，对照德、芬、瑞等多国教育标准与治理改革，揭示德国选择性借用外部数据时的制度禁忌。
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 针对美欧半导体产业政策构建涵盖治理主体、政策目标、资金规模、政策工具与[[Policy Conditionalities|制度化附加条件]]的五维比较[[Analytic Framework|分析框架]]，揭示美国集中式补贴模式与[[EU|欧盟]]去中心化协调者模式的制度差异与效能分化。
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 采用跨国比较政策分析视角，将西班牙教育置于欧盟多国治理坐标系下，系统对比英、美、德、法、意与北欧的分权模式演变，解构西班牙教育激进分权导致的行政膨胀与中等学制平庸化困境。
 > - [[Argument_Hippach-Schneider_Rieder_2022_RCIE|Hippach-Schneider and Rieder (2022)]] — 横向比较德瑞双元制职教系统，系统对照两国在宪制权限、社会伙伴权能配比与数字化应对弹性上的共性与分异。

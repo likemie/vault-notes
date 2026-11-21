@@ -140,6 +140,7 @@ updated: 2026-11-15
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 分析克利姆报告确立的国家教育标准在各州落地中的大纲重构困境，揭示激进废除教学大纲所引发的基层教材依赖。
 > - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 详述德国在经历 PISA 震荡后如何依据克利姆报告制定全德统一教育标准并重构国家教育体系。
 > - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 分析经合组织硬事实如何打破德国多层否决点，促使克利姆报告被迅速转化为全德统一标准。
 > - [[Argument_Hartong_2018_GSE|Hartong (2018)]] — 深入追踪以克利姆报告为技术起点的国家计算中心（IQB）与跨尺度数据基础设施建设。
