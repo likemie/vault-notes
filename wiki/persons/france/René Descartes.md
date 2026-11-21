@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: france
 person_region: "france"
-person_related_count: 25
+person_related_count: 28
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"

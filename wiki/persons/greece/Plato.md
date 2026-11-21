@@ -2,13 +2,13 @@
 title: Plato
 aliases:
   - 柏拉图
-summary: "古希腊哲学家，苏格拉底的学生、亚里士多德的老师，西方哲学奠基人之一，以理型论、洞穴喻、哲学家王与《美诺篇》回忆说深刻塑造了西方形而上学、知识论、教育思想与政治哲学传统"
+summary: "古希腊哲学家，苏格拉底的学生、亚里士多德的老师，西方哲学的核心开创者之一，以理型论、洞穴喻、哲学家王与《美诺篇》回忆说深刻塑造了西方形而上学、知识论、教育思想与政治哲学传统"
 type: person
 cssclasses:
   - person-page
 nationality: greece
 person_region: "greece"
-person_related_count: 51
+person_related_count: 52
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -82,18 +82,19 @@ related_arguments:
   - "[[Argument_Edmondson_2005_EPAA]]"
   - "[[Argument_Darwish_2009_Queens]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch01]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch08]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch10]]"
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-11-16
+updated: 2026-11-21
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 柏拉图（Plato，约 428–348 BCE）是古希腊古典时期的哲学家，出身雅典贵族，青年时师从[[Socrates|苏格拉底]]，并在其逝世后游历地中海，后返回雅典创立了雅典学院（Academy），即西方历史上第一所制度化的高等学府。他与苏格拉底、[[Aristotle|亚里士多德]]并称为西方哲学与思想传统的三大奠基人。
+> - **身份位置** 柏拉图（Plato，约 428–348 BCE）是古希腊古典时期的哲学家，出身雅典贵族，青年时师从[[Socrates|苏格拉底]]，并在其逝世后游历地中海，后返回雅典创立了雅典学院（Academy），即西方历史上第一所制度化的高等学府。他与苏格拉底、[[Aristotle|亚里士多德]]并称为古希腊哲学的三大核心代表。
 > - **核心角色** 柏拉图是西方客观唯心主义、唯理派[[Epistemology|认识论]]与学习传统的总源头。他将思辨理性、对永恒确定性真知的追求、心智优于感官经验以及精英式教育选拔深度植入西方文化传统；其对话录中记录的“柏拉图的苏格拉底”（Platonic Socrates），构成了后世理解古典哲学反诘法与启发式教学的核心媒介[[Argument_Li_2012_Cambridge|(Li, 2012, p. 27 脚注 1)]]。
 > - **代表贡献** 创立理型论（Theory of Forms）与洞穴喻；确立以数学与几何学为典范的确定性知识观；在[[Meno|《美诺篇》]]中提出灵魂回忆说（Theory of Recollection）并开创童奴几何启发实验；在《理想国》中设计以天赋资质为基准的哲学家王（Philosopher King）教育选拔与善者不为名利执政的古典政治哲学模型。
 
@@ -163,7 +164,14 @@ updated: 2026-11-16
 > - **方法路径** 将对话录确立为体系化哲学推演文体，建立了以几何公理化演绎、定义辨析与逻辑反诘为核心的论证[[Paradigm|范式]]，奠定了西方分析哲学与形式逻辑的探究根基。
 > - **制度路径** 雅典学院确立了西方高等学术研究与讲学机构的组织模型；其分阶段递进筛选理念深刻渗透进西方中世纪大学与现代精英高等教育分流制度。
 > - **治理哲学与公共行政反思** 《理想国》善者执政假设深刻影响了西方对从政者道德修养的古典期待，成为现代公共行政学反思道德乌托邦与低薪寻租病理的重要理论源头[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 254)]]。
-> - **美学传统交锋** 柏拉图因艺术为影子的摹仿（[[Mimesis|摹仿论]]）而将诗人驱逐出理想国，构成了西方[[Philosophical Aesthetics|哲学美学]]中论证艺术真理性必须克服的奠基性对立面；[[Ernst Cassirer|卡西尔]]与[[Theodor Adorno|阿多诺]]均在重估摹仿与自然美时重新审视柏拉图的古典命题[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 156–157)]]; [[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 200–204)]]。
+> - **美学传统交锋** 柏拉图因艺术为影子的摹仿（[[Mimesis|摹仿论]]）而将诗人驱逐出理想国，构成了西方[[Philosophical Aesthetics|哲学美学]]中论证艺术真理性必须克服的古典对立面；[[Ernst Cassirer|卡西尔]]与[[Theodor Adorno|阿多诺]]均在重估摹仿与自然美时重新审视柏拉图的古典命题[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 156–157)]]; [[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 200–204)]]。
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Li_2012_Cambridge|Li (2012)]] — 全面梳理柏拉图在西方学习传统中的核心位置，系统对比西方智力天赋导向与东亚儒家修身努力导向。
+> - [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] — 借用帕克对柏拉图洞穴喻的政治哲学重构，解构当代教育政策实证主义研究的技术迷思。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 析笛卡尔对柏拉图贬抑感官的复兴（[[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]）及卡西尔重读其摹仿观（[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]）。
+
+---
 
 > [!person-network] 关系网络
 > - **师承与启发** [[Socrates|苏格拉底]] — 柏拉图青年时期的精神导师；柏拉图以其为主角撰写了绝大部分对话录，后世所谓的苏格拉底思想实多为“柏拉图的苏格拉底”[[Argument_Li_2012_Cambridge|(Li, 2012, p. 27 脚注 1)]]。
@@ -225,12 +233,3 @@ updated: 2026-11-16
 > | [[Socrates]] | 人物 | 柏拉图的哲学导师与全部对话录的核心对话主角。 |
 > | [[Aristotle]] | 人物 | 柏拉图雅典学院二十年的门生与理型论的重要批判重构者。 |
 > | 雅典学院（Academy） | 组织 | 柏拉图约 387 BCE 创立的西方第一所高等学术机构，奠定了西方学术共同体与学院派研究的体制原型。 |
-
-> [!evidence-grid-a|notitle]
-> - [[Argument_Li_2012_Cambridge|Li (2012)]] — 全面梳理柏拉图在西方学习传统四大支柱中的奠基性地位，系统对比西方智力天赋导向与东亚儒家修身努力导向。
-> - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 结合杜威与弗雷尔批判教育学视角，解构柏拉图城邦等级固化目的论对平民批判性思维潜能的系统压制。
-> - [[Argument_Naeem_2026_Episteme|Naeem (2026)]] — 从德性认识论与人机对话交互视角批判柏拉图《美诺篇》问答法中预设唯一客观真理的定向诱导缺陷，倡导向心理治疗式自主探究范式转型。
-> - [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] — 借用 Parker (2003) 对柏拉图洞穴喻的政治哲学重构，解构当代教育政策实证主义精巧研究洞穴石壁阴影的技术迷思。
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|Karp & Zamiska (2025, Ch. 16)]] — 从《理想国》善者执政假设出发，解构现代公共行政将从政者预设为无私圣人的制度弊端，论证权责对称激励的必要性。
-> - [[Argument_Hammermeister_2002_Cambridge_Ch08|Hammermeister (2002, Ch. 8)]] — 分析卡西尔反驳柏拉图艺术激情指控并重读《蒂迈欧篇》比例与摹仿观（pp. 156–157）。
-> - [[Argument_Hammermeister_2002_Cambridge_Ch10|Hammermeister (2002, Ch. 10)]] — 探讨阿多诺在美学理论中重估被柏拉图贬抑的摹仿（mimesis）与自然美概念（pp. 200–204）。

@@ -53,6 +53,7 @@ related_persons:
   - "[[Immanuel Kant]]"
 related_facts: []
 related_arguments:
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch01]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch05]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch08]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch10]]"
@@ -116,7 +117,10 @@ updated: 2026-11-16
 > [!influence-path] 影响路径
 > - **理论路径** 确立批判理论的否定美学传统，深刻启发了韦尔默、哈贝马斯及当代批判哲学对理性异化与审美拯救的讨论。
 > - **艺术批评与音乐学路径** 开创从社会历史矛盾解读内在形式构成的形式社会学方法，深刻重塑了20世纪先锋派音乐学与现代文学批评。
-> - **文化研究与媒介批判路径** 与霍克海默提出的[[Culture Industry|文化工业]]概念成为大众文化批判与批判传播学的奠基基石。
+> - **文化研究与媒介批判路径** 与霍克海默提出的[[Culture Industry|文化工业]]概念成为大众文化批判与批判传播学的核心理论源头。
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 梳理阿多诺美学：[[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]析单子论同构渊源；[[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]析摹仿与美丑反转；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析卢卡奇批判；[[Argument_Hammermeister_2002_Cambridge_Ch10|第 10 章]]系统重构其否定美学。
 
 ---
 
@@ -157,8 +161,3 @@ updated: 2026-11-16
 > | [[Critical Theory\|批判理论]] | 理论 | 法兰克福学派第一代核心，将社会批判理论推进至文化工业批判与否定美学。 |
 > | [[Hegel's Aesthetics\|黑格尔美学]] | 理论 | 阿多诺以浪漫派音乐特质解释黑格尔对纯然丑陋艺术的排斥，并在《否定辩证法》中拆解其总体性综合。 |
 > | [[Karl Rosenkranz\|卡尔·罗森克兰茨]] | 人物 | 阿多诺反转了罗森克兰茨美为绝对、丑为派生的古典等级。 |
-
----
-
-> [!evidence-grid-a|notitle]
-> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — 梳理阿多诺美学：[[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]析摹仿重修与美丑反转；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析卢卡奇批判；[[Argument_Hammermeister_2002_Cambridge_Ch10|第 10 章]]系统重构其否定美学。

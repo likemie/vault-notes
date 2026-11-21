@@ -9,7 +9,7 @@ aliases:
 summary: "德语区双元制职业教育的核心制度范式，强调通过全国标准化的综合职业条例培养具备完整职业行动能力的专业人才，反对将整体职业资质拆解为短期碎片化的岗位任务模块"
 type: concept
 domain: "educational-policy-reform"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -33,6 +33,7 @@ related_facts:
   - "[[Standardberufsbildpositionen]]"
 related_arguments:
   - "[[Argument_Hippach-Schneider_Rieder_2022_RCIE]]"
+  - "[[Argument_Thelen_2007_RegGov]]"
 confidence: high
 status: draft
 created: 2026-11-21
@@ -104,6 +105,9 @@ updated: 2026-11-21
 >
 > > [!claim] Hippach-Schneider and Rieder
 > > **工会对模块化侵蚀的防御** 德国工会（如 DGB 与 IG Metall）坚持维护完整职业原则，将部分资格（Teilqualifikationen）与模块化微证书视作对职业系统完整性的潜在威胁，警惕雇主借灵活性之名剥夺年轻人的全面受教育权；德国选择通过推行统一的通用标准职业能力条目（Standardberufsbildpositionen）与选修“附加资质”（Zusatzqualifikationen）实现适应，避免体系滑向碎片化。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, pp. 631–633)]]
+>
+> > [!claim] Thelen
+> > **商会法定终考守门对职业标准底线的制度维系** 2005 年《联邦职业教育法》改革引入模块化选修与过程导向型现场实操考核，满足了企业降低培训净支出与定制业务技能的微观诉求；但在行业商会（IHK/HWK）独家掌管终结性国家考试的法定规制下，整体职业行动能力得以保全，未退化为以单项操作为导向的企业专属碎片化培训，证明在集体主义守门人制度约束下，微观灵活性与国家通用职业标准能够实现动态兼容。[[Argument_Thelen_2007_RegGov|(Thelen, 2007, pp. 253–255, 258)]]
 
 ---
 
@@ -111,13 +115,14 @@ updated: 2026-11-21
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **规范弹性命题** | 依靠技术中立的抽象表述缓冲外部技术冲击并保障基层灵活性 | 双元制培训条例的常规维护与技术吸收 | [[Argument_Hippach-Schneider_Rieder_2022_RCIE\|Hippach-Schneider and Rieder (2022)]] |
-> | **劳资均衡命题** | 将完整职业结构视作工会捍卫劳动者长期权益与身份认同的壁垒 | 应对企业模块化诉求与岗位微认证争议 | [[Argument_Hippach-Schneider_Rieder_2022_RCIE\|Hippach-Schneider and Rieder (2022)]] |
+> | **劳资均衡命题** | 将完整职业结构视作工会捍卫劳动者长期权益与身份认同的壁垒，依托商会统一考核维系通用标准底线 | 应对企业模块化诉求与岗位微认证争议 | [[Argument_Hippach-Schneider_Rieder_2022_RCIE\|Hippach-Schneider and Rieder (2022)]]; [[Argument_Thelen_2007_RegGov\|Thelen (2007)]] |
 
 ---
 
 > [!dev-timeline] 概念演变
 > - **1969 — 制度确立阶段** 联邦德国颁布《职业培训法》（BBiG），将 Berufsprinzip 升格为国家双元制职业教育的基本法治原则，确立国家承认职业目录制度。
 > - **1990–2000 — 知识经济与模块化争论阶段** 面对欧洲资格框架（EQF）与模块化浪潮，德语区围绕是否打破全科职业展开激烈辩论，最终确立以“职业行动能力”为核心的行动导向教学范式。
+> - **2005 — 《联邦职业教育法》改革与模块化妥协阶段** 面对培训岗位紧缺与企业定制诉求，2005 年修订案推行可选模块与过程导向实操考核，同时由法定行业商会牢固掌管终结性资格认证，守住全国通用职业资质底线，实现职业原则与微观灵活性的共生演化。[[Argument_Thelen_2007_RegGov|(Thelen, 2007, pp. 253–255)]]
 > - **2021–至今 — 数字化与绿色转型更新阶段** 联邦职业教育研究所（BIBB）推行统一的跨职业通用标准条目，在坚守完整职业底线的前提下实现横向素养渗透。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, p. 631)]]
 
 ---
@@ -138,8 +143,10 @@ updated: 2026-11-21
 > | [[Actor-Centred Institutionalism]] | 理论 | 用于解析工会与雇主协会围绕职业原则与模块化展开的博弈策略。 |
 > | [[Collective Skill Formation]] | 理论 | 完整职业原则构成了集体技能形成模式区别于自由主义技能体系的关键基石。 |
 > | [[German Dual Education System]] | 事实 | 完整职业原则是德国双元制职业教育的根本法治与组织基石。 |
+> | [[Vocational Training Act of 2005]] | 事实 | 2005 年新法确立模块化选修与商会统一考核，在制度层面调和了职业原则与微观企业定制需求。 |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Hippach-Schneider_Rieder_2022_RCIE|Hippach-Schneider and Rieder (2022)]] — 比较德瑞两国在数字化冲击下如何通过技术中立的抽象表述与组织协商维护职业原则，揭示工会抗拒模块化侵蚀的策略逻辑。
+> - [[Argument_Thelen_2007_RegGov|Thelen (2007)]] — 结合 2005 年《联邦职业教育法》改革实证评估，揭示在法定商会独家掌握终考守门权的规制下，选修模块化与现场实操考核如何赋能企业定制灵活性而不动摇完整职业原则的制度底线。（pp. 253–255, 258）
