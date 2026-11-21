@@ -1471,6 +1471,10 @@
     {
       "sentence": "feature] 德国对跨国教育政策的选择性借用特征",
       "target": "wiki/concepts/comparative-education/Transnational Education.md"
+    },
+    {
+      "sentence": "*As the participation in the school types of the tripartite system shows a clear social selectivity (children from well-off families are much more likely to go to the Gymnasium), selectivity in terms of pupils’ achievement, which is the primary rationale of the tripartite system, is being overshadowed by selectivity in terms of pupils’ socio-economic backgrounds.*",
+      "target": "wiki/concepts/political-economy-geopolitics/Selectivity.md"
     }
   ]
 }
