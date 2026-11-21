@@ -59,6 +59,7 @@ related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Morgan_Shahjahan_2014_CE]]"
+  - "[[Argument_Ertl_2006_ORE]]"
 confidence: high
 status: active
 created: 2026-05-01
@@ -127,6 +128,7 @@ updated: 2026-11-15
 > [!finding-cards] 核心实证结论
 > - **跨国“可计算空间”的生产** 科学知识社会学研究表明，EAG 通过技术抽象与施为性机制，将不可比的各国学校现实建构为跨国可通约的治理空间。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 4, 14)]]
 > - **荷兰教师薪资维权行动与美国高中辍学率争议** 荷兰教师联合会利用 1996 年 EAG 发布的教师法定薪资与工时国际比较数据，证实荷兰教师相对待遇显著低于欧洲邻国，成功掀起全国性维权请愿并迫使政府追加薪资预算；[[United States Department of Education|美国联邦教育部]]在 EAG 高中毕业率指标发布后，发现其高中完成率排名显著低于预期，引发对弱势族裔辍学率统计口径的全国性政策大辩论。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 3)]]
+> - **德国 PISA 冲击后的体制痼疾被动确证** 2000 年 PISA 冲击促使德国朝野重新激活对《教育概览 2004》长期忽视之指标的审视，通过班级规模过大、法定课时不足、高等教育毛入学率落后及公共与私人教育支出匮乏等跨国数据，确证了本土学校体制的结构性脆弱性。[[Argument_Ertl_2006_ORE|(Ertl, 2006, p. 621)]]
 > - **大选前夕的政治干预** 欧洲某成员国执政党曾正式向经合组织交涉，要求延后数月发布当年度《教育概览》，因其关键指标显示国内教育开支持续下滑，执政精英担忧不良数据会直接引发选民倒戈、葬送议会选情。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 4)]]
 
 > [!stat-cards]- 关键实证数据
@@ -179,5 +181,6 @@ updated: 2026-11-15
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Gorur_2014_Discourse|Gorur (2014)]] — 运用科学知识社会学与 STS 视角深度剖析《教育概览》的生产史与治理空间建构。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 论证《教育概览》作为全球北方确立数字治理范式的制度里程碑及其对 PISA 的孕育。
-> - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014)]] — 考证《教育概览》如何奠定指标文化并倒逼经合组织催生 PISA [[Test Production|测验研发]]。
+> - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014)]] — 考证《教育概览》如何奠定指标文化并促使经合组织推进 PISA [[Test Production|测验研发]]。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 剖析《教育概览》作为经合组织比较规制机制在确立欧洲与跨国循证政策转向中的事实权威建构。
+> - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 记录德国在 PISA 震荡后重新借助《教育概览 2004》指标审视班级规模过大、课时不足与经费匮乏等体制痼疾的过程。

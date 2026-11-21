@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 187
+fact_related_count: 188
 fact_related_level: 18
 fact_related_stars: "💎💎💎💎💎💎"
 fact_related_color: "#fecdd3"
@@ -210,6 +210,7 @@ related_arguments:
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Silova_2009_EE]]"
   - "[[Argument_Munch_2014_TCR]]"
+  - "[[Argument_Ertl_2006_ORE]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Governing at a Distance]]"
@@ -465,3 +466,4 @@ updated: 2026-11-21
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 将 PISA 确立为全系统改进研究在后大型国际评估时代识别增量提质系统的全球度量标尺，同时反思系统改进[[Document|文献]]过度依赖单一标准化测试所带来的绩效主义偏差（pp. 3, 11）。
 > - [[Argument_Silova_2009_EE|Silova (2009)]] — 批判 PISA 等大规模跨国测试带来的去情境化技术主义冲击，论证扎根历史文脉与制度生态的多案例质性比较对抵御均质化量化规训的学科价值（pp. 28–29）。
 > - [[Argument_Munch_2014_TCR|Münch (2014)]] — 结合新制度主义社会学制度同构与布迪厄符号权力视角，系统解构经合组织如何依托 PISA 测评垄断教育合法性定义，并揭示其测评构念与德国本土深度分科传统之间的认识论冲突及制度混杂病理。
+> - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 系统剖析 PISA 2000 在德国引发的政治震荡与话语变迁，揭示统一国家标准建立背后的联邦跨州妥协与对三轨学制早期分流的回避。
