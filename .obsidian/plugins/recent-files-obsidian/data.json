@@ -5,8 +5,16 @@
       "path": "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照/01 鲍姆加登和门德尔松.md"
     },
     {
+      "basename": "02 康德",
+      "path": "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照/02 康德.md"
+    },
+    {
       "basename": "Argument_Hammermeister_2002_Cambridge_Ch01",
       "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch01.md"
+    },
+    {
+      "basename": "宗白华_西方美学散文_翻译风格",
+      "path": "output/美学翻译/宗白华_西方美学散文_翻译风格.md"
     },
     {
       "basename": "Combinatorial Novelty Measurement",
@@ -191,14 +199,6 @@
     {
       "basename": "arguments",
       "path": "bases/arguments.md"
-    },
-    {
-      "basename": "vault-schema",
-      "path": "vault-schema.md"
-    },
-    {
-      "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch05",
-      "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch05.md"
     }
   ],
   "omittedPaths": [],

@@ -2,6 +2,9 @@
 title: Alexander Gottlieb Baumgarten
 aliases:
   - Alexander Baumgarten
+  - 亚历山大·戈特利布·鲍姆加登
+  - 鲍姆加登
+  - 亚历山大·鲍姆加登
   - 亚历山大·戈特利布·鲍姆嘉通
   - 鲍姆嘉通
   - 亚历山大·鲍姆嘉通

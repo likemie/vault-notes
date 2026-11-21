@@ -22,6 +22,7 @@ tags:
   - educational-psychology
 related_concepts:
   - "[[Academic Achievement]]"
+  - "[[Didaktik]]"
   - "[[Positivism]]"
   - "[[Criterion-Referenced Test]]"
   - "[[Visible Learning]]"
@@ -79,13 +80,12 @@ related_arguments:
   - "[[Argument_Nielsen_2021_NordPsych]]"
   - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
   - "[[Argument_Nielsen_2021_IRTP]]"
+  - "[[Argument_Ertl_2006_ORE]]"
 confidence: high
-status: draft
+status: completed
 created: 2026-10-17
-updated: 2026-11-15
+updated: 2026-11-21
 ---
-
-（行为主义）
 
 ---
 
@@ -93,7 +93,7 @@ updated: 2026-11-15
 > - **解释对象** 有机体外显行为的习得、维持、分化、重塑与消退过程，以及外部教学环境刺激对学习者[[Academic Achievement|学业表现]]的定向调控机制。
 > - **理论问题** 批判早期意识内省心理学主观臆测与缺乏可重复检验性的缺陷，致力于回答如何将人类与动物学习建立在客观、可控制、可实证测量的自然科学[[Experimental Research|实验法]]则之上。
 > - **理论类型** [[Positivism|实证主义]]解释理论、行为工程[[Analytic Framework|分析框架]]与教学技术控制规程。
-> - **知识位置** 学习科学与实验心理学奠基传统；发端于经典条件作用（巴甫洛夫、华生），成型于[[B. F. Skinner|斯金纳]]（[[B. F. Skinner]]）的操作性条件反射与教学机器，成熟于[[Robert Glaser|格拉泽]]（[[Robert Glaser]]）的程序化教学模型与[[Criterion-Referenced Test|标准参照测验]]，并深度渗入当代[[John Hattie|约翰·哈蒂]]（[[John Hattie]]）《[[Visible Learning|可见的学习]]》对教学输入—输出与矫正性反馈回路的工程化建模；与认知主义、[[Constructivist Paradigm|建构主义]]和[[Critical Theory|批判理论]]构成当代教育[[Epistemology|认识论]]的核心对话轴线。
+> - **知识位置** 学习科学与实验心理学的核心源头传统；发端于经典条件作用（巴甫洛夫、华生），成型于[[B. F. Skinner|斯金纳]]（[[B. F. Skinner]]）的操作性条件反射与教学机器，成熟于[[Robert Glaser|格拉泽]]（[[Robert Glaser]]）的程序化教学模型与[[Criterion-Referenced Test|标准参照测验]]，并深度渗入当代[[John Hattie|约翰·哈蒂]]（[[John Hattie]]）《[[Visible Learning|可见的学习]]》对教学输入—输出与矫正性反馈回路的工程化建模；与认知主义、[[Constructivist Paradigm|建构主义]]和[[Critical Theory|批判理论]]构成当代教育[[Epistemology|认识论]]的核心对话轴线。
 
 > [!claim] 核心判断
 > 学习的实质是有机体在环境强化刺激作用下所产生的外显行为反应概率的定向改变；教学实践的科学任务聚焦于将复杂的知识技能拆解为可操作的微小刺激—反应单元，通过即时矫正反馈与系统化强化排程，引导学习者平稳实现从初始行为状态向终点胜任标准的转化。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 4–5)]]
@@ -107,17 +107,18 @@ updated: 2026-11-15
 > - **形成路径** 斯金纳区分了环境诱发的应答性行为（Respondent Behavior）与有机体主动发出的操作性行为（Operant Behavior），证明行为频率主要受其后继结果（Consequences）所决定；进而将动物实验室中确立的强化原理迁移至人类语言与符号学习，构想出以“小步子呈现—主动反应—即时确认”为特征的机械教学设备与分步教材。
 
 > [!dev-timeline] 理论演变历程
-> - **1913 — 华生经典行为主义奠基** 确立刺激—反应（S-R）的客观观察原则，主张摒弃意识、灵魂与心理状态等无法经验测量的形而上学概念。
+> - **1913 — 华生经典行为主义创立** 确立刺激—反应（S-R）的客观观察原则，主张摒弃意识、灵魂与心理状态等无法经验测量的形而上学概念。
 > - **1938/1954 — 斯金纳确立操作性行为体系与教学机器** 提出三项偶联模型（前因刺激—反应行为—后继结果），强调正强化优于惩罚，发明初代机械式教学机器，确立自定步调学习[[Paradigm|范式]]。
 > - **1960/1962 — [[Robert Glaser|格拉泽]]开创系统教学设计工程** 罗伯特·格拉泽（[[Robert Glaser]]）与卢姆斯丹（A. A. Lumsdaine）联合主编《教学机器与程序化学习》，并提出包含教学目标、起点行为、教学程序与表现评价的四要素系统模型，将行为强化推进为工程化教学设计。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, p. 4)]]
 > - **1963 — 格拉泽创立[[Criterion-Referenced Test|标准参照测验]]** 提出以行为表现是否达到绝对胜任标准为判准的标准参照测验（CRM），取代依据常模群体排名的相对评价，奠定现代课程标准胜任力评价基础。
 > - **1980/1982 — [[Herbert Walberg|沃尔伯格]]学派对强化技术的[[Meta-analysis|元分析]]综合** 莱萨科夫斯基与沃尔伯格（Lysakowski & Walberg, 1980, 1982）针对课堂强化与矫正性线索展开大规模一阶元分析，分别录得 $d = 1.17$ 与 $d = 0.97$ 的超高[[Effect Size|效应量]]，为行为控制技术提供了大[[Sample Size Determination|样本量]]化证据支撑。
 > - **1987/2009 — [[John Hattie|哈蒂]]将行为控制模型植入可见学习** 约翰·哈蒂（[[John Hattie]]）在 1987 年学生学习模型中明确依凭格拉泽理论，在《[[Visible Learning|可见的学习]]》中将[[Feedback|教学反馈]]狭义界定为修正偏差的后置刺激（$d = 0.73$），使行为主义控制逻辑成为循证教学评价的核心理论基石。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 4–5)]]
+> - **2006 — 德国 PISA 改革中行为主义能力指标与欧陆教学论的冲突** [[Argument_Ertl_2006_ORE|Ertl (2006)]] 揭示德国在应对 PISA 冲击时外部引进以可测量行为指标为基底的能力标准与产出测评，与本土强调长周期育人陶冶、教学输入保障与师生反思对话的德意志教学论（[[Didaktik]]）及行动胜任力（Handlungskompetenz）传统爆发剧烈冲突（胜任力冲突，Competence Clash），导致真实教学生成过程被推入黑箱。
 > - **2021 — [[Critical Theory|批判理论]]对行为主义[[Technical Rationality|技术理性]]的系统解构** 尼尔森与克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）确凿证实哈蒂实证综合的思想底色属于斯金纳—格拉泽行为主义谱系与[[Technical Rationality|技术理性]]，揭示其抽离师生[[Intentionality|主体意向性]]并演化为[[Neo-Taylorism|新泰勒主义]]规训工具的机制。
 
 ---
 
-> [!entry-map] 关键概念与理论构件
+> [!theory-constructs] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -184,7 +185,7 @@ updated: 2026-11-15
 > | 强化刺激与后果调控（Skinner, 1953; [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022]]） | **强化机制与排程结构** 体系依赖何种外部刺激维系学习参与？奖励机制是连续的还是变比率的？ | 积分榜、代币兑换、通关勋章、扣分规则、系统提示弹窗。 | 依赖外部有形物、代币或高频视听奖励驱动参与，表明教学动机深嵌于外在行为强化逻辑。 |
 > | 矫正反馈与偏差消除（Hattie, 1987, 2009; [[Argument_Nielsen_2021_NordPsych\|Nielsen & Klitmøller, 2021a]]） | **反馈形态与纠错回路** 反馈信息关注的是主观反思还是行为对错？反馈是否提供即时标准化纠偏？ | [[Homework\|作业]]批改评语、测验错题解析界面、人机即时对错交互记录。 | 若反馈排他性聚焦于指出答案正误并推送标准纠错模板，表明其处于行为主义纠偏回路之下。 |
 > | 标准参照与目标外显（Glaser, 1963; [[Robert Glaser]]） | **胜任标准与测量[[Paradigm\|范式]]** 评价是以学生群体排名为判准，还是以可观察的外显行为达标为唯一判准？ | 学习目标陈述方式、通关及格线设定、胜任力清单核对表。 | 采用“能够准确默写/计算/操作……”等外显行为动词并设定绝对达标阈值，体现[[Criterion-Referenced Test\|标准参照]]范式。 |
-> | 系统工程与技术理性（Schön, 1983; [[Argument_Nielsen_2021_NordPsych\|Nielsen & Klitmøller, 2021a]]） | **教学控制与教师角色** 教师被视为具有实践反思智慧的专业人员，还是执行标准化规程的工程操作员？ | 教师教学规程的刚性约束程度、脚本化教案普及率、微观绩效问责指标。 | 教学规程高度脚本化且不允许偏离预设序列，表明其演变为服务于行政技术控制的[[Disciplina and Doctrina\|规训]]工具。 |
+> | 系统工程与技术理性（Schön, 1983; [[Argument_Nielsen_2021_NordPsych\|Nielsen & Klitmøller, 2021a]]） | **教学控制与教师角色** 教师被视为具有实践反思智慧的专业人员，还是执行标准化规程的工程操作员？ | 教师教学规程的强制约束程度、脚本化教案普及率、微观绩效问责指标。 | 教学规程高度脚本化且不允许偏离预设序列，表明其演变为服务于行政技术控制的[[Disciplina and Doctrina\|规训]]工具。 |
 
 > [!exegesis]- 从理论到材料的一次完整分析
 > - **现象与问题** 某区教育局在 30 所初中强行推广一套基于平板电脑的“智能自适应作业系统”。系统宣称利用大数据精准教学，要求学生每日完成 20 分钟在线闯关，教师依据系统报表对未达标学生实施补救教学。本研究评估该系统的深层教育学性质。
@@ -264,14 +265,22 @@ updated: 2026-11-15
 > > - **早期量化合成派（Lysakowski & Walberg, 1980, 1982; Hattie, 2009）** 宣称强化与反馈具有高达 $d = 0.73\text{–}1.17$ 的超高效应，是普适高效的超级教学技术。
 > > - **细致实证检验派（Kluger & DeNisi, 1996; Shute, 2008）** 证实反馈效应高度依赖任务性质与心理归因，在超三分之一的情境下导致绩效衰退，机械的外部刺激往往打压[[Metacognition|元认知]]反思。
 
+> > [!axis] 行为主义产出测评 vs 欧陆教学论全人陶冶
+> > 争论课程与学业标准应当以可测量的外显行为胜任力为导向，还是以复杂知识的教育价值与长周期人文陶冶（Bildung）为核心。
+> >
+> > - **行为主义产出测评导向（英美国家标准模式）** 聚焦终端考试产出与可测量行为指标，将真实的教学生成与认知互动置于黑箱之中。
+> > - **欧陆教学论与行动陶冶传统（[[Argument_Ertl_2006_ORE|Ertl, 2006]]）** 强调教学内容的选择与教学分析、师生反思对话及行动胜任力（Handlungskompetenz），坚决抵制将教育降格为去情境化的外显行为指标。
+
 > [!critique] 批评索引
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 系统解构可见学习底层的斯金纳—[[Robert Glaser|格拉泽]]行为主义谱系，揭示其如何通过[[Construct|构念]]混淆拼凑虚高反馈效应，并将复杂育人实践异化为新泰勒主义控制工具。
 > - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 运用[[Jürgen Habermas|哈贝马斯]]生活世界理论与舍恩技术理性批判，指出行为主义教育心理学将充满意向性的鲜活师生客体化为因果[[Variable|变量]]，充当官僚系统应对[[Legitimation Crisis|合法化危机]]的技术掩体。
 > - [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz and Klinge (2022)]] — 批判当代算法教学与[[Gamification|游戏化]]教育平台对斯金纳操作反射排程的机械复活，揭示其以行为规训替代内在教养（[[Bildung]]）的异化风险。
+> - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 批判德国引进的英美行为主义能力测度标准片面紧盯终端考试产出，揭示其与德意志欧陆教学论（Didaktik）和全人教化（Bildung）传统的不可调和性。
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 追溯当代实证教学评价自 Skinner 到 Glaser 再到 Hattie 的理论传承链，以[[Technical Rationality|技术理性]]解构行为控制逻辑与反馈[[Meta-analysis|元分析]]的数据失真。
 > - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 剖析行为主义心理学工程如何放逐师生[[Intentionality|主体意向性]]与生活世界价值，服务于官僚机构的技术治理。
 > - [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz and Klinge (2022)]] — 考察算法教育与数字化学习平台如何复活[[B. F. Skinner|斯金纳]]操作条件反射，指出其以行为控制消解深层理解的教学弊端。
+> - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 剖析德国 PISA 冲击后外部引进的能力测试行为主义取向对德意志本土欧陆教学论（Didaktik）和全人教化（Bildung）传统的系统性冲击与范式冲突。

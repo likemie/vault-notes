@@ -2955,6 +2955,8 @@
     "Boaz et al., 2019": "Boaz et al., 2019",
     "Bob Darwish (2009)": "Bob Darwish, 2009",
     "Bob Darwish, 2009": "Bob Darwish, 2009",
+    "Bob Jessop (2007)": "Bob Jessop, 2007",
+    "Bob Jessop, 2007": "Bob Jessop, 2007",
     "Bob Lingard (2009)": "Bob Lingard, 2009",
     "Bob Lingard, 2009": "Bob Lingard, 2009",
     "Bobbitt (1918)": "Bobbitt, 1918",
@@ -51402,6 +51404,21 @@
       "seen_in": [
         "wiki/concepts/educational-philosophy/Banking Model of Education.md",
         "wiki/concepts/educational-philosophy/Conscientization.md"
+      ],
+      "title": ""
+    },
+    "Bob Jessop, 2007": {
+      "aliases": [
+        "Bob Jessop, 2007",
+        "Bob Jessop (2007)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bob Jessop, 2007"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/political-economy-geopolitics/Selectivity.md"
       ],
       "title": ""
     },

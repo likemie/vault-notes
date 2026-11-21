@@ -3,6 +3,7 @@ title: Disinterested Pleasure
 aliases:
   - 无功利愉悦
   - 无利害愉悦
+  - 赞许能力
   - 赞同官能
   - Billigungsvermögen
   - faculty of approbation
