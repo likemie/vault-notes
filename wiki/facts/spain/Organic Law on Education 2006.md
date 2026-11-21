@@ -12,7 +12,7 @@ subtype: policy
 region: spain
 fact_region: "spain"
 fact_kind: "policy"
-fact_related_count: 13
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -30,11 +30,13 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[State Educational Sovereignty]]"
   - "[[Discourse]]"
+  - "[[Curriculum Alignment]]"
   - "[[Commensuration]]"
   - "[[Educational Decentralization]]"
 related_facts:
   - "[[Organic Law on the General Organization of the Education System 1990]]"
   - "[[Centros Concertados]]"
+  - "[[Gesamtschule]]"
 related_arguments:
   - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
@@ -43,7 +45,7 @@ related_persons:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-11-11
+updated: 2026-11-21
 ---
 
 ---
@@ -102,7 +104,7 @@ updated: 2026-11-11
 > [!prop-table]- 关键行动者属性
 > | 行动者 | 资源类型 | 核心利益 | 立场 | 策略 |
 > |:---|:---|:---|:---|:---|
-> | 萨帕特罗工人社会党政府 | 执政起草权、议会调控权 | 维系左翼平权理念，稳固议会多党联盟执政 | 支持推动 | 延续综合中学体制，向民族主义政党大幅让渡事权 |
+> | 萨帕特罗工人社会党政府 | 执政起草权、议会调控权 | 维系左翼平权理念，稳固议会多党联盟执政 | 支持推动 | 延续[[Gesamtschule\|综合中学]]体制，向民族主义政党大幅让渡事权 |
 > | 自治区民族主义政党 | 议会关键票数支持、区域排他行政权 | 获取完全独立的区域教育体系与语言主导权 | 积极合作 | 施压要求最大化课程裁量权（达 55%），建立独立体系 |
 > | 保守派人民党（PP） | 议会最大反对党地位、保守舆论阵地 | 捍卫国家宪法统一、学校学术水准与全国统考 | 坚决反对 | 投票否决法案，组织宪法法院诉讼与社会抗议 |
 > | 天主教教会与[[Centros Concertados\|协约学校]]组织 | 庞大民间办学资产、学生家长网络 | 保障宗教课程地位与协约学校公共资金供给 | 妥协接受 | 施压政府保障协约资助，换取不对综合学制发起彻底抵制 |
@@ -126,7 +128,7 @@ updated: 2026-11-11
 > - **结果指标** 初中阶段学业失败率继续维持在 30% 左右的高位，17 个自治区形成事实上的平行教育系统。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 327–331)]]
 
 > [!finding-cards] 效果与评价
-> - **国家教育空间制度性分立** LOE 使得国家教育体系分立为 17 个平行的独立体系，中央政府基本丧失了宏观质量监控与课程对齐的有效机制。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 327–328)]]
+> - **国家教育空间制度性分立** LOE 使得国家教育体系分立为 17 个平行的独立体系，中央政府基本丧失了宏观质量监控与[[Curriculum Alignment|课程对齐]]的有效机制。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 327–328)]]
 > - **综合学制瓶颈未能化解** 面对初中高段学业抗拒者泛滥与平庸化问题，LOE 选择政治妥协与维持现状，初中阶段高辍学率未能得到扭转。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 330–331)]]
 > - **边界条件** 核心能力框架与课程分权的成效高度依赖自治区执政党政治意愿及地方财政配套，各自治区在落实评估与师资调整上差异显著。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 328–330)]]; [[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, p. 65)]]
 

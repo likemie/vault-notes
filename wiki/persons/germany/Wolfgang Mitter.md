@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 40
+person_related_count: 42
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -59,7 +59,9 @@ related_facts:
   - "[[Leibniz Institute for Educational Research and Educational Information]]"
   - "[[Comparative Education Society in Europe]]"
   - "[[World Council of Comparative Education Societies]]"
+  - "[[European Education]]"
   - "[[Education in Europe]]"
+  - "[[Gesamtschule]]"
   - "[[OECD]]"
   - "[[PISA]]"
   - "[[IEA]]"
@@ -70,14 +72,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-11-15
+updated: 2026-11-21
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国著名比较教育学家，[[Leibniz Institute for Educational Research and Educational Information|德国国际教育研究所]]（[[Leibniz Institute for Educational Research and Educational Information|DIPF]]）总监与所长（1972–1995），[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）会长（1981–1985），[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（WCCES）会长（1991–1996）。
-> - **核心角色** 20 世纪后半叶欧洲比较教育[[Disciplinary Institutionalization|学科制度化]]、东西欧教育交流以及跨国学术网络的核心组织者与史学阐释者；在冷战对峙与后冷战转型时期架设起西欧与中东欧比较教育学术沟通的关键桥梁，开创了欧洲比较教育史编纂的批判制度主义传统。
+> - **核心角色** 20 世纪后半叶欧洲比较教育[[Disciplinary Institutionalization|学科制度化]]、东[[European Education|西欧教育]]交流以及跨国学术网络的核心组织者与史学阐释者；在冷战对峙与后冷战转型时期架设起西欧与中东欧比较教育学术沟通的关键桥梁，开创了欧洲比较教育史编纂的批判制度主义传统。
 > - **代表贡献** 提出欧洲比较教育演进的“统一性与多样性”核心二分结构；确立比较教育在政策咨询中的[[Navigation Metaphor in Comparative Education|航海隐喻]]（提供航线与暗礁警示而非掌舵操盘）；系统勾勒战后欧洲大学教席、独立研究所与学会建制地图；倡导将比较教育定位为依附于[[Allgemeine Pädagogik|普通教育学]]的[[Comparative Education as a Cross-Sectional Area|交叉学科]]领域。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 87–99)]]
 
 > [!citation-card] 人物定位的关键来源
@@ -99,7 +101,7 @@ updated: 2026-11-15
 ---
 
 > [!thought-timeline] 思想发展阶段
-> - **1970年代–1980年代 — 中等教育综合化改革与东西欧比较研究** 聚焦西欧综合中学改革阻力与苏联东欧社会主义教育体制的制度运行机制。
+> - **1970年代–1980年代 — 中等教育综合化改革与东西欧比较研究** 聚焦西欧[[Gesamtschule|综合中学]]改革阻力与苏联东欧社会主义教育体制的制度运行机制。
 >   - **代表著作** *Secondary School in the Light of [[Comprehensive Education]]* (1979); 与安维勒等学者的跨国课题。
 >   - **关键概念／方法** 东西欧学制比较、社会主义教育体制、历史发生学分析。
 >   - **阶段转向** 突破冷战意识形态对立宣传，坚持以严谨的文献考证与第一手数据剖析社会主义教育的实际机能。

@@ -67,6 +67,7 @@ class UsageFloatPlugin extends Plugin {
     this.due = new Map();
     this.writes = Promise.resolve();
     this.lastRefresh = null;
+    this.currentAntigravityId = null;
     this.actions = {
       state: () => this.state(),
       dashboard: () => this.openDashboard(),
@@ -101,7 +102,7 @@ class UsageFloatPlugin extends Plugin {
   state() {
     return {
       settings: this.preferences, rows: this.rows, busy: this.busy,
-      lastRefresh: this.lastRefresh, now: Date.now(),
+      lastRefresh: this.lastRefresh, currentAntigravityId: this.currentAntigravityId, now: Date.now(),
     };
   }
 
@@ -192,8 +193,9 @@ class UsageFloatPlugin extends Plugin {
     const prior = this.rows[id];
     let failed = false;
     try {
-      const fresh = await collectors[id](signal, prior, accountId);
+      const reading = await collectors[id](signal, prior, accountId);
       if (signal.aborted) return;
+      const fresh = id === "antigravity" ? reading.rows : reading;
       const byId = new Map(prior.map(row => [row.id, row]));
       const merged = fresh.map(row => {
         const last = byId.get(row.id);
@@ -210,8 +212,10 @@ class UsageFloatPlugin extends Plugin {
       this.rows[id] = accountId
         ? prior.map(row => row.id === accountId ? (resolved[0] ?? row) : row)
         : resolved;
+      if (id === "antigravity") this.currentAntigravityId = reading.currentId;
     } catch (error) {
       if (signal.aborted) return;
+      if (id === "antigravity") this.currentAntigravityId = null;
       failed = true;
       this.rows[id] = prior.map(row => !accountId || row.id === accountId ? { ...row, issue: issue(error) } : row);
     } finally {

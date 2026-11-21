@@ -12,9 +12,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16"
 argument_display_title: "Research Methods in Education · Ch16"
 argument_kind: "book-chapter"
-argument_related_count: 89
-argument_related_level: 8
-argument_related_stars: "💎💎⭐⭐"
+argument_related_count: 94
+argument_related_level: 9
+argument_related_stars: "💎💎💎"
 argument_related_color: "#fecdd3"
 book_title: "Research Methods in Education"
 publication_place: "London"
@@ -75,7 +75,10 @@ related_concepts:
   - "[[Homework]]"
   - "[[Language Skills]]"
   - "[[Socioeconomic Status]]"
+  - "[[Teacher Qualifications]]"
+  - "[[Paradigm]]"
   - "[[Operationalization]]"
+  - "[[The Interesting]]"
   - "[[Exogenous and Endogenous Variables]]"
 related_theories:
   - "[[Complexity Theory]]"
@@ -122,6 +125,8 @@ related_instruments: []
 related_persons:
   - "[[John Dewey]]"
 related_facts:
+  - "[[Gesamtschule]]"
+  - "[[Recommendation-Based Graduate Admission System]]"
   - "[[PANDA]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
@@ -133,7 +138,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-07-12
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 > [!knowledge-map] 第16章 [[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_16_Concept_Map.jpg)
@@ -793,11 +798,11 @@ Dietz (1977) 在特殊教育班级中使用 ABAB 设计，研究教师对一名*
 Torgerson and Torgerson (2003b) 系统识别了 RCT 中的多种偏差（pp. 332–334）：
 
 > [!factors] RCT 中的八种偏差来源
-> - **选择性样本偏差（Selective Sample Bias）** 使用极其特定的样本（如独家的女子[[Boarding Schools\|寄宿学校]]），然后试图将结果推广到更广泛总体（如内城混合制综合学校），这是最常见的外部推广性错误（p. 37）。
+> - **选择性样本偏差（Selective Sample Bias）** 使用极其特定的样本（如独家的女子[[Boarding Schools\|寄宿学校]]），然后试图将结果推广到更广泛总体（如内城混合制[[Gesamtschule|综合学校]]），这是最常见的外部推广性错误（p. 37）。
 > - **选择偏差（Selection Bias）** 实验组具有与结果变量相关但未纳入干预的变量，组间在关键但未被观察的特征上存在差异（pp. 37–38）。
 > - **稀释偏差（Dilution Bias）** 控制组因未接触干预而主动寻求补偿性处理，如测试增加数学关注对考试成绩影响的实验中，控制组学生可能自行参加私人数学课程。这需要获得[[Informed Consent\|知情同意]]才能成立（p. 38）。
 > - **偶然效应（Chance Effects）** 如 40 名学生中有 4 名阅读障碍者，随机分配极不可能在两组中均匀分布（各 2 名），全部四人可能落入同一组。可通过**最小化（minimisation）** 策略应对，刻意确保这类学生均匀分配到两组，如配对分配（p. 40）。
-> - **颠覆偏差（Subversion Bias）** 研究者故意违反[[Random Assignment\|随机分配]]要求，因此需要双盲实验，或确保研究者不参与随机分配过程（p. 40）。
+> - **颠覆偏差（Subversion Bias）** 研究者故意违反[[Random Assignment\|随机分配]]要求，因此需要双盲实验，或确[[Recommendation-Based Graduate Admission System|保研]]究者不参与随机分配过程（p. 40）。
 > - **流失偏差（Attrition Bias）** 实验组部分学生退出，如只分析留守学生的结果，会与纳入退出者分析的结果有本质不同。Torgerson and Torgerson (2003a, pp. 74–75) 给出的例子：参加自愿周六早间加强班的学生中，退出者可能本身动机水平就较低，排除他们会高估干预效果。
 > - **报告或检测偏差（Reporting/Detection Bias）** 不同研究者或报告者对控制组和实验组的报告在细节程度或纳入相关观察方面不一致，一个组的观察者可能比另一个组的观察者记录得更细致（Torgerson & Torgerson, 2003b, p. 42）。
 > - **排除偏差（Exclusion Bias）** 实验组部分成员因流失之外的原因未实际参与实验，与退出的区别在于他们名义上仍在组内但从未接受干预。
@@ -896,7 +901,7 @@ Bhadwal and Panda (1991) 在印度农村以更稳健的实验设计检验通过�
 > - **控制组 2** *R* ==O₅== ~~·~~ ==O₆==
 
 > [!case] 研究详情
-> **样本与匹配** 从三所按**地点、硬件设施、教师资格与技能、学校评估程序和家长参与度**匹配的小学中抽取 78 名学生，再按社会经济背景和非语言 IQ 进行学生层面的匹配。
+> **样本与匹配** 从三所按**地点、硬件设施、[[Teacher Qualifications|教师资格]]与技能、学校评估程序和家长参与度**匹配的小学中抽取 78 名学生，再按社会经济背景和非语言 IQ 进行学生层面的匹配。
 >
 > **随机分配** 26 名学生随机分配至实验组，其余 52 名平均分配至两个控制组，与 Kerlinger (1970) 讨论的好实验设计一致。
 >
@@ -923,7 +928,7 @@ Bhadwal and Panda (1991) 在印度农村以更稳健的实验设计检验通过�
 ---
 
 > [!def] 设计研究的定位
-> 设计实验更准确的命名是**设计研究（design study）**，因为它通常不符合真实验的条件（如不具备 RCT 的特征）。该方法虽常与实验并置讨论，但本质上是一种基于**工程设计的迭代方法论**，与传统实验存在范式差异（pp. 337–339）。
+> 设计实验更准确的命名是**设计研究（design study）**，因为它通常不符合真实验的条件（如不具备 RCT 的特征）。该方法虽常与实验并置讨论，但本质上是一种基于**工程设计的迭代方法论**，与传统实验存在[[Paradigm|范式]]差异（pp. 337–339）。
 
 #### 工程设计的类比
 
@@ -1025,7 +1030,7 @@ Hewson et al. (2003, p. 48) 将网络实验分为四类（p. 339）：
 ---
 
 > [!factors] 网络实验的特殊挑战
-> - **退出率极高且变化剧烈** 从 1% 到 87% 不等，可通过激励（付费或彩票）降低约 **31%**（Reips, 2002a）。退出原因包括动机、实验本身的趣味性，以及网络实验的**非强制性质**，与大学课程要求学生参与实验以获得学分形成鲜明对比。
+> - **退出率极高且变化剧烈** 从 1% 到 87% 不等，可通过激励（付费或彩票）降低约 **31%**（Reips, 2002a）。退出原因包括动机、实验本身的[[The Interesting|趣味性]]，以及网络实验的**非强制性质**，与大学课程要求学生参与实验以获得学分形成鲜明对比。
 > - **结果变异更大** 由于技术因素，网络连接速度、计算机速度、多软件并行运行，网络实验的结果变异大于传统实验（Reips, 2002b, pp. 245–246）。
 > - **控制减弱** 研究者对参与者环境的控制远低于实验室实验，实验来找参与者，而非参与者来实验室（Reips, 2009, p. 381）。
 > - **样本偏差** 可能有偏的、仅限志愿者的样本（Reips, 2009, p. 382），志愿者偏差或招募偏差。

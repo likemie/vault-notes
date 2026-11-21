@@ -9,7 +9,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -28,17 +28,18 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Grammar School]]"
+  - "[[Gesamtschule]]"
   - "[[Selective Schools Expansion Fund]]"
 related_arguments:
   - "[[Argument_Bainbridge_2022_ROE]]"
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-22
+updated: 2026-11-21
 ---
 
 > [!info] 背景
-> 2006 年，英国工党政府通过《教育与督导法》，在英格兰法律层面明确禁止新建[[Grammar School\|文法学校]]（grammar schools）。该立法的背景是选择性中等教育制度在 20 世纪后期的大规模收缩——大部分地区已取消 11-plus 考试并转为综合中学体系，但仍有部分地区保留了选拔性文法学校([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.3]])。
+> 2006 年，英国工党政府通过《教育与督导法》，在英格兰法律层面明确禁止新建[[Grammar School\|文法学校]]（grammar schools）。该立法的背景是选择性中等教育制度在 20 世纪后期的大规模收缩——大部分地区已取消 11-plus 考试并转为[[Gesamtschule|综合中学]]体系，但仍有部分地区保留了选拔性文法学校([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.3]])。
 
 > [!abstract] 政策文本摘要
 > 该法案的核心条款之一是禁止在英格兰建立新的选拔性公立中学（[[Grammar School\|文法学校]]），同时允许现有文法学校继续运作。这意味着英格兰现存的 163 所文法学校得以保留，但其数量不得增加([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.3]])。

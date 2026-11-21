@@ -9,10 +9,10 @@ aliases:
 summary: "以儿童发展与经验学习为核心的教育改革运动，在跨国传播中演化出民主参与、社会主义改造、实用主义提分与修辞合法化等多重再脉络化形态"
 type: concept
 domain: "educational-philosophy"
-related_count: 46
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 52
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - theme/educational-philosophy
   - theme/comparative-education
@@ -37,25 +37,29 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Learner Autonomy]]"
   - "[[Working Memory]]"
-  - "[[Heterogeneity]]"
+  - "[[Problem Solving]]"
   - "[[Discovery Learning]]"
   - "[[Critical Thinking]]"
   - "[[Discourse]]"
+  - "[[Heterogeneity]]"
   - "[[Quality Education]]"
   - "[[Selective Affinity]]"
   - "[[General Education]]"
   - "[[Decodification]]"
   - "[[Inquiry-Based Learning]]"
+  - "[[Learning by Doing]]"
+  - "[[Reflexivity]]"
+  - "[[International Education]]"
   - "[[Comprehensive Education]]"
   - "[[Critical Pedagogy]]"
+  - "[[Champ]]"
+  - "[[Document]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
   - "[[Cognitive Load Theory]]"
 related_methods:
-  - "[[Documentary Analysis]]"
-  - "[[Historical Document Analysis of Curriculum]]"
   - "[[Case Study]]"
-  - "[[Qualitative Observation]]"
+  - "[[Documentary Analysis]]"
 related_instruments: []
 related_persons:
   - "[[John Dewey]]"
@@ -63,7 +67,9 @@ related_persons:
   - "[[Tao Xingzhi]]"
   - "[[Confucius]]"
   - "[[Jean-Jacques Rousseau]]"
-related_facts: []
+related_facts:
+  - "[[European Education]]"
+  - "[[Gesamtschule]]"
 related_arguments:
   - "[[Argument_Ryabyy_2024_Maneto]]"
   - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
@@ -75,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-08
-updated: 2026-11-20
+updated: 2026-11-21
 ---
 
 ---
@@ -112,7 +118,7 @@ updated: 2026-11-20
 
 > [!feature] 核心要素
 > - **项目与活动课程** 以项目和活动课程（project- and activity-based curriculum）取代传统的[[Rote Learning\|死记硬背]]与机械讲授。[[Argument_Ryabyy_2024_Maneto\|(Ryabyy, 2024, p. 102)]]
-> - **从经验中学习** 强调知识源于儿童与环境相互作用的真实经验活动，并在主动探索与问题解决中持续建构。[[Argument_Ryabyy_2024_Maneto\|(Ryabyy, 2024, p. 103)]]
+> - **从经验中学习** 强调知识源于儿童与环境相互作用的真实经验活动，并在主动探索与[[Problem Solving|问题解决]]中持续建构。[[Argument_Ryabyy_2024_Maneto\|(Ryabyy, 2024, p. 103)]]
 > - **儿童中心与发展导向** 教育体系以儿童的自然发展需求、兴趣与心理准备为中心，而非以僵化的学科分类或教师权威为中心。[[Argument_Ryabyy_2024_Maneto\|(Ryabyy, 2024, pp. 102–103)]]
 > - **民主公民与社会塑造** 培养能够积极参与并主动塑造民主社会的独立公民，而非被动适应外部环境的个体。[[Argument_Ryabyy_2024_Maneto\|(Ryabyy, 2024, p. 104)]]
 > - **跨国可塑性与[[Recontextualization\|再脉络化]]** 在跨国传播中可与不同的政治制度（如苏俄社会主义建设）或文化传统（如儒家对话传统）相结合，生成多样化的本土形态。[[Argument_Ryabyy_2024_Maneto\|(Ryabyy, 2024, p. 107)]]; [[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 602)]]
@@ -147,7 +153,7 @@ updated: 2026-11-20
 
 ---
 
-> [!concept-proposition] 命题二｜进步教育思想在跨国传播中经历异质性本土再脉络化，演化出多元制度形态与政策修辞
+> [!concept-proposition] 命题二｜进步教育思想在跨国传播中经历[[Heterogeneity|异质性]]本土再脉络化，演化出多元制度形态与政策修辞
 > **跨国传播与本土再脉络化** 阐发外来进步教育思想在进入不同国家制度与文化语境时发生的功能重组与制度对接。
 
 > [!claim] [[Argument_Ryabyy_2024_Maneto\|Ryabyy (2024, p. 103)]]
@@ -166,7 +172,7 @@ updated: 2026-11-20
 > **进步教育作为全球化趋势的政策修辞资源** 政府在推行本土争议性课程（如香港[[General Education\|通识教育]] LS）时，常将进步教育探究法包装为“全球教育趋势”，借助国际专家背书与进步教育修辞来为本地政策提供合法性包装。[[Argument_Yan_2025_JCS\|(Yan & Morris, 2025, pp. 486–487)]]
 
 > [!claim] [[Argument_Silova_2009_EE\|Silova (2009)]]
-> **反法西斯进步主义与战后意大利中等义务教育改革** 意大利教育哲学家兰伯托·博尔吉（Lamberto Borghi）将反法西斯民主诉求与进步主义教育思想相结合，主张通过民主学校改革打破法西斯统治时期的威权服从文化，推动意大利战后建立面向全体儿童的统一初级中学（scuola media unica），并通过《西欧教育》等跨大西洋比较研究网络推介南欧草根进步主义教育与[[Comprehensive Education\|综合中学]]改革经验。[[Argument_Silova_2009_EE\|(Silova, 2009, pp. 20–21)]]
+> **反法西斯进步主义与战后意大利中等义务教育改革** 意大利教育哲学家兰伯托·博尔吉（Lamberto Borghi）将反法西斯民主诉求与进步主义教育思想相结合，主张通过民主学校改革打破法西斯统治时期的威权服从文化，推动意大利战后建立面向全体儿童的统一初级中学（scuola media unica），并通过《[[European Education|西欧教育]]》等跨大西洋比较研究网络推介南欧草根进步主义教育与[[Gesamtschule|综合中学]]改革经验。[[Argument_Silova_2009_EE\|(Silova, 2009, pp. 20–21)]]
 
 ---
 
@@ -218,15 +224,15 @@ updated: 2026-11-20
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Experiential Learning]] | 概念 | 进步主义教育的核心认知机制，强调在做中学与反思性经验建构。 |
-> | [[Learner-Centred Education]] | 概念 | 进步教育在当代国际教育话语与教学改革中的延伸表达形式。 |
+> | [[Experiential Learning]] | 概念 | 进步主义教育的核心认知机制，强调[[Learning by Doing\|在做中学]]与[[Reflexivity\|反思性]]经验建构。 |
+> | [[Learner-Centred Education]] | 概念 | 进步教育在当代[[International Education\|国际教育]]话语与教学改革中的延伸表达形式。 |
 > | [[Rote Learning]] | 概念 | 进步主义教育改革所批判并力求废除的旧式机械背诵模式。 |
 > | [[Comprehensive Education]] | 概念 | 战后欧洲进步教育者推动破除双轨制、建立统一初中时的制度载体。 |
-> | [[Critical Pedagogy]] | 概念 | 继承经验批判传统并将进步教育延伸至阶级压迫与文化政治场域的解放理论。 |
+> | [[Critical Pedagogy]] | 概念 | 继承经验批判传统并将进步教育延伸至阶级压迫与文化政治[[Champ\|场域]]的解放理论。 |
 > | [[Knowledge Building Theory]] | 理论 | 当代认知科学中对经验探究与共同体知识创造的理论深化。 |
 > | [[Cognitive Load Theory]] | 理论 | 批判进步教育自由探究法超载工作记忆的当代认知心理学理论。 |
 > | [[Case Study]] | 方法 | 质性检验进步教育在特定学校情境中落地机制的核心实证方法。 |
-> | [[Documentary Analysis]] | 方法 | 考证杜威及进步主义教育跨国文献传播与本土改写的核心研究方法。 |
+> | [[Documentary Analysis]] | 方法 | 考证杜威及进步主义教育跨国[[Document\|文献]]传播与本土改写的核心研究方法。 |
 > | [[John Dewey]] | 人物 | 实用主义哲学家，美式进步主义教育运动的核心理论开创者。 |
 > | [[Hu Shi]] | 人物 | 中国近代实用主义先驱，将杜威进步教育思想引介至中国的关键代表。 |
 > | [[Tao Xingzhi]] | 人物 | 将杜威进步教育生活化、乡村化改造为“生活教育”理论的中国教育家。 |

@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 14
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -32,13 +32,17 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Michael Fullan]]"
+  - "[[Benjamin Franklin]]"
   - "[[Calvin Stowe]]"
   - "[[Horace Mann]]"
   - "[[Henry Barnard]]"
+  - "[[Alexandre de Rhodes]]"
   - "[[Victor Cousin]]"
 related_facts:
   - "[[National Academy of Sciences]]"
+  - "[[European Education]]"
   - "[[Education in Europe]]"
+  - "[[Realschule]]"
   - "[[Common School Movement]]"
   - "[[Report on the State of Public Instruction in Prussia]]"
   - "[[Report on Elementary Public Instruction in Europe]]"
@@ -47,14 +51,14 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-11-02
+updated: 2026-11-21
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国 19 世纪著名物理学家、大地测量学家与教育家，本杰明·[[Michael Fullan|富兰]]克林（Benjamin Franklin）的曾外孙，吉拉德孤儿学院（Girard College for Orphans）首任校长，美国海岸测绘局第二任局长，[[National Academy of Sciences|美国国家科学院]]（National Academy of Sciences, NAS）创会首任院长。
-> - **核心角色** 19 世纪美国早期欧洲教育实地考察的四大奠基学者之一（与[[Calvin Stowe|卡尔文·斯托]]、[[Horace Mann|霍勒斯·曼]]、[[Henry Barnard|亨利·巴纳德]]齐名）；以严谨的自然科学家精神与精确的实证测量眼光考察欧洲教育体制，为美国公共教育运动与现代工业技术学校建制提供了详实的经验蓝本。
+> - **身份位置** 美国 19 世纪著名物理学家、大地测量学家与教育家，本杰明·[[Michael Fullan|富兰]]克林（[[Benjamin Franklin]]）的曾外孙，吉拉德孤儿学院（Girard College for Orphans）首任校长，美国海岸测绘局第二任局长，[[National Academy of Sciences|美国国家科学院]]（National Academy of Sciences, NAS）创会首任院长。
+> - **核心角色** 19 世纪美国早期[[European Education|欧洲教育]]实地考察的四大奠基学者之一（与[[Calvin Stowe|卡尔文·斯托]]、[[Horace Mann|霍勒斯·曼]]、[[Henry Barnard|亨利·巴纳德]]齐名）；以严谨的自然科学家精神与精确的实证测量眼光考察欧洲教育体制，为美国公共教育运动与现代工业技术学校建制提供了详实的经验蓝本。
 > - **代表贡献** 1836–1838 年实地走访欧洲七国 278 所学校，撰写出版长达 666 页的巨著《[[Education in Europe|欧洲教育报告]]》（*Report on Education in Europe*, 1839）；定性普鲁士初等教育为欧洲集权体系的最高典范，系统将欧洲孤儿教养院、实科学校与工业师资培养规程引介至北美。
 
 > [!citation-card] 拉斯特论贝奇与 19 世纪美国欧洲考察热潮
@@ -72,12 +76,12 @@ updated: 2026-11-02
 > - **1839** 正式出版 666 页的巨型考察专著《[[Education in Europe|欧洲教育报告]]》（*Education in Europe*），震动美国教育界，成为各州立法的重要参考。
 > - **1839–1842** 兼任费城中央高中（Central High School of Philadelphia）校长，依据欧洲经验重构全美最早的高中技术与博雅课程。
 > - **1843–1867** 出任美国海岸测绘局局长，推动全国地理测绘科学化；1863 年主导创立[[National Academy of Sciences|美国国家科学院]]并当选首任院长。
-> - **1867** 逝世于罗德岛州纽波特。
+> - **1867** 逝世于[[Alexandre de Rhodes|罗德]]岛州纽波特。
 
 ---
 
 > [!work-line] 主要著作
-> - **1839 — *[[Education in Europe|Report on Education in Europe]], to the Trustees of the Girard College for Orphans*** 系统呈现欧洲 278 所学校的办学章程、作息课程、财政收支与教师待遇，尤以对普鲁士国民初等学校与实科中学的精确测描著称。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 124, 135)]]
+> - **1839 — *[[Education in Europe|Report on Education in Europe]], to the Trustees of the Girard College for Orphans*** 系统呈现欧洲 278 所学校的办学章程、作息课程、财政收支与教师待遇，尤以对普鲁士国民初等学校与[[Realschule|实科中学]]的精确测描著称。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 124, 135)]]
 
 ---
 

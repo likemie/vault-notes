@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: finland
 person_region: "finland"
-person_related_count: 15
+person_related_count: 16
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -39,6 +39,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Gesamtschule]]"
   - "[[Finnish PISA Miracle]]"
   - "[[PISA]]"
   - "[[Finnish National Board of Education]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-06
-updated: 2026-11-11
+updated: 2026-11-21
 ---
 
 ---
@@ -58,7 +59,7 @@ updated: 2026-11-11
 > - **代表贡献** 论证 1990 年代前国家对教师的科层不信任；阐明威权顺从文化与赫尔巴特教学法在芬兰历史中的持久惯性；揭示[[New Public Management|新公共管理]]与评价治理在北欧的重构机制。
 
 > [!citation-card] 人物定位的关键来源
-> 在 1990 年代之前的芬兰政策[[Discourse|话语]]中，政府对教师总体上极少抱持信任。对 1860 年代至 1990 年代初数千页国家档案的分析显示，自综合学校改革实施以来，国家官僚在文件中几乎一致将教师视为推进现代学校发展的潜在障碍。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 12)]]
+> 在 1990 年代之前的芬兰政策[[Discourse|话语]]中，政府对教师总体上极少抱持信任。对 1860 年代至 1990 年代初数千页国家档案的分析显示，自[[Gesamtschule|综合学校]]改革实施以来，国家官僚在文件中几乎一致将教师视为推进现代学校发展的潜在障碍。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 12)]]
 >
 > *In Finnish discourse, there was generally very little trust of teachers until the 1990s... In one study Professor Simola analysed thousands of pages of state documents between the 1860s and the early 1990s – and found only one instance since the implementation of the comprehensive school reform where teachers were not seen as roadblocks to the development of schooling.*
 

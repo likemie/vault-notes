@@ -11,7 +11,7 @@ subtype: policy
 region: estonia
 fact_region: "estonia"
 fact_kind: "policy"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -41,6 +41,7 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Gesamtschule]]"
   - "[[OECD]]"
   - "[[PISA]]"
 related_arguments:
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-13
-updated: 2026-11-15
+updated: 2026-11-21
 ---
 
 ---
@@ -57,7 +58,7 @@ updated: 2026-11-15
 > - **发布时间与主体** 1991 年爱沙尼亚恢复独立后，由爱沙尼亚教育与研究部（Ministry of Education and Research）主导，通过颁布《基础学校与高级中学法》（Basic Schools and Upper Secondary Schools Act, 1993, 2010）全面立法确立并持续运行。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 482, 483)]]
 > - **适用地区与对象** 覆盖爱沙尼亚全国公立基础教育学校（põhikool），涵盖 1 至 9 年级全体义务教育阶段在读学生（7 至 16 岁）及中小学教师。
 > - **核心问题导向** 独立初期的爱沙尼亚面临脱离前苏联加盟共和国僵化体制、重建主权国家认同与重振经济民生的系统挑战；作为波罗的海小型经济体，爱沙尼亚将建立高均质、高公平的国民基础教育确立为维护国家长期生存与参与全球[[Knowledge-Based Economy|知识经济]]竞争的战略根基。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 483)]]
-> - **制度位置** 借鉴芬兰等北欧国家的综合中学（Comprehensive School）经验，同时继承本国重视数理逻辑、早期阅读与学术严谨性的文化传统，构筑起融合高水准与强公平特征的现代化国民学制。
+> - **制度位置** 借鉴芬兰等北欧国家的[[Gesamtschule|综合中学]]（Comprehensive School）经验，同时继承本国重视数理逻辑、早期阅读与学术严谨性的文化传统，构筑起融合高水准与强公平特征的现代化国民学制。
 
 ---
 

@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -52,6 +52,7 @@ related_facts:
   - "[[TIMSS]]"
   - "[[PISA]]"
   - "[[Finnish Institute for Educational Research]]"
+  - "[[Gesamtschule]]"
   - "[[Research in Schools Evaluation]]"
   - "[[OECD]]"
   - "[[Finnish PISA Miracle]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-06
-updated: 2026-11-11
+updated: 2026-11-21
 ---
 
 ---
@@ -110,7 +111,7 @@ updated: 2026-11-11
 > [!finding-cards] 核心实证结论
 > - **主要国家表现格局** 日本学生在 13 岁组与高中毕业组中均展现出压倒性的优异表现；英国与比利时在初中组紧随其后；美国在两个年龄组均处于后半段水平。
 > - **早期芬兰基准位置** 芬兰在此次评估中表现平平，在 12 个工业化国家中位列中下游区间（13 岁组数学得分显著低于国际样本平均值），并未显现任何天然的学业优异特征。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 13–14)]]
-> - **学制因果发现** 较早推行严格英才分轨的国家，其精英高中毕业生的平均顶尖水平虽高，但大众教育的整体普及质量普遍低于全面推行综合中学模式的国家。
+> - **学制因果发现** 较早推行严格英才分轨的国家，其精英高中毕业生的平均顶尖水平虽高，但大众教育的整体普及质量普遍低于全面推行[[Gesamtschule|综合中学]]模式的国家。
 
 ---
 

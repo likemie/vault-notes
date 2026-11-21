@@ -26508,6 +26508,8 @@
     "Ulrich & Troltsch (2003)": "Ulrich & Troltsch, 2003",
     "Ulrich & Troltsch, 2003": "Ulrich & Troltsch, 2003",
     "Ulrich (2005)": "Ulrich, 2005",
+    "Ulrich Herrmann (2004)": "Ulrich Herrmann, 2004",
+    "Ulrich Herrmann, 2004": "Ulrich Herrmann, 2004",
     "Ulrich Pothast (1982)": "Ulrich Pothast, 1982",
     "Ulrich Pothast, 1982": "Ulrich Pothast, 1982",
     "Ulrich, 2005": "Ulrich, 2005",
@@ -106194,7 +106196,8 @@
       ],
       "isbn": "978-1-873927-24-3",
       "seen_in": [
-        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
+        "wiki/facts/germany/Gesamtschule.md"
       ],
       "title": "‘Das große Tabu’: some aspects of the extraordinary impact of the OECD’s PISA study on the German education system"
     },
@@ -114711,7 +114714,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
+        "wiki/facts/germany/KMK-Bildungsstandards.md"
       ],
       "title": "Schule im Jahr IV nach PISA. Ein 10-Punkte-Programm gegen illusionäre Bildungsstandards"
     },
@@ -127638,7 +127642,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
+        "wiki/facts/germany/KMK-Bildungsstandards.md"
       ],
       "title": "Bildungsstandards der Kultusministerkonferenz. Erläuterungen zur Konzeption und Entwicklung"
     },
@@ -206578,7 +206583,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
+        "wiki/facts/germany/KMK-Bildungsstandards.md"
       ],
       "title": "The competence clash—Dilemmata bei der Übertragung des Konzepts der nationalen Bildungsstandards auf die berufliche Bildung"
     },
@@ -223411,6 +223417,21 @@
         "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
       ],
       "title": "Berufsbildungsstatistik"
+    },
+    "Ulrich Herrmann, 2004": {
+      "aliases": [
+        "Ulrich Herrmann, 2004",
+        "Ulrich Herrmann (2004)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ulrich Herrmann, 2004"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/germany/KMK-Bildungsstandards.md"
+      ],
+      "title": ""
     },
     "Ulrich Pothast, 1982": {
       "aliases": [

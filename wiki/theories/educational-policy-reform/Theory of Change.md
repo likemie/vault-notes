@@ -8,7 +8,7 @@ aliases:
 summary: "基于因果分析解释一整套干预措施为何及如何达成特定变化的循证理论框架，通过识别底层假设、活动投入、因果链条与中介行为改变要素，为项目评价与知识中介提供可检验的机制说明"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 54
+theory_related_count: 57
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Recommendations for Practice]]"
   - "[[Scaffolding]]"
   - "[[Philosophy in Schools]]"
+  - "[[Dialogue in Education]]"
   - "[[Critical Thinking]]"
   - "[[Initial Teacher Training]]"
   - "[[Implementation Fidelity]]"
@@ -52,11 +53,13 @@ related_concepts:
   - "[[Evidence Ecosystem]]"
 related_facts:
   - "[[Achieve]]"
+  - "[[AIMS Programme]]"
   - "[[Education Endowment Foundation]]"
   - "[[Literacy Octopus]]"
   - "[[Ofsted]]"
   - "[[Research Schools Network]]"
   - "[[World Bank]]"
+  - "[[Gesamtschule]]"
   - "[[What Works Network]]"
 related_arguments:
   - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
@@ -82,7 +85,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-09-13
-updated: 2026-11-02
+updated: 2026-11-21
 ---
 
 ---
@@ -99,7 +102,7 @@ updated: 2026-11-02
 > [!citation-card] [[Knowledge Mediation\|知识中介]]对变革理论的诉求
 > 知识中介机构日益认识到制定变革理论的重要性，即建立在因果分析基础之上、解释一组干预措施何以被预期能够带来特定变化的证据化合理性阐释。通过明确变革理论，中介机构能够清晰阐明其具体方法将如何达成其根本目标；然而，仍有部分中介机构默认某种方法必然有效且有用，却从未清晰阐明其背后的机制依据。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 152)]]
 >
-> *KBIs are increasingly developing Theories of Change i.e. an evidence-based rationale that builds on causal analysis and explains how a set of interventions is expected to lead to a specific change. In doing so, they are explicit about how their methods will [[Achieve]] their fundamental aims.*
+> *KBIs are increasingly developing Theories of Change i.e. an evidence-based rationale that builds on causal analysis and explains how a set of interventions is expected to lead to a specific change. In doing so, they are explicit about how their methods will [[Achieve]] their fundamental [[AIMS Programme|aims]].*
 
 ---
 
@@ -194,7 +197,7 @@ updated: 2026-11-02
 > 3. **终极因果验证** 英国财政研究所（IFS）采用[[Difference-in-Differences\|双重差分]]模型（DiD）评估证实，参与该推广战役学校的学童在全国统一考试 KS2 中取得了统计学显著的正向学业增益，完整实现了从干预活动、行为驱动到终极学业成效的实践落地。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 150)]]
 >
 > **案例二｜[[Philosophy in Schools|儿童哲学]]（P4C）大规模级联推广中的实施稀释与因果链断裂（Gorard et al., 2015; Kitmitto et al., 2018; [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]）**
-> 1. **初期试点与理论因果设想** 由英国哲学探究与反思教育促进会（SAPERE）开发的儿童哲学（Philosophy for Children，P4C）项目主张，每周开展一小时由哲学探究驱动的课堂对话，能够训练学生的[[Critical Thinking\|批判性思维]]与言语推理，进而溢出促进阅读和数学认知能力。在早期针对 48 所小学的小规模[[Effectiveness Trial\|有效性试验]]中，该项目展现出 2 个月的学业增益。
+> 1. **初期试点与理论因果设想** 由英国哲学探究与反思教育促进会（SAPERE）开发的儿童哲学（Philosophy for Children，P4C）项目主张，每周开展一小时由哲学探究驱动的[[Dialogue in Education|课堂对话]]，能够训练学生的[[Critical Thinking\|批判性思维]]与言语推理，进而溢出促进阅读和数学认知能力。在早期针对 48 所小学的小规模[[Effectiveness Trial\|有效性试验]]中，该项目展现出 2 个月的学业增益。
 > 2. **级联培训稀释引发 ToC 因果链断裂** 当 EEF 推进大规模跨区域复制试验（卷入 199 所公立小学）时，干预组织采用了“培训培训者”（Train-the-Trainer）的级联传导模型。资深培训师先对区域教练进行轮训，区域教练再培训学校骨干教师，最后由骨干转训一线班级教师。实施与过程评估（IPE）监测揭示，在多层级级联稀释下，P4C 的核心活性成分（深入的[[Socrates\|苏格拉底]]式提问引导与同侪批判性反思对话）严重流失，多数教师仅掌握了表面的轮流发言组织形式；同时受限于外层高利害考试统考复习挤压，学校实际授课剂量严重不足。
 > 3. **终极因果验证与机制确诊** 最终独立评估团队依据严格[[Intent-to-Treat Analysis\|意向性分析]]（[[Initial Teacher Training\|ITT]]）测得，该大规模扩展试验的学生阅读与数学学业成效增益为 0（效应量接近 0）。借助变革理论与 IPE 诊断，研究者明确判定该结果主要源于级联传导中的[[Implementation Fidelity\|实施保真度]]崩溃（实施失败），而非哲学探究对话理论本身的失效。该案例确证了若变革理论缺乏对多层传递刚柔边界的强力约束，因果链条必将在规模化推广中逐层解体。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 57)]]
 
@@ -236,7 +239,7 @@ updated: 2026-11-02
 > [!dev-timeline] 发展脉络
 > - **1970s–1980s — 理论驱动型评估兴起** 反思传统黑箱评估（Black-box Evaluation）仅关注输入与输出而无法解释为何有效的局限，Chen and Rossi (1980) 与 [[Carol Weiss]] (1972) 提出基于理论的评估（Theory-Driven Evaluation）。
 > - **1990s — [[Logic Model\|逻辑模型]]普及与变革理论正式成型** Aspen Institute 推进社区综合变革项目评估，[[Logic Model\|逻辑模型]]广泛流行；Weiss (1995) 正式系统提出 Theory of Change 概念，呼吁将关注点由图表框线转向深挖起效的底层假设与因果链条。
-> - **2000s — 因果机制显性化与多领域制度化** 变革理论被全面引入国际发展合作（如英国国际发展部 DFID、[[World Bank\|世界银行]]）与美国综合学校改革（Comprehensive School Reform, CSR）项目评估。
+> - **2000s — 因果机制显性化与多领域制度化** 变革理论被全面引入国际发展合作（如英国国际发展部 DFID、[[World Bank\|世界银行]]）与美国[[Gesamtschule|综合学校]]改革（Comprehensive School Reform, CSR）项目评估。
 > - **2010s–2020s — 复杂系统、行为科学与[[Knowledge Mediation\|知识中介]]自我循证融合** 面对单纯信息推送屡遭失败的实证判决，变革理论与行为改变轮（[[COM-B Model\|COM-B]]）、复杂系统理论及利益相关者[[Knowledge Co-production\|协同生产]]深度整合，成为英国[[What Works Network\|有效性网络]]（WWN）等现代[[Educational Brokerage Agency\|知识中介机构]]开展方案设计与自我评价的制度化准则。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 152–153)]]
 > - **2014–2021 — 干预活性成分规范（[[TIDieR]]）与实施[[Implementation and Process Evaluation\|过程评估]]（IPE）因果闭环** Hoffmann et al. (2014) 提出干预描述与复制模板（TIDieR），[[Education Endowment Foundation\|EEF]] 将其制度化为所有资助项目编制 ToC 的准则，要求严格界定核心活性成分与刚柔边界；同时结合英国医学研究理事会复杂干预评估指南（Craig et al., 2008），以[[Mixed Methods Research\|混合方法]] IPE 检验 ToC 各环节假设，实现从理论假设到因果实证的闭环校验。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 53–55)]]
 

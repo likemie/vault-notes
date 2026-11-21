@@ -11,7 +11,7 @@ subtype: organization
 region: finland
 fact_region: "finland"
 fact_kind: "organization"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -42,6 +42,7 @@ related_instruments: []
 related_persons:
   - "[[Pasi Sahlberg]]"
 related_facts:
+  - "[[Gesamtschule]]"
   - "[[OECD]]"
   - "[[1979 Finnish Teacher Education Reform]]"
   - "[[Finnish National Board of Education]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-08
-updated: 2026-11-11
+updated: 2026-11-21
 ---
 
 ---
@@ -61,7 +62,7 @@ updated: 2026-11-11
 > 芬兰教育工会（OAJ）是芬兰涵盖学前、初等、中等与高等教育全体教师的独占性行业工会，凭借逾 95% 的超高入会率与法定的三方社会协商机制，成为深度参与芬兰教育法案制定、捍卫教师专业地位与抵制[[New Public Management|新公共管理]]绩效考核的关键制度力量。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 18–19, 38)]]
 
 > [!org-context] 机构背景
-> - **成立时间与整合背景** 1973 年由原国民学校教师协会与中等学校教师工会等多个独立团体合并建立，旨在配合综合学校改革建立全国统一的教师专业代表组织。
+> - **成立时间与整合背景** 1973 年由原国民学校教师协会与中等学校教师工会等多个独立团体合并建立，旨在配合[[Gesamtschule|综合学校]]改革建立全国统一的教师专业代表组织。
 > - **总部地点与会员覆盖** 总部设于赫尔辛基，直属会员逾 11 万人，覆盖全国从幼儿园教师、综合学校教师、高中教师直至职业与应用科技大学教职员的 95% 以上。
 > - **法人属性与组织网络** 隶属于芬兰专业与管理人员工会中央联合会（AKAVA）的非营利自治法人，依靠全额会员会费运作，在政治与财务上保持完全独立。
 > - **核心使命与法定职能** 与中央政府及地方市镇雇主联合会开展全国集中集体谈判，签订具有法律强制约束力的全行业工资工时协议；参与国家核心大纲编制，捍卫教师课堂教学法裁量权。

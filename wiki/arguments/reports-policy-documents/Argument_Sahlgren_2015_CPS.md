@@ -7,7 +7,7 @@ title: "Argument_Sahlgren_2015_CPS"
 argument_key: "Argument_Sahlgren_2015_CPS"
 argument_display_title: "Real Finnish Lessons: The true story of an education superpower"
 argument_kind: "report"
-argument_related_count: 85
+argument_related_count: 88
 argument_related_level: 8
 argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -29,7 +29,7 @@ related_theories:
   - "[[Wealth Effect in Education]]"
 status: active
 created: 2026-11-06
-updated: 2026-11-19
+updated: 2026-11-21
 tags:
   - theme/pisa
   - theme/comparative-education
@@ -50,6 +50,7 @@ related_concepts:
   - "[[Neoliberalism]]"
   - "[[Homework]]"
   - "[[Causality]]"
+  - "[[Social Economy]]"
   - "[[Class Size]]"
   - "[[School Choice]]"
   - "[[Document]]"
@@ -72,6 +73,7 @@ related_concepts:
   - "[[Progressive Education]]"
   - "[[Eget Arbete]]"
   - "[[Falsification]]"
+  - "[[Immigrant Status]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Paradigm]]"
   - "[[Flipped Classrooms]]"
@@ -91,6 +93,7 @@ related_facts:
   - "[[Primary School Decree of 1866]]"
   - "[[1918 Finnish Civil War]]"
   - "[[Grammar School]]"
+  - "[[Gesamtschule]]"
   - "[[IEA]]"
   - "[[National Board of General Education in Finland]]"
   - "[[Finnish National Board of Education]]"
@@ -156,7 +159,7 @@ related_methods:
 > | **阿伦特教育权威理论**<br>Arendtian Authority Theory | 界定学校作为引导未成年人进入文明世界的保护性建制定位，批判将儿童预设为完全理性公民的去权威化偏颇。 |
 
 > [!warrant]- 理论如何支撑论证
-> 历史制度主义框架为识别政策与成就的时序[[Causality|因果关系]]提供了方法学筛子，彻底剥离了在学业飞跃完成后才出台的晚近政策干扰；[[Wealth Effect in Education|教育财富效应假说]]将芬兰置于后发现代化工业追赶的宏观社会经济轨迹中，揭示其与东亚经济体高度相似的文化勤勉动力；微观教学法理论与社会化权威理论则搭建起自宏观社会变迁通往微观课堂交互的解释桥梁，合理解释了 1990 年代教学法转型如何对认知表现产生实质损伤。
+> 历史制度主义框架为识别政策与成就的时序[[Causality|因果关系]]提供了方法学筛子，彻底剥离了在学业飞跃完成后才出台的晚近政策干扰；[[Wealth Effect in Education|教育财富效应假说]]将芬兰置于后发现代化工业追赶的宏观[[Social Economy|社会经济]]轨迹中，揭示其与东亚经济体高度相似的文化勤勉动力；微观教学法理论与社会化权威理论则搭建起自宏观社会变迁通往微观课堂交互的解释桥梁，合理解释了 1990 年代教学法转型如何对认知表现产生实质损伤。
 
 ---
 
@@ -223,7 +226,7 @@ related_methods:
 >   - 1950s–1960s：实行二元平行学制，小学四年级后分流进入注重学术升学的[[Grammar School|文法学校]]或注重实用的公民学校。
 >   - 1964–1965：参测[[First International Mathematics Study|第一届国际数学研究]]（FIMS），初中数学表现在 12 个参测工业化国家中处于中下游水平。
 >
-> - **1970s–1980s — 中央集权督导与学业成绩飞跃时期** 废除早期分轨并推行九年一贯制综合学校，国家实施高度集权的科层视导抽检与统一指令大纲，学业成绩实现历史性大幅攀升（pp. 11–16）。
+> - **1970s–1980s — 中央集权督导与学业成绩飞跃时期** 废除早期分轨并推行九年一贯制[[Gesamtschule|综合学校]]，国家实施高度集权的科层视导抽检与统一指令大纲，学业成绩实现历史性大幅攀升（pp. 11–16）。
 >
 >   - 1968–1977：基于1968年基础学校制度法案，自北向南按市逐步推行九年制综合学校（Peruskoulu）改革。
 >   - 1970s–1980s：国家教育委员会推行指令性大纲、课时日志备查制度、督学突击视导与中央教科书审定核准制；教师普遍坚守传统[[Direct Instruction|直接教学]]法。
@@ -352,7 +355,7 @@ related_methods:
 > [!sub-claim] 1. 外来移民规模很小，对整体成绩下滑的影响微乎其微
 
 > [!critique-data] 移民归因假设的实证测算[[Falsification|证伪]]
-> 在 PISA 2012 中，芬兰第一代移民学生在各科目上落后本土学生 98 至 126 分，第二代移民落后 64 至 81 分（p. 49）。然而人口普查数据显示，2006 至 2012 年间芬兰全国移民背景学生比重仅从 1.5% 微升至 3.0%；即便在统计模型中完全剔除全部移民样本，本土芬兰学生的降幅仅减少 2 至 3 分。微观计量因果测算表明，外来移民对本土同伴构成的负向溢出效应在芬兰极为轻微（最多导致本土学生下降 1.7 分），二者合计最多只能解释 2006 年后总滑坡幅度的 6% 至 9%（pp. 50–51）。
+> 在 PISA 2012 中，芬兰第一代[[Immigrant Status|移民学生]]在各科目上落后本土学生 98 至 126 分，第二代移民落后 64 至 81 分（p. 49）。然而人口普查数据显示，2006 至 2012 年间芬兰全国移民背景学生比重仅从 1.5% 微升至 3.0%；即便在统计模型中完全剔除全部移民样本，本土芬兰学生的降幅仅减少 2 至 3 分。微观计量因果测算表明，外来移民对本土同伴构成的负向溢出效应在芬兰极为轻微（最多导致本土学生下降 1.7 分），二者合计最多只能解释 2006 年后总滑坡幅度的 6% 至 9%（pp. 50–51）。
 
 > [!sub-claim] 2. 社会富裕后对闲暇与自由的追求冲淡了原有的勤奋与服从
 

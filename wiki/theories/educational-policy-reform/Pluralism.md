@@ -17,7 +17,7 @@ aliases:
 summary: "跨越政治学、文化哲学、科学知识社会学与比较教育学的核心理论。在政治与学科层面主张权力分散博弈与健康多范式共存；在比较教育中主张文化多元以抗衡普遍主义规训；在科层循证治理中揭示行政权威对科学多元主义的制度性压制。卡普与扎米斯卡结合麦金太尔与李光耀实践，进一步批判多元主义滑向文化相对主义、空洞程序中立与“包容一切即支持虚无”的淹没性陷阱，论证多元社会必须依托共同语言、实质美德与道德共同体维系长程凝聚力。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 66
+theory_related_count: 67
 theory_related_level: 6
 theory_related_stars: "💎💎"
 theory_related_color: "#fef3c7"
@@ -93,6 +93,7 @@ related_facts:
   - "[[PISA]]"
   - "[[Bologna Process]]"
   - "[[German Dual Education System]]"
+  - "[[Gesamtschule]]"
 related_arguments:
   - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Edmondson_2005_EPAA]]"
@@ -104,7 +105,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 ---
@@ -170,7 +171,7 @@ updated: 2026-11-19
 > 比较教育与全球治理视域下的文化多元主义主张，教育体系深植于不可化约的地方文化、语言、宗教、族群与社会历史环境之中。任何试图以单一跨国[[Performance Indicators|绩效指标]]（如[[PISA|国际学生评估项目]]（PISA））或同质化发展模型整合全球教育的努力，都会遭遇本土文化生态的抗阻；教育政策必须包容多元文化的内生价值。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 94, 98–99)]]
 
 > [!example|notitle]
-> 欧洲各国在推进[[Bologna Process|博洛尼亚进程]]（Bologna Process）中，德国、法国与北欧国家持续保留了各具特色的[[German Dual Education System|双元制]]职业教育、[[Grandes Ecoles|大学校]]（Grandes Écoles）及全人综合学校传统，抵御单一量化指标的抹平。
+> 欧洲各国在推进[[Bologna Process|博洛尼亚进程]]（Bologna Process）中，德国、法国与北欧国家持续保留了各具特色的[[German Dual Education System|双元制]]职业教育、[[Grandes Ecoles|大学校]]（Grandes Écoles）及全人[[Gesamtschule|综合学校]]传统，抵御单一量化指标的抹平。
 
 > [!theory-proposition] 命题四｜理论[[Paradigm|范式]]多元共存与方法互补构成学科成熟的“健康多元”态势
 > 一个学术领域的生机并不取决于是否确立了排他性的统一[[Scientific Paradigm|科学范式]]，而取决于其容纳多元[[Epistemology|认识论]]、[[Theoretical Perspective|理论视角]]与研究方法的能力。比较教育学经历半个世纪的发展，彻底粉碎了[[Positivism|实证主义]]与[[Structural Functionalism|结构功能主义]]的垄断神话，形成了涵盖 26 种理论视角并存的“健康多元主义”。实证量化与质性阐释相互补充，为多维解构复杂[[Transnational Education|跨国教育]]现象提供了最充沛的理论工具库。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–123)]]

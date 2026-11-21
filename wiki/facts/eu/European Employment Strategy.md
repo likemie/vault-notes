@@ -8,7 +8,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -37,13 +37,14 @@ related_facts:
   - "[[European Commission]]"
   - "[[EU]]"
   - "[[English Schools Foundation Hong Kong]]"
+  - "[[Realschule]]"
   - "[[Lisbon Strategy]]"
 related_arguments:
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
 confidence: high
 status: completed
 created: 2026-10-28
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 ---
@@ -86,7 +87,7 @@ updated: 2026-11-19
 > [!actor-grid] 实施角色分工
 > - **顶层设计主体** 欧洲理事会审定就业指导方针（Employment Guidelines），欧盟委员会起草联合报告并评估各国执行成效。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 484–485)]]
 > - **国家执行主体** 成员国劳动部与教育部协同拟定本国《国家就业行动计划》（NAPs），落实技能培训与制度调整。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 485)]]
-> - **覆盖与适用对象** 职业培训机构、高等学校、中等技术学校以及各行业受训雇员与求职群体。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 484–485)]]
+> - **覆盖与适用对象** 职业培训机构、高等学校、[[Realschule|中等技术学校]]以及各行业受训雇员与求职群体。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 484–485)]]
 > - **配套治理工具** 依托共同体支助框架（CSF）划拨的专项配比资金，作为驱使成员国主动依循欧盟方针的物质动力。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 485)]]
 
 > [!pathways] 实施路径

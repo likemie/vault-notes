@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02"
 argument_display_title: "Research Methods in Education · Ch02"
 argument_kind: "book-chapter"
-argument_related_count: 81
+argument_related_count: 84
 argument_related_level: 8
 argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Phronesis]]"
   - "[[Praxis]]"
   - "[[Scientific Method]]"
+  - "[[Fusion of Horizons]]"
   - "[[Rich and Thick Description]]"
   - "[[Reflexivity]]"
   - "[[Problematisation]]"
@@ -110,15 +111,17 @@ related_methods:
   - "[[Accounts]]"
 related_persons:
   - "[[Jürgen Habermas]]"
+  - "[[Karl Marx]]"
 related_facts:
   - "[[Girls Into Science and Technology Project]]"
+  - "[[Gesamtschule]]"
 related_arguments: []
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-16
-updated: 2026-11-11
+updated: 2026-11-21
 ---
 > [!logic-map]- 第2章总体论证结构
 > ```mermaid
@@ -235,7 +238,7 @@ updated: 2026-11-11
 > | 兴趣 | 方法论 | 特征 |
 > |---|---|---|
 > | **技术兴趣（Technical）** | 科学检验与证明 | [[Scientific Method\|科学方法]]论；实证主义风格（如调查、实验）；假设检验；量化。追求预测和控制。研究对象被视为被动的信息提供者。 |
-> | **实践兴趣（Practical）** | 诠释学；诠释的、理解的 | 互动论；现象学；人本主义；民族志；存在主义；人类学；自然主义；叙事；质性。聚焦于互动和语言，通过参与者的眼睛理解情境。Gadamer（1975, p. 273）将此描述为参与者之间的视域融合（fusion of horizons）。 |
+> | **实践兴趣（Practical）** | 诠释学；诠释的、理解的 | 互动论；现象学；人本主义；民族志；存在主义；人类学；自然主义；叙事；质性。聚焦于互动和语言，通过参与者的眼睛理解情境。Gadamer（1975, p. 273）将此描述为参与者之间的[[Fusion of Horizons\|视域融合]]（fusion of horizons）。 |
 > | **解放兴趣（Emancipatory）** | [[Ideology Critique\|意识形态批判]] | 政治议程；权力的质询；变革潜力：人们获得对自身生活的控制权。关注社会正义，免于压迫和可普遍化利益被压制的自由。旨在改变社会和促进民主的研究。解放兴趣的双重意图是：**暴露权力的运作**和**带来社会正义（Habermas, 1979, p. 14）**。 |
 
 > [!exegesis]- 三种兴趣在教育研究中的区分：具体例子
@@ -505,7 +508,7 @@ Webb et al.（2004）将女性主义原则应用于研究方法论的教学情�
 > [!case] GIST 项目：女性主义行动研究的标志性案例
 > **[[Girls Into Science and Technology Project\|Girls Into Science and Technology]]（GIST）** 行动研究项目是本章中描述最详细的实证案例（pp.408–409）：
 >
-> - **规模与设计** 历时三年，涉及英国一个地区十所男女同校综合学校的 2,000 名学生及其教师。八所学校作为行动基础，两所作为对照组。被项目联合主任描述为**同步整合行动研究（simultaneous-integrated action research, Kelly, 1987）**。
+> - **规模与设计** 历时三年，涉及英国一个地区十所男女同校[[Gesamtschule|综合学校]]的 2,000 名学生及其教师。八所学校作为行动基础，两所作为对照组。被项目联合主任描述为**同步整合行动研究（simultaneous-integrated action research, Kelly, 1987）**。
 > - **公开的女性主义导向** 项目组公开承认其女性主义取向，刻意寻求改变女孩的选修选择与职业抱负。研究者的行动被视为改善女性从属社会地位的一次小型尝试（Kelly, 1987）。
 > - **研究者的政治立场** 研究者认为她的行动是改善女性从属社会地位的一次小型尝试（p.409）。这直接回应了批判理论的核心主张：研究者不能也不应声称中立。
 > - **行动与研究的同步整合** 不是先研究再行动，也不是先行动再研究，而是两者**同步进行**——研究数据即时反馈给行动决策，行动结果即时成为研究数据。
@@ -608,7 +611,7 @@ Webb et al.（2004）将女性主义原则应用于研究方法论的教学情�
 >
 > If women's experience is analyzed using only theories and observations from the standpoint of men, the resulting theories oppress women.
 
-> [!citation-card] 马克思：解释世界与改变世界
+> [!citation-card] [[Karl Marx|马克思]]：解释世界与改变世界
 > 哲学家只是以各种方式解释世界；然而关键在于改变世界。（第2章，2.5节，引自马克思《关于费尔巴哈的提纲》，p.386）
 >
 > The philosophers have only interpreted the world, in various ways; the point, however, is to change it.

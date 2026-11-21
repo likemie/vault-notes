@@ -12,7 +12,7 @@ subtype: policy
 region: "finland"
 fact_region: "finland"
 fact_kind: "policy"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -43,13 +43,14 @@ related_facts:
   - "[[OECD]]"
   - "[[GATS and Trade in Education Services]]"
   - "[[PISA]]"
+  - "[[Gesamtschule]]"
   - "[[Finnish Government Education Export Programme]]"
 related_arguments:
   - "[[Argument_Kuortti_2025_JEdPolicy]]"
 confidence: high
 status: draft
 created: 2026-11-10
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 ---
@@ -72,7 +73,7 @@ updated: 2026-11-19
 > - **约束机制** 法律规定每名留学生的年学费不得低于 1,500 欧元的法定基准线；各高校依据学科声誉自主定价，实际普遍设立在每年 8,000 至 18,000 欧元区间。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, p. 387)]]
 
 > [!citation-card] 声誉资本向商业收费的跨学段挪用机制
-> 芬兰官方教育出口战略频繁征引[[PISA|国际学生评估项目]]（PISA）的优异表现，宣称国际教育市场对芬兰教育专业知识存在明确需求。然而，PISA 测查的是完全由公共财政保障且免收学费的基础综合学校；政策[[Document|文献]]却将基础教育积累的国家声誉，直接挪用为支持高等教育向非欧盟留学生开征学费的正当性依据。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, p. 387)]]
+> 芬兰官方教育出口战略频繁征引[[PISA|国际学生评估项目]]（PISA）的优异表现，宣称国际教育市场对芬兰教育专业知识存在明确需求。然而，PISA 测查的是完全由公共财政保障且免收学费的基础[[Gesamtschule|综合学校]]；政策[[Document|文献]]却将基础教育积累的国家声誉，直接挪用为支持高等教育向非欧盟留学生开征学费的正当性依据。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, p. 387)]]
 >
 > *A considerable leap of faith is needed when using PISA results as an indirect argument for HE tuition fees. Furthermore, PISA measures learning results in comprehensive schools, but the first two [[Finnish Government Education Export Programme|FGEE]] documents propose tuition fees for HE.*
 

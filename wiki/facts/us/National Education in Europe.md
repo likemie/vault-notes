@@ -14,7 +14,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -59,6 +59,7 @@ related_facts:
   - "[[Common School Movement]]"
   - "[[Guizot Law of 1833]]"
   - "[[Seventh Annual Report of the Massachusetts Board of Education]]"
+  - "[[European Education]]"
   - "[[Report on the State of Public Instruction in Prussia]]"
   - "[[Prussian Draft Education Law of 1819]]"
 related_arguments:
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-11-14
+updated: 2026-11-21
 ---
 
 ---
@@ -173,7 +174,7 @@ updated: 2026-11-14
 > |:-----|:-----|:-----|
 > | [[Henry Barnard]] | 人物 | 本巨著的作者，美国首任联邦教育专员。 |
 > | [[Auslandspadagogik]] | 概念 | 本[[Document\|文献]]将早期以见闻为主的外国教育学推向百科全书式文献汇纂的最高峰。 |
-> | [[Educational Meliorism]] | 概念 | 本文献全景考察欧洲教育的根本宗旨在于改良美利坚合众国的公共教育。 |
+> | [[Educational Meliorism]] | 概念 | 本文献全景考察[[European Education\|欧洲教育]]的根本宗旨在于改良美利坚合众国的公共教育。 |
 > | [[Common School Movement]] | 概念 | 本文献为美国公学运动提供了最完备的域外制度法典与统计技术资源。 |
 > | [[Policy Borrowing]] | 概念 | 本文献展示了将欧洲制度作为国内改革技术智库与合法化依据的借用机制。 |
 > | [[Encyclopaedism]] | 概念 | 本文献所秉持的包罗万象、客观记述的百科全书式知识组织[[Paradigm\|范式]]。 |

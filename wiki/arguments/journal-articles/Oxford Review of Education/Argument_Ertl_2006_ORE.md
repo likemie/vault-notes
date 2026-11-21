@@ -58,21 +58,23 @@ related_methods:
   - "[[Quasi-Experimental Designs]]"
 related_instruments: []
 related_persons:
-  - "[[Gottfried Wilhelm Leibniz]]"
   - "[[Wolfgang Klafki]]"
   - "[[Andreas Schleicher]]"
   - "[[Alexander Oettl]]"
 related_facts:
   - "[[PISA]]"
   - "[[Institute for Educational Quality Improvement]]"
+  - "[[Gesamtschule]]"
   - "[[Federal Ministry of Education and Research]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[Klieme Report]]"
   - "[[OECD]]"
   - "[[Education at a Glance]]"
   - "[[A Nation at Risk 1983]]"
+  - "[[Realschule]]"
   - "[[Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung]]"
   - "[[SINUS]]"
+  - "[[Investitionsprogramm Zukunft Bildung und Betreuung]]"
   - "[[TIMSS]]"
   - "[[PIRLS]]"
   - "[[Hauptschule]]"
@@ -89,7 +91,7 @@ title: "Argument_Ertl_2006_ORE"
 argument_key: "Argument_Ertl_2006_ORE"
 argument_display_title: "Educational standards and the changing discourse on education: the reception and consequences of the PISA study in Germany"
 argument_kind: "journal-article"
-argument_related_count: 51
+argument_related_count: 53
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -106,7 +108,7 @@ issuing_organization: ""
 > [[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）首届测试结果如何改变德国在教育政治、课程开发与学术研究三个维度的政策[[Discourse|话语]]，以及为何随之形成的激进改革议程聚焦于技术性的国家标准与质量评估，却刻意回避了中等教育[[Tripartite School System|三轨学制]]的早期能力分流结构？
 
 > [!claim] 核心主张
-> PISA 2000 的不利结果在德国引发了全国性的制度恐慌与政治动员，打破了联邦各州在文化高权壁垒下持续数十年的改革积压，迅速确立了以制定国家教育标准（National Educational Standards, NES）和设立柏林[[Institute for Educational Quality Improvement|教育质量发展研究所]]（Institute for Educational Quality Improvement, IQB）为中枢的新治理共识；课程开发机制随之从传统的教学论内容规制转向以胜任力为导向的外部产出控制，教育学学术话语亦实现了从思辨教化哲学向实证教学研究的[[Paradigm|范式]]转向。然而，各派政治力量与主流学术界在改革中达成共谋，将三轨学制的早期分流与综合中学改革定性为不可触碰的政治禁忌，导致技术标准的引入不仅未能触及阶层固化的结构性根源，反而扩大了优势学术文法中学与弱势轨道之间的成就差距。
+> PISA 2000 的不利结果在德国引发了全国性的制度恐慌与政治动员，打破了联邦各州在文化高权壁垒下持续数十年的改革积压，迅速确立了以制定国家教育标准（National Educational Standards, NES）和设立柏林[[Institute for Educational Quality Improvement|教育质量发展研究所]]（Institute for Educational Quality Improvement, IQB）为中枢的新治理共识；课程开发机制随之从传统的教学论内容规制转向以胜任力为导向的外部产出控制，教育学学术话语亦实现了从思辨教化哲学向实证教学研究的[[Paradigm|范式]]转向。然而，各派政治力量与主流学术界在改革中达成共谋，将三轨学制的早期分流与[[Gesamtschule|综合中学]]改革定性为不可触碰的政治禁忌，导致技术标准的引入不仅未能触及阶层固化的结构性根源，反而扩大了优势学术文法中学与弱势轨道之间的成就差距。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 2000 年与 2003 年两轮 PISA 测评后[[Federal Ministry of Education and Research|德国联邦教育与研究部]]（Federal Ministry of Education and Research, BMBF）、[[Standing Conference of the Ministers of Education and Cultural Affairs|常设各州教育与文化部长会议]]（Standing Conference of the Ministers of Education and Cultural Affairs, KMK）、劳资社会伙伴的政策法令、专家论证报告以及课程实施方案。
@@ -180,15 +182,15 @@ issuing_organization: ""
 
 > [!proc] 国家教育标准与质量监测中枢的确立进程
 > 1. **研制国家标准技术蓝图** 联邦教育与研究部（BMBF）委托埃克哈德·克利姆（Eckhard Klieme）领衔的专家组研制国家标准方案。《克利姆报告》（Klieme Report）将国家教育标准（NES）定义为制定学校教学与学习的法定约束性要求，规定学生在特定年级终结时必须达到的胜任力（Klieme et al., 2003, p. 9）。
-> 2. **通过全德统一执行决议** KMK 依据该方案打破旷日持久的协商周期，于 2003 年 7 月即颁布初中毕业（实科中学阶段）德语、数学和第一外语的标准蓝图，并在 12 月正式通过全德在 2004/05 学年统一执行的决议。
+> 2. **通过全德统一执行决议** KMK 依据该方案打破旷日持久的协商周期，于 2003 年 7 月即颁布初中毕业（[[Realschule|实科中学]]阶段）德语、数学和第一外语的标准蓝图，并在 12 月正式通过全德在 2004/05 学年统一执行国家教育标准的决议。
 > 3. **设立跨州质量监测中枢** 2004 年在柏林洪堡大学创立的柏林[[Institute for Educational Quality Improvement|教育质量发展研究所]]（IQB），成为二战后德国首个跨越州级界限行使全国教育质量评估与测试职能的常设机构，确立了全德统一的[[Output-Oriented Governance|产出导向治理]]技术中枢（KMK, 2005; IQB, 2006）。
 
 > [!feature] 联邦教研部（BMBF）后 PISA 综合改革行动光谱
 > - **阅读能力促进工程（LiD）**
 >   由[[Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung|联邦与各州教育规划与科研促进委员会]]（Bund-Länder Commission for Educational Planning and Research Promotion, BLK）发起阅读在德国（Lesen in Deutschland, LiD）项目，联合图书馆协会、城市与市镇联合会、出版商、家长与教师协会，在地方社区构建校外阅读文化生态（BLK, 2003）。
 > - **理科教学增效框架项目（[[SINUS]]）**
->   由基尔大学[[Gottfried Wilhelm Leibniz|莱布尼茨]]科学与数学教育研究所（Leibniz Institute for Science and Mathematics Education, IPN）主持并在全德逾千所中小学落地的提高数理教学效率（Increasing the Efficiency of Mathematics and Science Instruction, [[SINUS]]）试点工程，依据实证研究成果系统重塑课堂探究情境，改善学生的数学与科学认知激活水平（IPN, 2004）。
-> - **全日制学校普及投资计划（IZBB）**
+>   由基尔大学莱布尼茨科学与数学教育研究所（Leibniz Institute for Science and Mathematics Education, IPN）主持并在全德逾千所中小学落地的提高数理教学效率（Increasing the Efficiency of Mathematics and Science Instruction, [[SINUS]]）试点工程，依据实证研究成果系统重塑课堂探究情境，改善学生的数学与科学认知激活水平（IPN, 2004）。
+> - **全日制学校普及投资计划（[[Investitionsprogramm Zukunft Bildung und Betreuung|IZBB]]）**
 >   联邦政府注入 40 亿欧元巨资推行教育与照护未来投资计划（Investment Programme Future Education and Care, IZBB），资助全德新建或扩建 5,000 所全日制学校（Ganztagsschulen）。旨在打破德国传统半日制晨间教学（2003 年仅约 5% 学校提供下午正规教学）的落后局面，为移民子女与弱势阶层提供全天候语言浸润与学业补偿（BMBF, 2003, 2005）。
 > - **移民学生教育与职业咨询改进**
 >   BLK 组织跨学科专家评估移民背景学童在语言习得、升学导向与师资跨文化能力上的系统性缺陷，立项实施专项咨询辅导框架项目，打通复杂的学制转换通道（BLK, 2004）。
@@ -293,7 +295,7 @@ issuing_organization: ""
 > > 德国是否应当打破十岁早期分流的三轨学制，成为后 PISA 时期最具争议的政策分水岭。改革派主张借鉴领跑国经验推行综合学制，而保守势力则极力捍卫传统分流秩序。
 > >
 > > - **体系重构派（GEW 与 OECD）** 德国教育与科学工会（GEW, 2005）与国际 PISA 协调员[[Andreas Schleicher|安德烈亚斯·施莱歇尔]]指出，德国教育差距根源于十岁过早分流，单纯提升教学质量与技术标准无法消除结构性不平等，甚至加剧小学的早期应试甄别压力，因而主张推行体系变革、发展面向全体学生的综合中学（Herrmann, 2004; Peek, 2005）。
-> > - **体制维稳派（保守政客与传统教师联合会）** 保守派政客与教师联合会坚决抵制学制结构调整；PISA 2003 中德国位次的轻微回升（主要得益于文法中学学生分数的孤立提升，而实科与主要中学几乎停滞，导致轨道间鸿沟反向扩大；Kraus, 2004; Klein, 2005a）更被政客作为辩护资本，使综合中学（Gesamtschule）在主流政策话语中沦为绝对不可触碰的政治禁忌（Gruber, 2006）。
+> > - **体制维稳派（保守政客与传统教师联合会）** 保守派政客与教师联合会坚决抵制学制结构调整；PISA 2003 中德国位次的轻微回升（主要得益于文法中学学生分数的孤立提升，而实科与主要中学几乎停滞，导致轨道间鸿沟反向扩大；Kraus, 2004; Klein, 2005a）更被政客作为辩护资本，使[[Gesamtschule|综合中学]]（Gesamtschule）在主流政策话语中沦为绝对不可触碰的政治禁忌（Gruber, 2006）。
 
 ---
 
@@ -301,24 +303,24 @@ issuing_organization: ""
 > 1. **外生危机打破分权宪政僵局** PISA 震荡作为强有力的外生政治动能，打破了各州文化主权数十年的制度僵局，催生了全国统一的教育标准与全德计算中枢 IQB。
 > 2. **课程指导真空诱发教材反噬** 激进废除教学大纲而缺乏教学转化配套，导致基层教师陷入胜任力[[Operationalization|操作化]]真空，被迫重归对传统商业教科书的高度依附。
 > 3. **教育科学话语经历经验转向** 实证课堂教学研究打破人文学派普通教学论的传统垄断，确立了以量化可测胜任力为导向的[[Scientific Method|经验科学]]主导地位。
-> 4. **回避学制分轨巩固阶层鸿沟** 决策层在推行质量标准时刻意回避三轨学制早期分选弊端，将综合中学定性为政治禁忌，导致 PISA 2003 的分数微增演变为文法中学的孤立红利，反向拉大了阶层不平等。
+> 4. **回避学制分轨巩固阶层鸿沟** 决策层在推行质量标准时刻意回避三轨学制早期分选弊端，将[[Gesamtschule|综合中学]]定性为政治禁忌，导致 PISA 2003 的分数微增演变为文法中学的孤立红利，反向拉大了阶层不平等。
 
 > [!stat-cards]- 核心数据
 > - **1st** 在 PISA 2000 中，德国最高与最低四分之一社会经济地位学生间的阅读能力差距在全体参测国中高居第一（Deutsches PISA-Konsortium, 2001）。
 > - **5x** 高管与管理层家庭子女升入文法中学的概率是非技术劳工家庭子女的约 5 倍（Baumert & Schümer, 2001）。
 > - **5%** 在 2003 年危机爆发初期，全德国仅有约 5% 的学校提供常规下午全日制教学服务（BMBF, 2003）。
-> - **31,630** 德国 2003/04 学年中小学总数达 31,630 所，其中初高中分轨学校中[[Hauptschule|主要中学]]占 5,324 所，文法中学占 3,139 所，实科中学占 2,980 所，而综合中学仅占 759 所（Statistisches Bundesamt, 2006）。
-> - **€4B** 联邦政府通过 IZBB 项目投入 40 亿欧元巨资用于全德增建 5,000 所全日制学校（BMBF, 2005）。
+> - **31,630** 德国 2003/04 学年中小学总数达 31,630 所，其中初高中分轨学校中[[Hauptschule|主要中学]]占 5,324 所，文法中学占 3,139 所，[[Realschule|实科中学]]占 2,980 所，而[[Gesamtschule|综合中学]]仅占 759 所（Statistisches Bundesamt, 2006）。
+> - **€4B** 联邦政府通过 [[Investitionsprogramm Zukunft Bildung und Betreuung|IZBB]] 项目投入 40 亿欧元巨资用于全德增建 5,000 所全日制学校（BMBF, 2005）。
 
 ---
 
-> [!citation-card] [[Alexander Oettl|厄特尔]]论家庭阶层筛选掩盖学业择优初衷
+> [!citation-card] 厄特尔论家庭阶层筛选掩盖学业择优初衷
 > 三轨学制各类学校的生源分布带有极其鲜明的社会阶层印记（富裕家庭子女升入文法中学的几率远超其他群体）。这一现状导致该学制以学业成绩为基准的选拔初衷，被家庭社会经济背景所决定的阶层筛选完全掩盖。
 >
 > *As the participation in the school types of the tripartite system shows a clear social selectivity (children from well-off families are much more likely to go to the Gymnasium), selectivity in terms of pupils’ achievement, which is the primary rationale of the tripartite system, is being overshadowed by selectivity in terms of pupils’ socio-economic backgrounds.*
 
-> [!citation-card] 厄特尔论综合学制改革是德国政界不可触碰的话语禁区
-> 无论当前启动的各项体制变革在未来产生多么深远的影响，至少在当前阶段，综合学校（Gesamtschule）在德国教育政策讨论中仍将是一个不可触碰的政治禁忌。
+> [!citation-card] [[Alexander Oettl|厄特尔]]论综合学制改革是德国政界不可触碰的话语禁区
+> 无论当前启动的各项体制变革在未来产生多么深远的影响，至少在当前阶段，[[Gesamtschule|综合学校]]（Gesamtschule）在德国教育政策讨论中仍将是一个不可触碰的政治禁忌。
 >
 > *However far-reaching the consequences of the changes outlined in this paper might prove to be in future, it seems safe to predict that the Gesamtschule (comprehensive school) will remain ‘the great taboo’ in the German educational discourse for the time being.*
 

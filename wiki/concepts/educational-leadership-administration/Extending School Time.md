@@ -10,7 +10,7 @@ aliases:
 summary: "通过增加每日在校课时、延长学期天数或提供系统课后辅导以增加学生在校学习与活动总量的组织改革举措。教育捐赠基金会（EEF）元分析显示其对整体学业成就具有中等促进效应（+3 个月学业进展，SMD = 0.19）；在宏观教育改革中常被作为兼顾学业提升与社会公平的核心政策议程（如丹麦 2014 年综合学校改革），其实施效能关键取决于新增时间的教学实质与师生精力负荷管理（Volmari et al., 2025）。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 27
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,12 +34,11 @@ related_concepts:
   - "[[Formative Assessment]]"
   - "[[School Autonomy]]"
   - "[[Output-Oriented Governance]]"
-  - "[[Variable]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
-  - "[[Bibliometric Analysis]]"
 related_facts:
+  - "[[Gesamtschule]]"
   - "[[Danish Evaluation Institute]]"
   - "[[Cram Schools]]"
   - "[[Education Endowment Foundation]]"
@@ -54,7 +53,7 @@ tags:
   - theme/evidence-based-policy
   - eef
 created: 2026-10-25
-updated: 2026-11-11
+updated: 2026-11-21
 ---
 
 ## 概念定义
@@ -67,7 +66,7 @@ updated: 2026-11-11
 > - **补偿性教育理论（Compensatory Education Theory; Coleman et al., 1966）** 处境不利家庭往往缺乏充足的课后学术辅导与[[Cultural Capital|文化资本]]支持；延长在校时间通过公共资源的均等覆盖，旨在缩小课后与寒暑假期间拉大的家庭阶层学业鸿沟。
 > - **福利国家社会再生产与劳动力支持视角** 延长学校日在现代福利社会中承担着超越学科教学的社会功能，通过向家庭提供可靠的日间监护支持，提升女性劳动力市场参与度，并构筑全纳性社会整合空间。
 
-> [!citation-card] 丹麦综合学校改革中的延长学校日合法化
+> [!citation-card] 丹麦[[Gesamtschule|综合学校]]改革中的延长学校日合法化
 > > [!quote] 丹麦 2014 年公立学校改革核心诉求
 > > 改革法案将更长且更多元的学校日（a longer and more varied school day）确立为核心基石，旨在确保全体学生不论社会背景如何均能获得最大潜能的发展。
 >
@@ -75,7 +74,7 @@ updated: 2026-11-11
 
 > [!boundary] 概念边界
 > - **包含边界** 由教育主管部门或学校统一部署的每日必修教学时数延长；全校性强制或半强制课后辅导与体艺活动；法定学年教学周数与授课日数的制度化增加。
-> - **排除边界** 校外商业化盈利性学科补习培训（Shadow Education）；个别学生的惩罚性留校罚站；学生完全自发的自由课外阅读或校外[[Learner Autonomy|自主学习]]。
+> - **排除边界** 校外商业化盈利性学科补习培训（[[Cram Schools|Shadow Education]]）；个别学生的惩罚性留校罚站；学生完全自发的自由课外阅读或校外[[Learner Autonomy|自主学习]]。
 
 > [!contrast-table] 延长在校时间与相关制度形态辨析
 >
@@ -118,7 +117,7 @@ updated: 2026-11-11
 > **多目标政策重载**
 > 在国家层面的学校制度改革中，延长学校日往往被赋予促进社会融合、释放劳动力、提升国家统考排名等多重使命。
 >
-> > [!claim] 丹麦 2014 年综合学校改革展现了延长学时作为政策合法化载体的复杂性
+> > [!claim] 丹麦 2014 年[[Gesamtschule|综合学校]]改革展现了延长学时作为政策合法化载体的复杂性
 > > 丹麦在 2014 年公立学校改革（Folkeskole Reform）中，将延长学校日确立为最核心的改革举措，并借助[[Danish Evaluation Institute|丹麦评估研究所]]（Danmarks Evalueringsinstitut, EVA）等官方受托报告论证其科学性（[[Argument_Volmari_2025_CE|Volmari et al., 2025]]）；政策制定者将更长学时同[[Differentiated Instruction|差异化教学]]与学业提升直接绑定，借以平息财政重组带来的工会冲突，展现了延长学时在政治合法化论述中的工具性定位。
 
 > [!concept-proposition] 命题三｜学时延长若脱离教师工作负荷支持易诱发一线专业倦怠与抵触
@@ -172,7 +171,7 @@ updated: 2026-11-11
 > - 核心维度：名义在校时长 · 任务投入时间 · 课后学术辅导 · 体育与拓展活动
 > - 配套支撑举措：[[Differentiated Instruction|差异化教学]] · [[Formative Assessment|形成性评价]] · 教师协同备课
 > - 辨析概念：[[Cram Schools|课后补习]] · [[School Autonomy|学校自主权]] · 弹性学时
-> - 宏观治理机制：综合学校制度 · [[Output-Oriented Governance|产出导向治理]] · 基于政策的证据炮制
+> - 宏观治理机制：[[Gesamtschule|综合学校]]制度 · [[Output-Oriented Governance|产出导向治理]] · 基于政策的证据炮制
 
 ---
 

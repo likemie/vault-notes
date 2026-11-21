@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch04"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch04"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch04"
 argument_kind: "book-chapter"
-argument_related_count: 51
+argument_related_count: 53
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -59,7 +59,6 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Extracurricular Activities]]"
   - "[[School Leadership]]"
-  - "[[Evaluative Validity]]"
   - "[[Public Value]]"
 related_theories: []
 related_methods:
@@ -70,28 +69,31 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Alec Peterson]]"
+  - "[[Pramoedya Ananta Toer]]"
   - "[[John Goormaghtigh]]"
   - "[[Gerard Renaud]]"
+  - "[[Johann Wolfgang von Goethe]]"
+  - "[[Karl Marx]]"
   - "[[Socrates]]"
   - "[[Plato]]"
+  - "[[Martin Luther]]"
   - "[[Baruch Spinoza]]"
   - "[[Fred Block]]"
   - "[[Peter Thiel]]"
-  - "[[Nikolas Rose]]"
 related_facts:
   - "[[UNESCO]]"
   - "[[International School of Geneva]]"
-  - "[[Global Campaign for Education]]"
   - "[[United World Colleges]]"
+  - "[[Singapore-Cambridge GCE Ordinary Level]]"
+  - "[[Gesamtschule]]"
   - "[[CERN]]"
-  - "[[Educational Testing Service]]"
 related_arguments: []
 sources:
   - "[[books/Peterson_1987_OpenCourt/Peterson_1987_OpenCourt|Peterson_1987_OpenCourt]]"
 part_of: "[[Argument_Peterson_1987_OpenCourt]]"
 status: draft
 created: 2026-08-23
-updated: 2026-10-30
+updated: 2026-11-21
 ---
 ---
 
@@ -149,9 +151,9 @@ updated: 2026-10-30
 
 > [!dev-timeline] 从有限试验到国际常设组织
 > - **1967–1968 年　明确试验分歧并建立行政基础** 塞夫尔会议授权六年有限试验后，理事会在研究型小样本和服务型扩展之间作出选择。1968 年办公室从[[International School of Geneva\|日内瓦国际学校]]迁往科洛尼，吉姆·塞拉斯加入考试行政；[[Alec Peterson\|亚历克·皮特森]]（Alec Peterson）以兼职总干事身份连接日内瓦、牛津和学校网络（pp. 61–67）。
-> - **1969–1970 年　从试考转入正式资格** 1969 年提供完整试考，1970 年举行首届具有大学承认承诺的正式考试。大西洋学院暂时保留英国普通教育证书高级程度考试（General Certificate of Education Advanced Level，[[Global Campaign for Education|GCE]] A-level），联合国[[International Schools\|国际学校]]暂时保留[[Advanced Placement Program\|大学先修课程]]（[[Advanced Placement Program\|Advanced Placement]]，AP）作为风险缓冲，但两校继续参与试验（p. 67）。
+> - **1969–1970 年　从试考转入正式资格** 1969 年提供完整试考，1970 年举行首届具有大学承认承诺的正式考试。大西洋学院暂时保留英国普通教育证书高级程度考试（General Certificate of Education Advanced Level，GCE A-level），联合国[[International Schools\|国际学校]]暂时保留[[Advanced Placement Program\|大学先修课程]]（[[Advanced Placement Program\|Advanced Placement]]，AP）作为风险缓冲，但两校继续参与试验（p. 67）。
 > - **1968–1973 年　承认网络与学校类型同时扩展** 英美自治大学以逐校决定的方式承认 IB；法国、德国、瑞典等集中体系通过法令、等值或特殊程序有限承认。学校网络从收费国际学校扩展到国家实验学校、双语学校、[[Further Education\|继续教育]]学院及非洲、亚洲、拉丁美洲学校（pp. 68–82）。
-> - **1970–1973 年　基金会资助支撑启动，成本控制成为核心** 福特基金会（Ford Foundation）、二十世纪基金（Twentieth Century Fund）、杜尔弗顿信托（Dulverton Trust）、卡洛斯特·古尔本基安基金会（Calouste Gulbenkian Foundation）等提供阶段性资金；[[International Baccalaureate|IBO]] 同时实行紧缩预算、依赖无偿或低偿劳动，并探索把考试行政从高成本日内瓦分散到英国（pp. 83–87）。
+> - **1970–1973 年　基金会资助支撑启动，成本控制成为核心** 福特基金会（Ford Foundation）、二十世纪基金（Twentieth Century Fund）、[[Pramoedya Ananta Toer|杜尔]]弗顿信托（Dulverton Trust）、卡洛斯特·古尔本基安基金会（Calouste Gulbenkian Foundation）等提供阶段性资金；[[International Baccalaureate|IBO]] 同时实行紧缩预算、依赖无偿或低偿劳动，并探索把考试行政从高成本日内瓦分散到英国（pp. 83–87）。
 > - **1973–1975 年　全球经济危机迫使项目制度化** 通货膨胀、汇率错配和国际公益资金枯竭叠加业务扩展，使志愿者式项目难以维持。IBO 部分转移语言考试业务、建立学校加入费和年费，并取得美国国务院等新支持；十所核心学校一度同意把年费提高至四倍以避免组织停摆（pp. 87–94）。
 > - **1976 年　海牙会议结束试验期** 十五国及 [[UNESCO]] 代表讨论长期结构，多数支持继续寻求 UNESCO 合作，九国表示愿为 1977–1978 年考试活动提供经费，并同意让出资国进入理事会。会议把 IB 从私人基金会支持的有限实验推向政府共同支持的国际资格服务（pp. 94–97）。
 > - **1978 年　独立组织路径得到确认** UNESCO 最终拒绝整合方案，成员国支持却没有随之消失。伦敦会议建立政府常设会议，由其提名三分之一理事；IBO 保留瑞士法律身份，形成独立组织与政府支持相结合的治理结构（p. 97）。
@@ -521,7 +523,7 @@ updated: 2026-10-30
 > **等值的进一步边界** 即使 IB 被认作法国大学入学的等值资格，法国国家会考仍可能是进入政府公职的法定条件；大学等值并不自动产生所有国内资格权利（pp. 70, 77–78）。
 
 > [!case] 瑞典与德国把单校特殊安排扩展为学校组承认
-> **单校起点** 欧洲大陆一些学校先直接与大学机关谈判个别豁免。法兰克福歌德文理中学和斯德哥尔摩郊外的维格比霍尔姆学校采用过这种路径，为特定学校学生建立例外。
+> **单校起点** 欧洲大陆一些学校先直接与大学机关谈判个别豁免。法兰克福[[Johann Wolfgang von Goethe|歌德]]文理中学和斯德哥尔摩郊外的维格比霍尔姆学校采用过这种路径，为特定学校学生建立例外。
 >
 > **瑞典扩展** IBO 的目标不是让每届学生不断申请个案豁免，而是把单校安排扩展到所有 IB 学校。到 1969 年，曾任英国驻斯德哥尔摩大使的汉基勋爵（Lord Hankey）与 IB 理事安德伦博士（Dr Andren）推动瑞典完成这一扩展。
 >
@@ -599,7 +601,7 @@ updated: 2026-10-30
 > |---|---|---|---|---|
 > | **伊朗扎明国际学校（Iranzamin）** | 伊朗德黑兰、国际学校，逐渐吸引伊朗学生 | 从美国社区课程转向国际课程 | 国家波斯语考试成绩计入第一语言课程；政治敏感课程经说明后获准 | 本国大学入学仍依赖国家协商（pp. 72–74） |
 > | **舒韦法特国民学院（National College, Choueifat）** | 黎巴嫩私立学校，阿拉伯跨国生源、马龙派背景 | 以教育连接宗教、社群和国家 | 取得政府对学校与 IB 的原则支持 | 黎巴嫩本国学生在本国大学的承认没有解决（pp. 74–75） |
-> | **蒙得维的亚英国学校（British School Montevideo）** | 从英国侨民学校转为乌拉圭学生为主的双语学校 | 统一英语与乌拉圭课程并服务国际生源 | 从英国普通教育证书普通程度考试（General Certificate of Education Ordinary Level，GCE O-level）过渡至 IB | 章节未报告国家承认细节（pp. 75–76） |
+> | **蒙得维的亚英国学校（British School Montevideo）** | 从英国侨民学校转为乌拉圭学生为主的双语学校 | 统一英语与乌拉圭课程并服务国际生源 | 从英国普通教育证书普通程度考试（General Certificate of Education Ordinary Level，[[Singapore-Cambridge GCE Ordinary Level\|GCE O-level]]）过渡至 IB | 章节未报告国家承认细节（pp. 75–76） |
 > | **圣日耳曼昂莱国际中学（Lycée International de Saint-Germain-en-Laye）** | 法国公立国际中学，法语共同核心＋国家分部 | 用共同高中资格统一多国分部 | 外国学生合班；后来授权特定学校的法国学生采用 IB | 国家会考、大学等值与公务员资格仍不一致（pp. 76–78） |
 > | **哈默史密斯与西伦敦继续教育学院（Hammersmith and West London College of Further Education）** | 伦敦免费公立继续教育学院，开放入学、年龄与背景多样 | 检验 IB 能否超出国际学校与精英选拔 | 先开有限选项，随人数增长扩展 | 通过率低于筛选型学校，课程资源随规模变化（pp. 78–80） |
 > | **莫希国际学校（International School Moshi）** | 坦桑尼亚基督教基金会国际学校，多国学生 | 为海外学生提供共同资格并整合课外服务 | [[Creativity, Action, Service\|创造、行动与服务]]（Creativity, Action, Service，CASS）与自力更生、医疗和社区建设结合 | 坦桑尼亚政府不鼓励非洲学生进入私立国际学校（pp. 80–81） |
@@ -624,7 +626,7 @@ updated: 2026-10-30
 > - **语言资格**
 >   伊朗学生参加国家波斯语语言文学考试，IBO 把国家考试成绩直接接受为第一语言课程成绩，避免学生为同一母语参加两套考试。
 > - **课程政治**
->   历史和经济大纲包含马克思主义。学校向当局说明课程是“教授关于马克思主义的知识”，不是宣传马克思主义；信任欧文的个人声誉和学校内部可见性帮助当局接受这一界限。
+>   历史和经济大纲包含[[Karl Marx|马克思]]主义。学校向当局说明课程是“教授关于马克思主义的知识”，不是宣传马克思主义；信任欧文的个人声誉和学校内部可见性帮助当局接受这一界限。
 > - **政治监控**
 >   学生知道校内可能有秘密警察人员，电影社放映《战舰波将金号》后警方在 24 小时内询问，说明课程许可并不意味着政治环境中立。
 > - **升学承认**
@@ -679,7 +681,7 @@ updated: 2026-10-30
 > 1972 年，IB 首次进入既非国际学校也非专门实验学校的机构。学院属于伦敦教育局公共体系，不收学费，学生年龄约 16–60 岁；IB 学生多为 16–20 岁。采用项目由一组个人与制度条件推动：院长比尔·邦尼·拉斯特曾在牛津进修，国际教育负责人加布里埃尔·格林从教育报刊认识 IB，伦敦教育局局长布里奥（E. H. Briault）又曾参与拓宽英国高中后期课程（sixth form）的失败尝试，愿意批准另一种路径（p. 78）。
 
 > [!case] 学生构成改变了“IB 学生”的含义
-> 项目位于休贡路（Hugon Road）的分散校区，学生包括厌倦传统学校与 GCE A-level 僵化的学术家庭子女、北伦敦综合学校的辍学生、移民与外国学生，以及经营美容院失败后决定补充教育的法国青年。彼得森 1973 年离开牛津后在此兼职教授[[Theory of Knowledge|知识论]]（[[Theory of Knowledge]]，TOK），以换取一个很小的办公室和兼职秘书；多宗教、多族裔课堂让道德规范与宗教单元成为真实对话，而非抽象国际主义（pp. 78–79）。
+> 项目位于休贡路（Hugon Road）的分散校区，学生包括厌倦传统学校与 GCE A-level 僵化的学术家庭子女、北伦敦[[Gesamtschule|综合学校]]的辍学生、移民与外国学生，以及经营美容院失败后决定补充教育的法国青年。彼得森 1973 年离开牛津后在此兼职教授[[Theory of Knowledge|知识论]]（[[Theory of Knowledge]]，TOK），以换取一个很小的办公室和兼职秘书；多宗教、多族裔课堂让道德规范与宗教单元成为真实对话，而非抽象国际主义（pp. 78–79）。
 
 > [!case] [[Socrates\|苏格拉底]]文本跨越阶层与族裔
 > 迪娜·德雷福斯建议 TOK 阅读《游叙弗伦》，学院使用的企鹅版还收入《申辩》《克里同》和《斐多》节选。彼得森发现，伦敦混合族裔学生对苏格拉底审判与死亡的反应，与 1984 年洛杉矶内城高中少数族裔学生阅读[[Plato\|柏拉图]]的反应相近。这一经验被用来反驳古典文本只适合传统精英学生的预设，但它是教师观察而非系统比较（p. 79）。
@@ -694,7 +696,7 @@ updated: 2026-10-30
 ##### 莫希国际学校：共同资格与地方服务伦理结合
 
 > [!case] 学校使命与 IB 框架相接
-> 学校由善良撒玛利亚人基金会（Good Samaritan Foundation）于 1969 年创办，启动资金来自美国路德会世界传教委员会，主要服务乞力马扎罗基督教医疗中心外籍人员子女。1973 年采用 IB，学校认为其课程与[[Extracurricular Activities|课外活动]]框架符合自身需要。路德会联系带来较多北欧学生；1980 年学生来自约 30 国，英国、德国和印度群体较大，也包括相当数量的坦桑尼亚印度裔学生（pp. 80–81）。
+> 学校由善良撒玛利亚人基金会（Good Samaritan Foundation）于 1969 年创办，启动资金来自美国[[Martin Luther|路德]]会世界传教委员会，主要服务乞力马扎罗基督教医疗中心外籍人员子女。1973 年采用 IB，学校认为其课程与[[Extracurricular Activities|课外活动]]框架符合自身需要。路德会联系带来较多北欧学生；1980 年学生来自约 30 国，英国、德国和印度群体较大，也包括相当数量的坦桑尼亚印度裔学生（pp. 80–81）。
 
 > [!voice] 一名芬兰毕业生写给露丝·邦纳的信
 > 学生原以为自己没有取得文凭，亲赴日内瓦办公室后由邦纳交给他证书，并帮助安排住宿、介绍往届 IB 学生。他感谢 IB 使自己在坦桑尼亚不必通过孤立的函授完成芬兰中学课程，而能与同学共同学习、分享问题。回国参加赫尔辛基大学科学系入学考试时，他认为 IB 化学和物理范围比芬兰高中相应课程更广，两个测试都取得接近最高的成绩；随后以化学为主修、数学为辅修，并继续询问海外奖学金和实验室实践机会。信件显示资格解决的不只是考试等值，也包括海外学生的共同学习、后续专业准备和跨国机会信息（pp. 80–81）。
@@ -872,7 +874,7 @@ updated: 2026-10-30
 
 > [!event-context] 海牙会议档案
 > - **时间／地点** 1976 年 2 月，荷兰海牙。
-> - **召集与主持** 约翰·古尔马蒂制定 UNESCO 谈判失败后的政府参与方案，皮特·加蒂尔说服荷兰教育部长召集会议；荷兰教育与科学部长范·凯梅纳德博士（Dr van Kemenade）主持会议。
+> - **召集与主持** 约翰·古尔马蒂制定 UNESCO 谈判失败后的政府参与方案，皮特·加[[Peter Thiel|蒂尔]]说服荷兰教育部长召集会议；荷兰教育与科学部长范·凯梅纳德博士（Dr van Kemenade）主持会议。
 > - **关键主体** 比利时、意大利、摩洛哥、荷兰和英国派教育部长或国务秘书出席；喀麦隆、加拿大、丹麦、法国、西德、伊朗、罗马尼亚、瑞典、瑞士和美国派高级官员出席，UNESCO 另派代表参加。
 > - **制度背景与目标** 会议需要保障面向国际流动群体的资格继续运行，并逐步实现在每个主要国际中心至少有一所学校提供 IB；短期先解决 1977–1978 年考试费用，长期再确定 UNESCO、独立基金会或新政府间机构之间的关系（pp. 94–95）。
 

@@ -12,7 +12,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -26,38 +26,39 @@ tags:
   - theme/empirical-research
   - theme/educational-reform
 related_concepts:
-  - "[[Paradigm]]"
-  - "[[Variable]]"
+  - "[[International Education]]"
   - "[[Disciplinary Institutionalization]]"
+  - "[[Paradigm]]"
   - "[[Geisteswissenschaften]]"
   - "[[Scientific Method]]"
   - "[[Data Infrastructure]]"
-  - "[[International Education]]"
+  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Saul B. Robinsohn]]"
   - "[[Max Planck]]"
+  - "[[Saul B. Robinsohn]]"
   - "[[Wolfgang Mitter]]"
 related_facts:
   - "[[Max Planck Society]]"
   - "[[Leibniz Institute for Educational Research and Educational Information]]"
+  - "[[European Education]]"
+  - "[[Gesamtschule]]"
   - "[[Comparative Education Society in Europe]]"
-  - "[[IEA]]"
 related_arguments:
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Silova_2009_EE]]"
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-11-20
+updated: 2026-11-21
 ---
 
 ---
 
 > [!claim] 核心定位
-> 马克斯·普朗克人类发展研究所（Max Planck Institute for Human Development，MPIB，原名马克斯·普朗克教育研究所）是德国马克斯·普朗克学会下设的顶级跨学科研究实体。该所打破了战后西德传统大学纯思辨哲学的垄断，开创了汇聚社会学、心理学与经济学的大型团队研究规程，是推动欧洲比较教育经验实证转型与西德教育改革国家规划的学术中枢。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 90, 95)]]
+> [[Max Planck|马克斯·普朗克]]人类发展研究所（Max Planck Institute for Human Development，MPIB，原名马克斯·普朗克教育研究所）是德国[[Max Planck Society|马克斯·普朗克学会]]下设的顶级跨学科研究实体。该所打破了战后西德传统大学纯思辨哲学的垄断，开创了汇聚社会学、心理学与经济学的大型团队研究规程，是推动欧洲比较教育经验实证转型与西德教育改革国家规划的学术中枢。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 90, 95)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1963 年创立于西柏林，直属于德国顶尖基础科研学术联合体——[[Max Planck Society|马克斯·普朗克科学促进学会]]（Max-Planck-Gesellschaft, MPG）。
@@ -73,7 +74,7 @@ updated: 2026-11-20
 >   由赫尔穆特·贝克尔（Hellmut Becker）发起创设，汇聚[[Saul B. Robinsohn|索尔·罗宾逊]]与迪特里希·戈尔德施密特（Dietrich Goldschmidt）任联合所长，打破西德传统大学讲座教授个人思辨哲学垄断，开创跨学科团队研究规程。
 >
 >   - **1963** 研究所正式建立，定名“马克斯·普朗克教育研究所”。
->   - **1969** 索尔·罗宾逊作为研究所所长出任《西欧教育》（*Western European Education*）创刊顾问委员会成员，搭建英德跨国比较网络。[[Argument_Silova_2009_EE|(Silova, 2009, p. 24)]]
+>   - **1969** 索尔·罗宾逊作为研究所所长出任《[[European Education|西欧教育]]》（*Western European Education*）创刊顾问委员会成员，搭建英德跨国比较网络。[[Argument_Silova_2009_EE|(Silova, 2009, p. 24)]]
 >
 > - **1970s** **跨国比较实证深化与全生命周期转向**
 >
@@ -101,14 +102,14 @@ updated: 2026-11-20
 > - **跨国学术期刊顾问网络** 所长索尔·罗宾逊出任《西欧教育》学术顾问，将欧洲课程改革成果向英语世界引介。[[Argument_Silova_2009_EE|(Silova, 2009, p. 24)]]
 
 > [!citation-card] 米特论马普所《社会进程中的学校改革》先驱地位
-> 德国国际教育研究所与柏林马克斯·普朗克教育研究所先后设立教席与研究实体……索尔·罗宾逊在柏林马普所主持的《社会进程中的学校改革》项目可以被视作一项先驱性成就。与波鸿、法兰克福和马堡的同行课题不同，其理论视界明确立足于社会学立场，专注于比较社会因素对国家教育系统的结构性冲击。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 90, 95)]]
+> 德国[[International Education|国际教育]]研究所与柏林马克斯·普朗克教育研究所先后设立教席与研究实体……索尔·罗宾逊在柏林马普所主持的《社会进程中的学校改革》项目可以被视作一项先驱性成就。与波鸿、法兰克福和马堡的同行课题不同，其理论视界明确立足于社会学立场，专注于比较社会因素对国家教育系统的结构性冲击。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 90, 95)]]
 
 ---
 
 > [!indicators] 影响力维度与指标
-> - **学科建制范式跨越** 终结德语区教育研究单纯依赖[[Geisteswissenschaften|精神科学]]纯哲学的传统，促成经验社会科学[[Scientific Method|科学方法]]的成熟。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 90)]]
-> - **政策决策深远影响** 构筑西德 1970 年代教育现代化的智囊中枢，奠定综合学校实验的理论逻辑。
-> - **国际学术网络辐射** 为战后德国学者参与[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）与早期国际测评提供了坚实的数据基础设施。
+> - **[[Disciplinary Institutionalization|学科建制]][[Paradigm|范式]]跨越** 终结德语区教育研究单纯依赖[[Geisteswissenschaften|精神科学]]纯哲学的传统，促成经验社会科学[[Scientific Method|科学方法]]的成熟。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 90)]]
+> - **政策决策深远影响** 构筑西德 1970 年代教育现代化的智囊中枢，奠定[[Gesamtschule|综合学校]]实验的理论逻辑。
+> - **国际学术网络辐射** 为战后德国学者参与[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）与早期国际测评提供了坚实的[[Data Infrastructure|数据基础设施]]。
 
 > [!finding-cards] 关键成效与辐射影响
 > - **学术引领** 终结德语区教育研究单纯依赖精神科学哲学的经院传统，开创以经验社会科学与跨国实证比较为主导的现代化研究范式。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 90, 95)]]
@@ -152,4 +153,4 @@ updated: 2026-11-20
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 系统考证战后德国比较教育从大学哲学讲座向独立马普所经验实证研究转型的学术史脉络（pp. 90, 95）。
-> - [[Argument_Silova_2009_EE|Silova (2009)]] — 记录马普所首任联合所长罗宾逊出任《西欧教育》创刊顾问委员会成员及推动欧洲改革文献跨国传播的建制互动（p. 24）。
+> - [[Argument_Silova_2009_EE|Silova (2009)]] — 记录马普所首任联合所长罗宾逊出任《西欧教育》创刊顾问委员会成员及推动欧洲改革[[Document|文献]]跨国传播的建制互动（p. 24）。

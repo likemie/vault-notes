@@ -14,7 +14,7 @@ subtype: organization
 region: finland
 fact_region: "finland"
 fact_kind: "organization"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -49,6 +49,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Gesamtschule]]"
   - "[[IEA]]"
   - "[[OECD]]"
   - "[[PISA]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-21
 ---
 
 ---
@@ -73,7 +74,7 @@ updated: 2026-11-10
 > 芬兰教育研究院（Finnish Institute for Educational Research, FIER；芬兰语：Koulutuksen tutkimuslaitos, KTL）设于于韦斯屈莱大学，是芬兰国家级教育评估与实证研究专门机构。该机构长期承担芬兰境内的[[International Large-Scale Assessments|国际大规模学生评估]]以及国家[[Academic Achievement|学业成就]]监测任务，在基础教育课程改革与教育政策制定中发挥着关键实证知识供给功能。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 538)]]
 
 > [!org-context] 机构背景
-> - **成立时间与创设背景** 1968 年伴随芬兰基础教育综合学校改革立法进程设立，旨在为国家基础学校制度转型提供独立、系统的方法学论证与实证科研支撑。
+> - **成立时间与创设背景** 1968 年伴随芬兰基础教育[[Gesamtschule|综合学校]]改革立法进程设立，旨在为国家基础学校制度转型提供独立、系统的方法学论证与实证科研支撑。
 > - **总部地点与业务辐射** 机构设于芬兰于韦斯屈莱，业务覆盖全芬各级各类学校，并通过[[IEA|国际教育成就评价协会]]（IEA）与[[OECD|经济合作与发展组织]]（OECD）研究网络形成广泛跨国学术协作。
 > - **法人属性与经费基础** 隶属于于韦斯屈莱大学的独立学术实体；常态运行经费依托芬兰国家高等教育财政拨款，同时承接教育部与文化部、国家教育委员会以及国际组织委托的研究评估专项基金。
 > - **核心宗旨与法定职责** 开展横跨学前、基础、中等与高等教育的[[Lifelong Learning|终身学习]]实证研究，研发学业评估工具，向决策者、学校管理者与公众发布国家教育质量监测报告。

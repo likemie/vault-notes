@@ -35,6 +35,7 @@ related_concepts:
   - "[[Falling Standards Template]]"
   - "[[Chain of Evidence]]"
   - "[[Academic Achievement]]"
+  - "[[Social Economy]]"
   - "[[Rote Learning]]"
   - "[[Reflexivity]]"
   - "[[Tracking]]"
@@ -71,14 +72,14 @@ sources:
 part_of:
 status: draft
 created: 2026-09-11
-updated: 2026-11-19
+updated: 2026-11-21
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Grey_2018_CE"
 argument_key: "Argument_Grey_2018_CE"
 argument_display_title: "PISA: multiple ‘truths’ and mediatised global governance"
 argument_kind: "journal-article"
-argument_related_count: 41
+argument_related_count: 42
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -167,7 +168,7 @@ issuing_organization: ""
 
 > [!feature] 英格兰 PISA 实证数据特征与传播背景
 > - **实证基准与历时稳定性** 英国在 PISA 2000 和 2003 年因抽样偏误被 OECD 判定为数据无效，故可比基准始于 2006 年。自 2006 年至 2012 年，英格兰在数学与阅读上的表现与 OECD 均线持平，科学表现显著高于均线，整体表现高度稳定。
-> - **社会经济劣势群体的低占比** 英国仅 6% 的参测学生处于最低经济、社会和文化地位指数（Index of Economic, Social and Cultural Status, ESCS），远优于 OECD 平均的 15%，表明其极端贫困学生的兜底表现相对较好。
+> - **[[Social Economy|社会经济]]劣势群体的低占比** 英国仅 6% 的参测学生处于最低经济、社会和文化地位指数（Index of Economic, Social and Cultural Status, ESCS），远优于 OECD 平均的 15%，表明其极端贫困学生的兜底表现相对较好。
 > - **有利于媒体渗透的生态环境** 英格兰社会长期充斥着对频繁教育改革的政治渴望、根深蒂固的督导排行榜文化，以及将教育视作全球经济竞赛的主导话语，为数据传播提供了极佳的催化土壤。
 
 在跨国比较视阈下，英格兰所处的政策反应环境与欧洲其他国家存在决定性差异。

@@ -11,7 +11,7 @@ subtype: policy
 region: finland
 fact_region: "finland"
 fact_kind: "policy"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -43,6 +43,7 @@ related_persons:
   - "[[Pasi Sahlberg]]"
 related_facts:
   - "[[Finnish National Board of Education]]"
+  - "[[Gesamtschule]]"
   - "[[PISA]]"
   - "[[TIMSS]]"
   - "[[Finnish PISA Miracle]]"
@@ -53,14 +54,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-06
-updated: 2026-11-11
+updated: 2026-11-21
 ---
 
 ---
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1994 年由[[Finnish National Board of Education|芬兰国家教育委员会]]（National Board of Education, NBE / Opetushallitus）正式发布。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 12–13, 58–59)]]
-> - **适用地区 / 对象** 芬兰全国各市镇（municipalities）及九年制综合学校（peruskoulu）一线师生。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 8, 12)]]
+> - **适用地区 / 对象** 芬兰全国各市镇（municipalities）及九年制[[Gesamtschule|综合学校]]（peruskoulu）一线师生。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 8, 12)]]
 > - **问题背景** 1970 年代至 1980 年代芬兰基础教育实行高度集权的中央控制，课时进度、教学日志与教材审查均由中央严密规范；1990 年代初经济衰退与公共治理转型推动了教育去中心化，旨在破除自上而下的行政僵化。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 12–13, 58–60)]]
 > - **制度位置** 承接 1985 年开启的温和分权进程，与 1991 年全面废除国家视导制、取消中央教科书审查制度紧密配套，标志着芬兰走向校本课程与专业信任型教育治理。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 12–13)]]
 

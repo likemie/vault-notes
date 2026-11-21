@@ -8,7 +8,7 @@ subtype: policy
 region: poland
 fact_region: "poland"
 fact_kind: "policy"
-fact_related_count: 15
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ tags:
   - delayed-tracking
   - standardized-assessment
 related_concepts:
+  - "[[Teacher Qualifications]]"
   - "[[General Education]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -40,12 +41,13 @@ related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
   - "[[EU]]"
+  - "[[Gesamtschule]]"
 related_arguments:
   - "[[Argument_Barrenechea_2023_JEC]]"
 confidence: high
 status: draft
 created: 2026-11-11
-updated: 2026-11-11
+updated: 2026-11-21
 ---
 
 ---
@@ -54,7 +56,7 @@ updated: 2026-11-11
 > - **发布时间与主体** 1999 年由波兰[[National Education|国民教育]]部（Ministry of National Education）在布泽克（Jerzy Buzek）政府任内正式启动实施，是波兰后共产主义转型时期四大国家级结构性社会改革之一。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 482)]]
 > - **适用地区与对象** 覆盖波兰全国城乡全部公立基础教育学校、全体初等与中等教育阶段学生及在职教师。
 > - **核心问题导向** 20 世纪 90 年代波兰基础教育沿用传统的“八年一贯制小学（8年）+ 职业技术学校（4–5年）或文法高中（4年）”架构。过早的普职分流（14 岁）导致农村与工薪家庭子女过早固化在狭隘过时的职业教育通道中，基础学术能力严重匮乏，在首届 [[PISA]] 2000 测验中波兰学生阅读表现显著低于 [[OECD]] 平均水平。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 482, 487)]]
-> - **制度位置** 奠定了波兰 21 世纪头十五年基础教育现代化的基石体系，后续与加入[[EU|欧盟]]后推进的教师资格认证及课程标准修订相衔接。
+> - **制度位置** 奠定了波兰 21 世纪头十五年基础教育现代化的基石体系，后续与加入[[EU|欧盟]]后推进的[[Teacher Qualifications|教师资格]]认证及课程标准修订相衔接。
 
 ---
 
@@ -105,5 +107,5 @@ updated: 2026-11-11
 > | [[Knowledge Mobilisation]] | Concept | 解释波兰将测评数据与研究证据转化为教学改进的理论概念。 |
 > | [[Curricular Governance]] | Concept | 波兰改革通过统一国家课程与统测中枢所建构的课程治理体制。 |
 > | [[PISA]] | Fact | 检验波兰改革成效并引发国际比较教育学界高度关注的测评项目。 |
-> | [[Torsten Husén]] | Person | 其关于延迟分流与综合中学体制的比较教育思想在波兰获得实证检验。 |
+> | [[Torsten Husén]] | Person | 其关于延迟分流与[[Gesamtschule\|综合中学]]体制的比较教育思想在波兰获得实证检验。 |
 

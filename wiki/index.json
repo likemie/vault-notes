@@ -44644,6 +44644,20 @@
     "subtype": "policy"
   },
   {
+    "title": "Gesamtschule",
+    "type": "fact",
+    "path": "wiki/facts/germany/Gesamtschule.md",
+    "aliases": [
+      "综合中学",
+      "德国综合中学",
+      "全科中学",
+      "German Comprehensive School",
+      "Integrierte Gesamtschule",
+      "综合学校"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Gesamtstrategie zum Bildungsmonitoring",
     "type": "fact",
     "path": "wiki/facts/germany/Gesamtstrategie zum Bildungsmonitoring.md",
@@ -44679,6 +44693,20 @@
       "Zur Entwicklung nationaler Bildungsstandards",
       "德国国家教育标准专业论证报告",
       "Development of National Educational Standards"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "KMK-Bildungsstandards",
+    "type": "fact",
+    "path": "wiki/facts/germany/KMK-Bildungsstandards.md",
+    "aliases": [
+      "德国国家教育标准",
+      "KMK Educational Standards",
+      "National Educational Standards in Germany",
+      "Bildungsstandards der KMK",
+      "KMK Bildungsstandards",
+      "德国文教部长联席会议教育标准"
     ],
     "subtype": "policy"
   },
@@ -44720,6 +44748,19 @@
       "Süvern Draft",
       "1819 Süvern Law",
       "Preußischer Bildungsgesetzentwurf von 1819"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Realschule",
+    "type": "fact",
+    "path": "wiki/facts/germany/Realschule.md",
+    "aliases": [
+      "实科中学",
+      "德国实科中学",
+      "中级中学",
+      "German Realschule",
+      "中等技术学校"
     ],
     "subtype": "policy"
   },
@@ -44803,6 +44844,19 @@
       "德国卓越计划",
       "Exzellenzinitiative",
       "Excellence Strategy"
+    ],
+    "subtype": "program"
+  },
+  {
+    "title": "Investitionsprogramm Zukunft Bildung und Betreuung",
+    "type": "fact",
+    "path": "wiki/facts/germany/Investitionsprogramm Zukunft Bildung und Betreuung.md",
+    "aliases": [
+      "IZBB",
+      "未来教育与照护投资计划",
+      "未来教育与照料投资计划",
+      "Investment Programme Future Education and Care",
+      "Investitionsprogramm \"Zukunft Bildung und Betreuung\""
     ],
     "subtype": "program"
   },

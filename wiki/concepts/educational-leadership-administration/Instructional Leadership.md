@@ -8,7 +8,7 @@ aliases:
 summary: "学校管理中聚焦课程、教学与评估核心系统，直接参与教师专业学习与发展以提升学生学业成就的学校领导模式；在学校效能与循证证据推动下成为主流范式，但在微观实践中面临校长日常工时碎片化冲突，并在政商网络推动下呈现向可见学习效应量账本与新泰勒主义微观规训异化的治理风险。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -56,6 +56,7 @@ related_persons:
   - "[[Viviane Robinson]]"
 related_facts:
   - "[[Best Evidence Synthesis]]"
+  - "[[Gesamtschule]]"
   - "[[Tomorrow's Schools Reforms]]"
 related_arguments:
   - "[[Argument_Eacott_2017_SLM]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 ---
@@ -181,7 +182,7 @@ updated: 2026-11-19
 > > - **[[Critical Pedagogy|批判教育学]]者** 警告机械套用效应量账本会剥夺[[Teacher Professional Agency|教师专业能动性]]，摧毁校内同伴互信，使教学领导力异化为新泰勒主义微观规训。[[Argument_Eacott_2017_SLM|(Eacott, 2017, pp. 418–419)]]
 
 > [!warning] 适用局限
-> 教学领导力高度依赖校长自身的学科专业素养与时间精力量能；在规模庞大的综合中学或多元化学校中，校长若缺乏跨学科专业专长，强推直接教学指导极易陷入盲目微观干预或形式主义行政检查。
+> 教学领导力高度依赖校长自身的学科专业素养与时间精力量能；在规模庞大的[[Gesamtschule|综合中学]]或多元化学校中，校长若缺乏跨学科专业专长，强推直接教学指导极易陷入盲目微观干预或形式主义行政检查。
 
 ---
 

@@ -8,7 +8,7 @@ aliases:
 summary: "由图伊斯孔·齐勒等学者在19世纪中后期对赫尔巴特普通教育学形式阶段说进行系统化改造而成的传统教学论体系；强调以教师为中心、严格五段教学步骤与系统知识讲授；在芬兰等北欧师范教育中长期占据主导，其形成的‘内生化集权’行业习惯成为芬兰教师在分权后仍长期坚守直接讲授与课堂纪律的隐性机制。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -40,6 +40,7 @@ related_persons:
   - "[[Gabriel Heller Sahlgren]]"
   - "[[Mikael Soininen]]"
 related_facts:
+  - "[[Gesamtschule]]"
   - "[[PISA]]"
   - "[[Finnish PISA Miracle]]"
 related_arguments:
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-06
-updated: 2026-11-11
+updated: 2026-11-21
 ---
 
 ---
@@ -82,7 +83,7 @@ updated: 2026-11-11
 > **师训规训内化机制** 这类命题探讨形式化教学法如何通过严谨的师范训练渗透为教师队伍的集体专业习惯。
 
 > [!claim] Sahlgren, G. H.
-> **内化集权抵御去管制化思潮** 师范教育长期推行的形式化教学训练，使严谨的备课序列与教师主导讲授内化为从业者的专业直觉。即使外部国家行政撤销了详细课程大纲、教科书审定与督学检查，一线教师仍会基于这套内生化的规范自发抵御非[[Structured Teaching|结构化教学]]思潮，维持高质量的直接讲授。芬兰在 1970 至 1980 年代推行综合学校改革时，于韦斯屈莱等传统师范培育的老教师依然全面沿用齐勒式的结构化[[Lecturing|讲授法]]，确保了芬兰在 2000 年代初 [[PISA]] 测评中的卓越表现。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 46)]]
+> **内化集权抵御去管制化思潮** 师范教育长期推行的形式化教学训练，使严谨的备课序列与教师主导讲授内化为从业者的专业直觉。即使外部国家行政撤销了详细课程大纲、教科书审定与督学检查，一线教师仍会基于这套内生化的规范自发抵御非[[Structured Teaching|结构化教学]]思潮，维持高质量的直接讲授。芬兰在 1970 至 1980 年代推行[[Gesamtschule|综合学校]]改革时，于韦斯屈莱等传统师范培育的老教师依然全面沿用齐勒式的结构化[[Lecturing|讲授法]]，确保了芬兰在 2000 年代初 [[PISA]] 测评中的卓越表现。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 46)]]
 
 ---
 

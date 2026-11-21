@@ -8,7 +8,7 @@ aliases:
 summary: "比较教育学与社会学系统论的核心分析概念，指教育系统根据自身内部问题构型与反思情境，通过在语义上将内部矛盾投射到外部参照系或传统记忆中来为改革或抵制提供正当性辩护的策略性建构过程。"
 type: concept
 domain: "comparative-education"
-related_count: 43
+related_count: 44
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -58,6 +58,7 @@ related_facts:
   - "[[OECD]]"
   - "[[German Dual Education System]]"
   - "[[PISA]]"
+  - "[[Gesamtschule]]"
   - "[[Ministry of Education, Culture, Sports, Science and Technology]]"
   - "[[American Attraction to Japanese Education 1980s]]"
   - "[[Late Qing Borrowing of Japanese Education]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-06
-updated: 2026-11-13
+updated: 2026-11-21
 ---
 
 ---
@@ -134,7 +135,7 @@ updated: 2026-11-13
 > **外化作为认知过滤器** 外部世界并不能机械决定教育系统内部的改革方向；系统根据自身变迁中的问题构型与反思情境，对国际环境实施严苛的[[Discourse|话语]]过滤，唯有那些能为本土改革逻辑提供语义赋能的外部符号才会被选择性吸收并重塑。（Schriewer & Martinez, 2004）
 
 > [!claim] [[Jeremy Rappleye|Rappleye, J.]]
-> **改革与抵制的对称性外化** 外化在实践中呈现双向对称特征。面对外来冲击，改革方通过外化到国际大势（如苏联人造卫星升空引发的科学教育危机）来宣布本国落后；而抵制方则同样熟练地外化到历史传统与民族遗产（如战后德国保守派援引人文传统抵制盟军占领当局的综合中学改造），证明外化具有完全对称的双向政治结构。[[Argument_Rappleye_2006_RCIE|(Rappleye, 2006, pp. 230–232)]]
+> **改革与抵制的对称性外化** 外化在实践中呈现双向对称特征。面对外来冲击，改革方通过外化到国际大势（如苏联人造卫星升空引发的科学教育危机）来宣布本国落后；而抵制方则同样熟练地外化到历史传统与民族遗产（如战后德国保守派援引人文传统抵制盟军占领当局的[[Gesamtschule|综合中学]]改造），证明外化具有完全对称的双向政治结构。[[Argument_Rappleye_2006_RCIE|(Rappleye, 2006, pp. 230–232)]]
 
 ---
 

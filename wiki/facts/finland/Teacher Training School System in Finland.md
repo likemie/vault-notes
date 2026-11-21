@@ -13,9 +13,9 @@ subtype: policy
 region: finland
 fact_region: "finland"
 fact_kind: "policy"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "芬兰教育文化部"
 tags:
@@ -46,6 +46,7 @@ related_persons:
   - "[[Uno Cygnaeus]]"
   - "[[Pasi Sahlberg]]"
 related_facts:
+  - "[[Gesamtschule]]"
   - "[[Jyväskylä Teacher Seminary]]"
   - "[[Finnish PISA Miracle]]"
   - "[[1979 Finnish Teacher Education Reform]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-08
-updated: 2026-11-14
+updated: 2026-11-21
 ---
 
 ---
@@ -62,7 +63,7 @@ updated: 2026-11-14
 > [!policy-context] 政策背景
 > - **发布时间 / 设立主体** 渊源可追溯至 19 世纪中叶[[Uno Cygnaeus|乌诺·西格纽斯]]在师范讲习所设立的附属示范小学，在1979年师资硕士化改革中由芬兰议会立法确立为直属于[[Research Universities|研究型大学]]教育学院的国立临床实习机构。
 > - **适用地区 / 对象** 芬兰全国 8 所设有教师教育专业的研究型大学（赫尔辛基大学、于韦斯屈莱大学、图尔库大学、奥卢大学、坦佩雷大学、东芬兰大学、拉普兰大学与奥博学术大学）下属的十余所教师培训学校（Normaalikoulu / Harjoittelukoulu），以及全体本硕连读师范生。
-> - **问题背景** 1970 年代综合学校并轨后，传统二元师资培养模式需要升格为兼具深厚学术理论与微观课堂实务的复合型高素养教师；常规普通公立学校无法保证严密的带教指导质量与科研试验环境。
+> - **问题背景** 1970 年代[[Gesamtschule|综合学校]]并轨后，传统二元师资培养模式需要升格为兼具深厚学术理论与微观课堂实务的复合型高素养教师；常规普通公立学校无法保证严密的带教指导质量与科研试验环境。
 > - **制度位置** 构成了芬兰“研究型教师教育”（Research-Based Teacher Education）从大学阶梯教室走向中小学讲台的法定转化桥梁。
 
 ---

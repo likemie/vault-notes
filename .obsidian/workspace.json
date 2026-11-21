@@ -74,7 +74,7 @@
               "type": "markdown",
               "state": {
                 "file": "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照/02 康德.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -302,6 +302,9 @@
   },
   "active": "3643ff474ee79da9",
   "lastOpenFiles": [
+    "wiki/facts/germany/KMK-Bildungsstandards.md",
+    "wiki/facts/germany/Realschule.md",
+    "wiki/facts/germany/Gesamtschule.md",
     "wiki/facts/germany/Investitionsprogramm Zukunft Bildung und Betreuung.md",
     "output/related-updates/Argument_Thelen_2007_RegGov-279a5344/batch-004/result.json",
     "output/related-updates/Argument_Hammermeister_2002_Cambridge_Ch01-e661f4f9/batch-010/result.json",
@@ -335,9 +338,6 @@
     "output/related-updates/Argument_Dustmann_2017_EconJ-d50402ae/batch-003/prompt.md",
     "output/related-updates/Argument_Dustmann_2017_EconJ-d50402ae/batch-001/prompt.md",
     "output/related-updates/Argument_Dustmann_2017_EconJ-d50402ae/batch-002/prompt.md",
-    "sources/Thelen_2007_RegGov.md",
-    "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md",
-    "wiki/concepts/educational-philosophy/Philosophical Poetics.md",
     "sources/Dustmann_2017_EconJ/figures/Dustmann_2017_EconJ_Fig6_Date_of_Birth_and_Completed_Education.jpg",
     "sources/Dustmann_2017_EconJ/figures/Dustmann_2017_EconJ_Fig5_Date_of_Birth_and_Downgrading.jpg",
     "sources/Dustmann_2017_EconJ/figures/Dustmann_2017_EconJ_Fig4_Log_Wage_Differences_by_Age.jpg",

@@ -12,7 +12,7 @@ subtype: event
 region: finland
 fact_region: "finland"
 fact_kind: "event"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -44,13 +44,14 @@ related_facts:
   - "[[National Education]]"
   - "[[1918 Finnish Civil War]]"
   - "[[Finnish PISA Miracle]]"
+  - "[[Gesamtschule]]"
 related_arguments:
   - "[[Argument_Sahlgren_2015_CPS]]"
   - "[[Argument_Anderson_2016_Verso_Ch06]]"
 confidence: high
 status: completed
 created: 2026-11-06
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 > [!claim] 核心定性
@@ -118,7 +119,7 @@ updated: 2026-11-19
 > > - **沙俄官方帝国史学观点** 主张在德意志帝国崛起与波罗的海安全受威胁的背景下，统一边疆币制、关税、兵役与司法行政，是维系多民族大帝国国防安全的必要集权整合手段。[[Argument_Anderson_2016_Verso_Ch06|(Anderson, 2016, pp. 88–89)]]
 >
 > > [!axis] 现代芬兰教育奇迹的历史根基解释
-> > 争论芬兰基础教育成就究竟源自1970年代的综合学校制度设计，还是深深扎根于俄罗斯化抵抗时期奠定的教师崇高社会声望与教育立国文化。
+> > 争论芬兰基础教育成就究竟源自1970年代的[[Gesamtschule|综合学校]]制度设计，还是深深扎根于俄罗斯化抵抗时期奠定的教师崇高社会声望与教育立国文化。
 > >
 > > - **[[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]]** 考证指出，芬兰基础教育成就的深层动力源自19世纪末抵制沙俄同化过程中淬炼出的尊师传统、严苛师资选拔与国民教育信仰，早于1970年代以后的现代政策工具。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 18–21)]]
 > > - **制度主义政策分析视角** 强调1970年代综合学校结构改革、师资全面硕士化与中央去官僚化放权才是造就均衡质量的核心制度原因。

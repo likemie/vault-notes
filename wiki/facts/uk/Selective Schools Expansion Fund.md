@@ -9,7 +9,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -31,12 +31,13 @@ related_facts:
   - "[[Grammar School]]"
   - "[[Education and Inspections Act 2006]]"
   - "[[Ofsted]]"
+  - "[[Gesamtschule]]"
 related_arguments:
   - "[[Argument_Bainbridge_2022_ROE]]"
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-16
+updated: 2026-11-21
 ---
 
 ## 背景
@@ -63,14 +64,14 @@ Selective Schools Expansion Fund（SSEF）由教育部于 2018 年 5 月宣布�
 
 ## 实施情况
 
-SSEF 仅面向英格兰 163 所现存[[Grammar School|文法学校]]——这些学校中 159 所获 [[Ofsted]]"良好"或"优秀"评级([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.18]])。政策并未面向所有 Ofsted 评级良好的学校（包括综合学校、小学和幼儿园），这一选择性适用范围引发了显著争议。
+SSEF 仅面向英格兰 163 所现存[[Grammar School|文法学校]]——这些学校中 159 所获 [[Ofsted]]"良好"或"优秀"评级([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.18]])。政策并未面向所有 Ofsted 评级良好的学校（包括[[Gesamtschule|综合学校]]、小学和幼儿园），这一选择性适用范围引发了显著争议。
 
 ## 效果与评价
 
 [[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]]通过"[[Carnivalesque Analysis|嘉年华式分析]]"对该政策进行了批判性检验。若将 SSEF £50M 均分给 159 所"良好"[[Grammar School|文法学校]]，每校获约 £314,465：
 
 > [!info] 核心数据
-> 按相同逻辑，2850 所良好综合学校应获 £896M，19,041 所良好小学应获 £65.8 亿，2915 所良好幼儿园应获 £9.17 亿——总计超过 £84 亿([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.18]])
+> 按相同逻辑，2850 所良好[[Gesamtschule|综合学校]]应获 £896M，19,041 所良好小学应获 £65.8 亿，2915 所良好幼儿园应获 £9.17 亿——总计超过 £84 亿([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.18]])
 
 ## 争议与评论
 

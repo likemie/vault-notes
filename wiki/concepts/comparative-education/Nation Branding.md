@@ -8,7 +8,7 @@ aliases:
 summary: "主权国家借鉴商业品牌营销理念与话语技术，将国家形象、文化声誉与公共制度体系包装为具备全球竞争优势的战略资产。在比较教育领域，国家品牌化促使政策制定者将综合学校与跨国测评优异表现脱嵌并凝练为国家教育标签，以此为教育出口构建商业吸引力，但遮蔽了教育在深层社会福利网络中的历史制度根基。"
 type: concept
 domain: "comparative-education"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -55,6 +55,7 @@ related_persons:
 related_facts:
   - "[[PISA]]"
   - "[[Finnish Government Education Export Programme]]"
+  - "[[Gesamtschule]]"
   - "[[EU]]"
   - "[[Finnish PISA Miracle]]"
 related_arguments:
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-09
-updated: 2026-11-15
+updated: 2026-11-21
 ---
 
 ---
@@ -134,7 +135,7 @@ updated: 2026-11-15
 > > **测评数据的政治工具化与品牌背书** 芬兰政策制定精英将 PISA 数据深度整合进国家品牌工作，其目的不仅在于展示国家卓越，更在于利用外部量化霸权巩固本土政治精英的主导权，使教育系统的绩效与国家经济[[Competitiveness|竞争力]]的整体叙事深度捆绑。
 > 
 > > [!claim] [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]]
-> > **跨学段挪用与公立系统的企业化降格** 国家品牌化产生了显著的跨学段错位挪用：测查义务教育阶段综合学校的 PISA 盛誉被挪用为要求公立大学向非[[EU|欧盟]][[Study Abroad|留学]]生收取高昂学费的依据；同时，国家将公立学校体系重新界定为国家品牌输出的供给后方与人才原料库，迫使教师与管理者接受微专业培训，将自身主体性向具备市场敏感度的“教育企业家”角色重塑。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 387–389, 391–393)]]
+> > **跨学段挪用与公立系统的企业化降格** 国家品牌化产生了显著的跨学段错位挪用：测查义务教育阶段[[Gesamtschule|综合学校]]的 PISA 盛誉被挪用为要求公立大学向非[[EU|欧盟]][[Study Abroad|留学]]生收取高昂学费的依据；同时，国家将公立学校体系重新界定为国家品牌输出的供给后方与人才原料库，迫使教师与管理者接受微专业培训，将自身主体性向具备市场敏感度的“教育企业家”角色重塑。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 387–389, 391–393)]]
 
 ---
 

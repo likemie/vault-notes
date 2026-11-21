@@ -13,7 +13,7 @@ aliases:
 summary: "在教育政策制定与跨国治理中，实证社会科学被政治决策者和技术官僚工具化为推卸行政责任、免受道德反思与公众问责、为既定政治决策提供客观性背书的政治借口机制"
 type: concept
 domain: "educational-policy-reform"
-related_count: 52
+related_count: 55
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Evidence-Based Policy-Making]]"
   - "[[Paradigm]]"
   - "[[Educational Meliorism]]"
+  - "[[Social Economy]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Research Utilization]]"
   - "[[Theoretical Perspective]]"
@@ -68,6 +69,8 @@ related_persons:
   - "[[Andreas Kazamias]]"
   - "[[Karl Marx]]"
 related_facts:
+  - "[[Gesamtschule]]"
+  - "[[European Education]]"
   - "[[Common School Movement]]"
   - "[[OECD]]"
   - "[[World Bank]]"
@@ -85,7 +88,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-08
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 > [!def] Social Science as Legitimation Alibi
@@ -97,17 +100,17 @@ updated: 2026-11-19
 > - **边界** 该概念聚焦于科研成果在官方资助市场和决策转化中被选择性利用（Symbolic/Legitimising Use）的政治社会学过程，并不构成对社会科学经验研究本身的虚无主义否定。
 
 > [!citation-card] 马修论实证社会科学沦为现存教育政治正统的合法化借口
-> 在这种意义上，社会科学已经成为流行教育政治正统的便利借口（alibi）与合法化手段。基于[[Human Capital Theory\|人力资本理论]]与潜在人才库的开发利用，教育扩张及其带来的教育部门预算追加获得了合理性辩护；综合中学运动从社会学研究发现中汲取支持；向第三世界国家提供的技术援助项目在获得批准之前，也必须获得技术官僚和多位学术专家的权威祝福。那些曾经为利益相关者提供优良服务的过往[[Paradigm\|范式]]，始终难以彻底消亡。在这个层面上，共变、量化与经验取向的比较教育研究一直非常契合政客的需要；他们反复仰赖这种研究，来为自己预先设定的政策提供合法性辩护并予以强力推行。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 68–69)]]
+> 在这种意义上，社会科学已经成为流行教育政治正统的便利借口（alibi）与合法化手段。基于[[Human Capital Theory\|人力资本理论]]与潜在人才库的开发利用，教育扩张及其带来的教育部门预算追加获得了合理性辩护；[[Gesamtschule|综合中学]]运动从社会学研究发现中汲取支持；向第三世界国家提供的技术援助项目在获得批准之前，也必须获得技术官僚和多位学术专家的权威祝福。那些曾经为利益相关者提供优良服务的过往[[Paradigm\|范式]]，始终难以彻底消亡。在这个层面上，共变、量化与经验取向的比较教育研究一直非常契合政客的需要；他们反复仰赖这种研究，来为自己预先设定的政策提供合法性辩护并予以强力推行。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 68–69)]]
 >
 > *In this sense social science had become a convenient alibi and/or a legitimising means for the prevailing political orthodoxy in education... Past paradigms that had served their stakeholders well. In this sense, the covariational, quantitative and empirical sort of comparative education has consistently served politicians well. They have repeatedly relied on it for the legitimation and promotion of their preconceived policies.*
 
 > [!citation-card] 卡扎米亚斯论跨国借用作为政治意识形态合法化的理由
-> 19 世纪以[[Horace Mann\|霍勒斯·曼]]（Horace Mann）、[[Henry Barnard|亨利·巴纳德]]（Henry Barnard）与[[Calvin Stowe|卡尔文·斯托]]（Calvin Stowe）为代表的美国[[Educational Meliorism|改良主义]]者考察普鲁士与欧洲教育体系，搜集外国制度数据主要是为了获得“用于政治意识形态、道德改良与制度革新目的的合法化理由（legitimising rationales）”，即利用外国先行经验游说各州立法机构，平息宗派阻力，并为动用公共税收建立普及公立学校制度提供正当性辩护。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, p. 141)]]
+> 19 世纪以[[Horace Mann\|霍勒斯·曼]]（Horace Mann）、[[Henry Barnard|亨利·巴纳德]]（Henry Barnard）与[[Calvin Stowe|卡尔文·斯托]]（Calvin Stowe）为代表的美国[[Educational Meliorism|改良主义]]者考察普鲁士与[[European Education|欧洲教育]]体系，搜集外国制度数据主要是为了获得“用于政治意识形态、道德改良与制度革新目的的合法化理由（legitimising rationales）”，即利用外国先行经验游说各州立法机构，平息宗派阻力，并为动用公共税收建立普及公立学校制度提供正当性辩护。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, p. 141)]]
 >
 > *Mann, Barnard, and Stowe gathered data on foreign systems which were used as 'legitimising rationales for mainly politico-ideological, melioristic and reformative purposes' to build state [[Common School Movement|Common School]] systems.*
 
 > [!citation-card] 卡扎米亚斯与卡诺伊论机构资助共谋与资本主义再生产的意识形态借口
-> 战后功能主义、发展与现代化社会理论及其衍生的教育政策处方，不仅是对战后社会经济条件的回应，更是“得到了政府、慈善基金会以及国际组织（如[[OECD|经合组织]]、[[World Bank|世界银行]]）基于自身政策利益所给予的制度性资助与强化的结果”。[[Martin Carnoy|马丁·卡诺伊]]（Martin Carnoy）进一步揭示，以个体理性选择与人力资本为核心的实证主义社会科学，实质上构成了遮蔽阶级结构压迫与资本主义制度矛盾的意识形态借口（ideological alibi）。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 147–148, 153–154)]]
+> 战后功能主义、发展与现代化社会理论及其衍生的教育政策处方，不仅是对战后[[Social Economy|社会经济]]条件的回应，更是“得到了政府、慈善基金会以及国际组织（如[[OECD|经合组织]]、[[World Bank|世界银行]]）基于自身政策利益所给予的制度性资助与强化的结果”。[[Martin Carnoy|马丁·卡诺伊]]（Martin Carnoy）进一步揭示，以个体理性选择与人力资本为核心的实证主义社会科学，实质上构成了遮蔽阶级结构压迫与资本主义制度矛盾的意识形态借口（ideological alibi）。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 147–148, 153–154)]]
 >
 > *[[Structural Functionalism|Functionalism]] and social theories of modernisation/development were reinforced by institutional support from governments, foundations, and international organisations (OECD, World Bank) for their own policy interests... Carnoy (1983) exposed positivist social science as an ideological alibi for capitalist reproduction.*
 

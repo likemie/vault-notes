@@ -11,7 +11,7 @@ subtype: organization
 region: finland
 fact_region: "finland"
 fact_kind: "organization"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -51,6 +51,7 @@ related_facts:
   - "[[Higher Education Act of 1965]]"
   - "[[PISA]]"
   - "[[Finnish Institute for Educational Research]]"
+  - "[[Gesamtschule]]"
   - "[[Finnish National Board of Education]]"
   - "[[Finnish National Core Curriculum]]"
   - "[[Finnish Education Evaluation Centre]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-21
 ---
 
 ---
@@ -114,7 +115,7 @@ updated: 2026-11-10
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **“学会学习”测评系统（Learning to Learn）** 芬兰广泛应用的元认知与学习能力[[Scale of Measurement|测量量表]]，包含认知任务、[[Self-Efficacy|自我效能]]信念与动机取向三大[[Construct|构念]]。
-> - **全国学生辅导与指导评价报告** 评估综合学校与普通高中指导咨询服务成效，提出优化学生指导的政策建议。
+> - **全国学生辅导与指导评价报告** 评估[[Gesamtschule|综合学校]]与普通高中指导咨询服务成效，提出优化学生指导的政策建议。
 > - **国际测评认知策略专项分析** 联合编制芬兰参与 PISA 测评中关于学习策略与认知过程的深度分析报告。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 538)]]
 > - **核心课程横向能力咨询方案** 为芬兰国家核心课程中的七大横向通用能力提供测评标准设计建议与实证支撑依据。
 

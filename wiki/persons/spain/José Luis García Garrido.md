@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: spain
 person_region: "spain"
-person_related_count: 14
+person_related_count: 16
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -37,12 +37,14 @@ related_facts:
   - "[[General Act of Education of 1970]]"
   - "[[IEA]]"
   - "[[PISA]]"
+  - "[[Gesamtschule]]"
+  - "[[European Education]]"
 related_arguments:
   - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-30
+updated: 2026-11-21
 ---
 
 ---
@@ -78,7 +80,7 @@ updated: 2026-10-30
 ---
 
 > [!claim] 核心思想
-> 西班牙教育现代化的关键瓶颈在于内部政治行政制度的解耦与政策反复推倒重来，而非单纯的财政投入匮乏；面对欧洲趋同诉求，盲目复制地方分权与延长均质综合中学的做法不仅未能实现教育质量提升，反而导致行政机构极度臃肿、学业失败率居高不下以及高校[[Academic Inbreeding|学术近亲繁殖]]。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 321–333)]]
+> 西班牙教育现代化的关键瓶颈在于内部政治行政制度的解耦与政策反复推倒重来，而非单纯的财政投入匮乏；面对欧洲趋同诉求，盲目复制地方分权与延长均质[[Gesamtschule|综合中学]]的做法不仅未能实现教育质量提升，反而导致行政机构极度臃肿、学业失败率居高不下以及高校[[Academic Inbreeding|学术近亲繁殖]]。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 321–333)]]
 
 > [!citation-card] [[Plaintive Comparison|诉苦式比较]]与政治发展滞后论
 > 西班牙存在将教育不发达单纯归咎于政治不发达的古老思维定式。立法文本与社会批评极度沉溺于诉苦式比较，对标欧洲往往沦为承认自身在规范与实施上落后于邻国的谦卑借口，却掩盖了频繁政党更迭所导致的政策废立无常与深层行政痼疾。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 324–325)]]
@@ -89,4 +91,4 @@ updated: 2026-10-30
 
 > [!influence-path] 影响路径
 > - **制度分析路径** 开创了审视西班牙[[Educational Decentralization|教育分权]]化进程的制度批判视角，警告 17 个自治区各自设立独立教育体系可能导致国家教育空间解体。
-> - **比较教育学史** 作为[[Comparative Education Society in Europe|欧洲比较教育学会]]的重要领导者，连通了拉丁语系比较教育研究传统与英美主流[[Discourse|话语]]，推动以审慎与对质视角审视欧洲教育一体化。
+> - **比较教育学史** 作为[[Comparative Education Society in Europe|欧洲比较教育学会]]的重要领导者，连通了拉丁语系比较教育研究传统与英美主流[[Discourse|话语]]，推动以审慎与对质视角审视[[European Education|欧洲教育]]一体化。

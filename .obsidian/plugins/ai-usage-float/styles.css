@@ -236,9 +236,20 @@ button.auf-launcher[aria-expanded="true"] {
   width: 15px;
   height: 15px;
 }
-.auf-gemini-account {
-  border-top: 1px solid var(--auf-line);
-  padding: 7px 0;
+.auf-float-service[data-auf-provider="codex"] {
+  --auf-meter: #087567;
+}
+.auf-float-service[data-auf-provider="grok"] {
+  --auf-meter: #a25b15;
+}
+.theme-dark .auf-float-service[data-auf-provider="codex"] {
+  --auf-meter: #63cbbb;
+}
+.theme-dark .auf-float-service[data-auf-provider="grok"] {
+  --auf-meter: #e7aa61;
+}
+.auf-gemini-current {
+  padding: 4px 0 2px;
 }
 .auf-gemini-account-head {
   display: flex;
@@ -252,16 +263,70 @@ button.auf-launcher[aria-expanded="true"] {
   min-width: 0;
   overflow-wrap: anywhere;
 }
+.auf-float .auf-gemini-snapshot-title {
+  margin-top: 7px;
+  padding: 6px 0 3px;
+  border-top: 1px solid var(--auf-line);
+  color: var(--auf-muted);
+  font-size: 12px;
+  font-weight: 500;
+}
+.auf-gemini-snapshot + .auf-gemini-snapshot {
+  border-top: 1px solid var(--auf-line);
+}
+.auf-gemini-snapshot-summary {
+  display: flex;
+  align-items: center;
+  min-height: 28px;
+  gap: 5px;
+  list-style: none;
+  cursor: pointer;
+}
+.auf-gemini-snapshot-summary::-webkit-details-marker {
+  display: none;
+}
+.auf-gemini-snapshot-summary:hover {
+  background: var(--background-modifier-hover);
+}
+.auf-gemini-snapshot-summary:focus-visible {
+  outline: 1px solid var(--interactive-accent);
+  outline-offset: -1px;
+}
+.auf-snapshot-arrow {
+  flex: 0 0 auto;
+  color: var(--auf-muted);
+}
+.auf-gemini-snapshot[open] .auf-snapshot-arrow {
+  transform: rotate(90deg);
+}
+.auf-snapshot-name {
+  flex: 1;
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+.auf-gemini-snapshot-summary small {
+  white-space: nowrap;
+}
+.auf-snapshot-windows {
+  padding: 4px 0 8px;
+}
 .auf-float-group {
   display: flex;
   align-items: center;
-  gap: 5px;
+  gap: 6px;
+  margin-bottom: 3px;
+}
+.auf-float-group h3 {
+  font-size: 14px;
   font-weight: 600;
+}
+.auf-service-icon {
+  color: var(--auf-meter);
 }
 .auf-float-service + .auf-float-service {
   border-top: 1px solid var(--auf-line);
-  margin-top: 7px;
-  padding-top: 3px;
+  margin-top: 8px;
+  padding-top: 5px;
 }
 .auf-float-group .auf-icon-button {
   margin-inline-start: auto;

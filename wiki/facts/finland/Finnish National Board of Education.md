@@ -13,7 +13,7 @@ subtype: organization
 region: finland
 fact_region: "finland"
 fact_kind: "organization"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -45,6 +45,7 @@ related_persons:
   - "[[Hannu Simola]]"
 related_facts:
   - "[[National Board of General Education in Finland]]"
+  - "[[Gesamtschule]]"
   - "[[Swedish National Agency for Education]]"
   - "[[Education Finland]]"
   - "[[PISA]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-06
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 ---
@@ -68,7 +69,7 @@ updated: 2026-11-19
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 历史渊源可追溯至 1869 年沙皇俄国大公国时期创立的国家学校委员会（[[National Board of General Education in Finland|Kouluhallitus]]）；现代组织于 1991 年由原普通学校委员会与职业教育委员会合并组建，旨在回应 1990 年代初经济萧条带来的行政精简与去中心化改革诉求。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 12–13)]]
-> - **总部地点 / 业务辐射** 总部位于芬兰赫尔辛基，业务覆盖芬兰全国所有公立幼儿园、综合学校（Peruskoulu）、普通高中与职业教育机构。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 8)]]
+> - **总部地点 / 业务辐射** 总部位于芬兰赫尔辛基，业务覆盖芬兰全国所有公立幼儿园、[[Gesamtschule|综合学校]]（Peruskoulu）、普通高中与职业教育机构。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 8)]]
 > - **法人属性与经费基础** 官方公立中央行政专门机关，运行经费全额列入芬兰国家财政预算。
 > - **核心宗旨与法定职责** 确保全国基础教育的高质量与均等化，研制具有法定效力的国家核心课程框架，指导市镇教育局编制地方大纲。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 8, 12)]]
 

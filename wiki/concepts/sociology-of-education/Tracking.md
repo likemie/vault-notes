@@ -9,7 +9,7 @@ aliases:
 summary: "根据学术能力、测试成绩或职业取向将学生分配至不同课程轨道、教学班组或学校类型的制度化分流实践，在宏观上加剧社会阶层隔离并削弱公平与动机，在微观上强化能力固化信念与自我实现预言"
 type: concept
 domain: "sociology-of-education"
-related_count: 67
+related_count: 69
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -42,12 +42,12 @@ related_concepts:
   - "[[Mediatised Governance]]"
   - "[[Curricular Form]]"
   - "[[Paradigm]]"
+  - "[[Educational Permeability]]"
   - "[[Competitiveness]]"
   - "[[Interaction Effect]]"
   - "[[Variable]]"
   - "[[Academic Attrition]]"
   - "[[Tripartite School System]]"
-  - "[[Educational Permeability]]"
   - "[[Emergence]]"
   - "[[Policy Avoidance]]"
   - "[[Moral Sidestep]]"
@@ -63,9 +63,9 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Experimental Research]]"
+  - "[[Regression Discontinuity Design]]"
   - "[[Effect Size]]"
   - "[[Discourse Analysis]]"
-  - "[[Regression Discontinuity Design]]"
   - "[[Meta-analysis]]"
 related_instruments: []
 related_persons:
@@ -77,8 +77,10 @@ related_persons:
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
+  - "[[Realschule]]"
   - "[[Hauptschule]]"
   - "[[Grammar School]]"
+  - "[[Gesamtschule]]"
   - "[[Education Endowment Foundation]]"
   - "[[Researching School Choices]]"
   - "[[Zhongkao]]"
@@ -90,11 +92,11 @@ related_arguments:
   - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Li_2012_Cambridge]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
+  - "[[Argument_Dustmann_2017_EconJ]]"
   - "[[Argument_Silova_2009_EE]]"
   - "[[Argument_Ertl_2006_ORE]]"
   - "[[Argument_Lim_2015_CurricInq]]"
   - "[[Argument_Deng_2016_CE]]"
-  - "[[Argument_Dustmann_2017_EconJ]]"
 confidence: high
 status: active
 created: 2026-05-25
@@ -121,9 +123,9 @@ updated: 2026-11-21
 >   - *Tracking* 常见于美国高中，将学生整体分为学术轨（Academic）、普通轨（General）和职业轨（Vocational），各轨修习不同内容与深度的课程包，导向不同的大学准入资格；
 >   - *Streaming* 指整个班级按综合能力排序成型，所有主干学科均在同一水平的固定班级内授课；
 >   - *Setting* 指仅针对特定学科（如数学、外语）按学力进行分层走班，学生在不同学科可分属不同层次组别；
->   - *校际物理分轨（Between-School Tracking）* 表现为中等教育阶段的独立选拔性学校体系，如德国的三轨制（Gymnasium / Realschule / [[Hauptschule]]）与英国的[[Grammar School\|文法学校]]选拔制度。
+>   - *校际物理分轨（Between-School Tracking）* 表现为中等教育阶段的独立选拔性学校体系，如德国的三轨制（Gymnasium / [[Realschule]] / [[Hauptschule]]）与英国的[[Grammar School\|文法学校]]选拔制度。
 > - **分轨制 vs [[Comprehensive Education|综合中学制]]（Comprehensive Schooling）**
->   - 综合中学主张彻底破除早期选拔与物理分轨，全纳所有背景与能力水平的学生，在同一学校实体内共享高质量公共核心课程（如芬兰与波兰的改革经验）。
+>   - [[Gesamtschule|综合中学]]主张彻底破除早期选拔与物理分轨，全纳所有背景与能力水平的学生，在同一学校实体内共享高质量公共核心课程（如芬兰与波兰的改革经验）。
 
 ---
 
@@ -181,7 +183,7 @@ updated: 2026-11-21
 > **动态学制通透对早期分轨错配的纠偏效能** 探讨早期分轨体系若内置健全的后期升降轨通道，能否阻断早期环境剥夺对边缘学生长期劳动力市场与教育资质的因果惩罚。
 
 > [!claim] Dustmann, C.; Puhani, P. A.; Schönberg, U.
-> **转轨弹性对早期分轨长期因果惩罚的中和效应** 德国利用法定小学入学截止日构建的模糊断点回归（RDD）证实，10 岁早期分选虽使 7 月出生学生在 14 岁就读高级轨道（文法中学）概率净增 5.2 个百分点，并在初中 5 年内经历显著的环境锁定（年均跨轨率仅 2%）；但初中毕业后，学制通过专科高级中学（Fachoberschule）等通道提供了大规模的逆向转轨机制，使两组边缘学生在 22 岁获得大学准入资格的落差归零（-0.001），且对 30 岁以上成人经验校正对数日薪（-0.0010 至 0.0003）及就业稳定性均无显著因果影响，证实评估分轨体制的真实福利成本应结合中后期转轨弹性综合审视。[[Argument_Dustmann_2017_EconJ|(Dustmann et al., 2017, pp. 1348–1352, 1373–1376)]]
+> **转轨弹性对早期分轨长期因果惩罚的中和效应** 德国利用法定小学入学截止日构建的[[Regression Discontinuity Design|模糊断点回归]]（RDD）证实，10 岁早期分选虽使 7 月出生学生在 14 岁就读高级轨道（文法中学）概率净增 5.2 个百分点，并在初中 5 年内经历显著的环境锁定（年均跨轨率仅 2%）；但初中毕业后，学制通过专科高级中学（Fachoberschule）等通道提供了大规模的逆向转轨机制，使两组边缘学生在 22 岁获得大学准入资格的落差归零（-0.001），且对 30 岁以上成人经验校正对数日薪（-0.0010 至 0.0003）及就业稳定性均无显著因果影响，证实评估分轨体制的真实福利成本应结合中后期转轨弹性综合审视。[[Argument_Dustmann_2017_EconJ|(Dustmann et al., 2017, pp. 1348–1352, 1373–1376)]]
 
 ---
 
@@ -219,7 +221,7 @@ updated: 2026-11-21
 > - **2012–2018 — 跨国量化实证与政策政治学解构** [[OECD]] 通过 [[PISA]] 跨国大样本实证确立了分轨与教育公平的负相关定律，推动去分轨综合化改革；[[Paul Morris]] 与 Sue Grey 则进一步揭示英格兰政客在[[Mediatised Governance\|媒介化治理]]中如何策略性过滤分轨负面证据并强行逆流推行选拔制度。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 114, 117–118)]]
 > - **2015 — [[Curricular Form|课程形态]]与分轨才能误认批判** [[Argument_Lim_2015_CurricInq|Lim and Apple (2015)]] 揭示新加坡分轨制（快捷轨 vs 普通轨）在微观课堂中如何依托强控制的教学代码将思维技能降格为应试技术，而精英学校则通过弱控制探究课程培育支配性特权理性，使结构性分轨不平等被系统性误认为个人才能差异。
 > - **2014–2021 — 因果试验招募挫败与准实验方法转向** [[Education Endowment Foundation\|EEF]] 资助的能力分班大规模 [[Randomised Controlled Trials\|RCT]] 因学校拒绝[[Random Assignment\|随机化]]而招募失败（Roy et al., 2014）；EEF [[EEF Teaching and Learning Toolkit\|教学与学习工具包]]（Toolkit）实证定性能力分班对弱势学童带来净损失（$-1$ 个月），加剧阶层固化；2019 年 EEF 正式设立“研究[[School Choice\|学校选择]]”资助序列，确立利用自然变异与[[Quasi-Experimental Designs\|准实验设计]]（QEDs）评估能力分组政策的因果研究新[[Paradigm\|范式]]。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 55–56)]]
-- **2017 — 早期分轨长期因果效应识别与通透性评估框架** Dustmann et al. 利用断点回归设计（RDD）证实，德国三轨制初中后的逆向转轨消解了 10 岁早期分选对边缘学生成人日薪与学历的长期惩罚，确立了将中后期学制通透性作为评估分轨制优劣的核心维度。[[Argument_Dustmann_2017_EconJ|(Dustmann et al., 2017)]]
+- **2017 — 早期分轨长期因果效应识别与通透性评估框架** Dustmann et al. 利用断点回归设计（RDD）证实，德国三轨制初中后的逆向转轨消解了 10 岁早期分选对边缘学生成人日薪与学历的长期惩罚，确立了将中后期[[Educational Permeability|学制通透性]]作为评估分轨制优劣的核心维度。[[Argument_Dustmann_2017_EconJ|(Dustmann et al., 2017)]]
 
 ---
 

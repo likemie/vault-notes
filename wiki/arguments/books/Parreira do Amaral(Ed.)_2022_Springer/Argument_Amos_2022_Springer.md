@@ -9,7 +9,7 @@ title: "Argument_Amos_2022_Springer"
 argument_key: "Argument_Amos_2022_Springer"
 argument_display_title: "Which vision of education for late modernity? In M"
 argument_kind: "book"
-argument_related_count: 57
+argument_related_count: 59
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Self-Directed Learning]]"
   - "[[Research Universities]]"
   - "[[Lecturing]]"
+  - "[[Pluriverse]]"
   - "[[Wicked Problem]]"
   - "[[Emergence]]"
   - "[[Haraway's SF]]"
@@ -76,6 +77,7 @@ related_persons:
   - "[[Francisco Varela]]"
   - "[[John Dewey]]"
 related_facts:
+  - "[[Gesamtschule]]"
   - "[[Grammar School]]"
   - "[[Sputnik Shock 1957]]"
   - "[[OECD]]"
@@ -91,7 +93,7 @@ sources:
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-08
-updated: 2026-11-11
+updated: 2026-11-21
 year: 2022
 doi: ""
 citation_aliases:
@@ -141,7 +143,7 @@ citation_aliases:
 > - 横轴左端：[[International Education\|国际教育]]关系
 > - 横轴右端：经济增长
 >
-> > 例：想象 1960 年代的英国综合学校改革——纵轴上的动力清晰可见：政府推动综合学校（comprehensive schools）取代[[Grammar School\|文法学校]]，核心理由是"教育机会平等"，即 polis-driven 逻辑。国家文化认同（学什么历史、读什么文学）和经济增长（培养产业工人）在水平轴上形成张力，但教育的基本组织者仍然是国家。
+> > 例：想象 1960 年代的英国[[Gesamtschule|综合学校]]改革——纵轴上的动力清晰可见：政府推动综合学校（comprehensive schools）取代[[Grammar School\|文法学校]]，核心理由是"教育机会平等"，即 polis-driven 逻辑。国家文化认同（学什么历史、读什么文学）和经济增长（培养产业工人）在水平轴上形成张力，但教育的基本组织者仍然是国家。
 >
 > **晚期现代教育模型：**
 > - 纵轴上端：market-driven（市场驱动）→ 内部效率与外部效能
@@ -210,7 +212,7 @@ citation_aliases:
 >
 > ### 第六步：提出替代方案——关系性[[Posthumanism\|后人类主义]]（§4.5）
 >
-> 在展示了超人类主义的问题之后，Amos 引入两个替代性思想资源：[[Donna Haraway]] 的 *Staying with the Trouble* (2016) 和 [[Arturo Escobar]] 的 *Designs for the Pluriverse* (2018)。
+> 在展示了超人类主义的问题之后，Amos 引入两个替代性思想资源：[[Donna Haraway]] 的 *Staying with the Trouble* (2016) 和 [[Arturo Escobar]] 的 *Designs for the [[Pluriverse]]* (2018)。
 >
 > 两人都关注"世界制造"（world making），但路径不同：
 >

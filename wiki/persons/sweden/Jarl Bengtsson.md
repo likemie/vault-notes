@@ -8,7 +8,7 @@ cssclasses:
   - person-page
 nationality: "sweden"
 person_region: "sweden"
-person_related_count: 38
+person_related_count: 39
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -58,6 +58,7 @@ related_facts:
   - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
   - "[[PISA]]"
+  - "[[Gesamtschule]]"
   - "[[A Nation at Risk 1983]]"
   - "[[Education Innovation and Research]]"
   - "[[World Bank]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 ---
@@ -90,7 +91,7 @@ updated: 2026-11-19
 
 > [!timeline] 生平与职涯
 > - **1941** 出生于瑞典。
-> - **1960年代** 接受瑞典社会民主主义教育学与社会学训练，深度参与战后北欧综合中学改革与[[Further Education\|继续教育]]大辩论。
+> - **1960年代** 接受瑞典社会民主主义教育学与社会学训练，深度参与战后北欧[[Gesamtschule|综合中学]]改革与[[Further Education\|继续教育]]大辩论。
 > - **1971** 加入新成立不久的[[Centre for Educational Research and Innovation\|经合组织教育研究与创新中心]]（CERI），开启在巴黎长达三十一年的国际治理职业生涯。
 > - **1973** 主持起草发布具有划时代意义的 CERI 报告《循环教育：[[Lifelong Learning\|终身学习]]的战略》（*Recurrent Education: A Strategy for Lifelong Learning*）。
 > - **1983–1988** 面对美国《国家处于危险之中》（[[A Nation at Risk 1983\|A Nation at Risk]]）引发的发达国家教育质量危机焦虑，果断扭转 CERI 方向，领导策划跨国比较指标研发工程。

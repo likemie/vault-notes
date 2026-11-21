@@ -7,7 +7,7 @@ aliases:
 summary: "教师根据学生在准备度、兴趣和学习风格等维度的个体差异，主动调整教学内容、教学过程、学习成果及学习环境的教学框架（Tomlinson, 2001, 2014）；在班级异质性扩大的背景下被多国基础教育改革（如丹麦 2014 年综合学校改革）确立为兼顾卓越与公平的核心举措（Volmari et al., 2025），元分析显示其对整体学业成就具有加速效应（MetaX d = 0.58），但其实施成效高度依赖教师专业诊断能力与弹性分组机制。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -51,6 +51,7 @@ related_methods:
 related_facts:
   - "[[Common Core State Standards]]"
   - "[[Visible Learning Meta-X]]"
+  - "[[Gesamtschule]]"
   - "[[Danish Evaluation Institute]]"
 related_arguments:
   - "[[Argument_Volmari_2025_CE]]"
@@ -62,7 +63,7 @@ tags:
   - theme/evidence-based-policy
   - metax
 created: 2026-10-22
-updated: 2026-11-15
+updated: 2026-11-21
 ---
 
 ## 概念定义
@@ -133,7 +134,7 @@ updated: 2026-11-15
 > **政策转化与制度脱节**
 > 在国家级宏观教育改革中，差异化教学常被决策者作为弥合延长学时争议与促进社会整合的循证工具，然而官方常低估一线教师在资源约束下的转化难度。
 >
-> > [!claim] 丹麦 2014 年综合学校改革展现了差异化政策倡导与实践落地的错位
+> > [!claim] 丹麦 2014 年[[Gesamtschule|综合学校]]改革展现了差异化政策倡导与实践落地的错位
 > > 丹麦在 2014 年基础教育改革中，政策制定者高度依赖[[Danish Evaluation Institute|丹麦评估研究所]]（Danmarks Evalueringsinstitut, EVA）等官方受托评估报告，将差异化教学作为延长学校教学时间的核心配套措施予以强力推行（[[Argument_Volmari_2025_CE|Volmari et al., 2025]]）；然而后续评估证实，由于缺乏充足的协同备课时间与专业支持，教师普遍难以在高[[Heterogeneity|异质性]]大班中落地细粒度差异化，导致政策承诺与课堂真实样态之间出现实质性脱节。
 
 > [!contrast-table] 所有命题归纳
@@ -179,7 +180,7 @@ updated: 2026-11-15
 > - 核心维度：准备度 · 兴趣 · [[Learning Styles|学习风格]] · 内容调整 · 过程阶梯 · 成果多元
 > - 衍生与落地机制：[[Formative Assessment|形成性评价]] · 弹性分组 · 学习支架
 > - 批判/辨析概念：能力分轨 · [[Direct Instruction|直接教学]] · [[Individualised Instruction|个别化教学]]
-> - 宏观治理关涉：综合学校制度 · [[Evidence-Based Policy-Making|循证政策制定]] · 基于政策的证据炮制
+> - 宏观治理关涉：[[Gesamtschule|综合学校]]制度 · [[Evidence-Based Policy-Making|循证政策制定]] · 基于政策的证据炮制
 
 ---
 

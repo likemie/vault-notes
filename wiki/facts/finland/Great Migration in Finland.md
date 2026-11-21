@@ -11,7 +11,7 @@ subtype: event
 region: finland
 fact_region: "finland"
 fact_kind: "event"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -39,6 +39,7 @@ related_persons:
   - "[[Hannu Simola]]"
 related_facts:
   - "[[Grammar School]]"
+  - "[[Gesamtschule]]"
   - "[[Comprehensive School Reform in Finland]]"
   - "[[Finnish PISA Miracle]]"
 related_arguments:
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-06
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 ---
@@ -64,7 +65,7 @@ updated: 2026-11-19
 
 > [!dev-timeline] 事件推进历程
 > - **1945–1950 年代末 — 农业机械化启动与潜在过剩积累** 二战复员军人被安置于边远小农场，随着林业采伐与农业[[Homework|作业]]的迅速机械化，乡村隐性失业率迅速攀升，旧有精英分轨的[[Grammar School|文法学校]]（Oppikoulu）与公民学校（Kansakoulu）体系无法回应青年一代提升技能的急切诉求。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7–8, 30)]]
-> - **1960–1975 年 — 极速大迁徙高峰与赴瑞典务工潮** 农业就业急剧萎缩，乡村人口呈雪崩式流出；大批劳动力直接移民瑞典填补其汽车与制造业缺口（有效缓解了国内失业压力），同时芬兰南部城镇人口暴增；在此背景下，议会于 1968 年正式立法决定废除早期分轨，自 1972 年起由北部向南部阶梯推行统一九年制综合学校。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7–8, 30–31)]]
+> - **1960–1975 年 — 极速大迁徙高峰与赴瑞典务工潮** 农业就业急剧萎缩，乡村人口呈雪崩式流出；大批劳动力直接移民瑞典填补其汽车与制造业缺口（有效缓解了国内失业压力），同时芬兰南部城镇人口暴增；在此背景下，议会于 1968 年正式立法决定废除早期分轨，自 1972 年起由北部向南部阶梯推行统一九年制[[Gesamtschule|综合学校]]。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7–8, 30–31)]]
 > - **1975 年至今 — 城市化格局定型与代际教育红利释放** 农业劳动力比重降至欧洲平均水平，全民族[[Educational Level|受教育年限]]出现代际飞跃；成长于大迁徙时期的父母群体成为日后享受教育扩展红利的主力，为 2000 年代初的学业腾飞提供了坚实的家庭[[Human Capital Theory|人力资本]]支撑。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 31, 34)]]
 
 ---

@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 50
+person_related_count: 51
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -71,14 +71,15 @@ related_facts:
   - "[[TIMSS]]"
   - "[[International Indicators of Education Systems]]"
   - "[[PISA for Development]]"
+  - "[[Gesamtschule]]"
   - "[[2014 Open Letter on PISA]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Grey_2018_CE]]"
+  - "[[Argument_Ertl_2006_ORE]]"
   - "[[Argument_Deng_2016_CE]]"
   - "[[Argument_Zhao_2020_JEC]]"
   - "[[Argument_Larsen_2019_EducSci]]"
-  - "[[Argument_Ertl_2006_ORE]]"
 confidence: high
 status: active
 created: 2026-09-12
@@ -128,7 +129,7 @@ updated: 2026-11-21
 
 > [!influence-path] 影响路径
 > - **方法路径** 将复杂[[Matrix Sampling|矩阵抽样]]、[[Item Response Theory\|项目反应理论]]（IRT）与多重填补技术标准化运用于跨国大规模教育测评，确立了全球学生素养量化测量的技术[[Paradigm\|范式]]。
-> - **政策路径** 依托三年一度的 [[PISA]] 放榜在全球掀起“PISA 冲击（[[PISA Shock]]）”，促使德国、日本、挪威等主权国家重构国家核心素养框架与输出导向治理逻辑；在德国后 PISA 论争中，施莱歇尔作为国际协调员直接介入体制辩论，明确指出德国教育成就差距根源于十岁过早分轨，力陈单纯提高技术标准无法解决结构性不平等，力主推行综合中学体制变革（[[Argument_Ertl_2006_ORE|Ertl, 2006, pp. 627–628]]）。
+> - **政策路径** 依托三年一度的 [[PISA]] 放榜在全球掀起“PISA 冲击（[[PISA Shock]]）”，促使德国、日本、挪威等主权国家重构国家[[21st Century Skills and Competencies Discourse|核心素养]]框架与输出导向治理逻辑；在德国后 PISA 论争中，施莱歇尔作为国际协调员直接介入体制辩论，明确指出德国教育成就差距根源于十岁过早分轨，力陈单纯提高技术标准无法解决结构性不平等，力主推行[[Gesamtschule|综合中学]]体制变革（[[Argument_Ertl_2006_ORE|Ertl, 2006, pp. 627–628]]）。
 > - **全球治理路径** 亲手缔造了[[OECD\|经合组织]]在全球教育治理中的“软法与硬事实帝国”，将原本不具有任何教育法定管辖权的经济组织，打造成超越联合国专门机构的全球首要教育[[Policy Brokerage\|政策中介]]枢纽。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 547)]]
 
 > [!evidence-grid-a|notitle] 相关研究索引

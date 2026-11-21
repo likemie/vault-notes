@@ -5,7 +5,7 @@ aliases:
 summary: "以道德关切回避、替代或压过实证研究证据的话语策略，常用于分析政策争论中的价值与证据错位。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -23,13 +23,14 @@ related_persons: []
 related_facts:
   - "[[Ofsted]]"
   - "[[Grammar School]]"
+  - "[[Gesamtschule]]"
   - "[[Selective Schools Expansion Fund]]"
 related_arguments:
   - "[[Argument_Bainbridge_2022_ROE]]"
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-30
+updated: 2026-11-21
 ---
 
 ## 定义
@@ -96,7 +97,7 @@ Stevens 借鉴 Archer（2000）的 corporate agency 与 primary agency 区分来
 [[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]]对 2015–2019 年英国议会 11 场关于[[Grammar School|文法学校]]的辩论进行主题分析，发现：
 
 - 在 11 场辩论中，"good schools"（好学校）是第二高频主题（164 次提及，仅次于"selection"的 195 次），其中保守党议员占 125 次，工党仅 30 次([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.15]])
-- 163 所文法学校在议会中被提及 992 次，而约 3200 所综合学校仅被提及 109 次([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.17–18]])
+- 163 所文法学校在议会中被提及 992 次，而约 3200 所[[Gesamtschule|综合学校]]仅被提及 109 次([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.17–18]])
 - 文法学校被提及时，37% 的情况下同时出现"good"一词（374 次）；159 所 [[Ofsted]] 评级为 good/outstanding 的文法学校获得了相当于每校 235% 的"好"提及率，而 2850 所评级良好的综合学校仅获得 1.7% 的提及率([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.18]])
 
 > [!info] 核心数据

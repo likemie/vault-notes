@@ -8,7 +8,7 @@ aliases:
 summary: "Robert Cowen（2009b）提出、Jason Beech（2009a, 2009b）与 Steiner-Khamsi et al.（2024）深化的跨国教育知识流动分析框架，追踪教育思想在空间转移（太空门时刻）、政策转译（变色龙过程）与权力压缩转化（形态变质与制度化）中的演变，并在数字治理 2.0 与场域五位置模型中揭示转移空间的自指性转译、守门人垄断与政策周期政治过滤机制。"
 type: concept
 domain: "comparative-education"
-related_count: 80
+related_count: 82
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Space of Flows]]"
   - "[[Policy Translation]]"
+  - "[[Social Economy]]"
   - "[[Cross-National Attraction]]"
   - "[[Praxis]]"
   - "[[Going Native]]"
@@ -87,6 +88,7 @@ related_persons:
   - "[[Gita Steiner-Khamsi]]"
   - "[[Niklas Luhmann]]"
 related_facts:
+  - "[[Gesamtschule]]"
   - "[[PISA]]"
   - "[[OECD]]"
   - "[[Ofsted]]"
@@ -106,7 +108,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 ---
@@ -132,7 +134,7 @@ updated: 2026-11-19
 > *…translation is the shape-shifting of educational institutions or the re-interpretation of educational ideas which routinely occurs with the transfer in space: 'the chameleon process'.* (p. 255)
 
 > [!citation-card] 罗伯特·考恩论权力压缩与深层质变
-> 转化是新语境中社会经济权力的压缩对初始转译产物施加的变形，即一个涵盖本土化和灭绝的变形范围。（[[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 255]]）
+> 转化是新语境中[[Social Economy|社会经济]]权力的压缩对初始转译产物施加的变形，即一个涵盖本土化和灭绝的变形范围。（[[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 255]]）
 > 
 > *…transformations are the metamorphoses which the compression of social and economic power into education in the new context imposes on the initial translation: that is, a range of transformations which cover both the indigenisation and the extinction of the translated form.* (p. 255)
 
@@ -199,7 +201,7 @@ updated: 2026-11-19
 > **现实主义、理性主义与[[Revolutionism\|革命主义]]三大[[Paradigm\|范式]]** 指出教育转移受国际关系三大范式塑造：现实主义视其为权力等级下的单向移动，理性主义视其为非线性旅行政策，[[Revolutionism\|革命主义]]视其为反支配的斗争工具。
 
 > [!claim] [[Argument_Cowen_2009_CE\|Cowen (2009b, pp. 257, 323)]]
-> **战后盟军占领下的德日制度移植与本土阻抗** 证明二战后美国向德日强推单轨制/综合中学，但在转化阶段西德保守力量保留了传统三轨制，而日本虽保留单轨制形式却演化出残酷的[[Examination Hell\|考试地狱]]。
+> **战后盟军占领下的德日制度移植与本土阻抗** 证明二战后美国向德日强推单轨制/[[Gesamtschule|综合中学]]，但在转化阶段西德保守力量保留了传统三轨制，而日本虽保留单轨制形式却演化出残酷的[[Examination Hell\|考试地狱]]。
 
 ---
 

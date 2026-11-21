@@ -9,7 +9,7 @@ aliases:
 summary: "由瓦尔·拉斯特基于挪威自1840年代以来的教育改革委员会制度实践提炼的跨国政策借用分析框架，涵盖发起调研、凝聚共识、确立法律框架与推进实施四个阶段，阐明主权国家如何通过常设专门委员会与民主协商白皮书，实现高度自主且具制度韧性的外部经验筛选与本土化重塑。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 22
+theory_related_count: 24
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Going Native]]"
   - "[[Comprehensive Education]]"
   - "[[Structural Coupling]]"
+  - "[[Social Economy]]"
   - "[[Research Question]]"
   - "[[Policy Mobility]]"
   - "[[Washington Consensus]]"
@@ -44,13 +45,14 @@ related_persons:
   - "[[Val D. Rust]]"
   - "[[Kimberly Ochs]]"
 related_facts:
+  - "[[Gesamtschule]]"
   - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments:
   - "[[Argument_Rust_2009_Reflections]]"
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 ---
@@ -68,7 +70,7 @@ updated: 2026-11-19
 
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** [[Val D. Rust|瓦尔·拉斯特]]（[[Val D. Rust]]）在 1989 年专著《挪威教育改革政治学》（*The Politics of Educational Reform in Norway*）与 1990 年《比较教育评论》论文《挪威的教育改革：前一百五十年》中基于挪威教育现代史档案正式建构该框架，并在 2009 年《国际比较教育手册》中将其系统升华。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 124, 126)]]
-> - **原初问题** 为何挪威作为一个欧洲小型沿海主权国，在过去一个半世纪的现代化剧烈激荡中，既能始终保持对外部世界（北欧、西欧及北美）先进教育经验的高度开放，又从未沦为外部大国的制度附庸，反而建成了全球最具平等主义与社会韧性的北欧综合学校模式。
+> - **原初问题** 为何挪威作为一个欧洲小型沿海主权国，在过去一个半世纪的现代化剧烈激荡中，既能始终保持对外部世界（北欧、西欧及北美）先进教育经验的高度开放，又从未沦为外部大国的制度附庸，反而建成了全球最具平等主义与社会韧性的北欧[[Gesamtschule|综合学校]]模式。
 > - **理论资源与材料** 挪威议会（Storting）自 1840 年代设立历任皇家改革委员会的全部官方档案、议会教育白皮书（Stortingsmeldinger）、各国考察报告及国家立法全记录。
 > - **形成路径** 拉斯特通过长达一个半世纪的历时性制度追踪，发现挪威历次重大教育制度重构均遵循同一稳定的政治决策程序，由此抽象出涵盖发起调研、凝聚共识、确立法律框架与推进实施的四阶段借用模型。
 
@@ -119,7 +121,7 @@ updated: 2026-11-19
 ---
 
 > [!theory-proposition] 命题三｜政策借用的合法性依赖于立法强制力与福利国家体制的[[Structural Coupling|结构耦合]]
-> 仅有愿景共识不足以完成制度落地；政策借用必须在第三和第四阶段实现与主权国家宪制及社会经济基础的深度耦合。将借用方案上升为国家法律框架，为改革筑牢了不受内阁更迭动摇的法治屏障；而将新学制无缝嵌入北欧高税收、高保障的普惠性福利体制中，确保了外部经验能够真正转化为服务全民、促进平等的公共福祉，消解了移植失败带来的体制排异反应。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 124, 126)]]
+> 仅有愿景共识不足以完成制度落地；政策借用必须在第三和第四阶段实现与主权国家宪制及[[Social Economy|社会经济]]基础的深度耦合。将借用方案上升为国家法律框架，为改革筑牢了不受内阁更迭动摇的法治屏障；而将新学制无缝嵌入北欧高税收、高保障的普惠性福利体制中，确保了外部经验能够真正转化为服务全民、促进平等的公共福祉，消解了移植失败带来的体制排异反应。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 124, 126)]]
 
 > [!example|notitle]
 > 挪威将外部现代师范培养模式借入后，迅速通过法律确立国家财政全额统筹机制，使乡村边远地区师资与首都完全同质均等，实现了借用模式与国家平等主义社会目标的彻底耦合。

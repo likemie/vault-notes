@@ -8,7 +8,7 @@ aliases:
 summary: "芬兰文化中特有的心理资本与坚毅品格构念，指个体或群体在面对极度逆境与匮乏时展现出的内在坚韧、决断力与百折不挠的持续奋斗精神；在教育社会学与心理学中被界定为解释芬兰后发追赶期全民高求学动力与耐受严谨教学规训的核心非认知资本。"
 type: concept
 domain: "educational-psychology"
-related_count: 17
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Grit]]"
   - "[[Cultural Capital]]"
+  - "[[Social Economy]]"
   - "[[Learned Helplessness]]"
   - "[[Direct Instruction]]"
   - "[[National Character]]"
@@ -40,13 +41,14 @@ related_facts:
   - "[[Research in Schools Evaluation]]"
   - "[[1918 Finnish Civil War]]"
   - "[[Finnish PISA Miracle]]"
+  - "[[Gesamtschule]]"
   - "[[Fennoman Movement]]"
 related_arguments:
   - "[[Argument_Sahlgren_2015_CPS]]"
 confidence: high
 status: completed
 created: 2026-11-07
-updated: 2026-11-11
+updated: 2026-11-21
 ---
 
 ---
@@ -80,7 +82,7 @@ updated: 2026-11-11
 ---
 
 > [!feature] 核心要素
-> - **逆境爆发力** 在遭遇学业困难、学制分流或社会经济动荡时，不仅不产生[[Learned Helplessness|习得性无助]]，反而激发加倍努力的心理韧性。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 31–33)]]
+> - **逆境爆发力** 在遭遇学业困难、学制分流或[[Social Economy|社会经济]]动荡时，不仅不产生[[Learned Helplessness|习得性无助]]，反而激发加倍努力的心理韧性。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 31–33)]]
 > - **家庭教养期望的硬核化** 家长在家庭教育中系统强调吃苦耐劳、自我克制与抗挫折品格，为学校推进高要求教学提供价值共识。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 32–33)]]
 > - **教师权威与[[Direct Instruction|直接讲授]]的心理基础** 使学童能够在缺乏娱乐化教学辅助的环境中，长时间专注接受传统的显性结构化讲授。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 40–44)]]
 
@@ -120,7 +122,7 @@ updated: 2026-11-11
 > [!debates|notitle] 学术争议
 >
 > > [!axis] 文化资本对学业卓越的决定性权重
-> > 争论聚焦于芬兰学业奇迹主要源于独一无二的深层民族文化资本（如 Sisu），还是得益于现代普适性的制度设计（如综合学校与平等资助）。
+> > 争论聚焦于芬兰学业奇迹主要源于独一无二的深层民族文化资本（如 Sisu），还是得益于现代普适性的制度设计（如[[Gesamtschule|综合学校]]与平等资助）。
 > >
 > > - **文化与社会学视角** 认为制度改革的成效离不开特定文化资本的润滑与支撑，缺失 Sisu 支撑的去问责放权在外部移植中注定失效。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 30–33)]]
 > > - **制度理性视角** 认为标准化公立系统、优质师范选拔与均等化公共投入才是推动学业产出的决定性制度引擎。

@@ -11,7 +11,7 @@ title: "Argument_Bainbridge_2022_ROE"
 argument_key: "Argument_Bainbridge_2022_ROE"
 argument_display_title: "Responding to research evidence in Parliament: A case study on selective education policy"
 argument_kind: "journal-article"
-argument_related_count: 20
+argument_related_count: 21
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -48,13 +48,14 @@ related_facts:
   - "[[Selective Schools Expansion Fund]]"
   - "[[Grammar School]]"
   - "[[Ofsted]]"
+  - "[[Gesamtschule]]"
 related_arguments: []
 sources:
   - "[[sources/Bainbridge_2022_ROE|Bainbridge_2022_ROE]]"
 part_of: ''
 status: draft
 created: '2026-05-07'
-updated: 2026-10-30
+updated: 2026-11-21
 year: 2022
 doi: ""
 citation_aliases:
@@ -130,7 +131,7 @@ citation_aliases:
 | Underfunded（资金不足） | 71 | — | 71 |
 
 - "好学校"是第二高频主题（164 次），保守党 125 次 vs 工党 30 次
-- 163 所[[Grammar School|文法学校]]获 992 次提及（vs 3,200 所综合学校的 109 次）
+- 163 所[[Grammar School|文法学校]]获 992 次提及（vs 3,200 所[[Gesamtschule|综合学校]]的 109 次）
 - 37% 文法学校提及伴随"good"（374 次）
 - 保守党多数主题：社会流动性、家长选择、资金不足；工党多数主题：教学、社会多样性、早期教育
 
@@ -222,7 +223,7 @@ citation_aliases:
 > ("Whereas it might be asking too much of our politicians to insist that they be aware of rigorous research methods, it is not too much to hold them to a high standard of ethics and to hold them to [[Accounts\|account]] when their demonstrated ethics fall short.")
 
 > [!info] 核心数据
-> - [[Grammar School\|文法学校]]"good"提及率 235%（每校），综合学校 1.7%（每校）
+> - [[Grammar School\|文法学校]]"good"提及率 235%（每校），[[Gesamtschule|综合学校]] 1.7%（每校）
 > - SSEF £50M 若按"好学校应扩张"逻辑同等应用，总预算超 £84 亿
 > - "社会流动性"论述在委员会报告后从 53 次骤降至 13 次；但"好学校"话语未被动摇
 > - 保守党"好学校"主题引用 125 次 vs 工党 30 次

@@ -5,7 +5,7 @@ aliases:
 summary: "研究结论应提供暂定、可修正的担保断言而非确定性证明，可用于评估政策论证是否真正由证据支持而不是靠修辞跳跃推进"
 type: concept
 domain: "research-methodology"
-related_count: 10
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,15 +24,17 @@ related_methods:
   - "[[Carnivalesque Analysis]]"
 related_persons: []
 related_facts:
+  - "[[Recommendation-Based Graduate Admission System]]"
   - "[[Ofsted]]"
   - "[[Grammar School]]"
+  - "[[Gesamtschule]]"
   - "[[Selective Schools Expansion Fund]]"
 related_arguments:
   - "[[Argument_Bainbridge_2022_ROE]]"
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-22
+updated: 2026-11-21
 ---
 
 > [!info] 定义
@@ -43,7 +45,7 @@ updated: 2026-10-22
 
 > [!example] 概念辨析
 > - vs 传统证据观中的"证明"（proof）：传统[[Evidence-Based Education\|证据本位教育]]主张追求可复制、可推广的确定性结论；justified warrants 则强调所有研究类型的证据同等值得考虑，关键是断言与其现实应用之间的逻辑推进是否合理([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.6–7]])
-> - 与 "anything goes" 的区别：正当化担保不意味着"什么都可以"——学界有责任确保研究断言被审慎地持有，避免误导性的确定性([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.6]])
+> - 与 "anything goes" 的区别：正当化担保不意味着"什么都可以"——学界有责任确[[Recommendation-Based Graduate Admission System|保研]]究断言被审慎地持有，避免误导性的确定性([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.6]])
 >
 
 > [!abstract] 核心要素
@@ -59,7 +61,7 @@ updated: 2026-10-22
 >
 
 > [!success] 实证发现
-> [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]]以 justified warrants 为评估框架分析英国议会辩论，发现政策制定者未能为其决策提供正当化担保：在 SSEF 政策制定过程中，政府以 [[Ofsted]] 评级替代同行评议研究证据，将[[Grammar School\|文法学校]]等同于"好学校"，既未提供从证据到政策的逻辑推进，也未附有任何保留条件。[[Carnivalesque Analysis\|嘉年华式分析]]显示：若将"好学校应获扩展资金"的逻辑一致适用于所有 Ofsted 评级良好的学校（包括综合学校、小学和幼儿园），所需预算将从 £50M 膨胀至约 £84 亿，由此暴露政策论证缺乏正当化担保([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.18]])。
+> [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]]以 justified warrants 为评估框架分析英国议会辩论，发现政策制定者未能为其决策提供正当化担保：在 SSEF 政策制定过程中，政府以 [[Ofsted]] 评级替代同行评议研究证据，将[[Grammar School\|文法学校]]等同于"好学校"，既未提供从证据到政策的逻辑推进，也未附有任何保留条件。[[Carnivalesque Analysis\|嘉年华式分析]]显示：若将"好学校应获扩展资金"的逻辑一致适用于所有 Ofsted 评级良好的学校（包括[[Gesamtschule|综合学校]]、小学和幼儿园），所需预算将从 £50M 膨胀至约 £84 亿，由此暴露政策论证缺乏正当化担保([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.18]])。
 >
 
 > [!warning] 争议与批评

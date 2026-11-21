@@ -476,7 +476,15 @@ var require_collectors = __commonJS({
         const first = (await loopback(port, csrf, "GetUserStatus", signal))?.userStatus;
         const email = text2(first?.email);
         if (!email) throw new SourceError("auth", "\u8BF7\u5728 Antigravity \u684C\u9762\u7AEF\u767B\u5F55\u3002");
-        const payload = await loopback(port, csrf, "RetrieveUserQuotaSummary", signal);
+        let windows = [];
+        let error;
+        try {
+          const payload = await loopback(port, csrf, "RetrieveUserQuotaSummary", signal);
+          windows = requireReading(antiWindows(payload));
+        } catch (failure) {
+          signal.throwIfAborted();
+          error = issue2(failure);
+        }
         const current = (await loopback(port, csrf, "GetUserStatus", signal))?.userStatus;
         if (text2(current?.email).toLowerCase() !== email.toLowerCase()) {
           throw new SourceError("offline", "\u68C0\u6D4B\u5230\u8D26\u53F7\u5207\u6362\uFF0C\u8BF7\u91CD\u65B0\u5237\u65B0\u3002");
@@ -487,15 +495,16 @@ var require_collectors = __commonJS({
           current.userName,
           [text2(current.firstName), text2(current.lastName)].filter(Boolean).join(" ")
         ].map(antigravityProfileName).find(Boolean);
-        return row("antigravity", requireReading(antiWindows(payload)), {
+        return row("antigravity", windows, {
           id: accountId(email),
           label: "\u684C\u9762\u8D26\u53F7",
           profileName,
-          plan: text2(current.userTier?.name)
+          plan: text2(current.userTier?.name),
+          error
         });
       }));
-      const success = answers.find((answer) => answer.status === "fulfilled");
-      if (success) return success.value;
+      const verified = answers.flatMap((answer) => answer.status === "fulfilled" ? [answer.value] : []);
+      if (verified.length) return verified.find((account) => !account.issue) ?? verified[0];
       const fault = answers.find((answer) => answer.status === "rejected" && answer.reason instanceof SourceError);
       throw fault?.reason ?? new SourceError("offline", "\u65E0\u6CD5\u8BFB\u53D6 Antigravity \u684C\u9762\u7AEF\u989D\u5EA6\u3002");
     }
@@ -579,7 +588,11 @@ var require_collectors = __commonJS({
         problem = issue2(error);
       }
       signal.throwIfAborted();
-      const byId = new Map(live.map((account) => [account.id, account]));
+      const byId = /* @__PURE__ */ new Map();
+      for (const account of live) {
+        if (!byId.has(account.id) || !account.issue) byId.set(account.id, account);
+      }
+      const currentId = byId.size === 1 ? live[0].id : null;
       if (!live.length) {
         for (const saved of previous.filter((account) => account.source === PROVIDERS2.antigravity.source && account.windows.length)) {
           byId.set(saved.id, {
@@ -603,17 +616,21 @@ var require_collectors = __commonJS({
           });
         }
       }
-      const rows = [...byId.values()];
       if (onlyId) {
-        const selected = byId.get(onlyId);
-        if (selected) return [selected];
-        throw new SourceError("offline", "\u65E0\u6CD5\u5237\u65B0\u6B64\u8D26\u53F7\uFF0C\u5F53\u524D\u767B\u5F55\u53EF\u80FD\u5DF2\u5207\u6362\u3002");
+        const selected = byId.get(onlyId) ?? {
+          ...previous.find((account) => account.id === onlyId) ?? row("antigravity", [], { id: onlyId }),
+          issue: { status: "offline", message: "\u65E0\u6CD5\u5237\u65B0\u6B64\u8D26\u53F7\uFF0C\u5F53\u524D\u767B\u5F55\u53EF\u80FD\u5DF2\u5207\u6362\u3002" }
+        };
+        return { rows: [selected], currentId };
       }
-      if (rows.length) return rows;
-      return [row("antigravity", [], { error: problem ?? {
-        status: "offline",
-        message: "\u6253\u5F00\u5E76\u767B\u5F55 Antigravity \u684C\u9762\u7AEF\uFF0C\u6216\u5728 Antigravity Tools \u4E2D\u5237\u65B0\u5DF2\u767B\u8BB0\u8D26\u53F7\u3002"
-      } })];
+      const rows = [...byId.values()];
+      if (!rows.length) {
+        rows.push(row("antigravity", [], { error: problem ?? {
+          status: "offline",
+          message: "\u6253\u5F00\u5E76\u767B\u5F55 Antigravity \u684C\u9762\u7AEF\uFF0C\u6216\u5728 Antigravity Tools \u4E2D\u5237\u65B0\u5DF2\u767B\u8BB0\u8D26\u53F7\u3002"
+        } }));
+      }
+      return { rows, currentId };
     }
     async function claude(signal) {
       const path = await executable("claude", "claude");
@@ -680,11 +697,13 @@ var require_view = __commonJS({
       button.addEventListener("click", callback);
       return button;
     }
-    function refreshAntigravity(parent, state, actions) {
+    function refreshAntigravity(parent, state, actions, compact = false) {
       const busy = state.busy.has("antigravity");
-      control(parent, busy ? "\u5237\u65B0\u4E2D" : "\u5237\u65B0\u5F53\u524D\u8D26\u53F7", () => actions.refresh("antigravity"), {
+      const label = busy ? "\u5237\u65B0\u4E2D" : compact ? "\u5237\u65B0\u5F53\u524D Antigravity \u8D26\u53F7" : "\u5237\u65B0\u5F53\u524D\u8D26\u53F7";
+      control(parent, label, () => actions.refresh("antigravity"), {
         icon: "refresh-cw",
-        name: "button auf-quiet auf-refresh-current",
+        iconOnly: compact,
+        name: compact ? "icon-button" : "button auf-quiet auf-refresh-current",
         id: "refresh-antigravity",
         disabled: busy
       });
@@ -746,13 +765,22 @@ var require_view = __commonJS({
         account.windows.forEach((quota) => quotaWindow(grid, quota, status, state.now));
       }
     }
+    function compactService(parent, id, title, icon, detail) {
+      const section = add(parent, "section", "float-service");
+      section.dataset.aufProvider = id;
+      section.setAttribute("aria-label", title);
+      const heading = add(section, "header", "float-group");
+      const mark = add(heading, "span", "icon auf-service-icon");
+      mark.setAttribute("aria-hidden", "true");
+      setIcon(mark, icon);
+      add(heading, "h3", "", title);
+      if (detail) add(heading, "small", "muted", detail);
+      return { section, heading };
+    }
     function displayCompactSubscription(parent, id, state, actions) {
       const subscription = state.rows[id][0];
       const title = id === "codex" ? "Codex" : PROVIDERS2[id].title;
-      const section = add(parent, "section", "float-service");
-      const heading = add(section, "div", "float-group");
-      add(heading, "span", "", title);
-      if (subscription?.plan) add(heading, "small", "muted", subscription.plan);
+      const { section, heading } = compactService(parent, id, title, id === "codex" ? "terminal" : "orbit", subscription?.plan);
       const busy = state.busy.has(id);
       control(heading, busy ? title + " \u5237\u65B0\u4E2D" : "\u5237\u65B0 " + title, () => actions.refresh(id), {
         icon: "refresh-cw",
@@ -772,34 +800,52 @@ var require_view = __commonJS({
       const grid = add(section, "div", "quota-grid");
       subscription.windows.forEach((quota) => quotaWindow(grid, quota, status, state.now));
     }
-    function displayGemini(parent, state, actions) {
-      const section = add(parent, "section", "float-service");
-      const heading = add(section, "div", "float-group");
-      add(heading, "span", "", "Antigravity \xB7 Gemini");
-      refreshAntigravity(heading, state, actions);
-      const accounts = state.rows.antigravity.filter((row) => isAntigravityId2(row.id));
-      if (!accounts.length) {
-        add(section, "p", "empty", state.rows.antigravity[0]?.issue?.message || "\u6682\u65E0 Gemini \u989D\u5EA6\u3002");
+    function displayGeminiWindows(parent, row, state, snapshot = false) {
+      const windows = row.windows.filter((quota) => /^gemini(?:$|[-_])/i.test(quota.id));
+      if (!windows.length) {
+        add(parent, "p", "muted", row.issue?.message || "\u6682\u65E0 Gemini \u989D\u5EA6\u3002");
         return;
       }
-      for (const row of accounts) {
-        const entry = add(section, "section", "gemini-account");
-        const title = add(entry, "div", "gemini-account-head");
-        add(title, "strong", "", accountName2("antigravity", row, state.settings));
-        const windows = row.windows.filter((quota) => /^gemini(?:$|[-_])/i.test(quota.id));
-        const status = rowStatus({ ...row, windows }, state.now, state.settings.interval);
-        if (status) {
-          const label = [STATUSES[status], row.fetchedAt && windows.length && freshness(row.fetchedAt, state.now)].filter(Boolean).join(" \xB7 ");
-          add(title, "small", "status", label);
-        }
-        if (!windows.length) {
-          add(entry, "p", "muted", "\u6682\u65E0 Gemini \u989D\u5EA6\u3002");
-          continue;
-        }
-        const grid = add(entry, "div", "quota-grid");
-        for (const quota of windows) {
-          quotaWindow(grid, { ...quota, name: quota.name.replace(/^Gemini Models · /i, "") }, status, state.now);
-        }
+      const status = snapshot ? "stale" : rowStatus({ ...row, windows }, state.now, state.settings.interval);
+      if (status && !snapshot) {
+        add(parent, "p", "status auf-account-note", [STATUSES[status], freshness(row.fetchedAt, state.now)].join(" \xB7 "));
+      }
+      const grid = add(parent, "div", "quota-grid");
+      for (const quota of windows) {
+        quotaWindow(grid, { ...quota, name: quota.name.replace(/^Gemini Models · /i, "") }, status, state.now);
+      }
+    }
+    function displayGemini(parent, state, actions, openSnapshots) {
+      const { section, heading } = compactService(parent, "antigravity", "Gemini", "sparkles", "Antigravity");
+      refreshAntigravity(heading, state, actions, true);
+      const accounts = state.rows.antigravity.filter((row) => isAntigravityId2(row.id));
+      const current = accounts.find((row) => row.id === state.currentAntigravityId);
+      if (current) {
+        const account = add(section, "div", "gemini-current");
+        const title = add(account, "div", "gemini-account-head");
+        add(title, "strong", "", accountName2("antigravity", current, state.settings));
+        add(title, "small", "muted", "\u5F53\u524D\u8D26\u53F7");
+        displayGeminiWindows(account, current, state);
+      } else if (accounts.length) {
+        add(section, "p", "muted auf-account-note", "\u5C1A\u672A\u786E\u8BA4\u5F53\u524D\u767B\u5F55\u8D26\u53F7\u3002");
+      } else {
+        add(section, "p", "empty", state.rows.antigravity[0]?.issue?.message || "\u6682\u65E0 Gemini \u989D\u5EA6\u3002");
+      }
+      const snapshots = accounts.filter((row) => row !== current);
+      if (!snapshots.length) return;
+      add(section, "h4", "gemini-snapshot-title", "\u8D26\u53F7\u5FEB\u7167");
+      for (const row of snapshots) {
+        const entry = add(section, "details", "gemini-snapshot");
+        entry.dataset.aufAccount = row.id;
+        entry.open = openSnapshots.has(row.id);
+        const summary = add(entry, "summary", "gemini-snapshot-summary");
+        summary.dataset.aufFocus = "snapshot-" + row.id;
+        const arrow = add(summary, "span", "icon auf-snapshot-arrow");
+        arrow.setAttribute("aria-hidden", "true");
+        setIcon(arrow, "chevron-right");
+        add(summary, "span", "snapshot-name", accountName2("antigravity", row, state.settings));
+        if (row.fetchedAt !== null) add(summary, "small", "muted", freshness(row.fetchedAt, state.now));
+        displayGeminiWindows(add(entry, "div", "snapshot-windows"), row, state, true);
       }
     }
     function card(parent, title, detail) {
@@ -955,10 +1001,15 @@ var require_view = __commonJS({
             control(this.buttons, "\u9690\u85CF\u6D6E\u7A97", () => this.dismiss(), { icon: "x", iconOnly: true, name: "icon-button", id: "hide" });
           }
           if (collapsed) return;
+          const openSnapshots = /* @__PURE__ */ new Set();
+          if (this.currentAntigravityId === state.currentAntigravityId) {
+            for (const entry of this.body.querySelectorAll(".auf-gemini-snapshot[open]")) openSnapshots.add(entry.dataset.aufAccount);
+          }
+          this.currentAntigravityId = state.currentAntigravityId;
           this.body.replaceChildren();
           const ids = ["codex", "grok", "antigravity"].filter((id) => state.settings.enabled[id]);
           for (const id of ids) {
-            if (id === "antigravity") displayGemini(this.body, state, this.actions);
+            if (id === "antigravity") displayGemini(this.body, state, this.actions, openSnapshots);
             else displayCompactSubscription(this.body, id, state, this.actions);
           }
           if (!ids.length) add(this.body, "p", "empty", "\u8BF7\u5728\u8BBE\u7F6E\u4E2D\u542F\u7528\u8981\u67E5\u770B\u7684\u670D\u52A1\u3002");
@@ -1001,6 +1052,9 @@ var require_view = __commonJS({
       updateVisibility(pinned = this.actions.state().settings.pinned) {
         const visible = pinned || this.preview === true;
         const restoreFocus = !visible && this.root.contains(this.win.document.activeElement);
+        if (!visible && !this.root.hidden) {
+          for (const entry of this.body.querySelectorAll(".auf-gemini-snapshot[open]")) entry.open = false;
+        }
         this.root.hidden = !visible;
         this.launcher.setAttribute("aria-expanded", String(visible));
         this.launcher.setAttribute("aria-pressed", String(pinned));
@@ -1206,6 +1260,7 @@ var UsageFloatPlugin = class extends Plugin {
     this.due = /* @__PURE__ */ new Map();
     this.writes = Promise.resolve();
     this.lastRefresh = null;
+    this.currentAntigravityId = null;
     this.actions = {
       state: () => this.state(),
       dashboard: () => this.openDashboard(),
@@ -1240,6 +1295,7 @@ var UsageFloatPlugin = class extends Plugin {
       rows: this.rows,
       busy: this.busy,
       lastRefresh: this.lastRefresh,
+      currentAntigravityId: this.currentAntigravityId,
       now: Date.now()
     };
   }
@@ -1321,8 +1377,9 @@ var UsageFloatPlugin = class extends Plugin {
     const prior = this.rows[id];
     let failed = false;
     try {
-      const fresh = await collectors[id](signal, prior, accountId);
+      const reading = await collectors[id](signal, prior, accountId);
       if (signal.aborted) return;
+      const fresh = id === "antigravity" ? reading.rows : reading;
       const byId = new Map(prior.map((row) => [row.id, row]));
       const merged = fresh.map((row) => {
         const last = byId.get(row.id);
@@ -1334,8 +1391,10 @@ var UsageFloatPlugin = class extends Plugin {
       const resolved = id === "antigravity" ? retainAntigravitySnapshots(merged, accountId ? prior.filter((row) => row.id === accountId) : prior) : merged;
       failed = resolved.every((row) => row.issue || !row.windows.length);
       this.rows[id] = accountId ? prior.map((row) => row.id === accountId ? resolved[0] ?? row : row) : resolved;
+      if (id === "antigravity") this.currentAntigravityId = reading.currentId;
     } catch (error) {
       if (signal.aborted) return;
+      if (id === "antigravity") this.currentAntigravityId = null;
       failed = true;
       this.rows[id] = prior.map((row) => !accountId || row.id === accountId ? { ...row, issue: issue(error) } : row);
     } finally {

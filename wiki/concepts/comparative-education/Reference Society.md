@@ -8,7 +8,7 @@ aliases:
 summary: "在比较教育与政策借用研究中，指被特定国家用作自身教育体制改革、政策辩护或合法化重构的外部参照范例或制度模板。概念源自施瑞尔（Jürgen Schriewer）的“外化假说”与卢曼系统论，强调系统对外部参照点的内部建构以应对政策情境的偶然性与不确定性。在当代全球量化治理中，经合组织通过外向型同行比较建构参考社会，而世界银行则展现出以自身工具与项目为依归的自指性中介特征。"
 type: concept
 domain: "comparative-education"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -61,6 +61,7 @@ related_facts:
   - "[[OECD]]"
   - "[[World Bank]]"
   - "[[Systems Approach for Better Education Results]]"
+  - "[[Gesamtschule]]"
 related_arguments:
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-05
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 ---
@@ -110,7 +111,7 @@ updated: 2026-11-19
 > | **分析焦点** | 被选定为效仿或辩护模板的客体社会 | 跨国移植、引介与[[Recontextualization\|再脉络化]]的行为全流程 | 国内体制对外国经验产生关注的初始驱动力 | 系统借调外部权威以解决内部合法性危机的机制 |
 > | **理论渊源** | 施瑞尔比较方法论、卢曼系统论、PISA 排名 | 比较教育政策转移理论（Phillips & Steiner-Khamsi） | 菲利普斯四阶段政策借用模型 | 施瑞尔（Schriewer, 1990）系统理论 |
 > | **时间节点** | 持续充当象征灯塔，随排名与地缘格局更迭 | 贯穿吸收、决策、实施至本土内化的生命周期 | 存在于借用周期的第一阶段（跨国吸引期） | 在国内决策陷入严重阻滞或争议的相持节点爆发 |
-> | **典型表述** | “看看芬兰是如何做教师教育的” | “我们立法引进了芬兰式的综合学校法案” | “本国学生数学成绩滑坡引发对亚洲体系的浓厚兴趣” | “国际经合组织建议我们采纳这一标准” |
+> | **典型表述** | “看看芬兰是如何做教师教育的” | “我们立法引进了芬兰式的[[Gesamtschule\|综合学校]]法案” | “本国学生数学成绩滑坡引发对亚洲体系的浓厚兴趣” | “国际经合组织建议我们采纳这一标准” |
 
 ---
 

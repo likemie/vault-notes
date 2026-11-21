@@ -8,7 +8,7 @@ aliases:
 summary: "20 世纪 50 至 70 年代支配英美比较教育学的知识体系与研究纲领，摒弃古典历史学派主观印象与思辨归因，通过变量控制、量化共变检验与假说-演绎问题法探寻跨国规律与政策预测，并在实践中与战后国家理性规划形成合法化共谋"
 type: concept
 domain: "comparative-education"
-related_count: 72
+related_count: 73
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -60,8 +60,9 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Research Security]]"
   - "[[Scientism]]"
-  - "[[Theoretical Perspective]]"
   - "[[Theoretical Standpoint]]"
+  - "[[Theoretical Perspective]]"
+  - "[[Open Innovation]]"
 related_theories:
   - "[[Structural Functionalism]]"
   - "[[Post-structuralism]]"
@@ -302,7 +303,7 @@ updated: 2026-11-21
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 全景式考据比较教育学科学[[Paradigm|范式]]的兴起动因、四大派别在目标与法则上的争论、其实用政策结盟机制以及走向解体的深层[[Epistemology|认识论]]原因。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 考据比较教育学在近代 26 个比较学科群中的定位，分析自然情境与[[Dissimilar Units|非同质单位]]带来的认识论边界，实证揭示单一科学范式垄断瓦解与 26 种[[Theoretical Perspective|理论视角]][[Pluralism|健康多元主义]]的形成。
-> - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统论述大国地缘科技博弈与《[[CHIPS and Science Act|芯片法案]]》如何推动科学研究范式由新自由主义市场适配向后新自由主义[[Securitization of Technology|技术安全化]]与国家使命导向转型，深刻反思科研生态封闭化对[[Academic Freedom|学术自由]]与开放创新的制度性冲击（pp. 24–26）。
+> - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统论述大国地缘科技博弈与《[[CHIPS and Science Act|芯片法案]]》如何推动科学研究范式由新自由主义市场适配向后新自由主义[[Securitization of Technology|技术安全化]]与国家使命导向转型，深刻反思科研生态封闭化对[[Academic Freedom|学术自由]]与[[Open Innovation|开放创新]]的制度性冲击（pp. 24–26）。
 > - Bereday (1964) — 提出描述、解释、并置、比较的四步操作程序，充当从古典历史向实证科学转型的关键过渡桥梁。
 > - Anderson (1961) — 奠定芝加哥学派[[Structural Functionalism|结构功能主义]]立足点，主张探索社会系统超越时空的恒常不变关系。
 > - Noah and Eckstein (1969) — 奠定经验实证与跨国[[Variable|变量]]共变检验纲领，建立五阶段调查程序并保持拒称法则的方法论自律。

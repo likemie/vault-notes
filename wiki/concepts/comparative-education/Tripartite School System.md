@@ -9,7 +9,7 @@ aliases:
 summary: "中等教育阶段依据早期学术能力选拔将学生分流至文法中学、实科中学与主要中学的分轨制学制结构；在比较教育学与教育社会学中，该体系揭示了早期能力分流如何被家庭阶层与移民背景所主导，进而成为维系社会分层与阻滞全面综合教育改革的深层制度惯性。"
 type: concept
 domain: "comparative-education"
-related_count: 24
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,20 +29,22 @@ related_concepts:
   - "[[Dual School System]]"
   - "[[Selectivity]]"
   - "[[Alienation]]"
+  - "[[Educational Permeability]]"
   - "[[Variable]]"
   - "[[Selective Education]]"
   - "[[Tracking]]"
-  - "[[Educational Permeability]]"
   - "[[Output-Oriented Governance]]"
 related_theories: []
 related_methods:
-  - "[[Effect Size]]"
   - "[[Regression Discontinuity Design]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Realschule]]"
   - "[[German Dual Education System]]"
   - "[[Hauptschule]]"
+  - "[[Gesamtschule]]"
   - "[[PISA]]"
   - "[[Klieme Report]]"
   - "[[PISA Shock in Germany]]"
@@ -59,12 +61,12 @@ updated: 2026-11-21
 ---
 
 > [!def] Tripartite School System
-> 三轨学制（Tripartite School System / Dreigliedriges Schulsystem）特指以德国为典型代表的中等教育制度安排；该体系在初等教育结束时（通常为 10 岁或 12 岁），依据学生的[[Academic Achievement|学业成绩]]推荐与能力评估，将学生分流至三类定位严格区隔的中学轨道：培养学术精英并通往大学教育的高中文凭文法中学（Gymnasium）、侧重中级现代通识与商业技术教育的实科中学（Realschule），以及提供基础大众[[General Education|通识教育]]并主要衔接[[German Dual Education System|双元制]]学徒职业培训的[[Hauptschule|主要中学]]（Hauptschule）。[[Argument_Ertl_2006_ORE|(Ertl, 2006, pp. 620, 631)]]
+> 三轨学制（Tripartite School System / Dreigliedriges Schulsystem）特指以德国为典型代表的中等教育制度安排；该体系在初等教育结束时（通常为 10 岁或 12 岁），依据学生的[[Academic Achievement|学业成绩]]推荐与能力评估，将学生分流至三类定位严格区隔的中学轨道：培养学术精英并通往大学教育的高中文凭文法中学（Gymnasium）、侧重中级现代通识与商业技术教育的[[Realschule|实科中学]]（Realschule），以及提供基础大众[[General Education|通识教育]]并主要衔接[[German Dual Education System|双元制]]学徒职业培训的[[Hauptschule|主要中学]]（Hauptschule）。[[Argument_Ertl_2006_ORE|(Ertl, 2006, pp. 620, 631)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 该概念指向中等教育通过制度化多轨分流实现社会分工与文凭分配的学制骨架。
 > - **用途** 帮助研究者透视早期能力分流如何转变为基于家庭[[Socioeconomic Status|社会经济地位]]与[[Immigrant Status|移民身份]]的社会阶层复制机制。
-> - **边界** 该学制特指分流明确、文凭通道分立的三轨组织形态，有别于单一学校内部按科目分层的走班制，亦有别于面向全体适龄青少年的无分流综合中学。
+> - **边界** 该学制特指分流明确、文凭通道分立的三轨组织形态，有别于单一学校内部按科目分层的走班制，亦有别于面向全体适龄青少年的无分流[[Gesamtschule|综合中学]]。
 
 > [!citation-card] 格鲁伯论德国综合中学作为政治禁忌
 > 无论这些变革在未来被证明会产生多么深远的影响，在可预见的时期内，综合中学（Gesamtschule）在德国教育[[Discourse|话语]]中仍将保持为‘巨大的政治禁忌’。[[Argument_Ertl_2006_ORE|(Ertl, 2006, p. 631)]]
@@ -122,7 +124,7 @@ updated: 2026-11-21
 ---
 
 > [!concept-proposition] 命题三｜三轨学制初中后的制度化通透通道能够中和早期分流的长期因果惩罚
-> **学制通透性对早期错配的制度纠偏** 探讨三轨学制在初中阶段高度刚性锁定的同时，如何在中后期通过分流立交桥与应用型升学轨道抹平初始选拔偏差。
+> **[[Educational Permeability|学制通透性]]对早期错配的制度纠偏** 探讨三轨学制在初中阶段高度刚性锁定的同时，如何在中后期通过分流立交桥与应用型升学轨道抹平初始选拔偏差。
 
 > [!claim] Dustmann, C.; Puhani, P. A.; Schönberg, U.
 > **初中后双向流动与长期因果惩罚消除** 德国三轨学制在 10 岁分流时虽受出生月份与相对年龄外生驱动，造成初中阶段高度环境锁定（各轨同伴学力落差超 1 个标准差，年均跨轨率仅约 2%）；但在初中毕业后，学制通过专科高级中学（Fachoberschule）等通道为实科中学等非学术轨学生提供了系统的补救升学立交桥，到 22 岁时大学准入资格差异完全归零（-0.001），且对 30 岁以上成人经验校正对数日薪（-0.0010 至 0.0003）及就业稳定性均无显著因果影响，证实三轨学制的长期福利成本取决于初中后的转轨通透性而非单一的分流年龄。[[Argument_Dustmann_2017_EconJ|(Dustmann et al., 2017, pp. 1348–1352, 1373–1376)]]
@@ -142,7 +144,7 @@ updated: 2026-11-21
 > - **19 世纪中叶 — 德意志分轨学制成型** 普鲁士确立以古典文理中学、实科中学与国民学校为核心的多轨分流传统。
 > - **1960–1970 年代 — 综合教育争论与体制固化** 德国社会民主党倡导推行全德综合中学，但遭遇各州文化主权与保守派的强烈抵制，三轨学制最终被制度化固化。
 > - **2001–2006 年 — PISA 震荡与学制禁忌** PISA 2000 数据揭示三轨制极高的社会选择性，但政界选择引入国家标准与外部质量控制，将取消三轨分流定性为政治禁忌。[[Argument_Ertl_2006_ORE|(Ertl, 2006, pp. 620–621, 631)]]
-> - **2017 — 早期分轨长期因果效应识别与通透性评估框架** Dustmann et al. 利用断点回归设计（RDD）证实，三轨制初中后的逆向转轨消解了 10 岁早期分选对边缘学生成人日薪与学历的长期惩罚，确立了将中后期学制通透性作为评估三轨制优劣的核心维度。[[Argument_Dustmann_2017_EconJ|(Dustmann et al., 2017)]]
+> - **2017 — 早期分轨长期因果效应识别与通透性评估框架** Dustmann et al. 利用[[Regression Discontinuity Design|断点回归设计]]（RDD）证实，三轨制初中后的逆向转轨消解了 10 岁早期分选对边缘学生成人日薪与学历的长期惩罚，确立了将中后期学制通透性作为评估三轨制优劣的核心维度。[[Argument_Dustmann_2017_EconJ|(Dustmann et al., 2017)]]
 
 ---
 

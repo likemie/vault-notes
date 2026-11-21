@@ -12,7 +12,7 @@ subtype: policy
 region: finland
 fact_region: "finland"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_instruments: []
 related_persons:
   - "[[Pasi Sahlberg]]"
 related_facts:
+  - "[[Gesamtschule]]"
   - "[[1968 School Systems Act in Finland]]"
   - "[[Framework Curriculum 1994]]"
   - "[[Finnish National Core Curriculum]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-08
-updated: 2026-11-11
+updated: 2026-11-21
 ---
 
 ---
@@ -51,7 +52,7 @@ updated: 2026-11-11
 > [!policy-context] 政策背景
 > - **发布时间 / 实施主体** 芬兰议会于 1998 年 8 月通过《基础教育法》（Perusopetuslaki 628/1998），1999 年 1 月 1 日起正式生效实施。
 > - **适用地区 / 对象** 芬兰全国 7 至 16 岁处于九年义务教育阶段的全体适龄学童，以及举办基础教育的各地方市镇（Municipalities）。
-> - **问题背景** 1970 年代建立的综合学校在法律上仍保留 1–6 年级（Ala-aste）与 7–9 年级（Yläaste）的二元行政区隔与不同教师薪级待遇；1990 年代激进的分权改革需要将分散的行政指令整合成系统性法律规范。
+> - **问题背景** 1970 年代建立的[[Gesamtschule|综合学校]]在法律上仍保留 1–6 年级（Ala-aste）与 7–9 年级（Yläaste）的二元行政区隔与不同教师薪级待遇；1990 年代激进的分权改革需要将分散的行政指令整合成系统性法律规范。
 > - **制度位置** 废止了《1968年基础学校制度法案》及旧国民学校与初中法规，成为芬兰基础教育制度的现行基本法。
 
 ---

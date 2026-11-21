@@ -11,7 +11,7 @@ subtype: policy
 region: finland
 fact_region: "finland"
 fact_kind: "policy"
-fact_related_count: 33
+fact_related_count: 34
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -49,6 +49,7 @@ related_methods:
   - "[[Bibliometric Analysis]]"
 related_facts:
   - "[[Finnish National Board of Education]]"
+  - "[[Gesamtschule]]"
   - "[[OECD]]"
   - "[[EU]]"
   - "[[PISA]]"
@@ -64,14 +65,14 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-06
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 ---
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 芬兰政府于 2012 年底通过第 422/2012 号政府法令（Decree 422/2012）确立总目标与课时分配标准；芬兰国家教育署（[[Finnish National Board of Education|Opetushallitus]], EDUFI）于 2014 年底正式发布基础教育国家核心课程大纲（Perusopetuksen opetussuunnitelman perusteet, POPS 2014），2016 年秋季学期起在全国中小学实施。[[Argument_Schaffar_2024_CogentEdu|(Schaffar & Wolff, 2024, p. 2)]]; [[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 534–535)]]
-> - **适用地区 / 对象** 覆盖芬兰全境 1 至 9 年级九年制综合学校（peruskoulu）全体师生。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 534)]]
+> - **适用地区 / 对象** 覆盖芬兰全境 1 至 9 年级九年制[[Gesamtschule|综合学校]]（peruskoulu）全体师生。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 534)]]
 > - **历史文化与思想脉络** 改革立足两条历史脉络：其一是芬兰教育长期传承的教化（[[Bildung]]）、教学论（[[Didaktik]]）、[[Phenomenology|现象学]]（[[Phenomenology]]）与[[Radical Constructivism|激进建构主义]]（[[Radical Constructivism]]）哲学；其二是 1990 年代经济危机后融入[[OECD|经合组织]]（[[OECD]]）与[[EU|欧盟]]（[[EU]]）关于信息社会、[[21st Century Skills and Competencies Discourse|核心素养]]、横向能力与经济[[Competitiveness|竞争力]]的政策叙事。[[Argument_Schaffar_2024_CogentEdu|(Schaffar & Wolff, 2024, pp. 2, 8–9)]]
 > - **制度位置与国际声誉** 芬兰在 2000 年代因 [[PISA]] 国际测评盛誉成为全球教育典范，国内课程改革常以“保持领先”“让最好变得更好”的[[Discourse|话语]]包装，将横向能力与[[Phenomenon-Based Learning|现象本位学习]]（[[Phenomenon-Based Learning|PhBL]]）作为维系芬兰模式国际声誉的战略载体。[[Argument_Schaffar_2024_CogentEdu|(Schaffar & Wolff, 2024, pp. 8–9)]]; [[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 535, 540)]]
 

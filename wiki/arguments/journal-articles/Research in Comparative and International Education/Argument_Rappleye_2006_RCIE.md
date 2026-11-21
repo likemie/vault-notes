@@ -9,9 +9,9 @@ title: "Argument_Rappleye_2006_RCIE"
 argument_key: "Argument_Rappleye_2006_RCIE"
 argument_display_title: "Theorizing educational transfer: Toward a conceptual map of the context of cross-national attraction"
 argument_kind: "journal-article"
-argument_related_count: 28
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 30
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: Research in Comparative and International Education
 citation: "Rappleye, J. (2006). Theorizing educational transfer: Toward a conceptual map of the context of cross-national attraction. Research in Comparative and International Education, 1(3), 223–240."
@@ -47,8 +47,10 @@ related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
   - "[[Sputnik Shock 1957]]"
+  - "[[What Ivan Knows That Johnny Doesn't 1961]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[Education for All]]"
+  - "[[Realschule]]"
   - "[[Civil Service Examination]]"
   - "[[Late Qing Borrowing of Japanese Education]]"
   - "[[A Nation at Risk 1983]]"
@@ -60,7 +62,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-06'
-updated: 2026-10-30
+updated: 2026-11-21
 year: 2006
 doi: ""
 citation_aliases:
@@ -194,7 +196,7 @@ citation_aliases:
 > 两层之间的箭头指向外化过程：改革行动者从结构推力中选择性地援引证据来"包装"改革方案。
 >
 > > [!example] [[Sputnik Shock 1957\|Sputnik]] 卫星与话语转移
-> > 1957 年苏联发射 Sputnik 卫星后，美国出现了大量将苏联教育与美国教育对比的书籍，如《What Ivan Knows that Johnny Doesn't》(Trace, 1961)。Sputnik 是一个结构推力（技术竞争），Trace 的书是一个外化动作——用苏联这个外国范例来"危机化"（scandalize）美国教育的现状。值得注意的是，美国从未从苏联"借用"任何实质性的教育政策——但这本书仍然成功地推动了美国的教育改革讨论。这就是话语转移的典型运作方式。
+> > 1957 年苏联发射 Sputnik 卫星后，美国出现了大量将苏联教育与美国教育对比的书籍，如《[[What Ivan Knows That Johnny Doesn't 1961|What Ivan Knows that Johnny Doesn't]]》(Trace, 1961)。Sputnik 是一个结构推力（技术竞争），Trace 的书是一个外化动作——用苏联这个外国范例来"危机化"（scandalize）美国教育的现状。值得注意的是，美国从未从苏联"借用"任何实质性的教育政策——但这本书仍然成功地推动了美国的教育改革讨论。这就是话语转移的典型运作方式。
 >
 > ---
 >
@@ -222,7 +224,7 @@ citation_aliases:
 >
 > ---
 >
-> 4. **内部满意。** 对教育现状的广泛支持构成对改革的抵制。德国 Gymnasium（文理中学）和 Realschule（实科中学）在 PISA 冲击前的声望正是这种情况：公众认为这个三轨制体系运作良好，不需要改变。
+> 4. **内部满意。** 对教育现状的广泛支持构成对改革的抵制。德国 Gymnasium（文理中学）和 [[Realschule]]（实科中学）在 PISA 冲击前的声望正是这种情况：公众认为这个三轨制体系运作良好，不需要改变。
 >
 > 5. **历史、传统与文化的神话（myths of history, tradition, and culture）。** 这是地图最具挑衅性的概念。Holmes (1981) 曾提出"抵制的力量"（forces of reaction）依托于三种"神话"：社会、历史和传统。论证用"文化"替换了"社会"，因为文化已成为近年比较教育领域的核心概念。关键洞察是：历史、传统和文化固然有真实的"更广阔世界"后果——德国的三轨制确实有深厚的历史根基——但在教育改革辩论中，这些高度可塑的概念往往被锻造成武器，来抵制变革。Holmes 称为"抵制的力量"，论证将其重新框定为"停滞的修辞"（rhetoric of stasis）。
 >

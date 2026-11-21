@@ -77,6 +77,8 @@ related_facts:
   - "[[Comparative and International Education Society]]"
   - "[[IEA]]"
   - "[[Recent Curriculum Developments in France, West Germany and Italy 1969]]"
+  - "[[Gesamtschule]]"
+  - "[[Realschule]]"
   - "[[Grammar School]]"
   - "[[Max Planck Institute for Human Development]]"
   - "[[International Institute for Educational Planning]]"
@@ -91,14 +93,14 @@ sources:
 part_of:
 status: draft
 created: 2026-11-19
-updated: 2026-11-20
+updated: 2026-11-21
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Silova_2009_EE"
 argument_key: "Argument_Silova_2009_EE"
 argument_display_title: "The changing frontiers of comparative education: A forty-year retrospective on European Education"
 argument_kind: "journal-article"
-argument_related_count: 61
+argument_related_count: 63
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -243,8 +245,8 @@ issuing_organization: ""
 > [!row-contrast] 1969 年创刊号五国中等教育课程改革多案例比较架构
 > | 案例国家 | 战后社会背景与改革目标 | 办学体制结构调整 | 追踪分流与选拔机制 | 横向比较综合发现 |
 > |:---|:---|:---|:---|:---|
-> | **瑞典** | 战后社会民主福利体制确立，致力于消除阶级壁垒与教育机会不平等。 | 确立九年一贯制基础学校（Grundskola），打破传统双轨制学校区隔。 | 推迟学术流派与职业流派的分流节点，实行全面包容性[[Comprehensive Education\|综合教育]]。 | 展现出最激进的综合学校改革力度，为全欧中等教育机会普及树立典范。 |
-> | **西德** | 战后重建与各州文化主权自治，面临传统三轨制现代化的社会争议。 | 保留文法中学（Gymnasium）、实科中学与主要学校的三轨传统，试点综合学校（Gesamtschule）。 | 在严格早期分流的传统框架下，尝试通过课程选修与渗透机制增加轨际流动通道。 | 凸显了联邦制分权背景下传统精英学术主义对综合化改革的制度阻力与调和。 |
+> | **瑞典** | 战后社会民主福利体制确立，致力于消除阶级壁垒与教育机会不平等。 | 确立九年一贯制基础学校（Grundskola），打破传统双轨制学校区隔。 | 推迟学术流派与职业流派的分流节点，实行全面包容性[[Comprehensive Education\|综合教育]]。 | 展现出最激进的[[Gesamtschule\|综合学校]]改革力度，为全欧中等教育机会普及树立典范。 |
+> | **西德** | 战后重建与各州文化主权自治，面临传统三轨制现代化的社会争议。 | 保留文法中学（Gymnasium）、[[Realschule\|实科中学]]与主要学校的三轨传统，试点综合学校（Gesamtschule）。 | 在严格早期分流的传统框架下，尝试通过课程选修与渗透机制增加轨际流动通道。 | 凸显了联邦制分权背景下传统精英学术主义对综合化改革的制度阻力与调和。 |
 > | **英国** | 落实《1944年教育法》，应对 11 岁考试（11-plus）引发的社会阶层固化危机。 | 推进综合中学（Comprehensive School）建设，逐步取代传统[[Grammar School\|文法学校]]与现代中学双轨制。 | 废除 11 岁决定性考试分流，代之以校内按[[Tracking\|能力分组]]教学与宽口径核心课程。 | 反映出中央政策指令与地方教育当局（Local Education Authorities, LEAs）在消除早期分流选拔中的博弈。 |
 > | **法国** | 戴高乐时期推进国家现代化与工业化技术人才储备，破除中等教育精英垄断。 | 设立统一初中（Collège d'enseignement secondaire, CES），构建观察与定向阶段。 | 设置为期两年的观察期，依据学生发展潜质实行渐进式职业与学术分流。 | 展现了中央集权国家运用行政规程与标准化国家课程推进机会均等的理性治理。 |
 > | **意大利** | 摆脱战后法西斯教育遗毒，解决南部与北部经济文化发展严重失衡矛盾。 | 1962 年立法创立统一初级中学（Scuola Media Unica），实行初中阶段免费义务教育。 | 废除传统升学与就业预备轨道的预先选拔，统一设置通识人文与科学必修科目。 | 表明即使在经济欠发达的南部农业区域，国家亦通过制度整合打破阶层再生产。 |

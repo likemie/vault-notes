@@ -11,7 +11,7 @@ subtype: program
 region: germany
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 36
+fact_related_count: 38
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -59,6 +59,8 @@ related_facts:
   - "[[TIMSS]]"
   - "[[PISA]]"
   - "[[Federal Ministry of Education and Research]]"
+  - "[[Realschule]]"
+  - "[[Gesamtschule]]"
   - "[[German State Educational Institutes and Quality Agencies]]"
   - "[[Clearing House Unterricht]]"
   - "[[Forschungsmonitor Schule]]"
@@ -77,7 +79,7 @@ updated: 2026-11-21
 ---
 
 > [!claim] 项目定位
-> “提高数理教学效率联合改革试验”（Steigerung der Effizienz des mathematisch-naturwissenschaftlichen Unterrichts, SINUS）是由德国[[Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung|联邦与各州教育规划与科研促进委员会]]（BLK）于 1998 年设立的国家级大型教学改革与转移试验项目。该项目直面德国在 1997 年第三次国际数学与科学研测（[[TIMSS]]）及后续 [[PISA]] 中暴露的理科素养低迷危机，依托基尔大学莱布尼茨科学与数学教育研究所（IPN）统筹学术研发，开创了通过跨校[[Teacher Collaboration|教师协作]]网络与校本模块化实践推动学科教学改进的新[[Paradigm|范式]]。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, pp. 9, 11)]]
+> “提高数理教学效率联合改革试验”（Steigerung der Effizienz des mathematisch-naturwissenschaftlichen Unterrichts, SINUS）是由德国[[Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung|联邦与各州教育规划与科研促进委员会]]（BLK）于 1998 年设立的国家级大型教学改革与转移试验项目。该项目直面德国在 1997 年第三次国际数学与科学研测（[[TIMSS]]）及后续 [[PISA]] 中暴露的理科素养低迷危机，依托基尔大学[[Gottfried Wilhelm Leibniz|莱布尼茨]]科学与数学教育研究所（IPN）统筹学术研发，开创了通过跨校[[Teacher Collaboration|教师协作]]网络与校本模块化实践推动学科教学改进的新[[Paradigm|范式]]。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, pp. 9, 11)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1998 年正式立项启动先导试验（1998–2003 年）；因成效显著，随后扩展为面向全德的规模化推广计划“SINUS-Transfer”（2003–2007 年），并进一步延伸至小学阶段（2009–2013 年）。
@@ -92,7 +94,7 @@ updated: 2026-11-21
 
 > [!policy-design] 方案设计
 > - **项目目标** 提升中小学数理教学效率与学生[[Higher-Order Thinking Skills|高阶思维]]，培育以问题为导向、接纳错误与注重探究的新型课堂教学文化。
-> - **覆盖对象** 全德文理中学、实科中学与综合中学的数学、物理、化学、生物任课教师与受试学生。
+> - **覆盖对象** 全德文理中学、[[Realschule|实科中学]]与[[Gesamtschule|综合中学]]的数学、物理、化学、生物任课教师与受试学生。
 > - **十一大教学发展模块（Elf Module）** 项目提炼出 11 个具有明确认知心理学与教学论支撑的主题模块，包括：题目文化的重塑（Aufgabenkultur）、以错误为契机的反馈文化（Fehlerkultur）、自主探究与[[Metacognition|元认知]]学习（Selbstbestimmtes Lernen）、跨学科实践与实验探究（Forschendes Lernen）、认知激活与差[[Alienation|异化]]分层教学（Differenzierung）等。各校可根据自身校情灵活选取 2–3 个模块作为阶段攻坚焦点。
 > - **跨校教研网络（Schulnetzwerke）** 打破单体学校孤立状态，由地理位置相邻的 2–4 所学校结成基层教研联合体（Set）。每个联合体由学科教研组长和骨干教师组成，定期展开协同备课、互访听课与案例剖析。
 > - **区域协调员与专业支架** 设立区域教研协调员，由各州立研训与质量机构（[[German State Educational Institutes and Quality Agencies|Landesinstitute]]）会同大学学科专家，为协调员提供常态化的理论研修与咨询支架。

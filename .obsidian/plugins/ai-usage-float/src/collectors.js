@@ -292,7 +292,15 @@ async function localAntigravity(pid, signal) {
     const first = (await loopback(port, csrf, "GetUserStatus", signal))?.userStatus;
     const email = text(first?.email);
     if (!email) throw new SourceError("auth", "请在 Antigravity 桌面端登录。");
-    const payload = await loopback(port, csrf, "RetrieveUserQuotaSummary", signal);
+    let windows = [];
+    let error;
+    try {
+      const payload = await loopback(port, csrf, "RetrieveUserQuotaSummary", signal);
+      windows = requireReading(antiWindows(payload));
+    } catch (failure) {
+      signal.throwIfAborted();
+      error = issue(failure);
+    }
     const current = (await loopback(port, csrf, "GetUserStatus", signal))?.userStatus;
     if (text(current?.email).toLowerCase() !== email.toLowerCase()) {
       throw new SourceError("offline", "检测到账号切换，请重新刷新。");
@@ -300,12 +308,12 @@ async function localAntigravity(pid, signal) {
     const profileName = [current.displayName, current.name, current.userName,
       [text(current.firstName), text(current.lastName)].filter(Boolean).join(" ")]
       .map(antigravityProfileName).find(Boolean);
-    return row("antigravity", requireReading(antiWindows(payload)), {
-      id: accountId(email), label: "桌面账号", profileName, plan: text(current.userTier?.name),
+    return row("antigravity", windows, {
+      id: accountId(email), label: "桌面账号", profileName, plan: text(current.userTier?.name), error,
     });
   }));
-  const success = answers.find(answer => answer.status === "fulfilled");
-  if (success) return success.value;
+  const verified = answers.flatMap(answer => answer.status === "fulfilled" ? [answer.value] : []);
+  if (verified.length) return verified.find(account => !account.issue) ?? verified[0];
   const fault = answers.find(answer => answer.status === "rejected" && answer.reason instanceof SourceError);
   throw fault?.reason ?? new SourceError("offline", "无法读取 Antigravity 桌面端额度。");
 }
@@ -393,7 +401,11 @@ async function antigravity(signal, previous, onlyId) {
     problem = issue(error);
   }
   signal.throwIfAborted();
-  const byId = new Map(live.map(account => [account.id, account]));
+  const byId = new Map();
+  for (const account of live) {
+    if (!byId.has(account.id) || !account.issue) byId.set(account.id, account);
+  }
+  const currentId = byId.size === 1 ? live[0].id : null;
   if (!live.length) {
     for (const saved of previous.filter(account => account.source === PROVIDERS.antigravity.source && account.windows.length)) {
       byId.set(saved.id, {
@@ -416,16 +428,20 @@ async function antigravity(signal, previous, onlyId) {
       });
     }
   }
-  const rows = [...byId.values()];
   if (onlyId) {
-    const selected = byId.get(onlyId);
-    if (selected) return [selected];
-    throw new SourceError("offline", "无法刷新此账号，当前登录可能已切换。");
+    const selected = byId.get(onlyId) ?? {
+      ...(previous.find(account => account.id === onlyId) ?? row("antigravity", [], { id: onlyId })),
+      issue: { status: "offline", message: "无法刷新此账号，当前登录可能已切换。" },
+    };
+    return { rows: [selected], currentId };
   }
-  if (rows.length) return rows;
-  return [row("antigravity", [], { error: problem ?? {
-    status: "offline", message: "打开并登录 Antigravity 桌面端，或在 Antigravity Tools 中刷新已登记账号。",
-  } })];
+  const rows = [...byId.values()];
+  if (!rows.length) {
+    rows.push(row("antigravity", [], { error: problem ?? {
+      status: "offline", message: "打开并登录 Antigravity 桌面端，或在 Antigravity Tools 中刷新已登记账号。",
+    } }));
+  }
+  return { rows, currentId };
 }
 
 async function claude(signal) {

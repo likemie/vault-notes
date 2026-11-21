@@ -13,7 +13,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 21
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[The Sublime]]"
   - "[[Document]]"
   - "[[Primary and Secondary Documents]]"
+  - "[[Aesthetic Education]]"
   - "[[Recontextualization]]"
 related_theories: []
 related_methods: []
@@ -51,13 +52,14 @@ related_facts:
   - "[[Guizot Law of 1833]]"
   - "[[Common School Movement]]"
   - "[[Report on the State of Public Instruction in Prussia]]"
+  - "[[Integrated Programme]]"
   - "[[Prussian Draft Education Law of 1819]]"
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-11-14
+updated: 2026-11-21
 ---
 
 ---
@@ -146,7 +148,7 @@ updated: 2026-11-14
 > > - **现代主义国家行政派（Cousin; Guizot）** 高度赞扬聚芬既维持了宗教道德在公学中的基石地位，又确立了世俗国家凌驾于宗教宗派之上的终极规训主权，是实现国家现代化的必由之路。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 26–28)]]
 >
 > > [!axis] 新人文主义教化理想 vs 阶层分流的双轨结构固化
-> > - **新人文主义辩护者** 指出聚芬在初小与市民学校均设置了德语、科学、数学与美育等综合课程，体现了面向平民的启智诚意。
+> > - **新人文主义辩护者** 指出聚芬在初小与市民学校均设置了德语、科学、数学与[[Aesthetic Education|美育]]等[[Integrated Programme|综合课程]]，体现了面向平民的启智诚意。
 > > - **批判社会史学者** 指出聚芬草案法定了初等小学（面向平民劳动阶层）与市民学校/文法中学（面向中产与贵族精英）的垂直分割，构成了近代欧陆[[Dual School System\|双轨学制]]的制度原型，实质上以国家法律形式锁定了阶级再生产结构。
 
 > [!warning] 适用边界

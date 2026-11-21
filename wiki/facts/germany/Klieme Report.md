@@ -12,7 +12,7 @@ subtype: policy
 region: germany
 fact_region: "germany"
 fact_kind: "policy"
-fact_related_count: 30
+fact_related_count: 35
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -31,13 +31,16 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Paradigm]]"
   - "[[Center of Calculation]]"
+  - "[[Total War]]"
   - "[[Alienation]]"
   - "[[Individualised Instruction]]"
   - "[[Output-Oriented Governance]]"
   - "[[Topological Spatialisation]]"
   - "[[Data Infrastructure]]"
+  - "[[Tracking]]"
   - "[[PISA Shock]]"
   - "[[PISA Effect]]"
+  - "[[Tripartite School System]]"
 related_theories: []
 related_methods:
   - "[[Item Response Theory]]"
@@ -54,13 +57,15 @@ related_facts:
   - "[[Vergleichsarbeiten]]"
   - "[[TIMSS]]"
   - "[[IQB-Bildungstrend]]"
+  - "[[Hauptschule]]"
+  - "[[Realschule]]"
   - "[[PISA Shock in Germany]]"
 related_arguments:
-  - "[[Argument_Altrichter_2019_ZfB]]"
-  - "[[Argument_Ertl_2006_ORE]]"
-  - "[[Argument_Hartong_2018_GSE]]"
   - "[[Argument_Niemann_Martens_2018_GSP]]"
+  - "[[Argument_Hartong_2018_GSE]]"
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
+  - "[[Argument_Ertl_2006_ORE]]"
+  - "[[Argument_Altrichter_2019_ZfB]]"
 confidence: high
 status: completed
 created: 2026-10-27
@@ -98,7 +103,7 @@ updated: 2026-11-21
 > - **2003-02 — 报告正式发布确立胜任力框架** 专家组正式提交《论国家教育标准的发展：一项专业论证报告》（Klieme-Expertise），系统提出胜任力构念模型、标准层级划分以及全国集中监测的技术路线图。
 > - **2003-07/12 — KMK 全票通过首批国家标准** KMK 以克利姆报告为概念基准，全票通过初中阶段德语、数学和第一外语的国家教育标准，并一致决议在 2004–2005 学年全德统一执行。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021)]]
 > - **2004 — 创设国家[[Center of Calculation|计算中心]] IQB** 依据克利姆报告关于设立独立技术机构的建议，KMK 在柏林洪堡大学联合创立柏林教育质量发展研究所（[[Institute for Educational Quality Improvement|IQB]]），作为全德统筹标准命题、题库校准与跨州趋势监测的中枢计算中心。[[Argument_Hartong_2018_GSE|(Hartong, 2018)]]
-> - **2006 — 《国家教育监测总体战略》全面确立** KMK 整合克利姆报告的各项构想，正式出台总体战略，确立国际测评（PISA/[[TIMSS]]）、跨州趋势测试（[[IQB-Bildungstrend]]）、全德校际比较（[[Vergleichsarbeiten|VERA]]）与国家教育报告四大支柱，完成德国教育治理的现代化转型。
+> - **2006 — 《国家教育监测[[Total War|总体战]]略》全面确立** KMK 整合克利姆报告的各项构想，正式出台总体战略，确立国际测评（PISA/[[TIMSS]]）、跨州趋势测试（[[IQB-Bildungstrend]]）、全德校际比较（[[Vergleichsarbeiten|VERA]]）与国家教育报告四大支柱，完成德国教育治理的现代化转型。
 
 ---
 
@@ -123,7 +128,7 @@ updated: 2026-11-21
 > - **实现治理范式历史性翻转** 终结了德国教育界长期偏重行政教学大纲（Lehrpläne）的输入控制惯性，开启了基于证据的产出监测（[[Output-Oriented Governance|Output-Orientierung]]）时代。
 > - **确立经验实证教育科学的主导地位** 推动德国教育学界整体完成了从思辨哲学向经验实证研究（Empirische Bildungsforschung）的体制转移，实证专家网络成为国家教育决策的核心智囊。
 > - **构建[[Topological Spatialisation|拓扑空间化]]新型规训体系** 在严格恪守宪法禁止公开学校排名的法律底线下，依托克利姆报告构想的 IQB [[Data Infrastructure|数据基础设施]]，在微观学校现场与宏观国家标准之间架设了远距离的隐蔽监控回路。[[Argument_Hartong_2018_GSE|(Hartong, 2018)]]
-> - **技术标准与三轨分流禁忌的政治共谋** 克利姆报告聚焦于主要中学与实科中学的胜任力层级研发，刻意回避对文法中学及早期分轨制结构的制度反思，使技术标准的引入兼顾了各派政治势力维持三轨体系不变的政治共识（[[Argument_Ertl_2006_ORE|Ertl, 2006, pp. 625–626]]）。
+> - **技术标准与三轨分流禁忌的政治共谋** 克利姆报告聚焦于[[Hauptschule|主要中学]]与[[Realschule|实科中学]]的胜任力层级研发，刻意回避对文法中学及早期[[Tracking|分轨制]]结构的制度反思，使技术标准的引入兼顾了各派政治势力维持三轨体系不变的政治共识（[[Argument_Ertl_2006_ORE|Ertl, 2006, pp. 625–626]]）。
 
 ---
 
@@ -141,7 +146,7 @@ updated: 2026-11-21
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 分析克利姆报告确立的国家教育标准定义及其在各州落地中的大纲重构困境，揭示回避三轨学制分流改革的政治妥协（pp. 623–628）。
+> - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 分析克利姆报告确立的国家教育标准定义及其在各州落地中的大纲重构困境，揭示回避[[Tripartite School System|三轨学制]]分流改革的政治妥协（pp. 623–628）。
 > - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 详述德国在经历 PISA 震荡后如何依据克利姆报告制定全德统一教育标准并重构国家教育体系。
 > - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 分析经合组织硬事实如何打破德国多层否决点，促使克利姆报告被迅速转化为全德统一标准。
 > - [[Argument_Hartong_2018_GSE|Hartong (2018)]] — 深入追踪以克利姆报告为技术起点的国家计算中心（IQB）与跨尺度数据基础设施建设。

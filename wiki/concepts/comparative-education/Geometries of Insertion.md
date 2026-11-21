@@ -6,7 +6,7 @@ aliases:
 summary: "Robert Cowen（2009）提出的理论关切，指将“情境”驯服为可操作变量后，用于分析将一处所造的思想与实践精确植入另一处的嵌入几何学，并对这种社会克隆技术提出政治、伦理与长时段后果的拷问"
 type: concept
 domain: "comparative-education"
-related_count: 20
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Praxis]]"
   - "[[Operationalization]]"
+  - "[[Instrumental Rationality]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Epistemology]]"
   - "[[Educational Immunology]]"
@@ -35,7 +36,10 @@ related_methods: []
 related_persons:
   - "[[Robert Cowen]]"
   - "[[John Dewey]]"
-related_facts: []
+related_facts:
+  - "[[Gesamtschule]]"
+  - "[[Realschule]]"
+  - "[[Hauptschule]]"
 related_arguments:
   - "[[Argument_Cowen_2009_CE]]"
   - "[[Argument_Zhou_2024_CE]]"
@@ -43,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-06
-updated: 2026-11-15
+updated: 2026-11-21
 ---
 
 ---
@@ -71,7 +75,7 @@ updated: 2026-11-15
 > | **核心追问** | 完美移植的可能性及其政治、伦理、长时段后果。 | 外来政策在本土的应用成败与即时效率。 | 特定国家教育的独特历史文化底蕴与外在因素。 |
 
 > [!boundary]- 概念边界：嵌入几何学与 3T 及[[Shape-Shifting\|形变]]的关系
-> - **与 [[Shape-Shifting\|形变]] 相互呼应** 形变是描述性的，聚焦于教育现象在移动中核心配置发生了什么变化；嵌入几何学是规范性与工具理性的，探究“如果能够系统控制并预测这些形变，应当如何实施嵌入”。
+> - **与 [[Shape-Shifting\|形变]] 相互呼应** 形变是描述性的，聚焦于教育现象在移动中核心配置发生了什么变化；嵌入几何学是规范性与[[Instrumental Rationality|工具理性]]的，探究“如果能够系统控制并预测这些形变，应当如何实施嵌入”。
 > - **与 [[Transfer Translation Transformation\|3T 框架]] 互为表里** 3T 框架是嵌入几何学得以成立的解剖工具。只有将移动分解为空间转移、文本转译、权力转化三个清晰阶段，情境才可能被拆解为可操作的参数，进而实现精确的几何嵌入。
 
 ---
@@ -90,7 +94,7 @@ updated: 2026-11-15
 ---
 
 > [!case] 案例一：强制性几何嵌入（战后德日的不同抗性）
-> 二战后，盟国占领当局在德、日推行了几乎平行的教育民主化蓝图。在美国占领下的日本，驻日盟军总司令部（General Headquarters of the Allied Powers，GHQ）强推美式单轨制（6-3-3-4 学制）以废除战前军国主义复轨体制，虽然该学制外在结构被完整保留，但被本土极其残酷的升学[[Examination Hell\|考试地狱]]（Examination Hell）与大学声望层级彻底拉长[[Shape-Shifting\|形变]]，[[Alienation|异化]]为服务于阶级筛选的分流工具。而在德国，美占德国军事政府（Office of Military Government, United States，OMGUS）强推综合中学（Einheitsschule）以瓦解传统阶级分化，但遭到保守教育精英和地方各州（Länder）政府的联合抵制，在长时段博弈中彻底灭绝了美式综合中学，强力保留了文科中学（Gymnasium）、实科中学（Realschule）和主体中学（Hauptschule）的欧式传统三轨制。相同的转移输入在不同接受国演化出截然相反的制度形状（p. 323）。
+> 二战后，盟国占领当局在德、日推行了几乎平行的教育民主化蓝图。在美国占领下的日本，驻日盟军总司令部（General Headquarters of the Allied Powers，GHQ）强推美式单轨制（6-3-3-4 学制）以废除战前军国主义复轨体制，虽然该学制外在结构被完整保留，但被本土极其残酷的升学[[Examination Hell\|考试地狱]]（Examination Hell）与大学声望层级彻底拉长[[Shape-Shifting\|形变]]，[[Alienation|异化]]为服务于阶级筛选的分流工具。而在德国，美占德国军事政府（Office of Military Government, United States，OMGUS）强推[[Gesamtschule|综合中学]]（Einheitsschule）以瓦解传统阶级分化，但遭到保守教育精英和地方各州（Länder）政府的联合抵制，在长时段博弈中彻底灭绝了美式综合中学，强力保留了文科中学（Gymnasium）、[[Realschule|实科中学]]（Realschule）和主体中学（[[Hauptschule]]）的欧式传统三轨制。相同的转移输入在不同接受国演化出截然相反的制度形状（p. 323）。
 
 > [!case] 案例二：同化性几何嵌入（大英自治领的社会再发明）
 > 19世纪加拿大上加拿大的教育局长赖森（Egerton Ryerson）等人，为了在新土地上发明社会秩序，主动引入大英帝国的学校几何。他们依靠完全平移的母国教科书、考试体制和[[Normal School\|师范学校]]，企图以极高精度复制英格兰的阶级阶层理念与道德纪律。这种嵌入几何旨在通过教育的物理性同化，消除流民与异质人口的离心力，建立起服务于殖民统治与阶级控制的稳定秩序（p. 318）。

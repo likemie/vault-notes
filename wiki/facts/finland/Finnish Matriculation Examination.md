@@ -13,9 +13,9 @@ subtype: policy
 region: finland
 fact_region: "finland"
 fact_kind: "policy"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 11
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "芬兰国家大学入学统考委员会"
 tags:
@@ -26,6 +26,7 @@ tags:
   - region/finland
   - standardized-testing
 related_concepts:
+  - "[[Academisation]]"
   - "[[Academic Achievement]]"
   - "[[Phenomenon-Based Learning]]"
 related_theories: []
@@ -36,6 +37,7 @@ related_persons:
   - "[[Pasi Sahlberg]]"
   - "[[Gabriel Heller Sahlgren]]"
 related_facts:
+  - "[[Gesamtschule]]"
   - "[[Centralized Textbook Approval System in Finland]]"
   - "[[Comprehensive School Reform in Finland]]"
 related_arguments:
@@ -44,7 +46,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-08
-updated: 2026-11-11
+updated: 2026-11-21
 ---
 
 ---
@@ -77,7 +79,7 @@ updated: 2026-11-11
 > - **1852** 芬兰大公国确立帝国亚历山大大学入学考试规程，由大学教授亲自口试，奠定全国统考雏形。
 > - **1874** 考试全面向文理中学毕业生开放并转为笔试，逐步演变为全国公立中等教育结业标准。
 > - **1919** 设立独立的芬兰国家大学入学统考委员会，脱离单一大学直接管辖，成为面向国家全境的法定权威考核机构。
-> - **1970–1980** 伴随综合学校改革推进，统考体系顶住取消考试的压力，坚决保留高利害外部学术选拔属性。
+> - **1970–1980** 伴随[[Gesamtschule|综合学校]]改革推进，统考体系顶住取消考试的压力，坚决保留高利害外部学术选拔属性。
 > - **2006** 文理综合科目细化为独立分科测试，考生可自由选择物理、化学、生物、地理、历史、哲学等专科考试。
 > - **2016–2019** 全面推行“Digabi”数字化考试转型，全体考生使用基于定制 Linux 系统的加密专用终端完成全电子化答卷，成为全球最早实现高利害统考全面数字化的国家之一。
 
@@ -93,7 +95,7 @@ updated: 2026-11-11
 
 > [!finding-cards] 制度后果与学术评价
 > - **高中阶段的严格统考现实** 芬兰在普通高中阶段保留着高利害统考，以严谨的标准构成了全国基础学业质量的守门机制。
-> - **抑制基础教育标准滑坡** 外部高利害统考的存在，促使全社会、家长与初中教师持续重视数理逻辑与母语写作，对基础教育阶段抵御过度去学术化的教学试验构成了客观约束。
+> - **抑制基础教育标准滑坡** 外部高利害统考的存在，促使全社会、家长与初中教师持续重视数理逻辑与母语写作，对基础教育阶段抵御过度去[[Academisation|学术化]]的教学试验构成了客观约束。
 > - **加剧高中与职教分流竞争** 统考的高难度与大学录取挂钩，推动初中阶段升学竞争高度依赖平时[[Academic Achievement|GPA]]（Grade Point Average）绩点，致使普通高中与职业高中分流保持实质性的学术门槛。
 
 ---

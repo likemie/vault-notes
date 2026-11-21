@@ -45605,7 +45605,8 @@
       "doi": "",
       "isbn": "978-1-873927-24-3",
       "seen_in": [
-        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
+        "wiki/facts/germany/Gesamtschule.md"
       ],
       "title": "‘Das große Tabu’: some aspects of the extraordinary impact of the OECD’s PISA study on the German education system"
     },
@@ -50716,7 +50717,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
+        "wiki/facts/germany/KMK-Bildungsstandards.md"
       ],
       "title": "Schule im Jahr IV nach PISA. Ein 10-Punkte-Programm gegen illusionäre Bildungsstandards"
     },
@@ -58403,7 +58405,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
+        "wiki/facts/germany/KMK-Bildungsstandards.md"
       ],
       "title": "Bildungsstandards der Kultusministerkonferenz. Erläuterungen zur Konzeption und Entwicklung"
     },
@@ -105853,7 +105856,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
+        "wiki/facts/germany/KMK-Bildungsstandards.md"
       ],
       "title": "The competence clash—Dilemmata bei der Übertragung des Konzepts der nationalen Bildungsstandards auf die berufliche Bildung"
     },
@@ -115999,6 +116003,14 @@
         "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
       ],
       "title": "Berufsbildungsstatistik"
+    },
+    "Ulrich Herrmann, 2004": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/germany/KMK-Bildungsstandards.md"
+      ],
+      "title": ""
     },
     "Ulrich Pothast, 1982": {
       "doi": "",

@@ -44,9 +44,11 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Academic Freedom]]"
   - "[[Transnational Education]]"
+  - "[[Institutional Hybridity]]"
   - "[[Professional Capital]]"
   - "[[Soft Privatisation]]"
   - "[[Alienation]]"
+  - "[[Typicality]]"
 related_theories:
   - "[[Bacchi's WPR Approach]]"
   - "[[Governmentality]]"
@@ -72,6 +74,7 @@ related_facts:
   - "[[Omnia Education Partnerships]]"
   - "[[GATS and Trade in Education Services]]"
   - "[[PISA]]"
+  - "[[Gesamtschule]]"
   - "[[EU]]"
   - "[[Trade Union of Education in Finland]]"
 related_arguments: []
@@ -80,17 +83,17 @@ sources:
 part_of: ""
 status: completed
 created: 2026-11-08
-updated: 2026-11-15
+updated: 2026-11-21
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Kuortti_2025_JEdPolicy"
 argument_key: "Argument_Kuortti_2025_JEdPolicy"
 argument_display_title: "Repurposing public education: Governmental rationality of education export in Finland through public education problematisations"
 argument_kind: "journal-article"
-argument_related_count: 49
-argument_related_level: 4
-argument_related_stars: "💎⭐"
-argument_related_color: "#dbeafe"
+argument_related_count: 52
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 journal: Journal of Education Policy
 book_title: ""
 publication_place: ""
@@ -176,7 +179,7 @@ issuing_organization: ""
 > [!claim|step] 论证步骤一　官方借[[PISA|国际学生评估项目]]盛誉构建海外市场需求，将公立教育不营利定性为体制缺陷
 > 芬兰教育出口政策文献通过[[Policy Translation|政策转译]]机制，将海外对芬兰公立基础教育的参访考察兴趣直接等同于全球对芬兰教育产品的巨大商业需求；这种修辞将缺乏商业出口界定为公立教育系统的供给缺陷，为全面引入市场逻辑制造了正当性缺口。
 
-> [!sub-claim] 1. 官方借用综合学校的测评声誉，为大学收取[[Study Abroad|留学]]生学费提供正当性
+> [!sub-claim] 1. 官方借用[[Gesamtschule|综合学校]]的测评声誉，为大学收取[[Study Abroad|留学]]生学费提供正当性
 
 > [!phase] 芬兰教育出口话语与政策演进脉络（2005–2020）
 >
@@ -241,7 +244,7 @@ issuing_organization: ""
 > - **外围商业控股法人组建** 在此法律赋权下，埃斯波等地的公立职业教育联盟（如 [[Omnia Education Partnerships|Omnia]]）以及多所市镇联合学院纷纷设立专属的教育出口控股公司。
 > - **公共资产的商业化租赁** 公立学校的品牌、实训工坊、课程方案乃至正式编制教师，被这套外围私营法人按商业成本租赁使用。这种公办母体与商业外壳并行的双轨法人架构，模糊了公共事业与私人逐利的边界，使公共资产实质性演化为跨境商业经营的生产要素。
 
-> [!warrant]- 制度混杂化带来的治理风险
+> [!warrant]- [[Institutional Hybridity|制度混杂]]化带来的治理风险
 > - **双轨法人的道德掩护** 国家一方面在法律层面上维持了国内公立教育免费的道德底线，另一方面却在制度边缘开辟出合法的商业特区。
 > - **规避问责与资源倾斜** 公立机构以法人外壳规避了公共财政与劳工法规的严格问责，导致公共教育资源在促进出口的名义下向市场逐利倾斜，瓦解了公立体制原有的去商品化根基。
 
@@ -356,7 +359,7 @@ issuing_organization: ""
 > [!warning] 制度情境与研究边界
 > - **从业经验带来的观察偏误** 兼具公立高校教育出口实务与学术研究双重背景，虽能获得深入的内部观察视角，但也需要保持批判审视，警惕将日常商业实践思维带入文本解构。
 > - **文本表征与基层落地的距离** 分析聚焦于国家政策文本与战略话语的生成逻辑，尚未覆盖基层学校与课堂一线的微观实践；教职人员在实际面对出口创收指标时展现出的变通、适应或抵制策略，仍有待微观学校[[Fieldwork|田野研究]]补充。
-> - **福利国家制度土壤的特殊性** 结论基于芬兰从战后福利国家向竞争国家转型的制度背景，教育出口政策对公立教育体系的商业化改造逻辑向非高福利或非高声誉国家迁移时，须考量具体的制度差异。
+> - **福利国家制度土壤的[[Typicality|特殊性]]** 结论基于芬兰从战后福利国家向竞争国家转型的制度背景，教育出口政策对公立教育体系的商业化改造逻辑向非高福利或非高声誉国家迁移时，须考量具体的制度差异。
 
 ---
 

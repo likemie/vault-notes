@@ -9,7 +9,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 11
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Comprehensive Education]]"
   - "[[Free School Meals]]"
+  - "[[Social Economy]]"
   - "[[Academic Achievement]]"
   - "[[Discourse]]"
   - "[[Selective Education]]"
@@ -32,6 +33,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Grammar School]]"
+  - "[[Gesamtschule]]"
   - "[[Education and Inspections Act 2006]]"
   - "[[Ofsted]]"
   - "[[Selective Schools Expansion Fund]]"
@@ -40,12 +42,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-26
+updated: 2026-11-21
 ---
 
 ## 背景
 
-11-plus（11+）考试是英国中等教育选拔制度的核心机制——学生在 11 岁小学毕业时参加的学术能力测验，成绩决定其进入[[Grammar School|文法学校]]（grammar school）还是非选拔性综合学校（secondary modern / comprehensive school）。
+11-plus（11+）考试是英国中等教育选拔制度的核心机制——学生在 11 岁小学毕业时参加的学术能力测验，成绩决定其进入[[Grammar School|文法学校]]（grammar school）还是非选拔性[[Gesamtschule|综合学校]]（secondary modern / comprehensive school）。
 
 该考试是选择性教育制度的实际操作工具。尽管大多数英国地区已废除 11+ 并转为[[Comprehensive Education|综合教育]]体系，英格兰仍有 163 所文法学校保留此考试作为入学选拔手段([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.3]])。
 
@@ -68,14 +70,14 @@ updated: 2026-10-26
 
 11+ 考试主要在英格兰部分地方当局（local authorities）保留，覆盖约 163 所[[Grammar School|文法学校]]。考试内容通常包括数学、英语、言语推理（verbal reasoning）和非言语推理（non-verbal reasoning）。
 
-**与[[Free School Meals|免费校餐]]（Free School Meals, FSM）的关系([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.25, Appendix 7]])** FSM 儿童进入文法学校的比例极低（仅约 3%），且这一比例在研究期间（2015–2019）未发生可感知的变化。FSM 是英国衡量社会经济弱势的标准指标，这一数据被反复用于证明 11+ 考试在实践中有利于社会经济优势群体。
+**与[[Free School Meals|免费校餐]]（Free School Meals, FSM）的关系([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.25, Appendix 7]])** FSM 儿童进入文法学校的比例极低（仅约 3%），且这一比例在研究期间（2015–2019）未发生可感知的变化。FSM 是英国衡量[[Social Economy|社会经济]]弱势的标准指标，这一数据被反复用于证明 11+ 考试在实践中有利于社会经济优势群体。
 
 Bainbridge et al. 指出：议会辩论中"FSM 儿童在文法学校中的低比例"与"社会流动性"之间的关联被多次提及，但证据表明文法学校未能改变这一结构性不平等（p.25）。
 
 ---
 
 > [!info] 核心数据
-> - 163 所[[Grammar School\|文法学校]]仅覆盖英格兰不到 5% 的中学生，但在议会被提及九倍于 3,200 所综合学校([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.17–18]])
+> - 163 所[[Grammar School\|文法学校]]仅覆盖英格兰不到 5% 的中学生，但在议会被提及九倍于 3,200 所[[Gesamtschule|综合学校]]([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.17–18]])
 > - 仅约 3% 的 FSM 儿童进入文法学校([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.21]])
 
 **选择性教育的研究证据共识([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.10–11，综述多来源]])**

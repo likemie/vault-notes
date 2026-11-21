@@ -10,10 +10,10 @@ aliases:
 summary: "打破按能力或社会阶层过早分流、在统一学校内向所有适龄学生提供相同或共通基础课程的教育组织原则；欧洲战后普遍通过综合化改革促进教育民主化与社会融合，但其实施过程中在追求形式平等与应对学生资质异质性之间持续面临张力。"
 type: concept
 domain: "comparative-education"
-related_count: 24
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 31
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - concept
   - comparative-education
@@ -31,19 +31,26 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Differentiated Instruction]]"
   - "[[Variable]]"
+  - "[[Discourse]]"
+  - "[[Document]]"
   - "[[Tripartite School System]]"
 related_methods:
   - "[[Effect Size]]"
+  - "[[Discourse Analysis]]"
 related_persons:
   - "[[José Luis García Garrido]]"
+  - "[[Ursula Springer]]"
   - "[[Iveta Silova]]"
 related_facts:
   - "[[General Act of Education of 1970]]"
+  - "[[Gesamtschule]]"
   - "[[PISA]]"
   - "[[Integrated Programme]]"
   - "[[Grammar School]]"
   - "[[Comparative and International Education Society]]"
   - "[[Organic Law on the General Organization of the Education System 1990]]"
+  - "[[OECD]]"
+  - "[[Investitionsprogramm Zukunft Bildung und Betreuung]]"
   - "[[Eleven-plus Exam]]"
 related_arguments:
   - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
@@ -73,7 +80,7 @@ updated: 2026-11-21
 > [!boundary]- 概念边界
 > - 区别于 **[[Tracking|学力分轨]]（[[Tracking]]）** — 分轨制主张根据学生能力与意愿在早期分流至学术、技术或职业不同轨道，而综合教育致力于在同一物理空间与核心课程下延缓这种分化。
 > - 区别于 **[[Dual School System|双轨学制]]（[[Dual School System]]）** — 双轨学制是 19 世纪欧陆建立在阶级壁垒之上的封闭平行系统，综合教育则是 20 世纪下半叶反思双轨制特权再生产的产物。
-> - 区别于 **完全均质化教学** — 成熟的综合教育体制（如英国综合中学）通常在共同学校框架内保留宽口径选修与学科分层，而激进单一综合制则强推无差别统一步调课程。
+> - 区别于 **完全均质化教学** — 成熟的综合教育体制（如英国[[Gesamtschule|综合中学]]）通常在共同学校框架内保留宽口径选修与学科分层，而激进单一综合制则强推无差别统一步调课程。
 
 ---
 
@@ -132,7 +139,7 @@ updated: 2026-11-21
 > **战后中等教育综合化改革的跨国调和** 探讨欧洲各国在由双轨学制向大众综合中等教育转型过程中，如何依据本土国家治理体制与历史传统因地制宜形成多样化改革模式。
 
 > [!claim] [[Argument_Silova_2009_EE|Silova (2009)]] & Springer (1969a)
-> **战后西欧中等教育综合化改革的多国调和路径** 施普林格（Ursula Springer, 1969a）跨国比较考证表明，二战后西欧主要国家普遍面临中等教育从精英双轨向大众综合化转型的历史挑战：瑞典以九年一贯制基础学校（Grundskola）实行最彻底的延迟分流与全纳综合；英国推进综合中学逐步取代[[Grammar School|文法学校]]旧轨并在校内探索能力分组教学；法国设立统一初中（[[Comparative and International Education Society|CES]]）设置两年观察期实现渐进式定向；西德则在保留三轨传统框架下试点综合学校（Gesamtschule），反映出联邦分权体制下学术传统对综合化的体制抵抗。施洛娃指出，这一多国主题化比较揭示了西欧各国在推进综合教育机会均等与因应制度历史惰性之间的复杂调和机制。[[Argument_Silova_2009_EE|(Silova, 2009, pp. 22–24)]]
+> **战后西欧中等教育综合化改革的多国调和路径** [[Ursula Springer|施普林格]]（Ursula Springer, 1969a）跨国比较考证表明，二战后西欧主要国家普遍面临中等教育从精英双轨向大众综合化转型的历史挑战：瑞典以九年一贯制基础学校（Grundskola）实行最彻底的延迟分流与全纳综合；英国推进综合中学逐步取代[[Grammar School|文法学校]]旧轨并在校内探索能力分组教学；法国设立统一初中（[[Comparative and International Education Society|CES]]）设置两年观察期实现渐进式定向；西德则在保留三轨传统框架下试点综合学校（Gesamtschule），反映出联邦分权体制下学术传统对综合化的体制抵抗。施洛娃指出，这一多国主题化比较揭示了西欧各国在推进综合教育机会均等与因应制度历史惰性之间的复杂调和机制。[[Argument_Silova_2009_EE|(Silova, 2009, pp. 22–24)]]
 
 ---
 
@@ -150,7 +157,7 @@ updated: 2026-11-21
 > - **1970 年代 — 南欧转型国家确立综合原则** 西班牙 1970 年《[[General Act of Education of 1970|普通教育法]]》（[[General Act of Education of 1970|LGE]]）在初等学段确立综合教育原则，将基础教育统一整合为 8 年。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 323)]]
 > - **1980–1990 年代 — 义务教育延长与均质化硬性推行** 西班牙 1990 年《[[Organic Law on the General Organization of the Education System 1990|教育体制总体组织法]]》（[[Organic Law on the General Organization of the Education System 1990|LOGSE]]）将义务教育延长至 16 岁，并强制实施单一且相同的综合课程，取消 14 岁实质分流。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 330–331)]]
 > - **2000 年代至今 — 均质化反思与多样化修正** 英法等国通过高中模块化深度研习或初中后期选修强化拔尖与因材施教；比较教育学者（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009]]）批判均质综合制导致的学业抗拒者泛滥与学术平庸化。
-> - **2006 — 德国后 PISA 结构改革禁忌与综合化回避** [[Argument_Ertl_2006_ORE|Ertl (2006)]] 剖析德国在应对 PISA 冲击时对综合学校（Gesamtschule）体制的政治过滤；尽管芬兰与瑞典等经合组织高成效系统均实行全纳性综合教育，德国保守政界与教师工会仍将综合中学体制重组视为不可触碰的“大禁忌（Große Tabu）”，转而以国家教育标准与全日制学校投资回避学制分轨反思。[[Argument_Ertl_2006_ORE|(Ertl, 2006, pp. 624–625)]]
+> - **2006 — 德国后 PISA 结构改革禁忌与综合化回避** [[Argument_Ertl_2006_ORE|Ertl (2006)]] 剖析德国在应对 PISA 冲击时对综合学校（Gesamtschule）体制的政治过滤；尽管芬兰与瑞典等[[OECD|经合组织]]高成效系统均实行全纳性综合教育，德国保守政界与教师工会仍将综合中学体制重组视为不可触碰的“大禁忌（Große Tabu）”，转而以国家教育标准与全日制学校投资回避学制分轨反思。[[Argument_Ertl_2006_ORE|(Ertl, 2006, pp. 624–625)]]
 
 ---
 
@@ -177,7 +184,7 @@ updated: 2026-11-21
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Garcia_Garrido_2009_SpainEU\|García Garrido (2009)]] | 西班牙 1990 年 [[Organic Law on the General Organization of the Education System 1990\|LOGSE]] 实施后的义务中等教育（ESO，12–16 岁）学生群体 | 历史政策分析与实证评估综述 | 学业失败率、学业抗拒者比例与卓越学术表现 | 14 岁阶段失败率约 **25%**；16 岁义务教育终点失败率达 **33%（1/3）**；卓越表现比例低于 **4%**；高中学术预备阶段被压缩至 2 年并填塞 10–12 门科目 | — | 揭示硬性推行均质综合课程的结构性代价：未实现实质平等，反倒抑制了英才拔尖并催生大面积学业抗拒。 |
-> | [[Argument_Ertl_2006_ORE\|Ertl (2006)]] | 德国中等教育体系与后 PISA 政策议程（2000–2005） | 比较政策与话语分析 | 综合中学模式（Gesamtschule）、学制改革话语定位、全日制学校（IZBB） | 芬兰与瑞典等北欧高成效国均采取综合学制；德国决策层将打破三轨推行综合中学列为政治禁忌；联邦注资 **40 亿** 欧元推进全日制学校（新建或扩建 **5,000** 所），以课外辅导替代综合学制重构 | 政策文献与利益团体博弈档案追踪 | 揭示国家在吸纳外部测评产出标准时，如何系统性过滤掉北欧领跑国的综合学制组织经验。 |
+> | [[Argument_Ertl_2006_ORE\|Ertl (2006)]] | 德国中等教育体系与后 PISA 政策议程（2000–2005） | 比较政策与[[Discourse Analysis\|话语分析]] | 综合中学模式（Gesamtschule）、学制改革[[Discourse\|话语]]定位、全日制学校（[[Investitionsprogramm Zukunft Bildung und Betreuung\|IZBB]]） | 芬兰与瑞典等北欧高成效国均采取综合学制；德国决策层将打破三轨推行综合中学列为政治禁忌；联邦注资 **40 亿** 欧元推进全日制学校（新建或扩建 **5,000** 所），以课外辅导替代综合学制重构 | 政策[[Document\|文献]]与利益团体博弈档案追踪 | 揭示国家在吸纳外部测评产出标准时，如何系统性过滤掉北欧领跑国的综合学制组织经验。 |
 
 ---
 

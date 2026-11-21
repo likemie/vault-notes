@@ -9,9 +9,9 @@ summary: "最常用的准实验设计之一，实验组与控制组未通过随�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 9
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 10
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -32,13 +32,14 @@ related_methods:
   - "[[Matching]]"
   - "[[Pre-test and Post-test]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Gesamtschule]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 confidence: medium
 status: draft
 created: 2026-07-12
-updated: 2026-10-29
+updated: 2026-11-21
 ---
 
 > [!def] Non-Equivalent Control Group Design
@@ -78,4 +79,4 @@ Campbell and Stanley (1963) 符号表示为：
 > - 回归效应可能使匹配失效，尤其是当组间差异较大时。
 
 > [!example] 使用此方法的研究
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011, Ch16)]] — Mason et al. (1992) 在 Shevington 综合中学使用非等价控制组设计，检验显性语言教学对 GCSE 考试成绩的影响。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011, Ch16)]] — Mason et al. (1992) 在 Shevington [[Gesamtschule|综合中学]]使用非等价控制组设计，检验显性语言教学对 GCSE 考试成绩的影响。

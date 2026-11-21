@@ -13,7 +13,7 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 47
+person_related_count: 48
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -71,6 +71,7 @@ related_facts:
   - "[[Hargreaves 1996 TTA Lecture]]"
   - "[[Teaching Schools]]"
   - "[[Grammar School]]"
+  - "[[Gesamtschule]]"
   - "[[Teacher Training Agency]]"
   - "[[EPPI-Centre]]"
   - "[[Education Endowment Foundation]]"
@@ -83,7 +84,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-08
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 ---
@@ -107,7 +108,7 @@ updated: 2026-11-19
 > - **1939** 出生于英格兰兰开夏郡博尔顿（Bolton），成长于工人阶级社区，后就读于剑桥大学基督学院（Christ's College, Cambridge）。
 > - **1961–1967** 先后任教于赫尔[[Grammar School|文法学校]]并担任曼彻斯特大学社会学系研究员。期间在男子现代中学开展为期一年的参与式观察，出版开创性民族志著作《中学的社会关系》（1967）。
 > - **1967–1979** 担任曼彻斯特大学教育学高级讲师，深化微观互动社会学研究，相继出版《教育与人际关系》（1972）和合著《课堂越轨》（1975）。
-> - **1979–1984** 担任牛津大学教育学高级讲师及耶稣学院研究员，出版《综合中学的挑战》（1982），深入反思学术文凭主义对弱势学生的体制排斥。
+> - **1979–1984** 担任牛津大学教育学高级讲师及耶稣学院研究员，出版《[[Gesamtschule|综合中学]]的挑战》（1982），深入反思学术文凭主义对弱势学生的体制排斥。
 > - **1984–1988** 出任伦敦内城教育局（ILEA）首席督学，主编《改善中学：哈格里夫斯报告》（*Improving Secondary Schools*, 1984），推动内城中学的课程改革与组织评估。
 > - **1988–2002** 荣任剑桥大学教育学讲席教授及沃夫森学院院士；1996 年在伦敦发表标志性的 [[Teacher Training Agency|TTA]] 年度演讲，引爆国际学界关于循证教育的大论争。
 > - **2000–2002** 担任英国资格与课程局（QCA）主席兼首席执行官；2002 年因教育贡献被英国王室册封为爵士。
@@ -118,7 +119,7 @@ updated: 2026-11-19
 > [!thought-timeline] 思想发展
 > - **1960s–1970s — 微观互动社会学与课堂分层机制** 将考察焦点从宏观社会阶级结构转向微观课堂人际互动，运用[[Symbolic Interactionism|符号互动论]]与越轨社会学剖析师生标签机制。
 >   - **代表著作** *Social Relations in a Secondary School* (1967); *Deviance in Classrooms* (1975, with Hester & Mellor).
->   - **关键概念／方法** 能力流轨（[[Tracking|Streaming]]）、反学校亚文化（Anti-school Subculture）、[[Typification|类型化]]、参与式观察、[[Ethnography|民族志]]。
+>   - **关键概念／方法** 能力流轨（[[Tracking|Streaming]]）、[[Counter-School Culture|反学校亚文化]]（Anti-school Subculture）、[[Typification|类型化]]、参与式观察、[[Ethnography|民族志]]。
 >   - **阶段转向** 打破[[Structural Functionalism|结构功能主义]]对学校社会化功能的静态假定，证实能力分流通过剥夺底层学生的学术声誉，迫使其在同侪群体中构建抵触权威的[[Counter-School Culture|反学校文化]]。
 > - **1980s — 综合中学困境与城市学校组织变革** 关注综合中学实践中学术文凭主义的负面后果，以行政和督导角色推进课程与组织改善。
 >   - **代表著作** *The Challenge for the Comprehensive School: Culture, Curriculum and Community* (1982); *Improving Secondary Schools: The Hargreaves Report* (1984).

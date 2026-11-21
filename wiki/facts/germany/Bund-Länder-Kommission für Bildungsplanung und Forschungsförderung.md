@@ -12,7 +12,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 12
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -27,23 +27,30 @@ tags:
   - blk
 related_concepts:
   - "[[Comprehensive Education]]"
-  - "[[Knowledge Transfer]]"
+  - "[[Immigrant Status]]"
   - "[[Teacher Beliefs]]"
   - "[[Paradigm]]"
+  - "[[Knowledge Transfer]]"
+  - "[[Transfer Science]]"
+  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Max Planck]]"
 related_facts:
+  - "[[Max Planck Society]]"
+  - "[[Gesamtschule]]"
+  - "[[TIMSS]]"
+  - "[[PISA]]"
+  - "[[SINUS]]"
+  - "[[Chemie im Kontext]]"
+  - "[[Kooperationsverbot]]"
   - "[[Federal Ministry of Education and Research]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
-  - "[[SINUS]]"
-  - "[[TIMSS]]"
-  - "[[Chemie im Kontext]]"
-  - "[[Max Planck Society]]"
 related_arguments:
-  - "[[Argument_Ertl_2006_ORE]]"
   - "[[Argument_Manitius_vanHolt_2019_BzS]]"
+  - "[[Argument_Ertl_2006_ORE]]"
 confidence: high
 status: active
 created: 2026-09-27
@@ -53,7 +60,7 @@ updated: 2026-11-21
 ---
 
 > [!claim] 核心定位
-> 联邦与各州教育规划与科研促进委员会（德语全称：*Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung*，简称 BLK）是西德联邦政府与各联邦州于 1970 年依据行政协议设立的常设最高跨政府协调机构。在战后德国“文化主权在州”（Kulturhoheit der Länder）与联邦协调诉求的宪政张力下，BLK 构成了德国“协同联邦主义”（Kooperativer Föderalismus）在教育与科技政策领域的核心支柱，通过统筹全国综合教育规划纲领与发起国家级模型试验项目，充当了联邦财政资金向各州基础教育和高等教育领域合宪渗透的关键制度管道。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, p. 9)]]
+> [[Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung|联邦与各州教育规划与科研促进委员会]]（德语全称：*Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung*，简称 BLK）是西德联邦政府与各联邦州于 1970 年依据行政协议设立的常设最高跨政府协调机构。在战后德国“文化主权在州”（Kulturhoheit der Länder）与联邦协调诉求的宪政张力下，BLK 构成了德国“协同联邦主义”（Kooperativer Föderalismus）在教育与科技政策领域的核心支柱，通过统筹全国[[Comprehensive Education|综合教育]]规划纲领与发起国家级模型试验项目，充当了联邦财政资金向各州基础教育和高等教育领域合宪渗透的关键制度管道。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, p. 9)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1969 年西德通过宪法修正案（《基本法》第 91b 条），允许联邦与各州在双方同意的前提下就跨区域重大教育规划与超区域科研资助开展制度化合作；1970 年双方正式签署建立 BLK 的行政协议。
@@ -65,10 +72,10 @@ updated: 2026-11-21
 
 > [!dev-timeline] 组织发展历程
 > - **1969–1970 — 宪法修正与机构创设** 1969 年西德修订《基本法》确立第 91b 条共同任务条款；1970 年联邦政府与各州政府签署常设行政协议正式组建 BLK，确立协同联邦主义在教育科研领域的制度平台。
-> - **1971–1990 — 《国家教育总规划》编制与综合学校试验推进** 1973 年起草出台首部《国家教育总规划》（Bildungsgesamtplan），资助全德首批综合中学（Gesamtschule）与幼小衔接试点项目，开创跨州模型试验联合资助体制。
+> - **1971–1990 — 《国家教育总规划》编制与[[Gesamtschule|综合学校]]试验推进** 1973 年起草出台首部《国家教育总规划》（Bildungsgesamtplan），资助全德首批综合中学（Gesamtschule）与幼小衔接试点项目，开创跨州模型试验联合资助体制。
 > - **1990–1997 — 两德统一整合与科研体系重组** 统筹协调前东德地区高等教育与非大学科研院所并轨改组，主导原东德科研基础设施的联邦-州联合认证与配比注资。
-> - **1998–2005 — 后 TIMSS/PISA 教学创新与重点攻坚工程** 面对国际测验暴露出的学业水平与素养赤字，BLK 突破传统行政审批框架，立项推行数理教学增效项目（[[SINUS]] 与 SINUS-Transfer）、情境化化学教学（[[Chemie im Kontext|CHiK]]）、“阅读在德国”（Lesen in Deutschland, LiD）及移民学生专项辅导框架（BLK, 2003, 2004；[[Argument_Ertl_2006_ORE|Ertl, 2006, pp. 621–622]]；[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, p. 9]]）。
-> - **2006–2007 — 联邦制改革与撤并解散** 伴随 2006 年德国第一阶段联邦制改革（Föderalismusreform I）修订《基本法》第 91b 条并确立“合作禁止条款”（Kooperationsverbot），联邦全面退出基础教育合作事务；BLK 于 2007 年底正式撤销，其保留的超区域科研资助统筹职能移交新设立的联合科学大会（Gemeinsame Wissenschaftskonferenz, GWK）。
+> - **1998–2005 — 后 [[TIMSS]]/[[PISA]] 教学创新与重点攻坚工程** 面对国际测验暴露出的学业水平与素养赤字，BLK 突破传统行政审批框架，立项推行数理教学增效项目（[[SINUS]] 与 SINUS-Transfer）、情境化化学教学（[[Chemie im Kontext|CHiK]]）、“阅读在德国”（Lesen in Deutschland, LiD）及[[Immigrant Status|移民学生]]专项辅导框架（BLK, 2003, 2004；[[Argument_Ertl_2006_ORE|Ertl, 2006, pp. 621–622]]；[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, p. 9]]）。
+> - **2006–2007 — 联邦制改革与撤并解散** 伴随 2006 年德国第一阶段联邦制改革（Föderalismusreform I）修订《基本法》第 91b 条并确立“合作禁止条款”（[[Kooperationsverbot]]），联邦全面退出基础教育合作事务；BLK 于 2007 年底正式撤销，其保留的超区域科研资助统筹职能移交新设立的联合科学大会（Gemeinsame Wissenschaftskonferenz, GWK）。
 
 ---
 
@@ -102,11 +109,11 @@ updated: 2026-11-21
 
 > [!indicators] 影响力维度与政策渗透
 > - **资助广度与规模** 运行期间联合资助数千个模型试验，覆盖西德及两德统一后全德 16 州数千所中小学校与百余所高校。
-> - **科研资金集约化** 统筹协调非大学骨干科研联合会（如马克斯·普朗克学会、DFG）的数百亿马克/欧元预算配比，保障了战后德国国家科研体系的稳定性。
-> - **教研网络化演进** 推动学校教研由单校封闭试验转向跨校网络协同，为后 PISA 时代的教学改进提供了方法范式参照。
+> - **科研资金集约化** 统筹协调非大学骨干科研联合会（如马克斯·[[Max Planck|普朗克]]学会、DFG）的数百亿马克/欧元预算配比，保障了战后德国国家科研体系的稳定性。
+> - **教研网络化演进** 推动学校教研由单校封闭试验转向跨校网络协同，为后 PISA 时代的教学改进提供了方法[[Paradigm|范式]]参照。
 
 > [!finding-cards] 关键成效与辐射影响
-> - **为德语区教育科研转移提供早期实证范式** 玛尼修斯与范霍尔特（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, p. 9]]）指出，早在大规模引入“新治理”外部督导与全域统考之前的 15 至 20 年间，德语区关于知识转移的政策推进主要依托 BLK 模型试验完成；对 SINUS 和 CHiK 项目的全程追踪为解剖“转移对象特征”（Transfergegenstand）提供了历史经验标本。
+> - **为德语区教育科研转移提供早期实证范式** 玛尼修斯与范霍尔特（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, p. 9]]）指出，早在大规模引入“新治理”外部督导与全域统考之前的 15 至 20 年间，德语区关于[[Knowledge Transfer|知识转移]]的政策推进主要依托 BLK 模型试验完成；对 SINUS 和 CHiK 项目的全程追踪为解剖“转移对象特征”（Transfergegenstand）提供了历史经验标本。
 > - **孕育跨尺度学科教研联合体** 打破了大学学科教学论学者与中小学一线教师之间的制度壁垒，通过“问题模块”与“教师工坊”建立了长效协作机制。
 
 ---
@@ -116,7 +123,7 @@ updated: 2026-11-21
 > > [!axis] “试验田繁荣”与“规模化扩散断裂”的制度反思
 > > 针对 BLK 模型试验资助机制，学术界长期反思其是否存在脱离常态学校土壤的局限。
 > >
-> > - **扩散瓶颈批判** 实证研究指出，多数模型试验在享受专项资助、高校专家密集进驻与优秀骨干教师聚集时成效显著；但一旦资助周期结束或尝试向普通非试点学校推广时，往往因缺乏中层研训机构的制度化承接而陷入“试验田繁荣、全域贫瘠”的扩散断裂，促使德国学界在 2010 年代后确立以中层制度化研训为枢纽的转移科学纲领。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, pp. 9–11)]]
+> > - **扩散瓶颈批判** 实证研究指出，多数模型试验在享受专项资助、高校专家密集进驻与优秀骨干教师聚集时成效显著；但一旦资助周期结束或尝试向普通非试点学校推广时，往往因缺乏中层研训机构的制度化承接而陷入“试验田繁荣、全域贫瘠”的扩散断裂，促使德国学界在 2010 年代后确立以中层制度化研训为枢纽的[[Transfer Science|转移科学]]纲领。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, pp. 9–11)]]
 > > - **试验倡导方立场** 强调模型试验旨在探索前沿可能与试错，其价值在于为全德积累经过科学检验的改革方案与工具原型，扩散机制应由各州地方行政后续接力。
 >
 > > [!axis] 宪政“合作禁令”（Kooperationsverbot）与机构历史终结
@@ -144,5 +151,5 @@ updated: 2026-11-21
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 记录 BLK 在后 TIMSS 与后 PISA 时期资助 SINUS 教学增效、“阅读在德国”及移民教育辅导框架等重点工程的政策文献（pp. 621–622）。
+> - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 记录 BLK 在后 TIMSS 与后 PISA 时期资助 SINUS 教学增效、“阅读在德国”及移民教育辅导框架等重点工程的政策[[Document|文献]]（pp. 621–622）。
 > - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 深度解剖 BLK 及其模型试验计划在德语区教育转移科学发展史中的制度探索功能与扩散困境（pp. 9–11）。

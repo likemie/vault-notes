@@ -10,7 +10,7 @@ subtype: event
 region: finland
 fact_region: "finland"
 fact_kind: "event"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -45,6 +45,7 @@ related_facts:
   - "[[National Education]]"
   - "[[Svecoman Movement]]"
   - "[[Finnish PISA Miracle]]"
+  - "[[Gesamtschule]]"
   - "[[Kalevala Compilation]]"
   - "[[Programme for the International Assessment of Adult Competencies]]"
 related_arguments:
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-06
-updated: 2026-11-14
+updated: 2026-11-21
 ---
 
 ---
@@ -128,7 +129,7 @@ updated: 2026-11-14
 > > [!axis] [[Finnish PISA Miracle|芬兰教育奇迹]]的历史根源归因
 > > 当代学者围绕芬兰教育在国际测评中取得优异成绩的根源展开了制度改革派与历史文化派的分歧。
 > >
-> > - **当代综合学校派（以萨尔伯格为代表）** 将成功归因于 1970 年代以来的综合学校均等化改革、硕士师资培养及去标准化测评。
+> > - **当代[[Gesamtschule|综合学校]]派（以萨尔伯格为代表）** 将成功归因于 1970 年代以来的综合学校均等化改革、硕士师资培养及去标准化测评。
 > > - **历史制度与文化派（以萨尔格伦为代表）** 指出芬兰教育的顶峰表现实由芬诺曼运动确立的教师崇高地位、[[Martin Luther|路德]]宗勤勉文化及传统[[Direct Instruction|直接教学]]法所奠定，综合学校改革反而伴随着后续的学术衰退。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 18–26, 63–66)]]
 
 ---

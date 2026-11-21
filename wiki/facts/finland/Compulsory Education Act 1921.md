@@ -11,7 +11,7 @@ subtype: policy
 region: finland
 fact_region: "finland"
 fact_kind: "policy"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -36,6 +36,7 @@ related_persons:
 related_facts:
   - "[[National Education]]"
   - "[[1918 Finnish Civil War]]"
+  - "[[Gesamtschule]]"
   - "[[Comprehensive School Reform in Finland]]"
   - "[[Fennoman Movement]]"
 related_arguments:
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-06
-updated: 2026-11-11
+updated: 2026-11-21
 ---
 
 ---
@@ -77,7 +78,7 @@ updated: 2026-11-11
 > - 1921 芬兰议会正式通过《义务教育法》（Oppivelvollisuuslaki），规定 7 至 13 岁儿童必须强制接受六年制初等教育。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 20)]]
 > - 1937 经过十余年乡村校舍扩建，仍有 13% 的偏远农村儿童未能入学。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 21)]]
 > - 1940 年代初 经历冬季战争与继续战争，初等义务教育网络终于实现全国地理完全覆盖。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 20)]]
-> - 1968 芬兰议会通过《学校系统基础法》，开启九年制综合学校改革，取代旧有六年制初等义务教育体系。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 7)]]
+> - 1968 芬兰议会通过《学校系统基础法》，开启九年制[[Gesamtschule|综合学校]]改革，取代旧有六年制初等义务教育体系。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 7)]]
 
 ---
 

@@ -25,7 +25,6 @@ tags:
 related_concepts:
   - "[[Comprehensive Education]]"
   - "[[Tracking]]"
-  - "[[Dual School System]]"
   - "[[Educational Level]]"
 related_theories: []
 related_methods: []
@@ -33,6 +32,7 @@ related_instruments: []
 related_persons:
   - "[[Uno Cygnaeus]]"
 related_facts:
+  - "[[Gesamtschule]]"
   - "[[Grammar School]]"
   - "[[Comprehensive School Reform in Finland]]"
   - "[[Compulsory Education Act 1921]]"
@@ -42,11 +42,11 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-06
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 > [!policy-context] 政策背景
-> - **制度渊源 / 存续时期** 承袭 19 世纪欧陆传统的二元分轨学制，1921 年《义务教育法》颁布后得到法律固化，持续运行至 1970 年代被统一综合学校改革取代。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7, 20)]]
+> - **制度渊源 / 存续时期** 承袭 19 世纪欧陆传统的二元分轨学制，1921 年《义务教育法》颁布后得到法律固化，持续运行至 1970 年代被统一[[Gesamtschule|综合学校]]改革取代。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7, 20)]]
 > - **适用地区 / 对象** 芬兰全国全体初等学校四年级在读学生及其家庭。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 7)]]
 > - **问题背景** 二战后伴随爆发性工业化与战后大迁徙，数以十万计的乡村与工薪家庭渴望子女获得高中与大学教育；旧有双轨制将绝大多数底层学生早早拦截在学术轨道之外，引发了严重的教育公平与社会流动瓶颈。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7, 30–31)]]
 > - **制度位置** 构成了 1968 年芬兰议会立法启动综合学校改革之前，芬兰基础教育领域最核心的历史制度基准。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 7)]]

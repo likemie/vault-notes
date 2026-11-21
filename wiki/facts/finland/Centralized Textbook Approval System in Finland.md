@@ -11,7 +11,7 @@ subtype: policy
 region: finland
 fact_region: "finland"
 fact_kind: "policy"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -39,6 +39,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Finnish National Board of Education]]"
+  - "[[Gesamtschule]]"
   - "[[Grammar School]]"
   - "[[PISA]]"
   - "[[Framework Curriculum 1994]]"
@@ -48,13 +49,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-06
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** [[Finnish National Board of Education|芬兰国家教育委员会]]（NBE / Opetushallitus）于 1970 年代初伴随综合学校改革全面推行的国家教科书法定核准机制，持续运行至 1991 年被正式废除。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 12–13)]]
+> - **发布时间 / 发布主体** [[Finnish National Board of Education|芬兰国家教育委员会]]（NBE / Opetushallitus）于 1970 年代初伴随[[Gesamtschule|综合学校]]改革全面推行的国家教科书法定核准机制，持续运行至 1991 年被正式废除。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 12–13)]]
 > - **适用地区 / 对象** 芬兰全国所有出版机构编制出版、供公立中小学日常课堂教学使用的各学科教材与教辅用书。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 12)]]
 > - **问题背景** 1970 年代建立统一综合学校后，国家需要确保全国各地区学校不论贫富均贯彻国家大纲目标，并消除旧[[Grammar School|文法学校]]教材体系带来的学科难度差异；同时在冷战微妙[[Geopolitics|地缘政治]]环境下，需对教材涉及周边大国的表述实行政治审查。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 12, 23)]]
 > - **制度位置** 与国家督学视导制、指令性全国课程大纲及课堂逐时日志制度相配套，构成了芬兰 1970 至 1980 年代高度集权化基础教育质量监控体系的支柱。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 12–13)]]

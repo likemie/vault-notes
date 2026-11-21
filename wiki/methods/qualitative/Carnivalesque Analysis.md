@@ -6,7 +6,7 @@ summary: "通过反讽、错位和颠倒主导叙事来追踪矛盾与隐藏权�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 10
+method_related_count: 11
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -31,11 +31,12 @@ related_arguments:
   - "[[Argument_Bainbridge_2022_ROE]]"
 related_facts:
   - "[[Ofsted]]"
+  - "[[Gesamtschule]]"
   - "[[Grammar School]]"
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-29
+updated: 2026-11-21
 ---
 
 > [!info] 定义
@@ -56,7 +57,7 @@ updated: 2026-10-29
 > 3. **并置不同来源的数据**——将访谈数据与其他来源和场地的数据进行比较
 > 4. **以玩味态度揭示荒谬**——将政策制定者的逻辑一致地外推至其荒谬结论，从而暴露其不正当性
 >
-> [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]]的 SSEF 分析为此提供了具体例证：将"好学校应获扩展资金"的逻辑一致地适用于所有 [[Ofsted]] 评级良好的学校（综合学校、小学、幼儿园），计算出所需预算将从 £50M 膨胀至 £84 亿，由此暴露政策论证的选择性和不正当性([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.18]])。
+> [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]]的 SSEF 分析为此提供了具体例证：将"好学校应获扩展资金"的逻辑一致地适用于所有 [[Ofsted]] 评级良好的学校（[[Gesamtschule|综合学校]]、小学、幼儿园），计算出所需预算将从 £50M 膨胀至 £84 亿，由此暴露政策论证的选择性和不正当性([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.18]])。
 >
 
 > [!success] 适用场景

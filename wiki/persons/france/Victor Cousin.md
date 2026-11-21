@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: france
 person_region: "france"
-person_related_count: 42
+person_related_count: 43
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -69,6 +69,7 @@ related_facts:
   - "[[National Education]]"
   - "[[Report on the State of Public Instruction in Prussia]]"
   - "[[Revue encyclopédique]]"
+  - "[[Gesamtschule]]"
 related_arguments:
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
@@ -76,7 +77,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-11-15
+updated: 2026-11-21
 ---
 
 ## 简介
@@ -289,7 +290,7 @@ updated: 2026-11-15
 
 > [!warning] 未解问题与边界
 > - **条文法案崇拜偏向** 库森对普鲁士教育的考察高度聚焦于[[Johann Wilhelm Süvern\|聚芬]] 1819 年法案草案的文本规定与官方行政架构，对基层乡村小学的真实教学质量与师资生活困境缺乏深入的微观[[Qualitative Observation\|田野观察]]，带有一定的条文理想化投射。
-> - **阶级壁垒与民主化限度** 其所设计的[[Culture Générale\|普通文化]]课程与双轨分流体制，在 19 世纪法国长期构筑了阻隔平民阶层向上流动的制度藩篱，直至 20 世纪下半叶才迎来全面综合中学的民主化改造。
+> - **阶级壁垒与民主化限度** 其所设计的[[Culture Générale\|普通文化]]课程与双轨分流体制，在 19 世纪法国长期构筑了阻隔平民阶层向上流动的制度藩篱，直至 20 世纪下半叶才迎来全面[[Gesamtschule|综合中学]]的民主化改造。
 
 ---
 

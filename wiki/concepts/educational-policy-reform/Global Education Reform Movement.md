@@ -6,7 +6,7 @@ aliases:
 summary: "描述全球教育改革向标准化、问责、市场化和私有化集中的批判性术语，常用于分析新自由主义政策如何重塑学校制度"
 type: concept
 domain: "educational-policy-reform"
-related_count: 73
+related_count: 74
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -87,6 +87,7 @@ related_facts:
   - "[[Yutori Education]]"
   - "[[Canadian Education Indicators Program]]"
   - "[[CREATES Project]]"
+  - "[[Gesamtschule]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Rose Report]]"
 related_arguments:
@@ -98,7 +99,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 ---
@@ -282,7 +283,7 @@ updated: 2026-11-19
 > |---|---|---|---|---|---|---|
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 新西兰官方财务档案与第三方支付明细（2011–2015） | 机构财务审计核查 | 认知教育公司支付给学者[[John Hattie\|哈蒂]]的劳务报酬 | 5 年间累计支付第三方报酬达 \$869,453 NZD；考文出版社年营收估算达 \$50,000,000 USD | 档案财务实录 | 揭示了学术声誉转化为商业垄断资本的收益链条，确立学者与商业利益的深度捆绑 |
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | Glass and Smith (1979) 班级规模实验[[Meta-analysis\|元分析]]原图 | 图表曲线复核与数据回溯 | 40 人大班与 1 人个别辅导的[[Academic Achievement\|学业成就]]差距 | 控制良好的[[Experimental Research\|实验研究]]中，班级从 40 人缩减至 1 人，学生成绩百分位提升超过 30 个百分位点 | $d=0.09$ 纯属断章取义 | 澄清了班额有效性的真实证据，揭露了 GERM 文献对原始经典文献的片面剪裁 |
-> | [[Argument_Sahlgren_2015_CPS\|Sahlgren (2015)]] | 芬兰 1965–2012 跨周期标准化国际测验微观数据与应征士兵智力全样本普查数据 | 长周期历史趋势对齐、断点准实验及微观计量文献综合 | 外部问责、学校竞争、统考与自主权在学业表现中的真实效应 | PISA 科学成绩从 2006 年 563 分降至 2012 年 545 分（下降 18 分）；兵役认知测验中综合学校改革对算术与逻辑效应接近 0；跨期测验显示芬兰表现早在 1980 年代即达峰约 560 分 | 兵役测验中口语达 1% 显著性（效应约 0.04 SD），算术与逻辑不显著；PISA 2006–2012 科学与数学下降均达统计显著 | 微观计量与历史时序综合证据，解构去问责分权带来卓越的反 GERM 神话 |
+> | [[Argument_Sahlgren_2015_CPS\|Sahlgren (2015)]] | 芬兰 1965–2012 跨周期标准化国际测验微观数据与应征士兵智力全样本普查数据 | 长周期历史趋势对齐、断点准实验及微观计量文献综合 | 外部问责、学校竞争、统考与自主权在学业表现中的真实效应 | PISA 科学成绩从 2006 年 563 分降至 2012 年 545 分（下降 18 分）；兵役认知测验中[[Gesamtschule\|综合学校]]改革对算术与逻辑效应接近 0；跨期测验显示芬兰表现早在 1980 年代即达峰约 560 分 | 兵役测验中口语达 1% 显著性（效应约 0.04 SD），算术与逻辑不显著；PISA 2006–2012 科学与数学下降均达统计显著 | 微观计量与历史时序综合证据，解构去问责分权带来卓越的反 GERM 神话 |
 > | [[Argument_Verger_2019_Discourse\|Verger et al. (2019, pp. 252–260)]] | 全球 158 篇涵盖经合组织与拉美中等收入国家的教育治理改革文献 | [[Systematic Review\|系统文献综述]]与国别分析表提取 | GERM 核心工具包在不同行政传统下的采纳动力与制度化轨迹 | 纳入 158 篇实证文献；识别出 3 类行政体制分化路径；市场化政体中 100% 出现高利害排位与择校绑定，而新韦伯政体中主动叫停公开排位 | 质性系统综述与[[Historical Institutionalism\|历史制度主义]]综合分析，无元分析统计合并 | 依托英文核心数据库索引文献，对非英语国家边缘实践覆盖有限 |
 
 ---

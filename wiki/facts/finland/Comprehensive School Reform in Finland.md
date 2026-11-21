@@ -11,9 +11,9 @@ subtype: policy
 region: finland
 fact_region: "finland"
 fact_kind: "policy"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "芬兰议会"
 tags:
@@ -44,6 +44,7 @@ related_persons:
 related_facts:
   - "[[Finnish National Board of Education]]"
   - "[[Grammar School]]"
+  - "[[Gesamtschule]]"
   - "[[Finnish PISA Miracle]]"
   - "[[PISA]]"
 related_arguments:
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-06
-updated: 2026-11-11
+updated: 2026-11-21
 ---
 
 ---
@@ -65,7 +66,7 @@ updated: 2026-11-11
 ---
 
 > [!claim] 政策核心
-> 芬兰综合学校改革彻底取缔了小学毕业后的二元甄别机制，建立面向全体国民的统一九年制公立综合基础学校（Peruskoulu），依托全国统一指令性课程、密集补救性特殊教育以及高度中央集权化视导监督确保教育底线质量。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7–8, 12–13)]]
+> 芬兰[[Gesamtschule|综合学校]]改革彻底取缔了小学毕业后的二元甄别机制，建立面向全体国民的统一九年制公立综合基础学校（Peruskoulu），依托全国统一指令性课程、密集补救性特殊教育以及高度中央集权化视导监督确保教育底线质量。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7–8, 12–13)]]
 
 > [!policy-design] 政策设计
 > - **政策目标** 消除家庭出身与地理偏远对求学机会的阻碍，提升全民族基础认知素养，促进战后社会融合与代际阶层流动。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7–8)]]

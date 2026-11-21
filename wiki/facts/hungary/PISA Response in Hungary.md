@@ -12,7 +12,7 @@ subtype: event
 region: hungary
 fact_region: "hungary"
 fact_kind: "event"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -44,6 +44,7 @@ related_persons: []
 related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
+  - "[[Gesamtschule]]"
   - "[[EU]]"
   - "[[PISA Response in France]]"
 related_arguments:
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-27
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 ---
@@ -76,7 +77,7 @@ updated: 2026-11-19
 >   - 执政党借国际低迷排位制造全国性教育落后危机，成功冲破议会内部保守势力的政治阻力，以此为合法性依据强力出台自 2001 年起便陷入搁置的国家统一教育评估系统（Országos kompetenciamérés, OKM）；
 >   - 2004 年起全面推行全国中小学 6、8、10 年级学生的阅读与数学[[21st Century Skills and Competencies Discourse|核心素养]]达标统测。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 67, 71)]]
 > - **2005–2009 — [[Soft Accountability|软问责]]工具化与学校诊断应用**
->   - 自由派政府借助外部评估建立向学校反馈学业雷达图的校本诊断机制，并将参测表现同市镇办学财政奖补形成弱挂钩，以此倒逼传统综合学校转变教学方式。
+>   - 自由派政府借助外部评估建立向学校反馈学业雷达图的校本诊断机制，并将参测表现同市镇办学财政奖补形成弱挂钩，以此倒逼传统[[Gesamtschule|综合学校]]转变教学方式。
 > - **2010 至今 — 保守联盟二度执政与中央全面再集权**
 >   - 2010 年青民盟重新执掌政权后，逆转了此前基于分权诊断的治理路径，将国家测试直接改造为服务于中央教育部（克莱贝尔斯贝格机构，KLIK）对全国学校实行高强度行政直接管辖的集权工具。
 

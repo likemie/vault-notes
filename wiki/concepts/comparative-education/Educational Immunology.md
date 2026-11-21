@@ -8,7 +8,7 @@ aliases:
 summary: "比较教育学分析视角，描述接受国在面对强行嵌入的外来教育学制或政策移植时，为了维护本土文化生态和制度主体性而自发形成的排异、过滤和抵抗改写机制"
 type: concept
 domain: "comparative-education"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -28,13 +28,14 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[John Dewey]]"
-related_facts: []
+related_facts:
+  - "[[Gesamtschule]]"
 related_arguments:
   - "[[Argument_Cowen_2009_CE]]"
 confidence: high
 status: draft
 created: 2026-07-03
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 ---
@@ -59,7 +60,7 @@ updated: 2026-11-19
 
 ---
 
-> [!case] 案例一：西德各州对美式综合中学几何的强势灭绝（[[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 323]]）
+> [!case] 案例一：西德各州对美式[[Gesamtschule|综合中学]]几何的强势灭绝（[[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 323]]）
 > 二战后，美占德国军事政府（OMGUS）强力推行教育民主化蓝图，试图以美式综合中学（Einheitsschule）替代西德传统的欧式三轨制，以彻底打破阶级壁垒。然而，西德地方各州（Länder）保守教育精英调动了深层的文化自治权力网络与历史积累的文科中学传统，将综合中学视为对德意志学术标准与社会分层的“外部侵入”，构筑了极强的屏障阻力。在这种强势的本土文化免疫反应下，美式综合中学几何在长时段拉锯中被彻底排挤并灭绝，西德顽强保留了其传统的文科、实科与主体中学三轨体制。
 
 > [!case] 案例二：五四中国对[[John Dewey\|杜威]]民主思想的选择性转译（[[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 323]]）

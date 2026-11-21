@@ -41,10 +41,12 @@ function control(parent, label, callback, { icon, iconOnly = false, name = "butt
   return button;
 }
 
-function refreshAntigravity(parent, state, actions) {
+function refreshAntigravity(parent, state, actions, compact = false) {
   const busy = state.busy.has("antigravity");
-  control(parent, busy ? "刷新中" : "刷新当前账号", () => actions.refresh("antigravity"), {
-    icon: "refresh-cw", name: "button auf-quiet auf-refresh-current", id: "refresh-antigravity", disabled: busy,
+  const label = busy ? "刷新中" : compact ? "刷新当前 Antigravity 账号" : "刷新当前账号";
+  control(parent, label, () => actions.refresh("antigravity"), {
+    icon: "refresh-cw", iconOnly: compact, name: compact ? "icon-button" : "button auf-quiet auf-refresh-current",
+    id: "refresh-antigravity", disabled: busy,
   });
 }
 
@@ -110,13 +112,23 @@ function displayAccount(parent, id, account, state, actions) {
   }
 }
 
+function compactService(parent, id, title, icon, detail) {
+  const section = add(parent, "section", "float-service");
+  section.dataset.aufProvider = id;
+  section.setAttribute("aria-label", title);
+  const heading = add(section, "header", "float-group");
+  const mark = add(heading, "span", "icon auf-service-icon");
+  mark.setAttribute("aria-hidden", "true");
+  setIcon(mark, icon);
+  add(heading, "h3", "", title);
+  if (detail) add(heading, "small", "muted", detail);
+  return { section, heading };
+}
+
 function displayCompactSubscription(parent, id, state, actions) {
   const subscription = state.rows[id][0];
   const title = id === "codex" ? "Codex" : PROVIDERS[id].title;
-  const section = add(parent, "section", "float-service");
-  const heading = add(section, "div", "float-group");
-  add(heading, "span", "", title);
-  if (subscription?.plan) add(heading, "small", "muted", subscription.plan);
+  const { section, heading } = compactService(parent, id, title, id === "codex" ? "terminal" : "orbit", subscription?.plan);
   const busy = state.busy.has(id);
   control(heading, busy ? title + " 刷新中" : "刷新 " + title, () => actions.refresh(id), {
     icon: "refresh-cw", iconOnly: true, name: "icon-button", id: "refresh-" + id, disabled: busy,
@@ -133,35 +145,53 @@ function displayCompactSubscription(parent, id, state, actions) {
   subscription.windows.forEach(quota => quotaWindow(grid, quota, status, state.now));
 }
 
-function displayGemini(parent, state, actions) {
-  const section = add(parent, "section", "float-service");
-  const heading = add(section, "div", "float-group");
-  add(heading, "span", "", "Antigravity · Gemini");
-  refreshAntigravity(heading, state, actions);
-  const accounts = state.rows.antigravity.filter(row => isAntigravityId(row.id));
-  if (!accounts.length) {
-    add(section, "p", "empty", state.rows.antigravity[0]?.issue?.message || "暂无 Gemini 额度。");
+function displayGeminiWindows(parent, row, state, snapshot = false) {
+  const windows = row.windows.filter(quota => /^gemini(?:$|[-_])/i.test(quota.id));
+  if (!windows.length) {
+    add(parent, "p", "muted", row.issue?.message || "暂无 Gemini 额度。");
     return;
   }
-  for (const row of accounts) {
-    const entry = add(section, "section", "gemini-account");
-    const title = add(entry, "div", "gemini-account-head");
-    add(title, "strong", "", accountName("antigravity", row, state.settings));
-    const windows = row.windows.filter(quota => /^gemini(?:$|[-_])/i.test(quota.id));
-    const status = rowStatus({ ...row, windows }, state.now, state.settings.interval);
-    if (status) {
-      const label = [STATUSES[status], row.fetchedAt && windows.length && freshness(row.fetchedAt, state.now)]
-        .filter(Boolean).join(" · ");
-      add(title, "small", "status", label);
-    }
-    if (!windows.length) {
-      add(entry, "p", "muted", "暂无 Gemini 额度。");
-      continue;
-    }
-    const grid = add(entry, "div", "quota-grid");
-    for (const quota of windows) {
-      quotaWindow(grid, { ...quota, name: quota.name.replace(/^Gemini Models · /i, "") }, status, state.now);
-    }
+  const status = snapshot ? "stale" : rowStatus({ ...row, windows }, state.now, state.settings.interval);
+  if (status && !snapshot) {
+    add(parent, "p", "status auf-account-note", [STATUSES[status], freshness(row.fetchedAt, state.now)].join(" · "));
+  }
+  const grid = add(parent, "div", "quota-grid");
+  for (const quota of windows) {
+    quotaWindow(grid, { ...quota, name: quota.name.replace(/^Gemini Models · /i, "") }, status, state.now);
+  }
+}
+
+function displayGemini(parent, state, actions, openSnapshots) {
+  const { section, heading } = compactService(parent, "antigravity", "Gemini", "sparkles", "Antigravity");
+  refreshAntigravity(heading, state, actions, true);
+  const accounts = state.rows.antigravity.filter(row => isAntigravityId(row.id));
+  const current = accounts.find(row => row.id === state.currentAntigravityId);
+  if (current) {
+    const account = add(section, "div", "gemini-current");
+    const title = add(account, "div", "gemini-account-head");
+    add(title, "strong", "", accountName("antigravity", current, state.settings));
+    add(title, "small", "muted", "当前账号");
+    displayGeminiWindows(account, current, state);
+  } else if (accounts.length) {
+    add(section, "p", "muted auf-account-note", "尚未确认当前登录账号。");
+  } else {
+    add(section, "p", "empty", state.rows.antigravity[0]?.issue?.message || "暂无 Gemini 额度。");
+  }
+  const snapshots = accounts.filter(row => row !== current);
+  if (!snapshots.length) return;
+  add(section, "h4", "gemini-snapshot-title", "账号快照");
+  for (const row of snapshots) {
+    const entry = add(section, "details", "gemini-snapshot");
+    entry.dataset.aufAccount = row.id;
+    entry.open = openSnapshots.has(row.id);
+    const summary = add(entry, "summary", "gemini-snapshot-summary");
+    summary.dataset.aufFocus = "snapshot-" + row.id;
+    const arrow = add(summary, "span", "icon auf-snapshot-arrow");
+    arrow.setAttribute("aria-hidden", "true");
+    setIcon(arrow, "chevron-right");
+    add(summary, "span", "snapshot-name", accountName("antigravity", row, state.settings));
+    if (row.fetchedAt !== null) add(summary, "small", "muted", freshness(row.fetchedAt, state.now));
+    displayGeminiWindows(add(entry, "div", "snapshot-windows"), row, state, true);
   }
 }
 
@@ -314,10 +344,15 @@ class FloatingPanel {
         control(this.buttons, "隐藏浮窗", () => this.dismiss(), { icon: "x", iconOnly: true, name: "icon-button", id: "hide" });
       }
       if (collapsed) return;
+      const openSnapshots = new Set();
+      if (this.currentAntigravityId === state.currentAntigravityId) {
+        for (const entry of this.body.querySelectorAll(".auf-gemini-snapshot[open]")) openSnapshots.add(entry.dataset.aufAccount);
+      }
+      this.currentAntigravityId = state.currentAntigravityId;
       this.body.replaceChildren();
       const ids = ["codex", "grok", "antigravity"].filter(id => state.settings.enabled[id]);
       for (const id of ids) {
-        if (id === "antigravity") displayGemini(this.body, state, this.actions);
+        if (id === "antigravity") displayGemini(this.body, state, this.actions, openSnapshots);
         else displayCompactSubscription(this.body, id, state, this.actions);
       }
       if (!ids.length) add(this.body, "p", "empty", "请在设置中启用要查看的服务。");
@@ -363,6 +398,9 @@ class FloatingPanel {
   updateVisibility(pinned = this.actions.state().settings.pinned) {
     const visible = pinned || this.preview === true;
     const restoreFocus = !visible && this.root.contains(this.win.document.activeElement);
+    if (!visible && !this.root.hidden) {
+      for (const entry of this.body.querySelectorAll(".auf-gemini-snapshot[open]")) entry.open = false;
+    }
     this.root.hidden = !visible;
     this.launcher.setAttribute("aria-expanded", String(visible));
     this.launcher.setAttribute("aria-pressed", String(pinned));

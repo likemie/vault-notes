@@ -12,7 +12,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -30,18 +30,19 @@ related_methods:
   - "[[Action Research]]"
   - "[[Feminist Research]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Gesamtschule]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02]]"
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-10-22
+updated: 2026-11-21
 ---
 
 > [!event-context] GIST 项目档案
 > - **时间** 历时三年（1980年代中后期）。
-> - **地点** 英国一个地区的十所男女同校综合学校（comprehensive schools）。
+> - **地点** 英国一个地区的十所男女同校[[Gesamtschule|综合学校]]（comprehensive schools）。
 > - **主体** 项目联合主任为 Alison Kelly；项目组公开承认其女性主义取向。
 > - **制度背景** 当时英国教育中女孩在科学、技术、工程和数学（[[STEM Education\|STEM]]）科目的选修率和职业抱负显著低于男孩，传统性别刻板印象被视为一个需要积极干预的系统性问题。
 > - **触发条件** 研究者认为女孩被传统性别刻板印象所不利，需要刻意改变这一状况。项目组将自身定位于小型尝试——改善女性从属社会地位（Kelly, 1987）。

@@ -13,9 +13,9 @@ subtype: organization
 region: finland
 fact_region: "finland"
 fact_kind: "organization"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: government-agency
 headquarters: Helsinki, Finland
@@ -48,6 +48,7 @@ related_persons:
   - "[[Hannu Simola]]"
 related_facts:
   - "[[Primary School Decree of 1866]]"
+  - "[[Gesamtschule]]"
   - "[[Finnish National Board of Education]]"
   - "[[PISA]]"
   - "[[Centralized Textbook Approval System in Finland]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-08
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 ---
@@ -67,7 +68,7 @@ updated: 2026-11-19
 
 > [!org-context] 机构背景
 > - **创设时间与发起主体** 芬兰大公国参议院依据《[[Primary School Decree of 1866|1866年国民学校法令]]》后续规章于 1869 年正式设立，由[[Uno Cygnaeus|芬兰初等教育之父]][[Uno Cygnaeus|乌诺·西格纽斯]]出任首任初等学校总督学。
-> - **总部地点与管辖权限** 总部设于首都赫尔辛基，全面统辖芬兰境内的国民学校（Kansakoulu）、文法中学（Oppikoulu）、师范讲习所及 1970 年代并轨后的综合学校（Peruskoulu）。
+> - **总部地点与管辖权限** 总部设于首都赫尔辛基，全面统辖芬兰境内的国民学校（Kansakoulu）、文法中学（Oppikoulu）、师范讲习所及 1970 年代并轨后的[[Gesamtschule|综合学校]]（Peruskoulu）。
 > - **法人属性与隶属层级** 芬兰中央政府直属的最高专业行政局，直接对教育文化部负责，拥有独立的行政裁决、课程核定与经费监督实权。
 > - **法定职责演变** 早期负责在农村建立公立学校网络；独立后由[[Mikael Soininen|米卡埃尔·索伊尼宁]]等领导推动全民义务教育立法；1970 年代成为执行国家统一九年制综合学校改革的科层统帅部。
 

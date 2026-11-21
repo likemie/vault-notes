@@ -7,9 +7,9 @@ aliases:
 summary: "将教育与技能投资视为提升劳动生产率与驱动内生经济增长的核心生产性投资之经济学理论；二战后经舒尔茨与贝克尔奠定微观与宏观基础，在冷战地缘博弈中成为经合组织（OECD）推行人力规划与世界银行构建跨国放贷指标帝国的理论支柱；尼曼与马滕斯（2018）等实证揭示其在当代被转化为 PISA 量化硬事实以确立经合组织全球认知权威与软治理机制"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 118
-theory_related_level: 11
-theory_related_stars: "💎💎💎⭐⭐"
+theory_related_count: 127
+theory_related_level: 12
+theory_related_stars: "💎💎💎💎"
 theory_related_color: "#fef3c7"
 tags:
   - economics-of-education
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Scientism]]"
   - "[[Empiricism]]"
   - "[[Developmentalism]]"
+  - "[[Social Science as Legitimation Alibi]]"
   - "[[Educational Level]]"
   - "[[Credential Inflation]]"
   - "[[Knowledge-Based Economy]]"
@@ -36,6 +37,11 @@ related_concepts:
   - "[[Cognitive Authority]]"
   - "[[OECD-fication]]"
   - "[[Employability]]"
+  - "[[Discourse]]"
+  - "[[Global Educational Discourse]]"
+  - "[[Bildung]]"
+  - "[[Alienation]]"
+  - "[[Institutional Hybridity]]"
   - "[[Learning Crisis]]"
   - "[[Academic Attrition]]"
   - "[[Academic Achievement]]"
@@ -45,14 +51,12 @@ related_concepts:
   - "[[Cultural Disembedding]]"
   - "[[Cultural Disorientation]]"
   - "[[Return on Investment]]"
-  - "[[Social Science as Legitimation Alibi]]"
   - "[[Policy Conditionalities]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Total Factor Productivity]]"
   - "[[Independent Variable]]"
   - "[[Open Method of Coordination]]"
-  - "[[Discourse]]"
   - "[[Educational Decentralization]]"
   - "[[Learning by Doing]]"
   - "[[Cold War University]]"
@@ -65,8 +69,9 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Tacit Knowledge]]"
   - "[[Technical Rationality]]"
-  - "[[Bildung]]"
   - "[[Navigation Metaphor in Comparative Education]]"
+  - "[[Neoliberalism]]"
+  - "[[Foundational Literacy and Numeracy]]"
   - "[[Research Problem]]"
   - "[[Geisteswissenschaften]]"
   - "[[Historical Amnesia]]"
@@ -74,16 +79,17 @@ related_concepts:
   - "[[Modern Industrial Policy]]"
   - "[[STEM Education]]"
   - "[[Workforce Development]]"
-  - "[[Neoliberalism]]"
   - "[[Public Value]]"
+  - "[[Structural Adjustment Programs]]"
   - "[[Nordic Model of Education]]"
   - "[[Evidence-Based Policy-Making]]"
+  - "[[Opportunity Structure]]"
   - "[[Constructivist Paradigm]]"
   - "[[Value Neutrality]]"
   - "[[Soft Power]]"
   - "[[Deliberative Space]]"
-  - "[[Alienation]]"
   - "[[Educational Meritocracy]]"
+  - "[[Instrumental Rationality]]"
   - "[[Scientific Paradigm]]"
 related_theories:
   - "[[New Growth Theory]]"
@@ -93,6 +99,7 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Manpower Requirements Approach]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Regression Discontinuity Design]]"
 related_instruments: []
 related_persons:
   - "[[George Psacharopoulos]]"
@@ -117,6 +124,7 @@ related_facts:
   - "[[European Education Area]]"
   - "[[European Semester]]"
   - "[[English Schools Foundation Hong Kong]]"
+  - "[[Gesamtschule]]"
   - "[[Education and Training 2020]]"
   - "[[EU]]"
   - "[[HarmoS]]"
@@ -132,6 +140,7 @@ related_arguments:
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Niemann_Martens_2018_GSP]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
+  - "[[Argument_Munch_2014_TCR]]"
   - "[[Argument_WorldBank_2019_Teach]]"
   - "[[Argument_Alexiadou_Rambla_2023_EERJ]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch06]]"
@@ -139,11 +148,11 @@ related_arguments:
   - "[[Argument_Gopinathan_2007_GSE]]"
   - "[[Argument_Fabrizio_Mowery_2005_REI]]"
   - "[[Argument_Bown_2024_JEconPersp]]"
+  - "[[Argument_Vavrus_2006_CICE]]"
   - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Larsen_2019_EducSci]]"
-  - "[[Argument_Vavrus_2006_CICE]]"
-  - "[[Argument_Munch_2014_TCR]]"
+  - "[[Argument_Dustmann_2017_EconJ]]"
 confidence: high
 status: completed
 created: 2026-09-08
@@ -161,7 +170,7 @@ updated: 2026-11-21
 > [!claim] 核心判断
 > 人力资本理论主张，教育与技能培训是对蕴含于劳动者体内生产性知识与能力的资本投资，而非单纯的消费性福利开支；这种投资通过提升劳动者的边际生产率内生驱动宏观经济持续增长，并为国家通过科学的人力需求预测发掘社会潜在人才库、推动社会流动与经济起飞提供了必然性与合法性背书。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 64, 67–68)]]
 
-> [!citation-card|notitle] Mattheou论人力资本理论与政治正统的合法化借口
+> [!citation-card|notitle] Mattheou论人力资本理论与政治正统的[[Social Science as Legitimation Alibi|合法化借口]]
 > 教育大扩张以及随之而来的教育部门经费预算追加，均建立在人力资本理论（Schultz, 1963; Bowen, 1964）以及对社会潜藏人才库的充分利用之上……在这一意义上，实证社会科学已然成为当时教育领域主导政治正统的便利借口（alibi）与合法化手段。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, p. 68)]]
 >
 > *Educational expansion and hence increased funding of the educational sector were argued on the basis of human capital theory (Schultz, 1963; Bowen, 1964) and of the utilisation of the latent pool of talents... In this sense social science had become a convenient alibi and/or a legitimising means for the prevailing political orthodoxy in education.*
@@ -183,7 +192,7 @@ updated: 2026-11-21
 > - **1980–1990 年代 — [[World Bank|世界银行]]放贷帝国、[[New Growth Theory|内生新增长理论]]与[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]** 1980 年世界银行发布首份《教育部门政策文件》（World Bank, 1980），[[George Psacharopoulos]] 建立起涵盖 139 国、1,120 项估算的回报率数据库，使人力资本收益率成为跨国政策放贷与治理干预的硬性规制指标；世行在《教育重点与战略》（World Bank, 1995）中进一步宣称人力资本理论无可替代，将宏观经济差距与微观[[School Effectiveness|学校效能]]全盘还原为教育投资与成本效益硬件干预，引发[[UNESCO|联合国教科文组织]]（Mayor et al., 1997）提出针锋相对的人文主义批判，抗议将人类发展降格为人力资源开发（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 347]]）；与此同时，罗伯特·卢卡斯（Robert Lucas, 1988）、保罗·罗默（Paul Romer, 1986）与彼得·豪伊特（Peter Howitt, 2000）发展内生新增长理论，将知识与人力资本确立为技术进步和创新商业化的内生核心。[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，1990 年代中期后[[OECD]]借此建构起“[[Knowledge-Based Economy|知识经济]]的[[Social Imaginary|社会想象]]”，使人力资本内涵扩展为涵盖适应力、组织忠诚度、跨文化沟通与知识商业化等全方位行为特质与“知其所以操作”（[[Procedural Knowledge|knowing how]]）的[[Lifelong Learning|终身学习]]能力。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–542)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–439, 445–446, 451)]]
 > - **2000 年代至今 — 全球指标治理与量化硬事实转化** 进入 21 世纪，人力资本逻辑在经合组织[[International Indicators of Education Systems|国际教育系统指标]]（INES）网络、《[[Education at a Glance|教育概览]]》（EAG）与[[PISA|国际学生评估项目]]（PISA）跨国技能测试中被深度重构为“全球知识经济[[Competitiveness|竞争力]]”治理框架；丹尼斯·尼曼（Dennis Niemann）与克斯汀·马滕斯（Kerstin Martens, 2018）考证指出，经合组织成功将人力资本范式转译为量化“硬事实”，把学校教育简化为服务于经济生产率的个体[[21st Century Skills and Competencies Discourse|核心素养]]，在缺乏法定强制力与财政制裁的情形下确立起全球通用的教育评估标尺与[[Cognitive Authority|认知权威]]，促成全球教育政策的“[[OECD-fication|经合组织化]]”（OECD-fication）。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 268–272)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–543)]]
 > - **2000–2009 年 — 欧洲知识经济与人力资本“无形投资”转向** 乔治·帕西亚斯与乔治·鲁萨基斯（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009, pp. 482–484]]）指出，自《德洛尔白皮书》与 2000 年《[[Lisbon Strategy|里斯本战略]]》以来，[[European Commission|欧盟委员会]]彻底将教育从传统社会福利消费重构为提升知识经济竞争力的“无形投资”；[[Panopticism|全景敞视]]式指标监测将个体学习者建构为对自身技能与[[Employability|就业能力]]自负盈亏的人力资本自营者，实现了结构性经济风险向个体的转移。
-> - **2014 — 跨国认知精英与区位竞争话语垄断** [[Argument_Munch_2014_TCR|理查德·明希（Richard Münch, 2014）]]从新制度主义与符号权力视角，剖析经合组织与跨国经济精英网络如何将人力资本理论确立为全球教育话语霸权；指出其借“国家区位竞争”将教育宗旨窄化为即时变现的通用劳动力技能，并依托心理测量技术剥夺欧陆人文教养（[[Bildung]]）传统的制度自决权，在与深层分科历史体制碰撞中异化为功能失调的制度混杂体。[[Argument_Munch_2014_TCR|(Münch, 2014)]]
+> - **2014 — 跨国认知精英与区位竞争[[Discourse|话语]]垄断** [[Argument_Munch_2014_TCR|理查德·明希（Richard Münch, 2014）]]从新制度主义与符号权力视角，剖析经合组织与跨国经济精英网络如何将人力资本理论确立为[[Global Educational Discourse|全球教育话语]]霸权；指出其借“国家区位竞争”将教育宗旨窄化为即时变现的通用劳动力技能，并依托心理测量技术剥夺欧陆人文教养（[[Bildung]]）传统的制度自决权，在与深层分科历史体制碰撞中[[Alienation|异化]]为功能失调的[[Institutional Hybridity|制度混杂]]体。[[Argument_Munch_2014_TCR|(Münch, 2014)]]
 > - **2018–2019 — 世界银行反思“有学无教”与人力资本积累微观转向** 世界银行发布《[[World Development Report 2018|2018年世界发展报告]]》与《Teach 观察员手册》（[[Argument_WorldBank_2019_Teach|World Bank Group, 2019]]），正式确立“[[Learning Crisis|学习贫困]]”（Learning Poverty）概念，反思发展中国家单纯依靠学校入学率扩张并未自发带来人力资本实质积累的历史困境；实证揭示教师教学质量是驱动学业成果的最关键校内源泉，推动人力资本积累分析从宏观入学年限穿透至微观课堂互动质量测评。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 1–3)]]
 > - **2021–2023 — [[European Education Area|欧洲教育区]]量化基准的二十年连续性与财政挂钩** [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] 实证追踪面向 2030 年的[[European Education Area|欧洲教育区]]战略形成，揭示基础技能、[[Academic Attrition|早期离校]]与高教普及率等量化指标完全沿袭自里斯本战略以来的二十年人力资本规制网络，并通过挂钩[[European Semester|欧洲学期]]国别建议与欧洲社会基金（[[English Schools Foundation Hong Kong|ESF]]+），固化了超国家教育政策的就业导向。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 855–857)]]
 > - **2023 — 文化社会学对人力资本出路解释的实证反思** [[Argument_Zheng_2023_ShanghaiSanlian_Ch06|郑雅君 (2023)]]将人力资本假说与文化社会学范式并置，实证揭示主流地位获得将教育视作均质人力资本积累与劳动力市场信号工具，无法解释名校寒门学子在控制[[Academic Achievement|学业成绩]]与文凭后所面临的深层劣势；指出弱势学生的困境根源于[[Habitus|习性]]与精英大学[[Champ|场域]]错配诱发的[[Cultural Barrier|文化障碍]]（[[Cultural Disembedding|文化脱嵌]]与[[Cultural Disorientation|文化迷失]]），而非单纯的人力资本亏欠。[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|(郑雅君, 2023, 第六章, pp. 358–360)]]
@@ -218,7 +227,7 @@ updated: 2026-11-21
 > 二战后西方国家以此为依据，大幅增加高等教育与职业技术教育预算，设立国家级奖学金与助学贷款，将公共财政对各级学校的投入正当化为关乎国家长期经济繁荣的战略性资本形成。
 
 > [!theory-proposition] 命题二｜社会潜在人才库的发掘依赖国家系统性的人力需求预测与科学规划
-> 现代工业与技术社会的复杂化对高技术与专业管理劳动力产生了刚性的结构性需求（Harbison & Myers, 1964）。然而，传统精英制或双轨制学校教育结构锁闭了大量工农子弟的智力潜能，导致“潜在人才库”（latent pool of talents）严重闲置，形成人力资本供给瓶颈（Halsey et al., 1961）。因此，国家必须介入教育规划，依托跨国统计与投入产出模型测算中长期人力需求（Parnes, 1962），通过重构综合中学体制消除阶层壁垒，将教育系统与国家产业结构升级直接对接。
+> 现代工业与技术社会的复杂化对高技术与专业管理劳动力产生了刚性的结构性需求（Harbison & Myers, 1964）。然而，传统精英制或双轨制学校教育结构锁闭了大量工农子弟的智力潜能，导致“潜在人才库”（latent pool of talents）严重闲置，形成人力资本供给瓶颈（Halsey et al., 1961）。因此，国家必须介入教育规划，依托跨国统计与投入产出模型测算中长期人力需求（Parnes, 1962），通过重构[[Gesamtschule|综合中学]]体制消除阶层壁垒，将教育系统与国家产业结构升级直接对接。
 
 > [!example|notitle]
 > 1960 年代经合组织推动的地中海地区项目（[[Mediterranean Regional Project|MRP]]）中，意大利、西班牙与希腊等国技术官僚依据工业发展规划倒推工程师与技术员的人力配额，以此制定并落实国家教育扩张方案。新加坡等东亚[[Developmental State|发展型国家]]在工业化与知识经济转型中，由经济发展局与教育部根据产业升级阶段（劳动密集型轻工、精密工程与电子、生物医药与高端服务业）精密测算并定制阶梯化技术劳动力，通过扩充工艺教育学院、理工学院与大学定向配额，使公共教育体系全面服从于国家战略人力资本形成（Ashton & Sung, 1997）。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 58–60)]]
@@ -332,7 +341,7 @@ updated: 2026-11-21
 > > [!axis] 人文教化与批判反思 vs 人力资本与经济[[Competitiveness|竞争力]]规训
 > > 围绕比较教育究竟应当维系植根于哲学与历史传统的教化（[[Bildung]]）反思与审慎导航，还是彻底沦为服务于国家人力资本积累与经济对标的实用工具展开交锋。
 > >
-> > - **欧陆传统、米特与明希立场** 坚持[[Navigation Metaphor in Comparative Education|比较教育的航海隐喻]]与人文教化（[[Bildung]]）传统，警惕技术官僚将学科矮化为人力资本与绩效对标的附庸。[[Argument_Munch_2014_TCR|Münch (2014)]]进一步批判跨国认知精英与新自由主义经济资本结盟，将通用基础素养与人力资本范式推行为全球唯一标准，破坏了深度分科的学术严谨性，迫使公立学校沦为技能流水线车间。
+> > - **欧陆传统、米特与明希立场** 坚持[[Navigation Metaphor in Comparative Education|比较教育的航海隐喻]]与人文教化（[[Bildung]]）传统，警惕技术官僚将学科矮化为人力资本与绩效对标的附庸。[[Argument_Munch_2014_TCR|Münch (2014)]]进一步批判跨国认知精英与[[Neoliberalism|新自由主义]]经济资本结盟，将通用[[Foundational Literacy and Numeracy|基础素养]]与人力资本范式推行为全球唯一标准，破坏了深度分科的学术严谨性，迫使公立学校沦为技能流水线车间。
 > > - **跨国技术官僚规训** [[OECD|经合组织]]与政府部门通过财政资助与问责指标，强制将[[Research Problem|研究议题]]锚定于提升国家经济人力资本存量与全球竞争力。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 96)]]
 >
 > > [!axis] 工具性发展[[Paradigm|范式]]与[[Empiricism|唯方法论主义]] vs 历史文化深度与[[Geisteswissenschaften|精神科学]]
@@ -369,7 +378,7 @@ updated: 2026-11-21
 > > 围绕增加受教育年限与人力资本存量是否必然自发转化为个体阶层流动与宏观经济增长，还是受制于宏观经济紧缩与地方劳动力市场吸纳能力展开交锋。
 > >
 > > - **世界银行正统人力资本假说（World Bank, 1995; Schultz, 1961）** 预设教育投资与个人未来收益之间存在线性的因果变现链条，假定中等教育扩张能够直接提升劳动生产率并驱动发展中国家经济腾飞。
-> > - **批判政治经济学与情境反思（[[Argument_Vavrus_2006_CICE|Vavrus & Bartlett, 2006]]）** 揭示“人力资本投资直接变现假定”忽视了国际金融机构推行结构调整计划（SAPs）与财政紧缩所造成的深层破坏；坦桑尼亚等国实地田野表明，公共部门岗位冻结与地方劳动力市场吸纳能力萎缩，使贫困家庭在承担沉重学费成本后陷入“文凭无用”的生存困境，抽离宏观政治经济约束的人力资本推论具有严重虚构性。[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, p. 97)]]
+> > - **批判政治经济学与情境反思（[[Argument_Vavrus_2006_CICE|Vavrus & Bartlett, 2006]]）** 揭示“人力资本投资直接变现假定”忽视了国际金融机构推行结构调整计划（[[Structural Adjustment Programs|SAPs]]）与财政紧缩所造成的深层破坏；坦桑尼亚等国实地田野表明，公共部门岗位冻结与地方劳动力市场吸纳能力萎缩，使贫困家庭在承担沉重学费成本后陷入“文凭无用”的生存困境，抽离宏观政治经济约束的人力资本推论具有严重虚构性。[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, p. 97)]]
 >
 > > [!axis] 人力资源开发（HCT）vs 人本主义全面发展（[[UNESCO]]）
 > > 围绕教育的终极目的是服务于经济增长与资本积累的“人力资源开发”（Human Resource Development），还是实现人本身的尊严、自我完善与终极福祉展开交锋。
@@ -381,7 +390,7 @@ updated: 2026-11-21
 > > 围绕在积极劳动力市场与福利改革中，应当优先投资于长周期的教育培训以积累长效人力资本，还是推行“工作优先”策略以快速脱离救济，以及两类模式在跨国[[Policy Borrowing|政策借用]]中遭遇的实证评价门槛展开交锋。
 > >
 > > - **人力资本技能培训学派与[[Nordic Model of Education|北欧模式]]** 瑞典等北欧福利国家主张通过长周期的人力资本投资、深度技能培训与公共教育支持，从根本上重塑失业者的职业技能与长效生产力。
-> > - **工作优先模式与循证因果评估壁垒（[[Argument_Legrand_2012_PolStud|Legrand, 2012]]）** 英国新工党跨国搜寻福利与就业改革范式时，瑞典的人力资本深度培训模式因缺乏严密的[[Randomised Controlled Trials|随机对照试验]]（RCT）或匹配比较组等衡量因果净影响（impact）的实证数据，被英国决策官员直接否决（ruled out）；英国政府转而全面借用拥有 [[MDRC]] 严密随机实验数据的美国“工作优先”（work-first）快速就业模式。这揭示出在[[Evidence-Based Policy-Making|循证决策]]机会结构下，长周期人力资本培训方案面临因果实证测度壁垒与即时证据赤字，易在追求立竿见影政绩的跨国政策竞争中被短期干预模式挤压淘汰。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 338, 341)]]
+> > - **工作优先模式与循证因果评估壁垒（[[Argument_Legrand_2012_PolStud|Legrand, 2012]]）** 英国新工党跨国搜寻福利与就业改革范式时，瑞典的人力资本深度培训模式因缺乏严密的[[Randomised Controlled Trials|随机对照试验]]（RCT）或匹配比较组等衡量因果净影响（impact）的实证数据，被英国决策官员直接否决（ruled out）；英国政府转而全面借用拥有 [[MDRC]] 严密随机实验数据的美国“工作优先”（work-first）快速就业模式。这揭示出在[[Evidence-Based Policy-Making|循证决策]][[Opportunity Structure|机会结构]]下，长周期人力资本培训方案面临因果实证测度壁垒与即时证据赤字，易在追求立竿见影政绩的跨国政策竞争中被短期干预模式挤压淘汰。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 338, 341)]]
 >
 > > [!axis] 量化硬事实认知权威 vs 跨国软治理隐性规制
 > > 围绕经合组织将人力资本理论转译为 PISA 量化硬事实，究竟是提供了超越国内党派偏见、客观透明的科学评价公尺，还是在缺乏民主问责下实施的新自由主义隐性规训展开争鸣。
@@ -398,7 +407,7 @@ updated: 2026-11-21
 > - **过度学校化与[[Alienation|异化]]** [[Torsten Husén|托斯滕·胡森]]（Husén, 1982）等学者指出，将教育简化为人力资本积累导致全社会陷入非理性的学校竞赛，加剧青年人的心理异化，并未消解阶级特权。
 > - **全球教育的经合组织化** [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] 揭示经合组织依托 PISA 将人力资本范式转译为量化硬事实，在缺乏法定强制力下确立认知权威并行使跨国软治理，导致全球教育政策陷入单向度的“经合组织化”（OECD-fication）。
 > - **区位竞争工具化与人文教养瓦解** [[Argument_Munch_2014_TCR|Münch (2014)]] 揭示经合组织跨国专家网络以国家区位竞争为由将人力资本范式绝对化，将课程解构为短期通用技能模块，既瓦解了以全人发展为旨趣的文化教养底蕴，又加剧了弱势群体边缘化与师生过度负荷。
-> - **人力资本梯队规划的阶层分化与社会凝聚代价** [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] 揭示，即使发展型国家能够通过精密行政规划成功定制各级人力资本以匹配外向型工业升级，但过度依赖[[Educational Meritocracy|唯才是用]]早期分流与人力资本工具理性，使得顶尖分流通道被优势阶层捕获，引发文凭主义恶性竞争与社会阶层固化，削弱了国家赖以维系社会凝聚的政治合法性基石（pp. 67–69）。
+> - **人力资本梯队规划的阶层分化与社会凝聚代价** [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] 揭示，即使发展型国家能够通过精密行政规划成功定制各级人力资本以匹配外向型工业升级，但过度依赖[[Educational Meritocracy|唯才是用]]早期分流与人力资本[[Instrumental Rationality|工具理性]]，使得顶尖分流通道被优势阶层捕获，引发文凭主义恶性竞争与社会阶层固化，削弱了国家赖以维系社会凝聚的政治合法性基石（pp. 67–69）。
 
 ---
 
@@ -423,4 +432,4 @@ updated: 2026-11-21
 > - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 追踪面向 2030 年欧洲教育区战略形成，揭示欧盟在基础技能与早期离校等指标上长达二十年的人力资本投资与就业导向连续性。
 > - [[Argument_Zheng_2023_ShanghaiSanlian_Ch06|郑雅君 (2023)]] — 对比地位获得研究的人力资本假说与文化社会学范式，实证揭示名校寒门学子毕业出路劣势源于习性与场域错配的文化障碍，而非人力资本投资不足 (pp. 358–360)。
 > - [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] — 结合坦桑尼亚中等教育与结构调整实证案例，批判世界银行将人力资本投资视为必然直接变现为经济增长的虚假假定，揭示宏观紧缩政策对地方劳动力吸纳能力的实质阻抑。
-> - [[Argument_Dustmann_2017_EconJ|Dustmann et al. (2017)]] — 基于德国小学升学入学截止日回归断点设计（RDD），检验早期分流与优势轨道对成人劳动力市场工资与人力资本积累的长期因果影响，揭示教育系统渗透性与潜在工作经验积累对早期轨道人力资本差异的动态补偿机制。
+> - [[Argument_Dustmann_2017_EconJ|Dustmann et al. (2017)]] — 基于德国小学升学入学截止日回归断点设计（[[Regression Discontinuity Design|RDD]]），检验早期分流与优势轨道对成人劳动力市场工资与人力资本积累的长期因果影响，揭示教育系统渗透性与潜在工作经验积累对早期轨道人力资本差异的动态补偿机制。

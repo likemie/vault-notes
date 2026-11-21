@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: austria
 person_region: "austria"
-person_related_count: 16
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -31,9 +31,9 @@ related_concepts:
   - "[[School Autonomy]]"
   - "[[Normal School]]"
   - "[[Paradigm]]"
+  - "[[Gatekeepers]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Evidence-Based School Development]]"
-  - "[[Gatekeepers]]"
 related_theories:
   - "[[Structural Functionalism]]"
   - "[[Educational Governance Framework]]"
@@ -42,14 +42,16 @@ related_methods:
   - "[[Cohort Study]]"
 related_instruments: []
 related_persons:
+  - "[[Mark Bray]]"
   - "[[Talcott Parsons]]"
-related_facts: []
+related_facts:
+  - "[[Gesamtschule]]"
 related_arguments:
   - "[[Argument_Altrichter_2019_ZfB]]"
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-11-21
 ---
 
 ---
@@ -71,9 +73,9 @@ updated: 2026-10-22
 ---
 
 > [!timeline] 生平与职涯
-> - **1940** 出生于奥地利福拉尔贝格州布雷根茨（Bregenz）。
+> - **1940** 出生于奥地利福拉尔贝格州[[Mark Bray|布雷]]根茨（Bregenz）。
 > - **1960 年代** 在奥地利因斯布鲁克大学修读教育学、心理学与哲学，获博士学位；后任职于维也纳大学教育研究所。
-> - **1970–1987** 赴德国康斯坦茨大学（Universität Konstanz）任教育学与社会学正教授，主持联邦综合中学比较研究项目。
+> - **1970–1987** 赴德国康斯坦茨大学（Universität Konstanz）任教育学与社会学正教授，主持联邦[[Gesamtschule|综合中学]]比较研究项目。
 > - **1979–1981** 启动具有里程碑意义的 LifE 纵向[[Cohort Study\|追踪研究]]（Lebensverläufe von der späten Kindheit ins Erwachsenenalter），追踪两千余名青少年跨越四十年的生活史、教育成就与家庭代际传承。
 > - **1980** 出版奠基巨著《学校理论》（*Theorie der Schule*），成为德语区[[Normal School\|师范教育]]与教育社会学的权威标准教材。
 > - **1987–2006** 调任瑞士苏黎世大学（Universität Zürich）教育科学研究所讲席教授兼所长，长期领导欧洲多国[[School Effectiveness\|学校效能]]与中等教育体制改革研究。

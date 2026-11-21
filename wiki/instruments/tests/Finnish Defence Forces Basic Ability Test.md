@@ -9,7 +9,7 @@ aliases:
 summary: "芬兰国防军面向全体男性应征士兵施测的标准化综合认知能力测验，包含算术推理、言语推理和空间逻辑矩阵三大维度，构成芬兰经济学与比较教育研究检验长周期学业因果效应的核心微观数据库。"
 type: instrument
 instrument_type: test
-instrument_related_count: 8
+instrument_related_count: 9
 instrument_related_level: 0
 instrument_related_stars: "☆"
 instrument_related_color: "#dbeafe"
@@ -42,12 +42,13 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[PISA]]"
+  - "[[Gesamtschule]]"
 related_arguments:
   - "[[Argument_Sahlgren_2015_CPS]]"
 confidence: high
 status: draft
 created: 2026-11-06
-updated: 2026-11-11
+updated: 2026-11-21
 ---
 
 ---
@@ -84,7 +85,7 @@ updated: 2026-11-11
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
 > | [[Argument_Sahlgren_2015_CPS\|Sahlgren (2015)]] | 国防军基础认知测验历年标准化档案 | 1986–2010 年间每年数万名 18–20 岁芬兰男性应征士兵全样本 | 历经数十年跨期等值校准，[[Reliability\|信度]]与效度极高 | 士兵认知均分在 1988–1997 年间稳步上升相当于 24 个 [[PISA]] 分值，在 1997–2009 年间急跌 21 个分值，证实学业崛起先于分权改革而衰退伴随分权深化 |
-> | [[Argument_Sahlgren_2015_CPS\|Sahlgren (2015)]]（转引 Pekkarinen 等研究） | 国防军基础能力测试（Peruskoe）档案 | 1972–1977 年分批推行综合学校改革的数十万男性入伍士兵 | 军方全人口微观行政数据，无志愿参与偏差 | [[Difference-in-Differences\|双重差分]]估计显示综合学校对全国男性算术与逻辑均分无显著整体影响，对言语推理有微弱正效应，但大幅缩减了高低家庭背景子女的代际分数差距 |
+> | [[Argument_Sahlgren_2015_CPS\|Sahlgren (2015)]]（转引 Pekkarinen 等研究） | 国防军基础能力测试（Peruskoe）档案 | 1972–1977 年分批推行[[Gesamtschule\|综合学校]]改革的数十万男性入伍士兵 | 军方全人口微观行政数据，无志愿参与偏差 | [[Difference-in-Differences\|双重差分]]估计显示综合学校对全国男性算术与逻辑均分无显著整体影响，对言语推理有微弱正效应，但大幅缩减了高低家庭背景子女的代际分数差距 |
 
 ---
 

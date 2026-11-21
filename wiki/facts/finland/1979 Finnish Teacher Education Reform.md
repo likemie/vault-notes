@@ -11,7 +11,7 @@ subtype: policy
 region: finland
 fact_region: "finland"
 fact_kind: "policy"
-fact_related_count: 23
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -43,6 +43,7 @@ related_persons:
   - "[[Pasi Sahlberg]]"
   - "[[Uno Cygnaeus]]"
 related_facts:
+  - "[[Gesamtschule]]"
   - "[[Teacher Training School System in Finland]]"
   - "[[PISA]]"
   - "[[Finnish PISA Miracle]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-06
-updated: 2026-11-11
+updated: 2026-11-21
 ---
 
 ---
@@ -63,7 +64,7 @@ updated: 2026-11-11
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 芬兰议会于 1970 年代中期立法通过、1979 年在全国综合大学全面落地的教师教育改革法案。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 16–17, 24–26)]]
 > - **适用地区 / 对象** 芬兰全国各大学教育学院、师范生以及全体公立初等学校（1–6年级）与中等学校（7–9年级）专任教师。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 16, 25)]]
-> - **问题背景** 1970 年代初综合学校改革全面铺开，旧有 2 至 3 年制师范讲习所的大专培训模式被认为难以适应九年一贯制学校对高水平综合素养与研究能力的新要求；政府试图通过学术升格统一并提升师资专业地位。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 16, 25)]]
+> - **问题背景** 1970 年代初[[Gesamtschule|综合学校]]改革全面铺开，旧有 2 至 3 年制师范讲习所的大专培训模式被认为难以适应九年一贯制学校对高水平综合素养与研究能力的新要求；政府试图通过学术升格统一并提升师资专业地位。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 16, 25)]]
 > - **制度位置** 构成了综合学校改革的关键师资配套工程，正式确立了芬兰教师教育完全大学化、研究型导向与高学历准入门槛的现代法律框架。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 16–17)]]
 
 ---

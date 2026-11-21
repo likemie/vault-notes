@@ -5,7 +5,7 @@ aliases:
 summary: "依据学术能力考试将中学生分流至不同学校类型的制度，常用于描述以早期选拔组织中等教育机会和路径的安排。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 12
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,6 +17,7 @@ tags:
 - level/k12
 related_concepts:
   - "[[Comprehensive Education]]"
+  - "[[Social Economy]]"
   - "[[Academic Achievement]]"
   - "[[Abstract]]"
   - "[[Research Utilization]]"
@@ -27,6 +28,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Grammar School]]"
+  - "[[Gesamtschule]]"
   - "[[Education and Inspections Act 2006]]"
   - "[[Selective Schools Expansion Fund]]"
   - "[[Sutton Trust]]"
@@ -36,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-22
+updated: 2026-11-21
 ---
 
 > [!info] 定义
@@ -44,7 +46,7 @@ updated: 2026-10-22
 >
 
 > [!note-] 概念演变
-> 英国选择性教育制度在 20 世纪中期达到顶峰，此后经历了大规模的综合学校改革，大部分地区取消了 11-plus 考试并转为综合中学体系。然而，英格兰仍有 163 所[[Grammar School\|文法学校]]在地方层面保留选拔性招生([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.3]])。
+> 英国选择性教育制度在 20 世纪中期达到顶峰，此后经历了大规模的[[Gesamtschule|综合学校]]改革，大部分地区取消了 11-plus 考试并转为综合中学体系。然而，英格兰仍有 163 所[[Grammar School\|文法学校]]在地方层面保留选拔性招生([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.3]])。
 >
 > 2006 年《教育与督导法》（[[Education and Inspections Act 2006]]）明确禁止新建文法学校，但允许现有文法学校继续运作。2018 年，保守党政府推出 [[Selective Schools Expansion Fund]]（SSEF），允许现有文法学校申请额外资金扩大招生规模，实质上在不修改法律的前提下绕过了新建禁令。
 >
@@ -63,7 +65,7 @@ updated: 2026-10-22
 >
 > - **维持既有不平等** 学术分流导致学校不能代表其所在社区的人口构成，对学生福祉产生负面影响（Phillippo, 2019；Bainbridge et al., 2022, p.10–11）
 > - **不促进社会流动** 无论在相对还是绝对意义上，选择性教育均未提高社会流动性（Buscha et al., 2021；Bainbridge et al., 2022, p.10–11）
-> - **加剧成就差距** 对长期处于弱势处境的儿童，选择性教育扩大了社会经济群体间的[[Academic Achievement\|学业成就]]差距（Gorard et al., 2021；Bainbridge et al., 2022, p.11）
+> - **加剧成就差距** 对长期处于弱势处境的儿童，选择性教育扩大了[[Social Economy|社会经济]]群体间的[[Academic Achievement\|学业成就]]差距（Gorard et al., 2021；Bainbridge et al., 2022, p.11）
 > - **对多数学生成绩影响甚微（Lu, 2020a, 2020b；Bainbridge et al., 2022, p.11）**
 > - **资金分配不公** 选择性学校获得不成比例的高额收入（Rowe & Perry, 2021；Bainbridge et al., 2022, p.11）
 >

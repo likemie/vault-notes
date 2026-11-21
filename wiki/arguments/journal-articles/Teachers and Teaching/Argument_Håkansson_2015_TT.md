@@ -9,7 +9,7 @@ title: "Argument_Håkansson_2015_TT"
 argument_key: "Argument_Håkansson_2015_TT"
 argument_display_title: "Structured teaching and classroom management: The solution for the decline of Swedish school results? Conclusions drawn from a comparative meta-synthesis of teaching and learning"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Variable]]"
+  - "[[Immigrant Status]]"
   - "[[Student Motivation]]"
   - "[[Teacher Support for Students]]"
   - "[[Classroom Management]]"
@@ -45,13 +46,14 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[PISA]]"
+  - "[[Gesamtschule]]"
 related_arguments: []
 sources:
   - "[[sources/Håkansson_2015_TT|Håkansson_2015_TT]]"
 part_of: ''
 status: draft
 created: 2026-05-22
-updated: 2026-10-30
+updated: 2026-11-21
 year: 2015
 doi: ""
 citation_aliases:
@@ -79,10 +81,10 @@ citation_aliases:
 >
 > ### 第一层：成绩下降先制造了“必须做点什么”的政治压力
 >
-> 1. 起点不是教学法争论，而是成绩焦虑。瑞典综合学校成绩下降，被放进 [[PISA]]、国家测评和学科成绩变化的背景里讨论，尤其是阅读、数学和科学方面的下滑，让政策圈开始强烈追问“学校内部哪里出了问题”。
+> 1. 起点不是教学法争论，而是成绩焦虑。瑞典[[Gesamtschule|综合学校]]成绩下降，被放进 [[PISA]]、国家测评和学科成绩变化的背景里讨论，尤其是阅读、数学和科学方面的下滑，让政策圈开始强烈追问“学校内部哪里出了问题”。
 >    - **例子** 当一个国家在国际比较里看到自己往下掉，政策反应通常不是先讨论课程哲学，而是先找最容易被干预的学校内部[[Variable\|变量]]，例如教师做法、课堂组织或学校工作方式。
 >
-> 2. 但作者马上加一道限制：成绩下降不能被解释成单一原因。研究里同时出现移民背景、资源配置、学校分化、合格教师比例和工作形式变化等多个解释方向。
+> 2. 但作者马上加一道限制：成绩下降不能被解释成单一原因。研究里同时出现[[Immigrant Status|移民背景]]、资源配置、学校分化、合格教师比例和工作形式变化等多个解释方向。
 >
 > 3. 这一步很关键，因为它决定了后面的论证不会滑向“只要换一种教法就能救成绩”。文章真正抓住的是其中一个更具体的线索：**课堂里的工作形式确实变了，而这种变化让教师课堂领导重新变成政策焦点**。
 >

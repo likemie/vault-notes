@@ -10,7 +10,7 @@ subtype: program
 region: germany
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 25
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -51,6 +51,8 @@ related_facts:
   - "[[PISA]]"
   - "[[Federal Ministry of Education and Research]]"
   - "[[Physik im Kontext]]"
+  - "[[Hauptschule]]"
+  - "[[Realschule]]"
   - "[[PISA Shock in Germany]]"
 related_arguments:
   - "[[Argument_Manitius_vanHolt_2019_BzS]]"
@@ -58,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-27
-updated: 2026-11-14
+updated: 2026-11-21
 ---
 
 ---
@@ -79,7 +81,7 @@ updated: 2026-11-14
 
 > [!policy-design] 方案设计
 > - **项目目标** 破除抽象[[Rote Learning|死记硬背]]，通过真实情境激发学习兴趣，帮助学生建立连贯的化学学科基本概念网络，提升[[Scientific Literacy|科学素养]]。
-> - **覆盖对象** 参与试点的十余个联邦州普通中学（Gymnasium 与 Realschule）化学任课教师与受试班级学生。
+> - **覆盖对象** 参与试点的十余个联邦州[[Hauptschule|普通中学]]（Gymnasium 与 [[Realschule]]）化学任课教师与受试班级学生。
 > - **情境化教学四阶段模型（Vier-Phasen-Modell）**
 >   - **接触与情境相遇（Begegnung）** 从真实生活情境（如汽车尾气催化、可降解塑料、运动饮料电解质）出发，激发学生的好奇心与认知冲突。
 >   - **好奇与问题拆解（Neugier und Fragen）** 引导学生将日常生活疑虑转化为具有可探究性的化学专业问题。

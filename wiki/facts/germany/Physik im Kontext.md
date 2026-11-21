@@ -10,9 +10,9 @@ subtype: program
 region: germany
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 17
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 22
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2001–2008"
 initiator_organization: "德国联邦教育与研究部（BMBF）与基尔大学 IPN 研究所"
@@ -27,7 +27,9 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Scientific Literacy]]"
   - "[[Problem Solving]]"
+  - "[[Alienation]]"
   - "[[Concept Mapping]]"
+  - "[[Regionness]]"
   - "[[Document]]"
 related_theories: []
 related_methods:
@@ -40,9 +42,12 @@ related_persons:
 related_facts:
   - "[[Federal Ministry of Education and Research]]"
   - "[[PISA]]"
+  - "[[Realschule]]"
+  - "[[Gesamtschule]]"
   - "[[Chemie im Kontext]]"
   - "[[SINUS]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
+  - "[[Hauptschule]]"
   - "[[PISA Shock in Germany]]"
   - "[[CORE Education]]"
 related_arguments:
@@ -50,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-21
-updated: 2026-11-14
+updated: 2026-11-21
 ---
 
 ---
@@ -61,8 +66,8 @@ updated: 2026-11-14
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2001 年底紧急立项，2002 年全面推进，历经两期试点至 2008 年结项。
 > - **发起方与资助机制** 由[[Federal Ministry of Education and Research|德国联邦教育与研究部]]（BMBF）全额出资设立重大科研专项，基尔大学 IPN 研究所联合不来梅大学、柏林自由大学等高校专家团队共同研发实施。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 29)]]
-> - **覆盖范围与对象** 辐射德国 14 个联邦州的完全中学（Gymnasium）、实科中学与综合中学物理教研组及数万名中学生。
-> - **核心问题导向** 直面 PISA 2000 中德国学生在科学素养与[[Problem Solving|问题解决能力]]排名位列第 20 位的落后局面，化解学生对物理学科普遍存在的“高难度、低兴趣、脱离现实”的畏难与疏离危机。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 29–30)]]
+> - **覆盖范围与对象** 辐射德国 14 个联邦州的完全中学（Gymnasium）、[[Realschule|实科中学]]与[[Gesamtschule|综合中学]]物理教研组及数万名中学生。
+> - **核心问题导向** 直面 PISA 2000 中德国学生在科学素养与[[Problem Solving|问题解决能力]]排名位列第 20 位的落后局面，化解学生对物理学科普遍存在的“高难度、低兴趣、脱离现实”的畏难与[[Alienation|疏离]]危机。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 29–30)]]
 
 ---
 
@@ -85,7 +90,7 @@ updated: 2026-11-14
 > - **2001–2003 — 方案研发与先导试点期**
 >   - 基尔 IPN 团队研制物理语境教学概念框架，在石勒苏益格-荷尔斯泰因州等首批学校开展教学单元试测。
 > - **2003–2006 — 跨州推广与网络化实施期**
->   - 拓展至 14 个联邦州，建立区域性教师中心与线上资源库，吸纳数百所中学的物理骨干教师参与[[Action Research|行动研究]]。
+>   - 拓展至 14 个联邦州，建立[[Regionness|区域性]]教师中心与线上资源库，吸纳数百所中学的物理骨干教师参与[[Action Research|行动研究]]。
 > - **2006–2008 — 终期评估与常规教学制度化吸纳**
 >   - 总结出版成套《语境中的物理》教师手册与探究资源包，教学单元被各州文教部长联席会议（[[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]]）新颁布的全国物理国家教育标准深度吸纳。
 
@@ -115,7 +120,7 @@ updated: 2026-11-14
 > > 传统物理学界与高校教授曾对该项目提出质疑。
 > >
 > > - **大学专业物理学者担忧** 批评过多生活化情境可能冲淡了物理学严密的公理化体系与高难度数学推导，担忧学生升入大学理工专业后面临数理根基薄弱问题。
-> > - **IPN 教学论专家反驳** 指出传统教学导致绝大多数普通中学生丧失学习兴趣，唯有情境化才能培养普遍公民素养，项目在保留基础公式的同时，有效重塑了概念掌握的认知路径。
+> > - **IPN 教学论专家反驳** 指出传统教学导致绝大多数[[Hauptschule|普通中学]]生丧失学习兴趣，唯有情境化才能培养普遍公民素养，项目在保留基础公式的同时，有效重塑了概念掌握的认知路径。
 
 ---
 

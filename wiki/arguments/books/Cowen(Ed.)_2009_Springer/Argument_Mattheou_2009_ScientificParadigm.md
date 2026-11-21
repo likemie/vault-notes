@@ -7,7 +7,7 @@ title: "Argument_Mattheou_2009_ScientificParadigm"
 argument_key: "Argument_Mattheou_2009_ScientificParadigm"
 argument_display_title: "The scientific paradigm in comparative education"
 argument_kind: "book-chapter"
-argument_related_count: 82
+argument_related_count: 85
 argument_related_level: 8
 argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -54,7 +54,9 @@ related_concepts:
   - "[[The Sublime]]"
   - "[[Nationalism]]"
   - "[[Intangible Spiritual Forces]]"
+  - "[[Social Economy]]"
   - "[[Discourse]]"
+  - "[[Instrumental Rationality]]"
   - "[[Research Scope]]"
   - "[[Scientific Method]]"
   - "[[Subjectivism]]"
@@ -117,11 +119,12 @@ related_facts:
   - "[[International Institute for Educational Planning]]"
   - "[[IEA]]"
   - "[[PISA]]"
+  - "[[Gesamtschule]]"
   - "[[UNESCO]]"
   - "[[World Bank]]"
 status: draft
 created: 2026-09-07
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 ---
 
@@ -209,7 +212,7 @@ updated: 2026-11-19
 
 > [!event-context] 二战浩劫与战后欧洲重建的历史转向
 > - **时间地点与历史情境** 20 世纪 40 年代中叶至 50 年代初的战后欧洲；正如历史学家马克·马佐尔（Mark Mazower; Mazower, 1998, p. 185）在《黑暗大陆》中所指出的，满目疮痍的欧洲急切寻求走出极权废墟、迈向黄金时代的重建蓝图。
-> - **关键主体** 战后失去公信力的古典人文精英、急切渴望社会经济重建的民主国家执政者，以及信奉现代科学规划的新一代技术官僚与跨国专家。
+> - **关键主体** 战后失去公信力的古典人文精英、急切渴望[[Social Economy|社会经济]]重建的民主国家执政者，以及信奉现代科学规划的新一代技术官僚与跨国专家。
 > - **制度与道德破产** 正如历史学家诺曼·戴维斯（Norman Davies; Davies, 1997, p. 899）所针砭的：军国主义、法西斯主义和极权意识形态不仅在受难民族的被操纵大众中滋生，更在欧洲受教育程度最高、最民主的精英阶层中大行其道，宣告古典人文学科教化防线的全面坍塌。
 > - **现实需求转向** 促进经济起飞、劳动力再配置与社会民主化的教育改革迅速跃升为时代核心[[Discourse|话语]]（Adams & Farrell, 1967; Sobel, 1982），政策决策的可操作性与改革方案的实际成效被推到了绝对中心地位。
 
@@ -221,7 +224,7 @@ updated: 2026-11-19
 > | **思想根基** | 古典人文学科教化传统、历史哲学思辨 | 经验行为科学、数理统计与社会系统论 |
 > | **关注焦点** | 民族精神演进、历史渊源考掘与不可捉摸的文化力量 | 战后废墟重建、经济起飞、劳动力配置与制度改革 |
 > | **分析视角** | 宏观全景式、偏重质性阐释与个体直觉洞察 | 微观/中观制度运行、[[Variable\|变量]][[Operationalization\|操作化]]与假设检验 |
-> | **价值立场** | 宽泛的道德改良主义（Meliorism）与全人教化 | 工具理性导向的政策决策、五年计划与技术援助 |
+> | **价值立场** | 宽泛的道德改良主义（Meliorism）与全人教化 | [[Instrumental Rationality\|工具理性]]导向的政策决策、五年计划与技术援助 |
 > | **有效性评价** | 依赖学者个人修养与历史阐释的敏感性 | 追求可经验检验的数据支撑、因果确定性与预测力 |
 
 > [!sub-claim] 2. 战后规划理性、量化突破与对科学预测力量的迫切渴求
@@ -232,7 +235,7 @@ updated: 2026-11-19
 > - **视角过分宏观** 执着于民族国家数百年乃至上千年的宏大文化通史白描，完全脱离具体教育机构、学制架构与微观教学过程的现实运行机理。
 > - **抱负过分庞杂** 企图一次性统摄民族精神全貌与全人教化理想，缺乏明确界定、受控且具备操作性的经验[[Research Scope\|研究边界]]。
 > - **方法过度质性与主观** 过度依赖学者个人的直觉顿悟、道德改良热望与哲学反思，充斥着主观印象主义与难以检验的价值偏见。
-> - **与现实改革严重脱节** 面对战后教育机会均等化、综合中学重构、中学后教育扩张与劳动力人力资源测算的现实决策，无法提供具有确定性与可操作性的政策处方。
+> - **与现实改革严重脱节** 面对战后教育机会均等化、[[Gesamtschule|综合中学]]重构、中学后教育扩张与劳动力人力资源测算的现实决策，无法提供具有确定性与可操作性的政策处方。
 
 在历史学派遭遇声誉危机的同时，外部自然科学取得的辉煌工程突破，以及社会科学内部相继爆发的[[Behaviorism|行为主义]]革命，共同树立了极具说服力的现代科学典范（Kuhn, 1970; Davies, 1997, p. 1076）。
 

@@ -77,6 +77,7 @@ related_facts:
   - "[[Danish School Council]]"
   - "[[Danish Evaluation Institute]]"
   - "[[Danish National Centre for Social Research]]"
+  - "[[AIMS Programme]]"
   - "[[Finnish Education Evaluation Centre]]"
   - "[[PISA]]"
   - "[[Ny Nordisk Skole]]"
@@ -84,20 +85,21 @@ related_facts:
   - "[[Centre for Educational Assessment]]"
   - "[[The Green Book]]"
   - "[[European Commission]]"
+  - "[[Gesamtschule]]"
 related_arguments: []
 sources:
   - "[[sources/Volmari_2025_CE|Volmari_2025_CE]]"
 part_of:
 status: draft
 created: 2026-11-09
-updated: 2026-11-15
+updated: 2026-11-21
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Volmari_2025_CE"
 argument_key: "Argument_Volmari_2025_CE"
 argument_display_title: "Scientification or political legitimation? Tracing the concepts of evidence and context in Nordic school reforms"
 argument_kind: "journal-article"
-argument_related_count: 57
+argument_related_count: 59
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -164,7 +166,7 @@ issuing_organization: ""
 > | **丹麦** | Undervisningsdifferentiering som bærende pædagogisk princip（2011 年） | Differentiated Teaching as a Core Pedagogical Principle ([[Danish Evaluation Institute]]) | [[Danish Evaluation Institute\|丹麦评估研究所]]关于分层[[Differentiated Instruction\|差异化教学]]的研究报告 |
 > | **丹麦** | Ledelse af folkeskolerne – vilkår og former for skoleledelse（2011 年） | Leadership in the Public Schools – Conditions and Forms of School Management ([[Danish National Centre for Social Research\|SFI]]) | [[Danish National Centre for Social Research\|丹麦国家社会研究中心]]（The Danish National Centre for Social Research, SFI）关于[[School Leadership\|学校领导力]]条件之调查 |
 > | **芬兰** | Tulevaisuuden perusopetus | Future Basic Education | 面向未来的基础教育愿景规划文本 |
-> | **芬兰** | Perusopetus 2020 – yleiset valtakunnalliset tavoitteet ja tuntijako | Basic Education 2020: Common National Aims and Division of Teaching Hours | 基础教育 2020 全国总目标与课时分配方案建议书 |
+> | **芬兰** | Perusopetus 2020 – yleiset valtakunnalliset tavoitteet ja tuntijako | Basic Education 2020: Common National [[AIMS Programme\|Aims]] and Division of Teaching Hours | 基础教育 2020 全国总目标与课时分配方案建议书 |
 > | **芬兰** | Opinto-ohjauksen arviointi perusopetuksessa, lukiossa ja ammatillisessa koulutuksessa | Evaluation of Student Counseling in Basic Education, Upper Secondary and VET | 基础教育、高中与职业教育学生升学指导评估报告 |
 > | **芬兰** | Onko laskutaito laskussa? Matematiikan oppimistulokset peruskoulun päättövaiheessa 2011 | Are Mathematical Skills in Decline? Math Learning Results at End of Basic Education 2011 | 基础教育终结阶段数学[[Academic Achievement\|学业成就]]评估专题报告 |
 > | **芬兰** | Aihekokonaisuuksen tavoitteiden toteutumisen seuranta-arviointi 2010 | Evaluation of Achievement of Overarching Education Goals 2010 | 跨学科跨领域教育总目标达成度追踪评估报告 |
@@ -335,7 +337,7 @@ issuing_organization: ""
 ---
 
 > [!warning] 自述局限
-> 分析范围限定于三国基础教育综合学校与课程改革的政策准备阶段，未追踪法案颁布后在学区、学校与课堂一线的实际落地转化；受访者的追溯性口述回忆可能存在事后合理化重构与记忆衰减偏误；文本材料侧重委员会与核心决策部门文件，未涵盖大众媒体与草根教师工会对证据使用的公共辩论。
+> 分析范围限定于三国基础教育[[Gesamtschule|综合学校]]与课程改革的政策准备阶段，未追踪法案颁布后在学区、学校与课堂一线的实际落地转化；受访者的追溯性口述回忆可能存在事后合理化重构与记忆衰减偏误；文本材料侧重委员会与核心决策部门文件，未涵盖大众媒体与草根教师工会对证据使用的公共辩论。
 
 ---
 

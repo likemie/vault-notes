@@ -7,7 +7,7 @@ aliases:
 summary: "比较教育中关于不同国家和地区教育系统在现代化与全球化进程中走向相似的解释范式；经历了从早期联合国教科文组织科学理想、技术趋同论、现代性模式变量到当代新制度主义同构论的演变；后遭历史制度主义与批判学者关于遮蔽政治权力、抹杀国家行政传统与中介调节的深入批评。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 25
+theory_related_count: 27
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Variable]]"
   - "[[Determinism]]"
+  - "[[Mimesis]]"
   - "[[Global Education Reform Movement]]"
   - "[[Hypothesis]]"
   - "[[Discourse]]"
@@ -43,13 +44,14 @@ related_persons:
   - "[[John W. Meyer]]"
 related_facts:
   - "[[UNESCO]]"
+  - "[[Realschule]]"
 related_arguments:
   - "[[Argument_Cowen_2023_CE]]"
   - "[[Argument_Verger_2019_Discourse]]"
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-11-11
+updated: 2026-11-21
 ---
 
 ---
@@ -74,7 +76,7 @@ updated: 2026-11-11
 > [!dev-timeline] 理论版本与贡献
 > - **1960 年代 — 技术趋同理论** 哈尔西、弗劳德与安德森（A. H. Halsey, Jean Floud, & C. Arnold Anderson, 1965）提出技术[[Determinism|决定论]]取向的趋同模型，论证工业生产组织的高技术复杂度直接驱动国家教育体系走向功能同构。
 > - **1970 年代 — 现代性模式变量扩展** 英克尔斯引入现代性态度与价值指标，将制度趋同假说延伸至微观层面的个体心理与行为模式变量。
-> - **1980 年代至今 — 社会学新制度主义同构转向** [[John W. Meyer|约翰·迈耶]]（John W. Meyer）等学者将解释核心从技术功能需求转向全球世界文化（World Society），提出强制性、规范性与模仿性同构机制，将趋同重构为全球合法性仪式。
+> - **1980 年代至今 — 社会学新制度主义同构转向** [[John W. Meyer|约翰·迈耶]]（John W. Meyer）等学者将解释核心从技术功能需求转向全球世界文化（World Society），提出强制性、规范性与[[Mimesis|模仿]]性同构机制，将趋同重构为全球合法性仪式。
 > - **2019 年 — 全球趋同论的体制中介反思** 安东尼·维格（Antoni Verger）等学者结合[[Historical Institutionalism|历史制度主义]]检验[[Global Education Reform Movement|全球教育改革运动]]（Global Education Reform Movement, GERM），指出通用治理工具在跨国扩散中受本土行政传统深刻中介调节，形成分化的治理轨迹。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 250–252, 262–263)]]
 
 ---
@@ -95,7 +97,7 @@ updated: 2026-11-11
 > 经典技术趋同理论主张，随着工业化进程深入，现代生产方式对高技术劳动力与复杂协作的需求呈现普世化。不同国家无论其原有文化传统与政治体制存在何种差异，均须建立结构相近的中等与高等教育轨道、统一的标准化考核和文凭认证机制，以配合现代工业生产的[[Technical Rationality|技术理性]]要求。（Halsey et al., 1965; [[Argument_Cowen_2023_CE|Cowen, 2023, p. 333]]）
 
 > [!example|notitle]
-> 二战后无论是奉行自由市场体制的欧美发达国家，还是实行计划经济的东欧国家，均系统性扩大了中等技术学校与高等工程院校的办学规模，形成了功能高度重合的专业技术人才培养体系。
+> 二战后无论是奉行自由市场体制的欧美发达国家，还是实行计划经济的东欧国家，均系统性扩大了[[Realschule|中等技术学校]]与高等工程院校的办学规模，形成了功能高度重合的专业技术人才培养体系。
 
 > [!theory-proposition] 命题二｜世界文化与[[Institutional Isomorphism|制度同构]]机制推动全球教育政策模板的仪式化采纳
 > 当代新制度主义将趋同动力归结为世界文化规范的扩散。全球层面的跨国组织、国际议题网络与专家共同体塑造了关于现代国家与普及教育的合法性脚本。主权国家为证明自身具备现代文明形态、争取国际援助与地缘合法性，即便在缺乏本土技术需求的情况下，也会模仿并采纳通行的教育政策规程（如全员参与国际学业测评），形成表层结构的高度同构。[[Argument_Cowen_2023_CE|(Cowen, 2023, p. 333)]]

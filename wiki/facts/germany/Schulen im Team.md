@@ -12,9 +12,9 @@ subtype: program
 region: germany
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 16
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 21
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2007–2015"
 initiator_organization: "墨卡托基金会（Stiftung Mercator）、北威州教育部（MSW NRW）、多特蒙德工业大学学校发展研究所（IFS TU Dortmund）"
@@ -28,6 +28,8 @@ tags:
 related_concepts:
   - "[[Further Education]]"
   - "[[Industrial District]]"
+  - "[[Regionness]]"
+  - "[[Social Economy]]"
   - "[[Knowledge Transfer]]"
   - "[[Absorptive Capacity]]"
   - "[[Alienation]]"
@@ -45,24 +47,27 @@ related_theories:
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Hauptschule]]"
+  - "[[Realschule]]"
+  - "[[Gesamtschule]]"
 related_arguments:
   - "[[Argument_Manitius_vanHolt_2019_BzS]]"
 confidence: high
 status: active
 created: 2026-09-27
-updated: 2026-11-15
+updated: 2026-11-21
 ---
 
 ---
 
 > [!claim] 项目定位
-> “团队中的学校——协同发展课堂教学”（德语全称：*Schulen im Team – Unterricht gemeinsam entwickeln*，简称 SiT）是德国墨卡托基金会（Stiftung Mercator）、北莱茵-威斯特法伦州学校与[[Further Education|继续教育]]部（Ministerium für Schule und Weiterbildung des Landes Nordrhein-Westfalen, MSW NRW）以及多特蒙德工业大学学校发展研究所（Institut für Schulentwicklungsforschung, IFS TU Dortmund；由 Wilfried Bos、Veronika Manitius、Nils van Holt 等主持）于 2007 年至 2015 年间在鲁尔[[Industrial District|工业区]]联合创设并实施的区域性跨校协同改革工程。该工程聚焦处于不利社会经济环境的薄弱学校（Schulen in herausfordernder Lage），首创以区域多校教研网络为载体的“自组织干预”模式，成为德语区学校网络发展与[[Knowledge Transfer|知识转移]]实证研究的标志性案例。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, pp. 11, 15; van Holt, 2014)]]
+> “团队中的学校——协同发展课堂教学”（德语全称：*Schulen im Team – Unterricht gemeinsam entwickeln*，简称 SiT）是德国墨卡托基金会（Stiftung Mercator）、北莱茵-威斯特法伦州学校与[[Further Education|继续教育]]部（Ministerium für Schule und Weiterbildung des Landes Nordrhein-Westfalen, MSW NRW）以及多特蒙德工业大学学校发展研究所（Institut für Schulentwicklungsforschung, IFS TU Dortmund；由 Wilfried Bos、Veronika Manitius、Nils van Holt 等主持）于 2007 年至 2015 年间在鲁尔[[Industrial District|工业区]]联合创设并实施的[[Regionness|区域性]]跨校协同改革工程。该工程聚焦处于不利[[Social Economy|社会经济]]环境的薄弱学校（Schulen in herausfordernder Lage），首创以区域多校教研网络为载体的“自组织干预”模式，成为德语区学校网络发展与[[Knowledge Transfer|知识转移]]实证研究的标志性案例。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, pp. 11, 15; van Holt, 2014)]]
 
 > [!program-context] 项目背景
 > - **立项时间与演进周期** 第一期（2007–2011 年）重点攻坚鲁尔核心区不同学轨初中学校间的跨校教研结对与课堂教学改进；第二期（2011–2015 年）以“连接区域与协同构建小升初衔接”（*Schulen im Team – Regionen vernetzen / Übergänge gemeinsam gestalten*）为主题，将协同网络延伸至小学学段与市政教育行政部门。
 > - **公私伙伴资助机制** 由大型慈善基金会墨卡托基金会注入数百万欧元核心资助，北威州教育部提供行政配套与教师减免课时保障，多特蒙德工业大学 IFS 研究所承担学术设计、项目协调与全周期实证追踪评估。
-> - **覆盖范围与区域生态** 深度扎根鲁尔工业区（包括多特蒙德、杜伊斯堡、埃森、盖尔森基兴、黑尔讷、黑尔滕、米尔海姆、奥伯豪森等城市），覆盖数十个跨校网络及百余所主体中学（Hauptschule）、实科中学（Realschule）、综合中学（Gesamtschule）与文理中学（Gymnasium）。
+> - **覆盖范围与区域生态** 深度扎根鲁尔工业区（包括多特蒙德、杜伊斯堡、埃森、盖尔森基兴、黑尔讷、黑尔滕、米尔海姆、奥伯豪森等城市），覆盖数十个跨校网络及百余所主体中学（[[Hauptschule]]）、[[Realschule|实科中学]]（Realschule）、[[Gesamtschule|综合中学]]（Gesamtschule）与文理中学（Gymnasium）。
 > - **核心治理痛点** 传统自上而下的行政督导与抽象测评数据回传无法直接激活基层教学（Demski, 2017），而各校在面对高移民比例与社会经济不利背景时普遍陷入单打独斗与专业孤立，亟需建立校际平等的专业支持生态。
 
 ---

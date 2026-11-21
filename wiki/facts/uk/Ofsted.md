@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 62
+fact_related_count: 63
 fact_related_level: 6
 fact_related_stars: "💎💎"
 fact_related_color: "#fecdd3"
@@ -77,6 +77,7 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Selective Schools Expansion Fund]]"
   - "[[Pupil Premium]]"
+  - "[[Gesamtschule]]"
   - "[[Sutton Trust]]"
   - "[[OECD]]"
   - "[[What Works Network]]"
@@ -94,7 +95,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-07
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 ---
@@ -177,7 +178,7 @@ updated: 2026-11-19
 > > [!axis] 技术评级与道德侧步争议（[[Research Utilization\|证据使用]] vs 道德包装）
 > > 探讨议会与执政者如何将行政视导分类偷换为道德判断，以规避实证教育研究。
 > >
-> > - **政治借用机制（道德侧步）** [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]]指出，在关于[[Grammar School\|文法学校]]的议会辩论中，议员们系统性地回避文法学校在社会流动性实证检验中的劣势，反而将 Ofsted 的“Good”评级从一种技术等级升格为形而上的道德评判。议会[[Discourse|话语]]中“Good”出现频率极高（对 159 所合格文法学校的“Good”提及率达 235%，而 2,850 所同等评级综合学校仅 1.7%），以此构建“文法学校是好事物，反对文法学校即是反对好教育”的非黑即白逻辑陷阱（[[Moral Sidestep]]）。
+> > - **政治借用机制（道德侧步）** [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]]指出，在关于[[Grammar School\|文法学校]]的议会辩论中，议员们系统性地回避文法学校在社会流动性实证检验中的劣势，反而将 Ofsted 的“Good”评级从一种技术等级升格为形而上的道德评判。议会[[Discourse|话语]]中“Good”出现频率极高（对 159 所合格文法学校的“Good”提及率达 235%，而 2,850 所同等评级[[Gesamtschule|综合学校]]仅 1.7%），以此构建“文法学校是好事物，反对文法学校即是反对好教育”的非黑即白逻辑陷阱（[[Moral Sidestep]]）。
 > > - **实证科学界限（非证据性）** 英国教育部官方证据白皮书（Coldwell et al., 2017）明确将 [[Education Endowment Foundation\|EEF]]、[[Sutton Trust]] 和 [[John Hattie]] 列为官方认可的实证来源，而 Ofsted 被明文排除在外。学者强调，Ofsted 的评级坐落于学术同行评议机制之外，根本不具备[[Causality\|因果推断]]的实证正当理由（[[Justified Warrants]]）。
 >
 > > [!axis] 外部惩罚性问责 vs 专业共同体自治争议（官僚督导 vs 扁平共治）

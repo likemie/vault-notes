@@ -13,7 +13,7 @@ subtype: policy
 region: finland
 fact_region: "finland"
 fact_kind: "policy"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -31,10 +31,12 @@ related_methods:
   - "[[Difference-in-Differences]]"
 related_arguments:
   - "[[Argument_Sahlgren_2015_CPS]]"
+related_facts:
+  - "[[Gesamtschule]]"
 confidence: medium
 status: active
 created: 2026-11-06
-updated: 2026-11-11
+updated: 2026-11-21
 ---
 
 ---
@@ -43,7 +45,7 @@ updated: 2026-11-11
 > - **发布时间 / 发布主体** 1968 年由芬兰议会（Eduskunta）通过，作为构建北欧式福利国家平等教育基石的母法颁布。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7, 11)]]
 > - **适用地区 / 对象** 覆盖芬兰全境所有市镇与全体 7 至 16 岁义务教育阶段适龄学童。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7, 11)]]
 > - **问题背景** 二战后旧有的二元分流学制在小学 4 年级（10–11 岁）根据入学考试将学童残酷分流为学术型文法初中（Oppikoulu）与平民小学高段（Kansakoulu），造成底层农业与工人阶级子女在高等教育通道中严重边缘化。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7, 20–21)]]
-> - **制度位置** 效仿瑞典与挪威在 1950 至 1960 年代推行的综合学校改革模式，是芬兰构建统一公办九年制综合学校（Peruskoulu）与扩建特殊教育支持体系的法定转折点。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7, 11)]]
+> - **制度位置** 效仿瑞典与挪威在 1950 至 1960 年代推行的[[Gesamtschule|综合学校]]改革模式，是芬兰构建统一公办九年制综合学校（Peruskoulu）与扩建特殊教育支持体系的法定转折点。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7, 11)]]
 
 ---
 

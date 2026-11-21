@@ -12,9 +12,9 @@ subtype: policy
 region: spain
 fact_region: "spain"
 fact_kind: "policy"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: 西班牙教育部
 tags:
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Student Motivation]]"
 related_facts:
   - "[[General Act of Education of 1970]]"
+  - "[[Integrated Programme]]"
   - "[[Institute of Education Sciences]]"
   - "[[Organic Law on Education 2006]]"
   - "[[PISA]]"
@@ -49,7 +50,7 @@ related_persons:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-11-15
+updated: 2026-11-21
 ---
 
 ---
@@ -63,7 +64,7 @@ updated: 2026-11-15
 ---
 
 > [!claim] 政策核心
-> 将法定免费义务教育年限从 8 年延长至 10 年（覆盖 6 至 16 岁），在 12 至 16 岁初中学段强制实施统一步调且完全相同的综合课程；同时将教育行政与课程制定权大规模移交自治区，完成全面的[[Educational Decentralization|教育分权]]重组。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 323–326, 330–331)]]
+> 将法定免费义务教育年限从 8 年延长至 10 年（覆盖 6 至 16 岁），在 12 至 16 岁初中学段强制实施统一步调且完全相同的[[Integrated Programme|综合课程]]；同时将教育行政与课程制定权大规模移交自治区，完成全面的[[Educational Decentralization|教育分权]]重组。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 323–326, 330–331)]]
 
 > [!policy-design] 政策设计
 > - **政策目标** 追求教育形式平等，消灭 14 岁时的早期制度化筛选淘汰，提高全民[[Educational Level|受教育水平]]，融入欧洲一体化现代教育标准。

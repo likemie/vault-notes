@@ -9,7 +9,7 @@ summary: "围绕共同核心议题汇集多国深入质性案例并由研究者�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 22
+method_related_count: 25
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -46,19 +46,22 @@ related_instruments: []
 related_persons:
   - "[[Ursula Springer]]"
 related_facts:
+  - "[[European Education]]"
+  - "[[Recommendation-Based Graduate Admission System]]"
+  - "[[Gesamtschule]]"
   - "[[Recent Curriculum Developments in France, West Germany and Italy 1969]]"
 related_arguments:
   - "[[Argument_Silova_2009_EE]]"
 confidence: high
 status: draft
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 ---
 
 ---
 
 > [!def] Thematic Multiple Case-Study Comparison
-> 主题化多案例比较（Thematic Multiple Case-Study Comparison）是一种立足于共同核心议题的质性比较研究方法，研究者选取若干具有结构或制度代表性的国别案例，在保持各个案历史制度文脉完整性的同时展开深入剖析，并通过宏观综合分析与导论提炼跨国共通模式与分异机制。该方法由[[Ursula Springer|乌苏拉·施普林格]]（[[Ursula Springer]]）在 1960 年代战后欧洲中等教育课程改革研究及《西欧教育》创刊实践中确立，旨在调和单一国别历史考据缺乏跨国解释力与跨国量化测验脱离制度土壤的两极对峙。[[Argument_Silova_2009_EE|(Silova, 2009, pp. 22–25)]]
+> 主题化多案例比较（Thematic Multiple Case-Study Comparison）是一种立足于共同核心议题的质性比较研究方法，研究者选取若干具有结构或制度代表性的国别案例，在保持各个案历史制度文脉完整性的同时展开深入剖析，并通过宏观综合分析与导论提炼跨国共通模式与分异机制。该方法由[[Ursula Springer|乌苏拉·施普林格]]（[[Ursula Springer]]）在 1960 年代战后欧洲中等教育课程改革研究及《[[European Education|西欧教育]]》创刊实践中确立，旨在调和单一国别历史考据缺乏跨国解释力与跨国量化测验脱离制度土壤的两极对峙。[[Argument_Silova_2009_EE|(Silova, 2009, pp. 22–25)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 民族国家的教育法律政策、办学体制架构、课程分流机制及深嵌其中的社会文化制度生态。
@@ -90,7 +93,7 @@ updated: 2026-11-20
 > [!proc] 通用程序
 > 1. **确立统领性政策议题** 选择在大西洋两岸或特定区域具有高度普遍性与紧迫性的现实改革主题，例如二战后初中阶段普及与分流轨制调整。
 > 2. **遴选代表性国别案例** 选取 3 至 5 个具有不同政治架构、文化传统或集权分权特征的典型国家，形成[[Heterogeneity|异质性]]案例组合，例如瑞典、西德、英国、法国与意大利。
-> 3. **挖掘各国内部一手文献** 搜集并译介各案例国教育部法规大纲、统计报表及权威政策辩论档案，确保研究深嵌于本土制度语境。
+> 3. **挖掘各国内部一手文献** 搜集并译介各案例国教育部法规大纲、统计报表及权威政策辩论档案，确[[Recommendation-Based Graduate Admission System|保研]]究深嵌于本土制度语境。
 > 4. **横向矩阵并置与机制提炼** 围绕共同制度维度对多国案例展开并置比较，识别共变规律与阻抗机制。
 > 5. **撰写宏观综合导论** 由比较研究者撰写提纲挈领的全局性导言，从宏观结构高度整合分散的个案发现，提炼中层理论概括。
 
@@ -105,7 +108,7 @@ updated: 2026-11-20
 > [!proc] 质性分析程序
 > 1. **一手档案多语种释读与标准化英译** 突破单语屏障，将法、德、意等语种的一手政策法规翻译为规范学术表达，保留制度术语特有的文化内涵。
 > 2. **国家案例[[Rich and Thick Description|深描]]与制度复原** 深入还原各国的阶级结构、政党政治与教育传统，解释特定改革方案出台的历史动因与制度阻力。
-> 3. **跨案例横向比较轴线设立** 确立关键比较指标轴（如跟踪分流年龄、综合学校规模、学术与职业轨道流动率），形成跨国对比透视。
+> 3. **跨案例横向比较轴线设立** 确立关键比较指标轴（如跟踪分流年龄、[[Gesamtschule|综合学校]]规模、学术与职业轨道流动率），形成跨国对比透视。
 > 4. **宏观综合与理论升华** 将个案发现置于战后资本主义福利国家扩张与教育民主化浪潮的宏观背景中，提炼兼顾情境与效用的理论命题。
 
 ---

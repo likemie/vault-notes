@@ -12,7 +12,7 @@ subtype: policy
 region: finland
 fact_region: "finland"
 fact_kind: "policy"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -45,6 +45,7 @@ related_persons: []
 related_facts:
   - "[[Finnish National Board of Education]]"
   - "[[PISA]]"
+  - "[[Gesamtschule]]"
   - "[[TIMSS]]"
   - "[[Svecoman Movement]]"
 related_arguments:
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-07
-updated: 2026-11-11
+updated: 2026-11-21
 ---
 
 ---
@@ -83,7 +84,7 @@ updated: 2026-11-11
 
 > [!timeline] 政策推进历程
 > - **1919–1922** 《宪法》与《语言法》确立双国语与建立独立瑞典语学校委员会的法定原则。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 26)]]
-> - **1974** 随综合学校改革推进，瑞典语初等与初中学制全面并入九年一贯制体系，保留独立瑞典语教学大纲细则。
+> - **1974** 随[[Gesamtschule|综合学校]]改革推进，瑞典语初等与初中学制全面并入九年一贯制体系，保留独立瑞典语教学大纲细则。
 > - **1990年代** 瑞典语学校率先吸纳斯堪的纳维亚邻国的自由探究理念，加速向自导[[Homework|作业]]与非[[Structured Teaching|结构化教学]]转型。
 > - **2000年代至今** 在 PISA、[[TIMSS]] 以及全国各轮次学业监测中，瑞典语学校表现持续与芬兰语学校拉开差距，促使芬兰官方与学术界反思其师范生源门槛与课堂教学法。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 28–29, 50–51)]]
 

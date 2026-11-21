@@ -8,7 +8,7 @@ aliases:
 summary: "源自西方自由七艺与英国绅士品格培育传统的博雅教育理念，主张知识本身即为其目的，强调通过古典人文学术磨砺卓越心智与高尚品格，构成维多利亚时代大英帝国政治治理与抵御市侩庸俗主义的核心文化防线。"
 type: concept
 domain: "educational-philosophy"
-related_count: 44
+related_count: 46
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[STEM Education]]"
   - "[[Neoliberalism]]"
+  - "[[Instrumental Rationality]]"
   - "[[Competitiveness]]"
   - "[[Return on Investment]]"
   - "[[Variable]]"
@@ -62,7 +63,8 @@ related_persons:
   - "[[Robert Ulich]]"
   - "[[Alec Peterson]]"
   - "[[Nicholas Hans]]"
-related_facts: []
+related_facts:
+  - "[[Gesamtschule]]"
 related_arguments:
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
@@ -72,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 ---
@@ -180,8 +182,8 @@ updated: 2026-11-19
 > - **1880s — 赫胥黎-阿诺德世纪大辩论** 托马斯·赫胥黎（Thomas Huxley）发表《科学与文化》，挑战古典学垄断，主张自然科学应当成为现代自由教育的核心基石；阿诺德则坚持古典人文对人生道德指导的不可替代性。
 > - **1930s–1950s — 比较教育第二代际的反极权自由人文建构** 面对纳粹法西斯与极权危机，[[Isaac Kandel|坎德尔]]、[[Robert Ulich|乌利希]]与汉斯等学者将自由博雅教育阐发为抵御极权主义、守护西方自由民主体制与公民尊严的核心精神防线。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 143–144)]]
 > - **1940s–1950s — 二战浩劫与[[Scientific Paradigm|科学范式]]大冲击** 二战极权浩劫暴露古典精英的道德脆弱性；战后工党政府推行 1944 年巴特勒法案与中等教育扩张，传统公学自由教育遭遇民主化与现代科技实证[[Paradigm|范式]]的巨大冲击。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 59–60)]]
-> - **1960s–1980s — 综合中学运动与向[[General Education|通识教育]]转型** 英国推进全面综合中学运动打破阶级区隔；皮特森（Peterson）等人将自由教育核心转化为面向[[International Baccalaureate|国际文凭]]（IB）的现代多元思维通识教育。[[Argument_Peterson_1987_OpenCourt_Ch03|(Peterson, 1987, pp. 38–44)]]
-> - **21世纪至今 — 功利主义 [[STEM Education|STEM]] 浪潮下的博雅复兴反思** 在全球高等教育被就业率、STEM 与科研产业化支配的背景下，学界重新呼唤自由教育的批判反思与伦理担当精神，以抵抗[[Neoliberalism|新自由主义]]工具理性的侵蚀。
+> - **1960s–1980s — [[Gesamtschule|综合中学]]运动与向[[General Education|通识教育]]转型** 英国推进全面综合中学运动打破阶级区隔；皮特森（Peterson）等人将自由教育核心转化为面向[[International Baccalaureate|国际文凭]]（IB）的现代多元思维通识教育。[[Argument_Peterson_1987_OpenCourt_Ch03|(Peterson, 1987, pp. 38–44)]]
+> - **21世纪至今 — 功利主义 [[STEM Education|STEM]] 浪潮下的博雅复兴反思** 在全球高等教育被就业率、STEM 与科研产业化支配的背景下，学界重新呼唤自由教育的批判反思与伦理担当精神，以抵抗[[Neoliberalism|新自由主义]][[Instrumental Rationality|工具理性]]的侵蚀。
 
 ---
 

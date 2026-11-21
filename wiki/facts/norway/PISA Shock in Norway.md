@@ -12,7 +12,7 @@ subtype: event
 region: norway
 fact_region: "norway"
 fact_kind: "event"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -43,6 +43,7 @@ related_persons: []
 related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
+  - "[[Gesamtschule]]"
   - "[[Nasjonale prøver]]"
 related_arguments:
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
@@ -50,13 +51,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-27
-updated: 2026-10-30
+updated: 2026-11-21
 ---
 
 ---
 
 > [!claim] 核心定性
-> 挪威 [[PISA]] 震荡（PISA-sjokket, Norwegian [[PISA Shock]]）特指 2001 年底[[OECD|经合组织]]公布首届国际学生评估项目（PISA 2000）测试结果后在挪威社会、媒体与政界引发的剧烈教育合法性危机与深层改革动员。在比较教育政策社会学视阈下，该事件属于典型的**政策指引 × 范围广**（第一象限）全系统重塑案例：人均教育投入全球领先的挪威在测评中仅获平庸的 [[OECD]] 均线成绩，击碎了社会民主主义传统下高福利高投入天然带来卓越质量的神话；震荡直接打破了免试无竞争的北欧传统统一综合学校（Enhetsskolen）惯性，倒逼挪威政府出台战后最激进的全面系统改革，包括设立[[Nasjonale prøver|挪威国家测试]]（[[Nasjonale prøver]]）、创设直属中央的教育与培训局，并颁布以基础技能与产出问责为核心的 2006 年《知识促进改革》（*Kunnskapsløftet*, LK06）。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 63–64)]]；[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
+> 挪威 [[PISA]] 震荡（PISA-sjokket, Norwegian [[PISA Shock]]）特指 2001 年底[[OECD|经合组织]]公布首届国际学生评估项目（PISA 2000）测试结果后在挪威社会、媒体与政界引发的剧烈教育合法性危机与深层改革动员。在比较教育政策社会学视阈下，该事件属于典型的**政策指引 × 范围广**（第一象限）全系统重塑案例：人均教育投入全球领先的挪威在测评中仅获平庸的 [[OECD]] 均线成绩，击碎了社会民主主义传统下高福利高投入天然带来卓越质量的神话；震荡直接打破了免试无竞争的北欧传统统一[[Gesamtschule|综合学校]]（Enhetsskolen）惯性，倒逼挪威政府出台战后最激进的全面系统改革，包括设立[[Nasjonale prøver|挪威国家测试]]（[[Nasjonale prøver]]）、创设直属中央的教育与培训局，并颁布以基础技能与产出问责为核心的 2006 年《知识促进改革》（*Kunnskapsløftet*, LK06）。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 63–64)]]；[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 2001 年 12 月（PISA 2000 放榜）爆发，全国大论战与系统立法持续推进至 2006 年新课程改革全面落地，波及挪威王国本土全部基础教育学校。
