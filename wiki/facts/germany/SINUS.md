@@ -11,7 +11,7 @@ subtype: program
 region: germany
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 35
+fact_related_count: 36
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-27
-updated: 2026-11-15
+updated: 2026-11-21
 ---
 
 ---

@@ -1,0 +1,709 @@
+=== PAGE 1 ===
+Contemporary challenges to the German
+vocational training system
+Kathleen Thelen
+Department of Political Science, Northwestern University, Evanston, IL, USA
+Abstract
+The German vocational training system has played a central role in sustaining the competitive
+strength of German manufacturing. This article provides an analysis of contemporary develop-
+ments in this system to assess its likely future trajectory. I begin by underscoring the differ-
+ences and similarities of the German system to alternative arrangements that have emerged in
+other countries. I then turn to recent trends in Germany that have caused concern among
+policy-makers about the continued strength and viability of the vocational training system.
+I discuss reforms undertaken in the past few years that point to incremental, though possibly
+transformative, changes in the system designed to reduce costs and increase flexibility through
+renegotiations on two fronts: between general training standards and firm needs and training
+practices, and between the in-plant and school-based components of training.
+Keywords: Germany, institutional change, varieties of capitalism, vocational training.
+Introduction
+The German vocational training system has long been considered a crown jewel in the
+German political economy and a key element of the country’s still rather successful
+model of ‘‘diversified quality production’’ (Streeck 1991). Whatever else ails the German
+political economy (and, granted, the ailments are many and chronic), Germany con-
+tinues to succeed brilliantly in export markets, currently running a US$203bn trade
+surplus (The Economist 2007). Most observers readily agree that Germany’s apprentice-
+ship training system is a crucial contributor to the continuing competitive strength of
+German manufacturing in international markets. Despite its obvious and continuing
+strengths, however, the past 20 or so years have been associated with a set of challenges
+that have led many long-time observers of the German system to worry about its future
+(Stratmann 1994; Baethge 1999; Troltsch 2005; Ulrich 2005). The key problems con-
+fronting the system are not so much related to the quality of apprentice training in
+Germany (which, indeed, is still widely admired). Rather, the prime concerns revolve
+around the question of whether employers are able to produce sufﬁcient opportunities
+for in-plant training to sustain the model in its traditional form.
+This paper provides an analytic framework for understanding contemporary devel-
+opments in German vocational training and for assessing its likely future trajectory.
+Correspondence: Kathleen Thelen, Department of Political Science, Northwestern University,
+Evanston, IL 60208, USA. Email: thelen@northwestern.edu
+Accepted for publication 7 April 2007.
+Regulation & Governance (2007) 1, 247–260 doi:10.1111/j.1748-5991.2007.00013.x
+ª 2007 The Author
+Journal compilation ª 2007 Blackwell Publishing Asia Pty Ltd
+=== PAGE 2 ===
+The origins of the German system of training can be traced back to the 19th century, and
+one of its key defining features is a surprising durability of many of its core elements
+through the many and massive political and economic ruptures that rocked Germany
+over the course of the 20th century (Thelen 2004). This is a system, however, that has
+survived not because of an inherent ‘‘stickiness,’’ but instead through its ongoing, active
+adaptation to new problems thrown up by shifts in the political and economic context.
+As Marcussen and Kaspersen remind us in the introduction to this issue of Regulation &
+Governance, institutions do not survive through inertia, but instead require active main-
+tenance (Marcussen & Kaspersen 2007; see also Thelen 2004, especially p. 293; Streeck &
+Thelen 2005, pp. 24–26). Recent reform efforts continue to reflect a strong will to adapt
+the system to new challenges. Indeed, it is hard to think of another political-economic
+institution in Germany that all the relevant parties – business and labor, social demo-
+crats, and Christian democrats – are as committed to shoring up as the vocational
+education and training system.
+Despite good intentions, however, the past decade and a half have witnessed a decline
+in plant-based apprenticeships and the emergence of shortfalls in training opportunities
+for youth that traditional solutions (involving voluntary efforts on the part of employers’
+associations) have proved unable to erase. The problem goes back in part to the changing
+skill needs of German employers (including new skills associated, often, with broader
+and more theoretical training) that increase the costs to firms of training and, in part, to
+longer-term structural trends associated above all with the decline of manufacturing and
+the transition to services. Recent reforms point to incremental, though possibly trans-
+formative, changes in the system through the injection of new forms of flexibility in the
+structuring of apprenticeship and through a rebalancing between the school-based and
+the in-plant components of training. Both types of change are meant to accommodate
+the changing skill needs of German employers, and both also appear designed to attempt
+to relieve cost pressures on firms by shifting some of the financial burdens of onto
+training onto the state and onto trainees themselves.
+Germany in comparative perspective
+In previous work, I have tracked the genesis and evolution of the German training
+system, including the politics and the processes through which a collectivist system
+prevailed historically over two ideal-typical alternatives. One of these alternatives is
+identified in the varieties of capitalism literature as a ‘‘general skills’’ system of the sort
+that emerged in the so-called liberal market economies such as the US (see especially
+Hall & Soskice 2001). In such a system, ﬁrms are not heavily involved in skill formation
+and workers therefore have an incentive to acquire general skills that are broadly portable
+across the various industries and ﬁrms in which they might seek employment. The other
+alternative is what I (following Peter Swenson) have termed a ‘‘segmentalist’’ system of
+skill formation that is characteristic, for example, of Japan. In such a system ﬁrms do
+invest heavily in worker training, but of a variety that is organized around the needs of
+the company. In contrast to both of these, Germany developed a collectivist system of
+training premised on the provision of portable occupational skills.
+1
+The contours of Germany’s so-called dual system of training are familiar in the
+political economy literature. This system combines school-based learning with practical
+firm-based training (with primacy traditionally given to the latter). The plant-based
+K. Thelen German vocational training system
+248
+ª 2007 The Author
+Journal compilation ª 2007 Blackwell Publishing Asia Pty Ltd
+ 17485991, 2007, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1748-5991.2007.00013.x, Wiley Online Library on [19/11/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+=== PAGE 3 ===
+component is strongly ‘‘collectivist’’ insofar as employers train not narrowly and for their
+own needs, but broadly and to standards that are set nationally by committees composed
+of representatives of business and labor. Although premised on ﬁrms voluntarily taking
+apprentices, the system encourages companies to invest in skill formation (among other
+things, by providing various kinds of protection against poaching), even as it also
+provides guarantees that apprentices will receive high-quality training (above all through
+strong mechanisms for monitoring and enforcement).
+Three key features distinguish the German model from both the liberal (general
+skills) and the segmentalist (specific skills) alternatives, and these can provide a baseline
+for assessing the direction and significance of contemporary changes.
+1. A wide range of ﬁrms (above and beyond the country’s largest enterprises) participate in
+a national system of skill formation . Not only does the private sector in Germany invest
+signiﬁcant resources in worker training, but equally important (and very different from
+Japan, more similar to Denmark), a wide variety of ﬁrms – including significant numbers
+of small-sized and medium-sized enterprises – are part of this system. In Germany,
+nearly 50% of all trainees continue to acquire their skills in firms with fewer than 50
+workers, and Germany’s largest firms (500 or more employees) train about the same
+percentage of apprentices as the country’s smallest firms (one to nine employees), each
+accounting for 15–20% of the apprentice ‘‘classes’’ of the last several years (BMBF 2006,
+p. 144).
+2 The defeat of an alternative ‘‘segmentalist’’ system preferred by some large
+employers in Germany at the turn of the century was crucial to the development of
+the system (Thelen 2004, ch. 2), and the stability of that system continues to rely on the
+management of the diversity across German ﬁrms.
+2. In-plant training is subject to monitoring and oversight, to maintain and enforce nation-
+ally deﬁned standards regarding the content and quality of skills. This feature sets the
+German system apart from skill regimes based on general skills (where ﬁrms do not do
+much training to begin with) and speciﬁc skills (where there are no oversight mecha-
+nisms). This is not to say that training is organized in the same way across all ﬁrms or
+types of ﬁrms – quite the contrary. In fact, one reason that the German system continues
+to ‘‘fit’’ firms of different sizes and with different production structures is a high degree
+of flexibility in how the in-plant component of training can be organized. Large firms,
+which are looking to retain most of their apprentices after training, are much more likely
+to have separate training facilities and to keep apprentices out of the production process
+for a significant proportion of their training terms. Small firms, by contrast, are more
+likely to arrange for training to be accomplished on the job and during production lulls,
+spending far less on training and in fact benefiting from the availability of an extra hand
+in production when orders pick up (Soskice 1994; Wagner 1999). Despite these differ-
+ences, however, ﬁrms have to fulﬁll nationally deﬁned requirements, and apprentices
+have to stand for exams organized to test their skills – both of these requirements
+supporting a system for the high-quality production of portable occupational (as
+opposed to ﬁrm-speciﬁc) skills. Ongoing high failure rates result in a revocation of
+a ﬁrm’s right to train, so ﬁrms cannot ignore the nationally deﬁned curricular require-
+ments governing the occupations in which their apprentices are receiving training.
+3. The state offers support but relies on private sector sponsorship of training. In Germany,
+the state has traditionally insisted that training is the responsibility of the private sector,
+German vocational training system K. Thelen
+ª 2007 The Author
+Journal compilation ª 2007 Blackwell Publishing Asia Pty Ltd 249
+ 17485991, 2007, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1748-5991.2007.00013.x, Wiley Online Library on [19/11/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+=== PAGE 4 ===
+with governments mostly attempting to stay at arm’s length. Apprentice training tradi-
+tionally commences when a ﬁrm hires an apprentice. 3 Despite the higher reliance on
+employers to sponsor training, the German state supports a system based on the pro-
+vision of occupational (rather than ﬁrm-speciﬁc) skills in two ways. First, it delegates to
+employer chambers strong para-public and quasi-legal rights and responsibilities to
+monitor ﬁrm-based training and facilitates employer coordination by making member-
+ship in these chambers compulsory. Second, the state plays a direct role in the promotion
+of portable ‘‘foundational’’ skills through its sponsorship of a compulsory school-based
+component to accompany in-plant training. These are features that are wholly absent in
+company-based segmentalist alternatives, such as in Japan.
+Taken together, these three general characteristics of the German system have
+important functional and political implications. Functionally speaking, the attributes
+cited point to the very high demands placed on organized interests in maintaining
+Germany’s collectivist system for occupationally oriented training. The demands on
+organized capital in particular are much greater than in either the liberal or the segmen-
+talist alternatives (which require less coordination among employers). Politically, and
+empirically (and partly as a consequence), this system involves ongoing balancing on two
+fronts – between the enforcement of general standards and the reality of firm-specific
+needs and conditions of training, and between the school-based and the in-plant com-
+ponents of training. These are precisely the two interfaces that are being renegotiated in
+the current period.
+Trends and strains in the German training system
+The past several decades witnessed trends that have caused many observers of the
+German training system to worry about its future. Some of these developments are long
+term and structural, for example, the shift away from manufacturing – the traditional
+core of the vocational training system – toward the growing importance of the service
+sector (Culpepper 1999; Culpepper & Thelen 2007). Others are related to one-off events
+with longer-term ramiﬁcations (notably, the effects of uniﬁcation and the now-chronic
+undersupply of training places for youth in Eastern Germany (Brownet al. 2001, pp. 80–85;
+also especially Culpepper 2003). In addition, technological changes that involve ongoing
+rapid innovation in both products and production methods have meant that workers
+require ever-broader (more theoretical, more ﬂexible) skills. Such changes raise the costs
+of training to ﬁrms, which poses problems in a context of overall more intense compet-
+itive pressures and, especially in manufacturing, of overall reductions in employment. In
+light of all of this, there has been a great deal of hand-wringing in Germany in the past
+several years, especially concerning shortfalls of apprenticeship slots to cover demand for
+training on the part of youth.
+Politicians and social partners have been motivated to address these problems and
+challenges. Much activity in the past several years has centered on adapting the content of
+skills to new technological and market conditions and to increasing the number of
+apprenticeship slots in the private sector. In terms of the content of skills, the tripartite
+National Vocational Training Institute has undertaken important initiatives, starting in
+the late 1990s, to update training ordinances on a relatively broad scale (see, for example,
+BMBF 2000, pp. 8–9, 2001, pp. 145–148). Since 2000, 76 revamped and 26 new occupations
+K. Thelen German vocational training system
+250
+ª 2007 The Author
+Journal compilation ª 2007 Blackwell Publishing Asia Pty Ltd
+ 17485991, 2007, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1748-5991.2007.00013.x, Wiley Online Library on [19/11/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+=== PAGE 5 ===
+have been implemented. In 2004 alone it was more than 30 and in 2005, 21 were anti-
+cipated, making this the ‘‘biggest modernization push since 1969 when the Vocational
+Training Law was passed’’ (BMBF 2005, p. 2). More than half of all new training con-
+tracts are now in occupations that have been modernized in recent years (BMBF 2005,
+p. 2). Moreover, the trend in Germany over the past two decades has been to meet
+(not avoid) the need for broader and more theoretical skill proﬁles, which has resulted
+in an overall increase in the length of training from less than 34 months on average in the
+mid-1980s to close to 37 months on average since 1990 (BIBB 2005, ﬁgure 7.1).
+The quality of German apprenticeship is not what is at issue so much as the quantity
+of in-ﬁrm training slots. The past decade and a half have seen a steady fall in the number
+of apprenticeship places on offer in Germany, from a high point in 1992 of 721,825
+apprenticeship slots to 562,816 by 2005, as indicated in the ﬁrst column of Table 1.
+Other statistics present an overall rosier picture. For example, figures reported by the
+Federal Training Institute on the ‘‘supply’’ of and ‘‘demand’’ for apprenticeships show
+a system that is more or less in balance. These figures are reported in the third column of
+Table 1, and they suggest that although the system has (mostly) slipped into deﬁcit since
+1996, the shortfall never amounts to more than an apparently modest 5%.
+However, and especially as Ulrich has pointed out (Ulrich & Troltsch 2003; Ulrich
+2005), this apparent balance rests substantially on somewhat shaky accounting techni-
+ques that take out of the statistics those youth who registered as seeking an apprentice-
+ship in a given year, but who subsequently wound up in some ‘‘alternative arrangement.’’
+Although the statistics do not discriminate between those who freely chose an alternative
+and those who were steered or pushed into such alternatives (because they could not
+secure an in-ﬁrm training place), the numbers are signiﬁcant. The Federal Ministry for
+Education and Research, for example, reports that in 2005 fewer than half of those who
+registered for a regular dual-system apprenticeship actually started one (48.7%) (BMBF
+2006, section 1.3). Only approximately 5% landed in the ‘‘unplaced’’ category, but a very
+high percentage – 46% – opted for some alternative.
+Table 1 Evolution of supply and demand for apprenticeship places, 1992–2005
+Year Supply of apprenticeship
+places
+Demand for apprenticeships
+(no. youths seeking)
+Percentage of apprentices
+slots/apprentice seekers
+1992 721,825 608,190 118.7
+1993 655,857 587,879 111.6
+1994 622,234 587,052 106.0
+1995 616,988 597,736 103.2
+1996 609,274 612,785 99.4
+1997 613,381 634,938 96.6
+1998 635,933 648,204 98.1
+1999 654,454 660,380 99.1
+2000 647,383 645,335 100.3
+2001 638,773 634,700 100.6
+2002 590,328 595,706 99.1
+2003 572,474 592,649 96.6
+2004 586,374 617,556 95.0
+2005 562,816 591,080 95.2
+Source: BMBF (2006, p. 15).
+German vocational training system K. Thelen
+ª 2007 The Author
+Journal compilation ª 2007 Blackwell Publishing Asia Pty Ltd 251
+ 17485991, 2007, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1748-5991.2007.00013.x, Wiley Online Library on [19/11/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+=== PAGE 6 ===
+Part of this phenomenon, as usual in a recession, is due to a rise in the number of
+youth entering university degree courses (up by 10% since 1998 according to Steedman
+and Wagner and reaching almost 40% by 2004 ½Steedman & Wagner 2005b, fn. 7 /C138 ). In
+addition to this, there is higher uptake of a range of full-time vocational courses such as
+the ‘‘vocational preparatory year’’ (Berufsvorbereitungsjahr, up by 119% between 1992
+and 2003), preparatory training measures sponsored by the Federal Employment Agency
+(Bundesagentur fu¨r Arbeit, up 131% in the same period), and the ‘‘vocational founda-
+tion year’’ (Berufsgrundbildungsjahr, up 50%) (BIBB et al. 2004, pp. 3–4). Taken
+together, the use of these kinds of alternative nearly doubled between 1992 and 2003,
+such that currently the number of youth entering the dual system only slightly exceeds
+the number of youth in these alternatives (2003: 557,600 in the dual system against
+525,100 in the alternatives) (BIBB et al. 2004, p. 4; see also Ulrich 2005, p. 34).
+It is actually not clear (and in fact impossible to determine from existing statistics)
+how much use is made of various alternatives as a matter of choice, perhaps even as
+a function of demand for different kinds of skill, for example, in higher-end services.
+However, especially in the context of the decline in private sector training slots noted
+here, these increases have been sufficient to give rise to concerns in Germany about the
+extent to which youth who do not land in-plant apprenticeships are stuck in a ‘‘holding
+pattern’’ while waiting for a traditional apprenticeship (the so-called ‘‘ Warteschleifen’’
+problem).
+4 The important point for present purposes is that whereas the availability and
+increasing uptake of these alternatives has helped the system to maintain an ‘‘outward
+appearance of health’’ and stability (namely the relative balance between supply and
+demand in Table 1), most observers (including policy-makers) are justiﬁably concerned
+about the overall downward trend in the number of ﬁrm-based apprenticeships (Ulrich
+& Troltsch 2003; Steedman & Wagner 2005b, p. 18).
+There are three main factors that seem to have contributed to the decline in firm-based
+apprenticeships over the last 10–15 years: the rising costs to firms of training apprentices,
+the continuing employment crisis in Eastern Germany, and the decline of manufacturing
+(the core of the traditional dual vocational training system).5 I will address each of these
+issues, brieﬂy, before turning to the responses these trends have evoked – on the part of
+youth, firms, and state – as well as their likely influence on the system as a whole.
+First, the cost to firms of training has risen. The adaptations in the content of training
+discussed have been crucial in keeping pace with new technology and market trends, and
+they go far toward refuting the image of the German system as rigid or inflexible (cf.
+Herrigel 1996). However, implementing these changes has increased the costs to ﬁrms of
+training, and this occurs in a context of ongoing slow growth and relentless employment
+reductions in manufacturing where the lion’s share of training takes place in Germany.
+Cost considerations (and especially the costs associated with higher standards and
+broader skill proﬁles) fall especially hard on smaller ﬁrms. Handicraft ﬁrms, for example
+– historically speaking, the core of the German apprentice system (Thelen 2004) and still
+signiﬁcant contributors to it – saw their net training costs rise by 27% over the 1990s,
+which probably explains the 6.5% reduction in apprenticeship slots offered in the craft
+sector since 1993 (Steedman & Wagner 2005b, pp. 21–22).
+6
+Overall higher training costs – especially in the context of stagnant employment or
+even workforce reductions – have resulted in an overall drop in training across firms of
+all sizes, especially in the early 1990s, although the trend was more pronounced in smaller
+firms, as shown in Table 2.
+K. Thelen German vocational training system
+252
+ª 2007 The Author
+Journal compilation ª 2007 Blackwell Publishing Asia Pty Ltd
+ 17485991, 2007, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1748-5991.2007.00013.x, Wiley Online Library on [19/11/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+=== PAGE 7 ===
+Second, the continuing employment crisis in Eastern Germany has contributed to the
+training problem. The imbalance between the demand on the part of youth for training
+slots and the supply of in-firm training opportunities is particularly acute in the East.
+This is understandable in light of the collapse of manufacturing there in the 1990s and
+continuing high unemployment ever since. Official shortfalls in apprenticeship slots
+run well above the average in the West, closer to 10% for the past several years (BMBF
+2006, p. 15, U ¨ bersicht 1), and this despite a much more prominent and proactive
+government role, both in subsidizing apprenticeships and in directly creating out-
+of-ﬁrm apprenticeship alternatives. In 2005, more than a quarter (25.3%) of total
+apprentice slots in the East were out-of-ﬁrm (against only 3.6% in the West), and of
+the in-ﬁrm training slots, 12% were subsidized by the state (against a mere 1.5% in the
+West) (Culpepper & Thelen forthcoming, tables 4 and 6). Had it not been for heavy state
+subsidies and investment in creating out-of-ﬁrm training opportunities, the situation in
+the East would be much more dire.
+Finally, there is the issue of the decline of manufacturing, which is the traditional
+core of the German training system. A very significant part of the problem of declining
+in-firm training seems to go back to the failure of the service sector (the only real source
+of employment growth in Germany) to embrace the traditional ‘‘dual system’’ of training
+on anywhere near the same scale as in manufacturing.
+7 Klaus Troltsch in fact cites ﬁgures
+that suggest a 24.7% decline in service sector apprenticeship between 1987 and 1996, even
+as employment in the sector rose by nearly 30% (29.6%) (Troltsch 2005, p. 75). His
+ﬁgures indicate that after 1996, the number of apprenticeships in services stabilized and
+even grew modestly after 1999, but overall training levels remain low compared with
+manufacturing industries.
+Table 3 documents how apprentice ratios (the number of trainees relative to total
+employment) in services continue to lag behind those in manufacturing. It shows that
+apprentice ratios in metal and electronics stayed relatively high over the late 1990s and
+early 2000s (despite an overall decline in skilled employment in the industry). Mean-
+while, the number of trainees in primary services grew strongly, but from a much lower
+base (and against stronger employment growth in the sector) so that the apprentice ratio
+in 2002 was still less than half that in metalworking. Apprenticeship ratios in secondary
+services actually declined between 1995 and 2002 (from 4.0 to 3.6%), despite consider-
+able growth in the number of skilled employees in that sector (+10.5% according to
+Table 2 Evolution of training behavior, by firm size, 1990–2003
+Size of ﬁrm
+(no. employees)
+Proportion of companies training
+(western states only)
+Apprentice ratio
+(western states only)
+1990 1996 1999 2003 Change (%)
+1990–2003
+1990 1996 1999 2003 Change (%)
+1990–2003
+1–9 21.4 16.9 17.5 17.9 216.4 11.1 8.0 8.4 8.6 222.5
+10–49 51.7 46.9 47.8 47.0 29.1 8.5 6.6 7.1 7.0 217.6
+50–499 73.6 67.1 70.2 69.3 25.8 6.0 4.5 5.3 5.4 210.0
+500+ 94.3 93.2 92.6 91.6 22.9 5.2 4.1 4.8 5.0 23.8
+Total 28.3 23.7 24.5 24.6 213.1 7.1 5.5 6.1 6.2 212.7
+Source: BMBF (2005).
+German vocational training system K. Thelen
+ª 2007 The Author
+Journal compilation ª 2007 Blackwell Publishing Asia Pty Ltd 253
+ 17485991, 2007, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1748-5991.2007.00013.x, Wiley Online Library on [19/11/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+=== PAGE 8 ===
+Werner, presumably recruited from applied universities or similar institutions of higher
+education) (Werner 2004, p. 59).
+Policy responses
+In Germany’s heavily voluntarist system, governments have tended to respond to
+a decline in training with exhortations and pleas to private firms and, occasionally, with
+a threat to impose a training levy.8 This strategy has not been wholly unsuccessful, either,
+as German employers have a strong interest in the training system and also possess
+signiﬁcant capacities for coordination in this area. Thus, in the past, shortages of appren-
+tice slots were in fact answered through voluntary adjustments on the part of business,
+as, for example, in the late 1970s when employers’ associations orchestrated a quite
+signiﬁcant increase in the number of training slots to address a serious deﬁcit (Baethge
+1999), or more recently (2004), when industry again managed to come up with voluntary
+increases in the number of apprentice slots against the threat of a state-imposed training
+levy (Funk 2005). There appear to be real limits, however, to what these sorts of exhor-
+tations can achieve, and in 2005 the government passed a major reform to the system.
+9
+There are several components to the new Vocational Training Act, but for present
+purposes the most signiﬁcant elements are those that enhance the ﬂexibility of the system
+in various ways and those that recalibrate the lines between the school-based and plant-
+based components of training.
+Several features of the new legislation are designed to enhance the flexibility of the
+system. For example, the law streamlines the procedures for updating training profiles
+and curricula, among other things by eliminating a layer of bureaucracy (the La ¨nder
+Committee of the Federal Institute for Vocational Training) (BMBF 2005). This change
+is aimed at facilitating ongoing ‘‘modernization’’ of training, including the timely cre-
+ation of new occupational proﬁles as needed in emerging and rapidly changing sectors.
+It follows the rather successful developments in 1997 in information and communication
+technologies (ICT) where employers, unions, and government cooperated closely with
+one another to create four new apprenticeship occupations that have subsequently taken
+off in rather impressive fashion (see especially Steedman & Wagner 2005a).
+Other features encourage greater flexibility in how in-plant training is actually car-
+ried out, including the possibility for it to be organized ‘‘on a more modular level’’
+(Hassel 2006, p. 24). Firms are still required to train to nationally deﬁned standards,
+but to allow for changes in technology or in regional or industry needs, the new Act also
+Table 3 Sectoral differences in use of apprentices, 1995–2002 (Western Germany)
+Change in no.
+apprentices (%),
+1995–2002
+Apprenticeship ratio,
+1995
+Apprenticeship ratio,
+2002
+Metal, electric 22.8 11.3 12.3
+Other industrial 29.6 6.8 7.7
+Tech, scientiﬁc 222.4 1.9 1.5
+Primary services 18.5 4.4 5.1
+Secondary services 21.1 4.0 3.6
+Source: Werner (2004, p. 59).
+K. Thelen German vocational training system
+254
+ª 2007 The Author
+Journal compilation ª 2007 Blackwell Publishing Asia Pty Ltd
+ 17485991, 2007, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1748-5991.2007.00013.x, Wiley Online Library on [19/11/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+=== PAGE 9 ===
+‘‘makes provision for the inclusion [in modules] of additional competencies .into the
+curriculum’’ (Steedman & Wagner 2005b, p. 22). These new ﬂexibilities accommodate
+and encourage changing practices in ﬁelds like ICT where training is composed of ‘‘core
+competencies’’ and ‘‘optional elements’’ that allow for specialized training ‘‘relevant to
+the apprentice’s training ﬁrm’’ (Steedman & Wagner 2005a, p. 15). In that ﬁeld, and
+in the meantime in other industries as well (e.g. metal and electronics), ﬁrms ‘‘offer
+customized training within broad qualiﬁcation proﬁles,’’ and this is sometimes associ-
+ated with increasingly popular ‘‘process-oriented’’ approaches to training – in which,
+for example, apprentices participate in some kind of in-plant project as part of the
+examination (interviews at DaimlerChrysler Du¨sseldorf and Metal Employers Associa-
+tion for Berlin/Brandenburg; see also Steedman & Wagner 2005a, p. 25, fn. 16). Another
+aspect of the new law, apparently designed to accommodate weaker performing appren-
+tices, provides ﬂexibility in the examination procedures by allowing apprentices to sit for
+interim exams that then count as credits toward ﬁnal examination results.
+Other aspects of the new law appear to embrace a certain rebalancing of the school-
+based and firm-based components of training. One such element is a provision that gives
+state governments greater discretion to allow apprentices to receive credit for a variety of
+school-based training programs. Noting that ‘‘over 190,000 apprentices are currently
+participating in full-time schooling outside the remit of the BBiG [Federal Training
+Law],’’ the new law provides ‘‘easier access to examinations by the chambers of industry
+and commerce’’ – the chambers, however, being and remaining the key gatekeepers for
+skill certification. The easing of regulations for participation in examinations adminis-
+tered by the chambers should thus redound especially to the benefit of those who have
+attended one (or more) of the various full-time vocational schooling alternatives dis-
+cussed here, but whose practical plant-based experience is more limited. As Steedman
+and Wagner note, this measure is meant to ‘‘ease the stress on apprenticeship places and
+is restricted until the year 2013’’ (Steedman & Wagner 2005a, p. 26). Beyond this, the
+new law generally invites new forms of collaboration between state vocational schools
+and companies, to accomplish several objectives at once: to address shortfalls in ﬁrm-
+based apprentice slots; to allow companies that might otherwise not be able to participate
+in training to do so; to provide training in new occupations (e.g. in the service sector)
+where plant-based options are insufﬁcient; and to address the need for a stronger
+theoretical component to training (BMBF 2005).
+Revisiting the defining characteristics of the German vocational training
+system and assessing prospects for the future
+It is too early to see how the effects of the 2005 reform will play out in the behavior of
+firms and trainees (and youth generally). But even if definitive conclusions are prema-
+ture, we at least have a framework and benchmarks for assessing the long-term signifi-
+cance of these changes as they unfold. By way of conclusion, therefore, I revisit the three
+defining features of the German system that were identified at the outset and I discuss
+how they may be influenced by these recent developments.
+1. The ﬁrst deﬁning feature of the German system is that a wide range of ﬁrms (above and
+beyond the country’s largest enterprises) participate in skill formation . As we have seen, the
+German system is one in which the practical component of training traditionally has
+German vocational training system K. Thelen
+ª 2007 The Author
+Journal compilation ª 2007 Blackwell Publishing Asia Pty Ltd 255
+ 17485991, 2007, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1748-5991.2007.00013.x, Wiley Online Library on [19/11/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+=== PAGE 10 ===
+relied almost completely on ﬁrms (and very different kinds of ﬁrm, from the smallest to
+the largest) voluntarily taking apprentices. What seems clear is that Germany’s largest
+manufacturing ﬁrms remain ﬁrmly committed to training, and the question for the
+future is the extent to which smaller ﬁrms can continue to afford to participate in the
+dual system, as well as the extent to which service sector ﬁrms generally come to embrace
+it. Some of the developments noted may operate to shore up the system on both these
+fronts. The 2005 law, for example, encourages and further promotes previously existing
+practices for networking and collaboration across ﬁrms to cover a required curriculum.
+Modularization ﬁts with practices whereby large ﬁrms sell ‘‘modules’’ of training to other
+ﬁrms – for example, to firms that do not have in-house technology or training capacity to
+cover certain elements of an occupational curriculum. Moreover, to the extent that some
+of these changes link up to (and appear to have been partly inspired by) the ICT
+apprentice model, they may facilitate inroads into other emerging areas where traditional
+apprenticeship has so far not taken hold.
+2. The second characteristic feature of the German system is that ﬁrm-based training is
+subject to nationally deﬁned standards regarding the content and quality of skills. New
+opportunities for greater ﬂexibility are, of course, likely to encourage experimentation
+on the part of ﬁrms to try to reduce the overall costs of training. Such cost reductions are
+of course not themselves inconsistent with (and are very likely even essential to the
+survival of) the German system. However, some of the forms of modularization just
+mentioned could undermine the broad occupational skill model (as ﬁrms train more
+narrowly, focusing on the speciﬁc skills they need) or lead to an overall decline in train-
+ing standards through subdivision into smaller components (Drexel 2005; Rauner 2005).
+It is perhaps signiﬁcant that German employers have not responded to problems in the
+system by demanding a blanket relaxation in training standards (to relieve costs pressures
+and encourage ﬁrm participation).
+10 However, this certainly does not rule out more subtle,
+creeping changes in the general direction of training that is organized more around the
+speciﬁc needs of ﬁrms, especially among large ﬁrms that anyway expect to employ their
+workers for a long time. For the future, therefore, it will be important to track whether
+new possibilities for ﬂexibility lead simply to a modularization of the process of skill
+acquisition (which would be consistent with the survival of a model based on occupa-
+tional skills) or to a deconstruction of the skillproﬁle itself (which could lead to the de facto
+gradual emergence of a very different, more segmentalist, training regime) (Drexel 2005).
+3. The third characteristic of the German system concerns the public–private partnership
+and the balance between firm-based and school-based training. Two possibilities about
+which Germans have historically worried when it comes to vocational education and
+training are ‘‘Verschulung’’ (overemphasis on ‘‘book’’ learning at the expense of practical
+training) and ‘‘ Verstaatlichung’’ (overinvolvement of the state at the expense of the
+private sector). These were worries in the past (e.g. Kieslinger 1950; Abel 1968; Thelen
+2004, ch. 5), and they are worries again today (e.g. BIBB et al. 2004). It seems clear that
+recent trends in Germany signal a shift in the public–private balance both in terms of
+financing and in terms of the school/workplace mix.
+11 Partly, the ‘‘upgrading’’ of school-
+based training (e.g. the provisions in the new Vocational Training Act that make it easier
+for youth to receive credit for vocational courses) looks like a rearguard action to deal
+with the problem of insufﬁcient in-ﬁrm apprenticeship. But, partly, the recalibration of
+the plant-based and school-based components may also reﬂect changes in the types of
+K. Thelen German vocational training system
+256
+ª 2007 The Author
+Journal compilation ª 2007 Blackwell Publishing Asia Pty Ltd
+ 17485991, 2007, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1748-5991.2007.00013.x, Wiley Online Library on [19/11/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+=== PAGE 11 ===
+skills that employers (e.g. higher-end services) need, which implies a more positive
+adaptation of the system. For example, one of the service sectors in which apprenticeship
+training is most widespread is banking, and there we ﬁnd employers recruiting a high
+number of apprentices with Abitur and also organizing their own training in ways that
+emphasize the theoretical components (Quack & Hildebrandt 1996). Partly for these
+reasons, the line between vocational and higher-educational tracks (traditionally not very
+ﬂuid in Germany, to say the least) has become increasingly blurred in this sector, as
+youth who complete bank apprenticeships often go on to university, returning later
+with these additional (highly valued) qualiﬁcations (Quack & Hildebrandt 1996, p. 486).
+In the ﬁeld of ICT, as well, it appears that German employers (and for that matter youth)
+value precisely the mix of theoretical and practical skills that these new combinations and
+training trajectories embody. 12
+In previous work I have argued that institutional survival is not a matter of inertia or
+stickiness. Instead, institutions require active maintenance and institutional reproduc-
+tion calls for ongoing mobilization of political support (Streeck & Thelen 2005). For
+these reasons, the coalitions and politics surrounding the Germany training system that
+take shape today will inﬂuence mightily its overall trajectory of development. The cur-
+rent challenges are formidable, even if they are not quite as unprecedented as some
+observers imply. Indeed, when viewed in a longer time frame, one cannot help but be
+struck by the way in which contemporary conﬂicts and tensions – involving the man-
+agement of diversity across firms of different sizes, characterized by the tensions between
+general standards and segmentalist urges, and inspiring debates on the appropriate
+balance between public and private and between the theoretical and the practical
+components of training – are exactly the same themes that have run through the entire
+history of the German vocational training regime (Thelen 2004).
+Acknowledgments
+I thank Uwe Becker, Helen Callaghan, Pepper Culpepper, Martin Ho ¨pner, Peer Hull
+Kristensen, Nicole Richardt, Paul Ryan, Christine Trampusch, Karin Wagner, and two
+anonymous reviewers for very useful comments on earlier versions of the paper. Nicole
+Richardt provided invaluable research assistance.
+Notes
+1 For an elaboration of these types, as well as a full historical account, see Thelen (2004).
+2 Of course, a much higher percentage of large ﬁrms offer training compared with smaller ﬁrms.
+Whereas 90.7% of all ﬁrms with 500 or more employees offers apprentice places, only 16.9%
+of the smallest ﬁrms (one to nine employees) offer training places. But in absolute terms there
+are of course far more small ﬁrms than large ﬁrms involved in training – more than 275,000
+very small firms (one to nine employees) offered training places, against 4,300 large (500+
+employees) firms (BMBF 2006, p. 151).
+3 This is changing, particularly in Eastern Germany where the shortage of in-plant training slots
+is acute.
+4 What we do know is that the number of those who opt for an alternative has risen from 34.8%
+in 1992 to 45.9% in 2005 (at the same time that the number of those who registered for and
+then actually began a ‘‘dual system’’ apprenticeship sank from 62.8 to 48.7% (BMBF 2006,
+section 1.3). We also know that the number of youth who continued to actively seek a training
+German vocational training system K. Thelen
+ª 2007 The Author
+Journal compilation ª 2007 Blackwell Publishing Asia Pty Ltd 257
+ 17485991, 2007, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1748-5991.2007.00013.x, Wiley Online Library on [19/11/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+=== PAGE 12 ===
+slot even after opting for an alternative rose by nearly 500% between 1993 and 2004, from
+9,923 to 48,712 (Ulrich 2005, p. 28).
+5 See also the more extensive discussion of these trends in Culpepper and Thelen (2007).
+6 The cost of training rose across the board, but as Steedman and Wagner point out, other ﬁrms
+did not experience a similarly large net increase because they were able to realize higher
+returns to training by incorporating trainees more into production. In the handicraft sector
+similar productivity increases were not possible, since training was already largely accom-
+plished within the work environment (Steedman & Wagner 2005b, p. 21).
+7 The dual system is quite well established in a few sectors (notably banking) but much less so in
+many other service sectors (see, for example, Quack et al. 1995; Quack & Hildebrandt 1996).
+8 The level of direct state involvement, though, has been growing in recent years. In addition to
+creating out-of-ﬁrm training opportunities, especially in Eastern Germany, the state also
+increasingly offers incentives and support (including subsidies) for various kinds of ﬁrm-
+based training or practical experience.
+9 This reform was preceded by another piece of legislation affecting training in the handicraft
+sector. A measure crafted by then-Minister of Labor and Economics, Wolfgang Clement,
+makes it possible for skilled journeymen in certain handicraft trades to open independent
+businesses; that is, without additional training and without having to stand for the ‘‘master’’
+exam. Opponents (above all representatives of the artisanal chambers, but also the conserva-
+tive Christian Democratic Party) argued that the change would reduce quality, but advocates
+argued that the measure would bolster training (as these independent producers would be able
+to take apprentices). The law ultimately passed, but in a compromise form, affecting fewer
+trades than originally envisioned.
+10 I am grateful to an anonymous reviewer for emphasizing this to me.
+11 In the East, as we saw, the state plays a huge role in subsidizing training, although the Danish
+case suggests that this particular form of state involvement does not necessarily compromise
+a skill regime based on portable occupational standards.
+12 There is some concern, however, that recent changes to the university system in Germany will
+create new and more zero-sum forms of competition between apprenticeship and university
+attendance (see especially Wagner 2006).
+References
+Abel H (1968) In: Stratmann K (ed.) Berufserziehung und beruﬂicher Bildungsweg, pp. 19–41. Georg
+Westermann Verlag, Braunschweig.
+Baethge M (1999) Glanz und Elend des deutschen Korporatismus in der Berufsbildung. Die
+Mitbestimmung Online 4, 15.
+BIBB (Bundesinstitut fu¨r Berufsbildung); Edith Bellaire et al. (2004) Wege zwischen dem Verlassen
+der allgemein bildenden Schule und dem Beginn einer beruﬂichen Ausbildung . BIBB, Bonn.
+BIBB (Bundesinstitut fu¨r Berufsbildung) (2005) Schaubilder zur Berufsbildung: Strukturen und
+Entwicklungen. BIBB, Bonn.
+BMBF (Bundesministerium fu¨r Bildung und Forschung) (2000)Berufsbildungsbericht.B M B F ,B e r l i n .
+BMBF (Bundesministerium fu¨r Bildung und Forschung) (2001)Berufsbildungsbericht.B M B F ,B e r l i n .
+BMBF (Bundesministerium fu¨r Bildung und Forschung) (2005) Reform der Berufsbildung 2005.
+BMBF, Berlin.
+BMBF (Bundesministerium fu¨r Bildung und Forschung) (2006) Informationen und Daten zur
+beruﬂichen Bildung Teil II, Berufsbildungsbericht 2006 , BMBF. [Cited 27 Nov 2006.] Available
+from URL: http://deutschland.dasvonmorgen.de/de/6433.php/.
+Brown P, Green A, Lauder H (2001) High Skills: Globalization, Competitiveness, and Skill Forma-
+tion. Oxford University Press, Oxford.
+Culpepper PD (1999) The Future of the High-Skill Equilibrium in Germany. Oxford Review of
+Economic Policy 15, 43–59.
+K. Thelen German vocational training system
+258
+ª 2007 The Author
+Journal compilation ª 2007 Blackwell Publishing Asia Pty Ltd
+ 17485991, 2007, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1748-5991.2007.00013.x, Wiley Online Library on [19/11/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+=== PAGE 13 ===
+Culpepper PD (2003) Creating Cooperation: How States Develop Human Capital in Europe . Cornell
+University Press, Ithaca, NY.
+Culpepper PD, Thelen K (2007) Institution s and Collective Actors in the Provision of
+Training: Historical and Cross-National Comparisons. In: Mayer K-U, Solga H (eds) Skill
+Formation: Interdisciplinary and Cross-National Perspectives . Cambridge University Press,
+New York.
+Drexel I (2005) Das Duale System und Europa: Ein Gutachten im Auftrag von Ver.di und IG Metall .
+Unpublished Report. Mu¨nchen.
+The Economist (2007) 3 Feb, p. 98 (Sect. Economic and Financial Indicators).
+Funk L (2006) Gesamtmetall proposes reforms of educational system (EIROnline) 2005 . [Cited 5 Dec
+2006.] Available from URL: http://www.eiro.eurofound.eu.int/2005/05/feature/de0505105f.html/.
+Hall PA, Soskice D (eds) (2001) Varieties of Capitalism: The Institutional Foundations of Compar-
+ative Advantage. Oxford University Press, New York.
+Hassel A (2006) What Does Business Want? Labor Market Reforms in CMEs and its Problems.
+Paper read at Council for European Studies, 30 Mar–1 Apr 2006, Chicago, IL.
+Herrigel G (1996) Industrial Constructions: The Sources of German Industrial Power . Cambridge
+University Press, New York.
+Kieslinger A (1950) Berufsausbildung am Scheideweg. In: Pa¨tzold G (ed) Quellen und Dokumente ,
+pp. 146–148. Bo¨hlau Verlag, Cologne.
+Marcussen M, Kaspersen LB (2007) Globalization and Institutional Competitiveness. Regulation &
+Governance 1, 183–196.
+Quack S, Hildebrandt S (1996) Rekrutierung, Berufsausbildung und Personaleinsatz: Deutsche
+und franzo¨sische Kreditinstitute im Anpassungsprozess an vera ¨nderte Marktbedingungen.
+Zeitschrift fu¨r Berufs- und Wirtschaftspa¨dagogik 92, 467–489.
+Quack S, O’Reilly J, Hildebrandt S (1995) Structuring Change: Training and Recruitment in Retail
+Banking in Germany, Britain, and France. The International Journal of Human Resource Man-
+agement 6, 759–794.
+Rauner F (2005) Rettet den Facharbeiter! Die Zeit 1 Dec, p. 86.
+Soskice D (1994) Reconciling Markets and Institutions: The German Apprenticeship System.
+In: Lynch LM (ed) Training and the Private Sector: International Comparisons . University of
+Chicago Press, Chicago, IL.
+Steedman H, Wagner K (2005a) British-German Perspectives on Skill Formation and Current
+Reforms. Paper read at Jacobs Foundation Conference, 14–16 Apr 2005, Marbach.
+Steedman H, Wagner K (2005b) Changing Skill Needs in Europe and Responsiveness of Appren-
+ticeship/Work-based Learning. Paper read at Jacobs Foundation Conference on Interdisciplin-
+ary Perspectives on Skill Formation and the Reform of Vocational and Professional Training,
+14–16 Apr 2005, Schloss Marbach.
+Stratmann K (1994) Das duale System der Berufsbildung: Eine historisch-systematische Analyse.
+In: Pa¨tzold G, Walden G (eds) Lernorte im dualen System der Berufsbilder , pp. 25–44. Bunde-
+sinstitut fu¨r Berufsbildung, Berlin und Bonn.
+Streeck W (1991) On the Institutional Conditions of Diversiﬁed Quality Production. In: Matzner
+E, Streeck W (eds) Beyond Keynesianism , pp. 21–61. Edward Elgar, Aldershot, UK.
+Streeck W, Thelen K (2005) Introduction: Institutional Change in Advanced Political Economies.
+In: Streeck W, Thelen K (eds) Beyond Continuity: Institutional Change in Advanced Political
+Economies, pp. 1–39. Oxford University Press, Oxford.
+Thelen K (2004) How Institutions Evolve: The Political Economy of Skills in Germany, Britain, the
+United States and Japan . Cambridge University Press, New York.
+Troltsch K (2005) Berufsbildung und Strukturwandel: Zum Einﬂuss wirtschaftsstruktureller
+Vera¨nderungen auf das betriebliche Ausbildungsstellenangebot seit 1980. In: BIBB (ed) Der
+Ausbildungsmarkt und seine Einﬂussfaktoren , pp. 71–91. BIBB, Bonn.
+German vocational training system K. Thelen
+ª 2007 The Author
+Journal compilation ª 2007 Blackwell Publishing Asia Pty Ltd 259
+ 17485991, 2007, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1748-5991.2007.00013.x, Wiley Online Library on [19/11/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+=== PAGE 14 ===
+Ulrich JG (2005) Probleme bei der Bestimmung von Ausbildungsplatznachfrage und Ausbildungs-
+platzangebot. In: BIBB (ed)Der Ausbildungsmarkt und seine Einﬂussfaktoren, pp. 5–36. BIBB, Bonn.
+Ulrich JG, Troltsch K (2003) Berufsbildungsstatistik. BIBB Forschung 4, 1–2.
+Wagner K (1999) The German Apprenticeship System under Strain. In: Culpepper PD, Finegold D
+(eds) The German Skills Machine: Sustaining Comparative Advantage in a Global Economy .
+Berghahn Books, New York.
+Wagner K (2006) Apprenticeship and Bachelor Degree: Peaceful Co-Existence or War of Attrition?
+Paper read at Fifteenth International Conference of Europeanists, 29 Mar–2 Apr 2006, Chicago, IL.
+Werner D (2004) Ausbildung zwischen Strukturwandel und Investitionskalku ¨l. Paper read at
+Expert Workshop, 1–2 Jul 2004, Bonn.
+Laws cited
+Law on Vocational Training of March 23, 2005 ([published] in Bundesgesetzblatt (BGBl), Part I,
+page 931), as updated by Article 232 of Regulation of October 31, 2006 (BGBl, Part I,
+page 2407).
+K. Thelen German vocational training system
+260
+ª 2007 The Author
+Journal compilation ª 2007 Blackwell Publishing Asia Pty Ltd
+ 17485991, 2007, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1748-5991.2007.00013.x, Wiley Online Library on [19/11/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
