@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "01 鲍姆加登和门德尔松",
+      "path": "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照/01 鲍姆加登和门德尔松.md"
+    },
+    {
+      "basename": "Argument_Hammermeister_2002_Cambridge_Ch01",
+      "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch01.md"
+    },
+    {
+      "basename": "Combinatorial Novelty Measurement",
+      "path": "wiki/methods/quantitative/Combinatorial Novelty Measurement.md"
+    },
+    {
+      "basename": "Collective Credit Allocation Algorithm",
+      "path": "wiki/methods/quantitative/Collective Credit Allocation Algorithm.md"
+    },
+    {
+      "basename": "Cohort Study",
+      "path": "wiki/methods/quantitative/Cohort Study.md"
+    },
+    {
       "basename": "Cognitive Extent",
       "path": "wiki/methods/quantitative/Cognitive Extent.md"
     },
@@ -9,16 +29,8 @@
       "path": "wiki/facts/new-zealand/Visible Learning Branding and Global Influences.md"
     },
     {
-      "basename": "01 鲍姆加登和门德尔松",
-      "path": "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照/01 鲍姆加登和门德尔松.md"
-    },
-    {
       "basename": "Hammermeister_2002_Cambridge_英汉对照",
       "path": "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照.md"
-    },
-    {
-      "basename": "Argument_Hammermeister_2002_Cambridge_Ch01",
-      "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch01.md"
     },
     {
       "basename": "Argument_Hammermeister_2002_Cambridge_Ch07",
@@ -187,18 +199,6 @@
     {
       "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch05",
       "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch05.md"
-    },
-    {
-      "basename": "Argument_Liu_2025_IndHE",
-      "path": "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Liu_2025_IndHE.md"
-    },
-    {
-      "basename": "Argument_Hogan_2013_ROE",
-      "path": "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
-    },
-    {
-      "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch06",
-      "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md"
     }
   ],
   "omittedPaths": [],

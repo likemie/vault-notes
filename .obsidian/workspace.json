@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/methods/quantitative/Cognitive Extent.md",
+                "file": "wiki/methods/quantitative/Combinatorial Novelty Measurement.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Cognitive Extent"
+              "title": "Combinatorial Novelty Measurement"
             }
           },
           {
@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -300,8 +300,14 @@
       "ai-usage-float:显示或隐藏额度浮窗": false
     }
   },
-  "active": "dcfc1210476513af",
+  "active": "3643ff474ee79da9",
   "lastOpenFiles": [
+    "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch01.md",
+    "wiki/assets/geogebra/combinatorial_novelty_measurement.ggb",
+    "wiki/methods/quantitative/Combinatorial Novelty Measurement.md",
+    "wiki/methods/quantitative/Collective Credit Allocation Algorithm.md",
+    "wiki/methods/quantitative/Cohort Study.md",
+    "wiki/methods/quantitative/Cognitive Extent.md",
     "output/related-updates/Argument_Ertl_2006_ORE-3faa12dd/batch-006/result.json",
     "wiki/facts/new-zealand/Visible Learning Branding and Global Influences.md",
     "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照/01 鲍姆加登和门德尔松.md",
@@ -317,9 +323,7 @@
     "output/related-updates/Argument_Ertl_2006_ORE-3faa12dd/batch-012/prompt.md",
     "output/related-updates/Argument_Ertl_2006_ORE-3faa12dd/batch-012/batch-result.schema.json",
     "output/related-updates/Argument_Ertl_2006_ORE-3faa12dd/batch-010/prompt.md",
-    "output/related-updates/Argument_Ertl_2006_ORE-3faa12dd/batch-010/batch-result.schema.json",
     "output/related-updates/Argument_Ertl_2006_ORE-3faa12dd/batch-011/prompt.md",
-    "output/related-updates/Argument_Ertl_2006_ORE-3faa12dd/batch-011/batch-result.schema.json",
     "output/related-updates/Argument_Ertl_2006_ORE-3faa12dd/batch-009/prompt.md",
     "output/related-updates/Argument_Ertl_2006_ORE-3faa12dd/batch-008/prompt.md",
     "output/related-updates/Argument_Ertl_2006_ORE-3faa12dd/batch-007/prompt.md",
@@ -334,10 +338,6 @@
     "wiki/persons/germany/Richard Münch.md",
     "wiki/facts/germany/Nationaler Bildungsrat.md",
     "wiki/facts/switzerland/Organisations of the World of Work.md",
-    "wiki/facts/germany/Standardberufsbildpositionen.md",
-    "wiki/facts/germany/Kooperationsverbot.md",
-    "wiki/concepts/educational-policy-reform/Berufsprinzip.md",
-    "wiki/facts/germany/G8 Reform in Germany.md",
     "sources/Rohde-Liebenau_Graf_2024_EERJ/figures/Rohde-Liebenau_Graf_2024_EERJ_Fig1_Theorised_Drivers_of_VET_Governance_Reforms.jpg",
     "raw/Figure1.png",
     "output/德国美学传统翻译（全文彭正梅）(1)_assets/image1.png",
