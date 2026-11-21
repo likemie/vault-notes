@@ -10,10 +10,10 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 49
-person_related_level: 4
-person_related_stars: "💎⭐"
-person_related_color: "#fce7f3"
+person_related_count: 50
+person_related_level: 5
+person_related_stars: "💎⭐⭐"
+person_related_color: "#ffedd5"
 born: "1964"
 lifespan: "1964–至今"
 tags:
@@ -78,10 +78,11 @@ related_arguments:
   - "[[Argument_Deng_2016_CE]]"
   - "[[Argument_Zhao_2020_JEC]]"
   - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Argument_Ertl_2006_ORE]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 ---
@@ -108,24 +109,26 @@ updated: 2026-11-19
 ---
 
 > [!work-line] 主要著作
-> - **1999 — *Measuring Student Knowledge and Skills: A New Framework for Assessment*** 奠基性评估框架，确立 [[PISA]] 脱离学校课程教材记忆、转向测量 15 岁学生在现实情境中迁移与应用高阶知识能力的评价逻辑。
+> - **1999 — *Measuring Student Knowledge and Skills: A New Framework for Assessment*** 原初评估框架，确立 [[PISA]] 脱离学校课程教材记忆、转向测量 15 岁学生在现实情境中迁移与应用高阶知识能力的评价逻辑。
 > - **2014 — *PISA 2012 Results: What Makes Schools Successful*** 系统总结全球高绩效学校治理特征，提出[[School Autonomy\|学校自主权]]、专业协作文化与基于证据的自我诊断是卓越体系的核心驱动力。
 > - **2018 — *World Class: How to Build a 21st-Century School System*** 个人代表专著，系统整合[[OECD\|经合组织]]二十年跨国评估实证洞见，倡导从工业时代的流水线科层教育向面向 21 世纪的专业化、自适应与全球素养现代学习生态转型。
 > - **2021 — *OECD Studies and the Case of PISA, [[Programme for the International Assessment of Adult Competencies\|PIAAC]], and [[Teaching and Learning International Survey\|TALIS]]*** 与 Ikeda, Thorn, & Tremblay 合著，系统解构经合组织如何将大规模跨国评估工具打包，构筑起主导全球教育公共政策咨询与标准制定的专业[[Discourse|话语]]网络。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 547)]]
 
 ---
 
-> [!claim] 核心思想
-> 施莱歇尔秉持“无测量即无改进”的实证治理哲学。他坚信在全球化[[Knowledge-Based Economy\|知识经济]]时代，国家教育[[Competitiveness|竞争力]]不再由输入性的课时、经费或[[Rote Learning\|死记硬背]]的教学大纲所决定，而取决于学生面对未知未来情境时外推与创新运用知识的实际能力。他主张国际组织应扮演超越主权狭隘视野的“[[Policy Brokerage\|政策中介]]镜鉴”，通过严格标定的跨国横向比较（Peer Referencing），破除各国教育系统自我陶醉的传统神话，向决策者提供无可辩驳的实证硬事实，驱动公共教育体制向结果导向的高效问责生态演进。
-
-> [!citation-card] 跨国证据与教育体系自我超越
-> 过去教育由国家规定教什么与学什么；但在今天，全球经济奖励的是个体运用所学知识解决实际问题的实践能力，超越了单纯掌握静态知识事实的传统导向。大规模国际测评的核心价值不仅体现在激发竞争意识，更在于让政策制定者看到全球其他体系达到的高水准标杆，从而激发系统性改革意志，建立面向未来的世界级学校体系。(Schleicher, 2018)
+> [!person-thesis] 主张一｜国家教育质量不能由输入性课时决定，而必须通过跨国量化测评驱动输出导向治理
+> 施莱歇尔秉持“无测量即无改进”的实证治理哲学。他坚信在全球化[[Knowledge-Based Economy\|知识经济]]时代，国家教育[[Competitiveness|竞争力]]不再由输入性的课时、经费或[[Rote Learning\|死记硬背]]的教学大纲所决定，而取决于学生面对未知未来情境时外推与创新运用知识的实际能力。他主张国际组织应扮演超越主权狭隘视野的“[[Policy Brokerage\|政策中介]]镜鉴”，通过严格标定的跨国横向比较（Peer Referencing），向决策者提供无可辩驳的实证硬事实，驱动公共教育体制向结果导向的高效问责生态演进。(Schleicher, 2018)
+>
+> > [!thesis-quote] 《世界级：如何构建21世纪的学校体系》（2018）
+> > 过去教育由国家规定教什么与学什么；但在今天，全球经济奖励的是个体运用所学知识解决实际问题的实践能力，超越了单纯掌握静态知识事实的传统导向。大规模国际测评的核心价值不仅体现在激发竞争意识，更在于让政策制定者看到全球其他体系达到的高水准标杆，从而激发系统性改革意志，建立面向未来的世界级学校体系。(Schleicher, 2018)
+> >
+> > *The world economy no longer pays you for what you know; Google knows everything. The world economy pays you for what you can do with what you know... PISA shows what is possible in education.*
 
 ---
 
 > [!influence-path] 影响路径
 > - **方法路径** 将复杂[[Matrix Sampling|矩阵抽样]]、[[Item Response Theory\|项目反应理论]]（IRT）与多重填补技术标准化运用于跨国大规模教育测评，确立了全球学生素养量化测量的技术[[Paradigm\|范式]]。
-> - **政策路径** 依托三年一度的 [[PISA]] 放榜在全球掀起“PISA 冲击（[[PISA Shock]]）”，促使德国、日本、挪威等主权国家重构国家[[21st Century Skills and Competencies Discourse\|核心素养]]框架、设立中央评估督导机构并将教育治理逻辑彻底转向输出导向。
+> - **政策路径** 依托三年一度的 [[PISA]] 放榜在全球掀起“PISA 冲击（[[PISA Shock]]）”，促使德国、日本、挪威等主权国家重构国家核心素养框架与输出导向治理逻辑；在德国后 PISA 论争中，施莱歇尔作为国际协调员直接介入体制辩论，明确指出德国教育成就差距根源于十岁过早分轨，力陈单纯提高技术标准无法解决结构性不平等，力主推行综合中学体制变革（[[Argument_Ertl_2006_ORE|Ertl, 2006, pp. 627–628]]）。
 > - **全球治理路径** 亲手缔造了[[OECD\|经合组织]]在全球教育治理中的“软法与硬事实帝国”，将原本不具有任何教育法定管辖权的经济组织，打造成超越联合国专门机构的全球首要教育[[Policy Brokerage\|政策中介]]枢纽。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 547)]]
 
 > [!evidence-grid-a|notitle] 相关研究索引
@@ -134,6 +137,7 @@ updated: 2026-11-19
 > - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 系统解构施莱歇尔在媒体发布会上使用的 147 张演示幻灯片，揭示其迎合传媒逻辑、推销[[Neoliberalism|新自由主义治理]]愿景的技术修辞。
 > - [[Argument_Zhao_2020_JEC\|Zhao (2020)]] — 批判其利用东方威权[[Examination-Oriented Education\|应试教育]]体系的“自我谴责”特质粉饰 PISA 排名，进而误导西方教育政策改革。
 > - [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] — 批判施莱歇尔与经合组织在 2018 年哥本哈根会议提出的 21 世纪技能[[Discourse|话语]]，揭示其如何将教育简化为不可预测未来的适应性伺服工具，遮蔽了德意志教化传统的规范性自主追求。
+> - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 记录其作为国际 PISA 协调员直接介入德国学制论争，指出十岁早期分轨是导致不平等根源并主张综合中学体制改革。
 
 ---
 

@@ -781,16 +781,6 @@
       "target": "wiki/concepts/higher-education/Grandes Ecoles.md"
     }
   ],
-  "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch01.md": [
-    {
-      "sentence": "比较德国美学传统时确立的三项核心维度，分别追问艺术的本体规定、艺术与美的认识价值以及艺术对人的实践功能，用于横向贯通不同时代哲学家的美学立场（Preface, pp.",
-      "target": "wiki/concepts/educational-psychology/Epistemic Value.md"
-    },
-    {
-      "sentence": "实践目的发生自我颠覆：美学从理性主义的辅助工具演变为独立乃至与之形成创造性对立的学科（p.",
-      "target": "wiki/concepts/competency-and-assessment/Creativity.md"
-    }
-  ],
   "wiki/concepts/educational-psychology/Epistemic Value.md": [
     {
       "sentence": "不同的学科对何种认识产出具有高价值持有不同判据：某些领域珍视高度抽象的数学模型，另一些领域则赋予精湛的实验操作规程与野外标本鉴别以崇高价值。",
@@ -1475,6 +1465,10 @@
     {
       "sentence": "由基尔大学莱布尼茨科学与数学教育研究所（Leibniz Institute for Science and Mathematics Education, IPN）主持并在全德逾千所中小学落地的提高数理教学效率（Increasing the Efficiency of Mathematics and Science Instruction, SINUS）试点工程，依据实证研究成果系统重塑课堂探究情境，改善学生的数学与科学认知激活水平（IPN, 2004）。",
       "target": "wiki/persons/germany/Gottfried Wilhelm Leibniz.md"
+    },
+    {
+      "sentence": "citation-card] 厄特尔论家庭阶层筛选掩盖学业择优初衷",
+      "target": "wiki/persons/us/Alexander Oettl.md"
     }
   ]
 }

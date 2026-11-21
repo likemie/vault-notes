@@ -9,10 +9,10 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 29
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 30
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1927"
 died: "2016"
 lifespan: "1927–2016"
@@ -60,7 +60,7 @@ related_methods:
 confidence: high
 status: active
 created: '2026-05-06'
-updated: 2026-11-20
+updated: 2026-11-21
 ---
 
 ---
