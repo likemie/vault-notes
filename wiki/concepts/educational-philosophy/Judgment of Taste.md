@@ -124,7 +124,7 @@ updated: 2026-11-21
 ---
 
 > [!critique] 外部批评与后康德范式演进
-> - **客观唯心论的真理批评** [[Georg Wilhelm Friedrich Hegel|黑格尔]]（Georg Wilhelm Friedrich Hegel）高度赞赏康德将审美判断从占有欲与科学公式中解放出来，但批评康德将鉴赏判断奠基于感性与想象力，使之停留在主观浅表层面，无法对艺术作品本身的客观真理作出断言。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 93–94)]]
+> - **客观唯心论的真理批评** [[Georg Wilhelm Friedrich Hegel|黑格尔]]（Georg Wilhelm Friedrich Hegel）高度赞赏康德将审美判断从占有欲与科学公式中解放出来，但批评康德将鉴赏判断局限于感性与想象力，使之停留在主观浅表层面，无法对艺术作品本身的客观真理作出断言。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 93–94)]]
 > - **存在论与诠释学对主观化的拆解** [[Martin Heidegger|马丁·海德格尔]]（Martin Heidegger）拒斥把审美动感局限于主体心理官能游戏与消费体验，将其移入作品客观的[[World and Earth|世界与大地]]争执；[[Hans-Georg Gadamer|汉斯-格奥尔格·伽达默尔]]（Hans-Georg Gadamer）则批评康德将审美判断主观化后剥夺了艺术的认知地位，导致作品与其历史生活世界割裂并迫使人文学科效仿自然科学方法论。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 187–190)]]
 > - **尼采的趣味复兴及其个人主义悖论** [[Friedrich Nietzsche|弗里德里希·尼采]]（Friedrich Nietzsche）逆转康德之后唯心论对趣味的边缘化，主张哲学依靠改变读者趣味而推进（《善恶的彼岸》§2、《快乐的科学》§39）；但 18 世纪道德与审美合一的趣味前提依赖于共享的社会理想，在尼采力图瓦解共同信念的个人主义哲学中重建趣味缺乏合法根基。[[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, pp. 148–149)]]
 

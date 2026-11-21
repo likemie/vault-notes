@@ -57,7 +57,7 @@ updated: 2026-11-21
 > - **边界** 自然美区别于作为精神产物的艺术美；在黑格尔以来的现代唯心论与马克思主义谱系中常被边缘化，直至现代批判理论与生态哲学中重新获得非同一性地位。
 
 > [!citation-card|notitle] 阿多诺论自然美作为非同一性的痕迹
-> 自然美展现为摆脱了技术理性支配与资源化宰制的那一维度。它是普遍同一性魔咒下客体内部非同一性的痕迹。艺术作品对自然的摹仿，绝非对实存自然物象的简单抄袭，而是对其未被概念吞噬的非同一性尊严的守护。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, p. 206)]]
+> 自然美展现为摆脱了技术理性支配与资源化宰制的那一维度。它是普遍同一性魔咒下客体内部非同一性的痕迹。艺术作品对自然的摹仿旨在守护客体未被概念吞噬的非同一性尊严，有别于对实存物象的表面抄袭。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, p. 206)]]
 >
 > *Natural beauty shows that dimension which has escaped technological rationality and domination... It is the trace of the nonidentical in things under the spell of universal identity.*
 

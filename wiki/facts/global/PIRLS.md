@@ -4,6 +4,8 @@ aliases:
   - 国际阅读素养研究
   - 国际阅读素养进展研究
   - Progress in International Reading Literacy Study
+  - IGLU
+  - Internationale Grundschul-Lese-Untersuchung
 summary: "国际教育成就评价协会（IEA）主导的全球小学4年级学生阅读素养跨国比较项目，以5年周期评估获取信息与文学体验双重阅读能力及家庭教育背景"
 type: fact
 subtype: program
@@ -29,7 +31,6 @@ related_concepts:
   - "[[Socioeconomic Status]]"
   - "[[Evaluation Research]]"
   - "[[Heterogeneity]]"
-  - "[[Total War]]"
   - "[[Reliability]]"
   - "[[School Inspection]]"
   - "[[Document]]"
@@ -52,6 +53,7 @@ related_facts:
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Dedering_2009_EERJ]]"
+  - "[[Argument_Ertl_2006_ORE]]"
 confidence: high
 status: stable
 created: 2026-09-18
@@ -67,7 +69,7 @@ updated: 2026-11-02
 > - **立项时间 / 周期** 始于 2001 年首轮国际测评，此后以 5 年为周期稳步推进（2001、2006、2011、2016、2021……）。
 > - **发起方与国际执行实体** 由国际教育成就评价协会（IEA）统筹发起，国际测评中枢设于波士顿学院（Boston College）[[TIMSS]] & PIRLS 国际研究中心，各国教育部与国家级教育科研院所联合承担抽样与数据采集。
 > - **覆盖范围与对象** 覆盖全球 50 多个国家与地区，以小学 4 年级在校学生为[[Study Population and Sample\|目标总体]]，采用严格的两阶段分层整班[[Random Sampling\|概率抽样]]。
-> - **小学基础阅读焦点** 与 [[PISA]]（侧重 15 岁初中毕业阶段应对劳动力市场与公民生活的综合应用素养）不同，PIRLS 专注于小学早期阅读理解能力的建构与家庭早期语言环境（Home Literacy Environment）的奠基效应。
+> - **小学基础阅读焦点** 与 [[PISA]]（侧重 15 岁初中毕业阶段应对劳动力市场与公民生活的综合应用素养）不同，PIRLS 专注于小学早期阅读理解能力的建构与家庭早期语言环境（Home Literacy Environment）的基础性塑造作用。
 
 ---
 
@@ -91,7 +93,8 @@ updated: 2026-11-02
 
 > [!dev-timeline] 项目推进历程
 > - **2001 年 — 首测确立全球基准** 举办第一轮国际测试，系统揭示各国小学 4 年级儿童阅读水平的巨大[[Heterogeneity\|异质性]]。
-> - **2006 年 — 纳入德国国家监测[[Total War|总体战]]略** 德国[[Standing Conference of the Ministers of Education and Cultural Affairs\|常设各州教育与文化部长会议]]（KMK）将 PIRLS（在德国称 IGLU）连同 [[PISA]] 和 [[TIMSS]] 制度化确立为[[Gesamtstrategie zum Bildungsmonitoring\|国家教育监测总体战略]]第一支柱。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, p. 484)]]
+> - **2003–2006 年 — 德国 PISA 冲击后的横向测评扩张（IGLU 与 IGLU-E）** 德国在 PISA 震荡后全面深化对 PIRLS（德语区称 IGLU）的参与，并进一步扩展至数学与科学模块 IGLU-E，在 16 个联邦州之间系统展开小学阶段跨州横向比照（[[Argument_Ertl_2006_ORE|Ertl, 2006, p. 627]]）。
+> - **2006 年 — 纳入德国[[Gesamtstrategie zum Bildungsmonitoring|国家教育监测总体战略]]** 德国[[Standing Conference of the Ministers of Education and Cultural Affairs\|常设各州教育与文化部长会议]]（KMK）将 PIRLS（在德国称 IGLU）连同 [[PISA]] 和 [[TIMSS]] 制度化确立为[[Gesamtstrategie zum Bildungsmonitoring\|国家教育监测总体战略]]第一支柱。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, p. 484)]]
 > - **2016 年至今 — 拓展数字化在线阅读（digitalPIRLS）** 引入数字交互界面，评估学生在模拟网络环境中检索信息、辨别来源可[[Reliability\|信度]]与多文本整合的高阶数字阅读能力。
 
 ---
@@ -131,3 +134,4 @@ updated: 2026-11-02
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Dedering_2009_EERJ|Dedering (2009)]] — 探讨 PIRLS 在德国各州教育部日常治理中的定位功能及其与微观工具分工的代表性实证[[Document|文献]]。
+> - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 记录德国在 PISA 震荡后全面融入 PIRLS（IGLU 及 IGLU-E）并在十六个联邦州之间铺开小学阶段横向测评网络的过程。

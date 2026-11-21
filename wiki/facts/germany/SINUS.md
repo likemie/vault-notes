@@ -67,6 +67,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Manitius_vanHolt_2019_BzS]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
+  - "[[Argument_Ertl_2006_ORE]]"
 confidence: high
 status: active
 created: 2026-09-27
@@ -76,7 +77,7 @@ updated: 2026-11-15
 ---
 
 > [!claim] 项目定位
-> “提高数理教学效率联合改革试验”（Steigerung der Effizienz des mathematisch-naturwissenschaftlichen Unterrichts, SINUS）是由德国[[Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung|联邦与各州教育规划与科研促进委员会]]（BLK）于 1998 年设立的国家级大型教学改革与转移试验项目。该项目直面德国在 1997 年第三次国际数学与科学研测（[[TIMSS]]）及后续 [[PISA]] 中暴露的理科素养低迷危机，依托基尔大学[[Gottfried Wilhelm Leibniz|莱布尼茨]]科学与数学教育研究所（IPN）统筹学术研发，开创了通过跨校[[Teacher Collaboration|教师协作]]网络与校本模块化实践推动学科教学改进的新[[Paradigm|范式]]。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, pp. 9, 11)]]
+> “提高数理教学效率联合改革试验”（Steigerung der Effizienz des mathematisch-naturwissenschaftlichen Unterrichts, SINUS）是由德国[[Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung|联邦与各州教育规划与科研促进委员会]]（BLK）于 1998 年设立的国家级大型教学改革与转移试验项目。该项目直面德国在 1997 年第三次国际数学与科学研测（[[TIMSS]]）及后续 [[PISA]] 中暴露的理科素养低迷危机，依托基尔大学莱布尼茨科学与数学教育研究所（IPN）统筹学术研发，开创了通过跨校[[Teacher Collaboration|教师协作]]网络与校本模块化实践推动学科教学改进的新[[Paradigm|范式]]。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, pp. 9, 11)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1998 年正式立项启动先导试验（1998–2003 年）；因成效显著，随后扩展为面向全德的规模化推广计划“SINUS-Transfer”（2003–2007 年），并进一步延伸至小学阶段（2009–2013 年）。
@@ -107,7 +108,7 @@ updated: 2026-11-15
 > - **1998–2003 — 方案论证与先导试验期（SINUS 原型）** 在全德各州的 180 所中学开展第一轮试点，研制 11 个教学模块并验证跨校协作网络机制，参与教师在题目设计与课堂师生互动上展现出显著积极转变。
 > - **2003–2007 — PISA 震荡应急响应与全域规模化扩散（SINUS-Transfer）** PISA 2000 发布引发德国舆论危机后，联邦与各州将 SINUS 确立为应对数理危机、推行产出导向教学的核心载体，BMBF 追加专项资金支持，数十个区域网络相继建立，数千所学校加入网络协作。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 29–30)]]
 > - **2009–2013 — 基础学段下沉与常态化延伸（SINUS an Grundschulen）** 鉴于在中学阶段的积极经验，各州教育行政部门与科研机构将该模型进一步下沉至小学阶段，重点提升早期儿童的数学与科学启蒙质量。
-> - **2010s 至今 — [[Transfer Science|转移科学]]的奠基性典范** SINUS 成为德语区教育科学界研究“模型试验向学校实践转移”的标杆案例，其在网络化扩散与教师协作方面的经验直接启发了后续[[Clearing House Unterricht|慕尼黑工业大学教学清算中心]]（CHU）、[[Forschungsmonitor Schule|学校研究监测平台]]（FMS）及全德教师教育改革专项（[[Qualitätsoffensive Lehrerbildung|QLB]]）的方案设计。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, pp. 9–11)]]
+> - **2010s 至今 — [[Transfer Science|转移科学]]的代表性典范** SINUS 成为德语区教育科学界研究“模型试验向学校实践转移”的标杆案例，其在网络化扩散与教师协作方面的经验直接启发了后续[[Clearing House Unterricht|慕尼黑工业大学教学清算中心]]（CHU）、[[Forschungsmonitor Schule|学校研究监测平台]]（FMS）及全德教师教育改革专项（[[Qualitätsoffensive Lehrerbildung|QLB]]）的方案设计。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, pp. 9–11)]]
 
 ---
 
@@ -175,5 +176,6 @@ updated: 2026-11-15
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 将 SINUS 与 SINUS-Transfer 确立为德语区转移科学与模型试验研究的奠基性历史坐标。
+> - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 将 SINUS 与 SINUS-Transfer 确立为德语区转移科学与模型试验研究的核心历史坐标。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 剖析 PISA 震荡后德国联邦教育部追加资助将 SINUS 确立为应对数理危机核心干预的政策机制。
+> - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 记录由基尔 IPN 统筹并在全德逾千所中小学落地的 SINUS 项目，阐明其如何依据实证研究成果系统重塑课堂探究情境以提升数理认知激活水平。

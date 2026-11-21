@@ -75,6 +75,7 @@ related_arguments:
   - "[[Argument_Barrenechea_2023_JEC]]"
   - "[[Argument_Deng_2016_CE]]"
   - "[[Argument_Silova_2009_EE]]"
+  - "[[Argument_Ertl_2006_ORE]]"
 confidence: high
 status: stable
 created: 2026-09-18
@@ -237,3 +238,4 @@ updated: 2026-11-20
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 记录 ACER 等机构垄断 TIMSS 核心合同引发欧洲抗议及 TIMSS 震荡催生 SINUS 的机制。
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 援引 TIMSS 对 54 个教育系统的跨国课程轨迹比较（Cogan et al., 2001），论证中央集权型且流转对齐的课程体制在保障学生学业一致性上的制度优势（p. 8）。
 > - [[Argument_Silova_2009_EE|Silova (2009)]] — 批判 TIMSS 等大规模量化评价对教育制度的去情境化技术主义冲击，论证坚守深嵌历史文脉与制度生态之多案例质性比较的学科底线（pp. 28–29）。
+> - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 记录 TIMSS 作为德国在 1960 年代后长期孤立政策下少数参与的国际测评之一，及其在实证教学研究取代传统普通教学论过程中充当技术诊断工具的定位。
