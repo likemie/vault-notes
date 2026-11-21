@@ -11,7 +11,7 @@ subtype: program
 region: "germany"
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 27
+fact_related_count: 29
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Learning Gain]]"
   - "[[Construct]]"
   - "[[Operationalization]]"
+  - "[[Teacher Qualifications]]"
   - "[[Paradigm]]"
   - "[[Business as Usual]]"
   - "[[21st Century Skills and Competencies Discourse]]"
@@ -52,6 +53,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Max Planck]]"
+  - "[[Jürgen Baumert]]"
   - "[[Ewald Terhart]]"
 related_facts:
   - "[[Max Planck Institute for Human Development]]"
@@ -61,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-11-11
+updated: 2026-11-21
 ---
 
 ---
@@ -71,7 +73,7 @@ updated: 2026-11-11
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2001 年启动预研与[[Scale Development|量表开发]]，2003 至 2004 年依托 PISA 开展为期一年的纵向追踪测验，后续数据深化分析与模型建构持续至 2010 年代。
-> - **发起方与资助机制** 由马克斯·普朗克人类发展研究所尤尔根·鲍默特（Jürgen Baumert）教授团队联合卡塞尔大学、柏林洪堡大学等机构发起，获得德国研究联合会（DFG）优先级专项资助（SPP 1082）。
+> - **发起方与资助机制** 由马克斯·普朗克人类发展研究所[[Jürgen Baumert|尤尔根·鲍默特]]（Jürgen Baumert）教授团队联合卡塞尔大学、柏林洪堡大学等机构发起，获得德国研究联合会（DFG）优先级专项资助（SPP 1082）。
 > - **覆盖范围与对象** 覆盖德国全境各联邦州不同类型完全中学（Gymnasium）与非完全中学的九年级至十年级数学教师及对应班级学生，构建了由数百名骨干教师及其数万名学生组成的配对嵌套样本。
 > - **核心问题导向** 深刻反思德国在 PISA 2000 遭遇的学业震惊，针对传统教师教育研究中长期悬而未决的经验谜题：教师在大学修习的学科与教学知识，究竟能否真正转化至课堂微观互动并提升学生的数学能力素养。
 
@@ -96,7 +98,7 @@ updated: 2026-11-11
 ---
 
 > [!dev-timeline] 项目推进历程
-> - **2001–2003 — [[Construct|构念]][[Operationalization|操作化]]与测验工具研发期** 突破传统依赖教师资格年限或任教门槛的间接代理指标，首次成功编制出情境化、开放式的教师数学 CK 与 PCK 标准化纸笔专业测验工具。
+> - **2001–2003 — [[Construct|构念]][[Operationalization|操作化]]与测验工具研发期** 突破传统依赖[[Teacher Qualifications|教师资格]]年限或任教门槛的间接代理指标，首次成功编制出情境化、开放式的教师数学 CK 与 PCK 标准化纸笔专业测验工具。
 > - **2003–2004 — 伴随 [[PISA]] 的全德纵向实地施测期** 伴随 PISA 2003 数学主测量，在初三年级开展基线普测，并在相隔整整一学年后对同一批教师与升入初四年级的学生实施标准化[[Pre-test and Post-test|后测]]。
 > - **2005–2010 — 多层模型建构与标志性成果发布期** 2010 年在顶级期刊《American Educational Research Journal》（AERJ）发表旗舰研究报告，并在 2013 年出版英文学术专著，全面确立教师专业能力的经验测量[[Paradigm|范式]]。
 

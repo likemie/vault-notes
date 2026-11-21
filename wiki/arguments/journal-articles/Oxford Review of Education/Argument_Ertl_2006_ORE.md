@@ -60,7 +60,9 @@ related_methods:
   - "[[Quasi-Experimental Designs]]"
 related_instruments: []
 related_persons:
+  - "[[Eckhard Klieme]]"
   - "[[Wolfgang Klafki]]"
+  - "[[Jürgen Baumert]]"
   - "[[Andreas Schleicher]]"
   - "[[Alexander Oettl]]"
 related_facts:
@@ -95,7 +97,7 @@ title: "Argument_Ertl_2006_ORE"
 argument_key: "Argument_Ertl_2006_ORE"
 argument_display_title: "Educational standards and the changing discourse on education: the reception and consequences of the PISA study in Germany"
 argument_kind: "journal-article"
-argument_related_count: 58
+argument_related_count: 59
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -143,7 +145,7 @@ issuing_organization: ""
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
-> | **政策与法规文本** | KMK 国家教育标准文件（KMK, 1995, 2005）、联邦教研部改革行动纲领（BMBF, 2003, 2005）、克利姆专家论证报告（Klieme et al., 2003）。 |
+> | **政策与法规文本** | KMK 国家教育标准文件（KMK, 1995, 2005）、联邦教研部改革行动纲领（BMBF, 2003, 2005）、[[Eckhard Klieme\|克利姆]]专家论证报告（Klieme et al., 2003）。 |
 > | **社会伙伴[[Document\|文献]]** | 劳资双方关于第二轮 PISA 评估后果的联合声明（DGB & BDA, 2005）、教育与科学工会改革行动计划（GEW, 2005）。 |
 > | **官方统计与测评数据** | 联邦统计局中小学办学全口径建制数据（Statistisches Bundesamt, 2006）、PISA 2000 与 2003 德国联合测试及[[PISA-Ländervergleich\|各州比较研究]]（PISA-Ländervergleich）数据集（Deutsches PISA-Konsortium, 2001, 2002, 2003a, 2003b）。 |
 
@@ -185,7 +187,7 @@ issuing_organization: ""
 > [!sub-claim] 3. 联邦采纳克利姆方案确立国家标准，设立柏林质量研究所实施全德监测
 
 > [!proc] 国家教育标准与质量监测中枢的确立进程
-> 1. **研制国家标准技术蓝图** 联邦教育与研究部（BMBF）委托埃克哈德·克利姆（Eckhard Klieme）领衔的专家组研制国家标准方案。《克利姆报告》（Klieme Report）将国家教育标准（NES）定义为制定学校教学与学习的法定约束性要求，规定学生在特定年级终结时必须达到的胜任力（Klieme et al., 2003, p. 9）。
+> 1. **研制国家标准技术蓝图** 联邦教育与研究部（BMBF）委托埃克哈德·克利姆（[[Eckhard Klieme]]）领衔的专家组研制国家标准方案。《克利姆报告》（Klieme Report）将国家教育标准（NES）定义为制定学校教学与学习的法定约束性要求，规定学生在特定年级终结时必须达到的胜任力（Klieme et al., 2003, p. 9）。
 > 2. **通过全德统一执行决议** KMK 依据该方案打破旷日持久的协商周期，于 2003 年 7 月即颁布初中毕业（[[Realschule|实科中学]]阶段）德语、数学和第一外语的标准蓝图，并在 12 月正式通过全德在 2004/05 学年统一执行[[KMK-Bildungsstandards|KMK 国家教育标准]]的决议。
 > 3. **设立跨州质量监测中枢** 2004 年在柏林洪堡大学创立的柏林[[Institute for Educational Quality Improvement|教育质量发展研究所]]（IQB），成为二战后德国首个跨越州级界限行使全国教育质量评估与测试职能的常设机构，确立了全德统一的[[Output-Oriented Governance|产出导向治理]]技术中枢（KMK, 2005; IQB, 2006）。
 
@@ -281,7 +283,7 @@ issuing_organization: ""
 > [!feature] 德国对跨国教育政策的选择性借用特征
 > - **打破长期孤立与闭门内省** 自 1960 年代以来，德国除 TIMSS 外极少参与国际测评，政界对跨国数据长期持冷漠态度（Tillmann, 2004）。PISA 彻底唤醒了德国对跨国比较的兴趣，标志着德国教育政策告别孤立，重新融入全球政策借用网络。
 > - **技术标准深层跨国考察** 联邦教研部（BMBF）迅速资助并发布涵盖加拿大、英格兰、芬兰、法国、荷兰与瑞典六国的深度比较研究，重点考查各国教育标准的制定与评估机制（BMBF, 2003; Klieme, 2003; van Ackeren, 2003）。
-> - **全面铺开横向测评网络** 德国全面参与[[PIRLS|国际阅读素养进展研究]]（Progress in International Reading Literacy Study, PIRLS；德语区称国际基础教育阅读能力研究，Internationale Grundschul-Lese-Untersuchung, IGLU，并扩展至数学与科学测评 IGLU-E；Bos et al., 2003），并在十六个联邦州之间系统展开州际学业成绩横向比照（Baumert et al., 2002; Deutsches PISA-Konsortium, 2003b）。
+> - **全面铺开横向测评网络** 德国全面参与[[PIRLS|国际阅读素养进展研究]]（Progress in International Reading Literacy Study, PIRLS；德语区称国际基础教育阅读能力研究，Internationale Grundschul-Lese-Untersuchung, IGLU，并扩展至数学与科学测评 IGLU-E；Bos et al., 2003），并在十六个联邦州之间系统展开州际学业成绩横向比照（[[Jürgen Baumert|尤尔根·鲍默特]]（[[Jürgen Baumert]]）领衔；Baumert et al., 2002; Deutsches PISA-Konsortium, 2003b）。
 > - **核心制度经验的政治过滤** 尽管芬兰、瑞典等领跑国均推行全纳性综合学制，但德国在借用政策时仅吸纳标准化测评技术，刻意回避对三轨分流学制结构的借鉴与反思。
 
 > [!sub-claim] 2. 三轨分流名义上按成绩选拔，实际上成为按家庭阶层和移民背景的制度性筛选

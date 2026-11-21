@@ -12,7 +12,7 @@ subtype: policy
 region: germany
 fact_region: "germany"
 fact_kind: "policy"
-fact_related_count: 35
+fact_related_count: 37
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -46,7 +46,8 @@ related_theories: []
 related_methods:
   - "[[Item Response Theory]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Eckhard Klieme]]"
 related_facts:
   - "[[Federal Ministry of Education and Research]]"
   - "[[Leibniz Institute for Educational Research and Educational Information]]"
@@ -76,7 +77,7 @@ updated: 2026-11-21
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2003 年 2 月正式出台；由[[Federal Ministry of Education and Research|德国联邦教育与研究部]]（[[Federal Ministry of Education and Research|BMBF]]）委托，[[Leibniz Institute for Educational Research and Educational Information|德国国际教育研究所]]（DIPF）埃克哈德·克利姆（Eckhard Klieme）教授领衔的跨学科专家委员会起草，德国各州文化和教育部长常设会议（[[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]]）全票采纳并指导执行。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 274–276)]]
+> - **发布时间 / 发布主体** 2003 年 2 月正式出台；由[[Federal Ministry of Education and Research|德国联邦教育与研究部]]（[[Federal Ministry of Education and Research|BMBF]]）委托，[[Leibniz Institute for Educational Research and Educational Information|德国国际教育研究所]]（DIPF）[[Eckhard Klieme|埃克哈德·克利姆]]（Eckhard Klieme）教授领衔的跨学科专家委员会起草，德国各州文化和教育部长常设会议（[[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]]）全票采纳并指导执行。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 274–276)]]
 > - **适用地区 / 对象** 德国全境 16 个联邦州的基础教育体系（重点覆盖小学四年级与初中九/十年级毕业阶段）、各州文教部及教育质量评估机构。
 > - **问题背景** 2000 年首届 [[PISA]] 测评结果公布，德国学生表现跌落至 [[OECD]] 均线以下，且[[Academic Achievement|学业成绩]]与家庭背景的绑定程度居发达国家首位，引爆全国性的 PISA 震荡；在此之前，各联邦州严格依据宪法第 30 条与第 70 条行使文化主权（Kulturhoheit），教学大纲五花八门、及格线互不相认，缺乏统一的质量基准与协调工具。
 > - **制度位置** 德国战后教育治理史上最重要的转折点蓝图，破除了各州文化主权的离心阻力与长期对经验实证测试的禁忌，为 KMK 于 2003 年底正式颁布首批国家教育标准、2004 年建立[[Institute for Educational Quality Improvement|柏林教育质量发展研究所]]（[[Institute for Educational Quality Improvement|IQB]]）以及 2006 年确立《[[Gesamtstrategie zum Bildungsmonitoring|国家教育监测总体战略]]》提供了理论依据与技术框架。[[Argument_Hartong_2018_GSE|(Hartong, 2018, pp. 136–140)]]

@@ -7,10 +7,10 @@ aliases:
 summary: "当代政治学与社会学核心制度分析范式；主张制度是承载权力分配后果的持久组织安排，强调历史时间性、路径依赖与关键节点；早期侧重外生危机冲击下的间断均衡，后经施特雷克、马奥尼与希伦发展，将制度重构为包含第三方强制力与执行缝隙的社会规制，全面转向常态历史时期的内生渐进演变分析。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 46
-theory_related_level: 4
-theory_related_stars: "💎⭐"
-theory_related_color: "#fce7f3"
+theory_related_count: 56
+theory_related_level: 5
+theory_related_stars: "💎⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - theory/institutionalism
   - theory/historical-institutionalism

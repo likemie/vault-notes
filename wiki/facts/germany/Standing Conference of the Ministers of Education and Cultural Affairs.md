@@ -12,7 +12,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 44
+fact_related_count: 45
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"
@@ -29,8 +29,8 @@ tags:
 related_concepts:
   - "[[Immigrant Status]]"
   - "[[Center of Calculation]]"
-  - "[[Total War]]"
   - "[[School Inspection]]"
+  - "[[Total War]]"
   - "[[Data Infrastructure]]"
   - "[[Topological Spatialisation]]"
   - "[[21st Century Skills and Competencies Discourse]]"
@@ -100,7 +100,7 @@ updated: 2026-11-21
 > - **1990–2000 — 两德统一整合与传统规范期** 协助前东德各州顺利并轨重建分流学校体制，维持以课程大纲输入与行政规章管理为主导的传统科层规制。
 > - **2001–2002 — [[PISA]] 震荡应急响应与七大行动领域** PISA 2000 结果发布后 6 个月内，KMK 迅速制定全国协调应对方案，确立涵盖学前语言促进、学前小学有机衔接、基础读写与数理能力提升、[[Immigrant Status|移民背景]]群体针对性支持、国家教育标准集中验证、教师专业化培训及拓展全日制学校供给（Ganztagsangebote）等七大优先行动领域（Handlungsfelder）（KMK, 2002；[[Argument_Ertl_2006_ORE|Ertl, 2006, pp. 620–621]]）；同时做出关键制度决议，在后续 PISA 周期中将德国样本扩增至 40,000 余人，实现对 16 个联邦州的横向跨州比较。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, pp. 488, 491)]]在此框架下，KMK 于 2002 年通过紧急决议，拟定衡量初中与高中毕业能力水平的国家教育标准，并确立在小学与中学末期全面推行大规模标准化统测的制度轨道。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 29)]]
 > - **2003–2004 — 国家教育标准出台与全德统一实施** 2003 年 7 月出台德语、数学和第一外语国家教育标准；同年 12 月 KMK 全票通过该标准，一致同意在 2004–2005 学年全德统一执行，并逐步扩展至[[Realschule|实科中学]]与文理中学（KMK, 2004, 2005；[[Argument_Ertl_2006_ORE|Ertl, 2006, pp. 624–625]]）；并扩建全日制学校打破传统半日制家庭特权。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, p. 64)]]
-> - **2004–2006 — [[Institute for Educational Quality Improvement|IQB]] 创立与《[[Gesamtstrategie zum Bildungsmonitoring|国家教育监测总体战略]]》确立** 2004 年 KMK 联合创立柏林洪堡大学教育质量发展研究所（IQB）作为国家[[Center of Calculation|计算中心]]；2006 年正式审议通过《国家教育监测[[Total War|总体战]]略》（[[Gesamtstrategie zum Bildungsmonitoring]]），制度化确立四大实证支柱与外部[[School Inspection|学校督导]]机制。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, pp. 484–485)]]; [[Argument_Hartong_2018_GSE|(Hartong, 2018, pp. 140–144)]]
+> - **2004–2006 — [[Institute for Educational Quality Improvement|IQB]] 创立与《[[Gesamtstrategie zum Bildungsmonitoring|国家教育监测总体战略]]》确立** 2004 年 KMK 联合创立柏林洪堡大学教育质量发展研究所（IQB）作为国家[[Center of Calculation|计算中心]]；2006 年正式审议通过《国家教育监测总体战略》（[[Gesamtstrategie zum Bildungsmonitoring]]），制度化确立四大实证支柱与外部[[School Inspection|学校督导]]机制。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, pp. 484–485)]]; [[Argument_Hartong_2018_GSE|(Hartong, 2018, pp. 140–144)]]
 > - **2012–至今 — 战略修订、跨州数据治理与数字化统筹内耗** KMK 分别于 2012 年和 2015 年更新[[Total War|总体战]]略，深化 IQB 国家题库建设、接管教育研究数据中心（Research Data Centre, FDZ / 德语：Forschungsdatenzentrum）与国际比较研究中心（[[Zentrum für internationale Bildungsvergleichsstudien|ZIB]]），并在禁止学校排名的底线共识下，依托跨尺度[[Data Infrastructure|数据基础设施]]推动德国教育治理实现[[Topological Spatialisation|拓扑空间化]]重组。[[Argument_Hartong_2018_GSE|(Hartong, 2018, pp. 139, 144–146)]]; [[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, p. 7)]] 与此同时，面对联邦 50 亿欧元学校数字化公约（[[DigitalPakt Schule]]），KMK 各州坚守文化主权抵制中央捆绑条件，促成 2019 年基本法第 104c 条修宪妥协；同年南部两强州退出抵制致使国家教育委员会（[[Nationaler Bildungsrat]]）倡议搁浅，KMK 随后于 2021 年仅依靠各州行政协定勉强设立纯咨询性质的常设科学委员会（Standing Scientific Commission, SWK）。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, pp. 627–628)]]
 
 ---

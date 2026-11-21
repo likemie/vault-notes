@@ -10,10 +10,10 @@ aliases:
 summary: "德国教育学界在PISA震荡后经历“急剧经验转向”而崛起为主流的核心研究范式；以经验社会科学、心理测量与因果推断为方法根基，探究“学校实际是怎样的”而非规范性“学校应当是怎样的”，打破了人文学派普通教学论（Allgemeine Didaktik）对教育独特性与不可测教化传统的垄断，将素养、能力与课堂互动转化为量化实证指标。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - concept/instruction-pedagogy
   - theme/educational-research
@@ -56,6 +56,7 @@ related_methods:
   - "[[Effect Size]]"
 related_instruments: []
 related_persons:
+  - "[[Eckhard Klieme]]"
   - "[[Wolfgang Klafki]]"
 related_facts:
   - "[[PISA]]"
@@ -148,7 +149,7 @@ updated: 2026-11-21
 
 > [!dev-timeline] 概念演变
 > - **1960s–1990s — 长期处于“阴影生存”（Schattendasein）** 战后西德教育学由人文学派教学论与[[Critical Theory|批判理论]]占据绝对主流，实证教学研究因被指责为[[Technical Rationality|技术理性]]与实证主义狭隘化而在大学系科中长期边缘化。[[Argument_Ertl_2006_ORE|(Ertl, 2006, p. 627)]]
-> - **2000–2003 — PISA 震荡引爆“急剧经验转向”** 国际测评惨败促使政界与社会对形而上学思辨彻底失去耐心，教育心理学与实证教学研究团队迅速填补制度真空，主导《克利梅报告》与国家教育标准研制。[[Argument_Ertl_2006_ORE|(Ertl, 2006, pp. 621, 627)]]
+> - **2000–2003 — PISA 震荡引爆“急剧经验转向”** 国际测评惨败促使政界与社会对形而上学思辨彻底失去耐心，教育心理学与实证教学研究团队迅速填补制度真空，主导《[[Eckhard Klieme|克利梅]]报告》与国家教育标准研制。[[Argument_Ertl_2006_ORE|(Ertl, 2006, pp. 621, 627)]]
 > - **2004 至今 — 确立[[Evidence-Based Education|循证教育]]治理的[[Scientific Hegemony|学术霸权]]** 柏林教育质量发展所（[[Institute for Educational Quality Improvement|IQB]]）设立，[[Gesamtstrategie zum Bildungsmonitoring|国家教育监测总体战略]]成型，实证教学研究成为联邦与各州科研资助重点，稳固占据德国教育科学核心主导地位。
 
 ---

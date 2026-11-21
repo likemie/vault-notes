@@ -9,10 +9,10 @@ aliases:
 summary: "德国后PISA教育改革中因强行推行产出导向国家标准而引发的认识论与实践冲突，由斯隆与迪尔格（Sloane & Dilger, 2005）系统提出；既体现为语言学、职教行动能力与英美行为主义技能等不同能力界定的内生语义混淆，更表现为外在可测量胜任力霸权对真实教学互动过程的挤压遮蔽，及其与德国传统以内容教育价值推敲为核心的实质教学论之间的制度性抵触。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 14
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 25
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/policy-reform
   - theme/competence

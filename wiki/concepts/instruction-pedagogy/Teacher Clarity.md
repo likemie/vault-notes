@@ -10,7 +10,7 @@ aliases:
 summary: "教师在组织教学内容、阐明目标准则、解释概念逻辑与传达行动指令时所呈现的条理透彻与易于理解的专业沟通品质；在二阶元分析中以d=0.75位居教师实践效应量第二位，能通过降低无关认知负荷显著赋通学生的表层吸收与深层思维建构。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-11-11
+updated: 2026-11-21
 ---
 
 ---

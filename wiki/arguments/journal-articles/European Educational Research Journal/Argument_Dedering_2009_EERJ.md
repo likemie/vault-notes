@@ -65,14 +65,14 @@ sources:
 part_of:
 status: draft
 created: 2026-09-18
-updated: 2026-10-29
+updated: 2026-11-21
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Dedering_2009_EERJ"
 argument_key: "Argument_Dedering_2009_EERJ"
 argument_display_title: "Evidence-Based Education Policy: Lip service or common practice? Empirical findings from Germany"
 argument_kind: "journal-article"
-argument_related_count: 31
+argument_related_count: 34
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"

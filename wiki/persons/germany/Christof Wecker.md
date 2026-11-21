@@ -10,10 +10,10 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 29
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 30
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "c. 1978"
 died: ""
 lifespan: "c. 1978–至今"
@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-10-16
-updated: 2026-11-15
+updated: 2026-11-21
 ---
 
 ---

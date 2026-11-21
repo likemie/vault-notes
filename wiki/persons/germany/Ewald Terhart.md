@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: "germany"
 person_region: "germany"
-person_related_count: 20
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-11-15
+updated: 2026-11-21
 ---
 
 ---

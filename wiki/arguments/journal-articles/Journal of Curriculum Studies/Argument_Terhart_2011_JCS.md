@@ -64,6 +64,7 @@ related_persons:
   - "[[John Hattie]]"
   - "[[Karl Popper]]"
   - "[[Carl Bereiter]]"
+  - "[[Jürgen Baumert]]"
 related_facts:
   - "[[COACTIV]]"
   - "[[Dimensions]]"
@@ -74,14 +75,14 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: 2026-11-11
+updated: 2026-11-21
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Terhart_2011_JCS"
 argument_key: "Argument_Terhart_2011_JCS"
 argument_display_title: "Has John Hattie really found the holy grail of research on teaching? An extended review of Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 43
+argument_related_count: 45
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -241,7 +242,7 @@ journal: "Journal of Curriculum Studies"
 
 > [!tension] 巨型综合认识论的双重困境
 > - **稳定性假说（Stability [[Hypothesis]]）** 对于报告的绝大多数有效教学因素（如清晰讲授、反馈、目标导向），其有效性早已是近十年来教育教科书与综合述评的标准常识；即便未来在 2020 年新增 300 项元分析，也仅能对已知规律实现渐近逼近，无法带来任何实质的知识增量。
-> - **变异性假说（Variability Hypothesis）** 在特定关键领域，基于陈旧文献所得出的否定性结论已被最新实证全面颠覆。例如声称教师教育与学科专业知识影响微弱，但鲍默特等人（Baumert et al., 2010）在德国[[COACTIV|教师专业能力与认知激活教学项目]]（COACTIV）中已严谨证实，数学教师的 CK 与 PCK 对学生学业成长具有决定性促进作用。
+> - **变异性假说（Variability Hypothesis）** 在特定关键领域，基于陈旧文献所得出的否定性结论已被最新实证全面颠覆。例如声称教师教育与学科专业知识影响微弱，但[[Jürgen Baumert|鲍默特]]等人（Baumert et al., 2010）在德国[[COACTIV|教师专业能力与认知激活教学项目]]（COACTIV）中已严谨证实，数学教师的 CK 与 PCK 对学生学业成长具有决定性促进作用。
 
 二阶综合不可避免地同时面临常识渐近逼近与旧结论滞后颠覆的两难，其终结教学争议的雄心彻底落空。
 

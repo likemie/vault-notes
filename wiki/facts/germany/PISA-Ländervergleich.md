@@ -14,9 +14,9 @@ subtype: program
 region: germany
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 38
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
 period: "2002–2005"
 initiator_organization: "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
@@ -52,7 +52,8 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Comparative Policy Analysis]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Jürgen Baumert]]"
 related_facts:
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[Max Planck Institute for Human Development]]"
@@ -80,7 +81,7 @@ updated: 2026-11-21
 ---
 
 > [!claim] 项目定位
-> 2002 年至 2005 年由德国[[Standing Conference of the Ministers of Education and Cultural Affairs|常设各州教育与文化部长会议]]（[[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]]）正式委托、柏林[[Max Planck Institute for Human Development|马克斯·普朗克人类发展研究所]]尤尔根·鲍默特（Jürgen Baumert）领衔的德国 [[PISA]] 研究联合体（Deutsches PISA-Konsortium）组织实施的全国代表性跨州学业扩展测评工程；通过将 [[OECD]] 国际测评样本扩展为覆盖全德 16 联邦州逾 50,000 名青少年的代表性[[Stratified Sampling|分层抽样]]，系统测绘出联邦内部巨大的[[Academic Achievement|学业成就]]落差与社会阶层惩罚[[Heterogeneity|异质性]]，打破了各州文化主权各自为政的宪制僵局，构成了战后德国跨州基准对标与教育[[Output-Oriented Governance|循证治理]]的开创性实证工程。[[Argument_Ertl_2006_ORE|(Ertl, 2006, pp. 620, 630)]]
+> 2002 年至 2005 年由德国[[Standing Conference of the Ministers of Education and Cultural Affairs|常设各州教育与文化部长会议]]（[[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]]）正式委托、柏林[[Max Planck Institute for Human Development|马克斯·普朗克人类发展研究所]][[Jürgen Baumert|尤尔根·鲍默特]]（Jürgen Baumert）领衔的德国 [[PISA]] 研究联合体（Deutsches PISA-Konsortium）组织实施的全国代表性跨州学业扩展测评工程；通过将 [[OECD]] 国际测评样本扩展为覆盖全德 16 联邦州逾 50,000 名青少年的代表性[[Stratified Sampling|分层抽样]]，系统测绘出联邦内部巨大的[[Academic Achievement|学业成就]]落差与社会阶层惩罚[[Heterogeneity|异质性]]，打破了各州文化主权各自为政的宪制僵局，构成了战后德国跨州基准对标与教育[[Output-Oriented Governance|循证治理]]的开创性实证工程。[[Argument_Ertl_2006_ORE|(Ertl, 2006, pp. 620, 630)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 依托首轮 PISA 2000 与次轮 PISA 2003 国际测评周期同步立项扩展样本，分别于 2002 年 10 月与 2005 年 6 月正式发布全国各州比较报告（PISA-E 2000 与 PISA-E 2003）。[[Argument_Ertl_2006_ORE|(Ertl, 2006, p. 630)]]
@@ -128,7 +129,7 @@ updated: 2026-11-21
 > [!finding-cards] 核心实证结论
 > - **极度惊人的各州学业鸿沟** 首期测评表明，德国各州之间存在相当于近两个完整学年的巨大知识差距：南部巴伐利亚州与巴登-符腾堡州在全部科目上显著居于榜首，甚至接近 OECD 国际领跑国水准；而北部城邦州（如不来梅、柏林）及部分中北部州成绩严重垫底，彻底击碎了德国基础教育水平全国均质的神话。[[Argument_Ertl_2006_ORE|(Ertl, 2006, pp. 620, 630)]]
 > - **阶层与移民惩罚的区域异质性** 测评揭示，即使在学业均分较高的南部州，家庭阶层背景对早期分流的扭曲效应同样触目惊心；而在移民人口密集的大都市城邦州，移民二代在三轨制中过早跌入主要中学的制度性筛选尤为严峻。
-> - **催生国家标准与 IQB 设立的决定性杠杆** 各州比较引发的政治[[Sense of Shame|羞耻感]]与相互问责压力，迫使各州文教部长放弃以文化主权为由的拖延策略，直接促成了 2003 年 [[KMK-Bildungsstandards|KMK 国家教育标准]]的火速出台与 2004 年柏林 IQB 跨州测试中心的建立。[[Argument_Ertl_2006_ORE|(Ertl, 2006, pp. 621–623)]]
+> - **促成国家标准与 IQB 设立的关键驱动力** 各州比较引发的政治[[Sense of Shame|羞耻感]]与相互问责压力，迫使各州文教部长放弃以文化主权为由的拖延策略，直接促成了 2003 年 [[KMK-Bildungsstandards|KMK 国家教育标准]]的火速出台与 2004 年柏林 IQB 跨州测试中心的建立。[[Argument_Ertl_2006_ORE|(Ertl, 2006, pp. 621–623)]]
 
 > [!stat-cards]- 关键实证数据
 > - **16** （联邦州） 德意志联邦共和国全部 16 个联邦州全员参测并实施代表性大样本抽样。[[Argument_Ertl_2006_ORE|(Ertl, 2006, p. 630)]]

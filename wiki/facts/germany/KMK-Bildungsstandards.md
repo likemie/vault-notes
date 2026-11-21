@@ -15,9 +15,9 @@ subtype: policy
 region: germany
 fact_region: "germany"
 fact_kind: "policy"
-fact_related_count: 38
-fact_related_level: 3
-fact_related_stars: "💎"
+fact_related_count: 43
+fact_related_level: 4
+fact_related_stars: "💎⭐"
 fact_related_color: "#dbeafe"
 period: "2003–至今"
 issuing_organization: "[[Standing Conference of the Ministers of Education and Cultural Affairs|常设各州教育与文化部长会议（KMK）]]"
@@ -63,7 +63,8 @@ related_theories:
 related_methods:
   - "[[Comparative Policy Analysis]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Eckhard Klieme]]"
 related_facts:
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[Hauptschule]]"
@@ -90,7 +91,7 @@ updated: 2026-11-21
 > - **发布时间 / 发布主体** 2003 年 12 月由[[Standing Conference of the Ministers of Education and Cultural Affairs|常设各州教育与文化部长会议]]（[[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]]）正式签署审议通过；随后各州达成法定协议，统一自 2004/05 学年起在全德 16 联邦州全面强制实施。[[Argument_Ertl_2006_ORE|(Ertl, 2006, p. 622)]]
 > - **适用地区 / 对象** 覆盖全德初等教育（四年级）与初级中等教育阶段（九年级[[Hauptschule|主要中学]]毕业证书结业、十年级中等成熟证书/[[Realschule|实科中学]]结业）及高中毕业证书（Abitur）阶段的所有在校学生与全学科任课教师。
 > - **问题背景** 首届 [[PISA]] 2000 测评暴露出德国中等教育质量严重下滑且各州各自为政；传统以人文教化教学论（bildungstheoretische [[Didaktik]]）为根基的详细大纲因过于抽象、缺乏产出监控机制，无法保障各校基本学业水准，各州互不承认学业水平的文化主权壁垒更阻碍了生源全国流动。[[Argument_Ertl_2006_ORE|(Ertl, 2006, pp. 624–625)]]
-> - **制度位置** 构成了战后德国教育治理史上最具约束力的质量规范文件，以联邦教研部委托的《克利梅报告》为理论构架蓝图，并直接驱动了[[Institute for Educational Quality Improvement|教育质量发展研究所]]（IQB）的创立与[[Gesamtstrategie zum Bildungsmonitoring|国家教育监测总体战略]]的成型。[[Argument_Hartong_2018_GSE|(Hartong, 2018, p. 139)]]
+> - **制度位置** 构成了战后德国教育治理史上最具约束力的质量规范文件，以联邦教研部委托的《[[Eckhard Klieme|克利梅]]报告》为理论构架蓝图，并直接驱动了[[Institute for Educational Quality Improvement|教育质量发展研究所]]（IQB）的创立与[[Gesamtstrategie zum Bildungsmonitoring|国家教育监测总体战略]]的成型。[[Argument_Hartong_2018_GSE|(Hartong, 2018, p. 139)]]
 
 ---
 

@@ -45457,7 +45457,6 @@
       ],
       "isbn": "978-3-8100-3663-6",
       "seen_in": [
-        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
         "wiki/facts/germany/PISA-Ländervergleich.md"
       ],
       "title": "Pisa 2000—Die Länder der Bundesrepublik Deutschland im Vergleich"
@@ -45473,7 +45472,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
+        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
+        "wiki/persons/germany/Jürgen Baumert.md"
       ],
       "title": "Pisa 2000—Ein differenzierter Blick auf die Länder der Bundesrepublik Deutschland: Zusammenfassung zentraler Befunde"
     },
@@ -78568,7 +78568,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
         "wiki/facts/germany/PISA-Ländervergleich.md"
       ],
       "title": "PISA 2003: Ergebnisse des zweiten Ländervergleichs. Zusammenfassung"
@@ -134317,7 +134316,8 @@
       "seen_in": [
         "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Hopmann_2007_EERJ.md",
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
-        "wiki/facts/germany/Klieme Report.md"
+        "wiki/facts/germany/Klieme Report.md",
+        "wiki/persons/germany/Eckhard Klieme.md"
       ],
       "title": "Zur Entwicklung nationaler Bildungsstandards: Eine Expertise"
     },
@@ -206573,7 +206573,8 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
         "wiki/concepts/educational-policy-reform/Competence Clash.md",
-        "wiki/facts/germany/KMK-Bildungsstandards.md"
+        "wiki/facts/germany/KMK-Bildungsstandards.md",
+        "wiki/persons/germany/Eckhard Klieme.md"
       ],
       "title": "The competence clash—Dilemmata bei der Übertragung des Konzepts der nationalen Bildungsstandards auf die berufliche Bildung"
     },

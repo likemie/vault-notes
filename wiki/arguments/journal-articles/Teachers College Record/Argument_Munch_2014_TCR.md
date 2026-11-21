@@ -82,7 +82,7 @@ title: "Argument_Munch_2014_TCR"
 argument_key: "Argument_Munch_2014_TCR"
 argument_display_title: "Education under the regime of PISA & Co.: Global standards and local traditions in conflict—The case of Germany"
 argument_kind: "journal-article"
-argument_related_count: 43
+argument_related_count: 44
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"

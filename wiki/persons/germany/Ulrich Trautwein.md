@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -33,7 +33,8 @@ related_methods:
   - "[[Cohort Study]]"
 related_instruments:
   - "[[Global Certainty Scale]]"
-related_persons: []
+related_persons:
+  - "[[Jürgen Baumert]]"
 related_facts:
   - "[[Institute of Education Sciences]]"
   - "[[Max Planck Institute for Human Development]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-10-22
+updated: 2026-11-21
 ---
 
 ---
@@ -63,7 +64,7 @@ updated: 2026-10-22
 
 > [!timeline] 生平与职涯
 > - **1972 年** 出生于德国。
-> - **2000–2008 年** 任职于柏林[[Max Planck Institute for Human Development|马克斯·普朗克人类发展研究所]]（MPIB）教育研究中心，与 Jürgen Baumert、Olaf Köller 等共同设计并主持 [[TOSCA]] 大型纵向追踪项目。
+> - **2000–2008 年** 任职于柏林[[Max Planck Institute for Human Development|马克斯·普朗克人类发展研究所]]（MPIB）教育研究中心，与 [[Jürgen Baumert]]、Olaf Köller 等共同设计并主持 [[TOSCA]] 大型纵向追踪项目。
 > - **2008 年至今** 担任图宾根大学教育科学与心理学全职教授，创办并领导 Hector 教育科学与心理学研究所，成为欧洲实证教育心理学研究重镇。
 
 ---

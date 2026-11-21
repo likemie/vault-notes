@@ -75,16 +75,16 @@ sources:
 part_of: ""
 status: draft
 created: 2026-09-18
-updated: 2026-10-29
+updated: 2026-11-21
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Knogler_2025_BB"
 argument_key: "Argument_Knogler_2025_BB"
 argument_display_title: "Clearing House Unterricht: Ein innovativer Ansatz zur Stärkung des Wissenschaft-Praxis-Transfers in der Lehrkräftebildung"
 argument_kind: "journal-article"
-argument_related_count: 39
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 40
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: "berufsbildung: Zeitschrift für Theorie-Praxis-Dialog"
 ---

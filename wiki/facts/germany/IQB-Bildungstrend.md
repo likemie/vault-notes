@@ -13,9 +13,9 @@ subtype: program
 region: "germany"
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 21
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2008–至今"
 initiator_organization: "Standing Conference of the Ministers of Education and Cultural Affairs"
@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-30
+updated: 2026-11-21
 ---
 
 ---

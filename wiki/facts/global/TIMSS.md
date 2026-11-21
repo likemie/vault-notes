@@ -10,10 +10,10 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 45
-fact_related_level: 4
-fact_related_stars: "💎⭐"
-fact_related_color: "#ede9fe"
+fact_related_count: 51
+fact_related_level: 5
+fact_related_stars: "💎⭐⭐"
+fact_related_color: "#fecdd3"
 period: "1995–至今"
 initiator_organization: "International Association for the Evaluation of Educational Achievement"
 official_website: "https://timssandpirls.bc.edu/"

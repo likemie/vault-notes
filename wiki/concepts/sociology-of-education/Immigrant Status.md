@@ -9,10 +9,10 @@ aliases:
 summary: "学生及其家庭因跨国迁徙而在迁入国教育系统中所具有的人口学与社会学归属特征，通常划分为第一代与第二代移民；在教育实证中是解释学业成就鸿沟、早期学制分选偏差与阶层隔离的核心变量。"
 type: concept
 domain: "sociology-of-education"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - metax
   - sociology-of-education
@@ -44,6 +44,7 @@ related_methods:
   - "[[Effect Size]]"
 related_instruments: []
 related_persons:
+  - "[[Jürgen Baumert]]"
   - "[[Alexander Oettl]]"
 related_facts:
   - "[[PISA]]"
@@ -71,7 +72,7 @@ updated: 2026-11-21
 > - **用途** 帮助研究者透视教育系统如何应对文化多样性，识别学制早期分流中隐蔽的族群与国籍筛选壁垒。
 > - **边界** 移民身份属于结构性人口学特征，不能将其等同于学生的智力潜能或认知上限；同时须区隔一代移民（面临初至语言阻隔）与二代移民（面临学制分轨与隐性歧视）的本质[[Heterogeneity|异质性]]。
 
-> [!citation-card] 鲍默特与舒默论德国移民背景学生的双重体制困境
+> [!citation-card] [[Jürgen Baumert|鲍默特]]与舒默论德国移民背景学生的双重体制困境
 > 即使是在德国出生并完成全部中小学学业的移民二代学童，其学业表现与升学机会仍面临严重的体制性融入障碍；[[Tripartite School System|三轨学制]]的名义能力选拔实质上演变为针对移民家庭背景的社会筛选。[[Argument_Ertl_2006_ORE|(Baumert & Schümer, 2001, 2002; 引自 Ertl, 2006, pp. 620–621)]]
 >
 > *Even for second-generation immigrants who have completed their entire schooling in Germany, performance lags and structural barriers remain acute; the tripartite system's achievement selection is effectively overshadowed by selection based on immigrant backgrounds.*
