@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "03 席勒",
+      "path": "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照/03 席勒.md"
+    },
+    {
       "basename": "02 康德",
       "path": "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照/02 康德.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_McCormick_2012_CER",
       "path": "wiki/arguments/journal-articles/Comparative Education Review/Argument_McCormick_2012_CER.md"
-    },
-    {
-      "basename": "Knowledge Dashboard",
-      "path": "_system/dashboard/Knowledge Dashboard.md"
     }
   ],
   "omittedPaths": [],
