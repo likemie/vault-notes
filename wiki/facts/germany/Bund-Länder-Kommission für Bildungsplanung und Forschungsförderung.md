@@ -12,7 +12,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 14
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -123,7 +123,7 @@ updated: 2026-11-21
 > > 围绕联邦是否有权深度介入基础教育，各州主权派与联邦协调派存在根本宪制分歧。
 > >
 > > - **州自主权捍卫（推动解散派）** 南部等强州坚决主张教育属于各州专有主权，认为 BLK 机制使联邦得以通过专项资金变相引导各州教育政策，构成隐性中央集权；2006 年联邦制改革设立“合作禁止条款”，直接导致 BLK 被撤并。
-> > - **国家统筹诉求（联邦派视角）** 认为全面禁止联邦介入基础教育导致各州在应对教育不公与资源配置失衡时失去国家级协调杠杆，加剧了各州办学条件的横向差距。
+> > - **国家统筹诉求（联邦派视角）** 认为全面禁止联邦介入基础教育导致各州在应对教育不公与资源配置失衡时失去国家级统筹机制，加剧了各州办学条件的横向差距。
 
 ---
 
@@ -145,4 +145,4 @@ updated: 2026-11-21
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 记录 BLK 在后 TIMSS 与后 PISA 时期资助 SINUS 教学增效、“阅读在德国”及移民教育辅导框架等重点工程的政策文献（pp. 621–622）。
-> - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 深度解剖 BLK 及其模型试验计划在德语区教育转移科学发展史中的制度奠基功能与扩散困境（pp. 9–11）。
+> - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 深度解剖 BLK 及其模型试验计划在德语区教育转移科学发展史中的制度探索功能与扩散困境（pp. 9–11）。
