@@ -76,8 +76,8 @@ updated: 2026-11-21
 
 > [!feature] 核心要素
 > - **真实生产环境依托** 学习活动发生于具备真实商业运营与工业生产标准的岗位，使学徒感知即时工作节奏与安全责任。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 512–513)]]
-> - **双元导师协同教学** 职业学校理论教师与企业持证实训师（如德国 Meister）共同承担指导责任，形成理实一体化闭合环路。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 505–506)]]
-> - **流通性资格凭证导向** 实训过程严格对齐国家或区域行业通用标准，考核合格后颁发具备法律效力的跨企业互认证书。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 505–506)]]
+> - **双元导师协同教学** 职业学校理论教师与企业持证实训师（如德国 Meister）共同承担指导责任，形成理论与实践一体化的指导机制。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, p. 506)]]
+> - **流通性资格凭证导向** 实训过程严格对齐国家或区域行业通用标准，考核合格后颁发具备法律效力的跨企业互认证书。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, p. 505)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -103,10 +103,10 @@ updated: 2026-11-21
 ---
 
 > [!concept-proposition] 命题二｜工作本位学习跨国扩散受制于母国制度土壤并呈现混合化重构
-> **制度情境性与要素解构** 跨国政策比较研究表明，工作本位学习的推行高度依赖受体国家的劳资关系协调水平与企业出资意愿；缺乏强有力雇主协会与学徒薪资集体谈判机制的国家，无法直接复制完整的企业全额出资双元制，而是将工作本位学习解构为短期企业轮训或政府补贴学徒等零散模块，与本土学校体制深度融合形成混合形态。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 512–514, 517–518)]]
+> **制度情境性与要素解构** 跨国政策比较研究表明，工作本位学习的推行高度依赖受体国家的劳资关系协调水平与企业出资意愿；缺乏强有力雇主协会与学徒薪资集体谈判机制的国家，通常将工作本位学习解构为短期企业轮训或政府补贴学徒等具体模块，与本土学校体制深度融合形成混合形态。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 512–514, 517–518)]]
 
 > [!claim] Rohde-Liebenau, J. & Graf, L.
-> **多样化吸收与制度混合** 成员国对欧洲联盟所倡导的工作本位学习模式进行了选择性吸收，将实务教学要素嵌入本国原有的学校中心制或国家统合制结构中，形成了高度差异化的本土混合模式。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 516–518)]]
+> **多样化吸收与制度混合** 成员国对欧洲联盟所倡导的工作本位学习模式进行了选择性吸收，将实务教学要素嵌入本国原有的学校中心制或国家主导型学校体制中，形成了高度差异化的本土混合模式。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 516–518)]]
 
 ---
 
