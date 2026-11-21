@@ -22,6 +22,10 @@ const timestamp = value => Number.isFinite(value) && value > 0 && value < 8.64e1
 const isoTimestamp = value => typeof value === "string" && /T.*(?:Z|[+-]\d{2}:\d{2})$/i.test(value) ? timestamp(Date.parse(value)) : null;
 const isAntigravityId = id => typeof id === "string" && /^[a-f0-9]{24}$/.test(id);
 const savedSize = value => Number.isFinite(value) && value > 0 ? value : null;
+const antigravityProfileName = value => {
+  const name = text(value, 60).replace(/\s+/g, " ");
+  return name.includes("@") ? "" : name;
+};
 const dateLabel = new Intl.DateTimeFormat("zh-CN", { month: "numeric", day: "numeric" });
 const timeLabel = new Intl.DateTimeFormat("zh-CN", { hour: "2-digit", minute: "2-digit", hourCycle: "h23" });
 
@@ -56,11 +60,12 @@ function settings(raw) {
 }
 
 function accountName(provider, account, preferences) {
-  return provider === "antigravity" ? (preferences.antigravityNames[account.id] ?? account.label) : account.label;
+  if (provider !== "antigravity") return account.label;
+  return preferences.antigravityNames[account.id] ?? (account.profileName || account.label);
 }
 
-function retainAntigravitySnapshots(current, previous, names) {
-  const saved = new Map(previous.filter(row => names[row.id] && row.windows.length).map(row => [row.id, row]));
+function retainAntigravitySnapshots(current, previous) {
+  const saved = new Map(previous.filter(row => isAntigravityId(row.id) && row.windows.length).map(row => [row.id, row]));
   if (!saved.size) return current;
   const stale = row => ({
     ...row,
@@ -69,7 +74,10 @@ function retainAntigravitySnapshots(current, previous, names) {
   const rows = current.map(row => {
     const old = saved.get(row.id);
     saved.delete(row.id);
-    return old && old.fetchedAt > (row.fetchedAt ?? 0) ? stale(old) : row;
+    if (!old) return row;
+    const latest = old.fetchedAt > (row.fetchedAt ?? 0) ? stale(old) : row;
+    const profileName = row.profileName || old.profileName;
+    return profileName && !latest.profileName ? { ...latest, profileName } : latest;
   });
   const remembered = [...rows, ...[...saved.values()].map(stale)];
   return remembered.some(row => isAntigravityId(row.id))
@@ -94,9 +102,10 @@ function cacheFrom(raw) {
           || !Array.isArray(row.windows) || !timestamp(row.fetchedAt)) return [];
       const windows = row.windows.flatMap(normalizeWindow);
       if (!windows.length) return [];
+      const profileName = id === "antigravity" ? antigravityProfileName(row.profileName) : "";
       return [{
         id: row.id, label: text(row.label), source: row.source, plan: text(row.plan),
-        fetchedAt: row.fetchedAt, windows,
+        fetchedAt: row.fetchedAt, windows, ...(profileName ? { profileName } : {}),
       }];
     })];
   }));
@@ -123,5 +132,5 @@ function quotaText(value) {
 module.exports = {
   MINUTE, HOUR, PROVIDERS, KEYS, INTERVALS, STATUSES, isObject, text, percent, timestamp, isoTimestamp,
   resetLabel, freshness, settings, cacheFrom, normalizeWindow, accountStatus, usableWindows, quotaText,
-  isAntigravityId, accountName, retainAntigravitySnapshots,
+  isAntigravityId, antigravityProfileName, accountName, retainAntigravitySnapshots,
 };

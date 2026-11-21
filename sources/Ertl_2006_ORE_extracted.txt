@@ -1,0 +1,757 @@
+=== PAGE 1 ===
+Full Terms & Conditions of access and use can be found at
+http://www.tandfonline.com/action/journalInformation?journalCode=core20
+Oxford Review of Education
+ISSN: 0305-4985 (Print) 1465-3915 (Online) Journal homepage: http://www.tandfonline.com/loi/core20
+Educational standards and the changing discourse
+on education: the reception and consequences of
+the PISA study in Germany
+Hubert Ertl
+To cite this article: Hubert Ertl (2006) Educational standards and the changing discourse on
+education: the reception and consequences of the PISA study in Germany, Oxford Review of
+Education, 32:5, 619-634, DOI: 10.1080/03054980600976320
+To link to this article:  https://doi.org/10.1080/03054980600976320
+Published online: 06 Nov 2006.
+Submit your article to this journal 
+Article views: 1302
+View related articles 
+Citing articles: 100 View citing articles 
+
+=== PAGE 2 ===
+Oxford Review of Education
+Vol. 32, No. 5, November 2006, pp. 619–634
+ISSN 0305-4985 (print)/ISSN 1465-3915 (online)/06/050619–16
+© Taylor & Francis
+DOI: 10.1080/03054980600976320
+Educational standards and the changing 
+discourse on education: the reception 
+and consequences of the PISA study 
+in Germany
+Hubert Ertl*
+University of Oxford, UK
+Taylor and Francis LtdCORE_A_197533.sgm10.1080/03054980600976320Oxford Review of Education0305-4985 (print)/1465-3915 (online)Original Article2006Taylor & Francis325000000November 2006HubertErtlHubert.ertl@edstud.ox.ac.uk
+This paper examines the ways in which the results of the OECD Programme of International
+Student Assessment (PISA) have influenced educational discourse in Germany. It argues that the
+results caused shockwaves in the educational landscape and led to a re-evaluation of other interna-
+tional comparisons which had presented an unfavourable picture of education in Germany. The
+paper outlines three main areas affected by the reception of the PISA study in Germany: political
+discourse, curriculum development processes and academic discourse on education. Changes in the
+political discourse resulted in a wide-ranging reform agenda, with the introduction of national
+educational standards being the most significant of a number of initiatives and programmes. In
+terms of curriculum development processes, the paper argues that PISA has led to the growing
+importance of principles such as outcome control, competence orientation and external assessment.
+The post-PISA academic discourse in Germany can be characterised by the re-orientation of educa-
+tional studies towards a greater emphasis on the empirical research of pedagogic practice (empirische
+Unterrichtsforschung). All three areas of change are informed by more or less systematic comparisons
+with educational structures in other countries and, therefore, it is argued that PISA has contributed
+to a rediscovery of comparative education in the German discourse.
+Introduction: the PISA-shock
+The results of the first round of the Organisation for Economic Co-operation and
+Development’s (OECD) PISA (Programme of International Student Assessment)
+study in 2000 put Germany’s self-perception regarding education into perspective;
+some would argue even regarding its societal and cultural values and achievements.
+The PISA results have fundamentally undermined the implicit self-assessment of the
+*University of Oxford, Department of Educational Studies, 15 Norham Gardens, Oxford OX2
+6PY, UK. Email: Hubert.ertl@edstud.ox.ac.uk
+=== PAGE 3 ===
+620 H. Ertl
+country’s education system, an assessment that had been characterised by self-confi-
+dence, belief in its efficiency and the system’s important role in Germany’s economic
+achievements (cf. Sloane & Dilger, 2005).
+The study placed Germany below the OECD average in all three areas of compe-
+tence measured: reading, mathematics and scientific literacy. In the follow-up study
+in 2003, Germany’s ranking improved and was in all three areas close to OECD aver-
+ages.
+1 Apart from the low level of achievement in international comparison, PISA
+brought two main areas of concern to the fore: Germany is among those countries in
+which educational success is most closely related to pupils’ socio-economic and
+migration background.
+2 For instance, if one measures the difference between the
+reading competence of pupils from families belonging to the upper quarter of the
+social spectrum and pupils from families belonging to the lower quarter of social spec-
+trum, Germany showed the biggest difference of all countries taking part in PISA
+2000 (Deutsches PISA-Konsortium, 2001, p. 384). In PISA 2003 this difference only
+fell marginally overall, while the difference in mathematic and scientific competence
+actually increased. It can therefore be concluded that the better overall results in 2003
+were due to an improvement of the scores of pupils from well-off families, while the
+scores from pupils from disadvantaged socio-economic backgrounds improved only
+marginally (Deutsches PISA-Konsortium, 2003a, pp. 31f.).
+In terms of the tripartite structure of German secondary schooling, the pupils at the
+Gymnasium scored substantially higher than the pupils at the Haupt- and Realschule.
+3
+The overall improvement of the German scores in PISA 2003 was mainly due to
+improvements by Gymnasium pupils. Therefore, the difference between high- and
+low-scoring pupils increased (Kraus, 2004; Klein, 2005a). As the participation in the
+school types of the tripartite system shows a clear social selectivity (children from
+well-off families are much more likely to go to the Gymnasium),
+4 selectivity in terms
+of pupils’ achievement (Geißler, 2004), which is the primary rationale of the tripartite
+system, is being overshadowed by selectivity in terms of pupils’ socio-economic back-
+grounds (Baumert et al., 2003, pp. 59–63).
+Moreover, PISA highlighted the fact that the educational achievement of pupils
+with a migration background is substantially lower than the achievement of their
+counterparts. This is even true for pupils who have completed all their schooling in
+Germany. Similarly to pupils from lower socio-economic backgrounds, pupils with
+migration backgrounds are over-represented in Hauptschulen. The selectivity of the
+tripartite system therefore extends also to selectivity in terms of the migration versus
+non-migration background of pupils (Baumert & Schümer, 2001, 2002). PISA shows
+that the German education system fares badly in terms of the integration of pupils
+with a migration background.
+Because of these alarming findings, PISA resulted in a ‘shock’, officially admitted
+by high-ranking politicians (cf. BMBF, 2005). Also, PISA has led to a re-evaluation
+of other international comparisons which presented an unfavourable picture of
+education in Germany. Whereas in the past the findings of comparative studies
+attracted little public attention, they are followed much more closely in post-PISA
+times. For instance, the weaknesses outlined in OECD’s 2004 Education at a Glance
+=== PAGE 4 ===
+The PISA study in Germany 621
+were discussed much more widely than previous OECD publications that had
+reported similar problems. The shortcomings of German education frequently
+pointed out by the OECD include the large class sizes, the low number of school
+instruction hours, the low participation in higher education and the low public and
+private expenditure on education (Beckmann, 2004).
+Against this background, this paper argues that PISA can be regarded as a water-
+shed in the discourse on education in Germany. Observers have compared the conse-
+quences of PISA on education in Germany with the Sputnik shock (Ostermann,
+2005) or even with the French Revolution (Herrmann, 2004) and have argued that
+PISA has had a more far-reaching impact on German education than A Nation at Risk
+had on education in the USA (Gruber, 2006). It is argued that the political and
+academic discourse on education in Germany has changed mainly because a broad
+societal consensus has emerged that reforms are inevitable. However, the emerging
+reform agenda focuses on certain aspects of the educational structures (introduction
+of national educational standards and quality assurance measures), while other
+aspects are neglected. The most important of these aspects is the structure of second-
+ary schooling. While politicians have moved surprisingly quickly in changing the
+framework for teaching, assessment and curriculum development, there has been
+little or no discussion on the controversial issue of the early selection of pupils. Also,
+the paper shows that the importance of international comparisons for the educational
+discourse in Germany has increased in the aftermath of PISA.
+Consequences for the political discourse on education and the evolving 
+reform agenda
+The PISA results and their reception in the German context led to appeals for a
+reform of secondary education from almost all relevant social groups, including polit-
+ical parties, employers, trade unions (including teachers’ associations), parents’ asso-
+ciations and academics. The Federal Ministry of Education and Research (BMBF)
+reacted by taking a number of measures (see BMBF, 2005), none of which aimed at
+structural issues of secondary education such as school types, early selection and
+competition between schools.
+Instead, the Ministry commissioned an experts’ report on the development of
+national standards in education, commonly referred to as the Klieme Report (the
+well-known educationist Eckehard Klieme chaired the committee of experts). This
+focus on national educational standards ( nationale Bildungsstandards ) is new and
+conceptually different from earlier attempts to agree on common standards for differ-
+ent levels of education in Germany (see for instance, KMK, 1995). The Ministry
+justified the focus on national educational standards by referring to countries which
+were successful in PISA and in which standards and their regular evaluation are wide-
+spread (BMBF, 2005).
+The Klieme Report became the conceptual basis of the development of national
+standards in education in Germany. According to the Report, ‘National educational
+standards formulate obligatory requirements for teaching and learning in schools.
+=== PAGE 5 ===
+622 H. Ertl
+[…] They prescribe which competences pupils should attain at the end of certain
+school years’ (Klieme et al., 2003, p. 9).5 The standards should not only provide clear
+aims for education at schools, they should also be used as a basis for assessing pupils
+(Klieme et al., 2003, pp. 9–10). They therefore represent a conceptual change in the
+German context where educational aims and assessment are traditionally not very
+closely connected.
+Contrary to the expectations of most observers, however, national educational
+standards were developed and implemented comparatively rapidly. The expectation
+that appeals for national reform and commissioned expert reports in education do not
+usually result in actual changes is derived from the experience with the federal struc-
+ture in Germany, which gives each of the 16 federal Länder autonomy in matters of
+culture and education (cf. Rürup, 2005). Also, the fact that the authors of the experts’
+report concluded that ‘the development of nationally uniform educational standards
+and performance criteria represents a very drastic turning-point within the federal
+system of the Federal Republic of Germany’ (Klieme et al., January 2003, p. 116)
+contributed to the scepticism of most observers.
+However, as early as July 2003 blueprints of national standards for German, Math-
+ematics and the first foreign language (English or French) for the end of Realschule
+education (after ten years of schooling) were introduced. A revised version of the
+standards was passed by the Standing Conference of Länder Ministers for Culture
+and Education (Kultusministerkonferenz, KMK) in December 2003. All Länder agreed
+to introduce the national standards at the beginning of the 2004/05 school year as a
+basis for the development of new curricula and for initial and continuous teacher
+training. From 2006 nationwide student assessment aims to examine whether all
+Länder are meeting the standards.
+Bung (2004) concluded that these unprecedented developments surprised many
+who were convinced that a joint decision of all 16 Länder in the KMK would—as
+usual—take several years, if an agreement could be reached at all. The introduction
+of national standards amounts to an infringement of cultural autonomy, a principle
+that has been jealously guarded by the Länder (Tillmann, 2004). The rejection of any
+substantial competencies of the EU in education by the German Länder is only one
+example of this (cf. Ertl, 2002).
+As a result of the PISA shock, however, the 16 Länder agreed on national assess-
+ments of students’ achievements. The assessment will be based on the requirements
+specified in the new national educational standards. Currently, assessment criteria
+and instruments are being developed which will make it possible to determine how
+far the relevant national standards are being reached in each of the Länder. The Insti-
+tute for Quality Development in Education ( Institut zur Qualitätsentwicklung im
+Bildungswesen— IQB) was founded in 2004 and given the task of developing assess-
+ment structures and conducting tests (KMK, 2005; IQB, 2006). This represents a
+precedent in educational policy in Germany since the 1950s because it is for the first
+time that the KMK, the body that co-ordinates the educational policies of the 16
+Länder, has agreed on a national body that is responsible for quality assurance in
+education beyond the level of the individual Länder.
+=== PAGE 6 ===
+The PISA study in Germany 623
+The agreement on national educational standards and on an institutionalised struc-
+ture to ensure that the standards are observed would have been inconceivable without
+the impact of the PISA study. In almost every political document concerned with the
+development of national standards the results of the study are used to make the case
+for the radical reform of education in Germany. For instance, the Federal Ministry of
+Education and Research has published a ‘post-PISA agenda’ (BMBF, 2005) in which
+the reform spectrum includes the following diverse items: 
+●Promotion of reading abilities: in the project LiD (Lesen in Deutschland, reading in
+Germany), the Association of Libraries, the Association of Cities and Municipali-
+ties, publishers, parents’ associations and teachers’ associations have joined forces
+to establish a new ‘culture of reading’. The project aims at extra-curricular activi-
+ties of young people at a local level. LiD was initiated by the Commission for
+Educational Planning and Research Promotion of the German Federal State and
+the Länder (Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung,
+BLK) (see BLK, 2003).
+●Promotion of learning in the areas of mathematics and science: in the framework
+programme SINUS (Steigerung der Effizienz des mathematisch-naturwisschenschaftli-
+chen Unterrichts , increasing the efficiency of teaching mathematics and science)
+the learning of students in mathematics and science is investigated. The findings
+have formed the basis for implementing better learning environments at more
+than one thousand schools. The SINUS pilot projects are funded by the BLK (see
+IPN, 2004).
+●Increase in the number of schools that offer all-day schooling: the programme
+IZBB (Investitionsprogramm Zukunft Bildung und Betreuung, investment programme
+for the future of education and care) was initiated by the Federal Ministry of
+Education and is mainly funded by the federal government and aims to increase by
+5000 the number of schools that offer all-day schooling. The Ministry argues that
+all-day schooling will improve the integration of pupils with a migration back-
+ground into German society and that it can also contribute to eradicating the social
+inequalities of the school system. This argument is strengthened by international
+comparisons which show that Germany is one of the few industrialised countries
+that still follow the tradition of schooling mainly in the mornings only. In 2003,
+only about 5% of schools in Germany offered schooling in the afternoon on a regu-
+lar basis (BMBF, 2003, p. 3).
+6
+●Improvement of education for students with a migration background: the BLK
+has collected evidence of the need for better educational and career guidance,
+particularly for students with a migration background. In a report commissioned
+by the BLK, for instance, experts describe the lack of relevant advice for primary
+school pupils and their parents regarding language learning. They also identify a
+lack of training for teachers regarding the intercultural competence needed for
+teaching students with a migration background, and a lack of structures that
+ensure that students find an appropriate pathway through the complex school
+structures in Germany (BLK, 2004, pp. 3f.). The BLK is in the process of
+=== PAGE 7 ===
+624 H. Ertl
+deciding on a framework programme that would provide funding for pilot
+projects in this area (BMBF, 2005).
+All these programmes and projects make explicit reference to the unsatisfactory PISA
+results and can be regarded as a direct consequence of the reception of the study in
+Germany. They all aim at improving educational opportunities and quality. The
+projects and programmes described are all more or less directly funded by the Federal
+and the Länder governments but give a variety of interest groups and local actors an
+important role.
+The reception of the PISA results has also led to strong reactions from the social
+partners. While the opinions of German employers and trade unions on educational
+and training matters are usually diametrically opposed, PISA triggered a joint state-
+ment by the German Trade Union Association (Deutscher Gewerkschaftsbund) and the
+Association of German Employer Unions (Bundesvereinigung Deutscher Arbeitgeberver-
+bände). In an unprecedented agreement the two umbrella organisations identify two
+reasons why educational reforms are an urgent matter: the overall low achievement
+of pupils in German and the clear link between educational achievement and the
+socio-economic background of students. In their joint statement, trade unions and
+employers suggest ten reforms that aim at increased quality, equity and fostering of
+talent in education. These reform proposals include better structures for language
+learning of migrant children, redistribution of financial resources in favour of early
+learning, more parental influence on schools, increased permeability between differ-
+ent school types, higher and nationally-binding standards for teacher education,
+increased autonomy of schools, and a stronger orientation of school education
+towards the needs of the world of work (DGB & BDA, 2005).
+It can be concluded that the reception of the PISA results has fundamentally
+changed the educational discourse in Germany. Whereas the pre-PISA discourse was
+characterised by a stalemate between the interests of the Federal and Länder govern-
+ments (Rürup, 2005; Schwager, 2005) and diverging party political agendas, the
+post-PISA context has for the moment brought about a new consensus regarding the
+need for reform, which has in turn resulted in a—by German standards—frantic
+reform agenda.
+Curricular consequences
+The introduction of national educational standards will substantially change the role
+of curricula and the way they are developed and implemented. Traditionally, curric-
+ula for German schools prescribed the aims and content of instruction in great detail.
+This is due to the heritage of didactical theory in education ( bildungstheoretische
+Didaktik) for which the selection of content was decisive. The advocates of this para-
+digm (for instance Erich Weniger, Wolfgang Klafki, Herwig Blankertz) argued that a
+sophisticated didactic analysis of content regarding its educational value is required
+(cf. Jank & Meyer, 1994, chapter 5). This analysis resulted in the formulation of ideal-
+istic and abstract educational aims and long lists of educational content, representing
+=== PAGE 8 ===
+The PISA study in Germany 625
+the backbone of typical German school curricula in the 1960s and 1970s (Bohl,
+2004). The influence of goal- and action-oriented approaches to curricular design in
+the 1980s and 1990s did not change this situation substantially.
+It can be argued that this kind of curriculum had little direct influence on what
+went on in schools because teachers found it very difficult to implement them (cf.
+Bung, 2004). These traditional curricula were too complex and written in too
+abstract a language for them to be used by teachers directly. The influence of tradi-
+tional curricula on teaching and learning was indirect in nature: firstly, they were the
+basis of negotiations between the teachers of a subject in a given school about the
+distribution of contents within school years and between school years. Secondly, text-
+books were only accredited for a subject if they were in agreement with the current
+curriculum for that subject. The impact of curriculum design on what went on in
+terms of teaching and learning in German classrooms was filtered by the interpreta-
+tion of (groups of) teachers and by reliance on textbooks.
+The relative lack of influence of the curriculum was due to the fact that it did not
+entail any form of output control. This can be attributed to the deep-rooted belief that
+the assessment of learning should not form part of the curriculum and nor should the
+method and style of teaching, or the materials and media used (Bung, 2004). In
+Germany, all these elements are traditionally left to the professional judgment of
+teachers, or to groups of teachers at a school. The state trusts that the prescription of
+content in the curriculum, the definition of national standards for teacher training
+and the accreditation of teacher qualifications suffice to ensure a sufficient quality of
+education at schools (Klieme et al., 2003, pp. 91–94).
+The introduction of national educational standards breaks with this tradition and
+aims to build a new guiding principle for educational control which also entails a new
+role for the curriculum.
+Educational standards 
+• build on the basic principles of the relevant school subject
+• describe relevant subject-specific competences, including bodies of knowledge which
+students should acquire by a specific point in time
+• aim at systematic and interlinked learning and follow the principle of cumulative
+competence formation
+• describe expected achievements of the students in the framework of pre-determined
+areas of competence
+• are related to the core areas of the relevant subject and provide freedom for schools in
+terms of conducting the teaching and learning processes
+• aim at a medium level of competence
+• are illustrated by examples of tasks and problems. (KMK, 2005, p. 6)
+The standards have resulted in new conceptions concerning the future role of the
+school curriculum; conceptions that vary substantially between the Länder. For
+instance, Baden-Württemberg introduced ‘education plans’ (Bildungspläne), consist-
+ing of the new national standards, core curricula (determining two-thirds of teaching
+time) and school curricula that are developed by each school separately (determining
+one-third of teaching time). North Rhine-Westphalia intends to replace existing
+=== PAGE 9 ===
+626 H. Ertl
+curricula by less prescriptive ‘core curricula’ that are in line with the educational stan-
+dards. In Rhineland-Palatinate the school law of 2003 even regulates that no more
+new curricula should be developed and teachers should only use national standards
+as a basis for planning their teaching (cf. Bung, 2004).
+This approach seems to be overly radical since the national educational standards
+are explicitly not designed to provide a sufficient basis for teaching. The Klieme
+Report recommends that: 
+the guiding function of educational standards and the orientation function of curricula
+need to be combined [and argues that] educational standards in no way make curricula
+superfluous since the standards do not—unlike curricula—provide guidance on the
+content of teaching, on the structure of learning processes and on the timing of learning.
+(Klieme et al., 2003, pp. 77f.)
+However, Herrmann argues that the new national standards are very much structured
+like old-fashioned curricula and therefore it seems hardly surprising that they are not
+only mistaken for curricula, but also that they are unlikely to improve teaching and
+learning: ‘The proposed “standards” are not standards but well-intentioned reformu-
+lations of “curricula” (which do not deserve this term). The implementation of the
+standards is in the lap of the gods’ (Herrmann, 2004, pp. 1f.).
+On the basis of the reception of international models of regulation of teaching and
+learning, German observers have identified a three-fold regulatory approach: auton-
+omy of individual schools, general standards and regular external and internal assess-
+ment (of students and schools) (cf. Bung, 2004). The concept of ‘educational plans’
+as implemented in Baden Württemberg seems to follow this regulation model. The
+model adopted in Rhineland-Palatinate, on the other hand, seems to overburden
+schools as it is the responsibility of teachers and teams of teachers to fulfil the tasks
+that were hitherto assumed by curriculum development commissions. In other words
+teachers have to fill the vacuum caused by the absence of curricular guidance; a situ-
+ation for which most teachers are not prepared in their training and for which schools
+do not normally provide the necessary support structures.
+Therefore, it can be expected that teachers will opt for a shortcut: rather than
+developing teaching material themselves they will—once more—rely on recognised
+textbooks as a basis of guidance in terms of contents, aims and structure of their
+teaching. In this case it would depend on the quality of the textbooks used whether
+the aims of the introduction of national standards can be achieved. Thus, it seems
+likely that educational standards will not result in the far-reaching improvement of
+teaching and learning at German schools, because they are implemented in a way
+that allows or even pushes teachers to depend on textbooks as the main basis for
+their teaching. In particular, it remains doubtful whether the orientation of teaching
+and learning towards competences that students are supposed to develop will actu-
+ally change teaching practice in Germany, which is often dominated by knowledge-
+based and abstract learning. This doubt is derived from the lack of consensus
+regarding the meaning of ‘competence’ in the academic discourse on education in
+Germany.
+=== PAGE 10 ===
+The PISA study in Germany 627
+Consequences for the academic discourse on education
+Beyond the political and curricular consequences the PISA results had for education
+in Germany, they also initiated a far-reaching debate about education as an academic
+subject. This debate is not only concerned with the future direction research in
+education should take, but also with the foundations of the discipline. For instance,
+Bohl (2004) discusses the connection between empirical research of pedagogic prac-
+tice (empirische Unterrichtsforschung) and general didactics (allgemeine Didaktik), which
+is a long-established sub-discipline of education (Erziehungswissenschaft) in Germany.
+In the tradition of general didactics, educational aims are deducted from the philo-
+sophical discourse surrounding the nature of human beings and communities. In this
+discourse the reality of schools and the demands students are facing after finishing
+school play a secondary role. This is due to the substantial doubt general didactics has
+regarding the measurability of teaching and learning processes (Lange, 2004). Educa-
+tional research that follows this tradition focuses on the development of abstract,
+normative educational aims, mainly using hermeneutic methods.
+Empirical research of pedagogical practice, on the other hand, focuses on the
+conditions in which teaching and learning processes actually take place and on the
+real-life experience of teachers and learners. This kind of research aims to identify
+interventions that improve teaching and learning, using empirical designs such as
+quasi-experiments. This research necessarily differs from subject to subject, whereas
+general didactics contends that valid educational aims go beyond the boundaries of
+individual disciplines.
+Put in simplified terms, general didactics broadly follows the paradigms and meth-
+odologies of the humanities, whereas empirical research of pedagogical practice is
+committed to the assumptions and methods of social sciences such as psychology and
+sociology. Whereas general didactics is primarily concerned with how schools should
+be, the main concern of empirical educational research is to find out how schools actu-
+ally are (Lange, 2004).
+Bohl (2004) concludes that PISA has shifted the balance of the academic discourse
+on education in Germany clearly towards a more empirical and practice-focused
+framework of research because the paradigmatic starting points and key concepts of
+general didactics are, to a substantial degree, incompatible with the rationale of
+empirical class-room research and with large-scale comparative studies such as PISA
+or TIMSS. For instance, proponents of general didactics would argue that educa-
+tional experiences constitute unique personal processes which cannot be compared in
+a meaningful way. In this context, the discourse on PISA has contributed to the emer-
+gence of empirical educational research from its ‘shadowy existence’ in Germany.
+Bohl (2004, p. 419) also shows that literacy, one of the key concepts of the PISA
+study, does not have a semantic equivalent in the traditional German discourse.
+Therefore, it is difficult for researchers in general didactics to interpret the PISA find-
+ings on literacy within the conceptual framework of their discipline (see also Kiper,
+2003). This might explain why large-scale international comparisons had been less
+influential on education as an academic discipline in Germany than in most other
+=== PAGE 11 ===
+628 H. Ertl
+countries before the PISA study was published. Bohl (2004) argues that it is not easy
+to incorporate or interpret PISA in the conceptual framework of the tradition of
+general didactics.
+A further change in the academic discourse is the introduction of the concept of
+competence as the overarching rationale of educational practice.
+7 This amounts to
+another re-orientation of the education system, and the discourse surrounding it, that
+would not have happened—at least not at the same speed—without the PISA shock.
+The new national educational standards adopted in Germany determine which
+competences pupils should develop; the achievement of the education system is
+measured in terms of its success in forming these individual competences. These
+competences are oriented towards more general educational aims, but in the end
+educational standards are focused on measurable competences (see Klieme et al.,
+2003, p. 13). With the introduction of national standards, the concept of competence
+has become a dominant issue in the educational discourse in Germany. The compar-
+ison of different concepts of competence in a number of European countries has
+demonstrated that there is no clearly defined and widely accepted notion of compe-
+tence (Ertl & Sloane, 2005). As there is no tradition in Germany of formulating curric-
+ula in terms of competences (i.e. regulating what the outcome of teaching and learning
+for the learners should be), the reception of concepts of competence developed in
+other national systems is a wide-spread phenomenon in Germany at the moment and
+has led to misunderstandings and confusion in the educational discourse (Ertl, 2005).
+Sloane and Dilger (2005) have described this situation as a ‘competence clash’—
+not only do different notions of competence clash with each other, but the new educa-
+tional ‘gospel’ of standards, competences and outcome-orientation is also at odds
+with German traditions, such as content-based curricula and input-orientation (i.e.
+regulating the structures, processes and conditions of teaching and learning). Sloane
+and Dilger (2005) identify a number of detrimental consequences of this situation;
+most importantly, the emphasis of the new national standards on the competence of
+pupils pushes learning processes into the background. This is connected with the
+narrow, behaviouristic notion of competence that can underlie educational stan-
+dards—an objection that has been made numerous times in connection with the
+concept of competence in NVQs (National Vocational Qualifications) in England
+and Wales (see, for instance, Smithers, 1997).
+These two issues, the revaluation of empirical educational research of pedagogical
+practice and the debate surrounding the concept of competence in the new national
+educational standards, demonstrate that PISA has changed the academic discourse
+in Germany permanently. Bohl (2004, p. 414) describes this change as a ‘sharp
+empirical turn’ which has initiated a restructuring process of education as an
+academic discipline in Germany.
+Conclusions: the (re)discovery of comparisons in education in Germany?
+Although the development of national educational standards in Germany started in
+the late 1990s, their rapid introduction must be regarded as a direct consequence of
+=== PAGE 12 ===
+The PISA study in Germany 629
+the PISA results and the far-reaching ensuing public discussion. This represents an
+example of the impact of a large-scale international comparative study in a national
+context. However, the initial experience regarding the implementation of educational
+standards makes it clear that the results of in-depth qualitative studies in other
+national contexts also need to be taken into account. For instance, experience of the
+introduction of standards in the USA, the UK and Sweden has shown that the devel-
+opment of measures necessary for implementing standards and for developing new
+innovative teaching concepts that carry them takes a long time (cf. Bung, 2004).
+Van Ackeren (2003) has argued that the introduction of national educational stan-
+dards can only be one element of an effective reform agenda. She refers to experiences
+in other European countries which show that other aspects of reform are essential if
+educational standards are to improve the quality of education. The examples van
+Ackeren provides include England (where prescribed minimum standards are
+combined with levels of competence), France (where compulsory learning objectives
+determine what should be learned by each age cohort) and The Netherlands (where
+newly developed national standards are combined with school-specific curricula
+which allow for standardised and individual learning arrangements). However, in-
+depth comparisons with countries that were successful in the PISA study are also
+frequently cited in the public discourse. Comparisons with Finland and Sweden have
+been prevalent (see for instance Herrmann, 2004).
+The detailed comparison of the education systems in Canada, England, Finland,
+France, The Netherlands and Sweden, commissioned by the Federal Ministry of
+Education and Research in reaction to the PISA results, particularly looked at the way
+in which educational standards are conceptualised, developed and applied interna-
+tionally. The report resulting from the comparison concludes that ‘[…] educational
+standards formulating uniform, obligatory expectations regarding the achievement of
+pupils and assessment and quality assurance procedures based on these standards
+play an important role in successful educational systems’ (BMBF, 2003, p. 267). This
+conclusion is mirrored in the Klieme Report which provided the basis for the devel-
+opment of national educational standards in Germany. Therefore, it can be argued
+that PISA has initiated further comparative research which informed policy-making
+processes in the German context.
+These references and examples can be regarded as indications for the increasing
+importance in Germany of comparisons with other countries after PISA. After
+decades of introspective reflection on educational policy and practice, the discourse
+on education in Germany seems to look beyond its own borders again. The PISA
+shock has had a positive influence in this context, among others.
+However, the impact of the PISA 2000 results in Germany can partly be explained
+by the fact that Germany had either not been part of many of the other large-scale
+comparisons in education since the 1960s (TIMSS was the only notable exception
+here), or that politicians and the media ignored the results (Tillmann, 2004).
+Comparisons of educational achievements had no previous tradition in Germany.
+Educational and political reactions and their impact in the aftermath of the publica-
+tion of the results of PISA were therefore unique (in no other country was the study
+=== PAGE 13 ===
+630 H. Ertl
+so widely discussed as in Germany, see Gruber, 2006) and surprising to most observ-
+ers.8 Since PISA 2000, international comparisons in education have been high on
+the agenda of educational ministries in Germany. Examples of this re-orientation are
+the German participation in PIRLS (Progress in International Reading Literacy
+Study),
+9 the intra-German comparisons of educational achievement between the 16
+German Länder (Baumert, et al., 2002;  Deutsches PISA-Konsortium, 2003b), and a
+detailed study of school systems in selected PISA countries (see BMBF, 2003;
+OECD, 2004). All of these studies have been more or less directly funded by the
+German Federal Ministry of Education and Research and the Länder ministries and
+have found their way into the discourse on education (see, for instance, Klieme,
+2003; Klein, 2005b).
+The Federal Ministry’s post-PISA agenda seems to be firmly focused on raising
+national educational standards by pursuing measures that will improve Germany’s
+low ranking in the PISA league table. It places less emphasis on the solution of the
+other major problem identified by PISA, the strong connection between the socio-
+economic background of students and their educational achievement. Teachers’
+associations have criticised this and argue for a more long-term strategy for eradicat-
+ing inequalities in the German education system. For instance, the Trade Union for
+Education (GEW) argues for measures that would: 
+• increase the level of competence of weaker students in particular,
+• increase the share of students that achieve the Realschule certificate or the Abitur, with-
+out lowering standards,
+• narrow the gap between weak and strong students and between weak and strong
+schools. (GEW, 2005)
+Teachers’ associations have argued that these aims cannot be achieved if the reform
+agenda is purely based on improvements of teaching and learning quality, which is
+the ultimate aim of the introduction of national standards. In their view, educational
+inequalities and the resulting high share of underachieving students in German
+schools are a direct consequence of the selective school system (Stange, 2004).
+Reforms that ignore the need to rethink the early selection of students in the tripartite
+structure of secondary schooling will succeed in narrowing the gap between high
+achieving and low achieving students. On the contrary, the introduction of national
+standards will intensify selection and increase assessment pressure even in primary
+education (Herrmann, 2004, p. 2). Parents’ earnings and education levels are deter-
+mining factors for the allocation of students to the different types of secondary schools
+in Germany. Teachers’ associations therefore argue for a ‘system change’ by develop-
+ing integrative schools for students of all backgrounds and abilities (GEW, 2005).
+However, despite the fact that many of the countries that performed well on the
+PISA study have a comprehensive school system, the renewed interest in comparative
+studies in education has not resulted in a critical assessment of selective secondary
+schooling in Germany; neither by politicians nor by many educational researchers
+(see Klieme, 2003). The frequent criticism of international observers, such as the
+German PISA-coordinator Andreas Schleicher, regarding the selective German
+=== PAGE 14 ===
+The PISA study in Germany 631
+school system has not changed this situation (see Peek, 2005). Instead, the slightly
+improved German results in PISA 2003 have been regarded by politicians as a major
+step forward, ignoring the relatively small scale of improvements and the fact that the
+time lapse between the two studies was too short to reflect the reform momentum that
+only resulted in actual changes from 2002 onwards (Klein, 2005a, p. 29).
+10 However
+far-reaching the consequences of the changes outlined in this paper might prove to be
+in future, it seems safe to predict that the Gesamtschule (comprehensive school) will
+remain ‘the great taboo’ (Gruber, 2006) in the German educational discourse for the
+time being.
+Notes on contributor
+Hubert Ertl is Lecturer in Higher Education at the Department of Educational
+Studies, University of Oxford. His research interests include widening participa-
+tion in higher education, EU policies in education and training and European
+systems of vocational education and training.
+Notes
+1. The PISA results can be followed in the host of publications offered on the OECD webpage
+www.pisa.oecd.org. For an overview and analysis of the German results see Deutsches PISA-
+Konsortium (2001, 2003a).
+2. ‘Migration background’ is used as a collective term in the German discourse to refer to refugees
+(including refugees from eastern Europe with German nationality), asylum seekers, and other
+people from abroad living in Germany (BLK, 2004, p. 2).
+3. The Realschule represents the intermediate, the Hauptschule the lower level school type in the
+German tripartite system of secondary schooling. Both school types are geared towards prepar-
+ing young people for vocational education in the so-called dual system of training. The Gymna-
+sium provides pupils with an academically-oriented education, geared towards preparation for
+higher education (cf. Ertl & Phillips, 2000).
+4. Using Erikson et al .’s (1979) categorisation of social class, comprising six social-economic
+classes, Baumert & Schümer (2001, p. 355) show that children from the highest class (upper
+managerial) are about five times more likely to attend the Gymnasium than children from the
+lowest class (unskilled labourer).
+5. All direct German quotes in this paper were translated by the present author.
+6. In 2003/04, the overall number of primary schools and secondary schools (16,992) (including
+Haupt- (5324), Real- (2980), Gesamtschulen (759), Gymnasien (3139) and schools with
+combined programmes (2436)) in Germany was 31,630 (own calculation on the basis of Statis-
+tisches Bundesamt, 2006).
+7. This is not to say that the concept of competence had not figured in the educational discourse
+in Germany before PISA. For instance, Arnold (1998, p. 496) and Hof (2002, p. 163) identi-
+fied a ‘competence-oriented turn’ of further education in the 1990s. In initial vocational train-
+ing the concept of ‘professional activity-competence’ was introduced as the overarching aim of
+school-based training in the mid-1990s (Bader & Müller, 2002). In general education,
+however, the discourse on competences had been observed from some distance before PISA.
+8. A research project has shown that even regional newspapers in Germany published on average
+one article on PISA per day for more than one year after the results of the study were published
+in 2001 (Tillmann, 2004, p. 479).
+=== PAGE 15 ===
+632 H. Ertl
+9. PIRLS is known in Germany by the acronym IGLU ( Internationale Grundschul-Lese-Untersu-
+chung). PIRLS was extended in the German context and also included tests on mathematics,
+science, spelling and essay-writing (IGLU-E). This extension was funded by the participating
+Länder (Bos et al., 2003).
+10. Some teachers have argued that the improvement was mainly due to the fact that in PISA 2003
+schools knew earlier than in PISA 2000 that they had been selected and that this resulted in
+many cases in ‘teaching to the test’ (Peek, 2005).
+References
+Arnold, R. (1998) Kompetenzentwicklung. Anmerkungen zur Proklamation deiner konzeption-
+ellen Wende in der Berufs- und Erwachsenenpädagogik,  Zeitschrift für Berufs- und
+Wirtschaftspädagogik, 94(4), 496–504.
+Bader, R. & Müller, M. (2002) Leitziel der Berufsbildung: Handlungskompetenz: Anregungen zur
+Ausdifferenzierung des Begriffs, Die berufsbildende Schule, 54(6), 176–182.
+Baumert, J., Artelt, C., Klieme, E., Neubrand, M., Prenzel, M., Schiefele, U., Schneider, W.,
+Tillmann, K.-J. & Weiß, M. (Eds) (2002)  Pisa 2000—Die Länder der Bundesrepublik
+Deutschland im Vergleich (Opladen, Leske + Budrich).
+Baumert, J., Artelt, C., Klieme, E., Neubrand, M., Prenzel, M., Schiefele, U., Schneider, W.,
+Schümer, G., Stanat, P., Tillmann, K.-J. & Weiß, M. (Eds) (2003)  Pisa 2000—Ein differen-
+zierter Blick auf die Länder der Bundesrepublik Deutschland: Zusammenfassung zentraler Befunde
+(Berlin, Max-Planck-Institut für Bildungsforschung).
+Baumert, J. & Schümer, G. (2001) Famliäre Lebensverhältnisse, Bildungsbeteiligung und
+Kompetenzerwerb, in: Deutsches PISA-Konsortium (Eds.)  PISA 2000. Basiskompetenz
+von Schülerinnen und Schülern im internationalien Vergleich  (Opladen, Leske & Budrich),
+323–410.
+Baumert, J. & Schümer, G. (2002) Famliäre Lebensverhältnisse, Bildungsbeteiligung und
+Kompetenzerwerb im nationalen Vergleich, in: Deutsches PISA-Konsortium (Eds)  PISA
+2000. Die Länder der Bundesrepublik Deutschland im Vergleich  (Opladen, Leske & Budrich),
+159–202.
+Beckmann, U. (2004) OECD—Nachprüfung nicht bestanden, Schule heute, 10, 2f.
+BLK (Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung) (2003) Lesen in
+Deutschland. Aktionsrahmen zur Förderung der Lesekultur von Kindern und Jugendlichen im außer-
+schulischen Bereich.  Available online at: http://www.blk-bonn.de/papers/LID2004_3_11.pdf
+(accessed 20 October 2005).
+BLK (2004) Vorschläge zur Verbesserung der Bildungsberatung für Personen mit Migrationshintergrund.
+Available online at: http://www.blk-bonn.de/papers/bildungsberatung-migranten.pdf
+(accessed 15 February 2006).
+Bohl, T. (2004) Empirische Unterrichtsforschung und Allgemeine Didaktik. Entstehung, Situa-
+tion und Konsequenzen eines prekären Spannungsverhältnisses im Kontext der PISA-Studie,
+Die Deutsche Schule, 96, Jg./Heft 4, 414–425.
+Bos, W., Lankes, E. M., Prenzel, M., Schwippert, K., Walther, G. & Valtin, R. (Eds) (2003) Erste
+Egebnisse aus IGLU. Schülerleistungen am Ende der vierten Jahrgangsstufe im internationalen
+Vergleich (Münster, Waxmann).
+BMBF (Bundesministerium für Bildung und Forschung) (2003) Vertiefender Vergleich der
+Schulsysteme ausgewählter PISA-Staaten. Available online at: http://www.bmbf.de/pub/
+pisa-vergleichsstudie.pdf (accessed 20 February 2006).
+BMBF (2005) Was ist seit PISA geschehen? Available online at: http://www.bmbf.de/de/899.php
+(accessed 23 November 2005).
+Bung, P. (2004) Bildungsstandards: Die neue curriculare Welt nach PISA,  Realschule in
+Deutschland, 4, 13–16.
+=== PAGE 16 ===
+The PISA study in Germany 633
+Deutsches PISA-Konsortium (2001) PISA 2000. Basiskompetenz von Schülerinnen und Schülern im
+internationalen Vergleich (Opladen, Leske & Budrich).
+Deutsches PISA-Konsortium (2003a) PISA 2003: Ergebnisse des zweiten internationalen Vergle-
+ichs. Zusammenfassung. Available online at: http://pisa.ipn.uni-kiel.de/Kurzfassung_PISA_
+2003.pdf (accessed 20 February 2006).
+Deutsches PISA-Konsortium (2003b) PISA 2003: Ergebnisse des zweiten Ländervergleichs.
+Zusammenfassung. Available online at: http://pisa.ipn.uni-kiel.de/PISA2003_E_ Zusammen-
+fassung.pdf (accessed 20 February 2006).
+DGB & BDA (Deutscher Gewerkschaftsbund & Bundesvereinigung der Deutschen Arbeitgeber-
+verbände) (2005) Gemeinsame Erklärung von BDA udn DGB zu den Konsequenzen aus den
+Ergebnissen von PISA II. Available online at: http://www.bda-online.de/www/bdaonline.nsf/
+id/0DF6C7A2DCDD2697C1256F900050DD52/$file/GemeinsameErklaerungBDADGB.pdf
+(accessed 20 November 2005).
+Erikson, R., Goldthorpe, J. H. & Portocarero, L. (1979) Intergenerational class mobility in three
+Western European societies: England, France and Sweden,  British Journal of Sociology,  30,
+341–415.
+Ertl, H. (2002) The role of European Union programmes and approaches to modularisation in
+vocational education: fragmentation or integration?  Series: Münchner Beiträge zur
+Wirtschaftspädagogik (München, Utz Verlag).
+Ertl, H. (2005) Das Kompetenzkonzept: Zugänge zur Diskussion in der deutschen Berufs- und
+Wirtschaftspädagogik, in: H. Ertl, Hubert & P.F.E. Sloane (Eds)  Kompetenzerwerb und
+Kompetenzbegriff in der Berufsbildung in internationaler Perspektive (Paderborn, Eusl), 22–45.
+Ertl, H. & Phillips, D. (2000) The enduring nature of the tripartite system of secondary school-
+ing in Germany: some historical explanations,  British Journal of Educational Studies,  48(4),
+391–412.
+Ertl, H. & Sloane, P. F. E. (Eds) (2005) Kompetenzerwerb und Kompetenzbegriff in der Berufsbildung
+in internationaler Perspektive (Paderborn, Eusl).
+Geißler, R. (2004) Die Illusion der Chancengleichheit im Bildungssystem—von PISA gestört,
+Zeitschrift für Soziologie der Erziehung und Sozialisation, 24(4), 362–380.
+GEW (Gewerkschaft Erziehungswissenschaft [Trade Union for Education] (2005) Gemeinsamer
+Aktionsplan der GEW-Landesverbände ‘Konsequenzen aus PISA 2003’. Available online at:
+http://www.gew.de/Binaries/Binary9789/kovo-aktionsplan-06-05.pdf (accessed 20 February
+2006).
+Gruber, K.-H. (2006) The German ‘PISA-shock’: some aspects of the extraordinary impact of the
+OECD’s PISA study on the German education system, in: H. Ertl (Ed.) Cross-national attrac-
+tion in education. Accounts from Germany (Didcot, Symposium Books) (in press).
+Herrmann, U. (2004) Schule im Jahr IV nach PISA. Ein 10-Punkte-Programm gegen illusionäre
+Bildungsstandards, Zeitschrift für Pädagogik, 4, 38–41.
+Hof, C. (2002) (Wie) lassen sich soziale Kompetenzen bewerten?, in: U. Clement, Ute and R.
+Arnold (Eds)  Kompetenzentwicklung in der beruflichen Bildung  (Opladen, Leske & Budrich),
+153–166.
+IPN (Leibniz-Institut für die Pädagogik der Naturwissenschaften) (2004) BLK-Modellversuch-
+sprogramm “Steigerung der Effizienz des mathematisch-naturwissenschaftlichen Unterrichts”
+(Kiel, IPN).
+IQB (Institut zur Qualitätsentwicklung im Bildungswesen) (2006) Nationale Bildungsstandards.
+Available online at: http://www.iqb.hu-berlin.de/evstandards (accessed 23 January 2006).
+Jank, W. & Meyer, H. (1994) Didaktische Modelle (Frankfurt A. M., Cornelsen Scriptor).
+Kiper, H. (2003) Literacy versus curriculum?, in: B. Moschner, H. Kiper & U. Kattmann (Eds)
+PISA 200 als Herausforderung. Perspektiven für Lehren und Lernen (Baltmannsweiler, Schneider
+Verlag), 65–86.
+Klein, W. (2005a) PISA II—Ernte erster Früchte oder Anlass zu erneutem Zweifel am deutschen
+Schulsystem? Schulmanagement, 1, 28–30.
+=== PAGE 17 ===
+634 H. Ertl
+Klein, W. (2005b) Alle Länder auf gutem Weg? Erste Ergebnisse des zweiten PISA-Ländervergle-
+ichs, Schulmanagement, 5, pp. 18–21.
+Klieme, E. (2003) Fragestellungen, zentrale Befunde und Konsequenzen der Studie ‘Vertiefender
+Vergleich der Schulsysteme ausgewählter PISA-Teilnehmerländer’,  Trends in Bildung,  7.
+Available online at: http://www.dipf.de/publikationen/tibi/tibi7_klieme.pdf (accessed 20
+February 2006).
+Klieme, E. et al. (2003) Expertise zur Entwicklung nationaler Bildungsstandards (Bonn, BMBF).
+KMK (Kultusministerkonferez) (1995)  Standards für den Mittleren Schulabschluss in den Fächern
+Deutsch, Mathematik und erste Fremdsprache  (Bonn, Sekretariat der Ständigen Konferenz der
+Kultusminister der Länder der Bundesrepublik Deutschland).
+KMK (2005)  Bildungsstandards der Kultusministerkonferenz. Erläuterungen zur Konzeption und
+Entwicklung (Bonn, Sekretariat der Ständigen Konferenz der Kultusminister der Länder der
+Bundesrepublik Deutschland).
+Kraus, J. (2004) PISA-Diskussion zwischen Realismus und Hysterie,  Bayerische Staatszeitung,
+10 December. Available online at: http://www.lehrerverband.de/bspisa2.htm (accessed
+22 November 2005).
+Lange, H. (2004) Trial and error? Konsequenzen aus PISA—Ein Zwischenruf, Schulmangagement,
+4, 32f.
+OECD (2004) What makes schools systems perform? Seeing school systems through the prism of
+PISA. Available online at: http://www.pisa.oecd.org/dataoecd/30/24/33858946.pdf (accessed
+10 March 2006).
+Ostermann, H. (2005) Bildung oder Ausbildung? Reorienting German higher education, in: T.
+Tapper & D. Palfreyman (Eds) (2005)  Understanding mass higher education. Comparative
+perspectives on access (Abingdon, RoutledgeFalmer), 51–75.
+Peek, R. (2005) PISA die Zweite. Anmerkungen und ein Plädoyer für genaueres Nachfragen
+und gegen vorschnelle Antworten,  forum schule—Magazin für Lehrerinnen und Lehrer,  2.
+Available online at: www.forum-schule.de/fsaktuell/art_print/magforsch_print.html (accessed
+20 February 2006).
+Rürup, M. (2005) Der Föderalismus als institutionelle Rahmenbedingung im deutschen Bildung-
+swesen—Perspektiven der Bildungspolitikforschung. Available online at: http://www.dipf.de/
+publikationen/tibi/tibi9_foederalismus_ruerup.pdf (accessed 20 February 2006).
+Schwager, R. (2005) PISA-Schock und Hochschulmisere—Hat der Bildungsföderalismus versagt?
+Perspektiven der Wirtschaftspolitik, 6(2), 189–205.
+Sloane, P. F. E. & Dilger, B. (2005) The competence clash—Dilemata bei der Übertragung des
+‘Konzepts der nationalen Bildungsstandards’ auf die berufliche Bildung,  Berufs- und
+Wirtschaftspädagogik. Available online at: http://www.bwpat.de, vol. 8.
+Smithers, A. (1997) A critique of NVQs and GNVQs’, in: S. Tomlinson (Ed.)  Education 14–19.
+Critical perspectives (London, Athlone Press), 55–70.
+Stange, E.-M. (2004) Zwischen PISA und Elite. Zur aktuellen Verfassung der Bildungspolitik,
+Gewerkschaftliche Monatshefte, 4/242, 242–246.
+Statistisches Bundesamt (2006) Allgemeinbildende Schulen. Available online at: http://
+www.destatis.de/basis/d/biwiku/schultab1.php (accessed 20 February 2006).
+Tillmann, K.-J. (2004) Was ist eigentlich neu an PISA? in: Neue Sammlung, 44(4), 477–486.
+van Ackeren, I. (2003) Zur Diskussion um Bildungsstandards in Deutschland: Internationale
+Erfahrungen wahrnehmen und nutzbar machen. Beitrag für die GEW. Available online at:
+http://www.gew.de/Binaries/Binary3766/Bildungsstandards_in_Deutschland.pdf.

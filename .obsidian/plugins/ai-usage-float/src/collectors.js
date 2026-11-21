@@ -5,7 +5,7 @@ const http = require("node:http");
 const { homedir, tmpdir } = require("node:os");
 const { join, isAbsolute } = require("node:path");
 const {
-  HOUR, PROVIDERS, text, percent, timestamp, isoTimestamp, normalizeWindow,
+  HOUR, PROVIDERS, text, percent, timestamp, isoTimestamp, normalizeWindow, antigravityProfileName,
 } = require("./model");
 
 const MAX_OUTPUT = 1024 * 1024;
@@ -116,11 +116,12 @@ function rpc(provider, path, args, initialize, method, signal) {
   });
 }
 
-function row(provider, windows, { id = provider, label = "", plan = "", source = PROVIDERS[provider].source,
+function row(provider, windows, { id = provider, label = "", plan = "", profileName, source = PROVIDERS[provider].source,
   fetchedAt = Date.now(), error } = {}) {
   const clean = windows.flatMap(normalizeWindow);
   return {
     id, label, plan, source, fetchedAt: clean.length ? fetchedAt : null, windows: clean,
+    ...(profileName ? { profileName } : {}),
     ...(error ? { issue: error } : {}),
   };
 }
@@ -289,8 +290,11 @@ async function localAntigravity(pid, signal) {
     if (text(current?.email).toLowerCase() !== email.toLowerCase()) {
       throw new SourceError("offline", "检测到账号切换，请重新刷新。");
     }
+    const profileName = [current.displayName, current.name, current.userName,
+      [text(current.firstName), text(current.lastName)].filter(Boolean).join(" ")]
+      .map(antigravityProfileName).find(Boolean);
     return row("antigravity", requireReading(antiWindows(payload)), {
-      id: accountId(email), label: "桌面账号", plan: text(current.userTier?.name),
+      id: accountId(email), label: "桌面账号", profileName, plan: text(current.userTier?.name),
     });
   }));
   const success = answers.find(answer => answer.status === "fulfilled");
@@ -334,7 +338,7 @@ async function managerAccounts() {
       const email = text(account?.email);
       const fileId = text(account?.id);
       if (!email || !/^[a-f0-9-]{36}$/i.test(fileId)) return [];
-      return [{ id: accountId(email), fileId, label: "账号 " + (index + 1) }];
+      return [{ id: accountId(email), fileId, label: "账号 " + (index + 1), profileName: antigravityProfileName(account.name) }];
     });
   } catch (error) {
     if (error.code === "ENOENT") return [];
@@ -344,7 +348,7 @@ async function managerAccounts() {
 
 async function managerSnapshot(account) {
   const provider = "antigravity";
-  const options = { id: account.id, label: account.label, source: "Antigravity Tools 快照" };
+  const options = { id: account.id, label: account.label, profileName: account.profileName, source: "Antigravity Tools 快照" };
   try {
     const data = await readJSON(join(ANTI_CACHE, "accounts", account.fileId + ".json"));
     if (!data?.email || accountId(data.email) !== account.id) throw new Error("Account mismatch");

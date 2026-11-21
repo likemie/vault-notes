@@ -1,6 +1,6 @@
 const { Notice, Plugin, PluginSettingTab, Setting } = require("obsidian");
 const {
-  KEYS, PROVIDERS, MINUTE, INTERVALS, cacheFrom, settings, text, isAntigravityId, retainAntigravitySnapshots,
+  KEYS, PROVIDERS, MINUTE, INTERVALS, cacheFrom, settings, text, isAntigravityId, accountName, retainAntigravitySnapshots,
 } = require("./model");
 const { collectors, issue, defaultFailure } = require("./collectors");
 const { Dashboard, FloatingPanel } = require("./view");
@@ -39,8 +39,8 @@ class UsageSettings extends PluginSettingTab {
     if (accounts.length) {
       new Setting(containerEl).setName("Antigravity 账号名称").setHeading();
       for (const row of accounts) {
-        new Setting(containerEl).setName(row.label).setDesc(row.source)
-          .addText(input => input.setPlaceholder(row.label)
+        new Setting(containerEl).setName(accountName("antigravity", row, plugin.preferences)).setDesc(row.source)
+          .addText(input => input.setPlaceholder(row.profileName || row.label)
             .setValue(plugin.preferences.antigravityNames[row.id] ?? "")
             .onChange(value => plugin.nameAntigravityAccount(row.id, value)));
       }
@@ -204,8 +204,7 @@ class UsageFloatPlugin extends Plugin {
         return row;
       });
       const resolved = id === "antigravity"
-        ? retainAntigravitySnapshots(merged, accountId ? prior.filter(row => row.id === accountId) : prior,
-          this.preferences.antigravityNames)
+        ? retainAntigravitySnapshots(merged, accountId ? prior.filter(row => row.id === accountId) : prior)
         : merged;
       failed = resolved.every(row => row.issue || !row.windows.length);
       this.rows[id] = accountId

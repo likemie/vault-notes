@@ -30,6 +30,10 @@ var require_model = __commonJS({
     var isoTimestamp = (value) => typeof value === "string" && /T.*(?:Z|[+-]\d{2}:\d{2})$/i.test(value) ? timestamp(Date.parse(value)) : null;
     var isAntigravityId2 = (id) => typeof id === "string" && /^[a-f0-9]{24}$/.test(id);
     var savedSize = (value) => Number.isFinite(value) && value > 0 ? value : null;
+    var antigravityProfileName = (value) => {
+      const name = text2(value, 60).replace(/\s+/g, " ");
+      return name.includes("@") ? "" : name;
+    };
     var dateLabel = new Intl.DateTimeFormat("zh-CN", { month: "numeric", day: "numeric" });
     var timeLabel = new Intl.DateTimeFormat("zh-CN", { hour: "2-digit", minute: "2-digit", hourCycle: "h23" });
     function resetLabel(time, now = Date.now()) {
@@ -58,11 +62,12 @@ var require_model = __commonJS({
         enabled: Object.fromEntries(KEYS2.map((id) => [id, data.enabled?.[id] !== false]))
       };
     }
-    function accountName(provider, account, preferences) {
-      return provider === "antigravity" ? preferences.antigravityNames[account.id] ?? account.label : account.label;
+    function accountName2(provider, account, preferences) {
+      if (provider !== "antigravity") return account.label;
+      return preferences.antigravityNames[account.id] ?? (account.profileName || account.label);
     }
-    function retainAntigravitySnapshots2(current, previous, names) {
-      const saved = new Map(previous.filter((row) => names[row.id] && row.windows.length).map((row) => [row.id, row]));
+    function retainAntigravitySnapshots2(current, previous) {
+      const saved = new Map(previous.filter((row) => isAntigravityId2(row.id) && row.windows.length).map((row) => [row.id, row]));
       if (!saved.size) return current;
       const stale = (row) => ({
         ...row,
@@ -71,7 +76,10 @@ var require_model = __commonJS({
       const rows = current.map((row) => {
         const old = saved.get(row.id);
         saved.delete(row.id);
-        return old && old.fetchedAt > (row.fetchedAt ?? 0) ? stale(old) : row;
+        if (!old) return row;
+        const latest = old.fetchedAt > (row.fetchedAt ?? 0) ? stale(old) : row;
+        const profileName = row.profileName || old.profileName;
+        return profileName && !latest.profileName ? { ...latest, profileName } : latest;
       });
       const remembered = [...rows, ...[...saved.values()].map(stale)];
       return remembered.some((row) => isAntigravityId2(row.id)) ? remembered.filter((row) => row.id !== "antigravity") : remembered;
@@ -92,13 +100,15 @@ var require_model = __commonJS({
           if (!isObject(row) || !/^[a-z0-9-]{1,64}$/.test(row.id) || !AVAILABLE_SOURCES.has(row.source) || !Array.isArray(row.windows) || !timestamp(row.fetchedAt)) return [];
           const windows = row.windows.flatMap(normalizeWindow);
           if (!windows.length) return [];
+          const profileName = id === "antigravity" ? antigravityProfileName(row.profileName) : "";
           return [{
             id: row.id,
             label: text2(row.label),
             source: row.source,
             plan: text2(row.plan),
             fetchedAt: row.fetchedAt,
-            windows
+            windows,
+            ...profileName ? { profileName } : {}
           }];
         })];
       }));
@@ -139,7 +149,8 @@ var require_model = __commonJS({
       usableWindows,
       quotaText,
       isAntigravityId: isAntigravityId2,
-      accountName,
+      antigravityProfileName,
+      accountName: accountName2,
       retainAntigravitySnapshots: retainAntigravitySnapshots2
     };
   }
@@ -161,7 +172,8 @@ var require_collectors = __commonJS({
       percent,
       timestamp,
       isoTimestamp,
-      normalizeWindow
+      normalizeWindow,
+      antigravityProfileName
     } = require_model();
     var MAX_OUTPUT = 1024 * 1024;
     var ANTI_CACHE = join(homedir(), ".antigravity_tools");
@@ -276,6 +288,7 @@ var require_collectors = __commonJS({
       id = provider,
       label = "",
       plan = "",
+      profileName,
       source = PROVIDERS2[provider].source,
       fetchedAt = Date.now(),
       error
@@ -288,6 +301,7 @@ var require_collectors = __commonJS({
         source,
         fetchedAt: clean.length ? fetchedAt : null,
         windows: clean,
+        ...profileName ? { profileName } : {},
         ...error ? { issue: error } : {}
       };
     }
@@ -460,9 +474,16 @@ var require_collectors = __commonJS({
         if (text2(current?.email).toLowerCase() !== email.toLowerCase()) {
           throw new SourceError("offline", "\u68C0\u6D4B\u5230\u8D26\u53F7\u5207\u6362\uFF0C\u8BF7\u91CD\u65B0\u5237\u65B0\u3002");
         }
+        const profileName = [
+          current.displayName,
+          current.name,
+          current.userName,
+          [text2(current.firstName), text2(current.lastName)].filter(Boolean).join(" ")
+        ].map(antigravityProfileName).find(Boolean);
         return row("antigravity", requireReading(antiWindows(payload)), {
           id: accountId(email),
           label: "\u684C\u9762\u8D26\u53F7",
+          profileName,
           plan: text2(current.userTier?.name)
         });
       }));
@@ -502,7 +523,7 @@ var require_collectors = __commonJS({
           const email = text2(account?.email);
           const fileId = text2(account?.id);
           if (!email || !/^[a-f0-9-]{36}$/i.test(fileId)) return [];
-          return [{ id: accountId(email), fileId, label: "\u8D26\u53F7 " + (index + 1) }];
+          return [{ id: accountId(email), fileId, label: "\u8D26\u53F7 " + (index + 1), profileName: antigravityProfileName(account.name) }];
         });
       } catch (error) {
         if (error.code === "ENOENT") return [];
@@ -511,7 +532,7 @@ var require_collectors = __commonJS({
     }
     async function managerSnapshot(account) {
       const provider = "antigravity";
-      const options = { id: account.id, label: account.label, source: "Antigravity Tools \u5FEB\u7167" };
+      const options = { id: account.id, label: account.label, profileName: account.profileName, source: "Antigravity Tools \u5FEB\u7167" };
       try {
         const data = await readJSON(join(ANTI_CACHE, "accounts", account.fileId + ".json"));
         if (!data?.email || accountId(data.email) !== account.id) throw new Error("Account mismatch");
@@ -615,7 +636,7 @@ var require_view = __commonJS({
       accountStatus,
       usableWindows,
       quotaText,
-      accountName
+      accountName: accountName2
     } = require_model();
     var MARGIN = 10;
     var MIN_WIDTH = 240;
@@ -695,7 +716,7 @@ var require_view = __commonJS({
       const head = add(box, "div", "account-head");
       const labels = add(head, "div", "account-label");
       const status = rowStatus(account, state.now, state.settings.interval);
-      const name = accountName(id, account, state.settings);
+      const name = accountName2(id, account, state.settings);
       if (name) {
         add(labels, "strong", "", [name, account.plan].filter(Boolean).join(" \xB7 "));
       }
@@ -782,7 +803,7 @@ var require_view = __commonJS({
               readout,
               "div",
               "context",
-              [PROVIDERS2[low.id].title, accountName(low.id, low.row, state.settings), low.quota.name].filter(Boolean).join(" \xB7 ")
+              [PROVIDERS2[low.id].title, accountName2(low.id, low.row, state.settings), low.quota.name].filter(Boolean).join(" \xB7 ")
             );
             add(readout, "small", "muted", resetLabel(low.quota.resetAt, state.now));
             track(readout, low.quota.remaining, false);
@@ -797,7 +818,7 @@ var require_view = __commonJS({
               const item = add(list, "li");
               const label = add(item, "div");
               add(label, "div", "", PROVIDERS2[id].title);
-              add(label, "small", "muted", [accountName(id, row, state.settings), quota.name].filter(Boolean).join(" \xB7 "));
+              add(label, "small", "muted", [accountName2(id, row, state.settings), quota.name].filter(Boolean).join(" \xB7 "));
               add(item, "time", "num", freshness(quota.resetAt, state.now)).dateTime = new Date(quota.resetAt).toISOString();
             }
           } else {
@@ -890,7 +911,7 @@ var require_view = __commonJS({
               const summary = add(element, "summary", "float-row");
               summary.dataset.aufFocus = "summary-" + row.id;
               const identity = add(summary, "div", "float-label");
-              add(identity, "div", "", accountName(id, row, state.settings) || service.title);
+              add(identity, "div", "", accountName2(id, row, state.settings) || service.title);
               const status = rowStatus(row, state.now, state.settings.interval);
               const valid = usableWindows(row, state.now, state.settings.interval);
               const windows = valid.length ? valid : row.windows;
@@ -1044,6 +1065,7 @@ var {
   settings,
   text,
   isAntigravityId,
+  accountName,
   retainAntigravitySnapshots
 } = require_model();
 var { collectors, issue, defaultFailure } = require_collectors();
@@ -1072,7 +1094,7 @@ var UsageSettings = class extends PluginSettingTab {
     if (accounts.length) {
       new Setting(containerEl).setName("Antigravity \u8D26\u53F7\u540D\u79F0").setHeading();
       for (const row of accounts) {
-        new Setting(containerEl).setName(row.label).setDesc(row.source).addText((input) => input.setPlaceholder(row.label).setValue(plugin.preferences.antigravityNames[row.id] ?? "").onChange((value) => plugin.nameAntigravityAccount(row.id, value)));
+        new Setting(containerEl).setName(accountName("antigravity", row, plugin.preferences)).setDesc(row.source).addText((input) => input.setPlaceholder(row.profileName || row.label).setValue(plugin.preferences.antigravityNames[row.id] ?? "").onChange((value) => plugin.nameAntigravityAccount(row.id, value)));
       }
     }
   }
@@ -1219,11 +1241,7 @@ var UsageFloatPlugin = class extends Plugin {
         }
         return row;
       });
-      const resolved = id === "antigravity" ? retainAntigravitySnapshots(
-        merged,
-        accountId ? prior.filter((row) => row.id === accountId) : prior,
-        this.preferences.antigravityNames
-      ) : merged;
+      const resolved = id === "antigravity" ? retainAntigravitySnapshots(merged, accountId ? prior.filter((row) => row.id === accountId) : prior) : merged;
       failed = resolved.every((row) => row.issue || !row.windows.length);
       this.rows[id] = accountId ? prior.map((row) => row.id === accountId ? resolved[0] ?? row : row) : resolved;
     } catch (error) {

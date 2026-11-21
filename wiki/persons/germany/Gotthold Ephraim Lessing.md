@@ -79,7 +79,7 @@ updated: 2026-11-21
 ---
 
 > [!person-thesis] 主张一｜以媒介符号特性界定诗画界限，造型艺术应选取富于孕育的瞬间以激发想象力
-> 莱辛吸纳门德尔松关于自然符号与任意符号的媒介区分，论证造型艺术在空间中展开、使用自然符号并列并存，诗歌在时间中展开、使用任意符号相继演进。因此，造型艺术绝不能描摹情感的最顶点，而必须选择能够为观者想象力留下最大自由驰骋空间的“富于孕育的瞬间”；若将顶点直接暴露于眼前，反而会剥夺观赏者的审美能动性。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 18)]]; [[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 81)]]
+> 莱辛吸纳门德尔松关于自然符号与任意符号的媒介区分，论证造型艺术在空间中展开、使用自然符号并列并存，诗歌在时间中展开、使用任意符号相继演进。因此，造型艺术绝不能描摹情感的最顶点，而必须选择能够为观者想象力留下最大自由驰骋空间的“富于孕育的瞬间”；若将顶点直接暴露于眼前，反而会剥夺观赏者的审美能动性。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 18)]]
 >
 > > [!thesis-quote] 《拉奥孔》（1766）
 > > 视觉上展现得越多，留给思考的余地就越大；然而一旦把情感过程的最高点直接呈现在眼前，反而会束缚想象力的翅膀。艺术唯有选取那个最具暗示性的瞬间，才能使想象力保持自由。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 81)]]
@@ -87,7 +87,7 @@ updated: 2026-11-21
 > > *The more we see, the more we must be able to imagine. The more that is added by the imagination, the more we must think we see. But of the entire course of an emotion, nothing is less favorable to this than its highest pitch.*
 
 > [!person-thesis] 主张二｜阐明死神寓言与真正宗教的审美归宿，确立艺术与宗教的内在同源性
-> 在《古人如何描绘死亡》中，莱辛考证古代雕塑将死神塑造成手持倒置火炬的优美青年（睡神的孪生兄弟），有力反驳了中世纪将死神丑化为恐怖骷髅的宗教偏见。他由此提出新柏拉图主义判断：凡被正确理解的真正宗教必将引导人回归美，从而打破了理性主义神学对感官审美的排斥，为后世谢林与索尔格确立艺术与宗教的共生关系提供了直接先声。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 81)]]
+> 在《古人如何描绘死亡》中，莱辛考证古代雕塑将死神塑造成手持倒置火炬的优美青年（睡神的孪生兄弟），有力反驳了中世纪将死神丑化为恐怖骷髅的宗教偏见。他由此提出新柏拉图主义判断：凡被正确理解的真正宗教必将引导人回归美，从而打破了理性主义神学对感官审美的排斥，为后世谢林与索尔格确立艺术与宗教的共生关系提供了直接先声。
 >
 > > [!thesis-quote] 《古人如何描绘死亡》（1769）
 > > 只有被误解的宗教才会使我们疏远艺术；而真正宗教的证明，正在于它处处把我们引回到美。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 81)]]

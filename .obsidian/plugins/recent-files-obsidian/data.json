@@ -5,6 +5,10 @@
       "path": "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照/02 康德.md"
     },
     {
+      "basename": "同一本书不同版本",
+      "path": "file:/Users/shaoyangwu/Documents/zhangyue/docs/同一本书不同版本.md"
+    },
+    {
       "basename": "Argument_Hammermeister_2002_Cambridge_Ch01",
       "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch01.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Knowledge Dashboard",
       "path": "_system/dashboard/Knowledge Dashboard.md"
-    },
-    {
-      "basename": "arguments",
-      "path": "bases/arguments.md"
     }
   ],
   "omittedPaths": [],
