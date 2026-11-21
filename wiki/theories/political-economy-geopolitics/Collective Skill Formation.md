@@ -8,7 +8,7 @@ aliases:
 summary: "比较政治经济学与职业教育社会学的重要理论，由马吕斯·布塞迈尔、克里斯蒂娜·特兰普施、凯瑟琳·西伦及卢卡斯·格拉夫等学者系统发展。理论聚焦企业、工会与国家在职业技能供给中的制度化合作，将集体技能形成界定为雇主主动出资参与培训、行业协会确立全国通用高技能标准、工会保障学徒权益与工资议价的协调型资本主义模式；理论剖析了该体制在应对高等教育学术化膨胀、青年失业危机与超国家技能协议时的演化韧性与混合化重构。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 2
+theory_related_count: 3
 theory_related_level: 0
 theory_related_stars: "☆"
 theory_related_color: "#e5e7eb"
@@ -26,6 +26,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Rohde-Liebenau_Graf_2024_EERJ]]"
+  - "[[Argument_Thelen_2007_RegGov]]"
 confidence: high
 status: active
 created: 2026-11-21

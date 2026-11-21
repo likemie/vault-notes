@@ -25048,8 +25048,6 @@
     "Stringer et al., 2008": "Stringer et al., 2008",
     "Strobel & Van Barneveld (2009)": "Strobel & Van Barneveld, 2009",
     "Strobel & Van Barneveld, 2009": "Strobel & Van Barneveld, 2009",
-    "Strobel et al. (2009)": "Strobel et al., 2009",
-    "Strobel et al., 2009": "Strobel et al., 2009",
     "Strobl et al. (2024)": "Strobl et al., 2024",
     "Strobl et al., 2024": "Strobl et al., 2024",
     "Strom & Boster (2007)": "Strom & Boster, 2007",
@@ -212903,30 +212901,16 @@
         "Strobel & Van Barneveld, 2009",
         "Strobel & Van Barneveld (2009)"
       ],
-      "doi": "",
+      "doi": "10.7771/1541-5015.1046",
       "identity_keys": [
         "Strobel & Van Barneveld, 2009"
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_Erdem_2026_SHE.md"
-      ],
-      "title": ""
-    },
-    "Strobel et al., 2009": {
-      "aliases": [
-        "Strobel et al., 2009",
-        "Strobel et al. (2009)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Strobel et al., 2009"
-      ],
-      "isbn": "",
-      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_Erdem_2026_SHE.md",
         "wiki/concepts/educational-psychology/Theoretical Knowledge.md"
       ],
-      "title": ""
+      "title": "When is PBL more effective? A meta-analysis of meta-analyses comparing PBL to conventional classrooms"
     },
     "Strobl et al., 2024": {
       "aliases": [
