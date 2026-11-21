@@ -7,6 +7,11 @@ aliases:
   - Collective Skill Formation System
 summary: "比较政治经济学与职业教育社会学的重要理论，由马吕斯·布塞迈尔、克里斯蒂娜·特兰普施、凯瑟琳·西伦及卢卡斯·格拉夫等学者系统发展。理论聚焦企业、工会与国家在职业技能供给中的制度化合作，将集体技能形成界定为雇主主动出资参与培训、行业协会确立全国通用高技能标准、工会保障学徒权益与工资议价的协调型资本主义模式；理论剖析了该体制在应对高等教育学术化膨胀、青年失业危机与超国家技能协议时的演化韧性与混合化重构。"
 type: theory
+theory_field: "political-economy-geopolitics"
+theory_related_count: 2
+theory_related_level: 0
+theory_related_stars: "☆"
+theory_related_color: "#e5e7eb"
 tags:
   - theory/political-economy-geopolitics
   - theme/vocational-education
@@ -14,22 +19,11 @@ tags:
   - theme/comparative-education
 related_concepts:
   - "[[Decentralised Cooperation]]"
-  - "[[Open Method of Coordination]]"
-  - "[[Experimentalist Governance]]"
-  - "[[Subsidiarity Principle]]"
-related_theories:
-  - "[[Varieties of Capitalism]]"
-  - "[[Multi-Level Governance]]"
-  - "[[Historical Institutionalism]]"
-related_methods:
-  - "[[Process Tracing]]"
+related_theories: []
+related_methods: []
 related_instruments: []
 related_persons: []
-related_facts:
-  - "[[German Dual Education System]]"
-  - "[[Alliance for Initial and Further Training]]"
-  - "[[European Alliance for Apprenticeships]]"
-  - "[[Federal Institute for Vocational Education and Training]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Rohde-Liebenau_Graf_2024_EERJ]]"
 confidence: high
@@ -61,7 +55,7 @@ updated: 2026-11-21
 > - **2004 — 制度根基确立** 西伦（Thelen, 2004）阐释德国手工业行会法定特权与早期劳工运动对双元制技能形成的长期制度塑造。
 > - **2012 — 政治经济学类型学成型** 布塞迈尔与特兰普施（Busemeyer & Trampusch, 2012）建立四类技能形成体制类型：集体技能体制（德国、瑞士）、市场主导体制（英美）、国家主导体制（法国）及分段技能体制（日本）。
 > - **2018 — 学术化转型与混合化** 格拉夫（Graf, 2018）揭示在高等教育扩张与学术化压力下，集体技能体制通过创设应用型双元制高等教育（Duales Studium）实现制度渐进转型。
-> - **2024 — 超国家实验主义拓展** 罗德-利贝瑙与格拉夫（Rohde-Liebenau & Graf, 2024, pp. 505–506, 511–513）考察欧盟多层治理中欧洲学徒制联盟对集体技能形成要素的吸收，揭示多方自愿平台在跨国软治理中的演进逻辑。
+> - **2024 — 超国家实验主义拓展** 罗德-利贝瑙与格拉夫（[[Argument_Rohde-Liebenau_Graf_2024_EERJ|Rohde-Liebenau & Graf, 2024, pp. 505–506]], 511–513）考察欧盟多层治理中欧洲学徒制联盟对集体技能形成要素的吸收，揭示多方自愿平台在跨国软治理中的演进逻辑。
 
 ---
 
@@ -101,7 +95,7 @@ updated: 2026-11-21
 >
 > | 理论依据 | 分析维度与提问 | 可观察线索与材料 | 判读规则与边界 |
 > |:---------|:---------------|:-----------------|:-----------------|
-> | 命题一：企业出资与标准控制（Busemeyer & Trampusch, 2012） | 企业参与培训的深度与行业中介标准制定权为何？ | 培训费用构成比例（公立财政 vs 私营企业出资）、商会对考核的法定把控权。 | 私营雇主承担主要实务成本且商会把控考核支持集体技能模式；纯学校主导则属于国家统合模式。 |
+> | 命题一：企业出资与标准控制（Busemeyer & Trampusch, 2012） | 企业参与培训的深度与行业中介标准制定权为何？ | 培训费用构成比例（公立财政 vs 私营企业出资）、商会对考核的法定把控权。 | 私营雇主承担主要实务成本且商会把控考核支持集体技能模式；纯学校主导则属于国家学校主导模式。 |
 > | 命题一：劳资共治与工资议价（Thelen, 2014） | 工会在培训规程、津贴设定与用工保护中的参与度为何？ | 工会集体谈判覆盖率、学徒最低津贴协定、三方治理委员会席位。 | 存在制度化劳资共同审议支持集体技能模式；若工会被排除则属于企业单边主导模式。 |
 > | 命题二：应对学术化的制度变迁（Graf, 2018） | 传统学徒制面对学术化压力如何创新教育接口？ | 双元制高等教育注册人数、职业资格与高等教育学分转换框架。 | 出现双元大学专业与继续培训通道表明体制展现混合化自适应；生源持续萎缩提示体制僵化。 |
 

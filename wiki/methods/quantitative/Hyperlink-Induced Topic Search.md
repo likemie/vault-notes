@@ -1,16 +1,20 @@
 ---
 title: Hyperlink-Induced Topic Search
 aliases:
-  - HITS
   - HITS算法
   - HITS 算法
   - 枢纽与权威中心度算法
   - 枢纽与权威算法
   - Kleinberg's HITS
   - Hubs and Authorities
-summary: "由 Jon Kleinberg（1999）提出的有向图节点中心度互促迭代算法。该算法将网络节点划分为两种相互依存的拓扑角色：枢纽（Hubs，指向多个高质量权威节点的节点）与权威（Authorities，被多个高质量枢纽节点所指向的节点）。在科学计量与引文网络分析中，HITS 算法被用于测度科研机构的提名与认可声誉，通过交互迭代计算收敛得到节点的枢纽中心度与权威中心度，揭示知识流动与学术霸权转移的拓扑结构。"
+summary: "由 Jon Kleinberg（1999）提出的有向图节点中心度互促迭代算法。该算法将网络节点划分为两种相互依存的拓扑角色：枢纽（Hubs，指向多个高质量权威节点的节点）与权威（Authorities，被多个高质量枢纽节点所指向的节点）。在科学计量与引文网络分析中，HITS 算法被用于测度科研机构的提名与认可声誉，通过交互迭代稳定求解节点的枢纽中心度与权威中心度，揭示知识流动与学术霸权转移的拓扑结构。"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 5
+method_related_level: 0
+method_related_stars: "☆"
+method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
 tags:
@@ -22,6 +26,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Bibliometric Analysis]]"
+  - "[[Binary Logistic Regression]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -54,8 +59,8 @@ updated: 2026-11-21
 
 > [!method-position] 方法定位
 > - **构念效度** 区别于简单的入度与出度计数，HITS 算法通过邻域节点的质量进行递归赋权，能准确识别出由于连接了重要节点而获得高阶声望的网络结构位置。
-> - **研究者判断** 决定邻接矩阵的边权设定（二值化或频数加权）、迭代收敛阈值 $\epsilon$ 与最大迭代轮次。
-> - **有效性标准** 矩阵主特征向量的谱半径收敛性与节点相对位次排序的稳定性。
+> - **研究者判断** 决定邻接矩阵的边权设定（二值化或频数加权）、迭代终止阈值 $\epsilon$ 与最大迭代轮次。
+> - **有效性标准** 特征向量幂迭代的数值稳定性与节点相对位次排序的一致性。
 > - **不声称回答的问题** 描述性拓扑指标不能推导出行动主体的主观动机，亦不能单独作为因果效应识别的充分证据。
 
 > [!method-stack] 方法层级
@@ -64,7 +69,7 @@ updated: 2026-11-21
 > - **变体与扩展** 包含加权 HITS（Weighted HITS）、时间衰减 HITS 以及与 PageRank 融合的双向排序模型。
 
 > [!dev-timeline] 方法演变
-> - **1999 — 算法提出** Jon Kleinberg 在 *Journal of the ACM* 发表论文，提出超链接网络环境下的 Hub 与 Authority 互促递归模型。
+> - **1999 — 算法提出** Jon Kleinberg 在 *Journal of the ACM* 提出超链接网络环境下的 Hub 与 Authority 互促递归模型。
 > - **2000 年代初 — 科学计量学引入** 被广泛应用于学术评价与引文网络分析，用于识别高影响力学术期刊与核心研究团队。
 > - **2025 — 科学制度史应用** von der Heyden 与 Heinze（2025）将其拓展应用于跨越 70 年的诺贝尔奖提名档案网络，揭示美德科学霸权转移中的大学拓扑地位重构。
 
@@ -91,11 +96,11 @@ updated: 2026-11-21
 > [!formula-step] 步骤二　向量归一化与矩阵特征分解
 > $$\mathbf{a}^{(t)} = \frac{\mathbf{A}^T \mathbf{h}^{(t-1)}}{\|\mathbf{A}^T \mathbf{h}^{(t-1)}\|_2}, \quad \mathbf{h}^{(t)} = \frac{\mathbf{A} \mathbf{a}^{(t)}}{\|\mathbf{A} \mathbf{a}^{(t)}\|_2}$$
 >
-> **这个公式在做什么** 每轮迭代后对权威向量与枢纽向量进行 $L_2$ 范数归一化，防止数值发散。在矩阵形式下，$\mathbf{a}$ 和 $\mathbf{h}$ 分别收敛于矩阵 $\mathbf{A}^T \mathbf{A}$ 与 $\mathbf{A} \mathbf{A}^T$ 的主特征向量。
+> **这个公式在做什么** 每轮迭代后对权威向量与枢纽向量进行 $L_2$ 范数归一化，防止数值发散。在矩阵形式下，$\mathbf{a}$ 和 $\mathbf{h}$ 分别对应矩阵 $\mathbf{A}^T \mathbf{A}$ 与 $\mathbf{A} \mathbf{A}^T$ 的非负主特征向量。
 >
 > **符号说明** $\mathbf{A}$ 为网络有向邻接矩阵；$\mathbf{A}^T$ 为其转置矩阵；$\|\cdot\|_2$ 为欧几里得范数。
 >
-> **数学直觉** 根据佩隆-弗罗贝尼乌斯定理（Perron-Frobenius Theorem），半正定矩阵的幂迭代在适度连接条件下收敛于唯一的非负主特征向量。
+> **数学直觉** 根据佩隆-弗罗贝尼乌斯定理（Perron-Frobenius Theorem），半正定矩阵的幂迭代在适度连通条件下必然求得唯一的非负主特征向量。
 
 > [!example]- 手算示例
 > 假设存在 3 所科研机构构成的微型有向提名网络：机构 1 提名机构 2 与机构 3；机构 2 提名机构 3。
@@ -116,7 +121,7 @@ updated: 2026-11-21
 > - **数据来源** 机构提名档案矩阵或学术引文矩阵。
 > - **核心包或命令** Python `networkx.algorithms.link_analysis.hits` 或基于 `scipy.sparse` 构造特征值求解。
 > - **实现流程** 提取边列表生成有向图，调用 `hits(G, max_iter=100, tol=1e-08)`，导出节点度量字典并映射为可视化节点大小。
-> - **报告标准** 报告迭代收敛容差、最大步数、自环（自提名）的处理方式以及是否采用有权边。
+> - **报告标准** 报告迭代容差阈值、最大步数、自环（自提名）的处理方式以及是否采用有权边。
 
 > [!formula] Python 计算骨架
 > ```python
@@ -140,7 +145,7 @@ updated: 2026-11-21
 > - **数据结构** 有向加权图，节点为机构实体，有向边为提名推荐关系。
 > - **变量** 出边权重对应提名次数，入边权重对应被提名频次。
 > - **识别假设** 网络具备充分的弱连通性，不存在完全孤立的双向不连通子图主导全局主特征向量。
-> - **诊断与检验** 通过调整收敛容差进行稳定性检验，比对二值化图与加权图在核心排位上的稳健性。
+> - **诊断与检验** 通过调整迭代容差参数进行稳定性检验，比对二值化图与加权图在核心排位上的稳健性。
 
 ---
 

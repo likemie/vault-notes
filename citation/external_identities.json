@@ -17111,9 +17111,18 @@
       "doi": "",
       "isbn": "978-0-19-959943-1",
       "seen_in": [
-        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md",
+        "wiki/theories/political-economy-geopolitics/Collective Skill Formation.md"
       ],
       "title": "The Political Economy of Collective Skill Formation"
+    },
+    "Busemeyer et al., 2022": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/political-economy-geopolitics/Collective Skill Formation.md"
+      ],
+      "title": ""
     },
     "Busemeyer, 2009": {
       "doi": "",
@@ -22751,7 +22760,8 @@
       "doi": "https://doi.org/10.1126/sciadv.1400005",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md"
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md",
+        "wiki/concepts/science-policy/Placement Power.md"
       ],
       "title": "Systematic inequality and hierarchy in faculty hiring networks"
     },
@@ -25980,7 +25990,8 @@
       "doi": "",
       "isbn": "978-0-8014-4045-8",
       "seen_in": [
-        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md",
+        "wiki/concepts/comparative-education/Decentralised Cooperation.md"
       ],
       "title": "Creating Cooperation: How States Develop Human Capital in Europe"
     },
@@ -33562,6 +33573,14 @@
         "wiki/facts/switzerland/Swiss Vocational and Professional Education and Training Act.md"
       ],
       "title": "Expertenbericht zur systematischen Steuerung der Berufsbildung in der Schweiz"
+    },
+    "Emmenegger et al., 2019": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Decentralised Cooperation.md"
+      ],
+      "title": ""
     },
     "Emmenegger et al., 2020": {
       "doi": "10.1177/0959680119888885",
@@ -44091,7 +44110,8 @@
       "doi": "10.1093/ser/mwx006",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md",
+        "wiki/theories/political-economy-geopolitics/Collective Skill Formation.md"
       ],
       "title": "Combined modes of gradual change: The case of academic upgrading and declining collectivism in German skill formation"
     },
@@ -46782,6 +46802,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md",
         "wiki/theories/higher-education/Academic Capitalism.md",
+        "wiki/theories/political-economy-geopolitics/Collective Skill Formation.md",
         "wiki/theories/political-economy-geopolitics/Historical Institutionalism.md",
         "wiki/theories/political-economy-geopolitics/Varieties of Capitalism.md"
       ],
@@ -57130,6 +57151,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/comparative-education/Methodological Individualism.md"
+      ],
+      "title": ""
+    },
+    "Jon Kleinberg, 1999": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/methods/quantitative/Hyperlink-Induced Topic Search.md"
       ],
       "title": ""
     },
@@ -70768,6 +70797,14 @@
       "seen_in": [],
       "title": "A meta-analysis of the effects of advance organizers on learning and retention"
     },
+    "Lukas Graf, 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/political-economy-geopolitics/Collective Skill Formation.md"
+      ],
+      "title": ""
+    },
     "Luke, 1996": {
       "doi": "",
       "isbn": "978-0582288928",
@@ -73039,6 +73076,14 @@
       "seen_in": [],
       "title": "An examination of the relationship between students’ use of the Fast ForWord Reading Program and their performance on standardized assessments in elementary schools"
     },
+    "Marius Busemeyer & Christine Trampusch, 2012": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/political-economy-geopolitics/Collective Skill Formation.md"
+      ],
+      "title": ""
+    },
     "Mark Beissinger, 2002": {
       "doi": "",
       "isbn": "",
@@ -73168,6 +73213,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/comparative-education/Multi-Level Governance.md"
+      ],
+      "title": ""
+    },
+    "Marks & Hooghe, 2003": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
       ],
       "title": ""
     },
@@ -73452,6 +73505,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/instruction-pedagogy/Three Levels of Teaching.md"
+      ],
+      "title": ""
+    },
+    "Martin & Graf, 2019": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/political-economy-geopolitics/Collective Skill Formation.md"
       ],
       "title": ""
     },
@@ -88057,6 +88118,14 @@
       ],
       "title": ""
     },
+    "Pepper Culpepper, 2003": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Decentralised Cooperation.md"
+      ],
+      "title": ""
+    },
     "Per-Olof Wickman, 2004": {
       "doi": "",
       "isbn": "",
@@ -97942,7 +98011,8 @@
       "doi": "",
       "isbn": "978-0-19-956053-0",
       "seen_in": [
-        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md",
+        "wiki/concepts/comparative-education/Decentralised Cooperation.md"
       ],
       "title": "Experimentalist governance"
     },
@@ -111697,12 +111767,14 @@
         "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md",
         "wiki/arguments/journal-articles/Politics/Argument_VanDerHeijden_2011_Politics.md",
         "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Hippach-Schneider_Rieder_2022_RCIE.md",
+        "wiki/concepts/comparative-education/Decentralised Cooperation.md",
         "wiki/concepts/political-economy-geopolitics/Institutional Complementarity.md",
         "wiki/concepts/political-economy-geopolitics/Institutional Conversion.md",
         "wiki/concepts/political-economy-geopolitics/Institutional Layering.md",
         "wiki/concepts/political-economy-geopolitics/Subversives.md",
         "wiki/concepts/political-economy-geopolitics/Symbionts.md",
-        "wiki/persons/us/Kathleen Thelen.md"
+        "wiki/persons/us/Kathleen Thelen.md",
+        "wiki/theories/political-economy-geopolitics/Collective Skill Formation.md"
       ],
       "title": "How Institutions Evolve: The Political Economy of Skills in Germany, Britain, the United States, and Japan"
     },
@@ -111718,7 +111790,8 @@
       "doi": "",
       "isbn": "978-1-107-62421-4",
       "seen_in": [
-        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md",
+        "wiki/theories/political-economy-geopolitics/Collective Skill Formation.md"
       ],
       "title": "Varieties of Liberalization and the New Politics of Social Solidarity"
     },
@@ -118582,7 +118655,8 @@
       "doi": "https://doi.org/10.1038/s41586-022-05222-x",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md"
+        "wiki/arguments/journal-articles/PLOS ONE/Argument_VonDerHeyden_Heinze_2025_PLOSONE.md",
+        "wiki/concepts/science-policy/Placement Power.md"
       ],
       "title": "Quantifying hierarchy and dynamics in US faculty hiring and retention"
     },

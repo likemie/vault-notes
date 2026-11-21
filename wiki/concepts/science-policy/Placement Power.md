@@ -10,6 +10,10 @@ aliases:
 summary: "衡量学术机构或资深学者利用其声誉资本与网络层级，成功将门生或被推荐人安置于顶尖教职、学术层级或顶级学术荣誉（如诺贝尔奖）的能力。实证研究（Clauset et al., 2015; Wapman et al., 2022; von der Heyden & Heinze, 2025）表明，学术安置力在声誉网络中呈现极度不均；然而在科学霸权转移过程中，霸权国提名人的平均边际安置效应却显著为负，反映出提名行为的高度同质化分散与自我再生产并未带来对终审裁决的垄断。"
 type: concept
 domain: "science-policy"
+related_count: 6
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept/science-policy
   - theme/sociology-of-science
@@ -88,7 +92,7 @@ updated: 2026-11-21
 > **学术劳动力市场的极端层级陡峭性决定安置力分配** 阿伦·克劳塞特（Aaron Clauset）等人对美国计算机科学、商业与历史学教职流动网络的研究表明，顶尖前 20% 的机构输送了 85% 的终身教职学者；少数精英大学凭借垄断性的机构声誉拥有决定性的安置力，形成自上而下的单向人员输送格局。[[Argument_VonDerHeyden_Heinze_2025_PLOSONE|(von der Heyden & Heinze, 2025, p. 5)]]
 
 > [!claim] Wapman, K. H. et al.
-> **层级固化加剧学术自我再生产与流动闭环** K·亨特·瓦普曼（K. Hunter Wapman）等人基于全美教职聘任大数据的分析表明，高校聘任表现出极强的声誉层级依赖与自我聘用偏好；拥有最高安置力的顶尖机构维持着紧密的声望再生产网络，阻滞了来自底层机构的向上流动。[[Argument_VonDerHeyden_Heinze_2025_PLOSONE|(von der Heyden & Heinze, 2025, pp. 5–6)]]
+> **层级固化加剧学术自我再生产与声誉壁垒** K·亨特·瓦普曼（K. Hunter Wapman）等人基于全美教职聘任大数据的分析表明，高校聘任表现出极强的声誉层级依赖与自我聘用偏好；拥有最高安置力的顶尖机构维持着紧密的声望再生产网络，阻滞了来自底层机构的向上流动。[[Argument_VonDerHeyden_Heinze_2025_PLOSONE|(von der Heyden & Heinze, 2025, pp. 5–6)]]
 
 ---
 

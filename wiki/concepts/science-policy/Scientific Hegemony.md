@@ -9,7 +9,7 @@ aliases:
 summary: "衡量特定国家或学术体制在国际科学界所占据的结构性主导地位与权威层级，表征为在国际同行承认、议程设定、高影响力成果产出与科学精英生产网络中的中心度分布。实证研究通过诺贝尔奖提名网络揭示，科学霸权经历从德国到美国的历史转移，霸权国不仅占据提名网络的核心枢纽与权威节点，其国内学术自我再生产率亦显著上升，但提名垄断并不直接等同于操纵最终授奖裁决。"
 type: concept
 domain: "science-policy"
-related_count: 7
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,11 +20,13 @@ tags:
   - theme/scientific-elite
 related_concepts:
   - "[[Scientific Productivity]]"
+  - "[[Placement Power]]"
   - "[[Scientific Mobility]]"
   - "[[Invisible College]]"
 related_theories: []
 related_methods:
   - "[[Binary Logistic Regression]]"
+  - "[[Hyperlink-Induced Topic Search]]"
 related_instruments: []
 related_persons:
   - "[[Harriet Zuckerman]]"
@@ -35,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 ---
 
 ---
@@ -119,7 +121,7 @@ updated: 2026-11-20
 > | [[Argument_VonDerHeyden_Heinze_2025_PLOSONE\|von der Heyden & Heinze (2025)]] | 1901–1933 年诺贝尔物理学与化学奖提名（$N = 1932$） | 二元 Logistic 回归（控制提名人与被提名人国别） | 美国被提名人获奖概率预测 | 回归系数 $B = -0.11$，$AME = -0.01$ | $SE = 0.26$，$p > 0.05$（不显著），$95\%\text{ CI } [-0.06, 0.04]$ | 证实二战前美国尚未确立科学霸权，其候选人无显著获奖优势 |
 > | [[Argument_VonDerHeyden_Heinze_2025_PLOSONE\|von der Heyden & Heinze (2025)]] | 1934–1969 年诺贝尔物理学与化学奖提名（$N = 6178$） | 二元 Logistic 回归（控制提名人与被提名人国别） | 美国被提名人获奖概率预测 | 回归系数 $B = 0.51$，$AME = 0.05$ | $SE = 0.10$，$p < 0.001$，$95\%\text{ CI } [0.03, 0.07]$ | 证实 1934 年后美国登顶科学霸权，其候选人获得稳健的正向胜出概率 |
 > | [[Argument_VonDerHeyden_Heinze_2025_PLOSONE\|von der Heyden & Heinze (2025)]] | 1934–1969 年诺贝尔物理学与化学奖提名（$N = 6178$） | 二元 Logistic 回归（控制提名人与被提名人国别） | 德国被提名人获奖概率预测 | 回归系数 $B = -0.17$，$AME = -0.01$ | $SE = 0.17$，$p > 0.05$（不显著），$95\%\text{ CI } [-0.04, 0.01]$ | 证实二战后德国科学霸权终结，候选人失去原先的溢价优势 |
-> | [[Argument_VonDerHeyden_Heinze_2025_PLOSONE\|von der Heyden & Heinze (2025)]] | 1901–1969 年全样本（$N = 8110$） | 二元 Logistic 回归 | 霸权国提名人学术安置力（Placement Power） | 德国提名人 $B = -0.39$（$AME = -0.04$）；美国提名人 $B = -0.27$（$AME = -0.03$） | 德国 $SE = 0.06$，$p < 0.001$；美国 $SE = 0.10$，$p < 0.001$ | 揭示霸权国虽垄断提名规模，但提名人推选候选人的成功转化率反而显著偏低 |
+> | [[Argument_VonDerHeyden_Heinze_2025_PLOSONE\|von der Heyden & Heinze (2025)]] | 1901–1969 年全样本（$N = 8110$） | 二元 Logistic 回归 | 霸权国提名人[[Placement Power|学术安置力]]（Placement Power） | 德国提名人 $B = -0.39$（$AME = -0.04$）；美国提名人 $B = -0.27$（$AME = -0.03$） | 德国 $SE = 0.06$，$p < 0.001$；美国 $SE = 0.10$，$p < 0.001$ | 揭示霸权国虽垄断提名规模，但提名人推选候选人的成功转化率反而显著偏低 |
 
 ---
 
@@ -127,10 +129,12 @@ updated: 2026-11-20
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
+> | [[Placement Power]] | 概念 | 科学霸权国在跨国学术推选中的安置转化效率。 |
 > | [[Scientific Productivity]] | 概念 | 科学霸权的核心物质基础与高产出表现。 |
 > | [[Scientific Mobility]] | 概念 | 顶尖科学家跨国迁移是科学霸权发生地理位移的关键催化变量。 |
 > | [[Invisible College]] | 概念 | 跨国无形学院的权威与声誉结构构成了维系科学霸权的无形基质。 |
 > | [[Binary Logistic Regression]] | 方法 | 用于实证检验霸权国身份对候选人获奖概率与提名人安置力效应的计量模型。 |
+> | [[Hyperlink-Induced Topic Search]] | 方法 | 测度霸权转移中有向提名网络机构枢纽度与权威度的拓扑算法。 |
 > | [[Harriet Zuckerman]] | 人物 | 以开创性研究讨论科学精英的声望分配与普遍主义/特殊主义之争。 |
 > | [[Nazi Purge of University Scholars]] | 历史事件 | 纳粹 1933 年政治清洗促成德国科学人才外流并驱动全球霸权向美国转移。 |
 

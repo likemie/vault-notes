@@ -25,11 +25,11 @@ tags:
   - method/process-tracing
 related_concepts:
   - "[[Experimentalist Governance]]"
-  - "[[Open Method of Coordination]]"
-  - "[[European Education Space]]"
   - "[[Government to Governance Shift]]"
-  - "[[Subsidiarity Principle]]"
-related_theories: []
+  - "[[Decentralised Cooperation]]"
+related_theories:
+  - "[[Multi-Level Governance]]"
+  - "[[Collective Skill Formation]]"
 related_methods:
   - "[[Process Tracing]]"
   - "[[Elite Interview]]"
@@ -39,8 +39,6 @@ related_facts:
   - "[[European Alliance for Apprenticeships]]"
   - "[[Alliance for Initial and Further Training]]"
   - "[[German Dual Education System]]"
-  - "[[European Commission]]"
-  - "[[Copenhagen Process]]"
 related_arguments: []
 sources:
   - "[[sources/Rohde-Liebenau_Graf_2024_EERJ/Rohde-Liebenau_Graf_2024_EERJ|Rohde-Liebenau_Graf_2024_EERJ]]"
@@ -54,7 +52,7 @@ title: "Argument_Rohde-Liebenau_Graf_2024_EERJ"
 argument_key: "Argument_Rohde-Liebenau_Graf_2024_EERJ"
 argument_display_title: "Two instruments, one melody: The parallel evolvement of European and German alliances for apprenticeships"
 argument_kind: "journal-article"
-argument_related_count: 12
+argument_related_count: 10
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -88,7 +86,7 @@ issuing_organization: ""
 > | **多层治理驱动机制分析框架**<br>[[Government to Governance Shift]] | 确立四种竞争性假说作为分析坐标：德国驱动假说（自下而上输出）、欧盟驱动假说（自上而下推进）、相互借鉴假说（双向水平互学）与外部驱动假说（跨界宏观危机驱动）（Euler, 2013; Pollack, 1994; Steiner-Khamsi, 2004）。 |
 
 > [!warrant]- 理论如何支撑论证
-> 实验主义治理理论为剖析现代职业教育多边平台提供了核心分析框架（Sabel & Zeitlin, 2012b）。传统科层命令无法跨越欧盟与成员国之间的教育主权壁垒，纯粹的自由市场又无法解决技能投资中的搭便车困境（Busemeyer & Trampusch, 2012; Culpepper, 2003）。实验主义架构通过中介平台设立、自愿承诺认领与同行基准互学，在维系国家自主权的同时创造了政策创新与经验交流空间。通过构建包含单向输出、自上而下传导、水平互学与外部冲击的四维因果分析网格，实验主义治理被操作化为可检验的实证机制，支撑过程追踪法对竞争性假说的经验裁决。
+> [[Multi-Level Governance|多层治理理论]]（Multi-Level Governance）与[[Experimentalist Governance|实验主义治理]]理论为剖析跨越超国家与国家边界的职业教育多边平台提供了核心分析框架（Marks & Hooghe, 2003; Sabel & Zeitlin, 2012b）。传统科层命令无法跨越欧盟与成员国之间的教育主权壁垒，纯粹的自由市场又无法解决[[Collective Skill Formation|集体技能形成体制]]（Collective Skill Formation）中企业投资通用技能面临的搭便车困境（Busemeyer & Trampusch, 2012; Thelen, 2014）。依赖行业商会与工会共治的[[Decentralised Cooperation|去中心化合作]]（Decentralised Cooperation）构成了集体产品的制度微观基础（Culpepper, 2003）。实验主义架构通过中介平台设立、自愿承诺认领与同行基准互学，在维系国家自主权的同时创造了政策创新与经验交流空间。通过构建包含单向输出、自上而下传导、水平互学与外部冲击的多层四维因果分析网格，多层治理理论被操作化为可检验的实证机制，支撑过程追踪法对竞争性假说的经验裁决。
 
 ---
 
@@ -224,8 +222,8 @@ flowchart TD
 在高度不确定的经济转型压力下，单一行政层级与刚性立法手段无法调和劳资分歧，实验主义中介平台成为双边的理性选择。
 
 > [!policy-design] 德欧多层实验主义协商平台的制度架构
-> - **欧盟层面的自愿认领质押平台** 欧洲委员会依托开放协调法（OMC）经验，搭建以自愿认领承诺为核心的中介网络，动员 37 个成员国政府与 360 余家企业及工会提交阶段性行动承诺（European Commission, 2017a, 2021b）。
-> - **德国国内的四方政治共治联盟** 联邦政府依托经济部建立涵盖联邦部门、各州文教部长联席会议（KMK）、行业雇主商会（BDA、DIHK、ZDH）与工会（DGB）的四方联盟，以非正式政治协议与配套扶助计划重塑岗位供需平衡（AAW, 2019）。
+> - **欧盟层面的自愿认领质押平台** 欧洲委员会依托[[Multi-Level Governance|多层治理]]架构与开放协调法（OMC）经验，搭建以自愿认领承诺为核心的中介网络，动员 37 个成员国政府与 360 余家企业及工会提交阶段性行动承诺（European Commission, 2017a, 2021b）。
+> - **德国国内的四方政治共治联盟** 联邦政府依托经济部建立涵盖联邦部门、各州文教部长联席会议（KMK）、行业雇主商会（BDA、DIHK、ZDH）与工会（DGB）的四方联盟，以[[Decentralised Cooperation|去中心化合作]]重塑岗位供需平衡，捍卫了[[Collective Skill Formation|集体技能形成体制]]的制度根基（AAW, 2019; Culpepper, 2003）。
 > - **风险共担与政策迭代机制** 双边平台均通过宽泛目标设定、同行基准比对与去中心化行动，将外部经济不确定性转化为多元主体的共同治理责任（Sabel & Zeitlin, 2012b）。
 
 > [!citation-card] 宏观治理挑战催生跨界治理创新
@@ -270,7 +268,7 @@ flowchart TD
 
 > [!sub-claim] 各国缺乏德国社团主义法治传统，只能零散吸纳实训模块形成混合制度
 
-跨国最佳实践的扩散并未引发各成员国向德国双元制模式的一体化趋同，而是受制于母国制度土壤。
+跨国最佳实践的扩散受制于各成员国的本土制度土壤，呈现出多样化的选择性吸纳格局。
 
 > [!boundary] 跨国政策移植的制度边界与情境化混合
 > - **社团主义制度遗产的不可复制性** 德国双元制深深根植于其特殊的法治化行会社团主义传统、劳资共商集体协议与广泛的公共监督网络（Busemeyer & Trampusch, 2012; Culpepper, 2003; Thelen, 2004），缺乏此类深厚历史制度遗产的国家无法实现该模式的完整落地（Euler, 2013; Wieland, 2015）。

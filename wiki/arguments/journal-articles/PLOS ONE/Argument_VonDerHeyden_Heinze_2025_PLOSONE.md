@@ -20,7 +20,6 @@ tags:
   - methodology/quantitative
 related_concepts:
   - "[[Scientific Hegemony]]"
-  - "[[Placement Power]]"
   - "[[Nationalism]]"
   - "[[Scientific Mobility]]"
   - "[[Scientific Credit]]"
@@ -31,6 +30,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
+  - "[[Placement Power]]"
   - "[[Research Universities]]"
   - "[[Scientific Productivity]]"
   - "[[Champ]]"
@@ -38,9 +38,9 @@ related_concepts:
 related_theories:
   - "[[Hegemony]]"
 related_methods:
+  - "[[Hyperlink-Induced Topic Search]]"
   - "[[Qualitative Codebook]]"
   - "[[Binary Logistic Regression]]"
-  - "[[Hyperlink-Induced Topic Search]]"
   - "[[Confidence Interval]]"
   - "[[Sample Size Determination]]"
   - "[[Standard Error]]"
@@ -62,7 +62,7 @@ title: "Argument_VonDerHeyden_Heinze_2025_PLOSONE"
 argument_key: "Argument_VonDerHeyden_Heinze_2025_PLOSONE"
 argument_display_title: "Decline of German and rise of North-American hegemony in science: Insights from Nobel Prize nominations (Physics/Chemistry, 1901–1969)"
 argument_kind: "journal-article"
-argument_related_count: 25
+argument_related_count: 26
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -111,8 +111,8 @@ journal: "PLOS ONE"
 > |---|---|---|
 > | **成功提名转化与最终获奖** | 被提名人在特定年份是否最终被诺贝尔委员会评选为物理学奖或化学奖得主。 | 二分类[[Dependent Variable\|因变量]]（1 = 最终成为诺贝尔奖得主，0 = 仅为被提名候选人）；全样本包含 8110 次具备完整机构与国别信息的有效观测。 |
 > | **被提名人所属国** | 候选人在接受该次提名时实际任职机构所在的国家主权归属，精准追踪学者跨国迁移。 | 分类[[Independent Variable\|自变量]]：德国、美国、英国、法国，以所有其他国家作为回归参照组；机构归属按提名发生时的当时国界判定（例如斯特拉斯堡大学在 1918 年前编码为德国，此后编码为法国）。 |
-> | **提名人所属国** | 提交推荐信的学者在做出提名时实际任职机构所在的国家主权归属。 | 分类自变量：德国、美国、英国、法国，以所有其他国家作为回归参照组；用以检验提名人的学术安置力（Placement Power，见 Clauset et al., 2015; Wapman et al., 2022）。 |
-> | **机构中心度指标**<br>枢纽与权威中心度（Hub & Authority Centrality） | 衡量科研组织在机构提名有向网络中作为核心推荐者与核心候选产出单位的拓扑权重。 | 采用克莱因伯格（Jon Kleinberg）提出的超链接诱导主题搜索算法（Hyperlink-Induced Topic Search, [[Victorian HITS and Literacy Toolkit\|HITS]]）计算；节点大小对应中心度取值，涵盖巴黎大学、柏林洪堡大学、剑桥大学、哈佛大学、加州理工学院等科研实体。 |
+> | **提名人所属国** | 提交推荐信的学者在做出提名时实际任职机构所在的国家主权归属。 | 分类自变量：德国、美国、英国、法国，以所有其他国家作为回归参照组；用以检验提名人的[[Placement Power|学术安置力]]（Placement Power，见 Clauset et al., 2015; Wapman et al., 2022）。 |
+> | **机构中心度指标**<br>枢纽与权威中心度（Hub & Authority Centrality） | 衡量科研组织在机构提名有向网络中作为核心推荐者与核心候选产出单位的拓扑权重。 | 采用克莱因伯格（Jon Kleinberg）提出的[[Hyperlink-Induced Topic Search|超链接诱导主题搜索算法]]（Hyperlink-Induced Topic Search, [[Hyperlink-Induced Topic Search|HITS]]）计算；节点大小对应中心度取值，涵盖巴黎大学、柏林洪堡大学、剑桥大学、哈佛大学、加州理工学院等科研实体。 |
 > | **本国提名率与机构自荐率** | 提名人与被提名人属于同一国家主权范围或同一学术工作单位的提名占该国或该机构总提名的百分比。 | 连续比率指标（%）；五期移动平均平滑曲线；国家层面涵盖美、德、英、法四国，机构层面涵盖洛克菲勒研究所、加州理工学院、普林斯顿大学、海德堡大学等。 |
 > | **历史分期虚拟变量** | 以 1933 年纳粹政权颁布《专业公务员恢复法》作为外生制度转折点划分的历史区间。 | 分期二分变量：第一阶段（1911–1933 年，$N = 1932$）与第二阶段（1934–1969 年，$N = 6178$）。 |
 >
@@ -125,8 +125,8 @@ journal: "PLOS ONE"
 > |---|---|
 > | **全量解密提名档案挖掘** | 调取诺贝尔基金会官方解密的 1901 至 1969 年物理学与化学奖全部提名档案；采用双人独立核对原则（Four-Eyes Principle）完成数据清洗与标准化纠错，编制详尽的[[Qualitative Codebook\|编码手册]]。 |
 > | **跨国流动学者就职追踪** | 针对每一位提名人与被提名人，逐一考证并补全其提交或接受提名当年的精确学术聘任单位与地理空间坐标，解决战前因纳粹迫害而发生流亡科学家的跨国机构归属判定问题。 |
-> | **机构提名网络拓扑分析** | 构建科研机构间有向加权提名网络；运用 HITS 算法分别测度机构的枢纽中心度（Hub Centrality，发出高质量提名的能力）与权威中心度（Authority Centrality，被高质量机构认可的能力），分 1901–1933 与 1934–1969 两个时段进行网络可视化比对。 |
-> | **计量回归与安置力测度** | 建立二元 [[Binary Logistic Regression\|Logistic 回归]]模型 (Best & Wolf, 2015)，因变量为该次提名是否促成候选人最终获奖，引入提名人国别与被提名人国别虚拟变量，计算平均边际效应（Average Marginal Effects, AME），分时段评估霸权更迭对声望溢价与推荐成功率的净效应。 |
+> | **机构提名网络拓扑分析** | 构建科研机构间有向加权提名网络；运用 [[Hyperlink-Induced Topic Search|HITS 算法]]分别测度机构的枢纽中心度（Hub Centrality，发出高质量提名的能力）与权威中心度（Authority Centrality，被高质量机构认可的能力），分 1901–1933 与 1934–1969 两个时段进行网络可视化比对。 |
+> | **计量回归与安置力测度** | 建立二元 [[Binary Logistic Regression\|Logistic 回归]]模型 (Best & Wolf, 2015)，因变量为该次提名是否促成候选人最终获奖，引入提名人国别与被提名人国别虚拟变量，计算平均边际效应（Average Marginal Effects, AME），分时段评估霸权更迭对声望溢价与推荐成功率的净效应，实证测度提名人的[[Placement Power|学术安置力]]。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -181,7 +181,7 @@ journal: "PLOS ONE"
 > *注：采用 5 年移动平均。清晰反映 1934 年前后德国与美国在提名人与被提名人整体分布中所占比例的结构性倒转。*
 
 > [!sub-claim] 2. 国际提名网络的核心机构从欧洲传统大学转向北美研究型大学
-> 机构层面的有向提名拓扑网络生动展现了学术地理重心的迁移。借助 HITS 算法分别测算各机构的枢纽度（推举优质候选人的能力）与权威度（被同行集中推荐的声誉），网络图直观证实了全球顶级学术阵营的大洗牌。
+> 机构层面的有向提名拓扑网络生动展现了学术地理重心的迁移。借助 [[Hyperlink-Induced Topic Search|HITS 算法]]分别测算各机构的枢纽度（推举优质候选人的能力）与权威度（被同行集中推荐的声誉），网络图直观证实了全球顶级学术阵营的大洗牌。
 
 > [!figure]- 图4：基于枢纽与权威中心度的科研机构提名网络图（1901–1933 与 1934–1969）
 > ![](https://img.mylikemie.icu/sources/VonDerHeyden_Heinze_2025_PLOSONE/figures/VonDerHeyden_Heinze_2025_PLOSONE_Fig4_Organizational_Nomination_Network.jpg)
@@ -241,7 +241,7 @@ journal: "PLOS ONE"
 ---
 
 > [!claim|step] 论证步骤三　霸权国候选人获奖优势显著，但提名人无法操纵终审结果
-> 运用二元 Logistic 回归对提名能否最终促成获奖进行计量分析，结果呈现出候选人声誉优势与提名人安置力之间的鲜明落差，彻底打破了霸权国能一手掌控诺贝尔奖评选的直觉假设 (Best & Wolf, 2015; Zuckerman, 1977)。
+> 运用二元 Logistic 回归对提名能否最终促成获奖进行计量分析，结果呈现出候选人声誉优势与提名人[[Placement Power|学术安置力]]之间的鲜明落差，彻底打破了霸权国能一手掌控诺贝尔奖评选的直觉假设 (Best & Wolf, 2015; Zuckerman, 1977)。
 
 > [!sub-claim] 1. 霸权国候选人胜出概率更高，但提名人的推荐成功率反而显著下降
 > 基于 8110 次有效提名的全样本回归表明，来自霸权国的候选人最终获奖的概率显著提高，但来自霸权国的提名人成功推中得主的概率却显著降低。
@@ -290,7 +290,7 @@ journal: "PLOS ONE"
 > - **90% 峰值** 德国在 1910 年代科学鼎盛时期的本国提名率。
 > - **51% 比例** 洛克菲勒研究所学者内部互荐的高额自荐率。
 > - **0.10 vs 0.05** 1933 年前德国候选人与 1934 年后美国候选人分别享有的显著平均获奖边际增益（AME）。
-> - **-0.04 与 -0.03** 全样本中德国与美国提名人安置力的平均边际效应（AME），均在 $p < 0.001$ 水平下显著为负。
+> - **-0.04 与 -0.03** 全样本中德国与美国提名人[[Placement Power|学术安置力]]的平均边际效应（AME），均在 $p < 0.001$ 水平下显著为负。
 
 ---
 
@@ -305,7 +305,7 @@ journal: "PLOS ONE"
 > *While Crawford interprets high levels of own-country nominations as indicative of national chauvinism, we take a broader perspective on self-nominations that accounts for their structural role in scientific recognition. As explicitly prohibited by the Nobel Prize Statutes, self-nomination in the strict sense - scholars nominating themselves - does not occur. Instead, we define self-nominations as cases where scientists nominate colleagues from their own organizational or national affiliation, which represents the closest possible form of self-nomination within the given rules. This practice aligns with broader patterns of academic self-reproduction, such as universities hiring their own PhD graduates, which is particularly prevalent among high-status institutions. It reflects mechanisms of social closure and elite cohesion, where established networks reinforce their own members' visibility and prestige.*
 
 > [!citation-card] 提名权垄断与最终裁决效力的分离
-> 统计分析表明，霸权国提名人在安置候选人方面仅具有边缘优势甚至无明确效果，这表明获得提名权以及积累大量提名，与掌控最终的授奖结果并不能等同。二元 Logistic 回归模型显示，来自德国和美国的提名人在成功推举候选人方面显著不及其他国家。霸权国享有极高的候选人声誉，却伴随着提名人安置力的偏低，证明诺贝尔评选程序在吸纳地缘声誉的同时有效抵御了单一强权的集团垄断。
+> 统计分析表明，霸权国提名人在安置候选人方面仅具有边缘优势甚至无明确效果，这表明获得提名权以及积累大量提名，与掌控最终的授奖结果并不能等同。二元 Logistic 回归模型显示，来自德国和美国的提名人在成功推举候选人方面显著不及其他国家。霸权国享有极高的候选人声誉，却伴随着提名人[[Placement Power|学术安置力]]的偏低，证明诺贝尔评选程序在吸纳地缘声誉的同时有效抵御了单一强权的集团垄断。
 >
 > *Statistical analysis shows only marginal advantages for nominees and no clear effects for nominators, suggesting that securing nomination rights as well as nominations is not the same as controlling the outcomes... However, nominators' placement power shows a different pattern, indicating that nominators from Germany and the United States are less successful in placing their candidates compared to other countries.*
 

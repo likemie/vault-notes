@@ -856,6 +856,17 @@
     ]
   },
   {
+    "title": "Decentralised Cooperation",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Decentralised Cooperation.md",
+    "aliases": [
+      "去中心化合作",
+      "分权式合作",
+      "分散式协作",
+      "Decentralized Cooperation"
+    ]
+  },
+  {
     "title": "Deductive Rationality",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Deductive Rationality.md",
@@ -19867,6 +19878,19 @@
     ]
   },
   {
+    "title": "Placement Power",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Placement Power.md",
+    "aliases": [
+      "学术安置力",
+      "安置力",
+      "推荐安置力",
+      "机构安置力",
+      "academic placement power",
+      "placement prestige"
+    ]
+  },
+  {
     "title": "Pluralistic Federal Funding System",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Pluralistic Federal Funding System.md",
@@ -25489,6 +25513,17 @@
     ]
   },
   {
+    "title": "Collective Skill Formation",
+    "type": "theory",
+    "path": "wiki/theories/political-economy-geopolitics/Collective Skill Formation.md",
+    "aliases": [
+      "集体技能形成",
+      "集体技能形成理论",
+      "集体技能形成体制",
+      "Collective Skill Formation System"
+    ]
+  },
+  {
     "title": "Comparative Regionalism",
     "type": "theory",
     "path": "wiki/theories/political-economy-geopolitics/Comparative Regionalism.md",
@@ -29712,6 +29747,19 @@
       "MLM",
       "Multilevel Model",
       "Multilevel Linear Model"
+    ]
+  },
+  {
+    "title": "Hyperlink-Induced Topic Search",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Hyperlink-Induced Topic Search.md",
+    "aliases": [
+      "HITS算法",
+      "HITS 算法",
+      "枢纽与权威中心度算法",
+      "枢纽与权威算法",
+      "Kleinberg's HITS",
+      "Hubs and Authorities"
     ]
   },
   {

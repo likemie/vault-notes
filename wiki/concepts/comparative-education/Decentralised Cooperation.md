@@ -7,6 +7,11 @@ aliases:
   - Decentralized Cooperation
 summary: "佩珀·卡尔珀珀等学者提出的比较政治经济学构念，用以解释法德等国在技能培训与公共服务供给中如何克服集体行动困境。去中心化合作指国家通过法律赋权与中介平台激励地方雇主、行业商会、工会与培训机构形成横向信任与多边协作网络，自主提供技能认证与培训岗位等集体产品，避免企业因担心技能外溢被挖角而放弃投资；在德欧学徒制联盟中，去中心化合作构成了实验主义自愿认领质押平台的微观制度基础。"
 type: concept
+domain: "comparative-education"
+related_count: 13
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/comparative-education
   - theme/vocational-education
@@ -17,19 +22,19 @@ related_concepts:
   - "[[Open Method of Coordination]]"
   - "[[Subsidiarity Principle]]"
 related_theories:
+  - "[[State Corporatism]]"
   - "[[Collective Skill Formation]]"
+  - "[[Historical Institutionalism]]"
   - "[[Multi-Level Governance]]"
   - "[[Varieties of Capitalism]]"
-  - "[[Historical Institutionalism]]"
-related_methods:
-  - "[[Process Tracing]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[German Dual Education System]]"
   - "[[Alliance for Initial and Further Training]]"
   - "[[European Alliance for Apprenticeships]]"
   - "[[Federal Institute for Vocational Education and Training]]"
+  - "[[German Dual Education System]]"
 related_arguments:
   - "[[Argument_Rohde-Liebenau_Graf_2024_EERJ]]"
 confidence: high
@@ -107,14 +112,14 @@ updated: 2026-11-21
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **集体行动维系命题** | 中介网络与声誉机制克服挖角搭便车风险 | 雇主自主出资的通用技能培训体制 | Culpepper (2003); Emmenegger et al. (2019) |
-> | **柔性适应治理命题** | 多方联盟协商替代刚性立法以应对供需错配 | 面对青年失业与技术转型的公共治理危机 | Rohde-Liebenau and Graf (2024) |
+> | **柔性适应治理命题** | 多方联盟协商替代刚性立法以应对供需错配 | 面对青年失业与技术转型的公共治理危机 | [[Argument_Rohde-Liebenau_Graf_2024_EERJ\|Rohde-Liebenau and Graf (2024)]] |
 
 ---
 
 > [!dev-timeline] 概念演变
 > - **2003 — 概念创立** 卡尔珀珀（Culpepper, 2003）在《创建合作》（*Creating Cooperation*）中系统阐释去中心化合作，剖析法国与东德职教改革在建立地方雇主信任网络方面的成败。
 > - **2019 — 技能体制深化** 埃梅内格尔等学者（Emmenegger et al., 2019）结合集体技能形成理论，将去中心化合作作为解释协调市场经济体稳定性的核心构件。
-> - **2024 — 超国家拓展** 罗德-利贝瑙与格拉夫（Rohde-Liebenau & Graf, 2024, pp. 505–506, 511–513）将去中心化合作概念扩展至德欧多层学徒制联盟的对比分析，阐明其在实验主义多利益相关方软法治理中的跨国应用。
+> - **2024 — 超国家拓展** 罗德-利贝瑙与格拉夫（[[Argument_Rohde-Liebenau_Graf_2024_EERJ|Rohde-Liebenau & Graf, 2024, pp. 505–506]]）将去中心化合作概念扩展至德欧多层学徒制联盟的对比分析，阐明其在实验主义多利益相关方软法治理中的跨国应用。
 
 ---
 
@@ -124,7 +129,7 @@ updated: 2026-11-21
 > > 争论去中心化合作是否只能在特定具有百年行会传统的社团主义国家生效，抑或能够通过政策借用在其他国家建立。
 > >
 > > - **历史制度主义观点（Thelen, 2004; Culpepper, 2003）** 强调去中心化合作高度依赖长期形成的商会法定代表权与互信规范，在缺乏强中介的自由主义市场国家强行移植极易因企业搭便车而瓦解。
-> > - **实验主义治理学者（Rohde-Liebenau & Graf, 2024; Sabel & Zeitlin, 2012b）** 认为虽无法全盘照搬深层制度，但去中心化合作中的“自愿认领质押”、“同行互学”等具体工具可剥离为柔性平台机制，在多样化体制中发挥协调功能。
+> > - **实验主义治理学者（[[Argument_Rohde-Liebenau_Graf_2024_EERJ|Rohde-Liebenau & Graf, 2024]]; Sabel & Zeitlin, 2012b）** 认为虽无法全盘照搬深层制度，但去中心化合作中的“自愿认领质押”、“同行互学”等具体工具可剥离为柔性平台机制，在多样化体制中发挥协调功能。
 
 > [!warning|limits] 适用局限
 > 去中心化合作以各方具有实质议价能力与基本共识为前提。当劳资对立严重、工会力量被边缘化，或行业商会缺乏对企业成员的实质监督约束力时，去中心化协商容易退化为企业资方的单边公关宣传，导致自愿承诺流于形式。[[Argument_Rohde-Liebenau_Graf_2024_EERJ|(Rohde-Liebenau & Graf, 2024, pp. 513–515)]]
