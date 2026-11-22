@@ -5,6 +5,10 @@
       "path": "output/数智时代的科研范式变革与人文社会科学的未来.md"
     },
     {
+      "basename": "# 人工智能时代的科研范式之变与人文社会科学的新境",
+      "path": "# 人工智能时代的科研范式之变与人文社会科学的新境.md"
+    },
+    {
       "basename": "03 席勒",
       "path": "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照/03 席勒.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "School Choice",
       "path": "wiki/concepts/sociology-of-education/School Choice.md"
-    },
-    {
-      "basename": "Emic and Etic",
-      "path": "wiki/concepts/research-methodology/Emic and Etic.md"
     }
   ],
   "omittedPaths": [],
