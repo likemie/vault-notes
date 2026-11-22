@@ -70,6 +70,14 @@ updated: 2026-11-15
 
 ---
 
+> [!dev-timeline] 概念演变
+> - **古希腊 — 实践伦理源头** [[Aristotle|亚里士多德]]的共同体实践伦理传统，成为黑格尔界定社会风习的思想来源。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 91)]]
+> - **1790–1798 — 康德对习惯性道德的内在张力** [[Immanuel Kant|伊曼努尔·康德]]（Immanuel Kant）在《判断力批判》（§59）中认为审美涵泳可促成习惯性的道德关切，而在《实用人类学》中则呈现内在张力：§10 强调德性绝不可沦为机械习惯而须常新生发自思维方式（*Denkungsart*），§12 又承认社会角色扮演有助于将伪装的德性转化为习惯性德性，这一习惯道德难题直接呼应了黑格尔后来所称的“伦理”（*Sittlichkeit*）。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 38–39, 221 n.18)]]
+> - **1817–1835 — 黑格尔客观精神体系化** 黑格尔在《哲学全书纲要》与美学讲演中将社会风习确立为客观精神核心，并以此批判浪漫反讽脱离共同体现实。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 91, 93)]]
+> - **当代 — 诠释学重构艺术真理** 哈默迈斯特以各社会互异的社会风习为落脚点，论证艺术在现代哲学之后依然保有不可替代的真理地位。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 104–105)]]
+
+---
+
 > [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关系 |
@@ -78,10 +86,11 @@ updated: 2026-11-15
 > | [[Romantic Irony]] | 概念 | 黑格尔以社会风习的要求为依据，批判浪漫反讽切断现实纽带 [[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, p. 93)]]。 |
 > | [[End of Art]] | 概念 | 呈现各异社会风习为“艺术终结”后的当代艺术真理提供新出路 [[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, p. 104)]]。 |
 > | [[Hegel's Aesthetics]] | 理论 | 贯穿黑格尔客观精神基础与当代诠释学修正的关键桥梁 [[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, pp. 91, 93, 104)]]。 |
+> | [[Immanuel Kant]] | 人物 | 在《判断力批判》与《实用人类学》中对习惯性道德抱有内在张力，构成黑格尔“伦理”概念的重要前史 [[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 38–39, 221 n.18)]]。 |
 > | [[Georg Wilhelm Friedrich Hegel]] | 人物 | 将社会风习确立为客观精神核心并在美学中加以运用的哲学家 [[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, pp. 91, 93)]]。 |
 > | [[Aristotle]] | 人物 | 其共同体实践伦理传统为黑格尔“社会风习”概念提供思想来源 [[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, p. 91)]]。 |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002, Ch. 5)]] — 说明社会风习在黑格尔客观精神中的位置、对浪漫反讽的批判功能，以及作为当代艺术真理载体的重构路径（pp. 91, 93, 104）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]析康德对习惯性道德的内在张力（p. 221 n.18）；第 5 章论黑格尔社会风习与艺术真理重构（pp. 91, 93, 104）。

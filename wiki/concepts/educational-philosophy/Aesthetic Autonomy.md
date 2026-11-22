@@ -96,6 +96,7 @@ updated: 2026-11-21
 > - **[[Epistemology|认识论]]独立** 确立独立于逻辑证明且无法被概念穷尽的[[Aesthetic Truth|审美真理]]，使美学脱离逻辑学辅助工具的地位。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 12–13)]]
 > - **表象与对象的剥离** 区分对象的实际完美与主体中表象的完美，使自然界中既不善也不美的对象也能在艺术再现中达到感性完美。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 17)]]
 > - **官能与伦理的区隔** 设立独立于认知与欲望的[[Disinterested Pleasure|赞许能力]]（*Billigungsvermögen*），并划定艺术舞台道德与现实生活道德的边界。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 18–19)]]
+> - **先验形式自足与天才立法** 康德借[[Disinterested Pleasure|无利害的快感]]、[[Purposiveness without Purpose|无目的的合目的性]]与[[Aesthetic Genius|天才]]自然立法，使鉴赏判断与艺术创作同时摆脱概念认识、实用功利与学院规条的束缚。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 28–32, 35–36)]]
 
 ---
 
@@ -119,7 +120,7 @@ updated: 2026-11-21
 > **独立地位与认识论代价** 康德论证艺术在与理性比较认知潜力时注定处于劣势，因此唯有将审美判断从真理与道德判断中剥离出来，才能赋予艺术独立哲学尊严。
 
 > [!claim] Hammermeister, K.
-> **脱离认知而留存道德象征** 《判断力批判》确立[[Judgment of Taste|鉴赏判断]]既独立于理论认知又独立于实践道德，却同时担任沟通二者的桥梁；这一方案虽使艺术摆脱了“低级认知”或“伦理婢女”的附庸地位，但也大幅削弱了艺术与真理的关联（[[Hans-Georg Gadamer|伽达默尔]]在《真理与方法》中对此批评），同时康德仍在第 59 节通过“美作为道德的象征”以及习惯性道德准备重新将审美导向道德生活。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 22–23, 38–41, 219 n.4)]]
+> **脱离认知而留存道德象征** 《判断力批判》确立[[Judgment of Taste|鉴赏判断]]既独立于理论认知又独立于实践道德，却同时担任沟通二者的桥梁；这一方案虽使艺术摆脱了“低级认知”或“伦理婢女”的附庸地位，但也大幅削弱了艺术与真理的关联（[[Hans-Georg Gadamer|伽达默尔]]在《真理与方法》中对此批评）。与此同时，康德仍在第 17 节将显现道德性的人体确立为美的最高理想、在第 52 节指出脱离道德观念的艺术终将令人厌倦，并在第 59 节通过“美是德性之善的象征”与习惯性的道德关切将审美重新引向[[Sittlichkeit|伦理生活]]；1798 年《实用人类学》（§64）更承认日常审美兼具鉴赏判断与知性判断，从而在一定程度上相对化了第三批判纯粹非认知的立场。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 22–25, 38–41, 219 n.4, 220 n.8)]]
 
 ---
 

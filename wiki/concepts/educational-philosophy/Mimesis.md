@@ -38,7 +38,7 @@ updated: "2026-11-16"
 ---
 
 > [!def] Mimesis
-> **摹仿（Mimesis，亦译模仿）** 是自古希腊以来贯穿西方艺术理论的核心哲学范畴，原义兼具表演（performance）与潜能（potentiality）等多重面向。在 18 世纪及古典唯心论中，[[Georg Wilhelm Friedrich Hegel|黑格尔]]（Georg Wilhelm Friedrich Hegel）严格区分再现的“正确性（*Richtigkeit*）”与艺术作品的“真理（*Wahrheit*）”，系统反驳了将艺术贬为对外部现实被动照相式复写的自然主义观点。20 世纪美学则对摹仿展开深刻重构：卡西尔将其界定为审美形式转化，卢卡奇以[[Typicality|典型性]]建构现实主义，伽达默尔回归毕达哥拉斯式秩序见证，而[[Theodor Adorno|阿多诺]]则把摹仿颠覆为主体向客体温柔依偎（*Anschmiegung*）的前概念亲和性，以此打破概念统治暴力并庇护[[The Nonidentical|非同一性]]。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 94–96)]]；[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 203–205)]]
+> **摹仿（Mimesis，亦译模仿）** 是自古希腊以来贯穿西方艺术理论的核心哲学范畴，原义兼具表演（performance）与潜能（potentiality）等多重维度。在 18 世纪及古典唯心论中，[[Georg Wilhelm Friedrich Hegel|黑格尔]]（Georg Wilhelm Friedrich Hegel）严格区分再现的“正确性（*Richtigkeit*）”与艺术作品的“真理（*Wahrheit*）”，系统反驳了将艺术贬为对外部现实被动照相式复写的自然主义观点。20 世纪美学则对摹仿展开深刻重构：卡西尔将其界定为审美形式转化，卢卡奇以[[Typicality|典型性]]建构现实主义，伽达默尔回归毕达哥拉斯式秩序见证，而[[Theodor Adorno|阿多诺]]则把摹仿颠覆为主体向客体温柔依偎（*Anschmiegung*）的前概念亲和性，以此打破概念统治暴力并庇护[[The Nonidentical|非同一性]]。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 94–96)]]；[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 203–205)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 艺术作品与外部世界实在之间的再现、复写、象征结构或客体顺应关系。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 95–96)]]
@@ -109,9 +109,9 @@ updated: "2026-11-16"
 ---
 
 > [!dev-timeline] 概念演变
-> - **古希腊 — 摹仿概念的哲学发端** 柏拉图在《理想国》将艺术视作影子的影子，亚里士多德在《诗学》则将摹仿提升为探索潜能与本质的理性活动。
+> - **古希腊 — 摹仿概念的哲学发端** [[Plato|柏拉图]]（Plato）在《理想国》卷十将画中之床视作隔着三层的影子的影子，但亦曾提及直接洞见理念的“秘传摹仿”（esoteric mimesis），后来启发了[[Friedrich Wilhelm Joseph Schelling|谢林]]与[[Arthur Schopenhauer|叔本华]]的艺术哲学；[[Aristotle|亚里士多德]]在《诗学》中则将摹仿提升为探索潜能与本质的理性活动。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 22, 219 n.1)]]
 > - **1817–1835 — 黑格尔清算自然主义复制论** 黑格尔严格区分形式正确性与内在真理，宣告机械摹仿不能充当艺术哲学的基础。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 95–96)]]
-> - **1920s — 卡西尔的形式转化论** 卡西尔重释柏拉图，将摹仿奠基于艺术自主形式的集中强化与象征转化之上。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, p. 157)]]
+> - **1920s — 卡西尔的形式转化论** 卡西尔重释柏拉图，将摹仿建立在艺术自主形式的集中强化与象征转化之上。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, p. 157)]]
 > - **1963 — 卢卡奇现实主义摹仿体系化** 卢卡奇以典型性与党性原则重构摹仿，将其确立为透视历史矛盾的认知手段。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 163–164)]]
 > - **1970 — 阿多诺顺应客体的现代主义颠覆** 阿多诺彻底剥离摹仿的描摹外观属性，将其重塑为主体体贴客体（*Anschmiegung*）的非暴力认识论机制。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 203–205)]]
 
@@ -153,4 +153,4 @@ updated: "2026-11-16"
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — 第 5 章析黑格尔摹仿论局限（pp. 95–96）；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析卡西尔形式转化与卢卡奇典型摹仿（pp. 157, 163–164）；[[Argument_Hammermeister_2002_Cambridge_Ch09|第 9 章]]析伽达默尔秩序重释（pp. 178–192）；[[Argument_Hammermeister_2002_Cambridge_Ch10|第 10 章]]析阿多诺客体顺应摹仿（pp. 203–205）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]述柏拉图秘传摹仿；第 5 章析黑格尔反摹仿；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析卡西尔与卢卡奇；[[Argument_Hammermeister_2002_Cambridge_Ch09|第 9 章]]析伽达默尔；[[Argument_Hammermeister_2002_Cambridge_Ch10|第 10 章]]析阿多诺客体顺应摹仿。

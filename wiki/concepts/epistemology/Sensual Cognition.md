@@ -119,7 +119,7 @@ updated: 2026-11-21
 
 ---
 
-> [!critique] 对“低级认识论”方案的批判与理论演进
+> [!critique|notitle] 外部批评
 > - **等级比较中的结构性劣势** 康德虽赞赏鲍姆加登作为形而上学家的敏锐，却断定其将美学建立在“感性认知”基础之上的进路走入了死胡同：一旦把感性认知界定为低于理性的低级认知官能，并在认知精确度上与理性竞争，艺术与美便注定在认识论竞赛中居于劣势。这一反思促使康德在《判断力批判》中彻底切断审美判断与概念认知的从属纽带。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 22–23)]]
 > - **克尔凯郭尔对认知维度的剥离** [[Søren Kierkegaard|索伦·克尔凯郭尔]]（Søren Kierkegaard）越过唯心论把美学回溯至前鲍姆加登的 *aisthesis*（感官知觉），却将感性窄化为情欲吸引力，彻底丢弃了低级认识论（*gnoseologia inferior*）中感性所承担的认知功能，在理论精密性上退回至德国唯心论之前。[[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, pp. 132, 135)]]
 
@@ -139,5 +139,5 @@ updated: 2026-11-21
 
 ---
 
-> [!evidence-grid] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 第 1 章剖析鲍姆加登开创低级认识论（pp. 5–9）；第 2 章析康德批判（pp. 22–23）；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]析克尔凯郭尔丧失感性认知维度（p. 135）。
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 第 1 章剖析鲍姆加登开创低级认识论（pp. 5–9）；[[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]析康德批判（pp. 22–23）；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]析克尔凯郭尔丧失感性认知维度（p. 135）。

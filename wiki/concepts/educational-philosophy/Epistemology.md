@@ -334,6 +334,7 @@ updated: 2026-11-21
 > [!dev-timeline] 概念演变
 > - **古希腊源起时期 — 确证真信念与理性求索** [[Plato|柏拉图]]在《泰阿泰德篇》（Theaetetus）中提出知识的经典[[Construct|构念]]——“确证的真信念”（Justified True Belief, JTB），开启西方认识论探究[[Source of Knowledge|知识来源]]与真理标准的哲学传统。
 > - **近代哲学革命 — 理性主义与[[Empiricism|经验主义]]论战** 勒内·[[René Descartes|笛卡尔]]（René Descartes）以理性演绎为基石，[[John Locke|约翰·洛克]]（John Locke）与[[Francis Bacon|弗朗西斯·培根]]（Francis Bacon）以经验归纳与白板说立论，系统确立认识论在哲学探究中的枢纽地位。
+> - **1790 — 康德切断审美判断与概念认识** [[Immanuel Kant|伊曼努尔·康德]]（Immanuel Kant）在《判断力批判》中采取强硬的非认知美学立场，宣称审美判断无涉概念认知与真理问题，借此确立美学独立性，却也引发伽达默尔与德国唯心论此后围绕艺术认知地位的持续争辩。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 22–23, 40)]]
 > - **1800–1807 — 德国唯心论与早期浪漫派的审美认识论转向** 谢林与[[Jena Romantics|耶拿浪漫派]]论证命题判断必然制造主客分裂，将艺术与[[Aesthetic Intuition|审美直观]]确立为先于并支撑科学真理的最高认识器官，开启了现代存在论[[Philosophical Aesthetics|美学]]与[[Instrumental Rationality|工具理性]]批判的先声，也引发[[Georg Wilhelm Friedrich Hegel|黑格尔]]对哲学地位的体系反转。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 67–75, 85–86)]]
 > - **1818 — [[Arthur Schopenhauer|叔本华]]的意志工具论与反理性主义逆转** [[Arthur Schopenhauer|阿图尔·叔本华]]将[[Immanuel Kant|康德]]的范畴体系简化为单一的[[Principle of Sufficient Reason|充足理由律]]，将认知降格为服务盲目意志的工具，同时又宣称脱离因果关联的审美静观能直觉柏拉图理念，但在排除概念与理性后未能阐明承担此认知的心智官能。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 113–115, 119–120, 126–127)]]
 > - **1966–1970 — 阿多诺非同一性认识论与批判理论美学** 阿多诺在《否定辩证法》（1966）与《[[Aesthetic Theory|美学理论]]》（1970）中系统批判概念思维的同一化暴力，将自律艺术形式与顺应客体的摹仿性依偎确立为庇护[[The Nonidentical|非同一性]]与受苦历史的认识论器官，反思现代美学放弃[[Epistemic Commitments|认识论承诺]]所带来的虚无死胡同。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 194–197, 203–205, 214–216)]]
@@ -422,7 +423,7 @@ updated: 2026-11-21
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 阐明经济合作与发展组织（OECD）如何通过 PISA 确立脱离国家具体课程的全新评价认识论，将教育产出重新界定为面向未来生活与知识经济的通用胜任力及非认知自我效能感，驱动欧洲教育治理的量化技术理性（pp. 26–27, 35）。
 > - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 结合[[Interpretive Policy Analysis|解释性政策分析]]解构超国家政策文本中的修辞隐喻与排他性认识论层级，倡导重构兼顾制度使能环境与地方认知正义的包容性决策生态。
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 对系统改进实证[[Document|文献]]开展质性综合，对比了理性选择、文化制度、课程规制与协作网络四大路径在因果解释与变革机制上的认识论假设分歧。
-> - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch04|第 4]]、[[Argument_Hammermeister_2002_Cambridge_Ch06|6 章]]析浪漫派审美认识论与叔本华意志工具论；[[Argument_Hammermeister_2002_Cambridge_Ch09|第 9 章]]析海德格尔真理事件与科学正确性之分及伽达默尔艺术认知论；[[Argument_Hammermeister_2002_Cambridge_Ch10|第 10 章]]析阿多诺非同一性真理器官与当代美学放弃认识论的虚无困境（pp. 194–216）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch02|第 2]]、[[Argument_Hammermeister_2002_Cambridge_Ch04|4]]、[[Argument_Hammermeister_2002_Cambridge_Ch06|6]]、[[Argument_Hammermeister_2002_Cambridge_Ch09|9]]、[[Argument_Hammermeister_2002_Cambridge_Ch10|10 章]]依次析康德非认知美学、浪漫派审美认识论、叔本华意志工具论、海德格尔与伽达默尔艺术真理及阿多诺非同一性认识论。
 > - [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] — 提出“比较认知”（comparatively knowing）认识论构想，批判比较教育将认识论降格为技术程序争吵，确立垂直[[Case Study|案例研究]]跨越普遍主义与极端相对主义的多尺度认识论框架（pp. 95–97, 100–101）。
 > - [[Argument_Munch_2014_TCR|Münch (2014)]] — 剖析经合组织 PISA 通用基础素养（实用主义认识论）与德国本土人文教养（Bildung）及深度学科分化传统之间的认识论冲突，揭示外部标准化规制对本土知识生态的侵蚀（pp. 4–7）。
 
