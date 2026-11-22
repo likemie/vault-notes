@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-12
-updated: 2026-11-16
+updated: 2026-11-23
 ---
 
 ---
@@ -140,6 +140,10 @@ updated: 2026-11-16
 > - **大众传播与民族共同体想象** 黑格尔关于读报替代晨祷的哲学洞见，经由安德森的理论阐发，成为理解现代人在均质空的时间中通过大众印刷媒介确证横向同志情谊的经典分析范式。
 > - **艺术史学科与现代艺术终结论** 将内容美学与历史发展观念结合，为 19 世纪人文学科中的艺术史建立提供方法范式，并经由伽达默尔、丹托与罗森克兰茨延展为现代艺术自主性论辩与丑学传统。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 88–89, 102–108)]]
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Cole_2005_JRIE|Cole (2005)]] — 批判主导当代国际课程的黑格尔式教化，指责其以理性规训压抑主观情感。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — 考察黑格尔哲学：[[Argument_Hammermeister_2002_Cambridge_Ch04|第 4]]–[[Argument_Hammermeister_2002_Cambridge_Ch05|5 章]]析黑格尔美学；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析卢卡奇黑格尔转向与异化扬弃。
+
 ---
 
 > [!person-network] 关系网络
@@ -183,9 +187,3 @@ updated: 2026-11-16
 > | [[Hegel's Aesthetics\|黑格尔美学]] | 理论 | 将美界定为理念的感性显现，并将历史艺术形式与门类媒介系统平行整合。 |
 > | [[Immanuel Kant\|伊曼努尔·康德]] | 人物 | 批判吸收其主体性与范畴论，将先验唯心论推展为绝对历史辩证法。 |
 > | [[Karl Rosenkranz\|卡尔·罗森克兰茨]] | 人物 | 门下弟子，撰写《丑的美学》延续并突破黑格尔的总体性与美丑边界。 |
-
----
-
-> [!evidence-grid-a|notitle]
-> - [[Argument_Cole_2005_JRIE|Cole (2005)]] — 批判主导当代国际课程的黑格尔式教化，指责其以理性规训压抑主观情感。
-> - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — 考察黑格尔哲学：[[Argument_Hammermeister_2002_Cambridge_Ch04|第 4]]–[[Argument_Hammermeister_2002_Cambridge_Ch05|5 章]]析黑格尔美学；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析卢卡奇黑格尔转向与异化扬弃。

@@ -88,7 +88,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-11-21
+updated: 2026-11-23
 ---
 
 ---
@@ -136,7 +136,7 @@ updated: 2026-11-21
 > [!person-thesis] 主张一｜超越经验的永恒理型才是真知对象，几何学为心智提供了确定性知识典范
 > 感官所感知的具体物质世界是个别、生灭与变动不居的意见世界，唯有超越经验之外的永恒“理型”（Forms）才是真实存在的真知对象。心智高于感官，几何学迫使心智注视永恒之物，凭借纯粹演绎推理达成绝对精确与自洽，为人类认知树立了令日常经验相形见绌的绝对确定性知识理想[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 24–25)]]。这一理性主义立场将确定性与演绎论证置于经验归纳之上，深远塑造了西方追求客观确凿知识的传统。
 >
-> > [!thesis-quote]
+> > [!thesis-quote] 《理想国》（*Republic*）
 > > 几何学迫使人注视存在……因为几何学的知识是关于永恒之物的。它提供了令日常经验知识相形见绌的确定性理想。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 24–25)]]
 > >
 > > *Geometry forces the soul to gaze at being... for geometric knowledge is knowledge of what always exists. It provides an ideal of certainty that dwarfs everyday empirical knowledge.*
@@ -144,7 +144,7 @@ updated: 2026-11-21
 > [!person-thesis] 主张二｜人类理性知识源于灵魂先验回忆，教育本质在于促成灵魂转向理性光明
 > 真正的人类理性知识源自心智通过逻辑推理对灵魂先天固存理念的“回忆”（Anamnesis）。在[[Meno|《美诺篇》]]中，苏格拉底引导未经教育的童奴自主发现正方形倍面积定理，展示了人类心智所蕴含的先验理性潜能[[Argument_Li_2012_Cambridge|(Li, 2012, p. 28)]]。教育的要义在于促使整个人格灵魂从感官虚妄的暗影彻底实现向理性光明的“转向”（periagoge），引导求知者由意见世界提升至真知境界。
 >
-> > [!thesis-quote]
+> > [!thesis-quote] 《斐多篇》／《会饮篇》转述
 > > 智慧之人用心智去认识美本身或善本身。对事物真实面貌的沉思本身就是一种净化过程，可以将人带入神性之中。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 27–28)]]
 > >
 > > *The wise use their mind to know beauty itself or goodness itself. Contemplation of the true nature of things was itself a process of purification that brought one into the presence of the divine.*
@@ -152,7 +152,7 @@ updated: 2026-11-21
 > [!person-thesis] 主张三｜国家应依据天赋资质建立逐级教育筛选，由鄙弃名利的哲学家王执掌统治责任
 > 理想城邦应基于公民天赋资质建立由低到高逐级筛选的国家教育体制，历经文艺体育熏陶、数学几何深造推进至辩证法研习，选拔出最高智慧与德性具备者执政。统治城邦的哲学家王因深知至善理型而鄙弃金钱与世俗荣誉，仅出于城邦正义责任担当权力[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 254)]]。城邦的正义建立在理性统御意气、意气辅佐理性并节制欲望的和谐等级秩序之上。
 >
-> > [!thesis-quote]
+> > [!thesis-quote] 《理想国》（*Republic*）
 > > 善者不会为了金钱或荣誉而同意执政，因为他们没有野心。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Plato, The Republic / Karp & Zamiska, 2025, p. 254)]]
 > >
 > > *Good men will not consent to govern for cash or honours, for they aren't ambitious.*
@@ -164,7 +164,7 @@ updated: 2026-11-21
 > - **方法路径** 将对话录确立为体系化哲学推演文体，建立了以几何公理化演绎、定义辨析与逻辑反诘为核心的论证[[Paradigm|范式]]，奠定了西方分析哲学与形式逻辑的探究根基。
 > - **制度路径** 雅典学院确立了西方高等学术研究与讲学机构的组织模型；其分阶段递进筛选理念深刻渗透进西方中世纪大学与现代精英高等教育分流制度。
 > - **治理哲学与公共行政反思** 《理想国》善者执政假设深刻影响了西方对从政者道德修养的古典期待，成为现代公共行政学反思道德乌托邦与低薪寻租病理的重要理论源头[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 254)]]。
-> - **美学传统交锋** 柏拉图因艺术为影子的摹仿（[[Mimesis|摹仿论]]）而将诗人驱逐出理想国，构成了西方[[Philosophical Aesthetics|哲学美学]]中论证艺术真理性必须克服的古典对立面；[[Ernst Cassirer|卡西尔]]与[[Theodor Adorno|阿多诺]]均在重估摹仿与自然美时重新审视柏拉图的古典命题[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 156–157)]]; [[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 200–204)]]。
+> - **美学传统交锋** 柏拉图在《理想国》卷十将画中之床贬为与理念隔着三层的影子的摹仿（[[Mimesis|摹仿论]]）而将诗人驱逐出理想国，构成了西方[[Philosophical Aesthetics|哲学美学]]中论证艺术真理性必须克服的古典对立面；与此同时，他提及的直接洞见理念的“秘传摹仿”（esoteric mimesis）启发了谢林与叔本华，[[Ernst Cassirer|卡西尔]]与[[Theodor Adorno|阿多诺]]亦在重估摹仿与自然美时重新审视柏拉图的古典命题[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 22, 219 n.1)]]; [[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 156–157)]]; [[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 200–204)]]。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 全面梳理柏拉图在西方学习传统中的核心位置，系统对比西方智力天赋导向与东亚儒家修身努力导向。
@@ -204,7 +204,6 @@ updated: 2026-11-21
 > [!critique] 批评索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 结合[[John Dewey|杜威]]与弗雷尔的批判教育学视角，批判柏拉图阶层固定化教育选拔观与专制治理倾向。
 > - [[Argument_Naeem_2026_Episteme|Naeem (2026)]] — 从现代教育 AI 交互规范出发，解构柏拉图《美诺篇》几何问答中的预设唯一正解局限。
-> - [[Argument_Li_2012_Cambridge|Li (2012)]] — 剖析柏拉图精英选拔体系对[[Western Learner|西方学习者]]天赋观念差异的文化塑造。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|Karp & Zamiska (2025)]] — 批判《理想国》善者不为名利执政的假定对现代公共治理激励机制造成的扭曲。
 > - [[Argument_Hammermeister_2002_Cambridge_Ch10|Hammermeister (2002, Ch. 10)]] — 评析阿多诺对柏拉图将摹仿贬为“影子的影子”的批判与对艺术真理含量的重建。
 

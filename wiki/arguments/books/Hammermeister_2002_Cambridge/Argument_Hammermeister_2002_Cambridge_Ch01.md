@@ -87,7 +87,7 @@ updated: 2026-11-23
 > 在[[Immanuel Kant|康德]]（Immanuel Kant）1790年《判断力批判》确立现代[[Philosophical Aesthetics|哲学美学]][[Paradigm|范式]]之前，18世纪德国思想界如何从[[Gottfried Wilhelm Leibniz|莱布尼茨]]—沃尔夫（Leibniz-Wolff）理性主义形而上学体系内部孕育出独立的哲学美学？[[Alexander Gottlieb Baumgarten|亚历山大·戈特利布·鲍姆加登]]（Alexander Gottlieb Baumgarten）的[[Sensual Cognition|感性认知]]论（*cognitio sensitiva*）与[[Moses Mendelssohn|摩西·门德尔松]]（Moses Mendelssohn）的情感心理学进路各自如何为感性与艺术争取哲学尊严，又为何最终仍停留在前范式（pre-paradigmatic）阶段？
 
 > [!claim] 核心主张
-> 18世纪德国前康德美学以巩固莱布尼茨—沃尔夫理性主义形而上学为初衷，却在推进中动摇了理性主义根基并使美学作为独立学科存留下来：鲍姆加登通过重估清晰而混淆的认知（clear and confused cognition）确立了独立于逻辑的[[Aesthetic Truth|审美真理]]（aesthetic truth），门德尔松则将重心转向审美愉悦、[[Disinterested Pleasure|赞许能力]]（*Billigungsvermögen*）与人性完善，共同勾勒出[[Ontology|本体论]]、[[Epistemology|认识论]]与实践功能三大美学维度，为康德范式与德国古典主义[[Aesthetic Education|美育]]开辟了道路。
+> 18世纪德国前康德美学以巩固莱布尼茨—沃尔夫理性主义形而上学为初衷，却在推进中动摇了理性主义根基并使美学作为独立学科存留下来：鲍姆加登通过重估[[Clear and Confused Cognition|清晰而混淆的认知]]（clear and confused cognition）确立了独立于逻辑的[[Aesthetic Truth|审美真理]]（aesthetic truth），门德尔松则将重心转向审美愉悦、[[Disinterested Pleasure|赞许能力]]（*Billigungsvermögen*）与人性完善，共同勾勒出[[Ontology|本体论]]、[[Epistemology|认识论]]与实践功能三大美学维度，为康德范式与德国古典主义[[Aesthetic Education|美育]]开辟了道路。
 
 > [!concept-lens] 阅读透镜
 > - **考察对象** 德国哲学美学传统在18世纪中期的初创阶段，涵盖方法论设定（Preface, pp. ix–xv）以及鲍姆加登与门德尔松的美学体系（pp. 3–20）。
@@ -100,7 +100,7 @@ updated: 2026-11-23
 > | 理论工具 | 解释功能 |
 > |---|---|
 > | **三维比较框架**<br>（Ontological / Epistemic / Practical） | 贯通全书的三项核心比较维度，分别追问艺术的本体规定、艺术与美的认识价值以及艺术对人的实践功能，用于横向通盘考察不同思想家的美学立场（Preface, pp. xiv–xv）。 |
-> | **莱布尼茨认知层级谱系**<br>[[Gottfried Wilhelm Leibniz\|莱布尼茨]] | 将人类认知划分为晦暗认知（obscure cognition，含[[Petites Perceptions\|微知觉]] *petites perceptions*）、清晰而混淆的认知（clear and confused cognition）、清晰而分明的认知（clear and distinct cognition）以及充分直观认知（adequate and intuitive knowledge）四个层级，为定位感性认知与美的认识论位置提供思想史底板（pp. 5–6）。 |
+> | **莱布尼茨认知层级谱系**<br>[[Gottfried Wilhelm Leibniz\|莱布尼茨]] | 将人类认知划分为晦暗认知（obscure cognition，含[[Petites Perceptions\|微知觉]] *petites perceptions*）、[[Clear and Confused Cognition\|清晰而混淆的认知]]（clear and confused cognition）、清晰而分明的认知（clear and distinct cognition）以及充分直观认知（adequate and intuitive knowledge）四个层级，为定位感性认知与美的认识论位置提供思想史底板（pp. 5–6）。 |
 > | **逻辑—本体论等价性**<br>[[Logico-Ontological Equivalence\|逻辑—本体论等价性]] | 基于上帝创世（*creatio Dei*）前提，假定现实结构与逻辑、物理、数学表达的理性法则完全一致，构成早期德国美学试图补全并最终突破的形而上学母体（pp. 5, 11）。 |
 
 ---
@@ -141,7 +141,7 @@ updated: 2026-11-23
 > | 认知层级 | 认识论特征与心理机制 | 典型例证与哲学地位 |
 > |---|---|---|
 > | **晦暗认知**<br>（Obscure Cognition） | 未进入清晰反思意识、无法形成概念界定与对象识别的[[Petites Perceptions\|微知觉]]（*petites perceptions*） | 听到波涛轰鸣却无法分辨单个浪花拍击声；构成潜意识与感性体验的基础（p. 5） |
-> | **清晰而混淆的认知**<br>（Clear and Confused Cognition） | 能够整体识别具体对象及其生动鲜明的感性特征，但无法逐一析出孤立属性并给出逻辑公理定义 | 艺术与美所属层面；体现为评判诗歌画作优劣时只可意会的“不可言传之物”（*je ne sais quoi*）（pp. 5–6） |
+> | **[[Clear and Confused Cognition\|清晰而混淆的认知]]**<br>（Clear and Confused Cognition） | 能够整体识别具体对象及其生动鲜明的感性特征，但无法逐一析出孤立属性并给出逻辑公理定义 | 艺术与美所属层面；体现为评判诗歌画作优劣时只可意会的“不可言传之物”（*je ne sais quoi*）（pp. 5–6） |
 > | **清晰而分明的认知**<br>（Clear and Distinct Cognition） | 能够逐项分解列举对象包含的全部构成要素并给出完备的形式定义 | 几何学、算术与纯粹逻辑命题；仅有极少数人类抽象思维能达到此境界（p. 5） |
 > | **充分直观认知**<br>（Adequate and Intuitive Knowledge） | 瞬间同时洞察对象本质的全部内在联系与细微特征，完全摒除中介符号与感性要素 | 上帝全知心智拥有的最高神圣认知；在无感性成分的神圣心智中并不存在美的范畴（pp. 5–6） |
 

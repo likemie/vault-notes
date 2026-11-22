@@ -90,7 +90,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-11-21
+updated: 2026-11-23
 ---
 
 ---
@@ -115,7 +115,7 @@ updated: 2026-11-21
 > - **1781** 出版第一批判《纯粹理性批判》，宣告先验批判哲学诞生，完成认识论的哥白尼式转向。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. ix)]]
 > - **1784** 发表里程碑启蒙论著《答复这个问题：“什么是启蒙？”》，提出勇于运用理性的时代宣言。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009, p. 20)]]
 > - **1785–1788** 相继出版《道德形而上学奠基》与第二批判《实践理性批判》，确立绝对命令与理性自律道德哲学。
-> - **1790** 出版第三批判《判断力批判》，沟通自然必然性与道德自由，开启德国哲学美学的范式时代。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. ix–x, 3, 20)]]
+> - **1790** 出版第三批判《判断力批判》，沟通自然必然性与道德自由，开启德国哲学美学的范式时代。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. ix–x, 3, 20)]]；[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 21–24, 39–41)]]
 > - **1795** 针对欧洲战争局势发表《论永久和平》，构想主权共和国联盟与世界公民款待权法权框架。
 > - **1803** 由林克协助整理出版《论教育学》，系统阐发教育在人类从动物自然向道德自律进化中的阶梯功能。[[Argument_Li_2012_Cambridge|Li (2012, p. 35)]]
 > - **1804** 在柯尼斯堡逝世，墓碑铭刻其名言：“头顶的星空与心中的道德律”。
@@ -129,7 +129,7 @@ updated: 2026-11-21
 >   - **阶段转向** 受到休谟经验怀疑论的启发，深感经验论无法提供确定性知识基石，决心重构理性心智的合法权利界限。
 > - **1781–1790 — 批判哲学确立时期（三大批判体系建构）** 集中回应知、行、望三大哲学终极问题。
 >   - **代表著作** 《纯粹理性批判》（1781/1787）、《道德形而上学奠基》（1785）、《实践理性批判》（1788）、《判断力批判》（1790）。
->   - **关键概念／方法** 哥白尼式革命、先天综合判断、先验感性形式、知性范畴、物自体、定言律令、意志自律。[[Argument_Li_2012_Cambridge|Li (2012, pp. 25–26, 30)]]
+>   - **关键概念／方法** 哥白尼式革命、先天综合判断、先验感性形式、知性范畴、物自体、定言律令、意志自律、[[Judgment of Taste|鉴赏判断]]、[[Disinterested Pleasure|无利害的快感]]、[[Purposiveness without Purpose|无目的的合目的性]]、[[Aesthetic Idea|审美意象]]、[[The Sublime|崇高]]、[[Aesthetic Genius|天才]]。[[Argument_Li_2012_Cambridge|Li (2012, pp. 25–26, 30)]]；[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 27–39)]]
 >   - **阶段转向** 在现象界与本体界之间建立严格划分，将人类心智确立为能动立法的主体。
 > - **1784–1803 — 历史哲学、政治世界主义与教育实践应用时期** 将理性自律原则外推至人类历史进程、国际政治秩序与代际教育培养之中。
 >   - **代表著作** 《答复这个问题：“什么是启蒙？”》（1784）、《论永久和平》（1795）、《论教育学》（1803）。
@@ -154,16 +154,24 @@ updated: 2026-11-21
 > >
 > > *Two things fill the mind with ever new and increasing admiration and reverence: the starry heavens above me and the moral law within me.*
 
+> [!person-thesis] 主张三｜鉴赏判断独立于概念认识与感官欲望，借自由游戏、天才立法与道德象征确立美学自主范式
+> 为弥合自然必然性与道德自由之间的裂隙，康德将[[Judgment of Taste|鉴赏判断]]从理论认知与道德说教中抽离，以无利害、主观普遍性、[[Purposiveness without Purpose|无目的的合目的性]]与必然愉悦四重契机界定美，借想象力与知性的[[Free Play|自由游戏]]以及不可概念穷尽的[[Aesthetic Idea|审美意象]]确立[[Aesthetic Autonomy|审美自主性]]；同时借助[[Aesthetic Genius|天才]]自然立法、[[The Sublime|崇高]]唤醒超感性道德抵抗力以及“美是德性之善的象征”，使审美在脱离直接功利的同时成为通向习惯性道德关切的桥梁。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 21–23, 28–39)]]
+>
+> > [!thesis-quote] 《判断力批判》（1790），§59
+> > 如今我说，美是德性之善的象征；而且唯有在这一层面上，它方带着期许普遍赞同的诉求而令人愉悦；与此同时，心灵亦体认到某种高尚与升华，超脱出对感官快感的单纯被动领受。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, p. 38)]]
+> >
+> > *Now, I say: The beautiful is the symbol of the morally good; and only in this respect does it please with the claim to everyone's agreement; simultaneously, the mind becomes aware of a certain ennoblement and an elevation above the mere receptivity to pleasure from sense perceptions.*
+
 ---
 
 > [!influence-path] 影响路径
 > - **认识论与学习科学路径** 康德的哥白尼式革命击碎了心灵被动接受印记的白板说，提出心智主动加工经验的架构，构成了现代[[Cognitive Constructivism|认知建构主义]]与概念认知科学的思想先声。[[Argument_Li_2012_Cambridge|Li (2012, pp. 25–26, 30)]]
-> - **哲学美学范式确立路径** 在《判断力批判》中确立美学作为独立学科的首个强范式，提出[[Judgment of Taste|鉴赏判断]]、[[Disinterested Pleasure|无功利愉悦]]与[[Aesthetic Idea|审美理念]]，成为黑格尔、海德格尔、伽达默尔与阿多诺美学的共同理论起点。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. ix–x, 17–20)]]
+> - **哲学美学范式确立路径** 在《判断力批判》中确立美学作为独立学科的首个强范式，提出[[Judgment of Taste|鉴赏判断]]、[[Disinterested Pleasure|无功利愉悦]]与[[Aesthetic Idea|审美意象]]，成为黑格尔、海德格尔、伽达默尔与阿多诺美学的共同理论起点。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. ix–x, 17–20)]]；[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 21–24, 39–41)]]
 > - **国际关系英国学派与革命主义传统** 马丁·怀特将康德确立为革命主义传统的始祖，确立普遍人类共同体与永久和平蓝图。[[Argument_Klerides_2023_CE|Klerides (2023, p. 418)]]
 > - **比较教育学启蒙纽带** 其启蒙自主性与永久和平论断启发了学科始祖朱利安，推动比较教育学走向和平治理范式。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009, pp. 20, 22–24)]]
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 析康德美学范式确立（第 1–2 章）及后世黑格尔与法兰克福学派的批判回响（第 5、7、8、9 章）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch01|第 1]]–[[Argument_Hammermeister_2002_Cambridge_Ch02|2 章]]析康德美学强范式确立，[[Argument_Hammermeister_2002_Cambridge_Ch05|第 5]]、[[Argument_Hammermeister_2002_Cambridge_Ch07|7]]章析后世黑格尔与尼采回响。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009)]] — 考证康德启蒙哲学如何直接催生朱利安比较教育的永久和平蓝图。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 阐释怀特国际理论框架中的康德革命主义传统及其道德世界主义影响。
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 在西方知识确定性传统中剖析康德范畴论对调和唯理论与经验论的贡献。
@@ -218,4 +226,7 @@ updated: 2026-11-21
 > | [[Revolutionism\|革命主义]] | 概念 | 国际关系英国学派界定的世界主义传统原型，以普遍人类共同体与永久和平为终极指针。 |
 > | [[Wight's Three Traditions of International Theory\|怀特国际理论三大传统]] | 理论 | 构成三大传统中与现实主义、理性主义并立的康德式世界主义道德传统。 |
 > | [[Bildung\|教化]] | 概念 | 将教育界定为人从动物自然走向理性自律的唯一途径，深远滋养德意志教化传统。 |
+> | [[Judgment of Taste\|鉴赏判断]] | 概念 | 在《判断力批判》中以四重契机规定鉴赏判断，确立独立于概念认识与欲望的审美范式。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 27–32)]] |
+> | [[Aesthetic Autonomy\|审美自主性]] | 概念 | 切断审美与真理认知、直接道德说教的绑缚，赋予艺术与美独立哲学地位。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 22–23, 39–41)]] |
+> | [[The Sublime\|崇高]] | 概念 | 区分数学的崇高与力学的崇高，揭示崇高唤醒主体超越感性的道德抵抗力。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 32–34)]] |
 > | [[Marc-Antoine Jullien\|马克-安托万·朱利安]] | 人物 | 启迪朱利安将启蒙理性与永久和平诉求转化为跨国教育比较观察表的行动蓝图。 |

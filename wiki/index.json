@@ -5097,6 +5097,18 @@
     ]
   },
   {
+    "title": "Analogon Rationis",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Analogon Rationis.md",
+    "aliases": [
+      "理性类似物",
+      "理性对等物",
+      "感性作为理性的类似物",
+      "analogue of reason",
+      "analogon of reason"
+    ]
+  },
+  {
     "title": "Animal Symbolicum",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Animal Symbolicum.md",
@@ -5329,6 +5341,18 @@
       "civil religion",
       "secular civic religion",
       "世俗公民宗教"
+    ]
+  },
+  {
+    "title": "Clear and Confused Cognition",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Clear and Confused Cognition.md",
+    "aliases": [
+      "清晰而混淆的认知",
+      "混淆认知",
+      "混淆表象",
+      "cognitio clara et confusa",
+      "verworrene Erkenntnis"
     ]
   },
   {
@@ -6758,6 +6782,19 @@
     "aliases": [
       "无目的的合目的性",
       "Purposiveness without a Purpose"
+    ]
+  },
+  {
+    "title": "Regelpoetik",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Regelpoetik.md",
+    "aliases": [
+      "规则诗学",
+      "规范诗学",
+      "规条诗学",
+      "poetics of rules",
+      "Regelpoetiken",
+      "normative poetics"
     ]
   },
   {
@@ -33796,6 +33833,16 @@
     ]
   },
   {
+    "title": "Jean-Baptiste Dubos",
+    "type": "person",
+    "path": "wiki/persons/france/Jean-Baptiste Dubos.md",
+    "aliases": [
+      "让-巴蒂斯特·杜博斯",
+      "杜博斯",
+      "Dubos, J.-B."
+    ]
+  },
+  {
     "title": "Jean-François Champollion",
     "type": "person",
     "path": "wiki/persons/france/Jean-François Champollion.md",
@@ -34064,6 +34111,16 @@
     ]
   },
   {
+    "title": "Christian Wolff",
+    "type": "person",
+    "path": "wiki/persons/germany/Christian Wolff.md",
+    "aliases": [
+      "克里斯蒂安·沃尔夫",
+      "沃尔夫",
+      "Wolff, C."
+    ]
+  },
+  {
     "title": "Christiane Thompson",
     "type": "person",
     "path": "wiki/persons/germany/Christiane Thompson.md",
@@ -34278,6 +34335,16 @@
     ]
   },
   {
+    "title": "Georg Friedrich Meier",
+    "type": "person",
+    "path": "wiki/persons/germany/Georg Friedrich Meier.md",
+    "aliases": [
+      "乔治·弗里德里希·迈尔",
+      "迈尔",
+      "Meier, G. F."
+    ]
+  },
+  {
     "title": "Georg Wilhelm Friedrich Hegel",
     "type": "person",
     "path": "wiki/persons/germany/Georg Wilhelm Friedrich Hegel.md",
@@ -34468,6 +34535,16 @@
       "卡尔·马克思",
       "马克思",
       "Marx, K."
+    ]
+  },
+  {
+    "title": "Karl Philipp Moritz",
+    "type": "person",
+    "path": "wiki/persons/germany/Karl Philipp Moritz.md",
+    "aliases": [
+      "卡尔·菲利普·莫里茨",
+      "莫里茨",
+      "Moritz, K. P."
     ]
   },
   {
@@ -36008,6 +36085,16 @@
     ]
   },
   {
+    "title": "Anthony Ashley-Cooper",
+    "type": "person",
+    "path": "wiki/persons/uk/Anthony Ashley-Cooper.md",
+    "aliases": [
+      "第三代沙夫茨伯里伯爵",
+      "沙夫茨伯里",
+      "Ashley-Cooper, A."
+    ]
+  },
+  {
     "title": "Anthony D. Smith",
     "type": "person",
     "path": "wiki/persons/uk/Anthony D. Smith.md",
@@ -36205,6 +36292,15 @@
     "aliases": [
       "Wiliam, D.",
       "迪伦·威廉"
+    ]
+  },
+  {
+    "title": "Edmund Burke",
+    "type": "person",
+    "path": "wiki/persons/uk/Edmund Burke.md",
+    "aliases": [
+      "埃德蒙·伯克",
+      "Burke, E."
     ]
   },
   {

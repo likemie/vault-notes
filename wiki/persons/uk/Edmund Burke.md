@@ -9,10 +9,10 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 7
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 8
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1729"
 died: "1797"
 lifespan: "1729–1797"
@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-11-23"
-updated: "2026-11-23"
+updated: 2026-11-23
 ---
 
 ---

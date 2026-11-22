@@ -10,10 +10,10 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 8
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 9
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1679"
 died: "1754"
 lifespan: "1679–1754"
@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-11-23"
-updated: "2026-11-23"
+updated: 2026-11-23
 ---
 
 ---
