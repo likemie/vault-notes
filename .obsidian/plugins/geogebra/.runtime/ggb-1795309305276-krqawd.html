@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>GeoGebra</title>
+<style>
+  html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background: #fff;
+  }
+  #ggb-host, #ggb {
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+  }
+</style>
+<script src="https://www.geogebra.org/apps/deployggb.js"></script>
+</head>
+<body>
+<div id="ggb-host">
+  <div id="ggb"></div>
+</div>
+<script>
+(function () {
+  function fail(msg) {
+    document.body.textContent = msg;
+    document.body.style.padding = "16px";
+    document.body.style.fontFamily = "sans-serif";
+    document.body.style.color = "#b00020";
+  }
+  function hostSize() {
+    var host = document.getElementById("ggb-host");
+    var w = host ? host.clientWidth : 0;
+    var h = host ? host.clientHeight : 0;
+    return {
+      w: Math.max(Math.floor(w || window.innerWidth || 320), 100),
+      h: Math.max(Math.floor(h || window.innerHeight || 640), 100)
+    };
+  }
+  function applySize(api) {
+    var s = hostSize();
+    try {
+      if (api && typeof api.setSize === "function") api.setSize(s.w, s.h);
+      else if (window.ggbApplet && typeof window.ggbApplet.setSize === "function") {
+        window.ggbApplet.setSize(s.w, s.h);
+      }
+    } catch (e) {}
+  }
+  function applyUi(api) {
+    if (!api) return;
+    try {
+      if (typeof api.enableRightClick === "function") {
+        api.enableRightClick(false);
+      }
+    } catch (e) {}
+    var algebraView = "auto";
+    if (algebraView === "show" || algebraView === "hide") {
+      try {
+        if (typeof api.setPerspective === "function") {
+          api.setPerspective(algebraView === "show" ? "+A" : "-A");
+        } else if (typeof api.evalCommand === "function") {
+          api.evalCommand(algebraView === "show" ? 'SetPerspective("+A")' : 'SetPerspective("-A")');
+        }
+      } catch (e) {}
+    }
+  }
+  try {
+    var params = {"appName":"classic","width":320,"height":640,"showToolBar":true,"showAlgebraInput":true,"showMenuBar":false,"allowStyleBar":true,"enableRightClick":false,"enableShiftDragZoom":true,"enableLabelDrags":true,"showResetIcon":false,"errorDialogsActive":true,"language":"zh","preventFocus":false,"autoHeight":false,"ggbBase64":"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"};
+    var initial = hostSize();
+    params.width = Math.max(initial.w, 320);
+    params.height = Math.max(initial.h, 640);
+    params.appletOnLoad = function (api) {
+      applyUi(api);
+      applySize(api);
+      window.setTimeout(function () { applyUi(api); applySize(api); }, 0);
+      window.setTimeout(function () { applyUi(api); applySize(api); }, 250);
+      document.documentElement.setAttribute("data-ggb-ready", "1");
+    };
+    if (typeof GGBApplet !== "function") {
+      fail("无法加载 GeoGebra 引擎，请检查网络是否能访问 geogebra.org");
+      return;
+    }
+    var applet = new GGBApplet(params, true);
+    applet.inject("ggb");
+    window.addEventListener("resize", function () { applySize(window.ggbApplet); });
+    if (typeof ResizeObserver === "function") {
+      var ro = new ResizeObserver(function () { applySize(window.ggbApplet); });
+      var host = document.getElementById("ggb-host");
+      if (host) ro.observe(host);
+    }
+  } catch (err) {
+    fail(String(err && err.message ? err.message : err));
+  }
+})();
+</script>
+</body>
+</html>

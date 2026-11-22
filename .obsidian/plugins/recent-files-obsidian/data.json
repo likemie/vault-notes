@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Combined Weighting AHP-EWM",
+      "path": "wiki/methods/quantitative/Combined Weighting AHP-EWM.md"
+    },
+    {
+      "basename": "Combinatorial Novelty Measurement",
+      "path": "wiki/methods/quantitative/Combinatorial Novelty Measurement.md"
+    },
+    {
       "basename": "03 席勒",
       "path": "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照/03 席勒.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "宗白华_西方美学散文_翻译风格",
       "path": "output/美学翻译/宗白华_西方美学散文_翻译风格.md"
-    },
-    {
-      "basename": "Combinatorial Novelty Measurement",
-      "path": "wiki/methods/quantitative/Combinatorial Novelty Measurement.md"
     },
     {
       "basename": "Collective Credit Allocation Algorithm",
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Silova_2009_EE",
       "path": "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
-    },
-    {
-      "basename": "Argument_McCormick_2012_CER",
-      "path": "wiki/arguments/journal-articles/Comparative Education Review/Argument_McCormick_2012_CER.md"
     }
   ],
   "omittedPaths": [],

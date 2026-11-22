@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/methods/quantitative/Combinatorial Novelty Measurement.md",
+                "file": "wiki/methods/quantitative/Combined Weighting AHP-EWM.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Combinatorial Novelty Measurement"
+              "title": "Combined Weighting AHP-EWM"
             }
           },
           {
@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -300,8 +300,13 @@
       "ai-usage-float:显示或隐藏额度浮窗": false
     }
   },
-  "active": "3643ff474ee79da9",
+  "active": "dcfc1210476513af",
   "lastOpenFiles": [
+    "wiki/assets/geogebra/combined_weighting_ahp_ewm.ggb",
+    "output/thelen_text.txt",
+    "output/related-updates/Argument_Thelen_2007_RegGov-279a5344/batch-008/result.json",
+    "wiki/methods/quantitative/Combinatorial Novelty Measurement.md",
+    "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照/03 席勒.md",
     "output/related-updates/Argument_Hammermeister_2002_Cambridge_Ch02-b9b79768/batch-001/result.json",
     "output/related-updates/Argument_Hammermeister_2002_Cambridge_Ch02-b9b79768/state.json",
     "output/related-updates/Argument_Hammermeister_2002_Cambridge_Ch02-b9b79768/batch-009/prompt.md",
@@ -314,14 +319,11 @@
     "output/related-updates/Argument_Hammermeister_2002_Cambridge_Ch02-b9b79768/batch-007/batch-result.schema.json",
     "output/related-updates/Argument_Hammermeister_2002_Cambridge_Ch02-b9b79768/batch-007",
     "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照/02 康德.md",
-    "output/related-updates/Argument_Thelen_2007_RegGov-279a5344/batch-007/result.json",
-    "output/related-updates/Argument_Thelen_2007_RegGov-279a5344/batch-006/result.json",
     "wiki/persons/germany/Eckhard Klieme.md",
     "wiki/persons/germany/Jürgen Baumert.md",
     "wiki/concepts/educational-policy-reform/Competence Clash.md",
     "wiki/concepts/instruction-pedagogy/Empirische Unterrichtsforschung.md",
     "wiki/facts/germany/PISA-Ländervergleich.md",
-    "output/related-updates/Argument_Thelen_2007_RegGov-279a5344/batch-005/result.json",
     "wiki/facts/germany/KMK-Bildungsstandards.md",
     "wiki/facts/germany/Realschule.md",
     "wiki/facts/germany/Gesamtschule.md",
@@ -336,8 +338,6 @@
     "output/related-updates/Argument_Thelen_2007_RegGov-279a5344/batch-003/prompt.md",
     "output/related-updates/Argument_Thelen_2007_RegGov-279a5344/batch-002/prompt.md",
     "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch01.md",
-    "output/related-updates/Argument_Thelen_2007_RegGov-20261121-194948/batch-006/prompt.md",
-    "output/related-updates/Argument_Thelen_2007_RegGov-20261121-194948/batch-005/prompt.md",
     "sources/Dustmann_2017_EconJ/figures/Dustmann_2017_EconJ_Fig6_Date_of_Birth_and_Completed_Education.jpg",
     "sources/Dustmann_2017_EconJ/figures/Dustmann_2017_EconJ_Fig5_Date_of_Birth_and_Downgrading.jpg",
     "sources/Dustmann_2017_EconJ/figures/Dustmann_2017_EconJ_Fig4_Log_Wage_Differences_by_Age.jpg",
