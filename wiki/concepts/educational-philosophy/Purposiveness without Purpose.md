@@ -32,7 +32,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: 2026-11-15
+updated: 2026-11-22
 ---
 
 ---
@@ -45,7 +45,7 @@ updated: 2026-11-15
 > - **用途** 解释艺术品和自然美何以既显得精巧严谨、又不必沦为道德说教工具或日常实用[[Artefact|器物]]。
 > - **边界** 最契合[[Free Beauty|自由美]]；一旦引入“人体理想”或“建筑功能”等具体目的标准，就会转向[[Adherent Beauty|依附美]]。
 
-> [!citation-card|notitle] 关键表述
+> [!citation-card|notitle] 康德论美的无目的的合目的性
 > 美是对象的合目的性形式，只要它是在没有目的表象的情况下被知觉到的。（*CJ*, §17）[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, p. 32)]]
 >
 > *Beauty is the form of purposiveness in an object, insofar as it is perceived without the representation of a purpose. (CJ, §17)*
@@ -68,6 +68,13 @@ updated: 2026-11-15
 
 > [!claim] Moritz, K. P. & Kant, I.
 > **以外在目的之缺失换取内在目的** 早在《判断力批判》出版前五年，卡尔·菲利普·莫里茨（Karl Philipp Moritz, 1785）便已指出：人们把那些带来愉悦却并不实际有用的事物称为美；审美者纯粹为了对象本身而愉悦，为此，外在目的的缺失必须由一种“内在目的”来替代，使对象自身成为一个完满自足的整体。康德则进一步将其表述为：美看起来似乎为了我们的愉悦而存在，但实际上美并不以取悦我们为目标，对象保持着真正的独立性。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 29, 32)]]
+
+---
+
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **悖论消解机制** | 以外在目的之缺失换取结构自足的内在目的，阐明美为何既精巧严谨又不服务于外在功用 | 康德鉴赏判断关系契机与审美自主性论证 | Moritz, K. P.; Kant, I. |
 
 ---
 
