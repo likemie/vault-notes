@@ -21615,6 +21615,8 @@
     "Richard R. Nelson (1993)": "Richard R. Nelson, 1993",
     "Richard R. Nelson, 1977": "Richard R. Nelson, 1977",
     "Richard R. Nelson, 1993": "Richard R. Nelson, 1993",
+    "Richard Rorty (1992)": "Richard Rorty, 1992",
+    "Richard Rorty, 1992": "Richard Rorty, 1992",
     "Richard Stanley Peters (1966)": "Richard Stanley Peters, 1966",
     "Richard Stanley Peters, 1966": "Richard Stanley Peters, 1966",
     "Richard Van Noorden (2014)": "Richard Van Noorden, 2014",
@@ -97057,7 +97059,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md",
+        "wiki/facts/germany/Vocational Training Act of 2005.md"
       ],
       "title": "Gesamtmetall proposes reforms of educational system"
     },
@@ -111713,7 +111716,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md",
+        "wiki/facts/germany/Vocational Training Act of 2005.md"
       ],
       "title": "What Does Business Want? Labor Market Reforms in CMEs and its Problems"
     },
@@ -187859,6 +187863,21 @@
       ],
       "title": ""
     },
+    "Richard Rorty, 1992": {
+      "aliases": [
+        "Richard Rorty, 1992",
+        "Richard Rorty (1992)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Richard Rorty, 1992"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Aesthetic Idea.md"
+      ],
+      "title": ""
+    },
     "Richard Stanley Peters, 1966": {
       "aliases": [
         "Richard Stanley Peters, 1966",
@@ -210159,6 +210178,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Nordic Journal of Studies in Educational Policy/Argument_Qvortrup_2019_NordSTEP.md",
+        "wiki/concepts/educational-philosophy/Aesthetic Idea.md",
         "wiki/concepts/science-communication/Interpretation Community.md"
       ],
       "title": ""

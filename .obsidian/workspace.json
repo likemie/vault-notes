@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -300,15 +300,19 @@
       "ai-usage-float:显示或隐藏额度浮窗": false
     }
   },
-  "active": "dcfc1210476513af",
+  "active": "3643ff474ee79da9",
   "lastOpenFiles": [
+    "output/related-updates/Argument_Hammermeister_2002_Cambridge_Ch02-b9b79768/batch-002/result.json",
+    "wiki/concepts/comparative-education/Verschulung.md",
+    "wiki/concepts/political-economy-geopolitics/Segmentalism.md",
+    "wiki/methods/quantitative/Combined Weighting AHP-EWM.md",
+    "output/related-updates/Argument_Hammermeister_2002_Cambridge_Ch02-b9b79768/batch-001/result.json",
+    "output/related-updates/Argument_Hammermeister_2002_Cambridge_Ch02-b9b79768/state.json",
     "wiki/assets/geogebra/combined_weighting_ahp_ewm.ggb",
     "output/thelen_text.txt",
     "output/related-updates/Argument_Thelen_2007_RegGov-279a5344/batch-008/result.json",
     "wiki/methods/quantitative/Combinatorial Novelty Measurement.md",
     "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照/03 席勒.md",
-    "output/related-updates/Argument_Hammermeister_2002_Cambridge_Ch02-b9b79768/batch-001/result.json",
-    "output/related-updates/Argument_Hammermeister_2002_Cambridge_Ch02-b9b79768/state.json",
     "output/related-updates/Argument_Hammermeister_2002_Cambridge_Ch02-b9b79768/batch-009/prompt.md",
     "output/related-updates/Argument_Hammermeister_2002_Cambridge_Ch02-b9b79768/batch-009/batch-result.schema.json",
     "output/related-updates/Argument_Hammermeister_2002_Cambridge_Ch02-b9b79768/batch-009",
@@ -317,7 +321,6 @@
     "output/related-updates/Argument_Hammermeister_2002_Cambridge_Ch02-b9b79768/batch-008",
     "output/related-updates/Argument_Hammermeister_2002_Cambridge_Ch02-b9b79768/batch-007/prompt.md",
     "output/related-updates/Argument_Hammermeister_2002_Cambridge_Ch02-b9b79768/batch-007/batch-result.schema.json",
-    "output/related-updates/Argument_Hammermeister_2002_Cambridge_Ch02-b9b79768/batch-007",
     "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照/02 康德.md",
     "wiki/persons/germany/Eckhard Klieme.md",
     "wiki/persons/germany/Jürgen Baumert.md",
@@ -335,9 +338,6 @@
     "output/related-updates/Argument_Thelen_2007_RegGov-279a5344/batch-007/prompt.md",
     "output/related-updates/Argument_Thelen_2007_RegGov-279a5344/batch-004/prompt.md",
     "output/related-updates/Argument_Thelen_2007_RegGov-279a5344/batch-005/prompt.md",
-    "output/related-updates/Argument_Thelen_2007_RegGov-279a5344/batch-003/prompt.md",
-    "output/related-updates/Argument_Thelen_2007_RegGov-279a5344/batch-002/prompt.md",
-    "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch01.md",
     "sources/Dustmann_2017_EconJ/figures/Dustmann_2017_EconJ_Fig6_Date_of_Birth_and_Completed_Education.jpg",
     "sources/Dustmann_2017_EconJ/figures/Dustmann_2017_EconJ_Fig5_Date_of_Birth_and_Downgrading.jpg",
     "sources/Dustmann_2017_EconJ/figures/Dustmann_2017_EconJ_Fig4_Log_Wage_Differences_by_Age.jpg",

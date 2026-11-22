@@ -2559,6 +2559,18 @@
     ]
   },
   {
+    "title": "Verschulung",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Verschulung.md",
+    "aliases": [
+      "职业教育学校化",
+      "学校化",
+      "职教学校化",
+      "经院化教学",
+      "academisation of vocational training"
+    ]
+  },
+  {
     "title": "Warehousing of Good Practices",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Warehousing of Good Practices.md",
@@ -4940,6 +4952,7 @@
     "path": "wiki/concepts/educational-philosophy/Aesthetic Idea.md",
     "aliases": [
       "审美理念",
+      "审美意象",
       "ästhetische Idee",
       "aesthetic ideas"
     ]
@@ -16372,6 +16385,19 @@
       "科技安全化",
       "Technology Securitization",
       "Securitization of Science and Technology"
+    ]
+  },
+  {
+    "title": "Segmentalism",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Segmentalism.md",
+    "aliases": [
+      "部门主义",
+      "分段主义",
+      "部门主义技能体制",
+      "分段主义技能体制",
+      "segmentalist skill formation",
+      "segmentalist model"
     ]
   },
   {
@@ -44835,6 +44861,8 @@
     "aliases": [
       "2005年德国联邦职业教育法改革",
       "2005年职业教育法",
+      "2005年《联邦职业教育法》",
+      "2005年联邦职业教育法",
       "Berufsbildungsgesetz 2005",
       "BBiG 2005"
     ],

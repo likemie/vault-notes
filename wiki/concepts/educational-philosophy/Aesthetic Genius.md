@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-11-15"
-updated: 2026-11-21
+updated: "2026-11-22"
 ---
 
 ---
@@ -59,8 +59,8 @@ updated: 2026-11-21
 > - **用途** 破解艺术作为人工构作制品何以必须呈现出宛如无意造化之自然的深层悖论。
 > - **边界** 天才的原创性有别于毫无章法的任意狂想，接受者对天才作品的鉴赏必须依托受公认典范的滋养与校正，但康德未能充分说明非概念范例如何发挥准规范功能。
 
-> [!citation-card|notitle] 康德论天才与“自然给艺术立法”
-> 天才是赋予艺术以规则的才能（自然禀赋）。因为作为艺术家天生[[Creativity|创造力]]的才能本身属于自然，所以也可以说：天才是自然借以赋予艺术以规则的先天精神资质（*ingenium*）。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, p. 35)]]
+> [!citation-card|notitle] 康德论天才与“自然为艺术立法”
+> 天才是赋予艺术以法则的才能（天生秉赋）。既然这种作为艺术家先天[[Creativity|创造力]]的才能本身属于自然，人们也可以说，天才是自然借以为艺术立法的先天心灵禀赋（*ingenium*）。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, p. 35)]]
 >
 > *Genius is the talent (natural endowment) which gives the rule to art. Because talent as an innate productive ability of the artist belongs itself to nature, one could also say: Genius is the innate, mental aptitude (ingenium) through which nature gives the rule to art. (CJ, §46)*
 
@@ -80,9 +80,9 @@ updated: 2026-11-21
 ---
 
 > [!feature] 核心要素
-> - **“艺术须似自然”的悖论消解** 康德认为自然美在直接兴趣上高于艺术美；艺术品虽依人类意图制作，却必须显得毫无学院形式拘束（呼应文艺复兴卡斯蒂廖内 Baldassare Castiglione 提出的[[Sprezzatura|举重若轻]] *sprezzatura* 理想），而天才正是赋予人工制品以自然生机的先验机制。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, p. 35)]]
-> - **规则的遵守与拓展** 区别于巴洛克诗学、传统修辞学及 18 世纪瑞士批评家博德默尔（Bodmer）与布赖廷格（Breitinger）对既定规则的依循，康德强调天才既深谙既有创作规则，又懂得何时从容拓展边界，在浑然不觉中确立新规范。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 35–36)]]
-> - **与鉴赏传统范例的互补** 与天才生产相对应，[[Judgment of Taste|鉴赏判断]]不依循机械规则运作；因此康德（*CJ*, §32）与温克尔曼同样主张鉴赏力必须通过受文化赞誉的经典范例加以濡染和引导，以免退化为粗鄙状态。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, p. 36)]]
+> - **“艺术须宛若自然”的悖论消解** 康德认为自然美在直接利害关切上高于艺术美（萨利姆·凯马尔 Salim Kemal 在 1986 年曾基于艺术与道德的纽带质疑此等级秩序过于僵固，但分量尚不足以彻底颠倒之）；艺术品虽依人类意图制作，却必须显得毫无学院形式拘束（呼应文艺复兴时期巴尔达萨雷·卡斯蒂利奥内 Baldassare Castiglione 在《廷臣论》中提出的“[[Sprezzatura|浑然不着痕迹]]” *sprezzatura* 理想），而天才正是赋予人工制品以自然生机的先验机制。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 35, 221 n.15)]]
+> - **规则的遵守与拓展** 区别于巴洛克诗学、传统修辞学及 18 世纪瑞士批评家约翰·雅各布·博德默尔（Johann Jakob Bodmer）与约翰·雅各布·布莱廷格（Johann Jakob Breitinger）对既定规则的依循，康德强调天才既深谙既有创作规范，又懂得何时从容超越并拓展边界，举重若轻地确立新法则。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 35–36)]]
+> - **与鉴赏传统典范的互补** 与天才生产相对应，[[Judgment of Taste|鉴赏判断]]不依循机械规则运作；因此康德（*CJ*, §32）与约翰·约阿希姆·温克尔曼（Johann Joachim Winckelmann）同样主张鉴赏力必须借由文化历程中久经赞誉的经典典范加以引导，以免退回初创时的粗野简陋。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, p. 36)]]
 
 ---
 
