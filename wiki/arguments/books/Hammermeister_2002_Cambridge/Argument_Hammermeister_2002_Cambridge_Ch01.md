@@ -49,6 +49,9 @@ related_concepts:
   - "[[Aesthetic Autonomy]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Document]]"
+  - "[[Natural Signs vs. Arbitrary Signs]]"
+  - "[[Theatrical Morality]]"
+  - "[[Aesthetic Monad]]"
 related_persons:
   - "[[Immanuel Kant]]"
   - "[[Gottfried Wilhelm Leibniz]]"
@@ -178,7 +181,7 @@ updated: 2026-11-21
 > [!contrast-table|notitle] 鲍姆加登美学在三维框架下的内在演变
 > | 分析维度 | 理论预设与文本依据 | 发展趋向与理论后果 |
 > |---|---|---|
-> | **本体论维度**<br>（Ontology） | 继承古代 *pulchrum*（客观美）传统与莱布尼茨《单子论》，视美为客体和谐秩序在感性认知中的完满显现，艺术品是比普通事物更能映照世界终极秩序（*telos*）的单子镜像（pp. 11–12） | 本体论预设依然立足于理性主义形而上学；艺术品作为自足反映世界整体的审美单子构想，在20世纪[[Theodor Adorno\|西奥多·阿多诺]]（Theodor W. Adorno）的批判理论中获得了现代重构（pp. 11–12） |
+> | **本体论维度**<br>（Ontology） | 继承古代 *pulchrum*（客观美）传统与莱布尼茨《单子论》，视美为客体和谐秩序在感性认知中的完满显现，艺术品是比普通事物更能映照世界终极秩序（*telos*）的单子镜像（pp. 11–12） | 本体论预设依然立足于理性主义形而上学；艺术品作为自足反映世界整体的[[Aesthetic Monad|审美单子]]构想，在20世纪[[Theodor Adorno\|西奥多·阿多诺]]（Theodor W. Adorno）的批判理论中获得了现代重构（pp. 11–12） |
 > | **认识论维度**<br>（Epistemology） | 确立自足的审美真理，保留经验的具象性、个别性与生动复杂性，摆脱逻辑抽象概念的化约（pp. 12–13） | 成为浪漫主义反思机械理性与阿多诺批判逻辑概念暴力、坚持[[The Nonidentical\|非同一性]]（the nonidentical）的哲学先声（p. 13） |
 > | **实践功能维度**<br>（Practical Function） | 最初以“辅助逻辑学”为辩护理由，意在引导心智从晦暗微知觉平稳迈向概念明晰；但审美真理一旦自足，艺术便不再屈从于逻辑，转向塑造感性与知性和谐并存的完人（pp. 12–13） | 实践宗旨发生根本性转变：美学从形而上学体系的修补工具演化为独立并对抽象知性展开批判的自足学问（p. 13） |
 
