@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: 2026-11-21
+updated: 2026-11-22
 ---
 
 ---
@@ -57,7 +57,7 @@ updated: 2026-11-21
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 以审美体验培育平衡感性感受力与清晰理性的全面之人。
-> - **用途** 解释哲学美学何以超越单纯的艺术品鉴或[[Epistemology|认识论]]辩护，转化为面向人的全面培养的实践教育学说。
+> - **用途** 解释哲学美学何以超越单纯的艺术品鉴或[[Epistemology|认识论]]辩护，转化为指向人的全面培养的实践教育学说。
 > - **边界** 在前[[Immanuel Kant|康德]]阶段，美育立足于人性完善的目的论与灵魂诸官能的和谐运作，尚未脱离“完满性（*perfection*）”这一传统形而上学范畴。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 14, 19–20)]]
 
 > [!citation-card|notitle] 门德尔松论人的完善与美育目标
@@ -113,7 +113,7 @@ updated: 2026-11-21
 > **社会教化与道德习惯准备** [[Immanuel Kant|康德]]虽将[[Judgment of Taste|审美判断]]剥离出直接道德说教，却在《判断力批判》后半部通过社会可传达性与习惯性道德准备重新衔接了美与伦理教化。
 
 > [!claim] Hammermeister, K. & Kant, I.
-> **从感官刺激到习惯性道德兴趣** 康德指出美在经验上只存在于社会之中，无外在目的的美的艺术能在自身合目的中促进心灵诸能力服务于社会交往的教化（*CJ*, §§41, 44）；更关键的是，经常操练指向道德兴趣的[[Judgment of Taste|鉴赏判断]]（以及“美作为道德善的象征”，*CJ*, §59），能够使人逐渐节制感官享乐、养成偏爱道德理念的习惯，从而实现从感官魅力向习惯性道德兴趣的平稳过渡。这一方案直接构成了席勒 1793 年《奥古斯滕堡书信》与《审美教育书简》的理论起点。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 36–41, 221–222 n.18)]]
+> **从感官刺激到习惯性道德关切** 康德指出美在经验上只存在于社会之中，无外在目的的优美艺术能在自身合目的中促进心灵诸能力服务于社会交往的教化（*CJ*, §§41, 44）；更关键的是，时常涵泳于审美判断之中（以及“美是德性之善的象征”，*CJ*, §59），能够使人逐渐节制感官享乐、养成更多在道德观念中得其所乐的习性，无需剧烈飞跃便平稳过渡至习惯性的道德关切（habitual moral interest）。这一方案直接构成了席勒 1793 年《奥古斯滕堡书简》与《审美教育书简》的理论起点，并在费希特 1794 年《论哲学中的精神与文字》关于艺术将个体性拓展为“普遍心意”（*Universalsinn*）以凝聚共同体的论述中得到回响。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 36–41, 221–222 n.18)]]
 
 ---
 
@@ -168,5 +168,5 @@ updated: 2026-11-21
 
 ---
 
-> [!evidence-grid] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 析门德尔松、康德至席勒美育（pp. 14–60）；[[Argument_Hammermeister_2002_Cambridge_Ch04|第 4 章]]述荷尔德林先导（p. 64）；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析新马克思主义平行继承（pp. 158–160）。
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch01|第 1]]、[[Argument_Hammermeister_2002_Cambridge_Ch02|2]]、[[Argument_Hammermeister_2002_Cambridge_Ch03|3 章]]析门德尔松、康德至席勒美育（pp. 14–60）；[[Argument_Hammermeister_2002_Cambridge_Ch04|第 4 章]]述荷尔德林先导（p. 64）；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析新马克思主义平行继承（pp. 158–160）。
