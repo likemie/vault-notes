@@ -1,0 +1,20 @@
+# 读书笔记与条目挖掘：Hammermeister (2002) 第 1 章与前言
+
+## 1. 清晰而混淆的认知（Clear and Confused Cognition / cognitio clara et confusa）
+- **条目路径**：`wiki/concepts/educational-philosophy/Clear and Confused Cognition.md`
+- **核心定位**：莱布尼茨—沃尔夫认识论谱系中介于“晦暗认知”与“清晰分明认知”之间的认识形态。鲍姆加登将其确立为美与艺术经验的专属认识论基石，定义美为混淆认知本身的感性完满。
+- **关联文本**：pp. 5–7, 10–11, 14。
+
+## 2. 理性类似物（Analogon Rationis / Analogue of Reason）
+- **条目路径**：`wiki/concepts/educational-philosophy/Analogon Rationis.md`
+- **核心定位**：鲍姆加登用来界定低级认识机能复合体（感知、想象、记忆、情感）的核心概念。它具备与高级逻辑理性平行的自律性与内在逻辑秩序，为美学作为一门独立科学奠定了合法性。
+- **关联文本**：pp. 4, 7–9, 12–13。
+
+## 3. 规则诗学（Regelpoetik / Poetics of Rules）
+- **条目路径**：`wiki/concepts/educational-philosophy/Regelpoetik.md`
+- **核心定位**：17 至 18 世纪德语区古典主义时期居于统治地位的规条创作范式（以奥皮茨、高特舍德为代表）。主张艺术优劣取决于对体裁分界、三一律与古典修辞三阶段的严格遵守，后被狂飙突进天才论与康德批判美学所解构。
+- **关联文本**：pp. 7, 9–10, 12, 18–19。
+
+## 4. 后续备选条目（待深入或视需要立项）
+- **赞许能力（Billigungsvermögen / Faculty of Approbation）**：门德尔松在认识与欲求之间植入的第三官能，直接启迪康德无利害愉悦与情感批判（pp. 18–19）。
+- **艺术符号学分类（Natural Signs vs. Arbitrary Signs in Art）**：门德尔松按自然符号（造型与音乐）与约定符号（诗歌修辞）界定艺术媒介，为莱辛《拉奥孔》提供直接基石（pp. 17–18）。

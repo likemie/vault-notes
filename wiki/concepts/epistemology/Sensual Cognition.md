@@ -7,9 +7,6 @@ aliases:
   - 低级认识论
   - gnoseologia inferior
   - inferior cognition
-  - clear and confused cognition
-  - 清晰而混淆的认知
-  - 清晰而混淆的认识
 summary: "鲍姆加登基于莱布尼茨认知谱系确立的独立低级认识官能，以清晰而混淆的感性知觉连接无意识微知觉与明晰理性，构成逻辑认识的必经前提。"
 type: concept
 domain: "epistemology"
