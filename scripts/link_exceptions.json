@@ -1482,5 +1482,15 @@
       "sentence": "warning] 研究边界与局限",
       "target": "wiki/concepts/research-methodology/Research Scope.md"
     }
+  ],
+  "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch02.md": [
+    {
+      "sentence": "伊曼努尔·康德（Immanuel Kant）在 1790 年《判断力批判》（*Critique of Judgment*, *CJ*）中，如何借鉴赏判断贯通遵循自然必然性的“纯粹理性”与追求道德自由的“实践理性”？",
+      "target": "wiki/concepts/educational-philosophy/Phronesis.md"
+    },
+    {
+      "sentence": "尽管这一方案悬置了“艺术作品本身为何”的本体论追问，也剥离了艺术的真理诉求，但它所提出的“自由游戏”“审美意象”“天才为艺术立法”以及“美是德性之善的象征”，主导了康德之后直至格奥尔格·威廉·弗里德里希·黑格尔（Georg Wilhelm Friedrich Hegel）乃至 20 世纪的美学争辩（pp.",
+      "target": "wiki/concepts/educational-philosophy/Epoché.md"
+    }
   ]
 }

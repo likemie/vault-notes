@@ -306,7 +306,7 @@ updated: "2026-11-22"
 ---
 
 > [!citation-card] 鉴赏判断的主观规定根据
-> 为了辨别某物是否美丽，我们并不通过知性将该对象的表象关涉到对象上去以求认识，而是借助于想象力（它或许与知性相伴）将该表象关涉到主体及其快感或不快感。因此，鉴赏判断绝非认识判断，因而并非逻辑判断，而是审美的判断，这意味着其规定根据只能是主观的。（p. 28）
+> 为了辨别某物是否美丽，我们不通过知性将该对象的表象关涉到对象以求认识，只借想象力（它或许与知性相伴）将表象关涉到主体及其快感或不快感。因此，鉴赏判断既非认识判断亦非逻辑判断，乃审美的判断，这意味着其规定根据只能是主观的。（p. 28）
 >
 > *In order to discern whether something is beautiful or not, we do not submit its representation to (the faculty of) understanding for cognition, rather we relate it by means of the imagination (possibly connected to understanding) to the subject and its feeling of pleasure and displeasure. The judgment of taste is therefore no cognitive judgment, hence not logical, but aesthetic, meaning that whose determining ground can only be subjective. (CJ, §1)*
 

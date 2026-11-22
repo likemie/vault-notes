@@ -113,7 +113,7 @@ related_facts:
 confidence: high
 status: active
 created: "2026-11-14"
-updated: 2026-11-21
+updated: "2026-11-22"
 ---
 
 ---
@@ -259,7 +259,7 @@ updated: 2026-11-21
 > - **1735 — 学科命名** 鲍姆加登在《关于诗的若干哲学沉思》中首次提出“美学（aesthetics）”作为独立哲学学科的名称，意指感性知觉理论。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 4)]]
 > - **1750–1758 — 体系创立** 鲍姆加登出版《美学》，将其界定为感性认识科学和自由艺术理论；其学生迈尔于 1748 年率先以德文出版讲义使之广为传播。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 6–7)]]
 > - **1755–1761 — 情感与心理转向** 门德尔松发表《论情感的书信》与《狂想曲》，将美学从认识论转向主体愉悦、[[The Sublime|崇高]]与审美教育。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 14–19)]]
-> - **1781–1790 — 语义定型与范式确立** [[Immanuel Kant|康德]]在《纯粹理性批判》（1781）“先验感性论”中沿用感性经验先验条件之旧义，而在 1790 年《判断力批判》中正式将其转为关于鉴赏、美与艺术的哲学（同时区分哲学的“批判”即可能性条件探究与赫尔德、[[Gotthold Ephraim Lessing|莱辛]]的艺术批评），开启以形式主义、主观化及脱离认知与道德为特征的首个强美学范式。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 23–24, 40–41)]]
+> - **1781–1790 — 语义定型与独立学科确立** [[Immanuel Kant|康德]]在《纯粹理性批判》（1781）“先验感性论”中沿用感性经验先验条件之旧义，而在 1790 年《判断力批判》中正式将其转为关于鉴赏、美与艺术的哲学（同时区分哲学的“批判”即可能性条件探究与约翰·戈特弗里德·赫尔德（Johann Gottfried Herder）、[[Gotthold Ephraim Lessing|莱辛]]的艺术批评），借由论证美独立于理论与道德两方面的概念知识，首次将哲学美学确立为一门独立学科，开启以形式主义、主观化及脱离认知与道德为特征的首个强美学范式；奥多·马夸德（Odo Marquard）将 18 世纪哲学美学的兴起解释为科学理性无法把握现实总体（物自体不可知）与实践理性脱离善的具体存在之双重挫折下的居间调停。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 23–24, 39–41, 219 n.2)]]
 > - **1795 — 历史化与人类学转向** [[Friedrich Schiller|席勒]]在《[[Aesthetic Education|审美教育]]书简》中批判康德美学的主观与非历史局限，引入历史维度、[[Schiller's Theory of Drives|冲动学说]]与[[Play Drive|游戏冲动]]，将美学重塑为应对现代性分裂与通向道德共同体的中介桥梁，开启从先验唯心论向[[Georg Wilhelm Friedrich Hegel|黑格尔]]客观唯心论的过渡。[[Argument_Hammermeister_2002_Cambridge_Ch03|(Hammermeister, 2002, pp. 42–44, 51–54)]]
 > - **1800–1807 — 浪漫派美学与认识论中心主义** 谢林在《先验唯心论体系》（1800）中以[[Aesthetic Intuition|审美直观]]确立艺术高于概念哲学的地位，随后在《艺术哲学》（1802–1805）转向新柏拉图主义理念[[Mimesis|模仿]]并交由哲学阐释；浪漫派将艺术认识论功能绝对化的范式深远启发了海德格尔与阿多诺，并引发黑格尔对哲学地位的反转。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 62–66, 74–86)]]
 > - **1817–1835 — 绝对精神体系与历史化转向** [[Georg Wilhelm Friedrich Hegel|黑格尔]]在《哲学全书纲要》与《美学讲演录》中将美界定为理念的感性显现，把艺术安置在[[Absolute Spirit|绝对精神]]的初级环节，反转浪漫派“艺术高于哲学”的秩序，并以历史三阶段与媒介谱系开启现代艺术史学科。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 87–95, 97–103)]]
@@ -300,7 +300,7 @@ updated: 2026-11-21
 > |:-----|:-----|:-----|
 > | [[Sensual Cognition]] | 概念 | 鲍姆加登将感性认识确立为哲学美学的核心对象与理论起点。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, p. 7)]] |
 > | [[Aesthetic Truth]] | 概念 | 构成哲学美学在认识论维度上区别于逻辑真理的核心判准。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 9–10)]] |
-> | [[Disinterested Pleasure]] | 概念 | 门德尔松与康德通过无功利愉悦推进哲学美学向接受心理学与主体判断转向。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 18–19)]]；[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 28–29)]] |
+> | [[Disinterested Pleasure]] | 概念 | 门德尔松与康德通过无利害的快感推进哲学美学向接受心理学与主体判断转向。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 18–19)]]；[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 28–29)]] |
 > | [[The Sublime]] | 概念 | 门德尔松引入并由康德在主体理性层面重构的重要审美范畴。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 17–18)]]；[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 32–34)]] |
 > | [[Judgment of Taste]] | 概念 | 康德在《判断力批判》中确立美学学科独立性的核心判断机制。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 27–32)]] |
 > | [[Aesthetic Intuition]] | 概念 | 谢林 1800 年《体系》中将主观理智直观客观化的最高认识论形态。[[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, pp. 74–75)]] |
