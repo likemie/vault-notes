@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: 2026-11-21
+updated: 2026-11-22
 ---
 
 ---
@@ -77,11 +77,12 @@ updated: 2026-11-21
 
 ---
 
-> [!feature] 现代美学谱系中的四大流变特征
+> [!feature] 现代美学谱系中的五大流变特征
+> - **康德的直接利害优位与宛若自然** 康德承袭柏拉图《蒂迈欧篇》、普罗提诺至托马斯·阿奎那的古典传统，将自然美置于艺术美之上，因为自然美诉诸直接的利害关切，而艺术总在题材与观者间夹杂人为中介，优美艺术因而必须宛若自然（*CJ*, §45；萨利姆·凯马尔 Salim Kemal 曾基于艺术与道德的纽带质疑此等级过于僵固，但不足以彻底颠倒之）。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 25, 35, 221 n.15)]]
 > - **黑格尔的精神优位与暗示定位** 自然缺乏主观意识与客观真理性，自然美被视为精神艺术美的折射，仅在体系边缘保留“对概念的暗示”（13. 174）。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 93)]]
 > - **叔本华的偶然杂质过滤** 艺术美与自然美同源通达柏拉图理念，艺术美仅在于替主体预先滤除自然界中伴随的偶然杂质。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, p. 122)]]
 > - **尼采与卢卡奇的主体中心排除** 尼采基于拟人化权力感排斥自然他者，卢卡奇基于艺术呈现社会总体的典型性要求，均将自然美完全排斥在严肃审美范畴之外。[[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, p. 149)]]；[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 166–167)]]
-> - **阿多诺的非同一性痕迹与生态启示** 自然美展现为摆脱技术理性支配与资源化宰制的避难所，成为客体未被概念同一化的非同一性痕迹，为当代生态美学奠定理论起点。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, p. 206)]]
+> - **阿多诺的非同一性痕迹与生态启示** 自然美展现为摆脱技术理性支配与资源化宰制的避难所，成为客体未被概念同一化的非同一性痕迹，为当代生态美学提供理论起点。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, p. 206)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -145,7 +146,7 @@ updated: 2026-11-21
 ---
 
 > [!dev-timeline] 概念演变
-> - **1790 — 康德确立自然美与崇高** 康德在《判断力批判》中赋予自然美以优位，认为欣赏纯粹自然美展现了道德心灵的契合。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 28–34)]]
+> - **1790 — 康德确立自然美优位与崇高** 康德承袭古典至中世纪“美宽于艺术”的传统，在《判断力批判》中基于直接利害关切赋予自然美高于艺术美的优位，要求优美艺术宛若自然（*CJ*, §45）。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 25, 35, 221 n.15)]]
 > - **1818–1835 — 黑格尔确立艺术美优位与自然美边缘化** 黑格尔在美学体系中界定美为精神之美的艺术，将自然美降为缺乏自我意识的次级折射，仅保留“对概念的暗示”。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 92–93)]]
 > - **1819 — 叔本华的同源纯化与偶然杂质过滤** 叔本华认为自然美与艺术美同能通达理念，艺术美在于滤除了自然美中的偶然杂质。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, p. 122)]]
 > - **1888 — 尼采拟人化美感与自然美排除** 尼采在《偶像的黄昏》宣称“只有人是美的”，把美感归结为人类权力感与生命冲动的投射，排除了自然他者。[[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, p. 149)]]
@@ -171,9 +172,10 @@ updated: 2026-11-21
 > | [[Hegel's Aesthetics]] | 理论 | 呈现黑格尔既原则排斥自然美又微弱保留它的内在文本张力 [[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, pp. 92–93)]]。 |
 > | [[Nietzsche's Aesthetics]] | 理论 | 以拟人化权力感垄断美感定义并彻底排斥自然美的晚期美学纲领 [[Argument_Hammermeister_2002_Cambridge_Ch07\|(Hammermeister, 2002, p. 149)]]。 |
 > | [[Adorno's Aesthetics]] | 理论 | 在黑格尔之后重新把自然美纳入美学以抗衡技术理性与生产资源化 [[Argument_Hammermeister_2002_Cambridge_Ch10\|(Hammermeister, 2002, p. 206)]]。 |
+> | [[Immanuel Kant]] | 人物 | 承袭古典传统、基于直接利害关切将自然美置于艺术美之上的哲学家 [[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 25, 35)]]。 |
 > | [[Georg Wilhelm Friedrich Hegel]] | 人物 | 主张自然美是艺术美折射的哲学家 [[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, p. 93)]]。 |
 
 ---
 
-> [!evidence-grid] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — 考辨黑格尔对自然美的降阶与霍托扩写（pp. 92–93）；[[Argument_Hammermeister_2002_Cambridge_Ch06|第 6 章]]析叔本华同源纯化；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]析尼采拟人化排除；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析卢卡奇典型性排除；[[Argument_Hammermeister_2002_Cambridge_Ch10|第 10 章]]析阿多诺非同一性痕迹（p. 206）。
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]析康德自然美优位；第 5 章析黑格尔降阶；[[Argument_Hammermeister_2002_Cambridge_Ch06|第 6]]、[[Argument_Hammermeister_2002_Cambridge_Ch07|7]]、[[Argument_Hammermeister_2002_Cambridge_Ch08|8 章]]析叔本华、尼采与卢卡奇；[[Argument_Hammermeister_2002_Cambridge_Ch10|第 10 章]]析阿多诺非同一性痕迹。

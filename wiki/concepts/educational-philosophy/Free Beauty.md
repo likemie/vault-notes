@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: 2026-11-15
+updated: 2026-11-22
 ---
 
 ---
@@ -48,14 +48,14 @@ updated: 2026-11-15
 > - **用途** 帮助解释许多关于“美不美”的争吵为什么在对象本身上争不出结果：往往是说话者站进了不同的评价视角。
 > - **边界** 康德区分的是评判对象的“视角”或“判断类型”，而未把世上物体死板地分成两堆；同一朵花在植物学家眼里属于依附美，在纯赏花者眼里则属于自由美。
 
-> [!citation-card|notitle] 关键表述
+> [!citation-card|notitle] 康德论自由美与依附美的区分
 > 美有两种：自由美（*pulchritudo vaga*）或仅仅是依附美（*pulchritudo adhaerens*）。前者不预设对象应当是什么的概念；后者则预设了这样的概念以及对象依照该概念而来的完善性。前者的类型被称为这个或那个对象的（独立自存的）美；后者作为依附于某个概念的美，则被归属于处在某一特定目的概念之下的对象。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, p. 26)]]
 >
 > *There are two types of beauty: free beauty (pulchritudo vaga) or merely adherent beauty (pulrichtudo adherens). The first does not presuppose any concept of what the object is meant to be; the second presupposes such concept and the perfection of the object according to it.*
 
 > [!boundary]- 概念边界
 > - 区别于 [[Adherent Beauty|依附美]] — 依附美预设对象的用途、目的与完善概念（如建筑、马匹、人体），属于非纯粹的应用判断；自由美则完全[[Epoché|悬置]]对象目的。
-> - 不等于单纯的感官快感 — 自由美虽不依赖概念，但仍属于[[Judgment of Taste|鉴赏判断]]，要求主体的想象力与知性进入[[Free Play|自由游戏]]，有别于动物只知追求的感官“快适”。
+> - 不等于单纯的感官快感 — 自由美虽不依赖概念，但仍属于[[Judgment of Taste|鉴赏判断]]，要求主体的想象力与知性进入[[Free Play|自由游戏]]，有别于动物只知追求的感官“适意”。
 
 ---
 
@@ -88,13 +88,21 @@ updated: 2026-11-15
 > **体系内部张力** 康德在第 16 节将自由美界定为纯粹审美判断的典范，但在紧随其后的第 17 节与第 54 节却把依附美推上更高地位，形成前后价值排序的冲突。
 
 > [!claim] Hammermeister, K.
-> **纯音乐与人体的倒转排序** 第 16 节明确指出把“善（合目的性）”与美连在一起会损害美的纯粹性，似乎把自由美放在最高处；然而第 17 节立刻把高度依赖人类目的概念的“人体”定为美的最高理想，第 54 节又把唯一被归入自由美的纯音乐列为艺术最低等级，理由是它“只在感觉里打转”“偏重消遣、少有教化”且离知性最远，第 59 节更进一步把美连向道德。可见自由美与依附美的区分并未完全融入《判断力批判》的整体价值排序之中。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 26–27)]]
+> **纯音乐与人体的倒转排序** 第 16 节明确指出把“善（合目的性）”与美连在一起会损害美的纯粹性，似乎把自由美放在最高处；然而第 17 节立刻把高度依赖人类目的概念的“人体”定为美的最高理想，第 54 节又把唯一被归入自由美的纯音乐列为艺术最低等级，理由是它“只凭感觉言说”“偏重消遣、少有教化”且离知性最远，第 59 节更进一步把美连向道德。可见自由美与依附美的区分并未完全融入《判断力批判》的整体价值排序之中。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 26–27)]]
+
+---
+
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **视角错位机制** | 审美分歧常源于混淆自由美与依附美两种判断立场，须先对齐讨论视角 | 审美评价争论与艺术批评 | Kant, I. |
+> | **体系内部张力** | 第 16 节尊崇自由美的纯粹性，但第 17、54 节却在价值排序上抬高依附美 | 康德第三批判内在结构分析 | Hammermeister, K. |
 
 ---
 
 > [!dev-timeline] 概念演变
 > - **1790 — 批判美学确立** 康德在《判断力批判》（§16）正式区分自由美与依附美，为近代[[Aesthetic Autonomy|审美自主性]]提供形式主义支点。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 25–26)]]
-> - **18 世纪末–1999 — 反诠释学脉络的延伸** 温弗里德·梅宁豪斯（Winfried Menninghaus）在《赞美无意义：康德与蓝胡子》（1999）中提出，康德的自由美直接通向早期德国浪漫派的蔓藤纹样（arabesque）与无意义诗学，在无限阐释传统之外另辟了一条肯定“远离概念认知的身心愉悦”的脉络。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 31, 219–220 n.7)]]
+> - **18 世纪末–1999 — 反诠释学脉络的延伸** 温弗里德·梅宁豪斯（Winfried Menninghaus）在《赞美无意义：康德与蓝胡子》（1999）中提出，康德的自由美直接通向早期德国浪漫派的蔓饰风格（arabesque）与荒诞诗歌，在无限阐释传统之外另辟了一条肯定“远离概念认知的身心愉悦”的脉络。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 31, 219–220 n.7)]]
 
 ---
 
@@ -103,7 +111,7 @@ updated: 2026-11-15
 > > [!axis] 第三批判中的自由美：阐释学[[Paradigm|范式]]还是反诠释学愉悦？
 > > 围绕自由美与无词纯音乐在康德美学中的地位，当代学界对第三批判整体倾向存在不同解读。
 > >
-> > - **Menninghaus（1999）** 主张自由美与无意义诗学、纯音乐共同构成了康德体系中抗拒概念阐释的合法传统，且康德肯定此类反认知愉悦有益于身心健康。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 31, 219–220 n.7)]]
+> > - **Menninghaus（1999）** 主张自由美与荒诞文学、纯音乐共同构成了康德体系中抗拒概念阐释的合法传统，且康德肯定此类反认知愉悦有益于身心健康。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 31, 219–220 n.7)]]
 > > - **[[Argument_Hammermeister_2002_Cambridge|Hammermeister (2002)]]** 承认论证上存在平行之处，但认为梅宁豪斯的解读过度放大了第三批判里的反诠释学倾向。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, p. 220 n.7)]]
 
 ---

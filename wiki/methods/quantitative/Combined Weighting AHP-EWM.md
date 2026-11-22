@@ -43,7 +43,7 @@ updated: 2026-11-22
 
 > [!method-scope] 方法范围
 > - **测量或估计对象** 综合评价指标体系中各指标的相对重要性。
-> - **问题类型** 评价与测度，为综合指数或[[Coupling Coordination Model\|耦合协调模型]]提供权重输入。
+> - **问题类型** 评价与测度，为综合指数或 [[Coupling Coordination Model]] 提供权重输入。
 > - **分析单位** 指标；被评价对象可为地区、年份或系统。
 > - **输入数据** $m$ 个评价对象在 $n$ 项指标上的观测矩阵 $X_{ij}$，以及专家对指标的两两重要性判断。
 > - **输出形式** 主观权重向量 $v$、客观权重向量 $g$ 与综合权重向量 $f$。
@@ -243,10 +243,10 @@ updated: 2026-11-22
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Coupling Coordination Model]] | 下游方法 | 组合赋权常与耦合协调模型配合使用，前者确定指标权重，后者计算系统协同水平。 |
+> | [[Coupling Coordination Model]] | 下游方法 | 组合赋权常与该模型配合使用，前者确定指标权重，后者计算系统协同水平。 |
 > | [[Reliability]] | 相关概念 | LSD 对两类权重同等惩罚，隐含主客观信息来源可靠性相等的假设。 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Fan_Song_Zhai_2024_RSEE|Fan et al. (2024)]] — 使用 AHP-EWM-LSD 组合赋权确定 15 项教育、科技与人才评价指标的权重，为[[Coupling Coordination Model\|耦合协调模型]]提供综合权重输入。
+> - [[Argument_Fan_Song_Zhai_2024_RSEE|Fan et al. (2024)]] — 使用 AHP-EWM-LSD 组合赋权确定 15 项教育、科技与人才评价指标的权重，为 [[Coupling Coordination Model]] 提供综合权重输入。

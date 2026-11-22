@@ -31,7 +31,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: 2026-11-15
+updated: 2026-11-22
 ---
 
 ---
@@ -44,7 +44,7 @@ updated: 2026-11-15
 > - **用途** 揭示即便在强调“无功利”的形式主义美学里，功能目的与道德理想依然通过人体、建筑等对象重返审美核心。
 > - **边界** 与[[Free Beauty|自由美]]相对；一旦判断完全被功利计算或实用好坏取代，就脱离了审美范畴而退回一般认知或实用评价。
 
-> [!citation-card|notitle] 关键表述
+> [!citation-card|notitle] 康德论依附美与美的纯粹性
 > 要想把一座建筑或人的身体看作美的，我们必须把这个对象与它在世界上的目的概念（它的 *telos*），以及由此而来的某种有用性联系起来。然而，“把善［在这里即合目的性］与美联系起来，会损害美的纯粹性”（*CJ*, §16）。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, p. 26)]]
 >
 > *In order to find an architectural object or the body of man beautiful, we need to connect the object to a concept of its purpose in the world, its telos, and hence a sense of its usefulness. Yet "the connection of the good [in this case the purposive] with beauty does the purity of the latter harm" (CJ, §16).*
@@ -72,10 +72,17 @@ updated: 2026-11-15
 ---
 
 > [!concept-proposition] 命题一｜人体作为依附美之所以成为美的最高理想，在于肉身显现了人的道德性
-> **道德锚定机制** 康德虽然在原则上强调审美判断独立于道德说教，但在《判断力批判》（§17）中仍以带有目的预设的人体作为美的最高形态，以此把审美重新锚定于人的道德尊严。
+> **道德显现机制** 康德虽然在原则上强调审美判断独立于道德说教，但在《判断力批判》（§17）中仍以带有目的预设的人体作为美的最高形态，以此将审美重新引向人的道德尊严。
 
 > [!claim] Kant, I.
-> **超越形式愉悦的人体理想** 人体在美丽形态等级谱系中超越玫瑰或骏马，其优越性出自一种超越感官的要素（即人的道德性）在身躯中获得了可见表达，远不止于线条比花朵更精致。脱离这一道德表达，人体便无法同时赢得普遍而积极的赞赏，最多只能在学院派技巧上显得“无懈可击”。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, p. 38)]]
+> **超越形式愉悦的人体理想** 人体在美丽形态等级谱系中超越玫瑰或骏马，其优越性出自一种超越感官的要素（即人的道德性）在身躯中获得了可见表达，远不止于线条比花朵更精致。脱离这一道德表达，人体便无法同时赢得普遍而积极的愉悦，而只能凭合乎学院规矩的呈现（academically correct presentation / *schulgerecht*，即按标准比例刻画、没有破绽却缺乏生气的学院式作品）消极地不致令人反感。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, p. 38)]]
+
+---
+
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **道德显现机制** | 人体作为依附美居于美的顶端，根源在于肉身可见地显现了人的超感官道德性 | 康德美的理想与审美伦理关联 | Kant, I. |
 
 ---
 

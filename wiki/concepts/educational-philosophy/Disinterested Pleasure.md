@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-11-14"
-updated: 2026-11-21
+updated: 2026-11-22
 ---
 
 ---
@@ -140,10 +140,10 @@ updated: 2026-11-21
 ---
 
 > [!dev-timeline] 概念演变
-> - **1755–1785** — 门德尔松在论情感论著与《晨曦》中确立赞许能力（*Billigungsvermögen*），为审美独立性构筑心理学基础。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 18–19)]]
-> - **1790** — 康德发表《判断力批判》，将无功利愉悦作为鉴赏判断的先验第一契机。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 28–29)]]
-> - **1795–1819** — 席勒与叔本华进一步发展无功利直观，视其为解脱意志挣扎与获得精神自由的途径。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, p. 29)]]
-> - **1970** — 阿多诺在《美学理论》中发起激进批判，以真理内容和快感禁令重构现代艺术接受经验。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 205, 209)]]
+> - **18 世纪初–1785 — 思想史前驱与心理学奠立** 从普罗提诺经沙夫茨伯里（Third Earl of Shaftesbury）与弗朗西斯·哈奇森（Francis Hutcheson），至门德尔松确立赞许能力（*Billigungsvermögen*），卡尔·菲利普·莫里茨（Karl Philipp Moritz）亦在 1785 年指出美是不具实用却自足完满的对象，共同先导了无利害快感（恩斯特·卡西尔 Cassirer, 1981 梳理了此谱系）。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 18–19)]]；[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 28–29, 220 n.10)]]
+> - **1790 — 康德先验范式定型** 康德发表《判断力批判》，将无功利愉悦作为鉴赏判断的先验第一契机。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 28–29)]]
+> - **1795–1819 — 席勒与叔本华的承继** 席勒与叔本华进一步发展无功利直观，视其为解脱意志挣扎与获得精神自由的途径。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, p. 29)]]
+> - **1970–1983 — 批判理论的双重重估** 阿多诺在《美学理论》（1970）中以真理内容与快感禁令批判廉价审美享乐；海因茨·佩佐尔德（Heinz Paetzold）则于 1983 年从新马克思主义视角将无利害快感与自由游戏解读为非工具化对待客体的典范及感性理性达成和解的乌托邦先声。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 205, 209)]]；[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, p. 220 n.10)]]
 
 ---
 
@@ -166,5 +166,5 @@ updated: 2026-11-21
 
 ---
 
-> [!evidence-grid] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 梳理无功利愉悦脉络：[[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]析门德尔松赞许能力（pp. 18–19）；[[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]析康德鉴赏判断先验质态（pp. 28–29）；[[Argument_Hammermeister_2002_Cambridge_Ch10|第 10 章]]析阿多诺快感禁令与真理内容（pp. 205, 208–209）。
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]析门德尔松赞许能力（pp. 18–19）；[[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]析康德第一契机与思想谱系（pp. 28–29）；[[Argument_Hammermeister_2002_Cambridge_Ch10|第 10 章]]析阿多诺快感禁令与真理内容（pp. 205, 208–209）。
