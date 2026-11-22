@@ -7,6 +7,11 @@ aliases:
   - theatralisch gut
 summary: "18世纪德国启蒙美学确立艺术自律评价标准的核心命题，由莫泽斯·门德尔松在《论感觉的书信》中明确提出。该命题主张戏剧舞台拥有自身独立的伦理与评价法则，现实生活中违背自我保全义务的自杀或极端激情，在舞台上只要服务于激荡怜悯与震撼的悲剧目的即属于艺术意义上的善，由此切断了传统神学与机械说教将艺术视为日常道德附庸的束缚。"
 type: concept
+domain: "educational-philosophy"
+related_count: 7
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/aesthetics
   - theme/drama

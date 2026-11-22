@@ -8,6 +8,11 @@ aliases:
   - natürliche und willkürliche Zeichen
 summary: "18世纪启蒙美学基于媒介符号特质划分艺术门类的核心分类学说。由让-巴蒂斯特·杜博斯初创、莫泽斯·门德尔松系统引入德意志哲学，将依赖天然模拟对应关系的自然符号（造型艺术与音乐）与依赖社会契约和时间先后序列的任意符号（诗歌与修辞）明确区分，为莱辛确立诗画界限及现代艺术符号学构筑了理论先导。"
 type: concept
+domain: "educational-philosophy"
+related_count: 7
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/aesthetics
   - theme/semiotics

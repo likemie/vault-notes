@@ -4981,6 +4981,16 @@
     ]
   },
   {
+    "title": "Aesthetic Monad",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Aesthetic Monad.md",
+    "aliases": [
+      "审美单子",
+      "艺术单子",
+      "审美单子论"
+    ]
+  },
+  {
     "title": "Aesthetic Negativity",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Aesthetic Negativity.md",
@@ -5829,6 +5839,16 @@
     ]
   },
   {
+    "title": "Felix Aestheticus",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Felix Aestheticus.md",
+    "aliases": [
+      "审美完人",
+      "审美主体范式",
+      "完满审美者"
+    ]
+  },
+  {
     "title": "First and Second Order Emotion",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/First and Second Order Emotion.md",
@@ -6287,6 +6307,18 @@
     "aliases": [
       "自然美",
       "Naturschöne"
+    ]
+  },
+  {
+    "title": "Natural Signs vs. Arbitrary Signs",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Natural Signs vs. Arbitrary Signs.md",
+    "aliases": [
+      "自然符号与任意符号",
+      "自然符号与人为符号",
+      "艺术符号学分类",
+      "signes naturels et signes artificiels",
+      "natürliche und willkürliche Zeichen"
     ]
   },
   {
@@ -7029,6 +7061,17 @@
       "崇高",
       "sublime",
       "sublimity"
+    ]
+  },
+  {
+    "title": "Theatrical Morality",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Theatrical Morality.md",
+    "aliases": [
+      "舞台道德",
+      "戏剧之善",
+      "舞台道德自律",
+      "theatralisch gut"
     ]
   },
   {
@@ -10802,6 +10845,17 @@
       "视角主义",
       "透视主义",
       "Epistemological Perspectivism"
+    ]
+  },
+  {
+    "title": "Petites Perceptions",
+    "type": "concept",
+    "path": "wiki/concepts/epistemology/Petites Perceptions.md",
+    "aliases": [
+      "微知觉",
+      "微小知觉",
+      "隐微感知",
+      "minute perceptions"
     ]
   },
   {
