@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "output/未命名.md"
+    },
+    {
       "basename": "03 席勒",
       "path": "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照/03 席勒.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Emic and Etic",
       "path": "wiki/concepts/research-methodology/Emic and Etic.md"
-    },
-    {
-      "basename": "Argument_Silova_2009_EE",
-      "path": "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md"
     }
   ],
   "omittedPaths": [],
