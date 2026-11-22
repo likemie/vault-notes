@@ -81,39 +81,9 @@
               "icon": "lucide-file",
               "title": "03 席勒"
             }
-          },
-          {
-            "id": "6734dc39cb08ccf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "file:/Users/shaoyangwu/Downloads/# 人工智能时代的科研范式变革与人文社会科学的未来.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "# 人工智能时代的科研范式变革与人文社会科学的未来"
-            }
-          },
-          {
-            "id": "21fe7af669bc20d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/人工智能时代的科研范式变革_5000字版.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "人工智能时代的科研范式变革_5000字版"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -330,15 +300,19 @@
       "ai-usage-float:显示或隐藏额度浮窗": false
     }
   },
-  "active": "21fe7af669bc20d9",
+  "active": "3643ff474ee79da9",
   "lastOpenFiles": [
-    "file:/Users/shaoyangwu/Downloads/# 人工智能时代的科研范式变革与人文社会科学的未来.md",
+    "file:/Users/shaoyangwu/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_ri4uzkqb831321_441c/msg/file/2026-11/人工智能时代的科研范式变革与人文社会科学的未来(1).md",
     "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照/03 席勒.md",
-    "file:/Users/shaoyangwu/Downloads/人工智能时代的科研范式变革_5000字版.md",
-    "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/人工智能时代的科研范式变革_5000字版.md",
+    "file:/Users/shaoyangwu/Downloads/智体科研的兴起与人文社会科学的未来_5000字版.md",
     "file:/Users/shaoyangwu/Downloads/智体科研的兴起与人文社会科学的未来.md",
-    "output/related-updates/Argument_Hammermeister_2002_Cambridge_Ch02-b9b79768/batch-003/result.json",
+    "AGENTS.md",
+    "file:/Users/shaoyangwu/Downloads/数智时代科研范式变革与人文社会科学的未来.md",
     "# 人工智能时代的科研范式之变与人文社会科学的新境.md",
+    "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/人工智能时代的科研范式变革_5000字版.md",
+    "file:/Users/shaoyangwu/Downloads/# 人工智能时代的科研范式变革与人文社会科学的未来.md",
+    "file:/Users/shaoyangwu/Downloads/人工智能时代的科研范式变革_5000字版.md",
+    "output/related-updates/Argument_Hammermeister_2002_Cambridge_Ch02-b9b79768/batch-003/result.json",
     "file:/Users/shaoyangwu/Downloads/# 数智时代的科研范式变革：智体科研的兴起与人文社会科学的未来.md",
     "output/人工智能时代的科研范式变革与人文社会科学的未来.md",
     "output/基础领域青年人才与科研资助文献摘要.md",
@@ -364,10 +338,6 @@
     "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照/02 康德.md",
     "wiki/persons/germany/Eckhard Klieme.md",
     "wiki/persons/germany/Jürgen Baumert.md",
-    "wiki/concepts/educational-policy-reform/Competence Clash.md",
-    "wiki/concepts/instruction-pedagogy/Empirische Unterrichtsforschung.md",
-    "wiki/facts/germany/PISA-Ländervergleich.md",
-    "wiki/facts/germany/KMK-Bildungsstandards.md",
     "sources/Dustmann_2017_EconJ/figures/Dustmann_2017_EconJ_Fig6_Date_of_Birth_and_Completed_Education.jpg",
     "sources/Dustmann_2017_EconJ/figures/Dustmann_2017_EconJ_Fig5_Date_of_Birth_and_Downgrading.jpg",
     "sources/Dustmann_2017_EconJ/figures/Dustmann_2017_EconJ_Fig4_Log_Wage_Differences_by_Age.jpg",
