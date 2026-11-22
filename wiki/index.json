@@ -3165,6 +3165,20 @@
     ]
   },
   {
+    "title": "Process-Oriented Examination",
+    "type": "concept",
+    "path": "wiki/concepts/competency-and-assessment/Process-Oriented Examination.md",
+    "aliases": [
+      "过程导向型考核",
+      "过程导向考核",
+      "过程导向型考试",
+      "阶段性过程考核",
+      "分段式结业考试",
+      "prozessorientierte Prüfung",
+      "gestreckte Abschlussprüfung"
+    ]
+  },
+  {
     "title": "Reflective Thinking",
     "type": "concept",
     "path": "wiki/concepts/competency-and-assessment/Reflective Thinking.md",
@@ -15431,6 +15445,18 @@
       "制度分层",
       "制度叠加",
       "layering"
+    ]
+  },
+  {
+    "title": "Institutional Maintenance",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Institutional Maintenance.md",
+    "aliases": [
+      "制度维护",
+      "制度维持",
+      "制度维系",
+      "institutional work of maintenance",
+      "active maintenance"
     ]
   },
   {
@@ -44678,6 +44704,20 @@
       "联邦政府中国战略",
       "China Strategy of the Federal Government 2023",
       "Strategie der Bundesregierung zu China"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Crafts Code Reform of 2004",
+    "type": "fact",
+    "path": "wiki/facts/germany/Crafts Code Reform of 2004.md",
+    "aliases": [
+      "2004年德国手工业法改革",
+      "2004年手工业条例改革",
+      "手工业条例修改案",
+      "Handwerksordnungsreform 2004",
+      "Crafts Code Reform",
+      "Third Act Amending the Crafts Code"
     ],
     "subtype": "policy"
   },
