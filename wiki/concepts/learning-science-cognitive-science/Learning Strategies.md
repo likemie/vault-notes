@@ -31,15 +31,19 @@ related_concepts:
   - "[[Teaching for Understanding]]"
 related_theories: []
 related_methods: []
+related_persons:
+  - "[[John Hattie]]"
+  - "[[Ewald Terhart]]"
 related_arguments:
   - "[[Argument_Hogan_2013_ROE]]"
   - "[[Argument_Li_2012_Cambridge]]"
   - "[[Argument_Greene_2018_JEP]]"
   - "[[Argument_Cartiff_2021_JEP]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-18
+updated: 2026-11-23
 ---
 
 > [!def] Learning Strategies
@@ -178,6 +182,9 @@ updated: 2026-11-18
 > | [[Surface and Deep Learning]] | 概念 | 区分表层机械策略与深层概念整合策略的经典理论谱系。 |
 > | [[High-Stakes Testing]] | 概念 | 高利害考试问责体制构成塑造与制约学生策略偏好的主要制度场域。 |
 > | [[Teaching for Understanding]] | 概念 | 为理解而教为学生行使高阶策略提供了不可或缺的学科支架支撑。 |
+> | [[Visible Learning]] | 概念 | 将学习策略（$d = 0.67 \sim 0.72$）标定为激活型教学核心要素的宏观元分析模型。 |
+> | [[John Hattie]] | 人物 | 在二阶元分析中量化学习策略与元认知策略高促学效应的代表学者。 |
+> | [[Ewald Terhart]] | 人物 | 梳理元认知策略作为激活型高成效教学代表实践（$d = 0.67$）的德国教育学者。 |
 
 > [!metax-divider]
 
@@ -220,8 +227,9 @@ updated: 2026-11-18
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
-> - **[[Argument_Hogan_2013_ROE|Hogan et al. (2013)]]** — 检验共同调节学习策略的三因子测量模型与结构方程路径，确立深层学习策略对理解性教学的强因果依附性（$\beta = .73 \sim .77$），并揭示高利害统考下高阶策略被机械操练边缘化的现实样态。
-> - **[[Argument_Greene_2018_JEP|Greene et al. (2018)]]** — 元分析考察认知策略在认识论信念与学业成就之间的中介作用，确立深层策略对概念性成就的特异预测力。
-> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]]** — 元分析证实认识论干预通过改变学生的求真策略显著促进高阶论证能力，但在考查机械做题速度的任务上无增益。
-> - **[[Argument_Li_2012_Cambridge|Li (2012)]]** — 跨文化考察东亚学生在学习美德引导下的重复与精深加工策略，解构西方对重复性学习策略等同于死记硬背的文化偏见。
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Hogan_2013_ROE|Hogan et al. (2013)]] — 检验共同调节学习策略的三因子测量模型与结构方程路径，确立深层学习策略对理解性教学的强因果依附性（$\beta = .73 \sim .77$），并揭示高利害统考下高阶策略被机械操练边缘化的现实样态。
+> - [[Argument_Greene_2018_JEP|Greene et al. (2018)]] — 元分析考察认知策略在认识论信念与学业成就之间的中介作用，确立深层策略对概念性成就的特异预测力。
+> - [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] — 元分析证实认识论干预通过改变学生的求真策略显著促进高阶论证能力，但在考查机械做题速度的任务上无增益。
+> - [[Argument_Li_2012_Cambridge|Li (2012)]] — 跨文化考察东亚学生在学习美德引导下的重复与精深加工策略，解构西方对重复性学习策略等同于死记硬背的文化偏见。
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 梳理可见学习德译本中元认知策略（$d = 0.67$）作为挑战者角色的核心实践，阐明策略掌握对学生自我监控与学业增益的决定性支撑。

@@ -106,10 +106,11 @@ related_arguments:
   - "[[Argument_Sahlgren_2015_CPS]]"
   - "[[Argument_Cole_2015_AJE]]"
   - "[[Argument_Gopinathan_2007_GSE]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-18
+updated: 2026-11-23
 ---
 
 ---
@@ -343,20 +344,22 @@ updated: 2026-11-18
 > | [[Critical Thinking]] | 概念 | 显性直接指导与学科探究相结合的混合模式最能促进批判性思维。 |
 > | [[Cognitive Load Theory]] | 理论 | 为直接教学提供认知科学机理解释，强调降低初学者工作记忆负荷。 |
 > | [[John Hattie]] | 人物 | 在可见学习综合中确立直接教学的高效应量（$d = 0.59$）与激活者地位。 |
+> | [[Ewald Terhart]] | 人物 | 评析可见学习中直接教学（$d = 0.59$）与促进者低效模式差异的德国学者。 |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 评估独立直接教学与[[Infusion Approach\|学科融入模式]]在[[Critical Thinking\|批判性思维]]培养中的相对效应，揭示显性混合模式的最优性。
-> - [[Argument_Zhao_2017_JEC\|Zhao (2017)]] — 从教育副作用视角深度反思直接教学与 Hattie [[Effect Size\|效应量]]崇拜背后的生态代价。
-> - [[Argument_Terhart_2011_JCS\|Terhart (2011)]] — 对比英美[[Positivism\|实证主义]]直接教学论与欧陆经典教学论（[[Didaktik]]）的[[Paradigm\|范式]]差异。
-> - [[Argument_Park_2026_TSC\|Park et al. (2026)]] — 多水平[[Meta-analysis\|元分析]]证实显性直接教学在[[Creativity Training\|创造力干预]]中的关键效能。
-> - [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] — 比较[[Australian Curriculum\|澳大利亚课程]]体系中显性教学与隐性期望对批判性思维的差异化影响。
-> - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 梳理 Direct Instruction 在联邦 CSR 计划与 [[Every Student Succeeds Act\|ESSA]] TIER 1 核心通用教学中的实证定位。
-> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统检视直接教学在科学教育中的适用边界，指出脱离探究练习的单一直接讲授无法保障长效保持与迁移，主张将直接教学适时嵌入探究全周期。
+> - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 评估独立直接教学与[[Infusion Approach|学科融入模式]]在[[Critical Thinking|批判性思维]]培养中的相对效应，揭示显性混合模式的最优性。
+> - [[Argument_Zhao_2017_JEC|Zhao (2017)]] — 从教育副作用视角深度反思直接教学与 Hattie [[Effect Size|效应量]]崇拜背后的生态代价。
+> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 对比英美[[Positivism|实证主义]]直接教学论与欧陆经典教学论（[[Didaktik]]）的[[Paradigm|范式]]差异。
+> - [[Argument_Park_2026_TSC|Park et al. (2026)]] — 多水平[[Meta-analysis|元分析]]证实显性直接教学在[[Creativity Training|创造力干预]]中的关键效能。
+> - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 比较[[Australian Curriculum|澳大利亚课程]]体系中显性教学与隐性期望对批判性思维的差异化影响。
+> - [[Argument_Slavin_2019_EducPsychol|Slavin (2019)]] — 梳理 Direct Instruction 在联邦 CSR 计划与 [[Every Student Succeeds Act|ESSA]] TIER 1 核心通用教学中的实证定位。
+> - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 系统检视直接教学在科学教育中的适用边界，指出脱离探究练习的单一直接讲授无法保障长效保持与迁移，主张将直接教学适时嵌入探究全周期。
 > - [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]] — 历史实证考证芬兰保留教师主导直接教学对国际测验高分的因果贡献，揭示转向学生中心探究法诱发学业滑坡（pp. 38–48, 58–62）。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 系统审计 Hattie 直接教学元分析汇总，揭露 Haas (2005) [[Standard Error|标准误]]伪造导致权重缩水 53.5% 的计算缺陷，并提出[[Category Mistake|德甲联赛隐喻]]论证全学年直接教学与瞬时实验的[[Incommensurability|不可通约性]]。
 > - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 结合新加坡实证[[Lesson Study|课堂研究]]（CRPP 数据；Hogan et al., 2013; Hogan, 2014），确证直接讲授在大纲知识覆盖与应试解题中的支柱功能，揭示以直接教学为主干的混合规程造就高绩效系统国际测验高分的机理。
 > - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 考察新加坡高利害大考下直接教学框架的制度韧性，揭示基层教师如何将创造力矮化为模块化应试技巧并机械嫁接于直接讲授之上（pp. 61–62）。
 > - [[Argument_Hogan_2013_ROE|Hogan et al. (2013)]] — 运用高阶因子分析确立直接教学由示范、复习、内容结构化、提问与反馈构成的测量结构，并证明其作为传统与理解策略间因果中介的作用。
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 述评可见学习德译本中直接教学（$d = 0.59$）在激活者阵营中的核心地位，阐述高结构直接讲授对认知激活的经验支撑。
 

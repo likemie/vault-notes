@@ -67,6 +67,7 @@ related_persons:
   - "[[Sotiria Grek]]"
   - "[[B. F. Skinner]]"
   - "[[Ivan Snook]]"
+  - "[[Ewald Terhart]]"
 related_facts:
   - "[[EU]]"
   - "[[Gesamtschule]]"
@@ -82,6 +83,7 @@ related_arguments:
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Higgins_2016_ROE]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
 related_instruments:
   - "[[Framework for Teaching]]"
   - "[[Problem Solving Inventory]]"
@@ -212,29 +214,28 @@ updated: 2026-11-21
 
 ---
 
-> [!entry-map] 个别化教学相关条目关联矩阵
+> [!entry-map] 条目关联
 >
-> | 条目 | 类型 | 关联说明 |
+> | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Class Size]] | 概念 | 小班额是落地密集、高频个别化指导的物理与组织[[Necessary and Sufficient Conditions\|必要条件]]。 |
-> | [[Interaction Effect]] | 概念 | 个别化教学与班额、专业发展之间存在强交互效应，否定了单[[Variable\|变量]]孤立排名的有效性。 |
+> | [[Class Size]] | 概念 | 小班额是落地密集、高频个别化指导的物理与组织必要条件。 |
+> | [[Interaction Effect]] | 概念 | 个别化教学与班额、专业发展之间存在强交互效应，否定了单变量孤立排名的有效性。 |
 > | [[Necessary and Sufficient Conditions]] | 概念 | 适切班额虽不单独构成提升学业的充分条件，却是个别化教学取得实效的必要支撑。 |
-> | [[Picking Up the Pace]] | 事实 | 新西兰奥克兰通过压降班额成功落地微型小组个别化读写干预的标志性实证案例。 |
 > | [[Effective Teaching]] | 概念 | 个别化教学是高品质有效教学中适配学生认知起点的支架维度，需配合显性领导。 |
 > | [[Structured Teaching]] | 概念 | 结构化教学为个别化提供清晰目标框架与流程规范，防止个别化滑向无序放任。 |
 > | [[Direct Instruction]] | 概念 | 直接教学搭建学科基础概念支架，与后续的针对性个别化辅导构成有机链条。 |
 > | [[Feedback]] | 概念 | 形成性反馈是个别化教学的核心引擎，为不同进度的学生指明后续改进方向。 |
+> | [[Picking Up the Pace]] | 事实 | 新西兰奥克兰通过压降班额成功落地微型小组个别化读写干预的标志性实证案例。 |
+> | [[Ewald Terhart]] | 人物 | 梳理个别化教学在促进者角色中低效应量（$d = 0.20$）及其教学论局限的德国学者。 |
 
 ---
 
-> [!evidence-grid] [[Chain of Evidence|证据链]]条
->
-> | 论证条目 | 证据类型 | 关键学者 / 报告 | 支撑的核心论断 |
-> |:---|:---|:---|:---|
-> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 批判性政策审议与案例解构 | Snook, O'Neill et al. (2009); Stewart (2001) | 奥克兰 [[Picking Up the Pace\|PACE 项目]]证明小[[Class Size\|班额]]（15人）是个别化微型小组指导的[[Necessary and Sufficient Conditions\|必要条件]]，抨击单[[Variable\|变量]][[Meta-analysis\|元分析]]割裂[[Interaction Effect\|交互效应]]。 |
-> | [[Argument_Laursen_2015_Paideia\|Laursen (2015)]] | 跨文化教学实证综合 | [[Argument_Laursen_2015_Paideia\|Laursen (2015)]]; SFI Report (2015) | 个别化教学不等于教师甩包袱；弱势背景学生对显性结构高度依赖，过度开放的个别化反会拉大差距。 |
-> | [[Argument_Higgins_2016_ROE\|Higgins (2016)]] | 循证干预[[Meta-meta-analysis\|元综合]]评价 | [[Argument_Higgins_2016_ROE\|Higgins (2016)]]; Hattie (1992, 2008) | 归纳个别化教学在纯统计排名中的低效应量（$d = 0.14$），反思自定步调独立学习的局限。 |
-> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | 政策社会学与跨国治理分析 | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | 剖析欧盟同伴学习活动如何将芬兰面向落后学生的早期个别化教学经验构造成兼顾卓越与公平的跨国通用政策处方。 |
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 批判性政策审议与案例解构，证明小班额（15人）是个别化微型小组指导的必要条件，抨击单变量元分析割裂交互效应。
+> - [[Argument_Laursen_2015_Paideia|Laursen (2015)]] — 跨文化教学实证综合，指出个别化教学不等于教师甩包袱；弱势背景学生对显性结构高度依赖，过度开放的个别化反会拉大差距。
+> - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 循证干预元综合评价，归纳个别化教学在纯统计排名中的低效应量（$d = 0.14$），反思自定步调独立学习的局限。
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 政策社会学与跨国治理分析，剖析欧盟同伴学习活动如何将芬兰面向落后学生的早期个别化教学经验构造成兼顾卓越与公平的跨国通用政策处方。
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 评析可见学习德译本中个别化教学（$d = 0.20$）归入协助者角色的低效成因，论证缺乏教师积极认知介入的个别化难以自发促进深层概念理解。
 
 > [!metax-divider]
 

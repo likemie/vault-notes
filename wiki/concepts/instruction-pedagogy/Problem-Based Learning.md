@@ -73,6 +73,7 @@ related_methods:
 related_persons:
   - "[[John Biggs]]"
   - "[[John Hattie]]"
+  - "[[Ewald Terhart]]"
 related_facts:
   - "[[TIMSS]]"
 related_arguments:
@@ -83,6 +84,7 @@ related_arguments:
   - "[[Argument_Blass_2020_JESP]]"
   - "[[Argument_Cartiff_2021_JEP]]"
   - "[[Argument_Knudsen_2017_NordSTEP]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
 related_instruments:
   - "[[Framework for Teaching]]"
 confidence: medium
@@ -414,13 +416,28 @@ updated: 2026-11-11
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Biggs_1999_HERD\|Biggs (1999)]] 将 PBL 作为自上而下[[Constructive Alignment\|建构性对齐]]的案例，完整连接专业目标、问题活动和三跳评估。
-> - [[Argument_Hattie_2015_SOTLP\|Hattie (2015a)]] 以早期二级综合汇总九项一级[[Meta-analysis\|元分析]]，并从先备知识、推理方向、知识获取和问题结构解释低平均效应。
-> - [[Argument_Blass_2020_JESP\|Blass (2020)]] 审查 Hattie 的 PBL 来源类型与情境，同时强调教师培训、结果目标和知识深度对效果解释的影响。
-> - [[Argument_Schaffar_2024_CogentEdu\|Schaffar and Wolff (2024)]] 将 PBL 定位为芬兰[[Phenomenon-Based Learning\|现象本位学习]]的近缘[[Constructivist Paradigm\|建构主义]]传统，并划定两者的哲学与课程边界。
-> - [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] 以[[Meta-meta-analysis\|二阶元分析]]综合 20 项一阶元分析，报告 PBL 对高等教育学生结果（[[Theoretical Knowledge\|理论性知识]]、[[Clinical Skills\|临床技能]]、[[Critical Thinking\|批判性思维]]、态度与满意度）的总体高效应，并分解结果类型、地域、抽样方法、质量、报告类型与年份的调节作用。
-> - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 在[[Epistemic Cognition\|认识论认知]]干预因果元分析中量化对比了基于问题的学习（PBL）与其他[[Framework for Teaching|教学框架]]的[[Effect Size\|效应量]]，实证揭示了缺乏显性[[Scaffolding\|认知支架]]时 PBL 的成效局限。
-> - [[Argument_Knudsen_2017_NordSTEP\|Knudsen (2017)]] 访谈记录[[John Hattie|哈蒂]]对 PBL 效应量偏低的认知解释，指出 90% 推行 PBL 的学校因缺乏表层知识铺垫过早引入探究，打乱认知进阶导致效能滑坡。
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Problem Solving]] | 概念 | PBL 旨在培养的核心认知能力与学习活动的起点任务。 |
+> | [[Direct Instruction]] | 概念 | 与 PBL 形成时序互补、为劣构问题探究提供前置概念支架的教学方法。 |
+> | [[Constructive Alignment]] | 概念 | 将专业实践问题贯通课程目标、学习活动与三跳评估的课程设计模型。 |
+> | [[Inquiry-Based Learning]] | 概念 | 与 PBL 共享主动探究与证据建构取向的探究式教学家族。 |
+> | [[Metacognition]] | 概念 | 在开放问题探究中调控认知负荷、反思解题方向的核心监控机能。 |
+> | [[Scaffolding]] | 概念 | 教师随学生能力提升逐步释放自主权的动态认知支架。 |
+> | [[Visible Learning]] | 概念 | 早期综合中量化 PBL 低效应量（$d = 0.15$）并将其归入促进者阵营的模型。 |
+> | [[John Hattie]] | 人物 | 在二阶元分析中梳理 PBL 效应量并分析先备知识制约的代表学者。 |
+> | [[Ewald Terhart]] | 人物 | 评析可见学习中基于问题的学习（$d = 0.15$）落入协助者低效区的德国学者。 |
 
 ---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Biggs_1999_HERD|Biggs (1999)]] 将 PBL 作为自上而下[[Constructive Alignment|建构性对齐]]的案例，完整连接专业目标、问题活动和三跳评估。
+> - [[Argument_Hattie_2015_SOTLP|Hattie (2015a)]] 以早期二级综合汇总九项一级[[Meta-analysis|元分析]]，并从先备知识、推理方向、知识获取和问题结构解释低平均效应。
+> - [[Argument_Blass_2020_JESP|Blass (2020)]] 审查 Hattie 的 PBL 来源类型与情境，同时强调教师培训、结果目标和知识深度对效果解释的影响。
+> - [[Argument_Schaffar_2024_CogentEdu|Schaffar and Wolff (2024)]] 将 PBL 定位为芬兰[[Phenomenon-Based Learning|现象本位学习]]的近缘[[Constructivist Paradigm|建构主义]]传统，并划定两者的哲学与课程边界。
+> - [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] 以[[Meta-meta-analysis|二阶元分析]]综合 20 项一阶元分析，报告 PBL 对高等教育学生结果（[[Theoretical Knowledge|理论性知识]]、[[Clinical Skills|临床技能]]、[[Critical Thinking|批判性思维]]、态度与满意度）的总体高效应，并分解结果类型、地域、抽样方法、质量、报告类型与年份的调节作用。
+> - [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] 在[[Epistemic Cognition|认识论认知]]干预因果元分析中量化对比了基于问题的学习（PBL）与其他[[Framework for Teaching|教学框架]]的[[Effect Size|效应量]]，实证揭示了缺乏显性[[Scaffolding|认知支架]]时 PBL 的成效局限。
+> - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] 访谈记录[[John Hattie|哈蒂]]对 PBL 效应量偏低的认知解释，指出 90% 推行 PBL 的学校因缺乏表层知识铺垫过早引入探究，打乱认知进阶导致效能滑坡。
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] 梳理可见学习德译本中问题导向教学效应量（$d = 0.15$）落入协助者低效区的成因，指出脱离显性指导的放任探究难以激活深层理解。
