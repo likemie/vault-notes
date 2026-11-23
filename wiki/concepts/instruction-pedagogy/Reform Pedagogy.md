@@ -7,10 +7,10 @@ aliases:
 summary: "20世纪初发端于德语区及北欧、并在1960–1970年代被批判教育学者重新激活的教育革新思潮，主张打破传统自上而下的漏斗注入式教学与国家官僚规训，立足儿童内在生命经验倡导问题导向、跨学科小组合作与民主自决。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 28
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 32
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - instruction-pedagogy
   - educational-philosophy
@@ -40,6 +40,8 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Competitiveness]]"
   - "[[Lifelong Learning]]"
+  - "[[Visible Learning]]"
+  - "[[Didaktik]]"
 related_theories:
   - "[[Critical Theory]]"
   - "[[Cognitive Capitalism]]"
@@ -48,14 +50,16 @@ related_instruments: []
 related_persons:
   - "[[John Dewey]]"
   - "[[Wolfgang Klafki]]"
+  - "[[Ewald Terhart]]"
 related_facts:
   - "[[Grammar School]]"
 related_arguments:
   - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
 confidence: high
 status: completed
 created: 2026-10-18
-updated: 2026-11-19
+updated: 2026-11-23
 ---
 
 ---
@@ -127,7 +131,7 @@ updated: 2026-11-19
 > **概念史语义演变与体制招安** 剖析原本旨在解放人性的改革教育学[[Discourse|话语]]，如何在 20 世纪末期被资本主义市场逻辑与国家量化治理所吸纳。
 
 > [!claim] [[Argument_Larsen_2019_EducSci|Larsen (2019)]]; Biesta (2017)
-> **从解放旗帜蜕化为资本润滑剂** 概念史考证揭示，从 20 世纪 90 年代起，改革教育学所倡导的自主性、灵活性与自我导向等核心主张，被新自由主义国家治理体系全面吸纳并翻转为统治工具。国际经济组织与政客将自主探究扭曲为培养高弹性、自负盈亏劳动力的手段，导致旨在促进人的全面发展的“学习”演变为全员强制的终身[[Developmentalism|发展主义]]律令；学校从昔日反抗专制的民主实验场，[[Alienation|异化]]为将数千项学习目标精细嵌入课程并进行全周期测验监控的数据工厂。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 2, 8–9)]]
+> **从解放旗帜演变为资本工具** 概念史考证揭示，从 20 世纪 90 年代起，改革教育学所倡导的自主性、灵活性与自我导向等核心主张，被新自由主义国家治理体系全面吸纳并翻转为统治工具。国际经济组织与政客将自主探究扭曲为培养高弹性、自负盈亏劳动力的手段，导致旨在促进人的全面发展的“学习”演变为全员强制的终身[[Developmentalism|发展主义]]律令；学校从昔日反抗专制的民主实验场，[[Alienation|异化]]为将数千项学习目标精细嵌入课程并进行全周期测验监控的数据工厂。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 2, 8–9)]]
 
 ---
 
@@ -141,6 +145,38 @@ updated: 2026-11-19
 ---
 
 > [!dev-timeline] 概念演变脉络
-> - **1890–1933 年：古典欧洲改革教育学浪潮** 在反思 19 世纪工业文明与僵化经院[[Grammar School|文法学校]]的背景下，蒙台梭利、鲁道夫·施泰纳（华德福教育）、彼得·彼得森（耶拿计划）及凯兴斯泰纳（劳作学校）发起轰轰烈烈的学校革新运动，主张“从儿童出发”。
-> - **1960–1970 年代：批判性复兴与民主实验** 结合学生运动与[[Critical Theory|批判理论]]，丹麦与德国教育学者激活[[John Dewey|杜威]]与克拉夫基学说，将改革教育学与反专制、反社会阶层再生产相结合，在公立教育系统内建立大量民主合作实验校。
+> - **1890–1933 年：古典欧洲改革教育学浪潮** 在反思 19 世纪工业文明与僵化经院[[Grammar School|文法学校]]的背景下，蒙台梭利、鲁道夫·施泰纳（华德福教育）、彼得·彼得森（耶拿计划）及凯兴斯泰纳（劳作学校）发起学校革新运动，主张“从儿童出发”。
+> - **1960–1970 年代：批判性复兴与民主实验** 结合学生运动与[[Critical Theory|批判理论]]，丹麦与德国教育学者激活[[John Dewey|杜威]]与克拉夫基学说，将改革教育学与反专制、反社会阶层再生产相结合，在公立教育系统内建立民主合作实验校。
 > - **1990 年代至今：新自由主义吸纳与[[Learnification|学习化]]危机** 伴随跨国量化治理普及，改革教育学的形式要素（小组项目、自我评价）被绩效问责体制抽离并技术化，沦为达成数千项法定学习目标的包装手段，引发当代教育哲学者的深刻反思与再批判。
+
+---
+
+> [!debates|notitle] 学术争议
+>
+> > [!axis] 学生中心探究与直接干预的范式竞争
+> > 改革教育学倡导的以学习者为中心、问题导向的小组探究，在实证课堂教学研究与元分析中面临关于指导程度与教学有效性的持久学术交锋。
+> >
+> > - **[[Argument_Terhart_2014_HolyGrail|Terhart (2014)]]** 指出德国改革教育学传统偏向将“学习”视为儿童自主发现过程，但实证研究与元分析数据表明，缺少教师结构化指导与即时反馈的纯粹发现学习收效有限，倡导重构兼顾直接教学与自主探究的教学论平衡。[[Argument_Terhart_2014_HolyGrail|(Terhart, 2014, pp. 20–21)]]
+> > - **[[Argument_Larsen_2019_EducSci|Larsen (2019)]]** 强调改革教育学发端于对威权灌输式教学的批判，其核心价值在于培育反思性民主公民与自决权，警惕将教学矮化为追求标准化测验产出的技术主义管控。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 8)]]
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:---|:---|:---|
+> | [[Progressive Education]] | 概念 | 美国的对应形态，同样强调从儿童经验出发与实用探究，但改革教育学更具欧陆教化批判色彩。 |
+> | [[Didaktik]] | 概念 | 德语教学论传统，改革教育学依托其范型教学与教化理念重构师生互动关系。 |
+> | [[Visible Learning]] | 概念 | 实证综合研究主张教师作为激活者主导教学，对激进改革教育学的纯粹自主发现模式形成批判。[[Argument_Terhart_2014_HolyGrail\|(Terhart, 2014, pp. 20–21)]] |
+> | [[Learnification]] | 概念 | 批判新自由主义将教育抽空为去政治化、去内容化的学习技能训练，背离改革教育学初衷。 |
+> | [[Bildung]] | 概念 | 德意志教化传统，构成改革教育学追求全人陶成与民主主体性的哲学底色。 |
+> | [[Critical Pedagogy]] | 概念 | 20 世纪 60 至 70 年代与改革教育学汇流，共同批判国家官僚对知识的垄断与社会阶层再生产。 |
+> | [[John Dewey]] | 人物 | 实用主义哲学家，其“做中学”与民主教育理念被欧陆改革教育学广泛汲取。 |
+> | [[Wolfgang Klafki]] | 人物 | 德国批判建设性教学论代表，其范例教学思想深度融合了改革教育学的问题探究理念。 |
+> | [[Ewald Terhart]] | 人物 | 教学论学者，系统梳理并评析了德语区改革教育学在可见的学习冲击下的争鸣与调适。[[Argument_Terhart_2014_HolyGrail\|(Terhart, 2014, pp. 20–21)]] |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 考证丹麦教育语境中改革教育学的批判复兴与后续被新自由主义学习化治理吸纳的演变脉络。
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 评析可见的学习对德语区改革教育学自主建构神话的冲击，论证教师直接干预与自主探究的辩证关系。

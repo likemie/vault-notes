@@ -10,7 +10,7 @@ aliases:
 summary: "德国教育学界在PISA震荡后经历“急剧经验转向”而崛起为主流的核心研究范式；以经验社会科学、心理测量与因果推断为方法根基，探究“学校实际是怎样的”而非规范性“学校应当是怎样的”，打破了人文学派普通教学论（Allgemeine Didaktik）对教育独特性与不可测教化传统的垄断，将素养、能力与课堂互动转化为量化实证指标。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 40
+related_count: 44
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -46,6 +46,8 @@ related_concepts:
   - "[[Output-Oriented Governance]]"
   - "[[Empiricism]]"
   - "[[PISA Shock]]"
+  - "[[Streetlight Effect]]"
+  - "[[Visible Learning]]"
 related_theories:
   - "[[Critical Theory]]"
 related_methods:
@@ -58,6 +60,7 @@ related_instruments: []
 related_persons:
   - "[[Eckhard Klieme]]"
   - "[[Wolfgang Klafki]]"
+  - "[[Ewald Terhart]]"
 related_facts:
   - "[[PISA]]"
   - "[[Institute for Educational Quality Improvement]]"
@@ -67,10 +70,11 @@ related_facts:
   - "[[TIMSS]]"
 related_arguments:
   - "[[Argument_Ertl_2006_ORE]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
 confidence: high
 status: active
 created: 2026-11-21
-updated: 2026-11-21
+updated: 2026-11-23
 ---
 
 ---
@@ -108,6 +112,7 @@ updated: 2026-11-21
 > - **实然状态的经验观测** 将研究重心从形而上学思辨转向真实课堂生态，借助客观记录工具（如编码量表与高保真录像）捕捉微观教学互动。[[Argument_Ertl_2006_ORE|(Ertl, 2006, p. 627)]]
 > - **能力的标准化[[Operationalization|操作化]]** 将传统模糊的“教化”概念剥离，全面采用现代认知心理学与心理测量的胜任力模型，将学习成效转化为多维度连续量表。[[Argument_Ertl_2006_ORE|(Ertl, 2006, p. 628)]]
 > - **教学因果机制的严谨识别** 运用实验与准[[Experimental Research|实验设计]]，控制背景混淆[[Variable|变量]]，精准评估特定教学法或课程干预对学生[[Academic Achievement|学业成就]]的净[[Effect Size|效应量]]。
+> - **过程-结果范式（Process-Product Paradigm）的因果测量** 将教学过程分解为可观察记录的教师课堂行为（自变量），将学生标准化成就测验成绩作为因变量，通过量化回归或效应量评估测量二者的因果对应。[[Argument_Terhart_2014_HolyGrail|(Terhart, 2014, p. 20)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -151,6 +156,7 @@ updated: 2026-11-21
 > - **1960s–1990s — 长期处于“阴影生存”（Schattendasein）** 战后西德教育学由人文学派教学论与[[Critical Theory|批判理论]]占据绝对主流，实证教学研究因被指责为[[Technical Rationality|技术理性]]与实证主义狭隘化而在大学系科中长期边缘化。[[Argument_Ertl_2006_ORE|(Ertl, 2006, p. 627)]]
 > - **2000–2003 — PISA 震荡引爆“急剧经验转向”** 国际测评惨败促使政界与社会对形而上学思辨彻底失去耐心，教育心理学与实证教学研究团队迅速填补制度真空，主导《[[Eckhard Klieme|克利梅]]报告》与国家教育标准研制。[[Argument_Ertl_2006_ORE|(Ertl, 2006, pp. 621, 627)]]
 > - **2004 至今 — 确立[[Evidence-Based Education|循证教育]]治理的[[Scientific Hegemony|学术霸权]]** 柏林教育质量发展所（[[Institute for Educational Quality Improvement|IQB]]）设立，[[Gesamtstrategie zum Bildungsmonitoring|国家教育监测总体战略]]成型，实证教学研究成为联邦与各州科研资助重点，稳固占据德国教育科学核心主导地位。
+> - **2014 — 德语区借引《可见的学习》反思过程-结果范式与“路灯效应”** 特哈特主持编撰《讨论中的哈蒂研究》（[[Argument_Terhart_2014_HolyGrail|Terhart, 2014]]），借由审读哈蒂二阶元综合，剖析实证教学研究的过程-结果范式陷入“路灯效应”，指出唯分数测量系统性排斥了道德判断、审美陶冶与文化反思等不可度量维度，警惕技术官僚主义与教室美国化倾向。
 
 ---
 
@@ -161,6 +167,12 @@ updated: 2026-11-21
 > >
 > > - **实证科学阵营** 强调唯有通过定量测量与可重复观察，才能确凿检验教学方法的有效性，避免教师陷入主观臆断与低效教学惯性。
 > > - **教学论传统阵营** 批评实证研究盲目迷信统计数据，将充满生命律动的育人互动降格为冰冷的投入产出公式，遗失了教育学对人类精神生成的关照。
+>
+> > [!axis] 过程-结果范式测量假设 vs 全人育人的不可度量维度（路灯效应争论）
+> > 围绕实证教学研究聚焦可测成就测验分数的有效性与局限性展开交锋。
+> >
+> > - **过程-结果实证阵营** 主张通过量化测验与效应量指标能够建立对教学效果的客观评估基准，为教育干预提供可比较的因果依据。
+> > - **教学论人文反思阵营** 特哈特指出该范式构成典型的路灯效应，只在实证测量技术照得清的地方寻找原因，将学校教育窄化为应试技术训练，遮蔽了深层育人价值。[[Argument_Terhart_2014_HolyGrail|(Terhart, 2014, pp. 20–21)]]
 
 ---
 
@@ -182,8 +194,12 @@ updated: 2026-11-21
 > | [[PISA]] | Fact (Program) | 确立素养测评基准并为实证教学研究提供庞大数据源泉的国际项目。 |
 > | [[PISA Shock in Germany]] | Fact (Event) | 推动实证教学研究走出数十年阴影生存、重组大学系科格局的历史危机。 |
 > | [[TIMSS]] | Fact (Program) | 早于 PISA 揭示德意志理科教学危机、为实证教学研究预热的大规模测评。 |
+| [[Streetlight Effect]] | Concept | 过程-结果范式只在可测变量处搜寻教学原因、排斥不可度量育人维度的认识论偏误。 |
+| [[Visible Learning]] | Concept | 汇总国际实证文献的巨型综合，反映过程-结果范式最高度集成化的经验成果与争议。 |
+| [[Ewald Terhart]] | Person | 德意志教学论与实证教学研究领域学者，主持德语学界对哈蒂元分析的对话反思。 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 系统剖析后 PISA 德国教育学界如何爆发由普通教学论向实证教学研究的“急剧经验转向”与认识论冲突（pp. 627–628）。
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 编撰德语学界对话专著，系统审读哈蒂元综合，反思实证教学研究过程-结果范式的“路灯效应”与不可度量维度的排斥（pp. 20–21）。
