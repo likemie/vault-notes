@@ -9,7 +9,7 @@ aliases:
 summary: "主张心理学与学习科学应聚焦于可观察、可测量的外显行为及其与环境刺激的函数关系，通过强化排程、程序化教学与矫正性反馈控制行为习得，构成了当代实证主义技术理性教学工程与输入—输出评价体系的深层心理学源流"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 57
+theory_related_count: 59
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -77,17 +77,19 @@ related_persons:
   - "[[Axel Honneth]]"
   - "[[Charles Taylor]]"
   - "[[Jürgen Habermas]]"
+  - "[[Ewald Terhart]]"
 related_facts:
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Nielsen_2021_NordPsych]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
   - "[[Argument_Ertl_2006_ORE]]"
   - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
   - "[[Argument_Nielsen_2021_IRTP]]"
 confidence: high
 status: completed
 created: 2026-10-17
-updated: 2026-11-21
+updated: 2026-11-23
 ---
 
 ---
@@ -272,17 +274,19 @@ updated: 2026-11-21
 > > 争论课程与学业标准应当以可测量的外显行为胜任力为导向，还是以复杂知识的教育价值与长周期人文陶冶（[[Bildung]]）为核心。
 > >
 > > - **行为主义产出测评导向（英美国家标准模式）** 聚焦终端考试产出与可测量行为指标，将真实的教学生成与认知互动置于黑箱之中。
-> > - **欧陆教学论与行动陶冶传统（[[Argument_Ertl_2006_ORE|Ertl, 2006]]）** 强调教学内容的选择与教学分析、师生反思对话及行动胜任力（Handlungskompetenz），坚决抵制将教育降格为去情境化的外显行为指标。
+> > - **欧陆教学论与行动陶冶传统（[[Argument_Ertl_2006_ORE|Ertl, 2006]]; [[Argument_Terhart_2014_HolyGrail|Terhart, 2014, p. 21]]）** 强调教学内容的选择与教学分析、师生反思对话及自主探索空间，坚决抵制将教育降格为去情境化的外显行为指标与生产主义量化框架，批判其抑制了学生的创造性与审美体验。
 
 > [!critique] 批评索引
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 系统解构可见学习底层的斯金纳—[[Robert Glaser|格拉泽]]行为主义谱系，揭示其如何通过[[Construct|构念]]混淆拼凑虚高反馈效应，并将复杂育人实践异化为新[[Charles Taylor|泰勒]]主义控制工具。
 > - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 运用[[Jürgen Habermas|哈贝马斯]]生活世界理论与舍恩技术理性批判，指出行为主义教育心理学将充满意向性的鲜活师生客体化为因果[[Variable|变量]]，充当官僚系统应对[[Legitimation Crisis|合法化危机]]的技术掩体。
 > - [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz and Klinge (2022)]] — 批判当代算法教学与[[Gamification|游戏化]]教育平台对斯金纳操作反射排程的机械复活，揭示其以行为规训替代内在教养（[[Bildung]]）的异化风险。
 > - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 批判德国引进的英美行为主义能力测度标准片面紧盯终端考试产出，揭示其与德意志欧陆教学论（Didaktik）和全人教化（Bildung）传统的不可调和性。
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 结合德语区改革教学论（Reformpädagogik）与教学论传统，批判以可见学习为代表的行为主义与生产主义教学量化框架，指出其排斥了非认知育人维度并抑制了学生的自主创造空间（pp. 20–21）。
 
 ---
 
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 提炼欧陆经验界对行为主义与生产主义教学量化框架的批判立场，指出高频测试与外显指令教学抑制了学生的自主探索与审美体验空间（pp. 20–21）。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 追溯当代实证教学评价自 Skinner 到 Glaser 再到 Hattie 的理论传承链，以[[Technical Rationality|技术理性]]解构行为控制逻辑与反馈[[Meta-analysis|元分析]]的数据失真。
 > - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 剖析行为主义心理学工程如何放逐师生[[Intentionality|主体意向性]]与生活世界价值，服务于官僚机构的技术治理。
 > - [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz and Klinge (2022)]] — 考察算法教育与数字化学习平台如何复活[[B. F. Skinner|斯金纳]]操作条件反射，指出其以行为控制消解深层理解的教学弊端。

@@ -10,7 +10,7 @@ aliases:
 summary: "源于边沁建筑构想并由福柯系统阐述的微观权力理论，指出权力依托可见性的结构性非对称与潜在注视假定，将外部强制转化为被监视者的内在心理自律，广泛用于解构教育测验软件、绩效问责与数字全景监控。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 45
+theory_related_count: 46
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -66,6 +66,7 @@ related_facts:
   - "[[European Commission]]"
 related_arguments:
   - "[[Argument_Terhart_2011_JCS]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
   - "[[Argument_Anderson_2016_Verso_Ch10]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
@@ -76,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-16
-updated: 2026-11-19
+updated: 2026-11-23
 ---
 
 ---
@@ -85,7 +86,7 @@ updated: 2026-11-19
 > - **解释对象** 现代规训权力如何通过可见性的空间配置、程序注视与心理假定，将外部强制转化为被治理者的内在自我约束。
 > - **理论问题** 传统主权权力理论将权力等同于自上而下的物理压制与肉体惩戒，无法解释现代制度中权力运作高度隐蔽、经济高效且自动运转的机制。
 > - **理论类型** 微观权力分析理论与批判哲学视角。
-> - **知识位置** 所属[[Post-structuralism|后结构主义]]权力哲学与[[Critical Pedagogy|批判教育学]]传统，源于杰里米·边沁（Jeremy Bentham）建筑学设想，由米歇尔·福柯（Michel Foucault）奠基，后续由吉尔·德勒兹（Gilles Deleuze）发展为[[Societies of Control|控制社会]]理论。
+> - **知识位置** 所属[[Post-structuralism|后结构主义]]权力哲学与[[Critical Pedagogy|批判教育学]]传统，源于杰里米·边沁（Jeremy Bentham）建筑学设想，由米歇尔·福柯（Michel Foucault）系统阐发，后续由吉尔·德勒兹（Gilles Deleuze）发展为[[Societies of Control|控制社会]]理论。
 
 > [!claim] 核心判断
 > 全景敞视主义的核心判断是：权力行使的成效立足于可见性的结构性非对称，通过使被监视者确信自身时刻处于潜在的注视之下，诱导主体自觉按照统治规范审查并修正自身言行，实现权力的持续自动化运转与最小成本治理。[[Argument_Terhart_2011_JCS|(Terhart, 2011, p. 430)]]
@@ -99,7 +100,7 @@ updated: 2026-11-19
 > - **形成路径** 福柯抽离出边沁建筑构想背后的空间几何与光学原理，将其从单一的监狱建筑升华为一种能够弥散并渗透至全社会的微观“权力技术学（technology of power）”。
 
 > [!dev-timeline] 理论版本与贡献
-> - **1975年 — 规训全景奠基** Foucault 系统论证全景敞视建筑作为规训权力典范模型的空间拓扑、去个体化运作与心理内化机制。
+> - **1975年 — 规训全景模型提出** Foucault 系统论证全景敞视建筑作为规训权力典范模型的空间拓扑、去个体化运作与心理内化机制。
 > - **1991年 — 殖民国家心智与玻璃屋全景监视** 安德森在《[[Imagined Community|想象的共同体]]》第10章引入印尼作家[[Pramoedya Ananta Toer|普拉姆迪亚]]的《玻璃屋》隐喻，指出边沁全景敞视建筑在殖民与后殖民国家演进为以分类网格（经线）与[[Serialization|序列化]]（纬线）为核心的彻底能见度治理架构。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 188–189)]]
 > - **1992年 — [[Societies of Control|控制社会]]扩展** Gilles Deleuze 发表《控制社会后记》，指出随着数字信息网络的发展，封闭机构的全景模具逐渐让位于无边界网络中的流动数据调制（Modulation）。
 > - **2009年 — 超国家教育全景敞视分析** [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] 运用全景敞视理论解构[[EU|欧盟]]教育与培训政策，揭示[[Open Method of Coordination|开放协调法]]、基准指标与凝视技术如何在超国家尺度构筑“欧洲教育全景敞视建筑”。（pp. 480–481, 492–493）
@@ -199,6 +200,7 @@ updated: 2026-11-19
 > [!critique] 批评索引
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 批评数据全景监控将专业教学窄化为可度量气压计指标，系统压缩了教师的专业能动性。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 揭示双向可见性修辞背后的微观支配，批评其遮蔽了课堂教育的实质教化维度。
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 结合福柯微观权力技术视角解构哈蒂大眼睛双向注视模型，揭示外显行政支配向内在心理自我规训的转化（pp. 21–22）。
 > - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 批判跨国测评将全景敞视转化为[[Neoliberalism|新自由主义治理]]工具，侵害了教育系统的多样性与主体自主。（p. 423）
 
 ---
@@ -208,6 +210,7 @@ updated: 2026-11-19
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 运用全景敞视理论解构欧盟教育政策，揭示开放协调法如何借助凝视、绩效与治理技术构筑超国家“欧洲教育全景敞视建筑”。（pp. 480–481, 492–493）
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 结合福柯全景敞视理论，解剖 [[Assessment Tools for Teaching and Learning|asTTle]] 监控软件如何演化为可见学习[[Barometer of Achievement|气压计图表]]并压缩[[Teacher Professional Agency|教师能动性]]。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 基于福柯权力理论解构可见学习的双向可见性隐喻，揭示其将行政统治转化为内化自我监控的微观全景规训。
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 借助福柯关于权力与可见性关系的微观权力技术理论，剖析可见教与学模型中大眼睛视觉隐喻背后的双向注视与心理自我规训机制（pp. 21–22）。
 > - [[Argument_McKnight_2020_Discourse|McKnight and Whitburn (2020)]] — 从文化政治学解构视觉霸权构建的全景监控生态及其诱发的[[Ontology|本体论]]不安全。
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 剖析可见学习与[[Performance Indicators|绩效指标]]如何引入新行政全景敞视主义，结合俄罗斯 79% 教师深陷报表负担实证解构官僚组织病理。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 结合神学目光演进与全景视差分析，解构可见学习[[Paradigm|范式]]与 [[PISA]] 测评中的全景敞视技术与眼球中心主义规训。
