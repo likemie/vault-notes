@@ -153,7 +153,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-05-03
-updated: 2026-11-11
+updated: 2026-11-23
 ---
 
 ---
@@ -503,7 +503,7 @@ updated: 2026-11-11
 
 > [!evidence-grid] 使用此方法的核心代表研究
 > - **[[Visible Learning]]** Hattie (2009) 综合 800 多项[[Meta-analysis|元分析]]的开创性巨型综合项目。[[Argument_Terhart_2011_JCS|(Terhart, 2011)]]
-> - **二阶综合[[Epistemology|认识论]]审计与修补金字塔批判** [[Argument_Terhart_2011_JCS|Terhart (2011)]] 对《可见的学习》816 项元分析开展方法学审读与认识论解构，提出货币比附谬误揭示跨项目粗放累加导致的经验信息不可逆损耗，诊断 10–20 年底层文献时滞脱节，并以[[Stability vs. Variability Dilemma|稳定性与变异性假说]]双重困境论证巨型综合筑起的是需无休止局部修补的庞大金字塔，破除终极圣杯神话（pp. 425–438）。
+> - **二阶综合[[Epistemology|认识论]]审计与修补金字塔批判** [[Argument_Terhart_2011_JCS|Terhart (2011)]] 与 [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] 对《可见的学习》816 项元分析开展方法学审读与认识论解构，剖析底层文献 10–20 年时滞脱节与质控标准缺位，指出粗放累加导致的经验信息损耗，并论证巨型综合筑起的是需无休止局部修补的庞大金字塔，破除终极圣杯神话。
 > - **[[EEF Teaching and Learning Toolkit]]** 英国[[Education Endowment Foundation|教育捐赠基金会]]以[[Effect Size|效应量]]与额外学习月数排名 30+ 类教育干预的循证政策工具。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019)]]
 > - **[[Creativity\|创造力]]全领域二阶元分析** [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] 综合 52 项一阶元分析（2,609 项原始研究、124 万被试），运用 [[Correlated and Hierarchical Effects Model\|CHE]] 与 [[Robust Variance Estimation\|RVE]] 确立创造力[[Predictive Validity\|预测效度]]与教育干预效应。
 > - **[[Cooperative Learning\|合作学习]]全领域二阶元分析** [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] 综合 15 项一阶元分析（403 项原始实证研究），在[[Umbrella Review\|伞状综述]]框架下采用单水平经典[[Inverse-Variance Weighting\|逆方差加权]][[Random-Effects Model\|随机效应模型]]（Cooper & Koenka $\le 25\%$ 重叠率准则）评估合作学习对[[Academic Achievement\|学业成就]]、[[Higher-Order Thinking Skills\|高阶思维]]与[[Affective Outcomes\|情感行为]]的综合促进效应（$ES = 0.71$），并检验教学技术、学科领域与研究设计的[[Interaction Effect\|调节效应]]。

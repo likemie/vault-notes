@@ -39,7 +39,7 @@ related_persons:
   - "[[Hilbert Meyer]]"
 status: "draft"
 created: "2026-10-17"
-updated: 2026-10-30
+updated: 2026-11-23
 ---
 
 > [!volume-profile] 阅读档案
@@ -60,10 +60,10 @@ updated: 2026-10-30
 > [!chapter-roadmap] 阅读进度
 > - **准备完成** 十一篇文章已分别转换为十一个 TXT，原有脚注与参考[[Document|文献]]随文章保留。
 > - **阅读顺序** 按目录从第 1 篇开始推进。
-> - **当前进度** 尚未建立章节论证页，具体主张、证据评价与跨篇综合留待逐篇解读。
+> - **当前进度** 已完成第 1 篇论证页（[[Argument_Terhart_2014_HolyGrail]]）；后续各篇具体主张、证据评价与跨篇综合留待逐篇推进。
 
 > [!chapter-index] 德文原文入口
-> - **第 1 篇，学校与教学研究的圣杯找到了吗** Der Heilige Gral der Schul- und Unterrichtsforschung – gefunden? Eine Auseinandersetzung mit [[Visible Learning]]。[[Ewald Terhart]]，原书 pp. 10–23。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch01_Terhart_Holy_Grail_of_Educational_Research.txt)。待解读。
+> - **第 1 篇，学校与教学研究的圣杯找到了吗** [[Argument_Terhart_2014_HolyGrail|Der Heilige Gral der Schul- und Unterrichtsforschung – gefunden? Eine Auseinandersetzung mit Visible Learning]]。[[Ewald Terhart]]，原书 pp. 10–23。系统剖析二阶元分析的统计汇总方法、关键阈值与时效质控缺陷，解构激活型与促进型教师模型及对建构主义教学的批判，并从过程-结果范式、路灯效应、福柯式可见性规训与教育狂热修辞剖析其理论局限，终结终极圣杯神话。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch01_Terhart_Holy_Grail_of_Educational_Research.txt)。已完成解读。
 > - **第 2 篇，学校中什么最有效** What works best in school? Hatties Befunde zu Effekten von Schul- und Unterrichtsvariablen auf Schulleistungen。Olaf Köller，原书 pp. 24–37。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch02_Koller_What_Works_Best_in_School.txt)。待解读。
 > - **第 3 篇，依据[[John Hattie|哈蒂]]，越频繁就越好吗** Gilt nach Hattie: Je häufiger, desto besser? Zur Bedeutung von „Evidenzbasierung“ für pädagogisches Handeln vor Ort。Hans Brügelmann，原书 pp. 38–50。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch03_Brugelmann_Evidence_and_Local_Practice.txt)。待解读。
 > - **第 4 篇，哈蒂是否建立了一种一般教学论** Evidence-Based Teaching: Hat John Hattie eine Allgemeine [[Didaktik]] entwickelt?。Hans-Joachim von Olberg，原书 pp. 51–66。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch04_VonOlberg_Evidence_Based_Teaching.txt)。待解读。

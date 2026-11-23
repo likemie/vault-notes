@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-11-21
+updated: 2026-11-23
 ---
 
 ---
@@ -74,7 +74,7 @@ updated: 2026-11-21
 
 > [!timeline] 生平与职涯
 > - **1952** 出生于德国北莱茵-威斯特法伦州。
-> - **1970s–1980s** 在明斯特大学攻读教育学、哲学与社会学，师从德国当代[[Critical Pedagogy|批判教学论]]名家，取得博士学位并完成教授资格论文（Habilitation）。
+> - **1970s–1980s** 在明斯特大学攻读教育学、哲学与社会学，师从德国当代[[Critical Pedagogy|批判教学论]]名家，取得博士学位并完成教授资格论著（Habilitation）。
 > - **1990s** 历任吕讷堡大学、图宾根大学教育学教授，深度介入两德统一后德国教师教育体系重构与教学论学科规范建设。
 > - **2002–2018** 担任明斯特大学学校教育学与普通教学论讲席教授，历任德国教育科学学会（DGfE）重要专业委员会委员，主持多项国家级教师职业研究课题。
 > - **2011** 在国际顶级期刊《Journal of Curriculum Studies》发表针对[[John Hattie|约翰·哈蒂]]《[[Visible Learning|可见的学习]]》的长篇学术书评，奠定其在国际[[Critique of Evidence-Based Education|循证教育批判]]领域的权威地位。
@@ -85,7 +85,7 @@ updated: 2026-11-21
 > [!work-line] 主要著作
 > - **2003 — *Constructivism and teaching: a new [[Paradigm]] in general didactics?*** 探讨[[Constructivist Paradigm|建构主义]]作为心理学学习理论与具体课堂教学指导形式之间的范式张力。
 > - **2011 — *Has [[John Hattie]] really found the holy grail of research on teaching? An extended review of [[Visible Learning]]*** 提出[[Stability vs. Variability Dilemma|稳定性与变异性双重困境]]，全面解构[[Meta-meta-analysis|二阶元分析]]的经验信息损失与全景规训机制。[[Argument_Terhart_2011_JCS|(Terhart, 2011)]]
-> - **2014 — *Unterrichten: Ein Ratgeber für die [[Praxis]]*** 系统阐发科学证据与临床[[Phronesis|实践智慧]]深度融合的教师专业教学实践论。[[Argument_Terhart_2014_Kallmeyer|(Terhart, 2014)]]
+> - **2014 — *Die Hattie-Studie in der Diskussion: Probleme sichtbar machen*（编著）** 主编讨论集并撰写首章，系统剖析《可见的学习》方法学缺陷、时效质控短板、挑战者与促进者教师建模以及福柯式可见性规训。[[Argument_Terhart_2014_HolyGrail|(Terhart, 2014)]]
 
 ---
 

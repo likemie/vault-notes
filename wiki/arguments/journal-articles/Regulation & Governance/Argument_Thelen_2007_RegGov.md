@@ -20,9 +20,12 @@ tags:
   - policy/workforce-development
 related_concepts:
   - "[[Competitiveness]]"
+  - "[[Institutional Maintenance]]"
   - "[[Vocational Holding Pattern]]"
+  - "[[Segmentalism]]"
   - "[[Institutional Complementarity]]"
   - "[[Apprenticeship]]"
+  - "[[Process-Oriented Examination]]"
   - "[[Document]]"
   - "[[Brain Drain]]"
   - "[[Paradigm]]"
@@ -31,6 +34,7 @@ related_concepts:
   - "[[Alienation]]"
   - "[[Work-Based Learning]]"
   - "[[Heterogeneity]]"
+  - "[[Verschulung]]"
   - "[[Theoretical Knowledge]]"
   - "[[Research Scope]]"
 related_theories:
@@ -48,9 +52,11 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[German Dual Education System]]"
+  - "[[Vocational Training Act of 2005]]"
   - "[[Federal Institute for Vocational Education and Training]]"
   - "[[National Pact for Training and Young Skilled Staff]]"
   - "[[Federal Ministry of Education and Research]]"
+  - "[[Crafts Code Reform of 2004]]"
 related_arguments:
   - "[[Argument_Streeck_Thelen_2005_OUP]]"
 sources:
@@ -58,16 +64,16 @@ sources:
 part_of:
 status: draft
 created: 2026-11-21
-updated: 2026-11-22
+updated: 2026-11-23
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Thelen_2007_RegGov"
 argument_key: "Argument_Thelen_2007_RegGov"
 argument_display_title: "Contemporary challenges to the German vocational training system"
 argument_kind: "journal-article"
-argument_related_count: 28
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 34
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: "Regulation & Governance"
 book_title: ""
@@ -139,14 +145,14 @@ issuing_organization: ""
 > [!sub-claim] 1.1 德国企业自主出资培养跨企业通用技能，区别于美日模式
 
 > [!mechanism] 集体技能投资的微观激励相容
-> - **全国流通性凭证** 德国双元制的显著特征在于雇主按照劳资政三方共识制定的全国统一标准，自主出资为青年提供具备行业流通性的职业技能资格 (Thelen, 2004; Soskice, 1994)。
+> - **全国流通性凭证** 德国双元制的显著特征在于雇主按照劳资政三方共识制定的全国统一标准，自主出资为青年提供具备行业跨企业通用效力的[[Portable Occupational Skills|流通性职业技能]]资格 (Thelen, 2004; Soskice, 1994)。
 > - **跨国模式对比** 美国依靠自由市场机制由个体承担通用教育成本，日本则依赖大企业终身雇佣与封闭式企业专属技能培训。
 > - **克服集体行动困境** 德国模式通过[[Neocorporatism|法团主义]]中介组织与行业协会约束，成功化解了企业投资通用技能面临的搭便车与[[Brain Drain|人才流失]]风险 (Culpepper, 1999, 2003)，为高端制造业多元优质生产奠定了[[Human Capital Theory|人力资本]]基石 (Streeck, 1991; Hall & Soskice, 2001)。
 
 > [!row-contrast] 跨国技能形成体制核心维度比较
 > | 比较维度 | 德国（集体技能体制） | 美国等自由市场经济体（通用技能体制） | 日本（分段技能体制） |
 > |---|---|---|---|
-> | **核心技能属性** | 高度标准化且跨企业流通的职业技能 | 依靠学校教育获得的通用基础技能 | 针对特定企业生产流程的企业专属技能 |
+> | **核心技能属性** | 高度标准化且跨企业互认的[[Portable Occupational Skills\|流通性职业技能]] | 依靠学校教育获得的通用基础技能 | 针对特定企业生产流程的企业专属技能 |
 > | **企业参与度** | 各类规模企业广泛自主出资参与现场学徒培训 | 私营企业对工人系统性技能形成投资极低 | 大型核心企业深度主导企业内部全周期培训 |
 > | **标准制定权** | 雇主协会、工会与联邦国家三方共治协商 | 市场主导与教育培训中介机构自主认证 | 单个大型企业根据自身工艺规范独立决定 |
 > | **劳动力流动性** | 行业与跨企业劳动力市场流通性高 | 劳动力外部市场高度流动但缺乏职业凭证 | 深度依赖企业内部劳动力市场与终身雇佣 |
@@ -282,7 +288,7 @@ issuing_organization: ""
 
 > [!tension] 全国统一职业标准底线 vs 企业定制与校本折算诉求
 > - **全国统一标准立场（工会与行会商会）** 坚持《[[Berufsprinzip|完整职业原则]]》（[[Berufsprinzip]]），严防模块化[[Alienation|异化]]为单项操作技能认证，防范雇主将学徒培训窄化为企业专属技能，保全全国劳动市场的无缝流通性。
-> - **微观灵活性与降本诉求（受冲击雇主与州政府）** 强调技术革新与服务业态多样性，主张扩大学企合作联合培训、提高选修模块比重并允许校本学分折算，以降低单个中小企业的全周期施训风险。
+> - **微观灵活性与降本诉求（受冲击雇主与州政府）** 强调技术革新与服务业态多样性，主张推行企业间[[Verbundausbildung|跨企业联合培训]]、提高选修模块比重并允许校本学分折算，以降低单个中小企业的全周期施训风险。
 > - **制度妥协点** 2005 年新法确立模块化选修与整体终考相结合的机制，由法定工商业商会（Chamber of Commerce and Industry, IHK）与手工业商会（HWK）独家掌管终结性全国统一考试，成功在守住全国统一职业凭证公信力的同时释放了微观操作弹性。
 
 > [!sub-claim] 4.2 银行业高学历学徒流向大学深造，打破职业与学术教育壁垒

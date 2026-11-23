@@ -7,7 +7,7 @@ aliases:
 summary: "以规范性创作法则与体裁要求为核心的传统文艺理论门类，鲍姆加登借此分化出感性认识之学，后经狂飙突进运动转向天才诗学，并在黑格尔处与描述性哲学美学严格界分。"
 type: concept
 domain: "educational-philosophy"
-related_count: 15
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-11-15"
-updated: 2026-11-21
+updated: 2026-11-23
 ---
 
 ---

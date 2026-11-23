@@ -16142,6 +16142,20 @@
     ]
   },
   {
+    "title": "Portable Occupational Skills",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Portable Occupational Skills.md",
+    "aliases": [
+      "流通性职业技能",
+      "可携带职业技能",
+      "行业通用职业技能",
+      "可流通职业技能",
+      "跨企业流通技能",
+      "portable skills",
+      "überbetriebliche Qualifikationen"
+    ]
+  },
+  {
     "title": "Positive Piracy",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Positive Piracy.md",
@@ -16930,6 +16944,20 @@
       "创投慈善",
       "公益创投",
       "venture philanthropy in education"
+    ]
+  },
+  {
+    "title": "Verbundausbildung",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Verbundausbildung.md",
+    "aliases": [
+      "跨企业联合培训",
+      "联合施训网络",
+      "合作培训网络",
+      "企业联合学徒培训",
+      "collaborative apprenticeship training",
+      "joint vocational training network",
+      "training alliances"
     ]
   },
   {
@@ -56459,6 +56487,11 @@
     "title": "Argument_Slethaug_2010_InternationalEducation",
     "type": "argument",
     "path": "wiki/arguments/books/Ryan(Ed.)_2010_HKUP/Argument_Slethaug_2010_InternationalEducation.md"
+  },
+  {
+    "title": "Argument_Terhart_2014_HolyGrail",
+    "type": "argument",
+    "path": "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md"
   },
   {
     "title": "Argument_Terhart_2014_Kallmeyer",

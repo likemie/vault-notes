@@ -31123,7 +31123,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md",
+        "wiki/concepts/political-economy-geopolitics/Portable Occupational Skills.md"
       ],
       "title": "Das Duale System und Europa: Ein Gutachten im Auftrag von Ver.di und IG Metall"
     },
@@ -49211,6 +49212,7 @@
       "doi": "",
       "isbn": "9780415479783",
       "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md",
         "wiki/arguments/journal-articles/Australian Journal of Language and Literacy/Argument_OConnor_2020_AJLL.md",
         "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
         "wiki/arguments/journal-articles/Critical Education/Argument_Johnson_2023_CritEduc.md",
@@ -49249,8 +49251,7 @@
         "wiki/concepts/instruction-pedagogy/Mind Mapping.md",
         "wiki/concepts/instruction-pedagogy/Problem-Based Learning.md",
         "wiki/concepts/instruction-pedagogy/Student-Teacher Relationship.md",
-        "wiki/concepts/instruction-pedagogy/Teacher Clarity.md",
-        "wiki/concepts/instruction-pedagogy/Whole Language.md"
+        "wiki/concepts/instruction-pedagogy/Teacher Clarity.md"
       ],
       "title": "Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement"
     },
@@ -49276,6 +49277,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Nordic Psychology/Argument_Nielsen_2021_NordPsych.md"
+      ],
+      "title": ""
+    },
+    "Hattie, 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md"
       ],
       "title": ""
     },
@@ -84316,6 +84325,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md",
         "wiki/arguments/reports-policy-documents/Argument_WorldBank_2019_Teach.md",
         "wiki/concepts/competency-and-assessment/Academic Achievement.md"
       ],
@@ -93306,7 +93316,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md"
+        "wiki/arguments/journal-articles/Regulation & Governance/Argument_Thelen_2007_RegGov.md",
+        "wiki/concepts/political-economy-geopolitics/Portable Occupational Skills.md"
       ],
       "title": "Rettet den Facharbeiter!"
     },
@@ -99565,6 +99576,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/research-methodology/Effective Sample Size.md"
+      ],
+      "title": ""
+    },
+    "Sanders & Rivers, 1996": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md"
       ],
       "title": ""
     },
