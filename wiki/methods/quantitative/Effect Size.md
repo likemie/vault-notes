@@ -6,7 +6,7 @@ summary: "比较不同干预或变量影响强度的标准化统计指标，被�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 91
+method_related_count: 93
 method_related_level: 9
 method_related_stars: "💎💎💎"
 method_related_color: "#dcfce7"
@@ -86,6 +86,7 @@ related_persons:
   - "[[Jacob Cohen]]"
   - "[[Ivan Snook]]"
   - "[[Adrian Simpson]]"
+  - "[[Ewald Terhart]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
@@ -94,6 +95,7 @@ related_facts:
   - "[[National Center for Education Evaluation and Regional Assistance]]"
 related_arguments:
   - "[[Argument_Higgins_2016_ROE]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
   - "[[Argument_Wrigley_2019_ERE]]"
   - "[[Argument_Qvortrup_2015_Paideia]]"
   - "[[Argument_Wolf_2020_JREE]]"
@@ -119,7 +121,7 @@ related_instruments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-11-18
+updated: 2026-11-23
 ---
 
 ---
@@ -158,6 +160,7 @@ updated: 2026-11-18
 > - **1976** — [[Gene Glass]] 提出[[Meta-analysis|元分析]]概念，将标准化效应量确立为跨研究聚合的核心工具（[[Argument_Higgins_2016_ROE|Higgins, 2016, pp. 36–37]]）。
 > - **2005–2009** — [[John Hattie|约翰·哈蒂]]（[[John Hattie]]）在 [[Australian Council for Educational Research|ACER]] 会议与《[[Visible Learning|可见的学习]]》中，综合 800 余项元分析确立 $d = 0.40$ 为教学干预的“关节点（[[Zone of Desired Effects|Hinge Point]]）”，提出“零门槛谬误”，并依托[[Assessment Tools for Teaching and Learning|asTTle]]软件推动效应量在校本评价中的普及（[[Argument_Hattie_2005_ACER|Hattie, 2005]]；[[Argument_Terhart_2011_JCS|Terhart, 2011]]）。
 > - **2009** — [[Ivan Snook|斯努克]]等学者展开批判，援引低剂量阿司匹林试验（$d = 0.07$ 每千人净拯救 34 条生命）反证 $d = 0.40$ 截断值的武断性，揭示单一平均值掩盖微观亚组[[Heterogeneity|异质性]]（[[Homework|家庭作业]]小学 0.15 vs 高中 0.64）与小班化非线性突破门槛（STAR 试验 $d = 0.62–0.66$；[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）。
+> - **2014** — [[Ewald Terhart|特哈特]]（[[Argument_Terhart_2014_HolyGrail|Terhart, 2014, pp. 12–13]]）厘清统计显著性（偶然性检验）与效应量 $d$（标准差差距度量）的实践分野，借助科恩身高类比（$d = 1.0$ 相当于 160 cm 与 183 cm 的差距，将受试者均值位移至未受训者的第 84 百分位数）直观阐释正态分布位移，并指出在 95% 教育因素均呈正向效应的前提下，$d = 0.40$ 仅代表常规教学的自然基准而非终极法则。
 > - **2014–2019** — [[EEF Teaching and Learning Toolkit]] 创立“额外学习月数”转换，英国 [[Education Endowment Foundation|EEF]] 确立效应量与[[EEF Padlock Security Rating|挂锁安全评级]]双轨呈现机制（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]]）；[[Adrian Simpson]]（2017, 2019）提出匈牙利单词思想实验，论证效应量测量的是试验灵敏度而非教学有效性；戈洛夫钦（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）检验《可见学习》133 项效应量数据集，证实全库变差系数超标（$V_\sigma = 56.87\% > 33\%$），击穿统计同质性前提。
 > - **2019** — 丹麦学者拉森（[[Argument_Larsen_2019_EducSci|Larsen, 2019]]）立足德意志教化传统与身体[[Phenomenology|现象学]]，深入解构可见学习[[Paradigm|范式]]将学习降维为即时效应量可见快照的[[Positivism|实证主义]]迷思，揭示其混淆认识论与存在论的范畴错误。
 > - **2023** — Kraft 建立基于 3,426 个教育 RCT 效应量的实证分布（中位数 0.10，36% 的效应量 $< 0.05$），提倡以因果评估经验基准与失败频率取代 Cohen 抽象法则（[[Argument_Kraft_2023_ER|Kraft, 2023]]）。
@@ -299,6 +302,7 @@ updated: 2026-11-18
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 厘清统计显著性与效应量 $d$ 的度量分野，借助科恩身高类比阐释正态分布位移，并指出 95% 教育因素呈正向效应的前提下 $d = 0.40$ 仅代表常规教学的自然基准（pp. 12–13）。
 > - [[Argument_Hogan_2013_ROE|Hogan et al. (2013)]] — 测度新加坡中三数学与英语课堂中四类教学策略之间的两两配对效应量（Cohen's $d = 0.03\sim 0.96$），实证揭示直接教学与共同调节学习之间高达 $d = 0.91\sim 0.96$ 的实施差距（pp. 95–96）。
 > - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 提倡将效应量直接作为学校与教师评估教学成效的通用工具，基于 100 余项[[Meta-analysis|元分析]]确立 $d=0.40$ 为判断干预增值的关节点基准，并揭示“零门槛谬误”。
 > - [[Argument_Kraft_2023_ER|Kraft (2023)]] — 基于 3,426 个教育 [[Randomised Controlled Trials|RCT]] 效应量构建经验分布，提出以实证分布与失败频率替代传统 Cohen 经验法则。

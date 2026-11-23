@@ -12,7 +12,7 @@ summary: "基于方差分解比较两组或多组连续变量均值差异的推�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 41
+method_related_count: 43
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
@@ -66,15 +66,17 @@ related_methods:
   - "[[t-test]]"
   - "[[Chi-Squared Test]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Ewald Terhart]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
   - "[[Argument_Wu_2025_ER]]"
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-11-13
+updated: 2026-11-23
 ---
 
 ---
@@ -286,5 +288,6 @@ updated: 2026-11-13
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 援引 Nye et al. (2004) 的方差分析（ANOVA）实证，指出教师水平能解释学生成绩总方差的 8% 至 21%（平均 $d = 0.32$），为教师效能的实证度量提供方差分解支持（pp. 17–18）。
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 阐释方差分析（ANOVA）、[[Analysis of Covariance\|协方差分析]]（ANCOVA）与[[Multivariate Analysis of Variance\|多元方差分析]]（MANOVA）作为[[Experimental Research\|实验研究]]设计中组间均值检验的核心推断统计工具。（Ch8）
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 实证剖析研究生在计算单因素方差分析[[Effect Size\|效应量]]指标 $\omega^2$ 时，与 ChatGPT 展开公式数学等价性与小样本偏差校正的多轮追问案例。（pp. 362–365）

@@ -6,7 +6,7 @@ summary: "通过汇总多项独立初级研究的效应量来综合定量证据�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 125
+method_related_count: 127
 method_related_level: 12
 method_related_stars: "💎💎💎💎"
 method_related_color: "#dcfce7"
@@ -116,6 +116,7 @@ related_methods:
 related_persons:
   - "[[Gene Glass]]"
   - "[[Karl Pearson]]"
+  - "[[Ewald Terhart]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
@@ -123,6 +124,7 @@ related_facts:
   - "[[What Works Clearinghouse]]"
 related_arguments:
   - "[[Argument_Higgins_2016_ROE]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Wrigley_2019_ERE]]"
@@ -153,7 +155,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-11-11
+updated: 2026-11-23
 ---
 
 ---
@@ -348,7 +350,7 @@ updated: 2026-11-11
 
 > [!method-limits] 方法局限
 > 1. **可比性（“苹果与橙子”）** 干预定义、测量工具、比较组与情境差异过大时，平均[[Effect Size|效应量]]缺乏明确含义 (Eysenck, 1978; [[Argument_Higgins_2016_ROE|Higgins, 2016]]; [[Argument_Simpson_2017_JEdPolicy|Simpson, 2017]])。
-> 2. **输入质量（“垃圾进，垃圾出”）** 合并有偏的初级研究得到的是更精确的有偏估计 (Eysenck, 1978; Slavin, 1984; [[Argument_Berk_2011_EvalRev|Berk, 2011]])。
+> 2. **输入质量（“垃圾进，垃圾出”）** 合并有偏的初级研究得到的是更精确的有偏估计 (Eysenck, 1978; Slavin, 1984; [[Argument_Berk_2011_EvalRev|Berk, 2011]])。[[Ewald Terhart|特哈特]]（[[Argument_Terhart_2014_HolyGrail|Terhart, 2014, p. 14]]）指出，缺乏严格方法学准入质控门槛时，控制严谨的干预实验与宽泛粗疏的问卷调查在计算中被一视同仁，导致底层证据库异质性失控。
 > 3. **证据库偏倚** [[Publication Bias|发表偏倚]]、选择性报告与数据提取错误会系统扭曲合并结果 ([[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]; [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]])。
 > 4. **统计独立性** 同一研究的多个效应量相关，按独立处理会低估[[Standard Error|标准误]] (Cheung, 2014)。
 > 5. **平均效应掩盖[[Heterogeneity|异质性]]** 平均[[Effect Size|效应量]]不回答“对谁、在何种情境下有效”，Kluger and DeNisi (1996) 的反馈研究中约 38% 的效应为负 ([[Argument_Wiliam_2019_ERE|Wiliam, 2019]])。
@@ -397,6 +399,7 @@ updated: 2026-11-11
 ---
 
 > [!evidence-grid] 研究案例索引
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 审查哈蒂《可见的学习》所纳 800 余项元分析的年代构成与质控门槛，指出底层数据年代跨代滞后及缺乏准入质控导致证据库异质性失控的方法学缺陷（pp. 13–14）。
 > - [[Argument_Knogler_2025_BB|Knogler et al. (2025)]] — 剖析 Hillmayr et al. (2020) 针对中学数理教学数字化工具的元分析（$k = 92, g = 0.65$ [[Academic Achievement|学业成就]]，$g = 0.45$ 学科态度），详述清算中心如何以此类高因果[[Reliability|信度]]元分析为经验基底提炼结构化决策参数与六大工具分类，构建面向教师教育的循证中介转化[[Paradigm|范式]]。
 > - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 运用[[Random-Effects Model|随机效应模型]]综合 29 项实验与准[[Experimental Research|实验研究]]（59 个[[Effect Size|效应量]]），评估[[Generative Artificial Intelligence|生成式人工智能]]对学生[[Higher-Order Thinking Skills|高阶思维]]（涵盖[[Problem Solving|问题解决能力]]、[[Critical Thinking|批判性思维]]与[[Creativity|创造力]]）的总体促进效应（Hedges' $g = 0.609$），并系统检验干预时长、学段、教学方法与[[Self-Regulated Learning|自主调节学习]]能力的[[Interaction Effect|调节效应]]。
 > - [[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] — 依据[[Third Generation Activity Theory|活动理论]]移动计算机支持[[Collaborative Learning|协作学习]]（AT-MCSCL）框架对 57 项实验与准[[Experimental Research|实验研究]]（97 个[[Effect Size|效应量]]，$N = 5{,}389$）实施随机效应元分析，严格控制[[Pre-test and Post-test|前测]][[Baseline Standardized Mean Difference|基线等效性]]（$d < 0.25$），评估生成式人工智能对大学生成果的综合效应（$g^+ = 0.804$），并系统检验 17 个调节变量及剪补法发表偏倚校正（校正后 $g^+ = 0.321$）。

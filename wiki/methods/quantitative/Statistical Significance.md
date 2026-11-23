@@ -8,7 +8,7 @@ summary: "推断统计中用于判定样本观察差异是否足以拒绝零假�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 26
+method_related_count: 28
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -44,14 +44,17 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Case Study]]"
   - "[[Meta-analysis]]"
+related_persons:
+  - "[[Ewald Terhart]]"
 related_arguments:
   - "[[Argument_Allerup_2015_Paideia]]"
   - "[[Argument_Terhart_2011_JCS]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
   - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
 confidence: high
 status: active
 created: '2026-05-05'
-updated: 2026-11-11
+updated: 2026-11-23
 ---
 
 ---
@@ -119,7 +122,7 @@ updated: 2026-11-11
 ---
 
 > [!method-limits] 方法局限
-> - **显著不等于重要（Significance vs. Importance）** 统计显著性仅表明样本差异难以用抽样误差解释，绝不代表该差异具备实质教育效益或政策采纳价值。[[Argument_Terhart_2011_JCS|(Terhart, 2011, p. 427)]]
+> - **显著不等于重要（Significance vs. Importance）** 统计显著性仅表明样本差异难以用抽样误差解释，绝不代表该差异具备实质教育效益或政策采纳价值（[[Argument_Terhart_2011_JCS|Terhart, 2011, p. 427]]；[[Argument_Terhart_2014_HolyGrail|Terhart, 2014, p. 12]]）。若组间均值差异在 $p < 0.05$ 水平显著，仅意味着重复试验 100 次时由随机误差造成该差异的概率低于 5%，无法直接反映影响强度。
 > - **二元标签诱发[[Publication Bias|发表偏倚]]** 将连续的 $p$ 值粗暴划分为显著（$p < 0.05$）与不显著的二元标签，容易诱发选择性发表与数据挖掘偏误。
 > - **忽略估计不确定性** 孤立报告 $p$ 值而省略置信区间与标准误，会导致读者无法评估估计值的精确度与相邻干预的重叠可能。[[Argument_Allerup_2015_Paideia|(Allerup, 2015, pp. 47–48)]]
 
@@ -139,6 +142,7 @@ updated: 2026-11-11
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 厘清统计显著性（检验随机误差概率）与效应量（衡量标准差差距）的度量分野，指出显著性无法替代实践效益评价（p. 12）。
 > - [[Argument_Allerup_2015_Paideia|Allerup (2015)]] — 推导显著性检验量与效应量在给定样本量下的代数关联，指出显著性受制于样本规模的数学机制。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 强调统计显著性仅说明结果不属于随机噪音，不能直接等同于教育实践的重要程度。
 > - [[Argument_Ross_Morrison_2021_ECNUROE|Ross and Morrison (2021)]] — 分析 141 项大型教育 RCT 发现仅 23% 达到统计显著，反思严格[[Evidence Standards|证据标准]]对项目采纳的过度约束。

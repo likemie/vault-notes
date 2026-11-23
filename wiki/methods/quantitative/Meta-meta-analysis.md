@@ -14,7 +14,7 @@ summary: "在更高层级汇总多个已发表元分析结果的统计综合方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 118
+method_related_count: 119
 method_related_level: 11
 method_related_stars: "💎💎💎⭐⭐"
 method_related_color: "#dcfce7"
@@ -130,6 +130,7 @@ related_facts:
   - "[[Education Endowment Foundation]]"
 related_arguments:
   - "[[Argument_Terhart_2011_JCS]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
   - "[[Argument_Runco_2026_CRJ]]"
   - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Wecker_2016_ZfE]]"
@@ -151,7 +152,7 @@ related_arguments:
 related_persons:
   - "[[Ewald Terhart]]"
 confidence: high
-status: draft
+status: active
 created: 2026-05-03
 updated: 2026-11-23
 ---
@@ -522,7 +523,7 @@ updated: 2026-11-23
 > 2. **偏倚逐级复合** 一阶元分析中的未加权、SE/SD 混淆与公式不可比性无法在二阶统计中被自动消除（[[Argument_Allerup_2015_Paideia\|Allerup, 2015]]; [[Argument_Bergeron_2017_MJE\|Bergeron & Rivard, 2017]]; [[Argument_Wecker_2016_ZfE\|Wecker et al., 2016]]）；
 > 3. **透明度与数据重构危机** 粗放元综合常存在数据提取不透明与证实偏差（[[Argument_Johnson_2023_CritEduc\|Johnson & Janzen, 2023]]; [[Argument_OConnor_2020_AJLL\|O'Connor, 2020]]）；
 > 4. **全库离散度超标与数理基准失效** 戈洛夫钦[[Argument_Golovchin_2019_ESC\|(Golovchin, 2019)]]采用变差系数对 133 项正值效应量进行系统检验，证实全库变差系数高达 $56.87\%$（远超 $33\%$ 安全同质性上限），各子领域（学生 $71.24\%$、学校 $65.97\%$、教师 $51.01\%$）全线超标；二阶综合在未经严格同质性控制下强行输出 $d=0.40$ 单一线性关节点缺乏数理稳健性；
-> 5. **因果机制距离与政策角色争议** 宏观抽象聚合远离了实在层面的因果机制，知识的局部性与临时性使其难以直接指导政策决策；[[Ewald Terhart|特哈特]][[Argument_Terhart_2011_JCS|(Terhart, 2011)]]提出的货币比附谬误与稳定性/[[Stability vs. Variability Dilemma|变异性假说]]双重困境进一步表明，二阶粗放综合无法消除教育实践的复杂性与时效滞后（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]; [[Argument_Wiliam_2019_ERE|Wiliam, 2019]]; [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]]）。
+> 5. **因果机制距离与政策角色争议** 宏观抽象聚合远离了实在层面的因果机制，知识的局部性与临时性使其难以直接指导政策决策；[[Ewald Terhart|特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011]]; [[Argument_Terhart_2014_HolyGrail|Terhart, 2014, pp. 13–14]]）指出底层文献年代跨代滞后且未设准入质控门槛导致证据库异质性失控，同时其货币比附谬误与稳定性/[[Stability vs. Variability Dilemma|变异性假说]]双重困境进一步表明，二阶粗放综合无法消除教育实践的复杂性与时效滞后（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]; [[Argument_Wiliam_2019_ERE|Wiliam, 2019]]; [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]]）。
 >
 > [!bias-audit] 商业学术出版体制对知识综合的三重结构性阻碍[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016)]]
 > - **[[Publication Bias|发表偏倚]]与抽屉效应** 期刊倾向于发表统计上显著的结果，产生严重的发表偏倚（Publication Bias）与抽屉效应（File-drawer Problem），大量零效应或负效应被锁进抽屉，污染综合底册。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 34–35)]]
@@ -540,14 +541,27 @@ updated: 2026-11-23
 
 ---
 
-> [!entry-map] 条目关联
+> [!entry-map] 相关理论与方法
 >
-> | 条目 | 类型 | 关联方向 | 说明 |
-> |:-----|:-----|:---------|:-----|
-> | [[Critique of Meta-meta-analysis]] | 概念 | 方法学反思 | 系统阐释元-[[Meta-analysis\|元分析]]在[[Epistemology\|认识论]]、测量错位与政策误用层面的理论批判。 |
-> | [[Effect Size Conversion]] | 方法 | 计算前置 | 二阶元分析依赖[[Effect Size\|效应量]]转换统一不同一阶研究的量规尺度。 |
-> | [[Correlated and Hierarchical Effects Model]] | 方法 | 建模工作模型 | CHE 三水平方差分解为二阶合成提供工作模型权重矩阵。 |
-> | [[Robust Variance Estimation]] | 方法 | 稳健推断方法 | RVE 三明治估计量是处理集群内依赖的支柱技术；跨元分析的文献重叠仍需去重或显式建模。 |
-> | [[Multilevel Egger's Test]] | 方法 | 偏倚控制方法 | 在控制聚类依赖下定量诊断[[Publication Bias\|发表偏倚]]并输出小研究效应校正估计。 |
-> | [[Second-Order Meta-Regression]] | 方法 | 调节分析方法 | 运用多水平稳健[[Meta-regression\|元回归]]系统检验全领域[[Construct\|理论构念]]与研究特征的[[Interaction Effect\|调节效应]]。 |
-> | [[AMSTAR]] | 工具 | 质量控制 | 用于二阶元分析中对一阶元分析规范度进行量化评级的方法学工具。 |
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Critique of Meta-meta-analysis]] | 概念 | 系统阐释二阶元分析在认识论、测量错位与政策误用层面的理论批判。 |
+> | [[Effect Size Conversion]] | 前置方法 | 二阶元分析依赖效应量转换统一不同一阶研究的量规尺度。 |
+> | [[Correlated and Hierarchical Effects Model]] | 基础模型 | CHE 三水平方差分解为二阶合成提供工作模型权重矩阵。 |
+> | [[Robust Variance Estimation]] | 稳健推断方法 | RVE 三明治估计量是处理集群内依赖的核心技术；文献重叠仍需去重或显式建模。 |
+> | [[Multilevel Egger's Test]] | 偏倚检验方法 | 在控制聚类依赖下定量诊断发表偏倚并输出小研究效应校正估计。 |
+> | [[Second-Order Meta-Regression]] | 调节分析方法 | 运用多水平稳健元回归系统检验全领域理论构念与研究特征的调节效应。 |
+> | [[AMSTAR]] | 质控工具 | 用于二阶元分析中对纳入一阶元分析规范度进行量化评级的方法学工具。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 对哈蒂《可见的学习》816 项元分析开展方法学审读，揭示粗放二阶综合的信息损耗与稳定性/变异性双重困境（pp. 427–436）。
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 结合德译本进一步解构二阶元分析作为教育“圣杯”的修辞神话，指出底层文献年代滞后、缺乏准入质控以及路灯效应等系统性局限（pp. 13–23）。
+> - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 对二阶元分析开展方法学与统计计算审计，揭露伪标准误与 SE/SD 混淆等数学违规，提出构建中央标准化数据库的一级直接综合替代方案（pp. 29–36）。
+> - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 运用多水平稳健二阶元分析（SOMA）综合关于创造力与发散思维的元分析，采用 CHE 模型与 RVE 控制效应量依赖性（pp. 2–5）。
+> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 审计二阶元分析中跨研究设计聚合的数理有效性，实证检验组间与组内设计混杂带来的系统性参数扭曲。
+> - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 运用变差系数检验《可见的学习》二阶综合效应量分布，证实全库离散度严重超标（$V_\sigma = 56.87\%$），击穿宏观综合的统计同质性前提。
+> - [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] — 遵循现代伞状二阶元分析规范综合 25 项元分析，控制初级研究重叠并采用剪补法校正发表偏倚。
+> - [[Argument_Erdem_2026_SHE|Erdem and Baş (2026)]] — 采用二阶元分析综合翻转课堂在高等教育中的学业成效，系统检验学科与学段调节效应。
+> - [[Argument_Unal_2026_JECR|Ünal et al. (2026)]] — 运用二阶元分析综合网络化学习环境中的自主调节学习成效，评估方法学质量对合并效应的调节作用。
