@@ -22332,7 +22332,9 @@
     "type": "concept",
     "path": "wiki/concepts/teacher-education/Teacher Effects.md",
     "aliases": [
-      "教师效应"
+      "教师效应",
+      "教师效能效应",
+      "教师影响"
     ]
   },
   {
@@ -22417,7 +22419,10 @@
     "type": "concept",
     "path": "wiki/concepts/teacher-education/Teacher Subject Matter Knowledge.md",
     "aliases": [
-      "教师学科知识"
+      "教师学科知识",
+      "学科内容知识",
+      "Content Knowledge",
+      "教师内容知识"
     ]
   },
   {

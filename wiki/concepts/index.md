@@ -2145,7 +2145,7 @@ Total entries: **2224**
 > - [[Teacher Beliefs]] — 教师在专业实践中所持有的关于教学、学习、学生能力与知识本质的认知结构与价值前提，在指导教学决策的同时深受外部高利害评价与制度环境的能动规锁。
 > - [[Teacher Collaboration]] — Visible Learning MetaX 因素教师协作的条目，归属教师 › 教师教育；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
 > - [[Teacher Credibility]] — Visible Learning MetaX 因素教师可信度的条目，归属教师 › 教师特质；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
-> - [[Teacher Effects]] — Visible Learning MetaX 因素教师效应的条目，归属教师 › 教师特质；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
+> - [[Teacher Effects]] — 实证教育研究与多层统计模型中用于指涉教师个体及教学行为对学生学业成长净贡献的方差变异指标，揭示微观课堂教学相较于宏观学校结构的相对主导性。
 > - [[Teacher Expectations]] — Visible Learning MetaX 因素教师对学业成就的估计、教师期望、教师期望（外貌吸引力）、教师给学生贴标签的条目，归属教师 › 教师特质；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
 > - [[Teacher Knowledge Base]] — 教师在教育教学实践中所依托的多元复合知识体系，涵盖学科知识、学科教学知识、实践智慧、学情认知与育人伦理，强调在情境中对多源知识进行动态整合与审慎裁决
 > - [[Teacher Mobility]] — 教师流动是指教师在不同学校、学区、地域或跨国教育系统之间的专业岗位转移与空间位移；该概念折射出跨大西洋政策话语的深刻反差，在欧洲一体化语境中被建构为促进专业发展与打破边境壁垒的崇高政策诉求，而在美国基础教育中则被问题化为高资质教师逃离城市贫困与少数族裔薄弱学校的队伍流失与教育不公平危机。
@@ -2154,7 +2154,7 @@ Total entries: **2224**
 > - [[Teacher Professional Development Programs]] — Visible Learning MetaX 因素教师专业发展项目、幼教教师专业发展、读写教学专业发展、数理教学专业发展的条目，归属教师 › 教师教育；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
 > - [[Teacher Qualifications]] — 衡量教师准入与执业资格的静态专业指标体系，涵盖学历层级、学术成绩、执照认证及选拔排位；实证与政策批判研究表明，教师资质构成了队伍建设的基准门槛，但不等同于课堂动态教学质量，严把入口关无法直接决定一线教学规程与学生学业产出。
 > - [[Teacher Racial-ethnic Discrimination]] — Visible Learning MetaX 因素教师种族／族裔歧视的条目，归属教师 › 教师特质；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
-> - [[Teacher Subject Matter Knowledge]] — Visible Learning MetaX 因素教师学科知识的条目，归属教师 › 教师教育；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
+> - [[Teacher Subject Matter Knowledge]] — 教师专业胜任力模型中关于执教学科核心事实、概念结构、探究规则与认识论体系的专业知识储备，是发展学科教学知识与实现课堂认知激活的认知前提。
 > - [[Teacher Trust]] — Visible Learning MetaX 因素教师信任的条目，归属教师 › 教师特质；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
 > - [[Teacher Verbal Ability]] — Visible Learning MetaX 因素教师言语能力的条目，归属教师 › 教师特质；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
 > - [[Teacher Well Being]] — Visible Learning MetaX 因素教师幸福感的条目，归属教师 › 教师特质；目前只收录 MetaX 元分析汇总数据，概念界定待补充。

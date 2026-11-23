@@ -9,7 +9,7 @@ aliases:
 summary: "John Hattie 在《可见学习》中设定的 d>=0.40 期望效应区阈值，将所有影响因素的简单算术均值假托为一年自然学业成长基准，被批判为缺乏物理实体基准与比率尺度属性的伪科学假象及政策规训工具。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 48
+related_count: 49
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -182,6 +182,7 @@ updated: 2026-11-23
 > [!dev-timeline] 概念演变
 > - **2009 年 — 铰接点创立与期望效应区提出** [[John Hattie]] 出版《[[Visible Learning|可见的学习]]》，综合 800 余项[[Meta-analysis|元分析]]，正式提出以 $d=0.40$ 为界的期望效应区，将其界定为值得在学校推广的高效教学标准。
 > - **2010–2018 年 — 商业化普及与治理工具化** 伴随 [[Cognition Education|认知教育]]与[[Corwin Press|考文出版社]]运营的 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 项目，期望效应区与[[Barometer of Achievement|成就气压计]]被打包为全球校长认证培训的标准化评级工具。
+> - **2014 年 — 德语区批判与合成人工制品定性** [[Ewald Terhart|特哈特]]（2014）系统评述德语区对 $d=0.40$ 铰接点的学术审视，指出将未加权异质均值定格为自然成长基线纯属“合成人工制品”（synthetische Kunstprodukte），并批判其脱离实施成本排斥低效应高价值实践的偏颇。[[Argument_Terhart_2014_HolyGrail|(Terhart, 2014, pp. 14–16)]]
 > - **2017–2021 年 — 方法论与统计学质疑爆发** [[Adrian Simpson]]、Peter E. Lichtenberg 等学者指出[[Effect Size|效应量]]分布偏态、非比率尺度及简单算术平均的统计违规；[[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] 与斯诺克等（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）通过阿司匹林[[Clinical Trial|临床试验]]揭露其脱离成本效益的叙事本质。
 > - **2023 年 — 批判性解构与意识形态揭露** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] 从[[Neo-Taylorism|新泰勒主义]]与[[Cargo Cult Science|货物崇拜科学]]视角，系统拆解期望效应区的伪[[Nature of Science|科学本质]]，揭露其掩盖学段[[Heterogeneity|异质性]]并服务于新自由主义财政紧缩的治理功能。
 
@@ -194,6 +195,7 @@ updated: 2026-11-23
 > >
 > > - **Hattie（2009）** 主张 $d=0.40$ 能够让教师看清自身教学的真实位置，只有超过铰接点的影响因素才真正值得投入学校有限的时间与资源。
 > > - **[[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]** 指出该阈值仅为 138 项因素的未加权算术均值，新增[[Variable|变量]]会导致均值稀释，将其奉为客观基线是典型的伪科学。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 26)]]
+> > - **[[Argument_Terhart_2014_HolyGrail|Terhart (2014)]]** 指出德国学界对 0.40 期望区切分点持强烈保留态度，批评将其机械当作一年正常学业成长的客观基准纯属虚构，二阶元分析抹平了异质性情境，许多低于 0.40 的低成本措施同样具有巨大实践价值。[[Argument_Terhart_2014_HolyGrail|(Terhart, 2014, pp. 14–16)]]
 > > - **[[Argument_Golovchin_2019_ESC|Golovchin (2019)]]** 运用变差系数（$V_\sigma = 56.87\%$）开展严格数理检验，证实 Hattie 归纳的 133 项正向[[Effect Size|效应量]]在统计学上属于极端不均匀分布（均值 $\bar{d}=0.42$，标准差 $\sigma=0.239$），且学生因素（$71.24\%$）与学校因素（$65.97\%$）离散度极高，从数理上证明 $d = 0.40$ 根本无法作为普适有效的因果基准分界线。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 238–241)]]
 >
 > > [!axis] 普适叙事切分点 vs 医学循证临床基准反差
@@ -255,24 +257,26 @@ updated: 2026-11-23
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:---|:---|:---|
+> | [[Visible Learning]] | 概念 | 理论母体，期望效应区是《可见的学习》影响气压计与教育改进排序的核心标准。 |
+> | [[Effect Size]] | 方法 | 度量基础，期望效应区建立在标准化均值差 Cohen's $d$ 的统计度量之上。 |
+> | [[Effect Size Conversion]] | 方法 | 计算转换，相关系数向均值差的公式换算容易将微弱关联虚增至期望效应区。 |
+> | [[Class Size]] | 概念 | 批判实证，因效应量低于 $d=0.40$ 被贬为低效政策，基准反转后直接落入逆向有害区。 |
+> | [[Socioeconomic Status]] | 概念 | 阶层遮蔽，单向报告正向效应量掩盖了贫困作为全书最大破坏因素（$-0.59$）的现实。 |
+> | [[Homework]] | 概念 | 学段异质性，总体均值 $d=0.29$ 低于阈值，掩盖了高中作业 $d=0.64$ 的高效益。 |
+> | [[John Hattie]] | 人物 | 构念创立，设立 $d=0.40$ 铰接点作为甄别教育策略推广价值的门槛。 |
+> | [[Pierre-Jérôme Bergeron]] | 人物 | 数理审计，揭示 $r=0.196$ 虚增至期望区与基准反转导致的逻辑崩溃。 |
+> | [[Adrian Simpson]] | 人物 | 统计解构，批判二阶元综合违反比率尺度与分布假定的统计学失范。 |
+> | [[Ewald Terhart]] | 人物 | 教学论审视，批判 $d=0.40$ 铰接点作为无量纲合成人工制品对教育决策的误导。[[Argument_Terhart_2014_HolyGrail\|(Terhart, 2014, pp. 14–16)]] |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 数理审计揭示微弱相关（$r=0.196, R^2=3.85\%$）虚增至 $d=0.40$ 机制，并以基准反转证实期望效应区缺乏客观绝对分界性（pp. 240–242）。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 系统批判《可见学习》期望效应区与铰接点的统计学缺陷，揭示其作为[[Neo-Taylorism|新泰勒主义]]规训工具与财政紧缩借口的治理功能。
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 运用变差系数数理检验证实 Hattie [[Effect Size|效应量]]总体（$V_\sigma = 56.87\%$）与各来源维度的极端不均匀性，实证解构了 $d = 0.40$ 期望效应区作为决策基准的科学有效性。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 引用[[John Hattie|哈蒂]]自白（[[Argument_Hattie_2010_NZJES|Hattie, 2010]]）与医学阿司匹林临床实证（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）批判 0.40 门槛的叙事修辞本质与证据扭曲后果。
-
----
-
-> [!entry-map] 条目关联
->
-> | 条目 | 类型 | 关联方向 | 说明 |
-> |:-----|:-----|:---------|:-----|
-> | [[Visible Learning]] | 概念 | 理论母体 | 期望效应区是《可见的学习》影响气压计与教育改进排序的核心标准。 |
-> | [[Effect Size]] | 方法 | 度量基础 | 期望效应区建立在标准化均值差 Cohen's $d$ 的统计度量之上。 |
-> | [[Effect Size Conversion]] | 方法 | 计算转换 | 相关系数向均值差的公式换算容易将微弱关联虚增至期望效应区。 |
-> | [[Class Size]] | 概念 | 批判实证 | 因效应量低于 $d=0.40$ 被贬为低效政策，基准反转后直接落入逆向有害区。 |
-> | [[Socioeconomic Status]] | 概念 | 阶层遮蔽 | 单向报告正向效应量掩盖了贫困作为全书最大破坏因素（$-0.59$）的现实。 |
-> | [[Homework]] | 概念 | 学段[[Heterogeneity\|异质性]] | 总体均值 $d=0.29$ 低于阈值，掩盖了高中作业 $d=0.64$ 的高效益。 |
-> | [[John Hattie]] | 人物 | [[Construct\|构念]]创立 | 设立 $d=0.40$ 铰接点作为甄别教育策略推广价值的门槛。 |
-> | [[Pierre-Jérôme Bergeron]] | 人物 | 数理审计 | 揭示 $r=0.196$ 虚增至期望区与基准反转导致的逻辑崩溃。 |
-> | [[Adrian Simpson]] | 人物 | 统计解构 | 批判二阶[[Meta-meta-analysis\|元综合]]违反比率尺度与分布假定的统计学失范。 |
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 评析德语区对可见的学习 0.40 期望效应区分水岭的方法学审视，批判其作为无量纲合成人工制品对教育决策的误导。

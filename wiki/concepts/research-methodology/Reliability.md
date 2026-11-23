@@ -95,7 +95,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-06-23
-updated: 2026-11-19
+updated: 2026-11-23
 ---
 
 ---

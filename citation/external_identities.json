@@ -1546,7 +1546,9 @@
       ],
       "doi": "",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/teacher-education/Teacher Subject Matter Knowledge.md"
+      ],
       "title": "Teachers' Subject Matter Knowledge as a Teacher Qualification: A Synthesis of the Quantitative Literature on Students' Mathematics Achievement"
     },
     "Ahsan & Smith, 2016": {
@@ -9326,6 +9328,8 @@
         "wiki/arguments/journal-articles/Journal of Curriculum Studies/Argument_Terhart_2011_JCS.md",
         "wiki/concepts/instruction-pedagogy/Effective Teaching.md",
         "wiki/concepts/research-methodology/Critique of Meta-analysis.md",
+        "wiki/concepts/teacher-education/Teacher Effects.md",
+        "wiki/concepts/teacher-education/Teacher Subject Matter Knowledge.md",
         "wiki/facts/germany/COACTIV.md",
         "wiki/theories/educational-philosophy/Stability vs. Variability Dilemma.md"
       ],
@@ -31196,7 +31200,9 @@
       ],
       "doi": "",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/teacher-education/Teacher Subject Matter Knowledge.md"
+      ],
       "title": "Science teacher characteristics by teacher behavior and by student outcome: A meta-analysis of research"
     },
     "Dryzek, 1996": {
@@ -84328,7 +84334,8 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md",
         "wiki/arguments/reports-policy-documents/Argument_WorldBank_2019_Teach.md",
-        "wiki/concepts/competency-and-assessment/Academic Achievement.md"
+        "wiki/concepts/competency-and-assessment/Academic Achievement.md",
+        "wiki/concepts/teacher-education/Teacher Effects.md"
       ],
       "title": "How Large Are Teacher Effects?"
     },
@@ -99584,7 +99591,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md"
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md",
+        "wiki/concepts/teacher-education/Teacher Effects.md"
       ],
       "title": "Cumulative and Residual Effects of Teachers on Future Student Academic Achievement"
     },
@@ -104050,7 +104058,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/teacher-education/Teacher Knowledge Base.md"
+        "wiki/concepts/teacher-education/Teacher Knowledge Base.md",
+        "wiki/concepts/teacher-education/Teacher Subject Matter Knowledge.md"
       ],
       "title": ""
     },

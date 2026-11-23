@@ -5,7 +5,7 @@ aliases:
 summary: "综合性教学质量概念，关注教师如何通过明确领导、清晰目标、反馈、学习导向气氛和适配学生前提来促进学习；亦在批判视角下聚焦技术清单与管理监视同关系型学习共同体建构之间的深刻张力。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 111
+related_count: 112
 related_level: 11
 related_stars: "💎💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -304,7 +304,7 @@ updated: 2026-11-23
 > > [!axis] 专业信任[[Peer-Supported Learning|同伴文化]] vs [[Performance Pay|绩效工资]]零和规训
 > > 探讨保障并激发有效教学质量究竟应当依靠培育关怀互信、包容试错的校本教研室同伴共同体，还是依靠自上而下的绩效工资与奖金考核机制进行外部经济施压。
 > >
-> > - **绩效规训派（Ruth Richardson, 1990; Murnane & Cohen, 1981 所引新公共管理主张）** 主张将教师薪酬与量化学生成绩指标深度挂钩，通过金钱奖惩打破教师平均主义怠惰，倒逼教师提升有效教学投入。
+> > - **绩效规训派（Ruth Richardson, 1990; Murnane & Cohen, 1981 所引新公共管理主张）** 主张将教师薪酬与量化学生成绩指标深度挂钩，通过金钱奖惩打破教师平均主义怠惰，促使教师增加有效教学投入。
 > > - **同伴信任派（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]; Hattie, 2008）** 论证绩效工资在美英等国的推行历史充斥失败，其实质是将同事异化为争夺奖金的对手，诱发严重的经验隐匿、防御性教学与职场焦虑；维系高水准有效教学的生命线，恰恰在于[[School Leadership|学校领导]]能否构建起充满包容与互信的教师[[Peer-Supported Learning|同伴文化]]。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 103–104)]]
 >
 > > [!axis] 形式化认知操作（[[Visible Learning]]） vs 学科教化实质正当性（[[Didaktik]] & [[Bildung]]）

@@ -114,6 +114,7 @@ related_arguments:
   - "[[Argument_Simpson_2017_JEdPolicy]]"
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[OECD]]"
@@ -126,7 +127,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-06-08
-updated: 2026-11-21
+updated: 2026-11-23
 ---
 
 ---
@@ -381,6 +382,7 @@ updated: 2026-11-21
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 对比分析英国 [[Education Endowment Foundation|EEF]] 工具包中的反馈与[[Teaching Assistant|教学助理]]项目，解构多级统计聚合抹杀教学情境异质性带来的政策风险。
 > - [[Argument_Wiliam_2019_ERE|Wiliam (2019)]] — 援引反馈研究中高达 38% 的负效应实证数据，论证去情境化平均[[Effect Size|效应量]]的误导性。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 揭示[[John Hattie|哈蒂]]《[[Visible Learning|可见的学习]]》等[[Meta-meta-analysis|元-元分析]]在多级累加聚合中造成原始经验变异与控制参数的系统性损耗，解构缺乏质控门槛与年代滞后所掩盖的底层极端方法学异质性。
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 评析可见的学习因未设严密的方法学准入标准导致底层证据库异质性失控的方法学缺陷。
 > - [[Argument_Simpson_2017_JEdPolicy|Simpson (2017)]] — 实证揭示教育元分析中效应量异质性受制于测量工具有意/无意的人工设计偏差。
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns and Schuller (2022, pp. 60–61, 66)]] — 纵向考察全球 15 个标杆中介案例，阐明研究者、政策层与一线实践者在认知范式与时间周期上的内外部异质性，并提出元中介整合多源异质数据的前沿机制。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 从数学取证与科学哲学视角解构二阶元分析抹平异质性的伪科学机制（家庭作业无权简单平均与班级规模曲线截尾），论证多变量课堂情境对捍卫[[Ecological Validity|生态效度]]的[[Ontology|本体论]]必要性。
