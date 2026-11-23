@@ -19264,13 +19264,11 @@
     "Nye (2005)": "Nye, 2005",
     "Nye (2011)": "Nye, 2011",
     "Nye et al. (1987)": "Nye et al., 1987",
-    "Nye et al. (2004a)": "Nye et al., 2004a",
-    "Nye et al. (2004b)": "Nye et al., 2004b",
+    "Nye et al. (2004)": "Nye et al., 2004",
     "Nye et al. (2006)": "Nye et al., 2006",
     "Nye et al., 1987": "Nye et al., 1987",
-    "Nye et al., 2004": "Nye et al., 2004a",
-    "Nye et al., 2004a": "Nye et al., 2004b",
-    "Nye et al., 2004b": "Nye et al., 2004b",
+    "Nye et al., 2004": "Nye et al., 2004",
+    "Nye et al., 2004a": "Nye et al., 2004",
     "Nye et al., 2006": "Nye et al., 2006",
     "Nye, 1990": "Nye, 1990",
     "Nye, 2004": "Nye, 2004",
@@ -45492,20 +45490,19 @@
         "Baumert et al., 2010",
         "Baumert et al. (2010)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.3102/0002831209345157",
       "identity_keys": [
         "Baumert et al., 2010"
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md",
         "wiki/arguments/journal-articles/Journal of Curriculum Studies/Argument_Terhart_2011_JCS.md",
         "wiki/concepts/instruction-pedagogy/Effective Teaching.md",
         "wiki/concepts/research-methodology/Critique of Meta-analysis.md",
         "wiki/facts/germany/COACTIV.md",
         "wiki/theories/educational-philosophy/Stability vs. Variability Dilemma.md"
       ],
-      "title": ""
+      "title": "Teachers' Mathematical Knowledge, Cognitive Activation in the Classroom, and Student Progress"
     },
     "Baumgartner & Jones, 1993": {
       "aliases": [
@@ -112281,11 +112278,11 @@
       "identity_keys": [
         "Hattie, 2013"
       ],
-      "isbn": "",
+      "isbn": "9783834011909",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md"
       ],
-      "title": ""
+      "title": "Lernen sichtbar machen"
     },
     "Hattie, 2015": {
       "aliases": [
@@ -170525,14 +170522,15 @@
       "seen_in": [],
       "title": "Effectiveness of language intervention with the language/learning disabled"
     },
-    "Nye et al., 2004a": {
+    "Nye et al., 2004": {
       "aliases": [
-        "Nye et al., 2004a",
-        "Nye et al. (2004a)"
+        "Nye et al., 2004",
+        "Nye et al. (2004)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.3102/01623737026003237",
       "identity_keys": [
-        "Nye et al., 2004"
+        "Nye et al., 2004",
+        "Nye et al., 2004a"
       ],
       "isbn": "",
       "seen_in": [
@@ -170540,20 +170538,7 @@
         "wiki/arguments/reports-policy-documents/Argument_WorldBank_2019_Teach.md",
         "wiki/concepts/competency-and-assessment/Academic Achievement.md"
       ],
-      "title": ""
-    },
-    "Nye et al., 2004b": {
-      "aliases": [
-        "Nye et al., 2004b",
-        "Nye et al. (2004b)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Nye et al., 2004a"
-      ],
-      "isbn": "",
-      "seen_in": [],
-      "title": "How large are teacher effects?"
+      "title": "How Large Are Teacher Effects?"
     },
     "Nye et al., 2006": {
       "aliases": [
@@ -196185,7 +196170,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md"
       ],
-      "title": ""
+      "title": "Cumulative and Residual Effects of Teachers on Future Student Academic Achievement"
     },
     "Sanders, 1979": {
       "aliases": [
@@ -196205,7 +196190,7 @@
         "Sanders, 2000",
         "Sanders (2000)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.1023/A:1008166606015",
       "identity_keys": [
         "Sanders, 2000"
       ],
@@ -196213,7 +196198,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md"
       ],
-      "title": ""
+      "title": "Value-Added Assessment from Student Achievement Data: Opportunities and Hurdles"
     },
     "Sanders, 2019": {
       "aliases": [
