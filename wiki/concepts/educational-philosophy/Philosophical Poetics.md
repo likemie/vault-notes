@@ -2,7 +2,6 @@
 title: Philosophical Poetics
 aliases:
   - 哲学诗学
-  - 规则诗学
   - 诗学理论
   - Poetik
 summary: "以规范性创作法则与体裁要求为核心的传统文艺理论门类，鲍姆加登借此分化出感性认识之学，后经狂飙突进运动转向天才诗学，并在黑格尔处与描述性哲学美学严格界分。"
@@ -18,12 +17,10 @@ tags:
   - theme/aesthetics
   - theme/literary-theory
 related_concepts:
-  - "[[Philosophical Aesthetics]]"
-  - "[[Mimesis]]"
-  - "[[Aesthetics of Ugliness]]"
   - "[[Aesthetic Genius]]"
-  - "[[Sensual Cognition]]"
-  - "[[Aesthetic Truth]]"
+  - "[[Philosophical Aesthetics]]"
+  - "[[Aesthetics of Ugliness]]"
+  - "[[Mimesis]]"
 related_theories:
   - "[[Hegel's Aesthetics]]"
 related_methods: []
@@ -31,10 +28,9 @@ related_instruments: []
 related_persons:
   - "[[Alexander Gottlieb Baumgarten]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
-  - "[[Aristotle]]"
   - "[[Friedrich Schlegel]]"
+  - "[[Aristotle]]"
 related_facts:
-  - "[[Aesthetic Theory]]"
   - "[[Sturm und Drang]]"
 related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch01]]"
