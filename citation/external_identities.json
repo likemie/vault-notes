@@ -4298,6 +4298,14 @@
       ],
       "title": ""
     },
+    "Ann Brown, 1984": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Reciprocal Teaching.md"
+      ],
+      "title": ""
+    },
     "Ann Ferruggia, 1989": {
       "doi": "",
       "isbn": "",
@@ -19110,6 +19118,14 @@
       ],
       "title": ""
     },
+    "Carla Meister, 1994": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Reciprocal Teaching.md"
+      ],
+      "title": ""
+    },
     "Carless & Boud, 2018": {
       "doi": "",
       "isbn": "",
@@ -30537,6 +30553,14 @@
       ],
       "title": ""
     },
+    "Donald Rubin, 1978": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/teacher-education/Teacher Expectations.md"
+      ],
+      "title": ""
+    },
     "Donald Stokes, 1997": {
       "doi": "",
       "isbn": "",
@@ -39695,6 +39719,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Review of Educational Research/Argument_Wadhwa_2024_RER.md",
+        "wiki/concepts/teacher-education/Teacher Expectations.md",
         "wiki/facts/us/Peer-Assisted Learning Strategies.md"
       ],
       "title": ""
@@ -49257,8 +49282,8 @@
         "wiki/concepts/instruction-pedagogy/Lecturing.md",
         "wiki/concepts/instruction-pedagogy/Mind Mapping.md",
         "wiki/concepts/instruction-pedagogy/Problem-Based Learning.md",
-        "wiki/concepts/instruction-pedagogy/Student-Teacher Relationship.md",
-        "wiki/concepts/instruction-pedagogy/Teacher Clarity.md"
+        "wiki/concepts/instruction-pedagogy/Reciprocal Teaching.md",
+        "wiki/concepts/instruction-pedagogy/Student-Teacher Relationship.md"
       ],
       "title": "Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement"
     },
@@ -86926,6 +86951,14 @@
       ],
       "title": ""
     },
+    "Palincsar & Brown, 1984": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Reciprocal Teaching.md"
+      ],
+      "title": ""
+    },
     "Palla et al., 2005": {
       "doi": "",
       "isbn": "",
@@ -93287,7 +93320,9 @@
       ],
       "doi": "",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/teacher-education/Teacher Expectations.md"
+      ],
       "title": "Magnitude of teacher expectancy effects on pupil IQ as a function of the credibility of expectancy induction: A synthesis of findings from 18 experiments"
     },
     "Raudenbush, 1997": {
@@ -97030,7 +97065,9 @@
       ],
       "doi": "",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Reciprocal Teaching.md"
+      ],
       "title": "Reciprocal teaching: A review of the research"
     },
     "Rosenshine & Stevens, 1986": {
@@ -97081,7 +97118,9 @@
       ],
       "doi": "",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/teacher-education/Teacher Expectations.md"
+      ],
       "title": "Interpersonal expectancy effects: The first 345 studies"
     },
     "Rosenthal, 1979": {

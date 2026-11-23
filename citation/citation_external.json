@@ -1001,6 +1001,8 @@
     "Anil & Batdi, 2015": "Anil & Batdi, 2015",
     "Ankrah & Al-Tabbaa (2015)": "Ankrah & Al-Tabbaa, 2015",
     "Ankrah & Al-Tabbaa, 2015": "Ankrah & Al-Tabbaa, 2015",
+    "Ann Brown (1984)": "Ann Brown, 1984",
+    "Ann Brown, 1984": "Ann Brown, 1984",
     "Ann Ferruggia (1989)": "Ann Ferruggia, 1989",
     "Ann Ferruggia, 1989": "Ann Ferruggia, 1989",
     "Ann Swidler (1986)": "Ann Swidler, 1986",
@@ -4340,6 +4342,8 @@
     "Cardini, 2006": "Cardini, 2006",
     "Carey & Smith (1993)": "Carey & Smith, 1993",
     "Carey & Smith, 1993": "Carey & Smith, 1993",
+    "Carla Meister (1994)": "Carla Meister, 1994",
+    "Carla Meister, 1994": "Carla Meister, 1994",
     "Carless & Boud (2018)": "Carless & Boud, 2018",
     "Carless & Boud, 2018": "Carless & Boud, 2018",
     "Carlos Alberto Torres (1992)": "Carlos Alberto Torres, 1992",
@@ -6965,7 +6969,9 @@
     "Donald Norman (1988)": "Donald Norman, 1988",
     "Donald Norman, 1988": "Donald Norman, 1988",
     "Donald Rubin (1974)": "Donald Rubin, 1974",
+    "Donald Rubin (1978)": "Donald Rubin, 1978",
     "Donald Rubin, 1974": "Donald Rubin, 1974",
+    "Donald Rubin, 1978": "Donald Rubin, 1978",
     "Donald Stokes (1997)": "Donald Stokes, 1997",
     "Donald Stokes, 1997": "Donald Stokes, 1997",
     "Donald Treiman (1970)": "Donald Treiman, 1970",
@@ -19851,6 +19857,8 @@
     "Palgrave Macmillan (2019)": "Palgrave Macmillan, 2019",
     "Palgrave Macmillan, 2019": "Palgrave Macmillan, 2019",
     "Palgrave, 2006": "Palgrave, 2006",
+    "Palincsar & Brown (1984)": "Palincsar & Brown, 1984",
+    "Palincsar & Brown, 1984": "Palincsar & Brown, 1984",
     "Palla et al. (2005)": "Palla et al., 2005",
     "Palla et al., 2005": "Palla et al., 2005",
     "Pallonen (1998)": "Pallonen, 1998",
@@ -37066,6 +37074,21 @@
       "seen_in": [
         "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_OrgStrategy.md",
         "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Dean_2025_UICollaborationSupport.md"
+      ],
+      "title": ""
+    },
+    "Ann Brown, 1984": {
+      "aliases": [
+        "Ann Brown, 1984",
+        "Ann Brown (1984)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ann Brown, 1984"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Reciprocal Teaching.md"
       ],
       "title": ""
     },
@@ -61862,6 +61885,21 @@
       ],
       "title": ""
     },
+    "Carla Meister, 1994": {
+      "aliases": [
+        "Carla Meister, 1994",
+        "Carla Meister (1994)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Carla Meister, 1994"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Reciprocal Teaching.md"
+      ],
+      "title": ""
+    },
     "Carless & Boud, 2018": {
       "aliases": [
         "Carless & Boud, 2018",
@@ -80958,6 +80996,21 @@
       ],
       "title": ""
     },
+    "Donald Rubin, 1978": {
+      "aliases": [
+        "Donald Rubin, 1978",
+        "Donald Rubin (1978)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Donald Rubin, 1978"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/teacher-education/Teacher Expectations.md"
+      ],
+      "title": ""
+    },
     "Donald Stokes, 1997": {
       "aliases": [
         "Donald Stokes, 1997",
@@ -96356,6 +96409,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Review of Educational Research/Argument_Wadhwa_2024_RER.md",
+        "wiki/concepts/teacher-education/Teacher Expectations.md",
         "wiki/facts/us/Peer-Assisted Learning Strategies.md"
       ],
       "title": ""
@@ -112240,8 +112294,8 @@
         "wiki/concepts/instruction-pedagogy/Lecturing.md",
         "wiki/concepts/instruction-pedagogy/Mind Mapping.md",
         "wiki/concepts/instruction-pedagogy/Problem-Based Learning.md",
-        "wiki/concepts/instruction-pedagogy/Student-Teacher Relationship.md",
-        "wiki/concepts/instruction-pedagogy/Teacher Clarity.md"
+        "wiki/concepts/instruction-pedagogy/Reciprocal Teaching.md",
+        "wiki/concepts/instruction-pedagogy/Student-Teacher Relationship.md"
       ],
       "title": "Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement"
     },
@@ -174865,6 +174919,21 @@
       ],
       "title": ""
     },
+    "Palincsar & Brown, 1984": {
+      "aliases": [
+        "Palincsar & Brown, 1984",
+        "Palincsar & Brown (1984)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Palincsar & Brown, 1984"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Reciprocal Teaching.md"
+      ],
+      "title": ""
+    },
     "Palla et al., 2005": {
       "aliases": [
         "Palla et al., 2005",
@@ -185559,7 +185628,9 @@
         "Raudenbush, 1984"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/teacher-education/Teacher Expectations.md"
+      ],
       "title": "Magnitude of teacher expectancy effects on pupil IQ as a function of the credibility of expectancy induction: A synthesis of findings from 18 experiments"
     },
     "Raudenbush, 1997": {
@@ -191816,7 +191887,9 @@
         "Rosenshine & Meister, 1994"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Reciprocal Teaching.md"
+      ],
       "title": "Reciprocal teaching: A review of the research"
     },
     "Rosenshine & Stevens, 1986": {
@@ -191902,7 +191975,9 @@
         "Rosenthal & Rubin, 1978"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/teacher-education/Teacher Expectations.md"
+      ],
       "title": "Interpersonal expectancy effects: The first 345 studies"
     },
     "Rosenthal, 1979": {

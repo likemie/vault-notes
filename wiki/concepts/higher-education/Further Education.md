@@ -8,7 +8,7 @@ aliases:
 summary: "位于义务教育和正规高等教育之外的中学后非正规教育形态，以非学位证书、职业技能重塑与终身学习为核心，与正规高等教育共同构成后福特经济与跨国产业链协同的技能支柱。"
 type: concept
 domain: "higher-education"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -46,10 +46,11 @@ related_arguments:
   - "[[Argument_Wang_Liang_Chen_2025_CES]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
   - "[[Argument_Gopinathan_2007_GSE]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
 confidence: high
 status: completed
 created: 2026-05-18
-updated: 2026-11-18
+updated: 2026-11-23
 ---
 
 ---
@@ -144,6 +145,7 @@ updated: 2026-11-18
 > - **2000–2010年代 — 参与率攀升与多边统计建制** 欧盟启动继续职业教育培训调查（CVTS），数据显示 25–64 岁成人教育培训年参与率突破 40%，继续教育被纳入跨国终身学习政策指标体系。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, pp. 179–180)]]
 > - **2003 年 — 东亚[[Developmental State|发展型国家]]的定向职业技能重组** 新加坡成立[[Workforce Development|劳动力发展]]局（WDA），由国家紧密围绕经济发展局（EDB）确立的生物医药、精密工程与数字创意等高附加值产业目录，定向资助成人继续教育与在职转岗培训，将继续教育作为支撑国家产业结构转型的战略性远距离治理工具。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, p. 66)]]
 > - **2010年代末 — 微证书繁荣与商业寡头集聚** 替代性微证书（Micro-credentials）快速崛起，Skillsoft 等跨国在线商业培训机构依靠资本并购与平台效应形成全球性市场集聚。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, pp. 190–193)]]
+> - **2014 年 — 教师在职专业发展与继续教育实证综合** [[Ewald Terhart|埃瓦尔德·特哈特]]（[[Argument_Terhart_2014_HolyGrail|Terhart, 2014, p. 19]]）在评述[[Visible Learning|可见学习]]德语区落地时指出，基于 5 项[[Meta-analysis|元分析]]的综合证据显示，教师在职进修与继续教育（Lehrerfortbildung/Weiterbildung）产生的合并[[Effect Size|效应量]]达 $d = 0.62$，表明针对从业教师的有组织专业继续教育能够跨越期望效应阈值，对专业实践与教学成效产生显著促进。
 > - **2017 年 — 瑞士《联邦继续教育法》（WeBiG）确立企业法定责任** 瑞士全面实施《联邦继续教育法》（WeBiG），以法律形式确立公私部门用人单位促进员工在岗继续教育的法定义务（第 5.2 条），并设立 digitalinform.swiss 等公共资助项目，实现终身学习治理法治化。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, p. 435)]]
 > - **2019 年 — 德国《国家继续教育战略》（NWS）与多方协商** 面对数字化转型中的技能更新压力，德国联邦教研部与劳资双方联合推出《国家继续教育战略》（NWS），作为协调跨部门培训倡议与劳资成本博弈的政策平台。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022, p. 433)]]
 > - **2020年代至今 — 全周期技能贯通与跨国数字走廊** 在跨国工程合作与职业教育开放实践中，继续教育深度融入“职前、入职、在职”全生命周期资源库，依托多语种数字平台支撑区域技能标准化协同。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 300–301)]]
@@ -205,3 +207,4 @@ updated: 2026-11-18
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 考察欧盟教育政策演进，指出构筑制度化欧洲教育空间的关键目标之一是推进初始教育与继续教育体系的一体化整合（p. 485）。
 > - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 阐明新加坡强发展型国家如何于 2003 年设立劳动力发展局（WDA），通过政策激励与财政定向资助推动成人继续教育与转岗培训，使其紧密服务于战略性新兴产业布局（p. 66）。
 > - [[Argument_Hippach-Schneider_Rieder_2022_RCIE|Hippach-Schneider and Rieder (2022)]] — 比较德瑞两国在岗继续教育在数字化转型中的治理架构，揭示瑞士《联邦继续教育法》（WeBiG）的企业法定义务与德国《国家继续教育战略》（NWS）的劳资博弈。
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 结合德译本评述教师在职进修与继续教育（$d = 0.62$, 5 项元分析），证实面向从业人员的高质量专业继续教育属于期望效应区的高回报实践（p. 19）。

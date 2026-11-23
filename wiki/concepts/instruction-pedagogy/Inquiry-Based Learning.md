@@ -10,9 +10,9 @@ aliases:
 summary: "以学习者自主生成新知、依托经验证据推论、行使认识能动性并参与共同体批判协商为核心的教学取向，在适切支架与指导协同下对促进概念理解与远迁移显著优于单一直接讲授"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 68
-related_level: 6
-related_stars: "💎💎"
+related_count: 70
+related_level: 7
+related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - concept/pedagogy
@@ -84,6 +84,7 @@ related_persons:
   - "[[Cindy E. Hmelo-Silver]]"
   - "[[Clark A. Chinn]]"
   - "[[John Hattie]]"
+  - "[[Ewald Terhart]]"
 related_facts:
   - "[[PISA]]"
   - "[[TIMSS]]"
@@ -96,10 +97,11 @@ related_arguments:
   - "[[Argument_Zhang_2022_SE]]"
   - "[[Argument_Deng_2016_CE]]"
   - "[[Argument_Gopinathan_2007_GSE]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
 confidence: high
 status: active
 created: 2026-09-20
-updated: 2026-11-18
+updated: 2026-11-23
 ---
 
 > [!def] Inquiry-Based Learning
@@ -208,6 +210,7 @@ updated: 2026-11-18
 > - **1960–1970 年代 — [[Discovery Learning\|纯发现学习]]兴起与早期受挫** 早期发现学习（Discovery Learning）主张学习者在无指导环境中自主探索自然规律，但因缺乏认知支持导致学生产生大量挫败感与知识迷失，引发教育界对极简指导教学的大规模反思。
 > - **1980–1990 年代 — [[Constructivist Paradigm\|建构主义]]转型与[[Inquiry Cycle\|探究循环]]规范化** 随着[[Cognitive Constructivism\|认知建构主义]]与社会建构主义兴起，科学教育研究将探究学习系统规范化为由问题驱动、假设设计、证据收集、模型建构与同伴论证构成的探究循环（Inquiry Cycle），[[Scaffolding\|教学支架]]（Scaffolding）理论被全面引入探究设计。
 > - **2000–2010 年代 — 认知负荷争论与指导式探究循证确立** [[Cognitive Load Theory\|认知负荷理论]]学者提出强力批评，宣扬最小指导彻底失效；学习科学界开展反驳，明确将有效探究界定为包含充分认知支架的指导式探究（Guided Inquiry），系列[[Meta-analysis\|元分析]]（Alfieri et al., 2011; Furtak et al., 2012; Lazonder & Harmsen, 2016）系统确立了指导式探究的实证优势。
+> - **2014 年 — 可见学习德译本中探究学习的“协助者”效能定性** [[Ewald Terhart|埃瓦尔德·特哈特]]（[[Argument_Terhart_2014_HolyGrail\|Terhart, 2014, p. 19]]）在评析德译本实证归纳时指出，探究学习（inquiry-based learning）在宏观二阶元分析中仅获得 $d = 0.31$ 的微弱效应，归入平均效应仅 $d = 0.31$ 的“教师作为促进者/协助者（Facilitator）”角色范畴；这与平均效应达 $d = 0.60$ 的“教师作为挑战者/激活者（Activator）”实践形成鲜明对比，从宏观证据层面警示了脱离教师积极认知激活的探究教学的效能局限。
 > - **2021 年 — [[Epistemic Cognition\|认识论认知]]干预中的因果效应与支架必要性确立** [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 针对认识论认知干预展开首个元分析，证实提供实验[[Variable\|变量]]与记录支架的指导式探究成效突出，而缺乏支架的开放[[Problem Solving\|问题解决]]与自由辩论效果微弱，从干预设计层面确立了指导支架对探究转化的决定性意义。
 > - **2020 年代至今 — 多重调节[[Variable\|变量]]与时序协同模型** 面临[[Direct Instruction\|直接教学]]绝对优越论的再次抬头，以 [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 为代表的综述全面整合受控实验、[[PISA]] 跨国调查与课程级长周期项目，建构起结合先验知识、[[Inhibitory Control\|抑制控制]]与学习目标的探究与直接教学时序整合设计[[Paradigm\|范式]]。
 
@@ -305,25 +308,28 @@ updated: 2026-11-18
 
 ---
 
-> [!entry-map] 探究式学习关联网络
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
-> | [[Inquiry Cycle]] | 理论模型 | 规范探究学习中问题提出、证据收集与模型修正的循坏架构。 |
-> | [[Direct Instruction]] | 对比概念 | 与指导式探究在教学时序中形成互补整合的显性教学方法。 |
-> | [[Discovery Learning]] | 辨析概念 | 缺乏支架的纯发现学习容易造成工作记忆过载，有别于高结构的指导式探究。 |
-> | [[Cognitive Load Theory]] | 理论基础 | 揭示探究过程中认知负荷的管理规律与支架的使能边界。 |
-> | [[Epistemic Agency]] | 核心机制 | 学习者在证据检验与模型建构中行使的自主反思与裁决权。 |
-> | [[Scaffolding]] | 教学技术 | 动态提供认知线索与过程约束以化解探究认知超载的关键手段。 |
-> | [[Control of Variables Strategy]] | 典型载体 | 探究学习中用于检验因果关系的经典科学实验策略。 |
+> | [[Direct Instruction]] | 概念 | 与指导式探究在教学时序中形成互补整合的显性教学方法。 |
+> | [[Discovery Learning]] | 概念 | 缺乏支架的纯发现学习容易造成工作记忆过载，有别于高结构的指导式探究。 |
+> | [[Epistemic Agency]] | 概念 | 学习者在证据检验与模型建构中行使的自主反思与裁决权。 |
+> | [[Scaffolding]] | 概念 | 动态提供认知线索与过程约束以化解探究认知超载的关键手段。 |
+> | [[Control of Variables Strategy]] | 概念 | 探究学习中用于检验因果关系的经典科学实验策略。 |
+> | [[Inquiry Cycle]] | 理论 | 规范探究学习中问题提出、证据收集与模型修正的循环架构。 |
+> | [[Cognitive Load Theory]] | 理论 | 揭示探究过程中认知负荷的管理规律与支架的使能边界。 |
+> | [[John Hattie]] | 人物 | 在可见学习二阶元分析中量化探究学习效应量（$d = 0.31$）的代表学者。 |
+> | [[Ewald Terhart]] | 人物 | 评析可见学习中探究学习低效应量及其与教师显性指导互补关系的德国教学论学者。 |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 分析新加坡能力导向课改中探究式教学的制度困境，指出高利害升学统考与绩效指标促使基层教师避险，导致探究实践退化为解题套路并受制于传统讲授规程（pp. 60–63）。
 > - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 考察新加坡高表现教育系统中探究式教学改革的制度现实，揭示跨国借用者将 PISA 高分误归因于探究式课改的修辞陷阱，实证表明常态课堂仍以高度结构化的直接教学为主导，探究活动多停留在表层或边缘。
-> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 反驳 [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 的[[Direct Instruction\|直接教学]]优越论，整合受控实验、[[PISA]] 与课程级证据，确立指导式探究在深层理解上的优势及两者的协同模型。
-> - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 针对 26 项实验与准实验[[Intervention Research\|干预研究]]开展[[Meta-analysis\|元分析]]，证实指导式探究（$d = 0.808$）是促进[[Epistemic Cognition\|认识论认知]]发展与提升[[Academic Achievement\|学业成就]]最有效的[[Framework for Teaching|教学框架]]，显著优于缺乏显性支架的问题驱动学习（$d = 0.340$）与开放辩论（$d = 0.134$）。
-> - [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] — 德国学者对《[[Visible Learning|可见的学习]]》中探究式教学量化综合的计算审计，揭露通过对子研究[[Standard Error|标准误]]取简单算术平均得出伪标准误（$SE = 0.092$）的严重方法学缺陷（p. 30）。
+> - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 反驳 [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 的[[Direct Instruction|直接教学]]优越论，整合受控实验、[[PISA]] 与课程级证据，确立指导式探究在深层理解上的优势及两者的协同模型。
+> - [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] — 针对 26 项实验与准实验[[Intervention Research|干预研究]]开展[[Meta-analysis|元分析]]，证实指导式探究（$d = 0.808$）是促进[[Epistemic Cognition|认识论认知]]发展与提升[[Academic Achievement|学业成就]]最有效的[[Framework for Teaching|教学框架]]，显著优于缺乏显性支架的问题驱动学习（$d = 0.340$）与开放辩论（$d = 0.134$）。
+> - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 德国学者对《[[Visible Learning|可见的学习]]》中探究式教学量化综合的计算审计，揭露通过对子研究[[Standard Error|标准误]]取简单算术平均得出伪标准误（$SE = 0.092$）的严重方法学缺陷（p. 30）。
 > - [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]] — 结合芬兰国家评估与 PISA 微观数据，实证检验 1990 年代建构主义大纲落地与学生中心探究教学普及对基础认知表现的负向因果效应，警示过早放弃教师主导讲授的教学风险（pp. 58–63）。
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 结合德译本评述探究学习在二阶元分析中的实证定位（$d = 0.31$），揭示其作为“教师作为促进者”实践相比于“教师作为激活者”（$d = 0.60$）的效能差距，阐明缺乏显性认知激活的探究活动无法突破期望效应阈值（p. 19）。
 

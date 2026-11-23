@@ -7,13 +7,13 @@ aliases:
   - 教师表达清晰度
   - clarity of teaching
   - instructional clarity
-summary: "教师在组织教学内容、阐明目标准则、解释概念逻辑与传达行动指令时所呈现的条理透彻与易于理解的专业沟通品质；在二阶元分析中以d=0.75位居教师实践效应量第二位，能通过降低无关认知负荷显著赋通学生的表层吸收与深层思维建构。"
+summary: "教师在组织教学内容、阐明目标准则、解释概念逻辑与传达行动指令时所呈现的条理透彻与易于理解的专业沟通品质；在二阶元分析中以d=0.75位居教师实践效应量第二位，通过降低无关认知负荷促进学生对知识的表层吸收与深层思维建构。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - teacher-clarity
   - instructional-clarity
@@ -69,7 +69,7 @@ updated: 2026-11-23
 > [!def] Teacher Clarity
 > **教师清晰度（Teacher Clarity）** 指执教者在课堂教学中向学习者准确传递学习目标、[[Success Criteria|成功标准]]、学科概念结构与学习操作指引的专业沟通与组织品质。它要求教师语言条理分明、用词精准无歧义、逻辑架构严密，并能提供结构化的实例示范与适切的[[Scaffolding|认知支架]]。在[[Empirische Unterrichtsforschung|实证教学研究]]中，清晰度被普遍视作激活学生注意力、压缩理解阻抗与促进[[Academic Achievement|学业成就]]的核心教学行为特质。[[Argument_Terhart_2011_JCS|(Terhart, 2011, p. 432)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 指向教学意图向学习者认知视界的无损转译能力，涉及言语表达、任务阐释与概念结构的三维透彻性。
 > - **用途** 帮助研究者透视教师如何通过消除指示模糊与概念含混，最大限度释放学生的有效[[Working Memory|工作记忆]]资源。
 > - **边界** 聚焦教学交互的信息保真度；不等于单向灌输式的口若悬河，亦不能替代基于学生生成性迷思的启发式互动。
@@ -86,7 +86,7 @@ updated: 2026-11-23
 
 ---
 
-> [!contrast-table] 教学沟通维度辨析
+> [!contrast-table|notitle] 教学沟通维度辨析
 > | 维度 | 教师清晰度（Teacher Clarity） | 教师即时亲和力（[[Teacher Immediacy]]） | 讲授流畅性（[[Lecturing\|Lecture]] Fluency） |
 > |---|---|---|---|
 > | **核心内涵** | 目标、概念、步骤与准则的逻辑通透与易于理解 | 情感共鸣、人际心理靠近与温暖包容 | 语言表达无卡顿、语音语调自然连贯 |
@@ -153,15 +153,6 @@ updated: 2026-11-23
 > > - **[[Structured Teaching|结构化教学]]视角（[[Direct Instruction]] 学派）** 主张教师必须扫清一切概念含混，步骤分明才能保障知识掌握。
 > > - **探究[[Constructivist Paradigm|建构主义]]视角（Kapur [[Productive Failure|生产性失败]]理论）** 认为在探索高阶迁移问题时，适度的不确定性与尝试困惑对深层概念理解至关重要，过度细致的步骤清晰反而会诱发思维惰性。
 
----
-
-> [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
-> <span class="concept-meta-table-marker" aria-hidden="true"></span>
->
-> | 综合来源 | 初级[[Meta-analysis|元分析]]数 | 初级研究数 | 样本规模 | 合并效应量 $d$ | 显著性 / [[Confidence Interval|置信区间]] | 结论定位 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Terhart_2011_JCS|Terhart (2011, p. 432, Table 2)]]; [[Argument_Terhart_2014_HolyGrail|Terhart (2014, p. 19)]]; Hattie (2009) | 7 项元分析 | 240 项研究 | 31,649 名学生与教师 | 0.75 | 极高显著促进效应 | 教师所有实践影响因素排位第二名，属于期望效应区（$d \ge 0.40$）最高梯队 |
-
 > [!metax-divider]
 
 > [!metax] [教师清晰度 · Teacher clarity](https://www.visiblelearningmetax.com/influences/view/teacher_clarity)
@@ -177,6 +168,15 @@ updated: 2026-11-23
 > > | Fendick (1990) | Teacher clarity on outcomes | 39 | NA | 100 | 0.75 |  |
 > > | Titsworth et al. (2015) | Teacher clarity on outcomes | 25 | 8,241 | 25 | 0.72 |  |
 > > | Titsworth et al. (2015) | Teacher clarity on outcomes | 37 | 6,612 | 114 | 1.04 |  |
+
+> [!empirical-divider]
+
+> [!ma-table]- 二阶元分析结果
+> <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
+>
+> | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
+> |---|---|---|---|---|---|---|---|
+> | Hattie (2009); [[Argument_Terhart_2011_JCS\|Terhart (2011, p. 432)]]; [[Argument_Terhart_2014_HolyGrail\|Terhart (2014, p. 19)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.75"><span class="b15"></span></span>0.75 | — | Cohen's $d$；未报告具体合成模型 | $M = 7$ / $E = 240$ / $k = 240$ / $N = 31,649$ | 干预因素：教师教学清晰度对学生学业成就的总体促进效应 | — | 原始综合主要基于教师自我报告与学生评定等多源测量工具，未细分学科领域的异质性调节 |
 
 ---
 
