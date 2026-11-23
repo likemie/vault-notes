@@ -103,7 +103,7 @@ updated: 2026-11-23
 > [!def] Reliability
 > 信度（Reliability）指测量工具、数据收集与研究发现在跨越时间、工具和受访者群体时所展现的一致性（consistency）、可依赖性（dependability）与可复制性（replicability）。对于实证研究而言，信度要求在相似情境中对相似群体重复施测时能够获得相似的结果；在[[Quantitative Research|量化研究]]中体现为测量程序的稳定度与误差控制，在[[Qualitative Research|质性研究]]中则转化为对自然生活情境的忠实记录与多观察者解释的可依赖性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 199–200)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 信度回答的核心问题是：如果研究在相似条件、相似人群与相似工具下重复进行，是否能够获得相似的结果。该指标聚焦于测量程序本身的稳定度与一致性，区别于关注测量对象是否准确的[[Construct Validity|构念效度]]。
 > - **用途** 帮助研究者在研究设计、工具开发和数据收集阶段确保测量的一致性和可复制性。在量化研究中，信度是效度论证的前置条件，不可靠的测量难以确立有效性。
 > - **边界** 信度区别于[[Internal Consistency|内部一致性]]（内部一致性仅为题项间关联的一种具体形式）；亦区别于[[Test-Retest Reliability|重测信度]]（重测仅为[[Operationalization|操作化]]稳定性的一种方式）。在质性研究中，信度被重构为情境可依赖性，不可机械套用数值系数。
@@ -121,7 +121,7 @@ updated: 2026-11-23
 
 ---
 
-> [!contrast-table] 信度 vs 效度
+> [!contrast-table|notitle] 信度 vs 效度
 > | 维度 | 信度（Reliability） | 效度（Validity） |
 > |---|---|---|
 > | **核心问题** | 测量是否稳定和一致？ | 测量是否准确对应所要探究的目标对象？ |
@@ -130,7 +130,7 @@ updated: 2026-11-23
 > | **质性对应** | 可依赖性（dependability） | 可信性（credibility） |
 > | **典型例证** | 计量水龙头每天恒定漏出一升水，体现出测量的稳定性 | 水龙头漏出的是符合实验规格的目标液体，体现出测量的针对性 |
 
-> [!contrast-table] 量化信度与[[Qualitative Reliability|质性信度]]基础对照
+> [!contrast-table|notitle] 量化信度与[[Qualitative Reliability|质性信度]]基础对照
 > | 量化信度基础 | 质性信度基础 |
 > |---|---|
 > | 信度（Reliability） | 可依赖性（Dependability） |
@@ -218,28 +218,29 @@ updated: 2026-11-23
 
 ---
 
-> [!claim-table] 所有命题归纳
+> [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **跨国指标治理命题** | 跨国等值空间中信度优先压制构念效度与本土多样性，批判社会学转向超越纯技术话语 | 大规模跨国教育测评、全球政策规训与国家统考设计 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]]; [[Argument_Xie_Li_Huang_2021_GEO\|谢爱磊等 (2021)]] |
 > | **测量逻辑层级命题** | 信度构成效度的必要非充分条件，过度追求信度可能损及构念效度覆盖 | 量化与质性实证工具开发与效度论证 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011)]]; [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]] |
-> | **质性编码规程命题** | 多分析者盲审与编码员间信度检验保障质性归纳客观性与透明度 | 跨案例质性分析、[[Narrative Research\|叙事研究]]与质性文本编码 | O'Connor and Joffe (2020); [[Argument_Liu_2025_IndHE\|Liu et al. (2025)]] |
-> | **封闭评价牢笼命题** | 评价语言内部循环互证虽产生高统计信度，但因割裂外部真实教学而沦为零效度牢笼 | [[Evidence-Based Education\|循证教育]]指标审查、[[Meta-analysis\|元分析]]评价模型与政策问责批判 | [[Argument_Rømer_2018_EPT\|Rømer (2018)]] |
+> | **质性编码规程命题** | 多分析者盲审与编码员间信度检验保障质性归纳客观性与透明度 | 跨案例质性分析、[[Narrative Research|叙事研究]]与质性文本编码 | O'Connor and Joffe (2020); [[Argument_Liu_2025_IndHE\|Liu et al. (2025)]] |
+> | **封闭评价牢笼命题** | 评价语言内部循环互证虽产生高统计信度，但因割裂外部真实教学而沦为零效度牢笼 | [[Evidence-Based Education|循证教育]]指标审查、[[Meta-analysis|元分析]]评价模型与政策问责批判 | [[Argument_Rømer_2018_EPT\|Rømer (2018)]] |
 
 ---
 
 > [!dev-timeline] 信度概念与测量[[Paradigm|范式]]的演化脉络
-> - **1904 — [[Classical Test Theory|经典测验理论]]与量化信度奠基** 斯皮尔曼（Charles Spearman）提出经典测验理论，区分真分数与测量误差，将信度界定为跨时间与跨测试的一致性，奠定了[[Test-Retest Reliability|重测信度]]与[[Parallel-Forms Reliability|复本信度]]的方法论基石。
+> - **1904 — [[Classical Test Theory|经典测验理论]]与量化信度确立** 斯皮尔曼（Charles Spearman）提出经典测验理论，区分真分数与测量误差，将信度界定为跨时间与跨测试的一致性，确立了[[Test-Retest Reliability|重测信度]]与[[Parallel-Forms Reliability|复本信度]]的方法论基石。
 > - **1951 — [[Internal Consistency|内部一致性]]系数标准化** 克隆巴赫（Lee Cronbach）提出 Cronbach $\alpha$ 系数，克服了[[Split-Half Reliability|折半信度]]随意分半的缺陷，将多项目量表的内部一致性测量标准化为单次施测的成熟规程。
 > - **1985–1993 — 自然主义范式转向与质性可依赖性重构** 林肯与古巴（Lincoln & Guba, 1985）主张以“可依赖性”（dependability）重构[[Positivism|实证主义]]量化信度；莱康普特与普莱斯勒（LeCompte & Preissle, 1993）深入辨析质性研究的可复制性要素与[[Ecological Validity|生态效度]]权衡，反对将去情境化的量化标准生硬套用于自然主义情境。
 > - **2009 — 跨国等值空间与[[Governing by Numbers|数字治理]]信度优先批判** 法扎尔·里兹维与鲍勃·林加德批判经合组织与 PISA 测评，揭示技术官僚为构建跨国[[Commensuration|通约]]的等值空间，以高信度为由系统性剔除扎根于本土文化脉络的高阶思辨试题，造成实质构念效度滑坡。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
+> - **2014 — 文献准入质控门槛与元分析结论可靠性审视** 特哈特（[[Argument_Terhart_2014_HolyGrail|Terhart, 2014, p. 14]]）指出，元分析结论的可靠性高度取决于文献准入标准的严格程度；缺失方法学门槛将导致宏观综合丧失可靠的证据基础。
 > - **2018 — 循环自指实证系统的封闭研究牢笼警示** 勒默尔深入剖析可见学习实证模型，指出在缺乏外部现实对应的情境下，极高统计信度反而掩盖了真实效度归零并沦为“研究牢笼”。[[Argument_Rømer_2018_EPT|(Rømer, 2018, p. 6)]]
 > - **2020–2025 — 质性主题分析与跨案例编码员信度规程化** 奥康纳与约菲（O'Connor and Joffe, 2020）及刘伟等学者系统规范了质性研究中的编码员间信度操作规程，通过多名独立研究者交叉比对与盲审提高跨案例综合的客观性与透明度。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, p. 190)]]
 > - **2021 — 批判政策社会学超越信效度技术话语窠臼** 谢爱磊等学者系统梳理国际文献，提出超越单纯检验 PISA 测量信度与效度的狭隘框架，转向批判超国家量化治理背后的去背景化机制与意识形态规训。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 74–75)]]
 
 ---
 
-> [!debates] 信度学术争议与认识论交锋
+> [!debates|notitle] 学术争议
 >
 > > [!axis] 跨国统计信度优先 vs 构念效度与本土文化本体论
 > > 围绕跨国标准化评估为了达成统计信度与机械可比性，是否不可避免地牺牲了教育测量的真实效度与文化多样性展开交锋。
@@ -258,31 +259,38 @@ updated: 2026-11-23
 > >
 > > - **评价逻辑与元分析建模立场** 认为通过自[[Variable|变量]]（教学干预）与因变量（学习产出）的标准化互证，能够构建具有极高内部一致性、数据自洽性与统计信度的评价模型，从而提供跨越异质情境的稳健因果基准。
 > > - **批判教育哲学立场** 勒默尔尖锐指出，当因变量与自变量完全在评价语言系统内相互循环界定时，整个体系虽能展现出极高的统计信度，却因割裂了与外部真实教育实践与学科内容的对应而陷入实质效度危机，高信度成为构筑脱离外部世界之“研究牢笼”的技术外壳（[[Argument_Rømer_2018_EPT|Rømer, 2018, p. 6]]）。
+>
+> > [!axis] 二阶元分析宏观结论可靠性 vs 底层文献准入质控门槛
+> > 探讨宏观证据综合的结论可信度究竟来自海量数据的简单叠加，还是取决于严格的方法学准入筛选。
+> >
+> > - **海量数据汇总立场** 认为纳入数百项元分析和数万项初级研究能够通过大样本稀释偏倚，形成跨情境的稳健可靠结论。
+> > - **方法学门槛批判立场** [[Argument_Terhart_2014_HolyGrail|Terhart (2014, p. 14)]] 指出，元分析结论的可靠性高度取决于文献准入标准的严格程度；缺乏严格质控而将严谨实验与粗疏调查混为一谈，会导致底层证据可靠性瓦解，使宏观结论丧失判准。
 
-> [!warning] 适用局限
+> [!warning|limits] 适用局限
 > - 信度仅是[[Evaluation Research|评价研究]]质量的维度之一，必须与构念效度协同考察；脱离效度保障的高信度测量在实践中缺乏科学推论价值。
 > - 在质性研究中机械套用量化重测或折半系数会破坏现象的自然展开，损伤探究的生态效度与对复杂情境的忠实呈现。
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |---|---|---|
+> | [[Construct Validity]] | 概念 | 信度构成效度的必要非充分条件，两者存在动态权衡。 |
+> | [[Qualitative Reliability]] | 概念 | 质性范式下信度的重构形态，重在情境忠实性与分析可依赖性。 |
+> | [[Space of Equivalence]] | 概念 | 超国家指标治理依托统一统计信度构建跨国通约的等值空间。 |
+> | [[Research Cage]] | 概念 | 封闭实证评价模型中循环自指的高信度掩盖[[External Validity|外部效度]]丧失的研究牢笼。 |
+> | [[Internal Consistency]] | 方法 | 信度作为内部一致性的具体实现形态，以 Cronbach $\alpha$ 与折半法为代表。 |
+> | [[Test-Retest Reliability]] | 方法 | 信度作为稳定性向度的具体[[Operationalization|操作化]]路径。 |
+> | [[Inter-Rater Reliability]] | 方法 | 信度作为等值性向度在多观察者数据录入中的保障规程。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al. (2011, Ch. 10)]] — 系统阐述教育研究中量化信度的三种形式（稳定性、等值性、内部一致性）与质性信度（可依赖性、[[Trustworthiness|可信赖性]]）的核心内涵与规范要求。
 > - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015, Ch. 5)]] — 梳理教育调查[[Questionnaire|问卷]]中的重测信度、复本信度、折半信度与[[Inter-Rater Reliability|评分者信度]]，确立信度系数评价阈值与[[Kitwood's Paradox|信度效度权衡]]准则。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 结合德罗西埃等值空间理论，揭示经合组织 PISA 测评在方法论上如何以信度与跨国可比性压制构念效度与教育本体论。
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 批判可见学习中自变量与因变量循环互证构建的“高信度、零效度”封闭研究牢笼，揭示统计一致性脱离外部现实的方法论风险（p. 6）。
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 批判二阶元分析因缺失文献准入质量评价标准导致底层证据与合成结论可靠性受损的方法学缺陷（p. 14）。
 > - [[Argument_Liu_2025_IndHE|Liu et al. (2025)]] — 遵循奥康纳与约菲规程，在三所高校案例分析中执行多人员独立编码员间信度检验，保障质性归纳与跨案例综合的客观性与透明度（p. 190）。
 > - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 梳理[[International Education|国际教育]]政策社会学文献，指出晚近批判探究跳出局限于质疑 PISA 测量信度与效度的技术话语窠臼，深化为对超国家软治理与意识形态规训的深层解构（pp. 74–75）。
-
----
-
-> [!entry-map] 概念网络图
->
-> | 关联条目 | 类别 | 关联说明 |
-> |---|---|---|
-> | [[Construct Validity]] | 核心概念 | 信度构成效度的必要非充分条件，两者存在动态权衡。 |
-> | [[Internal Consistency]] | 统计方法 | 信度作为内部一致性的具体实现形态，以 Cronbach $\alpha$ 与折半法为代表。 |
-> | [[Test-Retest Reliability]] | 操作方法 | 信度作为稳定性向度的具体[[Operationalization\|操作化]]路径。 |
-> | [[Inter-Rater Reliability]] | 操作方法 | 信度作为等值性向度在多观察者数据录入中的保障规程。 |
-> | [[Qualitative Reliability]] | 质性概念 | 质性范式下信度的重构形态，重在情境忠实性与分析可依赖性。 |
-> | [[Space of Equivalence]] | 治理概念 | 超国家指标治理依托统一统计信度构建跨国通约的等值空间。 |
-> | [[Research Cage]] | 批判概念 | 封闭实证评价模型中循环自指的高信度掩盖[[External Validity\|外部效度]]丧失的研究牢笼。 |

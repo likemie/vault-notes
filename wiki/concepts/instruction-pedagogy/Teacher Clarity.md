@@ -57,10 +57,11 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Terhart_2011_JCS]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
 confidence: high
-status: draft
+status: completed
 created: 2026-10-17
-updated: 2026-11-21
+updated: 2026-11-23
 ---
 
 ---
@@ -144,7 +145,7 @@ updated: 2026-11-21
 
 ---
 
-> [!debates] 学术争议
+> [!debates|notitle] 学术争议
 >
 > > [!axis] 标准化讲授清晰 vs 探究情境中的生成性困惑
 > > 争论焦点在于过度的教学清晰是否会剥夺学生在真实未知问题中经历试错探究的机会。
@@ -157,9 +158,9 @@ updated: 2026-11-21
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
 > <span class="concept-meta-table-marker" aria-hidden="true"></span>
 >
-> | 综合来源 | 初级[[Meta-analysis\|元分析]]数 | 初级研究数 | 样本规模 | 合并效应量 $d$ | 显著性 / [[Confidence Interval\|置信区间]] | 结论定位 |
+> | 综合来源 | 初级[[Meta-analysis|元分析]]数 | 初级研究数 | 样本规模 | 合并效应量 $d$ | 显著性 / [[Confidence Interval|置信区间]] | 结论定位 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Terhart_2011_JCS\|Terhart (2011, p. 432, Table 2)]]; Hattie (2009) | 7 项元分析 | 240 项研究 | 31,649 名学生与教师 | 0.75 | 极高显著促进效应 | 教师所有实践影响因素排位第二名，属于期望效应区（$d \ge 0.40$）最高梯队 |
+> | [[Argument_Terhart_2011_JCS|Terhart (2011, p. 432, Table 2)]]; [[Argument_Terhart_2014_HolyGrail|Terhart (2014, p. 19)]]; Hattie (2009) | 7 项元分析 | 240 项研究 | 31,649 名学生与教师 | 0.75 | 极高显著促进效应 | 教师所有实践影响因素排位第二名，属于期望效应区（$d \ge 0.40$）最高梯队 |
 
 > [!metax-divider]
 
@@ -179,6 +180,23 @@ updated: 2026-11-21
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |---|---|---|
+> | [[Effective Teaching]] | 概念 | 教师清晰度作为优质有效教学体系中最核心的沟通与解释基石。 |
+> | [[Direct Instruction]] | 概念 | 强调目标明确、步骤清晰与示范无误的显性直接教学体系。 |
+> | [[Structured Teaching]] | 概念 | 依托结构化框架与清晰逻辑支撑认知建构的教学组织模式。 |
+> | [[Scaffolding]] | 概念 | 教师通过清晰示范与指令分解为学生提供的认知脚手架。 |
+> | [[Zone of Desired Effects]] | 概念 | 教师清晰度以 $d = 0.75$ 稳居期望发展区核心前列的实证典型。 |
+> | [[Microteaching]] | 概念 | 磨砺教师言语组织与任务清晰阐释等微观技能的临床训练方法。 |
+> | [[Visible Learning]] | 概念 | 将清晰度标定为高回报干预要素的宏观元分析模型。 |
+> | [[John Hattie]] | 人物 | 在二阶元分析中量化教师清晰度实证效应量的代表学者。 |
+> | [[Ewald Terhart]] | 人物 | 梳理清晰度在教师效能要素中排名第二（$d=0.75$）的德国教育学者。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 在全面述评可见学习时归纳教师效能核心因素表，确立教师清晰度以 $d = 0.75$ 位列教师实践第二位。
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 结合德译本再次评述教师清晰度（$d = 0.75$）作为高质量教师核心沟通品质的强劲实证效应。
 

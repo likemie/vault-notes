@@ -7,7 +7,7 @@ aliases:
 summary: "学生与教师在教育实践与微观课堂互动中建构的情感支持、道德信任与指导性交往联结。它既是学习参与、心理安全感与学业投入的关键生态条件，也是承载不同文化学习信念与社会资本转化的核心关系中介。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 61
+related_count: 62
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -87,10 +87,11 @@ related_arguments:
   - "[[Argument_Eacott_2017_SLM]]"
   - "[[Argument_Rømer_2018_EPT]]"
   - "[[Argument_Qvortrup_2015_Paideia]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
 confidence: high
 status: active
 created: '2026-05-06'
-updated: 2026-11-19
+updated: 2026-11-23
 ---
 
 > [!def] Student-Teacher Relationship
@@ -230,30 +231,31 @@ updated: 2026-11-19
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] — 梳理[[John Hattie|哈蒂]][[Meta-analysis|元分析]]模型中高增益要素，确立师生关系（$d=0.72$）作为高回报干预的基准定位。
-> - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 比较儒家与欧[[Philosophical Aesthetics|美学]]习模型，通过严密的[[Cluster Analysis|聚类分析]]实证确立师生关系在东亚学习传统中的本体性地位（占求知维度 11%）。
-> - [[Argument_Lekhal_2015_Paideia\|Lekhal et al. (2015)]] — 基于挪威 4,128 名中小学生调查，分析师生关系感知在男女生之间的微弱均差（$d=-0.05$）及多信息源回归中的表现。
-> - [[Argument_Håkansson_2015_TT\|Håkansson (2015a)]] — 综合 43 项国际与本土综述，论证[[Structured Teaching|结构化教学]]必须依靠支持性师生互动与[[Classroom Management|课堂管理]]实现有机平衡。
-> - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 揭示中国重点大学中第一代大学生因文化[[Habitus|惯习]]隔阂回避深层师生交流的社会再生产机制。
-> - [[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987)]] — 记录皮尔逊国际书院如何通过森林村落建筑布局将全人师生关系铸造为制度化和平教育实践。
-> - [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] — 从[[Critical Realism|批判实在论]]出发反思去情境化[[Positivism|实证主义]]对师生人际微观复杂性的遮蔽。
-> - [[Argument_Eacott_2017_SLM\|Eacott (2017)]] — 批判新自由主义行政规训导致师生关系异化与学校[[Cultural Disembedding|文化脱嵌]]。
-> - [[Argument_Qvortrup_2015_Paideia\|Qvortrup (2015)]] — 探讨[[Visible Learning|可见的学习]]对有意图师生关系的考察及其在复杂知识阶层化转译中的理论边界。
-> - [[Argument_Rømer_2018_EPT\|Rømer (2018)]] — 从欧陆教育哲学视角审视可见学习对师生关系的工具化还原，揭示技术评价逻辑对文化承载与主体间交往本质的消解。（pp. 3–4, 6–8）
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Classroom Learning Culture]] | 概念 | 师生微观互动孕育并维系的全班集体规范与心理安全[[Champ|场域]]。 |
+> | [[Classroom Management]] | 概念 | 与师生关系相辅相成的教学组织维度，两者共同支撑[[Structured Teaching|结构化教学]]。 |
+> | [[School Norm Adaptation]] | 概念 | 师生关系通过提升学生的规范认同间接促进[[Academic Achievement|学业表现]]的中介路径。 |
+> | [[Student Engagement]] | 概念 | 师生关系的情感支持直接激发的课堂卷入与学习投入状态。 |
+> | [[Didaktik]] | 概念 | 确立师生互动与学科内容三元张力的欧洲教学理论体系。 |
+> | [[Visible Learning]] | 概念 | 将师生关系作为关键[[Independent Variable|预测变量]]并纳入宏观[[Effect Size|效应量]]综合的效能模型。 |
+> | [[Confucian Learning Tradition]] | 理论 | 将师生关系确立为求知维度核心独立支柱的东亚学习传统。 |
+> | [[Critical Realism]] | 理论 | 批判师生关系被[[Positivism|实证主义]]量化降维与工具化指标改造的理论资源。 |
 
 ---
 
-> [!entry-map] 条目关联
->
-> | 条目 | 类型 | 贡献 |
-> |:-----|:-----|:-----|
-> | [[Classroom Learning Culture]] | 概念 | 师生微观互动孕育并维系的全班集体规范与心理安全[[Champ\|场域]]。 |
-> | [[Classroom Management]] | 概念 | 与师生关系相辅相成的教学组织维度，两者共同支撑[[Structured Teaching\|结构化教学]]。 |
-> | [[School Norm Adaptation]] | 概念 | 师生关系通过提升学生的规范认同间接促进[[Academic Achievement\|学业表现]]的中介路径。 |
-> | [[Student Engagement]] | 概念 | 师生关系的情感支持直接激发的课堂卷入与学习投入状态。 |
-> | [[Didaktik]] | 概念 | 确立师生互动与学科内容三元张力的欧洲教学理论体系。 |
-> | [[Visible Learning]] | 概念 | 将师生关系作为关键[[Independent Variable\|预测变量]]并纳入宏观[[Effect Size\|效应量]]综合的效能模型。 |
-> | [[Confucian Learning Tradition]] | 理论 | 将师生关系确立为求知维度核心独立支柱的东亚学习传统。 |
-> | [[Critical Realism]] | 理论 | 批判师生关系被[[Positivism\|实证主义]]量化降维与工具化指标改造的理论资源。 |
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 梳理[[John Hattie|哈蒂]][[Meta-analysis|元分析]]模型中高增益要素，确立师生关系（$d=0.72$）作为高回报干预的基准定位。
+> - [[Argument_Li_2012_Cambridge|Li (2012)]] — 比较儒家与欧美学习模型，通过严密的[[Cluster Analysis|聚类分析]]实证确立师生关系在东亚学习传统中的本体性地位（占求知维度 11%）。
+> - [[Argument_Lekhal_2015_Paideia|Lekhal et al. (2015)]] — 基于挪威 4,128 名中小学生调查，分析师生关系感知在男女生之间的微弱均差（$d=-0.05$）及多信息源回归中的表现。
+> - [[Argument_Håkansson_2015_TT|Håkansson (2015a)]] — 综合 43 项国际与本土综述，论证[[Structured Teaching|结构化教学]]必须依靠支持性师生互动与[[Classroom Management|课堂管理]]实现有机平衡。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 揭示中国重点大学中第一代大学生因文化[[Habitus|惯习]]隔阂回避深层师生交流的社会再生产机制。
+> - [[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987)]] — 记录皮尔逊国际书院如何通过森林村落建筑布局将全人师生关系铸造为制度化和平教育实践。
+> - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 从[[Critical Realism|批判实在论]]出发反思去情境化[[Positivism|实证主义]]对师生人际微观复杂性的遮蔽。
+> - [[Argument_Eacott_2017_SLM|Eacott (2017)]] — 批判新自由主义行政规训导致师生关系异化与学校[[Cultural Disembedding|文化脱嵌]]。
+> - [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] — 探讨[[Visible Learning|可见的学习]]对有意图师生关系的考察及其在复杂知识阶层化转译中的理论边界。
+> - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 从欧陆教育哲学视角审视可见学习对师生关系的工具化还原，揭示技术评价逻辑对文化承载与主体间交往本质的消解。（pp. 3–4, 6–8）
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 论述积极融洽的师生关系构成优秀教师与主动学习者共同劳作的基础，教学本质上是对行动效果的持续反思与学习过程。
 

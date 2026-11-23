@@ -10,7 +10,7 @@ aliases:
 summary: "跨越研究哲学、学习理论与社会理论的概念家族，强调意义、知识和规范在主体活动及社会历史互动中形成，并用于质性研究、课程设计与观念权力分析"
 type: concept
 domain: "educational-philosophy"
-related_count: 76
+related_count: 77
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -102,10 +102,11 @@ related_arguments:
   - "[[Argument_Murphy_2026_JTS]]"
   - "[[Argument_Rømer_2018_EPT]]"
   - "[[Argument_OConnor_2020_AJLL]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
 confidence: high
 status: active
 created: 2026-05-30
-updated: 2026-11-19
+updated: 2026-11-23
 ---
 
 ---
@@ -113,7 +114,7 @@ updated: 2026-11-19
 > [!def] Constructivist Paradigm
 > 建构主义（Constructivism）是一个跨领域的概念家族。它的共同立场是：认识者不会原样接收一个已经给定的意义世界，而会在行动、解释、语言和社会互动中组织经验，由此形成对现实的理解。这个共同立场在不同领域指向不同对象：[[Paradigm\|研究范式]]关注参与者和研究者如何解释经验，学习理论关注学生如何通过活动改变理解，社会理论则关注观念、规范和知识如何塑造制度现实。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch. 1, pp. 8–9)]]; [[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 59–61)]]; [[Argument_Zapp_2022_Springer\|(Zapp, 2022, pp. 145, 148)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **共同问题** 人如何形成意义，已经形成的意义又如何影响行动与制度。
 > - **共同机制** 主体活动、社会互动、语言符号、历史文化和制度条件共同参与意义生产。
 > - **研究用途** 适合解释人们如何理解经验、如何协商现实，以及概念如何在跨文化传播中发生[[Recontextualization\|再脉络化]]。
@@ -127,7 +128,7 @@ updated: 2026-11-19
 
 ---
 
-> [!contrast-table] 同一名称下的三种主要用法
+> [!contrast-table|notitle] 同一名称下的三种主要用法
 > | 用法 | 分析对象 | 建构过程 | 主要问题 | 方法或[[Praxis\|实践]]含义 |
 > |---|---|---|---|---|
 > | **[[Paradigm\|研究范式]]** | 参与者经验与研究知识 | 参与者表达意义，研究者在材料与自身立场之间解释和归纳 | 人们怎样理解正在经历的世界 | 开放式问题、自然情境资料、归纳分析与[[Reflexivity\|反身性]] |
@@ -149,12 +150,9 @@ updated: 2026-11-19
 > - **知识具有多重视角** 研究者需要保存参与者观点的复杂性，避免过早把经验压缩为预设类别；开放提问和归纳主题服务于这一目标。
 > - **解释包含研究者位置** 研究者的经历、价值和理论选择会参与资料分析，因此需要通过[[Reflexivity\|反身性]]说明解释如何形成。
 > - **建构发生在具体任务中** 学习活动、[[Research Question\|研究问题]]、评价标准和制度压力都会改变主体如何处理信息；建构主义因而具有鲜明的情境性和系统性。
+> - **学习理解取决于情境活动** 教师可以安排内容和活动，却无法直接把意义移交给学生；理解取决于学生在情境中实际开展的活动。Biggs 据此将建构主义扩展为课程系统设计框架。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 59–60)]]
 
-### 学生学习中的建构主义
-
-Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learning Research|学生学习研究]]的两条主要理论传统。现象图式学从 Marton & Säljö 对学生阅读方式的研究发展而来，建构主义则具有更长的认知心理学谱系，其中 Piaget 是关键人物。两条传统对教学的解释并不相同，但在一个核心判断上相遇：教师可以安排内容和活动，却无法直接把意义移交给学生；理解取决于学生在情境中实际开展的活动。Biggs 因此选择覆盖面更广、便于教师反思实践的建构主义作为课程设计框架。[[Argument_Biggs_1999_HERD|(Biggs, 1999, pp. 59–60)]]
-
-> [!contrast-table] 三级教学观
+> [!contrast-table|notitle] 三级教学观
 > | 教学观 | 关注焦点 | 对学习结果的解释 | 改进路径 |
 > |---|---|---|---|
 > | **第一级：学生是什么样的人** | 学生的能力、动机和背景差异 | 教师传递信息，结果差异主要来自学生条件 | 筛选、补救或把失败归因于学生 |
@@ -214,8 +212,8 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 > [!concept-proposition] 命题五｜学习主体的认识论建构性要求教师承担主动激活与结构化指导角色
 > **认识论[[Paradigm|范式]]与教学实践形态的范畴区隔** 探讨作为学习与知识哲学的建构主义范式能否直接推导为去中心化的教学操作，阐明认识论判断与教学法设计之间的层级差异。
 
-> [!claim] [[Argument_Terhart_2011_JCS|Terhart (2011)]]; Hattie (2009)
-> **建构认识论驱动教学激活模型** 针对教育实践中将建构主义哲学直接套用为无指导探究与被动协助教学的范畴混淆，[[John Hattie|约翰·哈蒂]]与[[Ewald Terhart|埃瓦尔德·特哈特]]确立了关键区隔：“建构主义是一种知识形式，无法直接作为具体的教学形式”（Hattie, 2009, p. 243；Terhart, 2011, p. 433）。建构主义范式在学习心理学上阐明了人类概念形成的主动建构本质，但这一哲学判断在逻辑上从未要求教师放弃教学领导或退居为旁观促进者；相反，教师的适时介入、清晰示范与即时反馈，正是学习者能够克服自发认知偏差、完成高质量概念建构的[[Necessary and Sufficient Conditions|必要条件]]。二阶[[Meta-meta-analysis|元综合]]实证证实，教师扮演激活者角色的平均[[Effect Size|效应量]]显著压倒促进者角色，表明建构主义范式的教育实现依赖于教师主动建构教学与学习模型，超越了消极撤回教学干预的放任取向。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 431–434)]]
+> [!claim] [[Argument_Terhart_2011_JCS|Terhart (2011)]] & [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]]
+> **建构认识论驱动教学激活模型** 针对教育实践中将建构主义哲学直接套用为无指导探究与被动协助教学的范畴混淆，[[John Hattie|约翰·哈蒂]]与[[Ewald Terhart|埃瓦尔德·特哈特]]确立了关键区隔：“建构主义是一种知识形式，无法直接作为具体的教学形式”（Hattie, 2009, p. 243；Terhart, 2011, p. 433）。建构主义范式在学习心理学上阐明了人类概念形成的主动建构本质，但这一哲学判断在逻辑上从未要求教师放弃教学领导或退居为旁观促进者；相反，教师的适时介入、清晰示范与即时反馈，正是学习者能够克服自发认知偏差、完成高质量概念建构的[[Necessary and Sufficient Conditions|必要条件]]。特哈特在后续专著中进一步阐明，建构主义本质属于认知认识论范畴而非教学操作法；承认学习是主体积极建构意义的过程，绝不等于教师应当退隐为消极旁观者。教师的建构性思维在于构建自身的教学模型与对学生认知状态的心智表征，随后施以直接、主动的显性干预。二阶[[Meta-meta-analysis|元综合]]实证证实，教师扮演激活者角色的平均[[Effect Size|效应量]]显著压倒促进者角色，表明建构主义认识论必须与教师主动激活模型相统一。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 431–434)]]；[[Argument_Terhart_2014_HolyGrail|(Terhart, 2014, pp. 16–17, 20)]]
 
 ---
 
@@ -238,22 +236,27 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 > - **1990 年代：教育与国际关系中的制度化扩展**　课程改革广泛采用建构主义学习语言；Wendt 等学者则把规范、身份和观念的建构作用带入国际关系分析。芬兰教育讨论也在这一时期把 Dewey 的反思与 Mead 的社会互动结合为[[Pragmatic Constructivism\|实用主义建构主义]]。[[Argument_Schaffar_2024_CogentEdu\|(Schaffar & Wolff, 2024)]]
 > - **1999 年：从学习理论转化为课程设计**　Biggs 用[[Constructive Alignment\|建构性对齐]]把意义建构、学生学习活动、课程目标和评估整合为可操作的教学系统。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 60–65)]]
 > - **2011 年：对可见学习反建构主义实证修辞的教学论审视** [[Ewald Terhart|埃瓦尔德·特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）评述《[[Visible Learning|可见的学习]]》，指出[[John Hattie|哈蒂]]以[[Meta-meta-analysis|二阶元分析]]数据（激活者 $d = 0.60$ vs 促进者 $d = 0.17$）猛烈批判将教师降格为被动促进者的[[Constructivist Instruction|建构主义教学]]风尚，并宣称建构主义属于知识形式、不属于教学形式；特哈特从德国教学论视角指出，建构主义作为[[Epistemology|认识论]]早已与教师直接指导的主流教学共识内在融合，反驳了将建构主义狭隘等同于去指导化教学的流行偏见。
+> - **2014 年：建构主义作为认知理论与显性教学干预辩护** [[Ewald Terhart|特哈特]]（[[Argument_Terhart_2014_HolyGrail|Terhart, 2014, pp. 16–17, 20]]）进一步论述，建构主义属于认知理论范畴；学习者的主动建构以教师构建对学生认知的心智表征并施以积极直接的显性干预为支撑条件。
 > - **2017 年：社会建构主义拓展至高等教育区域主义** [[Argument_Dang_2017_ORE|Dang (2017)]] 运用社会建构主义因果机制解构东南亚高等教育合作，阐明文化规范、弱连接网络与认同塑造如何推动地理邻近的自在区域演化为具备战略自觉的自为共同体。
 > - **2020 年代：[[Recontextualization|再脉络化]]、知识批评与专业发展拓展** 跨文化研究考察[[Constructivist Instruction|建构主义教学]]如何与本土传统形成[[Selective Affinity|选择性亲和]]（[[Argument_Wang_2025_CE|Wang & McLaughlin, 2025]]）；[[Social Realism|社会实在论]]反思自主建构对系统学科知识的边缘化（[[Argument_McPhail_2023_JCS|McPhail et al., 2023]]）；同时在高等教育与科研管理领域，社会建构主义（Social Constructivism）被拓展至大学科研人员与教师专业发展，指导以结构化提示、[[Brainstorming|头脑风暴]]与跨学科研讨为核心的学者工作坊设计，推动不同院系学者在集体社会协商中实现协同[[Knowledge Building Theory|知识建构]]与国家重大战略承接。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 3, 6)]]
 
 ---
 
-> [!debates] 学术争议
+> [!debates|notitle] 学术争议
 >
 > > [!axis] 主体经验建构与客观知识结构之争
 > > 探讨知识究系主体内部的经验建构，还是超越个体、具有客观约束力的概念体系。
 > >
 > > - **[[Radical Constructivism\|激进建构主义]]立场**　认识被理解为主体对经验的组织，人无法用知识复制一个完全独立于认识活动的世界。Rømer 指出，若这一立场进一步削弱教师、文化传统和外部内容的权威，教学可能失去判断学生应进入何种知识世界的依据。[[Argument_Rømer_2018_EPT\|(Rømer, 2018, pp. 6–8)]]
 > > - **[[Social Realism\|社会实在论]]立场**　知识虽有社会历史来源，仍形成相对独立的概念结构，并对认识者产生真实约束。McPhail et al. 担心，课程若只强调学习者经验和通用技能，弱势学生反而更难接触系统的[[Powerful Knowledge\|有力知识]]。[[Argument_McPhail_2023_JCS\|(McPhail et al., 2023, pp. 3–5)]]
+>
+> > [!axis] 建构认识论驱动教学激活 vs 去指导化促进放任
+> > 探讨建构主义认识论是否意味着教师应当在课堂中退隐并撤回显性指导。
+> >
+> > - **建构主义教学风尚立场** 主张教学应以学生自主探究为中心，教师仅作为被动促进者提供最小限度矫正。
+> > - **实证教学论批判立场** [[Argument_Terhart_2014_HolyGrail|Terhart (2014, pp. 16–17, 20)]] 强调建构主义属于认知理论而非教学模式，学生的主动建构恰恰需要教师建立严密的教学与学情心智表征并施以直接、主动的显性干预。
 
-课程设计可以成为两种关切的交汇点：教师明确选择值得学习的内容、提供学科标准并组织有方向的活动，学生则通过实际活动形成理解。Biggs 的[[Constructive Alignment|建构性对齐]]与社会实在论对知识结构的强调可以在这一问题上形成对话。
-
-> [!critique] 外部批评
+> [!critique|notitle] 外部批评
 > - **教师与内容可能被削弱** [[Argument_Rømer_2018_EPT\|Rømer (2018)]] 批评 Hattie 一方面接受激进建构主义对外部知识和教师权威的削弱，另一方面又把教师中心的直接指导加入同一框架，因而没有解决教师应代表何种内容和规范的问题。[[Argument_Rømer_2018_EPT\|(Rømer, 2018, pp. 6–8)]]
 > - **课程知识可能被通用技能取代** [[Argument_McPhail_2023_JCS\|McPhail et al. (2023)]] 指出，建构主义[[Discourse|话语]]与[[Outcomes-based Education\|结果导向课程]]和 21 世纪技能结合时，学科知识容易被描述成可随时替换的事实，课程准入的不平等问题随之被遮蔽。[[Argument_McPhail_2023_JCS\|(McPhail et al., 2023, pp. 3–5)]]
 > - **反建构主义判断也需要接受证据审查** [[Argument_OConnor_2020_AJLL\|O'Connor (2020)]] 通过审计 Hattie 对[[Whole Language\|全语言]]研究的处理，认为其对建构主义和教师促进者角色的先在立场影响了研究纳入、分类和[[Effect Size\|效应量]]解释。这项批评提醒研究者分别检查[[Theoretical Standpoint\|理论立场]]与证据程序。
@@ -263,7 +266,7 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 >
 > *The results show that active, guided instruction, which formulates clear requirements to the students and supplies them continuously with [[Feedback]]... is more effective than unguided, facilitative, 'helping' teaching... For Hattie, 'constructivism is a form of knowledge, but not a form of teaching, and the construction of conceptual knowledge should not be confused with the current fad of constructivism'. Learning is constructing corresponds a direct, active way of teaching... From constructivism it does not follow that a teacher can withdraw from his role—the opposite is the case.*
 
-> [!warning] 适用局限
+> [!warning|limits] 适用局限
 > 建构主义研究擅长说明人们怎样理解经验、概念怎样在互动中变化，以及制度怎样获得意义。要求严密控制[[Variable\|变量]]、估计[[Effect Size\|效应量]]或检验普遍线性[[Causality\|因果关系]]的问题，需要采用能够支持这些推论的设计。方法选择应由[[Research Question\|研究问题]]决定，质性解释也可以与量化证据组合。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch. 1)]]
 
 ---
@@ -288,30 +291,31 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 
 ---
 
-> [!evidence-grid] 相关研究索引
-> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, Ch. 1)]]　界定建构主义世界观，并说明它如何引导开放提问、情境理解、归纳分析与研究者解释。
-> - [[Argument_Biggs_1999_HERD\|Biggs (1999)]]　把建构主义学习观转化为三级教学观、概念改变条件和[[Constructive Alignment\|建构性对齐]]。
-> - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]]　揭示[[Constructivist Instruction\|建构主义教学]]理念与中国启发式对话传统的[[Selective Affinity\|选择性亲和]]，以及考试制度设置的改变边界。
-> - [[Argument_Murphy_2026_JTS\|Murphy Jr. et al. (2026)]]　将社会建构主义应用于应对国家半导体战略的高校跨学科学者发展工作坊，设计结构化提示与小组对话，实证呈现教师在面对面社会互动中打破学科孤岛并实现协同[[Knowledge Building Theory|知识建构]]的过程。
-> - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]　展示建构主义诠释学和[[Constructivist Grounded Theory\|建构主义扎根理论]]如何处理研究者、参与者与资料之间的共同解释。
-> - [[Argument_McPhail_2023_JCS\|McPhail et al. (2023)]]　从[[Social Realism\|社会实在论]]出发，批评课程改革对系统学科知识的边缘化。
-> - [[Argument_Zapp_2022_Springer\|Zapp (2022)]]　用国际关系建构主义解释观念、规范和知识在全球教育治理中的制度权力。
-> - [[Argument_Dang_2017_ORE|Dang (2017)]]　运用社会建构主义因果机制，论证东盟如何依托自愿协调、规范社会化与互学互鉴将文化观念内化为多边共同准则，推动东南亚由自在区域转型为具备战略自觉的自为实体（pp. 418–420, 423–426）。
-> - [[Argument_Rømer_2018_EPT\|Rømer (2018)]]　分析[[Radical Constructivism\|激进建构主义]]与教师权威、文化内容之间的张力。
-> - [[Argument_OConnor_2020_AJLL\|O'Connor (2020)]]　审计反建构主义判断中的数据选择、研究分类和效应解释。
-> - [[Argument_Schaffar_2024_CogentEdu\|Schaffar and Wolff (2024)]]　追溯芬兰现象化学习中[[Pragmatic Constructivism\|实用主义建构主义]]与教化传统的结合。
-> - [[Argument_Terhart_2011_JCS|Terhart (2011)]]　从[[Didaktik|欧陆教学论]]视角审视可见学习对建构主义教学角色的批判，厘清[[Knowledge Production|知识生成]][[Epistemology|认识论]]与教学指导模型的范畴界限（pp. 431–434）。
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Constructivist Instruction]] | 概念 | 将建构主义[[Epistemology|认识论]]与学习理论转化为课堂教学实践的具体形态。 |
+> | [[Constructive Alignment]] | 概念 | 将建构主义应用于大学课程设计的目标、活动与评估对齐模型。 |
+> | [[Didaktik]] | 概念 | 从[[Didactic Triangle|教学三角]]形审视建构主义能否直接推导教学操作的理论体系。 |
+> | [[Visible Learning]] | 概念 | 质疑[[Radical Constructivism|激进建构主义]]教学效能并强调教师主动激活角色的实证模型。 |
+> | [[Critical Theory]] | 理论 | 批判建构主义在政策演化中可能沦为去情境化技术工具的理论资源。 |
+> | [[Social Realism]] | 理论 | 批判建构主义边缘化系统学科知识与[[Powerful Knowledge|有力知识]]的教育社会学理论。 |
 
 ---
 
-> [!entry-map] 条目关联
->
-> | 条目 | 类型 | 贡献 |
-> |:-----|:-----|:-----|
-> | [[Constructivist Instruction]] | 概念 | 将建构主义[[Epistemology\|认识论]]与学习理论转化为课堂教学实践的具体形态。 |
-> | [[Constructive Alignment]] | 概念 | 将建构主义应用于大学课程设计的目标、活动与评估对齐模型。 |
-> | [[Didaktik]] | 概念 | 从[[Didactic Triangle\|教学三角]]形审视建构主义能否直接推导教学操作的理论体系。 |
-> | [[Visible Learning]] | 概念 | 质疑[[Radical Constructivism\|激进建构主义]]教学效能并强调教师主动激活角色的实证模型。 |
-> | [[Critical Theory]] | 理论 | 批判建构主义在政策演化中可能沦为去情境化技术工具的理论资源。 |
-> | [[Social Realism]] | 理论 | 批判建构主义边缘化系统学科知识与[[Powerful Knowledge\|有力知识]]的教育社会学理论。 |
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, Ch. 1)]]　界定建构主义世界观，并说明它如何引导开放提问、情境理解、归纳分析与研究者解释。
+> - [[Argument_Biggs_1999_HERD|Biggs (1999)]]　把建构主义学习观转化为三级教学观、概念改变条件和[[Constructive Alignment|建构性对齐]]。
+> - [[Argument_Wang_2025_CE|Wang and McLaughlin (2025)]]　揭示[[Constructivist Instruction|建构主义教学]]理念与中国启发式对话传统的[[Selective Affinity|选择性亲和]]，以及考试制度设置的改变边界。
+> - [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]]　将社会建构主义应用于应对国家半导体战略的高校跨学科学者发展工作坊，设计结构化提示与小组对话，实证呈现教师在面对面社会互动中打破学科孤岛并实现协同[[Knowledge Building Theory|知识建构]]的过程。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]　展示建构主义诠释学和[[Constructivist Grounded Theory|建构主义扎根理论]]如何处理研究者、参与者与资料之间的共同解释。
+> - [[Argument_McPhail_2023_JCS|McPhail et al. (2023)]]　从[[Social Realism|社会实在论]]出发，批评课程改革对系统学科知识的边缘化。
+> - [[Argument_Zapp_2022_Springer|Zapp (2022)]]　用国际关系建构主义解释观念、规范和知识在全球教育治理中的制度权力。
+> - [[Argument_Dang_2017_ORE|Dang (2017)]]　运用社会建构主义因果机制，论证东盟如何依托自愿协调、规范社会化与互学互鉴将文化观念内化为多边共同准则，推动东南亚由自在区域转型为具备战略自觉的自为实体（pp. 418–420, 423–426）。
+> - [[Argument_Rømer_2018_EPT|Rømer (2018)]]　分析[[Radical Constructivism|激进建构主义]]与教师权威、文化内容之间的张力。
+> - [[Argument_OConnor_2020_AJLL|O'Connor (2020)]]　审计反建构主义判断中的数据选择、研究分类和效应解释。
+> - [[Argument_Schaffar_2024_CogentEdu|Schaffar and Wolff (2024)]]　追溯芬兰现象化学习中[[Pragmatic Constructivism|实用主义建构主义]]与教化传统的结合。
+> - [[Argument_Terhart_2011_JCS|Terhart (2011)]]　从[[Didaktik|欧陆教学论]]视角审视可见学习对建构主义教学角色的批判，厘清[[Knowledge Production|知识生成]][[Epistemology|认识论]]与教学指导模型的范畴界限（pp. 431–434）。
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 阐明建构主义属于认知理论而非教学操作法，批判将建构主义误解为教师退隐的放任教学流弊（pp. 16–17, 20）。
 

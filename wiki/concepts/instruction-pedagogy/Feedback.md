@@ -88,7 +88,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-15
+updated: 2026-11-23
 ---
 
 > [!def] Feedback
@@ -496,20 +496,29 @@ updated: 2026-11-15
 
 ---
 
-> [!entry-map] 教学反馈网络结构
-> | 维度 | 关联条目 | 关系说明 |
+> [!entry-map] 条目关联
+> | 条目 | 类型 | 关系 |
 > |---|---|---|
-> | **课堂实践** | [[Classroom Management]] | 课堂管理保障专注环境，使反馈能够持续嵌入教学互动（均获专家最高评级 $M=4.75$） |
-> | **宏观模式** | [[Structured Teaching]] | 高结构化教学中不可或缺的理解检查与动态调整机制 |
-> | **综合批判** | [[Visible Learning]]；[[Critiques of Visible Learning]] | 长期被塑造成顶级证据，但底层数据提取与[[Construct\|构念]]混杂遭受系统解构 |
-> | **方法批判** | [[Critique of Meta-analysis]]；[[PICO Framework]] | Kluger & DeNisi 38% 负效应揭示平均值陷阱；PICO 混入强化导致构念失效 |
-> | **哲学审视** | [[Technical Rationality]]；[[Neo-Taylorism]] | 警惕将反馈降格为[[Behaviorism\|行为主义]]刺激回路，呼唤主体间承认与真正[[Dialogue in Education\|教育对话]] |
-> | **政治哲学治理** | [[Governing by Numbers]]；[[Panopticism]] | 罗默（2018）揭示反馈倒置构筑的逆向数据捕获与逐级集权全景敞视监控网络 |
-> | **代表学者** | [[John Hattie]]；[[Dylan Wiliam]]；[[Thomas Aastrup Rømer]]；[[Axel Honneth]] | 哈蒂强调统计效应；威廉聚焦情境[[Heterogeneity\|异质性]]与负效应；罗默批判反馈倒置与集权监控；霍耐特提供主体[[Recognition Theory\|承认理论]] |
+> | [[Classroom Management]] | 概念 | 课堂管理保障专注环境，使反馈能够持续嵌入教学互动（均获专家最高评级 $M=4.75$）。 |
+> | [[Structured Teaching]] | 概念 | 高结构化教学中不可或缺的理解检查与动态调整机制。 |
+> | [[Visible Learning]] | 概念 | 长期被塑造成顶级证据，但底层数据提取与[[Construct|构念]]混杂遭受系统解构。 |
+> | [[Critiques of Visible Learning]] | 概念 | 系统审视反馈二阶元分析数据链缺陷与构念污染的反思谱系。 |
+> | [[Critique of Meta-analysis]] | 概念 | Kluger & DeNisi 38% 负效应揭示平均值陷阱；PICO 混入强化导致构念失效。 |
+> | [[PICO Framework]] | 概念 | 审查反馈证据库时用以甄别干预与对照构念混同的方法工具。 |
+> | [[Technical Rationality]] | 概念 | 警惕将反馈降格为行为主义刺激回路与流水线质控工具。 |
+> | [[Neo-Taylorism]] | 概念 | 批判将反馈作为绩效分解指标与标准化教学工序的规训工具。 |
+> | [[Governing by Numbers]] | 概念 | 揭示反馈倒置构筑的逆向数据捕获与逐级集权全景敞视监控网络。 |
+> | [[Panopticism]] | 概念 | 罗默（2018）剖析评价系统中反馈作为全景监控与行为驯化的隐喻机制。 |
+> | [[Behaviorism]] | 理论 | 传统单向强化反馈背后的行为主义刺激-反应联结理论。 |
+> | [[Recognition Theory]] | 理论 | 霍耐特承认理论为抵御行为主义操纵、确立主体间对话反馈提供伦理基础。 |
+> | [[John Hattie]] | 人物 | 在可见学习中系统量化反馈效应量并强调教学交互的代表学者。 |
+> | [[Dylan Wiliam]] | 人物 | 聚焦课堂形成性评价、反馈情境异质性与负效应分布的教学学者。 |
+> | [[Thomas Aastrup Rømer]] | 人物 | 批判可见学习反馈倒置与集权监控的丹麦教育哲学家。 |
+> | [[Axel Honneth]] | 人物 | 提出承认理论，为真诚教育反馈与主体间性提供伦理阐释的哲学家。 |
 
 ---
 
-> [!evidence-grid-a] 核心研究索引
+> [!evidence-grid-a|notitle] 核心研究索引
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 细读[[John Hattie|哈蒂]]反馈效应依赖的五大核心[[Meta-analysis|元分析]]（占样本 92.4%），实证揭示四项未测量反馈的[[Construct|构念]]混淆，并从[[Technical Rationality|技术理性]]与[[Axel Honneth|霍耐特]][[Recognition Theory|承认理论]]批判其[[Behaviorism|行为主义]]消解[[Intentionality|主体意向性]]的局限。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 专家德尔菲评审确立反馈为中小学实践相关度最高的前 5 项因素之一（$M=4.75$），同时揭示其[[Meta-meta-analysis|二阶元分析]]汇总存在严重的底层提取失误与设计混杂。
 > - [[Argument_Wiliam_2019_ERE|Wiliam (2019)]] — 援引 Kluger and DeNisi (1996) 元分析，剖析反馈干预中高达 38% 负效应的分布真相，论证单一平均[[Effect Size|效应量]]的误导性。

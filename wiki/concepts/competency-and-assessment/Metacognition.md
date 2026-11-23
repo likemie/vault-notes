@@ -118,7 +118,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-07-01
-updated: 2026-11-11
+updated: 2026-11-23
 ---
 
 > [!def] Metacognition
@@ -255,7 +255,7 @@ updated: 2026-11-11
 ---
 
 > [!dev-timeline] 元认知理论与实践应用演进脉络
-> - **1970 年代　概念奠基与双成分模型** 弗拉维尔（Flavell, 1976, 1979）正式提出元认知概念，区分为元认知知识与元认知体验/调节，奠定了人类心智自我监控的研究基石。
+> - **1970 年代　概念界定与双成分模型** 弗拉维尔（Flavell, 1976, 1979）正式提出元认知概念，区分为元认知知识与元认知体验/调节，开创了人类心智自我监控的实证研究。
 > - **1990–2000 年代　[[Self-Regulated Learning\|自我调节学习]]整合与可教性实证** 宾特里奇（Pintrich, 2000, 2002）与齐默曼（Zimmerman）将元认知深度整合入自我调节学习（SRL）理论体系中，编制了 [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ]] 等工具，确立了元认知策略的高度可教性。
 > - **2010 年代　批判反思、[[Epistemology\|认识论]]课程与[[Creative Problem Solving\|创造性问题解决]]** [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] 探讨 IB 认识论（ToK）课程的元认知训练效能；哈格罗夫与尼特菲尔德（Hargrove & Nietfeld, 2015）开展准实验，证实显性元认知指导对高校[[Creativity\|创造性]][[Problem Solving\|问题解决]]的因果促学作用。
 > - **2025 年　基线控制[[Meta-analysis\|元分析]]确证“[[Metacognitive Laziness\|元认知惰性]]”** [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] 通过 57 项高校实验元分析证实生成式 AI 对元认知无统计显著促进（$g^+ = 0.078, p = .789$），推翻技术自发促学假说，实证确立防范元认知惰性的紧迫性。
@@ -746,7 +746,28 @@ updated: 2026-11-11
 
 ---
 
-> [!evidence-grid] 相关研究索引
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Higher-Order Thinking Skills]] | 概念 | 元认知作为监控与调控复杂心智活动的高阶核心认知能力。 |
+> | [[Critical Thinking]] | 概念 | 审视认知偏差与论证漏洞所必需的元认知监控中介。 |
+> | [[Creativity]] | 概念 | 驱动发散思维向评价筛选转化、突破思维定势的核心反思机制。 |
+> | [[Epistemological Vigilance]] | 概念 | 识别外部信息虚假流畅与算法偏差的防御性认识论监控。 |
+> | [[Cognitive Offloading]] | 概念 | 人机交互中消极外包思考、导致元认知监控退化的认知现象。 |
+> | [[Illusion of Competence]] | 概念 | 元认知监控失效时产生的虚假掌控感与学习盲目乐观。 |
+> | [[Creative Problem Solving]] | 概念 | 元认知策略显性迁移与劣构问题解决的核心目标领域。 |
+> | [[Self-Regulated Learning]] | 概念 | 元认知监控与调节在自主学习全周期中的综合体现。 |
+> | [[Learning Strategies]] | 概念 | 元认知调控指导认知策略选择与适切性调整的上位机制。 |
+> | [[Visible Learning]] | 概念 | 在宏观元分析中证实元认知策略具备高增益回报（$d=0.69$）的效能模型。 |
+> | [[Man-Computer Symbiosis]] | 理论 | 探讨人机协同认识论演进与自适应思维建构的系统理论。 |
+> | [[Theory of Knowledge]] | 理论 | IB 课程中通过显性认识论追问塑造大学生元认知批判倾向的理论载体。 |
+> | [[John Hattie]] | 人物 | 在可见学习二阶元分析中量化元认知策略教学超常效应的代表学者。 |
+> | [[Ewald Terhart]] | 人物 | 评析可见学习中主动学习者发展元认知监控与优秀教师教学交互的德国教学论学者。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Wu_2025_ER|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]自适应[[Epistemic Stances|认识立场]]框架，以 7 轮统计推论人机交互微观语料实证揭示元认知监控在抵御消极[[Cognitive Offloading|认知卸载]]与促成评价论进阶中的决定性作用。
 > - [[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] — [[Meta-analysis|元分析]] 57 项[[Experimental Research|实验研究]]中生成式 AI 对大学生产出的多维效应，报告对元认知无统计显著促进（$g^+ = 0.078, p = 0.789, k = 10$），揭示了防范“[[Metacognitive Laziness|元认知惰性]]”与开展显性反思培训的紧迫性。
 > - [[Argument_Park_2026_TSC|Park et al. (2026)]] — [[Three-Level Meta-Analysis|三水平元分析]]（$k = 51, N = 12,548$）确立[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]的稳健正相关（$r = 0.386$），论证元认知监控是驱动两类[[Higher-Order Thinking Skills|高阶思维]]协同的核心纽带。

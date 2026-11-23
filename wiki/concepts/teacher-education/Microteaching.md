@@ -9,7 +9,7 @@ aliases:
 summary: "在规模精简（5-10名学生、5-20分钟）的受控模拟情境中，依托单一技能分解、视听录像客观回放与‘备课-授课-评议-重教’迭代循环，支持教师开展高密度刻意练习与反思性诊断的临床师资培养模式。"
 type: concept
 domain: "teacher-education"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -50,10 +50,11 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Terhart_2011_JCS]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
 confidence: high
-status: draft
+status: completed
 created: 2026-10-17
-updated: 2026-11-15
+updated: 2026-11-23
 ---
 
 ---
@@ -139,7 +140,7 @@ updated: 2026-11-15
 
 ---
 
-> [!debates] 学术争议
+> [!debates|notitle] 学术争议
 >
 > > [!axis] [[Behaviorism|行为主义]]技能还原 vs 整体情境教学机智
 > > 争论焦点在于教学实践能否被原子化分解为单项技术动作并机械相加。
@@ -152,9 +153,9 @@ updated: 2026-11-15
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
 > <span class="concept-meta-table-marker" aria-hidden="true"></span>
 >
-> | 综合来源 | 初级[[Meta-analysis\|元分析]]数 | 初级研究数 | 样本规模 | 合并效应量 $d$ | 显著性 / [[Confidence Interval\|置信区间]] | 结论定位 |
+> | 综合来源 | 初级[[Meta-analysis|元分析]]数 | 初级研究数 | 样本规模 | 合并效应量 $d$ | 显著性 / [[Confidence Interval|置信区间]] | 结论定位 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Terhart_2011_JCS\|Terhart (2011, p. 432, Table 2)]]; Hattie (2009) | 4 项元分析 | 65 项研究 | 4,213 名教师与学生 | 0.88 | 极高显著促进效应 | 教师所有实践影响因素排位第一名，远超 $d \ge 0.40$ 期望分水岭 |
+> | [[Argument_Terhart_2011_JCS\|Terhart (2011, p. 432, Table 2)]]; [[Argument_Terhart_2014_HolyGrail\|Terhart (2014, p. 19)]]; Hattie (2009) | 4 项元分析 | 65 项研究 | 4,213 名教师与学生 | 0.88 | 极高显著促进效应 | 教师所有实践影响因素排位第一名，远超 $d \ge 0.40$ 期望分水岭 |
 
 > [!metax-divider]
 
@@ -176,6 +177,24 @@ updated: 2026-11-15
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |---|---|---|
+> | [[Deliberate Practice]] | 概念 | 微格教学所依托的单一技能拆解与高频反馈刻意练习心理学机制。 |
+> | [[Reflexivity]] | 概念 | 视听录像客观回放促成的新手教师反思性实践与认知重构。 |
+> | [[Phronesis]] | 概念 | 教师在微观受控情境演练中逐步内化生成的实践智慧。 |
+> | [[Zone of Desired Effects]] | 概念 | 微格教学以 $d = 0.88$ 显著超出期望发展区的典型代表实践。 |
+> | [[Visible Learning]] | 概念 | 将微格教学标定为教师领域排名第一影响因素的宏观元分析模型。 |
+> | [[Normal School]] | 概念 | 微格教学作为核心临床实验环节所依托的师范教育建制。 |
+> | [[Lesson Study]] | 概念 | 与微格教学相映衬的全真课堂长周期教研共同体课例研磨形态。 |
+> | [[Behaviorism]] | 理论 | 微格教学初期技能切片与刺激-反应强化模式背后的行为主义理论渊源。 |
+> | [[Ewald Terhart]] | 人物 | 梳理并评析可见学习中微格教学高效应量及其教学论局限的德国教育学者。 |
+> | [[John Hattie]] | 人物 | 在可见学习中系统量化微格教学实证效应量的代表学者。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 在全面述评可见学习时梳理教师效能核心因素表，证实微格教学以 $d = 0.88$ 居教师实践首位。
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 结合可见学习德译本再次评析微格教学（$d = 0.88$）作为教师专业技能训练核心实践的高回报实证定位。
 

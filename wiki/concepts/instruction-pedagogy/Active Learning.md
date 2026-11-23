@@ -6,7 +6,7 @@ aliases:
 summary: "由批判教育学与实用主义提出的三环节课程模型，主张主动学习必须由批判性思维、对话与指向变革不公的实践成长（Praxis）共同构成"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 53
+related_count: 55
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -65,6 +65,7 @@ related_persons:
   - "[[Paulo Freire]]"
   - "[[Robert Slavin]]"
   - "[[Ben Levin]]"
+  - "[[Ewald Terhart]]"
 related_facts:
   - "[[Success for All]]"
   - "[[Skills Toward Employment and Productivity]]"
@@ -74,10 +75,11 @@ related_arguments:
   - "[[Argument_Darwish_2009_Queens]]"
   - "[[Argument_Slavin_2019_EducPsychol]]"
   - "[[Argument_Laursen_2015_Paideia]]"
-confidence: medium
-status: draft
+  - "[[Argument_Terhart_2014_HolyGrail]]"
+confidence: high
+status: completed
 created: 2026-07-25
-updated: 2026-11-15
+updated: 2026-11-23
 ---
 
 ---
@@ -87,7 +89,7 @@ updated: 2026-11-15
 >
 > 在现代教学论与[[Evidence-Based Education\|循证教育]]改革视阈中，主动学习被进一步识别为[[Effective Teaching\|有效教学]]的一般性通用原则之一；然而实证研究揭示，单纯倡导抽象的“主动学习”口号极难直接转化为课堂产出，必须通过经过实验检验的具体[[Cooperative Learning\|合作学习]]结构（如 [[Cooperative Integrated Reading and Composition\|CIRC]]、[[Success for All\|SFA]]）或结构化探究支架才能切实落地。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–23)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 拒绝将学生视作被动接收现成知识的“储蓄容器”，主张学生通过[[Problem Solving\|问题解决]]、对话协商与行动反思主动建构认知图式。
 > - **用途** 审查课程设计是否真正激发学生的认知与社会能动性，并作为评价传统[[Lecturing|讲授法]]与探究教学的分水岭。
 > - **边界** 区别于无深层认知加工的形式化活动或纯粹放任自流；缺乏结构化[[Scaffolding\|脚手架]]与明确学科目标的主动活动容易导致[[Working Memory\|工作记忆]]超载与学习迷航。
@@ -104,7 +106,7 @@ updated: 2026-11-15
 
 ---
 
-> [!contrast-table] 主动学习与主流教学[[Paradigm\|范式]]对比
+> [!contrast-table|notitle] 主动学习与主流教学[[Paradigm\|范式]]对比
 > | 比较维度 | 主动学习（Active Learning） | [[Banking Model of Education\|储蓄式教育]]（Banking Education） | 抽象通用原则宣讲 | 结构化循证[[Cooperative Learning\|合作学习]] |
 > |---|---|---|---|---|
 > | **学生角色** | **探究主体（Subjects）** 与知识共建者 | 知识存储容器（Objects）与被动接收者 | 原则受众，依赖个人领悟 | 异质团队中承担个体责任的协撰写者 |
@@ -136,7 +138,7 @@ updated: 2026-11-15
 > **[[Critical Pedagogy\|批判教育学]]与[[Pragmatic Paradigm\|实用主义]]的[[Epistemology\|认识论]]融合** 学习本质上是行动者在民主共同体中改造经验的社会性过程，被动接收会剥夺学生的批判意识与主体能动性。
 
 > [!claim] Dewey; Freire; Darwish
-> **[[Critical Thinking\|批判性思维]]、对话与实践生长的三位一体** 批判性思维有别于孤立的认知技能，它必须依托[[John Dewey\|杜威]]式的“动手做（Doing）”项目与[[Paulo Freire\|弗莱雷]]式的“[[Problem-Posing Education\|提问式教育]]（Problem-Posing）”相融共生。通过在民主对话中揭露现实矛盾，学生从被动客体转化为主动探究者，实现[[Conscientization\|批判意识觉醒]]与个体生长的有机统一。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 1, 6–10)]]
+> **[[Critical Thinking\|批判性思维]]、对话与实践生长的三位一体** 批判性思维有别于孤立的认知技能，它必须依托[[John Dewey\|杜威]]式的“动手做（Doing）”项目与[[Paulo Freire\|弗莱雷]]式的“[[Problem-Posing Education\|提问式教育]]（Problem-Posing）”相融共生。例如在杜威设计的“房屋模型构建”项目中，学生通过主动检索力学资料、合作规划并应对倒塌挫折完成深层认知建构；而在弗莱雷的提问式识字实践中，师生通过聚焦土地、劳动工资等生成性现实问题（[[Generative Themes]]）展开平等对话。通过在民主对话中揭露现实矛盾，学生从被动客体转化为主动探究者，实现[[Conscientization\|批判意识觉醒]]与个体生长的有机统一。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 1, 6–10)]]
 
 ---
 
@@ -157,67 +159,67 @@ updated: 2026-11-15
 ---
 
 > [!dev-timeline] 概念演变
-> - **20 世纪初 — [[Pragmatic Paradigm\|实用主义]]与[[Progressive Education\|进步教育]]奠基** [[John Dewey\|约翰·杜威]]提出“[[Learning by Doing\|从做中学]]（Learning by doing）”与[[Democratic Education\|民主教育]]，批判传统学校的静听模式，确立活动与经验在学习中的核心地位。
+> - **20 世纪初 — [[Pragmatic Paradigm|实用主义]]与[[Progressive Education|进步教育]]确立实践取向** [[John Dewey|约翰·杜威]]提出“[[Learning by Doing|从做中学]]（Learning by doing）”与[[Democratic Education|民主教育]]，批判传统学校的静听模式，确立活动与经验在学习中的核心地位。
 > - **1970 年代 — [[Critical Pedagogy\|批判教育学]]与[[Problem-Posing Education\|提问式教育]]重构** [[Paulo Freire\|保罗·弗莱雷]]在《被压迫者教育学》中提出“提问式教育”，以民主对话和[[Conscientization\|批判意识觉醒]]彻底颠覆“[[Banking Model of Education\|储蓄式教育]]”。
 > - **1980–1990 年代 — [[Constructivist Paradigm\|建构主义]]与认知科学转向** 建构主义心理学将主动学习解释为学习者主动将新知识同化与顺应进认知图式的内部加工过程。
 > - **2010 年代 — 高等教育与 [[STEM Education\|STEM]] 领域实证爆发** 针对高校大班讲授的[[Meta-analysis\|元分析]]（如 Freeman et al., 2014）证实主动学习相比传统讲授显著降低挂科率并提[[Gaokao\|高考]]试成绩。
+> - **2014 年 — 显性教学与主动学习的认知交互综合** [[Ewald Terhart|特哈特]]（[[Argument_Terhart_2014_HolyGrail|Terhart, 2014, pp. 15–16]]）评述《可见的学习》德译本（*Lernen sichtbar machen*），指出高成效教学的实质核心在于“显性教学与主动学习”的动态融合，主动学习者必须在主动挑战型教师的结构化指导与即时反馈中展开深层认知建构。
 > - **2019 年至今 — 循证改革对抽象原则的批判与方案化转型** 斯[[Ben Levin|莱文]]（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019]]）系统指出抽象主动学习原则在基础教育改革中的落地局限，主张转向经过严格 [[Randomised Controlled Trials\|RCT]] 检验的具体结构化项目。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–23)]]
 
 ---
 
-> [!debates] 学术争议
+> [!debates|notitle] 学术争议
 >
 > > [!axis] 抽象理念倡导 vs 结构化具体方案
 > > 探讨推动主动学习究竟应当依赖教师培训掌握抽象原则，还是直接采购经过验证的具体课程。
 > >
 > > - **理念派** 强调教师是自主专业人员，应根据学生情境自由设计主动学习活动。
-> > - **方案派（Slavin）** 指出没有结构化教案与教材支持的主动学习大多流于形式，教师极易在压力下放弃并回退。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–23)]]
+> > - **方案派（Slavin）** 指出没有结构化教案与教材支持的主动学习大多流于形式，教师极易在压力下放弃并回退。[[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, pp. 22–23)]]
 >
 > > [!axis] 认知负荷控制 vs 开放自主探究
 > > 争论初学者在主动学习中究竟需要多少教师显性指导。
 > >
-> > - **显性指导派（Sweller, Kirschner）** 强调初学者缺乏先验图式，未加指导的主动探究会使[[Working Memory\|工作记忆]]超载，导致盲目试错。
-> > - **建构探究派** 认为由教师提供过多[[Scaffolding\|脚手架]]会破坏学生的探索欲与[[Metacognition\|元认知]]反思契机。
+> > - **显性指导派（Sweller, Kirschner）** 强调初学者缺乏先验图式，未加指导的主动探究会使[[Working Memory|工作记忆]]超载，导致盲目试错。
+> > - **建构探究派** 认为由教师提供过多[[Scaffolding|脚手架]]会破坏学生的探索欲与[[Metacognition|元认知]]反思契机。
+>
+> > [!axis] 自主放任探索 vs 显性指导下师生双向主动建构
+> > 探讨主动学习究竟是学生的去指导化自主探索，还是在教师显性支架下的高能动认知交互。
+> >
+> > - **无指导放任探究立场** 认为学生完全自主发现与最小干预才能激发最高的主动性与探究兴趣。
+> > - **师生交互透视转换立场** [[Argument_Terhart_2014_HolyGrail|Terhart (2014, pp. 15–16)]] 指出，高成效教学的本质是“显性教学与主动学习”的动态融合；主动学习需要教师扮演主动挑战者并建立认知心智表征，通过师生视角的双向互换激活学习者深层思维，超越放任自流。
 
-> [!warning] 适用局限
+> [!warning|limits] 适用局限
 > - **避免“形式主义假主动”** 课堂表面的热闹交谈或单纯动手若无深层认知冲突与概念抽象，无法产生实质学业增益。
-> - **对教师[[Classroom Management\|课堂管理]]能力要求极高** [[Open-Mindedness|开放性]]主动学习容易引发课堂纪律失控与时间分配失衡，需严密的流程规则保障。
+> - **对教师[[Classroom Management|课堂管理]]能力要求极高** [[Open-Mindedness|开放性]]主动学习容易引发课堂纪律失控与时间分配失衡，需严密的流程规则保障。
 
 ---
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 / 综述 | 样本与情境 | 研究设计与方法 | 核心[[Variable\|变量]]与考察维度 | 主要统计结果与发现 | 解释边界 |
+> | 研究 / 综述 | 样本与情境 | 研究设计与方法 | 核心[[Variable|变量]]与考察维度 | 主要统计结果与发现 | 解释边界 |
 > |---|---|---|---|---|---|
-> | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 全美中小学阅读与数学实证干预库（涵盖数十项 [[Randomised Controlled Trials\|RCT]]） | 政策演进分析与[[Best Evidence Synthesis\|最佳证据综合]] | 抽象主动学习原则推广 vs 具体成套结构化方案 | 抽象原则在常态学校推广中极易衰减失效；而内嵌主动合作机制的具体方案（如 CIRC、SFA）取得 $ES = +0.20 \sim +0.41$ 的强效因果增益 | 确立了主动学习向具体循证课程转型的实践依据 |
+> | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 全美中小学阅读与数学实证干预库（涵盖数十项 [[Randomised Controlled Trials|RCT]]） | 政策演进分析与[[Best Evidence Synthesis|最佳证据综合]] | 抽象主动学习原则推广 vs 具体成套结构化方案 | 抽象原则在常态学校推广中极易衰减失效；而内嵌主动合作机制的具体方案（如 CIRC、SFA）取得 $ES = +0.20 \sim +0.41$ 的强效因果增益 | 确立了主动学习向具体循证课程转型的实践依据 |
 
 ---
 
-> [!case] [[John Dewey\|杜威]]的“房屋模型构建”项目（[[Argument_Darwish_2009_Queens\|Darwish, 2009, p. 9]]）
-> 杜威在《民主与教育》中阐述，[[Critical Thinking\|批判性思维]]的生成不依赖[[Rote Learning\|死记硬背]]，是依托具身“做（Doing）”。当学生在实际建造房屋模型时，必须主动检索力学与结构资料、与同伴讨论规划、面对倒塌挫折并寻找修复方案，这一完整的探究链条正是主动学习的经典体现。
-
-> [!case] [[Paulo Freire\|弗莱雷]]的提问式识字教育（[[Argument_Darwish_2009_Queens\|Darwish, 2009, pp. 9–10]]）
-> 弗莱雷在巴西农民识字运动中摒弃了传统的字母灌输，是向农民呈现土地、水权、劳动工资等生成性现实问题（[[Generative Themes]]）。师生在平等的对话中剖析社会压迫结构，使识字过程转化为[[Conscientization\|批判意识觉醒]]与改造现实的实践行动。
-
----
-
-> [!entry-map] 相关概念与网络
+> [!entry-map] 条目关联
 > 
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
-> | [[Critical Thinking]] | Concept | 主动学习的核心认知维度与目标产出。 |
-> | [[Dialogue in Education]] | Concept | 主动学习打破单向灌输的社会互动机制。 |
-> | [[Praxis]] | Concept | 主动学习将认知反思转化为社会行动的哲学落脚点。 |
-> | [[Effective Teaching]] | Concept | 主动学习是有效教学体系中促进深度认知参与的核心原则。 |
-> | [[Evidence-Based Reform]] | Concept | 推动主动学习从抽象原则走向具体经过实验验证的课程产品。 |
-> | [[Banking Model of Education]] | Concept | 主动学习所坚决反对和替代的传统灌输模式。 |
+> | [[Critical Thinking]] | 概念 | 主动学习的核心认知维度与目标产出。 |
+> | [[Dialogue in Education]] | 概念 | 主动学习打破单向灌输的社会互动机制。 |
+> | [[Praxis]] | 概念 | 主动学习将认知反思转化为社会行动的哲学落脚点。 |
+> | [[Effective Teaching]] | 概念 | 主动学习是有效教学体系中促进深度认知参与的核心原则。 |
+> | [[Evidence-Based Reform]] | 概念 | 推动主动学习从抽象原则走向具体经过实验验证的课程产品。 |
+> | [[Banking Model of Education]] | 概念 | 主动学习所坚决反对和替代的传统灌输模式。 |
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 融合[[John Dewey\|杜威]]与[[Paulo Freire\|弗莱雷]]思想，提出主动学习的三维课程模型，系统解析[[Critical Thinking\|批判性思维]]、对话与实践生长的内在机理。
-> - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 从循证改革与[[Counterfactual\|反事实]]检验视角，深度反思抽象主动学习原则的实践失效，倡导向经验证的具体课程方案转型。
-> - [[Argument_Laursen_2015_Paideia\|Laursen (2015)]] — 探讨主动参与作为[[Effective Teaching\|有效教学]]基本质量在北欧情境下的表现及其受社会背景的调节。
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 融合[[John Dewey|杜威]]与[[Paulo Freire|弗莱雷]]思想，提出主动学习的三维课程模型，系统解析[[Critical Thinking|批判性思维]]、对话与实践生长的内在机理。
+> - [[Argument_Slavin_2019_EducPsychol|Slavin (2019)]] — 从循证改革与[[Counterfactual|反事实]]检验视角，深度反思抽象主动学习原则的实践失效，倡导向经验证的具体课程方案转型。
+> - [[Argument_Laursen_2015_Paideia|Laursen (2015)]] — 探讨主动参与作为[[Effective Teaching|有效教学]]基本质量在北欧情境下的表现及其受社会背景的调节。
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 阐释高成效教学的核心实质是显性教学与主动学习的认知交互，批判脱离教师激活的放任自流倾向（pp. 15–16）。

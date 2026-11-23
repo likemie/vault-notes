@@ -8,7 +8,7 @@ aliases:
 summary: "刻画学生在特定学科领域中理解与能力从初阶向高阶演进的连续性发展轨迹，为课程标准编制、形成性评价与教学干预提供共同参照语言；在标准研制中呈现出由早期学段经验心理学测绘向高阶学段学科逻辑演绎的证据形态分化"
 type: concept
 domain: "curriculum"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -43,10 +43,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Hattie_2005_ACER]]"
   - "[[Argument_McDonnell_2013_AmJE]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
 confidence: high
 status: active
 created: '2026-09-16'
-updated: 2026-11-03
+updated: 2026-11-23
 ---
 
 ---
@@ -107,7 +108,7 @@ updated: 2026-11-03
 > **教师进阶信念与校本教学协同** 探讨个体化内隐标准向校本专业共同体共享标准转化的制度条件与认知障碍。
 
 > [!claim] [[Argument_Hattie_2005_ACER|Hattie (2005)]]
-> **共享进阶语言的奠基功能** 教师若缺乏对学业进阶的共同理解，各年级教学将退化为孤立分割的教材内容打卡。由于缺乏可比的纵向表现标尺，教师倾向于依据学生家庭背景或个人主观偏好调整挑战难度，导致教学目标漂移与实质性学习断层；唯有确立贯穿中小学的进阶共享标准，才能将教师协同研讨的焦点从活动形式转向实质性认知挑战。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 14)]]
+> **共享进阶语言的支撑功能** 教师若缺乏对学业进阶的共同理解，各年级教学将退化为孤立分割的教材内容打卡。由于缺乏可比的纵向表现标尺，教师倾向于依据学生家庭背景或个人主观偏好调整挑战难度，导致教学目标漂移与实质性学习断层；唯有确立贯穿中小学的进阶共享标准，才能将教师协同研讨的焦点从活动形式转向实质性认知挑战。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 14)]]
 
 ---
 
@@ -131,16 +132,18 @@ updated: 2026-11-03
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **组织协同命题** | 共享进阶语言是克服教师内隐孤立与教学断层的制度基石 | 校本教研共同体建设、纵向表现标尺统一 | [[Argument_Hattie_2005_ACER\|Hattie (2005)]] |
-> | **评价功能命题** | 进阶标尺必须深度嵌入形成性反馈“三核心提问”反馈回路 | 课堂诊断测评、[[Personalized Learning\|个性化学习]]目标定位 | 同上（Hattie） |
+> | **评价功能命题** | 进阶标尺必须深度嵌入形成性反馈“三核心提问”反馈回路 | 课堂诊断测评、[[Personalized Learning|个性化学习]]目标定位 | 同上（Hattie） |
 > | **证据异质命题** | 进阶建构由低段心理学实证测绘向高段学科逻辑推演分化 | 跨学段课程标准编制与实证证据空白应对 | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] |
+> | **教师效能分流命题** | 教师效能极端分化主导学生学业进阶轨迹，遭遇低效教师产生持久学业滞后 | 教师增值评价体系、教师质量追踪与分流干预 | Sanders and Rivers (1996); [[Argument_Terhart_2014_HolyGrail\|Terhart (2014)]] |
 
 ---
 
 > [!ref-table]- 学业进阶相关实证测量与样本数据
-> | 研究来源 | 样本特征 | 测量工具 | 进阶指标 / [[Variable\|变量]] | 主要统计发现 | 证据等级与解释边界 |
+> | 研究来源 | 样本特征 | 测量工具 | 进阶指标 / [[Variable|变量]] | 主要统计发现 | 证据等级与解释边界 |
 > |---|---|---|---|---|---|
-> | [[Argument_Hattie_2005_ACER\|Hattie (2005)]] | 新西兰 5–12 年级学生常模样本（约 25,000 名） | [[Assessment Tools for Teaching and Learning\|asTTle]] 数学题库（1,500 余道试题） | 数学运算策略 vs 几何知识纵向增长曲线 | 数运算策略在 5–12 年级呈现陡峭连续增长曲线；几何知识在小学阶段起步不稳且 5–7 年级出现停滞平台期（pp. 15–16） | 大规模常模数据揭示出不同学科维度的认知进阶并不完全同步均速，证实进阶需[[Domain Specificity\|学科特异性]]建模 |
-> | Clements (2011); Daro et al. (2011)，引自 [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013, pp. 14, 22)]] | 全美幼儿及小学低段（K–2）学生 | 认知发展心理学实验与学习轨迹测绘工具 | 数感发展、基数概念、早期算术加减法策略 | 证实儿童早期数学认知遵循高度稳健的自然发展轨迹（Learning Trajectories），构成 [[Common Core State Standards\|CCSS]] K–2 进阶设计的坚实实证基础 | 早期数学进阶具有高[[Internal Validity\|内部效度]]，但高年级数学缺乏对应因果实证轨迹 |
+> | [[Argument_Hattie_2005_ACER\|Hattie (2005)]] | 新西兰 5–12 年级学生常模样本（约 25,000 名） | [[Assessment Tools for Teaching and Learning|asTTle]] 数学题库（1,500 余道试题） | 数学运算策略 vs 几何知识纵向增长曲线 | 数运算策略在 5–12 年级呈现陡峭连续增长曲线；几何知识在小学阶段起步不稳且 5–7 年级出现停滞平台期（pp. 15–16） | 大规模常模数据揭示出不同学科维度的认知进阶并不完全同步均速，证实进阶需[[Domain Specificity|学科特异性]]建模 |
+> | Clements (2011); Daro et al. (2011)，引自 [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013, pp. 14, 22)]] | 全美幼儿及小学低段（K–2）学生 | 认知发展心理学实验与学习轨迹测绘工具 | 数感发展、基数概念、早期算术加减法策略 | 证实儿童早期数学认知遵循高度稳健的自然发展轨迹（Learning Trajectories），构成 [[Common Core State Standards|CCSS]] K–2 进阶设计的坚实实证基础 | 早期数学进阶具有高[[Internal Validity|内部效度]]，但高年级数学缺乏对应因果实证轨迹 |
+> | Sanders and Rivers (1996)，引自 [[Argument_Terhart_2014_HolyGrail\|Terhart (2014, p. 18)]] | 田纳西州增值评价系统（TVAAS）大样本中小学生追踪队列 | TVAAS 标准化学业常模测验 | 前 20% 高效教师 vs 后 20% 低效教师执教下的学生学业百分位点进阶增益 | 高效教师执教下学生学业进阶平均提升 52 个百分位点，低效教师下仅提升 14 个百分位点（净差 38 个百分位点）；低效影响具数年残留 | 大样本纵向追踪数据；证实教师教学效能是调节学生学业进阶幅度的决定性微观变量 |
 
 ---
 
@@ -149,20 +152,21 @@ updated: 2026-11-03
 
 ---
 
-> [!entry-map] 知识网络
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
-> | [[Formative Assessment]] | Concept | 学业进阶为形成性评价提供了诊断定位与后续行动的纵向参照系。 |
-> | [[Epistemic Ascent]] | Concept | 认识论上升偏向学科公理与认识方式的规范推演，学业进阶偏向心理发展与认知轨迹的实证测绘，二者高度互补。 |
-> | [[Visible Learning]] | Concept | 显性化学业进阶是实现学习过程可见与准确测量教师影响的前提。 |
-> | [[Professional Judgment]] | Concept | 在缺乏实证进阶数据的高学段，专家演绎与教师审慎判断是落实进阶的关键。 |
-> | [[Assessment Tools for Teaching and Learning]] | Instrument | 基于新西兰国家课程进阶水平开发的诊断与评价系统。 |
-> | [[Common Core State Standards]] | Fact | 早期学段采用实证学习轨迹、高年级采用逻辑推演并经同行审读校准学习进阶的典型案例。 |
-> | [[John Hattie]] | Person | 主张将学业进阶共同语言作为学校问责与教学改进核心支柱的代表学者。 |
+> | [[Formative Assessment]] | 概念 | 学业进阶为形成性评价提供了诊断定位与后续行动的纵向参照系。 |
+> | [[Epistemic Ascent]] | 概念 | 认识论上升偏向学科公理与认识方式的规范推演，学业进阶偏向心理发展与认知轨迹的实证测绘，二者高度互补。 |
+> | [[Visible Learning]] | 概念 | 显性化学业进阶是实现学习过程可见与准确测量教师影响的前提。 |
+> | [[Professional Judgment]] | 概念 | 在缺乏实证进阶数据的高学段，专家演绎与教师审慎判断是落实进阶的关键。 |
+> | [[Assessment Tools for Teaching and Learning]] | 工具 | 基于新西兰国家课程进阶水平开发的诊断与评价系统。 |
+> | [[Common Core State Standards]] | 事实 | 早期学段采用实证学习轨迹、高年级采用逻辑推演并经同行审读校准学习进阶的典型案例。 |
+> | [[John Hattie]] | 人物 | 主张将学业进阶共同语言作为学校问责与教学改进核心支柱的代表学者。 |
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 系统阐释学业进阶对于打破学校数据过载与提升教学效能的关键论证。
 > - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 考证 CCSS 标准研制中学习进阶在不同学段的实证基础分化与同行审查校准机制。
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 援引田纳西增值追踪数据（TVAAS），论述前 20% 与后 20% 教师对学生学业进阶（提升 52 vs 14 个百分位点）的深远分流效应。
