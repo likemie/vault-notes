@@ -49260,6 +49260,7 @@
         "wiki/arguments/journal-articles/Zeitschrift für Erziehungswissenschaft/Argument_Wecker_2016_ZfE.md",
         "wiki/arguments/reports-policy-documents/Argument_Bouckaert_2023_OECD.md",
         "wiki/concepts/competency-and-assessment/Academic Achievement.md",
+        "wiki/concepts/competency-and-assessment/Creativity.md",
         "wiki/concepts/competency-and-assessment/Metacognition.md",
         "wiki/concepts/curriculum/Learning Intentions.md",
         "wiki/concepts/educational-leadership-administration/Neo-Taylorism.md",
@@ -49282,8 +49283,7 @@
         "wiki/concepts/instruction-pedagogy/Lecturing.md",
         "wiki/concepts/instruction-pedagogy/Mind Mapping.md",
         "wiki/concepts/instruction-pedagogy/Problem-Based Learning.md",
-        "wiki/concepts/instruction-pedagogy/Reciprocal Teaching.md",
-        "wiki/concepts/instruction-pedagogy/Student-Teacher Relationship.md"
+        "wiki/concepts/instruction-pedagogy/Reciprocal Teaching.md"
       ],
       "title": "Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement"
     },
@@ -62346,6 +62346,14 @@
       "seen_in": [],
       "title": "Intentional and Incidental Learning with Instructional Texts: A Meta-Analysis for 1970-1980"
     },
+    "Klauer, 1989": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Inductive Teaching.md"
+      ],
+      "title": ""
+    },
     "Klauer, 1996": {
       "datasets": [
         "eef:metacognition-and-self-regulation"
@@ -62370,7 +62378,9 @@
       ],
       "doi": "",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Inductive Teaching.md"
+      ],
       "title": "Training of Inductive Reasoning - An Updated Meta-Analysis"
     },
     "Klaus Krippendorff, 2004": {
@@ -70768,7 +70778,9 @@
       ],
       "doi": "",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Inductive Teaching.md"
+      ],
       "title": "The effect of inquiry teaching and advance organizers upon student outcomes in science education"
     },
     "Loturco et al., 2022": {
@@ -84709,14 +84721,6 @@
       "seen_in": [],
       "title": "Cerebral palsy: the meta-analysis of selected interventions"
     },
-    "O'Neill et al., 2009": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/instruction-pedagogy/Individualised Instruction.md"
-      ],
-      "title": ""
-    },
     "O'Neill, 1995": {
       "doi": "",
       "isbn": "",
@@ -98549,14 +98553,6 @@
       ],
       "title": ""
     },
-    "SFI Report, 2015": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/instruction-pedagogy/Individualised Instruction.md"
-      ],
-      "title": ""
-    },
     "SFS, 2010": {
       "doi": "",
       "isbn": "",
@@ -109246,8 +109242,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/New Zealand Journal of Educational Studies/Argument_Snook_2009_NZJES.md",
-        "wiki/concepts/instruction-pedagogy/Individualised Instruction.md"
+        "wiki/arguments/journal-articles/New Zealand Journal of Educational Studies/Argument_Snook_2009_NZJES.md"
       ],
       "title": ""
     },

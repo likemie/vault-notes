@@ -9,7 +9,7 @@ aliases:
 summary: "学习者在信息加工、理解建构与任务解决过程中为达成特定学习目标而采取的有意识、有计划的心智操作与行为规程；涵盖复述、精细加工、组织等认知策略，计划、监控与调节等元认知策略，以及资源管理与同伴互助策略。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 12
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

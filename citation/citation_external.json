@@ -14239,10 +14239,12 @@
     "Klassen & Tze (2014)": "Klassen & Tze, 2014",
     "Klassen & Tze, 2014": "Klassen & Tze, 2014",
     "Klauer (1984)": "Klauer, 1984",
+    "Klauer (1989)": "Klauer, 1989",
     "Klauer (1996)": "Klauer, 1996",
     "Klauer (2002)": "Klauer, 2002",
     "Klauer (2014)": "Klauer, 2014",
     "Klauer, 1984": "Klauer, 1984",
+    "Klauer, 1989": "Klauer, 1989",
     "Klauer, 1996": "Klauer, 1996",
     "Klauer, 2002": "Klauer, 2002",
     "Klauer, 2014": "Klauer, 2014",
@@ -19343,8 +19345,6 @@
     "O'Neal (1985)": "O'Neal, 1985",
     "O'Neal, 1985": "O'Neal, 1985",
     "O'Neill (1995)": "O'Neill, 1995",
-    "O'Neill et al. (2009)": "O'Neill et al., 2009",
-    "O'Neill et al., 2009": "O'Neill et al., 2009",
     "O'Neill, 1995": "O'Neill, 1995",
     "O'Reilly & Tushman (2008)": "O'Reilly & Tushman, 2008",
     "O'Reilly & Tushman, 2008": "O'Reilly & Tushman, 2008",
@@ -22501,8 +22501,6 @@
     "SEDP II, 2001": "SEDP II, 2001",
     "SERCE (2006)": "SERCE, 2006",
     "SERCE, 2006": "SERCE, 2006",
-    "SFI Report (2015)": "SFI Report, 2015",
-    "SFI Report, 2015": "SFI Report, 2015",
     "SFS (2010)": "SFS, 2010",
     "SFS (2011)": "SFS, 2011",
     "SFS, 2010": "SFS, 2010",
@@ -112272,6 +112270,7 @@
         "wiki/arguments/journal-articles/Zeitschrift für Erziehungswissenschaft/Argument_Wecker_2016_ZfE.md",
         "wiki/arguments/reports-policy-documents/Argument_Bouckaert_2023_OECD.md",
         "wiki/concepts/competency-and-assessment/Academic Achievement.md",
+        "wiki/concepts/competency-and-assessment/Creativity.md",
         "wiki/concepts/competency-and-assessment/Metacognition.md",
         "wiki/concepts/curriculum/Learning Intentions.md",
         "wiki/concepts/educational-leadership-administration/Neo-Taylorism.md",
@@ -112294,8 +112293,7 @@
         "wiki/concepts/instruction-pedagogy/Lecturing.md",
         "wiki/concepts/instruction-pedagogy/Mind Mapping.md",
         "wiki/concepts/instruction-pedagogy/Problem-Based Learning.md",
-        "wiki/concepts/instruction-pedagogy/Reciprocal Teaching.md",
-        "wiki/concepts/instruction-pedagogy/Student-Teacher Relationship.md"
+        "wiki/concepts/instruction-pedagogy/Reciprocal Teaching.md"
       ],
       "title": "Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement"
     },
@@ -134151,6 +134149,21 @@
       "seen_in": [],
       "title": "Intentional and Incidental Learning with Instructional Texts: A Meta-Analysis for 1970-1980"
     },
+    "Klauer, 1989": {
+      "aliases": [
+        "Klauer, 1989",
+        "Klauer (1989)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Klauer, 1989"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Inductive Teaching.md"
+      ],
+      "title": ""
+    },
     "Klauer, 1996": {
       "aliases": [
         "Klauer, 1996",
@@ -134187,7 +134200,9 @@
         "Klauer, 2014"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Inductive Teaching.md"
+      ],
       "title": "Training of Inductive Reasoning - An Updated Meta-Analysis"
     },
     "Klaus Krippendorff, 2004": {
@@ -147947,7 +147962,9 @@
         "Lott, 1983"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Inductive Teaching.md"
+      ],
       "title": "The effect of inquiry teaching and advance organizers upon student outcomes in science education"
     },
     "Loturco et al., 2022": {
@@ -171146,21 +171163,6 @@
       "isbn": "",
       "seen_in": [],
       "title": "Cerebral palsy: the meta-analysis of selected interventions"
-    },
-    "O'Neill et al., 2009": {
-      "aliases": [
-        "O'Neill et al., 2009",
-        "O'Neill et al. (2009)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "O'Neill et al., 2009"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/instruction-pedagogy/Individualised Instruction.md"
-      ],
-      "title": ""
     },
     "O'Neill, 1995": {
       "aliases": [
@@ -194434,21 +194436,6 @@
       ],
       "title": ""
     },
-    "SFI Report, 2015": {
-      "aliases": [
-        "SFI Report, 2015",
-        "SFI Report (2015)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "SFI Report, 2015"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/instruction-pedagogy/Individualised Instruction.md"
-      ],
-      "title": ""
-    },
     "SFS, 2010": {
       "aliases": [
         "SFS, 2010",
@@ -212210,8 +212197,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/New Zealand Journal of Educational Studies/Argument_Snook_2009_NZJES.md",
-        "wiki/concepts/instruction-pedagogy/Individualised Instruction.md"
+        "wiki/arguments/journal-articles/New Zealand Journal of Educational Studies/Argument_Snook_2009_NZJES.md"
       ],
       "title": ""
     },

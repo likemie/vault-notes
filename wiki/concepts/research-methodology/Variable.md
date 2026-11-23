@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-31
-updated: 2026-11-18
+updated: 2026-11-23
 ---
 
 ---
@@ -252,6 +252,7 @@ updated: 2026-11-18
 > - **脱离情境的虚假等值比较** 机械比对不同国家相同指标名称的变量数值，而忽视变量背后完全不同的体制机制与文化含义。
 > - **陷入方法论主义的技术偏执** 过度追求变量统计模型的复杂性与拟合优度，忽略[[Research Question|研究问题]]本身的社会价值、人文目的与实践意义。
 > - **抽离校外社会变量的政策合谋** [[Gerald Grace|杰拉尔德·格雷斯]]（[[Argument_Grace_2010_NZJES|Grace, 2010, p. 91]]）指出，学业差距模型若抽离家庭[[Cultural Capital|文化资本]]与经济贫困等校外社会变量，会制造单凭校内教学干预即可消除不平等的虚幻错觉，使变量分析沦为迎合政客回避根源性社会改革的技术掩护。
+> - **过程-结果范式下的测量路灯效应** [[Ewald Terhart|埃瓦尔德·特哈特]]（[[Argument_Terhart_2014_HolyGrail|Terhart, 2014, p. 20]]）指出，实证教学研究的过程-结果范式聚焦于能够在标准化测验上表现为成绩增长的特定变量，将无法被量化指标捕获的道德判断、审美陶冶与文化反思等育人维度系统性排除在外，形成了典型的“[[Streetlight Effect|路灯效应]]”。
 
 > [!warning|limits] 适用局限
 > 变量分析适用于能够进行维度解构、客观测量或统计控制的实证研究设计；在面对深层历史积淀、独特民族精神与不可[[Commensuration|通约]]的具身体验时，强行变量化存在削足适履与抽离社会价值目的的理论局限。
@@ -280,14 +281,17 @@ updated: 2026-11-18
 > | [[Operationalization]] | 概念 | 将抽象理论构念转化为具体可测变量的系统转化过程。 |
 > | [[Causality]] | 概念 | 变量协变、时序在先与排除混淆是确立变量间因果关系的核心判据。 |
 > | [[Nomothetic]] | 概念 | 跨国比较通过引入概念变量替代国别体系名称以建构通则性规律。 |
+> | [[Streetlight Effect]] | 概念 | 特哈特用以批判过程-结果范式仅测量易测变量的路灯效应隐喻。 |
 > | [[Multiple Regression]] | 方法 | 检验多个自变量对因变量综合影响的经典统计建模工具。 |
 > | [[Harold Noah]] | 人物 | 比较教育实证主义代表学者，倡导以概念变量名称替代体系名称。 |
 > | [[Max Eckstein]] | 人物 | 与诺亚共同奠定比较教育科学经验范式，推动通则假设检验。 |
 > | [[Andreas Kazamias]] | 人物 | 比较教育史学家，系统反思并批判变量分析中的去脉络化方法论主义。 |
+> | [[Ewald Terhart]] | 人物 | 批判过程-结果范式过度依赖可测变量而忽视不可度量育人维度的学者。 |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 批判实证教学研究的过程-结果范式聚焦于易测变量并制造路灯效应，将学校育人中关键的非认知维度排除在外（pp. 20–21）。
 > - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 构建无量纲约化标度变量 $p = c_{10}/Q_i$ 消除微观学者能力异质性，证实经变量变换后个体引文分布精确塌缩至通用对数正态分布。
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 详述[[Quantitative Research|量化研究]]中[[Independent Variable|自变量]]、[[Dependent Variable|因变量]]、预测变量、结果变量、中介变量、调节变量与混淆变量的功能定义与彩虹理论模型（pp. 54–56）。
 > - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015)]] — 系统阐述教育研究中变量的概念性定义与[[Definition of Terms|操作性定义]]步骤，以及变量的五类划分标准（Ch. 2）。

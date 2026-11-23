@@ -103,13 +103,13 @@ updated: 2026-11-19
 > - **1991年 — 殖民国家心智与玻璃屋全景监视** 安德森在《[[Imagined Community|想象的共同体]]》第10章引入印尼作家[[Pramoedya Ananta Toer|普拉姆迪亚]]的《玻璃屋》隐喻，指出边沁全景敞视建筑在殖民与后殖民国家演进为以分类网格（经线）与[[Serialization|序列化]]（纬线）为核心的彻底能见度治理架构。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 188–189)]]
 > - **1992年 — [[Societies of Control|控制社会]]扩展** Gilles Deleuze 发表《控制社会后记》，指出随着数字信息网络的发展，封闭机构的全景模具逐渐让位于无边界网络中的流动数据调制（Modulation）。
 > - **2009年 — 超国家教育全景敞视分析** [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] 运用全景敞视理论解构[[EU|欧盟]]教育与培训政策，揭示[[Open Method of Coordination|开放协调法]]、基准指标与凝视技术如何在超国家尺度构筑“欧洲教育全景敞视建筑”。（pp. 480–481, 492–493）
-> - **2011年 — 课堂双向可见性解构** [[Ewald Terhart|特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）将全景敞视理论用于解构《[[Visible Learning|可见的学习]]》中的“眼睛”隐喻，揭示双向可见性如何构筑现代微观全景规训。
+> - **2011–2014年 — 课堂双向可见性解构与大眼睛符号微观权力批判** [[Ewald Terhart|特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011]]; [[Argument_Terhart_2014_HolyGrail|2014, pp. 21–22]]）将全景敞视理论用于解构《[[Visible Learning|可见的学习]]》中大眼睛双向凝视隐喻，揭示双向可见性实质上将传统外显行政统治转化为以内在心理学自我调控与支持性反馈为表征的微观自我规训技术。
 > - **2019–2020年 — 数字行政全景与组织病理** Golovchin、McKnight & Whitburn 与 Johnson & Janzen 将全景敞视拓展至教育测验软件（[[Assessment Tools for Teaching and Learning|asTTle]]）与[[Performance Indicators|绩效指标]]治理，批判“人人相互注视”的新行政全景敞视及其诱发的报表[[Alienation|异化]]。
 > - **2021年 — 跨国测评的宏观全景凝视** [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] 揭示 [[PISA]] 建立起现代全球治理的全景敞视机制，通过远距离的数据可见性与国际排名凝视主权国家与学校，将受测个体塑造为顺应全球竞争需要的可教的身体。（p. 423）
 
 ---
 
-> [!entry-map] 全景敞视主义核心理论构件
+> [!theory-constructs] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -131,7 +131,7 @@ updated: 2026-11-19
 > 在学校推行不定期随机推门听课制度下，即便管理者一学期仅实际到场两三次，教师在日常课堂中也会自觉维持标准化教学规程，形成持续的自我审查。
 
 > [!theory-proposition] 命题二｜双向可见性与学生中心修辞遮蔽了教育现场微观不对称的支配关系
-> 《[[Visible Learning|可见的学习]]》倡导“教师通过学生眼睛看教学、学生成为自身教师”的双向可见性隐喻。德语教学论学者[[Ewald Terhart|特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）指出，这种互看互见的互动网络实质上是将传统的外部行政统治转化为内化、去中心化的微观全景监控体系。以“学生为中心”的修辞遮蔽了课堂内部固有的师生权力不对称，同时排除了对知识实质教化（[[Bildung]]）的批判审议。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 429–431)]]
+> 《[[Visible Learning|可见的学习]]》倡导“教师通过学生眼睛看教学、学生成为自身教师”的双向可见性隐喻。德语教学论学者[[Ewald Terhart|特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011]]; [[Argument_Terhart_2014_HolyGrail|2014, pp. 21–22]]）指出，这种互看互见的互动网络实质上是将传统的外部行政统治转化为内化、去中心化的微观全景监控体系。以“学生为中心”的修辞遮蔽了课堂内部固有的师生权力不对称，同时排除了对知识实质教化（[[Bildung]]）的批判审议。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 429–431)]]; [[Argument_Terhart_2014_HolyGrail|(Terhart, 2014, pp. 21–22)]]
 
 > [!example|notitle]
 > 课堂中要求学生依据预设量表展开高频“自我打分”与“[[Peer Assessment|同伴互评]]”，使学生主动担当起审查自身与同伴学习行为的监视执行者。

@@ -7,7 +7,7 @@ aliases:
 summary: "由教师主动主导、以明确目标说明、分步示范、有指导练习、理解检查与即时反馈为核心的高结构化教学模式，在程序性知识与基础技能教学中成效显著，但在高阶思维培养中需与情境探究结合以避免教育副作用"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 81
+related_count: 82
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -245,7 +245,7 @@ updated: 2026-11-23
 ---
 
 > [!dev-timeline] 概念演变
-> - **1960–1970 年代 — 脚本化 [[Discursive Institutionalism|DI]] 奠基与 Follow Through 试验** Siegfried Engelmann 与 Wes Becker 开发高度脚本化的直接教学模式（DI），并在美国“追踪项目（Project Follow Through）”中横扫 20 余种教学法，奠定了在弱势儿童基础学业补救中的实证基石。[[Argument_Zhao_2017_JEC\|(Zhao, 2017, p. 7)]]
+> - **1960–1970 年代 — 脚本化 DI 初创与 Follow Through 试验** Siegfried Engelmann 与 Wes Becker 开发高度脚本化的直接教学模式（DI），并在美国“追踪项目（Project Follow Through）”中横扫 20 余种教学法，确立了在弱势儿童基础学业补救中的实证基石。[[Argument_Zhao_2017_JEC\|(Zhao, 2017, p. 7)]]
 > - **1980 年代 — 显性教学原则提炼与普及** Barak Rosenshine 系统提炼出小步子示范、指导练习与即时反馈等 10 项显性教学原则，直接教学从专门补救课程扩展为通用[[Effective Teaching\|有效教学]][[Paradigm\|范式]]。
 > - **1990–2000 年代 — [[Cognitive Load Theory\|认知负荷理论]]支撑与 CSR 全校改革采纳** 认知负荷理论从[[Working Memory\|工作记忆]]局限性为显性指导提供认知[[Scientific Explanation\|科学解释]]；美国全面学校改革计划（Comprehensive School Reform, CSR）将 Direct Instruction 列为受联邦资助的标杆全校方案之一。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
 > - **2007 年 — 发展型国家高利害考试下的规程锁定批判** [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] 考察新加坡课改指出，在高利害统一大考与绩效问责压力下，一线教师产生强烈的避险惯性，将政策倡导的创造力矮化为模块化解题技巧并机械嫁接于直接教学框架之上，揭示了直接讲授作为基础教学规程的制度韧性（pp. 61–62）。
