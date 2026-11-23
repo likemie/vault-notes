@@ -6,7 +6,7 @@ aliases:
 summary: "作为德语教学理论传统的欧陆教学论（Didaktik），关注课程内容的选择价值、人性的教化目的与教学判断，在教育研究中用于协调规训与生成、内容与规范之间的复杂张力。"
 type: concept
 domain: "educational-philosophy"
-related_count: 44
+related_count: 45
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -57,13 +57,14 @@ related_arguments:
   - "[[Argument_Schaffar_2024_CogentEdu]]"
   - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
   - "[[Argument_Terhart_2011_JCS]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
   - "[[Argument_Hopmann_2007_EERJ]]"
   - "[[Argument_Rømer_2018_EPT]]"
   - "[[Argument_Ertl_2006_ORE]]"
 confidence: medium
 status: active
 created: '2026-05-06'
-updated: 2026-11-21
+updated: 2026-11-23
 ---
 
 ---
@@ -172,6 +173,7 @@ updated: 2026-11-21
 > - **20世纪末 — 批判建设性教学论转向** 克拉夫基提出[[Epochal Key Problems|时代关键问题]]假说，旨在通过重组课程结构，使教育直面社会的全球性正义与危机。
 > - **2006年 — 后 [[PISA]] 实证转型与普通教学论危机** [[Alexander Oettl|厄特尔]]（[[Argument_Ertl_2006_ORE|Ertl, 2006]]）系统剖析德意志教学大纲与教学论传统的历史遭遇：传统大纲深受实质教学论影响，将教学分析置于核心并坚守评价不进课程的传统信念；PISA 震荡后国家推行产出导向胜任力标准，引发教育科学界普通教学论与[[Empirische Unterrichtsforschung|实证教学研究]]的学科[[Paradigm|范式]]冲突与基层备课真空（pp. 623–624, 627–629）。
 > - **2007年 — 霍普曼提炼克制型教学共同核心** 霍普曼系统考掘欧陆教学论的共同基石为克制型教学，从内容与意义差异及教与学自主性视阈，批判能力本位测试对教学法自由与教化追求的制度瓦解。[[Argument_Hopmann_2007_EERJ|(Hopmann, 2007, pp. 109, 118–121)]]
+> - **2014年 — 德语区学科教学论对话与“圣杯神话”去魅** 特哈特主持编撰《讨论中的哈蒂研究》（[[Argument_Terhart_2014_HolyGrail|Terhart, 2014]]），厘清建构主义属于认知理论而非放任教学模式，从过程-结果范式的[[Streetlight Effect|路灯效应]]批判标准化测验对道德判断、审美陶冶与文化反思等教学论核心维度的遮蔽，将巨型综合定性为启发教学反思的经验矿藏。
 > - **2014年 — 芬兰跨学科课程改革的理论整合** 教学论传统的时代危机意识与[[Phenomenon-Based Learning|现象本位学习]]取向融合，成为芬兰核心课程政策的哲学底色。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 7]]
 
 ---
@@ -185,7 +187,7 @@ updated: 2026-11-21
 > > 教学论若被简化为国家课程意识形态的传递工具，其设计的知识结构易流于精英保守主义，削弱其本应具备的个体解放与自我实现功能。
 >
 > > [!axis] 实质教学论反思与形式化效能技术主义之争
-> > 实证效能主义倾向于将教学提炼为通用的教学法程序与标准化[[Effect Size|效应量]]指标。[[Ewald Terhart|特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）等学者指出，这种取向将教学论完全还原为形式化认知加工，[[Epoché|悬置]]了课程内容的教育学意义与正当性反思；健全的教学理论必须在关注教学方法的同时，坚守对教什么与为何教的实质教学论追问。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431)]]
+> > 实证效能主义倾向于将教学提炼为通用的教学法程序与标准化[[Effect Size|效应量]]指标。[[Ewald Terhart|特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）等学者指出，这种取向将教学论完全还原为形式化认知加工，[[Epoché|悬置]]了课程内容的教育学意义与正当性反思；健全的教学理论必须在关注教学方法的同时，坚守对教什么与为何教的实质教学论追问。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431)]] 特哈特（[[Argument_Terhart_2014_HolyGrail|Terhart, 2014]]）进一步指出，实证教学研究的过程-结果范式陷入了“路灯效应”，排斥了非量化的育人核心价值；澄清建构主义本质是认知理论而非教学模式，教学论框架下的有效教学要求教师进行积极直接的显性干预与双向透视转换，而非放任式自主探索。
 >
 > > [!axis] 教学法自由与能力本位测评的治理冲突
 > > 新自由主义教育治理试图通过标准化测试与通用能力指标加强对学校教学的产出控制。教学论学者指出，这种模式将测试绩效的全部重压转嫁给基层教师，强行将内容与意义绑定为单一答案，在制度上严重挤压了教师的教学法自由与克制型教学空间。[[Argument_Hopmann_2007_EERJ|(Hopmann, 2007, pp. 119–120)]]
@@ -211,6 +213,7 @@ updated: 2026-11-21
 > - [[Argument_Schaffar_2024_CogentEdu|Schaffar and Wolff (2024)]] — 考掘欧洲教学论与教化传统的批判解放内涵，阐述芬兰国家核心课程中跨学科与[[Phenomenon-Based Learning|现象本位学习]]的理论根基。
 > - [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz and Klinge (2022)]] — 探讨算法化时代教学论、教化与规范教育的整合星座，反思技术介入对教师教学判断的影响。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 从欧陆教学论与教化传统批判可见学习抽空学科实质内容与课程合法化反思的形式主义局限。
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 编撰德语学界对话专著，从教学论视阈厘清认知建构与积极教学干预的内在兼容性，指出过程-结果范式“路灯效应”对非认知育人维度的排斥，破除终极圣杯神话。
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 从教学论与教化传统批判可见学习放逐教学论[[Central Phenomenon|核心范畴]]、以简陋评价图式瓦解三元教学三角形的理论危机。
 > - [[Argument_Hopmann_2007_EERJ|Hopmann (2007)]] — 考掘教学论历史演进，确立克制型教学为教学论诸学派共同基础，并反思标准化能力测评对教学法自由的挤压。
 
