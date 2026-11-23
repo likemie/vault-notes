@@ -10,9 +10,9 @@ cssclasses:
   - person-page
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 169
-person_related_level: 16
-person_related_stars: "💎💎💎💎💎⭐"
+person_related_count: 170
+person_related_level: 17
+person_related_stars: "💎💎💎💎💎⭐⭐"
 person_related_color: "#fef3c7"
 born: "1950"
 died: ""
@@ -179,6 +179,7 @@ related_arguments:
   - "[[Argument_Zhao_2017_JEC]]"
   - "[[Argument_Nielsen_2021_NordPsych]]"
   - "[[Argument_Hattie_2017_SLM]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
 related_facts:
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[Evidence for Learning]]"
@@ -202,14 +203,14 @@ related_instruments:
 confidence: medium
 status: active
 created: '2026-05-02'
-updated: 2026-11-19
+updated: 2026-11-23
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 新西兰教育统计学家，墨尔本大学教育研究所（Melbourne Graduate School of Education）荣休教授，曾任澳大利亚教学与[[School Leadership\|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership]]，AITSL）主席，兼任澳大利亚[[Evidence for Learning]]（E4L）学校专家咨询委员会（Schools Expert Reference Council）主席。
-> - **核心角色** 著有《[[Visible Learning\|可见的学习]]》（Visible Learning，VL），是教育领域[[Meta-meta-analysis\|元综合]]（元-[[Meta-analysis\|元分析]]）[[Paradigm\|范式]]的奠基者与集大成者；主持维护全球最大教育元分析汇聚数据库 [[Visible Learning Meta-X]]；全球[[Evidence-Based Education\|证据本位教育]]与[[What Works Movement\|循证改革运动]]中极具国际影响力的领军学者；开创以[[Effect Size\|效应量]]为通用标尺综合比较教学干预效果的[[Analytic Framework\|分析框架]]，推动将微观师生互动与学校组织变革转化为高度量化的指标体系，依托 跨国商业授权网络 构建了贯通实证研究、教师培训、商业认证与国家政策咨询的全球中介生态。
+> - **核心角色** 著有《[[Visible Learning\|可见的学习]]》（Visible Learning，VL），是教育领域[[Meta-meta-analysis\|元综合]]（元-[[Meta-analysis\|元分析]]）[[Paradigm\|范式]]的开创者与集大成者；主持维护全球最大教育元分析汇聚数据库 [[Visible Learning Meta-X]]；全球[[Evidence-Based Education\|证据本位教育]]与[[What Works Movement\|循证改革运动]]中极具国际影响力的领军学者；开创以[[Effect Size\|效应量]]为通用标尺综合比较教学干预效果的[[Analytic Framework\|分析框架]]，推动将微观师生互动与学校组织变革转化为高度量化的指标体系，依托 跨国商业授权网络 构建了贯通实证研究、教师培训、商业认证与国家政策咨询的全球中介生态。
 > - **代表贡献** [[Visible Learning\|可见的学习]]综合框架与 $d=0.40$ 关节点模型；全球最大元分析汇聚数据库 [[Visible Learning Meta-X]]（收录 2,100+ 项元分析）；通用连续体（Universal Continuum）与[[Comparative Meta-synthesis\|比较性元综合]]方法；反馈（[[Feedback]]）分类学与[[Formative Assessment\|形成性评价]]模型；[[Assessment Tools for Teaching and Learning\|教学与学习评估工具]]（Assessment Tools for Teaching and Learning，asTTle）；[[Visible Classroom|可见课堂]]（Visible Classroom）与三阶段学习模型；领衔 E4L 学校专家咨询委员会指导澳大利亚循证工具包本土化转化。
 
 > [!citation-card] 人物定位的关键来源
@@ -411,6 +412,7 @@ updated: 2026-11-19
 > - [[Argument_Snook_2009_NZJES|Snook et al., 2009]] — 新西兰首轮系统学术批判：二阶元分析底层质控缺位、0.40 截断值武断性（阿司匹林反例）、排除 70%–80% 生源背景[[Variable|变量]]，以及[[Class Size|班级规模]]与[[Performance Pay|绩效工资]]的政策误用。
 > - [[Argument_Grace_2010_NZJES|Grace, 2010]] — 新西兰论战法理与伦理批判：从大学法定“[[Critic and Conscience of Society|社会的批评者与良知]]”角色出发，指责其排除 70%–80% 结构性背景变量是学术还原论，混淆了学科技术批评与社会良知职能。
 > - [[Argument_Terhart_2011_JCS|Terhart, 2011]] — 首篇国际长篇书评：教学理论教化实质真空（[[Didaktik]] / [[Bildung]]）、波普尔三个世界形式化挪用、双向可见性的福柯式全景规训，以及稳定性与变异性假说下的修补金字塔双重困境。
+> - [[Argument_Terhart_2014_HolyGrail|Terhart, 2014]] — 德语编著专章长篇审读：系统剖析二阶元分析文献底册陈旧（多为 80–90 年代）且缺乏质控准入门槛，0.40 门槛仅为学校常规教学自然基准，过程-结果范式陷入路灯效应排斥非测验育人目标，师生互视模型潜藏微观心理自我规训，终结教育终极圣杯神话（pp. 10–23）。
 > - [[Argument_Allerup_2015_Paideia|Allerup, 2015]] — 效应量排名[[Sample Size Determination|样本量]]依赖、[[Confidence Interval|置信区间]]缺失与[[Socioeconomic Status|社会经济背景]]控制批评。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al., 2016]] — 推导两级固定效应代数等价性定理与六步规程，以 Eisenstaedt（10倍虚增）、Haas（权重削减53%）及 Olson & Wisher（93%重叠致排名雪崩）实证解构超级元分析可行性。
 > - [[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017]] — 统计学视角审查：CLES 负概率初等计算错误、基线反转致效应量解释颠覆、受控数值模拟证实三类有效公式排名彻底相反、相关向均值差换算极值爆炸（$r=0.196 \to d=0.40$ 仅解释 3.85% 方差）及伪科学定性。
