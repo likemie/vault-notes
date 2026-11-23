@@ -9323,6 +9323,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md",
         "wiki/arguments/journal-articles/Journal of Curriculum Studies/Argument_Terhart_2011_JCS.md",
         "wiki/concepts/instruction-pedagogy/Effective Teaching.md",
         "wiki/concepts/research-methodology/Critique of Meta-analysis.md",
@@ -23664,6 +23665,7 @@
       "doi": "",
       "isbn": "9780805802832",
       "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md",
         "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md",
         "wiki/concepts/instruction-pedagogy/Folk Pedagogy.md",
         "wiki/methods/quantitative/Effect Size Conversion.md",
@@ -99595,6 +99597,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "A meta-analysis: the relationship of program content and operation factors to measured effectiveness of college reading-study programs"
+    },
+    "Sanders, 2000": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md"
+      ],
+      "title": ""
     },
     "Sanders, 2019": {
       "doi": "",
