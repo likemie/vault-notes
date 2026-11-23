@@ -74,10 +74,11 @@ related_arguments:
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Bergeron_2017_MJE]]"
   - "[[Argument_Golovchin_2019_ESC]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
 confidence: high
-status: draft
+status: completed
 created: "2026-10-16"
-updated: 2026-11-19
+updated: 2026-11-23
 ---
 
 ---

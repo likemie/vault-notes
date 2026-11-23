@@ -52,6 +52,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Dependent Variable]]"
   - "[[Variable]]"
+  - "[[Teacher Effects]]"
 related_theories: []
 related_methods:
   - "[[Pre-test and Post-test]]"
@@ -77,8 +78,9 @@ related_arguments:
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Serpell_2020_EducPsychol]]"
   - "[[Argument_Morgan_Shahjahan_2014_CE]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
 created: 2026-08-26
-updated: 2026-11-15
+updated: 2026-11-23
 ---
 
 ---
@@ -213,8 +215,22 @@ updated: 2026-11-15
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统评析探究与[[Direct Instruction\|直接教学]]的实证全景，引用 Lazonder and Harmsen (2016) 确证指导[[Scaffolding\|脚手架]]带来 $d = 0.50$ 的学习增益及六类指导类型的促学等价性。
-> - [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] — 梳理 [[OECD]] 国家支持学习增益与[[Higher-Order Thinking Skills\|高阶思维]]评价的政策项目（英国 [[Higher Education Funding Council for England\|HEFCE]]、德国 [[KoKoHs Program\|KoKoHs]]、意大利 [[TECO Project\|TECO]]），辨析不同测度方法的优劣与实施挑战。
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:---|:---|:---|
+> | [[Value-Added Model]] | 方法 | 提取学习增益最核心的统计回归与多层残差剥离建模工具。 |
+> | [[Teacher Effects]] | 概念 | 增值评价在基础教育中的关键应用指向，用于测算任课教师带来的独立学业增量。[[Argument_Terhart_2014_HolyGrail\|(Terhart, 2014, pp. 9–10)]] |
+> | [[Higher-Order Thinking Skills]] | 概念 | 高等教育学习增益测量致力于捕捉的核心认知能力进阶目标。 |
+> | [[Pre-test and Post-test]] | 方法 | 剥离先验知识基线以测度净学习增益的经典实验研究设计。 |
+> | [[Collegiate Learning Assessment]] | 工具 | 测量本科生跨周期批判性思维增值的代表性表现测评工具。 |
+> | [[External Validity]] | 概念 | 学习增益测试因低利害动机缺失与样本流失所面临的推广效度挑战。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 系统评析探究与[[Direct Instruction|直接教学]]的实证全景，引用 Lazonder and Harmsen (2016) 确证指导[[Scaffolding|脚手架]]带来 $d = 0.50$ 的学习增益及六类指导类型的促学等价性。
+> - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — 梳理 [[OECD]] 国家支持学习增益与[[Higher-Order Thinking Skills|高阶思维]]评价的政策项目（英国 [[Higher Education Funding Council for England|HEFCE]]、德国 [[KoKoHs Program|KoKoHs]]、意大利 [[TECO Project|TECO]]），辨析不同测度方法的优劣与实施挑战。
 > - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014, p. 199)]] — 揭示经合组织发起 [[OECD AHELO Project|AHELO]] 高教测评项目时，以增值评价（learning gain）作为批判商业排名的核心武器，声称唯有测量教学增值才能提供客观中立的跨国高校质量数据。
-> - [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]] — 援引 Raudenbush (2015) 剖析[[Value-Added Model|增值评价模型]]（VAM）在宏观政策应用中的局限，揭示微观[[Technical Rationality\|技术理性]]与宏观学校治理生态之间的深层张力。
+> - [[Argument_Serpell_2020_EducPsychol|Serpell (2020)]] — 援引 Raudenbush (2015) 剖析[[Value-Added Model|增值评价模型]]（VAM）在宏观政策应用中的局限，揭示微观[[Technical Rationality|技术理性]]与宏观学校治理生态之间的深层张力。
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 述评田纳西增值系统（TVAAS）基于纵向增值评价追踪教师效应累积差异的实证逻辑及其统计方差边界。

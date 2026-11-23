@@ -128,13 +128,14 @@ related_arguments:
   - "[[Argument_Cartiff_2021_JEP]]"
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Terhart_2011_JCS]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
   - "[[Argument_Sarbiewska_2019_KiW]]"
   - "[[Argument_Abrami_2015_RER]]"
   - "[[Argument_Barrenechea_2023_JEC]]"
 confidence: high
 status: active
 created: '2026-05-05'
-updated: 2026-11-21
+updated: 2026-11-23
 ---
 
 ---
@@ -265,6 +266,7 @@ updated: 2026-11-21
 > - **1990–2000 年代 — [[Didaktik|欧陆教学论]]与质量框架整合（Didaktik & Quality [[Dimensions]]）** [[Hilbert Meyer]]（10 项优质教学特征）与 [[Andreas Helmke]]（优质教学综合模型）将教师领导、目标导向与认知激活纳入系统化质量框架。
 > - **2009 年 — 可见学习[[Meta-analysis|元分析]]综合（[[Visible Learning]]）** [[John Hattie]] 出版《可见学习》，综合 800+ 项元分析，提出教师作为主动激活者（$d = 0.60$）远优于促进者（$d = 0.17$）的论断。[[Argument_Laursen_2015_Paideia|(Laursen, 2015, p. 35)]]
 > - **2011 年 — 欧陆教学论审视与[[Epistemology|认识论]]双重假说解构** [[Ewald Terhart|特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp. 427–437]]）从德语教学论与思想史视角系统审视有效教学的[[Meta-meta-analysis|二阶元分析]]金字塔，量化提炼激活者（$d = 0.60$）与促进者（$d = 0.17$）的实证分化，揭示其常识逼近与结论过时的认识论双重困境，并批评其抽空学科实质内容与教化正当性的形式化弊端。
+> - **2014 年 — 德语区可见学习接受与优质教学论争** [[Ewald Terhart|特哈特]]系统梳理德国对可见学习的接受史，辨析“优质教学”（guter Unterricht）从规范教学论向实证研究的过渡，指出教师效应源于认知激活与反馈而非人格神话，并揭示其 8%–21% 的有限方差边界。[[Argument_Terhart_2014_HolyGrail|(Terhart, 2014, pp. 9–14)]]
 > - **2015 年 — 跨文化检验与社会背景调节深化** Per Fibæk Laursen 结合丹麦 [[Science Foundation Ireland|SFI]] 报告检验国际综合，揭示有效教学质量的跨文化普适性及学生社会背景对开放教学效果的深度调节。[[Argument_Laursen_2015_Paideia|(Laursen, 2015, pp. 38–40)]]
 > - **2019 年 — 跨国观察规程与社会情感整合（Teach 范式）** [[World Bank|世界银行]]发布 Teach [[Classroom Observation|课堂观察]]框架，针对低收入与中等收入国家确立了有效教学四维测量架构（在任务时间、课堂文化、教学指导、社会情感技能），推动有效教学评估从高收入国家传统工具向全球普适性田野规程拓展。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019)]]
 > - **2019 年至今 — 循证改革批判与具体方案转向** [[Robert Slavin]] 系统指出抽象通用原则的实践失效，倡导将有效教学内嵌于达到 [[Every Student Succeeds Act|ESSA]] 强[[Evidence Standards|证据标准]]的成套课程与干预产品中。[[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, pp. 22–23)]]
@@ -432,6 +434,7 @@ updated: 2026-11-21
 > - [[Argument_Laursen_2015_Paideia|Laursen (2015)]] — 比较 Hattie、Meyer 与 Helmke 国际综合与丹麦 [[Science Foundation Ireland|SFI]] 报告，系统论证有效教学核心质量的普适性及其受学生社会背景的调节。
 > - [[Argument_Slavin_2019_EducPsychol|Slavin (2019)]] — 从循证改革与实施科学视角，批判抽象有效教学原则的实践困境，论证具体结构化方案对课堂质量提升的决定性支撑。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 从德语教学论视角审视有效教学[[Meta-meta-analysis|二阶元分析]]，量化激活者（$d = 0.60$）与促进者（$d = 0.17$）实证分化，批判其抽空学科实质内容与[[Bildung|精神教化]]维度的形式化弊端（pp. 425–438）。
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 评析可见的学习对德语区优质教学规范传统的冲击与重构，界定教师效应的胜任力机制与方差边界。
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 实证检验[[Direct Instruction|显性直接教学]]与情境探究融合对培养高阶[[Critical Thinking|批判性思维]]的最优效能。
 > - [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] — 开展[[Epistemology|认识论]]干预[[Meta-analysis|元分析]]，实证确立[[Inquiry-Based Learning|指导式探究]]与[[Source Evaluation|信源评估]]的机制优势、短周期高浓度教学特征与[[Formative Assessment|形成性评价]]反馈对[[Academic Achievement|学业成就]]的因果促进作用，提炼出有效教学的循证关键支柱。
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 确立全球基础教育有效教学四维架构（在任务时间、课堂文化、教学指导、社会情感技能），提供跨国大样本[[Classroom Observation|课堂观察]]测量基准。
