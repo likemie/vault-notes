@@ -9,7 +9,7 @@ summary: "一种广泛使用的调查研究工具，通过结构化或半结构�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 63
+method_related_count: 65
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#dcfce7"
@@ -185,7 +185,7 @@ updated: 2026-11-23
 > | [[Pilot Testing]] | 验证技术 | 预测试是确保问卷[[Reliability\|信度]]、效度与可读性的关键环节。 |
 > | [[Multiple Regression]] | 分析方法 | [[Multiple Regression\|多元回归]]是问卷量化数据最常用的统计建模工具之一。 |
 > | [[Causal Modeling]] | 分析方法 | 结构方程模型基于问卷潜[[Variable\|变量]]与观测变量检验复杂因果网络。 |
-> | [[Intervention Research]] | 替代设计 | 干预研究通过操纵自变量提供因果证据，自陈问卷调查则主要测量现有认知与态度分布。[[Argument_Terhart_2014_HolyGrail|(Terhart, 2014, p. 14)]] |
+> | [[Intervention Research]] | 替代设计 | 干预研究通过操纵自变量提供因果证据，自陈问卷调查则主要测量现有认知与态度分布。[[Argument_Terhart_2014_HolyGrail\|(Terhart, 2014, p. 14)]] |
 
 ---
 

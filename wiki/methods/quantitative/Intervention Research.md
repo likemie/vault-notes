@@ -7,7 +7,7 @@ summary: "通过操纵教育处理、项目或实践条件来检验效果及因�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 24
+method_related_count: 28
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -123,12 +123,12 @@ updated: 2026-11-23
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Evidence-Based Education]] | 理论 | 证据知情教育将干预研究与随机实验视为确立实践因果推荐的证据链基石。 |
-> | [[Experimental Research]] | 上位方法 | 实验研究在干预研究操纵自变量的基础上进一步要求随机分配。[[Argument_Brady_2023_EPR|(Brady et al., 2023, p. 4)]] |
+> | [[Experimental Research]] | 上位方法 | 实验研究在干预研究操纵自变量的基础上进一步要求随机分配。[[Argument_Brady_2023_EPR\|(Brady et al., 2023, p. 4)]] |
 > | [[Random Assignment]] | 核心技术 | 随机分配是消除不可观测混杂、将准实验干预提升为真实验的关键程序。 |
-> | [[Non-intervention Research]] | 替代方法 | 非干预研究不操纵自变量，适合情境探索但不宜直接导出强因果实践建议。[[Argument_Brady_2023_EPR|(Brady et al., 2023, pp. 2–4)]] |
+> | [[Non-intervention Research]] | 替代方法 | 非干预研究不操纵自变量，适合情境探索但不宜直接导出强因果实践建议。[[Argument_Brady_2023_EPR\|(Brady et al., 2023, pp. 2–4)]] |
 > | [[Correlational Research]] | 前置方法 | 观察与相关研究识别潜在关联，为设计针对性干预处理提供假说来源。 |
-> | [[Meta-analysis]] | 综合方法 | 元分析聚合多项干预研究以评估综合效应，需警惕与非干预数据的混合偏倚。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 44)]]; [[Argument_Terhart_2014_HolyGrail|(Terhart, 2014, p. 14)]] |
-> | [[Questionnaire]] | 数据收集 | 问卷常用于收集自陈数据，其实验控制强度与干预研究存在实质差异。[[Argument_Terhart_2014_HolyGrail|(Terhart, 2014, p. 14)]] |
+> | [[Meta-analysis]] | 综合方法 | 元分析聚合多项干预研究以评估综合效应，需警惕与非干预数据的混合偏倚。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, p. 44)]]; [[Argument_Terhart_2014_HolyGrail\|(Terhart, 2014, p. 14)]] |
+> | [[Questionnaire]] | 数据收集 | 问卷常用于收集自陈数据，其实验控制强度与干预研究存在实质差异。[[Argument_Terhart_2014_HolyGrail\|(Terhart, 2014, p. 14)]] |
 
 ---
 

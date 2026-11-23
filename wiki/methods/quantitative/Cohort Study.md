@@ -12,7 +12,7 @@ summary: "追踪具有共同特征的特定群体随时间变化的纵向研究�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 34
+method_related_count: 36
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
