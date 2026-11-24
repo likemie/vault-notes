@@ -1516,5 +1516,15 @@
       "sentence": "综合学校层面的各项测量结果可见，措施越是直接作用于课堂教学或具体学习情境，其促进学习的效果就越显著。",
       "target": "wiki/facts/germany/Gesamtschule.md"
     }
+  ],
+  "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md": [
+    {
+      "sentence": "**贡献** 打破了大学组织由经典组织化无政府状态单向演进为全校一体化理性实体的线性假设，实证建构并确立了行政端局部理性化与学术端实践脱钩的解耦型官僚制理论解释模型。",
+      "target": "wiki/theories/political-economy-geopolitics/Tullock's Bureaucracy Theory.md"
+    },
+    {
+      "sentence": "**基层学术系统的专业探索逻辑** 依赖情境适应性、学科同行审议、不可完全标准化的探索技术与跨国知识网络，强调自下而上的灵活性与学术自主裁量。",
+      "target": "wiki/methods/qualitative/Peer Debriefing.md"
+    }
   ]
 }

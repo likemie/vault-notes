@@ -19166,6 +19166,8 @@
     "Nisbett (2005)": "Nisbett, 2005",
     "Nisbett, 2003": "Nisbett, 2003",
     "Nisbett, 2005": "Nisbett, 2005",
+    "Niskanen (1971)": "Niskanen, 1971",
+    "Niskanen, 1971": "Niskanen, 1971",
     "Nissen et al. (2016)": "Nissen et al., 2016",
     "Nissen et al., 2016": "Nissen et al., 2016",
     "Niu et al. (2013)": "Niu et al., 2013",
@@ -23994,6 +23996,7 @@
     "Simola, 2005": "Simola, 2005",
     "Simola, 2008": "Simola, 2008",
     "Simon (1945)": "Simon, 1945",
+    "Simon (1947)": "Simon, 1947",
     "Simon (1978)": "Simon, 1978",
     "Simon (1996)": "Simon, 1996",
     "Simon (2003)": "Simon, 2003",
@@ -24004,6 +24007,7 @@
     "Simon Marginson, 2022": "Simon Marginson, 2022",
     "Simon Marginson, 2025": "Simon Marginson, 2025",
     "Simon, 1945": "Simon, 1945",
+    "Simon, 1947": "Simon, 1947",
     "Simon, 1978": "Simon, 1978",
     "Simon, 1996": "Simon, 1996",
     "Simon, 2003": "Simon, 2003",
@@ -169956,6 +169960,21 @@
       ],
       "title": ""
     },
+    "Niskanen, 1971": {
+      "aliases": [
+        "Niskanen, 1971",
+        "Niskanen (1971)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Niskanen, 1971"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/political-economy-geopolitics/Tullock's Bureaucracy Theory.md"
+      ],
+      "title": ""
+    },
     "Nissen et al., 2016": {
       "aliases": [
         "Nissen et al., 2016",
@@ -205548,6 +205567,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-leadership-administration/Neo-Taylorism.md"
+      ],
+      "title": ""
+    },
+    "Simon, 1947": {
+      "aliases": [
+        "Simon, 1947",
+        "Simon (1947)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Simon, 1947"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/political-economy-geopolitics/Tullock's Bureaucracy Theory.md"
       ],
       "title": ""
     },
