@@ -9,7 +9,7 @@ aliases:
 summary: "20世纪下半叶经验教学研究的统治性范式，将教师课堂可观察行为作为过程变量，将学生标准化测验成绩作为结果变量，通过统计相关与实验干预确立有效教学法则；它构成了《可见的学习》的底层认识论母体，因其对不可测育人维度的系统性排斥而饱受路灯效应批判。"
 type: theory
 theory_field: "instruction-pedagogy"
-theory_related_count: 20
+theory_related_count: 25
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -30,27 +30,30 @@ related_concepts:
   - "[[Didaktik]]"
   - "[[Time on Task]]"
   - "[[Teacher as Activator]]"
+  - "[[Cognitive Activation]]"
 related_theories:
   - "[[Behaviorism]]"
   - "[[Panopticism]]"
+  - "[[Three Basic Dimensions of Teaching Quality]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Systematic Observation]]"
   - "[[Regression Analysis]]"
   - "[[Effect Size]]"
+  - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[Ewald Terhart]]"
   - "[[John Hattie]]"
   - "[[Lee Cronbach]]"
+  - "[[Olaf Köller]]"
 related_arguments:
   - "[[Argument_Terhart_2014_HolyGrail]]"
   - "[[Argument_Terhart_2011_JCS]]"
+  - "[[Argument_Koller_2014_WhatWorks]]"
 confidence: high
 status: active
 created: 2026-11-24
 updated: 2026-11-24
----
-
 ---
 
 > [!theory-position] 理论定位
@@ -65,15 +68,16 @@ updated: 2026-11-24
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 纳撒尼尔·盖奇（Nathaniel Gage, 1963）在《教学研究手册》（*Handbook of Research on Teaching*）首版中系统奠定该范式，随后由布罗菲（Jere Brophy）与古德（Thomas Good, 1986）在第三版手册中全面总结为“过程-结果研究”（Process-Product Research）。[[Argument_Terhart_2014_HolyGrail|(Terhart, 2014, p. 20)]]
+> - **提出者与原始文本** 纳撒尼尔·盖奇（Nathaniel Gage, 1963）在《教学研究手册》（*Handbook of Research on Teaching*）首版中系统奠定该范式，随后由杰里·布罗菲（Jere Brophy）与托马斯·古德（Thomas Good, 1986）在第三版手册中全面总结为“过程-结果研究”（Process-Product Research）。[[Argument_Terhart_2014_HolyGrail|(Terhart, 2014, p. 20)]]
 > - **原初问题** 战后教育扩张背景下，政策制定者急切要求回答“究竟何为好教师”，传统基于教师学历或师德的定性评估无法提供稳定的因果证据。
 > - **理论资源与材料** 吸收弗兰德斯（Ned Flanders）互动分类系统等课堂系统观察编码技术，结合农业试验设计的方差分析与多元回归统计模型。
-> - **形成路径** 研究者首先进入课堂高密度记录教师提问、表扬、直接讲授与练习监控频次（过程），随后对学生实施学期末标准化测验（结果），通过偏相关分析抽取出独立于学生智商与家庭背景的“有效教学行为清单”。
+> - **形成路径** 研究者首先进入课堂高密度记录教师提问、表扬、直接讲授与练习监控频次（过程），随后对学生实施学期末标准化测验（结果），通过偏相关分析抽取出独立于学生智商与家庭背景的有效教学行为清单。
 
 > [!dev-timeline] 理论版本与贡献
-> - **1960s–1970s — 范式奠定与行为编码经典期** 盖奇等学者确立过程-结果范式，大量开展课堂观察量表开发，确立任务投入时间（Time on Task）与直接指导（Direct Instruction）的基础法则。
+> - **1960s–1970s — 范式奠定与行为编码经典期** 盖奇等学者确立过程-结果范式，大量开展课堂观察量表开发，确立任务投入时间（[[Time on Task]]）与直接教学（Direct Instruction）的基础法则。
 > - **1980s — 认知中介扩展期** 布罗菲与古德引入认知心理学构念，将学生课堂注意、信息加工等中介变量纳入模型，从机械行为主义走向中介过程模型。
-> - **2009 至今 — 二阶元综合复兴与批判反思** 约翰·哈蒂（John Hattie）汇总 800 余项元分析，实质上将过程-结果范式推向二阶综合的极致；埃瓦尔德·特哈特（Ewald Terhart, 2011, 2014）立足欧陆普通教学论深入解构该范式的认识论盲区与路灯效应。
+> - **2007–2014 — 深层互动过程转向** 塞德尔与沙维尔森（Seidel & Shavelson, 2007）的元分析及奥拉夫·科勒（[[Olaf Köller]]）的实证审读表明，过程-结果研究逐步超越外部表层组织行为，证实[[Cognitive Activation|认知激活]]等深层互动机制对学业增益具有决定性解释力。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, p. 28)]]
+> - **2009 至今 — 二阶元综合复兴与批判反思** 约翰·哈蒂（[[John Hattie]]）汇总 800 余项元分析，实质上将过程-结果范式推向二阶综合的极致；埃瓦尔德·特哈特（[[Ewald Terhart]], 2011, 2014）立足欧陆普通教学论深入解构该范式的认识论盲区与路灯效应。[[Argument_Terhart_2014_HolyGrail|(Terhart, 2014, pp. 20–21)]]
 
 ---
 
@@ -89,10 +93,7 @@ updated: 2026-11-24
 ---
 
 > [!theory-proposition] 命题一｜课堂教学有效性可通过过程变量与结果变量的统计函数予以确立
-> 教学效能取决于特定显性教学动作的组合与发生频率，通过大样本测量能够提炼出超越情境的有效教学普遍法则。
->
-> > [!claim] Brophy, J. & Good, T.
-> > **有效教学行为的经验可测性** 过程-结果研究证实，教师在课堂中维持高任务专注度、提供清晰结构化讲解以及进行即时矫正反馈，与学生在标准化阅读和数学测验上的成绩增益存在稳定的正相关。教学质量能够被还原为一组具备实证支撑的行为参数。[[Argument_Terhart_2014_HolyGrail|(Terhart, 2014, pp. 20–21)]]
+> 教学效能取决于特定显性教学动作的组合与发生频率，通过大样本测量能够提炼出超越情境的有效教学普遍法则。过程-结果研究证实，教师在课堂中维持高任务专注度、提供清晰结构化讲解以及进行即时矫正反馈，与学生在标准化阅读和数学测验上的成绩增益存在稳定的正相关；现代教学研究元分析进一步表明，深层互动过程变量的解释力显著强于表层组织变量。[[Argument_Terhart_2014_HolyGrail|(Terhart, 2014, pp. 20–21)]]; [[Argument_Koller_2014_WhatWorks|(Köller, 2014, p. 28)]]
 
 > [!example|notitle]
 > 在大规模小学数学课堂研究中，观察员使用编码表记录教师用于引导练习的时间占比（过程变量），学期末对比各班统考增值分（结果变量），以此确立练习反馈频次对数学运算能力的标准化效应量。
@@ -100,13 +101,10 @@ updated: 2026-11-24
 ---
 
 > [!theory-proposition] 命题二｜结果变量的单一测验化导致对不可度量育人维度的系统性遮蔽
-> 过程-结果范式在操作上将“教育结果”等同于标准化成就测验成绩，这一测量前设导致该范式系统性排斥了无法被短期量化的德性养成、审美体验与批判思维。
->
-> > [!claim] Terhart, E.
-> > **路灯效应与教育价值矮化** 特哈特指出，该范式将研究视野牢牢锁定在能够被统计工具捕捉的地方，如同夜间失物者只在路灯光晕下寻找钥匙。哈蒂虽然汇总了海量效应量，但这些数据全部来源于过程-结果范式主导下的测验研究；凡是测验无法测量的深层育人目标，在这一范式中皆被隐形化，制造了教学等于提分的假象。[[Argument_Terhart_2014_HolyGrail|(Terhart, 2014, p. 21)]]
+> 过程-结果范式在操作上将“教育结果”等同于标准化成就测验成绩，这一测量前设导致该范式系统性排斥了无法被短期量化的德性养成、审美体验与批判思维。该范式将研究视野锁定在能够被统计工具捕捉的狭窄领域，如同夜间失物者只在路灯光晕下寻找钥匙；哈蒂汇总的二阶元分析底册全面继承了这一范式传统，容易制造教学等于提分的认知偏狭与工具主义导向。[[Argument_Terhart_2014_HolyGrail|(Terhart, 2014, p. 21)]]
 
 > [!example|notitle]
-> 学校推行公民素养与合作伦理讨论课，因缺乏即时标准化的纸笔测试工具，在过程-结果范式的元分析汇总中被归为无效或低效应量干预，导致该类课程在循证改革中遭遇边缘化。
+> 学校推行公民素养与合作伦理讨论课，因缺乏即时标准化的纸笔测试工具，在过程-结果范式的元分析汇总中被归为低效应量干预，导致该类课程在循证改革中遭遇边缘化。
 
 ---
 
@@ -144,10 +142,11 @@ updated: 2026-11-24
 
 > [!critique] 批评索引
 > - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 批判过程-结果范式的测量狭隘性，提出路灯效应分析工具，揭示其对不可度量育人目标的系统性排斥。
-> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 指责该范式主导下的元分析将丰富的欧陆普通教学论传统窄化为无语境的效应量工程。
+> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 揭示过程-结果研究范式在面对德国教化传统时的文化与哲学不相容性（pp. 425–438）。
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 剖析哈蒂二阶元分析背后的过程-结果范式归属与认识论局限（pp. 20–21）。
+> - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 结合德语区实证教育研究审读过程-结果范式元分析底册，论证深层互动变量对学业增益的效应显著超越表层组织变量（p. 28）。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 揭示过程-结果研究范式在面对德国教化传统时的文化与哲学不相容性（pp. 425–438）。

@@ -1009,6 +1009,8 @@
     "Ann Ferruggia, 1989": "Ann Ferruggia, 1989",
     "Ann Swidler (1986)": "Ann Swidler, 1986",
     "Ann Swidler, 1986": "Ann Swidler, 1986",
+    "Anna-Katharina Praetorius (2018)": "Anna-Katharina Praetorius, 2018",
+    "Anna-Katharina Praetorius, 2018": "Anna-Katharina Praetorius, 2018",
     "Anne Hickling-Hudson (2000)": "Anne Hickling-Hudson, 2000",
     "Anne Hickling-Hudson, 2000": "Anne Hickling-Hudson, 2000",
     "Anne Schneider & Helen Ingram (1997)": "Anne Schneider & Helen Ingram, 1997",
@@ -5254,6 +5256,8 @@
     "Clarke, 2022": "Clarke, 2022",
     "Classen et al. (2007)": "Classen et al., 2007",
     "Classen et al., 2007": "Classen et al., 2007",
+    "Claus H. Carstensen (2011)": "Claus H. Carstensen, 2011",
+    "Claus H. Carstensen, 2011": "Claus H. Carstensen, 2011",
     "Clauset et al. (2009)": "Clauset et al., 2009",
     "Clauset et al. (2015)": "Clauset et al., 2015",
     "Clauset et al., 2009": "Clauset et al., 2009",
@@ -16841,6 +16845,8 @@
     "Marcussen & Kaspersen, 2007": "Marcussen & Kaspersen, 2007",
     "Marder & Walkington (2010)": "Marder & Walkington, 2010",
     "Marder & Walkington, 2010": "Marder & Walkington, 2010",
+    "Mareike Kunter (2011)": "Mareike Kunter, 2011",
+    "Mareike Kunter, 2011": "Mareike Kunter, 2011",
     "Maren Elfert (2023)": "Maren Elfert, 2023",
     "Maren Elfert, 2023": "Maren Elfert, 2023",
     "Marengo et al. (2025)": "Marengo et al., 2025",
@@ -20943,6 +20949,8 @@
     "Pozzi, 2023": "Pozzi, 2023",
     "Prabandari et al. (2020)": "Prabandari et al., 2020",
     "Prabandari et al., 2020": "Prabandari et al., 2020",
+    "Praetorius et al. (2018)": "Praetorius et al., 2018",
+    "Praetorius et al., 2018": "Praetorius et al., 2018",
     "Prager (1944)": "Prager, 1944",
     "Prager, 1944": "Prager, 1944",
     "Prah & Burnett (2007)": "Prah & Burnett, 2007",
@@ -37223,6 +37231,21 @@
       "seen_in": [
         "wiki/concepts/sociology-of-education/Opportunist Mode.md",
         "wiki/theories/sociology-of-education/Culture as Toolkit.md"
+      ],
+      "title": ""
+    },
+    "Anna-Katharina Praetorius, 2018": {
+      "aliases": [
+        "Anna-Katharina Praetorius, 2018",
+        "Anna-Katharina Praetorius (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Anna-Katharina Praetorius, 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/instruction-pedagogy/Three Basic Dimensions of Teaching Quality.md"
       ],
       "title": ""
     },
@@ -68496,6 +68519,21 @@
       ],
       "title": ""
     },
+    "Claus H. Carstensen, 2011": {
+      "aliases": [
+        "Claus H. Carstensen, 2011",
+        "Claus H. Carstensen (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Claus H. Carstensen, 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/instruction-pedagogy/Three Basic Dimensions of Teaching Quality.md"
+      ],
+      "title": ""
+    },
     "Clauset et al., 2009": {
       "aliases": [
         "Clauset et al., 2009",
@@ -89442,8 +89480,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/educational-philosophy/Popper's Three Worlds Theory.md",
-        "wiki/theories/educational-philosophy/Radical Constructivism.md",
-        "wiki/theories/instruction-pedagogy/Process-Product Paradigm.md"
+        "wiki/theories/educational-philosophy/Radical Constructivism.md"
       ],
       "title": ""
     },
@@ -112664,7 +112701,8 @@
       "isbn": "9780415690157",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md",
-        "wiki/arguments/journal-articles/Nordic Psychology/Argument_Nielsen_2021_NordPsych.md"
+        "wiki/arguments/journal-articles/Nordic Psychology/Argument_Nielsen_2021_NordPsych.md",
+        "wiki/concepts/competency-and-assessment/Success Criteria.md"
       ],
       "title": "Visible Learning for Teachers: Maximizing Impact on Learning"
     },
@@ -152992,6 +153030,21 @@
       ],
       "title": ""
     },
+    "Mareike Kunter, 2011": {
+      "aliases": [
+        "Mareike Kunter, 2011",
+        "Mareike Kunter (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Mareike Kunter, 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/instruction-pedagogy/Three Basic Dimensions of Teaching Quality.md"
+      ],
+      "title": ""
+    },
     "Maren Elfert, 2023": {
       "aliases": [
         "Maren Elfert, 2023",
@@ -183094,6 +183147,21 @@
       "seen_in": [],
       "title": "The effect of physical activity on the academic achievement in primary school students: Meta-analysis."
     },
+    "Praetorius et al., 2018": {
+      "aliases": [
+        "Praetorius et al., 2018",
+        "Praetorius et al. (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Praetorius et al., 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/instruction-pedagogy/Three Basic Dimensions of Teaching Quality.md"
+      ],
+      "title": ""
+    },
     "Prager, 1944": {
       "aliases": [
         "Prager, 1944",
@@ -201735,7 +201803,8 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md",
         "wiki/concepts/educational-policy-reform/Class Size.md",
-        "wiki/persons/germany/Tina Seidel.md"
+        "wiki/persons/germany/Tina Seidel.md",
+        "wiki/theories/instruction-pedagogy/Process-Product Paradigm.md"
       ],
       "title": "Teaching Effectiveness Research in the Past Decade: The Role of Theory and Research Design in Disentangling Meta-Analysis Results"
     },

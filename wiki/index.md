@@ -2478,7 +2478,7 @@ Total entries: **5590**
 > - [[Process-Product Paradigm]] — 20世纪下半叶经验教学研究的统治性范式，将教师课堂可观察行为作为过程变量，将学生标准化测验成绩作为结果变量，通过统计相关与实验干预确立有效教学法则；它构成了《可见的学习》的底层认识论母体，因其对不可测育人维度的系统性排斥而饱受路灯效应批判。
 > - [[Social Interdependence Theory]] — 由 Kurt Lewin 开创、Morton Deutsch 奠基、David & Roger Johnson 系统化发展的社会心理学与教学理论。该理论主张个体的目标实现结构决定了其互动模式：积极互赖激发促进性互动，消极互赖激发阻碍性互动，无互赖导致个体孤立，从而奠定了合作学习的根本机制基础。
 > - [[Teaching Theory of Gruschka]] — Andreas Gruschka (2009, 2013, 2019) 的教学理论，将教学行动理解为 Bildung、Erziehung and Didaktik 三者交织的整合性星座，以 Adorno 的星座概念为其非同一性结构的哲学基础
-> - [[Three Basic Dimensions of Teaching Quality]] — 德国实证教学研究提出的课堂教学深层结构分析框架，将教学质量提炼为有效班级管理、认知激活与建设性支持三大普适维度。
+> - [[Three Basic Dimensions of Teaching Quality]] — 德语区实证教学研究提出的课堂教学深层结构分析框架，将教学质量提炼为有效班级管理、认知激活与建设性支持三大功能互补的深层维度。
 > - [[Three Levels of Teaching]] — 一种教学理论框架，依据教师把学习结果归因于学生特征、教师行为还是完整教学系统，区分三个递进的教学观层次。
 > - [[TRIZ]] — 由阿奇舒勒创立的算法化发明问题解决理论体系，主张技术与心智系统的演化遵循客观规律，通过识别并消除系统内在矛盾（技术与物理矛盾）、应用 40 条通用发明原理与理想最终解（IFR）启发式，系统克服思维定势并实现高阶创新。
 

@@ -8,10 +8,10 @@ aliases:
 summary: "伴随学习意图向学生显性呈现的具体质性表现指标、证据特征与进阶阶梯，用于判定学生在何种程度上达成了预期的认知理解与能力目标"
 type: concept
 domain: "competency-and-assessment"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 22
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/formative-assessment
   - theme/instruction
@@ -190,7 +190,7 @@ updated: 2026-11-24
 >
 > | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Hattie (2009 / MetaX 2023) | 0.64 | — | Cohen's $d$ / 二阶综合 | $M = 2$；$E = 163$；$k = 163$；$N = —$ | 干预因素：明晰成功标准对学业成就的二阶干预效应 | — | 纳入自我评价标准设定与成功概览两项元分析，效应达显著加速级别 |
+> | Hattie (2009 / MetaX 2023) | <span class="mx-bar ef-bar" title="Cohen's d 0.64"><span class="b13"></span></span>0.64 | — | Cohen's $d$ / 二阶综合 | $M = 2$；$E = 163$；$k = 163$；$N = —$ | 干预因素：明晰成功标准对学业成就的二阶干预效应 | — | 纳入自我评价标准设定与成功概览两项元分析，效应达显著加速级别 |
 
 ---
 
