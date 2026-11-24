@@ -7,7 +7,7 @@ aliases:
 summary: "围绕 John Hattie Visible Learning 展开的批评谱系，集中讨论效应量排名、元-元分析、教学理论、教育哲学、可见性政治和商业化政策扩张等争议。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 183
+related_count: 189
 related_level: 18
 related_stars: "💎💎💎💎💎💎"
 related_color: "#ddd6fe"
@@ -54,6 +54,7 @@ related_concepts:
   - "[[Whole Language]]"
   - "[[Direct Instruction]]"
   - "[[Study Population and Sample]]"
+  - "[[Teacher Expectations]]"
   - "[[Variable]]"
   - "[[Homophily]]"
   - "[[Sampling Error]]"
@@ -93,6 +94,7 @@ related_concepts:
   - "[[The Sublime]]"
   - "[[Alienation]]"
   - "[[Cultural Capital]]"
+  - "[[Teacher as Activator]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Value Neutrality]]"
   - "[[Big Science]]"
@@ -113,10 +115,11 @@ related_concepts:
   - "[[Global Education Reform Movement]]"
   - "[[Sage]]"
   - "[[Structural Coupling]]"
+  - "[[Implementation Fidelity]]"
   - "[[Preregistration]]"
   - "[[International Schools]]"
-  - "[[Construct]]"
-  - "[[Critic and Conscience of Society]]"
+  - "[[Epistemic Governance]]"
+  - "[[Streetlight Effect]]"
   - "[[Formative Assessment]]"
 related_theories:
   - "[[Radical Constructivism]]"
@@ -166,6 +169,7 @@ related_persons:
   - "[[Peter Sloterdijk]]"
   - "[[Basil Bernstein]]"
   - "[[Roy Nash]]"
+  - "[[Ewald Terhart]]"
   - "[[Pierre-Jérôme Bergeron]]"
 related_facts:
   - "[[Visible Learning Branding and Global Influences]]"
@@ -179,7 +183,6 @@ related_facts:
   - "[[Corwin Press]]"
   - "[[Cognition Education]]"
 related_arguments:
-  - "[[Argument_Brugelmann_2014_LocalPractice]]"
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Bergeron_2017_MJE]]"
@@ -190,8 +193,10 @@ related_arguments:
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Grace_2010_NZJES]]"
   - "[[Argument_Eacott_2019_IJLE]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
   - "[[Argument_McKnight_2020_Discourse]]"
   - "[[Argument_Bates_2017_CognitionEducationTrust]]"
+  - "[[Argument_ONeill_2016_Report]]"
   - "[[Argument_OConnor_2020_AJLL]]"
   - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Allerup_2015_Paideia]]"
@@ -200,9 +205,10 @@ related_arguments:
   - "[[Argument_Cowen_2019_ERE]]"
   - "[[Argument_Eacott_2017_SLM]]"
   - "[[Argument_ONeill_2012_NZJES]]"
-  - "[[Argument_ONeill_2016_Report]]"
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
   - "[[Argument_Knudsen_2017_NordSTEP]]"
+  - "[[Argument_Brugelmann_2014_LocalPractice]]"
+  - "[[Argument_Koller_2014_WhatWorks]]"
   - "[[Argument_Nielsen_2021_NordPsych]]"
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
@@ -210,7 +216,7 @@ related_instruments:
 confidence: medium
 status: stable
 created: 2026-05-21
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 
 > [!tip] 知识网络与批评条目维护分流指引
@@ -321,7 +327,7 @@ updated: 2026-11-24
 > | 分析维度 | 汇总量化数值 | 细分层级的真实情况 | 对实践与政策的误导 |
 > |---|---|---|---|
 > | **家庭作业的学段差异** | 总体效应量：<br>$d=0.29$（排第 88 名） | 小学生课外作业：<br>$d=0.15$<br>高中生课外作业：<br>$d=0.64$ | 高中作业若单独列出可排在全书第 17 名；笼统的单一平均值容易诱导政策制定者全盘否定作业价值，或在小学阶段盲目推行。同时抹杀了数学（高效应）与科学、社会科（低效应）的学科差异。 |
-> | **期望效应分水岭** | 将 $d=0.40$ 设定为有效与平庸的分水岭（Zone of Desired Effects） | 该数值只是纳入的 138 项影响因素的**简单平均值** | 制造出如同物理仪器测量般的科学假象，实际上毫无客观基准，只要后续加入新[[Variable\|变量]]，该分水岭就会发生浮动。 |
+> | **[[Teacher Expectations\|期望效应]]分水岭** | 将 $d=0.40$ 设定为有效与平庸的分水岭（Zone of Desired Effects） | 该数值只是纳入的 138 项影响因素的**简单平均值** | 制造出如同物理仪器测量般的科学假象，实际上毫无客观基准，只要后续加入新[[Variable\|变量]]，该分水岭就会发生浮动。 |
 > | **数据库的机械追加** | Metax 扩充至逾 2,100 项元分析、350 项影响因素 | 均值稀释效应：新增重要研究在庞大分母中影响微弱 | 缺乏淘汰陈旧、低质或被推翻研究的清洗机制，只是新旧数据不加甄别的机械堆积。 |
 
 ---
@@ -626,7 +632,7 @@ updated: 2026-11-24
 > - **反馈链条的集权化规训重构** 反馈机制在实践中被重塑为层级化的计算规训体系：学生 $\to$ 教师 $\to$ 年级团队 $\to$ 校长 $\to$ 市政当局 $\to$ 国家教育部。自下而上层层上收量化数据，反向确认并强制推行中央行政机关预设的标准化绩效目标，使教育的启蒙性转变为行政系统的控制工具。
 
 > [!critique-logic] 先验意识形态立场与次级文献的选择性审查（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, pp. 149–150]]）
-> - **尊崇直接教学与排斥探究方法** 哈蒂将教师机械划分为作为激活者的教师（基于直接教学）与作为促进者的教师（[[Inquiry-Based Learning|探究学习]]、小班化、全语言），并对后者抱有明确的理论敌意。
+> - **尊崇直接教学与排斥探究方法** 哈蒂将教师机械划分为作为[[Teacher as Activator|激活者]]的教师（基于直接教学）与作为促进者的教师（[[Inquiry-Based Learning|探究学习]]、小班化、全语言），并对后者抱有明确的理论敌意。
 > - **排除校外结构性变量** 哈蒂自述将阶级、贫困、家庭资源与健康营养排除在轨道之外，并将减少班级规模与改善学校基础设施的公共投资蔑称为干扰政治（Politics of Distraction）。
 > - **选择性修正的单向偏倚** 这种先验立场直接驱动了数据处理，在全语言阅读教学中唯一发生的选择性删除正向研究以压低效应量操作，完全契合其预设理论偏好。
 
@@ -837,7 +843,7 @@ updated: 2026-11-24
 
 > [!dev-timeline] 对可见学习批评的四个演进阶段
 > - **2009–2010 年 — 起源反弹与政策警示期** 《[[Visible Learning|可见的学习]]》出版同年，新西兰梅西大学[[Ivan Snook|伊万·斯努克]]（Ivan Snook）领衔的批判团队（[[Argument_Snook_2009_NZJES\|Snook et al., 2009]]）即从[[Meta-meta-analysis|二阶元分析]]缺乏底层质控导致粗糙输入诱发荒谬输出（GIGO）、0.40 截断值主观武断（医学阿司匹林 $d=0.07$ 反例）、单一均值抹杀学段学科差异，以及援引[[Roy Nash|罗伊·纳什]]（Roy Nash）与 Richard Harker et al. 方差分解证实 70%–80% 差异取决于家庭背景等维度系统敲响警钟，严厉警示宏观数据被滥用为削减生均投入与转嫁问责的危险；[[Argument_Grace_2010_NZJES\|Grace (2010)]] 从学者社会良知出发批判其排除贫困与社会不平等，预示了方法论与社会学批判的基本分野。
-> - **2011–2016 年 — 德语学理深化与逐步技术审计期** 德国教学论学界（[[Argument_Terhart_2011_JCS\|Terhart, 2011]]; [[Argument_Terhart_2014_HolyGrail\|Terhart, 2014]]; [[Argument_Koller_2014_WhatWorks\|Köller, 2014]]; [[Argument_Brugelmann_2014_LocalPractice\|Brügelmann, 2014]]）对二阶元分析开展了系统反思与实证审读，布吕格尔曼从均值陷阱、课程测不准原理与实施保真度缺失系统解构教学法内容中立性神话；随后 [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] 开展了长达 6 步的全面统计技术审计，从[[Fixed-Effect Model\|固定效应]]违反、加权缺失到方差失控，实证判定该方法在科学上不可行。
+> - **2011–2016 年 — 德语学理深化与逐步技术审计期** 德国教学论学界（[[Argument_Terhart_2011_JCS\|Terhart, 2011]]; [[Argument_Terhart_2014_HolyGrail\|Terhart, 2014]]; [[Argument_Koller_2014_WhatWorks\|Köller, 2014]]; [[Argument_Brugelmann_2014_LocalPractice\|Brügelmann, 2014]]）对二阶元分析开展了系统反思与实证审读，布吕格尔曼从均值陷阱、课程测不准原理与[[Implementation Fidelity|实施保真度]]缺失系统解构教学法内容中立性神话；随后 [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] 开展了长达 6 步的全面统计技术审计，从[[Fixed-Effect Model\|固定效应]]违反、加权缺失到方差失控，实证判定该方法在科学上不可行。
 > - **2017–2020 年 — 数理统计审计、政治哲学批判与新泰勒制解构期** 加拿大统计学者伯杰龙与里瓦尔（[[Argument_Bergeron_2017_MJE\|Bergeron & Rivard, 2017]]）发表系统数理审计，受控模拟证实三类合法公式对同一数据得出完全相反排名，揭示普通语言[[Effect Size|效应量]]负概率与相关换算数学爆炸，将该体系定性为违背数理统计公理的违背数理统计公理的伪科学构架；同时丹麦与澳洲学者转向哲学与微观权力批判：[[Argument_Rømer_2018_EPT\|Rømer (2018)]] 论证评价理论殖民教育理论，[[Argument_Larsen_2019_EducSci\|Larsen (2019)]] 指出可见性遮蔽了不可见的深层育人价值；[[Argument_Eacott_2019_IJLE\|Eacott (2019)]] 与 [[Argument_McKnight_2020_Discourse\|McKnight and Whitburn (2020)]] 揭露[[Cult of the Guru|大师崇拜]]与新泰勒制监控；[[Argument_OConnor_2020_AJLL\|O'Connor (2020)]] 通过[[Whole Language|全语言]]案例实证揭露先验立场对数据提取的扭曲。
 > - **2021–2026 年 — 深度意识形态解构与[[Metascience|元科学]]可复现性审计期** 批判深化为整体性科学划界与实证审计：Nielsen and Klitmøller (2021) 揭示[[Technical Rationality|技术理性]]满足[[Legitimation Crisis|合法化危机]]；[[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] 系统运用[[Cargo Cult Science|货物崇拜科学]]、[[Neo-Taylorism|新泰勒主义]]、简单算术平均与商业利益追踪实施四位一体解构；[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] 开展首个[[Preregistration|预注册]]元科学全库审计，以不足 1% 的数据复现率在实证上彻底确立了其不可作为决策依据的定论。
 
@@ -928,13 +934,13 @@ updated: 2026-11-24
 > | 知识模块 | 条目 | 类型 | 关系与维护定位（分流维护指引） |
 > |:---|:---|:---|:---|
 > | **批评总揽与全景枢纽** | [[Critiques of Visible Learning]] | 概念 | 本条目；系统梳理针对 VL 的学理批评全景，梳理六条批评线索、关键文献论战演进与辩护回应；全局批评脉络维护于此。 |
-> | **元分析方法学纯学理批判** | [[Critique of Meta-analysis]] | 概念 | 元分析方法论批判；系统梳理二级元分析在效应量合并、异质性丢失、发表偏倚与算法黑箱维度的纯方法学批判；纯统计学缺陷维护于此。 |
+> | **元分析方法学纯学理批判** | [[Critique of Meta-analysis]] | 概念 | 元分析方法论批判；系统梳理二级元分析在效应量合并、异质性丢失、[[Publication Bias\|发表偏倚]]与算法黑箱维度的纯方法学批判；纯统计学缺陷维护于此。 |
 > | **科学哲学与划界批判** | [[Cargo Cult Science]] | 概念 | 货物崇拜科学；从费曼科学哲学视角解构 VL 具备复杂图表与庞大数字外壳，却隐藏计算公式、缺乏可错论求真诚意与回避学术[[Falsification\|证伪]]的伪科学特征；科学哲学划界批判分流维护于此。 |
 > | **劳动过程与全景监控** | [[Neo-Taylorism]] | 概念 | 新泰勒主义；批判 VL 将育人复杂劳动拆解为标准化动作清单、依托量化气压计剥夺[[Teacher Professional Agency\|教师专业能动性]]并推行行政全景监控的劳动过程理论；管理规训批判分流维护于此。 |
-> | **明星学术与权威盲从** | [[Cult of the Guru]] | 概念 | 大师崇拜；批判教育行政系统与专业协会对学术明星及其商业处方的盲目追捧与教条化信仰现象；知识治理异化批判分流维护于此。 |
+> | **明星学术与权威盲从** | [[Cult of the Guru]] | 概念 | 大师崇拜；批判教育行政系统与专业协会对学术明星及其商业处方的盲目追捧与教条化信仰现象；[[Epistemic Governance\|知识治理]]异化批判分流维护于此。 |
 > | **治理异化与职业倦怠** | [[Performativity]] | 概念 | 表演性；批判量化指标如何迫使教师陷入伪造合规证据、白板板书形式化打卡与应付外部审查的职业倦怠；主体性异化批判分流维护于此。 |
 > | **教学系统矛盾与理论困境** | [[Stability vs. Variability Dilemma]] | 理论 | 稳定性与变异性双重困境；揭示标准化干预清单在应对复杂生动课堂情境时的理论悖论；教学情境变异性理论维护于此。 |
-> | **普通教学论对话与形式主义反思** | [[Ewald Terhart]] | 人物 | 德国教学论学者；从欧陆普通教学论、教化传统与“路灯效应”反思可见学习的形式主义与技术理性局限；欧陆教学论对话网络维护于此。 |
+> | **普通教学论对话与形式主义反思** | [[Ewald Terhart]] | 人物 | 德国教学论学者；从欧陆普通教学论、教化传统与“[[Streetlight Effect\|路灯效应]]”反思可见学习的形式主义与技术理性局限；欧陆教学论对话网络维护于此。 |
 > | **数理统计与二阶元分析审计** | [[Pierre-Jérôme Bergeron]] | 人物 | 渥太华大学生物统计学者；系统揭示二阶元分析初等概率计算错误、比较基线主观反转、受控三公式矛盾排名与相关换算极值爆炸；数理统计审计成果与学术网络维护于此。 |
 > | **商业化与政商利益网络** | [[Visible Learning Branding and Global Influences]] | 事实 / 事件 | 记录 VL 从学术成果异化为 VLplus 商业专营品牌、[[Corwin Press\|考文出版社]]收购、认证培训垄断、新西兰/澳大利亚/丹麦等国官方政策采纳及学者高额版税收益事实；**商业运作、版税利益追踪与跨国政策扩散事实统一分流维护于此**。 |
 > | **测量与评估工具原型** | [[Assessment Tools for Teaching and Learning]] | 测量工具 | asTTle 计算机评估系统；Hattie 主持开发的新西兰国家[[Formative Assessment\|形成性评估]]工具，其界面直接衍生出 VL 标志性的气压计图表；测评工具构念与管理功能维护于此。 |

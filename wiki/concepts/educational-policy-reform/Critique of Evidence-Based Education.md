@@ -6,7 +6,7 @@ aliases:
 summary: "围绕证据本位教育（EBE）的认识论前提、方法论基础、实施效果和政治后果形成的多维度批评体系，涵盖民主缺陷、三重缺陷框架、方法论批评、制度政治批评及综合批判框架"
 type: concept
 domain: "educational-policy-reform"
-related_count: 96
+related_count: 99
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Positivism]]"
   - "[[Professional Judgment]]"
+  - "[[Instrumental Rationality]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
   - "[[Interpretive Paradigm]]"
@@ -44,6 +45,8 @@ related_concepts:
   - "[[Recommendations for Practice]]"
   - "[[Champ]]"
   - "[[New Public Management]]"
+  - "[[Implementation Fidelity]]"
+  - "[[Practical Epistemology]]"
   - "[[Clinical Trial]]"
   - "[[Alienation]]"
   - "[[Bureaucracy]]"
@@ -74,13 +77,13 @@ related_methods:
   - "[[Non-intervention Research]]"
   - "[[Experimental Research]]"
   - "[[Intervention Research]]"
+  - "[[Case Study]]"
   - "[[Systematic Review]]"
   - "[[Pre-test and Post-test]]"
   - "[[Ethnography]]"
   - "[[Qualitative Content Analysis]]"
   - "[[Participant Observation]]"
   - "[[In-depth Interview]]"
-  - "[[Case Study]]"
   - "[[Process Tracing]]"
   - "[[Elite Interview]]"
 related_persons:
@@ -93,7 +96,6 @@ related_facts:
   - "[[Education Endowment Foundation]]"
 related_arguments:
   - "[[Argument_Biesta_2010_SPE]]"
-  - "[[Argument_Brugelmann_2014_LocalPractice]]"
   - "[[Argument_Helgetun_2022_JEdPolicy]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Peterson_2016_IJRME]]"
@@ -107,6 +109,7 @@ related_arguments:
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Berk_2011_EvalRev]]"
   - "[[Argument_Cowen_2015_CHESS]]"
+  - "[[Argument_Brugelmann_2014_LocalPractice]]"
   - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
   - "[[Argument_McKnight_2020_Discourse]]"
   - "[[Argument_Bainbridge_2022_ROE]]"
@@ -120,7 +123,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-14
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 
 ---
@@ -134,7 +137,7 @@ updated: 2026-11-24
 > - **边界** 批判核心在于反思证据等级的单维度垄断、因果推论的跨情境过度外推以及行政清单对[[Professional Judgment\|专业判断]]的侵蚀，而非反对量化统计方法本身或否定实证研究对教育决策的启示价值。
 
 > [!citation-card] 民主缺陷与价值追问
-> 循证教育将教育实践的核心问题从“什么是教育上值得追求的”缩减为“什么在技术上有效”，从而以技术官僚的工具理性取代了公共教育的民主价值协商。[[Argument_Biesta_2010_SPE\|(Biesta, 2010, p. 494)]]
+> 循证教育将教育实践的核心问题从“什么是教育上值得追求的”缩减为“什么在技术上有效”，从而以技术官僚的[[Instrumental Rationality|工具理性]]取代了公共教育的民主价值协商。[[Argument_Biesta_2010_SPE\|(Biesta, 2010, p. 494)]]
 >
 > *Evidence-based education reduces the fundamental question of education from 'what is educationally desirable' to 'what is technically effective', thereby replacing democratic deliberation with technocratic instrumentalism.*
 
@@ -237,7 +240,7 @@ updated: 2026-11-24
 > **课堂转化的结构性障碍与黑箱机制** 学校无法“开箱即用”地直接套用证据清单，一线教学始终伴随高度情境化的调适与再发明；缺乏对底层因果机制的理解，机械照搬 Toolkit 效应量无法指导复杂的课堂生成性互动，[[New Public Management\|新公共管理]]式的强制推行反而引发一线阻抗。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 12–18)]]; [[Argument_Nordahl_2015_Paideia\|(Nordahl, 2015, pp. 63–67)]]
 
 > [!claim] [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014)]]
-> **均值陷阱、课程测不准原理与循证医学本义回归** 大样本统计均值无法直接导出指导微观课堂的确定性行动方案；将宏观比较优势硬性折算为教学禁令会陷入“均值陷阱”（Durchschnittsfalle），忽视干预内部极高的效应离散度与实施保真度差异。依据鲍尔斯费尔德的“课程测不准原理”，宏观全景视界与微观细节特写存在不可调和的尺度张力；同时，教育学对循证医学的移植严重背离了萨克特（David Sackett）的原初定义，后者明确将临床专长与患者价值观置于同外部证据平等的对等地位，唯有以教师为实验伙伴、以累积性个案研究为试金石，方能实现实践认识论回归。[[Argument_Brugelmann_2014_LocalPractice|(Brügelmann, 2014, pp. 38–47)]]
+> **均值陷阱、课程测不准原理与循证医学本义回归** 大样本统计均值无法直接导出指导微观课堂的确定性行动方案；将宏观比较优势硬性折算为教学禁令会陷入“均值陷阱”（Durchschnittsfalle），忽视干预内部极高的效应离散度与[[Implementation Fidelity|实施保真度]]差异。依据鲍尔斯费尔德的“课程测不准原理”，宏观全景视界与微观细节特写存在不可调和的尺度张力；同时，教育学对循证医学的移植严重背离了萨克特（David Sackett）的原初定义，后者明确将临床专长与患者价值观置于同外部证据平等的对等地位，唯有以教师为实验伙伴、以累积性[[Case Study|个案研究]]为试金石，方能实现[[Practical Epistemology|实践认识论]]回归。[[Argument_Brugelmann_2014_LocalPractice|(Brügelmann, 2014, pp. 38–47)]]
 
 > [!claim] [[Argument_Zhao_2017_JEC\|Zhao (2017)]]
 > **临床副作用盲点与多元教育价值挤压** EBE 照搬了医学[[Clinical Trial\|临床试验]]的干预概念，却系统性遗漏了医学对“副作用”的严密监测机制；任何教育干预在提升某一特定测验分数的同时，必然挤压非测验学科时间、增加师生焦虑或损害创新灵性，将教育简化为单一指标的局部最优会造成整体生态恶化。[[Argument_Zhao_2017_JEC\|(Zhao, 2017, pp. 2–5)]]

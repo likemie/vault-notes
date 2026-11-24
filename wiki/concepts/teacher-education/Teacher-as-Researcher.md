@@ -7,10 +7,10 @@ aliases:
 summary: "由Stenhouse开创并经复杂性理论深化的教育研究范式，主张教师从知识消费者转向自身实践的知识生产者，在复杂自组织教育生态中与外部研究者形成共生探究网络。"
 type: concept
 domain: "teacher-education"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - research-methodology
   - action-research
@@ -47,6 +47,7 @@ related_methods:
   - "[[Action Research]]"
   - "[[Emancipatory Action Research]]"
   - "[[Participatory Action Research]]"
+  - "[[Case Study]]"
   - "[[Classroom Observation]]"
   - "[[Qualitative Research]]"
 related_persons:
@@ -55,16 +56,16 @@ related_persons:
   - "[[Paulo Freire]]"
   - "[[Stephen Kemmis]]"
 related_arguments:
-  - "[[Argument_Brugelmann_2014_LocalPractice]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
+  - "[[Argument_Brugelmann_2014_LocalPractice]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_facts:
   - "[[Chinese Academy of Sciences]]"
 confidence: high
 status: active
 created: 2026-07-19
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 
 ---
@@ -116,7 +117,7 @@ updated: 2026-11-24
 > - **前提一** 真实的教育情境充满独特性、不确定性与价值冲突，通用性的外部理论无法直接剪裁具体课堂的复杂挑战。
 > - **前提二** 教师在日常工作中积累了丰厚的[[Tacit Knowledge|默会知识]]，最能够敏锐洞察教学中的实质问题。
 > - **机制** 教师遵循怀特海德（Jack Whitehead, 1985）的自我反思循环——“我面临的问题是什么、我构想的解决途径是什么、我如何付诸实施并系统收集证据评估效能”，使反思从偶然的情感宣泄转化为严谨的经验[[Chain of Evidence\|证据链]]。
-> - **结论** 教师通过探究不仅解决了具体的教学难题，更提炼出扎根于本土情境的实践性理论（Living Educational Theory），确立了教师自身的学术与专业权威。汉斯·布吕格尔曼（Hans Brügelmann）进一步指出，一线实践经验与累积性个案研究直接构成检验宏观统计概率假说能否在具体课堂经受考验的试金石，由此确立了实践探究裁决外部理论假设的独立地位。[[Argument_Brugelmann_2014_LocalPractice|(Brügelmann, 2014, p. 46)]]
+> - **结论** 教师通过探究不仅解决了具体的教学难题，更提炼出扎根于本土情境的实践性理论（Living Educational Theory），确立了教师自身的学术与专业权威。汉斯·布吕格尔曼（Hans Brügelmann）进一步指出，一线实践经验与累积性[[Case Study|个案研究]]直接构成检验宏观统计概率假说能否在具体课堂经受考验的试金石，由此确立了实践探究裁决外部理论假设的独立地位。[[Argument_Brugelmann_2014_LocalPractice|(Brügelmann, 2014, p. 46)]]
 
 > [!concept-proposition] 命题二｜[[Complexity Theory|复杂适应系统]]的自组织本质要求构建内外部研究者的共生伙伴网络
 
