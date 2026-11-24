@@ -48,7 +48,7 @@ updated: 2026-11-24
 > - **边界** 区别于全面松散关联系统与高度一体化的完整科层组织，特指纵向科层强化与横向领域脱钩共存的混合型态。
 
 > [!citation-card|notitle] 核心界定
-> 尽管纵向科层治理被预期带来更紧密耦合的组织结构，但案例大学所展现的实则是解耦型大学官僚制的涌现——该官僚制拥有自身独特的专业规范、价值观念以及对大学运转逻辑的理解。大学领导层被寄予厚望去补偿行政管理系统与学术活动之间的脱钩，却往往缺乏有效实施协调的组织能力。[[Argument_Maassen_Stensaker_2019_HEQ|(Maassen & Stensaker, 2019, p. 466)]]
+> 尽管纵向科层治理被预期带来更紧密整合的组织结构，但案例大学所展现的实则是解耦型大学官僚制的涌现——该官僚制拥有自身独特的专业规范、价值观念以及对大学运转逻辑的理解。大学领导层被寄予厚望去补偿行政管理系统与学术活动之间的脱钩，却往往缺乏有效实施协调的组织能力。[[Argument_Maassen_Stensaker_2019_HEQ|(Maassen & Stensaker, 2019, p. 466)]]
 >
 > *While hierarchic governance is expected to result in more tightly coupled organisations, what we have observed in our case universities is the emergence of a de‐coupled university bureaucracy with its own professional norms, values and understandings of the functioning of universities. University leadership and management are expected to ‘compensate’ for the de‐coupling of the university administration from its academic activities, but might lack the capacity to do so effectively.*
 
@@ -88,7 +88,7 @@ updated: 2026-11-24
 > [!concept-proposition] 命题一｜大学内部科层治理强化优先驱动行政支持系统的专门化而非全校协同
 > **行政理性化局限** 在欧洲大陆与澳洲公立研究型大学的治理变革中，旨在提升机构战略行动力的科层化举措首要在行政后勤与管理监控层面落实，促成行政人员专业化与规则密集化，但未能自然带来院系教学科研基层的紧密整合。
 
-> [!claim] Maassen and Stensaker (2019)
+> [!claim] [[Argument_Maassen_Stensaker_2019_HEQ|Maassen and Stensaker (2019)]]
 > **科层强化引发横向脱钩** 大学内部治理层级的强化伴随着管理与行政专业化、形式化和标准化，但这些变革很大程度上独立于学术活动的组织逻辑展开；结果导致行政专门化同维持教学科研生产力所需的自适应性和灵活性之间产生张力，形成解耦型大学官僚制。[[Argument_Maassen_Stensaker_2019_HEQ|(Maassen & Stensaker, 2019, pp. 465–466)]]
 
 ---
@@ -96,7 +96,7 @@ updated: 2026-11-24
 > [!concept-proposition] 命题二｜数字化管理工具与专业化分工往往加剧部门间横向整合阻碍
 > **技术系统割裂机制** 各职能行政部门引入的数字化管理平台通常缺乏横向互通设计，使行政专业化演变为跨部门沟通壁垒，削弱了大学开展跨学科战略行动的实际效能。
 
-> [!claim] Maassen and Stensaker (2019)
+> [!claim] [[Argument_Maassen_Stensaker_2019_HEQ|Maassen and Stensaker (2019)]]
 > **技术壁垒与跨学科阻力** 新型数字化信息与管理系统无法实现跨系统顺畅交互，导致各行政部门成为数据与程序孤岛；院系在尝试推进跨学科科研与教学合作时，必须花费高昂成本穿越相互冲突的行政报销、考核与人事系统，反而抑制了学术创新活力的释放。[[Argument_Maassen_Stensaker_2019_HEQ|(Maassen & Stensaker, 2019, pp. 463–464)]]
 
 ---
@@ -104,8 +104,8 @@ updated: 2026-11-24
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **行政理性化局限** | 科层管理强化主要塑造行政领域的独立性，难以改变基层学术逻辑 | 公立研究型大学的新公共管理改革 | Maassen and Stensaker (2019) |
-> | **技术系统割裂机制** | 专门化行政工具与数字系统加剧部门间横向协调困境 | 推行全面绩效评估与数字管理系统的高校 | Maassen and Stensaker (2019) |
+> | **行政理性化局限** | 科层管理强化主要塑造行政领域的独立性，难以改变基层学术逻辑 | 公立研究型大学的新公共管理改革 | [[Argument_Maassen_Stensaker_2019_HEQ\|Maassen and Stensaker (2019)]] |
+> | **技术系统割裂机制** | 专门化行政工具与数字系统加剧部门间横向协调困境 | 推行全面绩效评估与数字管理系统的高校 | [[Argument_Maassen_Stensaker_2019_HEQ\|Maassen and Stensaker (2019)]] |
 
 ---
 

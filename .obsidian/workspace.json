@@ -302,6 +302,8 @@
   },
   "active": "3643ff474ee79da9",
   "lastOpenFiles": [
+    "s4_s5_full.txt",
+    "tmp_paper_text.txt",
     "output/related-updates/Argument_Koller_2014_WhatWorks-fe630fcc/batch-006/result.json",
     "section4_text.txt",
     "output/related-updates/Argument_Koller_2014_WhatWorks-fe630fcc/batch-005/result.json",
@@ -315,9 +317,7 @@
     "output/related-updates/Argument_Koller_2014_WhatWorks-fe630fcc/batch-003/result.json",
     "extracted_paper.txt",
     "output/related-updates/Argument_Koller_2014_WhatWorks-fe630fcc/batch-002/result.json",
-    "output/related-updates/Argument_Koller_2014_WhatWorks-fe630fcc/batch-001/result.json",
     "output/related-updates/Argument_Koller_2014_WhatWorks-fe630fcc/batch-014/prompt.md",
-    "output/related-updates/Argument_Koller_2014_WhatWorks-fe630fcc/batch-014/batch-result.schema.json",
     "output/related-updates/Argument_Koller_2014_WhatWorks-fe630fcc/batch-013/prompt.md",
     "output/related-updates/Argument_Koller_2014_WhatWorks-fe630fcc/batch-012/prompt.md",
     "output/related-updates/Argument_Koller_2014_WhatWorks-fe630fcc/batch-011/prompt.md",

@@ -10,7 +10,7 @@ aliases:
 summary: "以学习者自主生成新知、依托经验证据推论、行使认识能动性并参与共同体批判协商为核心的教学取向，在适切支架与指导协同下对促进概念理解与远迁移显著优于单一直接讲授"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 70
+related_count: 72
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -85,6 +85,7 @@ related_persons:
   - "[[Clark A. Chinn]]"
   - "[[John Hattie]]"
   - "[[Ewald Terhart]]"
+  - "[[Olaf Köller]]"
 related_facts:
   - "[[PISA]]"
   - "[[TIMSS]]"
@@ -98,10 +99,11 @@ related_arguments:
   - "[[Argument_Deng_2016_CE]]"
   - "[[Argument_Gopinathan_2007_GSE]]"
   - "[[Argument_Terhart_2014_HolyGrail]]"
+  - "[[Argument_Koller_2014_WhatWorks]]"
 confidence: high
 status: active
 created: 2026-09-20
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 > [!def] Inquiry-Based Learning
@@ -195,6 +197,9 @@ updated: 2026-11-23
 > [!claim] Gerard & Linn & Homer & Plass
 > **学习者先验知识与[[Executive Function\|执行功能]]的差[[Alienation|异化]]调节** 先验知识匮乏的学生在自主探究中容易迷失，但他们在指导式探究中所获得的指导增益反而显著高于高先验学生；同时，阅读理解、数学基础以及执行功能中的[[Inhibitory Control\|抑制控制]]能力（Inhibitory Control）高度预测了学生在开放虚拟实验中的探究行为与迁移成绩。对于低抑制控制或低学科自我概念的学生，必须在探究中嵌入更高密度的结构化直接指导。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 7–8)]]
 
+> [!claim] Köller
+> **学科事实知识建构的探究边界** 德语区实证教育研究审读表明，探究学习在宏观二阶元分析中仅获得中低效应量（$d = 0.33$）。探究学习在激发学科好奇心、质疑精神与问题意识上具备显著价值；但在缺乏扎实先备知识支持的情境下，单纯探究无法有效稳固建立学科事实性知识。事实知识的夯实与巩固必须结合结构化指导与变式练习，方能避免探究陷入盲目试误的认知困局。[[Argument_Koller_2014_WhatWorks\|(Köller, 2014, pp. 31, 33–34)]]
+
 ---
 
 > [!contrast-table|notitle] 所有命题归纳
@@ -202,7 +207,7 @@ updated: 2026-11-23
 > |---|---|---|---|
 > | **指导协同增益** | 指导式探究在概念理解与迁移上优于单一直接讲授，显性支架防范认知超载，纯发现无效 | 中小学及大学理科概念与实验技能教学、认识论认知干预 | Alfieri et al. (2011); Lazonder and Harmsen (2016); [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 4–5)]]; [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021, pp. 485–486)]] |
 > | **时序动态整合** | 探究与直接讲授在不同节点互补嵌入（前置、即时或生产性失败），决定长效保持 | 科学探究课程单元设计与延迟迁移巩固 | [[Deanna Kuhn\|Dean & Kuhn (2007)]]; [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 8–10)]] |
-> | **目标与特质调节** | 依据教学目标层次、领域先验知识与抑制控制能力动态调整指导强度 | [[Differentiated Instruction\|差异化教学]]与智能化数字探究环境开发 | Frey et al. (2017); Gerard and Linn (2022); Homer and Plass (2014) |
+> | **目标与特质调节** | 依据教学目标层次、领域先验知识与抑制控制能力动态调整指导强度 | [[Differentiated Instruction\|差异化教学]]与智能化数字探究环境开发 | Frey et al. (2017); Gerard and Linn (2022); Homer and Plass (2014); [[Argument_Koller_2014_WhatWorks\|Köller (2014, pp. 31, 33–34)]] |
 
 ---
 
@@ -291,6 +296,13 @@ updated: 2026-11-23
 > - **[[Argument_DeJong_2023_ERR|De Jong et al. (2023, p. 5)]]<br>（引述 Lazonder & Harmsen, 2016） · 干预措施** 证实支架不仅能直接帮助学生顺利完成实验活动，更能直接促进长时记忆中的概念理解
 > - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 结果变量** 认识论认知干预中，显性讲授指导步骤与变量控制支架的探究设计显著优于缺乏支架的开放问题解决与论辩
 
+> [!ma-table]- 二阶元分析结果
+> <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
+>
+> | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Köller (2014)，引自 [[Argument_Koller_2014_WhatWorks\|Köller (2014, p. 31)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.33"><span class="b7"></span></span>0.33 | — | Cohen's $d$ / 二阶综合 | $M = —$；$E = —$；$k = —$；$N = —$ | 干预因素：探究学习对学业成就的二阶干预效应 | — | 德语区实证审读；激发学科兴趣与质疑意识，但在缺乏先备知识支持时事实知识巩固效应有限 |
+
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -321,6 +333,7 @@ updated: 2026-11-23
 > | [[Cognitive Load Theory]] | 理论 | 揭示探究过程中认知负荷的管理规律与支架的使能边界。 |
 > | [[John Hattie]] | 人物 | 在可见学习二阶元分析中量化探究学习效应量（$d = 0.31$）的代表学者。 |
 > | [[Ewald Terhart]] | 人物 | 评析可见学习中探究学习低效应量及其与教师显性指导互补关系的德国教学论学者。 |
+> | [[Olaf Köller]] | 人物 | 评析探究学习二阶效应量（$d = 0.33$）及其在缺乏先备知识时事实知识巩固边界的实证学者。 |
 
 ---
 
@@ -332,4 +345,5 @@ updated: 2026-11-23
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 德国学者对《[[Visible Learning|可见的学习]]》中探究式教学量化综合的计算审计，揭露通过对子研究[[Standard Error|标准误]]取简单算术平均得出伪标准误（$SE = 0.092$）的严重方法学缺陷（p. 30）。
 > - [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]] — 结合芬兰国家评估与 PISA 微观数据，实证检验 1990 年代建构主义大纲落地与学生中心探究教学普及对基础认知表现的负向因果效应，警示过早放弃教师主导讲授的教学风险（pp. 58–63）。
 > - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 结合德译本评述探究学习在二阶元分析中的实证定位（$d = 0.31$），揭示其作为“教师作为促进者”实践相比于“教师作为激活者”（$d = 0.60$）的效能差距，阐明缺乏显性认知激活的探究活动无法突破期望效应阈值（p. 19）。
+> - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 结合德语区实证教育研究审读可见学习，报告探究学习二阶效应量 $d = 0.33$，指出其激发好奇心与质疑精神的优势，以及缺乏先备知识支持时事实知识建构的局限性（pp. 31, 33–34）。
 

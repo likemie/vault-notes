@@ -4,10 +4,10 @@ aliases:
   - "合作学习"
   - "合作性学习"
   - "cooperative learning model"
-summary: "以异质性小组为基本组织形式，依托积极互赖、面对面互动与个体责任协同促进学生学业成就、高阶思维与社会情感发展的社会建构主义教学范式；二阶元分析证实其对多维产出具有稳健促进效应（ES = 0.71），高阶思维赋能最为突出（ES = 0.76），并受具体技术与学科情境显著调节。"
+summary: "以异质性小组为基本组织形式，依托积极互赖、面对面互动与个体责任协同促进学生学业成就、高阶思维与社会情感发展的社会建构主义教学范式；二阶元分析证实其对多维产出具有稳健促进效应（ES = 0.71），在高阶思维技能上的提升最为突出（ES = 0.76），并受具体技术与学科情境显著调节。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 48
+related_count: 49
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -71,10 +71,11 @@ related_facts:
   - "[[Skills Toward Employment and Productivity]]"
 related_arguments:
   - "[[Argument_Gungor_2026_CP]]"
+  - "[[Argument_Koller_2014_WhatWorks]]"
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-11-11
+updated: 2026-11-24
 ---
 
 > [!def] Cooperative Learning
@@ -133,31 +134,34 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题一｜合作学习对学生的[[Academic Achievement|学业成就]]、[[Higher-Order Thinking Skills|高阶思维]]与[[Affective Outcomes|情感行为]]具有稳健的中等促进效应
-> **认知与[[Affective Outcomes\|非认知产出]]的多维协同赋能机制** 考察合作学习在克服单一考试成绩局限后，对认知深度层级（低阶[[Academic Achievement\|学业成就]]与复杂[[Higher-Order Thinking Skills\|高阶思维]]）与非认知情感维度的整体干预效能。
+> **认知与[[Affective Outcomes|非认知产出]]的多维协同促进机制** 考察合作学习在克服单一考试成绩局限后，对认知深度层级（低阶[[Academic Achievement|学业成就]]与复杂[[Higher-Order Thinking Skills|高阶思维]]）与非认知情感维度的整体干预效能。
 
 > [!claim] Güngör et al.
-> **多维学习成效的均衡促进** [[Meta-meta-analysis\|二阶元分析]]（SOMA）对 15 项一阶[[Meta-analysis\|元分析]]（涵盖 403 项原始实证研究、23 个独立[[Effect Size\|效应量]]）的综合检验表明，合作学习对学生的总体学习结果具有显著且稳健的中等促进效应（$ES = 0.71, 95\%\text{ CI} = [0.55, 0.87]$）。在各项细分产出中，合作学习对高阶思维技能（HOTS）的促进效应最大（$ES = 0.76, 95\%\text{ CI} = [0.42, 1.11]$），其次为学业成就（$ES = 0.71, 95\%\text{ CI} = [0.52, 0.90]$），对[[Affective Outcomes\|情感行为]]亦表现出积极正向影响（$ES = 0.51, 95\%\text{ CI} = [0.17, 0.84]$）。各产出类型间无统计学显著差异（$Q_b(3) = 4.35, p = .23$），[[Fail-Safe N\|失安全系数]]（$N = 4954$）、Egger 回归（$t = 2.08, p = .05$）与[[Trim and Fill Method\|剪补法]]一致证实结论无[[Publication Bias\|发表偏倚]]。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 6–9)]]
+> **多维学习成效的均衡促进** [[Meta-meta-analysis|二阶元分析]]（SOMA）对 15 项一阶[[Meta-analysis|元分析]]（涵盖 403 项原始实证研究、23 个独立[[Effect Size|效应量]]）的综合检验表明，合作学习对学生的总体学习结果具有显著且稳健的中等促进效应（$ES = 0.71, 95\%\text{ CI} = [0.55, 0.87]$）。在各项细分产出中，合作学习对高阶思维技能（HOTS）的促进效应最大（$ES = 0.76, 95\%\text{ CI} = [0.42, 1.11]$），其次为学业成就（$ES = 0.71, 95\%\text{ CI} = [0.52, 0.90]$），对[[Affective Outcomes|情感行为]]亦表现出积极正向影响（$ES = 0.51, 95\%\text{ CI} = [0.17, 0.84]$）。各产出类型间无统计学显著差异（$Q_b(3) = 4.35, p = .23$），[[Fail-Safe N|失安全系数]]（$N = 4954$）、Egger 回归（$t = 2.08, p = .05$）与[[Trim and Fill Method|剪补法]]一致证实结论无[[Publication Bias|发表偏倚]]。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 6–9)]]
+
+> [!claim] Köller
+> **深层认知激活与高效代表形态** 德语区实证教育研究对二阶元分析的审读显示，结构化合作学习呈现出稳健的促学效应（$d = 0.41$）。其促学潜能的充分释放有赖于高结构化的任务设计与深度认知投入；在具体技术形态中，以交互式研讨与轮流讲解为特征的[[Reciprocal Teaching|互惠教学]]（$d = 0.74$）表现出最突出的学业成效。在[[Three Basic Dimensions of Teaching Quality|教学质量三大基准维度]]框架下，合作学习系统归属于[[Cognitive Activation|认知激活]]维度，通过引导学生在相互解释与质询中开展深层认知建构，推动实质学业提升。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, pp. 31, 35)]]
 
 ---
 
 > [!concept-proposition] 命题二｜合作学习的干预成效受具体教学技术模式与学科知识结构的显著调节
-> **技术结构严密度与学科任务形态的[[Interaction Effect\|交互效应]]** 探讨不同合作学习分支技术的设计严密度，以及语言、社会科、自然科学与体育学科在[[Task Structure\|任务结构]]上的差异如何调节合作干预的最终产出。
+> **技术结构严密度与学科任务形态的[[Interaction Effect|交互效应]]** 探讨不同合作学习分支技术的设计严密度，以及语言、社会科、自然科学与体育学科在[[Task Structure|任务结构]]上的差异如何调节合作干预的最终产出。
 
 > [!claim] Güngör et al.
-> **技术形态与学科领域的[[Heterogeneity\|异质性]]分化** 合作学习的具体教学技术对学习结果存在显著调节效应（$Q_b(3) = 9.36, p = .02$）：高度结构化整合阅读的[[Cooperative Integrated Reading and Composition\|合作整合阅读与写作]]（CIRC）技术（$ES = 2.04, 95\%\text{ CI} = [1.05, 3.03]$）与强调自主探究的小组[[Survey Research\|调查法]]（$ES = 1.08, 95\%\text{ CI} = [0.50, 1.66]$）呈现出极高效应，显著高于[[Jigsaw\|拼图法]]（$ES = 0.72$）与一般合作学习模式（$ES = 0.61$）。在学科领域维度上调节效应同样高度显著（$Q_b(5) = 20.16, p < .01$）：语言学科（$ES = 2.04$）、社会科（$ES = 0.96$）与自然科学（$ES = 0.92$）展现高效应，数学领域呈现中等效应（$ES = 0.70$），而体育教育领域效应极低且不显著（$ES = 0.05, 95\%\text{ CI} = [-1.44, 1.54]$）。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 8–10)]]
+> **技术形态与学科领域的[[Heterogeneity|异质性]]分化** 合作学习的具体教学技术对学习结果存在显著调节效应（$Q_b(3) = 9.36, p = .02$）：高度结构化整合阅读的[[Cooperative Integrated Reading and Composition|合作整合阅读与写作]]（CIRC）技术（$ES = 2.04, 95\%\text{ CI} = [1.05, 3.03]$）与强调自主探究的小组[[Survey Research|调查法]]（$ES = 1.08, 95\%\text{ CI} = [0.50, 1.66]$）呈现出极高效应，显著高于[[Jigsaw|拼图法]]（$ES = 0.72$）与一般合作学习模式（$ES = 0.61$）。在学科领域维度上调节效应同样高度显著（$Q_b(5) = 20.16, p < .01$）：语言学科（$ES = 2.04$）、社会科（$ES = 0.96$）与自然科学（$ES = 0.92$）展现高效应，数学领域呈现中等效应（$ES = 0.70$），而体育教育领域效应极低且不显著（$ES = 0.05, 95\%\text{ CI} = [-1.44, 1.54]$）。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 8–10)]]
 
 ---
 
 > [!concept-proposition] 命题三｜真实课堂准实验较严格实验室全实验展现出更显著的生态干预效应
-> **真实教学情境的[[Ecological Validity\|生态效度]]与实验控制张力** 分析真实课堂常态化教学干预与高度人工控制的实验室设计在捕捉同伴社会互动长周期机制时的表现差异。
+> **真实教学情境的[[Ecological Validity|生态效度]]与实验控制张力** 分析真实课堂常态化教学干预与高度人工控制的实验室设计在捕捉同伴社会互动长周期机制时的表现差异。
 
 > [!claim] Güngör et al.
-> **真实课堂生态设计的效应优势** 基础研究的设计类型对二阶元分析效应量产生显著调节（$Q_b(2) = 9.83, p = .01$）。基于[[Quasi-Experimental Designs\|准实验设计]]的元分析研究报告了高达 $ES = 1.11$（$95\%\text{ CI} = [0.72, 1.50], k = 3$）的高效应量，涵盖全实验与准实验混合设计的元分析表现出中等效应（$ES = 0.69, 95\%\text{ CI} = [0.54, 0.84], k = 19$），而基于严格个体[[Random Assignment\|随机化]]全[[Experimental Research|实验设计]]的瑞士六年级拼图法元分析（Stanczak et al., 2022）效应量则为零（$ES = 0.00, 95\%\text{ CI} = [-0.58, 0.58], k = 1$）。这一反差表明，合作学习依赖班级真实社会情境、师生常态关系与持续性小组文化积累。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 8–11)]]
+> **真实课堂生态设计的效应优势** 基础研究的设计类型对二阶元分析效应量产生显著调节（$Q_b(2) = 9.83, p = .01$）。基于[[Quasi-Experimental Designs|准实验设计]]的元分析研究报告了高达 $ES = 1.11$（$95\%\text{ CI} = [0.72, 1.50], k = 3$）的高效应量，涵盖全实验与准实验混合设计的元分析表现出中等效应（$ES = 0.69, 95\%\text{ CI} = [0.54, 0.84], k = 19$），而基于严格个体[[Random Assignment|随机化]]全[[Experimental Research|实验设计]]的瑞士六年级拼图法元分析（Stanczak et al., 2022）效应量则为零（$ES = 0.00, 95\%\text{ CI} = [-0.58, 0.58], k = 1$）。这一反差表明，合作学习依赖班级真实社会情境、师生常态关系与持续性小组文化积累。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 8–11)]]
 
 ---
 
 > [!concept-proposition] 命题四｜[[Teacher Expertise|教师专业素养]]与五大要素的规范落实是决定合作学习课堂效能的关键瓶颈
-> **教学转化中的形式主义陷阱与专业赋能路径** 剖析一线教师在实施合作学习时面临的理论理解不足与机械操作问题，阐明专业培训对保障干预质量的核心作用。
+> **教学转化中的形式主义陷阱与专业规范落实** 剖析一线教师在实施合作学习时面临的理论理解不足与机械操作问题，阐明专业培训对保障干预质量的核心作用。
 
 > [!claim] Güngör et al.
 > **理论素养与规范实施的决定性制约** 合作学习在课堂中的有效应用高度依赖教师对理论基础与操作技术的深刻理解。尽管多数教师主观上认为自己在组织合作学习，但实际活动往往因过于松散、脱离特定方法论规范而沦为形式化的小组扎堆。唯有教师精准落实积极互赖、个体责任与小组反思，并为学生提供充分的合作技能训练时间与结构化[[Scaffolding\|脚手架]]，合作学习才能产生实质性学业与思维增益。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 12)]]
@@ -175,7 +179,7 @@ updated: 2026-11-11
 ---
 
 > [!dev-timeline] 合作学习的发展演进
-> - **1970s — 起源与理论奠基** 合作学习在美国高等教育与基础教育中萌芽，Johnson & Johnson 创立明尼苏达大学合作学习中心，Slavin 开创约翰霍普金斯大学学生团队学习研究项目，奠定社会互赖与个体责任的理论基石。
+> - **1970s — 起源与早期发展** 合作学习在美国高等教育与基础教育中萌芽，Johnson & Johnson 创立明尼苏达大学合作学习中心，Slavin 开创约翰霍普金斯大学学生团队学习研究项目，确立社会互赖与个体责任的核心理论框架。
 > - **1980s–1990s — 技术分化与全球传播** [[Jigsaw]]、STAD、[[Cooperative Integrated Reading and Composition\|CIRC]]、[[Group Investigation]] 等系统化教学技术相继开发并标准化，跨国家、跨学科实证研究广泛展开，确立了五大核心要素标准。
 > - **2000s–2010s — 批判深化与一阶[[Meta-analysis\|元分析]]激增** 学界聚焦不同学科（如数学、化学、物理）与区域（如土耳其、印度尼西亚）开展大量一阶元分析，但暴露出地域集中与学科单一等合成局限。
 > - **2020s 至今 — [[Meta-meta-analysis\|二阶元分析]]整合与[[Higher-Order Thinking Skills\|高阶思维]]拓展** 面对一阶元分析的[[Sampling Error\|抽样误差]]与学科偏倚，研究者运用二阶元分析方法进行跨领域总括性[[Research Synthesis|证据综合]]，重点关注合作学习对 21 世纪[[21st Century Skills and Competencies Discourse\|核心素养]]、高阶思维与[[Problem Solving\|复杂问题解决]]能力的促进机制。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026)]]
@@ -275,12 +279,12 @@ updated: 2026-11-11
 > | Ridwan et al. (2022)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.92"><span class="b18"></span></span>0.92 | [0.70, 1.14] | Cohen's $d$ / 随机效应模型 | $k = 11$ / $N = —$ | 干预因素：综合合作学习对中职数学成就的干预效应（数据集 2） | — | 印尼中职数学教学准实验，高确定性增益 |
 > | Setiana et al. (2020)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.30"><span class="b6"></span></span>0.30 | [0.08, 0.56] | Cohen's $d$ / 随机效应模型 | $k = 16$ / $N = —$ | 干预因素：综合合作学习对数学学业成就的干预效应 | — | 印尼基础教育数学教学，呈小到中等正向效应 |
 > | Shakerian et al. (2020)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 1.25"><span class="b25"></span></span>1.25 | [1.08, 1.51] | Cohen's $d$ / 随机效应模型 | $k = 7$ / $N = —$ | 干预因素：拼图法对健康科学综合学习产出的干预效应 | — | 伊朗高等健康教育情境，综合产出提升极高 |
-> | Siagian et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.79"><span class="b16"></span></span>0.79 | [0.58, 1.00] | Cohen's $d$ / 随机效应模型 | $k = 35$ / $N = —$ | 干预因素：综合合作学习对数学批判性思维的干预效应 | — | 印尼基础教育数学教学，大样本证实对高阶批判思维的高赋能 |
+> | Siagian et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.79"><span class="b16"></span></span>0.79 | [0.58, 1.00] | Cohen's $d$ / 随机效应模型 | $k = 35$ / $N = —$ | 干预因素：综合合作学习对数学批判性思维的干预效应 | — | 印尼基础教育数学教学，大样本证实对高阶批判思维的显著促进 |
 > | Siagian et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.69"><span class="b14"></span></span>0.69 | [0.42, 0.98] | Cohen's $d$ / 随机效应模型 | $k = 24$ / $N = —$ | 干预因素：综合合作学习对数学[[Creativity\|创造性思维]]的干预效应 | — | 印尼基础教育数学教学，采用托兰斯等创造力测验工具 |
 > | Solissa et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.84"><span class="b17"></span></span>0.84 | [0.66, 1.03] | Cohen's $d$ / 随机效应模型 | $k = 10$ / $N = —$ | 干预因素：拼图法对 21 世纪[[21st Century Skills and Competencies Discourse\|核心素养]]的干预效应 | — | 跨学科跨学段综合干预，涵盖批判性、创造性与[[Problem Solving\|问题解决]]技能 |
 > | Stanczak et al. (2022)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.00"><span class="b0"></span></span>0.00 | [−0.10, 0.09] | Cohen's $d$ / 随机效应模型 | $k = 5$ / $N = —$ | 干预因素：拼图法对六年级学业成就的干预效应 | — | 瑞士严格个体[[Randomised Controlled Trials\|随机对照试验]]（RCT），全实验控制下效应为零 |
 > | Tanjung et al. (2022)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.96"><span class="b19"></span></span>0.96 | [0.74, 1.17] | Cohen's $d$ / 随机效应模型 | $k = 15$ / $N = —$ | 干预因素：小组[[Survey Research\|调查法]]对物理学业成就的干预效应 | — | 印尼 10-11 年级物理课准实验，探究合作对物理概念掌握极佳 |
-> | Tanjung et al. (2022)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 1.26"><span class="b25"></span></span>1.26 | [0.69, 1.88] | Cohen's $d$ / 随机效应模型 | $k = 4$ / $N = —$ | 干预因素：[[Group Investigation\|小组调查法]]对物理情感能力的干预效应 | — | 印尼 10-11 年级物理课，探究合作对物理学习效能感赋能突出 |
+> | Tanjung et al. (2022)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 1.26"><span class="b25"></span></span>1.26 | [0.69, 1.88] | Cohen's $d$ / 随机效应模型 | $k = 4$ / $N = —$ | 干预因素：[[Group Investigation\|小组调查法]]对物理情感能力的干预效应 | — | 印尼 10-11 年级物理课，探究合作对物理学习效能感促进显著 |
 > | Turgut & Gülşen Turgut (2018)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.84"><span class="b17"></span></span>0.84 | [0.68, 0.99] | Cohen's $d$ / 随机效应模型 | $k = 59$ / $N = —$ | 干预因素：综合合作学习对数学学业成就的干预效应 | — | 土耳其数学混合学段，大样本证实合作学习对数学成绩的稳健促进 |
 > | Warfa (2016)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.69"><span class="b14"></span></span>0.69 | [0.42, 0.95] | Cohen's $d$ / 随机效应模型 | $k = 25$ / $N = —$ | 干预因素：综合合作学习对化学学业成就的干预效应 | — | 高等化学教育，检出部分发表偏倚，整体效应显著 |
 
@@ -290,6 +294,7 @@ updated: 2026-11-11
 > | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.71"><span class="b14"></span></span>0.71 | [0.55, 0.87] | Cohen's $d$ / 随机效应模型经典逆方差加权 | $M = 15$；$E = 23$；$k = 403$；$N = —$ | 干预因素：合作学习对学生总体学习结果（Learning Outcomes）的二阶干预效应 | $Q(22) = 349.48, p < .01, I^2 = 93.70\%, \tau^2 = 0.13$；95% PI 未报告 | 纳入 15 项一阶元分析，涵盖认知与情感多维产出，研究间异质性极高 |
+> | [[Argument_Koller_2014_WhatWorks\|Köller (2014)]]，引自 [[Argument_Koller_2014_WhatWorks\|Köller (2014, p. 31)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.41"><span class="b8"></span></span>0.41 | — | Cohen's $d$ / 二阶综合 | $M = —$；$E = —$；$k = —$；$N = —$ | 干预因素：结构化合作学习对学业成就的二阶干预效应 | — | 德语区实证审读；指出互惠教学（$d = 0.74$）为其高效代表形态，归入认知激活维度 |
 
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
@@ -303,11 +308,26 @@ updated: 2026-11-11
 > |  |  | 体育 |  | E = 1 | <span class="mx-bar ef-bar" title="ES 0.05"><span class="b1"></span></span>0.05 | [−1.44, 1.54] | — |
 > |  |  | 混合学科 |  | E = 11 | <span class="mx-bar ef-bar" title="ES 0.34"><span class="b7"></span></span>0.34 | [0.07, 0.61] | — |
 >
-> - **[[Argument_Gungor_2026_CP|Güngör et al. (2026)]] · 学习产出类型互补亚组** 预设分析；组间差异未达显著，高阶思维赋能效应点估计最高
+> - **[[Argument_Gungor_2026_CP|Güngör et al. (2026)]] · 学习产出类型互补亚组** 预设分析；组间差异未达显著，高阶思维促进效应点估计最高
 > - **[[Argument_Gungor_2026_CP|Güngör et al. (2026)]] · 学科领域互补亚组** 预设分析；组间差异高度显著，语言与社会科元分析较匮乏但效应极强，体育效应微弱且不显著
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Reciprocal Teaching]] | 概念 | 代表技术：作为合作学习中促进深度认知激活与文本理解的高效代表形态（$d = 0.74$）。 |
+> | [[Higher-Order Thinking Skills]] | 概念 | 认知目标：二阶元分析证实合作学习对高阶思维的促进效应最强（$ES = 0.76$）。 |
+> | [[Cognitive Activation]] | 概念 | 理论归属：在教学质量三大基准维度中，合作学习作为引发深层认知加工的核心载体。 |
+> | [[Structured Teaching]] | 概念 | 结构保障：区分于无序自由讨论，合作学习要求高度结构化的角色分工与积极互赖。 |
+> | [[Jigsaw]] | 概念 | 分支技术：专家组研讨与母组轮流传授的经典技术形态。 |
+> | [[Collaborative Learning]] | 概念 | 概念对照：区分教师控制任务与责任的合作学习与去中心化的协作学习。 |
+> | [[Robert Slavin]] | 人物 | 创立学生团队学习项目并研发 STAD、CIRC 等系统化技术的代表学者。 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] — 综合 15 项[[Meta-analysis\|元分析]]的[[Meta-meta-analysis\|二阶元分析]]显示合作学习对[[Academic Achievement\|学业成就]]（0.71）、[[Higher-Order Thinking Skills\|高阶思维]]（0.76）与情感（0.51）均有效，[[Jigsaw\|拼图法]]等技术与学科具调节作用。
+> - [[Argument_Koller_2014_WhatWorks\|Köller (2014)]] — 结合德语区实证教育研究审读可见学习，报告合作学习总体效应量 $d = 0.41$，指出互惠教学（$d = 0.74$）为其高效能代表形态，并将其归入教学质量三大基准维度中的认知激活维度（pp. 31, 35）。
 

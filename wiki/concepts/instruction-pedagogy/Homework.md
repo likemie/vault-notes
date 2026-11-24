@@ -79,6 +79,7 @@ related_arguments:
   - "[[Argument_Nielsen_2021_NordPsych]]"
   - "[[Argument_Sahlgren_2015_CPS]]"
   - "[[Argument_Deng_2016_CE]]"
+  - "[[Argument_Koller_2014_WhatWorks]]"
 related_persons:
   - "[[Steve Higgins]]"
   - "[[John Hattie]]"
@@ -86,6 +87,7 @@ related_persons:
   - "[[Adrian Simpson]]"
   - "[[Herbert Walberg]]"
   - "[[Ivan Snook]]"
+  - "[[Olaf Köller]]"
 related_instruments:
   - "[[EEF Padlock Security Rating]]"
 confidence: high
@@ -165,6 +167,9 @@ updated: 2026-11-18
 > **教师微观决策与批改反馈的因果解构** 切斯特·埃多瓦尔德（Chester Edovald）与克莱尔·内维尔（Claire Nevill）系统回顾 EEF 针对“[[Teacher Choices|教师选择]]（Teacher choices）”开展的因果研究试点，深刻解构了学校传统作业批改的无效神话：
 > 1. **逐本批改的工作量陷阱** 传统学校文化普遍要求教师逐本逐页精细批改作业（Marking Books），被默认是保障教学质量的基石；然而教师[[Questionnaire|问卷]]与实证调查显示，海量的书面批改耗尽了教师备课与反思时间，但学生往往仅扫一眼分数即扔置一边，书面批语极少转化为实质性概念纠偏。
 > 2. **全班集中反馈的微型试验探索** 一线教师迫切需要解答：全班集中反馈（Whole-Class [[Feedback]]，即通览作业提取典型共性错误并在课上集中引导学生自我订正）是否比逐本耗时批改更能促进学习？为攻克此类日常微观决策难以开展经典昂贵 [[Randomised Controlled Trials|RCT]] 的瓶颈，EEF 于 2018 年启动新型试点，采用被试内设计（within-participant designs）与近端过程性指标，以短周期、小样本高灵敏度因果试验，直接为作业反馈策略的科学化与去官僚化提供证据支持。
+
+> [!claim] Trautwein & Köller
+> **高频适度原则与课内跟进检查的促学机制** 德语区中学生的大规模纵向追踪研究（Trautwein et al., 2002; Trautwein & Köller, 2003）证实，单纯延长作业时长并不带来成绩增益；作业发挥促学效能的关键在于遵循“频次高、题量适度”的设计原则，并且必须由任课教师在后续课堂中进行严格跟进检查与纠偏。脱离课内检查与反馈的过量作业不仅无法转化为学业进步，反而诱发敷衍抄袭与动机衰退。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, pp. 31, 34)]]
 
 ---
 
