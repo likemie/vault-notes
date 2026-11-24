@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Visible Learning",
+      "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md"
+    },
+    {
       "basename": "Argument_Terhart_2014_HolyGrail",
       "path": "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md"
     },
     {
       "basename": "Argument_Terhart_2014_Kallmeyer",
       "path": "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_Kallmeyer.md"
+    },
+    {
+      "basename": "Visible Learning Branding and Global Influences",
+      "path": "wiki/facts/new-zealand/Visible Learning Branding and Global Influences.md"
     },
     {
       "basename": "Argument_Natario_2025_IndHE",
@@ -109,10 +117,6 @@
       "path": "wiki/methods/quantitative/Cognitive Extent.md"
     },
     {
-      "basename": "Visible Learning Branding and Global Influences",
-      "path": "wiki/facts/new-zealand/Visible Learning Branding and Global Influences.md"
-    },
-    {
       "basename": "Hammermeister_2002_Cambridge_英汉对照",
       "path": "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Vavrus_2006_CICE",
       "path": "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md"
-    },
-    {
-      "basename": "Area Studies",
-      "path": "wiki/concepts/comparative-education/Area Studies.md"
     }
   ],
   "omittedPaths": [],
