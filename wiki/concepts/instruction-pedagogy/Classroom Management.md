@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-11-11
+updated: 2026-11-24
 ---
 
 ---
@@ -237,4 +237,5 @@ updated: 2026-11-11
 > - [[Argument_WorldBank_2019_Teach|[[Argument_WorldBank_2019_Teach|World Bank Group (2019)]]]] — 确立大规模[[Classroom Observation|课堂观察]]中在任务时间快照与积极行为预期的行为锚定评定规程，严禁体罚与语言羞辱。
 > - [[Argument_Laursen_2015_Paideia|Laursen (2015)]] — 结合丹麦国家社会科学研究所（[[Science Foundation Ireland|SFI]]）大规模实证调查，证实清晰一致的课堂管理是提升[[Academic Achievement|学业成绩]]的关键支撑。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 专家德尔菲评审确立课堂管理为现实相关度最高的前 3 项核心教学实践之一（$M=4.75$），为破除超级证据库外围不可控因素干扰、聚焦微观课堂干预提供实证判据。
+> - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 结合德语区实证教育研究与哈蒂数据，阐明有效班级管理是教学三大基准维度之一，能显著提升在任务时间并减少干扰（$d=0.52$）。
 

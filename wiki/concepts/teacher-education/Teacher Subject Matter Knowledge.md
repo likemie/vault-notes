@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-22
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 ---
@@ -193,3 +193,4 @@ updated: 2026-11-23
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 结合德语教学论传统审视可见的学习，提出变异性假说并揭示旧元分析在教师学科知识测量上的方法学硬伤。
 > - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 述评德语区对可见的学习教师专业胜任力研究的反思，强调学科知识作为学科教学知识不可或缺的前置条件。
+> - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 结合 COACTIV 与州际比较实证反驳哈蒂学科知识微弱论（$d=0.09$），指出学科知识是学科教学知识的基石，跨专业任教显著削弱学业增益。

@@ -97,7 +97,7 @@ related_persons:
   - "[[Ewald Terhart]]"
 status: draft
 created: 2026-11-23
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 ---
@@ -119,7 +119,7 @@ updated: 2026-11-23
 > | 理论工具 | 解释功能 |
 > |---|---|
 > | **透视转换理论**<br>Perspective Taking | 解释教师克服自我中心视角、以学生视界审视教学以及学生将自身视为自我教师的认知交互机制。 |
-> | **过程-结果范式**<br>[[Empirische Unterrichtsforschung\|Process-Product Paradigm]] | 揭示将课堂互动作为[[Independent Variable\|自变量]]、将标准化[[Achievement and Aptitude Tests\|成就测验]]作为[[Dependent Variable\|因变量]]的实证教学研究传统，定位哈蒂研究的[[Paradigm\|范式]]归属与测量盲区。 |
+> | **过程-结果范式**<br>[[Process-Product Paradigm]] | 揭示将课堂互动作为[[Independent Variable\|自变量]]、将标准化[[Achievement and Aptitude Tests\|成就测验]]作为[[Dependent Variable\|因变量]]的实证教学研究传统，定位哈蒂研究的[[Paradigm\|范式]]归属与测量盲区。 |
 > | **[[Streetlight Effect\|路灯效应]]**<br>Streetlight Effect | 批判仅在量化数据充分照明处搜寻有效因素、排斥难以度量的育人维度的[[Epistemology\|认识论]]狭隘性。 |
 > | **全景敞视规训机制**<br>[[Panopticism]] | 借助米歇尔·福柯（Michel Foucault）权力理论，剖析相互观察与可见性象征背后的微观心理自我规训技术。 |
 > | **改革教学论对抗模型**<br>[[Reform Pedagogy\|Reformpädagogik]] | 提炼欧陆经验界对[[Behaviorism\|行为主义]]与生产主义教学量化框架的[[Analytical Stance\|批判立场]]，捍卫探索性与审美体验空间。 |
@@ -217,7 +217,7 @@ updated: 2026-11-23
 > [!sub-claim] 1. 教学成效取决于师生互换视角，教师透视学习，学生自我监控
 
 > [!warrant] 双向透视转换是有效教学的核心机制
-> 哈蒂的教学理论高度提炼于其核心论断中：唯有当教师以学生的眼睛审视教学、学生将自己视为自身的教师时，课堂教学才能取得最大成效。教与学的成效取决于师生双方对自我中心视角的超越与相互透视转换（Perspective Taking）（p. 15）。
+> 哈蒂的教学理论高度提炼于其核心论断中：唯有当教师以学生的眼睛审视教学、学生将自己视为自身的教师（[[Selbstdidaktisierung|自我教学化]]）时，课堂教学才能取得最大成效。教与学的成效取决于师生双方对自我中心视角的超越与相互透视转换（Perspective Taking）（p. 15）。
 
 > [!citation-card] 哈蒂论可见教与学模型的核心命题（p. 15）
 > 最重要的是教学对学习者而言是可见的，反过来学习对教师而言也是可见的。学习者越是成为教师，教师越是成为学习者，产出的成效就越丰硕……可见的教与学模型结合了以教师为中心的教学和以学生为中心的学习，避免将两者对立起来。（Hattie, 2013, p. 31）
@@ -254,10 +254,10 @@ updated: 2026-11-23
 > | **学科专业素养** | 2 | 0.09 |
 
 > [!tension] 挑战者与促进者的角色隐喻与德译争议（p. 19, 注 4）
-> 哈蒂明确区分了教师的两类行为取向：挑战者（teacher as activator）与促进者（teacher as facilitator）（p. 19）。拜沃尔与齐尔勒（Hattie, 2013）在德译本中将其转译为导演（Regisseur）与主持人（Moderator），[[Ewald Terhart|特哈特]]指出这未能准确体现两者的实质对立，主张译为挑战者（Herausforderer）与协助者（Erleichterer），以突出主动激发挑战与被动退居辅助的分野（p. 19, 注 4）。
+> 哈蒂明确区分了教师的两类行为取向：[[Teacher as Activator|挑战者（teacher as activator）]]与促进者（teacher as facilitator）（p. 19）。拜沃尔与齐尔勒（Hattie, 2013）在德译本中将其转译为导演（Regisseur）与主持人（Moderator），[[Ewald Terhart|特哈特]]指出这未能准确体现两者的实质对立，主张译为挑战者（Herausforderer）与协助者（Erleichterer），以突出主动激发挑战与被动退居辅助的分野（p. 19, 注 4）。
 
 > [!row-contrast|compact]- 表3　教师作为挑战者与教师作为促进者的效应量对照（p. 19）
-> | 挑战者角色（Teacher as Activator） | 效应量 $d$ | 促进者角色（Teacher as Facilitator） | 效应量 $d$ |
+> | [[Teacher as Activator\|挑战者角色（Teacher as Activator）]] | 效应量 $d$ | 促进者角色（Teacher as Facilitator） | 效应量 $d$ |
 > |---|---|---|---|
 > | **[[Reciprocal Teaching\|交互教学]]** | 0.74 | **模拟与教学游戏** | 0.32 |
 > | **[[Feedback\|反馈]]** | 0.72 | **[[Inquiry-Based Learning\|探究学习]]** | 0.31 |
@@ -288,7 +288,7 @@ updated: 2026-11-23
 > [!sub-claim] 1. 紧盯测验分数如同在路灯下找钥匙，排斥了难以度量的育人目标
 
 > [!warrant] 过程-结果范式的测量假设与实证视界
-> 哈蒂的研究建立在实证教学研究的过程-结果范式（Process-Product Paradigm）之上（p. 20）。该范式聚焦于能够被量化测量、在标准化成就测验上表现为成绩增长的特定[[Variable|变量]]，将那些对学校育人至关重要却难以被量化指标捕获的维度排除在外。
+> 哈蒂的研究建立在实证教学研究的[[Process-Product Paradigm|过程-结果范式]]（Process-Product Paradigm）之上（p. 20）。该范式聚焦于能够被量化测量、在标准化成就测验上表现为成绩增长的特定[[Variable|变量]]，将那些对学校育人至关重要却难以被量化指标捕获的维度排除在外。
 
 > [!tension] 路灯效应与非认知育人维度的系统性排斥
 > 这一局限体现为典型的[[Streetlight Effect|路灯效应]]：研究者只能在实证光照充分的区域展开搜寻，而教育中诸多关键的道德判断、审美陶冶、民主公民素养与文化反思等不可度量的维度仍处于幽暗之中。哈蒂所呈现的 138 项因素仅展现了在现有实证测量技术允许看清的范畴。许多已知传统因素的表现符合预期，其中任务学习时间排在第 70 位（$d = 0.38$），班级规模排在第 106 位（$d = 0.21$），按能力分班排在第 121 位（$d = 0.12$）。在新西兰本土及德语区学界，批判者指出哈蒂提倡的高频测试与外显指令教学具有技术官僚主义、行政导向与生产主义色彩，抑制了学生的[[Creativity|创造性]]与自主探索空间，展现出教室美国化的制度倾向（p. 21）。

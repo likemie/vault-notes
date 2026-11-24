@@ -10,6 +10,11 @@ aliases:
   - Basic Dimensions of Instructional Quality
 summary: "德国实证教学研究提出的课堂教学深层结构分析框架，将教学质量提炼为有效班级管理、认知激活与建设性支持三大普适维度。"
 type: theory
+theory_field: "instruction-pedagogy"
+theory_related_count: 19
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - instruction-pedagogy
   - teaching-quality
@@ -67,9 +72,9 @@ updated: 2026-11-24
 > - **形成路径** 研究团队在分析录像数据时严格区隔了外部客观可辨的“表层结构”（Sichtstrukturen）与内在认知情感过程的“深层结构”（Tiefenstrukturen），将深层结构提炼为管理、认知与支持三大基础维度。
 
 > [!dev-timeline] 理论版本与贡献
-> - **2001 — 框架奠基** 克利梅团队结合 TIMSS 德国录像研究提出课堂教学质量三大基础维度，确立区分表层结构与深层结构的分析范式。
+> - **2001 — 框架提出** 克利梅团队结合 TIMSS 德国录像研究提出课堂教学质量三大基础维度，确立区分表层结构与深层结构的分析范式。
 > - **2006 — 胜任力模型整合** 鲍默特与孔特尔将三大基准维度纳入教师专业胜任力模型，论证学科教学知识通过三大深层维度中介影响学生学业成长。
-> - **2014 — 二阶综合验证** 奥拉夫·克勒结合哈蒂二阶元分析数据，系统论证三大维度统摄下的深层教学变量（反馈 $d=0.73$、师生关系 $d=0.72$、元认知策略 $d=0.69$、班级管理 $d=0.52$）均具实质促学效应。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, pp. 31–35)]]
+> - **2014 — 二阶综合验证** 奥拉夫·克勒结合哈蒂二阶元分析数据，系统论证三大维度涵盖的深层教学变量（反馈 $d=0.73$、师生关系 $d=0.72$、元认知策略 $d=0.69$、班级管理 $d=0.52$）均具实质促学效应。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, pp. 31–35)]]
 
 ---
 
@@ -124,4 +129,4 @@ updated: 2026-11-24
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 运用三大基准维度统摄哈蒂二阶元分析的核心变量，论证深层教学过程对学业增益的决定性作用（pp. 28, 35）。
+> - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 运用三大基准维度系统整合哈蒂二阶元分析的核心变量，论证深层教学过程对学业增益的决定性作用（pp. 28, 35）。

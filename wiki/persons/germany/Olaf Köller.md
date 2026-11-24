@@ -9,7 +9,12 @@ summary: "德国当代实证教育研究与教育心理学学者，长期主持�
 type: person
 cssclasses:
   - person-page
-nationality: "Germany"
+nationality: germany
+person_region: "germany"
+person_related_count: 21
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1963"
 died: ""
 lifespan: "1963–至今"
@@ -60,7 +65,7 @@ updated: 2026-11-24
 > - **代表贡献** 联合主持 [[TOSCA]] 追踪项目，领导建构各联邦州国家教育标准监测体系，推动德国课堂教学深层结构与三大基准维度的实证验证。
 
 > [!citation-card] 教育改革聚焦课堂的立场
-> 改革努力应当更少地依赖学校外部框架条件的调整，而是必须聚焦于课堂教学本身的实质改善。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, p. 24)]]
+> 改革努力必须直接聚焦于课堂教学本身的实质改善，减少对学校外部框架条件的单纯依赖。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, p. 24)]]
 >
 > *Im Gegensatz zu vielen bildungspolitischen Diskussionen über Strukturreformen im Bildungssystem weist Hattie eindrucksvoll darauf hin, dass Reformbemühungen sich weniger auf Rahmenbedingungen von Schule, sondern auf die Verbesserung von Unterricht beziehen sollten.*
 
@@ -108,10 +113,10 @@ updated: 2026-11-24
 ---
 
 > [!person-network] 关系网络
-> - **师承／合作者** [[Jürgen Baumert]] — MPIB 长期合作学者，共同主持 TOSCA 与 COACTIV 等大型实证项目。
-> - **合作者** [[Ulrich Trautwein]] — 长期学术伙伴，共同研究家庭作业机制与大规模中学生追踪。
-> - **同行／编者** [[Ewald Terhart]] — 论文集主编，共同反思实证教学研究与欧陆教学论的结合路径。
-> - **对话者** [[John Hattie]] — 评析其二阶元分析数据，将其置于德语区经验研究与国际证据网络中重新审视。
+> - **学术合作** [[Jürgen Baumert]] — MPIB 长期合作学者，共同主持 TOSCA 与 COACTIV 等大型实证项目。
+> - **项目协同** [[Ulrich Trautwein]] — 长期学术伙伴，共同研究家庭作业机制与大规模中学生追踪。
+> - **同行学者** [[Ewald Terhart]] — 研讨集主编，共同反思实证教学研究与欧陆教学论的结合路径。
+> - **学术对话** [[John Hattie]] — 评析其二阶元分析数据，将其置于德语区经验研究与国际证据网络中重新审视。
 
 ---
 

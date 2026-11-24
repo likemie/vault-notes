@@ -154,7 +154,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 ---
@@ -558,6 +558,7 @@ updated: 2026-11-23
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 对哈蒂《可见的学习》816 项元分析开展方法学审读，揭示粗放二阶综合的信息损耗与稳定性/变异性双重困境（pp. 427–436）。
 > - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 结合德译本进一步解构二阶元分析作为教育“圣杯”的修辞神话，指出底层文献年代滞后、缺乏准入质控以及路灯效应等系统性局限（pp. 13–23）。
+> - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 结合德语区教学实证研究评估二阶元分析核心发现，论证学校宏观结构变量效应微弱而深层教学变量具有实质促学成效（pp. 24–37）。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 对二阶元分析开展方法学与统计计算审计，揭露伪标准误与 SE/SD 混淆等数学违规，提出构建中央标准化数据库的一级直接综合替代方案（pp. 29–36）。
 > - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 运用多水平稳健二阶元分析（SOMA）综合关于创造力与发散思维的元分析，采用 CHE 模型与 RVE 控制效应量依赖性（pp. 2–5）。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 审计二阶元分析中跨研究设计聚合的数理有效性，实证检验组间与组内设计混杂带来的系统性参数扭曲。

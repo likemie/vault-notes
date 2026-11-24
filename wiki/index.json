@@ -12404,6 +12404,17 @@
     ]
   },
   {
+    "title": "Cognitive Activation",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Cognitive Activation.md",
+    "aliases": [
+      "认知激活",
+      "kognitive Aktivierung",
+      "认知激活度",
+      "Cognitive Activation in Instruction"
+    ]
+  },
+  {
     "title": "Cognitive Behavioral Programs",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Cognitive Behavioral Programs.md",
@@ -13237,6 +13248,18 @@
     ]
   },
   {
+    "title": "Selbstdidaktisierung",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Selbstdidaktisierung.md",
+    "aliases": [
+      "自主教学化",
+      "自我教学化",
+      "自我为师",
+      "Self-didactisation",
+      "Students Becoming Their Own Teachers"
+    ]
+  },
+  {
     "title": "Sense of School Belonging",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Sense of School Belonging.md",
@@ -13422,6 +13445,19 @@
       "良构与劣构任务",
       "良构任务",
       "劣构任务"
+    ]
+  },
+  {
+    "title": "Teacher as Activator",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Teacher as Activator.md",
+    "aliases": [
+      "激活型教师",
+      "激活者",
+      "激活型教师模型",
+      "挑战者教师",
+      "Lehrperson als Herausforderer",
+      "Teacher as Activator vs. Teacher as Facilitator"
     ]
   },
   {
@@ -25650,6 +25686,18 @@
     ]
   },
   {
+    "title": "Process-Product Paradigm",
+    "type": "theory",
+    "path": "wiki/theories/instruction-pedagogy/Process-Product Paradigm.md",
+    "aliases": [
+      "过程-结果范式",
+      "过程—结果研究范式",
+      "过程—产出范式",
+      "Prozess-Produkt-Paradigma",
+      "Process-Product Research"
+    ]
+  },
+  {
     "title": "Social Interdependence Theory",
     "type": "theory",
     "path": "wiki/theories/instruction-pedagogy/Social Interdependence Theory.md",
@@ -25666,6 +25714,20 @@
     "aliases": [
       "Gruschka's teaching theory",
       "Gruschka教学理论"
+    ]
+  },
+  {
+    "title": "Three Basic Dimensions of Teaching Quality",
+    "type": "theory",
+    "path": "wiki/theories/instruction-pedagogy/Three Basic Dimensions of Teaching Quality.md",
+    "aliases": [
+      "教学质量三大基准维度",
+      "三大基准维度",
+      "课堂教学质量三大维度",
+      "Drei Basisdimensionen von Unterrichtsqualität",
+      "Three Dimensions of Teaching Quality",
+      "Three Basic Dimensions",
+      "Basic Dimensions of Instructional Quality"
     ]
   },
   {
@@ -34801,6 +34863,17 @@
     "path": "wiki/persons/germany/Novalis.md",
     "aliases": [
       "诺瓦利斯"
+    ]
+  },
+  {
+    "title": "Olaf Köller",
+    "type": "person",
+    "path": "wiki/persons/germany/Olaf Köller.md",
+    "aliases": [
+      "奥拉夫·克勒",
+      "奥拉夫·科勒",
+      "Köller, O.",
+      "Olaf Koller"
     ]
   },
   {
@@ -56575,6 +56648,11 @@
     "title": "Argument_Slethaug_2010_InternationalEducation",
     "type": "argument",
     "path": "wiki/arguments/books/Ryan(Ed.)_2010_HKUP/Argument_Slethaug_2010_InternationalEducation.md"
+  },
+  {
+    "title": "Argument_Koller_2014_WhatWorks",
+    "type": "argument",
+    "path": "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
   },
   {
     "title": "Argument_Terhart_2014_HolyGrail",
