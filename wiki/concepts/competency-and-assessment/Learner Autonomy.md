@@ -70,6 +70,7 @@ related_facts:
   - "[[Teach Less, Learn More]]"
   - "[[Education Endowment Foundation]]"
 related_arguments:
+  - "[[Argument_Brugelmann_2014_LocalPractice]]"
   - "[[Argument_Lakhani_2012_AKUIED]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Håkansson_2015_TT]]"
@@ -83,13 +84,13 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-07-02
-updated: 2026-11-18
+updated: 2026-11-25
 ---
 
 ---
 
 > [!def] Learner Autonomy
-> 学习者自主性（Learner Autonomy）指学习者在明确目标与系统支架支持下，对自身学习过程主动承担责任、进行批判性反思与[[Metacognition|元认知]]监控的能力与意愿。Holec（1988）最早将其奠基性地定义为“掌控自身学习的能力”（taking charge of one's own learning）；Dam（1995）进一步补充了准备度（Readiness）维度，即自主性既包含独立行动及在社会协作中行动的实际技能（Capacity），亦包含持续的内在动机与探索意愿（Willingness）。在当代因果现场试验中，自主学习被重新确认为需与教师支架脱钩分析的特定教学机制，其有效性高度依存于外部支架与学生自我调节水平的动态匹配。[[Argument_Lakhani_2012_AKUIED|(Lakhani, 2012, pp. 177–178)]]; [[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 54)]]
+> 学习者自主性（Learner Autonomy）指学习者在明确目标与系统支架支持下，对自身学习过程主动承担责任、进行批判性反思与[[Metacognition|元认知]]监控的能力与意愿。Holec（1988）率先将其界定为“掌控自身学习的能力”（taking charge of one's own learning）；Dam（1995）进一步补充了准备度（Readiness）维度，即自主性既包含独立行动及在社会协作中行动的实际技能（Capacity），亦包含持续的内在动机与探索意愿（Willingness）。在当代因果现场试验中，自主学习被重新确认为需与教师支架脱钩分析的特定教学机制，其有效性高度依存于外部支架与学生自我调节水平的动态匹配。[[Argument_Lakhani_2012_AKUIED|(Lakhani, 2012, pp. 177–178)]]; [[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 54)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 学习者自主性标志着学习者从被动[[Received Knowledge|接收知识]]转向主动驾驭[[Knowledge Building Theory|知识建构]]过程，涵盖自主设定目标、选择策略、反思进度与评估成效。其本质体现为在社会互动中达成的有支持的独立（Supported Independence），有别于脱离情境的绝对独白。
@@ -167,6 +168,9 @@ updated: 2026-11-18
 > [!claim] [[Argument_Li_2026_CEAI|Li et al. (2026)]]
 > **算法交互中的认知卸载陷阱** 在缺乏反思提示与批判性量规的非结构化技术环境中，所谓自主探索往往迅速退化为投机取巧的[[Cognitive Offloading|认知卸载]]：学生全盘依赖生成式 AI 产生终稿，表面上维持了高效独立交差的伪自主，实质上导致深层批判性思维与[[Creativity|创造性]]心智的严重侵蚀。（pp. 9–11）
 
+> [!claim] Brügelmann, H.
+> **方法标签化遮蔽与开放自主情境的实质对话** 汉斯·布吕格尔曼指出，对自主学习低效的批评多源于对教学方法的表面标签化，将自主性窄化为缺乏教师交互的放任自习，从而掩盖了具体任务结构与师生对话质量。哈蒂的研究数据表明，在人本优秀教师的课堂中广泛存在由学生发起和调节的开放学习情境；自主学习的实质成效取决于教师能否在开放任务中提供高质量的对话反馈与思维点拨，形式上的学生独坐无法替代深层师生教学互动。[[Argument_Brugelmann_2014_LocalPractice|(Brügelmann, 2014, pp. 44–45)]]
+
 ---
 
 > [!contrast-table] 学习者自主性三大理论命题比较
@@ -174,12 +178,12 @@ updated: 2026-11-18
 > |---|---|---|---|
 > | **认识论与元认知基石** | 自主性取决于批判思维能力与意义建构自信的双轨养成。 | 知识论探究破除被动接受，反思训练激活风险承担与自主表达。 | [[Argument_Lakhani_2012_AKUIED\|Lakhani (2012)]]; [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] |
 > | **技术析因机制脱钩** | 软件自主学习与教师主导教学存在异质效应与协同红利。 | 多臂析因试验剥离独立因果贡献，揭示软件自主需人际支架互补。 | McNally et al. (2018); [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] |
-> | **支架缺失的掉队代价** | 缺乏结构支持的极端自由导致认知过载与弱势学童掉队。 | 去结构化环境抽离安全边界，引发算法心智外包与国际排位系统性滑坡。 | [[Argument_Håkansson_2015_TT\|Håkansson (2015a)]]; [[Argument_Sahlgren_2015_CPS\|Sahlgren (2015)]]; [[Argument_Li_2026_CEAI\|Li et al. (2026)]] |
+> | **支架缺失的掉队代价** | 缺乏结构支持的极端自由导致认知过载与弱势学童掉队，方法标签化掩盖了开放情境中的师生对话质量。 | 去结构化环境抽离安全边界，引发算法心智外包与国际排位系统性滑坡。 | [[Argument_Håkansson_2015_TT\|Håkansson (2015a)]]; [[Argument_Sahlgren_2015_CPS\|Sahlgren (2015)]]; [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; [[Argument_Brugelmann_2014_LocalPractice\|Brügelmann (2014)]] |
 
 ---
 
 > [!dev-timeline] 学习者自主性概念演进脉络
-> - **1970s–1980s — 欧洲成人与应用语言学奠基** 法国南锡大学 CRAPEL 中心（Holec, 1981）首次系统提出自主学习理论，旨在打破传统以教师为中心的语言灌输，确立学习者自我规划、执行与评估的主体地位。
+> - **1970s–1980s — 欧洲成人与应用语言学开创性探索** 法国南锡大学 CRAPEL 中心（Holec, 1981）首次系统提出自主学习理论，旨在打破传统以教师为中心的语言灌输，确立学习者自我规划、执行与评估的主体地位。
 > - **1990s — 课堂反思、元认知与社会相互依存转向** Little (1991) 与 Dam (1995) 丰富了自主性的理论内涵，阐明自主性是在内部反思、元认知自评与同伴对话互动中生成的相互依存的自主，拓展了早期个人主义孤独学习的狭隘视阈。
 > - **1997–2000s — 国家[[Knowledge-Based Economy|知识经济]]转型中的自主性政策诉求** 新加坡在知识经济转型中发起“[[Thinking Schools, Learning Nation|思考型学校，学习型国家]]”与“[[Teach Less, Learn More|少教多学]]”改革，明确将培育批判思考与自主学习素养列为国家劳动力升级的核心目标，但该政策导向受到高度竞争性统考筛选与程序化教学惯性的深层制约。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 58–60)]]
 > - **2010s — 国际文凭跨学科素养与认识论深化** [[Argument_Lakhani_2012_AKUIED|Lakhani (2012)]] 与 [[Argument_Cole_2015_AJE|Cole et al. (2015)]] 将自主性拓展为现代教育的[[21st Century Skills and Competencies Discourse|核心素养]]，依托 IB 知识论课程揭示认识论严谨性与元认知自信对培养自主思考者的决定性价值。
@@ -240,7 +244,8 @@ updated: 2026-11-18
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014, pp. 44–45)]] — 批判将自主学习表面标签化的倾向，指出哈蒂数据同样证实优秀教师课堂中广泛存在学生发起与调节的开放学习情境，强调任务结构与师生对话质量是决定自主学习成败的实质机理。
 > - [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]] — 结合瑞典全国调查数据，揭示自主学习时间激增（26% 增至 41%）与国际测验断崖式滑坡的时序因果关联（p. 47）。
 > - [[Argument_Lakhani_2012_AKUIED|Lakhani (2012)]] — 质性剖析 IB 知识论课程如何通过认识论批判反思与元认知自信建设双轨路径培育实质性学习者自主。
 > - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 量化评估 IB 课程对学生批判性思维与独立探究能力的长期因果促进效应。

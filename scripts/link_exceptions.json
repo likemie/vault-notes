@@ -1526,5 +1526,11 @@
       "sentence": "One of the aims of enhancing institutional autonomy is to strengthen the formal competences of institutional leaders and allow for more hierarchical, top‐down governance practices in universities...",
       "target": "wiki/facts/multi/AIMS Programme.md"
     }
+  ],
+  "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md": [
+    {
+      "sentence": "大样本统计成果至多提供一种专业举证参考（Beweislast），要求实践者在选择差异化方案时给出情境说明，不能充当剥夺一线教学探索的刚性禁令。",
+      "target": "wiki/concepts/educational-philosophy/Alienation.md"
+    }
   ]
 }
