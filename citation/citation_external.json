@@ -30,7 +30,9 @@
     "AEC (1946)": "AEC, 1946",
     "AEC, 1946": "AEC, 1946",
     "AERA (2000)": "AERA, 2000",
+    "AERA (2015)": "AERA, 2015",
     "AERA, 2000": "AERA, 2000",
+    "AERA, 2015": "AERA, 2015",
     "AERO (2021a)": "AERO, 2021a",
     "AERO (2021b)": "AERO, 2021b",
     "AERO (2022)": "AERO, 2022",
@@ -27828,6 +27830,8 @@
     "William Mehrens & Elizabeth Kaminski, 1989": "William Mehrens & Elizabeth Kaminski, 1989",
     "William S. Robinson (1950)": "William S. Robinson, 1950",
     "William S. Robinson, 1950": "William S. Robinson, 1950",
+    "William Sanders (2000)": "William Sanders, 2000",
+    "William Sanders, 2000": "William Sanders, 2000",
     "William Tunmer (1986)": "William Tunmer, 1986",
     "William Tunmer, 1986": "William Tunmer, 1986",
     "William, 2004": "William, 2004",
@@ -30087,6 +30091,21 @@
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23.md",
         "wiki/concepts/research-methodology/Covert Research.md"
+      ],
+      "title": ""
+    },
+    "AERA, 2015": {
+      "aliases": [
+        "AERA, 2015",
+        "AERA (2015)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "AERA, 2015"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/us/Tennessee Value-Added Assessment System.md"
       ],
       "title": ""
     },
@@ -112390,7 +112409,8 @@
       ],
       "isbn": "9783834011909",
       "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md"
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md",
+        "wiki/concepts/instruction-pedagogy/Selbstdidaktisierung.md"
       ],
       "title": "Lernen sichtbar machen"
     },
@@ -196353,6 +196373,7 @@
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md",
         "wiki/concepts/curriculum/Learning Progression.md",
         "wiki/concepts/teacher-education/Teacher Effects.md",
+        "wiki/facts/us/Tennessee Value-Added Assessment System.md",
         "wiki/methods/quantitative/Cohort Study.md"
       ],
       "title": "Cumulative and Residual Effects of Teachers on Future Student Academic Achievement"
@@ -196381,7 +196402,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md"
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md",
+        "wiki/facts/us/Tennessee Value-Added Assessment System.md"
       ],
       "title": "Value-Added Assessment from Student Achievement Data: Opportunities and Hurdles"
     },
@@ -232994,6 +233016,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/research-methodology/Unit of Analysis.md"
+      ],
+      "title": ""
+    },
+    "William Sanders, 2000": {
+      "aliases": [
+        "William Sanders, 2000",
+        "William Sanders (2000)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "William Sanders, 2000"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/us/Tennessee Value-Added Assessment System.md"
       ],
       "title": ""
     },

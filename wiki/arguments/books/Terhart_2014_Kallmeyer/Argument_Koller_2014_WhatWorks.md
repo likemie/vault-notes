@@ -246,7 +246,7 @@ updated: 2026-11-24
 
 > [!finding-cards] 核心发现
 > 1. **深层教学过程决定学业成效** 学校宏观结构调整（班额、留级、分轨）因停留在表层结构而普遍低效；直接切入课堂师生互动的深层变量展现显著促学优势。
-> 2. **三大基准维度统摄高效教学** 班级管理、认知激活与建设性支持三位一体，构成了整合直接教学、互惠教学、概念图与内容反馈的普适理论框架。
+> 2. **三大基准维度整合高效教学机制** 班级管理、认知激活与建设性支持三位一体，构成了整合直接教学、互惠教学、概念图与内容反馈的普适理论框架。
 > 3. **学科专业知识是专业教学的基石** 驳斥哈蒂学科知识低效论，依据 COACTIV 等本土严密证据确立学科专业素养在支撑认知激活与学业增益中的关键先决地位。
 > 4. **确立以学生为中心的循证反思规程** 倡导教师明确目标标准、依托形成性前测把脉起点、依据增值数据持续优化教学实践。
 
@@ -264,7 +264,7 @@ updated: 2026-11-24
 ## 关键引用
 
 > [!citation-card] 教育改革重心转向课堂教学
-> 与许多围绕教育系统结构改革展开的教育政策讨论相比，哈蒂令人信服地指出，改革努力应当更少地依赖学校外部框架条件的调整，而是必须聚焦于课堂教学本身的实质改善。（p. 24）
+> 与许多围绕教育系统结构改革展开的政策讨论相比，哈蒂令人信服地指出，改革努力必须直接聚焦于课堂教学本身的实质改善，减少对学校外部框架条件的单纯依赖。（p. 24）
 >
 > *Im Gegensatz zu vielen bildungspolitischen Diskussionen über Strukturreformen im Bildungssystem weist Hattie eindrucksvoll darauf hin, dass Reformbemühungen sich weniger auf Rahmenbedingungen von Schule, sondern auf die Verbesserung von Unterricht beziehen sollten.*
 
@@ -279,7 +279,7 @@ updated: 2026-11-24
 > *Fasst man die Befunde zur Relevanz der schulischen Maße zusammen, so zeigt sich insgesamt, dass Maßnahmen umso eher lernförderlich wirken, je dichter sie direkt am Unterricht bzw. an der Lernsituation angreifen.*
 
 > [!citation-card] 以学生为中心的教学本质
-> 在这一套行动规程中清晰可见，哈蒂所倡导的绝非倒退回陈旧过时的教师中心主义，其核心信息恰恰是以学生为中心的：优秀的教师持续思考自己究竟要引导学生学到什么，并探寻如何确保学生能够实现成功学习。（p. 36）
+> 在这一套行动规程中清晰可见，哈蒂所倡导的核心信息是以学生为中心的：优秀的教师持续思考自己究竟要引导学生学到什么，并探寻如何确保学生能够实现成功学习。（p. 36）
 >
 > *Bei diesem Handlungskatalog wird deutlich, dass es Hattie nicht um die Rückkehr zu einem anachronistischen lehrerzentrierten Unterricht geht. Vielmehr ist seine Botschaft schülerzentriert: Die gute Lehrkraft macht sich immer wieder Gedanken, was sie den Schülerinnen und Schülern beibringen möchte und wie sie sicherstellen kann, dass diese auch erfolgreich lernen.*
 

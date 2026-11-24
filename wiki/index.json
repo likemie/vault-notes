@@ -54566,6 +54566,19 @@
     "subtype": "policy"
   },
   {
+    "title": "Tennessee Value-Added Assessment System",
+    "type": "fact",
+    "path": "wiki/facts/us/Tennessee Value-Added Assessment System.md",
+    "aliases": [
+      "TVAAS",
+      "田纳西增值评价系统",
+      "田纳西增值评估系统",
+      "Tennessee Value Added Assessment System",
+      "Value-Added Assessment in Tennessee"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Title I of the Elementary and Secondary Education Act",
     "type": "fact",
     "path": "wiki/facts/us/Title I of the Elementary and Secondary Education Act.md",

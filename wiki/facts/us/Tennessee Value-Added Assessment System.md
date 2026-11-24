@@ -10,6 +10,12 @@ summary: "田纳西州于1992年依据《教育改善法案》建立的全州教
 type: fact
 subtype: policy
 region: us
+fact_region: "us"
+fact_kind: "policy"
+fact_related_count: 11
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dbeafe"
 issuing_organization: 田纳西州教育局（Tennessee Department of Education）
 tags:
   - tvaas
@@ -96,7 +102,7 @@ updated: 2026-11-24
 > [!finding-cards] 效果与评价
 > - **教师效能巨大离散性** 桑德斯与里弗斯的研究证实，在前20%高效能教师班级中学习三年的学生，其数学成绩较后20%低效能教师班级学生高出约50个百分位点。[[Argument_Terhart_2014_HolyGrail|(Terhart, 2014, p. 18)]]
 > - **累积与不可逆效应** 经历低效教师造成的学业滞后具有持续残留效应（Residual Effects），后续配备优良教师仅能实现当年增量，难以完全抹平此前损失。
-> - **背景控制效度** 增值模型有效证明，学生先赋背景并非决定学业进步速度的单一力量，高质量课堂教学能够产生稳定的学术净增值。
+> - **背景控制效度** 增值模型有效证明，在家庭背景与先赋基础之外，高质量课堂教学能够产生独立的学术净增值。
 
 ---
 
@@ -123,7 +129,7 @@ updated: 2026-11-24
 > | [[Value-Added Model]] | 概念 | TVAAS 系统赖以建立的统计学与计量经济学方法论母体。 |
 > | [[Teacher Effects]] | 概念 | TVAAS 旨在量化剥离并向决策层呈现的核心测量对象。 |
 > | [[Test-Based Accountability]] | 概念 | TVAAS 所服务和推进的现代教育治理与绩效问责制度形态。 |
-> | [[School Accountability Systems]] | 概念 | 州级教育行政架构中统摄 TVAAS 运用的宏观制度载体。 |
+> | [[School Accountability Systems]] | 概念 | 州级教育行政架构中整合与推进 TVAAS 运用的宏观制度载体。 |
 > | [[Process-Product Paradigm]] | 理论 | 支撑 TVAAS 将教师行为视作输入、学业增值视作产出的认识论传统。 |
 > | [[Tennessee STAR Project 1985-1989]] | 事实 | 同在田纳西州开展的经典实证研究，共同构筑了美国循证教育改革的实证基石。 |
 > | [[John Hattie]] | 人物 | 引用 TVAAS 经验数据作为论证“教师效能是学校内部最强大力量”的核心实证支柱。 |
