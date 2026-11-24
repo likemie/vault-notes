@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -64,7 +64,7 @@ updated: 2026-11-24
 > [!work-line] 主要著作
 > - **1982 — *Der kommende Gott: Vorlesungen über die [[New Mythology|Neue Mythologie]]*** 系统讲授早期浪漫派与唯心论中的“新神话”思潮谱系。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 226 n.19)]]
 > - **1985 — *Eine Einführung in Schellings Philosophie*** 提出重新评估谢林在德国唯心论与现代哲学中地位的导论性研究。
-> - **1989 — *Einführung in die frühromantische Ästhetik*** 系统阐发早期浪漫派认识论与美学，界定艺术语义敞开对命题真理的奠基性，并分析谢林中期美学张力与浪漫反讽。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 225 n.5)]][[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 187, 240 n.26)]]
+> - **1989 — *Einführung in die frühromantische Ästhetik*** 系统阐发早期浪漫派认识论与美学，阐明艺术语义敞开对命题真理的先在性，并分析谢林中期美学张力与浪漫反讽。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 225 n.5)]][[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 187, 240 n.26)]]
 
 ---
 
@@ -122,6 +122,6 @@ updated: 2026-11-24
 > | [[Schelling's Aesthetics]] | 理论 | 揭示其中期新柏拉图主义美学在哲学概念阐释与艺术无限可阐释性之间的内在张力。[[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, pp. 81–82)]] |
 > | [[Romantic Irony]] | 概念 | 参与当代学界关于浪漫反讽伦理后果的核心争论，主张其具有贬抑自大幻想的正面功能。[[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, p. 85)]] |
 > | [[New Mythology]] | 概念 | 著有《即将来临的上帝》（1982），系统梳理早期浪漫派新神话谱系。[[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, p. 226 n.19)]] |
-> | [[Aesthetic Truth]] | 概念 | 阐发艺术真理作为命题正确性先在语义条件的认识论奠基。[[Argument_Hammermeister_2002_Cambridge_Ch09\|(Hammermeister, 2002, p. 187)]] |
+> | [[Aesthetic Truth]] | 概念 | 阐发艺术真理作为命题正确性先在语义条件的认识论先在性。[[Argument_Hammermeister_2002_Cambridge_Ch09\|(Hammermeister, 2002, p. 187)]] |
 > | [[Martin Heidegger]] | 人物 | 在艺术真理对科学正确性的先在性上形成当代诠释对话。[[Argument_Hammermeister_2002_Cambridge_Ch09\|(Hammermeister, 2002, p. 187)]] |
 > | [[Friedrich Wilhelm Joseph Schelling]] | 人物 | 重估其哲学史地位与美学张力的核心研究对象。[[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, pp. 64, 81–82)]] |

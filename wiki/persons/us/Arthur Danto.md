@@ -10,10 +10,10 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 8
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1924"
 died: "2013"
 lifespan: "1924–2013"
@@ -63,7 +63,7 @@ updated: 2026-11-24
 > 丹托顺着黑格尔在《美学讲演录》中的判断，提出对“艺术终结”的解放性解读：历史意义上“艺术承担最高真理载体”的使命虽然结束了，但这恰恰标志着真正艺术主权的开始。当代艺术家不再受限于单一内容和对应形式，艺术摆脱了宏大历史叙事的羁绊，成为凭主观技艺自由运用的独立领域。然而，哈默迈斯特指出，这一解放解释虽能说明现代多种风格并存的多元现象，仍需补充规范性评判标准与艺术真理理论，否则容易滑向虚无主义并模糊艺术与庸俗作品的界限。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 102–103)]]
 >
 > > [!thesis-quote] 《艺术的终结之后》（1997；引自 Hammermeister, 2002）
-> > 艺术史的终结并不意味着艺术创作的停滞，而是意味着一种叙事范式的终结与风格多元主义的全面释放。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 102–103)]]
+> > 艺术史的终结宣告了一种宏大叙事范式的退场，开启了风格多元主义与艺术主权的全面释放。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 102–103)]]
 > >
 > > *The end of art history does not mean the end of art-making, but the liberation of art into radical pluralism.*
 

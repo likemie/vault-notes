@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 48
+person_related_count: 49
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -117,7 +117,7 @@ updated: 2026-11-24
 ---
 
 > [!thought-timeline] 思想发展
-> - **1960s — 公共领域考掘与[[Positivism|实证主义]]批判的奠基阶段** 回应资本主义技术官僚统治与实证主义对社会哲学的窄化。
+> - **1960s — 公共领域考掘与[[Positivism|实证主义]]早期批判阶段** 回应资本主义技术官僚统治与实证主义对社会哲学的窄化。
 >   - **代表著作** 《公共领域的结构转型》（1962）、《认识与兴趣》（1968）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 18–19)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, Ch. 2, pp. 23–25)]]
 >   - **关键概念／方法** 公共领域（Public Sphere）、再封建化、[[Positivism|实证主义]]批判、[[Scientism|科学主义]]、技术/实践/解放三种知识构成性兴趣。
 >   - **阶段转向** 克服第一代批判学者（霍克海默、阿多诺）在《启蒙辩证法》中陷入的绝对文化悲观主义绝境，转向[[Epistemology|认识论]]层面的[[Paradigm|范式]]重构，论证科学主义对诠释学、审美与批判知识的压抑。
