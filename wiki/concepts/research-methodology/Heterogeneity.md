@@ -96,6 +96,7 @@ related_persons:
   - "[[Robert K. Merton]]"
   - "[[Christof Wecker]]"
 related_arguments:
+  - "[[Argument_Brugelmann_2014_LocalPractice]]"
   - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
@@ -201,6 +202,9 @@ updated: 2026-11-23
 
 > [!claim] Higgins & Wrigley; Wiliam
 > **变异性探索优于单一平均效应量** 在高度情境化的教育实践中，单一平均[[Effect Size|效应量]]往往会抹平具有决定意义的实质差异；探索异质性的来源比计算虚假的普遍平均值具有更高的理论与实践价值。以课堂反馈研究为例，Kluger and DeNisi（1996）的[[Meta-analysis|元分析]]表明，尽管反馈总体平均效应量达到 $+0.40$，但由于效应量标准差超过 1.0 的极高异质性，有多达 38% 的研究中反馈反而产生了负向效果。唯有深入解构异质性机制，才能辨识有效反馈的边界条件。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 37)]]; [[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 14)]]; [[Argument_Wiliam_2019_ERE|(Wiliam, 2019, p. 10)]]
+
+> [!claim] Brügelmann
+> **均值陷阱与课程测不准原理** 教育实践的本质特征在于情境与效应的巨大离散度（Streuung）。追求单一平均效应量的循证研究极易陷入“均值陷阱”（Durchschnittsfalle）：大样本统计平均效应无法直接外推为具体课堂的行动指令，当特定干预的总体均值表现良好时，在特定微观班级中往往由于教师专业特征、生源构成与师生交往生态的异质性而呈现零效应乃至负效应。依据鲍尔斯费尔德（Bauersfeld）的“课程测不准原理”（curriculares Unschärfeprinzip），为了在控制实验中排除干扰以消除异质性，研究设计必须将教学环境高度人工化，这直接损失了教育情境的生态效度；越是贴近复杂真实的常态教学，多维情境变量就越不可能被同时恒定控制。[[Argument_Brugelmann_2014_LocalPractice|(Brügelmann, 2014, pp. 38–41, 46)]]
 
 ---
 
@@ -372,6 +376,7 @@ updated: 2026-11-23
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014, pp. 38–41, 46)]] — 从均值陷阱与课程测不准原理出发，批判超级元分析以大样本统计平均抹杀微观课堂情境与效应离散度（Streuung）的方法论缺陷。
 > - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 指出科研人员在预审筛查与过度竞争逼迫下趋向安全主流，消解了学术选题与探索视角的认知多样性与深层异质性。
 > - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 论述科学学中的普适规律与学科异质性，警示科技政策制定必须尊重不同学科在发表周期与评价文化上的实质异质性（p. 5）。
 > - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 提出双因子 [[Q-Model|Q 模型]]，证实学者个体生涯引文的极端异质性可通过个人能力参数约化标度还原全部坍缩至通用构想潜力分布 $P(p)$。
