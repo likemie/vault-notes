@@ -4942,6 +4942,18 @@
     ]
   },
   {
+    "title": "Aesthetic Compensation",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Aesthetic Compensation.md",
+    "aliases": [
+      "美学补偿",
+      "审美补偿",
+      "美学补偿论",
+      "Ästhetische Kompensation",
+      "Compensation Theory of Aesthetics"
+    ]
+  },
+  {
     "title": "Aesthetic Education",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Aesthetic Education.md",
@@ -6427,6 +6439,18 @@
     ]
   },
   {
+    "title": "Nonsense Literature",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Nonsense Literature.md",
+    "aliases": [
+      "荒诞文学",
+      "无意义文学",
+      "胡诌文学",
+      "Unsinnsdichtung",
+      "nonsense poetry"
+    ]
+  },
+  {
     "title": "Normative Paradigm",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Normative Paradigm.md",
@@ -7195,6 +7219,19 @@
     "path": "wiki/concepts/educational-philosophy/Ubuntu.md",
     "aliases": [
       "乌班图"
+    ]
+  },
+  {
+    "title": "Ugly Art",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Ugly Art.md",
+    "aliases": [
+      "丑的艺术",
+      "丑艺术",
+      "丑陋艺术",
+      "Das Hässliche in der Kunst",
+      "Aesthetics of the Ugly",
+      "representation of the ugly"
     ]
   },
   {
