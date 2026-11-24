@@ -59,6 +59,7 @@ related_arguments:
   - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Eacott_2017_SLM]]"
   - "[[Argument_Deng_2016_CE]]"
+  - "[[Argument_Koller_2014_WhatWorks]]"
 related_facts:
   - "[[OECD]]"
   - "[[Monash Q Project]]"
@@ -82,6 +83,7 @@ related_persons:
   - "[[Herbert Altrichter]]"
   - "[[Roy Nash]]"
   - "[[John Hattie]]"
+  - "[[Olaf Köller]]"
 confidence: high
 status: draft
 created: 2026-05-02
