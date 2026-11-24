@@ -10,9 +10,9 @@ aliases:
 summary: "波普尔提出的科学划界与检验标准，主张科学理论的标志在于其承担被经验反驳的风险；在比较教育学中驱动了从古典历史向假说检验与问题解决法的转型，在科学学中通过跨世纪全量文献大数据成功检验并证伪了科学增长饱和假说。"
 type: concept
 domain: "educational-philosophy"
-related_count: 69
-related_level: 6
-related_stars: "💎💎"
+related_count: 70
+related_level: 7
+related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - theme/epistemology
@@ -207,7 +207,7 @@ updated: 2026-11-25
 > **[[Metascience|元科学]]严苛检验与宏观证据库证伪** 探讨波普尔严苛检验（Severe Testing）原则在二阶综合与循证政策知识库中的前沿应用，揭示宏观政策断言若缺乏基础复核将陷入不可证伪的教条神话。
 >
 > > [!claim] [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]
-> > **二阶综合宏观论断的元科学证伪与复现塌陷** 卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）针对[[John Hattie|约翰·哈蒂]]（John Hattie）全球畅销且深刻影响多国政策的《[[Visible Learning|可见的学习]]》（涵盖 2,111 项[[Meta-analysis|元分析]]）展开了教育学史上首次完全公开、[[Preregistration|预注册]]且针对全量底层[[Document|文献]]的穷尽复核与严苛证伪检验。研究发现：哈蒂所宣称的“奠基于全球实证、客观呈现何种教学有效”的宏观实证论断，在经受严格检验时全面崩溃，其底层[[Effect Size|效应量]]仅有 0.66%（14/2,111）在未引入计算或[[Transcription in Qualitative Research|转录]]错误的前提下完全可重复，高达 44%（928 项）的所谓元分析在[[Primary and Secondary Documents|原始文献]]中缺乏数据支持。这项研究表明，波普尔的证伪精神不仅适用于微观理论假说检验，更是元科学时代清算宏观伪证据体系的不可或缺的方法学武器。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 2–3, 8–12)]]
+> > **二阶综合宏观论断的元科学证伪与复现塌陷** 卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）针对[[John Hattie|约翰·哈蒂]]（John Hattie）全球畅销且深刻影响多国政策的《[[Visible Learning|可见的学习]]》（涵盖 2,111 项[[Meta-analysis|元分析]]）展开了教育学史上首次完全公开、[[Preregistration|预注册]]且针对全量底层[[Document|文献]]的穷尽复核与严苛证伪检验。研究发现：哈蒂所宣称的“立足全球实证、客观呈现何种教学有效”的宏观实证论断，在经受严格检验时全面崩溃，其底层[[Effect Size|效应量]]仅有 0.66%（14/2,111）在未引入计算或[[Transcription in Qualitative Research|转录]]错误的前提下完全可重复，高达 44%（928 项）的所谓元分析在[[Primary and Secondary Documents|原始文献]]中缺乏数据支持。这项研究表明，波普尔的证伪精神不仅适用于微观理论假说检验，更是元科学时代清算宏观伪证据体系的不可或缺的方法学武器。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 2–3, 8–12)]]
 
 ---
 
@@ -215,7 +215,7 @@ updated: 2026-11-25
 > **科学学大尺度历史检验与假说证伪** 探讨基于局部物理或生物资源耗竭模型推导的宏观科学发展规律，如何在大尺度全量历史数据的严格检验下遭遇证伪。
 >
 > > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Sinatra, R. et al. & Wang, D. & Barabási, A.-L.]]
-> > **生物学资源饱和假说的百年大数据证伪** 科学学奠基人普赖斯基于细菌在有限培养皿中养分耗竭的生物学生长模型，提出了科学知识增长的饱和假说，断言文献指数级扩张必将在 1950 年代遭遇天花板并走向逻辑斯蒂饱和。然而，[[Roberta Sinatra|西纳特拉]]等人以及[[Dashun Wang|王大顺]]、[[Albert-László Barabási|巴拉巴西]]通过对 Web of Science 收录的百年自然科学全量出版物与引文网络进行追踪检验，发现普赖斯的饱和预言并未成真，全球文献总量稳定保持着约 12 年翻一番的指数增长节奏达一个多世纪之久。这一长周期大数据检验彻底证伪了生物资源饱和假说，确立了以非消耗性思想繁殖为基石的现代科学演化认知。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Sinatra et al., 2016; Wang & Barabási, 2021, pp. 161–164)]]
+> > **生物学资源饱和假说的百年大数据证伪** 科学计量学先驱普赖斯基于细菌在有限培养皿中养分耗竭的生物学生长模型，提出了科学知识增长的饱和假说，断言文献指数级扩张必将在 1950 年代遭遇天花板并走向逻辑斯蒂饱和。然而，[[Roberta Sinatra|西纳特拉]]等人以及[[Dashun Wang|王大顺]]、[[Albert-László Barabási|巴拉巴西]]通过对 Web of Science 收录的百年自然科学全量出版物与引文网络进行追踪检验，发现普赖斯的饱和预言并未成真，全球文献总量稳定保持着约 12 年翻一番的指数增长节奏达一个多世纪之久。这一长周期大数据检验彻底证伪了生物资源饱和假说，确立了以非消耗性思想繁殖为基石的现代科学演化认知。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Sinatra et al., 2016; Wang & Barabási, 2021, pp. 161–164)]]
 
 ---
 
@@ -274,6 +274,7 @@ updated: 2026-11-25
 > | [[Argument_Sinatra_2016_Science\|Sinatra et al. (2016)]] | 跨越一个世纪的 2,887 位长周期物理学家与 7 大门类跨学科学者 | 反事实生涯置换实验与纯运气零模型竞争检验 | 代表作相对位次 $N^*/N$、年度发文速率 $n(t)$ 与最高被引量 $c_{10}^*$ | 代表作相对位次在 $(0, 1]$ 上服从均匀分布（概率密度 $P=1.0$）；纯运气 R 模型极端值预测随篇数呈 $\sim \sqrt{\log N}$ 增长，且在成果均值逼近基准时预测被引发散 | 经验数据与置换反事实拟合显著，与 R 模型显著相悖 | 证伪了[[Scientific Creativity\|科学创造力]]生理衰退假说与纯运气抽签零模型，确立选题独立性与稳态能力乘积机制 |
 > | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 《可见的学习》涵盖的 2,111 项元分析全量底层文献 | 预注册全样本复核审计 | 纯净可重复比例与无数据支撑比例 | 仅 0.66%（14 项）完全可重复；44%（928 项）在对应文献中无数据支持；63 项虚构出版物 | 官方预注册穷尽复核 | 证实宏观实证证据库若缺乏基础复核将陷入虚假证实神话 |
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] | 素数定理形式化验证项目（2024–2025） | 自动化形式化验证实验 | 验证耗时与通过定理数 | 大模型在 3 周内完成包含 1100 个定理与定义的形式化验证与机器反驳检验（此前 20 余位顶尖数学家耗时 18 个月未完全突破） | 形式化机器证明确定性结果 | 展现现代自动化机器沙盒作为可证伪性核验基础设施的效能 |
+> | [[Argument_Brugelmann_2014_LocalPractice\|Brügelmann (2014)]] | 德国汉堡采用由写促读教学法的跨年级小学班级四年级学生 | 跨年级教学现场实验与标准化测试评估 | 汉堡书写测试（HSP）拼写百分位等级（PR） | 四年级学生在汉堡书写测试中的平均成绩达到 PR 82，全班常模成绩处于 PR 69–73 | 显著高于德国全国常模均值线（PR 50） | 经验上证伪了开放教学与由写促读必然损害正字法并导致学业落后的断言 |
 
 ---
 
@@ -289,3 +290,4 @@ updated: 2026-11-25
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 针对《可见的学习》开展预注册全样本复核审计，通过严苛经验证伪揭示宏观循证知识库底层仅 0.66% 纯净可重复且 44% 查无实据，展示二阶元科学证伪对教育决策的纠偏力量。
 > - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] — [[Qualitative Interview|质性访谈]]揭示哈蒂援引波普尔可证伪性原则为其可见学习模型辩护，将持续搜集反例与将缩减[[Class Size|班级规模]]高效益作为理论整体证伪的经验判准。
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 结合教育改革因果推断框架，指出研究设计通过[[Causal Processes|因果过程]]追踪与竞争性假设对照，对宏观政策干预机制实施经验证伪（pp. 3–5）。
+> - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014)]] — 结合跨年级小学班级在汉堡书写测试中取得的 PR 82 经验数据，从实证上反驳并证伪了开放教学与由写促读法必然导致学业落后的断言，论证微观个案经验才是裁决宏观理论假说的试金石（pp. 39, 46）。

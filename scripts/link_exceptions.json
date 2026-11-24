@@ -1531,6 +1531,10 @@
     {
       "sentence": "大样本统计成果至多提供一种专业举证参考（Beweislast），要求实践者在选择差异化方案时给出情境说明，不能充当剥夺一线教学探索的刚性禁令。",
       "target": "wiki/concepts/educational-philosophy/Alienation.md"
+    },
+    {
+      "sentence": "Die Auswertung von Großstudien bestimmt die Fragestellung, dem Einzelfall in seiner Besonderheit kann man mit allgemeinen Aussagen und Regelungen nur sehr eingeschränkt gerecht werden.* (Rumpf, 1969; cit.",
+      "target": "wiki/concepts/educational-philosophy/Typicality.md"
     }
   ]
 }
