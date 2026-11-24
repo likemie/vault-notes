@@ -10,9 +10,9 @@ subtype: program
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "program"
-fact_related_count: 38
-fact_related_level: 3
-fact_related_stars: "💎"
+fact_related_count: 40
+fact_related_level: 4
+fact_related_stars: "💎⭐"
 fact_related_color: "#ede9fe"
 period: "2008–至今"
 initiator_organization: "[[John Hattie]]"
@@ -62,6 +62,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"
+  - "[[Christof Wecker]]"
 related_facts:
   - "[[Corwin Press]]"
   - "[[Visible Learning Branding and Global Influences]]"
@@ -69,10 +70,11 @@ related_arguments:
   - "[[Argument_Jansen_2026_EPR]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
   - "[[Argument_Johnson_2023_CritEduc]]"
+  - "[[Argument_Wecker_2016_ZfE]]"
 confidence: medium
-status: draft
+status: active
 created: 2026-09-18
-updated: 2026-11-15
+updated: 2026-11-24
 ---
 
 > [!program-context] 项目背景
@@ -871,6 +873,7 @@ MetaX 现行分类扩展为 9 个领域、43 个子领域。下表用 2026 年 1
 > [!evidence-grid] 典型学术研究与方法学检验
 > - **[[Argument_Jansen_2026_EPR|Jansen et al. (2026)]]** 从数据库随机抽取 156 项[[Academic Achievement|学业成就]]相关元分析，系统评估三种前沿大语言模型（Gemini 2.5 Pro、[[General Purpose Technology|GPT]]-4.1、GPT-o3）在[[Automated Data Extraction|自动化数据提取]]中的准确性，建立人机混合验证[[Paradigm|范式]]。
 > - **[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]** 对数据库 1.2 版的全部 322 项影响因素（1,369 篇一阶元分析）开展穷尽式[[Metascience|元科学]]质量评估与独立复现检验，系统诊断数据库在 [[PICO Framework|PICO]] 准入、模型设计混淆与数据提取上的系统性偏差。
+> - **[[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]]** 推导固定效应二阶元分析数学等价性公理，揭示数据库在标准误与标准差混淆、测度直接通约及初级研究重复加权上的统计学失范。
 > - **跨主题二阶综合研究** 研究者基于数据库开展主题聚焦的二阶元分析（如特定学科教学效果、弱势群体干预效能），汇聚跨元分析的[[Effect Size|效应量]]变异，检验调节[[Variable|变量]]与[[Publication Bias|发表偏倚]]。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 系统批判 Meta-X 的均值稀释效应、缺乏文献淘汰机制及课堂非人化研发实验室[[Alienation|异化]]。
 
@@ -881,7 +884,7 @@ MetaX 现行分类扩展为 9 个领域、43 个子领域。下表用 2026 年 1
 > > [!axis] 数据质量与原始录入[[Reliability|可靠性]]
 > > 数据库规模庞大，早期录入依赖单人人工抄录，各[[Meta-analysis|元分析]]的[[Effect Size|效应量]]提取口径不一，累积性录入失误已被实证揭示。
 > >
-> > - **实证依据** [[Argument_Jansen_2026_EPR|Jansen et al. (2026, pp. 16–18)]] 发现，既有数据库原始录入与仲裁金标准相比，[[Intraclass Correlation Coefficient|组内相关系数]]（$\text{ICC} = 0.81$，一致率 80%），存在 57 处独有偏离，单方偏离规模显著高于人类独立专家（$\text{ICC} = 0.95$）与三大前沿大语言模型（$\text{ICC} \in [0.96, 0.97]$，一致率 95%–97%）。进一步地，[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025, pp. 14, 18–19)]] 对数据库全部 322 项影响因素（涵盖 1,369 篇一阶元分析）开展穷尽式[[Metascience|元科学]]审计，实证揭示仅 19% 符合 [[PICO Framework|PICO]] 纳入标准，301 项可核查因素中仅 2 项成功复现数据提取（复现率不足 1%），且 44% 的报告效应量在[[Primary and Secondary Documents|原始文献]]中根本无法查实。
+> > - **实证依据** [[Argument_Jansen_2026_EPR|Jansen et al. (2026, pp. 16–18)]] 发现，既有数据库原始录入与仲裁金标准相比，[[Intraclass Correlation Coefficient|组内相关系数]]（$\text{ICC} = 0.81$，一致率 80%），存在 57 处独有偏离，单方偏离规模显著高于人类独立专家（$\text{ICC} = 0.95$）与三大前沿大语言模型（$\text{ICC} \in [0.96, 0.97]$，一致率 95%–97%）。进一步地，[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025, pp. 14, 18–19)]] 对数据库全部 322 项影响因素（涵盖 1,369 篇一阶元分析）开展穷尽式[[Metascience|元科学]]审计，实证揭示仅 19% 符合 [[PICO Framework|PICO]] 纳入标准，301 项可核查因素中仅 2 项成功复现数据提取（复现率不足 1%），且 44% 的报告效应量在[[Primary and Secondary Documents|原始文献]]中根本无法查实。此外，[[Argument_Wecker_2016_ZfE|Wecker et al. (2016, pp. 26–27)]] 揭露数据库将标准误（SE）与标准差（SD）混为一谈（如 Eisenstaedt 案例中除数缩小导致效应量虚增逾 10 倍），并在缺乏重叠控制下导致直接教学法等经典干预的有效权重失真达 53.5%。
 > > - **方法后果** 早期人工录入的历史局限使数据库存在显著误差，全量审计更证实其存在深层数据链断裂，后续[[Meta-meta-analysis|二阶元分析]]研究应优先建立独立核查机制。
 >
 > > [!axis] 商业化运营与学术中立性

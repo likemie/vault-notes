@@ -5,7 +5,7 @@ aliases:
 summary: "John Hattie 发起的教育证据综合与学校改进框架，主张通过汇总海量元分析建立 d=0.40 关节点相对有效性判准，将教师确立为成就变异的核心因果枢纽（30%），依托学业进阶、显性成功标准与形成性反馈重塑教学评价性判断。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 166
+related_count: 168
 related_level: 16
 related_stars: "💎💎💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -136,6 +136,7 @@ related_persons:
   - "[[Klaus Nielsen]]"
   - "[[Gerald Grace]]"
   - "[[Ewald Terhart]]"
+  - "[[Olaf Köller]]"
   - "[[Thomas Nordahl]]"
   - "[[Scott Eacott]]"
   - "[[Charles Taylor]]"
@@ -174,6 +175,7 @@ related_arguments:
   - "[[Argument_Knudsen_2017_NordSTEP]]"
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Terhart_2014_HolyGrail]]"
+  - "[[Argument_Koller_2014_WhatWorks]]"
   - "[[Argument_Fredens_2015_Paideia]]"
   - "[[Argument_Nordahl_2015_Paideia]]"
   - "[[Argument_Kelly_2025_ROE]]"
@@ -188,7 +190,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
   - "[[Argument_Nielsen_2021_IRTP]]"
 confidence: high
-status: draft
+status: stable
 created: 2026-05-02
 updated: 2026-11-24
 ---
@@ -450,6 +452,9 @@ updated: 2026-11-24
 > | 知识模块 | 条目 | 类型 | 关系与维护定位（分流维护指引） |
 > |:---|:---|:---|:---|
 > | **核心理论与教学论** | [[Visible Learning]] | 概念 | 本母条目；聚焦二阶元分析理论架构、$d=0.40$ 关节点、教师思维框架、形成性三提问与双向可见性教学论；宏观理论框架维护于此。 |
+> | **核心理论与教学论** | [[Zone of Desired Effects]] | 概念 | 期望效应区与 $d=0.40$ 关节点构念；统计基准、常态成长分界与教育政策投资门槛维护于此。 |
+> | **核心理论与教学论** | [[Direct Instruction]] | 概念 | 显性教学构念；作为教师激活者（$d=0.60$）的核心教学法载体，精熟学习与脚本化教学实验维护于此。 |
+> | **核心理论与教学论** | [[Surface and Deep Learning]] | 概念 | 表层与深层学习构念；晚期三阶段学习模型、SOLO 分类法与认知迁移机制维护于此。 |
 > | **核心理论与教学论** | [[Learning Intentions]] | 概念 | 显性学习意图构念与教学目标敞开机制；课堂教学设计与认知透明度扩充维护于此。 |
 > | **核心理论与教学论** | [[Success Criteria]] | 概念 | 显性成功标准构念与分阶成就阶梯；评价标准共享与学生自评机制扩充维护于此。 |
 > | **核心理论与教学论** | [[Feedback]] | 概念 | 形成性反馈三层级模型（任务、过程、自我调节）；反馈交互机制维护于此。 |
@@ -458,8 +463,11 @@ updated: 2026-11-24
 > | **核心人物** | [[John Hattie]] | 人物 | 约翰·哈蒂；VL 理论框架开创者、二阶元综合首席研究员，曾兼任认知教育公司董事；学者生平、学术转向与争议履历维护于此。 |
 > | **商业化与全球政策扩散** | [[Visible Learning Branding and Global Influences]] | 事实 / 事件 | 记录 Visible Learning 从新西兰学术成果扩展为 VLplus 商业专营品牌、世哲旗下考文出版社收购（年营收 5000 万美元）、认证培训产业、以及英国、澳大利亚、丹麦等国官方政策采纳及学者高额版税收益事实；**商业运作、版税利益追踪与跨国政策扩散事实统一收口维护于此**。 |
 > | **商业化与全球政策扩散** | [[Cognition Education]] | 事实 / 机构 | 新西兰教育服务改制成立的商业咨询公司，设立 VLplus 品牌并长期向学者支付高额劳务报酬；政商机构演进维护于此。 |
+> | **公共政策与证据中介** | [[Education Endowment Foundation]] | 事实 / 机构 | 英国官方证据中介机构；其《教学与学习工具包》受 VL 启发建立月度学业增益指标，代表去商业化、独立公共资助的证据转化路径；工具包与 RCT 证据链维护于此。 |
+> | **公共政策与证据中介** | [[Australian Institute for Teaching and School Leadership]] | 事实 / 机构 | 澳大利亚国家教师与学校领导力专业标准制定机构；哈蒂长期担任董事会主席，将 VL 思维框架与循证理念直接嵌入国家教师认证制度；澳洲政策演进维护于此。 |
 > | **实证[[Data Infrastructure\|数据基础设施]]** | [[Visible Learning Meta-X]] | 事实 / 项目 | 承载 VL 核心实证数据的底层[[Meta-meta-analysis\|二阶元分析]]数据库（收录 2,100+ 项一阶[[Meta-analysis\|元分析]]、350+ 影响因素）；**数据库技术指标、[[Automated Data Extraction\|自动化数据提取]]质控与更新迭代维护于此**。 |
 > | **测量与评估工具** | [[Assessment Tools for Teaching and Learning]] | 测量工具 | asTTle 计算机评估系统；Hattie 主持开发的新西兰国家[[Formative Assessment\|形成性评估]]工具，其界面直接衍生出 VL 标志性的气压计图表；测评工具构念与管理功能维护于此。 |
+> | **综合研究方法** | [[Meta-meta-analysis]] | 方法 | 二阶元分析方法论范式；研究间重叠文献控制（CCA）、固定效应与随机效应模型选择及代数等价性规范维护于此。 |
 
 ---
 
@@ -468,6 +476,7 @@ updated: 2026-11-24
 > - [[Argument_Hattie_2015_SOTLP\|Hattie (2015a)]] — 提炼八项教师思维框架、DIE 教学循环及高等教育情境下的六项高影响条件。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 从欧陆教学论与教化传统批判可见学习抽空学科实质内容与课程合法化反思的形式主义局限。
 > - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 编撰德语学界对话专著，评注德译本《让学习可见》，从过程-结果范式与“路灯效应”揭示其对不可度量育人维度的排斥，借助福柯权力视角解构双向注视隐喻的微观规训风险，将其定性为反思工具而非操作药方。
+> - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 立足德语区实证教育研究，区隔表层结构与深层结构，基于 [[COACTIV]] 等追踪数据直接驳斥哈蒂低估教师学科知识（$d=0.09$）的论断，提出以认知激活、有效班级管理与建设性支持为维度的循证教学改进规程。
 > - [[Argument_Fredens_2015_Paideia\|Fredens (2015)]] — 从学习科学与脑科学视角解读 VL，提出“使学校成为反馈文化”的组织转型主张。
 > - [[Argument_Nordahl_2015_Paideia\|Nordahl (2015)]] — 斯堪的纳维亚学派将 VL 重构为校本改进、[[Teacher Collaboration|教师协作]]研讨与能力建设的微观实践路径。
 > - [[Argument_Eacott_2019_IJLE\|Eacott (2019)]] — 批判 VL 在行政与商业推广中异化为[[Neo-Taylorism\|新泰勒主义]]控制与[[Cult of the Guru\|大师崇拜]]的制度风险。

@@ -207,7 +207,7 @@ related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
   - "[[Framework for Teaching]]"
 confidence: medium
-status: draft
+status: stable
 created: 2026-05-21
 updated: 2026-11-24
 ---

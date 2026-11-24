@@ -8,7 +8,7 @@ aliases:
 summary: "刻画学生在特定学科领域中理解与能力从初阶向高阶演进的连续性发展轨迹，为课程标准编制、形成性评价与教学干预提供共同参照语言；在标准研制中呈现出由早期学段经验心理学测绘向高阶学段学科逻辑演绎的证据形态分化"
 type: concept
 domain: "curriculum"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Domain Specificity]]"
   - "[[Internal Validity]]"
   - "[[Visible Learning]]"
+  - "[[Surface and Deep Learning]]"
   - "[[Professional Judgment]]"
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-16'
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 ---
@@ -112,11 +113,11 @@ updated: 2026-11-23
 
 ---
 
-> [!concept-proposition] 命题二｜进阶数据必须服务于三核心提问的形成性反馈回路
-> **形成性教学决策中的进阶定位** 探讨如何将纵向进阶标尺嵌入日常教学干预与学生自我调节环节。
+> [!concept-proposition] 命题二｜进阶数据服务于形成性反馈回路与认知深化三阶段模型
+> **形成性教学决策中的进阶定位** 探讨如何将纵向进阶标尺嵌入日常教学干预、认知进阶及学生自我调节环节。
 
 > [!claim] [[Argument_Hattie_2005_ACER|Hattie (2005)]]
-> **进阶与形成性反馈三问的内在统一** 学业进阶的效能必须落实于课堂教学的三个基本问题：“目标通往何处（Where are we going）”、“当前行进至何处（How are we going）”以及“下一步走向何方（Where to next）”。进阶框架为这三个问题提供了阶梯式坐标系，使教师与学生共同明确目标差距，并将评价数据转化为具体的补救与挑战教学策略。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 15)]]
+> **进阶、三阶段认知深化与形成性反馈三问的内在统一** 学业进阶的效能必须落实于课堂教学的三个基本问题：“目标通往何处（Where are we going）”、“当前行进至何处（How are we going）”以及“下一步走向何方（Where to next）”。在可见的学习后期认知演进模型中，学业进阶进一步体现为从表层概念习得、深层关系建构到高阶认知迁移（[[Surface and Deep Learning|Surface to Deep to Transfer]]）的动态发展阶段，并通过 [[Assessment Tools for Teaching and Learning|asTTle]] 测评工具提供经验常模校准。进阶框架为这些问题与发展阶段提供了阶梯式坐标系，使教师与学生共同明确目标差距，并将评价数据转化为具体的补救与挑战教学策略。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 15)]]
 
 ---
 
@@ -159,6 +160,7 @@ updated: 2026-11-23
 > | [[Formative Assessment]] | 概念 | 学业进阶为形成性评价提供了诊断定位与后续行动的纵向参照系。 |
 > | [[Epistemic Ascent]] | 概念 | 认识论上升偏向学科公理与认识方式的规范推演，学业进阶偏向心理发展与认知轨迹的实证测绘，二者高度互补。 |
 > | [[Visible Learning]] | 概念 | 显性化学业进阶是实现学习过程可见与准确测量教师影响的前提。 |
+> | [[Surface and Deep Learning]] | 概念 | 学业进阶在认知深化维度体现为表层知识、深层理解到认知迁移的三阶段演进。 |
 > | [[Professional Judgment]] | 概念 | 在缺乏实证进阶数据的高学段，专家演绎与教师审慎判断是落实进阶的关键。 |
 > | [[Assessment Tools for Teaching and Learning]] | 工具 | 基于新西兰国家课程进阶水平开发的诊断与评价系统。 |
 > | [[Common Core State Standards]] | 事实 | 早期学段采用实证学习轨迹、高年级采用逻辑推演并经同行审读校准学习进阶的典型案例。 |
