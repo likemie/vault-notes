@@ -24649,8 +24649,10 @@
     "Spindler & Spindler, 1992": "Spindler & Spindler, 1992",
     "Spires (1998)": "Spires, 1998",
     "Spires, 1998": "Spires, 1998",
+    "Spiro (1988)": "Spiro, 1988",
     "Spiro et al. (1988)": "Spiro et al., 1988",
     "Spiro et al., 1988": "Spiro et al., 1988",
+    "Spiro, 1988": "Spiro, 1988",
     "Spirou (2021)": "Spirou, 2021",
     "Spirou, 2021": "Spirou, 2021",
     "Spitzer (2013)": "Spitzer, 2013",
@@ -91678,8 +91680,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_Erdem_2026_SHE.md",
-        "wiki/concepts/educational-psychology/Student Attitude.md"
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_Erdem_2026_SHE.md"
       ],
       "title": ""
     },
@@ -168940,7 +168941,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/educational-philosophy/Incarnation-Extension Dialectics.md"
+        "wiki/concepts/educational-philosophy/Incarnation-Extension Dialectics.md",
+        "wiki/concepts/instruction-pedagogy/Task Structure.md"
       ],
       "title": ""
     },
@@ -204285,8 +204287,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_Erdem_2026_SHE.md",
-        "wiki/concepts/educational-psychology/Student Attitude.md"
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_Erdem_2026_SHE.md"
       ],
       "title": ""
     },
@@ -209249,7 +209250,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_Erdem_2026_SHE.md",
-        "wiki/concepts/educational-psychology/Student Attitude.md",
         "wiki/concepts/educational-psychology/Student Satisfaction.md"
       ],
       "title": ""
@@ -210219,6 +210219,21 @@
         "wiki/arguments/journal-articles/Educational Psychology/Argument_Lodewyk_2007_EducPsych.md",
         "wiki/concepts/competency-and-assessment/Cognitive Flexibility.md",
         "wiki/concepts/educational-psychology/Simplicity of Knowledge.md",
+        "wiki/concepts/instruction-pedagogy/Task Structure.md"
+      ],
+      "title": ""
+    },
+    "Spiro, 1988": {
+      "aliases": [
+        "Spiro, 1988",
+        "Spiro (1988)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Spiro, 1988"
+      ],
+      "isbn": "",
+      "seen_in": [
         "wiki/concepts/instruction-pedagogy/Task Structure.md"
       ],
       "title": ""

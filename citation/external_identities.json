@@ -36792,8 +36792,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_Erdem_2026_SHE.md",
-        "wiki/concepts/educational-psychology/Student Attitude.md"
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_Erdem_2026_SHE.md"
       ],
       "title": ""
     },
@@ -83241,7 +83240,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/educational-philosophy/Incarnation-Extension Dialectics.md"
+        "wiki/concepts/educational-philosophy/Incarnation-Extension Dialectics.md",
+        "wiki/concepts/instruction-pedagogy/Task Structure.md"
       ],
       "title": ""
     },
@@ -104342,8 +104342,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_Erdem_2026_SHE.md",
-        "wiki/concepts/educational-psychology/Student Attitude.md"
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_Erdem_2026_SHE.md"
       ],
       "title": ""
     },
@@ -107361,7 +107360,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_Erdem_2026_SHE.md",
-        "wiki/concepts/educational-psychology/Student Attitude.md",
         "wiki/concepts/educational-psychology/Student Satisfaction.md"
       ],
       "title": ""
@@ -107947,6 +107945,14 @@
         "wiki/arguments/journal-articles/Educational Psychology/Argument_Lodewyk_2007_EducPsych.md",
         "wiki/concepts/competency-and-assessment/Cognitive Flexibility.md",
         "wiki/concepts/educational-psychology/Simplicity of Knowledge.md",
+        "wiki/concepts/instruction-pedagogy/Task Structure.md"
+      ],
+      "title": ""
+    },
+    "Spiro, 1988": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
         "wiki/concepts/instruction-pedagogy/Task Structure.md"
       ],
       "title": ""

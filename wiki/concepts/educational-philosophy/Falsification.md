@@ -95,10 +95,11 @@ related_arguments:
   - "[[Argument_Sinatra_2016_Science]]"
   - "[[Argument_Knudsen_2017_NordSTEP]]"
   - "[[Argument_Barrenechea_2023_JEC]]"
+  - "[[Argument_Brugelmann_2014_LocalPractice]]"
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-11-11
+updated: 2026-11-25
 ---
 
 ---

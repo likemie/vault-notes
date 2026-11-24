@@ -7,7 +7,7 @@ aliases:
 summary: "学生对特定学科、学习方法或教育环境的持久性认知评价与情感倾向，构成学习成果的关键非认知维度。问题本位学习通过主动探索能有效培育积极态度；而循证量化评价若过度偏执于标准化纸笔测验，极易在指标体系中放逐态度维度的育人价值。"
 type: concept
 domain: "educational-psychology"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

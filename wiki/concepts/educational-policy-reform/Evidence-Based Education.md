@@ -182,10 +182,11 @@ related_arguments:
   - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
   - "[[Argument_Sarbiewska_2019_KiW]]"
   - "[[Argument_Slavin_2021_ECNUROE]]"
+  - "[[Argument_Brugelmann_2014_LocalPractice]]"
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-11-15
+updated: 2026-11-25
 ---
 
 ---
@@ -220,16 +221,12 @@ updated: 2026-11-15
 
 ---
 
-## 概念辨析
-
-将证据本位教育与邻近实践[[Paradigm|范式]]、医学原型及本土知识展开横向对比，能够清晰定位其[[Epistemology|认识论]]主张与适用边界：
-
 > [!contrast-table] 证据本位教育与邻近概念的多维辨析
-> | 维度 | 证据本位教育 (EBE) | [[Evidence-Informed Practice\|证据知情实践]] (EIP) | [[Value-Based Education\|价值本位教育]] (Value-Based) | 循证医学 (EBM) | [[Local Knowledge in Evidence-Based Policy\|地方知识]] (Local Knowledge) |
+> | 维度 | 证据本位教育 (EBE) | [[Evidence-Informed Practice|证据知情实践]] (EIP) | [[Value-Based Education|价值本位教育]] (Value-Based) | 循证医学 (EBM) | [[Local Knowledge in Evidence-Based Policy|地方知识]] (Local Knowledge) |
 > |---|---|---|---|---|---|
-> | **分析对象** | 经严格实验评估（[[Randomised Controlled Trials\|RCT]]）的标准化干预效果 | 多源实证证据的批判性整合与[[Praxis\|实践]]调适过程 | 教育的终极目的、伦理关切与价值正当性 | 临床生理指标、病患特质与病理机制反应 | 本地环境、特定群体情境与默会实践经验 |
-> | **核心机制** | 以 RCT/[[Systematic Review\|系统综述]]的统计平均效应作为实践决策核心依据 | 视证据为重要输入资源，由教师[[Professional Judgment\|专业判断]]整合情境实施 | 民主协商、规范论证与伦理哲学思辨 | 依托生理机制病理理论，结合[[Clinical Trial\|临床试验]]验证疗效 | 现场反思、同伴研讨、师生具身互动与经验积累 |
-> | **适用范围** | 标准化项目准入、财政拨款门禁、宏观系统问责 | 教师日常课堂改进、校本教研网络、微观教学调控 | 课程大纲确立、教育宗旨反思与公共政治抉择 | 具备高度生理生理学[[Homophily\|同质性]]的病患治疗与药物研发 | 复杂异质的课堂交互、偶发性教育情境的现场应对 |
+> | **分析对象** | 经严格实验评估（[[Randomised Controlled Trials|RCT]]）的标准化干预效果 | 多源实证证据的批判性整合与[[Praxis|实践]]调适过程 | 教育的终极目的、伦理关切与价值正当性 | 临床生理指标、病患特质与病理机制反应 | 本地环境、特定群体情境与默会实践经验 |
+> | **核心机制** | 以 RCT/[[Systematic Review|系统综述]]的统计平均效应作为实践决策核心依据 | 视证据为重要输入资源，由教师[[Professional Judgment|专业判断]]整合情境实施 | 民主协商、规范论证与伦理哲学思辨 | 依托生理机制病理理论，结合[[Clinical Trial|临床试验]]验证疗效 | 现场反思、同伴研讨、师生具身互动与经验积累 |
+> | **适用范围** | 标准化项目准入、财政拨款门禁、宏观系统问责 | 教师日常课堂改进、校本教研网络、微观教学调控 | 课程大纲确立、教育宗旨反思与公共政治抉择 | 具备高度生理生理学[[Homophily|同质性]]的病患治疗与药物研发 | 复杂异质的课堂交互、偶发性教育情境的现场应对 |
 
 > [!boundary]- 邻近范式与机制边界
 > - **与[[Evidence-Informed Practice|证据知情实践]]（EIP）** 属于最紧密的邻近概念。EBE 将证据作为行动决策的指令性核心；EIP 则将证据定位为多种互补信息之一，通过教师专业反思与地方情境深度融通。[[Argument_Nelson_2017_EducRes|Nelson and Campbell (2017)]]
@@ -239,19 +236,11 @@ updated: 2026-11-15
 
 ---
 
-## 核心要素
-
-证据本位教育作为一个横跨实证研究、政府治理与学校实践的复杂政策运动，在逻辑上包含四大支柱性架构：
-
 > [!feature] 核心构成要素
 > - **因果证据体系与实验分级门槛** 确立[[Randomised Controlled Trials|随机对照试验]]为因果证据黄金标准；要求干预方案本身经过独立实验检验，以此超越宽泛的科学原则修辞；通过分层拨款将证据等级与政策准入硬性绑定。
 > - **四重深层[[Epistemology|认识论假设]]与哲学解构** 隐含休谟因果恒常观、机械干预隐喻、线性科学应用假定以及单向知识供给假设，构成批判性教育哲学与实在论解构的核心靶标。
 > - **多维转译机制与中介基础设施** 涵盖线性、多流与混战三种政策交互轨迹，依赖研究资助升降螺旋驱动，并通过实践指南、[[Research Schools Network|研究学校网络]]与[[Boundary Spanner|证据经纪人]]突破课堂转译瓶颈。
 > - **实践规范论争与强弱版本分野** 包含 Fitz-Gibbon 提出的循证三个必要性论证，展现了强版本（证据排他规训）与弱版本（证据知情整合）关于教师专业属性的技术化对立。
-
----
-
-### 要素一：因果证据体系与实验分级门槛
 
 > [!concept-lens] 实验因果识别与分层门禁逻辑
 > EBE 倡导以实证科学严谨性重构教育研究，将排除选择偏误的实验控制视为确立实践方案有效性的前提条件。
@@ -265,10 +254,6 @@ updated: 2026-11-15
 
 ---
 
-### 要素二：四重深层认识论假设与哲学解构
-
-EBE 的推行建立在一组深层方法论与存在论假设之上，这些预设在科学哲学与教育理论视阈下受到系统反思：
-
 > [!ref-table] EBE 的深层预设及其哲学批判
 > | 核心预设 | 认识论维度 | 批判学者与核心解构论断 |
 > |---|---|---|
@@ -278,8 +263,6 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 > | **单向知识供给假设**<br>假定将研究改写为通俗摘要，实践者便会自发阅读、转变信念并重塑微观教学 | 转移论（Transfer Theory） | 德语区学者（[[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt, 2019]]）批判清算机构暗含三层未经检验的因果作用假定，忽视了学校组织文化折射与教师吸收能力的结构性约束。 |
 
 ---
-
-### 要素三：多维转译机制与中介基础设施
 
 > [!taxonomy] 证据向[[Policy Translation|政策转译]]的三种交互模型
 > 贝恩布里奇等（[[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, pp. 7–8]]）归纳了实证证据进入政策决策的三种现实轨迹：
@@ -299,8 +282,6 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 > 3. **拓展差[[Alienation|异化]]试验流** 针对学校管理核心关切设立[[Researching School Choices|研究学校选择]]（[[Quasi-Experimental Designs|QED]]）准实验流，并开展聚焦课堂微观策略的[[Teacher Choices|教师选择]]（Teacher Choices）微型试验，促使证据生产对接收获一线教学实践。
 
 ---
-
-### 要素四：实践规范论争与强弱版本分野
 
 > [!claim] 卡罗尔·菲茨-吉本论循证实践的三个必要性论证
 > 卡罗尔·菲茨-吉本（Carol Fitz-Gibbon, 1997）提出了 EBE 早期制度化的三大支柱论点：挑战未经实证检验的随意行政推行；防范对学生产生不可逆学习损害的潜在有害程序；以持续证据积累推动教学质量渐进改进。她明确主张以[[Effect Size|效应量]]检验替代单一的[[Statistical Significance|统计显著性]]，为后续全领域[[Meta-analysis|元分析]]提供了关键方法学指引。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, pp. 338–340)]]
@@ -354,6 +335,9 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 > [!claim] 薇拉·玛尼蒂乌斯（[[Vergleichsarbeiten|VERA]] Manitius）与妮娜·范霍尔特（Nina van Holt）
 > **医学类比的本体论不合理性与[[Transfer Science|转移科学]]诉求** 将医学研究成果机械套用于教育领域在本体论上极不合理。医学研究对象具有较高的生理[[Homophily|同质性]]与[[External Validity|可推广性]]，而教育科学面对的是高度情境化且复杂的教育实践。清算中心预设了单向理性的线性供给假设，无法解决基层学校的[[Absorptive Capacity|吸收能力]]赤字；教育科学必须超越被动清算，走向深植于双向对话的转移科学（[[Transfer Science|Transferwissenschaft]]）。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, pp. 10–13)]]
 
+> [!claim] Brügelmann
+> **循证医学三维平衡模型的窄化与教师探究主体性** 汉斯·布吕格尔曼（Hans Brügelmann）指出，倡导循证教育的阵营常以医学为标杆指责教育缺乏科学性，然而这一类比普遍建立在对循证医学经典原则的严重窄化之上。依据戴维·萨克特（Sackett et al., 2000）的经典界定，循证医学是将当前最佳研究证据、临床专业知识以及患者个人价值观相互整合的实践过程；现场权衡决策的主体始终是身处一线的医师，实践经验与患者视界在地位上与科研结论平起平坐。教育领域的循证倡导者抽空了教师临床专长与学生独特价值，将宏观统计均值推演为自上而下的行政指令。真正的循证要求确立一线教师的课堂探究主体地位，将教师在本土课堂开展的累积性个案追踪与反思性实验作为检验宏观理论假说的最终试金石。[[Argument_Brugelmann_2014_LocalPractice|(Brügelmann, 2014, pp. 45–47)]]
+
 ---
 
 > [!concept-proposition] 命题三｜宏观[[Research Synthesis|证据综合]]受制于常识逼近与结论过时的双重困境且无法消解复杂性
@@ -374,17 +358,13 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **因果识别优先与科学决策命题** | 主张依赖 RCT 与严格对照实验确立可复制干预效应，排除主观偏误 | 规范财政准入门槛、建立国家级审查标准、指导项目化系统改革 | 罗伯特·斯拉文; 卡罗尔·菲茨-吉本; 格罗弗·怀特赫斯特 |
-> | **本体论错位与实践中介约束命题** | 论证教育开放系统特征制约实验外推，强调能动推理、价值追问与专业智慧 | 反思去情境化干预移植、重塑[[Teacher Professional Agency\|教师专业能动性]]、防范黑箱测量异化 | 格特·比斯塔; 南希·卡特赖特; 迪伦·威廉; 特里·里格利; 薇拉·玛尼蒂乌斯 |
+> | **本体论错位与实践中介约束命题** | 论证教育开放系统特征制约实验外推，强调能动推理、价值追问与专业智慧 | 反思去情境化干预移植、重塑[[Teacher Professional Agency\|教师专业能动性]]、防范黑箱测量异化 | 格特·比斯塔; 南希·卡特赖特; 迪伦·威廉; 特里·里格利; 薇拉·玛尼蒂乌斯; 汉斯·布吕格尔曼 |
 > | **认识论两难与循证圣杯解构命题** | 揭示超级综合受制于常识逼近与结论过时困境，元科学审计暴露实证虚脱 | 评估宏观循证工具包稳健性、批判单一效应量治理、反思量化全景规训 | 埃瓦尔德·特哈特; 安德烈亚斯·卡尔门达尔; 米哈伊尔·戈洛夫钦 |
 
 ---
 
-## 概念演变
-
-证据本位教育经历了从医学跨学科原型移植、国家立法制度化扩张，到多维哲学方法论反思与生态化中介转型的完整演进脉络：
-
 > [!dev-timeline] 概念演变
-> - **1972年 — 循证医学与[[Research Synthesis|证据综合]][[Paradigm|范式]]奠基** 阿奇·柯克兰（Archie Cochrane）出版《疗效与效益》（*Effectiveness and Efficiency*），系统倡导[[Randomised Controlled Trials|随机对照试验]]及其系统综合，为后续所有循证实践奠定了方法论基石。
+> - **1972年 — 循证医学与[[Research Synthesis|证据综合]][[Paradigm|范式]]确立** 阿奇·柯克兰（Archie Cochrane）出版《疗效与效益》（*Effectiveness and Efficiency*），系统倡导[[Randomised Controlled Trials|随机对照试验]]及其系统综合，为后续循证实践确立了方法论框架。
 > - **1992年 — 循证医学（EBM）范式正式提出** 戈登·盖亚特（Gordon Guyatt）等学者在临床医学领域正式确立循证医学范式，强调临床决策必须建立在最佳实证研究证据基础之上。
 > - **1993年 — Cochrane 协作网成立** 确立[[Systematic Review|系统综述]]与[[Meta-analysis|元分析]]作为全球医学证据综合的金标准与制度基础设施。
 > - **1995年 — [[OECD]] 开启研究与政策脱节反思** 经济合作与发展组织（OECD）发布报告，首次正式指出教育领域长期存在研究成果、公共政策与课堂创新之间脱节的结构性困境。
@@ -399,6 +379,9 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 > - **2009年 — 德意志各州教育行政纳入循证监测** 德国在 [[PISA]] 震荡后逐步将外部督导、全州统一测试（[[Vergleichsarbeiten|VERA]]）与循证监测纳入日常行政常规（[[Argument_Dedering_2009_EERJ|Dedering, 2009]]）；[[EU|欧盟]] [[Education and Training 2020|ET 2020]] 将进展监测确立为政策基础。
 > - **2010年 — Biesta 三重缺陷理论确立与 WWC 纳入 [[Single-Case Design|SCD]] 标准** 比斯塔发表专著章节，正式确立知识、效力与应用三重[[Deficit Framing|缺陷框架]]；WWC 发布单一个案设计（SCD）试点标准，将其确立为 RCT 之外的第二类实验因果证据。
 > - **2011年 — 宏大二阶综合崛起、Terhart [[Epistemology|认识论]]解构与英国 [[Education Endowment Foundation|EEF]] 建立** [[John Hattie|约翰·哈蒂]]（John Hattie）出版《[[Visible Learning|可见的学习]]》掀起全球[[Meta-meta-analysis|二阶元分析]]热潮；[[Ewald Terhart|特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）发表长篇书评，从[[Didaktik|欧陆教学论]]、福柯权力论与科学哲学认识论诊断 EBE 陷入[[Stability vs. Variability Dilemma|稳定性与变异性假说]]双重困境；英国设立教育捐赠基金会（EEF），推出 [[Pupil Premium]] 与《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》。
+> - **2013年 — 英国 [[What Works Network]] 建立与草根运动收编** 英国建立跨部门 What Works Network；[[ResearchED]] 草根教师循证交流运动兴起并迅速被官方政策[[Discourse|话语]]收编背书。
+> - **2014年 — 循证医学三维模型反思与个案试金石界定** 汉斯·布吕格尔曼（[[Argument_Brugelmann_2014_LocalPractice|Brügelmann, 2014]]）指出教育循证窄化了循证医学经典三维平衡模型，强调宏观统计均值因巨大方差无法替代微观临床专长与个体价值，论证一线教师在本土课堂开展的累积性个案检验与反思性实验才是检验宏观推论的最终试金石。
+> - **2015年 — 美国 [[Every Student Succeeds Act|ESSA]] 确立四级[[Evidence Standards|证据标准]]法定门槛** 美国颁布《每个学生都成功法案》（ESSA），正式确立强、中、有希望、基于原理四级证据标准法定门槛；卡特赖特等学者通过基层访谈揭示学校无法开箱即用套用证据方案的实施困境。
 > - **2013年 — 英国 [[What Works Network]] 建立与草根运动收编** 英国建立跨部门 What Works Network；[[ResearchED]] 草根教师循证运动兴起并迅速被官方政策[[Discourse|话语]]收编背书。
 > - **2015年 — 美国 [[Every Student Succeeds Act|ESSA]] 确立四级[[Evidence Standards|证据标准]]法定门槛** 美国颁布《每个学生都成功法案》（ESSA），正式确立强、中、有希望、基于原理四级证据标准法定门槛；卡特赖特等学者通过基层访谈揭示学校无法开箱即用套用证据方案的实施困境。
 > - **2016年 — [[Mechanism Experiments|机制实验]]探索与二阶元分析数学等价性推导** 佩特森（[[Argument_Peterson_2016_IJRME|Peterson, 2016]]）提出机制实验与持续改进网络构想；[[Christof Wecker|韦克尔]]等（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）严格推导二阶[[Fixed-Effect Model|固定效应]]等价性定理与[[Document|文献]]重叠破产，倡议建立中央标准化公共证据库并转向一级直接综合。
@@ -418,7 +401,7 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 > > 围绕 [[Randomised Controlled Trials|RCT]] 是否应当作为教育实践决策的排他性黄金标准展开激烈争鸣。
 > >
 > > - **[[Positivism|实证主义]]阵营（Slavin, Whitehurst）** 坚持[[Random Assignment|随机分配]]与实验控制是消除选择偏差、确立因果有效性的唯一严谨手段，主张以此作为公共政策准入的硬性门槛。
-> > - **实在论与批判哲学阵营（Biesta, Cartwright, Wrigley）** 强调教育是包含主体反思的开放系统，干预效果取决于受试者的能动推理与本地支撑环境的交互，强行套用封闭实验控制会导致严重的效力与应用缺陷。
+> > - **实在论与批判哲学阵营（Biesta, Cartwright, Wrigley, Brügelmann）** 强调教育是包含主体反思的开放系统，干预效果取决于受试者的能动推理与本地支撑环境的交互，强调大样本统计均值内部的高方差离散度，主张尊重临床专长与患者价值，强行套用封闭实验控制会导致严重的效力与应用缺陷。
 >
 > > [!axis] 宏大[[Research Synthesis|证据综合]]的圣杯神话 vs. [[Stability vs. Variability Dilemma|稳定性与变异性假说]]双重困境
 > > 围绕通过[[Meta-meta-analysis|元-元分析]]与超级综合建立全域影响气压计能否终结教育有效性争议展开[[Epistemology|认识论]]审计。
@@ -448,10 +431,6 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 > 证据本位教育如果脱离对具体教育情境、学科实质内容与价值目的的反思，极易退化为追求虚假确定性的数字官僚主义；实证证据只能说明特定干预在过往实验环境下的概率性表现，绝不能免除实践者在具体现场做出审慎伦理与[[Professional Judgment|专业判断]]的责任。
 
 ---
-
-## 制度探索与范式替代
-
-面对传统 EBE 模式遭遇的理论与实践瓶颈，国际学界与政策机构探索了三重相互补充的制度重构路径：
 
 > [!tension] 改革与替代的理论与制度路径
 > - **内部方法学改革（从黑箱因果到[[Realist Evaluation|现实主义评估]]与微型试验流）** 在保留实验因果严谨性的同时反思[[Business as Usual|常态教学]]基线高企挑战：强制将量化试验与实施[[Implementation and Process Evaluation|过程评估]]（IPE）绑定以明确因果发生机制；推广[[Factorial Design|析因设计]]（Factorial Design）与现实主义试验以探索什么对谁有效；设立聚焦学校真实管理决策的准实验流与聚焦日常课堂微策略的[[Teacher Choices|教师选择]]（Teacher Choices）微型试验（[[Argument_Peterson_2016_IJRME|Peterson, 2016]]; [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]]）。
@@ -553,3 +532,4 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 > - [[Argument_Dedering_2009_EERJ|Dedering (2009)]] — 追踪德国四个联邦州教育部循证政策实践，展现数据使用从政治合法化应对向行政常规的演化过程。
 > - [[Argument_Sarbiewska_2019_KiW|Sarbiewska (2019)]] — 记录 EBE 与可见学习理念在澳新两国的政策采纳轨迹与[[Paradigm|范式]]争鸣。
 > - [[Argument_Zhao_2017_JEC|Zhao (2017)]] — 论证循证教育从医学借鉴了 RCT 却系统忽视了对干预[[Side Effects|副作用]]的检验。
+> - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014)]] — 批判循证教育对循证医学萨克特三维模型的窄化，论证大样本统计均值的极高离散度制约行政干预，确立一线教师在本土课堂的个案探究与反思性实验主体地位。
