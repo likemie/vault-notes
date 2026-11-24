@@ -68,8 +68,8 @@ updated: 2026-11-24
 ---
 
 > [!feature] 核心要素
-> - **模糊的目标偏好（Problematic Preferences）** 大学同时承担人才培养、基础探索、社会服务与经济创新等多重功能，组织难以确立单一优先的价值准则，往往在行动过程中发现偏好。[[Argument_Maassen_Stensaker_2019_HEQ|(Cohen et al., 1972; Maassen & Stensaker, 2019, p. 458)]]
-> - **不明确的技术过程（Unclear Technology）** 高等教育的知识生产与传授过程依赖高度情境化的认知互动与个体经验，难以还原为标准化的投入产出模型。[[Argument_Maassen_Stensaker_2019_HEQ|(Cohen et al., 2019; Maassen & Stensaker, 2019, p. 458)]]
+> - **模糊的目标偏好（Problematic Preferences）** 大学同时承担人才培养、基础探索、社会服务与经济创新等多重功能，组织难以确立单一优先的价值准则，往往在行动过程中发现偏好。
+> - **不明确的技术过程（Unclear Technology）** 高等教育的知识生产与传授过程依赖高度情境化的认知互动与个体经验，难以还原为标准化的投入产出模型。
 > - **流动的成员参与（Fluid Participation）** 教师与研究者的主要认同往往依附于跨校的学科共同体，对校内管理事务的关注度和投入时间随议题高度波动。[[Argument_Maassen_Stensaker_2019_HEQ|(Cohen et al., 1972; Maassen & Stensaker, 2019, p. 458)]]
 
 > [!logic-map]- 要素关系
@@ -93,7 +93,7 @@ updated: 2026-11-24
 > [!concept-proposition] 命题二｜现代科层化改革是对组织化无政府状态核心特征的系统性回应
 > **改革的理性化指向** 过去数十年欧洲与全球大学推进的目标管理、质量保障与领导权强化改革，旨在通过行政干预克服偏好模糊、技术不确定与参与松散，重构大学的组织确定性。
 
-> [!claim] Maassen and Stensaker (2019)
+> [!claim] [[Argument_Maassen_Stensaker_2019_HEQ|Maassen and Stensaker (2019)]]
 > **现代大学改革对经典特性的重塑与重估** 目标管理试图理顺模糊偏好，质量保障体系试图规训不明确的教学科研技术，而领导层权力的正式化强化旨在规范流动参与；但这些举措在学术基层的落地遭遇了学科惯性的持续抵制，最终催生了行政科层化与学术活动脱钩的全新格局。[[Argument_Maassen_Stensaker_2019_HEQ|(Maassen & Stensaker, 2019, pp. 458–459)]]
 
 ---
@@ -102,7 +102,7 @@ updated: 2026-11-24
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **专业自主权与模糊治理** | 知识劳动的不可标准化导致决策呈现垃圾桶特征 | 传统学术主导型大学与专业组织 | Cohen, March, and Olsen (1972) |
-> | **改革的理性化指向** | 新公共管理改革试图消除模糊性，重构大学组织秩序 | 经历治理转型与绩效问责的现代大学 | Maassen and Stensaker (2019) |
+> | **改革的理性化指向** | 新公共管理改革试图消除模糊性，重构大学组织秩序 | 经历治理转型与绩效问责的现代大学 | [[Argument_Maassen_Stensaker_2019_HEQ\|Maassen and Stensaker (2019)]] |
 
 ---
 

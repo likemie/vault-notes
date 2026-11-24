@@ -11,10 +11,10 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 17
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1902"
 died: "1987"
 lifespan: "1902–1987"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Whole Person Education]]"
   - "[[Ontology]]"
   - "[[Anthropomorphic Model]]"
+  - "[[Student-Teacher Relationship]]"
 related_theories:
   - "[[Behaviorism]]"
   - "[[Phenomenology]]"
@@ -44,13 +45,15 @@ related_persons:
   - "[[B. F. Skinner]]"
   - "[[Abraham Maslow]]"
   - "[[Rom Harré]]"
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
+  - "[[Argument_Koller_2014_WhatWorks]]"
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-11-21
+updated: 2026-11-24
 ---
 
 ---
@@ -97,12 +100,13 @@ updated: 2026-11-21
 ---
 
 > [!influence-path] 影响路径
-> - **教育哲学路径** 扭转了传统学科本位与行为主义训练模式，确立了以学习者为中心的[[Whole Person Education|全人教育]]思潮。
+> - **教育哲学路径** 扭转了传统学科本位与行为主义训练模式，确立了以学习者为中心的[[Whole Person Education|全人教育]]思潮，其强调共情接纳的[[Student-Teacher Relationship|师生关系]]后经元分析证实具备显著促学效能。
 > - **方法论路径** 为[[Qualitative Research|质性研究]]、[[Phenomenology|现象学]]访谈与教育自传探究提供了[[Ontology|本体论]]辩护，确立了尊重被研究者主体性与知情权的人本伦理准则。
 > - **心理治疗路径** 开创了当代心理咨询三大主流支柱之一的来访者中心疗法，深刻渗透进现代社会工作、危机干预与医患沟通实践。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011)]] — 将罗杰斯全人模型与内部参照框架作为人本主义抵抗实证主义去人化倾向的代表性学理依据（p. 20）。
+> - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 援引柯尼利厄斯-怀特（Cornelius-White, 2007）元分析，证实罗杰斯人本主义传统下的共情与温暖师生关系对学业成效具备强效应量（$d = 0.72$）（p. 34）。
 
 ---
 
@@ -129,4 +133,5 @@ updated: 2026-11-21
 > | [[Interpretive Paradigm]] | 概念 | 为诠释[[Paradigm|范式]]尊重行动者内部主观经验提供人格哲学支柱。 |
 > | [[Idiographic]] | 概念 | 坚决倡导深入个体独特现象场的表意法探究。 |
 > | [[Voluntarism]] | 概念 | 为唯意志论主张人类具备自由抉择能动性提供心理学论据。 |
+> | [[Student-Teacher Relationship]] | 概念 | 其人本主义治疗与教育理论为支持性师生关系促学成效提供学理渊源。 |
 > | [[Anthropomorphic Model]] | 概念 | 共同构筑反抗[[Positivism|实证主义]]机械决定论的“人的科学”联盟。 |
