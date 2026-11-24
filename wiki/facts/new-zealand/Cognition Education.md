@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: stable
 created: "2026-05-23"
-updated: 2026-11-19
+updated: 2026-11-24
 ---
 
 ---
@@ -100,14 +100,14 @@ updated: 2026-11-19
 >
 > - **2010–2017 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 知识变现与专营扩张期**
 >
->   在中东国际咨询合同利润缩水与国内工资业务彻底终结的背景下，抓住学术畅销书《[[Visible Learning|可见的学习]]》知识变现契机，建立 Visible Learningplus 事业部；通过区域总代理授权模式（Licensor Model）向欧美英澳快速辐射，营收规模与利润率攀升至历史高位。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 55–63)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 30)]]
+>   在中东国际咨询合同利润缩水与国内工资业务彻底终结的背景下，抓住学术畅销书《[[Visible Learning|可见的学习]]》知识变现契机，建立 Visible Learningplus 事业部；通过区域总代理授权模式（Licensor Model）向欧美英澳快速辐射，营收规模与利润率攀升至历史高位。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 55–60)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 30)]]
 >
 >   - **2010** 集团年营收攀升至 6,900 万新西兰元历史峰值；同年底引入[[John Hattie|约翰·哈蒂]]的 Visible Learning 商业运营平台。
 >   - **2011–2012** Visible Learningplus 第一年产生近 200 万新西兰元营收，次年攀升至近 270 万，利润率远超传统工资承包业务。
 >
 > - **2018–至今 跨国资本并购与编织河道重组期**
 >
->   将 Visible Learningplus 全球知识产权独家许可转让给跨国出版巨头[[Corwin Press|考文出版社]]（Corwin Press），自身转型为编织河道（Braided River）式的多支流运营模式，通过微型咨询项目、地方教学联合体（Consortium）与教育投资基金维系组织运转。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 55–63)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 31)]]
+>   将 Visible Learningplus 全球知识产权独家许可转让给跨国出版巨头[[Corwin Press|考文出版社]]（Corwin Press），自身转型为编织河道（Braided River）式的多支流运营模式，通过微型咨询项目、地方教学联合体（Consortium）与教育投资基金维系组织运转。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 61–63)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 31)]]
 >
 >   - **2018** 考文出版社（Corwin Press）从 Cognition 手中全面收购 Visible Learningplus 咨询专营权，进一步将其推向全球化商业流水线。
 
@@ -173,9 +173,9 @@ updated: 2026-11-19
 > - **知识标准化推手** 推动 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 覆盖欧美数千所学校，成为[[Global Education Reform Movement|全球教育改革运动]]（GERM）中教师效能标准化评定的重要推手。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 24–25)]]
 
 > [!stat-cards]- 核心规模与财务审计数据
-> - **NZ\$69M** 2010 年集团年度总营收突破 6,900 万新西兰元，创下新西兰本土教育咨询机构的商业规模峰值。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 71–73)]]
+> - **NZ\$69M** 2010 年集团年度总营收突破 6,900 万新西兰元，创下新西兰本土教育咨询机构的商业规模峰值。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 71)]]
 > - **NZ\$869,453** 2011 至 2015 年间，认知教育商业实体累计向董事学者[[John Hattie|哈蒂]]支付的第三方版税与顾问酬金至少达 869,453 新西兰元。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 31)]]
-> - **0.9%** （慈善支出占比） 2015 年 Trust 实际用于公共教育资助的慈善捐赠仅约 25.1 万新西兰元，不足当年集团总营收的 0.9%。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 71–73)]]
+> - **0.9%** （慈善支出占比） 2015 年 Trust 实际用于公共教育资助的慈善捐赠仅约 25.1 万新西兰元，不足当年集团总营收的 0.9%。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 73)]]
 > - **\$50M** （企业体量） 2018 年接盘 Visible Learningplus 全球专营权的美国[[Corwin Press|考文出版社]]年营业额估算达 5,000 万美元。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 25, 31)]]
 
 ---

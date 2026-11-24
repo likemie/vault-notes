@@ -203,7 +203,7 @@ related_instruments:
 confidence: medium
 status: active
 created: '2026-05-02'
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 ---
@@ -442,18 +442,18 @@ updated: 2026-11-23
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Visible Learning]] | 概念 | 提出并构建以[[Effect Size\|效应量]]综合排名为基准的教学改进[[Analytic Framework\|分析框架]]。 |
-> | [[Visible Learning Meta-X]] | 事实 | 亲自创建并持续维护的底层[[Meta-meta-analysis\|二阶元分析]]数据库（收录 2,100+ 项[[Meta-analysis\|元分析]]），为可见的学习提供实证基础设施。 |
-> | [[Visible Learning Branding and Global Influences]] | 事实 | 记录其学术研究成果转化为跨国商业品牌、授权网络与全球政策采纳的制度化演变。 |
-> | [[Evidence for Learning]] | 事实 | 出任其学校专家咨询委员会主席，指导澳大利亚循证工具包与实践指南的[[Going Native\|本土化]]。 |
-> | [[Effect Size]] | 方法 | 确立 $d=0.40$ 关节点与影响气压计作为教育干预效果的通用比较标尺。 |
-> | [[Meta-meta-analysis]] | 方法 | 开创并将教育领域大规模元综合发展为系统化证据生产方法论。 |
 > | [[Direct Instruction]] | 概念 | 依据[[Meta-analysis\|元分析]]数据强力倡导教师作为“激活者”的显性教学与直接指导。 |
 > | [[Formative Assessment]] | 概念 | 将高影响反馈与可见学习转译为形成性评估与 [[Assessment Tools for Teaching and Learning\|asTTle]] 测评工具。 |
 > | [[Evidence-Based Education]] | 概念 | 作为全球循证教育运动的象征性人物，推动量化证据深度嵌入政策标准。 |
 > | [[Critiques of Visible Learning]] | 概念 | 激发了当代教育学界针对元分析伪科学、[[Neo-Taylorism\|新泰勒主义]]与技术理性的系统批判。 |
 > | [[Policy Brokerage]] | 概念 | 其学术成果与培训网络被跨国组织与国家专家委员会作为政策中介的重要合法化工具。 |
 > | [[Governing by Numbers]] | 概念 | 其指标排序为国家与学区实施基于数字的学校绩效问责与远处规制提供了操作[[Scaffolding\|脚手架]]。 |
-> | [[Cognition Education]] | 组织 | 全球教师培训商业化特许运营商。 |
-> | [[Australian Institute for Teaching and School Leadership\|AITSL]] | 组织 | 担任董事会主席并推动嵌入国家专业标准。 |
-> | 新西兰教育部 | 组织 | [[Assessment Tools for Teaching and Learning\|asTTle]] 委托开发。 |
-> | [[Education Endowment Foundation\|EEF]] | 组织 | 英澳循证证据工具箱。 |
+> | [[Effect Size]] | 方法 | 确立 $d=0.40$ 关节点与影响气压计作为教育干预效果的通用比较标尺。 |
+> | [[Meta-meta-analysis]] | 方法 | 开创并将教育领域大规模元综合发展为系统化证据生产方法论。 |
+> | [[Visible Learning Meta-X]] | 事实 | 亲自创建并持续维护的底层[[Meta-meta-analysis\|二阶元分析]]数据库（收录 2,100+ 项[[Meta-analysis\|元分析]]），为可见的学习提供实证基础设施。 |
+> | [[Visible Learning Branding and Global Influences]] | 事实 | 记录其学术研究成果转化为跨国商业品牌、授权网络与全球政策采纳的制度化演变。 |
+> | [[Evidence for Learning]] | 事实 | 出任其学校专家咨询委员会主席，指导澳大利亚循证工具包与实践指南的[[Going Native\|本土化]]。 |
+> | [[Cognition Education]] | 事实 | 全球教师培训商业化特许运营商。 |
+> | [[Australian Institute for Teaching and School Leadership\|AITSL]] | 事实 | 担任董事会主席并推动嵌入国家专业标准。 |
+> | 新西兰教育部 | 事实 | [[Assessment Tools for Teaching and Learning\|asTTle]] 委托开发。 |
+> | [[Education Endowment Foundation\|EEF]] | 事实 | 英澳循证证据工具箱。 |
