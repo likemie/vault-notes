@@ -5,10 +5,10 @@ aliases:
 summary: "学生在学校科学探究过程中实际应用于自身知识建构的隐性认识论观念与话语行动规程，与关于专业科学的形式认识论相对立，可通过立足点、意义裂隙与关系搭建等实践认识论分析方法进行微观刻画。"
 type: concept
 domain: "educational-psychology"
-related_count: 36
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 37
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - theme/epistemology
   - theme/inquiry

@@ -6,7 +6,7 @@ aliases:
 summary: "跨研究或同一群体内部超出抽样误差的系统性变异；在量化元分析中表征效应量分布发散并指导调节变量分析，在复杂系统与混合方法中揭示均值遮蔽的质性动因多样性，在跨学科科学学中通过尺度变换消除学科引用容量异质性并确立普适标度主曲线；在批判视角下聚焦粗暴算术平均对实践异质性的隐匿。"
 type: concept
 domain: "research-methodology"
-related_count: 102
+related_count: 103
 related_level: 10
 related_stars: "💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -128,7 +128,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-06-08
-updated: 2026-11-23
+updated: 2026-11-25
 ---
 
 ---

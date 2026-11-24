@@ -315,19 +315,24 @@ updated: 2026-11-25
 
 ---
 
-> [!finding-cards] 核心实证发现
-> 1. **跨清算中心评级严重冲突** 比较 12 个教育证据清理机构发现，多重评级项目中不同机构给出一致有效性结论的比例仅约 30%。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, p. 3)]]
-> 2. **大规模干[[Pilot Testing\|预实验]]普遍呈现零效应** 英美投入数亿英镑的大规模 [[Randomised Controlled Trials\|RCT]] 评估中，高达 90% 的干预项目最终显示零效应或未达统计显著。[[Argument_Pampaka_2016_IJRME\|(Pampaka et al., 2016, p. 231)]]
-> 3. **[[Non-intervention Research\|非干预研究]]的[[Recommendations for Practice\|实践建议]]越界率高达 66%** 教育心理学期刊中近三分之二的观察性非[[Intervention Research\|干预研究]]擅自给出因果行动建议。[[Argument_Brady_2023_EPR\|(Brady et al., 2023, pp. 6–7)]]
-> 4. **[[Pre-test and Post-test\|前测]]失衡产生巨大虚假[[Effect Size\|效应量]]** 拼读项目 Fresh Start 官方宣称效应量为 +0.24SD，但在严格匹配排除前测基线失衡后，真实净效应降为 +0.00SD。[[Argument_Wrigley_2018_BERJ\|(Wrigley, 2018, p. 5)]]
-> 5. **宏观二阶循证综合基础崩溃（0.66% 可复现）** 对全球影响最广的《[[Visible Learning|可见的学习]]》全量审计发现，仅 19% 满足 [[PICO Framework|PICO]] 入选门禁，301 个因素中仅 2 项能复现数据提取，44% 效应量查无实据，证明宏观循证知识库底层存在灾难性虚脱。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 14, 18–19)]]
+> [!empirical-divider]
 
-> [!stat-cards]- 关键量化指标
-> - **83.2%** 清算中心项目中仅由单一机构评级、缺乏独立交叉验证的比例。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, p. 18)]]
-> - **30%** 跨清算中心对同一教育项目有效性评级结论的一致率。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, p. 3)]]
-> - **+0.24SD vs +0.00SD** Fresh Start 项目官方宣传效应量与校正前测失衡后的真实效应量对比。[[Argument_Wrigley_2018_BERJ\|(Wrigley, 2018, p. 5)]]
-> - **38%** Kluger & DeNisi 经典反馈[[Meta-analysis\|元分析]]中干预产生负向效应的真实案例占比。[[Argument_Wiliam_2019_ERE\|(Wiliam, 2019, p. 10)]]
-> - **0.66% (2/301)** 《可见的学习》宏观循证知识库在[[Metascience|元科学]]复核中能够完全复现数据提取的影响因素比例。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, p. 18)]]
+> [!effect-table]- 原始研究结果
+> <span class="concept-effect-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 效应指标 | 效应值 | 显著性或不确定性 | 比较或干预 | 结果变量 | 分析样本 | 组别统计 | 设计与解释边界 |
+> |---|---|---|---|---|---|---|---|---|
+> | [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] | Cohen's $d$ | <span class="mx-bar ef-bar" title="Cohen's d 0.00"><span class="b0"></span></span>0.00 | $p > .05$ | Fresh Start 拼读干预组 vs 排除前测失衡后的严格对照组 | 阅读理解测验标准分 | 排除前测失衡样本后 | 官方宣称 $d = +0.24$；排除基线不平衡后净效应降为 0.00 | 准实验再分析；证明显性前测失衡制造虚假正效应伪像 |
+
+> [!ref-table]- 其他实证结果（无效应量）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 《[[Visible Learning\|可见的学习]]》全库 322 个影响因素及 1,369 篇元分析 | 元科学复查与全量数据复现审计 | PICO 符合率、数据提取复现率与虚构效应量比例 | 仅 19% 满足 PICO；301 个因素中仅 2 项完全复现（0.66%）；44% 效应量查无实据 | 全库元科学复查 | 瓦解宏观循证知识库的经验可靠性宣称，揭示底层数据严重失真 |
+> | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] | 12 个教育证据清理机构（Clearinghouses）的 1,359 个评级项目 | 跨机构证据评级对比与元评估 | 单一机构评级占比与多重评级结论一致率 | 83.2% 项目仅由单一机构评级；多重评级项目一致率仅 30% | 跨机构横截面比较 | 揭示“循证”标签缺乏跨机构一致的构念效度与独立复核 |
+> | [[Argument_Pampaka_2016_IJRME\|Pampaka et al. (2016)]] | 英美大规模政府资助的教育 RCT 项目池 | 政策评估审计与系统综述 | 统计显著有效项目比例 | 高达 90% 的干预试验呈现统计零效应或未达预设收益门槛 | 跨项目政策评估池分析 | 诊断大规模干预有效性缺失，动摇强循证政策处方的经验前提 |
+> | [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] | 五大教育心理学顶级期刊 2020 年全部实证文章 | 文本内容分析与方法规范审查 | 非干预研究擅自给出因果实践建议（RFP）的比例 | 66% 的非干预观察性研究越界提出因果性行动处方 | 期刊全量文献内容分析 | 揭示观察性非实验研究对因果实践处方的系统性推论越界 |
 
 > [!contrast-table] [[Evidence-Based Education\|EBE]] 方法偏好 vs 方法多元论（[[Argument_Cowen_2019_ERE\|Cowen, 2019]]）
 > | 比较维度 | 循证教育优先方法（EBE 强[[Paradigm\|范式]]） | 方法多元论倡导的方法（多元范式） |
@@ -337,41 +342,49 @@ updated: 2026-11-25
 > | **机制探究与微观过程** | 课堂干预黑箱测试（输入干预 → 测后分数） | 问卷调查、[[Participant Observation\|参与观察]]、[[In-depth Interview\|深度访谈]]、[[Case Study\|案例研究]]、课堂微观话语分析 |
 > | **动态推论与宏观叙事** | 跨情境线性平均效应外推 | [[Process Tracing\|过程追踪]]、分析性历史叙事、制度比较分析、复杂系统建模 |
 
-> [!row-contrast] 循证教育方法与证据危机代表性实证研究对比
-> | 研究[[Document\|文献]] | 考察对象与核心样本 | 核心实证发现与统计指标 | 揭示的 EBE 局限与方法学意义 |
-> |---|---|---|---|
-> | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] | 12 个[[Educational Evidence Clearinghouses\|教育证据清算中心]]的 1,359 个评级项目 | 83.2% 仅单机构评级；多重评级一致率仅 30% | 揭示“循证”标签缺乏跨机构一致的[[Construct Validity\|构念效度]] |
-> | [[Argument_Pampaka_2016_IJRME\|Pampaka et al. (2016)]] | 英美大规模政府资助的教育 RCT 项目池 | 高达 90% 试验呈现统计零效应或无实质收益 | 诊断大规模干预有效性缺失，动摇 EBE 的经验基础 |
-> | [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] | 五大教育心理学顶刊 2020 年全部实证文章 | 非干预研究中 66% 给出[[Causality\|因果性]]实践建议（RFP） | 揭示观察性非[[Experimental Research\|实验研究]]对因果实践处方的系统性越界 |
-> | [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] | [[Education Endowment Foundation\|EEF]] 资助的 Fresh Start 拼读阅读干预 RCT | 排除前测失衡样本后效应量从 +0.24 塌缩为 0.00 | 证明对照组基线不平稳产生严重的统计虚假伪像 |
-> | [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] | 英格兰 1983–2019 年核心政策文献与 20 位[[Elite Interview\|精英访谈]] | 官方白皮书引文高度选择性；文官依赖口口相传 | 揭示证据异化为官僚[[Rationalized Myth\|合理化神话]]与 [[Policy-Based Evidence-Making\|PBEM]] 反馈回路 |
-> | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 《[[Visible Learning\|可见的学习]]》全库 322 个影响因素及 1,369 篇元分析 | 仅 19% 满足 PICO；数据提取复现率仅 0.66%；44% 效应量查无实据 | 瓦解宏观证据库的科学有效性宣称，揭示循证政策依据的底层虚脱 |
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Evidence-Based Education]] | 概念 | 本条目的核心批判对象与反思论题。 |
+> | [[Epistemology]] | 概念 | 审视循证教育认识论预设与价值目的遮蔽的哲学基石。 |
+> | [[Positivism]] | 概念 | 循证教育强范式所依赖的自然科学主义与量化决定论思想根源。 |
+> | [[Professional Judgment]] | 概念 | 抵御机械清单治理、捍卫教师微观教学决策自主的核心专业能力。 |
+> | [[Instrumental Rationality]] | 概念 | 循证教育以“什么有效”技术替代民主审议所体现的理性形态。 |
+> | [[Implementation Fidelity]] | 概念 | 循证干预自上而下推广时所要求的机械执行标准及其情境阻抗。 |
+> | [[Practical Epistemology]] | 概念 | 教师在微观课堂中调动情境证据与实践智慧的行动认识论。 |
+> | [[Critical Realism]] | 理论 | 区分经验、实际与深层机制，揭示循证教育施为者悖论的元理论。 |
+> | [[Critical Theory]] | 理论 | 解构知识治理中的权力不对称与基于政策证据制造的批判传统。 |
+> | [[Randomised Controlled Trials]] | 方法 | 循证等级制奉为黄金标准、在教育复杂生态中面临外部效度局限的实验方法。 |
+> | [[Meta-analysis]] | 方法 | 循证知识库汇聚证据所依赖但面临异质性清洗与统计伪像的综合工具。 |
+> | [[Case Study]] | 方法 | 教师检验宏观统计假说、维护微观情境真实性的实践探究进路。 |
 
 ---
 
-> [!evidence-grid-a] [[Evidence-Based Education\|循证教育]]批判核心文献索引
-> - [[Argument_Biesta_2010_SPE\|Biesta (2010)]] — 从[[Epistemology\|认识论]]、存在论和实践论系统确立 EBE 的三重[[Deficit Framing\|缺陷框架]]与民主缺陷批判。
-> - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 历时追踪英格兰 [[Initial Teacher Training\|ITT]] 改革，揭示[[Evidence Era\|证据时代]]的[[Rationalized Myth\|合理化神话]]、政府[[Gatekeepers\|守门人]]与[[Policy-Based Evidence-Making\|基于政策的证据制造]]（PBEM）。
-> - [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] — 运用[[Critical Realism\|批判实在论]]解构 EBE 方法论预设，揭示因果深层机制与施为者悖论。
-> - [[Argument_Wiliam_2019_ERE\|Wiliam (2019)]] — 从高德曼区分认识论论证教育情境[[Heterogeneity\|异质性]]与 EBE 原则上的不可完成性。
-> - [[Argument_Cowen_2019_ERE\|Cowen (2019)]] — 结合塔洛克官僚理论分析 EBE 作为形式化过滤程序的政治经济韧性与方法偏好。
-> - [[Argument_Wrigley_2019_ERE\|Wrigley and McCusker (2019)]] — 逐层剖析 [[EEF Teaching and Learning Toolkit\|EEF Toolkit]] 体育参与条目的三级统计失真，批判民间[[Empiricism\|经验主义]]科学观。
-> - [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] — 跨机构对比 12 个教育清算中心，揭示 evidence-based 标签[[Construct Validity\|构念效度]]危机。
-> - [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] — 审查教育心理学期刊中[[Non-intervention Research\|非干预研究]][[Recommendations for Practice\|实践建议]]（RFP）的因果越界现象。
-> - [[Argument_Pampaka_2016_IJRME\|Pampaka et al. (2016)]] — 诊断英美大规模 [[Randomised Controlled Trials\|RCT]] 投资与普遍零效应之间的经验矛盾。
-> - [[Argument_Zhao_2017_JEC\|Zhao (2017)]] — 阐明 EBE 忽视临床副作用监测与挤压多元教育价值的盲区。
-> - [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]] — 以英国议会为案例揭示决策者通过道德侧步系统性规避不利证据的政治机制。
-> - [[Argument_Terhart_2011_JCS\|Terhart (2011)]] — 识别超级[[Meta-analysis\|元分析]]在稳定性与变异性之间的双重困境。
-> - [[Argument_Berk_2011_EvalRev\|Berk (2011)]] — 从资深学术期刊编辑视角揭示鉴别真证据与垃圾科学的制度困境。
-> - [[Argument_Nordahl_2015_Paideia\|Nordahl (2015)]] — 剖析证据在学校微观落地中遭遇的情境调适与[[New Public Management\|新公共管理]]误区。
-> - [[Argument_Cowen_2015_CHESS\|Cowen et al. (2015)]] — 通过一线教师访谈实证揭示开箱即用套用证据方案的实施障碍。
-> - [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021)]] — 考察证据地方使用中利益相关者的解释权冲突。
-> - [[Argument_Blass_2020_JESP\|Blass (2020)]] — 提出政策采纳学术证据的五要素系统评估框架。
-> - [[Argument_ONeill_2012_NZJES\|O'Neill (2012)]] — 剖析政策行动者断章取义使用[[Effect Size\|效应量]]榜单造成的[[Material Fallacies\|实质谬误]]。
-> - [[Argument_McKnight_2020_Discourse\|McKnight and Whitburn (2020)]] — 批判可视化学习中贬低教师专业自主的性别与能力主义隐喻。
-> - [[Argument_Peterson_2016_IJRME\|Peterson (2016)]] — 提出以[[Mechanism Experiments\|机制实验]]与专业改进网络为核心的“什么有效 2.0”改良方案。
-> - [[Argument_Zapp_2022_Springer\|Zapp (2022)]] — 将 EBE 置于全球[[Epistemic Governance\|知识治理]]兴起与[[Policy Science in Comparative Education\|政策科学]]化的宏观脉络中进行定位。
-> - [[Argument_Qvortrup_2019_NordSTEP\|Qvortrup (2019)]] — 提出元分析作为观察透镜的认识论反思。
-> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 开展教育学史上首个对《[[Visible Learning|可见的学习]]》全库[[Metascience|元科学]]审计，揭示宏观循证知识库底层仅 0.66% 数据可复现、44% 查无实据，为解构 EBE 的经验基础提供了最具毁灭性的实证定性。
-> - [[Evidence-Based Education]] — 循证教育主条目，记录 EBE 核心定义、[[Paradigm\|范式]]特征与支持性论证。
-
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014, pp. 38–47)]] — 从均值陷阱、课程测不准原理与循证医学三联体出发，论证微观课堂情境对大样本统计均值的检验与个案裁决地位。
+> - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 从认识论、存在论和实践论系统确立 EBE 的三重缺陷框架与民主缺陷批判。
+> - [[Argument_Helgetun_2022_JEdPolicy|Helgetun and Menter (2022)]] — 历时追踪英格兰 ITT 改革，揭示证据时代的合理化神话、政府守门人与基于政策的证据制造（PBEM）。
+> - [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] — 运用批判实在论解构 EBE 方法论预设，揭示因果深层机制与施为者悖论。
+> - [[Argument_Wiliam_2019_ERE|Wiliam (2019)]] — 从高德曼区分认识论论证教育情境异质性与 EBE 原则上的不可完成性。
+> - [[Argument_Cowen_2019_ERE|Cowen (2019)]] — 结合塔洛克官僚理论分析 EBE 作为形式化过滤程序的政治经济韧性与方法偏好。
+> - [[Argument_Wrigley_2019_ERE|Wrigley and McCusker (2019)]] — 逐层剖析 EEF Toolkit 体育参与条目的三级统计失真，批判民间经验主义科学观。
+> - [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] — 跨机构对比 12 个教育清算中心，揭示 evidence-based 标签构念效度危机。
+> - [[Argument_Brady_2023_EPR|Brady et al. (2023)]] — 审查教育心理学期刊中非干预研究实践建议（RFP）的因果越界现象。
+> - [[Argument_Pampaka_2016_IJRME|Pampaka et al. (2016)]] — 诊断英美大规模 RCT 投资与普遍零效应之间的经验矛盾。
+> - [[Argument_Zhao_2017_JEC|Zhao (2017)]] — 阐明 EBE 忽视临床副作用监测与挤压多元教育价值的盲区。
+> - [[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]] — 以英国议会为案例揭示决策者通过道德侧步系统性规避不利证据的政治机制。
+> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 识别超级元分析在稳定性与变异性之间的双重困境。
+> - [[Argument_Berk_2011_EvalRev|Berk (2011)]] — 从资深学术期刊编辑视角揭示鉴别真证据与垃圾科学的制度困境。
+> - [[Argument_Nordahl_2015_Paideia|Nordahl (2015)]] — 剖析证据在学校微观落地中遭遇的情境调适与新公共管理误区。
+> - [[Argument_Cowen_2015_CHESS|Cowen et al. (2015)]] — 通过一线教师访谈实证揭示开箱即用套用证据方案的实施障碍。
+> - [[Argument_Ross_Morrison_2021_ECNUROE|Ross and Morrison (2021)]] — 考察证据地方使用中利益相关者的解释权冲突。
+> - [[Argument_Blass_2020_JESP|Blass (2020)]] — 提出政策采纳学术证据的五要素系统评估框架。
+> - [[Argument_ONeill_2012_NZJES|O'Neill (2012)]] — 剖析政策行动者断章取义使用效应量榜单造成的实质谬误。
+> - [[Argument_McKnight_2020_Discourse|McKnight and Whitburn (2020)]] — 批判可视化学习中贬低教师专业自主的性别与能力主义隐喻。
+> - [[Argument_Peterson_2016_IJRME|Peterson (2016)]] — 提出以机制实验与专业改进网络为核心的“什么有效 2.0”改良方案。
+> - [[Argument_Zapp_2022_Springer|Zapp (2022)]] — 将 EBE 置于全球知识治理兴起与政策科学化的宏观脉络中进行定位。
+> - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] — 提出元分析作为观察透镜的认识论反思。
+> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 开展教育学史上首个对《可见的学习》全库元科学审计，揭示宏观循证知识库底层仅 0.66% 数据可复现、44% 查无实据，为解构 EBE 的经验基础提供了实证定性。
