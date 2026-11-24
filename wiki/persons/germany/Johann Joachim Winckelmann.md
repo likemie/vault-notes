@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 14
+person_related_count: 16
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -36,16 +36,18 @@ related_persons:
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Moses Mendelssohn]]"
   - "[[Friedrich Nietzsche]]"
+  - "[[Immanuel Kant]]"
 related_facts:
   - "[[Philosophy of Art]]"
 related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch01]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch02]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch05]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch07]]"
 confidence: high
 status: active
 created: "2026-11-15"
-updated: 2026-11-21
+updated: 2026-11-24
 ---
 
 ---
@@ -101,11 +103,12 @@ updated: 2026-11-21
 > - **知觉与尺度路径** 倡导的“易观性”判据被莫泽斯·门德尔松等[[Enlightenment|启蒙哲学]]家吸收，成为反思无限宇宙与哥特建筑装饰尺度的核心知觉美学原则。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 15)]]
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 析《古代艺术史》重申易观性尺度对门德尔松知觉美学的影响（[[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]）；定位其对黑格尔历史化艺术哲学的先驱意义（[[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]）；析[[Friedrich Nietzsche|尼采]]对希腊静穆理想的颠覆（[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 析《古代艺术史》易观性尺度对门德尔松的影响（[[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]）；论沉思罗马原作作为典范指引鉴赏力（[[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]）；定位对黑格尔的先驱意义（[[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]）；析尼采对静穆理想的颠覆（[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]）。
 
 ---
 
 > [!person-network] 关系网络
+> - **先验鉴赏力对话者** [[Immanuel Kant|伊曼努尔·康德]] — 康德在《判断力批判》§32 中讨论鉴赏判断需借助历史典范以防退化时，直接呼应了温克尔曼强调在罗马沉思古典原作作为最高鉴赏指引的修辞学传统。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, p. 36)]]
 > - **后世承接** [[Georg Wilhelm Friedrich Hegel|黑格尔]] — 黑格尔在借鉴温克尔曼《古代艺术史》的基础上，将内容美学与历史发展原则结合起来，推动 19 世纪初艺术史学科成形。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 88)]]
 > - **知觉尺度共鸣** [[Moses Mendelssohn|莫泽斯·门德尔松]] — 门德尔松在《论情感的书信》与《论自由艺术中的崇高与素朴》中重申温克尔曼论及的易观性尺度，断言美依存于人类瞬间总揽的知觉限度。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 15)]]
 > - **后世颠覆** [[Friedrich Nietzsche|弗里德里希·尼采]] — 尼采在《悲剧的诞生》中解构温克尔曼的希腊静穆神话，指出静穆实为日神抵御生存深渊与酒神恐怖的防护梦境。[[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, p. 139)]]
@@ -120,4 +123,5 @@ updated: 2026-11-21
 > | [[Philosophy of Art\|艺术哲学]] | 概念 | 率先摆脱传记编年体，开创将风格与历史文化演进结合的现代艺术史研究。[[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, p. 88)]] |
 > | [[Hegel's Aesthetics\|黑格尔美学]] | 理论 | 其历史化艺术史著述为黑格尔转向内容美学与历史哲学提供关键先导。[[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, p. 88)]] |
 > | [[Moses Mendelssohn\|莫泽斯·门德尔松]] | 人物 | 吸收其易观性范畴以论证审美知觉必须符合人类心智尺度。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, p. 15)]] |
+> | [[Immanuel Kant\|伊曼努尔·康德]] | 人物 | 其鉴赏判断依赖历史典范纠偏的主张呼应了温克尔曼对古典原作的沉思论。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, p. 36)]] |
 > | [[Georg Wilhelm Friedrich Hegel\|黑格尔]] | 人物 | 思想后继，在《美学讲演录》中吸收其古典艺术分期与历史风格演进观点。[[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, p. 88)]] |

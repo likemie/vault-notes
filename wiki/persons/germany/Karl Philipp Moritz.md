@@ -10,10 +10,10 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1756"
 died: "1793"
 lifespan: "1756–1793"
@@ -40,10 +40,11 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch01]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch02]]"
 confidence: high
 status: active
 created: "2026-11-23"
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 ---
@@ -90,14 +91,14 @@ updated: 2026-11-23
 > - **早期浪漫派与自律艺术哲学的直接先导** 其“自身完满”命题为席勒的美育书简、施莱格尔兄弟的诗学断片以及现代艺术自律理论铺平了理论道路。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 析莫里茨如何作为门德尔松心理学美学转向的集大成者，确立艺术自律与自身完满命题（第 18 页）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 析莫里茨美学：[[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]论门德尔松心理学美学转向与自身完满命题；[[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]论 1785 年论述先于第三批判确立内在目的，成无利害快感谱系核心枢纽。
 
 ---
 
 > [!person-network] 关系网络
 > - **心理学转向理论先驱** [[Moses Mendelssohn|莫泽斯·门德尔松]] — 门德尔松由生产美学向接受美学开拓的心理学路径，在莫里茨的论著中达致思想顶峰。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 18)]]
 > - **思想挚友与学术同道** [[Johann Wolfgang von Goethe|约翰·沃尔夫冈·冯·歌德]] — 旅居罗马时期的密友，歌德高度赞扬其《论对美的造型模仿》为其艺术思考理清了关键逻辑。
-> - **先验美学同代巨擘** [[Immanuel Kant|伊曼纽尔·康德]] — 康德在《判断力批判》出版前研读过莫里茨的自律学说，两者在无功利形式合目的性上高度契合。
+> - **先验美学同代巨擘** [[Immanuel Kant|伊曼纽尔·康德]] — 莫里茨于 1785 年在《论所有优美艺术与科学的统一》中先于第三批判五年确立艺术作品“内在目的取代外在目的”的自足性，直接启迪康德无利害快感与形式合目的性学说。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 28–29)]]
 > - **规则诗学范式对立者** [[Alexander Gottlieb Baumgarten|亚历山大·戈特利布·鲍姆加登]] — 鲍姆加登立足修辞法度指导诗艺生产，莫里茨则彻底转向探讨受众审美心灵的完满与直觉沉醉。
 
 ---
@@ -114,7 +115,7 @@ updated: 2026-11-23
 
 > [!entry-map] 条目关联
 >
-> | 条目 | 类型 | 关系 |
+> | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Aesthetic Autonomy]] | 概念 | 提出艺术作品自身完满命题，确立现代艺术自律理论的关键思想基石。 |
 > | [[Disinterested Pleasure]] | 概念 | 论证审美静观排斥实用功利占有，为无功利审美愉悦提供心理学支撑。 |
@@ -122,5 +123,5 @@ updated: 2026-11-23
 > | [[Sensual Cognition]] | 概念 | 强调感官静观对完满形式的直观摄取，将感性认知提升至自足境界。 |
 > | [[Moses Mendelssohn]] | 人物 | 思想前驱，莫里茨承接并极大发展了其心理学美学与受众快感学说。 |
 > | [[Johann Wolfgang von Goethe]] | 人物 | 亲密同行，两人共同在罗马探讨古典造型艺术规律并共享美学观点。 |
-> | [[Immanuel Kant]] | 人物 | 同代先验哲学家，其无功利愉悦与形式合目的性与莫里茨学说高度相通。 |
+> | [[Immanuel Kant]] | 人物 | 1785 年美学论述提出的自身完满概念先于第三批判预示了无利害快感与合目的性原理。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 28–29)]] |
 > | [[Alexander Gottlieb Baumgarten]] | 人物 | 其所强化的生产规则诗学被莫里茨基于心理自律的全新美学范式所取代。 |

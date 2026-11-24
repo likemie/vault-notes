@@ -209,7 +209,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-05-21
-updated: 2026-11-19
+updated: 2026-11-24
 ---
 
 > [!tip] 知识网络与批评条目维护分流指引
@@ -248,15 +248,15 @@ updated: 2026-11-19
 
 > [!dimension] 可见学习外部学理批评的六大核心维度
 > - **方法论假性精确与统计无效性（Methodological Pseudo-Precision & Statistical Invalidity）**
->   解构其自创的[[Meta-meta-analysis|二级元分析]]算法：隐藏核心计算公式、采用无加权简单算术平均、混淆[[Effect Size|效应量]]类型、忽视一阶研究重叠样本与极端[[Heterogeneity|异质性]]、数据提取失真，最终导致产出的排名与 $d=0.40$ 阈值缺乏统计实体意义。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016)]]; [[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023)]]
+>   解构其自创的[[Meta-meta-analysis|二级元分析]]算法：隐藏核心计算公式、采用无加权简单算术平均、混淆[[Effect Size|效应量]]类型、忽视一阶研究重叠样本与极端[[Heterogeneity|异质性]]、数据提取失真，最终导致产出的排名与 $d=0.40$ 阈值缺乏统计实体意义。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016)]]; [[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025)]]; [[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017)]]
 > - **[[Didaktik|教学理论]]空洞化与学科异质性抹杀（Didaktic Emptiness & De-contextualization）**
->   批判其将丰富的课堂教学抽离出学科内容体系、教学法情境与师生主体意向，将育人过程矮化为投入产出的机械工序，陷入盲目的教育技术乐观主义与教师角色浪漫化。[[Argument_Terhart_2011_JCS|(Terhart, 2011)]]
+>   批判其将丰富的课堂教学抽离出学科内容体系、教学法情境与师生主体意向，将育人过程矮化为投入产出的机械工序，陷入盲目的教育技术乐观主义与教师角色浪漫化。[[Argument_Terhart_2011_JCS|(Terhart, 2011)]]; [[Argument_Terhart_2014_HolyGrail|(Terhart, 2014)]]
 > - **教育哲学偏狭与自由教养遮蔽（Philosophical Reductionism & Colonization of [[Bildung]]）**
->   揭示评价理论与[[Technical Rationality|技术理性]]对教育哲学的全面殖民：将教育目的彻底等同于可测量的考试分数，以[[Radical Constructivism|激进建构主义]]消解客观知识，以神经还原论抹杀中间存在者的身心复杂性，将课堂 80% 的不可见机制化为[[Autopoiesis|自创生]]盲视，系统遮蔽了学生作为道德与文化主体的自由教养（[[Bildung]]）以及[[Emergence|涌现]]的[[Participatory Sense-Making|参与式意义建构]]（[[Participatory Sense-Making]]）。[[Argument_Rømer_2018_EPT|(Rømer, 2018)]]; [[Argument_Larsen_2019_EducSci|(Larsen, 2019)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023)]]
+>   揭示评价理论与[[Technical Rationality|技术理性]]对教育哲学的全面殖民：将教育目的彻底等同于可测量的考试分数，以[[Radical Constructivism|激进建构主义]]消解客观知识，以神经还原论抹杀中间存在者的身心复杂性，将课堂 80% 的不可见机制化为[[Autopoiesis|自创生]]盲视，系统遮蔽了学生作为道德与文化主体的自由教养（[[Bildung]]）以及[[Emergence|涌现]]的[[Participatory Sense-Making|参与式意义建构]]（[[Participatory Sense-Making]]）。[[Argument_Rømer_2018_EPT|(Rømer, 2018)]]; [[Argument_Larsen_2019_EducSci|(Larsen, 2019)]]
 > - **可见性全景监控与新[[Charles Taylor|泰勒]]制规训（[[Panopticism|panoptic surveillance]] & [[Neo-Taylorism]]）**
->   揭露将教学比附为外科手术等流水线技术的工业管理逻辑：揭示将神圣全知凝视世俗化为持续全景监视与强迫性自我观察的微观机制，依托 [[Assessment Tools for Teaching and Learning|asTTle]] 监控软件与指标化气压计剥夺[[Teacher Professional Agency|教师专业能动性]]，推行白板板书形式主义核查等[[Performativity|表演性]]打卡，诱发基层教师严重的职业倦怠。[[Argument_Terhart_2011_JCS|(Terhart, 2011)]]; [[Argument_Larsen_2019_EducSci|(Larsen, 2019)]]; [[Argument_Eacott_2019_IJLE|(Eacott, 2019)]]; [[Argument_McKnight_2020_Discourse|(McKnight & Whitburn, 2020)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023)]]
+>   揭露将教学比附为外科手术等流水线技术的工业管理逻辑：揭示将神圣全知凝视世俗化为持续全景监视与强迫性自我观察的微观机制，依托 [[Assessment Tools for Teaching and Learning|asTTle]] 监控软件与指标化气压计剥夺[[Teacher Professional Agency|教师专业能动性]]，推行白板板书形式主义核查等[[Performativity|表演性]]打卡，诱发基层教师严重的职业倦怠。[[Argument_Eacott_2019_IJLE|(Eacott, 2019)]]; [[Argument_McKnight_2020_Discourse|(McKnight & Whitburn, 2020)]]
 > - **[[Neoliberalism|新自由主义]]商业化与财政紧缩借口（Neoliberal Commercialization & Fiscal Austerity）**
->   追踪其自诞生之初即深度嵌入的新西兰公共教育外包改制：学者身兼咨询机构董事并获取巨额版税，高频鼓吹“[[Class Size|班级规模]]不影响学业”，精准迎合了政府削减教育经费、推卸公共财政责任的紧缩政策诉求。[[Argument_Grace_2010_NZJES|(Grace, 2010)]]; [[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023)]]
+>   追踪其自诞生之初即深度嵌入的新西兰公共教育外包改制：学者身兼咨询机构董事并获取巨额版税，高频鼓吹“[[Class Size|班级规模]]不影响学业”，精准迎合了政府削减教育经费、推卸公共财政责任的紧缩政策诉求。[[Argument_Grace_2010_NZJES|(Grace, 2010)]]; [[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016)]]
 > - **[[Cargo Cult Science|货物崇拜科学]]与伪科学划界（Cargo Cult Science & Epistemic Demarcation）**
 >   运用费曼科学哲学辨析其伪科学特质：外表高度[[Mimesis|模仿]]自然科学的图表、公式与海量数据，实质却回避同行评议、缺乏竭尽全力证明自己可能出错的求真品格，在封闭商业运作中构建不可[[Falsification|证伪]]的数字教条。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023)]]
 
@@ -931,16 +931,19 @@ updated: 2026-11-19
 > | **科学哲学与划界批判** | [[Cargo Cult Science]] | 概念 | 货物崇拜科学；从费曼科学哲学视角解构 VL 具备复杂图表与庞大数字外壳，却隐藏计算公式、缺乏可错论求真诚意与回避学术[[Falsification\|证伪]]的伪科学特征；科学哲学划界批判分流维护于此。 |
 > | **劳动过程与全景监控** | [[Neo-Taylorism]] | 概念 | 新泰勒主义；批判 VL 将育人复杂劳动拆解为标准化动作清单、依托量化气压计剥夺[[Teacher Professional Agency\|教师专业能动性]]并推行行政全景监控的劳动过程理论；管理规训批判分流维护于此。 |
 > | **具身认知与反还原论** | [[Participatory Sense-Making]] | 概念 | 参与式意义建构；立足 4E 具身认知与身体[[Phenomenology\|现象学]]，批判将教学理解矮化为脑神经指标监控与单一数据公分母的生化还原论；具身交往构念维护于此。 |
-> | **[[Ecology of the Brain\|大脑生态学]]与身体现象学** | [[Thomas Fuchs]] | 人物 | 德国身体现象学家；提出大脑生态学理论与生成主体间性，解构脑神经还原论与即时测验监控迷思；神经现象学学者网络维护于此。 |
-> | **世俗化神学监控** | [[Peter Sloterdijk]] | 人物 | 德国哲学家；提出世俗化神学监控理论，揭示可见学习将全知上帝之眼世俗化为对受教育者全景监视与强迫性自我观察的微观机制；文化哲学学者网络维护于此。 |
-> | **概念史与教化批判免疫** | [[Reinhart Koselleck]] | 人物 | 德国概念史奠基人；提出教化语义学结构，揭示教化作为个体抵制教育系统愚弄与过度顺从的批判免疫机制；概念史学者网络维护于此。 |
-> | **商业化与政商利益网络** | [[Visible Learning Branding and Global Influences]] | 事实 / 事件 | 记录 VL 从学术成果异化为 VLplus 商业专营品牌、[[Corwin Press\|考文出版社]]收购、认证培训垄断、新西兰/澳大利亚/丹麦等国官方政策采纳及学者高额版税收益事实；**商业运作、版税利益追踪与跨国政策扩散事实统一分流维护于此**。 |
-> | **政商载体与商业咨询** | [[Cognition Education]] | 事实 / 机构 | 新西兰教育服务改制成立的商业咨询公司，设立 VLplus 品牌并长期向学者支付高额劳务报酬（2011–2015 达 86.9 万新西兰元）；政商旋转门细节维护于此。 |
 > | **[[Meta-analysis\|元分析]]方法学纯学理批判** | [[Critique of Meta-analysis]] | 概念 | 元分析方法论批判；系统梳理[[Meta-meta-analysis\|二级元分析]]在[[Effect Size\|效应量]]合并、[[Heterogeneity\|异质性]]丢失、[[Publication Bias\|发表偏倚]]与垃圾进垃圾出（GIGO）维度的纯方法学批判；纯统计学缺陷维护于此。 |
-> | **数理统计与二阶元分析审计** | [[Pierre-Jérôme Bergeron]] | 人物 | 渥太华大学生物统计学者；系统揭示二阶元分析初等概率计算错误、比较基线主观反转、受控三公式矛盾排名与相关换算极值爆炸；数理统计审计成果与学术网络维护于此。 |
-> | **定量方法论本体** | [[Meta-analysis]] | 方法 | 元分析方法本体；涵盖效应量提取、加权模型与元分析规范；二级元分析对原始研究异质性与非线性关系的平坦化失真案例维护于此。 |
 > | **社会批判与宏观政策** | [[Critic and Conscience of Society]] | 概念 | 社会批判与良知角色；批判 VL 刻意将贫困、阶级与社会不平等等非学校因素排除在分析轨道之外的理论局限。 |
 > | **意识形态与文化批评** | [[Scientism]] | 概念 | 科学主义；批判 VL 将自然科学实验与物理研发[[Paradigm\|范式]]机械移植到教育人文领域的宏观意识形态基底。 |
 > | **明星学术与权威盲从** | [[Cult of the Guru]] | 概念 | 大师崇拜；批判教育界对学术明星及其商业处方的盲目追捧与教条化信仰现象。 |
 > | **治理异化与职业倦怠** | [[Performativity]] | 概念 | 表演性；批判量化指标如何迫使教师陷入伪造合规证据、应付外部审查的职业倦怠。 |
+> | **教学系统矛盾与理论困境** | [[Stability vs. Variability Dilemma]] | 理论 | 稳定性与变异性双重困境；揭示标准化干预指标在应对复杂生动课堂情境时的理论悖论；教学情境变异性理论维护于此。 |
+> | **微观权力与注视控制** | [[Panopticism]] | 理论 | 全景规训机制；从福柯权力视角解构双向注视隐喻的微观行政规训风险；权力监视理论维护于此。 |
+> | **定量方法论本体** | [[Meta-analysis]] | 方法 | 元分析方法本体；涵盖效应量提取、加权模型与元分析规范；二级元分析对原始研究异质性与非线性关系的平坦化失真案例维护于此。 |
+> | **普通教学论对话与形式主义反思** | [[Ewald Terhart]] | 人物 | 德国教学论学者；从欧陆普通教学论、教化传统与“路灯效应”反思可见学习的形式主义与技术理性局限；欧陆教学论对话网络维护于此。 |
+> | **[[Ecology of the Brain\|大脑生态学]]与身体现象学** | [[Thomas Fuchs]] | 人物 | 德国身体现象学家；提出大脑生态学理论与生成主体间性，解构脑神经还原论与即时测验监控迷思；神经现象学学者网络维护于此。 |
+> | **世俗化神学监控** | [[Peter Sloterdijk]] | 人物 | 德国哲学家；提出世俗化神学监控理论，揭示可见学习将全知上帝之眼世俗化为对受教育者全景监视与强迫性自我观察的微观机制；文化哲学学者网络维护于此。 |
+> | **概念史与教化批判免疫** | [[Reinhart Koselleck]] | 人物 | 德国概念史代表学者；提出教化语义学结构，揭示教化作为个体抵制教育系统愚弄与过度顺从的批判免疫机制；概念史学者网络维护于此。 |
+> | **数理统计与二阶元分析审计** | [[Pierre-Jérôme Bergeron]] | 人物 | 渥太华大学生物统计学者；系统揭示二阶元分析初等概率计算错误、比较基线主观反转、受控三公式矛盾排名与相关换算极值爆炸；数理统计审计成果与学术网络维护于此。 |
+> | **商业化与政商利益网络** | [[Visible Learning Branding and Global Influences]] | 事实 / 事件 | 记录 VL 从学术成果异化为 VLplus 商业专营品牌、[[Corwin Press\|考文出版社]]收购、认证培训垄断、新西兰/澳大利亚/丹麦等国官方政策采纳及学者高额版税收益事实；**商业运作、版税利益追踪与跨国政策扩散事实统一分流维护于此**。 |
+> | **政商载体与商业咨询** | [[Cognition Education]] | 事实 / 机构 | 新西兰教育服务改制成立的商业咨询公司，设立 VLplus 品牌并长期向学者支付高额劳务报酬（2011–2015 达 86.9 万新西兰元）；政商旋转门细节维护于此。 |
 > | **测量与评估工具** | [[Assessment Tools for Teaching and Learning]] | 测量工具 | asTTle 计算机评估系统；Hattie 主持开发的新西兰国家[[Formative Assessment\|形成性评估]]工具，其界面直接衍生出 VL 标志性的气压计图表；测评工具构念与管理功能维护于此。 |

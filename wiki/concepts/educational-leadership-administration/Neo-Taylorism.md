@@ -95,7 +95,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-05-03
-updated: 2026-11-19
+updated: 2026-11-24
 ---
 
 > [!def] Neo-Taylorism
@@ -126,7 +126,7 @@ updated: 2026-11-19
 
 > [!dev-timeline] 概念演变历程
 > - **1911–1962 — 经典科学管理起源与教育[[Cult of Efficiency|效率崇拜]]** 泰勒（Taylor, 1911）出版《科学管理原理》，确立标准化任务分解与效率最大化信条；福特制将劳动节奏从工匠手中转移至管理办公室。卡拉汉（Callahan, 1962）出版《教育与效率崇拜》，论证 20 世纪上半叶美国公立学校深受商业与工程管理逻辑渗透，为埃考特分析当代教育治理奠定了历史参照系。[[Argument_Eacott_2017_SLM|(Eacott, 2017, pp. 413–414)]]
-> - **1950s–1980s — [[Theory Movement in Educational Administration|教育行政理论运动]]与术语奠基** 战后教育行政理论运动（Theory Movement）以西蒙（Simon, 1945）与逻辑[[Empiricism|经验主义]]为基石，追求类法则概括；霍奇金森（Hodgkinson, 1978）与格隆（Gronn, 1982）在《教育行政季刊》发表专论，正式将“新泰勒主义”（Neo-Taylorism）引入教育行政学，反思[[Technical Rationality|技术理性]]的[[Epistemology|认识论]]局限。[[Argument_Eacott_2019_IJLE|(Eacott, 2019, p. 775)]]
+> - **1950s–1980s — [[Theory Movement in Educational Administration|教育行政理论运动]]与术语溯源** 战后教育行政理论运动（Theory Movement）以西蒙（Simon, 1945）与逻辑[[Empiricism|经验主义]]为基石，追求类法则概括；霍奇金森（Hodgkinson, 1978）与格隆（Gronn, 1982）在《教育行政季刊》发表专论，正式将“新泰勒主义”（Neo-Taylorism）引入教育行政学，反思[[Technical Rationality|技术理性]]的[[Epistemology|认识论]]局限。[[Argument_Eacott_2019_IJLE|(Eacott, 2019, p. 775)]]
 > - **2008–2017 — [[Effect Size|效应量]]语言崛起与埃考特的系统解构** 罗宾逊等（Robinson et al., 2008）的[[Meta-analysis|元分析]]打破[[Transformative Leadership|变革型领导力]]传统，引入效应量指标。[[John Hattie|哈蒂]]（[[Argument_Hattie_2005_ACER|Hattie, 2005]]; Hattie, 2009）出版《[[Visible Learning|可见的学习]]》，以数百项元分析和效应量排行榜席卷全球。埃考特（[[Argument_Eacott_2017_SLM|Eacott, 2017]]）发表标志性文章，正式将哈蒂体系界定为新泰勒主义与[[Cult of the Guru|大师崇拜]]，引爆跨国学术论战。
 > - **2019–2021 — 跨国实证拓展与底层数据解构** 跨国研究揭示了新泰勒主义的多维后果：戈洛夫钦（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）实证测得转型国家 79% 教师受困于持续数据生产与迎检报表增生；约翰逊与扬岑（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）剖析了澳洲维州全景式教学[[Strategy Monitoring|策略监控]]；尼尔森与克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）细读底层元分析数据，从技术理性与[[Critical Theory|批判理论]]视角证实其[[Construct|构念]]混淆与新泰勒主义行政工具属性。
 
@@ -157,7 +157,7 @@ updated: 2026-11-19
 > - **[[Return on Investment|投资回报率]]与效应量至上逻辑（Return on Investment Metricism）** 将经济学[[Costs Benefits Ratio in Research Ethics|成本收益比]]移植于课堂，以 0.40 支点效应量作为资源投放判决依据，诱导学校追求速成量化增益，压制难以快速量化的深层批判思维与情感素养（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p. 778]]）。
 > - **数字化全景监控与持续数据生产（[[Panopticism|panoptic surveillance]] & Data Production）** 借助 [[Assessment Tools for Teaching and Learning|asTTle]] 等测验系统与自适应平台，建立福柯（Foucault, 1977）意义上的全景敞视机制，迫使学校疲于应付源源不断的迎检报表流（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）。
 > - **教师专业贬抑与[[Cognitive Deskilling|去技能化]]（Teacher Deskilling & Deprofessionalization）** 官方修辞将教师传统经验贬斥为“未成熟职业”的道听途说，以客观证据之名剥夺一线教师的自由裁量权，促使专业劳动退化为机械履职（Hattie, 2009; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 29]]）。
-> - **政商学三位一体推广网络（Tripartite Promotion Cartel）** 依靠学术权威、跨国商业出版集团（如 [[Corwin Press|Corwin]]）与国家官方认证机构（如 [[Australian Institute for Teaching and School Leadership|AITSL]]）构建利益同盟，形成从理论制造、商业培训到强制标准认证的扩张网络（[[Argument_Eacott_2017_SLM|Eacott, 2017]]; [[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）。
+> - **政商学三位一体推广网络（Tripartite Promotion Cartel）** 依靠学术权威、跨国商业出版集团（如 [[Corwin Press|Corwin]]）与国家官方认证机构（如 [[Australian Institute for Teaching and School Leadership|AITSL]]）构建利益同盟，形成从理论制造、商业培训到强制标准认证的扩张网络（[[Argument_Eacott_2017_SLM|Eacott, 2017, pp. 415–416]]; [[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）。
 
 新泰勒主义通过数据指标设定、程序规程分解与全景绩效监控，确立了自上而下的行政控制回路。
 

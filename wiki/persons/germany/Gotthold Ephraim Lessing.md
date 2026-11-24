@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 11
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -34,15 +34,17 @@ related_persons:
   - "[[Friedrich Wilhelm Joseph Schelling]]"
   - "[[Karl Wilhelm Ferdinand Solger]]"
   - "[[Georg Lukács]]"
+  - "[[Immanuel Kant]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch01]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch02]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch04]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch08]]"
 confidence: high
 status: active
 created: "2026-11-15"
-updated: 2026-11-21
+updated: 2026-11-24
 ---
 
 ---
@@ -102,12 +104,13 @@ updated: 2026-11-21
 > - **悲剧诗学与卡塔西斯伦理化** 在《汉堡剧评》中对亚里士多德卡塔西斯的重释，直接被卢卡奇等马克思主义美学家用来反思康德无利害美学，强调审美体验的伦理净化与现实改造功能。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 165–166)]]
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 析莱辛美学：[[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]论门德尔松媒介符号学对《拉奥孔》的理论启发；[[Argument_Hammermeister_2002_Cambridge_Ch04|第 4 章]]论富于孕育的瞬间与宗教同源；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]论卢卡奇借《汉堡剧评》重构卡塔西斯。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 析莱辛美学：[[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]论门德尔松媒介符号学对《拉奥孔》的启发；[[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]论艺术求真地位剥离与康德采纳其时空艺术划分；[[Argument_Hammermeister_2002_Cambridge_Ch04|第 4 章]]论富于孕育瞬间与宗教同源；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]论卢卡奇重构卡塔西斯。
 
 ---
 
 > [!person-network] 关系网络
 > - **美学思想盟友** [[Moses Mendelssohn|莫泽斯·门德尔松]] — 门德尔松关于自然符号与任意符号的艺术分类，构成了莱辛撰写《拉奥孔》界定艺术媒介界限的思想基石。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 18)]]
+> - **先验美学对话者** [[Immanuel Kant|伊曼努尔·康德]] — 康德赞同莱辛关于艺术终极在于愉悦而非求真的论断，并在《判断力批判》§51 中直接沿袭莱辛在《拉奥孔》中关于空间造型艺术与时间诗歌的分类框架。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 22, 34–35)]]
 > - **后世美学对话者** [[Friedrich Wilhelm Joseph Schelling|谢林]] — 谢林中期提出的“完美瞬间”说与莱辛《拉奥孔》反对展示顶点高潮的留白原则形成对照，而其艺术与宗教合一论则直接承接莱辛。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 79, 81)]]
 > - **学派后继** [[Karl Wilhelm Ferdinand Solger|索尔格]] — 承接莱辛关于宗教与艺术内在相通的思想，并在浪漫派语境下推进反讽与神圣性的讨论。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 81)]]
 > - **接受论转化** [[Georg Lukács|格奥尔格·卢卡奇]] — 借用莱辛《汉堡剧评》对卡塔西斯的解释，拒绝康德无利害美学并重构悲剧的伦理皈依力量。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 165–166)]]
@@ -122,5 +125,6 @@ updated: 2026-11-21
 > | [[Catharsis\|卡塔西斯]] | 概念 | 在《汉堡剧评》中将其界定为激情向德性技能的转化，后被卢卡奇用于重构伦理皈依。[[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 165–166)]] |
 > | [[Identity Philosophy\|同一哲学]] | 理论 | 其“完美瞬间”说与莱辛《拉奥孔》反对展示顶点的原则形成对照，而艺术与宗教同源说则呼应莱辛。[[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, pp. 79, 81)]] |
 > | [[Moses Mendelssohn\|莫泽斯·门德尔松]] | 人物 | 挚友与思想伙伴，其符号分类理论构成《拉奥孔》界定诗画界限的直接理论基石。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, p. 18)]] |
+> | [[Immanuel Kant\|伊曼努尔·康德]] | 人物 | 赞同其艺术终极在于愉悦的论断，并在优美艺术分类中吸收其空间与时间艺术框架。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 22, 34–35)]] |
 > | [[Karl Wilhelm Ferdinand Solger\|索尔格]] | 人物 | 在莱辛与谢林之后继续重申宗教与艺术相互依存的观点。[[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, p. 81)]] |
 > | [[Georg Lukács\|格奥尔格·卢卡奇]] | 人物 | 在审美接受论中借用莱辛《汉堡剧评》的卡塔西斯解释以拒绝康德无利害预设。[[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 165–166)]] |

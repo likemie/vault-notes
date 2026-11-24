@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -47,11 +47,12 @@ related_facts:
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch05]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch01]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch02]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch04]]"
 confidence: high
 status: active
 created: 2026-11-12
-updated: 2026-11-21
+updated: 2026-11-24
 ---
 
 ---
@@ -101,12 +102,12 @@ updated: 2026-11-21
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Anderson_2016_Verso_Ch05|Anderson (2016)]] — 指出赫尔德关于“每个民族都有专属语言”的论断深刻形塑了19世纪欧洲将民族与排他性私有财产语言绑定的思想[[Paradigm|范式]]。
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 析赫尔德美学：[[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]论门德尔松符号分类对赫尔德的理论启发（第18页）；[[Argument_Hammermeister_2002_Cambridge_Ch04|第 4 章]]论其在《伊杜纳》（*Iduna*）中对古希腊与北欧神话的文化更新呼吁（第76页）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 析赫尔德美学：[[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]论符号分类启发；[[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]论《批判林苑》文艺批判与康德先验批判分流；[[Argument_Hammermeister_2002_Cambridge_Ch04|第 4 章]]论神话更新呼吁。
 
 ---
 
 > [!person-network] 关系网络
-> - **师承／思想对话** [[Immanuel Kant|伊曼纽尔·康德]] — 柯尼斯堡大学导师；赫尔德早年深受其影响，后在历史哲学与理性批判领域与其分道扬镳。
+> - **师承／思想对话** [[Immanuel Kant|伊曼努尔·康德]] — 柯尼斯堡大学导师；赫尔德早年在《批判林苑》（1769）中践行的文艺质性评价，与康德探究认识条件的先验哲学批判代表了 18 世纪“批判”概念的两大分流路径。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, p. 24)]]
 > - **先驱与符号论渊源** [[Moses Mendelssohn|莫泽斯·门德尔松]] — 符号美学理论先驱；赫尔德承接其自然符号与人为符号的区分，并将之拓展为诗歌与审美发生学体系。
 > - **同时代对话者** [[Johann Wolfgang von Goethe|约翰·沃尔夫冈·冯·歌德]] — 魏玛时期的亲密挚友与智识盟友，共同推动[[Sturm und Drang|狂飙突进]]与魏玛古典主义。
 > - **后世批评与阐释者** [[Benedict Anderson|本尼迪克特·安德森]] — 剖析其语言私有财产观念在19世纪欧洲[[Philological Revolution|语文学革命]]与民族主义普及中的催化作用。
@@ -123,3 +124,4 @@ updated: 2026-11-21
 > | [[Nationalism]] | 概念 | 其“每个民族都有专属语言”的命题为 19 世纪语言民族主义提供了思想源头 [[Argument_Anderson_2016_Verso_Ch05\|(Anderson, 2016, pp. 69–70)]]。 |
 > | [[Philosophical Aesthetics]] | 概念 | 深化启蒙晚期符号美学分类，推进德国审美理论转向。 |
 > | [[Moses Mendelssohn]] | 人物 | 承接其自然符号与任意符号艺术分类框架。 |
+> | [[Immanuel Kant]] | 人物 | 师承导师，两者代表了 18 世纪“批判”概念向具体艺术评判与先验条件考察的分流。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, p. 24)]] |

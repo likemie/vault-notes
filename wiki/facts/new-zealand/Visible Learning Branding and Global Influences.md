@@ -106,7 +106,7 @@ related_instruments:
 confidence: high
 status: stable
 created: '2026-05-04'
-updated: 2026-11-19
+updated: 2026-11-24
 ---
 
 > [!claim] 核心定性
@@ -214,7 +214,7 @@ Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表�
 ---
 
 > [!dev-timeline] 品牌化与全球推进历程
-> - **1999–2005 — 技术前身与数据奠基期** Hattie 受教育部资助主持开发 [[Assessment Tools for Teaching and Learning|asTTle]] 测试系统，奠定图表可视化呈现方式与形成性问责理论。
+> - **1999–2005 — 技术前身与数据积累期** Hattie 受教育部资助主持开发 [[Assessment Tools for Teaching and Learning|asTTle]] 测试系统，确立了图表可视化呈现方式与形成性问责理论。
 > - **2006–2008 — 商标布局与机构筹备期** 奥克兰大学申请 VL 商标并创建实验室；Hattie 出任 [[Cognition Education|Multi Serve]]（后更名 Cognition Education）董事会董事。
 > - **2009–2010 — 著作问世与媒体爆发期** *[[Visible Learning]]* 出版引发全球热潮；新西兰媒体风暴爆发；Cognition Education 启动 VLplus 商业运营，集团收入达 6,900 万美元高点。
 > - **2011–2014 — 跨国扩张与政策标准嵌入期** 注册 Visible Learningplus 国际商标；Hattie 赴墨尔本大学并出任 [[Australian Institute for Teaching and School Leadership|AITSL]] 主席，将指标嵌入澳大利亚国家标准；丹麦议会通过引用 VL 的公立学校改革。
@@ -246,19 +246,19 @@ Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表�
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Visible Learning]] | Concept | 品牌化运营所依托的学术母体与教育[[Research Synthesis\|证据综合]]框架。 |
+> | [[Learning Intentions]] | Concept | 可见学习商业培训包中被重点标准化的核心教学概念，后在维州沦为白板打卡指标。 |
+> | [[Critiques of Visible Learning]] | Concept | 汇总学界对 VL 统计方法、[[Neo-Taylorism\|新泰勒主义]]与商业化利益冲突的系统性学术批判入口。 |
 > | [[John Hattie]] | Person | 《可见的学习》专著著者、商业品牌核心人物与[[Policy Entrepreneur\|政策创业者]]。 |
+> | [[Assessment Tools for Teaching and Learning]] | Instrument | Hattie 主持开发的新西兰国家[[Formative Assessment\|形成性评估]]工具，构成 VL 的技术原型与商业化试验案例。 |
 > | [[Visible Learning Meta-X]] | Fact (Program) | 支撑整个 Visible Learning 商业与学术体系的底层[[Meta-meta-analysis\|二阶元分析]]数据库（收录 2,100+ 项[[Meta-analysis\|元分析]]）。 |
 > | [[Cognition Education]] | Fact (Organization) | 早期负责 VLplus 全球教师培训、商标持有与商业运营的核心[[Educational Management Organisation\|教育管理组织]]（EMO）。 |
-> | [[Tomorrow's Schools Reforms]] | Fact (Policy) | 为新西兰教育服务外包与知识商业化提供制度温床的 1989 年宏观教育改革。 |
-> | [[Assessment Tools for Teaching and Learning]] | Instrument | Hattie 主持开发的新西兰国家[[Formative Assessment\|形成性评估]]工具，构成 VL 的技术原型与商业化试验案例。 |
 > | [[Education Endowment Foundation]] | Fact (Organization) | 资助 [[Visible Classroom]] 试点并将其实证研究纳入循证工具包的英国权威机构。 |
 > | [[Australian Institute for Teaching and School Leadership]] | Fact (Organization) | Hattie 曾任主席并将可见学习指标全面嵌入国家教师与校长专业标准的国家机构。 |
+> | [[Tomorrow's Schools Reforms]] | Fact (Policy) | 为新西兰教育服务外包与知识商业化提供制度温床的 1989 年宏观教育改革。 |
 > | [[Victorian HITS and Literacy Toolkit]] | Fact (Policy) | 澳大利亚维多利亚州全面采纳并制度化 VL 循证证据的官方教学策略政策。 |
-> | [[Learning Intentions]] | Concept | 可见学习商业培训包中被重点标准化的核心教学概念，后在维州沦为白板打卡指标。 |
 > | [[Hattie på dansk]] | Fact (Event) | 汇集丹麦学者批判公立学校法案机械照搬 VL 的标志性论争事件与文集。 |
 > | [[Visible Learning in Sweden]] | Fact (Event) | 记录瑞典学校法“科学基础”要求下 VL 转向课堂改进工作流程的实践历程。 |
 > | [[Russian Translation of Visible Learning]] | Fact (Event) | 记录 VL 俄文版翻译出版及俄罗斯学界关于跨文化适用性与方法论的学术争论。 |
-> | [[Critiques of Visible Learning]] | Concept | 汇总学界对 VL 统计方法、[[Neo-Taylorism\|新泰勒主义]]与商业化利益冲突的系统性学术批判入口。 |
 
 ---
 
