@@ -34,47 +34,51 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Open-Mindedness]]"
   - "[[Alienation]]"
+  - "[[Formative Assessment]]"
+  - "[[Higher-Order Thinking Skills]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"
+  - "[[Olaf Köller]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Hattie_2005_ACER]]"
   - "[[Argument_Knudsen_2017_NordSTEP]]"
+  - "[[Argument_Koller_2014_WhatWorks]]"
 confidence: high
 status: active
 created: 2026-09-16
-updated: 2026-11-15
+updated: 2026-11-24
 ---
 
 ---
 
 > [!def] Success Criteria
-> 成功标准（Success Criteria，又称达成标准或表现成功标准）指伴随 [[Learning Intentions\|学习意图]] 向学生明确呈现的具体质性证据特征、逻辑构成要素与进阶评估阶梯。它界定了“学生做到何种程度即可被视为达成目标”，为学生在学习过程中开展自我调节、[[Peer Assessment|同伴互评]]以及教师提供针对性反馈提供清晰的[[Operationalization\|操作化]]证据参照（Clarke, Timperley, & Hattie, 2003；[[Argument_Hattie_2005_ACER\|Hattie, 2005, p. 17]]）。
+> 成功标准（Success Criteria，又称达成标准或表现成功标准）指伴随 [[Learning Intentions|学习意图]] 向学生明确呈现的具体质性证据特征、逻辑构成要素与进阶评估阶梯。它界定了“学生做到何种程度即可被视为达成目标”，为学生在学习过程中开展自我调节、[[Peer Assessment|同伴互评]]以及教师提供针对性反馈提供清晰的[[Operationalization|操作化]]证据参照（Clarke, Timperley, & Hattie, 2003；[[Argument_Hattie_2005_ACER|Hattie, 2005, p. 17]]）。
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 将抽象的认知理解转化为学生可观察、可对比、可检验的质性表现指标与阶段里程碑。
-> - **用途** 帮助学生理解优秀的实质构成，使评价标准从教师掌控的“不可言说的黑箱”转变为师生共享的“透明导航仪”。
-> - **边界** 成功标准是引导学生聚焦深层因果机制与解释质量的质性阶梯，不应简化为机械的[[Rote Learning\|死记硬背]]清单（Checklist）。
+> - **用途** 帮助学生理解优秀的实质构成，使评价标准从教师掌控的不可言说的隐性要求转变为师生共享的透明导航仪。
+> - **边界** 成功标准是引导学生聚焦深层因果机制与解释质量的质性阶梯，不应简化为机械的[[Rote Learning|死记硬背]]清单（Checklist）。
 
 > [!citation-card] 成功标准的阶段分层与因果证据
-> 成功标准不仅需要明确终期目标，更应呈现阶段性进阶阶梯。在毛利历史单元中，第 3 周标准要求描述人口变迁趋势，而单元终期标准则要求解释殖民疾病冲击并外推到其他原住民群体，使学生清晰看见认知的深化过程。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, p. 17)]]
+> 成功标准不仅需要明确终期目标，更应呈现阶段性进阶阶梯。在毛利历史单元中，第 3 周标准要求描述人口变迁趋势，而单元终期标准则要求解释殖民疾病冲击并外推到其他原住民群体，使学生清晰看见认知的深化过程。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 17)]]
 >
 > *Success criteria provide the concrete indicators of learning... Progression across the unit (such as criteria at week 3 versus end-of-unit criteria) allows students to monitor their developing mastery.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Learning Intentions\|学习意图]]：学习意图界定“学什么（What is being learned）”；成功标准界定“何为学好的证据（What success looks like）”。
+> - 不等于 [[Learning Intentions|学习意图]]：学习意图界定“学什么（What is being learned）”；成功标准界定“何为学好的证据（What success looks like）”。
 > - 不等于 终结性[[Scoring Rubrics|评分量规]]（Summative Rubrics）：评分量规常用于期末定级与甄别；成功标准侧重于过程中的形成性自评、互评与教学微调。
 > - 不等于 表面格式规范：成功标准聚焦于逻辑严密性、证据相关性与解释深度，而非页面整洁或字数要求。
 
 ---
 
-> [!contrast-table] 成功标准与传统[[Scoring Rubrics|评分量规]]辨析
+> [!contrast-table|notitle] 成功标准与传统评分量规辨析
 > | 维度 | 成功标准（Success Criteria） | 终结性评分量规（Summative Rubrics） | 表层任务清单（Task Checklist） |
 > |---|---|---|---|
-> | **首要功能** | 过程导航、自我调节与形成性[[Dialogue in Education\|对话]] | 事后定级、评定分数与外部问责 | 检查操作步骤是否遗漏 |
+> | **首要功能** | 过程导航、自我调节与形成性[[Dialogue in Education|对话]] | 事后定级、评定分数与外部问责 | 检查操作步骤是否遗漏 |
 > | **呈现时机** | 学习活动开展前及全过程持续伴随 | 通常在任务交卷或批改时出具 | 任务执行阶段 |
 > | **结构特征** | 伴随时间进阶的分层里程碑与质性证据 | 多等级（如优秀/良好/及格）打分矩阵 | 行为动作是否完成的二元勾选 |
 > | **学生能动性** | 主动用于自我诊断与同伴修改 | 被动接受教师裁判与等级结果 | 机械对照核对格式 |
@@ -82,57 +86,74 @@ updated: 2026-11-15
 ---
 
 > [!feature] 成功标准的核心构成要素
-> - **阶段性进阶梯级（Progressive Milestones）** 针对长周期复杂单元，设立中间节点（如第 3 周过程标准）与终期目标标准，帮助学生建立循序渐进的掌握路径。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, p. 17)]]
-> - **质性证据显性化（Observable Evidence of Understanding）** 清晰列出高水平理解所必须包含的核心[[Chain of Evidence\|证据链]]条与因果机制。
+> - **阶段性进阶梯级（Progressive Milestones）** 针对长周期复杂单元，设立中间节点（如第 3 周过程标准）与终期目标标准，帮助学生建立循序渐进的掌握路径。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 17)]]
+> - **质性证据显性化（Observable Evidence of Understanding）** 清晰列出高水平理解所必须包含的核心[[Chain of Evidence|证据链]]条与因果机制。
 > - **去模糊化共同语言（De-mystified Shared Language）** 摒弃“有深刻见解”、“条理清晰”等主观模糊词汇，采用具体的操作性行为与逻辑描述。
-> - **支持自我与同伴调节（[[Scaffolding]] [[Self-control\|self-regulation]]）** 使学生在无教师干预时，能够独立比对草稿与标准，自主发现缺漏并实施修订。
+> - **支持自我与同伴调节（Scaffolding self-regulation）** 使学生在无教师干预时，能够独立比对草稿与标准，自主发现缺漏并实施修订。
 
 > [!dimension] 成功标准的阶段分层架构（Clarke et al., 2003；Hattie, 2005）
 > - **初阶过程标准（Process / Mid-point Criteria）** 聚焦基础事实梳理、趋势描述与核心概念准确再现（如正确识别历史人口变迁曲线）。
-> - **高阶终期标准（End-of-unit Transfer Criteria）** 聚焦多[[Variable\|变量]]因果机制解释、证据整合与情境拓展外推（如推导殖民病原体对其他土著人群的冲击）。
+> - **高阶终期标准（End-of-unit Transfer Criteria）** 聚焦多[[Variable|变量]]因果机制解释、证据整合与情境拓展外推（如推导殖民病原体对其他土著人群的冲击）。
 > - **综合评估任务（Integrated Assessment Task）** 要求将孤立事实编织为严密的因果论证逻辑段落。
 
 ---
 
 > [!example] 毛利历史单元成功标准的分层架构（Clarke, Timperley, & Hattie, 2003；Hattie, 2005）
-> - **单元[[Learning Intentions\|学习意图]]** 理解形塑特定人群生存历史的关键事件的原因与后果。
+> - **单元[[Learning Intentions|学习意图]]** 理解形塑特定人群生存历史的关键事件的原因与后果。
 > - **第 3 周阶段成功标准（Week 3 Criteria）**
 >   - 学生能够清晰且准确地描述 1820 年至 1920 年间毛利人口数量的纵向变迁趋势。
 > - **单元终期成功标准（End of Unit Criteria）**
 >   - 学生能够深入解释 20 世纪初英国殖民对毛利人健康状况的具体冲击，阐明其如何决定性地导致毛利人口暴跌；
 >   - 学生能够基于该因果机制，推导并预测外来殖民对其他原住民群体健康的潜在影响。
 > - **核心评估达成方式（Assessment Task）**
->   - 撰写一段结构严密的因果论证，必须完整咬合三项证据：(1) 英国外来疾病的传入；(2) 毛利人口的急剧衰减；(3) 既往免疫空白导致新型病原体发挥决定性致死作用。（Clarke et al., 2003; [[Argument_Hattie_2005_ACER\|Hattie, 2005, p. 17]]）
+>   - 撰写一段结构严密的因果论证，必须完整咬合三项证据：(1) 英国外来疾病的传入；(2) 毛利人口的急剧衰减；(3) 既往免疫空白导致新型病原体发挥决定性致死作用。（Clarke et al., 2003; [[Argument_Hattie_2005_ACER|Hattie, 2005, p. 17]]）
 
 ---
 
 > [!concept-proposition] 命题一｜阶梯式分层成功标准能够将长周期认知任务转化为可见的自我调节支架
-> **[[Scaffolding\|认知支架]]与自我监控机制** 探讨阶段性成功标准如何降低认知负荷，支持学生在复杂学习中保持持续的方向感与自我校准。
+> **[[Scaffolding|认知支架]]与自我监控机制** 探讨阶段性成功标准如何降低认知负荷，支持学生在复杂学习中保持持续的方向感与自我校准。
 
 > [!claim] Clarke, Timperley, & Hattie (2003)
-> **拆解进阶阶梯以赋能自我调节** 在面对复杂的长周期高阶认知任务时，单一的终期目标容易引发学生的认知超载与挫败感；通过设立清晰的阶段性成功标准（如从中期趋势描述到终期因果解释），学生能够直观感知自身在 [[Learning Progression\|学业进阶]] 轨迹上的确切位置，从而依托标准开展精准的自我监控与策略修正。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, p. 17)]]
+> **拆解进阶阶梯以促进自我调节** 在面对复杂的长周期高阶认知任务时，单一的终期目标容易引发学生的认知超载与挫败感；通过设立清晰的阶段性成功标准（如从中期趋势描述到终期因果解释），学生能够直观感知自身在 [[Learning Progression|学业进阶]] 轨迹上的确切位置，从而依托标准开展精准的自我监控与策略修正。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 17)]]
 
 ---
 
 > [!concept-proposition] 命题二｜聚焦因果[[Chain of Evidence|证据链]]的成功标准能够有效引导高阶概念整合并抑制表层记忆
 > **评价标准对深度学习的牵引效应** 阐明成功标准如何通过明确证据要求，引导学生从孤立事实记忆走向系统因果论证。
 
-> [!claim] [[Argument_Hattie_2005_ACER\|Hattie (2005)]]
-> **因果逻辑导向的评价牵引** 当成功标准明确要求学生整合“诱发因素、中间传导与终极结果”的完整因果链条时，标准的导向作用将彻底阻断学生单纯堆砌孤立史实或概念名词的表层应试惯性，强力牵引学生主动建立知识要素之间的深层结构关联。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, p. 17)]]
+> [!claim] [[Argument_Hattie_2005_ACER|Hattie (2005)]]
+> **因果逻辑导向的评价牵引** 当成功标准明确要求学生整合“诱发因素、中间传导与终极结果”的完整因果链条时，标准的导向作用将彻底阻断学生单纯堆砌孤立史实或概念名词的表层应试惯性，强力牵引学生主动建立知识要素之间的深层结构关联。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 17)]]
 
 ---
 
-> [!contrast-table] 围绕成功标准的核心命题归纳
-> | 命题维度 | 核心理论观点 | 教学实践指向 | 代表[[Document\|文献]] |
+> [!concept-proposition] 命题三｜成功标准是确立预期产出与落实循证教学改进规程的首要锚点
+> **教学目标与评价匹配的起点功能** 探讨在以学生为中心的教学质量改进中，清晰界定成功标准如何作为逆向设计与精准评价的基准。
+
+> [!claim] Köller
+> **循证教学改进规程的目标锚定** 德语区实证教育研究审读指出，学校教学改进必须建立在以学生为中心的循证行动链条之上，而该链条的第一步即是在教学单元伊始清晰界定学习目标与具体的成功标准（Hattie, 2012）。明确的成功标准不仅使预期的学业成果对学生透明可见，更为后续终结性核验的设计、形成性前测诊断以及增值测量确立了客观锚点，避免教学滑入缺乏评价对齐的盲目活动。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, p. 35)]]
+
+---
+
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **阶梯式自我调节支架** | 分阶段成功标准能将长周期任务转化为可见的进阶台阶，支持学生自主监控 | 在单元设计中区分中间过程标准与终期达标标准 | Clarke, Timperley, & Hattie (2003) |
-> | **深层因果证据牵引** | 明确因果[[Chain of Evidence\|证据链]]要求的标准能抑制机械记忆，牵引高阶整合思维 | 将评分与评估关注点聚焦于因果论证的逻辑严密性 | [[Argument_Hattie_2005_ACER\|Hattie (2005)]]；Sadler (1989) |
+> | **深层因果证据牵引** | 明确因果证据链要求的标准能抑制机械记忆，牵引高阶整合思维 | 将评分与评估关注点聚焦于因果论证的逻辑严密性 | [[Argument_Hattie_2005_ACER\|Hattie (2005)]]；Sadler (1989) |
+> | **循证改进目标锚点** | 单元伊始界定成功标准为终结核验、前测诊断与增值测量确立客观基准 | 落实以学生为中心的循证教学改进规程与课程逆向设计 | [[Argument_Koller_2014_WhatWorks\|Köller (2014, p. 35)]]；Hattie (2012) |
+
+---
+
+> [!dev-timeline] 概念演变
+> - **1980 年代 — 形成性评价萌芽与目标显性化** 针对传统课堂评价标准模糊、学生处于被动猜测教师意图的弊端，学者提出在教学前出示具体表现标准以促进学生自我评估与同伴反思。
+> - **2003–2005 年 — 阶梯式进阶架构确立与 asTTle 工具整合** Clarke, Timperley 与 Hattie 将成功标准操作化为贯穿单元始终的分层进阶阶梯，并系统整合入新西兰 [[Assessment Tools for Teaching and Learning|asTTle]] 形成性诊断评价平台。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 17)]]
+> - **2014 年 — 德语区实证审读与循证教学改进首要规程确立** [[Olaf Köller|奥拉夫·克勒]]在审读可见学习时，将单元伊始界定预期学习成果与成功标准确立为以学生为中心循证教学改进六步规程的首要环节。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, p. 35)]]
+> - **2017 年 — 大周期卓越范式反思与深层认知整合** [[John Hattie|哈蒂]]反思指出实践中原子化学习意图容易流于形式，主张以 10 至 12 周大周期成功标准呈现优秀作品范式，整体引领表层知识向深层概念与迁移拓展。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 256–257)]]
 
 ---
 
 > [!debates] 学术争议
 >
-> > [!axis] 精细化标准指引 vs 限制[[Creativity\|创造性]]发散
+> > [!axis] 精细化标准指引 vs 限制[[Creativity|创造性]]发散
 > >
 > > - **标准化促进论** 认为标准越具体透明，弱势学生的学业差距缩小越明显，能最大限度消除隐性特权与认知模糊。
 > > - **过度规范批判论** 担忧过于微观具体的成功标准会将[[Open-Mindedness|开放性]]探究矮化为机械照方抓药，削弱学生突破既定框架的探索精神与独创性。
@@ -141,6 +162,11 @@ updated: 2026-11-15
 > >
 > > - **原子化目标弊端** 实践中[[Learning Intentions|学习意图]]常被[[Alienation|异化]]为孤立、碎片化且低阶的技术清单，容易挫伤学生的求知好奇心。
 > > - **大周期卓越指引** [[John Hattie|哈蒂]]反思指出若重新设计评价体系将优先使用成功标准，主张以 10 至 12 周为适宜评估周期，通过公开往届优秀范例（如 A 与 B 等级样本）向学生整体展现卓越的实质构成。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 256–257)]]
+
+> [!warning|limits] 适用局限
+> 成功标准的制定必须警惕原子化碎片清单的倾向；若将复杂的高阶思维与创造力矮化为微观琐碎的行为勾选项，容易扼杀学生的探究好奇心与智识冒险。此外，成功标准必须与高质量的形成性反馈及样例示范相结合，脱离具体教学对话的标准陈列无法自发转化为学生的自我调节能力。
+
+---
 
 > [!metax-divider]
 
@@ -157,9 +183,32 @@ updated: 2026-11-15
 > > | Lavery (2008b) | Setting standards for self-judgement | 156 | NA | 156 | 0.62 |  |
 > > | Marzano et al. (2001) | Cues/ brief overview of success | 7 | NA | 7 | 1.13 |  |
 
+> [!empirical-divider]
+
+> [!ma-table]- [[Meta-meta-analysis|二阶元分析]]总体结果
+> <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
+>
+> | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Hattie (2009 / MetaX 2023) | 0.64 | — | Cohen's $d$ / 二阶综合 | $M = 2$；$E = 163$；$k = 163$；$N = —$ | 干预因素：明晰成功标准对学业成就的二阶干预效应 | — | 纳入自我评价标准设定与成功概览两项元分析，效应达显著加速级别 |
+
 ---
 
-> [!evidence-grid-a] 相关研究索引
-> - **[[Argument_Hattie_2005_ACER|Hattie (2005)]]** 系统呈现毛利历史单元范例，论证分层成功标准与因果评估任务是消除课堂形式主义、达成可见学习的核心工具。
-> - **[[Argument_Knudsen_2017_NordSTEP|Knudsen (2017, pp. 256–257)]]** 记录[[John Hattie|哈蒂]]对原子化[[Learning Intentions|学习意图]]误用的反思，主张以 10 至 12 周大周期成功标准呈现优秀样例，融合表层与深层认知进阶。
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Learning Intentions]] | 概念 | 配对要素：学习意图界定学什么，成功标准界定达成目标的质性证据。 |
+> | [[Formative Assessment]] | 概念 | 实践体系：成功标准为形成性评价中的自评、互评与反馈提供操作化参照。 |
+> | [[Scoring Rubrics]] | 概念 | 工具对照：区别于终结性打分量规，成功标准侧重于学习过程中的自我监控与进阶指引。 |
+> | [[Peer Assessment]] | 概念 | 实施载体：向学生公开并解析成功标准，是展开高质量同伴互评的前提基础。 |
+> | [[Higher-Order Thinking Skills]] | 概念 | 评价导向：因果证据链导向的成功标准能有效牵引高阶整合思维并抑制机械记忆。 |
+> | [[John Hattie]] | 人物 | 倡导将成功标准作为实现“可见的学习”与以学生为中心循证改进的关键学者。 |
+> | [[Olaf Köller]] | 人物 | 将清晰界定成功标准确立为以学生为中心循证教学改进规程首要步骤的德国实证学者。 |
 
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 系统呈现毛利历史单元范例，论证分层成功标准与因果评估任务是消除课堂形式主义、达成可见学习的核心工具。
+> - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017, pp. 256–257)]] — 记录[[John Hattie|哈蒂]]对原子化[[Learning Intentions|学习意图]]误用的反思，主张以 10 至 12 周大周期成功标准呈现优秀样例，融合表层与深层认知进阶。
+> - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 结合德语区实证教育研究审读可见学习，将制定预期成果与成功标准确立为以学生为中心循证教学改进规程的第一步（p. 35）。

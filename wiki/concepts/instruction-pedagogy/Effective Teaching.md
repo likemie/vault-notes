@@ -5,7 +5,7 @@ aliases:
 summary: "综合性教学质量概念，关注教师如何通过明确领导、清晰目标、反馈、学习导向气氛和适配学生前提来促进学习；亦在批判视角下聚焦技术清单与管理监视同关系型学习共同体建构之间的深刻张力。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 112
+related_count: 115
 related_level: 11
 related_stars: "💎💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -84,6 +84,7 @@ related_concepts:
 related_theories:
   - "[[Stability vs. Variability Dilemma]]"
   - "[[Popper's Three Worlds Theory]]"
+  - "[[Three Basic Dimensions of Teaching Quality]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Classroom Observation]]"
@@ -104,6 +105,7 @@ related_persons:
   - "[[Jürgen Baumert]]"
   - "[[Robert Slavin]]"
   - "[[Eric Hanushek]]"
+  - "[[Olaf Köller]]"
 related_facts:
   - "[[World Bank]]"
   - "[[Science Foundation Ireland]]"
@@ -132,10 +134,11 @@ related_arguments:
   - "[[Argument_Sarbiewska_2019_KiW]]"
   - "[[Argument_Abrami_2015_RER]]"
   - "[[Argument_Barrenechea_2023_JEC]]"
+  - "[[Argument_Koller_2014_WhatWorks]]"
 confidence: high
 status: active
 created: '2026-05-05'
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 ---
@@ -206,6 +209,9 @@ updated: 2026-11-23
 > [!claim] [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]]
 > **显性证据规则与支架介入确立有效教学基线** 对[[Epistemology|认识论]]教学干预的因果元分析量化证实了教师显性领导的不可替代性：明确向学生讲授证据确证规则并提供实验[[Variable|变量]]支架的[[Inquiry-Based Learning|指导式探究]]与[[Source Evaluation|信源评估]]模式，成效显著优于缺乏支架的自主[[Problem Solving|问题解决]]与开放辩论。这一结果从反面推翻了放任探究自发有效的假设，确立了教师提供结构化[[Scaffolding|脚手架]]、嵌入即时诊断反馈并开展短周期高浓度聚焦教学，是实现高品质有效教学的循证基准。[[Argument_Cartiff_2021_JEP|(Cartiff et al., 2021, pp. 485–486, 492)]]
 
+> [!claim] Köller
+> **教学质量三大基准维度的系统统整与以学生为中心的行动链条** 德语区实证教育研究审读表明，高成效教学策略在本质上系统对应课堂教学质量的三大基准维度（Baumert & Kunter, 2006）：其一为**有效课堂管理**（在任务时间保障、预防干扰、指令清晰与示范引导）；其二为**认知激活**（概念图、同伴辅导、互惠教学与结构化合作学习，深度引发高阶思维与复杂问题解决）；其三为**建设性支持**（指向实质内容的形成性反馈与温暖支持的师生关系，杜绝无意义的盲目忙碌）。学校教学改进必须建立在以学生为中心的循证行动链条之上，依托目标明晰、形成性评估与持续专业反思实现教学质量提升。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, pp. 35–36)]]
+
 ---
 
 > [!concept-proposition] 命题二｜开放教学与[[Structured Teaching|结构化教学]]的有效性受制于学生家庭社会经济背景的强力调节
@@ -267,6 +273,7 @@ updated: 2026-11-23
 > - **2009 年 — 可见学习[[Meta-analysis|元分析]]综合（[[Visible Learning]]）** [[John Hattie]] 出版《可见学习》，综合 800+ 项元分析，提出教师作为主动激活者（$d = 0.60$）远优于促进者（$d = 0.17$）的论断。[[Argument_Laursen_2015_Paideia|(Laursen, 2015, p. 35)]]
 > - **2011 年 — 欧陆教学论审视与[[Epistemology|认识论]]双重假说解构** [[Ewald Terhart|特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp. 427–437]]）从德语教学论与思想史视角系统审视有效教学的[[Meta-meta-analysis|二阶元分析]]金字塔，量化提炼激活者（$d = 0.60$）与促进者（$d = 0.17$）的实证分化，揭示其常识逼近与结论过时的认识论双重困境，并批评其抽空学科实质内容与教化正当性的形式化弊端。
 > - **2014 年 — 德语区可见学习接受与优质教学论争** [[Ewald Terhart|特哈特]]系统梳理德国对可见学习的接受史，辨析“优质教学”（guter Unterricht）从规范教学论向实证研究的过渡，指出教师效应源于认知激活与反馈而非人格神话，并揭示其 8%–21% 的有限方差边界。[[Argument_Terhart_2014_HolyGrail|(Terhart, 2014, pp. 9–14)]]
+> - **2014 年 — 德语区实证审读与三大基准维度统整** [[Olaf Köller|奥拉夫·克勒]]系统梳理可见学习中教师与教学变量，将高成效教学策略统整于教学质量三大基准维度（班级管理、认知激活、建设性支持），提出以学生为中心的循证教学改进规程。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, pp. 35–36)]]
 > - **2015 年 — 跨文化检验与社会背景调节深化** Per Fibæk Laursen 结合丹麦 [[Science Foundation Ireland|SFI]] 报告检验国际综合，揭示有效教学质量的跨文化普适性及学生社会背景对开放教学效果的深度调节。[[Argument_Laursen_2015_Paideia|(Laursen, 2015, pp. 38–40)]]
 > - **2019 年 — 跨国观察规程与社会情感整合（Teach 范式）** [[World Bank|世界银行]]发布 Teach [[Classroom Observation|课堂观察]]框架，针对低收入与中等收入国家确立了有效教学四维测量架构（在任务时间、课堂文化、教学指导、社会情感技能），推动有效教学评估从高收入国家传统工具向全球普适性田野规程拓展。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019)]]
 > - **2019 年至今 — 循证改革批判与具体方案转向** [[Robert Slavin]] 系统指出抽象通用原则的实践失效，倡导将有效教学内嵌于达到 [[Every Student Succeeds Act|ESSA]] 强[[Evidence Standards|证据标准]]的成套课程与干预产品中。[[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, pp. 22–23)]]
@@ -417,11 +424,13 @@ updated: 2026-11-23
 
 > [!entry-map] 条目关联
 >
-> | 条目 | 类型 | 关联说明 |
+> | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
+> | [[Three Basic Dimensions of Teaching Quality]] | 理论 | 德语区实证教育研究中统整班级管理、认知激活与建设性支持的系统教学质量框架。 |
 > | [[Peer-Supported Learning]] | 概念 | 关怀互信的教研室同伴文化构成了教师维系有效教学不可或缺的专业心理安全土壤。 |
 > | [[Performance Pay]] | 概念 | 绩效工资诱发的零和博弈与经验隐匿，构成破坏有效教学专业信任环境的主要政策威胁。 |
 > | [[John Dewey]] | 人物 | 确立有效教学证据仅作为解决问题的探究假设而非行动规程的[[Pragmatic Paradigm\|实用主义]][[Epistemology\|认识论]]。 |
+> | [[Olaf Köller]] | 人物 | 审读可见学习并将有效教学策略系统统整于教学质量三大基准维度的德国实证学者。 |
 > | [[Picking Up the Pace]] | 事实 | 揭示有效教学创新技术必须依托小[[Class Size\|班额]]（15人）物理空间与高强度师资培训才能产生实效。 |
 > | [[The Scott Report]] | 事实 | 新西兰议会调查报告揭示量化界定教师教学效能的复杂性，警告盲目推行绩效工资的系统风险。 |
 > | [[Individualised Instruction]] | 概念 | 有效教学中根据学情差异动态调整支架深度的微观组织维度。 |
@@ -435,6 +444,7 @@ updated: 2026-11-23
 > - [[Argument_Slavin_2019_EducPsychol|Slavin (2019)]] — 从循证改革与实施科学视角，批判抽象有效教学原则的实践困境，论证具体结构化方案对课堂质量提升的决定性支撑。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 从德语教学论视角审视有效教学[[Meta-meta-analysis|二阶元分析]]，量化激活者（$d = 0.60$）与促进者（$d = 0.17$）实证分化，批判其抽空学科实质内容与[[Bildung|精神教化]]维度的形式化弊端（pp. 425–438）。
 > - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 评析可见的学习对德语区优质教学规范传统的冲击与重构，界定教师效应的胜任力机制与方差边界。
+> - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 结合德语区实证教育研究审读可见学习，将高成效教学策略系统统整于教学质量三大基准维度（班级管理、认知激活、建设性支持），提出以学生为中心的循证教学改进规程（pp. 35–36）。
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 实证检验[[Direct Instruction|显性直接教学]]与情境探究融合对培养高阶[[Critical Thinking|批判性思维]]的最优效能。
 > - [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] — 开展[[Epistemology|认识论]]干预[[Meta-analysis|元分析]]，实证确立[[Inquiry-Based Learning|指导式探究]]与[[Source Evaluation|信源评估]]的机制优势、短周期高浓度教学特征与[[Formative Assessment|形成性评价]]反馈对[[Academic Achievement|学业成就]]的因果促进作用，提炼出有效教学的循证关键支柱。
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 确立全球基础教育有效教学四维架构（在任务时间、课堂文化、教学指导、社会情感技能），提供跨国大样本[[Classroom Observation|课堂观察]]测量基准。

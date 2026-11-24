@@ -9299,6 +9299,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md",
         "wiki/concepts/competency-and-assessment/Problem Solving.md",
+        "wiki/concepts/instruction-pedagogy/Effective Teaching.md",
         "wiki/theories/instruction-pedagogy/Three Basic Dimensions of Teaching Quality.md"
       ],
       "title": "Stichwort: Professionelle Kompetenz von Lehrkräften"
@@ -12648,6 +12649,14 @@
         "wiki/methods/qualitative/Non-participant Observation.md"
       ],
       "title": ""
+    },
+    "Bleiklie et al., 2015": {
+      "doi": "https://doi.org/10.1177/0170840615571960",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md"
+      ],
+      "title": "Organizations as penetrated hierarchies: Environmental pressures and control in professional organizations"
     },
     "Bleses, 2020": {
       "datasets": [
@@ -16420,6 +16429,14 @@
       "seen_in": [],
       "title": "The relationship between the Early Childhood Environment Rating Scale and its revised form and child outcomes: A systematic review and meta-analysis"
     },
+    "Brunsson & Sahlin-Andersson, 2000": {
+      "doi": "https://doi.org/10.1177/0170840600214003",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md"
+      ],
+      "title": "Constructing organizations: The example of public sector reform"
+    },
     "Brunstein, 2011": {
       "datasets": [
         "eef:metacognition-and-self-regulation"
@@ -18942,6 +18959,14 @@
         "wiki/arguments/journal-articles/Politics/Argument_VanDerHeijden_2011_Politics.md"
       ],
       "title": ""
+    },
+    "Capano, 2011": {
+      "doi": "https://doi.org/10.1111/j.1467-9299.2011.01962.x",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md"
+      ],
+      "title": "Government continues to do its job. A comparative study of governance shifts in the higher education sector"
     },
     "Capar & Tarim, 2015": {
       "datasets": [
@@ -22287,6 +22312,20 @@
       ],
       "title": "The dual influences of proximity on knowledge sharing"
     },
+    "Christensen et al., 2019": {
+      "doi": "https://doi.org/10.1007/978-3-030-05574-5",
+      "isbn": "9783030055738",
+      "seen_in": [],
+      "title": "Universities as agencies: Reputation and professionalization"
+    },
+    "Christensen, 2012": {
+      "doi": "https://doi.org/10.1177/0275074011424806",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md"
+      ],
+      "title": "Global ideas and modern public sector reforms: A theoretical elaboration and empirical discussion of neoinstitutional theory"
+    },
     "Christensen, 2022": {
       "datasets": [
         "metax:S2386"
@@ -23577,6 +23616,14 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16.md"
       ],
       "title": ""
+    },
+    "Cohen et al., 1972": {
+      "doi": "https://doi.org/10.2307/2392088",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md"
+      ],
+      "title": "A garbage can model of organizational choice"
     },
     "Cohen et al., 1981": {
       "datasets": [
@@ -33577,6 +33624,14 @@
         "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch02.md"
       ],
       "title": ""
+    },
+    "Elken et al., 2018": {
+      "doi": "https://doi.org/10.1007/s10734-018-0263-z",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md"
+      ],
+      "title": "The painters behind the profile: The rise and functioning of communication departments in universities"
     },
     "Elledge, 2013": {
       "datasets": [
@@ -44158,6 +44213,30 @@
         "wiki/theories/educational-policy-reform/Three Lenses of Evidence-Based Policy.md"
       ],
       "title": ""
+    },
+    "Gornitzka & Larsen, 2004": {
+      "doi": "https://doi.org/10.1023/B:HIGH.0000020870.66211.8d",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md"
+      ],
+      "title": "Towards professionalization? Restructuring of administrative work force in universities"
+    },
+    "Gornitzka & Maassen, 2017": {
+      "doi": "https://doi.org/10.1111/hequ.12134",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md"
+      ],
+      "title": "European Flagship universities: Autonomy and change"
+    },
+    "Gornitzka et al., 2017": {
+      "doi": "https://doi.org/10.1111/hequ.12127",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md"
+      ],
+      "title": "Change in university governance structures in continental Europe"
     },
     "Gornitzka, 2010": {
       "doi": "",
@@ -59386,14 +59465,6 @@
       ],
       "title": ""
     },
-    "Karl Weick, 1976": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md"
-      ],
-      "title": ""
-    },
     "Karmel et al., 1973": {
       "doi": "",
       "isbn": "",
@@ -63686,6 +63757,14 @@
       "seen_in": [],
       "title": "The Effect of School Culture on Student Achievement"
     },
+    "Kraatz & Block, 2008": {
+      "doi": "",
+      "isbn": "9781412931236",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md"
+      ],
+      "title": "Organizational implications of institutional pluralism"
+    },
     "Kraemer & Blasey, 2016": {
       "doi": "",
       "isbn": "",
@@ -64236,12 +64315,13 @@
     },
     "Krücken & Meier, 2006": {
       "doi": "",
-      "isbn": "",
+      "isbn": "9780199275144",
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Zapp_2022_Springer.md",
+        "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md",
         "wiki/concepts/sociology-of-education/Organizational Actorhood.md"
       ],
-      "title": ""
+      "title": "Turning the university into an organizational actor"
     },
     "Krüger & Konrad, 2022": {
       "doi": "",
@@ -72313,6 +72393,22 @@
         "wiki/concepts/comparative-education/Technologies of Exclusion.md"
       ],
       "title": ""
+    },
+    "Maassen et al., 2017": {
+      "doi": "https://doi.org/10.1111/hequ.12129",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md"
+      ],
+      "title": "University reform and institutional autonomy: A framework for analysing the living autonomy"
+    },
+    "Maassen, 2017": {
+      "doi": "https://doi.org/10.1111/hequ.12126",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md"
+      ],
+      "title": "The university's governance paradox"
     },
     "Mabe & West, 1982": {
       "datasets": [
@@ -86340,12 +86436,12 @@
       "title": "The Effect of Video Games on Cognition and Behavior: A Meta-analysis and Pilot Study"
     },
     "Orton & Weick, 1990": {
-      "doi": "",
+      "doi": "https://doi.org/10.5465/amr.1990.4308154",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md"
       ],
-      "title": ""
+      "title": "Loosely coupled systems: A reconceptualization"
     },
     "Orwell, 1936": {
       "doi": "",
@@ -93294,12 +93390,13 @@
     },
     "Ramirez, 2006": {
       "doi": "",
-      "isbn": "",
+      "isbn": "9780521864138",
       "seen_in": [
+        "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md",
         "wiki/concepts/higher-education/University Social Responsibility.md",
         "wiki/concepts/sociology-of-education/Organizational Actorhood.md"
       ],
-      "title": ""
+      "title": "The rationalization of the university"
     },
     "Ramirez, 2013": {
       "doi": "",
@@ -102658,6 +102755,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Maths Counts  Evaluation report and executive summary"
+    },
+    "Seeber et al., 2015": {
+      "doi": "https://doi.org/10.1080/14719037.2014.943268",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md"
+      ],
+      "title": "European Universities as complete organizations? Understanding identity, hierarchy and rationality in public organizations"
     },
     "Seedhouse, 1998a": {
       "doi": "",
@@ -112376,6 +112481,12 @@
       ],
       "title": ""
     },
+    "Teelken, 2015": {
+      "doi": "https://doi.org/10.1111/padm.12140",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Hybridity, coping mechanisms, and academic performance management: Comparing three countries"
+    },
     "Teepe, 2019": {
       "datasets": [
         "eef:parental-engagement",
@@ -114965,7 +115076,8 @@
       "doi": "https://doi.org/10.1023/A:1026040401438",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md",
+        "wiki/concepts/instruction-pedagogy/Homework.md"
       ],
       "title": "The Relationship Between Homework and Achievement - Still Much of a Mystery"
     },
@@ -114973,7 +115085,8 @@
       "doi": "https://doi.org/10.1006/ceps.2001.1084",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md",
+        "wiki/concepts/instruction-pedagogy/Homework.md"
       ],
       "title": "Do Homework Assignments Enhance Achievement? A Multilevel Analysis in 7th-Grade Mathematics"
     },
@@ -116958,6 +117071,14 @@
         "wiki/concepts/instruction-pedagogy/Hybrid Pedagogy.md"
       ],
       "title": "Interactional Patterns in Singapore’s English Classrooms"
+    },
+    "Vakkuri, 2010": {
+      "doi": "https://doi.org/10.1111/j.1467-9299.2010.01859.x",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md"
+      ],
+      "title": "Struggling with ambiguity: Public managers as users of NPM-oriented management instruments"
     },
     "Vaknin-Nusbaum, 2017": {
       "datasets": [
@@ -120421,6 +120542,14 @@
       ],
       "title": ""
     },
+    "Weick, 1976": {
+      "doi": "https://doi.org/10.2307/2391875",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md"
+      ],
+      "title": "Educational organizations as loosely coupled systems"
+    },
     "Weidner, 1993": {
       "datasets": [
         "eef:arts-participation"
@@ -121108,6 +121237,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "School counseling outcome: A meta-analytic examination of interventions."
+    },
+    "Whitchurch, 2008": {
+      "doi": "https://doi.org/10.1111/j.1468-2273.2008.00387.x",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md"
+      ],
+      "title": "Shifting identities and blurring boundaries: The emergence of Third Space professionals in UK higher education"
     },
     "White & Casto, 1985": {
       "datasets": [
