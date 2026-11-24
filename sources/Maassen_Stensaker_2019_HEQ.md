@@ -1,6 +1,7 @@
 ---
 citation: "Maassen, P., & Stensaker, B. (2019). From organised anarchy to de‐coupled bureaucracy: The transformation of university organisation. Higher Education Quarterly, 73(4), 456–468. https://doi.org/10.1111/hequ.12229"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Maassen_Stensaker_2019_HEQ]]"
 processed_date: 2026-11-24
 ---
 

@@ -6,7 +6,7 @@ summary: "比较不同干预或变量影响强度的标准化统计指标，被�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 93
+method_related_count: 99
 method_related_level: 9
 method_related_stars: "💎💎💎"
 method_related_color: "#dcfce7"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Zone of Desired Effects]]"
   - "[[Heterogeneity]]"
   - "[[Homework]]"
+  - "[[Class Size]]"
   - "[[Paradigm]]"
   - "[[Positivism]]"
   - "[[Metascience]]"
@@ -44,7 +45,6 @@ related_concepts:
   - "[[Effective Sample Size]]"
   - "[[Developer-Made Measures]]"
   - "[[Publication Bias]]"
-  - "[[Class Size]]"
   - "[[Public Value]]"
   - "[[External Validity]]"
   - "[[Professional Learning Community]]"
@@ -54,8 +54,11 @@ related_concepts:
   - "[[Achievement and Aptitude Tests]]"
   - "[[Discourse]]"
   - "[[Critique of Effect Size]]"
+  - "[[Direct Instruction]]"
+  - "[[Co-regulated Learning]]"
   - "[[Developer Effect]]"
   - "[[Implementation Fidelity]]"
+  - "[[Teacher as Activator]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Cognitive Capitalism]]"
@@ -72,9 +75,10 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Inverse-Variance Weighting]]"
   - "[[Power Analysis]]"
+  - "[[Statistical Significance]]"
+  - "[[Cohort Study]]"
   - "[[Repeated Measures Design]]"
   - "[[Standard Error]]"
-  - "[[Statistical Significance]]"
   - "[[Effect Size Conversion]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Meta-regression]]"
@@ -85,8 +89,9 @@ related_persons:
   - "[[John Hattie]]"
   - "[[Jacob Cohen]]"
   - "[[Ivan Snook]]"
-  - "[[Adrian Simpson]]"
   - "[[Ewald Terhart]]"
+  - "[[Olaf Köller]]"
+  - "[[Adrian Simpson]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
@@ -95,7 +100,6 @@ related_facts:
   - "[[National Center for Education Evaluation and Regional Assistance]]"
 related_arguments:
   - "[[Argument_Higgins_2016_ROE]]"
-  - "[[Argument_Terhart_2014_HolyGrail]]"
   - "[[Argument_Wrigley_2019_ERE]]"
   - "[[Argument_Qvortrup_2015_Paideia]]"
   - "[[Argument_Wolf_2020_JREE]]"
@@ -107,6 +111,8 @@ related_arguments:
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Hattie_2005_ACER]]"
   - "[[Argument_Snook_2009_NZJES]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
+  - "[[Argument_Koller_2014_WhatWorks]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Kraft_2023_ER]]"
@@ -121,7 +127,7 @@ related_instruments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 ---
@@ -160,7 +166,8 @@ updated: 2026-11-23
 > - **1976** — [[Gene Glass]] 提出[[Meta-analysis|元分析]]概念，将标准化效应量确立为跨研究聚合的核心工具（[[Argument_Higgins_2016_ROE|Higgins, 2016, pp. 36–37]]）。
 > - **2005–2009** — [[John Hattie|约翰·哈蒂]]（[[John Hattie]]）在 [[Australian Council for Educational Research|ACER]] 会议与《[[Visible Learning|可见的学习]]》中，综合 800 余项元分析确立 $d = 0.40$ 为教学干预的“关节点（[[Zone of Desired Effects|Hinge Point]]）”，提出“零门槛谬误”，并依托[[Assessment Tools for Teaching and Learning|asTTle]]软件推动效应量在校本评价中的普及（[[Argument_Hattie_2005_ACER|Hattie, 2005]]；[[Argument_Terhart_2011_JCS|Terhart, 2011]]）。
 > - **2009** — [[Ivan Snook|斯努克]]等学者展开批判，援引低剂量阿司匹林试验（$d = 0.07$ 每千人净拯救 34 条生命）反证 $d = 0.40$ 截断值的武断性，揭示单一平均值掩盖微观亚组[[Heterogeneity|异质性]]（[[Homework|家庭作业]]小学 0.15 vs 高中 0.64）与小班化非线性突破门槛（STAR 试验 $d = 0.62–0.66$；[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）。
-> - **2014** — [[Ewald Terhart|特哈特]]（[[Argument_Terhart_2014_HolyGrail|Terhart, 2014, pp. 12–13]]）厘清统计显著性（偶然性检验）与效应量 $d$（标准差差距度量）的实践分野，借助科恩身高类比（$d = 1.0$ 相当于 160 cm 与 183 cm 的差距，将受试者均值位移至未受训者的第 84 百分位数）直观阐释正态分布位移，并指出在 95% 教育因素均呈正向效应的前提下，$d = 0.40$ 仅代表常规教学的自然基准而非终极法则。
+> - **2014** — [[Ewald Terhart|特哈特]]（[[Argument_Terhart_2014_HolyGrail|Terhart, 2014, pp. 12–13]]）厘清[[Statistical Significance|统计显著性]]（偶然性检验）与效应量 $d$（标准差差距度量）的实践分野，借助科恩身高类比（$d = 1.0$ 相当于 160 cm 与 183 cm 的差距，将受试者均值位移至未受训者的第 84 百分位数）直观阐释正态分布位移，并指出在 95% 教育因素均呈正向效应的前提下，$d = 0.40$ 仅代表常规教学的自然基准而非终极法则。
+> - **2014** — [[Olaf Köller|奥拉夫·科勒]]（[[Argument_Koller_2014_WhatWorks|Köller, 2014, pp. 25, 28, 35]]）基于德语区[[Cohort Study|追踪研究]]指出，效应量解释必须参照初中常态学年成长基准（$d = 0.30 \sim 0.50$）；二阶综合中[[Class Size|班级规模]]等宏观结构干预效应（$d = 0.10 \sim 0.20$）远低于常态成长，而深层形成性反馈（$d = 0.73$）展现显著加速效应。
 > - **2014–2019** — [[EEF Teaching and Learning Toolkit]] 创立“额外学习月数”转换，英国 [[Education Endowment Foundation|EEF]] 确立效应量与[[EEF Padlock Security Rating|挂锁安全评级]]双轨呈现机制（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]]）；[[Adrian Simpson]]（2017, 2019）提出匈牙利单词思想实验，论证效应量测量的是试验灵敏度而非教学有效性；戈洛夫钦（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）检验《可见学习》133 项效应量数据集，证实全库变差系数超标（$V_\sigma = 56.87\% > 33\%$），击穿统计同质性前提。
 > - **2019** — 丹麦学者拉森（[[Argument_Larsen_2019_EducSci|Larsen, 2019]]）立足德意志教化传统与身体[[Phenomenology|现象学]]，深入解构可见学习[[Paradigm|范式]]将学习降维为即时效应量可见快照的[[Positivism|实证主义]]迷思，揭示其混淆认识论与存在论的范畴错误。
 > - **2023** — Kraft 建立基于 3,426 个教育 RCT 效应量的实证分布（中位数 0.10，36% 的效应量 $< 0.05$），提倡以因果评估经验基准与失败频率取代 Cohen 抽象法则（[[Argument_Kraft_2023_ER|Kraft, 2023]]）。
@@ -303,7 +310,8 @@ updated: 2026-11-23
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 厘清统计显著性与效应量 $d$ 的度量分野，借助科恩身高类比阐释正态分布位移，并指出 95% 教育因素呈正向效应的前提下 $d = 0.40$ 仅代表常规教学的自然基准（pp. 12–13）。
-> - [[Argument_Hogan_2013_ROE|Hogan et al. (2013)]] — 测度新加坡中三数学与英语课堂中四类教学策略之间的两两配对效应量（Cohen's $d = 0.03\sim 0.96$），实证揭示直接教学与共同调节学习之间高达 $d = 0.91\sim 0.96$ 的实施差距（pp. 95–96）。
+> - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 结合德语区实证教育研究审视二阶元分析效应量分布，确立初中全学年常态成长基准（$d = 0.30 \sim 0.50$），并据此对比表层结构与深层互动变量的实质促学效能（pp. 25, 28, 35）。
+> - [[Argument_Hogan_2013_ROE|Hogan et al. (2013)]] — 测度新加坡中三数学与英语课堂中四类教学策略之间的两两配对效应量（Cohen's $d = 0.03\sim 0.96$），实证揭示[[Direct Instruction|直接教学]]与[[Co-regulated Learning|共同调节学习]]之间高达 $d = 0.91\sim 0.96$ 的实施差距（pp. 95–96）。
 > - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 提倡将效应量直接作为学校与教师评估教学成效的通用工具，基于 100 余项[[Meta-analysis|元分析]]确立 $d=0.40$ 为判断干预增值的关节点基准，并揭示“零门槛谬误”。
 > - [[Argument_Kraft_2023_ER|Kraft (2023)]] — 基于 3,426 个教育 [[Randomised Controlled Trials|RCT]] 效应量构建经验分布，提出以实证分布与失败频率替代传统 Cohen 经验法则。
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 运用变差系数对 133 项效应量指标展开统计检验，证实二阶综合效应量极度离散（$V_\sigma = 56.87\%$），揭示未经同质性控制的宏观效应量排名无法作为普适性教育政策工具。
@@ -313,6 +321,6 @@ updated: 2026-11-23
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald and Nevill (2021)]] — 论述在大规模因果评估中确立标准化测验首要地位与排查[[Floor and Ceiling Effects|天花板效应]]的规程。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 审查[[Meta-meta-analysis|二阶元分析]]中效应量跨设计聚合的统计有效性，实证揭示混杂独立组与[[Repeated Measures Design|重复测量设计]]以及混并积极对照与空白对照对合并效应量的系统性扭曲。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 批判 $d=0.40$ 效应量截断值的武断性（阿司匹林反例），指出单一平均效应量掩盖微观亚组[[Heterogeneity|异质性]]（[[Homework|家庭作业]]小学 0.15 vs 高中 0.64）与非线性门槛效应（STAR 试验小班 $d=0.62–0.66$），并警示二阶综合缺乏底层质控的系统性风险。
-> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 提出效应量多级聚合的货币汇兑损耗比喻，对比六大领域效应量分布（教师 0.49 vs 学校 0.23）与激活者（0.60）vs 促进者（0.17），揭示宏观效应量排名的[[Epistemology|认识论]]困境（pp. 427–429, 432–437）。
+> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 提出效应量多级聚合的货币汇兑损耗比喻，对比六大领域效应量分布（教师 0.49 vs 学校 0.23）与[[Teacher as Activator|激活者]]（0.60）vs 促进者（0.17），揭示宏观效应量排名的[[Epistemology|认识论]]困境（pp. 427–429, 432–437）。
 > - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 运用受控数值模拟证实三类效应量公式对同一数据得出完全相反排名，揭示基线选取任意性与相关换算的数学失效。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 从德意志教化传统、身体[[Phenomenology|现象学]]与二阶控制论解构将教育降维为即时效应量可见快照的[[Positivism|实证主义]]迷思，揭示其背后的[[Category Mistake|范畴错误]]与资本主义指标规训。

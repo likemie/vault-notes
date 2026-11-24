@@ -6,7 +6,7 @@ summary: "通过汇总多项独立初级研究的效应量来综合定量证据�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 127
+method_related_count: 129
 method_related_level: 12
 method_related_stars: "💎💎💎💎"
 method_related_color: "#dcfce7"
@@ -60,22 +60,20 @@ related_concepts:
   - "[[Attitude Towards Content Domains]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Reliability]]"
+  - "[[Visible Learning]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Higher-Order Thinking Skills]]"
-  - "[[Problem Solving]]"
-  - "[[Critical Thinking]]"
-  - "[[Creativity]]"
-  - "[[Self-Regulated Learning]]"
   - "[[Collaborative Learning]]"
   - "[[Graphic Organizer]]"
   - "[[AI Agent in Education]]"
   - "[[Authentic Instruction]]"
   - "[[Mentorship]]"
+  - "[[Critical Thinking]]"
+  - "[[Creativity]]"
   - "[[Epistemic Cognition]]"
 related_theories:
   - "[[Punctuated Equilibrium Theory]]"
   - "[[Critical Realism]]"
-  - "[[Third Generation Activity Theory]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Inverse-Variance Weighting]]"
@@ -112,11 +110,14 @@ related_methods:
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Intercoder Agreement]]"
   - "[[Correlational Research]]"
+  - "[[Pilot Testing]]"
+  - "[[Questionnaire]]"
   - "[[Pre-test and Post-test]]"
 related_persons:
   - "[[Gene Glass]]"
   - "[[Karl Pearson]]"
   - "[[Ewald Terhart]]"
+  - "[[John Hattie]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
@@ -124,7 +125,6 @@ related_facts:
   - "[[What Works Clearinghouse]]"
 related_arguments:
   - "[[Argument_Higgins_2016_ROE]]"
-  - "[[Argument_Terhart_2014_HolyGrail]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Wrigley_2019_ERE]]"
@@ -144,8 +144,10 @@ related_arguments:
   - "[[Argument_Song_Choi_2026_FPSYG]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
   - "[[Argument_Terhart_2011_JCS]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Knogler_2025_BB]]"
+  - "[[Argument_Koller_2014_WhatWorks]]"
   - "[[Argument_Zhao_2025_JIntell]]"
   - "[[Argument_Cartiff_2021_JEP]]"
   - "[[Argument_Volmari_2025_CE]]"
@@ -155,7 +157,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 ---
@@ -350,7 +352,7 @@ updated: 2026-11-23
 
 > [!method-limits] 方法局限
 > 1. **可比性（“苹果与橙子”）** 干预定义、测量工具、比较组与情境差异过大时，平均[[Effect Size|效应量]]缺乏明确含义 (Eysenck, 1978; [[Argument_Higgins_2016_ROE|Higgins, 2016]]; [[Argument_Simpson_2017_JEdPolicy|Simpson, 2017]])。
-> 2. **输入质量（“垃圾进，垃圾出”）** 合并有偏的初级研究得到的是更精确的有偏估计 (Eysenck, 1978; Slavin, 1984; [[Argument_Berk_2011_EvalRev|Berk, 2011]])。[[Ewald Terhart|特哈特]]（[[Argument_Terhart_2014_HolyGrail|Terhart, 2014, p. 14]]）指出，缺乏严格方法学准入质控门槛时，控制严谨的干预实验与宽泛粗疏的问卷调查在计算中被一视同仁，导致底层证据库异质性失控。
+> 2. **输入质量（“垃圾进，垃圾出”）** 合并有偏的初级研究得到的是更精确的有偏估计 (Eysenck, 1978; Slavin, 1984; [[Argument_Berk_2011_EvalRev|Berk, 2011]])。[[Ewald Terhart|特哈特]]（[[Argument_Terhart_2014_HolyGrail|Terhart, 2014, p. 14]]）指出，缺乏严格方法学准入质控门槛时，控制严谨的干[[Pilot Testing|预实验]]与宽泛粗疏的[[Questionnaire|问卷调查]]在计算中被一视同仁，导致底层证据库异质性失控。
 > 3. **证据库偏倚** [[Publication Bias|发表偏倚]]、选择性报告与数据提取错误会系统扭曲合并结果 ([[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]; [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]])。
 > 4. **统计独立性** 同一研究的多个效应量相关，按独立处理会低估[[Standard Error|标准误]] (Cheung, 2014)。
 > 5. **平均效应掩盖[[Heterogeneity|异质性]]** 平均[[Effect Size|效应量]]不回答“对谁、在何种情境下有效”，Kluger and DeNisi (1996) 的反馈研究中约 38% 的效应为负 ([[Argument_Wiliam_2019_ERE|Wiliam, 2019]])。
@@ -398,21 +400,22 @@ updated: 2026-11-23
 
 ---
 
-> [!evidence-grid] 研究案例索引
-> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 审查哈蒂《可见的学习》所纳 800 余项元分析的年代构成与质控门槛，指出底层数据年代跨代滞后及缺乏准入质控导致证据库异质性失控的方法学缺陷（pp. 13–14）。
-> - [[Argument_Knogler_2025_BB|Knogler et al. (2025)]] — 剖析 Hillmayr et al. (2020) 针对中学数理教学数字化工具的元分析（$k = 92, g = 0.65$ [[Academic Achievement|学业成就]]，$g = 0.45$ 学科态度），详述清算中心如何以此类高因果[[Reliability|信度]]元分析为经验基底提炼结构化决策参数与六大工具分类，构建面向教师教育的循证中介转化[[Paradigm|范式]]。
-> - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 运用[[Random-Effects Model|随机效应模型]]综合 29 项实验与准[[Experimental Research|实验研究]]（59 个[[Effect Size|效应量]]），评估[[Generative Artificial Intelligence|生成式人工智能]]对学生[[Higher-Order Thinking Skills|高阶思维]]（涵盖[[Problem Solving|问题解决能力]]、[[Critical Thinking|批判性思维]]与[[Creativity|创造力]]）的总体促进效应（Hedges' $g = 0.609$），并系统检验干预时长、学段、教学方法与[[Self-Regulated Learning|自主调节学习]]能力的[[Interaction Effect|调节效应]]。
-> - [[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] — 依据[[Third Generation Activity Theory|活动理论]]移动计算机支持[[Collaborative Learning|协作学习]]（AT-MCSCL）框架对 57 项实验与准[[Experimental Research|实验研究]]（97 个[[Effect Size|效应量]]，$N = 5{,}389$）实施随机效应元分析，严格控制[[Pre-test and Post-test|前测]][[Baseline Standardized Mean Difference|基线等效性]]（$d < 0.25$），评估生成式人工智能对大学生成果的综合效应（$g^+ = 0.804$），并系统检验 17 个调节变量及剪补法发表偏倚校正（校正后 $g^+ = 0.321$）。
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 审读元分析证据库关于学校宏观变量与课堂深层过程的效应量分化，评析班级规模元分析（Glass & Smith, 1978; von Saldern, 2006）并确立深层互动过程的决定性地位（pp. 24–36）。
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 审查[[John Hattie|哈蒂]]《[[Visible Learning|可见的学习]]》所纳 800 余项元分析的年代构成与质控门槛，指出底层数据年代跨代滞后及缺乏准入质控导致证据库异质性失控的方法学缺陷（pp. 13–14）。
+> - [[Argument_Knogler_2025_BB|Knogler et al. (2025)]] — 评析数字化数理教学元分析（$k = 92$），展示清算中心如何依据高信度元分析提炼决策参数并构建面向教师教育的循证中介转化范式。
+> - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 运用随机效应模型综合 29 项实验（$g = 0.609$），评估[[Generative Artificial Intelligence|生成式人工智能]]对[[Higher-Order Thinking Skills|高阶思维]]的促进效应并检验干预时长与学段调节效应。
+> - [[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] — 开展生成式人工智能[[Collaborative Learning|协作学习]]元分析（57 项实验），控制前测基线等效性评估综合效应并以剪补法校正发表偏倚。
 > - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] — 运用[[Random-Effects Model|随机效应模型]]综合 66 项实验与准[[Experimental Research|实验研究]]（72 个[[Effect Size|效应量]]，$N = 4{,}824$），评估[[Graphic Organizer|图形组织器]]对学生[[Higher-Order Thinking Skills|高阶思维]]的促进效应（$g = 0.778$），并结合 Wald 检验与[[Meta-regression|元回归]]系统考察导图类型、思维层级及学段等调节[[Variable|变量]]。
-> - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] — 采用随机效应模型综合 34 项实验与准实验研究（73 个效应量，$N = 3{,}042$），评估 AI [[AI Agent in Education|智能体]]对 K-12 学生认知学习成果的总体效应（$g = 0.404$），并系统检验技能类结果、知识类结果、高阶思维以及智能体形态、学段、学科和干预时长的[[Interaction Effect|调节效应]]。
+> - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] — 采用随机效应模型综合 34 项实验研究（$g = 0.404$），评估 AI [[AI Agent in Education|智能体]]对认知成果的促进效应并检验学段与学科调节效应。
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 综合 341 项实验与准实验研究，运用随机效应模型与混合效应亚组调节检验，确立对话、[[Authentic Instruction|真实性教学]]与[[Mentorship|导师制]]对[[Critical Thinking|批判性思维]]的三维复合干预效应（$g+ = 0.57$）。
 > - [[Argument_Park_2026_TSC|Park et al. (2026)]] — 采用三水平随机效应元分析模型综合 51 个样本（$N = 12{,}548$），估计[[Creativity|创造力]]与批判性思维的整体相关（$r = 0.386$），并配合元回归检验测量类型等调节变量。
 > - [[Argument_Greene_2018_JEP|Greene et al. (2018)]] — 对 132 项非实验研究中的 752 个效应量执行随机效应元分析，系统考察[[Epistemic Cognition|认识论认知]]与[[Academic Achievement|学业成就]]的关联及调节变量。
-> - [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] — 运用[[Random-Effects Model|随机效应模型]]综合 26 项实验与准实验研究（28 个独立样本，59 个[[Effect Size|效应量]]，$N = 4{,}373$），评估[[Epistemic Cognition|认识论认知]]干预对[[Academic Achievement|学业成就]]的因果促进效应（Cohen's $d = 0.509$），并结合混合效应 $Q$ 检验系统考察干预[[Framework for Teaching|教学框架]]、理论模型、特异性对齐、干预时长及学段等调节[[Variable|变量]]。
+> - [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] — 运用随机效应模型综合 26 项实验评估认识论认知干预对学业成就的效应（$d = 0.509$），并检验[[Framework for Teaching|教学框架]]与学段调节变量。
 > - [[Argument_Song_Choi_2026_FPSYG|Song and Choi (2026)]] — 采用三水平多层随机效应模型综合 512 个效应量，探讨中小学生认识论认知发展。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen, Manion & Morrison (2011, Ch. 17)]] — 系统介绍元分析四套操作流程、效应量计算方法与方法论局限。
 > - [[Argument_Hattie_2015_Paideia|Hattie (2015b)]] — 探讨元分析作为探索[[Heterogeneity|异质性]]与调节变量的证据地图定位。
-> - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald and Nevill (2021)]] — 探讨元分析与证据合成在英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）实践中的制度化应用；系统回应 Lortie-Forgues and Inglis (2019) 对 141 项大型教育 [[Randomised Controlled Trials|RCT]] 平均微弱效应量（$d = 0.06$）的批评，阐明大样本精度、[[Business as Usual|常态教学]]高基线以及再编码数据库对拆解元分析证据异质性的作用。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald and Nevill (2021)]] — 探讨证据合成在 EEF 政策工具中的制度化应用，阐明常态教学高基线与再编码数据库对拆解元分析异质性的作用。
 > - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 实证剖析北欧基础教育改革中元分析证据的策略性动员边界：委员会在学习科学领域高度依赖元分析与系统综述以确立政策合法性，而在课程等高度情境依赖领域则因因果可迁移性受限而补充非经验与质性证据（pp. 535–538）。
 > - 针对元分析的批判、审计与[[Epistemology|认识论]]反思文献（Wecker et al., 2016；Nielsen & Klitmøller, 2021a；Terhart, 2011；Larsen, 2019；Kalmendal et al., 2025 等）见 [[Critique of Meta-analysis]]。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 推导两级固定效应合成的等价条件，揭示 SE/SD 混淆与伪[[Standard Error|标准误]]对合成结果的影响；详见 [[Critique of Meta-analysis]]。

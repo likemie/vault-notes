@@ -14,9 +14,9 @@ summary: "在更高层级汇总多个已发表元分析结果的统计综合方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 119
-method_related_level: 11
-method_related_stars: "💎💎💎⭐⭐"
+method_related_count: 126
+method_related_level: 12
+method_related_stars: "💎💎💎💎"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -33,11 +33,13 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Interaction Effect]]"
   - "[[External Validity]]"
-  - "[[Research Purpose]]"
+  - "[[Epistemology]]"
   - "[[Publication Bias]]"
+  - "[[Primary and Secondary Documents]]"
+  - "[[Incommensurability]]"
+  - "[[Research Purpose]]"
   - "[[Literature Search]]"
   - "[[PICO Framework]]"
-  - "[[Primary and Secondary Documents]]"
   - "[[Variable]]"
   - "[[Preregistration]]"
   - "[[Chain of Evidence]]"
@@ -59,10 +61,8 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
   - "[[Inquiry-Based Learning]]"
-  - "[[Incommensurability]]"
   - "[[Category Mistake]]"
   - "[[Spaced Practice]]"
-  - "[[Epistemology]]"
   - "[[Commensuration]]"
   - "[[Effective Teaching]]"
   - "[[Teacher Subject Matter Knowledge]]"
@@ -78,7 +78,12 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Web-Based Learning]]"
   - "[[Homophily]]"
+  - "[[Operationalization]]"
   - "[[Critique of Meta-meta-analysis]]"
+  - "[[Streetlight Effect]]"
+  - "[[Divergent Thinking]]"
+  - "[[Flipped Classrooms]]"
+  - "[[Self-Regulated Learning]]"
 related_theories:
   - "[[Walberg's Educational Productivity Model]]"
   - "[[Punctuated Equilibrium Theory]]"
@@ -92,6 +97,14 @@ related_methods:
   - "[[Prediction Interval]]"
   - "[[Meta-regression]]"
   - "[[Robust Variance Estimation]]"
+  - "[[Umbrella Review]]"
+  - "[[Correlated and Hierarchical Effects Model]]"
+  - "[[Three-Level Meta-Analysis]]"
+  - "[[Second-Order Meta-Regression]]"
+  - "[[Corrected Covered Area]]"
+  - "[[Multilevel Egger's Test]]"
+  - "[[Egger Regression Test]]"
+  - "[[Trim and Fill Method]]"
   - "[[Qualitative Research]]"
   - "[[Research Synthesis]]"
   - "[[Ethnography]]"
@@ -99,18 +112,10 @@ related_methods:
   - "[[Thematic Synthesis]]"
   - "[[Fixed-Effect Model]]"
   - "[[Inverse-Variance Weighting]]"
-  - "[[Correlated and Hierarchical Effects Model]]"
-  - "[[Trim and Fill Method]]"
-  - "[[Multilevel Egger's Test]]"
-  - "[[Umbrella Review]]"
-  - "[[Corrected Covered Area]]"
-  - "[[Three-Level Meta-Analysis]]"
   - "[[Fail-Safe N]]"
   - "[[Funnel Plot]]"
-  - "[[Egger Regression Test]]"
   - "[[Begg and Mazumdar Rank Correlation]]"
   - "[[Standard Error]]"
-  - "[[Second-Order Meta-Regression]]"
   - "[[Pearson Product-Moment Correlation]]"
   - "[[Experimental Research]]"
   - "[[Sample Size Determination]]"
@@ -130,7 +135,6 @@ related_facts:
   - "[[Education Endowment Foundation]]"
 related_arguments:
   - "[[Argument_Terhart_2011_JCS]]"
-  - "[[Argument_Terhart_2014_HolyGrail]]"
   - "[[Argument_Runco_2026_CRJ]]"
   - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Wecker_2016_ZfE]]"
@@ -139,6 +143,7 @@ related_arguments:
   - "[[Argument_Erdem_2026_SHE]]"
   - "[[Argument_Unal_2026_JECR]]"
   - "[[Argument_Qvortrup_2015_Paideia]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
   - "[[Argument_Wrigley_2019_ERE]]"
   - "[[Argument_Jansen_2026_EPR]]"
   - "[[Argument_Golovchin_2019_ESC]]"
@@ -149,8 +154,10 @@ related_arguments:
   - "[[Argument_OConnor_2020_AJLL]]"
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Wiliam_2019_ERE]]"
+  - "[[Argument_Koller_2014_WhatWorks]]"
 related_persons:
   - "[[Ewald Terhart]]"
+  - "[[John Hattie]]"
 confidence: high
 status: active
 created: 2026-05-03
@@ -172,6 +179,20 @@ updated: 2026-11-24
 > 二阶元分析在大样本水平上整合多重一阶元分析，采用[[AMSTAR\|系统评价质量评估工具]]与多水平[[Robust Variance Estimation\|稳健方差估计]]，能够克服单一研究局限，提供高度稳健且具备[[External Validity\|可推广性]]的效应量基准。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 2–5)]]
 >
 > *Second-order meta-analyses synthesize the findings of previous meta-analyses to provide a higher-order summary of evidence... controlling for dependencies through cluster-robust variance estimation.*
+
+---
+
+> [!method-position] [[Epistemology|认识论]]与方法定位
+> - **知识观** 经验累积与多层证据整合视角；将已有一阶元分析视为更高统计层级的观测样本，通过多水平方差分解与元回归识别宏观效应基准与全领域异质性。
+> - **研究者角色** 宏观证据库的系统审定者与统计建模者；需对初级研究文献重叠度、各元分析效应量测度差异、小研究效应与[[Publication Bias|发表偏倚]]进行严格的敏感性审计。
+> - **有效性标准** AMSTAR-2 方法学质控评级、[[Primary and Secondary Documents|初级文献]]重叠协方差校正、效应量尺度标准化等值性，以及二阶模型残差的稳健方差估计（RVE）。
+> - **不声称回答的问题** 不能仅凭跨学科效应量排位直接推断特定教育干预的必然因果优劣；不能消除初级研究普遍存在的构念混淆与[[Incommensurability|不可通约性]]。
+
+> [!method-stack] 方法层级
+> - **研究设计** [[Umbrella Review|伞状综述]]（Umbrella Review）、系统评价再评价、多水平二阶元分析设计（Second-Order Meta-Analysis, SOMA）。
+> - **数据收集** 全文数据库系统检索、前置元分析数据库二次挖掘、一阶效应量矩阵与初级研究引用重叠矩阵提取。
+> - **分析方法** [[Correlated and Hierarchical Effects Model|相关与层级效应模型]]（CHE）、[[Three-Level Meta-Analysis|三水平元分析]]模型、[[Second-Order Meta-Regression|二阶元回归]]（Second-Order Meta-Regression）、稳健方差估计（RVE）。
+> - **辅助技术** AMSTAR-2 方法学评级、[[Corrected Covered Area|校正覆盖面积]]（CCA）去重检验、[[Multilevel Egger's Test|多水平艾格检验]]（Multilevel [[Egger Regression Test|Egger's Test]]）、[[Trim and Fill Method|剪补法]]（Trim and Fill）。
 
 ---
 
@@ -517,7 +538,14 @@ updated: 2026-11-24
 
 ---
 
-> [!warning] 方法学局限与争议提示
+> [!method-fit] 适用判断
+> - **适合使用** 评估跨学科宏观教育干预效果基准、检验大跨度理论构念的相对效能、探索发表偏倚与方法学质量对合并效应的调节作用。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 2)]]
+> - **谨慎使用** 一阶元分析之间初级研究重叠率极高且未做统计校正的领域；不同元分析构念[[Operationalization|操作化]]定义存在严重异质性的情境。
+> - **不适合使用** 试图通过效应量数字直接得出微观课堂处方的情境；底层文献存在严重时间跨度断裂与方法学质量黑箱的领域。
+
+---
+
+> [!method-limits] 方法局限
 > 二阶[[Meta-analysis\|元分析]]虽然在统计技术上通过[[Robust Variance Estimation\|三明治估计量]]实现了多水平稳健化，但在[[Epistemology\|认识论]]和证据应用层面仍面临多重系统性挑战：
 > 1. **试验灵敏度混淆** [[Effect Size\|效应量]]大小可能反映研究者操纵试验灵敏度的难易程度而非干预本身有效性([[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017]], 2019)；
 > 2. **偏倚逐级复合** 一阶元分析中的未加权、SE/SD 混淆与公式不可比性无法在二阶统计中被自动消除（[[Argument_Allerup_2015_Paideia\|Allerup, 2015]]; [[Argument_Bergeron_2017_MJE\|Bergeron & Rivard, 2017]]; [[Argument_Wecker_2016_ZfE\|Wecker et al., 2016]]）；
@@ -556,13 +584,13 @@ updated: 2026-11-24
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 对哈蒂《可见的学习》816 项元分析开展方法学审读，揭示粗放二阶综合的信息损耗与稳定性/变异性双重困境（pp. 427–436）。
-> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 结合德译本进一步解构二阶元分析作为教育“圣杯”的修辞神话，指出底层文献年代滞后、缺乏准入质控以及路灯效应等系统性局限（pp. 13–23）。
+> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 对[[John Hattie|哈蒂]]《可见的学习》816 项元分析开展方法学审读，揭示粗放二阶综合的信息损耗与稳定性/变异性双重困境（pp. 427–436）。
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 结合德译本进一步解构二阶元分析作为教育“圣杯”的修辞神话，指出底层文献年代滞后、缺乏准入质控以及[[Streetlight Effect|路灯效应]]等系统性局限（pp. 13–23）。
 > - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 结合德语区教学实证研究评估二阶元分析核心发现，论证学校宏观结构变量效应微弱而深层教学变量具有实质促学成效（pp. 24–37）。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 对二阶元分析开展方法学与统计计算审计，揭露伪标准误与 SE/SD 混淆等数学违规，提出构建中央标准化数据库的一级直接综合替代方案（pp. 29–36）。
-> - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 运用多水平稳健二阶元分析（SOMA）综合关于创造力与发散思维的元分析，采用 CHE 模型与 RVE 控制效应量依赖性（pp. 2–5）。
+> - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 运用多水平稳健二阶元分析（SOMA）综合关于创造力与[[Divergent Thinking|发散思维]]的元分析，采用 CHE 模型与 RVE 控制效应量依赖性（pp. 2–5）。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 审计二阶元分析中跨研究设计聚合的数理有效性，实证检验组间与组内设计混杂带来的系统性参数扭曲。
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 运用变差系数检验《可见的学习》二阶综合效应量分布，证实全库离散度严重超标（$V_\sigma = 56.87\%$），击穿宏观综合的统计同质性前提。
 > - [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] — 遵循现代伞状二阶元分析规范综合 25 项元分析，控制初级研究重叠并采用剪补法校正发表偏倚。
-> - [[Argument_Erdem_2026_SHE|Erdem and Baş (2026)]] — 采用二阶元分析综合翻转课堂在高等教育中的学业成效，系统检验学科与学段调节效应。
-> - [[Argument_Unal_2026_JECR|Ünal et al. (2026)]] — 运用二阶元分析综合网络化学习环境中的自主调节学习成效，评估方法学质量对合并效应的调节作用。
+> - [[Argument_Erdem_2026_SHE|Erdem and Baş (2026)]] — 采用二阶元分析综合[[Flipped Classrooms|翻转课堂]]在高等教育中的学业成效，系统检验学科与学段调节效应。
+> - [[Argument_Unal_2026_JECR|Ünal et al. (2026)]] — 运用二阶元分析综合网络化学习环境中的[[Self-Regulated Learning|自主调节学习]]成效，评估方法学质量对合并效应的调节作用。

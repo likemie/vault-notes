@@ -12,9 +12,9 @@ summary: "追踪具有共同特征的特定群体随时间变化的纵向研究�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 36
-method_related_level: 3
-method_related_stars: "💎"
+method_related_count: 42
+method_related_level: 4
+method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -35,13 +35,14 @@ related_concepts:
   - "[[Achievement and Aptitude Tests]]"
   - "[[Variable]]"
   - "[[Attrition]]"
+  - "[[Habitus Hysteresis]]"
   - "[[Pre-test Sensitisation]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
+  - "[[Learning Progression]]"
   - "[[Areas of Knowledge]]"
   - "[[Heterogeneity]]"
   - "[[Interaction Effect]]"
-  - "[[Learning Progression]]"
 related_theories: []
 related_methods:
   - "[[Longitudinal Study]]"
@@ -58,19 +59,24 @@ related_methods:
   - "[[Confidence Interval]]"
   - "[[Inverse Probability of Treatment Weighting]]"
   - "[[Survey Research]]"
+  - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[Robert Arnove]]"
 related_facts:
   - "[[Reach]]"
+  - "[[COACTIV]]"
+  - "[[PISA]]"
+  - "[[Tennessee Value-Added Assessment System]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
-  - "[[Argument_Terhart_2014_HolyGrail]]"
+  - "[[Argument_Koller_2014_WhatWorks]]"
 confidence: high
-status: draft
+status: active
 created: 2026-07-09
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 ---
@@ -107,7 +113,7 @@ updated: 2026-11-23
 > | 方法类型 | 追踪对象特征 | 抽样与复测机制 | 核心优势 | 主要局限 |
 > |---|---|---|---|---|
 > | **队列研究（Cohort Study）** | 具有共同特征的特定总体（如特定出生年份、入学年级） | 随时间在特定总体内追踪，各轮可在该队列中进行选择性抽样（Borg & Gall, 1979） | 积累大量历时[[Variable\|变量]]，识别生长轨迹与典型模式 | 样本存在选择性流失风险 |
-> | **面板研究（Panel Study）** | 同一批完全相同的具体个体（Lazarsfeld, 1940s; Ruspini, 2002） | 每轮调查严格追踪并复测完全相同的受访者 | 能够精确测定个体微观层面的净变化与因果滞后效应 | 样本耗损严重，易产生控制效应与测量敏感化 |
+> | **面板研究（Panel Study）** | 同一批完全相同的具体个体（Lazarsfeld, 1940s; Ruspini, 2002） | 每轮调查严格追踪并复测完全相同的受访者 | 能够精确测定个体微观层面的净变化与因果[[Habitus Hysteresis\|滞后效应]] | 样本耗损严重，易产生控制效应与测量敏感化 |
 > | **[[Trend Study\|趋势研究]]** | 一般总体随时间推移的整体走向 | 在不同时间节点从同一总体中抽取不同样本 | 避免反复复测造成的[[Pre-test Sensitisation\|预试敏感化]] | 无法在个体层面开展因果分析与微观轨迹推断 |
 > | **[[Cross-sectional Study\|横截面研究]]** | 同一时间点上的不同年龄或阶段群体 | 单次抽样测量，无后续回访 | 成本低、周期短、无[[Attrition\|样本流失]]顾虑 | 难以剔除世代效应，无法建立确定[[Causality\|因果关系]] |
 
@@ -140,7 +146,7 @@ updated: 2026-11-23
 > - **适合使用**
 >   - 考察儿童、青少年及成人的身心、学业与认知发展轨迹。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|(Cohen et al., 2011, p. 271)]]
 >   - 评估教育干预措施的长期滞后影响与因果机制。
->   - 追踪学生在不同效能教师执教下的长期学业进阶轨迹，评估教师效能的持续分流效应与滞后残余影响。[[Argument_Terhart_2014_HolyGrail|(Terhart, 2014, p. 18)]]
+>   - 追踪学生在不同效能教师执教下的长期[[Learning Progression|学业进阶]]轨迹，评估教师效能的持续分流效应与滞后残余影响。[[Argument_Terhart_2014_HolyGrail|(Terhart, 2014, p. 18)]]
 >   - 追踪社会组织、教育机构在复杂跨国政策变迁中的多阶段博弈与策略调试（如巴勒斯坦幼教非政府组织的长期追踪）。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 112)]]
 > - **相对于横截面设计的优势（Douglas, 1976; [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 271]], 273）**
 >   - **信息时效性** 态度与潜在能力评估在当时收集最为准确，避免事后回忆失真。
@@ -178,7 +184,8 @@ updated: 2026-11-23
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al. (2011)]] — 系统阐明队列研究作为[[Longitudinal Study|纵向研究]]设计的定义、核心要素、相对于横截面设计的六大优势（Douglas, 1976）以及样本死亡和控制效应等方法挑战。
+> - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 结合 [[COACTIV]] 与 [[PISA]] 追踪等大规模纵向队列数据（如 Ehmke et al., 2010 留级生追踪），为[[Meta-meta-analysis|二阶元分析]]提供德语区本土基准校验，证实真实学年成长常模为 $d = 0.30 \sim 0.50$（pp. 25, 28）。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 评析克里斯蒂娜（Christina, 2001, 2006）在约旦河西岸的追踪研究（cohort study），展示如何通过对模范非政府组织进行跨越政治周期的多阶段追踪，解构民间幼教在西方捐助指标、自治政府控制与本土伊斯兰文化之间的策略协商。（p. 112）
-> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 评析桑德斯与里弗斯（Sanders & Rivers, 1996）依托田纳西增值评价系统开展的大样本追踪研究，揭示排名前 20% 与后 20% 教师对学生学业进阶的巨大分流效应与数年后依然存在的残余负面影响（p. 18）。
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 评析桑德斯与里弗斯（Sanders & Rivers, 1996）依托[[Tennessee Value-Added Assessment System|田纳西增值评价系统]]开展的大样本追踪研究，揭示排名前 20% 与后 20% 教师对学生学业进阶的巨大分流效应与数年后依然存在的残余负面影响（p. 18）。
 
 ---
