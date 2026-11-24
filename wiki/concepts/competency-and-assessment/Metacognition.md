@@ -14,7 +14,7 @@ aliases:
 summary: "个体对自己认知过程的意识、评估与主动调节，包括元认知知识与元认知调节两个核心成分。它不仅构成批判性思维与人机协同认识论警觉的防御中介，更是驱动创造性问题解决、策略内化与克服思维定势的核心高阶认知机制。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 81
+related_count: 83
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -102,6 +102,7 @@ related_instruments:
   - "[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale]]"
 related_persons:
   - "[[Alan C. K. Cheung]]"
+  - "[[Olaf Köller]]"
 related_arguments:
   - "[[Argument_Cole_2015_AJE]]"
   - "[[Argument_Park_2026_TSC]]"
@@ -113,12 +114,13 @@ related_arguments:
   - "[[Argument_Du_Yuan_2026_AIS]]"
   - "[[Argument_Cartiff_2021_JEP]]"
   - "[[Argument_Runco_2026_CRJ]]"
+  - "[[Argument_Koller_2014_WhatWorks]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
 confidence: high
 status: active
 created: 2026-07-01
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 > [!def] Metacognition
@@ -764,6 +766,7 @@ updated: 2026-11-23
 > | [[Theory of Knowledge]] | 理论 | IB 课程中通过显性认识论追问塑造大学生元认知批判倾向的理论载体。 |
 > | [[John Hattie]] | 人物 | 在可见学习二阶元分析中量化元认知策略教学超常效应的代表学者。 |
 > | [[Ewald Terhart]] | 人物 | 评析可见学习中主动学习者发展元认知监控与优秀教师教学交互的德国教学论学者。 |
+> | [[Olaf Köller]] | 人物 | 德语区实证教学研究学者，论证元认知策略系统训练（$d = 0.69$）对深层学习的高效促进。 |
 
 ---
 
@@ -777,4 +780,5 @@ updated: 2026-11-23
 > - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 追踪实证研究证实 IB ToK [[Epistemology|认识论]]课程能够作为系统性的元认知训练，显著提升大学生的批判反思能力。
 > - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — [[Meta-meta-analysis|二阶元分析]]证实过程性元认知与[[Problem Finding|问题发现]]测量指标（$r = 0.27$）的效度显著优于单纯[[Divergent Thinking|发散思维]]测验（$r = 0.14$）。
 > - [[Argument_Lakhani_2012_AKUIED|Lakhani (2012)]] — 质性实证阐明元认知意识如何支撑学生的自主性发展与知情决策。
+> - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 结合德语区实证教育研究与元分析数据，阐明元认知策略训练（$d = 0.69$）对认知监控与思维调节的卓越促学价值（p. 34）。
 

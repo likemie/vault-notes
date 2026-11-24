@@ -13562,6 +13562,8 @@
     "Karl Popper (1965)": "Karl Popper, 1965",
     "Karl Popper, 1945": "Karl Popper, 1945",
     "Karl Popper, 1965": "Karl Popper, 1965",
+    "Karl Weick (1976)": "Karl Weick, 1976",
+    "Karl Weick, 1976": "Karl Weick, 1976",
     "Karmel et al. (1973)": "Karmel et al., 1973",
     "Karmel et al., 1973": "Karmel et al., 1973",
     "Karr et al. (2006)": "Karr et al., 2006",
@@ -16512,8 +16514,6 @@
     "Maag Merki, 2003": "Maag Merki, 2003",
     "Maasen & Weingart (2005)": "Maasen & Weingart, 2005",
     "Maasen & Weingart, 2005": "Maasen & Weingart, 2005",
-    "Maassen & Stensaker (2019)": "Maassen & Stensaker, 2019",
-    "Maassen & Stensaker, 2019": "Maassen & Stensaker, 2019",
     "Mabe & West (1982)": "Mabe & West, 1982",
     "Mabe & West, 1982": "Mabe & West, 1982",
     "Maber (2014)": "Maber, 2014",
@@ -81438,7 +81438,9 @@
         "Donovan & Radosevich, 1999"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/learning-science-cognitive-science/Spaced Practice.md"
+      ],
       "title": "A meta-analytic review of the distribution of practice effect: Now you see it, now you don't"
     },
     "Doo & Zhu, 2022": {
@@ -112087,6 +112089,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Education & Social Policy/Argument_Blass_2020_JESP.md",
         "wiki/concepts/instruction-pedagogy/Teacher as Activator.md",
+        "wiki/concepts/learning-science-cognitive-science/Spaced Practice.md",
         "wiki/facts/new-zealand/Visible Learning Meta-X.md",
         "wiki/persons/new-zealand/John Hattie.md"
       ],
@@ -123505,7 +123508,9 @@
         "Janiszewski et al., 2003"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/learning-science-cognitive-science/Spaced Practice.md"
+      ],
       "title": "A meta-analysis of the spacing effect in verbal learning: Implications for research on advertising repetition and consumer memory"
     },
     "Jank & Meyer, 1994": {
@@ -129268,6 +129273,21 @@
       "seen_in": [
         "wiki/concepts/educational-philosophy/Determinism.md",
         "wiki/persons/uk/Karl Popper.md"
+      ],
+      "title": ""
+    },
+    "Karl Weick, 1976": {
+      "aliases": [
+        "Karl Weick, 1976",
+        "Karl Weick (1976)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Karl Weick, 1976"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md"
       ],
       "title": ""
     },
@@ -142261,7 +142281,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Zeitschrift für Erziehungswissenschaft/Argument_Wecker_2016_ZfE.md"
+        "wiki/arguments/journal-articles/Zeitschrift für Erziehungswissenschaft/Argument_Wecker_2016_ZfE.md",
+        "wiki/concepts/learning-science-cognitive-science/Spaced Practice.md"
       ],
       "title": ""
     },
@@ -150557,22 +150578,6 @@
         "wiki/arguments/journal-articles/Comparative Education/Argument_Volmari_2025_CE.md",
         "wiki/concepts/comparative-education/Democratisation of Expertise.md",
         "wiki/concepts/comparative-education/Technologies of Exclusion.md"
-      ],
-      "title": ""
-    },
-    "Maassen & Stensaker, 2019": {
-      "aliases": [
-        "Maassen & Stensaker, 2019",
-        "Maassen & Stensaker (2019)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Maassen & Stensaker, 2019"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/higher-education/De-coupled Bureaucracy.md",
-        "wiki/concepts/higher-education/Organised Anarchy.md"
       ],
       "title": ""
     },

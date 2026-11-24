@@ -7,7 +7,7 @@ aliases:
 summary: "个体在执行复杂认知任务时，用于短暂保持、动态操纵与更新信息的容量有限的认知加工系统，构成人类新异信息加工的瓶颈与高级思维的核心基石。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 35
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Direct Instruction]]"
   - "[[Business as Usual]]"
   - "[[Epistemic Dependence]]"
+  - "[[Concept Mapping]]"
 related_theories:
   - "[[Cognitive Load Theory]]"
 related_methods:
@@ -53,16 +54,18 @@ related_persons:
   - "[[Akira Miyake]]"
   - "[[Ton de Jong]]"
   - "[[Marcia C. Linn]]"
+  - "[[Olaf Köller]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Bolton_2017_ArchPsych]]"
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Fredens_2015_Paideia]]"
   - "[[Argument_Du_Yuan_2026_AIS]]"
+  - "[[Argument_Koller_2014_WhatWorks]]"
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-03
+updated: 2026-11-24
 ---
 
 > [!def] Working Memory
@@ -253,23 +256,26 @@ updated: 2026-11-03
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |---|---|---|
+> | [[Executive Function]] | 概念 | 心理结构，工作记忆的信息[[Updating and Monitoring\|更新与监控]]构成执行功能三大核心支柱之一 |
+> | [[Cognitive Offloading]] | 概念 | 负荷调节，借助外部物理或数字工具卸载工作记忆短期保持与计算负担 |
+> | [[Concept Mapping]] | 概念 | 教学工具，通过可视化语义网络减轻工作记忆负荷并促进深层理解（$d = 0.57$） |
+> | [[Epistemic Friction]] | 概念 | 认知阻力，生产性摩擦激活工作记忆中的反思比较并促成深层图式内化 |
+> | [[Inquiry-Based Learning]] | 概念 | 教学情境，指导式探究通过支架分担工作记忆负荷，支撑高阶概念重构 |
+> | [[Scaffolding]] | 概念 | 教学支架，外部支架通过接管表面操作，防止工作记忆出现过载崩溃 |
+> | [[Direct Instruction]] | 概念 | 教学[[Paradigm\|范式]]，直接教学主张通过全显性讲授将工作记忆外在负荷压制到最低 |
+> | [[Cognitive Load Theory]] | 理论 | 基础架构，提供内在负荷、外在负荷与相关负荷的理论解释框架 |
+> | [[Olaf Köller]] | 人物 | 德语区实证教学研究学者，论述概念图通过卸载工作记忆负担促进深层激活 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]] — [[Systematic Review\|系统综述]]幼儿[[Executive Function\|执行功能]]的发展轨迹，界定工作记忆[[Updating and Monitoring\|更新与监控]]成分的测量[[Paradigm\|范式]]（自排序、面孔任务）及其 3–4 组块容量界限。
 > - [[Argument_Fredens_2015_Paideia\|Fredens (2015)]] — 结合脑神经科学与可见学习理论，揭示缺乏指导导致的工作记忆过载（垃圾桶效应）与前额叶 10 分钟专注极限及默认网络修复价值。
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 辨析[[Direct Instruction\|直接教学]]与探究教学中的工作记忆机制，实证确证[[Scaffolding\|认知支架]]对卸载工作记忆负担以及[[Inhibitory Control\|抑制控制]]对保护工作记忆资源的核心功能。
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 提出人机中介学习中的[[Epistemic Dependence\|认识依赖]]与[[Cognitive Offloading\|认知卸载]][[Analytic Framework\|分析框架]]，阐明技术消除浪费性摩擦释放工作记忆资源与剥离生产性摩擦导致深层推理萎缩的深层机制。
-
----
-
-> [!entry-map] 条目关联
->
-> | 条目 | 类型 | 关联方向 | 说明 |
-> |:-----|:-----|:---------|:-----|
-> | [[Cognitive Load Theory]] | 理论 | 基础架构 | 提供内在负荷、外在负荷与相关负荷的理论解释框架。 |
-> | [[Executive Function]] | 概念 | 心理结构 | 工作记忆的信息[[Updating and Monitoring\|更新与监控]]构成执行功能三大核心支柱之一。 |
-> | [[Cognitive Offloading]] | 概念 | 负荷调节 | 借助外部物理或数字工具卸载工作记忆短期保持与计算负担。 |
-> | [[Epistemic Friction]] | 概念 | 认知阻力 | 生产性摩擦激活工作记忆中的反思比较并促成深层图式内化。 |
-> | [[Inquiry-Based Learning]] | 概念 | 教学情境 | 指导式探究通过支架分担工作记忆负荷，支撑高阶概念重构。 |
-> | [[Scaffolding]] | 概念 | 教学支架 | 外部支架通过接管表面操作，防止工作记忆出现过载崩溃。 |
-> | [[Direct Instruction]] | 概念 | 教学[[Paradigm\|范式]] | 直接教学主张通过全显性讲授将工作记忆外在负荷压制到最低。 |
+> - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 结合德语区实证教学研究与元分析数据，阐明概念图（$d = 0.57$）等可视化工具通过减轻工作记忆负担促进深层理解的认知机制（p. 34）。
 

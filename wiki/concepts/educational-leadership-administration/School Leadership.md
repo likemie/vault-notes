@@ -318,16 +318,17 @@ updated: 2026-11-24
 >
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
-> | [[Evidence-Informed Practice]] | 实践形态 | 学校领导力作为组织使能支柱，推动外部科研证据在校本场景落地。 |
-> | [[Quality Use of Research Evidence Framework]] | 理论框架 | 将榜样示范与制度化排程确立为促进高质量[[Research Utilization\|证据使用]]的使能要素。 |
-> | [[Professional Learning Community]] | 组织载体 | 学校领导通过划拨专有教研工时所培育的专业协作共同体。 |
-> | [[School Autonomy]] | 制度背景 | 分权与学校自主权改革重构了校长的权责边界与企业家角色。 |
-> | [[New Public Management]] | 治理[[Paradigm\|范式]] | 绩效审计与市场化问责导致校长职业习性撕裂与目标置换。 |
-> | [[Transformative Leadership]] | 关联概念 | 强调解构不平等权力结构、促进社会正义的批判性领导取向。 |
-> | [[Instructional Leadership]] | 关联概念 | 聚焦课堂教学质量诊断与教师教学行为指导的专业领导形态。 |
-> | [[Jorunn Møller]] | 代表学者 | 主持 ISSPP 跨国成功学校校长项目，阐明领导力的情境特异性。 |
-> | [[Scott Eacott]] | 代表学者 | 运用[[Pierre Bourdieu\|布迪厄]][[Champ\|场域]]理论深度批判学校领导力的管理主义与[[Neo-Taylorism\|新泰勒主义]]异化。 |
-> | [[Herbert Altrichter]] | 代表学者 | 实证揭示[[Output-Oriented Governance\|产出导向治理]]下校长工时重置与向教育企业管理者转型。 |
+> | [[Evidence-Informed Practice]] | 概念 | 实践形态，学校领导力作为组织使能支柱推动外部科研证据在校本场景落地 |
+> | [[Professional Learning Community]] | 概念 | 组织载体，学校领导通过划拨专有教研工时所培育的教师专业协作共同体 |
+> | [[School Autonomy]] | 概念 | 制度背景，分权与学校自主权改革重构了校长的权责边界与企业家角色 |
+> | [[New Public Management]] | 概念 | 治理[[Paradigm\|范式]]，绩效审计与市场化问责导致校长职业习性撕裂与目标置换 |
+> | [[Transformative Leadership]] | 概念 | 领导形态，强调解构不平等权力结构、促进社会正义的批判性领导取向 |
+> | [[Instructional Leadership]] | 概念 | 领导形态，聚焦课堂教学质量诊断与教师教学行为指导的专业教学领导 |
+> | [[Quality Use of Research Evidence Framework]] | 理论 | 理论框架，将榜样示范与制度化排程确立为促进高质量[[Research Utilization\|证据使用]]的使能要素 |
+> | [[Jorunn Møller]] | 人物 | 代表学者，主持 ISSPP 跨国成功学校校长项目，阐明领导力的情境特异性 |
+> | [[Scott Eacott]] | 人物 | 代表学者，运用[[Pierre Bourdieu\|布迪厄]][[Champ\|场域]]理论深度批判学校领导力的管理主义与[[Neo-Taylorism\|新泰勒主义]]异化 |
+> | [[Herbert Altrichter]] | 人物 | 代表学者，实证揭示[[Output-Oriented Governance\|产出导向治理]]下校长工时重置与向教育企业管理者转型 |
+> | [[Olaf Köller]] | 人物 | 代表学者，论证校长通过教学创新与教师协作间接驱动课堂因材施教的路径模型 |
 
 ---
 
@@ -341,3 +342,4 @@ updated: 2026-11-24
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 记录对《[[Visible Learning|可见的学习]]》排名在地方教育领导力应用中的反思，结合 [[Argument_Eacott_2017_SLM|Eacott (2017)]] 揭示追求数据绩效导致教师官僚文书负担激增与流失加剧的“治理悲剧”（pp. 236, 240–241）。
 > - [[Argument_Eacott_2017_SLM|Eacott (2017)]] — 从卡拉汉[[Cult of Efficiency|效率崇拜]]与[[Neo-Taylorism|新泰勒主义]]视角，深度解构澳大利亚学校领导力对[[John Hattie|哈蒂]] VL 学说的教父式崇拜，批判将领导力窄化为持续数据生产的技术官僚异化（pp. 413–426）。
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — [[Systematic Review|系统综述]] 109 项实证研究，揭示学校领导者在研究使用治理中兼具赋权示范催化剂与合规门禁阻断者的双重角色（pp. 15, 17）。
+> - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 结合实证教育研究与邦森等路径模型，阐明学校领导（$d = 0.36$）通过促进教学创新与同侪协作间接驱动课堂因材施教（pp. 29–31）。

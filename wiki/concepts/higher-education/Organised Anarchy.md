@@ -47,13 +47,13 @@ updated: 2026-11-24
 > - **边界** 强调组织情境的不确定性与模糊性，不适用于具有刚性流水线生产技术与紧密科层指挥链条的工业科层组织。
 
 > [!citation-card|notitle] 核心界定
-> 从组织化无政府状态视角来看，大学具有三项通用属性：存在难以厘清的目标偏好、不明确的技术以及组织成员的流动参与。目标偏好问题源于大学兼具社会、文化与经济的多重职能；不明确技术与知识发现和知识传授的不可规约性密切相连；流动参与则植根于学术人员在教学与科研工作中的自主权，导致组织边界持续变动且不稳定。[[Argument_Maassen_Stensaker_2019_HEQ|(Maassen & Stensaker, 2019, p. 458)]]
+> 从组织化无政府状态视角来看，大学具有三项通用属性：存在难以厘清的目标偏好、不明确的技术以及组织成员的流动参与。目标偏好问题源于大学兼具社会、文化与经济的多重职能；不明确技术与知识发现和知识传授难以完全编码与标准化的属性密切相连；流动参与则植根于学术人员在教学与科研工作中的自主权，导致组织边界持续变动且不稳定。[[Argument_Maassen_Stensaker_2019_HEQ|(Maassen & Stensaker, 2019, p. 458)]]
 >
 > *Cohen and his colleagues argued that from an organised anarchy perspective universities are characterised by three generic properties: they have problematic preferences, unclear technology and fluid participation by organisational members. The problem concerning preferences is associated with the mixture of social, cultural and economic functions of universities. The unclear technology is associated with the knowledge discovery and knowledge transmission, while the fluid participation is linked to the powerful position of academic staff and professionals in education and research work, leading to uncertain and changing unstable organisational boundaries.*
 
 > [!boundary]- 概念边界
 > - 不等于 [[Bureaucracy|传统官僚制]] — 传统官僚制强调清晰的目标层级、可标准化的生产程序与明确的职务分工，组织化无政府状态突显目标模糊与过程不确定性。
-> - 不等于 [[De-coupled Bureaucracy|解耦型官僚制]] — 组织化无政府状态强调大学整体层面的弱控制与松散耦合，解耦型官僚制揭示了现代大学内部行政支撑系统的高度科层化与学术核心基层的持续自主性并存的二元脱钩格局。
+> - 不等于 [[De-coupled Bureaucracy|解耦型官僚制]] — 组织化无政府状态强调大学整体层面的弱控制与松散联结，解耦型官僚制揭示了现代大学内部行政支撑系统的高度科层化与学术核心基层的持续自主性并存的二元脱钩格局。
 > - 不适用于单一商业营利实体 — 商业企业通常具有明确的利润指标与可度量的产出投入函数，缺乏大学所承载的多元混合使命。
 
 ---
@@ -82,11 +82,11 @@ updated: 2026-11-24
 
 ---
 
-> [!concept-proposition] 命题一｜知识生产的复杂性决定了大学治理难以被单一理性模型统摄
+> [!concept-proposition] 命题一｜知识生产的复杂性决定了大学治理难以纳入单一理性模型
 > **专业自主权与模糊治理** 大学的组织核心在于处理高度专业化、前沿性且难以标准化的知识活动，这使得自上而下的理性规划往往受限于底层学术人员的专业判断与学科规范。
 
 > [!claim] Cohen, March, and Olsen (1972)
-> **决策的垃圾桶动力学** 在组织化无政府状态下，决策并非理性计算或目标手段匹配的结果，而是问题、解决方案、参与者和选择机会四个独立流动流在特定时间窗口内的碰撞与汇聚。[[Argument_Maassen_Stensaker_2019_HEQ|(Cohen et al., 1972; Maassen & Stensaker, 2019, p. 458)]]
+> **决策的垃圾桶动力学** 在组织化无政府状态下，决策体现为问题、解决方案、参与者和选择机会四个独立流动流在特定时间窗口内的碰撞与汇聚，超越了线性的理性计算与目标手段匹配逻辑。[[Argument_Maassen_Stensaker_2019_HEQ|(Cohen et al., 1972; Maassen & Stensaker, 2019, p. 458)]]
 
 ---
 

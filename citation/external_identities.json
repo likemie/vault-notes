@@ -30787,7 +30787,9 @@
       ],
       "doi": "",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/learning-science-cognitive-science/Spaced Practice.md"
+      ],
       "title": "A meta-analytic review of the distribution of practice effect: Now you see it, now you don't"
     },
     "Doo & Zhu, 2022": {
@@ -49112,6 +49114,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Education & Social Policy/Argument_Blass_2020_JESP.md",
         "wiki/concepts/instruction-pedagogy/Teacher as Activator.md",
+        "wiki/concepts/learning-science-cognitive-science/Spaced Practice.md",
         "wiki/facts/new-zealand/Visible Learning Meta-X.md",
         "wiki/persons/new-zealand/John Hattie.md"
       ],
@@ -55890,7 +55893,9 @@
       ],
       "doi": "",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/learning-science-cognitive-science/Spaced Practice.md"
+      ],
       "title": "A meta-analysis of the spacing effect in verbal learning: Implications for research on advertising repetition and consumer memory"
     },
     "Jank & Meyer, 1994": {
@@ -59378,6 +59383,14 @@
       "seen_in": [
         "wiki/concepts/educational-philosophy/Determinism.md",
         "wiki/persons/uk/Karl Popper.md"
+      ],
+      "title": ""
+    },
+    "Karl Weick, 1976": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md"
       ],
       "title": ""
     },
@@ -67239,7 +67252,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Zeitschrift für Erziehungswissenschaft/Argument_Wecker_2016_ZfE.md"
+        "wiki/arguments/journal-articles/Zeitschrift für Erziehungswissenschaft/Argument_Wecker_2016_ZfE.md",
+        "wiki/concepts/learning-science-cognitive-science/Spaced Practice.md"
       ],
       "title": ""
     },
@@ -72297,15 +72311,6 @@
         "wiki/arguments/journal-articles/Comparative Education/Argument_Volmari_2025_CE.md",
         "wiki/concepts/comparative-education/Democratisation of Expertise.md",
         "wiki/concepts/comparative-education/Technologies of Exclusion.md"
-      ],
-      "title": ""
-    },
-    "Maassen & Stensaker, 2019": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/higher-education/De-coupled Bureaucracy.md",
-        "wiki/concepts/higher-education/Organised Anarchy.md"
       ],
       "title": ""
     },
