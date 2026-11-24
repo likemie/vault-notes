@@ -7,9 +7,9 @@ title: "Argument_Bouckaert_2023_OECD"
 argument_key: "Argument_Bouckaert_2023_OECD"
 argument_display_title: "The assessment of students' creative and critical thinking skills in higher education across OECD countries: A review of policies and related practices (OECD Education Working Papers No"
 argument_kind: "report"
-argument_related_count: 119
-argument_related_level: 11
-argument_related_stars: "💎💎💎⭐⭐"
+argument_related_count: 121
+argument_related_level: 12
+argument_related_stars: "💎💎💎💎"
 argument_related_color: "#fecdd3"
 authors:
   - "Bouckaert, M."
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Operationalization]]"
   - "[[Alienation]]"
+  - "[[Learning Strategies]]"
   - "[[Academic Achievement]]"
   - "[[Problem Solving]]"
   - "[[Active Learning]]"
@@ -78,6 +79,7 @@ related_concepts:
   - "[[Communities of Practice]]"
   - "[[Feedback]]"
 related_theories:
+  - "[[Loosely Coupled Systems]]"
   - "[[Human Capital Theory]]"
   - "[[Creative Problem Solving]]"
 related_methods:
@@ -160,7 +162,7 @@ sources:
 issuing_organization: "[[OECD]]"
 status: draft
 created: 2026-08-26
-updated: 2026-11-15
+updated: 2026-11-25
 ---
 ---
 
@@ -172,7 +174,7 @@ updated: 2026-11-15
 
 > [!concept-lens] 阅读透镜
 > - **对象** OECD 成员国高等教育系统的政策战略文本、国家资格框架、外部质量保障体系、大规模标准化考试以及[[Grandes Ecoles|大学校]]本评价实践。（pp. 4–8）
-> - **张力** 宏观政策[[Discourse|话语]]对高阶思维能力的“高调倡导”与微观课堂教学中以事实回忆为主的传统考核之间的“松散耦合”（Loose Coupling）与制度脱节。（pp. 18–20, 25–29）
+> - **张力** 宏观政策[[Discourse|话语]]对高阶思维能力的“高调倡导”与微观课堂教学中以事实回忆为主的传统考核之间的“[[Loosely Coupled Systems|松散耦合]]”（Loose Coupling）与制度脱节。（pp. 18–20, 25–29）
 > - **贡献** 构建了促进高等教育[[Creativity Assessment\|创造力评价]]与[[Critical Thinking Assessment\|批判性思维评价]]的“五大政策杠杆”[[Analytic Framework\|分析框架]]，系统厘清了从标准化客观测试向校本[[Authentic Assessment\|真实性评价]]转型的实践路径与测量工具谱系，并提出了六大系统性未来行动策略。（pp. 20, 30–34）
 
 ---
@@ -233,7 +235,7 @@ updated: 2026-11-15
 > | 评价功能类型 | 核心宗旨与终极目标 | 主导主体与实施层级 | 结果形态与应用流向 | 对高阶思维的作用机制与制度局限 |
 > |---|---|---|---|---|
 > | **诊断性评价**<br>(Diagnostic) | 摸清学生前置基础与能力基线，识别认知短板并实施差[[Alienation\|异化]]分流与辅导。 | 课程教师、院系教务或全国基准调研项目。 | [[Pre-test and Post-test\|前测]]分数、认知诊断报告或基线技能画像；主要用于教学分层。 | **机制** 揭示前置逻辑推理盲区；<br>**局限** 常规大学课程极少常态化实施高阶思维前测。 |
-> | **形成性评价**<br>(Formative / Assessment for Learning) | 赋能学习过程，通过即时多轮反馈引导学生监控、反思与迭代认知策略。 | 授课教师、学习同伴以及学生自主[[Metacognition\|元认知]]。 | 质性评语、量规反馈、反思日志或同伴评审；不计入或低权重计入终评。 | **机制** 允许低利害试错与多轮修改，是孕育创造力与批判反思的核心土壤；<br>**局限** 教师工作负荷沉重，缺乏通用操作脚手架。 |
+> | **形成性评价**<br>(Formative / Assessment for Learning) | 赋能学习过程，通过即时多轮反馈引导学生监控、反思与迭代[[Learning Strategies\|认知策略]]。 | 授课教师、学习同伴以及学生自主[[Metacognition\|元认知]]。 | 质性评语、量规反馈、反思日志或同伴评审；不计入或低权重计入终评。 | **机制** 允许低利害试错与多轮修改，是孕育创造力与批判反思的核心土壤；<br>**局限** 教师工作负荷沉重，缺乏通用操作脚手架。 |
 > | **总结性评价**<br>(Summative / Assessment of Learning) | 判定学习成效是否达标，进行学分认定、成绩排序、毕业把关与社会选拔。 | 任课教师、校学位委员会、国家统考或行业协会。 | 终结性等级（[[Academic Achievement\|GPA]]）、学分绩点、学位证书或执业准入资质。 | **机制** 具备高利害驱动力；<br>**局限** 传统纸笔闭卷考试极度偏向事实识记，严重诱发应试套路，阻碍深层批判探究。 |
 >
 > （p. 4; Wu & Jessop, 2018; Kuh & Ewell, 2010）
@@ -476,7 +478,7 @@ updated: 2026-11-15
 > | **多次评价与循环迭代** | 单次考核无法捕获复杂心智的成长轨迹；在模块与学程中增加评价频次并多元化考核形式，能形成“多次练习—反馈—自我反思”的提升循环。 | 实施档案袋、多阶段设计与定期诊断任务，提供多轮递进式反馈循环（Garfolo & L'Huillier, 2015; Valencia, 1990; Perry & Southwell, 2011; McWilliam, 2007, 2009; Ritchhart, 2015; Freeman et al., 2014; Bourke, 2018; Looney, 2009; Heft & Scharff, 2017; Bok, 2006; Wiggins, 1998）。 |
 > | **真实性与劣构任务** | 创造力与批判性思维只能在模拟现实不确定性的开放表现中生成，封闭选择题无法激活高级认知加工。 | 广泛采用研究项目、实作设计、案例诊断、学术答辩与跨学科档案袋等真实性评价（Wiggins, 1998; Shepard, 2000; Darling-Hammond, 2012）。 |
 > | **面向未来的可持续评价** | 评价不仅要评定当前课程，更应培育学生毕业后在终身学习社会中自我评判、反思监控与持续发展的[[Metacognition\|元认知]]能力。 | 超越短期应试合规，构建“可持续评价”（Sustainable Assessment）范式（Boud, 2000）。 |
-> | **激活自我与同伴评价** | 让学生参与制定标准、开展[[Peer Assessment\|同伴互评]]（Peer Review）与自我评估，能显著增强反思监控力并内化学术质量标准。 | 设计结构化同伴互评量规与自我反思检查单（Nicol & Macfarlane-Dick, 2006; Sadler, 1989）。 |
+> | **激活自我与[[Peer Assessment\|同伴评价]]** | 让学生参与制定标准、开展[[Peer Assessment\|同伴互评]]（Peer Review）与自我评估，能显著增强反思监控力并内化学术质量标准。 | 设计结构化同伴互评量规与自我反思检查单（Nicol & Macfarlane-Dick, 2006; Sadler, 1989）。 |
 > | **营造低利害容错环境** | 高利害惩罚性考核导致避险心理与保守套路；只有在允许失败并鼓励创新的心理安全环境中，才能孕育突破性思维。 | 设置无利害或低利害的探究沙盒、形成性诊断阶段与形成性重考重修机制（Vincent-Lancrin et al., 2019; Beghetto, 2013）。 |
 >
 > （p. 33, Box 4.1）

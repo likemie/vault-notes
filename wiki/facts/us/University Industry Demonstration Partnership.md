@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 36
+fact_related_count: 37
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -38,12 +38,12 @@ related_concepts:
   - "[[Sponsored Research Agreement]]"
   - "[[Physician-Scientist]]"
   - "[[Avatar]]"
-  - "[[Refined Mastery]]"
   - "[[Discourse]]"
   - "[[Clinical Trial]]"
   - "[[Technology Transfer Office]]"
   - "[[Boundary Spanner]]"
   - "[[Master Agreement]]"
+  - "[[Complete Organisation]]"
   - "[[Fourth Industrial Revolution]]"
   - "[[Strategic Partnership]]"
 related_theories: []
@@ -53,6 +53,7 @@ related_persons: []
 related_facts:
   - "[[National Academy of Sciences]]"
   - "[[National Science Foundation]]"
+  - "[[Integrated Programme]]"
   - "[[Network of Academic Corporate Relations Officers]]"
   - "[[University Industry Innovation Network]]"
   - "[[Oxford UIDP Summit 2019]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-26
+updated: 2026-11-25
 ---
 
 ---
@@ -100,7 +101,7 @@ updated: 2026-10-26
 > - **全球会员代表大会（Membership Network）** 汇聚全美及国际[[Research Universities|研究型大学]]、科技领军企业的一线产学管理者，构成全行业最佳实践的高频交流网络。
 
 > [!pathways] 业务运行机制
-> - **摩擦点溯源与议程设定** 依托年度会议与会员调研，直接从一线谈判人员的实际诉求中提炼反复出现的制度堵点（如背景 IP 授权范围、联合教职责任分割），拒绝脱离实际的纯理论推演。
+> - **摩擦点溯源与议程设定** 依托年度会议与会员调研，直接从一线谈判人员的实际诉求中提炼反复出现的制度堵点（如背景 [[Integrated Programme|IP]] 授权范围、联合教职责任分割），拒绝脱离实际的纯理论推演。
 > - **双重视角平衡的指南研制** 在编制每项《合同共识》或操作规程时，必须设立大学与企业双组长制，分别陈述高校立场、企业立场以及达成建设性妥协的操作策略。
 > - **开源工具库与全行业知识共享** 指南形成后形成非排他性出版物向全社会开放，充当全球产学合作领域的通用公共品。
 
@@ -121,7 +122,7 @@ updated: 2026-10-26
 > 该案例表明，UIDP 构筑的国际实践者物理网络能够在特定时空节点产生强大的关系加速效应。
 
 > [!citation-card] [[Physician-Scientist|医师科学家]]：UIDP 使命在生物医学领域的具象化
-> 医师科学家（Physician-Scientist）被视为 UIDP 降低跨部门壁垒使命在现代医学健康系统中的典型人格[[Avatar|化身]]：他们必须同时[[Refined Mastery|精通]]医疗服务体系与产业生物医药两条[[Discourse|话语]]体系，在学术探索、[[Clinical Trial|临床试验]]与产业转化之间充当关键的跨界双向翻译者与中介枢纽。
+> 医师科学家（Physician-Scientist）被视为 UIDP 降低跨部门壁垒使命在现代医学健康系统中的典型人格[[Avatar|化身]]：他们必须同时精通医疗服务体系与产业生物医药两条[[Discourse|话语]]体系，在学术探索、[[Clinical Trial|临床试验]]与产业转化之间充当关键的跨界双向翻译者与中介枢纽。
 >
 > *Physician-scientists must be speakers of both health system and industry vernacular, acting as liaisons among academic, industry, and other vital partners to translate laboratory discovery into clinical practice.* [[Argument_Swick_Jones_2025_AcademicHealthSystems|(Swick & Jones, 2025, pp. 176–177)]]
 
@@ -182,7 +183,7 @@ updated: 2026-10-26
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso and Hall (2025b)]] — 详尽考证 UIDP 从 1980 年代 GUIRR 探索至 2015 年独立运作的完整组织史，并以 65 所 UIDP 成员大学为样本系统剖析中心产学办公室的微观治理架构。
+> - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso and Hall (2025b)]] — 详尽考证 UIDP 从 1980 年代 GUIRR 探索至 2015 年独立运作的[[Complete Organisation|完整组织]]史，并以 65 所 UIDP 成员大学为样本系统剖析中心产学办公室的微观治理架构。
 > - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 从企业侧[[Academic Engagement Team|学术参与团队]]（AET）视角探讨产学资助与治理，援引 UIDP 2024 年关于[[Joint Faculty Appointments|联合教职]]（Joint Faculty Employment）的权威实践报告。
 > - [[Argument_Susalka_Carbone_2025_IP_Web|Susalka and Carbone (2025)]] — 深入剖析校企协议中的知识产权谈判，高度评价 UIDP《合同共识》（Contract Accords 5 & 6）在化解背景与前景 IP 争议中的指南价值。
 > - [[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al. (2025)]] — 将 UIDP 归入产学联盟的核心“组织基础设施”，论证标准化合同与专业社区对推动长期重复性校企合作的基础性贡献。

@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 23
+person_related_count: 24
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -41,6 +41,7 @@ related_concepts:
 related_theories:
   - "[[Multiple Streams Framework]]"
   - "[[Behaviorism]]"
+  - "[[Loosely Coupled Systems]]"
   - "[[Punctuated Equilibrium Theory]]"
 related_methods:
   - "[[In-depth Interview]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-11-02
+updated: 2026-11-25
 ---
 
 ---
@@ -96,7 +97,7 @@ updated: 2026-11-02
 ---
 
 > [!claim] 核心思想
-> 金登的核心思想彻底颠覆了传统的阶段论线性模型。他指出公共政策决策并非理性规划的工程步骤，而是在高度歧义性（Ambiguity）与有限注意力约束下运行的松散耦合系统。问题流（客观危机与统计指标）、政策流（学术专家储备的技术方案）与政治流（民意氛围与执政班子更迭）各自遵循独立的内在逻辑演进；唯有当偶发事件或政治契机撬开短暂的“[[Policy Window|政策之窗]]”时，具有高度能动性与耐心的“[[Policy Entrepreneur|政策企业家]]”才能迅速行动，将既有的现成方案与紧迫的危机问题强行锚定，并在政治流的庇护下完成三流耦合，最终推动议题跃上法定决策议程。
+> 金登的核心思想彻底颠覆了传统的阶段论线性模型。他指出公共政策决策并非理性规划的工程步骤，而是在高度歧义性（Ambiguity）与有限注意力约束下运行的[[Loosely Coupled Systems|松散耦合系统]]。问题流（客观危机与统计指标）、政策流（学术专家储备的技术方案）与政治流（民意氛围与执政班子更迭）各自遵循独立的内在逻辑演进；唯有当偶发事件或政治契机撬开短暂的“[[Policy Window|政策之窗]]”时，具有高度能动性与耐心的“[[Policy Entrepreneur|政策企业家]]”才能迅速行动，将既有的现成方案与紧迫的危机问题强行锚定，并在政治流的庇护下完成三流耦合，最终推动议题跃上法定决策议程。
 
 > [!citation-card] 政策企业家的资源投入与倡导动机
 > 金登指出，政策企业家是政策体系中最具决定性的能动主体。他们愿意投入时间、精力、声誉与资金等关键资源，其动机既可能是出于对特定公共利益理念的真诚追求，也可能是为了捍卫自身官僚机构的扩张利益，抑或是寻求个人专业成就与职业声望。他们拥有高超的谈判协调技巧，并能在漫长的政治相持期保持持久的战略韧性。

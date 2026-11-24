@@ -2136,6 +2136,14 @@
       ],
       "title": ""
     },
+    "Albrecht, 2012": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
+      ],
+      "title": ""
+    },
     "Alchin, 2003a": {
       "doi": "",
       "isbn": "",
@@ -14988,8 +14996,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Zapp_2022_Springer.md",
-        "wiki/concepts/sociology-of-education/Organizational Actorhood.md"
+        "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Zapp_2022_Springer.md"
       ],
       "title": ""
     },
@@ -16448,7 +16455,9 @@
       "doi": "https://doi.org/10.1177/0170840600214003",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md"
+        "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md",
+        "wiki/concepts/higher-education/Complete Organisation.md",
+        "wiki/theories/higher-education/Loosely Coupled Systems.md"
       ],
       "title": "Constructing organizations: The example of public sector reform"
     },
@@ -16640,6 +16649,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/sociology-of-education/Self-Entrepreneur.md"
+      ],
+      "title": ""
+    },
+    "Brügelmann, 2009": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
       ],
       "title": ""
     },
@@ -22840,14 +22857,6 @@
       ],
       "title": ""
     },
-    "Clark, 1998": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/sociology-of-education/Organizational Actorhood.md"
-      ],
-      "title": ""
-    },
     "Clark, 2004": {
       "doi": "",
       "isbn": "",
@@ -23644,7 +23653,8 @@
       "doi": "https://doi.org/10.2307/2392088",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md"
+        "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md",
+        "wiki/theories/higher-education/Loosely Coupled Systems.md"
       ],
       "title": "A garbage can model of organizational choice"
     },
@@ -25162,7 +25172,6 @@
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Zapp_2022_Springer.md",
         "wiki/concepts/higher-education/University Social Responsibility.md",
-        "wiki/concepts/sociology-of-education/Organizational Actorhood.md",
         "wiki/concepts/sociology-of-education/Otherhood.md"
       ],
       "title": ""
@@ -28443,14 +28452,6 @@
       ],
       "title": ""
     },
-    "Deem, 2001": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/sociology-of-education/Organizational Actorhood.md"
-      ],
-      "title": ""
-    },
     "Defior, 1994": {
       "datasets": [
         "eef:phonics"
@@ -31265,8 +31266,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Zapp_2022_Springer.md",
-        "wiki/concepts/sociology-of-education/Organizational Actorhood.md"
+        "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Zapp_2022_Springer.md"
       ],
       "title": ""
     },
@@ -49480,7 +49480,6 @@
       "doi": "",
       "isbn": "9783834011909",
       "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md",
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md",
         "wiki/concepts/instruction-pedagogy/Selbstdidaktisierung.md"
       ],
@@ -50441,6 +50440,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Implementing differentiated instruction in urban, Title I schools  Effects of facilitated support groups and program fidelity on student achievement"
+    },
+    "Helmke, 2012": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
+      ],
+      "title": ""
     },
     "Helmke, 2013": {
       "doi": "",
@@ -64346,7 +64353,9 @@
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Zapp_2022_Springer.md",
         "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md",
-        "wiki/concepts/sociology-of-education/Organizational Actorhood.md"
+        "wiki/concepts/higher-education/Complete Organisation.md",
+        "wiki/concepts/sociology-of-education/Organizational Actorhood.md",
+        "wiki/theories/higher-education/Loosely Coupled Systems.md"
       ],
       "title": "Turning the university into an organizational actor"
     },
@@ -74300,6 +74309,14 @@
       ],
       "title": ""
     },
+    "Marshall McLuhan, 1968": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
+      ],
+      "title": ""
+    },
     "Marshall, 1997": {
       "datasets": [
         "metax:S2391"
@@ -77883,7 +77900,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Zapp_2022_Springer.md",
-        "wiki/concepts/sociology-of-education/Organizational Actorhood.md",
         "wiki/concepts/sociology-of-education/Otherhood.md",
         "wiki/persons/us/John W. Meyer.md",
         "wiki/theories/comparative-education/World Society Theory.md"
@@ -81603,6 +81619,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Review of Education/Argument_Gorard_2020_ROE.md"
+      ],
+      "title": ""
+    },
+    "Musselin, 2009": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/sociology-of-education/Organizational Actorhood.md"
       ],
       "title": ""
     },
@@ -86188,14 +86212,6 @@
       "seen_in": [],
       "title": "The revising processes of the sixth-grade writers with and without peer feedback"
     },
-    "Olssen & Peters, 2005": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/sociology-of-education/Organizational Actorhood.md"
-      ],
-      "title": ""
-    },
     "Olulowo, 2020": {
       "datasets": [
         "eef:peer-tutoring"
@@ -86498,7 +86514,8 @@
       "doi": "https://doi.org/10.5465/amr.1990.4308154",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md"
+        "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md",
+        "wiki/theories/higher-education/Loosely Coupled Systems.md"
       ],
       "title": "Loosely coupled systems: A reconceptualization"
     },
@@ -93468,8 +93485,8 @@
       "isbn": "9780521864138",
       "seen_in": [
         "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md",
-        "wiki/concepts/higher-education/University Social Responsibility.md",
-        "wiki/concepts/sociology-of-education/Organizational Actorhood.md"
+        "wiki/concepts/higher-education/Complete Organisation.md",
+        "wiki/concepts/higher-education/University Social Responsibility.md"
       ],
       "title": "The rationalization of the university"
     },
@@ -101975,6 +101992,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Teachers’ Conversational Style and Children’s Language Development in German Childcare Centers  A Culture-Sensitive Intervention"
+    },
+    "Schubert, 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
+      ],
+      "title": ""
     },
     "Schuele, 2008": {
       "datasets": [
@@ -120655,7 +120680,8 @@
       "doi": "https://doi.org/10.2307/2391875",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md"
+        "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md",
+        "wiki/theories/higher-education/Loosely Coupled Systems.md"
       ],
       "title": "Educational organizations as loosely coupled systems"
     },
@@ -121302,6 +121328,14 @@
         "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Hippach-Schneider_Rieder_2022_RCIE.md"
       ],
       "title": "Berufsbildung in der Schweiz. Formen, Strukturen, Akteure"
+    },
+    "Weßling, 2011": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
+      ],
+      "title": ""
     },
     "Wheatley, 1999": {
       "doi": "",
@@ -125876,8 +125910,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Zapp_2022_Springer.md",
-        "wiki/concepts/higher-education/Epistemic Governance.md",
-        "wiki/concepts/sociology-of-education/Organizational Actorhood.md"
+        "wiki/concepts/higher-education/Epistemic Governance.md"
       ],
       "title": ""
     },

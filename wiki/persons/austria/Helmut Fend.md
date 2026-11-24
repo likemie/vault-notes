@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: austria
 person_region: "austria"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Evidence-Based School Development]]"
 related_theories:
+  - "[[Loosely Coupled Systems]]"
   - "[[Structural Functionalism]]"
   - "[[Educational Governance Framework]]"
   - "[[Organizational Culture]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-11-21
+updated: 2026-11-25
 ---
 
 ---
@@ -61,7 +62,7 @@ updated: 2026-11-21
 > - **核心角色** 创立了欧洲当代最具影响力的学校制度多层级系统理论，从宏观社会功能与微观教育行动双重视角阐明学校在现代社会中的存在法则，开创教育[[Recontextualization|再情境化]]分析传统。
 > - **代表贡献**
 >   1. **学校四大社会功能理论** 在代表作《学校理论》（*Theorie der Schule*）与《学校新理论》（*Neue Theorie der Schule*）中系统确立文化传承（Enkulturation）、资格赋予（Qualifikation）、社会分配（Allokation）与政治合法化（Legitimation）四大基本功能；
->   2. **教育再情境化机制与多层级因果链** 构建“治理工具 $\rightarrow$ [[School Leadership\|学校领导]] $\rightarrow$ 教师教学 $\rightarrow$ 学习过程 $\rightarrow$ [[Academic Achievement\|学业成就]]”五级松散耦合因果模型；
+>   2. **教育再情境化机制与多层级因果链** 构建“治理工具 $\rightarrow$ [[School Leadership\|学校领导]] $\rightarrow$ 教师教学 $\rightarrow$ 学习过程 $\rightarrow$ [[Academic Achievement\|学业成就]]”五级[[Loosely Coupled Systems|松散耦合]]因果模型；
 >   3. **单校自主发展理念（Einzelschulentwicklung）** 倡导单所学校是相对独立的教育行动单元，为欧洲[[School Autonomy\|学校自主权]]改革奠定理论基石；
 >   4. **LifE 终身[[Cohort Study\|追踪研究]]** 主持长达三十余年、覆盖 12 岁至 45 岁以上人群的跨代生命历程纵向追踪研究。
 

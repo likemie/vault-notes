@@ -9,7 +9,7 @@ title: "Argument_Zapp_2022_Springer"
 argument_key: "Argument_Zapp_2022_Springer"
 argument_display_title: "Universities, sustainable development and the 'knowledge turn' in global governance – Causes, mechanisms and risks"
 argument_kind: "book"
-argument_related_count: 45
+argument_related_count: 46
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Discourse]]"
   - "[[Paradigm]]"
+  - "[[Complete Organisation]]"
   - "[[Performance Indicators]]"
   - "[[Research Impact]]"
   - "[[Research Problem]]"
@@ -76,7 +77,7 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-11'
-updated: 2026-10-30
+updated: 2026-11-25
 year: 2022
 doi: ""
 citation_aliases:
@@ -126,7 +127,7 @@ Zapp 的论证起点是一个"缺席的在场"：自 1990 年代末以来，"全
 
 Zapp 论证大学经历了两个层次的身份变化(pp.147–149)：
 
-**第一层：从"特定组织"到"完全组织"**。传统欧洲大学像政府的一个科室——目标由上级定、资源由上级拨、不对外负责。但现在，大学越来越像一个独立的法人：自己定使命（自主性）、自己设关键[[Performance Indicators|绩效指标]]（Key Performance Indicators, KPI）（目标导向）、对外接受评估和排名（问责性）、主动对接社区和全球议题（社会嵌入性）。这四个特征构成了 **[[Organizational Actorhood]]**（组织能动者身份）(Bromley & Meyer, 2015)。
+**第一层：从"特定组织"到"[[Complete Organisation|完全组织]]"**。传统欧洲大学像政府的一个科室——目标由上级定、资源由上级拨、不对外负责。但现在，大学越来越像一个独立的法人：自己定使命（自主性）、自己设关键[[Performance Indicators|绩效指标]]（Key Performance Indicators, KPI）（目标导向）、对外接受评估和排名（问责性）、主动对接社区和全球议题（社会嵌入性）。这四个特征构成了 **[[Organizational Actorhood]]**（组织能动者身份）(Bromley & Meyer, 2015)。
 
 > 例：一个传统大学和现代大学的对比——传统教授："我的研究由好奇心驱动，不需要向任何人解释。"现代大学管理者："我们制定了五年战略规划，目标是在 THE 排名中进入前 100，为此我们需要提升[[Research Impact\|研究影响力]]、扩大国际学生比例、并发布年度社会责任报告。"
 

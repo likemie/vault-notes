@@ -9,7 +9,7 @@ aliases:
 summary: "将教育系统理解为多层级行动者在制度结构中通过协商、博弈与制度工具共同达成决策与行动协调的宏观分析框架"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 34
+theory_related_count: 39
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -40,6 +40,8 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Governing by Numbers]]"
 related_theories:
+  - "[[Actor-Centred Institutionalism]]"
+  - "[[Loosely Coupled Systems]]"
   - "[[Three Pillars of Institutions]]"
 related_methods:
   - "[[Analytic Framework]]"
@@ -54,14 +56,17 @@ related_persons:
   - "[[Helmut Fend]]"
   - "[[John W. Meyer]]"
 related_facts:
+  - "[[European Education]]"
   - "[[PISA]]"
+  - "[[German Dual Education System]]"
 related_arguments:
   - "[[Argument_Altrichter_2019_ZfB]]"
   - "[[Argument_Zapp_2017_IJED]]"
+  - "[[Argument_Hippach-Schneider_Rieder_2022_RCIE]]"
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-11-21
+updated: 2026-11-25
 ---
 
 ---
@@ -70,7 +75,7 @@ updated: 2026-11-21
 > - **解释对象** 现代教育系统内部不同层级行动者如何形成决策，以及如何通过多元机制实现行动协调与制度变革。
 > - **理论问题** 传统科层行政理论将国家预设为全知全能的中央调控主体（Linear Top-Down Steering），无法解释政策在基层学校遭遇的广泛变异、象征性应付与认知阻抗；而纯粹的市场选择或微观组织理论又忽视了国家制度规则与监控工具的强力塑造。
 > - **理论类型** 宏观与中观相结合的制度与组织社会学解释框架、多层级分析工具箱。
-> - **知识位置** 植根于社会学行动者中心制度主义（Actor-Centred Institutionalism；Schimank, 2007）与新制度主义组织理论，是德语区与欧洲教育社会学、教育行政学分析政策现代化的核心元理论。
+> - **知识位置** 植根于社会学[[Actor-Centred Institutionalism|行动者中心制度主义]]（Actor-Centred Institutionalism；Schimank, 2007）与新制度主义组织理论，是德语区与[[European Education|欧洲教育]]社会学、教育行政学分析政策现代化的核心元理论。
 
 > [!claim] 核心判断
 > 教育治理将教育系统界定为多层级系统（Mehrebenensystem），摒弃中央全能调控的线性预设，认为教育行动与政策实施是由国家、中间督导、基层[[School Leadership\|学校领导]]与一线教师等多元行动者在既定制度结构中相互调适、利益博弈与意义再转译所共同生成的网络协调过程。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, pp. 18–20)]]
@@ -80,7 +85,7 @@ updated: 2026-11-21
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 德语区教育治理[[Analytic Framework\|分析框架]]由社会学家乌韦·希曼克（Uwe Schimank, 2007）与教育学家[[Herbert Altrichter\|赫伯特·阿尔特里希特]]（Herbert Altrichter, 2005, 2016）、卡塔琳娜·马格·梅尔基（Katharina Maag Merki, 2016）等学者系统建构。核心纲领性文本载于《教育社会学杂志》（*Österreichische Zeitschrift für Soziologie*）创刊专号及权威专著《学校系统新治理手册》（*Handbuch Neue Steuerung im Schulsystem*, Springer VS）。
 > - **原初问题** 面对 1990 年代以来的[[School Autonomy\|学校自主权]]改革与 2000 年后 [[PISA]] 冲击驱动的国家教育质量标准出台，传统以自上而下科层指令为前提的行政法学与规划论彻底失效，亟需一套能够整合宏观国家规制与微观学校能动性的全新分析词汇。
-> - **理论资源与材料** 汲取雷纳特·梅恩茨（Renate Mayntz）与弗里茨·沙尔普夫（Fritz Scharpf）的行动者中心制度主义、[[Helmut Fend\|赫尔穆特·芬德]]（Helmut Fend, 2006）的学校多层级功能理论，以及[[John W. Meyer\|约翰·迈耶]]与布赖恩·罗恩（Meyer & Rowan, 1977）关于制度仪式与松散结合（Loose Coupling）的组织社会学洞见。
+> - **理论资源与材料** 汲取雷纳特·梅恩茨（Renate Mayntz）与弗里茨·沙尔普夫（Fritz Scharpf）的行动者中心制度主义、[[Helmut Fend\|赫尔穆特·芬德]]（Helmut Fend, 2006）的学校多层级功能理论，以及[[John W. Meyer\|约翰·迈耶]]与布赖恩·罗恩（Meyer & Rowan, 1977）关于制度仪式与松散结合（[[Loosely Coupled Systems|Loose Coupling]]）的组织社会学洞见。
 > - **形成路径** 从单一国家控制[[Paradigm\|范式]]抽离出两大基本维度：**调控维度的演进**（从事前投入规制转向事后产出监控）与**行动者维度的重组**（多元利益相关方权责再分配与协商网络建立）。
 
 > [!dev-timeline] 理论版本与贡献
@@ -163,5 +168,5 @@ updated: 2026-11-21
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] — 以教育治理框架为核心理论坐标，实证检验奥地利中小学校长治理态度聚类及其对微观日常工时配置与教学领导的重塑效应。
-> - [[Argument_Hippach-Schneider_Rieder_2022_RCIE|Hippach-Schneider and Rieder (2022)]] — 对比德瑞双元制职教系统在数字化转型中的治理结构，揭示法律分权架构对行动者行动空间与制度调适弹性的塑造机制。
+> - [[Argument_Hippach-Schneider_Rieder_2022_RCIE|Hippach-Schneider and Rieder (2022)]] — 对比德瑞[[German Dual Education System|双元制]]职教系统在数字化转型中的治理结构，揭示法律分权架构对行动者行动空间与制度调适弹性的塑造机制。
 > - [[Argument_Zapp_2017_IJED|Zapp (2017)]] — 将教育治理分析框架拓展至全球多边组织，结合制度三支柱与治理工具分类提出认知治理三维模型。

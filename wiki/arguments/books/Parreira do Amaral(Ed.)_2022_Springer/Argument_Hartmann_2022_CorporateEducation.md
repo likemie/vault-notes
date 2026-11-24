@@ -9,9 +9,9 @@ title: "Argument_Hartmann_2022_CorporateEducation"
 argument_key: "Argument_Hartmann_2022_CorporateEducation"
 argument_display_title: "The internationalisation of further education: Between geoeconomics and geopolitics"
 argument_kind: "book"
-argument_related_count: 19
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 20
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
 book_title: Geopolitical Transformations in Higher Education
 citation: "Hartmann, E. (2022). The internationalisation of further education: Between geoeconomics and geopolitics. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical transformations in higher education (pp. 179–198). Springer."
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Research Scope]]"
 related_theories:
+  - "[[Loosely Coupled Systems]]"
   - "[[Varieties of Capitalism]]"
 related_methods:
   - "[[Analytic Framework]]"
@@ -51,7 +52,7 @@ sources:
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-18
-updated: 2026-11-15
+updated: 2026-11-25
 year: 2022
 doi: ""
 citation_aliases:
@@ -147,7 +148,7 @@ IVET 是德国双元[[Apprenticeship|学徒制]]这类教育——学徒一半�
 
 这类公司给各国分支很大的自主权。企业教育表现为：只给最高管理层提供统一的"学院型"培训（如全球继任计划），其他员工的培训由各国分支自行决定，反映当地制度传统。
 
-> 例：一家总部在德国的联邦型制药公司，CEO 接班人的培养是全球统一的，但印尼工厂的技术工人培训完全按印尼当地的制度和需求来设计。高层的"学院"和基层的"培训"之间是松散耦合（loosely coupled）的关系。这种模式不支持 World Business 论题——公司仍然深嵌于各国家制度中(p.187)。
+> 例：一家总部在德国的联邦型制药公司，CEO 接班人的培养是全球统一的，但印尼工厂的技术工人培训完全按印尼当地的制度和需求来设计。高层的"学院"和基层的"培训"之间是[[Loosely Coupled Systems|松散耦合]]（loosely coupled）的关系。这种模式不支持 World Business 论题——公司仍然深嵌于各国家制度中(p.187)。
 
 **国际型 MNC（高整合 + 低本地响应）**
 

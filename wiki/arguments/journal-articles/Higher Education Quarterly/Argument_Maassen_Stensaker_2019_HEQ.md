@@ -19,15 +19,17 @@ tags:
   - organizational-theory
   - academic-bureaucracy
 related_concepts:
+  - "[[Complete Organisation]]"
   - "[[Research Universities]]"
   - "[[Organised Anarchy]]"
   - "[[De-coupled Bureaucracy]]"
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
+  - "[[Organizational Actorhood]]"
+  - "[[New Public Management]]"
   - "[[Bureaucracy]]"
   - "[[Academic Oligarchy]]"
   - "[[Gatekeepers]]"
-  - "[[New Public Management]]"
   - "[[University-Industry Collaboration]]"
   - "[[Heterogeneity]]"
   - "[[Champ]]"
@@ -38,32 +40,29 @@ related_concepts:
   - "[[Representational Knowledge]]"
   - "[[Emergence]]"
 related_theories:
-  - "[[Tullock's Bureaucracy Theory]]"
+  - "[[Loosely Coupled Systems]]"
   - "[[Triple Helix]]"
 related_methods:
   - "[[Comparative Case Study]]"
   - "[[Semi-structured Interview]]"
   - "[[Fieldwork]]"
-  - "[[Peer Debriefing]]"
 related_instruments: []
 related_persons: []
-related_facts:
-  - "[[Higher Education Act of 1965]]"
-  - "[[AIMS Programme]]"
+related_facts: []
 related_arguments: []
 sources:
   - "[[sources/Maassen_Stensaker_2019_HEQ|Maassen_Stensaker_2019_HEQ]]"
 part_of:
 status: active
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Maassen_Stensaker_2019_HEQ"
 argument_key: "Argument_Maassen_Stensaker_2019_HEQ"
 argument_display_title: "From organised anarchy to de‐coupled bureaucracy: The transformation of university organisation"
 argument_kind: "journal-article"
-argument_related_count: 26
+argument_related_count: 25
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -77,15 +76,15 @@ issuing_organization: ""
 ---
 
 > [!question]
-> 伴随欧洲大陆等地区[[Higher Education Act of 1965|高等教育法]]律地位变迁与机构自主权扩大，现代大学内部强化层级治理与科层管控的改革展现出哪些制度特征？在追求完整组织转型的公立[[Research Universities|研究型大学]]中，纵向指挥链条与横向跨部门整合遭遇了何种机制性困境？这些组织摩擦如何重塑对大学从经典[[Organised Anarchy|组织化无政府状态]]演化轨迹的理论定性？
+> 伴随欧洲大陆等地区高等教育法律地位变迁与机构自主权扩大，现代大学内部强化层级治理与科层管控的改革展现出哪些制度特征？在追求[[Complete Organisation|完整组织]]转型的公立[[Research Universities|研究型大学]]中，纵向指挥链条与横向跨部门整合遭遇了何种机制性困境？这些组织摩擦如何重塑对大学从经典[[Organised Anarchy|组织化无政府状态]]与[[Loosely Coupled Systems|松散耦合系统]]演化轨迹的理论定性？
 
 > [!claim] 核心主张
 > 强化大学纵向层级治理并未带来全校一体化的紧密整合组织；现代治理改革实质上推动了行政支持系统内部的职业专门化、规章标准化与科层理性化，但该行政系统与遵循跨校学科规范且依赖自适应弹性的基层教学科研实践发生结构性脱节，使当代公立研究型大学定型为一种行政科层严密运作与核心学术活动持续自主二元并存的[[De-coupled Bureaucracy|解耦型官僚制]]。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 澳大利亚、比利时、芬兰、荷兰与挪威 5 所处于大都市圈的领先公立研究型大学，覆盖自然科学（化学）、社会科学（心理学）、医学（公共卫生）与教育科学（教师教育）4 类[[Knowledge Production|知识生产]][[Paradigm|范式]]迥异的基层院系。
-> - **张力** 建立完整组织与提升战略行动力的自上而下科层控制诉求，同行政系统部门化孤岛壁垒以及学术探索必需的灵活性、自适应性之间构成深层制度冲突。
-> - **贡献** 打破了大学组织由经典[[Organised Anarchy|组织化无政府状态]]单向演进为全校一体化理性实体的线性假设，实证建构并确立了行政端局部理性化与学术端实践脱钩的解耦型[[Tullock's Bureaucracy Theory|官僚制理论]]解释模型。
+> - **张力** 建立[[Complete Organisation|完整组织]]与确立[[Organizational Actorhood|战略行动者地位]]的自上而下科层控制诉求，同行政系统部门化孤岛壁垒以及学术探索必需的灵活性、自适应性之间构成深层制度冲突。
+> - **贡献** 打破了大学组织由经典[[Organised Anarchy|组织化无政府状态]]与[[Loosely Coupled Systems|松散耦合系统]]单向演进为全校一体化理性实体的线性假设，实证建构并确立了行政端局部理性化与学术端实践脱钩的[[De-coupled Bureaucracy|解耦型官僚制]]解释模型。
 
 ---
 
@@ -93,12 +92,15 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **[[Organised Anarchy\|组织化无政府状态]]** | 解释大学传统上兼具的目标偏好模糊、转化技术不明确与成员参与流动属性 (Cohen et al., 1972)，作为审视当代大学层级治理成效的经典参照基准。 |
+> | **[[Loosely Coupled Systems\|松散耦合系统]]** | 审视大学内部要素弱响应性与结构独立性的经典分析基准 (Weick, 1976)，对照现代层级治理对松散耦合的消解诉求及其引发的二元解耦变异。 |
+> | **[[Complete Organisation\|完整组织]]** | 检验[[New Public Management\|新公共管理]]改革试图将大学重塑为具备组织认同、纵向层级与形式理性的完整实体假说 (Brunsson & Sahlin-Andersson, 2000)，剖析其在行政端的局部实现与学术端的脱节。 |
+> | **[[Organizational Actorhood\|组织行动者地位]]** | 审视大学通过战略规划与品牌营销确立独立行动者合法性的宏观诉求 (Krücken & Meier, 2006)，揭示拥有战略与实际落地协调赤字之间的张力。 |
 > | **[[De-coupled Bureaucracy\|解耦型官僚制]]** | 核心解释框架，阐明纵向行政管控强化如何同横向教学科研实践的自适应性发生结构性分离 (Maassen, 2017)，揭示二元治理脱节机制。 |
 > | **[[Bureaucracy\|科层官僚制]]** | 对照分析现代大学行政支撑系统内部日益强化的规章细化、职业专门化分工与法理型科层审查程序。 |
 > | **[[Academic Oligarchy\|学术寡头制]]** | 辅助审视基层学术人员依托国际学科共同体网络维系专业自主权、抵御自上而下行政理性化渗透的微观权力机制。 |
 
 > [!warrant]- 理论如何支撑论证
-> 新制度主义关于公共部门向完整组织（具备明确组织认同、纵向科层等级与理性技术）转型的理论假说 (Brunsson & Sahlin-Andersson, 2000; Krücken & Meier, 2006)，在公立研究型大学的微观治理实践中遭遇了结构性阻滞。将组织化无政府状态的模糊性特征 (Cohen et al., 1972) 与现代大学的目标管理、质量保障及领导权集中改革进行机制对照可见：科层强化在行政支撑系统内部推动了标准化规程与数字平台的建立，实现了局部的形式理性化；但高深知识生产难以完全标准化编码的专业属性，使学术核心活动依然紧密依附于跨校学科专业网络。由于校级领导层缺乏弥合两者的实质统筹手段，纵向行政控制与横向专业实践发生深层脱节，确立了以解耦型官僚制为核心特征的现代大学组织样态 (Maassen, 2017)。
+> 新制度主义关于公共部门向[[Complete Organisation|完整组织]]（具备明确组织认同、纵向科层等级与理性技术）转型及确立[[Organizational Actorhood|战略行动者地位]]的理论假说 (Brunsson & Sahlin-Andersson, 2000; Krücken & Meier, 2006)，在公立研究型大学的微观治理实践中遭遇了结构性阻滞。将[[Organised Anarchy|组织化无政府状态]]的模糊性特征 (Cohen et al., 1972) 与[[Loosely Coupled Systems|松散耦合系统]]的缓冲属性 (Weick, 1976) 与现代大学的目标管理、质量保障及领导权集中改革进行机制对照可见：科层强化在行政支撑系统内部推动了标准化规程与数字平台的建立，实现了局部的形式理性化；但高深知识生产难以完全标准化编码的专业属性，使学术核心活动依然紧密依附于跨校学科专业网络。由于校级领导层缺乏弥合两者的实质统筹手段，纵向行政控制与横向专业实践发生深层脱节，确立了以[[De-coupled Bureaucracy|解耦型官僚制]]为核心特征的现代大学组织样态 (Maassen, 2017)。
 
 ---
 
@@ -236,7 +238,7 @@ issuing_organization: ""
 
 > [!tension] 行政科层理性化与学术专业自适应性的制度张力
 > - **行政支撑系统的科层运作逻辑** 追求规则标准化、程序合法性、可审计性与形式理性，遵循自上而下的法理科层指标，职能部门各自构建数字与管理防线。
-> - **基层学术系统的专业探索逻辑** 依赖情境适应性、学科[[Peer Debriefing|同行审议]]、不可完全标准化的探索技术与跨国知识网络，强调自下而上的灵活性与学术自主裁量。
+> - **基层学术系统的专业探索逻辑** 依赖情境适应性、学科同行评议、不可完全标准化的探索技术与跨国知识网络，强调自下而上的灵活性与学术自主裁量。
 
 > [!implication]- 二者调和失败的制度后果
 > 校级领导层被寄予厚望成为弥合裂痕的桥梁，但由于缺乏对微观学术规律的穿透能力与充裕资源调配权，二者最终在结构上发生横向脱节，确立了解耦型官僚制的组织样态。
@@ -266,7 +268,7 @@ issuing_organization: ""
 > [!citation-card] 纵向控制与横向脱钩的治理反思
 > 在欧洲大陆的背景下，大学法律地位的转变赋予了学校更大的法定自主权。这种扩权的主要目的之一，是强化校级领导层的正式权责，以便在大学内部推行更具层级性、自上而下的治理模式……在描述历次改革给大学带来的变迁时，学界普遍达成共识：大学内部呈现出强化层级管控、收拢战略决断权，以及推动行政管理正规化与标准化的鲜明倾向。
 >
-> *In a continental European context, for example, transformations in the legal status of universities resulted in enhanced formal institutional autonomy. One of the [[AIMS Programme|aims]] of enhancing institutional autonomy is to strengthen the formal competences of institutional leaders and allow for more hierarchical, top‐down governance practices in universities... In describing the changes universities have experienced following the many reform attempts, most researchers agree that there is a clear tendency for strengthening hierarchical governance within universities, centralising strategic organisational decision‐making, and formalising as well as standardising organisational management and administration.*
+> *In a continental European context, for example, transformations in the legal status of universities resulted in enhanced formal institutional autonomy. One of the aims of enhancing institutional autonomy is to strengthen the formal competences of institutional leaders and allow for more hierarchical, top‐down governance practices in universities... In describing the changes universities have experienced following the many reform attempts, most researchers agree that there is a clear tendency for strengthening hierarchical governance within universities, centralising strategic organisational decision‐making, and formalising as well as standardising organisational management and administration.*
 
 > [!citation-card] 解耦型官僚制的组织机制定性
 > 纵向层级治理原本被预期能带来联系更紧密的组织结构，但我们在案例大学中观察到的，却是解耦型大学官僚制的形成——这套官僚系统衍生出了自己独特的职业规范、价值取向以及对大学运转方式的理解。人们寄希望于大学领导层能够弥补行政管理与学术活动之间的脱节，但领导层往往缺乏有效统筹两者的组织能力。

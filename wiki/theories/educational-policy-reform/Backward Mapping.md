@@ -5,7 +5,7 @@ aliases:
 summary: "理查德·埃尔莫尔于1979年提出的政策执行与系统变革分析框架；主张颠覆从顶层决策出发的前向规划假定，从处于执行末端的微观行为主体及其具体问题解决能力出发，逐级倒推组织与制度所需的资源和政策支持。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 15
+theory_related_count: 16
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -26,7 +26,8 @@ related_concepts:
   - "[[Teacher Questioning]]"
   - "[[Unit of Analysis]]"
   - "[[Curriculum Coherence]]"
-related_theories: []
+related_theories:
+  - "[[Loosely Coupled Systems]]"
 related_methods:
   - "[[Analytic Framework]]"
 related_instruments: []
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-11
-updated: 2026-11-11
+updated: 2026-11-25
 ---
 
 ---
@@ -58,7 +59,7 @@ updated: 2026-11-11
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** [[Richard Elmore|理查德·埃尔莫尔]]（[[Richard Elmore]]）于 1979 年在《组织模型与社会政策分析：逆向映射》（*Backward Mapping: Implementation Research and Policy Decisions*）中系统提出。
 > - **原初问题** 20 世纪 60 至 70 年代美国“伟大社会”（Great Society）大型社会福利与教育补偿项目（如 [[Title I of the Elementary and Secondary Education Act|Title I]]）投入巨额国库资金，但终端学校教学实践与弱势学生成绩未获实质改善，政策执行研究深陷政策失败的悲观论调。
-> - **理论资源与材料** 吸收组织行为学中关于松散联结系统（Loose Coupling）的见解，以及迈克尔·利普斯基（Michael Lipsky）关于一线从业人员在日常工作中拥有不可剥夺的自由裁量权的论断。
+> - **理论资源与材料** 吸收组织行为学中关于松散联结系统（[[Loosely Coupled Systems|Loose Coupling]]）的见解，以及迈克尔·利普斯基（Michael Lipsky）关于一线从业人员在日常工作中拥有不可剥夺的自由裁量权的论断。
 > - **形成路径** 埃尔莫尔对比了“前向规划”（Forward Mapping）与“逆向映射”的认知逻辑，系统建构了从行为目标倒推资源分配的分析阶梯。
 
 > [!dev-timeline] 理论演进与跨领域扩展

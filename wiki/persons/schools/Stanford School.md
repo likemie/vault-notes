@@ -12,10 +12,10 @@ summary: "约翰·迈耶等开创的社会学新制度主义与世界社会研�
 type: person
 subtype: school
 person_region: "United States"
-person_related_count: 37
-person_related_level: 3
-person_related_stars: "💎"
-person_related_color: "#ede9fe"
+person_related_count: 40
+person_related_level: 4
+person_related_stars: "💎⭐"
+person_related_color: "#fce7f3"
 nationality: "United States"
 born: "1977"
 died: ""
@@ -30,9 +30,11 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Rationalized Myth]]"
   - "[[Organizational Actorhood]]"
+  - "[[Mimesis]]"
   - "[[Falsification]]"
   - "[[Otherhood]]"
   - "[[Paradigm]]"
+  - "[[Complete Organisation]]"
   - "[[Knowledge Production]]"
   - "[[New Mythology]]"
   - "[[Class Size]]"
@@ -46,6 +48,7 @@ related_theories:
   - "[[Cultural Models]]"
   - "[[World Society Theory]]"
   - "[[Institutional Isomorphism]]"
+  - "[[Loosely Coupled Systems]]"
   - "[[Dependency Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
@@ -73,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-11-15
+updated: 2026-11-25
 ---
 
 ---
@@ -85,15 +88,15 @@ updated: 2026-11-15
 > - **代表性理论贡献** 创立[[World Society Theory|世界社会理论]]与组织社会学新制度主义；提炼出[[Institutional Isomorphism|制度同构]]、[[Rationalized Myth|制度神话]]与仪式、结构去耦合（Structural decoupling）、他者性与无私代理、[[Organizational Actorhood|组织行动者身份]]（Organizational Actorhood）等奠基性构件。
 
 > [!citation-card] 斯坦福学派的核心理论渊源
-> 斯坦福学派的新制度主义社会学理论，将现代大众教育和国家体制的跨国趋同阐释为世界文化模型扩散与模仿的产物；主张去中心化的世界社会依赖无私代理人的他者性机制输出进步与正义规范，构成了战后比较教育学中最为系统宏大的共识论学术传统。[[Argument_Arnove_2009_WorldSystems|(Meyer et al., 1997, cited in Arnove, 2009, pp. 101–104)]]
+> 斯坦福学派的新制度主义社会学理论，将现代大众教育和国家体制的跨国趋同阐释为世界文化模型扩散与[[Mimesis|模仿]]的产物；主张去中心化的世界社会依赖无私代理人的他者性机制输出进步与正义规范，构成了战后比较教育学中最为系统宏大的共识论学术传统。[[Argument_Arnove_2009_WorldSystems|(Meyer et al., 1997, cited in Arnove, 2009, pp. 101–104)]]
 
 ---
 
 > [!dev-timeline] 学派演进里程碑
-> - **1970s — 组织制度主义奠基** 迈耶与罗恩（Meyer & Rowan, 1977）发表《制度化组织：作为神话与仪式的正式结构》，针对美国学校内部“松散联结”（loose coupling）与宏观合法性并存的悖论，首次阐明正式结构迎合[[Rationalized Myth|制度神话]]的去耦合机制。
+> - **1970s — 组织制度主义奠基** 迈耶与罗恩（Meyer & Rowan, 1977）发表《制度化组织：作为神话与仪式的正式结构》，针对美国学校内部“松散联结”（[[Loosely Coupled Systems|loose coupling]]）与宏观合法性并存的悖论，首次阐明正式结构迎合[[Rationalized Myth|制度神话]]的去耦合机制。
 > - **1977–1987 — 大众教育大扩张跨国实证转向** 迈耶、拉米雷斯与博利等学者（Meyer et al., 1977; Ramirez & Boli, 1987）运用大样本跨国时间序列回归，[[Falsification|证伪]]了大众教育取决于国内工业化水平的功能主义假说，论证国家构建与成员身份界定是驱动全球义务教育普及的政治文化动力。[[Argument_Amos_2022_Springer|(Amos, 2022, pp. 54–55)]]
 > - **1990s — [[World Society Theory|世界社会理论]]系统化** 迈耶等（Meyer, Boli, Thomas, & Ramirez, 1997）在《美国社会学期刊》发表集大成之作《世界社会与民族国家》，界定去中心化的理性化[[Cultural Models|世界文化模型]]、[[Otherhood|为他者行动]]与主权形式趋同，学派确立为跨国治理与全球化研究主流[[Paradigm|范式]]。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–104)]]
-> - **2000s 至今 — 全球评估、人权课程与组织能动性拓展** [[Aaron Benavot|贝纳沃特]]、布罗姆利、弗兰克与扎普（Zapp）等后继学者，将理论版图拓展至全球课程标准化、人权教育渗透、现代大学作为理性化完全组织的能动性演变，以及国际组织在[[UN Sustainable Development Goals|可持续发展目标]]（SDGs）多边治理中的[[Knowledge Production|知识生产]]。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 148–154)]]
+> - **2000s 至今 — 全球评估、人权课程与组织能动性拓展** [[Aaron Benavot|贝纳沃特]]、布罗姆利、弗兰克与扎普（Zapp）等后继学者，将理论版图拓展至全球课程标准化、人权教育渗透、现代大学作为理性化[[Complete Organisation|完全组织]]的能动性演变，以及国际组织在[[UN Sustainable Development Goals|可持续发展目标]]（SDGs）多边治理中的[[Knowledge Production|知识生产]]。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 148–154)]]
 
 ---
 

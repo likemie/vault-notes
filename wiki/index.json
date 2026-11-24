@@ -11287,6 +11287,18 @@
     ]
   },
   {
+    "title": "Complete Organisation",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Complete Organisation.md",
+    "aliases": [
+      "完整组织",
+      "完全组织",
+      "完整组织理论",
+      "Complete Organization",
+      "constructing complete organisations"
+    ]
+  },
+  {
     "title": "Continuous Doctoral Training",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Continuous Doctoral Training.md",
@@ -21826,7 +21838,9 @@
     "aliases": [
       "组织能动者身份",
       "组织行动者身份",
-      "organizational actor"
+      "战略行动者地位",
+      "organizational actor",
+      "strategic actorhood"
     ]
   },
   {
@@ -25616,6 +25630,18 @@
       "挑战性-阻碍性压力源框架",
       "Challenge-Hindrance Stressor Model",
       "Challenge-Hindrance Framework"
+    ]
+  },
+  {
+    "title": "Loosely Coupled Systems",
+    "type": "theory",
+    "path": "wiki/theories/higher-education/Loosely Coupled Systems.md",
+    "aliases": [
+      "松散耦合系统",
+      "松散耦合",
+      "松散结合系统",
+      "Loose Coupling",
+      "Loosely Coupled Systems Theory"
     ]
   },
   {

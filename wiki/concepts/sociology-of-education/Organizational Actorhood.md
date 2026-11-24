@@ -3,123 +3,174 @@ title: Organizational Actorhood
 aliases:
   - 组织能动者身份
   - 组织行动者身份
+  - 战略行动者地位
   - organizational actor
-summary: "组织把自主性、目标导向、问责性和社会嵌入性纳入核心身份并作为行动者被广泛承认的制度过程"
+  - strategic actorhood
+summary: "组织社会学与新制度主义核心概念，指组织将自主性、目标导向、问责性与社会嵌入性纳入核心身份，被广泛承认为独立行动实体的制度过程；在高等教育中解释大学由松散共同体向一体化战略行动者的转型及伴生的战略落地赤字。"
 type: concept
 domain: "sociology-of-education"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
-- level/higher-ed
+  - level/higher-ed
+  - sociology-of-education
+  - organizational-theory
+  - actorhood
 related_concepts:
   - "[[Otherhood]]"
   - "[[Entrepreneurial University]]"
-  - "[[New Public Management]]"
-  - "[[Research Impact]]"
-  - "[[Research Problem]]"
-  - "[[Global Universities Rankings]]"
-  - "[[University Social Responsibility]]"
-  - "[[Intercultural Education]]"
-  - "[[Neoliberalism]]"
+  - "[[Complete Organisation]]"
+  - "[[Champ]]"
+  - "[[Organised Anarchy]]"
+  - "[[Technology Transfer]]"
   - "[[Global Citizenship]]"
+  - "[[New Public Management]]"
+  - "[[Research Universities]]"
+  - "[[University Social Responsibility]]"
+  - "[[De-coupled Bureaucracy]]"
 related_theories:
-  - "[[World Society Theory]]"
   - "[[Cultural Models]]"
+  - "[[World Society Theory]]"
+  - "[[Institutional Isomorphism]]"
+  - "[[Loosely Coupled Systems]]"
 related_methods:
-  - "[[Analytic Framework]]"
-related_persons: []
+  - "[[Comparative Case Study]]"
+related_instruments: []
+related_persons:
+  - "[[Georg Friedrich Meier]]"
 related_facts:
-  - "[[Bologna Process]]"
   - "[[UN Sustainable Development Goals]]"
-  - "[[THE Impact Ranking]]"
-  - "[[Academic Ranking of World Universities]]"
+  - "[[Bologna Process]]"
 related_arguments:
   - "[[Argument_Zapp_2022_Springer]]"
-confidence: medium
-status: draft
+  - "[[Argument_Maassen_Stensaker_2019_HEQ]]"
+confidence: high
+status: active
 created: '2026-05-11'
-updated: 2026-11-19
+updated: 2026-11-25
 ---
 
 ---
 
-> [!info] 定义
-> 组织能动者身份（organizational actorhood）指组织在结构和行为上的扩展，将自主性（autonomy）、目标导向（goal-orientation）、问责性（accountability）和社会嵌入性（social embeddedness / citizenship）纳入其核心身份的过程（Bromley & Meyer, 2015, p.148）。这一概念最初由 Krücken 和 Meier（2006）在分析欧洲大学转型时提出，用以描述大学从传统公共行政中的"特定组织"（specific organizations）向具有自我定义目标、自主决策能力和对外问责机制的"完全组织"（complete organizations）的转变。
+> [!def] Organizational Actorhood
+> 组织行动者地位（Organizational Actorhood，又译组织能动者身份或战略行动者地位）是由新制度主义学者克吕肯与[[Georg Friedrich Meier|迈尔]]（Krücken & Meier, 2006）以及布罗姆利与迈尔（Bromley & Meyer, 2015）系统阐发的组织社会学核心概念。该概念指组织在结构与行为上进行持续扩展，将自主决策（Autonomy）、目标导向（Goal-orientation）、绩效问责（Accountability）与社会嵌入性（Social embeddedness / citizenship）内化为其核心身份，从而被外部社会普遍承认为具备独立意志、战略决断能力与对外责任主体的制度化演进过程。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 148)]]; [[Argument_Maassen_Stensaker_2019_HEQ|(Maassen & Stensaker, 2019, p. 457)]]
 
-> [!quote|notitle]
-> "Actorhood, here, describes organizations' structural and behavioral expansion by including autonomy, goal-orientation, accountability and social embeddedness or citizenship as part of their core identity."（Bromley & Meyer, 2015，引自 [[Argument_Zapp_2022_Springer\|Zapp, 2022, p.148]]）
+> [!concept-lens|notitle] 概念透镜
+> - **含义** 描述各类组织（尤其是大学与非营利机构）从从属于国家行政体系或松散的专业联合体，转变为拥有自我界定目标、集中决策领导与对外合法责任的独立行动主体。
+> - **用途** 帮助研究者透视全球高等教育组织如何重构治理结构、开展战略规划与品牌塑造，以及为何宏观行动者宣示往往与微观执行发生结构性脱钩。
+> - **边界** 聚焦组织对外宣示能动意志与社会责任的制度化建构，不直接等同于组织在内部必然具备高效协调与无缝落地的实质执行力。
 
----
+> [!citation-card|notitle] 组织行动者身份的内涵界定
+> 行动者身份在此描述了组织通过将自主性、目标导向、问责性以及社会嵌入性或公民身份纳入其核心认同，进而实现的结构与行为层面的扩展。[[Argument_Zapp_2022_Springer|(Bromley & Meyer, 2015, 引自 Zapp, 2022, p. 148)]]
+>
+> *Actorhood, here, describes organizations' structural and behavioral expansion by including autonomy, goal-orientation, accountability and social embeddedness or citizenship as part of their core identity.*
 
-> [!example] 概念辨析
-> - vs [[Otherhood]] — 能动者身份（actorhood）描述组织作为自主行动者的一般特征；otherhood 是其特殊形式，特指组织为"他者"（其他行动者、非行动者实体、抽象原则）行使代理权的社会过程([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.149]])
-> - vs [[Entrepreneurial University\|创业型大学]]（entrepreneurial university） — Clark (1998) 的创业型大学概念强调大学对市场机会的主动追求和资源多样化；组织能动者身份涵盖更广，不仅包括市场面向，也包括社会嵌入性和公民身份等非经济维度([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.148]])
-
----
-
-> [!note] 概念演变
-
-### 大学的组织化：从特定组织到完全组织
-
-这一脉络主要在欧洲高等教育研究中展开，关注大学如何从一个松散的、缺乏统一行动能力的学术共同体转变为一个具有组织身份的行动者。
-
-- 2006 年 Krücken & Meier 在 *Globalization and Organization* 中首次提出[[Analytic Framework|分析框架]]，关注大学如何在全球化压力下"转变为组织行动者"——即获得统一决策、自我管理和对外代表的能力。这一研究的背景是欧洲[[Bologna Process|博洛尼亚进程]]和[[New Public Management|新公共管理]]改革对大学自治提出的新要求([[Argument_Zapp_2022_Springer|Zapp, 2022, p.148]])
-- 2007 年 Musselin 区分大学的"特定组织"（specific organizations）与"一般组织"特征。传统欧洲大学像政府部门的一个科室——目标由上级定、资源由上级拨、教授各自为政。相比之下，"一般组织"有统一的领导层、清晰的战略目标和对外问责机制([[Argument_Zapp_2022_Springer|Zapp, 2022, p.148]])
-- 2009 年 Musselin 进一步将大学转型描述为从"特定组织"到"正常组织"，甚至到"赋权组织"（empowered organizations）的演进——大学不仅获得了组织性，而且被赋予了更广泛的自主决策权和社会期待([[Argument_Zapp_2022_Springer|Zapp, 2022, p.148]])
-
-### 能动者身份的系统化与全球化
-
-这一脉络将组织能动者身份从大学语境扩展到全球组织分析的宏观框架，并最终形成系统化的四维度模型。
-
-- Ramirez (2006) 从[[World Society Theory|世界社会理论]]视角论证大学的理性化（rationalization）趋势：大学日益通过使命陈述、品牌营销和形式结构改革寻求独特身份，但实质上在全球范围内趋同于一种标准化组织形态。这一表面"求异"实则"趋同"的悖论是世界社会理论的核心发现之一([[Argument_Zapp_2022_Springer|Zapp, 2022, p.148]])
-- 2015 年 Bromley & Meyer 在 *Hyper-Organization* 中将 actorhood 概念系统化，提出四维度模型——自主性、目标导向、问责性、社会嵌入性——并将其置于全球组织扩张的宏观背景下。这一模型将 actorhood 从一个描述性概念升级为具有分析力的理论框架，适用于大学、国际组织、NGO 等各类组织([[Argument_Zapp_2022_Springer|Zapp, 2022, p.148]])
+> [!boundary]- 概念边界
+> - 不等于 [[Otherhood]] — 组织行动者地位描述组织作为自身利益与目标的主体能动性；otherhood 是其衍生形态，特指组织为外部“他者”（如社会弱势群体、全球环境、抽象科学原则）行使代理权的制度化过程。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 149)]]
+> - 不等于 [[Entrepreneurial University|创业型大学]] — 创业型大学侧重于高校对市场机遇的追逐与收入来源的商业化多元扩展；组织行动者地位涵盖面更宽，包含社会公信力、公共问责与可持续公民身份等非经济维度。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 148)]]
+> - 不等于 [[Complete Organisation|完整组织]] — 完整组织聚焦认同、层级与理性三大内部结构构件的齐备；组织行动者地位更偏向组织在外部环境与制度[[Champ|场域]]中获得的能动主体合法性。
 
 ---
 
-> [!abstract] 核心要素
-> 根据 Bromley and Meyer (2015)，组织能动者身份包含四个核心维度([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.148]])：
-> - **自主性（autonomy）** 大学拥有独立的决策权，能够定义自身目标和战略方向。传统欧洲大学是政府行政系统的延伸——预算由教育部拨付、人事由政府任命、课程由国家规定。现代大学则像独立法人：自行设定战略规划、自主筹集经费、独立做出学术和人事决策。例：一所现代大学的校长可以制定"五年进入 THE 排名前 100"的战略目标，而不是等待教育部的年度指令
-> - **目标导向（goal-orientation）** 大学主动设定和追求可测量的目标，而非被动响应外部指令。这不同于传统的学术好奇驱动——大学管理者思考的是"我们的[[Research Impact\|研究影响力]]指标如何提升""我们的国际化程度是否达标"，而不是"教授们对什么感兴趣"。例：越来越多大学将[[Research Problem\|研究议题]]有意识地与 [[UN Sustainable Development Goals\|SDGs]] 对齐，这不是因为某个教授的好奇心，而是大学的组织性战略决策([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.150–151]])
-> - **问责性（accountability）** 大学对其行为和绩效承担责任，接受外部评估和排名。这体现在研究评估体系（如英国 REF 中的"影响"权重持续增加）、[[Global Universities Rankings\|全球大学排名]]（[[THE Impact Ranking]]、[[Academic Ranking of World Universities\|ARWU]]、THE-WUR）、以及大学 CSR 报告的发布([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.146–147, 152–153]])
-> - **社会嵌入性（social embeddedness / citizenship）** 大学对多元利益相关者和社会议题保持开放，将社会参与纳入组织身份。在大学语境中集中表现为 [[University Social Responsibility]]——涵盖就业政策（雇员权利、多样性、工作生活平衡）、校园建设（能源、水、交通、废物的可持续管理）、以及将校园改造为"活实验室"（living laboratory）和"可持续发展试验台"([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.149, 152–153]])
-
-> [!example|notitle]
-> 传统大学与现代大学的对比清晰展示了这四个维度的转变：
-> - 传统教授："我的研究由好奇心驱动，不需要向任何人解释为什么重要。"
-> - 现代大学管理者："我们制定了五年战略规划（目标导向），目标是 THE 排名前 100（问责性），为此董事会批准了专项预算（自主性），并承诺发布年度社会责任报告、将校园碳排放降至零（社会嵌入性）。"（基于 Zapp, 2022, pp.148–149）
+> [!contrast-table|notitle] 概念辨析
+> | 维度 | 组织行动者地位（Organizational Actorhood） | 组织化无政府状态（[[Organised Anarchy]]） | 创业型大学（[[Entrepreneurial University]]） |
+> |------|-------------------------------------------|------------------------------------------|----------------------------------------------|
+> | 分析对象 | 获得统一决策与对外责任能力的现代组织形态 | 偏好模糊、技术不明确与流动参与的传统高校 | 积极利用外部市场机遇重构治理的革新高校 |
+> | 核心动因 | 世界社会理性化文化扩散与公共问责驱动 | 知识探索专业属性与松散联盟历史惯性 | 应对政府财政缩减与商业化[[Technology Transfer\|技术转移]]需求 |
+> | 治理表征 | 自主战略规划、使命宣示与品牌形象塑造 | 垃圾桶决策模型与自发妥协 | 强有力的驾驭核心与多元化的资助渠道 |
+> | 适用范围 | 大学、跨国非政府组织及公共部门的普遍转型 | 20 世纪 70 年代大学与复杂专业组织 | 处于高新技术产业带与市场竞争前沿的高校 |
 
 ---
 
-> [!tip] 理论基础
-> - [[World Society Theory]] — 组织能动者身份是世界社会理论的核心概念之一，用于解释在全球[[Cultural Models\|文化模型]]扩散过程中，各类组织（包括大学）如何获得标准化但同时又寻求独特性的组织身份（Bromley & Meyer, 2015）
-> - [[Otherhood]] — otherhood 是能动者身份在大学语境中的特殊表现形式：大学作为"他者"为其他行动者和社会目标行使代理权（Meyer & Jepperson, 2000）
+> [!feature] 核心要素
+> - **自主性（Autonomy）** 组织拥有独立的法定法人地位与战略决断权，能够自主界定发展目标与优先次序。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 148)]]
+> - **目标导向（Goal-orientation）** 组织主动设定中长期可测量的绩效愿景（如学科排名突破、[[UN Sustainable Development Goals|可持续发展目标]]对接），而非被动遵从行政指令。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 150–151)]]
+> - **问责性（Accountability）** 组织对自身行为和办学产出承担正式责任，主动向资助方、认证机构与社会公众公开质量报告与财务审计。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 146–147)]]
+> - **社会嵌入性（Social Embeddedness）** 将[[Global Citizenship|全球公民身份]]与社会责任内化为组织使命，主动参与气候行动、平等雇佣与社区治理。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 152–153)]]
+
+> [!logic-map]- 要素关系
+> ```mermaid
+> flowchart TD
+>     subgraph Dimensions["组织行动者地位四大构件 (Bromley & Meyer, 2015)"]
+>         AU["自主性 (Autonomy)<br>法定独立与战略决断"]
+>         GO["目标导向 (Goal-Orientation)<br>愿景设定与指标追求"]
+>         AC["问责性 (Accountability)<br>绩效透明与合规审查"]
+>         SE["社会嵌入性 (Embeddedness)<br>公民身份与社会责任"]
+>     end
+>     Dimensions --> Actor["形成对外统一的战略行动者形态"]
+>     Actor --> External["宏观对外宣示：品牌塑造与形象公关"]
+>     Actor -.->|"落地实践遭遇障碍"| Tension["战略落地赤字 (Maassen & Stensaker, 2019)"]
+>     Tension --> Fragment["基层院系自主脱钩与横向协调摩擦"]
+> ```
 
 ---
 
-> [!success] 实证发现
-> - 对大学使命与愿景陈述、品牌营销和形式结构改革的分析显示，大学在寻求独特身份的同时，在全球范围内正在实质性地趋同于一种标准的组织形态——表面"求异"，实则"趋同"，这是组织能动者身份全球扩散的核心证据（Zapp et al., forthcoming，引自 Zapp, 2022, p.148）
-> - 大学-社会关系正变得更加渗透性（permeable），传统的"象牙塔"模式日益失去合法性。大学不再能仅以"追求真理"为由与社会保持距离——它被期待说明其研究如何惠及纳税人、如何应对气候变化、如何促进社会公正([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.149]])
-> - 2005 年 Carnegie Foundation 引入社区参与分类（community engagement classification），标志着大学社会嵌入性在美国高等教育中的正式制度化（Driscoll, 2009，引自）
-> - [[UN Sustainable Development Goals\|SDGs]] 为大学的组织能动者身份提供了全球性"演练场"：大学通过四种机制——研究对齐、教学对齐、内部政策对齐和网络对齐——系统性地将组织议程与全球治理目标绑定，详见 [[Argument_Zapp_2022_Springer#第四步：SDGs 作为催化剂——四种嵌入机制|Zapp (2022)]]([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.150–154]])
-> - Zapp and Lerch (2020) 分析全球近 465,000 个学位项目，识别出 22,451 个具有明确国际取向——全球治理、国际发展、比较法、[[Intercultural Education|跨文化教育]]等。这不仅是教学内容的更新，更是大学将自身重新定位为全球治理行动者的结构性证据([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.152]])
+> [!concept-proposition] 命题一｜世界社会理性化进程驱动公共机构在全球范围内趋同性演进为标准化的组织行动者
+> **全球[[Cultural Models|文化模型]]的扩散效应** 探讨[[World Society Theory|世界社会理论]]视阈下现代大学如何超越本土行政依附，借由采纳通用的战略管理工具获得行动者合法性。
 
-> [!info] 核心数据
-> - 全球 **200+ 所**大学发布 CSR/可持续发展报告，大多数在过去 **5 年内**首次发布（Corporate Register, 2019，引自 [[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.152–153]]）
-> - 全球 **465,000 个**学位项目中 **22,451 个**具有国际取向（Zapp & Lerch, 2020，引自 [[Argument_Zapp_2022_Springer\|Zapp, 2022, p.152]]）
-> - **185 个**大学协会/元组织，大多数在过去 **二十年**成立（Brankovic, 2018，引自 [[Argument_Zapp_2022_Springer\|Zapp, 2022, p.153]]）
+> [!claim] Krücken, G. & Meier, F.; Ramirez, F. O.
+> **理性化转型与表面求异实则趋同** 在全球化压力与[[New Public Management|新公共管理]]改革推动下，传统依靠国家拨款与学者自治的欧洲大学普遍被重塑为自主行动者；大学通过确立正式使命陈述、形象定位与绩效评估体系来宣示其独特性，但这一表面求异的实践在实质上使全球大学趋同于同一种标准化的现代组织模型。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 148)]]
 
 ---
 
-> [!warning] 争议与批评
-> - **[[Neoliberalism|新自由主义]]批判视角** 许多批判性研究将大学对上述压力的反应视为在新自由主义公共缩减时代向创业主义和管理主义的绝望转向（Clark, 1998; Deem, 2001; Olssen & Peters, 2005），认为私有化、产业联系、国际招聘和兼职合同等结构改革确实源自新自由主义模板([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.148]])
-> - **[[World Society Theory\|世界社会理论]]视角的回应** Zapp 承认上述批判的有效性，但认为更深刻的转型正在发生——大学正从根本上被重新概念化，从公共行政的特定单位转变为具有自我身份和策略的组织行动者
+> [!concept-proposition] 命题二｜战略行动者地位的确立并不保证组织战略的有效落实，宏观宣示与微观实践易衍生深层张力
+> **战略定位与落地赤字的脱节机制** 探讨现代大学在构建对外战略行动者形象时，与内部多学科异质实践之间的结构性摩擦。
+
+> [!claim] Maassen, P. & Stensaker, B.
+> **拥有战略不等于战略落地** 大学管理者高度热衷于通过全校性战略规划与公关宣传向外部环境展现其统一行动者地位，但战略愿景的对外展示并不能自发转化为基层的协同行动；由于校级领导层缺乏跨越学术院系与专业行政部门间壁垒的统筹手段，纵向控制的推进反而加剧了横向协调赤字，使组织行动者地位停留在宏观象征层面。[[Argument_Maassen_Stensaker_2019_HEQ|(Maassen & Stensaker, 2019, pp. 457, 459, 463)]]
 
 ---
 
-> [!example] 相关案例／政策
-> - [[UN Sustainable Development Goals]] — SDGs 为大学的组织能动者身份（尤其是社会嵌入性维度）提供了全球性议程框架
-> - [[THE Impact Ranking]] — THE 影响力排名将大学的社会嵌入性和[[Global Citizenship\|全球公民]]身份转化为可量化的排名指标
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **制度扩散命题** | 大学为获取合法性普遍将行动者四大构件内化并走向全球形态趋同 | 欧洲[[Bologna Process\|博洛尼亚进程]]与全球高等教育理性化转型 | Krücken & Meier; Ramirez; Bromley & Meyer |
+> | **落地赤字命题** | 对外战略行动者定位与内部微观执行脱节，战略宣示未能弥合横向协调摩擦 | 推进法人化与绩效问责的公立[[Research Universities\|研究型大学]] | Maassen & Stensaker |
 
 ---
+
+> [!dev-timeline] 概念演变
+> - **2006 — 大学行动者理论化** Krücken 与 Meier 提出欧洲大学向组织行动者转型的理论框架，关注其统一决策与自我管理能力的获得。
+> - **2007–2009 — 特定组织走向赋权组织** Musselin 区分大学作为国家下属“特定组织”与拥有自主战略权的“赋权组织”，刻画其脱离传统行政附庸的历程。
+> - **2015 — 四维度模型系统化** Bromley 与 Meyer 在《超组织》（*Hyper-Organization*）中将行动者地位提炼为自主性、目标导向、问责性与社会嵌入性四维通用架构。
+> - **2019 — 战略落实反思** Maassen 与 Stensaker 实证指出拥有战略不等于落实战略，揭示组织行动者地位在内部横向协调赤字面前的象征性局限。[[Argument_Maassen_Stensaker_2019_HEQ|(Maassen & Stensaker, 2019, p. 459)]]
+> - **2022 — 大学的社会责任扩展** Zapp 追踪当代大学如何将行动者身份扩展为涵盖[[University Social Responsibility|大学社会责任]]（USR）与可持续发展目标的社会嵌入形态。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 148–153)]]
+
+---
+
+> [!debates|notitle] 学术争议
+>
+> > [!axis] 实质行动力提升 vs 仪式化象征展示
+> > 学界围绕大学获得的组织行动者地位究竟增强了管理效能还是沦为公关外壳存在争论。
+> >
+> > - **组织赋权论者（Musselin, 2009; Bromley & Meyer, 2015）** 主张行动者地位使大学具备应对市场与复杂社会挑战的敏捷决断能力。
+> > - **制度脱钩批评者（[[Argument_Maassen_Stensaker_2019_HEQ|Maassen & Stensaker, 2019]]）** 指出对外宣称的战略行动力掩盖了内部学科部落与行政专门化之间的深层断裂，战略往往沦为无法穿透基层的公关符号。[[Argument_Maassen_Stensaker_2019_HEQ|(Maassen & Stensaker, 2019, p. 459)]]
+
+> [!warning|limits] 适用局限
+> 该概念侧重于宏观[[Institutional Isomorphism|制度同构]]与组织对外呈现的社会角色，在深入分析微观院系内部学者基于学科认同与非正式人际网络展开的日常抵抗时，解释颗粒度较为宏观。
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Complete Organisation]] | 概念 | 为组织行动者地位提供内部认同、层级与理性构件的结构性对应范式。[[Argument_Maassen_Stensaker_2019_HEQ\|(Maassen & Stensaker, 2019, p. 457)]] |
+> | [[De-coupled Bureaucracy]] | 概念 | 揭示大学追求战略行动者地位过程中出现的行政与学术脱钩样态。[[Argument_Maassen_Stensaker_2019_HEQ\|(Maassen & Stensaker, 2019, pp. 456–468)]] |
+> | [[Entrepreneurial University]] | 概念 | 组织行动者地位在高等教育市场化拓展中的先导形态。 |
+> | [[New Public Management]] | 概念 | 推动大学建立独立行动者地位并实行目标问责的公共治理思潮。 |
+> | [[Organised Anarchy]] | 概念 | 组织行动者模式试图取代的传统大学权力分散形态。 |
+> | [[Otherhood]] | 概念 | 组织行动者代表第三方或抽象全球价值行使代理权的制度化形态。[[Argument_Zapp_2022_Springer\|(Zapp, 2022, p. 149)]] |
+> | [[University Social Responsibility]] | 概念 | 组织行动者地位在社会嵌入与可持续公民身份维度的关键表达。[[Argument_Zapp_2022_Springer\|(Zapp, 2022, pp. 149–153)]] |
+> | [[Cultural Models]] | 理论 | 规范与指导大学演变为标准化行动者的世界社会文化图式。 |
+> | [[Loosely Coupled Systems]] | 理论 | 解释为何大学难以通过简单的行动者建构消除结构松散性的理论基准。 |
+> | [[World Society Theory]] | 理论 | 阐明组织行动者身份在全球跨国扩散与形态趋同的宏观解释框架。 |
+> | [[Comparative Case Study]] | 方法 | 考察不同国别大学战略行动力与实际协调赤字质性差异的比较设计。[[Argument_Maassen_Stensaker_2019_HEQ\|(Maassen & Stensaker, 2019, pp. 459–460)]] |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Zapp_2022_Springer|Zapp (2022)]] — 结合全球大学社会责任报告与可持续发展实践，系统阐发组织行动者地位的四维度模型及其在高等教育中的演进轨迹（pp. 146–153）。
+> - [[Argument_Maassen_Stensaker_2019_HEQ|Maassen and Stensaker (2019)]] — 考察 5 国领先公立大学在追求战略行动者地位（Strategic Actorhood）与品牌塑造过程中的协调困境，揭示拥有战略与落地执行之间的深层脱钩（pp. 457–468）。
