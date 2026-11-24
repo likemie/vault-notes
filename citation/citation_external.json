@@ -13042,7 +13042,6 @@
     "John Hattie (2009)": "John Hattie, 2009",
     "John Hattie (2010)": "John Hattie, 2010",
     "John Hattie (2011)": "John Hattie, 2011",
-    "John Hattie (2017)": "John Hattie, 2017",
     "John Hattie, 1992": "John Hattie, 1992",
     "John Hattie, 2003": "John Hattie, 2003",
     "John Hattie, 2005": "John Hattie, 2005",
@@ -13050,7 +13049,6 @@
     "John Hattie, 2009": "John Hattie, 2009",
     "John Hattie, 2010": "John Hattie, 2010",
     "John Hattie, 2011": "John Hattie, 2011",
-    "John Hattie, 2017": "John Hattie, 2017",
     "John Hobson (2007)": "John Hobson, 2007",
     "John Hobson, 2007": "John Hobson, 2007",
     "John Kenneth Galbraith (1973)": "John Kenneth Galbraith, 1973",
@@ -23331,10 +23329,6 @@
     "Scott (2010a)": "Scott, 2010a",
     "Scott (2010b)": "Scott, 2010b",
     "Scott (2013)": "Scott, 2013",
-    "Scott Eacott (2017)": "Scott Eacott, 2017",
-    "Scott Eacott (2019)": "Scott Eacott, 2019",
-    "Scott Eacott, 2017": "Scott Eacott, 2017",
-    "Scott Eacott, 2019": "Scott Eacott, 2019",
     "Scott et al. (2004a)": "Scott et al., 2004a",
     "Scott et al. (2004b)": "Scott et al., 2004b",
     "Scott et al. (2011)": "Scott et al., 2011",
@@ -125511,21 +125505,6 @@
       ],
       "title": ""
     },
-    "John Hattie, 2017": {
-      "aliases": [
-        "John Hattie, 2017",
-        "John Hattie (2017)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "John Hattie, 2017"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/educational-leadership-administration/Cult of the Guru.md"
-      ],
-      "title": ""
-    },
     "John Hobson, 2007": {
       "aliases": [
         "John Hobson, 2007",
@@ -200440,36 +200419,6 @@
       "seen_in": [
         "wiki/concepts/university-industry-collaboration/Innovation Ecosystem.md",
         "wiki/facts/us/California Master Plan for Higher Education.md"
-      ],
-      "title": ""
-    },
-    "Scott Eacott, 2017": {
-      "aliases": [
-        "Scott Eacott, 2017",
-        "Scott Eacott (2017)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Scott Eacott, 2017"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/educational-leadership-administration/Cult of the Guru.md"
-      ],
-      "title": ""
-    },
-    "Scott Eacott, 2019": {
-      "aliases": [
-        "Scott Eacott, 2019",
-        "Scott Eacott (2019)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Scott Eacott, 2019"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/educational-leadership-administration/Cult of the Guru.md"
       ],
       "title": ""
     },

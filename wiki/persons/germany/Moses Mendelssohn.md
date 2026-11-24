@@ -42,10 +42,11 @@ related_persons:
   - "[[Johann Gottfried von Herder]]"
 related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch01]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch02]]"
 confidence: high
 status: active
 created: "2026-11-14"
-updated: 2026-11-21
+updated: 2026-11-24
 ---
 
 ---
@@ -104,7 +105,7 @@ updated: 2026-11-21
 > - **批判哲学与浪漫派先声** 其“赞许能力”直接成为[[Immanuel Kant|康德]]“无功利愉悦”的先驱；素朴概念深刻影响了席勒对素朴诗的界定；自然符号与任意符号的艺术分类被莱辛（Gotthold Ephraim Lessing）和赫尔德（[[Johann Gottfried von Herder|Johann Gottfried Herder]]）继承改造。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 18)]]
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 将门德尔松定位为理性主义形而上学与古典主义美育之间的关键枢纽，分析其情感转向在争取艺术自主性上的得失。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]分析其情感转向在争取艺术自主上的得失；[[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]考订其赞许能力对康德无利害快感的思想史谱系贡献。
 
 ---
 

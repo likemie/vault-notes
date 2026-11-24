@@ -8,7 +8,7 @@ cssclasses:
   - person-page
 nationality: greece
 person_region: "greece"
-person_related_count: 30
+person_related_count: 31
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -61,10 +61,11 @@ related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch01]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch05]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch08]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch02]]"
 confidence: high
 status: active
 created: 2026-07-25
-updated: 2026-11-21
+updated: 2026-11-24
 ---
 
 ---
@@ -116,11 +117,11 @@ updated: 2026-11-21
 > - **理论路径** 确立了目的论伦理学、[[Phronesis|实践智慧]]与[[Habituation|习惯化]]德性教育传统，深刻塑造了西方古典至现代共和主义政治与教育哲学。
 > - **通识课程坐标** 在哥伦比亚、芝加哥、斯坦福等名校“名著课程”（Great Books）与西方文明必修课中作为核心必读文本；在20世纪60年代后成为[[Canon Wars|经典之争]]中反思课程大纲编辑特权与宗派主义的经典案例。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, p. 88)]]
 > - **[[Critical Pedagogy|批判教育学]]反思** 后世[[Critical Pedagogy|批判教育学]]派（如[[John Dewey|杜威]]与[[Paulo Freire|弗莱雷]]）指出，亚里士多德将教育限定于适应既有社会阶层与权威指令，缺乏对社会不公的批判与变革能力（[[Argument_Darwish_2009_Queens|Darwish, 2009, pp. 4–5]]）。
-> - **[[Philosophical Aesthetics|美学]]与诗学接受** 亚里士多德《诗学》中的“易观性”（*eusynopton*，即适于感官一眼纵览与心智通盘把握的适度规模）被18世纪德国美学家[[Moses Mendelssohn|门德尔松]]重申，确立为美依存于人类尺度的知觉判据（[[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister, 2002, p. 15]]）；[[Georg Wilhelm Friedrich Hegel|黑格尔]]在美学讲演中对《诗学》的“[[Catharsis|卡塔西斯]]”作理性主义解读，后世[[Karl Rosenkranz|罗森克兰茨]]亦承接《诗学》（1448b）“丑物若经成功[[Mimesis|摹仿]]亦可生快感”的命题推进[[Aesthetics of Ugliness|丑的美学]]探讨（[[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister, 2002, pp. 94–96, 105]]）。
+> - **[[Philosophical Aesthetics|美学]]与诗学接受** 亚里士多德《诗学》中的“易观性”（*eusynopton*，即适于感官一眼纵览与心智通盘把握的适度规模）被18世纪德国美学家[[Moses Mendelssohn|门德尔松]]重申，确立为美依存于人类尺度的知觉判据（[[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister, 2002, p. 15]]）；康德在第三批判（§48）中亦沿循其摹仿丑陋题材（如复仇女神、战祸）可化为美的诗学洞见（[[Argument_Hammermeister_2002_Cambridge_Ch02|Hammermeister, 2002, p. 27]]）；[[Georg Wilhelm Friedrich Hegel|黑格尔]]在美学讲演中对《诗学》的“[[Catharsis|卡塔西斯]]”作理性主义解读，后世[[Karl Rosenkranz|罗森克兰茨]]亦承接《诗学》（1448b）“丑物若经成功[[Mimesis|摹仿]]亦可生快感”的命题推进[[Aesthetics of Ugliness|丑的美学]]探讨（[[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister, 2002, pp. 94–96, 105]]）。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|Karp and Zamiska (2025)]] — 以图斯曼“为何选柏拉图而不选亚里士多德”之问为例，剖析 1960 年代高校通识正典大纲选目的武断性与合法性危机（p. 88）。
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 析《诗学》在德国美学史的回响：[[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]论易观性对门德尔松的影响；[[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]析黑格尔与罗森克兰茨对卡塔西斯与丑论的改造；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析[[Ernst Cassirer|卡西尔]]与[[Georg Lukács|卢卡奇]]对摹仿的吸纳。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 析《诗学》在德国美学史的回响：[[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]易观性、[[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]康德论描摹丑题材、[[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]黑格尔与丑的美学、[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]卡西尔论摹仿。
 
 ---
 

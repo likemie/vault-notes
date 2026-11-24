@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 34
+person_related_count: 35
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -60,12 +60,13 @@ related_persons:
 related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch06]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch07]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch02]]"
 related_facts:
   - "[[Philosophy of Art]]"
 confidence: high
-status: draft
+status: active
 created: "2026-11-15"
-updated: 2026-11-21
+updated: 2026-11-24
 ---
 
 ---
@@ -120,13 +121,13 @@ updated: 2026-11-21
 > - **艺术创作与现代主义传播** 深刻塑造了 19 至 20 世纪跨语种作家、画家与作曲家的自我理解，包括弗里德里希·黑贝尔（Friedrich Hebbel）、奥古斯特·斯特林堡（August Strindberg）、托马斯·哈代（Thomas Hardy）、埃米尔·左拉（Émile Zola）、马塞尔·普鲁斯特（Marcel Proust）、托马斯·曼（Thomas Mann）、埃德加·爱伦·坡（Edgar Allan Poe）、夏尔·波德莱尔（Charles Baudelaire）、斯特凡·马拉美（Stéphane Mallarmé）、约瑟夫·康拉德（Joseph Conrad）、安德烈·纪德（André Gide）、罗伯特·穆齐尔（Robert Musil）、塞缪尔·贝克特（Samuel Beckett）、W. B. 叶芝（W. B. Yeats）、豪尔赫·路易斯·博尔赫斯（Jorge L. Borges）、托马斯·伯恩哈德（Thomas Bernhard）、阿尔诺·施密特（Arno Schmidt）、欧仁·德拉克罗瓦（Eugène Delacroix）、[[Richard Wagner|理查德·瓦格纳]]（Richard Wagner）、阿诺德·勋伯格（Arnold Schönberg）、谢尔盖·普罗科菲耶夫（Sergey Prokofiev）与尼古拉·里姆斯基-科萨科夫（Nikolay Rimsky-Korsakoff）。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, p. 111)]]
 > - **哲学美学传统** 在学术哲学界影响相对孤立，主要通过[[Friedrich Nietzsche|弗里德里希·尼采]]（Friedrich Nietzsche）的批判性改写延续生命力：尼采在《悲剧的诞生》中借用叔本华的本体不可知论限制科学乐观主义，晚期则表面抨击康德无利害、实则瞄准叔本华将艺术视为逃离意志之避世万灵药的立场；同时其重主观体验轻作品客体的倾向提前预示了 19 世纪下半叶印象派绘画的主观化浪潮。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 111, 126)]]; [[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, pp. 138, 141–142, 146)]]
 
-> [!evidence-grid] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch06|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch06|第 6 章]]定位其为唯心论美学怀疑论终结者并剖析内在张力；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]析尼采早晚期对其[[Epistemology|认识论]]与避世艺术观的借用与反击。
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Hammermeister_2002_Cambridge_Ch06|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]考订柏拉图秘传摹仿与康德无利害快感对其先声启迪；[[Argument_Hammermeister_2002_Cambridge_Ch06|第 6 章]]定位其怀疑论终结者角色；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]析尼采借用与反击。
 
 ---
 
 > [!person-network] 关系网络
-> - **哲学渊源与对话** [[Immanuel Kant]] — 自诩康德的真正继承者，吸收无利害鉴赏与[[Epistemology|认识论]]主体条件，却将范畴简化为充足理由律并反叛康德的音乐低位论；[[Friedrich Wilhelm Joseph Schelling]] — 延续艺术认知高于哲学的浪漫派立场，但将自然的目的论精神驱动逆转为盲目痛苦的循环；[[Plato]] — 借用“柏拉图理念”指称意志客体化的经验层级，但拒绝单个事物对应单个理念。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 112–116, 119, 124)]]
+> - **哲学渊源与对话** [[Immanuel Kant]] — 自诩康德的真正继承者，吸收无利害鉴赏与[[Epistemology|认识论]]主体条件，却将范畴简化为充足理由律并反叛康德的音乐低位论；[[Friedrich Wilhelm Joseph Schelling]] — 延续艺术认知高于哲学的浪漫派立场，但将自然的目的论精神驱动逆转为盲目痛苦的循环；[[Plato]] — 借用“柏拉图理念”指称意志客体化的经验层级，受其直接洞见理念的“秘传摹仿”启发建构艺术真理观[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 22, 219 n.1)]]。
 > - **论敌与批判对象** [[Georg Wilhelm Friedrich Hegel]] — 强烈抨击黑格尔哲学的晦涩与历史主义，拒斥历史作为有效哲学范畴；[[Johann Gottlieb Fichte]] — 严厉批评费希特的[[Intellectual Intuition|理智直观]]概念，却在美学语境中暗中借用天才的直观能力。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 112, 120, 125)]]
 > - **继承与回应** [[Friedrich Nietzsche]] — 作为最具独创性的评论者继承并改造叔本华的意志与悲剧美学，服务于自身的生命哲学议程。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, p. 111)]]
 

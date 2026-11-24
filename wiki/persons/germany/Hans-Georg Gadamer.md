@@ -4,13 +4,13 @@ aliases:
   - 汉斯-格奥尔格·伽达默尔
   - 伽达默尔
   - Gadamer, H.-G.
-summary: "20 世纪德国哲学诠释学核心奠基者，承接黑格尔艺术对话原则与海德格尔事实性诠释学，通过批判康德式审美意识、提出游戏与视域融合及秩序模仿，将美学消融于哲学诠释学。"
+summary: "20 世纪德国哲学诠释学创立者，承接黑格尔艺术对话原则与海德格尔事实性诠释学，通过批判康德式审美意识、提出游戏与视域融合及秩序模仿，将美学消融于哲学诠释学。"
 type: person
 cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 15
+person_related_count: 16
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -44,10 +44,11 @@ related_facts: []
 related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch05]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch09]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch02]]"
 confidence: high
 status: active
 created: "2026-11-15"
-updated: 2026-11-16
+updated: 2026-11-24
 ---
 
 ---
@@ -55,7 +56,7 @@ updated: 2026-11-16
 > [!person-profile] 人物档案
 > - **身份位置** 20 世纪德国哲学家（1900–2002），当代哲学诠释学创立者，海德格尔的学生，曾任海德堡大学哲学讲席教授。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 97)]]; [[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, p. 189)]]
 > - **核心角色** 承接黑格尔艺术对话原则与海德格尔事实性诠释学，批判康德主观主义审美意识，将美学消融于以理解与视域融合为核心的哲学诠释学。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 89, 97, 103)]]; [[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 189–193)]]
-> - **代表贡献** 提出一切艺术的本质同时性、[[Aesthetic Nondifferentiation|审美无区分]]与[[Fusion of Horizons|视域融合]]，出版哲学诠释学奠基名著《真理与方法》（1960）。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 189–192)]]
+> - **代表贡献** 提出一切艺术的本质同时性、[[Aesthetic Nondifferentiation|审美无区分]]与[[Fusion of Horizons|视域融合]]，出版哲学诠释学代表作《真理与方法》（1960）。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 189–192)]]
 
 > [!citation-card] 哈默迈斯特论伽达默尔的诠释学美学
 > 伽达默尔将艺术体验确立为哲学诠释学的典范；他坚决反对将艺术作品从其历史与世界联系中抽离出来的孤立审美意识，主张理解艺术就是参与一场真正的对话，在视域融合中使存在真理显现。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 189–192)]]
@@ -103,12 +104,15 @@ updated: 2026-11-16
 > - **理论路径** 创立当代哲学诠释学，深刻重塑了人文学科方法论、法学解释学、文学批评理论与宗教诠释学。
 > - **美学与艺术史路径** 其游戏理论、审美无区分与视域融合说，成为接受美学（姚斯、伊瑟尔）与当代艺术史解释学的核心思想基石。
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — 梳理伽达默尔美学：[[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]痛斥康德割裂艺术与真理；[[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]析黑格尔对话原则转化；[[Argument_Hammermeister_2002_Cambridge_Ch09|第 9 章]]论消融美学于诠释学。
+
 ---
 
 > [!person-network] 关系网络
 > - **思想渊源** [[Georg Wilhelm Friedrich Hegel|黑格尔]]、[[Martin Heidegger|马丁·海德格尔]] — 其哲学诠释学同时承接自黑格尔美学的对话原则与海德格尔的事实性诠释学及艺术真理观。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 97, 103)]]; [[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 179, 189)]]
 > - **当代呼应与对照** [[Arthur Danto|阿瑟·丹托]] — 均从黑格尔艺术终结论出发讨论现代艺术形式自由，展现对后历史艺术创作的积极理解。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 103)]]
-> - **哲学批判与对话** [[Immanuel Kant|康德]]、[[Plato|柏拉图]] — 批判康德将审美判断主观化并剥夺艺术认知地位，同时反转柏拉图对艺术本体论地位的贬低。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 189–190, 192)]]
+> - **哲学批判与对话** [[Immanuel Kant|康德]]、[[Plato|柏拉图]] — 在《真理与方法》中痛斥康德将审美判断主观化并切断艺术与真理的联系是美学史的巨大损失，致力于为艺术夺回认知与真理地位；同时反转柏拉图对艺术本体论地位的贬低。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 23, 40, 219 n.4)]]; [[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 189–190, 192)]]
 
 ---
 
@@ -136,8 +140,3 @@ updated: 2026-11-16
 > | [[Philosophical Hermeneutics\|哲学诠释学]] | 理论 | 创立以理解、视域融合与语言性为核心的普遍哲学诠释学。 |
 > | [[Georg Wilhelm Friedrich Hegel\|黑格尔]] | 人物 | 其艺术对话论断与现代创作自由为伽达默尔提供了理论起点。 |
 > | [[Martin Heidegger\|马丁·海德格尔]] | 人物 | 哲学师承，其事实性诠释学与艺术真理论直接启发哲学诠释学转向。 |
-
----
-
-> [!evidence-grid-a|notitle]
-> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — 梳理伽达默尔美学：[[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]析黑格尔对话原则转化；[[Argument_Hammermeister_2002_Cambridge_Ch09|第 9 章]]论审美意识批判与视域融合。

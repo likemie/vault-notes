@@ -83,10 +83,11 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Nielsen_2021_IRTP]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch02]]"
 confidence: high
 status: completed
 created: 2026-06-13
-updated: 2026-11-15
+updated: 2026-11-24
 ---
 
 ---
@@ -165,11 +166,12 @@ updated: 2026-11-15
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp and Zamiska (2025)]] — 以合法化危机分析现代民主政体的治理公信力，论证其取决于国家能否提供安全、医疗与经济繁荣。
 > - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 以合法化危机理论解构《可见的学习》在丹麦教改中流行的政治经济根源。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1)]] — 教材第 1 章评述其对实证主义与科学主义的批判；第 2 章（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al., 2011, Ch. 2]]）以三种知识构成性兴趣划分研究范式。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch02|Hammermeister (2002)]] — 结合弗兰克的诠释，指出康德审美判断要求普遍赞同的主观普遍性与哈贝马斯商谈伦理学主体间共识的理论亲缘（p. 220 n.11）。
 
 ---
 
 > [!person-network] 关系网络
-> - **思想前驱** [[Immanuel Kant|康德]] — 继承其先验理性、普遍伦理与世界公民观念，将其从个体内省转向主体间商谈。
+> - **思想前驱** [[Immanuel Kant|康德]] — 继承其先验理性、普遍伦理与世界公民观念，将其从个体内省转向主体间商谈；曼弗雷德·弗兰克亦指出其商谈伦理学寻求主体间共识的理路，与康德审美判断要求普遍赞同的主观普遍性机制存在深刻理论渊源[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, p. 220 n.11)]]。
 > - **师承** 霍克海默与阿多诺 — 导师与思想策源地；继承其[[Ideology Critique|意识形态批判]]，但克服了其绝望的文化悲观论。
 > - **继承与应用者** [[Stephen Kemmis|斯蒂芬·凯米斯]] — 将交往行动理论与知识兴趣说发展为批判性教育[[Action Research|行动研究]]；[[Klaus Nielsen|克劳斯·尼尔森]] — 运用合法化危机理论解构[[Evidence-Based Education|循证教育]]；[[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 运用合法化危机理论论证技术共和国中公共部门交付技术福利的紧迫性。
 > - **批评者／论敌** [[Jean-François Lyotard|利奥塔]]、福柯与德里达 — 围绕后现代解构主义与现代性启蒙理性的论战。

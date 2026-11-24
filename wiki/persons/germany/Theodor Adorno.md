@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 34
+person_related_count: 35
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -64,10 +64,11 @@ related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch01]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch05]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch08]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch02]]"
 confidence: high
 status: active
 created: "2026-11-15"
-updated: 2026-11-21
+updated: 2026-11-24
 ---
 
 ---
@@ -127,7 +128,7 @@ updated: 2026-11-21
 > - **文化研究与媒介批判路径** 与霍克海默提出的[[Culture Industry|文化工业]]概念成为大众文化批判与批判传播学的核心理论源头。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 梳理阿多诺美学：[[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]析单子论同构渊源；[[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]析摹仿与美丑反转；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析[[Georg Lukács|卢卡奇]]批判；[[Argument_Hammermeister_2002_Cambridge_Ch10|第 10 章]]系统重构其否定美学。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 梳理阿多诺美学：[[Argument_Hammermeister_2002_Cambridge_Ch01|第 1]]与[[Argument_Hammermeister_2002_Cambridge_Ch02|2 章]]析单子论同构与自然美复归；[[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]析摹仿与美丑；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析卢卡奇；[[Argument_Hammermeister_2002_Cambridge_Ch10|第 10 章]]重构否定美学。
 
 ---
 
