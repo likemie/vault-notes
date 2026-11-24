@@ -6,7 +6,7 @@ aliases:
 summary: "围绕证据本位教育（EBE）的认识论前提、方法论基础、实施效果和政治后果形成的多维度批评体系，涵盖民主缺陷、三重缺陷框架、方法论批评、制度政治批评及综合批判框架"
 type: concept
 domain: "educational-policy-reform"
-related_count: 95
+related_count: 96
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -93,6 +93,7 @@ related_facts:
   - "[[Education Endowment Foundation]]"
 related_arguments:
   - "[[Argument_Biesta_2010_SPE]]"
+  - "[[Argument_Brugelmann_2014_LocalPractice]]"
   - "[[Argument_Helgetun_2022_JEdPolicy]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Peterson_2016_IJRME]]"
@@ -119,7 +120,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-14
-updated: 2026-11-15
+updated: 2026-11-24
 ---
 
 ---
@@ -235,6 +236,9 @@ updated: 2026-11-15
 > [!claim] [[Argument_Cowen_2015_CHESS\|Cowen et al. (2015)]]; [[Argument_Nordahl_2015_Paideia\|Nordahl (2015)]]
 > **课堂转化的结构性障碍与黑箱机制** 学校无法“开箱即用”地直接套用证据清单，一线教学始终伴随高度情境化的调适与再发明；缺乏对底层因果机制的理解，机械照搬 Toolkit 效应量无法指导复杂的课堂生成性互动，[[New Public Management\|新公共管理]]式的强制推行反而引发一线阻抗。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 12–18)]]; [[Argument_Nordahl_2015_Paideia\|(Nordahl, 2015, pp. 63–67)]]
 
+> [!claim] [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014)]]
+> **均值陷阱、课程测不准原理与循证医学本义回归** 大样本统计均值无法直接导出指导微观课堂的确定性行动方案；将宏观比较优势硬性折算为教学禁令会陷入“均值陷阱”（Durchschnittsfalle），忽视干预内部极高的效应离散度与实施保真度差异。依据鲍尔斯费尔德的“课程测不准原理”，宏观全景视界与微观细节特写存在不可调和的尺度张力；同时，教育学对循证医学的移植严重背离了萨克特（David Sackett）的原初定义，后者明确将临床专长与患者价值观置于同外部证据平等的对等地位，唯有以教师为实验伙伴、以累积性个案研究为试金石，方能实现实践认识论回归。[[Argument_Brugelmann_2014_LocalPractice|(Brügelmann, 2014, pp. 38–47)]]
+
 > [!claim] [[Argument_Zhao_2017_JEC\|Zhao (2017)]]
 > **临床副作用盲点与多元教育价值挤压** EBE 照搬了医学[[Clinical Trial\|临床试验]]的干预概念，却系统性遗漏了医学对“副作用”的严密监测机制；任何教育干预在提升某一特定测验分数的同时，必然挤压非测验学科时间、增加师生焦虑或损害创新灵性，将教育简化为单一指标的局部最优会造成整体生态恶化。[[Argument_Zhao_2017_JEC\|(Zhao, 2017, pp. 2–5)]]
 
@@ -278,7 +282,7 @@ updated: 2026-11-15
 
 > [!dev-timeline] [[Evidence-Based Education\|循证教育]][[Critical Theory\|批判理论]]脉络演进
 > - **2004–2007 年 — 民主缺陷与哲学反思的萌芽** Hammersley 与 Biesta 发表《为何“什么有效”行不通》，首次提出“民主缺陷”概念，追问“为了什么目的”。
-> - **2010 年 — 三重[[Deficit Framing\|缺陷框架]]奠基** Biesta 正式确立知识缺陷、效力缺陷与应用缺陷的三重框架，将哲学批判拓展至存在论与实践论维度。[[Argument_Biesta_2010_SPE\|(Biesta, 2010, pp. 493–501)]]
+> - **2010 年 — 三重[[Deficit Framing\|缺陷框架]]确立** Biesta 正式确立知识缺陷、效力缺陷与应用缺陷的三重框架，将哲学批判拓展至存在论与实践论维度。[[Argument_Biesta_2010_SPE\|(Biesta, 2010, pp. 493–501)]]
 > - **2011–2016 年 — 方法论与[[Meta-analysis\|元分析]]危机诊断** [[Argument_Terhart_2011_JCS\|Terhart (2011)]] 揭示[[Meta-meta-analysis\|元-元分析]]的双重困境；[[Argument_Pampaka_2016_IJRME\|Pampaka et al. (2016)]] 主编 *IJRME* 专刊，诊断大规模 [[Randomised Controlled Trials\|RCT]] 干预未能识别大面积有效实践的“萎靡感”（malaise）。
 > - **2018–2019 年 — [[Critical Realism\|批判实在论]]重构与多学科围攻** *ERE* 专刊集中刊发批判论著：Wrigley 引入批判实在论揭示施为者悖论；Wiliam 从高德曼[[Epistemology\|认识论]]论证 EBE 原则上不可完成；Cowen 引入塔洛克官僚理论阐释程序韧性。[[Argument_Wrigley_2018_BERJ\|(Wrigley, 2018, pp. 6–15)]]; [[Argument_Wiliam_2019_ERE\|(Wiliam, 2019, pp. 7–10)]]; [[Argument_Cowen_2019_ERE\|(Cowen, 2019, pp. 110–115)]]
 > - **2022 年至今 — [[Evidence Era\|证据时代]]的[[Rationalized Myth\|合理化神话]]与 [[Policy-Based Evidence-Making\|PBEM]] 批判** [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] 确立“证据时代”分析[[Paradigm\|范式]]，引入组织社会学[[Institutional Isomorphism\|制度同构]]与适宜性逻辑，深度解构政府[[Gatekeepers\|守门人]]主导的基于政策证据制造反馈回路。

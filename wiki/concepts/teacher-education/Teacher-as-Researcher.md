@@ -7,7 +7,7 @@ aliases:
 summary: "由Stenhouse开创并经复杂性理论深化的教育研究范式，主张教师从知识消费者转向自身实践的知识生产者，在复杂自组织教育生态中与外部研究者形成共生探究网络。"
 type: concept
 domain: "teacher-education"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -55,6 +55,7 @@ related_persons:
   - "[[Paulo Freire]]"
   - "[[Stephen Kemmis]]"
 related_arguments:
+  - "[[Argument_Brugelmann_2014_LocalPractice]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
@@ -63,7 +64,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-07-19
-updated: 2026-10-29
+updated: 2026-11-24
 ---
 
 ---
@@ -75,7 +76,7 @@ updated: 2026-10-29
 > - **探究主体** 身处真实学校与课堂生态的一线教师、教育实践者及其[[Professional Learning Community\|专业学习共同体]]。
 > - **研究对象** 活生生的教学现场困境、师生微观互动、课程校本化生成、学习者认知阻碍与专业行动效果。
 > - **知识形态** 扎根于情境的[[Phronesis\|实践智慧]]（[[Praxis]]）、反思性校本行动理论与可被其他教育者借鉴的实践性知识。
-> - **实践边界** 绝非无系统记录的日常随想或直觉经验，而是包含明确证据收集、持续反思修正与同行评议的严谨探究；同时区别于外部行政力量主导的达标式绩效考核。
+> - **实践边界** 区别于缺乏系统记录的日常随想或直觉经验，强调包含明确证据收集、持续反思修正与同行评议的严谨探究；同时脱离外部行政力量主导的达标式绩效考核。
 
 > [!citation-card] Stenhouse 论教师即研究者对实践与理论的双重贡献
 > [[Action Research\|行动研究]]不仅应当对改善教学实践做出贡献，更应当贡献于一种能够为其他教师所获取和使用的教育与[[Didaktik\|教学理论]]，使整体教育实践变得更具反思性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|Cohen et al., 2011, Ch. 18, p. 263; Stenhouse, 1979]]
@@ -101,7 +102,7 @@ updated: 2026-10-29
 > | **核心追求** | 发展[[Professional Judgment\|专业判断]]与教学实效 | 赋权弱势群体、消除沟通壁垒 | 揭露并重构不平等的制度结构与阶级壁垒 |
 > | **理论基石** | [[Donald A. Schön\|舍恩]]行动中反思；Stenhouse 过程模式 | [[Paulo Freire\|弗莱雷]]意识觉醒；批判社会心理学 | [[Jürgen Habermas\|哈贝马斯]]交往理性与批判社会理论 |
 > | **赋权形态** | [[Teacher Professional Agency\|教师专业自主权]]与课程决策权 | 社群集体自治与社会资本增长 | 民主制度变革与社会正义实现 |
-> | **生态单位** | 教室、班级与教研微观[[Champ\|场域]] | 社区、学校联盟与区域生态 | 宏观教育政策、课程规约与制度体系 |
+> | **生态单位** | 教室、班级与教研微观[[Champ\|场域]] | 社区、学校联盟与区域生态 | 宏观教育政策、课程规范与制度体系 |
 
 ---
 
@@ -115,14 +116,14 @@ updated: 2026-10-29
 > - **前提一** 真实的教育情境充满独特性、不确定性与价值冲突，通用性的外部理论无法直接剪裁具体课堂的复杂挑战。
 > - **前提二** 教师在日常工作中积累了丰厚的[[Tacit Knowledge|默会知识]]，最能够敏锐洞察教学中的实质问题。
 > - **机制** 教师遵循怀特海德（Jack Whitehead, 1985）的自我反思循环——“我面临的问题是什么、我构想的解决途径是什么、我如何付诸实施并系统收集证据评估效能”，使反思从偶然的情感宣泄转化为严谨的经验[[Chain of Evidence\|证据链]]。
-> - **结论** 教师通过探究不仅解决了具体的教学难题，更提炼出扎根于本土情境的实践性理论（Living Educational Theory），确立了教师自身的学术与专业权威。
+> - **结论** 教师通过探究不仅解决了具体的教学难题，更提炼出扎根于本土情境的实践性理论（Living Educational Theory），确立了教师自身的学术与专业权威。汉斯·布吕格尔曼（Hans Brügelmann）进一步指出，一线实践经验与累积性个案研究直接构成检验宏观统计概率假说能否在具体课堂经受考验的试金石，由此确立了实践探究裁决外部理论假设的独立地位。[[Argument_Brugelmann_2014_LocalPractice|(Brügelmann, 2014, p. 46)]]
 
 > [!concept-proposition] 命题二｜[[Complexity Theory|复杂适应系统]]的自组织本质要求构建内外部研究者的共生伙伴网络
 
 [[Complexity Theory|复杂性理论]]为教师即研究者运动提供了全新的元理论支持（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1, p. 30）：
 
 > [!feature] 复杂性视阈下的共生研究网络
-> - **自组织秩序的内在要求** 学校是高度非线性的开放复杂适应系统（[[Chinese Academy of Sciences|CAS]]），其整体秩序在基层交互中自发[[Emergence\|涌现]]，绝非外部行政命令或自上而下的蓝图研究所能控制。
+> - **自组织秩序的内在要求** 学校是高度非线性的开放复杂适应系统（[[Chinese Academy of Sciences|CAS]]），其整体秩序在基层交互中自发[[Emergence\|涌现]]，脱离外部行政命令或自上而下蓝图研究所能单向掌控的边界。
 > - **摆脱外部干预的局限** 外部研究者以“客观旁观者”身份开展的控制实验，往往忽视了学校生态的全息连接与正负反馈，测量到的往往是去情境化的历史数据。
 > - **构建共生伙伴网络** 复杂性[[Paradigm\|范式]]要求大学专业研究人员走出象牙塔，与一线教师结成平等的共生合作关系；大学学者提供方法论反思工具与系统化梳理视角，一线教师提供真实情境动力学洞见，共同培育应对不确定教育世界的适应性探究文化。
 
@@ -173,7 +174,7 @@ updated: 2026-10-29
 > > [!axis] 专业智慧升华 vs 食谱式技术主义蜕化
 > > 争论焦点在于：教师研究如何避免沦为浅薄的教学小窍门罗列？
 > > 
-> > - **金奇洛的警示（Kincheloe, 2003, p. 108）** 教师即研究者绝非“烹饪食谱式技术诀窍”（Cookbook Remedies）的机械堆叠；教师必须将教学探究置于历史、文化与政治的广阔语境中，始终追问“教育究竟应当服务于谁的利益”。
+> > - **金奇洛的警示（Kincheloe, 2003, p. 108）** 教师即研究者明确区别于“烹饪食谱式技术诀窍”（Cookbook Remedies）的机械堆叠；教师必须将教学探究置于历史、文化与政治的广阔语境中，始终追问“教育究竟应当服务于谁的利益”。
 
 > [!critique] 批判索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|Cohen et al. (2011, Ch. 18, p. 276)]] — 系统记录反思性实践阵营与批判解放阵营对教师即研究者角色的本质分歧。
@@ -196,4 +197,5 @@ updated: 2026-10-29
 > | [[Stephen Kemmis]] | 人物 | 倡导批判性与[[Emancipatory Action Research\|解放性行动研究]]，警示教师个体化探究回避社会体制权力的局限。 |
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014, pp. 46–47)]] — 从循证医学原义与均值陷阱出发，将教师即研究者与累积性个案研究确立为检验大样本统计概率假说的终极试金石。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 30)]] — 将教师即研究者置于复杂性理论[[Paradigm\|范式]]下，阐释大学与一线的伙伴网络；其在行动研究谱系中的起源、影响与争议见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|Ch. 18]]。

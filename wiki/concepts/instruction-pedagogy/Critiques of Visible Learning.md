@@ -7,7 +7,7 @@ aliases:
 summary: "围绕 John Hattie Visible Learning 展开的批评谱系，集中讨论效应量排名、元-元分析、教学理论、教育哲学、可见性政治和商业化政策扩张等争议。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 182
+related_count: 183
 related_level: 18
 related_stars: "💎💎💎💎💎💎"
 related_color: "#ddd6fe"
@@ -179,6 +179,7 @@ related_facts:
   - "[[Corwin Press]]"
   - "[[Cognition Education]]"
 related_arguments:
+  - "[[Argument_Brugelmann_2014_LocalPractice]]"
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Bergeron_2017_MJE]]"
@@ -826,7 +827,7 @@ updated: 2026-11-24
 > | 命题类型 | 核心理论判定 | 关键分析机制与工具 | 代表学者 |
 > |---|---|---|---|
 > | **命题一：方法论假性精确与统计无效性** | 跨层二阶聚合与无加权简单平均制造了虚假的精确量化指标强制 | 6 步统计技术检验、Fisher $z$ 缺失、样本重叠 93%、数据复现率 <1% | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]；[[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]；[[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]]；[[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]；[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] |
-> | **命题二：教学理论空洞化与学科异质性抹杀** | 将复杂教学拆解为[[General Purpose Technology\|通用技术]]清单消解了学科教学理论与人文交往 | 教学论内容真空、常模工具表层偏向、外科手术与救援机械比附解构 | [[Argument_Terhart_2011_JCS\|Terhart (2011)]]；[[Argument_Qvortrup_2015_Paideia\|Qvortrup (2015)]]；[[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] |
+> | **命题二：教学理论空洞化与学科异质性抹杀** | 将复杂教学拆解为[[General Purpose Technology\|通用技术]]清单消解了学科教学理论与人文交往 | 教学论内容真空、常模工具表层偏向、外科手术与救援机械比附解构 | [[Argument_Terhart_2011_JCS\|Terhart (2011)]]；[[Argument_Brugelmann_2014_LocalPractice\|Brügelmann (2014)]]；[[Argument_Qvortrup_2015_Paideia\|Qvortrup (2015)]]；[[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] |
 > | **命题三：教育哲学偏狭与货物崇拜伪科学** | 技术理性与评价理论殖民教育目的，以封闭系统满足合法化危机 | 评价理论殖民、教养（Bildung）遮蔽、合法化危机、货物崇拜科学划界 | [[Argument_Rømer_2018_EPT\|Rømer (2018)]]；[[Argument_Larsen_2019_EducSci\|Larsen (2019)]]；[[Argument_Nielsen_2021_IRTP\|Nielsen and Klitmøller (2021b)]]；[[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] |
 > | **命题四：可见性全景监控与新泰勒制规训** | 可见性全景监控与标准化清单剥夺[[Teacher Professional Agency\|教师能动性]]并诱发表演性危机 | 福柯全景权力、新泰勒制三维同源性、asTTle 监控原型、HITS 白板板书形式主义核查 | [[Argument_Terhart_2011_JCS\|Terhart (2011)]]；[[Argument_Eacott_2019_IJLE\|Eacott (2019)]]；[[Argument_McKnight_2020_Discourse\|McKnight and Whitburn (2020)]]；[[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] |
 > | **命题五：政治经济学商业化与紧缩共谋** | 排除非学校因素与班额无效论精准迎合新自由主义财政削支与咨询牟利 | 70–80% 非学校方差排除、财政部证据断裂、86.9 万第三方酬金、GERM 循环 | [[Argument_Grace_2010_NZJES\|Grace (2010)]]；[[Argument_ONeill_2012_NZJES\|O'Neill (2012)]]；[[Argument_Bates_2017_CognitionEducationTrust\|Bates (2017)]]；[[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] |
@@ -836,7 +837,7 @@ updated: 2026-11-24
 
 > [!dev-timeline] 对可见学习批评的四个演进阶段
 > - **2009–2010 年 — 起源反弹与政策警示期** 《[[Visible Learning|可见的学习]]》出版同年，新西兰梅西大学[[Ivan Snook|伊万·斯努克]]（Ivan Snook）领衔的批判团队（[[Argument_Snook_2009_NZJES\|Snook et al., 2009]]）即从[[Meta-meta-analysis|二阶元分析]]缺乏底层质控导致粗糙输入诱发荒谬输出（GIGO）、0.40 截断值主观武断（医学阿司匹林 $d=0.07$ 反例）、单一均值抹杀学段学科差异，以及援引[[Roy Nash|罗伊·纳什]]（Roy Nash）与 Richard Harker et al. 方差分解证实 70%–80% 差异取决于家庭背景等维度系统敲响警钟，严厉警示宏观数据被滥用为削减生均投入与转嫁问责的危险；[[Argument_Grace_2010_NZJES\|Grace (2010)]] 从学者社会良知出发批判其排除贫困与社会不平等，预示了方法论与社会学批判的基本分野。
-> - **2011–2016 年 — 德语学理深化与逐步技术审计期** 德国教学论权威 [[Argument_Terhart_2011_JCS\|Terhart (2011)]] 首次系统提出[[Meta-meta-analysis|元-元分析]]的双重困境、教学论内容空洞与福柯式可见性支配；随后 [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] 开展了长达 6 步的全面统计技术审计，从[[Fixed-Effect Model|固定效应]]违反、加权缺失到方差失控，实证判定该方法在科学上不可行。
+> - **2011–2016 年 — 德语学理深化与逐步技术审计期** 德国教学论学界（[[Argument_Terhart_2011_JCS\|Terhart, 2011]]; [[Argument_Terhart_2014_HolyGrail\|Terhart, 2014]]; [[Argument_Koller_2014_WhatWorks\|Köller, 2014]]; [[Argument_Brugelmann_2014_LocalPractice\|Brügelmann, 2014]]）对二阶元分析开展了系统反思与实证审读，布吕格尔曼从均值陷阱、课程测不准原理与实施保真度缺失系统解构教学法内容中立性神话；随后 [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] 开展了长达 6 步的全面统计技术审计，从[[Fixed-Effect Model\|固定效应]]违反、加权缺失到方差失控，实证判定该方法在科学上不可行。
 > - **2017–2020 年 — 数理统计审计、政治哲学批判与新泰勒制解构期** 加拿大统计学者伯杰龙与里瓦尔（[[Argument_Bergeron_2017_MJE\|Bergeron & Rivard, 2017]]）发表系统数理审计，受控模拟证实三类合法公式对同一数据得出完全相反排名，揭示普通语言[[Effect Size|效应量]]负概率与相关换算数学爆炸，将该体系定性为违背数理统计公理的违背数理统计公理的伪科学构架；同时丹麦与澳洲学者转向哲学与微观权力批判：[[Argument_Rømer_2018_EPT\|Rømer (2018)]] 论证评价理论殖民教育理论，[[Argument_Larsen_2019_EducSci\|Larsen (2019)]] 指出可见性遮蔽了不可见的深层育人价值；[[Argument_Eacott_2019_IJLE\|Eacott (2019)]] 与 [[Argument_McKnight_2020_Discourse\|McKnight and Whitburn (2020)]] 揭露[[Cult of the Guru|大师崇拜]]与新泰勒制监控；[[Argument_OConnor_2020_AJLL\|O'Connor (2020)]] 通过[[Whole Language|全语言]]案例实证揭露先验立场对数据提取的扭曲。
 > - **2021–2026 年 — 深度意识形态解构与[[Metascience|元科学]]可复现性审计期** 批判深化为整体性科学划界与实证审计：Nielsen and Klitmøller (2021) 揭示[[Technical Rationality|技术理性]]满足[[Legitimation Crisis|合法化危机]]；[[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] 系统运用[[Cargo Cult Science|货物崇拜科学]]、[[Neo-Taylorism|新泰勒主义]]、简单算术平均与商业利益追踪实施四位一体解构；[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] 开展首个[[Preregistration|预注册]]元科学全库审计，以不足 1% 的数据复现率在实证上彻底确立了其不可作为决策依据的定论。
 
