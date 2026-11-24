@@ -9,10 +9,10 @@ aliases:
 summary: "John Hattie 在《可见学习》中设定的 d>=0.40 期望效应区阈值，将所有影响因素的简单算术均值假托为一年自然学业成长基准，被批判为缺乏物理实体基准与比率尺度属性的伪科学假象及政策规训工具。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 49
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 52
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - visible-learning
   - effect-size
@@ -62,6 +62,8 @@ related_persons:
   - "[[John Hattie]]"
   - "[[Adrian Simpson]]"
   - "[[Pierre-Jérôme Bergeron]]"
+  - "[[Ewald Terhart]]"
+  - "[[Olaf Köller]]"
 related_facts:
   - "[[Cognition Education]]"
   - "[[Corwin Press]]"
@@ -75,10 +77,11 @@ related_arguments:
   - "[[Argument_Bergeron_2017_MJE]]"
   - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Terhart_2014_HolyGrail]]"
+  - "[[Argument_Koller_2014_WhatWorks]]"
 confidence: high
 status: completed
 created: "2026-10-16"
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 ---
@@ -95,6 +98,11 @@ updated: 2026-11-23
 > 哈蒂将 $d=0.40$ 的效应量设定为所谓铰接点，并以此划分出期望效应区。这一设定在表面上制造出如同物理仪器读数般的科学精密感，但实际上该阈值仅仅是全书最初纳入的 138 项影响因素效应量的简单算术平均值。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 26)]]
 >
 > *Hattie established an effect size of d=0.40 as the 'hinge point,' delineating the 'zone of desired effects.' While appearing to possess the precision of a physical measuring instrument, this threshold was merely the unweighted arithmetic mean of the original 138 influences synthesized in the book.*
+
+> [!citation-card] 哈蒂承认 0.40 支点截断值纯属叙事性建构
+> 这一切分点是来自 800 多项元分析的平均效应……它充当着用来创造故事（关于什么是普遍的、什么是高于和低于该效应的）的门槛，未被设计为武断判定低于它的就该忽略、高于它的就该珍视的固定临界分值。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, p. 89; 引自 Nielsen & Klitmøller, 2021a, p. 7)]]
+>
+> *This cut was the average effect from 800-plus meta-analyses... It is a threshold to create a story (about what is common, above and below this effect) but it is not presented as a fixed cut-score below which one should ignore and above which one should cherish.*
 
 > [!boundary]- 概念边界
 > - 不等于 效应量（Effect Size） — 效应量是反映[[Variable|变量]]间关联强度或干预净效应的标准差无量纲统计指标，而期望效应区是人为设定的价值截断标准。
@@ -196,6 +204,7 @@ updated: 2026-11-23
 > > - **Hattie（2009）** 主张 $d=0.40$ 能够让教师看清自身教学的真实位置，只有超过铰接点的影响因素才真正值得投入学校有限的时间与资源。
 > > - **[[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]** 指出该阈值仅为 138 项因素的未加权算术均值，新增[[Variable|变量]]会导致均值稀释，将其奉为客观基线是典型的伪科学。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 26)]]
 > > - **[[Argument_Terhart_2014_HolyGrail|Terhart (2014)]]** 指出德国学界对 0.40 期望区切分点持强烈保留态度，批评将其机械当作一年正常学业成长的客观基准纯属虚构，二阶元分析抹平了异质性情境，许多低于 0.40 的低成本措施同样具有巨大实践价值。[[Argument_Terhart_2014_HolyGrail|(Terhart, 2014, pp. 14–16)]]
+> > - **[[Argument_Koller_2014_WhatWorks|Köller (2014)]]** 指出尽管 0.40 阈值在德国备受争论，但在实证上该数值大体对应德国中学生在正常学科教学下一整年所能取得的典型学业增量；以此作为分界线有助于区分表层组织调整（效应量普遍低于 0.40）与深层教学质量维度（效应量稳居 0.40 以上）。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, pp. 27–29)]]
 > > - **[[Argument_Golovchin_2019_ESC|Golovchin (2019)]]** 运用变差系数（$V_\sigma = 56.87\%$）开展严格数理检验，证实 Hattie 归纳的 133 项正向[[Effect Size|效应量]]在统计学上属于极端不均匀分布（均值 $\bar{d}=0.42$，标准差 $\sigma=0.239$），且学生因素（$71.24\%$）与学校因素（$65.97\%$）离散度极高，从数理上证明 $d = 0.40$ 根本无法作为普适有效的因果基准分界线。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 238–241)]]
 >
 > > [!axis] 普适叙事切分点 vs 医学循证临床基准反差
@@ -235,48 +244,28 @@ updated: 2026-11-23
 
 ---
 
-> [!citation-card] [[John Hattie|哈蒂]]承认 0.40 支点截断值纯属叙事性建构
-> 这一切分点是来自 800 多项[[Meta-analysis|元分析]]的平均效应……它充当着用来创造故事（关于什么是普遍的、什么是高于和低于该效应的）的门槛，未被设计为武断判定低于它的就该忽略、高于它的就该珍视的固定临界分值。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, p. 89; 引自 Nielsen & Klitmøller, 2021a, p. 7)]]
->
-> *This cut was the average effect from 800-plus meta-analyses... It is a threshold to create a story (about what is common, above and below this effect) but it is not presented as a fixed cut-score below which one should ignore and above which one should cherish.*
-
-> [!citation-card] 弱相关虚增跨入期望效应区与决定系数贫乏
-> 当相关系数 r 为 0.196 时，换算得到的[[Effect Size|效应量]] d 恰好达到 0.40。然而，这一相关系数对应的决定系数仅为 0.0385，意味着[[Independent Variable|自变量]]仅能解释[[Dependent Variable|因变量]]不到 4% 的方差变异，而超过 96% 的变异是完全未被解释的。将如此微弱的相关关系包装为达到‘期望效应区’的干预成果，在统计学上是站不住脚的。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017, p. 242)]]
->
-> *“When r is 0.196, the converted d is exactly 0.40... However, this corresponds to an R-squared of 0.0385, explaining less than 4% of the variance, with more than 96% left unexplained. Packaging such weak correlations as reaching the 'zone of desired effects' is statistically untenable.”*
-
-> [!citation-card] 期望效应区分水岭的算术伪[[Nature of Science|科学本质]]
-> 将 $d=0.40$ 设定为有效与平庸的分水岭（Zone of Desired Effects），制造出如同物理测量仪器般的科学假象，实际上毫无客观基准，只要后续加入新[[Variable|变量]]，该分水岭就会发生变动。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 26)]]
->
-> *Establishing d=0.40 as the line of demarcation between effective and mediocre practice (the Zone of Desired Effects) [[CREATES Project|CREATES]] the illusion of scientific instrumentation; in reality, it lacks any objective baseline and fluctuates whenever new variables are introduced.*
-
-> [!citation-card] 单一平均均值对学段差异的抹杀
-> 将不同年龄段、不同学科和不同教学情境的研究硬揉在一起，抹杀了原本极具指导价值的内在差异。例如[[Homework|家庭作业]]的总体[[Effect Size|效应量]] $d=0.29$ 掩盖了高中课外作业 $d=0.64$ 的高效能，容易诱导政策制定者全盘轻视作业价值。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 26–27)]]
->
-> *Blending studies across different age cohorts, subject matters, and instructional settings obliterates intrinsic distinctions of genuine pedagogical guidance. For instance, an overall homework effect size of d=0.29 obscures the high efficacy of secondary homework at d=0.64, misleading policymakers into dismissing homework wholesale.*
-
----
-
 > [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关系 |
-> |:---|:---|:---|
-> | [[Visible Learning]] | 概念 | 理论母体，期望效应区是《可见的学习》影响气压计与教育改进排序的核心标准。 |
-> | [[Effect Size]] | 方法 | 度量基础，期望效应区建立在标准化均值差 Cohen's $d$ 的统计度量之上。 |
-> | [[Effect Size Conversion]] | 方法 | 计算转换，相关系数向均值差的公式换算容易将微弱关联虚增至期望效应区。 |
-> | [[Class Size]] | 概念 | 批判实证，因效应量低于 $d=0.40$ 被贬为低效政策，基准反转后直接落入逆向有害区。 |
-> | [[Socioeconomic Status]] | 概念 | 阶层遮蔽，单向报告正向效应量掩盖了贫困作为全书最大破坏因素（$-0.59$）的现实。 |
-> | [[Homework]] | 概念 | 学段异质性，总体均值 $d=0.29$ 低于阈值，掩盖了高中作业 $d=0.64$ 的高效益。 |
-> | [[John Hattie]] | 人物 | 构念创立，设立 $d=0.40$ 铰接点作为甄别教育策略推广价值的门槛。 |
-> | [[Pierre-Jérôme Bergeron]] | 人物 | 数理审计，揭示 $r=0.196$ 虚增至期望区与基准反转导致的逻辑崩溃。 |
-> | [[Adrian Simpson]] | 人物 | 统计解构，批判二阶元综合违反比率尺度与分布假定的统计学失范。 |
-> | [[Ewald Terhart]] | 人物 | 教学论审视，批判 $d=0.40$ 铰接点作为无量纲合成人工制品对教育决策的误导。[[Argument_Terhart_2014_HolyGrail\|(Terhart, 2014, pp. 14–16)]] |
+> |---|---|---|
+> | [[Visible Learning]] | 概念 | 理论母体，期望效应区是《可见的学习》影响气压计与教育改进排序的核心标准 |
+> | [[Class Size]] | 概念 | 批判实证，因效应量低于 $d=0.40$ 被贬为低效政策，基准反转后直接落入逆向有害区 |
+> | [[Socioeconomic Status]] | 概念 | 阶层遮蔽，单向报告正向效应量掩盖了贫困作为全书最大破坏因素（$-0.59$）的现实 |
+> | [[Homework]] | 概念 | 学段异质性，总体均值 $d=0.29$ 低于阈值，掩盖了高中作业 $d=0.64$ 的高效益 |
+> | [[Effect Size]] | 方法 | 度量基础，期望效应区建立在标准化均值差 Cohen's $d$ 的统计度量之上 |
+> | [[Effect Size Conversion]] | 方法 | 计算转换，相关系数向均值差的公式换算容易将微弱关联虚增至期望效应区 |
+> | [[John Hattie]] | 人物 | 构念创立，设立 $d=0.40$ 铰接点作为甄别教育策略推广价值的门槛 |
+> | [[Pierre-Jérôme Bergeron]] | 人物 | 数理审计，揭示 $r=0.196$ 虚增至期望区与基准反转导致的逻辑崩溃 |
+> | [[Adrian Simpson]] | 人物 | 统计解构，批判二阶元综合违反比率尺度与分布假定的统计学失范 |
+> | [[Ewald Terhart]] | 人物 | 教学论审视，批判 $d=0.40$ 铰接点作为无量纲合成人工制品对教育决策的误导 |
+> | [[Olaf Köller]] | 人物 | 实证支持，指出 $d=0.40$ 对应常态学科教学年增量并用于区隔深层教学质量 |
 
 ---
 
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 数理审计揭示微弱相关（$r=0.196, R^2=3.85\%$）虚增至 $d=0.40$ 机制，并以基准反转证实期望效应区缺乏客观绝对分界性（pp. 240–242）。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 系统批判《可见学习》期望效应区与铰接点的统计学缺陷，揭示其作为[[Neo-Taylorism|新泰勒主义]]规训工具与财政紧缩借口的治理功能。
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 运用变差系数数理检验证实 Hattie [[Effect Size|效应量]]总体（$V_\sigma = 56.87\%$）与各来源维度的极端不均匀性，实证解构了 $d = 0.40$ 期望效应区作为决策基准的科学有效性。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 引用[[John Hattie|哈蒂]]自白（[[Argument_Hattie_2010_NZJES|Hattie, 2010]]）与医学阿司匹林临床实证（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）批判 0.40 门槛的叙事修辞本质与证据扭曲后果。
 > - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 评析德语区对可见的学习 0.40 期望效应区分水岭的方法学审视，批判其作为无量纲合成人工制品对教育决策的误导。
+> - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 结合德国实证教学研究论证 $d=0.40$ 与常态学科教学年增长的对应关系，将其确立为甄别深层教学质量与表层组织干预的实践标尺（pp. 27–29）。

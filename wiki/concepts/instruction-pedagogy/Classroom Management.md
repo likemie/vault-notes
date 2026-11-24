@@ -5,7 +5,7 @@ aliases:
 summary: "教师系统组织课堂学习环境的综合机制，涵盖时间在任务利用、积极行为预期、规则常规、非惩罚性重定向与支持性学习文化。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 40
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -43,7 +43,8 @@ related_concepts:
   - "[[Effective Teaching]]"
   - "[[Individualised Instruction]]"
   - "[[Self-Regulated Learning]]"
-related_theories: []
+related_theories:
+  - "[[Three Basic Dimensions of Teaching Quality]]"
 related_methods:
   - "[[Classroom Observation]]"
   - "[[Research Synthesis]]"
@@ -53,7 +54,8 @@ related_methods:
   - "[[Comparative Meta-synthesis]]"
 related_instruments:
   - "[[Teach Classroom Observation Tool]]"
-related_persons: []
+related_persons:
+  - "[[Olaf Köller]]"
 related_facts:
   - "[[World Bank]]"
   - "[[Science Foundation Ireland]]"
@@ -62,6 +64,7 @@ related_arguments:
   - "[[Argument_WorldBank_2019_Teach]]"
   - "[[Argument_Laursen_2015_Paideia]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
+  - "[[Argument_Koller_2014_WhatWorks]]"
 confidence: high
 status: active
 created: 2026-05-22
@@ -134,6 +137,9 @@ updated: 2026-11-24
 > [!claim] [[Argument_Håkansson_2015_TT|Håkansson (2015a)]]; [[Argument_Laursen_2015_Paideia|Laursen (2015)]]
 > **课堂管理是高品质学习的结构化托底** 在对 43 项国际教学[[Research Synthesis|研究综合]]的深入比对中，教师的课堂管理被确认为解释[[Academic Achievement|学业表现]]差异的关键维度。实证研究明确表明，有效的课堂管理通过明确目标、时间统筹、平稳活动衔接与支持性关系，显著降低课堂混乱度、提高学习聚焦度，有别于单纯“把学生管住”。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a, pp. 589–592)]]; [[Argument_Laursen_2015_Paideia\|(Laursen, 2015, pp. 35–37)]]
 
+> [!claim] [[Argument_Koller_2014_WhatWorks|Köller (2014)]]
+> **最小化干扰与保障在任务时间确立教学基准维度** 柯勒（[[Argument_Koller_2014_WhatWorks|Köller, 2014]]）指出，有效班级管理是深层学习发生的基础保障，与认知激活、建设性支持共同构成课堂教学质量三大基准维度（[[Three Basic Dimensions of Teaching Quality]]）。其实质在于系统统筹预防性规则、过程监控与平稳环节过渡，最大限度减少秩序干扰，将名义教学时间高效转化为学生实质性的在任务学习时间（[[Time on Task]]）。元分析证据确立班级管理具备高度稳健的促学效应（$d = 0.52$），证明秩序井然的教学节奏是学科教学达成高成效的必要支撑。[[Argument_Koller_2014_WhatWorks\|(Köller, 2014, pp. 34–35)]]
+
 ---
 
 > [!concept-proposition] 命题二｜积极行为预期与建设性重定向比惩罚性纪律更具促学效能
@@ -163,7 +169,7 @@ updated: 2026-11-24
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 机构 |
 > |---|---|---|---|
-> | **结构化托底** | 课堂管理通过时间统筹与活动衔接保障学习聚焦，而非单纯的人身控制。 | K–12 课堂教学组织、教师专业发展标准编制 | Håkansson; Laursen |
+> | **结构化托底** | 课堂管理通过时间统筹与活动衔接保障在任务时间，构成教学深层结构基准。 | K–12 课堂教学组织、教师专业发展标准编制 | Håkansson; Laursen; Köller |
 > | **正向重定向** | 确立积极预期、表扬合规与温和重定向优于惩戒威慑，绝对禁止体罚与侮辱。 | 班级行为管理、课堂观察评价规程制定 | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] |
 > | **阶层补偿性** | 弱势与准备不足学生极度依赖清晰常规，缺乏管理的松散教学易加剧学业差距。 | 补偿教育政策、薄弱学校课堂改造 | Håkansson |
 > | **实践可干预性** | 专家评审获评最高相关评级（$M=4.75$），是抵御外围不可控因素干扰的核心改进抓手。 | 学校循证改进决策、循证资源配置优先级判定 | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] |
@@ -196,21 +202,6 @@ updated: 2026-11-24
 
 ---
 
-> [!entry-map] 课堂管理知识网络
->
-> | 维度 | 条目 | 关系类型 | 说明 |
-> |---|---|---|---|
-> | **上位体系** | [[Effective Teaching]] | 上位概念 | 课堂管理是有效教学四大核心支柱（在任务时间、课堂文化、教学指导、社会情感）的组织基石 |
-> | **政策与宏观口号** | [[Structured Teaching]] | 政策[[Discourse\|话语]] | 瑞典等国强调教师主导的宏观方针，课堂管理是其在微观课堂的具体操作形式 |
-> | **教学模式** | [[Direct Instruction]] | 典型载体 | 直接教学高度依赖教师清晰的课堂管理、时间节奏与指令常规 |
-> | | [[Individualised Instruction]] | 边界对照 | 个别化工作若缺乏持续的课堂管理与支持，容易使弱势学生面临掉队风险 |
-> | **微观机制** | [[Feedback]] | 核心支柱 | 教师在课堂管理中高频实施的理解检查与针对性反馈 |
-> | | [[Student-Teacher Relationship]] | 情感基石 | 支持性师生关系与尊重包容是建立积极课堂氛围的根本前提 |
-> | | [[Self-Regulated Learning]] | 发展目标 | 优良的课堂管理旨在帮助学生逐步摆脱外在控制、内化自律规则 |
-> | **测量与工具** | [[Teach Classroom Observation Tool]] | 评估工具 | 大规模[[Classroom Observation\|课堂观察]]中在任务时间快照与积极行为预期评定的全球标准工具 |
-> | | [[Operationalization]] | 方法支撑 | 将课堂管理抽象[[Construct\|构念]]解构为低推论时间快照与高推论行为锚定等级评分 |
-> | | [[Inter-Rater Reliability]] | 质量保障 | 多位观察员对课堂常规与行为管理实施标准化评定的一致性保障 |
-
 > [!metax-divider]
 
 > [!metax] [课堂管理 · Classroom management](https://www.visiblelearningmetax.com/influences/view/classroom_management)
@@ -229,6 +220,36 @@ updated: 2026-11-24
 > > | Patall et al. (2024) | Classroom management programs | 80 | NA | 80 | 0.11 |  |
 > > | Patall et al. (2024) | Classroom intervention studies | 31 | NA | 31 | 0.33 |  |
 > > | Duan et al. (2024) | Management self-efficacy on achievement | 87 | 480,000 | 189 | 0.82 |  |
+
+> [!empirical-divider]
+
+> [!ma-table]- 二阶元分析与大型综合结果
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 效应量 $d$ | 95% CI | 异质性 $I^2$ | $k$ | $N$ | 偏倚风险 | 证据质量 | 结论 |
+> |---|---|---|---|---|---|---|---|---|
+> | Marzano et al. (2004) | 0.52 | [0.44, 0.60] | — | 100 | — | 中 | 中 | 规则常规、教师监督与明确预期显著减少违纪并提升学业表现 |
+> | Hattie (2009); [[Argument_Koller_2014_WhatWorks\|Köller (2014)]] | 0.52 | — | — | 100 | — | 中 | 中 | 有效班级管理列为关键教学影响因素，有效保障在任务学习时间 |
+> | Korpershoek et al. (2016) | 0.17 | [0.12, 0.22] | 高 | 54 | — | 低 | 中 | 综合性课堂干预对行为与学业产生小幅度稳定正向收益 |
+
+---
+
+> [!entry-map] 课堂管理知识网络
+>
+> | 条目 | 类型 | 关系 |
+> |---|---|---|
+> | [[Effective Teaching]] | 概念 | 上位概念，课堂管理是有效教学四大支柱（在任务时间、课堂文化、教学指导、社会情感）的组织支撑 |
+> | [[Structured Teaching]] | 概念 | 政策[[Discourse\|话语]]，瑞典等国强调教师主导的宏观方针，课堂管理是其在微观课堂的具体操作形式 |
+> | [[Direct Instruction]] | 概念 | 典型载体，直接教学高度依赖教师清晰的课堂管理、时间节奏与指令常规 |
+> | [[Individualised Instruction]] | 概念 | 边界对照，个别化工作若缺乏持续的课堂管理与支持，容易使弱势学生面临掉队风险 |
+> | [[Feedback]] | 概念 | 核心支柱，教师在课堂管理中高频实施的理解检查与针对性反馈 |
+> | [[Student-Teacher Relationship]] | 概念 | 情感基石，支持性师生关系与尊重包容是建立积极课堂氛围的根本前提 |
+> | [[Self-Regulated Learning]] | 概念 | 发展目标，优良的课堂管理旨在帮助学生逐步摆脱外在控制、内化自律规则 |
+> | [[Three Basic Dimensions of Teaching Quality]] | 理论 | 深层结构，课堂管理与认知激活、建设性支持共同构成德国教学质量三大基准维度 |
+> | [[Operationalization]] | 方法 | 操作化，将课堂管理抽象[[Construct\|构念]]解构为低推论时间快照与高推论行为锚定等级评分 |
+> | [[Inter-Rater Reliability]] | 方法 | 测量信度，多位观察员对课堂常规与行为管理实施标准化评定的一致性保障 |
+> | [[Teach Classroom Observation Tool]] | 工具 | 评估工具，大规模[[Classroom Observation\|课堂观察]]中在任务时间快照与积极行为预期评定的全球标准工具 |
+> | [[Olaf Köller]] | 人物 | 德语区实证教学研究学者，系统论证有效班级管理作为三大基准维度对在任务时间的保障 |
 
 ---
 

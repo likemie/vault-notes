@@ -49329,6 +49329,7 @@
         "wiki/concepts/educational-policy-reform/Evidence-Based Education.md",
         "wiki/concepts/educational-technology/Extracurricular Activities.md",
         "wiki/concepts/instruction-pedagogy/Barometer of Achievement.md",
+        "wiki/concepts/instruction-pedagogy/Classroom Management.md",
         "wiki/concepts/instruction-pedagogy/Concept Mapping.md",
         "wiki/concepts/instruction-pedagogy/Constructivist Instruction.md",
         "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md",
@@ -49338,8 +49339,7 @@
         "wiki/concepts/instruction-pedagogy/Homework.md",
         "wiki/concepts/instruction-pedagogy/Lecturing.md",
         "wiki/concepts/instruction-pedagogy/Mind Mapping.md",
-        "wiki/concepts/instruction-pedagogy/Problem-Based Learning.md",
-        "wiki/concepts/instruction-pedagogy/Reciprocal Teaching.md"
+        "wiki/concepts/instruction-pedagogy/Problem-Based Learning.md"
       ],
       "title": "Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement"
     },
@@ -63407,7 +63407,9 @@
       ],
       "doi": "",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Classroom Management.md"
+      ],
       "title": "A Meta-Analysis of the Effects of Classroom Management Strategies and Classroom Management Programs on Students' Academic, Behavioral, Emotional, and Motivational Outcomes"
     },
     "Korpi, 2006": {
@@ -74595,7 +74597,9 @@
       ],
       "doi": "",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Classroom Management.md"
+      ],
       "title": "Classroom management that works: Facilitator's Guide"
     },
     "Marzano, 1998": {
