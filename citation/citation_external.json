@@ -19,8 +19,6 @@
     "ABPI, 2024": "ABPI, 2024",
     "ACARA (2017)": "ACARA, 2017",
     "ACARA, 2017": "ACARA, 2017",
-    "ACEL & Corwin (2015)": "ACEL & Corwin, 2015",
-    "ACEL & Corwin, 2015": "ACEL & Corwin, 2015",
     "ACLU (2018)": "ACLU, 2018",
     "ACLU, 2018": "ACLU, 2018",
     "ACT (2006)": "ACT, 2006",
@@ -13044,6 +13042,7 @@
     "John Hattie (2009)": "John Hattie, 2009",
     "John Hattie (2010)": "John Hattie, 2010",
     "John Hattie (2011)": "John Hattie, 2011",
+    "John Hattie (2017)": "John Hattie, 2017",
     "John Hattie, 1992": "John Hattie, 1992",
     "John Hattie, 2003": "John Hattie, 2003",
     "John Hattie, 2005": "John Hattie, 2005",
@@ -13051,6 +13050,7 @@
     "John Hattie, 2009": "John Hattie, 2009",
     "John Hattie, 2010": "John Hattie, 2010",
     "John Hattie, 2011": "John Hattie, 2011",
+    "John Hattie, 2017": "John Hattie, 2017",
     "John Hobson (2007)": "John Hobson, 2007",
     "John Hobson, 2007": "John Hobson, 2007",
     "John Kenneth Galbraith (1973)": "John Kenneth Galbraith, 1973",
@@ -20189,8 +20189,6 @@
     "Pearson et al., 2005": "Pearson et al., 2005",
     "Pearson, 1904": "Pearson, 1904",
     "Pearson, 2009": "Pearson, 2009",
-    "Peck & Reitzug (2012)": "Peck & Reitzug, 2012",
-    "Peck & Reitzug, 2012": "Peck & Reitzug, 2012",
     "Peck & Theodore (2010)": "Peck & Theodore, 2010",
     "Peck & Theodore (2015)": "Peck & Theodore, 2015",
     "Peck & Theodore, 2010": "Peck & Theodore, 2010",
@@ -22272,10 +22270,8 @@
     "Rowe & Perry, 2021": "Rowe & Perry, 2021",
     "Rowe (1985)": "Rowe, 1985",
     "Rowe (1986)": "Rowe, 1986",
-    "Rowe (2008)": "Rowe, 2008",
     "Rowe, 1985": "Rowe, 1985",
     "Rowe, 1986": "Rowe, 1986",
-    "Rowe, 2008": "Rowe, 2008",
     "Rowland (2014)": "Rowland, 2014",
     "Rowland, 2014": "Rowland, 2014",
     "Rowland-Bryant et al. (2009)": "Rowland-Bryant et al., 2009",
@@ -23335,6 +23331,10 @@
     "Scott (2010a)": "Scott, 2010a",
     "Scott (2010b)": "Scott, 2010b",
     "Scott (2013)": "Scott, 2013",
+    "Scott Eacott (2017)": "Scott Eacott, 2017",
+    "Scott Eacott (2019)": "Scott Eacott, 2019",
+    "Scott Eacott, 2017": "Scott Eacott, 2017",
+    "Scott Eacott, 2019": "Scott Eacott, 2019",
     "Scott et al. (2004a)": "Scott et al., 2004a",
     "Scott et al. (2004b)": "Scott et al., 2004b",
     "Scott et al. (2011)": "Scott et al., 2011",
@@ -29972,21 +29972,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/curriculum/Curriculum Connection.md"
-      ],
-      "title": ""
-    },
-    "ACEL & Corwin, 2015": {
-      "aliases": [
-        "ACEL & Corwin, 2015",
-        "ACEL & Corwin (2015)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "ACEL & Corwin, 2015"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/educational-leadership-administration/Cult of the Guru.md"
       ],
       "title": ""
     },
@@ -53777,7 +53762,6 @@
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md",
-        "wiki/concepts/educational-leadership-administration/Cult of the Guru.md",
         "wiki/concepts/sociology-of-education/Cultural Disembedding.md",
         "wiki/concepts/sociology-of-education/Doxa.md",
         "wiki/concepts/sociology-of-education/Habitus.md",
@@ -111436,7 +111420,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/educational-leadership-administration/Cult of the Guru.md",
         "wiki/concepts/educational-leadership-administration/Rational-Control Rhetoric.md"
       ],
       "title": ""
@@ -125525,6 +125508,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Leadership and Policy in Schools/Argument_Brown_Greany_2018_LPS.md"
+      ],
+      "title": ""
+    },
+    "John Hattie, 2017": {
+      "aliases": [
+        "John Hattie, 2017",
+        "John Hattie (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "John Hattie, 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-leadership-administration/Cult of the Guru.md"
       ],
       "title": ""
     },
@@ -149910,7 +149908,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/educational-leadership-administration/Cult of the Guru.md",
         "wiki/facts/australia/Melbourne Declaration.md"
       ],
       "title": ""
@@ -177398,21 +177395,6 @@
       ],
       "title": ""
     },
-    "Peck & Reitzug, 2012": {
-      "aliases": [
-        "Peck & Reitzug, 2012",
-        "Peck & Reitzug (2012)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Peck & Reitzug, 2012"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/educational-leadership-administration/Cult of the Guru.md"
-      ],
-      "title": ""
-    },
     "Peck & Theodore, 2010": {
       "aliases": [
         "Peck & Theodore, 2010",
@@ -181750,7 +181732,6 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Nordic Psychology/Argument_Nielsen_2021_NordPsych.md",
         "wiki/arguments/journal-articles/School Leadership & Management/Argument_Hattie_2017_SLM.md",
-        "wiki/concepts/educational-leadership-administration/Cult of the Guru.md",
         "wiki/concepts/educational-philosophy/Causality.md"
       ],
       "title": ""
@@ -192720,21 +192701,6 @@
       ],
       "title": ""
     },
-    "Rowe, 2008": {
-      "aliases": [
-        "Rowe, 2008",
-        "Rowe (2008)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Rowe, 2008"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/educational-leadership-administration/Cult of the Guru.md"
-      ],
-      "title": ""
-    },
     "Rowland, 2014": {
       "aliases": [
         "Rowland, 2014",
@@ -195276,8 +195242,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/New Zealand Journal of Educational Studies/Argument_Hattie_2010_NZJES.md",
-        "wiki/arguments/journal-articles/School Leadership & Management/Argument_Hattie_2017_SLM.md",
-        "wiki/concepts/educational-leadership-administration/Cult of the Guru.md"
+        "wiki/arguments/journal-articles/School Leadership & Management/Argument_Hattie_2017_SLM.md"
       ],
       "title": ""
     },
@@ -200475,6 +200440,36 @@
       "seen_in": [
         "wiki/concepts/university-industry-collaboration/Innovation Ecosystem.md",
         "wiki/facts/us/California Master Plan for Higher Education.md"
+      ],
+      "title": ""
+    },
+    "Scott Eacott, 2017": {
+      "aliases": [
+        "Scott Eacott, 2017",
+        "Scott Eacott (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Scott Eacott, 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-leadership-administration/Cult of the Guru.md"
+      ],
+      "title": ""
+    },
+    "Scott Eacott, 2019": {
+      "aliases": [
+        "Scott Eacott, 2019",
+        "Scott Eacott (2019)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Scott Eacott, 2019"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-leadership-administration/Cult of the Guru.md"
       ],
       "title": ""
     },
