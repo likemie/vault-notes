@@ -40,17 +40,17 @@ related_facts: []
 related_arguments:
   - "[[Argument_Stone_2020_PolSoc]]"
 confidence: medium
-status: draft
+status: active
 created: 2026-10-23
-updated: 2026-11-15
+updated: 2026-11-24
 ---
 
 ---
 
 > [!def] Representational Knowledge
-> **代表性知识（Representational Knowledge）** 指在国际发展合作中，行动者基于对特定国家或地区社会现实的深度扎根（Rootedness）以及对弱势群体生活经历的道义共情，所形成的一种具备公共代表性与批判维度的政策知识形态。该形态与依赖形式化学科指标的技术官僚专长（Technocratic Expertise）相对立，强调唯有深入本土发展语境的实践者才具备实质性的治理建言资格。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 6–7)]]
+> 代表性知识（Representational Knowledge）指在国际发展合作中，行动者基于对特定国家或地区社会现实的深度扎根（Rootedness）以及对弱势群体生活经历的道义共情，所形成的一种具备公共代表性与批判维度的政策知识形态。该形态与依赖形式化学科指标的技术官僚专长（Technocratic Expertise）相对立，强调唯有深入本土发展语境的实践者才具备实质性的治理建言资格。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 6–7)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 指向源自基层社会抗争、发展实践真实感知与道义团结的政策理解与[[Phronesis|实践智慧]]。
 > - **用途** 用于识别多边援助与跨国政策转移中被主流技术官僚[[Paradigm|范式]]遮蔽的草根知识权威与文化合法性来源。
 > - **边界** 该概念侧重于[[Knowledge Production|知识生产]]者的社会定位与规范认同，不同于纯粹编码化的学术[[Document|文献]]或低度反思的经验直觉。
@@ -61,12 +61,12 @@ updated: 2026-11-15
 > *In the development cooperation context, we would argue that there are some unacknowledged but powerful ‘markers’ of expertise that shade off from the purely technocratic into what we might term ‘representational knowledge.’ One example is location or rootedness... This extends to another example of representational knowledge – solidarity with the oppressed, a solidarity that may come from evident moral conviction, life experiences that would have educated the expert to the reality, or an expertise filtered through an emancipatory ideology like Marxism.*
 
 > [!boundary]- 概念边界
-> - 不等于 技术官僚专长（Technocratic Expertise） 技术官僚专长依赖公认的科学学科训练、量化计量模型与标准化评估规程，强调[[Value Neutrality|价值中立]]与程序理性；代表性知识将实践者的政治立场、价值承诺与本土生存感知视作知识合法性的核心来源。
-> - 不等于 [[Tacit Knowledge|默会知识]]（Tacit Knowledge） 默会知识侧重于个体在科层或社群中难以用言语编码的操作性技巧；代表性知识强调公共代表功能与道义动员力，服务于公共政策改革议程的政治辩护。
+> - 不等于 技术官僚专长（Technocratic Expertise） — 技术官僚专长依赖公认的科学学科训练、量化计量模型与标准化评估规程，强调[[Value Neutrality|价值中立]]与程序理性；代表性知识将实践者的政治立场、价值承诺与本土生存感知视作知识合法性的核心来源。
+> - 不等于 [[Tacit Knowledge|默会知识]]（Tacit Knowledge） — 默会知识侧重于个体在科层或社群中难以用言语编码的操作性技巧；代表性知识强调公共代表功能与道义动员力，服务于公共政策改革议程的政治辩护。
 
 ---
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 代表性知识（Representational Knowledge） | 技术官僚专长（Technocratic Expertise） | 编码化政策知识（Codified Policy Knowledge） |
 > |---|---|---|---|
 > | **合法性基石** | 本土扎根深度、生活经历、道义团结与解放价值 | 形式化学科训练、同行评审与计量测算方法 | 官方白皮书、标准操作指南与跨国最佳实践清单 |
@@ -93,17 +93,17 @@ updated: 2026-11-15
 
 > [!concept-proposition] 命题一｜代表性知识构成南方发展中国家抵制技术霸权与重构专长定义的核心支柱
 > **知识权威与合法性重构** 在国际发展援助实践中，代表性知识解构了全球北方外籍专家的技术垄断姿态，赋予本土实践者以平等的政策制定[[Discourse|话语]]权。
-
-> [!claim] Stone, D. et al.
-> **本土扎根对冲外来技术干预** 戴安·斯通等学者（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）指出，在当代发展合作网络中，仅凭计量经济学或工程学技术专长的全球北方专家在遭遇发展中国家现实时频繁引发质疑；代表性知识将行动者对特定地域生存困境的深刻体验与道义承诺确立为新型专业门槛，在制度设计层面打破了传统单向援助中“北方出资出方案、南方被动接受”的技术官僚依附机制。（pp. 6–7, 10–11）
+>
+> > [!claim] Stone, D. et al.
+> > **本土扎根对冲外来技术干预** 戴安·斯通等学者（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）指出，在当代发展合作网络中，仅凭计量经济学或工程学技术专长的全球北方专家在遭遇发展中国家现实时频繁引发质疑；代表性知识将行动者对特定地域生存困境的深刻体验与道义承诺确立为新型专业门槛，在制度设计层面打破了传统单向援助中“北方出资出方案、南方被动接受”的技术官僚依附机制。（pp. 6–7, 10–11）
 
 ---
 
 > [!concept-proposition] 命题二｜代表性知识的跨国流动能够激发成熟民主政体传统政策[[Paradigm|范式]]的自我革新
 > **批判思想的南北反向流动** 源自全球南方且具有鲜明解放色彩的代表性知识，能够穿透传统地缘权力壁垒，反向进入西方发达国家的政策议程。
-
-> [!claim] Stone, D. et al.
-> **解放思想的全球回流与政策重构** 斯通等人（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）指出，[[Paulo Freire|保罗·弗莱雷]]（Freire, 1970）基于巴西成人扫盲实践提炼的[[Conscientization|意识化]]教育理论，以及拉美激进经济学家的再分配政策方案，均属于典型的代表性知识；这类知识并未局限于欠发达地区，反而在寻求自我更新的发达民主政体政策圈层中获得共鸣，成为推动其反思传统科层治理瓶颈的智识资源。（p. 7）
+>
+> > [!claim] Stone, D. et al.
+> > **解放思想的全球回流与政策重构** 斯通等人（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）指出，[[Paulo Freire|保罗·弗莱雷]]（Freire, 1970）基于巴西成人扫盲实践提炼的[[Conscientization|意识化]]教育理论，以及拉美激进经济学家的再分配政策方案，均属于典型的代表性知识；这类知识并未局限于欠发达地区，反而在寻求自我更新的发达民主政体政策圈层中获得共鸣，成为推动其反思传统科层治理瓶颈的智识资源。（p. 7）
 
 ---
 
@@ -121,18 +121,31 @@ updated: 2026-11-15
 
 ---
 
-> [!debates] 学术争议
+> [!debates|notitle] 学术争议
 >
-> > [!axis] 道义代表性 vs. 实证客观性
+> > [!axis] 道义代表性 vs 实证客观性
 > > 围绕代表性知识是否会因过强的价值预设与道义号召力而削弱政策评估的实证严谨性展开交锋。
 > >
 > > - **[[Positivism|实证主义]]立场** 质疑代表性知识缺乏形式化的统计检验规程与实验对照组设计，容易演变为民粹主义诉求或低效的意识形态说教。
 > > - **批判治理视角（[[Argument_Stone_2020_PolSoc|Stone et al., 2020, pp. 6–7, 10]]）** 指出所谓客观中立的技术专长往往内嵌了西方中心主义与资助方利益偏好，代表性知识将长期被边缘化的声音制度化为决策依据，是对实质正义与民主问责的制度性纠偏。
 
-> [!warning] 适用局限
+> [!warning|limits] 适用局限
 > 代表性知识深度依存于特定的本土政治生态与社会历史语境，在脱离原发社群后若被教条化复制，同样可能面临水土不服与执行[[Alienation|异化]]风险。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 10–11)]]
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Phronesis]] | 概念 | 扎根于具体情境与伦理关怀的实践智慧，构成代表性知识的哲学基础。 |
+> | [[Tacit Knowledge]] | 概念 | 本土实践者难以形式化编码的经验知晓，与代表性知识的生活阅历相通。 |
+> | [[Epistemological Vigilance]] | 概念 | 保持对全球北方技术理性与中立论偏见的警惕，维护本土知识合法性。 |
+> | [[Conscientization]] | 概念 | 弗莱雷提出的被压迫者意识化觉醒，代表性知识的核心思想渊源。 |
+> | [[Critical Pedagogy]] | 概念 | 扎根底层抗争经验的批判性教育学，代表性知识在教育领域的典型形态。 |
+> | [[Paulo Freire]] | 人物 | 批判教育学与意识化理论开创者，其扫盲经验是代表性知识的经典范例。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] — 界定代表性知识的本土扎根性与道义团结维度，阐明其在抵御单向技术官僚援助与重塑全球南方发展话语权中的功能（pp. 6–7, 10–11）。

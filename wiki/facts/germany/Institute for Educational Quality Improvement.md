@@ -12,9 +12,9 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 29
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 31
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
 org_type: national-educational-research-and-monitoring-institute
 headquarters: "Berlin, Germany"
@@ -43,6 +43,7 @@ related_methods:
   - "[[Item Response Theory]]"
 related_persons:
   - "[[Sigrid Hartong]]"
+  - "[[Olaf Köller]]"
 related_facts:
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[Gesamtstrategie zum Bildungsmonitoring]]"
@@ -61,10 +62,11 @@ related_arguments:
   - "[[Argument_Hartong_2018_GSE]]"
   - "[[Argument_Dedering_2009_EERJ]]"
   - "[[Argument_Ertl_2006_ORE]]"
+  - "[[Argument_Koller_2014_WhatWorks]]"
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-11-21
+updated: 2026-11-24
 ---
 
 ---
@@ -89,7 +91,7 @@ updated: 2026-11-21
 
 > [!actor-grid] 组织治理架构
 > - **主管机关与指导委员会** 在宏观政策与施测规划上直接向 [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 负责，接受由各州教育部高级官员组成的科学指导委员会监督。
-> - **科研领导层与学术委员会** 由资深教育测量学、心理学与实证教育学教授担任所长与各业务部主任，设立由国际知名计量学者组成的独立学术咨询委员会（Wissenschaftlicher Beirat）。
+> - **科研领导层与学术委员会** 由资深教育测量学、心理学与实证教育学学者（如曾任科学常务所长的[[Olaf Köller|奥拉夫·柯勒]]与现任所长佩特拉·施塔纳特 Petra Stanat）担任所长与各业务部主任，设立由国际知名计量学者组成的独立学术咨询委员会（Wissenschaftlicher Beirat）。
 > - **常设业务部门矩阵** 设有德语学科测评研发部、数理学科测评研发部、外语学科测评研发部、心理测量与方法学部，以及教育研究数据中心（FDZ）。
 > - **跨州与跨机构协同网络** 向上对接 KMK 与联邦教育与研究部（[[Federal Ministry of Education and Research]], BMBF），横向与国际测评机构及各州立监测机构（如汉堡教育质量与学校发展研究所（[[Institute for Educational Monitoring and Quality Improvement]], IfBQ））建立数据交换标准，向下通过数字平台触达单体学校。
 
@@ -159,6 +161,7 @@ updated: 2026-11-21
 > | [[Vergleichsarbeiten]] | Fact (Program) | IQB 承担命题研制与元治理协调的全德国校际比较测试项目。 |
 > | [[PISA]] | Fact (Program) | 催生 IQB 成立的根本性国际危机事件，其数据集由 IQB FDZ 集成管理。 |
 > | [[Sigrid Hartong]] | Person | 深入剖析 IQB 机构崛起、计算中心机制与政策拓扑重组的核心研究者。 |
+> | [[Olaf Köller]] | Person | 曾任 IQB 科学常务所长并主持 2009 联邦州比较测试。 |
 
 ---
 
@@ -166,3 +169,4 @@ updated: 2026-11-21
 > - [[Argument_Hartong_2018_GSE|Hartong (2018)]] — 深入解剖 IQB 作为国家计算中心与数据基础设施运作机制的核心文献。
 > - [[Argument_Dedering_2009_EERJ|Dedering (2009)]] — 记录 IQB 早期创设背景及其在各州教育部日常落实机制中的文献。
 > - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 阐释 PISA 震荡如何打破各州文化主权壁垒，推动建立战后首个全德统一的质量评估中枢 IQB（pp. 624–625）。
+> - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 援引 IQB 联邦州比较研究（2009 英语与 2011 小学数学测评），实证揭示非对口师资（跨学科教学）显著拉低学业表现，确证学科专业知识对教学质量的关键影响（p. 32）。

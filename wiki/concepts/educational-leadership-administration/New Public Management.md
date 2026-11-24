@@ -123,7 +123,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-02
-updated: 2026-11-21
+updated: 2026-11-24
 ---
 
 ---
@@ -324,6 +324,7 @@ updated: 2026-11-21
 > - **基于政策的证据异化** 在[[Evidence Era\|证据时代]]，NPM 对性价比与政治适宜性的追求迫使学术研究退化为迎合政客预期的修辞工具，损害了学术探索的独立性。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 93–94)]]
 > - **公共部门去技能化与治理空心化** 过度依赖外部管理咨询公司剥离了公共部门内生解决问题的经验积累，使国家在面对危机时缺乏战略研判与技术鉴别能力。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 791–792)]]
 > - **“评估国家”的事后集权悖论（Evaluative State Paradox）** 1990 年[[OECD|经合组织]]（OECD）荷兰高教审查指出，NPM 式的“去细化规章与扩大自治”潜藏着反向集权风险：一旦国家将事后质量评估与严厉财政制裁挂钩，繁密的质量审计指标便会取代事前审批，导致国家控制力不降反升，令公共机构深陷审计官僚主义泥潭。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 154)]]
+> - **高等教育组织内部的脱钩异化** 在公立研究型大学推进旨在强化领导权与战略管控的新公共管理改革，并未如预期建构紧密一体化的理性企业实体，反而加剧了行政管理体系的科层专门化，并与追求专业自主的基层教学科研活动发生结构性脱钩，引发管理协调能力赤字。[[Argument_Maassen_Stensaker_2019_HEQ|(Maassen & Stensaker, 2019, pp. 465–466)]]
 
 > [!warning] 适用局限
 > 新公共管理作为宏观治理[[Paradigm\|范式]]与[[Analytic Framework\|分析框架]]，其在不同国家福利体制（如北欧社会民主体制 vs 英美自由市场体制）与部门领域（如基础教育、高等教育与科技创新治理）中的落地形态存在显著的制度变异，不宜简单视作均质同构的单一实体。
@@ -355,6 +356,7 @@ updated: 2026-11-21
 > | [[Public Dynamic Capabilities]] | 概念 | 旨在替代新公共管理被动支持与衡量模式的国家主动塑造与系统学习能力。 |
 > | [[Bureaucracy]] | 概念 | 传统科层法治程序，新公共管理试图以量化结果控制予以替代的对照治理形态。 |
 > | [[Lead-and-Learn Paradigm]] | 概念 | 使命导向创新治理范式，超越新公共管理短期成本收益分析与零容忍失败文化。 |
+> | [[De-coupled Bureaucracy]] | 概念 | 新公共管理强化战略管控改革在大学内部催生行政专门化与学术活动结构性脱钩的组织形态。 |
 
 ---
 
@@ -376,4 +378,5 @@ updated: 2026-11-21
 > - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 运用[[Bacchi's WPR Approach|WPR]] 方法揭示芬兰教育出口政策中新公共管理的商业化演进，剖析将公立教育封装为模块化、可规模化产品的政策[[Problematisation|问题表征]]及其对福利国家制度基础的消解。
 > - [[Argument_Sarbiewska_2019_KiW|Sarbiewska (2019)]] — 系统考掘新西兰 1989 年《明日学校》新公共管理改革实践及其十年审查，揭示激进分权与外部问责在提升学业成就与公平方面的制度受挫，论证国家治理重心向课堂[[Didactic Triangle|教学三角]]回归的转型历程。
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 对 43 篇[[System-Wide Improvement|教育系统改进]]实证文献开展主题综合，批判新公共管理依赖竞争、绩效薪酬与惩罚性问责的片面思路，论证基于[[Professional Capital|专业资本]]与协作文化的系统改进路径。
+> - [[Argument_Maassen_Stensaker_2019_HEQ|Maassen and Stensaker (2019)]] — 比较 5 所公立研究型大学的新公共管理改革实效，揭示强化领导权与科层管控并未带来一体化组织，反而催生了行政专门化与学术活动横向脱钩的脱钩型官僚制形态（pp. 465–466）。
 
