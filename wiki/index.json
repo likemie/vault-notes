@@ -5875,6 +5875,18 @@
     ]
   },
   {
+    "title": "Fine Art",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Fine Art.md",
+    "aliases": [
+      "优美艺术",
+      "美的艺术",
+      "schöne Kunst",
+      "Fine Arts",
+      "beaux-arts"
+    ]
+  },
+  {
     "title": "First and Second Order Emotion",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/First and Second Order Emotion.md",
@@ -5997,6 +6009,17 @@
     "path": "wiki/concepts/educational-philosophy/Humosity.md",
     "aliases": [
       "腐殖性"
+    ]
+  },
+  {
+    "title": "Ideal of Beauty",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Ideal of Beauty.md",
+    "aliases": [
+      "美的理想",
+      "审美理想",
+      "Ideal der Schönheit",
+      "Ideal of the Beautiful"
     ]
   },
   {
@@ -6952,6 +6975,18 @@
       "感性冲动",
       "Stofftrieb",
       "质料冲动"
+    ]
+  },
+  {
+    "title": "Sensus Communis",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Sensus Communis.md",
+    "aliases": [
+      "共通感",
+      "共同感",
+      "Gemeinsinn",
+      "Commonality of Feeling",
+      "sensus communis aestheticus"
     ]
   },
   {
