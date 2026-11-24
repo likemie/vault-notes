@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -55,12 +55,13 @@ related_persons:
   - "[[Friedrich Nietzsche]]"
 related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch04]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch02]]"
 related_facts:
   - "[[Jena Romantics]]"
 confidence: high
-status: draft
+status: active
 created: "2026-11-15"
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 ---
@@ -69,6 +70,11 @@ updated: 2026-11-23
 > - **身份位置** 德国哲学家（1775–1854），德国古典唯心论与耶拿早期浪漫派的核心代表，曾任教于耶拿大学与维尔茨堡大学。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 62, 65–66)]]
 > - **核心角色** 在《先验唯心论体系》（1800）中把艺术推至哲学体系的最高峰，以[[Aesthetic Intuition|审美直观]]客观呈现[[Intellectual Intuition|理智直观]]所把握的绝对者；随后在《艺术哲学》（1802–1805）及同一哲学时期转向新[[Plato|柏拉图]]主义路径，使艺术从属于哲学概念的阐释。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 66, 74–75, 77–82)]]
 > - **代表贡献** 建构[[Schelling's Aesthetics|谢林美学]]体系，提出[[Aesthetic Intuition|审美直观]]作为哲学的“工具（organon）与[[Document|文献]]（document）”、艺术中意识与无意识的[[Genius|天才]]统一，以及呼吁以[[New Mythology|新神话]]实现科学向普遍诗学的回归。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 71, 74–76)]]
+
+> [!citation-card] 人物定位的关键来源：艺术作为哲学的最高峰与器官
+> 谢林是德国唯心主义传统中唯一将艺术置于哲学体系顶峰的思想家。不同于康德仅将艺术视作沟通理论与实践理性的桥梁，亦不同于黑格尔宣告艺术最高使命的终结，谢林在《先验唯心论体系》中将审美直观确立为哲学的唯一工具与文献。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 62, 75)]]
+>
+> *Friedrich Wilhelm Joseph Schelling is the only philosopher of the German idealist tradition who made art the center and the apex of his system... Schelling elevated aesthetic intuition to the organon of philosophy.*
 
 ---
 
@@ -109,11 +115,12 @@ updated: 2026-11-23
 > - **跨领域传播** 将艺术确立为先于并支撑科学真理的世界揭示活动，在思想史上直接开启了[[Martin Heidegger|马丁·海德格尔]]（Martin Heidegger）“艺术作为真理之敞开”、[[Hans-Georg Gadamer|汉斯-格奥尔格·伽达默尔]]（Hans-Georg Gadamer）的诠释学艺术真理论与[[Theodor Adorno|西奥多·阿多诺]]（Theodor W. Adorno）、马克斯·霍克海默（Max Horkheimer）对工具理性的激进批判。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 66, 85–86)]][[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 173, 185–189, 193)]]
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch04|第 4 章]]重构谢林美学演进并评估其认识论中心主义；[[Argument_Hammermeister_2002_Cambridge_Ch09|第 9 章]]析海德格尔与伽达默尔对谢林范式的隐性重续（pp. 173, 185–189, 193）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]评述谢林借助秘传摹仿反拨康德对艺术真理的悬置；[[Argument_Hammermeister_2002_Cambridge_Ch04|第 4 章]]重构其美学演进；[[Argument_Hammermeister_2002_Cambridge_Ch09|第 9 章]]析海德格尔与伽达默尔的隐性重续。
 
 ---
 
 > [!person-network] 关系网络
+> - **思想反拨与重构** [[Immanuel Kant|康德]] — 谢林一方面继承康德关于天才为艺术立法与审美意象不可概念穷尽的思想，另一方面激烈反拨康德对艺术真理与本体地位的悬置，将艺术从主观形式体验推升为呈现绝对者真理的客观最高器官。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 22–24, 219 n.1)]]
 > - **同窗／先导** [[Friedrich Hölderlin]] — 图宾根同窗与早期思想先导，以《判断与存在》及美作为存在通途的构想启发谢林突破费希特的自我哲学。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 64, 68–70)]]
 > - **对话伙伴** [[Johann Gottlieb Fichte]] — 早期自然哲学与先验哲学的重要对话对象，谢林沿其“理智直观”与“纯粹自我”推进但拒绝将自我视为终极原理。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 64, 67–69)]]
 > - **同窗／后续转向者** [[Georg Wilhelm Friedrich Hegel]] — 图宾根同窗与早期思想同侪；黑格尔后来反转谢林在《体系》中确立的“艺术高于哲学”等级。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 64, 82, 86)]]

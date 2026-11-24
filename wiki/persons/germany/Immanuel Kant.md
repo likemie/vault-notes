@@ -90,7 +90,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 ---
@@ -171,7 +171,7 @@ updated: 2026-11-23
 > - **比较教育学启蒙纽带** 其启蒙自主性与永久和平论断启发了学科始祖朱利安，推动比较教育学走向和平治理范式。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009, pp. 20, 22–24)]]
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch01|第 1]]–[[Argument_Hammermeister_2002_Cambridge_Ch02|2 章]]析康德美学强范式确立，[[Argument_Hammermeister_2002_Cambridge_Ch05|第 5]]、[[Argument_Hammermeister_2002_Cambridge_Ch07|7]]章析后世黑格尔与尼采回响。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch01|第 1]]–[[Argument_Hammermeister_2002_Cambridge_Ch02|2 章]]析康德确立先验美学强范式与艺术真理悬置，[[Argument_Hammermeister_2002_Cambridge_Ch05|第 5]]与[[Argument_Hammermeister_2002_Cambridge_Ch07|7 章]]析黑格尔与尼采回响。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009)]] — 考证康德启蒙哲学如何直接催生朱利安比较教育的永久和平蓝图。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 阐释怀特国际理论框架中的康德革命主义传统及其道德世界主义影响。
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 在西方知识确定性传统中剖析康德范畴论对调和唯理论与经验论的贡献。

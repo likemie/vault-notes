@@ -8,7 +8,7 @@ cssclasses:
   - person-page
 nationality: greece
 person_region: "greece"
-person_related_count: 52
+person_related_count: 53
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -83,12 +83,13 @@ related_arguments:
   - "[[Argument_Darwish_2009_Queens]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch01]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch02]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch08]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch10]]"
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 ---
@@ -169,7 +170,7 @@ updated: 2026-11-23
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 全面梳理柏拉图在西方学习传统中的核心位置，系统对比西方智力天赋导向与东亚儒家修身努力导向。
 > - [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] — 借用帕克对柏拉图洞穴喻的政治哲学重构，解构当代教育政策实证主义研究的技术迷思。
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 析笛卡尔对柏拉图贬抑感官的复兴（[[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]）及卡西尔重读其摹仿观（[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 梳理德国美学中的柏拉图回响：[[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]笛卡尔复兴贬抑感官、[[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]秘传摹仿启发后康德真理观、[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8]]与[[Argument_Hammermeister_2002_Cambridge_Ch10|10 章]]卡西尔和阿多诺重构艺术真理。
 
 ---
 

@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 47
+person_related_count: 48
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -73,10 +73,11 @@ related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch02]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch05]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch04]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch02]]"
 confidence: high
 status: active
 created: 2026-08-12
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 ---
@@ -142,12 +143,12 @@ updated: 2026-11-23
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cole_2005_JRIE|Cole (2005)]] — 批判主导当代国际课程的黑格尔式教化，指责其以理性规训压抑主观情感。
-> - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — 考察黑格尔哲学：[[Argument_Hammermeister_2002_Cambridge_Ch04|第 4]]–[[Argument_Hammermeister_2002_Cambridge_Ch05|5 章]]析黑格尔美学；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析卢卡奇黑格尔转向与异化扬弃。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — 评析黑格尔哲学：[[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]对比康德主观形式主义与黑格尔客观真理范式；[[Argument_Hammermeister_2002_Cambridge_Ch04|第 4]]–[[Argument_Hammermeister_2002_Cambridge_Ch05|5 章]]系统阐发其美学体系；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析卢卡奇异化扬弃。
 
 ---
 
 > [!person-network] 关系网络
-> - **思想渊源与推进** [[Immanuel Kant|康德]] — 黑格尔全面继承并推进了康德的主体性原则，扬弃了物自体与现象界的二元分裂，构筑了主客观统一的绝对唯心论体系。
+> - **思想渊源与推进** [[Immanuel Kant|康德]] — 黑格尔全面继承并推进了康德的主体性原则，扬弃了物自体与现象界的二元分裂，构筑了主客观统一的绝对唯心论体系；在美学上终结康德的主观形式主义，确立艺术承载客观真理与本体地位的客观主义范式。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 21, 23–24, 39–41)]]
 > - **美学论辩与对质** 谢林、施莱格尔、[[Karl Wilhelm Ferdinand Solger|索尔格]] — 黑格尔反转谢林早期《先验唯心论体系》“艺术高于哲学”的等级秩序，在书评中肯定索尔格客观反讽的否定辩证力量，同时批评施莱格尔式浪漫反讽切断现实联系。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 63, 84–86)]]
 > - **古典教化同道** 威廉·冯·洪堡（Wilhelm von Humboldt） — 普鲁士教育改革时期的思想同道，共同确立了以古典人文素养与哲学思辨为核心的现代大学与文科中学教育范式。
 > - **理论转化与引述** [[Benedict Anderson|本尼迪克特·安德森]] — 安德森在论述印刷资本主义与现代时间经验时，借用黑格尔的晨祷类比来刻画大众在日常生活中体验到的世俗同时性。

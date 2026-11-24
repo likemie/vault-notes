@@ -15,7 +15,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -53,10 +53,11 @@ related_facts:
   - "[[Sturm und Drang]]"
 related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch01]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch02]]"
 confidence: high
 status: active
 created: "2026-11-14"
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 ---
@@ -114,7 +115,7 @@ updated: 2026-11-23
 > - **情感与记忆路径** 提出审美热情学说，重新连接情感与认知，触及非自愿记忆，在现代文学传统中得到呼应。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 12)]]
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]析鲍姆加登创立感性认识美学，[[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]析康德对其下级认识论困局的批判，第 8 章述马尔库塞重访。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]系统评析鲍姆加登开创感性认识美学，[[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]阐释康德对其“下级认识论”等级困局的批判与美学超越。
 
 ---
 
