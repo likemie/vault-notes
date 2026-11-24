@@ -10,10 +10,10 @@ aliases:
 summary: "指个体在面对阻碍且无直接算法可用时，通过表征初始状态、搜索算子空间、在多重约束下权衡取舍、应用启发式策略与现场排障调试，以克服障碍并达成目标状态的高级认知与实践过程。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 49
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 52
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - theme/higher-order-thinking
   - theme/cognitive-science
@@ -55,9 +55,11 @@ related_concepts:
   - "[[Learning Gain]]"
   - "[[Direct Instruction]]"
   - "[[Hybrid Pedagogy]]"
+  - "[[Cognitive Activation]]"
 related_theories:
   - "[[Creative Problem Solving]]"
   - "[[Cognitive Load Theory]]"
+  - "[[Three Basic Dimensions of Teaching Quality]]"
 related_methods:
   - "[[Meta-analysis]]"
 related_instruments:
@@ -76,10 +78,11 @@ related_arguments:
   - "[[Argument_Kelly_Licona_2018_EpistemicPractices]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_Deng_2016_CE]]"
+  - "[[Argument_Koller_2014_WhatWorks]]"
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-11-18
+updated: 2026-11-24
 ---
 
 ---
@@ -141,19 +144,22 @@ updated: 2026-11-18
 
 ---
 
-> [!concept-proposition] 命题一｜复杂[[Wicked Problem|劣构问题]]解决高度依赖高质量的问题空间表征与[[Metacognition|元认知监控]]
-> **问题空间表征与认知负荷调控** 探讨个体在面对非良构复杂问题时，如何通过准确表征初始状态与约束条件，避免陷入盲目试错的无序搜索，并借助[[Metacognition|元认知监控]]实现自适应路径调整。
+> [!concept-proposition] 命题一｜复杂[[Wicked Problem|劣构问题]]解决高度依赖高质量的问题空间表征、认知激活与[[Metacognition|元认知监控]]
+> **问题空间表征与认知激活支持** 探讨个体在面对非良构复杂问题时，如何通过准确表征初始状态与约束条件，避免陷入盲目试错的无序搜索，并借助教学中的认知激活与元认知监控实现自适应路径调整。
 
 > [!claim] Zhao et al.
 > **深层问题表征与逻辑推演机制** 复杂情境中的问题解决是学习者主动进行问题空间表征、边界约束分析与多路径方案构建的高阶认知探索，有别于被动的步骤[[Mimesis|模仿]]。优质的问题解决表现依赖于个体在头脑中构建清晰的[[Concept Mapping|概念图]]式，进而有效分配[[Working Memory|工作记忆]]资源以推演多种可行性解法。在此过程中，元认知监控发挥着核心导航作用，使解题者能够敏锐识别推理死胡同并及时调整搜索算子。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 7–8, 14)]]
 
+> [!claim] [[Argument_Koller_2014_WhatWorks|Köller (2014)]]
+> **认知激活驱动深层问题解决** 依据课堂教学质量三大基准维度理论，问题解决作为高阶思维表现，无法仅通过调整学校外部组织结构自发形成，而取决于课堂教学内部的[[Cognitive Activation|认知激活]]（Kognitive Aktivierung）。教师通过概念图绘制、同伴互助与互惠教学等策略，引导学生进行概念网络重构与逻辑推演，构成激发深层问题解决能力的核心教学机制。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, p. 35)]]
+
 ---
 
 > [!concept-proposition] 命题二｜智能工具的程序性契合能显著分担搜索负荷但需防范[[Cognitive Offloading|认知外包]]
-> **智能副驾驶与程序性心智协同** 探讨[[Generative Artificial Intelligence|生成式人工智能]]与自动化调试工具在问题解决生命周期中的认知[[Educational Affordances|可供性]]，分析其作为“思维副驾驶”对逻辑推演的赋能机制及其引发的心智懒惰风险。
+> **智能工具与程序性心智协同** 探讨[[Generative Artificial Intelligence|生成式人工智能]]与自动化调试工具在问题解决生命周期中的认知[[Educational Affordances|可供性]]，分析其作为程序性认知脚手架对逻辑推演的辅助机制及其引发的心智依赖风险。
 
 > [!claim] Zhao et al.
-> **程序性高度契合与[[Cognitive Offloading|认知外包]]反思机制** 问题解决对方案搜索、边界约束分析与迭代测试具有极高的程序性依赖。生成式人工智能具有高维向量关联与语法逻辑解析特质，能高效产出多种候选解法并辅助逻辑验证，与问题解决的程序性需求产生高度契合，从而在[[Man-Computer Symbiosis|人机协同]]中充当强大的“思维副驾驶”。然而，若缺乏强有力的过程性监管与反思引导，学生极易滑向直接索取现成答案的“捷径式学习”，导致底层逻辑推演与手动排错能力的退化。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 14–15)]]
+> **程序性高度契合与认知外包反思机制** 问题解决对方案搜索、边界约束分析与迭代测试具有极高的程序性依赖。生成式人工智能具有高维向量关联与语法逻辑解析特质，能高效产出多种候选解法并辅助逻辑验证，与问题解决的程序性需求产生高度契合，从而在[[Man-Computer Symbiosis|人机协同]]中提供程序性认知脚手架。缺乏过程性监管与反思引导时，学生容易直接获取现成答案，削弱底层逻辑推演与手动排错能力的锻炼。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 14–15)]]
 
 ---
 
@@ -168,8 +174,8 @@ updated: 2026-11-18
 > [!contrast-table|notitle] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **问题表征与元认知监控** | 优质表征与反思导航是克服劣构阻碍的前提 | 复杂工程任务、数学建模、真实生活挑战 | Zhao et al.; [[Herbert A. Simon\|Simon, H. A.]] |
-> | **智能协同与程序性赋能** | 逻辑工具分担搜索负荷，但需警惕认知外包风险 | 编程教育、人机协同解题、[[Intelligent Tutoring Systems\|智能导师系统]] | Zhao et al. |
+> | **问题表征与认知激活** | 优质表征、课堂认知激活与反思导航是克服劣构阻碍的前提 | 复杂工程任务、数学建模、课堂深层学习 | Zhao et al.; [[Herbert A. Simon\|Simon, H. A.]]; [[Argument_Koller_2014_WhatWorks\|Köller (2014)]] |
+> | **智能协同与程序性支持** | 逻辑工具分担搜索负荷，但需警惕认知外包风险 | 编程教育、人机协同解题、[[Intelligent Tutoring Systems\|智能导师系统]] | Zhao et al. |
 > | **多约束权衡与现场排障** | 工程问题解决依赖物理多约束权衡与现场故障排除直觉 | [[Engineering Education\|工程教育]]、产线良率攻坚、尖端实验装置调试 | Kelly, G. J.; Licona, P. R.; Weiss, R.; [[Michael Kratsios\|Kratsios, M.]] |
 
 ---
@@ -202,16 +208,29 @@ updated: 2026-11-18
 
 ---
 
+> [!empirical-divider]
+
+> [!ma-table]- 一阶元分析总体结果
+> <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
+>
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | 异质性与预测区间 | 关键解释边界 |
+> |---|---|---|---|---|---|---|---|
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.75"><span class="b15"></span></span>0.75 | [0.52, 0.97] | Hedges' $g$；随机效应模型 | $k = 16$ / — | 结果变量：生成式人工智能干预对学生问题解决能力发展的促进效应 | 组内 $Z = 6.507, p < .001$；组间 $Q = 4.961, p = .084$ | 纳入研究均为实验与准实验设计；促学成效受学生自主调节学习水平与干预时长调节 |
+
+---
+
 > [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Higher-Order Thinking Skills]] | 概念 | 问题解决作为高阶思维能力体系中面向目标推进与障碍消除的核心支柱。 |
+> | [[Cognitive Activation]] | 概念 | 激发深层问题解决与高阶心智加工的核心课堂教学质量维度（[[Argument_Koller_2014_WhatWorks\|Köller, 2014]]）。 |
 > | [[Engineering Education]] | 概念 | 将多约束问题解决、原型迭代与车间排障作为核心培养目标的专门教育[[Paradigm\|范式]]。 |
 > | [[Epistemic Practices]] | 概念 | 问题解决在表征空间、搜索算子与多约束权衡中遵循的认知与实践规程。 |
 > | [[Process Knowledge]] | 概念 | 在物理设备与产线排障问题解决中积累的不可编码默会经验。 |
 > | [[Phronesis]] | 概念 | 在复杂动态现场面对突发故障与价值冲突时开展即兴问题解决的实践智慧。 |
-> | [[Generative Artificial Intelligence]] | 概念 | 与问题解决的程序性推演高度契合、充当思维副驾驶的生成式认知工具。 |
+> | [[Generative Artificial Intelligence]] | 概念 | 与问题解决的程序性推演高度契合、提供认知脚手架的生成式认知工具。 |
+> | [[Three Basic Dimensions of Teaching Quality]] | 理论 | 涵盖认知激活、班级管理与建设性支持的教学质量理论框架（Baumert & Kunter, 2006; [[Argument_Koller_2014_WhatWorks\|Köller, 2014]]）。 |
 > | [[Herbert A. Simon]] | 人物 | 提出问题空间与启发式搜索理论、奠定信息加工问题解决范式的认知科学先驱。 |
 > | [[Michael Kratsios]] | 人物 | 主张在工程教育中重塑现场排障考核与动手问题解决能力的科技政策学者。 |
 
@@ -219,6 +238,7 @@ updated: 2026-11-18
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 在关于[[Generative Artificial Intelligence|生成式人工智能]]促进[[Higher-Order Thinking Skills|高阶思维]]的一阶[[Meta-analysis|元分析]]中，将问题解决能力作为首要[[Dependent Variable|因变量]]维度展开综合检验，发现其获得的促学增益最大（$g = 0.745$），并深入阐释了技术算法与程序性心智的高适配机制。
+> - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 基于教学质量三大基准维度理论，阐释认知激活策略（如概念图、互惠教学）对学生高阶问题解决能力的驱动机制，确立深层互动相较表层结构的决定性地位（p. 35）。
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — 在 [[OECD]] 高等教育[[Learning Gain|增值评价]]研究中，将复杂问题解决界定为大学生跨学科通用[[21st Century Skills and Competencies Discourse|核心素养]]，系统评述了 [[Collegiate Learning Assessment|CLA+]]、[[ETS HEIghten Critical Thinking Assessment|HEIghten]] 及真实表现性任务对复杂问题解决能力的测量有效性与实施边界。
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]] — 从[[Epistemic Practices|认识论实践]]视角界定工程问题解决在多重约束权衡、原型设计迭代与数据决策中的独特规程。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，强调现场排障（Troubleshooting）手艺与默会[[Phronesis|实践智慧]]在现代科研与工程体系中的不可替代性。

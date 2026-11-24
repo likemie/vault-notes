@@ -2,27 +2,149 @@
 title: Summer School
 aliases:
   - 暑期学校
-summary: "Visible Learning MetaX 因素暑期学校的条目，归属学校 › 学校类型；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
+  - Summer Schools
+  - 暑期补习学校
+  - Summer Programs
+summary: "指学校在常规学年之外的夏季假期组织开办的专门性教育教学项目，作为外部组织层面的补偿性干预机制，其实际学业增益处于低效应区间（d = 0.17~0.23），成效高度依赖针对性补救教学与持续出勤率。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - metax
   - eef
-related_concepts: []
+  - school-type
+  - educational-administration
+related_concepts:
+  - "[[Class Size]]"
+  - "[[Grade Retention]]"
+  - "[[Time on Task]]"
+  - "[[Academic Achievement]]"
+  - "[[Socioeconomic Status]]"
+  - "[[Visible Learning]]"
+  - "[[Structured Teaching]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Meta-analysis]]"
 related_instruments: []
-related_persons: []
-related_facts: []
-related_arguments: []
-confidence: medium
-status: draft
+related_persons:
+  - "[[John Hattie]]"
+related_facts:
+  - "[[Education Endowment Foundation]]"
+related_arguments:
+  - "[[Argument_Koller_2014_WhatWorks]]"
+confidence: high
+status: active
 created: 2026-10-22
-updated: 2026-10-26
+updated: 2026-11-24
+---
+
+---
+
+> [!def] Summer School
+> **暑期学校（Summer School / Summer Programs）** 指学校或教育行政部门在常规学年之外的夏季假期组织开办的专门性教育教学项目。作为一种外部组织形态与补偿性教育干预机制，其主要功能分为补救性项目（Remedial programs，面向学业困难或处境不利群体，旨在遏止暑期滑坡与学业脱节）与加速拓展性项目（Acceleration programs，面向学有余力群体进行学科加深）（Cooper et al., 2000; [[Argument_Koller_2014_WhatWorks|Köller, 2014, p. 29]]）。
+
+> [!concept-lens|notitle] 概念透镜
+> - **含义** 指向利用假期延长学习时间的组织化补充干预机制，旨在遏止暑期学习损失（Summer Learning Loss）或提供定向学科辅导。
+> - **用途** 帮助政策制定者和学校管理者评估非学期时间延伸干预对弥合学业差距与处境不利学生学业补偿的增益效果与成本效益。
+> - **边界** 属于易于观察记录的学校外部表层结构变量；其实际学业增益处于低效应区间（$d = 0.17 \sim 0.23$），若无针对性的微观教学质量（认知激活与针对性辅导）支撑，单纯延长在校时间无法带来实质性教育质量改善（[[Argument_Koller_2014_WhatWorks|Köller, 2014, p. 29]]）。
+
+> [!citation-card|notitle] 科勒论暑期学校的补偿属性与效应边界
+> 暑期学校是对暑假期间处于不利地位学生的辅导措施；其效应量与班级规模类似（$d = 0.23$），表明单纯的组织结构安排难以产生高增益，实际成效取决于是否将资源精准投入到具体补救教学与教师专业指导中。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, p. 29)]]
+>
+> *Summer schools sind auch Fördermaßnahmen für (oftmals benachteiligte) Schülerinnen und Schüler in den Sommerferien. Ähnliche Effektstärken wie die Klassengröße weisen Finanzen und Summer schools auf.*
+
+> [!boundary]- 概念边界
+> - 不等于 **常规学年延长（Year-Round Schooling）** — 暑期学校属于假期间的短期集中干预（通常持续 2–6 周），而非改变整个学制日历与学期周期的长效结构重组。
+> - 不等于 **文体夏令营（Recreational Summer Camp）** — 暑期学校具备明确的学科辅导目标、评估要求或学分补偿属性，以学术补救与学业进阶为核心。
+
+---
+
+> [!contrast-table|notitle] 概念辨析
+> | 比较维度 | 暑期学校（Summer School） | 常规学年延长（Extended School Year） | 留级重修（[[Grade Retention\|Grade Retention]]） | 课后辅导（After-School Tutoring） |
+> |---|---|---|---|---|
+> | **干预时段** | 夏季假期（2–6 周） | 贯穿全年的教学周延长 | 整个后续学年全日制重修 | 常规学期工作日下午放学后 |
+> | **组织性质** | 假期补偿性或加速性选修项目 | 制度性法定在校时间重构 | 惩罚性学制留级制度 | 日常教学补充辅导 |
+> | **主要目标** | 遏止暑期滑坡，修补学科漏洞 | 增加总体总学时以夯实基础 | 期望通过重复一年达到年级标准 | 即时消化当日课业难点 |
+> | **典型效应** | 微弱正向（$d = 0.17 \sim 0.23$） | 边际效应递减，受疲劳制约 | 负向抑制（$d = -0.16$） | 中等正向（$d \approx 0.40$） |
+
+---
+
+> [!feature] 核心要素
+> - **目标受众定向性（Targeted Remediation）** 重点面向学业落后或社会经济背景不利学生，提供针对性辅导以抑制夏季假期学习损失。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, p. 29)]]
+> - **集中时间供给（Concentrated Instructional Time）** 在数周假期内提供密集、集中的学科学习时间，弥补学期内的有效学习时长不足。
+> - **小规模分组指导（Small-Group Instruction）** 通常采用较小班额或分组教学，便于开展个别化辅导与高频师生互动。
+> - **核心学科聚焦（Curricular Focus）** 课程主要聚焦阅读、语言与数学等基础工具学科的知识漏洞修复。
+
+> [!logic-map]- 暑期学校的学业补偿与干预机制
+> ```mermaid
+> flowchart LR
+>     A["处境不利与学业落后风险"] --> B["暑期学校组织设立"]
+>     B --> C["高强度集中时间供给"]
+>     B --> D["小班针对性补救教学"]
+>     C --> E["遏止夏季学业滑坡"]
+>     D --> F["学科核心漏洞修复"]
+>     E --> G["学业成绩微弱改善<br>(d = 0.17 ~ 0.23)"]
+>     F --> G
+> ```
+
+---
+
+> [!concept-proposition] 命题一｜暑期学校具有学业补偿功能但总体效应微弱，无法替代日常深层教学质量提升
+> **外部组织变量与边际增益规律** 探讨暑期学校作为假期外部组织形式对学业表现的实际影响幅度，揭示单纯延长在校时间在缺乏微观深层教学互动时的效能上限。
+
+> [!claim] [[Argument_Koller_2014_WhatWorks|Köller (2014)]]
+> **暑期学校的边际增益与资源投入约束** 科勒指出，暑期学校属于针对处境不利学生的假期资助与补救措施，其总体效应量（$d = 0.23$）与缩减班级规模（$d = 0.21$）相近，属于低效应区间。德语区 Stanat et al. (2012) 的实证研究亦得出类似结论。追加的教育经费与假期时间投入唯有转化为具体的补偿性教学指导与教师专业化培训，方能在学业结果中显现效能；缺乏微观深层教学质量支撑时，单纯建立暑期学校这种外部组织形式，边际增益极为有限。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, p. 29)]]
+
+> [!claim] Cooper et al. (2000)
+> **补救性与加速性项目的效应分化** 库珀等对暑期学校项目的元分析表明，暑期学校对学生的总体学业成绩具有正向促进作用，但内部存在显著类型差异：针对学业困难学生的补救性项目（Remedial programs, $d = 0.28$）效应略高于面向一般群体的加速拓展项目（Acceleration programs, $d = 0.23$）。暑期干预在减轻弱势群体“暑期滑坡”方面具有补偿价值，但无法完全弥合学年间积累的学业差距。
+
+---
+
+> [!concept-proposition] 命题二｜暑期学校的实施成效高度依赖出勤率维持、小班密集辅导与精准补救设计
+> **实施质量与微观教学条件** 探讨决定暑期项目成败的关键微观机制，阐明出勤保障与高质量师资辅导对实现正向增益的必要性。
+
+> [!claim] Education Endowment Foundation
+> **暑期学校的实施敏感性与出勤门槛** 英国教育捐赠基金会（Education Endowment Foundation, EEF）工具包综合表明，暑期学校平均可带来约 3 个月的额外学业进展（$smd = 0.40$），但实证研究间的成效异质性极高。项目成败的关键在于保持稳定的学生出勤率：处境不利群体在假期面临更高的缺勤与流失风险；高质量的小班授课、针对基础读写与数学漏洞的结构化教学方案，是保障暑期干预产生实质增益的前提条件。
+
+---
+
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **外部组织与边际产出** | 暑期学校效应微弱（$d = 0.17 \sim 0.23$），单纯时间延伸无法替代深层教学质量 | 宏观教育政策评估、教育经费配置 | [[Argument_Koller_2014_WhatWorks\|Köller (2014)]]; Cooper et al. (2000) |
+> | **实施质量与出勤门槛** | 成效依赖持续出勤率、小班规模与精准结构化补救设计 | 学校层面假期辅导组织、弱势群体干预 | [[Education Endowment Foundation\|EEF (2025)]]; Stanat et al. (2012) |
+
+---
+
+> [!dev-timeline] 概念演变
+> - **1900s–1950s — 福利看护与补考补习起源** 欧美大城市开办早期暑期学校，主要解决夏季儿童街头闲散安全问题，兼具极少数留级边缘学生的补考重修功能。
+> - **1970s–1980s — “暑期滑坡”理论推动政策转向** 海恩斯（Heyns, 1978）与恩特威斯尔等学者证实社会经济地位对学业的影响在暑假显著拉大，暑期学校被确立为阻断不利群体暑期学业损失的国家干预工具。
+> - **2000 — 库珀一阶元分析奠定循证基石** 库珀等（Cooper et al., 2000）发表权威元分析，区分补救性（$d = 0.28$）与加速性（$d = 0.23$）项目，确立暑期学校在经验研究中的效应基准。
+> - **2014 — 德语区循证检视与表层结构定性** 科勒（[[Argument_Koller_2014_WhatWorks|Köller, 2014, p. 29]]）将暑期学校与班级规模、经费追加并列为表层结构变量，结合德语区实证（Stanat et al., 2012）指出其边际效应有限，强调资源向深层教学改进倾斜。
+> - **2020s — 证据库持续系统评估** [[Education Endowment Foundation|EEF]] 与 Visible Learning MetaX 持续收录大样本循证数据，进一步揭示暑期项目在出勤率、师资配置与成本效益维度的实践约束。
+
+---
+
+> [!debates|notitle] 学术争议
+>
+> > [!axis] 补偿有效性 vs. 标签化心理抗拒
+> > 围绕强制或定向要求学业落后学生参加暑期学校，究竟是有效补偿了知识缺口，还是加剧了学术污名化与学习倦怠。
+> >
+> > - **补偿支持者** 强调暑期学习损失对弱势家庭具有不可逆的累积效应，暑期补习是阻断差距扩大的必要手段。
+> > - **心理标签批判者** 指出假期剥夺容易引发学生的抵触情绪与厌学心理，若缺乏富有趣味性的教学设计，强制出勤往往事倍功半。
+>
+> > [!axis] 高昂专项投入 vs. 常态教学改进
+> > 围绕教育部门集中财力开办暑期学校，是否比将同等资源投入日常学期教学更具成本效益。
+> >
+> > - **假期集中干预论** 认为短期小班高密度干预能产生立竿见影的纠错补漏效果。
+> > - **常态深层改进论（[[Argument_Koller_2014_WhatWorks|Köller, 2014]]）** 指出暑期学校平均效应仅 $d = 0.17 \sim 0.23$，单位成本偏高，应优先投向常态学期内的教师专业发展与深层教学优化。
+
+> [!warning|limits] 适用局限
+> 暑期学校的成效极易受出勤脱落衰减，许多处境不利学生因家庭生计、交通或看护问题难以全程参与；此外，短期内突击获得的学业增益若在后续常态学年中缺乏持续巩固，往往随时间推移迅速衰退。
+
 ---
 
 > [!metax-divider]
@@ -128,3 +250,35 @@ updated: 2026-10-26
 >
 > > [!eef-errata] 1 条
 > > - ∑ **自动核算 · 合并结果异常** 69 条效应量的异质性 Q 与 τ² 均为 0，置信区间 −0.95 ~ 1.75，疑为占位数据。
+
+---
+
+> [!empirical-divider]
+
+> [!ma-table]- 二阶元分析结果
+> <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
+>
+> | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
+> |---|---|---|---|---|---|---|---|
+> | [[Argument_Koller_2014_WhatWorks\|Köller (2014)]] | <span class="mx-bar ef-bar" title="SMD 0.23"><span class="b5"></span></span>0.23 | — | 标准化均值差 $d$；二阶元综合 | $M = —$；$E = —$；$k = —$；$N = —$ | 干预因素：学校外部结构变量中暑期学校对学业成就的效应 | — | 属于学校外部表层结构变量；效应量与缩减班级规模（$d = 0.21$）相近，增益有限 |
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Class Size]] | 概念 | 同属于学校外部表层结构变量，二者效应量相近且单位成本较高（[[Argument_Koller_2014_WhatWorks\|Köller, 2014]]）。 |
+> | [[Grade Retention]] | 概念 | 暑期学校常被用作留级制度的替代干预或补救性豁免途径。 |
+> | [[Time on Task]] | 概念 | 暑期学校通过延长日历时间提供额外学习时长，但需依托任务专注度方能见效。 |
+> | [[Academic Achievement]] | 概念 | 暑期学校干预旨在提升的核心学业结局指标。 |
+> | [[Socioeconomic Status]] | 概念 | 弱势背景家庭学生面临更严重的暑期学业滑坡，构成暑期学校的核心干预对象。 |
+> | [[Visible Learning]] | 概念 | 宏观循证综合将暑期学校归类为低效应的学校组织形态因素（$d = 0.17 \sim 0.23$）。 |
+> | [[Structured Teaching]] | 概念 | 暑期补习取得实质进展所必需的微观高结构化教学设计。 |
+> | [[John Hattie]] | 人物 | 在元综合中汇总暑期学校效应，确立其作为外部表层变量的定位。 |
+> | [[Education Endowment Foundation]] | 事实 | 在教与学工具包中追踪暑期学校的实证证据规模与成本效益评级。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 结合德语区实证（Stanat et al., 2012），分析暑期学校作为面向弱势群体资助措施的低效应特征（$d = 0.23$），论证外部组织形式相较微观深层教学质量的边际产出约束（p. 29）。

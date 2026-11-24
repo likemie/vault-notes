@@ -9298,6 +9298,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md",
+        "wiki/concepts/competency-and-assessment/Problem Solving.md",
         "wiki/theories/instruction-pedagogy/Three Basic Dimensions of Teaching Quality.md"
       ],
       "title": "Stichwort: Professionelle Kompetenz von Lehrkräften"
@@ -24782,7 +24783,9 @@
       ],
       "doi": "",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/educational-leadership-administration/Summer School.md"
+      ],
       "title": "Making the Most of Summer School: A Meta-Analytic and Narrative Review"
     },
     "Cooper et al., 2003": {
@@ -50996,13 +50999,14 @@
     },
     "Heyns, 1978": {
       "doi": "",
-      "isbn": "",
+      "isbn": "9780123472502",
       "seen_in": [
         "wiki/arguments/journal-articles/Sociology of Education/Argument_Downey_2016_SoE.md",
+        "wiki/concepts/educational-leadership-administration/Summer School.md",
         "wiki/methods/quantitative/Seasonal Comparison.md",
         "wiki/theories/sociology-of-education/Refraction Framework.md"
       ],
-      "title": ""
+      "title": "Summer learning and the effects of schooling"
     },
     "Heyns, 2017": {
       "doi": "",
@@ -108208,6 +108212,7 @@
       "isbn": "9783830928003",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md",
+        "wiki/concepts/educational-leadership-administration/Summer School.md",
         "wiki/concepts/teacher-education/Teacher Subject Matter Knowledge.md"
       ],
       "title": "Kompetenzen von Schülerinnen und Schülern am Ende der vierten Jahrgangsstufe in den Fächern Deutsch und Mathematik: Ergebnisse des IQB-Ländervergleichs 2011"

@@ -5,7 +5,7 @@ aliases:
 summary: "围绕学习表现、理解状态与改进行动的信息交互机制，包含目标、当前表现与未来路径三维度；在宏观循证综合中常被泛化并混杂行为强化、教师亲和力与测验提示，其实践效能深度依赖情境、元认知引导与主体间承认。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 63
+related_count: 65
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -59,6 +59,7 @@ related_theories:
   - "[[Feedback Intervention Theory]]"
   - "[[Recognition Theory]]"
   - "[[Panopticism]]"
+  - "[[Three Basic Dimensions of Teaching Quality]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
@@ -85,10 +86,11 @@ related_arguments:
   - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
   - "[[Argument_Hattie_2005_ACER]]"
   - "[[Argument_Barrenechea_2023_JEC]]"
+  - "[[Argument_Koller_2014_WhatWorks]]"
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 > [!def] Feedback
@@ -128,6 +130,7 @@ updated: 2026-11-23
 > - **明确前置目标（Feed Up）** 阐明学习目标与[[Success Criteria|成功标准]]，让学生知晓努力的针对与评价准则。
 > - **反馈当前表现（Feed Back）** 客观对照预期标准，呈现学生当前的达成程度与认知差距。
 > - **指引未来行动（Feed Forward）** 给出清晰、可执行的下一步具体策略，指明改进行动路径。
+> - **建设性支持维度核心（Constructive Support Dimension）** 在课堂教学三大基准维度中，反馈构成建设性支持（Konstruktive Unterstützung）的基石；有效反馈必须是针对具体内容（inhaltsorientiert）的形成性诊断，明确具体学习目标、当前已达成的进度以及下一步行动路径，单纯的赞赏或惩罚（Lob oder Tadel）往往对学业增益无效甚至有害。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, p. 35)]]
 > - **多层级信息锚定（Task, Process, [[Self-control|self-regulation]]）** 优质反馈聚焦于任务执行（FT）、过程理解（FP）与[[Metacognition|元认知]]自我调节（FR），避免指向自我人格（FS，如“你真聪明”）。
 
 > [!logic-map]- 教学反馈的双向回路与[[Epistemology|认识论]]逻辑
@@ -148,6 +151,9 @@ updated: 2026-11-23
 
 > [!claim] Kluger & DeNisi; [[Dylan Wiliam|Wiliam, D.]]
 > **38% 负效应分布与注意力层级转移机制** 克鲁格与德尼西（Kluger & DeNisi, 1996）对 131 项严格实验开展系统[[Meta-analysis|元分析]]表明，尽管反馈干预（FI）总体平均效应为正（$d = 0.38$），但其中高达 38% 的研究产生了负向抑制效应。威廉（[[Argument_Wiliam_2019_ERE|Wiliam, 2019, p. 11]]）据此指出，在超过三分之一的课堂情境中，提供不当反馈反而不如不给反馈。根据[[Feedback Intervention Theory|反馈干预理论]]（FIT），反馈有效性取决于个体的注意力分配：当反馈引导注意力聚焦于任务细节与[[Learning Strategies|学习策略]]时，促进[[Academic Achievement|学业表现]]；当反馈引发自我防卫、焦虑或人际比较时，注意力从任务转向自我，直接损害认知表现（Shute, 2008; [[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a, pp. 11–12]]）。
+
+> [!claim] [[Argument_Koller_2014_WhatWorks|Köller (2014)]]
+> **内容导向反馈与测验联结增益** 科勒指出，反馈的实证高效益（$d = 0.73$）并不意味着教师对学生个人的孤立表扬或批评，后者往往徒劳无益；真正的有效反馈必须指向学生刚才表达或操作的具体内容，明确学习目标、现有进展与后续步骤。此外，定期学业检测若与具有促学价值的形成性反馈紧密结合，其对学业的促进效应可提升至 $d > 0.60$，破除了测验必然引发应试遗忘的偏见。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, pp. 33, 35)]]
 
 ---
 
@@ -170,7 +176,7 @@ updated: 2026-11-23
 > [!contrast-table] 教学反馈核心命题归纳
 > | 命题类型 | 核心判断 | 实践机制与情境边界 | 代表学者与[[Document\|文献]] |
 > |---|---|---|---|
-> | **效应分布与心理敏感** | 反馈是双刃剑，单一均值掩盖 38% 负效应与注意转向风险 | 聚焦任务过程与策略（FT/FP/FR）见效，指向自我评价（FS）引发抑制 | Kluger and DeNisi (1996); [[Argument_Wiliam_2019_ERE\|Wiliam (2019)]]; Shute (2008) |
+> | **效应分布与心理敏感** | 反馈是双刃剑，单一均值掩盖 38% 负效应与注意转向风险；内容导向反馈驱动实质增益 | 聚焦任务过程与策略（FT/FP/FR）见效，指向自我评价（FS）引发抑制 | Kluger and DeNisi (1996); [[Argument_Wiliam_2019_ERE\|Wiliam (2019)]]; Shute (2008); [[Argument_Koller_2014_WhatWorks\|Köller (2014)]] |
 > | **主体意向与承认批判** | 行为主义回路将人异化为技术修正器，消解主体意向性 | 真正[[Dialogue in Education\|教育对话]]必须建立在平等互惠交往与主体间相互承认基础之上 | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]]; Honneth (1996) |
 > | **构念纯度与实证质检** | 宏观反馈超级指标由异质现象拼贴而成，底层缺乏构念效度 | 排除外在奖励、[[Teacher Immediacy\|教师即时性]]与测验诊断提示，还原本真教学反馈 | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]]; [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] |
 
@@ -511,6 +517,7 @@ updated: 2026-11-23
 > | [[Panopticism]] | 概念 | 罗默（2018）剖析评价系统中反馈作为全景监控与行为驯化的隐喻机制。 |
 > | [[Behaviorism]] | 理论 | 传统单向强化反馈背后的行为主义刺激-反应联结理论。 |
 > | [[Recognition Theory]] | 理论 | 霍耐特承认理论为抵御行为主义操纵、确立主体间对话反馈提供伦理基础。 |
+> | [[Three Basic Dimensions of Teaching Quality]] | 理论 | 涵盖认知激活、班级管理与建设性支持的教学质量框架；反馈构成建设性支持的核心（[[Argument_Koller_2014_WhatWorks\|Köller, 2014]]）。 |
 > | [[John Hattie]] | 人物 | 在可见学习中系统量化反馈效应量并强调教学交互的代表学者。 |
 > | [[Dylan Wiliam]] | 人物 | 聚焦课堂形成性评价、反馈情境异质性与负效应分布的教学学者。 |
 > | [[Thomas Aastrup Rømer]] | 人物 | 批判可见学习反馈倒置与集权监控的丹麦教育哲学家。 |
@@ -521,6 +528,7 @@ updated: 2026-11-23
 > [!evidence-grid-a|notitle] 核心研究索引
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 细读[[John Hattie|哈蒂]]反馈效应依赖的五大核心[[Meta-analysis|元分析]]（占样本 92.4%），实证揭示四项未测量反馈的[[Construct|构念]]混淆，并从[[Technical Rationality|技术理性]]与[[Axel Honneth|霍耐特]][[Recognition Theory|承认理论]]批判其[[Behaviorism|行为主义]]消解[[Intentionality|主体意向性]]的局限。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 专家德尔菲评审确立反馈为中小学实践相关度最高的前 5 项因素之一（$M=4.75$），同时揭示其[[Meta-meta-analysis|二阶元分析]]汇总存在严重的底层提取失误与设计混杂。
+> - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 结合德语区教学质量三大基准维度，将反馈确立为建设性支持的核心支柱，实证辨析针对具体内容的方向性指导与空洞褒贬的本质区别，并阐明检测与形成性反馈联结的增益机制（pp. 33, 35）。
 > - [[Argument_Wiliam_2019_ERE|Wiliam (2019)]] — 援引 Kluger and DeNisi (1996) 元分析，剖析反馈干预中高达 38% 负效应的分布真相，论证单一平均[[Effect Size|效应量]]的误导性。
 > - [[Argument_Håkansson_2015_TT|Håkansson (2015a)]] — 结合国际教学综合，阐明反馈与理解检查作为[[Classroom Management|课堂管理]]与[[Structured Teaching|结构化教学]]不可分割的核心机制。
 > - [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz and Klinge (2022)]] — 批判算法与数字化学习平台中的即时反馈、[[Gamification|游戏化]]代币对学生[[Metacognition|元认知]]反思间隙的压缩与[[Data Behaviorism|数据行为主义]]异化。
