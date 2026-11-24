@@ -2301,11 +2301,11 @@
     },
     "Alexander & Entwisle, 1996": {
       "doi": "",
-      "isbn": "",
+      "isbn": "9780805819076",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
       ],
-      "title": ""
+      "title": "Schools and Children at Risk"
     },
     "Alexander Astin, 1984": {
       "doi": "",
@@ -9294,13 +9294,13 @@
       "title": "Promoting narrative competence through adult-child joint pretense: Lessons from the Scandinavian educational practice of playworld"
     },
     "Baumert & Kunter, 2006": {
-      "doi": "",
+      "doi": "https://doi.org/10.1007/s11618-006-0165-2",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md",
         "wiki/theories/instruction-pedagogy/Three Basic Dimensions of Teaching Quality.md"
       ],
-      "title": ""
+      "title": "Stichwort: Professionelle Kompetenz von Lehrkräften"
     },
     "Baumert & Schümer, 2001": {
       "doi": "",
@@ -9350,6 +9350,7 @@
       "doi": "https://doi.org/10.3102/0002831209345157",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md",
         "wiki/arguments/journal-articles/Journal of Curriculum Studies/Argument_Terhart_2011_JCS.md",
         "wiki/concepts/instruction-pedagogy/Effective Teaching.md",
         "wiki/concepts/research-methodology/Critique of Meta-analysis.md",
@@ -13479,11 +13480,11 @@
     },
     "Bonsen et al., 2002": {
       "doi": "",
-      "isbn": "",
+      "isbn": "9783779914440",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
       ],
-      "title": ""
+      "title": "Die Wirksamkeit von Schulleitung: Empirische Annäherungen an ein Gesamtmodell schulischen Leitungshandelns"
     },
     "Bonvillian & Singer, 2018": {
       "doi": "",
@@ -25065,9 +25066,11 @@
       "datasets": [
         "metax:S0705"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.3102/003465430298563",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
+      ],
       "title": "Learner-Centered Teacher-Student Relationships Are Effective: A Meta-Analysis"
     },
     "Cornwall & Brock, 2006": {
@@ -33106,6 +33109,14 @@
         "wiki/methods/quantitative/h-Index.md"
       ],
       "title": ""
+    },
+    "Ehmke et al., 2010": {
+      "doi": "https://doi.org/10.1016/j.stueduc.2010.05.002",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
+      ],
+      "title": "Effects of Grade Retention on Achievement and Self-Concept in Science and Mathematics"
     },
     "Ehmke, 2010": {
       "datasets": [
@@ -45676,6 +45687,12 @@
       ],
       "title": "‘Das große Tabu’: some aspects of the extraordinary impact of the OECD’s PISA study on the German education system"
     },
+    "Gruehn, 2000": {
+      "doi": "",
+      "isbn": "9783893258901",
+      "seen_in": [],
+      "title": "Unterricht und schulisches Lernen: Schüler als Quellen der Unterrichtsbeschreibung"
+    },
     "Grumet, 1998": {
       "doi": "",
       "isbn": "",
@@ -46704,6 +46721,12 @@
       "isbn": "",
       "seen_in": [],
       "title": "Can after-school programs and private tutoring help improve students’ achievement? Revisiting the effects in Korean secondary schools"
+    },
+    "Haag & Streber, 2012": {
+      "doi": "",
+      "isbn": "9783407628176",
+      "seen_in": [],
+      "title": "Klassenführung: Erfolgreich unterrichten mit Classroom Management"
     },
     "Haas, 1990": {
       "doi": "",
@@ -62116,6 +62139,14 @@
       ],
       "title": ""
     },
+    "Kirschner, 2006": {
+      "doi": "https://doi.org/10.1207/s15326985ep4102_1",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
+      ],
+      "title": "Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching"
+    },
     "Kirvan, 2015": {
       "datasets": [
         "eef:homework"
@@ -63528,6 +63559,12 @@
       "seen_in": [],
       "title": "Evaluation Of A Vertical-Horizontal Enrichment Program For The Math-Gifted Students Fourth, Fifth And Sixth Grades."
     },
+    "Kounin, 1976": {
+      "doi": "",
+      "isbn": "9783456802879",
+      "seen_in": [],
+      "title": "Techniken der Klassenführung"
+    },
     "Koutsouris, 2021": {
       "datasets": [
         "eef:teaching-assistant-interventions"
@@ -64844,12 +64881,12 @@
     },
     "Kunter et al., 2011": {
       "doi": "",
-      "isbn": "",
+      "isbn": "9783830925439",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md",
         "wiki/theories/instruction-pedagogy/Three Basic Dimensions of Teaching Quality.md"
       ],
-      "title": ""
+      "title": "Professionelle Kompetenz von Lehrkräften: Ergebnisse des Forschungsprogramms COACTIV"
     },
     "Kunz & Kunz, 1995": {
       "datasets": [
@@ -65189,11 +65226,11 @@
     },
     "Köller & Baumert, 2012": {
       "doi": "",
-      "isbn": "",
+      "isbn": "9783621278140",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
       ],
-      "title": ""
+      "title": "Schulische Leistungen und ihre Messung"
     },
     "Köller et al., 2000": {
       "doi": "",
@@ -65202,6 +65239,20 @@
         "wiki/arguments/journal-articles/Contemporary Educational Psychology/Argument_Trautwein_2007_CEP.md"
       ],
       "title": ""
+    },
+    "Köller et al., 2010": {
+      "doi": "",
+      "isbn": "9783830924005",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
+      ],
+      "title": "Sprachliche Kompetenzen im Ländervergleich"
+    },
+    "Köller et al., 2013": {
+      "doi": "",
+      "isbn": "9783486745108",
+      "seen_in": [],
+      "title": "Was wirkt wirklich? Einschätzungen von Determinanten schulischen Lernens"
     },
     "Köller, 2012": {
       "doi": "",
@@ -77793,6 +77844,12 @@
       "seen_in": [],
       "title": "Effects of structure strategy instruction delivered to fifth-grade children using the Internet with and without the aid of older adult tutors."
     },
+    "Meyer, 2004": {
+      "doi": "",
+      "isbn": "9783589218677",
+      "seen_in": [],
+      "title": "Was ist guter Unterricht?"
+    },
     "Meyer, 2010": {
       "datasets": [
         "eef:feedback"
@@ -87467,6 +87524,14 @@
         "wiki/arguments/journal-articles/Frontiers in Psychology/Argument_Song_Choi_2026_FPSYG.md"
       ],
       "title": ""
+    },
+    "Park et al., 2013": {
+      "doi": "https://doi.org/10.1037/a0030481",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
+      ],
+      "title": "When Less Is More: Effects of Grade Skipping on Adult STEM Accomplishments Among Mathematically Precocious Youth"
     },
     "Park et al., 2023": {
       "doi": "",
@@ -102619,13 +102684,13 @@
       "title": ""
     },
     "Seidel & Shavelson, 2007": {
-      "doi": "",
+      "doi": "https://doi.org/10.3102/0034654307310317",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md",
         "wiki/persons/germany/Tina Seidel.md"
       ],
-      "title": ""
+      "title": "Teaching Effectiveness Research in the Past Decade: The Role of Theory and Research Design in Disentangling Meta-Analysis Results"
     },
     "Seidel & Shavelson, 2007a": {
       "datasets": [
@@ -108113,11 +108178,11 @@
     },
     "Stanat et al., 2012": {
       "doi": "",
-      "isbn": "",
+      "isbn": "9783830928003",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
       ],
-      "title": ""
+      "title": "Kompetenzen von Schülerinnen und Schülern am Ende der vierten Jahrgangsstufe in den Fächern Deutsch und Mathematik: Ergebnisse des IQB-Ländervergleichs 2011"
     },
     "Stanat, 2012": {
       "doi": "",
@@ -114842,6 +114907,22 @@
       "seen_in": [],
       "title": "Mediating factors of Statistics Anxiety in university students: a systematic review and meta-analysis."
     },
+    "Trautwein & Köller, 2003": {
+      "doi": "https://doi.org/10.1023/A:1026040401438",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
+      ],
+      "title": "The Relationship Between Homework and Achievement - Still Much of a Mystery"
+    },
+    "Trautwein et al., 2002": {
+      "doi": "https://doi.org/10.1006/ceps.2001.1084",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
+      ],
+      "title": "Do Homework Assignments Enhance Achievement? A Multilevel Analysis in 7th-Grade Mathematics"
+    },
     "Travagin et al., 2015": {
       "datasets": [
         "metax:S1259"
@@ -118099,6 +118180,12 @@
       "seen_in": [],
       "title": "The effect of blended learning on student performance at course-level in higher education: A meta-analysis"
     },
+    "Vock et al., 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Wer überspringt eine Schulklasse? Befunde zum Klassenüberspringen in Deutschland"
+    },
     "Vogel & Hetmanek, 2016": {
       "doi": "",
       "isbn": "",
@@ -118705,6 +118792,12 @@
         "wiki/theories/learning-science-cognitive-science/Walberg's Educational Productivity Model.md"
       ],
       "title": ""
+    },
+    "Walberg, 2010": {
+      "doi": "",
+      "isbn": "9780817911140",
+      "seen_in": [],
+      "title": "Advancing Student Achievement"
     },
     "Wald & Harland, 2019": {
       "doi": "",
@@ -127224,6 +127317,12 @@
       "isbn": "",
       "seen_in": [],
       "title": "The effects of the Lindamood Phoneme Sequencing Program on reading fluency and comprehension of at-risk first-graders"
+    },
+    "von Saldern, 2006": {
+      "doi": "",
+      "isbn": "9783621275996",
+      "seen_in": [],
+      "title": "Klassengröße"
     },
     "von Stumm & Ackerman, 2013": {
       "datasets": [

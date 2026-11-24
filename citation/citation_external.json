@@ -7559,6 +7559,8 @@
     "Egghe (2006)": "Egghe, 2006",
     "Egghe, 2006": "Egghe, 2006",
     "Ehmke (2010)": "Ehmke, 2010",
+    "Ehmke et al. (2010)": "Ehmke et al., 2010",
+    "Ehmke et al., 2010": "Ehmke et al., 2010",
     "Ehmke, 2010": "Ehmke, 2010",
     "Ehren et al. (2013)": "Ehren et al., 2013",
     "Ehren et al. (2014)": "Ehren et al., 2014",
@@ -10429,6 +10431,8 @@
     "Grubbs', 1950": "Grubbs', 1950",
     "Gruber (2006)": "Gruber, 2006",
     "Gruber, 2006": "Gruber, 2006",
+    "Gruehn (2000)": "Gruehn, 2000",
+    "Gruehn, 2000": "Gruehn, 2000",
     "Grumet (1998)": "Grumet, 1998",
     "Grumet, 1998": "Grumet, 1998",
     "Grundy & Kemmis (1988)": "Grundy & Kemmis, 1988",
@@ -10660,6 +10664,8 @@
     "Ha & Sun, 2021": "Ha & Sun, 2021",
     "Ha (2017)": "Ha, 2017",
     "Ha, 2017": "Ha, 2017",
+    "Haag & Streber (2012)": "Haag & Streber, 2012",
+    "Haag & Streber, 2012": "Haag & Streber, 2012",
     "Haas (1990)": "Haas, 1990",
     "Haas (1992)": "Haas, 1992",
     "Haas (2005a)": "Haas, 2005a",
@@ -14185,11 +14191,13 @@
     "Kirschner & Erkens (2013)": "Kirschner & Erkens, 2013",
     "Kirschner & Erkens, 2013": "Kirschner & Erkens, 2013",
     "Kirschner (2004)": "Kirschner, 2004",
+    "Kirschner (2006)": "Kirschner, 2006",
     "Kirschner et al. (2004)": "Kirschner et al., 2004",
     "Kirschner et al. (2006)": "Kirschner et al., 2006",
     "Kirschner et al., 2004": "Kirschner et al., 2004",
     "Kirschner et al., 2006": "Kirschner et al., 2006",
     "Kirschner, 2004": "Kirschner, 2004",
+    "Kirschner, 2006": "Kirschner, 2006",
     "Kirvan (2015)": "Kirvan, 2015",
     "Kirvan, 2015": "Kirvan, 2015",
     "Kish (1965)": "Kish, 1965",
@@ -14507,6 +14515,8 @@
     "Kouhbanani, 2021": "Kouhbanani, 2021",
     "Koukeyan (1976)": "Koukeyan, 1976",
     "Koukeyan, 1976": "Koukeyan, 1976",
+    "Kounin (1976)": "Kounin, 1976",
+    "Kounin, 1976": "Kounin, 1976",
     "Koutsouris (2021)": "Koutsouris, 2021",
     "Koutsouris, 2021": "Koutsouris, 2021",
     "Kovach & Walser (2008)": "Kovach & Walser, 2008",
@@ -14896,7 +14906,11 @@
     "Köller & Baumert, 2012": "Köller & Baumert, 2012",
     "Köller (2012)": "Köller, 2012",
     "Köller et al. (2000)": "Köller et al., 2000",
+    "Köller et al. (2010)": "Köller et al., 2010",
+    "Köller et al. (2013)": "Köller et al., 2013",
     "Köller et al., 2000": "Köller et al., 2000",
+    "Köller et al., 2010": "Köller et al., 2010",
+    "Köller et al., 2013": "Köller et al., 2013",
     "Köller, 2012": "Köller, 2012",
     "König & Frey (2022)": "König & Frey, 2022",
     "König & Frey, 2022": "König & Frey, 2022",
@@ -17762,6 +17776,7 @@
     "Meyer (1980)": "Meyer, 1980",
     "Meyer (1989)": "Meyer, 1989",
     "Meyer (2002)": "Meyer, 2002",
+    "Meyer (2004)": "Meyer, 2004",
     "Meyer (2010)": "Meyer, 2010",
     "Meyer (2011)": "Meyer, 2011",
     "Meyer (2013)": "Meyer, 2013",
@@ -17781,6 +17796,7 @@
     "Meyer, 1980": "Meyer, 1980",
     "Meyer, 1989": "Meyer, 1989",
     "Meyer, 2002": "Meyer, 2002",
+    "Meyer, 2004": "Meyer, 2004",
     "Meyer, 2010": "Meyer, 2010",
     "Meyer, 2011": "Meyer, 2011",
     "Meyer, 2013": "Meyer, 2013",
@@ -19978,7 +19994,9 @@
     "Park (2016)": "Park, 2016",
     "Park (2018a)": "Park, 2018a",
     "Park (2018b)": "Park, 2018b",
+    "Park et al. (2013)": "Park et al., 2013",
     "Park et al. (2023)": "Park et al., 2023",
+    "Park et al., 2013": "Park et al., 2013",
     "Park et al., 2023": "Park et al., 2023",
     "Park, 2009": "Park, 2009",
     "Park, 2014": "Park, 2014",
@@ -23428,8 +23446,8 @@
     "Seidel & Kelle, 1995": "Seidel & Kelle, 1995",
     "Seidel & Shavelson (2007a)": "Seidel & Shavelson, 2007a",
     "Seidel & Shavelson (2007b)": "Seidel & Shavelson, 2007b",
-    "Seidel & Shavelson, 2007": "Seidel & Shavelson, 2007a",
-    "Seidel & Shavelson, 2007a": "Seidel & Shavelson, 2007b",
+    "Seidel & Shavelson, 2007": "Seidel & Shavelson, 2007b",
+    "Seidel & Shavelson, 2007a": "Seidel & Shavelson, 2007a",
     "Seidel & Shavelson, 2007b": "Seidel & Shavelson, 2007b",
     "Seidel et al. (2017)": "Seidel et al., 2017",
     "Seidel et al., 2017": "Seidel et al., 2017",
@@ -26229,6 +26247,10 @@
     "Trapmann et al., 2007b": "Trapmann et al., 2007b",
     "Trassi et al. (2022)": "Trassi et al., 2022",
     "Trassi et al., 2022": "Trassi et al., 2022",
+    "Trautwein & Köller (2003)": "Trautwein & Köller, 2003",
+    "Trautwein & Köller, 2003": "Trautwein & Köller, 2003",
+    "Trautwein et al. (2002)": "Trautwein et al., 2002",
+    "Trautwein et al., 2002": "Trautwein et al., 2002",
     "Travagin et al. (2015)": "Travagin et al., 2015",
     "Travagin et al., 2015": "Travagin et al., 2015",
     "Travers & Milgram (1969)": "Travers & Milgram, 1969",
@@ -26977,6 +26999,8 @@
     "Vladescu, 2020": "Vladescu, 2020",
     "Vo et al. (2017)": "Vo et al., 2017",
     "Vo et al., 2017": "Vo et al., 2017",
+    "Vock et al. (2013)": "Vock et al., 2013",
+    "Vock et al., 2013": "Vock et al., 2013",
     "Vogel & Hetmanek (2016)": "Vogel & Hetmanek, 2016",
     "Vogel & Hetmanek, 2016": "Vogel & Hetmanek, 2016",
     "Vogel (1975)": "Vogel, 1975",
@@ -27115,8 +27139,10 @@
     "Walberg & Hattie, 1987": "Walberg & Hattie, 1987",
     "Walberg (1982)": "Walberg, 1982",
     "Walberg (1984)": "Walberg, 1984",
+    "Walberg (2010)": "Walberg, 2010",
     "Walberg, 1982": "Walberg, 1982",
     "Walberg, 1984": "Walberg, 1984",
+    "Walberg, 2010": "Walberg, 2010",
     "Wald & Harland (2019)": "Wald & Harland, 2019",
     "Wald & Harland, 2019": "Wald & Harland, 2019",
     "Wald (1943)": "Wald, 1943",
@@ -29078,6 +29104,8 @@
     "van der Kleij et al., 2015": "van der Kleij et al., 2015",
     "van der Laan (2006)": "van der Laan, 2006",
     "van der Laan, 2006": "van der Laan, 2006",
+    "von Saldern (2006)": "von Saldern, 2006",
+    "von Saldern, 2006": "von Saldern, 2006",
     "von Stumm & Ackerman (2013)": "von Stumm & Ackerman, 2013",
     "von Stumm & Ackerman, 2013": "von Stumm & Ackerman, 2013",
     "Çavus & Deniz (2022)": "Çavus & Deniz, 2022",
@@ -33763,11 +33791,11 @@
       "identity_keys": [
         "Alexander & Entwisle, 1996"
       ],
-      "isbn": "",
+      "isbn": "9780805819076",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
       ],
-      "title": ""
+      "title": "Schools and Children at Risk"
     },
     "Alexander Astin, 1984": {
       "aliases": [
@@ -45473,7 +45501,7 @@
         "Baumert & Kunter, 2006",
         "Baumert & Kunter (2006)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.1007/s11618-006-0165-2",
       "identity_keys": [
         "Baumert & Kunter, 2006"
       ],
@@ -45482,7 +45510,7 @@
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md",
         "wiki/theories/instruction-pedagogy/Three Basic Dimensions of Teaching Quality.md"
       ],
-      "title": ""
+      "title": "Stichwort: Professionelle Kompetenz von Lehrkräften"
     },
     "Baumert & Schümer, 2001": {
       "aliases": [
@@ -45574,6 +45602,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md",
         "wiki/arguments/journal-articles/Journal of Curriculum Studies/Argument_Terhart_2011_JCS.md",
         "wiki/concepts/instruction-pedagogy/Effective Teaching.md",
         "wiki/concepts/research-methodology/Critique of Meta-analysis.md",
@@ -52502,11 +52531,11 @@
       "identity_keys": [
         "Bonsen et al., 2002"
       ],
-      "isbn": "",
+      "isbn": "9783779914440",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
       ],
-      "title": ""
+      "title": "Die Wirksamkeit von Schulleitung: Empirische Annäherungen an ein Gesamtmodell schulischen Leitungshandelns"
     },
     "Bonvillian & Singer, 2018": {
       "aliases": [
@@ -71772,12 +71801,14 @@
         "Cornelius-White, 2007",
         "Cornelius-White (2007)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.3102/003465430298563",
       "identity_keys": [
         "Cornelius-White, 2007"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
+      ],
       "title": "Learner-Centered Teacher-Student Relationships Are Effective: A Meta-Analysis"
     },
     "Cornwall & Brock, 2006": {
@@ -85331,6 +85362,21 @@
         "wiki/methods/quantitative/h-Index.md"
       ],
       "title": ""
+    },
+    "Ehmke et al., 2010": {
+      "aliases": [
+        "Ehmke et al., 2010",
+        "Ehmke et al. (2010)"
+      ],
+      "doi": "https://doi.org/10.1016/j.stueduc.2010.05.002",
+      "identity_keys": [
+        "Ehmke et al., 2010"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
+      ],
+      "title": "Effects of Grade Retention on Achievement and Self-Concept in Science and Mathematics"
     },
     "Ehmke, 2010": {
       "aliases": [
@@ -106342,6 +106388,19 @@
       ],
       "title": "‘Das große Tabu’: some aspects of the extraordinary impact of the OECD’s PISA study on the German education system"
     },
+    "Gruehn, 2000": {
+      "aliases": [
+        "Gruehn, 2000",
+        "Gruehn (2000)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Gruehn, 2000"
+      ],
+      "isbn": "9783893258901",
+      "seen_in": [],
+      "title": "Unterricht und schulisches Lernen: Schüler als Quellen der Unterrichtsbeschreibung"
+    },
     "Grumet, 1998": {
       "aliases": [
         "Grumet, 1998",
@@ -108022,6 +108081,19 @@
       "isbn": "",
       "seen_in": [],
       "title": "Can after-school programs and private tutoring help improve students’ achievement? Revisiting the effects in Korean secondary schools"
+    },
+    "Haag & Streber, 2012": {
+      "aliases": [
+        "Haag & Streber, 2012",
+        "Haag & Streber (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Haag & Streber, 2012"
+      ],
+      "isbn": "9783407628176",
+      "seen_in": [],
+      "title": "Klassenführung: Erfolgreich unterrichten mit Classroom Management"
     },
     "Haas, 1990": {
       "aliases": [
@@ -133789,6 +133861,21 @@
       ],
       "title": ""
     },
+    "Kirschner, 2006": {
+      "aliases": [
+        "Kirschner, 2006",
+        "Kirschner (2006)"
+      ],
+      "doi": "https://doi.org/10.1207/s15326985ep4102_1",
+      "identity_keys": [
+        "Kirschner, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
+      ],
+      "title": "Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching"
+    },
     "Kirvan, 2015": {
       "aliases": [
         "Kirvan, 2015",
@@ -136125,6 +136212,19 @@
       "seen_in": [],
       "title": "Evaluation Of A Vertical-Horizontal Enrichment Program For The Math-Gifted Students Fourth, Fifth And Sixth Grades."
     },
+    "Kounin, 1976": {
+      "aliases": [
+        "Kounin, 1976",
+        "Kounin (1976)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Kounin, 1976"
+      ],
+      "isbn": "9783456802879",
+      "seen_in": [],
+      "title": "Techniken der Klassenführung"
+    },
     "Koutsouris, 2021": {
       "aliases": [
         "Koutsouris, 2021",
@@ -138237,12 +138337,12 @@
       "identity_keys": [
         "Kunter et al., 2011"
       ],
-      "isbn": "",
+      "isbn": "9783830925439",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md",
         "wiki/theories/instruction-pedagogy/Three Basic Dimensions of Teaching Quality.md"
       ],
-      "title": ""
+      "title": "Professionelle Kompetenz von Lehrkräften: Ergebnisse des Forschungsprogramms COACTIV"
     },
     "Kunz & Kunz, 1995": {
       "aliases": [
@@ -138806,11 +138906,11 @@
       "identity_keys": [
         "Köller & Baumert, 2012"
       ],
-      "isbn": "",
+      "isbn": "9783621278140",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
       ],
-      "title": ""
+      "title": "Schulische Leistungen und ihre Messung"
     },
     "Köller et al., 2000": {
       "aliases": [
@@ -138826,6 +138926,34 @@
         "wiki/arguments/journal-articles/Contemporary Educational Psychology/Argument_Trautwein_2007_CEP.md"
       ],
       "title": ""
+    },
+    "Köller et al., 2010": {
+      "aliases": [
+        "Köller et al., 2010",
+        "Köller et al. (2010)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Köller et al., 2010"
+      ],
+      "isbn": "9783830924005",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
+      ],
+      "title": "Sprachliche Kompetenzen im Ländervergleich"
+    },
+    "Köller et al., 2013": {
+      "aliases": [
+        "Köller et al., 2013",
+        "Köller et al. (2013)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Köller et al., 2013"
+      ],
+      "isbn": "9783486745108",
+      "seen_in": [],
+      "title": "Was wirkt wirklich? Einschätzungen von Determinanten schulischen Lernens"
     },
     "Köller, 2012": {
       "aliases": [
@@ -159636,6 +159764,19 @@
       "seen_in": [],
       "title": "Effects of structure strategy instruction delivered to fifth-grade children using the Internet with and without the aid of older adult tutors."
     },
+    "Meyer, 2004": {
+      "aliases": [
+        "Meyer, 2004",
+        "Meyer (2004)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Meyer, 2004"
+      ],
+      "isbn": "9783589218677",
+      "seen_in": [],
+      "title": "Was ist guter Unterricht?"
+    },
     "Meyer, 2010": {
       "aliases": [
         "Meyer, 2010",
@@ -175802,6 +175943,21 @@
         "wiki/arguments/journal-articles/Frontiers in Psychology/Argument_Song_Choi_2026_FPSYG.md"
       ],
       "title": ""
+    },
+    "Park et al., 2013": {
+      "aliases": [
+        "Park et al., 2013",
+        "Park et al. (2013)"
+      ],
+      "doi": "https://doi.org/10.1037/a0030481",
+      "identity_keys": [
+        "Park et al., 2013"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
+      ],
+      "title": "When Less Is More: Effects of Grade Skipping on Adult STEM Accomplishments Among Mathematically Precocious Youth"
     },
     "Park et al., 2023": {
       "aliases": [
@@ -201256,6 +201412,19 @@
       ],
       "doi": "",
       "identity_keys": [
+        "Seidel & Shavelson, 2007a"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Teaching Effectiveness Research in the Last Decade: Role of Theory and Research Design in Disentangling Meta-Analysis Results"
+    },
+    "Seidel & Shavelson, 2007b": {
+      "aliases": [
+        "Seidel & Shavelson, 2007b",
+        "Seidel & Shavelson (2007b)"
+      ],
+      "doi": "https://doi.org/10.3102/0034654307310317",
+      "identity_keys": [
         "Seidel & Shavelson, 2007"
       ],
       "isbn": "",
@@ -201263,20 +201432,7 @@
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md",
         "wiki/persons/germany/Tina Seidel.md"
       ],
-      "title": ""
-    },
-    "Seidel & Shavelson, 2007b": {
-      "aliases": [
-        "Seidel & Shavelson, 2007b",
-        "Seidel & Shavelson (2007b)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Seidel & Shavelson, 2007a"
-      ],
-      "isbn": "",
-      "seen_in": [],
-      "title": "Teaching Effectiveness Research in the Last Decade: Role of Theory and Research Design in Disentangling Meta-Analysis Results"
+      "title": "Teaching Effectiveness Research in the Past Decade: The Role of Theory and Research Design in Disentangling Meta-Analysis Results"
     },
     "Seidel et al., 2017": {
       "aliases": [
@@ -210322,11 +210478,11 @@
       "identity_keys": [
         "Stanat et al., 2012"
       ],
-      "isbn": "",
+      "isbn": "9783830928003",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
       ],
-      "title": ""
+      "title": "Kompetenzen von Schülerinnen und Schülern am Ende der vierten Jahrgangsstufe in den Fächern Deutsch und Mathematik: Ergebnisse des IQB-Ländervergleichs 2011"
     },
     "Stanat, 2012": {
       "aliases": [
@@ -221459,6 +221615,36 @@
       "seen_in": [],
       "title": "Mediating factors of Statistics Anxiety in university students: a systematic review and meta-analysis."
     },
+    "Trautwein & Köller, 2003": {
+      "aliases": [
+        "Trautwein & Köller, 2003",
+        "Trautwein & Köller (2003)"
+      ],
+      "doi": "https://doi.org/10.1023/A:1026040401438",
+      "identity_keys": [
+        "Trautwein & Köller, 2003"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
+      ],
+      "title": "The Relationship Between Homework and Achievement - Still Much of a Mystery"
+    },
+    "Trautwein et al., 2002": {
+      "aliases": [
+        "Trautwein et al., 2002",
+        "Trautwein et al. (2002)"
+      ],
+      "doi": "https://doi.org/10.1006/ceps.2001.1084",
+      "identity_keys": [
+        "Trautwein et al., 2002"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
+      ],
+      "title": "Do Homework Assignments Enhance Achievement? A Multilevel Analysis in 7th-Grade Mathematics"
+    },
     "Travagin et al., 2015": {
       "aliases": [
         "Travagin et al., 2015",
@@ -226836,6 +227022,19 @@
       "seen_in": [],
       "title": "The effect of blended learning on student performance at course-level in higher education: A meta-analysis"
     },
+    "Vock et al., 2013": {
+      "aliases": [
+        "Vock et al., 2013",
+        "Vock et al. (2013)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Vock et al., 2013"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Wer überspringt eine Schulklasse? Befunde zum Klassenüberspringen in Deutschland"
+    },
     "Vogel & Hetmanek, 2016": {
       "aliases": [
         "Vogel & Hetmanek, 2016",
@@ -227860,6 +228059,19 @@
         "wiki/theories/learning-science-cognitive-science/Walberg's Educational Productivity Model.md"
       ],
       "title": ""
+    },
+    "Walberg, 2010": {
+      "aliases": [
+        "Walberg, 2010",
+        "Walberg (2010)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Walberg, 2010"
+      ],
+      "isbn": "9780817911140",
+      "seen_in": [],
+      "title": "Advancing Student Achievement"
     },
     "Wald & Harland, 2019": {
       "aliases": [
@@ -241812,6 +242024,19 @@
       "isbn": "",
       "seen_in": [],
       "title": "The effects of the Lindamood Phoneme Sequencing Program on reading fluency and comprehension of at-risk first-graders"
+    },
+    "von Saldern, 2006": {
+      "aliases": [
+        "von Saldern, 2006",
+        "von Saldern (2006)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "von Saldern, 2006"
+      ],
+      "isbn": "9783621275996",
+      "seen_in": [],
+      "title": "Klassengröße"
     },
     "von Stumm & Ackerman, 2013": {
       "aliases": [
