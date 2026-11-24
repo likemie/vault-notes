@@ -14936,6 +14936,7 @@
     "Köller & Baumert, 2012": "Köller & Baumert, 2012",
     "Köller (2012a)": "Köller, 2012a",
     "Köller (2012b)": "Köller, 2012b",
+    "Köller (2012c)": "Köller, 2012c",
     "Köller et al. (2000)": "Köller et al., 2000",
     "Köller et al. (2010)": "Köller et al., 2010",
     "Köller et al. (2013)": "Köller et al., 2013",
@@ -14944,7 +14945,8 @@
     "Köller et al., 2013": "Köller et al., 2013",
     "Köller, 2012": "Köller, 2012a",
     "Köller, 2012a": "Köller, 2012b",
-    "Köller, 2012b": "Köller, 2012b",
+    "Köller, 2012b": "Köller, 2012c",
+    "Köller, 2012c": "Köller, 2012c",
     "König & Frey (2022)": "König & Frey, 2022",
     "König & Frey, 2022": "König & Frey, 2022",
     "Körük (2017)": "Körük, 2017",
@@ -16983,8 +16985,6 @@
     "Marshall & Wallace (2019)": "Marshall & Wallace, 2019",
     "Marshall & Wallace, 2019": "Marshall & Wallace, 2019",
     "Marshall (1997)": "Marshall, 1997",
-    "Marshall McLuhan (1968)": "Marshall McLuhan, 1968",
-    "Marshall McLuhan, 1968": "Marshall McLuhan, 1968",
     "Marshall, 1997": "Marshall, 1997",
     "Marsili & Verspagen (2002)": "Marsili & Verspagen, 2002",
     "Marsili & Verspagen, 2002": "Marsili & Verspagen, 2002",
@@ -17502,6 +17502,8 @@
     "McLeod, 2012": "McLeod, 2012",
     "McLoughlin & Mynard (2009)": "McLoughlin & Mynard, 2009",
     "McLoughlin & Mynard, 2009": "McLoughlin & Mynard, 2009",
+    "McLuhan (1968)": "McLuhan, 1968",
+    "McLuhan, 1968": "McLuhan, 1968",
     "McMahon (2003)": "McMahon, 2003",
     "McMahon, 2003": "McMahon, 2003",
     "McManus (2023)": "McManus, 2023",
@@ -20409,7 +20411,11 @@
     "Pertuze et al. (2010)": "Pertuze et al., 2010",
     "Pertuze et al., 2010": "Pertuze et al., 2010",
     "Peschel (2002)": "Peschel, 2002",
+    "Peschel (2003)": "Peschel, 2003",
+    "Peschel (2013)": "Peschel, 2013",
     "Peschel, 2002": "Peschel, 2002",
+    "Peschel, 2003": "Peschel, 2003",
+    "Peschel, 2013": "Peschel, 2013",
     "Pesco & Gagne (2017)": "Pesco & Gagne, 2017",
     "Pesco & Gagne, 2017": "Pesco & Gagne, 2017",
     "Peskin (2004)": "Peskin, 2004",
@@ -24611,9 +24617,11 @@
     "Sperber et al. (2010)": "Sperber et al., 2010",
     "Sperber et al., 2010": "Sperber et al., 2010",
     "Spiegel (2007)": "Spiegel, 2007",
+    "Spiegel (2013)": "Spiegel, 2013",
     "Spiegel et al. (2021)": "Spiegel et al., 2021",
     "Spiegel et al., 2021": "Spiegel et al., 2021",
     "Spiegel, 2007": "Spiegel, 2007",
+    "Spiegel, 2013": "Spiegel, 2013",
     "Spielman (2018)": "Spielman, 2018",
     "Spielman, 2018": "Spielman, 2018",
     "Spielvogel (2021)": "Spielvogel, 2021",
@@ -24625,6 +24633,8 @@
     "Spies, 1987": "Spies, 1987a",
     "Spies, 1987a": "Spies, 1987b",
     "Spies, 1987b": "Spies, 1987b",
+    "Spiewak (2013)": "Spiewak, 2013",
+    "Spiewak, 2013": "Spiewak, 2013",
     "Spilka (2014)": "Spilka, 2014",
     "Spilka, 2014": "Spilka, 2014",
     "Spillane (2006)": "Spillane, 2006",
@@ -26468,8 +26478,10 @@
     "Turgut (2018)": "Turgut, 2018",
     "Turgut, 2018": "Turgut, 2018",
     "Turkle (1984)": "Turkle, 1984",
+    "Turkle (1995)": "Turkle, 1995",
     "Turkle (2000)": "Turkle, 2000",
     "Turkle, 1984": "Turkle, 1984",
+    "Turkle, 1995": "Turkle, 1995",
     "Turkle, 2000": "Turkle, 2000",
     "Turley & Nakai (1998)": "Turley & Nakai, 1998",
     "Turley & Nakai, 1998": "Turley & Nakai, 1998",
@@ -33590,7 +33602,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
       ],
-      "title": ""
+      "title": "Evidenzbasierte Medizin – Lob der Erfahrung"
     },
     "Alchin, 2003a": {
       "aliases": [
@@ -45495,7 +45507,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
       ],
-      "title": ""
+      "title": "Einige Bemerkungen zum \"Frankfurter Projekt\" und zum \"alef\"-Programm"
     },
     "Bauman, 1986": {
       "aliases": [
@@ -57917,7 +57929,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
       ],
-      "title": ""
+      "title": "Öffnung des Unterrichts. Befunde und Probleme der empirischen Forschung – revisited 2008"
     },
     "Bubeck et al., 2023": {
       "aliases": [
@@ -114401,7 +114413,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
       ],
-      "title": ""
+      "title": "Leistungsorientierung und Leistungsdifferenzierung im Unterricht: unvereinbare Ziele?"
     },
     "Helmke, 2013": {
       "aliases": [
@@ -114417,7 +114429,7 @@
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md",
         "wiki/arguments/journal-articles/Paideia/Argument_Qvortrup_2015_Paideia.md"
       ],
-      "title": ""
+      "title": "Interview von Volker Reinhardt mit Prof. Andreas Helmke zur Hattie-Studie"
     },
     "Helmke, 2017": {
       "aliases": [
@@ -139307,7 +139319,20 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
       ],
-      "title": ""
+      "title": "Mythen guter Unterrichtspraxis"
+    },
+    "Köller, 2012c": {
+      "aliases": [
+        "Köller, 2012c",
+        "Köller (2012c)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Köller, 2012b"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "What works best in school? Hatties Befunde zu Effekten von Schul- und Unterrichtsvariablen auf Schulleistungen"
     },
     "König & Frey, 2022": {
       "aliases": [
@@ -146293,7 +146318,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
       ],
-      "title": ""
+      "title": "Meta-Analysen als Wegweiser? Zur Rezeption der Studie von Hattie in der Politik"
     },
     "Linda Zagzebski, 1996": {
       "aliases": [
@@ -154039,21 +154064,6 @@
       ],
       "title": ""
     },
-    "Marshall McLuhan, 1968": {
-      "aliases": [
-        "Marshall McLuhan, 1968",
-        "Marshall McLuhan (1968)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Marshall McLuhan, 1968"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
-      ],
-      "title": ""
-    },
     "Marshall, 1997": {
       "aliases": [
         "Marshall, 1997",
@@ -157802,6 +157812,21 @@
         "wiki/concepts/competency-and-assessment/Higher-Order Thinking Skills.md"
       ],
       "title": ""
+    },
+    "McLuhan, 1968": {
+      "aliases": [
+        "McLuhan, 1968",
+        "McLuhan (1968)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "McLuhan, 1968"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
+      ],
+      "title": "Die Gutenberg-Galaxis"
     },
     "McMahon, 2003": {
       "aliases": [
@@ -179190,7 +179215,33 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
       ],
-      "title": ""
+      "title": "Offener Unterricht – Idee – Realität – Perspektive und ein praxiserprobtes Konzept zur Diskussion"
+    },
+    "Peschel, 2003": {
+      "aliases": [
+        "Peschel, 2003",
+        "Peschel (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Peschel, 2003"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Offener Unterricht – Idee, Realität, Perspektive und ein praxiserprobtes Konzept in der Evaluation"
+    },
+    "Peschel, 2013": {
+      "aliases": [
+        "Peschel, 2013",
+        "Peschel (2013)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Peschel, 2013"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Mr. Hattie und der Offene Unterricht"
     },
     "Pesco & Gagne, 2017": {
       "aliases": [
@@ -194039,7 +194090,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
       ],
-      "title": ""
+      "title": "Sachneutrale Unterrichtsbeobachtung. Einige Fragen zu empirischen Forschungsansätzen"
     },
     "Runco & Basadur, 1993": {
       "aliases": [
@@ -195635,11 +195686,11 @@
       "identity_keys": [
         "Sackett et al., 2000"
       ],
-      "isbn": "",
+      "isbn": "978-0-443-06240-7",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
       ],
-      "title": ""
+      "title": "Evidence-based medicine. How to practice and teach EBM"
     },
     "Sackett et al., 2009": {
       "aliases": [
@@ -200364,7 +200415,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
       ],
-      "title": ""
+      "title": "Wie nutzen Kinder digitale Medien? Fallstudien der alltäglichen Nutzung von Computer und Internet durch 9- bis 10-jährige Kinder"
     },
     "Schuele, 2008": {
       "aliases": [
@@ -209944,6 +209995,21 @@
       ],
       "title": ""
     },
+    "Spiegel, 2013": {
+      "aliases": [
+        "Spiegel, 2013",
+        "Spiegel (2013)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Spiegel, 2013"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
+      ],
+      "title": "Der Spiegel, Nr. 25 (17.06.2013)"
+    },
     "Spielman, 2018": {
       "aliases": [
         "Spielman, 2018",
@@ -210015,6 +210081,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Play, problem solving, and creativity in young children"
+    },
+    "Spiewak, 2013": {
+      "aliases": [
+        "Spiewak, 2013",
+        "Spiewak (2013)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Spiewak, 2013"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
+      ],
+      "title": "Ich bin superwichtig!"
     },
     "Spilka, 2014": {
       "aliases": [
@@ -212145,14 +212226,14 @@
       "identity_keys": [
         "Stenhouse, 1975"
       ],
-      "isbn": "",
+      "isbn": "978-0-435-80850-1",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18.md",
         "wiki/arguments/books/Darwish_2009_Queens/Argument_Darwish_2009_Queens.md",
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md",
         "wiki/concepts/curriculum/Curriculum as Process.md"
       ],
-      "title": ""
+      "title": "An introduction to curriculum research and development"
     },
     "Stenhouse, 1979": {
       "aliases": [
@@ -223345,7 +223426,20 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
       ],
-      "title": ""
+      "title": "Die Wunschmaschine. Vom Entstehen der Computerkultur"
+    },
+    "Turkle, 1995": {
+      "aliases": [
+        "Turkle, 1995",
+        "Turkle (1995)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Turkle, 1995"
+      ],
+      "isbn": "978-0-684-83348-4",
+      "seen_in": [],
+      "title": "Life on the screen: Identity in the age of the internet"
     },
     "Turkle, 2000": {
       "aliases": [
@@ -232351,7 +232445,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
       ],
-      "title": ""
+      "title": "Theorie der klinischen Evidenz. Versuch einer Kritik der Evidenzbasierten Medizin"
     },
     "Wheatley, 1999": {
       "aliases": [

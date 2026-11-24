@@ -2142,7 +2142,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
       ],
-      "title": ""
+      "title": "Evidenzbasierte Medizin – Lob der Erfahrung"
     },
     "Alchin, 2003a": {
       "doi": "",
@@ -9245,7 +9245,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
       ],
-      "title": ""
+      "title": "Einige Bemerkungen zum \"Frankfurter Projekt\" und zum \"alef\"-Programm"
     },
     "Bauman, 1986": {
       "doi": "",
@@ -16658,7 +16658,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
       ],
-      "title": ""
+      "title": "Öffnung des Unterrichts. Befunde und Probleme der empirischen Forschung – revisited 2008"
     },
     "Bubeck et al., 2023": {
       "doi": "",
@@ -50447,7 +50447,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
       ],
-      "title": ""
+      "title": "Leistungsorientierung und Leistungsdifferenzierung im Unterricht: unvereinbare Ziele?"
     },
     "Helmke, 2013": {
       "doi": "",
@@ -50456,7 +50456,7 @@
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md",
         "wiki/arguments/journal-articles/Paideia/Argument_Qvortrup_2015_Paideia.md"
       ],
-      "title": ""
+      "title": "Interview von Volker Reinhardt mit Prof. Andreas Helmke zur Hattie-Studie"
     },
     "Helmke, 2017": {
       "doi": "",
@@ -65414,7 +65414,13 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
       ],
-      "title": ""
+      "title": "Mythen guter Unterrichtspraxis"
+    },
+    "Köller, 2012b": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "What works best in school? Hatties Befunde zu Effekten von Schul- und Unterrichtsvariablen auf Schulleistungen"
     },
     "König & Frey, 2022": {
       "datasets": [
@@ -69661,7 +69667,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
       ],
-      "title": ""
+      "title": "Meta-Analysen als Wegweiser? Zur Rezeption der Studie von Hattie in der Politik"
     },
     "Linda Zagzebski, 1996": {
       "doi": "",
@@ -74309,14 +74315,6 @@
       ],
       "title": ""
     },
-    "Marshall McLuhan, 1968": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
-      ],
-      "title": ""
-    },
     "Marshall, 1997": {
       "datasets": [
         "metax:S2391"
@@ -76571,6 +76569,14 @@
         "wiki/concepts/competency-and-assessment/Higher-Order Thinking Skills.md"
       ],
       "title": ""
+    },
+    "McLuhan, 1968": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
+      ],
+      "title": "Die Gutenberg-Galaxis"
     },
     "McMahon, 2003": {
       "datasets": [
@@ -89398,7 +89404,19 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
       ],
-      "title": ""
+      "title": "Offener Unterricht – Idee – Realität – Perspektive und ein praxiserprobtes Konzept zur Diskussion"
+    },
+    "Peschel, 2003": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Offener Unterricht – Idee, Realität, Perspektive und ein praxiserprobtes Konzept in der Evaluation"
+    },
+    "Peschel, 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Mr. Hattie und der Offene Unterricht"
     },
     "Pesco & Gagne, 2017": {
       "datasets": [
@@ -98246,7 +98264,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
       ],
-      "title": ""
+      "title": "Sachneutrale Unterrichtsbeobachtung. Einige Fragen zu empirischen Forschungsansätzen"
     },
     "Runco & Basadur, 1993": {
       "doi": "",
@@ -99146,11 +99164,11 @@
     },
     "Sackett et al., 2000": {
       "doi": "",
-      "isbn": "",
+      "isbn": "978-0-443-06240-7",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
       ],
-      "title": ""
+      "title": "Evidence-based medicine. How to practice and teach EBM"
     },
     "Sackett et al., 2009": {
       "datasets": [
@@ -101999,7 +102017,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
       ],
-      "title": ""
+      "title": "Wie nutzen Kinder digitale Medien? Fallstudien der alltäglichen Nutzung von Computer und Internet durch 9- bis 10-jährige Kinder"
     },
     "Schuele, 2008": {
       "datasets": [
@@ -107800,6 +107818,14 @@
       ],
       "title": ""
     },
+    "Spiegel, 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
+      ],
+      "title": "Der Spiegel, Nr. 25 (17.06.2013)"
+    },
     "Spielman, 2018": {
       "doi": "",
       "isbn": "",
@@ -107842,6 +107868,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Play, problem solving, and creativity in young children"
+    },
+    "Spiewak, 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
+      ],
+      "title": "Ich bin superwichtig!"
     },
     "Spilka, 2014": {
       "datasets": [
@@ -109103,14 +109137,14 @@
     },
     "Stenhouse, 1975": {
       "doi": "",
-      "isbn": "",
+      "isbn": "978-0-435-80850-1",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18.md",
         "wiki/arguments/books/Darwish_2009_Queens/Argument_Darwish_2009_Queens.md",
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md",
         "wiki/concepts/curriculum/Curriculum as Process.md"
       ],
-      "title": ""
+      "title": "An introduction to curriculum research and development"
     },
     "Stenhouse, 1979": {
       "doi": "",
@@ -115881,7 +115915,13 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
       ],
-      "title": ""
+      "title": "Die Wunschmaschine. Vom Entstehen der Computerkultur"
+    },
+    "Turkle, 1995": {
+      "doi": "",
+      "isbn": "978-0-684-83348-4",
+      "seen_in": [],
+      "title": "Life on the screen: Identity in the age of the internet"
     },
     "Turkle, 2000": {
       "doi": "",
@@ -121335,7 +121375,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
       ],
-      "title": ""
+      "title": "Theorie der klinischen Evidenz. Versuch einer Kritik der Evidenzbasierten Medizin"
     },
     "Wheatley, 1999": {
       "doi": "",
