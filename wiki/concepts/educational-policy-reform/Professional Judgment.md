@@ -6,7 +6,7 @@ aliases:
 summary: "教师在复杂、非线性的教学情境中整合研究证据、伦理标准、教育学原则与实践经验做出决策的核心专业能力，是 EIP 多源整合的枢纽与抵御技术官僚主义去专业化的关键防线。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 102
+related_count: 103
 related_level: 10
 related_stars: "💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -121,6 +121,7 @@ related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
   - "[[Argument_Ertl_2006_ORE]]"
+  - "[[Argument_Brugelmann_2014_LocalPractice]]"
 related_instruments:
   - "[[Teach Classroom Observation Tool]]"
   - "[[Assessment Tools for Teaching and Learning]]"
@@ -128,7 +129,7 @@ related_instruments:
 confidence: high
 status: completed
 created: 2026-05-03
-updated: 2026-11-21
+updated: 2026-11-25
 ---
 
 ---
@@ -226,6 +227,9 @@ updated: 2026-11-21
 
 > [!claim] [[Argument_Snook_2009_NZJES|Snook et al. (2009)]]; Dewey (1929)
 > **证据作为探究假设与不可约简的价值权衡** 依据[[John Dewey|杜威]]（Dewey, 1929）的[[Pragmatic Paradigm|实用主义]][[Epistemology|认识论]]，实证研究证据绝不为教师提供直接指导课堂操作的行动规则（Rules for Action），而仅仅为明智地解决问题和反思教育目的提供假设（[[Hypothesis|hypotheses]] for Intelligent [[Problem Solving]]）。任何教学决策都内嵌着不可约简的伦理与价值权衡成分（Irreducible Value Component）：教师在采纳高效应量干预时，不仅要评估其经济与精力成本是否匹配收益，更必须权衡该收益是否伴随着不可逆的负面附带损害（例如单纯通过强化测验提分的手段，极易扼杀学生的[[Creativity|创造力]]并损伤同伴交往能力）。因此，研究知识必须与教师的个人信念、专业伦理及现场情境相整合；脱离专业判断的机械技术套用不仅无法实现优质教学，更会直接破坏教育生态。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 93, 104)]]
+
+> [!claim] Brügelmann
+> **统计均值的举证责任属性与临床决策三要素平衡** 汉斯·布吕格尔曼（Hans Brügelmann）在审读哈蒂二阶元分析时强调，从大样本均值直接推导个案操作禁令在认识论上违背了教育实践的情境特异性。借用安德烈亚斯·赫尔姆克提出的“均值陷阱”概念，布吕格尔曼指出大样本统计成果至多提供一种专业举证参考（Beweislast），即要求教师在选择差异化方案时给出情境化合理解释，绝不能充当剥夺一线教学探索的刚性行政指令。重溯戴维·萨克特（Sackett et al., 2000）关于循证医学的经典原则，现场权衡与决策的主体始终是一线实践者，其临床专业专长（Clinical Expertise）与患者个体价值在地位上与外部科研证据平起平坐。结合劳伦斯·斯滕豪斯（Stenhouse, 1975）的“教师即研究者”构想，教师必须将外部研究假说置于本土复杂课堂中开展反思性检验，培育一线情境下的感知与解读胜任力（Wahrnehmungs- und Deutungskompetenz vor Ort），将微观个案经验确立为裁决宏观理论的终极试金石。[[Argument_Brugelmann_2014_LocalPractice|(Brügelmann, 2014, pp. 40, 45–47)]]
 
 ---
 
@@ -424,3 +428,4 @@ updated: 2026-11-21
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 以瑞典国家[[School Inspection|学校督导]]为个案，揭示一线督导员与受邀学者如何通过行使未被官方正式承认的具身与践行专业判断，缝合科层技术审计与学校微观实态之间的制度裂隙（pp. 648–655）。
 > - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 基于全球 158 篇[[Document|文献]]系统综述，揭示[[National Large-Scale Assessments|国家大规模评估]]与测验问责如何通过赋权测评官僚边缘化教师专业判断，并考察不同行政传统下教师维护专业自主权的抵制轨迹。
 > - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 跨领域对比公共卫生与教育的政策循证演进，剖析过度套用[[Clinical Trial|临床试验]]与单一[[Variable|变量]]因果阶梯对医师及教师专业判断的边缘化危害，论证实践者专业判断与复杂系统模型在证据转化中的不可替代性。
+> - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014)]] — 重溯循证医学临床专长、最佳证据与患者价值三维对等平衡模型，确立大样本统计指标仅能充当专业举证责任而非一刀切行政禁令，倡导确立教师即研究者与微观个案检验的实践探究主体地位（pp. 40, 45–47）。

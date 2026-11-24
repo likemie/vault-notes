@@ -8,7 +8,7 @@ aliases:
 summary: "教育干预在真实学校中是否按设计要求、足够强度和质量被执行的程度，是打开因果机制黑箱并区分实施失败与理论无效的核心中介"
 type: concept
 domain: "educational-policy-reform"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -80,10 +80,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
+  - "[[Argument_Brugelmann_2014_LocalPractice]]"
 confidence: high
 status: active
 created: '2026-05-23'
-updated: 2026-11-03
+updated: 2026-11-25
 ---
 
 ---
@@ -168,6 +169,9 @@ updated: 2026-11-03
 > [!claim] Ross, S. M. & Morrison, G. R.
 > **实施进展作为项目质量的独立积极证据** 在对巴尔的摩县公立学校未来数字学习（[[Students and Teachers Accessing Tomorrow]]，STAT）进行[[Formative Assessment\|形成性评估]]时发现，尽管因多重外部[[Variable\|变量]]干扰未能检测到明确的学生统考成绩提升，但教师准备度、数字[[Technology Infusion\|技术融入]]课堂以及以学生为中心教学的实施保真度指标展现出极其稳固的增长。评估者强调，高保真度的实施进展本身就是项目质量和组织可持续性的关键积极证据，不能单凭不显著的期末测验全盘否定项目价值。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 118–123)]]
 
+> [!claim] Brügelmann
+> **二阶元分析脱离实施保真度诱发的效能误判** 汉斯·布吕格尔曼（Hans Brügelmann）在审读哈蒂《可见的学习》时指出，二阶[[Meta-analysis|元分析]]在汇聚数以百计的研究时，普遍未曾核验具体课堂对干预方案的真实遵循程度（Konzepttreue）。大量被标记为某教学法（如开放教学或计算机辅助教学）的课堂，实际上由缺乏专业素养或动机的一线教师以极低保真度敷衍操作；元分析将此类劣质执行的低分结果粗暴合并，却将效能低下归咎于教学方法本身无效，不仅抹杀了高保真度教师的卓越成效，更导致宏观证据体系对微观教学法作出严重失真的偏误评价。[[Argument_Brugelmann_2014_LocalPractice|(Brügelmann, 2014, p. 43)]]
+
 ---
 
 > [!concept-proposition] 命题二｜干预规模化扩张极易因多层级培训稀释导致实施保真度断崖式崩溃
@@ -214,9 +218,9 @@ updated: 2026-11-03
 ---
 
 > [!dev-timeline] 实施保真度的理论与规程演变
-> - **2008 — 实施科学与[[Meta-analysis\|元分析]]奠基** Durlak and DuPre (2008) 在 *American Journal of Community Psychology* 发表具有里程碑意义的系统元分析，确立了实施质量对预防性与青年干预成效的显著决定作用；同年英国医学研究理事会（Craig et al., 2008）发布复杂干预评估指南，正式确立[[Implementation and Process Evaluation\|过程评估]]在打开因果黑箱中的法定地位。
+> - **2008 — 实施科学实证元分析与评估指南发布** Durlak and DuPre (2008) 在 *American Journal of Community Psychology* 发表系统元分析，确立了实施质量对预防性与青年干预成效的显著决定作用；同年英国医学研究理事会（Craig et al., 2008）发布复杂干预评估指南，正式确立[[Implementation and Process Evaluation\|过程评估]]在打开因果黑箱中的法定地位。
 > - **2014 — [[TIDieR]] 国际规范建立** Hoffmann 等学者（2014）在《英国医学杂志》（BMJ）联合发布干预描述与复制模板（TIDieR），为社会科学与医学干预如何标准化拆解活性成分与保真度界限提供了行业标尺。
-> - **2016 — 早期黑箱教育试验反思** Connolly et al. (2018) 调查揭示历史试验中过程评估覆盖率仅为 38%；Morris et al. (2016) 针对 [[Education Endowment Foundation\|EEF]] 早期大量零结果试验提出严肃反思，倒逼英美教育评估机构系统性引入过程评估工具。
+> - **2016 — 早期黑箱教育试验反思** Connolly et al. (2018) 调查揭示历史试验中过程评估覆盖率仅为 38%；Morris et al. (2016) 针对 [[Education Endowment Foundation\|EEF]] 早期大量零结果试验提出严肃反思，推动英美教育评估机构系统性引入过程评估工具。
 > - **2019 — EEF 制度化《实施与过程评估指南》** EEF 委托曼彻斯特大学（Humphrey et al., 2016）并正式发布官方 IPE 评估指引（EEF, 2019b），将 TIDieR 规程、对照组常态活动调查与依从者因果效应（[[Complier Average Causal Effect\|CACE]]）列为标准操作规程。
 > - **2021 — 现代循证[[Paradigm\|范式]]反思与生态化拓展** [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021)]] 在《华东师大教育评论》（ECNU Review of Education）系统批评清算中心对实施保真度数据的结构性忽略；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] 系统复盘 EEF 八年试验历程，全面阐发大样本功效扩张与现场保真度稀释的内在张力。
 
@@ -238,6 +242,7 @@ updated: 2026-11-03
 
 > [!warning] 适用局限
 > - **官方[[Educational Evidence Clearinghouses\|证据清算中心]]的制度盲区** 如美国有效教育评价所（[[What Works Clearinghouse]]，WWC）等权威机构在对研究评级时，长期过度偏重[[Random Assignment\|随机分配]]与[[Attrition\|样本流失]]等因果[[Internal Validity\|内部效度]]指标，普遍缺乏对实施保真度、教师准备课时、学生实际使用强度与现场成本的结构化采集，导致高星级项目在一线学校采购时常常遭遇落地失败。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 120–122)]]
+> - **元分析与二阶元分析中保真度数据的系统性缺失** 大规模跨研究综合（如哈蒂元分析）通常仅提取不同教学方法的抽象标签与终结性均值，普遍忽视原始研究中的实施遵循度（Konzepttreue）。缺乏保真度控制的元分析极易将劣质操作造成的负面数据等同于方法本身的缺陷，诱发轻率叫停有效教学创新的行政误判。[[Argument_Brugelmann_2014_LocalPractice|(Brügelmann, 2014, p. 43)]]
 
 ---
 
@@ -257,3 +262,4 @@ updated: 2026-11-03
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021)]] — 针对美国学校教育技术采购与 [[Every Student Succeeds Act\|ESSA]] [[Evidence Standards\|证据标准]]的批判性分析，系统阐述了实施保真度、使用剂量、用户满意度与成本信息对解释因果成效不可或缺的实践价值。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 系统梳理了英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）在大规模学校现场试验中推进[[Implementation and Process Evaluation\|实施与过程评估]]（IPE）规范化的制度演进，深入剖析了规模化扩张引发的培训稀释、大样本功效诉求与现场保真度的张力，以及应对实施妥协的方法学规程。
+> - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014)]] — 从二阶元分析对实施遵循程度（Konzepttreue）的系统忽视切入，批判哈蒂数据体系将劣质低保真度操作造成的低效应错误归因于教学方法本身无效的方法论缺陷（p. 43）。

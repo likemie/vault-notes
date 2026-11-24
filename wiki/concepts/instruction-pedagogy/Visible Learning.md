@@ -5,7 +5,7 @@ aliases:
 summary: "John Hattie 发起的教育证据综合与学校改进框架，主张通过汇总海量元分析建立 d=0.40 关节点相对有效性判准，将教师确立为成就变异的核心因果枢纽（30%），依托学业进阶、显性成功标准与形成性反馈重塑教学评价性判断。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 168
+related_count: 169
 related_level: 16
 related_stars: "💎💎💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -176,6 +176,7 @@ related_arguments:
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Terhart_2014_HolyGrail]]"
   - "[[Argument_Koller_2014_WhatWorks]]"
+  - "[[Argument_Brugelmann_2014_LocalPractice]]"
   - "[[Argument_Fredens_2015_Paideia]]"
   - "[[Argument_Nordahl_2015_Paideia]]"
   - "[[Argument_Kelly_2025_ROE]]"
@@ -278,6 +279,9 @@ updated: 2026-11-25
 
 > [!claim] [[Klaus Nielsen|Nielsen, K.]] & Klitmøller, J.
 > **$d=0.40$ 关节点的叙事修辞本质与学段抹平悖论** 尼尔森与克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）指出，哈蒂在面对学界批评时自己承认，$d=0.40$ 的期望门槛实质上是一个用于将分散数据串联起来的“叙事修辞故事”（a story needs to accompany these data, [[Argument_Hattie_2010_NZJES|Hattie, 2010]]），缺乏自然科学规律的实体确定性。然而在政策和学校治理层面，这一主观修辞门槛却被硬化为一刀切的机械淘汰标尺。例如在[[Homework|家庭作业]]（[[Homework]]）干预中，哈蒂报告的总体效应量为 $d=0.29$ 并因此归入低于 $0.40$ 的低效区；但其底层元分析显示，小学阶段作业效应量仅为 $d=0.15$（处于学生自然成长基准），而高中阶段作业效应量高达 $d=0.64$（显著超越期望门槛）。用单一宏观均值和叙事性 $0.40$ 门槛进行跨学段一刀切排位，完全抹平了基础教育不同发展阶段的实质认知规律，造成严重的政策与教学误判。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 50–52)]]
+
+> [!claim] Brügelmann
+> **均值陷阱、六重元分析缺陷与指标自相矛盾** 汉斯·布吕格尔曼（Hans Brügelmann）在德语区专题研讨中深入审读哈蒂数据体系指出：① **均值陷阱（Durchschnittsfalle）与狩猎谚语** 从大样本效应均值推导个案操作禁令犯了认识论错误；统计优势至多构成专业举证责任（Beweislast），绝不能作为剥夺一线教学探索的刚性行政命令；② **二阶元分析六重系统性缺陷** 哈蒂数据存在概念外延高度异质化（将独坐微机房与便携笔记本探究统称计算机辅助教学）、测度极度窄化为纸笔认知成绩、测试题型格式引发偏差、原始研究普遍缺乏实施保真度（Konzepttreue）核验、文献历史跨度严重滞后（CAI 114 项元分析中近半数完成于 2000 年以前，25 项早于 1990 年）以及组内方差被粗暴抹杀等严重缺陷；③ **指标谱系内部评价标准自相矛盾** 哈蒂将开放教学（$d=0.01$）贬抑为平庸无害的组织形式，却将以人为本/非指导性教师行为（$d=0.54$）列为跨越关节点的高效因子，但后者在真实课堂中恰恰伴随着高度由学生自主调节的开放学习情境。[[Argument_Brugelmann_2014_LocalPractice|(Brügelmann, 2014, pp. 38–45)]]
 
 ---
 
@@ -471,6 +475,7 @@ updated: 2026-11-25
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 从欧陆教学论与教化传统批判可见学习抽空学科实质内容与课程合法化反思的形式主义局限。
 > - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 编撰德语学界对话专著，评注德译本《让学习可见》，从过程-结果范式与“路灯效应”揭示其对不可度量育人维度的排斥，借助福柯权力视角解构双向注视隐喻的微观规训风险，将其定性为反思工具而非操作药方。
 > - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 立足德语区实证教育研究，区隔表层结构与深层结构，基于 [[COACTIV]] 等追踪数据直接驳斥哈蒂低估教师学科知识（$d=0.09$）的论断，提出以认知激活、有效班级管理与建设性支持为维度的循证教学改进规程。
+> - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014)]] — 结合德语区小学一线读写实验，剖析哈蒂数据体系所诱发的“均值陷阱”，揭示其二阶元分析在概念外延、成就测度、测试格式、实施保真度、历史断代与组内离散六个维度的系统性缺陷，指出开放教学与人本教学评价的内在矛盾（pp. 38–47）。
 > - [[Argument_Fredens_2015_Paideia\|Fredens (2015)]] — 从学习科学与脑科学视角解读 VL，提出“使学校成为反馈文化”的组织转型主张。
 > - [[Argument_Nordahl_2015_Paideia\|Nordahl (2015)]] — 斯堪的纳维亚学派将 VL 重构为校本改进、[[Teacher Collaboration|教师协作]]研讨与能力建设的微观实践路径。
 > - [[Argument_Eacott_2019_IJLE\|Eacott (2019)]] — 批判 VL 在行政与商业推广中异化为[[Neo-Taylorism\|新泰勒主义]]控制与[[Cult of the Guru\|大师崇拜]]的制度风险。

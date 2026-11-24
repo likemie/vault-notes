@@ -8,9 +8,9 @@ aliases:
 summary: "关于知识本质、形式与获取方式的哲学假设，在研究哲学中决定不同范式的有效知识判准；在教育心理学与学习科学中，表现为个体心智协调主观与客观维度的认识论理解演进。"
 type: concept
 domain: "educational-philosophy"
-related_count: 149
-related_level: 14
-related_stars: "💎💎💎💎⭐⭐"
+related_count: 150
+related_level: 15
+related_stars: "💎💎💎💎💎"
 related_color: "#ddd6fe"
 tags:
   - theme/epistemology
@@ -172,11 +172,12 @@ related_arguments:
   - "[[Argument_Volmari_2025_CE]]"
   - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Barrenechea_2023_JEC]]"
+  - "[[Argument_Brugelmann_2014_LocalPractice]]"
 related_instruments: []
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-11-21
+updated: 2026-11-25
 ---
 
 ---
@@ -218,6 +219,7 @@ updated: 2026-11-21
 > - **[[Pragmatic Paradigm|实用主义]]认识论支柱（Pragmatism）** 以“适应目的”（[[Fitness for Purpose]]）与效用即真理为准则，打破量质认识论的机械隔阂，协同整合数值测度与叙事[[Rich and Thick Description|深描]]（Onwuegbuzie & Leech, 2005a）。
 > - **观察的理论与价值负载（Theory-Ladenness & Value-Ladenness）** [[Postpositivism|后实证主义]]确立[[Observation Method|科学观察]]受理论与预设渗透，所有经验事实均内嵌先验概念与价值假定，知识具有可错性（Phillips & Burbules, 2000）。
 > - **认识论与存在论的范畴界限（Epistemological vs. Ontological Boundaries）** 认识论处理“知道关于某事物的条件”，属于科学认识的理论判准；人类存在的本体论基础（如学生在世界之中的存在、具身情境与情感）在逻辑上先于科学认识论。教育研究若将动态生成的生命存在降维还原为静态的分数、[[Effect Size|效应量]]或评价陈述等认识论指标，容易造成存在论视角的盲视。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 4–5)]]
+> - **课程测不准原理与尺度变焦张力（Curricular Uncertainty Principle & Scale Tension）** 海因里希·鲍尔斯费尔德（Bauersfeld, 1972; [[Argument_Brugelmann_2014_LocalPractice|Brügelmann, 2014]]）揭示，教育认识论面临类似摄影变焦的内在两难：后撤至宏观全景虽能掌握大样本频率分布与概率估计，代价是抹杀具体微观课堂的生境纹理；长焦聚焦单株植物虽能精准捕捉师生交互机理，却无法直接推导全局通用定论。两者在认识论上不可兼得，将宏观统计均值直接硬套为个案禁令必然陷入均值陷阱。[[Argument_Brugelmann_2014_LocalPractice|(Brügelmann, 2014, pp. 40–41)]]
 > - **主客观双维协调（Coordination of Knowing [[Dimensions]]）** 在个体心智认知中，成熟认识论经历绝对论（客观主导）→多元论（主观主导）→评价论（主客协调）的三次重构，实现基于证据与批判论证的理性判断[[Argument_Kuhn_2000_CD|(Kuhn et al., 2000, p. 310)]]。
 > - **批判认识论与世界体系抗争（Critical Epistemology & Epistemological Protest）** [[Immanuel Wallerstein|沃勒斯坦]]（Wallerstein, 2000; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）将[[World-Systems Theory|世界体系分析]]界定为对抗“欺骗性认识论”（deceptive epistemologies）的智识反抗，主张必须彻底反思并解构 19 世纪社会科学将学科割裂、将事实与价值绝对二分的非[[Reflexivity|反思性]]前提，确立“探寻真理”（the search for the true）与“追求正义社会”（the search for the good）在批判认识论上的内在同构与不可分割。
 > - **[[Protean Episteme|普罗透斯式认识体系]]（Protean Episteme）** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）将跨学科探究（如比较教育学）的知识体系定义为能够随时代智识思潮、方法风尚与意识形态诉求而不断变换装束的“[[Protean Episteme|普罗透斯式认识体系]]”，揭示了社会探究认识论历史性、流变性与多学科交叉融合的内在本质。
@@ -276,6 +278,9 @@ updated: 2026-11-21
 
 > [!claim] [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]]
 > **行政审计中“静态知识状态”的技术官僚认识论幻觉** 针对[[Swedish Schools Inspectorate|瑞典学校督察局]]的实证研究表明，官僚机构宣称其督导标准建立在客观中立的“当前知识状态”（the current state of knowledge）之上，这一假设在科学哲学上无法成立。教育学兼具[[Horizontal Knowledge Structure|弱语法]]结构与动态演进特征，缺乏自然科学的强层级公理；将特定流派（如成功学校研究）的暂定性实证结论固化为法定的质量常模，本质上是技术官僚权力对动态认识论过程的政治截断与静态虚构（[[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al., 2022, pp. 654–655]]）。
+
+> [!claim] Brügelmann
+> **宏观实证概括与微观课堂决策的认识论尺度张力** 汉斯·布吕格尔曼（Hans Brügelmann）立足德国初等教育实证反思指出，大样本标准化测验与[[Meta-meta-analysis|二阶元分析]]所依赖的实证主义客观中立假设在微观课堂中难以成立。霍斯特·伦普夫（Rumpf, 1969）早已证明教学活动是深度价值涉入与师生主动建构意义的情境化过程，不存在客体中立的教学方法；海因里希·鲍尔斯费尔德（Bauersfeld, 1972）提出的“课程测不准原理”揭示了认识论上的变焦两难：追求宏观全景概览必然以抹杀微观课堂细节为代价，而微观长焦聚焦则无法直接外推为全局行政禁令。布吕格尔曼据此提出实践认识论转向：大样本统计关联仅构成待检验的实践假说，一线实践者的反思性经验与累积性[[Case Study|个案研究]]才是检验宏观推论的终极试金石。[[Argument_Brugelmann_2014_LocalPractice|(Brügelmann, 2014, pp. 40–46)]]
 
 ---
 
@@ -426,4 +431,5 @@ updated: 2026-11-21
 > - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch02|第 2]]、[[Argument_Hammermeister_2002_Cambridge_Ch04|4]]、[[Argument_Hammermeister_2002_Cambridge_Ch06|6]]、[[Argument_Hammermeister_2002_Cambridge_Ch09|9]]、[[Argument_Hammermeister_2002_Cambridge_Ch10|10 章]]依次析康德非认知美学、浪漫派审美认识论、叔本华意志工具论、海德格尔与伽达默尔艺术真理及阿多诺非同一性认识论。
 > - [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] — 提出“比较认知”（comparatively knowing）认识论构想，批判比较教育将认识论降格为技术程序争吵，确立垂直[[Case Study|案例研究]]跨越普遍主义与极端相对主义的多尺度认识论框架（pp. 95–97, 100–101）。
 > - [[Argument_Munch_2014_TCR|Münch (2014)]] — 剖析经合组织 PISA 通用基础素养（实用主义认识论）与德国本土人文教养（Bildung）及深度学科分化传统之间的认识论冲突，揭示外部标准化规制对本土知识生态的侵蚀（pp. 4–7）。
+> - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014)]] — 借用课程测不准原理剖析宏观实证概览与微观教学决策之间的认识论变焦张力，否定教学方法的客体中立性，确立一线教师作为探究主体、累积性个案研究作为检验宏观推论终极试金石的实践认识论转向（pp. 40–47）。
 

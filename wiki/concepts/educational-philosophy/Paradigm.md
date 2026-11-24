@@ -8,7 +8,7 @@ aliases:
 summary: "研究共同体共享的世界观、信念体系与原则集合，涵盖本体论、认识论与方法论承诺，决定何为合法的科学知识；在科学学与社会科学中历经科学革命、实证论战与当代跨学科计量对范式开创成果注意力极化的实证确证。"
 type: concept
 domain: "educational-philosophy"
-related_count: 118
+related_count: 119
 related_level: 11
 related_stars: "💎💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -141,10 +141,11 @@ related_arguments:
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Barrenechea_2023_JEC]]"
   - "[[Argument_Gopinathan_2007_GSE]]"
+  - "[[Argument_Brugelmann_2014_LocalPractice]]"
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-11-21
+updated: 2026-11-25
 ---
 
 ---
@@ -232,6 +233,9 @@ updated: 2026-11-21
 
 > [!claim] [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]]
 > **行政审计通过锁定单一范式消除知识争议与制造确定性** 在国家[[School Inspection|教育督导]]与质量审计实践中，官僚机构面对学术界的多范式分歧，倾向于在外部学者介入前预先编制仅锚定于单一研究范式的学术综述；通过排斥竞争性范式与异质视角，机构人为建构起“无可争议的当前知识状态”与确定性幻觉，以迎合行政规程的统一性与标准化问责需求。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 649–650)]]
+
+> [!claim] Brügelmann
+> **大样本量化技术范式与微观本土实践探究范式的认识论断裂** 汉斯·布吕格尔曼（Hans Brügelmann）在剖析哈蒂《可见的学习》所掀起的循证热潮时指出，教育学界正深陷于大样本标准化测验与二阶元分析所主导的量化技术主义范式。该范式预设教学活动可以脱离学科内容与复杂课堂情境进行客体中立评价，企图以宏观效应量均值推导微观一刀切操作指令。借用课程测不准原理与循证医学三要素平衡原则，布吕格尔曼指出大样本统计关联对于微观课堂仅构成待检验的假说，微观个案的真实成效无法被宏观均值所吞噬；他倡导从自上而下的技术控制范式，转向确立一线实践者为主体、累积性个案检验为试金石的“教师即研究者”实践探究范式。[[Argument_Brugelmann_2014_LocalPractice|(Brügelmann, 2014, pp. 38–47)]]
 
 ---
 
@@ -361,3 +365,4 @@ updated: 2026-11-21
 > - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 阐明新加坡教育政策从生存与效率驱动范式向能力驱动与知识经济范式的转型历程，揭示旧范式留存的统考机制对新范式落地的制度性摩擦。
 > - [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] — 批判将范式争论降格为方法操作技术争端，构建贯通微观深描与宏观政治经济学的垂直案例研究多尺度比较范式（pp. 95–97）。
 > - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 系统剖析后 PISA 时代德语教育学界从人文学科思辨（普通教学论）向定量心理测量与实证[[Lesson Study|课堂研究]]的急剧经验范式转向（scharfe empirische Wende），揭示产出导向治理对传统陶冶范式的深层冲击（pp. 627–629）。
+> - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014)]] — 审读哈蒂二阶元分析所依凭的大样本标准化范式，批判从统计均值推导微观个案指令的均值陷阱，倡导确立教师即研究者与累积性个案检验的实践探究范式（pp. 38–47）。
