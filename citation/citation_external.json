@@ -29194,8 +29194,6 @@
     "余秀兰和韩燕, 2018": "余秀兰和韩燕, 2018",
     "佩卡里宁等 (2009)": "佩卡里宁等, 2009",
     "佩卡里宁等, 2009": "佩卡里宁等, 2009",
-    "依据哈蒂 (2012)": "依据哈蒂, 2012",
-    "依据哈蒂, 2012": "依据哈蒂, 2012",
     "先后在埃及亚历山大 (2006)": "先后在埃及亚历山大, 2006",
     "先后在埃及亚历山大, 2006": "先后在埃及亚历山大, 2006",
     "克勒 (2014)": "克勒, 2014",
@@ -85374,7 +85372,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md",
+        "wiki/concepts/educational-policy-reform/Grade Retention.md"
       ],
       "title": "Effects of Grade Retention on Achievement and Self-Concept in Science and Mathematics"
     },
@@ -106398,7 +106397,9 @@
         "Gruehn, 2000"
       ],
       "isbn": "9783893258901",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
+      ],
       "title": "Unterricht und schulisches Lernen: Schüler als Quellen der Unterrichtsbeschreibung"
     },
     "Grumet, 1998": {
@@ -112464,11 +112465,12 @@
       "identity_keys": [
         "Hattie, 2012"
       ],
-      "isbn": "",
+      "isbn": "9780415690157",
       "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md",
         "wiki/arguments/journal-articles/Nordic Psychology/Argument_Nielsen_2021_NordPsych.md"
       ],
-      "title": ""
+      "title": "Visible Learning for Teachers: Maximizing Impact on Learning"
     },
     "Hattie, 2013": {
       "aliases": [
@@ -159774,7 +159776,9 @@
         "Meyer, 2004"
       ],
       "isbn": "9783589218677",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
+      ],
       "title": "Was ist guter Unterricht?"
     },
     "Meyer, 2010": {
@@ -201430,6 +201434,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md",
+        "wiki/concepts/educational-policy-reform/Class Size.md",
         "wiki/persons/germany/Tina Seidel.md"
       ],
       "title": "Teaching Effectiveness Research in the Past Decade: The Role of Theory and Research Design in Disentangling Meta-Analysis Results"
@@ -228070,7 +228075,9 @@
         "Walberg, 2010"
       ],
       "isbn": "9780817911140",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
+      ],
       "title": "Advancing Student Achievement"
     },
     "Wald & Harland, 2019": {
@@ -242661,21 +242668,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/finland/Comprehensive School Reform in Finland.md"
-      ],
-      "title": ""
-    },
-    "依据哈蒂, 2012": {
-      "aliases": [
-        "依据哈蒂, 2012",
-        "依据哈蒂 (2012)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "依据哈蒂, 2012"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
       ],
       "title": ""
     },

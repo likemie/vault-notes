@@ -114,7 +114,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-03'
-updated: 2026-11-19
+updated: 2026-11-24
 ---
 
 > [!def] Class Size
@@ -212,6 +212,9 @@ updated: 2026-11-19
 
 > [!concept-proposition] 命题二｜单纯缩减班额面临高昂财政成本，其成本效益常劣于同等预算下的定向教学干预
 > **成本效益与政策替代方案** 探讨即便小班具有统计显著正效应，在相同财政约束下是否应优先选择更具成本效益与补偿效能的教学支持策略。
+
+> [!claim] [[Olaf Köller|Köller, O.]]
+> **表层结构改革的边际产出断裂与资源错配** 奥拉夫·克勒结合二阶元分析与冯·萨尔登（von Saldern, 2006）汇集 96 项研究（超 50 万名学生）的实证证据指出，班级规模缩减效应量仅为  = 0.21$；即便将班额从 25 人剧减至 15 人，实际学业增益也仅介于  = 0.10 \sim 0.20$ 之间，与所需耗费的庞大财政预算严重不成比例。依据过程-结果教学范式（Seidel & Shavelson, 2007），缩班仅改变了外部容易观察记录的表层结构，未能自发驱动课堂内部的认知激活与个别化反馈。若不改变深层教学互动机制，单纯削减班额无法带来实质性的教育质量改善。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, pp. 28–29)]]
 
 > [!claim] [[Argument_Pellegrini_2021_ECNUROE|Pellegrini and Vivanet (2021)]]
 > **缩班政策的高成本与低边际产出** 法国教育部在弱势地区一、二年级推行班额从 24 人减至 12 人的大规模改革（[[French Class Size Reduction]]），Campbell 协作网元分析显示其阅读效应微弱而数学效应未达统计显著。佩莱格里尼与维瓦内特论断：缩减班额属于财政耗费极高而边际产出相对温和的政策，同等预算若投入高针对性成人个别化辅导或教师循证[[Feedback|教学反馈]]，往往能产生更为强劲的学业补偿效果。[[Argument_Pellegrini_2021_ECNUROE|(Pellegrini & Vivanet, 2021, pp. 27–28)]]

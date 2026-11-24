@@ -6,13 +6,14 @@ aliases:
   - repeating a year
   - nonpromotion
   - redoublement
-summary: "让学生重复同一年级以处理学习困难的教育制度实践，证据本位教育中常被用来说明研究证据与既有学校惯例之间的张力。"
+  - 留级制度
+summary: "让学业未达标学生重复就读同一年级的制度性筛选实践；大规模实证与二阶元分析一致表明其具有持续的负向学业阻碍效应，属于证据基础匮乏却制度惯性深厚的表层教育筛选机制。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 7
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 14
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/grade-retention
   - theme/equity
@@ -24,52 +25,96 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Socioeconomic Status]]"
-  - "[[Literature Review]]"
+  - "[[Academic Achievement]]"
+  - "[[Tracking]]"
+  - "[[Class Size]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Meta-analysis]]"
+  - "[[Meta-meta-analysis]]"
+related_instruments: []
+related_persons:
+  - "[[John Hattie]]"
+  - "[[Olaf Köller]]"
 related_facts:
   - "[[PISA]]"
   - "[[Pact for Educational Excellence]]"
   - "[[Grade Retention in French-Speaking Belgium]]"
 related_arguments:
   - "[[Argument_Dachet_2021_ECNUROE]]"
+  - "[[Argument_Koller_2014_WhatWorks]]"
 confidence: medium
-status: draft
+status: active
 created: 2026-05-24
-updated: 2026-10-26
+updated: 2026-11-24
 ---
 
-> [!info] 定义
-> Grade retention 指让学生重复一个已经就读过的年级，通常被学校系统用来处理学习困难或学业未达标问题。Dachet and Baye 在讨论法语比利时教育改革时将其界定为“让学生重复一年”的实践，并把它作为[[Evidence-Based Education\|证据本位教育]]在既有教育制度中难以落地的典型例子([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, p.165]])。
+---
 
-在[[Evidence-Based Education|证据本位教育]]讨论中，留级的重要性不只在于它是一项学生分流或补救措施，更在于它展示了“研究证据”和“学校惯例”之间可能长期脱节：即使已有大量研究质疑其效果，某些教育系统仍会继续依赖它来处理学生差异和失败风险([[Argument_Dachet_2021_ECNUROE|Dachet & Baye, 2021, p.165]])。
+> [!def] Grade Retention
+> 留级制度指要求未能达到学业标准的学生重复就读已经修习过的年级，试图通过延长学习时间来弥补学业缺陷的制度性筛选机制。实证研究与二阶元分析一致表明其平均效应为负值，未能在后续学习中发挥学业补偿功能。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, pp. 27–28)]]; [[Argument_Dachet_2021_ECNUROE|(Dachet & Baye, 2021, p. 165)]]
 
-> [!example] 概念辨析
-> - vs 补救教学 — 补救教学是在学生继续升学或原班学习的同时提供额外支持；留级则改变学生的年级位置，让学生重新经历同一年级。
-> - vs 分流 — 分流把学生放入不同课程或轨道；留级把学生留在原年级。两者都可能与学业失败、社会出身和教育公平问题相连，但制度机制不同。
+> [!concept-lens|notitle] 概念透镜
+> - **含义** 将学业未达标转化为重新经历同一年级的时间惩罚与队列重排。
+> - **用途** 揭示教育系统中研究证据与制度惯性脱节的深层张力。
+> - **边界** 区别于不改变学籍年级的课后辅导与定向补救教学。
 
-> [!abstract] 核心要素
-> 留级通常包含三个制度性要素：用年级重复处理学习困难、把学生年龄队列重新排序、由学校或系统规则决定是否允许学生升入下一年级。
+> [!citation-card|notitle] 关键表述
+> 留级制度（Sitzenbleiben）的平均效应为负值（d = -0.16），彻底打破了让落后学生重学一年夯实基础的传统设想。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, p. 28)]]
+>
+> *Sitzenbleiben erweist sich als weitgehend lernunwirksam bzw. sogar schädlich (d = -0.16).*
 
-- 留级把“学业未达标”转化为“重复一年”的制度处理，因而会直接影响学生在同龄群体中的位置([[Argument_Dachet_2021_ECNUROE|Dachet & Baye, 2021, p.169]])。
-- 留级率可作为教育系统如何处理学生差异的指标。若某系统长期高留级，说明它更倾向于通过延长学生停留时间来处理学习困难，而不是通过课程、教学或支持系统改变来减少失败([[Argument_Dachet_2021_ECNUROE|Dachet & Baye, 2021, pp.165, 169]])。
-- 留级与公平问题相连，因为成绩低、[[Socioeconomic Status|社会经济地位]]不利和脆弱学生群体常常在同一系统中叠加出现；在法语比利时案例中，高留级率与强社会出身影响共同构成改革压力([[Argument_Dachet_2021_ECNUROE|Dachet & Baye, 2021, pp.165, 170]])。
+> [!boundary]- 概念边界
+> - 不等于 补救教学（Remedial Instruction） — 补救教学是在学生正常升学或原班学习的同时提供额外学业支持；留级则改变学生的年级位置并重读全部课程。
+> - 不等于 [[Tracking|能力分轨]] — 分轨将学生分配至不同培养标准与难度的课程轨道；留级则是将学生滞留在原年级。两者均与社会出身和教育不平等相连，但制度机制不同。
 
-> [!success] 实证发现
-> Dachet and Baye 在综述法语比利时改革背景时指出，自 1970 年代以来已有大量证据反对留级有效性；多项穷尽性和批判性[[Literature Review\|文献综述]]没有识别出留级的正向平均效果([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, pp.165, 172, 174]])。
+---
 
-> [!info] 核心数据
-> 在法语比利时案例中，[[PISA]] 2015 显示 1 至 10 年级 46% 学生受到留级影响；小学平均每年级留级率约 3%，中学平均每年级约 12%；小学结束约 22.7% 学生落后同龄人，中学结束约 60% 学生落后([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, pp.165, 169]])。
+> [!contrast-table|notitle] 概念辨析
+> | 维度 | 留级制度（Grade Retention） | 补救教学（Remedial Instruction） | 能力分轨（Tracking） |
+> |---|---|---|---|
+> | **干预机制** | 强制重复相同学年课程，重排年龄队列 | 在原班升学通道中提供针对性辅导支持 | 依据学业表现分流至不同标准学制轨道 |
+> | **平均效应** | 普遍呈现负向阻碍（$d = -0.16$） | 呈现积极促学效应（$d = 0.40 \sim 0.60$） | 宏观学业增益极其微弱（$d = 0.12 \sim 0.16$） |
+> | **社会公平代价** | 易产生累积性污名与脆弱群体边缘化 | 聚焦技能补短，支持弱势群体平稳过渡 | 加剧社会经济背景分层与阶层固化 |
 
-> [!warning] 争议与批评
-> 留级最核心的争议不是“学校是否需要处理学习困难”，而是“重复同一年级是否是有效且公平的处理方式”。在[[Evidence-Based Education\|证据本位教育]]视角下，留级常被批评为一种证据基础不足却制度惯性很强的做法；但政策上完全禁止留级又可能遭遇教师、公众和制度执行层面的阻力([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, pp.165, 174]])。
+---
 
-法语比利时改革展示了这种张力。尽管研究证据可以支持更强改革，[[Pact for Educational Excellence|教育卓越公约]]仍只提出到 2030 年把留级率降低 50%，并保留共同核心阶段使用留级的可能性。Dachet and Baye 认为这体现了自上而下直接禁止与自下而上软性改变之间的政策选择([[Argument_Dachet_2021_ECNUROE|Dachet & Baye, 2021, p.174]])。
+> [!feature] 核心要素
+> - **队列重置与时间滞留** 将学业未达标转化为重复同一年级的时间处理，使学生从既有同龄同侪网络中剥离。[[Argument_Dachet_2021_ECNUROE|(Dachet & Baye, 2021, p. 169)]]
+> - **表层组织干预属性** 仅改变学生的外部年级归属（表层结构），未能自发改善课堂微观认知激活与教学支持质量（深层结构）。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, p. 28)]]
+> - **脆弱阶层叠加风险** 留级筛选高度不成比例地集中于社会处境不利家庭与移民后代群体，加剧教育不平等。[[Argument_Dachet_2021_ECNUROE|(Dachet & Baye, 2021, p. 170)]]
 
-> [!example] 相关案例／政策
-> - [[Grade Retention in French-Speaking Belgium]] — 高留级率和改革减半目标展示了证据与政策之间的转换摩擦([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, pp.165, 174]])。
-> - [[Pact for Educational Excellence]] — 将降低留级率列入结构性改革，但没有全面禁止共同核心阶段留级([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, pp.172, 174]])。
+> [!logic-map]- 留级制度的因果循环机制
+> ```mermaid
+> flowchart LR
+>     A["学业困难与认知滞后"] --> B["留级决策与学年重复"]
+>     B --> C["年级队列剥离与心理挫败"]
+>     B --> D["表层教学未改与深层支持缺失"]
+>     C --> E["学业自我概念受损与学习动机下降"]
+>     D --> F["学业差距持续拉大（d = -0.16）"]
+>     E --> F
+> ```
+
+---
+
+> [!concept-proposition] 命题一｜留级制度无法发挥学业补偿功能，反而对学生后续认知成长带来持续负向阻碍
+> **实证效应与长期学业滞后** 汇集国际二阶元分析与国家级纵向追踪，证实留级未带来学业复苏，反而产生显著的成长滞后。
+
+> [!claim] [[Olaf Köller|Köller, O.]]
+> **二阶元分析与 PISA 追踪对留级神话的经验颠覆** 奥拉夫·克勒指出，哈蒂汇总的二阶元分析显示留级平均效应为负值（$d = -0.16$），彻底打破了让学生重读一年以巩固基础的传统设想。埃姆克等（Ehmke et al., 2010）基于 PISA 2003 德国数据的纵向追踪检验同样证实，在控制初始认知能力后，留级学生相对于正常升学同伴在后续科学与数学成就上表现出长期的实质滞后。留级仅改变了容易观察的外部年级结构，未能解决课堂深层认知激活与反馈不足的问题。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, pp. 27–28)]]
+
+> [!claim] [[Argument_Dachet_2021_ECNUROE|Dachet and Baye (2021)]]
+> **多国元分析文献对留级促学假定的全面证伪** 达谢与巴耶综述自 1970 年代以来的国际实证研究表明，海量批判性文献综述均未识别出留级的正向平均成效；重复就读并未提升学业未达标学生的掌握水平，反而显著增加了学生在中学阶段过早辍学和边缘化的概率。[[Argument_Dachet_2021_ECNUROE|(Dachet & Baye, 2021, pp. 165, 172, 174)]]
+
+---
+
+> [!concept-proposition] 命题二｜留级制度体现了实证证据与体制惯性之间的深层断裂，政策变革受到政治文化阻力制约
+> **证据与惯性脱节的制度分析** 探讨为何在经验证据高度确凿反对留级的情况下，学校系统仍长期维系留级实践。
+
+> [!claim] [[Argument_Dachet_2021_ECNUROE|Dachet and Baye (2021)]]
+> **法语比利时公约改革中的循证折中与政治阻力** 在比利时法语区，PISA 2015 显示多达 46% 的学生经历过留级。尽管科学界一致呼吁废除留级，但官方《教育卓越公约》（Pact for Educational Excellence）仅设定到 2030 年将留级率降低 50% 的渐进目标，并保留基础阶段的留级权限。这揭示出证据本位教育在触碰教师群体筛选权与社会大众学业标准焦虑时，所面临的巨大体制惯性与妥协。[[Argument_Dachet_2021_ECNUROE|(Dachet & Baye, 2021, pp. 165, 169, 174)]]
+
+---
 
 > [!metax-divider]
 

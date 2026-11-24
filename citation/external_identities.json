@@ -33114,7 +33114,8 @@
       "doi": "https://doi.org/10.1016/j.stueduc.2010.05.002",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md",
+        "wiki/concepts/educational-policy-reform/Grade Retention.md"
       ],
       "title": "Effects of Grade Retention on Achievement and Self-Concept in Science and Mathematics"
     },
@@ -45690,7 +45691,9 @@
     "Gruehn, 2000": {
       "doi": "",
       "isbn": "9783893258901",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
+      ],
       "title": "Unterricht und schulisches Lernen: Schüler als Quellen der Unterrichtsbeschreibung"
     },
     "Grumet, 1998": {
@@ -49355,11 +49358,12 @@
     },
     "Hattie, 2012": {
       "doi": "",
-      "isbn": "",
+      "isbn": "9780415690157",
       "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md",
         "wiki/arguments/journal-articles/Nordic Psychology/Argument_Nielsen_2021_NordPsych.md"
       ],
-      "title": ""
+      "title": "Visible Learning for Teachers: Maximizing Impact on Learning"
     },
     "Hattie, 2013": {
       "doi": "",
@@ -77847,7 +77851,9 @@
     "Meyer, 2004": {
       "doi": "",
       "isbn": "9783589218677",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
+      ],
       "title": "Was ist guter Unterricht?"
     },
     "Meyer, 2010": {
@@ -102688,6 +102694,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md",
+        "wiki/concepts/educational-policy-reform/Class Size.md",
         "wiki/persons/germany/Tina Seidel.md"
       ],
       "title": "Teaching Effectiveness Research in the Past Decade: The Role of Theory and Research Design in Disentangling Meta-Analysis Results"
@@ -118796,7 +118803,9 @@
     "Walberg, 2010": {
       "doi": "",
       "isbn": "9780817911140",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
+      ],
       "title": "Advancing Student Achievement"
     },
     "Wald & Harland, 2019": {
@@ -127693,14 +127702,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/finland/Comprehensive School Reform in Finland.md"
-      ],
-      "title": ""
-    },
-    "依据哈蒂, 2012": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
       ],
       "title": ""
     },
