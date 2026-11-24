@@ -6,7 +6,7 @@ aliases:
 summary: "围绕学校方向设定、人员发展、组织改进与信任建立展开的教育实践，在证据知情视域下依托榜样示范与制度化排程促成高质量研究使用与学校变革。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 60
+related_count: 63
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -20,12 +20,14 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Alienation]]"
   - "[[New Public Management]]"
+  - "[[Institutional Maintenance]]"
   - "[[Teacher Trust]]"
   - "[[Poor Research Use]]"
   - "[[Transformative Leadership]]"
   - "[[Dialogue in Education]]"
   - "[[Professional Learning Community]]"
   - "[[Evidence-Based School Development]]"
+  - "[[Social Economy]]"
   - "[[Habitus]]"
   - "[[School Autonomy]]"
   - "[[Champ]]"
@@ -43,6 +45,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Dependent Variable]]"
   - "[[Neo-Taylorism]]"
+  - "[[Test-Based Accountability]]"
   - "[[Doxa]]"
   - "[[Cult of Efficiency]]"
 related_theories:
@@ -59,7 +62,6 @@ related_arguments:
   - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Eacott_2017_SLM]]"
   - "[[Argument_Deng_2016_CE]]"
-  - "[[Argument_Koller_2014_WhatWorks]]"
 related_facts:
   - "[[OECD]]"
   - "[[Monash Q Project]]"
@@ -83,17 +85,16 @@ related_persons:
   - "[[Herbert Altrichter]]"
   - "[[Roy Nash]]"
   - "[[John Hattie]]"
-  - "[[Olaf Köller]]"
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-11-17
+updated: 2026-11-24
 ---
 
 > [!def] School Leadership
 > **学校领导力（School Leadership）** 指教育领导者（涵盖校长、中层管理者及分布式领导团队）通过确立学校发展愿景、促进教职员工专业成长、重构[[Organizational Culture\|组织文化]]架构与维系深度人际信任，从而对学生学业成功与学校整体改进产生关键塑造作用的专业实践（[[Argument_Møller_2017_EERJ\|Møller, 2017, p. 376]]）。领导力深具情境特异性（Context-specific），不存在放之四海而皆准的通用卓越处方。在[[Evidence-Informed Practice\|证据知情实践]]与[[Quality Use of Research Evidence Framework\|高质量研究使用]]视域下，学校领导力进一步超越传统的行政管辖与指令下达，确立为以身作则、言行一致（*walk the talk and model its implementation*）示范研究在课堂中的具体转化，并通过制度化排程为教师提供研讨工时与试错心理安全的组织使能手段。[[Argument_Møller_2017_EERJ\|(Møller, 2017, pp. 376, 380)]]；[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson, Walsh, et al., 2022, pp. 187–188, 191–192)]]
 
-> [!concept-lens|notitle] 概念透镜
+> [!concept-lens] 概念透镜
 > - **核心指向** 学校微观组织改进、人员发展、专业信任与证据转化的协同引领机制。
 > - **理论用途** 揭示学校领导者如何通过愿景引领、榜样示范与制度化排程打破教师职业孤岛与行政[[Alienation|异化]]，理解教育改革在微观现场落地或受阻的组织动力学。
 > - **适用边界** 坚决反对将学校领导力降格为去情境化的个人英雄主义叙事或[[New Public Management\|新公共管理]]的技术官僚控制工具；强调其深受宏观制度问责与社会正义权力的结构性塑造。
@@ -109,7 +110,7 @@ updated: 2026-11-17
 > *Leaders should not only quote what the 'research says', they have to walk the talk and model its implementation.*
 
 > [!boundary]- 概念边界
-> - **不等于 传统的科层行政管理（Bureaucratic Administration）** 行政管理侧重规章制度维护、考勤考评与日常事务性运转；学校领导力侧重教学愿景引领、组织文化塑造与人员赋能。
+> - **不等于 传统的科层行政管理（Bureaucratic Administration）** 行政管理侧重规章[[Institutional Maintenance|制度维护]]、考勤考评与日常事务性运转；学校领导力侧重教学愿景引领、组织文化塑造与人员专业发展支持。
 > - **不等于 去情境化的伟人英雄叙事（Heroic Leadership）** 领导力是深植于[[Teacher Trust|教师信任]]关系、教研共同体与分布式协作中的集体能力，有别于个别校长的天赋特质或独断决断。
 > - **不等于 自上而下的独断强加（Bee in their bonnet）** 领导者单凭个人一时冲动强推未经全员协商的外来方案，属于典型的[[Poor Research Use\|劣质研究使用]]，会引发教师强烈怨怼与教学停滞。
 
@@ -120,7 +121,7 @@ updated: 2026-11-17
 > |---|---|---|---|---|
 > | **分析起点** | 学校微观组织运作、人员发展与教学情境 | 宏观权力结构、社会正义与制度不平等批判 | 科层问责规程、成本效益核算与标准交付 | 路径自主权体制下国家标准、成效监测与校本改进交汇处 |
 > | **核心使命** | 设定方向、发展教师、培育信任与改善教学 | 解构压迫性权力关系，推进边缘群体教育公平 | 执行上级政策指标、提高测验排名与行政依从 | 依托数据诊断反馈，优化教学流程、深化研讨[[Dialogue in Education\|对话]]并保障办学质量 |
-> | **组织关系** | 分布式协作网络与去私有化的教研共同体 | 具有批判意识的盟友关系与解放性赋权[[Dialogue in Education\|对话]] | 上下级命令服从、绩效考核监督与合同问责 | 教学诊断者、同侪协作赋能者与目标协定对话中枢 |
+> | **组织关系** | 分布式协作网络与去私有化的教研共同体 | 具有批判意识的盟友关系与解放性对话支持 | 上下级命令服从、绩效考核监督与合同问责 | 教学诊断者、同侪协作支持者与目标协定对话中枢 |
 > | **证据定位** | 作为审慎探究的适切资源，强调领导言行示范 | 审视证据生产背后的意识形态与权力偏见 | 作为绩效考核与合法化交付的硬性指标工具 | 作为校本持续改进的客观镜鉴与教学诊断依据 |
 > | **工时重点** | 兼顾全校常规行政管理与教学关注 | 投向批判性对话与社会行动动员 | 消耗于外部公文填报与形式化绩效审计 | 系统性削减课堂兼课，集中于深入课堂听课与教学质量研讨 |
 
@@ -151,7 +152,7 @@ updated: 2026-11-17
 > **情境特异性与权力结构嵌入** 批判将学校领导力抽象为普适商业管理技术的流行假设，阐明具体社会文化背景与权力关系对领导实践的决定性塑造。
 
 > [!claim] Møller; Eacott
-> **情境嵌入机制** 成功的学校领导力在本质上是高度情境化的，任何试图提炼脱离本土语境的通用成功公式的努力都是徒劳的。乔伦·莫勒（[[Jorunn Møller]]）与[[James C. Scott|斯科特]]·埃科特（[[Scott Eacott]]）基于国际成功学校校长项目（ISSPP）跨国案例指出，同样是设定方向或改进组织，在社会经济处境不利、种族文化多元的薄弱学校与在资源充沛的同质化精英学校中，面临截然不同的制度阻力与伦理权衡。领导力不仅是对校内人际的沟通协调，更时刻受到外部政治问责体制与宏观教育资本分配格局的深层规制。[[Argument_Møller_2017_EERJ\|(Møller, 2017, pp. 376–381)]]；[[Argument_Eacott_2011_JEAH\|(Eacott, 2011, pp. 45–49)]]
+> **情境嵌入机制** 成功的学校领导力在本质上是高度情境化的，任何试图提炼脱离本土语境的通用成功公式的努力都是徒劳的。乔伦·莫勒（[[Jorunn Møller]]）与[[James C. Scott|斯科特]]·埃科特（[[Scott Eacott]]）基于国际成功学校校长项目（ISSPP）跨国案例指出，同样是设定方向或改进组织，在[[Social Economy|社会经济]]处境不利、种族文化多元的薄弱学校与在资源充沛的同质化精英学校中，面临截然不同的制度阻力与伦理权衡。领导力不仅是对校内人际的沟通协调，更时刻受到外部政治问责体制与宏观教育资本分配格局的深层规制。[[Argument_Møller_2017_EERJ\|(Møller, 2017, pp. 376–381)]]；[[Argument_Eacott_2011_JEAH\|(Eacott, 2011, pp. 45–49)]]
 
 ---
 
@@ -331,7 +332,7 @@ updated: 2026-11-17
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 考察新加坡高表现教育系统中教学型学校领导力的制度嵌入性，阐明领导实践深嵌于中央集权课程、师资一体化体系与高利害考试问责框架之中。
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 考察新加坡高表现教育系统中教学型学校领导力的制度嵌入性，阐明领导实践深嵌于中央集权课程、师资一体化体系与高利害[[Test-Based Accountability|考试问责]]框架之中。
 > - [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] — 针对奥地利 362 名中小学校长开展聚类与[[Analysis of Variance\|方差分析]]，证实认同产出导向与[[Output-Oriented Governance\|循证治理]]的校长显著缩减课堂兼课时间，将更多工时投向教学观摩、质量评估与教研对话，重构为教育企业管理者的专业身份。
 > - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson, Walsh, et al. (2022)]] — 结合[[Monash Q Project\|莫纳什 Q 项目]]全澳实证调查，系统论证榜样型领导示范与制度化排程是打破教师防卫、促进高质量研究[[Research Utilization\|证据使用]]的首要组织手段。
 > - [[Argument_Møller_2017_EERJ\|Møller (2017)]] — 评述跨国成功学校校长项目（ISSPP），阐释领导力的情境特异性，并从[[Transformative Leadership\|变革型领导力]]与批判政策视角反思个人英雄主义偏差。

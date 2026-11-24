@@ -8,30 +8,45 @@ aliases:
 summary: "重新组织学校文化、制度政策与课堂教学实践以接纳并支持所有异质性学习者共同参与常态学习的教育理念与组织模式，实证证实其相比隔离式特殊学校安置具有显著正向学业增益且不损害普通学生发展。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#dbeafe"
+related_count: 28
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - metax
   - subject/instruction
   - level/k12
   - theme/pedagogy
 related_concepts:
+  - "[[Heterogeneity]]"
+  - "[[Paradigm]]"
   - "[[Differentiated Instruction]]"
+  - "[[Alienation]]"
+  - "[[Cognitive Activation]]"
+  - "[[Academic Achievement]]"
+  - "[[Learned Helplessness]]"
+  - "[[Educational Expectations]]"
+  - "[[Scaffolding]]"
+  - "[[Surface and Deep Learning]]"
+  - "[[Document]]"
   - "[[Individualised Instruction]]"
   - "[[Classroom Management]]"
   - "[[Student-Teacher Relationship]]"
-  - "[[Academic Achievement]]"
   - "[[Visible Learning]]"
+  - "[[Learnology]]"
+  - "[[Empirische Unterrichtsforschung]]"
 related_theories:
+  - "[[Organizational Culture]]"
+  - "[[Legitimate Peripheral Participation]]"
   - "[[Two Problematics of Educational Inclusion and Exclusion]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Meta-meta-analysis]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons:
-  - "[[Olaf Köller]]"
   - "[[John Hattie]]"
+  - "[[Olaf Köller]]"
 related_facts:
   - "[[UNESCO]]"
   - "[[PISA]]"
@@ -46,9 +61,9 @@ updated: 2026-11-24
 ---
 
 > [!def] Inclusive Education
-> **融合教育（Inclusive Education，亦称全纳教育）** 是指重构普通学校的组织文化、管理制度、课程设置与教学实践，使具备不同身心特征、能力水平及背景的异质性学习者（尤其是具有特殊教育需要（Special Educational Needs, SEN）的学生）能够在免于歧视的前提下，平等参与常态课堂学习与学校社区生活的系统性教育范式。
+> **融合教育（Inclusive Education，亦称全纳教育）** 是指重构普通学校的[[Organizational Culture|组织文化]]、管理制度、课程设置与教学实践，使具备不同身心特征、能力水平及背景的[[Heterogeneity|异质性]]学习者（尤其是具有特殊教育需要（Special Educational Needs, SEN）的学生）能够在免于歧视的前提下，平等参与常态课堂学习与学校社区生活的系统性教育[[Paradigm|范式]]。
 >
-> 现代实证教育研究表明，融合教育主张学校与课堂主动适应学生的多元学习需求，提供必要的差异化教学支持与特教专业协同，有别于要求学生单向依附适应既定制度的传统一体化安置（Mainstreaming / Integration）或将特需学生排斥于普通教育之外的隔离式特殊教育（Segregation）。
+> 现代实证教育研究表明，融合教育主张学校与课堂主动适应学生的多元学习需求，提供必要的[[Differentiated Instruction|差异化教学]]支持与特教专业协同，有别于要求学生单向依附适应既定制度的传统一体化安置（Mainstreaming / Integration）或将特需学生排斥于普通教育之外的隔离式特殊教育（Segregation）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 概括学校与课堂消除制度性排斥、系统重构教学组织以无条件接纳并支持异质性学习者共同成长的教育理念与实践形态。
@@ -56,14 +71,14 @@ updated: 2026-11-24
 > - **边界** 区别于仅追求物理空间同处一室而缺乏实质教学调整的“随班就坐”；亦区别于单一医学病理视角的缺陷矫正。
 
 > [!citation-card] 柯勒论融合教育相比隔离安置的促学优势
-> 针对特殊教育需要学生的融合教育优于隔离安置。元分析证据表明，在普通班级接受融合教育的特需学生在学业发展上显著优于被分配至隔离式特殊学校的同伴（$d = 0.28$）。这意味着将学生从常态教育环境中抽离并不能为其带来承诺的学业优势，普通学校的丰富语言与认知刺激反而更能激发学习潜能。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, p. 30)]]
+> 针对特殊教育需要学生的融合教育优于隔离安置。[[Meta-analysis|元分析]]证据表明，在普通班级接受融合教育的特需学生在学业发展上显著优于被分配至隔离式特殊学校的同伴（$d = 0.28$）。这意味着将学生从常态教育环境中抽离并不能为其带来承诺的学业优势，普通学校的丰富语言与认知刺激反而更能激发学习潜能。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, p. 30)]]
 >
 > *Inclusive education for students with special educational needs is superior to segregated placement (d = 0.28). Meta-analytic evidence indicates that learning in regular classrooms provides richer cognitive stimulation than isolated special schools.*
 
 > [!boundary]- 概念边界辨析
 > - **不同于隔离式特殊教育（Segregated Special Education）** 隔离特教将有身心障碍的学生集中在专门的特殊学校封闭教学，割裂了特需群体与主流社会的常态互动；融合教育坚持就近入学与共同参与。
 > - **不同于传统一体化/随班就读（Mainstreaming / Integration）** 传统一体化预设特需学生必须调整自身以适应现行主流课堂，若无法跟上节奏则被退回特殊班；融合教育强调学校与教师重构教学以适切学习者需求。
-> - **不同于无支持放任（Dumping）** 融合教育必须伴随针对性的特教资源入校、同伴支持与弹性课程评价，单纯将特需学生安置在普通班级而缺乏差异化支持属于假性融合。
+> - **不同于无支持放任（Dumping）** 融合教育必须伴随针对性的特教资源入校、同伴支持与弹性课程评价，单纯将特需学生安置在普通班级而缺乏差[[Alienation|异化]]支持属于假性融合。
 
 ---
 
@@ -72,16 +87,16 @@ updated: 2026-11-24
 > |---|---|---|---|
 > | **核心理念** | 适应学习者多元需求，消除制度排斥 | 特需学生单向适应普通学校现行体制 | 按医学障碍类型归类，集中隔离施教 |
 > | **学校责任** | 重构课程、评价与教学环境以包容差异 | 仅提供物理空间准入，维持原教学不变 | 建立独立特殊课程标准与生活技能训练 |
-> | **学生归属** | 普通班级正式成员，享有完全社区生活 | 边缘参与者，视适应情况决定去留 | 隔离于主流学校体系之外的特殊生 |
+> | **学生归属** | 普通班级正式成员，享有完全社区生活 | [[Legitimate Peripheral Participation\|边缘参与]]者，视适应情况决定去留 | 隔离于主流学校体系之外的特殊生 |
 > | **实证学业效益** | 学业与社会适应稳步提升（$d \approx 0.28 \sim 0.35$） | 容易因缺乏支持陷入学习挫败 | 同伴认知刺激单调，长期学业停滞 |
 
 ---
 
 > [!concept-proposition] 命题一｜全纳安置相比隔离特殊学校能为特需学生提供更丰富的认知刺激与学业增量
-> **常态社会比较与深层认知激活** 考察普通班级丰富的语言交互与同伴示范如何促进特殊教育需要学生的学业发展。
+> **常态社会比较与深层[[Cognitive Activation|认知激活]]** 考察普通班级丰富的语言交互与同伴示范如何促进特殊教育需要学生的学业发展。
 
 > [!claim] [[Argument_Koller_2014_WhatWorks|Köller (2014)]]
-> **融合安置的促学效应显著超越隔离特殊教育** 柯勒（[[Argument_Koller_2014_WhatWorks|Köller, 2014]]）指出，针对特殊教育需要学生的微观教学组织形式对学业表现具有直接影响。元分析综合结果表明，在普通课堂接受融合教育的特需学生在学科成就上显著高于在隔离特殊学校接受传统安置的学生（$d = 0.28$）。普通班级提供了更高级别的学科认知挑战、多样化的同伴语言交流以及正常的期望水平，有效避免了特殊学校中因同伴群体同质化落后所引发的习得性无助与学业期望降低。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, p. 30)]]
+> **融合安置的促学效应显著超越隔离特殊教育** 柯勒（[[Argument_Koller_2014_WhatWorks|Köller, 2014]]）指出，针对特殊教育需要学生的微观教学组织形式对[[Academic Achievement|学业表现]]具有直接影响。元分析综合结果表明，在普通课堂接受融合教育的特需学生在学科成就上显著高于在隔离特殊学校接受传统安置的学生（$d = 0.28$）。普通班级提供了更高级别的学科认知挑战、多样化的同伴语言交流以及正常的期望水平，有效避免了特殊学校中因同伴群体同质化落后所引发的[[Learned Helplessness|习得性无助]]与[[Educational Expectations|学业期望]]降低。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, p. 30)]]
 
 ---
 
@@ -93,18 +108,18 @@ updated: 2026-11-24
 
 ---
 
-> [!concept-proposition] 命题三｜融合教育的实效依赖于特教专业支持与差异化教学脚手架
+> [!concept-proposition] 命题三｜融合教育的实效依赖于特教专业支持与差异化[[Scaffolding|教学脚手架]]
 > **物理合并与深度参与的实践转化** 探讨如何通过专业协同与个别化调整避免出现“身体在场而认知缺席”的假性融合。
 
 > [!claim] 国际特殊与融合教育实证共识
-> **缺乏差异化支持的物理安置加剧隐性排斥** 实证调查表明，若普通学校教师缺乏特殊教育专业培训且未能获得特教巡回教师的协同支持，单纯将特需学生放入普通班级极易导致学生在认知活动中被边缘化，沦为形式上的随班就坐。唯有将[[Differentiated Instruction|差异化教学]]策略、多感官支架与积极行为支持深度融入日常授课，融合教育方能转化为真实的深层学习收益。
+> **缺乏差异化支持的物理安置加剧隐性排斥** 实证调查表明，若普通学校教师缺乏特殊教育专业培训且未能获得特教巡回教师的协同支持，单纯将特需学生放入普通班级极易导致学生在认知活动中被边缘化，沦为形式上的随班就坐。唯有将[[Differentiated Instruction|差异化教学]]策略、多感官支架与积极行为支持深度融入日常授课，融合教育方能转化为真实的[[Surface and Deep Learning|深层学习]]收益。
 
 ---
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 文献 |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 / [[Document\|文献]] |
 > |---|---|---|---|
-> | **认知刺激增量** | 融合安置提供更丰富的学科挑战与同伴示范，学业表现优于隔离特殊学校（$d = 0.28$）。 | 特殊教育安置决策、随班就读政策制定 | [[Argument_Koller_2014_WhatWorks|Köller (2014)]]; Kramer et al. (2021) |
+> | **认知刺激增量** | 融合安置提供更丰富的学科挑战与同伴示范，学业表现优于隔离特殊学校（$d = 0.28$）。 | 特殊教育安置决策、随班就读政策制定 | [[Argument_Koller_2014_WhatWorks\|Köller (2014)]]; Kramer et al. (2021) |
 > | **非负面损耗** | 融合课堂中非特需学生的学业成就保持稳健（$d = 0.12$），不构成质量牺牲。 | 普校家校沟通、融合教育政策推行 | Szumski et al. (2017) |
 > | **支持性条件** | 融合的成功依赖差异化教学与特教协同，单纯空间合并容易引发隐性排斥。 | 融合师资专业培训、资源教室建设 | 国际特殊教育实证研究 |
 
@@ -130,17 +145,6 @@ updated: 2026-11-24
 
 ---
 
-> [!empirical-divider]
-
-> [!ma-table]- 二阶元分析与大型综合结果
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 效应量 $d$ | 95% CI | 异质性 $I^2$ | $k$ | $N$ | 偏倚风险 | 证据质量 | 结论 |
-> |---|---|---|---|---|---|---|---|---|
-> | Hattie (2009); [[Argument_Koller_2014_WhatWorks|Köller (2014)]] | 0.28 | — | — | — | — | 中 | 中 | 融合教育安置相比隔离式特殊学校对特需学生展现稳定学业正向收益 |
-> | Szumski et al. (2017) | 0.12 | [0.08, 0.16] | 中 | 47 | 4,800,000 | 低 | 高 | 普通班级接纳特需学生对班内非特殊需要学生的学业成就保持微弱正向关联 |
-> | Kramer et al. (2021) | 0.35 | [0.20, 0.50] | 中 | 16 | 8,669 | 低 | 中 | 融合环境相比隔离安置显著促进特殊需要学生的学科发展 |
-
 > [!metax-divider]
 
 > [!metax] [随班就读／融合教育 · Mainstreaming / inclusion](https://www.visiblelearningmetax.com/influences/view/mainstreaming~inclusion)
@@ -165,6 +169,17 @@ updated: 2026-11-24
 > > | Kim, Park, et al. (2015) | Mainstreaming | 161 | NA | 236 | 0.88 |  |
 > > | Kramer et al. (2021) | Inclusive vs segregated settings | 16 | 8,669 | 16 | 0.35 |  |
 
+> [!empirical-divider]
+
+> [!ma-table]- [[Meta-meta-analysis|二阶元分析]]与大型综合结果
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 效应量 $d$ | 95% CI | 异质性 $I^2$ | $k$ | $N$ | 偏倚风险 | 证据质量 | 结论 |
+> |---|---|---|---|---|---|---|---|---|
+> | Hattie (2009); [[Argument_Koller_2014_WhatWorks\|Köller (2014)]] | 0.28 | — | — | — | — | 中 | 中 | 融合教育安置相比隔离式特殊学校对特需学生展现稳定学业正向收益 |
+> | Szumski et al. (2017) | 0.12 | [0.08, 0.16] | 中 | 47 | 4,800,000 | 低 | 高 | 普通班级接纳特需学生对班内非特殊需要学生的学业成就保持微弱正向关联 |
+> | Kramer et al. (2021) | 0.35 | [0.20, 0.50] | 中 | 16 | 8,669 | 低 | 中 | 融合环境相比隔离安置显著促进特殊需要学生的学科发展 |
+
 ---
 
 > [!entry-map] 条目关联
@@ -176,11 +191,11 @@ updated: 2026-11-24
 > | [[Classroom Management]] | 概念 | 组织基石，异质性多需求班级依赖高水平课堂常规与积极行为预期以维系秩序 |
 > | [[Student-Teacher Relationship]] | 概念 | 情感支撑，积极支持性师生关系有助于缓解特需学生的校园孤独与排斥感 |
 > | [[Academic Achievement]] | 概念 | 评价维度，元分析证实融合安置相比隔离特殊教育带来微弱至中等的学业增量 |
-> | [[Visible Learning]] | 概念 | 理论模型，二阶元分析系统汇总随班就读与融合教育的跨国实证效应量 |
+> | [[Visible Learning]] | 概念 | 理论模型，二阶元分析系统汇总随班就读与融合教育的跨国实证[[Effect Size\|效应量]] |
 > | [[Two Problematics of Educational Inclusion and Exclusion]] | 理论 | 理论框架，从社会学视角剖析教育融合与排斥的结构性张力 |
 > | [[Meta-analysis]] | 方法 | 统计方法，二阶综合跨国关于融合教育安置对学业成就因果效应的计量工具 |
-> | [[John Hattie]] | 人物 | 可见学习学者，二阶元分析汇总随班就读对学业成就的总体正向效应 |
-> | [[Olaf Köller]] | 人物 | 德语区实证教学研究学者，论证针对特需学生的融合教育优于隔离特殊学校安置 |
+> | [[John Hattie]] | 人物 | 可见[[Learnology\|学习学]]者，二阶元分析汇总随班就读对学业成就的总体正向效应 |
+> | [[Olaf Köller]] | 人物 | 德语区[[Empirische Unterrichtsforschung\|实证教学研究]]学者，论证针对特需学生的融合教育优于隔离特殊学校安置 |
 > | [[UNESCO]] | 事实 | 国际组织，通过《萨拉曼卡宣言》确立全纳教育全球政策愿景与人权框架 |
 > | [[PISA]] | 事实 | 国际大型测评，揭示不同国家多轨分流与全纳体制对教育公平与学业表现的影响 |
 

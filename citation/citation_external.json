@@ -112443,9 +112443,9 @@
         "wiki/concepts/instruction-pedagogy/Effective Teaching.md",
         "wiki/concepts/instruction-pedagogy/Feedback.md",
         "wiki/concepts/instruction-pedagogy/Homework.md",
+        "wiki/concepts/instruction-pedagogy/Inclusive Education.md",
         "wiki/concepts/instruction-pedagogy/Lecturing.md",
-        "wiki/concepts/instruction-pedagogy/Mind Mapping.md",
-        "wiki/concepts/instruction-pedagogy/Problem-Based Learning.md"
+        "wiki/concepts/instruction-pedagogy/Mind Mapping.md"
       ],
       "title": "Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement"
     },
@@ -136699,7 +136699,9 @@
         "Kramer et al., 2021"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Inclusive Education.md"
+      ],
       "title": "Inclusive Education of Students With General Learning Difficulties: A Meta-Analysis."
     },
     "Kramer, 2009": {
@@ -215479,7 +215481,9 @@
         "Szumski et al., 2017"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Inclusive Education.md"
+      ],
       "title": "Academic achievement of students without special educational needs in inclusive classrooms: A meta-analysis"
     },
     "Sáenz et al., 2005": {
