@@ -25069,7 +25069,8 @@
       "doi": "https://doi.org/10.3102/003465430298563",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md",
+        "wiki/concepts/instruction-pedagogy/Student-Teacher Relationship.md"
       ],
       "title": "Learner-Centered Teacher-Student Relationships Are Effective: A Meta-Analysis"
     },
@@ -64888,6 +64889,7 @@
       "isbn": "9783830925439",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md",
+        "wiki/concepts/teacher-education/Teacher Subject Matter Knowledge.md",
         "wiki/theories/instruction-pedagogy/Three Basic Dimensions of Teaching Quality.md"
       ],
       "title": "Professionelle Kompetenz von Lehrkräften: Ergebnisse des Forschungsprogramms COACTIV"
@@ -65248,7 +65250,8 @@
       "doi": "",
       "isbn": "9783830924005",
       "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md",
+        "wiki/concepts/teacher-education/Teacher Subject Matter Knowledge.md"
       ],
       "title": "Sprachliche Kompetenzen im Ländervergleich"
     },
@@ -72286,6 +72289,15 @@
         "wiki/arguments/journal-articles/Comparative Education/Argument_Volmari_2025_CE.md",
         "wiki/concepts/comparative-education/Democratisation of Expertise.md",
         "wiki/concepts/comparative-education/Technologies of Exclusion.md"
+      ],
+      "title": ""
+    },
+    "Maassen & Stensaker, 2019": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/De-coupled Bureaucracy.md",
+        "wiki/concepts/higher-education/Organised Anarchy.md"
       ],
       "title": ""
     },
@@ -85957,6 +85969,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/instruction-pedagogy/Cooperative Learning.md"
+      ],
+      "title": ""
+    },
+    "Olsen, 1972": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Organised Anarchy.md"
       ],
       "title": ""
     },
@@ -108187,7 +108207,8 @@
       "doi": "",
       "isbn": "9783830928003",
       "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md",
+        "wiki/concepts/teacher-education/Teacher Subject Matter Knowledge.md"
       ],
       "title": "Kompetenzen von Schülerinnen und Schülern am Ende der vierten Jahrgangsstufe in den Fächern Deutsch und Mathematik: Ergebnisse des IQB-Ländervergleichs 2011"
     },

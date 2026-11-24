@@ -110,7 +110,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 ---
@@ -175,6 +175,9 @@ updated: 2026-11-23
 
 > [!claim] [[John Hattie\|Hattie, J.]]
 > **教师作为“激活者”的极高[[Effect Size\|效应量]]** 在可见学习综合体系中，直接教学的合并效应量达 $d = 0.59$（远超 $d = 0.40$ 的发展[[Zone of Desired Effects|铰接点]]），显著高于教师仅充当促进者（Facilitator，如非指导性[[Discovery Learning\|发现学习]] $d = 0.17$）的模式。这表明由教师主动设定目标、清晰示范并监控掌握进度的结构化行为具有强力实证支持。[[Argument_Terhart_2011_JCS\|(Terhart, 2011, p. 433)]]; [[Argument_Zhao_2017_JEC\|(Zhao, 2017, p. 7)]]
+
+> [!claim] [[Olaf Köller|Köller, O.]]
+> **目标透明与结构化引导对直接教学污名化的澄清** 奥拉夫·克勒指出，直接教学常因被误解为死板灌输而遭受不公正的贬损。二阶元分析证实直接教学具备卓越的促学效能（ = 0.59$），其核心特征在于教师主导的结构化清晰性：教师在教学单元开始时明确学习目标并向学生充分透明化；在课堂中主动讲解核心内容，示范问题解决思路，全程敏锐监控学生的理解进展，并在课程结尾系统总结核心成果。直接教学构成了维系有效班级管理与支撑深层认知激活的关键引导机制。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, pp. 34–35)]]
 
 > [!claim] Sweller, J., & Kirschner, P. A.
 > **[[Cognitive Load Theory\|认知负荷理论]]对显性直接指导的辩护** 初学者在面对新领域时缺乏长时记忆中的知识图式（Schemata）。若采用未加指导的自由探索，有限的工作记忆会瞬间被盲目搜寻的外在负荷挤爆；直接教学通过“专家示范 + 样例解析 + 指导练习”，将外部认知负荷降至最低，使认知资源完全聚焦于图式建构与技能自动化。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 1–2)]]

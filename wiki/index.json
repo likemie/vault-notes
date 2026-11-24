@@ -11306,6 +11306,17 @@
     ]
   },
   {
+    "title": "De-coupled Bureaucracy",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/De-coupled Bureaucracy.md",
+    "aliases": [
+      "解耦型官僚制",
+      "解耦官僚制",
+      "脱钩型官僚制",
+      "decoupled bureaucracy"
+    ]
+  },
+  {
     "title": "Disciplinary Institutionalization",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Disciplinary Institutionalization.md",
@@ -11779,6 +11790,18 @@
       "OSA",
       "在线学习选择检查",
       "Online Study Choice Check"
+    ]
+  },
+  {
+    "title": "Organised Anarchy",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Organised Anarchy.md",
+    "aliases": [
+      "组织化无政府状态",
+      "组织化无政府体系",
+      "有组织的无政府状态",
+      "organized anarchy",
+      "organised anarchies"
     ]
   },
   {
@@ -57352,6 +57375,11 @@
     "title": "Argument_Zhu_Yang_2023_HEP",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Higher Education Policy/Argument_Zhu_Yang_2023_HEP.md"
+  },
+  {
+    "title": "Argument_Maassen_Stensaker_2019_HEQ",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md"
   },
   {
     "title": "Argument_Biggs_1999_HERD",

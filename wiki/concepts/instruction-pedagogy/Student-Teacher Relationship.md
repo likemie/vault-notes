@@ -91,7 +91,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-06'
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 > [!def] Student-Teacher Relationship
@@ -101,6 +101,11 @@ updated: 2026-11-23
 > - **含义** 师生关系表征了教师与学生双向奔赴的交往样态，涵盖教师提供的关怀反馈与期望传达，以及学生对[[Teacher Support for Students|教师支持]]性、可预测性与专业引领的主观感知。
 > - **用途** 帮助研究者透视课堂中隐性情绪氛围、学习参与动机、抗逆力形成机制以及弱势学生融入阻力的社会关系基底。
 > - **边界** 师生关系是学习过程的支持环境与使能条件，不直接等同于行为层面的[[Student Engagement|学习投入]]，亦不能替代结构化的学科认知指导与教学法本身。
+
+> [!citation-card|notitle] 关键表述
+> 罗杰斯人本心理学传统下的温暖、共情与非指导性支持显著促进学习（d = 0.72），构成了课堂教学中建设性支持维度的核心基石。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, pp. 31, 35)]]
+>
+> *Lehrer-Schüler-Beziehung erweist sich mit d = 0.72 als hochgradig lernförderlich.*
 
 > [!boundary]- 概念边界
 > - 不等于 **课堂反馈** — 课堂反馈是具体的教学交互行为与信息传递过程，而师生关系构成了反馈得以被学生信任接纳的长期情感底色与人际[[Reliability|信度]]。
@@ -131,6 +136,9 @@ updated: 2026-11-23
 
 > [!claim] Hattie (2009); [[Argument_Golovchin_2019_ESC|Golovchin (2019)]]
 > **[[Zone of Desired Effects|期望效应区]]的高回报因素** [[John Hattie|约翰·哈蒂]]（John Hattie）在《[[Visible Learning|可见的学习]]》宏观二阶综合中，将师生关系界定为期望效应区的高回报因素，位居全球教育干预前列。戈洛夫钦（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）在重审该模型时指出，积极的师生关系与[[Microteaching|微格教学]]、[[Teacher Clarity|教学清晰度]]共同构成了教师层面最值得投资的高增益要素。师生间的相互信任与深层共情，能够消除学生在面对复杂高阶挑战时的焦虑防御，极大提升教师指令与即时反馈的心理摄入效率。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 235)]]
+
+> [!claim] [[Olaf Köller|Köller, O.]]
+> **建设性支持维度中人本关系的强促学效应** 奥拉夫·克勒在审读二阶元分析时指出，良好的师生关系（Lehrer-Schüler-Beziehung）展现出极其显著的学业促学效应（ = 0.72$），其效能远超绝大多数宏观学校结构变量。克勒援引科尼利厄斯-怀特（Cornelius-White, 2007）的元分析证据阐明，植根于人本主义心理学传统的师生关系——以教师对学生的积极情感支持、敏锐共情、充分鼓励以及保留自主探索空间为特征——不仅直接改善了学生的学业成长，而且在鲍默特与孔特尔的教学质量模型中，与形成性内容反馈共同构成了“建设性支持”（Konstruktive Unterstützung）维度的核心支柱。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, pp. 31, 35)]]
 
 > [!claim] [[Argument_Håkansson_2015_TT|Håkansson (2015a)]]
 > **[[Structured Teaching|结构化教学]]中不可分割的互动支柱** 针对北欧围绕“讲坛式讲授”与“自由探索”的二元对立争论，霍坎松（Håkansson, 2015）系统梳理 43 项国际与本土研究综述指出，真正提升学业效能的[[Structured Teaching|结构化教学]]体现为“清晰结构与支持性互动”的有机共生，超越了单向的课堂行为控制。卓越的[[Classroom Management|课堂管理]]不仅包含时间利用与目标陈述，更把维持支持性的师生关系作为维系纪律、调动自主性的内在支柱，破除了将教学秩序与人际温度割裂开来的制度偏见。[[Argument_Håkansson_2015_TT|(Håkansson, 2015a, pp. 591–596)]]

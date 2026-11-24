@@ -98,7 +98,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-19
-updated: 2026-11-19
+updated: 2026-11-24
 ---
 
 ---
@@ -205,3 +205,4 @@ updated: 2026-11-19
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 采用跨国比较案例研究设计，横向对比德国、英格兰、苏格兰与芬兰对 PISA 测评的政策反响，并在垂直尺度上追踪[[OECD|经合组织]]与[[European Commission|欧盟委员会]]的数据动员，实证揭示全球指标与国内政治议程的[[Externalization|策略性外在化]]机制（pp. 28–35）。
 > - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] — 采用基于政策部门的跨区域比较案例研究设计，深度对比欧洲与东南亚高等教育区域治理的制度建构路径，揭示两地在政策理念、组织分工与知识话语吸纳机制上的类型差异（pp. 146–148）。
 > - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 采用比较案例研究设计，系统对比中国长三角、[[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]]与海南自贸港三个国际教育枢纽的办学形态、产学政合作机制与区域经济转型路径。
+> - [[Argument_Maassen_Stensaker_2019_HEQ|Maassen and Stensaker (2019)]] — 采用国际比较案例研究设计，深度对比 5 国领先研究型大学中 4 个学科院系的内部治理与管理实践，实证揭示科层强化下行政专门化与学术活动之间的脱钩机制（pp. 459–460）。
