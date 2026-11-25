@@ -4780,6 +4780,19 @@
     ]
   },
   {
+    "title": "Second-Order Change",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Second-Order Change.md",
+    "aliases": [
+      "二阶变革",
+      "二阶教育变革",
+      "二阶组织变革",
+      "Second-Order Educational Change",
+      "Second-Order Solution",
+      "二阶解决方案"
+    ]
+  },
+  {
     "title": "Semi-Permeable Culture",
     "type": "concept",
     "path": "wiki/concepts/educational-leadership-administration/Semi-Permeable Culture.md",
@@ -45310,6 +45323,19 @@
       "德国国家教育监测总体战略",
       "KMK Gesamtstrategie",
       "Gesamtstrategie der KMK zum Bildungsmonitoring"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Gymnasium",
+    "type": "fact",
+    "path": "wiki/facts/germany/Gymnasium.md",
+    "aliases": [
+      "文法中学",
+      "德国文法中学",
+      "高级中学",
+      "文理中学",
+      "German Gymnasium"
     ],
     "subtype": "policy"
   },

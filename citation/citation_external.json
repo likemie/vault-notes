@@ -6009,9 +6009,11 @@
     "Csikszentmihalyi, 1990": "Csikszentmihalyi, 1990",
     "Cuban (1984)": "Cuban, 1984",
     "Cuban (1986)": "Cuban, 1986",
+    "Cuban (1988)": "Cuban, 1988",
     "Cuban (1992)": "Cuban, 1992",
     "Cuban, 1984": "Cuban, 1984",
     "Cuban, 1986": "Cuban, 1986",
+    "Cuban, 1988": "Cuban, 1988",
     "Cuban, 1992": "Cuban, 1992",
     "Cui & Zheng (2018)": "Cui & Zheng, 2018",
     "Cui & Zheng, 2018": "Cui & Zheng, 2018",
@@ -54242,7 +54244,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/educational-philosophy/Culture Générale.md"
+        "wiki/concepts/educational-philosophy/Culture Générale.md"
       ],
       "title": ""
     },
@@ -56092,7 +56094,7 @@
         "wiki/concepts/comparative-education/Dual School System.md",
         "wiki/concepts/comparative-education/Policy Borrowing.md",
         "wiki/concepts/comparative-education/State Educational Sovereignty.md",
-        "wiki/concepts/educational-philosophy/Culture Générale.md",
+        "wiki/concepts/educational-philosophy/Culture Générale.md",
         "wiki/concepts/educational-psychology/Faculty Psychology.md",
         "wiki/concepts/teacher-education/Normal School.md",
         "wiki/facts/france/Guizot Law of 1833.md",
@@ -74255,6 +74257,21 @@
       ],
       "title": ""
     },
+    "Cuban, 1988": {
+      "aliases": [
+        "Cuban, 1988",
+        "Cuban (1988)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Cuban, 1988"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-leadership-administration/Second-Order Change.md"
+      ],
+      "title": ""
+    },
     "Cuban, 1992": {
       "aliases": [
         "Cuban, 1992",
@@ -76920,7 +76937,7 @@
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mattheou_2009_ScientificParadigm.md",
         "wiki/concepts/comparative-education/Intangible Spiritual Forces.md",
         "wiki/concepts/educational-philosophy/Bildung.md",
-        "wiki/concepts/educational-philosophy/Culture Générale.md",
+        "wiki/concepts/educational-philosophy/Culture Générale.md",
         "wiki/concepts/educational-philosophy/Liberal Education.md",
         "wiki/concepts/educational-philosophy/Paideia.md"
       ],
@@ -95706,7 +95723,7 @@
         "wiki/concepts/comparative-education/Proto-Scientific Motif.md",
         "wiki/concepts/educational-psychology/Faculty Psychology.md",
         "wiki/concepts/teacher-education/Normal School.md",
-        "wiki/facts/france/Esquisse d'un ouvrage sur l'éducation comparée.md",
+        "wiki/facts/france/Esquisse d'un ouvrage sur l'éducation comparée.md",
         "wiki/facts/france/Revue encyclopédique.md",
         "wiki/persons/france/Marc-Antoine Jullien.md"
       ],
@@ -97786,7 +97803,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md",
+        "wiki/concepts/educational-leadership-administration/Second-Order Change.md"
       ],
       "title": "All Systems Go: The Change Imperative for Whole System Reform"
     },
@@ -99616,7 +99634,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/facts/france/Esquisse d'un ouvrage sur l'éducation comparée.md"
+        "wiki/facts/france/Esquisse d'un ouvrage sur l'éducation comparée.md"
       ],
       "title": ""
     },
@@ -110025,7 +110043,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings.md",
-        "wiki/concepts/educational-philosophy/Culture Générale.md",
+        "wiki/concepts/educational-philosophy/Culture Générale.md",
         "wiki/concepts/educational-psychology/Faculty Psychology.md",
         "wiki/facts/france/Guizot Law of 1833.md",
         "wiki/persons/france/François Guizot.md",
@@ -111840,7 +111858,7 @@
         "wiki/concepts/comparative-education/Comparative History of Comparative Education.md",
         "wiki/concepts/comparative-education/Educational Meliorism.md",
         "wiki/concepts/comparative-education/Factorial Interpretive Framework.md",
-        "wiki/facts/france/Esquisse d'un ouvrage sur l'éducation comparée.md",
+        "wiki/facts/france/Esquisse d'un ouvrage sur l'éducation comparée.md",
         "wiki/facts/us/National Education in Europe.md",
         "wiki/persons/france/Marc-Antoine Jullien.md",
         "wiki/persons/france/Victor Cousin.md",
@@ -118311,7 +118329,7 @@
         "wiki/concepts/comparative-education/Critical Dualism.md",
         "wiki/concepts/comparative-education/Cross-National Attraction.md",
         "wiki/concepts/comparative-education/Scientific Paradigm.md",
-        "wiki/concepts/educational-philosophy/Culture Générale.md",
+        "wiki/concepts/educational-philosophy/Culture Générale.md",
         "wiki/concepts/educational-philosophy/Falsification.md",
         "wiki/concepts/educational-philosophy/Subjectivism.md",
         "wiki/concepts/educational-philosophy/Value Neutrality.md",
@@ -118471,7 +118489,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md",
+        "wiki/concepts/educational-leadership-administration/Second-Order Change.md"
       ],
       "title": "Schulentwicklung durch Gestaltungsautonomie"
     },
@@ -140007,6 +140026,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md",
+        "wiki/facts/germany/Gymnasium.md",
         "wiki/facts/global/PISA.md",
         "wiki/facts/global/TIMSS.md"
       ],
@@ -157225,7 +157245,7 @@
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mattheou_2009_ScientificParadigm.md",
         "wiki/concepts/educational-philosophy/Bildung.md",
-        "wiki/concepts/educational-philosophy/Culture Générale.md",
+        "wiki/concepts/educational-philosophy/Culture Générale.md",
         "wiki/concepts/educational-philosophy/Paideia.md"
       ],
       "title": ""
@@ -165775,7 +165795,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md",
+        "wiki/concepts/educational-leadership-administration/Second-Order Change.md"
       ],
       "title": "How the world's most improved school systems keep getting better"
     },
@@ -171095,7 +171116,7 @@
         "wiki/concepts/educational-philosophy/Value Neutrality.md",
         "wiki/concepts/educational-psychology/Faculty Psychology.md",
         "wiki/concepts/research-methodology/Variable.md",
-        "wiki/facts/france/Esquisse d'un ouvrage sur l'éducation comparée.md",
+        "wiki/facts/france/Esquisse d'un ouvrage sur l'éducation comparée.md",
         "wiki/facts/france/Report on the State of Public Instruction in Prussia.md",
         "wiki/facts/global/Organisation for European Economic Co-operation.md",
         "wiki/facts/us/National Education in Europe.md",
@@ -176638,7 +176659,7 @@
         "wiki/concepts/educational-philosophy/Enlightenment.md",
         "wiki/concepts/educational-philosophy/Value Neutrality.md",
         "wiki/concepts/educational-psychology/Faculty Psychology.md",
-        "wiki/facts/france/Esquisse d'un ouvrage sur l'éducation comparée.md",
+        "wiki/facts/france/Esquisse d'un ouvrage sur l'éducation comparée.md",
         "wiki/facts/france/Revue encyclopédique.md",
         "wiki/persons/france/Marc-Antoine Jullien.md",
         "wiki/persons/france/Victor Cousin.md",
@@ -186294,7 +186315,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings.md",
-        "wiki/facts/france/Esquisse d'un ouvrage sur l'éducation comparée.md",
+        "wiki/facts/france/Esquisse d'un ouvrage sur l'éducation comparée.md",
         "wiki/persons/france/Marc-Antoine Jullien.md"
       ],
       "title": ""
@@ -211123,7 +211144,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md",
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md",
+        "wiki/facts/germany/Gymnasium.md"
       ],
       "title": "Ich bin superwichtig!"
     },

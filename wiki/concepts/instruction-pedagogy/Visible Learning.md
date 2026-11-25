@@ -5,7 +5,7 @@ aliases:
 summary: "John Hattie 发起的教育证据综合与学校改进框架，主张通过汇总海量元分析建立 d=0.40 关节点相对有效性判准，将教师确立为成就变异的核心因果枢纽（30%），依托学业进阶、显性成功标准与形成性反馈重塑教学评价性判断。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 188
+related_count: 189
 related_level: 18
 related_stars: "💎💎💎💎💎💎"
 related_color: "#ddd6fe"
@@ -208,6 +208,7 @@ related_arguments:
   - "[[Argument_Sarbiewska_2019_KiW]]"
   - "[[Argument_ONeill_2016_Report]]"
   - "[[Argument_VonOlberg_2014_GeneralDidactics]]"
+  - "[[Argument_Rolff_2014_SchoolStructure]]"
   - "[[Argument_Nielsen_2021_IRTP]]"
 confidence: high
 status: stable
@@ -481,10 +482,10 @@ updated: 2026-11-25
 > | **核心理论与教学论** | [[Learning Intentions]] | 概念 | 显性学习意图；维护课堂教学目标敞开机制、认知透明度与师生目标共享。 |
 > | **核心理论与教学论** | [[Success Criteria]] | 概念 | 显性成功标准；维护分阶成就阶梯、评价标准共享与学生自我调节评价机制。 |
 > | **效应量视觉修辞** | [[Barometer of Achievement]] | 概念 | 效应量气压计视觉修辞；维护半圆形仪表盘、四象限区间划分、asTTle 行政监控图示渊源与伪科学视觉修辞批判。 |
+> | **外部学理批判总揽** | [[Critiques of Visible Learning]] | 概念 | 外部学理批评全景枢纽；承接所有关于二阶元分析算法、欧陆教学论、新泰勒制及[[Ideology Critique\|意识形态批判]]。 |
 > | **测量与评估工具原型** | [[Assessment Tools for Teaching and Learning]] | 测量工具 | asTTle 计算机系统；承接形成性三提问软件原型、题库校准与测评管理功能。 |
-> | **实证[[Data Infrastructure|数据基础设施]]** | [[Visible Learning Meta-X]] | 事实 / 项目 | 底层数据库；承接 2,100+ 项一阶元分析收录、因素层加权计算口径及自动化提取质控。 |
+> | **实证[[Data Infrastructure\|数据基础设施]]** | [[Visible Learning Meta-X]] | 事实 / 项目 | 底层数据库；承接 2,100+ 项一阶元分析收录、因素层加权计算口径及自动化提取质控。 |
 > | **商业化与全球政策扩散** | [[Visible Learning Branding and Global Influences]] | 事实 / 事件 | 全球商业化与跨国政策总枢纽；收口 VLplus 专营培训、考文收购、高额版税追踪与跨国采纳，下辖丹麦、瑞典、俄罗斯等国别落地子条目（如 [[Hattie på dansk]]、[[Visible Learning in Sweden]]、[[Russian Translation of Visible Learning]]）。 |
-> | **外部学理批判总揽** | [[Critiques of Visible Learning]] | 概念 | 外部学理批评全景枢纽；承接所有关于二阶元分析算法、欧陆教学论、新泰勒制及[[Ideology Critique|意识形态批判]]。 |
 > | **核心人物** | [[John Hattie]] | 人物 | 理论开创者与首席研究员；承接学者生平、学术转向、机构任职及学术声誉变迁。 |
 
 ---
@@ -497,6 +498,7 @@ updated: 2026-11-25
 > - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 立足德语区实证教育研究，区隔表层结构与深层结构，基于 [[COACTIV]] 等追踪数据直接驳斥哈蒂低估[[Teacher Subject Matter Knowledge|教师学科知识]]（$d=0.09$）的论断，提出以认知激活、有效班级管理与建设性支持为维度的循证教学改进规程。
 > - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014)]] — 结合德语区小学一线读写实验，剖析哈蒂数据体系所诱发的“均值陷阱”，揭示其二阶元分析在概念外延、成就测度、测试格式、实施保真度、历史断代与组内离散六个维度的系统性缺陷，指出开放教学与人本教学评价的内在矛盾（pp. 38–47）。
 > - [[Argument_VonOlberg_2014_GeneralDidactics|von Olberg (2014)]] — 审视《可见的学习：教师版》五步行动框架、八项心智框架与德语区简化误读，将其置于英美循证教学与一般教学论对话中定性为方面教学论（pp. 51–65）。
+> - [[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]] — 指出《可见的学习》的综合制英语国家样本无法外推至早期分流的德国多轨制，批评德国舆论将其作“罗夏测验”式挪用并忽视学校系统属性（pp. 67–77）。
 > - [[Argument_Fredens_2015_Paideia\|Fredens (2015)]] — 从学习科学与脑科学视角解读 VL，提出“使学校成为反馈文化”的组织转型主张。
 > - [[Argument_Nordahl_2015_Paideia\|Nordahl (2015)]] — 斯堪的纳维亚学派将 VL 重构为校本改进、[[Teacher Collaboration|教师协作]]研讨与能力建设的微观实践路径。
 > - [[Argument_Eacott_2019_IJLE\|Eacott (2019)]] — 批判 VL 在行政与商业推广中异化为[[Neo-Taylorism\|新泰勒主义]]控制与[[Cult of the Guru\|大师崇拜]]的制度风险。
