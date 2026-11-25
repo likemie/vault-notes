@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-21
-updated: 2026-11-25
+updated: 2026-11-26
 ---
 
 ---
@@ -144,7 +144,7 @@ updated: 2026-11-25
 > > 针对将主要中学学业危机归咎于教师教学水平的倾向展开学术审读。
 > >
 > > - **个体问责倾向（教师[[Determinism|决定论]]）** 德国部分舆论与政策评论借助对《[[Visible Learning|可见的学习]]》的简化阐释，主张学校质量完全取决于单个教师的课堂行为，试图以此淡化学制结构改革的迫切性（[[Argument_Rolff_2014_SchoolStructure|Rolff, 2014, pp. 67]], 77）。
-> > - **系统属性与反个体归咎（制度社会学派）** [[Hans-Günter Rolff|罗尔夫]]（[[Argument_Rolff_2014_SchoolStructure|Rolff, 2014, p. 77]]）强调学校质量是系统的整体属性，主要中学集中展现了人与结构的[[Interaction Effect|交互作用]]：它拥有敬业的教师，却受制于被边缘化的不利轨制结构；将质量问题单独推给教师个体，会使其沦为制度缺陷的替罪羊。[[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]]
+> > - **系统属性与反个体归咎（制度社会学派）** [[Hans-Günter Rolff|罗尔夫]]（[[Argument_Rolff_2014_SchoolStructure|Rolff, 2014, p. 77]]）强调学校质量是系统的整体属性，主要中学集中展现了人与结构的[[Interaction Effect|交互作用]]：它拥有敬业的教师，却受制于被边缘化的不利轨制结构；将质量问题单独推给教师个体，会使其沦为制度缺陷的替罪羊。
 
 ---
 
@@ -168,3 +168,4 @@ updated: 2026-11-25
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 详析主要中学在后 PISA 改革中沦为底层隔离场所的实证数据，揭示各派维持三轨制不变的政治禁忌与国家标准的技术局限（pp. 620–621, 624–626）。
 > - [[Argument_Munch_2014_TCR|Münch (2014)]] — 运用制度社会学理论剖析主要中学演化为“残差学校”与惩罚性机构的社会病理（pp. 10–12）。
+> - [[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]] — 援引 PISA 2000 证实控制相同认知能力与家庭社会经济地位后主要中学仍落后文法中学 49 分，并以主要中学为例论证人与结构共同决定学校质量（pp. 72, 77）。

@@ -291,6 +291,8 @@
     "Adkins, 2006": "Adkins, 2006",
     "Adler & Adler (1994)": "Adler & Adler, 1994",
     "Adler & Adler, 1994": "Adler & Adler, 1994",
+    "Adler & Borys (1996)": "Adler & Borys, 1996",
+    "Adler & Borys, 1996": "Adler & Borys, 1996",
     "Adler & Florida (2017)": "Adler & Florida, 2017",
     "Adler & Florida, 2017": "Adler & Florida, 2017",
     "Adler et al. (2019)": "Adler et al., 2019",
@@ -2340,6 +2342,8 @@
     "Behler, 1988": "Behler, 1988",
     "Behrman (2015)": "Behrman, 2015",
     "Behrman, 2015": "Behrman, 2015",
+    "Beime et al. (2021)": "Beime et al., 2021",
+    "Beime et al., 2021": "Beime et al., 2021",
     "Beissinger (2002)": "Beissinger, 2002",
     "Beissinger, 2002": "Beissinger, 2002",
     "Bekman (2004)": "Bekman, 2004",
@@ -10881,6 +10885,8 @@
     "Halbertal, 2012": "Halbertal, 2012",
     "Haley (2017)": "Haley, 2017",
     "Haley, 2017": "Haley, 2017",
+    "Halffman & Radder (2015)": "Halffman & Radder, 2015",
+    "Halffman & Radder, 2015": "Halffman & Radder, 2015",
     "Halina (2021)": "Halina, 2021",
     "Halina, 2021": "Halina, 2021",
     "Hall & Burns (2018)": "Hall & Burns, 2018",
@@ -12493,6 +12499,8 @@
     "Hösle, 1987": "Hösle, 1987",
     "Húsen (1982)": "Húsen, 1982",
     "Húsen, 1982": "Húsen, 1982",
+    "Hüther & Krücken (2018)": "Hüther & Krücken, 2018",
+    "Hüther & Krücken, 2018": "Hüther & Krücken, 2018",
     "I. L. (1933)": "I. L., 1933",
     "I. L., 1933": "I. L., 1933",
     "IAPMEI (2023)": "IAPMEI, 2023",
@@ -13360,6 +13368,8 @@
     "Jones, 2020": "Jones, 2020a",
     "Jones, 2020a": "Jones, 2020b",
     "Jones, 2020b": "Jones, 2020b",
+    "Jong (2026)": "Jong, 2026",
+    "Jong, 2026": "Jong, 2026",
     "Jongsma et al. (2023)": "Jongsma et al., 2023",
     "Jongsma et al., 2023": "Jongsma et al., 2023",
     "Jonsson et al. (2015)": "Jonsson et al., 2015",
@@ -21841,6 +21851,8 @@
     "Rheem, 1959": "Rheem, 1959",
     "Rhoades & Sporn (2002)": "Rhoades & Sporn, 2002",
     "Rhoades & Sporn, 2002": "Rhoades & Sporn, 2002",
+    "Rhoades (1998)": "Rhoades, 1998",
+    "Rhoades, 1998": "Rhoades, 1998",
     "Rhodes & Linnenluecke (2025)": "Rhodes & Linnenluecke, 2025",
     "Rhodes & Linnenluecke, 2025": "Rhodes & Linnenluecke, 2025",
     "Rhodes (1961)": "Rhodes, 1961",
@@ -32304,6 +32316,21 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23.md",
         "wiki/concepts/research-methodology/Saturation.md",
         "wiki/methods/qualitative/Participant Observation.md"
+      ],
+      "title": ""
+    },
+    "Adler & Borys, 1996": {
+      "aliases": [
+        "Adler & Borys, 1996",
+        "Adler & Borys (1996)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Adler & Borys, 1996"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Enabling Bureaucracy.md"
       ],
       "title": ""
     },
@@ -47330,6 +47357,22 @@
       "seen_in": [],
       "title": "Aligning learning incentives of students and teachers  Results from a social experiment in Mexican high schools"
     },
+    "Beime et al., 2021": {
+      "aliases": [
+        "Beime et al., 2021",
+        "Beime et al. (2021)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Beime et al., 2021"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Enabling Bureaucracy.md",
+        "wiki/theories/science-policy/Cycle of Credit.md"
+      ],
+      "title": ""
+    },
     "Beissinger, 2002": {
       "aliases": [
         "Beissinger, 2002",
@@ -53867,7 +53910,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md",
-        "wiki/concepts/sociology-of-education/Tracking.md"
+        "wiki/concepts/sociology-of-education/Tracking.md",
+        "wiki/facts/global/PIRLS.md"
       ],
       "title": "Schullaufbahnempfehlungen von Lehrkräften für Kinder am Ende des vierten Jahrgangs"
     },
@@ -102010,7 +102054,9 @@
         "Ginsberg, 2011"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/higher-education/Enabling Bureaucracy.md"
+      ],
       "title": "The fall of the faculty"
     },
     "Ginsburg & Smith, 2016": {
@@ -110030,6 +110076,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Oral language skills intervention in pre-school - A cautionary tale"
+    },
+    "Halffman & Radder, 2015": {
+      "aliases": [
+        "Halffman & Radder, 2015",
+        "Halffman & Radder (2015)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Halffman & Radder, 2015"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Enabling Bureaucracy.md"
+      ],
+      "title": ""
     },
     "Halina, 2021": {
       "aliases": [
@@ -121941,6 +122002,21 @@
       ],
       "title": ""
     },
+    "Hüther & Krücken, 2018": {
+      "aliases": [
+        "Hüther & Krücken, 2018",
+        "Hüther & Krücken (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hüther & Krücken, 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Enabling Bureaucracy.md"
+      ],
+      "title": ""
+    },
     "I. L., 1933": {
       "aliases": [
         "I. L., 1933",
@@ -128161,6 +128237,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "The Results of a Randomized Control Trial Evaluation of the SPARK Literacy Program  An Innovative Approach that Pairs One-on-One Tutoring with Family Engagement"
+    },
+    "Jong, 2026": {
+      "aliases": [
+        "Jong, 2026",
+        "Jong (2026)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Jong, 2026"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Enabling Bureaucracy.md"
+      ],
+      "title": ""
     },
     "Jongsma et al., 2023": {
       "aliases": [
@@ -189950,6 +190041,21 @@
       "seen_in": [],
       "title": "New models of management and shifting modes and costs of production: Europe and the United States"
     },
+    "Rhoades, 1998": {
+      "aliases": [
+        "Rhoades, 1998",
+        "Rhoades (1998)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Rhoades, 1998"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Enabling Bureaucracy.md"
+      ],
+      "title": ""
+    },
     "Rhodes & Linnenluecke, 2025": {
       "aliases": [
         "Rhodes & Linnenluecke, 2025",
@@ -215897,7 +216003,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md",
-        "wiki/concepts/sociology-of-education/Tracking.md"
+        "wiki/concepts/sociology-of-education/Tracking.md",
+        "wiki/facts/global/PIRLS.md"
       ],
       "title": "Der Übergang von der Primar- in die Sekundarstufe"
     },

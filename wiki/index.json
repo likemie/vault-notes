@@ -11498,6 +11498,17 @@
     ]
   },
   {
+    "title": "Enabling Bureaucracy",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Enabling Bureaucracy.md",
+    "aliases": [
+      "赋能型官僚制",
+      "赋能官僚制",
+      "赋能科层制",
+      "enabling bureaucrats"
+    ]
+  },
+  {
     "title": "Engineering Education",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Engineering Education.md",
@@ -26966,6 +26977,17 @@
       "核心团队与外延团队模型",
       "Milojević 团队规模演化模型",
       "核心与扩展团队机制"
+    ]
+  },
+  {
+    "title": "Cycle of Credit",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/Cycle of Credit.md",
+    "aliases": [
+      "信用循环",
+      "科学信用循环",
+      "声誉循环",
+      "科学声誉循环理论"
     ]
   },
   {

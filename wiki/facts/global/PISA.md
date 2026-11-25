@@ -231,7 +231,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-05-17
-updated: 2026-11-24
+updated: 2026-11-26
 ---
 
 ---
@@ -478,3 +478,4 @@ updated: 2026-11-24
 > - [[Argument_Munch_2014_TCR|Münch (2014)]] — 结合新制度主义社会学制度同构与[[Pierre Bourdieu|布迪厄]]符号权力视角，系统解构经合组织如何依托 PISA 测评垄断教育合法性定义，并揭示其测评构念与德国本土深度分科传统之间的认识论冲突及制度混杂病理。
 > - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 系统剖析 PISA 2000 在德国引发的政治震荡与话语变迁，揭示统一国家标准建立背后的联邦跨州妥协与对[[Tripartite School System|三轨学制]]早期分流的回避。
 > - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 援引 PISA 2003 德国留级追踪实证（Ehmke et al., 2010），证实同等起点的留级生在后续数理素养发展中显著滞后于正常升学同伴，反思外在淘汰机制（p. 28）。
+> - [[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]] — 结合 PISA 2000 与 PISA 2009 德国数据反驳学制无关论，指出多轨制下社会背景与能力关联度仍居国际高位，且培养轨道可解释 43% 数学方差并造成同质学生间 49 分差距（pp. 70–72）。

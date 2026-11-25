@@ -1225,6 +1225,14 @@
       ],
       "title": ""
     },
+    "Adler & Borys, 1996": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Enabling Bureaucracy.md"
+      ],
+      "title": ""
+    },
     "Adler & Florida, 2017": {
       "doi": "",
       "isbn": "",
@@ -10179,6 +10187,15 @@
       "seen_in": [],
       "title": "Aligning learning incentives of students and teachers  Results from a social experiment in Mexican high schools"
     },
+    "Beime et al., 2021": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Enabling Bureaucracy.md",
+        "wiki/theories/science-policy/Cycle of Credit.md"
+      ],
+      "title": ""
+    },
     "Beissinger, 2002": {
       "doi": "",
       "isbn": "",
@@ -14073,7 +14090,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md",
-        "wiki/concepts/sociology-of-education/Tracking.md"
+        "wiki/concepts/sociology-of-education/Tracking.md",
+        "wiki/facts/global/PIRLS.md"
       ],
       "title": "Schullaufbahnempfehlungen von Lehrkräften für Kinder am Ende des vierten Jahrgangs"
     },
@@ -42813,7 +42831,9 @@
     "Ginsberg, 2011": {
       "doi": "",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/higher-education/Enabling Bureaucracy.md"
+      ],
       "title": "The fall of the faculty"
     },
     "Ginsburg & Smith, 2016": {
@@ -47632,6 +47652,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Oral language skills intervention in pre-school - A cautionary tale"
+    },
+    "Halffman & Radder, 2015": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Enabling Bureaucracy.md"
+      ],
+      "title": ""
     },
     "Halina, 2021": {
       "doi": "",
@@ -54753,6 +54781,14 @@
       ],
       "title": ""
     },
+    "Hüther & Krücken, 2018": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Enabling Bureaucracy.md"
+      ],
+      "title": ""
+    },
     "I. L., 1933": {
       "doi": "",
       "isbn": "",
@@ -58430,6 +58466,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "The Results of a Randomized Control Trial Evaluation of the SPARK Literacy Program  An Innovative Approach that Pairs One-on-One Tutoring with Family Engagement"
+    },
+    "Jong, 2026": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Enabling Bureaucracy.md"
+      ],
+      "title": ""
     },
     "Jongsma et al., 2023": {
       "datasets": [
@@ -95570,6 +95614,14 @@
       "seen_in": [],
       "title": "New models of management and shifting modes and costs of production: Europe and the United States"
     },
+    "Rhoades, 1998": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Enabling Bureaucracy.md"
+      ],
+      "title": ""
+    },
     "Rhodes & Linnenluecke, 2025": {
       "doi": "",
       "isbn": "",
@@ -111080,7 +111132,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md",
-        "wiki/concepts/sociology-of-education/Tracking.md"
+        "wiki/concepts/sociology-of-education/Tracking.md",
+        "wiki/facts/global/PIRLS.md"
       ],
       "title": "Der Übergang von der Primar- in die Sekundarstufe"
     },

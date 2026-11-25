@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-11-02
+updated: 2026-11-26
 ---
 
 ---
@@ -103,6 +103,7 @@ updated: 2026-11-02
 > - **宏观诊断弱势儿童学业危机** 在德国教育行政实践中，各州官员高度调用 PIRLS 数据来诊断移民后代及低[[Socioeconomic Status|社会经济地位]]家庭儿童在小学阶段出现的阅读语言赤字，据此制定学前语言促进与幼小衔接政策。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 491, 493)]]
 > - **微观治理指导力匮乏** 正如 [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] 深入揭示，PIRLS 作为宏观抽样工具，其高度抽象的结果无法指涉特定小学或个别班级，难以用于指导具体薄弱学校的针对性扶持与资源微调；在微观指导实用价值上，教育官员更加倚重本国的全域[[Vergleichsarbeiten\|校际比较测试]]（如小学 3 年级的 [[Vergleichsarbeiten\|VERA-3]]）与深入现场的[[School Inspection\|学校督导]]。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 494–495)]]
 > - **多源数据整合瓶颈** 德国各州行政部门由于精力被高频日常测评所耗竭，很少将 PIRLS 宏观数据与国内 VERA 测试或学校督导报告展开深层横向交融分析。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 493–494)]]
+> - **揭示小升初分轨推荐的阶层偏向** 德国 IGLU 2004（Bos et al., 2004, p. 213）与 IGLU 2011（Stubbe et al., 2012）实证显示，在控制相同阅读能力后，上层社会阶层子女获得[[Gymnasium|文理中学]]推荐信的概率仍达底层或技术工人家庭子女的 1.76 至 2.68 倍，暴露早期分轨制度的社会选择性偏差。[[Argument_Rolff_2014_SchoolStructure|(Rolff, 2014, pp. 71–72)]]
 
 ---
 
@@ -135,3 +136,4 @@ updated: 2026-11-02
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Dedering_2009_EERJ|Dedering (2009)]] — 探讨 PIRLS 在德国各州教育部日常治理中的定位功能及其与微观工具分工的代表性实证[[Document|文献]]。
 > - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 记录德国在 PISA 震荡后全面融入 PIRLS（IGLU 及 IGLU-E）并在十六个联邦州之间铺开小学阶段横向测评网络的过程。
+> - [[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]] — 援引 IGLU 2004 与 IGLU 2011 数据证实德国小学向中学过渡推荐信存在显著社会阶层偏向，反驳基于哈蒂研究的学制结构无关论（pp. 71–72）。
