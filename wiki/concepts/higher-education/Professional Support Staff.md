@@ -62,8 +62,8 @@ updated: 2026-11-25
 ---
 
 > [!feature] 核心要素
-> - **职能高度异质与专业化** 专业支持人员内部既包含传统事务性岗位，也包含国际化、产学联络、科研政策与组织发展等高技能专家，不同岗位对学科语境的依赖程度差异显著。[[Argument_Ryttberg_Geschwind_2021_TEM|(Ryttberg & Geschwind, 2021)]]
-> - **能力、服务与成本的三维权衡** 支持服务的组织设计需要在所需专业胜任力（competences）、特定任务的精确服务水准（level of service）以及机构可接受的运行成本（acceptable cost）之间持续权衡。[[Argument_Ryttberg_Geschwind_2021_TEM|(Ryttberg & Geschwind, 2021)]]
+> - **职能高度异质与专业化** 专业支持人员内部既包含传统事务性岗位，也包含国际化、产学联络、科研政策与组织发展等高技能专家，不同岗位对学科语境的依赖程度差异显著。
+> - **能力、服务与成本的三维权衡** 支持服务的组织设计需要在所需专业胜任力（competences）、特定任务的精确服务水准（level of service）以及机构可接受的运行成本（acceptable cost）之间持续权衡。
 > - **管理主义与学术自主间的双面定位** 具有战略或管理职能的支持人员在位置上贴近大学最高管理层，但在日常履职时必须依赖学术人员的合法性认可与协同配合。[[Argument_Ryttberg_Geschwind_2021_TEM|(Ryttberg & Geschwind, 2021)]]
 
 > [!logic-map]- 要素关系
@@ -102,7 +102,7 @@ updated: 2026-11-25
 ---
 
 > [!dev-timeline] 概念演变
-> - **1998–2013 — 边缘扩张与多元命名阶段** 随着高等教育规模扩大与社会使命增加，大学非学术专业岗位在数量与专业度上显著增长，学界先后提出“非学术专业人员”“第三空间专业人员”与“高等教育专业人员”等概念加以界定。[[Argument_Ryttberg_Geschwind_2021_TEM|(Ryttberg & Geschwind, 2021)]]
+> - **1998–2013 — 边缘扩张与多元命名阶段** 随着高等教育规模扩大与社会使命增加，大学非学术专业岗位在数量与专业度上显著增长，学界先后提出“非学术专业人员”“第三空间专业人员”与“高等教育专业人员”等概念加以界定。
 > - **2017–2021 — 合法性建构与组织权衡转向** 研究焦点从群体规模描述转向考察支持人员如何在[[New Public Management|新公共管理]]（New Public Management，NPM）效率压力与学术自主传统之间通过对话寻求组织平衡与合法性。[[Argument_Ryttberg_Geschwind_2021_TEM|(Ryttberg & Geschwind, 2021)]]
 
 ---
@@ -112,7 +112,7 @@ updated: 2026-11-25
 > > [!axis] 支持人员扩张对学术共同体的影响
 > > 学界对高校专业支持人员规模扩大的组织后果存在不同判断。
 > >
-> > - **学术侵蚀论** 部分研究认为支持人员外围的扩张侵占了“学术腹地”（academic heartlands），使管理主义规范压倒了学者共同体。[[Argument_Ryttberg_Geschwind_2021_TEM|(Ryttberg & Geschwind, 2021)]]
+> > - **学术侵蚀论** 部分研究认为支持人员外围的扩张侵占了“学术腹地”（academic heartlands），使管理主义规范压倒了学者共同体。
 > > - **行政赋能论** 另一些研究指出，大型且复杂的公共组织（如现代大学）能够从增加行政管理资源投入中获益。[[Argument_Ryttberg_Geschwind_2021_TEM|(Ryttberg & Geschwind, 2021)]]
 
 ---
