@@ -15,7 +15,7 @@ related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
-updated: 2026-11-15
+updated: 2026-11-26
 tags:
   - theme/technology-transfer
   - level/higher-education
@@ -239,3 +239,4 @@ created: 2026-06-03
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] — 系统追踪产学关系五十年演变，阐明 1980 年代 TTO 兴起如何使大学从与工业界相对脱钩转为重新嵌入国家[[Systems of Innovation|创新系统]]。
 > - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 从企业侧[[Academic Engagement Team|学术参与团队]]（AET）视角审视大学 TTO 许可实践，揭示 3–8 年商业化时间滞后、三轨转化漏斗与斯坦福 PageRank 专利许可案例中的制度权衡。
 > - [[Argument_Lester_2005_MIT|Lester (2005)]] — 批判政策界将 TTO 专利许可收入作为大学唯一经济贡献的“一刀切”迷思，主张[[Technology Transfer|技术转移]]必须与本地产业转型模式相匹配。
+> - [[Argument_DeJong_2024_SHE|de Jong and del Junco (2024)]] — 综述指出技术转移官员常具理工博士与国际私营部门背景，在引入市场逻辑的同时护卫学术专业逻辑并能改写信用循环路径。

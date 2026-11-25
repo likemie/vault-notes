@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-19
-updated: 2026-11-20
+updated: 2026-11-26
 ---
 
 ---
@@ -64,6 +64,11 @@ updated: 2026-11-20
 > 伴随新自由主义经济政策影响力的持续扩张，各教育体系被迫在公共财政紧缩的约束下实现更高产出，进而促使教育目标由促进社会均等转向提升效率与经济[[Competitiveness|竞争力]]。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, p. 55)]]
 >
 > *Some have noted that with neo-liberal economic policy on the ascendant education systems are forced to do more with less, thus moving from equity to efficiency as the goal of education.*
+
+> [!boundary]- 概念边界
+> - 不等于 古典自由主义的完全放任 — 现代新自由主义高度依赖国家法制化监管框架、合同外包契约与量化产出评价工具来建构和维持市场秩序。
+> - 不等于 [[Developmental State|发展型国家]] [[Tactical Marketisation|战术性市场化]] — 发展型国家虽选择性采用竞争与放权手段，但国家始终掌握战略投资、核心课程大纲与公共目标主导权；新自由主义则要求国家让位于资本自由流动与市场竞争（[[Argument_Gopinathan_2007_GSE|Gopinathan, 2007, pp. 53–56]]）。
+> - 不等于 凯恩斯主义福利国家治理 — 福利国家将教育视作促进社会实质均等的公民权利与公共品，新自由主义则将其界定为提升经济效率的人力资本投资。
 
 ---
 
@@ -104,7 +109,7 @@ updated: 2026-11-20
 ---
 
 > [!concept-proposition] 命题二｜非西方国家对新自由主义机制采取选择性与工具性吸纳
-> **战术性采纳与国家调控重构** 后发东亚经济体面对新自由主义全球浪潮，采取主动选择与战术性调适策略。国家向基层学校下放办学自主权以提升系统应变活力，同时牢固掌握核心课程大纲、意识形态建设与关键财政拨款权，展示出超越西方新自由主义教条的治理适应力。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 55–56, 68)]]
+> **战术性采纳与国家调控重构** 探讨后发发展型国家如何突破英美自由市场单一范式，将分权与市场竞争工具嵌入强国家战略掌控体系之中。
 
 > [!claim] [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]]
 > **发展型国家的战术性市场化运作** 新加坡等后发东亚经济体面对新自由主义全球浪潮，采取主动选择与战术性调适策略。国家向基层学校下放办学自主权以提升系统应变活力，同时牢固掌握核心课程大纲、意识形态建设与关键财政拨款权，展示出超越西方新自由主义教条的治理适应力。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 55–56, 68)]]
@@ -119,7 +124,7 @@ updated: 2026-11-20
 
 ---
 
-> [!contrast-table|notitle] 所有命题归纳
+> [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **生产力问责命题** | 压缩公平诉求，将教育合法性建立在经济效率与人力资本产出之上 | 经合组织国家公共教育治理与绩效联赛表推行 | [[Argument_Gopinathan_2007_GSE\|Gopinathan (2007)]] |
@@ -139,7 +144,7 @@ updated: 2026-11-20
 
 > [!debates|notitle] 学术争议
 >
-> > [!axis] 准市场效率赋权论 vs 结构性不平等再生产论
+> > [!axis] 准市场效率激励论 vs 结构性不平等再生产论
 > > 争论聚焦于择校与准市场机制究竟是激发了办学活力，还是加剧了阶层隔离。
 > >
 > > - **市场效率拥护派** 认为打破公立垄断能促使学校响应家庭多元需求，优胜劣汰提升总体质量。

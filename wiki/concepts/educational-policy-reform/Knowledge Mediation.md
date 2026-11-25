@@ -9,7 +9,7 @@ aliases:
 summary: "在证据生产者与使用者之间建立联结、促进理解并维系协作的有意识中介活动，是知识动员生态系统中与知识生产、知识使用并列的三大核心功能之一。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 53
+related_count: 58
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -31,14 +31,17 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Epistemic Governance]]"
   - "[[School Inspection]]"
+  - "[[Professional Support Staff]]"
+  - "[[Research Universities]]"
+  - "[[Document]]"
+  - "[[Research Administrator]]"
+  - "[[Knowledge Transfer]]"
   - "[[Paradigm]]"
   - "[[Knowledge Co-production]]"
-  - "[[Alienation]]"
   - "[[Epistemology]]"
   - "[[Policy Ambassador]]"
   - "[[Representational Knowledge]]"
   - "[[School Autonomy]]"
-  - "[[Research Universities]]"
   - "[[National Innovation System]]"
   - "[[Policy Translation]]"
   - "[[University-Based Research Infrastructure]]"
@@ -50,6 +53,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Phronesis]]"
   - "[[Variable]]"
+  - "[[Theoretical Perspective]]"
   - "[[Practice-Based Evidence]]"
 related_theories:
   - "[[Organizational Culture]]"
@@ -74,13 +78,14 @@ related_arguments:
   - "[[Argument_Nelson_2017_EducRes]]"
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
   - "[[Argument_Manitius_vanHolt_2019_BzS]]"
+  - "[[Argument_DeJong_2026_SHE]]"
   - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Stone_2020_PolSoc]]"
   - "[[Argument_Fabrizio_Mowery_2005_REI]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-15
+updated: 2026-11-26
 ---
 
 ---
@@ -88,12 +93,12 @@ updated: 2026-11-15
 > [!def] Knowledge Mediation
 > 知识中介（Knowledge Mediation）指将证据生产者与使用者汇聚在一起、旨在促进两者产生实质联结与理解的有意识努力（Gough et al., 2011, p. 23; [[Argument_Torres_2022_KMModels|Torres, 2022b, p. 34]]）。在教育系统与循证政策生态中，知识中介超越静态信息分发，系统涵盖跨界连接、意义转译、信任撮合、需求诊断与长期协作机制维系等复合功能。它与“[[Knowledge Production|知识生产]]”和“知识使用”共同构成现代研究[[Knowledge Mobilisation|知识动员]]生态系统的三大基础构件（Levin, 2013; [[Argument_Torres_2022_KMModels|Torres, 2022b, pp. 40–41]]）。
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle]
 > - **含义** 指涉促进证据生产与使用之间双向互动的社会关系过程、技术方法与组织机制。
 > - **用途** 帮助研究者透析跨部门“语言不通”、“信任赤字”与“供需错配”等结构性鸿沟，解释中介技术如何激活潜伏的学术证据。
 > - **边界** 知识中介聚焦于“联结两端”的桥梁功能与互动过程；区别于宏观全系统的战略统筹（[[Knowledge Mobilisation]]），也区别于单向的行政[[Policy Borrowing|政策借用]]策略（[[Policy Brokerage]]）。
 
-> [!citation-card] Gough 论知识中介的本体定位
+> [!citation-card|notitle]
 > 知识中介被界定为将证据生产与使用联结起来的努力，其显性目的在于将证据的生产者与使用者汇聚在一起。[[Argument_Torres_2022_KMModels|Torres, 2022b, p. 34; Gough et al., 2011, p. 23]]
 >
 > *Connections between evidence production and use with the overt purpose of bringing together producers and users of evidence.*
@@ -156,16 +161,19 @@ updated: 2026-11-15
 > [!claim] [[Ben Levin]] (2004, 2013) / [[Argument_Torres_2022_KMModels|Torres (2022b)]]
 > **功能重叠与行动者身份流动** 在[[Knowledge Mobilisation|知识动员]]系统中，“中介”本质上是一组功能（function）而非僵化的组织（organisation）。传统的线性或机械模型习惯为行动者贴上一维标签（如“研究者只生产”、“教师只使用”），然而在真实的教育生态中，知识动员恰恰发生在生产、中介与使用相互重叠交叉的区域。同一行动者（如大学学者深度参与教研、资深教师带领跨校课题）可以同时跨界穿梭并履行中介与生产双重职能。以功能而非僵化部门来定义中介，能够为全系统内的跨界流动提供充裕的制度弹性。[[Argument_Torres_2022_KMModels|(Torres, 2022b, pp. 40–41, 45)]]
 
+> [!claim] [[Argument_DeJong_2026_SHE|de Jong (2026)]]
+> **大学非学术[[Professional Support Staff|专业支持人员]]的内部知识中介职能** 针对美国[[Research Universities|研究型大学]] 22 位[[Professional Support Staff|专业支持人员]]的实证访谈（pp. 1246, 1248–1249）与既有高校[[Document|文献]]综合（Sapir, 2020, p. 249）表明，知识中介并不局限于专设外部机构或教学科研人员自身：高校[[Research Administrator|科研管理人员]]将复杂研究设计转译给伦理审查评审者、外联专员依托记者网络把科研成果面向公众媒体推介、[[Knowledge Transfer|知识转移]]专员在学术界与产业市场之间开展翻译与专利筛选，均通过资源转化管理直接将中介功能嵌入大学日常知识生产链条之中。[[Argument_DeJong_2026_SHE|(de Jong, 2026, pp. 1246, 1248–1249)]]
+
 ---
 
 > [!concept-proposition] 命题二｜知识中介从单向报告交付演进为双向关系撮合与全生态治理枢纽
 > **中介模式的代际深化** 揭示中介技术如何伴随知识动员三代[[Paradigm|范式]]转型，从单纯的“信息邮差”转变为自适应生态的“连接网络枢纽”。
 
 > [!claim] Gough et al. (2011, 2018, 2019) / [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] / [[Argument_Torres_2022_KMModels|Torres (2022b)]]
-> **从流水线传递到双层嵌套生态枢纽** 知识中介的角色定位历经代际演变：在第一代线性模型中，中介被窄化为单向推介研究的包装者与分发管道；在第二代关系模型中，中介进化为撮合研究者与使用者[[Knowledge Co-production|协同生产]]（Co-production）的伙伴桥梁；在第三代系统模型中，中介进一步演进为维系长期数字化共享基础设施、区域同行互换枢纽以及推动全政策周期吸收容量建设的系统治理核心。中介的重心已彻底从“优化供给推力”转向“激发需求拉力与赋能生态自组织”。[[Argument_Torres_2022_KMModels|(Torres, 2022b, pp. 41–46)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 547)]]
+> **从流水线传递到双层嵌套生态枢纽** 知识中介的角色定位历经代际演变：在第一代线性模型中，中介被窄化为单向推介研究的包装者与分发管道；在第二代关系模型中，中介进化为撮合研究者与使用者[[Knowledge Co-production|协同生产]]（Co-production）的伙伴桥梁；在第三代系统模型中，中介进一步演进为维系长期数字化共享基础设施、区域同行互换枢纽以及推动全政策周期吸收容量建设的系统治理核心。中介的重心已彻底从“优化供给推力”转向“激发需求拉力并支撑生态自组织”。[[Argument_Torres_2022_KMModels|(Torres, 2022b, pp. 41–46)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 547)]]
 
 > [!claim] [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]]
-> **超国家知识中介守门网络与生态平等倡导角色** 坎贝尔等（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）基于对[[OECD|经合组织]]（OECD, 2025 全球 288 家中介调研）与跨国组织政策文本的批判分析指出，跨国知识中介机制在实践中呈现深刻断裂：一方面，跨国守门网络借助“爵士乐队”等修辞隐喻确立了量化因果证据的等级特权，将中介[[Alienation|异化]]为自上而下的政策指令分发与合规审计工具；另一方面，中介机构由于缺乏长效财政支持而深陷碎片化生存危机。坎贝尔等呼吁重塑知识中介功能，要求中介者超越被动传声筒角色，转而充当[[Epistemology|认识论]]平等的倡导者，为一线实践者开辟赋权对话平台，促进全球证据与本土情境知识的双向有机整合。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 344, 347–348, 350–351)]]
+> **超国家知识中介守门网络与生态平等倡导角色** 坎贝尔等（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）基于对[[OECD|经合组织]]（OECD, 2025 全球 288 家中介调研）与跨国组织政策文本的批判分析指出，跨国知识中介机制在实践中呈现深刻断裂：一方面，跨国守门网络借助“爵士乐队”等修辞隐喻确立了量化因果证据的等级特权，将中介演变为自上而下的政策指令分发与合规审计工具；另一方面，中介机构由于缺乏长效财政支持而深陷碎片化生存危机。坎贝尔等呼吁重塑知识中介功能，要求中介者超越被动传声筒角色，转而充当[[Epistemology|认识论]]平等的倡导者，为一线实践者开辟赋权对话平台，促进全球证据与本土情境知识的双向有机整合。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 344, 347–348, 350–351)]]
 
 > [!claim] [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]]
 > **[[Policy Ambassador|政策大使]]作为跨国知识中介与[[Representational Knowledge|代表性知识]]转化枢纽** 戴安娜·斯通等（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）指出，跨国政策循环中的知识中介高度依赖兼具双重身份与跨文化斡旋能力的“政策大使”（Policy Ambassadors）。这类知识中介穿梭于母国本土行政体系与国际多边组织之间，凭借实务声望与外交资本，将深植于全球南方治理边缘的扎根经验提炼为“代表性知识”，推入联合国与[[World Bank|世界银行]]等国际议程，开创了跨国知识中介由个体行动者驱动南向北与南南双向流动的新机制。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 2–6)]]
@@ -191,7 +199,7 @@ updated: 2026-11-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **功能本体命题** | 确立中介的功能属性与跨界重叠性，打破行动者一维组织标签 | 知识动员模型设计、高校教研机构改革、跨界团队建设 | Ben Levin (2013); [[Argument_Torres_2022_KMModels\|Torres (2022b)]] |
+> | **功能本体命题** | 确立中介的功能属性与跨界重叠性，打破行动者一维组织标签；大学支持人员亦承担日常中介职能 | 知识动员模型设计、高校教研与支持团队建设 | Ben Levin (2013); [[Argument_Torres_2022_KMModels\|Torres (2022b)]]; [[Argument_DeJong_2026_SHE\|de Jong (2026)]] |
 > | **范式演进命题** | 阐明中介从单向信息分发向关系协同与自组织系统生态枢纽的演进 | 国际组织中介枢纽布局、有效研究所运营、跨国政策大使转译与区域教育创新网络 | Gough et al. (2019); [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]]; [[Argument_Stone_2020_PolSoc\|Stone et al. (2020, pp. 2–6)]]; [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] |
 > | **制度实证命题** | 揭示中层中介机构作为治理枢纽的核心地位与面临的严峻实证研究赤字 | 州级研训院所改革、学校督导反馈机制、证据清理平台评估 | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] |
 > | **跨界中介命题** | 大学依托科研基础设施与人才流动充当国家安全与商业产业间的实体知识中介 | 国家创新体系分析、产学研军民[[Technology Transfer\|技术转移]]与大学基础设施评估 | Fabrizio & Mowery |
@@ -206,7 +214,7 @@ updated: 2026-11-15
 > - **2019 — 德语区反思中层中介机构的实证成效与双重脱节** 马尼蒂乌斯与范霍尔特（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019]]）系统审视德语区各州研训研究所与[[School Inspection|学校督导]]的知识中介功能，指出制度化中介机构在承担枢纽角色的同时面临严重的实证研究赤字，呼吁建立兼顾科学严谨与实践适切的中介研究体系。
 > - **2020 — 政策大使作为新型跨国知识中介** 戴安娜·斯通等（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）提出[[Policy Ambassador|政策大使]][[Construct|构念]]，阐发兼具本土扎根实践与国际外交资本的个体知识中介在推动南方[[Representational Knowledge|代表性知识]]进入全球多边议程中的桥梁机制（pp. 2–6）。
 > - **2022 — [[OECD]] 整合比较中的反思与超越** [[Argument_Torres_2022_KMModels|Torres (2022b)]] 横向对比主流模型，指出未来知识中介必须突破单纯的学术证据推销，转向促进证据与教育创新的深度共生（Révai, 2020），并以学生与教师的深度专业学习为[[The Sublime|崇高]]目标。
-> - **2026 — 超国家知识中介修辞批判与认识论平等倡导** [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] 分析经合组织 288 家中介调研报告，解构跨国知识中介的修辞隐喻与守门机制，主张中介机构应超越被动分发管道，充当捍卫本土实践知识与认识论平等的对话平台（pp. 344, 347–348, 350–351）。
+> - **2026 — 超国家知识中介修辞批判与认识论平等倡导** [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] 分析经合组织 288 家中介调研报告，解构跨国知识中介的修辞隐喻与守门机制，主张中介机构应超越被动分发管道，充当捍卫本土实践知识与认识论平等的对话平台（pp. 344, 347–348, 350–351）；同期研究亦实证揭示高校[[Professional Support Staff|专业支持人员]]在内部承担的媒体转译、伦理桥梁与产学知识中介功能（[[Argument_DeJong_2026_SHE|de Jong, 2026, pp. 1246, 1248–1249]]）。
 
 ---
 
@@ -224,6 +232,9 @@ updated: 2026-11-15
 > > - **科层系统论者** 强调中层机构在承接自上而下质量监控与自下而上发展支持中的制度整合功能。
 > > - **实证批判学者（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, p. 12]]）** 指出制度化中介组织常面临双重脱节风险：一方面被大学科研指责缺乏严格的方法学严谨性与理论纵深，另一方面被中小学一线教师指责过于官僚化、脱离真实的日常教学情境，沦为封闭运作的行政科层缓冲带。
 
+> [!warning|limits] 适用局限
+> 知识中介的实效高度依赖长效稳定的资源投入与跨界行动者的制度合法性。专设中介机构若缺乏持续财政资助容易陷入碎片化运转（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]），而中层研训与督导中介机构则面临学术严谨度与基层适切性“双重脱节”的结构困境，其实际效能仍有待更多实证检验（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, pp. 11–12]]）。
+
 ---
 
 > [!empirical-divider]
@@ -237,12 +248,29 @@ updated: 2026-11-15
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Knowledge Mobilisation]] | 概念 | 涵盖知识生产、中介与使用全系统的宏观生态框架。 |
+> | [[Policy Brokerage]] | 概念 | 聚焦公共政策场域议程设置与政治协调的中介分支。 |
+> | [[Boundary Spanner]] | 概念 | 承担跨组织沟通与转译职能的个体或具体机构载体。 |
+> | [[Technology Transfer]] | 概念 | 聚焦专利许可与产学商业化成果转换的关联机制。 |
+> | [[Research-Practice Partnership]] | 概念 | 通过长期协同生产机制将知识中介制度化的伙伴组织形态。 |
+> | [[Professional Support Staff]] | 概念 | 在大学内部承担伦理审批转译、媒体推介与产学中介的支持群体。 |
+> | [[Research Knowledge Mobilisation Model]] | 理论 | 将中介确立为连接生产与使用核心功能重叠区的理论模型。 |
+> | [[Systems of Innovation]] | 理论 | 解释研究型大学在国家创新系统中履行跨界中介的[[Theoretical Perspective\|理论视角]]。 |
+> | [[Systematic Review]] | 方法 | 支撑中介机构筛选、评判并综合一手实证证据的基础方法。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns and Schuller (2022)]] — 系统梳理知识中介在[[Knowledge Production|知识生产]]、传播与利用三大治理环节中的全流程覆盖，提出获取、技能与互动三维支持支柱，并反思政策短周期对中介机制的冲击。
 > - [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 横向评述跨领域[[Knowledge Mobilisation|知识动员]]框架，系统界定知识中介的概念内涵与其在三代系统演进中的核心功能。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 剖析国际组织如何运用第三代中介机制设立常设区域枢纽，以缓解全球证据闲置危机。
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]] — 阐明[[Research Universities|研究型大学]]如何依托国防研发注资建立的先进科研基础设施与工程人才培养，在公共安全部门与民用高科技产业之间扮演跨界知识中介网络枢纽。
 > - [[Argument_Nelson_2017_EducRes|Nelson and Campbell (2017)]] — 结合英加实践，阐明一线教师对同行中介网络与[[Practice-Based Evidence|实践本位证据]]的显著偏好。
-> - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 系统剖析德语区中层研训研究所（LIs）与[[School Inspection|学校督导]]（SI）的知识中介枢纽定位，揭示中介平台与机构面临的严峻实证研究赤字及双重脱节风险。（pp. 10–12）
-> - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026, pp. 344, 347–348, 350–351)]] — 结合经合组织 2025 年全球 288 家中介调研文本，解构超国家知识中介的守门机制与修辞隐喻，提出中介者应充当认识论平等倡导者的生态重塑路径。
+> - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 系统剖析德语区中层研训研究所（LIs）与[[School Inspection|学校督导]]（SI）的知识中介枢纽定位，揭示中介平台与机构面临的严峻实证研究赤字及双重脱节风险（pp. 10–12）。
+> - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 结合经合组织调研文本解构超国家知识中介的守门机制与修辞隐喻，提出认识论平等倡导者的生态重塑路径（pp. 344, 347–348, 350–351）。
 > - [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] — 提出政策大使与代表性知识构念，阐发跨越母国行政体系与国际多边组织的新型跨国知识中介机制（pp. 2–6）。
+> - [[Argument_DeJong_2026_SHE|de Jong (2026)]] — 揭示高校专业支持人员在伦理审查转译、媒体推介与产学专利把关中所承担的内部知识中介角色（pp. 1246, 1248–1249）。

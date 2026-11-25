@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-18
-updated: 2026-11-21
+updated: 2026-11-26
 ---
 
 ---
@@ -230,3 +230,4 @@ updated: 2026-11-21
 > - [[Argument_Mody_2017_MOH|Mody (2017)]] — 实证检验大学微电子研究中心如何在不确定性环境下，依托同行对标复制、模型主动示范以及教员和博士毕业生跨机构流动实现模式趋同。（p. 297）
 > - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 结合新制度主义阐释主权国家为了获取合法性主动采纳全球标准化教育测验并诱发制度脱耦的机制。（p. 419）
 > - [[Argument_Murray_Moxon-Browne_2013_JCMS|Murray and Moxon-Browne (2013)]] — 将模仿型同构拓展至跨区域治理，剖析东盟对欧盟常驻代表机构的拟态借用及形式采纳与实质运作脱节机制（pp. 522–534）。
+> - [[Argument_DeJong_2024_SHE|de Jong and del Junco (2024)]] — 借鉴制度同构假定高校专业支持人员的跨校职业网络与预审标准可能推动学术知识生产的趋同。

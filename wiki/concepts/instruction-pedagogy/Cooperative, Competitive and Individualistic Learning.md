@@ -36,7 +36,7 @@ updated: 2026-11-26
 ---
 
 > [!def] Cooperative, Competitive and Individualistic Learning
-> 合作、竞争与个体式学习（Cooperative, Competitive and Individualistic Learning）是戴维·约翰逊（David W. Johnson）与罗杰·约翰逊（Roger T. Johnson）在[[Social Interdependence Theory|社会互赖理论]]框架下提出的三种基本教学与学习组织形态（Johnson & Johnson, 1994, pp. 3 ff.）。合作式学习依托积极互赖推动小组成员共同实现目标；竞争式学习构建消极互赖以激发个体争胜动力，旨在培养学生适应竞争性社会的能力；个体式学习则由学习者独立推进自身学习任务。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, pp. 79–80)]]
+> 合作、竞争与个体式学习（Cooperative, Competitive and Individualistic Learning）是戴维·约翰逊（David W. Johnson）与罗杰·约翰逊（Roger T. Johnson）在[[Social Interdependence Theory|社会互赖理论]]框架下提出的三种基本教学与学习组织形态（Johnson & Johnson, 1994, p. 3 及以下）。合作式学习依托积极互赖推动小组成员共同实现目标；竞争式学习构建消极互赖以激发个体争胜动力，旨在培养学生适应竞争性社会的能力；个体式学习则由学习者独立推进自身学习任务。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, pp. 79–80)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 将课堂学习按学生之间是否存在积极互赖、消极互赖或无互赖关系，划分为三种均具合法教学地位的组织取向。
@@ -44,7 +44,7 @@ updated: 2026-11-26
 > - **边界** 该三元划分刻画课堂目标结构与互动安排，实际教学常在单元或课时内部交替组合使用，而非排他性二选一。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, pp. 79–80, 88)]]
 
 > [!contrast-table|notitle] 三类学习目标结构比较
-> | 维度 | 合作式学习（Cooperative） | 竞争式学习（Competitive） | 个体式学习（Individualistic） |
+> | 维度 | 合作式学习 | 竞争式学习 | 个体式学习 |
 > |---|---|---|---|
 > | **互赖关系** | 积极互赖与个体责任并重 | 消极互赖，少数学习者胜出 | 无互赖，各自独立完成任务 |
 > | **教学功能定位** | 综合促进学科、社会、沟通与方法能力 | 回应竞争性社会需求并激发学习能量 | 保障个人独立思考与基础信息吸纳 |

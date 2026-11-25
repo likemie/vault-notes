@@ -8,7 +8,7 @@ aliases:
 summary: "刻画学术出版物群体中随机抽取的一篇论著获得特定引用频次 $c$ 之概率的统计学分布 $P(c)$。由德里克·J·德索拉·普赖斯（Price, 1965）首创测算并确认为具有高方差的肥尾分布；边康尼-巴拉巴西模型（Bianconi & Barabási, 2001）进一步将成果内生适应度引入优先连接动力学，证明在正态适应度先验下宏观引文分布内生呈现对数正态形态（Wang & Barabási, 2021）。"
 type: concept
 domain: "science-policy"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -53,6 +53,7 @@ related_facts:
   - "[[Web of Science]]"
   - "[[SciSciNet]]"
   - "[[Microsoft Academic Graph]]"
+  - "[[OpenAlex]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_Sinatra_2016_Science]]"
@@ -67,13 +68,13 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-11-11
+updated: 2026-11-26
 ---
 
 ---
 
 > [!def] Citation Distribution
-> 引文分布（Citation Distribution）是指用于描述某特定[[Document|文献]]集合（如特定学科、期刊或全量数据库）中，随机抽取的一篇学术论著恰好获得 $c$ 次引用的概率函数 $P(c)$。该分布由[[Bibliometric Analysis|科学计量学]]奠基人[[Derek de Solla Price|德里克·J·德索拉·普赖斯]]（Derek J. de Solla Price, 1965）首次基于早期手工引文记录计算并确立。实证表明，学术引文分布表现为具有极大方差的重尾或肥尾分布（Fat-tailed Distribution），有别于经典统计学中的高斯正态对称分布（钟形曲线），在宏观上呈现为幂律函数（$P(c) \sim c^{-\gamma}$，其中引文指数 $\gamma \approx 3$）或对数正态函数形态。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 174–177)]]
+> 引文分布（Citation Distribution）是指用于描述某特定[[Document|文献]]集合（如特定学科、期刊或全量数据库）中，随机抽取的一篇学术论著恰好获得 $c$ 次引用的概率函数 $P(c)$。该分布由[[Bibliometric Analysis|科学计量学]]开创者[[Derek de Solla Price|德里克·J·德索拉·普赖斯]]（Derek J. de Solla Price, 1965）首次基于早期手工引文记录计算并确立。实证表明，学术引文分布表现为具有极大方差的重尾或肥尾分布（Fat-tailed Distribution），有别于经典统计学中的高斯正态对称分布（钟形曲线），在宏观上呈现为幂律函数（$P(c) \sim c^{-\gamma}$，其中引文指数 $\gamma \approx 3$）或对数正态函数形态。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 174–177)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 标识科学建制中[[Scientific Credit|学术承认]]与注意力资源在宏观出版物全集中的概率分配形态。
@@ -231,7 +232,7 @@ updated: 2026-11-11
 > | [[Argument_Lin_2023_SciData\|Lin et al. (2023)]] | 全球 1.34 亿篇跨学科文献与 14 亿条引文网络 | 成果家族消歧聚合与全局引文网络重算 | 预印本版本合并对引文膨胀的校正效应与网络度分布 | 归并多版本成果家族消除内部自引循环，重算 134,129,188 篇文献的引文分布与网络入度/出度，解决引文虚高偏差 | 跨 Web of Science 与 [[Microsoft Academic Graph\|MAG]] 基准对齐检验（CCC > 0.99） | 证实多版本成果若不实施实体聚合，引文分布在头部与自引区间将产生显著系统性失真 |
 > | [[Argument_Fortunato_2018_Science\|Fortunato et al. (2018, pp. 4–5)]] | 物理学、生物医药等多学科长周期论著时序引文数据 | 相对引文标准化与三参数微观动力学拟合 | 相对被引指标 $c_f = c/c_0$、适合度 $\lambda$、即时性 $\mu$ 与寿命 $\sigma$ | 单篇被引 $c$ 除以全领域均值 $c_0$ 后，相对引文 $c_f = c/c_0$ 分布严格收拢至对数正态主曲线（$\mu \approx -0.36, \sigma \approx 0.85$）；三参数重标度使异质时序轨迹收拢至统一累积主曲线 | 全球跨学科科研文献全样本 | 证实微观引文动态与宏观引文分布在消除学科规模与时间尺度后严格遵循普适物理统计规律 |
 > | [[Argument_Azoulay_2011_RJE\|Azoulay et al. (2011)]] | 生命科学全量学术成果与 417 位顶尖学者微观面板（1980–2006 年） | 基于全域引文长尾分布的分位数测度与半参数[[Difference-in-Differences\|双重差分]]估计 | 全球引文分布前 25%、5%、1% 极端分位数产出与底层试错 | 全域引文呈高度右偏肥尾；入选 HHMI 对学者前 1% 极端长尾成果的拉动效应系数达 $0.678$（$p < .01$），显著超过均值产出（$0.333$） | 泊松与 SDD 估计显著 | 证实引文分布的长尾分位数能够有效克服均值被引局限，捕捉高风险探索带来的极端非线性突破 |
-| [[Argument_Hao_2026_Nature\|Hao et al. (2026)]] | OpenAlex 数据库 41,298,433 篇跨越六大自然科学门类的出版成果（1980–2025 年） | 大规模文献计量分析与复杂网络拓扑建模 | 引文分布基尼系数与前分位数引用累积份额 | AI 成果引文基尼系数为 0.754，非 AI 成果为 0.690；前 22.20% 成果吸纳 80% 引用，前 54.14% 成果吸纳 95% 引用 | $t = 27.86, p < .001$ | 揭示 AI 研究中注意力与学术承认向头部极少数明星成果的高度垄断与马太效应加剧 |
+> | [[Argument_Hao_2026_Nature\|Hao et al. (2026)]] | [[OpenAlex\|OpenAlex 数据库]] 41,298,433 篇跨越六大自然科学门类的出版成果（1980–2025 年） | 大规模文献计量分析与复杂网络拓扑建模 | 引文分布基尼系数与前分位数引用累积份额 | AI 成果引文基尼系数为 0.754，非 AI 成果为 0.690；前 22.20% 成果吸纳 80% 引用，前 54.14% 成果吸纳 95% 引用 | $t = 27.86, p < .001$ | 揭示 AI 研究中注意力与学术承认向头部极少数明星成果的高度垄断与马太效应加剧 |
 
 ---
 
@@ -243,7 +244,7 @@ updated: 2026-11-11
 > | [[Scientific Credit]] | 概念 | 引文分布所反映的学术承认与象征资本在知识共同体内的分配形态。 |
 > | [[Relative Citation Normalization]] | 方法 | 消除跨学科与跨年代基线差异、使各学科引文分布向对数正态坍缩的标准算法。 |
 > | [[Bianconi-Barabási Model]] | 理论 | 将成果内生适应度引入优先连接动力学，推导全域对数正态引文分布的物理模型。 |
-> | [[Derek de Solla Price]] | 人物 | 科学计量学奠基人，首创绘制全量文献引文分布并拟合幂律函数。 |
+> | [[Derek de Solla Price]] | 人物 | 科学计量学开创者，首创绘制全量文献引文分布并拟合幂律函数。 |
 
 ---
 

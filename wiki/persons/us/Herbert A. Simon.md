@@ -5,7 +5,7 @@ aliases:
   - Herbert Simon
   - 赫伯特·A.西蒙
   - 赫伯特·西蒙
-summary: "美国政治学家、经济学家与认知科学家，诺贝尔经济学奖与图灵奖得主；开创有限理性理论并奠基早期符号人工智能，其决策模型与技术预言对理解专业实践认知局限及计算智能演化具有深远影响。"
+summary: "美国政治学家、经济学家与认知科学家，诺贝尔经济学奖与图灵奖得主；开创有限理性理论并参与创立早期符号人工智能，其决策模型与技术预言对理解专业实践认知局限及计算智能演化具有深远影响。"
 type: person
 cssclasses:
   - person-page
@@ -55,14 +55,14 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-11-15
+updated: 2026-11-26
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 赫伯特·A.西蒙（Herbert A. Simon, 1916–2001）是美国政治科学家、经济学家、认知心理学家与计算机科学家，卡内基梅隆大学（Carnegie Mellon University）教授，1978 年诺贝尔经济学奖与 1975 年图灵奖得主。
-> - **核心角色** [[Bounded Rationality|有限理性]]决策[[Paradigm|范式]]的开创者与符号主义人工智能的早期奠基人。在经济学与社会科学中打破了新古典经济学的完全理性人假设；在计算机科学与认知科学中提出了物理符号系统假说，并在 1956 年达特茅斯研讨会后主导了早期人工智能的程序构建与理论预测。
+> - **核心角色** [[Bounded Rationality|有限理性]]决策[[Paradigm|范式]]的开创者与符号主义人工智能的早期创立者。在经济学与社会科学中打破了新古典经济学的完全理性人假设；在计算机科学与认知科学中提出了物理符号系统假说，并在 1956 年达特茅斯研讨会后主导了早期人工智能的程序构建与理论预测。
 > - **代表贡献** 创立[[Bounded Rationality|有限理性]]（Bounded Rationality）理论与满意解原则；开创早期符号 AI 启发式程序（逻辑理论家 Logic Theorist 与通用问题求解器 GPS）；出版《人工科学》（*The Sciences of the Artificial*）确立复杂系统设计哲学；其理论成为现代教育研究理解教师[[Professional Judgment|专业判断]]局限的核心[[Epistemology|认识论]]框架。
 
 > [!citation-card] 人工科学与复杂系统中的理性边界
@@ -74,7 +74,7 @@ updated: 2026-11-15
 
 > [!timeline] 生平与职涯
 > - **1916** 出生于美国威斯康星州密尔沃基。
-> - **1947** 出版奠基之作《行政行为》（*Administrative Behavior*），系统阐述组织决策过程中的认知约束与满意准则。
+> - **1947** 出版代表作《行政行为》（*Administrative Behavior*），系统阐述组织决策过程中的认知约束与满意准则。
 > - **1956** 参与[[Dartmouth Summer Research Project on Artificial Intelligence|达特茅斯人工智能夏季研讨会]]，展示与艾伦·纽厄尔（Allen Newell）共同开发的世界上首个符号推理程序“逻辑理论家”（Logic Theorist），确立人工智能作为独立学科的[[Paradigm|研究范式]]。
 > - **1957–1960** 提出著名的高置[[Reliability|信度]]技术预测：断言数字计算机将在 10 年内击败人类国际象棋世界冠军，并在 20 年内胜任人类能做的一切脑力工作（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025, pp. 25–26]]）。
 > - **1969** 出版《人工科学》（*The Sciences of the Artificial*），将符号计算、认知心理学与系统设计融为一体。
@@ -85,7 +85,7 @@ updated: 2026-11-15
 ---
 
 > [!thought-timeline] 思想发展
-> - **1940s–1950s — 组织行为与[[Bounded Rationality|有限理性]]奠基** 批判新古典经济学关于全知全能“经济人”与效用最大化的假设，提出人类在面对复杂环境时受制于注意力、记忆与计算能力，只能追求“令人满意的解”（Satisficing）而非“最优解”。
+> - **1940s–1950s — 组织行为与[[Bounded Rationality|有限理性]]提出** 批判新古典经济学关于全知全能“经济人”与效用最大化的假设，提出人类在面对复杂环境时受制于注意力、记忆与计算能力，只能追求“令人满意的解”（Satisficing）而非“最优解”。
 >   - **代表著作** *Administrative Behavior* (1947); *Organizations* (1958, with James G. March)。
 >   - **关键概念／方法** [[Bounded Rationality|有限理性]]、满意解原则、组织决策模型。
 >   - **阶段转向** 将决策研究由规范性数理假设转向基于实证人类行为心理的描述性模型。
@@ -123,6 +123,7 @@ updated: 2026-11-15
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] — 将西蒙的有限理性理论作为理解教学-学习关系与教师专业判断局限的[[Epistemology|认识论]]基石。
+> - [[Argument_Ryttberg_Geschwind_2021_TEM|Ryttberg and Geschwind (2021)]] — 运用其《行政行为》中的效率观与集权/分权理论框架，分析荷兰和挪威高校专业支持人员的组织平衡与代价。
 
 ---
 

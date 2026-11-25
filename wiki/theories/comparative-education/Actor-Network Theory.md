@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-07
-updated: 2026-11-11
+updated: 2026-11-26
 ---
 
 ---
@@ -229,4 +229,5 @@ updated: 2026-11-11
 > - [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]] — 运用 ANT 追踪阿根廷 [[Conectar Igualdad\|PCI]] 数字教育项目课堂微观装配，揭示跨国技术资本权力如何绕过国家反商业化法规直接在教学空间中建构秩序。
 > - [[Argument_Li_2025_HSSC\|Li et al. (2025)]] — 借助 ANT 的多行动者转译模型，剖析国家内部[[Policy Network\|政策网络]]如何在多方博弈中折射并本土化转译 [[OECD]] [[PISA]] 评估信息。
 > - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 追溯理性主义比较教育传统中引入 ANT，以分析全球教育治理中流动[[Discourse|话语]]、政策图景与数据[[Governing at a Distance\|远处治理]]的隐秘运作。
+> - [[Argument_DeJong_2024_SHE\|de Jong and del Junco (2024)]] — 提出结合行动者网络理论与[[Cycle of Credit|信用循环]]，追踪研究项目穿过高校专业支持人员与学者网络时的利益转译与修改机制。
 

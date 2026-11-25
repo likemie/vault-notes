@@ -47,8 +47,8 @@ updated: 2026-11-26
 > - **用途** 既可用于复杂合作学习阶段，也可嵌入教师主导的讲授环节，快速激活全体学生的认知参与并促进同伴沟通。
 > - **边界** 餐垫法属于短周期课堂结构化工具，须依托明确的学习任务与教师时间调控才能发挥效力，单独使用本身并不自动构成完整的合作学习体系。
 
-> [!citation-card|notitle] 餐垫法作为合作学习的“瑞士军刀”
-> 餐垫法（Placemat，即“小桌垫”）因其适用场景广泛而被视为合作学习的“瑞士军刀”，其图文分区结构示范性地体现了思考—配对—分享（Think-Pair-Share）三步序列中合作过程的推进逻辑：第一步由小组成员在共享工作纸的各自独立区域开展平行[[Brainstorming|头脑风暴]]，第二步相互展示个人想法，最后全组协商一致，将精选出的核心观点共同写入中央方框（Brüning & Saum, 2006, p. 11）。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, p. 88)]]
+> [!citation-card|notitle] 餐垫法作为合作学习的瑞士军刀
+> 餐垫法（Placemat，即小桌垫）因其适用场景广泛而被视为合作学习的瑞士军刀，其图文分区结构清晰体现了思考—配对—分享（Think-Pair-Share）三步序列中合作过程的推进逻辑：第一步由小组成员在共享工作纸的各自独立区域开展平行[[Brainstorming|头脑风暴]]，第二步相互展示个人想法，最后全组协商一致，将精选出的核心观点共同写入中央方框（Brüning & Saum, 2006, p. 11）。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, p. 88)]]
 >
 > *Das Placemat („Platzdeckchen“) gilt als „Schweizer Messer“ des Kooperativen Lernens, weil es vielfältig einsetzbar ist und seine grafische Struktur die Logik kooperativer Prozesse in der Abfolge von Think – Pair – Share beispielhaft abbildet (vgl. Brüning/Saum 2006, S. 11).*
 
@@ -66,7 +66,7 @@ updated: 2026-11-26
 ---
 
 > [!concept-proposition] 命题一｜餐垫法以空间分区将个体责任与群体沟通绑定为连续认知结构
-> **图形结构对合作过程的外显约束** 餐垫法通过把一张工作纸切分为外围个人区与中央共识区，在物理载体层面防止小组讨论流于少数人主导的闲聊，确保“独立思考在前、同伴互赖在后”的顺序得以落实。
+> **图形结构对合作过程的外显约束** 餐垫法通过把一张工作纸切分为外围个人区与中央共识区，在物理载体层面防止小组讨论流于少数人主导的闲聊，确保独立思考在前、同伴互赖在后的顺序得以落实。
 
 > [!claim] Kremers, T.
 > **讲授式课堂与合作结构中的双重激活功能** 托马斯·克雷默斯（Thomas Kremers）指出，教师在当代课堂中既要分阶段组织复杂的合作学习，也应在良好的讲授式教学（Frontalunterricht）中适时嵌入学生激活策略。餐垫法与思考—配对—分享（Think-Pair-Share）共同映射了合作过程的沟通逻辑，能够在短时间内将单向听讲转化为全员投入的双向交流，提升学习者的独立责任与沟通能力。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, pp. 80–81, 88)]]

@@ -121,7 +121,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-08
-updated: 2026-11-25
+updated: 2026-11-26
 ---
 
 ---
@@ -257,3 +257,4 @@ updated: 2026-11-25
 > - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 基于 Scopus 数据库检索并筛选 158 篇教育治理实证文献，采用国别提取表聚合跨期碎片研究，系统分析国家评估与[[Test-Based Accountability|考试问责]]在全球三大行政传统下的扩散演进。（pp. 252–253）
 > - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 实证揭示北欧教育改革起草中系统综述的差[[Alienation|异化]]动员机制：改革委员会在学习科学领域优先依托系统综述构筑政策合法性，而在课程领域则因跨国情境变异转向非经验分析与混合知识库（pp. 535–538）。
 > - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014)]] — 援引萨克特循证医学三维平衡模型，论证系统综述产出的外部统计证据仅构成实践探索假说，必须与一线教师专业专长及学生个体价值平起平坐，由累积性个案检验其实践适用性（pp. 45–47）。
+> - [[Argument_DeJong_2024_SHE|de Jong and del Junco (2024)]] — 联合 WoS 与 Scopus 篇名检索及多轮前后向引文追踪，从 2,917 篇去重记录中筛选 54 篇英语一手实证研究开展 Gioia 归纳编码。

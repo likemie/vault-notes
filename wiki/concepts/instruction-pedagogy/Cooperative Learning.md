@@ -107,7 +107,7 @@ updated: 2026-11-26
 > [!boundary]- 概念边界
 > - 不等于**无序的自由小组活动（Unstructured Group Work）**——缺乏积极互赖、角色分工与个体责任考核的松散分组，极易引发搭便车（free-riding / social loafing）现象，或导致学优生垄断发言、内向或学困生被动边缘化。
 > - 不等于**协作学习（Collaborative Learning）**——协作学习侧重赋予学生完全的探究自主权，强调权威向学生群体的去中心化转移与开放式问题探索；合作学习则强调教师在教学目标设定、[[Task Structure\|任务结构]]划分、小组角色分配与定量结果考核中的系统控制与责任落实。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 2)]]
-> - 术语精度界定（**在合作结构中学习，Lernen in kooperativen Strukturen**）——由于学习本质上是个体内部的建构与吸纳过程，严格意义上的概念指向“在合作结构中学习”；“合作学习”是针对这种结构化学习安排的通用概念简称。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, p. 79)]]
+> - **术语边界（在合作结构中学习，Lernen in kooperativen Strukturen）** 由于学习本质上是个体内部的建构与吸纳过程，严格意义上的概念指向在合作结构中学习，合作学习则是针对这种结构化学习安排的通用简称。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, p. 79)]]
 
 ---
 
@@ -157,7 +157,7 @@ updated: 2026-11-26
 > **深层[[Cognitive Activation|认知激活]]与高效代表形态** 德语区实证教育研究对二阶元分析的审读显示，结构化合作学习呈现出稳健的促学效应（$d = 0.41$）。其促学潜能的充分释放有赖于高结构化的任务设计与深度认知投入；在具体技术形态中，以交互式研讨与轮流讲解为特征的[[Reciprocal Teaching|互惠教学]]（$d = 0.74$）表现出最突出的学业成效。在[[Three Basic Dimensions of Teaching Quality|教学质量三大基准维度]]框架下，合作学习系统归属于[[Cognitive Activation|认知激活]]维度，通过引导学生在相互解释与质询中开展深层认知建构，推动实质学业提升。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, pp. 31, 35)]]
 
 > [!claim] Kremers
-> **四维能力整合与隐性因子束协同机制** 托马斯·克雷默斯（Thomas Kremers）指出，合作学习同步整合学科知识、社会交往、沟通表达与方法运用四类能力；以认知学业产出为核心的二阶元分析仅显性测量了其中学科能力一维，低估了其整体育人效力。此外，完整的合作学习依托反思评估、[[Teacher Clarity|教师清晰度]]、反馈、[[Student-Teacher Relationship|师生关系]]与[[Metacognition|元认知]]策略等要素协同构成“强效因子束”（wirkstarkes Faktorenbündel），产生持久或情境性的隐性促学放大效应。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, pp. 79, 82–87)]]
+> **四维能力整合与隐性因子束协同机制** 托马斯·克雷默斯（Thomas Kremers）指出，合作学习同步整合学科知识、社会交往、沟通表达与方法运用四类能力；以认知学业产出为核心的二阶元分析仅显性测量了其中学科能力一维，低估了其整体育人效力。此外，完整的合作学习依托反思评估、[[Teacher Clarity|教师清晰度]]、反馈、[[Student-Teacher Relationship|师生关系]]与[[Metacognition|元认知]]策略等要素协同构成强效因子束（wirkstarkes Faktorenbündel），产生持久或情境性的隐性促学放大效应。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, pp. 79, 82–87)]]
 
 ---
 
@@ -184,7 +184,7 @@ updated: 2026-11-26
 > **理论素养与规范实施的决定性制约** 合作学习在课堂中的有效应用高度依赖教师对理论基础与操作技术的深刻理解。尽管多数教师主观上认为自己在组织合作学习，但实际活动往往因过于松散、脱离特定方法论规范而沦为形式化的小组扎堆。唯有教师精准落实积极互赖、个体责任与小组反思，并为学生提供充分的合作技能训练时间与结构化[[Scaffolding\|脚手架]]，合作学习才能产生实质性学业与思维增益。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 12)]]
 
 > [!claim] Kremers
-> **渐进过程建构与教师专业养成周期** 克雷默斯强调，合作学习具有明显的过程性特征，须遵循“深度独立学习—同伴配对交流—复杂小组协作”的阶梯逐步培育学生能力，并将教师的长期专业发展视为前提（Johnson et al., 2005 认为培养一名胜任合作学习的教师需要三年时间）。将合作学习窄化为脱离心理基础的零散方法拼盘，会直接拉低课堂教学成效。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, pp. 80–81, 87)]]
+> **渐进过程建构与教师专业养成周期** 克雷默斯强调，合作学习具有明显的过程性特征，须遵循深度独立学习—同伴配对交流—复杂小组协作的阶梯逐步培育学生能力，并将教师的长期专业发展视为前提（Johnson et al., 2005 认为培养一名胜任合作学习的教师需要三年时间）。将合作学习窄化为脱离心理基础的零散方法拼盘，会直接拉低课堂教学成效。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, pp. 80–81, 87)]]
 
 ---
 
@@ -353,5 +353,5 @@ updated: 2026-11-26
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] — 综合 15 项[[Meta-analysis\|元分析]]的[[Meta-meta-analysis\|二阶元分析]]显示合作学习对[[Academic Achievement\|学业成就]]（0.71）、[[Higher-Order Thinking Skills\|高阶思维]]（0.76）与情感（0.51）均有效，[[Jigsaw\|拼图法]]等技术与学科具调节作用。
 > - [[Argument_Koller_2014_WhatWorks\|Köller (2014)]] — 结合德语区实证教育研究审读可见学习，报告合作学习总体效应量 $d = 0.41$，指出互惠教学（$d = 0.74$）为其高效能代表形态，并将其归入教学质量三大基准维度中的认知激活维度（pp. 31, 35）。
-> - [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014)]] — 评估[[John Hattie|哈蒂]]研究中合作学习的显性效应量（$d = 0.41$–$0.59$）与隐性“因子束”作用，驳斥传统讲授复辟并重申五大心理学要素（pp. 78–88）。
+> - [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014)]] — 评估[[John Hattie|哈蒂]]研究中合作学习的显性效应量（$d = 0.41$–$0.59$）与隐性因子束作用，驳斥传统讲授复辟并重申五大心理学要素（pp. 78–88）。
 

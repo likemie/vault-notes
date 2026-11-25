@@ -27490,6 +27490,29 @@
     ]
   },
   {
+    "title": "Institutional Logics",
+    "type": "theory",
+    "path": "wiki/theories/sociology-of-education/Institutional Logics.md",
+    "aliases": [
+      "制度逻辑",
+      "制度逻辑理论",
+      "制度逻辑视角",
+      "institutional logic"
+    ]
+  },
+  {
+    "title": "Institutional Work",
+    "type": "theory",
+    "path": "wiki/theories/sociology-of-education/Institutional Work.md",
+    "aliases": [
+      "制度工作",
+      "制度工作理论",
+      "制度工作视角",
+      "制度创设、维护与破坏",
+      "institutional work framework"
+    ]
+  },
+  {
     "title": "Lefebvre's Spatial Triad",
     "type": "theory",
     "path": "wiki/theories/sociology-of-education/Lefebvre's Spatial Triad.md",
@@ -58392,6 +58415,11 @@
     "title": "Argument_Downey_2016_SoE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Sociology of Education/Argument_Downey_2016_SoE.md"
+  },
+  {
+    "title": "Argument_DeJong_2024_SHE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
   },
   {
     "title": "Argument_DeJong_2026_SHE",

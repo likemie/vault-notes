@@ -172,4 +172,5 @@ updated: 2026-11-26
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_VanderKloet_Campisi_2023_JHEPM|Vander Kloet and Campisi (2023)]] — [[In-depth Interview|深度访谈]]加拿大 5 所大学 19 位科研管理人员，揭示其如何通过远离学术不稳定状态、智力邻近科研与关照教师来确立合法学术主体性。
+> - [[Argument_DeJong_2024_SHE|de Jong and del Junco (2024)]] — 综述 54 篇高校专业支持文献发现科研管理人员以 15 篇居首，参与撰写或审阅半数基金申请并担任学术实践守门人。
 > - [[Argument_DeJong_2026_SHE|de Jong (2026)]] — 基于美国研究型大学 22 位专业支持人员（含 6 位科研管理者）的访谈，阐明其通过资源转化直接推动知识产出（pp. 1244–1250）。
