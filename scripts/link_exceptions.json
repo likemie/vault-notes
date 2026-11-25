@@ -1557,6 +1557,14 @@
     {
       "sentence": "将循证教学论置于四百年一般教学论传统与当代学科知识论框架下检验，可见其在理论涵盖面上高度受限，在科学观上流于社会技术主义，且回避了成熟教学论必须回答的三项根本问题。",
       "target": "wiki/concepts/curriculum/Theory of Knowledge.md"
+    },
+    {
+      "sentence": "**拓展教学论的实证研究议程** 教学行动的经验基础因此必须超越已发表实验干预研究的效应量汇总，进一步纳入定性课堂研究，并自主开展所有教学知识形式在日常教学中如何被运用以及作为优质教学基础的教学专业知识如何在教师职业培养历程中生成的实证研究，后者正是当前教学论研究的明显空白。",
+      "target": "wiki/concepts/teacher-education/Lesson Study.md"
+    },
+    {
+      "sentence": "**学校理论缺口（schultheoretisches Defizit）** 因认定学校结构与资源投入效应量偏低，对教与学过程和学校制度框架条件之间的相互作用采取回避态度。",
+      "target": "wiki/concepts/educational-psychology/Student Attitude.md"
     }
   ]
 }

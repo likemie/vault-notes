@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Xie_2017_PKUER",
+      "path": "sources/Xie_2017_PKUER.md"
+    },
+    {
       "basename": "Argument_Xie_2017_PKUER",
       "path": "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit05",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
-    },
-    {
-      "basename": "Argument_Vavrus_2006_CICE",
-      "path": "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md"
     }
   ],
   "omittedPaths": [],

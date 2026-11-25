@@ -92,7 +92,7 @@ updated: 2026-11-25
 > 在当代全球教育治理全面转向[[Evidence-Based Policy-Making|循证决策]]与数字化的浪潮中，州级教育行政机构如何具体建构、运行和维系基于数据的学校监测系统？这一过程内部究竟包含哪些鲜为人知的数据流转环节、算法决策机制与社会-技术暗箱？面对不同国家体制与[[Organizational Culture\|组织文化]]，数字数据实践又遭遇了哪些普遍性与情境化的结构张力？
 
 > [!claim] 核心主张
-> 基于数据的学校监测绝非中立、客观且线性的纯技术程序，而是一个深度纠缠着政治价值、行政博弈与即兴试错的社会-技术装配；在州级行政机构做数据（doing data）的微观实践中，始终贯穿着数据简化与准确性、统计公平与地域比较、快速交付与单一事实确立、透明公开与隐私安全、问责改进与策略博弈等五维结构性张力，对传统的[[Data Literacy\|数据素养]]观念构成了根本性挑战，亟需转向深度介入系统全链条机制的[[Data Infrastructure\|数据基础设施]]素养。
+> 基于数据的学校监测是一种社会-技术装配，由政治价值、行政博弈与即兴试错共同塑造。州级行政机构做数据（doing data）时，始终需要在数据简化与准确性、统计公平与地域比较、快速交付与单一事实确立、透明公开与隐私安全、问责改进与策略博弈之间权衡。这些张力对传统的[[Data Literacy\|数据素养]]观念构成了根本性挑战，亟需转向能够介入各个数据处理环节的[[Data Infrastructure\|数据基础设施]]素养。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 美国[[Massachusetts Department of Elementary and Secondary Education\|马萨诸塞州中小学教育部]]（Massachusetts Department of Elementary and Secondary Education, DESE）与德国汉堡学校与职业教育局（Behörde für Schule und Berufsbildung, BSB）直属的[[Institute for Educational Monitoring and Quality Improvement\|汉堡教育监测与质量发展研究所]]（Institute for Educational Monitoring and Quality Improvement, IfBQ）内部的数据基础设施、算法流转与专家行政实践。
@@ -118,7 +118,7 @@ updated: 2026-11-25
 > | **量化评价功能** | 发现客观差距以提供中立的改进依据 | 制造通约度量，建立跨时空可比性并分配制度合法性与资源 |
 
 > [!warrant]- 理论工具如何支撑全景论证
-> 借助批判性数据研究的[[Theoretical Standpoint|理论透镜]]，研究摆脱了将数据仅仅视为信息容器的工具主义迷思。通过将数据基础设施作为实体考察对象，将数量通约化作为微观转化机制，作者得以系统审视从原始数据录入、数据库清洗、跨系统互操作、算法加权建模到可视化呈报的全生命周期，论证看似中立的代码与算法指标如何深度嵌入甚至重构了国家行使教育权力的基本方式。
+> 批判性数据研究的[[Theoretical Standpoint|理论透镜]]将数据基础设施作为考察对象，将数量通约化视为数据转化的微观机制。追踪原始数据从录入和清洗，经跨系统互操作与算法加权建模，直至可视化呈报的过程，可以解释代码和算法指标如何参与并重塑国家行使教育权力的方式。
 
 ---
 
@@ -168,7 +168,7 @@ updated: 2026-11-25
 
 ---
 
-> [!claim|step] 论证步骤一　学校监测绝非客观中立的自动化闭环，而是高度依赖算法裁决与即兴调配的社会-技术试错装配
+> [!claim|step] 论证步骤一　学校监测依赖算法裁决与行政人员的反复试验
 > 官方规程与系统图表所描摹的端到端自动化数据流，在行政实践中只是一种理想化的技术修辞；真实的学校监测充斥着复杂的跨部门反复拉锯与算法选择的偏狭性，本质上是在多重制度诉求中即兴调配材料的试错烹饪过程。
 
 > [!sub-claim] 1. 四级纵向流转架构旨在将微观学情去情境化，转化为可支配的量化治理资产
@@ -195,7 +195,7 @@ updated: 2026-11-25
 系统流程图所展示的单向线性流动，在行政现场被不同处室、代码脚本与外部诉求的反复拉锯所打破。行政人员与监测专家不仅难以实现理性的全知控制，反而处处受制于算法预设的选择性与偏狭性：
 
 > [!voice] 行政官员与监测专家对数据中立性的解构
-> - **马萨诸塞州技术官员** 外部所见的数据图景并非客观真实的镜像，而是由具体的检索程序与筛选代码严格决定的：程序指令显性规定了过滤哪些字段、统计哪些对象、合并或剔除哪些项目。
+> - **马萨诸塞州技术官员** 检索程序和筛选代码决定了对外呈现哪些数据。程序指令规定过滤哪些字段、统计哪些对象，以及合并或剔除哪些项目。
 > - **汉堡 [[Institute for Educational Monitoring and Quality Improvement\|IfBQ]] 监测专家** 每一个指数数值都内嵌着特定的背景假设与方法权衡，根本不存在能够完全折射绝对真理的无瑕数据集。
 
 > [!citation-card] 监测数据工作的试错烹饪本质
@@ -203,7 +203,7 @@ updated: 2026-11-25
 >
 > *In fact, most interviewees contrasted their work around data with linear procedures or loop circle models (as the technical infrastructure would suggest), instead describing it as highly experimental, involving significant elements of 'messing around' or, as one interviewee phrased it, 'cooking' with multiple ingredients (data, algorithms or models) to find working solutions within a highly diverse entanglement of often very different logics, stakeholders or problems.*
 
-这种充满妥协与修补的微观实践表明，量化治理数据绝非客观中立的产物，而是由查询代码、权重分配与手工补丁共同塑造的社会-技术装配：
+查询代码和权重分配限定了哪些信息进入量化治理数据以及如何汇总，行政人员还会手工修正数据。
 
 > [!quad-grid] 算法选择性与微观实践干预的具体维度
 > - **查询脚本过滤**
@@ -246,7 +246,7 @@ updated: 2026-11-25
 
 > [!sub-claim] 2. 去地域化统计对标割裂地方生活脉络，遭遇基层文化抗拒并迫使系统退守邻区参照
 
-学校监测的核心运作机制在于制造[[Commensuration|通约]]（Commensuration）。全域集中数据库与算法建模的成熟，催生了一种去地域化的公平比较（Fair Comparison）[[Paradigm|范式]]：不再将学校与地理周边学校对比，而是依托算法搜寻社会经济背景最相似的统计双胞胎（statistical twins）。然而这一纯数学设想在真实运作中遭遇了基层强烈的文化抵制：
+学校监测的核心运作机制在于制造[[Commensuration|通约]]（Commensuration）。全域集中数据库与算法建模的成熟催生了去地域化的公平比较（Fair Comparison）[[Paradigm|范式]]。这种比较用算法识别社会经济背景最相似的学校，即统计双胞胎（statistical twins），以此取代邻近学校作为参照。这种比较方法在基层遭遇强烈抵制。
 
 > [!row-contrast] 统计公平比较与地域直观比较在美德两地的经验遭遇
 > | 案例与核心工具 | 技术机制与政策设想 | 一线实践抗拒与妥协后果 |
@@ -273,13 +273,13 @@ updated: 2026-11-25
 > [!tension-table] 单一事实来源确立中的制度妥协
 > | 案例地区 | 冻结节点与制度刚性 | 隐秘漏洞与微观司法回溯例外 |
 > |---|---|---|
-> | **美国马萨诸塞州（DESE）** | 学区负责人正式签署认证公文后，数据流转如钢门闭锁般定格；全口径呈报向数百个公开数据库铺开，严禁任何数据撤回。 | 一线学校普遍采取接口式假性修改（在前端抹平报错以确保提交，却从不回本地数据库修正真实记录）；仅面对事关高中毕业资格与大学奖学金的高利害诉求时，启动笔迹法医级鉴定破例溯源修改。 |
+> | **美国马萨诸塞州（DESE）** | 学区负责人正式签署认证公文后，数据即冻结。全量数据报送到数百个公开数据库，禁止撤回。 | 一线学校普遍采取接口式假性修改（在前端抹平报错以确保提交，却从不回本地数据库修正真实记录）；仅面对事关高中毕业资格与大学奖学金的高利害诉求时，启动笔迹法医级鉴定破例溯源修改。 |
 > | **德国汉堡（BSB / IfBQ）** | 数据在向各州教育部长联席会（[[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]]）汇报并在参议员新闻发布会通报后即行锁定，维持权威公信力。 | 承认数据在截止后偶尔仍会被核查出重要遗漏，此时数据仓库确立的单一事实面临被悄然回溯推翻的合法性危机。 |
 
 > [!implication]- 治理悖论：宏观统计自洽与微观高利害纠偏的撕裂
-> 这种时间决断暴露出深层的制度断层：行政系统在宏观上为了维系政策统计的自洽性与公信力，必须在数据冻结后对已知的细微差错视而不见（容忍统计瑕疵并闭锁钢门）；而在微观层面，一旦面对事关个体高中毕业资格或大学奖学金的高利害诉求，又不得不启动昂贵的法医级笔迹鉴定破例溯源纠偏，暴露出统计技术真实与个体权益真实之间的深层脱节。
+> 为维持政策统计的一致性与公信力，行政机构在数据冻结后搁置已知的细微差错。事关个体高中毕业资格或大学奖学金时，行政机构又需启动昂贵的法医级笔迹鉴定，破例追查并纠正记录。这反映出维持统计一致性与保障个体权益之间的冲突。
 
-> [!sub-claim] 4. 全口径公开信念激化社会过度反应，倒逼行政体系筑起权限隔离与假名化防线
+> [!sub-claim] 4. 对全面公开数据可能引发的过度反应和隐私风险的担忧，促使行政机构采用权限隔离或假名化
 
 在数据透明度与数据安全保护的权衡上，美德两地折射出迥然相异的政治哲学，却殊途同归地走向防御性控制收紧：
 
@@ -301,7 +301,7 @@ updated: 2026-11-25
 > [!tension-table] 问责利害设定与逆向策略博弈的双向循环
 > | 案例情境 | 问责利害机制 | 预期改进逻辑 | 逆向策略博弈与制度防御 |
 > |---|---|---|---|
-> | **马萨诸塞州（高利害接管威胁）** | 测评等级与[[School Autonomy\|学校自主权]]剥夺、州级行政强制托管乃至关闭重组直接挂钩。 | 倒逼学校将精力和资源全面聚焦于提升核心学业指标与毕业率。 | 学校全面迎合指标；DESE 试行学校氛围[[Questionnaire\|问卷调查]]时，因担忧校长教师指示学生全刷满分而长期不敢正式列入问责体系。 |
+> | **马萨诸塞州（高利害接管威胁）** | 测评等级与[[School Autonomy\|学校自主权]]剥夺、州级行政强制托管乃至关闭重组直接挂钩。 | 接管威胁迫使学校把工作和资源集中到提高核心学业指标与毕业率上。 | 学校全面迎合指标；DESE 试行学校氛围[[Questionnaire\|问卷调查]]时，因担忧校长教师指示学生全刷满分而长期不敢正式列入问责体系。 |
 > | **德国汉堡（软性问责与资源倾斜）** | 依据社会指数调配全州差异化师资财政编制；依据监测表现开展督学目标协议磋商。 | 为弱势学校提供资源倾斜，依托目标协议推行诊断性校本质量改进。 | 滋生隐秘博弈；各校高度戒备邻校故意虚报低社会经济生源以争抢更多财政补贴，IfBQ 必须投入大量精力实施多源防伪核验。 |
 
 > [!implication]- 问责绑定的制度异化：逆向博弈与数据公信力侵蚀
@@ -309,18 +309,18 @@ updated: 2026-11-25
 
 ---
 
-> [!claim|step] 论证步骤三　学校监测生成弥散性分布式计算权力，倒逼批判性介入从传统数据技能转向数据基础设施素养
-> 学校监测并未孕育出由中央集中垄断的全知计算霸权，而是表现为多重平台、算法与制度[[Habitus|惯习]]协同运作的分布式计算权力；面对这一治理现实，批判性教育研究必须超越局限于个体阅读数据集的传统技能范式，建构能够洞察并干预社会-技术全链条的[[Data Infrastructure\|数据基础设施]]素养。
+> [!claim|step] 论证步骤三　学校监测中的计算权力分布在多个环节，批判性介入需要数据基础设施素养
+> 学校监测中的计算权力分布在协同运作的平台、算法与制度[[Habitus|惯习]]之中。批判性教育研究需要把分析与介入的范围从个人识读数据集扩展到数据生产和使用的各个环节，培养[[Data Infrastructure\|数据基础设施]]素养。
 
 > [!sub-claim] 1. 算法系统制造学校次级表象，通过弥散性分布式计算权力重塑教育治理能见度
 
-监测基础设施并非单向贯彻国家指令的中立机器，它通过算法指标重塑了教育治理的能见度与权力配置机制：
+监测基础设施通过算法指标改变教育治理中哪些现象可见，以及各方如何行使权力。
 
 > [!theory-components] 分布式计算权力与次级表象的运作机制
 > - **第二手代表表象（Second-hand Representations）**
 >   算法模型通过提炼掉队风险或绩效等级，制造出关于学校的次级量化表象，并以此代表学校发声，重构了现实本身的能见度规则。
 > - **分布式计算权力（Distributed Computational Power）**
->   治理权力不再由中央自上而下集中垄断，而是弥散性地固化在各部门的代码规则、互操作协议与时间冻结标准之中。
+>   治理权力分布在各部门设定的代码规则、互操作协议与数据冻结标准之中。
 > - **数据元规则的自我增殖（Data about Data Production）**
 >   次级表象持续激发对更高频、更精准数据的制度渴求，使行政体系陷入对数据生产流程自身元规则的无休止维护与资源消耗。
 
@@ -329,7 +329,7 @@ updated: 2026-11-25
 面对深度纠缠的社会-技术网络，单纯教导教师与公众如何下载表格或绘制图表的传统[[Data Literacy|数据素养]]方案已完全脱节：
 
 > [!chain-link] 从数据技能向基础设施素养的范式推导
-> - **前提：治理权力的基础设施化嵌入** 监测权力不再由单一行政长官以条文形式直接发号施令，而是弥散性地固化在数据库业务规则、算法通约标准与冻结时限之中。
+> - **前提：治理权力的基础设施化嵌入** 监测权力分布在数据库业务规则、算法通约标准与数据冻结时限之中。
 > - **机制：孤立数据识读的技术主义脱节** 仅关注现成数据集合的分析技能（[[Data Literacy]]），完全无力识别数据在去情境化采集与算法折算过程中被赋予的价值偏见与治理盲区。
 > - **结论：确立介入基础设施的批判性胜任力** 必须遵从乔纳森·格雷等学者（Jonathan Gray et al.）的倡议，全面培育数据基础设施素养（Data Infrastructure Literacy），使教育行动者具备对数据生产、仓储、建模与流通的全套社会-技术系统开展质询、问责与民主参与的能力。
 
@@ -362,7 +362,7 @@ updated: 2026-11-25
 > *As Kitchin and Lauriault (2014: 4–5) state, data infrastructures are always '[... ] expressions of knowledge/power, shaping what questions can be asked, how they are asked, how they are answered, how the answers are deployed, and who can ask them' (see also Ruppert et al., 2017). In other words, monitoring infrastructures create what West (2017: 1) describes as limited '[ ... ] second-hand representations of important objects of analysis' that administrators use to speak on behalf of the school, the teacher or the student.*
 
 > [!citation-card] 培育数据基础设施素养的时代紧迫性
-> 在这种背景下，我们完全赞同格雷等学者的主张，即不能仅仅呼吁传统意义上识读与操作数据集技能的[[Data Literacy\|数据素养]]，而是迫切需要所谓的数据基础设施素养，即解释、介入并参与到创造、存储和分析数据的更广泛社会-技术基础设施之中的能力。这要求对运转中的数据基础设施展开极为严密的经验考察。
+> Gray et al. (2018) 主张在识读和操作数据集的[[Data Literacy\|数据素养]]基础上，尽快培养数据基础设施素养，使人们能够解释数据生成、存储和分析所依赖的社会-技术基础设施，并参与和干预其运作。这需要对数据基础设施的实际运作开展严密的经验考察。
 >
 > *Against this backdrop, we fully agree with Gray et al. (2018: 1) that instead of (only) calling for data literacy in the sense of competencies in reading and working with datasets, there is a pressing need for so-called data infrastructure literacy, which is '[ ... ] the ability to [[Accounts\|account]] for, intervene around and participate in the wider socio-technical infrastructures through which data is created, stored and analysed'. This, however, requires close empirical observation of data infrastructures at work, not only in the [[Champ\|field]] of education but also with regard to wider issues of governance, data-driven policy-making and the organisation of the state.*
 

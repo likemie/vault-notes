@@ -206,6 +206,8 @@
     "Achufusi-Aka (2011)": "Achufusi-Aka, 2011",
     "Achufusi-Aka, 2011": "Achufusi-Aka, 2011",
     "Acker (1990)": "Acker, 1990",
+    "Acker et al. (2019)": "Acker et al., 2019",
+    "Acker et al., 2019": "Acker et al., 2019",
     "Acker, 1990": "Acker, 1990",
     "Ackrill & Kay (2006)": "Ackrill & Kay, 2006",
     "Ackrill & Kay, 2006": "Ackrill & Kay, 2006",
@@ -686,6 +688,10 @@
     "Allen, 2015": "Allen, 2015",
     "Allen, 2017": "Allen, 2017",
     "Allen, 2018": "Allen, 2018",
+    "Allen-Collinson (2007)": "Allen-Collinson, 2007",
+    "Allen-Collinson (2009)": "Allen-Collinson, 2009",
+    "Allen-Collinson, 2007": "Allen-Collinson, 2007",
+    "Allen-Collinson, 2009": "Allen-Collinson, 2009",
     "Alliaud (1993)": "Alliaud, 1993",
     "Alliaud, 1993": "Alliaud, 1993",
     "Allinder (2001)": "Allinder, 2001",
@@ -1685,6 +1691,7 @@
     "Baker (2013)": "Baker, 2013",
     "Baker (2014)": "Baker, 2014",
     "Baker (2015)": "Baker, 2015",
+    "Baker (2016)": "Baker, 2016",
     "Baker (2019)": "Baker, 2019",
     "Baker (2020)": "Baker, 2020",
     "Baker (2022)": "Baker, 2022",
@@ -1707,6 +1714,7 @@
     "Baker, 2013": "Baker, 2013",
     "Baker, 2014": "Baker, 2014",
     "Baker, 2015": "Baker, 2015",
+    "Baker, 2016": "Baker, 2016",
     "Baker, 2019": "Baker, 2019",
     "Baker, 2020": "Baker, 2020",
     "Baker, 2022": "Baker, 2022",
@@ -1843,6 +1851,8 @@
     "Bannigan, 2007": "Bannigan, 2007",
     "Bannister & Mair (1968)": "Bannister & Mair, 1968",
     "Bannister & Mair, 1968": "Bannister & Mair, 1968",
+    "Bansel et al. (2008)": "Bansel et al., 2008",
+    "Bansel et al., 2008": "Bansel et al., 2008",
     "Banuazizi & Movahedi (1975)": "Banuazizi & Movahedi, 1975",
     "Banuazizi & Movahedi, 1975": "Banuazizi & Movahedi, 1975",
     "Banville et al. (2000)": "Banville et al., 2000",
@@ -2037,6 +2047,8 @@
     "Barton, 1964": "Barton, 1964",
     "Barton, 2002": "Barton, 2002",
     "Barton, 2023": "Barton, 2023",
+    "Bartram (2018)": "Bartram, 2018",
+    "Bartram, 2018": "Bartram, 2018",
     "Baruah & Paulus (2008)": "Baruah & Paulus, 2008",
     "Baruah & Paulus, 2008": "Baruah & Paulus, 2008",
     "Barwick et al. (2009)": "Barwick et al., 2009",
@@ -2055,6 +2067,8 @@
     "Bas et al. (2017)": "Bas et al., 2017",
     "Bas et al., 2017": "Bas et al., 2017",
     "Bas, 2021": "Bas, 2021",
+    "Basalla & Debelius (2008)": "Basalla & Debelius, 2008",
+    "Basalla & Debelius, 2008": "Basalla & Debelius, 2008",
     "Basar et al. (2016)": "Basar et al., 2016",
     "Basar et al., 2016": "Basar et al., 2016",
     "Basil Bernstein (1974)": "Basil Bernstein, 1974",
@@ -3347,6 +3361,8 @@
     "Bowman-Perrott et al., 2013": "Bowman-Perrott et al., 2013",
     "Bowne et al. (2017)": "Bowne et al., 2017",
     "Bowne et al., 2017": "Bowne et al., 2017",
+    "Bowness (2015)": "Bowness, 2015",
+    "Bowness, 2015": "Bowness, 2015",
     "Bowyer‐Crane (2008)": "Bowyer‐Crane, 2008",
     "Bowyer‐Crane, 2008": "Bowyer‐Crane, 2008",
     "Boxer (1969)": "Boxer, 1969",
@@ -6343,17 +6359,23 @@
     "Davidson, 2013": "Davidson, 2013",
     "Davie (1972)": "Davie, 1972",
     "Davie, 1972": "Davie, 1972",
+    "Davies & Bansel (2010)": "Davies & Bansel, 2010",
+    "Davies & Bansel, 2010": "Davies & Bansel, 2010",
     "Davies (1997)": "Davies, 1997",
     "Davies (1999)": "Davies, 1999",
     "Davies (2000)": "Davies, 2000",
+    "Davies (2006)": "Davies, 2006",
     "Davies (2011)": "Davies, 2011",
     "Davies (2020)": "Davies, 2020",
     "Davies (2022)": "Davies, 2022",
+    "Davies et al. (2006)": "Davies et al., 2006",
     "Davies et al. (2008)": "Davies et al., 2008",
+    "Davies et al., 2006": "Davies et al., 2006",
     "Davies et al., 2008": "Davies et al., 2008",
     "Davies, 1997": "Davies, 1997",
     "Davies, 1999": "Davies, 1999",
     "Davies, 2000": "Davies, 2000",
+    "Davies, 2006": "Davies, 2006",
     "Davies, 2011": "Davies, 2011",
     "Davies, 2020": "Davies, 2020",
     "Davies, 2022": "Davies, 2022",
@@ -6683,6 +6705,8 @@
     "Deveney, 2005": "Deveney, 2005",
     "Deville et al. (2014)": "Deville et al., 2014",
     "Deville et al., 2014": "Deville et al., 2014",
+    "Devos (2004)": "Devos, 2004",
+    "Devos, 2004": "Devos, 2004",
     "Dewald et al. (2010)": "Dewald et al., 2010",
     "Dewald et al., 2010": "Dewald et al., 2010",
     "Dewey (1902)": "Dewey, 1902",
@@ -8800,6 +8824,7 @@
     "Foucault (1980)": "Foucault, 1980",
     "Foucault (1988)": "Foucault, 1988",
     "Foucault (1998)": "Foucault, 1998",
+    "Foucault (2003)": "Foucault, 2003",
     "Foucault (2004)": "Foucault, 2004",
     "Foucault, 1971": "Foucault, 1971",
     "Foucault, 1976": "Foucault, 1976",
@@ -8808,6 +8833,7 @@
     "Foucault, 1980": "Foucault, 1980",
     "Foucault, 1988": "Foucault, 1988",
     "Foucault, 1998": "Foucault, 1998",
+    "Foucault, 2003": "Foucault, 2003",
     "Foucault, 2004": "Foucault, 2004",
     "Fourcade (2006)": "Fourcade, 2006",
     "Fourcade, 2006": "Fourcade, 2006",
@@ -9678,12 +9704,14 @@
     "Gilbert, 1961": "Gilbert, 1961",
     "Gilbert, 2013": "Gilbert, 2013",
     "Gilbert, 2017": "Gilbert, 2017",
+    "Gill (2010)": "Gill, 2010",
     "Gill and others (2016)": "Gill and others, 2016",
     "Gill and others, 2016": "Gill and others, 2016",
     "Gill et al. (2007)": "Gill et al., 2007",
     "Gill et al. (2016)": "Gill et al., 2016",
     "Gill et al., 2007": "Gill et al., 2007",
     "Gill et al., 2016": "Gill et al., 2016",
+    "Gill, 2010": "Gill, 2010",
     "Gillborn & Gipps (1996)": "Gillborn & Gipps, 1996",
     "Gillborn & Gipps, 1996": "Gillborn & Gipps, 1996",
     "Gillborn (2016)": "Gillborn, 2016",
@@ -10313,6 +10341,8 @@
     "Great Transformation, 1944": "Great Transformation, 1944",
     "Green & Castanheira (2012)": "Green & Castanheira, 2012",
     "Green & Castanheira, 2012": "Green & Castanheira, 2012",
+    "Green & Little (2016)": "Green & Little, 2016",
+    "Green & Little, 2016": "Green & Little, 2016",
     "Green (1963)": "Green, 1963",
     "Green (1990)": "Green, 1990",
     "Green (1997)": "Green, 1997",
@@ -11117,6 +11147,8 @@
     "Harris (2013)": "Harris, 2013",
     "Harris Cooper & Ashley Koenka (2012)": "Harris Cooper & Ashley Koenka, 2012",
     "Harris Cooper & Ashley Koenka, 2012": "Harris Cooper & Ashley Koenka, 2012",
+    "Harris et al. (2019)": "Harris et al., 2019",
+    "Harris et al., 2019": "Harris et al., 2019",
     "Harris, 1998": "Harris, 1998",
     "Harris, 2006": "Harris, 2006",
     "Harris, 2013": "Harris, 2013",
@@ -11647,6 +11679,8 @@
     "Heward, 1988": "Heward, 1988",
     "Hewson et al. (2003)": "Hewson et al., 2003",
     "Hewson et al., 2003": "Hewson et al., 2003",
+    "Hey (2001)": "Hey, 2001",
+    "Hey, 2001": "Hey, 2001",
     "Heyard et al. (2022)": "Heyard et al., 2022",
     "Heyard et al., 2022": "Heyard et al., 2022",
     "Heyneman (1999)": "Heyneman, 1999",
@@ -12594,6 +12628,8 @@
     "Isusi & Corral, 2007": "Isusi & Corral, 2007",
     "Ito (2020)": "Ito, 2020",
     "Ito, 2020": "Ito, 2020",
+    "Ivancheva et al. (2019)": "Ivancheva et al., 2019",
+    "Ivancheva et al., 2019": "Ivancheva et al., 2019",
     "Ivankova & Stick (2007)": "Ivankova & Stick, 2007",
     "Ivankova & Stick, 2007": "Ivankova & Stick, 2007",
     "Ivankova et al. (2006)": "Ivankova et al., 2006",
@@ -13244,6 +13280,7 @@
     "Jones (2009b)": "Jones, 2009b",
     "Jones (2010a)": "Jones, 2010a",
     "Jones (2010b)": "Jones, 2010b",
+    "Jones (2013)": "Jones, 2013",
     "Jones (2015)": "Jones, 2015",
     "Jones (2016)": "Jones, 2016",
     "Jones (2017)": "Jones, 2017",
@@ -13268,6 +13305,7 @@
     "Jones, 2010": "Jones, 2010a",
     "Jones, 2010a": "Jones, 2010b",
     "Jones, 2010b": "Jones, 2010b",
+    "Jones, 2013": "Jones, 2013",
     "Jones, 2015": "Jones, 2015",
     "Jones, 2016": "Jones, 2016",
     "Jones, 2017": "Jones, 2017",
@@ -14385,6 +14423,8 @@
     "Knauer, 2020": "Knauer, 2020",
     "Kneese (1996)": "Kneese, 1996",
     "Kneese, 1996": "Kneese, 1996",
+    "Knight & Lightowler (2010)": "Knight & Lightowler, 2010",
+    "Knight & Lightowler, 2010": "Knight & Lightowler, 2010",
     "Knight (1930)": "Knight, 1930",
     "Knight (2011)": "Knight, 2011",
     "Knight (2012)": "Knight, 2012",
@@ -14707,6 +14747,8 @@
     "Krowka et al., 2017": "Krowka et al., 2017",
     "Krueger (1988)": "Krueger, 1988",
     "Krueger, 1988": "Krueger, 1988",
+    "Kruger (2018)": "Kruger, 2018",
+    "Kruger, 2018": "Kruger, 2018",
     "Kruglanski (1990)": "Kruglanski, 1990",
     "Kruglanski, 1990": "Kruglanski, 1990",
     "Krugman (1994)": "Krugman, 1994",
@@ -15089,6 +15131,8 @@
     "Lamote, 2014": "Lamote, 2014",
     "Lampe (1996)": "Lampe, 1996",
     "Lampe, 1996": "Lampe, 1996",
+    "Land (2004)": "Land, 2004",
+    "Land, 2004": "Land, 2004",
     "Landers & Reddock (2017)": "Landers & Reddock, 2017",
     "Landers & Reddock, 2017": "Landers & Reddock, 2017",
     "Landfield (1971)": "Landfield, 1971",
@@ -16024,6 +16068,8 @@
     "Littell, 2000": "Littell, 2000",
     "Littig (2009)": "Littig, 2009",
     "Littig, 2009": "Littig, 2009",
+    "Little & Green (2012)": "Little & Green, 2012",
+    "Little & Green, 2012": "Little & Green, 2012",
     "Little & Rubin (1989)": "Little & Rubin, 1989",
     "Little & Rubin, 1989": "Little & Rubin, 1989",
     "Little (1991)": "Little, 1991",
@@ -16444,12 +16490,14 @@
     "Lyman (1981)": "Lyman, 1981",
     "Lyman, 1981": "Lyman, 1981",
     "Lynch (1973)": "Lynch, 1973",
+    "Lynch (2010)": "Lynch, 2010",
     "Lynch (2017)": "Lynch, 2017",
     "Lynch et al. (2019)": "Lynch et al., 2019",
     "Lynch et al. (2021)": "Lynch et al., 2021",
     "Lynch et al., 2019": "Lynch et al., 2019",
     "Lynch et al., 2021": "Lynch et al., 2021",
     "Lynch, 1973": "Lynch, 1973",
+    "Lynch, 2010": "Lynch, 2010",
     "Lynch, 2017": "Lynch, 2017",
     "Lynn & Irwing (2008)": "Lynn & Irwing, 2008",
     "Lynn & Irwing, 2008": "Lynn & Irwing, 2008",
@@ -16613,6 +16661,8 @@
     "Macdonald, 2017": "Macdonald, 2017",
     "Macdonald, 2018": "Macdonald, 2018",
     "Macdonald, 2021": "Macdonald, 2021",
+    "Macfarlane (2011)": "Macfarlane, 2011",
+    "Macfarlane, 2011": "Macfarlane, 2011",
     "Machamer et al. (2000)": "Machamer et al., 2000",
     "Machamer et al., 2000": "Machamer et al., 2000",
     "Machtmes & Asher (2000)": "Machtmes & Asher, 2000",
@@ -16715,6 +16765,8 @@
     "Maier, 1997": "Maier, 1997",
     "Maietta (2015)": "Maietta, 2015",
     "Maietta, 2015": "Maietta, 2015",
+    "Maistry (2012)": "Maistry, 2012",
+    "Maistry, 2012": "Maistry, 2012",
     "Maitra et al. (2014)": "Maitra et al., 2014",
     "Maitra et al., 2014": "Maitra et al., 2014",
     "Majid (2022)": "Majid, 2022",
@@ -16771,6 +16823,8 @@
     "Manaf et al., 2022": "Manaf et al., 2022",
     "Manathunga & Brew (2012)": "Manathunga & Brew, 2012",
     "Manathunga & Brew, 2012": "Manathunga & Brew, 2012",
+    "Manathunga (2007)": "Manathunga, 2007",
+    "Manathunga, 2007": "Manathunga, 2007",
     "Mandinach & Gummer (2016)": "Mandinach & Gummer, 2016",
     "Mandinach & Gummer, 2016": "Mandinach & Gummer, 2016",
     "Mangan (1986)": "Mangan, 1986",
@@ -20510,6 +20564,8 @@
     "Peters, 2010b": "Peters, 2010b",
     "Peters, 2013": "Peters, 2013",
     "Petersen (1991)": "Petersen, 1991",
+    "Petersen (2007)": "Petersen, 2007",
+    "Petersen (2014)": "Petersen, 2014",
     "Petersen (2015)": "Petersen, 2015",
     "Petersen (2018)": "Petersen, 2018",
     "Petersen (2021)": "Petersen, 2021",
@@ -20518,6 +20574,8 @@
     "Petersen et al., 2012": "Petersen et al., 2012",
     "Petersen et al., 2014": "Petersen et al., 2014",
     "Petersen, 1991": "Petersen, 1991",
+    "Petersen, 2007": "Petersen, 2007",
+    "Petersen, 2014": "Petersen, 2014",
     "Petersen, 2015": "Petersen, 2015",
     "Petersen, 2018": "Petersen, 2018",
     "Petersen, 2021": "Petersen, 2021",
@@ -20838,6 +20896,8 @@
     "Polanyi, 1982": "Polanyi, 1982",
     "Polat & Turhan (2022)": "Polat & Turhan, 2022",
     "Polat & Turhan, 2022": "Polat & Turhan, 2022",
+    "Poli (2018)": "Poli, 2018",
+    "Poli, 2018": "Poli, 2018",
     "Polit & Beck (2006)": "Polit & Beck, 2006",
     "Polit & Beck, 2006": "Polit & Beck, 2006",
     "Politécnico de Coimbra (2023)": "Politécnico de Coimbra, 2023",
@@ -20941,9 +21001,11 @@
     "Posholi (2020)": "Posholi, 2020",
     "Posholi, 2020": "Posholi, 2020",
     "Posner (1961)": "Posner, 1961",
+    "Posner (2013)": "Posner, 2013",
     "Posner et al. (1982)": "Posner et al., 1982",
     "Posner et al., 1982": "Posner et al., 1982",
     "Posner, 1961": "Posner, 1961",
+    "Posner, 2013": "Posner, 2013",
     "Postiglione (2011)": "Postiglione, 2011",
     "Postiglione, 2011": "Postiglione, 2011",
     "Pothast (1982)": "Pothast, 1982",
@@ -22584,6 +22646,8 @@
     "Ryle (1949)": "Ryle, 1949",
     "Ryle, 1946": "Ryle, 1946",
     "Ryle, 1949": "Ryle, 1949",
+    "Ryttberg & Geschwind (2017)": "Ryttberg & Geschwind, 2017",
+    "Ryttberg & Geschwind, 2017": "Ryttberg & Geschwind, 2017",
     "Rzhetsky et al. (2015)": "Rzhetsky et al., 2015",
     "Rzhetsky et al., 2015": "Rzhetsky et al., 2015",
     "Réka Albert (1999)": "Réka Albert, 1999",
@@ -23353,6 +23417,8 @@
     "Schulz, 1991": "Schulz, 1991",
     "Schulze (2004)": "Schulze, 2004",
     "Schulze, 2004": "Schulze, 2004",
+    "Schuman (2014)": "Schuman, 2014",
+    "Schuman, 2014": "Schuman, 2014",
     "Schumann (2012)": "Schumann, 2012",
     "Schumann, 2012": "Schumann, 2012",
     "Schumpeter (1908)": "Schumpeter, 1908",
@@ -24384,12 +24450,14 @@
     "Smith et al. (2013)": "Smith et al., 2013",
     "Smith et al. (2020a)": "Smith et al., 2020a",
     "Smith et al. (2020b)": "Smith et al., 2020b",
+    "Smith et al. (2021)": "Smith et al., 2021",
     "Smith et al., 2000": "Smith et al., 2000",
     "Smith et al., 2011": "Smith et al., 2011",
     "Smith et al., 2013": "Smith et al., 2013",
     "Smith et al., 2020": "Smith et al., 2020b",
     "Smith et al., 2020a": "Smith et al., 2020a",
     "Smith et al., 2020b": "Smith et al., 2020b",
+    "Smith et al., 2021": "Smith et al., 2021",
     "Smith, 1968": "Smith, 1968",
     "Smith, 1970": "Smith, 1970",
     "Smith, 1975": "Smith, 1975",
@@ -25493,6 +25561,12 @@
     "Syverson, 2011": "Syverson, 2011",
     "Szczurek (1982)": "Szczurek, 1982",
     "Szczurek, 1982": "Szczurek, 1982",
+    "Szekeres (2004)": "Szekeres, 2004",
+    "Szekeres (2006)": "Szekeres, 2006",
+    "Szekeres (2011)": "Szekeres, 2011",
+    "Szekeres, 2004": "Szekeres, 2004",
+    "Szekeres, 2006": "Szekeres, 2006",
+    "Szekeres, 2011": "Szekeres, 2011",
     "Szondi (1974)": "Szondi, 1974",
     "Szondi, 1974": "Szondi, 1974",
     "Szumski et al. (2017)": "Szumski et al., 2017",
@@ -27775,8 +27849,13 @@
     "Whicker, 1997": "Whicker, 1997",
     "Whiston et al. (2011)": "Whiston et al., 2011",
     "Whiston et al., 2011": "Whiston et al., 2011",
-    "Whitchurch (2008)": "Whitchurch, 2008",
-    "Whitchurch, 2008": "Whitchurch, 2008",
+    "Whitchurch (2006)": "Whitchurch, 2006",
+    "Whitchurch (2008a)": "Whitchurch, 2008a",
+    "Whitchurch (2008b)": "Whitchurch, 2008b",
+    "Whitchurch, 2006": "Whitchurch, 2006",
+    "Whitchurch, 2008": "Whitchurch, 2008b",
+    "Whitchurch, 2008a": "Whitchurch, 2008a",
+    "Whitchurch, 2008b": "Whitchurch, 2008b",
     "White & Casto (1985)": "White & Casto, 1985",
     "White & Casto, 1985": "White & Casto, 1985",
     "White & Wade (1988)": "White & Wade, 1988",
@@ -29235,6 +29314,8 @@
     "von Saldern, 2006": "von Saldern, 2006",
     "von Stumm & Ackerman (2013)": "von Stumm & Ackerman, 2013",
     "von Stumm & Ackerman, 2013": "von Stumm & Ackerman, 2013",
+    "Åkerlind (2005)": "Åkerlind, 2005",
+    "Åkerlind, 2005": "Åkerlind, 2005",
     "Çavus & Deniz (2022)": "Çavus & Deniz, 2022",
     "Çavus & Deniz, 2022": "Çavus & Deniz, 2022",
     "Çer (2016)": "Çer, 2016",
@@ -31500,6 +31581,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "The effect of self-regulated learning on academic achievement of secondary school physics students"
+    },
+    "Acker et al., 2019": {
+      "aliases": [
+        "Acker et al., 2019",
+        "Acker et al. (2019)"
+      ],
+      "doi": "10.47989/kpdc67",
+      "identity_keys": [
+        "Acker et al., 2019"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md"
+      ],
+      "title": "The work of university research administrators: Praxis and professionalization"
     },
     "Acker, 1990": {
       "aliases": [
@@ -34966,6 +35062,34 @@
         "wiki/concepts/educational-policy-reform/Evidence Standards.md"
       ],
       "title": ""
+    },
+    "Allen-Collinson, 2007": {
+      "aliases": [
+        "Allen-Collinson, 2007",
+        "Allen-Collinson (2007)"
+      ],
+      "doi": "10.1080/03075070701346832",
+      "identity_keys": [
+        "Allen-Collinson, 2007"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md"
+      ],
+      "title": "‘Get yourself some nice, neat, matching box files!’ Research administrators and occupational identity work"
+    },
+    "Allen-Collinson, 2009": {
+      "aliases": [
+        "Allen-Collinson, 2009",
+        "Allen-Collinson (2009)"
+      ],
+      "doi": "10.1080/03075070902755641",
+      "identity_keys": [
+        "Allen-Collinson, 2009"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "‘Negative ‘marking’? University research administrators and the contestation of moral exclusion"
     },
     "Alliaud, 1993": {
       "aliases": [
@@ -42473,6 +42597,21 @@
       "seen_in": [],
       "title": "Using regression discontinuity to test the impact of a tier 2 reading intervention in first grade"
     },
+    "Baker, 2016": {
+      "aliases": [
+        "Baker, 2016",
+        "Baker (2016)"
+      ],
+      "doi": "10.1080/03075079.2016.1147718",
+      "identity_keys": [
+        "Baker, 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md"
+      ],
+      "title": "Women graduates and the workplace: Continuing challenges for academic women"
+    },
     "Baker, 2019": {
       "aliases": [
         "Baker, 2019",
@@ -43517,6 +43656,19 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25.md"
       ],
       "title": ""
+    },
+    "Bansel et al., 2008": {
+      "aliases": [
+        "Bansel et al., 2008",
+        "Bansel et al. (2008)"
+      ],
+      "doi": "10.1080/03075070802457017",
+      "identity_keys": [
+        "Bansel et al., 2008"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Technologies of audit at work on the writing subject: A discursive analysis"
     },
     "Banuazizi & Movahedi, 1975": {
       "aliases": [
@@ -44946,6 +45098,19 @@
       ],
       "title": ""
     },
+    "Bartram, 2018": {
+      "aliases": [
+        "Bartram, 2018",
+        "Bartram (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bartram, 2018"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "The sublimated grief of the left behind"
+    },
     "Baruah & Paulus, 2008": {
       "aliases": [
         "Baruah & Paulus, 2008",
@@ -45080,6 +45245,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Relation between Student Mental Health and Academic Achievement Revisited: A Meta-Analysis. In Health and Academic Achievement-New Findings."
+    },
+    "Basalla & Debelius, 2008": {
+      "aliases": [
+        "Basalla & Debelius, 2008",
+        "Basalla & Debelius (2008)"
+      ],
+      "doi": "10.7208/chicago/9780226038995.001.0001",
+      "identity_keys": [
+        "Basalla & Debelius, 2008"
+      ],
+      "isbn": "9780226038995",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md"
+      ],
+      "title": "So what are you going to do with that?': Finding careers outside academia"
     },
     "Basar et al., 2016": {
       "aliases": [
@@ -54695,6 +54875,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "A Meta-Analysis of Class Sizes and Ratios in Early Childhood Education Programs: Are Thresholds of Quality Associated With Greater Impacts on Cognitive, Achievement, and Socioemotional Outcomes?"
+    },
+    "Bowness, 2015": {
+      "aliases": [
+        "Bowness, 2015",
+        "Bowness (2015)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bowness, 2015"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md"
+      ],
+      "title": "What’s up with alt-ac careers?"
     },
     "Bowyer‐Crane, 2008": {
       "aliases": [
@@ -76634,6 +76829,34 @@
       ],
       "title": ""
     },
+    "Davies & Bansel, 2010": {
+      "aliases": [
+        "Davies & Bansel, 2010",
+        "Davies & Bansel (2010)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Davies & Bansel, 2010"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Governmentality and academic work: Shaping the hearts and minds of academic workers"
+    },
+    "Davies et al., 2006": {
+      "aliases": [
+        "Davies et al., 2006",
+        "Davies et al. (2006)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Davies et al., 2006"
+      ],
+      "isbn": "9780335219438",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md"
+      ],
+      "title": "The ambivalent practices of reflexivity"
+    },
     "Davies et al., 2008": {
       "aliases": [
         "Davies et al., 2008",
@@ -76696,12 +76919,28 @@
       "identity_keys": [
         "Davies, 2000"
       ],
-      "isbn": "",
+      "isbn": "9780742503403",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17.md",
+        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md",
         "wiki/methods/qualitative/Systematic Review.md"
       ],
-      "title": ""
+      "title": "A body of writing, 1990-1999"
+    },
+    "Davies, 2006": {
+      "aliases": [
+        "Davies, 2006",
+        "Davies (2006)"
+      ],
+      "doi": "10.1080/01425690600802907",
+      "identity_keys": [
+        "Davies, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md"
+      ],
+      "title": "Subjectification: The relevance of butler’s analysis for education"
     },
     "Davies, 2011": {
       "aliases": [
@@ -79126,6 +79365,21 @@
         "wiki/concepts/science-policy/Scientific Mobility.md"
       ],
       "title": ""
+    },
+    "Devos, 2004": {
+      "aliases": [
+        "Devos, 2004",
+        "Devos (2004)"
+      ],
+      "doi": "10.1080/0307507042000261562",
+      "identity_keys": [
+        "Devos, 2004"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md"
+      ],
+      "title": "Women, research and the politics of professional development"
     },
     "Dewald et al., 2010": {
       "aliases": [
@@ -94690,6 +94944,19 @@
       ],
       "title": ""
     },
+    "Foucault, 2003": {
+      "aliases": [
+        "Foucault, 2003",
+        "Foucault (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Foucault, 2003"
+      ],
+      "isbn": "9781565848016",
+      "seen_in": [],
+      "title": "Technologies of the self"
+    },
     "Foucault, 2004": {
       "aliases": [
         "Foucault, 2004",
@@ -101073,6 +101340,19 @@
       ],
       "title": ""
     },
+    "Gill, 2010": {
+      "aliases": [
+        "Gill, 2010",
+        "Gill (2010)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Gill, 2010"
+      ],
+      "isbn": "9780415481793",
+      "seen_in": [],
+      "title": "Breaking the silence: The hidden injuries of neo-liberal academia"
+    },
     "Gillborn & Gipps, 1996": {
       "aliases": [
         "Gillborn & Gipps, 1996",
@@ -105685,6 +105965,21 @@
         "wiki/arguments/books/Matthews(Ed.)_2018_Springer/Argument_Kelly_Licona_2018_EpistemicPractices.md"
       ],
       "title": ""
+    },
+    "Green & Little, 2016": {
+      "aliases": [
+        "Green & Little, 2016",
+        "Green & Little (2016)"
+      ],
+      "doi": "10.1080/1360144X.2015.1046875",
+      "identity_keys": [
+        "Green & Little, 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md"
+      ],
+      "title": "Family portrait: A profile of educational developers around the world"
     },
     "Green, 1963": {
       "aliases": [
@@ -111655,6 +111950,21 @@
       ],
       "title": ""
     },
+    "Harris et al., 2019": {
+      "aliases": [
+        "Harris et al., 2019",
+        "Harris et al. (2019)"
+      ],
+      "doi": "10.1080/03075079.2017.1396584",
+      "identity_keys": [
+        "Harris et al., 2019"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md"
+      ],
+      "title": "Academic careers and parenting: Identity, performance and surveillance"
+    },
     "Harris, 1998": {
       "aliases": [
         "Harris, 1998",
@@ -115616,6 +115926,19 @@
         "wiki/methods/quantitative/Internet-based Survey.md"
       ],
       "title": ""
+    },
+    "Hey, 2001": {
+      "aliases": [
+        "Hey, 2001",
+        "Hey (2001)"
+      ],
+      "doi": "10.1080/02680930110041447",
+      "identity_keys": [
+        "Hey, 2001"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "The construction of academic time: Sub/contracting academic labour in research"
     },
     "Heyard et al., 2022": {
       "aliases": [
@@ -122519,6 +122842,19 @@
       "seen_in": [],
       "title": "Effects of class-size reduction on cognitive and non-cognitive skills"
     },
+    "Ivancheva et al., 2019": {
+      "aliases": [
+        "Ivancheva et al., 2019",
+        "Ivancheva et al. (2019)"
+      ],
+      "doi": "10.1111/gwao.12350",
+      "identity_keys": [
+        "Ivancheva et al., 2019"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Precarity, gender and care in the neoliberal academy"
+    },
     "Ivankova & Stick, 2007": {
       "aliases": [
         "Ivankova & Stick, 2007",
@@ -127297,6 +127633,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "A school-randomized clinical trial of an integrated social-emotional learning and literacy intervention  Impacts after 1 school year."
+    },
+    "Jones, 2013": {
+      "aliases": [
+        "Jones, 2013",
+        "Jones (2013)"
+      ],
+      "doi": "10.1007/s12564-013-9251-3",
+      "identity_keys": [
+        "Jones, 2013"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md"
+      ],
+      "title": "The horizontal and vertical fragmentation of academic work and the challenge for academic governance and leadership"
     },
     "Jones, 2015": {
       "aliases": [
@@ -135441,6 +135792,21 @@
       "seen_in": [],
       "title": "Impact of the year-round calendar on student achievement in Alameda unified school district"
     },
+    "Knight & Lightowler, 2010": {
+      "aliases": [
+        "Knight & Lightowler, 2010",
+        "Knight & Lightowler (2010)"
+      ],
+      "doi": "10.1332/174426410X535891",
+      "identity_keys": [
+        "Knight & Lightowler, 2010"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md"
+      ],
+      "title": "Reflections of ‘knowledge exchange professionals’ in the social sciences: Emerging opportunities and challenges for university-based knowledge brokers"
+    },
     "Knight, 1930": {
       "aliases": [
         "Knight, 1930",
@@ -137735,6 +138101,21 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21.md"
       ],
       "title": ""
+    },
+    "Kruger, 2018": {
+      "aliases": [
+        "Kruger, 2018",
+        "Kruger (2018)"
+      ],
+      "doi": "10.1038/d41586-018-05838-y",
+      "identity_keys": [
+        "Kruger, 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md"
+      ],
+      "title": "Why It is not a ‘failure’ to leave academia"
     },
     "Kruglanski, 1990": {
       "aliases": [
@@ -140445,6 +140826,19 @@
       "isbn": "",
       "seen_in": [],
       "title": "Effects of Cooperative Learning Among Hispanic Students in Elementary Social Studies"
+    },
+    "Land, 2004": {
+      "aliases": [
+        "Land, 2004",
+        "Land (2004)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Land, 2004"
+      ],
+      "isbn": "9780335213160",
+      "seen_in": [],
+      "title": "Educational development: Discourse, identity and practice"
     },
     "Landers & Reddock, 2017": {
       "aliases": [
@@ -146531,7 +146925,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md",
+        "wiki/facts/germany/Gesamtschule.md"
       ],
       "title": "Meta-Analysen als Wegweiser? Zur Rezeption der Studie von Hattie in der Politik"
     },
@@ -147218,6 +147613,19 @@
         "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Rohde-Liebenau_Graf_2024_EERJ.md"
       ],
       "title": "Interviewing the elite interviewing experts: Is There a difference?"
+    },
+    "Little & Green, 2012": {
+      "aliases": [
+        "Little & Green, 2012",
+        "Little & Green (2012)"
+      ],
+      "doi": "10.1080/1360144X.2012.700895",
+      "identity_keys": [
+        "Little & Green, 2012"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Betwixt and between: Academic developers in the margins"
     },
     "Little & Rubin, 1989": {
       "aliases": [
@@ -150267,6 +150675,21 @@
       ],
       "title": ""
     },
+    "Lynch, 2010": {
+      "aliases": [
+        "Lynch, 2010",
+        "Lynch (2010)"
+      ],
+      "doi": "10.1177/1474022209350104",
+      "identity_keys": [
+        "Lynch, 2010"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md"
+      ],
+      "title": "Carelessness: A hidden doxa of higher education"
+    },
     "Lynch, 2017": {
       "aliases": [
         "Lynch, 2017",
@@ -151452,6 +151875,19 @@
       "seen_in": [],
       "title": "Evaluation of a 12-week classroom-based gross motor program designed to enhance motor proficiency, mathematics and reading outcomes of Year 1 school children  A pilot study"
     },
+    "Macfarlane, 2011": {
+      "aliases": [
+        "Macfarlane, 2011",
+        "Macfarlane (2011)"
+      ],
+      "doi": "10.1111/j.1468-2273.2010.00467.x",
+      "identity_keys": [
+        "Macfarlane, 2011"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "The morphing of academic practice: Unbundling and the rise of the para-academic"
+    },
     "Machamer et al., 2000": {
       "aliases": [
         "Machamer et al., 2000",
@@ -152196,6 +152632,19 @@
       ],
       "title": ""
     },
+    "Maistry, 2012": {
+      "aliases": [
+        "Maistry, 2012",
+        "Maistry (2012)"
+      ],
+      "doi": "10.20853/26-3-184",
+      "identity_keys": [
+        "Maistry, 2012"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Confronting the neo-liberal brute: Reflections of a higher education middle manager"
+    },
     "Maitra et al., 2014": {
       "aliases": [
         "Maitra et al., 2014",
@@ -152597,11 +153046,24 @@
       "identity_keys": [
         "Manathunga & Brew, 2012"
       ],
-      "isbn": "",
+      "isbn": "9780415615648",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md"
       ],
-      "title": ""
+      "title": "Beyond tribes and territories new metaphors for new times"
+    },
+    "Manathunga, 2007": {
+      "aliases": [
+        "Manathunga, 2007",
+        "Manathunga (2007)"
+      ],
+      "doi": "10.1080/13601440701217287",
+      "identity_keys": [
+        "Manathunga, 2007"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "‘Unhomely’ academic developer identities: More post-colonial explorations"
     },
     "Mandinach & Gummer, 2016": {
       "aliases": [
@@ -180040,6 +180502,34 @@
       "seen_in": [],
       "title": "Effects of Cooperative Learning on Perceived Status of Male and Female Pupils"
     },
+    "Petersen, 2007": {
+      "aliases": [
+        "Petersen, 2007",
+        "Petersen (2007)"
+      ],
+      "doi": "10.1080/03075070701476167",
+      "identity_keys": [
+        "Petersen, 2007"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md"
+      ],
+      "title": "Negotiating academicity: Postgraduate research supervision as category boundary work"
+    },
+    "Petersen, 2014": {
+      "aliases": [
+        "Petersen, 2014",
+        "Petersen (2014)"
+      ],
+      "doi": "10.1080/03075079.2012.745337",
+      "identity_keys": [
+        "Petersen, 2014"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Re-signifying subjectivity? A narrative exploration of ‘non-traditional’ doctoral students’ lived experience of subject formation through two Australian cases"
+    },
     "Petersen, 2015": {
       "aliases": [
         "Petersen, 2015",
@@ -182417,6 +182907,21 @@
       "seen_in": [],
       "title": "A meta-analysis study on the relationship between mathematical literacy and mathematics achievement in PISA tests."
     },
+    "Poli, 2018": {
+      "aliases": [
+        "Poli, 2018",
+        "Poli (2018)"
+      ],
+      "doi": "10.1016/B978-0-12-805059-0.00001-8",
+      "identity_keys": [
+        "Poli, 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md"
+      ],
+      "title": "Who are today’s research managers?: Roles, professional development, and evolution of the profession"
+    },
     "Polit & Beck, 2006": {
       "aliases": [
         "Polit & Beck, 2006",
@@ -183237,6 +183742,21 @@
         "wiki/theories/political-economy-geopolitics/Evolutionary Economics.md"
       ],
       "title": ""
+    },
+    "Posner, 2013": {
+      "aliases": [
+        "Posner, 2013",
+        "Posner (2013)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Posner, 2013"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md"
+      ],
+      "title": "The jobs we want?"
     },
     "Postiglione, 2011": {
       "aliases": [
@@ -195268,6 +195788,21 @@
       ],
       "title": ""
     },
+    "Ryttberg & Geschwind, 2017": {
+      "aliases": [
+        "Ryttberg & Geschwind, 2017",
+        "Ryttberg & Geschwind (2017)"
+      ],
+      "doi": "10.1080/13583883.2017.1322631",
+      "identity_keys": [
+        "Ryttberg & Geschwind, 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md"
+      ],
+      "title": "Professional support staff at higher education institutions in Sweden: Roles and success factors for the job"
+    },
     "Rzhetsky et al., 2015": {
       "aliases": [
         "Rzhetsky et al., 2015",
@@ -200924,6 +201459,21 @@
         "wiki/concepts/research-methodology/Publication Bias.md"
       ],
       "title": ""
+    },
+    "Schuman, 2014": {
+      "aliases": [
+        "Schuman, 2014",
+        "Schuman (2014)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Schuman, 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md"
+      ],
+      "title": "The revolutionary notion that Ph.D.s working outside academia are not miserable failures"
     },
     "Schumann, 2012": {
       "aliases": [
@@ -208226,6 +208776,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "The effects of family-school partnership interventions on academic and social emotional functioning."
+    },
+    "Smith et al., 2021": {
+      "aliases": [
+        "Smith et al., 2021",
+        "Smith et al. (2021)"
+      ],
+      "doi": "10.1080/1360080X.2021.1884513",
+      "identity_keys": [
+        "Smith et al., 2021"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md"
+      ],
+      "title": "‘So what do you do?’: Third space professionals navigating a Canadian university context"
     },
     "Smith, 1968": {
       "aliases": [
@@ -216408,6 +216973,47 @@
       "isbn": "",
       "seen_in": [],
       "title": "Meta-analysis of simulation games effectiveness for cognitive learning"
+    },
+    "Szekeres, 2004": {
+      "aliases": [
+        "Szekeres, 2004",
+        "Szekeres (2004)"
+      ],
+      "doi": "10.1080/1360080042000182500",
+      "identity_keys": [
+        "Szekeres, 2004"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "The invisible workers"
+    },
+    "Szekeres, 2006": {
+      "aliases": [
+        "Szekeres, 2006",
+        "Szekeres (2006)"
+      ],
+      "doi": "10.1080/13600800600750962",
+      "identity_keys": [
+        "Szekeres, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "General staff experiences in the corporate university"
+    },
+    "Szekeres, 2011": {
+      "aliases": [
+        "Szekeres, 2011",
+        "Szekeres (2011)"
+      ],
+      "doi": "10.1080/1360080X.2011.621193",
+      "identity_keys": [
+        "Szekeres, 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md"
+      ],
+      "title": "Professional staff carve out a new space"
     },
     "Szondi, 1974": {
       "aliases": [
@@ -232872,18 +233478,46 @@
       "seen_in": [],
       "title": "School counseling outcome: A meta-analytic examination of interventions."
     },
-    "Whitchurch, 2008": {
+    "Whitchurch, 2006": {
       "aliases": [
-        "Whitchurch, 2008",
-        "Whitchurch (2008)"
+        "Whitchurch, 2006",
+        "Whitchurch (2006)"
+      ],
+      "doi": "10.1080/13600800600751002",
+      "identity_keys": [
+        "Whitchurch, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Who do they think they are? The changing identities of professional administrators and managers in UK higher education"
+    },
+    "Whitchurch, 2008a": {
+      "aliases": [
+        "Whitchurch, 2008a",
+        "Whitchurch (2008a)"
+      ],
+      "doi": "10.1080/13600800802383042",
+      "identity_keys": [
+        "Whitchurch, 2008a"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Beyond administration and management: Reconstructing the identities of professional staff in UK higher education"
+    },
+    "Whitchurch, 2008b": {
+      "aliases": [
+        "Whitchurch, 2008b",
+        "Whitchurch (2008b)"
       ],
       "doi": "https://doi.org/10.1111/j.1468-2273.2008.00387.x",
       "identity_keys": [
-        "Whitchurch, 2008"
+        "Whitchurch, 2008",
+        "Whitchurch, 2008b"
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md"
+        "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md",
+        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md"
       ],
       "title": "Shifting identities and blurring boundaries: The emergence of Third Space professionals in UK higher education"
     },
@@ -243180,6 +243814,19 @@
       "isbn": "",
       "seen_in": [],
       "title": "Investment and Intellect: A Review and Meta-Analysis"
+    },
+    "Åkerlind, 2005": {
+      "aliases": [
+        "Åkerlind, 2005",
+        "Åkerlind (2005)"
+      ],
+      "doi": "10.1080/0729436052000318550",
+      "identity_keys": [
+        "Åkerlind, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Postdoctoral researchers: Roles, functions and career prospects"
     },
     "Çavus & Deniz, 2022": {
       "aliases": [
