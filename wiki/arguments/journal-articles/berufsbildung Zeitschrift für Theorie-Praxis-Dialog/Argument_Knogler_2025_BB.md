@@ -40,13 +40,15 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Scaffolding]]"
   - "[[Recommendations for Practice]]"
+  - "[[Evidence-Based Teaching]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Academic Achievement]]"
   - "[[Attitude Towards Content Domains]]"
+  - "[[Academicity]]"
   - "[[Heterogeneity]]"
+  - "[[Student Attitude]]"
   - "[[Interaction Effect]]"
   - "[[Intelligent Tutoring Systems]]"
-  - "[[Student Attitude]]"
   - "[[Effective Teaching]]"
   - "[[Further Education]]"
 related_theories: []
@@ -75,14 +77,14 @@ sources:
 part_of: ""
 status: draft
 created: 2026-09-18
-updated: 2026-11-21
+updated: 2026-11-25
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Knogler_2025_BB"
 argument_key: "Argument_Knogler_2025_BB"
 argument_display_title: "Clearing House Unterricht: Ein innovativer Ansatz zur Stärkung des Wissenschaft-Praxis-Transfers in der Lehrkräftebildung"
 argument_kind: "journal-article"
-argument_related_count: 40
+argument_related_count: 42
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -183,7 +185,7 @@ journal: "berufsbildung: Zeitschrift für Theorie-Praxis-Dialog"
 > 1. **严苛标准与高质量证据筛选** 专家团队制定统一规范，[[FocusMath\|聚焦数学]]与自然科学等学科中探讨教学有效性的当代[[Meta-analysis\|元分析]]，重点吸收基于[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trials, RCT）的高因果信度成果。
 > 2. **轻量化科研简要评价（Kurzreviews）** 将厚重复杂的元分析原著二次加工为结构明晰的简评（Kurzreviews），直观呈现教学策略的效能大小、实施条件与[[Recommendations for Practice\|实践建议]]。
 > 3. **多媒体与概念普及资源** 配套推出专题学术播客，并针对[[Effect Size\|效应量]]（Effektstärke）等核心概念开发教学指南与在线术语表（Online-Glossar），扫清理解障碍。
-> 4. **体系化数字学院课程（CHU-Academy）** 设立在线自学培训模块，涵盖科学证据通识课以及针对探究学习等具体循证教学策略的深化课程。
+> 4. **体系化数字学院课程（CHU-Academy）** 设立在线自学培训模块，涵盖科学证据通识课以及针对探究学习等具体[[Evidence-Based Teaching|循证教学]]策略的深化课程。
 
 > [!sub-claim] 2. 循证转化案例剖析：数字化教学工具元分析的实践转译
 
@@ -196,14 +198,14 @@ Hillmayr et al. (2020) 在国际学术期刊 *Computers & Education* 上发表�
 
 > [!case] 典范转化案例：从数字工具元分析到 Kurzreview
 > - **[[Primary and Secondary Documents\|原始文献]]基底** Hillmayr et al. (2020) 检索了 2000 年以来全球针对中学数学与自然科学教学的 92 项实验与准[[Experimental Research\|实验研究]]（$k = 92$），检验数字化工具对学生[[Academic Achievement\|学业成就]]与[[Attitude Towards Content Domains|学科态度]]的影响。
-> - **转译标题主张化** 原始标题为学术性描述，CHU 简评将其改写为行动导向的实践发问：“课堂中的数字化工具：有哪些类型以及如何有效应用？”（*Digitale Tools im Unterricht: Welche Typen gibt es und wie kommen sie effektiv zum Einsatz?*）。
+> - **转译标题主张化** 原始标题为[[Academicity|学术性]]描述，CHU 简评将其改写为行动导向的实践发问：“课堂中的数字化工具：有哪些类型以及如何有效应用？”（*Digitale Tools im Unterricht: Welche Typen gibt es und wie kommen sie effektiv zum Einsatz?*）。
 > - **核心概念超级链接** 简评正文中所有专业统计术语均带有下划线，直接超链接至平台在线术语表（Online-Glossar），实现即时概念脚手架。
 > - **配套多媒体扩展** 简评右上角直接内嵌播客图标，受众可一键收听专访学者对该研究微观教学机制的深度对话。
 
 在简要评价首页，清算中心将复杂的[[Meta-regression|元回归]]与[[Heterogeneity|异质性]]检验提炼为结构化决策参数：
 
 > [!effect-summary]- 元分析核心证据概览（METAANALYSE IM ÜBERBLICK）
-> - **研究焦点（Fokus der Studie）** 检验数字化工具对学业成绩以及对数学与自然科学学科态度的综合因果影响。
+> - **研究焦点（Fokus der Studie）** 检验数字化工具对学业成绩以及对数学与自然科学学科[[Student Attitude|态度]]的综合因果影响。
 > - **调查目标群体（Untersuchte Zielgruppe）** 中学阶段学生。
 > - **平均效应量（Durchschnittliche Effektstärke）** 对学业成绩产生中等程度且统计显著的正向效应（Hedges' $g = 0.65, p < .001$）；对学科态度产生较小但统计显著的正向效应（Hedges' $g = 0.45$）。
 > - **其他重要发现（Weitere Befunde）** 教师专业培训对数字化工具的教学效果具有极显著的[[Interaction Effect\|调节效应]]；[[Intelligent Tutoring Systems\|智能辅导系统]]（Intelligent Tutoring Systems, ITS）与动态模拟软件的效果显著优于传统超媒体系统。

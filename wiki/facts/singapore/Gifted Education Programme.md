@@ -25,7 +25,6 @@ tags:
   - theme/elite-schooling
 related_concepts:
   - "[[Tracking]]"
-  - "[[Genius]]"
   - "[[Creativity]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Mentorship]]"
@@ -40,6 +39,7 @@ related_concepts:
   - "[[Curricular Form]]"
   - "[[Ability-Driven Education]]"
   - "[[Sacred and Profane Knowledge]]"
+  - "[[Academicity]]"
 related_theories:
   - "[[Developmental State]]"
 related_methods: []
@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-25
 ---
 
 ---
@@ -76,7 +76,7 @@ updated: 2026-11-19
 ---
 
 > [!claim] 政策核心
-> 新加坡[[Genius|天才]]教育计划（Gifted Education Programme, GEP）是通过全国统一的多阶段标准化测验，在初等教育低年段精准遴选排名前 1% 的极少数资优儿童，将其集中配置于少数历史名校开展高难度个性化深层探究培育的国家拔尖人才战略。该计划致力于将学术严谨性、人文情怀与领导力担当相融合，为新加坡政界与商业领袖蓄水池源源不断输送顶尖英才。[[Argument_Lim_2015_CurricInq|(Lim & Apple, 2015, p. 476)]]
+> 新加坡天才教育计划（Gifted Education Programme, GEP）是通过全国统一的多阶段标准化测验，在初等教育低年段精准遴选排名前 1% 的极少数资优儿童，将其集中配置于少数历史名校开展高难度个性化深层探究培育的国家拔尖人才战略。该计划致力于将学术严谨性、人文情怀与领导力担当相融合，为新加坡政界与商业领袖蓄水池源源不断输送顶尖英才。[[Argument_Lim_2015_CurricInq|(Lim & Apple, 2015, p. 476)]]
 
 > [!policy-design] 政策设计
 > - **两轮严密选拔机制** 每年向全岛小学三年级学生开放初选。第一轮为全国统一筛选测验（Screening Test），考核基础英文与数学；排名前 10% 者受邀参加第二轮选拔测验（Selection Test），深度评估高级英语、数学洞察力与综合空间逻辑潜能，最终录取前 1% 顶尖生源（每届约 400 至 500 人）。
@@ -152,7 +152,7 @@ updated: 2026-11-19
 > | [[Goh Report]] | 政策 | 奠定依据儿童学业接受能力实施精细化多轨分流的顶层战略蓝图。 |
 > | [[Independent Schools Initiative]] | 政策 | GEP 毕业生升入中等教育后实现学术衔接的主要顶尖公办自治学校阵地。 |
 > | [[Integrated Programme]] | 政策 | 为 GEP 学生提供免考 O 水准直接通向大学预科与国际名校的高端贯通机制。 |
-> | [[Primary School Leaving Examination]] | 政策 | GEP 学生在小学阶段面临的唯一国家级统一学术资格终结性统考。 |
+> | [[Primary School Leaving Examination]] | 政策 | GEP 学生在小学阶段面临的唯一国家级统一[[Academicity\|学术资格]]终结性统考。 |
 
 ---
 

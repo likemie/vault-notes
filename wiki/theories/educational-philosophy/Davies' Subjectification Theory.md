@@ -8,7 +8,7 @@ aliases:
 summary: "澳大利亚学者布朗温·戴维斯（Bronwyn Davies）基于福柯权力话语理论与巴特勒主体化论述发展出的主体生成理论。主张主体是在特定话语秩序与权力关系网络中动态生成的产物。个体成为被认可的合法主体，依赖于同时屈从于既有话语规范并精熟驾驭该话语实践的双重悖论过程。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 26
+theory_related_count: 27
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Neoliberalism]]"
   - "[[Pedagogical Subject]]"
+  - "[[Academicity]]"
   - "[[Third Space Discourse]]"
   - "[[Research Administrator]]"
   - "[[Champ]]"
@@ -77,7 +78,7 @@ updated: 2026-11-25
 
 > [!dev-timeline] 理论版本与贡献
 > - **2006 — 戴维斯确立教育主体化双重悖论[[Analytic Framework|分析框架]]** 戴维斯系统提出主体化兼具屈从（submission）与精熟（mastery）的核心命题，确立受激进情境条件制约的能动性（radically conditioned agency）概念。
-> - **2007–2014 — 彼得森等推进学术性与学术主体合法性研究** 丹麦学者埃娃·本迪克斯·彼得森（Eva Bendix Petersen）将戴维斯理论迁移至高等教育领域，提出学术资格（academicity）的概念，阐明学者如何在学术话语共同体中被判定为可理解的合法主体。
+> - **2007–2014 — 彼得森等推进[[Academicity|学术性]]与学术主体合法性研究** 丹麦学者埃娃·本迪克斯·彼得森（Eva Bendix Petersen）将戴维斯理论迁移至高等教育领域，提出学术资格（academicity）的概念，阐明学者如何在学术话语共同体中被判定为可理解的合法主体。
 > - **2023 — 范德克洛特与坎皮西扩展至高校[[Third Space Discourse|第三空间]]专业群体** 玛丽·范德克洛特（Marie Vander Kloet）与凯特琳·坎皮西（Caitlin Campisi）将该理论运用于[[Research Administrator|大学科研管理人员]]研究，揭示非教职专业人员如何通过叙事在屈从学术至上话语的同时确立自身合法的学术主体性。[[Argument_VanderKloet_Campisi_2023_JHEPM|(Vander Kloet & Campisi, 2023)]]
 
 ---

@@ -9,7 +9,7 @@ aliases:
 summary: "由 Cavanaugh et al. (2000) 开创，并经 LePine et al. (2005) 与 Podsakoff et al. (2007, 2023) 系统完善的职业压力与行为分析理论框架；该框架突破了传统压力研究的单一负面视角，将工作场所压力源划分为个体认为克服后可促进学习成长与成就的挑战性压力源，以及个体认为直接阻碍目标达成并无端消耗资源的阻碍性压力源，两类压力源通过相异的认知评价与心理机制对动机、创造力与绩效产生截然相反的作用。"
 type: theory
 theory_field: "higher-education"
-theory_related_count: 10
+theory_related_count: 11
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Early-Career Researchers]]"
   - "[[Construct Validity]]"
   - "[[Research Question]]"
+  - "[[Academicity]]"
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-04
-updated: 2026-11-15
+updated: 2026-11-25
 ---
 
 ---
@@ -107,7 +108,7 @@ updated: 2026-11-15
 > | 理论依据 | 分析维度与提问 | 可观察线索与材料 | 判读规则与边界 |
 > |:---------|:---------------|:-----------------|:-----------------|
 > | 挑战性压力源构件<br>(LePine et al., 2005) | 当前学术环境中的竞争与任务要求是否具备激发智力潜能与学术成长的特征？ | 学术攻关目标复杂度、同侪前沿竞争强度、重大国家战略需求牵引。 | 若竞争程度与创新绩效呈正相关，且伴随强烈的求知兴趣，支持挑战性压力判定。 |
-> | 阻碍性压力源构件<br>(Podsakoff et al., 2007) | 科研组织与管理体系中是否存在直接阻抑学者潜心钻研的制度性消耗因素？ | 考核频次、报销审计流程耗时、非学术性行政填表负担、聘期考核不安全感。 | 若压力直接诱发短期功利化避险行为并损害学术探索定力，支持阻碍性压力判定。 |
+> | 阻碍性压力源构件<br>(Podsakoff et al., 2007) | 科研组织与管理体系中是否存在直接阻抑学者潜心钻研的制度性消耗因素？ | 考核频次、报销审计流程耗时、非[[Academicity\|学术性]]行政填表负担、聘期考核不安全感。 | 若压力直接诱发短期功利化避险行为并损害学术探索定力，支持阻碍性压力判定。 |
 > | 应对资源与环境支持<br>[[Argument_Mo_2026_BNSFC\|(莫申江等, 2026, p. 21)]] | 学术组织是否提供足以对冲阻碍性压力的保护性支持环境？ | 充足稳定的科研设备、资深学者方向点拨指导、容许探索失败的宽松政策氛围。 | 充裕支持资源能够显著削弱阻碍性压力的负向效应，保护青年学者的长期主义导向。 |
 
 ---

@@ -21,7 +21,10 @@ tags:
 related_concepts:
   - "[[Critic and Conscience of Society]]"
   - "[[Visible Learning]]"
+  - "[[Opportunity Structure]]"
   - "[[Educational Reductionism]]"
+  - "[[Social Economy]]"
+  - "[[Evidence-Based Teaching]]"
   - "[[Academic Freedom]]"
   - "[[New Managerialism]]"
   - "[[Theoretical Standpoint]]"
@@ -29,6 +32,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Class Size]]"
   - "[[Variable]]"
+  - "[[Academicity]]"
   - "[[Academic Achievement]]"
   - "[[Cultural Capital]]"
   - "[[Champ]]"
@@ -53,14 +57,14 @@ sources:
 part_of: ""
 status: completed
 created: '2026-05-07'
-updated: 2026-11-11
+updated: 2026-11-25
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Grace_2010_NZJES"
 argument_key: "Argument_Grace_2010_NZJES"
 argument_display_title: "Reflection on the university and the academic as 'critic and conscience of society'"
 argument_kind: "journal-article"
-argument_related_count: 23
+argument_related_count: 27
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -72,12 +76,12 @@ journal: New Zealand Journal of Educational Studies
 > [[John Hattie|约翰·哈蒂]]（John Hattie）在《新西兰教育研究杂志》（New Zealand Journal of Educational Studies, NZJES）第 45 卷第 1 期发表《论成为[[Critic and Conscience of Society|社会的批评者与良知]]》（*On being a "critic and conscience of society"*），以《[[Visible Learning|可见的学习]]》（*Visible Learning*）实证[[Meta-analysis|元分析]]为依据介入[[New Zealand National Standards|新西兰国家标准]]（National Standards）与公共教育政策论争，自称履行了新西兰立法赋予学者的该项法定角色。作为该立法短语的提议者与起草人，[[Gerald Grace|杰拉尔德·格雷斯]]（Gerald Grace）追问：哈蒂是否准确理解并真正履行了大学学者作为[[Critic and Conscience of Society|社会的批评者与良知]]的法定规范角色？
 
 > [!claim] 核心主张
-> 哈蒂混淆了学术领域内部的技术性批评者与面向权力与公众的社会批评者与良知的根本边界；《可见的学习》将社会阶级、物质贫困与社区条件等非学校因素排除在考察范围之外，违背了社会批评者与良知必须代表社会整体生活机会结构的规范职责，构成了将学业差距化约为纯粹校内教学安排的[[Educational Reductionism|教育还原主义]]，在客观上为政策制定者回避深层社会经济不平等的治理责任提供了免责工具。
+> 哈蒂混淆了学术领域内部的技术性批评者与面向权力与公众的社会批评者与良知的根本边界；《可见的学习》将社会阶级、物质贫困与社区条件等非学校因素排除在考察范围之外，违背了社会批评者与良知必须代表社会整体生活[[Opportunity Structure|机会结构]]的规范职责，构成了将学业差距化约为纯粹校内教学安排的[[Educational Reductionism|教育还原主义]]，在客观上为政策制定者回避深层[[Social Economy|社会经济]]不平等的治理责任提供了免责工具。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 1988 年新西兰后义务教育与培训审查档案、霍克报告文本、哈蒂 2010 年争鸣文章及《可见的学习》（2009）对待非学校因素的方法论取向。
 > - **张力** 学科内部关于教学与评估有效性的技术性学术批评，与直面社会阶级结构、向权力说真话的制度性公共批判之间的角色张力。
-> - **贡献** 从高等教育制度史与教育社会学规范立场出发，界定了新西兰法案中社会的批评者与良知的不可剥离要素（涵盖非学校因素），揭示了去语境化的循证教学论在政治经济学维度的保守后果。
+> - **贡献** 从高等教育制度史与教育社会学规范立场出发，界定了新西兰法案中社会的批评者与良知的不可剥离要素（涵盖非学校因素），揭示了去语境化的[[Evidence-Based Teaching|循证教学论]]在政治经济学维度的保守后果。
 
 ---
 
@@ -197,7 +201,7 @@ journal: New Zealand Journal of Educational Studies
 > | **服务对象** | 面向学科专业共同体与同行学者。 | 面向公众、公民社会与执政权力。 |
 > | **问题领域** | 聚焦评估工具、教学方法与学习效能等系统内部问题。 | 聚焦社会正义、制度安排、权力分配与公众福祉。 |
 > | **结构[[Variable\|变量]]** | 倾向于控制、剔除或视其为不可控的外部噪音。 | 必须将非学校结构性变量置于分析的核心位置。 |
-> | **学术性质** | 教育学教授被期待承担的常规技术性学术工作。 | 承担民主制度制衡职能、向权力讲真话的法定公共使命。 |
+> | **[[Academicity\|学术性]]质** | 教育学教授被期待承担的常规技术性学术工作。 | 承担民主制度制衡职能、向权力讲真话的法定公共使命。 |
 > | **政治功能** | 为教育系统内部流程优化提供技术参数。 | 独立核查政府政策言论，抵御意识形态控制。 |
 
 > [!sub-claim] 2. 学科内部工作无法支撑社会良知的正当性

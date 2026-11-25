@@ -20,22 +20,27 @@ tags:
   - multi-level
 related_concepts:
   - "[[International Education]]"
+  - "[[Area Studies]]"
   - "[[Disciplinary Institutionalization]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Epistemic Stances]]"
   - "[[Determinism]]"
   - "[[Ecological Validity]]"
+  - "[[Quick and Dirty Evaluation]]"
+  - "[[Decentering the Nation-State]]"
   - "[[Context in Comparative Education]]"
   - "[[Discourse]]"
   - "[[Scale in Higher Education]]"
   - "[[Unit of Analysis]]"
-  - "[[Champ]]"
+  - "[[Development Expert]]"
   - "[[Document]]"
   - "[[Discipline-Based Theory]]"
   - "[[Multilateral Development Bank]]"
   - "[[Ways of Knowing]]"
+  - "[[Academicity]]"
   - "[[Structural Adjustment Programs]]"
+  - "[[Champ]]"
   - "[[Rich and Thick Description]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Reflexivity]]"
@@ -43,28 +48,34 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Instrumental Rationality]]"
   - "[[Variable]]"
-  - "[[Research Tool]]"
-  - "[[Multiplist]]"
 related_theories:
   - "[[Situative Perspective]]"
   - "[[Human Capital Theory]]"
+  - "[[Ideological Model of Literacy]]"
   - "[[Pluri-Scalar Governance]]"
 related_methods:
   - "[[Case Study]]"
   - "[[Vertical Case Study]]"
+  - "[[Multilevel Comparative Analysis]]"
   - "[[Fieldwork]]"
   - "[[Analytic Framework]]"
-  - "[[Accounts]]"
 related_instruments: []
 related_persons:
-  - "[[Alexandre de Rhodes]]"
+  - "[[Frances Vavrus]]"
+  - "[[Lesley Bartlett]]"
+  - "[[Mark Bray]]"
+  - "[[Michael Crossley]]"
   - "[[Patricia Broadfoot]]"
+  - "[[Ruth Hayhoe]]"
+  - "[[Verna Masemann]]"
   - "[[Joel Samoff]]"
   - "[[Val D. Rust]]"
+  - "[[Alexandre de Rhodes]]"
 related_facts:
   - "[[Comparative and International Education Society]]"
   - "[[UNESCO]]"
   - "[[Education for All]]"
+  - "[[Comparatively Speaking]]"
   - "[[Global Education Monitoring Report]]"
   - "[[International Monetary Fund]]"
   - "[[World Bank]]"
@@ -75,17 +86,17 @@ part_of:
   - "[[wiki/methods/qualitative/Vertical Case Study|Vertical Case Study]]"
 status: draft
 created: 2026-11-19
-updated: 2026-11-20
+updated: 2026-11-25
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Vavrus_2006_CICE"
 argument_key: "Argument_Vavrus_2006_CICE"
 argument_display_title: "Comparatively knowing: Making a case for the vertical case study"
 argument_kind: "journal-article"
-argument_related_count: 44
-argument_related_level: 4
-argument_related_stars: "💎⭐"
-argument_related_color: "#dbeafe"
+argument_related_count: 55
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 journal: "Current Issues in Comparative Education"
 book_title: ""
 publication_place: ""
@@ -104,7 +115,7 @@ issuing_organization: ""
 > [!concept-lens] 阅读透镜
 > - **对象** 比较与国际教育的方法论根基与研究生培养制度，重点剖析国际发展援助咨询、教育政策评估、成人扫盲度量以及公共卫生干预等跨尺度教育治理现象。
 > - **张力** 宏观抽象政策宣示的应然修辞与微观实地复杂样貌的实然实践发生严重脱节；无视情境特异性强推普适通则的普遍主义，与将差异绝对化为不可比孤岛的极端相对主义产生认识论对立；国际短期咨询中轻率浮泛的[[Quick and Dirty Evaluation|快餐式评估]]对支配性权力与知识格局实施盲目再生产。
-> - **贡献** 正式提出垂直案例研究作为贯通微观与宏观的质性比较设计；拓展了[[Mark Bray|马克·布雷]]与拉姆齐·托马斯（Mark Bray & R. Murray Thomas）的[[Multilevel Comparative Analysis|多层分析立方体]]（Bray & Thomas, 1995）并为其奠定认识论依据；践行[[Decentering the Nation-State|去民族国家中心化]]，构建贯通地方-国家-全球的立体比较范式，重塑了兼顾[[Area Studies|区域研究]]深度与跨学科方法广度的高层次学者培养规程。
+> - **贡献** 正式提出垂直案例研究作为贯通微观与宏观的质性比较设计；拓展了[[Mark Bray|马克·布雷]]与拉姆齐·托马斯（Mark Bray & R. Murray Thomas）的多层分析立方体（Bray & Thomas, 1995）并为其奠定认识论依据；践行[[Decentering the Nation-State|去民族国家中心化]]，构建贯通地方-国家-全球的立体比较范式，重塑了兼顾[[Area Studies|区域研究]]深度与跨学科方法广度的高层次学者培养规程。
 
 ---
 
@@ -113,27 +124,27 @@ issuing_organization: ""
 > |---|---|
 > | **[[Context in Comparative Education\|比较教育情境观]]**<br>Broadfoot (1999) | 确立微观具体情境对理解教育过程的认识论强制性，打破将背景视作封闭物理容器的传统假定，赋予地方情境知识与官方权威[[Discourse\|话语]]对等的对话地位。 |
 > | **[[Multilevel Comparative Analysis\|多层分析框架]]**<br>Bray and Thomas (1995) | 划分地理区位尺度、非地理人口特征与社会力量三维空间；从方法论拓展至认识论，论证单一[[Scale in Higher Education\|尺度分析]]必然导致情境剥离与解释失真。 |
-> | **[[Ecological Validity\|生态效度与个案传统]]**<br>[[Michael Crossley|Crossley]] and Vulliamy (1984) | 确立知识的情境特异性原则，即一个情境中的发现不能假设在另一情境成立，揭示政策宣示修辞与地方实际实践之间的结构性鸿沟。 |
+> | **[[Ecological Validity\|生态效度与个案传统]]**<br>[[Michael Crossley\|Crossley]] and Vulliamy (1984) | 确立知识的情境特异性原则，即一个情境中的发现不能假设在另一情境成立，揭示政策宣示修辞与地方实际实践之间的结构性鸿沟。 |
 > | **[[Decentering the Nation-State\|去中心化的比较教育理论]]**<br>Marginson and Mollis (2001) | 解构民族国家作为唯一基本[[Unit of Analysis\|分析单元]]的垄断地位，提出协调普遍主义与极端相对主义的分析原则，指引对不同尺度间相似性与差异性的双重审视。 |
-> | **权力/知识生产政治**<br>Parpart (1995); Samoff (1999) | 批判国际发展机构对[[Development Expert|发展专家]]角色的建构与短期咨询中的依附关系，阐明缺乏地方承载者的自上而下改革难以避免失败命运的机制。 |
+> | **权力/知识生产政治**<br>Parpart (1995); Samoff (1999) | 批判国际发展机构对[[Development Expert\|发展专家]]角色的建构与短期咨询中的依附关系，阐明缺乏地方承载者的自上而下改革难以避免失败命运的机制。 |
 
 > [!warrant]- 理论如何支撑论证
-> 四项理论工具紧密支撑核心论证。[[Michael Crossley|克罗斯利]]与武利亚米（Michael Crossley & Graham Vulliamy）的生态效度原则（Crossley & Vulliamy, 1984）与布[[Alexandre de Rhodes|罗德]]富特（[[Patricia Broadfoot]]）的[[Situative Perspective|情境观]]（Broadfoot, 1999）确立了微观地方情境知识的不可替代性；[[Mark Bray|布雷]]与托马斯的多层分析构想（Bray & Thomas, 1995）经注入认识论基础，揭示了单一宏观尺度的决定论偏误；马金森与莫利斯（Simon Marginson & Marcela Mollis）的全球化理论（Marginson & Mollis, 2001）与发展援助政治批判（Parpart, 1995; Samoff, 1999）相互印证，解构了民族国家的单一中心地位，从而使垂直案例研究成为贯通微观行动与宏观全球权力的严整桥梁。
+> 四项理论工具紧密支撑核心论证。[[Michael Crossley|克罗斯利]]与武利亚米（Michael Crossley & Graham Vulliamy）的生态效度原则（Crossley & Vulliamy, 1984）与布罗德富特（[[Patricia Broadfoot]]）的[[Situative Perspective|情境观]]（Broadfoot, 1999）确立了微观地方情境知识的不可替代性；[[Mark Bray|布雷]]与托马斯的多层分析构想（Bray & Thomas, 1995）经注入认识论基础，揭示了单一宏观尺度的决定论偏误；马金森与莫利斯（Simon Marginson & Marcela Mollis）的全球化理论（Marginson & Mollis, 2001）与发展援助政治批判（Parpart, 1995; Samoff, 1999）相互印证，解构了民族国家的单一中心地位，从而使垂直案例研究成为贯通微观行动与宏观全球权力的严整桥梁。
 
 ---
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **认识论与学术史批判** | 结合 CIES 成立 50 周年的学科史料，系统梳理半个世纪以来方法论与学术建制的分歧演变，批判定性与定量、[[Area Studies|区域研究]]与学科研究等二元对立的认识论局限。 |
-> | **概念重构与范式建构** | 汲取多层分析与生态效度理论，建构垂直案例研究的分析架构，确立立足首要[[Champ\|场域]]、纵向贯通微观与宏观权力的操作逻辑。 |
+> | **认识论与学术史批判** | 结合 CIES 成立 50 周年的学科史料，系统梳理半个世纪以来方法论与学术建制的分歧演变，批判定性与定量、[[Area Studies\|区域研究]]与学科研究等二元对立的认识论局限。 |
+> | **概念重构与范式建构** | 汲取多层分析与生态效度理论，建构垂直案例研究的分析架构，确立立足首要场域、纵向贯通微观与宏观权力的操作逻辑。 |
 > | **经验反例与政策[[Document\|文献]]剖析** | 剖析成人扫盲与艾滋病预防干预的实证文献，结合[[UNESCO\|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）[[Education for All\|全民教育]]（Education for All, EFA）全球监测报告，揭示单一宏观模型因剥离微观情境导致的数据不可比与政策落空机制。 |
-> | **培养规程与制度设计** | 针对比较教育高层次研究生培养面临的深度与广度分裂，设计整合多学年[[Area Studies|区域研究]]、扎实[[Discipline-Based Theory\|学科理论]]与跨学科研究方法训练的博士生培养规程。 |
+> | **培养规程与制度设计** | 针对比较教育高层次研究生培养面临的深度与广度分裂，设计整合多学年[[Area Studies\|区域研究]]、扎实[[Discipline-Based Theory\|学科理论]]与跨学科研究方法训练的博士生培养规程。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
-> | **学科史料** | CIES 成立 50 周年口述史纪录片《[[Comparatively Speaking|相对而言]]》（*Comparatively Speaking*；Steiner-Khamsi & Johnson, 2006）、历任会长就职演说（[[Ruth Hayhoe|Hayhoe]], 2006; [[Verna Masemann|Masemann]], 1990）以及学术界关于区域研究与学科建制的专题讨论记录（Merkx et al., 2006）。 |
+> | **学科史料** | CIES 成立 50 周年口述史纪录片《[[Comparatively Speaking\|相对而言]]》（*Comparatively Speaking*；Steiner-Khamsi & Johnson, 2006）、历任会长就职演说（[[Ruth Hayhoe\|Hayhoe]], 2006; [[Verna Masemann\|Masemann]], 1990）以及学术界关于区域研究与学科建制的专题讨论记录（Merkx et al., 2006）。 |
 > | **实证研究文献** | 发展中国家成人扫盲政策与微观人类学实证研究（Ahearn, 2001; Bartlett, 2006, 2007; Dyer & Choksi, 1998; Kulick & Stroud, 1993; Luke, 1996; Street, 1984）、UNESCO《[[Global Education Monitoring Report\|全民教育全球监测报告]]》（UNESCO, 2006）、乐施会教育报告（K. Watkins, 2001）以及坦桑尼亚结构调整实证考察（Vavrus, 2005）。 |
 > | **制度考察情境** | 国际[[Multilateral Development Bank\|多边开发银行]]、双边援助机构、国家教育部、地方学区与微观学校社区之间的多层治理互动情境。 |
 
@@ -148,7 +159,7 @@ issuing_organization: ""
 >     C --> E["提出垂直案例研究（VCS）"]
 >     D --> E
 >     E --> F["立足首要场域，贯通微观行动、国家政策与全球治理网络"]
->     E --> G["[[Decentering the Nation-State|去中心化民族国家]]，超越普遍主义与极端相对主义"]
+>     E --> G["去中心化民族国家，超越普遍主义与极端相对主义"]
 >     E --> H["抵制[[Quick and Dirty Evaluation|快餐式评估]]，避免再生产支配性权力与知识格局"]
 >     F --> I["重塑研究生培养规程：兼顾区域研究深度与跨学科方法广度"]
 >     G --> I
@@ -168,7 +179,7 @@ issuing_organization: ""
 
 > [!dimension] 学科口述史展现的三重建制分立
 > - **比较教育与国际教育的建制分立**
->   学者群体分化于追求普遍规律的学术性比较教育与投身应用开发、国际发展援助的国际教育之间，形成制度性壁垒（[[Comparatively Speaking|Steiner-Khamsi & Johnson, 2006]]）。
+>   学者群体分化于追求普遍规律的[[Academicity|学术性]]比较教育与投身应用开发、国际发展援助的国际教育之间，形成制度性壁垒（Steiner-Khamsi & Johnson, 2006）。
 > - **理论建构与政策实践的目标脱离**
 >   大学学者偏重纯理论建构，与多边援助机构从事短期咨询的实务人员缺乏建设性对话。
 > - **操作程序争端与深层认识论缺位**
@@ -192,7 +203,7 @@ issuing_organization: ""
 ---
 
 > [!claim|step] 论证步骤二　垂直个案贯通多层网络，赋予基层经验对等的证据地位
-> 垂直案例研究立足具体的首要场域，自下而上穿透微观、国家与国际多重尺度，将不同社会位置行动者的知识主张并置考察。这一设计打破了传统个案研究的封闭边界，让长期被边缘化的地方情境知识获得与官方政策文本平等的审视地位。
+> 垂直案例研究立足具体的首要[[Champ|场域]]，自下而上穿透微观、国家与国际多重尺度，将不同社会位置行动者的知识主张并置考察。这一设计打破了传统个案研究的封闭边界，让长期被边缘化的地方情境知识获得与官方政策文本平等的审视地位。
 
 > [!sub-claim] 1. 打破封闭场所限制，把地方田野接入宏观权力网络
 
@@ -268,9 +279,9 @@ issuing_organization: ""
 > 1. **长时段区域深度研习**
 >    开展为期数年的区域研究训练，系统掌握特定区域的本土语言、历史脉络与文化底蕴，为长期深入的微观田野工作奠定基础。
 > 2. **学科理论与跨学科视野拓展**
->    依托具体学科基础理论（如社会学、人类学或经济学）确立概念[[Analytic Framework|分析框架]]，并引入布罗德富特所倡导的跨学科方法，以理解微观、国家与国际[[Variable|变量]]的复杂互动（Broadfoot, 1999, p. 227）。
+>    依托具体学科基础理论（如社会学、人类学或经济学）确立概念[[Analytic Framework|分析框架]]，并引入布[[Alexandre de Rhodes|罗德]]富特所倡导的跨学科方法，以理解微观、国家与国际[[Variable|变量]]的复杂互动（Broadfoot, 1999, p. 227）。
 > 3. **质性与量化综合方法训练**
->    系统研习定性与定量多重[[Research Tool|研究工具]]，使研究者具备同时穿透政策宏观数据与微观田野细节的技术能力。
+>    系统研习定性与定量多重研究工具，使研究者具备同时穿透政策宏观数据与微观田野细节的技术能力。
 > 4. **长期社区沉浸与生态效度强化**
 >    确立以社区实质参与为核心的研究取向，显著增强博士学位研究的生态效度，建立研究者与实地场域长久互动的学术纽带。
 
@@ -292,7 +303,7 @@ issuing_organization: ""
 > [!citation-card] [[Frances Vavrus|瓦夫鲁斯]]与[[Lesley Bartlett|巴特利特]]论微观理解作为宏观结构的内在组成
 > 使单一尺度分析显得不完整和不平衡的原因，往往在于缺乏情境化的知识，这种知识未能考虑更宏大的力量、结构和历史如何塑造地方层面的社会互动与理解……在垂直案例研究中，对微观层面的理解被视为更宏大结构、力量与政策的内在组成部分，研究者同样必须对后者建立充分而彻底的认识。
 >
-> *What makes single-level analysis 'incomplete and unbalanced' is often, though not always, the absence of contextualized knowledge that takes into [[Accounts|account]] how larger forces, structures, and histories inform local social interactions and understanding… in a vertical case study, understanding of the micro-level is viewed as part and parcel of larger structures, forces, and policies about which the researcher must also develop a full and thorough knowledge.*
+> *What makes single-level analysis 'incomplete and unbalanced' is often, though not always, the absence of contextualized knowledge that takes into account how larger forces, structures, and histories inform local social interactions and understanding… in a vertical case study, understanding of the micro-level is viewed as part and parcel of larger structures, forces, and policies about which the researcher must also develop a full and thorough knowledge.*
 
 > [!citation-card] [[Michael Crossley|克罗斯利]]与武利亚米论政策修辞与地方实践的断层
 > 个案研究在教育领域揭示了政策舞台上修辞与实践之间的鸿沟。修辞是由那些不关注地方实践的研究生成的，这些研究不加批判地描述官方政策中所阐明的应当发生状态。垂直案例研究具有通过分析基于政策宣示的应然要求以及地方行动者叙述的实然处境，使地方知识与官方权威知识处于更平等地位的潜力。(Crossley & Vulliamy, 1984, p. 198)
@@ -305,7 +316,7 @@ issuing_organization: ""
 > *Education reforms are doomed to early demise unless their presumed beneficiaries become not only their supporters but their bearers… [which requires] that reforms be constructed from the bottom up as responses to local demand.*
 
 > [!citation-card] 马金森与莫利斯论普遍主义与极端相对主义的超越
-> 反对普遍主义立场，我们主张比较教育的方法应当导向对差异的解释以及对他者的承认……反对极端[[Multiplist|相对主义立场]]，我们主张比较教育需要将个别差异置于更广泛的变异脉络中，超越将差异视作孤立终点的局限，认识到存在由他者之间以及他者与自我之间的关系所构成的共通性。(Marginson & Mollis, 2001, p. 588)
+> 反对普遍主义立场，我们主张比较教育的方法应当导向对差异的解释以及对他者的承认……反对极端相对主义立场，我们主张比较教育需要将个别差异置于更广泛的变异脉络中，超越将差异视作孤立终点的局限，认识到存在由他者之间以及他者与自我之间的关系所构成的共通性。(Marginson & Mollis, 2001, p. 588)
 >
 > *Against the universalist position, we argue that method in comparative education should be oriented toward the interpretation of differences and the recognition of the 'other'…. Against the ultrarelativist position, we argue that comparative education needs to interpret individual difference not simply as terminal but in the context of a wider set of variations, recognizing that there are commonalities structured by the relations between 'others' and between 'other' and 'self.'*
 

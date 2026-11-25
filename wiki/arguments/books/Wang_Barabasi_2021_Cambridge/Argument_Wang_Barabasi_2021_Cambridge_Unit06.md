@@ -11,7 +11,7 @@ title: "Argument_Wang_Barabasi_2021_Cambridge_Unit06"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge_Unit06"
 argument_display_title: "The Science of Science"
 argument_kind: "book-chapter"
-argument_related_count: 43
+argument_related_count: 45
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -45,12 +45,14 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Concierge Service]]"
   - "[[Heterogeneity]]"
+  - "[[Academicity]]"
   - "[[Clinical Trial]]"
   - "[[Alienation]]"
   - "[[Guest Authorship]]"
   - "[[Ghost Authorship]]"
   - "[[Big Science]]"
   - "[[Variable]]"
+  - "[[Student Attitude]]"
   - "[[Tacit Knowledge]]"
   - "[[Innovation Ecosystem]]"
 related_theories:
@@ -83,7 +85,7 @@ sources:
 part_of: "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 status: active
 created: "2026-10-30"
-updated: 2026-11-15
+updated: 2026-11-25
 ---
 
 ---
@@ -193,7 +195,7 @@ updated: 2026-11-15
 > 期刊推行的[[Author Contribution Disclosures|贡献声明制]]（Author Contribution Disclosures）无法彻底消除归因模糊：
 > - **团队内部认知的广泛分歧** 《克罗地亚医学杂志》对 919 位通讯学者的实证调查表明，69.4% 的团队在成员具体贡献界定上存在冲突，普通团队成员勾选的贡献类别显著多于通讯学者为其认定的内容 (Marušić et al., 2006, p. 139)。
 > - **跨学科人才引进中的文化误读** 生物学与物理学将末位署名视作独立学术领导力，首位署名过多反而被视为缺乏独立带组能力；心理学与社会学则将资深导师置于首位署名排位，末位署名被视作边缘贡献。这种学科规范差异导致跨学科聘用委员会常因位次传统不同而误判候选人的科研水准（pp. 139–140）。
-> - **署名争议引发的非学术性撤稿** 2017 年发表于《基因、大脑与行为》（*Genes, Brain, and Behavior*）的一项成果因全体合署人对排位产生无法调和的争议而被期刊撤稿，证实署名利益冲突已成为威胁科研诚信的现实诱因（p. 140）。
+> - **署名争议引发的非[[Academicity|学术性]]撤稿** 2017 年发表于《基因、大脑与行为》（*Genes, Brain, and Behavior*）的一项成果因全体合署人对排位产生无法调和的争议而被期刊撤稿，证实署名利益冲突已成为威胁科研诚信的现实诱因（p. 140）。
 
 > [!challenges] 专栏 13.1｜共同首位署名的兴起与引文折叠困境
 > 过去三十年中，两名及以上合署学者声明享有[[Co-first Authorship|共同第一署名]]（Joint / Co-first Authorship）身份的成果比例剧增（Box 13.1, p. 140）：
@@ -283,7 +285,7 @@ updated: 2026-11-15
 
 > [!mechanism] 专栏 14.1｜科学马太效应的双重机制：交流与奖励
 > [[Robert K. Merton|默顿]]（Merton, 1968）将马太效应划分为学术体系中的两大运行渠道（Box 14.1, p. 148）：
-> - **学术交流渠道** 学术声望充当文稿质量的先验信号，深刻影响评审人的阅读态度。瑞利勋爵（Lord Rayleigh）的名字因意外被遗漏导致文稿被期刊秒拒，署名恢复后内容未改却立刻被奉为佳作；学者的声望在学术交流中发挥了注意力过滤器功能（p. 148）。
+> - **学术交流渠道** 学术声望充当文稿质量的先验信号，深刻影响评审人的阅读[[Student Attitude|态度]]。瑞利勋爵（Lord Rayleigh）的名字因意外被遗漏导致文稿被期刊秒拒，署名恢复后内容未改却立刻被奉为佳作；学者的声望在学术交流中发挥了注意力过滤器功能（p. 148）。
 > - **学术奖励渠道** 当资历不同的研究者参与同一项科学发现时，社会建制会将绝大部分学术荣誉倾斜于知名科学家。十二世纪哲学家沙特尔的伯纳德（Bernard of Chartres）早在牛顿致胡克信件前 400 年便提出站在巨人的肩膀上这一著名譬喻，但该名言仍普遍归功于牛顿；托马斯定理亦被学界单方面归功于成名大师 W. I. Thomas（p. 148）。
 
 > [!tension] 专栏 14.2｜逆向马太效应在团队内外的责任分配悖论

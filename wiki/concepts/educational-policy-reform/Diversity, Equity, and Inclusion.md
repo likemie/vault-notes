@@ -12,7 +12,7 @@ aliases:
 summary: "指强调在组织、教育与学术机构中促进人口学背景多样性、消除历史与结构性不平等、并构建包容性文化与制度环境的政策框架与价值理念。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 13
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,8 +22,11 @@ tags:
   - higher-education
   - science-policy
 related_concepts:
+  - "[[Inclusive Education]]"
+  - "[[Social Economy]]"
   - "[[Heterogeneity]]"
   - "[[Alienation]]"
+  - "[[Academicity]]"
   - "[[Scientific Literacy]]"
   - "[[Academic Freedom]]"
   - "[[Hypothesis]]"
@@ -50,7 +53,7 @@ updated: 2026-11-25
 ---
 
 > [!def] Diversity, Equity, and Inclusion
-> **多元、平等与包容（Diversity, Equity, and Inclusion, DEI）** 是指广泛应用于高等教育、科研资助机构与公共组织中的政策框架与组织治理理念。其中“多元”（Diversity）强调个体在种族、性别、社会经济阶层及文化背景上的[[Heterogeneity|异质性]]呈现；“平等”（Equity）强调通过差[[Alienation|异化]]资源配置以弥补历史与结构性不利；“包容”（Inclusion）强调构建确保所有成员获得平等尊重、归属感与决策参与权的制度文化。在科技政策与学术评审中，该框架常被转化为基金申请资格审查、师资聘任与项目评价的硬性指标。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 17)]]
+> **多元、平等与包容（Diversity, Equity, and [[Inclusive Education|Inclusion]], DEI）** 是指广泛应用于高等教育、科研资助机构与公共组织中的政策框架与组织治理理念。其中“多元”（Diversity）强调个体在种族、性别、[[Social Economy|社会经济]]阶层及文化背景上的[[Heterogeneity|异质性]]呈现；“平等”（Equity）强调通过差[[Alienation|异化]]资源配置以弥补历史与结构性不利；“包容”（Inclusion）强调构建确保所有成员获得平等尊重、归属感与决策参与权的制度文化。在科技政策与学术评审中，该框架常被转化为基金申请资格审查、师资聘任与项目评价的硬性指标。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 17)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向教育与学术组织中人口学代表性、资源分配补偿与文化包容性的规范性治理准则。
@@ -58,7 +61,7 @@ updated: 2026-11-25
 > - **边界** 聚焦于组织与政策层面的身份与机会分配，不直接衡量个体的硬核科学探索能力或技术产出质量。
 
 > [!citation-card] 偏离学术优劣的评价标准与选拔扭曲
-> 资助评审机制若引入非学术性评价指标，将对选拔质量与科研公正性造成结构性扭曲。以与[[Scientific Literacy|科学素养]]无关的标准筛选人才，其最终代价是损害国家整体的科学探索能力。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 17)]]
+> 资助评审机制若引入非[[Academicity|学术性]]评价指标，将对选拔质量与科研公正性造成结构性扭曲。以与[[Scientific Literacy|科学素养]]无关的标准筛选人才，其最终代价是损害国家整体的科学探索能力。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 17)]]
 >
 > *When grant-making mechanisms elevate identity-based criteria above objective scientific merit, they risk distorting selection and compromising national research excellence.*
 

@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[General Purpose Technology]]"
   - "[[Knowledge Production]]"
   - "[[The Sublime]]"
+  - "[[Academicity]]"
   - "[[Diversity, Equity, and Inclusion]]"
   - "[[Reliability]]"
   - "[[Star Scientists]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-14
+updated: 2026-11-25
 ---
 
 ---
@@ -157,7 +158,7 @@ updated: 2026-11-14
 > [!debates] 核心争议交锋
 >
 > > [!axis] 资助评审中的非学术指标争议
-> > 近年来有关科研资助中是否应引入包容性计划及非学术性评审权重的讨论。
+> > 近年来有关科研资助中是否应引入包容性计划及非[[Academicity|学术性]]评审权重的讨论。
 > >
 > > - **科学优先视角（反方）** 批评在硬核空间技术与前沿科学提案中强制引入 [[Diversity, Equity, and Inclusion|DEI]] 包容性计划要求，认为由非专业背景评审专家主导筛选会削弱科研选拔的学术卓越性。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 17)]]
 > > - **组织多样性视角（正方）** 认为航天科技队伍需吸纳更广泛的代表性群体，建立多元包容的研究队伍有助于长期人才梯队建设。

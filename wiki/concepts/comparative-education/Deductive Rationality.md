@@ -7,7 +7,7 @@ aliases:
 summary: "Cowen（2005）提出的概念，指学术管理话语中的压缩政策话语和控制话语，通过绩效衡量重新定义大学和被认为是好的知识"
 type: concept
 domain: "comparative-education"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Doctoral Dissertation]]"
   - "[[Reflexivity]]"
+  - "[[Academicity]]"
   - "[[Academic Freedom]]"
 related_theories:
   - "[[Critical Theory]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-11-15
+updated: 2026-11-25
 ---
 
 ---
@@ -85,6 +86,6 @@ updated: 2026-11-15
 ---
 
 > [!warning] 演绎理性与极端政治[[Discourse|话语]]的危险类比
-> 演绎理性对大学学术性的摧毁往往是微妙、渐进而隐蔽的。然而，[[Robert Cowen]] 提出警告：当前的绩效管理主义演绎理性，在通过压制性语言直接判定合法知识这一本质上，与历史上的极端政治性演绎理性（例如号召向工农兵学习的强权话语）具有高度的相似性。它们都依靠行政强权直接判决知识的生死，长此以往，对[[Academic Freedom\|学术自由]]思考和新理论萌芽的摧毁力是同样致命和具有破坏性的。([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 332]])
+> 演绎理性对大学[[Academicity|学术性]]的摧毁往往是微妙、渐进而隐蔽的。然而，[[Robert Cowen]] 提出警告：当前的绩效管理主义演绎理性，在通过压制性语言直接判定合法知识这一本质上，与历史上的极端政治性演绎理性（例如号召向工农兵学习的强权话语）具有高度的相似性。它们都依靠行政强权直接判决知识的生死，长此以往，对[[Academic Freedom\|学术自由]]思考和新理论萌芽的摧毁力是同样致命和具有破坏性的。([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 332]])
 
 ---

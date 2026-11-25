@@ -10,7 +10,7 @@ aliases:
 summary: "以改善学生学业与福祉为共享愿景、依托合作探究与反思性对话深化教学实践并制度化研读转化外部证据的学校协同组织形态。"
 type: concept
 domain: "teacher-education"
-related_count: 54
+related_count: 56
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -59,6 +59,7 @@ related_arguments:
   - "[[Argument_Besa_2024_UW]]"
   - "[[Argument_Torres_2022_KMModels]]"
   - "[[Argument_Barrenechea_2023_JEC]]"
+  - "[[Argument_Rolff_2014_SchoolStructure]]"
 related_methods:
   - "[[Classroom Observation]]"
   - "[[Framework Synthesis]]"
@@ -75,6 +76,7 @@ related_persons:
   - "[[Toby Greany]]"
   - "[[Alan Daly]]"
   - "[[Roy Nash]]"
+  - "[[Michael Fullan]]"
   - "[[Chris Brown]]"
 related_facts:
   - "[[Schulen im Team]]"
@@ -266,7 +268,7 @@ updated: 2026-11-25
 > - [[Argument_Besa_2024_UW\|Besa (2024)]] — 探讨 PLC 在社交媒体时代向跨区域虚拟教研室（[[Virtual Teacher Staffroom\|Twitter-Lehrerzimmer]]）的网络化延伸，分析草根同侪互助与学术科研双向对话缺位的实践张力。
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] — 框架综合 109 项实证研究，量化确立专业学习共同体（PLC）作为学校支持研究使用组织结构与时间保障的核心制度化载体（p. 14）。
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 结合威尔士教育改革案例，指出专业学习社群（PLC）通过同行反思、合作研讨与相互问责，促进教师默会知识共享并驱动课堂教学改进（p. 5）。
-> - [[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]] — 援引富兰（Fullan, 2010）说明专家同行教练与集体听课如何在校长及学科组长协调下建成专业学习共同体（pp. 75–76）。
+> - [[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]] — 援引[[Michael Fullan|富兰]]（Fullan, 2010）说明专家同行教练与集体听课如何在校长及学科组长协调下建成专业学习共同体（pp. 75–76）。
 
 ---
 

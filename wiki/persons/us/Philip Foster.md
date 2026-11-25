@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 33
+person_related_count: 34
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Postpositivism]]"
   - "[[Scientific Paradigm]]"
+  - "[[Academicity]]"
   - "[[Variable]]"
   - "[[Epistemology]]"
   - "[[Social Science as Legitimation Alibi]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-07
-updated: 2026-11-19
+updated: 2026-11-25
 ---
 
 ---
@@ -134,7 +135,7 @@ updated: 2026-11-19
 > 该理论打破了技术官僚通过自上而下设置职业课程强行调控劳动力结构的政策幻想。
 
 > [!claim] Foster, P.
-> **学生升学选择取决于劳动力市场回报而非学校课程性质** 福斯特指出，第三世界国家的学生和家长热衷于学术性普通教育而非职业技术教育，绝非出于盲目的文化偏见或虚荣，而是一种高度理性的经济抉择。只要现代城市行政部门的薪酬与社会地位远高于农业与体力劳动部门，试图通过在普通学校硬性植入农业或职业技术课程来引导青年回流农村的政策规划，就必然沦为注定失败的“职业学校谬误”。学校无法脱离外部经济报酬结构独自创造就业岗位。
+> **学生升学选择取决于劳动力市场回报而非学校课程性质** 福斯特指出，第三世界国家的学生和家长热衷于[[Academicity|学术性]]普通教育而非职业技术教育，绝非出于盲目的文化偏见或虚荣，而是一种高度理性的经济抉择。只要现代城市行政部门的薪酬与社会地位远高于农业与体力劳动部门，试图通过在普通学校硬性植入农业或职业技术课程来引导青年回流农村的政策规划，就必然沦为注定失败的“职业学校谬误”。学校无法脱离外部经济报酬结构独自创造就业岗位。
 
 ---
 

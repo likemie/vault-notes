@@ -5,7 +5,7 @@ aliases:
 summary: "将人类从世界中心位置移开并强调人与非人共同生成、相互依存和关系责任的思想取向，是现代人类中心主义的重要批判方向"
 type: concept
 domain: "educational-philosophy"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Humility]]"
   - "[[Emergence]]"
+  - "[[Academicity]]"
   - "[[Mimesis]]"
 related_theories:
   - "[[Transition Design]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-11-19
+updated: 2026-11-25
 ---
 
 > [!info] 定义
@@ -85,7 +86,7 @@ updated: 2026-11-19
 > [!warning] 争议与批评
 > - **教育的缺失** Haraway and Escobar 都没有将教育作为论述重点。Amos 给出两个解释：(1) 大众教育——无论国家中心还是市场中心——的 DNA（竞争、增长、rugged individualism）本身就是问题的一部分；(2) 他们似乎将社会化和教育视为社区转型的自动结果([[Argument_Amos_2022_Springer\|Amos, 2022, p.63]])
 > - **大众教育的不可替代性** Amos 同时也指出，公共教育是现代性的重大成就——它创造了一个公共领域，在其中教什么、怎么教是公开可见、可批评、可修订的。如果教育完全变成社区内部的事务，"教育公平"的讨论也将随之消失([[Argument_Amos_2022_Springer\|Amos, 2022, pp.63–64]])
-> - **学术性与可行性的鸿沟** 后人类主义的愿景（小而美的共同体、学习即[[Mimesis|模仿]]和古代学园模式）与当今大众高等教育系统的规模和政治生态之间存在巨大的操作鸿沟。Amos 的回应是呼吁一种"新教育理论"，但未给出具体轮廓([[Argument_Amos_2022_Springer\|Amos, 2022, p.64]])
+> - **[[Academicity|学术性]]与可行性的鸿沟** 后人类主义的愿景（小而美的共同体、学习即[[Mimesis|模仿]]和古代学园模式）与当今大众高等教育系统的规模和政治生态之间存在巨大的操作鸿沟。Amos 的回应是呼吁一种"新教育理论"，但未给出具体轮廓([[Argument_Amos_2022_Springer\|Amos, 2022, p.64]])
 >
 
 > [!example] 相关案例／政策

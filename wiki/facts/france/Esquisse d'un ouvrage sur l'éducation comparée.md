@@ -15,7 +15,7 @@ subtype: policy
 region: france
 fact_region: "france"
 fact_kind: "policy"
-fact_related_count: 25
+fact_related_count: 28
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Cosmopolitanism]]"
   - "[[Educational Meliorism]]"
+  - "[[Academicity]]"
   - "[[Leading Questions]]"
   - "[[Proto-Scientific Motif]]"
 related_theories:
@@ -56,13 +57,15 @@ related_persons:
   - "[[Charles Perrault]]"
   - "[[Victor Cousin]]"
   - "[[Jean-Jacques Rousseau]]"
-related_facts: []
+related_facts:
+  - "[[Gymnasium]]"
+  - "[[National Institute of Education]]"
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-11-14
+updated: 2026-11-25
 ---
 
 ---
@@ -91,7 +94,7 @@ updated: 2026-11-14
 > [!policy-design] 调查架构：六大领域与比较观察表
 > - **六大教育考察领域（Six Educational Areas）**
 >   1. **初等与大众教育（Primary and Common Education）** 涵盖学校数量与经费、学生入学年龄与入学率、师范培养与俸禄晋升、体育卫生与疫苗接种、道德与宗教教育、基于[[Faculty Psychology\|官能心理学]]的心智智力训练等。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, p. 15]]）
->   2. **中等与古典教育（Secondary and Classical Education）** 涵盖文理中学及[[Boarding Schools\|寄宿学校]]建制、课程设置、古典[[Document|文献]]研读、修辞与法律学习、道德陶冶与身体锻炼等。（p. 15）
+>   2. **中等与古典教育（Secondary and Classical Education）** 涵盖[[Gymnasium|文理中学]]及[[Boarding Schools\|寄宿学校]]建制、课程设置、古典[[Document|文献]]研读、修辞与法律学习、道德陶冶与身体锻炼等。（p. 15）
 >   3. **高等与科学教育（Higher and Scientific Education）** 大学专门学院与科研组织。（p. 15）
 >   4. **[[Normal School\|师范教育]]（Normal Education）** 独立师范学院的教学法训练。（p. 15）
 >   5. **女子教育（Education of Girls）** 女性在家庭与社会中的专门教化。（p. 15）
@@ -116,7 +119,7 @@ updated: 2026-11-14
 
 > [!actor-grid] [[International Education\|国际教育]]三大支柱倡议
 > - **常设特别教育委员会（Special Education Commission）** 由少数德高望重、具有卓越判断力与高尚道德的跨国学术精英组成，各聘设通信院士，统筹[[Questionnaire\|问卷]]发放、数据核实与比较观察表的绘制。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, p. 21]]; Fraser, 1964:36–37）
-> - **示范[[Normal School\|师范学院]]（Normal Institute of Education）** 在欧洲不同枢纽区域联合设立示范性公立[[Normal School\|师范学校]]，向各国未来师资推广[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]式的直观启发教学法与温和人道管教。（p. 21; Fraser, 1964:39）
+> - **示范[[Normal School\|师范学院]]（Normal [[National Institute of Education|Institute of Education]]）** 在欧洲不同枢纽区域联合设立示范性公立[[Normal School\|师范学校]]，向各国未来师资推广[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]式的直观启发教学法与温和人道管教。（p. 21; Fraser, 1964:39）
 > - **多语种教育通报网络（Multilingual Bulletin / General Journal of Education）** 创办跨国学术期刊，定期以多语种向全欧洲公开发布各国教育立法动向、教学法实验成果与统计对比数据，打破知识垄断与狭隘民族隔阂。（p. 21; Fraser, 1964:39）
 
 ---
@@ -139,7 +142,7 @@ updated: 2026-11-14
 
 ## 争议与学术评论
 
-关于朱利安《计划》的学术性质与学科定位，在 20 世纪下半叶的比较教育学界引发了截然不同的争鸣：
+关于朱利安《计划》的[[Academicity|学术性]]质与学科定位，在 20 世纪下半叶的比较教育学界引发了截然不同的争鸣：
 
 > [!debates] 学科史评价争议
 >

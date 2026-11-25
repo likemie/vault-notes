@@ -9,7 +9,7 @@ aliases:
 summary: "新加坡课堂教学研究揭示的复合型教学实践形态。以直接讲授、大纲覆盖与高利害应试训练为主导架构，选择性融合先备知识检查与形成性反馈等建构主义策略，服务于确保学生掌握解题规程与既定知识，形成兼顾高分产出与教学秩序的演化韧性。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 27
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Direct Instruction]]"
   - "[[Constructivist Paradigm]]"
   - "[[Teacher Questioning]]"
+  - "[[Dialogue in Education]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Lecturing]]"
   - "[[Constructivist Instruction]]"
@@ -34,6 +35,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Variable]]"
   - "[[Academic Achievement]]"
+  - "[[Academicity]]"
   - "[[Procedural Knowledge]]"
   - "[[International Large-Scale Assessments]]"
   - "[[Pragmatic Paradigm]]"
@@ -55,7 +57,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-11-17
-updated: 2026-11-18
+updated: 2026-11-25
 ---
 
 ---
@@ -74,7 +76,7 @@ updated: 2026-11-18
 > *What emerges from research on the nature of Singapore's classroom practice is a 'hybrid pedagogy' ... with a strong focus on direct instruction and traditional pedagogical practices and a much weaker focus on constructivist learning principles.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Direct Instruction]]：直接教学法强调教师主导的严密指导与练习，混合教学法在此基础上吸收了形成性反馈和课堂对话等建构主义局部策略。
+> - 不等于 [[Direct Instruction]]：直接教学法强调教师主导的严密指导与练习，混合教学法在此基础上吸收了形成性反馈和[[Dialogue in Education|课堂对话]]等建构主义局部策略。
 > - 不等于 [[Inquiry-Based Learning]]：探究式学习以学生自主发现和[[Knowledge Building Theory|知识建构]]为本体，混合教学法中的学生活动始终受制于考试大纲的既定结论。
 > - 不等于 [[Blended Learning|混合式学习]]：混合式学习（Blended Learning）特指结合面对面实体课堂与数字化在线环境的双轨教学模式，而混合教学法规程特指传统直接讲授与现代建构主义反馈在同一实体课堂内的教学规程杂糅。
 
@@ -121,7 +123,7 @@ updated: 2026-11-18
 ---
 
 > [!concept-proposition] 命题二｜混合教学规程构成了东亚系统同时胜任TIMSS内容测试与PISA应用测试的实践基础
-> **纸笔测评学术性本质的实证契合** 批评者通常假定传统直接教学只能应对强调课程知识再现的TIMSS测验，无法应对宣称测试现实生活素养的PISA测验。然而，PISA所测试的本质上仍然是特定类型的结构化学术问题，混合教学法所培养的扎实学科[[Procedural Knowledge|程序性知识]]与逻辑推演能力，使得学生能够自如地将其迁移至PISA设计的解题情境中。
+> **纸笔测评[[Academicity|学术性]]本质的实证契合** 批评者通常假定传统直接教学只能应对强调课程知识再现的TIMSS测验，无法应对宣称测试现实生活素养的PISA测验。然而，PISA所测试的本质上仍然是特定类型的结构化学术问题，混合教学法所培养的扎实学科[[Procedural Knowledge|程序性知识]]与逻辑推演能力，使得学生能够自如地将其迁移至PISA设计的解题情境中。
 
 > [!claim] Bulle (2011)
 > **学术型解题能力与测评情境的实证契合** PISA测验本质上衡量的是解决未预设具体学术知识但依赖通用逻辑规程的学术问题能力。混合教学法对程序性算法与高强度问题解决模式的系统训练，恰恰为解决这类高度程式化的纸笔测验提供了最直接的认知准备。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 463)]]

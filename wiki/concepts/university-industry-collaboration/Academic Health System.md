@@ -6,7 +6,7 @@ aliases:
 summary: "Swick and Jones（2025）区分的学术机构类型，不同于传统学术医学中心，它在优先患者诊疗之后同时追求学术研究与产业创新目标，兼具科研、教学、临床和产业化能力，是产学合作中医用创新的独特组织载体"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 4
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,6 +17,8 @@ tags:
 related_concepts:
   - "[[Academic Medical Center]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Regionness]]"
+  - "[[Academicity]]"
   - "[[Applied Medical Innovation]]"
   - "[[Valley of Death]]"
 related_theories: []
@@ -27,7 +29,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-02
-updated: 2026-10-22
+updated: 2026-11-25
 ---
 
 > [!info] 定义
@@ -37,14 +39,14 @@ AMC 的传统定义是"大学或医学院及其合作教学医院"，核心是�
 
 > [!abstract] 核心要素
 > 以 Houston Methodist Health System 为例，学术健康系统的关键结构特征包括（pp.180–181）：
-> 1. **旗舰医院加区域性医院网络** 以一所旗舰级医院和研究机构为核心，下设多个区域性医院，形成"中心辐射"（hub-and-spoke）模式。区域性医院并非单纯的社区医院，其中也有科研和教学活动。
+> 1. **旗舰医院加[[Regionness|区域性]]医院网络** 以一所旗舰级医院和研究机构为核心，下设多个区域性医院，形成"中心辐射"（hub-and-spoke）模式。区域性医院并非单纯的社区医院，其中也有科研和教学活动。
 > 2. **多元化患者进入通道** 除医院外，系统还包含初级保健诊所、急诊中心、影像和康复中心，以及通过与联邦认证健康中心（Federally Qualified Health Center, FQHC）合作覆盖服务不足人群。
 > 3. **双向学术管线** 研究创新从旗舰医院向外推送到区域性医院和社区诊所，同时临床需求从不同环境反馈回研究中心，形成从发现到部署、再从需求到新发现的循环。
 > 4. **多元化的产学伙伴组合** 采用"最优组合"（best-of-breed）策略，与不同行业伙伴（生物医药公司、科技公司、工程制造企业）建立合作关系。
 
 > [!example] 概念辨析
 > - vs **[[Academic Medical Center\|学术医学中心]]（Academic Medical Center, AMC）** — AMC 的核心构成为大学医学院 + 教学医院，以教学和基础科研为重心。学术健康系统在 AMC 的基础上叠加了产业创新和系统内技术部署能力，优先事项混合了学术、临床和产业三种逻辑（pp.179–180）。
-> - vs **社区医学中心（Community Medical Center, CMC）** — CMC 是非学术性的医疗机构，以提供当前最佳标准的诊疗为核心使命，通常不投入创新研发。学术健康系统区别于 CMC 的关键在于其系统性地投资于创新、科研和[[University-Industry Collaboration\|产学合作]]（p.179）。
+> - vs **社区医学中心（Community Medical Center, CMC）** — CMC 是非[[Academicity|学术性]]的医疗机构，以提供当前最佳标准的诊疗为核心使命，通常不投入创新研发。学术健康系统区别于 CMC 的关键在于其系统性地投资于创新、科研和[[University-Industry Collaboration\|产学合作]]（p.179）。
 > - vs **行业伙伴（Industry Partner）** — AHS 既不是纯粹的学术机构（如大学），也不是纯粹的产业伙伴。其首要优先始终是患者，但在患者诊疗之外，兼具学术研究和产业创新的双重兴趣，并因此成为产学合作中[[Applied Medical Innovation\|医用创新]]（Applied Medical Innovation, AMI）的独特促进者（pp.179–181）。
 
 > [!success] 产学合作中的独特角色

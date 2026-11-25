@@ -9,7 +9,7 @@ title: "Argument_Cowen_2023_CE"
 argument_key: "Argument_Cowen_2023_CE"
 argument_display_title: "Comparative education: and now? Comparative Education, 59(3), 326–340"
 argument_kind: "journal-article"
-argument_related_count: 75
+argument_related_count: 76
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Conversational AI in Education]]"
   - "[[Neoliberalism]]"
   - "[[Policy Science in Comparative Education]]"
+  - "[[Academicity]]"
   - "[[Discourse]]"
   - "[[Doctoral Dissertation]]"
   - "[[Research Question]]"
@@ -107,7 +108,7 @@ part_of: ""
 related_instruments: []
 status: draft
 created: 2026-06-06
-updated: 2026-11-19
+updated: 2026-11-25
 year: 2023
 doi: ""
 citation_aliases:
@@ -252,7 +253,7 @@ citation_aliases:
 > - **作为实用工具的[[Policy Science in Comparative Education\|政策科学]]（Policy Science）**
 >   主张比较教育的核心形式是作为政策科学，为决策提供建议。代表人物包括 Holmes (1984)、King (1979)，也见于 2010 年后的世界教育年鉴。其政治预设并非中性，而是公开寻求与自由民主国家中所谓的“民主权力”结盟。它假定决策者是理性的，且应当在“关键决策时刻”（critical points of decision）寻求比较教育学者的建议。这种结盟使学科极易丧失批判性反思的学术距离，降格为服务国家机器治理目标的行政管理工具。
 > - **结果导向与测量技术（Outcomes）**
->   关注可测量的教育产出。经历了从 Lauwerys（1965）最初以理解（Verstehen）不同国家“[[Educated Identity\|受教育身份]]”理想模型的学术尝试，向通过 IEA and PISA 进行效率测量的转变。其政治预设已从学术性的文化理解，彻底转向配合在世界范围内确立新自由主义经济定义的政治斗争。国际测试沦为追求“解决方案”的比较工具，将复杂的教育和文化语境抽空，仅剩下测量技术细节，作为效率运动的附属品与社会温度计，在实践中极大地强化并维护了单一、特定世界秩序的政治合理性。
+>   关注可测量的教育产出。经历了从 Lauwerys（1965）最初以理解（Verstehen）不同国家“[[Educated Identity\|受教育身份]]”理想模型的学术尝试，向通过 IEA and PISA 进行效率测量的转变。其政治预设已从[[Academicity|学术性]]的文化理解，彻底转向配合在世界范围内确立新自由主义经济定义的政治斗争。国际测试沦为追求“解决方案”的比较工具，将复杂的教育和文化语境抽空，仅剩下测量技术细节，作为效率运动的附属品与社会温度计，在实践中极大地强化并维护了单一、特定世界秩序的政治合理性。
 
 > [!warrant]- 推理桥梁
 > 比较教育的四大范式不仅在[[Ontology\|本体论]]与认识论上冲突，更是相互竞争的政治行动[[Discourse|话语]]。尤其是当代结果导向测量将学术理解完全抽空，堕为社会效率运动的温度计，这迫使研究者必须审视自己究竟在为哪种政治秩序作辩护。

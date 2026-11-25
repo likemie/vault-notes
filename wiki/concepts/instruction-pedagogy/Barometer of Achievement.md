@@ -9,7 +9,7 @@ aliases:
 summary: "John Hattie 在《可见学习》中用于直观展示效应量区间的半圆形仪表盘图表，直接移植自其此前主导开发的 asTTle 行政全网监控软件，被批判为将工业泰勒制控制逻辑与全景监视物化为教学图腾的伪科学视觉修辞。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -55,6 +55,7 @@ related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
 related_persons:
   - "[[John Hattie]]"
+  - "[[Charles Taylor]]"
 related_facts:
   - "[[Thomas B. Fordham Institute]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
@@ -63,9 +64,9 @@ related_facts:
 related_arguments:
   - "[[Argument_Johnson_2023_CritEduc]]"
 confidence: high
-status: draft
+status: active
 created: "2026-10-16"
-updated: 2026-11-15
+updated: 2026-11-25
 ---
 
 ---
@@ -121,7 +122,7 @@ updated: 2026-11-15
 > **[[Neo-Taylorism|新泰勒主义]]管理逻辑与软件视觉迁移** 探讨气压计图表如何将最初用于行政层面对教师实施联网监视的技术界面，转化为指导日常课堂教学的规范性符号。
 
 > [!claim] Johnson & Janzen
-> **全景监视界面向课堂教学符号的[[Alienation|异化]]迁移** 泰勒（Frederick Taylor）在 1911 年通过工时秒表拆解工人劳动节奏，开启了剥夺基层自主权的工业科学管理。[[John Hattie|哈蒂]]在出版《可见学习》前主持开发了 [[Assessment Tools for Teaching and Learning|asTTle]] 评估软件，其关键卖点在于向管理层提供能够全网实时监视全校 6 个科目教师软件使用情况的后台仪表盘。书中反复出现的气压计图表正是直接搬用自这一行政监控界面。这一视觉迁移将原本用于自上而下考核与问责的技术工具，神圣化为衡量教师专业成效的教学图腾，体现了典型的[[Neo-Taylorism|新泰勒主义]]管理诉求：把丰富的育人实践降格为仪表刻度，削弱教师的[[Professional Judgment|专业判断]]，迫使基层教师听令于外部技术指标。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]
+> **全景监视界面向课堂教学符号的[[Alienation|异化]]迁移** [[Charles Taylor|泰勒]]（Frederick Taylor）在 1911 年通过工时秒表拆解工人劳动节奏，开启了剥夺基层自主权的工业科学管理。[[John Hattie|哈蒂]]在出版《可见学习》前主持开发了 [[Assessment Tools for Teaching and Learning|asTTle]] 评估软件，其关键卖点在于向管理层提供能够全网实时监视全校 6 个科目教师软件使用情况的后台仪表盘。书中反复出现的气压计图表正是直接搬用自这一行政监控界面。这一视觉迁移将原本用于自上而下考核与问责的技术工具，神圣化为衡量教师专业成效的教学图腾，体现了典型的[[Neo-Taylorism|新泰勒主义]]管理诉求：把丰富的育人实践降格为仪表刻度，削弱教师的[[Professional Judgment|专业判断]]，迫使基层教师听令于外部技术指标。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]
 
 ---
 
@@ -183,9 +184,21 @@ updated: 2026-11-15
 > *Taylor in 1911 conducted time-and-motion studies under the premise that workers were inherently lazy and needed standardized top-down control. The barometer graphics in [[Visible Learning]] were taken directly from the asTTle administrative interface, inheriting this exact managerial logic of compressing rich educational practices into dashboard dial readings.*
 
 > [!citation-card] 贬抑教师[[Professional Judgment|专业判断]]为技术规训确立正当性
-> 将教师的经验交流斥为缺乏科学依据的轶事传闻，不仅是推销自上而下管理处方的手段，更在公众心目中削弱了对公立教师群体的信赖，为外部商业机构进驻公立学校创造了便利条件。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–29)]]
+> 将教师的经验交流斥为缺乏科学依据的轶事传闻，既是推销自上而下管理处方的手段，也在公众心目中削弱了对公立教师群体的信赖，为外部商业机构进驻公立学校创造了便利条件。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–29)]]
 >
 > *Disparaging teachers' professional conversations as mere war stories and anecdotes is not only a technique to sell top-down prescriptions, but also undermines public trust in public school teachers, paving the way for commercial entities to enter public schooling.*
+
+---
+
+> [!entry-map] 条目关联
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Visible Learning]] | 概念 | 成就气压计所属的母理论框架与主要出版载体。 |
+> | [[Zone of Desired Effects]] | 概念 | 气压计表盘绿色区间所直观呈现的 $d \ge 0.40$ 期望效应门槛。 |
+> | [[Neo-Taylorism]] | 概念 | 解释气压计从管理监控软件迁移为课堂规范图腾的控制逻辑。 |
+> | [[Cargo Cult Science]] | 概念 | 揭示气压计以物理仪表拟态掩饰统计公式与异质性缺陷的科学哲学批判视角。 |
+> | [[Assessment Tools for Teaching and Learning]] | 测量工具 | 气压计图表的原始软件原型（asTTle 行政监控界面）。 |
+> | [[John Hattie]] | 人物 | 气压计图表的设计者与《可见的学习》著者。 |
 
 ---
 

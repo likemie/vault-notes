@@ -6,7 +6,7 @@ aliases:
 summary: "劳动力市场中获取与维持就业的可雇用性构念；涵盖求职者的绝对专业能力与大众化文凭通胀下的相对排序竞争，并在超国家空间治理与技能话语中被重构为融合跨国流动弹性与自我企业家精神的个体化规训机制。"
 type: concept
 domain: "higher-education"
-related_count: 56
+related_count: 57
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Soft Power]]"
   - "[[Alienation]]"
   - "[[Cultural Capital]]"
+  - "[[Academicity]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Extracurricular Activities]]"
   - "[[Performance Capital]]"
@@ -82,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-08'
-updated: 2026-11-21
+updated: 2026-11-25
 ---
 
 > [!def] Employability
@@ -123,7 +124,7 @@ updated: 2026-11-21
 > **文凭贬值与排位博弈** 当高等教育普及化打破了稀缺学位的天然阶层区隔，大学文凭的交换价值随之缩水；求职竞争的重心不可逆转地向简历呈现、社会性实习与微观[[Cultural Capital|文化资本]]转移。
 
 > [!claim] [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] & Brown and Hesketh (2004)
-> **文凭通胀下的相对就业力统治** 在分析高等教育大众化时代的毕业生竞争时指出，文凭从昔日的就业保障退化为初筛门槛。面对高度同质化的学术资格，雇主转向考察求职者展示自我品质、性格修养与组织契合度的“演绎能力”（Performance）。求职者被迫卷入对实习声望、名企背书与职业人际网络的无休止竞逐，使就业能力演变为高度阶层化、依赖家庭社会文化资本支撑的相对排序博弈。[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君，2023)]]
+> **文凭通胀下的相对就业力统治** 在分析高等教育大众化时代的毕业生竞争时指出，文凭从昔日的就业保障退化为初筛门槛。面对高度同质化的[[Academicity|学术资格]]，雇主转向考察求职者展示自我品质、性格修养与组织契合度的“演绎能力”（Performance）。求职者被迫卷入对实习声望、名企背书与职业人际网络的无休止竞逐，使就业能力演变为高度阶层化、依赖家庭社会文化资本支撑的相对排序博弈。[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君，2023)]]
 
 > [!claim] [[Yajun Zheng|郑雅君]] (2023, 第四章)
 > **相对就业力赛场与微观演绎能力锻造** [[Yajun Zheng|郑雅君]]（[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|2023, 第四章]]）实证剖析了两类生活组织模式在就业能力维度的微观博弈：在高等教育大众化与文凭贬值背景下，毕业出路竞争呈现绝对与相对两重属性；绝对就业力（基准专业知识与学分绩点）仅构成初赛门槛，而决定最终录取位次的决定性胜负手是依托名企实习、跨界社交与课外任职所锻造的相对就业力。[[Goal-Controlled Mode|目标掌控]]者在维持学业安全门槛后，将大量精力投入[[Extracurricular Activities|课外实践]]，通过多轮实习试错或顺藤摸瓜锚定出路，并在名企终面中展现高情商、从容仪态与即时转化率等[[Performance Capital|表现性资本]]（expressive capital）；[[Intuition-Dependent Mode|直觉依赖]]者则因[[Cultural Code|文化语码]]不适配与社交挫败被阻隔于实习网络之外，导致在相对排位中处于系统性劣势。[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|(郑雅君，2023)]]

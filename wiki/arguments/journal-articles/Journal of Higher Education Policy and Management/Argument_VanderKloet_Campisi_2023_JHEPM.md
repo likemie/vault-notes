@@ -26,6 +26,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Epistemology]]"
   - "[[Performativity]]"
+  - "[[Academicity]]"
   - "[[Neoliberalism]]"
   - "[[Professional Interest]]"
   - "[[Competitiveness]]"
@@ -35,7 +36,6 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Creativity]]"
   - "[[Diversity, Equity, and Inclusion]]"
-  - "[[Inclusive Education]]"
   - "[[Early-Career Researchers]]"
   - "[[Discursive Field]]"
   - "[[Bureaucracy]]"
@@ -47,9 +47,7 @@ related_methods:
   - "[[Semi-structured Interview]]"
 related_instruments: []
 related_persons: []
-related_facts:
-  - "[[Skills Toward Employment and Productivity]]"
-  - "[[World Bank Institute]]"
+related_facts: []
 related_arguments: []
 sources:
   - "[[sources/VanderKloet_Campisi_2023_JHEPM|VanderKloet_Campisi_2023_JHEPM]]"
@@ -63,7 +61,7 @@ title: "Argument_VanderKloet_Campisi_2023_JHEPM"
 argument_key: "Argument_VanderKloet_Campisi_2023_JHEPM"
 argument_display_title: "Becoming legitimate academic subjects: Doing meaningful work in research administration"
 argument_kind: "journal-article"
-argument_related_count: 26
+argument_related_count: 24
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -96,7 +94,7 @@ issuing_organization: ""
 > | **后结构主义**<br>[[Post-structuralism]] | 提供解构本质化身份、反思访谈互动[[Champ\|场域]]中微观权力运作的[[Epistemology\|认识论]]基础（Davies et al., 2006; Petersen, 2007, 2014），揭示学术合法性在具体情境中的[[Performativity\|表演性]]生成。 |
 
 > [!warrant]- 理论如何支撑论证
-> 玛丽·范德克洛特（Marie Vander Kloet）与凯特琳·坎皮西（Caitlin Campisi）指出，传统组织社会学常将行政人员与学者简化为结构性利益冲突方。引入布朗温·戴维斯（Bronwyn Davies）的主体化理论（Davies, 2000, 2006），能够透视受访者在既定制约下展现的能动性。科研管理人员顺应大学里专任教师居于学术核心的既有格局，同时将自身对国家资助政策与申报论证逻辑的熟练掌控转化为不可替代的专业资产。这种在制度限度内展开的话语实践，促使他们被共同体确认为合法且具有学术性的行动主体。
+> 玛丽·范德克洛特（Marie Vander Kloet）与凯特琳·坎皮西（Caitlin Campisi）指出，传统组织社会学常将行政人员与学者简化为结构性利益冲突方。引入布朗温·戴维斯（Bronwyn Davies）的主体化理论（Davies, 2000, 2006），能够透视受访者在既定制约下展现的能动性。科研管理人员顺应大学里专任教师居于学术核心的既有格局，同时将自身对国家资助政策与申报论证逻辑的熟练掌控转化为不可替代的专业资产。这种在制度限度内展开的话语实践，促使他们被共同体确认为合法且具有[[Academicity|学术性]]的行动主体。
 
 ---
 
@@ -159,7 +157,7 @@ issuing_organization: ""
 >
 > *"I realised I didn’t see myself working from postdoc to postdoc. I needed something that was more secure that I could go home at the end of the day and tend to my family, and so that’s why I decided not to continue with research."*
 >
-> *"my decision about trying to [[Skills Toward Employment and Productivity|step]] off the tenure track path and to see if that was interesting to me. . .that you can actually not work sometimes... there is that side too that is satisfying..."*
+> *"my decision about trying to step off the tenure track path and to see if that was interesting to me. . .that you can actually not work sometimes... there is that side too that is satisfying..."*
 
 ---
 
@@ -182,7 +180,7 @@ issuing_organization: ""
 
 > [!case] 个案追踪｜阿曼达的灵感构思与梅根的[[Knowledge Mobilisation|知识动员]]协同
 > - **阿曼达（Amanda）** 把与教师切磋课题早期设想的过程形容为富有想象力的工作：“我在工作中最为热爱的事情，就是陪教授们一起放飞想象做白日梦（daydreaming with faculty）。这完全是富有[[Creativity|创造力]]的思想激荡，超越了填报表格的常规后勤事务。我们要超脱生硬的表格规范，陪研究者共同把设想变成现实。”
-> - **梅根（Megan）** 展现了专业管理人员如何直接填补专任教师的知识盲区。面对国家基金对知识动员（Knowledge Mobilization）以及[[Diversity, Equity, and Inclusion|多元、平等与包容]]（Equity, Diversity and [[Inclusive Education|Inclusion]], [[World Bank Institute|EDI]]）板块的硬性要求，当许多教授感到无从下手时，梅根凭借深厚的专业积累直接起草核心论证文本，多次作为合作研究者写进国家级重大课题申请书中。
+> - **梅根（Megan）** 展现了专业管理人员如何直接填补专任教师的知识盲区。面对国家基金对知识动员（Knowledge Mobilization）以及[[Diversity, Equity, and Inclusion|多元、平等与包容]]（Equity, Diversity and Inclusion, EDI）板块的硬性要求，当许多教授感到无从下手时，梅根凭借深厚的专业积累直接起草核心论证文本，多次作为合作研究者写进国家级重大课题申请书中。
 > - **斯蒂芬妮（Stephanie）** 高度评价博士训练在行政工作中的长期价值：“读博带给我最大的财富是学会了如何学习……学会怎样从海量杂乱的信息中摸出头绪，掌握做研究的大局观，知道如何梳理和拆解复杂问题。”
 
 > [!citation-card] 范德克洛特与坎皮西论科研邻近性赋予的专业合法性

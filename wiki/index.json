@@ -11195,6 +11195,18 @@
     ]
   },
   {
+    "title": "Academicity",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Academicity.md",
+    "aliases": [
+      "学术性",
+      "学术资格",
+      "学术主体合法性",
+      "academic subjecthood",
+      "legitimate academicity"
+    ]
+  },
+  {
     "title": "Affirmative Action in Higher Education",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Affirmative Action in Higher Education.md",
@@ -11965,6 +11977,18 @@
       "预备期用工悖论",
       "precarity-driven inefficiency",
       "academic precarity paradox"
+    ]
+  },
+  {
+    "title": "Privileging of Carelessness",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Privileging of Carelessness.md",
+    "aliases": [
+      "漠视照料特权",
+      "照料冷漠性",
+      "Carelessness in Higher Education",
+      "the privileging of carelessness",
+      "漠视照料"
     ]
   },
   {

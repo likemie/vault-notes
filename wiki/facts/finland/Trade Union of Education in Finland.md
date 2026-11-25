@@ -11,7 +11,7 @@ subtype: organization
 region: finland
 fact_region: "finland"
 fact_kind: "organization"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ tags:
 related_concepts:
   - "[[New Public Management]]"
   - "[[Normal School]]"
+  - "[[Academicity]]"
   - "[[Class Size]]"
   - "[[Education Export]]"
   - "[[Transnational Education]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-08
-updated: 2026-11-21
+updated: 2026-11-25
 ---
 
 ---
@@ -75,7 +76,7 @@ updated: 2026-11-21
 >   推动全国不同学段教师编制待遇并轨，全力配合并推动出台1979年[[Normal School|师范教育]]改革法案。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 18–19)]]
 >
 >   - **1973** 教师团体正式整合成立 OAJ，实现全国公立教师工会大一统。
->   - **1979** 成功确立中小学教师全面硕士化准入门槛，并将教师薪资与学术资格挂钩。
+>   - **1979** 成功确立中小学教师全面硕士化准入门槛，并将教师薪资与[[Academicity|学术资格]]挂钩。
 >
 > - **1980–1995** **参与分权改革与抵御市场化竞争**
 >

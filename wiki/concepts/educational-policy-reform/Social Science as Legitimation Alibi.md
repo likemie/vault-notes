@@ -13,7 +13,7 @@ aliases:
 summary: "在教育政策制定与跨国治理中，实证社会科学被政治决策者和技术官僚工具化为推卸行政责任、免受道德反思与公众问责、为既定政治决策提供客观性背书的政治借口机制"
 type: concept
 domain: "educational-policy-reform"
-related_count: 55
+related_count: 57
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Social Economy]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Research Utilization]]"
+  - "[[Student Attitude]]"
   - "[[Theoretical Perspective]]"
   - "[[Reflexivity]]"
   - "[[Geopolitics]]"
@@ -49,6 +50,7 @@ related_concepts:
   - "[[Scientific Paradigm]]"
   - "[[Determinism]]"
   - "[[Policy Science in Comparative Education]]"
+  - "[[Academicity]]"
   - "[[Neoliberalism]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -88,7 +90,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-08
-updated: 2026-11-21
+updated: 2026-11-25
 ---
 
 > [!def] Social Science as Legitimation Alibi
@@ -125,7 +127,7 @@ updated: 2026-11-21
 > |---|---|---|---|
 > | **决策时序** | 研究发现先于政策决定，直接决定行动方案 | 研究成果潜移默化影响决策者的认知视界 | 政治决策先于实证研究，事后调动数据背书 |
 > | **权力与学术关系** | 决策者听从实证证据的最佳指导 | 学术研究启迪与拓宽政策概念框架 | **学术成果依附于权力**，沦为既定正统的政治借口 |
-> | **对相左证据态度** | 依据反面证据调整或终止原定政策 | 容纳多元[[Theoretical Perspective\|理论视角]]以重新界定问题 | **选择性采纳或系统性压制**，排斥复杂批判视角 |
+> | **对相左证据[[Student Attitude\|态度]]** | 依据反面证据调整或终止原定政策 | 容纳多元[[Theoretical Perspective\|理论视角]]以重新界定问题 | **选择性采纳或系统性压制**，排斥复杂批判视角 |
 > | **核心制度功能** | 提升具体政策的执行有效性与技术准确度 | 促进组织学习与[[Reflexivity\|反思性]]教育理解 | **提供行政免责护照，阻断民主问责与道德反思** |
 
 ---
@@ -230,5 +232,5 @@ updated: 2026-11-21
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 历史社会学考证了 1960 年代比较教育学实证[[Scientific Paradigm\|科学范式]]如何作为战后国家计划、[[Human Capital Theory\|人力资本]]投资与技术援助的合法化借口（alibi），并追踪其在 1970 年代危机后的多元演变与当代 [[PISA]] 惯性。
 > - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 梳理两百年比较教育学术史：19 世纪改革者以跨国数据作为立法的合法化理由，战后国际组织赞助[[Positivism|实证主义]]，并借 Carnoy（1983）揭示其意识形态借口性质。
-> - [[Argument_Cowen_2023_CE\|Cowen (2023)]] — 揭示了冷战时期及全球化时代跨国测试（[[IEA]] 与 PISA）如何从学术性的文化理解异化为[[Neoliberalism|新自由主义]]国家机器追求治理效率与正当性的附庸工具。
+> - [[Argument_Cowen_2023_CE\|Cowen (2023)]] — 揭示了冷战时期及全球化时代跨国测试（[[IEA]] 与 PISA）如何从[[Academicity|学术性]]的文化理解异化为[[Neoliberalism|新自由主义]]国家机器追求治理效率与正当性的附庸工具。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 揭示欧委会如何将里斯本教育合作中的达标鸿沟与执行赤字作为合法化借口，反向推动量化基准加密与全景监视网络收紧（pp. 491–492）。

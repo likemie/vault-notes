@@ -12,7 +12,7 @@ aliases:
 summary: "科学社会学与科学政策学中的结构性不平等概念；指当代全球学术交流与主流同行评审期刊被英语单一语种垄断，对非英语母语科研人员构成的非对称学术成本与话语壁垒；非英语母语学者需承担显著偏高的翻译润色支出、时间消耗与非学术性语言拒稿风险，导致本土化情境认知与发展中国家学者的原创贡献在国际科学话语中遭遇系统性挤压与遮蔽。"
 type: concept
 domain: "science-policy"
-related_count: 14
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,8 @@ tags:
 related_concepts:
   - "[[Knowledge Production]]"
   - "[[Creativity]]"
+  - "[[Academicity]]"
+  - "[[Regionness]]"
   - "[[Document]]"
   - "[[Alienation]]"
   - "[[Scientific Productivity]]"
@@ -46,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-04
-updated: 2026-11-15
+updated: 2026-11-25
 ---
 
 ---
@@ -65,13 +67,13 @@ updated: 2026-11-15
 > *(This imbalance extends beyond research groups, as researchers in less resourced or politically constrained environments face additional barriers related to infrastructure, funding stability and language. This is regardless of their [[Creativity|creative potential]], which further narrows the pool of ideas that shape global scientific narratives.)*
 
 > [!boundary]- 概念边界
-> - 不等于普通的学术文笔瑕疵修改：正常的学术规范修润关注逻辑表达与概念精准，语言不公特指审稿意见将地道的母语修辞习惯强加为学术准入先决条件，出现非学术性的主观贬损。
+> - 不等于普通的学术文笔瑕疵修改：正常的学术规范修润关注逻辑表达与概念精准，语言不公特指审稿意见将地道的母语修辞习惯强加为学术准入先决条件，出现非[[Academicity|学术性]]的主观贬损。
 > - 不等于认知不公（[[Epistemic Injustice]]）的全部内涵：语言不公是认知不公在科学语言载体层面的具体具象化形式。
 
 ---
 
 > [!contrast-table|notitle] 概念辨析
-> | 维度 | 科学出版语言不公 | 通用学术语技术便利 | 区域性学术孤立 |
+> | 维度 | 科学出版语言不公 | 通用学术语技术便利 | [[Regionness\|区域性]]学术孤立 |
 > |---|---|---|---|
 > | **制度性质** | 单向度特权体系，成本完全由非母语群体承担 | 降低跨国[[Document\|文献]]翻译与信息检索交易成本的工具 | 固守本土语言导致与国际学术前沿彻底脱节 |
 > | **表现形式** | 粗暴的文字审稿偏见与高昂的商业润色费用 | 共同遵循标准术语与清晰逻辑表达规范 | 拒绝参与国际学术对话，成果传播范围受限 |

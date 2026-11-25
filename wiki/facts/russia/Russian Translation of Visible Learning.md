@@ -61,9 +61,9 @@ related_arguments:
   - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Eacott_2017_SLM]]"
 confidence: medium
-status: draft
+status: active
 created: '2026-05-02'
-updated: 2026-11-19
+updated: 2026-11-25
 ---
 
 ---
@@ -81,7 +81,7 @@ updated: 2026-11-19
 
 > [!dev-timeline] 事件推进历程
 > - **2017 年 — 译本问世与初步热议** 莫斯科“国民教育”出版社推出 Hattie 专著俄文版 *Vidimoe obuchenie*（496页）。该书迅速在俄罗斯教育政策与实践圈传播，各大师资培训机构与出版社频繁组织面向中小学骨干教师的网络研讨会（webinars），将其包装为提升[[School Effectiveness|学校效能]]的“科学指南”。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 232)]]
->   - 2017-09 E.A. Sokolova 发表论文，率先从正面将 Hattie 的指标与 FSES 中关于培养学童[[Critical Thinking|批判性思维]]的条款挂钩。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 237)]]
+>   - 2017-09 E.A. Sokolova 撰文率先从正面将 Hattie 的指标与 FSES 中关于培养学童[[Critical Thinking|批判性思维]]的条款挂钩。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 237)]]
 > - **2018 年 — 学术推崇与循证方法论呼吁** 俄罗斯顶尖教育学术期刊密集出现高度肯定的评价。N.A. Borisenko 在权威期刊《教育研究》发表重磅书评，定性其为近年来俄罗斯翻译教育学术出版的“主要事件”；I.V. Vachkov 与 S.N. Vachkova（2018）明确呼吁全面引入[[Meta-analysis|元分析]]以检验本土教学创新的生产力。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 237)]]
 > - **2019 年 — 批判性反思与政策拒斥结论** 针对俄语学界对 Hattie 理论的单向赞美与批评声音的完全缺失，M.A. Golovchin 在《经济与社会变迁》发表系统检验。通过对 133 项正值[[Effect Size|效应量]]的离散度测算（变差系数高达 56.87%）与对教师报表负担的实证调查，正式向决策层提出“明确拒绝采纳 Hattie 方法”的政策结论。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 229, 238–241)]]
 
@@ -143,7 +143,7 @@ updated: 2026-11-19
 
 > [!debates] 史学评价与当代争议
 >
-> > [!axis] 引介价值争议（科学奠基 vs. 制度陷阱）
+> > [!axis] 引介价值争议（科学支撑 vs. 制度陷阱）
 > > 俄文译本究竟是为俄罗斯现代化课改提供了坚实的循证测量基石，还是带来了具有破坏性后果的去情境化洋教条。
 > >
 > > - **Borisenko / Vachkov（2018）** 该书是当代极具价值的量化评估丰碑，为衡量教学创新生产力提供了不可或缺的工具。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 237)]]
@@ -166,13 +166,13 @@ updated: 2026-11-19
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Visible Learning]] | Concept | 本次俄译事件所引介、翻译与论战的核心理论对象。 |
-> | [[John Hattie]] | Person | 理论原作者，其[[Meta-meta-analysis\|二阶元分析]]方法与核心结论在俄引发广泛争议。 |
-> | [[Policy Borrowing]] | Concept | 解释该事件中外来政策方案在脱离本土制度与文化土壤时产生异化的[[Theoretical Perspective\|理论视角]]。 |
-> | [[Evidence-Based Education]] | Concept | 俄文版出版背后的主导学术[[Paradigm\|范式]]，旨在用量化[[Effect Size\|效应量]]替代传统教育经验。 |
-> | [[Normal School]] | Concept | 俄文版对学科知识与师范教育的贬抑，与俄本土师范教育传统及2016准入改革形成剧烈张力。 |
-> | [[Critical Thinking]] | Concept | 俄文版被俄支持者（如Sokolova）用来论证契合FSES标准的核心概念。 |
-> | [[Teaching and Learning International Survey]] | Fact | 调查数据被用于对比俄罗斯与亚洲教师职业声望的悬殊反差。 |
+> | [[Visible Learning]] | 概念 | 本次俄译事件所引介、翻译与论战的核心理论对象。 |
+> | [[Policy Borrowing]] | 概念 | 解释该事件中外来政策方案在脱离本土制度与文化土壤时产生异化的[[Theoretical Perspective\|理论视角]]。 |
+> | [[Evidence-Based Education]] | 概念 | 俄文版出版背后的主导学术[[Paradigm\|范式]]，旨在用量化[[Effect Size\|效应量]]替代传统教育经验。 |
+> | [[Normal School]] | 概念 | 俄文版对学科知识与师范教育的贬抑，与俄本土师范教育传统及 2016 准入改革形成剧烈张力。 |
+> | [[Critical Thinking]] | 概念 | 俄文版被俄支持者（如 Sokolova）用来论证契合 FSES 标准的核心概念。 |
+> | [[John Hattie]] | 人物 | 理论提出者，其[[Meta-meta-analysis\|二阶元分析]]方法与核心结论在俄引发广泛争议。 |
+> | [[Teaching and Learning International Survey]] | 事实 | 调查数据被用于对比俄罗斯与亚洲教师职业声望的悬殊反差。 |
 
 ---
 

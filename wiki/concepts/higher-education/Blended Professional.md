@@ -1,0 +1,136 @@
+---
+title: Blended Professional
+aliases:
+  - 混合型专业人员
+  - 混合专业人员
+  - 第三空间专业人员
+  - blended professionals
+  - third-space professionals
+summary: "高等教育组织社会学中指具备高阶学术文凭（硕士或博士）且在教学、科研与行政交叉边界从事专业支持与治理工作的跨界从业者；该群体打破了传统大学中‘学术人员-行政人员’严格二元划分，在项目制管理、学术发展与科研管理等第三空间中调动双重知识资本推动机构目标。"
+type: concept
+domain: "higher-education"
+tags:
+  - concept
+  - higher-education
+  - academic-profession
+  - university-governance
+  - third-space
+related_concepts:
+  - "[[Academicity]]"
+  - "[[Alt-Ac]]"
+  - "[[Research Administrator]]"
+  - "[[Third Space Discourse]]"
+  - "[[Privileging of Carelessness]]"
+  - "[[Academic Identity]]"
+  - "[[Cultural Capital]]"
+  - "[[Knowledge Production]]"
+  - "[[Knowledge Mobilisation]]"
+related_theories:
+  - "[[Post-structuralism]]"
+related_methods:
+  - "[[Semi-structured Interview]]"
+  - "[[Discourse Analysis]]"
+related_persons: []
+related_facts: []
+related_instruments: []
+related_arguments:
+  - "[[Argument_VanderKloet_Campisi_2023_JHEPM]]"
+confidence: high
+status: completed
+created: 2026-11-25
+updated: 2026-11-25
+---
+
+---
+
+> [!def] Blended Professional
+> **混合型专业人员（Blended Professional，亦称第三空间专业人员 Third-space Professional）** 是高等教育社会学与大学治理研究中的核心[[Construct|构念]]，特指在当代大学中拥有高阶学术资质（硕士或博士学位），同时在学术事务、科研支撑与科层行政之间的交叉重叠地带从事复合型管理与专业服务工作的群体（Whitchurch, 2008b, p. 384）。该概念由英国高等教育学者西莉亚·惠特彻奇（Celia Whitchurch）于 2008 年提出，旨在打破大学内部“学术人员（Academic Staff）”与“非学术/行政人员（Non-academic / Administrative Staff）”二元对立的传统科层分类，用以界定穿梭于学术与管理边界的混合从业者；后经波利（Stefano Poli, 2018）、史密斯等人（C. Smith et al., 2021）以及范德克洛特与坎皮西（Marie Vander Kloet & Caitlin Campisi, 2023）拓展至加拿大与欧洲高校科研管理者与超级管理者（Superadministrators）的身份与劳动分析。[[Argument_VanderKloet_Campisi_2023_JHEPM|(Whitchurch, 2008b, pp. 384–385; Poli, 2018, p. 8; Vander Kloet & Campisi, 2023, pp. 659–661)]]
+
+> [!concept-lens|notitle] 概念透镜
+> - **含义** 指向兼具学术素养与行政专业技能的复合从业群体，关注其在大学“第三空间”中的交叉角色、知识杂合与身份张力。
+> - **用途** 帮助研究者透视新公共管理与知识经济转型下大学劳动分工的重组，解构行政人员“被动服从”与“透明隐形”的刻板印象。
+> - **边界** 聚焦承担明确机构职能且工作横跨学术-管理边界的专业岗位；不包括没有高阶学术训练的基础科层办事员，亦不包括全职从事教学科研且仅兼任院系行政职务的传统终身教职学者。
+
+> [!citation-card|notitle] 惠特彻奇论混合专业人员跨越边界的复合身份
+> 惠特彻奇在系统考察英国高校专业服务人员身份变迁时指出，混合专业人员依托学术与专业双重背景构建了整合性的第三空间角色。[[Argument_VanderKloet_Campisi_2023_JHEPM|(Whitchurch, 2008b, p. 384)]]
+>
+> *Blended professionals have appointments that are likely to involve a combination of academic and professional tasks, spanning boundaries between teaching, research, and administration... They build their identities not around formal structures or rules, but around projects, partnerships, and shared institutional agendas.*
+
+> [!boundary]- 概念边界
+> - 不等于 [[Research Administrator|科研管理者]]（Research Administrator） — 科研管理者是混合型专业人员在科研管理细分领域的特定职业表现形式，后者外延更宽，涵盖教师发展促进者、知识转化专员与跨学科项目经理。
+> - 不等于 [[Alt-Ac|另类学术]]（Alt-Ac） — Alt-Ac 侧重博士毕业生的个人非传统职业轨道与生涯选择（Identity/Career Pathway）；混合型专业人员则是组织社会学层面对高校新型岗位结构与复合职能的制度化学术分类。
+
+---
+
+> [!contrast-table|notitle] 概念辨析
+> | 分析维度 | 混合型专业人员（Blended Professional） | 传统行政/事务人员（Traditional Staff） | 传统终身制学者（Academic Staff） |
+> |:---|:---|:---|:---|
+> | **教育资质背景** | 普遍具有硕博高阶学术文凭 | 本科或专科为主，偏重通识行政管理 | 博士学位及博士后研究经历 |
+> | **组织空间归属** | [[Third Space Discourse\|第三空间]]（学术与行政的重叠交界区） | 院系科层或中央职能部门办公室 | 学系（Department）与学科共同体 |
+> | **劳动核心机制** | 调动学术理解力开展过程性介入与项目制协同 | 严格遵循规章制度与例行程序处理公文 | 独立开展基础研究、申报基金与教学指导 |
+> | **合法性诉求来源** | 结合学术理解与专业服务促成机构项目落地 | 科层职权与程序合规性保障 | 同行评议认可、学术发表与基金资助 |
+
+---
+
+> [!feature] 核心要素
+> - **双重话语能力（Bilingual Fluency）** 混合专业人员既熟稔学科前沿的理论术语、方法范式与学者心理，又精通高校科层管理规章、合规审查与基金申报政策，具备在学术话语与行政话语间双向翻译的转译力。[[Argument_VanderKloet_Campisi_2023_JHEPM|(Smith et al., 2021, p. 508)]]
+> - **跨界项目制驱动（Project-oriented Boundary Crossing）** 岗位通常依托跨学科研究中心、教师教学发展中心或大型校企合作平台设立，工作围绕特定战略项目展开而非单纯固守科层岗位说明书。[[Argument_VanderKloet_Campisi_2023_JHEPM|(Whitchurch, 2008b, p. 386)]]
+> - **结构性流动与边缘张力（Liminal Ambiguity）** 由于处于教研与行政之间的缝隙地带，常面临来自传统学者的怀疑与中心科层部门的规训，容易陷入职业归属不明与认可匮乏。[[Argument_VanderKloet_Campisi_2023_JHEPM|(Szekeres, 2011, p. 680; Vander Kloet & Campisi, 2023, p. 659)]]
+> - **能动性知识动员（Active Knowledge Mobilisation）** 积极将自身的学术分析能力注入科研申请书撰写与科研战略规划，重构行政劳动的专业深度。[[Argument_VanderKloet_Campisi_2023_JHEPM|(Knight & Lightowler, 2010, p. 545)]]
+
+> [!logic-map]- 要素关系
+> ```mermaid
+> flowchart TD
+>   A["学术背景与高阶文凭（硕博训练）"] --> C["混合型专业人员"]
+>   B["科层规程与专业治理技能"] --> C
+>   C --> D["穿梭第三空间"]
+>   D --> E["双语转译：学术概念与政策规程互通"]
+>   D --> F["项目制协同：推动跨学科与科研基金申报"]
+>   D --> G["身份张力：克服边缘不确定性与层级壁垒"]
+> ```
+
+---
+
+> [!concept-proposition] 衍生理论命题
+> 1. 高校科层化与科研竞争烈度的加剧持续拉大第三空间，推动混合型专业人员在高等教育治理中由被动支撑转变为战略性枢纽。
+> 2. 混合型专业人员对自身[[Academicity|学术性]]的辩护与建构，有效缓解了退出终身教职轨道带来的职业污名与心理落差。
+
+---
+
+> [!dev-timeline] 演进历程
+> - 2004 — 朱迪·塞凯雷斯（Judy Szekeres）发表《隐形劳动者》（*The Invisible Workers*），系统指认大学一般专业人员长期被排除在学术核心叙事之外的边缘现实。
+> - 2008 — 西莉亚·惠特彻奇（Celia Whitchurch）发表论文提出“混合型专业人员”与“第三空间”，为处于学术与行政交叉地带的新兴群体提供分析概念框架。
+> - 2018 — 斯特凡诺·波利（Stefano Poli）将科研管理人员细分为混合专业人员与超级管理者（Superadministrators），深化学术科研服务的多样化结构。
+> - 2021 — 辛迪·史密斯等人（C. Smith et al.）考察加拿大高校环境下的第三空间专业人员，揭示其在权能界定模糊中的日常抗争与协调实践。
+> - 2023 — 玛丽·范德克洛特与凯特琳·坎皮西（Marie Vander Kloet & Caitlin Campisi）结合后结构主义学术性视角，剖析加拿大高校女性混合专业人员如何重塑合法学术主体资格。
+
+---
+
+> [!debates] 学术争议
+> - **增能协同还是学术侵蚀** 支持者认为混合型专业人员提供了高水平的智力协同，释放了学者从繁琐事务脱身的精力；批判学者（如 Jones, 2013）则质疑混合专业人员的膨胀体现了新自由主义管理主义对传统学术自治的稀释与干预。
+> - **权力平等化还是再造层级** 部分研究认为第三空间打破了大学森严的学术-行政二元等级，促进了横向扁平化合作；另一部分实证研究表明，大学内部以终身制学者为尊的地位特权依然稳固，混合专业人员仍处于次等地位。
+
+---
+
+> [!warning|limits] 概念局限
+> - 跨国体制适用差异性：该概念主要诞生并发育于英国、澳大利亚、加拿大等英联邦国家的高等教育语境，在科层行政编制定制较严的高校体系中，混合身份受制于刚性编制区隔。
+> - 角色同质化假定风险：混合专业人员内部涵盖初级科研助理至高级部门主管，群体内部在教育资本、薪酬待遇与组织话语权上存在分化。
+
+---
+
+> [!entry-map] 关联导航
+> - 上位领域：[[Higher Education Governance|高等教育治理]]
+> - 制度空间：[[Third Space Discourse|第三空间]]
+> - 职业表现：[[Research Administrator|科研管理者]] · [[Alt-Ac|另类学术]]
+> - 主体建构：[[Academicity|学术性]] · [[Privileging of Carelessness|漠视照料特权]]
+> - 核心论证：[[Argument_VanderKloet_Campisi_2023_JHEPM|Vander Kloet & Campisi (2023)]]
+
+---
+
+## 来源
+
+> [!evidence-grid-a|notitle] 核心文献
+> - Whitchurch, C. (2008b). Shifting identities and blurring boundaries: The emergence of third space professionals in UK higher education. *Higher Education Quarterly*, 62(4), 377–396. https://doi.org/10.1111/j.1468-2273.2008.00387.x
+> - Poli, S. (2018). Who are today's research managers?: Roles, professional development, and evolution of the profession. In J. Andersen, K. Toom, S. Poli, & F. M. Pamela (Eds.), *Research management Europe and beyond* (pp. 1–29). Academic Press. https://doi.org/10.1016/B978-0-12-805059-0.00001-8
+> - Smith, C., Holden, M., Yu, E., & Hanlon, P. (2021). 'So what do you do?': Third space professionals navigating a Canadian university context. *Journal of Higher Education Policy and Management*, 43(5), 505–519. https://doi.org/10.1080/1360080X.2021.1884513
+> - Vander Kloet, M., & Campisi, C. (2023). Becoming legitimate academic subjects: Doing meaningful work in research administration. *Journal of Higher Education Policy and Management*, 45(6), 658–673. https://doi.org/10.1080/1360080X.2023.2222446

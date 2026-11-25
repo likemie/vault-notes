@@ -1,6 +1,7 @@
 ---
 citation: "Ryttberg, M., & Geschwind, L. (2021). Organising professional support staff at higher education institutions: A multidimensional, continuous balancing act. Tertiary Education and Management, 27, 47–58. https://doi.org/10.1007/s11233-020-09064-y"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Ryttberg_Geschwind_2021_TEM]]"
 processed_date: 2026-11-25
 ---
 

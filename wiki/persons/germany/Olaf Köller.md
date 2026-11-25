@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 34
+person_related_count: 37
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -25,6 +25,7 @@ tags:
   - region/germany
 related_concepts:
   - "[[Academic Achievement]]"
+  - "[[Academicity]]"
   - "[[Class Size]]"
   - "[[Grade Retention]]"
   - "[[Cognitive Activation]]"
@@ -33,6 +34,7 @@ related_concepts:
   - "[[Didaktik]]"
   - "[[Homework]]"
   - "[[Empirische Unterrichtsforschung]]"
+  - "[[Document]]"
   - "[[Concept Mapping]]"
   - "[[Reciprocal Teaching]]"
   - "[[Classroom Management]]"
@@ -52,6 +54,7 @@ related_persons:
   - "[[Ulrich Trautwein]]"
   - "[[John Hattie]]"
   - "[[Ewald Terhart]]"
+  - "[[Andreas Helmke]]"
 related_facts:
   - "[[TOSCA]]"
   - "[[Max Planck Institute for Human Development]]"
@@ -93,7 +96,7 @@ updated: 2026-11-25
 ---
 
 > [!work-line] 主要著作
-> - **2004 — *Wege zur Hochschulreife in Baden-Württemberg (TOSCA)*** 与 Watermann、Trautwein、Lüdtke 合著，奠定高中学术性轨道转型与升学追踪的大规模实证框架。
+> - **2004 — *Wege zur Hochschulreife in Baden-Württemberg (TOSCA)*** 与 Watermann、Trautwein、Lüdtke 合著，奠定高中[[Academicity|学术性]]轨道转型与升学追踪的大规模实证框架。
 > - **2010 — *Sprachliche Kompetenzen im Ländervergleich*** 与 Knigge、Tesch 编著，系统评估德国各州语言素养，揭示师资专业背景对学科成效的制约。
 > - **2012 — *Schulische Leistungen und ihre Messung*** 与 Baumert 合著，基于大规模评估实证确立初中学段核心学科常态年增益为 $d = 0.3 \sim 0.5$ 的现实标尺。
 > - **2014 — *What works best in school?*** 系统审视[[John Hattie|哈蒂]][[Meta-meta-analysis|二阶元分析]]数据，确立深层教学质量维度对学校宏观结构改革的优先性。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, pp. 24–37)]]
@@ -130,7 +133,7 @@ updated: 2026-11-25
 > - **项目协同** [[Ulrich Trautwein]] — 长期学术伙伴，共同研究[[Homework|家庭作业]]机制与大规模中学生追踪。
 > - **同行学者** [[Ewald Terhart]] — 研讨集主编，共同反思[[Empirische Unterrichtsforschung|实证教学研究]]与欧陆教学论的结合路径。
 > - **学术对话** [[John Hattie]] — 评析其二阶[[Meta-analysis|元分析]]数据，将其置于德语区经验研究与国际[[Evidence Network|证据网络]]中重新审视。
-> - **学术争鸣** [[Andreas Helmke]]、Hans Brügelmann — 在引述哈蒂元分析评估开放教学成效上产生论辩，后者批判其忽视底层英语文献历史滞后与组内方差离散度。
+> - **学术争鸣** [[Andreas Helmke]]、Hans Brügelmann — 在引述哈蒂元分析评估开放教学成效上产生论辩，后者批判其忽视底层英语[[Document|文献]]历史滞后与组内方差离散度。
 
 ---
 

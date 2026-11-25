@@ -13,9 +13,9 @@ subtype: policy
 region: germany
 fact_region: "germany"
 fact_kind: "policy"
-fact_related_count: 27
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 31
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
 period: "1964–至今（多数联邦州已合并转型）"
 issuing_organization: "常设各州教育与文化部长会议（KMK）及各联邦州教育部"
@@ -38,18 +38,22 @@ related_concepts:
   - "[[School Choice]]"
   - "[[Industrial District]]"
   - "[[Competitiveness]]"
+  - "[[Determinism]]"
+  - "[[Visible Learning]]"
+  - "[[Interaction Effect]]"
   - "[[Comprehensive Education]]"
   - "[[Selective Education]]"
-  - "[[Second-Order Change]]"
+  - "[[Academicity]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Alexander Oettl]]"
-  - "[[Richard Münch]]"
   - "[[Hans-Günter Rolff]]"
+  - "[[Richard Münch]]"
 related_facts:
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
+  - "[[Gymnasium]]"
   - "[[Realschule]]"
   - "[[German Dual Education System]]"
   - "[[PISA]]"
@@ -69,7 +73,7 @@ updated: 2026-11-25
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 1964 年 10 月，德国[[Standing Conference of the Ministers of Education and Cultural Affairs|常设各州教育与文化部长会议]]（[[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]]）正式签署《汉堡协定》（Hamburger Abkommen），将传统八年制国民学校（Volksschule）的高年级阶段（5–9 年级）独立设制为主要中学（Hauptschule），与文法中学（Gymnasium）、[[Realschule|实科中学]]（Realschule）共同构建战后西德标准的三轨中等教育分流架构。
+> - **发布时间 / 发布主体** 1964 年 10 月，德国[[Standing Conference of the Ministers of Education and Cultural Affairs|常设各州教育与文化部长会议]]（[[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]]）正式签署《汉堡协定》（Hamburger Abkommen），将传统八年制国民学校（Volksschule）的高年级阶段（5–9 年级）独立设制为主要中学（Hauptschule），与[[Gymnasium|文法中学]]（Gymnasium）、[[Realschule|实科中学]]（Realschule）共同构建战后西德标准的三轨中等教育分流架构。
 > - **适用地区 / 对象** 覆盖德意志联邦共和国全部联邦州初等教育阶段（通常为小学四年级，10 岁）毕业后，未获得文法中学或实科中学推荐录取的适龄学童。
 > - **问题背景** 战后初期为满足西德工业复兴对蓝领产业工人与手工业学徒的大规模需求，需要建立与大众普及性义务教育相衔接的职业预备轨道；后期伴随教育扩张与中产家庭逃离，生源迅速弱势化。
 > - **制度位置** 属于德国[[Tripartite School System|三轨学制]]中要求最低的底端分流轨道，向下承接小学四年制基础教育，向上主要衔接[[German Dual Education System|双元制]]职业教育体系。[[Argument_Munch_2014_TCR|(Münch, 2014, pp. 10, 12)]]
@@ -139,8 +143,8 @@ updated: 2026-11-25
 > > [!axis] 教师效能归咎 vs 人与结构共变理论
 > > 针对将主要中学学业危机归咎于教师教学水平的倾向展开学术审读。
 > >
-> > - **个体问责倾向（教师决定论）** 德国部分舆论与政策评论借助对《可见的学习》的简化阐释，主张学校质量完全取决于单个教师的课堂行为，试图以此淡化学制结构改革的迫切性（[[Argument_Rolff_2014_SchoolStructure|Rolff, 2014, pp. 67]], 77）。
-> > - **系统属性与反个体归咎（制度社会学派）** [[Hans-Günter Rolff|罗尔夫]]（[[Argument_Rolff_2014_SchoolStructure|Rolff, 2014, p. 77]]）强调学校质量是系统的整体属性，主要中学集中展现了人与结构的交互作用：它拥有敬业的教师，却受制于被边缘化的不利轨制结构；将质量问题单独推给教师个体，会使其沦为制度缺陷的替罪羊。[[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]]
+> > - **个体问责倾向（教师[[Determinism|决定论]]）** 德国部分舆论与政策评论借助对《[[Visible Learning|可见的学习]]》的简化阐释，主张学校质量完全取决于单个教师的课堂行为，试图以此淡化学制结构改革的迫切性（[[Argument_Rolff_2014_SchoolStructure|Rolff, 2014, pp. 67]], 77）。
+> > - **系统属性与反个体归咎（制度社会学派）** [[Hans-Günter Rolff|罗尔夫]]（[[Argument_Rolff_2014_SchoolStructure|Rolff, 2014, p. 77]]）强调学校质量是系统的整体属性，主要中学集中展现了人与结构的[[Interaction Effect|交互作用]]：它拥有敬业的教师，却受制于被边缘化的不利轨制结构；将质量问题单独推给教师个体，会使其沦为制度缺陷的替罪羊。[[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]]
 
 ---
 
@@ -152,7 +156,7 @@ updated: 2026-11-25
 > | [[Tracking]] | Concept | 主要中学赖以划分生源的 10 岁早期学力分轨机制。 |
 > | [[Comprehensive Education]] | Concept | 德国学界主张用以替代主要中学分流格局的综合中学模式。 |
 > | [[Selective Education]] | Concept | 主要中学作为底层承接端体现出的精英筛选教育特质。 |
-> | [[Academic Achievement]] | Concept | PISA 测评证实主要中学生源在学业成就上与学术性文法中学拉开巨大鸿沟。 |
+> | [[Academic Achievement]] | Concept | PISA 测评证实主要中学生源在学业成就上与[[Academicity\|学术性]]文法中学拉开巨大鸿沟。 |
 > | [[Standing Conference of the Ministers of Education and Cultural Affairs]] | Fact (Organization) | 签署《汉堡协定》确立主要中学并在后 PISA 时期颁布其国家标准的协调中枢。 |
 > | [[German Dual Education System]] | Fact (Program) | 主要中学毕业生在传统体制下重点衔接的企业双元制学徒培训。 |
 > | [[PISA]] | Fact (Program) | 暴露出主要中学底层隔离与学业低下危机的大规模国际测评。 |

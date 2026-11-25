@@ -7,7 +7,7 @@ aliases:
 summary: "运用社会科学研究方法回答特定政策或项目之有效性、实施与效果的应用研究分支；在分类资助驱动下成为政策议程塑形知识生产的重要载体（Cohen et al., 2011），与探索普遍规律的蓝天研究共享方法论工具但以决策效用为归宿，其结论采纳高度受制于政治契合度与方法学因果证据门槛（Berk, 2011）。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Epistemic Governance]]"
   - "[[Counterfactual]]"
   - "[[Causality]]"
+  - "[[Academicity]]"
   - "[[Curiosity-Driven Research]]"
   - "[[Categorical Funding]]"
   - "[[Research Topic]]"
@@ -59,7 +60,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-06-17
-updated: 2026-11-11
+updated: 2026-11-25
 ---
 
 ---
@@ -70,7 +71,7 @@ updated: 2026-11-11
 > [!concept-lens] 概念透镜
 > - **含义** 评估研究指向以回答特定实践问题为导向的研究活动，研究议程多由公共部门或资助方设定，成果直接服务于政策与项目决策。
 > - **用途** 帮助研究者和决策者系统检验项目成效、优化教育资源分配并识别具体干预与结果之间的因果关联。
-> - **边界** 区别于一般行政层面的“评估”（Evaluation 涵盖大量非学术性的日常检查与资格审定）；区别于基础理论研究（[[Curiosity-Driven Research|蓝天研究]]旨在探索普遍规律并拓展理论边界）。
+> - **边界** 区别于一般行政层面的“评估”（Evaluation 涵盖大量非[[Academicity|学术性]]的日常检查与资格审定）；区别于基础理论研究（[[Curiosity-Driven Research|蓝天研究]]旨在探索普遍规律并拓展理论边界）。
 
 > [!citation-card] 伯吉斯论[[Categorical Funding|分类资助]]对评估研究的制度塑形
 > 过去二十余年，分类资助（Categorical Funding）大幅增长，政府与赞助方预先设定[[Research Topic|研究主题]]与评价指标，推动了教育研究中评估研究占比的急剧上升。研究者在很大程度上转变为竞标承接合同的专业人员，教育[[Knowledge Production|知识生产]]的议程由此从学术求知转向直接服务政策需求。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03|(Cohen et al., 2011, Ch. 3.1)]]

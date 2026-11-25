@@ -12,10 +12,10 @@ aliases:
 summary: "托马斯·谢林奠基的战略博弈与强制议价理论，主张伤害能力即为谈判筹码、战争本质是流动的讨价还价过程，并在大国竞争中延伸为由算法与软件硬实力决定的新型威慑；经帕特南与卡斯特罗扩展至国际政治经济学与超国家治理领域，揭示跨国制度谈判是一场国际技术理性与国内政治可行性之间的双层博弈，主权借款国常将外部苛刻条件策略性转化为化解本土政治阻力的博弈筹码。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 29
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 30
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 domain: "political-economy-geopolitics"
 related_count: 22
 related_level: 2
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Other Transaction Authority]]"
   - "[[Reliability]]"
+  - "[[Academicity]]"
   - "[[Constructivist Paradigm]]"
   - "[[Determinism]]"
   - "[[Geopolitics]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-07
-updated: 2026-11-15
+updated: 2026-11-25
 ---
 
 ---
@@ -163,7 +164,7 @@ updated: 2026-11-15
 
 > [!exegesis]- 跨国战略博弈实操案例透视
 > - **案例一：智能化算法武器在大国危机威慑中的筹码构建（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Karp & Zamiska, 2025, pp. 29–33]]）** 在高科技大国博弈中，美军通过在野外复杂地形部署自主穿梭的无人机蜂群以及对战场全动态视频进行实时自动目标识别的机器学习软件（如[[Project Maven|梅文项目]]），向战略竞争对手展示了在几分钟内定位并摧毁关键高价值节点的技术能力。谢林博弈论表明，这一前沿软件[[Hard Power|硬实力]]的威慑效能在于让对手清晰预期到发动冒险必将招致秒级毁灭性打击，以此在外交谈判中确立不可逾越的安全红线，无需实际消灭敌方军力。
-> - **案例二：巴西中等教育普职分流改革中的双层博弈与主权否决（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 466–467]]）** 1990 年代，多边开发银行在巴西推行中等职业技术教育改革，主张将联邦技术学校与学术性高中彻底剥离，要求学生白天就读普通高中、仅在课余选修技能培训。这一方案引发了巴西学者与教育界的激烈抗议（被视为剥夺工农子弟升学权利）。尽管多边银行提供了数亿美元贷款诱惑并施加了附加条件，但巴西教育部长在权衡国内政治合法性与宪法教育平权诉求后，断然拒绝在全国强行推行该模板，并在关键条款上行使了主权实质否决权。该案例生动证明：在触及政权政治生存与宪政红线时，主权借款国保有充分的自主决断空间，国内政治可行性始终构成了战略博弈的终极天花板。
+> - **案例二：巴西中等教育普职分流改革中的双层博弈与主权否决（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 466–467]]）** 1990 年代，多边开发银行在巴西推行中等职业技术教育改革，主张将联邦技术学校与[[Academicity|学术性]]高中彻底剥离，要求学生白天就读普通高中、仅在课余选修技能培训。这一方案引发了巴西学者与教育界的激烈抗议（被视为剥夺工农子弟升学权利）。尽管多边银行提供了数亿美元贷款诱惑并施加了附加条件，但巴西教育部长在权衡国内政治合法性与宪法教育平权诉求后，断然拒绝在全国强行推行该模板，并在关键条款上行使了主权实质否决权。该案例生动证明：在触及政权政治生存与宪政红线时，主权借款国保有充分的自主决断空间，国内政治可行性始终构成了战略博弈的终极天花板。
 
 ---
 

@@ -43,6 +43,7 @@ related_concepts:
   - "[[Gold Standard Science]]"
   - "[[Big Science]]"
   - "[[Red Tape]]"
+  - "[[Brain Drain]]"
   - "[[Seniority Barrier in Academia]]"
   - "[[Eroom's Law]]"
   - "[[Research Tool]]"
@@ -51,7 +52,9 @@ related_concepts:
   - "[[Star Scientists]]"
   - "[[Original Innovation Capability]]"
   - "[[Document]]"
+  - "[[Academicity]]"
   - "[[Diversity, Equity, and Inclusion]]"
+  - "[[Inclusive Education]]"
   - "[[Discourse]]"
   - "[[Scientific Literacy]]"
   - "[[Reproducibility Crisis]]"
@@ -69,6 +72,7 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Competitiveness]]"
   - "[[Technology Transfer]]"
+  - "[[Entrepreneurial Ecosystem]]"
   - "[[Clinical Trial]]"
   - "[[Megascience Installations]]"
   - "[[Pilot Scale Platform]]"
@@ -111,6 +115,7 @@ related_persons:
   - "[[Vannevar Bush]]"
   - "[[Donald Stokes]]"
   - "[[Max Planck]]"
+  - "[[Charles Taylor]]"
 related_facts:
   - "[[Science A New Golden Age 2026]]"
   - "[[Office of Science and Technology Policy]]"
@@ -150,14 +155,14 @@ sources:
 part_of:
 status: active
 created: 2026-10-07
-updated: 2026-11-15
+updated: 2026-11-25
 subtype: report
 publication_type: report
 title: "Argument_Kratsios_2026_OSTP"
 argument_key: "Argument_Kratsios_2026_OSTP"
 argument_display_title: "Science: A new golden age (Report to the President)"
 argument_kind: "report"
-argument_related_count: 120
+argument_related_count: 125
 argument_related_level: 12
 argument_related_stars: "💎💎💎💎"
 argument_related_color: "#fecdd3"
@@ -342,7 +347,7 @@ issuing_organization: "[[Office of Science and Technology Policy]]"
 若缺乏本土制造生态承接，单纯的科学开放将面临严重的战略外溢。
 
 > [!threat] 单向开放模式下的技术外溢与产业脱节风险
-> - **人才流失隐患** 计算机科学、数学与工程博士毕业生中临时签证持有者占比高达 40%–50%，人才去留深刻影响关键技术掌控。（pp. 10–11）
+> - **[[Brain Drain|人才流失]]隐患** 计算机科学、数学与工程博士毕业生中临时签证持有者占比高达 40%–50%，人才去留深刻影响关键技术掌控。（pp. 10–11）
 > - **研发制造脱节** 极紫外光刻核心技术与先进锂电化学起源于美国公共资金，但因本土制造缺失，产业主导权被国外承接。（p. 10）
 > - **非对称竞争劣势** 美国承担基础研发成本，外部竞争者凭借全社会动员体制与制造优势低成本获取并实现产业垄断。（pp. 9–10）
 
@@ -392,10 +397,10 @@ issuing_organization: "[[Office of Science and Technology Policy]]"
 
 > [!sub-claim] 4. 偏离科学优劣的选拔标准对卓越人才构成隐性排斥
 
-资助评审机制若引入非学术性评价指标，将对选拔质量与科研公正性造成结构性扭曲。
+资助评审机制若引入非[[Academicity|学术性]]评价指标，将对选拔质量与科研公正性造成结构性扭曲。
 
 > [!case] 偏离科学能力准则的历史教训与现实扭曲
-> 2021 至 2024 年间，NSF 重点涉及[[Diversity, Equity, and Inclusion|多元、平等与包容]]（Diversity, Equity, and Inclusion, DEI）倡议的资助份额由不足 1% 激增至 25% 以上；[[National Aeronautics and Space Administration|国家航空航天局]]（National Aeronautics and Space Administration, NASA）一度要求提案必须包含包容性计划，并由半数具备 DEI 背景的专家组成专门小组进行评审。此类政策迫使科研人员在硬核技术提案中附会非学术性[[Discourse|话语]]，其机制类似于 1920 年代哈佛大学为限制犹太学生比例而引入的非客观品格评价体系。以与[[Scientific Literacy|科学素养]]无关的标准筛选人才，其最终代价是损害国家整体的科学探索能力（p. 17）。
+> 2021 至 2024 年间，NSF 重点涉及[[Diversity, Equity, and Inclusion|多元、平等与包容]]（Diversity, Equity, and [[Inclusive Education|Inclusion]], DEI）倡议的资助份额由不足 1% 激增至 25% 以上；[[National Aeronautics and Space Administration|国家航空航天局]]（National Aeronautics and Space Administration, NASA）一度要求提案必须包含包容性计划，并由半数具备 DEI 背景的专家组成专门小组进行评审。此类政策迫使科研人员在硬核技术提案中附会非学术性[[Discourse|话语]]，其机制类似于 1920 年代哈佛大学为限制犹太学生比例而引入的非客观品格评价体系。以与[[Scientific Literacy|科学素养]]无关的标准筛选人才，其最终代价是损害国家整体的科学探索能力（p. 17）。
 
 > [!sub-claim] 5. 碎片化短周期考核机制阻碍高风险长周期探索
 
@@ -529,7 +534,7 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 
 美国的制度比较优势在于庞大的风险资本与流动性市场，但必须将其与实体转化紧密对齐。
 
-> [!strength] 美国在风险资本与创业生态层面的制度优势
+> [!strength] 美国在风险资本与[[Entrepreneurial Ecosystem|创业生态]]层面的制度优势
 > - **全球领先的风投资本规模** 2024 年全美风险投资逾 2000 亿美元，占全球总份额的 57%。（p. 36）
 > - **雄厚的技术企业资本市值** 七家最大的科技领军企业市值总和超越主要竞争对手的全部股票市场市值。（p. 36）
 > - **宽容失败的创新法治环境** 健全的产权合同保护、长周期机构投资者与将失败视为宝贵认知的创业文化。（p. 36）
@@ -676,7 +681,7 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 
 历史经验表明，长期的制造业集聚孕育出卓越的工程设计文化。随着研发与制造的物理贴近，区域内供应商网络与技术工人形成的协同效应难以被单纯的资本投入所复制（p. 54）。
 
-> [!case] 俄亥俄新奥尔巴尼与得克萨斯泰勒的半导体生态培育
+> [!case] 俄亥俄新奥尔巴尼与得克萨斯[[Charles Taylor|泰勒]]的半导体生态培育
 > 俄亥俄州通过 20 亿美元地方激励吸引先进制程半导体制造落地，依托[[Community College Strategic Anchoring|社区学院战略产业锚定模式]]统筹全州 23 所社区学院联合开发开放式芯片制造技术员课程体系；得克萨斯州泰勒市依托地方[[University-Industry Collaboration|产学合作]]吸引近 50 亿美元投资，形成了地方政府、教育机构与实体企业对齐的良性劳动力生态（p. 55）。
 
 深植于民间的建造文化与动手实践是[[National Innovation System|国家创新体系]]不可忽视的基石。

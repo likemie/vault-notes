@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 66
+person_related_count: 68
 person_related_level: 6
 person_related_stars: "💎💎"
 person_related_color: "#fef3c7"
@@ -40,11 +40,13 @@ related_concepts:
   - "[[Scholiocentric Approach]]"
   - "[[Unit of Analysis]]"
   - "[[Creativity]]"
+  - "[[Student Attitude]]"
   - "[[International Education]]"
   - "[[Epistemology]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Sadler's Garden Metaphor]]"
   - "[[Educational Meliorism]]"
+  - "[[Academicity]]"
   - "[[Discourse]]"
   - "[[Positivism]]"
   - "[[Operationalization]]"
@@ -97,7 +99,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: '2026-06-08'
-updated: 2026-11-19
+updated: 2026-11-25
 ---
 
 ---
@@ -167,7 +169,7 @@ updated: 2026-11-19
 > [!frames-ref] 萨德勒 1900 年牛津演讲确立的文化情境分析六大原则（[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias, 2009a, pp. 141–142]]）
 > 1. **超越“以校为中心”的机械偏狭** 教育绝不能孤立于学校围墙之内，必须将学校置于完整的社会文化与历史脉络中把握。
 > 2. **探寻校外无形精神力量的支配性** 校外的事物比校内的事物更为重要，真正支配并解释着校内一切的，是潜藏在家庭、街道与民族历史传统中的无形精神力量。
-> 3. **秉持学术严谨与设身处地的同情理解** 摒弃居高临下的优越感与民族偏见，以包容、同情的态度理解外国制度生成的内在合理性。
+> 3. **秉持学术严谨与设身处地的同情理解** 摒弃居高临下的优越感与民族偏见，以包容、同情的[[Student Attitude|态度]]理解外国制度生成的内在合理性。
 > 4. **确立民族国家教育体系为整体分析单元** 首次系统将民族国家整体教育体系（National Systems of Education）确立为跨国比较的核心[[Unit of Analysis\|分析单位]]。
 > 5. **以他者为镜鉴反思本国制度核心命题** 跨国考察外国教育的最高实践价值，在于使学者获得更加敏锐的眼光，回过头来看清并理解本国体系的优势、弊端与灵魂。
 > 6. **倡导审慎批判借鉴而非盲目机械照搬** 在透彻理解本国历史文化土壤的前提下推进渐进式改良，坚决防范不切实际的“盆栽移植”。
@@ -265,7 +267,7 @@ updated: 2026-11-19
 > > [!axis] 技术工具论 vs [[Epistemology|认识论]]空洞危机
 > > 争论围绕萨德勒的“实用价值”遗产是否正在阻碍学科的理论化进程展开。
 > > - **实用[[Educational Meliorism|改良主义]]立场** 绝大多数比较教育学者支持萨德勒的遗产，认为“情境约束”和“政策借鉴的实用价值”构成了该学科存在的底线合法性与社会改良价值。
-> > - **学术性超越立场** 考恩对萨德勒的“实用价值”路径进行了严厉解构，指出这一框架促成了学科在认识论上的停滞与科学[[Discourse|话语]]的混乱，使学科面临严重的认识型老化危机。[[Argument_Cowen_2023_CE|(Cowen, 2023, pp. 327–328)]]
+> > - **[[Academicity|学术性]]超越立场** 考恩对萨德勒的“实用价值”路径进行了严厉解构，指出这一框架促成了学科在认识论上的停滞与科学[[Discourse|话语]]的混乱，使学科面临严重的认识型老化危机。[[Argument_Cowen_2023_CE|(Cowen, 2023, pp. 327–328)]]
 >
 > > [!axis] 质性文化直觉 vs 战后科学[[Positivism|实证主义]]
 > > 20 世纪 60 年代战后实证学派对萨德勒精神遗产的猛烈发难。

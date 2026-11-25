@@ -8,9 +8,9 @@ aliases:
 summary: "教师布置并在校外非教学时段由学生独立或在支持下完成的学习任务，其学业效果受学段认知发展高度调节，并在元分析构念聚合与比较基线不对等上面临方法学争议"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 65
-related_level: 6
-related_stars: "💎💎"
+related_count: 70
+related_level: 7
+related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - theme/instructional-design
@@ -20,9 +20,11 @@ tags:
   - metax
   - eef
 related_concepts:
+  - "[[Academicity]]"
   - "[[Self-Regulated Learning]]"
   - "[[Heterogeneity]]"
   - "[[Construct]]"
+  - "[[Instructional Design]]"
   - "[[Effective Teaching]]"
   - "[[Learning Gain]]"
   - "[[Teaching Assistant]]"
@@ -37,15 +39,12 @@ related_concepts:
   - "[[Executive Function]]"
   - "[[Cultural Capital]]"
   - "[[Generative Artificial Intelligence]]"
-  - "[[Class Size]]"
-  - "[[Visible Learning]]"
-  - "[[Variable]]"
-  - "[[Epistemic Agency]]"
-  - "[[Epistemic Friction]]"
   - "[[Academic Achievement]]"
+  - "[[Visible Learning]]"
   - "[[Zone of Desired Effects]]"
   - "[[Rote Learning]]"
   - "[[Reflexivity]]"
+  - "[[Variable]]"
   - "[[Causality]]"
   - "[[Homophily]]"
   - "[[Independent Variable]]"
@@ -54,11 +53,16 @@ related_concepts:
   - "[[Tracking]]"
   - "[[Competitiveness]]"
   - "[[Time Management]]"
+  - "[[Social Economy]]"
+  - "[[Class Size]]"
+  - "[[Epistemic Agency]]"
+  - "[[Epistemic Friction]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Questionnaire]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Cohort Study]]"
   - "[[Sample Size Determination]]"
   - "[[Meta-meta-analysis]]"
   - "[[Process Tracing]]"
@@ -68,6 +72,7 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Teacher Choices]]"
   - "[[Sputnik Shock 1957]]"
+  - "[[Teach Less, Learn More]]"
 related_arguments:
   - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Simpson_2017_JEdPolicy]]"
@@ -75,11 +80,11 @@ related_arguments:
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Du_Yuan_2026_AIS]]"
+  - "[[Argument_Koller_2014_WhatWorks]]"
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Nielsen_2021_NordPsych]]"
   - "[[Argument_Sahlgren_2015_CPS]]"
   - "[[Argument_Deng_2016_CE]]"
-  - "[[Argument_Koller_2014_WhatWorks]]"
 related_persons:
   - "[[Steve Higgins]]"
   - "[[John Hattie]]"
@@ -93,15 +98,15 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-08
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 
 > [!def] Homework
-> **家庭作业（Homework）** 指由学校教师布置、要求学生在校外非正规教学时段（通常在家中或课后辅导托管情境）独立或在成人支持下完成的学术性学习任务。在实证教育研究中，家庭作业被普遍假设为延伸课堂学习时间、巩固学科知识技能以及发展学生[[Self-Regulated Learning|自主调节学习]]习惯的核心教学干预。然而，由于该术语在不同历史时期、不同国家学制及不同实证研究中涵盖了[[Heterogeneity|异质性]]极高的活动形态，使得关于其有效性的[[Meta-analysis|元分析]]聚合长期陷入“苹果与橙子”的[[Construct|构念]]混淆困境。[[Argument_Higgins_2016_ROE|(Higgins, 2016, pp. 37–38)]]; [[Argument_Simpson_2017_JEdPolicy|(Simpson, 2017, p. 7)]]
+> **家庭作业（Homework）** 指由学校教师布置、要求学生在校外非正规教学时段（通常在家中或课后辅导托管情境）独立或在成人支持下完成的[[Academicity|学术性]]学习任务。在实证教育研究中，家庭作业被普遍假设为延伸课堂学习时间、巩固学科知识技能以及发展学生[[Self-Regulated Learning|自主调节学习]]习惯的核心教学干预。然而，由于该术语在不同历史时期、不同国家学制及不同实证研究中涵盖了[[Heterogeneity|异质性]]极高的活动形态，使得关于其有效性的[[Meta-analysis|元分析]]聚合长期陷入“苹果与橙子”的[[Construct|构念]]混淆困境。[[Argument_Higgins_2016_ROE|(Higgins, 2016, pp. 37–38)]]; [[Argument_Simpson_2017_JEdPolicy|(Simpson, 2017, p. 7)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向连接学校正规教学与家庭私人空间的学习中介任务，承担着知识巩固、预习铺垫、习惯养成与学业诊断的多重功能。
-> - **用途** 在教学设计中用作延伸[[Effective Teaching|有效教学]]时间（Time-on-Task）与强化长时记忆提取的工具；在政策与家校合作中充当家校沟通、展示学业进展及实施学科学业问责的显性载体。
+> - **用途** 在[[Instructional Design|教学设计]]中用作延伸[[Effective Teaching|有效教学]]时间（Time-on-Task）与强化长时记忆提取的工具；在政策与家校合作中充当家校沟通、展示学业进展及实施学科学业问责的显性载体。
 > - **边界** 家庭作业属于高度异质的复杂活动，其有效性取决于学生的认知发展阶段（小学 vs 中学）、任务类型（机械死记 vs 理解迁移）、形成性反馈回路质量以及家庭支持资源的丰瘠，缺乏教师高质量形成性反馈的机械性作业无法自发转化为[[Learning Gain|学习增益]]。
 
 > [!citation-card] 希金斯论家庭作业元分析中的构念混淆
@@ -169,7 +174,7 @@ updated: 2026-11-24
 > 2. **全班集中反馈的微型试验探索** 一线教师迫切需要解答：全班集中反馈（Whole-Class [[Feedback]]，即通览作业提取典型共性错误并在课上集中引导学生自我订正）是否比逐本耗时批改更能促进学习？为攻克此类日常微观决策难以开展经典昂贵 [[Randomised Controlled Trials|RCT]] 的瓶颈，EEF 于 2018 年启动新型试点，采用被试内设计（within-participant designs）与近端过程性指标，以短周期、小样本高灵敏度因果试验，直接为作业反馈策略的科学化与去官僚化提供证据支持。
 
 > [!claim] Trautwein & Köller
-> **高频适度原则与课内跟进检查的促学机制** 德语区中学生的大规模纵向追踪研究（Trautwein et al., 2002; Trautwein & Köller, 2003）证实，单纯延长作业时长并不带来成绩增益；作业发挥促学效能的关键在于遵循“频次高、题量适度”的设计原则，并且必须由任课教师在后续课堂中进行严格跟进检查与纠偏。脱离课内检查与反馈的过量作业不仅无法转化为学业进步，反而诱发敷衍抄袭与动机衰退。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, pp. 31, 34)]]
+> **高频适度原则与课内跟进检查的促学机制** 德语区中学生的大规模纵向[[Cohort Study|追踪研究]]（Trautwein et al., 2002; Trautwein & Köller, 2003）证实，单纯延长作业时长并不带来成绩增益；作业发挥促学效能的关键在于遵循“频次高、题量适度”的设计原则，并且必须由任课教师在后续课堂中进行严格跟进检查与纠偏。脱离课内检查与反馈的过量作业不仅无法转化为学业进步，反而诱发敷衍抄袭与动机衰退。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, pp. 31, 34)]]
 
 ---
 
@@ -244,7 +249,7 @@ updated: 2026-11-24
 > > 争论焦点在于家庭作业是培养自律品格与学业卓越的必要阶梯，还是侵占儿童身心健康并再生产家庭阶层差距的制度推手。
 > >
 > > - **自律与延伸学习论** 强调作业培养了[[Time Management|时间管理]]、独立思考与自制力，是课堂有限教学时间的不可或缺补充。
-> > - **家庭资本不平等再生产论** 批判学者指出，居家作业质量高度依附于家庭[[Cultural Capital|文化资本]]与物理环境（独立安静书桌、家长辅导能力、辅导资源购置）；当教师布置需要家庭资源强力支持的探究作业时，作业实质上沦为将社会经济不平等直接折射为学业差距的放大器。
+> > - **家庭资本不平等再生产论** 批判学者指出，居家作业质量高度依附于家庭[[Cultural Capital|文化资本]]与物理环境（独立安静书桌、家长辅导能力、辅导资源购置）；当教师布置需要家庭资源强力支持的探究作业时，作业实质上沦为将[[Social Economy|社会经济]]不平等直接折射为学业差距的放大器。
 >
 > > [!axis] 教师精细书面批改神话 vs 形成性全班集中反馈效能
 > > 探讨教师是否必须对每份学生作业逐字逐句撰写批语。
@@ -408,6 +413,6 @@ updated: 2026-11-24
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 记录丹麦教育机构依据哈蒂 $d=0.29$ 均值一刀切废除家庭作业的政策案例，批判无调节元分析对学段、学科与能力[[Heterogeneity|异质性]]的系统性遮蔽（pp. 8–9）。
 > - [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] — 阐明[[Generative Artificial Intelligence|生成式人工智能]]对静态成品作业的颠覆性冲击，提出向全流程思维追踪、反思决策日志与无技术迁移测试转型的作业重构方案。
 > - [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]] — 结合跨国实证文献与国际测验数据，反驳将芬兰少作业宽松课业视作学业奇迹原因的流行神话，证实家庭作业量与数理学业表现保持显著正向关联（p. 11）。
-> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 分析新加坡“少教多学”改革中引入专题作业与创新创业倡议的政策实践，揭示高利害升学分流大考对探究性作业实践的制度制约。
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 分析新加坡“[[Teach Less, Learn More|少教多学]]”改革中引入专题作业与创新创业倡议的政策实践，揭示高利害升学分流大考对探究性作业实践的制度制约。
 > - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 审读哈蒂家庭作业效应量（$d = 0.29$），结合 Trautwein et al. 德国本土纵向追踪，确立作业促学必须遵循高频次、适度题量与教师课内严格跟进检查原则（pp. 31, 34）。
 

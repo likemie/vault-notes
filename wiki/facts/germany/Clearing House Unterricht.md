@@ -10,7 +10,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 46
+fact_related_count: 48
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"
@@ -26,6 +26,7 @@ tags:
   - theme/clearinghouse
   - theme/research-practice-transfer
 related_concepts:
+  - "[[Academicity]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Document]]"
@@ -69,6 +70,7 @@ related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
+  - "[[National Institute of Education]]"
   - "[[What Works Clearinghouse]]"
   - "[[Education Endowment Foundation]]"
   - "[[Forschungsmonitor Schule]]"
@@ -81,11 +83,11 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-11-19
+updated: 2026-11-25
 ---
 
 > [!claim] 核心定位
-> 德国教学研究清算中心（Clearing House Unterricht, CHU）是设立于慕尼黑工业大学（Technische Universität München, TUM）的学术性[[Educational Evidence Clearinghouses\|教育证据清算中心]]与教育[[Educational Brokerage Agency\|知识中介机构]]（Seidel et al., 2017）。作为德语区教育科学领域首个常设清算平台，其核心使命是系统搜集、筛选与二次加工国际教学有效性实证研究（重点[[FocusMath\|聚焦数学]]、信息学、自然科学与技术［Mathematik, Informatik, Naturwissenschaften und Technik, MINT］学科），促进前沿科研证据向教师教育与学校课堂实践的专业化转移。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, pp. 13–14)]]; [[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, p. 10)]]
+> 德国教学研究清算中心（Clearing House Unterricht, CHU）是设立于慕尼黑工业大学（Technische Universität München, TUM）的[[Academicity|学术性]][[Educational Evidence Clearinghouses\|教育证据清算中心]]与教育[[Educational Brokerage Agency\|知识中介机构]]（Seidel et al., 2017）。作为德语区教育科学领域首个常设清算平台，其核心使命是系统搜集、筛选与二次加工国际教学有效性实证研究（重点[[FocusMath\|聚焦数学]]、信息学、自然科学与技术［Mathematik, Informatik, Naturwissenschaften und Technik, MINT］学科），促进前沿科研证据向教师教育与学校课堂实践的专业化转移。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, pp. 13–14)]]; [[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, p. 10)]]
 
 > [!org-context] 机构背景
 > - **成立时间与创设背景** 机构于 2017 年正式上线运行，创设背景在于德语区长期缺乏本土化教育证据清算中介，且实证教育研究[[Document|文献]]激增与中小学一线教学实践之间存在深刻的[[Research-Practice Gap\|研究-实践鸿沟]]（Transferproblem）。
@@ -144,7 +146,7 @@ updated: 2026-11-19
 
 > [!finding-cards] 关键成效与辐射影响
 > 1. **用户群体的高度效用认可** 针对受访高校教师教育者的实证调查显示，平台在个人效用、自身教学实践适用性、知识深化以及备课时间减负等核心维度均获高度评价。
-> 2. **大学与跨机构教学集成** 平台开发的简评与培训模块被德国多所综合性大学教师教育学院深度嵌入至职前师范生研讨课与教师进修课程中。
+> 2. **大学与跨机构教学集成** 平台开发的简评与培训模块被德国多所综合性大学[[National Institute of Education|教师教育学院]]深度嵌入至职前师范生研讨课与教师进修课程中。
 > 3. **奠定德语区循证中介[[Paradigm\|范式]]** 作为德语区首个看齐美国[[What Works Clearinghouse\|有效干预清算中心]]（WWC）与英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）的专业机构，成功探索了面向欧陆学科教学论（[[Didaktik]]）语境的证据转化范式。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, pp. 14–16)]]
 
 ---

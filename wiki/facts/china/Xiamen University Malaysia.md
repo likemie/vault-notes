@@ -10,7 +10,7 @@ subtype: organization
 region: china
 fact_region: "china"
 fact_kind: "organization"
-fact_related_count: 20
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -30,15 +30,17 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Grandes Ecoles]]"
   - "[[International Education]]"
+  - "[[Academicity]]"
   - "[[Study Abroad]]"
   - "[[Internationalization of Higher Education]]"
-  - "[[Public Diplomacy]]"
   - "[[International Branch Campus]]"
+  - "[[Public Diplomacy]]"
   - "[[Soft Power]]"
   - "[[South-South Cooperation]]"
   - "[[Theoretical Standpoint]]"
   - "[[People-to-People Connectivity]]"
   - "[[Document]]"
+  - "[[Hard Power]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -51,16 +53,17 @@ related_facts:
   - "[[Confucius Institute]]"
 related_arguments:
   - "[[Argument_Velasco_2022_CSJ]]"
+  - "[[Argument_He_2018_HEP]]"
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-11-13
+updated: 2026-11-25
 ---
 
 ---
 
 > [!claim] 核心定位
-> 厦门大学马来西亚分校（Xiamen University Malaysia, XMUM）是[[Ministry of Education of the People's Republic of China|中国教育部]]直属顶尖双一流建设高校厦门大学自主出资设立的海外实体大学，是中国高水平公立[[Research Universities|研究型大学]]在海外创设的首个全功能独立实体校园。该校被中马两国政府高度评价为中马友谊之桥，通过推行全日制本硕博全英文教学，成为中国高等教育跨国办学与面向东南亚实施[[Educational Diplomacy|教育外交]]的核心标志性实体。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 84–85)]]
+> 厦门大学马来西亚分校（Xiamen University Malaysia, XMUM）是[[Ministry of Education of the People's Republic of China|中国教育部]]直属顶尖[[Double First-Class Initiative|双一流建设]]高校厦门大学自主出资设立的海外实体大学，是中国高水平公立[[Research Universities|研究型大学]]在海外创设的首个全功能独立实体校园。该校被中马两国政府高度评价为中马友谊之桥，通过推行全日制本硕博全英文教学，成为中国高等教育跨国办学与面向东南亚实施[[Educational Diplomacy|教育外交]]的核心标志性实体。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 84–85)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 2013 年在中马两国政府最高层共同见证下正式签约立项，2014 年奠基动工，2016 年正式迎来首批学生开学。
@@ -94,7 +97,7 @@ updated: 2026-11-13
 > [!actor-grid] 组织治理架构
 > - **最高决策机构（分校理事会）** 由厦门[[Grandes Ecoles|大学校]]方领导、马来西亚在地政商界贤达与[[International Education|国际教育]]专家共同组成，负责审定重大发展战略、财务预算与学科布局。
 > - **执行管理团队（校长与行政团队）** 由厦门大学选派资深学者出任分校校长与管理骨干，协同本土专业行政团队，负责日常教学运行与法务合规。
-> - **学术委员会与质量保证机构** 设立独立的学术委员会，对接马来西亚学术资格鉴定机构（Malaysian Qualifications Agency, MQA）与中国教育部学位认证中心双重标准。
+> - **学术委员会与质量保证机构** 设立独立的学术委员会，对接马来西亚[[Academicity|学术资格]]鉴定机构（Malaysian Qualifications Agency, MQA）与中国教育部学位认证中心双重标准。
 > - **多元文化师生社群** 汇聚来自中国本土的公派骨干师资、国际全球招聘学者与多国[[Study Abroad|留学]]生，构建跨文化包容共生的大学社区。
 
 > [!pathways] 业务运行机制
@@ -117,7 +120,7 @@ updated: 2026-11-13
 > [!citation-card] 陈嘉庚创校传统与东南亚华社历史纽带（[[Argument_He_2018_HEP|He & Wilkins, 2018]]）
 > 厦门大学由新加坡著名华侨领袖陈嘉庚（Tan Kah Kee）创办，至今每年仍获得东南亚华商与华人社群的资助。厦门大学与该区域华人社会保持着紧密联系。大学的卓越声誉显著增强了分校在驻在国的地位，并对学生的求学决策产生积极影响。[[Argument_He_2018_HEP|(He & Wilkins, 2018, p. 327)]]
 >
-> *Xiamen University was established by a Singaporean Chinese, Mr. Tan Kah Kee, and it still receives large donations each year from Chinese businessmen and communities in South East Asia. There is quite a close and extensive connection between Xiamen University and overseas Chinese in this region... Therefore, the reputation of these two IBCs undoubtedly enhances their status in the host countries and positively impacts upon students’ decision to study at these IBCs.*
+> *Xiamen University was established by a Singaporean Chinese, Mr. Tan Kah Kee, and it still receives large donations each year from Chinese businessmen and communities in South East Asia. There is quite a close and extensive connection between Xiamen University and overseas Chinese in this region... Therefore, the reputation of these two [[International Branch Campus|IBCs]] undoubtedly enhances their status in the host countries and positively impacts upon students’ decision to study at these IBCs.*
 
 ---
 
@@ -130,7 +133,7 @@ updated: 2026-11-13
 > - **开创中国高水平大学海外实体办学先例** 突破了传统单一合作办学或项目挂靠模式，构建起具备独立法人与完整学位授予权的全功能海外校区。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 84)]]
 > - **支撑东南亚教育外交三大支柱** 与留学生定向招募、[[Confucius Institute|孔子学院]]网络协同联动，形成中国面向东盟高教影响力的实体基石。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 84–85)]]
 > - **促进多族群文化互信与青年认同** 在马来西亚多民族多元文化社会中树立了高质量、高声誉的中国高等教育新标杆。
-> - **依托华社历史纽带借用既有软实力** 依托陈嘉庚创校渊源与东南亚华人社会的历史感情，分校直接借用当地积淀的中华传统文化底蕴与名校声誉，形成文化软实力与工程学科前沿吸引力的叠加效应。[[Argument_He_2018_HEP|(He & Wilkins, 2018, pp. 327–328)]]
+> - **依托华社历史纽带借用既有[[Soft Power|软实力]]** 依托陈嘉庚创校渊源与东南亚华人社会的历史感情，分校直接借用当地积淀的中华传统文化底蕴与名校声誉，形成文化软实力与工程学科前沿吸引力的叠加效应。[[Argument_He_2018_HEP|(He & Wilkins, 2018, pp. 327–328)]]
 
 > [!stat-cards]- 核心规模数据
 > - **2013** （年） 项目正式立项与官方签署办学协议年份。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 84)]]
@@ -170,4 +173,4 @@ updated: 2026-11-13
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Velasco_2022_CSJ|Velasco (2022)]] — 剖析厦门大学马来西亚分校作为中国高教外交实体支柱与中马友谊之桥的代表性[[Document|文献]]。
-> - [[Argument_He_2018_HEP|He and Wilkins (2018)]] — 考察厦门大学马来西亚分校在办学声誉、华社捐资传统与中文实用需求上的软实力依托，揭示境外分校借用华裔文化传统与中国经贸硬实力的运作特征。
+> - [[Argument_He_2018_HEP|He and Wilkins (2018)]] — 考察厦门大学马来西亚分校在办学声誉、华社捐资传统与中文实用需求上的软实力依托，揭示境外分校借用华裔文化传统与中国经贸[[Hard Power|硬实力]]的运作特征。

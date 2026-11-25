@@ -9,7 +9,7 @@ aliases:
 summary: "泛指具备博士或高阶学术训练背景的学者在传统终身教职轨道之外，于高等教育机构内部或紧密相关领域从事专业性、智力密集型工作的职业形态与生涯选择。涵盖科研管理、教学发展、学术咨询、数字学术支撑与知识转化等多元岗位，反映出新自由主义大学中学术劳动力市场的结构性重构。"
 type: concept
 domain: "higher-education"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Discourse]]"
   - "[[Early-Career Researchers]]"
+  - "[[Academicity]]"
   - "[[Grandes Ecoles]]"
   - "[[Academic Freedom]]"
   - "[[Paradigm]]"
@@ -67,7 +68,7 @@ updated: 2026-11-25
 > *"Some professional staff positions, also referred to as alt-ac positions in Canada, have overlap with, but are not, academic positions... These positions are framed as a possible solution to both the lack of permanent academic positions for junior scholars and increased workloads for established academic staff."*
 
 > [!boundary]- 概念边界
-> - 不等于非学术性行业外溢（Out-of-Academia Careers）。另类学术岗位依然坐落于[[Grandes Ecoles|大学校]]园或学术研究机构内部，高度依赖从业者的学术思维方式与课题撰写素养。
+> - 不等于非[[Academicity|学术性]]行业外溢（Out-of-Academia Careers）。另类学术岗位依然坐落于[[Grandes Ecoles|大学校]]园或学术研究机构内部，高度依赖从业者的学术思维方式与课题撰写素养。
 > - 不等于编外临时教学零工。另类学术岗位多具有稳定的正式行政编制、工会协议与明晰薪资层级，旨在摆脱合同科研与短期代课的雇佣动荡。
 > - 不等同于传统终身教职。另类学术人员不享有[[Academic Freedom|学术自由]]的长聘特权，不直接以独立课题负责人的身份主导同行评议产出，其核心考核服从机构职能绩效标准。
 

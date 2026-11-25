@@ -11,7 +11,7 @@ aliases:
 summary: "高等教育学与科学社会学中的跨国与跨界人才迁移概念；指高素质青年科研人员因母国或所属机构面临制度性就业不稳定、科研经费匮乏、学术门阀依附以及行政内耗压迫，系统性迁离原属科研系统并流向少数高资源国家、头部机构或产业部门的单向人才流失现象；该流动加剧了全球学术知识生产的中心—依附分化，削弱了边缘科研体系的自我更新与重大范式创新潜力。"
 type: concept
 domain: "higher-education"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Knowledge Production]]"
   - "[[Intellectual Capital]]"
+  - "[[Brain Drain]]"
   - "[[Scientific Paradigm]]"
   - "[[Paradigm]]"
   - "[[Innovation Ecosystem]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-04
-updated: 2026-11-11
+updated: 2026-11-25
 ---
 
 ---
@@ -67,7 +68,7 @@ updated: 2026-11-11
 > - **边界** 聚焦于由制度性弊端与资源剥夺驱动的被迫流失，区别于基于学术休假、双向平等合作的健康跨国学术循环（Brain Circulation）。
 
 > [!citation-card] 资助失衡与依附结构对青年学术人才的挤出
-> 尽管许多富有创造力的青年学者最终转向产业界、初创企业、非政府组织或独立研究，这构成了一种作为临时安全阀的人才外流形式；但这种外流可能耗尽推动系统内部进行有意义变革所必需的创新人才。资助与晋升机制对渐进增量研究的偏爱而非创造潜能与冒险探索，加剧了这一形式的智力外流。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, pp. 2, 5)]]
+> 尽管许多富有创造力的青年学者最终转向产业界、初创企业、非政府组织或独立研究，这构成了一种作为临时安全阀的[[Brain Drain|人才外流]]形式；但这种外流可能耗尽推动系统内部进行有意义变革所必需的创新人才。资助与晋升机制对渐进增量研究的偏爱而非创造潜能与冒险探索，加剧了这一形式的智力外流。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, pp. 2, 5)]]
 >
 > *(Although many creative ECRs eventually leave for industry, startups, non-governmental organizations or independent research, a form of brain drain that may act as a temporary safety valve, this outflow risks depleting precisely the innovative talent needed to drive meaningful reform within the system itself... and incremental research over creative potential and risky endeavours, another form of brain drain.)*
 

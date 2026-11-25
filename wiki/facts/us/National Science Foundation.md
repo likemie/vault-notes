@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 110
+fact_related_count: 112
 fact_related_level: 11
 fact_related_stars: "💎💎💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Sunset Provisions]]"
   - "[[Use-Inspired Basic Research]]"
+  - "[[Entrepreneurial Ecosystem]]"
   - "[[Academic Entrepreneurship]]"
   - "[[Convergence Research]]"
   - "[[Golden Ticket Mechanism]]"
@@ -57,6 +58,7 @@ related_concepts:
   - "[[Market Fundamentalism]]"
   - "[[Neoliberalism]]"
   - "[[Gatekeepers]]"
+  - "[[Academicity]]"
   - "[[Scientific Literacy]]"
   - "[[Original Innovation Capability]]"
   - "[[Early-Career Researchers]]"
@@ -148,7 +150,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-11-19
+updated: 2026-11-25
 ---
 
 ---
@@ -193,7 +195,7 @@ updated: 2026-11-19
 
   冷战终结后，克林顿政府 1994 年发布《[[Science in the National Interest 1994|科学与国家利益]]》；[[Donald Stokes|唐纳德·斯托克斯]] 1997 年提出[[Pasteur's Quadrant|巴斯德象限]]，NSF 大力吸纳[[Use-Inspired Basic Research|应用启发的基础研究]]理念，资助逻辑向竞争性项目制与产业社会相关性倾斜。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
 
-- **2010–2021** **刚性化“更广泛影响”（[[NSF Broader Impacts Criterion|Broader Impacts]]）与高校创业生态拓展**
+- **2010–2021** **刚性化“更广泛影响”（[[NSF Broader Impacts Criterion|Broader Impacts]]）与高校[[Entrepreneurial Ecosystem|创业生态]]拓展**
 
   2010 年依据 GPRAMA 法案将更广泛影响转为刚性门槛；2011 年创设 [[NSF I-Corps]] 创新兵团推动高校[[Academic Entrepreneurship|学术创业]]；2019 年启动跨学科[[Convergence Research|融合研究]]与首批国家人工智能研究院布局。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]; [[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 149)]]
 
@@ -285,7 +287,7 @@ updated: 2026-11-19
 > > - **同行评议捍卫论** 坚持同行评议是维护学术自治与防范学术平庸的黄金屏障。
 > > - **元科学机制设计论** 批评在低资助率下，常规同行评审天然排斥非共识与跨学科异端假说；主张在 NSF 内部建立元科学单元，强制推行金券制（Golden Tickets）、长周期对人资助与 48 小时快速资助通道，并以对照实验实证检验资助效率。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 27–28, 31–32)]]
 >
-> > [!axis] 评审标准学术卓越 vs 非学术性偏好扭曲
+> > [!axis] 评审标准学术卓越 vs 非[[Academicity|学术性]]偏好扭曲
 > > 围绕在硬核技术提案中引入非学术性评价指标（如 [[Diversity, Equity, and Inclusion|DEI]] 倡议）的争论。
 > >
 > > - **多元代表性倡导** 认为应通过资助倾斜促进历史上代表性不足群体在科学界的参与。

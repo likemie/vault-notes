@@ -10,7 +10,7 @@ title: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_key: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_display_title: "教育研究方法"
 argument_kind: "book"
-argument_related_count: 134
+argument_related_count: 137
 argument_related_level: 13
 argument_related_stars: "💎💎💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -49,8 +49,10 @@ related_concepts:
   - "[[Research Scope]]"
   - "[[Doctoral Dissertation]]"
   - "[[Primary and Secondary Documents]]"
+  - "[[Academicity]]"
   - "[[Homophily]]"
   - "[[Problem Solving]]"
+  - "[[Student Attitude]]"
   - "[[Causality]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
@@ -58,6 +60,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Value Neutrality]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Teacher Expectations]]"
   - "[[Attrition]]"
   - "[[Interaction Effect]]"
   - "[[Hawthorne Effect]]"
@@ -172,7 +175,7 @@ related_instruments:
   - "[[Flanders Interaction Analysis Categories]]"
 status: draft
 created: 2026-06-25
-updated: 2026-11-19
+updated: 2026-11-25
 ---
 > [!textbook-overview] 章节总览
 > | 章节 | 内容概要 | 主要关联条目 |
@@ -238,7 +241,7 @@ updated: 2026-11-19
 > | | [[Primary and Secondary Documents\|初级文献]]（第一手资料） | 研究者将研究结果直接提出发表的出版物，大部分来自期刊或集刊，如《教育研究》《北京大学教育评论》等。 |
 > | | 次级文献（第二手资料） | 对初级资料加以分析、比较和整理后提出的综合资料，如教材、教育大辞典、研究述评和教育年鉴。 |
 
-文献资料的来源包括书籍（专著、论文集、教科书、工具书）、期刊（学术性、情报性、普及性）和未正式出版的文献（会议论文集、学位论文、研究报告）。
+文献资料的来源包括书籍（专著、论文集、教科书、工具书）、期刊（[[Academicity|学术性]]、情报性、普及性）和未正式出版的文献（会议论文集、学位论文、研究报告）。
 
 > [!seq-table] 文献检索的五种方法
 > | 方法 | 操作方式 |
@@ -261,7 +264,7 @@ updated: 2026-11-19
 做好文献综述有两个基本条件：所选择的文献要具有代表性；阅读文献时要把握文献的精髓。撰写需经过文献阅读（浏览、泛读、精读三种方法结合使用）、文献记录（摘要和[[Memos|札记]]）和文献目录整理。撰写结构包括引言、综述主体、小结、结论和参考文献五个部分。撰写时应注意：搜集文献尽量齐全、以相似研究发现为基本单位系统组织、尽量引用初级文献、要有作者的评论分析、撰写摘要不要直接抄录报告内摘要。
 
 > [!citation-card] 关于研究的定义
-> 研究是以系统的方法寻求[[Problem Solving\|问题解决]]方案的过程。科学研究的重点在于获得证据以支持或反对所提出的事实或原则。教育研究是指一种以经验为取向，对教育世界中人们的行为、态度、关系，各种教育现象、教育产物所进行的科学的探究活动。（第1章）
+> 研究是以系统的方法寻求[[Problem Solving\|问题解决]]方案的过程。科学研究的重点在于获得证据以支持或反对所提出的事实或原则。教育研究是指一种以经验为取向，对教育世界中人们的行为、[[Student Attitude|态度]]、关系，各种教育现象、教育产物所进行的科学的探究活动。（第1章）
 
 > [!citation-card] 关于选题标准的层次关系
 > 重要性是最基本的标准；独特性则是在重要性基础上提出的更高的标准；可行性在某种意义上可以说是问题选择中的决定性标准；而适合性则是在前三条标准的基础上提出的更进一步的标准。这四条标准层层深入，从几个不同的侧面，将一个理想的研究问题，从最初众多不成熟的想法、思路和问题雏形中，逐渐分离出来。（第1章）
@@ -536,7 +539,7 @@ Campbell and Stanley (1963) 识别了影响内在效度的九类因素：
 > | 历史（History） | 实验期间发生的其他事件可能对因变量变化产生影响，[[Pre-test and Post-test\|后测]]结果可能不单纯由实验操作引起。实验时间越长，其他事件影响的可能性越大。 | 设置控制组，使两组经历相同的历史事件 |
 > | 成熟（Maturation） | 被试随时间推移发生的生理、心理变化（如疲倦、兴趣降低、专注力下降、年龄增长带来的自然发展）。 | 随机化分组，设置控制组以假定两组成熟度相同 |
 > | 测验（Testing） | 前测使被试熟悉测验技巧和内容，即使不经实验处理，后测成绩也可能因前测经验而提高。 | 设置无前测的对照组加以控制 |
-> | 测量工具（Instrumentation） | 测试方法技术或工具的无效或缺少一致性。如主持实验者的主观情绪变化、皮格马利翁效应、前后测难度不同、不同班级不同测验等。 | 精心选择测验及技术，谨慎观察，加强基本训练，严格测试手段 |
+> | 测量工具（Instrumentation） | 测试方法技术或工具的无效或缺少一致性。如主持实验者的主观情绪变化、[[Teacher Expectations\|皮格马利翁效应]]、前后测难度不同、不同班级不同测验等。 | 精心选择测验及技术，谨慎观察，加强基本训练，严格测试手段 |
 > | 统计回归（Statistical Regression） | 根据极端分数选择被试时，第二次测量分数有向团体平均数回归的倾向。高分者分数降低，低分者分数升高。 | 避免采用两个极端的被试，或将极端分数者单独分组 |
 > | 选择偏差（Selection Bias） | 未做到随机抽样和随机分配，导致两组或多组被试在实验前就存在各方面能力的偏差。 | 随机抽样和随机分配 |
 > | 被试流失（[[Attrition\|experimental mortality]]） | 持续时间较长的实验中，被试更换、淘汰或中途退出可能显著影响结果。需注意缺席次数、学习时间、补习时间等是否相等。 | 采用消除法杜绝流失，或采用大样本以忽略个别流失 |

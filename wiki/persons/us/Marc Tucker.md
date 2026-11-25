@@ -8,7 +8,7 @@ cssclasses:
   - person-page
 subtype: expert
 person_region: "us"
-person_related_count: 11
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -24,6 +24,8 @@ tags:
   - international-benchmarking
   - educational-reform
 related_concepts:
+  - "[[High-Performing Education Systems]]"
+  - "[[Academicity]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Charter Schools]]"
   - "[[System-Wide Improvement]]"
@@ -44,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-11
-updated: 2026-11-11
+updated: 2026-11-25
 ---
 
 ---
@@ -57,7 +59,7 @@ updated: 2026-11-11
 > [!citation-card] 塔克论系统性变革与高质量师资建设（Tucker, 2011）
 > 国际领先教育系统的成功表明，学校质量无法超越其教师队伍的整体质量。优秀系统普遍建立了从顶尖生源选拔、高强度专业教育、基于课堂实践的导师带教到多级专业晋升梯次的制度化培养体系，同时配以权责明晰且高度连贯的国家课程与治理中枢。零散、局部的单项政策修补无法匹敌这种整体系统的协同效能。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 480)]]
 >
-> *Top-performing education systems do not rely on silver bullets. They recruit their teachers from the top tier of college graduates, educate them rigorously, apprentice them in master classrooms, and organize schools so teachers can work together to continuously improve their craft. High performance is a property of the whole system.*
+> *[[High-Performing Education Systems|Top-performing education systems]] do not rely on silver bullets. They recruit their teachers from the top tier of college graduates, educate them rigorously, apprentice them in master classrooms, and organize schools so teachers can work together to continuously improve their craft. High performance is a property of the whole system.*
 
 ---
 
@@ -66,7 +68,7 @@ updated: 2026-11-11
 > - **1960s** 先后在布朗大学获得文学学士学位，并在乔治·华盛顿大学接受研究生训练。
 > - **1981–1986** 担任卡内基教育与经济论坛（Carnegie Forum on Education and the Economy）执行主任，主笔发布划时代报告《国家准备好了：21世纪的教师》。
 > - **1988** 创立非营利智库美国国家教育与经济中心（NCEE），长期担任主席兼总裁。
-> - **1990** 主笔发布《美国的选择：高技能还是低工资！》（*America's Choice: High Skills or Low Wages!*），促成美国职业与学术资格框架重构。
+> - **1990** 主笔发布《美国的选择：高技能还是低工资！》（*America's Choice: High Skills or Low Wages!*），促成美国职业与[[Academicity|学术资格]]框架重构。
 > - **2007** 领导新技能经济委员会发布《艰难选择还是艰难时代》，警告美国基础教育在全球竞争中面临系统性落后。
 > - **2011** 汇聚全球比较教育学者出版《超越上海》（*Surpassing Shanghai*），系统剖析上海、芬兰、新加坡、日本与加拿大等领先系统提质规律。
 > - **2020s** 退休并担任 NCEE 荣休主席，持续就教育系统设计与教师专业化发表演讲与咨询。

@@ -1259,7 +1259,7 @@ Total entries: **1277**
 
 > [!index-list]- Event (2)
 > - [[PISA Shock in Sweden]] — 2012 年底与 2013 年初 PISA 2012 测评结果公布后在瑞典引发的全国性教育危机与制度反思浪潮；瑞典在 2000 至 2012 年间三科成绩累计下滑超 30 分，创下 OECD 参测国最大跌幅并全线跌破国际均线；该事件宣告了 1990 年代激进学券制与自由学校营利市场化神话的破产，促使瑞典政府于 2014 年正式邀请经合组织展开国家教育审查，推动中央政府强化学校督察局监管、重塑教师专业地位并开启公共教育治理的再国家化进程
-> - [[Visible Learning in Sweden]] — 2010年代中期 Visible Learning 在瑞典被转化为课堂近端学校改进议程，重点从结果治理转向教学观察、教师协作与系统性质量工作
+> - [[Visible Learning in Sweden]] — 2010 年代中期 Visible Learning 在瑞典被转化为课堂近端学校改进议程，重点从结果治理转向教学观察、教师协作与系统性质量工作
 
 > [!index-list]- Organization (3)
 > - [[Swedish Institute for Educational Research]] — 2015年建立的瑞典教育研究机构，通过教育研究系统综述、结果传播和研究资助连接学校实践需求与证据生产。

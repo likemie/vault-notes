@@ -10,9 +10,9 @@ title: "Argument_Peterson_1987_OpenCourt_Ch08"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch08"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch08"
 argument_kind: "book-chapter"
-argument_related_count: 27
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 34
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
 book_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges"
 publication_place: "La Salle, IL"
@@ -31,6 +31,11 @@ related_concepts:
   - "[[Whole Person Education]]"
   - "[[General Education]]"
   - "[[Terminal Courses]]"
+  - "[[Typicality]]"
+  - "[[Student Attitude]]"
+  - "[[Academicity]]"
+  - "[[Fine Art]]"
+  - "[[Area Studies]]"
   - "[[School Choice]]"
   - "[[International Schools]]"
   - "[[Creativity, Action, Service]]"
@@ -41,10 +46,12 @@ related_persons:
   - "[[Michael S. Brown]]"
   - "[[Desmond Hoare]]"
   - "[[Louis Mountbatten]]"
+  - "[[Karl Marx]]"
   - "[[Plato]]"
 related_facts:
   - "[[United World Colleges]]"
   - "[[International School of Geneva]]"
+  - "[[Hauptschule]]"
   - "[[Education Resources Information Center]]"
   - "[[International Baccalaureate Applied Chemistry Course]]"
   - "[[International Baccalaureate Nutritional Science Course]]"
@@ -58,7 +65,7 @@ sources:
   - "[[books/Peterson_1987_OpenCourt/Peterson_1987_OpenCourt|Peterson_1987_OpenCourt]]"
 status: draft
 created: 2026-10-07
-updated: 2026-11-14
+updated: 2026-11-25
 ---
 > [!question] [[International Education|国际教育]]的价值、教学与供给责任如何共同成立
 > 国际教育指什么，为什么值得追求？应怎样教、向谁提供？应由私人、国家政府还是国际机构承担？三个问题分别涉及价值分析、教育设计与政治供给，只有相互连接才能确定[[International Baccalaureate|国际文凭]]和[[United World Colleges|联合世界书院]]的未来方向。（p. 193）
@@ -124,9 +131,9 @@ updated: 2026-11-14
 > [!row-contrast] 相似的国际课程可能服务不同目的
 > | 取向 | 课程或知识的用途 | 教育价值的边界 |
 > |---|---|---|
-> | 消极与综合取向 | 避免国家特殊性，综合各国技能与程序，让不同国籍学生同班 | 具有行政国际性，不必具有主动国际主义意图 |
+> | 消极与综合取向 | 避免国家[[Typicality\|特殊性]]，综合各国技能与程序，让不同国籍学生同班 | 具有行政国际性，不必具有主动国际主义意图 |
 > | 信息取向 | 熟悉他国语言、社会习俗和市场 | 可以服务商业竞争甚至敌我对抗，知识不自动导向合作 |
-> | 积极教育取向 | 理解他国人的经验、艺术和道德判断，形成跨境合作态度 | 同时进入认知与情感领域，必须说明价值培养的正当性 |
+> | 积极教育取向 | 理解他国人的经验、艺术和道德判断，形成跨境合作[[Student Attitude\|态度]] | 同时进入认知与情感领域，必须说明价值培养的正当性 |
 
 课程内容具有国际性之后，还需要检验它服务于何种人际关系。
 
@@ -239,7 +246,7 @@ IB 的六组学科结构是折中，其国际性需要更多文化与国家的�
 > [!example] 历史与文学的例子说明学术技术不能替代审美和道德判断
 > **历史课** 米歇尔·德·蒙田（Michel de Montaigne）主张，与其只记住迦太基毁灭的日期，更应考察汉尼拔与西庇阿的品行；与其只问马尔凯鲁斯死于何处，更应讨论为什么这种死法不合职责。事实知识为判断提供材料，不能取代判断本身。（p. 201；Montaigne, 1595）
 >
-> **文学课** 奥伯伦·沃（Auberon Waugh）讽刺文学教学借技术术语证明其学术性；A. N. Wilson (1980) 小说中的英语教授则已经多年不为享受而读诗。这些例子反对的是把专业技术过早变成普通中学生的唯一目标，而非否定文学学术研究。（pp. 201–202）
+> **文学课** 奥伯伦·沃（Auberon Waugh）讽刺文学教学借技术术语证明其[[Academicity|学术性]]；A. N. Wilson (1980) 小说中的英语教授则已经多年不为享受而读诗。这些例子反对的是把专业技术过早变成[[Hauptschule|普通中学]]生的唯一目标，而非否定文学学术研究。（pp. 201–202）
 
 > [!sub-claim] 辅助层级的终结性功能使广度课程具有独立目的
 
@@ -283,7 +290,7 @@ IB 的六组学科结构是折中，其国际性需要更多文化与国家的�
 > | 15 | Classical Civilisation | 古典文明 |
 > | 16 | Classical Greek and Roman Studies | 古典希腊与罗马研究 |
 > | 17 | Religious Experience of Man | 人类的宗教经验 |
-> | 18 | Appreciation of fine Arts | 美术欣赏 |
+> | 18 | Appreciation of [[Fine Art\|fine Arts]] | 美术欣赏 |
 >
 > 按原文列举顺序复现，不把相近名称合并。若干名称可能只反映教师兴趣差异，不能据此断言它们是教育目的完全不同的课程。（p. 203）
 
@@ -292,7 +299,7 @@ IB 的六组学科结构是折中，其国际性需要更多文化与国家的�
 > [!ref-table]- 校本课程显示改革方向，但不证明学习效果
 > | 情境 | 原文指标 | 论证作用与边界 |
 > |---|---|---|
-> | 1985年获准的第六组校本内部评价课程 | 戏剧、海洋科学、营养科学、应用物理、电子学、和平研究、区域研究、艺术欣赏等；文凭学生参与比例低于10% | 显示学校希望增加应用、行动、本地环境与国际内容，覆盖仍有限 |
+> | 1985年获准的第六组校本内部评价课程 | 戏剧、海洋科学、营养科学、应用物理、电子学、和平研究、[[Area Studies\|区域研究]]、艺术欣赏等；文凭学生参与比例低于10% | 显示学校希望增加应用、行动、本地环境与国际内容，覆盖仍有限 |
 > | 1985年上述校本课程 | 平均成绩5.11；法语A为5.11，法语B为5.12 | 用于回应课程过于容易的疑虑；并非同质样本的课程难度检验 |
 > | 1985年应用化学 | 121名考生，常规辅助层级化学748名 | 显示应用方案已成为常规选项，但规模较小 |
 >
@@ -489,7 +496,7 @@ UWC 的突出缺口是东欧社会主义国家青年难以与西方同龄人见�
 >
 > **未达目标** 西方和第三世界学生仍很少有机会遇到东欧同龄人。政治对抗、猜疑与经济不平衡限制持续交换，个别成功不能满足运动最需要把双方青年带到一起的宗旨。
 >
-> **替代路径** 政治缓和后，可在非结盟国家创办书院，或由政府支持东欧书院，先接纳社会主义及非结盟国家学生，不先招收西方学生。其马克思列宁主义课程、与西方运动的联系程度及可能的 IB 接口需要协商；短期交换和共同假期劳动营可以作为初始接触方式。
+> **替代路径** 政治缓和后，可在非结盟国家创办书院，或由政府支持东欧书院，先接纳社会主义及非结盟国家学生，不先招收西方学生。其[[Karl Marx|马克思]]列宁主义课程、与西方运动的联系程度及可能的 IB 接口需要协商；短期交换和共同假期劳动营可以作为初始接触方式。
 >
 > **状态** 这是附条件的建设建议，没有记述已成立的东欧书院或已经实现的东西交流制度。（pp. 213–214）
 
