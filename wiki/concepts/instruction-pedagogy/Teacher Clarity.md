@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-17
-updated: 2026-11-23
+updated: 2026-11-26
 ---
 
 ---
@@ -116,16 +116,24 @@ updated: 2026-11-23
 > [!concept-proposition] 命题一｜教师清晰度通过剔除指令模糊性并降低无关认知负荷显著提升学生的表层理解与深层建构
 > **认知负荷控制与[[Concept Mapping|概念图]]式加工** 认知心理学与教学设计理论指出：学生的[[Working Memory|工作记忆]]容量极其有限；教学过程中的含混表达、跳跃式推理与模糊[[Homework|作业]]要求，构成了吞噬学生认知资源的无关负荷，直接阻碍深层知识图式的构建。
 
-> [!claim] 过程-结果与认知设计[[Paradigm|范式]]命题（Cruickshank, 1985）
+> [!claim] Cruickshank, D.
 > **无关负荷的消减与认知释放** 唐纳德·克鲁克香克（Donald Cruickshank）系统论证指出：教师清晰度不仅是一项语言修辞技能，更是一种高级教学工程设计。清晰度高的教师善于剔除冗余干扰信息，提供层次分明的认知台阶，使学生能够将有限的工作记忆无损聚焦于高阶分析与[[Problem Solving|问题解决]]之中。
 
 ---
 
-> [!concept-proposition] 命题二｜[[Meta-meta-analysis|二阶元分析]]经验证据证实教学清晰度稳居[[Effective Teaching|有效教学]]实践[[Effect Size|效应量]]最高梯队
-> **海量跨国[[Meta-analysis|元分析]]的[[Effect Size|效应量]]汇总与教学共识** 循证综合试图确立哪些课堂行为对学习产生普遍强劲的驱动力。跨国综合数据一致将清晰度置于教师实践的核心前列。
+> [!concept-proposition] 命题二｜[[Meta-meta-analysis|二阶元分析]]经验证据证实教学清晰度稳居[[Effective Teaching|有效教学]]实践最高梯队
+> **海量跨国[[Meta-analysis|元分析]]汇总与教学共识** 循证综合试图确立哪些课堂行为对学习产生普遍强劲的驱动力。跨国综合数据一致将清晰度置于教师实践的核心前列。
 
 > [!claim] [[Argument_Terhart_2011_JCS|Terhart (2011, p. 432)]]
-> **教师维度的核心第二排位** [[Ewald Terhart|埃瓦尔德·特哈特]]（Ewald Terhart）在归纳[[John Hattie|哈蒂]]全书 138 个影响因素中教师贡献领域的具体实践时指出，教师清晰度基于跨越数十年、涵盖成千上万师生样本的元分析综合，其合并效应量达到了极为显著的 $d = 0.75$，位列教师所有具体实践要素的第二名（仅次于[[Microteaching|微格教学]]的 $d = 0.88$）。这一实证高度印证了教学论教科书中的经典原则，证明清晰有条理的讲授与示范是保障教学优质高效的核心通则。
+> **教师维度的核心第二排位** [[Ewald Terhart|埃瓦尔德·特哈特]]（Ewald Terhart）在归纳[[John Hattie|哈蒂]]全书影响因素中教师贡献领域的具体实践时指出，教师清晰度基于跨越数十年、涵盖成千上万师生样本的元分析综合，其合并效应量位列教师所有具体实践要素的第二名（仅次于[[Microteaching|微格教学]]）。这一实证高度印证了教学论教科书中的经典原则，证明清晰有条理的讲授与示范是保障教学优质高效的核心通则。
+
+---
+
+> [!concept-proposition] 命题三｜教师清晰度构成[[Cooperative Learning|合作学习]]与同伴互动产生实效的先决条件
+> **清晰指令与合作结构运作** 探讨教师清晰沟通与任务组织如何超出单向讲授课堂，成为小组协作与同伴互助得以取得学业成效的前提条件。
+
+> [!claim] Kremers, T.
+> **合作课堂中组织、讲解、示范、带练与评价的语言基础** 托马斯·克雷默斯（Thomas Kremers）结合哈蒂综合研究指出，合作学习作为强效因子束成员，高度依赖教师清晰度作为运作前提：缺乏教师明确的语言指令，有效的小组合作与学业提升都无从谈起。他援引芬迪克（Fendick）对教师清晰度的经典操作化界定（Hattie, 2013, p. 151），指出教师清晰度体现为通过清晰语言实施的五项教学行为，即组织任务、讲解说明、给出例子、带练辅导以及评价学习表现；在合作教学情境中，只有当教师以此搭建清晰的任务与沟通框架，小组成员才不会沦为无序闲聊。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, p. 85)]]
 
 ---
 
@@ -133,7 +141,8 @@ updated: 2026-11-23
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **认知负荷消减机制** | 揭示教师清晰度消除指令含混、释放工作记忆并促进深层认知加工的微观心理机制 | 课堂教学设计、认知工具开发、教学过程观察 | Cruickshank (1985); Chesebro and McCroskey (1998) |
-> | **宏观实证高效能确立** | 汇总跨国二阶元分析证据，确立教师清晰度以 $d = 0.75$ 位列教师实践最高梯队的稳健经验共识 | 教师专业标准制定、教学评估[[Scale Development\|量表开发]]、[[Effective Teaching\|有效教学]]研究 | [[John Hattie\|Hattie (2009)]]; [[Argument_Terhart_2011_JCS\|Terhart (2011)]] |
+> | **宏观实证高效能确立** | 汇总跨国二阶元分析证据，确立教师清晰度位列教师实践最高梯队的稳健经验共识 | 教师专业标准制定、教学评估[[Scale Development\|量表开发]]、[[Effective Teaching\|有效教学]]研究 | [[John Hattie\|Hattie (2009)]]; [[Argument_Terhart_2011_JCS\|Terhart (2011)]] |
+> | **合作结构前提条件** | 阐明教师围绕组织、讲解、举例、带练与评价的清晰语言是合作学习奏效的先决基础 | [[Cooperative Learning\|合作学习]]课堂、小组任务支架设计 | Fendick (1990); [[Argument_Kremers_2014_CooperativeLearning\|Kremers (2014)]] |
 
 ---
 
@@ -152,6 +161,9 @@ updated: 2026-11-23
 > >
 > > - **[[Structured Teaching|结构化教学]]视角（[[Direct Instruction]] 学派）** 主张教师必须扫清一切概念含混，步骤分明才能保障知识掌握。
 > > - **探究[[Constructivist Paradigm|建构主义]]视角（Kapur [[Productive Failure|生产性失败]]理论）** 认为在探索高阶迁移问题时，适度的不确定性与尝试困惑对深层概念理解至关重要，过度细致的步骤清晰反而会诱发思维惰性。
+
+> [!warning|limits] 适用局限
+> 哈蒂提醒，“一切全看教师”的流行口号容易引发误解；决定学业增益的在于教师采用特定方法、对全体学生怀有高期望并建立积极的[[Student-Teacher Relationship|师生关系]]，单靠教师身份本身或表面语言流畅并不足以产生高成效。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, p. 85)]]
 
 > [!metax-divider]
 
@@ -191,6 +203,8 @@ updated: 2026-11-23
 > | [[Zone of Desired Effects]] | 概念 | 教师清晰度以 $d = 0.75$ 稳居期望发展区核心前列的实证典型。 |
 > | [[Microteaching]] | 概念 | 磨砺教师言语组织与任务清晰阐释等微观技能的临床训练方法。 |
 > | [[Visible Learning]] | 概念 | 将清晰度标定为高回报干预要素的宏观元分析模型。 |
+> | [[Cooperative Learning]] | 概念 | 依赖清晰任务组织、示范与反馈作为先决条件的小组协作教学结构（[[Argument_Kremers_2014_CooperativeLearning\|Kremers, 2014, p. 85]]）。 |
+> | [[Student-Teacher Relationship]] | 概念 | 与特定教学方法和高期望共同构成高效教师前提的支持性关系维度。 |
 > | [[John Hattie]] | 人物 | 在二阶元分析中量化教师清晰度实证效应量的代表学者。 |
 > | [[Ewald Terhart]] | 人物 | 梳理清晰度在教师效能要素中排名第二（$d=0.75$）的德国教育学者。 |
 
@@ -199,4 +213,5 @@ updated: 2026-11-23
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 在全面述评可见学习时归纳教师效能核心因素表，确立教师清晰度以 $d = 0.75$ 位列教师实践第二位。
 > - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 结合德译本再次评述教师清晰度（$d = 0.75$）作为高质量教师核心沟通品质的强劲实证效应。
+> - [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014)]] — 援引 Fendick 五项语言操作界定，论证教师清晰度（$d = 0.75$）是有效[[Cooperative Learning|合作学习]]的先决前提（p. 85）。
 

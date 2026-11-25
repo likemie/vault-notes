@@ -4218,6 +4218,8 @@
     "Cahoon et al., 2022": "Cahoon et al., 2022",
     "Cai & Kivistö (2013)": "Cai & Kivistö, 2013",
     "Cai & Kivistö, 2013": "Cai & Kivistö, 2013",
+    "Cai & Mountford (2021)": "Cai & Mountford, 2021",
+    "Cai & Mountford, 2021": "Cai & Mountford, 2021",
     "Cai (2023)": "Cai, 2023",
     "Cai et al. (2019)": "Cai et al., 2019",
     "Cai et al. (2022a)": "Cai et al., 2022a",
@@ -7558,6 +7560,8 @@
     "Earley et al., 2012": "Earley et al., 2012",
     "Early (1998)": "Early, 1998",
     "Early, 1998": "Early, 1998",
+    "Easley & Kleinberg (2010)": "Easley & Kleinberg, 2010",
+    "Easley & Kleinberg, 2010": "Easley & Kleinberg, 2010",
     "Easton (2010)": "Easton, 2010",
     "Easton, 2010": "Easton, 2010",
     "Eaton et al. (2016)": "Eaton et al., 2016",
@@ -15394,11 +15398,13 @@
     "Larsen (2004)": "Larsen, 2004",
     "Larsen (2011)": "Larsen, 2011",
     "Larsen (2015)": "Larsen, 2015",
+    "Larsen (2020)": "Larsen, 2020",
     "Larsen, 1989": "Larsen, 1989",
     "Larsen, 2001": "Larsen, 2001",
     "Larsen, 2004": "Larsen, 2004",
     "Larsen, 2011": "Larsen, 2011",
     "Larsen, 2015": "Larsen, 2015",
+    "Larsen, 2020": "Larsen, 2020",
     "Larson (1972)": "Larson, 1972",
     "Larson (1979)": "Larson, 1979",
     "Larson et al. (2014)": "Larson et al., 2014",
@@ -16518,6 +16524,8 @@
     "Louis et al. (1996)": "Louis et al., 1996",
     "Louis et al., 1995": "Louis et al., 1995",
     "Louis et al., 1996": "Louis et al., 1996",
+    "Lounsbury (2012)": "Lounsbury, 2012",
+    "Lounsbury, 2012": "Lounsbury, 2012",
     "Lourie (2020)": "Lourie, 2020",
     "Lourie, 2020": "Lourie, 2020",
     "Louw (2012)": "Louw, 2012",
@@ -24179,6 +24187,8 @@
     "Shi, 2017": "Shi, 2017",
     "Shibata (2005)": "Shibata, 2005",
     "Shibata, 2005": "Shibata, 2005",
+    "Shields & Watermeyer (2020)": "Shields & Watermeyer, 2020",
+    "Shields & Watermeyer, 2020": "Shields & Watermeyer, 2020",
     "Shields (1996)": "Shields, 1996",
     "Shields (2010)": "Shields, 2010",
     "Shields, 1996": "Shields, 1996",
@@ -27763,6 +27773,8 @@
     "Wang & Horng, 2002": "Wang & Horng, 2002",
     "Wang & Huang (2024)": "Wang & Huang, 2024",
     "Wang & Huang, 2024": "Wang & Huang, 2024",
+    "Wang & Jones (2021)": "Wang & Jones, 2021",
+    "Wang & Jones, 2021": "Wang & Jones, 2021",
     "Wang & Wu (2023)": "Wang & Wu, 2023",
     "Wang & Wu, 2023": "Wang & Wu, 2023",
     "Wang & Zhao (2022)": "Wang & Zhao, 2022",
@@ -28155,6 +28167,8 @@
     "Whicker, 1997": "Whicker, 1997",
     "Whiston et al. (2011)": "Whiston et al., 2011",
     "Whiston et al., 2011": "Whiston et al., 2011",
+    "Whitchurch & Gordon (2009)": "Whitchurch & Gordon, 2009",
+    "Whitchurch & Gordon, 2009": "Whitchurch & Gordon, 2009",
     "Whitchurch & Law (2010)": "Whitchurch & Law, 2010",
     "Whitchurch & Law, 2010": "Whitchurch & Law, 2010",
     "Whitchurch (2006)": "Whitchurch, 2006",
@@ -61574,6 +61588,21 @@
       ],
       "title": ""
     },
+    "Cai & Mountford, 2021": {
+      "aliases": [
+        "Cai & Mountford, 2021",
+        "Cai & Mountford (2021)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Cai & Mountford, 2021"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Institutional Logics.md"
+      ],
+      "title": ""
+    },
     "Cai et al., 2019": {
       "aliases": [
         "Cai et al., 2019",
@@ -85919,6 +85948,21 @@
       "seen_in": [],
       "title": "The impact of peer tutoring on self-esteem and Texas Assessment of Academic Skills mathematics performance of tenth-grade students"
     },
+    "Easley & Kleinberg, 2010": {
+      "aliases": [
+        "Easley & Kleinberg, 2010",
+        "Easley & Kleinberg (2010)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Easley & Kleinberg, 2010"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Institutional Work.md"
+      ],
+      "title": ""
+    },
     "Easton, 2010": {
       "aliases": [
         "Easton, 2010",
@@ -92756,7 +92800,9 @@
         "Fendick, 1990"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Teacher Clarity.md"
+      ],
       "title": "The Correlation Between Teacher Clarity of Communication and Student Achievement Gain: A Meta-Analysis"
     },
     "Fendler, 1999": {
@@ -114570,6 +114616,7 @@
         "wiki/concepts/instruction-pedagogy/Cooperative Learning.md",
         "wiki/concepts/instruction-pedagogy/Cooperative, Competitive and Individualistic Learning.md",
         "wiki/concepts/instruction-pedagogy/Selbstdidaktisierung.md",
+        "wiki/concepts/instruction-pedagogy/Teacher Clarity.md",
         "wiki/methods/quantitative/Meta-meta-analysis.md"
       ],
       "title": "Lernen sichtbar machen"
@@ -143184,6 +143231,21 @@
       ],
       "title": ""
     },
+    "Larsen, 2020": {
+      "aliases": [
+        "Larsen, 2020",
+        "Larsen (2020)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Larsen, 2020"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Institutional Logics.md"
+      ],
+      "title": ""
+    },
     "Larson et al., 2014": {
       "aliases": [
         "Larson et al., 2014",
@@ -151249,6 +151311,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/reports-policy-documents/Argument_Hattie_2005_ACER.md"
+      ],
+      "title": ""
+    },
+    "Lounsbury, 2012": {
+      "aliases": [
+        "Lounsbury, 2012",
+        "Lounsbury (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Lounsbury, 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Institutional Logics.md"
       ],
       "title": ""
     },
@@ -175801,7 +175878,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
+        "wiki/theories/sociology-of-education/Institutional Logics.md"
       ],
       "title": ""
     },
@@ -190013,7 +190091,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
+        "wiki/theories/sociology-of-education/Institutional Logics.md"
       ],
       "title": ""
     },
@@ -207469,6 +207548,21 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Cowen_2009_CE.md",
         "wiki/concepts/comparative-education/Shape-Shifting.md"
+      ],
+      "title": ""
+    },
+    "Shields & Watermeyer, 2020": {
+      "aliases": [
+        "Shields & Watermeyer, 2020",
+        "Shields & Watermeyer (2020)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Shields & Watermeyer, 2020"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Institutional Logics.md"
       ],
       "title": ""
     },
@@ -233340,6 +233434,21 @@
       ],
       "title": ""
     },
+    "Wang & Jones, 2021": {
+      "aliases": [
+        "Wang & Jones, 2021",
+        "Wang & Jones (2021)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Wang & Jones, 2021"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Institutional Logics.md"
+      ],
+      "title": ""
+    },
     "Wang & Wu, 2023": {
       "aliases": [
         "Wang & Wu, 2023",
@@ -236159,6 +236268,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "School counseling outcome: A meta-analytic examination of interventions."
+    },
+    "Whitchurch & Gordon, 2009": {
+      "aliases": [
+        "Whitchurch & Gordon, 2009",
+        "Whitchurch & Gordon (2009)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Whitchurch & Gordon, 2009"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Institutional Logics.md"
+      ],
+      "title": ""
     },
     "Whitchurch & Law, 2010": {
       "aliases": [

@@ -18516,6 +18516,14 @@
       ],
       "title": ""
     },
+    "Cai & Mountford, 2021": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Institutional Logics.md"
+      ],
+      "title": ""
+    },
     "Cai et al., 2019": {
       "datasets": [
         "metax:S1751"
@@ -33075,6 +33083,14 @@
       "seen_in": [],
       "title": "The impact of peer tutoring on self-esteem and Texas Assessment of Academic Skills mathematics performance of tenth-grade students"
     },
+    "Easley & Kleinberg, 2010": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Institutional Work.md"
+      ],
+      "title": ""
+    },
     "Easton, 2010": {
       "doi": "",
       "isbn": "",
@@ -37109,7 +37125,9 @@
       ],
       "doi": "",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Teacher Clarity.md"
+      ],
       "title": "The Correlation Between Teacher Clarity of Communication and Student Achievement Gain: A Meta-Analysis"
     },
     "Fendler, 1999": {
@@ -50201,6 +50219,7 @@
         "wiki/concepts/instruction-pedagogy/Cooperative Learning.md",
         "wiki/concepts/instruction-pedagogy/Cooperative, Competitive and Individualistic Learning.md",
         "wiki/concepts/instruction-pedagogy/Selbstdidaktisierung.md",
+        "wiki/concepts/instruction-pedagogy/Teacher Clarity.md",
         "wiki/methods/quantitative/Meta-meta-analysis.md"
       ],
       "title": "Lernen sichtbar machen"
@@ -67339,6 +67358,14 @@
       ],
       "title": ""
     },
+    "Larsen, 2020": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Institutional Logics.md"
+      ],
+      "title": ""
+    },
     "Larson et al., 2014": {
       "doi": "",
       "isbn": "",
@@ -72255,6 +72282,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/reports-policy-documents/Argument_Hattie_2005_ACER.md"
+      ],
+      "title": ""
+    },
+    "Lounsbury, 2012": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Institutional Logics.md"
       ],
       "title": ""
     },
@@ -86943,7 +86978,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
+        "wiki/theories/sociology-of-education/Institutional Logics.md"
       ],
       "title": ""
     },
@@ -95402,7 +95438,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
+        "wiki/theories/sociology-of-education/Institutional Logics.md"
       ],
       "title": ""
     },
@@ -105811,6 +105848,14 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Cowen_2009_CE.md",
         "wiki/concepts/comparative-education/Shape-Shifting.md"
+      ],
+      "title": ""
+    },
+    "Shields & Watermeyer, 2020": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Institutional Logics.md"
       ],
       "title": ""
     },
@@ -121422,6 +121467,14 @@
       ],
       "title": ""
     },
+    "Wang & Jones, 2021": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Institutional Logics.md"
+      ],
+      "title": ""
+    },
     "Wang & Wu, 2023": {
       "datasets": [
         "metax:S0004"
@@ -123151,6 +123204,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "School counseling outcome: A meta-analytic examination of interventions."
+    },
+    "Whitchurch & Gordon, 2009": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Institutional Logics.md"
+      ],
+      "title": ""
     },
     "Whitchurch & Law, 2010": {
       "doi": "",

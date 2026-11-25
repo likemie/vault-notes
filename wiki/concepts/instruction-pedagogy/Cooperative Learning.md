@@ -94,12 +94,12 @@ updated: 2026-11-26
 > [!def] Cooperative Learning
 > 合作学习（Cooperative Learning，CL）是指一种将学生组织为[[Heterogeneity\|异质性]]（能力、性别、背景多元）小组的[[Constructivist Paradigm\|社会建构主义]]教学组织模式。其核心特征在于通过社会结构化的信息交流与协同互动，使学习深度依赖于组内成员的同伴支持；每个学习者既对自身的学业掌握负责，又受到共同目标的激励去促进其他成员的学习，从而达成个体与群体的共同认知、[[Higher-Order Thinking Skills\|高阶思维]]与社会情感发展目标。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 2)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 以小群体的社会化互动与认知协商为载体，将个体学业成功与同伴成功深度绑定的[[Structured Teaching\|结构化教学]]组织[[Paradigm\|范式]]。
 > - **用途** 帮助教育研究者与一线教师超越传统单向灌输式[[Lecturing|讲授法]]，通过异质性同伴互动协同促进学生的学业考试成绩、高阶思维品质与社会人际技能。
 > - **边界** 合作学习区别于无结构约束的自发小组讨论（Unstructured Group Work），也不同于去中心化且赋予学生完全自主决策权的[[Collaborative Learning|协作学习]]（Collaborative Learning）。
 
-> [!citation-card] 经典界定与代表性表述
+> [!citation-card|notitle] 经典界定与代表性表述
 > 合作学习被经典定义为“一种小组学习活动组织形式，使学习依赖于学习者在小组中社会结构化的信息交流，其中每个学习者既对自己的学习负责，又有动力促进他人的学习”（Olsen & Kagan, 1992, p. 8）。在合作学习小组中，不同能力层次的学生为了实现共同目标而协作，通过深入研讨、相互解释材料并彼此激励，最终使所有成员获得超越个体单独学习的学业与认知成长（Slavin, 2014; Gillies & Ashman, 2003; Johnson & Johnson, 1994）。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 2)]]
 >
 > *Cooperative learning is defined as "group learning activity organized so that learning is dependent on the socially structured exchange of information between learners in groups and in which each learner is held accountable for his or her own learning and is motivated to increase the learning of others" (Olsen & Kagan, 1992, p. 8).*
@@ -183,8 +183,8 @@ updated: 2026-11-26
 > [!claim] Güngör et al.
 > **理论素养与规范实施的决定性制约** 合作学习在课堂中的有效应用高度依赖教师对理论基础与操作技术的深刻理解。尽管多数教师主观上认为自己在组织合作学习，但实际活动往往因过于松散、脱离特定方法论规范而沦为形式化的小组扎堆。唯有教师精准落实积极互赖、个体责任与小组反思，并为学生提供充分的合作技能训练时间与结构化[[Scaffolding\|脚手架]]，合作学习才能产生实质性学业与思维增益。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 12)]]
 
-> [!claim] Kremers
-> **渐进过程建构与教师专业养成周期** 克雷默斯强调，合作学习具有明显的过程性特征，须遵循深度独立学习—同伴配对交流—复杂小组协作的阶梯逐步培育学生能力，并将教师的长期专业发展视为前提（Johnson et al., 2005 认为培养一名胜任合作学习的教师需要三年时间）。将合作学习窄化为脱离心理基础的零散方法拼盘，会直接拉低课堂教学成效。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, pp. 80–81, 87)]]
+> [!claim] Kremers, T.
+> **渐进过程建构、课堂双平衡管理与教师养成周期** 克雷默斯（Thomas Kremers）强调，合作学习具有明显的过程性特征，须遵循深度独立学习—同伴配对交流—复杂小组协作的阶梯逐步培育学生能力，并将教师长期专业发展视为前提（Johnson et al., 2005 认为培养一名胜任合作学习的教师需要三年时间）。在课堂实施中，教师一方面需通过紧凑而切合实际的时间限制与高主导性（hohe Dominanz）、高合作性（hohe Kooperation）并重的[[Classroom Management|课堂管理]]护航互动秩序，另一方面须防止将合作学习拆解为脱离心理学五大原则的零散方法库拼凑（Methodensteinbruch），否则会直接拉低课堂教学成效。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, pp. 80–81, 84, 86–87)]]
 
 ---
 
@@ -206,7 +206,7 @@ updated: 2026-11-26
 
 ---
 
-> [!debates] 学术争议
+> [!debates|notitle] 学术争议
 >
 > > [!axis] 软科学与特定技能学科中的效能争议
 > > 传统[[Meta-analysis\|元分析]]常认为理科（数学、自然科学）等结构化任务更适合合作学习，而新近二阶综合显示语言学科效应极高，但体育与动作技能领域效应微弱，引发关于合作任务与学科知识形态匹配度的广泛争论。
@@ -220,7 +220,7 @@ updated: 2026-11-26
 > > - **Stanczak et al. (2022)** 在严格全实验控制下发现六年级[[Jigsaw\|拼图法]]未显著提升[[Academic Achievement\|学业成绩]]。
 > > - **[[Argument_Gungor_2026_CP\|Güngör et al. (2026)]]** 论证真实课堂教学有别于孤立实验室操作，[[Quasi-Experimental Designs\|准实验设计]]更能反映真实教学环境中的同伴互动与综合成长。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 11)]]
 
-> [!warning] 实施局限
+> [!warning|limits] 实施局限
 > - **教师专业素养要求高** 缺乏理论理解的机械分组会导致形式主义合作，未能有效落实积极互赖与个体责任。
 > - **实施周期与持续时间依赖** 短期接触式合作往往难以形成良性小组动力，需要充足的时间积累与结构化引导。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 12)]]
 
@@ -350,7 +350,7 @@ updated: 2026-11-26
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] — 综合 15 项[[Meta-analysis\|元分析]]的[[Meta-meta-analysis\|二阶元分析]]显示合作学习对[[Academic Achievement\|学业成就]]（0.71）、[[Higher-Order Thinking Skills\|高阶思维]]（0.76）与情感（0.51）均有效，[[Jigsaw\|拼图法]]等技术与学科具调节作用。
 > - [[Argument_Koller_2014_WhatWorks\|Köller (2014)]] — 结合德语区实证教育研究审读可见学习，报告合作学习总体效应量 $d = 0.41$，指出互惠教学（$d = 0.74$）为其高效能代表形态，并将其归入教学质量三大基准维度中的认知激活维度（pp. 31, 35）。
 > - [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014)]] — 评估[[John Hattie|哈蒂]]研究中合作学习的显性效应量（$d = 0.41$–$0.59$）与隐性因子束作用，驳斥传统讲授复辟并重申五大心理学要素（pp. 78–88）。

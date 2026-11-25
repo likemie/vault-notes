@@ -47,7 +47,7 @@ updated: 2026-11-26
 > - **用途** 既可用于复杂合作学习阶段，也可嵌入教师主导的讲授环节，快速激活全体学生的认知参与并促进同伴沟通。
 > - **边界** 餐垫法属于短周期课堂结构化工具，须依托明确的学习任务与教师时间调控才能发挥效力，单独使用本身并不自动构成完整的合作学习体系。
 
-> [!citation-card|notitle] 餐垫法作为合作学习的瑞士军刀
+> [!citation-card] 餐垫法作为合作学习的瑞士军刀
 > 餐垫法（Placemat，即小桌垫）因其适用场景广泛而被视为合作学习的瑞士军刀，其图文分区结构清晰体现了思考—配对—分享（Think-Pair-Share）三步序列中合作过程的推进逻辑：第一步由小组成员在共享工作纸的各自独立区域开展平行[[Brainstorming|头脑风暴]]，第二步相互展示个人想法，最后全组协商一致，将精选出的核心观点共同写入中央方框（Brüning & Saum, 2006, p. 11）。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, p. 88)]]
 >
 > *Das Placemat („Platzdeckchen“) gilt als „Schweizer Messer“ des Kooperativen Lernens, weil es vielfältig einsetzbar ist und seine grafische Struktur die Logik kooperativer Prozesse in der Abfolge von Think – Pair – Share beispielhaft abbildet (vgl. Brüning/Saum 2006, S. 11).*

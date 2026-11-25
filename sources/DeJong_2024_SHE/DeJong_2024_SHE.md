@@ -1,6 +1,7 @@
 ---
 citation: "de Jong, S. P. L., & del Junco, C. (2024). How do professional staff influence academic knowledge development? A literature review and research agenda. Studies in Higher Education, 49(6), 1042–1065. https://doi.org/10.1080/03075079.2023.2258155"
-extracted_to: []
+extracted_to:
+  - "[[Argument_DeJong_2024_SHE]]"
 processed_date: 2026-11-26
 ---
 
