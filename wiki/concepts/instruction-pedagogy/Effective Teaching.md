@@ -5,9 +5,9 @@ aliases:
 summary: "综合性教学质量概念，关注教师如何通过明确领导、清晰目标、反馈、学习导向气氛和适配学生前提来促进学习；亦在批判视角下聚焦技术清单与管理监视同关系型学习共同体建构之间的深刻张力。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 115
-related_level: 11
-related_stars: "💎💎💎⭐⭐"
+related_count: 123
+related_level: 12
+related_stars: "💎💎💎💎"
 related_color: "#ddd6fe"
 tags:
 - effective-teaching
@@ -17,6 +17,7 @@ related_concepts:
   - "[[Success Criteria]]"
   - "[[Evidence-Based Education]]"
   - "[[Paradigm]]"
+  - "[[Teacher as Activator]]"
   - "[[Scaffolding]]"
   - "[[School Effectiveness]]"
   - "[[Dependent Variable]]"
@@ -45,9 +46,16 @@ related_concepts:
   - "[[Inquiry-Based Learning]]"
   - "[[Source Evaluation]]"
   - "[[Problem Solving]]"
+  - "[[Cognitive Activation]]"
+  - "[[Concept Mapping]]"
+  - "[[Reciprocal Teaching]]"
+  - "[[Cooperative Learning]]"
+  - "[[Higher-Order Thinking Skills]]"
+  - "[[Constructive Support]]"
+  - "[[Student-Teacher Relationship]]"
+  - "[[Formative Assessment]]"
   - "[[Structured Teaching]]"
   - "[[Interaction Effect]]"
-  - "[[Formative Assessment]]"
   - "[[Differentiated Instruction]]"
   - "[[Cooperative Integrated Reading and Composition]]"
   - "[[Discourse]]"
@@ -63,11 +71,10 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Creativity]]"
   - "[[Learning Strategies]]"
-  - "[[Student-Teacher Relationship]]"
   - "[[Teacher Subject Matter Knowledge]]"
   - "[[Bildung]]"
+  - "[[Teacher Effects]]"
   - "[[Evidence Standards]]"
-  - "[[Higher-Order Thinking Skills]]"
   - "[[Ontology]]"
   - "[[Working Memory]]"
   - "[[Determinism]]"
@@ -82,9 +89,10 @@ related_concepts:
   - "[[Central Question]]"
   - "[[Class Size]]"
 related_theories:
+  - "[[Three Basic Dimensions of Teaching Quality]]"
   - "[[Stability vs. Variability Dilemma]]"
   - "[[Popper's Three Worlds Theory]]"
-  - "[[Three Basic Dimensions of Teaching Quality]]"
+  - "[[Process-Product Paradigm]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Classroom Observation]]"
@@ -103,9 +111,9 @@ related_persons:
   - "[[John Dewey]]"
   - "[[Ewald Terhart]]"
   - "[[Jürgen Baumert]]"
+  - "[[Olaf Köller]]"
   - "[[Robert Slavin]]"
   - "[[Eric Hanushek]]"
-  - "[[Olaf Köller]]"
 related_facts:
   - "[[World Bank]]"
   - "[[Science Foundation Ireland]]"
@@ -128,17 +136,17 @@ related_arguments:
   - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_WorldBank_2019_Teach]]"
   - "[[Argument_Cartiff_2021_JEP]]"
+  - "[[Argument_Koller_2014_WhatWorks]]"
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Terhart_2014_HolyGrail]]"
   - "[[Argument_Sarbiewska_2019_KiW]]"
   - "[[Argument_Abrami_2015_RER]]"
   - "[[Argument_Barrenechea_2023_JEC]]"
-  - "[[Argument_Koller_2014_WhatWorks]]"
 confidence: high
 status: active
 created: '2026-05-05'
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 
 ---
@@ -149,7 +157,7 @@ updated: 2026-11-24
 > 有效教学的核心重心聚焦于教学行为背后的深层质量条件：教学方法与学科内容及目标的适配度、学生对学习路径与[[Success Criteria|成功标准]]的清晰度，以及课堂兼具的心理安全感与学术高挑战。在当代[[Evidence-Based Education|循证教育]]改革视野中，有效教学正经历从抽象通用原则向经过因果检验的具体课程方案与实施支架的实践[[Paradigm|范式]]转向。[[Argument_Laursen_2015_Paideia|(Laursen, 2015, pp. 35–40)]]; [[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, pp. 22–23)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 概括跨学科、跨学段促进深度学习的课堂微观教学质量特征，强调教师作为主动激活者（Activator）与[[Scaffolding|认知脚手架]]搭建者的关键职能。
+> - **含义** 概括跨学科、跨学段促进深度学习的课堂微观教学质量特征，强调教师作为主动[[Teacher as Activator|激活者]]（Activator）与[[Scaffolding|认知脚手架]]搭建者的关键职能。
 > - **用途** 用于评价课堂教学质量、指导教师专业发展标准编制，并作为教学实验与[[School Effectiveness|学校效能]]研究的核心[[Dependent Variable|因变量]]参照。
 > - **边界** 区别于静态的[[Teacher Personality|教师人格]]特征或单一教学方法；在批判视角下，有效教学作为复杂的关系型实践，其实施深度依赖教师的[[Professional Judgment|专业判断]]与师生伦理关系，超越外部监控系统单纯量化考核的技术清单。
 
@@ -210,7 +218,7 @@ updated: 2026-11-24
 > **显性证据规则与支架介入确立有效教学基线** 对[[Epistemology|认识论]]教学干预的因果元分析量化证实了教师显性领导的不可替代性：明确向学生讲授证据确证规则并提供实验[[Variable|变量]]支架的[[Inquiry-Based Learning|指导式探究]]与[[Source Evaluation|信源评估]]模式，成效显著优于缺乏支架的自主[[Problem Solving|问题解决]]与开放辩论。这一结果从反面推翻了放任探究自发有效的假设，确立了教师提供结构化[[Scaffolding|脚手架]]、嵌入即时诊断反馈并开展短周期高浓度聚焦教学，是实现高品质有效教学的循证基准。[[Argument_Cartiff_2021_JEP|(Cartiff et al., 2021, pp. 485–486, 492)]]
 
 > [!claim] Köller
-> **教学质量三大基准维度的系统统整与以学生为中心的行动链条** 德语区实证教育研究审读表明，高成效教学策略在本质上系统对应课堂教学质量的三大基准维度（Baumert & Kunter, 2006）：其一为**有效课堂管理**（在任务时间保障、预防干扰、指令清晰与示范引导）；其二为**认知激活**（概念图、同伴辅导、互惠教学与结构化合作学习，深度引发高阶思维与复杂问题解决）；其三为**建设性支持**（指向实质内容的形成性反馈与温暖支持的师生关系，杜绝无意义的盲目忙碌）。学校教学改进必须建立在以学生为中心的循证行动链条之上，依托目标明晰、形成性评估与持续专业反思实现教学质量提升。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, pp. 35–36)]]
+> **[[Three Basic Dimensions of Teaching Quality|教学质量三大基准维度]]的系统统整与以学生为中心的行动链条** 德语区实证教育研究审读表明，高成效教学策略在本质上系统对应课堂教学质量的三大基准维度（Baumert & Kunter, 2006）：其一为**有效课堂管理**（在任务时间保障、预防干扰、指令清晰与示范引导）；其二为 **[[Cognitive Activation|认知激活]]（[[Concept Mapping|概念图]]、同伴辅导、[[Reciprocal Teaching|互惠教学]]与结构化[[Cooperative Learning|合作学习]]，深度引发[[Higher-Order Thinking Skills|高阶思维]]与复杂问题解决）**；其三为 **[[Constructive Support|建设性支持]]（指向实质内容的形成性反馈与温暖支持的[[Student-Teacher Relationship|师生关系]]，杜绝无意义的盲目忙碌）**。学校教学改进必须建立在以学生为中心的循证行动链条之上，依托目标明晰、[[Formative Assessment|形成性评估]]与持续专业反思实现教学质量提升。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, pp. 35–36)]]
 
 ---
 
@@ -268,11 +276,11 @@ updated: 2026-11-24
 ---
 
 > [!dev-timeline] 概念演变
-> - **1970–1980 年代 — 过程—结果实证[[Paradigm|研究范式]]（Process-Product Paradigm）** 以 Barak Rosenshine、Jere Brophy 为代表，系统测量教师行为（如提问频率、等待时间、[[Direct Instruction|直接讲授]]）与学生标准化成绩之间的量化关联，奠定了显性有效教学原则。
+> - **1970–1980 年代 — 过程—结果实证[[Paradigm|研究范式]]（[[Process-Product Paradigm]]）** 以 Barak Rosenshine、Jere Brophy 为代表，系统测量教师行为（如提问频率、等待时间、[[Direct Instruction|直接讲授]]）与学生标准化成绩之间的量化关联，奠定了显性有效教学原则。
 > - **1990–2000 年代 — [[Didaktik|欧陆教学论]]与质量框架整合（Didaktik & Quality [[Dimensions]]）** [[Hilbert Meyer]]（10 项优质教学特征）与 [[Andreas Helmke]]（优质教学综合模型）将教师领导、目标导向与认知激活纳入系统化质量框架。
 > - **2009 年 — 可见学习[[Meta-analysis|元分析]]综合（[[Visible Learning]]）** [[John Hattie]] 出版《可见学习》，综合 800+ 项元分析，提出教师作为主动激活者（$d = 0.60$）远优于促进者（$d = 0.17$）的论断。[[Argument_Laursen_2015_Paideia|(Laursen, 2015, p. 35)]]
 > - **2011 年 — 欧陆教学论审视与[[Epistemology|认识论]]双重假说解构** [[Ewald Terhart|特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp. 427–437]]）从德语教学论与思想史视角系统审视有效教学的[[Meta-meta-analysis|二阶元分析]]金字塔，量化提炼激活者（$d = 0.60$）与促进者（$d = 0.17$）的实证分化，揭示其常识逼近与结论过时的认识论双重困境，并批评其抽空学科实质内容与教化正当性的形式化弊端。
-> - **2014 年 — 德语区可见学习接受与优质教学论争** [[Ewald Terhart|特哈特]]系统梳理德国对可见学习的接受史，辨析“优质教学”（guter Unterricht）从规范教学论向实证研究的过渡，指出教师效应源于认知激活与反馈而非人格神话，并揭示其 8%–21% 的有限方差边界。[[Argument_Terhart_2014_HolyGrail|(Terhart, 2014, pp. 9–14)]]
+> - **2014 年 — 德语区可见学习接受与优质教学论争** [[Ewald Terhart|特哈特]]系统梳理德国对可见学习的接受史，辨析“优质教学”（guter Unterricht）从规范教学论向实证研究的过渡，指出[[Teacher Effects|教师效应]]源于认知激活与反馈而非人格神话，并揭示其 8%–21% 的有限方差边界。[[Argument_Terhart_2014_HolyGrail|(Terhart, 2014, pp. 9–14)]]
 > - **2014 年 — 德语区实证审读与三大基准维度统整** [[Olaf Köller|奥拉夫·克勒]]系统梳理可见学习中教师与教学变量，将高成效教学策略统整于教学质量三大基准维度（班级管理、认知激活、建设性支持），提出以学生为中心的循证教学改进规程。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, pp. 35–36)]]
 > - **2015 年 — 跨文化检验与社会背景调节深化** Per Fibæk Laursen 结合丹麦 [[Science Foundation Ireland|SFI]] 报告检验国际综合，揭示有效教学质量的跨文化普适性及学生社会背景对开放教学效果的深度调节。[[Argument_Laursen_2015_Paideia|(Laursen, 2015, pp. 38–40)]]
 > - **2019 年 — 跨国观察规程与社会情感整合（Teach 范式）** [[World Bank|世界银行]]发布 Teach [[Classroom Observation|课堂观察]]框架，针对低收入与中等收入国家确立了有效教学四维测量架构（在任务时间、课堂文化、教学指导、社会情感技能），推动有效教学评估从高收入国家传统工具向全球普适性田野规程拓展。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019)]]

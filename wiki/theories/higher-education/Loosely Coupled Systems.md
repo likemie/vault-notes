@@ -64,14 +64,14 @@ updated: 2026-11-25
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 组织社会学家卡尔·埃德温·韦克（Karl E. Weick）于 1976 年在《行政科学季刊》（*Administrative Science Quarterly*）发表开创性论文《作为松散耦合系统的教育组织》（*Educational Organizations as Loosely Coupled Systems*）。
-> - **原初问题** 20 世纪 70 年代组织研究普遍被[[Technical Rationality|技术理性]]主义所支配，假定组织由明确目标、确定技术与严密控制链条统摄；但在真实的学校与大学中，几乎找不到能够产生预期良效的理智实践，管理决策与日常教学活动长期处于互不相干的脱节状态。
-> - **理论资源与材料** 吸收了系统论中的开放系统概念、玻璃与橡皮筋等力学隐喻、March 与 Simon 的有限理性理论，以及全美公立中小学与大学层级之间信息传递迟缓的实地考察材料。
-> - **形成路径** 韦克将结构中的“独立性”（Distinctiveness）与“响应性”（Responsiveness）提炼为二元核心构件，指出耦合状态既非铁板一块的刚性紧密联结，亦非彼此无关的绝对断裂，而是兼具互动联系与缓冲边界的辩证平衡形态。
+> - **提出者与原始文本** 组织社会学家卡尔·埃德温·韦克（Karl E. Weick）于 1976 年在《行政科学季刊》（*Administrative Science Quarterly*）刊发开创性专论《作为松散耦合系统的教育组织》（*Educational Organizations as Loosely Coupled Systems*）。
+> - **原初问题** 20 世纪 70 年代组织研究普遍被[[Technical Rationality|技术理性]]主义所支配，假定组织受明确目标、确定技术与严密控制链条所支配；但在真实的学校与大学中，几乎找不到能够产生预期良效的理智实践，管理决策与日常教学活动长期处于互不相干的脱节状态。
+> - **理论资源与材料** 吸收了系统论中的开放系统概念、力学缓冲隐喻、March 与 Simon 的有限理性理论，以及全美公立中小学与大学层级之间信息传递迟缓的实地考察材料。
+> - **形成路径** 韦克将结构中的“独立性”（Distinctiveness）与“响应性”（Responsiveness）提炼为二元核心构件，指出各子系统兼具互动联系与缓冲边界，在维持系统响应的同时维系各结构单元的相对独立。
 
 > [!dev-timeline] 理论版本与贡献
 > - **1976 — 原始理论确立** Weick 首次系统阐述松散耦合的定义，提出松散耦合在教育组织中的七大功能性优势（允许局部适应、保留敏感性、激发自发性实验、阻隔系统局部危机蔓延、降低全校协调成本等）。
-> - **1990 — 双维重构** Orton 与 Weick 在《管理学会评论》（*Academy of Management Review*）发表重构论文，澄清松散耦合是“高独立性”与“高响应性”的结合体，确立了区别于完全解耦（Decoupling）的分析坐标系。
+> - **1990 — 双维重构** Orton 与 Weick 在《管理学会评论》（*Academy of Management Review*）刊发重构专论，澄清松散耦合是“高独立性”与“高响应性”的结合体，确立了区别于完全脱钩（Decoupling）的分析坐标系。
 > - **2019 — 大学科层治理实证批判** [[Argument_Maassen_Stensaker_2019_HEQ|Maassen and Stensaker (2019)]] 将松散耦合理论作为经典对照基准，考察 5 国公立[[Research Universities|研究型大学]]历经二十年强化层级与打造[[Complete Organisation|完整组织]]的改革成效，实证证明紧密耦合的预想并未实现，系统演变为行政理性化与学术实践脱钩的[[De-coupled Bureaucracy|解耦型官僚制]]。[[Argument_Maassen_Stensaker_2019_HEQ|(Maassen & Stensaker, 2019, pp. 458, 466)]]
 
 ---
@@ -148,12 +148,12 @@ updated: 2026-11-25
 > > 针对大学法人化改制是否成功将高等院校转变为一体化紧密实体，学界存在论争。
 > >
 > > - **完整组织主张方（Brunsson & Sahlin-Andersson, 2000; Krücken & Meier, 2006）** 认为战略规划、集中决断与品牌重塑正在将大学改造为紧密整合的战略行动实体。
-> > - **解耦官僚制检验方（[[Argument_Maassen_Stensaker_2019_HEQ|Maassen & Stensaker, 2019]]）** 实证表明紧密耦合仅停留在行政支撑系统内部，学术核心活动依然维系着专业规范与自适应弹性，最终定型为行政与学术脱节的二元解耦。[[Argument_Maassen_Stensaker_2019_HEQ|(Maassen & Stensaker, 2019, pp. 456–468)]]
+> > - **解耦官僚制检验方（[[Argument_Maassen_Stensaker_2019_HEQ|Maassen & Stensaker, 2019]]）** 实证表明紧密整合仅停留在行政支撑系统内部，学术核心活动依然维系着专业规范与自适应弹性，最终定型为行政与学术脱节的二元脱钩样态。[[Argument_Maassen_Stensaker_2019_HEQ|(Maassen & Stensaker, 2019, pp. 456–468)]]
 
 > [!critique] 批评索引
-> - [[Argument_Maassen_Stensaker_2019_HEQ|Maassen and Stensaker (2019)]] — 批评了当代大学治理改革试图将松散耦合系统彻底改造成全校一体化紧密实体的简化预设，论证该努力在行政支持系统与核心学术活动之间制造了更深的制度解耦。
+> - [[Argument_Maassen_Stensaker_2019_HEQ|Maassen and Stensaker (2019)]] — 批评了当代大学治理改革试图将松散网络彻底改造成全校一体化紧密实体的简化预设，论证该努力在行政支持系统与核心学术活动之间制造了更深的制度脱节。
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Maassen_Stensaker_2019_HEQ|Maassen and Stensaker (2019)]] — 以 Weick (1976) 的松散耦合理论为经典参照，实证对比 5 国公立大学跨 4 个学科院系的内部治理变迁，揭示科层理性化背景下由松散耦合走向解耦型官僚制的组织机制（pp. 456–468）。
+> - [[Argument_Maassen_Stensaker_2019_HEQ|Maassen and Stensaker (2019)]] — 以 Weick (1976) 的松散耦合理论为经典参照，实证对比 5 国公立大学跨 4 个学科院系的内部治理变迁，揭示科层理性化背景下由松散结合走向[[De-coupled Bureaucracy|解耦型官僚制]]的组织机制（pp. 456–468）。

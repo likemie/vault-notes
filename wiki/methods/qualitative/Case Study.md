@@ -7,9 +7,9 @@ summary: "以单个或少数个案为分析单位深入追踪过程、情境和�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 114
-method_related_level: 11
-method_related_stars: "💎💎💎⭐⭐"
+method_related_count: 123
+method_related_level: 12
+method_related_stars: "💎💎💎💎"
 method_related_color: "#dbeafe"
 cssclasses:
   - method-manual
@@ -31,6 +31,7 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Analytic Generalization]]"
   - "[[Reliability]]"
+  - "[[Evidence-Based Education]]"
   - "[[Variable]]"
   - "[[Research Question]]"
   - "[[Causality]]"
@@ -59,6 +60,7 @@ related_concepts:
   - "[[Complementary Variety]]"
   - "[[Scientific Creativity]]"
   - "[[Social Innovation Ecosystem]]"
+  - "[[Paradigm]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Knowledge Building Theory]]"
@@ -87,24 +89,28 @@ related_methods:
   - "[[Field Notes]]"
   - "[[Member Checking]]"
   - "[[Comparative Case Study]]"
+  - "[[Vertical Case Study]]"
+  - "[[Elite Interview]]"
+  - "[[Focus Group]]"
   - "[[Classroom Observation]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Implementation and Process Evaluation]]"
   - "[[Expert Interview]]"
   - "[[Purposeful Sampling]]"
-  - "[[Vertical Case Study]]"
+  - "[[Thematic Multiple Case-Study Comparison]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"
+  - "[[Argument_Brugelmann_2014_LocalPractice]]"
   - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
   - "[[Argument_Chou_Demiryol_2024_HE]]"
+  - "[[Argument_Nordtveit_2011_IJED]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Wang_2025_CE]]"
   - "[[Argument_He_2018_HEP]]"
-  - "[[Argument_Vavrus_2006_CICE]]"
   - "[[Argument_Dezhina_2022_ECO]]"
   - "[[Argument_Cole_2015_AJE]]"
   - "[[Argument_Lakhani_2012_AKUIED]]"
@@ -123,6 +129,8 @@ related_arguments:
   - "[[Argument_Heinze_2009_RP]]"
   - "[[Argument_Volmari_2025_CE]]"
   - "[[Argument_Natario_2025_IndHE]]"
+  - "[[Argument_Silova_2009_EE]]"
+  - "[[Argument_Vavrus_2006_CICE]]"
 related_facts:
   - "[[Soochow University in Laos]]"
   - "[[Xiamen University Malaysia]]"
@@ -137,11 +145,12 @@ related_facts:
   - "[[University Alliance of the Silk Road]]"
   - "[[Asian Universities Alliance]]"
   - "[[Swedish Schools Inspectorate]]"
+  - "[[European Education]]"
 related_instruments: []
 confidence: high
 status: draft
 created: 2026-05-08
-updated: 2026-11-20
+updated: 2026-11-25
 ---
 
 ---
@@ -165,7 +174,7 @@ updated: 2026-11-20
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 追求地方性知识的深入洞察与以小见大。推广逻辑区分为两种取向：殷（Yin, 2009）主张遵循实验复制原则实现“分析性概括”（将发现提升为理论命题）；斯塔克（Stake, 1995）则提出“[[Naturalistic Generalization|自然主义概括]]”，强调通过提供详实经验[[Rich and Thick Description|深描]]，由读者依据自身经验完成情境迁移。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 9, p. 215)]]
 > - **研究者角色** 深度卷入的实地探究者与对话者，在自然未受控情境下长期驻留，依靠主观[[Professional Judgment|专业判断]]理解行动者体验，并保持[[Reflexivity|反思性]]以校正潜在偏见。
-> - **有效性标准** [[Construct Validity|建构效度]]（多元证据互证与[[Chain of Evidence|证据链]]构建）、[[Internal Validity|内部效度]]（建立因果逻辑并排除竞争性解释）、[[External Validity|外部效度]]（[[Analytic Generalization|分析性推广]]至理论体系）与[[Reliability|信度]]（研究草案与案例数据库规范化）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|(Cohen et al., 2011, Ch. 14)]]
+> - **有效性标准与认识论位阶** [[Construct Validity|建构效度]]（多元证据互证与[[Chain of Evidence|证据链]]构建）、[[Internal Validity|内部效度]]（建立因果逻辑并排除竞争性解释）、[[External Validity|外部效度]]（[[Analytic Generalization|分析性推广]]至理论体系）与[[Reliability|信度]]（研究草案与案例数据库规范化；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al., 2011, Ch. 14]]）。在[[Evidence-Based Education|循证教育]]认识论中，布吕格尔曼（[[Argument_Brugelmann_2014_LocalPractice|Brügelmann, 2014, p. 46]]）进一步打破了个案研究作为大型科学研究从属预备阶段的传统定位，论证一线实践经验与累积性个案研究直接构成检验宏观统计推论能否在具体教学情境中经受住考验的终极试金石。
 > - **不声称回答的问题** 不能直接用于大样本统计总体的概率推论，亦不能替代控制实验进行精确[[Variable|变量]]因果[[Effect Size|效应量]]测算。
 
 > [!method-stack] 方法层级
@@ -237,7 +246,7 @@ updated: 2026-11-20
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Nordtveit_2011_IJED|Nordtveit (2011)]] — 采用单国度质性个案研究设计，结合分层关键知情人访谈、焦点小组与实地考察，考察中国对喀麦隆教育援助的四类形态及治理特征。
+> - [[Argument_Nordtveit_2011_IJED|Nordtveit (2011)]] — 采用单国度质性个案研究设计，结合分层[[Elite Interview|关键知情人访谈]]、[[Focus Group|焦点小组]]与实地考察，考察中国对喀麦隆教育援助的四类形态及治理特征。
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 采用跟踪式个案设计，结合目的抽样与理论抽样分两阶段选取 62 名个案，用以检视叙述可靠性并确证意向与行为的关联。
 > - [[Argument_Wang_2025_CE|Wang and McLaughlin (2025)]] — 以多案例研究设计，从 15 所参与跨文化 [[Learner-Centred Education|LCE]] 教师培训项目的学校中选取 4 所进行深度追踪，对比不同学校在[[Test-Based Accountability|考试问责]]压力下推进 LCE 的路径差异。
 > - [[Argument_He_2018_HEP|He and Wilkins (2018)]] — 采用多案例研究设计，选取[[Soochow University in Laos|老挝苏州大学]]、[[Xiamen University Malaysia|厦门大学马来西亚分校]]与泰国[[Bangkok Business School|曼谷商学院]]三所境外分校，对比不同东道国语境下[[Educational Soft Power|教育软实力]]的运作差异。
@@ -262,5 +271,6 @@ updated: 2026-11-20
 > - [[Argument_Heinze_2009_RP|Heinze et al. (2009)]] — 结合专家提名、学术获奖与引文数据，对欧美纳米技术与人类遗传学领域的 20 个重大科研突破开展多案例比较研究，提炼微观团队规模、[[Complementary Variety|互补多样性]]与制度资助对[[Scientific Creativity|科学创造力]]的复合影响机制。
 > - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 采用北欧跨国比较案例研究设计，对比丹麦、芬兰与挪威基础教育改革中的政策文本、引文网络与决策者访谈，揭示不同福利国家制度情境下证据利用与政治合法化的共生机制（pp. 531–535）。
 > - [[Argument_Natario_2025_IndHE|Natário and Oliveira (2025)]] — 采用探索性与反思性定性个案研究，考察葡萄牙中部六所理工学院的四项协同项目，剖析应用型高校如何催化区域与[[Social Innovation Ecosystem|社会创新生态系统]]。
-> - [[Argument_Silova_2009_EE|Silova (2009)]] — 结合《欧洲教育》四十卷出版史，评析主题化多案例比较设计（multiple case-study comparison）在调和单国历史深描与跨国量化实证两极对立中的方法论桥梁作用（pp. 22–25）。
-> - [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] — 提出垂直案例研究（Vertical Case Study），将个案研究设计从封闭的单一边界系统拓展为贯通微观行动、国家政策与跨国治理的多尺度比较分析范式。
+> - [[Argument_Silova_2009_EE|Silova (2009)]] — 结合《[[European Education|欧洲教育]]》四十卷出版史，评析[[Thematic Multiple Case-Study Comparison|主题化多案例比较设计]]（multiple case-study comparison）在调和单国历史深描与跨国量化实证两极对立中的方法论桥梁作用（pp. 22–25）。
+> - [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] — 提出垂直案例研究（Vertical Case Study），将个案研究设计从封闭的单一边界系统拓展为贯通微观行动、国家政策与跨国治理的多尺度比较分析[[Paradigm|范式]]。
+> - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014)]] — 确立扎根具体情境的累积性个案研究是检验大样本统计概率假说的终极试金石，打破个案研究仅作为宏观科学研究前置预备阶段的从属地位（p. 46）。

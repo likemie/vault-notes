@@ -41,6 +41,7 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Grade Retention]]"
   - "[[Cognitive Activation]]"
+  - "[[Constructive Support]]"
   - "[[Empirische Unterrichtsforschung]]"
   - "[[Teacher Expertise]]"
   - "[[Teacher Subject Matter Knowledge]]"
@@ -89,10 +90,9 @@ related_facts:
   - "[[PISA]]"
   - "[[TIMSS]]"
   - "[[Institute for Educational Quality Improvement]]"
-  - "[[Gesamtschule]]"
 status: completed
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 
 ---
@@ -101,7 +101,7 @@ updated: 2026-11-24
 > 在德语区教育界对[[John Hattie|约翰·哈蒂]]（[[John Hattie]]）《[[Visible Learning|可见的学习]]》产生狂热追捧与方法学指责高度两极分化的背景下，大规模[[Meta-meta-analysis|二阶元分析]]所汇集的学校与课堂[[Variable|变量]][[Effect Size|效应量]]是否具备稳健的经验依据？教育系统应当如何区分表面组织形式与深层教学过程，确立真正促进学生[[Academic Achievement|学业成就]]的有效干预路径？
 
 > [!claim] 核心主张
-> 教育干预的促学成效严格取决于其作用点是否直接切近微观课堂教学过程；调整[[Class Size|班级规模]]、[[Grade Retention|留级]]与外在组织形式等宏观结构变量成效微弱甚至具有负向阻碍，唯有将教学改进聚焦于有效班级管理、[[Cognitive Activation|认知激活]]与建设性支持[[Three Basic Dimensions of Teaching Quality|三大基准维度]]，依托严密的形成性目标监控与反馈反思，方能产生实质性的学业增益。
+> 教育干预的促学成效严格取决于其作用点是否直接切近微观课堂教学过程；调整[[Class Size|班级规模]]、[[Grade Retention|留级]]与外在组织形式等宏观结构变量成效微弱甚至具有负向阻碍，唯有将教学改进聚焦于有效班级管理、[[Cognitive Activation|认知激活]]与[[Constructive Support|建设性支持]][[Three Basic Dimensions of Teaching Quality|三大基准维度]]，依托严密的形成性目标监控与反馈反思，方能产生实质性的学业增益。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 哈蒂（2009, 2012）二阶[[Meta-analysis|元分析]]综合中涉及的 800 至 931 项元分析底册，重点审视学校层面与教师教学层面的关键影响变量。
@@ -277,7 +277,7 @@ updated: 2026-11-24
 >   包含在任务时间利用、预防课堂干扰、教学指令清晰度与直接教学示范，为专注学习提供稳定的组织基石（p. 35）。
 > - **认知激活（Kognitive Aktivierung）**
 >   包含概念图、同伴辅导、互惠教学与结构化合作学习，深度引发学生的高阶认知加工与[[Problem Solving|问题解决]]。
-> - **建设性支持（Konstruktive Unterstützung）**
+> - **[[Constructive Support|建设性支持]]（Konstruktive Unterstützung）**
 >   包含针对内容的形成性反馈与温暖支持的师生关系，杜绝学生貌似忙碌实则无所获的盲目忙碌（mindless busy work）。
 
 > [!sub-claim] 2. 教师专业改进遵循以学生为中心的循证行动链条
@@ -296,7 +296,7 @@ updated: 2026-11-24
 
 > [!finding-cards] 核心发现
 > 1. **深层教学过程决定学业成效** 学校宏观结构调整（[[Class Size|班额]]、[[Grade Retention|留级]]、分轨）因停留在表层结构而普遍低效；直接切入课堂师生互动的深层[[Variable|变量]]展现显著促学优势。
-> 2. **[[Three Basic Dimensions of Teaching Quality|三大基准维度]]整合高效教学机制** 班级管理、[[Cognitive Activation|认知激活]]与建设性支持三位一体，构成了整合[[Direct Instruction|直接教学]]、[[Reciprocal Teaching|互惠教学]]、[[Concept Mapping|概念图]]与内容反馈的理论框架。
+> 2. **[[Three Basic Dimensions of Teaching Quality|三大基准维度]]整合高效教学机制** 班级管理、[[Cognitive Activation|认知激活]]与[[Constructive Support|建设性支持]]三位一体，构成了整合[[Direct Instruction|直接教学]]、[[Reciprocal Teaching|互惠教学]]、[[Concept Mapping|概念图]]与内容反馈的理论框架。
 > 3. **学科专业知识是专业教学的基石** 驳斥[[John Hattie|哈蒂]]学科知识低效论，依据 [[COACTIV]] 等本土严密证据确立学科专业素养在支撑认知激活与学业增益中的关键先决地位。
 > 4. **确立以学生为中心的循证反思规程** 倡导教师明确目标标准、依托形成性[[Pre-test and Post-test|前测]]把脉起点、依据增值数据持续优化教学实践。
 
@@ -318,13 +318,13 @@ updated: 2026-11-24
 >
 > *Im Gegensatz zu vielen bildungspolitischen Diskussionen über Strukturreformen im Bildungssystem weist Hattie eindrucksvoll darauf hin, dass Reformbemühungen sich weniger auf Rahmenbedingungen von Schule, sondern auf die Verbesserung von Unterricht beziehen sollten.*
 
-> [!citation-card] 表层结构与深层结构的分野
+> [!citation-card] [[Three Basic Dimensions of Teaching Quality|表层结构与深层结构]]的分野
 > 现代教学研究强调，所谓的表层结构（那些容易且客观被观察记录的结构）往往不适于预测[[Academic Achievement|学业成就]]。决定究竟学到多少的，反倒是那些评估难度更高的深层结构（例如：教学在多大程度上具备[[Cognitive Activation|认知激活]]力？）。（p. 28）
 >
 > *Dort wird bereits betont, dass sogenannte Sicht- bzw. Oberflächenstrukturen oftmals ungeeignet sind, Lernerfolg vorherzusagen. Vielmehr scheinen es aufwendiger zu beurteilende Tiefenstrukturen (zum Beispiel: wie kognitiv aktivierend ist der Unterricht?) zu sein, die darüber entscheiden, wie viel gelernt wird.*
 
 > [!citation-card] 课堂干预有效性的距离法则
-> [[Gesamtschule|综合学校]]层面的各项测量结果可见，措施越是直接作用于课堂教学或具体学习情境，其促进学习的效果就越显著。那些仅用于划定学校和课堂外部框架的特征，在很大程度上无法产生实质成效。（p. 31）
+> 综合学校层面的各项测量结果可见，措施越是直接作用于课堂教学或具体学习情境，其促进学习的效果就越显著。那些仅用于划定学校和课堂外部框架的特征，在很大程度上无法产生实质成效。（p. 31）
 >
 > *Fasst man die Befunde zur Relevanz der schulischen Maße zusammen, so zeigt sich insgesamt, dass Maßnahmen umso eher lernförderlich wirken, je dichter sie direkt am Unterricht bzw. an der Lernsituation angreifen.*
 

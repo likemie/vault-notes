@@ -4844,7 +4844,10 @@
       "暑期学校",
       "Summer Schools",
       "暑期补习学校",
-      "Summer Programs"
+      "Summer Programs",
+      "暑期学习损失",
+      "暑期滑坡",
+      "Summer Learning Loss"
     ]
   },
   {
@@ -12490,6 +12493,17 @@
       "Concept Maps",
       "Conceptmapping",
       "命题网络"
+    ]
+  },
+  {
+    "title": "Constructive Support",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Constructive Support.md",
+    "aliases": [
+      "建设性支持",
+      "课堂建设性支持",
+      "Konstruktive Unterstützung",
+      "Constructive Support in Teaching"
     ]
   },
   {
@@ -25790,7 +25804,11 @@
       "Drei Basisdimensionen von Unterrichtsqualität",
       "Three Dimensions of Teaching Quality",
       "Three Basic Dimensions",
-      "Basic Dimensions of Instructional Quality"
+      "Basic Dimensions of Instructional Quality",
+      "教学的表层结构与深层结构",
+      "表层结构与深层结构",
+      "Sichtstrukturen und Tiefenstrukturen",
+      "Surface and Deep Structure of Teaching"
     ]
   },
   {

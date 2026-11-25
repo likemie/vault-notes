@@ -7,9 +7,9 @@ aliases:
 summary: "学生与教师在教育实践与微观课堂互动中建构的情感支持、道德信任与指导性交往联结。它既是学习参与、心理安全感与学业投入的关键生态条件，也是承载不同文化学习信念与社会资本转化的核心关系中介。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 62
-related_level: 6
-related_stars: "💎💎"
+related_count: 71
+related_level: 7
+related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - student-teacher-relationship
@@ -24,37 +24,41 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Teacher Support for Students]]"
   - "[[Student Engagement]]"
+  - "[[Constructive Support]]"
   - "[[Reliability]]"
   - "[[School Norm Adaptation]]"
   - "[[Classroom Learning Culture]]"
   - "[[Classroom Management]]"
   - "[[Scaffolding]]"
+  - "[[Teacher Expectations]]"
   - "[[Independent Variable]]"
   - "[[Zone of Desired Effects]]"
   - "[[Visible Learning]]"
   - "[[Microteaching]]"
   - "[[Teacher Clarity]]"
+  - "[[Variable]]"
   - "[[Structured Teaching]]"
   - "[[Enculturation]]"
   - "[[Self-Cultivation]]"
   - "[[Concept Mapping]]"
   - "[[Chinese Learner]]"
   - "[[Humility]]"
-  - "[[Variable]]"
   - "[[Champ]]"
   - "[[Cultural Capital]]"
   - "[[First-Generation College Student]]"
   - "[[Habitus]]"
   - "[[Study Abroad]]"
   - "[[Going Native]]"
+  - "[[Instrumental Rationality]]"
   - "[[Neoliberalism]]"
   - "[[Alienation]]"
   - "[[Cultural Disembedding]]"
   - "[[Paradigm]]"
   - "[[Pure Evaluation]]"
   - "[[Dependent Variable]]"
-  - "[[Philosophical Aesthetics]]"
   - "[[Positivism]]"
+  - "[[Philosophical Aesthetics]]"
+  - "[[Active Learning]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
   - "[[Culture as Toolkit]]"
@@ -63,13 +67,17 @@ related_theories:
 related_methods:
   - "[[Research Synthesis]]"
   - "[[Effect Size]]"
+  - "[[Meta-meta-analysis]]"
+  - "[[Meta-analysis]]"
   - "[[Multiple Regression]]"
   - "[[Questionnaire]]"
-  - "[[Meta-analysis]]"
   - "[[Cluster Analysis]]"
 related_instruments: []
 related_persons:
+  - "[[Carl Rogers]]"
   - "[[John Hattie]]"
+  - "[[Olaf Köller]]"
+  - "[[Jürgen Baumert]]"
   - "[[Jin Li]]"
   - "[[Yajun Zheng]]"
   - "[[Pierre Bourdieu]]"
@@ -79,6 +87,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Lekhal_2015_Paideia]]"
   - "[[Argument_Li_2012_Cambridge]]"
+  - "[[Argument_Koller_2014_WhatWorks]]"
   - "[[Argument_Håkansson_2015_TT]]"
   - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
@@ -91,7 +100,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-06'
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 
 > [!def] Student-Teacher Relationship
@@ -103,7 +112,7 @@ updated: 2026-11-24
 > - **边界** 师生关系是学习过程的支持环境与使能条件，不直接等同于行为层面的[[Student Engagement|学习投入]]，亦不能替代结构化的学科认知指导与教学法本身。
 
 > [!citation-card|notitle] 关键表述
-> 罗杰斯人本心理学传统下的温暖、共情与非指导性支持显著促进学习（d = 0.72），构成了课堂教学中建设性支持维度的核心基石。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, pp. 31, 35)]]
+> [[Carl Rogers|罗杰斯]]人本心理学传统下的温暖、共情与非指导性支持显著促进学习（d = 0.72），构成了课堂教学中[[Constructive Support|建设性支持]]维度的核心基石。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, pp. 31, 35)]]
 >
 > *Lehrer-Schüler-Beziehung erweist sich mit d = 0.72 als hochgradig lernförderlich.*
 
@@ -131,14 +140,14 @@ updated: 2026-11-24
 
 ---
 
-> [!concept-proposition] 命题一｜良好的师生关系是高期望效应与教学效能转化的关键催化剂
+> [!concept-proposition] 命题一｜良好的师生关系是高[[Teacher Expectations|期望效应]]与教学效能转化的关键催化剂
 > **教学交互与[[Research Synthesis|证据综合]]** 探讨师生关系如何超越单纯的礼貌交往，作为具有极高[[Effect Size|效应量]]潜力的核心[[Independent Variable|自变量]]直接促进课堂教学效能与学业发展。
 
 > [!claim] Hattie (2009); [[Argument_Golovchin_2019_ESC|Golovchin (2019)]]
 > **[[Zone of Desired Effects|期望效应区]]的高回报因素** [[John Hattie|约翰·哈蒂]]（John Hattie）在《[[Visible Learning|可见的学习]]》宏观二阶综合中，将师生关系界定为期望效应区的高回报因素，位居全球教育干预前列。戈洛夫钦（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）在重审该模型时指出，积极的师生关系与[[Microteaching|微格教学]]、[[Teacher Clarity|教学清晰度]]共同构成了教师层面最值得投资的高增益要素。师生间的相互信任与深层共情，能够消除学生在面对复杂高阶挑战时的焦虑防御，极大提升教师指令与即时反馈的心理摄入效率。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 235)]]
 
 > [!claim] [[Olaf Köller|Köller, O.]]
-> **建设性支持维度中人本关系的强促学效应** 奥拉夫·克勒在审读二阶元分析时指出，良好的师生关系（Lehrer-Schüler-Beziehung）展现出极其显著的学业促学效应（ = 0.72$），其效能远超绝大多数宏观学校结构变量。克勒援引科尼利厄斯-怀特（Cornelius-White, 2007）的元分析证据阐明，植根于人本主义心理学传统的师生关系——以教师对学生的积极情感支持、敏锐共情、充分鼓励以及保留自主探索空间为特征——不仅直接改善了学生的学业成长，而且在鲍默特与孔特尔的教学质量模型中，与形成性内容反馈共同构成了“建设性支持”（Konstruktive Unterstützung）维度的核心支柱。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, pp. 31, 35)]]
+> **建设性支持维度中人本关系的强促学效应** 奥拉夫·克勒在审读[[Meta-meta-analysis|二阶元分析]]时指出，良好的师生关系（Lehrer-Schüler-Beziehung）展现出极其显著的学业促学效应（ = 0.72$），其效能远超绝大多数宏观学校结构[[Variable|变量]]。克勒援引科尼利厄斯-怀特（Cornelius-White, 2007）的[[Meta-analysis|元分析]]证据阐明，植根于人本主义心理学传统的师生关系——以教师对学生的积极情感支持、敏锐共情、充分鼓励以及保留自主探索空间为特征——不仅直接改善了学生的学业成长，而且在[[Jürgen Baumert|鲍默特]]与孔特尔的教学质量模型中，与形成性内容反馈共同构成了“建设性支持”（Konstruktive Unterstützung）维度的核心支柱。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, pp. 31, 35)]]
 
 > [!claim] [[Argument_Håkansson_2015_TT|Håkansson (2015a)]]
 > **[[Structured Teaching|结构化教学]]中不可分割的互动支柱** 针对北欧围绕“讲坛式讲授”与“自由探索”的二元对立争论，霍坎松（Håkansson, 2015）系统梳理 43 项国际与本土研究综述指出，真正提升学业效能的[[Structured Teaching|结构化教学]]体现为“清晰结构与支持性互动”的有机共生，超越了单向的课堂行为控制。卓越的[[Classroom Management|课堂管理]]不仅包含时间利用与目标陈述，更把维持支持性的师生关系作为维系纪律、调动自主性的内在支柱，破除了将教学秩序与人际温度割裂开来的制度偏见。[[Argument_Håkansson_2015_TT|(Håkansson, 2015a, pp. 591–596)]]
@@ -184,7 +193,7 @@ updated: 2026-11-24
 
 > [!debates] 学术争议
 >
-> > [!axis] 工具理性绩效评定与实在论人际复杂性之争
+> > [!axis] [[Instrumental Rationality|工具理性]]绩效评定与实在论人际复杂性之争
 > > 探讨将师生关系作为标准化技术指标还是复杂人际生态的分歧。
 > >
 > > - **绩效与标准化取向** 主张将师生关系作为可操作、可评级与可标准化的干预[[Independent Variable|自变量]]，通过教师培训量化提升师生互动行为指标。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 235)]]
@@ -243,20 +252,20 @@ updated: 2026-11-24
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Classroom Learning Culture]] | 概念 | 师生微观互动孕育并维系的全班集体规范与心理安全[[Champ|场域]]。 |
-> | [[Classroom Management]] | 概念 | 与师生关系相辅相成的教学组织维度，两者共同支撑[[Structured Teaching|结构化教学]]。 |
-> | [[School Norm Adaptation]] | 概念 | 师生关系通过提升学生的规范认同间接促进[[Academic Achievement|学业表现]]的中介路径。 |
+> | [[Classroom Learning Culture]] | 概念 | 师生微观互动孕育并维系的全班集体规范与心理安全[[Champ\|场域]]。 |
+> | [[Classroom Management]] | 概念 | 与师生关系相辅相成的教学组织维度，两者共同支撑[[Structured Teaching\|结构化教学]]。 |
+> | [[School Norm Adaptation]] | 概念 | 师生关系通过提升学生的规范认同间接促进[[Academic Achievement\|学业表现]]的中介路径。 |
 > | [[Student Engagement]] | 概念 | 师生关系的情感支持直接激发的课堂卷入与学习投入状态。 |
 > | [[Didaktik]] | 概念 | 确立师生互动与学科内容三元张力的欧洲教学理论体系。 |
-> | [[Visible Learning]] | 概念 | 将师生关系作为关键[[Independent Variable|预测变量]]并纳入宏观[[Effect Size|效应量]]综合的效能模型。 |
+> | [[Visible Learning]] | 概念 | 将师生关系作为关键[[Independent Variable\|预测变量]]并纳入宏观[[Effect Size\|效应量]]综合的效能模型。 |
 > | [[Confucian Learning Tradition]] | 理论 | 将师生关系确立为求知维度核心独立支柱的东亚学习传统。 |
-> | [[Critical Realism]] | 理论 | 批判师生关系被[[Positivism|实证主义]]量化降维与工具化指标改造的理论资源。 |
+> | [[Critical Realism]] | 理论 | 批判师生关系被[[Positivism\|实证主义]]量化降维与工具化指标改造的理论资源。 |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 梳理[[John Hattie|哈蒂]][[Meta-analysis|元分析]]模型中高增益要素，确立师生关系（$d=0.72$）作为高回报干预的基准定位。
-> - [[Argument_Li_2012_Cambridge|Li (2012)]] — 比较儒家与欧美学习模型，通过严密的[[Cluster Analysis|聚类分析]]实证确立师生关系在东亚学习传统中的本体性地位（占求知维度 11%）。
+> - [[Argument_Li_2012_Cambridge|Li (2012)]] — 比较儒家与欧[[Philosophical Aesthetics|美学]]习模型，通过严密的[[Cluster Analysis|聚类分析]]实证确立师生关系在东亚学习传统中的本体性地位（占求知维度 11%）。
 > - [[Argument_Lekhal_2015_Paideia|Lekhal et al. (2015)]] — 基于挪威 4,128 名中小学生调查，分析师生关系感知在男女生之间的微弱均差（$d=-0.05$）及多信息源回归中的表现。
 > - [[Argument_Håkansson_2015_TT|Håkansson (2015a)]] — 综合 43 项国际与本土综述，论证[[Structured Teaching|结构化教学]]必须依靠支持性师生互动与[[Classroom Management|课堂管理]]实现有机平衡。
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 揭示中国重点大学中第一代大学生因文化[[Habitus|惯习]]隔阂回避深层师生交流的社会再生产机制。
@@ -265,5 +274,5 @@ updated: 2026-11-24
 > - [[Argument_Eacott_2017_SLM|Eacott (2017)]] — 批判新自由主义行政规训导致师生关系异化与学校[[Cultural Disembedding|文化脱嵌]]。
 > - [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] — 探讨[[Visible Learning|可见的学习]]对有意图师生关系的考察及其在复杂知识阶层化转译中的理论边界。
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 从欧陆教育哲学视角审视可见学习对师生关系的工具化还原，揭示技术评价逻辑对文化承载与主体间交往本质的消解。（pp. 3–4, 6–8）
-> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 论述积极融洽的师生关系构成优秀教师与主动学习者共同劳作的基础，教学本质上是对行动效果的持续反思与学习过程。
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 论述积极融洽的师生关系构成优秀教师与[[Active Learning|主动学习]]者共同劳作的基础，教学本质上是对行动效果的持续反思与学习过程。
 

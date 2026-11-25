@@ -10,7 +10,7 @@ aliases:
 summary: "指个体在面对阻碍且无直接算法可用时，通过表征初始状态、搜索算子空间、在多重约束下权衡取舍、应用启发式策略与现场排障调试，以克服障碍并达成目标状态的高级认知与实践过程。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 52
+related_count: 59
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -38,30 +38,37 @@ related_concepts:
   - "[[Transfer Strategies]]"
   - "[[Metacognition]]"
   - "[[Wicked Problem]]"
+  - "[[Cognitive Activation]]"
   - "[[Mimesis]]"
   - "[[Concept Mapping]]"
   - "[[Working Memory]]"
+  - "[[Peer-Supported Learning]]"
+  - "[[Reciprocal Teaching]]"
   - "[[Cognitive Offloading]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Educational Affordances]]"
+  - "[[Scaffolding]]"
   - "[[Domain Specificity]]"
   - "[[Epistemic Practices]]"
+  - "[[Surface and Deep Learning]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Learning Strategies]]"
   - "[[Computer Simulation]]"
+  - "[[Heterogeneity]]"
   - "[[Process Knowledge]]"
   - "[[Learning Gain]]"
   - "[[Direct Instruction]]"
   - "[[Hybrid Pedagogy]]"
-  - "[[Cognitive Activation]]"
 related_theories:
   - "[[Creative Problem Solving]]"
-  - "[[Cognitive Load Theory]]"
   - "[[Three Basic Dimensions of Teaching Quality]]"
+  - "[[Cognitive Load Theory]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Prediction Interval]]"
 related_instruments:
   - "[[Collegiate Learning Assessment]]"
   - "[[ETS HEIghten Critical Thinking Assessment]]"
@@ -77,12 +84,12 @@ related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
   - "[[Argument_Kelly_Licona_2018_EpistemicPractices]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
-  - "[[Argument_Deng_2016_CE]]"
   - "[[Argument_Koller_2014_WhatWorks]]"
+  - "[[Argument_Deng_2016_CE]]"
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 
 ---
@@ -144,19 +151,19 @@ updated: 2026-11-24
 
 ---
 
-> [!concept-proposition] 命题一｜复杂[[Wicked Problem|劣构问题]]解决高度依赖高质量的问题空间表征、认知激活与[[Metacognition|元认知监控]]
+> [!concept-proposition] 命题一｜复杂[[Wicked Problem|劣构问题]]解决高度依赖高质量的问题空间表征、[[Cognitive Activation|认知激活]]与[[Metacognition|元认知监控]]
 > **问题空间表征与认知激活支持** 探讨个体在面对非良构复杂问题时，如何通过准确表征初始状态与约束条件，避免陷入盲目试错的无序搜索，并借助教学中的认知激活与元认知监控实现自适应路径调整。
 
 > [!claim] Zhao et al.
 > **深层问题表征与逻辑推演机制** 复杂情境中的问题解决是学习者主动进行问题空间表征、边界约束分析与多路径方案构建的高阶认知探索，有别于被动的步骤[[Mimesis|模仿]]。优质的问题解决表现依赖于个体在头脑中构建清晰的[[Concept Mapping|概念图]]式，进而有效分配[[Working Memory|工作记忆]]资源以推演多种可行性解法。在此过程中，元认知监控发挥着核心导航作用，使解题者能够敏锐识别推理死胡同并及时调整搜索算子。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 7–8, 14)]]
 
 > [!claim] [[Argument_Koller_2014_WhatWorks|Köller (2014)]]
-> **认知激活驱动深层问题解决** 依据课堂教学质量三大基准维度理论，问题解决作为高阶思维表现，无法仅通过调整学校外部组织结构自发形成，而取决于课堂教学内部的[[Cognitive Activation|认知激活]]（Kognitive Aktivierung）。教师通过概念图绘制、同伴互助与互惠教学等策略，引导学生进行概念网络重构与逻辑推演，构成激发深层问题解决能力的核心教学机制。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, p. 35)]]
+> **认知激活驱动深层问题解决** 依据课堂[[Three Basic Dimensions of Teaching Quality|教学质量三大基准维度]]理论，问题解决作为高阶思维表现，无法仅通过调整学校外部组织结构自发形成，而取决于课堂教学内部的[[Cognitive Activation|认知激活]]（Kognitive Aktivierung）。教师通过概念图绘制、[[Peer-Supported Learning|同伴互助]]与[[Reciprocal Teaching|互惠教学]]等策略，引导学生进行概念网络重构与逻辑推演，构成激发深层问题解决能力的核心教学机制。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, p. 35)]]
 
 ---
 
 > [!concept-proposition] 命题二｜智能工具的程序性契合能显著分担搜索负荷但需防范[[Cognitive Offloading|认知外包]]
-> **智能工具与程序性心智协同** 探讨[[Generative Artificial Intelligence|生成式人工智能]]与自动化调试工具在问题解决生命周期中的认知[[Educational Affordances|可供性]]，分析其作为程序性认知脚手架对逻辑推演的辅助机制及其引发的心智依赖风险。
+> **智能工具与程序性心智协同** 探讨[[Generative Artificial Intelligence|生成式人工智能]]与自动化调试工具在问题解决生命周期中的认知[[Educational Affordances|可供性]]，分析其作为程序性[[Scaffolding|认知脚手架]]对逻辑推演的辅助机制及其引发的心智依赖风险。
 
 > [!claim] Zhao et al.
 > **程序性高度契合与认知外包反思机制** 问题解决对方案搜索、边界约束分析与迭代测试具有极高的程序性依赖。生成式人工智能具有高维向量关联与语法逻辑解析特质，能高效产出多种候选解法并辅助逻辑验证，与问题解决的程序性需求产生高度契合，从而在[[Man-Computer Symbiosis|人机协同]]中提供程序性认知脚手架。缺乏过程性监管与反思引导时，学生容易直接获取现成答案，削弱底层逻辑推演与手动排错能力的锻炼。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 14–15)]]
@@ -174,7 +181,7 @@ updated: 2026-11-24
 > [!contrast-table|notitle] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **问题表征与认知激活** | 优质表征、课堂认知激活与反思导航是克服劣构阻碍的前提 | 复杂工程任务、数学建模、课堂深层学习 | Zhao et al.; [[Herbert A. Simon\|Simon, H. A.]]; [[Argument_Koller_2014_WhatWorks\|Köller (2014)]] |
+> | **问题表征与认知激活** | 优质表征、课堂认知激活与反思导航是克服劣构阻碍的前提 | 复杂工程任务、数学建模、课堂[[Surface and Deep Learning\|深层学习]] | Zhao et al.; [[Herbert A. Simon\|Simon, H. A.]]; [[Argument_Koller_2014_WhatWorks\|Köller (2014)]] |
 > | **智能协同与程序性支持** | 逻辑工具分担搜索负荷，但需警惕认知外包风险 | 编程教育、人机协同解题、[[Intelligent Tutoring Systems\|智能导师系统]] | Zhao et al. |
 > | **多约束权衡与现场排障** | 工程问题解决依赖物理多约束权衡与现场故障排除直觉 | [[Engineering Education\|工程教育]]、产线良率攻坚、尖端实验装置调试 | Kelly, G. J.; Licona, P. R.; Weiss, R.; [[Michael Kratsios\|Kratsios, M.]] |
 
@@ -192,7 +199,7 @@ updated: 2026-11-24
 > [!debates] 学术争议
 >
 > > [!axis] 通用解题策略 vs. 领域专用知识的基础性争论
-> > 围绕高阶问题解决能力究竟是跨学科通用的认知策略，还是高度受制于具体学科领域的先验知识图式。
+> > 围绕高阶问题解决能力究竟是跨学科通用的[[Learning Strategies|认知策略]]，还是高度受制于具体学科领域的先验知识图式。
 > >
 > > - **通用策略论者** 强调启发式搜索、类比迁移与[[Metacognition|元认知监控]]具有广泛的跨学科普适性，应当独立施教。
 > > - **[[Cognitive Load Theory|认知负荷理论]]学者** 指出脱离长时记忆中丰富的领域特定图式（Domain-Specific Schemas），通用的弱方法搜索会导致新手[[Working Memory|工作记忆]]严重过载。
@@ -210,10 +217,10 @@ updated: 2026-11-24
 
 > [!empirical-divider]
 
-> [!ma-table]- 一阶元分析总体结果
+> [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | 异质性与预测区间 | 关键解释边界 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|---|
 > | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.75"><span class="b15"></span></span>0.75 | [0.52, 0.97] | Hedges' $g$；随机效应模型 | $k = 16$ / — | 结果变量：生成式人工智能干预对学生问题解决能力发展的促进效应 | 组内 $Z = 6.507, p < .001$；组间 $Q = 4.961, p = .084$ | 纳入研究均为实验与准实验设计；促学成效受学生自主调节学习水平与干预时长调节 |
 

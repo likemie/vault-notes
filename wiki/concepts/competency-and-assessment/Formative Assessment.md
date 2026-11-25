@@ -9,7 +9,7 @@ aliases:
 summary: "在教学过程中系统收集学生理解与表现证据、提供指向改进的对话式反馈并动态调整教与学行动的评价范式"
 type: concept
 domain: "competency-and-assessment"
-related_count: 40
+related_count: 46
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -34,10 +34,14 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Peer Assessment]]"
   - "[[Metacognition]]"
+  - "[[Constructive Support]]"
   - "[[Mastery Learning]]"
   - "[[Creativity Assessment]]"
   - "[[Alienation]]"
   - "[[Self-Efficacy]]"
+  - "[[Heterogeneity]]"
+  - "[[Placement, Formative, Diagnostic, and Summative Testing]]"
+  - "[[Academic Achievement]]"
   - "[[Learning Progression]]"
   - "[[Constructive Alignment]]"
   - "[[Curriculum Alignment]]"
@@ -49,6 +53,8 @@ related_methods:
   - "[[Formative Program Evaluation]]"
   - "[[Experimental Research]]"
   - "[[Meta-analysis]]"
+  - "[[Meta-meta-analysis]]"
+  - "[[Effect Size]]"
 related_instruments:
   - "[[VALUE Rubrics]]"
   - "[[Assessment Tools for Teaching and Learning]]"
@@ -63,13 +69,13 @@ related_facts:
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
   - "[[Argument_Hattie_2005_ACER]]"
+  - "[[Argument_Koller_2014_WhatWorks]]"
   - "[[Argument_Deng_2016_CE]]"
   - "[[Argument_Biggs_1999_HERD]]"
-  - "[[Argument_Koller_2014_WhatWorks]]"
 confidence: high
 status: active
 created: 2026-05-25
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 
 > [!def] Formative Assessment
@@ -144,7 +150,7 @@ updated: 2026-11-24
 > **评价数据的教学归因转向** 形成性评价最深层的效能在于将学生未掌握的内容视作对教师后续行动的即时提示，有别于向学生打上“会”或“不会”的标签。当教师将评价数据理解为对自己教学成效的反思（而非仅仅关于学生智力或努力）时，形成性评价才能促使教师改变教学策略与重组支架，完成教学改进的实质转化。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 17)]]
 
 > [!claim] Köller
-> **教学质量三大基准维度统整下的形成性反馈回路** 德语区实证教育研究审读表明，高质量课堂反馈呈现出强劲的促学效应（$d = 0.73$），且规则性测验在紧密结合形成性反馈时效应攀升至 $d > 0.60$。形成性评估不仅服务于诊断学生困难，更是连接教师专业反思与教学质量改进的核心纽带。在[[Three Basic Dimensions of Teaching Quality|教学质量三大基准维度]]框架下，形成性反馈系统归入建设性支持维度，强调明确指明学习目标、当前达成水平以及后续具体行动方案，以此杜绝盲目无效的重复操练，构成了以学生为中心循证教学改进规程的关键基石。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, pp. 31, 35–36)]]
+> **[[Three Basic Dimensions of Teaching Quality|教学质量三大基准维度]]统整下的形成性反馈回路** 德语区实证教育研究审读表明，高质量课堂反馈呈现出强劲的促学效应（$d = 0.73$），且规则性测验在紧密结合形成性反馈时效应攀升至 $d > 0.60$。形成性评估不仅服务于诊断学生困难，更是连接教师专业反思与教学质量改进的核心纽带。在[[Three Basic Dimensions of Teaching Quality|教学质量三大基准维度]]框架下，形成性反馈系统归入[[Constructive Support|建设性支持]]维度，强调明确指明学习目标、当前达成水平以及后续具体行动方案，以此杜绝盲目无效的重复操练，构成了以学生为中心循证教学改进规程的关键基石。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, pp. 31, 35–36)]]
 
 ---
 
@@ -210,12 +216,12 @@ updated: 2026-11-24
 
 > [!empirical-divider]
 
-> [!ma-table]- 二阶元分析总体结果
+> [!ma-table]- [[Meta-meta-analysis|二阶元分析]]总体结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
-> | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
+> | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与 95% PI | 关键解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Koller_2014_WhatWorks\|Köller (2014)]]，引自 [[Argument_Koller_2014_WhatWorks\|Köller (2014, p. 31)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.34"><span class="b7"></span></span>0.34 | — | Cohen's $d$ / 二阶综合 | $M = —$；$E = —$；$k = —$；$N = —$ | 干预因素：规则性形成性测验对学业成就的二阶干预效应 | 结合即时反馈时效应攀升至 $d > 0.60$ | 德语区实证审读；指出形成性测试结合反馈能打破考完即忘传统弊端 |
+> | [[Argument_Koller_2014_WhatWorks\|Köller (2014)]]，引自 [[Argument_Koller_2014_WhatWorks\|Köller (2014, p. 31)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.34"><span class="b7"></span></span>0.34 | — | Cohen's $d$ / 二阶综合 | $M = —$；$E = —$；$k = —$；$N = —$ | 干预因素：规则性[[Placement, Formative, Diagnostic, and Summative Testing\|形成性测验]]对[[Academic Achievement\|学业成就]]的二阶干预效应 | 结合即时反馈时效应攀升至 $d > 0.60$ | 德语区实证审读；指出形成性测试结合反馈能打破考完即忘传统弊端 |
 
 ---
 
@@ -241,4 +247,4 @@ updated: 2026-11-24
 > - [[Argument_Biggs_1999_HERD|Biggs (1999)]] — 在[[Constructive Alignment|建构性对齐]]框架下阐明，[[Learning Portfolio|学习档案袋]]与过程性反思日志通过持续的师生协商与形成性反馈，能够有效引导学生走向[[Surface and Deep Learning|深层学习]]。
 > - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 论证以教师为核心的形成性评价系统（[[Assessment Tools for Teaching and Learning|asTTle]]）如何通过三核心反馈提问引导目标设定与教学反思，打破传统自上而下的总结性问责困局（pp. 11–21）。
 > - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 揭示新加坡在“少教多学”改革中引入形成性评价的实践样态，剖析在高利害考试机制约束下形成性技巧被工具性吸纳为应试查漏补缺手段的制度现实。
-> - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 结合德语区实证教育研究审读可见学习，报告规则性测验结合形成性反馈效应量达 $d > 0.60$，并将形成性评估确立为落实教学质量三大基准维度与循证教学改进的核心基石（pp. 31, 35–36）。
+> - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 结合德语区实证教育研究审读可见学习，报告规则性测验结合形成性反馈[[Effect Size|效应量]]达 $d > 0.60$，并将形成性评估确立为落实教学质量三大基准维度与循证教学改进的核心基石（pp. 31, 35–36）。

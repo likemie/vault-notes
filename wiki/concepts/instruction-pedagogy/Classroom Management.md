@@ -5,10 +5,10 @@ aliases:
 summary: "教师系统组织课堂学习环境的综合机制，涵盖时间在任务利用、积极行为预期、规则常规、非惩罚性重定向与支持性学习文化。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 43
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 51
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - classroom-management
   - subject/instruction
@@ -27,7 +27,11 @@ related_concepts:
   - "[[Construct]]"
   - "[[Paradigm]]"
   - "[[Time on Task]]"
+  - "[[Student Attitude]]"
   - "[[Academic Achievement]]"
+  - "[[Surface and Deep Learning]]"
+  - "[[Cognitive Activation]]"
+  - "[[Constructive Support]]"
   - "[[Scaffolding]]"
   - "[[Variable]]"
   - "[[International Education]]"
@@ -39,23 +43,27 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Higher-Order Thinking Skills]]"
-  - "[[Surface and Deep Learning]]"
   - "[[Effective Teaching]]"
   - "[[Individualised Instruction]]"
   - "[[Self-Regulated Learning]]"
+  - "[[Reliability]]"
+  - "[[Empirische Unterrichtsforschung]]"
 related_theories:
   - "[[Three Basic Dimensions of Teaching Quality]]"
 related_methods:
   - "[[Classroom Observation]]"
   - "[[Research Synthesis]]"
+  - "[[Meta-analysis]]"
   - "[[Fieldwork]]"
   - "[[Intraclass Correlation Coefficient]]"
+  - "[[Meta-meta-analysis]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Comparative Meta-synthesis]]"
 related_instruments:
   - "[[Teach Classroom Observation Tool]]"
 related_persons:
   - "[[Olaf Köller]]"
+  - "[[John Hattie]]"
 related_facts:
   - "[[World Bank]]"
   - "[[Science Foundation Ireland]]"
@@ -63,12 +71,12 @@ related_arguments:
   - "[[Argument_Håkansson_2015_TT]]"
   - "[[Argument_WorldBank_2019_Teach]]"
   - "[[Argument_Laursen_2015_Paideia]]"
-  - "[[Argument_Kalmendal_2025_PsyArXiv]]"
   - "[[Argument_Koller_2014_WhatWorks]]"
+  - "[[Argument_Kalmendal_2025_PsyArXiv]]"
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 
 ---
@@ -127,7 +135,7 @@ updated: 2026-11-24
 > | **在任务时间（[[Time on Task]]）** | 课堂时间的实质利用与专注保障 | 3 次低推论瞬间快照（第 1、4、7 分钟记录） | 教师提供学习活动且脱离任务学生不超过一完整活动组 |
 > | **积极行为预期（Positive Expectations）** | 明确行为准则与常规内化 | 行为描述符锚定（1–5 分评分量表） | 教师清晰阐明规则、平稳组织活动转换、主动注意并表扬合规行为 |
 > | **建设性行为重定向（Redirection）** | 化解问题行为且不破坏学习气氛 | 微观互动质性记录与分级判定 | 教师以温和语气私下指出正面替代行为；严格禁止体罚、大声呵斥与羞辱 |
-> | **支持性学习环境（Supportive Climate）** | 心理安全与平等参与保障 | 教师态度与互动公平性评价 | 教师尊重所有学生，杜绝性别或能力偏见，包容并积极重构错误理解 |
+> | **支持性学习环境（Supportive Climate）** | 心理安全与平等参与保障 | 教师[[Student Attitude\|态度]]与互动公平性评价 | 教师尊重所有学生，杜绝性别或能力偏见，包容并积极重构错误理解 |
 
 ---
 
@@ -138,7 +146,7 @@ updated: 2026-11-24
 > **课堂管理是高品质学习的结构化托底** 在对 43 项国际教学[[Research Synthesis|研究综合]]的深入比对中，教师的课堂管理被确认为解释[[Academic Achievement|学业表现]]差异的关键维度。实证研究明确表明，有效的课堂管理通过明确目标、时间统筹、平稳活动衔接与支持性关系，显著降低课堂混乱度、提高学习聚焦度，有别于单纯“把学生管住”。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a, pp. 589–592)]]; [[Argument_Laursen_2015_Paideia\|(Laursen, 2015, pp. 35–37)]]
 
 > [!claim] [[Argument_Koller_2014_WhatWorks|Köller (2014)]]
-> **最小化干扰与保障在任务时间确立教学基准维度** 柯勒（[[Argument_Koller_2014_WhatWorks|Köller, 2014]]）指出，有效班级管理是深层学习发生的基础保障，与认知激活、建设性支持共同构成课堂教学质量三大基准维度（[[Three Basic Dimensions of Teaching Quality]]）。其实质在于系统统筹预防性规则、过程监控与平稳环节过渡，最大限度减少秩序干扰，将名义教学时间高效转化为学生实质性的在任务学习时间（[[Time on Task]]）。元分析证据确立班级管理具备高度稳健的促学效应（$d = 0.52$），证明秩序井然的教学节奏是学科教学达成高成效的必要支撑。[[Argument_Koller_2014_WhatWorks\|(Köller, 2014, pp. 34–35)]]
+> **最小化干扰与保障在任务时间确立教学基准维度** 柯勒（[[Argument_Koller_2014_WhatWorks|Köller, 2014]]）指出，有效班级管理是[[Surface and Deep Learning|深层学习]]发生的基础保障，与[[Cognitive Activation|认知激活]]、[[Constructive Support|建设性支持]]共同构成课堂[[Three Basic Dimensions of Teaching Quality|教学质量三大基准维度]]（[[Three Basic Dimensions of Teaching Quality]]）。其实质在于系统统筹预防性规则、过程监控与平稳环节过渡，最大限度减少秩序干扰，将名义教学时间高效转化为学生实质性的在任务学习时间（[[Time on Task]]）。[[Meta-analysis|元分析]]证据确立班级管理具备高度稳健的促学效应（$d = 0.52$），证明秩序井然的教学节奏是学科教学达成高成效的必要支撑。[[Argument_Koller_2014_WhatWorks\|(Köller, 2014, pp. 34–35)]]
 
 ---
 
@@ -223,7 +231,7 @@ updated: 2026-11-24
 
 > [!empirical-divider]
 
-> [!ma-table]- 二阶元分析与大型综合结果
+> [!ma-table]- [[Meta-meta-analysis|二阶元分析]]与大型综合结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 效应量 $d$ | 95% CI | 异质性 $I^2$ | $k$ | $N$ | 偏倚风险 | 证据质量 | 结论 |
@@ -247,9 +255,9 @@ updated: 2026-11-24
 > | [[Self-Regulated Learning]] | 概念 | 发展目标，优良的课堂管理旨在帮助学生逐步摆脱外在控制、内化自律规则 |
 > | [[Three Basic Dimensions of Teaching Quality]] | 理论 | 深层结构，课堂管理与认知激活、建设性支持共同构成德国教学质量三大基准维度 |
 > | [[Operationalization]] | 方法 | 操作化，将课堂管理抽象[[Construct\|构念]]解构为低推论时间快照与高推论行为锚定等级评分 |
-> | [[Inter-Rater Reliability]] | 方法 | 测量信度，多位观察员对课堂常规与行为管理实施标准化评定的一致性保障 |
+> | [[Inter-Rater Reliability]] | 方法 | 测量[[Reliability\|信度]]，多位观察员对课堂常规与行为管理实施标准化评定的一致性保障 |
 > | [[Teach Classroom Observation Tool]] | 工具 | 评估工具，大规模[[Classroom Observation\|课堂观察]]中在任务时间快照与积极行为预期评定的全球标准工具 |
-> | [[Olaf Köller]] | 人物 | 德语区实证教学研究学者，系统论证有效班级管理作为三大基准维度对在任务时间的保障 |
+> | [[Olaf Köller]] | 人物 | 德语区[[Empirische Unterrichtsforschung\|实证教学研究]]学者，系统论证有效班级管理作为三大基准维度对在任务时间的保障 |
 
 ---
 
@@ -258,5 +266,5 @@ updated: 2026-11-24
 > - [[Argument_WorldBank_2019_Teach|[[Argument_WorldBank_2019_Teach|World Bank Group (2019)]]]] — 确立大规模[[Classroom Observation|课堂观察]]中在任务时间快照与积极行为预期的行为锚定评定规程，严禁体罚与语言羞辱。
 > - [[Argument_Laursen_2015_Paideia|Laursen (2015)]] — 结合丹麦国家社会科学研究所（[[Science Foundation Ireland|SFI]]）大规模实证调查，证实清晰一致的课堂管理是提升[[Academic Achievement|学业成绩]]的关键支撑。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 专家德尔菲评审确立课堂管理为现实相关度最高的前 3 项核心教学实践之一（$M=4.75$），为破除超级证据库外围不可控因素干扰、聚焦微观课堂干预提供实证判据。
-> - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 结合德语区实证教育研究与哈蒂数据，阐明有效班级管理是教学三大基准维度之一，能显著提升在任务时间并减少干扰（$d=0.52$）。
+> - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 结合德语区实证教育研究与[[John Hattie|哈蒂]]数据，阐明有效班级管理是教学三大基准维度之一，能显著提升在任务时间并减少干扰（$d=0.52$）。
 

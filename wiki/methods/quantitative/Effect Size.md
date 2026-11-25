@@ -6,9 +6,9 @@ summary: "比较不同干预或变量影响强度的标准化统计指标，被�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 99
-method_related_level: 9
-method_related_stars: "💎💎💎"
+method_related_count: 100
+method_related_level: 10
+method_related_stars: "💎💎💎⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -77,12 +77,12 @@ related_methods:
   - "[[Power Analysis]]"
   - "[[Statistical Significance]]"
   - "[[Cohort Study]]"
+  - "[[Meta-meta-analysis]]"
   - "[[Repeated Measures Design]]"
   - "[[Standard Error]]"
   - "[[Effect Size Conversion]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Meta-regression]]"
-  - "[[Meta-meta-analysis]]"
   - "[[Confidence Interval]]"
 related_persons:
   - "[[Gene Glass]]"
@@ -113,6 +113,7 @@ related_arguments:
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Terhart_2014_HolyGrail]]"
   - "[[Argument_Koller_2014_WhatWorks]]"
+  - "[[Argument_Brugelmann_2014_LocalPractice]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Kraft_2023_ER]]"
@@ -127,7 +128,7 @@ related_instruments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 
 ---
@@ -168,6 +169,7 @@ updated: 2026-11-24
 > - **2009** — [[Ivan Snook|斯努克]]等学者展开批判，援引低剂量阿司匹林试验（$d = 0.07$ 每千人净拯救 34 条生命）反证 $d = 0.40$ 截断值的武断性，揭示单一平均值掩盖微观亚组[[Heterogeneity|异质性]]（[[Homework|家庭作业]]小学 0.15 vs 高中 0.64）与小班化非线性突破门槛（STAR 试验 $d = 0.62–0.66$；[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）。
 > - **2014** — [[Ewald Terhart|特哈特]]（[[Argument_Terhart_2014_HolyGrail|Terhart, 2014, pp. 12–13]]）厘清[[Statistical Significance|统计显著性]]（偶然性检验）与效应量 $d$（标准差差距度量）的实践分野，借助科恩身高类比（$d = 1.0$ 相当于 160 cm 与 183 cm 的差距，将受试者均值位移至未受训者的第 84 百分位数）直观阐释正态分布位移，并指出在 95% 教育因素均呈正向效应的前提下，$d = 0.40$ 仅代表常规教学的自然基准而非终极法则。
 > - **2014** — [[Olaf Köller|奥拉夫·科勒]]（[[Argument_Koller_2014_WhatWorks|Köller, 2014, pp. 25, 28, 35]]）基于德语区[[Cohort Study|追踪研究]]指出，效应量解释必须参照初中常态学年成长基准（$d = 0.30 \sim 0.50$）；二阶综合中[[Class Size|班级规模]]等宏观结构干预效应（$d = 0.10 \sim 0.20$）远低于常态成长，而深层形成性反馈（$d = 0.73$）展现显著加速效应。
+> - **2014** — 汉斯·布吕格尔曼（[[Argument_Brugelmann_2014_LocalPractice|Brügelmann, 2014, pp. 42, 44–45]]）审读哈蒂[[Meta-meta-analysis|二阶元分析]]时揭示，教学干预内部的效应方差离散度（Streuung）远超干预之间的均值差异；并指出指标谱系内部将开放教学列为平庸举措（$d = 0.01$）却将同属学生自主调节情境的非指导性教学列为高效因素（$d = 0.54$），暴露出评价标准自相矛盾。
 > - **2014–2019** — [[EEF Teaching and Learning Toolkit]] 创立“额外学习月数”转换，英国 [[Education Endowment Foundation|EEF]] 确立效应量与[[EEF Padlock Security Rating|挂锁安全评级]]双轨呈现机制（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]]）；[[Adrian Simpson]]（2017, 2019）提出匈牙利单词思想实验，论证效应量测量的是试验灵敏度而非教学有效性；戈洛夫钦（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）检验《可见学习》133 项效应量数据集，证实全库变差系数超标（$V_\sigma = 56.87\% > 33\%$），击穿统计同质性前提。
 > - **2019** — 丹麦学者拉森（[[Argument_Larsen_2019_EducSci|Larsen, 2019]]）立足德意志教化传统与身体[[Phenomenology|现象学]]，深入解构可见学习[[Paradigm|范式]]将学习降维为即时效应量可见快照的[[Positivism|实证主义]]迷思，揭示其混淆认识论与存在论的范畴错误。
 > - **2023** — Kraft 建立基于 3,426 个教育 RCT 效应量的实证分布（中位数 0.10，36% 的效应量 $< 0.05$），提倡以因果评估经验基准与失败频率取代 Cohen 抽象法则（[[Argument_Kraft_2023_ER|Kraft, 2023]]）。
@@ -324,3 +326,4 @@ updated: 2026-11-24
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 提出效应量多级聚合的货币汇兑损耗比喻，对比六大领域效应量分布（教师 0.49 vs 学校 0.23）与[[Teacher as Activator|激活者]]（0.60）vs 促进者（0.17），揭示宏观效应量排名的[[Epistemology|认识论]]困境（pp. 427–429, 432–437）。
 > - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 运用受控数值模拟证实三类效应量公式对同一数据得出完全相反排名，揭示基线选取任意性与相关换算的数学失效。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 从德意志教化传统、身体[[Phenomenology|现象学]]与二阶控制论解构将教育降维为即时效应量可见快照的[[Positivism|实证主义]]迷思，揭示其背后的[[Category Mistake|范畴错误]]与资本主义指标规训。
+> - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014)]] — 揭示干预内部高方差离散度远超干预间均值差异，指出哈蒂对开放教学（$d = 0.01$）与非指导性教学（$d = 0.54$）的数据评价自相矛盾（pp. 42, 44–45）。

@@ -149,7 +149,7 @@ updated: 2026-11-25
 > > - **制度脱钩批评者（[[Argument_Maassen_Stensaker_2019_HEQ|Maassen & Stensaker, 2019]]）** 指出对外宣称的战略行动力掩盖了内部学科部落与行政专门化之间的深层断裂，战略往往沦为无法穿透基层的公关符号。[[Argument_Maassen_Stensaker_2019_HEQ|(Maassen & Stensaker, 2019, p. 459)]]
 
 > [!warning|limits] 适用局限
-> 该概念侧重于宏观[[Institutional Isomorphism|制度同构]]与组织对外呈现的社会角色，在深入分析微观院系内部学者基于学科认同与非正式人际网络展开的日常抵抗时，解释颗粒度较为宏观。
+> 该概念侧重于宏观[[Institutional Isomorphism|制度同构]]与组织对外呈现的社会角色，在深入分析微观院系内部学者基于学科认同与非正式人际网络展开的日常抵抗时，其分析视角的聚焦尺度偏向宏观结构。
 
 ---
 

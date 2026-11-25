@@ -5,9 +5,9 @@ aliases:
 summary: "John Hattie 发起的教育证据综合与学校改进框架，主张通过汇总海量元分析建立 d=0.40 关节点相对有效性判准，将教师确立为成就变异的核心因果枢纽（30%），依托学业进阶、显性成功标准与形成性反馈重塑教学评价性判断。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 169
-related_level: 16
-related_stars: "💎💎💎💎💎⭐"
+related_count: 182
+related_level: 18
+related_stars: "💎💎💎💎💎💎"
 related_color: "#ddd6fe"
 tags:
   - visible-learning
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Homework]]"
   - "[[Variable]]"
   - "[[Epistemology]]"
+  - "[[Implementation Fidelity]]"
   - "[[School Effectiveness]]"
   - "[[School Leadership]]"
   - "[[Within-School Variance]]"
@@ -50,9 +51,17 @@ related_concepts:
   - "[[Socioeconomic Status]]"
   - "[[Educational Reductionism]]"
   - "[[Neoliberalism]]"
+  - "[[Social Economy]]"
   - "[[Discourse]]"
   - "[[Formative Assessment]]"
   - "[[Evaluative Judgement]]"
+  - "[[Empirische Unterrichtsforschung]]"
+  - "[[Class Size]]"
+  - "[[Grade Retention]]"
+  - "[[Concept Mapping]]"
+  - "[[Reciprocal Teaching]]"
+  - "[[Cognitive Activation]]"
+  - "[[Constructive Support]]"
   - "[[Contributory Expertise]]"
   - "[[Cult of the Guru]]"
   - "[[Alienation]]"
@@ -60,7 +69,6 @@ related_concepts:
   - "[[Teacher Professional Agency]]"
   - "[[Barometer of Achievement]]"
   - "[[Performativity]]"
-  - "[[Class Size]]"
   - "[[Performance Pay]]"
   - "[[Positivism]]"
   - "[[Technical Rationality]]"
@@ -70,6 +78,7 @@ related_concepts:
   - "[[Critic and Conscience of Society]]"
   - "[[Didaktik]]"
   - "[[Bildung]]"
+  - "[[Streetlight Effect]]"
   - "[[Sage]]"
   - "[[Pure Evaluation]]"
   - "[[Policy Borrowing]]"
@@ -93,16 +102,18 @@ related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Publication Bias]]"
   - "[[Teacher Immediacy]]"
-  - "[[Disciplina and Doctrina]]"
-  - "[[Scientism]]"
+  - "[[Teacher as Activator]]"
   - "[[Data Infrastructure]]"
+  - "[[Teacher Subject Matter Knowledge]]"
   - "[[Teacher Collaboration]]"
   - "[[Research Utilization]]"
   - "[[Science and Technology Studies]]"
 related_theories:
   - "[[Organizational Culture]]"
+  - "[[Three Basic Dimensions of Teaching Quality]]"
   - "[[Behaviorism]]"
   - "[[Stability vs. Variability Dilemma]]"
+  - "[[Process-Product Paradigm]]"
   - "[[Radical Constructivism]]"
   - "[[Didactic Triangle]]"
   - "[[Legitimation Crisis]]"
@@ -116,6 +127,7 @@ related_methods:
   - "[[Common Language Effect Size]]"
   - "[[Sample Size Determination]]"
   - "[[Classroom Observation]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Practitioner Enquiry]]"
   - "[[Philosophical Analysis in Education]]"
   - "[[Intraclass Correlation Coefficient]]"
@@ -124,7 +136,7 @@ related_methods:
   - "[[Audit Trail]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Moderator Analysis]]"
-  - "[[Pre-test and Post-test]]"
+  - "[[Ideology Critique]]"
   - "[[Transcription in Qualitative Research]]"
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
@@ -136,8 +148,8 @@ related_persons:
   - "[[Klaus Nielsen]]"
   - "[[Gerald Grace]]"
   - "[[Ewald Terhart]]"
-  - "[[Olaf Köller]]"
   - "[[Thomas Nordahl]]"
+  - "[[Olaf Köller]]"
   - "[[Scott Eacott]]"
   - "[[Charles Taylor]]"
   - "[[John Dewey]]"
@@ -159,6 +171,7 @@ related_facts:
   - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[Danish Public School Reform]]"
   - "[[CORE Education]]"
+  - "[[COACTIV]]"
 related_arguments:
   - "[[Argument_Hattie_2005_ACER]]"
   - "[[Argument_McKnight_2020_Discourse]]"
@@ -171,17 +184,17 @@ related_arguments:
   - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Nielsen_2021_NordPsych]]"
   - "[[Argument_Hattie_2010_NZJES]]"
+  - "[[Argument_Brugelmann_2014_LocalPractice]]"
   - "[[Argument_Grace_2010_NZJES]]"
   - "[[Argument_Knudsen_2017_NordSTEP]]"
   - "[[Argument_Terhart_2011_JCS]]"
-  - "[[Argument_Terhart_2014_HolyGrail]]"
-  - "[[Argument_Koller_2014_WhatWorks]]"
-  - "[[Argument_Brugelmann_2014_LocalPractice]]"
   - "[[Argument_Fredens_2015_Paideia]]"
   - "[[Argument_Nordahl_2015_Paideia]]"
+  - "[[Argument_Koller_2014_WhatWorks]]"
   - "[[Argument_Kelly_2025_ROE]]"
   - "[[Argument_Eacott_2019_IJLE]]"
   - "[[Argument_Bergeron_2017_MJE]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
   - "[[Argument_Bates_2017_CognitionEducationTrust]]"
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
   - "[[Argument_Rømer_2018_EPT]]"
@@ -281,7 +294,7 @@ updated: 2026-11-25
 > **$d=0.40$ 关节点的叙事修辞本质与学段抹平悖论** 尼尔森与克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）指出，哈蒂在面对学界批评时自己承认，$d=0.40$ 的期望门槛实质上是一个用于将分散数据串联起来的“叙事修辞故事”（a story needs to accompany these data, [[Argument_Hattie_2010_NZJES|Hattie, 2010]]），缺乏自然科学规律的实体确定性。然而在政策和学校治理层面，这一主观修辞门槛却被硬化为一刀切的机械淘汰标尺。例如在[[Homework|家庭作业]]（[[Homework]]）干预中，哈蒂报告的总体效应量为 $d=0.29$ 并因此归入低于 $0.40$ 的低效区；但其底层元分析显示，小学阶段作业效应量仅为 $d=0.15$（处于学生自然成长基准），而高中阶段作业效应量高达 $d=0.64$（显著超越期望门槛）。用单一宏观均值和叙事性 $0.40$ 门槛进行跨学段一刀切排位，完全抹平了基础教育不同发展阶段的实质认知规律，造成严重的政策与教学误判。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 50–52)]]
 
 > [!claim] Brügelmann
-> **均值陷阱、六重元分析缺陷与指标自相矛盾** 汉斯·布吕格尔曼（Hans Brügelmann）在德语区专题研讨中深入审读哈蒂数据体系指出：① **均值陷阱（Durchschnittsfalle）与狩猎谚语** 从大样本效应均值推导个案操作禁令犯了认识论错误；统计优势至多构成专业举证责任（Beweislast），绝不能作为剥夺一线教学探索的刚性行政命令；② **二阶元分析六重系统性缺陷** 哈蒂数据存在概念外延高度异质化（将独坐微机房与便携笔记本探究统称计算机辅助教学）、测度极度窄化为纸笔认知成绩、测试题型格式引发偏差、原始研究普遍缺乏实施保真度（Konzepttreue）核验、文献历史跨度严重滞后（CAI 114 项元分析中近半数完成于 2000 年以前，25 项早于 1990 年）以及组内方差被粗暴抹杀等严重缺陷；③ **指标谱系内部评价标准自相矛盾** 哈蒂将开放教学（$d=0.01$）贬抑为平庸无害的组织形式，却将以人为本/非指导性教师行为（$d=0.54$）列为跨越关节点的高效因子，但后者在真实课堂中恰恰伴随着高度由学生自主调节的开放学习情境。[[Argument_Brugelmann_2014_LocalPractice|(Brügelmann, 2014, pp. 38–45)]]
+> **均值陷阱、六重元分析缺陷与指标自相矛盾** 汉斯·布吕格尔曼（Hans Brügelmann）在德语区专题研讨中深入审读哈蒂数据体系指出：① **均值陷阱（Durchschnittsfalle）与狩猎谚语** 从大样本效应均值推导个案操作禁令犯了[[Epistemology|认识论]]错误；统计优势至多构成专业举证责任（Beweislast），绝不能作为剥夺一线教学探索的刚性行政命令；② **二阶元分析六重系统性缺陷** 哈蒂数据存在概念外延高度异质化（将独坐微机房与便携笔记本探究统称计算机辅助教学）、测度极度窄化为纸笔认知成绩、测试题型格式引发偏差、原始研究普遍缺乏[[Implementation Fidelity|实施保真度]]（Konzepttreue）核验、文献历史跨度严重滞后（CAI 114 项元分析中近半数完成于 2000 年以前，25 项早于 1990 年）以及组内方差被粗暴抹杀等严重缺陷；③ **指标谱系内部评价标准自相矛盾** 哈蒂将开放教学（$d=0.01$）贬抑为平庸无害的组织形式，却将以人为本/非指导性教师行为（$d=0.54$）列为跨越关节点的高效因子，但后者在真实课堂中恰恰伴随着高度由学生自主调节的开放学习情境。[[Argument_Brugelmann_2014_LocalPractice|(Brügelmann, 2014, pp. 38–45)]]
 
 ---
 
@@ -301,7 +314,7 @@ updated: 2026-11-25
 > **剔除社会阶层[[Interaction Effect|调节效应]]制造“阶级盲”教学假象** 尼尔森与克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）深入考察哈蒂的[[Independent Variable|自变量]]设定指出，哈蒂虽然在元分析综合中汇总了家庭[[Socioeconomic Status|社会经济地位]]（SES）具有高达 $d=0.57$ 的极强效应量，却在后续建构以教师为中心的因果模型时，系统性地将 SES 剔除于调节变量之外。这种做法制造了一种将微观教学孤立于宏观社会结构的“阶级盲”（Class-blind）假象，诱导外界认为教师掌握教学技巧即可完全消除社会不平等。他们援引[[OECD|经济合作与发展组织]]（OECD）及斯努克（Snook）等学者的宏观证据强调，家庭阶层与生源背景在学生学业成就变异中占据主导地位（解释 70%–80% 方差），将社会结构的系统性不平等强行窄化为孤立的教师微观技术问题，不仅违背了教育社会学的基本实证共识，更在客观上掩盖了弱势群体面临的深层阶层壁垒。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 52–54)]]
 
 > [!claim] [[Gerald Grace|Grace, G.]]
-> **排除非学校因素的[[Educational Reductionism|教育还原主义]]为政策推卸责任提供掩护** 格雷斯（[[Argument_Grace_2010_NZJES|Grace, 2010]]）在 NZJES 论战中指出，哈蒂在《可见的学习》前言中承认校外社会与家庭因素可能比书中讨论的问题更为关键，却在实际建模中将其系统排除。这种做法制造了一种浅陋的教育还原主义，误导公众与政界认为仅靠学校内部教学改革即可解决既有的教育成就不平等；这种观点高度契合[[Neoliberalism|新自由主义]]政策制定者的利益，帮助其巧妙转移对消除贫困与深层社会经济不平等的治理责任。[[Argument_Grace_2010_NZJES|(Grace, 2010, pp. 90–91)]]
+> **排除非学校因素的[[Educational Reductionism|教育还原主义]]为政策推卸责任提供掩护** 格雷斯（[[Argument_Grace_2010_NZJES|Grace, 2010]]）在 NZJES 论战中指出，哈蒂在《可见的学习》前言中承认校外社会与家庭因素可能比书中讨论的问题更为关键，却在实际建模中将其系统排除。这种做法制造了一种浅陋的教育还原主义，误导公众与政界认为仅靠学校内部教学改革即可解决既有的教育成就不平等；这种观点高度契合[[Neoliberalism|新自由主义]]政策制定者的利益，帮助其巧妙转移对消除贫困与深层[[Social Economy|社会经济]]不平等的治理责任。[[Argument_Grace_2010_NZJES|(Grace, 2010, pp. 90–91)]]
 
 ---
 
@@ -326,7 +339,7 @@ updated: 2026-11-25
 > **评价性专业判断与反馈文化** VL 的核心在于支持教师在复杂情境中开展评价性专业判断（Evaluative Professional Judgment）——持续依据学生学习证据诊断学情、选择干预并评估成效（DIE 循环），防止将教学退化为从排名表中机械挑选高分教学法。正如弗雷登斯（Fredens）与诺达尔（Nordahl）所指出的，VL 的精髓在于将学校重塑为充满互信的“反馈文化”（Feedbackkultur），通过同伴观课、[[Reflexivity|反思性]]对话与跨年级进阶标准共享，实现自下而上的集体能力建设。[[Argument_Fredens_2015_Paideia|(Fredens, 2015, pp. 74–75)]]; [[Argument_Nordahl_2015_Paideia|(Nordahl, 2015, pp. 61–67)]]
 
 > [!claim] [[Olaf Köller|Köller, O.]]
-> **表层组织与深层互动的二分法对 VL 效应量的理论化整合** 奥拉夫·克勒（Olaf Köller）立足德语区实证教学研究视界指出，哈蒂汇总的二阶元分析数据展现出鲜明的分野：宏观外部结构变量（班级规模、留级、分轨）因仅作用于容易观察记录的表层组织结构（Sicht- bzw. Oberflächenstrukturen），促学成效极其微弱甚至具有负效应；而跨越  \ge 0.40$ 期望门槛的高效教学变量（反馈、直接教学、概念图、互惠教学）均深植于微观课堂深层互动结构（Tiefenstrukturen）。克勒将这些高效因素系统映射至教学质量三大基准维度（班级管理、认知激活、建设性支持），并倡导建立以学生为中心的目标明确、形成性前测与持续反思实践规程，从而打破了德语区围绕 VL 的两极化情绪争论。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, pp. 24–36)]]
+> **表层组织与深层互动的二分法对 VL 效应量的理论化整合** 奥拉夫·克勒（Olaf Köller）立足德语区[[Empirische Unterrichtsforschung|实证教学研究]]视界指出，哈蒂汇总的二阶元分析数据展现出鲜明的分野：宏观外部结构变量（[[Class Size|班级规模]]、[[Grade Retention|留级]]、分轨）因仅作用于容易观察记录的表层组织结构（Sicht- bzw. Oberflächenstrukturen），促学成效极其微弱甚至具有负效应；而跨越  \ge 0.40$ 期望门槛的高效教学变量（反馈、直接教学、[[Concept Mapping|概念图]]、[[Reciprocal Teaching|互惠教学]]）均深植于微观课堂深层互动结构（Tiefenstrukturen）。克勒将这些高效因素系统映射至[[Three Basic Dimensions of Teaching Quality|教学质量三大基准维度]]（班级管理、[[Cognitive Activation|认知激活]]、[[Constructive Support|建设性支持]]），并倡导建立以学生为中心的目标明确、形成性[[Pre-test and Post-test|前测]]与持续反思实践规程，从而打破了德语区围绕 VL 的两极化情绪争论。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, pp. 24–36)]]
 
 > [!claim] Kelly et al.
 > **[[Practitioner Enquiry|实践者探究]]对流行概念的情境化校准** 欧洲跨国质性实证表明，苏格兰中小学领导者在接触 Visible Learning 等广受炒作的外部流行概念时，坚决抵制脱离本土情境的机械套用，转而依托教师专业标准中的“实践者探究”（Practitioner Enquiry），凭借扎根课堂的一线[[Contributory Expertise|贡献型专长]]对概念的本土适切性展开严格审视与校准；德国汉堡学校亦组建教学发展小组（Unterrichtsentwicklung）自主研读 Hattie 著作，将其作为校本同侪对话与形成性反思的专业参考坐标，展现了实践者对外部证据标签的主动去魅与反思性转化。[[Argument_Kelly_2025_ROE|(Kelly et al., 2025, pp. 13–14, 20–21)]]
@@ -360,7 +373,7 @@ updated: 2026-11-25
 > - **1999–2005 — 新西兰原型探索与形成性问责确立** 依托新西兰教育部委托开发的 [[Assessment Tools for Teaching and Learning|asTTle]] 测评系统，Hattie 在 2003 年与 2005 年 [[Australian Council for Educational Research|ACER]] 大会上完整阐发了成就方差六分模型、相对有效性判准、[[Learning Progression|学业进阶]]共享语言及以教师为中心的形成性证据问责理论。[[Argument_Hattie_2005_ACER|(Hattie, 2005, pp. 11–19)]]
 > - **2009–2010 — 著作出版与新西兰学术首发论战** 《可见的学习》专著出版，汇总 800 余项元分析引发全球轰动；[[Ivan Snook|斯努克]]等学者（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）随即在《新西兰教育研究杂志》（NZJES）发表首发批判性评论，直指其底层质控缺失、0.40 门槛武断（阿司匹林反例）、忽视 70%–80% 生源方差及政策误用风险，拉开学界长达三回合的 Snook-Hattie 论战序幕；[[John Hattie|哈蒂]]发文辩护（[[Argument_Hattie_2010_NZJES|Hattie, 2010]]）后，格雷斯（[[Argument_Grace_2010_NZJES|Grace, 2010]]）进一步发表学理质询，区隔学术领域批评者与[[Critic and Conscience of Society|社会的批评者与良知]]，指认排除非学校因素的[[Educational Reductionism|教育还原主义]]为维持现状与推卸阶级治理责任提供政治掩护。
 > - **2011 — [[Didaktik|欧陆教学论]]系统审视与双重困境提出** 德国学者[[Ewald Terhart|特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）在《课程研究杂志》（JCS）发表首篇国际长篇书评，从德语教学论（Didaktik）与教化（[[Bildung]]）传统指出 VL 存在严重的学科实质内容真空（“肉在哪里”），通过福柯视角揭示其视觉隐喻下潜藏的现代化教师隐性主导与全景监控，并提出二阶元分析同时受制于[[Stability vs. Variability Dilemma|稳定性假说]]与变异性假说的内在双重困境。
-> - **2014 — 德语区系统引介评注与“圣杯神话”去魅** 特哈特主持编撰德语学界对话专著《讨论中的哈蒂研究》（[[Argument_Terhart_2014_HolyGrail|Terhart, 2014]]），评注德译本《让学习可见》（*Lernen sichtbar machen*），从过程-结果范式的[[Streetlight Effect|路灯效应]]剖析其对道德判断、审美陶冶与民主公民等不可度量育人维度的遮蔽，以福柯视角解构“大眼睛”双向注视背后的微观心理规训与全面学习狂热，并最终定性其为启发反思的经验矿藏而非机械操作药方。
+> - **2014 — 德语区系统引介评注与“圣杯神话”去魅** 特哈特主持编撰德语学界对话专著《讨论中的哈蒂研究》（[[Argument_Terhart_2014_HolyGrail|Terhart, 2014]]），评注德译本《让学习可见》（*Lernen sichtbar machen*），从[[Process-Product Paradigm|过程-结果范式]]的[[Streetlight Effect|路灯效应]]剖析其对道德判断、审美陶冶与民主公民等不可度量育人维度的遮蔽，以福柯视角解构“大眼睛”双向注视背后的微观心理规训与全面学习狂热，并最终定性其为启发反思的经验矿藏而非机械操作药方。
 > - **2010–2018 — 品牌化扩张与全球政策采纳** 随着 商业化品牌运作 的推进，[[Cognition Education]] 与 [[Corwin Press|Corwin]]（[[Sage]] 集团）将 VL 转化为全球专业发展培训品牌；英国 [[Education Endowment Foundation|EEF]]、澳大利亚 [[Gonski 2.0]] 改革、维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]] 以及[[Danish Public School Reform|丹麦公立学校改革]]等相继将 VL 列为政策基准。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017)]]; [[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019)]]
 > - **2016 — 德语计量方法学系统质询与数学公理推导** [[Christof Wecker|韦克尔]]等人（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）在《教育科学杂志》（*Zeitschrift für Erziehungswissenschaft*）发表系统性批判，首次从[[Fixed-Effect Model|固定效应模型]]数学公理推导了二级元分析的代数等价性与六步规范规程，实证揭示[[John Hattie|哈蒂]]因混淆[[Standard Error|标准误]]、硬造假误差与忽略 93% 重叠导致网络学习排名雪崩，在科学上判定超级元分析不可行。
 > - **2017 — 数理统计审计与伪科学纸牌屋定性** 加拿大统计学家伯杰龙与里瓦尔（[[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017]]）在《麦吉尔教育学刊》发表系统审查，通过受控模拟证实三类合法公式对同一数据得出完全相反排名，揭示[[Common Language Effect Size|普通语言效应量]]负概率与相关换算数学爆炸（$r=0.196 \to d=0.40$ 仅解释 3.85% 方差），确立教育研究全流程必须引入独立专业统计咨询。
@@ -446,7 +459,7 @@ updated: 2026-11-25
 > | [[Argument_Snook_2009_NZJES\|Snook et al. (2009, p. 99)]]（引述 Physicians' Health Study, 1988） | 全美 22,071 名男性内科医生随机双盲预防试验 | 严格随机双盲对照试验（RCT） | 低剂量阿司匹林预防心肌梗死效应量与每千人挽救生命数 | 效应量仅为 $d = 0.07$；换算为每 1,000 人中净预防 34 起心肌梗死死亡 | 极高度显著（提前终止试验以推广普及） | 经典医学证据，实证证伪哈蒂将 $<0.40$ 武断划为常规发展区或低价值的逻辑谬误，确立微小效应量在大样本中的重大公共价值 |
 > | [[Argument_Snook_2009_NZJES\|Snook et al. (2009, p. 97)]] | 《可见的学习》专著中家庭作业 5 项元分析与细分学段数据 | 二阶元分析细分亚组（[[Moderator Analysis]]）对比 | 总体家庭作业效应量 vs 学段、学科、能力细分效应量 | 总体报告 $d = 0.29$；小学仅 $d = 0.15$、高中达 $d = 0.64$；数学 $0.32$ vs 科学 $0.27$；高能力 $0.37$ vs 低能力 $0.21$ | 小学阶段效应量跌入发展效应区 | 实证揭示单一宏观平均效应量抹杀微观异质性，对不同学段教师指导产生实质性误导 |
 > | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a, pp. 52–56)]] | 《可见的学习》核心干预“反馈”（$d=0.73$）所依赖的 5 项最大一阶元分析（覆盖 92.4% 样本量与 83.8% 效应量） | 文献学逐项细读与概念对齐审计 | [[Construct\|构念]]一致性、效应量方向、[[Publication Bias\|发表偏倚]]与混淆变量 | 4 项元分析（Bangert-Drowns、Lysakowski、Tenbrink、Rummel）偏离形成性认知反馈（混入代币糖果强化、[[Teacher Immediacy\|教师人际亲和力]]及动态[[Pre-test and Post-test\|后测]]训练）；掩盖 Kluger and DeNisi (1996) 证实的 38% 负面效应；大量依赖 1970 年代未发表博士文章 | 质性质询与文献计量复核 | 实证确证排名前列的标杆教学法存在严重的构念错位与异质拼贴，所谓宏观高效应量无法转化为具体课堂操作指引 |
-> | [[Argument_Terhart_2011_JCS\|Terhart (2011, pp. 428, 432–433)]] | 《可见的学习》全书 816 项元分析汇总数据与教师角色效应分类表 | 扩展书评文献审计与实证数据梳理 | 六大贡献领域合并效应量；教师作为激活者 vs 促进者效应量对比 | 六大领域平均效应量：教师 0.49、课程 0.45、教学 0.42、学生 0.40、家庭 0.31、学校 0.23；教师作为激活者平均 $d=0.60$，作为促进者平均 $d=0.17$ | — | 梳理哈蒂巨型综合的总体统计全貌，指出其教师激活效应实质为传统[[Direct Instruction\|直接教学]]的经验印证而非新发现，并揭示其底层数据时效多滞后于 1980–1990 年代 |
+> | [[Argument_Terhart_2011_JCS\|Terhart (2011, pp. 428, 432–433)]] | 《可见的学习》全书 816 项元分析汇总数据与教师角色效应分类表 | 扩展书评文献审计与实证数据梳理 | 六大贡献领域合并效应量；教师作为[[Teacher as Activator\|激活者]] vs 促进者效应量对比 | 六大领域平均效应量：教师 0.49、课程 0.45、教学 0.42、学生 0.40、家庭 0.31、学校 0.23；教师作为激活者平均 $d=0.60$，作为促进者平均 $d=0.17$ | — | 梳理哈蒂巨型综合的总体统计全貌，指出其教师激活效应实质为传统[[Direct Instruction\|直接教学]]的经验印证而非新发现，并揭示其底层数据时效多滞后于 1980–1990 年代 |
 
 ---
 
@@ -461,10 +474,10 @@ updated: 2026-11-25
 > | **核心理论与教学论** | [[Learning Intentions]] | 概念 | 显性学习意图；维护课堂教学目标敞开机制、认知透明度与师生目标共享。 |
 > | **核心理论与教学论** | [[Success Criteria]] | 概念 | 显性成功标准；维护分阶成就阶梯、评价标准共享与学生自我调节评价机制。 |
 > | **核心理论与教学论** | [[Feedback]] | 概念 | 形成性反馈；维护 $d=0.73$ 标杆效应量、任务/过程/自我调节三层级反馈交互机制。 |
-> | **外部学理批判总揽** | [[Critiques of Visible Learning]] | 概念 | 外部学理批评全景枢纽；承接所有关于二阶元分析算法、欧陆教学论、新泰勒制及意识形态批判。 |
+> | **外部学理批判总揽** | [[Critiques of Visible Learning]] | 概念 | 外部学理批评全景枢纽；承接所有关于二阶元分析算法、欧陆教学论、新泰勒制及[[Ideology Critique\|意识形态批判]]。 |
 > | **核心人物** | [[John Hattie]] | 人物 | 理论开创者与首席研究员；承接学者生平、学术转向、机构任职及学术声誉变迁。 |
 > | **商业化与全球政策扩散** | [[Visible Learning Branding and Global Influences]] | 事实 / 事件 | 商业与跨国政策唯一承接枢纽；收口 VLplus 专营培训、考文收购、高额版税追踪与英澳丹政策采纳。 |
-> | **实证数据基础设施** | [[Visible Learning Meta-X]] | 事实 / 项目 | 底层数据库；承接 2,100+ 项一阶元分析收录、因素层加权计算口径及自动化提取质控。 |
+> | **实证[[Data Infrastructure\|数据基础设施]]** | [[Visible Learning Meta-X]] | 事实 / 项目 | 底层数据库；承接 2,100+ 项一阶元分析收录、因素层加权计算口径及自动化提取质控。 |
 > | **测量与评估工具原型** | [[Assessment Tools for Teaching and Learning]] | 测量工具 | asTTle 计算机系统；承接形成性三提问与气压计界面的软件原型、题库校准与测评管理功能。 |
 
 ---
@@ -474,7 +487,7 @@ updated: 2026-11-25
 > - [[Argument_Hattie_2015_SOTLP\|Hattie (2015a)]] — 提炼八项教师思维框架、DIE 教学循环及高等教育情境下的六项高影响条件。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 从欧陆教学论与教化传统批判可见学习抽空学科实质内容与课程合法化反思的形式主义局限。
 > - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 编撰德语学界对话专著，评注德译本《让学习可见》，从过程-结果范式与“路灯效应”揭示其对不可度量育人维度的排斥，借助福柯权力视角解构双向注视隐喻的微观规训风险，将其定性为反思工具而非操作药方。
-> - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 立足德语区实证教育研究，区隔表层结构与深层结构，基于 [[COACTIV]] 等追踪数据直接驳斥哈蒂低估教师学科知识（$d=0.09$）的论断，提出以认知激活、有效班级管理与建设性支持为维度的循证教学改进规程。
+> - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 立足德语区实证教育研究，区隔表层结构与深层结构，基于 [[COACTIV]] 等追踪数据直接驳斥哈蒂低估[[Teacher Subject Matter Knowledge|教师学科知识]]（$d=0.09$）的论断，提出以认知激活、有效班级管理与建设性支持为维度的循证教学改进规程。
 > - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014)]] — 结合德语区小学一线读写实验，剖析哈蒂数据体系所诱发的“均值陷阱”，揭示其二阶元分析在概念外延、成就测度、测试格式、实施保真度、历史断代与组内离散六个维度的系统性缺陷，指出开放教学与人本教学评价的内在矛盾（pp. 38–47）。
 > - [[Argument_Fredens_2015_Paideia\|Fredens (2015)]] — 从学习科学与脑科学视角解读 VL，提出“使学校成为反馈文化”的组织转型主张。
 > - [[Argument_Nordahl_2015_Paideia\|Nordahl (2015)]] — 斯堪的纳维亚学派将 VL 重构为校本改进、[[Teacher Collaboration|教师协作]]研讨与能力建设的微观实践路径。

@@ -14,7 +14,7 @@ cssclasses:
   - person-page
 nationality: "germany"
 person_region: "germany"
-person_related_count: 34
+person_related_count: 37
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -29,6 +29,8 @@ tags:
   - region/germany
 related_concepts:
   - "[[Construct]]"
+  - "[[Cognitive Activation]]"
+  - "[[Constructive Support]]"
   - "[[Transnational Education]]"
   - "[[Effective Teaching]]"
   - "[[Variable]]"
@@ -42,7 +44,8 @@ related_concepts:
   - "[[Empirische Unterrichtsforschung]]"
   - "[[Output-Oriented Governance]]"
   - "[[Construct Validity]]"
-related_theories: []
+related_theories:
+  - "[[Three Basic Dimensions of Teaching Quality]]"
 related_methods:
   - "[[Item Response Theory]]"
   - "[[Classroom Observation]]"
@@ -71,7 +74,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-21
-updated: 2026-11-21
+updated: 2026-11-25
 ---
 
 ---
@@ -79,7 +82,7 @@ updated: 2026-11-21
 > [!person-profile] 人物档案
 > - **身份位置** 德国当代教育测量学与学校质量评估权威，法兰克福[[Johann Wolfgang von Goethe|歌德]]大学教育科学荣休教授，[[Leibniz Institute for Educational Research and Educational Information|莱布尼茨教育研究与教育信息研究所]]（DIPF）前教育质量与评估部主任（2001–2020）。
 > - **核心角色** 德国后 [[PISA]] 时代产出导向教育标准的技术架构师与核心理论开创者；受联邦教育与研究部（[[Federal Ministry of Education and Research|BMBF]]）委托主持编纂《国家教育标准发展专业意见》（即《克利梅报告》），为德国打破跨州文教壁垒、确立基于心理测量学的国家标准体系奠定了理论模型。
-> - **代表贡献** 领衔研制《克利梅报告》（Klieme et al., 2003），系统界定了以领域特定认知能力为基底的国家教育标准（NES）[[Construct|构念]]模型；提出课堂教学质量三大基准维度（班级管理、认知激活、建设性支持）；主持全日制学校发展研究（StEG）及大规模[[Transnational Education|跨国教育]]标准比较研究。
+> - **代表贡献** 领衔研制《克利梅报告》（Klieme et al., 2003），系统界定了以领域特定认知能力为基底的国家教育标准（NES）[[Construct|构念]]模型；提出课堂[[Three Basic Dimensions of Teaching Quality|教学质量三大基准维度]]（班级管理、[[Cognitive Activation|认知激活]]、[[Constructive Support|建设性支持]]）；主持全日制学校发展研究（StEG）及大规模[[Transnational Education|跨国教育]]标准比较研究。
 
 > [!citation-card] 克利梅论国家教育标准对产出要求的界定与定位（Klieme et al., 2003）
 > 国家教育标准将重点确立在学生必须达到的核心胜任力，而非详尽列举教学内容细节。标准的主要功能在于明确学校教育阶段的产出预期，因而国家标准的导向功能必须与课程大纲的具体内容指引功能互为补充。(Klieme et al., 2003, pp. 9, 77–78; 引自 [[Argument_Ertl_2006_ORE|Ertl, 2006, p. 624]])
