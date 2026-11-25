@@ -833,7 +833,9 @@ var require_view = __commonJS({
       }
       const snapshots = accounts.filter((row) => row !== current);
       if (!snapshots.length) return;
-      add(section, "h4", "gemini-snapshot-title", "\u8D26\u53F7\u5FEB\u7167");
+      const snapshotHeading = add(section, "h4", "gemini-snapshot-title");
+      add(snapshotHeading, "span", "", "\u8D26\u53F7\u5FEB\u7167");
+      add(snapshotHeading, "span", "", "\u6BCF\u5468\u5269\u4F59 \xB7 \u91CD\u7F6E\u65F6\u95F4");
       for (const row of snapshots) {
         const entry = add(section, "details", "gemini-snapshot");
         entry.dataset.aufAccount = row.id;
@@ -844,8 +846,22 @@ var require_view = __commonJS({
         arrow.setAttribute("aria-hidden", "true");
         setIcon(arrow, "chevron-right");
         add(summary, "span", "snapshot-name", accountName2("antigravity", row, state.settings));
-        if (row.fetchedAt !== null) add(summary, "small", "muted", freshness(row.fetchedAt, state.now));
-        displayGeminiWindows(add(entry, "div", "snapshot-windows"), row, state, true);
+        const weekly = row.windows.find((quota) => quota.id === "gemini-weekly");
+        const metrics = add(summary, "span", "snapshot-metrics");
+        const remaining = quotaText(weekly?.remaining ?? null);
+        add(metrics, "strong", "num", remaining).setAttribute("aria-label", "\u6BCF\u5468\u5269\u4F59 " + (remaining === "\u2014" ? "\u672A\u77E5" : remaining));
+        const resetAt = weekly?.resetAt ?? null;
+        if (resetAt === null) {
+          add(metrics, "small", "muted", "\u65F6\u95F4\u672A\u77E5");
+        } else {
+          const expired = resetAt <= state.now;
+          const reset = add(metrics, "time", "muted", freshness(resetAt, state.now) + (expired ? " \u5DF2\u8FC7" : ""));
+          reset.dateTime = new Date(resetAt).toISOString();
+          reset.title = resetLabel(resetAt, state.now) + (expired ? " \xB7 \u5DF2\u8FC7" : "");
+        }
+        const details = add(entry, "div", "snapshot-windows");
+        displayGeminiWindows(details, row, state, true);
+        if (row.fetchedAt !== null) add(details, "small", "muted auf-snapshot-captured", "\u91C7\u96C6\u4E8E " + freshness(row.fetchedAt, state.now));
       }
     }
     function card(parent, title, detail) {

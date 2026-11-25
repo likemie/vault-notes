@@ -179,7 +179,9 @@ function displayGemini(parent, state, actions, openSnapshots) {
   }
   const snapshots = accounts.filter(row => row !== current);
   if (!snapshots.length) return;
-  add(section, "h4", "gemini-snapshot-title", "账号快照");
+  const snapshotHeading = add(section, "h4", "gemini-snapshot-title");
+  add(snapshotHeading, "span", "", "账号快照");
+  add(snapshotHeading, "span", "", "每周剩余 · 重置时间");
   for (const row of snapshots) {
     const entry = add(section, "details", "gemini-snapshot");
     entry.dataset.aufAccount = row.id;
@@ -190,8 +192,23 @@ function displayGemini(parent, state, actions, openSnapshots) {
     arrow.setAttribute("aria-hidden", "true");
     setIcon(arrow, "chevron-right");
     add(summary, "span", "snapshot-name", accountName("antigravity", row, state.settings));
-    if (row.fetchedAt !== null) add(summary, "small", "muted", freshness(row.fetchedAt, state.now));
-    displayGeminiWindows(add(entry, "div", "snapshot-windows"), row, state, true);
+    // The account summary shows the main Gemini bucket. Model-specific quotas stay in the details.
+    const weekly = row.windows.find(quota => quota.id === "gemini-weekly");
+    const metrics = add(summary, "span", "snapshot-metrics");
+    const remaining = quotaText(weekly?.remaining ?? null);
+    add(metrics, "strong", "num", remaining).setAttribute("aria-label", "每周剩余 " + (remaining === "—" ? "未知" : remaining));
+    const resetAt = weekly?.resetAt ?? null;
+    if (resetAt === null) {
+      add(metrics, "small", "muted", "时间未知");
+    } else {
+      const expired = resetAt <= state.now;
+      const reset = add(metrics, "time", "muted", freshness(resetAt, state.now) + (expired ? " 已过" : ""));
+      reset.dateTime = new Date(resetAt).toISOString();
+      reset.title = resetLabel(resetAt, state.now) + (expired ? " · 已过" : "");
+    }
+    const details = add(entry, "div", "snapshot-windows");
+    displayGeminiWindows(details, row, state, true);
+    if (row.fetchedAt !== null) add(details, "small", "muted auf-snapshot-captured", "采集于 " + freshness(row.fetchedAt, state.now));
   }
 }
 

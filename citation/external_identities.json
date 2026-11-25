@@ -10337,6 +10337,14 @@
       ],
       "title": ""
     },
+    "Bellmann & Müller, 2011": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
+      ],
+      "title": "Wissen, was wirkt. Kritik evidenzbasierter Pädagogik"
+    },
     "Bellows, 1986": {
       "datasets": [
         "eef:collaborative-learning-approaches"
@@ -28355,7 +28363,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
       ],
-      "title": ""
+      "title": "Classroom instruction that works. Research-based strategies for increasing student achievement"
     },
     "Dean, 1990": {
       "datasets": [
@@ -28379,7 +28387,6 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md",
         "wiki/concepts/instruction-pedagogy/Evidence-Based Teaching.md"
       ],
       "title": ""
@@ -29425,9 +29432,10 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Darwish_2009_Queens/Argument_Darwish_2009_Queens.md",
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md",
         "wiki/concepts/educational-philosophy/Education as Growth.md"
       ],
-      "title": ""
+      "title": "Logic: The Theory of Inquiry"
     },
     "Dewey, 1943": {
       "doi": "",
@@ -32248,6 +32256,14 @@
         "wiki/facts/global/INES Lugano General Assembly 1991.md"
       ],
       "title": ""
+    },
+    "EBTN, 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
+      ],
+      "title": "Evidence Based Teachers Network"
     },
     "EC, 2022": {
       "doi": "",
@@ -39644,14 +39660,6 @@
       ],
       "title": ""
     },
-    "Friedrich W. Kron, 2008": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
-      ],
-      "title": ""
-    },
     "Friedrich, 1997": {
       "datasets": [
         "metax:S2420"
@@ -40501,6 +40509,14 @@
         "wiki/persons/us/G. Reid Lyon.md"
       ],
       "title": ""
+    },
+    "G. Roth, 2011": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
+      ],
+      "title": "Bildung braucht Persönlichkeit. Wie Lernen gelingt"
     },
     "G. et al., 2024": {
       "doi": "",
@@ -46811,6 +46827,14 @@
       ],
       "title": ""
     },
+    "H. Roth, 1958": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
+      ],
+      "title": "Pädagogische Psychologie des Lehrens und Lernens"
+    },
     "H.R. 4875, 2000": {
       "doi": "",
       "isbn": "",
@@ -49435,6 +49459,7 @@
       "isbn": "9780415479783",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md",
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md",
         "wiki/arguments/journal-articles/Australian Journal of Language and Literacy/Argument_OConnor_2020_AJLL.md",
         "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
         "wiki/arguments/journal-articles/Critical Education/Argument_Johnson_2023_CritEduc.md",
@@ -49472,8 +49497,7 @@
         "wiki/concepts/instruction-pedagogy/Feedback.md",
         "wiki/concepts/instruction-pedagogy/Homework.md",
         "wiki/concepts/instruction-pedagogy/Inclusive Education.md",
-        "wiki/concepts/instruction-pedagogy/Lecturing.md",
-        "wiki/concepts/instruction-pedagogy/Mind Mapping.md"
+        "wiki/concepts/instruction-pedagogy/Lecturing.md"
       ],
       "title": "Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement"
     },
@@ -49499,6 +49523,7 @@
       "isbn": "9780415690157",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md",
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md",
         "wiki/arguments/journal-articles/Nordic Psychology/Argument_Nielsen_2021_NordPsych.md",
         "wiki/concepts/competency-and-assessment/Success Criteria.md"
       ],
@@ -49509,6 +49534,7 @@
       "isbn": "9783834011909",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md",
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md",
         "wiki/concepts/instruction-pedagogy/Selbstdidaktisierung.md"
       ],
       "title": "Lernen sichtbar machen"
@@ -50851,14 +50877,6 @@
       "seen_in": [
         "wiki/methods/quantitative/Manpower Requirements Approach.md",
         "wiki/theories/political-economy-geopolitics/Human Capital Theory.md"
-      ],
-      "title": ""
-    },
-    "Herbert Schwetz, 2013": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
       ],
       "title": ""
     },
@@ -53601,6 +53619,14 @@
       ],
       "title": ""
     },
+    "Hudson & Meyer, 2011": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
+      ],
+      "title": "Beyond fragmentation. Didactics, learning and teaching in Europe"
+    },
     "Hudson & Miller, 1997": {
       "doi": "",
       "isbn": "",
@@ -54385,6 +54411,14 @@
         "wiki/methods/qualitative/Comparative Meta-synthesis.md"
       ],
       "title": ""
+    },
+    "Höfer & Steffens, 2012": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
+      ],
+      "title": "Visible Learning for Teachers – Maximizing impact on learning – Zusammenfassung der praxisorientierten Konsequenzen aus der Forschungsbilanz von John Hattie Visible Learning"
     },
     "Höft & Hell, 2017": {
       "doi": "",
@@ -64323,6 +64357,14 @@
       "seen_in": [],
       "title": "A meta-analysis of the effects of desegregation on academic achievement"
     },
+    "Kron, 2008": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
+      ],
+      "title": "Grundwissen Didaktik"
+    },
     "Krosnick & Alwin, 1987": {
       "doi": "",
       "isbn": "",
@@ -65065,6 +65107,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "The Effects of Peer-Mediated Instruction in Mathematics for Students with Learning Problems: A Research Synthesis"
+    },
+    "Kunter & Trautwein, 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
+      ],
+      "title": "Psychologie des Unterrichts"
     },
     "Kunter et al., 2011": {
       "doi": "",
@@ -72217,6 +72267,14 @@
       ],
       "title": ""
     },
+    "M. A. Meyer, 2011": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
+      ],
+      "title": "Schwerpunkt: Didactics in Europe"
+    },
     "M. A., 1969": {
       "doi": "",
       "isbn": "",
@@ -74834,6 +74892,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "A theory-based meta-analysis of research on instruction"
+    },
+    "Marzano, 2007": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
+      ],
+      "title": "The art and science of teaching"
     },
     "Marzouki et al., 2017": {
       "datasets": [
@@ -89926,6 +89992,14 @@
       ],
       "title": ""
     },
+    "Petty, 2009": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
+      ],
+      "title": "Evidence-based teaching. A practical approach"
+    },
     "Peverly, 2001": {
       "datasets": [
         "eef:feedback"
@@ -102481,6 +102555,14 @@
       "seen_in": [],
       "title": "The effects of test-based retention on student outcomes over time  Regression discontinuity evidence from Florida"
     },
+    "Schwetz, 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
+      ],
+      "title": "Für eine evidenzbasierte Didaktik"
+    },
     "Schwichow et al., 2016": {
       "doi": "",
       "isbn": "",
@@ -102965,6 +103047,22 @@
       "seen_in": [],
       "title": "Montessori and responsive environment models: A longitudinal study of two preschool programs, phase two."
     },
+    "Seel & Hanke, 2011": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
+      ],
+      "title": "Unterrichtsgestaltung als Instructional Design. The American Way"
+    },
+    "Seel & Zierer, 2012": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
+      ],
+      "title": "General didactics and instructional design. Living in parallel worlds"
+    },
     "Seeman & Restrepo, 2023a": {
       "doi": "https://doi.org/10.1002/chem.202203985",
       "isbn": "",
@@ -103025,6 +103123,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md",
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md",
         "wiki/concepts/educational-policy-reform/Class Size.md",
         "wiki/persons/germany/Tina Seidel.md",
         "wiki/theories/instruction-pedagogy/Process-Product Paradigm.md"
@@ -109389,6 +109488,14 @@
       "seen_in": [],
       "title": "Environmental, Motivational, and Cognitive Predictors of Emergent Literacy and Reading Skills."
     },
+    "Stern et al., 2007": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
+      ],
+      "title": "Lehr-Lernforschung und Neurowissenschaften – Erwartungen, Befunde und Forschungsperspektiven"
+    },
     "Stern, 1969": {
       "datasets": [
         "eef-ey:early-literacy-approaches"
@@ -112912,10 +113019,11 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md",
         "wiki/arguments/journal-articles/Educational Philosophy and Theory/Argument_Rømer_2018_EPT.md",
         "wiki/arguments/journal-articles/International Review of Theoretical Psychologies/Argument_Nielsen_2021_IRTP.md"
       ],
-      "title": ""
+      "title": "Drifting Didactics"
     },
     "Termeer & Dewulf, 2018": {
       "doi": "",
@@ -121925,6 +122033,14 @@
       "seen_in": [],
       "title": "Role of Reading Engagement in Mediating Effects of Reading Comprehension Instruction on Reading Outcomes"
     },
+    "Wigger, 2004": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
+      ],
+      "title": "Didaktik"
+    },
     "Wiggins et al., 2019": {
       "doi": "",
       "isbn": "",
@@ -128130,7 +128246,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
       ],
-      "title": ""
+      "title": "Evidence-based teaching. A practical approach"
     },
     "先后在埃及亚历山大, 2006": {
       "doi": "",
@@ -128154,7 +128270,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
       ],
-      "title": ""
+      "title": "Grundwissen Didaktik"
     },
     "克罗斯利与武利亚米, 1984": {
       "doi": "",
@@ -128585,7 +128701,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
       ],
-      "title": ""
+      "title": "Visible Learning for Teachers: Maximizing Impact on Learning"
     },
     "哈蒂与耶茨, 2013": {
       "doi": "",
@@ -129357,14 +129473,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/denmark/Danish National Centre for Social Research.md"
-      ],
-      "title": ""
-    },
-    "教师手册, 2012": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
       ],
       "title": ""
     },

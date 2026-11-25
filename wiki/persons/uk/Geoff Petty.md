@@ -10,10 +10,10 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 0
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 12
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1949"
 died: ""
 lifespan: "1949–至今"
@@ -22,13 +22,25 @@ tags:
   - theme/evidence-based-education
   - theme/teaching-quality
   - region/uk
-related_concepts: []
+related_concepts:
+  - "[[Further Education]]"
+  - "[[Evidence-Based Teaching]]"
+  - "[[Instructional Design]]"
+  - "[[Feedback]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Meta-analysis]]"
+  - "[[Meta-meta-analysis]]"
+  - "[[Effect Size]]"
+  - "[[Participatory Action Research]]"
 related_instruments: []
-related_persons: []
-related_facts: []
-related_arguments: []
+related_persons:
+  - "[[Robert Marzano]]"
+  - "[[John Hattie]]"
+related_facts:
+  - "[[Evidence-Based Teachers Network]]"
+related_arguments:
+  - "[[Argument_VonOlberg_2014_GeneralDidactics]]"
 confidence: medium
 status: active
 created: 2026-11-25
@@ -38,9 +50,9 @@ updated: 2026-11-25
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 英国教师继续教育与培训专家，[[Evidence-Based Teaching|循证教学]]（Evidence-Based Teaching）早期代表人物。
-> - **核心角色** 在英国率先将美国[[Robert Marzano|罗伯特·J. 马扎诺]]（Robert J. Marzano）的元分析发现与[[John Hattie|约翰·哈蒂]]（John Hattie）的二阶元分析阶段性报告转化为结构化的课堂教学阶段模型，并与马扎诺、哈蒂共同在[[Evidence-Based Teachers Network|循证教师网络]]（Evidence-Based Teachers Network, EBTN）中展开协作。
-> - **代表贡献** 出版《循证教学：一种实践取向》（2006/2009），提出基于效应量研究的通用教学原则及“呈现—应用—复习”（Present–Apply–Review, PAR）模型。[[Argument_VonOlberg_2014_GeneralDidactics|(von Olberg, 2014, pp. 60–61)]]
+> - **身份位置** 英国教师[[Further Education|继续教育]]与培训专家，[[Evidence-Based Teaching|循证教学]]（Evidence-Based Teaching）早期代表人物。
+> - **核心角色** 在英国率先将美国罗伯特·J. 马扎诺（[[Robert Marzano|Robert J. Marzano]]）的[[Meta-analysis|元分析]]发现与[[John Hattie|约翰·哈蒂]]（John Hattie）的[[Meta-meta-analysis|二阶元分析]]阶段性报告转化为结构化的课堂教学阶段模型，并与马扎诺、哈蒂共同在循证教师网络（[[Evidence-Based Teachers Network]], EBTN）中展开协作。
+> - **代表贡献** 出版《循证教学：一种实践取向》（2006/2009），提出基于[[Effect Size|效应量]]研究的通用教学原则及呈现—应用—复习（Present–Apply–Review, [[Participatory Action Research|PAR]]）模型。[[Argument_VonOlberg_2014_GeneralDidactics|(von Olberg, 2014, pp. 60–61)]]
 
 > [!citation-card] 人物定位的关键来源
 > 在英国存在一条平行的发展线索。教师进修专家杰夫·佩蒂于 2006 年首次以具有标志性的书名《循证教学》出版了一部基于元分析的教学论。他具体吸纳了马扎诺的研究成果与关于哈蒂元元分析的阶段性报告，并在不盲从这一研究方向方法论的前提下，基于此认识基础构想了通用教学原则：“从效应量研究中提炼通用原则”。[[Argument_VonOlberg_2014_GeneralDidactics|(von Olberg, 2014, p. 60)]]
@@ -55,7 +67,7 @@ updated: 2026-11-25
 ---
 
 > [!person-thesis] 主张一｜应从效应量元分析中提炼通用教学原则，并以“呈现—应用—复习”配全过程反馈组织课堂结构
-> 杰夫·佩蒂（Geoff Petty）主张将元分析提供的[[Effect Size|效应量]]（Effect Size）证据转化为不拘泥于单一统计细节的通用教学设计原则。他将马扎诺元分析中的高效应单项因素整合为教与学过程不可或缺的三段式结构“PAR 模型”（Present–Apply–Review）：教师应先提供单元概览与内容呈现（Present，包含引导定位与讲授，不超过单元时长的 35%），随后安排学生进行充分的应用练习（Apply，至少占 60%），最后总结并深化巩固新学内容（Review，至少占 5%），同时在每一个阶段都嵌入师生双向反馈（Feedback）循环。[[Argument_VonOlberg_2014_GeneralDidactics|(von Olberg, 2014, p. 60)]]
+> 杰夫·佩蒂（Geoff Petty）主张将元分析提供的[[Effect Size|效应量]]（Effect Size）证据转化为不拘泥于单一统计细节的通用[[Instructional Design|教学设计]]原则。他将马扎诺元分析中的高效应单项因素整合为教与学过程不可或缺的三段式结构“PAR 模型”（Present–Apply–Review）：教师应先提供单元概览与内容呈现（Present，包含引导定位与讲授，不超过单元时长的 35%），随后安排学生进行充分的应用练习（Apply，至少占 60%），最后总结并深化巩固新学内容（Review，至少占 5%），同时在每一个阶段都嵌入师生双向反馈（[[Feedback]]）循环。[[Argument_VonOlberg_2014_GeneralDidactics|(von Olberg, 2014, p. 60)]]
 >
 > > [!thesis-quote] 《循证教学：约翰·哈蒂是否发展出了一种一般教学论？》转述佩蒂（2009）
 > > 在一个他称为“PAR 模型”（呈现—应用—复习）的简洁教与学过程必备环节架构中，他捆绑了来自马扎诺元分析中附有效应量说明的单项因素：人们应当始终给出课程概览（最多占教学单元的 35%）、呈现学习内容（至少 60%）、总结并深化新学内容（至少 5%），且每个环节都必须伴随面向教与学双方的反馈，正如哈蒂所期望的那样。[[Argument_VonOlberg_2014_GeneralDidactics|(von Olberg, 2014, p. 60)]]

@@ -264,6 +264,9 @@ button.auf-launcher[aria-expanded="true"] {
   overflow-wrap: anywhere;
 }
 .auf-float .auf-gemini-snapshot-title {
+  display: flex;
+  justify-content: space-between;
+  gap: 6px;
   margin-top: 7px;
   padding: 6px 0 3px;
   border-top: 1px solid var(--auf-line);
@@ -304,11 +307,18 @@ button.auf-launcher[aria-expanded="true"] {
   min-width: 0;
   overflow-wrap: anywhere;
 }
-.auf-gemini-snapshot-summary small {
+.auf-snapshot-metrics {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 7px;
   white-space: nowrap;
 }
 .auf-snapshot-windows {
   padding: 4px 0 8px;
+}
+.auf-snapshot-captured {
+  display: block;
+  margin-top: 4px;
 }
 .auf-float-group {
   display: flex;
