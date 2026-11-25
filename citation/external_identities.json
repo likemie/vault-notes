@@ -57282,14 +57282,6 @@
       ],
       "title": ""
     },
-    "John Dewey, 1938": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
-      ],
-      "title": ""
-    },
     "John E. Tilton, 1971": {
       "doi": "",
       "isbn": "",
@@ -86080,14 +86072,6 @@
       "isbn": "",
       "seen_in": [],
       "title": "Experimenting the effect of class size on mathematics based performance  A case study of selected public secondary school in Akure, Nigeria"
-    },
-    "Olberg, 2004": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
-      ],
-      "title": ""
     },
     "Oldroyd, 1986": {
       "doi": "",
@@ -128744,7 +128728,6 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md",
         "wiki/concepts/instruction-pedagogy/Instructional Design.md"
       ],
       "title": ""
@@ -129374,6 +129357,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/denmark/Danish National Centre for Social Research.md"
+      ],
+      "title": ""
+    },
+    "教师手册, 2012": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
       ],
       "title": ""
     },

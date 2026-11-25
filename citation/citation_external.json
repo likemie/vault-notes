@@ -13078,9 +13078,7 @@
     "John Bangs (2020)": "John Bangs, 2020",
     "John Bangs, 2020": "John Bangs, 2020",
     "John Dewey (1922)": "John Dewey, 1922",
-    "John Dewey (1938)": "John Dewey, 1938",
     "John Dewey, 1922": "John Dewey, 1922",
-    "John Dewey, 1938": "John Dewey, 1938",
     "John E. Tilton (1971)": "John E. Tilton, 1971",
     "John E. Tilton, 1971": "John E. Tilton, 1971",
     "John Elliott (1991)": "John Elliott, 1991",
@@ -19659,8 +19657,6 @@
     "Olapane et al., 2025": "Olapane et al., 2025",
     "Olasen (2020)": "Olasen, 2020",
     "Olasen, 2020": "Olasen, 2020",
-    "Olberg (2004)": "Olberg, 2004",
-    "Olberg, 2004": "Olberg, 2004",
     "Oldroyd (1986)": "Oldroyd, 1986",
     "Oldroyd, 1986": "Oldroyd, 1986",
     "Olechnicka et al. (2019)": "Olechnicka et al., 2019",
@@ -29596,6 +29592,8 @@
     "教协及一线专业组织, 2012": "教协及一线专业组织, 2012",
     "教师与教学质量监测报告 (2013)": "教师与教学质量监测报告, 2013",
     "教师与教学质量监测报告, 2013": "教师与教学质量监测报告, 2013",
+    "教师手册 (2012)": "教师手册, 2012",
+    "教师手册, 2012": "教师手册, 2012",
     "教师用书 (2003)": "教师用书, 2003",
     "教师用书, 2003": "教师用书, 2003",
     "教师用书, 2003a": "教师用书, 2003",
@@ -125926,21 +125924,6 @@
       ],
       "title": ""
     },
-    "John Dewey, 1938": {
-      "aliases": [
-        "John Dewey, 1938",
-        "John Dewey (1938)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "John Dewey, 1938"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
-      ],
-      "title": ""
-    },
     "John E. Tilton, 1971": {
       "aliases": [
         "John E. Tilton, 1971",
@@ -173697,21 +173680,6 @@
       "isbn": "",
       "seen_in": [],
       "title": "Experimenting the effect of class size on mathematics based performance  A case study of selected public secondary school in Akure, Nigeria"
-    },
-    "Olberg, 2004": {
-      "aliases": [
-        "Olberg, 2004",
-        "Olberg (2004)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Olberg, 2004"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
-      ],
-      "title": ""
     },
     "Oldroyd, 1986": {
       "aliases": [
@@ -244678,7 +244646,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md",
         "wiki/concepts/instruction-pedagogy/Instructional Design.md"
       ],
       "title": ""
@@ -245847,6 +245814,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/denmark/Danish National Centre for Social Research.md"
+      ],
+      "title": ""
+    },
+    "教师手册, 2012": {
+      "aliases": [
+        "教师手册, 2012",
+        "教师手册 (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "教师手册, 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
       ],
       "title": ""
     },
