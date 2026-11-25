@@ -154,7 +154,7 @@ related_instruments:
 confidence: medium
 status: stable
 created: 2026-06-30
-updated: 2026-11-19
+updated: 2026-11-25
 ---
 
 > [!def] Critical Thinking
@@ -330,15 +330,15 @@ updated: 2026-11-19
 ---
 
 > [!contrast-table|notitle] 所有命题归纳
-| 命题类型 | 核心指向 | 适用情境 | 代表学者 |
-|---|---|---|---|
-| **构念组成** | 技能、倾向、知识和情境共同决定思维质量 | 定义、测量、量表解释 | Siegel; Ennis; Facione; Paul |
-| **教学与实施** | 显性教学具有显著优势，效果依赖领域知识与实施条件 | 课程设计、教师发展、课堂干预 | Abrami et al.; Behar-Horenstein & Niu; Marin & Halpern; Willingham; Cole et al. |
-| **迁移条件** | 通用认知结构通过领域知识和情境线索实现迁移 | 跨学科课程、迁移任务 | Halpern; Salomon & Perkins; Glaser; Lave; Ritchhart & Perkins |
-| **操作化与效度** | 目标与评估须充分覆盖构念，高等教育普遍面临增益匮乏与评价断裂 | 课程审查、[[Learning Gain\|学习增益]]评估、效度研究 | Hughes; Zemplén; Bergeron & Rogers; Bok; Arum & Roksa; Huber & Kuncel; Bouckaert |
-| **认知动力** | 评价论是触发批判性思维论辩的[[Epistemology\|认识论]]引擎，认识论干预对高阶批判论证产生最强因果促进并确立基础教育黄金窗口 | 成人思维发展、批判动机缺失、基础教育认识论课程 | [[Deanna Kuhn\|Kuhn]]; [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] |
-| **人机[[Epistemological Vigilance\|认识论警觉]]** | 维持认识论摩擦与双轨支架是防止 AI 诱发认知卸载、激活批判性审验的核心机制；在对抗辩论与多源互证中，AI 偶尔犯错反而能激发深层证据评估与反思 | 人机协同探究、科学解释建构与高等教育 AI 整合 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; Strobl et al. (2024); Fan et al. (2025); [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]]; [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] |
-| **政治经济与民主批判** | 知识经济社会想象将批判性思维窄化为劳动力市场工具，微观课程组织分化为阶层特权理性与应试规训技术 | 全球教育治理、知识经济话语解构与社会再生产批判 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009, p. 446)]]; Kenway et al. (2006); [[Argument_Lim_2015_CurricInq\|Lim and Apple (2015)]] |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **构念组成** | 技能、倾向、知识和情境共同决定思维质量 | 定义、测量、量表解释 | Siegel; Ennis; Facione; Paul |
+> | **教学与实施** | 显性教学具有显著优势，效果依赖领域知识与实施条件 | 课程设计、教师发展、课堂干预 | Abrami et al.; Behar-Horenstein & Niu; Marin & Halpern; Willingham; Cole et al. |
+> | **迁移条件** | 通用认知结构通过领域知识和情境线索实现迁移 | 跨学科课程、迁移任务 | Halpern; Salomon & Perkins; Glaser; Lave; Ritchhart & Perkins |
+> | **操作化与效度** | 目标与评估须充分覆盖构念，高等教育普遍面临增益匮乏与评价断裂 | 课程审查、[[Learning Gain\|学习增益]]评估、效度研究 | Hughes; Zemplén; Bergeron & Rogers; Bok; Arum & Roksa; Huber & Kuncel; Bouckaert |
+> | **认知动力** | 评价论是触发批判性思维论辩的[[Epistemology\|认识论]]引擎，认识论干预对高阶批判论证产生最强因果促进并确立基础教育黄金窗口 | 成人思维发展、批判动机缺失、基础教育认识论课程 | [[Deanna Kuhn\|Kuhn]]; [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] |
+> | **人机[[Epistemological Vigilance\|认识论警觉]]** | 维持认识论摩擦与双轨支架是防止 AI 诱发认知卸载、激活批判性审验的核心机制；在对抗辩论与多源互证中，AI 偶尔犯错反而能激发深层证据评估与反思 | 人机协同探究、科学解释建构与高等教育 AI 整合 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; Strobl et al. (2024); Fan et al. (2025); [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]]; [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] |
+> | **政治经济与民主批判** | 知识经济社会想象将批判性思维窄化为劳动力市场工具，微观课程组织分化为阶层特权理性与应试规训技术 | 全球教育治理、知识经济话语解构与社会再生产批判 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009, p. 446)]]; Kenway et al. (2006); [[Argument_Lim_2015_CurricInq\|Lim and Apple (2015)]] |
 
 ---
 

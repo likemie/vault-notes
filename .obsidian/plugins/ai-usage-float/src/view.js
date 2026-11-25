@@ -52,10 +52,16 @@ function refreshAntigravity(parent, state, actions, compact = false) {
   });
 }
 
+function quotaLevel(remaining) {
+  if (remaining >= 60) return "high";
+  return remaining >= 20 ? "medium" : "low";
+}
+
 function track(parent, value, old) {
   if (value === null) return;
   const bar = add(parent, "div", old ? "track auf-track-old" : "track");
   bar.setAttribute("aria-hidden", "true");
+  bar.dataset.aufLevel = quotaLevel(value);
   add(bar, "span").style.width = value + "%";
 }
 
@@ -202,7 +208,7 @@ function displayGemini(parent, state, actions, openSnapshots) {
     const remaining = estimated ? 100 : (weekly?.remaining ?? null);
     const badge = add(metrics, "strong", "num auf-snapshot-quota", quotaText(remaining));
     if (remaining !== null) {
-      badge.dataset.aufLevel = remaining >= 60 ? "high" : remaining >= 20 ? "medium" : "low";
+      badge.dataset.aufLevel = quotaLevel(remaining);
     }
     if (estimated) add(badge, "span", "snapshot-estimate", "估算");
     const quotaLabel = estimated ? "重置后估算的每周剩余 " : "每周剩余 ";

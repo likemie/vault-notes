@@ -106,7 +106,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-30
-updated: 2026-11-23
+updated: 2026-11-25
 ---
 
 ---
@@ -318,4 +318,5 @@ updated: 2026-11-23
 > - [[Argument_Schaffar_2024_CogentEdu|Schaffar and Wolff (2024)]]　追溯芬兰现象化学习中[[Pragmatic Constructivism|实用主义建构主义]]与教化传统的结合。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]]　从[[Didaktik|欧陆教学论]]视角审视可见学习对建构主义教学角色的批判，厘清[[Knowledge Production|知识生成]][[Epistemology|认识论]]与教学指导模型的范畴界限（pp. 431–434）。
 > - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 阐明建构主义属于认知理论而非教学操作法，批判将建构主义误解为教师退隐的放任教学流弊（pp. 16–17, 20）。
+> - [[Argument_VonOlberg_2014_GeneralDidactics|von Olberg (2014)]] — 指出哈蒂在表层、深层与概念三层认知模型中吸纳建构主义，将其确立为教学的最高目标而非唯一学习路径（pp. 57–58）。
 

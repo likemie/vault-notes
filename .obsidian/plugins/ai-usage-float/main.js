@@ -722,10 +722,15 @@ var require_view = __commonJS({
         disabled: busy
       });
     }
+    function quotaLevel(remaining) {
+      if (remaining >= 60) return "high";
+      return remaining >= 20 ? "medium" : "low";
+    }
     function track(parent, value, old) {
       if (value === null) return;
       const bar = add(parent, "div", old ? "track auf-track-old" : "track");
       bar.setAttribute("aria-hidden", "true");
+      bar.dataset.aufLevel = quotaLevel(value);
       add(bar, "span").style.width = value + "%";
     }
     function rowStatus(row, now, interval) {
@@ -867,7 +872,7 @@ var require_view = __commonJS({
         const remaining = estimated ? 100 : weekly?.remaining ?? null;
         const badge = add(metrics, "strong", "num auf-snapshot-quota", quotaText(remaining));
         if (remaining !== null) {
-          badge.dataset.aufLevel = remaining >= 60 ? "high" : remaining >= 20 ? "medium" : "low";
+          badge.dataset.aufLevel = quotaLevel(remaining);
         }
         if (estimated) add(badge, "span", "snapshot-estimate", "\u4F30\u7B97");
         const quotaLabel = estimated ? "\u91CD\u7F6E\u540E\u4F30\u7B97\u7684\u6BCF\u5468\u5269\u4F59 " : "\u6BCF\u5468\u5269\u4F59 ";

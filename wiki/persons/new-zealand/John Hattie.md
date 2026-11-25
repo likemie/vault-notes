@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 172
+person_related_count: 173
 person_related_level: 17
 person_related_stars: "💎💎💎💎💎⭐⭐"
 person_related_color: "#fef3c7"
@@ -182,6 +182,7 @@ related_arguments:
   - "[[Argument_Hattie_2017_SLM]]"
   - "[[Argument_Terhart_2014_HolyGrail]]"
   - "[[Argument_Koller_2014_WhatWorks]]"
+  - "[[Argument_Brugelmann_2014_LocalPractice]]"
 related_facts:
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[Evidence for Learning]]"
@@ -205,7 +206,7 @@ related_instruments:
 confidence: medium
 status: active
 created: '2026-05-02'
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 
 ---
@@ -355,7 +356,7 @@ updated: 2026-11-24
 > - **继承者与本土化转译者** [[Thomas Nordahl]]、Ane Qvortrup、Claus Nygaard（斯堪的纳维亚本土化引介与转译，运用系统论为可见学习辩护）；Deb Masters（[[Visible Learning]] 教师培训实施与全球实践案例库联合编著者）。
 > - **统计方法学审查者** [[Christof Wecker]] 等人（推导两级[[Fixed-Effect Model|固定效应]]代数等价性，实证判定[[Meta-meta-analysis|二阶元分析]]不可行）；[[Pierre-Jérôme Bergeron]] 与 Lysanne Rivard（揭示 [[Common Language Effect Size|CLES]] 负概率、基线反转与公式颠倒，定性为伪科学纸牌屋）；Kalmendal et al. （针对 322 个因素开展[[Preregistration|预注册]][[Metascience|元科学]]审计，证实数据提取复现率仅 0.66%）。
 > - **新西兰论战与政策批判者** [[Ivan Snook]]、John Clark、[[John O'Neill]]、Roger Openshaw（新西兰论战首发批判团队，质询二阶元分析质控缺位、截断值武断性与生源归因偏误）；[[Gerald Grace]]（批判学者良知角色与技术辩护矛盾）；[[Scott Eacott]]、McKnight & Whitburn（批判澳大利亚[[School Leadership|学校领导力]]的[[Cult of the Guru|大师崇拜]]与[[Neo-Taylorism|新泰勒主义]]规训）。
-> - **教育哲学与教化传统反思者** [[Ewald Terhart]]（指出理论教化实质真空、双向可见性的福柯式全景规训与修补金字塔双重困境）；[[Olaf Köller]]（肯定深层教学质量划分，但依据 COACTIV 实证直接驳斥哈蒂低估教师学科专业知识的论断）；[[Steen Nepper Larsen]]（从[[Phenomenology|现象学]]自由批判观看盲视并主张 [[Bildung]] 替代）；[[Klaus Nielsen]] & Jørgen Klitmøller、[[Thomas Aastrup Rømer]]（从[[Jürgen Habermas|哈贝马斯]][[Critical Theory|批判理论]]揭示[[Technical Rationality|技术理性]]的[[Legitimation Crisis|合法化危机]]）。
+> - **教育哲学与教化传统反思者** [[Ewald Terhart]]（指出理论教化实质真空、双向可见性的福柯式全景规训与修补金字塔双重困境）；[[Olaf Köller]]（肯定深层教学质量划分，但依据 COACTIV 实证直接驳斥哈蒂低估教师学科专业知识的论断）；Hans Brügelmann（从本土教学实践与方法论审读其抹杀组内方差离散度、文献历史断代滞后及指标评价自相矛盾）；[[Steen Nepper Larsen]]（从[[Phenomenology|现象学]]自由批判观看盲视并主张 [[Bildung]] 替代）；[[Klaus Nielsen]] & Jørgen Klitmøller、[[Thomas Aastrup Rømer]]（从[[Jürgen Habermas|哈贝马斯]][[Critical Theory|批判理论]]揭示[[Technical Rationality|技术理性]]的[[Legitimation Crisis|合法化危机]]）。
 
 ---
 
@@ -416,6 +417,7 @@ updated: 2026-11-24
 > - [[Argument_Terhart_2011_JCS|Terhart, 2011]] — 首篇国际长篇书评：教学理论教化实质真空（[[Didaktik]] / [[Bildung]]）、波普尔三个世界形式化挪用、双向可见性的福柯式全景规训，以及稳定性与变异性假说下的修补金字塔双重困境。
 > - [[Argument_Terhart_2014_HolyGrail|Terhart, 2014]] — 德语编著专章长篇审读：系统剖析二阶元分析文献底册陈旧（多为 80–90 年代）且缺乏质控准入门槛，0.40 门槛仅为学校常规教学自然基准，过程-结果范式陷入路灯效应排斥非测验育人目标，师生互视模型潜藏微观心理自我规训，终结教育终极圣杯神话（pp. 10–23）。
 > - [[Argument_Koller_2014_WhatWorks|Köller, 2014]] — 德语区实证教学研究审视：肯定可见学习区分宏观表面结构与微观深层教学质量，但依据 COACTIV 长期追踪实证直接驳斥哈蒂低估教师学科专业知识（$d=0.09$）的论断，确证学科知识是高质认知激活教学的必要基石（p. 32）。
+> - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann, 2014]] — 德语区本土教学与方法论审读：批判二阶元分析抹杀教学干预内部方差离散度、文献历史断代滞后（如计算机辅助教学过半文献早于 2000 年）与微观实施保真度缺失，揭示哈蒂指标内部对开放教学（$d=0.01$）与非指导性教学（$d=0.54$）评价的自相矛盾，破除将统计均值硬化为课堂禁令的错误做法（pp. 38–50）。
 > - [[Argument_Allerup_2015_Paideia|Allerup, 2015]] — 效应量排名[[Sample Size Determination|样本量]]依赖、[[Confidence Interval|置信区间]]缺失与[[Socioeconomic Status|社会经济背景]]控制批评。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al., 2016]] — 推导两级固定效应代数等价性定理与六步规程，以 Eisenstaedt（10倍虚增）、Haas（权重削减53%）及 Olson & Wisher（93%重叠致排名雪崩）实证解构超级元分析可行性。
 > - [[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017]] — 统计学视角审查：CLES 负概率初等计算错误、基线反转致效应量解释颠覆、受控数值模拟证实三类有效公式排名彻底相反、相关向均值差换算极值爆炸（$r=0.196 \to d=0.40$ 仅解释 3.85% 方差）及伪科学定性。

@@ -84,7 +84,7 @@ related_facts:
   - "[[EU]]"
 status: stable
 created: 2026-09-18
-updated: 2026-11-15
+updated: 2026-11-25
 ---
 ---
 
@@ -111,11 +111,11 @@ updated: 2026-11-15
 研究借助批判性数据研究（Critical Data Studies）视角，实现从数据中立论向社会-技术治理实践论的[[Paradigm|范式]]转向。
 
 > [!contrast-table] 批判性数据研究视阈下的两重视角转换
-| 分析维度 | 技术[[Positivism\|实证主义]]传统范式 | 批判性数据基础设施范式 |
-|---|---|---|
-| **数据本质观** | 中立、客观反映学校现状的信息原材料 | 经过制度筛选、去情境化与形式化编码的权力建构物 |
-| **治理基础设施** | 静态的信息存储硬件、服务器与软件管道 | 由行动者、[[Discourse\|话语]]规范、算法代码与行政常规持续互构的动态装配 |
-| **量化评价功能** | 发现客观差距以提供中立的改进依据 | 制造通约度量，建立跨时空可比性并分配制度合法性与资源 |
+> | 分析维度 | 技术[[Positivism\|实证主义]]传统范式 | 批判性数据基础设施范式 |
+> |---|---|---|
+> | **数据本质观** | 中立、客观反映学校现状的信息原材料 | 经过制度筛选、去情境化与形式化编码的权力建构物 |
+> | **治理基础设施** | 静态的信息存储硬件、服务器与软件管道 | 由行动者、[[Discourse\|话语]]规范、算法代码与行政常规持续互构的动态装配 |
+> | **量化评价功能** | 发现客观差距以提供中立的改进依据 | 制造通约度量，建立跨时空可比性并分配制度合法性与资源 |
 
 > [!warrant]- 理论工具如何支撑全景论证
 > 借助批判性数据研究的[[Theoretical Standpoint|理论透镜]]，研究摆脱了将数据仅仅视为信息容器的工具主义迷思。通过将数据基础设施作为实体考察对象，将数量通约化作为微观转化机制，作者得以系统审视从原始数据录入、数据库清洗、跨系统互操作、算法加权建模到可视化呈报的全生命周期，论证看似中立的代码与算法指标如何深度嵌入甚至重构了国家行使教育权力的基本方式。
@@ -123,29 +123,29 @@ updated: 2026-11-15
 ---
 
 > [!method-panel] 跨国[[Comparative Case Study\|比较案例研究]]设计
-| 模块 | 材料与处理方式 |
-|---|---|
-| **研究范式与比较设计**<br>[[Comparative Case Study\|比较案例研究]]（Comparative Case Study） | 选取美德两国联邦去中心化体制下教育数据化程度最高、历史最悠久的先锋州（马萨诸塞州与汉堡）构成对比个案，兼顾跨国制度[[Heterogeneity\|异质性]]与州域先锋同质性。 |
-| **质性资料收集**<br>[[Expert Interview\|半结构化专家访谈]]（Semi-structured Expert Interviews） | 深入三家州级数据枢纽机关，对涵盖数据采集、质检核查、算法建模、系统存储、分析挖掘与对外发布的各业务线技术官员与政策主管实施[[In-depth Interview\|深度访谈]]。 |
-| **实证编码与分析策略**<br>主题编码与概念框架提炼（Topical Coding & Heuristic Modelling） | 结合官方组织架构图、政策白皮书、技术规程与在线数据仪表盘，对[[Transcription in Qualitative Research\|转录]]文本实施归纳性主题编码，提炼做数据张力类属并转化为两套可视化解释启发模型。 |
+> | 模块 | 材料与处理方式 |
+> |---|---|
+> | **研究范式与比较设计**<br>[[Comparative Case Study\|比较案例研究]]（Comparative Case Study） | 选取美德两国联邦去中心化体制下教育数据化程度最高、历史最悠久的先锋州（马萨诸塞州与汉堡）构成对比个案，兼顾跨国制度[[Heterogeneity\|异质性]]与州域先锋同质性。 |
+> | **质性资料收集**<br>[[Expert Interview\|半结构化专家访谈]]（Semi-structured Expert Interviews） | 深入三家州级数据枢纽机关，对涵盖数据采集、质检核查、算法建模、系统存储、分析挖掘与对外发布的各业务线技术官员与政策主管实施[[In-depth Interview\|深度访谈]]。 |
+> | **实证编码与分析策略**<br>主题编码与概念框架提炼（Topical Coding & Heuristic Modelling） | 结合官方组织架构图、政策白皮书、技术规程与在线数据仪表盘，对[[Transcription in Qualitative Research\|转录]]文本实施归纳性主题编码，提炼做数据张力类属并转化为两套可视化解释启发模型。 |
 
 两地在教育治理传统上的鲜明对比，为剖析数据监测的普遍性与情境性提供了极佳的比较基底。
 
 > [!contrast-table] 两地案例的宏观制度与监测传统对比
-| 维度 | 美国马萨诸塞州（[[Massachusetts Department of Elementary and Secondary Education\|DESE]]） | 德国汉堡自由汉萨市（BSB / [[Institute for Educational Monitoring and Quality Improvement\|IfBQ]]） |
-|---|---|---|
-| **行政管理层级** | 联邦体制下的州级教育行政机关（State Education Agency），下辖逾 300 个自主学区 | 联邦州（城邦）层级教育部直属行政机关，下辖两级公立学校系统 |
-| **历史文化传统** | 长达 40 年的[[Test-Based Accountability\|测试本位问责]]文化，极度推崇标准化测验与私营评测中介 | 传统高度信任教师专业自主，弱外部过程监控，对学校公开排名保持强烈社会警惕 |
-| **数据化推进节点** | 2001 年联邦《不让一个孩子掉队》法案（[[No Child Left Behind Act 2001\|No Child Left Behind Act]], NCLB）及《每个学生都成功》法案（[[Every Student Succeeds Act]], ESSA）驱动下的全域数据深化 | 经历 2000 年[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）震荡后于 2006 年全德[[Standing Conference of the Ministers of Education and Cultural Affairs\|常设各州教育与文化部长会议]]（Standing Conference of the Ministers of Education and Cultural Affairs, KMK）总体战略下建立 IfBQ，属全球数据治理晚入者 |
-| **问责后果与利害机制** | 极端高利害：绩效持续垫底的学校与学区将面临州教育部直接接管或关闭重组 | 诊断与资源倾斜导向：不搞公开排行榜与强制关校，但挂钩专项师资划拨与督导目标协议 |
+> | 维度 | 美国马萨诸塞州（[[Massachusetts Department of Elementary and Secondary Education\|DESE]]） | 德国汉堡自由汉萨市（BSB / [[Institute for Educational Monitoring and Quality Improvement\|IfBQ]]） |
+> |---|---|---|
+> | **行政管理层级** | 联邦体制下的州级教育行政机关（State Education Agency），下辖逾 300 个自主学区 | 联邦州（城邦）层级教育部直属行政机关，下辖两级公立学校系统 |
+> | **历史文化传统** | 长达 40 年的[[Test-Based Accountability\|测试本位问责]]文化，极度推崇标准化测验与私营评测中介 | 传统高度信任教师专业自主，弱外部过程监控，对学校公开排名保持强烈社会警惕 |
+> | **数据化推进节点** | 2001 年联邦《不让一个孩子掉队》法案（[[No Child Left Behind Act 2001\|No Child Left Behind Act]], NCLB）及《每个学生都成功》法案（[[Every Student Succeeds Act]], ESSA）驱动下的全域数据深化 | 经历 2000 年[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）震荡后于 2006 年全德[[Standing Conference of the Ministers of Education and Cultural Affairs\|常设各州教育与文化部长会议]]（Standing Conference of the Ministers of Education and Cultural Affairs, KMK）总体战略下建立 IfBQ，属全球数据治理晚入者 |
+> | **问责后果与利害机制** | 极端高利害：绩效持续垫底的学校与学区将面临州教育部直接接管或关闭重组 | 诊断与资源倾斜导向：不搞公开排行榜与强制关校，但挂钩专项师资划拨与督导目标协议 |
 
 > [!sample-panel]- 样本与田野材料档案
-| 样本层面 | 构成 |
-|---|---|
-| **访谈样本** | 开展 16 场深度半结构化专家访谈，累计涵盖 20 位州级机构专业数据官员与技术专家，单场时长在 60 至 90 分钟之间。 |
-| **机构覆盖** | 美国马萨诸塞州 DESE；德国汉堡市 BSB 以及直属专业研究监测机构 IfBQ。 |
-| **[[Document\|文献]]与技术资产** | 详尽查阅两地教育监测法案、技术架构白皮书、学区数据报告指南、数据库字典以及在线公开数据仪表盘，包括地区分析与审查工具（District Analysis and Review Tools, DART）、资源配置与地区审查分析工具（Resource Allocation and District Action Reports, RADAR）以及学校概览系统（Schulüberblick, SchÜb）等。 |
-| **转录与翻译规范** | 德语访谈记录由研究者忠实译为英文，在保留原始意涵前提下对口语语病进行最小限度的语法润色，关键引文辅以双语校核。 |
+> | 样本层面 | 构成 |
+> |---|---|
+> | **访谈样本** | 开展 16 场深度半结构化专家访谈，累计涵盖 20 位州级机构专业数据官员与技术专家，单场时长在 60 至 90 分钟之间。 |
+> | **机构覆盖** | 美国马萨诸塞州 DESE；德国汉堡市 BSB 以及直属专业研究监测机构 IfBQ。 |
+> | **[[Document\|文献]]与技术资产** | 详尽查阅两地教育监测法案、技术架构白皮书、学区数据报告指南、数据库字典以及在线公开数据仪表盘，包括地区分析与审查工具（District Analysis and Review Tools, DART）、资源配置与地区审查分析工具（Resource Allocation and District Action Reports, RADAR）以及学校概览系统（Schulüberblick, SchÜb）等。 |
+> | **转录与翻译规范** | 德语访谈记录由研究者忠实译为英文，在保留原始意涵前提下对口语语病进行最小限度的语法润色，关键引文辅以双语校核。 |
 
 ---
 

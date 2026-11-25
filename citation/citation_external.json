@@ -6101,9 +6101,7 @@
     "Dachet & Baye, 2020": "Dachet & Baye, 2020",
     "Dadas (1976)": "Dadas, 1976",
     "Dadas, 1976": "Dadas, 1976",
-    "Dafolo (2013)": "Dafolo, 2013",
     "Dafolo (2014)": "Dafolo, 2014",
-    "Dafolo, 2013": "Dafolo, 2013",
     "Dafolo, 2014": "Dafolo, 2014",
     "Dagasan (2023)": "Dagasan, 2023",
     "Dagasan, 2023": "Dagasan, 2023",
@@ -74829,21 +74827,6 @@
       "seen_in": [],
       "title": "A study of the effects of assigning spiral exploratory homework upon achievement in and attitude towards mathemathics"
     },
-    "Dafolo, 2013": {
-      "aliases": [
-        "Dafolo, 2013",
-        "Dafolo (2013)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Dafolo, 2013"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/persons/germany/Andreas Helmke.md"
-      ],
-      "title": ""
-    },
     "Dafolo, 2014": {
       "aliases": [
         "Dafolo, 2014",
@@ -139549,7 +139532,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md",
+        "wiki/persons/germany/Olaf Köller.md"
       ],
       "title": "Mythen guter Unterrichtspraxis"
     },

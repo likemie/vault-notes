@@ -5,14 +5,14 @@
   --auf-line: var(--background-modifier-border);
   --auf-surface: var(--background-primary);
   --auf-ground: var(--background-secondary);
-  --auf-meter: #1d5fbf;
+  --auf-service-accent: #1d5fbf;
   --auf-status: var(--text-warning);
   color: var(--auf-ink);
   font-variant-numeric: tabular-nums;
 }
 .theme-dark .auf-float,
 .theme-dark .auf-modal {
-  --auf-meter: #8bbaff;
+  --auf-service-accent: #8bbaff;
 }
 .auf-float *,
 .auf-modal * {
@@ -240,16 +240,16 @@ button.auf-launcher[aria-expanded="true"] {
   height: 15px;
 }
 .auf-float-service[data-auf-provider="codex"] {
-  --auf-meter: #087567;
+  --auf-service-accent: #087567;
 }
 .auf-float-service[data-auf-provider="grok"] {
-  --auf-meter: #a25b15;
+  --auf-service-accent: #a25b15;
 }
 .theme-dark .auf-float-service[data-auf-provider="codex"] {
-  --auf-meter: #63cbbb;
+  --auf-service-accent: #63cbbb;
 }
 .theme-dark .auf-float-service[data-auf-provider="grok"] {
-  --auf-meter: #e7aa61;
+  --auf-service-accent: #e7aa61;
 }
 .auf-gemini-current {
   padding: 4px 0 2px;
@@ -324,23 +324,23 @@ button.auf-launcher[aria-expanded="true"] {
   min-width: 38px;
   padding: 2px 4px;
   border-radius: 4px;
-  background: var(--background-modifier-hover);
-  color: var(--auf-muted);
+  background: var(--auf-level-fill, var(--background-modifier-hover));
+  color: var(--auf-level-ink, var(--auf-muted));
   font-size: 12px;
   line-height: 1.3;
   text-align: center;
 }
-.auf-snapshot-quota[data-auf-level="high"] {
-  background: #37d77e;
-  color: #082519;
+:is(.auf-track, .auf-snapshot-quota)[data-auf-level="high"] {
+  --auf-level-fill: #37d77e;
+  --auf-level-ink: #082519;
 }
-.auf-snapshot-quota[data-auf-level="medium"] {
-  background: #57acff;
-  color: #081e39;
+:is(.auf-track, .auf-snapshot-quota)[data-auf-level="medium"] {
+  --auf-level-fill: #57acff;
+  --auf-level-ink: #081e39;
 }
-.auf-snapshot-quota[data-auf-level="low"] {
-  background: #ff646a;
-  color: #320c10;
+:is(.auf-track, .auf-snapshot-quota)[data-auf-level="low"] {
+  --auf-level-fill: #ff646a;
+  --auf-level-ink: #320c10;
 }
 .auf-snapshot-estimate {
   font-size: 11px;
@@ -368,7 +368,7 @@ button.auf-launcher[aria-expanded="true"] {
   font-weight: 600;
 }
 .auf-service-icon {
-  color: var(--auf-meter);
+  color: var(--auf-service-accent);
 }
 .auf-float-service + .auf-float-service {
   border-top: 1px solid var(--auf-line);
@@ -492,7 +492,7 @@ button.auf-launcher[aria-expanded="true"] {
   white-space: nowrap;
 }
 .auf-track {
-  height: 4px;
+  height: 5px;
   background: var(--background-modifier-hover);
   border-radius: 2px;
   overflow: hidden;
@@ -501,10 +501,10 @@ button.auf-launcher[aria-expanded="true"] {
 .auf-track span {
   display: block;
   height: 100%;
-  background: var(--auf-meter);
+  background: var(--auf-level-fill);
 }
 .auf-track-old span {
-  background: var(--auf-muted);
+  opacity: .45;
 }
 .auf-muted,
 .auf-status {

@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-11-19
+updated: 2026-11-25
 ---
 
 ---
@@ -138,11 +138,11 @@ flowchart TD
 ---
 
 > [!contrast-table] 所有命题归纳
-| 命题类型 | 核心指向 | 适用情境 | 代表学者 |
-|---|---|---|---|
-| **架构塑造机制** | 协商一致原则塑造了以自愿和项目为基础的去中心化合作形态 | 东南亚多边治理、区域公共政策分析 | [[Argument_Chou_2017_PolSoc\|Chou and Ravinet (2017)]]; [[Argument_Dang_2017_ORE\|Dang (2017)]]; Koga (2010) |
-| **主权隔离机制** | 通过机构功能平行并立阻断超国家集权侵蚀国家法定权力 | [[Comparative Regionalism\|比较区域主义]]、行政权力防卫制度设计 | [[Argument_Chou_2017_PolSoc\|Chou and Ravinet (2017)]]; Narine (2008) |
-| **去殖民重塑机制** | 消极不干涉的离散效应加剧外部依附，需依托本土哲学转向主动互助 | 高等教育去殖民化、地缘政治与区域公共治理 | [[Argument_Indrarajah_2026_NJCIE\|Indrarajah (2026)]]; Nkrumah (1965) |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **架构塑造机制** | 协商一致原则塑造了以自愿和项目为基础的去中心化合作形态 | 东南亚多边治理、区域公共政策分析 | [[Argument_Chou_2017_PolSoc\|Chou and Ravinet (2017)]]; [[Argument_Dang_2017_ORE\|Dang (2017)]]; Koga (2010) |
+> | **主权隔离机制** | 通过机构功能平行并立阻断超国家集权侵蚀国家法定权力 | [[Comparative Regionalism\|比较区域主义]]、行政权力防卫制度设计 | [[Argument_Chou_2017_PolSoc\|Chou and Ravinet (2017)]]; Narine (2008) |
+> | **去殖民重塑机制** | 消极不干涉的离散效应加剧外部依附，需依托本土哲学转向主动互助 | 高等教育去殖民化、地缘政治与区域公共治理 | [[Argument_Indrarajah_2026_NJCIE\|Indrarajah (2026)]]; Nkrumah (1965) |
 
 ---
 

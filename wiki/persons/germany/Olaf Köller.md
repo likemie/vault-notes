@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 33
+person_related_count: 34
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -63,6 +63,7 @@ related_facts:
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Koller_2014_WhatWorks]]"
+  - "[[Argument_Brugelmann_2014_LocalPractice]]"
 confidence: high
 status: completed
 created: 2026-11-24
@@ -129,6 +130,12 @@ updated: 2026-11-25
 > - **项目协同** [[Ulrich Trautwein]] — 长期学术伙伴，共同研究[[Homework|家庭作业]]机制与大规模中学生追踪。
 > - **同行学者** [[Ewald Terhart]] — 研讨集主编，共同反思[[Empirische Unterrichtsforschung|实证教学研究]]与欧陆教学论的结合路径。
 > - **学术对话** [[John Hattie]] — 评析其二阶[[Meta-analysis|元分析]]数据，将其置于德语区经验研究与国际[[Evidence Network|证据网络]]中重新审视。
+> - **学术争鸣** [[Andreas Helmke]]、Hans Brügelmann — 在引述哈蒂元分析评估开放教学成效上产生论辩，后者批判其忽视底层英语文献历史滞后与组内方差离散度。
+
+---
+
+> [!critique] 批评索引
+> - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014)]] — 审读其关于开放教学缺乏实证成效的定性（Köller, 2012a），指出其单纯依据哈蒂元分析低均值而忽视了底层文献的历史陈旧滞后、组内方差离散度以及指标体系内部的自相矛盾（pp. 44–45）。
 
 ---
 

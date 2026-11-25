@@ -1545,6 +1545,18 @@
     {
       "sentence": "同时须针对每个学习群体定期开展全面、分化的经验学习诊断，以确定班级层面的预期学习成效基准。",
       "target": "wiki/concepts/educational-philosophy/Experiential Learning.md"
+    },
+    {
+      "sentence": "**教学进程中的学习** 教师应向学生传授多元学习策略，并依循新手、胜任与精通三个水平提供差异化学习路径；策略选择须受实证效应证据引导，并服务于元认知反思与自我调节学习。",
+      "target": "wiki/concepts/educational-philosophy/Alienation.md"
+    },
+    {
+      "sentence": "*To encourage teachers to adopt some of the 'theories of practice' outlined in this book requires not lecturing or hectoring them, but starting with listening to these theories of practice, and then seeing how their own theories can be modified or enhanced to consider the fundamental message about them knowing their impact – as the starting point for having theories (not the end point).*",
+      "target": "wiki/concepts/instruction-pedagogy/Lecturing.md"
+    },
+    {
+      "sentence": "将循证教学论置于四百年一般教学论传统与当代学科知识论框架下检验，可见其在理论涵盖面上高度受限，在科学观上流于社会技术主义，且回避了成熟教学论必须回答的三项根本问题。",
+      "target": "wiki/concepts/curriculum/Theory of Knowledge.md"
     }
   ]
 }
