@@ -55,14 +55,14 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-11-15
+updated: 2026-11-26
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 爱尔兰人文地理学家与空间信息学者，梅努斯大学（Maynooth University）社会科学研究所（Maynooth University Social Sciences Institute, MUSSI）教授、欧洲研究理事会（[[Engineering Research Centers|ERC]]）高级研究员。
-> - **核心角色** 批判性数据研究（Critical Data Studies, [[Critical Discourse Analysis|CDS]]）与智慧城市／空间[[Data Infrastructure\|数据基础设施]]研究的奠基者与领军人物；提出并系统化了数据汇聚体（Data [[Assemblage]]）理论框架，开创了从[[Ontology\|本体论]]、物质性、政治经济学与技术政治维度解剖数字基础设施的分析路径。
+> - **核心角色** 批判性数据研究（Critical Data Studies, [[Critical Discourse Analysis|CDS]]）与智慧城市／空间[[Data Infrastructure\|数据基础设施]]研究的开创者与领军人物；提出并系统化了数据汇聚体（Data [[Assemblage]]）理论框架，开创了从[[Ontology\|本体论]]、物质性、政治经济学与技术政治维度解剖数字基础设施的分析路径。
 > - **代表贡献** 奠定批判性数据研究理论纲领，出版里程碑著作《数据革命》（*The Data Revolution*）；提出数据是深深嵌入社会-技术装配中的建构物，打破了“数据纯净客观”的预设；其概念分析[[Paradigm\|范式]]被广泛引入教育社会学、公共治理与算法监测批判研究。
 
 > [!citation-card] 基钦论数据的建构性与数据汇聚体
@@ -116,7 +116,7 @@ updated: 2026-11-15
 
 ---
 
-> [!citation-card] 学界论基钦对批判性数据研究的奠基性贡献
+> [!citation-card] 学界论基钦对批判性数据研究的开创性贡献
 > 基钦敏锐地捕捉到了大数据浪潮背后的[[Epistemology\|认识论]]陷阱，通过建立严密的[[Data Infrastructure\|数据汇聚体]][[Analytic Framework\|分析框架]]，将关于数据的探讨从单纯的计算机科学与量化统计抽离出来，重置为当代批判社会理论与政治经济学的核心议程。
 >
 > *Rob Kitchin provided the foundational conceptual vocabulary for Critical Data Studies, transforming data from an unproblematic resource into an object of profound sociotechnical and political inquiry.*

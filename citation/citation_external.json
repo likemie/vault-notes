@@ -13430,6 +13430,8 @@
     "Jones, 2020": "Jones, 2020a",
     "Jones, 2020a": "Jones, 2020b",
     "Jones, 2020b": "Jones, 2020b",
+    "Jong (2026)": "Jong, 2026",
+    "Jong, 2026": "Jong, 2026",
     "Jongsma et al. (2023)": "Jongsma et al., 2023",
     "Jongsma et al., 2023": "Jongsma et al., 2023",
     "Jonsson et al. (2015)": "Jonsson et al., 2015",
@@ -128840,6 +128842,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "The Results of a Randomized Control Trial Evaluation of the SPARK Literacy Program  An Innovative Approach that Pairs One-on-One Tutoring with Family Engagement"
+    },
+    "Jong, 2026": {
+      "aliases": [
+        "Jong, 2026",
+        "Jong (2026)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Jong, 2026"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/political-economy-geopolitics/Bureaucracy.md"
+      ],
+      "title": ""
     },
     "Jongsma et al., 2023": {
       "aliases": [

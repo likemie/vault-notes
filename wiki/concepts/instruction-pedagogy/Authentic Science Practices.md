@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-11-03
+updated: 2026-11-26
 ---
 
 ---
@@ -155,7 +155,7 @@ updated: 2026-11-03
 ---
 
 > [!dev-timeline] 真实科学实践概念的学术演变脉络
-> - **2002 — [[Epistemology|认识论]]批判与奠基** Chinn & Malhotra 发表经典论文《Authentic Inquiry in the Classroom》，正式确立真实科学探究与传统学校实验的认识论对比框架。
+> - **2002 — [[Epistemology|认识论]]批判与框架确立** Chinn & Malhotra 发表经典论文《Authentic Inquiry in the Classroom》，正式确立真实科学探究与传统学校实验的认识论对比框架。
 > - **2006 — 建模与社会实践转向** Lehrer & Schauble 及 Ford & Forman 推动科学教育从孤立技能训练转向“参与科学实践（Engaging in Scientific Practices）”与模型建构。
 > - **2012–2013 — 政策标准确立与八大实践规范化** 美国国家研究理事会（[[National Research Council|NRC]]）发布《K-12 科学教育框架》，随后《下一代科学标准》（NGSS）正式确立涵盖提问、建模、调查、论辩等在内的八项核心科学与工程实践（SEPs）。
 > - **2015–2018 — 不确定性与[[Epistemic Agency|认识能动性]]深化** Manz、Miller 与 Stroupe 等学者深入探讨如何在真实课堂中驾驭[[Scientific Uncertainty|科学不确定性]]并落实学生的认识能动性。

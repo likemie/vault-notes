@@ -8,7 +8,7 @@ cssclasses:
   - person-page
 nationality: "germany"
 person_region: "germany"
-person_related_count: 31
+person_related_count: 32
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Demonstration Effect]]"
   - "[[Boundary Spanner]]"
   - "[[Alienation]]"
+  - "[[Horizontal Coordination]]"
   - "[[Critical Thinking Disposition]]"
   - "[[Dialogue in Education]]"
 related_theories: []
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-15
+updated: 2026-11-26
 ---
 
 ---
@@ -85,7 +86,7 @@ updated: 2026-11-15
 > - **2003** 获英国牛津大学与德国柏林自由大学联合培养政治学博士学位，专注研究非政府组织在联合国的制度化参与。
 > - **2005–2009** 在不来梅大学“国家转型”（TranState）特种研究领域（SFB 597）担任高级研究员，主持[[OECD\|经合组织]]对民族国家教育政策影响的跨国比较项目。
 > - **2010** 与 Ansgar Weymann 等合著出版《经合组织治理机制：国家决策的国际激励？》（*Mechanisms of OECD Governance*，牛津大学出版社）。
-> - **2013** 与丹尼斯·尼曼（Dennis Niemann）在《比较教育评论》（*Comparative Education Review*）发表奠基性论文《[[Soft Power by Hard Facts\|以硬事实施展软权力]]：经合组织、[[PISA]] 与教育治理》（*[[Soft Power]] by Hard Facts*）。
+> - **2013** 与丹尼斯·尼曼（Dennis Niemann）在《比较教育评论》（*Comparative Education Review*）发表开创性论文《[[Soft Power by Hard Facts\|以硬事实施展软权力]]：经合组织、[[PISA]] 与教育治理》（*[[Soft Power]] by Hard Facts*）。
 > - **2018** 升任德国科学基金会 SFB 1342“全球社会政策动态”子项目 A05（全球教育[[Policy Network\|政策网络]]）首席科学家，依托战争关联（COW）数据库对全球 495 个国际组织展开全域检索并识别出涉教 20 大核心多边组织，构建全球 IO-ED 组织数据库。
 > - **2024** 与吉塔·施泰纳-哈姆西、[[Christian Ydesen\|克里斯蒂安·伊德森]]合作发表《[[Governing by Numbers\|数字治理]] 2.0》（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al., 2024]]），系统阐发[[Policy Brokerage\|政策中介]]作为全球治理工具的理论议程。
 
@@ -146,7 +147,7 @@ updated: 2026-11-15
 > > [!axis] 使命性嵌入是功能扩张还是组织[[Alienation|异化]]
 > > 争论非专门组织涉足教育究竟是跨学科综合治理的进步，还是损害教育专业特质的帝国式僭越。
 > >
-> > - **自由制度主义者** 认为经济与安全组织关注教育有助于打破部门壁垒，推动跨部门协同投资。
+> > - **自由制度主义者** 认为经济与安全组织关注教育有助于打破部门壁垒，推动[[Horizontal Coordination|跨部门协同]]投资。
 > > - **Martens et al.（2024）** 警示非专门组织往往将教育降格为经济产出或劳动力补充工具，严重侵蚀了教育培养健全公民与[[Critical Thinking Disposition\|批判精神]]的公共性根基。
 
 > [!warning] 未解问题与边界
@@ -161,7 +162,7 @@ updated: 2026-11-15
 > | [[Soft Power by Hard Facts]] | 概念 | 核心开创者，建立量化硬事实转换为软性规制权力的理论[[Analytic Framework\|分析框架]]。 |
 | [[Cognitive Authority]] | 概念 | 理论应用者，将认知权威构念引入全球教育多边治理与软治理机制分析。 |
 > | [[Education-for-Mandates]] | 概念 | 提出者与数据库主持人，揭示非专门国际组织跨界干预教育的使命嵌入机制。 |
-> | [[Policy Brokerage]] | 概念 | 理论奠基者之一，剖析国际组织作为政治化政策中介的运转逻辑。 |
+> | [[Policy Brokerage]] | 概念 | 理论开创者之一，剖析国际组织作为政治化政策中介的运转逻辑。 |
 > | [[Façade of Rationality]] | 概念 | 关键[[Dialogue in Education\|对话]]者，论证数字指标如何为充满歧义性的政策行动搭建理性外衣[[Scaffolding\|脚手架]]。 |
 > | [[OECD]] | 机构 | 核心剖析对象，系统揭示其软治理机制在成员国引发的政策重构。
 > | University of Bremen | 机构 | 长期科研根据地，汇聚全球顶尖社会政策比较学者。

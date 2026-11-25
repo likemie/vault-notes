@@ -76,14 +76,14 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-11-25
+updated: 2026-11-26
 ---
 
 ---
 
 > [!person-profile] 学派档案
 > - **学术重镇与发源** 斯坦福大学社会学系与教育学院（Stanford University），发轫于 20 世纪 70 年代，为社会学新制度主义（Sociological Institutionalism）与世界社会研究的学术大本营。
-> - **领军人物与代表学者** 奠基领袖为[[John W. Meyer|约翰·迈耶]]（John W. Meyer）；核心学者包括布赖恩·罗恩（Brian Rowan）、弗朗西斯科·拉米雷斯（Francisco O. Ramirez）、约翰·博利（John Boli）、乔治·托马斯（George M. Thomas）；后继学者涵盖戴维·贝克（David P. Baker）、阿伦·[[Aaron Benavot|贝纳沃特]]（Aaron Benavot）、帕特丽夏·布罗姆利（Patricia Bromley）与戴维·约翰·弗兰克（David John Frank）等。
+> - **领军人物与代表学者** 创始领袖为[[John W. Meyer|约翰·迈耶]]（John W. Meyer）；核心学者包括布赖恩·罗恩（Brian Rowan）、弗朗西斯科·拉米雷斯（Francisco O. Ramirez）、约翰·博利（John Boli）、乔治·托马斯（George M. Thomas）；后继学者涵盖戴维·贝克（David P. Baker）、阿伦·[[Aaron Benavot|贝纳沃特]]（Aaron Benavot）、帕特丽夏·布罗姆利（Patricia Bromley）与戴维·约翰·弗兰克（David John Frank）等。
 > - **核心研究纲领** 突破传统社会科学中的技术功能论（效率[[Determinism|决定论]]）与经济冲突论（阶级支配论），主张现代民族国家组织与大众教育体系由超越国界的启蒙理性“[[Cultural Models|世界文化模型]]”与合法性仪式塑造而成，超越了纯粹微观生产力协调的解释；揭示普世规范扩散中的非强制同构与政策去耦合机制。
 > - **代表性理论贡献** 创立[[World Society Theory|世界社会理论]]与组织社会学新制度主义；提炼出[[Institutional Isomorphism|制度同构]]、[[Rationalized Myth|制度神话]]与仪式、结构去耦合（Structural decoupling）、他者性与无私代理、[[Organizational Actorhood|组织行动者身份]]（Organizational Actorhood）等奠基性构件。
 
@@ -121,8 +121,8 @@ updated: 2026-11-25
 ---
 
 > [!person-network] 学术网络与师承
-> - **学派奠基旗手** [[John W. Meyer|约翰·迈耶]]（John W. Meyer） — 斯坦福大学社会学系荣休教授，学派灵魂人物与核心理论提出者。
-> - **核心骨干学者** 弗朗西斯科·拉米雷斯（Francisco O. Ramirez，[[Transnational Education|跨国教育]]大纲与大学社会学研究权威）、约翰·博利（John Boli，世界体系跨国非政府组织研究权威）、布赖恩·罗恩（Brian Rowan，组织社会学制度主义奠基学者）、乔治·托马斯（George M. Thomas）。
+> - **学派创始旗手** [[John W. Meyer|约翰·迈耶]]（John W. Meyer） — 斯坦福大学社会学系荣休教授，学派灵魂人物与核心理论提出者。
+> - **核心骨干学者** 弗朗西斯科·拉米雷斯（Francisco O. Ramirez，[[Transnational Education|跨国教育]]大纲与大学社会学研究权威）、约翰·博利（John Boli，世界体系跨国非政府组织研究权威）、布赖恩·罗恩（Brian Rowan，组织社会学制度主义开创学者）、乔治·托马斯（George M. Thomas）。
 > - **学术师承与学生梯队** 
 >   - [[Robert Arnove|罗伯特·阿诺夫]]（Robert Arnove） — 迈耶早期博士门生，后将[[Immanuel Wallerstein|沃勒斯坦]]世界体系与[[Dependency Theory|依附论]]视野融入比较教育，成为学派长期兼具同情与批判的学术对话者。
 >   - 戴维·贝克（David P. Baker）与阿伦·[[Aaron Benavot|贝纳沃特]]（Aaron Benavot） — 推进全球课程标准化与教育社会学大规模比较实证研究。

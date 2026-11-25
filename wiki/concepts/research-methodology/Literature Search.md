@@ -5,12 +5,12 @@ aliases:
   - 文献搜索
   - literature retrieval
   - searching for literature
-summary: "运用系统策略与数据库工具从多元渠道定位、筛选和获取相关研究文献的操作性环节（Creswell & Creswell, 2022; Cohen et al., 2011）；服务于理论框架构建与信效度奠基，数字化搜索与平衡前沿经典的知识热点架构显著拓宽了学术共同体记忆并促进重大突破（Wang & Barabási, 2021）。"
+summary: "运用系统策略与数据库工具从多元渠道定位、筛选和获取相关研究文献的操作性环节（Creswell & Creswell, 2022; Cohen et al., 2011）；服务于理论框架构建与信效度支撑，数字化搜索与平衡前沿经典的知识热点架构显著拓宽了学术共同体记忆并促进重大突破（Wang & Barabási, 2021）。"
 type: concept
 domain: "research-methodology"
-related_count: 97
-related_level: 9
-related_stars: "💎💎💎"
+related_count: 104
+related_level: 10
+related_stars: "💎💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - source/textbook
@@ -57,7 +57,7 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Publication Bias]]"
   - "[[Technical Rationality]]"
-  - "[[Concept Mapping]]"
+  - "[[Central Question]]"
   - "[[Data Infrastructure]]"
 related_methods:
   - "[[Literature Map]]"
@@ -70,6 +70,9 @@ related_methods:
   - "[[Bibliometric Analysis]]"
   - "[[Elite Interview]]"
   - "[[Qualitative Interview]]"
+  - "[[Documentary Analysis]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Research Synthesis]]"
   - "[[Record Linkage]]"
   - "[[Convenience Sampling]]"
 related_persons:
@@ -87,6 +90,7 @@ related_facts:
   - "[[World Bank]]"
   - "[[Open Knowledge Repository]]"
   - "[[British Educational Research Association]]"
+  - "[[European Education]]"
   - "[[PISA]]"
   - "[[Economic and Social Research Council]]"
   - "[[UNESCO Institute for Statistics]]"
@@ -107,6 +111,7 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[EPPI-Centre]]"
   - "[[SciSciNet]]"
+  - "[[Federal Institute for Vocational Education and Training]]"
 related_instruments:
   - "[[PRISMA]]"
 related_arguments:
@@ -118,12 +123,14 @@ related_arguments:
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_Lin_2023_SciData]]"
   - "[[Argument_Volmari_2025_CE]]"
+  - "[[Argument_Barrenechea_2023_JEC]]"
+  - "[[Argument_Hippach-Schneider_Rieder_2022_RCIE]]"
 related_theories:
   - "[[Human Capital Theory]]"
 confidence: high
 status: active
 created: 2026-06-21
-updated: 2026-11-20
+updated: 2026-11-26
 ---
 
 ---
@@ -211,7 +218,7 @@ updated: 2026-11-20
 > |---|---|
 > | [AERA](https://www.aera.net) | 美国教育研究协会，年会、期刊（AERJ, RER, EEPA 等）、研究网络 |
 > | [BERA](https://www.bera.ac.uk) | [[British Educational Research Association\|英国教育研究协会]]，年会、期刊（BERJ）、伦理指南 |
-> | [EERA](https://www.eera.ac.uk) | 欧洲教育研究协会，欧洲教育研究年会（ECER） |
+> | [EERA](https://www.eera.ac.uk) | [[European Education\|欧洲教育]]研究协会，欧洲教育研究年会（ECER） |
 > | [ACER](https://www.acer.edu.au) | 澳大利亚教育研究理事会，[[PISA]] 澳洲实施方、[[Evaluation Research\|评估研究]] |
 > | [SERA](https://www.sera.ac.uk) | 苏格兰教育研究协会，年会、网络 |
 > | [NFER](https://www.nfer.ac.uk) | 英国国家教育研究基金会，大规模教育评估与政策研究 |
@@ -371,7 +378,7 @@ updated: 2026-11-20
 ---
 
 > [!concept-proposition] 命题一｜文献检索是确立研究信效度与构建理论框架的逻辑起点
-> **论证推进与信效度奠基维度** 探讨文献检索如何从技术性资料收集上升为确立研究可[[Reliability|信度]]、效度与学术合法性的论证基石。
+> **论证推进与信效度支撑维度** 探讨文献检索如何从技术性资料收集上升为确立研究可[[Reliability|信度]]、效度与学术合法性的论证基石。
 
 > [!claim] [[Louis Cohen|Cohen, L.]], [[Lawrence Manion|Manion, L.]], & [[Keith Morrison|Morrison, K.]]
 > **文献检索服务于整套论证目的链条** 文献检索构成了研究论证链条的逻辑起点。通过系统检索与梳理已有文献，研究者为整个课题奠定[[Construct Validity|构念效度]]与[[Content Validity|内容效度]]基础，界定相关理论与实证领域的演进现状，明确关键术语与[[Variable|变量]]的界限，进而识别具有学术价值的研究空白。检索质量直接制约着[[Cumulative Innovation|后续研究]]设计的科学性与理论深度。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|(Cohen et al., 2011, Ch. 7, pp. 126–127)]]
@@ -406,14 +413,14 @@ updated: 2026-11-20
 > **知识搜索架构与前沿经典平衡维度** 探讨学者在文献检索与引用锚定时的时序分布策略对[[Research Impact|研究影响力]]的制约机制，阐明微观检索行为与宏观学术突破的关联。
 
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Wang, D. & Barabási, A.-L. (2021)]]
-> **前瞻平衡型检索策略与知识热点突破效应** 将文献检索范围局限于最近两到三年的最新热点（低平均年龄、低离散度），或全然深潜于多年前的历史文献（高平均年龄、低离散度），成果斩获高学术影响的几率均难以超越纯随机期望；唯有采取兼顾前沿与经典的“前瞻平衡型”检索策略（以知识前沿为基底，同时融合跨越数十年的奠基性经典），成果跻身领域前 5% 高被引突破的概率提高 2.2 倍以上。数字化搜索引擎与严格同行评议制度更进一步拓宽了文献检索视野，使沉睡数十年的经典文献检索与引用份额持续逆势攀升。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 200–204)]]
+> **前瞻平衡型检索策略与知识热点突破效应** 将文献检索范围局限于最近两到三年的最新热点（低平均年龄、低离散度），或全然深潜于多年前的历史文献（高平均年龄、低离散度），成果斩获高学术影响的几率均难以超越纯随机期望；唯有采取兼顾前沿与经典的“前瞻平衡型”检索策略（以知识前沿为基底，同时融合跨越数十年的开创性经典），成果跻身领域前 5% 高被引突破的概率提高 2.2 倍以上。数字化搜索引擎与严格同行评议制度更进一步拓宽了文献检索视野，使沉睡数十年的经典文献检索与引用份额持续逆势攀升。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 200–204)]]
 
 ---
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **论证与效度奠基** | 检索为项目奠定构念效度与理论基础，支撑学术合法性 | 研究方案设计、[[Literature Review\|文献综述]]开题 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al. (2011)]] |
+> | **论证与效度支撑** | 检索为项目奠定构念效度与理论基础，支撑学术合法性 | 研究方案设计、[[Literature Review\|文献综述]]开题 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al. (2011)]] |
 > | **知识空白识别** | 发现被忽略问题、矛盾结果与方法短板以确立[[Research Topic\|研究选题]] | 课题选题论证、学术前沿追踪 | [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]] |
 > | **检索边界制约** | 单一商业库与语言限制会导致非英语与发展中国家经验缺失 | 大规模系统文献综述、全球政策比较 | [[Argument_Verger_2019_Discourse\|Verger et al. (2019)]] |
 > | **智能代理分工** | 智能代理承担微观信息初筛，人类聚焦宏观理论与战略综合 | 智能科研工作流、人机共生学习 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] |
@@ -423,7 +430,7 @@ updated: 2026-11-20
 
 > [!dev-timeline] 概念演变
 > - **19 世纪–20 世纪中叶 — 印刷卡片目录与实体索引时代** 文献检索主要依赖图书馆实体卡片目录、印刷索引年鉴（如 Index Medicus）、研究生研究书目与学者间互助追溯。
-> - **1959–1967 — 静电复印普及与同行评议规范化** 静电复印技术普及大幅降低跨区域文献传播门槛，《自然》（Nature）等期刊推行专业同行评议，促使学者引用行为规范化与历史奠基文献系统追溯。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 203–204)]]
+> - **1959–1967 — 静电复印普及与同行评议规范化** 静电复印技术普及大幅降低跨区域文献传播门槛，《自然》（Nature）等期刊推行专业同行评议，促使学者引用行为规范化与历史经典文献系统追溯。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 203–204)]]
 > - **1966 — 计算机化专业数据库与布尔逻辑检索** 美国[[Education Resources Information Center|教育资源信息中心]]（ERIC）创设，计算机数据库与布尔操作符（AND, OR, NOT）成为系统检索的行业标准。
 > - **1990s–2000s — 网络学术搜索与引文[[Network Analysis|网络分析]]** Web of Science、Google Scholar、中国知网（CNKI）等在线平台普及，SSCI 引文追踪与关键词倒三角检索成为规范流程；算法将相关度置于首位，推动平均引文年龄逆势攀升。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 202–204)]]
 > - **2010s — 开放获取、系统综述规范与循证证据库** DOAJ 开放获取目录普及，[[PRISMA]] 系统综述规范与 [[What Works Clearinghouse|WWC]]、[[EPPI-Centre]] 等循证证据库确立了结构化文献检索与质量把关的行业标杆。
@@ -476,9 +483,9 @@ updated: 2026-11-20
 > |:-----|:-----|:-----|
 > | [[Literature Review]] | 概念 | 文献检索的下游论证环节，将检索获取的文献综合为结构化评述。 |
 > | [[Literature Map]] | 方法 | 梳理和可视化呈现检索所得文献逻辑脉络的方法工具。 |
-> | [[Inverted Triangle Literature Search]] | 概念 | 从宽泛学科背景向核心研究问题逐层收窄的文献检索递进策略。 |
-> | [[Documentary Analysis]] | 方法 | 依托检索获取的政策文本与历史档案开展质性编码与内容考证的研究方法。 |
-> | [[Systematic Review]] | 方法 | 依据严格预设方案与布尔检索语法开展证据综合的规范化研究方法。 |
+> | [[Inverted Triangle Literature Search]] | 概念 | 从宽泛学科背景向[[Central Question\|核心研究问题]]逐层收窄的文献检索递进策略。 |
+> | [[Documentary Analysis]] | 方法 | 依托检索获取的政策文本与历史档案开展[[Coding in Qualitative Research\|质性编码]]与内容考证的研究方法。 |
+> | [[Systematic Review]] | 方法 | 依据严格预设方案与布尔检索语法开展[[Research Synthesis\|证据综合]]的规范化研究方法。 |
 > | [[Construct Validity]] | 概念 | 文献检索与既有研究对照所要奠定的核心测量效度基石。 |
 > | [[Generative Artificial Intelligence]] | 概念 | 介入自动化文献初筛与跨模态模式挖掘的新型技术载体。 |
 > | [[SciSciNet]] | 事实 | 支撑大规模全景学术文献与引文网络检索的开源科学学数据湖。 |
@@ -496,4 +503,4 @@ updated: 2026-11-20
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Wang and Barabási (2021)]] — 基于 2,800 万篇文献实证阐明兼顾前沿与经典的知识热点检索架构将突破概率提升 2.2 倍，揭示数字搜索引擎对学术记忆的拓展。
 > - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 比较北欧三国改革起草专家的文献搜寻实践，实证揭示紧迫周期与海量成果下客观文献检索的失效，以及人际关系网络和[[Convenience Sampling|便利抽样]]的主导地位。
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 结合数据库布尔检索、知名学者追踪、高引文献溯源与 PISA 增值前十国国别定向检索，展示多渠道互补的系统综述文献检索策略。
-> - [[Argument_Hippach-Schneider_Rieder_2022_RCIE|Hippach-Schneider and Rieder (2022)]] — 结合 Google Scholar、BIBB、ERIC 与 VOCED 等数据库检索 2016–2019 年政策文本与学术文献，建立主题群组与相关度分级。
+> - [[Argument_Hippach-Schneider_Rieder_2022_RCIE|Hippach-Schneider and Rieder (2022)]] — 结合 Google Scholar、[[Federal Institute for Vocational Education and Training|BIBB]]、ERIC 与 VOCED 等数据库检索 2016–2019 年政策文本与学术文献，建立主题群组与相关度分级。

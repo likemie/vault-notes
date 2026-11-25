@@ -2,7 +2,7 @@
 title: Cooperative, Competitive and Individualistic Learning
 aliases:
   - 合作、竞争与个体式学习
-summary: "戴维·约翰逊与罗杰·约翰逊基于目标互赖结构提出的三种合法课堂学习概念，区分协同达成、竞争胜出与个体独立三种教学组织取向，并在元分析比较中检验其对学业成就的相对效应量。"
+summary: "戴维·约翰逊与罗杰·约翰逊基于目标互赖结构界定的三种合法课堂学习取向，在肯定合作学习四维能力优势的同时保留竞争与个体学习的适应功能，并借助元分析量化比较其学业成就效应差异。"
 type: concept
 domain: "instruction-pedagogy"
 related_count: 7

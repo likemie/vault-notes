@@ -9,10 +9,10 @@ aliases:
 summary: "刻画高等教育与学术机构中从事科研基金申请、伦理合规审查、成果转化与项目推进的专业行政人员群体。他们多具备博士或高级学术训练背景，处于学术人员与基层行政之间的边界地带，通过邻近科研、学术转译与对学者的照料建立合法学术主体性，同时服从学术人员在知识生产中的核心地位。"
 type: concept
 domain: "higher-education"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 27
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - level/higher-education
   - theme/academic-profession
@@ -21,16 +21,24 @@ tags:
 related_concepts:
   - "[[Knowledge Exchange]]"
   - "[[Third Space Discourse]]"
-  - "[[Alt-Ac]]"
   - "[[Knowledge Production]]"
+  - "[[Alt-Ac]]"
   - "[[University Corporate Engagement Professional]]"
   - "[[Champ]]"
+  - "[[Institutional Review Board]]"
   - "[[Research Proposal]]"
+  - "[[Knowledge Mobilisation]]"
+  - "[[Research Universities]]"
+  - "[[Professional Support Staff]]"
+  - "[[Research Question]]"
+  - "[[Enabling Bureaucracy]]"
   - "[[Policy Translation]]"
+  - "[[Blended Professional]]"
   - "[[Theoretical Perspective]]"
   - "[[Academic Precarity]]"
   - "[[Discourse]]"
 related_theories:
+  - "[[Cycle of Credit]]"
   - "[[Davies' Subjectification Theory]]"
   - "[[Post-structuralism]]"
 related_methods:
@@ -43,16 +51,17 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_VanderKloet_Campisi_2023_JHEPM]]"
+  - "[[Argument_DeJong_2026_SHE]]"
 confidence: high
 status: draft
 created: 2026-11-25
-updated: 2026-11-25
+updated: 2026-11-26
 ---
 
 ---
 
 > [!def] Research Administrator
-> 科研管理人员（Research Administrator）指在高等教育机构或科研院所中，专门承担科研项目申报指导、预算编制、伦理审查、政策合规、[[Knowledge Exchange|知识交流]]与成果管理等职能的专业行政人员。在当代大学科层与科研复杂化背景下，该群体广泛由具备硕士或博士学位的学者型从业者构成，身处教学科研人员与通用行政人员之间的[[Third Space Discourse|第三空间]]，既深刻理解学科研究逻辑，又精通科层管理规程。[[Argument_VanderKloet_Campisi_2023_JHEPM|(Vander Kloet & Campisi, 2023, pp. 658–660)]]
+> 科研管理人员（Research Administrator）指在高等教育机构或科研院所中，专门承担科研项目申报指导、预算编制、伦理审查、政策合规、[[Knowledge Exchange|知识交流]]与成果管理等职能的专业行政人员。在当代大学科层与科研复杂化背景下，该群体广泛由具备硕士或博士学位的学者型从业者构成，身处教学科研人员与通用行政人员之间的[[Third Space Discourse|第三空间]]，既深刻理解学科研究逻辑，又精通科层管理规程[[Argument_VanderKloet_Campisi_2023_JHEPM|(Vander Kloet & Campisi, 2023, pp. 658–660)]]，并通过调控科研资源转化直接推动大学[[Knowledge Production|知识生产]][[Argument_DeJong_2026_SHE|(de Jong, 2026, pp. 1244–1250)]]。
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 标识大学内部围绕科研全流程提供专业化支撑、联结学术实践与科层规制的专业人员。
@@ -103,7 +112,7 @@ updated: 2026-11-25
 > **知识邻近性与意义建构** 阐明非教职科研管理者如何在不承担一手实证研究的前提下，通过参与课题构思、论证推演和学术转译，使自身智力劳动融入大学核心学术使命，抵御职业边缘化。
 
 > [!claim] [[Argument_VanderKloet_Campisi_2023_JHEPM|Vander Kloet and Campisi (2023)]]
-> **智力参与与邻近科研的合法性赋予** 玛丽·范德克洛特（Marie Vander Kloet）与凯特琳·坎皮西（Caitlin Campisi）通过[[Qualitative Interview|质性访谈]]发现，科研管理人员高度强调对重大[[Research Proposal|课题论证]]的智力介入。受访者通过充当掌握规则的“智能非专家”，将学者分散的构想打磨为符合国家资助标准的课题申请，在参与知识生产边缘的过程中体验到持续的智力挑战与学术成就感。受访者阿曼达（Amanda）将早期课题申报构思称为“与教授共同做白日梦的想象性工作”，梅根（Megan）则凭借专业素养直接负责撰写知识动员板块，甚至作为合作研究者列入重大课题。这一与科研活动的紧密邻近性，使他们成功将自身重构为大学学术生态中的合法主体。[[Argument_VanderKloet_Campisi_2023_JHEPM|(Vander Kloet & Campisi, 2023, pp. 664–667)]]
+> **智力参与与邻近科研的合法性赋予** 玛丽·范德克洛特（Marie Vander Kloet）与凯特琳·坎皮西（Caitlin Campisi）通过[[Qualitative Interview|质性访谈]]发现，科研管理人员高度强调对重大[[Research Proposal|课题论证]]的智力介入。受访者通过充当掌握规则的“智能非专家”，将学者分散的构想打磨为符合国家资助标准的课题申请，在参与知识生产边缘的过程中体验到持续的智力挑战与学术成就感。受访者阿曼达（Amanda）将早期课题申报构思称为“与教授共同做白日梦的想象性工作”，梅根（Megan）则凭借专业素养直接负责撰写[[Knowledge Mobilisation|知识动员]]板块，甚至作为合作研究者列入重大课题。这一与科研活动的紧密邻近性，使他们成功将自身重构为大学学术生态中的合法主体。[[Argument_VanderKloet_Campisi_2023_JHEPM|(Vander Kloet & Campisi, 2023, pp. 664–667)]]
 
 ---
 
@@ -119,7 +128,7 @@ updated: 2026-11-25
 > **资源管理与信用循环嵌入** 揭示科研管理人员在主体认同之外的功能性贡献，阐明其日常协商与规则转译如何实质改变学术产出进程。
 
 > [!claim] [[Argument_DeJong_2026_SHE|de Jong (2026)]]
-> **信用循环视阈下的科研管理四重实践机制** de Jong 对美国一所研究型大学包括 6 位院系科研管理人员在内的 22 名[[Professional Support Staff|专业支持人员]]开展质性访谈，依据扩展版[[Cycle of Credit|信用循环]]识别出科研管理直接推进知识产出的三条核心路径：在“促成转化发生”层面，系级科研管理者 Angela 会在引进新教师时于幕后争取足额启动经费与薪酬，院级科研管理者 Rowan 则充当[[Institutional Review Board|伦理审查委员会]]与学者间的转译桥梁，消除晦涩审批规程引发的启动停滞；在“塑造转化内容”层面，Louis 参与多校博士预科项目拓展弱势群体生源，使成长背景各异的研究者提出多元[[Research Question|研究问题]]并向政策和社会群体发声；在“提升转化速度”层面，曾任科研人员的 Monica 借助全国学术人脉核查同行高校前沿仪器配置，协助教师快速组织立项证据并加快院长室设备购置批复。这证明科研管理人员发挥着[[Enabling Bureaucracy|赋能型官僚制]]作用，与学术研究核心紧密联动。[[Argument_DeJong_2026_SHE|(de Jong, 2026, pp. 1244–1250)]]
+> **信用循环视阈下的科研管理四重实践机制** de Jong 对美国一所[[Research Universities|研究型大学]]包括 6 位院系科研管理人员在内的 22 名[[Professional Support Staff|专业支持人员]]开展质性访谈，依据扩展版[[Cycle of Credit|信用循环]]识别出科研管理直接推进知识产出的三条核心路径：在“促成转化发生”层面，系级科研管理者 Angela 会在引进新教师时于幕后争取足额启动经费与薪酬，院级科研管理者 Rowan 则充当[[Institutional Review Board|伦理审查委员会]]与学者间的转译桥梁，消除晦涩审批规程引发的启动停滞；在“塑造转化内容”层面，Louis 参与多校博士预科项目拓展弱势群体生源，使成长背景各异的研究者提出多元[[Research Question|研究问题]]并向政策和社会群体发声；在“提升转化速度”层面，曾任科研人员的 Monica 借助全国学术人脉核查同行高校前沿仪器配置，协助教师快速组织立项证据并加快院长室设备购置批复。这证明科研管理人员发挥着[[Enabling Bureaucracy|赋能型官僚制]]作用，与学术研究核心紧密联动。[[Argument_DeJong_2026_SHE|(de Jong, 2026, pp. 1244–1250)]]
 
 ---
 
@@ -133,7 +142,7 @@ updated: 2026-11-25
 ---
 
 > [!dev-timeline] 概念演变
-> - **2000s — 无形劳动力与第三空间的提出** 国际高等教育学者开始关注大学里处于学术与行政交叉地带的混合型专业人员，指出其作为无形劳动力的组织贡献。
+> - **2000s — 无形劳动力与第三空间的提出** 国际高等教育学者开始关注大学里处于学术与行政交叉地带的[[Blended Professional|混合型专业人员]]，指出其作为无形劳动力的组织贡献。
 > - **2010s — 专业化推进与学术边界争议** 随着科研资助竞争加剧与合规问责趋紧，科研管理逐步演变为具备独立职业伦理与准入标准的专门化职业，同时也引发了专任教师关于行政权力扩张的警惕。
 > - **2023 — 主体化[[Theoretical Perspective|理论视角]]下的科研管理主体建构** 范德克洛特与坎皮西引入主体化理论，揭示科研管理人员如何在逃避[[Academic Precarity|学术不稳定状态]]、邻近科研以及关照教师的过程中建构有意义的学术主体地位。[[Argument_VanderKloet_Campisi_2023_JHEPM|(Vander Kloet & Campisi, 2023)]]
 > - **2026 — 信用循环与科研资源管理贡献的实证阐明** de Jong 将关注重心从主体身份延伸至学术产出贡献，借助信用循环证实科研管理人员在启动支持、伦理转译、多元生源与设备批复上直接推动知识发展。[[Argument_DeJong_2026_SHE|(de Jong, 2026, pp. 1244–1250)]]

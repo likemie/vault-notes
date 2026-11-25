@@ -10,7 +10,7 @@ title: "Argument_Nielsen_2021_NordPsych"
 argument_key: "Argument_Nielsen_2021_NordPsych"
 argument_display_title: "Blind spots in visible learning: A critique of John Hattie as an educational theorist"
 argument_kind: "journal-article"
-argument_related_count: 71
+argument_related_count: 74
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Empiricism]]"
   - "[[Theoretical Standpoint]]"
+  - "[[Instructional Design]]"
   - "[[Constructivist Paradigm]]"
   - "[[Document]]"
   - "[[Self-Efficacy]]"
@@ -50,6 +51,8 @@ related_concepts:
   - "[[Teacher Expertise]]"
   - "[[Interaction Effect]]"
   - "[[Differentiated Instruction]]"
+  - "[[Social Economy]]"
+  - "[[Student Attitude]]"
   - "[[Discourse]]"
   - "[[Zone of Desired Effects]]"
   - "[[Evidence-Based Policy-Making]]"
@@ -106,7 +109,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-04'
-updated: 2026-11-19
+updated: 2026-11-26
 year: 2021
 doi: "10.1080/19012276.2021.1962731"
 citation_aliases:
@@ -187,7 +190,7 @@ citation_aliases:
 > | **数据地位** | 宣称元分析能够超越理论分歧，从数以千计的研究中无中介地提炼出普适的教育事实。 | 数据本身不会自发说话，拒绝反思理论预设会导致粗糙的[[Empiricism\|经验主义]]与教条化。 |
 > | **实践后果** | 追随者与政策制定者将《[[Visible Learning\|可见的学习]]》视作确凿无疑的事实指南。 | 隐藏理论假设剥夺了读者审查其前提的机会，将规范性判断误读为自然法则。 |
 
-隐匿[[Theoretical Standpoint|理论立场]]的直接后果，是使特定的心理学传统未经审视地主导其教学设计体系。
+隐匿[[Theoretical Standpoint|理论立场]]的直接后果，是使特定的心理学传统未经审视地主导其[[Instructional Design|教学设计]]体系。
 
 > [!phase] 行为主义思想谱系的历时性传递链条
 >
@@ -213,7 +216,7 @@ citation_aliases:
 > [!contrast-table] 哈蒂认识论归宿的学术争鸣辨析
 > | 辨析维度 | 罗默（Rømer, 2019）的判断：激进[[Constructivist Paradigm\|建构主义]] | 尼尔森等的澄清：技术理性与行为主义 |
 > |---|---|---|
-> | **理论来源考证** | 误读了早年[[Document\|文献]]对 Glaser 的引用，将其与激进建构主义奠基人 Glasersfeld 混为一谈。 | 确凿考证出哈蒂（Hattie, 1987）引用的是行为主义心理学代表人物罗伯特·格拉泽（[[Robert Glaser]]）。 |
+> | **理论来源考证** | 误读了早年[[Document\|文献]]对 Glaser 的引用，将其与激进建构主义创始人 Glasersfeld 混为一谈。 | 确凿考证出哈蒂（Hattie, 1987）引用的是行为主义心理学代表人物罗伯特·格拉泽（[[Robert Glaser]]）。 |
 > | **学习过程本质** | 认为哈蒂强调学习者主观封闭的心智建构。 | 证实哈蒂追求的是确定的外部刺激输入、目标行为输出与即时纠错反馈调节。 |
 > | **核心概念定位** | 将晚年使用的[[Self-Efficacy\|自我效能]]、自我调节视为建构主义证据。 | 指出哈蒂虽从认知论借用术语，但仅将其视作提高解决问题效率的可操纵技术手段。 |
 
@@ -242,8 +245,8 @@ citation_aliases:
 > [!case] 社会经济地位被剔除为调节变量引发的阶级盲教学思维
 > 哈蒂并未彻底忽略学生[[Socioeconomic Status|社会经济地位]]（Socioeconomic Status, SES），其单独计算了一个孤立的效应量 $d = 0.57$。但哈蒂明确宣布：**不将 SES 作为调节变量纳入对其他教学干预（如反馈、教学法）的分析中（Hattie, 2009, pp. x–xi; p. 7）**。
 > 
-> 哈蒂辩解称教师在学校内部无法改变学生的社会经济出身，因此教育研究应当只关注教师在课堂里能够改变的要素（pp. x–xi）。这一处理存在严重缺陷：
-> - **违背基本实证共识** [[OECD|经合组织]]（[[OECD]], 2005）的实证报告与斯诺克等（[[Argument_Snook_2009_NZJES\|Snook et al., 2009]]）证实，在决定学生学业技能、态度与动机的所有变异源中，家庭与社会阶级背景是最为关键的来源；
+> 哈蒂辩解称教师在学校内部无法改变学生的[[Social Economy|社会经济]]出身，因此教育研究应当只关注教师在课堂里能够改变的要素（pp. x–xi）。这一处理存在严重缺陷：
+> - **违背基本实证共识** [[OECD|经合组织]]（[[OECD]], 2005）的实证报告与斯诺克等（[[Argument_Snook_2009_NZJES\|Snook et al., 2009]]）证实，在决定学生学业技能、[[Student Attitude|态度]]与动机的所有变异源中，家庭与社会阶级背景是最为关键的来源；
 > - **正负数值转换掩盖结构劣势** 伯杰龙与里瓦尔（[[Argument_Bergeron_2017_MJE\|Bergeron & Rivard, 2017]]）指出，哈蒂习惯将指标转化为正向数值（$d = 0.57$），但对处于贫困与社会底层的学生而言，资本与资源的匮乏实质上构成的是 $-0.57$ 的结构性劣势；
 > - **阶级盲的政策后果** 将学生假设为均质无差别的白板（tabula rasa），断言存在一套能超越社会阶级而普适有效的纯技术干预，在客观上建构了一种**阶级盲教学思维（class-blind pedagogical thinking）**，用技术主义[[Discourse|话语]]掩盖并免除了社会结构不平等对学校教育的持续冲击。
 

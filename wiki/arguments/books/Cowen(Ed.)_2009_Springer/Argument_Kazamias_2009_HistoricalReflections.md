@@ -7,7 +7,7 @@ title: "Argument_Kazamias_2009_HistoricalReflections"
 argument_key: "Argument_Kazamias_2009_HistoricalReflections"
 argument_display_title: "Comparative education: Historical reflections"
 argument_kind: "book-chapter"
-argument_related_count: 93
+argument_related_count: 95
 argument_related_level: 9
 argument_related_stars: "💎💎💎"
 argument_related_color: "#fecdd3"
@@ -61,6 +61,7 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Transnational Education]]"
   - "[[Social Regime]]"
+  - "[[Student Attitude]]"
   - "[[Nationalism]]"
   - "[[Liberal Education]]"
   - "[[Causality]]"
@@ -79,6 +80,7 @@ related_concepts:
   - "[[Learnology]]"
   - "[[Alienation]]"
   - "[[Intangible Spiritual Forces]]"
+  - "[[Regionness]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[World-Systems Theory]]"
@@ -137,12 +139,12 @@ sources:
 part_of: "[[Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-10-01
-updated: 2026-11-19
+updated: 2026-11-26
 ---
 ---
 
 > [!question]
-> 比较教育学自 18 世纪末[[Enlightenment|启蒙运动]]奠基以来，历经准科学实证、行政[[Educational Meliorism|改良主义]]、历史-哲学人文主义、战后经验实证科学化以及批判冲突[[Paradigm|范式]]的多重代际演进，其知识形态与[[Epistemology|认识论]]核心发生了怎样的流变？在世纪之交面对多元范式并存与实证技术至上的繁荣表象时，学科究竟付出了何种认识论与方法论代价？（pp.139–140, 155–156）
+> 比较教育学自 18 世纪末[[Enlightenment|启蒙运动]]兴起以来，历经准科学实证、行政[[Educational Meliorism|改良主义]]、历史-哲学人文主义、战后经验实证科学化以及批判冲突[[Paradigm|范式]]的多重代际演进，其知识形态与[[Epistemology|认识论]]核心发生了怎样的流变？在世纪之交面对多元范式并存与实证技术至上的繁荣表象时，学科究竟付出了何种认识论与方法论代价？（pp.139–140, 155–156）
 
 > [!claim] 核心主张
 > 比较教育学本质上是一门多学科交叉的人文科学（Human Science, *Vergleichende Erziehungswissenschaft*），表现为一种能够因应不同时代智识思潮、方法风尚与意识形态诉求而变换装束的[[Protean Episteme|普罗透斯式认识体系]]（Protean Episteme）；战[[Postpositivism|后实证主义]]对单一普遍规律与预测功能的狂热追求使学科陷入抽离情境的方法论主义，而在世纪之交多元范式扩张的表象之下，学科因近乎彻底抛弃历史维度而患上了严重的[[Historical Amnesia|历史健忘症]]（Historical Amnesia），亟需通过历史学与社会科学的理性综合重申比较史学的合法性与人文关怀。（pp.139–140, 147–149, 155–156）
@@ -244,7 +246,7 @@ updated: 2026-11-19
 
 > [!frames-ref] 萨德勒确立的文化情境分析原则
 > - **超越孤立考察学校的局限** 教育远远超出学校大门内的技术事务，必须将学校制度放在完整的社会背景中进行考察。
-> - **秉持设身处地的同情理解** 研究外国体系时不能凭本国偏见居高临下地评判优劣，而应以客观、包容的态度理解其运行的合理性。
+> - **秉持设身处地的同情理解** 研究外国体系时不能凭本国偏见居高临下地评判优劣，而应以客观、包容的[[Student Attitude|态度]]理解其运行的合理性。
 > - **探寻支撑学校运行的社会文化力量** 决定教育成败的核心因素深藏在学校之外的家庭、社区和传统之中，是不可捉摸、无形的心灵精神力量（intangible, impalpable spiritual force）；研究者必须探查民族生活的深层土壤。
 > - **以民族国家教育体系为整体研究单位** 明确将民族国家教育体系（National Systems of Education）确立为核心[[Unit of Analysis|分析单元]]。
 > - **通过理解外国教育反思本国制度** 认真研究外国教育制度的最高实践价值，在于帮助我们更深刻地看清并理解本国教育的优势与不足。
@@ -441,7 +443,7 @@ updated: 2026-11-19
 ---
 
 > [!warning] 自述局限
-> 卡扎米亚斯自述该文是一篇具有宏观历史哲学与理论反省性质的个人学术自白（Personal Testament），侧重于梳理比较教育[[Discourse|话语]]的“代际”与“类型”，并未穷尽微观具体国家教育系统内部的个案差异与全部制度细节；对英国与北美比较教育学术脉络的侧重反映了其自身的学术生涯履历，对非英语世界的某些区域性历史脉络未能予以均等篇幅展开。（pp.139–140, 151, 155–156）
+> 卡扎米亚斯自述该文是一篇具有宏观历史哲学与理论反省性质的个人学术自白（Personal Testament），侧重于梳理比较教育[[Discourse|话语]]的“代际”与“类型”，并未穷尽微观具体国家教育系统内部的个案差异与全部制度细节；对英国与北美比较教育学术脉络的侧重反映了其自身的学术生涯履历，对非英语世界的某些[[Regionness|区域性]]历史脉络未能予以均等篇幅展开。（pp.139–140, 151, 155–156）
 
 ---
 

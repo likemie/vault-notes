@@ -5,16 +5,16 @@ aliases:
   - 伯恩斯坦
   - Bernstein, B.
   - Basil B. Bernstein
-summary: "英国当代教育社会学与社会语言学奠基理论家，开创语言代码理论、知识分类与框架、教育话语装置、横向知识结构与弱语法理论，从结构与权力视角深刻批判微观互动论对不平等再生产的忽视。"
+summary: "英国当代教育社会学与社会语言学开创性理论家，开创语言代码理论、知识分类与框架、教育话语装置、横向知识结构与弱语法理论，从结构与权力视角深刻批判微观互动论对不平等再生产的忽视。"
 type: person
 cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 49
-person_related_level: 4
-person_related_stars: "💎⭐"
-person_related_color: "#fce7f3"
+person_related_count: 52
+person_related_level: 5
+person_related_stars: "💎⭐⭐"
+person_related_color: "#ffedd5"
 born: "1924"
 died: "2000"
 lifespan: "1924–2000"
@@ -49,14 +49,16 @@ related_concepts:
   - "[[Habitus]]"
   - "[[Determinism]]"
   - "[[Curricular Form]]"
+  - "[[Didaktik]]"
+  - "[[Sacred and Profane Knowledge]]"
 related_theories:
+  - "[[Bernstein's Theory of Pedagogic Codes]]"
   - "[[Phenomenology]]"
   - "[[Thomas Theorem]]"
   - "[[Social Realism]]"
   - "[[Curriculum Design Coherence Model]]"
   - "[[Radical Constructivism]]"
   - "[[Critical Theory]]"
-  - "[[Bernstein's Theory of Pedagogic Codes]]"
 related_methods:
   - "[[Discourse Analysis]]"
   - "[[Analytic Framework]]"
@@ -75,6 +77,7 @@ related_arguments:
   - "[[Argument_Cowen_2023_CE]]"
   - "[[Argument_McPhail_2023_JCS]]"
   - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
+  - "[[Argument_Lim_2013_APJE]]"
   - "[[Argument_Lim_2015_CurricInq]]"
 related_facts:
   - "[[NZ Curriculum Refresh 2021-2026]]"
@@ -82,7 +85,7 @@ related_facts:
 confidence: high
 status: stable
 created: 2026-05-23
-updated: 2026-11-19
+updated: 2026-11-26
 ---
 
 ---
@@ -90,7 +93,7 @@ updated: 2026-11-19
 > [!person-profile] 人物档案
 > - **身份位置** 英国（1924–2000），伦敦大学教育学院（IOE）社会学荣休讲座教授（Karl Mannheim Chair），20 世纪下半叶[[International Education|国际教育]]社会学界的核心理论家与社会语言学先驱。
 > - **核心角色** 在涂尔干宏观[[Positivism|实证主义]]、结构主义与微观互动论之间构建符号控制理论桥梁；既是教育知识社会学的开创宗师，又是微观[[Interpretivism|诠释主义]]“去权力化”情境协商与[[Empiricism|经验主义]]贫乏倾向的深刻批判者。
-> - **代表贡献** 提出限制代码与精致代码理论；奠定教育知识的分类与框架理论；确立[[Regulative and Instructional Discourse\|规约性话语与教学性话语]]的[[Recontextualization\|再脉络化]]（[[Recontextualization]]）机制；提出学科领域的[[Horizontal Knowledge Structure\|横向知识结构]]并预见[[Totally Pedagogised Society\|全盘教育化社会]]趋势。
+> - **代表贡献** 提出限制代码与精致代码理论；奠定教育知识的[[Bernstein's Theory of Pedagogic Codes|分类与框架理论]]；确立[[Regulative and Instructional Discourse\|规约性话语与教学性话语]]的[[Recontextualization\|再脉络化]]（[[Recontextualization]]）机制；提出学科领域的[[Horizontal Knowledge Structure\|横向知识结构]]并预见[[Totally Pedagogised Society\|全盘教育化社会]]趋势。
 
 > [!citation-card] 教育知识选择、分类与传播的权力本质
 > 一个社会如何选择、分类、分配、传递和评估它认为是公共的教育知识，反映的既是权力的分配也是社会控制的原则。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al., 2011, Ch. 2, p. 143; Bernstein, 1971, p. 47]]
@@ -101,7 +104,7 @@ updated: 2026-11-19
 
 > [!timeline] 生平与职涯
 > - **1924** 出生于英国伦敦东区工人阶级犹太移民家庭，底层成长经历奠定其对社会阶层、语言障碍与教育排斥机制的敏锐洞察。
-> - **1947–1951** 就读于伦敦政治经济学院（LSE）主修社会学，深受法国社会学奠基人埃米尔·涂尔干（Émile Durkheim）实证主义社会学传统的熏陶。
+> - **1947–1951** 就读于伦敦政治经济学院（LSE）主修社会学，深受法国社会学创始人埃米尔·涂尔干（Émile Durkheim）实证主义社会学传统的熏陶。
 > - **1954–1960** 在伦敦东区工人阶级男子走读学院任教，亲历工人阶级青年在主流正规教育体系中的系统性沟通挫折，启动语言代码实证调查。
 > - **1962–1990** 执教于伦敦大学教育学院（IOE），历任高级讲师、社会学讲座教授（Karl Mannheim Chair），创立社会学研究部并领导跨越数十年的社会学研究单元（Sociological Research Unit, SRU）。
 > - **1970** 在英国社会学会（BSA）达勒姆年会上发表《论教育知识的分类与框架》闭幕演讲，并在教育学界确立权威理论地位。[[Argument_Ball_2008_SR|Ball, 2008, p. 658]]
@@ -226,5 +229,5 @@ updated: 2026-11-19
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Lim_2013_APJE|Lim (2013)]] — 运用伯恩斯坦隐性教学理论批判新加坡小学均等化改革，揭示以儿童发展理论为依托的探究教学对工薪家庭施加的隐性门槛。
-> - [[Argument_Lim_2015_CurricInq|Lim and Apple (2015)]] — 将伯恩斯坦教学代码、分类与框架以及神圣与世俗知识理论作为核心分析框架，实证剖析新加坡中等教育思维课程与精英阶级再生产。
+> - [[Argument_Lim_2013_APJE|Lim (2013)]] — 运用伯恩斯坦隐性[[Didaktik|教学理论]]批判新加坡小学均等化改革，揭示以儿童发展理论为依托的探究教学对工薪家庭施加的隐性门槛。
+> - [[Argument_Lim_2015_CurricInq|Lim and Apple (2015)]] — 将伯恩斯坦教学代码、分类与框架以及神圣与[[Sacred and Profane Knowledge|世俗知识]]理论作为核心分析框架，实证剖析新加坡中等教育思维课程与精英阶级再生产。

@@ -33,6 +33,7 @@ related_concepts:
   - "[[Socratic Dialogue]]"
   - "[[Meno]]"
   - "[[Epistemology]]"
+  - "[[Socratic Irony]]"
   - "[[Rote Learning]]"
   - "[[Empiricism]]"
   - "[[Critical Thinking Disposition]]"
@@ -40,7 +41,6 @@ related_concepts:
   - "[[Automation Bias]]"
   - "[[Academic Freedom]]"
   - "[[Paradigm]]"
-  - "[[Dialogue in Education]]"
   - "[[Cultural Validity]]"
   - "[[Effective Teaching]]"
   - "[[Creativity]]"
@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-11-16
+updated: 2026-11-26
 ---
 
 ---
@@ -113,7 +113,7 @@ updated: 2026-11-16
 
 > [!theory-components] 苏格拉底哲学的四大核心构件
 > - **[[Examined Life|未经省察的生活不值得过]]与自知无知**
->   将每日审视自我与他人的美德确立为人类最崇高的事业；以著名的“苏格拉底式反讽（Socratic Irony）”宣示“我知道自己一无所知”，将承认无知作为摆脱虚假教条与追求真知的起点[[Argument_Li_2012_Cambridge|(Li, 2012, p. 31)]]。
+>   将每日审视自我与他人的美德确立为人类最崇高的事业；以著名的“[[Socratic Irony|苏格拉底式反讽]]（Socratic Irony）”宣示“我知道自己一无所知”，将承认无知作为摆脱虚假教条与追求真知的起点[[Argument_Li_2012_Cambridge|(Li, 2012, p. 31)]]。
 > - **精神[[Socratic Dialogue|助产术]]（Maieutics）的角色定位**
 >   哲学教师本人不生产智慧，如同年老不能生育的接生婆；其职责在于凭借精湛的诘问技艺，检验学习者头脑中孕育的是虚妄的偏见还是健全的思想，并协助其将深埋于灵魂内的真知顺利分娩出来。
 > - **由表象例证逼向本质定义的形式追求**
@@ -154,7 +154,7 @@ updated: 2026-11-16
 > - **跨国／跨领域传播** 在中西比较视域下，苏格拉底与[[Confucius|孔子]]构成了人类古代轴心文明互为镜像的至圣先师[[Argument_Li_2012_Cambridge|(Li, 2012, p. 164 脚注 2)]]；在当代人工智能教育技术中，纳伊姆通过解构其几何诱导的收敛预设缺陷，推动了智能导师从苏格拉底式向心理治疗式交互[[Paradigm|范式]]的现代转型[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 280–281)]]。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Li_2012_Cambridge|Li (2012)]] — 系统挖掘苏格拉底作为西方学习传统“省察生活”与“心智奇迹”两大维度的奠基人，对比其向外追问真知与孔子向内修养人格的文明差异。
+> - [[Argument_Li_2012_Cambridge|Li (2012)]] — 系统挖掘苏格拉底作为西方学习传统“省察生活”与“心智奇迹”两大维度的开创者，对比其向外追问真知与孔子向内修养人格的文明差异。
 
 ---
 

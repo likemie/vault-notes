@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-15
+updated: 2026-11-26
 ---
 
 ---
@@ -166,7 +166,7 @@ updated: 2026-11-15
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Global Education Governing Complex]] | 概念 | 提出者与理论架构奠基人，阐明战后跨国教育治理权力网络的形成。 |
+> | [[Global Education Governing Complex]] | 概念 | 提出者与理论架构开创者，阐明战后跨国教育治理权力网络的形成。 |
 > | [[Soft Power by Hard Facts]] | 概念 | 核心发展者，剖析 [[OECD]] 如何以量化硬事实施展认知性[[Soft Power\|软权力]]。 |
 > | [[1960 Bellagio Conference]] | 事实 (峰会) | 史学发掘与关键定性者，确立其作为战后危机动员三部曲起点的定位。 |
 > | [[1964 UNESCO-World Bank Cooperative Agreement]] | 事实 (政策) | 核心史学分析者，解构[[World Bank\|世界银行]]借信贷评估取代[[UNESCO\|教科文组织]]领导权的历史节点。 |

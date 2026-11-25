@@ -6,7 +6,7 @@ aliases:
   - 施尼
   - Schnee, J. E.
   - Jerome Schnee
-summary: "美国著名产业经济学与科技政策学者，哥伦比亚大学与罗格斯大学管理学教授；1978年在《Research Policy》发表奠基性论文，率先构建经济、技术与人力资本三维分析框架，系统揭示政府采购确定性需求与学习经济对战后半导体与计算机产业崛起的塑造机制。"
+summary: "美国著名产业经济学与科技政策学者，哥伦比亚大学与罗格斯大学管理学教授；1978年在《Research Policy》发表开创性论文，率先构建经济、技术与人力资本三维分析框架，系统揭示政府采购确定性需求与学习经济对战后半导体与计算机产业崛起的塑造机制。"
 type: person
 cssclasses:
   - person-page
@@ -56,14 +56,14 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-11-19
+updated: 2026-11-26
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代著名管理学家与产业经济学者，曾任哥伦比亚大学商学院副教授、罗格斯大学（Rutgers University）管理学院教授及系主任。
-> - **核心角色** 战后科技政策、产业技术变迁与公共研发评估领域的奠基性实证学者之一，开创了评估大型公共工程如何通过需求侧与[[Human Capital Theory|人力资本]]机制塑造高技术产业竞争格局的分析[[Paradigm|范式]]。
+> - **核心角色** 战后科技政策、产业技术变迁与公共研发评估领域的开创性实证学者之一，开创了评估大型公共工程如何通过需求侧与[[Human Capital Theory|人力资本]]机制塑造高技术产业竞争格局的分析[[Paradigm|范式]]。
 > - **代表贡献** 提出并实证论证[[Assured Demand|确定性需求]]（Assured Demand）与微观[[Learning Economy|学习经济]]结合促进高技术产业腾飞的理论模型；系统阐述[[Technological Conservatism in Mission Programs|使命项目中的技术保守主义]]张力；定量考据[[Bell Labs|贝尔实验室]] 15 家衍生企业网络与跨企业人才流动机制。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 2–24)]]
 
 ---
@@ -92,7 +92,7 @@ updated: 2026-11-19
 ---
 
 > [!influence-path] 影响路径
-> - **[[Demand-side Innovation Policy|需求侧创新政策]]奠基** 施尼关于[[Assured Demand|确定性需求]]与微观[[Learning Economy|学习经济]]结合的研究，直接启迪了[[David C. Mowery|大卫·C·莫厄里]]（[[David C. Mowery]]）与雅各布·埃德勒（Jakob Edler）关于[[Demand-side Innovation Policy|需求侧创新政策]]的系统建构。
+> - **[[Demand-side Innovation Policy|需求侧创新政策]]开创** 施尼关于[[Assured Demand|确定性需求]]与微观[[Learning Economy|学习经济]]结合的研究，直接启迪了[[David C. Mowery|大卫·C·莫厄里]]（[[David C. Mowery]]）与雅各布·埃德勒（Jakob Edler）关于[[Demand-side Innovation Policy|需求侧创新政策]]的系统建构。
 > - **[[Market Shaping and Creating|市场塑造]]与企业型国家实证源头** 施尼提供的战后半导体与计算机采购历史数据，成为[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（[[Mariana Mazzucato]]）等当代学者论证市场塑造与共创及批判[[Neoliberalism|新自由主义]][[Market Failure|市场失灵理论]]的关键实证基石。
 > - **[[Human Capital Theory|人力资本]]与衍生网络实证** 施尼对[[Bell Labs|贝尔实验室]] 15 家衍生企业的实证追踪，为[[Human Capital Theory|人力资本理论]]在微电子与硅谷创新网络中的具体化提供了经典经验案例。
 

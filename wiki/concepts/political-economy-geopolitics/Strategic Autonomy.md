@@ -8,7 +8,7 @@ aliases:
 summary: "国家或区域性政治联盟在国际地缘对抗与全球价值链断链风险下，通过强化本土关键制造产能、多元化供应链供应来源、管控核心技术流失以及减少对外部单一主导力量的非对称依赖，确保自主制定政策与防范外部经济胁迫的战略能力。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Modern Industrial Policy]]"
   - "[[Import Substitution Industrialisation]]"
-  - "[[Alienation]]"
   - "[[Policy Conditionalities]]"
 related_facts:
   - "[[Research in Schools Evaluation]]"
@@ -38,27 +37,27 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-06
-updated: 2026-11-15
+updated: 2026-11-26
 ---
 
 ---
 
 > [!def] Strategic Autonomy
-> **战略自主（Strategic Autonomy / 开放战略自主，Open Strategic Autonomy）** 指国家或超国家政治经济联盟在[[Geopolitics|地缘政治]]危机与全球供应链不确定性加剧的背景下，具备独立设定战略目标、保护关键经济安全命脉并抵御外部经济胁迫的制度化能力。该概念最初源于欧洲防务与外交政策[[Discourse|话语]]，随着新冠疫情冲击、大国经贸摩擦以及关键数字元器件短缺，迅速延伸至经济、科技与产业政策领域。在数字与半导体产业中，战略自主并不等同于退回完全的经济自给自足，是强调通过识别价值链全阶段的关键依赖，运用[[Modern Industrial Policy|现代产业政策]]培育本土研发与先进制造能力，同时构建多元化国际贸易伙伴网络，以在高度相互依存的全球体系中确立防御性与进攻性兼具的行动自由。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 2–3, 11–12)]]
+> **战略自主（Strategic Autonomy / 开放战略自主，Open Strategic Autonomy）** 指国家或超国家政治经济联盟在[[Geopolitics|地缘政治]]危机与全球供应链不确定性加剧的背景下，具备独立设定战略目标、保护关键经济安全命脉并抵御外部经济胁迫的制度化能力。该概念最初源于欧洲防务与外交政策[[Discourse|话语]]，随着新冠疫情冲击、大国经贸摩擦以及关键数字元器件短缺，迅速延伸至经济、科技与产业政策领域。在数字与半导体产业中，战略自主强调通过识别价值链全阶段的关键依赖，运用[[Modern Industrial Policy|现代产业政策]]培育本土研发与先进制造能力，同时构建多元化国际贸易伙伴网络，以在高度相互依存的全球体系中确立兼顾防御与开拓的行动自由。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 2–3, 11–12)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle]
 > - **含义** 指向主权实体在关键生产要素、前沿技术与关键基础设施上免于受制于单一地缘对手或不可控外部冲击的自主决断空间。
 > - **用途** 帮助政治经济学与国际关系学者解释主要工业经济体在半导体、关键矿产与清洁能源领域加速推行直接产业干预、限制技术外流及重组跨国供应链的深层动因。
-> - **边界** 不等于封闭自给自足（Autarky）；现代战略自主承认全球高度细分分工的客观现实，重点在于消除关键咽喉节点的非对称脆弱性。
+> - **边界** 区别于封闭自给自足（Autarky）；现代战略自主承认全球高度细分分工的客观现实，重点在于消除关键咽喉节点的非对称脆弱性。
 
-> [!citation-card] 地缘政治现实下的战略自主转向
+> [!citation-card|notitle]
 > 中国作为全球政治与经济超级大国的崛起，以及欧美之间特别是在唐纳德·特朗普（Donald Trump）执政期间不断加剧的紧张关系，已将战略自主问题推向大西洋两岸政策制定者的议程首位。虽然推动这一国家干预新行动主义的动因十分广泛，但半导体产业作为数字产业政策与绿色转型的核心支柱，已成为决策者最关键的战略关切。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 2–3)]]
 >
-> *The [[Research in Schools Evaluation|RISE]] of China as a global political and economic superpower and growing tensions between the United States and the [[EU]], especially during the Donald Trump Administration, have put the issue of strategic autonomy high on the agenda of policymakers on both sides of the Atlantic.*
+> *The [[Research in Schools Evaluation|rise]] of China as a global political and economic superpower and growing tensions between the United States and the [[EU]], especially during the Donald Trump Administration, have put the issue of strategic autonomy high on the agenda of policymakers on both sides of the Atlantic.*
 
 > [!boundary]- 概念边界
-> - **不等于 闭关自守与完全自给自足（Autarky）** 自给自足试图割断国际分工以实现全部产品内部生产，通常付出极高经济代价且在半导体等高固定成本产业中不可持续；战略自主致力于在开放分工体系中识别并化解单向卡脖子风险。
-> - **不等于 传统重商主义贸易顺差追求（Mercantilism）** 传统重商主义以积累货币财富和单纯扩大经常账户顺差为目的，战略自主以供应链韧性、关键技术控制力与防范外部地缘敲诈为核心导向。
+> - 不等于 闭关自守与完全自给自足（Autarky） — 自给自足试图割断国际分工以实现全部产品内部生产，通常付出极高经济代价且在半导体等高固定成本产业中不可持续；战略自主致力于在开放分工体系中识别并化解单向卡脖子风险。
+> - 不等于 传统重商主义贸易顺差追求（Mercantilism） — 传统重商主义以积累货币财富和单纯扩大经常账户顺差为目的，战略自主以供应链韧性、关键技术控制力与防范外部地缘敲诈为核心导向。
 
 ---
 
@@ -96,18 +95,32 @@ updated: 2026-11-15
 ---
 
 > [!concept-proposition] 命题一｜战略自主在开放分工体系下主要表现为针对关键咽喉断裂点的非对称控制力
-> **价值链依赖与咽喉控制** 探讨战略自主如何从传统的领土防务安全转向产业与价值链安全，强调自主性是来自对关键生产环节的控制或防御能力，有别于来自全产业链覆盖。
+> **价值链依赖与咽喉控制** 探讨战略自主如何从传统的领土防务安全转向产业与价值链安全，强调自主性源自对关键生产环节的控制或防御能力。
 
 > [!claim] [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]]
-> **价值链非对称依赖决定自主空间** 战略自主的实质是通过系统测度采矿、提纯、中间核心元器件与最终终端产品各阶段的净进出口贸易敞口，识别并化解单点故障咽喉，有别于追求全部工业产品的闭关自给。以半导体价值链为例，[[Taiwan Semiconductor Manufacturing Corporation|台湾积体电路制造公司]]（TSMC）独揽全球 92% 的尖端代工产能，而台积电又深度依赖荷兰 ASML 的光刻机制造设备；因此，美欧重塑战略自主的核心是针对各自在先进制程晶圆制造与原材料提纯上的致命软肋实施针对干预，有别于复制全套产业链。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 3–7)]]
+> **价值链非对称依赖决定自主空间** 战略自主的实质是通过系统测度采矿、提纯、中间核心元器件与最终终端产品各阶段的净进出口贸易敞口，识别并化解单点故障咽喉。以半导体价值链为例，[[Taiwan Semiconductor Manufacturing Corporation|台湾积体电路制造公司]]（TSMC）承担全球 92% 的尖端代工产能，同时高度依赖荷兰 ASML 的光刻机制造设备；因此，美欧重塑战略自主的核心是针对各自在先进制程晶圆制造与原材料提纯上的短板实施精准干预，重点消除核心节点的单向供应链脆弱性。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 3–7)]]
 
 ---
 
-> [!concept-proposition] 命题二｜超国家财政能力的匮乏将导致战略自主实践[[Alienation|异化]]为成员国间的内耗性恶性竞争
+> [!concept-proposition] 命题二｜超国家财政能力的匮乏将导致战略自主实践演变为成员国间的内耗性竞争
 > **多层级政体与产业政策财政基石** 探讨多层级政治联盟在推行战略自主时所面临的治理困境，分析缺乏中央集权财政预算如何扭曲政策工具并引发内部失衡。
 
 > [!claim] [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]]
 > **超国家财政缺位削弱自主战略效能** 现代产业战略的实施效能内生受制于政体的财政权力架构。在集权制国家（如美国），中央政府依托 527 亿美元直接拨款能够高效裁决投资优先级并施加全流程刚性附加条件；但在多层级联盟（如[[EU|欧盟]]），[[European Commission|欧洲联盟委员会]]缺乏独立税收与发债权能，在《[[European Chips Act|欧洲芯片法案]]》中仅能出资 33 亿欧元自有资金并退守为协调者角色。这种去中心化模式迫使战略自主过度依赖成员国国库资助与 [[Important Projects of Common European Interest|IPCEI]] 规则豁免，由于各成员国财力悬殊，绝大多数补贴流向德法等核心富裕国家，不仅破坏了欧洲单一市场的公平竞争环境，也难以调动足以同中美抗衡的统一产业合力。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–17)]]
+
+---
+
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **价值链咽喉控制** | 通过进出口净敞口测度定位供应链单点故障节点并实施精准干预 | 半导体、关键矿产与数字基础设施供应链分析 | [[Argument_Bulfone_2024_IAI\|Bulfone et al. (2024)]] |
+> | **政体财政制约** | 超国家财政能力缺位迫使补贴分散至成员国国库，诱发单一市场碎片化 | 欧盟多层级联盟战略自主与跨国产业补贴协调 | [[Argument_Bulfone_2024_IAI\|Bulfone et al. (2024)]] |
+
+---
+
+> [!dev-timeline] 概念演变
+> - **冷战后至 2010s — 欧洲防务与外交自主话语起源** 战略自主最初作为欧盟共同外交与安全政策核心术语提出，旨在提升欧洲在防务安全事务中的独立行动能力（[[Argument_Bulfone_2024_IAI|Bulfone et al., 2024, p. 2]]）。
+> - **2020s 至今 — 向半导体与产业供应链延伸的开放战略自主** 伴随新冠疫情断链冲击与大国经贸摩擦加剧，欧美陆续出台《[[CHIPS and Science Act|芯片与科学法案]]》与《[[European Chips Act|欧洲芯片法案]]》，将战略自主全面扩展至核心制造与科技产业链安全（[[Argument_Bulfone_2024_IAI|Bulfone et al., 2024, pp. 2–3, 8–17]]）。
 
 ---
 
@@ -118,26 +131,24 @@ updated: 2026-11-15
 > | **约束条件强度** | 附带 10 年地缘安全排他护栏、现行工资与超额利润分享等法定硬约束 | 仅具备微电子 IPCEI 利润回缴及危机期订单优先交付等弱约束 |
 > | **核心制度瓶颈** | 本土劳动力成本高昂与成熟产业集群供给断层 | 缺乏超国家中央财政预算与资本市场联盟支持，容易诱发单一市场碎片化 |
 
-> [!critique] 战略自主实施中的深层制度张力
-> - **超国家财政能力匮乏与单一市场碎片化**
->   以欧盟为例，欧洲联盟委员会缺乏独立财政税收权能，主要依赖各成员国动用本国财政实施补贴。各成员国财政空间悬殊，极易导致补贴资源集中于德法等富裕大国，从而拉大成员国内部经济差距，甚至破坏欧洲单一市场的公平竞争原则。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14)]]
-> - **全球价值链高度分工与规模经济制约**
->   半导体等尖端制造具有极高的固定资产投资壁垒（单厂 200 亿欧元）与研发门槛。过度追求全产业链自主可能导致各经济体重复投资与产能过剩，在景气周期下行阶段引发高额沉没成本。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 7–8)]]
-
-> [!pathways] 深化战略自主的制度路径
-> 欧盟若想真正实现战略自主，必须跨越主权财政的制度藩篱：
-> 1. **扩大全欧范围的共同公共资金池** 建立超国家产业投资基金，由欧委会统一管理直接向跨国战略项目注资，减少对成员国国库的依赖。
-> 2. **强化跨国投资协调与协同监管** 抑制成员国之间的恶性补贴竞争，确保制造设施与研发节点在单一市场内合理布局。
-> 3. **彻底建成银行业与资本市场联盟** 疏通欧洲庞大的私人储蓄转化为前沿技术重资产投资的金融渠道，为产业战略提供深厚的长线民间资本支持。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 17)]]
+> [!warning|limits] 适用局限
+> - **超国家财政能力匮乏与单一市场碎片化** 以欧盟为例，欧洲联盟委员会缺乏独立财政税收权能，主要依赖各成员国动用本国财政实施补贴；各成员国财政空间悬殊，极易导致补贴资源集中于德法等富裕大国，拉大内部差距并冲击欧洲单一市场公平竞争原则。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14)]]
+> - **全球价值链高度分工与规模经济制约** 半导体等尖端制造具有极高的固定资产投资壁垒（单厂 200 亿欧元）与研发门槛；过度追求全产业链自主容易导致重复投资与产能过剩，在景气周期下行阶段引发高额沉没成本。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 7–8)]]
+> - **主权财政藩篱的制度突破条件** 欧盟推行产业战略自主需要依赖扩大共同公共资金池、强化跨国投资协同监管及建成银行业与资本市场联盟等制度前提，方能支撑重资产前沿制造投资。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 17)]]
 
 ---
 
-> [!entry-map] 相关概念／理论
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Modern Industrial Policy\|现代产业政策]] | 概念 | 战略自正是当代推动现代产业政策复兴的核心驱动力。 |
+> | [[Modern Industrial Policy\|现代产业政策]] | 概念 | 战略自主是当代推动现代产业政策复兴的核心驱动力。 |
 > | [[Policy Conditionalities\|制度化附加条件]] | 概念 | 实现战略自主过程中规范跨国资本行为与保障公共利益的契约工具。 |
 > | [[CHIPS and Science Act\|芯片与科学法案]] | 事实 | 美国重塑半导体战略自主的集权式中央产业政策实践。 |
 > | [[European Chips Act\|欧洲芯片法案]] | 事实 | [[EU\|欧盟]]在多层级治理下追求半导体战略自主的标志性立法。 |
 > | [[Important Projects of Common European Interest\|欧洲共同利益重要项目]] | 事实 | 欧洲在超国家预算匮乏下推进跨境战略自主协同的关键制度载体。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 基于半导体全球价值链贸易敞口与美欧立法文本，比较集权制与多层级联盟追求战略自主的机制与财政局限（pp. 2–17）。

@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 24
+person_related_count: 26
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -46,9 +46,11 @@ related_instruments: []
 related_persons:
   - "[[Jürgen Habermas]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
+  - "[[Karl Marx]]"
   - "[[John Hattie]]"
   - "[[Max Planck]]"
   - "[[Theodor Adorno]]"
+  - "[[Max Horkheimer]]"
   - "[[Klaus Nielsen]]"
 related_facts: []
 related_arguments:
@@ -56,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-11-15
+updated: 2026-11-26
 ---
 
 （阿克塞尔·霍耐特）
@@ -66,7 +68,7 @@ updated: 2026-11-15
 > [!person-profile] 人物档案
 > - **身份位置** 德国当代著名社会哲学家、[[Critical Theory|批判理论]]思想家，法兰克福学派第三代核心领军人物，法兰克福大学社会哲学讲座教授、哥伦比亚大学哲学系教授，曾长期担任法兰克福大学社会研究所（Institut für Sozialforschung, IfS）所长（2001–2018）。
 > - **核心角色** 师承[[Jürgen Habermas|尤尔根·哈贝马斯]]（[[Jürgen Habermas]]），开创以[[Georg Wilhelm Friedrich Hegel|黑格尔]]耶拿时期承认哲学与米德社会心理学为基底的“主体间[[Recognition Theory|相互承认理论]]”，将批判理论从第二代的纯粹言说商谈程序推进至关涉情感、权利与尊严的微观道德体验；其理论构成了当代[[Critical Pedagogy|批判教育学]]者反思[[Neo-Taylorism|新泰勒主义]]量化问责与[[Technical Rationality|技术理性]]的核心规范武器。
-> - **代表贡献** 创立包含“爱—权利—社会尊严”的三位一体相互承认理论体系（[[Recognition Theory]]）；重新阐释马克思主义经典“物化”（Verdinglichung）概念，界定物化本质上是对原初主体间承认的系统性遗忘；为尼尔森与克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）解构《[[Visible Learning|可见的学习]]》抽离师生[[Intentionality|主体意向性]]提供了奠基性批判框架。
+> - **代表贡献** 创立包含“爱—权利—社会尊严”的三位一体相互承认理论体系（[[Recognition Theory]]）；重新阐释[[Karl Marx|马克思]]主义经典“物化”（Verdinglichung）概念，界定物化本质上是对原初主体间承认的系统性遗忘；为尼尔森与克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）解构《[[Visible Learning|可见的学习]]》抽离师生[[Intentionality|主体意向性]]提供了核心批判框架。
 
 > [!citation-card] 霍耐特承认理论在教育学批判中的定位
 > 德国哲学家霍耐特强调，对个体的能动能动性与意向性的承认，是其成长为自主社会参与者的决定性基石。反之，如果教育体制拒绝承认这种自主性与意向性，便会诱发深刻的社会[[Alienation|异化]]。[[John Hattie|哈蒂]]在追求经验、统计与实用确定性的过程中，将学习者降格为被动的技术纠错器，构成了对主体承认的制度性漠视。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, p. 15)]]
@@ -79,8 +81,8 @@ updated: 2026-11-15
 > - **1949** 出生于德国埃森。
 > - **1970 年代** 在波恩大学与波鸿大学研读哲学与社会学，深受青年[[Georg Wilhelm Friedrich Hegel|黑格尔]]派与早期[[Critical Theory|批判理论]]启发。
 > - **1982** 在柏林自由大学完成[[Doctoral Dissertation|博士论文]]，受[[Jürgen Habermas|尤尔根·哈贝马斯]]（[[Jürgen Habermas]]）邀请赴[[Max Planck|马克斯·普朗克]]研究所担任助理研究员，正式[[Infusion Approach|融入法]]兰克福学派正统谱系。
-> - **1992** 发表德文奠基作《承认的斗争》（*Kampf um Anerkennung*），英译本于 1996 年出版，震动西方哲学与政治学界，被公认为法兰克福学派第三代崛起的代表标志。
-> - **2001** 接任法兰克福社会研究所（IfS）所长，执掌[[Theodor Adorno|阿多诺]]与霍克海默开创的批判理论重镇长达 17 年。
+> - **1992** 发表德文代表作《承认的斗争》（*Kampf um Anerkennung*），英译本于 1996 年出版，震动西方哲学与政治学界，被公认为法兰克福学派第三代崛起的代表标志。
+> - **2001** 接任法兰克福社会研究所（IfS）所长，执掌[[Theodor Adorno|阿多诺]]与[[Max Horkheimer|霍克海默]]开创的批判理论重镇长达 17 年。
 > - **2003** 与美国批判女权主义哲学家南希·弗雷泽（Nancy Fraser）展开载入当代政治哲学史的“再分配还是承认”世纪大论战，出版合著《再分配还是承认？一个政治-哲学交换》（*Redistribution or Recognition?*）。
 > - **2008** 出版《物化：[[Recognition Theory|承认理论]]的重构》（*Reification: A New Look at an Old Idea*），将存在论层面的原初承认确立为社会交往的第一基石。
 > - **2011** 出版法哲学巨著《自由的权利》（*Das Recht der Freiheit*），系统论证现代民主社会三大领域的社会自由实现。

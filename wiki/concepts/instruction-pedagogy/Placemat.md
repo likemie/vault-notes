@@ -5,10 +5,10 @@ aliases:
   - 桌垫法
   - Platzdeckchen
   - Placemat-Methode
-summary: "合作学习中以共享纸面分区结构化串联独立构思、组内展示与群体共识提炼的课堂微策略，兼具低门槛操作性与思考—配对—分享（Think-Pair-Share）的完整交互逻辑。"
+summary: "合作学习中基于共享工作纸外围独立区与中央共识区的结构化微策略，以平行头脑风暴、组内展示与群体凝练三步串联思考—配对—分享逻辑，兼具复杂合作学习训练与讲授课堂即时激活功能。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -25,8 +25,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Graphic Organizer]]"
 related_theories: []
-related_methods:
-  - "[[Reinforcement Learning]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -70,7 +69,7 @@ updated: 2026-11-26
 > **图形结构对合作过程的外显约束** 餐垫法通过把一张工作纸切分为外围个人区与中央共识区，在物理载体层面防止小组讨论流于少数人主导的闲聊，确保“独立思考在前、同伴互赖在后”的顺序得以落实。
 
 > [!claim] Kremers, T.
-> **讲授式课堂与合作结构中的双重激活功能** 托马斯·克雷默斯（Thomas Kremers）指出，教师在当代课堂中既要分阶段组织复杂的合作学习，也应在良好的讲授式教学（Frontalunterricht）中适时嵌入学生激活策略。餐垫法与思考—配对—分享（Think-Pair-Share）共同映射了合作过程的沟通基干，能够在短时间内将单向听讲转化为全员投入的双向认知建构，[[Reinforcement Learning|强化学习]]者的独立责任与沟通能力。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, pp. 80–81, 88)]]
+> **讲授式课堂与合作结构中的双重激活功能** 托马斯·克雷默斯（Thomas Kremers）指出，教师在当代课堂中既要分阶段组织复杂的合作学习，也应在良好的讲授式教学（Frontalunterricht）中适时嵌入学生激活策略。餐垫法与思考—配对—分享（Think-Pair-Share）共同映射了合作过程的沟通逻辑，能够在短时间内将单向听讲转化为全员投入的双向交流，提升学习者的独立责任与沟通能力。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, pp. 80–81, 88)]]
 
 ---
 

@@ -9,10 +9,10 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 39
-person_related_level: 3
-person_related_stars: "💎"
-person_related_color: "#ede9fe"
+person_related_count: 41
+person_related_level: 4
+person_related_stars: "💎⭐"
+person_related_color: "#fce7f3"
 born: "1796"
 died: "1859"
 lifespan: 1796–1859
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Free Beauty]]"
+  - "[[Inclusive Education]]"
   - "[[Document]]"
   - "[[Variable]]"
   - "[[Protean Episteme]]"
@@ -64,6 +65,7 @@ related_facts:
   - "[[Seventh Annual Report of the Massachusetts Board of Education]]"
   - "[[Grammar School]]"
   - "[[Boston Schoolmasters Controversy]]"
+  - "[[European Education]]"
 related_arguments:
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
@@ -72,7 +74,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-11-15
+updated: 2026-11-26
 ---
 
 ## 简介
@@ -96,7 +98,7 @@ updated: 2026-11-15
 
 ## 生平与职涯
 
-曼的职涯展现了从执业律师、州立法领袖走向全美公立教育奠基人与民权捍卫者的清晰轨迹：
+曼的职涯展现了从执业律师、州立法领袖走向全美公立教育开拓者与民权捍卫者的清晰轨迹：
 
 > [!timeline] 生平与职涯
 > - **1796** 出生于马萨诸塞州[[Michael Fullan|富兰]]克林一个清贫农户，少年时期克服严酷贫困主要依靠自学，20 岁考入布朗大学并以优等生毕业，后入读利奇菲尔德法学院成为执业律师。
@@ -112,14 +114,14 @@ updated: 2026-11-15
 
 ## 主要著作与思想发展
 
-霍勒斯·曼的思想发展紧扣美利坚合众国自由民主体制的巩固危机，经历了从人道社会立法、公学体制奠基、欧洲考察合法化突破到废奴人权斗争的四大发展阶段：
+霍勒斯·曼的思想发展紧扣美利坚合众国自由民主体制的巩固危机，经历了从人道社会立法、公学体制创立、欧洲考察合法化突破到废奴人权斗争的四大发展阶段：
 
 > [!thought-timeline] 思想发展
 > - **1827–1837 — 古典共和主义启蒙与人道社会立法介入** 在州议会推动公共人道立法，深切体会到自由政体面临的社会撕裂与道德失序风险。
 >   - **代表著作** 马萨诸塞州议会公共慈善与教育改革演说（1827–1837）。
 >   - **关键概念／方法** 古典共和主义、人道社会立法、国家公共责任。
 >   - **阶段转向** 认识到仅凭宪政条文与法律制裁无法根除犯罪与贫困，确立必须从源头通过国民心智与道德的早期培育来保障自由政体。
-> - **1837–1842 — 马萨诸塞[[Common School Movement\|公学运动]]与全州行政师范建制奠基** 辞政从教，构建由公共税收供养、世俗非宗派的大众普及学校体系。
+> - **1837–1842 — 马萨诸塞[[Common School Movement\|公学运动]]与全州行政师范建制确立** 辞政从教，构建由公共税收供养、世俗非宗派的大众普及学校体系。
 >   - **代表著作** 《马萨诸塞州教育委员会第一至第六次年度报告》（1837–1842）、《普通学校学报》。
 >   - **关键概念／方法** 公共学校（Common School）、伟大的平等发生器（The Great Equalizer）、州立教育委员会、列克星敦[[Normal School\|师范学校]]。
 >   - **阶段转向** 确立全民公共教育由社会共同管理与公税供养原则，推动设立全美首所州立师范学校，将教师从游方兼差升格为受人尊敬的专门职业。
@@ -234,7 +236,7 @@ updated: 2026-11-15
 >
 > *Unlike Jullien’s, the American discourse was only tangentially about comparative education, and like Cousin’s, it was more about foreign education, or to use Fraser’s and Brickman’s terminology, it was Auslandspadagogik.*
 
-> [!citation-card] Rust, Johnstone, & Allaf 论曼在[[Influences Across Cultures|跨文化影响]]与[[Policy Borrowing|政策借用]]史学中的奠基地位
+> [!citation-card] Rust, Johnstone, & Allaf 论曼在[[Influences Across Cultures|跨文化影响]]与[[Policy Borrowing|政策借用]]史学中的开创地位
 > 霍勒斯·曼 1844 年的《[[Seventh Annual Report of the Massachusetts Board of Education|第七次年度报告]]》以及[[Calvin Stowe|卡尔文·斯托]]（Stowe）、达拉斯·贝奇（Bache）、[[Henry Barnard|亨利·巴纳德]]（Barnard）等人的欧洲考察，决非战[[Postpositivism|后实证主义]]者所贬抑的“非科学游记故事”，而是 19 世纪大西洋两岸对[[Intercultural Education|跨文化教育]]影响所作的极具学术深度的经验考证。曼通过批判性甄别普鲁士公共教育经验，旨在通过汲取国外先进体制来完善美利坚自由共和国的基础设施，奠定了后世跨国政策借用理论不可割裂的实证史学源流。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 124–126)]]
 
 > [!citation-card] Beech论霍勒斯·曼在危机驱动型国家借用中的历史坐标
@@ -249,7 +251,7 @@ updated: 2026-11-15
 曼的思想发展与制度斗争与大西洋两岸的教育先驱及政治对手紧密交织：
 
 > [!person-network] 关系网络
-> - **欧美考察与[[Common School Movement\|公学运动]]同行** [[Calvin Stowe\|卡尔文·斯托]]与[[Henry Barnard\|亨利·巴纳德]] 共同构成 19 世纪中叶美国[[Common School Movement\|公学运动]]与欧洲教育考察的三驾马车，合力推动各州公立教育立法。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 31–33)]]
+> - **欧美考察与[[Common School Movement\|公学运动]]同行** [[Calvin Stowe\|卡尔文·斯托]]与[[Henry Barnard\|亨利·巴纳德]] 共同构成 19 世纪中叶美国[[Common School Movement\|公学运动]]与[[European Education|欧洲教育]]考察的三驾马车，合力推动各州公立教育立法。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 31–33)]]
 > - **欧陆思想文本参照** [[Victor Cousin\|维克多·库森]] 库森 1831 年普鲁士报告英译本在马萨诸塞州的广泛流传，直接为曼提供了考察路线与制度参照。（p. 27）
 > - **教学哲学源头** [[Johann Heinrich Pestalozzi\|约翰·海因里希·裴斯泰洛齐]] 其倡导的直观感官教学法与儿童中心人道主义，构成曼抗击传统死记体罚的核心理论武器。（p. 31）
 > - **激进论敌保守联盟** 波士顿三十一位[[Grammar School\|文法学校]]校长联合会（Association of Masters of the Boston Grammar Schools） 1844 年联名发表抗辩书，誓死捍卫严酷体罚与传统师道尊严，引发震动全美教育界的大论战。（Downs, 1974:88–92; p. 32）
@@ -281,7 +283,7 @@ updated: 2026-11-15
 > > - **Horace Mann (1844–1845)** 坚决驳斥论敌，指出优秀的教学法与专业师范训练是全人类理性的共同财富；必须将专制君主的政治目的与教育科学的有效方法严格区分；以专制君主尚能办好公学反诘共和政府的文明耻辱。
 >
 > > [!axis] 超宗派世俗道德准则 vs 传统教会教条裁判权与纳税人财产权
-> > 公立学校运动在推行全纳教育时遭遇宗派势力与极端纳税人的联合抵制：
+> > 公立学校运动在推行[[Inclusive Education|全纳教育]]时遭遇宗派势力与极端纳税人的联合抵制：
 > >
 > > - **正统教会与私校纳税人联盟** 加尔文主义正统派指责超宗派学校导致信仰崩塌，斥其为“无神论温床”；富裕私校纳税人抨击强制征税供养他人子弟是“对私有财产的违宪掠夺与非法没收”。
 > > - **Horace Mann (1837–1848)** 论证指出财富是社会的代际信托，儿童受教育是不可剥夺的天赋权利；公立学校秉持跨宗派的基督教共同道德底线，唯有公税公立学校才能消除宗派攻讦、弥合贫富鸿沟。

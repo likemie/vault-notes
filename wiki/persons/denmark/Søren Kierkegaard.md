@@ -4,16 +4,16 @@ aliases:
   - 索伦·克尔凯郭尔
   - S. Kierkegaard
   - 祈克果
-summary: "丹麦哲学家与神学家，存在主义哲学的先驱与奠基人。以对客观性幻觉的深刻反思、对个体生存具体性的捍卫以及主观性能力的提倡，为教育研究中反思实证主义去人化倾向与建构诠释范式提供了本体论和认识论基石。"
+summary: "丹麦哲学家与神学家，存在主义哲学的先驱与开创者。以对客观性幻觉的深刻反思、对个体生存具体性的捍卫以及主观性能力的提倡，为教育研究中反思实证主义去人化倾向与建构诠释范式提供了本体论和认识论基石。"
 type: person
 cssclasses:
   - person-page
 nationality: denmark
 person_region: "denmark"
-person_related_count: 29
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 34
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1813"
 died: "1855"
 lifespan: "1813–1855"
@@ -40,8 +40,11 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Paradigm]]"
   - "[[Romantic Irony]]"
+  - "[[Indirect Communication]]"
   - "[[Scientific Method]]"
-related_theories: []
+  - "[[Instrumental Rationality]]"
+related_theories:
+  - "[[Kierkegaard's Aesthetics]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Participatory Action Research]]"
@@ -57,18 +60,20 @@ related_facts:
   - "[[Protestant Pietism]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
+  - "[[Argument_Hammermeister_2002_Cambridge]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch04]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch07]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-11-16
+updated: 2026-11-26
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 丹麦哲学家、神学家、思想家，19世纪欧陆反[[Georg Wilhelm Friedrich Hegel\|黑格尔]]理性主义体系的核心代表，被公认为存在主义（Existentialism）哲学的先驱与奠基人。
+> - **身份位置** 丹麦哲学家、神学家、思想家，19世纪欧陆反[[Georg Wilhelm Friedrich Hegel\|黑格尔]]理性主义体系的核心代表，被公认为存在主义（Existentialism）哲学的先驱与开创者。
 > - **核心角色** 在探究哲学与方法论批判网络中，承担着从生存论维度解构[[Positivism\|实证主义]]“客观性神话”的关键节点功能；提出“主观性即真理”，为反思[[Scientism\|科学主义]]与量化霸权提供了坚实的[[Ontology\|本体论]]与[[Epistemology\|认识论]]防线。
 > - **代表贡献** 提出个体生存的不可概念化命题；反思客观性幻觉并倡导恢复“主观性的能力”；揭示大众群众心态与[[Technical Rationality\|技术理性]]导致的个体去人化危机。
 
@@ -161,7 +166,7 @@ updated: 2026-11-16
 > > 其在宗教生存阶段主张面对“悖谬”实施“信仰的跃入”，引发启蒙理性主义者的强烈质疑。
 > >
 > > - **理性主义传统** 指责其哲学带有神秘主义倾向，贬低人类理性论证的普遍效力。
-> > - **生存论阐释** 认为此举深刻揭示了工具理性认识论的内在边界，彰显了个体在不可化约的不确定境遇中承担生存抉择的勇气。
+> > - **生存论阐释** 认为此举深刻揭示了[[Instrumental Rationality|工具理性]]认识论的内在边界，彰显了个体在不可化约的不确定境遇中承担生存抉择的勇气。
 
 > [!critique] 批评索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]] — 指出在教育研究实操中，若将主观性能力极端化为对一切经验规律的拒斥，亦可能导致研究滑入无法进行横向比较与政策对话的微观独语困境。

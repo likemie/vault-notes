@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-03
+updated: 2026-11-26
 ---
 
 ---
@@ -186,7 +186,7 @@ updated: 2026-11-03
 > | [[Alexander Karp]] | Person | 《技术共和国》第一作者，深入论证 AI 威慑取代原子威慑的历史必然性与战略机制。 |
 > | [[Nicholas Zamiska]] | Person | 《技术共和国》合著者，系统剖析国防采购体制由硬件向软件转型的制度路径。 |
 > | [[J. Robert Oppenheimer]] | Person | 确立原子威慑时代的领军物理学家，其历史遗产是理解 AI 威慑时代演化的原初参照。 |
-> | [[Thomas Schelling]] | Person | [[Strategic Bargaining Theory\|战略博弈论]]奠基人，其威慑筹码理论为 AI 威慑提供了地缘战略现实主义根基。 |
+> | [[Thomas Schelling]] | Person | [[Strategic Bargaining Theory\|战略博弈论]]开创者，其威慑筹码理论为 AI 威慑提供了地缘战略现实主义根基。 |
 > | [[Manhattan Project]] | Fact (Project) | 核威慑时代的大科学攻坚范式，为当代构建军民协同的战场软件攻坚工程提供了组织样板。 |
 > | [[Project Maven]] | Fact (Program) | 标志性事件，展现算法赋与防务能力的实战潜力及科技界围绕 AI 武器的伦理博弈。 |
 > | [[Other Transaction Authority]] | Concept | 突破传统官僚采购壁垒、推动前沿商业 AI 软件迅速进入国防防卫体系的关键采购机制。 |

@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-29"
-updated: 2026-11-15
+updated: 2026-11-26
 ---
 
 ---
@@ -197,7 +197,7 @@ updated: 2026-11-15
 > [!method-fit] 适用判断
 > - **适合使用** 同一学科、相近年资学者之间的累积影响比较，以及对未来产出影响的辅助预测。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 21–23)]]
 > - **谨慎使用** 职称晋升与人才评审中作为参照值，须与同行评议和代表作评价结合。
-> - **不适合使用** 跨学科直接比较；评价论著很少但有奠基性突破的学者；评价大型合作团队中个人的贡献。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 18–19, 25–26)]]
+> - **不适合使用** 跨学科直接比较；评价论著很少但有开创性突破的学者；评价大型合作团队中个人的贡献。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 18–19, 25–26)]]
 
 > [!ref-table]- 参照基准与阈值
 > | 情境 | 参照值 | 来源 |
@@ -210,7 +210,7 @@ updated: 2026-11-15
 ---
 
 > [!method-limits] 方法局限
-> - **高被引钝感** 超过 $h$ 的引用不计入，奠基性单篇成果被低估。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 25)]]
+> - **高被引钝感** 超过 $h$ 的引用不计入，开创性单篇成果被低估。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 25)]]
 > - **单调累积性与质量稀释忽视** $h$ 指数随发文量单调不减，发表平庸论著不会拉低数值；然而同行专家评审实验证实学界对简历中混入低层级发表具有显著的惩罚效应（稀释均质质量），揭示出单调累积指标与专家追求稳态卓越之间的内在张力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 68–70)]]
 > - **学科基准差异** 分子生物学的常见 $h$ 高于物理学，物理学又高于数学。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 25–26)]]
 > - **偏向资深学者与青年潜力预测偏差** $h$ 只增不减，年轻学者天然处于劣势；在评估青年学术潜力时易产生虚假信号，必须校正职业年资以防指标异化。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 5)]]

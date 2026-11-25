@@ -5,7 +5,7 @@ aliases:
 summary: "以法兰克福学派与哈贝马斯认识兴趣论为基础的规范性社会理论，主张知识与政策均具利益构成性，致力于通过意识形态批判揭示支配结构，推动实践解放与实质民主"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 80
+theory_related_count: 82
 theory_related_level: 8
 theory_related_stars: "💎💎⭐⭐"
 theory_related_color: "#fef3c7"
@@ -18,11 +18,13 @@ related_concepts:
   - "[[Interpretive Paradigm]]"
   - "[[Ontology]]"
   - "[[Technical Rationality]]"
+  - "[[Student Attitude]]"
   - "[[Epistemology]]"
   - "[[Linguistic Turn]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Culture Industry]]"
   - "[[Aesthetic Negativity]]"
+  - "[[Instrumental Rationality]]"
   - "[[Philosophical Aesthetics]]"
   - "[[Scientific Paradigm]]"
   - "[[Paradigm]]"
@@ -101,7 +103,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-16
-updated: 2026-11-19
+updated: 2026-11-26
 ---
 
 ---
@@ -123,14 +125,14 @@ updated: 2026-11-19
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 马克斯·霍克海默（Max Horkheimer）于 1937 年发表奠基性论文《传统理论与批判理论》（*Traditional and Critical Theory*），首次系统界定批判理论对实证科学[[Positivism|实证主义]]态度的决裂；[[Jürgen Habermas|哈贝马斯]]于 1968/1972 年出版《认识与兴趣》（*Knowledge and Human Interests*），提出三种知识构成性兴趣，将批判理论确立为系统的[[Epistemology|认识论]]框架。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 25–27)]]
+> - **提出者与原始文本** 马克斯·霍克海默（Max Horkheimer）于 1937 年发表开创性论文《传统理论与批判理论》（*Traditional and Critical Theory*），首次系统界定批判理论对实证科学[[Positivism|实证主义]][[Student Attitude|态度]]的决裂；[[Jürgen Habermas|哈贝马斯]]于 1968/1972 年出版《认识与兴趣》（*Knowledge and Human Interests*），提出三种知识构成性兴趣，将批判理论确立为系统的[[Epistemology|认识论]]框架。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 25–27)]]
 > - **原初问题** 面对资本主义垄断工业、集权主义灾难以及实证科学在社会工程中的技术化滥用，传统实证理论将社会现实物化为既定因果规律，使人类沦为[[Technical Rationality|技术理性]]操纵的被动客体。法兰克福学派学者试图探寻人类理性为何在高度发达的工业文明中倒退为控制工具，并寻找通向理性自决与解放的可能。
 > - **理论资源与材料** 批判性统整了[[Georg Wilhelm Friedrich Hegel|黑格尔]]的辩证法、马克思的商品拜物教与[[Ideology Critique|意识形态批判]]、[[Immanuel Kant|康德]]的批判哲学以及弗洛伊德的精神分析学说；哈贝马斯进一步吸收[[Linguistic Turn|语言学转向]]成果与[[Pragmatic Paradigm|实用主义]]沟通理论，将意识形态批判推进至交往行为理论。
 > - **形成路径** 从解构传统理论的“客观观察者”神话切入，揭示所有理论认识背后都存在前理论的社会生活兴趣；通过反思实证主义科学对预测控制的垄断，提炼出人类旨在摆脱支配、追求自律的解放性兴趣，进而将哲学转变为面向实践的社会自我批判事业。
 
 > [!dev-timeline] 理论演变历程
-> - **1930s–1940s — 法兰克福学派第一代奠基** 霍克海默、阿多诺、马尔库塞等从西方马克思主义出发，系统剖析启蒙理性的辩证倒退与[[Culture Industry|文化工业]]对大众意识的操纵，确立意识形态解构与否定辩证法传统。
-> - **1944–1970 — 文化工业批判与[[Aesthetic Negativity|否定美学]]转向** 霍克海默与阿多诺在《[[Dialectic of Enlightenment|启蒙辩证法]]》（1944）中剖析文化工业对大众意识的商品化操纵；阿多诺在《[[Aesthetic Theory|美学理论]]》（1970）中进一步将审美经验确立为抵制同一性思维与工具理性的关键避难所，开辟了批判理论的[[Philosophical Aesthetics|美学]]救赎向度。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, Ch. 10, pp. 189–213)]]
+> - **1930s–1940s — 法兰克福学派第一代创立** 霍克海默、阿多诺、马尔库塞等从西方马克思主义出发，系统剖析启蒙理性的辩证倒退与[[Culture Industry|文化工业]]对大众意识的操纵，确立意识形态解构与否定辩证法传统。
+> - **1944–1970 — 文化工业批判与[[Aesthetic Negativity|否定美学]]转向** 霍克海默与阿多诺在《[[Dialectic of Enlightenment|启蒙辩证法]]》（1944）中剖析文化工业对大众意识的商品化操纵；阿多诺在《[[Aesthetic Theory|美学理论]]》（1970）中进一步将审美经验确立为抵制同一性思维与[[Instrumental Rationality|工具理性]]的关键避难所，开辟了批判理论的[[Philosophical Aesthetics|美学]]救赎向度。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, Ch. 10, pp. 189–213)]]
 > - **1972 — 哈贝马斯确立认识兴趣三分法** 哈贝马斯提出技术兴趣（预测与控制）、实践兴趣（理解与交往）和解放兴趣（反思与解放），奠定了批判理论区分不同[[Scientific Paradigm|科学范式]]与认识论维度的基础分析架构。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 27–31)]]
 > - **1970s — 比较教育学科霸权的瓦解与批判转向** 随着民权运动与社会多元化诉求，新兴的“批判与解释性知识共同体”（Paulston, 1993）对战后长期垄断比较教育学的[[Structural Functionalism|结构功能主义]]与[[Modernization Theory|现代化理论]]发起根本性挑战，终结了实证主义单一霸权，将批判理论确立为重塑学科版图与推动理论多元化的 26 种核心[[Paradigm|范式]]之一。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 131–132, 136)]]
 > - **1980s — 教育研究与[[Action Research|行动研究]]的批判转向** 威尔弗雷德·卡尔与[[Stephen Kemmis|斯蒂芬·凯米斯]]（Wilfred Carr & Stephen Kemmis, 1986）出版《成为批判的》（*Becoming Critical*），雪莉·格兰迪（Shirley Grundy, 1987）将认识兴趣论引入课程与教学分析，构建技术性、实践性与[[Emancipatory Action Research|解放性行动研究]]类型学，开启教育批判[[Paradigm|研究范式]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 272–273)]]

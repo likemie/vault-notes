@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-04
-updated: 2026-11-11
+updated: 2026-11-26
 ---
 
 ---
@@ -99,7 +99,7 @@ updated: 2026-11-11
 > - **变体与扩展** 人工专家配对法（Murray & Stern, 2007）、专利非专利引文链接法（Azoulay et al., 2012）、基于发明人的自动化最大似然配对法（[[Argument_Thompson_et_al_2018_RP|Thompson et al., 2018]]）。
 
 > [!dev-timeline] 方法演变
-> - **2002 — 概念奠基** [[Fiona Murray|菲奥娜·默里]]（Fiona Murray）在研究组织工程技术演化时首次提出科学网络与技术网络的“共演”，确立专利与学术成果配对的分析视角。
+> - **2002 — 概念创立** [[Fiona Murray|菲奥娜·默里]]（Fiona Murray）在研究组织工程技术演化时首次提出科学网络与技术网络的“共演”，确立专利与学术成果配对的分析视角。
 > - **2007 — 因果检验[[Paradigm|范式]]确立** 菲奥娜·默里与[[James C. Scott|斯科特]]·斯特恩（Scott Stern）通过人工核对 169 对生物技术配对样本，采用双重差分法发现专利授权导致关联成果后续引用下降约 10%，奠定了该方法的计量检验框架。
 > - **2018 — 自动化最大似然算法与许可扩展** 尼尔·汤普森（Neil C. Thompson）等学者开发基于发明人全名的自动化最大似然匹配算法，将该方法从单纯的“专利授权”效应拓展至“专利商业许可”与“[[Research Tool|科研工具]]”[[Heterogeneity|异质性]]检验中。[[Argument_Thompson_et_al_2018_RP|(Thompson et al., 2018, pp. 1060–1069)]]
 

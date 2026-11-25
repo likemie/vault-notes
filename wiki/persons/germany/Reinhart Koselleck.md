@@ -4,7 +4,7 @@ aliases:
   - 赖因哈特·科塞勒克
   - 科塞勒克
   - Koselleck, R.
-summary: "德国历史学家与历史哲学家，比勒费尔德学派核心人物，现代概念史（Begriffsgeschichte）奠基人，以鞍型期理论、多层历史时间（Zeitschichten）与教化语义学结构著称。"
+summary: "德国历史学家与历史哲学家，比勒费尔德学派核心人物，现代概念史（Begriffsgeschichte）创始人，以鞍型期理论、多层历史时间（Zeitschichten）与教化语义学结构著称。"
 type: person
 cssclasses:
   - person-page
@@ -52,14 +52,14 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-18
-updated: 2026-11-19
+updated: 2026-11-26
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国著名历史学家、历史哲学家，比勒费尔德大学历史学教授，比勒费尔德跨学科研究中心（ZiF）主任。
-> - **核心角色** 现代概念史（*Begriffsgeschichte*）与历史语义学的奠基人和旗手，与布鲁诺（Otto Brunner）、孔茨（Werner Conze）共同主编八卷本思想史巨著《历史基本概念》（*Geschichtliche Grundbegriffe*）。
+> - **核心角色** 现代概念史（*Begriffsgeschichte*）与历史语义学的创始人和旗手，与布鲁诺（Otto Brunner）、孔茨（Werner Conze）共同主编八卷本思想史巨著《历史基本概念》（*Geschichtliche Grundbegriffe*）。
 > - **代表贡献** 创立概念史[[Analytic Framework|分析框架]]，提出界定现代性转型的“鞍型期”（*Sattelzeit*, 1750–1850）理论、经验空间与期待视域（*Erfahrungsraum und Erwartungshorizont*）理论，并在《论教化的人类学与语义学结构》（2006）中奠定了教化的现代语义学结构。
 
 > [!citation-card] 斯蒂恩·内佩尔·拉森论科塞勒克教化语义学对反抗平庸体制的理论定性
