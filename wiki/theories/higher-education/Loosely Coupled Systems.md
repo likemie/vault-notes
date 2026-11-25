@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-25
-updated: 2026-11-25
+updated: 2026-11-26
 ---
 
 ---
@@ -149,11 +149,19 @@ updated: 2026-11-25
 > >
 > > - **完整组织主张方（Brunsson & Sahlin-Andersson, 2000; Krücken & Meier, 2006）** 认为战略规划、集中决断与品牌重塑正在将大学改造为紧密整合的战略行动实体。
 > > - **解耦官僚制检验方（[[Argument_Maassen_Stensaker_2019_HEQ|Maassen & Stensaker, 2019]]）** 实证表明紧密整合仅停留在行政支撑系统内部，学术核心活动依然维系着专业规范与自适应弹性，最终定型为行政与学术脱节的二元脱钩样态。[[Argument_Maassen_Stensaker_2019_HEQ|(Maassen & Stensaker, 2019, pp. 456–468)]]
+>
+> > [!axis] 行政—学术松散耦合 vs 信用循环紧密联结
+> > 争论大学专业支持人员与核心教学科研过程之间究竟交互微弱，还是存在直接的资源转化联结。
+> >
+> > - **有限交换论（Hüther & Krücken, 2018; [[Argument_Maassen_Stensaker_2019_HEQ|Maassen & Stensaker, 2019]]）** 认为学术工作与行政支撑人员之间仅存在松散耦合，行政体系对基层学术核心进程的作用十分有限。
+> > - **资源转化联结论（[[Argument_DeJong_2026_SHE|de Jong, 2026]]）** 通过访谈美国研究型大学 22 名[[Professional Support Staff|专业支持人员]]发现，支持人员通过伦理翻译、隐私合规、财务测算、空间选址与媒体推介直接介入[[Cycle of Credit|信用循环]]，证明官僚支持与学术工作存在密切互动。[[Argument_DeJong_2026_SHE|(de Jong, 2026, pp. 1241, 1249)]]
 
 > [!critique] 批评索引
 > - [[Argument_Maassen_Stensaker_2019_HEQ|Maassen and Stensaker (2019)]] — 批评了当代大学治理改革试图将松散网络彻底改造成全校一体化紧密实体的简化预设，论证该努力在行政支持系统与核心学术活动之间制造了更深的制度脱节。
+> - [[Argument_DeJong_2026_SHE|de Jong (2026)]] — 针对大学行政与学术工作仅呈松散耦合且交互有限的判断提出实证反证，揭示[[Enabling Bureaucracy|赋能型官僚]]在知识生产资源转化中的关键枢纽作用（pp. 1241, 1249）。
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Maassen_Stensaker_2019_HEQ|Maassen and Stensaker (2019)]] — 以 Weick (1976) 的松散耦合理论为经典参照，实证对比 5 国公立大学跨 4 个学科院系的内部治理变迁，揭示科层理性化背景下由松散结合走向[[De-coupled Bureaucracy|解耦型官僚制]]的组织机制（pp. 456–468）。
+> - [[Argument_DeJong_2026_SHE|de Jong (2026)]] — 通过 22 位专业支持人员访谈反驳行政与学术交互有限的松散耦合判断，证实其在信用循环中的资源管理贡献（pp. 1241, 1249）。

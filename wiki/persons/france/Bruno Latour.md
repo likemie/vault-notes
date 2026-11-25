@@ -3,7 +3,7 @@ title: Bruno Latour
 aliases:
   - Latour, B.
   - 布鲁诺·拉图尔
-summary: "法国著名哲学家、人类学家与科学社会学家，科学技术学（STS）与行动者网络理论（ANT）的核心奠基人；提出广义对称性、铭文装置、计算中心、不变移动物与重新组装社会理论，为现代教育政策拓扑学、数据基础设施与远处治理研究提供了基础本体论与方法论工具。"
+summary: "法国著名哲学家、人类学家与科学社会学家，科学技术学（STS）与行动者网络理论（ANT）的核心创立者；提出广义对称性、铭文装置、计算中心、不变移动物与重新组装社会理论，为现代教育政策拓扑学、数据基础设施与远处治理研究提供了基础本体论与方法论工具。"
 type: person
 cssclasses:
   - person-page
@@ -61,18 +61,18 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-07
-updated: 2026-10-22
+updated: 2026-11-26
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 布鲁诺·拉图尔（Bruno Latour, 1947–2022），法国著名哲学家、人类学家与科学社会学家，科学技术学（[[Science and Technology Studies\|STS]]）的领军人物，先后任教于巴黎矿业学院创新社会学中心（CSI）与巴黎政治学院（Sciences Po）。
-> - **核心角色** [[Actor-Network Theory\|行动者网络理论]]（ANT）的核心奠基人与唯物主义后人类转向的倡导者。他打破了自然与社会、主体与客体的二元对立，开创了追踪异质实体、广义对称性与[[Center of Calculation\|计算中心]]的“旅行者社会学”。
+> - **核心角色** [[Actor-Network Theory\|行动者网络理论]]（ANT）的核心创立者与唯物主义后人类转向的倡导者。他打破了自然与社会、主体与客体的二元对立，开创了追踪异质实体、广义对称性与[[Center of Calculation\|计算中心]]的“旅行者社会学”。
 > - **代表贡献** 创立[[Actor-Network Theory\|行动者网络理论]]、提出装配与广义对称性[[Ontology\|本体论]]、界定[[Center of Calculation\|计算中心]]与不变移动物（Immutable Mobiles）机制，为比较教育政策拓扑学与[[Data Infrastructure\|数据基础设施]]研究奠定了理论基石。
 
 > [!citation-card] 拉图尔论非人类行动者的对称能动性
-> 没有非人类客体的参与，人类甚至无法维持一分钟的社会秩序；客体的抗拒、固化与传导是社会权力效果能够持久稳定的物理底座。（Latour, 2004, 引自 [[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015, p. 8]]）
+> 没有非人类客体的参与，人类甚至无法维持一分钟的社会秩序；客体的抗拒、固化与传导是社会权力效果能够持久稳定的物理基础。（Latour, 2004, 引自 [[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015, p. 8]]）
 >
 > *Without the non-humans, humans would not last for a minute.* (Latour, 2004)
 
@@ -132,13 +132,14 @@ updated: 2026-10-22
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 借用拉图尔互客体性与耐用材料装配理论，解构澳大利亚国家证据中介（[[Australian Education Research Organisation\|AERO]]）背后的非公立权力渗透。
 > - [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]] — 运用拉图尔 [[Actor-Network Theory\|ANT]] 与非人类能动性概念，剖析阿根廷国家数字化项目中微观硬件对课堂教学秩序的直接建构。
 > - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 追溯比较教育学引入拉图尔 ANT 以解构全球治理中流动[[Discourse|话语]]与远处治理黑箱。
+> - [[Argument_DeJong_2026_SHE\|de Jong (2026)]] — 运用并拓展拉图尔与伍尔加的[[Cycle of Credit|信用循环]]至大学组织层级，揭示专业支持人员通过资源管理参与知识生产。
 
 ---
 
 > [!person-network] 关系网络
-> - **师承／合作者** 米歇尔·卡隆（Michel Callon）— 共同创立[[Actor-Network Theory\|行动者网络理论]]（ANT）与转译社会学。
-> - **师承／合作者** 约翰·劳（John Law）— 共同发展关系物质性与耐用材料秩序化理论。
-> - **师承／合作者** 史蒂夫·伍尔加（Steve Woolgar）— 合著《实验室生活》，开创微观科学实验室[[Ethnography\|人类学研究]]。
+> - **师承／合作学者** 米歇尔·卡隆（Michel Callon）— 共同创立[[Actor-Network Theory\|行动者网络理论]]（ANT）与转译社会学。
+> - **师承／合作学者** 约翰·劳（John Law）— 共同发展关系物质性与耐用材料秩序化理论。
+> - **师承／合作学者** 史蒂夫·伍尔加（Steve Woolgar）— 合著《实验室生活》，开创微观科学实验室[[Ethnography\|人类学研究]]。
 > - **思想对话者** 吉尔·德勒兹（Gilles Deleuze）— 汲取其块茎与装配思想，构建去中心化的异质网络[[Ontology\|本体论]]。
 > - **后世应用学者** [[Sigrid Hartong\|西格丽德·哈通]]（Sigrid Hartong）— 将拉图尔[[Center of Calculation\|计算中心]]理论应用于教育政策拓扑学与[[Data Infrastructure\|数据基础设施]]研究。
 > - **后世应用学者** [[Jason Beech|杰森·比奇]]（[[Jason Beech]]）与埃玛·罗威（Emma Rowe）— 将拉图尔 ANT 与互客体性理论应用于比较教育与批判[[Policy Network\|政策网络]]分析。
@@ -150,7 +151,7 @@ updated: 2026-10-22
 > > [!axis] 广义对称性 vs 人类主体道德责任的消解
 > > 争论是否应当赋予法案条款、硬件设备与量规以对称能动性。
 > > - **批判政治经济学者** 批评将电线、量规与人类等同会陷入极度扁平的物化拜物教，模糊了跨国资本与统治精英的道德与阶级剥削责任。
-> > - **拉图尔** 反驳指出人类无法脱离物质客体建立持续权力；唯有客体的耐用性与抗拒性，才是阶级与制度权力得以跨越时空固化的真实底座。
+> > - **拉图尔** 反驳指出人类无法脱离物质客体建立持续权力；唯有客体的耐用性与抗拒性，才是阶级与制度权力得以跨越时空固化的真实基础。
 >
 > > [!axis] 科学建构论与后真相时代的反思
 > > 探讨拉图尔早期对科学事实的[[Constructivist Paradigm\|建构主义]]解构，是否为气候怀疑论与反疫苗等后真相政治提供了修辞武器。
@@ -170,4 +171,5 @@ updated: 2026-10-22
 > | [[Assemblage]] | 概念 | 将装配理论引入唯物主义社会学，论述异质实体的社会-物质构型。 |
 > | [[Center of Calculation]] | 概念 | 提出计算中心理论，阐释现代科学与治理如何从远处采取行动。 |
 > | [[Governing at a Distance]] | 理论 | 为远处治理提供不变移动物与计算中心等关键物质技术机制支撑。 |
+> | [[Cycle of Credit]] | 理论 | 与史蒂夫·伍尔加共同提出信用循环模型，刻画科学声誉与物质资源的连续转化机制。 |
 > | [[Data Infrastructure]] | 概念 | 为数据基础设施的社会-技术装配属性提供核心[[Ontology\|本体论]]工具。 |

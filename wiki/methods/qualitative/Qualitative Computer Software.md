@@ -80,7 +80,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-30
+updated: 2026-11-26
 ---
 
 ---
@@ -185,7 +185,7 @@ updated: 2026-10-30
 > - **工具宰制与方法倒置（The Tail Wags the Dog）** 多数软件的设计架构天然偏向[[Grounded Theory\|扎根理论]]式的编码与检索（Code-and-Retrieve）逻辑，容易诱使研究者机械迎合软件提供的功能与树状层级，忽视对文本更深层的批判性追问与诠释学理解（Crowley et al., 2002; Richards, 2002; Coffey et al., 1996）。软件是工具而非方法论指导者，研究者不能让工具逻辑反客为主。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, p. 539)]]
 > - **编码碎片化与语境剥离（Decontextualization）** 软件将连续文本切分为孤立片段存入节点数据库，若单纯按编码抽取片段进行装配，极易抽离发生的时间序列、背景环境与情感张力（Gibbs, 2007; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, p. 562]]）。研究者若过度沉溺于节点切片，可能因技术屏障而“疏远数据”（Distance from Data），削弱[[Qualitative Research\|质性研究]]立足的[[Rich and Thick Description\|深描]]根基。
 > - **算法依赖与虚假模式风险（[[AI Hallucination\|Algorithmic Hallucination]]）** 当引入大语言模型辅助赋码与主题生成时，模型固有的一致性幻觉、去情境化归纳偏倚以及预训练语料中的文化刻板印象可能带来系统性失真；机器可能拼凑出看似严密实则脱离现实经验的“伪主题”。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 578)]]
-> - **[[Meaningful Human Control|人在回路]]（HITL）与[[Audit Trail\|审计追踪]]责任（Audit Trail）** 质性软件不会自主思考，更无法替代人类研究者赋予意义与感知生命体验（García-Horta & Guerra-Ramos, 2009; Flick, 2009）。研究者必须贯彻人在回路原则：强制大模型输出附带原文行号与证据溯源，设定低采样温度；建立详实的分析日志（记录版本、提示词、分歧裁决与修改过程），保留透明的[[Audit Trail\|审计追踪]]。
+> - **[[Meaningful Human Control|人在回路]]（HITL）与[[Audit Trail\|审计追踪]]责任（Audit Trail）** 质性软件不会自主思考，更无法替代人类研究者赋予意义与感知生命体验（García-Horta & Guerra-Ramos, 2009; Flick, 2009）。研究者必须贯彻人在回路原则：强制大模型输出附带原始文本行号与证据溯源，设定低采样温度；建立详实的分析日志（记录版本、提示词、分歧裁决与修改过程），保留透明的[[Audit Trail\|审计追踪]]。
 
 ---
 
@@ -197,7 +197,7 @@ updated: 2026-10-30
 > | | [[Content Analysis\|内容分析]] | 核心应用 | 软件支持关键词提取、规则化范畴匹配与频次矩阵统计的典型分析方法。 |
 > | | [[Template Analysis\|模板分析]] | 协同方法 | 在软件中构建分层编码模板并随经验分析迭代调整的结构化分析技术。 |
 > | **分析操作与空间化呈现** | [[Coding in Qualitative Research\|质性编码]] | 核心操作 | 软件最核心的分析交互载体，将文本切片转化为结构化概念节点。 |
-> | | [[Data Reduction\|数据缩减]] | 分析目标 | 借助软件的筛选、编码聚并与主题收敛，将海量资料提炼为[[Central Phenomenon\|核心范畴]]。 |
+> | | [[Data Reduction\|数据缩减]] | 分析目标 | 借助软件的筛选、编码聚并与主题归并，将海量资料提炼为[[Central Phenomenon\|核心范畴]]。 |
 > | | [[Data Display\|数据展示]] | 协同呈现 | 借助软件输出的树状图、共现矩阵与网络拓扑图空间化呈现分析发现。 |
 > | **质量控制与[[Epistemology\|认识论]]准则** | [[Audit Trail\|审计追踪]] | [[Reliability\|信度]]保障 | 记录编码演变、版本迭代、备忘录链条与人机交互日志以确保分析透明可审。 |
 > | | [[Qualitative Codebook\|质性编码手册]] | 质量工具 | 为软件内多编码者协同或大模型提示词提供统一的[[Operationalization\|操作化]]定义与样例约束。 |
@@ -209,3 +209,4 @@ updated: 2026-10-30
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|Cohen et al. (2011)]]（亦见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Ch. 30]]） — 系统总结 CAQDAS 的功能类型、Kelle 六步规程与[[Reliability\|信度]]效度机制，并深入探讨大语言模型智能辅助编码的三大进路、[[Paradigm\|范式]]对比与[[Meaningful Human Control|人在回路]]准则。
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, Ch. 9)]] — 阐明计算机软件辅助[[Winnowing\|数据筛选]]与 5–7 个主题聚合的实操流程，强调软件不替代研究者分析责任，并梳理现代主流软件包。
 > - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 在 NVivo 11 中结合[[Open Coding\|开放编码]]与基于[[Third Generation Activity Theory\|第三代活动理论]]（3GAT）六构件的[[Template Analysis\|模板分析]]，对 25 份[[Semi-structured Interview\|半结构化访谈]]展开扎根编码与矛盾解析。
+> - [[Argument_DeJong_2026_SHE\|de Jong (2026)]] — 将 22 份专业支持人员访谈逐字转录稿导入 NVivo 12 软件开展开放编码与主题归类，归纳出 164 段资源管理相关引文（pp. 1245–1246）。

@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-11-20
+updated: 2026-11-26
 ---
 
 ---
@@ -203,6 +203,7 @@ updated: 2026-11-20
 > | [[Scientific Hegemony]] | 概念 | 调节顶阶科学信誉分配与候选人获奖概率的宏观跨国结构。 |
 > | [[Alphabetical Authorship]] | 概念 | 人文社科等领域规避序位偏倚但在大团队中导致感知信誉模糊的署名传统。 |
 > | [[Author Contribution Disclosures]] | 概念 | 细粒度自述任务分工以缓解署名名单信息不对称的制度性工具。 |
+> | [[Cycle of Credit]] | 理论 | 拉图尔与伍尔加提出的声誉、资金、人员设备、数据、论据与出版物连续转化分析框架。 |
 > | [[Bibliometric Analysis]] | 方法 | 基于施引成果拓扑图谱构建共引矩阵、客观测算个体信誉份额的技术工具。 |
 
 ---

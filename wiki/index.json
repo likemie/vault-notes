@@ -4445,6 +4445,16 @@
     ]
   },
   {
+    "title": "Capacity for Change",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Capacity for Change.md",
+    "aliases": [
+      "学校变革能力",
+      "变革能力",
+      "Kapazität zum Wandel"
+    ]
+  },
+  {
     "title": "Charter Schools",
     "type": "concept",
     "path": "wiki/concepts/educational-leadership-administration/Charter Schools.md",
@@ -4615,6 +4625,16 @@
       "会议官僚主义",
       "Meeting Madness",
       "过度会议文化"
+    ]
+  },
+  {
+    "title": "Middle Management in Schools",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Middle Management in Schools.md",
+    "aliases": [
+      "学校中层管理",
+      "中层管理",
+      "mittleres Management"
     ]
   },
   {
@@ -22105,6 +22125,16 @@
       "后福特制",
       "后福特主义",
       "post-Fordist education"
+    ]
+  },
+  {
+    "title": "Pre-structured Learning Environment",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Pre-structured Learning Environment.md",
+    "aliases": [
+      "预构学习环境",
+      "vorstrukturiertes Lernmilieu",
+      "预先结构化的学习环境"
     ]
   },
   {
@@ -58346,6 +58376,11 @@
     "title": "Argument_Downey_2016_SoE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Sociology of Education/Argument_Downey_2016_SoE.md"
+  },
+  {
+    "title": "Argument_DeJong_2026_SHE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
   },
   {
     "title": "Argument_Erdem_2026_SHE",
