@@ -196,3 +196,4 @@ updated: 2026-11-25
 > - [[Argument_McCormick_2012_CER|McCormick (2012)]] — 在柬埔寨与老挝针对政府部委、双边与多边捐助机构、学术界及非政府组织共 19 位教育发展政策行动者开展英语半结构化访谈，剖析援助协调中的权力关系。（pp. 20, 43–44）
 > - [[Argument_Maassen_Stensaker_2019_HEQ|Maassen and Stensaker (2019)]] — 针对 5 国公立大学跨 4 个学科院系的系主任、学者与行政主管开展 50 余场半结构化访谈，实证考察纵向科层强化下行政管理与学术实践的脱钩张力（pp. 459–460）。
 > - [[Argument_VanderKloet_Campisi_2023_JHEPM|Vander Kloet and Campisi (2023, pp. 659–661)]] — 针对加拿大 5 所大学 19 位科研管理人员开展 75–90 分钟半结构化访谈，并反思访谈互动本身作为学术权力关系运作场域的主体化特征。
+- [[Argument_Ryttberg_Geschwind_2021_TEM|Ryttberg and Geschwind (2021)]] — 对荷兰和挪威两所研究型大学的 18 位校级与院系级专业支持人员开展约 1 小时的半结构化访谈，考察支持服务组织结构背后的效率逻辑与集权/分权权衡。

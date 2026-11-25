@@ -109,15 +109,15 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-11-19
+updated: 2026-11-25
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国哲学家、心理学家、教育改革家与公共知识分子；[[Pragmatic Paradigm|实用主义]]、功能心理学与[[Progressive Education|进步教育]]核心代表人物；曾任芝加哥大学系主任、哥伦比亚大学哲学与教育学教授。
-> - **核心角色** 在教育哲学、[[Empiricism|经验论]]、探究理论、[[Transnational Education|跨国教育]]转移网络乃至现代[[Engineering Mindset|工程思维]][[Epistemology|认识论]]中担任关键奠基节点；提出“[[Education as Growth|教育即生长]]（Education is Growth）”、“学校即社会”与“民主作为联合生活方式”的解释框架，深刻重构了现代教育、实验探究与公共生活关系。
-> - **代表贡献** 奠定[[Progressive Education|进步教育]]与[[Pragmatic Paradigm|实用主义]]教育[[Paradigm|范式]]；提出基于“做”（doing）的探究与以生长为终极标准的[[Active Learning|主动学习]]论；发表《实用主义美国》（*Pragmatic America*, 1922）倡导踏入具体事物激流的经验实验态度；推动1919–1921年中国[[New Education Movement|新教育运动]]及美苏跨国教育传播与[[Recontextualization|再脉络化]]（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009]]；[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024]]；[[Argument_Darwish_2009_Queens|Darwish, 2009]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025]]）。
+> - **核心角色** 在教育哲学、[[Empiricism|经验论]]、探究理论、[[Transnational Education|跨国教育]]转移网络乃至现代[[Engineering Mindset|工程思维]][[Epistemology|认识论]]中担任关键理论节点；提出“[[Education as Growth|教育即生长]]（Education is Growth）”、“学校即社会”与“民主作为联合生活方式”的解释框架，深刻重构了现代教育、实验探究与公共生活关系。
+> - **代表贡献** 确立[[Progressive Education|进步教育]]与[[Pragmatic Paradigm|实用主义]]教育[[Paradigm|范式]]；提出基于“做”（doing）的探究与以生长为终极标准的[[Active Learning|主动学习]]论；发表《实用主义美国》（*Pragmatic America*, 1922）倡导踏入具体事物激流的经验实验态度；推动1919–1921年中国[[New Education Movement|新教育运动]]及美苏跨国教育传播与[[Recontextualization|再脉络化]]（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009]]；[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024]]；[[Argument_Darwish_2009_Queens|Darwish, 2009]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025]]）。
 
 > [!citation-card] 杜威思想在跨国传播中的悖论与再重构
 > 虽然[[Democratic Education|民主教育]]的理想与渐进式改革在杜威的著作和演讲中是一致且和谐的，但它们之间的关系在民国时期的中国却变得复杂得多，在那里，教育民主化的实现需要激进的变革。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.611]]）
@@ -154,14 +154,33 @@ updated: 2026-11-19
 
 ---
 
-> [!claim] 核心思想
-> 杜威的思想是一套关于经验、探究、民主与社会更新相互支撑的完整哲学体系。教育本质上是社会生活连续更新的过程。学校应作为简化、净化与组织社会经验的特殊环境；探究应作为公开检验与修正在动作中形成的假设；民主不仅是政治政体，更是自由交流与共同解决问题的“联合生活方式”（Dewey [1916] 2018, pp.93, 146–147）。
+> [!person-thesis] 主张一｜教育本质上是经验的连续生长，主动学习建立在“做”、批判性思维与民主对话之上
+> 杜威的思想是一套关于经验、探究、民主与社会更新相互支撑的完整哲学体系。教育本质上是社会生活连续更新的过程。学校应作为简化、净化与组织社会经验的特殊环境；探究应作为公开检验与修正在动作中形成的假设；民主既是政治政体，更是自由交流与共同解决问题的“联合生活方式”（Dewey [1916] 2018, pp.93, 146–147）。
 > 
-> 在现代课程与教育哲学对话中，杜威被确立为[[Active Learning|主动学习]]（Active Learning）的核心奠基人：他否定将学生视作“加仑事实”灌输容器的[[Banking Model of Education|储蓄式教育]]，强调只有赋予学生[[Freedom of the Learner|学习者的自由]]与能动主体（Subjects）地位，教育才能发生；[[Critical Thinking|批判性思维]]必须建立在“做”（doing）与[[Problem Solving|问题解决]]之上，而对话则是社区成员在民主互动中“共享经验的过程”，其终极目标在于实现个体的生长与自我实现（[[Education as Growth|self-realization]]） [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 6–10)]]。
+> 在现代课程与教育哲学对话中，杜威被确立为[[Active Learning|主动学习]]（Active Learning）的核心开创者：他否定将学生视作“加仑事实”灌输容器的[[Banking Model of Education|储蓄式教育]]，强调只有赋予学生[[Freedom of the Learner|学习者的自由]]与能动主体（Subjects）地位，教育才能发生；[[Critical Thinking|批判性思维]]必须建立在“做”（doing）与[[Problem Solving|问题解决]]之上，而对话则是社区成员在民主互动中“共享经验的过程”，其终极目标在于实现个体的生长与自我实现（[[Education as Growth|self-realization]]） [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 6–10)]]。
+>
+> > [!thesis-quote] 《儿童与课程》（1902）
+> > 儿童是起点、中心与终点。他的发展与生长是理想。唯有它提供标准。所有研究都服务于儿童的生长。（Dewey, 1902, p. 9; 引自 Darwish, 2009, p. 7）
+> >
+> > *The child is at the starting-point, the center, and the end. His development, his growth, is the ideal. It alone furnishes the standard. (Dewey, 1902, p. 9; [[Argument_Darwish_2009_Queens|Darwish, 2009, p. 7]])*
+
+> [!person-thesis] 主张二｜实用主义认识论拒绝教条与宏大抽象，要求深入具体系统的运作激流
 > 
-> 在现代科技政策与工程哲学视域下，杜威被进一步确立为美国[[Pragmatic Paradigm|实用主义]]与[[Engineering Mindset|工程思维]]的哲学奠基人：他在《实用主义美国》（1922）中主张走下抽象超然的神坛，投身具体系统的泥泞激流，在给予完全赞同前探明真实系统如何运转，坚决抵制脱离实际的[[Grand Theory|宏大理论]]概括，构成了现代工程师以物理运行反馈与代码实测为检验准绳的[[Epistemology|认识论]]根基 [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 160–161)]]。
+> 在现代科技政策与工程哲学视域下，杜威被进一步确立为美国[[Pragmatic Paradigm|实用主义]]与[[Engineering Mindset|工程思维]]的哲学先驱：他在《实用主义美国》（1922）中主张走下抽象超然的神坛，投身具体系统的泥泞激流，在给予完全赞同前探明真实系统如何运转，坚决抵制脱离实际的[[Grand Theory|宏大理论]]概括，构成了现代工程师以物理运行反馈与代码实测为检验准绳的[[Epistemology|认识论]]根基 [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 160–161)]]。
+>
+> > [!thesis-quote] 《实用主义美国》（1922）
+> > 实用主义气质愿意走下高傲超然的神坛，投身具体事物的泥泞激流之中……实用主义希望在给予完全赞同之前，先弄清系统与理论究竟是如何运作的，并坚决抵制过于宽泛轻率的概括。（Dewey, 1922; 引自 [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025, pp. 160–161]]）
+> >
+> > *The pragmatic temperament was willing to "get down from noble aloofness into the muddy stream of concrete things." Pragmatism "wants to know how systems and theories work before giving complete adhesion, and militates against too sweeping and easy generalizations."*
+
+> [!person-thesis] 主张三｜科学实证证据不提供现成行动规则，只能作为教师专业判断的探究假设
 > 
-> 在当代[[Evidence-Based Education|循证教育]]与[[Meta-meta-analysis|二阶元分析]]论辩中，杜威被确立为解构“数字指标崇拜”与“[[Effect Size|效应量]]技术专制”的批判哲学旗帜：他断言实证证据绝不提供现成的行动规则，而仅仅为明智地解决问题和质询教育目的提供假设。教育实践内嵌着不可约简的价值判断（干预效益是否值得时间与精力成本？是否会为了微小测验提分而损伤学生的[[Creativity|创造力]]与交往能力？）。任何实证数据都必须经由教师的[[Professional Judgment|专业判断]]与信念整合，才能在具体教学情境中转化为审慎实践（[[Argument_Snook_2009_NZJES|Snook et al., 2009, pp. 93, 104]]；[[Argument_Hattie_2010_NZJES|Hattie, 2010]]）。
+> 在当代[[Evidence-Based Education|循证教育]]与[[Meta-meta-analysis|二阶元分析]]论辩中，杜威被确立为解构“数字指标崇拜”与“[[Effect Size|效应量]]技术专制”的批判哲学旗帜：他断言实证证据只为明智地解决问题和质询教育目的提供假设，而不能提供固定行动指令。教育实践内嵌着不可约简的价值判断（干预效益是否值得时间与精力成本？是否会为了微小测验提分而损伤学生的[[Creativity|创造力]]与交往能力？）。任何实证数据都必须经由教师的[[Professional Judgment|专业判断]]与信念整合，才能在具体教学情境中转化为审慎实践（[[Argument_Snook_2009_NZJES|Snook et al., 2009, pp. 93, 104]]；[[Argument_Hattie_2010_NZJES|Hattie, 2010]]）。
+>
+> > [!thesis-quote] 《民主与教育》（1916）
+> > 教育的工作是建设性的。教育的重组……只能零碎地完成，一步一个脚印。（Dewey [1916] 2018, pp.146–147, 287）
+> >
+> > *The work of education is constructive. A reorganization of education ... can only be accomplished piecemeal, a [[Skills Toward Employment and Productivity|step]] at a time.*
 
 > [!theory-components] 三环节主动学习与[[Pragmatic Paradigm|实用主义]]教育哲学构件
 > - **在“做”（doing）中探究与[[Critical Thinking|批判性思维]]**
@@ -190,23 +209,6 @@ updated: 2026-11-19
 
 > [!case] 案例：对“听讲被动性”的批判与儿童中心论
 > 在《儿童与课程》中，杜威批判了工业时代学校的传统布局与教学姿态，指出“听讲的态度，相对而言，意味着被动与吸收”（Dewey 1902, p. 32; Darwish 2009, p. 9）。他主张必须摒弃将学生当作“等待填满的空容器”的灌输[[Paradigm|范式]]，重新确立“儿童是起点、中心与终点”的教学原则，使教育服务于儿童自身的生长 (Dewey 1902, p. 9; Darwish 2009, p. 7)。
-
----
-
-> [!citation-card] 论实用主义气质与投身具体事物的泥泞激流
-> 实用主义气质愿意走下高傲超然的神坛，投身具体事物的泥泞激流之中……实用主义希望在给予完全赞同之前，先弄清系统与理论究竟是如何运作的，并坚决抵制过于宽泛轻率的概括。（Dewey, 1922; 引自 [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025, pp. 160–161]]）
->
-> *The pragmatic temperament was willing to "get down from noble aloofness into the muddy stream of concrete things." Pragmatism "wants to know how systems and theories work before giving complete adhesion, and militates against too sweeping and easy generalizations."*
-
-> [!citation-card] 儿童中心与生长的终极标准
-> 儿童是起点、中心与终点。他的发展与生长是理想。唯有它提供标准。所有研究都服务于儿童的生长。（Dewey, 1902, p. 9; 引自 Darwish, 2009, p. 7）
->
-> *The child is at the starting-point, the center, and the end. His development, his growth, is the ideal. It alone furnishes the standard. (Dewey, 1902, p. 9; [[Argument_Darwish_2009_Queens|Darwish, 2009, p. 7]])*
-
-> [!citation-card] 教育的重组与建设性本质
-> 教育的工作是建设性的。教育的重组……只能零碎地完成，一步一个脚印。（Dewey [1916] 2018, pp.146–147, 287）
->
-> *The work of education is constructive. A reorganization of education ... can only be accomplished piecemeal, a [[Skills Toward Employment and Productivity|step]] at a time.*
 
 ---
 
@@ -240,7 +242,7 @@ updated: 2026-11-19
 > - [[Argument_Zhou_2024_CE|Zhou and Westberg (2024)]] — 运用 Cowen 3T 框架拆解杜威思想在民国中国1919–1928年的转移、转译与转化机制。
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 分析杜威思想在建国后中国教育话语中的三重变形与政治重构。
 > - [[Argument_Ryabyy_2024_Maneto|Ryabyy (2024)]] — 探究1928年杜威访苏及[[Progressive Education|进步教育]]在美苏[[Cultural Diplomacy|文化外交]]中的交锋与断裂。
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 探究杜威实用主义哲学对现代[[Engineering Mindset|工程思维]]与反教条经验探究[[Epistemology|认识论]]的历史奠基（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]]）。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 探究杜威实用主义哲学对现代[[Engineering Mindset|工程思维]]与反教条经验探究[[Epistemology|认识论]]的哲学源流（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]]）。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 记录 1970 年代丹麦教育学界重读杜威以批判威权注入式教学、推动跨学科与问题导向实验校改革的制度化轨迹。
 
 ---
@@ -293,7 +295,7 @@ updated: 2026-11-19
 > | [[Professional Judgment]] | 概念 | 实用主义证据假说论为捍卫教师专业判断力、抵制技术官僚去专业化提供[[Epistemology\|认识论]]根基。 |
 > | [[Progressive Education]] | 概念 | 创立芝加哥实验学校，倡导活动课程与以儿童为中心的学习。 |
 > | [[Scientific Attitude]] | 概念 | 思想在华转化阶段被重构为注重客观事实与调查实验的科学态度。 |
-> | [[Engineering Mindset]] | 概念 | 实用主义精神（《实用主义美国》）作为现代工程思维与狐狸型经验[[Epistemology\|认识论]]的哲学奠基。 |
+> | [[Engineering Mindset]] | 概念 | 实用主义精神（《实用主义美国》）作为现代工程思维与狐狸型经验[[Epistemology\|认识论]]的哲学前驱。 |
 > | [[Transfer Translation Transformation]] | 理论 | 作为分析杜威思想在华与跨国传播中拆解与重构的核心理论框架。 |
 > | [[New Education Movement]] | 政策 | 1919–1921年访华讲演直接推动民国新教育运动与1922年新学制改革。 |
 > | 芝加哥大学实验学校 | 组织 | 核心机构与项目 |

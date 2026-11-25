@@ -7,9 +7,9 @@ aliases:
 summary: "围绕 John Hattie Visible Learning 展开的批评谱系，集中讨论效应量排名、元-元分析、教学理论、教育哲学、可见性政治和商业化政策扩张等争议。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 189
-related_level: 18
-related_stars: "💎💎💎💎💎💎"
+related_count: 193
+related_level: 19
+related_stars: "💎💎💎💎💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - visible-learning
@@ -171,6 +171,7 @@ related_persons:
   - "[[Roy Nash]]"
   - "[[Ewald Terhart]]"
   - "[[Pierre-Jérôme Bergeron]]"
+  - "[[Hans-Günter Rolff]]"
 related_facts:
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[EVIPNet]]"
@@ -182,6 +183,8 @@ related_facts:
   - "[[The Scott Report]]"
   - "[[Corwin Press]]"
   - "[[Cognition Education]]"
+  - "[[Hauptschule]]"
+  - "[[Gymnasium]]"
 related_arguments:
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Terhart_2011_JCS]]"
@@ -210,6 +213,7 @@ related_arguments:
   - "[[Argument_Brugelmann_2014_LocalPractice]]"
   - "[[Argument_Koller_2014_WhatWorks]]"
   - "[[Argument_Nielsen_2021_NordPsych]]"
+  - "[[Argument_Rolff_2014_SchoolStructure]]"
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
   - "[[Framework for Teaching]]"
@@ -774,6 +778,11 @@ updated: 2026-11-25
 > 以新西兰财政部（NZ Treasury）2011 年简报为实证案例，政策制定者选择性利用可见学习效应量推进预算紧缩：
 > - **概念定义混淆** 财政部在政策文件中将宏观师生比（Student-Teacher Ratios）与微观课堂班级规模（[[Class Size]]）混为一谈。
 > - **证据警示被系统过滤** 刻意隐去原著中关于测量误差、学段差异与情境适用性的学术警示，将 $d=0.21$ 武断定性为班级规模没有效果，作为拒绝追加公立教育师资拨款的实证借口。
+>
+> > [!critique-logic] 罗夏测验式政策接收与教师个体替罪羊机制（[[Argument_Rolff_2014_SchoolStructure|Rolff, 2014, pp. 76–77]]）
+> > 德国学校改进学者[[Hans-Günter Rolff|罗尔夫]]深入剖析了德语区政策评论对《可见的学习》的滥用机制：
+> > - **证据诠释的罗夏测验现象** 许多政策评论者把书中的可视化数据图当作罗夏墨迹测验（Rorschach-Test），支持教师中心教学的人与改革教育学派均能从中读出各自早已认定的观点，使实证研究沦为投射预设立场的工具。
+> > - **人与结构共变与反个体归咎** 政策界片面将学校效能完全归因于单个教师，以此回避多轨学制等深层结构改革。这种还原主义把无法兑现的要求强加给教师，使其在制度出问题时沦为替罪羊。学校质量是系统的整体属性，取决于人与结构的共同作用，而非个别教师的孤立努力。
 
 #### 班额无效论高频宣扬与公立教育资源饥饿化
 
@@ -843,7 +852,7 @@ updated: 2026-11-25
 
 > [!dev-timeline] 对可见学习批评的四个演进阶段
 > - **2009–2010 年 — 起源反弹与政策警示期** 《[[Visible Learning|可见的学习]]》出版同年，新西兰梅西大学[[Ivan Snook|伊万·斯努克]]（Ivan Snook）领衔的批判团队（[[Argument_Snook_2009_NZJES\|Snook et al., 2009]]）即从[[Meta-meta-analysis|二阶元分析]]缺乏底层质控导致粗糙输入诱发荒谬输出（GIGO）、0.40 截断值主观武断（医学阿司匹林 $d=0.07$ 反例）、单一均值抹杀学段学科差异，以及援引[[Roy Nash|罗伊·纳什]]（Roy Nash）与 Richard Harker et al. 方差分解证实 70%–80% 差异取决于家庭背景等维度系统敲响警钟，严厉警示宏观数据被滥用为削减生均投入与转嫁问责的危险；[[Argument_Grace_2010_NZJES\|Grace (2010)]] 从学者社会良知出发批判其排除贫困与社会不平等，预示了方法论与社会学批判的基本分野。
-> - **2011–2016 年 — 德语学理深化与逐步技术审计期** 德国教学论学界（[[Argument_Terhart_2011_JCS\|Terhart, 2011]]; [[Argument_Terhart_2014_HolyGrail\|Terhart, 2014]]; [[Argument_Koller_2014_WhatWorks\|Köller, 2014]]; [[Argument_Brugelmann_2014_LocalPractice\|Brügelmann, 2014]]）对二阶元分析开展了系统反思与实证审读，布吕格尔曼从均值陷阱、课程测不准原理与[[Implementation Fidelity|实施保真度]]缺失系统解构教学法内容中立性神话；随后 [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] 开展了长达 6 步的全面统计技术审计，从[[Fixed-Effect Model\|固定效应]]违反、加权缺失到方差失控，实证判定该方法在科学上不可行。
+> - **2011–2016 年 — 德语学理深化与逐步技术审计期** 德国教学论与制度研究学界（[[Argument_Terhart_2011_JCS\|Terhart, 2011]]; [[Argument_Terhart_2014_HolyGrail\|Terhart, 2014]]; [[Argument_Koller_2014_WhatWorks\|Köller, 2014]]; [[Argument_Brugelmann_2014_LocalPractice\|Brügelmann, 2014]]; [[Argument_Rolff_2014_SchoolStructure\|Rolff, 2014]]）对二阶元分析开展了系统反思与实证审读。布吕格尔曼从均值陷阱、课程测不准原理与[[Implementation Fidelity|实施保真度]]缺失系统解构教学法内容中立性神话；[[Hans-Günter Rolff|罗尔夫]]针砭政策界将哈蒂数据图当作罗夏墨迹测验（Rorschach-Test）按预设立场各取所需，揭露以“只需好教师而无需好结构”推卸系统责任并使个别教师沦为替罪羊的个体归咎倾向，指出哈蒂的结构无关论源于英语国家综合中学而无法适用于多轨制德意志语境；随后 [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] 开展了长达 6 步的全面统计技术审计，从[[Fixed-Effect Model\|固定效应]]违反、加权缺失到方差失控，实证判定该方法在科学上不可行。
 > - **2017–2020 年 — 数理统计审计、政治哲学批判与新泰勒制解构期** 加拿大统计学者伯杰龙与里瓦尔（[[Argument_Bergeron_2017_MJE\|Bergeron & Rivard, 2017]]）发表系统数理审计，受控模拟证实三类合法公式对同一数据得出完全相反排名，揭示普通语言[[Effect Size|效应量]]负概率与相关换算数学爆炸，将该体系定性为违背数理统计公理的违背数理统计公理的伪科学构架；同时丹麦与澳洲学者转向哲学与微观权力批判：[[Argument_Rømer_2018_EPT\|Rømer (2018)]] 论证评价理论殖民教育理论，[[Argument_Larsen_2019_EducSci\|Larsen (2019)]] 指出可见性遮蔽了不可见的深层育人价值；[[Argument_Eacott_2019_IJLE\|Eacott (2019)]] 与 [[Argument_McKnight_2020_Discourse\|McKnight and Whitburn (2020)]] 揭露[[Cult of the Guru|大师崇拜]]与新泰勒制监控；[[Argument_OConnor_2020_AJLL\|O'Connor (2020)]] 通过[[Whole Language|全语言]]案例实证揭露先验立场对数据提取的扭曲。
 > - **2021–2026 年 — 深度意识形态解构与[[Metascience|元科学]]可复现性审计期** 批判深化为整体性科学划界与实证审计：Nielsen and Klitmøller (2021) 揭示[[Technical Rationality|技术理性]]满足[[Legitimation Crisis|合法化危机]]；[[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] 系统运用[[Cargo Cult Science|货物崇拜科学]]、[[Neo-Taylorism|新泰勒主义]]、简单算术平均与商业利益追踪实施四位一体解构；[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] 开展首个[[Preregistration|预注册]]元科学全库审计，以不足 1% 的数据复现率在实证上彻底确立了其不可作为决策依据的定论。
 

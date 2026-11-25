@@ -11989,6 +11989,19 @@
     ]
   },
   {
+    "title": "Professional Support Staff",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Professional Support Staff.md",
+    "aliases": [
+      "专业支持人员",
+      "高校专业支持人员",
+      "高等教育专业人员",
+      "higher education professionals",
+      "support staff",
+      "non-academic professionals"
+    ]
+  },
+  {
     "title": "Promising Student",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Promising Student.md",
@@ -29260,6 +29273,16 @@
     "aliases": [
       "模板分析",
       "模板分析法"
+    ]
+  },
+  {
+    "title": "Thematic Analysis",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Thematic Analysis.md",
+    "aliases": [
+      "主题分析",
+      "主题分析法",
+      "Braun and Clarke thematic analysis"
     ]
   },
   {
@@ -51195,7 +51218,8 @@
     "path": "wiki/facts/uk/Evidence-Based Teachers Network.md",
     "aliases": [
       "EBTN",
-      "证据本位教师网络"
+      "证据本位教师网络",
+      "循证教师网络"
     ],
     "subtype": "policy"
   },
@@ -58269,6 +58293,11 @@
     "title": "Argument_Atkinson_2008_TIS",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Technology in Society/Argument_Atkinson_2008_TIS.md"
+  },
+  {
+    "title": "Argument_Ryttberg_Geschwind_2021_TEM",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Tertiary Education and Management/Argument_Ryttberg_Geschwind_2021_TEM.md"
   },
   {
     "title": "Argument_Dustmann_2017_EconJ",

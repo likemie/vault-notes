@@ -1589,6 +1589,14 @@
     {
       "sentence": "**<=35% / >=60% / >=5%** 杰夫·佩蒂（2009）PAR 模型设定的教学单元时间分配比例：概览与呈现不超过 35%，应用练习不少于 60%，总结与深化不少于 5%，且全过程伴随双向反馈。",
       "target": "wiki/methods/qualitative/Participatory Action Research.md"
+    },
+    {
+      "sentence": "**国际实践项目与德文版布局** 哈蒂依托个人网站（`visiblelearning.de`、`visiblelearningplus.com`）与教师手册（Hattie, 2012）推动官方及商业教师进修课程与哈蒂学校项目，已在英格兰、瑞典、挪威、澳大利亚与新西兰落地并筹备进入德国；沃尔夫冈·贝伊尔（Wolfgang Beywl）与克劳斯·齐勒（Klaus Zierer）翻译的《面向教师的让学习可见》亦计划于 2014 年 1 月在德国出版。",
+      "target": "wiki/persons/germany/Christian Wolff.md"
+    },
+    {
+      "sentence": "明确搁置对二阶元分析统计方法论合法性的争议，集中考察其作为一般教学论的理论资格。",
+      "target": "wiki/facts/china/Zhongkao.md"
     }
   ],
   "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md": [
@@ -1603,6 +1611,14 @@
     {
       "sentence": "面对国家基金对知识动员（Knowledge Mobilization）以及多元、平等与包容（Equity, Diversity and Inclusion, EDI）板块的硬性要求，当许多教授感到无从下手时，梅根凭借深厚的专业积累直接起草核心论证文本，多次作为合作研究者写进国家级重大课题申请书中。",
       "target": "wiki/concepts/instruction-pedagogy/Inclusive Education.md"
+    },
+    {
+      "sentence": "*\"my decision about trying to step off the tenure track path and to see if that was interesting to me.",
+      "target": "wiki/facts/global/Skills Toward Employment and Productivity.md"
+    },
+    {
+      "sentence": "面对国家基金对知识动员（Knowledge Mobilization）以及多元、平等与包容（Equity, Diversity and Inclusion, EDI）板块的硬性要求，当许多教授感到无从下手时，梅根凭借深厚的专业积累直接起草核心论证文本，多次作为合作研究者写进国家级重大课题申请书中。",
+      "target": "wiki/facts/global/World Bank Institute.md"
     }
   ]
 }

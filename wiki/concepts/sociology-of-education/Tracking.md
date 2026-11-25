@@ -9,9 +9,9 @@ aliases:
 summary: "根据学术能力、测试成绩或职业取向将学生分配至不同课程轨道、教学班组或学校类型的制度化分流实践，在宏观上加剧社会阶层隔离并削弱公平与动机，在微观上强化能力固化信念与自我实现预言"
 type: concept
 domain: "sociology-of-education"
-related_count: 69
-related_level: 6
-related_stars: "💎💎"
+related_count: 72
+related_level: 7
+related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - theme/inequality
@@ -74,11 +74,13 @@ related_persons:
   - "[[Ursula Springer]]"
   - "[[Paul Morris]]"
   - "[[Iveta Silova]]"
+  - "[[Hans-Günter Rolff]]"
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
   - "[[Realschule]]"
   - "[[Hauptschule]]"
+  - "[[Gymnasium]]"
   - "[[Grammar School]]"
   - "[[Gesamtschule]]"
   - "[[Education Endowment Foundation]]"
@@ -97,6 +99,7 @@ related_arguments:
   - "[[Argument_Ertl_2006_ORE]]"
   - "[[Argument_Lim_2015_CurricInq]]"
   - "[[Argument_Deng_2016_CE]]"
+  - "[[Argument_Rolff_2014_SchoolStructure]]"
 confidence: high
 status: active
 created: 2026-05-25
@@ -218,6 +221,7 @@ updated: 2026-11-25
 > - **1985 — 冲突论视角的系统实证批判确立** 珍妮·奥克斯（Jeannie Oakes）出版著作 *Keeping Track: How Schools Structure Inequality*，开创了对校内分轨（Tracking）的系统实证批判，论证分轨如何剥夺有色人种与工人阶级子弟的优质知识获取权。[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 98)]]
 > - **2000 年代初 — 文化心理学与微观认知机制深化** [[Jin Li\|李瑾]]将分轨制置于西方文化“固定自我观”与[[Talent Assumption\|天赋假设]]框架下展开跨文化解构，揭示其引发个人降级与自我实现预言的心理微观发生学机制。[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 98–99, 109–110)]]
 > - **2006 — 德国后 PISA 分轨辩护与结构改革禁忌** [[Argument_Ertl_2006_ORE|Ertl (2006)]] 考证德国三轨制（Gymnasium / Realschule / Hauptschule）在 10 岁过早分选如何将社会经济背景转化为学力隔离；PISA 2000 中家庭 SES 对阅读成绩的方差解释力高达 17%（经合组织均值仅 8%），且 PISA 2003 成绩微升仅由 Gymnasium 独占而 Hauptschule 陷于停滞，反向拉大分轨差距；决策层将综合学校结构改革列为政治禁忌，转而以产出标准与全日制学校回避分轨弊端。[[Argument_Ertl_2006_ORE|(Ertl, 2006, pp. 620–625)]]
+> - **2004–2014 — 德国早期分轨的双重实证揭露：推荐偏误与预构环境锁定** [[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]] 梳理实证指出，德国早期分轨在入口与过程两个维度锁定不平等：在制度入口处，IGLU/PIRLS 追踪研究（Bos et al., 2004; Stubbe et al., 2012）证实即使阅读成绩与认知能力完全相同，上层阶级子女获得文法中学推荐的几率仍为底层子女的 2.68 倍（高管白领）与 1.76 倍（中产白领）；在分流完成后，PISA 2000（Deutsches PISA-Konsortium, 2001）测得中学生数学方差的 43% 归因于不同培养轨道，在同等家庭背景与智力下文法中学成绩净高出主要中学整整 49 分，证明多轨制形成了差异化的预构学习环境。
 > - **2012–2018 — 跨国量化实证与政策政治学解构** [[OECD]] 通过 [[PISA]] 跨国大样本实证确立了分轨与教育公平的负相关定律，推动去分轨综合化改革；[[Paul Morris]] 与 Sue Grey 则进一步揭示英格兰政客在[[Mediatised Governance\|媒介化治理]]中如何策略性过滤分轨负面证据并强行逆流推行选拔制度。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 114, 117–118)]]
 > - **2015 — [[Curricular Form|课程形态]]与分轨才能误认批判** [[Argument_Lim_2015_CurricInq|Lim and Apple (2015)]] 揭示新加坡分轨制（快捷轨 vs 普通轨）在微观课堂中如何依托强控制的教学代码将思维技能降格为应试技术，而精英学校则通过弱控制探究课程培育支配性特权理性，使结构性分轨不平等被系统性误认为个人才能差异。
 > - **2014–2021 — 因果试验招募挫败与准实验方法转向** [[Education Endowment Foundation\|EEF]] 资助的能力分班大规模 [[Randomised Controlled Trials\|RCT]] 因学校拒绝[[Random Assignment\|随机化]]而招募失败（Roy et al., 2014）；EEF [[EEF Teaching and Learning Toolkit\|教学与学习工具包]]（Toolkit）实证定性能力分班对弱势学童带来净损失（$-1$ 个月），加剧阶层固化；2019 年 EEF 正式设立“研究[[School Choice\|学校选择]]”资助序列，确立利用自然变异与[[Quasi-Experimental Designs\|准实验设计]]（QEDs）评估能力分组政策的因果研究新[[Paradigm\|范式]]。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 55–56)]]

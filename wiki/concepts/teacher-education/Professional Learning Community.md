@@ -83,7 +83,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-14
-updated: 2026-11-15
+updated: 2026-11-25
 ---
 
 ---
@@ -266,6 +266,7 @@ updated: 2026-11-15
 > - [[Argument_Besa_2024_UW\|Besa (2024)]] — 探讨 PLC 在社交媒体时代向跨区域虚拟教研室（[[Virtual Teacher Staffroom\|Twitter-Lehrerzimmer]]）的网络化延伸，分析草根同侪互助与学术科研双向对话缺位的实践张力。
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] — 框架综合 109 项实证研究，量化确立专业学习共同体（PLC）作为学校支持研究使用组织结构与时间保障的核心制度化载体（p. 14）。
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 结合威尔士教育改革案例，指出专业学习社群（PLC）通过同行反思、合作研讨与相互问责，促进教师默会知识共享并驱动课堂教学改进（p. 5）。
+> - [[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]] — 援引富兰（Fullan, 2010）说明专家同行教练与集体听课如何在校长及学科组长协调下建成专业学习共同体（pp. 75–76）。
 
 ---
 

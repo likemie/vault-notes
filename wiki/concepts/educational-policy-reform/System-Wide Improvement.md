@@ -9,7 +9,7 @@ aliases:
 summary: "指在国家或次国家等整个教育管辖区范围内，通过跨层级战略协同、教师资本投入、宏微观治理桥接与针对性资源配置，持续提升所有学校学业质量并缩小群体差距的系统性改革范式。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 21
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Grammar of Schooling]]"
   - "[[Self-Improving School System]]"
   - "[[Document]]"
+  - "[[Second-Order Change]]"
 related_theories:
   - "[[Organizational Culture]]"
   - "[[Human Capital Theory]]"
@@ -43,13 +44,15 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Michael Fullan]]"
+  - "[[Hans-Günter Rolff]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Barrenechea_2023_JEC]]"
+  - "[[Argument_Rolff_2014_SchoolStructure]]"
 confidence: high
 status: draft
 created: 2026-11-10
-updated: 2026-11-11
+updated: 2026-11-25
 ---
 
 ---
@@ -89,6 +92,7 @@ updated: 2026-11-11
 > - **[[Professional Capital|教师专业资本]]投资（[[Human Capital Theory|Human Capital]] Investment）** 将提升教师教学能力置于中心地位，通过校本[[Mentorship|导师制]]、[[Professional Learning Community|专业学习共同体]]与协同教研，使教师与[[School Leadership|学校领导]]者成为教学改进的引领者。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 490–491)]]
 > - **宏微观治理桥接（Macro–Micro Level Governance Bridges）** 建立连接宏观课程决策与课堂日常教学的制度机制，推行注重专业支持而非纯粹惩戒的问责制度，依靠实证数据进行循证调整。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 491–493)]]
 > - **针对性资源倾斜配置（Targeted Resource Allocation）** 将财政经费、优质教材教具与[[Effective Teaching|有效教学]]时间优先配置给处境不利学校和弱势学童，为系统整体提升奠定物质基础。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 493–494)]]
+> - **校内中层管理与系统变革能力（Middle Management and Capacity for Change）** 全系统改进需深入学校内部治理，激活年级组与学科组发言人构成的中层管理团队。结合教学改进、人事发展与组织变革三位一体推进，并依靠由校长协调的专业支持网络，将全系统战略转化为持续的学校内部变革能力。（[[Michael Fullan|Fullan, 2010]]；Mourshed et al., 2011；[[Hans-Günter Rolff|Rolff, 2011]], 2014; [[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]]）
 
 > [!logic-map]- 系统性改进驱动机制
 > ```mermaid

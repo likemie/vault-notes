@@ -88,7 +88,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 
 > [!def] School Leadership
@@ -343,3 +343,4 @@ updated: 2026-11-24
 > - [[Argument_Eacott_2017_SLM|Eacott (2017)]] — 从卡拉汉[[Cult of Efficiency|效率崇拜]]与[[Neo-Taylorism|新泰勒主义]]视角，深度解构澳大利亚学校领导力对[[John Hattie|哈蒂]] VL 学说的教父式崇拜，批判将领导力窄化为持续数据生产的技术官僚异化（pp. 413–426）。
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — [[Systematic Review|系统综述]] 109 项实证研究，揭示学校领导者在研究使用治理中兼具赋权示范催化剂与合规门禁阻断者的双重角色（pp. 15, 17）。
 > - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 结合实证教育研究与邦森等路径模型，阐明学校领导（$d = 0.36$）通过促进教学创新与同侪协作间接驱动课堂因材施教（pp. 29–31）。
+> - [[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]] — 论证校内质量依赖校长协调中层管理（年级与学科组发言人）及专业学习共同体协同推进（pp. 74–76）。

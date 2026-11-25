@@ -13,7 +13,7 @@ subtype: policy
 region: germany
 fact_region: "germany"
 fact_kind: "policy"
-fact_related_count: 24
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -40,12 +40,14 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Comprehensive Education]]"
   - "[[Selective Education]]"
+  - "[[Second-Order Change]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Alexander Oettl]]"
   - "[[Richard Münch]]"
+  - "[[Hans-Günter Rolff]]"
 related_facts:
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[Realschule]]"
@@ -57,10 +59,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Munch_2014_TCR]]"
   - "[[Argument_Ertl_2006_ORE]]"
+  - "[[Argument_Rolff_2014_SchoolStructure]]"
 confidence: high
 status: active
 created: 2026-11-21
-updated: 2026-11-21
+updated: 2026-11-25
 ---
 
 ---
@@ -132,6 +135,12 @@ updated: 2026-11-21
 > >
 > > - **结构改革批判（反思派）** [[Alexander Oettl|厄特尔]]（[[Argument_Ertl_2006_ORE|Ertl, 2006, pp. 625–626]]）指出，各派政治势力与 KMK 在后 PISA 改革中达成了将三轨制与早期分流定性为政治禁忌的默契，仅通过制定主要中学国家教育标准（KMK, 2004）推行技术层面的产出监控；这种回避制度结构的折衷策略不仅未能缩小阶层差距，反而扩大了主要中学与文法中学的实际表现差距。
 > > - **分流合理性辩护（传统派）** 保守政治阵营与雇主协会长期辩护称，分流学制能提供契合儿童异质资质的学习环境，主要中学的实用导向为基础学力薄弱学生提供了免受学术文凭过度竞争的庇护通道。
+>
+> > [!axis] 教师效能归咎 vs 人与结构共变理论
+> > 针对将主要中学学业危机归咎于教师教学水平的倾向展开学术审读。
+> >
+> > - **个体问责倾向（教师决定论）** 德国部分舆论与政策评论借助对《可见的学习》的简化阐释，主张学校质量完全取决于单个教师的课堂行为，试图以此淡化学制结构改革的迫切性（[[Argument_Rolff_2014_SchoolStructure|Rolff, 2014, pp. 67]], 77）。
+> > - **系统属性与反个体归咎（制度社会学派）** [[Hans-Günter Rolff|罗尔夫]]（[[Argument_Rolff_2014_SchoolStructure|Rolff, 2014, p. 77]]）强调学校质量是系统的整体属性，主要中学集中展现了人与结构的交互作用：它拥有敬业的教师，却受制于被边缘化的不利轨制结构；将质量问题单独推给教师个体，会使其沦为制度缺陷的替罪羊。[[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]]
 
 ---
 
