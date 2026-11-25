@@ -49,6 +49,7 @@ related_concepts:
   - "[[Banking Model of Education]]"
   - "[[Metacognition]]"
   - "[[STEM Education]]"
+  - "[[Instructional Design]]"
 related_theories:
   - "[[Formative Epistemic Injustice]]"
   - "[[Epistemic Injustice]]"
@@ -60,6 +61,7 @@ related_persons:
   - "[[Christopher Martin]]"
   - "[[Paulo Freire]]"
   - "[[Michael W. Apple]]"
+  - "[[Bronwyn Davies]]"
   - "[[James C. Scott]]"
 related_facts: []
 related_arguments: []
@@ -68,14 +70,14 @@ sources:
 part_of:
 status: active
 created: 2026-09-23
-updated: 2026-11-15
+updated: 2026-11-25
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Smith_2026_SPE"
 argument_key: "Argument_Smith_2026_SPE"
 argument_display_title: "Generative artificial intelligence, formative epistemic injustice, and educators’ solutions"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 39
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -191,7 +193,7 @@ issuing_organization: ""
 > 追溯英语教育史，阿瑟·[[Michael W. Apple|阿普尔]]比（Arthur Applebee, 1974）与罗斯·柯林（Ross Collin, 2024）指出，美国早期读写教育的初衷是让学生通过阅读理解道德与神学真理，探索生命与社会的至善。然而，随着中小学教育全面屈从于政客要求的技能培训，读写教学被严重[[Alienation|异化]]：“人们阅读不再是为了探索善，而是为了寻找中心句和圈出过渡词。”（Collin, 2024, p. 16/149; p. 5）
 
 > [!tension] 高利害测验催生套路写作与师生焦虑
-> 这种狭隘的技能导向与[[High-Stakes Testing|高利害测验]]（High-Stakes Testing）深度捆绑。朱莉·埃尔·勒恩德等（Julie E. Learned et al., 2020）实证指出，高利害测验导致学生产生严重的情绪困扰，并迫使教师在课堂中推行套路化公式写作（Formulaic Writing）。威廉·戴维斯（William Davies, 2022）尖锐指出，这种套路写作高度依赖信息处理与模式识别，彻底驱逐了读写中最宝贵的人文心智——主观阐释与深层理解；而计算机最擅长这种信息处理。这种将读写教学向计算机算力对齐的倾向，构成了[[Computerization of Education|教育计算机化]]（Computerization of Literacy Education）。
+> 这种狭隘的技能导向与[[High-Stakes Testing|高利害测验]]（High-Stakes Testing）深度捆绑。朱莉·埃尔·勒恩德等（Julie E. Learned et al., 2020）实证指出，高利害测验导致学生产生严重的情绪困扰，并迫使教师在课堂中推行套路化公式写作（Formulaic Writing）。威廉·[[Bronwyn Davies|戴维斯]]（William Davies, 2022）尖锐指出，这种套路写作高度依赖信息处理与模式识别，彻底驱逐了读写中最宝贵的人文心智——主观阐释与深层理解；而计算机最擅长这种信息处理。这种将读写教学向计算机算力对齐的倾向，构成了[[Computerization of Education|教育计算机化]]（Computerization of Literacy Education）。
 
 > [!sub-claim] 2. [[Computerization of Education|教育计算机化]]前置满足了成长性认识不正义三判据，AI 介入带来系统性放大
 
@@ -320,7 +322,7 @@ issuing_organization: ""
 
 > [!warning] 自述局限
 > - **实证案例主要聚焦于人文学科读写教学** 作者明确指出，文中所提出的[[Formative Epistemic Injustice|成长性认识不正义]]机制与反思教学规程主要基于写作学与人文学科课程，其分析逻辑与防御建议是否能无缝推广至科学、技术、工程与数学（Science, Technology, Engineering, and Mathematics, [[STEM Education|STEM]]）类课程，仍有待跨学科检验。
-> - **课堂现实约束与学生应试时间压力** 作者自述承认，要求学生将 AI 视为[[Alien Intelligence|异己心智]]并开展精细反思对比的教学设计，在真实学校情境中极易遭遇现实阻抗；特别是在学生面临繁重考核、在截止日期前数小时仓促赶工时，[[Reflexivity|反思性]]规约很可能沦为形式主义，难以真正撼动走捷径的冲动。
+> - **课堂现实约束与学生应试时间压力** 作者自述承认，要求学生将 AI 视为[[Alien Intelligence|异己心智]]并开展精细反思对比的[[Instructional Design|教学设计]]，在真实学校情境中极易遭遇现实阻抗；特别是在学生面临繁重考核、在截止日期前数小时仓促赶工时，[[Reflexivity|反思性]]规约很可能沦为形式主义，难以真正撼动走捷径的冲动。
 
 ---
 

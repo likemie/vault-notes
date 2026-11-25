@@ -11,10 +11,10 @@ title: "Argument_Wang_Barabasi_2021_Cambridge_Unit05"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge_Unit05"
 argument_display_title: "The Science of Science"
 argument_kind: "book-chapter"
-argument_related_count: 49
-argument_related_level: 4
-argument_related_stars: "💎⭐"
-argument_related_color: "#fef3c7"
+argument_related_count: 52
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 book_title: "The Science of Science"
 publisher: "Cambridge University Press"
 year: 2021
@@ -70,12 +70,15 @@ related_persons:
   - "[[Anita Williams Woolley]]"
   - "[[Roger Guimera]]"
   - "[[Brian Uzzi]]"
+  - "[[Georg Friedrich Meier]]"
+  - "[[Bronwyn Davies]]"
   - "[[Michael S. Brown]]"
   - "[[Joseph L. Goldstein]]"
   - "[[Stasa Milojevic]]"
   - "[[Lingfei Wu]]"
   - "[[Dashun Wang]]"
   - "[[James A. Evans]]"
+  - "[[Christian Wolff]]"
 related_facts:
   - "[[National Science Foundation]]"
   - "[[CERN]]"
@@ -89,7 +92,7 @@ sources:
 part_of: "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 status: active
 created: "2026-10-30"
-updated: 2026-11-15
+updated: 2026-11-25
 ---
 
 ---
@@ -229,7 +232,7 @@ updated: 2026-11-15
 > 团队组装模型关于经验积淀与创新思维平衡的法则，在艺术与科技创意产业展现出鲜明的普适规律：
 > - **百老汇音乐剧百年创作网络（1877–1990）** 分析百老汇上演的 2,258 部音乐剧创作全量名录（涵盖作曲家、作词家、剧本编剧、编舞、导演与制作人）表明，获得剧评盛赞与票房丰收的剧目无一例外融合了老手制作人的行业经验与新秀艺术家的前卫视角；纯老手构成的封闭团队极易陷入艺术陈词滥调（Guimerà et al., 2005; Uzzi & Spiro, 2005; p. 120）。
 > - **全球商业电子游戏开发（1979–2009）** 对全球发行的 12,422 款视频游戏团队大数据研究表明，最具商业与艺术爆发力的研发团队由拥有合作默契的核心成员主导，同时成比例吸纳具备异质美术与引擎编程经验的新成员，有效避免续作设计套路化（de Vaan et al., 2015; p. 120）。
-> - **百年爵士乐唱片录制历史（1896–2010）** 分析 175,000 场爵士录音全量人事库表明，乐手搭档经验与新面孔的结合是唱片多次再版发行的决定性因素。最辉煌的典范是迈尔斯·戴维斯（Miles Davis）1959 年里程碑专辑《泛蓝调调》（*Kind of Blue*，人类历史上再版次数最多的爵士唱片）：贝斯手保罗·钱伯斯（Paul Chambers）彼时已录制 58 场演习，其中 22 场与小号手戴维斯合作，8 场与钢琴手温顿·凯利（Wynton Kelly）合作；然而戴维斯与凯利此前从未同台合作。钱伯斯成为连接熟悉伙伴与陌生面孔的枢纽，在维持信任默契的同时激发即兴碰撞（Phillips, 2011; p. 120）。
+> - **百年爵士乐唱片录制历史（1896–2010）** 分析 175,000 场爵士录音全量人事库表明，乐手搭档经验与新面孔的结合是唱片多次再版发行的决定性因素。最辉煌的典范是[[Georg Friedrich Meier|迈尔]]斯·[[Bronwyn Davies|戴维斯]]（Miles Davis）1959 年里程碑专辑《泛蓝调调》（*Kind of Blue*，人类历史上再版次数最多的爵士唱片）：贝斯手保罗·钱伯斯（Paul Chambers）彼时已录制 58 场演习，其中 22 场与小号手戴维斯合作，8 场与钢琴手温顿·凯利（Wynton Kelly）合作；然而戴维斯与凯利此前从未同台合作。钱伯斯成为连接熟悉伙伴与陌生面孔的枢纽，在维持信任默契的同时激发即兴碰撞（Phillips, 2011; p. 120）。
 
 > [!contrast-table] 团队组装模型在四大基础学术学科的实证计量矩阵
 > | 验证学科 | 数据覆盖与发表记录 | 参数 $p$（资历）效应 | 参数 $q$（重复）效应 | 组织实务启示 |
@@ -297,7 +300,7 @@ updated: 2026-11-15
 > [!case] 经典案例对照：自组织临界性 BTW 模型 vs 玻色－爱因斯坦凝聚态实验
 > 物理学两项引用总量相当、但对学术知识树塑造路径截然相反的里程碑成果，直观展现了颠覆型与发展型工作的本质分野：
 > - **颠覆型突破：Bak et al. (1987) 自组织临界性 BTW 模型（$D = 0.86$）** Per Bak、Chao Tang 与 Kurt Wiesenfeld 提出的沙堆自组织临界性模型开辟了全新研究领域。在后续海量施引文献中，绝大多数学者仅引用 BTW 成果本身，完全绕过并忽略了该文引用的早期先驱文献（如图 12.3a 中的绿色连线）。引文树展现出枝繁叶茂、向上完全舒展的独立姿态，表明该成果打破了原有知识范式，建立起全新探究起点（pp. 128–130）。
-> - **发展型攻关：Davis et al. (1995) 玻色－爱因斯坦凝聚实验验证（$D = -0.58$）** 沃尔夫冈·凯特勒（Wolfgang Ketterle）等人在钠原子气体中实现玻色－爱因斯坦凝聚态（获 2001 年诺贝尔物理学奖）。尽管该成就备受学界推崇，但后人引用该文时，几乎始终将其与爱因斯坦等先驱提出的理论奠基文献一并共引（如图 12.3a 中的棕色连线）。引文树枝干向下深度卷曲附着在树根上，表明该研究主要致力于攻克既有[[Grand Theory|宏大理论]]预言中的实验实现难关，属于典型的发展型成果（pp. 129–130）。
+> - **发展型攻关：Davis et al. (1995) 玻色－爱因斯坦凝聚实验验证（$D = -0.58$）** [[Christian Wolff|沃尔夫]]冈·凯特勒（Wolfgang Ketterle）等人在钠原子气体中实现玻色－爱因斯坦凝聚态（获 2001 年诺贝尔物理学奖）。尽管该成就备受学界推崇，但后人引用该文时，几乎始终将其与爱因斯坦等先驱提出的理论奠基文献一并共引（如图 12.3a 中的棕色连线）。引文树枝干向下深度卷曲附着在树根上，表明该研究主要致力于攻克既有[[Grand Theory|宏大理论]]预言中的实验实现难关，属于典型的发展型成果（pp. 129–130）。
 
 > [!figure]- 图12-4：跨期刊论著、专利与软件三大领域团队规模与颠覆性的幂律负相关
 > ![](https://img.mylikemie.icu/books/Wang_Barabasi_2021_Cambridge/figures/Figure_12-4_Small_Teams_Disrupt_Big_Teams_Develop.jpg)

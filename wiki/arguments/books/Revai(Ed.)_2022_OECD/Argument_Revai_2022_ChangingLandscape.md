@@ -7,9 +7,9 @@ title: "Argument_Revai_2022_ChangingLandscape"
 argument_key: "Argument_Revai_2022_ChangingLandscape"
 argument_display_title: "The changing landscape of research use in education"
 argument_kind: "book-chapter"
-argument_related_count: 67
-argument_related_level: 6
-argument_related_stars: "💎💎"
+argument_related_count: 72
+argument_related_level: 7
+argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
 authors:
   - "[[Nóra Révai|Révai, N.]]"
@@ -64,6 +64,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Professional Learning Community]]"
   - "[[Innovation Hub]]"
+  - "[[Evidence-Based Teaching]]"
   - "[[Tacit Knowledge]]"
   - "[[Formative Assessment]]"
   - "[[Research Impact]]"
@@ -73,6 +74,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Ecological Validity]]"
   - "[[Gatekeepers]]"
+  - "[[Horizontal Coordination]]"
   - "[[Evaluation Research]]"
   - "[[Emergence]]"
 related_theories:
@@ -90,26 +92,29 @@ related_methods:
   - "[[Journal Impact Factor]]"
   - "[[Questionnaire]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Bronwyn Davies]]"
 related_facts:
   - "[[OECD]]"
   - "[[Centre for Educational Research and Innovation]]"
   - "[[Strengthening the Impact of Education Research Project]]"
   - "[[Best Evidence Synthesis]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Zhongkao]]"
   - "[[What Works Clearinghouse]]"
   - "[[EPPI-Centre]]"
   - "[[Teaching and Learning Research Programme]]"
   - "[[Research Schools Network]]"
   - "[[Research Excellence Framework]]"
   - "[[No Child Left Behind Act 2001]]"
+  - "[[Recommendation-Based Graduate Admission System]]"
   - "[[Dimensions]]"
 related_arguments: []
 sources:
   - "[[books/Revai(Ed.)_2022_OECD/Ch01_Revai_2022|Ch01_Revai_2022]]"
 status: draft
 created: 2026-09-12
-updated: 2026-11-11
+updated: 2026-11-25
 ---
 ---
 
@@ -198,7 +203,7 @@ updated: 2026-11-11
 > - **与原始数据的严格划界** 该定义明确排除了未加工的数据与原始信息；单纯的事实积累与原始数据只有在为了特定目的被系统分析与探究时，才能被视作研究。（p.18）
 
 > [!theory-stance] 证据适切性的问题导向[[Epistemic Stances\|认识论立场]]
-> - **问题导向的证据适切观** 桑德拉·纳特利（Sandra Nutley）、马丁·鲍威尔（Martin Powell）与休·戴维斯（Hugh Davies）（Nutley et al., 2013）深刻批判了不顾[[Research Question\|研究问题]]而空谈证据等级的教条主义。决策者与一线教师不仅关心某项干预“是否起作用”，更需要理解“在何种情境下、对谁有效、为何起作用、实施成本与伴生风险是什么”。
+> - **问题导向的证据适切观** 桑德拉·纳特利（Sandra Nutley）、马丁·鲍威尔（Martin Powell）与休·[[Bronwyn Davies|戴维斯]]（Hugh Davies）（Nutley et al., 2013）深刻批判了不顾[[Research Question\|研究问题]]而空谈证据等级的教条主义。决策者与一线教师不仅关心某项干预“是否起作用”，更需要理解“在何种情境下、对谁有效、为何起作用、实施成本与伴生风险是什么”。
 > - **质性研究的不可替代性** 探究机制运转过程（How it works）以及教育意义感知（Does it matter）的核心问题，是随机对照试验（RCT）无法回答、而必须依赖质性研究深入挖掘的知识领地（Petticrew & Roberts, 2003）。（p.17）
 
 > [!sub-claim] 2. 研究证据与实践知识具有根本异质性，研究的功能在于启发专业判断而非提供自动化处方
@@ -223,7 +228,7 @@ updated: 2026-11-11
 > [!claim|step] 论证步骤二　单向信息分发无法自发引发实践变革，唯有全系统激活的“证据生态系统”才能保障知识动员的长效运转
 > [[Knowledge Mobilisation\|知识动员]]已从单向信息分发的线性模型与点状伙伴关系，演进为涵盖评估、综合、转译与利用的[[Evidence Ecosystem\|证据生态系统]]；唯有激活系统性使能机制，才能突破微观中介的局限。（pp.18–21）
 
-伴随认识论的深化，学术界对知识如何流动的机制探讨也发生了重大[[Paradigm|范式]]转向。学者们逐步认识到，单纯关注如何把研究结果包装得更好无法解决转化梗阻，必须将知识流动置于宏观制度网络中考量。（p.18）
+伴随认识论的深化，学术界对知识如何流动的机制探讨也发生了重大[[Paradigm|范式]]转向。学者们逐步认识到，单纯关注如何把研究结果包装得更好无法解决转化梗阻，必须将知识流动置于宏观制度网络[[Zhongkao|中考]]量。（p.18）
 
 > [!sub-claim] 1. 传统线性推力（Push）与需求拉力（Pull）机制无法自发诱发决策采纳，知识动员展现出嵌套演进特征
 
@@ -250,7 +255,7 @@ updated: 2026-11-11
 
 > [!case] 证据生态系统的全链条激活实践：英国 EEF [[Research Schools Network\|研究学校网络]]
 > - **研究学校网络（Research Schools Network）**
->   由 EEF 评选标杆学校担任区域[[Innovation Hub\|创新枢纽]]，面向全区中小学校长与教师开展常态化循证教学培训，打破大学与中小学的制度壁垒。(EEF, 2019)
+>   由 EEF 评选标杆学校担任区域[[Innovation Hub\|创新枢纽]]，面向全区中小学校长与教师开展常态化[[Evidence-Based Teaching|循证教学]]培训，打破大学与中小学的制度壁垒。(EEF, 2019)
 > - **研究学习网络（Research Learning Networks, RLNs）**
 >   依托学者与一线教师的深度结对，开展平等的“学习对话”（Learning Conversations），在课堂真实情境中协同调试与本土化创生教学证据（Brown, 2018）。(p.21)
 
@@ -305,7 +310,7 @@ updated: 2026-11-11
 > [!tension-table] 知识共创模式的双重张力与治理挑战
 > | 机制维度 | 本土情境收益（Benefits） | 系统治理风险与挑战（Challenges） | 代表[[Document\|文献]]实证支撑 |
 > |---|---|---|---|
-> | **问题相关性** | 教师与官员全程参与，确保研究直击真实痛点，产生高度的主人翁认同感（Ownership）。 | 研究问题易被短期[[Pragmatic Paradigm\|实用主义]]裹挟，忽视宏观基础性理论建构。 | Cooper et al. (2017) |
+> | **问题相关性** | 教师与官员全程参与，确[[Recommendation-Based Graduate Admission System\|保研]]究直击真实痛点，产生高度的主人翁认同感（Ownership）。 | 研究问题易被短期[[Pragmatic Paradigm\|实用主义]]裹挟，忽视宏观基础性理论建构。 | Cooper et al. (2017) |
 > | **资源与时间投入** | 深化一线教师对教学机理的专业反思，提升循证教学效能。 | 教师与决策者面临严重的时间赤字，缺乏外部专业支持易导致参与流于形式。 | Bell et al. (2010) |
 > | **质量与严谨性** | 打破传统学术审查的象牙塔垄断，注入本土[[Ecological Validity\|生态效度]]。 | 传统同行评议[[Gatekeepers\|把关人]]缺位，地方性知识可能缺乏方法严密性与理论纵深。 | Enthoven & de Bruijn (2010) |
 > | **扩散与可迁移性** | 在特定试点学校或学区内部产生显著改进效能。 | 极度依赖个别带头人的默契协作，若缺乏本土情境内的反复迭代与其他情境的严谨复验，难以向全系统规模化推广。 | 同上 |
@@ -322,7 +327,7 @@ updated: 2026-11-11
 该调查是国际上首个专注于国家级教育决策中研究动员机制的大规模实证调查。通过面向最高教育行政层级的标准化[[Questionnaire|问卷]]与针对 6 个典型国家的半结构化深度访谈，系统采集了跨国第一手数据。（pp.25–27）
 
 > [!tension] 跨国政策调查中“政策制定者”内涵认知的界定分歧
-> 本项目政策调查精准锚定最高决策机构（教育部/教育厅）。在联邦制体系中由各省/州教育部负责横向协调并统筹答卷。随后的跟进访谈揭示了各国对“政策制定者”（Policy Makers）内涵认知的显著分歧，这提示横向对比各国调查数据时必须审慎考虑受访者行政背景带来的口径偏倚：（p.25）
+> 本项目政策调查精准锚定最高决策机构（教育部/教育厅）。在联邦制体系中由各省/州教育部负责[[Horizontal Coordination|横向协调]]并统筹答卷。随后的跟进访谈揭示了各国对“政策制定者”（Policy Makers）内涵认知的显著分歧，这提示横向对比各国调查数据时必须审慎考虑受访者行政背景带来的口径偏倚：（p.25）
 > - **狭义界定（高层行政裁决权）** 绝大多数教育系统将其严格限定为具有实质决策裁决权的高级行政长官（如司局长、总司长、常务秘书），明确将决策职能与政策执行人员区隔开来。(p.25)
 > - **广义界定（全系统行政人员）** 部分国家采取大行政观，将教育部所有专业雇员以及行政与立法分支涉及教育事务的所有人员全数纳入考量，导致跨国调查数据口径存在异质性。同上
 

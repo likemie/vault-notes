@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_methods:
   - "[[Combinatorial Novelty Measurement]]"
 related_instruments: []
 related_persons:
+  - "[[Bronwyn Davies]]"
   - "[[Joseph Schumpeter]]"
   - "[[Brian Uzzi]]"
   - "[[Dashun Wang]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-31
-updated: 2026-11-11
+updated: 2026-11-25
 ---
 
 ---
@@ -62,7 +63,7 @@ updated: 2026-11-11
 ---
 
 > [!timeline] 生平与职涯
-> - **1990 年代** 先后获得加州大学戴维斯分校电气工程学士、斯坦福大学工程经济系统硕士及组织行为学博士学位，兼具工程实践与定量组织学视野。
+> - **1990 年代** 先后获得加州大学[[Bronwyn Davies|戴维斯]]分校电气工程学士、斯坦福大学工程经济系统硕士及组织行为学博士学位，兼具工程实践与定量组织学视野。
 > - **1998–2011** 执教于哈佛商学院技术与运营管理组，长期担任工商管理学教授，聚焦专利大数据与技术发明网络研究。
 > - **2001** 在顶级期刊《管理科学》（*Management Science*）发表奠基作《技术搜索中的重组不确定性》，确立基于技术构件重组的发明理论模型。
 > - **2007** 在《组织科学》（*Organization Science*）发表实证研究，通过分析 17,000 余项多学科合作专利，首次证实跨学科合作拉宽产出方差、催生两极分化结果的规律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Fleming, 2007; Wang & Barabási, 2021, pp. 191–192)]]

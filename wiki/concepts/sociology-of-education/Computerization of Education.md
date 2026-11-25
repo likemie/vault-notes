@@ -7,7 +7,7 @@ aliases:
 summary: "由 William Davies (2022) 批判提出并由 Smith (2026) 引入教育哲学的批判社会学概念，指在标准化改革与高利害测验压力下，读写教育系统性向计算机优势能力（信息处理与模式识别）靠拢，从而边缘化并驱逐人类独有的主观阐释与深层理解；在生成式 AI 时代，算法代劳与套路八股形成恶性共谋，前置并加剧了成长性认识不正义。"
 type: concept
 domain: "sociology-of-education"
-related_count: 20
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,11 +28,13 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Critical Pedagogy]]"
   - "[[Conscientization]]"
+  - "[[Student Attitude]]"
   - "[[Epistemic Agency]]"
   - "[[Reflexivity]]"
   - "[[Cognitive Deskilling]]"
   - "[[Alien Intelligence]]"
   - "[[The Sublime]]"
+  - "[[Curricular Form]]"
   - "[[Learned Helplessness]]"
   - "[[Epistemic Malformation]]"
   - "[[Reliability]]"
@@ -42,13 +44,14 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Michael W. Apple]]"
+  - "[[Bronwyn Davies]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Smith_2026_SPE]]"
 confidence: high
 status: draft
 created: 2026-09-23
-updated: 2026-11-15
+updated: 2026-11-25
 ---
 
 ---
@@ -76,7 +79,7 @@ updated: 2026-11-15
 > | 比较维度 | 教育计算机化（Computerization of Education） | 人文主义读写教育（Humanistic Literacy） | [[Critical Pedagogy\|批判教育学]]读写（Critical Literacy） |
 > |---|---|---|---|
 > | **核心认知目标** | 信息检索、模式识别、圈出过渡词与套用结构 | 探索伦理至善、审美体验、意义建构与文本阐释 | [[Conscientization\|意识化]]觉醒、反思权力结构与解构意识形态压迫 |
-> | **对机器能力的态度** | **盲目对齐** 考核标准向算法可计算、可评分的套路靠拢 | **价值坚守** 强调人类具身体验与精神世界的不可替代性 | **批判审问** 将技术与算法视作必须接受质疑的权力载体 |
+> | **对机器能力的[[Student Attitude\|态度]]** | **盲目对齐** 考核标准向算法可计算、可评分的套路靠拢 | **价值坚守** 强调人类具身体验与精神世界的不可替代性 | **批判审问** 将技术与算法视作必须接受质疑的权力载体 |
 > | **学生角色** | 被动的公式化信息处理器 | 主动的文学体验者与道德探索者 | 具备[[Epistemic Agency\|认识能动性]]的[[Reflexivity\|反思性]]求知主体 |
 > | **技术代劳后果** | 迅速交由大模型代劳，陷入[[Cognitive Deskilling\|去技能化]] | 抵制全流程代笔，维系具身阅读与创作 | 借助[[Alien Intelligence\|异己智能]]视角解构算法偏见 |
 
@@ -100,7 +103,7 @@ updated: 2026-11-15
 ---
 
 > [!concept-proposition] 命题一｜应试标准化与[[High-Stakes Testing|高利害测验]]驱动了读写教育向计算机信息处理能力的异化对齐
-> **课程社会学与政策规训维度** 探讨标准化测验如何重塑课程形态，使人类读写教育向机器算力优势退化。
+> **课程社会学与政策规训维度** 探讨标准化测验如何重塑[[Curricular Form|课程形态]]，使人类读写教育向机器算力优势退化。
 
 > [!claim] Collin & Applebee
 > **从探究至善到应试套路的退化** 英语教育的历史演进展现出深刻的工具化堕落：十九世纪美国读写教育的开端是以理解神学教义、探索道德真理与社会至善为旨归；但随着教育体制全面屈从于政客要求的标准化技能考核，读写教学被彻底窄化为寻找中心句与圈出过渡词的技术八股。Applebee (1974); Collin (2024, pp. 16–21)
@@ -128,7 +131,7 @@ updated: 2026-11-15
 
 > [!dev-timeline] 概念演变
 > - **1974 — 英语课程史批判奠基** 阿瑟·[[Michael W. Apple|阿普尔]]比（Arthur Applebee）出版《英语教学的传统与改革：一部历史》，系统梳理美国文学与读写教学从道德神学探究走向技能化八股的历程。Applebee (1974)
-> - **2022 — “教育计算机化”概念提出** 英国社会学家威廉·戴维斯（William Davies）在《伦敦书评》发表文章，敏锐指出标准化公式写作本质是向计算机的信息处理与模式识别对齐，正式命名“读写教育的计算机化”。Davies (2022)
+> - **2022 — “教育计算机化”概念提出** 英国社会学家威廉·[[Bronwyn Davies|戴维斯]]（William Davies）在《伦敦书评》发表文章，敏锐指出标准化公式写作本质是向计算机的信息处理与模式识别对齐，正式命名“读写教育的计算机化”。Davies (2022)
 > - **2026 — 引入生成式 AI 与成长性认识正义批判** 斯宾塞·J·史密斯（Spencer J. Smith）将教育计算机化作为解释生成式 AI 课堂危害的制度前置条件，指出应试八股与大模型代劳达成了扼杀学生心智发育的恶性共谋。[[Argument_Smith_2026_SPE|Smith (2026)]]
 
 ---

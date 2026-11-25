@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -36,6 +36,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
 related_persons:
+  - "[[Bronwyn Davies]]"
   - "[[John Hattie]]"
 related_facts:
   - "[[Best Evidence Synthesis]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-10-30
+updated: 2026-11-25
 ---
 
 > [!person-profile] 人物档案
@@ -54,7 +55,7 @@ updated: 2026-10-30
 
 > [!note] 生平与职涯
 > - **2007 年** 受邀在澳大利亚教育领导者理事会（ACEL）年会上发表威廉·沃克主题演讲（William Walker Oration），该报告随后在 ACEL 专题单行本中出版。 ([[Argument_Eacott_2017_SLM\|Eacott, 2017, pp. 416–417]])
-> - **2008 年** 发表于《教育行政季刊》（Educational Administration Quarterly, EAQ）上的论文《领导力对学生结果的影响：领导力类型差异效应分析》获得了该刊年度最佳论文威廉·戴维斯奖（William J. Davis Award）。
+> - **2008 年** 发表于《教育行政季刊》（Educational Administration Quarterly, EAQ）上的论文《领导力对学生结果的影响：领导力类型差异效应分析》获得了该刊年度最佳论文威廉·[[Bronwyn Davies|戴维斯]]奖（William J. Davis Award）。
 
 ---
 

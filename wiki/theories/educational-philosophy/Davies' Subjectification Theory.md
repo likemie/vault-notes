@@ -8,7 +8,7 @@ aliases:
 summary: "澳大利亚学者布朗温·戴维斯（Bronwyn Davies）基于福柯权力话语理论与巴特勒主体化论述发展出的主体生成理论。主张主体是在特定话语秩序与权力关系网络中动态生成的产物。个体成为被认可的合法主体，依赖于同时屈从于既有话语规范并精熟驾驭该话语实践的双重悖论过程。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 27
+theory_related_count: 28
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -47,7 +47,8 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[In-depth Interview]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Bronwyn Davies]]"
 related_facts: []
 related_arguments:
   - "[[Argument_VanderKloet_Campisi_2023_JHEPM]]"
@@ -71,7 +72,7 @@ updated: 2026-11-25
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 澳大利亚教育学者布朗温·戴维斯（Bronwyn Davies）在 2006 年发表的代表作 *Subjectification: The relevance of Butler’s analysis for education* 中系统阐述了该理论框架。
+> - **提出者与原始文本** 澳大利亚教育学者[[Bronwyn Davies|布朗温·戴维斯]]（Bronwyn Davies）在 2006 年发表的代表作 *Subjectification: The relevance of Butler’s analysis for education* 中系统阐述了该理论框架。
 > - **原初问题** 教育学与[[Feminist Research|女性主义研究]]中关于“个体能动性”与“社会结构规训”长期割裂的理论争论，尤其是在[[Neoliberalism|新自由主义]]绩效问责与规范压力下，教育从业者和学习者如何体验并协商自身身份。
 > - **理论资源与材料** 戴维斯融合了巴特勒在《权力的心灵生活》（*The Psychic Life of Power*）中关于主体性生成的心理动力学分析，以及福柯关于话语实践、规训技术与自我技术的论述。
 > - **形成路径** 戴维斯通过解构教育话语中的日常对话、课堂互动与专业叙事，提炼出主体化过程中的双重运动（屈从与精熟），从而构建起分析微观[[Pedagogical Subject|教育主体]]生成的概念工具箱。

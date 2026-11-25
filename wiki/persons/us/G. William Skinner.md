@@ -11,10 +11,10 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 11
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1925"
 died: "2008"
 lifespan: "1925–2008"
@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Document]]"
+  - "[[Quasi-market]]"
   - "[[Nationalism]]"
 related_theories:
   - "[[Imagined Community]]"
@@ -35,6 +36,7 @@ related_methods:
   - "[[Ethnography]]"
 related_instruments: []
 related_persons:
+  - "[[Bronwyn Davies]]"
   - "[[Benedict Anderson]]"
 related_facts:
   - "[[National Academy of Sciences]]"
@@ -43,13 +45,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-14
-updated: 2026-11-15
+updated: 2026-11-25
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国历史人类学家、汉学家，康奈尔大学、斯坦福大学与加州大学戴维斯分校人类学教授，[[National Academy of Sciences|美国国家科学院]]院士（1980年当选），亚洲研究协会主席（1983–1984）。
+> - **身份位置** 美国历史人类学家、汉学家，康奈尔大学、斯坦福大学与加州大学[[Bronwyn Davies|戴维斯]]分校人类学教授，[[National Academy of Sciences|美国国家科学院]]院士（1980年当选），亚洲研究协会主席（1983–1984）。
 > - **核心角色** 战后西方汉学人类学实证转型与空间区域分析[[Paradigm|范式]]的奠基者。打破以“朝代周期”与“均质单一帝国”理解中国历史的旧框架，开创微观集镇市场与跨省生理地理巨区空间分析模型。
 > - **代表贡献** 1957年出版《泰国华人社会：一部分析的历史》（*Chinese Society in Thailand*），1964–1965年发表《传统中国的营销与社会结构》（*Marketing and Social Structure in Rural China*），1977年主编出版《中华帝国晚期的城市》（*The City in Late Imperial China*）。
 
@@ -82,7 +84,7 @@ updated: 2026-11-15
 >   - **代表著作** *Chinese Society in Thailand: An Analytical History* (1957)。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, p. 193)]]
 >   - **关键概念** 华人移民（Overseas Chinese）、方言帮群、双重忠诚与宗族延续。
 >   - **阶段转向** 将人类学亲属分析与历史[[Document|文献]]结合，开创海外华人实证研究典范。
-> - **1960年代 — 基层集市网络与中心地空间模型** 将地理学中心地理论引入中国传统乡村社会，论证农民真正的社会交往、婚姻圈与文化认同突破了官方划定的行政县界，主要由基层集镇所支配的标准市场区所塑造。
+> - **1960年代 — 基层集市网络与中心地空间模型** 将地理学中心地理论引入中国传统乡村社会，论证农民真正的社会交往、婚姻圈与文化认同突破了官方划定的行政县界，主要由基层集镇所支配的标[[Quasi-market|准市场]]区所塑造。
 >   - **代表著作** *Marketing and Social Structure in Rural China* (1964–1965)。
 >   - **关键概念** 标准市场区（Standard Marketing Area）、层级市场体系、社会整合。
 >   - **阶段转向** 从孤立的村落[[Ethnography|民族志]]扩展至层级化的区域空间系统分析。

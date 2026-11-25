@@ -12,7 +12,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -44,6 +44,7 @@ related_methods:
   - "[[Random Sampling]]"
 related_instruments: []
 related_persons:
+  - "[[Bronwyn Davies]]"
   - "[[Roberta Sinatra]]"
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
@@ -56,13 +57,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-11-11
+updated: 2026-11-25
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美籍[[Creativity|创造力]]心理学家与历史计量学者，加利福尼亚大学戴维斯分校心理学系杰出教授，曾任美国心理学会（APA）第 10 分会主席。
+> - **身份位置** 美籍[[Creativity|创造力]]心理学家与历史计量学者，加利福尼亚大学[[Bronwyn Davies|戴维斯]]分校心理学系杰出教授，曾任美国心理学会（APA）第 10 分会主席。
 > - **核心角色** 达尔文主义创造力进路与科学心理学的开创者，率先将严谨统计学方法用于分析人类历史上伟大天才的作品序列。
 > - **代表贡献** 提出[[Constant-Probability-of-Success Model|成功恒定概率模型]]，论证杰作[[Emergence|涌现]]率与成果总量的线性恒定关系；撰写《科学天才》、《创造力：认知、个人、发展与社会视角》等奠基性专著。
 

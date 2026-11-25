@@ -11,10 +11,10 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 38
-person_related_level: 3
-person_related_stars: "💎"
-person_related_color: "#ede9fe"
+person_related_count: 40
+person_related_level: 4
+person_related_stars: "💎⭐"
+person_related_color: "#fce7f3"
 born: "1947"
 died: ""
 lifespan: "1947–至今"
@@ -52,7 +52,9 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
 related_persons:
+  - "[[Bronwyn Davies]]"
   - "[[Karl Marx]]"
+  - "[[Mark Bray]]"
   - "[[Erica Fuchs]]"
   - "[[Mariana Mazzucato]]"
   - "[[Chalmers Johnson]]"
@@ -72,13 +74,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-12
-updated: 2026-11-19
+updated: 2026-11-25
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国经济社会学家、国家理论学者，加利福尼亚大学戴维斯分校（University of California, Davis）社会学系研究教授。长期从事卡尔·波兰尼（Karl Polanyi）思想、宏观政治经济学与国家创新政策研究。
+> - **身份位置** 美国经济社会学家、国家理论学者，加利福尼亚大学[[Bronwyn Davies|戴维斯]]分校（University of California, Davis）社会学系研究教授。长期从事卡尔·波兰尼（Karl Polanyi）思想、宏观政治经济学与国家创新政策研究。
 > - **核心角色** 在当代国家政治经济学中开创了[[Developmental Network State|发展型网络国家]]（DNS）与“隐藏的[[Developmental State|发展型国家]]”（Hidden Developmental State）分析[[Paradigm|范式]]，打破了[[Neoliberalism|新自由主义]]“自由市场放任”与东亚集权“科层发展型国家”的二元对立，揭示了[[Post-Fordism|后福特制]][[Knowledge-Based Economy|知识经济]]下公共部门的去中心化[[Network Governance|网络治理]]本质。
 > - **代表贡献** 确立[[Developmental Network State|发展型网络国家]]理论，系统剖析[[Market Fundamentalism|市场原教旨主义]]对国家产业干预的政治遮蔽，提出将知识视为波兰尼式“虚构商品”并批判激进知识产权制度对跨组织技术协作的侵蚀。
 
@@ -99,7 +101,7 @@ updated: 2026-11-19
 ---
 
 > [!thought-timeline] 思想发展
-> - **1970s–1980s — 资本主义国家自主性与国际经济秩序** 探索资本主义国家相对于资产阶级阶级利益的“相对自主性”，反思布雷顿森林体系崩溃背后的[[Geopolitics|地缘政治]]经济逻辑。
+> - **1970s–1980s — 资本主义国家自主性与国际经济秩序** 探索资本主义国家相对于资产阶级阶级利益的“相对自主性”，反思[[Mark Bray|布雷]]顿森林体系崩溃背后的[[Geopolitics|地缘政治]]经济逻辑。
 >   - **代表著作** *The Roots of International Economic Disorder* (1977); *Revising State Theory: Essays in Politics and Postindustrialism* (1987)。
 >   - **关键概念／方法** 国家自主性、后工业转型、制度结构分析。
 >   - **阶段转向** 从结构马克思主义国家争论转向经验历史制度分析与[[Post-Fordism|后福特制]]组织演变。

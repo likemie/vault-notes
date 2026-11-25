@@ -51,19 +51,19 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-19
-updated: 2026-11-19
+updated: 2026-11-25
 ---
 
 ---
 
 > [!theory-position] 理论定位
-> - **解释对象** 后规训时代权力支配技术的[[Paradigm|范式]]跃迁——从封闭机构内部的空间化肉体成型，转向基于开放网络、数字追踪与流动参数的无休止控制。
+> - **解释对象** 后规训时代权力支配技术的[[Paradigm|范式]]转换，即从封闭机构内部的空间化肉体成型，转向基于开放网络、数字追踪与流动参数的无休止控制。
 > - **理论问题** 回应福柯（Michel Foucault）经典规训模型（以监狱、学校、工厂等封闭机构为核心）在面对去中心化信息技术、[[Neoliberalism|新自由主义]]企业化治理与算法社会时的解释力边界。
 > - **理论类型** [[Post-structuralism|后结构主义]]批判哲学、权力社会学与数字化治理[[Critical Theory|批判理论]]。
 > - **知识位置** 吉尔·德勒兹（Gilles Deleuze, 1992）基于威廉·巴勒斯（William S. Burroughs）的控制概念提出，既是对福柯规训理论的批判性继承与阶段性断代，也是当代[[Critical Pedagogy|批判教育学]]解构[[Learning Analytics|学习分析]]、数字绩效管理与[[New Managerialism|新管理主义]]的核心透镜。
 
 > [!claim] 核心判断
-> 规训社会的封闭模具（Mold）正在被控制社会的持续调制（Modulation）所取代；在教育领域中，个体不再只是在特定机构内部接受阶段性成型，而是被深度嵌入以数字数据流动、算法持续评估与无休止报表自证为特征的流动控制网络中，导致教学行为[[Alienation|异化]]为持续的数据生产。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, pp. 221–222)]]; [[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 237–238)]]
+> 规训社会的封闭模具（Mold）正在被控制社会的持续调制（Modulation）所取代；在教育领域中，个体在特定机构内部接受阶段性成型的同时，更被深度嵌入以数字数据流动、算法持续评估与无休止报表自证为特征的流动控制网络中，导致教学行为[[Alienation|异化]]为持续的数据生产。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, pp. 221–222)]]; [[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 237–238)]]
 
 ---
 
@@ -75,7 +75,7 @@ updated: 2026-11-19
 
 ---
 
-> [!entry-map] 关键概念与理论构件
+> [!theory-constructs] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -94,7 +94,7 @@ updated: 2026-11-19
 > 在高等教育中，[[Learning Analytics\|学习分析]]系统在全程持续追踪学生的在线互动与答题轨迹，从入学前的在线自评（[[Online Self-Assessment\|OSA]]）到毕业后的校友职业生涯追踪，干预信号无休止流动，学生从未脱离系统的评估视线。
 
 > [!theory-proposition] 命题二｜机构网络化与数据化：教育组织被编码为开放企业节点
-> 规训社会中原本边界清晰的家庭、学校与工厂，在控制社会中被打通为单一企业网络的编码变体。量化与数字不是中立的表征工具，而是构成网络关联、资源分配与行为促动的动力引擎；教育活动被迫服从于资本与绩效逻辑的无边界流通。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, pp. 221–222)]]
+> 规训社会中原本边界清晰的家庭、学校与工厂，在控制社会中被打通为单一企业网络的编码变体。量化与数字脱离了中立表征工具的角色，直接构成网络关联、资源分配与行为促动的动力引擎；教育活动被迫服从于资本与绩效逻辑的无边界流通。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, pp. 221–222)]]
 
 > [!example|notitle]
 > 大学通过[[Cooperative Learning|合作学习]]项目、企业定向研发与[[Service Learning|服务学习]]，全面打破传统象牙塔的围墙，转变为连接学生、政府、商业资本与自动化算法的枢纽，受制于全球[[Competitiveness\|高等教育竞争力]]指标的持续调制。

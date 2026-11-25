@@ -7,7 +7,7 @@ title: "Argument_Mattheou_2009_ScientificParadigm"
 argument_key: "Argument_Mattheou_2009_ScientificParadigm"
 argument_display_title: "The scientific paradigm in comparative education"
 argument_kind: "book-chapter"
-argument_related_count: 85
+argument_related_count: 88
 argument_related_level: 8
 argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -107,24 +107,27 @@ related_persons:
   - "[[Isaac Kandel]]"
   - "[[Nicholas Hans]]"
   - "[[Robert Ulich]]"
+  - "[[Bronwyn Davies]]"
   - "[[John Dewey]]"
   - "[[Max Weber]]"
   - "[[Edmund King]]"
   - "[[Andreas Kazamias]]"
   - "[[Vernon Mallinson]]"
   - "[[Plato]]"
+  - "[[Georg Friedrich Meier]]"
   - "[[Torsten Husén]]"
 related_facts:
   - "[[OECD]]"
   - "[[International Institute for Educational Planning]]"
   - "[[IEA]]"
   - "[[PISA]]"
+  - "[[Gymnasium]]"
   - "[[Gesamtschule]]"
   - "[[UNESCO]]"
   - "[[World Bank]]"
 status: draft
 created: 2026-09-07
-updated: 2026-11-21
+updated: 2026-11-25
 ---
 ---
 
@@ -193,7 +196,7 @@ updated: 2026-11-21
 比较教育学作为一个独立的学术研究领域，诞生于 19 世纪后半叶欧洲民族国家公共教育体系确立的关键时期。在这一历史阶段，以古希腊罗马经典为基石的传统人文学科牢牢垄断着欧洲中等与高等教育的核心课程。（pp. 59–60）
 
 > [!quad-grid] 欧洲四大[[Paideia\|古典教化]]传统及其精英培养取向
-> - **德国 · [[Bildung|精神教化]]（Bildung）** 承袭威廉·冯·洪堡（Wilhelm von Humboldt; Humboldt, 1961/1808）的理想主义传统，强调个人内在智力、道德与审美精神的全面协调塑造，将大学与文理中学确立为超越实用功利、追求纯粹真理的探究殿堂。
+> - **德国 · [[Bildung|精神教化]]（Bildung）** 承袭威廉·冯·洪堡（Wilhelm von Humboldt; Humboldt, 1961/1808）的理想主义传统，强调个人内在智力、道德与审美精神的全面协调塑造，将大学与[[Gymnasium|文理中学]]确立为超越实用功利、追求纯粹真理的探究殿堂。
 > - **法国 · [[Culture Générale\|通识教养]]（Culture Générale）** 深植于勒内·[[René Descartes\|笛卡尔]]（René Descartes）的理性主义传统，主张通过严整的哲学、文学与古典修辞训练培育普遍理性与敏锐心智，为法兰西中央集权体制选拔具备卓越行政才能的社会精英。
 > - **英国 · [[Liberal Education\|自由教育]]（Liberal Education）** 1864 年克拉伦登委员会（Clarendon Commission）报告与[[Matthew Arnold\|马修·阿诺德]]（Matthew Arnold; Arnold, 1869）在《文化与无政府状态》中大力宣示的博雅教育理念，致力于塑造品格高尚、恪守责任的绅士阶层，以服务大英帝国的政治治理与道德教化。
 > - **希腊 · 古典教化（Klassiki Paedeia）** 扎根于古希腊城邦公民哲学的智性沉思与审美统整，追求身心和谐的至善美德，旨在培养具有城邦奉献精神与古典人文素养的公民典范。
@@ -213,7 +216,7 @@ updated: 2026-11-21
 > [!event-context] 二战浩劫与战后欧洲重建的历史转向
 > - **时间地点与历史情境** 20 世纪 40 年代中叶至 50 年代初的战后欧洲；正如历史学家马克·马佐尔（Mark Mazower; Mazower, 1998, p. 185）在《黑暗大陆》中所指出的，满目疮痍的欧洲急切寻求走出极权废墟、迈向黄金时代的重建蓝图。
 > - **关键主体** 战后失去公信力的古典人文精英、急切渴望[[Social Economy|社会经济]]重建的民主国家执政者，以及信奉现代科学规划的新一代技术官僚与跨国专家。
-> - **制度与道德破产** 正如历史学家诺曼·戴维斯（Norman Davies; Davies, 1997, p. 899）所针砭的：军国主义、法西斯主义和极权意识形态不仅在受难民族的被操纵大众中滋生，更在欧洲受教育程度最高、最民主的精英阶层中大行其道，宣告古典人文学科教化防线的全面坍塌。
+> - **制度与道德破产** 正如历史学家诺曼·[[Bronwyn Davies|戴维斯]]（Norman Davies; Davies, 1997, p. 899）所针砭的：军国主义、法西斯主义和极权意识形态不仅在受难民族的被操纵大众中滋生，更在欧洲受教育程度最高、最民主的精英阶层中大行其道，宣告古典人文学科教化防线的全面坍塌。
 > - **现实需求转向** 促进经济起飞、劳动力再配置与社会民主化的教育改革迅速跃升为时代核心[[Discourse|话语]]（Adams & Farrell, 1967; Sobel, 1982），政策决策的可操作性与改革方案的实际成效被推到了绝对中心地位。
 
 古典历史学派注重宏观精神描述与历史追溯的风格，在急切呼唤制度干预与决策处方的战后现实面前显得步履维艰，双方展现出深度的[[Paradigm|范式]]脱节。（pp. 59–61）
@@ -392,7 +395,7 @@ updated: 2026-11-21
 > - **战后中央五年计划与财政预算扩张** 赫伯特·帕恩斯（Herbert Parnes; Parnes, 1962）等经济学家主导的计划体制，仰赖实证规划模型为大幅提升国家教育财政投入提供技术支撑。
 > - **[[Human Capital Theory\|人力资本理论]]与潜在人才库测算** 西奥多·舒尔茨与威廉·鲍恩的人力资本理论与人才库调查，以数学形式将教育论证为战后经济增长的核心引擎。（Schultz, 1963; Bowen, 1964）
 > - **英美[[Comprehensive Education|综合中学制]]度重组运动** 哈尔西、弗劳德与安德森等社会学家的实证数据，被直接采纳为破除阶层双轨制、推行综合中学的合法化科学旗帜。（Halsey et al., 1961）
-> - **第三世界[[Development Education|发展教育]]与技术援助话语** 弗雷德里克·哈比森（Frederick Harbison）与查尔斯·迈尔斯（Charles Myers; Harbison & Myers, 1964）等人的发展理论，以客观数据为技术援助方案赋予学术祝福，遮蔽了依附关系的批判反思。（Adams & Bjork, 1971）
+> - **第三世界[[Development Education|发展教育]]与技术援助话语** 弗雷德里克·哈比森（Frederick Harbison）与查尔斯·[[Georg Friedrich Meier|迈尔]]斯（Charles Myers; Harbison & Myers, 1964）等人的发展理论，以客观数据为技术援助方案赋予学术祝福，遮蔽了依附关系的批判反思。（Adams & Bjork, 1971）
 
 > [!sub-claim] 2. 三重危机与单一全包容科学范式的衰退与学科复数化
 

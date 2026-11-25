@@ -10,7 +10,7 @@ aliases:
 summary: "系统低阶组成部分遵循简单局部规则相互作用时自发产生高阶全局秩序与新结构的非线性动力学过程；整体大于部分之和且无法向下机械还原，广泛存在于生态系统、社会组织、科学引文网络、质性探究设计及万亿参数大模型认知智能演化之中。"
 type: concept
 domain: "educational-philosophy"
-related_count: 63
+related_count: 65
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Variable]]"
   - "[[Determinism]]"
+  - "[[Instrumental Rationality]]"
   - "[[Heterogeneity]]"
   - "[[Giant Component]]"
   - "[[Paradigm]]"
@@ -74,6 +75,7 @@ related_persons:
   - "[[Stuart Kauffman]]"
   - "[[Egon G. Guba]]"
   - "[[Keith Morrison]]"
+  - "[[Bronwyn Davies]]"
   - "[[John P. Perdew]]"
 related_facts:
   - "[[Web of Science]]"
@@ -93,7 +95,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-11-20
+updated: 2026-11-25
 ---
 
 ---
@@ -136,7 +138,7 @@ updated: 2026-11-20
 > |:---|:---|:---|:---|
 > | **分析对象** | 开放、非平衡的[[Complexity Theory\|复杂适应系统]]与大模型隐空间 | 孤立、封闭的线性物理或机械系统 | 层级官僚体系与自顶向下规则系统 |
 > | **核心机制** | 遵循简单局部规则（如梯度下降、邻域对齐）的非线性互动与自组织演化 | 将高阶整体逐层分解为低阶离散[[Variable\|变量]]与原子化零件 | 依据先验预设目标自上而下发布硬性编码指令与机械调控 |
-> | **因果逻辑** | 环形反馈网络、多向因果与相变临界性（高维空间相变） | [[Determinism\|决定论]]式的单向线性因果链（X 导致 Y） | 目的论式的工具理性手段-目标匹配 |
+> | **因果逻辑** | 环形反馈网络、多向因果与相变临界性（高维空间相变） | [[Determinism\|决定论]]式的单向线性因果链（X 导致 Y） | 目的论式的[[Instrumental Rationality\|工具理性]]手段-目标匹配 |
 > | **秩序来源** | 内部微观互动内生自发生成（“秩序是免费的 / 智能是涌现的”） | 孤立部件机械装配后的被动求和 | 外部中心权威自上而下强加与约束 |
 
 ---
@@ -226,7 +228,7 @@ updated: 2026-11-20
 > - **20世纪中叶 — 系统论与非平衡态热力学** 控制论、一般系统论与普里戈金耗散结构理论，揭示开放系统通过涨落放大自组织涌现新有序结构。
 > - **1980s–1990s — 圣塔菲研究所[[Complexity Theory|复杂适应系统]]理论** [[Stuart Kauffman|斯图尔特·考夫曼]]、霍兰德与雷诺兹奠定复杂适应系统理论，基于主体建模（[[Agent-based Modelling|ABM]]）将涌现转化为可计算仿真的严密科学。
 > - **1980s–2000s — 质性方法论吸纳涌现原则** 伊万娜·林肯与[[Egon G. Guba|埃贡·古巴]]将涌现确立为[[Interpretive Paradigm|自然主义探究]]核心公理，[[Grounded Theory|扎根理论]]与[[Emergent Design|涌现式设计]]成为[[Qualitative Research|质性研究]]标配。
-> - **2000s–2010s — 教育研究复杂性[[Paradigm|范式]]重构** [[Keith Morrison|基思·莫里森]]、戴维斯等学者将涌现性引入教育探究，对受控实验与量化还原主义发起系统批判。
+> - **2000s–2010s — 教育研究复杂性[[Paradigm|范式]]重构** [[Keith Morrison|基思·莫里森]]、[[Bronwyn Davies|戴维斯]]等学者将涌现性引入教育探究，对受控实验与量化还原主义发起系统批判。
 > - **2018 — [[Web of Science|科学网]]络宏观涌现机制系统确立** [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] 阐明科学系统中的多尺度自组织涌现规律，涵盖[[Coauthorship Network|合著网络]]巨连通分量相变、概念空间局部扎堆与跨学科引文动力学主曲线坍缩（pp. 1–5）。
 > - **2021 — 科学学引文网络与去中心化集体智慧涌现** 王大顺与巴拉巴西将涌现动力学引入科学学，论证宏观学术影响力是成千上万研究者去中心化微观引证决策自发涌现的集体智慧共识，为客观量化科学价值提供了复杂网络依据。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 182–183)]]
 > - **2020s — 深度学习与大语言模型认知智能涌现** 随着万亿参数大模型与多模态 Transformer 模型的崛起，计算科学证实超大规模高维隐空间中能够自组织涌现出世界模型与跨模态常识推理能力，重塑[[Artificial General Intelligence|通用人工智能]]与人机关系范式（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Karp & Zamiska, 2025]]）。

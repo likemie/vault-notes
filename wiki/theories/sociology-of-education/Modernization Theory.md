@@ -8,10 +8,10 @@ aliases:
 summary: "经典现代化理论将教育扩张视作工业化与经济理性化的内生产物，主张技术进步驱动劳动力市场技能需求升级，促使人才选拔由家庭出身等先赋标准转向学业才能等后天唯才标准，进而逐步缩小社会阶层间的教育获得差距；该乐观假说在当代发展中国家经验研究中屡遭证伪。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 18
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 26
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/sociology-of-education
   - theory/macro-sociology
@@ -23,9 +23,17 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Educational Level]]"
   - "[[Falsification]]"
+  - "[[Methodological Nationalism]]"
+  - "[[Unit of Analysis]]"
   - "[[Bureaucracy]]"
   - "[[Research Question]]"
+  - "[[Household Wealth Index]]"
   - "[[Cultural Capital]]"
+  - "[[Paradigm]]"
+  - "[[Geopolitics]]"
+  - "[[Heterogeneity]]"
+  - "[[Nationalism]]"
+  - "[[Developmentalism]]"
 related_theories:
   - "[[Structural Functionalism]]"
   - "[[Maximally Maintained Inequality]]"
@@ -37,7 +45,7 @@ related_instruments: []
 related_persons:
   - "[[Max Weber]]"
   - "[[Talcott Parsons]]"
-  - "[[Iveta Silova]]"
+  - "[[Bronwyn Davies]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Phyo_2025_SocSci]]"
@@ -45,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-19
-updated: 2026-11-20
+updated: 2026-11-25
 ---
 
 ---
@@ -64,14 +72,14 @@ updated: 2026-11-20
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 塔尔科特·帕森斯（Talcott Parsons, 1959, 1964）在分析现代学校班级功能时奠定技术功能主义基础，后经特赖曼（Donald Treiman, 1970）与迪普雷特和格鲁斯基（Thomas DiPrete & David Grusky, 1990）系统[[Operationalization|操作化]]为地位获得与分层模型。
 > - **原初问题** 20 世纪中叶欧美社会出现中学与大学入学率井喷，早期分层理论难以解释为何工业化国家普遍呈现出白领专业岗位扩增与文凭社会兴起并存的格局。
-> - **理论资源与材料** 吸收了舒尔茨（Theodore Schultz）的[[Human Capital Theory|人力资本]]概念与戴维斯-摩尔（Kingsley Davis & Wilbert Moore）的功能主义分层假说，将教育定位为社会系统实现技能配置的理性能动载体。
+> - **理论资源与材料** 吸收了舒尔茨（Theodore Schultz）的[[Human Capital Theory|人力资本]]概念与[[Bronwyn Davies|戴维斯]]-摩尔（Kingsley Davis & Wilbert Moore）的功能主义分层假说，将教育定位为社会系统实现技能配置的理性能动载体。
 > - **形成路径** 从工业社会对效率与专业分工的内在追求出发，推导出追求利润最大化的雇主必须优先聘用最具才能的个体，促使选拔体制排除家族继承特权。
 
 > [!dev-timeline] 理论版本与贡献
 > - **1950s–1960s — 经典技术功能主义形成** 帕森斯论证现代学校是传授普遍主义成就准则的核心机制，工业社会不可逆地走向唯才选拔。
 > - **1970s–1990s — 地位获得模型的操作化与检验** 布劳与邓肯（Peter Blau & Otis Dudley Duncan, 1967）及特赖曼（1970）构建地位获得路径分析，DiPrete and Grusky (1990) 正式提出技术变迁将削弱家庭阶级对[[Educational Level|受教育年限]]的直接支配力。
 > - **1990s 至今 — 跨国经验对质与假说[[Falsification|证伪]]** 拉夫特里与豪特（Adrian Raftery & Michael Hout, 1993）创立 MMI 假说展开反驳；[[Argument_Phyo_2025_SocSci|Phyo and Ilie (2025)]] 运用东南亚多国半个世纪的微观调查数据证实高教扩招中贫富差距反而走阔，现代化理论的平权假定在发展中国家经验中宣告失效。[[Argument_Phyo_2025_SocSci|(Phyo & Ilie, 2025, pp. 3, 11–13)]]
-> - **2009 — 比较教育批判与方法论民族主义反思** [[Iveta Silova|西洛娃]]等学者系统反思 20 世纪六七十年代现代化叙事与人力资本理论对比较教育学的宰制，指出其将主权国家容器预设为单一分析单位、过度追求量化效率而遮蔽教学深层意涵，推动比较教育转向多案例历史脉络与去殖民地缘视角（[[Argument_Silova_2009_EE|Silova, 2009, pp. 23–24]]）。
+> - **2009 — 比较教育批判与[[Methodological Nationalism|方法论民族主义]]反思** 西洛娃等学者系统反思 20 世纪六七十年代现代化叙事与人力资本理论对比较教育学的宰制，指出其将主权国家容器预设为单一[[Unit of Analysis|分析单位]]、过度追求量化效率而遮蔽教学深层意涵，推动比较教育转向多案例历史脉络与去殖民地缘视角（[[Argument_Silova_2009_EE|Silova, 2009, pp. 23–24]]）。
 
 ---
 
@@ -103,7 +111,7 @@ updated: 2026-11-20
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 检验宏观经济增长与教育扩张是否真实带来了阶层机会均等化。
 > - **分析对象与单位** 跨国或跨历史时期的成年人口出生队列微观样本。
-> - **需要的材料** 涵盖家庭财富指数、最高受教育水平、出生年份与城乡属性的全国代表性人口调查。
+> - **需要的材料** 涵盖[[Household Wealth Index|家庭财富指数]]、最高受教育水平、出生年份与城乡属性的全国代表性人口调查。
 > - **解释目标** 评估先赋性家庭财富对高教获得的边际净效应是否随时间呈现单调衰减。
 
 > [!theory-framework] 命题如何转化为分析维度
@@ -137,15 +145,15 @@ updated: 2026-11-20
 > > - **DiPrete and Grusky (1990)** 主张工业社会官僚制度成熟必然削弱家庭出身对升学的直接干预。
 > > - **[[Argument_Phyo_2025_SocSci|Phyo and Ilie (2025)]]** 实证证明东南亚八国在总入学率由 18% 跃至 42% 过程中，最富组相对最穷组的升学优势扩大至数倍，强力反驳了差距自动缩小假说。[[Argument_Phyo_2025_SocSci|(Phyo & Ilie, 2025, pp. 11–13)]]
 >
-> > [!axis] 单向线性发展范式 vs 多尺度历史脉络与地缘政治批判
-> > 现代化理论预设所有国家沿单一西方路径走向世俗化与技能理性化；批评者强调本土历史制度文脉的异质性与跨国依附结构。
+> > [!axis] 单向线性发展[[Paradigm|范式]] vs 多尺度历史脉络与[[Geopolitics|地缘政治]]批判
+> > 现代化理论预设所有国家沿单一西方路径走向世俗化与技能理性化；批评者强调本土历史制度文脉的[[Heterogeneity|异质性]]与跨国依附结构。
 > >
 > > - **Inkeles and Smith (1974)** 论证现代学校制度跨文化塑造同质的现代人格与效率观念。
-> > - **[[Argument_Silova_2009_EE|Silova (2009)]]** 指出现代化叙事强化了方法论民族主义与唯效率论，必须代之以深嵌于历史政治文脉的跨国质性比较与去殖民视角。[[Argument_Silova_2009_EE|(Silova, 2009, pp. 23–24)]]
+> > - **[[Argument_Silova_2009_EE|Silova (2009)]]** 指出现代化叙事强化了方法论[[Nationalism|民族主义]]与唯效率论，必须代之以深嵌于历史政治文脉的跨国质性比较与去殖民视角。[[Argument_Silova_2009_EE|(Silova, 2009, pp. 23–24)]]
 
 > [!critique] 批评索引
 > - [[Argument_Phyo_2025_SocSci|Phyo and Ilie (2025)]] — 实证揭示发展中国家高等教育规模翻倍伴随贫富阶层入学差距走阔，证伪现代化理论的乐观均等假说（p. 3）。
-> - [[Argument_Silova_2009_EE|Silova (2009)]] — 批判 20 世纪六七十年代现代化理论对比较教育学的技术官僚化窄化，揭示方法论民族主义与单向发展主义对本土教育文脉的遮蔽（pp. 23–24）。
+> - [[Argument_Silova_2009_EE|Silova (2009)]] — 批判 20 世纪六七十年代现代化理论对比较教育学的技术官僚化窄化，揭示方法论民族主义与单向[[Developmentalism|发展主义]]对本土教育文脉的遮蔽（pp. 23–24）。
 
 ---
 

@@ -22,6 +22,7 @@ related_concepts:
   - "[[Research Administrator]]"
   - "[[Discourse]]"
   - "[[Knowledge Production]]"
+  - "[[Blended Professional]]"
   - "[[Third Space Discourse]]"
   - "[[Champ]]"
   - "[[Epistemology]]"
@@ -30,6 +31,7 @@ related_concepts:
   - "[[Neoliberalism]]"
   - "[[Professional Interest]]"
   - "[[Competitiveness]]"
+  - "[[Privileging of Carelessness]]"
   - "[[Alt-Ac]]"
   - "[[Gatekeepers]]"
   - "[[Team Science]]"
@@ -46,7 +48,8 @@ related_theories:
 related_methods:
   - "[[Semi-structured Interview]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Bronwyn Davies]]"
 related_facts: []
 related_arguments: []
 sources:
@@ -61,7 +64,7 @@ title: "Argument_VanderKloet_Campisi_2023_JHEPM"
 argument_key: "Argument_VanderKloet_Campisi_2023_JHEPM"
 argument_display_title: "Becoming legitimate academic subjects: Doing meaningful work in research administration"
 argument_kind: "journal-article"
-argument_related_count: 24
+argument_related_count: 27
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -78,12 +81,12 @@ issuing_organization: ""
 > 在当代加拿大大学科层日趋复杂与科研考评压力倍增的背景下，处于学者与行政人员交汇地带的科研管理专业人员，如何通过职业生涯追溯与日常支持实践来理解自我？他们如何在缺乏正式教职头衔的情况下，通过日常对话与工作协作，使自身被大学社群接纳为兼具智力声誉与合法地位的学术主体？
 
 > [!claim] 核心主张
-> [[Research Administrator|科研管理人员]]的学术主体性是在戴维斯[[Post-structuralism|后结构主义]]主体化理论所揭示的顺从既有规程与精熟驾驭[[Discourse|话语]]的双重互动中动态生成的。从业者将转向行政描述为摆脱学术零工动荡并照顾家庭生活的理性抉择、将日常职责定义为依托扎实科研训练参与重大课题构思与把关的高阶智力实践，并自觉维系以学者为中心但提供深度情感关照的协作同盟。这种实践在不触动传统学术等级的前提下，成功赢得了在[[Knowledge Production|知识生产]]网络中的同行认可与职业尊严。
+> [[Research Administrator|科研管理人员]]的学术主体性是在[[Bronwyn Davies|戴维斯]][[Post-structuralism|后结构主义]]主体化理论所揭示的顺从既有规程与精熟驾驭[[Discourse|话语]]的双重互动中动态生成的。从业者将转向行政描述为摆脱学术零工动荡并照顾家庭生活的理性抉择、将日常职责定义为依托扎实科研训练参与重大课题构思与把关的高阶智力实践，并自觉维系以学者为中心但提供深度情感关照的协作同盟。这种实践在不触动传统学术等级的前提下，成功赢得了在[[Knowledge Production|知识生产]]网络中的同行认可与职业尊严。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 加拿大 5 所大学中负责重大课题推进、科研伦理合规与研究中心运行的 19 位科研管理人员（涵盖一线业务主管与中央行政管理层）。
 > - **张力** 专任教师担忧专业行政扩张侵蚀学术自主与专业领地（Jones, 2013），而高学历管理人员期望打破边缘化地位、在知识生产中获得智力尊严（Acker et al., 2019; Smith et al., 2021）。
-> - **贡献** 超越了将专业行政人员视作科层官僚的单一刻板印象，借助[[Davies' Subjectification Theory|戴维斯主体化理论]]阐明[[Blended Professional|混合型专业人员]]如何通过灵活的话语互动与协作关照在[[Third Space Discourse|第三空间]]中重塑学术边界（[[Celia Whitchurch|Whitchurch, 2008b]]; [[Bronwyn Davies|Davies, 2006]]）。
+> - **贡献** 超越了将专业行政人员视作科层官僚的单一刻板印象，借助[[Davies' Subjectification Theory|戴维斯主体化理论]]阐明[[Blended Professional|混合型专业人员]]如何通过灵活的话语互动与协作关照在[[Third Space Discourse|第三空间]]中重塑学术边界（Whitchurch, 2008b; Davies, 2006）。
 
 ---
 
@@ -108,7 +111,7 @@ issuing_organization: ""
 > | 样本层面 | 构成特征与分布 |
 > |----------|----------------|
 > | **受访总体** | 共计 19 位加拿大高校在职科研管理人员（Research Administrators）。 |
-> | **岗位层级** | 11 人为一线协作型[[Blended Professional|混合型专业人员]]（third-space or blended professionals），8 人为科研办公室主任或研究中心主管等高级主管（superadministrators; Poli, 2018）。 |
+> | **岗位层级** | 11 人为一线协作型[[Blended Professional\|混合型专业人员]]（third-space or blended professionals），8 人为科研办公室主任或研究中心主管等高级主管（superadministrators; Poli, 2018）。 |
 > | **性别分工** | 女性 14 人，男性 5 人；呈现显著的性别化科层特征：5 位男性全部在中央管理部门担任管理职务。 |
 > | **学历背景** | 约半数（9 人）已获得博士学位，其余大部分（10 人）持有硕士学位。 |
 > | **机构分布** | 覆盖加拿大 5 所不同类型的公立大学（8 人隶属学院或科研所等基层院系单位，11 人隶属副校长科研办公室等中央行政中枢）。 |

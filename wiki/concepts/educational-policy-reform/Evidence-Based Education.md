@@ -9,9 +9,9 @@ aliases:
 summary: "主张教育实践与政策决策应建立在严格的因果识别研究证据之上的政策与实践运动，核心争议在于实验因果识别、知识可迁移性、专业判断与地方语境之间如何平衡"
 type: concept
 domain: "educational-policy-reform"
-related_count: 156
-related_level: 15
-related_stars: "💎💎💎💎💎"
+related_count: 160
+related_level: 16
+related_stars: "💎💎💎💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - evidence-based-education
@@ -26,13 +26,14 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
   - "[[Evidence-Informed Practice]]"
+  - "[[Instrumental Rationality]]"
   - "[[Value-Based Education]]"
   - "[[Phronesis]]"
-  - "[[Paradigm]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Praxis]]"
   - "[[Clinical Trial]]"
   - "[[Homophily]]"
+  - "[[Paradigm]]"
   - "[[Ontology]]"
   - "[[External Validity]]"
   - "[[Side Effects]]"
@@ -58,6 +59,7 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Transfer Science]]"
   - "[[Absorptive Capacity]]"
+  - "[[Reflexivity]]"
   - "[[Metascience]]"
   - "[[Effective Teaching]]"
   - "[[Preregistration]]"
@@ -99,6 +101,7 @@ related_methods:
   - "[[Quasi-Experimental Designs]]"
   - "[[Statistical Significance]]"
   - "[[Meta-analysis]]"
+  - "[[Practitioner Enquiry]]"
   - "[[Research Synthesis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Single-Case Design]]"
@@ -115,6 +118,7 @@ related_persons:
   - "[[Nancy Cartwright]]"
   - "[[Dylan Wiliam]]"
   - "[[David Hargreaves]]"
+  - "[[Bronwyn Davies]]"
   - "[[Christof Wecker]]"
 related_facts:
   - "[[Dimensions]]"
@@ -172,6 +176,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Cowen_2015_CHESS]]"
+  - "[[Argument_Brugelmann_2014_LocalPractice]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
   - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Dedering_2009_EERJ]]"
@@ -182,7 +187,6 @@ related_arguments:
   - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
   - "[[Argument_Sarbiewska_2019_KiW]]"
   - "[[Argument_Slavin_2021_ECNUROE]]"
-  - "[[Argument_Brugelmann_2014_LocalPractice]]"
 confidence: high
 status: active
 created: '2026-05-01'
@@ -216,19 +220,19 @@ updated: 2026-11-25
 
 > [!boundary]- 概念边界
 > - **与[[Evidence-Informed Practice|证据知情实践]]（EIP）的分野** EBE 将研究证据置于决策驱动的排他核心地位；EIP 则将证据视作多源参考信息之一，依托教师[[Professional Judgment|专业判断]]完成情境整合与能动转化。
-> - **与价值正当性反思的边界** EBE 聚焦于什么有效的工具理性效能识别，无法回答什么是值得学习与追求的价值本体问题，后者属于[[Value-Based Education|价值本位教育]]、教学论与教化哲学的关切领域。
+> - **与价值正当性反思的边界** EBE 聚焦于什么有效的[[Instrumental Rationality|工具理性]]效能识别，无法回答什么是值得学习与追求的价值本体问题，后者属于[[Value-Based Education|价值本位教育]]、教学论与教化哲学的关切领域。
 > - **不可替代教师专业判断** 统计显著的实验效应量仅反映概率性历史规律，向具体异质课堂情境的迁移始终需要教师的专业[[Phronesis|实践智慧]]作为调适中介。
 
 ---
 
 > [!contrast-table] 证据本位教育与邻近概念的多维辨析
-> | 维度 | 证据本位教育 (EBE) | [[Evidence-Informed Practice|证据知情实践]] (EIP) | [[Value-Based Education|价值本位教育]] (Value-Based) | 循证医学 (EBM) | [[Local Knowledge in Evidence-Based Policy|地方知识]] (Local Knowledge) |
+> | 维度 | 证据本位教育 (EBE) | [[Evidence-Informed Practice\|证据知情实践]] (EIP) | [[Value-Based Education\|价值本位教育]] (Value-Based) | 循证医学 (EBM) | [[Local Knowledge in Evidence-Based Policy\|地方知识]] (Local Knowledge) |
 > |---|---|---|---|---|---|
-> | **分析对象** | 经严格实验评估（[[Randomised Controlled Trials|RCT]]）的标准化干预效果 | 多源实证证据的批判性整合与[[Praxis|实践]]调适过程 | 教育的终极目的、伦理关切与价值正当性 | 临床生理指标、病患特质与病理机制反应 | 本地环境、特定群体情境与默会实践经验 |
-> | **核心机制** | 以 RCT/[[Systematic Review|系统综述]]的统计平均效应作为实践决策核心依据 | 视证据为重要输入资源，由教师[[Professional Judgment|专业判断]]整合情境实施 | 民主协商、规范论证与伦理哲学思辨 | 依托生理机制病理理论，结合[[Clinical Trial|临床试验]]验证疗效 | 现场反思、同伴研讨、师生具身互动与经验积累 |
-> | **适用范围** | 标准化项目准入、财政拨款门禁、宏观系统问责 | 教师日常课堂改进、校本教研网络、微观教学调控 | 课程大纲确立、教育宗旨反思与公共政治抉择 | 具备高度生理生理学[[Homophily|同质性]]的病患治疗与药物研发 | 复杂异质的课堂交互、偶发性教育情境的现场应对 |
+> | **分析对象** | 经严格实验评估（[[Randomised Controlled Trials\|RCT]]）的标准化干预效果 | 多源实证证据的批判性整合与[[Praxis\|实践]]调适过程 | 教育的终极目的、伦理关切与价值正当性 | 临床生理指标、病患特质与病理机制反应 | 本地环境、特定群体情境与默会实践经验 |
+> | **核心机制** | 以 RCT/[[Systematic Review\|系统综述]]的统计平均效应作为实践决策核心依据 | 视证据为重要输入资源，由教师[[Professional Judgment\|专业判断]]整合情境实施 | 民主协商、规范论证与伦理哲学思辨 | 依托生理机制病理理论，结合[[Clinical Trial\|临床试验]]验证疗效 | 现场反思、同伴研讨、师生具身互动与经验积累 |
+> | **适用范围** | 标准化项目准入、财政拨款门禁、宏观系统问责 | 教师日常课堂改进、校本教研网络、微观教学调控 | 课程大纲确立、教育宗旨反思与公共政治抉择 | 具备高度生理生理学[[Homophily\|同质性]]的病患治疗与药物研发 | 复杂异质的课堂交互、偶发性教育情境的现场应对 |
 
-> [!boundary]- 邻近范式与机制边界
+> [!boundary]- 邻近[[Paradigm|范式]]与机制边界
 > - **与[[Evidence-Informed Practice|证据知情实践]]（EIP）** 属于最紧密的邻近概念。EBE 将证据作为行动决策的指令性核心；EIP 则将证据定位为多种互补信息之一，通过教师专业反思与地方情境深度融通。[[Argument_Nelson_2017_EducRes|Nelson and Campbell (2017)]]
 > - **与循证医学（EBM）的[[Ontology|本体论]]错位** 循证医学是 EBE 的历史母本与核心修辞来源。然而医学试验建立在成熟的生理病理因果机制理论之上，教育 RCT 往往跳过发生机制而沦为黑箱测量；更关键的是，医学研究对象（人体生理机制）具有较高的[[External Validity|可推广性]]，而教育科学面对的是高度情境化、多层嵌套且充满主体反思的教育实践（Bildungspraxis），这一本体论差异限制了机械套用医学模式的合法性。[[Argument_Wrigley_2018_BERJ|Wrigley (2018, p. 11)]]; [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019, p. 11)]]
 > - **与[[Local Knowledge in Evidence-Based Policy|地方知识]]（Local Knowledge）的互补** 地方知识源于实践者长期扎根具体时空的默会经验，是 EBE 顶层设计中常被排斥却决定干预生死成败的必要认知维度。
@@ -336,7 +340,7 @@ updated: 2026-11-25
 > **医学类比的本体论不合理性与[[Transfer Science|转移科学]]诉求** 将医学研究成果机械套用于教育领域在本体论上极不合理。医学研究对象具有较高的生理[[Homophily|同质性]]与[[External Validity|可推广性]]，而教育科学面对的是高度情境化且复杂的教育实践。清算中心预设了单向理性的线性供给假设，无法解决基层学校的[[Absorptive Capacity|吸收能力]]赤字；教育科学必须超越被动清算，走向深植于双向对话的转移科学（[[Transfer Science|Transferwissenschaft]]）。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, pp. 10–13)]]
 
 > [!claim] Brügelmann
-> **循证医学三维平衡模型的窄化与教师探究主体性** 汉斯·布吕格尔曼（Hans Brügelmann）指出，倡导循证教育的阵营常以医学为标杆指责教育缺乏科学性，然而这一类比普遍建立在对循证医学经典原则的严重窄化之上。依据戴维·萨克特（Sackett et al., 2000）的经典界定，循证医学是将当前最佳研究证据、临床专业知识以及患者个人价值观相互整合的实践过程；现场权衡决策的主体始终是身处一线的医师，实践经验与患者视界在地位上与科研结论平起平坐。教育领域的循证倡导者抽空了教师临床专长与学生独特价值，将宏观统计均值推演为自上而下的行政指令。真正的循证要求确立一线教师的课堂探究主体地位，将教师在本土课堂开展的累积性个案追踪与反思性实验作为检验宏观理论假说的最终试金石。[[Argument_Brugelmann_2014_LocalPractice|(Brügelmann, 2014, pp. 45–47)]]
+> **循证医学三维平衡模型的窄化与[[Practitioner Enquiry|教师探究]]主体性** 汉斯·布吕格尔曼（Hans Brügelmann）指出，倡导循证教育的阵营常以医学为标杆指责教育缺乏科学性，然而这一类比普遍建立在对循证医学经典原则的严重窄化之上。依据戴维·萨克特（Sackett et al., 2000）的经典界定，循证医学是将当前最佳研究证据、临床专业知识以及患者个人价值观相互整合的实践过程；现场权衡决策的主体始终是身处一线的医师，实践经验与患者视界在地位上与科研结论平起平坐。教育领域的循证倡导者抽空了教师临床专长与学生独特价值，将宏观统计均值推演为自上而下的行政指令。真正的循证要求确立一线教师的课堂探究主体地位，将教师在本土课堂开展的累积性个案追踪与[[Reflexivity|反思性]]实验作为检验宏观理论假说的最终试金石。[[Argument_Brugelmann_2014_LocalPractice|(Brügelmann, 2014, pp. 45–47)]]
 
 ---
 
@@ -371,7 +375,7 @@ updated: 2026-11-25
 > - **1996年 — 英国发起教育医学类比大讨论** [[David Hargreaves|戴维·哈格里夫斯]]（David Hargreaves）在英国[[Teacher Training Agency|教师培训署]]（TTA）年度演讲中将教育研究与医学进行不利对比，指责教育研究缺乏因果确定性，标志着英国 EBE 运动的政策起点。[[Argument_Wiliam_2019_ERE|(Wiliam, 2019, pp. 3–4)]]
 > - **1997年 — 循证教育方法论辩护与[[Effect Size|效应量]]倡议** 卡罗尔·菲茨-吉本（Carol Fitz-Gibbon）提出循证实践的三个必要性论证，倡导以效应量检验替代单一[[Statistical Significance|统计显著性]]，成为早期 EBE 理论构建的关键事件。
 > - **1998年 — 美国立法首次挂钩实证证据与联邦拨款** [[United States Congress|美国国会]]通过全面学校改革（Comprehensive School Reform, CSR）立法，设立每年 1.5 亿美元专项拨款，强制要求学校采用经严格检验的有效模式。[[Argument_Slavin_2002_ER|(Slavin, 2002, p. 15)]]
-> - **1999年 — 循证教育概念的理论阐述** 菲利普·戴维斯（Philip Davies）发表《什么是证据本位教育？》，系统阐释教育专业实践与循证医学的关系，确立了 EBE 的经典学术定名。
+> - **1999年 — 循证教育概念的理论阐述** 菲利普·[[Bronwyn Davies|戴维斯]]（Philip Davies）发表《什么是证据本位教育？》，系统阐释教育专业实践与循证医学的关系，确立了 EBE 的经典学术定名。
 > - **2000年 — 跨学科证据中介组织扩展** 伦敦大学 [[EPPI-Centre]] 与坎贝尔协作网（[[Campbell Collaboration]]）相继建立，推动社会科学与教育领域系统综述标准的建制化。
 > - **2001年 — 美国 [[No Child Left Behind Act 2001|NCLB]] 法案确立[[Scientifically Based Research|科学本位研究]]法定地位** 《不让一个孩子掉队法案》（NCLB）全文提及基于科学原则的研究 110 次，从联邦法律层面将实证标准确立为项目拨款的前提。[[Argument_Slavin_2002_ER|(Slavin, 2002, pp. 15–16)]]
 > - **2002年 — 美国设立 [[What Works Clearinghouse|WWC]] 与支持者纲领系统确立** [[United States Department of Education|美国教育部]]创建有效工作清算所（What Works [[Educational Evidence Clearinghouses|Clearinghouse]], WWC）；怀特赫斯特（Whitehurst）推动因果研究全面转向[[Random Assignment|随机分配]]设计；斯拉文（[[Argument_Slavin_2002_ER|Slavin, 2002]]）发表 [[American Educational Research Association|AERA]] 纲领性演讲，奠定 EBE 政策支持阵营的完整理论体系。

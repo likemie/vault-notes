@@ -40,6 +40,7 @@ related_methods:
   - "[[Documentary Analysis]]"
 related_instruments: []
 related_persons:
+  - "[[Bronwyn Davies]]"
   - "[[Francis Bacon]]"
 related_facts:
   - "[[Infrastructure Investment and Jobs Act]]"
@@ -60,14 +61,14 @@ sources:
   - "[[sources/Reynolds_2024_JICT|Reynolds_2024_JICT]]"
 status: active
 created: 2026-10-06
-updated: 2026-11-19
+updated: 2026-11-25
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Reynolds_2024_JICT"
 argument_key: "Argument_Reynolds_2024_JICT"
 argument_display_title: "U.S"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -175,7 +176,7 @@ journal: "Journal of Industry, Competition and Trade"
 > - **超额利润分享机制（Windfall Profit Sharing）** 当获得资助的商业项目实际现金流显著超出初始预估时，企业必须与联邦政府分享超出部分的超额利润。
 > - **股票回购严格限制（Stock Buyback Prohibitions）** 严禁企业将联邦直接补贴资金用于股票回购或派发股东股息。
 > - **国家安全十年限制（National Security Guardrails）** 凡接受直接补贴的企业，必须与商务部签署协议，承诺在获得资金后十年内严禁在关切国家（特别是中国）扩建先进制程半导体制造产能。
-> - **法定盛行工资（Prevailing Wages）** 所有受资助设施的施工人员必须按照《戴维斯-[[Francis Bacon|培根]]法》（Davis-Bacon Act）全额支付经核定的盛行工资。
+> - **法定盛行工资（Prevailing Wages）** 所有受资助设施的施工人员必须按照《[[Bronwyn Davies|戴维斯]]-[[Francis Bacon|培根]]法》（Davis-Bacon Act）全额支付经核定的盛行工资。
 
 > [!sub-claim] 2. 《通胀削减法案》以技术中立为基准并通过阶梯加成撬动工会就业与区域公正
 
