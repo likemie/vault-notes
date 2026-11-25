@@ -423,6 +423,7 @@ updated: 2026-11-25
 > - [[Argument_Terhart_2014_HolyGrail|Terhart, 2014]] — 德语编著专章长篇审读：系统剖析二阶元分析文献底册陈旧（多为 80–90 年代）且缺乏质控准入门槛，0.40 门槛仅为学校常规教学自然基准，[[Process-Product Paradigm|过程-结果范式]]陷入[[Streetlight Effect|路灯效应]]排斥非测验育人目标，师生互视模型潜藏微观心理自我规训，终结教育终极圣杯神话（pp. 10–23）。
 > - [[Argument_Koller_2014_WhatWorks|Köller, 2014]] — 德语区[[Empirische Unterrichtsforschung|实证教学研究]]审视：肯定可见学习区分宏观表面结构与微观深层教学质量，但依据 COACTIV 长期追踪实证直接驳斥哈蒂低估教师学科专业知识（$d=0.09$）的论断，确证学科知识是高质[[Cognitive Activation|认知激活]]教学的必要基石（p. 32）。
 > - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann, 2014]] — 德语区本土教学与方法论审读：批判二阶元分析抹杀教学干预内部方差离散度、文献历史断代滞后（如计算机辅助教学过半文献早于 2000 年）与微观实施保真度缺失，揭示哈蒂指标内部对开放教学（$d=0.01$）与非指导性教学（$d=0.54$）评价的自相矛盾，破除将统计均值硬化为课堂禁令的错误做法（pp. 38–50）。
+> - [[Argument_Rolff_2014_SchoolStructure|Rolff, 2014]] — 德语区学校发展研究审读：指出哈蒂九项结构因素与能力分流数据几乎全采自综合制英语国家，缺乏九年级前早期分轨样本；在学校内部层面对班级规模存在 15–25 人区间盲区，且孤立变量视角忽略要素协同与学校系统属性，导致其数据在德国被当作“罗夏测验”滥用（pp. 67–77）。
 > - [[Argument_Allerup_2015_Paideia|Allerup, 2015]] — 效应量排名[[Sample Size Determination|样本量]]依赖、[[Confidence Interval|置信区间]]缺失与[[Socioeconomic Status|社会经济背景]]控制批评。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al., 2016]] — 推导两级固定效应代数等价性定理与六步规程，以 Eisenstaedt（10倍虚增）、Haas（权重削减53%）及 Olson & Wisher（93%重叠致排名雪崩）实证解构超级元分析可行性。
 > - [[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017]] — 统计学视角审查：CLES 负概率初等计算错误、基线反转致效应量解释颠覆、受控数值模拟证实三类有效公式排名彻底相反、相关向均值差换算极值爆炸（$r=0.196 \to d=0.40$ 仅解释 3.85% 方差）及伪科学定性。

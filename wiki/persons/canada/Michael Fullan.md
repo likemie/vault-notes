@@ -55,7 +55,7 @@ related_arguments:
   - "[[Argument_Barrenechea_2023_JEC]]"
 status: active
 created: '2026-10-16'
-updated: 2026-11-19
+updated: 2026-11-25
 ---
 
 ---
@@ -81,7 +81,7 @@ updated: 2026-11-19
 ---
 
 > [!thought-timeline] 思想发展
-> - **1982–2001 年 — 教育变革动力学奠基期** 聚焦学校内部主观意义建构与组织复杂性，反对简单的线性行政指令。
+> - **1982–2001 年 — 教育变革动力学开创期** 聚焦学校内部主观意义建构与组织复杂性，反对简单的线性行政指令。
 >   - **代表著作** 《教育变革的意义》（*The Meaning of Educational Change*, 1982/1991/2001/2007/2016）、《变革的力量》（*Change Forces*, 1993）。
 >   - **关键概念／方法** 教育变革过程、教师主观意义建构、混沌理论与复杂系统。
 >   - **阶段转向** 从早期的微观教学改革心理学，转向剖析中观学校[[Organizational Culture|组织文化]]与宏观政策环境之间的互动张力。
@@ -96,11 +96,14 @@ updated: 2026-11-19
 
 ---
 
-> [!claim] 核心思想
-> 教育改革是一场由底层专业能力建设驱动的复杂系统演进；全系统变革主张超越行政指令与惩罚性问责，依托以[[Teacher Collaboration|教师协作]]专业主义、微观动能推进行动以及面向真实世界的 6C 深度学习为支柱的“正确驱动力”。
-
-> [!citation-card] 全系统变革的正确驱动力与动能推进
-> 变革的深层催化机制依靠共同体内教师与领导者之间的[[Professional Capital|专业资本]]积累与同行互信；通过解决现场微观难题所创造的积极动能，能够将外在改革要求内化为教师共同体的日常专业习惯，从而超越外部问责与单一硬件采购的局限。（Fullan, 2011, *Choosing the Wrong Drivers for Whole System Reform*）
+> [!person-thesis] 主张一｜全系统变革依赖专业资本与微观动能的协同推进
+> 教育改革是一场由底层专业能力建设驱动的复杂系统演进；全系统变革主张超越行政指令与惩罚性问责，依靠共同体内教师与领导者之间的[[Professional Capital|专业资本]]积累、[[Teacher Collaboration|教师协作]]专业主义以及面向真实世界的 6C 深度学习等“正确驱动力”，通过解决现场微观难题创造积极动能，将外在改革要求内化为教师共同体的日常专业习惯。
+>
+> > [!thesis-quote] 《选择全系统改革的错误驱动力》（2011）
+> > 变革的深层催化机制依靠共同体内教师与领导者之间的[[Professional Capital|专业资本]]积累与同行互信；通过解决现场微观难题所创造的积极动能，能够将外在改革要求内化为教师共同体的日常专业习惯，从而超越外部问责与单一硬件采购的局限。（Fullan, 2011, *Choosing the Wrong Drivers for Whole System Reform*）
+>
+> > [!person-thesis] 主张二｜持久的学校改进需要二阶变革能力与教学—人员联动发展
+> 孤立的单一教学变量无法独自奏效，高效学校系统改进需要共享愿景、高期望、持续数据收集、聚焦教学的领导力、同僚互信与有针对性的专业学习六大要素协同（Fullan, 2010）。学校改进必须区分重复既有行政指令的一阶修补与培育校内自主诊断及变革能力的二阶解决方案（Second-Order Change），并通过专家教师示范、团队听课、集体分析与反馈反思的同行教练规程，将课堂教学发展与人员发展及[[Professional Learning Community|专业学习共同体]]建设结合。[[Argument_Rolff_2014_SchoolStructure|(Rolff, 2014, pp. 73–76)]]
 
 ---
 
@@ -113,6 +116,7 @@ updated: 2026-11-19
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统解构富兰从学术领导者向跨国思想领袖的转型，揭示 NPDL 专有商标特许对公立学校教师研训经费的抽吸效应。
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 将富兰的全系统变革与共享连贯性（Shared Coherence）理论定位为对抗[[New Public Management|新公共管理]]（NPM）市场问责的文化制度取向代表，实证考察其深度参与的加拿大安大略省支持性专业问责与自下而上协同治理经验（pp. 3–5, 8–10）。
+> - [[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]] — 援引 Fullan (2010) 全系统质量改进六要素、二阶解决方案及专家教师同行教练规程，论证学校课堂改进必须依托人员发展与中层管理协同才能持久，以此反驳《可见的学习》孤立变量视角的局限（pp. 73–76）。
 
 ---
 
@@ -131,7 +135,7 @@ updated: 2026-11-19
 > > - **倡导方（Fullan et al.）** 强调 NPDL 提供了一套被全球学校验证的完整实操工具箱，能够跨越官僚阻碍实现立竿见影的课堂教学变革。
 > > - **批判方（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）** 指出其[[21st Century Skills and Competencies Discourse|核心素养]]内容并未超出国家法定公立课标，但通过注册商标与排他性年费机制，人为制造准入门槛，加剧公立教育对跨国资本的依附。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 24–25, 41–43)]]
 
-> [!critique] 外部批评
+> [!critique] 批评索引
 > - **教主崇拜与[[Technical Rationality|技术理性]][[Alienation|异化]]** 批判学者指出，富兰后期咨询风格呈现出“管理大师光环”（[[Cult of the Guru]]），依赖具有煽动性的商业修辞，将复杂的教育社会公平问题还原为标准化的打卡量规，掩盖了阶层分化与公共投入不足等结构性根源。
 
 ---
@@ -144,6 +148,8 @@ updated: 2026-11-19
 > | [[Professional Capital]] | 概念 | 与安迪·哈格里夫斯共同倡导教师专业资本与协作专业主义。 |
 > | [[New Pedagogies for Deep Learning]] | 概念 | 创办并主导深度学习新教学法全球倡议与 6C 素养体系。 |
 > | [[Teacher Collaboration]] | 概念 | 强调校际网络协同与教师同行专业协作。 |
+> | [[Second-Order Change]] | 概念 | 区分重复行政指令的一阶修补与培育学校自主诊断及变革能力的二阶解决方案。 |
+> | [[Professional Learning Community]] | 概念 | 将专家教师示范、团队听课与同行教练嵌入专业学习共同体以推进教学改进。 |
 > | [[OECD\|经合组织]] | 组织 | 全球政策扩散支持。 |
 > | 培生集团（Pearson plc） | 组织 | 智库丛书资助出版。 |
 > | [[CORE Education\|核心教育]] | 组织 | 新西兰独家特许代理商。 |
