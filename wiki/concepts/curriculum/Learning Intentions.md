@@ -8,7 +8,7 @@ aliases:
 summary: "教师与学生在教学活动前共同明确的核心认知理解与概念迁移目标；但在新泰勒主义问责与循证政策规训下，原本指向深层认知建构的学习意图容易异化为形式主义的白板打卡与管理监控指标。"
 type: concept
 domain: "curriculum"
-related_count: 42
+related_count: 44
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -21,6 +21,7 @@ tags:
   - performativity
 related_concepts:
   - "[[Alienation]]"
+  - "[[Instructional Design]]"
   - "[[Success Criteria]]"
   - "[[Causality]]"
   - "[[Learning Progression]]"
@@ -39,6 +40,7 @@ related_concepts:
   - "[[Teacher Questioning]]"
   - "[[Cognitive Deskilling]]"
   - "[[Teacher Clarity]]"
+  - "[[Evidence-Based Teaching]]"
   - "[[Professional Judgment]]"
   - "[[Paradigm]]"
   - "[[Academic Achievement]]"
@@ -71,7 +73,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-16
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 
 ---
@@ -80,7 +82,7 @@ updated: 2026-11-24
 > 学习意图（Learning Intentions，又称认知学习意图）指教师与学生在教学活动开始前共同明晰并共享的核心认知目标、深层概念理解与能力发展指向。它明确回答了“学生在认知层面应当理解什么、能够运用什么以及为何要学习这一内容”，旨在将课堂重心从表面化的“活动任务完成（Task Completion）”转向深层的“认知意义建构（Cognitive Construction）”（Clarke, Timperley, & Hattie, 2003；Hattie, 2005, p. 17）。然而，在当代循证政策的刚性推行中，学习意图亦面临被[[Alienation|异化]]为行政检查清单与白板打卡表演的制度风险（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 29]]）。
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向教学设计的认知实质与能力要求，界定学生思维需要达到的深度与广度，而非学生手头所做的具体操作步骤。
+> - **含义** 指向[[Instructional Design|教学设计]]的认知实质与能力要求，界定学生思维需要达到的深度与广度，而非学生手头所做的具体操作步骤。
 > - **用途** 帮助教师克服“活动繁荣却无实质学习”的教学盲区，破除学生将“字迹工整、篇幅冗长、没有拼写错误”等形式特征误当作学业优秀的认知迷思。
 > - **边界** 学习意图本身不规定具体的达标评判证据与细化层级（后者由[[Success Criteria|成功标准]]承担），亦不应异化为上级行政人员用于课堂纪律巡视的机械打卡工具。
 
@@ -181,7 +183,7 @@ updated: 2026-11-24
 > [!dev-timeline] 概念演变
 > - **1990s — [[Formative Assessment|形成性评价]]理论深化** 布莱克与威廉（Black & Wiliam, 1998）指出清晰的目标界定是形成性评价有效运转的前提，确立了将目标从静态考卷转移到动态课堂的理论基础。
 > - **2003–2005 — 概念界定与可见学习吸纳** 克拉克、廷珀利与[[John Hattie|哈蒂]]（Clarke, Timperley, & Hattie, 2003; [[Argument_Hattie_2005_ACER|Hattie, 2005]]）在[[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]中系统阐释 Learning Intentions，明确将其与任务完成区分开来，作为可见学习模型中“清晰教学”（[[Teacher Clarity]]）的关键实施路径。
-> - **2016–2019 — 商业培训与跨国扩张** 伴随 [[Corwin Press|Corwin]] 出版社对 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 的推广，学习意图与[[Success Criteria|成功标准]]被打包为全球教师培训认证的标准操作程序（SOP），成为各国循证教学改革的通用术语。
+> - **2016–2019 — 商业培训与跨国扩张** 伴随 [[Corwin Press|Corwin]] 出版社对 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 的推广，学习意图与[[Success Criteria|成功标准]]被打包为全球教师培训认证的标准操作程序（SOP），成为各国[[Evidence-Based Teaching|循证教学]]改革的通用术语。
 > - **2020–2023 — 政策制度化与批判性反思** 澳大利亚维州将学习意图作为 [[Victorian HITS and Literacy Toolkit|HITS]] 刚性指标后，基层遭遇白板打卡与行政扣分的形式主义困境；奥康纳（[[Argument_OConnor_2020_AJLL|O'Connor, 2020]]）与约翰逊与詹岑（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）从统计学和政治经济学角度展开批判，揭露技术清单对教师[[Professional Judgment|专业判断]]的剥夺。
 > - **2021 — [[Technical Rationality|技术理性]]控制与学生[[Intentionality|意向性]]批判** 尼尔森与克利特默勒（[[Argument_Nielsen_2021_IRTP|Nielsen & Klitmøller, 2021b]]）深入教育哲学层面，指出哈蒂体系将学习意图作为不容置疑的封闭终点，以既定目标神圣化教学手段，用心理学操作[[Variable|变量]]（[[Self-Efficacy|自我效能感]]、自我动机等）置换了学生探问生活世界意义的主体意向性。
 

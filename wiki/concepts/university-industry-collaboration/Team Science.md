@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-02
-updated: 2026-11-15
+updated: 2026-11-25
 ---
 
 ---
@@ -128,7 +128,7 @@ updated: 2026-11-15
 > **科学生产组织演化的底层动力** 围绕科研[[Paradigm|范式]]转型由物质与认知规律决定的机制分歧展开。
 
 > [!claim] [[Benjamin F. Jones|Jones, B. F.]]
-> **知识负担倒逼专业化分工** 人类知识存量的几何级增长大幅拉长了学者抵达前沿所需的受训年限，独立学者日益局限于细分分支导致[[Polymath|通才]]消亡；学者唯有通过团队合作跨界拼接专业知识碎片，方能维系颠覆性创新。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 88–89)]]
+> **知识负担驱动专业化分工** 人类知识存量的几何级增长大幅拉长了学者抵达前沿所需的受训年限，独立学者日益局限于细分分支导致[[Polymath|通才]]消亡；学者唯有通过团队合作跨界拼接专业知识碎片，方能维系颠覆性创新。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 88–89)]]
 
 > [!claim] [[Stefan Wuchty|Wuchty, S.]]
 > **[[Big Science|大科学工程]]对人力资源的客观汇聚** 现代物理与生命科学依赖大型对撞机或高通量测序等巨额设备，单一学者或机构无法独立承担建设与运维，客观迫使科学界走向超大规模团队协同。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 85–88)]]
@@ -168,7 +168,7 @@ updated: 2026-11-15
 
 > [!dev-timeline] 概念演变
 > - **1950s–1960s — 单人独著黄金期** 经典科学时代以爱因斯坦等学者为代表，顶尖突破主要由个体独立完成。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 81–82)]]
-> - **2007 — 团队主导地位的大数据确立** Wuchty、Jones 与 Uzzi 在《科学》发表奠基研究，系统量化团队在科技[[Document|文献]]与专利中的主导格局。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 85–86)]]
+> - **2007 — 团队主导地位的大数据确立** Wuchty、Jones 与 Uzzi 在《科学》发表开创性研究，系统量化团队在科技[[Document|文献]]与专利中的主导格局。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 85–86)]]
 > - **2008–2013 — 跨校网络与知识重组深化** 实证揭示跨校合作的引文溢价机制，以及团队引入非典型知识重组的认知优势。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 86–92)]]
 > - **2018 — 团队科学作为科学学核心支柱确立** [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] 在《科学》全面总结团队生产的演进规律，确立团队规模每十年增长 17%、颠覆与深化的功能分工，以及基于共被引网络的[[Collective Credit Allocation Algorithm|集体贡献分配算法]]（p. 4）。
 > - **2019 — 团队规模与颠覆性分工发现** Wu、Wang 与 Evans 依托颠覆性指数证实小团队颠覆既有科学、大团队推进既有科学的技术分工规律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 128–132)]]

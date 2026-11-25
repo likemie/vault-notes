@@ -10,7 +10,7 @@ subtype: program
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "program"
-fact_related_count: 40
+fact_related_count: 41
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Metascience]]"
   - "[[PICO Framework]]"
+  - "[[Commensuration]]"
   - "[[Variable]]"
   - "[[Publication Bias]]"
   - "[[Alienation]]"
@@ -57,24 +58,24 @@ related_methods:
   - "[[Confidence Interval]]"
   - "[[Random Sampling]]"
   - "[[Research Synthesis]]"
-  - "[[Intraclass Correlation Coefficient]]"
   - "[[Fixed-Effect Model]]"
+  - "[[Intraclass Correlation Coefficient]]"
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"
-  - "[[Christof Wecker]]"
+  - "[[Charles Taylor]]"
 related_facts:
   - "[[Corwin Press]]"
   - "[[Visible Learning Branding and Global Influences]]"
 related_arguments:
   - "[[Argument_Jansen_2026_EPR]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
-  - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Wecker_2016_ZfE]]"
+  - "[[Argument_Johnson_2023_CritEduc]]"
 confidence: medium
 status: active
 created: 2026-09-18
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 
 > [!program-context] 项目背景
@@ -873,7 +874,7 @@ MetaX 现行分类扩展为 9 个领域、43 个子领域。下表用 2026 年 1
 > [!evidence-grid] 典型学术研究与方法学检验
 > - **[[Argument_Jansen_2026_EPR|Jansen et al. (2026)]]** 从数据库随机抽取 156 项[[Academic Achievement|学业成就]]相关元分析，系统评估三种前沿大语言模型（Gemini 2.5 Pro、[[General Purpose Technology|GPT]]-4.1、GPT-o3）在[[Automated Data Extraction|自动化数据提取]]中的准确性，建立人机混合验证[[Paradigm|范式]]。
 > - **[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]** 对数据库 1.2 版的全部 322 项影响因素（1,369 篇一阶元分析）开展穷尽式[[Metascience|元科学]]质量评估与独立复现检验，系统诊断数据库在 [[PICO Framework|PICO]] 准入、模型设计混淆与数据提取上的系统性偏差。
-> - **[[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]]** 推导固定效应二阶元分析数学等价性公理，揭示数据库在标准误与标准差混淆、测度直接通约及初级研究重复加权上的统计学失范。
+> - **[[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]]** 推导[[Fixed-Effect Model|固定效应]]二阶元分析数学等价性公理，揭示数据库在[[Standard Error|标准误]]与标准差混淆、测度直接[[Commensuration|通约]]及初级研究重复加权上的统计学失范。
 > - **跨主题二阶综合研究** 研究者基于数据库开展主题聚焦的二阶元分析（如特定学科教学效果、弱势群体干预效能），汇聚跨元分析的[[Effect Size|效应量]]变异，检验调节[[Variable|变量]]与[[Publication Bias|发表偏倚]]。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 系统批判 Meta-X 的均值稀释效应、缺乏文献淘汰机制及课堂非人化研发实验室[[Alienation|异化]]。
 
@@ -894,7 +895,7 @@ MetaX 现行分类扩展为 9 个领域、43 个子领域。下表用 2026 年 1
 > > 数据库收录文献从最初的 800 余项暴增至 2,100+ 项，考察的影响因素从 138 项膨胀至 350+ 项。批判学者指出，由于采用无权简单算术平均，向庞大分母中追加新 $d$ 值产生的边际影响极速递减；极具[[Paradigm|范式]]突破性的前沿研究在庞大分母中被严重稀释，且数据库完全缺乏对陈旧、低质或已被学界推翻文献的淘汰机制，只是新旧数据不加甄别的机械堆积，导致作为客观基准的[[Zone of Desired Effects|期望效应区分水岭]]（$d = 0.40$）随[[Variable|变量]]增加而任意漂移。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 27)]]
 >
 > > [!axis] [[Corporate R&D Labs|企业研发实验室]]异化与课堂非人化批判
-> > Meta-X 数据库呈现为典型科学数据集的外观，但对其具体数字的抽取情境缺乏阐释。批判研究指出，该数据库以冷酷非人化的方式将中小学课堂重新构想为数据生产车间，其运作形态契合了现代企业研发实验室（R&D Lab）体制与新泰勒制逻辑，向政策部门兜售廉价的提分技术处方，背离了教育丰富的人文育人宗旨。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 35–36)]]
+> > Meta-X 数据库呈现为典型科学数据集的外观，但对其具体数字的抽取情境缺乏阐释。批判研究指出，该数据库以冷酷非人化的方式将中小学课堂重新构想为数据生产车间，其运作形态契合了现代企业研发实验室（R&D Lab）体制与新[[Charles Taylor|泰勒]]制逻辑，向政策部门兜售廉价的提分技术处方，背离了教育丰富的人文育人宗旨。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 35–36)]]
 
 > [!method-limits] 方法学与使用局限
 > - **访问限制与复现壁垒** 完整底层字段数据库不公开，仅限合作机构[[Research Utilization|研究使用]]，阻碍独立复现与[[Metascience|元科学]]检验；公开出版物与网站提供的汇总数据不包含细粒度原始提取字段。

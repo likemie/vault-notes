@@ -5,7 +5,7 @@ aliases:
 summary: "John Hattie 发起的教育证据综合与学校改进框架，主张通过汇总海量元分析建立 d=0.40 关节点相对有效性判准，将教师确立为成就变异的核心因果枢纽（30%），依托学业进阶、显性成功标准与形成性反馈重塑教学评价性判断。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 182
+related_count: 188
 related_level: 18
 related_stars: "💎💎💎💎💎💎"
 related_color: "#ddd6fe"
@@ -74,7 +74,9 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Intentionality]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Instructional Design]]"
   - "[[Metascience]]"
+  - "[[Evidence-Based Teaching]]"
   - "[[Critic and Conscience of Society]]"
   - "[[Didaktik]]"
   - "[[Bildung]]"
@@ -171,6 +173,9 @@ related_facts:
   - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[Danish Public School Reform]]"
   - "[[CORE Education]]"
+  - "[[Hattie på dansk]]"
+  - "[[Visible Learning in Sweden]]"
+  - "[[Russian Translation of Visible Learning]]"
   - "[[COACTIV]]"
 related_arguments:
   - "[[Argument_Hattie_2005_ACER]]"
@@ -202,6 +207,7 @@ related_arguments:
   - "[[Argument_Qvortrup_2015_Paideia]]"
   - "[[Argument_Sarbiewska_2019_KiW]]"
   - "[[Argument_ONeill_2016_Report]]"
+  - "[[Argument_VonOlberg_2014_GeneralDidactics]]"
   - "[[Argument_Nielsen_2021_IRTP]]"
 confidence: high
 status: stable
@@ -354,7 +360,7 @@ updated: 2026-11-25
 > **[[Class Size|班级规模]]非线性门槛与证据的行政武器化风险** 斯努克等人通过深入剖析班级规模的实证文献指出，哈蒂报告的班级规模极低总体效应量（$d=0.21$）不仅掩盖了微观教学机制，更极易被政策制定者武器化为削减教育投入的工具。真实证据（如田纳西州 STAR 严格随机试验证实低年级小班阅读与数学效应量达 $0.62–0.66$、奥克兰 [[Picking Up the Pace|PACE 项目]]中 15 人小班保障 3 人微型群组密集辅导）表明，班级规模在特定关键学段跨越物理阈值时会产生非线性的突破性收益，并与高频师生互动、个性化反馈形成强交互。然而，新西兰教育部长安妮·托利（Anne Tolley）却迅速在国会与政策辩论中征用哈蒂数据，以“校内教师质量差异远大于班级规模差异”为由抗拒缩减班级规模，并强推历史上屡遭失败的教师[[Performance Pay|绩效工资]]制度。斯努克等人援引[[John Dewey|杜威]]强调，实证证据应当是明智探究的假设而非技术统治的铁律，一旦被剥离情境转化为自上而下的量化排名清单，就会沦为新自由主义官僚推卸财政责任、规训公立学校教师的行政武器。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 100–104)]]
 
 > [!claim] Nielsen, K. & Klitmøller, J.
-> **[[Positivism|实证主义]][[Technical Rationality|技术理性]]、[[Behaviorism|行为主义]]工程论与学习者[[Intentionality|意向性]]消解** 尼尔森与克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）从思想史与科学哲学维度揭示，哈蒂表面上自称为[[Constructivist Paradigm|建构主义]]者，其实质学理底色深深植根于[[B. F. Skinner|斯金纳]]（B.F. Skinner）操作性条件反射与[[Robert Glaser|格拉泽]]（Robert Glaser）教学设计的行为主义工程学传统，遵循[[Donald A. Schön|唐纳德·舍恩]]（Donald Schön）所批判的[[Technical Rationality|技术理性]]（Technical Rationality）范式。该范式将复杂的师生互动还原为线性的“输入-产出”因果变量对应关系，试图将教学活动拆解为可量化、可预设的标准技术规程；其致命盲区在于彻底抽空了学习者的主观意向性（Intentionality）以及师生间的主体间性承认，把活生生的学生客体化为被动接受刺激的因果终端。这种将教育简化为原子化技术指标的架构，为自上而下的[[Neo-Taylorism|新泰勒主义]]管理与绩效控制提供了理论掩护。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 47–49, 56–58)]]
+> **[[Positivism|实证主义]][[Technical Rationality|技术理性]]、[[Behaviorism|行为主义]]工程论与学习者[[Intentionality|意向性]]消解** 尼尔森与克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）从思想史与科学哲学维度揭示，哈蒂表面上自称为[[Constructivist Paradigm|建构主义]]者，其实质学理底色深深植根于[[B. F. Skinner|斯金纳]]（B.F. Skinner）操作性条件反射与[[Robert Glaser|格拉泽]]（Robert Glaser）[[Instructional Design|教学设计]]的行为主义工程学传统，遵循[[Donald A. Schön|唐纳德·舍恩]]（Donald Schön）所批判的[[Technical Rationality|技术理性]]（Technical Rationality）范式。该范式将复杂的师生互动还原为线性的“输入-产出”因果变量对应关系，试图将教学活动拆解为可量化、可预设的标准技术规程；其致命盲区在于彻底抽空了学习者的主观意向性（Intentionality）以及师生间的主体间性承认，把活生生的学生客体化为被动接受刺激的因果终端。这种将教育简化为原子化技术指标的架构，为自上而下的[[Neo-Taylorism|新泰勒主义]]管理与绩效控制提供了理论掩护。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 47–49, 56–58)]]
 
 ---
 
@@ -364,7 +370,7 @@ updated: 2026-11-25
 > | **相对有效性判准** | 确立 $d=0.40$ 关节点，以超越常规教学均值为标准衡量干预价值；但阿司匹林反例证伪门槛普适性，二阶质控缺位、对照组混并与跨设计缺陷瓦解了该连续体，且自认叙事故事造成学段一刀切误导 | 教育政策循证筛选与教学干预效果评估（及[[Metascience\|元科学]]审计） | [[Argument_Hattie_2005_ACER\|Hattie (2005)]]; [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]]; [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]; [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]]; [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]]; [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]; [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] |
 > | **教师因果枢纽与归因** | 教师占 30% 方差，评价数据是检验自身教学策略的反光镜；但混淆校内相对变异与校际方差，剔除 SES 调节效应制造阶级盲假象，忽视生源背景解释 70%–80% 差异并演变为政策推卸治理责任的还原主义掩护 | 教师专业发展、评价观念重塑与责任界定 | [[Argument_Hattie_2015_SOTLP\|Hattie (2015a)]]; [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; [[Argument_Grace_2010_NZJES\|Grace (2010)]]; [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] |
 > | **显性进阶与双向可见** | 共享成功标准与形成性三提问，破除课堂认知盲区实现自主演进；但双向可见性在福柯视角下展现为将外显统治转化为内化自我监控的微观全景规训 | 课堂教学设计、形成性评价实施与师生互动 | Clarke, Timperley, & Hattie; [[Argument_Knudsen_2017_NordSTEP\|Knudsen (2017)]]; [[Argument_Terhart_2011_JCS\|Terhart (2011)]] |
-> | **评价性判断与文化重塑** | 倡导 DIE 诊断循环与校本反馈文化，警惕机械清单、货物崇拜科学、技术理性工程论消解学习者意向性、班级规模削减与新泰勒主义行政监控 | 学校改进机制建构与循证教学文化培育 | [[Argument_Fredens_2015_Paideia\|Fredens (2015)]]; [[Argument_Nordahl_2015_Paideia\|Nordahl (2015)]]; [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]]; [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; [[Argument_Eacott_2019_IJLE\|Eacott (2019)]]; [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]; [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] |
+> | **评价性判断与文化重塑** | 倡导 DIE 诊断循环与校本反馈文化，警惕机械清单、货物崇拜科学、技术理性工程论消解学习者意向性、班级规模削减与新泰勒主义行政监控 | 学校改进机制建构与[[Evidence-Based Teaching\|循证教学]]文化培育 | [[Argument_Fredens_2015_Paideia\|Fredens (2015)]]; [[Argument_Nordahl_2015_Paideia\|Nordahl (2015)]]; [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]]; [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; [[Argument_Eacott_2019_IJLE\|Eacott (2019)]]; [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]; [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] |
 
 ---
 
@@ -469,16 +475,18 @@ updated: 2026-11-25
 > | 知识模块 | 条目 | 类型 | 核心关联与分流定位（分流维护指引） |
 > |:---|:---|:---|:---|
 > | **核心理论与教学论** | [[Visible Learning]] | 概念 | 母条目本体；维护二阶元分析理论架构、30% 教师方差、形成性三提问与双向可见性教学论。 |
-> | **核心理论与教学论** | [[Zone of Desired Effects]] | 概念 | 期望效应区；维护 $d=0.40$ 关节点构念、四象限气压计模型、常态成长分界与政策投资门槛。 |
+> | **核心理论与教学论** | [[Zone of Desired Effects]] | 概念 | 期望效应区；维护 $d=0.40$ 关节点构念、常态成长分界与政策投资门槛。 |
 > | **核心理论与教学论** | [[Learning Progression]] | 概念 | 学业进阶；维护认知发展纵向阶梯标尺、形成性提问嵌入、质性进阶轨迹与常模校准机制。 |
 > | **核心理论与教学论** | [[Learning Intentions]] | 概念 | 显性学习意图；维护课堂教学目标敞开机制、认知透明度与师生目标共享。 |
 > | **核心理论与教学论** | [[Success Criteria]] | 概念 | 显性成功标准；维护分阶成就阶梯、评价标准共享与学生自我调节评价机制。 |
 > | **核心理论与教学论** | [[Feedback]] | 概念 | 形成性反馈；维护 $d=0.73$ 标杆效应量、任务/过程/自我调节三层级反馈交互机制。 |
+> | **核心理论与教学论** | [[Teacher as Activator]] | 概念 | 激活型教师角色构念；维护激活者 vs 促进者效应量分野（$d=0.60$ vs $d=0.17$）、直接教学实证印证与主动教学干预机制。 |
 > | **外部学理批判总揽** | [[Critiques of Visible Learning]] | 概念 | 外部学理批评全景枢纽；承接所有关于二阶元分析算法、欧陆教学论、新泰勒制及[[Ideology Critique\|意识形态批判]]。 |
+> | **效应量视觉修辞** | [[Barometer of Achievement]] | 概念 | 效应量气压计视觉修辞；维护半圆形仪表盘、四象限区间划分、asTTle 行政监控图示渊源与伪科学视觉修辞批判。 |
 > | **核心人物** | [[John Hattie]] | 人物 | 理论开创者与首席研究员；承接学者生平、学术转向、机构任职及学术声誉变迁。 |
-> | **商业化与全球政策扩散** | [[Visible Learning Branding and Global Influences]] | 事实 / 事件 | 商业与跨国政策唯一承接枢纽；收口 VLplus 专营培训、考文收购、高额版税追踪与英澳丹政策采纳。 |
+> | **商业化与全球政策扩散** | [[Visible Learning Branding and Global Influences]] | 事实 / 事件 | 全球商业化与跨国政策总枢纽；收口 VLplus 专营培训、考文收购、高额版税追踪与跨国采纳，下辖丹麦、瑞典、俄罗斯等国别落地子条目（如 [[Hattie på dansk]]、[[Visible Learning in Sweden]]、[[Russian Translation of Visible Learning]]）。 |
 > | **实证[[Data Infrastructure\|数据基础设施]]** | [[Visible Learning Meta-X]] | 事实 / 项目 | 底层数据库；承接 2,100+ 项一阶元分析收录、因素层加权计算口径及自动化提取质控。 |
-> | **测量与评估工具原型** | [[Assessment Tools for Teaching and Learning]] | 测量工具 | asTTle 计算机系统；承接形成性三提问与气压计界面的软件原型、题库校准与测评管理功能。 |
+> | **测量与评估工具原型** | [[Assessment Tools for Teaching and Learning]] | 测量工具 | asTTle 计算机系统；承接形成性三提问软件原型、题库校准与测评管理功能。 |
 
 ---
 

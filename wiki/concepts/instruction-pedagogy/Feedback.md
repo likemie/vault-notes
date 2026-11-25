@@ -5,7 +5,7 @@ aliases:
 summary: "围绕学习表现、理解状态与改进行动的信息交互机制，包含目标、当前表现与未来路径三维度；在宏观循证综合中常被泛化并混杂行为强化、教师亲和力与测验提示，其实践效能深度依赖情境、元认知引导与主体间承认。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 67
+related_count: 68
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -88,9 +88,10 @@ related_arguments:
   - "[[Argument_Rømer_2018_EPT]]"
   - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
   - "[[Argument_Hattie_2005_ACER]]"
+  - "[[Argument_Brugelmann_2014_LocalPractice]]"
   - "[[Argument_Barrenechea_2023_JEC]]"
 confidence: high
-status: active
+status: completed
 created: 2026-05-04
 updated: 2026-11-25
 ---
@@ -535,6 +536,7 @@ updated: 2026-11-25
 > - [[Argument_Håkansson_2015_TT|Håkansson (2015a)]] — 结合国际教学综合，阐明反馈与理解检查作为[[Classroom Management|课堂管理]]与[[Structured Teaching|结构化教学]]不可分割的核心机制。
 > - [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz and Klinge (2022)]] — 批判算法与数字化学习平台中的即时反馈、[[Gamification|游戏化]]代币对学生[[Metacognition|元认知]]反思间隙的压缩与[[Data Behaviorism|数据行为主义]]异化。
 > - [[Argument_Fredens_2015_Paideia|Fredens (2015)]] — 将反馈从单纯技巧升华为追问“Where to next?”的学校文化，连接[[Working Memory|工作记忆]]与元认知自我调节。
+> - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014)]] — 结合德语区小学读写实验，实证揭示即时口头反馈对开放学习的支架功能，批判二阶元综合混淆微观口头反馈与宏观测验反馈的异质拼贴（pp. 41–44）。
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 从教育哲学与政治治理视角批判哈蒂反馈倒置学说，揭示逆向数据捕获与[[Panopticism|全景敞视]]集权控制机制（pp. 9–10）。
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 结合课程规制理论范式，阐述中央集权课程体制如何依托统一教科书与常态化教学反馈维系系统各阶段的学业一致性。
 

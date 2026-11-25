@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 173
+person_related_count: 178
 person_related_level: 17
 person_related_stars: "💎💎💎💎💎⭐⭐"
 person_related_color: "#fef3c7"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[School Effectiveness]]"
   - "[[Zone of Desired Effects]]"
   - "[[Deficit Framing]]"
+  - "[[Teacher as Activator]]"
   - "[[Implementation Fidelity]]"
   - "[[Whole-School Improvement]]"
   - "[[Research Translation]]"
@@ -77,11 +78,11 @@ related_concepts:
   - "[[Blind Spot in Observation]]"
   - "[[Automated Data Extraction]]"
   - "[[Cult of the Guru]]"
+  - "[[Document]]"
   - "[[Bildung]]"
   - "[[Public Value]]"
   - "[[Homework]]"
   - "[[Critic and Conscience of Society]]"
-  - "[[Document]]"
   - "[[Web-Based Learning]]"
   - "[[Category Mistake]]"
   - "[[Homophily]]"
@@ -93,13 +94,16 @@ related_concepts:
   - "[[Side Effects]]"
   - "[[Didaktik]]"
   - "[[Variable]]"
+  - "[[Streetlight Effect]]"
+  - "[[Empirische Unterrichtsforschung]]"
+  - "[[Cognitive Activation]]"
   - "[[Socioeconomic Status]]"
   - "[[Dependent Variable]]"
   - "[[Cargo Cult Science]]"
   - "[[Inquiry-Based Learning]]"
-  - "[[Going Native]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Scaffolding]]"
+  - "[[Going Native]]"
 related_theories:
   - "[[Walberg's Educational Productivity Model]]"
   - "[[Knowledge Building Theory]]"
@@ -110,6 +114,7 @@ related_theories:
   - "[[Phenomenology]]"
   - "[[Societies of Control]]"
   - "[[Discursive Institutionalism]]"
+  - "[[Process-Product Paradigm]]"
   - "[[Behaviorism]]"
 related_methods:
   - "[[Meta-meta-analysis]]"
@@ -138,12 +143,12 @@ related_persons:
   - "[[Ivan Snook]]"
   - "[[John O'Neill]]"
   - "[[Scott Eacott]]"
+  - "[[Olaf Köller]]"
   - "[[Steen Nepper Larsen]]"
   - "[[Klaus Nielsen]]"
   - "[[Thomas Aastrup Rømer]]"
   - "[[Jürgen Habermas]]"
   - "[[Charles Taylor]]"
-  - "[[Olaf Köller]]"
 related_arguments:
   - "[[Argument_Knudsen_2017_NordSTEP]]"
   - "[[Argument_Higgins_2016_ROE]]"
@@ -178,11 +183,11 @@ related_arguments:
   - "[[Argument_Rømer_2018_EPT]]"
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Zhao_2017_JEC]]"
-  - "[[Argument_Nielsen_2021_NordPsych]]"
-  - "[[Argument_Hattie_2017_SLM]]"
   - "[[Argument_Terhart_2014_HolyGrail]]"
   - "[[Argument_Koller_2014_WhatWorks]]"
   - "[[Argument_Brugelmann_2014_LocalPractice]]"
+  - "[[Argument_Nielsen_2021_NordPsych]]"
+  - "[[Argument_Hattie_2017_SLM]]"
 related_facts:
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[Evidence for Learning]]"
@@ -203,8 +208,8 @@ related_facts:
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
   - "[[Visible Classroom]]"
-confidence: medium
-status: active
+confidence: high
+status: stable
 created: '2026-05-02'
 updated: 2026-11-25
 ---
@@ -262,7 +267,7 @@ updated: 2026-11-25
 >
 > - **1998–2009 — 《[[Visible Learning\|可见的学习]]》框架确立与证据排序阶段** 此阶段主要回应[[New Public Management\|新公共管理]]改革下[[School Effectiveness\|学校效能]]、惩罚性测试问责与循证改革的证据基础问题。
 >   - **代表著作** [[Argument_Hattie_2005_ACER\|Hattie (2005)]] *What is the nature of evidence that makes a difference to learning?*；Hattie (2009) *[[Visible Learning]]: A synthesis of over 800 meta-analyses relating to achievement*。[[Argument_Terhart_2011_JCS\|(Terhart, 2011, p. 426)]]
->   - **关键概念／方法** [[Visible Learning]]、关节点（[[Zone of Desired Effects|Hinge Point]] $d=0.40$）、六分源学业变异分解模型（学生 50%、教师 30%、学校/家庭/同伴各 5–10%）、[[Assessment Tools for Teaching and Learning\|asTTle]] 形成性诊断循环、[[Learning Progression\|学业进阶]]共享语言、[[Deficit Framing\|赤字理论]]批判、激活者（$d=0.60$）vs 促进者（$d=0.17$）。
+>   - **关键概念／方法** [[Visible Learning]]、关节点（[[Zone of Desired Effects|Hinge Point]] $d=0.40$）、六分源学业变异分解模型（学生 50%、教师 30%、学校/家庭/同伴各 5–10%）、[[Assessment Tools for Teaching and Learning\|asTTle]] 形成性诊断循环、[[Learning Progression\|学业进阶]]共享语言、[[Deficit Framing\|赤字理论]]批判、[[Teacher as Activator|激活者]]（$d=0.60$）vs 促进者（$d=0.17$）。
 >   - **阶段转向** 在 2005 年 [[Australian Council for Educational Research\|ACER]] 会议论文中首次系统提炼《可见的学习》核心统计骨架（$d=0.40$ 相对有效性门槛与教师因果核心地位），批判 [[No Child Left Behind Act 2001\|NCLB]] 自上而下的惩罚性问责，主张依托 asTTle 系统将评价结果重塑为教师反思自身教学效能的镜像；随后在 2009 年专著中将元综合结果扩展为具有全球影响力的干预效果排行榜，确立教师作为主动激活者的核心论调。
 >
 > - **2014–2016 — 认知科学整合、品牌扩张与实施工程阶段** 此阶段主要回应首版著作理论根基薄弱、脱离课堂微观情境以及学校现场落实困难的批评。
@@ -356,7 +361,7 @@ updated: 2026-11-25
 > - **继承者与本土化转译者** [[Thomas Nordahl]]、Ane Qvortrup、Claus Nygaard（斯堪的纳维亚本土化引介与转译，运用系统论为可见学习辩护）；Deb Masters（[[Visible Learning]] 教师培训实施与全球实践案例库联合编著者）。
 > - **统计方法学审查者** [[Christof Wecker]] 等人（推导两级[[Fixed-Effect Model|固定效应]]代数等价性，实证判定[[Meta-meta-analysis|二阶元分析]]不可行）；[[Pierre-Jérôme Bergeron]] 与 Lysanne Rivard（揭示 [[Common Language Effect Size|CLES]] 负概率、基线反转与公式颠倒，定性为伪科学纸牌屋）；Kalmendal et al. （针对 322 个因素开展[[Preregistration|预注册]][[Metascience|元科学]]审计，证实数据提取复现率仅 0.66%）。
 > - **新西兰论战与政策批判者** [[Ivan Snook]]、John Clark、[[John O'Neill]]、Roger Openshaw（新西兰论战首发批判团队，质询二阶元分析质控缺位、截断值武断性与生源归因偏误）；[[Gerald Grace]]（批判学者良知角色与技术辩护矛盾）；[[Scott Eacott]]、McKnight & Whitburn（批判澳大利亚[[School Leadership|学校领导力]]的[[Cult of the Guru|大师崇拜]]与[[Neo-Taylorism|新泰勒主义]]规训）。
-> - **教育哲学与教化传统反思者** [[Ewald Terhart]]（指出理论教化实质真空、双向可见性的福柯式全景规训与修补金字塔双重困境）；[[Olaf Köller]]（肯定深层教学质量划分，但依据 COACTIV 实证直接驳斥哈蒂低估教师学科专业知识的论断）；Hans Brügelmann（从本土教学实践与方法论审读其抹杀组内方差离散度、文献历史断代滞后及指标评价自相矛盾）；[[Steen Nepper Larsen]]（从[[Phenomenology|现象学]]自由批判观看盲视并主张 [[Bildung]] 替代）；[[Klaus Nielsen]] & Jørgen Klitmøller、[[Thomas Aastrup Rømer]]（从[[Jürgen Habermas|哈贝马斯]][[Critical Theory|批判理论]]揭示[[Technical Rationality|技术理性]]的[[Legitimation Crisis|合法化危机]]）。
+> - **教育哲学与教化传统反思者** [[Ewald Terhart]]（指出理论教化实质真空、双向可见性的福柯式全景规训与修补金字塔双重困境）；[[Olaf Köller]]（肯定深层教学质量划分，但依据 [[COACTIV]] 实证直接驳斥哈蒂低估教师学科专业知识的论断）；Hans Brügelmann（从本土教学实践与方法论审读其抹杀组内方差离散度、[[Document|文献]]历史断代滞后及指标评价自相矛盾）；[[Steen Nepper Larsen]]（从[[Phenomenology|现象学]]自由批判观看盲视并主张 [[Bildung]] 替代）；[[Klaus Nielsen]] & Jørgen Klitmøller、[[Thomas Aastrup Rømer]]（从[[Jürgen Habermas|哈贝马斯]][[Critical Theory|批判理论]]揭示[[Technical Rationality|技术理性]]的[[Legitimation Crisis|合法化危机]]）。
 
 ---
 
@@ -415,8 +420,8 @@ updated: 2026-11-25
 > - [[Argument_Snook_2009_NZJES|Snook et al., 2009]] — 新西兰首轮系统学术批判：二阶元分析底层质控缺位、0.40 截断值武断性（阿司匹林反例）、排除 70%–80% 生源背景[[Variable|变量]]，以及[[Class Size|班级规模]]与[[Performance Pay|绩效工资]]的政策误用。
 > - [[Argument_Grace_2010_NZJES|Grace, 2010]] — 新西兰论战法理与伦理批判：从大学法定“[[Critic and Conscience of Society|社会的批评者与良知]]”角色出发，指责其排除 70%–80% 结构性背景变量是学术还原论，混淆了学科技术批评与社会良知职能。
 > - [[Argument_Terhart_2011_JCS|Terhart, 2011]] — 首篇国际长篇书评：教学理论教化实质真空（[[Didaktik]] / [[Bildung]]）、波普尔三个世界形式化挪用、双向可见性的福柯式全景规训，以及稳定性与变异性假说下的修补金字塔双重困境。
-> - [[Argument_Terhart_2014_HolyGrail|Terhart, 2014]] — 德语编著专章长篇审读：系统剖析二阶元分析文献底册陈旧（多为 80–90 年代）且缺乏质控准入门槛，0.40 门槛仅为学校常规教学自然基准，过程-结果范式陷入路灯效应排斥非测验育人目标，师生互视模型潜藏微观心理自我规训，终结教育终极圣杯神话（pp. 10–23）。
-> - [[Argument_Koller_2014_WhatWorks|Köller, 2014]] — 德语区实证教学研究审视：肯定可见学习区分宏观表面结构与微观深层教学质量，但依据 COACTIV 长期追踪实证直接驳斥哈蒂低估教师学科专业知识（$d=0.09$）的论断，确证学科知识是高质认知激活教学的必要基石（p. 32）。
+> - [[Argument_Terhart_2014_HolyGrail|Terhart, 2014]] — 德语编著专章长篇审读：系统剖析二阶元分析文献底册陈旧（多为 80–90 年代）且缺乏质控准入门槛，0.40 门槛仅为学校常规教学自然基准，[[Process-Product Paradigm|过程-结果范式]]陷入[[Streetlight Effect|路灯效应]]排斥非测验育人目标，师生互视模型潜藏微观心理自我规训，终结教育终极圣杯神话（pp. 10–23）。
+> - [[Argument_Koller_2014_WhatWorks|Köller, 2014]] — 德语区[[Empirische Unterrichtsforschung|实证教学研究]]审视：肯定可见学习区分宏观表面结构与微观深层教学质量，但依据 COACTIV 长期追踪实证直接驳斥哈蒂低估教师学科专业知识（$d=0.09$）的论断，确证学科知识是高质[[Cognitive Activation|认知激活]]教学的必要基石（p. 32）。
 > - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann, 2014]] — 德语区本土教学与方法论审读：批判二阶元分析抹杀教学干预内部方差离散度、文献历史断代滞后（如计算机辅助教学过半文献早于 2000 年）与微观实施保真度缺失，揭示哈蒂指标内部对开放教学（$d=0.01$）与非指导性教学（$d=0.54$）评价的自相矛盾，破除将统计均值硬化为课堂禁令的错误做法（pp. 38–50）。
 > - [[Argument_Allerup_2015_Paideia|Allerup, 2015]] — 效应量排名[[Sample Size Determination|样本量]]依赖、[[Confidence Interval|置信区间]]缺失与[[Socioeconomic Status|社会经济背景]]控制批评。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al., 2016]] — 推导两级固定效应代数等价性定理与六步规程，以 Eisenstaedt（10倍虚增）、Haas（权重削减53%）及 Olson & Wisher（93%重叠致排名雪崩）实证解构超级元分析可行性。

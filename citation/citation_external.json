@@ -10454,8 +10454,6 @@
     "Grisay et al., 2007": "Grisay et al., 2007",
     "Grissmer (1999)": "Grissmer, 1999",
     "Grissmer, 1999": "Grissmer, 1999",
-    "Grit Arnhold (2005)": "Grit Arnhold, 2005",
-    "Grit Arnhold, 2005": "Grit Arnhold, 2005",
     "Grolig (2020)": "Grolig, 2020",
     "Grolig, 2020": "Grolig, 2020",
     "Grolnick (2007)": "Grolnick, 2007",
@@ -19639,6 +19637,8 @@
     "OSTP, 1976": "OSTP, 1976",
     "Oakes & Guiton (1995)": "Oakes & Guiton, 1995",
     "Oakes & Guiton, 1995": "Oakes & Guiton, 1995",
+    "Oakes & Wells (1996)": "Oakes & Wells, 1996",
+    "Oakes & Wells, 1996": "Oakes & Wells, 1996",
     "Oakes (1985)": "Oakes, 1985",
     "Oakes (1986)": "Oakes, 1986",
     "Oakes, 1985": "Oakes, 1985",
@@ -29584,8 +29584,6 @@
     "实证与批判学者 (1960)": "实证与批判学者, 1960",
     "实证与批判学者, 1960": "实证与批判学者, 1960",
     "实证与批判学者, 1960s": "实证与批判学者, 1960",
-    "富兰 (2010)": "富兰, 2010",
-    "富兰, 2010": "富兰, 2010",
     "就罗默 (2019)": "就罗默, 2019",
     "就罗默, 2019": "就罗默, 2019",
     "尼尔森与克利特默勒 (2021)": "尼尔森与克利特默勒, 2021",
@@ -29758,6 +29756,8 @@
     "施奈德, 2022": "施奈德, 2022",
     "施特雷克与希伦 (2005)": "施特雷克与希伦, 2005",
     "施特雷克与希伦, 2005": "施特雷克与希伦, 2005",
+    "施皮瓦克 (2013)": "施皮瓦克, 2013",
+    "施皮瓦克, 2013": "施皮瓦克, 2013",
     "早期 (1912)": "早期, 1912",
     "早期, 1912": "早期, 1912",
     "昆士兰 (2013)": "昆士兰, 2013",
@@ -29921,6 +29921,8 @@
     "社会民主与中左阵营, 1968": "社会民主与中左阵营, 1968",
     "社论 (1916)": "社论, 1916",
     "社论, 1916": "社论, 1916",
+    "科勒 (2012)": "科勒, 2012",
+    "科勒, 2012": "科勒, 2012",
     "科塞勒克 (2006)": "科塞勒克, 2006",
     "科塞勒克, 2006": "科塞勒克, 2006",
     "科恩等人 (2011)": "科恩等人, 2011",
@@ -29974,6 +29976,8 @@
     "考察了, 2012": "考察了, 2012",
     "考恩 (1996)": "考恩, 1996",
     "考恩, 1996": "考恩, 1996",
+    "而富兰 (2010)": "而富兰, 2010",
+    "而富兰, 2010": "而富兰, 2010",
     "聚焦哈蒂 (2009)": "聚焦哈蒂, 2009",
     "聚焦哈蒂, 2009": "聚焦哈蒂, 2009",
     "胡塞尔 (1913)": "胡塞尔, 1913",
@@ -106823,21 +106827,6 @@
       ],
       "title": ""
     },
-    "Grit Arnhold, 2005": {
-      "aliases": [
-        "Grit Arnhold, 2005",
-        "Grit Arnhold (2005)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Grit Arnhold, 2005"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
-      ],
-      "title": ""
-    },
     "Grolig, 2020": {
       "aliases": [
         "Grolig, 2020",
@@ -113218,6 +113207,7 @@
       ],
       "isbn": "9780415479783",
       "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md",
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md",
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md",
         "wiki/arguments/journal-articles/Australian Journal of Language and Literacy/Argument_OConnor_2020_AJLL.md",
@@ -113256,8 +113246,7 @@
         "wiki/concepts/instruction-pedagogy/Effective Teaching.md",
         "wiki/concepts/instruction-pedagogy/Feedback.md",
         "wiki/concepts/instruction-pedagogy/Homework.md",
-        "wiki/concepts/instruction-pedagogy/Inclusive Education.md",
-        "wiki/concepts/instruction-pedagogy/Lecturing.md"
+        "wiki/concepts/instruction-pedagogy/Inclusive Education.md"
       ],
       "title": "Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement"
     },
@@ -173692,6 +173681,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/sociology-of-education/Tracking.md"
+      ],
+      "title": ""
+    },
+    "Oakes & Wells, 1996": {
+      "aliases": [
+        "Oakes & Wells, 1996",
+        "Oakes & Wells (1996)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Oakes & Wells, 1996"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
       ],
       "title": ""
     },
@@ -245866,21 +245870,6 @@
       ],
       "title": ""
     },
-    "富兰, 2010": {
-      "aliases": [
-        "富兰, 2010",
-        "富兰 (2010)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "富兰, 2010"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
-      ],
-      "title": ""
-    },
     "就罗默, 2019": {
       "aliases": [
         "就罗默, 2019",
@@ -247155,6 +247144,21 @@
       ],
       "title": ""
     },
+    "施皮瓦克, 2013": {
+      "aliases": [
+        "施皮瓦克, 2013",
+        "施皮瓦克 (2013)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "施皮瓦克, 2013"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
+      ],
+      "title": ""
+    },
     "早期, 1912": {
       "aliases": [
         "早期, 1912",
@@ -248383,6 +248387,21 @@
       ],
       "title": ""
     },
+    "科勒, 2012": {
+      "aliases": [
+        "科勒, 2012",
+        "科勒 (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "科勒, 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
+      ],
+      "title": ""
+    },
     "科塞勒克, 2006": {
       "aliases": [
         "科塞勒克, 2006",
@@ -248775,6 +248794,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-policy-reform/School Effectiveness.md"
+      ],
+      "title": ""
+    },
+    "而富兰, 2010": {
+      "aliases": [
+        "而富兰, 2010",
+        "而富兰 (2010)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "而富兰, 2010"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
       ],
       "title": ""
     },

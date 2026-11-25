@@ -8,10 +8,10 @@ aliases:
 summary: "伴随学习意图向学生显性呈现的具体质性表现指标、证据特征与进阶阶梯，用于判定学生在何种程度上达成了预期的认知理解与能力目标"
 type: concept
 domain: "competency-and-assessment"
-related_count: 22
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - theme/formative-assessment
   - theme/instruction
@@ -30,27 +30,35 @@ related_concepts:
   - "[[Self-control]]"
   - "[[Variable]]"
   - "[[Learning Progression]]"
-  - "[[Document]]"
+  - "[[Evidence-Based Teaching]]"
+  - "[[Formative Assessment]]"
+  - "[[Paradigm]]"
   - "[[Creativity]]"
   - "[[Open-Mindedness]]"
   - "[[Alienation]]"
-  - "[[Formative Assessment]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Heterogeneity]]"
+  - "[[Academic Achievement]]"
+  - "[[Visible Learning]]"
 related_theories: []
-related_methods: []
-related_instruments: []
+related_methods:
+  - "[[Pre-test and Post-test]]"
+  - "[[Meta-meta-analysis]]"
+  - "[[Meta-analysis]]"
+related_instruments:
+  - "[[Assessment Tools for Teaching and Learning]]"
 related_persons:
-  - "[[John Hattie]]"
   - "[[Olaf Köller]]"
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Hattie_2005_ACER]]"
-  - "[[Argument_Knudsen_2017_NordSTEP]]"
   - "[[Argument_Koller_2014_WhatWorks]]"
+  - "[[Argument_Knudsen_2017_NordSTEP]]"
 confidence: high
-status: active
+status: completed
 created: 2026-09-16
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 
 ---
@@ -78,7 +86,7 @@ updated: 2026-11-24
 > [!contrast-table|notitle] 成功标准与传统评分量规辨析
 > | 维度 | 成功标准（Success Criteria） | 终结性评分量规（Summative Rubrics） | 表层任务清单（Task Checklist） |
 > |---|---|---|---|
-> | **首要功能** | 过程导航、自我调节与形成性[[Dialogue in Education|对话]] | 事后定级、评定分数与外部问责 | 检查操作步骤是否遗漏 |
+> | **首要功能** | 过程导航、自我调节与形成性[[Dialogue in Education\|对话]] | 事后定级、评定分数与外部问责 | 检查操作步骤是否遗漏 |
 > | **呈现时机** | 学习活动开展前及全过程持续伴随 | 通常在任务交卷或批改时出具 | 任务执行阶段 |
 > | **结构特征** | 伴随时间进阶的分层里程碑与质性证据 | 多等级（如优秀/良好/及格）打分矩阵 | 行为动作是否完成的二元勾选 |
 > | **学生能动性** | 主动用于自我诊断与同伴修改 | 被动接受教师裁判与等级结果 | 机械对照核对格式 |
@@ -89,7 +97,7 @@ updated: 2026-11-24
 > - **阶段性进阶梯级（Progressive Milestones）** 针对长周期复杂单元，设立中间节点（如第 3 周过程标准）与终期目标标准，帮助学生建立循序渐进的掌握路径。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 17)]]
 > - **质性证据显性化（Observable Evidence of Understanding）** 清晰列出高水平理解所必须包含的核心[[Chain of Evidence|证据链]]条与因果机制。
 > - **去模糊化共同语言（De-mystified Shared Language）** 摒弃“有深刻见解”、“条理清晰”等主观模糊词汇，采用具体的操作性行为与逻辑描述。
-> - **支持自我与同伴调节（Scaffolding self-regulation）** 使学生在无教师干预时，能够独立比对草稿与标准，自主发现缺漏并实施修订。
+> - **支持自我与同伴调节（[[Scaffolding]] [[Self-control|self-regulation]]）** 使学生在无教师干预时，能够独立比对草稿与标准，自主发现缺漏并实施修订。
 
 > [!dimension] 成功标准的阶段分层架构（Clarke et al., 2003；Hattie, 2005）
 > - **初阶过程标准（Process / Mid-point Criteria）** 聚焦基础事实梳理、趋势描述与核心概念准确再现（如正确识别历史人口变迁曲线）。
@@ -126,11 +134,11 @@ updated: 2026-11-24
 
 ---
 
-> [!concept-proposition] 命题三｜成功标准是确立预期产出与落实循证教学改进规程的首要锚点
+> [!concept-proposition] 命题三｜成功标准是确立预期产出与落实[[Evidence-Based Teaching|循证教学]]改进规程的首要锚点
 > **教学目标与评价匹配的起点功能** 探讨在以学生为中心的教学质量改进中，清晰界定成功标准如何作为逆向设计与精准评价的基准。
 
 > [!claim] Köller
-> **循证教学改进规程的目标锚定** 德语区实证教育研究审读指出，学校教学改进必须建立在以学生为中心的循证行动链条之上，而该链条的第一步即是在教学单元伊始清晰界定学习目标与具体的成功标准（Hattie, 2012）。明确的成功标准不仅使预期的学业成果对学生透明可见，更为后续终结性核验的设计、形成性前测诊断以及增值测量确立了客观锚点，避免教学滑入缺乏评价对齐的盲目活动。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, p. 35)]]
+> **循证教学改进规程的目标锚定** 德语区实证教育研究审读指出，学校教学改进必须建立在以学生为中心的循证行动链条之上，而该链条的第一步即是在教学单元伊始清晰界定学习目标与具体的成功标准（Hattie, 2012）。明确的成功标准不仅使预期的学业成果对学生透明可见，更为后续终结性核验的设计、形成性[[Pre-test and Post-test|前测]]诊断以及增值测量确立了客观锚点，避免教学滑入缺乏评价对齐的盲目活动。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, p. 35)]]
 
 ---
 
@@ -144,10 +152,10 @@ updated: 2026-11-24
 ---
 
 > [!dev-timeline] 概念演变
-> - **1980 年代 — 形成性评价萌芽与目标显性化** 针对传统课堂评价标准模糊、学生处于被动猜测教师意图的弊端，学者提出在教学前出示具体表现标准以促进学生自我评估与同伴反思。
-> - **2003–2005 年 — 阶梯式进阶架构确立与 asTTle 工具整合** Clarke, Timperley 与 Hattie 将成功标准操作化为贯穿单元始终的分层进阶阶梯，并系统整合入新西兰 [[Assessment Tools for Teaching and Learning|asTTle]] 形成性诊断评价平台。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 17)]]
+> - **1980 年代 — [[Formative Assessment|形成性评价]]萌芽与目标显性化** 针对传统课堂评价标准模糊、学生处于被动猜测教师意图的弊端，学者提出在教学前出示具体表现标准以促进学生自我评估与同伴反思。
+> - **2003–2005 年 — 阶梯式进阶架构确立与 [[Assessment Tools for Teaching and Learning|asTTle]] 工具整合** Clarke, Timperley 与 Hattie 将成功标准操作化为贯穿单元始终的分层进阶阶梯，并系统整合入新西兰 [[Assessment Tools for Teaching and Learning|asTTle]] 形成性诊断评价平台。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 17)]]
 > - **2014 年 — 德语区实证审读与循证教学改进首要规程确立** [[Olaf Köller|奥拉夫·克勒]]在审读可见学习时，将单元伊始界定预期学习成果与成功标准确立为以学生为中心循证教学改进六步规程的首要环节。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, p. 35)]]
-> - **2017 年 — 大周期卓越范式反思与深层认知整合** [[John Hattie|哈蒂]]反思指出实践中原子化学习意图容易流于形式，主张以 10 至 12 周大周期成功标准呈现优秀作品范式，整体引领表层知识向深层概念与迁移拓展。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 256–257)]]
+> - **2017 年 — 大周期卓越[[Paradigm|范式]]反思与深层认知整合** [[John Hattie|哈蒂]]反思指出实践中原子化学习意图容易流于形式，主张以 10 至 12 周大周期成功标准呈现优秀作品范式，整体引领表层知识向深层概念与迁移拓展。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 256–257)]]
 
 ---
 
@@ -164,7 +172,7 @@ updated: 2026-11-24
 > > - **大周期卓越指引** [[John Hattie|哈蒂]]反思指出若重新设计评价体系将优先使用成功标准，主张以 10 至 12 周为适宜评估周期，通过公开往届优秀范例（如 A 与 B 等级样本）向学生整体展现卓越的实质构成。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 256–257)]]
 
 > [!warning|limits] 适用局限
-> 成功标准的制定必须警惕原子化碎片清单的倾向；若将复杂的高阶思维与创造力矮化为微观琐碎的行为勾选项，容易扼杀学生的探究好奇心与智识冒险。此外，成功标准必须与高质量的形成性反馈及样例示范相结合，脱离具体教学对话的标准陈列无法自发转化为学生的自我调节能力。
+> 成功标准的制定必须警惕原子化碎片清单的倾向；若将复杂的[[Higher-Order Thinking Skills|高阶思维]]与创造力矮化为微观琐碎的行为勾选项，容易扼杀学生的探究好奇心与智识冒险。此外，成功标准必须与高质量的形成性反馈及样例示范相结合，脱离具体教学对话的标准陈列无法自发转化为学生的自我调节能力。
 
 ---
 
@@ -188,9 +196,9 @@ updated: 2026-11-24
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]总体结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
-> | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
+> | 二阶[[Meta-analysis\|元分析]] | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与 95% PI | 关键解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Hattie (2009 / MetaX 2023) | <span class="mx-bar ef-bar" title="Cohen's d 0.64"><span class="b13"></span></span>0.64 | — | Cohen's $d$ / 二阶综合 | $M = 2$；$E = 163$；$k = 163$；$N = —$ | 干预因素：明晰成功标准对学业成就的二阶干预效应 | — | 纳入自我评价标准设定与成功概览两项元分析，效应达显著加速级别 |
+> | Hattie (2009 / MetaX 2023) | <span class="mx-bar ef-bar" title="Cohen's d 0.64"><span class="b13"></span></span>0.64 | — | Cohen's $d$ / 二阶综合 | $M = 2$；$E = 163$；$k = 163$；$N = —$ | 干预因素：明晰成功标准对[[Academic Achievement\|学业成就]]的二阶干预效应 | — | 纳入自我评价标准设定与成功概览两项元分析，效应达显著加速级别 |
 
 ---
 
@@ -203,7 +211,7 @@ updated: 2026-11-24
 > | [[Scoring Rubrics]] | 概念 | 工具对照：区别于终结性打分量规，成功标准侧重于学习过程中的自我监控与进阶指引。 |
 > | [[Peer Assessment]] | 概念 | 实施载体：向学生公开并解析成功标准，是展开高质量同伴互评的前提基础。 |
 > | [[Higher-Order Thinking Skills]] | 概念 | 评价导向：因果证据链导向的成功标准能有效牵引高阶整合思维并抑制机械记忆。 |
-> | [[John Hattie]] | 人物 | 倡导将成功标准作为实现“可见的学习”与以学生为中心循证改进的关键学者。 |
+> | [[John Hattie]] | 人物 | 倡导将成功标准作为实现“[[Visible Learning\|可见的学习]]”与以学生为中心循证改进的关键学者。 |
 > | [[Olaf Köller]] | 人物 | 将清晰界定成功标准确立为以学生为中心循证教学改进规程首要步骤的德国实证学者。 |
 
 ---

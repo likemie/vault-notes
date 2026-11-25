@@ -23,7 +23,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Knowledge Production]]"
   - "[[Third Space Discourse]]"
-  - "[[Avatar]]"
   - "[[Champ]]"
   - "[[Epistemology]]"
   - "[[Performativity]]"
@@ -31,7 +30,6 @@ related_concepts:
   - "[[Professional Interest]]"
   - "[[Competitiveness]]"
   - "[[Alt-Ac]]"
-  - "[[Polymath]]"
   - "[[Gatekeepers]]"
   - "[[Team Science]]"
   - "[[Knowledge Mobilisation]]"
@@ -65,7 +63,7 @@ title: "Argument_VanderKloet_Campisi_2023_JHEPM"
 argument_key: "Argument_VanderKloet_Campisi_2023_JHEPM"
 argument_display_title: "Becoming legitimate academic subjects: Doing meaningful work in research administration"
 argument_kind: "journal-article"
-argument_related_count: 28
+argument_related_count: 26
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -95,7 +93,7 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **戴维斯主体化理论**<br>[[Davies' Subjectification Theory]] | 揭示主体的生成必然同时包含对既定权力话语的服从与对操作规则的娴熟驾驭（Davies, 2000, 2006），解释管理者如何在尊重学者核心地位的同时施展专业把关能力。 |
-> | **后结构主义**<br>[[Post-structuralism]] | 提供解构本质化身份、反思访谈互动[[Champ|场域]]中微观权力运作的[[Epistemology|认识论]]基础（Davies et al., 2006; Petersen, 2007, 2014），揭示学术合法性在具体情境中的[[Performativity|表演性]]生成。 |
+> | **后结构主义**<br>[[Post-structuralism]] | 提供解构本质化身份、反思访谈互动[[Champ\|场域]]中微观权力运作的[[Epistemology\|认识论]]基础（Davies et al., 2006; Petersen, 2007, 2014），揭示学术合法性在具体情境中的[[Performativity\|表演性]]生成。 |
 
 > [!warrant]- 理论如何支撑论证
 > 玛丽·范德克洛特（Marie Vander Kloet）与凯特琳·坎皮西（Caitlin Campisi）指出，传统组织社会学常将行政人员与学者简化为结构性利益冲突方。引入布朗温·戴维斯（Bronwyn Davies）的主体化理论（Davies, 2000, 2006），能够透视受访者在既定制约下展现的能动性。科研管理人员顺应大学里专任教师居于学术核心的既有格局，同时将自身对国家资助政策与申报论证逻辑的熟练掌控转化为不可替代的专业资产。这种在制度限度内展开的话语实践，促使他们被共同体确认为合法且具有学术性的行动主体。
@@ -171,7 +169,7 @@ issuing_organization: ""
 > 科研管理人员拒绝将自身工作贬低为机械收发文件的跑腿杂务；他们凭借深厚的学术底子指导课题打磨、参与前期构思，在知识生产的源头确立了不可替代的专业地位与智力尊严（Allen-Collinson, 2007; Ryttberg & Geschwind, 2017; Szekeres, 2011）。
 
 > [!sub-claim] 1. 管理人员运用学术功底把关申报方案，充当双向翻译者
-> 许多受访者拥有博士学位或长期的科研历练，具备扎实的研究方法素养（Green & Little, 2016; Knight & Lightowler, 2010）。他们在协助学者申报项目时，以高水平同行视角切入，在充分尊重具体学科观点的前提下充当懂学术门道的[[Polymath|通才]][[Gatekeepers|把关人]]。管理人员善于将学者零散深奥的构想打磨成逻辑清晰、紧扣国家资助政策重点的成熟文本，架起学者学术理想与官方立项指南之间的翻译桥梁。
+> 许多受访者拥有博士学位或长期的科研历练，具备扎实的研究方法素养（Green & Little, 2016; Knight & Lightowler, 2010）。他们在协助学者申报项目时，以高水平同行视角切入，在充分尊重具体学科观点的前提下充当懂学术门道的通才[[Gatekeepers|把关人]]。管理人员善于将学者零散深奥的构想打磨成逻辑清晰、紧扣国家资助政策重点的成熟文本，架起学者学术理想与官方立项指南之间的翻译桥梁。
 
 > [!feature] 懂学术门道的通用把关人具备的四大核心能力
 > - **宏观科研思路把握力** 受过系统的博士科研训练，能够快速理解前沿课题的论证逻辑与设计缺陷，与教授展开高质量的同行探讨。

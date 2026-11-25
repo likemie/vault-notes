@@ -7,10 +7,10 @@ title: "Argument_VonOlberg_2014_GeneralDidactics"
 argument_key: "Argument_VonOlberg_2014_GeneralDidactics"
 argument_display_title: "Evidence-Based Teaching: Hat John Hattie eine Allgemeine Didaktik entwickelt? In E"
 argument_kind: "book-chapter"
-argument_related_count: 55
-argument_related_level: 5
-argument_related_stars: "💎⭐⭐"
-argument_related_color: "#fecdd3"
+argument_related_count: 47
+argument_related_level: 4
+argument_related_stars: "💎⭐"
+argument_related_color: "#fef3c7"
 authors:
   - "[[Hans-Joachim von Olberg|von Olberg, H.-J.]]"
 source_language: en
@@ -41,10 +41,8 @@ related_concepts:
   - "[[Teacher Personality]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Success Criteria]]"
-  - "[[Experiential Learning]]"
   - "[[Teacher as Activator]]"
   - "[[Learning Strategies]]"
-  - "[[Alienation]]"
   - "[[Metacognition]]"
   - "[[Self-Regulated Learning]]"
   - "[[Formative Assessment]]"
@@ -53,24 +51,18 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Response to Intervention]]"
   - "[[Empiricism]]"
-  - "[[Lecturing]]"
   - "[[Variable]]"
   - "[[Causality]]"
   - "[[Interaction Effect]]"
   - "[[Lesson Design]]"
   - "[[Effective Teaching]]"
-  - "[[Theory of Knowledge]]"
   - "[[Domain Specificity]]"
   - "[[Geisteswissenschaften]]"
   - "[[Paradigm]]"
   - "[[Discourse]]"
   - "[[Reflexivity]]"
-  - "[[Lesson Study]]"
-  - "[[Student Attitude]]"
   - "[[Scientific Method]]"
-related_theories:
-  - "[[Knowledge Integration]]"
-  - "[[Theory of Mind]]"
+related_theories: []
 related_methods:
   - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
@@ -111,7 +103,7 @@ updated: 2026-11-25
 > [!concept-lens] 阅读透镜
 > - **对象** 哈蒂《可见的学习：教师版》（Hattie, 2012）及其与罗伯特·J. 马扎诺（[[Robert Marzano|Robert J. Marzano]]）、[[Geoff Petty|杰夫·佩蒂]]（Geoff Petty）共同代表的英美循证教学行动体系。
 > - **张力** 英语世界以经验研究与学习心理学为渊源的[[Instructional Design|教学设计]]（Instructional Design），与欧洲大陆以教育哲学、学校理论及内容教化为核心的一般教学论之间的传统分殊。
-> - **贡献** 在搁置[[Meta-meta-analysis|二阶元分析]]（Meta-[[Meta-analysis|meta-analysis]]）纯统计方法论争议的前提下，确立一般教学论的四层[[Knowledge Integration|知识整合]]图式与三重结构缺口判准，厘清循证教学在学科谱系中的实际边界。
+> - **贡献** 在搁置[[Meta-meta-analysis|二阶元分析]]（Meta-[[Meta-analysis|meta-analysis]]）纯统计方法论争议的前提下，确立一般教学论的四层知识整合图式与三重结构缺口判准，厘清循证教学在学科谱系中的实际边界。
 
 ---
 
@@ -127,7 +119,7 @@ updated: 2026-11-25
 > | **三层建构主义认知模型**<br>[[Visible Learning]] | 哈蒂吸纳比格斯与科利斯、布兰斯福德及贝赖特划分的表层（surface）—深层（deep）—概念（conceptual）三层学习水平，用于揭示其理论内部隐含的非纯实证认知预设。 |
 
 > [!warrant]- 理论如何支撑论证
-> 论证首先剖析哈蒂教师手册中的五步行动构想、八项心智框架与隐含预设，确立其兼具线性调控与对话互动的双重面貌；随后借助[[Instructional Design|教学设计]]的跨大西洋交往史，证明以[[Herbert Walberg|沃尔伯格]]、马扎诺、[[Geoff Petty|佩蒂]]与哈蒂为代表的英美循证教学具备循证教学论的讨论资格；最终引入克朗的范围谱系与四层教学[[Knowledge Integration|知识整合]]图式，揭示其虽然触及教学条件下的学习，却在[[Epistemology|认识论]]深度与目的、制度、内容三大结构维度上沦为单向度的方面教学论。（pp. 52–65）
+> 论证首先剖析哈蒂教师手册中的五步行动构想、八项心智框架与隐含预设，确立其兼具线性调控与对话互动的双重面貌；随后借助[[Instructional Design|教学设计]]的跨大西洋交往史，证明以[[Herbert Walberg|沃尔伯格]]、马扎诺、[[Geoff Petty|佩蒂]]与哈蒂为代表的英美循证教学具备循证教学论的讨论资格；最终引入克朗的范围谱系与四层教学知识整合图式，揭示其虽然触及教学条件下的学习，却在[[Epistemology|认识论]]深度与目的、制度、内容三大结构维度上沦为单向度的方面教学论。（pp. 52–65）
 
 ---
 
@@ -175,9 +167,9 @@ updated: 2026-11-25
 > 哈蒂综合并重组《可见的学习》既有要素（德语综述参见 Höfer & Steffens, 2012），将教学过程划分为五个环节（Hattie, 2012）。这种划分有别于传统计划—实施—评价的线性三段论，强调教师在提供、监控与反馈三个层面展开并行行动：（p. 53）
 >
 > [!proc] 哈蒂（2012）课堂教学五环节设计规程
-> 1. **教学准备** 教师须依据实证发现精确设定教学意图与[[Success Criteria|成功标准]]。目标设定包含五项要素（Hattie, 2012, pp. 52–60）：为学习者设定适切挑战并促使其承担学习责任；建立达成目标的信心；提出高学习期望；引导学生自主设定目标；向学习者透明呈现概念理解的目标与成功标准。同时须针对每个学习群体定期开展全面、分化的[[Experiential Learning|经验学习]]诊断，以确定班级层面的预期学习成效基准。（pp. 53–54）
+> 1. **教学准备** 教师须依据实证发现精确设定教学意图与[[Success Criteria|成功标准]]。目标设定包含五项要素（Hattie, 2012, pp. 52–60）：为学习者设定适切挑战并促使其承担学习责任；建立达成目标的信心；提出高学习期望；引导学生自主设定目标；向学习者透明呈现概念理解的目标与成功标准。同时须针对每个学习群体定期开展全面、分化的经验学习诊断，以确定班级层面的预期学习成效基准。（pp. 53–54）
 > 2. **教学开端** 主张以对话式教学风格取代长期占主导的独白式课堂实践；教师应依据表层—深层—概念认知三步曲及教学效率来选择方法，从开课伊始即扮演评估者与[[Teacher as Activator|激活者]]（Auswerter und Aktivierer；Hattie, 2012, pp. 80–97）的双重角色。
-> 3. **教学进程中的学习** 教师应向学生传授多元[[Learning Strategies|学习策略]]，并依循新手、胜任与精通三个水平提供差[[Alienation|异化]]学习路径；策略选择须受实证效应证据引导，并服务于[[Metacognition|元认知]]反思与[[Self-Regulated Learning|自我调节学习]]。在备课逻辑上，主张逆向设计（Backward Design），即从预期学习结果反向组织学习过程（Hattie, 2012, pp. 119–120）。
+> 3. **教学进程中的学习** 教师应向学生传授多元[[Learning Strategies|学习策略]]，并依循新手、胜任与精通三个水平提供差异化学习路径；策略选择须受实证效应证据引导，并服务于[[Metacognition|元认知]]反思与[[Self-Regulated Learning|自我调节学习]]。在备课逻辑上，主张逆向设计（Backward Design），即从预期学习结果反向组织学习过程（Hattie, 2012, pp. 119–120）。
 > 4. **教学进程中的反馈** 规律且伴随全过程的反馈是哈蒂方案的核心（Hattie, 2012, pp. 129–154），涵盖三个维度：时间上贯穿课前、课中与课后；形式上结合短期口头反馈与长期测验反馈；方向上涵盖师对生、生对师以及生生互评。
 > 5. **教学结课** 整个学习过程必须从学生视角、教师视角与课程视角三方共同回溯反思；除将[[Formative Assessment|形成性评估]]与总结性评价相结合外，哈蒂特别倡导商议式与审议式（diskursive und deliberative）的结课程序（Hattie, 2012, pp. 155–165）。（p. 54）
 
@@ -204,7 +196,7 @@ updated: 2026-11-25
 > > [!quote] 哈蒂论从教师实践理论出发（Hattie, 2012, p. 160）
 > > 要鼓励教师采纳本书提出的一些实践思路，应当避免说教或训斥，直接从倾听教师自己的实践经验开始，看看他们的既有做法可以如何调整和丰富，把“了解自身教学影响”这一核心认识当作反思的起点，有别于终点。
 > >
-> > *To encourage teachers to adopt some of the 'theories of practice' outlined in this book requires not [[Lecturing|lecturing]] or hectoring them, but starting with listening to these theories of practice, and then seeing how their own theories can be modified or enhanced to consider the fundamental message about them knowing their impact – as the starting point for having theories (not the end point).*
+> > *To encourage teachers to adopt some of the 'theories of practice' outlined in this book requires not lecturing or hectoring them, but starting with listening to these theories of practice, and then seeing how their own theories can be modified or enhanced to consider the fundamental message about them knowing their impact – as the starting point for having theories (not the end point).*
 >
 > > [!quote] [[John Dewey|杜威]]论经验依据的假设性质（Dewey, 1938；转引自 Hattie, 2013, p. 291）
 > > 经验研究的结果不会直接给出行动铁律，它只为理智地解决教学问题提供假设，并为思考教育目标提供素材。（p. 56）
@@ -233,17 +225,17 @@ updated: 2026-11-25
 >
 > [!case] 英美循证教学三大代表路径与跨国协作网络
 > - **美国先驱——赫伯特·J. 沃尔伯格（Herbert J. Walberg）与罗伯特·J. 马扎诺（[[Robert Marzano|Robert J. Marzano]]）** 沃尔伯格与马扎诺均早于哈蒂尝试从元分析提取教学行动指南。马扎诺及其团队出版了与《可见的学习：教师版》极为相似的教学论著作（Dean et al., 2011），同样从经验定量元分析中推导备课与授课建议；美国课程与督导协会（Association of Supervision and Curriculum Development, ASCD）还通过付费网络平台提供大量配套教师手册。马扎诺在有效指令框架著作《教学的艺术与科学》中，将全书十章均统一按三步结构编排：课堂常见做法（In the Classroom）、研究与理论依据（Research and Theory）、具体行动步骤（Action Steps）（Marzano, 2007）。（pp. 59–60）
-> - **英国平行路径——[[Geoff Petty|杰夫·佩蒂]]（Geoff Petty）与呈现—应用—复习模型** 英国教师进修专家佩蒂于 2006 年率先以《循证教学》为题（Petty, 2009）出版了一部基于元分析的教学论。他吸纳马扎诺的研究成果与哈蒂二阶元分析的阶段性报告，主张从效应量研究中提炼通用原则（Petty, 2009, p. iii），而避免机械照搬其统计方法论。在他提出的呈现—应用—复习（Present–Apply–Review, [[Participatory Action Research|PAR]]）模型中（图 4-1），他整合了马扎诺元分析中的效应量因素（Petty, 2009, p. 80）：课程概览与内容呈现合计**不超过教学单元时长的 35%**，学生应用练习**至少占 60%**，总结与深化巩固**至少占 5%**，且每一环节均须伴随师生双向反馈。（p. 60）
+> - **英国平行路径——[[Geoff Petty|杰夫·佩蒂]]（Geoff Petty）与呈现—应用—复习模型** 英国教师进修专家佩蒂于 2006 年率先以《循证教学》为题（Petty, 2009）出版了一部基于元分析的教学论。他吸纳马扎诺的研究成果与哈蒂二阶元分析的阶段性报告，主张从效应量研究中提炼通用原则（Petty, 2009, p. iii），而避免机械照搬其统计方法论。在他提出的呈现—应用—复习（Present–Apply–Review, PAR）模型中（图 4-1），他整合了马扎诺元分析中的效应量因素（Petty, 2009, p. 80）：课程概览与内容呈现合计**不超过教学单元时长的 35%**，学生应用练习**至少占 60%**，总结与深化巩固**至少占 5%**，且每一环节均须伴随师生双向反馈。（p. 60）
 > - **跨国专业联盟——循证教师网络（[[Evidence-Based Teachers Network|EBTN]]）** 马扎诺、哈蒂与佩蒂目前已依托设于英国剑桥的 EBTN 网络平台展开密切合作（EBTN, 2013），使循证教学形成跨大西洋的共同体。（pp. 60–61）
 
-> [!figure]- 图4-1：杰夫·佩蒂的 PAR 教学模型
+> [!figure]- 图4-1：杰夫·佩蒂的 [[Participatory Action Research|PAR]] 教学模型
 > ![](https://img.mylikemie.icu/books/Terhart_2014_Kallmeyer/figures/Figure_4-1_PAR_Model_Petty.jpg)
 > *Abb. 1: Das PAR-Modell von Geoff Petty*（Petty, 2009, pp. 170–172）（p. 60）
 
 ---
 
 > [!claim|step] 论证步骤三　循证教学窄化了一般教学论的视野，只是一种单向度的方面教学论
-> 将循证教学论置于四百年一般教学论传统与当代学科[[Theory of Knowledge|知识论]]框架下检验，可见其在理论涵盖面上高度受限，在科学观上流于社会技术主义，且回避了成熟教学论必须回答的三项根本问题。（pp. 61–65）
+> 将循证教学论置于四百年一般教学论传统与当代学科知识论框架下检验，可见其在理论涵盖面上高度受限，在科学观上流于社会技术主义，且回避了成熟教学论必须回答的三项根本问题。（pp. 61–65）
 
 > [!sub-claim] 1. 对照克朗五级分类，哈蒂构想仅停留在学习过程调控与心理应用两级
 > 一般教学论指跨学科、超越具体教育工作[[Domain Specificity|领域特殊性]]的教学思维形态，拥有整整四百年历史（Wigger, 2004）。纵观其演变，高度的自我调适能力正是教学论的生命力所在：（pp. 61–62）
@@ -281,14 +273,14 @@ updated: 2026-11-25
 > 1. **揭露社会技术主义科学观** 哈蒂将教师的前科学经验知识视为有待通过其巨型研究结论加以碰撞、修正和克服的思维方式，这实质上是一种社会技术主义（sozialtechnologisch）的科学实践应用观。（pp. 56, 63）
 > 2. **承认三类独立知识源泉的尊严** 经过认识论反思的教学视角必须同时肯定：（a）生活世界中习得的（例如从学生视角获得的）教学日常知识（Alltagswissen）的独立价值；（b）在学校教师工作历史中积累并传承的关于教学过程设计的职业与规则知识（Berufswissen）的尊严；（c）通过系统且受方法控制的研究获得的教育科学、心理学与神经科学知识（Wissenschaftliches Wissen）。（pp. 63–64）
 > 3. **经由职业成长整合为专业知识** 教学认识论批判的核心任务，在于让具备资质的教师作为[[Reflexivity|反思性]]实践者，在应对具体课堂不可避免的情境性与复杂性时，在职业成长历程中自主、真实地将上述三类知识持久融汇为专业知识（Professionswissen）。
-> 4. **拓展教学论的实证研究议程** 教学行动的经验基础因此必须超越已发表实验干预研究的效应量汇总，进一步纳入定性[[Lesson Study|课堂研究]]，并自主开展所有教学知识形式在日常教学中如何被运用以及作为优质教学基础的教学专业知识如何在教师职业培养历程中生成的实证研究，后者正是当前教学论研究的明显空白。（p. 64）
+> 4. **拓展教学论的实证研究议程** 教学行动的经验基础因此必须超越已发表实验干预研究的效应量汇总，进一步纳入定性课堂研究，并自主开展所有教学知识形式在日常教学中如何被运用以及作为优质教学基础的教学专业知识如何在教师职业培养历程中生成的实证研究，后者正是当前教学论研究的明显空白。（p. 64）
 
 > [!sub-claim] 3. 循证教学遗漏了目标论证、学校制度与课程内容三项核心任务
 > 综合马扎诺、佩蒂与哈蒂的方案，循证教学论之所以注定只能发展为一种新的单向度方面教学论，是因为它系统性遮蔽了成熟教学论思维不可或缺的三项维度：（pp. 64–65）
 >
 > [!critique] 循证教学论的三重结构性缺口
 > - **目标论证缺口（Defizit der Zielbegründung）** 未能充分反思教与学情境中行动的意图与目的正当性，将教学效率置于对教育目的的追问之上（Bellmann & Müller, 2011）。（pp. 51, 64）
-> - **学校理论缺口（schultheoretisches Defizit）** 因认定学校结构与资源投入效应量偏低，对教与学过程和学校制度框架条件之间的相互作用采取回避[[Student Attitude|态度]]。（pp. 54–55, 64）
+> - **学校理论缺口（schultheoretisches Defizit）** 因认定学校结构与资源投入效应量偏低，对教与学过程和学校制度框架条件之间的相互作用采取回避态度。（pp. 54–55, 64）
 > - **课程关联缺口（Defizit des Curriculumbezugs）** 几乎完全抽离了在课堂教学设计与实施中与具体学习对象（Lerngegenstände）打交道的基础意义。（pp. 51, 64–65）
 >
 > [!conclusion] 一般教学论的未来回应
@@ -300,8 +292,8 @@ updated: 2026-11-25
 
 > [!finding-cards] 核心发现
 > 1. **[[Evidence-Based Teaching|循证教学论]]的双重面貌与德语误读澄清** [[John Hattie|哈蒂]]（Hattie, 2012）教师手册在外部研究与[[Lesson Design|课堂设计]]之间建立双重联结，内部兼顾定量调控与双重目光关系对话，并隐含规范性教师伦理、文学隐喻与三层[[Constructivist Paradigm|建构主义]]认知模型，有别于德语界仅关注[[Effect Size|效应量]]榜单的机械理解。（pp. 52–58）
-> 2. **英美循证教学谱系的跨国成形** 哈蒂与[[Herbert Walberg|沃尔伯格]]、马扎诺（三步指令架构与 ASCD 平台）及[[Geoff Petty|佩蒂]]（《循证教学》与 [[Participatory Action Research|PAR]] 模型）共同组成英美循证教学阵营，并依托剑桥 [[Evidence-Based Teachers Network|EBTN]] 平台展开协作，其源流可衔接至罗斯与加涅以来的跨大西洋[[Instructional Design|教学设计]]交流史。（pp. 58–61）
-> 3. **受限于三重缺口的方面教学论定位** 对照克朗五级分类，循证教学仅落入学习过程调控与[[Theory of Mind|心理理论]]应用两级，且因社会技术主义知识观及目标论证、学校理论与课程内容三重缺口，无法成立为完整的一般教学论，但一般教学论仍须直面其提出的通用高效教学因素。（pp. 62–65）
+> 2. **英美循证教学谱系的跨国成形** 哈蒂与[[Herbert Walberg|沃尔伯格]]、马扎诺（三步指令架构与 ASCD 平台）及[[Geoff Petty|佩蒂]]（《循证教学》与 PAR 模型）共同组成英美循证教学阵营，并依托剑桥 [[Evidence-Based Teachers Network|EBTN]] 平台展开协作，其源流可衔接至罗斯与加涅以来的跨大西洋[[Instructional Design|教学设计]]交流史。（pp. 58–61）
+> 3. **受限于三重缺口的方面教学论定位** 对照克朗五级分类，循证教学仅落入学习过程调控与心理理论应用两级，且因社会技术主义知识观及目标论证、学校理论与课程内容三重缺口，无法成立为完整的一般教学论，但一般教学论仍须直面其提出的通用高效教学因素。（pp. 62–65）
 
 > [!stat-cards]- 核心数据
 > - **931 / 150** 哈蒂（2012）教师手册依据 931 项[[Meta-analysis|元分析]]与 150 项影响因素（2009 年初版为 815 项元分析、138 项因素），效应量 $d$ 介于 $+1.44$ 至 $-0.34$；“干预反应”以 $d=+1.07$ 新晋前三层。（pp. 56–57）

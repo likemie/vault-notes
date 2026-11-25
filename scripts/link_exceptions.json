@@ -1577,12 +1577,28 @@
     {
       "sentence": "**受限于三重缺口的方面教学论定位** 对照克朗五级分类，循证教学仅落入学习过程调控与心理理论应用两级，且因社会技术主义知识观及目标论证、学校理论与课程内容三重缺口，无法成立为完整的一般教学论，但一般教学论仍须直面其提出的通用高效教学因素。",
       "target": "wiki/theories/educational-psychology/Theory of Mind.md"
+    },
+    {
+      "sentence": "在他提出的呈现—应用—复习（Present–Apply–Review, PAR）模型中（图 4-1），他整合了马扎诺元分析中的效应量因素（Petty, 2009, p.",
+      "target": "wiki/methods/qualitative/Participatory Action Research.md"
+    },
+    {
+      "sentence": "**英美循证教学谱系的跨国成形** 哈蒂与沃尔伯格、马扎诺（三步指令架构与 ASCD 平台）及佩蒂（《循证教学》与 PAR 模型）共同组成英美循证教学阵营，并依托剑桥 EBTN 平台展开协作，其源流可衔接至罗斯与加涅以来的跨大西洋教学设计交流史。",
+      "target": "wiki/methods/qualitative/Participatory Action Research.md"
+    },
+    {
+      "sentence": "**<=35% / >=60% / >=5%** 杰夫·佩蒂（2009）PAR 模型设定的教学单元时间分配比例：概览与呈现不超过 35%，应用练习不少于 60%，总结与深化不少于 5%，且全过程伴随双向反馈。",
+      "target": "wiki/methods/qualitative/Participatory Action Research.md"
     }
   ],
   "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md": [
     {
       "sentence": "提供解构本质化身份、反思访谈互动场域中微观权力运作的认识论基础（Davies et al., 2006; Petersen, 2007, 2014），揭示学术合法性在具体情境中的表演性生成。",
       "target": "wiki/concepts/educational-technology/Avatar.md"
+    },
+    {
+      "sentence": "他们在协助学者申报项目时，以高水平同行视角切入，在充分尊重具体学科观点的前提下充当懂学术门道的通才把关人。",
+      "target": "wiki/concepts/higher-education/Polymath.md"
     }
   ]
 }

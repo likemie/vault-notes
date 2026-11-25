@@ -10,9 +10,9 @@ subtype: event
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "event"
-fact_related_count: 71
-fact_related_level: 7
-fact_related_stars: "💎💎⭐"
+fact_related_count: 81
+fact_related_level: 8
+fact_related_stars: "💎💎⭐⭐"
 fact_related_color: "#fecdd3"
 tags:
   - visible-learning
@@ -35,13 +35,16 @@ related_concepts:
   - "[[Implementation Fidelity]]"
   - "[[Technical Rationality]]"
   - "[[Class Size]]"
+  - "[[Evidence-Based Teaching]]"
   - "[[Teacher Collaboration]]"
+  - "[[Didaktik]]"
   - "[[Neoliberalism]]"
   - "[[Cult of the Guru]]"
   - "[[Neo-Taylorism]]"
   - "[[Critical Pedagogy]]"
   - "[[Alienation]]"
   - "[[Teacher Professional Agency]]"
+  - "[[Brain Drain]]"
   - "[[Direct Instruction]]"
   - "[[Project-Based Learning]]"
   - "[[Inquiry-Based Learning]]"
@@ -49,15 +52,17 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[The Sublime]]"
   - "[[Grand Theory]]"
-  - "[[Policy Entrepreneur]]"
-  - "[[Educational Management Organisation]]"
-  - "[[Formative Assessment]]"
   - "[[Learning Intentions]]"
   - "[[Critiques of Visible Learning]]"
+  - "[[Policy Entrepreneur]]"
+  - "[[Formative Assessment]]"
+  - "[[Educational Management Organisation]]"
   - "[[Document]]"
+  - "[[Streetlight Effect]]"
 related_theories:
   - "[[Legitimation Crisis]]"
   - "[[Panopticism]]"
+  - "[[Process-Product Paradigm]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Pilot Testing]]"
@@ -69,6 +74,8 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
   - "[[Michael Fullan]]"
+  - "[[Ewald Terhart]]"
+  - "[[Olaf Köller]]"
   - "[[Charles Taylor]]"
 related_facts:
   - "[[Corwin Press]]"
@@ -97,6 +104,9 @@ related_arguments:
   - "[[Argument_Nielsen_2021_IRTP]]"
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
   - "[[Argument_Golovchin_2019_ESC]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
+  - "[[Argument_Brugelmann_2014_LocalPractice]]"
+  - "[[Argument_VonOlberg_2014_GeneralDidactics]]"
   - "[[Argument_Eacott_2019_IJLE]]"
   - "[[Argument_Blass_2020_JESP]]"
   - "[[Argument_Jansen_2026_EPR]]"
@@ -106,7 +116,7 @@ related_instruments:
 confidence: high
 status: stable
 created: '2026-05-04'
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 
 > [!claim] 核心定性
@@ -182,11 +192,12 @@ Visible Learning 的跨国扩张依托轻资产区域特许授权和多层商业
 Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表，契合了各国政策制定者追求“低成本、课堂级速效修复”的治理诉求，在多国教育体系中实现了深度制度化嵌入。
 
 > [!dev-timeline] 各国政策制度化采纳
-> - **新西兰 — 课程改革、财政误用与“投资教育成功”（[[Institute of Education Sciences|IES]]）** 早期深度嵌入教育部《有效教师特征》与《[[The New Zealand Curriculum|新西兰课程]]》（2010），Hattie 出任国家标准技术顾问；新西兰财政部（The Treasury）2011 年甚至直接引用其效应量数据提出“[[Class Size|班级规模]]不重要”，建议削减师资编制以增加生师比，遭到学界与工会强烈反弹（[[Argument_ONeill_2012_NZJES|O'Neill, 2012, pp. 154–157]]）。2014 年国家党政府投入 **3.59 亿新西兰元** 启动“投资教育成功”（Investing in Educational Success, IES）旗舰计划，设立跨校“学习共同体”（Communities of Learning, CoL / Kāhui Ako）以分享循证教学实践；其核心政策蓝图直接源于 Hattie 的合作专业精神与可见学习理论框架；在 2015 年新西兰教育节（NZ Festival of Education）上，[[Cognition Education|认知教育信托]]出资赞助 Hattie 与 [[Michael Fullan]] 登台演讲，形成了公共政策重构、私营商业培训与学术领袖互为背书的协同同盟。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 13, 21–22, 89)]]
+> - **新西兰 — 课程改革、财政误用与“投资教育成功”（[[Institute of Education Sciences|IES]]）** 早期深度嵌入教育部《有效教师特征》与《[[The New Zealand Curriculum|新西兰课程]]》（2010），Hattie 出任国家标准技术顾问；新西兰财政部（The Treasury）2011 年甚至直接引用其效应量数据提出“[[Class Size|班级规模]]不重要”，建议削减师资编制以增加生师比，遭到学界与工会强烈反弹（[[Argument_ONeill_2012_NZJES|O'Neill, 2012, pp. 154–157]]）。2014 年国家党政府投入 **3.59 亿新西兰元** 启动“投资教育成功”（Investing in Educational Success, IES）旗舰计划，设立跨校“学习共同体”（Communities of Learning, CoL / Kāhui Ako）以分享[[Evidence-Based Teaching|循证教学]]实践；其核心政策蓝图直接源于 Hattie 的合作专业精神与可见学习理论框架；在 2015 年新西兰教育节（NZ Festival of Education）上，[[Cognition Education|认知教育信托]]出资赞助 Hattie 与 [[Michael Fullan]] 登台演讲，形成了公共政策重构、私营商业培训与学术领袖互为背书的协同同盟。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 13, 21–22, 89)]]
 > - **澳大利亚 — 国家标准嵌入与官方背书** Hattie 出任 [[Australian Institute for Teaching and School Leadership|AITSL]] 董事会主席，将 VL 指标要求全面嵌入国家教师与校长专业标准及持续认证体系；维多利亚州教育部官方背书并将 10 项高影响教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]）以 VL 为首选参考；ABC 纪录片《革命学校》将其描绘为公共教育拯救者。[[Argument_Sarbiewska_2019_KiW|(Sarbiewska, 2019, pp. 126–128)]]
 > - **丹麦 — 公立学校法案采纳、[[Legitimation Crisis|合法化危机]]与激烈反弹** 丹麦在 2000 年代加入 [[PISA]] 后面临巨大的教育合法化压力；2014 年丹麦议会通过划时代的小学改革法案（Folkeskole Reform 2014），教育部与地方市镇协会（KL）斥巨资引进[[John Hattie|哈蒂]]模式，将办学宗旨明确改写为确保学生掌握尽可能多的知识，全盘吸纳哈蒂式产出效能叙事。然而，由于该法案将延长学生在校课时与强制剥夺教师备课时间、激化劳资停工对抗相绑定，政府反复将哈蒂的元分析包装为不可违背的“客观科学铁律”，以此压制一线教师与工会的合理抗议。[[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] 深刻揭示，丹麦政界对哈蒂品牌的狂热追捧实质上是将技术理性作为防御国家教育[[Legitimation Crisis|合法化危机]]的工具掩体。这一行政硬推不仅引发大批骨干教师辞职流失，更促成丹麦学者出版批判文集《[[Hattie på dansk]]》，激起全国性学术与政治大论战。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, pp. 3–5)]]; [[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 80, 86–87)]]
 > - **瑞典 — “科学基础”下的学校改进重塑** 瑞典依据学校法对“科学基础与实证证据”的要求，将 VL 转译为聚焦课堂近端策略、同伴观察与[[Teacher Collaboration|教师协作]]的校本改进工作流程（详见 [[Visible Learning in Sweden]]）。
-> - **俄罗斯 — 译著传播、制度陷阱与“拒绝借用”** 2017 年国家出版集团（Prosveshchenie）推出俄文版并试图与俄罗斯联邦国家教育标准（FSES）对接；然而，以 [[Argument_Golovchin_2019_ESC|Golovchin (2019)]]为代表的本土学者通过变差系数（\sigma = 56.87\%$）实测揭示其数据集极度不均匀，并结合俄罗斯教师社会地位偏低（仅 16% 认同职业声望）与 79% 教师受困于报表剧增的严峻现实，指出盲目推行基于可见学习的量化问责将使学校沦为行政全景监控车间并激化师资流失危机，因此明确向政策当局提出“拒绝采纳”该模式的理性审慎建议（详见 [[Russian Translation of Visible Learning]]）。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 230, 237–241)]]
+> - **俄罗斯 — 译著传播、制度陷阱与“拒绝借用”** 2017 年国家出版集团（Prosveshchenie）推出俄文版并试图与俄罗斯联邦国家教育标准（FSES）对接；然而，以 [[Argument_Golovchin_2019_ESC|Golovchin (2019)]]为代表的本土学者通过变差系数（$V_\sigma = 56.87\%$）实测揭示其数据集极度不均匀，并结合俄罗斯教师社会地位偏低（仅 16% 认同职业声望）与 79% 教师受困于报表剧增的严峻现实，指出盲目推行基于可见学习的量化问责将使学校沦为行政全景监控车间并激化师资流失危机，因此明确向政策当局提出“拒绝采纳”该模式的理性审慎建议（详见 [[Russian Translation of Visible Learning]]）。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 230, 237–241)]]
+> - **德国 — 译著引进、研讨会热潮与德语一般教学论的体系化抵制** 2013–2014 年 Kallmeyer 出版社（Schneider Verlag Hohengehren 合作）推出德译本《Lernen sichtbar machen》（可见的学习）与教师版，迅速引发中小学校长与师资培训研讨会的热潮。然而，该商业与政策模式随即遭遇以[[Ewald Terhart|特哈特]]（[[Ewald Terhart]] 编著 *Unter dem Mikroskop*）、克勒（[[Olaf Köller]]）、布吕格尔曼（Hans Brügelmann）为代表的德语教育学界的体系化审读与反思。学者们揭示其[[Meta-meta-analysis|二阶元分析]]数据库的历史断代滞后、对学科教学论（[[Didaktik]]）实质内容的抽空，以及将简化的“八项心智框架”套用于学校改进时的形式主义偏颇，有效抵御了英美式的国家级刚性政策采纳。[[Argument_Terhart_2014_HolyGrail|(Terhart, 2014, pp. 9–23)]]; [[Argument_Brugelmann_2014_LocalPractice|(Brügelmann, 2014, pp. 38–48)]]; [[Argument_VonOlberg_2014_GeneralDidactics|(von Olberg, 2014, pp. 51–65)]]
 
 ---
 
@@ -202,7 +213,7 @@ Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表�
 > > [[Critical Pedagogy|批判教育学]]者警示 VL [[Alienation|异化]]为规训教师日常劳动的行政监控工具。
 > >
 > > - **大师崇拜与行政合谋（[[Argument_Eacott_2017_SLM|Eacott, 2017]], 2019）** 指出 VL 被行政机构包装为不可置疑的科学真理，将复杂教学矮化为可测量的最小单元，剥夺[[Teacher Professional Agency|教师专业能动性]]，沦为新时代的[[Charles Taylor|泰勒]]主义；学术期刊在两天内快速发表 Hattie 回应却多轮拖延批评者文章，反映出出版建制对大师地位的制度偏袒。[[Argument_Eacott_2019_IJLE|(Eacott, 2019, pp. 777–778)]]
-> > - **持续数据生产的跨国组织病理（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）** 澳大利亚学者 Eacott 揭示的“持续数据生产”机制在国际传播中产生多米诺效应；[[Argument_Golovchin_2019_ESC|Golovchin (2019)]]结合俄罗斯转型期教育现状实证指出，将 VL 的排名逻辑引入公立系统极易演变为“人人监视人人”的新行政[[Panopticism|全景敞视]]，使教师淹没于合规自证的报表流水线中，加速了教师群体的职业倦怠与人才流失。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 240–241)]]
+> > - **持续数据生产的跨国组织病理（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）** 澳大利亚学者 Eacott 揭示的“持续数据生产”机制在国际传播中产生多米诺效应；[[Argument_Golovchin_2019_ESC|Golovchin (2019)]]结合俄罗斯转型期教育现状实证指出，将 VL 的排名逻辑引入公立系统极易演变为“人人监视人人”的新行政[[Panopticism|全景敞视]]，使教师淹没于合规自证的报表流水线中，加速了教师群体的职业倦怠与[[Brain Drain|人才流失]]。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 240–241)]]
 >
 > > [!axis] 政策误用、术语口号化与时效性脱节
 > > 政策制定者将历史[[Meta-analysis|元分析]]数据作为当下教学的挡箭牌，引发方法学严厉审视。
@@ -266,4 +277,7 @@ Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表�
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 详尽调查揭露 Hattie、奥克兰大学与 Cognition 之间商业化利益网络与财务轨迹的权威报告。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 从新自由主义[[Global Education Reform Movement|全球教育改革运动]]（GERM）视角深度批判 VL 商业化与利益冲突的代表性[[Document|文献]]。
 > - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 剖析丹麦 2014 年公立学校改革采纳可见学习作为防御国家教育[[Legitimation Crisis|合法化危机]]的[[Technical Rationality|技术理性]]机制。
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 汇编德语专著审读可见学习在德语区的引进与传播，指出巨型综合的数据滞后与[[Process-Product Paradigm|过程-结果范式]]的[[Streetlight Effect|路灯效应]]（pp. 9–23）。
+> - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014)]] — 揭示可见学习商业化推广中的“均值陷阱”与小学教学改革抵制机制（pp. 38–48）。
+> - [[Argument_VonOlberg_2014_GeneralDidactics|von Olberg (2014)]] — 评析《可见的学习：教师版》行动框架与心智框架在德语区传播过程中的简化偏颇与教学论对话（pp. 51–65）。
 > - [[Argument_Jansen_2026_EPR|Jansen et al. (2026)]] — 针对 Meta-X 数据库开展实证评测、揭示早期历史人工录入局限并确立人机验证[[Paradigm|范式]]的最新研究。

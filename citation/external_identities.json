@@ -45766,14 +45766,6 @@
       ],
       "title": ""
     },
-    "Grit Arnhold, 2005": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
-      ],
-      "title": ""
-    },
     "Grolig, 2020": {
       "datasets": [
         "eef:oral-language-interventions"
@@ -49600,6 +49592,7 @@
       "doi": "",
       "isbn": "9780415479783",
       "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md",
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md",
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md",
         "wiki/arguments/journal-articles/Australian Journal of Language and Literacy/Argument_OConnor_2020_AJLL.md",
@@ -49638,8 +49631,7 @@
         "wiki/concepts/instruction-pedagogy/Effective Teaching.md",
         "wiki/concepts/instruction-pedagogy/Feedback.md",
         "wiki/concepts/instruction-pedagogy/Homework.md",
-        "wiki/concepts/instruction-pedagogy/Inclusive Education.md",
-        "wiki/concepts/instruction-pedagogy/Lecturing.md"
+        "wiki/concepts/instruction-pedagogy/Inclusive Education.md"
       ],
       "title": "Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement"
     },
@@ -85937,6 +85929,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/sociology-of-education/Tracking.md"
+      ],
+      "title": ""
+    },
+    "Oakes & Wells, 1996": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
       ],
       "title": ""
     },
@@ -129305,14 +129305,6 @@
       ],
       "title": ""
     },
-    "富兰, 2010": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
-      ],
-      "title": ""
-    },
     "就罗默, 2019": {
       "doi": "",
       "isbn": "",
@@ -129999,6 +129991,14 @@
       ],
       "title": ""
     },
+    "施皮瓦克, 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
+      ],
+      "title": ""
+    },
     "早期, 1912": {
       "doi": "",
       "isbn": "",
@@ -130660,6 +130660,14 @@
       ],
       "title": ""
     },
+    "科勒, 2012": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
+      ],
+      "title": ""
+    },
     "科塞勒克, 2006": {
       "doi": "",
       "isbn": "",
@@ -130870,6 +130878,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-policy-reform/School Effectiveness.md"
+      ],
+      "title": ""
+    },
+    "而富兰, 2010": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
       ],
       "title": ""
     },

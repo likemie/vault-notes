@@ -1,5 +1,5 @@
 ---
-summary: "汉斯-京特·罗尔夫指出哈蒂研究基于实施综合中学的英语国家数据，无法外推至实行早期分流的德国多轨制；结合PISA、IGLU与STAR实证，论证外部学校结构决定机会均等，内部结构与系统变革能力决定教学质量提升。"
+summary: "针对德国舆论与学界援引哈蒂研究宣称学校结构无关的误用，区分外部学制与内部组织双层结构，结合PISA、IGLU、STAR及全系统改革实证论证外部多轨制加剧社会选择性，而内部结构协同与二阶变革能力方能促成持久教学质量提升。"
 type: argument
 subtype: book-chapter
 publication_type: book-chapter
@@ -48,7 +48,7 @@ updated: 2026-11-25
 ---
 
 > [!question]
-> [[John Hattie|约翰·哈蒂]]（John Hattie）的《[[Visible Learning|可见的学习]]》（*Visible Learning*, 2009）在德国公共讨论与教育学界常被援引为“学校框架条件与学校结构对学生学业成就无关紧要”的实证依据，教育记者马丁·施皮瓦克（Martin Spiewak）甚至据此认为“依哈蒂根本不该再提出体制问题”，学者[[Olaf Köller|奥拉夫·科勒]]（Olaf Köller）亦断言“学校框架条件（分化制与非分化制学校体系、经费投入）基本无效”。[[Hans-Günter Rolff|汉斯-京特·罗尔夫]]（Hans-Günter Rolff）追问：学校结构因素果真如此次要吗，哈蒂基于英语国家的元分析结论能否直接迁移至德国的多轨制学校体系？（pp. 67–68）
+> [[John Hattie|约翰·哈蒂]]（John Hattie）的《[[Visible Learning|可见的学习]]》（*Visible Learning*, 2009）在德国公共讨论与教育学界常被援引为“学校框架条件与学校结构对学生学业成就无关紧要”的实证依据，教育记者马丁·施皮瓦克（Martin Spiewak）甚至据此主张“依哈蒂根本不该再提出体制问题”，学者[[Olaf Köller|奥拉夫·科勒]]（Olaf Köller）亦断言学校框架条件（分化制与非分化制学校体系、经费投入）基本无效。[[Hans-Günter Rolff|汉斯-京特·罗尔夫]]（Hans-Günter Rolff）追问：学校结构因素果真如此次要吗，哈蒂基于英语国家的元分析结论能否直接迁移至德国的多轨制学校体系？（pp. 67–68）
 
 > [!claim] 核心主张
 > 哈蒂研究中关于学校结构因素效应微弱的结论无法迁移至德国，因为其元分析几乎完全采自实施综合中学体制的英语国家，缺乏九年级前早期分流的德国式多轨制数据（pp. 67–68）。更关键的是，德国学校结构争论的核心议题在于机会均等（Chancengleichheit）与[[Selectivity|社会选择性]]，国际学生评估项目（Programme for International Student Assessment, [[PISA]]）与国际小学阅读素养研究（Internationale Grundschul-Lese-Untersuchung, IGLU / [[PIRLS]]）持续证实早期分轨显著损害底层学生的受教育机会并形成分化的学习环境（pp. 68–72）；在学校内部结构层面，孤立变量的效应量会掩盖超 25 人大班的真实负担、早期长期小班的补偿效应以及教学发展与人员、组织结构协同推进的[[System-Wide Improvement|全系统改进]]机制（pp. 72–76）。
@@ -97,48 +97,126 @@ updated: 2026-11-25
 
 ---
 
-> [!claim|step] 论证步骤一　哈蒂关于学校结构效应微弱的数据来自综合制英语国家，无法外推至德国多轨制
+> [!claim|step] 论证步骤一　哈蒂的综合制样本不能直接套用于德国多轨制
 > 德国舆论与部分学者依据哈蒂（2009）中结构变量效应量均低于 $d = 0.40$ 便断言体制与框架条件无效，这一推论忽略了样本的制度前提：哈蒂的元分析几乎全部取自实施综合中学（Gesamtschulstrukturen）的英语国家，完全没有纳入在九年级之前便实施学生分流的多轨制国家数据（pp. 67–68）。
 
-> [!sub-claim] 1. 哈蒂九项学校结构变量的效应量处于较低区间，且多指向综合制内部机制
-> Steffens 从哈蒂著作（pp. 244 f.）归纳出九项结构因素的效应量：经费（$d = 0.28$）、暑期学校（$d = 0.23$）、教会学校（$d = 0.23$）、[[Class Size|班级规模]]（$d = 0.21$）、[[Charter Schools|特许学校]]（“Charter Schools”，$d = 0.20$）、同质能力分班（$d = 0.12$）、跨年级教学（$d = 0.04$）、开放教学（$d = 0.01$）与留级（[[Grade Retention|Sitzenbleiben]]，$d = 0.16$；注：此处印刷为正值）（p. 68）。这些变量均未达到哈蒂设定的 $d = 0.40$ 显著正向门槛，且其“tracking”概念对应的是英语国家综合中学内部的长期能力分班，[[John Hattie|哈蒂]]本人亦援引 500 项研究得出平均效应量 $d = 0.11$（阅读 $d = 0.00$、数学 $d = 0.02$）并明确指出其具有严重的负面公平效应（p. 69）。
+> [!sub-claim] 1. 德国舆论与学界误把哈蒂数据当作“体制改革无用”的证据
+> 哈蒂研究在德国公共讨论中频繁被引用为框架条件与学校结构无关的证据，两则广泛传播的言论集中体现了这一倾向（pp. 67–68）。
+
+> [!case] 德国舆论与学界对“结构无效论”的典型挪用（p. 67）
+> - **马丁·施皮瓦克（《时代周报》，2013）** 质问政治界为何仍相信可通过结构改革改善学习结果，进而断言“按哈蒂的结论，体制问题压根儿不该再提”（*„Systemfragen sollte man nach Hattie gar nicht stellen“*）。
+> - **奥拉夫·科勒（2012, p. 73）** 作为有影响力的学校研究学者，进一步将结论绝对化，声称“与此同时，学校外部条件（如分流制与一贯制学制、经费投入）[……]被证明几乎毫无作用”（*„Gleichzeitig erweisen sich schulische Rahmenbedingungen (differenzierte vs. nichtdifferenzierte Schulsysteme; finanzielle Ausstattung) [...] als weitgehend unwirksam“*）。
+
+> [!sub-claim] 2. 哈蒂的九项结构指标全来自综合制内部，未涵盖早期分流
+> Steffens 从《可见的学习》（Hattie, 2009, pp. 244 f.）中识别出九项与学校结构相关的变量，其效应量均远低于哈蒂所称“明显正向影响”的 $d = 0.40$ 门槛（pp. 68–69）。
+
+> [!ref-table] 哈蒂（2009, pp. 244 f.）九项学校结构因素效应量（Steffens 整理，p. 68）
+> | 结构因素（德文原名） | 效应量 $d$ | 制度语境与说明 |
+> |---|---|---|
+> | **经费投入（Finanzen）** | 0.28 | 综合制英语国家学校经费差异 |
+> | **暑期学校（Sommerschulen）** | 0.23 | 补充性教学时间安排 |
+> | **教会学校（kirchliche Schulen）** | 0.23 | 私立/宗教办学类型 |
+> | **[[Class Size\|班级规模]]（Klassengröße）** | 0.21 | 限于 15–25 人区间比较 |
+> | **[[Charter Schools\|特许学校]]（selbständige Schulen / Charter Schools）** | 0.20 | 英语国家自主办学形式 |
+> | **同质能力分班（leistungshomogene Klassenbildung）** | 0.12 | 相当于合作型综合中学内的分轨支流 |
+> | **[[Grade Retention\|留级]]（Jahrgangswiederholung / Sitzenbleiben）** | 0.16 | 注：书中此处印刷为正值 `0.16` |
+> | **跨年级教学（jahrgangsübergreifender Unterricht）** | 0.04 | 混龄或跨学年编班 |
+> | **开放教学（offener Unterricht）** | 0.01 | 课堂开放组织形态 |
+
+在追踪分流（tracking）、私立学校隔离与制度化延缓学业进程等社会隔离结构上，哈蒂计算的效应量同样全部低于 $d = 0.40$；值得注意的是，哈蒂讨论的“tracking”（能力分组/分流，即长期按成绩分班）基于 500 项研究，虽与德国按学校类型分流具有可比性，但其语境仍是英语国家综合中学内部安排，且哈蒂本人明确警告其严重的负面公平后果（p. 69）。
+
+> [!citation-card] 哈蒂（2009, p. 90）对能力分流学业效应与公平后果的界定
+> 平均效应量只有微弱的 $d = 0.11$ [……]。结果表明，能力分班对学习成绩几乎没有作用，却对教育公平造成了严重的负面打击。阅读（$d = 0.00$）和数学（$d = 0.02$）的整体效应同样很低，对自我认知几乎没有影响，对学科态度的影响略高一些（$d = 0.10$）。……奥克斯与韦尔斯（Oakes & Wells, 1996）认为，能力分班的存在就是为了维护特权的不公平分配。（p. 69）
+>
+> *"The average effect is a small d = 0.11 [...]. The results show that tracking has minimal effects on learning outcomes and profound negative equity effects. The overall effects on mathematics and reading were similarly low (reading d = 0.00, mathematics d = 0.02), the effects on self-concept were close to zero, and effects on attitudes towards subject matter slightly higher (d = 0.10)." ... "Oakes and Wells (1996) claimed that tracking exists to guarantee the unfair distribution of privilege."*
 
 > [!warrant] 语境不可通约限制了跨体制直接推论
 > 尽管上述数据表明校内固定能力分组对学业成绩并无增益，但由于样本缺乏德国式的早期校际分轨，由此直接推导出“德国多轨制学校结构无足轻重”缺乏数据基础，属于脱离制度语境的过度推论（pp. 68–69）。
 
 ---
 
-> [!claim|step] 论证步骤二　外部学校结构的核心争议在于机会均等，PISA 与 IGLU 证实德国多轨制强化社会选择性
+> [!claim|step] 论证步骤二　德国多轨制拉大了阶层教育机会差距
 > 德国围绕“分化制与综合制学校体系”的争论重心聚焦于[[Socioeconomic Status|社会阶层]]间的教育机会均等，超越了单纯的认知成绩比较；跨国大规模评估持续证明，早期分轨制使德国在学业成绩与社会背景的关联度上居于国际高位，且不同学校类型形成了差异显著的学习环境（pp. 68, 70–72）。
 
-> [!sub-claim] 1. 仅比较认知成绩而忽略社会选择性会得出片面结论
-> 科巴尔格与普伦策尔（Kobarg & Prenzel, 2012）试图破除“北欧教育模式神话”，指出 PISA 2000、2003 与 2006 中仅芬兰表现持续顶尖而瑞典有所下滑，进而暗示德国多轨制表现不逊于北欧综合制、学校结构并不重要（pp. 70–71）。然而该文只报告了学生成绩而未报告社会选择性；艾姆克与尤德（Ehmke & Jude, 2010）基于 PISA 2009 的分析显示，虽然德国阅读领域的社会差异自 2000 年以来有所下降，但其父母社会经济地位与学生能力之间的关联在国际上仍处于高水平：在社会差异最大的国家中只有 8 国落后于德国，其中 4 国（奥地利、比利时、卢森堡、捷克）同样实行多轨制，而在社会差异更小的国家中除荷兰（六年小学加两年部分综合后分轨）外无一实行多轨制（p. 71）。
+> [!sub-claim] 1. 只看平均成绩而忽略阶层筛选，会低估分轨制的负面影响
+> 若只考察认知学业成绩，PISA 研究确实显示分化制与综合制在整体成绩上并无绝对单向优势；正因如此，部分论者通过忽略社会选择性来淡化学校结构的重要性，其中最具代表性的是科巴尔格与普伦策尔（Kobarg & Prenzel, 2012）发表于德国校长联合会刊物并广为传播的讨论（pp. 68, 70–71）。
 
-> [!sub-claim] 2. 小升初过渡期存在显著的社会阶层偏向，且学校类型本身构成差异化学习环境
-> IGLU 2004（Bos et al., 2004, p. 213）与 IGLU 2011（Stubbe et al., 2012）一致证实，在控制实际阅读能力后，来自高社会阶层的儿童获得文理中学（Gymnasium）推荐信的概率仍为底层或技术工人家庭儿童的 1.76 至 2.68 倍（pp. 71–72）。同时，PISA 2000（Deutsches PISA-Konsortium, 2001, p. 182）表明，数学成绩方差的 43% 可归因于所就读的培养轨道；即便在控制相同基本认知能力与相同社会经济地位的条件下，文理中学学生的成绩仍比[[Hauptschule|主体中学]]（Hauptschule）学生高出 49 分。因此，外部学校结构不仅直接影响学业表现，更深刻制约不同阶层的教育机会（p. 72）。
+> [!case] “北欧教育模式神话”争论与 PISA 2009 跨国社会差异对照
+> - **片面反驳“北欧神话”（Kobarg & Prenzel, 2012, p. 22）** 两人分析 PISA 2000、2003 与 2006 数据，指出北欧国家在国际比较中仅有芬兰十五岁学生保持顶尖且跨时间稳定，瑞典在 2000 年高于经合组织（Organisation for Economic Co-operation and Development, OECD）均值后在部分领域显著下滑，进而暗示德国多轨制表现已改善且学校结构无关紧要；但该文全程未报告任何社会选择性数据（pp. 70–71）。
+> - **PISA 2009 的社会差异证据（Ehmke & Jude, 2010, pp. 236, 241）** 德国青少年阅读素养中的社会不平等自 PISA 2000 以来有所下降，但父母社会经济地位与学生能力之间的关联在国际上仍处高位：在社会差异最大的国家中仅有 8 国落后于德国，其中 4 国（奥地利、比利时、卢森堡、捷克）实行多轨制；而在社会差异低于德国的国家中，除荷兰（六年制小学后先实行两年部分综合教学，再进入多轨分流）外，无一实行多轨制（p. 71）。
+
+> [!sub-claim] 2. 小升初分流偏向高阶层家庭，且不同学校类型本身拉大学业差距
+> 历次 [[PIRLS|IGLU]] 研究均证实小学向中等教育过渡时的推荐信存在明显的社会阶层偏向；与此同时，首届 PISA 研究已揭示不同培养轨道本身构成了学习促进力迥异的预结构化学习环境（pp. 71–72）。
+
+> [!case] IGLU 过渡推荐偏向与 PISA 2000 轨道学习环境效应
+> - **IGLU 2004 与 IGLU 2011 的阶层推荐倍率** 依据 [[PIRLS|IGLU]] 2004（Bos et al., 2004, p. 213），在同时控制社会阶层归属与阅读能力后，来自上层社会阶层的儿童获得文理中学（Gymnasium）推荐信的概率仍为底层家庭儿童的 2.68 倍或 1.76 倍；IGLU 2011（Stubbe et al., 2012）再次确认，具备同等阅读能力的最强社会阶层儿童获得文理中学推荐的概率成倍高于技术工人家庭儿童（pp. 71–72）。
+> - **PISA 2000 的轨道方差与同质能力分差** 德国 PISA 2000 报告（Deutsches PISA-Konsortium, 2001, p. 182）表明，数学成绩方差的 43% 可归因于所就读的培养轨道；尽管轨道差异主要源于过渡期选拔，但在控制相同基本认知能力与相同社会经济地位后，文理中学学生的成绩仍比[[Hauptschule|主体中学]]（Hauptschule）学生高出 49 分（p. 72）。
+
+> [!citation-card] PISA 2000 关于培养轨道学习环境差异的实证定性
+> 纯从数据看，学生数学成绩中将近一半（43%）的差异来自他们所处的不同培养轨道。……在这些培养轨道的“效应”背后，固然有小升初过渡阶段的选拔机制在起作用……但即便在基础认知能力相同、家庭社会经济地位也完全一致的情况下，文理中学学生的成绩仍比主体中学学生高出 49 分。这种差距今后还应在具体学校层面进一步查明。（p. 72）
+>
+> *„Rein rechnerisch lässt sich nahezu die Hälfte (43 %) der mathematischen Leistungsvarianz zwischen den Schülern auf die Zugehörigkeit zu unterschiedlichen Bildungsgängen zurückführen. ... Hinter diesen ‚Effekten‘ des Bildungsganges stehen allerdings Selektionsprozesse beim Übergang in die Sekundarstufe I ... Dennoch verbleiben bedeutsame Differenzen: Auch bei gleichen kognitiven Grundfähigkeiten und identischem sozioökonomischen Status ist die Leistung eines Gymnasiasten um 49 Punkte höher als die Leistung eines Hauptschülers. Dieser Unterschied sollte in zukünftigen Analysen – auch auf der Ebene einzelner Schulen – aufgeklärt werden.“*
 
 ---
 
-> [!claim|step] 论证步骤三　内部学校结构与系统变革能力决定孤立教学变量能否转化为持久质量提升
+> [!claim|step] 论证步骤三　学校内部组织与团队协作决定教学改进能否持久
 > 在学校内部组织（Binnenorganisation）层面，单凭哈蒂的孤立变量效应量会低估班级规模在特定边界外的真实作用，并掩盖学校作为一个整体系统实现持续改进所需的协作与制度条件（pp. 72–76）。
 
-> [!sub-claim] 1. 哈蒂对班级规模的有限范围考察忽略了超大班额、STAR 长期证据及师生互动氛围
-> 哈蒂关于[[Class Size|班级规模]]缩减效果有限的判断基于每班 15 至 25 人的区间，直接排除了大量超过 25 人的现实班级（pp. 72–73）。美国田纳西州 1980 年代开展的 [[Tennessee STAR Project 1985-1989|STAR]] 研究对比了 13–17 人小班与 22–25 人大班，格里特·阿恩霍尔德（Grit Arnhold, 2005）综述其核心发现：小班学生在各年级学业测试中均表现更优，且介入越早（幼儿园或一年级）、持续越久（3–4 年），对学业薄弱与社会处境不利儿童的促进越明显。此外，学校不仅是主科知识传授场所，还涉及激活性的学习氛围、可预期的互动结构、校园欺凌预防以及大班额给教师带来的职业负荷（p. 73）。
+> [!sub-claim] 1. 哈蒂只看 15 到 25 人的班级，漏掉了大班负担和长期小班收益
+> 科勒（2012, p. 77）与施皮瓦克（2013）均援引哈蒂断言缩减[[Class Size|班级规模]]“基本无效”或“对学习成功毫无贡献”（pp. 72–73）。罗尔夫从数据区间、随机实验证据与课堂整体生态三方面拆解了这一判断（p. 73）。
 
-> [!sub-claim] 2. 孤立变量无法替代全系统协同，教学发展必须与人员及组织发展结合
-> 哈蒂分析了 138 项及后续 12 项孤立变量，但在真实学校发展中，即便是最强的变量（如哈蒂本人指出的师生[[Feedback|反馈]]）也必须与其他要素配套才能生效，否则甚至可能产生负面效果（pp. 73–74）。迈克尔·富兰（[[Michael Fullan]]，2010）与莫娜·穆尔谢德等人（Mourshed et al., 2011）指出，政策当局习惯推动的一阶解决方案（重复既有行政项目）往往触及天花板，真正可持续的是培育学校自主发现与解决问题的“变革能力”（Capacity for Change），即二阶解决方案（pp. 74–75）。
-> - **数据使用能力** 将数据系统用于现状诊断、项目评估与改进调控。
-> - **突破纯技术培训局限** 北威州“自主学校”试点（Holtappels et al., 2008, pp. 104 ff.）证明，单纯的方法训练不足以提升学业成绩，必须同步改变学习机会并融入教师的态度与价值维度（p. 75）。
-> - **专家同行教练与专业学习共同体** 在富兰（2010）记录的成功项目中，优秀教师接受培训成为同行教练（Kollegen-Coaches），进校开展观课、反馈、示范授课与共同备课并在半年后回访，再由受训教师在学科组或年级组推行集体听课（kollegiale Hospitation），在[[School Leadership|学校领导]]与学科组长协调下形成[[Professional Learning Community|专业学习共同体]]（Professionelle Lerngemeinschaften）（pp. 75–76）。
-> - **中层管理与系统协调** 质量属于系统属性（Rolff, 2011），需要校委会、指导小组、内外评估以及由年级与学科负责人构成的“中层管理”共同支撑（p. 76）。
+> [!case] 哈蒂班额区间限制与田纳西州 STAR 实验的反向实证
+> - **哈蒂样本的区间盲区** 哈蒂的结论仅针对每班 15 至 25 人的区间，该区间内的缩班确实未带来成绩增量而只增加成本，但现实中大量超过 25 人的大班被哈蒂从一开始便排除在外（pp. 72–73）。
+> - **田纳西州 [[Tennessee STAR Project 1985-1989|STAR]] 实验（1980 年代，据 Arnhold, 2005）** 该研究在小学对比 13–17 人小班与 22–25 人大班，得出四项关键发现：① 小班学生在每个年级的学业测验中均表现更优；② 介入越早（自幼儿园或一年级起）效果越显著；③ 持续时间越长（3 至 4 年）效果越突出；④ 学业薄弱与社会处境不利儿童从小班中获益尤为强烈。
+> - **课堂生态与教师负荷** 学校不仅承担主科知识传授，还关乎激活性的学习氛围、预期稳定的互动结构与校园欺凌防范，这些维度均受制于班额；此外，班额攀升直接加重教师负担，有时甚至达到难以承受的程度（p. 73）。
+
+> [!sub-claim] 2. 单个教学要素无法孤立生效，学校需要整体改进能力
+> 哈蒂分析了 138 项及后续 12 项“孤立”或“碎片化”的单一变量，但现代学校发展研究（[[Michael Fullan|Fullan]], 2010; Mourshed et al., 2011）表明，即便是最强的变量也必须与其他变量协同才能发挥作用——哈蒂本人亦在师生[[Feedback|反馈]]（Hattie, 2009, pp. 172 f.）中展示，若要素之间不匹配甚至会产生负面效应（pp. 73–74）。
+
+> [!feature] 全系统质量改进的六大协同要素群（Fullan, 2010; Mourshed et al., 2011, p. 74）
+> - **核心理念** 贯穿全局的改革核心理念与育人导向。
+> - **成功改革要素** 经实证检验的关键改革组件。
+> - **校内结构参数** 支撑教学的内部组织条件。
+> - **教师激励机制** 引导教师专业投入的激励安排。
+> - **果断校领导** 统筹推进变革的学校领导力。
+> - **区域协作网络** 校际与区域层面的支持性网络。
+
+上述要素必须作为一个连贯的整体组合（kohärentes Ensemble）协同运作，遵循整体设计公式并相互联结（p. 74）。
+
+> [!tension] 一阶解决方案 vs. 二阶解决方案（Fullan, 2010; Mourshed et al., 2011, pp. 74–75）
+> - **一阶解决方案（蓝方：传统行政推进）** 教育政治与行政当局倾向于按经典管理方式推动学校落实中央统一设计的教学或师资培训项目，属于在既有框架下“把同样的事做得更完美”，往往很快触及效能天花板。
+> - **二阶解决方案（红方：系统变革能力）** 旨在推动学校系统自身的转型与发展，使单个学校及整个学区具备自行发现并解决发展问题的“变革能力”（Capacity for Change），并将数据系统用于现状诊断、项目评估与改进调控。
+
+> [!sub-claim] 3. 课堂改进必须与教师辅导、校内中层管理配合推进
+> 改善学习条件始终须以是否真正帮助学生学习为检验标准。北威州试点项目证实纯技术培训具有局限性，而富兰（2010）记录的成功项目则展示了教学发展与人员发展深度结合的具体操作规程（pp. 75–76）。
+
+> [!case] 北威州“自主学校”试点项目的技术维度局限
+> 在北莱茵-威斯特法伦州“自主学校”（Selbstständige Schule in NRW）试点项目中（Holtappels et al., 2008, pp. 104 ff.），方法训练虽被公认为学习基础，但单纯开展方法训练不足以提升学生成绩；它必要且有益，却将学生的学习环境压缩为纯技术维度。只有当学习机会得到全面改善，并把教师的态度与价值维度纳入其中，学生成绩才会真正提高（p. 75）。
+
+> [!proc] 专家教师同行教练与[[Professional Learning Community|专业学习共同体]]五步推进规程（Fullan, 2010, pp. 75–76）
+> 1. **遴选与进校观课反馈** 将特别优秀的教师（“Expert teacher”或“Master teacher”）进一步培养为同行教练（Kollegen-Coaches），进驻学校一周，首日观摩受辅导教师（Coachees）的课堂并给予反馈。
+> 2. **教练亲自示范教学** 次日由同行教练亲自执教示范优质课堂，提供直观教学参照。
+> 3. **共同备课与课堂实践** 教练与受辅导教师共同设计第三天的教学方案，由受辅导教师执教并接受教练的课后反馈。
+> 4. **半年周期回访循环** 同行教练在半年后重返学校，开启下一轮指导循环，固化改进节奏。
+> 5. **校内集体听课制度化** 受训教师在各自学科组或年级组引入集体听课（kollegiale Hospitation），在[[School Leadership|校长]]与学科组长协同下，将个体教练经验转化为[[Professional Learning Community|专业学习共同体]]（Professionelle Lerngemeinschaften）。
+
+相反，若教师仅向同事或学生收集反馈，却不以此为契机开展系统的教学改进，甚至不与学生讨论反馈结果，这类相互听课与师生反馈便会归于无效（pp. 75–76）。归根结底，质量是一种系统属性（Rolff, 2011），需要校委会、指导小组、内外评估以及由称职校长协调的、由年级组与学科组发言人构成的“中层管理”（mittleres Management）共同支撑（p. 76）。
 
 ---
 
-> [!claim|step] 论证步骤四　将《可见的学习》当作“罗夏测验”并归咎于教师个体损害教育研究与政策
+> [!claim|step] 论证步骤四　按预设立场曲解哈蒂并责怪个别教师会损害学校改进
 > 德国公共话语对哈蒂研究的滥用表现为立场先行的选择性解读以及对单个教师的过度问责，这种做法忽视了人与结构之间的交互作用（pp. 76–77）。
 
-> [!warrant] 从“罗夏测验式挪用”回归结构与人的交互视野
-> 许多评论者将哈蒂的可视化数据当作罗夏墨迹测验（Rorschach-Test），教师中心教学的支持者与改革教育学派均从中读出各自预设的观点，这种去专业化的挪用同时伤害了教育研究与教育政策（pp. 76–77）。更重要的是，将学校质量完全系于单个教师身上既不现实也会在出现问题时使其沦为替罪羊；德国[[Hauptschule|主体中学]]可能拥有极为优秀的教师，却受困于最不利的学校结构，这直观证明学校成效取决于教师与结构的共同作用（p. 77）。
+> [!sub-claim] 1. 评论者把哈蒂数据当成“罗夏测验”，各取所需误导政策
+> 对《可见的学习》的讨论本不应演变为反对该研究本身，而应审视德国对其公共使用的方式：许多评论者将其视为一种“罗夏墨迹测验”（Rorschach-Test），教师中心教学的支持者与改革教育学派均从可视化数据表中读出各自预先坚信的立场，这种非专业解读同时伤害了教育研究与教育政策（pp. 76–77）。
+
+> [!sub-claim] 2. 把学校质量全怪在单个教师头上，掩盖了学校结构的制约
+> 将学校质量完全归因于教师乃至单个教师个体，既会令教师不堪重负并面对无法兑现的要求，又会在出现问题时使其沦为替罪羊；德国[[Hauptschule|主体中学]]的处境正是人与结构共同决定学校质量的直观例证（p. 77）。
+
+> [!citation-card] 人与结构交互与主体中学困境
+> 不应该让教师单独为学校质量负责，更不该把责任推到个别教师头上。这会让他们不堪重负，相当于提出根本做不到的要求，并在出现问题时把他们当成替罪羊。决定一所学校好坏的并非单个教师，而是人与结构的共同作用，主体中学就是最直观的例子：它或许拥有最优秀的教师，却套着最糟糕的制度结构。（p. 77）
+>
+> *Es sollten nicht die Lehrkräfte allein für die Qualität von Schule verantwortlich gemacht werden, und schon gar nicht die einzelnen Lehrpersonen. Das überfordert sie, stellt zum Teil uneinlösbare Anforderungen und macht sie bei Fehlentwicklungen zu Sündenböcken. Dass es nicht die einzelnen Lehrpersonen sind, die eine weniger gute Schule ausmachen, sondern das Zusammenspiel von Person und Struktur, zeigt anschaulich die Hauptschule: Sie hat womöglich die besten Lehrkräfte, aber die schlechteste Struktur.*
 
 ---
 
@@ -157,14 +235,9 @@ updated: 2026-11-25
 ---
 
 > [!citation-card] 学校质量的系统属性与结构支撑
-> 质量是一种系统属性，因而受结构决定。构建全面质量管理不仅需要合格的教师个体，而且需要一个由称职的校长发起与协调、由年级组与学科组发言人构成的运转良好的“中层管理”。这一切都要求贴近学校、全面、充分创造条件并具有支持性的学校结构。（p. 76）
+> 教学质量是整个系统的产物，因此受学校结构制约。要建立全面的质量管理，光有合格的教师还不够，还得有一支由称职校长带动和协调、由年级组长与学科组长组成且运转顺畅的“中层管理”队伍。这就需要贴近学校实际、统筹兼顾并切实提供支持条件的学校结构。（p. 76）
 >
 > *Qualität ist eine Systemeigenschaft (vgl. Rolff 2011) und damit strukturdeterminiert. Der Aufbau von ganzheitlichem Qualitätsmanagement setzt nicht nur qualifizierte Lehrpersonen, sondern auch ein funktionierendes „mittleres Management“ von Jahrgangsgruppen- und Fachgruppensprechern voraus, das durch eine kompetente Schulleitung initiiert und koordiniert wird. Das alles verlangt nach schulnahen, umfassenden und gut ermöglichenden sowie unterstützenden Schulstrukturen.*
-
-> [!citation-card] 人与结构交互与主体中学困境
-> 不应当由教师单独对学校质量负责，更不能归咎于单个教师。这会令其不堪重负，在某种程度上提出无法兑现的要求，并在出现不良发展时使其沦为替罪羊。决定一所学校优劣的并非单个教师，而是人与结构的共同作用，主体中学便直观地说明了这一点：它或许拥有最好的教师，却有着最糟糕的结构。（p. 77）
->
-> *Es sollten nicht die Lehrkräfte allein für die Qualität von Schule verantwortlich gemacht werden, und schon gar nicht die einzelnen Lehrpersonen. Das überfordert sie, stellt zum Teil uneinlösbare Anforderungen und macht sie bei Fehlentwicklungen zu Sündenböcken. Dass es nicht die einzelnen Lehrpersonen sind, die eine weniger gute Schule ausmachen, sondern das Zusammenspiel von Person und Struktur, zeigt anschaulich die Hauptschule: Sie hat womöglich die besten Lehrkräfte, aber die schlechteste Struktur.*
 
 ---
 
