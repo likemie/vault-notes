@@ -15008,17 +15008,15 @@
     "Köller & Baumert, 2012": "Köller & Baumert, 2012",
     "Köller (2012a)": "Köller, 2012a",
     "Köller (2012b)": "Köller, 2012b",
-    "Köller (2012c)": "Köller, 2012c",
     "Köller et al. (2000)": "Köller et al., 2000",
     "Köller et al. (2010)": "Köller et al., 2010",
     "Köller et al. (2013)": "Köller et al., 2013",
     "Köller et al., 2000": "Köller et al., 2000",
     "Köller et al., 2010": "Köller et al., 2010",
     "Köller et al., 2013": "Köller et al., 2013",
-    "Köller, 2012": "Köller, 2012a",
-    "Köller, 2012a": "Köller, 2012b",
-    "Köller, 2012b": "Köller, 2012c",
-    "Köller, 2012c": "Köller, 2012c",
+    "Köller, 2012": "Köller, 2012b",
+    "Köller, 2012a": "Köller, 2012a",
+    "Köller, 2012b": "Köller, 2012b",
     "König & Frey (2022)": "König & Frey, 2022",
     "König & Frey, 2022": "König & Frey, 2022",
     "Körük (2017)": "Körük, 2017",
@@ -29658,8 +29656,6 @@
     "德国 (2015)": "德国, 2015",
     "德国, 2001": "德国, 2001",
     "德国, 2015": "德国, 2015",
-    "德国舆论与部分学者依据哈蒂 (2009)": "德国舆论与部分学者依据哈蒂, 2009",
-    "德国舆论与部分学者依据哈蒂, 2009": "德国舆论与部分学者依据哈蒂, 2009",
     "德容等 (2023)": "德容等, 2023",
     "德容等, 2023": "德容等, 2023",
     "德里瓦斯等 (2017)": "德里瓦斯等, 2017",
@@ -29756,8 +29752,6 @@
     "施奈德, 2022": "施奈德, 2022",
     "施特雷克与希伦 (2005)": "施特雷克与希伦, 2005",
     "施特雷克与希伦, 2005": "施特雷克与希伦, 2005",
-    "施皮瓦克 (2013)": "施皮瓦克, 2013",
-    "施皮瓦克, 2013": "施皮瓦克, 2013",
     "早期 (1912)": "早期, 1912",
     "早期, 1912": "早期, 1912",
     "昆士兰 (2013)": "昆士兰, 2013",
@@ -29921,8 +29915,6 @@
     "社会民主与中左阵营, 1968": "社会民主与中左阵营, 1968",
     "社论 (1916)": "社论, 1916",
     "社论, 1916": "社论, 1916",
-    "科勒 (2012)": "科勒, 2012",
-    "科勒, 2012": "科勒, 2012",
     "科塞勒克 (2006)": "科塞勒克, 2006",
     "科塞勒克, 2006": "科塞勒克, 2006",
     "科恩等人 (2011)": "科恩等人, 2011",
@@ -29976,8 +29968,6 @@
     "考察了, 2012": "考察了, 2012",
     "考恩 (1996)": "考恩, 1996",
     "考恩, 1996": "考恩, 1996",
-    "而富兰 (2010)": "而富兰, 2010",
-    "而富兰, 2010": "而富兰, 2010",
     "聚焦哈蒂 (2009)": "聚焦哈蒂, 2009",
     "聚焦哈蒂, 2009": "聚焦哈蒂, 2009",
     "胡塞尔 (1913)": "胡塞尔, 1913",
@@ -53755,7 +53745,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
       ],
-      "title": ""
+      "title": "Schullaufbahnempfehlungen von Lehrkräften für Kinder am Ende des vierten Jahrgangs"
     },
     "Bos et al., 2012": {
       "aliases": [
@@ -86004,10 +85994,8 @@
         "Ehmke & Jude, 2010"
       ],
       "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
-      ],
-      "title": ""
+      "seen_in": [],
+      "title": "Soziale Herkunft und Kompetenzerwerb"
     },
     "Ehmke et al., 2010": {
       "aliases": [
@@ -97800,7 +97788,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
       ],
-      "title": ""
+      "title": "All Systems Go: The Change Imperative for Whole System Reform"
     },
     "Fullan, 2011": {
       "aliases": [
@@ -118485,7 +118473,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
       ],
-      "title": ""
+      "title": "Schulentwicklung durch Gestaltungsautonomie"
     },
     "Holtz, 2002": {
       "aliases": [
@@ -136214,7 +136202,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
       ],
-      "title": ""
+      "title": "Der Mythos der nordischen Schulsysteme"
     },
     "Kobayashi, 2005": {
       "aliases": [
@@ -139997,22 +139985,6 @@
       ],
       "doi": "",
       "identity_keys": [
-        "Köller, 2012"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/facts/global/PISA.md",
-        "wiki/facts/global/TIMSS.md"
-      ],
-      "title": ""
-    },
-    "Köller, 2012b": {
-      "aliases": [
-        "Köller, 2012b",
-        "Köller (2012b)"
-      ],
-      "doi": "",
-      "identity_keys": [
         "Köller, 2012a"
       ],
       "isbn": "",
@@ -140022,17 +139994,22 @@
       ],
       "title": "Mythen guter Unterrichtspraxis"
     },
-    "Köller, 2012c": {
+    "Köller, 2012b": {
       "aliases": [
-        "Köller, 2012c",
-        "Köller (2012c)"
+        "Köller, 2012b",
+        "Köller (2012b)"
       ],
       "doi": "",
       "identity_keys": [
+        "Köller, 2012",
         "Köller, 2012b"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md",
+        "wiki/facts/global/PISA.md",
+        "wiki/facts/global/TIMSS.md"
+      ],
       "title": "What works best in school? Hatties Befunde zu Effekten von Schul- und Unterrichtsvariablen auf Schulleistungen"
     },
     "König & Frey, 2022": {
@@ -161244,7 +161221,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
       ],
-      "title": ""
+      "title": "All Systems Go: The Change Imperative for Whole System Reform"
     },
     "Michael Huberman, 1994": {
       "aliases": [
@@ -165800,7 +165777,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
       ],
-      "title": ""
+      "title": "How the world's most improved school systems keep getting better"
     },
     "Moustakas, 1994": {
       "aliases": [
@@ -192753,7 +192730,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
       ],
-      "title": ""
+      "title": "Qualität mit System"
     },
     "Rolfhus, 2012": {
       "aliases": [
@@ -211145,7 +211122,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md",
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
       ],
       "title": "Ich bin superwichtig!"
     },
@@ -215264,7 +215242,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
       ],
-      "title": ""
+      "title": "Der Übergang von der Primar- in die Sekundarstufe"
     },
     "Stubbs & Delamont, 1976": {
       "aliases": [
@@ -245424,7 +245402,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md",
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md",
         "wiki/arguments/journal-articles/Educational Philosophy and Theory/Argument_Rømer_2018_EPT.md",
         "wiki/arguments/journal-articles/Journal of Curriculum Studies/Argument_Terhart_2011_JCS.md",
         "wiki/arguments/journal-articles/Nordic Psychology/Argument_Nielsen_2021_NordPsych.md",
@@ -246421,21 +246398,6 @@
       ],
       "title": ""
     },
-    "德国舆论与部分学者依据哈蒂, 2009": {
-      "aliases": [
-        "德国舆论与部分学者依据哈蒂, 2009",
-        "德国舆论与部分学者依据哈蒂 (2009)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "德国舆论与部分学者依据哈蒂, 2009"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
-      ],
-      "title": ""
-    },
     "德容等, 2023": {
       "aliases": [
         "德容等, 2023",
@@ -247141,21 +247103,6 @@
       "seen_in": [
         "wiki/persons/germany/Wolfgang Streeck.md",
         "wiki/theories/political-economy-geopolitics/Theory of Gradual Institutional Change.md"
-      ],
-      "title": ""
-    },
-    "施皮瓦克, 2013": {
-      "aliases": [
-        "施皮瓦克, 2013",
-        "施皮瓦克 (2013)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "施皮瓦克, 2013"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
       ],
       "title": ""
     },
@@ -248387,21 +248334,6 @@
       ],
       "title": ""
     },
-    "科勒, 2012": {
-      "aliases": [
-        "科勒, 2012",
-        "科勒 (2012)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "科勒, 2012"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
-      ],
-      "title": ""
-    },
     "科塞勒克, 2006": {
       "aliases": [
         "科塞勒克, 2006",
@@ -248794,21 +248726,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-policy-reform/School Effectiveness.md"
-      ],
-      "title": ""
-    },
-    "而富兰, 2010": {
-      "aliases": [
-        "而富兰, 2010",
-        "而富兰 (2010)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "而富兰, 2010"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
       ],
       "title": ""
     },

@@ -101,7 +101,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-05-21"
-updated: 2026-11-14
+updated: 2026-11-25
 ---
 
 ---
@@ -372,7 +372,7 @@ updated: 2026-11-14
 > - **1979 — [[Research Utilization\|研究利用]]理论的多元起源** Weiss (1979) 提出工具性、概念性与象征性等利用模式，揭示研究对政策实践的渗透具有复杂非线性特征。
 > - **2000s — 线性[[Knowledge Transfer\|知识转移]]与扩散模型的局限** 早期的知识转移（Knowledge Transfer, KT）聚焦单向推送与文献分发，实践壁垒促使学界反思线性模式的失效。
 > - **2008 — 线性与关系模型的系统梳理** [[Ben Levin]] 系统分析了知识动员的推力、拉力与中介机制，揭示了单纯信息分发的局限性。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 18–19)]]
-> - **2010 — 三代演进与系统思维奠基** Allan Best 与 Beverly Holmes 正式确立三代知识动员演进模型，明确提出了复杂自适应系统视角的四维核心构件。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, p. 19)]]
+> - **2010 — 三代演进与系统思维开创** Allan Best 与 Beverly Holmes 正式确立三代知识动员演进模型，明确提出了复杂自适应系统视角的四维核心构件。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, p. 19)]]
 > - **2010s — 知识动员概念兴起与全系统实践** 加拿大社会科学与人文研究理事会（SSHRC）倡导 KMb；安大略省建立 [[Knowledge Network for Applied Education Research\|KNAER]] 网络，开创全系统多方协作[[Paradigm\|范式]]。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 130)]]
 > - **2015 — 北欧学校改进中的知识动员实践** [[Argument_Nordahl_2015_Paideia\|Nordahl (2015)]] 将 KMb 引入斯堪的纳维亚 [[Visible Learning]] 改革，阐明证据进入课堂必须依赖[[Teacher Collaboration|教师协作]]与反思重组。
 > - **2017 — 知识动员四类核心策略系统化** [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] 在特刊中提炼出沟通传播、能力建设、伙伴关系与系统化方法四类策略及三位一体法则。
@@ -430,5 +430,5 @@ updated: 2026-11-14
 > - **[[Argument_Dean_2025_UICollaborationSupport\|Dean et al. (2025)]]** 结合加拿大滑铁卢大学 [[Schlegel-UW Research Institute for Aging\|RIA]] 案例，论证共同选址与终端嵌入在推动健康研究成果向临床照护快速动员中的机制。
 > - **[[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]]** 梳理[[EU|欧盟]]证据中介组织与知识经纪网络，展示非处方化协调与跨国同伴学习的知识流动路径。
 > - **[[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]]** 解构经合组织（OECD, 2025）全球 288 家中介调研及“爵士乐队”知识动员修辞隐喻，揭示超国家证据文化对实践情境的认识论压制，提出包容一线认知主权的动员生态重塑路径（pp. 344, 346–348, 350–351）。
-> - **Best and Holmes (2010)** 奠定知识动员三代演化模型（线性推送、关系网络、复杂系统）及四维系统构件，奠定教育研发系统思维基础。
+> - **Best and Holmes (2010)** 系统提出知识动员三代演化模型（线性推送、关系网络、复杂系统）及四维系统构件，建立教育研发系统思维基础。
 

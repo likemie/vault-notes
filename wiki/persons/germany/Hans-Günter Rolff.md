@@ -36,7 +36,7 @@ updated: 2026-11-25
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 德国学校发展研究（Schulentwicklungsforschung）学者，多特蒙德工业大学学校发展研究所（IFS）荣休教育研究教授、德国教育领导力学院（DAPF）学术委员会主席，曾参与北莱茵-威斯特法伦州（Nordrhein-Westfalen, NRW）“自主学校”试点项目。[[Argument_Rolff_2014_SchoolStructure|(Rolff, 2014, pp. 75–76)]]
+> - **身份位置** 德国学校发展研究（Schulentwicklungsforschung）学者，多特蒙德工业大学学校发展研究所（Institut für Schulentwicklungsforschung, IFS）荣休教育研究教授、德国教育领导力学院（Deutsche Akademie für Pädagogische Führungskräfte, DAPF）学术委员会主席，曾参与北莱茵-威斯特法伦州（Nordrhein-Westfalen, NRW）自主学校试点项目。[[Argument_Rolff_2014_SchoolStructure|(Rolff, 2014, pp. 75–76)]]
 > - **核心角色** 在《[[Visible Learning|可见的学习]]》引入德国教育讨论的背景下，从学校结构社会学与系统学校发展视角回应“结构因素无关论”，主张将外部学制的[[Selectivity|社会选择性]]评估与校内系统变革结合。[[Argument_Rolff_2014_SchoolStructure|(Rolff, 2014, pp. 67–77)]]
 > - **代表贡献** [[Tracking|分轨制]]与教育公平批判、[[Class Size|班级规模]]系统效应分析、[[Evidence-Based School Development|循证学校发展]]中的“二阶解决方案”与变革能力（Capacity for Change）框架。
 

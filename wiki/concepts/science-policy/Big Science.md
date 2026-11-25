@@ -100,7 +100,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-11-11
+updated: 2026-11-25
 ---
 
 ---
@@ -113,22 +113,22 @@ updated: 2026-11-11
 > - **用途** 帮助科技政策学者区分不同类型科技任务的组织治理构型，评估大型国家实验室、前竞争财团与[[Megascience Installations|大科学装置]]的战略效能与民用外溢机制。
 > - **边界** 适用于目标明确、工程界定清晰的物理极限与跨学科共性技术攻关；不等于分散在大学内部的自由探索型课题组，亦不等于企业以商业利润为驱动的封闭产品开发。
 
-> [!citation-card|notitle] 关键表述：樊春良论大科学成本膨胀对[[Social Contract of Science|科学社会契约]]的制度压力
+> [!citation-card|notitle] 樊春良论大科学成本膨胀对[[Social Contract of Science|科学社会契约]]的制度压力
 > 科学体系自身演化进一步加剧了科学社会契约的压力，如大科学模式推高科研成本，强化了外部绩效问责与政治审计；近年来学术界广泛讨论的[[Reproducibility Crisis|可重复性危机]]则削弱了部分领域的知识权威，使基础科学在为什么值得支持、如何被评价与应当解决什么问题三个层面均失去了自动的正当性。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 >
 > *大科学模式推高科研成本并强化外部问责，与可重复性危机交织，使科学正当性从自明走向不稳定且具有争议性的结构形态。*
 
-> [!citation-card|notitle] 关键表述：大科学的组织特征与演进张力
+> [!citation-card|notitle] 大科学的组织特征与演进张力
 > 大科学政策往往由单一国家实验室或公共机构执行，且这些机构由极具声望的权威主管领导。这种政策直接导致这些实验室的组织构架比大学更为层级化。然而，大科学研究所建立在界定清晰的物理和工程目标之上；当国家试图将这种封闭集权的大科学工程模式直接套用于解决城市衰败、环境退化等复杂的社会系统问题时，必然遭遇制度失灵。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 794–795)]]
 >
 > *Organizationally such policies were often implemented by single national/public laboratories... These facilities were built up more hierarchically than universities. Weinberg argues that Big Science institutes are based on well-defined physical targets and that the same approach cannot be easily transferred to social problems... such problems are much more complex.*
 
-> [!citation-card|notitle] 关键表述：智能时代大科学的范式扩展
+> [!citation-card|notitle] 智能时代大科学的范式扩展
 > 传统大科学主要聚焦于粒子对撞机与航天发射等国家主导工程。而在当代，一方面领军企业投入数千亿美元建设智能算力基础设施，将 Transformer 与大模型引入前沿探索；另一方面，耗资数千万美元、需数十人工程团队攻关的中等规模公共品科学（如蛋白质折叠基准、全脑连接组测绘）在大学课题组与商业企业之间形成空白，催生了聚焦研究组织（FRO）与 [[NSF X-Labs]] 等新型大科学载体。与此同时，2025 年启动的[[Genesis Mission|创世纪计划]]统筹能源部 17 所国家实验室打造“美国科学与安全平台”（ASSP），展现了大科学在 AI 驱动研发范式下的国家级系统集成。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 5–6, 22–26, 61–63)]]
 >
 > *Beyond traditional national aerospace and physics projects, Big Science now encompasses massive compute clusters, mid-scale Focused Research Organizations (FROs), and the Genesis Mission marshaling 17 national laboratories for AI-driven discovery.*
 
-> [!citation-card|notitle] 关键表述：[[Derek de Solla Price|普赖斯]]与[[Dashun Wang|王大顺]]论大科学时代的指数扩张与学术生产管道堵塞
+> [!citation-card|notitle] [[Derek de Solla Price|普赖斯]]与[[Dashun Wang|王大顺]]论大科学时代的指数扩张与学术生产管道堵塞
 > 大科学不仅意味着装置与经费的巨型化，更表现为科学[[Knowledge Production|知识生产]]系统自身的指数级扩张。自普赖斯在 1963 年指出科学[[Document|文献]]以约 10–15 年翻番的节奏持续增长以来，百余年间全球学术出版物呈现出不可阻挡的指数级扩张，形成“历史上 80% 至 90% 的科学家都生活在当代”的即时性特征。然而，[[Academic Pipeline|学术管道]]的各环节扩张极不均衡：博士毕业生数量在数十年间膨胀数倍，而大学终身教职岗位数长期保持平滞，导致博士后队伍急剧堆叠，大批科研人员向产业界分流。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 161–171)]]
 >
 > *Big Science is defined not only by large budgets and facilities, but by the relentless exponential growth of the scientific literature and workforce. While PhD production has soared, faculty positions have remained flat, driving a massive postdoc pileup and workforce restructuring.*
@@ -182,7 +182,7 @@ updated: 2026-11-11
 > **需求侧拉动与技术外溢维度** 审视大[[Science Programs|科学项目]]如何转化为民用产业转型动力。
 >
 > > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
-> > **公共采购作为大科学学习媒介** 大科学攻关若仅局限于实验室封闭研发，极易成为高成本的孤岛；其产生广泛民用技术外溢（如互联网、微电子与先进材料）的关键，在于公共部门通过提出严苛技术标准的公共采购合同，倒逼私营供应商在攻关过程中开展组织学习与工艺创新，从而在更广泛的产业生态中孵化出全新的民用[[Technological Trajectories|技术轨道]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 796–797)]]
+> > **公共采购作为大科学学习媒介** 大科学攻关若仅局限于实验室封闭研发，极易成为高成本的孤岛；其产生广泛民用技术外溢（如互联网、微电子与先进材料）的关键，在于公共部门通过提出严苛技术标准的公共采购合同，促使私营供应商在攻关过程中开展组织学习与工艺创新，从而在更广泛的产业生态中孵化出全新的民用[[Technological Trajectories|技术轨道]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 796–797)]]
 
 ---
 
@@ -198,7 +198,7 @@ updated: 2026-11-11
 > **科学社会契约与公共正当性演进维度** 审视大科学高成本演进如何反向推升外部行政审计、终结基础研究的免检特权。
 >
 > > [!claim] [[Argument_Fan_2026_BCAS|樊春良 (2026)]]
-> > **大科学成本膨胀终结基础研究免检特权** 樊春良指出，2010 年代以来美国科学的社会契约陷入结构性危机，不仅源于外部行政绩效问责（如 GPRAMA 法案）与使命导向的施压，更源于科学体系内部大科学模式的演进规律。[[Megascience Installations|大科学装置]]与跨学科巨型工程的扩张推高了单项科研任务的财政消耗与机会成本，倒逼国会与纳税人强化对其即时战略效用与可审计性的刚性要求。高昂的大科学成本与学术界[[Reproducibility Crisis|可重复性危机]]产生共振，剥夺了基础科学自二战以来享有的免检资助地位，迫使国家科技治理加速向强调确定性技术获取与程序可控的[[Technology-Oriented Social Contract|技术型社会契约]]滑动。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
+> > **大科学成本膨胀终结基础研究免检特权** 樊春良指出，2010 年代以来美国科学的社会契约陷入结构性危机，不仅源于外部行政绩效问责（如 GPRAMA 法案）与使命导向的施压，更源于科学体系内部大科学模式的演进规律。[[Megascience Installations|大科学装置]]与跨学科巨型工程的扩张推高了单项科研任务的财政消耗与机会成本，促使国会与纳税人强化对其即时战略效用与可审计性的刚性要求。高昂的大科学成本与学术界[[Reproducibility Crisis|可重复性危机]]产生共振，剥夺了基础科学自二战以来享有的免检资助地位，迫使国家科技治理加速向强调确定性技术获取与程序可控的[[Technology-Oriented Social Contract|技术型社会契约]]滑动。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 
 ---
 
@@ -241,7 +241,7 @@ updated: 2026-11-11
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **物理目标与社会问题不可[[Commensuration\|通约]]** | 大科学擅长明确物理极限突破，套用于复杂社会系统必然遭遇失灵 | 科技使命政策跨领域迁移评估 | Weinberg (1967); [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018)]] |
-> | **公共采购与供应链技术外溢** | 大科学长期经济价值取决于需求侧高标准采购倒逼产业工艺创新 | 国防与战略大工程民用外溢机制设计 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018)]] |
+> | **公共采购与供应链技术外溢** | 大科学长期经济价值取决于需求侧高标准采购驱动产业工艺创新 | 国防与战略大工程民用外溢机制设计 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018)]] |
 > | **军工大科学与民用创新体系脱节** | 缺乏微观互动与干中学的大科学军工投入无法转化为国民创新竞争力 | 国家创新系统演化与美苏科技体制对比 | [[Argument_Freeman_1995_CJE\|Freeman (1995)]] |
 > | **成本膨胀与契约合法性危机** | 巨额成本推高行政审计，终结了基础科学无需自证的免检资助特权 | 科学社会契约演变与科技政策立法 | [[Argument_Fan_2026_BCAS\|樊春良 (2026)]] |
 > | **高校大科学中心与小科学争资** | 大科学中心模式移植至大学，引发对单 PI 自由探索经费池掠夺争议 | 大学科研体制改革与跨学科中心建设 | [[Argument_Bozeman_2004_JTT\|Bozeman and Boardman (2004)]] |
@@ -253,7 +253,7 @@ updated: 2026-11-11
 
 > [!dev-timeline] 概念演变
 > - **1961 — 大科学概念提出与反思** 阿尔温·温伯格（[[Alvin Weinberg]]）在《科学》（Science）首次系统提出 Big Science 概念，反思国家实验室层级化治理与社会问题失灵。
-> - **1963 — [[Bibliometric Analysis|科学计量学]]奠基与增长指数** [[Derek de Solla Price|德里克·德索拉·普赖斯]]（Derek J. de Solla Price）出版《小科学，大科学》（*Little Science, Big Science*），确立科学文献每 10–15 年翻番的指数律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 161–164)]]
+> - **1963 — [[Bibliometric Analysis|科学计量学]]开创与增长指数** [[Derek de Solla Price|德里克·德索拉·普赖斯]]（Derek J. de Solla Price）出版《小科学，大科学》（*Little Science, Big Science*），确立科学文献每 10–15 年翻番的指数律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 161–164)]]
 > - **1965 — [[Committee on Science and Public Policy|COSPUP]] 划定小科学与大科学界限** 国家科学院[[Committee on Science and Public Policy|科学与公共政策委员会]]（COSPUP）发布《[[Basic Research and National Goals 1965|基础研究与国家目标]]》报告，将巨型工程装置的大科学与学者自由构想的小科学（即大学基础研究）严格区分，并设定小科学每年 15% 稳定预算增长基准，防止基础科学被巨型大科学工程挤压。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
 > - **1984 — 大科学模式向大学系统移植** 美国国家科学基金会（NSF）设立工程研究中心（ERC），推动跨学科大合作协议进入民用高校。
 > - **2015 — 万人署名大科学极值展现** 欧洲核子研究中心（CERN）发表 5,154 人联合署名成果，创下单篇文献署名人数世界纪录。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 124–125)]]
@@ -301,9 +301,9 @@ updated: 2026-11-11
 > | [[Social Contract of Science]] | 理论 | 基础科学与国家之间的公共资助契约，大科学成本膨胀与审计刚性化推升了契约合法性危机。 |
 > | [[National Innovation System]] | 概念 | 国家的制度性科研架构，冷战经验揭示缺乏民用微观反馈的封闭军工大科学易引发系统失灵。 |
 > | [[Alvin Weinberg]] | 人物 | 橡树岭国家实验室主任，最早提出大科学概念并系统反思大科学工程向社会问题迁移的局限性。 |
-> | [[Derek de Solla Price]] | 人物 | 科学计量学奠基人，在《小科学，大科学》（1963）中奠定科学知识与人员指数增长规律。 |
+> | [[Derek de Solla Price]] | 人物 | 科学计量学开创者，在《小科学，大科学》（1963）中确立科学知识与人员指数增长规律。 |
 > | [[Dashun Wang]] | 人物 | 计算科学学者，实证确立大小团队组织规模创新分工法则及学术劳动力管道梗阻机制。 |
-> | [[Mariana Mazzucato]] | 人物 | [[Mission-Oriented Innovation Policy\|使命导向创新政策]]学者，系统剖析大科学攻关在需求侧公共采购倒逼产业工艺创新的外溢机制。 |
+> | [[Mariana Mazzucato]] | 人物 | [[Mission-Oriented Innovation Policy\|使命导向创新政策]]学者，系统剖析大科学攻关在需求侧公共采购驱动产业工艺创新的外溢机制。 |
 
 ---
 

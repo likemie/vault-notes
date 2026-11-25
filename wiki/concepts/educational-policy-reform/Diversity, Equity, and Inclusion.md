@@ -44,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-11-15
+updated: 2026-11-25
 ---
 
 ---
@@ -131,6 +131,18 @@ updated: 2026-11-15
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] | [[National Science Foundation\|美国国家科学基金会]]（NSF）资助项目（2021–2024） | 联邦科研预算与政策追踪 | 重点涉及 DEI 倡议的资助份额变化 | 重点涉及 DEI 倡议的资助份额由不足 1% 激增至 25% 以上 | — | 说明联邦科研资助在特定历史阶段对多元性倡议的倾斜幅度 |
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Academic Freedom]] | 概念 | DEI 框架的合规性要求常与学者的个人学术自由形成制度张力。 |
+> | [[Competitiveness]] | 概念 | 科技政策探讨在科研资助中平衡群体代表性与国家硬核科学竞争力。 |
+> | [[Gold Standard Science]] | 概念 | 强调回归以客观学术优劣为核心的评价标尺，纠偏过度的非学术身份考核。 |
+> | [[National Science Foundation]] | 事实 | 美国国家科学基金会曾在特定阶段将包容性计划深度整合入同行评审准则。 |
+> | [[National Aeronautics and Space Administration]] | 事实 | 联邦航天机构在项目评审中曾推行包容性计划考核。 |
 
 ---
 

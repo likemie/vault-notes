@@ -14056,7 +14056,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
       ],
-      "title": ""
+      "title": "Schullaufbahnempfehlungen von Lehrkräften für Kinder am Ende des vierten Jahrgangs"
     },
     "Bos et al., 2012": {
       "doi": "",
@@ -33317,10 +33317,8 @@
     "Ehmke & Jude, 2010": {
       "doi": "",
       "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
-      ],
-      "title": ""
+      "seen_in": [],
+      "title": "Soziale Herkunft und Kompetenzerwerb"
     },
     "Ehmke et al., 2010": {
       "doi": "https://doi.org/10.1016/j.stueduc.2010.05.002",
@@ -40368,7 +40366,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
       ],
-      "title": ""
+      "title": "All Systems Go: The Change Imperative for Whole System Reform"
     },
     "Fullan, 2011": {
       "doi": "",
@@ -52741,7 +52739,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
       ],
-      "title": ""
+      "title": "Schulentwicklung durch Gestaltungsautonomie"
     },
     "Holtz, 2002": {
       "doi": "",
@@ -63356,7 +63354,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
       ],
-      "title": ""
+      "title": "Der Mythos der nordischen Schulsysteme"
     },
     "Kobayashi, 2005": {
       "datasets": [
@@ -65684,10 +65682,11 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md",
         "wiki/facts/global/PISA.md",
         "wiki/facts/global/TIMSS.md"
       ],
-      "title": ""
+      "title": "What works best in school? Hatties Befunde zu Effekten von Schul- und Unterrichtsvariablen auf Schulleistungen"
     },
     "Köller, 2012a": {
       "doi": "",
@@ -78513,7 +78512,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
       ],
-      "title": ""
+      "title": "All Systems Go: The Change Imperative for Whole System Reform"
     },
     "Michael Huberman, 1994": {
       "doi": "",
@@ -81260,7 +81259,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
       ],
-      "title": ""
+      "title": "How the world's most improved school systems keep getting better"
     },
     "Moustakas, 1994": {
       "doi": "",
@@ -97302,7 +97301,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
       ],
-      "title": ""
+      "title": "Qualität mit System"
     },
     "Rolfhus, 2012": {
       "datasets": [
@@ -108338,7 +108337,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md",
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
       ],
       "title": "Ich bin superwichtig!"
     },
@@ -110789,7 +110789,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
       ],
-      "title": ""
+      "title": "Der Übergang von der Primar- in die Sekundarstufe"
     },
     "Stubbs & Delamont, 1976": {
       "doi": "",
@@ -129062,7 +129062,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md",
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md",
         "wiki/arguments/journal-articles/Educational Philosophy and Theory/Argument_Rømer_2018_EPT.md",
         "wiki/arguments/journal-articles/Journal of Curriculum Studies/Argument_Terhart_2011_JCS.md",
         "wiki/arguments/journal-articles/Nordic Psychology/Argument_Nielsen_2021_NordPsych.md",
@@ -129604,14 +129603,6 @@
       ],
       "title": ""
     },
-    "德国舆论与部分学者依据哈蒂, 2009": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
-      ],
-      "title": ""
-    },
     "德容等, 2023": {
       "doi": "",
       "isbn": "",
@@ -129988,14 +129979,6 @@
       "seen_in": [
         "wiki/persons/germany/Wolfgang Streeck.md",
         "wiki/theories/political-economy-geopolitics/Theory of Gradual Institutional Change.md"
-      ],
-      "title": ""
-    },
-    "施皮瓦克, 2013": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
       ],
       "title": ""
     },
@@ -130660,14 +130643,6 @@
       ],
       "title": ""
     },
-    "科勒, 2012": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
-      ],
-      "title": ""
-    },
     "科塞勒克, 2006": {
       "doi": "",
       "isbn": "",
@@ -130878,14 +130853,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-policy-reform/School Effectiveness.md"
-      ],
-      "title": ""
-    },
-    "而富兰, 2010": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
       ],
       "title": ""
     },
