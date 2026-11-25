@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-01
-updated: 2026-11-23
+updated: 2026-11-26
 ---
 
 ---
@@ -103,6 +103,9 @@ updated: 2026-11-23
 > [!claim] [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]]
 > **推论逻辑与自上而下抽样规范** 量化研究的信度与效度高度依赖从研究总体向下推导样本的规范流程。不成熟的研究往往采用自下而上的倒置操作，仅凭便利性选定最低受访者数量而未提前精确定义目标总体与抽样框，导致推论外推边界彻底模糊。通过严格界定抽样框、核算统计效力所需的适度样本量，并借助概率抽样使每个总体单元具有已知非零入选概率，研究者能够最大限度削减抽样误差，确保对总体参数的区间估计具有统计可靠性。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 8)]]
 
+> [!claim] Kremers, T.
+> **元分析样本制度结构对跨国学制外推的边界约束** 托马斯·克雷默斯（Thomas Kremers）在审读《[[Visible Learning|可见的学习]]》在德国的传播误读时指出，二阶[[Meta-analysis|元分析]]样本的制度同质性直接制约其[[External Validity|外部效度]]边界：哈蒂研究汇总的英语国家基础研究样本几乎均取自一体化综合制学校体系（对应德国[[Gesamtschule|综合中学]]），因而在样本层面并不覆盖早期分流的德国多轨制学校结构；脱离该研究样本背景直接断言“改变德国学校结构对学习成绩影响微乎其微”，构成了无视样本总体边界的外推谬误。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, p. 79)]]
+
 ---
 
 > [!concept-proposition] 命题二｜样本准入可行性与守门人权力网络直接制约抽样策略的实际落地
@@ -116,7 +119,7 @@ updated: 2026-11-23
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **统计推论与代表性** | 从目标总体严格推导样本并控制抽样框误差，确立[[External Validity\|外部效度]]推广基石。 | 调查研究、问卷设计、概率抽样评估 | Creswell & Creswell |
+> | **统计推论与代表性** | 从目标总体严格推导样本并控制抽样框误差；警惕脱离元分析样本制度背景的跨国外推谬误。 | 调查研究、概率抽样评估、跨国元分析样本外推 | Creswell & Creswell；[[Argument_Kremers_2014_CooperativeLearning\|Kremers (2014)]] |
 > | **准入可行性与守门人** | 协调守门人权力网络与实地阻碍，控制无应答偏差并维护数据伦理安全。 | 学校与组织田野研究、受保护人群调查、敏感议题数据采集 | Creswell & Creswell |
 
 ---
@@ -152,11 +155,14 @@ updated: 2026-11-23
 > | [[Sample Size Determination]] | 方法 | 依据统计功效与置信水平确定样本容量规模的测算程序。 |
 > | [[Non-probability Sampling]] | 方法 | 在无法获取完备抽样框或资源有限时采取的替代性抽样策略。 |
 > | [[Convenience Sampling]] | 方法 | 常见但代表性受限的非概率抽样方式，易削弱结论推广力。 |
+> | [[Meta-analysis]] | 方法 | 二阶合成研究中原始研究样本的制度结构共同限定了结论的跨国外推边界（[[Argument_Kremers_2014_CooperativeLearning\|Kremers, 2014, p. 79]]）。 |
 > | [[External Validity]] | 概念 | 样本代表性与抽样无偏性直接决定的研究结论外推范围。 |
 > | [[Gatekeepers]] | 概念 | 掌握目标群体接触权限的组织权力角色，直接制约抽样可达性。 |
 > | [[Response Bias]] | 概念 | 实际回应者与拒答者系统性差异导致的样本失真现象。 |
+> | [[Gesamtschule]] | 事实 | 英语综合制学校样本在德国教育制度中的对应参照形态。 |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 详尽解析量化调查研究中从研究总体、抽样框到实际样本的推论逻辑，提出五大抽样决策要素与方法论报告标准。
+> - [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014)]] — 以英语综合制学校样本不可直接外推至德国多轨制为例，揭示二阶元分析研究样本的制度边界约束（p. 79）。

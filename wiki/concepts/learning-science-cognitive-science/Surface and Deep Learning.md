@@ -68,7 +68,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-11-03
+updated: 2026-11-26
 ---
 
 ---
@@ -76,7 +76,7 @@ updated: 2026-11-03
 > [!def] Surface and Deep Learning
 > 表层学习（surface learning）与深层学习（deep learning）描述学生处理某项具体任务的方式。采用表层方式时，学生把注意力放在可能被考查的事实和程序上，使用与理解目标不相称的低阶活动，因而只获得彼此割裂的信息。采用深层方式时，学生以理解整体意义为目标，主动建立事实、概念、论证与情境之间的联系，并据此解释、应用或迁移所学。两者都是**任务中的活动取向**，不表示两类固定人格。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 57–60)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 这组概念关注学生的[[Learning Intentions\|学习意图]]、材料组织方式，以及学习活动能否完成当前任务，不以记忆数量作为唯一标准。
 > - **用途** 它把学习质量与教学设计连接起来。教师可以通过目标、活动、互动和评估，改变学生完成任务时采用的学习方式。
 > - **边界** 表层知识具有基础作用，记忆也不必然等于[[Rote Learning\|机械学习]]。需要判断事实性知识是学习终点，还是建立联系、解释和迁移的基础。[[Argument_Hattie_2015_SOTLP\|Hattie (2015a, pp. 80, 84–85)]]
@@ -158,6 +158,9 @@ updated: 2026-11-03
 > [!claim] [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]]
 > **认知复杂性进阶与高阶探究前置失效** 依据可观察学习结果结构（[[SOLO Taxonomy|SOLO]]）认知模型，从表层事实掌握到深层整合与跨情境迁移具有不可颠倒的上升阶梯；全球约 90% 宣称推行基于问题的学习（PBL）的学校在学生尚未夯实表层概念基础时即盲目引入自主探究，正是导致高阶探究在[[Meta-analysis|元分析]]中[[Effect Size|效应量]]低下的根源。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 258)]]
 
+> [!claim] Kremers, T.
+> **合作学习分阶段整合表层识记与深层理解** 托马斯·克雷默斯（Thomas Kremers）援引[[John Hattie|哈蒂]]（Hattie, 2013, p. 34）阐明，高效的[[Cooperative Learning|合作学习]]之所以能够兼顾基础巩固与认知深度，在于其达成了表层学习与深层学习的平衡：学生先在个体独立学习环节以偏记忆复现的方式扎实掌握基础信息，随后借助[[Graphic Organizer|图形组织器]]（如[[Mind Mapping|思维导图]]、[[Concept Mapping|概念图]]）在配对与小组对话中贯通关联并迈向更高理解层次，而适切的[[Metacognition|元认知]]策略正是促成从表层吸纳向深层建构转化的必要条件。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, p. 86)]]
+
 ---
 
 > [!concept-proposition] 命题三｜目标、评估与互动条件共同决定学生是否有必要深入学习
@@ -183,7 +186,7 @@ updated: 2026-11-03
 > | 命题类型 | 核心指向 | 适用情境 | 代表研究者 |
 > |---|---|---|---|
 > | 情境性 | 学习取向是学生活动与教学情境交互的结果 | 解释学生差异与教学责任 | Biggs |
-> | 适切性 | 活动要与目标和先备知识相称 | 选择讲授、练习、探究与应用活动 | Biggs；Hattie；McPhail et al. |
+> | 适切性 | 活动要与目标、先备知识及合作分阶段递进相称 | 选择讲授、练习、探究、合作学习与图形组织活动 | Biggs；Hattie；McPhail et al.；[[Argument_Kremers_2014_CooperativeLearning\|Kremers (2014)]] |
 > | 对齐性 | 目标、活动、互动和评估必须发出一致信号 | 课程与评估设计 | Biggs；Hattie |
 > | 文化过程性 | 相同外显行为可处在不同的学习序列中 | 跨文化解释记忆、重复与课堂参与 | Li |
 
@@ -260,26 +263,29 @@ updated: 2026-11-03
 >
 > | 条目 | 类型 | 贡献与核心关联说明 |
 > |---|---|---|
-> | [[Learning Intentions]] | 核心机制 | 学生的学习意图决定其在具体任务中采取表层应付还是深层理解取向。 |
-> | [[Constructive Alignment]] | 教学原理 | 确保教学目标、学习活动与评估方式保持一致，防止表层应试反拨。 |
-> | [[Assessment Backwash]] | 影响机制 | 考试评价的实际形式对学生活动取向产生决定性的回冲效应。 |
-> | [[Curriculum Design Coherence Model]] | 课程框架 | 将深层学习具体化为命题知识与应用知识之间的显性连贯连接。 |
-> | [[Problem-Based Learning]] | 教学方法 | 通过高阶认知任务推动学生开展问题提出、联系与假设检验。 |
-> | [[Direct Instruction]] | 教学方法 | 提供掌握表层事实性知识的[[Structured Teaching\|结构化教学]]支持，为深层加工奠定基础。 |
-> | [[Paradox of the Chinese Learner]] | 文化研究 | 修正对东方学习者记忆与重复行为的刻板印象，阐明记忆通向理解的阶梯。 |
-> | [[Dynamic Knowledge and Learning Model]] | 理论模型 | 区分事实、操作、意义与边界多层知识，反思单一[[Academic Achievement\|学业成就]]指标化简。 |
-> | [[John Biggs]] | 代表学者 | 提出建构性对齐理论与表层/深层学习取向的教学[[Analytic Framework\|分析框架]]。 |
-> | [[John Hattie]] | 代表学者 | 探讨表层与深层知识在教学干预中的分期与进阶衔接机制。 |
+> | [[Learning Intentions]] | 概念 | 学生的学习意图决定其在具体任务中采取表层应付还是深层理解取向。 |
+> | [[Constructive Alignment]] | 概念 | 确保教学目标、学习活动与评估方式保持一致，防止表层应试反拨。 |
+> | [[Assessment Backwash]] | 概念 | 考试评价的实际形式对学生活动取向产生决定性的回冲效应。 |
+> | [[Problem-Based Learning]] | 概念 | 通过高阶认知任务推动学生开展问题提出、联系与假设检验。 |
+> | [[Direct Instruction]] | 概念 | 提供掌握表层事实性知识的[[Structured Teaching\|结构化教学]]支持，为深层加工奠定基础。 |
+> | [[Paradox of the Chinese Learner]] | 概念 | 修正对东方学习者记忆与重复行为的刻板印象，阐明记忆通向理解的阶梯。 |
+> | [[Cooperative Learning]] | 概念 | 以独学打底、图形组织器对接同伴对话与元认知反思实现表层与深层平衡。 |
+> | [[Metacognition]] | 概念 | 调控学生从表层事实吸纳转向深层结构建构的关键策略机制。 |
+> | [[Curriculum Design Coherence Model]] | 理论 | 将深层学习具体化为命题知识与应用知识之间的显性连贯连接。 |
+> | [[Dynamic Knowledge and Learning Model]] | 理论 | 区分事实、操作、意义与边界多层知识，反思单一[[Academic Achievement\|学业成就]]指标化简。 |
+> | [[John Biggs]] | 人物 | 提出建构性对齐理论与表层/深层学习取向的教学[[Analytic Framework\|分析框架]]。 |
+> | [[John Hattie]] | 人物 | 探讨表层与深层知识在教学干预中的分期与进阶衔接机制。 |
 
 ---
 
-> [!evidence-grid] 相关研究索引
-> - [[Argument_Biggs_1999_HERD\|Biggs (1999)]] 把表层与深层学习界定为具体任务中的活动方式，并通过教学方法、概念改变和[[Constructive Alignment\|建构性对齐]]说明教师如何改变学习取向。
-> - [[Argument_Hattie_2015_SOTLP\|Hattie (2015a)]] 将表层知识视为深层理解的重要基础，同时用笔记复习、[[Problem-Based Learning\|问题本位学习]]和[[Assessment Backwash\|评估反拨]]说明不同学习层次需要恰当衔接。
-> - [[Argument_Li_2012_Cambridge\|Li (2012)]] 通过[[Chinese Learner\|中国学习者]]研究修正将记忆直接等同于表层学习的判断，强调外显行为在完整学习序列中的不同功能。
-> - [[Argument_Qvortrup_2015_Paideia\|Qvortrup (2015)]] 指出抽象的学习结果会掩盖表层、深层与概念理解的测量差异，并提出动态知识层次作为修正。
-> - [[Argument_Rømer_2018_EPT\|Rømer (2018)]] 从教育哲学角度批评 Hattie 对学习层次和波普尔三个世界的映射，揭示概念扩展中的理论风险。
-> - [[Argument_McPhail_2023_JCS\|McPhail et al. (2023)]] 把深层学习转化为[[Knowledge-that and Know-how-to\|知其然]]与知其所用之间可展示、可阐述的连接，并用于诊断课程知识组织的连贯性。
-> - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] 依据 [[SOLO Taxonomy|SOLO]] 认知模型阐释表层知识向深层探究的进阶机制，指出全球约 90% 的学校因错位提前应用基于问题的学习导致效能滑坡。
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Biggs_1999_HERD\|Biggs (1999)]] — 把表层与深层学习界定为具体任务中的活动方式，并通过教学方法、概念改变和[[Constructive Alignment\|建构性对齐]]说明教师如何改变学习取向。
+> - [[Argument_Hattie_2015_SOTLP\|Hattie (2015a)]] — 将表层知识视为深层理解的重要基础，同时用笔记复习、[[Problem-Based Learning\|问题本位学习]]和[[Assessment Backwash\|评估反拨]]说明不同学习层次需要恰当衔接。
+> - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 通过[[Chinese Learner\|中国学习者]]研究修正将记忆直接等同于表层学习的判断，强调外显行为在完整学习序列中的不同功能。
+> - [[Argument_Qvortrup_2015_Paideia\|Qvortrup (2015)]] — 指出抽象的学习结果会掩盖表层、深层与概念理解的测量差异，并提出动态知识层次作为修正。
+> - [[Argument_Rømer_2018_EPT\|Rømer (2018)]] — 从教育哲学角度批评 Hattie 对学习层次和波普尔三个世界的映射，揭示概念扩展中的理论风险。
+> - [[Argument_McPhail_2023_JCS\|McPhail et al. (2023)]] — 把深层学习转化为[[Knowledge-that and Know-how-to\|知其然]]与知其所用之间可展示、可阐述的连接，并用于诊断课程知识组织的连贯性。
+> - [[Argument_Knudsen_2017_NordSTEP\|Knudsen (2017)]] — 依据 [[SOLO Taxonomy\|SOLO]] 认知模型阐释表层知识向深层探究的进阶机制，指出全球约 90% 的学校因错位提前应用基于问题的学习导致效能滑坡。
+> - [[Argument_Kremers_2014_CooperativeLearning\|Kremers (2014)]] — 阐明[[Cooperative Learning\|合作学习]]依托独学打底、图形组织与元认知策略实现表层与深层学习的动态平衡（p. 86）。
 
 ---

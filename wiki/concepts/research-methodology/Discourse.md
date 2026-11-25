@@ -118,7 +118,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-21
+updated: 2026-11-26
 ---
 
 ---
@@ -283,12 +283,12 @@ updated: 2026-11-21
 > | [[Conversation Analysis]] | 方法 | 会话分析，考察面对面言语互动中发言轮次与微观秩序的建构。 |
 > | [[Knowledge Power]] | 概念 | 知识权力，话语建构真理标准并实施主体规训的核心机制。 |
 > | [[Epistemic Governance]] | 概念 | 认知治理，通过概念[[Paradigm\|范式]]、数据指标与专业话语间接塑造治理对象的认知。 |
-> | [[Discursive Institutionalism]] | 理论 | 话语制度主义，区分协调性话语与交流性话语在政策变迁中的制度功能。 |
 > | [[Global Educational Discourse]] | 概念 | 全球教育话语，跨国多边机构在流动空间中生产的去情境化普遍主义政策话语。 |
 > | [[Floating Signifier]] | 概念 | 漂浮能指，高语义可塑性与形象稳定性的空洞符号，用于动员跨国政策共识。 |
 > | [[Recontextualization]] | 概念 | 再情境化，外部抽象话语进入本土场域时发生的结构性选择与形变重构。 |
 > | [[Policy Mobility]] | 概念 | 政策流动，话语超越主权国家边界进行多标量穿透流转的动态过程。 |
 > | [[Order of Discourse]] | 概念 | 话语秩序，特定社会或机构内部支配合法言说与禁忌的话语配置结构。 |
+> | [[Discursive Institutionalism]] | 理论 | 话语制度主义，区分协调性话语与交流性话语在政策变迁中的制度功能。 |
 > | [[Basil Bernstein]] | 人物 | 提出话语的再情境化场域（ORF/PRF），奠定话语转译形变理论基础。 |
 
 ---
