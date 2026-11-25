@@ -91,7 +91,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-07-22
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 
 ---
@@ -195,3 +195,4 @@ updated: 2026-11-24
 > - [[Argument_Hogan_2013_ROE|Hogan et al. (2013)]] — 对新加坡中三典型数学与英语执教教师开展半结构化个案访谈，深度考察教师在国家课程改革大纲要求与高利害考试选拔压力之间的微观实践抉择（p. 89）。
 > - [[Argument_McCormick_2012_CER|McCormick (2012)]] — 在柬埔寨与老挝针对政府部委、双边与多边捐助机构、学术界及非政府组织共 19 位教育发展政策行动者开展英语半结构化访谈，剖析援助协调中的权力关系。（pp. 20, 43–44）
 > - [[Argument_Maassen_Stensaker_2019_HEQ|Maassen and Stensaker (2019)]] — 针对 5 国公立大学跨 4 个学科院系的系主任、学者与行政主管开展 50 余场半结构化访谈，实证考察纵向科层强化下行政管理与学术实践的脱钩张力（pp. 459–460）。
+> - [[Argument_VanderKloet_Campisi_2023_JHEPM|Vander Kloet and Campisi (2023, pp. 659–661)]] — 针对加拿大 5 所大学 19 位科研管理人员开展 75–90 分钟半结构化访谈，并反思访谈互动本身作为学术权力关系运作场域的主体化特征。

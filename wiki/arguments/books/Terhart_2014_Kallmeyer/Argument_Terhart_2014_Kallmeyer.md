@@ -76,13 +76,13 @@ updated: 2026-11-25
 > [!chapter-roadmap] 阅读进度
 > - **准备完成** 十一篇文章已分别转换为十一个 TXT，原有脚注与参考[[Document|文献]]随文章保留。
 > - **阅读顺序** 按目录从第 1 篇开始推进。
-> - **当前进度** 已完成第 1 篇论证页（[[Argument_Terhart_2014_HolyGrail]]）、第 2 篇论证页（[[Argument_Koller_2014_WhatWorks]]）与第 3 篇论证页（[[Argument_Brugelmann_2014_LocalPractice]]）；后续各篇具体主张、证据评价与跨篇综合留待逐篇推进。
+> - **当前进度** 已完成第 1 篇论证页（[[Argument_Terhart_2014_HolyGrail]]）、第 2 篇论证页（[[Argument_Koller_2014_WhatWorks]]）、第 3 篇论证页（[[Argument_Brugelmann_2014_LocalPractice]]）与第 4 篇论证页（[[Argument_VonOlberg_2014_GeneralDidactics]]）；后续各篇具体主张、证据评价与跨篇综合留待逐篇推进。
 
 > [!chapter-index] 篇章阅读入口
 > - **第 1 篇，学校与教学研究的圣杯找到了吗** [[Argument_Terhart_2014_HolyGrail|Der Heilige Gral der Schul- und Unterrichtsforschung – gefunden? Eine Auseinandersetzung mit Visible Learning]]。[[Ewald Terhart]]，pp. 10–23。系统剖析二阶[[Meta-analysis|元分析]]的统计汇总方法、关键阈值与时效质控缺陷，解构激活型与促进型教师模型及对[[Constructivist Instruction|建构主义教学]]的批判，并从[[Process-Product Paradigm|过程-结果范式]]、[[Streetlight Effect|路灯效应]]、福柯式可见性规训与教育狂热修辞剖析其理论局限，终结终极圣杯神话。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch01_Terhart_Holy_Grail_of_Educational_Research.txt)。已完成解读。
 > - **第 2 篇，学校中什么最有效** [[Argument_Koller_2014_WhatWorks|What works best in school? Hatties Befunde zu Effekten von Schul- und Unterrichtsvariablen auf Schulleistungen]]。[[Olaf Köller]]，pp. 24–37。从德语区实证教育研究视界综合评析哈蒂二阶元分析，区隔[[Three Basic Dimensions of Teaching Quality|表层结构与深层结构]]，将高效教学措施系统归入班级管理、[[Cognitive Activation|认知激活]]与[[Constructive Support|建设性支持]]三大基准维度，确立切近微观课堂过程的循证改进规程。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch02_Koller_What_Works_Best_in_School.txt)。已完成解读。
 > - **第 3 篇，依据[[John Hattie|哈蒂]]，越频繁就越好吗** [[Argument_Brugelmann_2014_LocalPractice|Gilt nach Hattie: Je häufiger, desto besser? Zur Bedeutung von „Evidenzbasierung“ für pädagogisches Handeln vor Ort]]。Hans Brügelmann，pp. 38–50。审读大样本标准化统计对个案行动推论的[[Epistemology|认识论]]限度，引入均值陷阱与课程测不准原理，解构教学法内容中立性与二阶元分析[[Implementation Fidelity|实施保真度]]缺陷，还原循证医学三要素对等整合本义，确立以[[Teacher-as-Researcher|教师即研究者]]与累积性个案检验为轴心的微观循证实践转向。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch03_Brugelmann_Evidence_and_Local_Practice.txt)。已完成解读。
-> - **第 4 篇，哈蒂是否建立了一种一般教学论** Evidence-Based Teaching: Hat John Hattie eine Allgemeine [[Didaktik]] entwickelt?。Hans-Joachim von Olberg，pp. 51–66。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch04_VonOlberg_Evidence_Based_Teaching.txt)。待解读。
+> - **第 4 篇，哈蒂是否建立了一种一般教学论** [[Argument_VonOlberg_2014_GeneralDidactics|Evidence-Based Teaching: Hat John Hattie eine Allgemeine Didaktik entwickelt?]]。[[Hans-Joachim von Olberg]]，pp. 51–66。剖析哈蒂教师手册的双重联结与非实证隐含支柱，将其置于跨大西洋[[Instructional Design|教学设计]]与英美[[Evidence-Based Teaching|循证教学]]（沃尔伯格、马扎诺、[[Geoff Petty|佩蒂]]、[[Evidence-Based Teachers Network|EBTN]]）谱系，对照克朗五级分类与四层教学知识整合图式，判定其因目标论证、学校制度与课程内容三重缺口而仅属单向度方面教学论。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch04_VonOlberg_Evidence_Based_Teaching.txt)。已完成解读。
 
 > [!chapter-index] 篇章阅读入口
 > - **第 5 篇，学校结构因素真的不重要吗** Sind schulische Strukturfaktoren wirklich nicht so wichtig? Hattie und das deutsche Schulsystem。Hans-Günter Rolff，pp. 67–77。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch05_Rolff_School_Structural_Factors.txt)。待解读。

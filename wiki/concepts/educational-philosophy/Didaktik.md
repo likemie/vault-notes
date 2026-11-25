@@ -64,7 +64,7 @@ related_arguments:
 confidence: medium
 status: active
 created: '2026-05-06'
-updated: 2026-11-23
+updated: 2026-11-25
 ---
 
 ---
@@ -155,6 +155,9 @@ updated: 2026-11-23
 > [!claim] Hopmann, S.
 > **克制型教学与内容意义的生成性相遇** 斯特凡·霍普曼（[[Argument_Hopmann_2007_EERJ|Hopmann, 2007]]）论证，教学论各学派共同秉持[[Restrained Teaching|克制型教学]]（Restrained Teaching）原则。教学行动的核心专业判断体现于区分客观教学内容（Inhalt）与教育性内涵（Gehalt），通过审慎节制外部干预，在具体课堂相遇中为学生个体精神的世界性敞开提供可能。评价教学质量的准绳是教育意义的动态生成，而非标准化测试所测查的封闭掌握度。[[Argument_Hopmann_2007_EERJ|(Hopmann, 2007, pp. 115–117)]]
 
+> [!claim] [[Hans-Joachim von Olberg|von Olberg, H.-J.]]
+> **一般教学论的四层知识整合与循证教学论的方面局限** 汉斯-约阿希姆·冯·奥尔贝格（[[Hans-Joachim von Olberg]]）将教学论界定为研究“教的条件下的学习”的多层级知识形态。对照弗里德里希·W. 克朗（Friedrich W. Kron）2008 年的教学论五级范围谱系，以[[John Hattie|约翰·哈蒂]]（John Hattie）、罗伯特·J. 马扎诺（[[Robert Marzano|Robert J. Marzano]]）与[[Geoff Petty|杰夫·佩蒂]]（Geoff Petty）为代表的[[Evidence-Based Teaching|循证教学]]仅对应“学习过程调控理论”与“心理教学理论应用”两个较窄层级，且在目标论证、学校制度情境及课程内容关联上存在结构缺口，因此只构成一种单向度的方面教学论（Aspekt-Didaktik）。健全的专业教学要求教师在职业成长中将日常知识（Alltagswissen）、职业规则知识（Berufswissen）与系统科学知识（Wissenschaftliches Wissen）整合为专业知识（Professionswissen）。[[Argument_VonOlberg_2014_GeneralDidactics|(von Olberg, 2014, pp. 51, 61–65)]]
+
 ---
 
 > [!contrast-table] 所有命题归纳
@@ -174,6 +177,7 @@ updated: 2026-11-23
 > - **2006年 — 后 [[PISA]] 实证转型与普通教学论危机** [[Alexander Oettl|厄特尔]]（[[Argument_Ertl_2006_ORE|Ertl, 2006]]）系统剖析德意志教学大纲与教学论传统的历史遭遇：传统大纲深受实质教学论影响，将教学分析置于核心并坚守评价不进课程的传统信念；PISA 震荡后国家推行产出导向胜任力标准，引发教育科学界普通教学论与[[Empirische Unterrichtsforschung|实证教学研究]]的学科[[Paradigm|范式]]冲突与基层备课真空（pp. 623–624, 627–629）。
 > - **2007年 — 霍普曼提炼克制型教学共同核心** 霍普曼系统考掘欧陆教学论的共同基石为克制型教学，从内容与意义差异及教与学自主性视阈，批判能力本位测试对教学法自由与教化追求的制度瓦解。[[Argument_Hopmann_2007_EERJ|(Hopmann, 2007, pp. 109, 118–121)]]
 > - **2014年 — 德语区学科教学论对话与“圣杯神话”去魅** 特哈特主持编撰《讨论中的哈蒂研究》（[[Argument_Terhart_2014_HolyGrail|Terhart, 2014]]），厘清建构主义属于认知理论而非放任教学模式，从过程-结果范式的[[Streetlight Effect|路灯效应]]批判标准化测验对道德判断、审美陶冶与文化反思等教学论核心维度的遮蔽，将巨型综合定性为启发教学反思的经验矿藏。
+> - **2014年 — 循证教学的“方面教学论”定性与知识层级批判** 冯·奥尔贝格（[[Argument_VonOlberg_2014_GeneralDidactics|von Olberg, 2014]]）将英美[[Evidence-Based Teaching|循证教学]]纳入跨大西洋教学论对话史，指出其虽对应克朗五级分类中的学习过程调控层级，但因缺少目标论证、学校理论与课程内容关联而难以成为完整的一般教学论，并提出四层教学知识整合框架。
 > - **2014年 — 芬兰跨学科课程改革的理论整合** 教学论传统的时代危机意识与[[Phenomenon-Based Learning|现象本位学习]]取向融合，成为芬兰核心课程政策的哲学底色。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 7]]
 
 ---
@@ -201,10 +205,13 @@ updated: 2026-11-23
 > | [[Bildung]] | 概念 | 德语教学论的终极价值追求，教学由具有教化价值的学科内容作为中介展开。 |
 > | [[Disciplina and Doctrina]] | 概念 | 构成教学论史中规训控制与探究生成良性张力的[[Central Phenomenon\|核心范畴]]对。 |
 > | [[Epochal Key Problems]] | 概念 | 克拉夫基批判建设性教学论组织跨学科课程与面对未知时代危机的核心组织主轴。 |
+> | [[Evidence-Based Teaching]] | 概念 | 源自英美效应量研究的课堂设计取向，在一般教学论谱系中因三重结构缺口而被定性为方面教学论。 |
+> | [[Instructional Design]] | 概念 | 英语世界以学习心理学为根基的教学设计传统，在跨大西洋教育学史中与教学论构成并行对话关系。 |
 > | [[Phenomenon-Based Learning]] | 概念 | 芬兰跨学科核心课程将欧洲教学论传统转化为现代探究教学的实践形态。 |
 > | [[Professional Judgment]] | 概念 | 教学论视域下教师协调内容转化、教化目标与规范要求的核心专业品格。 |
 > | [[Restrained Teaching]] | 概念 | 德语及北欧欧陆教学论传统的共同核心，主张教学通过最小必要介入为教化生成敞开空间。 |
 > | [[Visible Learning]] | 概念 | 英美效能主义代表模型，因抽空学科实质内容与教学三角形而成为当代教学论的批判靶标。 |
+> | [[Hans-Joachim von Olberg]] | 人物 | 德国教学论学者，提出教学知识四层整合模型并系统评判循证教学的一般教学论地位。 |
 
 ---
 
@@ -214,6 +221,7 @@ updated: 2026-11-23
 > - [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz and Klinge (2022)]] — 探讨算法化时代教学论、教化与规范教育的整合星座，反思技术介入对教师教学判断的影响。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 从欧陆教学论与教化传统批判可见学习抽空学科实质内容与课程合法化反思的形式主义局限。
 > - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 编撰德语学界对话专著，从教学论视阈厘清认知建构与积极教学干预的内在兼容性，指出过程-结果范式“路灯效应”对非认知育人维度的排斥，破除终极圣杯神话。
+> - [[Argument_VonOlberg_2014_GeneralDidactics|von Olberg (2014)]] — 从一般教学论四层知识整合与克朗范围分类出发，将哈蒂及英美循证教学定性为缺少目标、制度与课程维度的方面教学论。
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 从教学论与教化传统批判可见学习放逐教学论[[Central Phenomenon|核心范畴]]、以简陋评价图式瓦解三元教学三角形的理论危机。
 > - [[Argument_Hopmann_2007_EERJ|Hopmann (2007)]] — 考掘教学论历史演进，确立克制型教学为教学论诸学派共同基础，并反思标准化能力测评对教学法自由的挤压。
 

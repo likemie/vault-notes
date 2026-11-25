@@ -12679,7 +12679,8 @@
       "doi": "https://doi.org/10.1177/0170840615571960",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md"
+        "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md",
+        "wiki/concepts/higher-education/Penetrated Hierarchies.md"
       ],
       "title": "Organizations as penetrated hierarchies: Environmental pressures and control in professional organizations"
     },
@@ -16459,6 +16460,8 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md",
         "wiki/concepts/higher-education/Complete Organisation.md",
+        "wiki/concepts/higher-education/Horizontal Coordination.md",
+        "wiki/concepts/higher-education/Penetrated Hierarchies.md",
         "wiki/theories/higher-education/Loosely Coupled Systems.md"
       ],
       "title": "Constructing organizations: The example of public sector reform"
@@ -28347,6 +28350,14 @@
       ],
       "title": ""
     },
+    "Dean et al., 2011": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
+      ],
+      "title": ""
+    },
     "Dean, 1990": {
       "datasets": [
         "eef:peer-tutoring"
@@ -28364,6 +28375,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "The efficacy of systematic, explicit literacy instruction in kindergarten and first grade"
+    },
+    "Dean, 2011": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md",
+        "wiki/concepts/instruction-pedagogy/Evidence-Based Teaching.md"
+      ],
+      "title": ""
     },
     "Dean, 2015": {
       "doi": "",
@@ -39625,6 +39645,14 @@
       ],
       "title": ""
     },
+    "Friedrich W. Kron, 2008": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
+      ],
+      "title": ""
+    },
     "Friedrich, 1997": {
       "datasets": [
         "metax:S2420"
@@ -50827,6 +50855,14 @@
       ],
       "title": ""
     },
+    "Herbert Schwetz, 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
+      ],
+      "title": ""
+    },
     "Herbert Simon, 1955": {
       "doi": "",
       "isbn": "",
@@ -57244,6 +57280,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/competency-and-assessment/Critical Thinking Disposition.md"
+      ],
+      "title": ""
+    },
+    "John Dewey, 1938": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
       ],
       "title": ""
     },
@@ -64362,6 +64406,8 @@
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Zapp_2022_Springer.md",
         "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md",
         "wiki/concepts/higher-education/Complete Organisation.md",
+        "wiki/concepts/higher-education/Horizontal Coordination.md",
+        "wiki/concepts/higher-education/Penetrated Hierarchies.md",
         "wiki/concepts/sociology-of-education/Organizational Actorhood.md",
         "wiki/theories/higher-education/Loosely Coupled Systems.md"
       ],
@@ -68159,6 +68205,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/finland/Finnish National Core Curriculum.md"
+      ],
+      "title": ""
+    },
+    "Leppori, 2015": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Penetrated Hierarchies.md"
       ],
       "title": ""
     },
@@ -86036,6 +86090,14 @@
       "seen_in": [],
       "title": "Experimenting the effect of class size on mathematics based performance  A case study of selected public secondary school in Akure, Nigeria"
     },
+    "Olberg, 2004": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
+      ],
+      "title": ""
+    },
     "Oldroyd, 1986": {
       "doi": "",
       "isbn": "",
@@ -93512,6 +93574,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md",
         "wiki/concepts/higher-education/Complete Organisation.md",
+        "wiki/concepts/higher-education/Penetrated Hierarchies.md",
         "wiki/concepts/higher-education/University Social Responsibility.md"
       ],
       "title": "The rationalization of the university"
@@ -120737,6 +120800,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md",
+        "wiki/concepts/higher-education/Penetrated Hierarchies.md",
         "wiki/theories/higher-education/Loosely Coupled Systems.md"
       ],
       "title": "Educational organizations as loosely coupled systems"
@@ -128086,6 +128150,14 @@
       ],
       "title": ""
     },
+    "佩蒂, 2009": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
+      ],
+      "title": ""
+    },
     "先后在埃及亚历山大, 2006": {
       "doi": "",
       "isbn": "",
@@ -128099,6 +128171,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/instruction-pedagogy/Cognitive Activation.md"
+      ],
+      "title": ""
+    },
+    "克朗, 2008": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
       ],
       "title": ""
     },
@@ -128525,6 +128605,14 @@
       ],
       "title": ""
     },
+    "哈蒂, 2012": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
+      ],
+      "title": ""
+    },
     "哈蒂与耶茨, 2013": {
       "doi": "",
       "isbn": "",
@@ -128659,6 +128747,15 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/ireland/Rob Kitchin.md"
+      ],
+      "title": ""
+    },
+    "塞尔与齐勒, 2012": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md",
+        "wiki/concepts/instruction-pedagogy/Instructional Design.md"
       ],
       "title": ""
     },
@@ -129921,6 +130018,14 @@
       ],
       "title": ""
     },
+    "特哈特, 2012": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Instructional Design.md"
+      ],
+      "title": ""
+    },
     "特赖曼, 1970": {
       "doi": "",
       "isbn": "",
@@ -130252,6 +130357,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/university-industry-collaboration/Corporate University.md"
+      ],
+      "title": ""
+    },
+    "考察了, 2012": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/germany/Hans-Joachim von Olberg.md"
       ],
       "title": ""
     },
@@ -130632,6 +130745,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/us/Common Core State Standards.md"
+      ],
+      "title": ""
+    },
+    "转述佩蒂, 2009": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/uk/Geoff Petty.md"
       ],
       "title": ""
     },

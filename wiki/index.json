@@ -11195,6 +11195,18 @@
     ]
   },
   {
+    "title": "Alt-Ac",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Alt-Ac.md",
+    "aliases": [
+      "另类学术",
+      "另类学术职业",
+      "替代性学术职业",
+      "alternative academic",
+      "alt-ac careers"
+    ]
+  },
+  {
     "title": "Anchor Institution",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Anchor Institution.md",
@@ -11584,6 +11596,19 @@
     ]
   },
   {
+    "title": "Horizontal Coordination",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Horizontal Coordination.md",
+    "aliases": [
+      "横向协调",
+      "横向协同",
+      "横向整合",
+      "跨部门协调",
+      "跨部门协同",
+      "Horizontal Integration"
+    ]
+  },
+  {
     "title": "Horizontal Stratification in Higher Education",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Horizontal Stratification in Higher Education.md",
@@ -11846,6 +11871,18 @@
     ]
   },
   {
+    "title": "Penetrated Hierarchies",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Penetrated Hierarchies.md",
+    "aliases": [
+      "穿透型科层",
+      "穿透型层级制",
+      "穿透型科层制",
+      "渗透型层级",
+      "Penetrated Hierarchy"
+    ]
+  },
+  {
     "title": "Performance Capital",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Performance Capital.md",
@@ -11955,6 +11992,18 @@
       "高等教育准市场",
       "academic quasi-markets",
       "quasi-markets"
+    ]
+  },
+  {
+    "title": "Research Administrator",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Research Administrator.md",
+    "aliases": [
+      "科研管理人员",
+      "大学科研管理人员",
+      "科研管理员",
+      "research administration",
+      "research administrators"
     ]
   },
   {
@@ -12680,6 +12729,16 @@
     ]
   },
   {
+    "title": "Evidence-Based Teaching",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Evidence-Based Teaching.md",
+    "aliases": [
+      "循证教学",
+      "evidenzbasierte Didaktik",
+      "循证教学论"
+    ]
+  },
+  {
     "title": "Explicit Teaching Strategies",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Explicit Teaching Strategies.md",
@@ -12873,6 +12932,15 @@
     "path": "wiki/concepts/instruction-pedagogy/Instructional Core.md",
     "aliases": [
       "the instructional core"
+    ]
+  },
+  {
+    "title": "Instructional Design",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Instructional Design.md",
+    "aliases": [
+      "教学设计",
+      "Unterrichtsgestaltung"
     ]
   },
   {
@@ -24547,6 +24615,17 @@
     ]
   },
   {
+    "title": "Davies' Subjectification Theory",
+    "type": "theory",
+    "path": "wiki/theories/educational-philosophy/Davies' Subjectification Theory.md",
+    "aliases": [
+      "戴维斯主体化理论",
+      "戴维斯主体生成理论",
+      "Davies' Theorisation of Subjectification",
+      "Subjectification Theory of Davies"
+    ]
+  },
+  {
     "title": "Duhem-Quine Thesis",
     "type": "theory",
     "path": "wiki/theories/educational-philosophy/Duhem-Quine Thesis.md",
@@ -34639,6 +34718,17 @@
     ]
   },
   {
+    "title": "Hans-Joachim von Olberg",
+    "type": "person",
+    "path": "wiki/persons/germany/Hans-Joachim von Olberg.md",
+    "aliases": [
+      "汉斯-约阿希姆·冯·奥尔贝格",
+      "冯·奥尔贝格",
+      "奥尔贝格",
+      "von Olberg, H.-J."
+    ]
+  },
+  {
     "title": "Heinrich Gustav Hotho",
     "type": "person",
     "path": "wiki/persons/germany/Heinrich Gustav Hotho.md",
@@ -36664,6 +36754,16 @@
     "aliases": [
       "Thomas, G.",
       "加里·托马斯"
+    ]
+  },
+  {
+    "title": "Geoff Petty",
+    "type": "person",
+    "path": "wiki/persons/uk/Geoff Petty.md",
+    "aliases": [
+      "杰夫·佩蒂",
+      "佩蒂",
+      "Petty, G."
     ]
   },
   {
@@ -56762,6 +56862,11 @@
     "title": "Argument_Terhart_2014_Kallmeyer",
     "type": "argument",
     "path": "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_Kallmeyer.md"
+  },
+  {
+    "title": "Argument_VonOlberg_2014_GeneralDidactics",
+    "type": "argument",
+    "path": "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md"
   },
   {
     "title": "Argument_Wang_Barabasi_2021_Cambridge",

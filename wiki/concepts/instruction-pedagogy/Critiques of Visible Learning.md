@@ -905,6 +905,7 @@ updated: 2026-11-25
 > - [[Argument_Grace_2010_NZJES|Grace (2010)]] — 批判政策分析，从学者社会良知出发批判排除校外贫困与阶级不平等，揭示其为政府紧缩削支提供政策掩护。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — [[Didaktik|欧陆教学论]]权威首度系统提出元-[[Meta-analysis|元分析]]双重困境、教学论内容真空与福柯式全景规训。
 > - [[Argument_ONeill_2012_NZJES|O'Neill (2012)]] — 政策[[Discourse Analysis|话语分析]]，以新西兰财政部简报为例解剖决策者如何刻意过滤学术警示、挪用[[Effect Size|效应量]]推行预算紧缩。
+> - [[Argument_VonOlberg_2014_GeneralDidactics|von Olberg (2014)]] — 从德语[[Didaktik|一般教学论]]审视哈蒂教师手册与[[Evidence-Based Teaching|循证教学]]，揭示其社会技术主义知识观及目标、制度与课程内容三重结构缺口。
 > - [[Argument_Allerup_2015_Paideia|Allerup (2015)]] — 统计学方法批判，推导 0.40 阈值与[[Sample Size Determination|样本量]]的统计依存性，揭示[[Confidence Interval|置信区间]]缺失及 [[TIMSS]] [[Variable|变量]]控制后边际效应崩溃。
 > - [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] — 支持者的概念反思，指出常模测验的表层技能偏向与[[Dependent Variable|因变量]][[Operationalization|操作化]]失焦。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 计量统计学 6 步严密审计，证实[[Fixed-Effect Model|固定效应]]假设违背、简单平均偏差与 93% 样本重叠，判定二阶元分析在科学上不可行。

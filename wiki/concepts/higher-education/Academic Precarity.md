@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-03
-updated: 2026-11-15
+updated: 2026-11-25
 ---
 
 ---
@@ -119,13 +119,16 @@ updated: 2026-11-15
 > [!claim] [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]]
 > **学术心理危机与创新人才的非自愿退出** 豪布罗克等学者汇总实证调查表明，超过三分之一的博士生与青年学者承受着抑郁和焦虑症状，其流行率远超普通社会公众水平。重叠出现的抚养育儿责任、异地频繁搬迁与成果高产考核，将学术探索[[Alienation|异化]]为机械性流程培训。当微小的项目申评挫折将科研退出率推高 10% 以上时，大量兼具[[Critical Thinking|批判性思维]]与原创潜力的学者被系统性挤出学术界，造成科学共同体中坚人才的严重流失。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026)]]
 
+> [!claim] [[Argument_VanderKloet_Campisi_2023_JHEPM|Vander Kloet and Campisi (2023)]]
+> **不稳定雇佣与家庭照料冲突驱动的职业轨道转移** 玛丽·范德克洛特（Marie Vander Kloet）与凯特琳·坎皮西（Caitlin Campisi）在加拿大高校质性调查中发现，合同科研与博士后岗位的脆弱性促使青年学者主动退出传统教职竞争。受访者将转向科研管理等另类学术（alt-ac）岗位视为摆脱经济不安全感、对冲学术界对家庭照料排斥的策略性抉择。这种转移构成了学术劳动力应对结构性不稳定与照料匮乏环境的生存重塑。[[Argument_VanderKloet_Campisi_2023_JHEPM|(Vander Kloet & Campisi, 2023, pp. 662–664)]]
+
 ---
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **选题保守化命题** | 短期合同与长聘门槛推迟迫使青年学者放弃高风险探索，转向策略性从众与稳妥发表 | 青年科研人员（ECRs）职业发展、竞争性基金立项与学术劳动力市场分析 | [[Argument_Haubrock_2026_NHB\|Haubrock et al. (2026)]] |
-> | **心理耗竭与流失命题** | 身份不稳定、异地搬迁与微小评审挫折放大效应诱发高发性心理健康危机与非自愿离职 | 博士后及非升即走教职群体的心理健康调查与跨行业职业流动追踪 | [[Argument_Haubrock_2026_NHB\|Haubrock et al. (2026)]] |
+> | **心理耗竭与流失命题** | 身份不稳定、异地搬迁与微小评审挫折放大效应诱发高发性心理健康危机与非自愿离职 | 博士后及非升即走教职群体的心理健康调查与跨行业职业流动追踪 | [[Argument_Haubrock_2026_NHB\|Haubrock et al. (2026)]]; [[Argument_VanderKloet_Campisi_2023_JHEPM\|Vander Kloet and Campisi (2023)]] |
 
 ---
 
@@ -171,3 +174,4 @@ updated: 2026-11-15
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 系统批判当代学术体制的量化考评、短期雇佣不稳定与层级门阀结构，揭示学术不稳定状态对青年学者独立创造力和科学突破潜力的系统性窒息。
+> - [[Argument_VanderKloet_Campisi_2023_JHEPM|Vander Kloet and Campisi (2023)]] — 基于加拿大 5 所大学 19 位科研管理人员访谈，揭示青年学者与博士后如何将转向科研管理视为摆脱学术不稳定状态、兼顾家庭照料的策略性选择。

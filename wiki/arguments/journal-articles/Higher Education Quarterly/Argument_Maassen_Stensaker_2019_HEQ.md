@@ -27,6 +27,8 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Organizational Actorhood]]"
   - "[[New Public Management]]"
+  - "[[Penetrated Hierarchies]]"
+  - "[[Horizontal Coordination]]"
   - "[[Bureaucracy]]"
   - "[[Academic Oligarchy]]"
   - "[[Gatekeepers]]"
@@ -62,7 +64,7 @@ title: "Argument_Maassen_Stensaker_2019_HEQ"
 argument_key: "Argument_Maassen_Stensaker_2019_HEQ"
 argument_display_title: "From organised anarchy to de‐coupled bureaucracy: The transformation of university organisation"
 argument_kind: "journal-article"
-argument_related_count: 25
+argument_related_count: 27
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -95,12 +97,14 @@ issuing_organization: ""
 > | **[[Loosely Coupled Systems\|松散耦合系统]]** | 审视大学内部要素弱响应性与结构独立性的经典分析基准 (Weick, 1976)，对照现代层级治理对松散耦合的消解诉求及其引发的二元解耦变异。 |
 > | **[[Complete Organisation\|完整组织]]** | 检验[[New Public Management\|新公共管理]]改革试图将大学重塑为具备组织认同、纵向层级与形式理性的完整实体假说 (Brunsson & Sahlin-Andersson, 2000)，剖析其在行政端的局部实现与学术端的脱节。 |
 > | **[[Organizational Actorhood\|组织行动者地位]]** | 审视大学通过战略规划与品牌营销确立独立行动者合法性的宏观诉求 (Krücken & Meier, 2006)，揭示拥有战略与实际落地协调赤字之间的张力。 |
+> | **[[Penetrated Hierarchies\|穿透型科层]]** | 描述外部环境规制与竞争性问责压力绕过学术自治缓冲层、直接穿透并重构内部层级与微观考核规则的治理形态 (Bleiklie et al., 2015; Ramirez, 2006)。 |
+> | **[[Horizontal Coordination\|横向协调]]** | 审视专门化行政支持部门与基层学科院系在信息互通与业务配合上的协同整合机制，揭示横向协调赤字如何阻碍一体化战略落地。 |
 > | **[[De-coupled Bureaucracy\|解耦型官僚制]]** | 核心解释框架，阐明纵向行政管控强化如何同横向教学科研实践的自适应性发生结构性分离 (Maassen, 2017)，揭示二元治理脱节机制。 |
 > | **[[Bureaucracy\|科层官僚制]]** | 对照分析现代大学行政支撑系统内部日益强化的规章细化、职业专门化分工与法理型科层审查程序。 |
 > | **[[Academic Oligarchy\|学术寡头制]]** | 辅助审视基层学术人员依托国际学科共同体网络维系专业自主权、抵御自上而下行政理性化渗透的微观权力机制。 |
 
 > [!warrant]- 理论如何支撑论证
-> 新制度主义关于公共部门向[[Complete Organisation|完整组织]]（具备明确组织认同、纵向科层等级与理性技术）转型及确立[[Organizational Actorhood|战略行动者地位]]的理论假说 (Brunsson & Sahlin-Andersson, 2000; Krücken & Meier, 2006)，在公立研究型大学的微观治理实践中遭遇了结构性阻滞。将[[Organised Anarchy|组织化无政府状态]]的模糊性特征 (Cohen et al., 1972) 与[[Loosely Coupled Systems|松散耦合系统]]的缓冲属性 (Weick, 1976) 与现代大学的目标管理、质量保障及领导权集中改革进行机制对照可见：科层强化在行政支撑系统内部推动了标准化规程与数字平台的建立，实现了局部的形式理性化；但高深知识生产难以完全标准化编码的专业属性，使学术核心活动依然紧密依附于跨校学科专业网络。由于校级领导层缺乏弥合两者的实质统筹手段，纵向行政控制与横向专业实践发生深层脱节，确立了以[[De-coupled Bureaucracy|解耦型官僚制]]为核心特征的现代大学组织样态 (Maassen, 2017)。
+> 新制度主义关于公共部门向[[Complete Organisation|完整组织]]（具备明确组织认同、纵向科层等级与理性技术）转型及确立[[Organizational Actorhood|战略行动者地位]]的理论假说 (Brunsson & Sahlin-Andersson, 2000; Krücken & Meier, 2006)，在公立研究型大学的微观治理实践中遭遇了结构性阻滞。将[[Organised Anarchy|组织化无政府状态]]的模糊性特征 (Cohen et al., 1972) 与[[Loosely Coupled Systems|松散耦合系统]]的缓冲属性 (Weick, 1976) 与现代大学的目标管理、质量保障及领导权集中改革进行机制对照可见：外部规制通过[[Penetrated Hierarchies|穿透型科层]]将绩效压力直插基层 (Bleiklie et al., 2015)，在行政支撑系统内部推动了标准化规程与数字平台的建立，实现了局部的形式理性化；但高深知识生产难以完全标准化编码的专业属性，加之行政部门藩篱引发的[[Horizontal Coordination|横向协调赤字]]，使学术核心活动依然紧密依附于跨校学科专业网络。由于校级领导层缺乏弥合两者的实质统筹手段，纵向行政控制与横向专业实践发生深层脱节，确立了以[[De-coupled Bureaucracy|解耦型官僚制]]为核心特征的现代大学组织样态 (Maassen, 2017)。
 
 ---
 
@@ -158,7 +162,7 @@ issuing_organization: ""
 > 自上而下的集权管控与层级细化并未消除大学原有的模糊性 (Gornitzka et al., 2017)。基层院系摸不清自主裁量的边界，校级领导也缺乏长远统筹能力与专业储备，导致纵向层级管控陷入空转 (Vakkuri, 2010)。
 
 > [!sub-claim] 1.1 规章集中与层级重叠让院系难以摸清自主权边界
-> 大学普遍把教学科研规章、预算指标与合规审查权收拢到校级行政部门 (Bleiklie et al., 2015)。但平行管理机构林立，导致责任边界严重重叠；基层院系领导虽有清晰的纵向汇报链条，却不清楚哪些事务必须向上请示、哪些可以自行决断，使向上汇报流于形式化应付。
+> 大学普遍把教学科研规章、预算指标与合规审查权收拢到校级行政部门，形成外部竞争与审计压力直插基层的[[Penetrated Hierarchies|穿透型科层]] (Bleiklie et al., 2015; Ramirez, 2006)。但平行管理机构林立，导致责任边界严重重叠；基层院系领导虽有清晰的纵向汇报链条，却不清楚哪些事务必须向上请示、哪些可以自行决断，使向上汇报流于形式化应付。
 
 > [!challenges] 纵向科层管控面临的治理困境
 > - **规章死板与裁量权限脱节** 院系深感自上而下的规章压力，但在重大聘任与经费使用上难以确定合规边界，整天疲于应付形式化审查。
@@ -198,8 +202,8 @@ issuing_organization: ""
 > [!claim|step] 论证步骤二　行政系统的专业化扩张与教学科研的灵活性需求发生深度脱节
 > 行政支持系统按照自身职业逻辑加速专门化与规章标准化 (Gornitzka & Larsen, 2004)，不仅没有提升教学科研的核心生产力，反而与知识生产所需的灵活性、差异性以及跨学科合作产生严重摩擦 (Maassen et al., 2017)。
 
-> [!sub-claim] 2.1 职能部门各自引进封闭数字系统，筑牢了跨部门协作壁垒
-> 随着大学办学规模扩大与合规压力上升，财务、人事、公关与科研管理部门各自完成职业化转型，形成了自成一体的职业认同与管理防线 (Elken et al., 2018; Whitchurch, 2008)。各部门分别引进互不连通的专有数字系统，导致数据割裂，加剧了部门壁垒。
+> [!sub-claim] 2.1 职能部门各自引进封闭数字系统，加剧了[[Horizontal Coordination|横向协调]]壁垒
+> 随着大学办学规模扩大与合规压力上升，财务、人事、公关与[[Research Administrator|科研管理人员]]各自完成职业化转型，形成了自成一体的职业认同与管理防线 (Elken et al., 2018; Whitchurch, 2008)。各部门分别引进互不连通的专有数字系统，导致数据割裂，加剧了部门壁垒。
 
 > [!case] 挪威案例：数字化系统标准化引发数据孤岛
 > 挪威案例大学的行政主管直言，各职能部门各自采购专有软件，导致数据格式割裂与系统互不兼容。数字系统的局部标准化反而锁死了数据流动，高层难以敏捷整合全校信息，使跨部门统筹遭遇技术与制度双重壁垒。
@@ -214,7 +218,7 @@ issuing_organization: ""
 > > “现在光管科研和管理政策的小组就有三个，同时各个学院又要负责统筹教学。这种架构不仅叠床架屋，而且权责犬牙交错。过去办事要顺当得多，总有人出面把事情办成；现在行政表面上正规齐整了，实际上却变得极其僵化繁琐。官网上动不动就会冒出一堆闻所未闻且极其严苛的条条框框。”
 
 > [!sub-claim] 2.2 统一的死板规章压制了不同学科的探索特性，加重学者文牍负担
-> 行政系统试图用一刀切的死板规章规训高度异质的学术探索，既机械捆绑了实验科学与应用社科，又在财务核算上割裂了跨学院合作，更让一线学者深陷文牍报销泥潭。在推行市场化问责最彻底的澳大利亚案例中，基层对横向协调摩擦的反映最为强烈，印证了高度纵向控制与严重横向阻滞之间的直接关联 (Christensen, 2012; Ramirez, 2006)。
+> 行政系统试图用一刀切的死板规章规训高度异质的学术探索，既机械捆绑了实验科学与应用社科，又在财务核算上割裂了跨学院合作，更让一线学者深陷文牍报销泥潭。在推行市场化问责最彻底的澳大利亚案例中，基层对横向协调摩擦的反映最为强烈，印证了高度纵向控制与严重[[Horizontal Coordination|横向协调赤字]]之间的直接关联 (Christensen, 2012; Ramirez, 2006)。
 
 > [!case] 比利时案例：倡导自由创新与文牍报销泥潭的制度悖论
 > 比利时案例大学的基层主管揭示了科层规制与学术探索的尖锐矛盾：大学口头上大力鼓励学者追求原创突破与自由思考，实践中却堆满了无穷无尽的合规审查与报销填表，且缺乏专职行政人员提供实质协助；同时专门化科研实体与教学学部权责脱节，在课程管辖归属上纠纷不断。
