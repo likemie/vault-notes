@@ -34718,6 +34718,17 @@
     ]
   },
   {
+    "title": "Hans-Günter Rolff",
+    "type": "person",
+    "path": "wiki/persons/germany/Hans-Günter Rolff.md",
+    "aliases": [
+      "汉斯-京特·罗尔夫",
+      "罗尔夫",
+      "Rolff, H.-G.",
+      "Hans-Gunter Rolff"
+    ]
+  },
+  {
     "title": "Hans-Joachim von Olberg",
     "type": "person",
     "path": "wiki/persons/germany/Hans-Joachim von Olberg.md",
@@ -56852,6 +56863,11 @@
     "title": "Argument_Koller_2014_WhatWorks",
     "type": "argument",
     "path": "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
+  },
+  {
+    "title": "Argument_Rolff_2014_SchoolStructure",
+    "type": "argument",
+    "path": "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
   },
   {
     "title": "Argument_Terhart_2014_HolyGrail",

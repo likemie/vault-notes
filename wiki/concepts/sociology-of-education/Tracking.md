@@ -100,7 +100,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-25
-updated: 2026-11-21
+updated: 2026-11-25
 ---
 
 > [!def] Tracking
@@ -421,5 +421,6 @@ updated: 2026-11-21
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 从东西方文化心理与自我观差异切入，批判西方分轨制的实体能力论与被动适应逻辑，揭示低轨学生遭遇的“个人降级”与自我实现的失败预言。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 记录[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）在能力分组因果试验招募失败（Roy et al., 2014）后，转向利用自然变异与[[Quasi-Experimental Designs\|准实验设计]]（QEDs）评估学校内生组织选择的方法学制度转型。
 > - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 系统考证德国三轨制（Gymnasium / Realschule / Hauptschule）在 10 岁早期分选如何固化家庭 SES 差距，实证揭示 PISA 2003 成绩增益被文法中学独占的轨间不平等加剧，以及决策层将综合中学改革列为政治禁忌的话语规避机制。
+> - [[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]] — 指出哈蒂基于综合制英语国家的能力分组低效应结论不能用于否定德国多轨制结构影响，援引 PISA 与 IGLU 证实早期分流加剧社会选择性与学习环境分化（pp. 67–72）。
 > - [[Argument_Dustmann_2017_EconJ|Dustmann et al. (2017)]] — 利用德国小学入学截止日断点回归设计证实，初中后制度化转轨彻底消除了 10 岁早期分轨对边缘学生长期工资与学历的因果惩罚。
 

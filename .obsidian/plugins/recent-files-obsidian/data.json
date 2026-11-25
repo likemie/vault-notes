@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Xie_2017_PKUER",
-      "path": "sources/Xie_2017_PKUER.md"
+      "basename": "Argument_Koller_2014_WhatWorks",
+      "path": "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
+    },
+    {
+      "basename": "Argument_Brugelmann_2014_LocalPractice",
+      "path": "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
+    },
+    {
+      "basename": "Argument_Terhart_2014_HolyGrail",
+      "path": "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md"
     },
     {
       "basename": "Argument_Xie_2017_PKUER",
       "path": "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md"
     },
     {
-      "basename": "Argument_Terhart_2014_HolyGrail",
-      "path": "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md"
+      "basename": "Xie_2017_PKUER",
+      "path": "sources/Xie_2017_PKUER.md"
     },
     {
       "basename": "03 席勒",
@@ -191,14 +199,6 @@
     {
       "basename": "Floating_Knowledge_Switcher_V1.3_开发方案",
       "path": "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/Floating_Knowledge_Switcher_V1.3_开发方案.md"
-    },
-    {
-      "basename": "Argument_Hammermeister_2002_Cambridge",
-      "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge.md"
-    },
-    {
-      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit05",
-      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
     }
   ],
   "omittedPaths": [],

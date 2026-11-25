@@ -14050,6 +14050,14 @@
       ],
       "title": "Erste Ergebnisse aus IGLU. Schülerleistungen am Ende der vierten Jahrgangsstufe im internationalen Vergleich"
     },
+    "Bos et al., 2004": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
+      ],
+      "title": ""
+    },
     "Bos et al., 2012": {
       "doi": "",
       "isbn": "",
@@ -29331,6 +29339,7 @@
       "doi": "",
       "isbn": "978-3-8100-3344-4",
       "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md",
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md"
       ],
       "title": "PISA 2000. Basiskompetenz von Schülerinnen und Schülern im internationalen Vergleich"
@@ -33302,6 +33311,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/methods/quantitative/h-Index.md"
+      ],
+      "title": ""
+    },
+    "Ehmke & Jude, 2010": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
       ],
       "title": ""
     },
@@ -40345,6 +40362,14 @@
       ],
       "title": ""
     },
+    "Fullan, 2010": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
+      ],
+      "title": ""
+    },
     "Fullan, 2011": {
       "doi": "",
       "isbn": "",
@@ -45738,6 +45763,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-policy-reform/Programme Fidelity vs Adaptation.md"
+      ],
+      "title": ""
+    },
+    "Grit Arnhold, 2005": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
       ],
       "title": ""
     },
@@ -52707,6 +52740,14 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Beiträge zur Schulentwicklung/Argument_Manitius_vanHolt_2019_BzS.md",
         "wiki/concepts/educational-leadership-administration/Absorptive Capacity.md"
+      ],
+      "title": ""
+    },
+    "Holtappels et al., 2008": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
       ],
       "title": ""
     },
@@ -63314,6 +63355,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/reports-policy-documents/Argument_Bouckaert_2023_OECD.md"
+      ],
+      "title": ""
+    },
+    "Kobarg & Prenzel, 2012": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
       ],
       "title": ""
     },
@@ -78466,6 +78515,14 @@
       ],
       "title": ""
     },
+    "Michael Fullan, 2010": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
+      ],
+      "title": ""
+    },
     "Michael Huberman, 1994": {
       "doi": "",
       "isbn": "",
@@ -81202,6 +81259,14 @@
         "wiki/concepts/curriculum/Scripted Curriculum.md",
         "wiki/concepts/educational-policy-reform/Deliverology.md",
         "wiki/facts/global/McKinsey Education Reports.md"
+      ],
+      "title": ""
+    },
+    "Mourshed et al., 2011": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
       ],
       "title": ""
     },
@@ -97231,6 +97296,14 @@
       ],
       "title": ""
     },
+    "Rolff, 2011": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
+      ],
+      "title": ""
+    },
     "Rolfhus, 2012": {
       "datasets": [
         "eef:small-group-tuition"
@@ -110707,6 +110780,14 @@
       "seen_in": [
         "wiki/persons/us/Stuart Kauffman.md",
         "wiki/theories/educational-philosophy/Complexity Theory.md"
+      ],
+      "title": ""
+    },
+    "Stubbe et al., 2012": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
       ],
       "title": ""
     },
@@ -128981,6 +129062,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md",
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md",
         "wiki/arguments/journal-articles/Educational Philosophy and Theory/Argument_Rømer_2018_EPT.md",
         "wiki/arguments/journal-articles/Journal of Curriculum Studies/Argument_Terhart_2011_JCS.md",
         "wiki/arguments/journal-articles/Nordic Psychology/Argument_Nielsen_2021_NordPsych.md",
@@ -129220,6 +129302,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/comparative-education/National Character.md"
+      ],
+      "title": ""
+    },
+    "富兰, 2010": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
       ],
       "title": ""
     },
@@ -129519,6 +129609,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/uk/Science Media Centre.md"
+      ],
+      "title": ""
+    },
+    "德国舆论与部分学者依据哈蒂, 2009": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md"
       ],
       "title": ""
     },

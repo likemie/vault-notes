@@ -1565,6 +1565,24 @@
     {
       "sentence": "**学校理论缺口（schultheoretisches Defizit）** 因认定学校结构与资源投入效应量偏低，对教与学过程和学校制度框架条件之间的相互作用采取回避态度。",
       "target": "wiki/concepts/educational-psychology/Student Attitude.md"
+    },
+    {
+      "sentence": "**贡献** 在搁置二阶元分析（Meta-meta-analysis）纯统计方法论争议的前提下，确立一般教学论的四层知识整合图式与三重结构缺口判准，厘清循证教学在学科谱系中的实际边界。",
+      "target": "wiki/theories/instruction-pedagogy/Knowledge Integration.md"
+    },
+    {
+      "sentence": "论证首先剖析哈蒂教师手册中的五步行动构想、八项心智框架与隐含预设，确立其兼具线性调控与对话互动的双重面貌；随后借助教学设计的跨大西洋交往史，证明以沃尔伯格、马扎诺、佩蒂与哈蒂为代表的英美循证教学具备循证教学论的讨论资格；最终引入克朗的范围谱系与四层教学知识整合图式，揭示其虽然触及教学条件下的学习，却在认识论深度与目的、制度、内容三大结构维度上沦为单向度的方面教学论。",
+      "target": "wiki/theories/instruction-pedagogy/Knowledge Integration.md"
+    },
+    {
+      "sentence": "**受限于三重缺口的方面教学论定位** 对照克朗五级分类，循证教学仅落入学习过程调控与心理理论应用两级，且因社会技术主义知识观及目标论证、学校理论与课程内容三重缺口，无法成立为完整的一般教学论，但一般教学论仍须直面其提出的通用高效教学因素。",
+      "target": "wiki/theories/educational-psychology/Theory of Mind.md"
+    }
+  ],
+  "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md": [
+    {
+      "sentence": "提供解构本质化身份、反思访谈互动场域中微观权力运作的认识论基础（Davies et al., 2006; Petersen, 2007, 2014），揭示学术合法性在具体情境中的表演性生成。",
+      "target": "wiki/concepts/educational-technology/Avatar.md"
     }
   ]
 }

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md",
+                "file": "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Terhart_2014_HolyGrail"
+              "title": "Argument_Koller_2014_WhatWorks"
             }
           },
           {
@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sources/Xie_2017_PKUER.md",
+                "file": "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Xie_2017_PKUER"
+              "title": "Argument_Xie_2017_PKUER"
             }
           },
           {
@@ -82,8 +82,7 @@
               "title": "03 席勒"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -300,22 +299,36 @@
       "ai-usage-float:显示或隐藏额度浮窗": false
     }
   },
-  "active": "96c685dea1ff308e",
+  "active": "3ac2639cc8584945",
   "lastOpenFiles": [
-    "output/related-updates/Argument_Brugelmann_2014_LocalPractice-49edf418/batch-010/result.json",
-    "output/related-updates/Argument_VonOlberg_2014_GeneralDidactics-43456c5a/batch-007/result.json",
-    "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md",
-    "output/related-updates/Argument_VonOlberg_2014_GeneralDidactics-43456c5a/batch-006/result.json",
-    "output/related-updates/Argument_VonOlberg_2014_GeneralDidactics-43456c5a/batch-005/result.json",
-    "output/related-updates/Argument_Brugelmann_2014_LocalPractice-49edf418/batch-009/result.json",
-    "output/related-updates/Argument_VonOlberg_2014_GeneralDidactics-43456c5a/batch-004/result.json",
-    "output/related-updates/Argument_VonOlberg_2014_GeneralDidactics-43456c5a/batch-003/result.json",
+    "output/related-updates/Argument_VanderKloet_Campisi_2023_JHEPM-f62c8ca9/batch-001/result.json",
+    "output/related-updates/Argument_VanderKloet_Campisi_2023_JHEPM-f62c8ca9/state.json",
+    "output/related-updates/Argument_VanderKloet_Campisi_2023_JHEPM-f62c8ca9/batch-008/prompt.md",
+    "output/related-updates/Argument_VanderKloet_Campisi_2023_JHEPM-f62c8ca9/batch-006/batch-result.schema.json",
+    "output/related-updates/Argument_VanderKloet_Campisi_2023_JHEPM-f62c8ca9/batch-006/prompt.md",
+    "output/related-updates/Argument_VanderKloet_Campisi_2023_JHEPM-f62c8ca9/batch-006",
+    "output/related-updates/Argument_VanderKloet_Campisi_2023_JHEPM-f62c8ca9/batch-005/batch-result.schema.json",
+    "output/related-updates/Argument_VanderKloet_Campisi_2023_JHEPM-f62c8ca9/batch-005/prompt.md",
+    "output/related-updates/Argument_VanderKloet_Campisi_2023_JHEPM-f62c8ca9/batch-005",
+    "output/related-updates/Argument_VanderKloet_Campisi_2023_JHEPM-f62c8ca9/batch-004/prompt.md",
+    "output/related-updates/Argument_VanderKloet_Campisi_2023_JHEPM-f62c8ca9/batch-004/batch-result.schema.json",
+    "output/related-updates/Argument_VanderKloet_Campisi_2023_JHEPM-f62c8ca9/batch-004",
+    "output/related-updates/Argument_VanderKloet_Campisi_2023_JHEPM-f62c8ca9/batch-003/prompt.md",
+    "output/related-updates/Argument_VanderKloet_Campisi_2023_JHEPM-f62c8ca9/batch-003/batch-result.schema.json",
+    "output/related-updates/Argument_VanderKloet_Campisi_2023_JHEPM-f62c8ca9/batch-003",
+    "output/related-updates/Argument_VanderKloet_Campisi_2023_JHEPM-f62c8ca9/batch-002/prompt.md",
+    "output/related-updates/Argument_VanderKloet_Campisi_2023_JHEPM-f62c8ca9/batch-002/batch-result.schema.json",
+    "output/related-updates/Argument_VanderKloet_Campisi_2023_JHEPM-f62c8ca9/batch-001/prompt.md",
+    "output/related-updates/Argument_VanderKloet_Campisi_2023_JHEPM-f62c8ca9/batch-009/prompt.md",
+    "output/related-updates/Argument_VanderKloet_Campisi_2023_JHEPM-f62c8ca9/batch-007/prompt.md",
+    "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md",
+    "wiki/persons/germany/Hans-Günter Rolff.md",
+    "books/Terhart_2014_Kallmeyer/Ch05_Rolff_2014.md",
+    "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md",
     "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md",
+    "wiki/arguments/journal-articles/Peking University Education Review/Argument_Xie_2017_PKUER.md",
+    "sources/Xie_2017_PKUER.md",
     "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照/03 席勒.md",
-    "output/related-updates/Argument_Brugelmann_2014_LocalPractice-49edf418/batch-008/result.json",
-    "output/related-updates/Argument_Brugelmann_2014_LocalPractice-49edf418/batch-007/result.json",
-    "output/related-updates/Argument_VonOlberg_2014_GeneralDidactics-43456c5a/batch-002/result.json",
-    "output/related-updates/Argument_VonOlberg_2014_GeneralDidactics-43456c5a/batch-001/result.json",
     "output/related-updates/Argument_VonOlberg_2014_GeneralDidactics-43456c5a/batch-001/prompt.md",
     "output/related-updates/Argument_VonOlberg_2014_GeneralDidactics-43456c5a/batch-003/prompt.md",
     "output/related-updates/Argument_VonOlberg_2014_GeneralDidactics-43456c5a/batch-008/prompt.md",
@@ -324,22 +337,8 @@
     "output/related-updates/Argument_VonOlberg_2014_GeneralDidactics-43456c5a/batch-012/prompt.md",
     "output/related-updates/Argument_VonOlberg_2014_GeneralDidactics-43456c5a/batch-011/prompt.md",
     "output/related-updates/Argument_VonOlberg_2014_GeneralDidactics-43456c5a/batch-010/prompt.md",
-    "output/related-updates/Argument_VonOlberg_2014_GeneralDidactics-43456c5a/batch-009/prompt.md",
-    "output/related-updates/Argument_VonOlberg_2014_GeneralDidactics-43456c5a/batch-007/prompt.md",
-    "output/related-updates/Argument_VonOlberg_2014_GeneralDidactics-43456c5a/batch-006/prompt.md",
-    "output/related-updates/Argument_VonOlberg_2014_GeneralDidactics-43456c5a/batch-005/prompt.md",
-    "output/related-updates/Argument_VonOlberg_2014_GeneralDidactics-43456c5a/batch-004/prompt.md",
-    "output/related-updates/Argument_VonOlberg_2014_GeneralDidactics-43456c5a/batch-002/prompt.md",
     "books/Terhart_2014_Kallmeyer/figures/Figure_4-2_Didactic_Knowledge_Forms.jpg",
     "books/Terhart_2014_Kallmeyer/figures/Figure_4-1_PAR_Model_Petty.jpg",
-    "sources/VanderKloet_Campisi_2023_JHEPM.md",
-    "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md",
-    "wiki/theories/educational-philosophy/Davies' Subjectification Theory.md",
-    "wiki/concepts/higher-education/Alt-Ac.md",
-    "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md",
-    "wiki/concepts/higher-education/Research Administrator.md",
-    "wiki/persons/uk/Geoff Petty.md",
-    "wiki/persons/germany/Hans-Joachim von Olberg.md",
     "books/Terhart_2014_Kallmeyer/figures/Figure_2-3_School_Leadership_and_Instructional_Development.jpg",
     "books/Terhart_2014_Kallmeyer/figures/Figure_2-1_Effects_of_Different_Feature_Groups.jpg",
     "books/Terhart_2014_Kallmeyer/figures/Figure_2-2_School_Characteristics_and_Learning_Effects.jpg",

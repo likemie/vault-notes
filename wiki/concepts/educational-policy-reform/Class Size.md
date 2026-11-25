@@ -114,7 +114,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-03'
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 
 > [!def] Class Size
@@ -511,6 +511,7 @@ updated: 2026-11-24
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 通过词频统计（95 次提及）与格拉斯[[Primary and Secondary Documents|原始文献]]核查，系统揭露《[[Visible Learning|可见的学习]]》如何将班级规模效应矮化为新自由主义财政紧缩的实证挡箭牌（pp. 31–33）。
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 记录欧美围绕班级规模（$d=0.21$）形成的“Class size matters”民间游说，并以俄罗斯实证反思决策层依凭中低效应排名削减学校资源所引发的教师流失与行政困境（pp. 235–237, 240–241）。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 针对[[John Hattie|哈蒂]][[Meta-analysis|元分析]]平均值视角的系统批判，梳理 STAR、伦敦研究与德州 15 校案例中班级规模与教学法交互的实证证据。
+> - [[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]] — 指出哈蒂的班级规模研究排除 25 人以上大班，并援引 STAR 证实早期长期小班对弱势学生及课堂互动氛围的促进作用（pp. 72–73）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al. (2011, Ch. 17)]] — 详尽解析 Glass & Smith 开拓性元分析案例，阐释控制质量如何系统性重塑班级规模效应曲线的形态与斜率。
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 全球[[Classroom Observation|课堂观察]]手册 Teach，在发展中国家超 1,000 间小学计量模型中确立控制班级规模后微观实践的增值预测力，并指出 60–100 人超大班额对时间快照测量的挑战。
 > - [[Argument_Pellegrini_2021_ECNUROE|Pellegrini and Vivanet (2021)]] — 综合 Campbell 协作网多项元分析，基于法国缩班政策论证缩减班额的高成本与有限边际收益。
