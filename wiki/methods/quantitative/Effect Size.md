@@ -327,3 +327,4 @@ updated: 2026-11-25
 > - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 运用受控数值模拟证实三类效应量公式对同一数据得出完全相反排名，揭示基线选取任意性与相关换算的数学失效。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 从德意志教化传统、身体[[Phenomenology|现象学]]与二阶控制论解构将教育降维为即时效应量可见快照的[[Positivism|实证主义]]迷思，揭示其背后的[[Category Mistake|范畴错误]]与资本主义指标规训。
 > - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014)]] — 揭示干预内部高方差离散度远超干预间均值差异，指出哈蒂对开放教学（$d = 0.01$）与非指导性教学（$d = 0.54$）的数据评价自相矛盾（pp. 42, 44–45）。
+> - [[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]] — 剖析孤立变量效应量（如能力分流 $d = 0.11$、班级规模 $d = 0.21$）在制度语境、教育公平后果、学段阈值与学校系统协同效应上的解释盲区（pp. 68–76）。
