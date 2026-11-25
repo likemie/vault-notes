@@ -9,6 +9,10 @@ aliases:
 summary: "高等教育组织社会学中指具备高阶学术文凭（硕士或博士）且在教学、科研与行政交叉边界从事专业支持与治理工作的跨界从业者；该群体打破了传统大学中‘学术人员-行政人员’严格二元划分，在项目制管理、学术发展与科研管理等第三空间中调动双重知识资本推动机构目标。"
 type: concept
 domain: "higher-education"
+related_count: 13
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept
   - higher-education
@@ -98,8 +102,8 @@ updated: 2026-11-25
 ---
 
 > [!dev-timeline] 演进历程
-> - 2004 — 朱迪·塞凯雷斯（Judy Szekeres）发表《隐形劳动者》（*The Invisible Workers*），系统指认大学一般专业人员长期被排除在学术核心叙事之外的边缘现实。
-> - 2008 — 西莉亚·惠特彻奇（Celia Whitchurch）发表论文提出“混合型专业人员”与“第三空间”，为处于学术与行政交叉地带的新兴群体提供分析概念框架。
+> - 2004 — 朱迪·塞凯雷斯（Judy Szekeres）在《隐形劳动者》（*The Invisible Workers*）中，系统指认大学一般专业人员长期被排除在学术核心叙事之外的边缘现实。
+> - 2008 — 西莉亚·惠特彻奇（Celia Whitchurch）系统阐发“混合型专业人员”与“第三空间”，为处于学术与行政交叉地带的新兴群体提供分析概念框架。
 > - 2018 — 斯特凡诺·波利（Stefano Poli）将科研管理人员细分为混合专业人员与超级管理者（Superadministrators），深化学术科研服务的多样化结构。
 > - 2021 — 辛迪·史密斯等人（C. Smith et al.）考察加拿大高校环境下的第三空间专业人员，揭示其在权能界定模糊中的日常抗争与协调实践。
 > - 2023 — 玛丽·范德克洛特与凯特琳·坎皮西（Marie Vander Kloet & Caitlin Campisi）结合后结构主义学术性视角，剖析加拿大高校女性混合专业人员如何重塑合法学术主体资格。
@@ -118,19 +122,20 @@ updated: 2026-11-25
 
 ---
 
-> [!entry-map] 关联导航
-> - 上位领域：[[Higher Education Governance|高等教育治理]]
-> - 制度空间：[[Third Space Discourse|第三空间]]
-> - 职业表现：[[Research Administrator|科研管理者]] · [[Alt-Ac|另类学术]]
-> - 主体建构：[[Academicity|学术性]] · [[Privileging of Carelessness|漠视照料特权]]
-> - 核心论证：[[Argument_VanderKloet_Campisi_2023_JHEPM|Vander Kloet & Campisi (2023)]]
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Research Administrator]] | 概念 | 混合型专业人员在科研管理领域的特定岗位形态。 |
+> | [[Alt-Ac]] | 概念 | 拥有高阶学位的学者进入第三空间岗位的职业生涯形态。 |
+> | [[Third Space Discourse]] | 概念 | 混合型专业人员开展跨界转译与协同的制度话语空间。 |
+> | [[Academicity]] | 概念 | 混合型专业人员在微观交往中争取的学术主体合法性。 |
+> | [[Privileging of Carelessness]] | 概念 | 驱使学者流向混合型专业岗位的体制性照料缺失诱因。 |
+> | [[Post-structuralism]] | 理论 | 解构学术与管理本质主义二元对立的理论基础。 |
+> | [[Semi-structured Interview]] | 方法 | 探究混合型专业人员职业经验与话语策略的常用实证方法。 |
+> | [[Discourse Analysis]] | 方法 | 剖析混合型专业人员在求职叙事与日常交往中主体化运作的研究方法。 |
 
 ---
 
-## 来源
-
-> [!evidence-grid-a|notitle] 核心文献
-> - Whitchurch, C. (2008b). Shifting identities and blurring boundaries: The emergence of third space professionals in UK higher education. *Higher Education Quarterly*, 62(4), 377–396. https://doi.org/10.1111/j.1468-2273.2008.00387.x
-> - Poli, S. (2018). Who are today's research managers?: Roles, professional development, and evolution of the profession. In J. Andersen, K. Toom, S. Poli, & F. M. Pamela (Eds.), *Research management Europe and beyond* (pp. 1–29). Academic Press. https://doi.org/10.1016/B978-0-12-805059-0.00001-8
-> - Smith, C., Holden, M., Yu, E., & Hanlon, P. (2021). 'So what do you do?': Third space professionals navigating a Canadian university context. *Journal of Higher Education Policy and Management*, 43(5), 505–519. https://doi.org/10.1080/1360080X.2021.1884513
-> - Vander Kloet, M., & Campisi, C. (2023). Becoming legitimate academic subjects: Doing meaningful work in research administration. *Journal of Higher Education Policy and Management*, 45(6), 658–673. https://doi.org/10.1080/1360080X.2023.2222446
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_VanderKloet_Campisi_2023_JHEPM|Vander Kloet and Campisi (2023)]] — 考察加拿大高校 19 位科研管理者（混合型专业人员与超级管理者），揭示其在第三空间通过顺应教师核心与精熟智力支撑争夺学术合法性。
