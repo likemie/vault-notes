@@ -15577,8 +15577,6 @@
     "Lepori, 2011": "Lepori, 2011",
     "Leppiniemi (2016)": "Leppiniemi, 2016",
     "Leppiniemi, 2016": "Leppiniemi, 2016",
-    "Leppori (2015)": "Leppori, 2015",
-    "Leppori, 2015": "Leppori, 2015",
     "Lepsius (2016)": "Lepsius, 2016",
     "Lepsius, 2016": "Lepsius, 2016",
     "Leritz & Mumford (2004)": "Leritz & Mumford, 2004",
@@ -29529,6 +29527,8 @@
     "彻底关停 (2017)": "彻底关停, 2017",
     "彻底关停, 2012": "彻底关停, 2012",
     "彻底关停, 2017": "彻底关停, 2017",
+    "彼得森 (2007)": "彼得森, 2007",
+    "彼得森, 2007": "彼得森, 2007",
     "德国 (2001)": "德国, 2001",
     "德国 (2015)": "德国, 2015",
     "德国, 2001": "德国, 2001",
@@ -29551,6 +29551,8 @@
     "戴尔, 1999": "戴尔, 1999",
     "戴尔与罗伯逊等人 (2002)": "戴尔与罗伯逊等人, 2002",
     "戴尔与罗伯逊等人, 2002": "戴尔与罗伯逊等人, 2002",
+    "戴维斯 (2006)": "戴维斯, 2006",
+    "戴维斯, 2006": "戴维斯, 2006",
     "扎普 (2022)": "扎普, 2022",
     "扎普, 2022": "扎普, 2022",
     "扎米斯卡与卡普 (2025)": "扎米斯卡与卡普, 2025",
@@ -57627,7 +57629,6 @@
         "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md",
         "wiki/concepts/higher-education/Complete Organisation.md",
         "wiki/concepts/higher-education/Horizontal Coordination.md",
-        "wiki/concepts/higher-education/Penetrated Hierarchies.md",
         "wiki/theories/higher-education/Loosely Coupled Systems.md"
       ],
       "title": "Constructing organizations: The example of public sector reform"
@@ -143961,21 +143962,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/finland/Finnish National Core Curriculum.md"
-      ],
-      "title": ""
-    },
-    "Leppori, 2015": {
-      "aliases": [
-        "Leppori, 2015",
-        "Leppori (2015)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Leppori, 2015"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/higher-education/Penetrated Hierarchies.md"
       ],
       "title": ""
     },
@@ -231540,7 +231526,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md",
-        "wiki/concepts/higher-education/Penetrated Hierarchies.md",
         "wiki/theories/higher-education/Loosely Coupled Systems.md"
       ],
       "title": "Educational organizations as loosely coupled systems"
@@ -245355,6 +245340,21 @@
       ],
       "title": ""
     },
+    "彼得森, 2007": {
+      "aliases": [
+        "彼得森, 2007",
+        "彼得森 (2007)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "彼得森, 2007"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/educational-philosophy/Davies' Subjectification Theory.md"
+      ],
+      "title": ""
+    },
     "德国, 2001": {
       "aliases": [
         "德国, 2001",
@@ -245517,6 +245517,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/research-methodology/Unit of Analysis.md"
+      ],
+      "title": ""
+    },
+    "戴维斯, 2006": {
+      "aliases": [
+        "戴维斯, 2006",
+        "戴维斯 (2006)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "戴维斯, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/educational-philosophy/Davies' Subjectification Theory.md"
       ],
       "title": ""
     },

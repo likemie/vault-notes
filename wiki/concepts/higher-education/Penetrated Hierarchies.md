@@ -71,17 +71,17 @@ updated: 2026-11-25
 ---
 
 > [!feature] 核心要素
-> - **外部规制直接穿透（External Environmental Penetration）** 政府竞争性科研基金要求、国家学科评估指标与外部审计准则直接转化为校内资源分配与职称晋升的标准。[[Argument_Maassen_Stensaker_2019_HEQ|(Maassen & Stensaker, 2019, p. 457, citing Bleiklie et al., 2015)]]
-> - **中间自治缓冲层绕开（Bypassing Collegial Buffers）** 传统由教授会和院系教师委员会掌握的预算初审与学术把关权力被收拢，校级行政与外部评估直接对接。[[Argument_Maassen_Stensaker_2019_HEQ|(Maassen & Stensaker, 2019, p. 457, citing Bleiklie et al., 2015)]]
-> - **层级指挥链工具化（Instrumental Hierarchy）** 纵向行政链条的强化主要为了向下贯彻校级战略与外部问责要求，而非提供日常专业支持。[[Argument_Maassen_Stensaker_2019_HEQ|(Maassen & Stensaker, 2019, pp. 458–461)]]
-> - **内部治理二元割裂（Internal Governance-Practice Cleavage）** 穿透型科层催生了专门化的行政合规系统，但未能重塑高深知识探索的专业技术，导致行政合规与学术实践脱节。[[Argument_Maassen_Stensaker_2019_HEQ|(Maassen & Stensaker, 2019, pp. 465–466)]]
+> - **外部规制直接穿透（External Environmental Penetration）** 政府竞争性科研基金要求、国家学科评估指标与外部审计准则直接转化为校内资源分配与职称晋升的标准。
+> - **中间自治缓冲层绕开（Bypassing Collegial Buffers）** 传统由教授会和院系教师委员会掌握的预算初审与学术把关权力被收拢，校级行政与外部评估直接对接。
+> - **层级指挥链工具化（Instrumental Hierarchy）** 纵向行政链条的强化主要为了向下贯彻校级战略与外部问责要求，而非提供日常专业支持。
+> - **内部治理二元割裂（Internal Governance-Practice Cleavage）** 穿透型科层催生了专门化的行政合规系统，但未能重塑高深知识探索的专业技术，导致行政合规与学术实践脱节。[[Argument_Maassen_Stensaker_2019_HEQ|(Maassen & Stensaker, 2019, pp. 457–466)]]
 
 ---
 
 > [!concept-proposition] 命题一｜外部规制力量绕过传统学术缓冲层直接穿透基层微观治理
 > **规制穿透机制** 揭示当代公立研究型大学如何通过再造纵向指挥链，将外部竞争性绩效压力内化为日常监控程序。
 
-> [!claim] Bleiklie, Enders, & Leppori (2015)
+> [!claim] Bleiklie et al. (2015)
 > **环境压力对科层结构的重构** 新公共管理改革并未如早期理论预期般弱化科层制，反而使科层结构向外部环境深度开放；国家资助机制竞争化与质量审计普及化，促使大学将管理重心转向满足外部环境期待，从而形成了外部规制深度穿透内部层级的新科层形态。[[Argument_Maassen_Stensaker_2019_HEQ|(Maassen & Stensaker, 2019, p. 457, citing Bleiklie et al., 2015)]]
 
 > [!claim] Ramirez (2006)
@@ -138,4 +138,4 @@ updated: 2026-11-25
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Maassen_Stensaker_2019_HEQ|Maassen and Stensaker (2019)]] — 结合 Weick (1976) 与 Brunsson and Sahlin-Andersson (2000)，在 5 国公立大学实证检验了穿透型科层（Bleiklie et al., 2015）在大学微观内部的真实落差，论证其未能达成全校一体化紧密整合，系统定型为解耦型官僚制（pp. 456–468）。
+> - [[Argument_Maassen_Stensaker_2019_HEQ|Maassen and Stensaker (2019)]] — 实证检验 5 国公立大学内部治理，阐明穿透型科层未能实现全校紧密整合，系统定型为解耦型官僚制（pp. 456–468）。

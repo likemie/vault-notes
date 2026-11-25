@@ -16461,7 +16461,6 @@
         "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md",
         "wiki/concepts/higher-education/Complete Organisation.md",
         "wiki/concepts/higher-education/Horizontal Coordination.md",
-        "wiki/concepts/higher-education/Penetrated Hierarchies.md",
         "wiki/theories/higher-education/Loosely Coupled Systems.md"
       ],
       "title": "Constructing organizations: The example of public sector reform"
@@ -68205,14 +68204,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/finland/Finnish National Core Curriculum.md"
-      ],
-      "title": ""
-    },
-    "Leppori, 2015": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/higher-education/Penetrated Hierarchies.md"
       ],
       "title": ""
     },
@@ -120800,7 +120791,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Higher Education Quarterly/Argument_Maassen_Stensaker_2019_HEQ.md",
-        "wiki/concepts/higher-education/Penetrated Hierarchies.md",
         "wiki/theories/higher-education/Loosely Coupled Systems.md"
       ],
       "title": "Educational organizations as loosely coupled systems"
@@ -129115,6 +129105,14 @@
       ],
       "title": ""
     },
+    "彼得森, 2007": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/educational-philosophy/Davies' Subjectification Theory.md"
+      ],
+      "title": ""
+    },
     "德国, 2001": {
       "doi": "",
       "isbn": "",
@@ -129200,6 +129198,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/research-methodology/Unit of Analysis.md"
+      ],
+      "title": ""
+    },
+    "戴维斯, 2006": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/educational-philosophy/Davies' Subjectification Theory.md"
       ],
       "title": ""
     },

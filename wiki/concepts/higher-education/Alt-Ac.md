@@ -54,7 +54,7 @@ updated: 2026-11-25
 > *"Some professional staff positions, also referred to as alt-ac positions in Canada, have overlap with, but are not, academic positions... These positions are framed as a possible solution to both the lack of permanent academic positions for junior scholars and increased workloads for established academic staff."*
 
 > [!boundary]- 概念边界
-> - 不等于非学术性行业外溢（Out-of-Academia Careers）。另类学术岗位依然坐落于大学校园或学术研究机构内部，高度依赖从业者的学术思维方式与论文撰写素养。
+> - 不等于非学术性行业外溢（Out-of-Academia Careers）。另类学术岗位依然坐落于大学校园或学术研究机构内部，高度依赖从业者的学术思维方式与课题撰写素养。
 > - 不等于编外临时教学零工。另类学术岗位多具有稳定的正式行政编制、工会协议与明晰薪资层级，旨在摆脱合同科研与短期代课的雇佣动荡。
 > - 不等同于传统终身教职。另类学术人员不享有学术自由的长聘特权，不直接以独立课题负责人的身份主导同行评议产出，其核心考核服从机构职能绩效标准。
 
@@ -99,7 +99,7 @@ updated: 2026-11-25
 > **智力延展与意义再生产** 揭示另类学术人员如何通过参与课题论证、指导青年学者与转化科研成果，重获作为知识社群内部行动者的尊严，破除离开学术界的话语偏见。
 
 > [!claim] [[Argument_VanderKloet_Campisi_2023_JHEPM|Vander Kloet and Campisi (2023)]]
-> **依托学术邻近性重塑专业成就感** 范德克洛特与坎皮西的研究进一步表明，另类学术人员并非将自身工作贬低为机械打杂，而是强调自身作为“智能非专家”的独特智力价值。他们通过解读复杂基金指南、优化课题论证逻辑、协同打磨高难度重大项目，在学术研究与管理制度的交汇处持续发挥高阶学术能力。这种深入参与大学知识生产的智力实践，赋予了另类学术从业者充实的专业尊严和扎实的组织认同感。[[Argument_VanderKloet_Campisi_2023_JHEPM|(Vander Kloet & Campisi, 2023, pp. 664–667)]]
+> **依托学术邻近性重塑专业成就感** 范德克洛特与坎皮西的研究进一步表明，另类学术人员强调自身作为“智能非专家”的独特智力价值。他们通过解读复杂基金指南、优化课题论证逻辑、协同打磨高难度重大项目，在学术研究与管理制度的交汇处持续发挥高阶学术能力。这种深入参与大学知识生产的智力实践，赋予了另类学术从业者充实的专业尊严和扎实的组织认同感。[[Argument_VanderKloet_Campisi_2023_JHEPM|(Vander Kloet & Campisi, 2023, pp. 664–667)]]
 
 ---
 
