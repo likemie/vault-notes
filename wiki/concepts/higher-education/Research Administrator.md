@@ -65,9 +65,9 @@ updated: 2026-11-25
 > *"The research administrator subject strives to gain legitimacy through her proximity to research and through her strategic positioning as ally to academic staff."*
 
 > [!boundary]- 概念边界
-> - 不等于常规事务性行政。科研管理涉及重大竞争性基金申报打磨、学术规范阐释与多学科研究设计转译，具备高度的智力参与和学术专业性。
-> - 不等于独立课题负责人。科研管理人员主要通过协助、协调与制度把关间接参与[[Knowledge Production|知识生产]]，通常不拥有科研成果的直接学术署名权。
-> - 不等同于企业对接专员（[[University Corporate Engagement Professional]]）。后者侧重校企合作与商业转化，科研管理人员贯穿基础研究与应用研究全周期的校内支持体系。
+> - 不等于 常规事务性行政 — 科研管理涉及重大竞争性基金申报打磨、学术规范阐释与多学科研究设计转译，具备高度的智力参与和学术专业性。
+> - 不等于 独立课题负责人 — 科研管理人员主要通过协助、协调与制度把关间接参与[[Knowledge Production|知识生产]]，通常不拥有科研成果的直接学术署名权。
+> - 不等同于 企业对接专员（[[University Corporate Engagement Professional]]） — 后者侧重校企合作与商业转化，科研管理人员贯穿基础研究与应用研究全周期的校内支持体系。
 
 ---
 
@@ -85,6 +85,7 @@ updated: 2026-11-25
 > - **智能非专家定位** 展现出跨学科通用领悟力与宏观视野，能在不取代专任教师学科专长的前提下，提供结构梳理、资助标准对接与文本修辞打磨。[[Argument_VanderKloet_Campisi_2023_JHEPM|(Vander Kloet & Campisi, 2023, p. 665)]]
 > - **双重制度转译能力** 既能将资助机构复杂的指南与政策规程翻译为学者易于执行的方案，又能将学者的学术构想转译为符合评审标准的规范文本。[[Argument_VanderKloet_Campisi_2023_JHEPM|(Vander Kloet & Campisi, 2023, pp. 665–666)]]
 > - **情感劳动与照料取向** 将支持处于高压考评生态下的教师视为自身价值来源，通过耐心安抚、流程代办与心理支持构筑信任同盟。[[Argument_VanderKloet_Campisi_2023_JHEPM|(Vander Kloet & Campisi, 2023, pp. 667–668)]]
+> - **资源转化与跨界统筹** 依托[[Cycle of Credit|信用循环]]介入师资招募启动资源配置、[[Institutional Review Board|伦理审查委员会]]（Institutional Review Board, IRB）合规转译、多元博士生源培育与全国学术网络比对，直接打通并加速学术产出环节。[[Argument_DeJong_2026_SHE|(de Jong, 2026, pp. 1244–1250)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -114,11 +115,20 @@ updated: 2026-11-25
 
 ---
 
+> [!concept-proposition] 命题三｜科研管理人员借由促成资源转化、塑形研究内容与加速推进直接嵌入知识生产
+> **资源管理与信用循环嵌入** 揭示科研管理人员在主体认同之外的功能性贡献，阐明其日常协商与规则转译如何实质改变学术产出进程。
+
+> [!claim] [[Argument_DeJong_2026_SHE|de Jong (2026)]]
+> **信用循环视阈下的科研管理四重实践机制** de Jong 对美国一所研究型大学包括 6 位院系科研管理人员在内的 22 名[[Professional Support Staff|专业支持人员]]开展质性访谈，依据扩展版[[Cycle of Credit|信用循环]]识别出科研管理直接推进知识产出的三条核心路径：在“促成转化发生”层面，系级科研管理者 Angela 会在引进新教师时于幕后争取足额启动经费与薪酬，院级科研管理者 Rowan 则充当[[Institutional Review Board|伦理审查委员会]]与学者间的转译桥梁，消除晦涩审批规程引发的启动停滞；在“塑造转化内容”层面，Louis 参与多校博士预科项目拓展弱势群体生源，使成长背景各异的研究者提出多元[[Research Question|研究问题]]并向政策和社会群体发声；在“提升转化速度”层面，曾任科研人员的 Monica 借助全国学术人脉核查同行高校前沿仪器配置，协助教师快速组织立项证据并加快院长室设备购置批复。这证明科研管理人员发挥着[[Enabling Bureaucracy|赋能型官僚制]]作用，与学术研究核心紧密联动。[[Argument_DeJong_2026_SHE|(de Jong, 2026, pp. 1244–1250)]]
+
+---
+
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **知识邻近性与意义建构命题** | 借助参与课题论证与[[Policy Translation\|政策转译]]的智力邻近性，在非教职轨道上确立合法学术主体性 | 大学科研办公室、跨学科研究中心与学术辅助平台分析 | [[Argument_VanderKloet_Campisi_2023_JHEPM\|Vander Kloet and Campisi (2023)]] |
 > | **关照同盟与边界协商命题** | 通过情感劳动与照料实践软化学术与行政界限，构建协作共生同盟以稳固职业认同 | 高校行政与学术人员权力互动、学术劳动力边界研究 | [[Argument_VanderKloet_Campisi_2023_JHEPM\|Vander Kloet and Campisi (2023)]] |
+> | **信用循环资源调控命题** | 通过启动经费游说、伦理审批转译、多元生源培育与同行比对直接促成并加速科研产出 | 研究型大学科研支持全周期、[[Enabling Bureaucracy\|赋能型官僚制]]与知识生产机制研究 | [[Argument_DeJong_2026_SHE\|de Jong (2026)]] |
 
 ---
 
@@ -126,6 +136,7 @@ updated: 2026-11-25
 > - **2000s — 无形劳动力与第三空间的提出** 国际高等教育学者开始关注大学里处于学术与行政交叉地带的混合型专业人员，指出其作为无形劳动力的组织贡献。
 > - **2010s — 专业化推进与学术边界争议** 随着科研资助竞争加剧与合规问责趋紧，科研管理逐步演变为具备独立职业伦理与准入标准的专门化职业，同时也引发了专任教师关于行政权力扩张的警惕。
 > - **2023 — 主体化[[Theoretical Perspective|理论视角]]下的科研管理主体建构** 范德克洛特与坎皮西引入主体化理论，揭示科研管理人员如何在逃避[[Academic Precarity|学术不稳定状态]]、邻近科研以及关照教师的过程中建构有意义的学术主体地位。[[Argument_VanderKloet_Campisi_2023_JHEPM|(Vander Kloet & Campisi, 2023)]]
+> - **2026 — 信用循环与科研资源管理贡献的实证阐明** de Jong 将关注重心从主体身份延伸至学术产出贡献，借助信用循环证实科研管理人员在启动支持、伦理转译、多元生源与设备批复上直接推动知识发展。[[Argument_DeJong_2026_SHE|(de Jong, 2026, pp. 1244–1250)]]
 
 ---
 
@@ -141,6 +152,9 @@ updated: 2026-11-25
 > | [[Alt-Ac]] | 概念 | 科研管理人员是另类学术职业群体中最具代表性的典型分支之一。 |
 > | [[Academic Precarity]] | 概念 | 学术界教职岗位的脆弱不稳定状态是促使博士流向科研管理岗位的主要推力。 |
 > | [[University Corporate Engagement Professional]] | 概念 | 两者同属大学第三空间专业人员，分别侧重科研全流程管理与产业外部合作。 |
+> | [[Professional Support Staff]] | 概念 | 科研管理人员在高等教育特有支持岗位体系中的核心组成分支。 |
+> | [[Enabling Bureaucracy]] | 概念 | 揭示科研管理人员通过规程指引与跨界转译缓解学者压力、支持知识产出的科层视角。 |
+> | [[Cycle of Credit]] | 理论 | 标定科研管理人员在启动资金、伦理审批、生源培育与仪器批复环节作用的解释框架。 |
 > | [[Davies' Subjectification Theory]] | 理论 | 为分析科研管理人员如何在屈从与精熟的同生共构中生成合法学术主体提供了核心解释框架。 |
 > | [[Post-structuralism]] | 理论 | 为解构大学访谈[[Discourse\|话语]]、权力互动与流动主体性提供了后结构主义哲学基础。 |
 > | [[Semi-structured Interview]] | 方法 | 考察科研管理人员工作叙事、认同构建与权力反思的主要质性数据收集方法。 |
@@ -149,3 +163,4 @@ updated: 2026-11-25
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_VanderKloet_Campisi_2023_JHEPM|Vander Kloet and Campisi (2023)]] — [[In-depth Interview|深度访谈]]加拿大 5 所大学 19 位科研管理人员，揭示其如何通过远离学术不稳定状态、智力邻近科研与关照教师来确立合法学术主体性。
+> - [[Argument_DeJong_2026_SHE|de Jong (2026)]] — 基于美国研究型大学 22 位专业支持人员（含 6 位科研管理者）的访谈，阐明其通过资源转化直接推动知识产出（pp. 1244–1250）。

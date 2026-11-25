@@ -79,7 +79,7 @@ updated: 2026-11-15
 > - **用途** 为研究确立理论框架、方法适切性与概念[[Reliability|信度]]效度基础；界定核心术语与[[Variable|变量]]关系；识别学科盲区；充当进入自身研究的认知跳板。
 > - **边界** 文献综述区别于[[Abstract|文献摘要]]的简单拼贴与阅读量展示；区别于定位资料的技术性[[Literature Search|文献检索]]，也区别于实证研究中的原始数据收集与直接结果呈现。
 
-> [!citation-card] 文献综述的论证性本质
+> [!citation-card|notitle] 关键表述
 > 文献综述必须是有组织、有论证发展的文本。如果将材料以其他顺序呈现，文献综述将失去意义、连贯性、说服力、逻辑和目的。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|(Cohen et al., 2011, Ch. 7, pp. 127–128)]]
 >
 > *A literature review must be an organized and argument-driven text. Presenting the material in any other order will strip it of meaning, coherence, persuasiveness, logic and purpose.*
@@ -102,12 +102,12 @@ updated: 2026-11-15
 
 ---
 
-> [!feature|notitle]
-> - **避免重复劳动与确立原创性（Avoiding Reinventing the Wheel）** 确保拟议研究不盲目复制已有发现，精准定位自身在领域学术坐标系中的增量价值。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|(Cohen et al., 2011, Ch. 6, p. 112)]]
-> - **确立学术信誉与合法性（Establishing Credibility & Legitimacy）** 展示研究者对领域前沿学术争鸣与关键议题的系统掌控，为研究方案赢得同行互信与方法合法性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|(Cohen et al., 2011, Ch. 7, pp. 126–127)]]
-> - **澄清核心概念与理论框架（Conceptual & Theoretical Framing）** 界定关键[[Construct|构念]]的[[Definition of Terms|操作性定义]]与变量因果逻辑，为[[Cumulative Innovation|后续研究]]搭建稳固的概念支撑网络。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, pp. 25–28)]]
-> - **剖析知识盲区与提供研究跳板（Identifying Gaps & Providing Springboards）** 系统检视既有文献在理论解释、抽样代表性或分析工具上的局限，为提出新问题提供充足理据。[[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch. 1, p. 18)]]
-> - **批判综合正反论证（Critical Synthesis of Counter-Arguments）** 梳理对立学派的争鸣要点，并置呈现支持与反对的经验证据，保障文献评述的客观公正与思想深度。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|(Cohen et al., 2011, Ch. 7, p. 127)]]
+> [!feature] 核心要素
+> - **避免重复劳动与确立原创性** 确保拟议研究不盲目复制已有发现，精准定位自身在领域学术坐标系中的增量价值。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|(Cohen et al., 2011, Ch. 6, p. 112)]]
+> - **确立学术信誉与合法性** 展示研究者对领域前沿学术争鸣与关键议题的系统掌控，为研究方案赢得同行互信与方法合法性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|(Cohen et al., 2011, Ch. 7, pp. 126–127)]]
+> - **澄清核心概念与理论框架** 界定关键[[Construct|构念]]的[[Definition of Terms|操作性定义]]与变量因果逻辑，为[[Cumulative Innovation|后续研究]]搭建稳固的概念支撑网络。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, pp. 25–28)]]
+> - **剖析知识盲区与提供研究跳板** 系统检视既有文献在理论解释、抽样代表性或分析工具上的局限，为提出新问题提供充足理据。[[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch. 1, p. 18)]]
+> - **批判综合正反论证** 梳理对立学派的争鸣要点，并置呈现支持与反对的经验证据，保障文献评述的客观公正与思想深度。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|(Cohen et al., 2011, Ch. 7, p. 127)]]
 
 > [!proc|notitle]
 > 依据 [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] 与[[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015)]]的学术规程，文献综述的写作包含清晰的推进逻辑：
@@ -170,7 +170,7 @@ updated: 2026-11-15
 
 ---
 
-> [!concept-proposition] 命题二｜文献综述在不同[[Paradigm|研究范式]]中承担差[[Alienation|异化]]的认识论与研究设计功能
+> [!concept-proposition] 命题二｜文献综述在不同[[Paradigm|研究范式]]中承担各自不同的认识论与研究设计功能
 > **范式适应性与认识论角色分化维度** 探讨量化、质性与[[Mixed Methods Research|混合方法研究]]中，文献综述在研究时序、结构布局与假设推导上的功能分化。
 
 > [!claim] [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]]
@@ -194,7 +194,7 @@ updated: 2026-11-15
 
 ---
 
-> [!contrast-table|notitle]
+> [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **论证本质命题** | 文献综述是结构严密的累积性论证文本，超越了机械摘要拼贴 | 课题选题论证与开题设计、学位研究文献章节撰写 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al. (2011)]]; [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]] |
@@ -204,7 +204,7 @@ updated: 2026-11-15
 
 ---
 
-> [!dev-timeline|notitle]
+> [!dev-timeline] 概念演变
 > - **1960s–1970s — 传统叙事性综述的经验化确立** 伴随现代社会科学研究的建制化发展，文献综述成为学术出版与学位研究的前置基石，主要以叙事性手法梳理学术源流与思想谱系。
 > - **1980s–1990s — 循证医学驱动与系统综述（SLR）范式兴起** 循证思潮批判传统文献综述存在主观筛选偏误，正式引入包含明确检索式、纳入排除标准与质量评估的系统文献综述方法，并逐步扩展至教育学与社会政策领域。
 > - **2000s — 教科书对综述论证本质与范式角色的系统化界定** Cohen et al. (2000/2011) 系统提出文献综述的七项目的与四步论证进路；[[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] 明确将文献区分为量化中的[[Variable|变量]]演绎指导者、质性中的文末对照参照系以及混合设计中的动态平衡要素。
@@ -226,7 +226,7 @@ updated: 2026-11-15
 > > - **经典[[Grounded Theory|扎根理论]]推迟综述立场** 主张研究者应推迟大规模文献综述，尽可能以理论空白的心智走进田野，防止既有学术概念先入为主地污染微观编码。
 > > - **审慎前置与文末对照立场** [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] 指出完全无知的心智并不存在，前置综述有助于识别真正的问题边界；关键在于保持对本土情境的开放性，并将主要文献作为在文末与田野发现进行深度对照对话的认识论参照系。
 
-> [!warning|notitle]
+> [!warning|limits] 适用局限
 > - **警惕摘要堆砌流水账** 避免将文献综述写成“甲学者指出……乙学者认为……”的离散卡片拼接，必须始终以当前[[Research Question|研究问题]]为主线进行归纳综合。
 > - **注意综述规模的可管理性** 课题范围如果过于宏大散漫，极易导致检索文献量激增并在可用时间内无法妥善消化，削弱研究的可操作性（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011]]）。
 > - **坚守一手[[Primary and Secondary Documents|初级文献]]核对** 尽量直接引用一手原始报告，审慎对待二手文献转述，杜绝未读原著即断章取义复制结论。
@@ -246,7 +246,21 @@ updated: 2026-11-15
 
 ---
 
-> [!evidence-grid-a|notitle]
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Literature Search]] | 概念 | 文献综述之前置资料定位与检索流程，提供待综合的原始文献集合。 |
+> | [[Primary and Secondary Documents]] | 概念 | 界定文献综述据以综合的一手实证材料与二手阐释文献属性。 |
+> | [[Research Question]] | 概念 | 文献综述旨在识别知识空白从而聚焦并确立的核心探究提问。 |
+> | [[Systematic Review]] | 方法 | 采用预先检索语法、双盲筛选与可再现提取规程的系统化综述方法。 |
+> | [[Narrative Synthesis]] | 方法 | 传统文献综述中围绕论证主题串联异质文献的叙事综合取向。 |
+> | [[Grounded Theory]] | 方法 | 围绕前置文献综述是否预设概念框架与开放编码展开争议的质性方法。 |
+> | [[Bibliometric Analysis]] | 方法 | 用于测度综述文献被引溢价与知识压缩效应的计量分析工具。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 将文献综述作为研究方案的核心支柱，系统阐释其在量化变量演绎、质性文末比较与混合方法路径中的差异化设计策略（pp. 25–30）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 将文献综述作为选题论证的核心依据（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|第 6 章]]，p. 112），并系统确立由论题方向、支持证据、对立材料至批判结论的四步论证结构与写作规程（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|第 7 章]]，pp. 126–128）。
 > - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015, Ch. 1)]] — 系统阐明文献综述的核心任务、阅读文献的三种策略（浏览、泛读、精读）、五部分撰写结构以及避免单篇摘要堆砌的注意事项（pp. 18–20）。

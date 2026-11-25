@@ -188,7 +188,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-10
-updated: 2026-11-19
+updated: 2026-11-26
 ---
 
 ---
@@ -277,6 +277,11 @@ updated: 2026-11-19
 
 > [!claim] [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]]
 > **现代大学知识生产与传播共生假说** Atkinson & Blanpied 指出，19 世纪中叶前大学仅是知识传授场所；德国[[Humboldtian Model of Higher Education|洪堡模式]]首创了知识生产与传播并重的理念，并在美国[[Research Universities|研究型大学]]（自约翰斯·霍普金斯大学始）中制度化为独特的研究生院体制。在这一体制下，前沿知识生产与未来拔尖人才培养紧密共生：资深学者在开展尖端探索的同时指导博士研究生，学生在世界一流导师熏陶下习得科研能力并充当生产主力，使大学一跃成为国家科技体系不可替代的核心。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31–32, 41)]]
+
+---
+
+> [!claim] [[Argument_DeJong_2026_SHE|de Jong (2026)]]
+> **专业支持人员的资源转化与信用循环嵌入** 传统研究多将大学非学术人员视为被动执行行政事务的外围群体。de Jong 通过研究型大学民族志观察表明，[[Professional Support Staff|专业支持人员]]在资助申请、空间设备调配与跨界联络中直接介入科研资源的获取、组合与分配，具体调控资源转化能否发生、转化内容、转化比率及转化速率，并借助内部跨学科整合者角色连接个体与大学两个层面的[[Cycle of Credit|信用循环]]，从而实质性推动学术知识产出。[[Argument_DeJong_2026_SHE|(de Jong, 2026, pp. 1244–1250)]]
 
 ---
 
@@ -384,6 +389,7 @@ updated: 2026-11-19
 > | 谱系领域 | 命题类型 | 核心指向 | 关键作用机制 | 核心论证文献 |
 > |:---|:---|:---|:---|:---|
 > | **宏观体制** | **大学职能研教共生** | 现代[[Research Universities\|研究型大学]]确立了知识生产与传播并重的使命，研究生院构建起尖端探索与拔尖人才培养共生生态 | 德国[[Humboldtian Model of Higher Education\|洪堡理念]]移植；研究生师徒共进；前沿科研与研究生教育绑定 | [[Argument_Atkinson_2008_TIS\|Atkinson and Blanpied (2008)]] |
+> | **宏观体制** | **专业支持人员资源管理嵌入** | 非学术[[Professional Support Staff\|专业支持人员]]通过调控资源转化过程并嵌入[[Cycle of Credit\|信用循环]]，实质推动大学知识生产 | 调控转化发生、内容、比率与速率；跨学科整合者角色；连接个体与大学信用循环 | [[Argument_DeJong_2026_SHE\|de Jong (2026)]] |
 > | **宏观体制** | **竞争资助与学术避险** | 去中心化同行评审与竞争资助造就卓越生产力，但竞争过热与启动金耗尽诱发青年学者学术避险与文献平庸化 | 联邦直接资助教师个人；跨校师资竞争；课题成功率走低促使学者规避风险 | [[Argument_Stephan_2013_NBER\|Stephan (2013)]]; Alberts (2011) |
 > | **宏观体制** | **产学协同与资本剥离** | [[University-Industry Collaboration\|产学合作]]与《[[Bayh-Dole Act of 1980\|拜杜法案]]》激活成果商业转化，但也导致成果产权被工业资本捕获及人文社科[[Narrative Knowledge\|叙事知识]]相对衰退 | 知识产权下放大学；企业联合中心资助；硬科学专利主导 | [[Argument_Partaken_2022_Springer\|Partaken (2022)]]; Lissoni (2012) |
 > | **宏观体制** | **超国家自指指标体系** | 跨国组织通过自建科研编制、自制指标与贷款捆绑构筑封闭知识体系，促使比较教育向标准化量化[[Paradigm\|范式]]位移 | 治理巨头自给自足；专职研发建制超越大学均值；以硬事实行使[[Soft Power\|软权力]] | [[Argument_Zapp_2017_IJED\|Zapp (2017)]]; [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]]; [[Argument_Mitter_2009_Europe\|Mitter (2009)]] |
@@ -419,6 +425,7 @@ updated: 2026-11-19
 > - **2026 — 战略产业中的“教育即标准”与中试共置模式** 卓泽林（[[Argument_Zhuo_2026_ICE|卓泽林, 2026, pp. 20–24]]）系统阐释战略半导体体系中大学知识生产的角色重构，揭示高校如何将开源技术方案（如 RISC-V）嵌入课程形成全球标准锁定，并依托 300 毫米晶圆中试线（SUNY Poly）打通工程转化断层。
 > - **2026 — 学术生态系统对探索性知识生产的制度性压制** 豪布罗克等系统批判[[New Managerialism|新管理主义]]指标、短周期雇佣与保守同行评审对前沿科学探索的抑制，证实高风险资助受挫率达 42% 且行政事务侵蚀 35% 科研时间，确立知识生产受制于支持性生态系统[[Emergence|涌现]]属性的宏观理论框架。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026)]]
 > - **2026 — 人工智能时代科学知识生产的个体扩张与集体收窄悖论** [[Argument_Hao_2026_Nature|Hao et al. (2026)]] 基于 4,130 万篇全量自然科学文献追踪，实证揭示 AI 工具重塑科学知识生产的结构性悖论：算法工具成倍放大个体生产力（发文 3.02 倍、被引 4.84 倍），但导致全学科集体[[Knowledge Extent|知识广度]]（Knowledge Extent）收缩 4.63%、超七成细分领域探索范围窄化；知识生产集体向成熟高光数据赛道过度扎堆，引发[[Follow-on Engagement|后继学术卷入度]]下滑 22% 与同质化重复，揭示出自动化既有成熟解取代探索新知源头的知识生产异化机制。[[Argument_Hao_2026_Nature|(Hao et al., 2026, pp. 1237–1243)]]
+> - **2026 — 大学非学术支持人员的知识生产嵌入机制** [[Argument_DeJong_2026_SHE|de Jong (2026)]] 考察美国[[Research Universities|研究型大学]]发现，[[Professional Support Staff|专业支持人员]]通过主导资源转化的发生、内容、比率与速率，并将[[Cycle of Credit|信用循环]]从学术个体延伸至非学术人员与大学组织层面，成为大学知识发展的重要推动力量。[[Argument_DeJong_2026_SHE|(de Jong, 2026, pp. 1244–1250)]]
 
 ---
 
@@ -534,3 +541,4 @@ updated: 2026-11-19
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 构建全球教育[[Champ|场域]]五位置模型，揭示国际机构过度简化学术知识以及外围国家本土知识生产遭跨界[[Gatekeepers|守门人]]群体边缘化的政治经济学机制（pp. 349–355）。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 考察欧洲比较教育知识生产的历史演变，揭示学科由早期历史-哲学诠释向跨国量化实证指标评测的历史位移（pp. 94–98）。
 > - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 普查全球 103 国 654 个研究利用平台，揭示传统国际援助偏向北方短期项目对南方本土知识生产的割裂，阐明全球集中生产与本土规划实施之间双重反馈回路断裂的制度根源（pp. 14, 27, 46）。
+> - [[Argument_DeJong_2026_SHE|de Jong (2026)]] — 揭示大学专业支持人员通过调控资源转化并嵌入信用循环机制，在四个维度上直接推动学术知识生产与跨学科整合（pp. 1244–1250）。
