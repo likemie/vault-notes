@@ -315,7 +315,7 @@ updated: 2026-11-26
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.71"><span class="b14"></span></span>0.71 | [0.55, 0.87] | Cohen's $d$ / 随机效应模型经典逆方差加权 | $M = 15$；$E = 23$；$k = 403$；$N = —$ | 干预因素：合作学习对学生总体学习结果（Learning Outcomes）的二阶干预效应 | $Q(22) = 349.48, p < .01, I^2 = 93.70\%, \tau^2 = 0.13$；95% PI 未报告 | 纳入 15 项一阶元分析，涵盖认知与情感多维产出，研究间异质性极高 |
 > | [[Argument_Koller_2014_WhatWorks\|Köller (2014)]]，引自 [[Argument_Koller_2014_WhatWorks\|Köller (2014, p. 31)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.41"><span class="b8"></span></span>0.41 | — | Cohen's $d$ / 二阶综合 | $M = —$；$E = —$；$k = —$；$N = —$ | 干预因素：结构化合作学习对学业成就的二阶干预效应 | — | 德语区实证审读；指出互惠教学（$d = 0.74$）为其高效代表形态，归入认知激活维度 |
-| [[Argument_Kremers_2014_CooperativeLearning\|Kremers (2014)]]，引自 Hattie (2013, pp. 251–252) | 0.41 | — | Cohen's $d$ / 二阶综合 | $M = 4$；$E = —$；$k = 774$；$N = —$ | 干预因素：合作学习对比异质班级的学业产出效应（对比个体学习 $d = 0.59$，对比竞争学习 $d = 0.54$） | — | 另报告 2 项高等教育小组元分析；高同伴参与、分组训练与小规模分组显著放大效果 |
+> | [[Argument_Kremers_2014_CooperativeLearning\|Kremers (2014)]]，引自 Hattie (2013, pp. 251–252) | <span class="mx-bar ef-bar" title="Cohen's d 0.41"><span class="b8"></span></span>0.41 | — | Cohen's $d$ / 二阶综合 | $M = 4$；$E = —$；$k = 774$；$N = —$ | 干预因素：合作学习对比异质班级的学业产出效应（对比个体学习 $d = 0.59$，对比竞争学习 $d = 0.54$） | — | 另报告 2 项高等教育小组元分析；高同伴参与、分组训练与小规模分组显著放大效果 |
 
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>

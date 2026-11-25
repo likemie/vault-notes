@@ -431,7 +431,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
-      "title": ""
+      "title": "An Analysis of the Opinions of University Non-Academic Staff in the Nordic Countries"
     },
     "Abadie, 2005": {
       "doi": "",
@@ -1235,13 +1235,13 @@
       "title": ""
     },
     "Adler & Borys, 1996": {
-      "doi": "",
+      "doi": "10.2307/2393986",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md",
         "wiki/concepts/higher-education/Enabling Bureaucracy.md"
       ],
-      "title": ""
+      "title": "Two Types of Bureaucracy: Enabling and Coercive"
     },
     "Adler & Florida, 2017": {
       "doi": "",
@@ -2949,7 +2949,8 @@
       "doi": "10.1080/03075070701346832",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md"
+        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md",
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
       "title": "‘Get yourself some nice, neat, matching box files!’ Research administrators and occupational identity work"
     },
@@ -3633,7 +3634,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
-      "title": ""
+      "title": "Race and Ethnicity of College and University Staff"
     },
     "American Educational Research Association, 2000": {
       "doi": "",
@@ -9334,6 +9335,14 @@
       "seen_in": [],
       "title": "Re-Examination of Motivation in Learning Contexts: Meta-Analytically Investigating the Role Type of Motivation Plays in the Prediction of Key Training Outcomes"
     },
+    "Bauer, 2000": {
+      "doi": "10.1002/ir.10508",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": "The Front Line: Satisfaction of Classified Employees"
+    },
     "Bauersfeld, 1972": {
       "doi": "",
       "isbn": "",
@@ -10206,14 +10215,14 @@
       "title": "Aligning learning incentives of students and teachers  Results from a social experiment in Mexican high schools"
     },
     "Beime et al., 2021": {
-      "doi": "",
+      "doi": "10.1002/berj.3697",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md",
         "wiki/concepts/higher-education/Enabling Bureaucracy.md",
         "wiki/theories/science-policy/Cycle of Credit.md"
       ],
-      "title": ""
+      "title": "Giving the Invisible Hand a Helping Hand: How ‘Grants Offices’ Work to Nourish Neoliberal Researchers"
     },
     "Beissinger, 2002": {
       "doi": "",
@@ -12805,12 +12814,12 @@
       "title": "Organizations as penetrated hierarchies: Environmental pressures and control in professional organizations"
     },
     "Bleiklie et al., 2017": {
-      "doi": "",
+      "doi": "10.1007/978-3-319-53865-5",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
-      "title": ""
+      "title": "Managing Universities: Policy and Organizational Change from a Western European Comparative Perspective"
     },
     "Bleses, 2020": {
       "datasets": [
@@ -14193,7 +14202,9 @@
     "Bossu et al., 2018": {
       "doi": "",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
       "title": "Professional and support staff in higher education: An introduction"
     },
     "Boston, 2008": {
@@ -15246,7 +15257,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
-      "title": ""
+      "title": "How to Govern Research in the ‘Age of Innovation’: Compatibilities and Incompatibilities of Policy Rationales"
     },
     "Brautigam, 2020": {
       "doi": "",
@@ -18599,6 +18610,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Effects of Bilingual Cooperative Integrated Reading and Composition on Students Making the Transition from Spanish to English Reading"
+    },
+    "Caldwell, 2024": {
+      "doi": "10.1080/1360080X.2024.2306569",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": "Nomenclature in Higher Education: ‘non-Academic’ as a Construct"
     },
     "Calhoon, 2003": {
       "datasets": [
@@ -25741,12 +25760,12 @@
       "title": ""
     },
     "Cox et al., 2017": {
-      "doi": "",
+      "doi": "10.1002/asi.23781",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
-      "title": ""
+      "title": "Developments in Research Data Management in Academic Libraries: Towards an Understanding of Research Data Service Maturity"
     },
     "Cox, 2004": {
       "doi": "",
@@ -26431,6 +26450,14 @@
         "wiki/persons/finland/Sami Moisio.md"
       ],
       "title": ""
+    },
+    "Croucher & Woelert, 2021": {
+      "doi": "10.1007/s10734-021-00759-8",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": "Administrative Transformation and Managerial Growth: A Longitudinal Analysis of Changes in the non-Academic Workforce at Australian Universities"
     },
     "Crow et al., 2006": {
       "doi": "",
@@ -27309,12 +27336,12 @@
       "title": ""
     },
     "Daly, 2013": {
-      "doi": "",
+      "doi": "10.1080/1360080X.2012.727701",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
-      "title": ""
+      "title": "Philanthropy, the New Professionals and Higher Education: The Advent of Directors of Development and Alumni Relations"
     },
     "Daly, 2014": {
       "datasets": [
@@ -28746,12 +28773,12 @@
       "title": ""
     },
     "Deem & Brehony, 2005": {
-      "doi": "",
+      "doi": "10.1080/03054980500117827",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
-      "title": ""
+      "title": "Management as Ideology: The Case of ‘New Managerialism’ in Higher Education"
     },
     "Deem et al., 2007": {
       "doi": "",
@@ -30654,12 +30681,12 @@
       "title": ""
     },
     "Dobson, 2000": {
-      "doi": "",
+      "doi": "10.1080/713678142",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
-      "title": ""
+      "title": "‘Them and Us’—General and Non-General Staff in Higher Education"
     },
     "Dobson, 2009": {
       "doi": "",
@@ -31788,12 +31815,12 @@
       "title": "A Randomized Trial of a Computer-Assisted Tutoring Program Targeting Letter-Sound Expression"
     },
     "Ducas et al., 2020": {
-      "doi": "",
+      "doi": "10.5860/crl.81.1.43",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
-      "title": ""
+      "title": "Reinventing Ourselves: New and Emerging Roles of Academic Librarians in Canadian Research-Intensive Universities"
     },
     "Duckworth & Duckworth, 2016": {
       "doi": "",
@@ -34612,12 +34639,12 @@
       "title": "Impact of trained versus spontaneous reciprocal peer tutoring on adolescent students"
     },
     "Enserink, 2012": {
-      "doi": "",
+      "doi": "10.1126/science.338.6112.1270",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
-      "title": ""
+      "title": "Final Report on Stapel Also Blames Field As a Whole"
     },
     "Enthoven & de Bruijn, 2010": {
       "doi": "",
@@ -40143,12 +40170,12 @@
       "title": ""
     },
     "Frølich et al., 2019": {
-      "doi": "",
+      "doi": "10.1177/0952076718762041",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
-      "title": ""
+      "title": "Strengthening the Strategic Capacity of Public Universities: The Role of Internal Governance Models"
     },
     "Früchtl, 1986": {
       "doi": "",
@@ -41256,6 +41283,30 @@
       "isbn": "",
       "seen_in": [],
       "title": "Year-round schooling as an avenue to major structural reform"
+    },
+    "Gander et al., 2019": {
+      "doi": "10.1108/CDI-07-2018-0191",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": "The Careers of University Professional Staff: A Systematic Literature Review"
+    },
+    "Gander, 2018a": {
+      "doi": "10.1080/13603108.2017.1307876",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": "A Descriptive Study of Professional Staff, and Their Careers, in Australian and UK Universities"
+    },
+    "Gander, 2018b": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": "Careers of Professional Staff in Higher Education: Theory and Practical Implications"
     },
     "Gao et al., 2020": {
       "doi": "",
@@ -42542,7 +42593,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
-      "title": ""
+      "title": "The Value of co-Operation: An Examination of the Work Relationships of University Professional Services Staff and Consequences for Service Quality"
     },
     "Gibbs & Simpson, 2004": {
       "doi": "",
@@ -45528,6 +45579,14 @@
       "seen_in": [],
       "title": "Impact of mentoring on the academic achievement of African American middle school males students"
     },
+    "Gray, 2015": {
+      "doi": "10.1080/1360080X.2015.1079397",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": "Culture Clash or Ties That Bind? What Australian Academics Think of Professional Staff"
+    },
     "Graziano, 1976": {
       "datasets": [
         "eef:collaborative-learning-approaches"
@@ -46678,6 +46737,14 @@
       "seen_in": [],
       "title": "Childhood cancer, age at diagnosis and educational attainment: A meta-analysis."
     },
+    "Gumport & Pusser, 1995": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": "A Case of Bureaucratic Accretion: Context and Consequences"
+    },
     "Gumport, 2007": {
       "doi": "",
       "isbn": "",
@@ -47799,13 +47866,14 @@
       "title": "Oral language skills intervention in pre-school - A cautionary tale"
     },
     "Halffman & Radder, 2015": {
-      "doi": "",
+      "doi": "10.1007/s11024-015-9270-9",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md",
         "wiki/concepts/higher-education/Enabling Bureaucracy.md",
         "wiki/concepts/higher-education/Professional Support Staff.md"
       ],
-      "title": ""
+      "title": "The Academic Manifesto: From an Occupied to a Public University"
     },
     "Halina, 2021": {
       "doi": "",
@@ -49049,12 +49117,12 @@
       "title": "The Effectiveness of the Wake Summerbridge Summer Enrichment Program."
     },
     "Harman & Stone, 2006": {
-      "doi": "",
+      "doi": "10.1080/13600800600979959",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
-      "title": ""
+      "title": "Australian University Technology Transfer Managers: Backgrounds, Work Roles, Specialist Skills and Perceptions"
     },
     "Harmon & Hedrick, 2000": {
       "doi": "",
@@ -50625,6 +50693,14 @@
       "seen_in": [],
       "title": "The effects of thinking aloud on the comprehension and monitoring of sixth graders"
     },
+    "Hedrick et al., 2009": {
+      "doi": "10.1080/09645290701523184",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": "Administrative Costs in Higher Education: How Fast are They Really Growing?"
+    },
     "Hedrick, 1996": {
       "datasets": [
         "eef:one-to-one-tuition"
@@ -51490,6 +51566,14 @@
         "wiki/theories/educational-philosophy/Critical Theory.md"
       ],
       "title": ""
+    },
+    "Hessels & van Lente, 2011": {
+      "doi": "10.1007/s11024-011-9167-1",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": "Practical Applications as a Source of Credibility: A Comparison of Three Fields of Dutch Academic Chemistry"
     },
     "Hessen & Kuncel, 2022": {
       "datasets": [
@@ -54949,7 +55033,7 @@
         "wiki/concepts/higher-education/Professional Support Staff.md",
         "wiki/theories/higher-education/Loosely Coupled Systems.md"
       ],
-      "title": ""
+      "title": "Research on Actors and Groups of Actors at Higher Education Institutions"
     },
     "I. L., 1933": {
       "doi": "",
@@ -55544,6 +55628,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Is Asthma Associated with Cognitive Impairments? A Meta-Analytic Review"
+    },
+    "Irjala, 2023": {
+      "doi": "10.1007/s10734-023-01121-w",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": "Revisiting the Concept of Highly Skilled Professionals: An Analysis of Support Staff in Finnish Universities"
     },
     "Irlen, 2003": {
       "datasets": [
@@ -58320,6 +58412,14 @@
       "seen_in": [],
       "title": "Training reading comprehension in adequate decoders/poor comprehenders  Verbal versus visual strategies"
     },
+    "Johnsrud, 2002": {
+      "doi": "10.1023/A:1014845218989",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": "Measuring the Quality of Faculty and Administrative Worklife: Implications for College and University Campuses"
+    },
     "Johnston, 2012": {
       "doi": "",
       "isbn": "",
@@ -59484,12 +59584,12 @@
       "title": "An Examination of the Effects of Technology Use in Music Education and Training on Academic Achievement: A Meta-Analysis Study."
     },
     "Kallenberg, 2020": {
-      "doi": "",
+      "doi": "10.1007/s11233-020-09058-w",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
-      "title": ""
+      "title": "Differences in Influence: Different Types of University Employees Compared"
     },
     "Kamarianakis & Webs, 2019": {
       "doi": "",
@@ -60097,12 +60197,12 @@
       "title": ""
     },
     "Karlsson & Ryttberg, 2016": {
-      "doi": "",
+      "doi": "10.3402/nstep.v2.31537",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
-      "title": ""
+      "title": "Those Who Walk the Talk: The Role of Administrative Professionals in Transforming Universities Into Strategic Actors"
     },
     "Karmel et al., 1973": {
       "doi": "",
@@ -61704,6 +61804,14 @@
         "wiki/concepts/science-communication/Ratgeberliteratur.md"
       ],
       "title": ""
+    },
+    "Kerridge et al., 2023": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": "Introduction and Structure"
     },
     "Kersh, 1970": {
       "datasets": [
@@ -67182,7 +67290,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
-      "title": ""
+      "title": "Laboratory Life: The Construction of Scientific Facts"
     },
     "Latour, 1983": {
       "doi": "",
@@ -68901,7 +69009,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
-      "title": ""
+      "title": "Rising Administrative Costs"
     },
     "Leslie, 1972": {
       "doi": "",
@@ -71730,12 +71838,12 @@
       "title": ""
     },
     "Lorenz, 2012": {
-      "doi": "",
+      "doi": "10.1086/664553",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
-      "title": ""
+      "title": "If You’re So Smart, Why Are You Under Surveillance? Universities, Neoliberalism, and New Public Management"
     },
     "Lorenzo, 1993": {
       "datasets": [
@@ -77724,12 +77832,12 @@
       "title": ""
     },
     "Mcinnis, 1998": {
-      "doi": "",
+      "doi": "10.1080/1360080980200204",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
-      "title": ""
+      "title": "Academics and Professional Administrators in Australian Universities: Dissolving Boundaries and new Tensions"
     },
     "Mead, 1934": {
       "doi": "",
@@ -86801,6 +86909,14 @@
       "seen_in": [],
       "title": "Effects of Reciprocal Teaching on Reading Comprehension of Low-Achieving Adolescents. The Importance of Specific Teacher Skills"
     },
+    "Okotoni & Kugbayi, 2024": {
+      "doi": "10.1007/s10734-023-01160-3",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": "Conflict Between Academic Staff and non-Teaching Staff in Nigerian Universities: Causes and Consequences"
+    },
     "Oksala, 2015": {
       "doi": "",
       "isbn": "",
@@ -88539,13 +88655,21 @@
       "seen_in": [],
       "title": "Integrating the 6 + 1 writing traits model with cross-age tutoring  An investigation of elementary students' writing development"
     },
+    "Paradeise & Thoenig, 2015": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": "In Search of Academic Quality"
+    },
     "Paradeise et al., 2009": {
       "doi": "",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
-      "title": ""
+      "title": "A Comparative Approach to Higher Education Reforms in Western European Countries"
     },
     "Paradies & Linser, 2003": {
       "doi": "",
@@ -92119,7 +92243,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
-      "title": ""
+      "title": "Public Management Reform: A Comparative Analysis"
     },
     "Pollitt & Bouckaert, 2011": {
       "doi": "",
@@ -95852,9 +95976,11 @@
       "title": ""
     },
     "Rhoades & Sporn, 2002": {
-      "doi": "",
+      "doi": "10.1080/13583883.2002.9967066",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
       "title": "New models of management and shifting modes and costs of production: Europe and the United States"
     },
     "Rhoades, 1998": {
@@ -95865,7 +95991,7 @@
         "wiki/concepts/higher-education/Enabling Bureaucracy.md",
         "wiki/concepts/higher-education/Professional Support Staff.md"
       ],
-      "title": ""
+      "title": "Managed Professionals"
     },
     "Rhoades, 2009": {
       "doi": "",
@@ -95873,7 +95999,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
-      "title": ""
+      "title": "Envisioning Invisible Workforces: Enhancing Intellectual Capital"
     },
     "Rhodes & Linnenluecke, 2025": {
       "doi": "",
@@ -98683,6 +98809,14 @@
       ],
       "title": ""
     },
+    "Rosser, 2004": {
+      "doi": "10.1023/B:HIGH.0000035543.58672.52",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": "A National Study on Midlevel Leaders in Higher Education: The Unsung Professionals in the Academy"
+    },
     "Rossman & Morley, 1995": {
       "doi": "",
       "isbn": "",
@@ -101189,7 +101323,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
-      "title": ""
+      "title": "Who are the Professionals at the Interface of Science Working at Research Funding, Science Policy Making, and Similar Organisations?"
     },
     "Santos, 1999": {
       "doi": "",
@@ -101241,7 +101375,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
-      "title": ""
+      "title": "Brokering Knowledge, Monitoring Compliance: Technology Transfer Professionals on the Boundary Between Academy and Industry"
     },
     "Sapsford, 1999": {
       "doi": "",
@@ -102698,8 +102832,18 @@
     "Schneijderberg & Merkator, 2013": {
       "doi": "",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
       "title": "The new higher education professionals"
+    },
+    "Schneijderberg, 2015": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": "Work Jurisdiction of New Higher Education Professionals"
     },
     "Schoenfeld, 1985": {
       "doi": "",
@@ -103658,12 +103802,12 @@
       "title": "How well do children who are internationally adopted acquire language? A meta-analysis"
     },
     "Scott, 1980": {
-      "doi": "",
+      "doi": "10.1007/BF00144144",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
-      "title": ""
+      "title": "Lords, Squires, and Yeomen: Collegiate Middle-Managers in the U.S."
     },
     "Scott, 1982": {
       "doi": "",
@@ -104750,6 +104894,7 @@
       "doi": "10.2307/27856006",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md",
         "wiki/concepts/science-policy/Ghost Authorship.md"
       ],
       "title": "The Invisible Technician"
@@ -105113,12 +105258,12 @@
       "title": ""
     },
     "Shelley, 2010": {
-      "doi": "",
+      "doi": "10.1111/j.1468-2273.2009.00429.x",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
-      "title": ""
+      "title": "Research Managers Uncovered: Changing Roles and ‘Shifting Arenas’ in the Academy"
     },
     "Shelton, 1997": {
       "datasets": [
@@ -107624,7 +107769,8 @@
       "doi": "10.1080/1360080X.2021.1884513",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md"
+        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md",
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
       "title": "‘So what do you do?’: Third space professionals navigating a Canadian university context"
     },
@@ -107861,6 +108007,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Evaluating Math Recovery  Assessing The Causal Impact of a Diagnostic Tutoring Program on Student Achievement"
+    },
+    "Smith, 2014": {
+      "doi": "10.1093/scipol/sct085",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": "The Politics of Ideas: The Complex Interplay of Health Inequalities Research and Policy"
     },
     "Smith, 2015": {
       "datasets": [
@@ -109095,7 +109249,7 @@
         "wiki/methods/qualitative/Interview Protocol.md",
         "wiki/methods/qualitative/Qualitative Interview.md"
       ],
-      "title": ""
+      "title": "The Ethnographic Interview"
     },
     "Spradley, 1980": {
       "doi": "",
@@ -109408,12 +109562,12 @@
       "title": "Representing School Success and Failure: Media Coverage of International Tests"
     },
     "Stackhouse & Day, 2005": {
-      "doi": "",
+      "doi": "10.1386/ijtm.4.3.189/1",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
-      "title": ""
+      "title": "Global and Regional Practices in University Research Management: Emerging Trends"
     },
     "Stacki, 1999": {
       "doi": "",
@@ -109470,7 +109624,7 @@
       "title": ""
     },
     "Stage & Aagaard, 2019": {
-      "doi": "",
+      "doi": "10.1007/s10734-019-00362-y",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md",
@@ -111227,7 +111381,7 @@
         "wiki/methods/qualitative/Analytic Framework.md",
         "wiki/methods/qualitative/Open Coding.md"
       ],
-      "title": ""
+      "title": "Basics of Qualitative Research: Techniques and Procedures for Developing Grounded Theory"
     },
     "Strauss, 1959": {
       "doi": "",
@@ -113822,12 +113976,12 @@
       "title": ""
     },
     "Teelken, 2012": {
-      "doi": "",
+      "doi": "10.1080/03075079.2010.511171",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
-      "title": ""
+      "title": "Compliance or Pragmatism: How do Academics Deal with Managerialism in Higher Education? A Comparative Study in Three Countries"
     },
     "Teelken, 2015": {
       "doi": "https://doi.org/10.1111/padm.12140",
@@ -119189,6 +119343,14 @@
       ],
       "title": ""
     },
+    "Veles & Carter, 2016": {
+      "doi": "10.1080/1360080X.2016.1196938",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": "Imagining a Future: Changing the Landscape for Third Space Professionals in Australian Higher Education Institutions"
+    },
     "Vella, 1978": {
       "doi": "",
       "isbn": "",
@@ -122645,6 +122807,14 @@
       ],
       "title": "Shifting identities and blurring boundaries: The emergence of third space professionals in UK higher education"
     },
+    "Whitchurch, 2020": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": "Professional Staff Identities in Higher Education"
+    },
     "White & Casto, 1985": {
       "datasets": [
         "metax:S0546"
@@ -124224,6 +124394,14 @@
         "wiki/arguments/journal-articles/Comparative Education/Argument_Klerides_2023_CE.md"
       ],
       "title": ""
+    },
+    "Wohlmuther, 2008": {
+      "doi": "10.1080/13600800802155192",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": "‘Sleeping with the Enemy’: How far are you Prepared to go to Make a Difference? A Look at the Divide Between Academic and Allied Staff"
     },
     "Wojciuk et al., 2015": {
       "doi": "10.1057/eps.2015.26",
@@ -125987,6 +126165,14 @@
         "wiki/persons/china/Rui Yang.md"
       ],
       "title": ""
+    },
+    "Yang-Yoshihara et al., 2023": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": "Evolution of Professional Identity in Research Management and Administration"
     },
     "Yannier et al., 2020": {
       "doi": "",
