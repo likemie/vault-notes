@@ -64,6 +64,10 @@ function accountName(provider, account, preferences) {
   return preferences.antigravityNames[account.id] ?? (account.profileName || account.label);
 }
 
+function geminiWeekly(row) {
+  return row.windows.find(quota => quota.id === "gemini-weekly");
+}
+
 function retainAntigravitySnapshots(current, previous) {
   const saved = new Map(previous.filter(row => isAntigravityId(row.id) && row.windows.length).map(row => [row.id, row]));
   if (!saved.size) return current;
@@ -75,7 +79,8 @@ function retainAntigravitySnapshots(current, previous) {
     const old = saved.get(row.id);
     saved.delete(row.id);
     if (!old) return row;
-    const latest = old.fetchedAt > (row.fetchedAt ?? 0) ? stale(old) : row;
+    const missingWeekly = row.source === "Antigravity Tools 快照" && geminiWeekly(old) && !geminiWeekly(row);
+    const latest = missingWeekly || old.fetchedAt > (row.fetchedAt ?? 0) ? stale(old) : row;
     const profileName = row.profileName || old.profileName;
     return profileName && !latest.profileName ? { ...latest, profileName } : latest;
   });
@@ -132,5 +137,5 @@ function quotaText(value) {
 module.exports = {
   MINUTE, HOUR, PROVIDERS, KEYS, INTERVALS, STATUSES, isObject, text, percent, timestamp, isoTimestamp,
   resetLabel, freshness, settings, cacheFrom, normalizeWindow, accountStatus, usableWindows, quotaText,
-  isAntigravityId, antigravityProfileName, accountName, retainAntigravitySnapshots,
+  isAntigravityId, antigravityProfileName, accountName, geminiWeekly, retainAntigravitySnapshots,
 };

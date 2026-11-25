@@ -1,6 +1,7 @@
 const { Modal, setIcon } = require("obsidian");
 const {
   HOUR, KEYS, PROVIDERS, STATUSES, resetLabel, freshness, accountStatus, usableWindows, quotaText, accountName, isAntigravityId,
+  geminiWeekly,
 } = require("./model");
 
 const MARGIN = 10;
@@ -192,19 +193,23 @@ function displayGemini(parent, state, actions, openSnapshots) {
     arrow.setAttribute("aria-hidden", "true");
     setIcon(arrow, "chevron-right");
     add(summary, "span", "snapshot-name", accountName("antigravity", row, state.settings));
-    // The account summary shows the main Gemini bucket. Model-specific quotas stay in the details.
-    const weekly = row.windows.find(quota => quota.id === "gemini-weekly");
+    const weekly = geminiWeekly(row);
     const metrics = add(summary, "span", "snapshot-metrics");
-    const remaining = quotaText(weekly?.remaining ?? null);
-    add(metrics, "strong", "num", remaining).setAttribute("aria-label", "每周剩余 " + (remaining === "—" ? "未知" : remaining));
+    const remaining = weekly?.remaining ?? null;
     const resetAt = weekly?.resetAt ?? null;
+    const expired = resetAt !== null && resetAt <= state.now;
+    const badge = add(metrics, "strong", "num auf-snapshot-quota", quotaText(remaining));
+    if (!expired && remaining !== null) {
+      badge.dataset.aufLevel = remaining >= 60 ? "high" : remaining >= 20 ? "medium" : "low";
+    }
+    const quotaLabel = expired ? "上次记录的每周剩余 " : "每周剩余 ";
+    badge.setAttribute("aria-label", quotaLabel + (remaining === null ? "未知" : quotaText(remaining)));
     if (resetAt === null) {
       add(metrics, "small", "muted", "时间未知");
     } else {
-      const expired = resetAt <= state.now;
-      const reset = add(metrics, "time", "muted", freshness(resetAt, state.now) + (expired ? " 已过" : ""));
+      const reset = add(metrics, "time", "muted", freshness(resetAt, state.now) + (expired ? " 待同步" : ""));
       reset.dateTime = new Date(resetAt).toISOString();
-      reset.title = resetLabel(resetAt, state.now) + (expired ? " · 已过" : "");
+      reset.title = expired ? "重置时间已过，等待新的周额度" : resetLabel(resetAt, state.now);
     }
     const details = add(entry, "div", "snapshot-windows");
     displayGeminiWindows(details, row, state, true);

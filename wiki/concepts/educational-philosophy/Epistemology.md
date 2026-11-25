@@ -432,4 +432,5 @@ updated: 2026-11-25
 > - [[Argument_Vavrus_2006_CICE|Vavrus and Bartlett (2006)]] — 提出“比较认知”（comparatively knowing）认识论构想，批判比较教育将认识论降格为技术程序争吵，确立垂直[[Case Study|案例研究]]跨越普遍主义与极端相对主义的多尺度认识论框架（pp. 95–97, 100–101）。
 > - [[Argument_Munch_2014_TCR|Münch (2014)]] — 剖析经合组织 PISA 通用基础素养（实用主义认识论）与德国本土人文教养（Bildung）及深度学科分化传统之间的认识论冲突，揭示外部标准化规制对本土知识生态的侵蚀（pp. 4–7）。
 > - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014)]] — 借用课程测不准原理剖析宏观实证概览与微观教学决策之间的认识论变焦张力，否定教学方法的客体中立性，确立一线教师作为探究主体、累积性个案研究作为检验宏观推论终极试金石的实践认识论转向（pp. 40–47）。
+> - [[Argument_VonOlberg_2014_GeneralDidactics|von Olberg (2014)]] — 批判循证教学的社会技术主义科学观，主张在教师职业成长中将日常、职业与科学三类知识整合为专业知识（pp. 63–64）。
 

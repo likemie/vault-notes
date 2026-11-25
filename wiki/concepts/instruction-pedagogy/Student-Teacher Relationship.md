@@ -275,4 +275,5 @@ updated: 2026-11-25
 > - [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] — 探讨[[Visible Learning|可见的学习]]对有意图师生关系的考察及其在复杂知识阶层化转译中的理论边界。
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 从欧陆教育哲学视角审视可见学习对师生关系的工具化还原，揭示技术评价逻辑对文化承载与主体间交往本质的消解。（pp. 3–4, 6–8）
 > - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 论述积极融洽的师生关系构成优秀教师与[[Active Learning|主动学习]]者共同劳作的基础，教学本质上是对行动效果的持续反思与学习过程。
+> - [[Argument_VonOlberg_2014_GeneralDidactics|von Olberg (2014)]] — 剖析哈蒂要求教师在师生关系层面让学习过程可见的“双重目光”，指出其“使命”“可见性”“共同旅程”等隐喻属于超越分析科学的规范性预设（pp. 53, 57）。
 

@@ -1,6 +1,7 @@
 const { Notice, Plugin, PluginSettingTab, Setting } = require("obsidian");
 const {
   KEYS, PROVIDERS, MINUTE, INTERVALS, cacheFrom, settings, text, isAntigravityId, accountName, retainAntigravitySnapshots,
+  geminiWeekly,
 } = require("./model");
 const { collectors, issue, defaultFailure } = require("./collectors");
 const { Dashboard, FloatingPanel } = require("./view");
@@ -153,8 +154,14 @@ class UsageFloatPlugin extends Plugin {
     if (this.lifetime.signal.aborted) return;
     this.render();
     if (!this.preferences.interval) return;
+    const now = Date.now();
     for (const id of KEYS) {
-      if (Date.now() >= (this.due.get(id)?.at ?? 0)) void this.refresh(id);
+      const due = this.due.get(id);
+      const weekReset = id === "antigravity" && due && this.rows[id].some(row => {
+        const resetAt = geminiWeekly(row)?.resetAt;
+        return resetAt > due.checkedAt && resetAt <= now;
+      });
+      if (now >= (due?.at ?? 0) || weekReset) void this.refresh(id);
     }
   }
 
@@ -188,6 +195,7 @@ class UsageFloatPlugin extends Plugin {
     if (this.busy.has(id) || this.lifetime.signal.aborted) return;
     const controller = new AbortController();
     const { signal } = controller;
+    const checkedAt = Date.now();
     this.busy.set(id, controller);
     this.render();
     const prior = this.rows[id];
@@ -222,8 +230,12 @@ class UsageFloatPlugin extends Plugin {
       this.busy.delete(id);
       if (!this.lifetime.signal.aborted) {
         if (!signal.aborted) {
-          const misses = failed ? Math.min((this.due.get(id)?.misses ?? 0) + 1, 3) : 0;
-          this.due.set(id, { misses, at: Date.now() + Math.max(1, this.preferences.interval) * 2 ** misses * MINUTE });
+          const previous = this.due.get(id);
+          const misses = failed ? Math.min((previous?.misses ?? 0) + 1, 3) : 0;
+          this.due.set(id, {
+            misses, at: Date.now() + Math.max(1, this.preferences.interval) * 2 ** misses * MINUTE,
+            checkedAt: accountId ? (previous?.checkedAt ?? 0) : checkedAt,
+          });
           this.lastRefresh = Date.now();
           this.persist();
         }

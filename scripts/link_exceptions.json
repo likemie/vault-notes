@@ -1536,5 +1536,11 @@
       "sentence": "Die Auswertung von Großstudien bestimmt die Fragestellung, dem Einzelfall in seiner Besonderheit kann man mit allgemeinen Aussagen und Regelungen nur sehr eingeschränkt gerecht werden.* (Rumpf, 1969; cit.",
       "target": "wiki/concepts/educational-philosophy/Typicality.md"
     }
+  ],
+  "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md": [
+    {
+      "sentence": "同时须针对每个学习群体定期开展全面、分化的经验学习诊断，以确定班级层面的预期学习成效基准。",
+      "target": "wiki/concepts/educational-philosophy/Experiential Learning.md"
+    }
   ]
 }

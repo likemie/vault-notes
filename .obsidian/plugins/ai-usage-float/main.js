@@ -66,6 +66,9 @@ var require_model = __commonJS({
       if (provider !== "antigravity") return account.label;
       return preferences.antigravityNames[account.id] ?? (account.profileName || account.label);
     }
+    function geminiWeekly2(row) {
+      return row.windows.find((quota) => quota.id === "gemini-weekly");
+    }
     function retainAntigravitySnapshots2(current, previous) {
       const saved = new Map(previous.filter((row) => isAntigravityId2(row.id) && row.windows.length).map((row) => [row.id, row]));
       if (!saved.size) return current;
@@ -77,7 +80,8 @@ var require_model = __commonJS({
         const old = saved.get(row.id);
         saved.delete(row.id);
         if (!old) return row;
-        const latest = old.fetchedAt > (row.fetchedAt ?? 0) ? stale(old) : row;
+        const missingWeekly = row.source === "Antigravity Tools \u5FEB\u7167" && geminiWeekly2(old) && !geminiWeekly2(row);
+        const latest = missingWeekly || old.fetchedAt > (row.fetchedAt ?? 0) ? stale(old) : row;
         const profileName = row.profileName || old.profileName;
         return profileName && !latest.profileName ? { ...latest, profileName } : latest;
       });
@@ -151,6 +155,7 @@ var require_model = __commonJS({
       isAntigravityId: isAntigravityId2,
       antigravityProfileName,
       accountName: accountName2,
+      geminiWeekly: geminiWeekly2,
       retainAntigravitySnapshots: retainAntigravitySnapshots2
     };
   }
@@ -661,7 +666,8 @@ var require_view = __commonJS({
       usableWindows,
       quotaText,
       accountName: accountName2,
-      isAntigravityId: isAntigravityId2
+      isAntigravityId: isAntigravityId2,
+      geminiWeekly: geminiWeekly2
     } = require_model();
     var MARGIN = 10;
     var MIN_WIDTH = 240;
@@ -846,18 +852,23 @@ var require_view = __commonJS({
         arrow.setAttribute("aria-hidden", "true");
         setIcon(arrow, "chevron-right");
         add(summary, "span", "snapshot-name", accountName2("antigravity", row, state.settings));
-        const weekly = row.windows.find((quota) => quota.id === "gemini-weekly");
+        const weekly = geminiWeekly2(row);
         const metrics = add(summary, "span", "snapshot-metrics");
-        const remaining = quotaText(weekly?.remaining ?? null);
-        add(metrics, "strong", "num", remaining).setAttribute("aria-label", "\u6BCF\u5468\u5269\u4F59 " + (remaining === "\u2014" ? "\u672A\u77E5" : remaining));
+        const remaining = weekly?.remaining ?? null;
         const resetAt = weekly?.resetAt ?? null;
+        const expired = resetAt !== null && resetAt <= state.now;
+        const badge = add(metrics, "strong", "num auf-snapshot-quota", quotaText(remaining));
+        if (!expired && remaining !== null) {
+          badge.dataset.aufLevel = remaining >= 60 ? "high" : remaining >= 20 ? "medium" : "low";
+        }
+        const quotaLabel = expired ? "\u4E0A\u6B21\u8BB0\u5F55\u7684\u6BCF\u5468\u5269\u4F59 " : "\u6BCF\u5468\u5269\u4F59 ";
+        badge.setAttribute("aria-label", quotaLabel + (remaining === null ? "\u672A\u77E5" : quotaText(remaining)));
         if (resetAt === null) {
           add(metrics, "small", "muted", "\u65F6\u95F4\u672A\u77E5");
         } else {
-          const expired = resetAt <= state.now;
-          const reset = add(metrics, "time", "muted", freshness(resetAt, state.now) + (expired ? " \u5DF2\u8FC7" : ""));
+          const reset = add(metrics, "time", "muted", freshness(resetAt, state.now) + (expired ? " \u5F85\u540C\u6B65" : ""));
           reset.dateTime = new Date(resetAt).toISOString();
-          reset.title = resetLabel(resetAt, state.now) + (expired ? " \xB7 \u5DF2\u8FC7" : "");
+          reset.title = expired ? "\u91CD\u7F6E\u65F6\u95F4\u5DF2\u8FC7\uFF0C\u7B49\u5F85\u65B0\u7684\u5468\u989D\u5EA6" : resetLabel(resetAt, state.now);
         }
         const details = add(entry, "div", "snapshot-windows");
         displayGeminiWindows(details, row, state, true);
@@ -1226,7 +1237,8 @@ var {
   text,
   isAntigravityId,
   accountName,
-  retainAntigravitySnapshots
+  retainAntigravitySnapshots,
+  geminiWeekly
 } = require_model();
 var { collectors, issue, defaultFailure } = require_collectors();
 var { Dashboard, FloatingPanel } = require_view();
@@ -1356,8 +1368,14 @@ var UsageFloatPlugin = class extends Plugin {
     if (this.lifetime.signal.aborted) return;
     this.render();
     if (!this.preferences.interval) return;
+    const now = Date.now();
     for (const id of KEYS) {
-      if (Date.now() >= (this.due.get(id)?.at ?? 0)) void this.refresh(id);
+      const due = this.due.get(id);
+      const weekReset = id === "antigravity" && due && this.rows[id].some((row) => {
+        const resetAt = geminiWeekly(row)?.resetAt;
+        return resetAt > due.checkedAt && resetAt <= now;
+      });
+      if (now >= (due?.at ?? 0) || weekReset) void this.refresh(id);
     }
   }
   async refresh(onlyProvider, accountId) {
@@ -1388,6 +1406,7 @@ var UsageFloatPlugin = class extends Plugin {
     if (this.busy.has(id) || this.lifetime.signal.aborted) return;
     const controller = new AbortController();
     const { signal } = controller;
+    const checkedAt = Date.now();
     this.busy.set(id, controller);
     this.render();
     const prior = this.rows[id];
@@ -1417,8 +1436,13 @@ var UsageFloatPlugin = class extends Plugin {
       this.busy.delete(id);
       if (!this.lifetime.signal.aborted) {
         if (!signal.aborted) {
-          const misses = failed ? Math.min((this.due.get(id)?.misses ?? 0) + 1, 3) : 0;
-          this.due.set(id, { misses, at: Date.now() + Math.max(1, this.preferences.interval) * 2 ** misses * MINUTE });
+          const previous = this.due.get(id);
+          const misses = failed ? Math.min((previous?.misses ?? 0) + 1, 3) : 0;
+          this.due.set(id, {
+            misses,
+            at: Date.now() + Math.max(1, this.preferences.interval) * 2 ** misses * MINUTE,
+            checkedAt: accountId ? previous?.checkedAt ?? 0 : checkedAt
+          });
           this.lastRefresh = Date.now();
           this.persist();
         }

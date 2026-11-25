@@ -489,6 +489,7 @@ updated: 2026-11-25
 > - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 编撰德语学界对话专著，评注德译本《让学习可见》，从过程-结果范式与“路灯效应”揭示其对不可度量育人维度的排斥，借助福柯权力视角解构双向注视隐喻的微观规训风险，将其定性为反思工具而非操作药方。
 > - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 立足德语区实证教育研究，区隔表层结构与深层结构，基于 [[COACTIV]] 等追踪数据直接驳斥哈蒂低估[[Teacher Subject Matter Knowledge|教师学科知识]]（$d=0.09$）的论断，提出以认知激活、有效班级管理与建设性支持为维度的循证教学改进规程。
 > - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014)]] — 结合德语区小学一线读写实验，剖析哈蒂数据体系所诱发的“均值陷阱”，揭示其二阶元分析在概念外延、成就测度、测试格式、实施保真度、历史断代与组内离散六个维度的系统性缺陷，指出开放教学与人本教学评价的内在矛盾（pp. 38–47）。
+> - [[Argument_VonOlberg_2014_GeneralDidactics|von Olberg (2014)]] — 审视《可见的学习：教师版》五步行动框架、八项心智框架与德语区简化误读，将其置于英美循证教学与一般教学论对话中定性为方面教学论（pp. 51–65）。
 > - [[Argument_Fredens_2015_Paideia\|Fredens (2015)]] — 从学习科学与脑科学视角解读 VL，提出“使学校成为反馈文化”的组织转型主张。
 > - [[Argument_Nordahl_2015_Paideia\|Nordahl (2015)]] — 斯堪的纳维亚学派将 VL 重构为校本改进、[[Teacher Collaboration|教师协作]]研讨与能力建设的微观实践路径。
 > - [[Argument_Eacott_2019_IJLE\|Eacott (2019)]] — 批判 VL 在行政与商业推广中异化为[[Neo-Taylorism\|新泰勒主义]]控制与[[Cult of the Guru\|大师崇拜]]的制度风险。
