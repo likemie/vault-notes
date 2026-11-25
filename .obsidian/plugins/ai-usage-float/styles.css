@@ -375,9 +375,6 @@ button.auf-launcher[aria-expanded="true"] {
   margin-top: 8px;
   padding-top: 5px;
 }
-.auf-float-group .auf-icon-button {
-  margin-inline-start: auto;
-}
 .auf-float button.auf-refresh-current,
 .auf-modal button.auf-refresh-current {
   height: 26px;

@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 15
+person_related_count: 16
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -42,10 +42,11 @@ related_facts:
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Trautwein_2007_CEP]]"
+  - "[[Argument_VonOlberg_2014_GeneralDidactics]]"
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-11-21
+updated: 2026-11-25
 ---
 
 ---
@@ -64,7 +65,7 @@ updated: 2026-11-21
 
 > [!timeline] 生平与职涯
 > - **1972 年** 出生于德国。
-> - **2000–2008 年** 任职于柏林[[Max Planck Institute for Human Development|马克斯·普朗克人类发展研究所]]（MPIB）教育研究中心，与 [[Jürgen Baumert]]、Olaf Köller 等共同设计并主持 [[TOSCA]] 大型纵向追踪项目。
+> - **2000–2008 年** 任职于柏林[[Max Planck Institute for Human Development|马克斯·普朗克人类发展研究所]]（MPIB）教育研究中心，与 [[Jürgen Baumert]]、Olaf Köller et al. 共同设计并主持 [[TOSCA]] 大型纵向追踪项目。
 > - **2008 年至今** 担任图宾根大学教育科学与心理学全职教授，创办并领导 Hector 教育科学与心理学研究所，成为欧洲实证教育心理学研究重镇。
 
 ---
@@ -72,6 +73,7 @@ updated: 2026-11-21
 > [!work-line] 主要著作
 > - **2004 — *Wege zur Hochschulreife in Baden-Württemberg ([[TOSCA]])*** 奠定巴登-符腾堡州文理中学转型与大学升学[[Cohort Study\|追踪研究]]的实证框架。[[Argument_Trautwein_2007_CEP\|(Köller, Watermann, Trautwein, & Lüdtke, 2004, 引自 Trautwein & Lüdtke, 2007)]]
 > - **2007 — *[[Epistemological Beliefs]], school achievement, and college major*** 运用潜[[Variable\|变量]]结构方程模型确立确定性信念对[[Academic Achievement\|学业成绩]]的净负向预测力及[[Disciplinary Socialization\|学科社会化]]机制。[[Argument_Trautwein_2007_CEP\|(Trautwein & Lüdtke, 2007)]]
+> - **2013 — *Psychologie des Unterrichts* (with Mareike Kunter)** 系统阐述经验心理学取向的教与学研究，在德国教育科学教学论存在经验研究缺口的背景下，主张以经验教与学心理学研究为课堂教学设计提供依据。[[Argument_VonOlberg_2014_GeneralDidactics|(von Olberg, 2014, p. 63)]]
 
 ---
 
@@ -81,9 +83,9 @@ updated: 2026-11-21
 ---
 
 > [!person-network] 关系网络
-> - **合作者** Oliver Lüdtke — 长期方法论与统计建模合作者。
-> - **合作者** Olaf Köller — [[Max Planck Institute for Human Development|MPIB]] / IPN 资深合作者，共同主持 [[TOSCA]]。
-> - **合作者** Jürgen Baumert — MPIB 教育研究中心主任、[[PISA]] 德国首席科学家。
+> - **研究伙伴** Oliver Lüdtke — 长期方法论与统计建模合作同事。
+> - **研究伙伴** Olaf Köller — [[Max Planck Institute for Human Development|MPIB]] / IPN 资深合作同事，共同主持 [[TOSCA]]。
+> - **研究伙伴** Jürgen Baumert — MPIB 教育研究中心主任、[[PISA]] 德国首席科学家。
 
 ---
 

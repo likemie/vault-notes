@@ -81,9 +81,24 @@
               "icon": "lucide-file",
               "title": "03 席勒"
             }
+          },
+          {
+            "id": "56e5cf1bed0e4691",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/arguments/reports-policy-documents/Argument_Kratsios_2026_OSTP.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Argument_Kratsios_2026_OSTP"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -117,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "science",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,7 +166,8 @@
               "title": "Recent files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -300,8 +316,11 @@
       "ai-usage-float:显示或隐藏额度浮窗": false
     }
   },
-  "active": "96c685dea1ff308e",
+  "active": "56e5cf1bed0e4691",
   "lastOpenFiles": [
+    "wiki/facts/us/Science A New Golden Age 2026.md",
+    "wiki/arguments/journal-articles/Current Issues in Comparative Education/Argument_Vavrus_2006_CICE.md",
+    "wiki/concepts/educational-philosophy/Wissensformen der Didaktik.md",
     "wiki/arguments/journal-articles/European Education/Argument_Silova_2009_EE.md",
     "sources/Xie_2017_PKUER.md",
     "output/related-updates/Argument_Rolff_2014_SchoolStructure-415e40f8/batch-007/result.json",
@@ -336,9 +355,6 @@
     "output/related-updates/Argument_Rolff_2014_SchoolStructure-415e40f8/batch-009/prompt.md",
     "output/related-updates/Argument_Rolff_2014_SchoolStructure-415e40f8/batch-004/prompt.md",
     "output/related-updates/Argument_Rolff_2014_SchoolStructure-415e40f8/batch-008/prompt.md",
-    "output/related-updates/Argument_Rolff_2014_SchoolStructure-415e40f8/batch-007/prompt.md",
-    "output/related-updates/Argument_Rolff_2014_SchoolStructure-415e40f8/batch-006/prompt.md",
-    "output/related-updates/Argument_Rolff_2014_SchoolStructure-415e40f8/batch-001/prompt.md",
     "books/Terhart_2014_Kallmeyer/figures/Figure_4-2_Didactic_Knowledge_Forms.jpg",
     "books/Terhart_2014_Kallmeyer/figures/Figure_4-1_PAR_Model_Petty.jpg",
     "books/Terhart_2014_Kallmeyer/figures/Figure_2-3_School_Leadership_and_Instructional_Development.jpg",

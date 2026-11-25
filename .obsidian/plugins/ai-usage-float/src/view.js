@@ -43,11 +43,10 @@ function control(parent, label, callback, { icon, iconOnly = false, name = "butt
   return button;
 }
 
-function refreshAntigravity(parent, state, actions, compact = false) {
+function refreshAntigravity(parent, state, actions) {
   const busy = state.busy.has("antigravity");
-  const label = busy ? "刷新中" : compact ? "刷新当前 Antigravity 账号" : "刷新当前账号";
-  control(parent, label, () => actions.refresh("antigravity"), {
-    icon: "refresh-cw", iconOnly: compact, name: compact ? "icon-button" : "button auf-quiet auf-refresh-current",
+  control(parent, busy ? "刷新中" : "刷新当前账号", () => actions.refresh("antigravity"), {
+    icon: "refresh-cw", name: "button auf-quiet auf-refresh-current",
     id: "refresh-antigravity", disabled: busy,
   });
 }
@@ -130,17 +129,13 @@ function compactService(parent, id, title, icon, detail) {
   setIcon(mark, icon);
   add(heading, "h3", "", title);
   if (detail) add(heading, "small", "muted", detail);
-  return { section, heading };
+  return section;
 }
 
-function displayCompactSubscription(parent, id, state, actions) {
+function displayCompactSubscription(parent, id, state) {
   const subscription = state.rows[id][0];
   const title = id === "codex" ? "Codex" : PROVIDERS[id].title;
-  const { section, heading } = compactService(parent, id, title, id === "codex" ? "terminal" : "orbit", subscription?.plan);
-  const busy = state.busy.has(id);
-  control(heading, busy ? title + " 刷新中" : "刷新 " + title, () => actions.refresh(id), {
-    icon: "refresh-cw", iconOnly: true, name: "icon-button", id: "refresh-" + id, disabled: busy,
-  });
+  const section = compactService(parent, id, title, id === "codex" ? "terminal" : "orbit", subscription?.plan);
   if (!subscription?.windows.length) {
     add(section, "p", "muted auf-account-note", subscription?.issue?.message || "暂无额度。");
     return;
@@ -169,9 +164,8 @@ function displayGeminiWindows(parent, row, state, snapshot = false) {
   }
 }
 
-function displayGemini(parent, state, actions, openSnapshots) {
-  const { section, heading } = compactService(parent, "antigravity", "Gemini", "sparkles", "Antigravity");
-  refreshAntigravity(heading, state, actions, true);
+function displayGemini(parent, state, openSnapshots) {
+  const section = compactService(parent, "antigravity", "Gemini", "sparkles", "Antigravity");
   const accounts = state.rows.antigravity.filter(row => isAntigravityId(row.id));
   const current = accounts.find(row => row.id === state.currentAntigravityId);
   if (current) {
@@ -358,6 +352,7 @@ class FloatingPanel {
   render(state) {
     const { pinned } = state.settings;
     const collapsed = pinned && state.settings.collapsed;
+    const busy = state.busy.size > 0;
     this.updateVisibility(pinned);
     this.root.classList.toggle("is-pinned", pinned);
     this.root.classList.toggle("is-collapsed", collapsed);
@@ -367,6 +362,12 @@ class FloatingPanel {
     const scroll = this.body.scrollTop;
     preserveFocus(this.root, () => {
       this.buttons.replaceChildren();
+      if (!collapsed) {
+        control(this.buttons, busy ? "正在刷新额度" : "刷新全部额度", () => this.actions.refresh(), {
+          icon: "refresh-cw", iconOnly: true, name: "icon-button", id: "refresh-all",
+          disabled: busy || !KEYS.some(id => state.settings.enabled[id]),
+        });
+      }
       control(this.buttons, "打开额度总览", this.actions.dashboard, {
         icon: "panel-top", iconOnly: true, name: "icon-button", id: "dashboard",
       });
@@ -385,12 +386,12 @@ class FloatingPanel {
       this.body.replaceChildren();
       const ids = ["codex", "grok", "antigravity"].filter(id => state.settings.enabled[id]);
       for (const id of ids) {
-        if (id === "antigravity") displayGemini(this.body, state, this.actions, openSnapshots);
-        else displayCompactSubscription(this.body, id, state, this.actions);
+        if (id === "antigravity") displayGemini(this.body, state, openSnapshots);
+        else displayCompactSubscription(this.body, id, state);
       }
       if (!ids.length) add(this.body, "p", "empty", "请在设置中启用要查看的服务。");
       this.body.scrollTop = scroll;
-      this.footer.textContent = ids.some(id => state.busy.has(id)) ? "正在查询额度…" : "百分比为剩余额度";
+      this.footer.textContent = busy ? "正在查询额度…" : "百分比为剩余额度";
     });
     this.place();
   }

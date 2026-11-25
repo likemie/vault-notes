@@ -711,13 +711,11 @@ var require_view = __commonJS({
       button.addEventListener("click", callback);
       return button;
     }
-    function refreshAntigravity(parent, state, actions, compact = false) {
+    function refreshAntigravity(parent, state, actions) {
       const busy = state.busy.has("antigravity");
-      const label = busy ? "\u5237\u65B0\u4E2D" : compact ? "\u5237\u65B0\u5F53\u524D Antigravity \u8D26\u53F7" : "\u5237\u65B0\u5F53\u524D\u8D26\u53F7";
-      control(parent, label, () => actions.refresh("antigravity"), {
+      control(parent, busy ? "\u5237\u65B0\u4E2D" : "\u5237\u65B0\u5F53\u524D\u8D26\u53F7", () => actions.refresh("antigravity"), {
         icon: "refresh-cw",
-        iconOnly: compact,
-        name: compact ? "icon-button" : "button auf-quiet auf-refresh-current",
+        name: "button auf-quiet auf-refresh-current",
         id: "refresh-antigravity",
         disabled: busy
       });
@@ -794,20 +792,12 @@ var require_view = __commonJS({
       setIcon(mark, icon);
       add(heading, "h3", "", title);
       if (detail) add(heading, "small", "muted", detail);
-      return { section, heading };
+      return section;
     }
-    function displayCompactSubscription(parent, id, state, actions) {
+    function displayCompactSubscription(parent, id, state) {
       const subscription = state.rows[id][0];
       const title = id === "codex" ? "Codex" : PROVIDERS2[id].title;
-      const { section, heading } = compactService(parent, id, title, id === "codex" ? "terminal" : "orbit", subscription?.plan);
-      const busy = state.busy.has(id);
-      control(heading, busy ? title + " \u5237\u65B0\u4E2D" : "\u5237\u65B0 " + title, () => actions.refresh(id), {
-        icon: "refresh-cw",
-        iconOnly: true,
-        name: "icon-button",
-        id: "refresh-" + id,
-        disabled: busy
-      });
+      const section = compactService(parent, id, title, id === "codex" ? "terminal" : "orbit", subscription?.plan);
       if (!subscription?.windows.length) {
         add(section, "p", "muted auf-account-note", subscription?.issue?.message || "\u6682\u65E0\u989D\u5EA6\u3002");
         return;
@@ -834,9 +824,8 @@ var require_view = __commonJS({
         quotaWindow(grid, { ...quota, name: quota.name.replace(/^Gemini Models · /i, "") }, status, state.now);
       }
     }
-    function displayGemini(parent, state, actions, openSnapshots) {
-      const { section, heading } = compactService(parent, "antigravity", "Gemini", "sparkles", "Antigravity");
-      refreshAntigravity(heading, state, actions, true);
+    function displayGemini(parent, state, openSnapshots) {
+      const section = compactService(parent, "antigravity", "Gemini", "sparkles", "Antigravity");
       const accounts = state.rows.antigravity.filter((row) => isAntigravityId2(row.id));
       const current = accounts.find((row) => row.id === state.currentAntigravityId);
       if (current) {
@@ -1017,6 +1006,7 @@ var require_view = __commonJS({
       render(state) {
         const { pinned } = state.settings;
         const collapsed = pinned && state.settings.collapsed;
+        const busy = state.busy.size > 0;
         this.updateVisibility(pinned);
         this.root.classList.toggle("is-pinned", pinned);
         this.root.classList.toggle("is-collapsed", collapsed);
@@ -1028,6 +1018,15 @@ var require_view = __commonJS({
         const scroll = this.body.scrollTop;
         preserveFocus(this.root, () => {
           this.buttons.replaceChildren();
+          if (!collapsed) {
+            control(this.buttons, busy ? "\u6B63\u5728\u5237\u65B0\u989D\u5EA6" : "\u5237\u65B0\u5168\u90E8\u989D\u5EA6", () => this.actions.refresh(), {
+              icon: "refresh-cw",
+              iconOnly: true,
+              name: "icon-button",
+              id: "refresh-all",
+              disabled: busy || !KEYS2.some((id) => state.settings.enabled[id])
+            });
+          }
           control(this.buttons, "\u6253\u5F00\u989D\u5EA6\u603B\u89C8", this.actions.dashboard, {
             icon: "panel-top",
             iconOnly: true,
@@ -1052,12 +1051,12 @@ var require_view = __commonJS({
           this.body.replaceChildren();
           const ids = ["codex", "grok", "antigravity"].filter((id) => state.settings.enabled[id]);
           for (const id of ids) {
-            if (id === "antigravity") displayGemini(this.body, state, this.actions, openSnapshots);
-            else displayCompactSubscription(this.body, id, state, this.actions);
+            if (id === "antigravity") displayGemini(this.body, state, openSnapshots);
+            else displayCompactSubscription(this.body, id, state);
           }
           if (!ids.length) add(this.body, "p", "empty", "\u8BF7\u5728\u8BBE\u7F6E\u4E2D\u542F\u7528\u8981\u67E5\u770B\u7684\u670D\u52A1\u3002");
           this.body.scrollTop = scroll;
-          this.footer.textContent = ids.some((id) => state.busy.has(id)) ? "\u6B63\u5728\u67E5\u8BE2\u989D\u5EA6\u2026" : "\u767E\u5206\u6BD4\u4E3A\u5269\u4F59\u989D\u5EA6";
+          this.footer.textContent = busy ? "\u6B63\u5728\u67E5\u8BE2\u989D\u5EA6\u2026" : "\u767E\u5206\u6BD4\u4E3A\u5269\u4F59\u989D\u5EA6";
         });
         this.place();
       }
@@ -1399,18 +1398,33 @@ var UsageFloatPlugin = class extends Plugin {
     await Promise.all(selected.filter((id) => this.preferences.enabled[id]).map((id) => this.refreshProvider(id, accountId)));
   }
   async refreshFromControl(onlyProvider, accountId) {
-    const id = onlyProvider ?? "antigravity";
-    if (!this.preferences.enabled[id]) return this.refresh(onlyProvider, accountId);
-    const title = id === "codex" ? "Codex" : PROVIDERS[id].title;
-    if (this.busy.has(id)) {
-      new Notice(title + " \u6B63\u5728\u67E5\u8BE2\u989D\u5EA6\u3002");
+    const selected = (onlyProvider ? [onlyProvider] : KEYS).filter((id) => this.preferences.enabled[id]);
+    if (!selected.length) return;
+    if (selected.some((id) => this.busy.has(id))) {
+      new Notice("\u6B63\u5728\u67E5\u8BE2\u989D\u5EA6\u3002");
       return;
     }
-    const previous = new Map(this.rows[id].map((row) => [row.id, row.fetchedAt]));
+    const previous = new Map(selected.map((id) => [id, new Map(this.rows[id].map((row) => [row.id, row.fetchedAt]))]));
     await this.refresh(onlyProvider, accountId);
-    if (this.lifetime.signal.aborted || !this.preferences.enabled[id]) return;
-    const rows = this.rows[id].filter((row) => !accountId || row.id === accountId);
-    if (rows.some((row) => !row.issue && row.fetchedAt > (previous.get(row.id) ?? 0))) {
+    if (this.lifetime.signal.aborted) return;
+    const results = selected.filter((id) => this.preferences.enabled[id]).map((id) => {
+      const rows2 = this.rows[id].filter((row) => !accountId || row.id === accountId);
+      const title2 = id === "codex" ? "Codex" : PROVIDERS[id].title;
+      const updated2 = rows2.some((row) => !row.issue && row.fetchedAt > (previous.get(id).get(row.id) ?? 0));
+      return { title: title2, rows: rows2, updated: updated2 };
+    });
+    if (!results.length) return;
+    if (!onlyProvider) {
+      const updated2 = results.filter((result) => result.updated).map((result) => result.title);
+      const missed = results.filter((result) => !result.updated).map((result) => result.title);
+      const lines = [];
+      if (updated2.length) lines.push("\u5DF2\u66F4\u65B0 " + updated2.join("\u3001"));
+      if (missed.length) lines.push("\u672A\u53D6\u5F97\u65B0\u989D\u5EA6 " + missed.join("\u3001"));
+      new Notice(lines.join("\n"), 7e3);
+      return;
+    }
+    const [{ title, rows, updated }] = results;
+    if (updated) {
       new Notice(title + " \u989D\u5EA6\u5DF2\u66F4\u65B0\u3002");
       return;
     }

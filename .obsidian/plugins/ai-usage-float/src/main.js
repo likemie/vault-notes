@@ -171,18 +171,33 @@ class UsageFloatPlugin extends Plugin {
   }
 
   async refreshFromControl(onlyProvider, accountId) {
-    const id = onlyProvider ?? "antigravity";
-    if (!this.preferences.enabled[id]) return this.refresh(onlyProvider, accountId);
-    const title = id === "codex" ? "Codex" : PROVIDERS[id].title;
-    if (this.busy.has(id)) {
-      new Notice(title + " 正在查询额度。");
+    const selected = (onlyProvider ? [onlyProvider] : KEYS).filter(id => this.preferences.enabled[id]);
+    if (!selected.length) return;
+    if (selected.some(id => this.busy.has(id))) {
+      new Notice("正在查询额度。");
       return;
     }
-    const previous = new Map(this.rows[id].map(row => [row.id, row.fetchedAt]));
+    const previous = new Map(selected.map(id => [id, new Map(this.rows[id].map(row => [row.id, row.fetchedAt]))]));
     await this.refresh(onlyProvider, accountId);
-    if (this.lifetime.signal.aborted || !this.preferences.enabled[id]) return;
-    const rows = this.rows[id].filter(row => !accountId || row.id === accountId);
-    if (rows.some(row => !row.issue && row.fetchedAt > (previous.get(row.id) ?? 0))) {
+    if (this.lifetime.signal.aborted) return;
+    const results = selected.filter(id => this.preferences.enabled[id]).map(id => {
+      const rows = this.rows[id].filter(row => !accountId || row.id === accountId);
+      const title = id === "codex" ? "Codex" : PROVIDERS[id].title;
+      const updated = rows.some(row => !row.issue && row.fetchedAt > (previous.get(id).get(row.id) ?? 0));
+      return { title, rows, updated };
+    });
+    if (!results.length) return;
+    if (!onlyProvider) {
+      const updated = results.filter(result => result.updated).map(result => result.title);
+      const missed = results.filter(result => !result.updated).map(result => result.title);
+      const lines = [];
+      if (updated.length) lines.push("已更新 " + updated.join("、"));
+      if (missed.length) lines.push("未取得新额度 " + missed.join("、"));
+      new Notice(lines.join("\n"), 7000);
+      return;
+    }
+    const [{ title, rows, updated }] = results;
+    if (updated) {
       new Notice(title + " 额度已更新。");
       return;
     }

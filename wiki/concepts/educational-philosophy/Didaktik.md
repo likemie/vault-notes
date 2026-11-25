@@ -6,10 +6,10 @@ aliases:
 summary: "作为德语教学理论传统的欧陆教学论（Didaktik），关注课程内容的选择价值、人性的教化目的与教学判断，在教育研究中用于协调规训与生成、内容与规范之间的复杂张力。"
 type: concept
 domain: "educational-philosophy"
-related_count: 45
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 52
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 related_concepts:
   - "[[Bildung]]"
   - "[[Discourse]]"
@@ -34,8 +34,11 @@ related_concepts:
   - "[[Pure Evaluation]]"
   - "[[Alienation]]"
   - "[[Central Phenomenon]]"
+  - "[[Evidence-Based Teaching]]"
   - "[[Empirische Unterrichtsforschung]]"
   - "[[Paradigm]]"
+  - "[[Streetlight Effect]]"
+  - "[[Instructional Design]]"
 related_theories:
   - "[[Didactic Triangle]]"
   - "[[Radical Constructivism]]"
@@ -48,6 +51,9 @@ related_persons:
   - "[[Wolfgang Klafki]]"
   - "[[Thomas Aastrup Rømer]]"
   - "[[John Hattie]]"
+  - "[[Hans-Joachim von Olberg]]"
+  - "[[Robert Marzano]]"
+  - "[[Geoff Petty]]"
   - "[[Johan Vilhelm Snellman]]"
   - "[[Alexander Oettl]]"
 related_facts:
@@ -57,10 +63,11 @@ related_arguments:
   - "[[Argument_Schaffar_2024_CogentEdu]]"
   - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
   - "[[Argument_Terhart_2011_JCS]]"
-  - "[[Argument_Terhart_2014_HolyGrail]]"
   - "[[Argument_Hopmann_2007_EERJ]]"
   - "[[Argument_Rømer_2018_EPT]]"
+  - "[[Argument_VonOlberg_2014_GeneralDidactics]]"
   - "[[Argument_Ertl_2006_ORE]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
 confidence: medium
 status: active
 created: '2026-05-06'
@@ -170,7 +177,9 @@ updated: 2026-11-25
 
 > [!dev-timeline] 概念演变
 > - **中世纪大学时期 — 规训与生成的词义分化** 欧洲教学实践中形成规训（[[Disciplina and Doctrina|disciplina]]，侧重训诫与纠错）与生成（doctrina，侧重[[Knowledge Production|知识生产]]）的二元区分。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
+> - **1612年 — 沃尔夫冈·拉特克首次使用 Didaktik 术语** 在提交给法兰克福帝国议会的备忘录中，拉特克（Wolfgang Ratke）首次使用 Didaktik 一词，将其界定为“教的艺术或教的方法”（Lehrkunst / Lehrart）。
 > - **17世纪 — 夸美纽斯确立[[Teach Less, Learn More|少教多学]]原则** 夸美纽斯在《大教学论》确立让教师少教、学生多学的方法准则，将教学论奠定为追求自然序列与精炼介入的共同语言。[[Argument_Hopmann_2007_EERJ|(Hopmann, 2007, pp. 112–113)]]
+> - **18世纪末至19世纪末 — 特拉普、赫尔巴特与维尔曼的谱系演进** 恩斯特·克里斯蒂安·特拉普（Ernst Christian Trapp）于 18 世纪末提出立足经验心理学观察的教学构想；约翰·弗里德里希·赫尔巴特（Johann Friedrich Herbart）于 19 世纪初建立依托伦理学与心理学的教育性教学（erziehender Unterricht）理论；奥托·维尔曼（Otto Willmann）于 19 世纪末构想兼顾学校史与教化史的教学论（Bildungslehre）。[[Argument_VonOlberg_2014_GeneralDidactics|(von Olberg, 2014, p. 61)]]
 > - **19世纪初 — 德国教学论在芬兰的发展** 伴随芬兰哲学家[[Johan Vilhelm Snellman|约翰·威廉·斯内尔曼]]（Johan Wilhelm Snellman）对教化观的推动，德国教学理论开始影响芬兰的教师教育和学术构建。
 > - **19世纪初 — 普鲁士教学大纲与教学法自由确立** 普鲁士废止繁苛的微观学校章程，转向纲领性教学大纲，并在国家大纲规定与学校教学之间确立了以教师教学法自由（pedagogical freedom）为基石的专业分工。[[Argument_Hopmann_2007_EERJ|(Hopmann, 2007, pp. 113–114)]]
 > - **20世纪末 — 批判建设性教学论转向** 克拉夫基提出[[Epochal Key Problems|时代关键问题]]假说，旨在通过重组课程结构，使教育直面社会的全球性正义与危机。

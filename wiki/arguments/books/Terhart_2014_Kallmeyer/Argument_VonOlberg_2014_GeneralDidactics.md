@@ -7,7 +7,7 @@ title: "Argument_VonOlberg_2014_GeneralDidactics"
 argument_key: "Argument_VonOlberg_2014_GeneralDidactics"
 argument_display_title: "Evidence-Based Teaching: Hat John Hattie eine Allgemeine Didaktik entwickelt? In E"
 argument_kind: "book-chapter"
-argument_related_count: 47
+argument_related_count: 48
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -60,6 +60,7 @@ related_concepts:
   - "[[Geisteswissenschaften]]"
   - "[[Paradigm]]"
   - "[[Discourse]]"
+  - "[[Wissensformen der Didaktik]]"
   - "[[Reflexivity]]"
   - "[[Scientific Method]]"
 related_theories: []
@@ -78,9 +79,9 @@ related_persons:
   - "[[Geoff Petty]]"
   - "[[Herbert Walberg]]"
   - "[[Wolfgang Klafki]]"
-  - "[[Christian Wolff]]"
   - "[[John Dewey]]"
   - "[[Ewald Terhart]]"
+  - "[[Christian Wolff]]"
 related_facts:
   - "[[Evidence-Based Teachers Network]]"
   - "[[Zhongkao]]"
@@ -137,7 +138,7 @@ updated: 2026-11-25
 > |---|---|
 > | **核心[[Document\|文献]]** | （Hattie, 2009, 2012, 2013）、（Marzano, 2007；Dean et al., 2011）、（Petty, 2009）、（EBTN, 2013）网络平台以及德语综述（Höfer & Steffens, 2012）。 |
 > | **历史与理论参照** | 沃尔夫冈·拉特克（1612）、约翰·阿莫斯·夸美纽斯、恩斯特·克里斯蒂安·特拉普、约翰·弗里德里希·赫尔巴特、奥托·维尔曼、[[Wolfgang Klafki\|沃尔夫冈·克拉夫基]]（Wolfgang Klafki）及（Kron, 2008）教学论著述。 |
-> | **论证边界** | 明确搁置对[[Meta-meta-analysis\|二阶元分析]]统计方法论合法性的争议，集[[Zhongkao\|中考]]察其作为一般教学论的理论资格。（p. 52） |
+> | **论证边界** | 明确搁置对[[Meta-meta-analysis\|二阶元分析]]统计方法论合法性的争议，集中考察其作为一般教学论的理论资格。（p. 52） |
 
 ---
 
@@ -159,7 +160,7 @@ updated: 2026-11-25
 
 > [!sub-claim] 1. 哈蒂将外部评估转为课堂反馈，聚焦教师的教学能力
 > [!feature]
-> - **国际实践项目与德文版布局** 哈蒂依托个人网站（`visiblelearning.de`、`visiblelearningplus.com`）与教师手册（Hattie, 2012）推动官方及商业教师进修课程与哈蒂学校项目，已在英格兰、瑞典、挪威、澳大利亚与新西兰落地并筹备进入德国；[[Christian Wolff|沃尔夫]]冈·贝伊尔（Wolfgang Beywl）与克劳斯·齐勒（Klaus Zierer）翻译的《面向教师的让学习可见》亦计划于 2014 年 1 月在德国出版。
+> - **国际实践项目与德文版布局** 哈蒂依托个人网站（`visiblelearning.de`、`visiblelearningplus.com`）与教师手册（Hattie, 2012）推动官方及商业教师进修课程与哈蒂学校项目，已在英格兰、瑞典、挪威、澳大利亚与新西兰落地并筹备进入德国；沃尔夫冈·贝伊尔（Wolfgang Beywl）与克劳斯·齐勒（Klaus Zierer）翻译的《面向教师的让学习可见》亦计划于 2014 年 1 月在德国出版。
 > - **评价与反馈的同构联结** 哈蒂在巨型[[Meta-meta-analysis|二阶元分析]]中对实证[[Intervention Research|干预研究]]的总结性评估，在课堂[[Instructional Design|教学设计]]层面与他所倡导的形成性反馈文化形成结构呼应。（p. 52）
 > - **双重目光聚焦教学能力** 从教师行动方式对学生学习进步影响最大的分析命题出发，哈蒂推导出教学改进须以改变教师行动为起点。针对好教学全凭[[Teacher Personality|教师人格]]的常见误读，[[Hans-Joachim von Olberg|冯·奥尔贝格]]澄清哈蒂真正聚焦的是教师的教学能力（Unterrichtsbefähigungen），并要求教师兼顾科学效应证据与[[Student-Teacher Relationship|师生关系]]层面的学习过程可见性，践行双重目光（Doppelblick）。（pp. 52–53）
 
@@ -220,7 +221,7 @@ updated: 2026-11-25
 > - **传统渊源的互补分殊** 英语世界关于教与学过程设计的思考主要脱胎于经验研究与学习心理学（M. A. Meyer, 2011; Hudson & Meyer, 2011），而欧洲大陆与德国路径则深植于教育哲学（Bildungsphilosophie）与实践教学学说。诺伯特·M. 塞尔（Norbert M. Seel）、乌尔里克·汉克（Ulrike Hanke）、克劳斯·齐勒与[[Ewald Terhart|埃瓦尔德·特哈特]]（Ewald Terhart）的分析表明，教学设计与一般教学论之间更多体现为学术重音差异与平行理论构想（living in parallel worlds），有别于相互排斥的领地划界（Seel & Hanke, 2011; Seel & Zierer, 2012; Terhart, 2012）。（p. 58）
 > - **历史融通的经典先例** 早在 1957 年，德国教育学家海因里希·罗斯（Heinrich Roth）在长期访美后出版标准著作《教与学的教育心理学》，指出“在德国教育学中，美国心理学在学习心理学中所探究的内容，几乎全部包含在我们称之为教学论（Didaktik）与教学法（Methodik）的范畴之内”（H. Roth, 1958, p. 197）。1965 年，罗斯又在其主编的“新教学论丛书·甲辑：一般教学论”中出版了罗伯特·M. 加涅（Robert M. Gagné）受认知主义启发的教学设计代表作《学习的条件》（Gagné, 1965/1980）德译本。罗斯与加涅共同塑造了 1950 年代末至 1980 年代初德国对教学论的理解，这证明今日实无理由拒绝将“教学论”这一拥有四百年历史的名称用于英语世界的教学设计构想。（pp. 58–59）
 
-> [!sub-claim] 2. [[Herbert Walberg|沃尔伯格]]、马扎诺与[[Geoff Petty|佩蒂]]早已从元分析提炼课堂准则，并与哈蒂共建循证教师网络
+> [!sub-claim] 2. [[Herbert Walberg|沃尔伯格]]、马扎诺与[[Geoff Petty|佩蒂]]早已从元分析提炼课堂准则，并与哈蒂共建[[Evidence-Based Teachers Network|循证教师网络]]
 > 哈蒂固然拥有制作元分析之元分析的首创之功，但在此之前已有学者尝试从元分析中提炼[[Effective Teaching|有效教学]]实践准则（Seidel & Shavelson, 2007）。当代英美循证教学呈现一条清晰的跨国谱系：（pp. 59–61）
 >
 > [!case] 英美循证教学三大代表路径与跨国协作网络
@@ -241,7 +242,7 @@ updated: 2026-11-25
 > 一般教学论指跨学科、超越具体教育工作[[Domain Specificity|领域特殊性]]的教学思维形态，拥有整整四百年历史（Wigger, 2004）。纵观其演变，高度的自我调适能力正是教学论的生命力所在：（pp. 61–62）
 >
 > [!timeline] 德语一般教学论四百年概念流变节点
-> - **1612 年 — 沃尔夫冈·拉特克（Wolfgang Ratke）** 在提交给法兰克福帝国议会的备忘录中首次使用 Didaktik 一词，意指教的艺术或教的方法。
+> - **1612 年 — [[Christian Wolff|沃尔夫]]冈·拉特克（Wolfgang Ratke）** 在提交给法兰克福帝国议会的备忘录中首次使用 Didaktik 一词，意指教的艺术或教的方法。
 > - **17 世纪中叶 — 约翰·阿莫斯·夸美纽斯（Johann Amos Comenius）** 在《大教学论》（*Didactica Magna*）中建构神学与普遍哲学的整体人类改善理论，将全面学校理论与适用于人生各阶段的普遍教法结合起来，并获得世界范围的接受。
 > - **18 世纪末 — 恩斯特·克里斯蒂安·特拉普（Ernst Christian Trapp）** 作为泛爱派教师与教授，发表基于精确经验与心理学观察的教学论构想。
 > - **19 世纪初 — 约翰·弗里德里希·赫尔巴特（Johann Friedrich Herbart）** 建立立足于伦理学与心理学的教育性教学（erziehender Unterricht）理论，主要围绕教化理论展开论证，同样产生全球影响。
@@ -263,7 +264,7 @@ updated: 2026-11-25
 > 当代教学论[[Discourse|话语]]本身因过度分化为学科教学论、领域教学论以及五十余种只突出教与学某一侧面的流派教学论（Richtungs-Didaktiken，如适应性、教化理论、课程、对话、经验教学论等；Kron, 2008, pp. 65–66）而趋于轮廓模糊。雪上加霜的是，教育科学教学论长期存在显著的经验研究缺口（von Olberg, 2004），促使经验心理学取向的教与学研究（Kunter & Trautwein, 2013）与神经教学论（如脑适切学习，但关于如何教及教学方法的维度仍极度薄弱且与夸大宣传形成反差；Stern et al., 2007; G. Roth, 2011, pp. 253–313）竞相占据教学设计领域。在此格局下，哈蒂的[[Quantitative Research|定量研究]]固然可作为跨学科教学论的重要基础研究，神经科学亦能提供一般生理学基础，但将效应量总结包装为循证教学论，只会在五十余种既有流派中再添一种单向度的方面教学论，无助于澄清一般教学论的核心知识形态。（pp. 62–63）
 
 > [!sub-claim] 2. 教学专业知识需要在教师成长中融汇日常、职业与科学三类知识
-> 即使退一步把教学论界定为教学条件下的学习的多层级知识形态（图 4-2），哈蒂的方案仍面临根本的[[Epistemology|认识论]]局限：（pp. 63–64）
+> 即使退一步把教学论界定为教学条件下的学习的多层级[[Wissensformen der Didaktik|教学论的知识形式]]（图 4-2），哈蒂的方案仍面临根本的[[Epistemology|认识论]]局限：（pp. 63–64）
 >
 > [!figure]- 图4-2：教学论的知识形式
 > ![](https://img.mylikemie.icu/books/Terhart_2014_Kallmeyer/figures/Figure_4-2_Didactic_Knowledge_Forms.jpg)
