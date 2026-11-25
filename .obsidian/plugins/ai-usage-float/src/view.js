@@ -1,7 +1,7 @@
 const { Modal, setIcon } = require("obsidian");
 const {
-  HOUR, KEYS, PROVIDERS, STATUSES, resetLabel, freshness, accountStatus, usableWindows, quotaText, accountName, isAntigravityId,
-  geminiWeekly,
+  HOUR, KEYS, PROVIDERS, STATUSES, dateLabel, resetLabel, freshness, accountStatus, usableWindows, quotaText, accountName,
+  isAntigravityId, geminiWeekly,
 } = require("./model");
 
 const MARGIN = 10;
@@ -9,6 +9,7 @@ const MIN_WIDTH = 240;
 const MIN_HEIGHT = 150;
 const PREVIEW_GAP = 6;
 const LEAVE_DELAY = 160;
+const WEEK = 7 * 24 * HOUR;
 
 function clamp(value, min, max) {
   return Math.max(min, Math.min(max, value));
@@ -182,7 +183,7 @@ function displayGemini(parent, state, actions, openSnapshots) {
   if (!snapshots.length) return;
   const snapshotHeading = add(section, "h4", "gemini-snapshot-title");
   add(snapshotHeading, "span", "", "账号快照");
-  add(snapshotHeading, "span", "", "每周剩余 · 重置时间");
+  add(snapshotHeading, "span", "", "每周剩余 · 重置日期");
   for (const row of snapshots) {
     const entry = add(section, "details", "gemini-snapshot");
     entry.dataset.aufAccount = row.id;
@@ -195,21 +196,25 @@ function displayGemini(parent, state, actions, openSnapshots) {
     add(summary, "span", "snapshot-name", accountName("antigravity", row, state.settings));
     const weekly = geminiWeekly(row);
     const metrics = add(summary, "span", "snapshot-metrics");
-    const remaining = weekly?.remaining ?? null;
     const resetAt = weekly?.resetAt ?? null;
-    const expired = resetAt !== null && resetAt <= state.now;
+    // Project a full weekly allowance in this summary until the collector supplies a new window.
+    const estimated = resetAt !== null && resetAt <= state.now;
+    const remaining = estimated ? 100 : (weekly?.remaining ?? null);
     const badge = add(metrics, "strong", "num auf-snapshot-quota", quotaText(remaining));
-    if (!expired && remaining !== null) {
+    if (remaining !== null) {
       badge.dataset.aufLevel = remaining >= 60 ? "high" : remaining >= 20 ? "medium" : "low";
     }
-    const quotaLabel = expired ? "上次记录的每周剩余 " : "每周剩余 ";
+    if (estimated) add(badge, "span", "snapshot-estimate", "估算");
+    const quotaLabel = estimated ? "重置后估算的每周剩余 " : "每周剩余 ";
     badge.setAttribute("aria-label", quotaLabel + (remaining === null ? "未知" : quotaText(remaining)));
     if (resetAt === null) {
-      add(metrics, "small", "muted", "时间未知");
+      add(metrics, "small", "muted auf-snapshot-reset", "日期未知");
     } else {
-      const reset = add(metrics, "time", "muted", freshness(resetAt, state.now) + (expired ? " 待同步" : ""));
-      reset.dateTime = new Date(resetAt).toISOString();
-      reset.title = expired ? "重置时间已过，等待新的周额度" : resetLabel(resetAt, state.now);
+      const nextResetAt = estimated ? resetAt + (Math.floor((state.now - resetAt) / WEEK) + 1) * WEEK : resetAt;
+      const reset = add(metrics, "time", "muted auf-snapshot-reset", dateLabel(nextResetAt));
+      reset.dateTime = new Date(nextResetAt).toISOString();
+      const exactTime = resetLabel(nextResetAt, state.now);
+      reset.title = estimated ? "预计 " + exactTime : exactTime;
     }
     const details = add(entry, "div", "snapshot-windows");
     displayGeminiWindows(details, row, state, true);

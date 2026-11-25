@@ -7,7 +7,7 @@ summary: "通过明确的纳入标准和系统搜索策略识别、筛选与评�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 91
+method_related_count: 92
 method_related_level: 9
 method_related_stars: "💎💎💎"
 method_related_color: "#dbeafe"
@@ -96,6 +96,7 @@ related_arguments:
   - "[[Argument_Ginsberg_2024_EducPolicy]]"
   - "[[Argument_Verger_2019_Discourse]]"
   - "[[Argument_Volmari_2025_CE]]"
+  - "[[Argument_Brugelmann_2014_LocalPractice]]"
 related_facts:
   - "[[EPPI-Centre]]"
   - "[[Education Resources Information Center]]"
@@ -118,9 +119,9 @@ related_instruments:
   - "[[Mixed Methods Appraisal Tool]]"
   - "[[Gorard's Trustworthiness Sieve]]"
 confidence: high
-status: draft
+status: active
 created: 2026-06-08
-updated: 2026-11-15
+updated: 2026-11-25
 ---
 
 ---
@@ -149,7 +150,7 @@ updated: 2026-11-15
 > - **知识观** [[Positivism|实证主义]]（Positivism）与[[Postpositivism|后实证主义]]为主轴，强调知识的可积累性与真理逼近；通过系统化规程消除研究者主观偏倚。但在纳入标准界定、质性概念提炼与情境调节[[Variable|变量]]解释中，亦高度融合[[Critical Realism|批判实在论]]（Critical Realism）与[[Interpretivism|解释主义]]视角。
 > - **研究者角色** 中立审慎的证据检验员与知识架构师。强制要求双人独立筛选与多研究者团队协同，以制度化消除单一研究者的理论偏见。
 > - **有效性标准** 方法透明度、全流程可审计性与可重复性；检索穷尽性；双人筛选与提取的[[Intercoder Agreement|编码者间信度]]（[[Inter-Rater Reliability]]）；偏倚风险评估（Risk of Bias Assessment）严谨性。
-> - **不声称回答的问题** 不能替代一手实证研究凭空生成初级原始数据；不能依靠综述过程直接修正原始研究内在的设计硬伤；若底层研究缺乏因果识别设计，系统综述绝不能凭空得出强[[Causality|因果推断]]。
+> - **不声称回答的问题** 不能替代一手实证研究凭空生成初级原始数据；不能依靠综述过程直接修正原始研究内在的设计硬伤；若底层研究缺乏因果识别设计，系统综述绝不能凭空得出强[[Causality|因果推断]]。此外，系统综述不能直接越俎代庖替代微观现场的实践决策；布吕格尔曼（[[Argument_Brugelmann_2014_LocalPractice|Brügelmann, 2014, pp. 45–47]]）援引萨克特（Sackett et al., 2000）循证医学三维平衡模型指出，系统综述提炼的最佳研究证据仅提供概率性线索与实践假说，必须与一线教师的实践专长及学生的个体价值诉求平起平坐，绝不能充当排他性的唯一教学处方。
 
 > [!contrast-table] 证据生态中的两大系统综述[[Paradigm|范式]]（Gough, Thomas, & Oliver, 2019）
 > | 比较维度 | 聚合型 / 证实型综述（Aggregative / Confirmatory） | 配置型 / 探索型综述（Configurative / Exploratory） |
@@ -216,7 +217,7 @@ updated: 2026-11-15
 >   系统综述与 PRISMA 规程的生命线在于严格执行以 [[PICO Framework|PICO]] 为核心的入选标准与研究协议预注册。然而，卡尔门达尔等对覆盖 2,111 项元分析的《[[Visible Learning|可见的学习]]》展开系统审计时发现，当宏观综合背离这一方法学底线时，系统综述极易退化为制造“虚假有效性”的伪科学工具：
 >   - **PICO 严重违规与无关变量混入** 经独立编码核验，《可见的学习》中仅有 19.3% 的所谓元分析满足基本的干预针对性要求；高达 80.7% 的纳入文献违背 PICO 原则，将大量与学校教学干预完全无关的描述性相关（如吸烟、抑郁、体重指数、自杀倾向）甚至虚构发表物（63 项）硬性池化，完全摧毁了[[Causality|因果推断]]的基础；
 >   - **规避预注册与国际规范的质量塌陷** 该巨型二阶综合完全未遵循坎贝尔协作网（[[Campbell Collaboration]]）针对干预综述制定的方法学规范（MECCIR）与系统综述预注册规程，既未公开完整的检索式、筛选流图与排除清单，亦未执行双人双盲质量评价，导致底层文献中高达 44%（928 项）根本不包含可提取效应量或统计数据。缺乏协议锁定的伪系统综述无法消除偏倚，反而会借由海量引文的表象赋予严重方法学硬伤以“权威科学”的合法性包装。
-> - **临床医学标准（Cochrane / GRADE）的跨学科移植张力** 系统综述发轫于受控环境下的循证医学领域；然而当其偏倚评估与 GRADE 分级体系被机械移植至教育与复杂社会政策领域时，往往导致过度推[[The Sublime|崇高]]度受控实验环境下的干预试验（如[[Pilot Testing|预实验]]），而系统性贬低具备高度生态效度的复杂质性研究与[[Implementation and Process Evaluation|过程评估]]，诱发严重的方法学削足适履。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, p. 154)]]
+> - **临床医学标准（Cochrane / GRADE）的跨学科移植张力与决策越位** 系统综述发轫于受控环境下的循证医学领域。当其偏倚评估与 GRADE 分级体系被机械移植至教育与复杂社会政策领域时，往往导致过度推崇受控实验环境下的干预试验（如[[Pilot Testing|预实验]]），进而贬低具备生态效度的复杂质性研究与[[Implementation and Process Evaluation|过程评估]]，诱发方法学削足适履（[[Argument_Gough_2022_EvidenceOnEIPP|Gough et al., 2022, p. 154]]）。汉斯·布吕格尔曼（[[Argument_Brugelmann_2014_LocalPractice|Brügelmann, 2014, pp. 45–47]]）进一步指出，教育循证倡导者常以医学为标杆指责教学缺乏科学性，却曲解了循证医学经典原则（Sackett et al., 2000）：系统综述产出的宏观证据仅提供探索线索与实践假说，若脱离一线教师的专业反思裁量与本土个案检验，将其直接硬化为自上而下的行政统一步调，就会导致宏观循证对微观复杂教学情境的粗暴规训。
 > - **官方机构对综述的单一范式规训（[[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al., 2022]]）** 国家监管机构在委托或编制“知识综述”（Knowledge Review）时，出于消除法律诉讼与维护行政规制无可辩驳性的诉求，往往主动采取单一实证范式组织文献，系统性排斥学界内部存在冲突或批评视角的科学研究，使综述沦为服务于科层简化的技术规程。
 
 ---
@@ -255,3 +256,4 @@ updated: 2026-11-15
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 追踪[[Swedish Schools Inspectorate|瑞典学校督察局]]在开展质量审计时对“知识综述”（Knowledge Review）的编制与使用机制，揭示官方如何依托单一片面范式组织综述并规训学术多元性（pp. 648–650）。
 > - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 基于 Scopus 数据库检索并筛选 158 篇教育治理实证文献，采用国别提取表聚合跨期碎片研究，系统分析国家评估与[[Test-Based Accountability|考试问责]]在全球三大行政传统下的扩散演进。（pp. 252–253）
 > - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 实证揭示北欧教育改革起草中系统综述的差[[Alienation|异化]]动员机制：改革委员会在学习科学领域优先依托系统综述构筑政策合法性，而在课程领域则因跨国情境变异转向非经验分析与混合知识库（pp. 535–538）。
+> - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014)]] — 援引萨克特循证医学三维平衡模型，论证系统综述产出的外部统计证据仅构成实践探索假说，必须与一线教师专业专长及学生个体价值平起平坐，由累积性个案检验其实践适用性（pp. 45–47）。

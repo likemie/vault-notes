@@ -26,18 +26,23 @@ const antigravityProfileName = value => {
   const name = text(value, 60).replace(/\s+/g, " ");
   return name.includes("@") ? "" : name;
 };
-const dateLabel = new Intl.DateTimeFormat("zh-CN", { month: "numeric", day: "numeric" });
+const dateFormatter = new Intl.DateTimeFormat("zh-CN", { month: "numeric", day: "numeric" });
 const timeLabel = new Intl.DateTimeFormat("zh-CN", { hour: "2-digit", minute: "2-digit", hourCycle: "h23" });
+
+function dateLabel(time) {
+  return dateFormatter.format(time);
+}
 
 function resetLabel(time, now = Date.now()) {
   if (time === null) return "重置时间未知";
-  const day = dateLabel.format(time) === dateLabel.format(now) ? "今天" : dateLabel.format(time);
+  const date = dateLabel(time);
+  const day = date === dateLabel(now) ? "今天" : date;
   return day + " " + timeLabel.format(time) + " 重置";
 }
 
 function freshness(time, now = Date.now()) {
-  return dateLabel.format(time) === dateLabel.format(now)
-    ? timeLabel.format(time) : dateLabel.format(time) + " " + timeLabel.format(time);
+  const date = dateLabel(time);
+  return date === dateLabel(now) ? timeLabel.format(time) : date + " " + timeLabel.format(time);
 }
 
 function settings(raw) {
@@ -136,6 +141,6 @@ function quotaText(value) {
 
 module.exports = {
   MINUTE, HOUR, PROVIDERS, KEYS, INTERVALS, STATUSES, isObject, text, percent, timestamp, isoTimestamp,
-  resetLabel, freshness, settings, cacheFrom, normalizeWindow, accountStatus, usableWindows, quotaText,
+  dateLabel, resetLabel, freshness, settings, cacheFrom, normalizeWindow, accountStatus, usableWindows, quotaText,
   isAntigravityId, antigravityProfileName, accountName, geminiWeekly, retainAntigravitySnapshots,
 };

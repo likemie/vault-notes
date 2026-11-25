@@ -34,15 +34,20 @@ var require_model = __commonJS({
       const name = text2(value, 60).replace(/\s+/g, " ");
       return name.includes("@") ? "" : name;
     };
-    var dateLabel = new Intl.DateTimeFormat("zh-CN", { month: "numeric", day: "numeric" });
+    var dateFormatter = new Intl.DateTimeFormat("zh-CN", { month: "numeric", day: "numeric" });
     var timeLabel = new Intl.DateTimeFormat("zh-CN", { hour: "2-digit", minute: "2-digit", hourCycle: "h23" });
+    function dateLabel(time) {
+      return dateFormatter.format(time);
+    }
     function resetLabel(time, now = Date.now()) {
       if (time === null) return "\u91CD\u7F6E\u65F6\u95F4\u672A\u77E5";
-      const day = dateLabel.format(time) === dateLabel.format(now) ? "\u4ECA\u5929" : dateLabel.format(time);
+      const date = dateLabel(time);
+      const day = date === dateLabel(now) ? "\u4ECA\u5929" : date;
       return day + " " + timeLabel.format(time) + " \u91CD\u7F6E";
     }
     function freshness(time, now = Date.now()) {
-      return dateLabel.format(time) === dateLabel.format(now) ? timeLabel.format(time) : dateLabel.format(time) + " " + timeLabel.format(time);
+      const date = dateLabel(time);
+      return date === dateLabel(now) ? timeLabel.format(time) : date + " " + timeLabel.format(time);
     }
     function settings2(raw) {
       const data = isObject(raw) ? raw : {};
@@ -144,6 +149,7 @@ var require_model = __commonJS({
       percent,
       timestamp,
       isoTimestamp,
+      dateLabel,
       resetLabel,
       freshness,
       settings: settings2,
@@ -660,6 +666,7 @@ var require_view = __commonJS({
       KEYS: KEYS2,
       PROVIDERS: PROVIDERS2,
       STATUSES,
+      dateLabel,
       resetLabel,
       freshness,
       accountStatus,
@@ -674,6 +681,7 @@ var require_view = __commonJS({
     var MIN_HEIGHT = 150;
     var PREVIEW_GAP = 6;
     var LEAVE_DELAY = 160;
+    var WEEK = 7 * 24 * HOUR;
     function clamp(value, min, max) {
       return Math.max(min, Math.min(max, value));
     }
@@ -841,7 +849,7 @@ var require_view = __commonJS({
       if (!snapshots.length) return;
       const snapshotHeading = add(section, "h4", "gemini-snapshot-title");
       add(snapshotHeading, "span", "", "\u8D26\u53F7\u5FEB\u7167");
-      add(snapshotHeading, "span", "", "\u6BCF\u5468\u5269\u4F59 \xB7 \u91CD\u7F6E\u65F6\u95F4");
+      add(snapshotHeading, "span", "", "\u6BCF\u5468\u5269\u4F59 \xB7 \u91CD\u7F6E\u65E5\u671F");
       for (const row of snapshots) {
         const entry = add(section, "details", "gemini-snapshot");
         entry.dataset.aufAccount = row.id;
@@ -854,21 +862,24 @@ var require_view = __commonJS({
         add(summary, "span", "snapshot-name", accountName2("antigravity", row, state.settings));
         const weekly = geminiWeekly2(row);
         const metrics = add(summary, "span", "snapshot-metrics");
-        const remaining = weekly?.remaining ?? null;
         const resetAt = weekly?.resetAt ?? null;
-        const expired = resetAt !== null && resetAt <= state.now;
+        const estimated = resetAt !== null && resetAt <= state.now;
+        const remaining = estimated ? 100 : weekly?.remaining ?? null;
         const badge = add(metrics, "strong", "num auf-snapshot-quota", quotaText(remaining));
-        if (!expired && remaining !== null) {
+        if (remaining !== null) {
           badge.dataset.aufLevel = remaining >= 60 ? "high" : remaining >= 20 ? "medium" : "low";
         }
-        const quotaLabel = expired ? "\u4E0A\u6B21\u8BB0\u5F55\u7684\u6BCF\u5468\u5269\u4F59 " : "\u6BCF\u5468\u5269\u4F59 ";
+        if (estimated) add(badge, "span", "snapshot-estimate", "\u4F30\u7B97");
+        const quotaLabel = estimated ? "\u91CD\u7F6E\u540E\u4F30\u7B97\u7684\u6BCF\u5468\u5269\u4F59 " : "\u6BCF\u5468\u5269\u4F59 ";
         badge.setAttribute("aria-label", quotaLabel + (remaining === null ? "\u672A\u77E5" : quotaText(remaining)));
         if (resetAt === null) {
-          add(metrics, "small", "muted", "\u65F6\u95F4\u672A\u77E5");
+          add(metrics, "small", "muted auf-snapshot-reset", "\u65E5\u671F\u672A\u77E5");
         } else {
-          const reset = add(metrics, "time", "muted", freshness(resetAt, state.now) + (expired ? " \u5F85\u540C\u6B65" : ""));
-          reset.dateTime = new Date(resetAt).toISOString();
-          reset.title = expired ? "\u91CD\u7F6E\u65F6\u95F4\u5DF2\u8FC7\uFF0C\u7B49\u5F85\u65B0\u7684\u5468\u989D\u5EA6" : resetLabel(resetAt, state.now);
+          const nextResetAt = estimated ? resetAt + (Math.floor((state.now - resetAt) / WEEK) + 1) * WEEK : resetAt;
+          const reset = add(metrics, "time", "muted auf-snapshot-reset", dateLabel(nextResetAt));
+          reset.dateTime = new Date(nextResetAt).toISOString();
+          const exactTime = resetLabel(nextResetAt, state.now);
+          reset.title = estimated ? "\u9884\u8BA1 " + exactTime : exactTime;
         }
         const details = add(entry, "div", "snapshot-windows");
         displayGeminiWindows(details, row, state, true);

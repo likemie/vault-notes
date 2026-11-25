@@ -16771,6 +16771,8 @@
     "Mammadov, 2021": "Mammadov, 2021",
     "Manaf et al. (2022)": "Manaf et al., 2022",
     "Manaf et al., 2022": "Manaf et al., 2022",
+    "Manathunga & Brew (2012)": "Manathunga & Brew, 2012",
+    "Manathunga & Brew, 2012": "Manathunga & Brew, 2012",
     "Mandinach & Gummer (2016)": "Mandinach & Gummer, 2016",
     "Mandinach & Gummer, 2016": "Mandinach & Gummer, 2016",
     "Mangan (1986)": "Mangan, 1986",
@@ -152602,6 +152604,21 @@
       "seen_in": [],
       "title": "Is there a correlation between creativity and learning achievement? A meta-analysis study."
     },
+    "Manathunga & Brew, 2012": {
+      "aliases": [
+        "Manathunga & Brew, 2012",
+        "Manathunga & Brew (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Manathunga & Brew, 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md"
+      ],
+      "title": ""
+    },
     "Mandinach & Gummer, 2016": {
       "aliases": [
         "Mandinach & Gummer, 2016",
@@ -195967,7 +195984,8 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md",
         "wiki/concepts/educational-policy-reform/Evidence-Based Education.md",
-        "wiki/concepts/educational-policy-reform/Professional Judgment.md"
+        "wiki/concepts/educational-policy-reform/Professional Judgment.md",
+        "wiki/methods/qualitative/Systematic Review.md"
       ],
       "title": "Evidence-based medicine. How to practice and teach EBM"
     },

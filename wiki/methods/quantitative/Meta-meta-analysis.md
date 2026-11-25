@@ -14,7 +14,7 @@ summary: "在更高层级汇总多个已发表元分析结果的统计综合方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 127
+method_related_count: 128
 method_related_level: 12
 method_related_stars: "💎💎💎💎"
 method_related_color: "#dcfce7"
@@ -156,6 +156,7 @@ related_arguments:
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Koller_2014_WhatWorks]]"
+  - "[[Argument_Brugelmann_2014_LocalPractice]]"
 related_persons:
   - "[[Ewald Terhart]]"
   - "[[John Hattie]]"
@@ -242,6 +243,7 @@ updated: 2026-11-25
 >   - **1996** Sipe and Curlette (1996) 以系统检索和明确纳入标准推进元综合方法论。
 >   - **2012** Cooper and Koenka (2012) 在 *American Psychologist* 阐述[[Umbrella Review|综述之综述]]的方法学规范。
 >   - **2014** Pieper et al. (2014) 提出[[Corrected Covered Area\|校正覆盖面积]]（Corrected Covered Area, CCA）量化重叠。
+>   - **2014** [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] 与 [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014)]] 从教学论与一线实践视角解构二阶元分析的“圣杯”神话，揭示其文献历史断代滞后、抹杀组内方差离散度与同类教学构念评价自相矛盾等系统缺陷。
 >   - **2016** [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] 从两级固定效应模型推导出六项方法论规范。
 >   - **2026** [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]]、[[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]]、[[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] 将该做法用于[[Cooperative Learning\|合作学习]]、[[Problem-Based Learning|问题本位学习]]与 AI 教育应用。
 >
@@ -552,7 +554,7 @@ updated: 2026-11-25
 > 2. **偏倚逐级复合** 一阶元分析中的未加权、SE/SD 混淆与公式不可比性无法在二阶统计中被自动消除（[[Argument_Allerup_2015_Paideia\|Allerup, 2015]]; [[Argument_Bergeron_2017_MJE\|Bergeron & Rivard, 2017]]; [[Argument_Wecker_2016_ZfE\|Wecker et al., 2016]]）；
 > 3. **透明度与数据重构危机** 粗放元综合常存在数据提取不透明与证实偏差（[[Argument_Johnson_2023_CritEduc\|Johnson & Janzen, 2023]]; [[Argument_OConnor_2020_AJLL\|O'Connor, 2020]]）；
 > 4. **全库离散度超标与数理基准失效** 戈洛夫钦[[Argument_Golovchin_2019_ESC\|(Golovchin, 2019)]]采用变差系数对 133 项正值效应量进行系统检验，证实全库变差系数高达 $56.87\%$（远超 $33\%$ 安全同质性上限），各子领域（学生 $71.24\%$、学校 $65.97\%$、教师 $51.01\%$）全线超标；二阶综合在未经严格同质性控制下强行输出 $d=0.40$ 单一线性关节点缺乏数理稳健性；
-> 5. **因果机制距离与政策角色争议** 宏观抽象聚合远离了实在层面的因果机制，知识的局部性与临时性使其难以直接指导政策决策；[[Ewald Terhart|特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011]]; [[Argument_Terhart_2014_HolyGrail|Terhart, 2014, pp. 13–14]]）指出底层文献年代跨代滞后且未设准入质控门槛导致证据库异质性失控，同时其货币比附谬误与稳定性/[[Stability vs. Variability Dilemma|变异性假说]]双重困境进一步表明，二阶粗放综合无法消除教育实践的复杂性与时效滞后（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]; [[Argument_Wiliam_2019_ERE|Wiliam, 2019]]; [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]]）。
+> 5. **因果机制距离与政策角色争议** 宏观抽象聚合远离了实在层面的因果机制，知识的局部性与临时性使其难以直接指导政策决策；[[Ewald Terhart|特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011]]; [[Argument_Terhart_2014_HolyGrail|Terhart, 2014, pp. 13–14]]）与汉斯·布吕格尔曼（[[Argument_Brugelmann_2014_LocalPractice|Brügelmann, 2014, pp. 42–45]]）指出底层文献年代跨代滞后（如计算机辅助教学过半文献早于 2000 年）、抹杀组内方差离散度以及缺乏[[Implementation Fidelity|实施保真度]]质控门槛导致证据库异质性失控且同类构念评价自相矛盾（开放教学 $d=0.01$ 对比非指导性教学 $d=0.54$）；其货币比附谬误与稳定性/[[Stability vs. Variability Dilemma|变异性假说]]双重困境进一步表明，二阶粗放综合无法消除教育实践的复杂性与时效滞后（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]; [[Argument_Wiliam_2019_ERE|Wiliam, 2019]]; [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]]）。
 >
 > [!bias-audit] 商业学术出版体制对知识综合的三重结构性阻碍[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016)]]
 > - **[[Publication Bias|发表偏倚]]与抽屉效应** 期刊倾向于发表统计上显著的结果，产生严重的发表偏倚（Publication Bias）与抽屉效应（File-drawer Problem），大量零效应或负效应被锁进抽屉，污染综合底册。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 34–35)]]
@@ -587,6 +589,7 @@ updated: 2026-11-25
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 对[[John Hattie|哈蒂]]《可见的学习》816 项元分析开展方法学审读，揭示粗放二阶综合的信息损耗与稳定性/变异性双重困境（pp. 427–436）。
 > - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 结合德译本进一步解构二阶元分析作为教育“圣杯”的修辞神话，指出底层文献年代滞后、缺乏准入质控以及[[Streetlight Effect|路灯效应]]等系统性局限（pp. 13–23）。
+> - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014)]] — 系统解构二阶元分析抹杀组内方差离散度、文献历史断代滞后与实施保真度缺失的缺陷，揭示指标内部评价自相矛盾（pp. 42–45）。
 > - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 结合德语区教学实证研究评估二阶元分析核心发现，论证学校宏观结构变量效应微弱而深层教学变量具有实质促学成效（pp. 24–37）。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 对二阶元分析开展方法学与统计计算审计，揭露伪标准误与 SE/SD 混淆等数学违规，提出构建中央标准化数据库的一级直接综合替代方案（pp. 29–36）。
 > - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 运用多水平稳健二阶元分析（SOMA）综合关于创造力与[[Divergent Thinking|发散思维]]的元分析，采用 CHE 模型与 RVE 控制效应量依赖性（pp. 2–5）。
