@@ -7,7 +7,7 @@ aliases:
 summary: "由 Frank Lyman（1981）提出的一种低门槛、短周期的即时合作学习策略，通过独立思考（Think）、同伴配对研讨（Pair）与全班展示（Share）三阶段结构，保障全体学生的课堂等待时间、认知加工深度与口头参与度。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 16
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,6 +30,8 @@ related_concepts:
   - "[[Open-Mindedness]]"
   - "[[Heterogeneity]]"
   - "[[Learning Strategies]]"
+  - "[[Paradigm]]"
+  - "[[Placemat]]"
   - "[[Academic Achievement]]"
 related_theories: []
 related_methods:
@@ -40,10 +42,11 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Gungor_2026_CP]]"
+  - "[[Argument_Kremers_2014_CooperativeLearning]]"
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-11-03
+updated: 2026-11-26
 ---
 
 ---
@@ -143,5 +146,15 @@ updated: 2026-11-03
 
 ---
 
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Cooperative Learning]] | 概念 | 所属[[Paradigm\|范式]]：作为合作学习中兼顾个体责任与同伴互动的基干微策略。 |
+> | [[Placemat]] | 概念 | 空间变体：餐垫法的纸面分区操作直接映射思考—配对—分享的时序结构。 |
+
+---
+
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] — [[Meta-meta-analysis\|二阶元分析]]，将 [[Totally Pedagogised Society\|TPS]] 明确界定为[[Cooperative Learning\|合作学习]]技术体系中的基础微型策略，实证证实其所依托的面对面同伴互动对[[Academic Achievement\|学业成就]]与[[Higher-Order Thinking Skills\|高阶思维]]发展的稳健中等赋能效应（$ES = 0.71$）。
+> - [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014)]] — 将 Think-Pair-Share 界定为体现“个体独立思考奠定配对交流”逻辑的功能性合作微结构，并建议嵌入讲授式课堂中激活学生参与（pp. 80–81, 88）。

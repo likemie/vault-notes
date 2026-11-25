@@ -849,6 +849,8 @@
     "Amendum, 2017": "Amendum, 2017",
     "American Academy of Arts & Sciences (2016)": "American Academy of Arts & Sciences, 2016",
     "American Academy of Arts & Sciences, 2016": "American Academy of Arts & Sciences, 2016",
+    "American Council on Education (2019)": "American Council on Education, 2019",
+    "American Council on Education, 2019": "American Council on Education, 2019",
     "American Educational Research Association (2000)": "American Educational Research Association, 2000",
     "American Educational Research Association, 2000": "American Educational Research Association, 2000",
     "American Psychological Association (1973)": "American Psychological Association, 1973",
@@ -2687,8 +2689,10 @@
     "Beyer & Trice, 1982": "Beyer & Trice, 1982",
     "Beynon (1988)": "Beynon, 1988",
     "Beynon, 1988": "Beynon, 1988",
+    "Beywl & Zierer (2013)": "Beywl & Zierer, 2013",
     "Beywl & Zierer (2015a)": "Beywl & Zierer, 2015a",
     "Beywl & Zierer (2015b)": "Beywl & Zierer, 2015b",
+    "Beywl & Zierer, 2013": "Beywl & Zierer, 2013",
     "Beywl & Zierer, 2015a": "Beywl & Zierer, 2015a",
     "Beywl & Zierer, 2015b": "Beywl & Zierer, 2015b",
     "Bezzi (1999)": "Bezzi, 1999",
@@ -2929,7 +2933,9 @@
     "Blease & Cohen (1990)": "Blease & Cohen, 1990",
     "Blease & Cohen, 1990": "Blease & Cohen, 1990",
     "Bleiklie et al. (2015)": "Bleiklie et al., 2015",
+    "Bleiklie et al. (2017)": "Bleiklie et al., 2017",
     "Bleiklie et al., 2015": "Bleiklie et al., 2015",
+    "Bleiklie et al., 2017": "Bleiklie et al., 2017",
     "Bleses (2020)": "Bleses, 2020",
     "Bleses, 2020": "Bleses, 2020",
     "Bless et al. (1992)": "Bless et al., 1992",
@@ -3835,6 +3841,12 @@
     "Bröckling, 2015": "Bröckling, 2015",
     "Brügelmann (2009)": "Brügelmann, 2009",
     "Brügelmann, 2009": "Brügelmann, 2009",
+    "Brüning & Saum (2006)": "Brüning & Saum, 2006",
+    "Brüning & Saum (2007)": "Brüning & Saum, 2007",
+    "Brüning & Saum (2009)": "Brüning & Saum, 2009",
+    "Brüning & Saum, 2006": "Brüning & Saum, 2006",
+    "Brüning & Saum, 2007": "Brüning & Saum, 2007",
+    "Brüning & Saum, 2009": "Brüning & Saum, 2009",
     "Bubeck et al. (2023)": "Bubeck et al., 2023",
     "Bubeck et al., 2023": "Bubeck et al., 2023",
     "Bubis (1998)": "Bubis, 1998",
@@ -5863,6 +5875,8 @@
     "Cowen, 2009": "Cowen, 2009",
     "Cowen, 2018": "Cowen, 2018",
     "Cox (2004)": "Cox, 2004",
+    "Cox et al. (2017)": "Cox et al., 2017",
+    "Cox et al., 2017": "Cox et al., 2017",
     "Cox, 2004": "Cox, 2004",
     "Coyle (1995)": "Coyle, 1995",
     "Coyle, 1995": "Coyle, 1995",
@@ -7899,6 +7913,8 @@
     "Enosh et al., 2015": "Enosh et al., 2015",
     "Ensergueix (2011)": "Ensergueix, 2011",
     "Ensergueix, 2011": "Ensergueix, 2011",
+    "Enserink (2012)": "Enserink, 2012",
+    "Enserink, 2012": "Enserink, 2012",
     "Enthoven & de Bruijn (2010)": "Enthoven & de Bruijn, 2010",
     "Enthoven & de Bruijn, 2010": "Enthoven & de Bruijn, 2010",
     "Entman (1993)": "Entman, 1993",
@@ -9154,6 +9170,8 @@
     "Fryer, 2020": "Fryer, 2020",
     "Frymier & Houser (2000)": "Frymier & Houser, 2000",
     "Frymier & Houser, 2000": "Frymier & Houser, 2000",
+    "Frølich et al. (2019)": "Frølich et al., 2019",
+    "Frølich et al., 2019": "Frølich et al., 2019",
     "Früchtl (1986)": "Früchtl, 1986",
     "Früchtl, 1986": "Früchtl, 1986",
     "Fuad et al. (2023)": "Fuad et al., 2023",
@@ -9419,9 +9437,6 @@
     "Gan et al., 2024": "Gan et al., 2024",
     "Gandara (1994)": "Gandara, 1994",
     "Gandara, 1994": "Gandara, 1994",
-    "Gander (2018)": "Gander, 2018",
-    "Gander, 2018": "Gander, 2018",
-    "Gander, 2018a": "Gander, 2018",
     "Gao (1923)": "Gao, 1923",
     "Gao (2013)": "Gao, 2013",
     "Gao (2023)": "Gao, 2023",
@@ -10406,6 +10421,8 @@
     "Great Transformation, 1944": "Great Transformation, 1944",
     "Green & Castanheira (2012)": "Green & Castanheira, 2012",
     "Green & Castanheira, 2012": "Green & Castanheira, 2012",
+    "Green & Green (2005)": "Green & Green, 2005",
+    "Green & Green, 2005": "Green & Green, 2005",
     "Green & Little (2016)": "Green & Little, 2016",
     "Green & Little, 2016": "Green & Little, 2016",
     "Green (1963)": "Green, 1963",
@@ -11527,8 +11544,6 @@
     "Hedin (2008)": "Hedin, 2008",
     "Hedin, 2008": "Hedin, 2008",
     "Hedrick (1996)": "Hedrick, 1996",
-    "Hedrick et al. (2009)": "Hedrick et al., 2009",
-    "Hedrick et al., 2009": "Hedrick et al., 2009",
     "Hedrick, 1996": "Hedrick, 1996",
     "Heerwegh et al. (2005)": "Heerwegh et al., 2005",
     "Heerwegh et al., 2005": "Heerwegh et al., 2005",
@@ -13288,12 +13303,14 @@
     "Johnson et al. (1981)": "Johnson et al., 1981",
     "Johnson et al. (1983)": "Johnson et al., 1983",
     "Johnson et al. (2000)": "Johnson et al., 2000",
+    "Johnson et al. (2005)": "Johnson et al., 2005",
     "Johnson et al. (2007)": "Johnson et al., 2007",
     "Johnson et al. (2015)": "Johnson et al., 2015",
     "Johnson et al. (2024)": "Johnson et al., 2024",
     "Johnson et al., 1981": "Johnson et al., 1981",
     "Johnson et al., 1983": "Johnson et al., 1983",
     "Johnson et al., 2000": "Johnson et al., 2000",
+    "Johnson et al., 2005": "Johnson et al., 2005",
     "Johnson et al., 2007": "Johnson et al., 2007",
     "Johnson et al., 2015": "Johnson et al., 2015",
     "Johnson et al., 2024": "Johnson et al., 2024",
@@ -13723,6 +13740,8 @@
     "Karl Popper (1965)": "Karl Popper, 1965",
     "Karl Popper, 1945": "Karl Popper, 1945",
     "Karl Popper, 1965": "Karl Popper, 1965",
+    "Karlsson & Ryttberg (2016)": "Karlsson & Ryttberg, 2016",
+    "Karlsson & Ryttberg, 2016": "Karlsson & Ryttberg, 2016",
     "Karmel et al. (1973)": "Karmel et al., 1973",
     "Karmel et al., 1973": "Karmel et al., 1973",
     "Karr et al. (2006)": "Karr et al., 2006",
@@ -15730,6 +15749,8 @@
     "Leritz & Mumford, 2004": "Leritz & Mumford, 2004",
     "Lesley Bartlett (2006)": "Lesley Bartlett, 2006",
     "Lesley Bartlett, 2006": "Lesley Bartlett, 2006",
+    "Leslie & Rhoades (1995)": "Leslie & Rhoades, 1995",
+    "Leslie & Rhoades, 1995": "Leslie & Rhoades, 1995",
     "Leslie (1972)": "Leslie, 1972",
     "Leslie (1993)": "Leslie, 1993",
     "Leslie (1998)": "Leslie, 1998",
@@ -17215,6 +17236,8 @@
     "Martin Lawn, 2013": "Martin Lawn, 2013",
     "Martin Levinson & Andrew Sparkes (2005)": "Martin Levinson & Andrew Sparkes, 2005",
     "Martin Levinson & Andrew Sparkes, 2005": "Martin Levinson & Andrew Sparkes, 2005",
+    "Martin Spiewak (2013)": "Martin Spiewak, 2013",
+    "Martin Spiewak, 2013": "Martin Spiewak, 2013",
     "Martin et al. (2006)": "Martin et al., 2006",
     "Martin et al. (2010)": "Martin et al., 2010",
     "Martin et al. (2021)": "Martin et al., 2021",
@@ -20214,6 +20237,8 @@
     "Pappas, 1979": "Pappas, 1979",
     "Paquette (2008)": "Paquette, 2008",
     "Paquette, 2008": "Paquette, 2008",
+    "Paradeise et al. (2009)": "Paradeise et al., 2009",
+    "Paradeise et al., 2009": "Paradeise et al., 2009",
     "Paradies & Linser (2003)": "Paradies & Linser, 2003",
     "Paradies & Linser, 2003": "Paradies & Linser, 2003",
     "Parcerisa & Falabella (2017)": "Parcerisa & Falabella, 2017",
@@ -22308,6 +22333,8 @@
     "Roger Kimball, 2004": "Roger Kimball, 2004",
     "Roger Scruton (2000)": "Roger Scruton, 2000",
     "Roger Scruton, 2000": "Roger Scruton, 2000",
+    "Roger T. Johnson (1994)": "Roger T. Johnson, 1994",
+    "Roger T. Johnson, 1994": "Roger T. Johnson, 1994",
     "Roger Tourangeau et al. (2000)": "Roger Tourangeau et al., 2000",
     "Roger Tourangeau et al., 2000": "Roger Tourangeau et al., 2000",
     "Rogers & Monsell (1995)": "Rogers & Monsell, 1995",
@@ -23653,6 +23680,7 @@
     "Scott & Davis, 2016": "Scott & Davis, 2016",
     "Scott & Kirst (2017)": "Scott & Kirst, 2017",
     "Scott & Kirst, 2017": "Scott & Kirst, 2017",
+    "Scott (1980)": "Scott, 1980",
     "Scott (1982)": "Scott, 1982",
     "Scott (1990)": "Scott, 1990",
     "Scott (1991)": "Scott, 1991",
@@ -23672,6 +23700,7 @@
     "Scott et al., 2004a": "Scott et al., 2004b",
     "Scott et al., 2004b": "Scott et al., 2004b",
     "Scott et al., 2011": "Scott et al., 2011",
+    "Scott, 1980": "Scott, 1980",
     "Scott, 1982": "Scott, 1982",
     "Scott, 1990": "Scott, 1990",
     "Scott, 1991": "Scott, 1991",
@@ -24979,6 +25008,8 @@
     "Stacey, 1992": "Stacey, 1992",
     "Stack (2007)": "Stack, 2007",
     "Stack, 2007": "Stack, 2007",
+    "Stackhouse & Day (2005)": "Stackhouse & Day, 2005",
+    "Stackhouse & Day, 2005": "Stackhouse & Day, 2005",
     "Stacki (1999)": "Stacki, 1999",
     "Stacki (2004)": "Stacki, 2004",
     "Stacki, 1999": "Stacki, 1999",
@@ -28005,12 +28036,10 @@
     "Whitchurch (2006)": "Whitchurch, 2006",
     "Whitchurch (2008a)": "Whitchurch, 2008a",
     "Whitchurch (2008b)": "Whitchurch, 2008b",
-    "Whitchurch (2020)": "Whitchurch, 2020",
     "Whitchurch, 2006": "Whitchurch, 2006",
     "Whitchurch, 2008": "Whitchurch, 2008b",
     "Whitchurch, 2008a": "Whitchurch, 2008a",
     "Whitchurch, 2008b": "Whitchurch, 2008b",
-    "Whitchurch, 2020": "Whitchurch, 2020",
     "White & Casto (1985)": "White & Casto, 1985",
     "White & Casto, 1985": "White & Casto, 1985",
     "White & Wade (1988)": "White & Wade, 1988",
@@ -31763,7 +31792,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md"
+        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md",
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
       "title": "The work of university research administrators: Praxis and professionalization"
     },
@@ -35260,8 +35290,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md",
-        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md"
       ],
       "title": "‘Get yourself some nice, neat, matching box files!’ Research administrators and occupational identity work"
     },
@@ -36370,6 +36399,21 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Higher Education/Argument_Schulze-Cleven_2017_HE.md",
         "wiki/concepts/higher-education/Financialization of Higher Education.md"
+      ],
+      "title": ""
+    },
+    "American Council on Education, 2019": {
+      "aliases": [
+        "American Council on Education, 2019",
+        "American Council on Education (2019)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "American Council on Education, 2019"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
       "title": ""
     },
@@ -49987,6 +50031,21 @@
       ],
       "title": ""
     },
+    "Beywl & Zierer, 2013": {
+      "aliases": [
+        "Beywl & Zierer, 2013",
+        "Beywl & Zierer (2013)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Beywl & Zierer, 2013"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md"
+      ],
+      "title": ""
+    },
     "Beywl & Zierer, 2015a": {
       "aliases": [
         "Beywl & Zierer, 2015a",
@@ -51772,6 +51831,21 @@
         "wiki/concepts/higher-education/Penetrated Hierarchies.md"
       ],
       "title": "Organizations as penetrated hierarchies: Environmental pressures and control in professional organizations"
+    },
+    "Bleiklie et al., 2017": {
+      "aliases": [
+        "Bleiklie et al., 2017",
+        "Bleiklie et al. (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bleiklie et al., 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": ""
     },
     "Bleses, 2020": {
       "aliases": [
@@ -58534,6 +58608,52 @@
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
       ],
       "title": "Öffnung des Unterrichts. Befunde und Probleme der empirischen Forschung – revisited 2008"
+    },
+    "Brüning & Saum, 2006": {
+      "aliases": [
+        "Brüning & Saum, 2006",
+        "Brüning & Saum (2006)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Brüning & Saum, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md",
+        "wiki/concepts/instruction-pedagogy/Placemat.md"
+      ],
+      "title": ""
+    },
+    "Brüning & Saum, 2007": {
+      "aliases": [
+        "Brüning & Saum, 2007",
+        "Brüning & Saum (2007)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Brüning & Saum, 2007"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md"
+      ],
+      "title": ""
+    },
+    "Brüning & Saum, 2009": {
+      "aliases": [
+        "Brüning & Saum, 2009",
+        "Brüning & Saum (2009)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Brüning & Saum, 2009"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md"
+      ],
+      "title": ""
     },
     "Bubeck et al., 2023": {
       "aliases": [
@@ -73289,6 +73409,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Re-Westernisation.md"
+      ],
+      "title": ""
+    },
+    "Cox et al., 2017": {
+      "aliases": [
+        "Cox et al., 2017",
+        "Cox et al. (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Cox et al., 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
       "title": ""
     },
@@ -88242,6 +88377,21 @@
       "seen_in": [],
       "title": "Impact of trained versus spontaneous reciprocal peer tutoring on adolescent students"
     },
+    "Enserink, 2012": {
+      "aliases": [
+        "Enserink, 2012",
+        "Enserink (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Enserink, 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": ""
+    },
     "Enthoven & de Bruijn, 2010": {
       "aliases": [
         "Enthoven & de Bruijn, 2010",
@@ -97533,6 +97683,21 @@
       ],
       "title": ""
     },
+    "Frølich et al., 2019": {
+      "aliases": [
+        "Frølich et al., 2019",
+        "Frølich et al. (2019)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Frølich et al., 2019"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": ""
+    },
     "Früchtl, 1986": {
       "aliases": [
         "Früchtl, 1986",
@@ -99343,21 +99508,6 @@
       "isbn": "",
       "seen_in": [],
       "title": "Year-round schooling as an avenue to major structural reform"
-    },
-    "Gander, 2018": {
-      "aliases": [
-        "Gander, 2018",
-        "Gander (2018)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Gander, 2018a"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
-      ],
-      "title": ""
     },
     "Gao et al., 2020": {
       "aliases": [
@@ -106593,6 +106743,21 @@
       ],
       "title": ""
     },
+    "Green & Green, 2005": {
+      "aliases": [
+        "Green & Green, 2005",
+        "Green & Green (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Green & Green, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md"
+      ],
+      "title": ""
+    },
     "Green & Little, 2016": {
       "aliases": [
         "Green & Little, 2016",
@@ -110257,7 +110422,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md",
         "wiki/concepts/higher-education/Enabling Bureaucracy.md",
         "wiki/concepts/higher-education/Professional Support Staff.md"
       ],
@@ -113805,6 +113969,7 @@
       ],
       "isbn": "9780415479783",
       "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md",
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md",
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md",
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md",
@@ -113843,8 +114008,7 @@
         "wiki/concepts/instruction-pedagogy/Direct Instruction.md",
         "wiki/concepts/instruction-pedagogy/Effective Teaching.md",
         "wiki/concepts/instruction-pedagogy/Feedback.md",
-        "wiki/concepts/instruction-pedagogy/Homework.md",
-        "wiki/concepts/instruction-pedagogy/Inclusive Education.md"
+        "wiki/concepts/instruction-pedagogy/Homework.md"
       ],
       "title": "Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement"
     },
@@ -113875,6 +114039,7 @@
       "isbn": "9780415690157",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md",
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md",
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md",
         "wiki/arguments/journal-articles/Nordic Psychology/Argument_Nielsen_2021_NordPsych.md",
         "wiki/concepts/competency-and-assessment/Success Criteria.md"
@@ -113892,9 +114057,13 @@
       ],
       "isbn": "9783834011909",
       "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md",
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md",
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md",
-        "wiki/concepts/instruction-pedagogy/Selbstdidaktisierung.md"
+        "wiki/concepts/instruction-pedagogy/Cooperative Learning.md",
+        "wiki/concepts/instruction-pedagogy/Cooperative, Competitive and Individualistic Learning.md",
+        "wiki/concepts/instruction-pedagogy/Selbstdidaktisierung.md",
+        "wiki/methods/quantitative/Meta-meta-analysis.md"
       ],
       "title": "Lernen sichtbar machen"
     },
@@ -114962,21 +115131,6 @@
       "isbn": "",
       "seen_in": [],
       "title": "The effects of thinking aloud on the comprehension and monitoring of sixth graders"
-    },
-    "Hedrick et al., 2009": {
-      "aliases": [
-        "Hedrick et al., 2009",
-        "Hedrick et al. (2009)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Hedrick et al., 2009"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
-      ],
-      "title": ""
     },
     "Hedrick, 1996": {
       "aliases": [
@@ -127506,7 +127660,9 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/instruction-pedagogy/Cooperative Learning.md"
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md",
+        "wiki/concepts/instruction-pedagogy/Cooperative Learning.md",
+        "wiki/concepts/instruction-pedagogy/Cooperative, Competitive and Individualistic Learning.md"
       ],
       "title": ""
     },
@@ -127638,6 +127794,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Cooperative learning methods: a meta-analysis"
+    },
+    "Johnson et al., 2005": {
+      "aliases": [
+        "Johnson et al., 2005",
+        "Johnson et al. (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Johnson et al., 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md"
+      ],
+      "title": ""
     },
     "Johnson et al., 2007": {
       "aliases": [
@@ -130844,6 +131015,21 @@
       ],
       "title": ""
     },
+    "Karlsson & Ryttberg, 2016": {
+      "aliases": [
+        "Karlsson & Ryttberg, 2016",
+        "Karlsson & Ryttberg (2016)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Karlsson & Ryttberg, 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": ""
+    },
     "Karmel et al., 1973": {
       "aliases": [
         "Karmel et al., 1973",
@@ -132323,7 +132509,9 @@
         "Kehm, 2015"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
       "title": "The influence of new higher education professionals on academic work"
     },
     "Keinanen et al., 2000": {
@@ -135677,6 +135865,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md",
         "wiki/arguments/journal-articles/Tertiary Education and Management/Argument_Ryttberg_Geschwind_2021_TEM.md"
       ],
       "title": "Quality of administration in higher education"
@@ -140678,7 +140867,9 @@
         "Köller et al., 2013"
       ],
       "isbn": "9783486745108",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md"
+      ],
       "title": "Was wirkt wirklich? Einschätzungen von Determinanten schulischen Lernens"
     },
     "Köller, 2012a": {
@@ -145345,6 +145536,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/comparative-education/Ideological Model of Literacy.md"
+      ],
+      "title": ""
+    },
+    "Leslie & Rhoades, 1995": {
+      "aliases": [
+        "Leslie & Rhoades, 1995",
+        "Leslie & Rhoades (1995)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Leslie & Rhoades, 1995"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
       "title": ""
     },
@@ -156030,6 +156236,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/comparative-education/Traveller Education.md"
+      ],
+      "title": ""
+    },
+    "Martin Spiewak, 2013": {
+      "aliases": [
+        "Martin Spiewak, 2013",
+        "Martin Spiewak (2013)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Martin Spiewak, 2013"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md"
       ],
       "title": ""
     },
@@ -178020,6 +178241,21 @@
       "seen_in": [],
       "title": "Integrating the 6 + 1 writing traits model with cross-age tutoring  An investigation of elementary students' writing development"
     },
+    "Paradeise et al., 2009": {
+      "aliases": [
+        "Paradeise et al., 2009",
+        "Paradeise et al. (2009)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Paradeise et al., 2009"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": ""
+    },
     "Paradies & Linser, 2003": {
       "aliases": [
         "Paradies & Linser, 2003",
@@ -193442,6 +193678,21 @@
       ],
       "title": ""
     },
+    "Roger T. Johnson, 1994": {
+      "aliases": [
+        "Roger T. Johnson, 1994",
+        "Roger T. Johnson (1994)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Roger T. Johnson, 1994"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md"
+      ],
+      "title": ""
+    },
     "Roger Tourangeau et al., 2000": {
       "aliases": [
         "Roger Tourangeau et al., 2000",
@@ -196900,7 +197151,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md"
+        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md",
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
       "title": "Professional support staff at higher education institutions in Sweden: Roles and success factors for the job"
     },
@@ -203422,6 +203674,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "How well do children who are internationally adopted acquire language? A meta-analysis"
+    },
+    "Scott, 1980": {
+      "aliases": [
+        "Scott, 1980",
+        "Scott (1980)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Scott, 1980"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": ""
     },
     "Scott, 1982": {
       "aliases": [
@@ -209994,8 +210261,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md",
-        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md"
       ],
       "title": "‘So what do you do?’: Third space professionals navigating a Canadian university context"
     },
@@ -212189,6 +212455,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md",
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md",
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md",
         "wiki/facts/germany/Gymnasium.md"
       ],
@@ -212918,6 +213185,21 @@
         "wiki/arguments/journal-articles/Global Education Outlook/Argument_Xie_Li_Huang_2021_GEO.md"
       ],
       "title": "Representing School Success and Failure: Media Coverage of International Tests"
+    },
+    "Stackhouse & Day, 2005": {
+      "aliases": [
+        "Stackhouse & Day, 2005",
+        "Stackhouse & Day (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Stackhouse & Day, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": ""
     },
     "Stacki, 1999": {
       "aliases": [
@@ -234827,21 +235109,6 @@
         "wiki/concepts/higher-education/Blended Professional.md"
       ],
       "title": "Shifting identities and blurring boundaries: The emergence of Third Space professionals in UK higher education"
-    },
-    "Whitchurch, 2020": {
-      "aliases": [
-        "Whitchurch, 2020",
-        "Whitchurch (2020)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Whitchurch, 2020"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
-      ],
-      "title": ""
     },
     "White & Casto, 1985": {
       "aliases": [

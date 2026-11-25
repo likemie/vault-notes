@@ -7,9 +7,9 @@ title: "Argument_Terhart_2014_Kallmeyer"
 argument_key: "Argument_Terhart_2014_Kallmeyer"
 argument_display_title: "Die Hattie-Studie in der Diskussion: Probleme sichtbar machen"
 argument_kind: "edited-volume"
-argument_related_count: 24
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 36
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#e5e7eb"
 authors: []
 editors:
@@ -36,7 +36,8 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Implementation Fidelity]]"
   - "[[Teacher-as-Researcher]]"
-  - "[[Didaktik]]"
+  - "[[Instructional Design]]"
+  - "[[Evidence-Based Teaching]]"
   - "[[Visible Learning]]"
 related_methods:
   - "[[Meta-meta-analysis]]"
@@ -45,17 +46,29 @@ related_persons:
   - "[[John Hattie]]"
   - "[[Ewald Terhart]]"
   - "[[Olaf Köller]]"
+  - "[[Hans-Joachim von Olberg]]"
+  - "[[Herbert Walberg]]"
+  - "[[Geoff Petty]]"
+  - "[[Hans-Günter Rolff]]"
   - "[[Hilbert Meyer]]"
 related_theories:
   - "[[Process-Product Paradigm]]"
   - "[[Three Basic Dimensions of Teaching Quality]]"
+  - "[[Knowledge Integration]]"
 related_arguments:
   - "[[Argument_Terhart_2014_HolyGrail]]"
   - "[[Argument_Koller_2014_WhatWorks]]"
   - "[[Argument_Brugelmann_2014_LocalPractice]]"
+  - "[[Argument_VonOlberg_2014_GeneralDidactics]]"
+  - "[[Argument_Rolff_2014_SchoolStructure]]"
+  - "[[Argument_Kremers_2014_CooperativeLearning]]"
+related_facts:
+  - "[[Evidence-Based Teachers Network]]"
+  - "[[PISA]]"
+  - "[[PIRLS]]"
 status: "draft"
 created: "2026-10-17"
-updated: 2026-11-25
+updated: 2026-11-26
 ---
 
 > [!volume-profile] 阅读档案
@@ -76,17 +89,17 @@ updated: 2026-11-25
 > [!chapter-roadmap] 阅读进度
 > - **准备完成** 十一篇文章已分别转换为十一个 TXT，原有脚注与参考[[Document|文献]]随文章保留。
 > - **阅读顺序** 按目录从第 1 篇开始推进。
-> - **当前进度** 已完成第 1 篇论证页（[[Argument_Terhart_2014_HolyGrail]]）、第 2 篇论证页（[[Argument_Koller_2014_WhatWorks]]）、第 3 篇论证页（[[Argument_Brugelmann_2014_LocalPractice]]）、第 4 篇论证页（[[Argument_VonOlberg_2014_GeneralDidactics]]）与第 5 篇论证页（[[Argument_Rolff_2014_SchoolStructure]]）；后续各篇具体主张、证据评价与跨篇综合留待逐篇推进。
+> - **当前进度** 已完成第 1 篇论证页（[[Argument_Terhart_2014_HolyGrail]]）、第 2 篇论证页（[[Argument_Koller_2014_WhatWorks]]）、第 3 篇论证页（[[Argument_Brugelmann_2014_LocalPractice]]）、第 4 篇论证页（[[Argument_VonOlberg_2014_GeneralDidactics]]）、第 5 篇论证页（[[Argument_Rolff_2014_SchoolStructure]]）与第 6 篇论证页（[[Argument_Kremers_2014_CooperativeLearning]]）；后续各篇具体主张、证据评价与跨篇综合留待逐篇推进。
 
 > [!chapter-index] 篇章阅读入口
 > - **第 1 篇，学校与教学研究的圣杯找到了吗** [[Argument_Terhart_2014_HolyGrail|Der Heilige Gral der Schul- und Unterrichtsforschung – gefunden? Eine Auseinandersetzung mit Visible Learning]]。[[Ewald Terhart]]，pp. 10–23。系统剖析二阶[[Meta-analysis|元分析]]的统计汇总方法、关键阈值与时效质控缺陷，解构激活型与促进型教师模型及对[[Constructivist Instruction|建构主义教学]]的批判，并从[[Process-Product Paradigm|过程-结果范式]]、[[Streetlight Effect|路灯效应]]、福柯式可见性规训与教育狂热修辞剖析其理论局限，终结终极圣杯神话。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch01_Terhart_Holy_Grail_of_Educational_Research.txt)。已完成解读。
 > - **第 2 篇，学校中什么最有效** [[Argument_Koller_2014_WhatWorks|What works best in school? Hatties Befunde zu Effekten von Schul- und Unterrichtsvariablen auf Schulleistungen]]。[[Olaf Köller]]，pp. 24–37。从德语区实证教育研究视界综合评析哈蒂二阶元分析，区隔[[Three Basic Dimensions of Teaching Quality|表层结构与深层结构]]，将高效教学措施系统归入班级管理、[[Cognitive Activation|认知激活]]与[[Constructive Support|建设性支持]]三大基准维度，确立切近微观课堂过程的循证改进规程。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch02_Koller_What_Works_Best_in_School.txt)。已完成解读。
 > - **第 3 篇，依据[[John Hattie|哈蒂]]，越频繁就越好吗** [[Argument_Brugelmann_2014_LocalPractice|Gilt nach Hattie: Je häufiger, desto besser? Zur Bedeutung von „Evidenzbasierung“ für pädagogisches Handeln vor Ort]]。Hans Brügelmann，pp. 38–50。审读大样本标准化统计对个案行动推论的[[Epistemology|认识论]]限度，引入均值陷阱与课程测不准原理，解构教学法内容中立性与二阶元分析[[Implementation Fidelity|实施保真度]]缺陷，还原循证医学三要素对等整合本义，确立以[[Teacher-as-Researcher|教师即研究者]]与累积性个案检验为轴心的微观循证实践转向。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch03_Brugelmann_Evidence_and_Local_Practice.txt)。已完成解读。
-> - **第 4 篇，哈蒂是否建立了一种一般教学论** [[Argument_VonOlberg_2014_GeneralDidactics|Evidence-Based Teaching: Hat John Hattie eine Allgemeine Didaktik entwickelt?]]。[[Hans-Joachim von Olberg]]，pp. 51–66。剖析哈蒂教师手册的双重联结与非实证隐含支柱，将其置于跨大西洋[[Instructional Design|教学设计]]与英美[[Evidence-Based Teaching|循证教学]]（沃尔伯格、马扎诺、[[Geoff Petty|佩蒂]]、[[Evidence-Based Teachers Network|EBTN]]）谱系，对照克朗五级分类与四层教学知识整合图式，判定其因目标论证、学校制度与课程内容三重缺口而仅属单向度方面教学论。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch04_VonOlberg_Evidence_Based_Teaching.txt)。已完成解读。
+> - **第 4 篇，哈蒂是否建立了一种一般教学论** [[Argument_VonOlberg_2014_GeneralDidactics|Evidence-Based Teaching: Hat John Hattie eine Allgemeine Didaktik entwickelt?]]。[[Hans-Joachim von Olberg]]，pp. 51–66。剖析哈蒂教师手册的双重联结与非实证隐含支柱，将其置于跨大西洋[[Instructional Design|教学设计]]与英美[[Evidence-Based Teaching|循证教学]]（[[Herbert Walberg|沃尔伯格]]、马扎诺、[[Geoff Petty|佩蒂]]、[[Evidence-Based Teachers Network|EBTN]]）谱系，对照克朗五级分类与四层教学[[Knowledge Integration|知识整合]]图式，判定其因目标论证、学校制度与课程内容三重缺口而仅属单向度方面教学论。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch04_VonOlberg_Evidence_Based_Teaching.txt)。已完成解读。
 
 > [!chapter-index] 篇章阅读入口
-> - **第 5 篇，学校结构因素真的不重要吗** [[Argument_Rolff_2014_SchoolStructure|Sind schulische Strukturfaktoren wirklich nicht so wichtig? Hattie und das deutsche Schulsystem]]。[[Hans-Günter Rolff]]，pp. 67–77。指出哈蒂基于综合制英语国家的数据无法外推至早期分流的德国多轨制，结合 PISA、IGLU 与 STAR 实证论证外部学制决定机会均等及校内系统变革的必要性。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch05_Rolff_School_Structural_Factors.txt)。已完成解读。
-> - **第 6 篇，[[Cooperative Learning|合作学习]]对学习有多大作用** Wie lernwirksam ist das Kooperative Lernen? Lernen in kooperativen Strukturen auf dem Prüfstand der Hattie-Studie。Thomas Kremers，pp. 78–88。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch06_Kremers_Cooperative_Learning.txt)。待解读。
+> - **第 5 篇，学校结构因素真的不重要吗** [[Argument_Rolff_2014_SchoolStructure|Sind schulische Strukturfaktoren wirklich nicht so wichtig? Hattie und das deutsche Schulsystem]]。[[Hans-Günter Rolff]]，pp. 67–77。指出哈蒂基于综合制英语国家的数据无法外推至早期分流的德国多轨制，结合 [[PISA]]、[[PIRLS|IGLU]] 与 STAR 实证论证外部学制决定机会均等及校内系统变革的必要性。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch05_Rolff_School_Structural_Factors.txt)。已完成解读。
+> - **第 6 篇，[[Cooperative Learning|合作学习]]对学习有多大作用** [[Argument_Kremers_2014_CooperativeLearning|Wie lernwirksam ist das Kooperative Lernen? Lernen in kooperativen Strukturen auf dem Prüfstand der Hattie-Studie]]。Thomas Kremers，pp. 78–88。驳斥德国教师室借哈蒂研究否定合作学习并复辟传统讲授的误读，结合五大心理基石与四组元分析显性效应（对比个体学习 $d = 0.59$），借助十二项高排名特征因子构成的“强效因子束”论证合作学习的高成效及与激活型讲授结合的实践路径。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch06_Kremers_Cooperative_Learning.txt)。已完成解读。
 > - **第 7 篇，数学教学论中的可见学习与[[Problem Solving|问题解决]]** Hatties [[Visible Learning]] im Kontext der Mathematikdidaktik: Das Beispiel Problemlösen。Kristina Reiss; Matthias Bernhard，pp. 89–100。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch07_Reiss_Bernhard_Mathematics_Education.txt)。待解读。
 > - **第 8 篇，有效的学科教学，历史教学论的视角** Wirksamer Fachunterricht: Visible Learning in geschichtsdidaktischer Perspektive。Marko Demantowsky; Monika Waldis，pp. 101–116。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch08_Demantowsky_Waldis_History_Education.txt)。待解读。
 

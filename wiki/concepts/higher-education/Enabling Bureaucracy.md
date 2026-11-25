@@ -5,10 +5,10 @@ aliases:
   - 赋能官僚制
   - 赋能科层制
   - enabling bureaucrats
-summary: "组织社会学与高等教育治理构念，指通过提供必要指引并明晰职责边界来缓解角色压力、提升个体效能与有效感的科层机制；与抑制创造力并引发不满的强制型官僚制相对，在当代大学研究中被用于解释专业支持人员如何通过资源管理促成学术知识生产。"
+summary: "阿德勒与博里斯于 1996 年提出的组织社会学构念，指通过提供必要指引并明晰权责边界来缓解角色压力、提升个体效能与有效感的科层机制；与强制型及解耦型官僚制相对，在高等教育研究中被用于阐明专业支持人员如何通过资源管理直接支撑大学学术知识生产。"
 type: concept
 domain: "higher-education"
-related_count: 17
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -35,8 +35,7 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
 related_instruments: []
-related_persons:
-  - "[[Ton de Jong]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_DeJong_2026_SHE]]"
@@ -101,7 +100,7 @@ updated: 2026-11-26
 > **学术赋能与紧密联结** 阐明大学行政与支撑体系不仅具有程序管控面相，更能作为赋能型官僚嵌入学术资源循环。
 
 > [!claim] [[Argument_DeJong_2026_SHE|de Jong (2026)]]
-> **资源管理驱动的学术赋能机制** 斯特凡·[[Ton de Jong|德容]]（Stefan P. L. de Jong）引入赋能型官僚制视角分析美国[[Research Universities|研究型大学]]的[[Professional Support Staff|专业支持人员]]后指出，支持人员在[[Cycle of Credit|信用循环]]的各个环节发挥实质性推动作用：他们通过搭桥合作与代办伦理审查促成资源转化发生，通过安全培训、生源拓展项目与办公空间选择塑造转化内容，通过长期财务测算与专利甄别提升转化率，并借助媒体关系与跨校网络加快成果传播与设备立项速度。这一经验证据直接回应了行政与学术领域仅呈“[[Loosely Coupled Systems|松散耦合]]”且交互有限的判断，表明学术工作与支持人员工作高度相互关联。[[Argument_DeJong_2026_SHE|(de Jong, 2026, pp. 1245–1250)]]
+> **资源管理驱动的学术赋能机制** 斯特凡·德容（Stefan P. L. de Jong）引入赋能型官僚制视角分析美国[[Research Universities|研究型大学]]的[[Professional Support Staff|专业支持人员]]后指出，支持人员在[[Cycle of Credit|信用循环]]的各个环节发挥实质性推动作用：他们通过搭桥合作、幕后倡导师资启动资源包与代办伦理审查促成资源转化发生，通过安全培训、多元化博士生源项目与校园办公空间选址塑造转化内容，通过十年离职财务测算与专利价值甄别提升转化率，并借助媒体关系与跨校网络加快成果传播及大型设备立项速度。这一经验证据直接回应了行政与学术领域仅呈“[[Loosely Coupled Systems|松散耦合]]”且交互有限的判断，表明学术工作与支持人员工作高度相互关联。[[Argument_DeJong_2026_SHE|(de Jong, 2026, pp. 1244–1250)]]
 
 ---
 

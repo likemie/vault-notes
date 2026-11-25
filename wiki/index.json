@@ -13279,6 +13279,17 @@
     ]
   },
   {
+    "title": "Placemat",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Placemat.md",
+    "aliases": [
+      "餐垫法",
+      "桌垫法",
+      "Platzdeckchen",
+      "Placemat-Methode"
+    ]
+  },
+  {
     "title": "Planning and Prediction",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Planning and Prediction.md",
@@ -57031,6 +57042,11 @@
     "title": "Argument_Koller_2014_WhatWorks",
     "type": "argument",
     "path": "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md"
+  },
+  {
+    "title": "Argument_Kremers_2014_CooperativeLearning",
+    "type": "argument",
+    "path": "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md"
   },
   {
     "title": "Argument_Rolff_2014_SchoolStructure",

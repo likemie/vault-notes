@@ -7,10 +7,10 @@ aliases:
 summary: "以异质性小组为基本组织形式，依托积极互赖、面对面互动与个体责任协同促进学生学业成就、高阶思维与社会情感发展的社会建构主义教学范式；二阶元分析证实其对多维产出具有稳健促进效应（ES = 0.71），在高阶思维技能上的提升最为突出（ES = 0.76），并受具体技术与学科情境显著调节。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 49
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 62
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - "instruction/pedagogy"
   - "theme/cooperative-learning"
@@ -38,19 +38,29 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Affective Outcomes]]"
   - "[[Publication Bias]]"
+  - "[[Cognitive Activation]]"
+  - "[[Reciprocal Teaching]]"
+  - "[[Teacher Clarity]]"
+  - "[[Student-Teacher Relationship]]"
+  - "[[Metacognition]]"
   - "[[Interaction Effect]]"
   - "[[Ecological Validity]]"
   - "[[Teacher Expertise]]"
   - "[[Scaffolding]]"
+  - "[[Evidence-Based Teaching]]"
   - "[[Sampling Error]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Problem Solving]]"
   - "[[Document]]"
   - "[[Attitude Towards Content Domains]]"
+  - "[[Student Attitude]]"
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
   - "[[Variable]]"
-related_theories: []
+  - "[[Placemat]]"
+  - "[[Cooperative, Competitive and Individualistic Learning]]"
+related_theories:
+  - "[[Three Basic Dimensions of Teaching Quality]]"
 related_methods:
   - "[[Survey Research]]"
   - "[[Meta-meta-analysis]]"
@@ -66,16 +76,19 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Confidence Interval]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Robert Slavin]]"
+  - "[[John Hattie]]"
 related_facts:
   - "[[Skills Toward Employment and Productivity]]"
 related_arguments:
   - "[[Argument_Gungor_2026_CP]]"
+  - "[[Argument_Kremers_2014_CooperativeLearning]]"
   - "[[Argument_Koller_2014_WhatWorks]]"
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-11-24
+updated: 2026-11-26
 ---
 
 > [!def] Cooperative Learning
@@ -94,6 +107,7 @@ updated: 2026-11-24
 > [!boundary]- 概念边界
 > - 不等于**无序的自由小组活动（Unstructured Group Work）**——缺乏积极互赖、角色分工与个体责任考核的松散分组，极易引发搭便车（free-riding / social loafing）现象，或导致学优生垄断发言、内向或学困生被动边缘化。
 > - 不等于**协作学习（Collaborative Learning）**——协作学习侧重赋予学生完全的探究自主权，强调权威向学生群体的去中心化转移与开放式问题探索；合作学习则强调教师在教学目标设定、[[Task Structure\|任务结构]]划分、小组角色分配与定量结果考核中的系统控制与责任落实。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 2)]]
+> - 术语精度界定（**在合作结构中学习，Lernen in kooperativen Strukturen**）——由于学习本质上是个体内部的建构与吸纳过程，严格意义上的概念指向“在合作结构中学习”；“合作学习”是针对这种结构化学习安排的通用概念简称。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, p. 79)]]
 
 ---
 
@@ -140,7 +154,10 @@ updated: 2026-11-24
 > **多维学习成效的均衡促进** [[Meta-meta-analysis|二阶元分析]]（SOMA）对 15 项一阶[[Meta-analysis|元分析]]（涵盖 403 项原始实证研究、23 个独立[[Effect Size|效应量]]）的综合检验表明，合作学习对学生的总体学习结果具有显著且稳健的中等促进效应（$ES = 0.71, 95\%\text{ CI} = [0.55, 0.87]$）。在各项细分产出中，合作学习对高阶思维技能（HOTS）的促进效应最大（$ES = 0.76, 95\%\text{ CI} = [0.42, 1.11]$），其次为学业成就（$ES = 0.71, 95\%\text{ CI} = [0.52, 0.90]$），对[[Affective Outcomes|情感行为]]亦表现出积极正向影响（$ES = 0.51, 95\%\text{ CI} = [0.17, 0.84]$）。各产出类型间无统计学显著差异（$Q_b(3) = 4.35, p = .23$），[[Fail-Safe N|失安全系数]]（$N = 4954$）、Egger 回归（$t = 2.08, p = .05$）与[[Trim and Fill Method|剪补法]]一致证实结论无[[Publication Bias|发表偏倚]]。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 6–9)]]
 
 > [!claim] Köller
-> **深层认知激活与高效代表形态** 德语区实证教育研究对二阶元分析的审读显示，结构化合作学习呈现出稳健的促学效应（$d = 0.41$）。其促学潜能的充分释放有赖于高结构化的任务设计与深度认知投入；在具体技术形态中，以交互式研讨与轮流讲解为特征的[[Reciprocal Teaching|互惠教学]]（$d = 0.74$）表现出最突出的学业成效。在[[Three Basic Dimensions of Teaching Quality|教学质量三大基准维度]]框架下，合作学习系统归属于[[Cognitive Activation|认知激活]]维度，通过引导学生在相互解释与质询中开展深层认知建构，推动实质学业提升。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, pp. 31, 35)]]
+> **深层[[Cognitive Activation|认知激活]]与高效代表形态** 德语区实证教育研究对二阶元分析的审读显示，结构化合作学习呈现出稳健的促学效应（$d = 0.41$）。其促学潜能的充分释放有赖于高结构化的任务设计与深度认知投入；在具体技术形态中，以交互式研讨与轮流讲解为特征的[[Reciprocal Teaching|互惠教学]]（$d = 0.74$）表现出最突出的学业成效。在[[Three Basic Dimensions of Teaching Quality|教学质量三大基准维度]]框架下，合作学习系统归属于[[Cognitive Activation|认知激活]]维度，通过引导学生在相互解释与质询中开展深层认知建构，推动实质学业提升。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, pp. 31, 35)]]
+
+> [!claim] Kremers
+> **四维能力整合与隐性因子束协同机制** 托马斯·克雷默斯（Thomas Kremers）指出，合作学习同步整合学科知识、社会交往、沟通表达与方法运用四类能力；以认知学业产出为核心的二阶元分析仅显性测量了其中学科能力一维，低估了其整体育人效力。此外，完整的合作学习依托反思评估、[[Teacher Clarity|教师清晰度]]、反馈、[[Student-Teacher Relationship|师生关系]]与[[Metacognition|元认知]]策略等要素协同构成“强效因子束”（wirkstarkes Faktorenbündel），产生持久或情境性的隐性促学放大效应。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, pp. 79, 82–87)]]
 
 ---
 
@@ -166,6 +183,9 @@ updated: 2026-11-24
 > [!claim] Güngör et al.
 > **理论素养与规范实施的决定性制约** 合作学习在课堂中的有效应用高度依赖教师对理论基础与操作技术的深刻理解。尽管多数教师主观上认为自己在组织合作学习，但实际活动往往因过于松散、脱离特定方法论规范而沦为形式化的小组扎堆。唯有教师精准落实积极互赖、个体责任与小组反思，并为学生提供充分的合作技能训练时间与结构化[[Scaffolding\|脚手架]]，合作学习才能产生实质性学业与思维增益。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 12)]]
 
+> [!claim] Kremers
+> **渐进过程建构与教师专业养成周期** 克雷默斯强调，合作学习具有明显的过程性特征，须遵循“深度独立学习—同伴配对交流—复杂小组协作”的阶梯逐步培育学生能力，并将教师的长期专业发展视为前提（Johnson et al., 2005 认为培养一名胜任合作学习的教师需要三年时间）。将合作学习窄化为脱离心理基础的零散方法拼盘，会直接拉低课堂教学成效。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, pp. 80–81, 87)]]
+
 ---
 
 > [!contrast-table] 所有命题归纳
@@ -173,7 +193,7 @@ updated: 2026-11-24
 > |---|---|---|---|
 > | **多维学习成效协同** | 合作学习在学业成就、高阶思维与情感行为上均具中等程度显著促进效应，高阶思维提升最为突出。 | 全学段教学干预设计与多维课程评价体系 | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]]; Slavin (2014); Johnson and Johnson (2009) |
 > | **技术与学科调节分化** | CIRC 与[[Group Investigation\|小组调查法]]效应更强；语言与科学学科成效突出，体育学科需专门重构教学设计。 | 学科针对性合作教学策略选型与教师培训 | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]]; Çapar & Tarım (2015); Kyndt et al. (2013) |
-> | **生态情境效度优势** | 准实验设计更能捕捉真实课堂社会互动的长期增益，人工实验室设计易造成效应低估。 | 循证教学研究的方法学评估与生态效度权衡 | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]]; Rogers & Révész (2019); Stanczak et al. (2022) |
+> | **生态情境效度优势** | 准实验设计更能捕捉真实课堂社会互动的长期增益，人工实验室设计易造成效应低估。 | [[Evidence-Based Teaching\|循证教学]]研究的方法学评估与生态效度权衡 | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]]; Rogers & Révész (2019); Stanczak et al. (2022) |
 > | **专业素养实施保障** | 形式主义分组无法激活互赖机制，教师理论素养与五大要素规范落实是成败关键。 | 教师在职培训课程设计与课堂教学质量监控 | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]]; Morgan (2019); Legrain et al. (2019) |
 
 ---
@@ -269,7 +289,7 @@ updated: 2026-11-24
 > | Fuad et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 2.04"><span class="b28"></span></span>2.04 | [1.35, 2.74] | Cohen's $d$ / 随机效应模型 | $k = 10$ / $N = —$ | 干预因素：[[Cooperative Integrated Reading and Composition\|CIRC]] 整合读写对语言阅读成就的干预效应 | — | 印尼 K-12 阶段准实验，[[Effect Size\|效应量]]极其突出 |
 > | Gürdoğan-Bayır & Bozkurt (2018)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.96"><span class="b19"></span></span>0.96 | [0.72, 1.19] | Cohen's $d$ / 随机效应模型 | $k = 32$ / $N = —$ | 干预因素：综合合作学习对社会科学业成就的干预效应 | — | 土耳其 K-12 阶段，社会科概念建构效果显著 |
 > | Kyndt et al. (2013)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.54"><span class="b11"></span></span>0.54 | [0.47, 0.60] | Cohen's $d$ / 随机效应模型 | $k = 51$ / $N = —$ | 干预因素：综合合作学习对混合学科学业成就的干预效应 | — | 多国混合学科与学段，样本规模大但检出[[Publication Bias\|发表偏倚]] |
-> | Kyndt et al. (2013)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.15"><span class="b3"></span></span>0.15 | [0.04, 0.26] | Cohen's $d$ / 随机效应模型 | $k = 19$ / $N = —$ | 干预因素：综合合作学习对混合学科一般态度的干预效应 | — | 多国混合学科与学段，效应显著但整体偏低 |
+> | Kyndt et al. (2013)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.15"><span class="b3"></span></span>0.15 | [0.04, 0.26] | Cohen's $d$ / 随机效应模型 | $k = 19$ / $N = —$ | 干预因素：综合合作学习对混合学科一般[[Student Attitude\|态度]]的干预效应 | — | 多国混合学科与学段，效应显著但整体偏低 |
 > | Kyndt et al. (2013)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.18"><span class="b4"></span></span>0.18 | [−0.05, 0.40] | Cohen's $d$ / 随机效应模型 | $k = 4$ / $N = —$ | 干预因素：综合合作学习对土耳其等地区态度的干预效应 | — | [[Sample Size Determination\|样本量]]较小，置信区间跨零未达统计显著 |
 > | Liu and Lipowski (2021)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.05"><span class="b1"></span></span>0.05 | [−1.30, 1.41] | Cohen's $d$ / 随机效应模型 | $k = 6$ / $N = —$ | 干预因素：综合合作学习对体育内在动机的干预效应 | — | K-12 体育教育，[[Confidence Interval\|置信区间]]极宽且效应微弱不显著 |
 > | Özkan & Çetinkaya-Uslusoy (2024)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.58"><span class="b12"></span></span>0.58 | [0.47, 0.70] | Cohen's $d$ / 随机效应模型 | $k = 7$ / $N = —$ | 干预因素：[[Jigsaw\|拼图法]]（Jigsaw）对护理学业成就的干预效应 | — | 高等护理教育临床情境，效应稳健显著 |
@@ -295,6 +315,7 @@ updated: 2026-11-24
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.71"><span class="b14"></span></span>0.71 | [0.55, 0.87] | Cohen's $d$ / 随机效应模型经典逆方差加权 | $M = 15$；$E = 23$；$k = 403$；$N = —$ | 干预因素：合作学习对学生总体学习结果（Learning Outcomes）的二阶干预效应 | $Q(22) = 349.48, p < .01, I^2 = 93.70\%, \tau^2 = 0.13$；95% PI 未报告 | 纳入 15 项一阶元分析，涵盖认知与情感多维产出，研究间异质性极高 |
 > | [[Argument_Koller_2014_WhatWorks\|Köller (2014)]]，引自 [[Argument_Koller_2014_WhatWorks\|Köller (2014, p. 31)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.41"><span class="b8"></span></span>0.41 | — | Cohen's $d$ / 二阶综合 | $M = —$；$E = —$；$k = —$；$N = —$ | 干预因素：结构化合作学习对学业成就的二阶干预效应 | — | 德语区实证审读；指出互惠教学（$d = 0.74$）为其高效代表形态，归入认知激活维度 |
+| [[Argument_Kremers_2014_CooperativeLearning\|Kremers (2014)]]，引自 Hattie (2013, pp. 251–252) | 0.41 | — | Cohen's $d$ / 二阶综合 | $M = 4$；$E = —$；$k = 774$；$N = —$ | 干预因素：合作学习对比异质班级的学业产出效应（对比个体学习 $d = 0.59$，对比竞争学习 $d = 0.54$） | — | 另报告 2 项高等教育小组元分析；高同伴参与、分组训练与小规模分组显著放大效果 |
 
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
@@ -322,7 +343,9 @@ updated: 2026-11-24
 > | [[Cognitive Activation]] | 概念 | 理论归属：在教学质量三大基准维度中，合作学习作为引发深层认知加工的核心载体。 |
 > | [[Structured Teaching]] | 概念 | 结构保障：区分于无序自由讨论，合作学习要求高度结构化的角色分工与积极互赖。 |
 > | [[Jigsaw]] | 概念 | 分支技术：专家组研讨与母组轮流传授的经典技术形态。 |
+> | [[Placemat]] | 概念 | 微策略：以纸面外围独立区与中央共识区落实思考—配对—分享沟通结构。 |
 > | [[Collaborative Learning]] | 概念 | 概念对照：区分教师控制任务与责任的合作学习与去中心化的协作学习。 |
+> | [[Cooperative, Competitive and Individualistic Learning]] | 概念 | 目标结构分类：与竞争式及个体式学习共同构成 Johnson and Johnson 界定的三类合法学习取向。 |
 > | [[Robert Slavin]] | 人物 | 创立学生团队学习项目并研发 STAD、CIRC 等系统化技术的代表学者。 |
 
 ---
@@ -330,4 +353,5 @@ updated: 2026-11-24
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] — 综合 15 项[[Meta-analysis\|元分析]]的[[Meta-meta-analysis\|二阶元分析]]显示合作学习对[[Academic Achievement\|学业成就]]（0.71）、[[Higher-Order Thinking Skills\|高阶思维]]（0.76）与情感（0.51）均有效，[[Jigsaw\|拼图法]]等技术与学科具调节作用。
 > - [[Argument_Koller_2014_WhatWorks\|Köller (2014)]] — 结合德语区实证教育研究审读可见学习，报告合作学习总体效应量 $d = 0.41$，指出互惠教学（$d = 0.74$）为其高效能代表形态，并将其归入教学质量三大基准维度中的认知激活维度（pp. 31, 35）。
+> - [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014)]] — 评估[[John Hattie|哈蒂]]研究中合作学习的显性效应量（$d = 0.41$–$0.59$）与隐性“因子束”作用，驳斥传统讲授复辟并重申五大心理学要素（pp. 78–88）。
 

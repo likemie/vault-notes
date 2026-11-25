@@ -5,9 +5,9 @@ aliases:
 summary: "John Hattie 发起的教育证据综合与学校改进框架，主张通过汇总海量元分析建立 d=0.40 关节点相对有效性判准，将教师确立为成就变异的核心因果枢纽（30%），依托学业进阶、显性成功标准与形成性反馈重塑教学评价性判断。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 189
-related_level: 18
-related_stars: "💎💎💎💎💎💎"
+related_count: 192
+related_level: 19
+related_stars: "💎💎💎💎💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - visible-learning
@@ -107,6 +107,7 @@ related_concepts:
   - "[[Teacher as Activator]]"
   - "[[Data Infrastructure]]"
   - "[[Teacher Subject Matter Knowledge]]"
+  - "[[Cooperative Learning]]"
   - "[[Teacher Collaboration]]"
   - "[[Research Utilization]]"
   - "[[Science and Technology Studies]]"
@@ -142,6 +143,7 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
+  - "[[Visible Classroom]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Ivan Snook]]"
@@ -209,11 +211,12 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
   - "[[Argument_VonOlberg_2014_GeneralDidactics]]"
   - "[[Argument_Rolff_2014_SchoolStructure]]"
+  - "[[Argument_Kremers_2014_CooperativeLearning]]"
   - "[[Argument_Nielsen_2021_IRTP]]"
 confidence: high
 status: stable
 created: 2026-05-02
-updated: 2026-11-25
+updated: 2026-11-26
 ---
 
 > [!tip] 知识网络与子条目维护分流指引
@@ -498,6 +501,7 @@ updated: 2026-11-25
 > - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014)]] — 结合德语区小学一线读写实验，剖析哈蒂数据体系所诱发的“均值陷阱”，揭示其二阶元分析在概念外延、成就测度、测试格式、实施保真度、历史断代与组内离散六个维度的系统性缺陷，指出开放教学与人本教学评价的内在矛盾（pp. 38–47）。
 > - [[Argument_VonOlberg_2014_GeneralDidactics|von Olberg (2014)]] — 审视《可见的学习：教师版》五步行动框架、八项心智框架与德语区简化误读，将其置于英美循证教学与一般教学论对话中定性为方面教学论（pp. 51–65）。
 > - [[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]] — 指出《可见的学习》的综合制英语国家样本无法外推至早期分流的德国多轨制，批评德国舆论将其作“罗夏测验”式挪用并忽视学校系统属性（pp. 67–77）。
+> - [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014)]] — 驳斥将《可见的学习》误读为传统讲授复辟的倾向，从显性效应量与隐性“因子束”交互论证[[Cooperative Learning|合作学习]]的高成效与实践边界（pp. 78–88）。
 > - [[Argument_Fredens_2015_Paideia\|Fredens (2015)]] — 从学习科学与脑科学视角解读 VL，提出“使学校成为反馈文化”的组织转型主张。
 > - [[Argument_Nordahl_2015_Paideia\|Nordahl (2015)]] — 斯堪的纳维亚学派将 VL 重构为校本改进、[[Teacher Collaboration|教师协作]]研讨与能力建设的微观实践路径。
 > - [[Argument_Eacott_2019_IJLE\|Eacott (2019)]] — 批判 VL 在行政与商业推广中异化为[[Neo-Taylorism\|新泰勒主义]]控制与[[Cult of the Guru\|大师崇拜]]的制度风险。

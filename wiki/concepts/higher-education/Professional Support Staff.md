@@ -7,20 +7,22 @@ aliases:
   - higher education professionals
   - support staff
   - non-academic professionals
-summary: "高等教育机构中承担行政管理、技术服务与战略咨询等非教学科研专业职能的雇员群体，其岗位分化、对学术合法性的依赖及在集权标准化与分权贴近学术之间的组织张力，是当代大学治理与新公共管理转型研究的核心议题"
+summary: "高等教育机构中承担行政管理、技术服务与战略支撑等非教学科研专业职能的雇员群体；其岗位分化、学术合法性建构以及通过资源管理介入知识生产与跨层风控的赋能角色，是当代大学治理研究的核心议题"
 type: concept
 domain: "higher-education"
-related_count: 14
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 23
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - level/higher-education
   - theme/university-governance
   - theme/academic-profession
 related_concepts:
+  - "[[Knowledge Exchange]]"
   - "[[Document]]"
   - "[[Third Space Discourse]]"
+  - "[[Blended Professional]]"
   - "[[Research Administrator]]"
   - "[[Knowledge Production]]"
   - "[[Academic Freedom]]"
@@ -28,17 +30,24 @@ related_concepts:
   - "[[Teacher Support for Students]]"
   - "[[Alienation]]"
   - "[[New Public Management]]"
+  - "[[Enabling Bureaucracy]]"
+  - "[[Flow]]"
   - "[[Discourse]]"
+  - "[[Bureaucracy]]"
+  - "[[De-coupled Bureaucracy]]"
   - "[[Educational Decentralization]]"
 related_theories:
   - "[[Loosely Coupled Systems]]"
+  - "[[Cycle of Credit]]"
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Herbert A. Simon]]"
 related_facts: []
 related_arguments:
+  - "[[Argument_DeJong_2026_SHE]]"
   - "[[Argument_Ryttberg_Geschwind_2021_TEM]]"
+  - "[[Argument_Maassen_Stensaker_2019_HEQ]]"
 confidence: medium
 status: draft
 created: 2026-11-25
@@ -48,7 +57,7 @@ updated: 2026-11-26
 ---
 
 > [!def] Professional Support Staff
-> 专业支持人员（Professional Support Staff，简称 PS）指在高等教育机构（Higher Education Institutions，HEIs）中专门从事行政协调、技术服务与战略支撑等非教学科研工作的雇员群体。德容（Stefan P. L. de Jong）将其进一步界定为拥有学位、主要负责开发、维护和改变支撑教育、研究与知识交流的社会、物理及数字基础设施的大学雇员（de Jong, 2023; [[Argument_DeJong_2026_SHE|de Jong, 2026]]）。其职能跨度涵盖基础文秘、后勤维护，以及国际化事务、校企联络、科研支持、隐私与数据管理、安全合规、人力资源与财务控制等高技能专业岗位。学术[[Document|文献]]中亦常使用高等教育专业人员（higher education professionals）、[[Third Space Discourse|第三空间]]专业人员（third-space professionals）或非学术管理人员（non-academic managers/professionals）等称谓指代该群体。[[Argument_Ryttberg_Geschwind_2021_TEM|(Ryttberg & Geschwind, 2021)]]; [[Argument_DeJong_2026_SHE|(de Jong, 2026, p. 1240)]]
+> 专业支持人员（Professional Support Staff，简称 PS）指在高等教育机构（Higher Education Institutions，HEIs）中专门从事行政协调、技术服务与战略支撑等非教学科研工作的雇员群体。德容（Stefan P. L. de Jong）将其进一步界定为拥有学位、主要负责开发、维护和改变支撑教育、研究与[[Knowledge Exchange|知识交流]]的社会、物理及数字基础设施的大学雇员（de Jong, 2023; [[Argument_DeJong_2026_SHE|de Jong, 2026]]）。其职能跨度涵盖基础文秘、后勤维护，以及国际化事务、校企联络、科研支持、隐私与数据管理、安全合规、人力资源与财务控制等高技能专业岗位。学术[[Document|文献]]中亦常使用高等教育专业人员（higher education professionals）、[[Third Space Discourse|第三空间]]专业人员（[[Blended Professional|third-space professionals]]）或非学术管理人员（non-academic managers/professionals）等称谓指代该群体。[[Argument_Ryttberg_Geschwind_2021_TEM|(Ryttberg & Geschwind, 2021)]]; [[Argument_DeJong_2026_SHE|(de Jong, 2026, p. 1240)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 标识大学内部围绕教育和科研使命提供专业化、管理性及事务性支撑的非学术雇员群体。
@@ -107,8 +116,8 @@ updated: 2026-11-26
 
 ---
 
-> [!concept-proposition] 命题三｜专业支持人员通过管理学术信用循环中的资源转化直接参与大学知识生产
-> **资源管理赋能机制** 揭示专业支持人员作为[[Enabling Bureaucracy|赋能型官僚]]在资源流转链条中的实质作用，修正行政支撑仅处于学术外围或与教学科研相互脱节的判断。
+> [!concept-proposition] 命题三｜专业支持人员通过管理学术[[Cycle of Credit|信用循环]]中的资源转化直接参与大学知识生产
+> **资源管理赋能机制** 揭示专业支持人员作为赋能型官僚在资源流转链条中的实质作用，修正行政支撑仅处于学术外围或与教学科研相互脱节的判断。
 
 > [!claim] [[Argument_DeJong_2026_SHE|de Jong (2026)]]
 > **四维资源转化介入与跨层调解** 斯特凡·德容（Stefan P. L. de Jong）将[[Cycle of Credit|信用循环]]扩展至大学组织层级与广义公共传播渠道后论证指出，专业支持人员通过四条路径深度嵌入学术[[Knowledge Production|知识生产]]：借助校企撮合、伦理审查翻译与数据隐私合规使资源转化得以发生；通过安全培训、多元化博士生源培育与办公空间选址重塑转化内容；依托历史财务测算与专利价值甄别提高单位资源的转化率；以及利用媒介网络与跨校信息加速成果传播及大型设备立项。与此同时，支持人员在个体研究者循环与大学整体循环之间承担风险缓冲与声誉保护职能，证实行政工作与学术核心活动紧密相连。[[Argument_DeJong_2026_SHE|(de Jong, 2026, pp. 1245–1250)]]
@@ -137,7 +146,7 @@ updated: 2026-11-26
 > > 学界对高校专业支持人员规模扩大的组织后果存在不同判断。
 > >
 > > - **学术侵蚀论与强制官僚批判** 部分研究认为支持人员外围的扩张侵占了“学术腹地”（academic heartlands），构成了挤压教师自由的“行政膨胀”（administrative bloat）与强制性官僚控制（Ginsberg, 2011; Halffman & Radder, 2015; Rhoades, 1998）。
-> > - **松散耦合与有限影响论** 另一些组织研究提出学术工作与行政部门仅呈[[Loosely Coupled Systems|松散耦合]]或[[De-coupled Bureaucracy|结构性脱钩]]，因而支持人员对教学科研核心流程的实际影响有限（Hüther & Krücken, 2018; [[Argument_Maassen_Stensaker_2019_HEQ|Maassen & Stensaker, 2019]]）。
+> > - **松散耦合与有限影响论** 另一些组织研究提出学术工作与行政部门仅呈[[Loosely Coupled Systems|松散耦合]]或结构性脱钩，因而支持人员对教学科研核[[Flow|心流]]程的实际影响有限（Hüther & Krücken, 2018; [[Argument_Maassen_Stensaker_2019_HEQ|Maassen & Stensaker, 2019]]）。
 > > - **行政赋能与资源管理论** 另一些研究指出，大型且复杂的公共组织（如现代大学）能够从行政管理资源投入中获益（[[Argument_Ryttberg_Geschwind_2021_TEM|Ryttberg & Geschwind, 2021]]）；德容（[[Argument_DeJong_2026_SHE|de Jong, 2026]]）进一步实证表明专业支持人员充当赋能型官僚，通过管理资源转化深度嵌入学术知识生产，并反驳了行政与学术交流有限的预设。
 
 ---
@@ -148,7 +157,7 @@ updated: 2026-11-26
 > |:-----|:-----|:-----|
 > | [[Research Administrator]] | 概念 | 科研管理人员是专业支持人员群体中专门负责科研全流程支撑的重要分支。 |
 > | [[Third Space Discourse]] | 概念 | 第三空间[[Discourse\|话语]]刻画了专业支持人员跨越学术与行政边界的混合职业身份。 |
-> | [[Enabling Bureaucracy]] | 概念 | 赋能型官僚制阐明了专业支持人员通过程序指引与权责澄清支撑学术核心工作的治理机制。 |
+> | [[Enabling Bureaucracy]] | 概念 | 赋能型[[Bureaucracy\|官僚制]]阐明了专业支持人员通过程序指引与权责澄清支撑学术核心工作的治理机制。 |
 > | [[De-coupled Bureaucracy]] | 概念 | 解耦型官僚制主张行政支持系统与学术基层横向脱钩，与赋能型资源联结视角构成对话。 |
 > | [[New Public Management]] | 概念 | 新公共管理的效率、问责与市场化理念是推动高校重组专业支持人员结构的核心外部动力。 |
 > | [[Educational Decentralization]] | 概念 | 分权化构成了高校配置专业支持人员时与集权标准化相对应的另一核心组织维度。 |

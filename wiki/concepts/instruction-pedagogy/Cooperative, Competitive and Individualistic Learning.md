@@ -2,27 +2,65 @@
 title: Cooperative, Competitive and Individualistic Learning
 aliases:
   - 合作、竞争与个体式学习
-summary: "Visible Learning MetaX 因素竞争氛围、竞争式与个体式学习、合作式与竞争式学习、合作式与个体式学习的条目，归属教学策略 › 教学方法；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
+summary: "戴维·约翰逊与罗杰·约翰逊基于目标互赖结构提出的三种合法课堂学习概念，区分协同达成、竞争胜出与个体独立三种教学组织取向，并在元分析比较中检验其对学业成就的相对效应量。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 0
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
 tags:
   - metax
-related_concepts: []
-related_theories: []
-related_methods: []
+  - instruction/pedagogy
+  - theme/cooperative-learning
+related_concepts:
+  - "[[Cooperative Learning]]"
+  - "[[Academic Achievement]]"
+  - "[[Problem Solving]]"
+  - "[[Visible Learning]]"
+related_theories:
+  - "[[Social Interdependence Theory]]"
+related_methods:
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons: []
 related_facts: []
-related_arguments: []
-confidence: medium
-status: draft
+related_arguments:
+  - "[[Argument_Kremers_2014_CooperativeLearning]]"
+confidence: high
+status: active
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-26
 ---
+
+---
+
+> [!def] Cooperative, Competitive and Individualistic Learning
+> 合作、竞争与个体式学习（Cooperative, Competitive and Individualistic Learning）是戴维·约翰逊（David W. Johnson）与罗杰·约翰逊（Roger T. Johnson）在[[Social Interdependence Theory|社会互赖理论]]框架下提出的三种基本教学与学习组织形态（Johnson & Johnson, 1994, pp. 3 ff.）。合作式学习依托积极互赖推动小组成员共同实现目标；竞争式学习构建消极互赖以激发个体争胜动力，旨在培养学生适应竞争性社会的能力；个体式学习则由学习者独立推进自身学习任务。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, pp. 79–80)]]
+
+> [!concept-lens|notitle] 概念透镜
+> - **含义** 将课堂学习按学生之间是否存在积极互赖、消极互赖或无互赖关系，划分为三种均具合法教学地位的组织取向。
+> - **用途** 避免将[[Cooperative Learning|合作学习]]绝对化为唯一有效的教学方案，同时基于实证[[Effect Size|效应量]]评估三类学习取向对[[Academic Achievement|学业成就]]的相对促学效能。
+> - **边界** 该三元划分刻画课堂目标结构与互动安排，实际教学常在单元或课时内部交替组合使用，而非排他性二选一。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, pp. 79–80, 88)]]
+
+> [!contrast-table|notitle] 三类学习目标结构比较
+> | 维度 | 合作式学习（Cooperative） | 竞争式学习（Competitive） | 个体式学习（Individualistic） |
+> |---|---|---|---|
+> | **互赖关系** | 积极互赖与个体责任并重 | 消极互赖，少数学习者胜出 | 无互赖，各自独立完成任务 |
+> | **教学功能定位** | 综合促进学科、社会、沟通与方法能力 | 回应竞争性社会需求并激发学习能量 | 保障个人独立思考与基础信息吸纳 |
+> | **局限与适用条件** | 须防止形式化分组与社会惰化 | 仅少数学习者能够成为胜出者 | 缺少同伴交互对兴趣与[[Problem Solving\|问题解决]]的促进 |
+
+---
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Cooperative Learning]] | 概念 | 核心子形态：系统阐述积极互赖、个体责任与合作结构下的教学原则。 |
+> | [[Visible Learning]] | 概念 | 实证综合来源：对比合作、竞争与个体学习之间的效应量梯度。 |
+> | [[Social Interdependence Theory]] | 理论 | 解释基础：阐明积极、消极与无互赖目标结构如何塑造互动与绩效。 |
 
 > [!metax-divider]
 
@@ -88,3 +126,8 @@ updated: 2026-10-22
 > > | Johnson et al. (2000) | Cooperative vs. individualistic | 158 | NA | 101 | 0.46 |  |
 > > | Roseth et al. (2006) | Cooperative vs. individualistic in middle school | 148 | NA | 55 | 0.55 |  |
 > > | Hilk (2013) | Cooperative vs. individualistic using university students | 185 | 37,422 | 622 | 0.36 |  |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014)]] — 援引 Johnson and Johnson (1994) 肯定三类学习概念各自合法，并据 Hattie (2013) 阐明合作与竞争学习相对个体学习的效应优势（pp. 79–80, 82）。

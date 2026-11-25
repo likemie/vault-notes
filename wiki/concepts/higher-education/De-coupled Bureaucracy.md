@@ -8,10 +8,10 @@ aliases:
 summary: "Maassen 与 Stensaker (2019) 提出描述当代研究型大学组织形态的概念，指纵向层级管控与行政专门化在行政系统内部显著强化，但在横向上与遵循学术规范且依赖高度灵活性的教学科研核心活动发生结构性脱钩"
 type: concept
 domain: "higher-education"
-related_count: 13
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept
   - higher-education
@@ -26,9 +26,15 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Organised Anarchy]]"
   - "[[Scientific Productivity]]"
+  - "[[Horizontal Coordination]]"
   - "[[Complete Organisation]]"
+  - "[[Professional Support Staff]]"
   - "[[Academic Oligarchy]]"
-related_theories: []
+  - "[[Enabling Bureaucracy]]"
+  - "[[Knowledge Production]]"
+related_theories:
+  - "[[Loosely Coupled Systems]]"
+  - "[[Cycle of Credit]]"
 related_methods:
   - "[[Comparative Case Study]]"
   - "[[Case Study]]"
@@ -38,6 +44,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Maassen_Stensaker_2019_HEQ]]"
+  - "[[Argument_DeJong_2026_SHE]]"
 confidence: high
 status: active
 created: 2026-11-24
@@ -100,7 +107,7 @@ updated: 2026-11-26
 
 ---
 
-> [!concept-proposition] 命题二｜数字化管理工具与专业化分工往往加剧部门间横向整合阻碍
+> [!concept-proposition] 命题二｜数字化管理工具与专业化分工往往加剧部门间[[Horizontal Coordination|横向整合]]阻碍
 > **技术系统割裂机制** 各职能行政部门引入的数字化管理平台通常缺乏横向互通设计，使行政专业化演变为跨部门沟通壁垒，削弱了大学开展跨学科战略行动的实际效能。
 
 > [!claim] [[Argument_Maassen_Stensaker_2019_HEQ|Maassen and Stensaker (2019)]]
@@ -124,7 +131,7 @@ updated: 2026-11-26
 ---
 
 > [!critique|notitle] 外部批评与实证修正
-> - **行政与学术有限交换预设的反证** 德容（[[Argument_DeJong_2026_SHE|de Jong, 2026]]）明确将 [[Argument_Maassen_Stensaker_2019_HEQ|Maassen and Stensaker (2019)]] 与 Hüther and Krücken (2018) 归为“行政与学术工作交互有限”的松散耦合/脱钩视角，并基于美国研究型大学 22 位[[Professional Support Staff|专业支持人员]]的访谈提出反证，论证支持人员通过促成转化、塑造内容、提高效率与风险调解深度嵌入学术[[Cycle of Credit|信用循环]]，从而证明行政与学术两个领域存在实质性联结。[[Argument_DeJong_2026_SHE|(de Jong, 2026, pp. 1241, 1249)]]
+> - **行政与学术有限交换预设的反证** 德容（[[Argument_DeJong_2026_SHE|de Jong, 2026]]）明确将 [[Argument_Maassen_Stensaker_2019_HEQ|Maassen and Stensaker (2019)]] 与 Hüther and Krücken (2018) 归为“行政与学术工作交互有限”的[[Loosely Coupled Systems|松散耦合]]/脱钩视角，并基于美国研究型大学 22 位[[Professional Support Staff|专业支持人员]]的访谈提出反证，论证支持人员通过促成转化、塑造内容、提高效率与风险调解深度嵌入学术[[Cycle of Credit|信用循环]]，从而证明行政与学术两个领域存在实质性联结。[[Argument_DeJong_2026_SHE|(de Jong, 2026, pp. 1241, 1249)]]
 
 > [!warning|limits] 适用局限
 > 解耦型官僚制建立在对 5 国研究型公立大学的实证观察之上，主要反映综合性研究型大学在应对高度外部问责时的组织张力；对于私立以营利为导向的高校，或治理架构高度一体化的小型专门学院，其适用性有待进一步检验。[[Argument_Maassen_Stensaker_2019_HEQ|(Maassen & Stensaker, 2019, p. 464)]]
@@ -147,4 +154,4 @@ updated: 2026-11-26
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Maassen_Stensaker_2019_HEQ|Maassen and Stensaker (2019)]] — 比较澳大利亚、比利时、芬兰、荷兰与挪威 5 所领先研究型大学的治理变革，提出并阐释了解耦型官僚制的组织机制与治理困境。
-> - [[Argument_DeJong_2026_SHE|de Jong (2026)]] — 针对行政与学术交互有限的脱钩判断提出实证反例，揭示专业支持人员在信用循环中直接连接学术知识生产。
+> - [[Argument_DeJong_2026_SHE|de Jong (2026)]] — 针对行政与学术交互有限的脱钩判断提出实证反例，揭示专业支持人员在信用循环中直接连接学术[[Knowledge Production|知识生产]]。

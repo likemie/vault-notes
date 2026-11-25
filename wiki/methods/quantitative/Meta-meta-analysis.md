@@ -14,9 +14,9 @@ summary: "在更高层级汇总多个已发表元分析结果的统计综合方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 128
-method_related_level: 12
-method_related_stars: "💎💎💎💎"
+method_related_count: 133
+method_related_level: 13
+method_related_stars: "💎💎💎💎⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -80,6 +80,7 @@ related_concepts:
   - "[[Web-Based Learning]]"
   - "[[Homophily]]"
   - "[[Operationalization]]"
+  - "[[Implementation Fidelity]]"
   - "[[Critique of Meta-meta-analysis]]"
   - "[[Streetlight Effect]]"
   - "[[Divergent Thinking]]"
@@ -134,6 +135,8 @@ related_facts:
   - "[[COACTIV]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Education Endowment Foundation]]"
+  - "[[PISA]]"
+  - "[[PIRLS]]"
 related_arguments:
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Runco_2026_CRJ]]"
@@ -141,10 +144,11 @@ related_arguments:
   - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Gungor_2026_CP]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
+  - "[[Argument_Brugelmann_2014_LocalPractice]]"
   - "[[Argument_Erdem_2026_SHE]]"
   - "[[Argument_Unal_2026_JECR]]"
   - "[[Argument_Qvortrup_2015_Paideia]]"
-  - "[[Argument_Terhart_2014_HolyGrail]]"
   - "[[Argument_Wrigley_2019_ERE]]"
   - "[[Argument_Jansen_2026_EPR]]"
   - "[[Argument_Golovchin_2019_ESC]]"
@@ -156,14 +160,15 @@ related_arguments:
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Koller_2014_WhatWorks]]"
-  - "[[Argument_Brugelmann_2014_LocalPractice]]"
+  - "[[Argument_Rolff_2014_SchoolStructure]]"
+  - "[[Argument_Kremers_2014_CooperativeLearning]]"
 related_persons:
   - "[[Ewald Terhart]]"
   - "[[John Hattie]]"
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-11-25
+updated: 2026-11-26
 ---
 
 ---
@@ -591,7 +596,8 @@ updated: 2026-11-25
 > - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 结合德译本进一步解构二阶元分析作为教育“圣杯”的修辞神话，指出底层文献年代滞后、缺乏准入质控以及[[Streetlight Effect|路灯效应]]等系统性局限（pp. 13–23）。
 > - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014)]] — 系统解构二阶元分析抹杀组内方差离散度、文献历史断代滞后与实施保真度缺失的缺陷，揭示指标内部评价自相矛盾（pp. 42–45）。
 > - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 结合德语区教学实证研究评估二阶元分析核心发现，论证学校宏观结构变量效应微弱而深层教学变量具有实质促学成效（pp. 24–37）。
-> - [[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]] — 核查 Hattie (2009) 二阶元分析中九项学校结构因素的效应量（$d = 0.01\text{–}0.28$），指出英语国家综合制样本无法直接检验德国早期分轨制，须结合 [[PISA]] 与 [[PIRLS]] 等本土及跨国调查研判（pp. 67–72）。
+> - [[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]] — 核查 Hattie (2009) 二阶元分析中九项学校结构因素的效应量（$d = 0.01\text{–}0.28$），指出英语国家综合制样本无法直接检验德国早期[[Tracking|分轨制]]，须结合 [[PISA]] 与 [[PIRLS]] 等本土及跨国调查研判（pp. 67–72）。
+> - [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014)]] — 审读 Hattie (2013) 二阶元分析中[[Cooperative Learning|合作学习]]的显性效应量（$d = 0.41\text{–}0.59$），并借助因子束视角剖析其与十二项高成效教学因子的协同机制（pp. 78–88）。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 对二阶元分析开展方法学与统计计算审计，揭露伪标准误与 SE/SD 混淆等数学违规，提出构建中央标准化数据库的一级直接综合替代方案（pp. 29–36）。
 > - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 运用多水平稳健二阶元分析（SOMA）综合关于创造力与[[Divergent Thinking|发散思维]]的元分析，采用 CHE 模型与 RVE 控制效应量依赖性（pp. 2–5）。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 审计二阶元分析中跨研究设计聚合的数理有效性，实证检验组间与组内设计混杂带来的系统性参数扭曲。

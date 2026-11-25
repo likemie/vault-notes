@@ -858,7 +858,8 @@
       "doi": "10.47989/kpdc67",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md"
+        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md",
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
       "title": "The work of university research administrators: Praxis and professionalization"
     },
@@ -2948,8 +2949,7 @@
       "doi": "10.1080/03075070701346832",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md",
-        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md"
       ],
       "title": "‘Get yourself some nice, neat, matching box files!’ Research administrators and occupational identity work"
     },
@@ -3624,6 +3624,14 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Higher Education/Argument_Schulze-Cleven_2017_HE.md",
         "wiki/concepts/higher-education/Financialization of Higher Education.md"
+      ],
+      "title": ""
+    },
+    "American Council on Education, 2019": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
       "title": ""
     },
@@ -11725,6 +11733,14 @@
       ],
       "title": ""
     },
+    "Beywl & Zierer, 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md"
+      ],
+      "title": ""
+    },
     "Beywl & Zierer, 2015a": {
       "doi": "",
       "isbn": "",
@@ -12787,6 +12803,14 @@
         "wiki/concepts/higher-education/Penetrated Hierarchies.md"
       ],
       "title": "Organizations as penetrated hierarchies: Environmental pressures and control in professional organizations"
+    },
+    "Bleiklie et al., 2017": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": ""
     },
     "Bleses, 2020": {
       "datasets": [
@@ -16822,6 +16846,31 @@
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
       ],
       "title": "Öffnung des Unterrichts. Befunde und Probleme der empirischen Forschung – revisited 2008"
+    },
+    "Brüning & Saum, 2006": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md",
+        "wiki/concepts/instruction-pedagogy/Placemat.md"
+      ],
+      "title": ""
+    },
+    "Brüning & Saum, 2007": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md"
+      ],
+      "title": ""
+    },
+    "Brüning & Saum, 2009": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md"
+      ],
+      "title": ""
     },
     "Bubeck et al., 2023": {
       "doi": "",
@@ -25691,6 +25740,14 @@
       ],
       "title": ""
     },
+    "Cox et al., 2017": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": ""
+    },
     "Cox, 2004": {
       "doi": "",
       "isbn": "",
@@ -34554,6 +34611,14 @@
       "seen_in": [],
       "title": "Impact of trained versus spontaneous reciprocal peer tutoring on adolescent students"
     },
+    "Enserink, 2012": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": ""
+    },
     "Enthoven & de Bruijn, 2010": {
       "doi": "",
       "isbn": "",
@@ -40077,6 +40142,14 @@
       ],
       "title": ""
     },
+    "Frølich et al., 2019": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": ""
+    },
     "Früchtl, 1986": {
       "doi": "",
       "isbn": "",
@@ -41183,14 +41256,6 @@
       "isbn": "",
       "seen_in": [],
       "title": "Year-round schooling as an avenue to major structural reform"
-    },
-    "Gander, 2018a": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
-      ],
-      "title": ""
     },
     "Gao et al., 2020": {
       "doi": "",
@@ -45528,6 +45593,14 @@
       ],
       "title": ""
     },
+    "Green & Green, 2005": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md"
+      ],
+      "title": ""
+    },
     "Green & Little, 2016": {
       "doi": "10.1080/1360144X.2015.1046875",
       "isbn": "",
@@ -47729,7 +47802,6 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md",
         "wiki/concepts/higher-education/Enabling Bureaucracy.md",
         "wiki/concepts/higher-education/Professional Support Staff.md"
       ],
@@ -49839,6 +49911,7 @@
       "doi": "",
       "isbn": "9780415479783",
       "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md",
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md",
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md",
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md",
@@ -49877,8 +49950,7 @@
         "wiki/concepts/instruction-pedagogy/Direct Instruction.md",
         "wiki/concepts/instruction-pedagogy/Effective Teaching.md",
         "wiki/concepts/instruction-pedagogy/Feedback.md",
-        "wiki/concepts/instruction-pedagogy/Homework.md",
-        "wiki/concepts/instruction-pedagogy/Inclusive Education.md"
+        "wiki/concepts/instruction-pedagogy/Homework.md"
       ],
       "title": "Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement"
     },
@@ -49904,6 +49976,7 @@
       "isbn": "9780415690157",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md",
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md",
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md",
         "wiki/arguments/journal-articles/Nordic Psychology/Argument_Nielsen_2021_NordPsych.md",
         "wiki/concepts/competency-and-assessment/Success Criteria.md"
@@ -49914,9 +49987,13 @@
       "doi": "",
       "isbn": "9783834011909",
       "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md",
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md",
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md",
-        "wiki/concepts/instruction-pedagogy/Selbstdidaktisierung.md"
+        "wiki/concepts/instruction-pedagogy/Cooperative Learning.md",
+        "wiki/concepts/instruction-pedagogy/Cooperative, Competitive and Individualistic Learning.md",
+        "wiki/concepts/instruction-pedagogy/Selbstdidaktisierung.md",
+        "wiki/methods/quantitative/Meta-meta-analysis.md"
       ],
       "title": "Lernen sichtbar machen"
     },
@@ -50547,14 +50624,6 @@
       "isbn": "",
       "seen_in": [],
       "title": "The effects of thinking aloud on the comprehension and monitoring of sixth graders"
-    },
-    "Hedrick et al., 2009": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
-      ],
-      "title": ""
     },
     "Hedrick, 1996": {
       "datasets": [
@@ -57985,7 +58054,9 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/instruction-pedagogy/Cooperative Learning.md"
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md",
+        "wiki/concepts/instruction-pedagogy/Cooperative Learning.md",
+        "wiki/concepts/instruction-pedagogy/Cooperative, Competitive and Individualistic Learning.md"
       ],
       "title": ""
     },
@@ -58069,6 +58140,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Cooperative learning methods: a meta-analysis"
+    },
+    "Johnson et al., 2005": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md"
+      ],
+      "title": ""
     },
     "Johnson et al., 2007": {
       "doi": "",
@@ -60017,6 +60096,14 @@
       ],
       "title": ""
     },
+    "Karlsson & Ryttberg, 2016": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": ""
+    },
     "Karmel et al., 1973": {
       "doi": "",
       "isbn": "",
@@ -60907,7 +60994,9 @@
     "Kehm, 2015": {
       "doi": "https://doi.org/10.1007/978-3-319-16080-1_6",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
       "title": "The influence of new higher education professionals on academic work"
     },
     "Keinanen et al., 2000": {
@@ -62920,6 +63009,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md",
         "wiki/arguments/journal-articles/Tertiary Education and Management/Argument_Ryttberg_Geschwind_2021_TEM.md"
       ],
       "title": "Quality of administration in higher education"
@@ -65975,7 +66065,9 @@
     "Köller et al., 2013": {
       "doi": "",
       "isbn": "9783486745108",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md"
+      ],
       "title": "Was wirkt wirklich? Einschätzungen von Determinanten schulischen Lernens"
     },
     "Köller, 2012": {
@@ -68800,6 +68892,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/comparative-education/Ideological Model of Literacy.md"
+      ],
+      "title": ""
+    },
+    "Leslie & Rhoades, 1995": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
       "title": ""
     },
@@ -75214,6 +75314,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/comparative-education/Traveller Education.md"
+      ],
+      "title": ""
+    },
+    "Martin Spiewak, 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md"
       ],
       "title": ""
     },
@@ -88431,6 +88539,14 @@
       "seen_in": [],
       "title": "Integrating the 6 + 1 writing traits model with cross-age tutoring  An investigation of elementary students' writing development"
     },
+    "Paradeise et al., 2009": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": ""
+    },
     "Paradies & Linser, 2003": {
       "doi": "",
       "isbn": "",
@@ -97592,6 +97708,14 @@
       ],
       "title": ""
     },
+    "Roger T. Johnson, 1994": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md"
+      ],
+      "title": ""
+    },
     "Roger Tourangeau et al., 2000": {
       "doi": "",
       "isbn": "",
@@ -99639,7 +99763,8 @@
       "doi": "10.1080/13583883.2017.1322631",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md"
+        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md",
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
       "title": "Professional support staff at higher education institutions in Sweden: Roles and success factors for the job"
     },
@@ -103531,6 +103656,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "How well do children who are internationally adopted acquire language? A meta-analysis"
+    },
+    "Scott, 1980": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": ""
     },
     "Scott, 1982": {
       "doi": "",
@@ -107491,8 +107624,7 @@
       "doi": "10.1080/1360080X.2021.1884513",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md",
-        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+        "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md"
       ],
       "title": "‘So what do you do?’: Third space professionals navigating a Canadian university context"
     },
@@ -108833,6 +108965,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md",
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md",
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md",
         "wiki/facts/germany/Gymnasium.md"
       ],
@@ -109273,6 +109406,14 @@
         "wiki/arguments/journal-articles/Global Education Outlook/Argument_Xie_Li_Huang_2021_GEO.md"
       ],
       "title": "Representing School Success and Failure: Media Coverage of International Tests"
+    },
+    "Stackhouse & Day, 2005": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+      ],
+      "title": ""
     },
     "Stacki, 1999": {
       "doi": "",
@@ -122503,14 +122644,6 @@
         "wiki/concepts/higher-education/Blended Professional.md"
       ],
       "title": "Shifting identities and blurring boundaries: The emergence of third space professionals in UK higher education"
-    },
-    "Whitchurch, 2020": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
-      ],
-      "title": ""
     },
     "White & Casto, 1985": {
       "datasets": [
