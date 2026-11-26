@@ -52,24 +52,24 @@ updated: 2026-11-26
 > [!theory-position] 理论定位
 > - **解释对象** 组织与个体在历史性社会结构中如何形成思考、行为模式与意义体系，以及多元规范如何在组织内部并存、竞争并触发制度转型。
 > - **理论问题** 解答宏观社会制度秩序（如市场、专业共同体与国家）如何具体渗透到组织内部决策与个体日常实践中，以及外部背景变化如何重塑组织优先序。
-> - **理论类型** 社会学新制度主义元理论（meta theory）与多层次组织[[Analytic Framework|分析框架]]。
+> - **理论类型** 社会学新制度主义元理论与多层次组织[[Analytic Framework|分析框架]]。
 > - **知识位置** 植根于组织社会学与制度理论传统，由帕特里夏·桑顿（Patricia H. Thornton）、威廉·奥卡西奥（William Ocasio）和迈克尔·朗斯伯里（Michael Lounsbury）系统阐述，与[[Institutional Work|制度工作]]（Institutional Work）理论在微观能动与宏观模式之间形成互补。[[Argument_DeJong_2024_SHE|(de Jong & del Junco, 2024, pp. 1055–1056)]]
 
 > [!claim] 核心判断
-> 制度逻辑是经由社会建构而成的历史性模式，包含物质实践、隐含预设、价值取向、信念体系与行动规则，人们据此生产并再生产物质生活、组织时空并赋予社会现实以意义；竞争性制度逻辑的并存与博弈为组织转型提供了动力基础。[[Argument_DeJong_2024_SHE|(de Jong & del Junco, 2024)]]
+> 制度逻辑是经由社会建构而成的历史性模式，包含物质实践、隐含预设、价值观、信念与规则，人们据此生产并再生产物质生活、组织时空并赋予社会现实以意义；竞争性制度逻辑的并存与博弈为组织转型提供了动力基础。[[Argument_DeJong_2024_SHE|(de Jong & del Junco, 2024)]]
 
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 帕特里夏·桑顿与威廉·奥卡西奥于 1999 年在《美国社会学期刊》（*American Journal of Sociology*）提出“制度逻辑”界定（Thornton & Ocasio, 1999, p. 804），随后与迈克尔·朗斯伯里在 2012 年专著《制度逻辑视角》（*The Institutional Logics Perspective*）中将其系统化为文化、结构与过程分析框架（原始文本尚未入库，以下内容均据二手[[Primary and Secondary Documents|文献]]整理）。
+> - **提出者与原始文本** 帕特里夏·桑顿与威廉·奥卡西奥于 1999 年在《美国社会学期刊》（*American Journal of Sociology*）提出制度逻辑界定（Thornton & Ocasio, 1999, p. 804），随后与迈克尔·朗斯伯里在 2012 年专著《制度逻辑视角》（*The Institutional Logics Perspective*）中将其系统化为文化、结构与过程分析框架（原始文本尚未入库，相关介绍均据二手[[Primary and Secondary Documents|文献]]整理）。
 > - **原初问题** 解释高管更替与行业权力结构变迁为何随历史时期呈现不同规则，揭示单一理性效率假设无法覆盖的多元文化与制度根源。
 > - **理论资源与材料** 最初依托对美国高等教育出版业（1958–1990 年）高管更替的经验考察，将宏观社会制度秩序与组织内部权力更替及实践规则相连接（据二手[[Document|文献]]引述）。
-> - **形成路径** 将宏观社会制度拆解为可塑造个体思考与行动的物质实践及符号信念模式，进而在 2012 年提炼出市场、专业与国家等相互竞争的核心制度逻辑类型，确立“竞争性逻辑触发制度转型”的因果路径。[[Argument_DeJong_2024_SHE|(de Jong & del Junco, 2024, pp. 1055–1056)]]
+> - **形成路径** 将宏观社会制度拆解为可塑造个体思考与行动的物质实践及符号信念模式，进而在 2012 年提炼出市场、专业与国家等相互竞争的核心制度逻辑类型，确立竞争性逻辑触发制度转型的因果路径。[[Argument_DeJong_2024_SHE|(de Jong & del Junco, 2024, pp. 1055–1056)]]
 
 > [!dev-timeline] 理论版本与贡献
 > - **1999 — 制度逻辑核心界定提出** Thornton and Ocasio（1999, p. 804）界定制度逻辑的历史性社会建构特征，将其作为分析组织权力历史权变性的元理论基础。
 > - **2012 — 制度逻辑视角系统化** Thornton et al.（2012, p. 77）明确提出竞争性逻辑为制度转型提供土壤，并区分市场、专业与国家等制度逻辑秩序。
-> - **2016–2021 — 高等教育量化与质性[[Operationalization|操作化]]探索** Reay and Jones（2016）总结制度逻辑的质性捕捉路径；Shields and Watermeyer（2020）开发 28 题调查测量学术人员中的功利（市场）、自主（专业）与管理（国家）逻辑；Cai and Mountford（2021）综述高等教育制度逻辑文献，发现 54 篇文献中仅 16 篇纳入[[Professional Support Staff|专业支持人员]]（Professional Support Staff, PS）且仅 Oertel（2018）专论该群体，但后者与 Bruckmann and Carvalho（2018）、Larsen（2020）及 Wang and Jones（2021）一样均将其作为观察大学整体逻辑的工具性“观察单位”而非[[Unit of Analysis|分析单位]]。
+> - **2016–2021 — 高等教育量化与质性[[Operationalization|操作化]]探索** Reay and Jones（2016）总结制度逻辑的质性捕捉路径；Shields and Watermeyer（2020）开发 28 题调查测量学术人员中的功利（市场）、自主（专业）与管理（国家）逻辑；Cai and Mountford（2021）综述高等教育制度逻辑文献，发现 54 篇文献中仅 16 篇纳入[[Professional Support Staff|专业支持人员]]（Professional Support Staff, PS）且仅 Oertel（2018）专论该群体，但后者与 Bruckmann and Carvalho（2018）、Larsen（2020）及 Wang and Jones（2021）一样均将其作为观察大学整体逻辑的工具性观察单位而非独立[[Unit of Analysis|分析单位]]。
 > - **2024 — 纳入高校知识发展研究议程** 斯特凡·德容（Stefan P. L. de Jong）与凯·德尔容科（Cay del Junco）结合 Whitchurch and Gordon（2009）关于跨机构流动使外部影响渗入大学的判断及 Suddaby（2010）反思，将制度逻辑与[[Institutional Work|制度工作]]结合，用于解释具备私营部门与多元学科背景的专业支持人员如何将新逻辑引入大学并重塑科研条件。[[Argument_DeJong_2024_SHE|(de Jong & del Junco, 2024, p. 1056)]]
 
 ---
@@ -96,14 +96,14 @@ updated: 2026-11-26
 > 相互竞争的制度逻辑为制度变革提供了生长土壤。当大学内部出现规模迅速扩张且背景持续变化的新兴群体（如具备私营部门从业经历或多元学科训练的专业支持人员）时，外部组织的规范与商业工作文化会随人员流动渗入大学[[Champ|场域]]，与既有学术逻辑形成张力，从而推动科研条件与治理优先序发生深层转型。[[Argument_DeJong_2024_SHE|(de Jong & del Junco, 2024)]]
 
 > [!example|notitle]
-> 既有关于高等教育制度逻辑的研究多将专业支持人员当作观察大学整体逻辑的工具性“观察单位”（例如 Oertel 2018 调查多元化与包容性官员以分析大学层级逻辑），而极少将其自身作为“分析单位”；一旦直接测度支持人员自身秉持的制度逻辑，便可揭示其与学者之间的互动摩擦如何源自彼此遵循的竞争性逻辑。[[Argument_DeJong_2024_SHE|(de Jong & del Junco, 2024)]]
+> 既有关于高等教育制度逻辑的研究多将专业支持人员当作观察大学整体逻辑的观察单位（例如 Oertel, 2018 调查多元化与包容性官员以分析大学层级逻辑），极少将其自身列为分析单位；一旦直接测度支持人员自身秉持的制度逻辑，便可揭示其与学者之间的互动摩擦如何源自彼此遵循的竞争性逻辑。[[Argument_DeJong_2024_SHE|(de Jong & del Junco, 2024)]]
 
 ---
 
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 高校不同群体（如学术人员、领导层与专业支持人员）分别秉持何种制度逻辑；新进入高校的外部人员背景如何通过引入竞争性逻辑改变大学科研条件与知识生产优先序。
-> - **分析对象与单位** 高等教育机构中的不同行动者群体及其职业认同载体；必须区分“观察单位”（借某群体信息推论大学整体）与“分析单位”（直接测量该群体自身秉持的制度逻辑）。
-> - **需要的材料** 改编自 Shields and Watermeyer（2020）的 28 项逻辑测量[[Questionnaire|问卷]]、高等教育与科研管理培训项目教学大纲、专业协会（如 EARMA、SRAI、INORMS）会议摘要与岗位招聘启事文本。
+> - **分析对象与单位** 高等教育机构中的不同行动者群体及其职业认同载体；必须区分观察单位（借某群体信息推论大学整体）与分析单位（直接测量该群体自身秉持的制度逻辑）。
+> - **需要的材料** 改编自 Shields and Watermeyer（2020）的 28 项逻辑测量[[Questionnaire|问卷]]、高等教育与科研管理培训项目教学大纲、欧洲科研经理与管理员协会（European Association of Research Managers and Administrators, EARMA）、国际科研管理员学会（Society of Research Administrators International, SRAI）与国际科研管理学会网络（International Network of Research Management Societies, INORMS）等专业组织文件及会议摘要，以及岗位招聘启事文本。
 > - **解释目标** 识别行动者思维与行动背后的主导逻辑及多重逻辑冲突，解释组织战略转向与群体间互动张力的深层根源。
 
 > [!theory-framework] 命题如何转化为分析维度
