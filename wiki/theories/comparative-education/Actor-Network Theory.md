@@ -117,10 +117,11 @@ updated: 2026-11-26
 > - **2015–2023 — 比较教育[[Policy Mobility\|政策流动]]转向** Beech & Artopoulos 将 ANT 引入跨国数字教育，提出超越领土国家的“[[Relational Space\|关系空间]]”政策流通论；Klerides 追溯比较教育引入 ANT 以解构全球治理流动[[Discourse|话语]]与基准测评[[Governing at a Distance\|远处治理]]黑箱。（[[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015, pp. 8–11]]；[[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]]）
 > - **2018 — 拓扑学空间化与国家[[Center of Calculation\|计算中心]]** [[Sigrid Hartong\|西格丽德·哈通]]（Sigrid Hartong）将 ANT 的[[Center of Calculation\|计算中心]]（Centers of Calculation）与[[Topological Spatialisation\|拓扑空间]]理论结合，考察德国绩效[[Data Infrastructure\|数据基础设施]]（[[Institute for Educational Quality Improvement\|IQB]]、[[Vergleichsarbeiten\|VERA]]）如何在维持地方文化主权的同时，通过不变移动物（统一题库、数字练习平台）实现跨尺度的远处治理与拓扑政策重组。（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 134–146]]）
 > - **2022 — 无生命客体装配与国家科研中介批判** 埃玛·罗威（Emma Rowe）结合[[Network Ethnography\|网络民族志]]，提出“无生命客体的装配”，揭示《公司法》注册架构、董事交叉兼职与标准化量规如何将跨国[[Venture Philanthropy\|风险慈善]]网络装配为看似客观中立的国家中介实体。（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 1–5]]）
+> - **2024 — 高校内部多岗位项目转译追踪议程** [[Argument_DeJong_2024_SHE|de Jong and del Junco (2024)]] 将 ANT 引入研究型大学内部知识治理分析，提出结合[[Cycle of Credit|信用循环]]，按田野追踪方式考察同一科研项目在穿过学者与多类专业支持人员网络时如何发生利益转译并改变研究走向（p. 1058）。
 
 ---
 
-> [!entry-map] 关键概念与理论构件
+> [!theory-constructs] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -160,6 +161,12 @@ updated: 2026-11-26
 > [!example|notitle]
 > 德国[[Institute for Educational Quality Improvement\|柏林教育质量发展研究所]]（IQB）作为国家计算中心，通过开发经[[Item Response Theory\|项目反应理论]]（IRT）校准的统一题库与校际比较诊断（[[Vergleichsarbeiten\|VERA]]），将国家教育标准直接下沉至 16 个联邦州的数万间教室，在未触动宪法文化主权壁垒的前提下重组了全国教育政策空间。（[[Argument_Hartong_2018_GSE\|Hartong, 2018]]）
 
+> [!theory-proposition] 命题五｜科研项目在高校内部与外部多岗位网络流转中经历多义转译并改变知识产出性质
+> 同一科研工作进入大学内部治理与外部合作网络后，会依据不同专业支持岗位（包括学者、资助顾问、伦理与数据保护官、财务会计、技术转移官员与传播顾问）的职责位置及制度逻辑被赋予截然不同的问题界定；随着研究项目沿该异质网络流转，各节点之间的利益磋商与材料修改不仅调整研究方案，还可能把企业等外部行动者直接连入传统学术网络，从而改变最终知识的性质与社会影响。（[[Argument_DeJong_2024_SHE|de Jong & del Junco, 2024, p. 1058]]）
+
+> [!example|notitle]
+> 在 [[Argument_DeJong_2024_SHE|de Jong and del Junco (2024)]] 给出的高校分析推演中，同一个研究项目在学者眼中是同行声誉积累机会，在资助顾问眼中是可吸引经费的项目标的，在伦理与数据保护官眼中是潜在机构声誉风险点，在财务会计眼中是收支流水，在技术转移官员眼中是校企合作与商业卖点，在传播顾问眼中则是提升媒体能见度的素材；借助民族志追踪研究项目如何穿过上述网络并接受修改，能够把非教职行政工作与知识生产变化直接关联起来（p. 1058）。
+
 > [!mechanism-map]- 多尺度行动者网络转译、计算中心与远处治理机制
 > ```mermaid
 > flowchart LR
@@ -189,6 +196,7 @@ updated: 2026-11-26
 > | **关系物质性与耐用客体（命题三）** | **耐用客体装配与黑箱化**<br>网络通过哪些耐用材料维持跨时空形态？去政治化表象掩盖了什么？ | 公司注册执照、特别法案条款、董事会章程细则、因果证据量规、保密豁免协议。 | 检查技术量规与法律文件是否阻断了公众批评；若制度特许条款为私营分包提供隐蔽通道，则判定存在黑箱化权力装配。 |
 > | **[[Center of Calculation\|计算中心]]与拓扑折叠（命题四）** | **计算中心与数据流动**<br>机构如何收集不变移动物并在远处施加控制？数据基础设施如何折叠空间？ | 题库参数、数据交换协议、集中式服务器、全域测试指南、微观练习平台。 | 追踪数据从边缘向中心汇集与标准从中心向边缘反向辐射的双向回路；若地方实践直接被远程软件与量规参数所重塑，则判定存在拓扑远处治理。 |
 > | **网络脆断机制（命题一与三）** | **脆弱性与断裂暴露**<br>网络在何种条件下会暴露其拼装本质？哪些节点是潜在断裂点？ | 系统技术故障记录、财务审计漏洞、民间信息公开申请（FOI）、人事变动。 | 寻找使网络日常运转中断的危机事件；当非人类节点失灵导致后台博弈被置于聚光灯下时，即可确认装配的脆弱性边界。 |
+> | **多岗位利益转译（命题五）** | **组织内部项目流转与改写**<br>同一课题穿过校内不同专业支持岗位时如何被重新定义与修改？ | 基金申报修改稿、伦理审核意见、技术转移商业条款谈判及田野追踪记录。 | 比对课题在经由资助顾问、法务合规与技术转移官员前后的目标、伙伴构成与传播路径变化，辨识外部网络介入点。 |
 
 > [!exegesis]- 澳大利亚[[Educational Brokerage Agency|证据中介机构]]（[[Australian Education Research Organisation|AERO]]）的[[Network Ethnography|网络民族志]]解构
 > - **现象与问题** 澳大利亚教育研究组织（AERO）宣称自身为“超党派、客观中立的独立[[Boundary Spanner|证据经纪人]]”，旨在依靠严格的[[Randomised Controlled Trials\|随机对照试验]]量规消除课堂政治分歧。研究旨在探究其客观中立表象背后的真实治理网络。
@@ -233,5 +241,5 @@ updated: 2026-11-26
 > - [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]] — 运用 ANT 追踪阿根廷 [[Conectar Igualdad\|PCI]] 数字教育项目课堂微观装配，揭示跨国技术资本权力如何绕过国家反商业化法规直接在教学空间中建构秩序。
 > - [[Argument_Li_2025_HSSC\|Li et al. (2025)]] — 借助 ANT 的多行动者转译模型，剖析国家内部[[Policy Network\|政策网络]]如何在多方博弈中折射并本土化转译 [[OECD]] [[PISA]] 评估信息。
 > - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 追溯理性主义比较教育传统中引入 ANT，以分析全球教育治理中流动[[Discourse|话语]]、政策图景与数据[[Governing at a Distance\|远处治理]]的隐秘运作。
-> - [[Argument_DeJong_2024_SHE\|de Jong & del Junco (2024)]] — 提出结合行动者网络理论与[[Cycle of Credit|信用循环]]，[[Cohort Study|追踪研究]]项目穿过[[Professional Support Staff|高校专业支持人员]]与学者网络时的利益转译与修改机制。
+> - [[Argument_DeJong_2024_SHE\|de Jong & del Junco (2024)]] — 提出结合行动者网络理论与[[Cycle of Credit|信用循环]]，田野追踪具体研究项目穿过[[Professional Support Staff|高校专业支持人员]]与学者网络时的多义转译与修改机制（p. 1058）。
 
