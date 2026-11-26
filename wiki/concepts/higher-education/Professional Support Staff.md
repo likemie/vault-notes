@@ -150,7 +150,7 @@ updated: 2026-11-26
 > [!dev-timeline] 概念演变
 > - **1998–2013 — 边缘扩张与多元命名阶段** 随着高等教育规模扩大与社会使命增加，大学非学术专业岗位在数量与专业度上显著增长，学界先后提出非学术专业人员、第三空间专业人员与高等教育专业人员等概念加以界定。
 > - **2017–2021 — 合法性建构与组织权衡转向** 研究焦点从群体规模描述转向考察支持人员如何在[[New Public Management|新公共管理]]（New Public Management, NPM）效率压力与学术自主传统之间通过对话寻求组织平衡与合法性（[[Argument_Ryttberg_Geschwind_2021_TEM|Ryttberg & Geschwind, 2021]]）；同期定量追踪显示部分国家专业支持人员规模急速增长，例如丹麦 1999 至 2018 年间增幅约达 500%，且女性在群体中普遍占比较高（60%–77%）（Stage & Aagaard, 2019；转引自 [[Argument_DeJong_2026_SHE|de Jong, 2026, pp. 1241–1242]]）。
-> - **2024 — 基础设施赋能界定与跨层次知识生产研究议程** 斯特凡·[[Ton de Jong|德容]]（Stefan P. L. de Jong）与凯·德尔容科（Cay del Junco）[[Systematic Review|系统综述]] 54 篇英语一手实证文献，将专业支持人员界定为负责开发、维护与变革支撑教育、科研和知识交流基础设施的高学历雇员，并整合[[Institutional Logics|制度逻辑]]、[[Institutional Work|制度工作]]、[[Actor-Network Theory|行动者网络理论]]与[[Cycle of Credit|信用循环]]，提出考察其推动知识生产趋同与维护高教外部合法性的研究议程。[[Argument_DeJong_2024_SHE|(de Jong & del Junco, 2024)]]
+> - **2024 — 建设科研基础条件界定与知识生产研究议程** Stefan P. L. de Jong 与 Cay del Junco（[[Argument_DeJong_2024_SHE|de Jong & del Junco, 2024]]）[[Systematic Review|系统综述]] 54 篇英语一手实证文献，将专业支持人员界定为负责开发、维护与变革支撑教育、科研和知识交流基础设施的高学历雇员，并整合[[Institutional Logics|制度逻辑]]、[[Institutional Work|制度工作]]、[[Actor-Network Theory|行动者网络理论]]与[[Cycle of Credit|信用循环]]，提出考察其推动知识生产趋同与维护高教外部合法性的研究议程（pp. 1044, 1054–1059）。
 > - **2026 — 信用循环与[[Enabling Bureaucracy|赋能型官僚制]]实证检验** 德容将研究视角从支持人员是谁拓展至支持人员如何贡献于知识发展，借助扩展后的[[Cycle of Credit|信用循环]]揭示资源管理对学术产出的实质贡献。[[Argument_DeJong_2026_SHE|(de Jong, 2026, pp. 1242, 1249–1250)]]
 
 ---
@@ -203,5 +203,5 @@ updated: 2026-11-26
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Ryttberg_Geschwind_2021_TEM|Ryttberg and Geschwind (2021)]] — 通过对荷兰和挪威两所大学 18 名专业支持人员的访谈，揭示支持服务的组织是在集权标准化、分权贴近学术与持续对话之间的多维平衡。
-> - [[Argument_DeJong_2024_SHE|de Jong & del Junco (2024)]] — 系统综述 54 篇实证文献梳理能力、四类关系与直接和间接影响，并结合制度理论与信用循环提出研究议程。
+> - [[Argument_DeJong_2024_SHE|de Jong and del Junco (2024)]] — 系统综述 54 篇实证文献梳理能力、四类关系与直接和间接影响，并结合制度理论与信用循环提出研究议程。
 > - [[Argument_DeJong_2026_SHE|de Jong (2026)]] — 访谈美国精英研究型大学 22 位专业支持人员，基于信用循环揭示其通过资源管理与跨层调解参与知识生产。

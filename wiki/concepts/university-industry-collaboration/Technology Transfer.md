@@ -222,6 +222,9 @@ updated: 2026-11-26
 > [!claim] [[Argument_DeJong_2026_SHE|de Jong (2026)]]
 > **技术转移专员的科研细节把控与专利价值筛选** 针对美国研究型大学[[Professional Support Staff|专业支持人员]]的实证访谈表明，校级技术与[[Knowledge Transfer|知识转移]]专员在“论据→广义出版物（专利）”环节直接决定校方研发成果的资源转化效率：由于提交并获批一件专利本身门槛不高，真正困难的是识别具备应用与商业价值的专利并淘汰无效申请；专员需依托跨界科学判断力决定深入科研细节的程度，并妥善协调不同学者的个性差异，防止在毫无价值的专利申请上耗费大量经费。[[Argument_DeJong_2026_SHE|(de Jong, 2026, pp. 1248–1249)]]
 
+> [!claim] [[Argument_DeJong_2024_SHE|de Jong and del Junco (2024)]]
+> **技术转移专员的双重逻辑平衡与信用循环捷径介入** de Jong and del Junco 梳理 7 篇聚焦技术转移人员的高等教育实证文献发现，该群体在自然／工程与法学博士学位基础上普遍引入国际私营部门财务、专利、风投与创业经验（Harman & Stone, 2006; Ryttberg & Geschwind, 2017），依托识别商业潜力发明与许可谈判的实操诀窍，在引入市场逻辑的同时开展合规与边界维护工作以保护学术逻辑（Sapir, 2020）；在[[Cycle of Credit|信用循环]]中，技术转移官既可在定量层面为确保知识产权而暂缓学术发表速率，也可在定性层面协助将研究数据直接出售给企业，使循环跳过论据整理、公开发表与学术声誉环节。[[Argument_DeJong_2024_SHE|(de Jong & del Junco, 2024, pp. 1048–1049, 1057–1059)]]
+
 ---
 
 > [!concept-proposition] 命题三｜关系型人员流动与[[Tacit Knowledge|隐性知识]]交流正在重塑传统交易型技术转移范式
@@ -271,7 +274,7 @@ updated: 2026-11-26
 > | 命题类型 | 核心指向 | 提出学者 | 实证支持情境 |
 > |---|---|---|---|
 > | **公共开源扩散命题** | [[General Purpose Technology\|通用技术]]萌芽期转移依赖公共开源与人才流动而非专利排他许可 | [[Argument_Fabrizio_Mowery_2005_REI\|Fabrizio and Mowery (2005)]] | 1945–1980年美国半导体、计算机与互联网底层协议扩散 |
-> | **学科异质摩擦命题** | 法定专利排他性技术转移模式存在学科[[Heterogeneity\|异质性]]、跨国制度摩擦与专员专利筛选把关 | [[Argument_Susalka_Carbone_2025_IP_Web\|Susalka and Carbone (2025)]]; [[Argument_DeJong_2026_SHE\|de Jong (2026)]] | 美国大学[[University-Industry Collaboration\|产学合作]]合同谈判与跨国专利协调案例 |
+> | **学科异质摩擦命题** | 法定专利排他性技术转移模式存在学科[[Heterogeneity\|异质性]]、跨国制度摩擦、双重逻辑平衡与专员专利筛选把关 | [[Argument_DeJong_2024_SHE\|de Jong and del Junco (2024)]]; [[Argument_Susalka_Carbone_2025_IP_Web\|Susalka and Carbone (2025)]]; [[Argument_DeJong_2026_SHE\|de Jong (2026)]] | 美国大学[[University-Industry Collaboration\|产学合作]]合同谈判与跨国专利协调案例 |
 > | **广义[[Knowledge Exchange\|知识交流]]命题** | 关系型人员流动与隐性[[Knowledge Exchange\|知识交流]]正在重塑传统交易型技术转移 | [[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen (2025)]] | 英国BTG垄断解除、Alvey计划与高等教育创新基金改革 |
 > | **重资产平台复用命题** | 重资产通用技术领域的转移依托多边联合体、国家开放设施与多学科跨界再造 | [[Argument_Mody_2017_MOH\|Mody (2017)]] | 1970–1990年代美国加州理工 [[Silicon Structures Project\|SSP]]、康奈尔 [[National Research and Resource Facility for Submicron Structures\|NRRFSS]] 与基因枪转化 |
 > | **敏捷统一许可命题** | 技术转移必须打破跨校条款碎片化，依托 [[Cooperative Research and Development Agreement\|CRADA]] 与 OTA 敏捷协议将成果锚定于本土制造 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] | 白宫 [[Office of Science and Technology Policy\|OSTP]] 2026 国家技术许可改革、国家实验室[[Big Science\|大科学]]设施开放与 OTA 商业授权 |
@@ -291,6 +294,7 @@ updated: 2026-11-26
 > - **2000 年代–2010 年代 — 从狭义技术转移向广义知识交流拓展** 科技政策学界反思排他专利许可的高昂交易成本与学科局限，推动技术转移[[Paradigm|范式]]向全生命周期产学协同、人员深度互访、开源生态构建以及[[Responsible Innovation|负责任创新]]的现代知识交流全面升华。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 44–46)]]
 > - **2023 年 — 跨国走廊与联合平台导向的战略性转移** [[Argument_Woo_2023_HEP|Woo (2023)]] 揭示发展型国家模式下的跨国技术转移路径，高水平[[Research Universities|研究型大学]]通过在海外共建联合实验室、技术转移中心与国际[[Innovation Park|科技园区]]，将科研成果与产业标准定向输出至沿线重点走廊，超越了传统英美单纯依赖校内 TTO 商业化许可的单一路径。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 685–687)]]
 > - **2024 年 — 跨境教育枢纽三螺旋技术转移机制** 屈丽娟与代玉文（[[Argument_Qu_2024_IJED|Qu & Dai, 2024, pp. 2–3, 10]]）基于长三角、粤港澳大湾区与海南自贸港实践，实证揭示跨境教育枢纽如何通过政产学三螺旋联动，将跨国技术转移直接嵌入区域产业集群。
+> - **2024 年 — 技术转移人员的双重[[Institutional Work|制度工作]]与信用循环捷径** [[Argument_DeJong_2024_SHE|de Jong and del Junco (2024)]] 综述 7 篇技术转移人员实证研究，揭示其商业私营背景转向、在商业创设与学术维护间维系边界（Sapir, 2020），以及通过暂缓发表或直接出售数据改变信用循环速率与路径的作用方式（pp. 1048–1049, 1057–1059）。
 > - **2026 年 — 统一许可框架、[[Other Transaction Authority|OTA]] 敏捷授权与国家制造锚定** 白宫 [[Office of Science and Technology Policy|OSTP]] 发布《[[Science A New Golden Age 2026|科学：新的黄金时代]]》（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]），正式确立推行跨校统一知识产权许可框架、加速国家实验室 [[Cooperative Research and Development Agreement|CRADA]] 与深化 OTA 商业授权，将技术转移全面锚定于本土先进制造与产业链自主可控；同期高教研究亦揭示校级技术转移专员通过科研细节把握与专利价值筛选提高大学成果资源转化率（[[Argument_DeJong_2026_SHE|de Jong, 2026, pp. 1248–1249]]）。
 
 ---
@@ -352,7 +356,7 @@ updated: 2026-11-26
 > | [[Research Translation]] | 概念 | 涵盖从微观实验到宏观实体制造的广义转化系统。 |
 > | [[Knowledge-Based Economy]] | 概念 | 技术转移作为核心生产力要素嵌入的宏观经济形态。 |
 > | [[International Education Hubs]] | 概念 | 汇聚跨国高校与骨干产业开展联合研发与技术转移的战略载体。[[Argument_Qu_2024_IJED\|(Qu & Dai, 2024, p. 2)]] |
-> | [[Professional Support Staff]] | 概念 | 承担校级技术转移筛选、知识产权合规与科研细节判断的专业支持群体。[[Argument_DeJong_2026_SHE\|(de Jong, 2026, pp. 1248–1249)]] |
+> | [[Professional Support Staff]] | 概念 | 承担校级技术转移筛选、知识产权合规与科研细节判断的专业支持群体。[[Argument_DeJong_2024_SHE\|(de Jong & del Junco, 2024)]]; [[Argument_DeJong_2026_SHE\|(de Jong, 2026, pp. 1248–1249)]] |
 > | [[Triple Helix]] | 理论 | 阐明大学、产业与政府在技术转移中跨越线性分工的分析框架。[[Argument_Qu_2024_IJED\|(Qu & Dai, 2024, p. 3)]] |
 > | [[Systems of Innovation]] | 理论 | 界定技术转移在国家和区域创新网络中制度交互的[[Theoretical Perspective\|理论视角]]。 |
 > | [[Regional Innovation System]] | 理论 | 承接跨境高教技术转移与骨干产业研发对接的区域制度生态。[[Argument_Qu_2024_IJED\|(Qu & Dai, 2024, p. 10)]] |
@@ -374,3 +378,4 @@ updated: 2026-11-26
 > - [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford and UIDP (2019)]] — 审查英、美、欧等国家在技术转移宏观度量与监管障碍清除方面的政策创新实践。
 > - [[Argument_Mody_2017_MOH|Mody (2017)]] — 从管理史视阈剖析微电子学术中心与产业联合体通过驻场研究员、国家开放设施咨询及多学科生态完成的平台型技术转移与跨界二次再造。
 > - [[Argument_DeJong_2026_SHE|de Jong (2026)]] — 揭示高校技术转移与企业联络专员通过把握科学细节深度并剔除无效专利，提升产学资源转化效率（pp. 1248–1249）。
+> - [[Argument_DeJong_2024_SHE|de Jong and del Junco (2024)]] — 综述 7 篇技术转移人员实证研究，揭示其私营履历转向、双重逻辑边界维护及改变信用循环速率与数据出售捷径的作用机制。

@@ -9,7 +9,7 @@ aliases:
 summary: "组织社会学制度理论分析框架，聚焦个体与群体嵌入日常实践与惯例中的微观行动，解释其如何创设、维护或破坏制度逻辑并推动非高层行动者引发的制度变迁"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 22
+theory_related_count: 21
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -20,14 +20,13 @@ tags:
   - theme/university-governance
 related_concepts:
   - "[[Institutional Maintenance]]"
-  - "[[Primary and Secondary Documents]]"
   - "[[Document]]"
+  - "[[Primary and Secondary Documents]]"
   - "[[Technology Transfer]]"
   - "[[Professional Support Staff]]"
   - "[[Literature Review]]"
   - "[[Knowledge Production]]"
   - "[[Champ]]"
-  - "[[Homework]]"
   - "[[Neoliberalism]]"
   - "[[Research Question]]"
   - "[[Unit of Analysis]]"
@@ -67,16 +66,16 @@ updated: 2026-11-26
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 托马斯·劳伦斯与罗伊·萨达比于 2006 年在《组织研究手册》（*Handbook of Organization Studies*）第二版发表《制度与制度工作》（*Institutions and Institutional Work*），系统建构该分析框架，随后劳伦斯、萨达比、贝尔纳·莱卡（Bernard Leca）及伊娃·齐尔伯（Tammar B. Zilber）进一步拓展了非高层执行者制度工作的研究议程（Lawrence et al., 2009, 2013；原始[[Primary and Secondary Documents|文献]]尚未入库，相关介绍均据二手[[Document|文献]]整理）。
+> - **提出者与原始文本** 托马斯·劳伦斯与罗伊·萨达比于 2006 年在《组织研究手册》（*Handbook of Organization Studies*）第二版发表《制度与制度工作》（*Institutions and Institutional Work*），系统建构该分析框架，随后劳伦斯、萨达比、贝尔纳·莱卡（Bernard Leca）及伊娃·齐尔伯（Tammar B. Zilber）进一步拓展了非高层执行者制度工作的研究议程（Lawrence et al., 2009, 2013；原始文献尚未入库，相关介绍均据二手[[Document|文献]]整理）。
 > - **原初问题** 既有制度理论往往只关注宏观制度趋同或少数强势制度创业者的蓄意改革，难以捕捉普通从业者在日常惯例中如何悄然维系或改写制度规则。
 > - **理论资源与材料** 整合组织制度分析对结构合法性的关注与实践理论对日常微观行动的重视，强调日常例行活动而非单纯的戏剧性突破（Willmott, 2011；据二手文献引述）。
 > - **形成路径** 将行动者围绕制度展开的微观活动归类为创设、维护与破坏三类基本工作形态，把分析焦点从静态制度结果转向过程与贡献导向的日常实践。[[Argument_DeJong_2024_SHE|(de Jong & del Junco, 2024, p. 1057)]]
 
 > [!dev-timeline] 理论版本与贡献
-> - **2006 — 制度工作三元框架确立** Lawrence and Suddaby（2006）提出创设、维护与破坏制度三类微观工作，强调日常实践对制度演化的塑造作用（据二手文献整理）。
+> - **2006 — 制度工作三元框架确立** Lawrence and Suddaby（2006）提出创设、维护与破坏制度三类微观工作，强调日常实践对制度演化的塑造作用（据[[Primary and Secondary Documents|二手文献]]整理）。
 > - **2009–2013 — 反英雄叙事反思与非高层行动者转向** Lawrence et al.（2009, p. 5）批评将个体描绘成不受约束推进变革的英雄式叙事；Willmott（2011）强调日常惯例与制度创业的区别；Lawrence et al.（2013）呼吁关注非高层执行者的制度工作（据二手文献整理）。
 > - **2020 — 高校[[Technology Transfer|技术转移]]情境实证应用** 萨皮尔（Sapir, 2020）通过访谈将制度工作引入大学[[Professional Support Staff|专业支持人员]]研究，揭示技术转移官员在创设市场逻辑的同时开展维护工作以保护学术专业逻辑（据二手[[Literature Review|文献综述]]）。
-> - **2022–2024 — 边缘群体精英化与[[Knowledge Production|知识生产]]网络整合** 莫德尔（Modell, 2022）指出制度工作能揭示边缘行动者如何转变为能够强制推行自身规范的新精英，并支撑以过程和贡献为导向的影响力评估；[[Argument_DeJong_2024_SHE|de Jong and del Junco（2024, p. 1057）]]据此构建结合日常互动观察、战略草案追踪与[[Network Analysis|社会网络分析]]的高教研究议程。
+> - **2022–2024 — 边缘群体精英化与[[Knowledge Production|知识生产]]网络整合** 莫德尔（Modell, 2022）指出制度工作能揭示边缘行动者如何转变为能够强制推行自身规范的新精英，并支撑以过程和贡献为导向的影响力评估；[[Argument_DeJong_2024_SHE|de Jong & del Junco (2024, p. 1057)]]据此构建结合日常互动观察、战略草案追踪与[[Network Analysis|社会网络分析]]的高教研究议程。
 
 ---
 

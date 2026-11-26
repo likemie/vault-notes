@@ -283,6 +283,9 @@ updated: 2026-11-26
 > [!claim] [[Argument_DeJong_2026_SHE|de Jong (2026)]]
 > **专业支持人员的资源转化与信用循环嵌入** 传统研究多将大学非学术人员视为被动执行行政事务的外围群体。de Jong 通过研究型大学民族志观察表明，[[Professional Support Staff|专业支持人员]]在资助申请、空间设备调配与跨界联络中直接介入科研资源的获取、组合与分配，具体调控资源转化能否发生、转化内容、转化比率及转化速率，并借助内部跨学科整合者角色连接个体与大学两个层面的[[Cycle of Credit|信用循环]]，从而实质性推动学术知识产出。[[Argument_DeJong_2026_SHE|(de Jong, 2026, pp. 1244–1250)]]
 
+> [!claim] [[Argument_DeJong_2024_SHE|de Jong and del Junco (2024)]]
+> **专业支持人员经由战略条件与一线实务塑造知识生产趋同** de Jong and del Junco 系统梳理 54 篇高校实证文献指出，具备高学历与私营部门背景的[[Professional Support Staff|专业支持人员]]在同事、学者、领导层与校外机构之间占据中介枢纽，不仅通过起草战略与调配人财物间接设定科研条件，还通过撰改高达半数基金申请书、培训竞争规则以及督导知识产权、研究数据管理（Research Data Management, RDM）与开放获取（Open Access, OA）合规直接介入研究；依托跨校专业网络形成的共通评价模板正通过[[Institutional Isomorphism|制度同构]]推动学术知识生产趋同，同时以政策转译维系高等教育系统的外部合法性。[[Argument_DeJong_2024_SHE|(de Jong & del Junco, 2024, pp. 1048–1055)]]
+
 ---
 
 > [!concept-proposition] 命题二｜去中心化的竞争性资助体制造就了高产出知识生态但诱发了系统性学术避险
@@ -390,6 +393,7 @@ updated: 2026-11-26
 > |:---|:---|:---|:---|:---|
 > | **宏观体制** | **大学职能研教共生** | 现代[[Research Universities\|研究型大学]]确立了知识生产与传播并重的使命，研究生院构建起尖端探索与拔尖人才培养共生生态 | 德国[[Humboldtian Model of Higher Education\|洪堡理念]]移植；研究生师徒共进；前沿科研与研究生教育绑定 | [[Argument_Atkinson_2008_TIS\|Atkinson and Blanpied (2008)]] |
 > | **宏观体制** | **专业支持人员资源管理嵌入** | 非学术[[Professional Support Staff\|专业支持人员]]通过调控资源转化过程并嵌入[[Cycle of Credit\|信用循环]]，实质推动大学知识生产 | 调控转化发生、内容、比率与速率；跨学科整合者角色；连接个体与大学信用循环 | [[Argument_DeJong_2026_SHE\|de Jong (2026)]] |
+> | **宏观体制** | **专业支持人员跨校趋同假说** | 高校[[Professional Support Staff\|专业支持人员]]通过战略与基金把关推动学术知识生产趋同并维系外部合法性 | 跨校共享竞争力标准；基金培训与预审守门；[[Institutional Isomorphism\|制度同构]]效应 | [[Argument_DeJong_2024_SHE\|de Jong and del Junco (2024)]] |
 > | **宏观体制** | **竞争资助与学术避险** | 去中心化同行评审与竞争资助造就卓越生产力，但竞争过热与启动金耗尽诱发青年学者学术避险与文献平庸化 | 联邦直接资助教师个人；跨校师资竞争；课题成功率走低促使学者规避风险 | [[Argument_Stephan_2013_NBER\|Stephan (2013)]]; Alberts (2011) |
 > | **宏观体制** | **产学协同与资本剥离** | [[University-Industry Collaboration\|产学合作]]与《[[Bayh-Dole Act of 1980\|拜杜法案]]》激活成果商业转化，但也导致成果产权被工业资本捕获及人文社科[[Narrative Knowledge\|叙事知识]]相对衰退 | 知识产权下放大学；企业联合中心资助；硬科学专利主导 | [[Argument_Partaken_2022_Springer\|Partaken (2022)]]; Lissoni (2012) |
 > | **宏观体制** | **超国家自指指标体系** | 跨国组织通过自建科研编制、自制指标与贷款捆绑构筑封闭知识体系，促使比较教育向标准化量化[[Paradigm\|范式]]位移 | 治理巨头自给自足；专职研发建制超越大学均值；以硬事实行使[[Soft Power\|软权力]] | [[Argument_Zapp_2017_IJED\|Zapp (2017)]]; [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]]; [[Argument_Mitter_2009_Europe\|Mitter (2009)]] |
@@ -420,6 +424,7 @@ updated: 2026-11-26
 > - **2022 — 教育治理工作中的知识生产与行政清洗揭示** [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] 剖析[[Swedish Schools Inspectorate|瑞典学校督察局]]，揭示治理机构如何通过预先编制单一范式综述与终审定稿清洗，将多元学术文献生产为服务于国家简化的行政合规定论，并从[[Basil Bernstein|伯恩斯坦]]“[[Horizontal Knowledge Structure|弱语法]]”与[[Jean Piaget|皮亚杰]]动态发生学视角解构了静态“当前知识状态”的技术官僚幻觉。
 > - **2023 — 大国博弈脱钩与全球知识生产策源地困境** [[Argument_Woo_2023_HEP|Woo (2023)]] 实证揭示中美科技博弈加剧导致[[Knowledge Exchange|知识交流]]政治化与安全化，切断了后发国家从西方获取前沿知识的核心管道，直接制约其作为全球知识生产中心的引领力。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 693–694)]]
 > - **2024 — 全球[[Output-Oriented Governance|循证治理]]中的南北知识生产断裂与长效资助机制** [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] 揭示传统国际援助偏向北方短期项目对南方本土知识生产的割裂，阐明全球集中生产与本土实践之间[[Two Broken Feedback Loops|双重反馈回路断裂]]的结构性根源，提出构建长效循证资助者联盟（Funder Coalition for URE）以保障知识公平与代表权（pp. 14, 38, 46）。
+> - **2024 — 高校专业支持人员影响知识发展的跨层研究议程** [[Argument_DeJong_2024_SHE|de Jong and del Junco (2024)]] 综合 54 篇英语一手实证文献，阐明支持人员在能力、四方关系与直接及间接影响上的作用路径，并串联[[Institutional Logics|制度逻辑]]、[[Institutional Work|制度工作]]、[[Actor-Network Theory|行动者网络理论]]与[[Cycle of Credit|信用循环]]，提出检验知识生产趋同与外部合法性的研究议程（pp. 1044, 1054–1059）。
 > - **2025–2026 — 技术导向型契约确立与知识生产的三轨分化** [[Argument_Fan_2026_BCAS|樊春良 (2026, pp. 1061–1064)]] 剖析美国《迈向新的黄金时代：美国科学政策的范式转变》报告，标志着战后基础研究契约向技术导向型契约让渡，揭示知识生产从好奇心驱动的认知蓄水池降维为技术主权工具，并形成国家任务、安全合规大学与私营科技资本三轨分立格局。
 > - **2026 — [[Genesis Mission|创世纪计划]]与智能时代生成-核验生态重塑** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026, pp. 62–70]]）主持发布白宫战略报告，反思 17 世纪静态出版局限，依托创世纪计划整合国家算力仪器，推行[[Dynamic Research Notebook|动态研究笔记本]]、负面数据共享与自动化机器核验基础设施。
 > - **2026 — 战略产业中的“教育即标准”与中试共置模式** 卓泽林（[[Argument_Zhuo_2026_ICE|卓泽林, 2026, pp. 20–24]]）系统阐释战略半导体体系中大学知识生产的角色重构，揭示高校如何将开源技术方案（如 RISC-V）嵌入课程形成全球标准锁定，并依托 300 毫米晶圆中试线（SUNY Poly）打通工程转化断层。

@@ -1700,5 +1700,11 @@
       "sentence": "**话语误读与体制对照**",
       "target": "wiki/concepts/research-methodology/Discourse.md"
     }
+  ],
+  "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md": [
+    {
+      "sentence": "54 篇英语实证文献显示，高校专业支持人员学历越来越高，拥有企业与私营部门经验的人正在取代传统公共或学术背景者。",
+      "target": "wiki/concepts/research-methodology/Document.md"
+    }
   ]
 }

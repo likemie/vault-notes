@@ -61,7 +61,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-11-11
+updated: 2026-11-26
 ---
 
 ---
@@ -69,7 +69,7 @@ updated: 2026-11-11
 > [!def] Science and Technology Studies
 > 科学技术研究（Science and Technology Studies, STS）是一个跨学科研究领域，主张科学知识与技术工具本质上是由[[Heterogeneity|异质性]]行动者网络、物质实践、制度规训与治理权力共同构成的社会技术成就，突破了关于外部客观世界透明镜像的静态设想。STS 拒绝自然/社会、科学/政治等二元对立，核心关注知识如何被生产、动员、验证、转译与施行（[[Performativity|performativity]]），以及统计指标、计算规程与评估工具如何深度嵌构并重塑现代教育治理与学校实践。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 6)]]; [[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 253)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 指向科学知识与技术媒介的物质性、实践性与政治性，主张科学是一种正在制造中的社会实践网络。
 > - **用途** 帮助研究者穿透“客观数据”与“循证方案”的技术中立修辞，追踪分类法、公式、培训脚本与特许合同背后的权力施效机制。
 > - **边界** STS 拒斥将科学降格为纯粹虚构的相对主义，侧重展现[[Knowledge Production|知识生产]]与治理需求相互构成的经验过程。
@@ -152,7 +152,7 @@ updated: 2026-11-11
 ---
 
 > [!dev-timeline] 概念演变
-> - **1970s–1980s — 实验室研究与[[Actor-Network Theory|行动者网络理论]]奠基** 科学社会学爆发经验转向，[[Bruno Latour|布鲁诺·拉图尔]]（Bruno Latour）与史蒂夫·伍尔加（Steve Woolgar）通过实验室[[Ethnography|民族志]]揭示事实的建构过程；米歇尔·卡隆（Michel Callon）与拉图尔创立行动者网络理论（ANT），将非人行动元赋予[[Ontology|本体论]]能动性。
+> - **1970s–1980s — 实验室研究与[[Actor-Network Theory|行动者网络理论]]创立** 科学社会学爆发经验转向，[[Bruno Latour|布鲁诺·拉图尔]]（Bruno Latour）与史蒂夫·伍尔加（Steve Woolgar）通过实验室[[Ethnography|民族志]]揭示事实的建构过程；米歇尔·卡隆（Michel Callon）与拉图尔创立行动者网络理论（ANT），将非人行动元赋予[[Ontology|本体论]]能动性。
 > - **1990s — 基础设施与分类政治研究拓展** 杰弗里·鲍克（Geoffrey Bowker）与苏珊·利·斯塔（Susan Leigh Star）出版《分类与后果》（Sorting Things Out, 1999），确立了分类表单、标准编码与寄存库作为社会技术基础设施的分析传统。
 > - **2004 — 共同生产框架提出** 希拉·贾萨诺夫（Sheila Jasanoff）提出共同生产（[[Knowledge Co-production|Co-production]]）概念，阐明自然知识的生产与社会秩序的建构具有内在对称与相互构成的属性。
 > - **2014 — 国际教育统计指标的 STS 解构** 拉迪卡·戈鲁尔（[[Argument_Gorur_2014_Discourse|Gorur, 2014]]）将 STS [[Analytic Framework|分析框架]]引入 OECD 跨国[[Performance Indicators|教育指标]]研究，揭示《教育概览》等指标在跨国博弈中如何借助程序妥协生产机械客观性。
@@ -161,9 +161,7 @@ updated: 2026-11-11
 
 ---
 
-## 争议与批评
-
-> [!debates] 学术争议
+> [!debates|notitle] 学术争议
 >
 > > [!axis] 客观实在镜像反映 vs 社会技术互构共同生产
 > > 争论科学知识与技术工具究竟是外部客观物质规律的独立测量镜像，还是由行动者网络、政治妥协与制度需求深度交织而成的共同生产物。
@@ -177,12 +175,12 @@ updated: 2026-11-11
 > > - **技术理性视角** 视标准化计算为提高政策决策科学化与跨国可比性的必要手段。
 > > - **机械客观性批判视角** 揭示严密的指标程序实质上是弱势专家用来抵御政治干预、掩盖底层妥协的技术防护罩。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 12)]]
 
-> [!warning] 适用局限
+> [!warning|limits] 适用局限
 > 科学技术研究高度依赖微观行动者跟踪与物质材料审视（指标计算规程、特许合同条款、数据库界面代码等），在缺乏细部技术文本或纯观念思辨研究中[[Operationalization|操作化]]难度较高；同时，将人与非人行动者赋予完全对称能动性的分析取向，若脱离具体制度脉络，可能弱化对宏观阶级结构与不对称国家权力的政治经济学批判力度。
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Gorur_2014_Discourse|Gorur (2014)]] — 运用 STS 视角解构 [[OECD]]《[[Education at a Glance|教育概览]]》指标生产过程，阐明跨国排序操作与机械客观性建构机制。
 > - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] — 结合丹麦学校实践追踪《[[Visible Learning|可见的学习]]》特许推广网络，揭示逐字脚本、商事合同与数据收集应用的技术规训施行性。
 > - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 基于 STS 与治理社会学框架，系统论证欧洲高等教育质量保障准则、注册名录与互联数据库构建[[Epistemic Infrastructure|认识论基础设施]]的微观机制。
