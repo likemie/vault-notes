@@ -103,7 +103,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-22
-updated: 2026-11-25
+updated: 2026-11-26
 ---
 
 ---
@@ -132,7 +132,7 @@ updated: 2026-11-25
 
 > [!method-stack] 方法层级
 > - **研究设计** [[Mixed Methods Research|混合方法]]社会网络分析（Mixed-Methods SNA）、全网络纵向追踪、多层自我中心网络设计。
-> - **数据收集** 关系名录调查[[Questionnaire|问卷]]、数字化协作平台（如[[Theory of Knowledge|知识论]]坛 KF）交互发帖与引用日志提取、文献题录数据库共同署名抽取、[[In-depth Interview|深度访谈]]与[[Accounts|陈述法]]。
+> - **数据收集** 关系名录调查[[Questionnaire|问卷]]、职业社交平台数据（如 LinkedIn 职业与关系网络）、数字化协作平台（如[[Theory of Knowledge|知识论]]坛 KF）交互发帖与引用日志提取、文献题录数据库共同署名抽取、[[In-depth Interview|深度访谈]]与[[Accounts|陈述法]]。
 > - **分析方法** [[Sociometry|社会计量学]]测度、中心度与中介度计算、网络密度分析、QAP 关系假设检验、块模型（Blockmodeling）、派系社区发现算法。
 > - **辅助技术** 质性协作[[Discourse Analysis|话语分析]]与 SNA 结合（如 Gephi、UCINET、NetDraw、Pajek，以及 R 扩展包 `igraph`、`tidygraph`、`sna`、Python `networkx`）。
 
@@ -212,6 +212,7 @@ updated: 2026-11-25
 >   - 解析跨区域、[[Transnational Education|跨国教育]][[Policy Brokerage|政策中介]]机构（如 [[EU Evidence-Informed Education Policy Initiatives|EIPPEE]]）之间的合作与资源共享拓扑；
 >   - 识别教育改革推进中的关键[[Boundary Spanner|知识经纪人]]（Boundary Spanners）与孤立学校；
 >   - 绘制教育政策社会学中的公私跨界[[Policy Network|政策网络]]，解构政客、对冲基金、商业智库与[[Policy Entrepreneur|政策企业家]]构成的连锁董事治理拓扑与全球商标特许网络。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 65–75)]]
+>   - 结合调查与 LinkedIn 数据绘制高校[[Professional Support Staff|专业支持人员]]连接校领导、学者与外部机构的结构洞关系网，并与日常互动观察及连续政策草案修订分析结合以追踪制度逻辑扩散。[[Argument_DeJong_2024_SHE|(de Jong & del Junco, 2024, pp. 1056–1057)]]
 > - **谨慎使用** 参与者流动频繁的临时项目网络；网络边界模糊且难以界定纳入排除标准的社会群体。
 > - **不适合使用** 纯粹关注个体心理认知属性而脱离人际互动的实验心理学研究；样本规模极小（小于 5 人）难以形成拓扑结构的情境。
 
@@ -219,9 +220,9 @@ updated: 2026-11-25
 
 > [!method-limits] 方法局限与反思
 > - **边界界定偏差（Boundary Specification Problem）** 人为划定网络边界极易切断跨界连接，导致边缘节点被误判为结构性孤立。
-> - **静态截面与[[Causality|因果推断]]陷阱** 传统横截面网络图往往忽略动态演化；将中心度高直接等同于因果影响力可能产生内生性偏差。
+> - **静态截面、高阶关联与交换内容黑箱** 传统横截面网络图往往忽略动态演化；将中心度高直接等同于因果影响力可能产生内生性偏差；此外，仅绘出一级关系位置往往难以查清二阶及高阶间接联结结构，也无法直接揭示行动者利用经纪位置实际交换了何种内容与[[Institutional Logics|制度逻辑]]（[[Argument_DeJong_2024_SHE|de Jong & del Junco, 2024, p. 1056]]）。
 > - **自报告关系的数据敏感性** 询问你最信任谁/向谁求助容易引发社会赞许偏差或防范心理，导致关键隐性网络漏报。
-> - **补救方式** 结合平台客观交互日志与文献题录提取真实交互与合署网络，引入纵向多期网络模型与深度[[Qualitative Interview|质性访谈]]进行[[Triangulation|三角互证]]；在[[Policy Network|政策网络]]研究中结合公司工商与信托公开注册档案穿透兼任关系。
+> - **补救方式** 结合平台客观交互日志与文献题录提取真实交互与合署网络，引入纵向多期网络模型、日常工作互动观察、政策连续修订稿及深度[[Qualitative Interview|质性访谈]]进行[[Triangulation|三角互证]]；在[[Policy Network|政策网络]]研究中结合公司工商与信托公开注册档案穿透兼任关系。
 
 ---
 
@@ -237,10 +238,11 @@ updated: 2026-11-25
 > | [[Policy Entrepreneur]] | 概念 | 网络分析用于识别跨界流动的关键政策企业家节点及其在政商学界的多重兼任连线。 |
 > | [[Exogenous Privatisation]] | 概念 | 网络分析通过连锁董事与服务外包合同拓扑，揭示教育外生私有化的深层网络结构。 |
 > | [[Reflective Structuration]] | 概念 | 网络分析用于检验反思性结构化与弹性分组是否促进了高密度的跨组交互与去中心化拓扑。 |
-> | [[Sociometry]] | 前置方法 | 莫雷诺（Moreno, 1934）社会计量学是社会网络分析的奠基之源，确立了点线图基石。 |
+> | [[Sociometry]] | 前置方法 | 莫雷诺（Moreno, 1934）社会计量学是社会网络分析的直接源头，确立了点线图表示方式。 |
 > | [[Interactional Ethnography]] | 补充质性方法 | 互动[[Ethnography\|民族志]]为 SNA 网络拓扑提供微观话语互动[[Transcription in Qualitative Research\|转录]]与情境意义的质性[[Rich and Thick Description\|深描]]。 |
 > | [[Complexity Theory]] | 理论基础 | 网络[[Emergence\|涌现]]属性与复杂自适应系统论为网络分析提供了[[Ontology\|本体论]]支撑。 |
 > | [[Educational Brokerage Agency]] | 研究应用对象 | 网络分析用于解析多国教育中介机构之间的横向协作与知识流转。 |
+> | [[Institutional Work]] | 补充理论 | 与混合方法社会网络分析结合，通过连续政策文本修订与现场互动观察揭示结构洞节点内部交换的规则与逻辑。[[Argument_DeJong_2024_SHE\|(de Jong & del Junco, 2024, pp. 1056–1057)]] |
 
 ---
 
@@ -253,3 +255,4 @@ updated: 2026-11-25
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 运用跨界[[Policy Network|政策网络]]与连锁董事分析，绘制新西兰公立[[Educational Privatisation|教育私有化]]中的学术特许网络与政商学同盟拓扑。
 > - [[Argument_Custer_2021_AidData|Custer et al. (2021)]] — 抓取南亚与中亚 12 国 1,864 名政商学界精英与 115 个中国官方媒体及外交官的 Twitter 互动网络，运用 Louvain 社区发现算法、度中心度与中介中心度分析跨国社交信息扩散，揭示官方媒体作为前沿推送方与外交官作为守门人的结构特征。
 > - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 综合运用超图知识网络与跨学科合著网络分析，揭示生物医药实体关联局限于近邻节点的拓扑[[Path Dependence|路径依赖]]，并通过网络随机游走演化模型精准复现新兴学科合作巨连通分支相变与生产力分布。（pp. 2–3）
+> - [[Argument_DeJong_2024_SHE|de Jong and del Junco (2024)]] — 提出结合调查与 LinkedIn 数据测绘高校专业支持人员跨界[[Structural Holes|结构洞]]及高阶关联网络，并联合日常互动观察与连续政策草案追踪制度逻辑扩散（pp. 1056–1057）。

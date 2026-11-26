@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-11-20
+updated: 2026-11-26
 ---
 
 ---
@@ -168,3 +168,4 @@ updated: 2026-11-20
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 系统阐明质性编码手册的六大结构要素，指出其在团队研究中保障质性信度与演化迭代的核心功能（p. 211）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al. (2011, Ch. 30)]] — 结合内容分析操作规程阐明显性编码规则对规避编码员变异的关键意义，并拓展了编码手册在 LLM 演绎规程赋码中的前沿应用。
+> - [[Argument_DeJong_2026_SHE|de Jong (2026)]] — 在开放编码基础上编制融合[[Cycle of Credit|信用循环]]构念与涌现影响类型的编码手册，归纳发生、内容、转化率与速度四类资源管理作用并容许跨子主题多重编码（pp. 1244–1245）。

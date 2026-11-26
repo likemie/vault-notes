@@ -54,7 +54,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-06-01'
-updated: 2026-11-14
+updated: 2026-11-26
 ---
 
 ---
@@ -114,7 +114,7 @@ updated: 2026-11-14
 ---
 
 > [!method-fit] 适用判断
-> - **适合使用** 需要在自然情境中直接了解参与者的实际行为和互动模式，而非仅依赖自我报告时；适合探索不愿口头表达的话题；配合访谈数据开展[[Triangulation\|三角验证]]。
+> - **适合使用** 需要在自然情境中直接了解参与者的实际行为和互动模式，而非仅依赖自我报告时；适合探索不愿口头表达的话题；配合访谈数据开展[[Triangulation\|三角验证]]；在高等教育组织治理中观察科研支持与行政部门的日常工作互动，以捕捉受访者在单一访谈中难以言明的[[Institutional Work|制度工作]]与资源转化介入（[[Argument_DeJong_2024_SHE|de Jong & del Junco, 2024, pp. 1057–1058]]）。
 > - **谨慎使用** 研究者可能被视为侵入者（[[Hawthorne Effect\|霍桑效应]]）；可能观察到无法公开的私人信息；或受试者难以建立信任的场景（如儿童）。
 > - **不适合使用** 旨在识别明确[[Variable\|变量]]间的因果[[Effect Size\|效应量]]，或在大样本总体中推广统计结论时。
 
@@ -143,3 +143,4 @@ updated: 2026-11-14
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]] — 介绍了米勒（Miller）于 1992 年在关于四年制学院新校长第一年经历的[[Ethnography\|民族志研究]]中，对校长行政内阁会议和日常活动进行系统现场观察的案例。
 > - [[Argument_Wrigley_2018_BERJ\|Wrigley, 2018]] — 指出在教育开放系统与复杂背景下探索因果[[Emergence\|涌现]]，必须引入质性观察以配合多元改进和方法论实在论。
+> - [[Argument_DeJong_2024_SHE|de Jong and del Junco (2024)]] — 针对高校专业支持人员研究偏重访谈自述的局限，提出在支持部门开展工作场景互动观察，以追踪日常制度工作与[[Cycle of Credit|信用循环]]介入（pp. 1057–1058）。

@@ -85,23 +85,21 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-14
-updated: 2026-11-25
----
-
+updated: 2026-11-26
 ---
 
 > [!def] Professional Learning Community
 > **专业学习共同体（Professional Learning Community, PLC）** 指学校内部教育者（涵盖专任教师、[[School Leadership\|学校领导]]者与教学辅助人员）以持续改善所有学生的学业发展与身心福祉为共享愿景，基于互信文化与合作探究机制，对日常教学实践与学术科研证据展开系统审思、批判研读与集体实践的制度化协同组织形态（DuFour, 2004; Stoll et al., 2006; Vescio et al., 2008）。在[[Evidence-Informed Practice\|证据知情实践]]与高质量研究[[Research Utilization\|证据使用]]（[[Quality Use of Research Evidence Framework\|QURE]]）视域下，PLC 不仅是教师同侪互助的社会网络，更是使一线教育从业者免受科层行政事务碎片化挤压、为深思熟虑研读转化外部[[Appropriate Research|适切证据]]提供专有时空保障的实践庇护所，以及承载证据“共同审议”（shared deliberation）与多层使能构件发生交汇的微观组织中枢。[[Argument_Rickinson_2022_EducRes\|(Rickinson, Cirkony, et al., 2022, pp. 141–144)]]; [[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson, Walsh, et al., 2022, pp. 188, 191–192)]]; [[Argument_Hattie_2005_ACER\|(Hattie, 2005, pp. 18–19)]]
 
-> [!concept-lens] 概念透镜
-> - **核心指向** 学校内部跨越年级与学科界限、去私有化的教师集体学习与教学反思协同机制。
-> - **理论用途** 解释外部教育研究证据如何通过微观同侪研讨打破抽象隔阂，转化为因地制宜的课堂行动，破除孤军奋战与教学隔绝导致的职业倦怠。
-> - **适用边界** 强调反思探究与学生学习成效的实质改善；严禁等同于自上而下单向布置任务的行政教职工大会或流于形式的表面合群。
+> [!concept-lens|notitle] 概念透镜
+> - **含义** 学校内部跨越年级与学科界限、去私有化的教师集体学习与教学反思协同机制。
+> - **用途** 解释外部教育研究证据如何通过微观同侪研讨打破抽象隔阂，转化为因地制宜的课堂行动，破除孤军奋战与教学隔绝导致的职业倦怠。
+> - **边界** 强调反思探究与学生学习成效的实质改善；不能等同于自上而下单向布置任务的行政教职工大会或流于形式的表面合群。
 
 > [!citation-card] Rickinson et al. 论 PLC 专有时间对[[Research Utilization\|研究使用]]的庇护功能
 > 我们拥有围坐在一起探讨问题、解释要义并研读研究要点的专门时间……这让大家有机会在不确定时主动发问……有别于在全校教职工大会上被仓促挤兑过去。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson, Walsh, et al., 2022, p. 188)]]
 >
-> *Having designated time to [[Schulen im Team|SiT]] together, unpick things, talk about what the research meant ... gave people the opportunity to question if they were unsure ... rather than having it rushed through in a staff meeting.*
+> *Having designated time to sit together, unpick things, talk about what the research meant ... gave people the opportunity to question if they were unsure ... rather than having it rushed through in a staff meeting.*
 
 > [!citation-card] Rickinson et al. 论审慎参与的集体审议与社会化学习实质
 > 审慎参与和实施体现了教育从业者对研究证据的批判性研读、对其内涵与教育意义的共同审议（shared deliberation），以及将证据要素有效整合进日常教学的过程。这种使用是在团队与共同体中依托互信人际关系展开的去私密化社会学习实践，有别于孤立个体的技术性消费。[[Argument_Rickinson_2022_EducRes\|(Rickinson, Cirkony, et al., 2022, pp. 141–143)]]
@@ -115,7 +113,7 @@ updated: 2026-11-25
 
 ---
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 专业学习共同体（PLC） | 传统行政备课教研组 | 全校教职工行政例会（Staff Meeting） |
 > |---|---|---|---|
 > | **核心使命** | 持续提升所有学生的实质学习成效与福祉 | 统一教学进度、统筹备课与编制考试练习 | 传达上级政策文件、安排学校日常行政杂务 |
@@ -125,10 +123,6 @@ updated: 2026-11-25
 > | **排程性质** | 学校制度化划拨且免受杂务侵扰的专有工时 | 碎片化嵌入课后空隙或由教师自发牺牲休息 | 刚性行政作息排程，常挤压专业研讨空间 |
 
 ---
-
-## 核心要素
-
-成熟的专业学习共同体由共享愿景、去私有化反思、循证探究、制度化排程与心理安全五大支柱构成，并在组织机制上依赖全员包容性与信任网络的协同支撑。
 
 > [!feature] 专业学习共同体的五大核心支柱（[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson, Walsh, et al., 2022]]）
 > - **共享价值与清晰愿景（Shared Values and Vision）** 凝聚以促进所有学生实质成长与福祉为核心的价值共识，确立明确透明的教研方向。
@@ -262,20 +256,6 @@ updated: 2026-11-25
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Rickinson_2022_EducRes\|Rickinson, Cirkony, et al. (2022)]] — 阐发[[Quality Use of Research Evidence Framework\|高质量研究证据使用框架]]（[[Quality Use of Research Evidence Framework\|QURE]]），将 PLC 确立为“审慎参与与实施”的共同审议载体，以及个体使能与组织使能交汇碰撞的微观组织中枢（pp. 141–144）。
-> - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson, Walsh, et al. (2022)]] — 结合澳大利亚特殊学校等案例与[[Questionnaire\|问卷调查]]，实证揭示制度化排程的 PLC 在庇护教师研究研读、打破行政挤压及促进常规循证中的决定性功能。
-> - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 探讨组织内生学习结构与实践者能力建设，指出协同探究团队在弥合政策与实践鸿沟中的核心作用。
-> - [[Argument_Hattie_2005_ACER\|Hattie (2005)]] — 结合廷珀利（Timperley）的研究论证教师专业发展必须以学生实际学业增进为成功前提，提出去私密化教学、[[Reflexivity\|反思性]]对话与共同期望等五大 PLC 建设支柱（pp. 18–19）。
-> - [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] — 把 PLC 定位为[[Evidence-Informed Practice\|证据知情实践]]关键学习环境支柱，基于 79 所小学调查揭示全员包容性参与的紧迫性，论证缺乏正式探究协议与论坛易导致 PLC 退化为孤立任务小组与[[Activity Traps\|活动陷阱]]。
-> - [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] — 通过对大型城市学区 [[Title I of the Elementary and Secondary Education Act\|Title I]] 支出流水的穿透审计与构件拆解，实证证实 PLC 在四大证据库中具有独立于一般教师培训的积极实证证据，构成了复合专业发展项目获得循证合规支持的核心基石（pp. 171, 173）。
-> - [[Argument_Besa_2024_UW\|Besa (2024)]] — 探讨 PLC 在社交媒体时代向跨区域虚拟教研室（[[Virtual Teacher Staffroom\|Twitter-Lehrerzimmer]]）的网络化延伸，分析草根同侪互助与学术科研双向对话缺位的实践张力。
-> - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] — 框架综合 109 项实证研究，量化确立专业学习共同体（PLC）作为学校支持研究使用组织结构与时间保障的核心制度化载体（p. 14）。
-> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 结合威尔士教育改革案例，指出专业学习社群（PLC）通过同行反思、合作研讨与相互问责，促进教师默会知识共享并驱动课堂教学改进（p. 5）。
-> - [[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]] — 援引[[Michael Fullan|富兰]]（Fullan, 2010）说明专家同行教练与集体听课如何在校长及学科组长协调下建成专业学习共同体（pp. 75–76）。
-
----
-
 > [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关系 |
@@ -283,12 +263,29 @@ updated: 2026-11-25
 > | [[Activity Traps]] | 概念 | 专业学习共同体在缺乏正式探究协议与成因分析时的典型退化形态。 |
 > | [[Research-Informed Teaching Practice]] | 概念 | PLC 是承载与转化 RITP 的校内微观组织支柱。 |
 > | [[Research Utilization]] | 概念 | PLC 为学校层面的研究证据利用提供实践庇护所与制度保障。 |
-> | [[Quality Use of Research Evidence Framework]] | 理论 | QURE 框架将 PLC 确立为承载“审慎参与”共同审议与凝聚个体/组织使能构件的核心微观载体。 |
 > | [[Knowledge Mobilisation]] | 概念 | PLC 是校内知识动员与多方协作共创的微观组织枢纽。 |
+> | [[Cooperative Learning]] | 概念 | 长期实施合作学习伴随教师角色转换与团队协作，直接推动学校建成民主 PLC。 |
+> | [[Teacher Collaboration]] | 概念 | 教研组内常态化协作构成了学校专业学习共同体建构的中观组织基础。 |
 > | [[Virtual Teacher Staffroom]] | 概念 | PLC 在社交媒体与数字网络时代的去中心化、跨校际网络化延伸形态。 |
 > | [[Educational Science Communication]] | 概念 | 共同体为开展双向递归式教育科学传播提供了微观组织与在线社群[[Champ\|场域]]。 |
-> | [[Research Learning Communities]] | 事实 (项目) | 依托跨校 PLC 集群网络规模化推进教师循证探究的旗舰干预模型。 |
-> | [[Mark Rickinson]] | 人物 | 莫[[Roy Nash\|纳什]]大学教授，Q 项目领衔专家，论证 PLC 作为研究使用实践庇护所与审议载体。 |
+> | [[Quality Use of Research Evidence Framework]] | 理论 | QURE 框架将 PLC 确立为承载“审慎参与”共同审议与凝聚个体/组织使能构件的核心微观载体。 |
+> | [[Mark Rickinson]] | 人物 | 莫纳什大学教授，Q 项目领衔专家，论证 PLC 作为研究使用实践庇护所与审议载体。 |
 > | [[Chris Brown]] | 人物 | 研发 RLC 模型并实证诊断英格兰小学 PLC 运作短板的主持学者。 |
+> | [[Research Learning Communities]] | 事实 | 依托跨校 PLC 集群网络规模化推进教师循证探究的旗舰干预模型。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Rickinson_2022_EducRes\|Rickinson, Cirkony, et al. (2022)]] — 阐发[[Quality Use of Research Evidence Framework\|QURE]] 框架，将 PLC 确立为“审慎参与与实施”共同审议载体与个体/组织使能交汇中枢（pp. 141–144）。
+> - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson, Walsh, et al. (2022)]] — 结合澳大利亚问卷与案例，实证揭示制度化排程 PLC 在庇护研究研读与促进常规循证中的功能（pp. 187–193）。
+> - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 探讨组织内生学习结构与实践者能力建设，指出协同探究团队在弥合政策与实践鸿沟中的核心作用。
+> - [[Argument_Hattie_2005_ACER\|Hattie (2005)]] — 结合廷珀利研究论证专业发展须以学生学业增进为前提，提出去私密化教学与反思性对话等 PLC 五大支柱（pp. 16–19）。
+> - [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] — 基于 79 所小学调查揭示全员包容性参与的紧迫性，论证缺乏正式探究协议易导致 PLC 退化为任务小组与[[Activity Traps\|活动陷阱]]。
+> - [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] — 审计城市学区 [[Title I of the Elementary and Secondary Education Act\|Title I]] 支出，证实 PLC 在四大证据库中获积极实证评级（pp. 171, 173）。
+> - [[Argument_Besa_2024_UW\|Besa (2024)]] — 探讨 PLC 在社交媒体时代向跨区域虚拟教研室（[[Virtual Teacher Staffroom\|Twitter-Lehrerzimmer]]）的延伸及科研双向对话张力。
+> - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] — 框架综合 109 项研究，量化确立 PLC 作为学校研究使用组织结构与时间保障的核心常规载体（p. 14）。
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 结合威尔士改革案例，指出 PLC 通过同行反思与相互问责促进教师默会知识共享并改进课堂教学（p. 5）。
+> - [[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]] — 援引[[Michael Fullan|富兰]]（Fullan, 2010）说明专家同行教练与集体听课如何在校内协调建构专业学习共同体（pp. 75–76）。
+> - [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014)]] — 论证持续性合作学习依托教师角色转型与团队结构发育，为学校建构民主专业学习共同体提供动力（p. 81）。
 
 

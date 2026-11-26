@@ -72,7 +72,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-07-22
-updated: 2026-11-19
+updated: 2026-11-26
 ---
 
 ---
@@ -96,7 +96,7 @@ updated: 2026-11-19
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 采取解释学与[[Constructivist Paradigm|建构主义]]立场，认识到转录涉及语境抽离、非言语信息过滤与复杂性精简的理论化过程。语言与意义的关系依附于具体语境，转录本始终是研究者基于特定[[Research Question|研究问题]]进行意义建构的中介产物。
 > - **研究者角色** 研究者是转录文本的阐释者与认识论守护人；自动化工具的普及虽能降低手工输入负荷，但无法免除研究者对转录文本的语义失真、口音识别偏误与算法平滑承担最终的[[Epistemic Responsibility|认识论责任]]。
-> - **有效性标准** 遵循质性研究的可[[Reliability|信度]]与保真度标准；通过多模态视听回溯、人工逐行校对、双人独立复核与规则一致性审计，保障转录文本的真实性与[[Interpretive Validity|解释效度]]。
+> - **有效性标准** 遵循质性研究的可信度与保真度标准；通过多模态视听回溯、人工逐行校对、双人独立复核与规则一致性审计，保障转录文本的真实性与[[Interpretive Validity|解释效度]]。
 > - **不声称回答的问题** 转录本身是数据准备技术，不直接产出终极因果结论或理论模型；不能将静态的书面转录本简单等同于原始生动的现场社会遭遇全貌。
 
 > [!method-stack] 方法层级
@@ -168,3 +168,4 @@ updated: 2026-11-19
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al. (2011, Ch. 21 & Ch. 28)]] — 详述[[Qualitative Interview|质性访谈]]转录作为理论性选择转换的[[Epistemology|认识论]]本质（第 21 章），以及质性数据准备中的转录规范与管理操作规程（第 28 章）。
 > - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 对 9 位[[EU|欧盟]]高级决策官员的深度英文[[Semi-structured Interview|半结构化访谈]]进行完整录音并实施逐字转录与匿名编码，为后续的主题分析与话语权力解构奠定高保真文本基础。
 > - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 对丹麦、芬兰与挪威 15 位参与学校改革起草的核心官员与专家的半结构化访谈（每场 60–90 分钟）进行完整录音与逐字转录，赋予国家代号与匿名序号，为后续话语分类与制度分析奠定规范文本底库（p. 535）。
+> - [[Argument_DeJong_2026_SHE|de Jong (2026)]] — 采用 Microsoft Teams 与 Amberscript 对 22 场大学专业支持人员访谈进行自动逐字转录，并在 2 场自动转录质量不足时改回人工转录以保障语料准确（p. 1243）。

@@ -210,4 +210,4 @@ updated: 2026-11-26
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, Ch. 9)]] — 阐明计算机软件辅助[[Winnowing\|数据筛选]]与 5–7 个主题聚合的实操流程，强调软件不替代研究者分析责任，并梳理现代主流软件包。
 > - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 在 NVivo 11 中结合[[Open Coding\|开放编码]]与基于[[Third Generation Activity Theory\|第三代活动理论]]（3GAT）六构件的[[Template Analysis\|模板分析]]，对 25 份[[Semi-structured Interview\|半结构化访谈]]展开扎根编码与矛盾解析。
 > - [[Argument_DeJong_2024_SHE\|de Jong and del Junco (2024)]] — 依托 NVivo 12.6.1 软件参照 Gioia 归纳方法对 54 篇高校专业支持人员实证文献进行三层数据结构编码。
-> - [[Argument_DeJong_2026_SHE\|de Jong (2026)]] — 将 22 份专业支持人员访谈逐字转录稿导入 NVivo 12 软件开展开放编码与主题归类，归纳出 164 段资源管理相关引文（pp. 1245–1246）。
+> - [[Argument_DeJong_2026_SHE\|de Jong (2026)]] — 将 22 份专业支持人员访谈逐字转录稿导入 NVivo 12 软件开展开放编码与主题归类，归纳出 164 段资源管理相关引文（pp. 1244–1245）。
