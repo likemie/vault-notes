@@ -40,6 +40,7 @@ function parseArgs(argv: string[]) {
     reset: false,
     limit: Infinity,
     concurrency: 3,
+    match: '',
     storeName: process.env.FILE_SEARCH_STORE_NAME || '',
     displayName: 'mynotes-academic-wiki',
   };
@@ -50,6 +51,7 @@ function parseArgs(argv: string[]) {
     else if (token === '--reset') args.reset = true;
     else if (token === '--limit' && argv[i + 1]) args.limit = Number(argv[++i]);
     else if (token === '--concurrency' && argv[i + 1]) args.concurrency = Math.max(1, Number(argv[++i]));
+    else if (token === '--match' && argv[i + 1]) args.match = argv[++i];
     else if (token === '--store-name' && argv[i + 1]) args.storeName = argv[++i];
     else if (token === '--display-name' && argv[i + 1]) args.displayName = argv[++i];
   }
@@ -172,7 +174,10 @@ async function main() {
     saveState(state);
   }
 
-  const batch = toUpload.slice(0, opts.limit);
+  const filtered = opts.match
+    ? toUpload.filter((item) => item.relPath.toLowerCase().includes(opts.match.toLowerCase()))
+    : toUpload;
+  const batch = filtered.slice(0, opts.limit);
   let completed = 0;
   let cursor = 0;
 
@@ -198,11 +203,14 @@ async function main() {
         { key: 'title', stringValue: meta?.title ?? path.basename(item.relPath, '.md') },
       ];
 
+      const fileBytes = fs.readFileSync(item.fullPath);
+      const fileBlob = new Blob([fileBytes], { type: 'text/markdown' });
+
       let op = await withRetry(
         () =>
           ai.fileSearchStores.uploadToFileSearchStore({
             fileSearchStoreName: state.storeName,
-            file: item.fullPath,
+            file: fileBlob,
             config: {
               mimeType: 'text/markdown',
               displayName: meta?.title ?? item.relPath,
@@ -232,7 +240,7 @@ async function main() {
         updatedAt: new Date().toISOString(),
       };
       completed++;
-      if (completed % 25 === 0 || completed === batch.length) {
+      if (completed % 10 === 0 || completed === batch.length) {
         saveState(state);
         console.log(`[sync] Progress: ${completed}/${batch.length}`);
       }
