@@ -114,6 +114,14 @@ export default function App() {
     null,
   );
   const messagesEndRef = useRef<HTMLDivElement | null>(null);
+  const textareaRef = useRef<HTMLTextAreaElement | null>(null);
+
+  useEffect(() => {
+    const el = textareaRef.current;
+    if (!el) return;
+    el.style.height = 'auto';
+    el.style.height = `${Math.min(Math.max(el.scrollHeight, 84), 260)}px`;
+  }, [input]);
 
   function authHeaders(): Record<string, string> {
     return password ? { 'x-access-password': password } : {};
@@ -661,8 +669,9 @@ export default function App() {
 
           <div className="composer">
             <textarea
-              rows={2}
-              placeholder="输入研究问题（支持中英文术语，Enter 发送，Shift+Enter 换行）…"
+              ref={textareaRef}
+              rows={3}
+              placeholder="输入研究问题（支持中英文术语，可贴入多段文本或研究提纲；Enter 发送，Shift+Enter 换行）…"
               value={input}
               onChange={(e) => setInput(e.target.value)}
               onKeyDown={(e) => {

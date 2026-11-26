@@ -414,7 +414,7 @@ textarea:focus {
 }
 
 .msg {
-  max-width: 880px;
+  max-width: 960px;
   width: 100%;
   margin: 0 auto;
   background: var(--panel);
@@ -498,7 +498,97 @@ textarea:focus {
 .md-h4 { font-size: 14px; margin: 10px 0 4px; font-weight: 700; }
 .md-p { margin: 8px 0; white-space: pre-wrap; }
 .md-list { margin: 8px 0; padding-left: 22px; }
-.md-list li { margin: 4px 0; }
+.md-list li { margin: 5px 0; }
+.md-sublist { margin: 4px 0 4px; padding-left: 18px; }
+.md-table-wrap {
+  margin: 12px 0;
+  overflow-x: auto;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: #fff;
+}
+.md-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+  line-height: 1.55;
+}
+.md-table th,
+.md-table td {
+  padding: 8px 12px;
+  border-bottom: 1px solid var(--border);
+  border-right: 1px solid #f0ede4;
+  vertical-align: top;
+}
+.md-table th:last-child,
+.md-table td:last-child {
+  border-right: none;
+}
+.md-table tr:last-child td {
+  border-bottom: none;
+}
+.md-table thead th {
+  background: var(--panel-subtle);
+  font-weight: 700;
+  color: var(--text);
+}
+.md-table tbody tr:nth-child(even) {
+  background: #fcfbf9;
+}
+.mermaid-card {
+  margin: 12px 0;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: #fff;
+  overflow: hidden;
+}
+.mermaid-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 6px 12px;
+  background: var(--panel-subtle);
+  border-bottom: 1px solid var(--border);
+}
+.mermaid-label {
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--muted);
+}
+.mermaid-toggle-btn {
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 2px 8px;
+  font-size: 11px;
+  color: var(--muted);
+  cursor: pointer;
+}
+.mermaid-toggle-btn:hover {
+  color: var(--text);
+  border-color: var(--border-strong);
+}
+.mermaid-svg {
+  padding: 14px;
+  overflow-x: auto;
+  display: flex;
+  justify-content: center;
+}
+.mermaid-svg svg {
+  max-width: 100%;
+  height: auto;
+}
+.mermaid-loading {
+  padding: 16px;
+  font-size: 12px;
+  color: var(--muted);
+}
+.mermaid-err {
+  padding: 8px 12px;
+  font-size: 12px;
+  color: var(--err-text);
+  background: var(--err-bg);
+}
 .md-quote {
   margin: 10px 0;
   padding: 8px 14px;
@@ -702,7 +792,7 @@ textarea:focus {
 }
 
 .composer-toolbar {
-  max-width: 880px;
+  max-width: 960px;
   margin: 0 auto 8px;
   display: flex;
   align-items: center;
@@ -762,7 +852,7 @@ textarea:focus {
 }
 
 .composer {
-  max-width: 880px;
+  max-width: 960px;
   margin: 0 auto;
   display: flex;
   gap: 10px;
@@ -771,9 +861,13 @@ textarea:focus {
 
 .composer textarea {
   flex: 1;
-  resize: none;
-  padding: 10px 12px;
+  min-height: 84px;
+  max-height: 260px;
+  resize: vertical;
+  padding: 12px 14px;
   border-radius: 10px;
+  font-size: 14px;
+  line-height: 1.6;
 }
 
 .composer button,
