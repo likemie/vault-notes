@@ -1,0 +1,110 @@
+name: Sync Knowledge Base to AI QA App
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'wiki/**'
+      - 'qa-app/**'
+      - '.github/workflows/sync-qa-app.yml'
+  workflow_dispatch:
+    inputs:
+      base_sha:
+        description: 'Optional base commit SHA for wiki diff (defaults to HEAD~1)'
+        required: false
+        default: ''
+
+permissions:
+  contents: read
+
+concurrency:
+  group: sync-qa-app
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-22.04
+    env:
+      BASE_SHA: ${{ github.event_name == 'push' && github.event.before || inputs.base_sha }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          filter: blob:none
+          sparse-checkout: |
+            wiki
+            qa-app
+          sparse-checkout-cone-mode: true
+
+      - name: Determine comparison base
+        id: base
+        run: |
+          BASE="${BASE_SHA}"
+          if [ -z "${BASE//0/}" ]; then
+            git fetch --quiet --depth=2 origin main || true
+            BASE=$(git rev-parse HEAD~1 2>/dev/null || echo "")
+          else
+            git fetch --quiet --no-tags --depth=1 --filter=blob:none origin "$BASE" || true
+          fi
+          echo "sha=${BASE}" >> "$GITHUB_OUTPUT"
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+          cache-dependency-path: qa-app/package-lock.json
+
+      - name: Install qa-app dependencies
+        working-directory: qa-app
+        run: npm ci
+
+      - name: Refresh index and sync changed wiki entries to Gemini File Search
+        working-directory: qa-app
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          if [ -z "${GEMINI_API_KEY}" ]; then
+            echo "::warning::GEMINI_API_KEY secret is not set; skipping File Search upload and refreshing bundled wiki-index.json only."
+            cp ../wiki/index.json data/wiki-index.json
+          elif [ -n "${{ steps.base.outputs.sha }}" ]; then
+            node --experimental-strip-types scripts/sync-vault.ts --git-diff "${{ steps.base.outputs.sha }}" "${{ github.sha }}" --concurrency 6
+          else
+            echo "::warning::No comparison base SHA available; refreshing bundled wiki-index.json only."
+            cp ../wiki/index.json data/wiki-index.json
+          fi
+
+      - name: Sync qa-app repository (likemie/mynotes-qa-app)
+        env:
+          PUSH_TOKEN: ${{ secrets.QA_APP_PUSH_TOKEN }}
+        run: |
+          if [ -z "${PUSH_TOKEN}" ]; then
+            echo "::warning::QA_APP_PUSH_TOKEN secret is not set; skipping push to likemie/mynotes-qa-app."
+            exit 0
+          fi
+
+          git clone --depth=1 "https://x-access-token:${PUSH_TOKEN}@github.com/likemie/mynotes-qa-app.git" _qa_repo
+          rsync -av --delete \
+            --exclude .git \
+            --exclude node_modules \
+            --exclude dist \
+            --exclude .env \
+            --exclude .env.local \
+            --exclude data/sync-state.json \
+            qa-app/ _qa_repo/
+
+          cd _qa_repo
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes to push to likemie/mynotes-qa-app."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "chore: auto-sync wiki index & qa-app from vault (${GITHUB_SHA::7})"
+          git push origin main

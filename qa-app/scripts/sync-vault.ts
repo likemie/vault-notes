@@ -1,3 +1,4 @@
+import { execFileSync } from 'node:child_process';
 import crypto from 'node:crypto';
 import fs from 'node:fs';
 import path from 'node:path';
@@ -30,9 +31,27 @@ const VAULT_ROOT = path.resolve(APP_DIR, '..');
 const WIKI_DIR = path.join(VAULT_ROOT, 'wiki');
 const SOURCE_INDEX_JSON = path.join(WIKI_DIR, 'index.json');
 const BUNDLED_INDEX_JSON = path.join(APP_DIR, 'data', 'wiki-index.json');
+const APP_CONFIG_JSON = path.join(APP_DIR, 'data', 'app-config.json');
 const STATE_PATH = path.join(APP_DIR, 'data', 'sync-state.json');
 
 dotenv.config({ path: path.join(APP_DIR, '.env') });
+
+function readDefaultStoreName(): string {
+  if (process.env.FILE_SEARCH_STORE_NAME) {
+    return process.env.FILE_SEARCH_STORE_NAME;
+  }
+  if (fs.existsSync(APP_CONFIG_JSON)) {
+    try {
+      const cfg = JSON.parse(fs.readFileSync(APP_CONFIG_JSON, 'utf-8')) as {
+        fileSearchStoreName?: string;
+      };
+      if (cfg.fileSearchStoreName) return cfg.fileSearchStoreName;
+    } catch {
+      // Ignore malformed config
+    }
+  }
+  return '';
+}
 
 function parseArgs(argv: string[]) {
   const args = {
@@ -41,7 +60,9 @@ function parseArgs(argv: string[]) {
     limit: Infinity,
     concurrency: 3,
     match: '',
-    storeName: process.env.FILE_SEARCH_STORE_NAME || '',
+    gitBase: '',
+    gitHead: 'HEAD',
+    storeName: readDefaultStoreName(),
     displayName: 'mynotes-academic-wiki',
   };
 
@@ -52,10 +73,101 @@ function parseArgs(argv: string[]) {
     else if (token === '--limit' && argv[i + 1]) args.limit = Number(argv[++i]);
     else if (token === '--concurrency' && argv[i + 1]) args.concurrency = Math.max(1, Number(argv[++i]));
     else if (token === '--match' && argv[i + 1]) args.match = argv[++i];
+    else if (token === '--git-diff' && argv[i + 1]) {
+      args.gitBase = argv[++i];
+      if (argv[i + 1] && !argv[i + 1].startsWith('--')) {
+        args.gitHead = argv[++i];
+      }
+    }
     else if (token === '--store-name' && argv[i + 1]) args.storeName = argv[++i];
     else if (token === '--display-name' && argv[i + 1]) args.displayName = argv[++i];
   }
   return args;
+}
+
+function isSyncableWikiMarkdown(relPath: string): boolean {
+  const norm = relPath.replace(/\\/g, '/');
+  if (!norm.startsWith('wiki/') || !norm.toLowerCase().endsWith('.md')) return false;
+  const parts = norm.split('/');
+  return !parts.some((p) => p.startsWith('.') || p === 'templates' || p === 'assets');
+}
+
+function getGitDiffChanges(baseSha: string, headSha: string): {
+  toUploadPaths: string[];
+  toReplacePaths: Set<string>;
+  toDeletePaths: string[];
+} {
+  const raw = execFileSync(
+    'git',
+    ['-C', VAULT_ROOT, '-c', 'core.quotepath=false', 'diff', '--name-status', '-z', baseSha, headSha, '--', 'wiki'],
+    { encoding: 'utf8', maxBuffer: 32 * 1024 * 1024 },
+  );
+
+  const tokens = raw.split('\0').filter(Boolean);
+  const uploadSet = new Set<string>();
+  const replaceSet = new Set<string>();
+  const deleteSet = new Set<string>();
+
+  for (let i = 0; i < tokens.length; i++) {
+    const status = tokens[i];
+    if (status.startsWith('R') || status.startsWith('C')) {
+      const oldPath = tokens[++i] ?? '';
+      const newPath = tokens[++i] ?? '';
+      if (status.startsWith('R') && isSyncableWikiMarkdown(oldPath)) {
+        deleteSet.add(oldPath);
+      }
+      if (isSyncableWikiMarkdown(newPath)) {
+        uploadSet.add(newPath);
+        replaceSet.add(newPath);
+      }
+    } else {
+      const filePath = tokens[++i] ?? '';
+      if (!isSyncableWikiMarkdown(filePath)) continue;
+      if (status === 'D') {
+        deleteSet.add(filePath);
+      } else {
+        uploadSet.add(filePath);
+        if (status === 'M') {
+          replaceSet.add(filePath);
+        }
+      }
+    }
+  }
+
+  for (const p of uploadSet) {
+    deleteSet.delete(p);
+  }
+
+  return {
+    toUploadPaths: Array.from(uploadSet).sort(),
+    toReplacePaths: replaceSet,
+    toDeletePaths: Array.from(deleteSet).sort(),
+  };
+}
+
+async function lookupRemoteDocumentsByVaultPath(
+  ai: GoogleGenAI,
+  storeName: string,
+  targetPaths: Set<string>,
+): Promise<Map<string, string[]>> {
+  const found = new Map<string, string[]>();
+  if (targetPaths.size === 0) return found;
+
+  const pager = await withRetry(
+    () => ai.fileSearchStores.documents.list({ parent: storeName, config: { pageSize: 20 } }),
+    'list store documents',
+  );
+
+  for await (const doc of pager) {
+    const meta = doc.customMetadata?.find((m) => m.key === 'vault_path');
+    const vaultPath = meta?.stringValue;
+    if (vaultPath && targetPaths.has(vaultPath) && doc.name) {
+      const list = found.get(vaultPath) ?? [];
+      list.push(doc.name);
+      found.set(vaultPath, list);
+    }
+  }
+  return found;
 }
 
 function collectMarkdownFiles(dir: string, out: string[] = []): string[] {
@@ -109,32 +221,53 @@ async function main() {
   const indexItems = JSON.parse(fs.readFileSync(SOURCE_INDEX_JSON, 'utf-8')) as WikiIndexItem[];
   const indexByPath = new Map(indexItems.map((item) => [item.path, item]));
 
-  const allMdFiles = collectMarkdownFiles(WIKI_DIR).sort();
   const state = loadState(opts.storeName, opts.reset);
-
-  const currentRelSet = new Set<string>();
   const toUpload: Array<{ relPath: string; fullPath: string; hash: string }> = [];
+  let toDelete: string[] = [];
+  let remoteCleanupTargets = new Set<string>();
 
-  for (const fullPath of allMdFiles) {
-    const relPath = path.relative(VAULT_ROOT, fullPath).replace(/\\/g, '/');
-    currentRelSet.add(relPath);
-    const hash = sha256(fullPath);
-    if (state.files[relPath]?.hash !== hash) {
-      toUpload.push({ relPath, fullPath, hash });
+  if (opts.gitBase) {
+    const diff = getGitDiffChanges(opts.gitBase, opts.gitHead);
+    for (const relPath of diff.toUploadPaths) {
+      const fullPath = path.join(VAULT_ROOT, relPath);
+      if (fs.existsSync(fullPath)) {
+        toUpload.push({ relPath, fullPath, hash: sha256(fullPath) });
+      }
     }
+    toDelete = diff.toDeletePaths;
+    remoteCleanupTargets = new Set([...diff.toDeletePaths, ...diff.toReplacePaths]);
+    console.log(
+      `[sync] Git diff (${opts.gitBase}..${opts.gitHead}): ${toUpload.length} to upload, ${toDelete.length} to delete.`,
+    );
+  } else {
+    const allMdFiles = collectMarkdownFiles(WIKI_DIR).sort();
+    const currentRelSet = new Set<string>();
+
+    for (const fullPath of allMdFiles) {
+      const relPath = path.relative(VAULT_ROOT, fullPath).replace(/\\/g, '/');
+      currentRelSet.add(relPath);
+      const hash = sha256(fullPath);
+      if (state.files[relPath]?.hash !== hash) {
+        toUpload.push({ relPath, fullPath, hash });
+      }
+    }
+
+    toDelete = Object.keys(state.files).filter((relPath) => !currentRelSet.has(relPath));
+    console.log(
+      `[sync] Scanned ${allMdFiles.length} wiki markdown files: ${toUpload.length} new/changed, ${toDelete.length} deleted.`,
+    );
   }
-
-  const toDelete = Object.keys(state.files).filter((relPath) => !currentRelSet.has(relPath));
-
-  console.log(
-    `[sync] Scanned ${allMdFiles.length} wiki markdown files: ${toUpload.length} new/changed, ${toDelete.length} deleted.`,
-  );
 
   if (opts.dryRun) {
     console.log('[sync] Dry run enabled. Sample pending uploads:');
     for (const item of toUpload.slice(0, 10)) {
       console.log(`  + ${item.relPath}`);
     }
+    return;
+  }
+
+  if (opts.gitBase && toUpload.length === 0 && toDelete.length === 0) {
+    console.log('[sync] No wiki markdown changes in git diff. Index refreshed only.');
     return;
   }
 
@@ -159,12 +292,32 @@ async function main() {
     console.log(`[sync] Remember to put FILE_SEARCH_STORE_NAME=${state.storeName} in qa-app/.env`);
   }
 
+  // In CI (--git-diff) mode without local sync-state.json, resolve remote documentNames for modified/deleted files
+  const remoteDocsMap = new Map<string, string[]>();
+  const unresolvedTargets = new Set(
+    Array.from(remoteCleanupTargets).filter((p) => !state.files[p]?.documentName),
+  );
+  if (unresolvedTargets.size > 0) {
+    console.log(`[sync] Looking up ${unresolvedTargets.size} modified/deleted paths in remote store...`);
+    const resolved = await lookupRemoteDocumentsByVaultPath(ai, state.storeName, unresolvedTargets);
+    for (const [k, v] of resolved.entries()) {
+      remoteDocsMap.set(k, v);
+    }
+  }
+
   // Delete removed files from File Search Store
   for (const relPath of toDelete) {
-    const docName = state.files[relPath]?.documentName;
-    if (docName) {
+    const docNames = new Set<string>();
+    if (state.files[relPath]?.documentName) docNames.add(state.files[relPath].documentName!);
+    for (const d of remoteDocsMap.get(relPath) ?? []) docNames.add(d);
+
+    for (const docName of docNames) {
       try {
-        await ai.fileSearchStores.documents.delete({ name: docName });
+        await withRetry(
+          () => ai.fileSearchStores.documents.delete({ name: docName, config: { force: true } }),
+          `delete ${relPath}`,
+          3,
+        );
         console.log(`[sync] Deleted remote doc: ${relPath}`);
       } catch (err) {
         console.warn(`[sync] Failed to delete ${docName}:`, err instanceof Error ? err.message : err);
@@ -188,10 +341,17 @@ async function main() {
       const meta = indexByPath.get(item.relPath);
 
       // Remove stale remote version before re-uploading changed file
-      const prevDoc = state.files[item.relPath]?.documentName;
-      if (prevDoc) {
+      const staleDocs = new Set<string>();
+      if (state.files[item.relPath]?.documentName) staleDocs.add(state.files[item.relPath].documentName!);
+      for (const d of remoteDocsMap.get(item.relPath) ?? []) staleDocs.add(d);
+
+      for (const prevDoc of staleDocs) {
         try {
-          await withRetry(() => ai.fileSearchStores.documents.delete({ name: prevDoc }), `delete ${item.relPath}`, 3);
+          await withRetry(
+            () => ai.fileSearchStores.documents.delete({ name: prevDoc, config: { force: true } }),
+            `delete ${item.relPath}`,
+            3,
+          );
         } catch {
           // Ignore if already absent
         }
