@@ -78,6 +78,8 @@ const STARTER_PROMPTS = [
 
 const MODEL_OPTIONS = [
   { value: 'gemini-3.8-flash', label: 'Gemini 3.8 Flash（快速低耗）' },
+  { value: 'gemini-4-neon', label: 'Gemini 4 Neon（最新均衡）' },
+  { value: 'gemini-4-hydrogen', label: 'Gemini 4 Hydrogen（深度推理）' },
   { value: 'gemini-pro-latest', label: 'Gemini Pro Latest（深度综合）' },
   { value: 'gemini-flash-latest', label: 'Gemini Flash Latest' },
   { value: 'gemini-3.1-pro-preview', label: 'Gemini 3.1 Pro Preview' },

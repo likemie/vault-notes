@@ -317,6 +317,7 @@
   },
   "active": "3643ff474ee79da9",
   "lastOpenFiles": [
+    "qa-app/dist/client/assets/index-DvIgYHAJ.js",
     "qa-app/dist/client/assets/index-DXgA6yh9.js",
     "qa-app/dist/client/assets/index-CTRHtN3X.css",
     "qa-app/node_modules/d3-dsv/node_modules/iconv-lite/encodings/tables/gbk-added.json",
@@ -327,7 +328,6 @@
     "qa-app/node_modules/d3-dsv/node_modules/iconv-lite/encodings/tables/big5-added.json",
     "qa-app/node_modules/d3-dsv/node_modules/iconv-lite/encodings/tables/cp936.json",
     "qa-app/node_modules/d3-dsv/node_modules/iconv-lite/encodings/tables/cp949.json",
-    "qa-app/node_modules/d3-dsv/node_modules/iconv-lite/lib/streams.js",
     "qa-app/node_modules/d3-dsv/node_modules/iconv-lite/README.md",
     "qa-app/node_modules/d3-dsv/node_modules/iconv-lite/Changelog.md",
     "qa-app/node_modules/d3-dsv/README.md",
