@@ -177,6 +177,7 @@ updated: 2026-11-26
 > - **布尔语法与检索操作符** 熟练运用引号精确匹配、星号词根扩展、波浪号近义联想与 AND / OR / NOT 布尔逻辑组合，在查准率与查全率之间取得平衡。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|(Cohen et al., 2011, Ch. 7, pp. 129–131)]]
 > - **文献多维分类与载体鉴别** 区分正式出版文献（专著、期刊）与未正式出版文献（博硕毕业成果、研讨报告）；区分[[Primary and Secondary Documents|初级文献]]（一手经验研究数据）与次级文献（教材、年鉴、述评）。[[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch. 1)]]
 > - **多源学术数据库梯队** 综合运用国际专业库（[[Education Resources Information Center|ERIC]]、Scopus、[[Web of Science]]）、开放获取平台（DOAJ）以及中文学术总库（CNKI），兼顾广度与专业深度。
+> - **馆员专业协同检索与质量提升** 高校图书馆员将信息检索专长融入研究团队并与学者合著临床[[Systematic Review|系统综述]]时，能够明显改善检索策略的报告规范与科研产出表现（[[Argument_DeJong_2024_SHE|de Jong & del Junco, 2024, pp. 1050, 1054]]）。
 > - **文献与来源质量评估准则** 优先参考经过严格同行评审的高水平学术期刊；审慎评估出版机构声誉、时间跨度、研究团队学术资质及客观中立性，防范商业立场偏见。
 > - **人工智能代理检索与语义挖掘** 随着[[Generative Artificial Intelligence|生成式人工智能]]的发展，智能研究代理介入文献初筛、语义跨模态提取与[[Chain of Evidence|证据链]]关联，推动检索向动态代码与数据沙盒延伸。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 70–72)]]
 
@@ -398,6 +399,9 @@ updated: 2026-11-26
 
 > [!claim] [[Argument_Verger_2019_Discourse|Verger et al. (2019)]]
 > **商业索引库与英语发表偏向限制证据代表性** 在针对测试问责（[[Test-Based Accountability|TBA]]）全球扩散的[[Systematic Review|系统综述]]中，文献检索主要依托 Scopus 等商业数据库并局限于英语同行评审文献。这种检索边界虽然保障了纳入文献的方法学基准，但也使得广大非英语国家（如拉美、南欧）的本土经验以及未被国际引文数据库收录的发展中国家实证证据处于边缘地位，对综述结论的全球适用性与普适推广构成了结构性制约。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 252)]]
+>
+> [!claim] [[Argument_DeJong_2024_SHE|de Jong & del Junco (2024)]]
+> **跨国职称异质性下的宽口径检索与引文滚雪球补检** 针对专业支持人员称谓分散且跨国职称差异显著的高教研究领域，直接穷举具体岗位名称往往难以保证查全率。[[Argument_DeJong_2024_SHE|de Jong and del Junco (2024)]] 以宽口径布尔检索式覆盖[[Web of Science|科学引文核心数据库]]（Web of Science, WoS）与 Scopus；在标题摘要初筛仅保留少量核心文献后，转而依托多轮前后向引文滚雪球追踪直至饱和，补回大量未命中初始检索词的关键研究，并进一步测试替代词条与细分岗位职称以核验盲区；同时明确仅检索英语索引学术出版物、排除灰色文献与实务报告的边界（pp. 1045–1046, 1060）。
 
 ---
 
@@ -422,7 +426,7 @@ updated: 2026-11-26
 > |---|---|---|---|
 > | **论证与效度支撑** | 检索为项目奠定构念效度与理论基础，支撑学术合法性 | 研究方案设计、[[Literature Review\|文献综述]]开题 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al. (2011)]] |
 > | **知识空白识别** | 发现被忽略问题、矛盾结果与方法短板以确立[[Research Topic\|研究选题]] | 课题选题论证、学术前沿追踪 | [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]] |
-> | **检索边界制约** | 单一商业库与语言限制会导致非英语与发展中国家经验缺失 | 大规模系统文献综述、全球政策比较 | [[Argument_Verger_2019_Discourse\|Verger et al. (2019)]] |
+> | **检索边界制约** | 单一商业库与语言限制会导致非英语与发展中国家经验缺失；跨国职称分散领域须依赖宽口径检索、多轮滚雪球与补检测试 | 大规模系统文献综述、全球政策比较 | [[Argument_Verger_2019_Discourse\|Verger et al. (2019)]]; [[Argument_DeJong_2024_SHE\|de Jong & del Junco (2024)]] |
 > | **智能代理分工** | 智能代理承担微观信息初筛，人类聚焦宏观理论与战略综合 | 智能科研工作流、人机共生学习 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] |
 > | **知识热点平衡** | 平衡前沿探索与深厚经典积淀的知识检索架构使突破概率翻倍 | 创新文献挖掘、前沿选题论证、科学计量评估 | [[Argument_Wang_Barabasi_2021_Cambridge_Unit09\|Wang & Barabási (2021)]] |
 
@@ -437,6 +441,7 @@ updated: 2026-11-26
 > - **2019 — 大规模系统综述检索覆盖边界反思** 贝尔赫等（[[Argument_Verger_2019_Discourse|Verger et al., 2019]]）在对测试问责的大规模系统文献综述中，实证指明主流商业引文库检索对非英语本土经验的覆盖盲区。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 252)]]
 > - **2021 — 知识热点搜索架构确立** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]基于 2,800 万篇文献实证，证明兼顾最新前沿与历史经典的平衡型文献搜索使成果跻身前 5% 爆款高引的几率提升 2.2 倍。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 200–204)]]
 > - **2023 — 开放[[SciSciNet|科学学数据湖]]支撑大规模全景文献检索与回溯** [[Argument_Lin_2023_SciData|Lin et al. (2023)]] 开源发布 [[SciSciNet]] 数据湖，整合 1.34 亿篇核心出版物、15.89 亿条引文网络与 2200 万篇专利及[[Clinical Trial|临床试验]]跨界关联，提供免费预计算测度指标，打破了传统商业引文数据库检索孤岛，为科研人员全景式检索和回溯跨学科知识网络提供了开放公共数据基石。
+> - **2024 — 跨国异质职称领域的宽口径检索与滚雪球补检验证** [[Argument_DeJong_2024_SHE|de Jong and del Junco (2024)]] 在高校专业支持人员综述中，针对 18 种跨国称谓差异，联合采用宽口径布尔检索（WoS 与 Scopus）、多轮前后向引文滚雪球追踪直至饱和与替代词补检测试，以制度化补漏机制防范术语分散带来的系统漏检（pp. 1045–1046, 1060）。
 > - **2026 — 生成式 AI 代理与可执行代码沙盒检索** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）报告确立智能时代科研新[[Paradigm|范式]]，智能代理承担自动化文献挖掘与代码/数据沙盒溯源，驱动人类学术分工向宏观战略综合转型。
 
 ---
@@ -474,6 +479,7 @@ updated: 2026-11-26
 > | [[Argument_Verger_2019_Discourse\|Verger et al. (2019, p. 252)]] | 针对全球测试问责（TBA）实证文献的系统性文献检索 | 系统综述检索规程设计与文献初筛统计 | 数据库来源、检索策略与初筛排除数量 | 通过 Scopus 数据库初筛获取 1,180 篇潜在文献；经独立双盲标题与摘要筛选后，最终确认纳入 115 篇同行评审实证研究 | 明确记录检索词与布尔语法规则 | 证实大规模学术系统综述对单一英语商业数据库的依赖，及其在非英语经验覆盖上的局限 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit09\|Wang & Barabási (2021, pp. 200–204)]] | 跨越自然科学、工程与社会科学的 2,800 万篇全量科技研究文献 | 大规模参考文献时序特征与长程影响力回归及概率测算 | 参考文献平均年龄 $\langle T \rangle$、年龄离散系数 $\sigma_T$、前 5% 高被引突破概率 | 知识热点（低 $\langle T \rangle$、高 $\sigma_T$）使成果进入前 5% 爆款高引的几率提升至随机期望的 2.2 倍（75% 的非热点成果未能超越随机期望）；发表 10 年以上老文献引用份额在 4 个领域超 40%，人文学科达 51% | 跨越战后至今约 90% 的学科领域复现 | 证实文献检索兼顾前沿与经典的知识搜索架构在多学科中具有普适突破增益 |
 > | [[Argument_Volmari_2025_CE\|Volmari et al. (2025, pp. 535–541)]] | 丹麦、芬兰、挪威基础教育改革起草委员会专家与文官[[In-depth Interview\|深度访谈]] | 质性深度访谈与[[Bibliometric Analysis\|文献计量分析]] | 政策制定中专家证据采信机制 vs 客观文献检索假定 | 同行评议成果引文占比偏低（丹麦 16.02% 即 37/231 条，芬兰 9.45% 即 64/677 条）；15 场[[Elite Interview\|高层访谈]]一致表明客观检索在紧迫政策周期中难以实现，证据搜寻普遍依赖学术熟人网络推荐 | [[Qualitative Interview\|质性访谈]]全样本饱和分析 | 揭示政策制定中的文献获取高度嵌入于微观社会关系网络，打破了基于系统客观文献检索的[[Technical Rationality\|技术理性]]假设 |
+> | [[Argument_DeJong_2024_SHE\|de Jong & del Junco (2024, pp. 1045–1046, 1060)]] | 1992–2021 年英语高校[[Professional Support Staff\|专业支持人员]]实证研究检索 | 五步[[Systematic Review\|系统综述]]检索漏斗（篇名布尔检索 + 前后向引文追踪 + 补检验证） | 各检索阶段识别、剔除与最终纳入文献数量 | WoS 检出 1,136 篇、Scopus 检出 2,219 篇（去重后 2,917 篇）；标题摘要初筛留存 42 篇；多轮引文滚雪球补入 103 篇至 145 篇；同行推荐与职称补检增补 22 篇至 167 篇；全文筛选最终纳入 54 篇 | 测试 `college*`、`higher education`、`manager* OR officer*` 等替代词确认无重大漏检 | 展示术语高度分散领域中滚雪球补检的决定性增量，同时受限于英语学术索引库而未纳入灰色文献 |
 
 ---
 
@@ -504,3 +510,4 @@ updated: 2026-11-26
 > - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 比较北欧三国改革起草专家的文献搜寻实践，实证揭示紧迫周期与海量成果下客观文献检索的失效，以及人际关系网络和[[Convenience Sampling|便利抽样]]的主导地位。
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 结合数据库布尔检索、知名学者追踪、高引文献溯源与 PISA 增值前十国国别定向检索，展示多渠道互补的系统综述文献检索策略。
 > - [[Argument_Hippach-Schneider_Rieder_2022_RCIE|Hippach-Schneider and Rieder (2022)]] — 结合 Google Scholar、[[Federal Institute for Vocational Education and Training|BIBB]]、ERIC 与 VOCED 等数据库检索 2016–2019 年政策文本与学术文献，建立主题群组与相关度分级。
+> - [[Argument_DeJong_2024_SHE|de Jong and del Junco (2024)]] — 面向跨国职称高度分散的高教专业支持研究，结合宽口径布尔检索、多轮引文滚雪球追踪（+103 篇）与替代词补检测试防范漏检（pp. 1045–1046, 1060）。

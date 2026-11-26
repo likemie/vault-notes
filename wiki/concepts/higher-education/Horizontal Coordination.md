@@ -40,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-11-25
-updated: 2026-11-25
+updated: 2026-11-26
 ---
 
 ---
@@ -70,7 +70,7 @@ updated: 2026-11-25
 > | 整合路径 | 平级职能部门与院系间网络化协同与数据共享 | 顶层管理层依托正式指挥链自上而下发号施令 | 兼具职能部门专业监督与项目团队双重汇报链 |
 > | 权力基础 | 跨部门信息互通、共同制度规范与业务共识 | 机构章程赋予的高层法定决断权与裁量权 | 双重领导权责制衡与跨界协调协议 |
 > | 典型摩擦 | 部门孤岛防线、权责重叠模糊与数据互不相通 | 基层心理抵触、缺乏参与感与自下而上的变通履约 | 双重指挥冲突、角色超载与沟通成本过高 |
-> | 治理目标 | 消除内部系统阻滞、形成全校资源合力 | 确立统一组织意志与战略方向的权威传导 | 适应[[Gaokao Repetition\|高复]]杂度跨学科任务的动态攻关 |
+> | 治理目标 | 消除内部系统阻滞、形成全校资源合力 | 确立统一组织意志与战略方向的权威传导 | 适应高复杂度跨学科任务的动态攻关 |
 
 ---
 
@@ -78,6 +78,7 @@ updated: 2026-11-25
 > - **专门化部门藩篱（Administrative Silos）** 财务、人事、科研管理、教学评估等部门各自建立排他性业务规范与审批流程，缺乏跨部门联合办事机制。[[Argument_Maassen_Stensaker_2019_HEQ|(Maassen & Stensaker, 2019, p. 463)]]
 > - **数字化系统与数据割裂（Digital Platform Incompatibility）** 各职能部门各自引进专有信息管理软件，导致全校数据格式不兼容，无法敏捷汇集决策情报。[[Argument_Maassen_Stensaker_2019_HEQ|(Maassen & Stensaker, 2019, pp. 463–464)]]
 > - **研教机构横向脱离（Research-Teaching Structural Cleavage）** 新设的独立科研机构与传统教学学院在课程规划与导师编制上缺乏有效衔接，权责边界划分模糊。[[Argument_Maassen_Stensaker_2019_HEQ|(Maassen & Stensaker, 2019, p. 464)]]
+> - **支持单元人际协调与部门隔离（Cross-Unit Liaison vs. Silo Friction）** 图书馆、信息技术（Information Technology, IT）与法务等不同专业支持部门在推进研究数据管理（Research Data Management, RDM）等联合项目时往往伴随视角分歧，依赖各部门主管间的良好协作与跨部门优先级协调弥合壁垒；同时近研行政人员与非近研同事间亦可能出现排外隔阂。[[Argument_DeJong_2024_SHE|(de Jong & del Junco, 2024, pp. 1051–1052)]]
 > - **横向协调赤字（Horizontal Coordination Deficit）** 当管理层过度关注纵向层级刚性时，平级沟通与利益调处机制退化，诱发系统性内部摩擦与组织混乱。[[Argument_Maassen_Stensaker_2019_HEQ|(Maassen & Stensaker, 2019, pp. 463–465)]]
 
 ---
@@ -98,18 +99,28 @@ updated: 2026-11-25
 
 ---
 
+> [!concept-proposition] 命题三｜专业支持单元依托部门主管协同与知识共享氛围跨越职能边界并支撑科研产出
+> **支持部门协同机制** 探讨图书馆、信息技术、法务与科研管理等平级专业支持部门如何在分工专门化背景下通过主管协作与知识共享突破孤岛效应。
+
+> [!claim] [[Argument_DeJong_2024_SHE|de Jong & del Junco (2024)]]
+> **专业支持团队的跨部门协调张力与主管桥梁作用** [[Argument_DeJong_2024_SHE|de Jong and del Junco (2024)]] 梳理高校专业支持人员文献指出，随着大学承接多类外部治理任务，协调新增工作推动了管理及专门化岗位扩编；然而在内部运转中，亲近科研的支持人员易遭非近研同事排斥，校级中央部门亦常在会议中冷落院系基层人员（pp. 1043, 1051–1052）。在跨部门联合推进 RDM 等需要多方专长的任务时，图书馆员、IT 人员与法务顾问之间的视角分歧虽属常态，各单元主管的良好工作关系与平级请求优先调度构成了项目落地的关键粘合剂；此外，科研管理人员感知到的组织知识共享氛围越强，机构获批的外部科研经费也越多（pp. 1051–1052）。
+
+---
+
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **层级与协同的内在张力** | 纵向集权与专门化分工导致平级机构权责重叠与协同阻力增加 | 推进法人化改制与[[New Public Management\|新公共管理]]的研究型大学 | [[Argument_Maassen_Stensaker_2019_HEQ\|Maassen and Stensaker (2019)]] |
 > | **技术治理的悖论** | 部门专有软件的碎片化定制阻碍跨系统数据打通与敏捷决策 | 快速推进管理数字化的现代大型大学 | [[Argument_Maassen_Stensaker_2019_HEQ\|Maassen and Stensaker (2019)]] |
+> | **支持单元跨界粘合** | 专业支持部门在分歧与排斥下依靠主管互信与知识共享氛围推进跨界项目与经费获取 | 高校 RDM 联合开发、科研支持体系与校院两级行政协同 | [[Argument_DeJong_2024_SHE\|de Jong and del Junco (2024)]] |
 
 ---
 
 > [!dev-timeline] 概念演变
-> - **1937 — 经典公共行政视角** Gulick 与 Urwick 在组织科学中区分纵向指挥与横向职能协助，奠定组织协调二元结构基础。
+> - **1937 — 经典公共行政视角** Gulick 与 Urwick 在组织科学中区分纵向指挥与横向职能协助，确立组织协调二元结构基础。
 > - **1979 — 专业[[Bureaucracy|官僚制]]分析** Mintzberg 在《组织的结构》（*The Structuring of Organizations*）中指出专业组织主要依靠专业技能标准化实现横向协同，行政规程介入往往适得其反。
 > - **2019 — 大学科层治理实证批判** Maassen 与 Stensaker 在《高等教育季刊》（*Higher Education Quarterly*）实证论证：在追求[[Complete Organisation|完整组织]]转型的现代大学中，由于缺乏跨部门协调机制，横向协调赤字成为大学定型为[[De-coupled Bureaucracy|解耦型官僚制]]的核心机制。[[Argument_Maassen_Stensaker_2019_HEQ|(Maassen & Stensaker, 2019, pp. 463–465)]]
+> - **2024 — 专业支持部门微观协同机制综合** [[Argument_DeJong_2024_SHE|de Jong and del Junco (2024)]] 综合高校支持人员研究揭示跨单元主管协调、校院层级隔阂与组织知识共享氛围在联合项目与经费获取中的具体作用（pp. 1043, 1051–1052）。
 
 ---
 
@@ -134,9 +145,11 @@ updated: 2026-11-25
 > | [[De-coupled Bureaucracy]] | 概念 | 行政专门化导致的横向协调障碍，加速了行政系统自我封闭并与学术实践脱离的解耦过程。[[Argument_Maassen_Stensaker_2019_HEQ\|(Maassen & Stensaker, 2019, pp. 465–466)]] |
 > | [[Penetrated Hierarchies]] | 概念 | 外部规制压力直接穿透不同职能部门，造成各部门各自针对外部要求筑起合规防线，恶化了横向协调。[[Argument_Maassen_Stensaker_2019_HEQ\|(Maassen & Stensaker, 2019, p. 457)]] |
 > | [[Bureaucracy]] | 概念 | 横向协调赤字是韦伯式科层专门化分工在知识密集型专业组织中引发的典型官僚主义副效应。[[Argument_Maassen_Stensaker_2019_HEQ\|(Maassen & Stensaker, 2019, p. 463)]] |
+> | [[Professional Support Staff]] | 概念 | 跨越图书馆、IT、法务与科研管理等部门推进联合项目协同与知识共享的专门化执行群体。[[Argument_DeJong_2024_SHE\|(de Jong & del Junco, 2024, pp. 1051–1052)]] |
 > | [[Loosely Coupled Systems]] | 理论 | 横向协调赤字表明大学不同结构单元之间的弱响应与独立性依然深刻存在，并未被行政科层所消除。[[Argument_Maassen_Stensaker_2019_HEQ\|(Maassen & Stensaker, 2019, p. 458)]] |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Maassen_Stensaker_2019_HEQ|Maassen and Stensaker (2019)]] — 设立专节实证考察 5 国公立大学内部治理，阐明部门壁垒与横向协调赤字如何阻碍一体化整合并促成解耦型官僚制（pp. 463–465）。
+> - [[Argument_DeJong_2024_SHE|de Jong and del Junco (2024)]] — 综述指出跨部门协调需求推高大学管理者规模，并总结专业支持单位借助主管互信跨越分歧与知识共享助推外部经费的机制（pp. 1043, 1051–1052）。
