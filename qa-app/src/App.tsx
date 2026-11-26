@@ -126,6 +126,8 @@ export default function App() {
         setHealth(data);
         if (data.defaultModel) setModel(data.defaultModel);
         if (!data.authRequired) {
+          localStorage.removeItem('qa_password');
+          setPassword('');
           setUnlocked(true);
         } else if (password) {
           verifyStoredPassword(password);

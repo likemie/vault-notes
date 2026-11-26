@@ -45,7 +45,7 @@ const FILE_SEARCH_STORE_NAME =
   process.env.FILE_SEARCH_STORE_NAME || appConfig.fileSearchStoreName || '';
 const DEFAULT_MODEL =
   process.env.GEMINI_MODEL || appConfig.defaultModel || 'gemini-3.8-flash';
-const APP_ACCESS_PASSWORD = process.env.APP_ACCESS_PASSWORD || '';
+const ACCESS_PASSWORD = (process.env.VAULT_QA_PASSWORD || '').trim();
 const QUARTZ_BASE_URL =
   process.env.QUARTZ_BASE_URL || appConfig.quartzBaseUrl || '';
 
@@ -62,7 +62,7 @@ const app = express();
 app.use(express.json({ limit: '1mb' }));
 
 function requirePassword(req: Request, res: Response, next: NextFunction) {
-  if (!APP_ACCESS_PASSWORD) {
+  if (!ACCESS_PASSWORD) {
     next();
     return;
   }
@@ -70,7 +70,7 @@ function requirePassword(req: Request, res: Response, next: NextFunction) {
     req.header('x-access-password') ||
     req.header('authorization')?.replace(/^Bearer\s+/i, '') ||
     '';
-  if (provided !== APP_ACCESS_PASSWORD) {
+  if (provided !== ACCESS_PASSWORD) {
     res.status(401).json({ error: '访问密码无效或缺失' });
     return;
   }
@@ -84,19 +84,19 @@ app.get('/api/health', (_req, res) => {
     typeCounts,
     storeConfigured: Boolean(FILE_SEARCH_STORE_NAME),
     apiKeyConfigured: Boolean(GEMINI_API_KEY),
-    authRequired: Boolean(APP_ACCESS_PASSWORD),
+    authRequired: Boolean(ACCESS_PASSWORD),
     quartzBaseUrl: QUARTZ_BASE_URL || null,
     defaultModel: DEFAULT_MODEL,
   });
 });
 
 app.post('/api/auth/verify', (req, res) => {
-  if (!APP_ACCESS_PASSWORD) {
+  if (!ACCESS_PASSWORD) {
     res.json({ ok: true, authRequired: false });
     return;
   }
   const password = String(req.body?.password ?? '');
-  if (password !== APP_ACCESS_PASSWORD) {
+  if (password !== ACCESS_PASSWORD) {
     res.status(401).json({ ok: false, error: '密码错误' });
     return;
   }

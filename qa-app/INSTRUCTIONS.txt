@@ -7,9 +7,9 @@
 
 2. 本地配置与建立 File Search Store
    cd qa-app
-   cp .env.example .env
+   cp env.example.txt .env
    # 编辑 .env，填入 GEMINI_API_KEY=...
-   # 可选：填入 APP_ACCESS_PASSWORD=... 和 QUARTZ_BASE_URL=https://likemie.github.io
+   # 可选：填入 VAULT_QA_PASSWORD=... 和 QUARTZ_BASE_URL=https://likemie.github.io
 
    # 先试跑扫描（不上传）：
    npm run sync:dry
@@ -35,6 +35,6 @@
    - 在 AI Studio Build 的环境/密钥设置中配置：
      GEMINI_API_KEY=你的Key
      FILE_SEARCH_STORE_NAME=fileSearchStores/mynotesacademicwiki-p548qkx5vflh
-     （可选）APP_ACCESS_PASSWORD=你的访问密码
+     （可选）VAULT_QA_PASSWORD=你的访问密码
      （可选）QUARTZ_BASE_URL=https://likemie.github.io
    - 在 AI Studio Build 中即可直接预览并对话修改 UI，满意后点击右上角 Publish / Deploy 发布到 Google Cloud Run。
