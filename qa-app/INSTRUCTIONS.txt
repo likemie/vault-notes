@@ -1,0 +1,40 @@
+独立知识库 AI 问答应用 (qa-app) 部署与使用说明
+
+1. 网页端需要做的准备（Google AI Studio）
+   - 用开通 Google AI Pro 的 Google 账号登录 https://aistudio.google.com/
+   - 在左侧菜单领取 Pro 附带的每月 $10 Google Cloud 额度，并关联 Cloud Billing 账号（建议启用 Paid Tier，保证数据不用于模型训练并提升限额）
+   - 在 API Keys 页面创建一个新的 Gemini API Key
+
+2. 本地配置与建立 File Search Store
+   cd qa-app
+   cp .env.example .env
+   # 编辑 .env，填入 GEMINI_API_KEY=...
+   # 可选：填入 APP_ACCESS_PASSWORD=... 和 QUARTZ_BASE_URL=https://likemie.github.io
+
+   # 先试跑扫描（不上传）：
+   npm run sync:dry
+
+   # 正式上传 wiki/*.md 到 Gemini File Search Store（首次会自动创建 Store 并打印 FILE_SEARCH_STORE_NAME）：
+   npm run sync
+   # 把控制台输出的 FILE_SEARCH_STORE_NAME=fileSearchStores/... 填回 .env
+
+3. 本地启动测试
+   npm run dev
+   # 默认监听 http://localhost:3000（单端口同时托管前端与 /api）
+   # 或构建生产包后启动：npm run build && npm start
+
+4. 变成 Google AI Studio 里的 App（并一键发布上线）
+   - 在 GitHub 新建一个独立仓库（只放 qa-app/ 目录里的文件，不要把整个 MyNotes 3.8GB 仓库放进去；.gitignore 会自动排除 .env 和 node_modules）：
+     cd qa-app
+     git init
+     git add .
+     git commit -m "init qa-app"
+     # 推送到你的 GitHub 新仓库
+   - 打开 https://aistudio.google.com/ -> 左侧进入 Build 页面
+   - 点击输入框左下角 "+" -> Import from GitHub，选中刚才推送的仓库
+   - 在 AI Studio Build 的环境/密钥设置中配置：
+     GEMINI_API_KEY=你的Key
+     FILE_SEARCH_STORE_NAME=fileSearchStores/mynotesacademicwiki-p548qkx5vflh
+     （可选）APP_ACCESS_PASSWORD=你的访问密码
+     （可选）QUARTZ_BASE_URL=https://likemie.github.io
+   - 在 AI Studio Build 中即可直接预览并对话修改 UI，满意后点击右上角 Publish / Deploy 发布到 Google Cloud Run。
