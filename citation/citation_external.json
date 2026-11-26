@@ -1021,7 +1021,9 @@
     "Angrist et al., 2002": "Angrist et al., 2002",
     "Angrist, 1999": "Angrist, 1999",
     "Angrist, 2019": "Angrist, 2019",
+    "Angus (1973)": "Angus, 1973",
     "Angus (1993)": "Angus, 1993",
+    "Angus, 1973": "Angus, 1973",
     "Angus, 1993": "Angus, 1993",
     "Anil & Batdi (2015)": "Anil & Batdi, 2015",
     "Anil & Batdi, 2015": "Anil & Batdi, 2015",
@@ -2609,8 +2611,6 @@
     "Bernard Barber (1973)": "Bernard Barber, 1973",
     "Bernard Barber, 1972": "Bernard Barber, 1972",
     "Bernard Barber, 1973": "Bernard Barber, 1973",
-    "Bernard Leca (2009)": "Bernard Leca, 2009",
-    "Bernard Leca, 2009": "Bernard Leca, 2009",
     "Bernard et al. (2004a)": "Bernard et al., 2004a",
     "Bernard et al. (2004b)": "Bernard et al., 2004b",
     "Bernard et al. (2009)": "Bernard et al., 2009",
@@ -6757,6 +6757,8 @@
     "Derek de Solla Price, 1976": "Derek de Solla Price, 1976",
     "Derksen (2000)": "Derksen, 2000",
     "Derksen, 2000": "Derksen, 2000",
+    "Derrick & Nickson (2014)": "Derrick & Nickson, 2014",
+    "Derrick & Nickson, 2014": "Derrick & Nickson, 2014",
     "Derrington & Kendall (2004)": "Derrington & Kendall, 2004",
     "Derrington & Kendall, 2004": "Derrington & Kendall, 2004",
     "Deshen & Yu (2021)": "Deshen & Yu, 2021",
@@ -7297,6 +7299,8 @@
     "Duatepe, 2004": "Duatepe, 2004",
     "Dubois (2014)": "Dubois, 2014",
     "Dubois, 2014": "Dubois, 2014",
+    "Ducas & Michaud-Oystryk (2003)": "Ducas & Michaud-Oystryk, 2003",
+    "Ducas & Michaud-Oystryk, 2003": "Ducas & Michaud-Oystryk, 2003",
     "Ducas et al. (2020)": "Ducas et al., 2020",
     "Ducas et al., 2020": "Ducas et al., 2020",
     "Duckworth & Duckworth (2016)": "Duckworth & Duckworth, 2016",
@@ -9479,13 +9483,11 @@
     "Gandara, 1994": "Gandara, 1994",
     "Gander (2018a)": "Gander, 2018a",
     "Gander (2018b)": "Gander, 2018b",
-    "Gander (2018c)": "Gander, 2018c",
     "Gander et al. (2019)": "Gander et al., 2019",
     "Gander et al., 2019": "Gander et al., 2019",
     "Gander, 2018": "Gander, 2018a",
-    "Gander, 2018a": "Gander, 2018b",
-    "Gander, 2018b": "Gander, 2018c",
-    "Gander, 2018c": "Gander, 2018c",
+    "Gander, 2018a": "Gander, 2018a",
+    "Gander, 2018b": "Gander, 2018b",
     "Gao (1923)": "Gao, 1923",
     "Gao (2013)": "Gao, 2013",
     "Gao (2023)": "Gao, 2023",
@@ -14022,12 +14024,10 @@
     "Kehm (2014)": "Kehm, 2014",
     "Kehm (2015a)": "Kehm, 2015a",
     "Kehm (2015b)": "Kehm, 2015b",
-    "Kehm (2015c)": "Kehm, 2015c",
     "Kehm, 2014": "Kehm, 2014",
-    "Kehm, 2015": "Kehm, 2015c",
+    "Kehm, 2015": "Kehm, 2015b",
     "Kehm, 2015a": "Kehm, 2015a",
     "Kehm, 2015b": "Kehm, 2015b",
-    "Kehm, 2015c": "Kehm, 2015c",
     "Keinanen et al. (2000)": "Keinanen et al., 2000",
     "Keinanen et al., 2000": "Keinanen et al., 2000",
     "Keith & Frese (2008)": "Keith & Frese, 2008",
@@ -16532,8 +16532,6 @@
     "Louis et al. (1996)": "Louis et al., 1996",
     "Louis et al., 1995": "Louis et al., 1995",
     "Louis et al., 1996": "Louis et al., 1996",
-    "Lounsbury (2012)": "Lounsbury, 2012",
-    "Lounsbury, 2012": "Lounsbury, 2012",
     "Lourie (2020)": "Lourie, 2020",
     "Lourie, 2020": "Lourie, 2020",
     "Louw (2012)": "Louw, 2012",
@@ -18768,8 +18766,6 @@
     "Mossberger & Wolman, 2003": "Mossberger & Wolman, 2003",
     "Mosse (2011)": "Mosse, 2011",
     "Mosse, 2011": "Mosse, 2011",
-    "Mostafa (2017)": "Mostafa, 2017",
-    "Mostafa, 2017": "Mostafa, 2017",
     "Mosteller (1995)": "Mosteller, 1995",
     "Mosteller et al. (1996)": "Mosteller et al., 1996",
     "Mosteller et al., 1996": "Mosteller et al., 1996",
@@ -22751,8 +22747,6 @@
     "Roy Nash (2004)": "Roy Nash, 2004",
     "Roy Nash, 2003": "Roy Nash, 2003",
     "Roy Nash, 2004": "Roy Nash, 2004",
-    "Roy Suddaby (2006)": "Roy Suddaby, 2006",
-    "Roy Suddaby, 2006": "Roy Suddaby, 2006",
     "Roy et al. (2014)": "Roy et al., 2014",
     "Roy et al. (2018)": "Roy et al., 2018",
     "Roy et al., 2014": "Roy et al., 2014",
@@ -25071,6 +25065,8 @@
     "Spradley (1980)": "Spradley, 1980",
     "Spradley, 1979": "Spradley, 1979",
     "Spradley, 1980": "Spradley, 1980",
+    "Sprague (1994)": "Sprague, 1994",
+    "Sprague, 1994": "Sprague, 1994",
     "Spratt (2013)": "Spratt, 2013",
     "Spratt, 2013": "Spratt, 2013",
     "Spreen (2004)": "Spreen, 2004",
@@ -25989,8 +25985,6 @@
     "Tamin et al., 2016": "Tamin et al., 2016",
     "Tamir (1985)": "Tamir, 1985",
     "Tamir, 1985": "Tamir, 1985",
-    "Tammar B. Zilber (2013)": "Tammar B. Zilber, 2013",
-    "Tammar B. Zilber, 2013": "Tammar B. Zilber, 2013",
     "Tamnes et al. (2013)": "Tamnes et al., 2013",
     "Tamnes et al., 2013": "Tamnes et al., 2013",
     "Tamur et al. (2020)": "Tamur et al., 2020",
@@ -28364,6 +28358,8 @@
     "Wilkes & Stark, 2022": "Wilkes & Stark, 2022",
     "Wilkins & Gobby (2021)": "Wilkins & Gobby, 2021",
     "Wilkins & Gobby, 2021": "Wilkins & Gobby, 2021",
+    "Wilkins & Leckie (1997)": "Wilkins & Leckie, 1997",
+    "Wilkins & Leckie, 1997": "Wilkins & Leckie, 1997",
     "Wilkins (1969)": "Wilkins, 1969",
     "Wilkins (1996)": "Wilkins, 1996",
     "Wilkins (2008)": "Wilkins, 2008",
@@ -31321,7 +31317,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "The System of Professions: An Essay on the Division of Expert Labor"
     },
     "Abbott, 1997": {
       "aliases": [
@@ -31349,7 +31345,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "The System of Professions: An Essay on the Division of Expert Labor"
     },
     "Abbott-Shim, 2003": {
       "aliases": [
@@ -35487,7 +35483,7 @@
         "Allen-Collinson, 2006",
         "Allen-Collinson (2006)"
       ],
-      "doi": "",
+      "doi": "10.1177/0950017006064114",
       "identity_keys": [
         "Allen-Collinson, 2006"
       ],
@@ -35495,7 +35491,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "Just 'non-Academics'?: Research Administrators and Contested Occupational Identity"
     },
     "Allen-Collinson, 2007": {
       "aliases": [
@@ -37561,7 +37557,7 @@
         "Andrews et al., 2017",
         "Andrews et al. (2017)"
       ],
-      "doi": "",
+      "doi": "10.1111/padm.12305",
       "identity_keys": [
         "Andrews et al., 2017"
       ],
@@ -37861,6 +37857,21 @@
       "seen_in": [],
       "title": "Maimonides’ rule redux"
     },
+    "Angus, 1973": {
+      "aliases": [
+        "Angus, 1973",
+        "Angus (1973)"
+      ],
+      "doi": "10.1111/j.1467-9299.1973.tb00125.x",
+      "identity_keys": [
+        "Angus, 1973"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
+      ],
+      "title": "University Administrative Staff"
+    },
     "Angus, 1993": {
       "aliases": [
         "Angus, 1993",
@@ -38063,7 +38074,7 @@
         "Antell et al., 2017",
         "Antell et al. (2017)"
       ],
-      "doi": "",
+      "doi": "10.5860/crl.75.4.557",
       "identity_keys": [
         "Antell et al., 2017"
       ],
@@ -38071,7 +38082,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "Dealing with Data: Science Librarians' Participation in Data Management at Association of Research Libraries Institutions"
     },
     "Anter, 2016": {
       "aliases": [
@@ -43696,7 +43707,7 @@
         "Baltaru, 2019",
         "Baltaru (2019)"
       ],
-      "doi": "",
+      "doi": "10.1080/03075079.2017.1421156",
       "identity_keys": [
         "Baltaru, 2019"
       ],
@@ -43704,7 +43715,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "Do non-Academic Professionals Enhance Universities' Performance? Reputation vs. Organisation"
     },
     "Baltzell, 1964": {
       "aliases": [
@@ -49514,7 +49525,7 @@
         "Berman & Pitman, 2010",
         "Berman & Pitman (2010)"
       ],
-      "doi": "",
+      "doi": "10.1007/s10734-009-9292-z",
       "identity_keys": [
         "Berman & Pitman, 2010"
       ],
@@ -49522,7 +49533,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "Occupying a 'Third Space': Research Trained Professional Staff in Australian Universities"
     },
     "Berman, 2000": {
       "aliases": [
@@ -49616,21 +49627,6 @@
       "seen_in": [
         "wiki/concepts/educational-philosophy/Epistemology.md",
         "wiki/concepts/educational-philosophy/Geisteswissenschaften.md"
-      ],
-      "title": ""
-    },
-    "Bernard Leca, 2009": {
-      "aliases": [
-        "Bernard Leca, 2009",
-        "Bernard Leca (2009)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Bernard Leca, 2009"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/theories/sociology-of-education/Institutional Work.md"
       ],
       "title": ""
     },
@@ -52162,7 +52158,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "New Public Management or Neoliberalism, Higher Education"
     },
     "Bleses, 2020": {
       "aliases": [
@@ -54360,7 +54356,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md",
-        "wiki/concepts/sociology-of-education/Tracking.md",
         "wiki/facts/global/PIRLS.md"
       ],
       "title": "Schullaufbahnempfehlungen von Lehrkräften für Kinder am Ende des vierten Jahrgangs"
@@ -55614,7 +55609,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "The Competent Manager: A Model for Effective Performance"
     },
     "Boyd, 2007": {
       "aliases": [
@@ -58297,7 +58292,7 @@
         "Bruckmann & Carvalho, 2018",
         "Bruckmann & Carvalho (2018)"
       ],
-      "doi": "",
+      "doi": "10.1007/s10734-018-0229-2",
       "identity_keys": [
         "Bruckmann & Carvalho, 2018"
       ],
@@ -58305,7 +58300,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "Understanding Change in Higher Education: An Archetypal Approach"
     },
     "Brudnick, 2024": {
       "aliases": [
@@ -60092,7 +60087,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "Brokerage and Closure"
     },
     "Burton R. Clark, 1983": {
       "aliases": [
@@ -61646,7 +61641,7 @@
         "Cai & Mountford, 2021",
         "Cai & Mountford (2021)"
       ],
-      "doi": "",
+      "doi": "10.1080/03075079.2021.1946032",
       "identity_keys": [
         "Cai & Mountford, 2021"
       ],
@@ -61655,7 +61650,7 @@
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
         "wiki/theories/sociology-of-education/Institutional Logics.md"
       ],
-      "title": ""
+      "title": "Institutional Logics Analysis in Higher Education Research"
     },
     "Cai et al., 2019": {
       "aliases": [
@@ -70271,7 +70266,7 @@
         "Coccia, 2009",
         "Coccia (2009)"
       ],
-      "doi": "",
+      "doi": "10.1007/s11192-009-0406-2",
       "identity_keys": [
         "Coccia, 2009"
       ],
@@ -70279,7 +70274,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "Research Performance and Bureaucracy Within Public Research Labs"
     },
     "Cochran, 1954": {
       "aliases": [
@@ -73830,7 +73825,7 @@
         "Cox & Verbaan, 2016",
         "Cox & Verbaan (2016)"
       ],
-      "doi": "",
+      "doi": "10.1016/j.lisr.2016.11.004",
       "identity_keys": [
         "Cox & Verbaan, 2016"
       ],
@@ -73838,7 +73833,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "How Academic Librarians, IT Staff, and Research Administrators Perceive and Relate to Research"
     },
     "Cox et al., 2017": {
       "aliases": [
@@ -76646,7 +76641,7 @@
         "Danchev et al., 2019",
         "Danchev et al. (2019)"
       ],
-      "doi": "",
+      "doi": "10.7554/eLife.43094",
       "identity_keys": [
         "Danchev et al., 2019"
       ],
@@ -76654,7 +76649,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "Centralized Scientific Communities are Less Likely to Generate Replicable Results"
     },
     "Danechi, 2020": {
       "aliases": [
@@ -80134,6 +80129,21 @@
       ],
       "title": ""
     },
+    "Derrick & Nickson, 2014": {
+      "aliases": [
+        "Derrick & Nickson, 2014",
+        "Derrick & Nickson (2014)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Derrick & Nickson, 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
+      ],
+      "title": "Invisible Intermediaries: A Systematic Review Into The Role of Research Management in University and Institutional Research Processes"
+    },
     "Derrington & Kendall, 2004": {
       "aliases": [
         "Derrington & Kendall, 2004",
@@ -80316,8 +80326,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md",
         "wiki/arguments/journal-articles/Oxford Review of Education/Argument_Ertl_2006_ORE.md",
-        "wiki/concepts/sociology-of-education/Pre-structured Learning Environment.md",
-        "wiki/concepts/sociology-of-education/Tracking.md"
+        "wiki/concepts/sociology-of-education/Pre-structured Learning Environment.md"
       ],
       "title": "PISA 2000. Basiskompetenz von Schülerinnen und Schülern im internationalen Vergleich"
     },
@@ -84065,6 +84074,21 @@
       "seen_in": [],
       "title": "A Randomized Trial of a Computer-Assisted Tutoring Program Targeting Letter-Sound Expression"
     },
+    "Ducas & Michaud-Oystryk, 2003": {
+      "aliases": [
+        "Ducas & Michaud-Oystryk, 2003",
+        "Ducas & Michaud-Oystryk (2003)"
+      ],
+      "doi": "10.5860/crl.64.1.55",
+      "identity_keys": [
+        "Ducas & Michaud-Oystryk, 2003"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
+      ],
+      "title": "Toward a New Enterprise: Capitalizing on the Faculty-Librarian Partnership"
+    },
     "Ducas et al., 2020": {
       "aliases": [
         "Ducas et al., 2020",
@@ -86016,7 +86040,7 @@
       "seen_in": [
         "wiki/theories/sociology-of-education/Institutional Work.md"
       ],
-      "title": ""
+      "title": "Networks, Crowds, and Markets"
     },
     "Easton, 2010": {
       "aliases": [
@@ -93013,7 +93037,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "The Governance of Higher Education Systems: A Public Management Perspective"
     },
     "Ferlito & De Proost, 2023": {
       "aliases": [
@@ -100017,6 +100041,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
       "title": "The Careers of University Professional Staff: A Systematic Literature Review"
@@ -100026,35 +100051,22 @@
         "Gander, 2018a",
         "Gander (2018a)"
       ],
-      "doi": "",
+      "doi": "10.1080/13603108.2017.1307876",
       "identity_keys": [
-        "Gander, 2018"
+        "Gander, 2018",
+        "Gander, 2018a"
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
-      "title": ""
+      "title": "A Descriptive Study of Professional Staff, and Their Careers, in Australian and UK Universities"
     },
     "Gander, 2018b": {
       "aliases": [
         "Gander, 2018b",
         "Gander (2018b)"
-      ],
-      "doi": "10.1080/13603108.2017.1307876",
-      "identity_keys": [
-        "Gander, 2018a"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
-      ],
-      "title": "A Descriptive Study of Professional Staff, and Their Careers, in Australian and UK Universities"
-    },
-    "Gander, 2018c": {
-      "aliases": [
-        "Gander, 2018c",
-        "Gander (2018c)"
       ],
       "doi": "",
       "identity_keys": [
@@ -102206,7 +102218,7 @@
         "Gibbs & Kharouf, 2020",
         "Gibbs & Kharouf (2020)"
       ],
-      "doi": "",
+      "doi": "10.1080/03075079.2020.1725878",
       "identity_keys": [
         "Gibbs & Kharouf, 2020"
       ],
@@ -103028,7 +103040,7 @@
         "Gioia et al., 2012",
         "Gioia et al. (2012)"
       ],
-      "doi": "",
+      "doi": "10.1177/1094428112452151",
       "identity_keys": [
         "Gioia et al., 2012"
       ],
@@ -103036,7 +103048,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "Seeking Qualitative Rigor in Inductive Research: Notes on the Gioia Methodology"
     },
     "Giorgia Pozzi, 2023": {
       "aliases": [
@@ -114673,8 +114685,10 @@
         "wiki/concepts/competency-and-assessment/Academic Achievement.md",
         "wiki/concepts/instruction-pedagogy/Cooperative Learning.md",
         "wiki/concepts/instruction-pedagogy/Cooperative, Competitive and Individualistic Learning.md",
+        "wiki/concepts/instruction-pedagogy/Peer-Supported Learning.md",
         "wiki/concepts/instruction-pedagogy/Selbstdidaktisierung.md",
         "wiki/concepts/instruction-pedagogy/Teacher Clarity.md",
+        "wiki/concepts/learning-science-cognitive-science/Learning Strategies.md",
         "wiki/concepts/learning-science-cognitive-science/Surface and Deep Learning.md",
         "wiki/methods/quantitative/Meta-meta-analysis.md"
       ],
@@ -116693,7 +116707,7 @@
         "Henkin & Persson, 1992",
         "Henkin & Persson (1992)"
       ],
-      "doi": "",
+      "doi": "10.1108/09578239210014487",
       "identity_keys": [
         "Henkin & Persson, 1992"
       ],
@@ -116701,7 +116715,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "Faculty as Gatekeepers: Non-Academic Staff Participation in University Governance"
     },
     "Henri-Jean Martin, 1976": {
       "aliases": [
@@ -117272,7 +117286,7 @@
         "Hessels et al., 2009",
         "Hessels et al. (2009)"
       ],
-      "doi": "",
+      "doi": "10.3152/030234209X442034",
       "identity_keys": [
         "Hessels et al., 2009"
       ],
@@ -117280,7 +117294,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "In Search of Relevance: The Changing Contract Between Science and Society"
     },
     "Hessen & Kuncel, 2022": {
       "aliases": [
@@ -117845,7 +117859,7 @@
         "Higman & Pinfield, 2015",
         "Higman & Pinfield (2015)"
       ],
-      "doi": "",
+      "doi": "10.1108/PROG-01-2015-0005",
       "identity_keys": [
         "Higman & Pinfield, 2015"
       ],
@@ -117853,7 +117867,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "Research Data Management and Openness: The Role of Data Sharing in Developing Institutional Policies and Practices"
     },
     "Hijkata & Koizumi, 2022": {
       "aliases": [
@@ -118749,7 +118763,7 @@
         "Hockey & Allen-Collinson, 2009",
         "Hockey & Allen-Collinson (2009)"
       ],
-      "doi": "",
+      "doi": "10.1111/j.1468-2273.2008.00409.x",
       "identity_keys": [
         "Hockey & Allen-Collinson, 2009"
       ],
@@ -118757,7 +118771,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "Occupational Knowledge and Practice Amongst UK University Research Administrators"
     },
     "Hodgen et al., 2019": {
       "aliases": [
@@ -123072,6 +123086,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md",
         "wiki/concepts/higher-education/Enabling Bureaucracy.md",
         "wiki/concepts/higher-education/Professional Support Staff.md",
@@ -124427,7 +124442,7 @@
         "Ito & Watanabe, 2021",
         "Ito & Watanabe (2021)"
       ],
-      "doi": "",
+      "doi": "10.1093/scipol/scaa074",
       "identity_keys": [
         "Ito & Watanabe, 2021"
       ],
@@ -124435,7 +124450,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "Multilevel Analysis of Research Management Professionals and External Funding at Universities: Empirical Evidence from Japan"
     },
     "Ito, 2020": {
       "aliases": [
@@ -128826,6 +128841,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
       "title": "Measuring the Quality of Faculty and Administrative Worklife: Implications for College and University Campuses"
@@ -129410,7 +129426,7 @@
         "Joo & Schmidt, 2021",
         "Joo & Schmidt (2021)"
       ],
-      "doi": "",
+      "doi": "10.1108/DLP-10-2020-0106",
       "identity_keys": [
         "Joo & Schmidt, 2021"
       ],
@@ -129418,7 +129434,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "Research Data Services from the Perspective of Academic Librarians"
     },
     "Joo et al., 2019": {
       "aliases": [
@@ -130813,7 +130829,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "Interacting Spheres Revisited"
     },
     "Kallenberg, 2020": {
       "aliases": [
@@ -133308,34 +133324,21 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "Academics and New Higher Education Professionals: Tensions, Reciprocal Influences and Forms of Professionalization"
     },
     "Kehm, 2015b": {
       "aliases": [
         "Kehm, 2015b",
         "Kehm (2015b)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.1007/978-3-319-16080-1_6",
       "identity_keys": [
+        "Kehm, 2015",
         "Kehm, 2015b"
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
-      ],
-      "title": ""
-    },
-    "Kehm, 2015c": {
-      "aliases": [
-        "Kehm, 2015c",
-        "Kehm (2015c)"
-      ],
-      "doi": "https://doi.org/10.1007/978-3-319-16080-1_6",
-      "identity_keys": [
-        "Kehm, 2015"
-      ],
-      "isbn": "",
-      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
       "title": "The influence of new higher education professionals on academic work"
@@ -136392,7 +136395,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "Guarding the Gatekeeper: University Research Managers in a Triple Helix Environment"
     },
     "Kirkland, 2019": {
       "aliases": [
@@ -141740,7 +141743,8 @@
       ],
       "isbn": "9783486745108",
       "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md"
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md",
+        "wiki/concepts/learning-science-cognitive-science/Learning Strategies.md"
       ],
       "title": "Was wirkt wirklich? Einschätzungen von Determinanten schulischen Lernens"
     },
@@ -143326,7 +143330,7 @@
         "Larsen, 2020",
         "Larsen (2020)"
       ],
-      "doi": "",
+      "doi": "10.1007/s11233-019-09053-w",
       "identity_keys": [
         "Larsen, 2020"
       ],
@@ -143335,7 +143339,7 @@
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
         "wiki/theories/sociology-of-education/Institutional Logics.md"
       ],
-      "title": ""
+      "title": "Managing the Complexity of Centres of Excellence: Accommodating Diversity in Institutional Logics"
     },
     "Larson et al., 2014": {
       "aliases": [
@@ -143629,7 +143633,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
-        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md",
+        "wiki/theories/science-policy/Cycle of Credit.md"
       ],
       "title": "Laboratory Life: The Construction of Scientific Facts"
     },
@@ -143671,7 +143676,7 @@
         "wiki/theories/political-economy-geopolitics/Governing at a Distance.md",
         "wiki/theories/research-methodology/Sociology of Measurement.md"
       ],
-      "title": ""
+      "title": "Science in Action"
     },
     "Latour, 1999": {
       "aliases": [
@@ -144273,7 +144278,7 @@
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
         "wiki/theories/sociology-of-education/Institutional Work.md"
       ],
-      "title": ""
+      "title": "Institutions and Institutional Work"
     },
     "Lawrence Herson, 1961": {
       "aliases": [
@@ -144321,14 +144326,14 @@
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
         "wiki/theories/sociology-of-education/Institutional Work.md"
       ],
-      "title": ""
+      "title": "Introduction: Theorizing and Studying Institutional Work"
     },
     "Lawrence et al., 2013": {
       "aliases": [
         "Lawrence et al., 2013",
         "Lawrence et al. (2013)"
       ],
-      "doi": "",
+      "doi": "10.1177/0170840613495305",
       "identity_keys": [
         "Lawrence et al., 2013"
       ],
@@ -144337,7 +144342,7 @@
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
         "wiki/theories/sociology-of-education/Institutional Work.md"
       ],
-      "title": ""
+      "title": "Institutional Work: Current Research, New Directions and Overlooked Issues"
     },
     "Lawson et al., 2003": {
       "aliases": [
@@ -150043,7 +150048,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "Boundaries and Professions: Toward a Processual Theory of Action"
     },
     "Liu, 2022": {
       "aliases": [
@@ -151403,21 +151408,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/reports-policy-documents/Argument_Hattie_2005_ACER.md"
-      ],
-      "title": ""
-    },
-    "Lounsbury, 2012": {
-      "aliases": [
-        "Lounsbury, 2012",
-        "Lounsbury (2012)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Lounsbury, 2012"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/theories/sociology-of-education/Institutional Logics.md"
       ],
       "title": ""
     },
@@ -167650,21 +167640,6 @@
       ],
       "title": ""
     },
-    "Mostafa, 2017": {
-      "aliases": [
-        "Mostafa, 2017",
-        "Mostafa (2017)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Mostafa, 2017"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
-      ],
-      "title": ""
-    },
     "Mosteller et al., 1996": {
       "aliases": [
         "Mosteller et al., 1996",
@@ -169060,7 +169035,7 @@
         "Musselin, 2013",
         "Musselin (2013)"
       ],
-      "doi": "",
+      "doi": "10.1007/s10734-012-9579-3",
       "identity_keys": [
         "Musselin, 2013"
       ],
@@ -169068,7 +169043,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "Redefinition of the Relationships Between Academics and Their University"
     },
     "Musshafen et al., 2021": {
       "aliases": [
@@ -175965,7 +175940,7 @@
         "Oertel, 2018",
         "Oertel (2018)"
       ],
-      "doi": "",
+      "doi": "10.1111/padm.12384",
       "identity_keys": [
         "Oertel, 2018"
       ],
@@ -175974,7 +175949,7 @@
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
         "wiki/theories/sociology-of-education/Institutional Logics.md"
       ],
-      "title": ""
+      "title": "The Role of Imprinting on the Adoption of Diversity Management in German Universities"
     },
     "Oettl, 2012": {
       "aliases": [
@@ -179263,7 +179238,7 @@
         "Paradeise & Thoenig, 2013",
         "Paradeise & Thoenig (2013)"
       ],
-      "doi": "",
+      "doi": "10.1177/0170840612473550",
       "identity_keys": [
         "Paradeise & Thoenig, 2013"
       ],
@@ -179271,7 +179246,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "Academic Institutions in Search of Quality: Local Orders and Global Standards"
     },
     "Paradeise & Thoenig, 2015": {
       "aliases": [
@@ -184452,7 +184427,7 @@
         "Pinfield et al., 2014",
         "Pinfield et al. (2014)"
       ],
-      "doi": "",
+      "doi": "10.1371/journal.pone.0114734",
       "identity_keys": [
         "Pinfield et al., 2014"
       ],
@@ -184460,7 +184435,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "Research Data Management and Libraries: Relationships, Activities, Drivers and Influences"
     },
     "Pinheiro et al., 2014": {
       "aliases": [
@@ -188117,7 +188092,7 @@
         "Qu, 2021",
         "Qu (2021)"
       ],
-      "doi": "",
+      "doi": "10.3167/latiss.2021.140302",
       "identity_keys": [
         "Qu, 2021"
       ],
@@ -188125,7 +188100,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "The Role of Grassroots Administrators in Building International Partnerships: A Multi-Level Governance Perspective"
     },
     "Quack & Hildebrandt, 1996": {
       "aliases": [
@@ -190193,7 +190168,7 @@
         "Reay & Jones, 2016",
         "Reay & Jones (2016)"
       ],
-      "doi": "",
+      "doi": "10.1177/1476127015589981",
       "identity_keys": [
         "Reay & Jones, 2016"
       ],
@@ -190202,7 +190177,7 @@
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
         "wiki/theories/sociology-of-education/Institutional Logics.md"
       ],
-      "title": ""
+      "title": "Qualitatively Capturing Institutional Logics"
     },
     "Reay et al., 2001": {
       "aliases": [
@@ -191350,7 +191325,7 @@
         "Rethlefsen et al., 2015",
         "Rethlefsen et al. (2015)"
       ],
-      "doi": "",
+      "doi": "10.1016/j.jclinepi.2014.11.025",
       "identity_keys": [
         "Rethlefsen et al., 2015"
       ],
@@ -191358,7 +191333,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "Librarian co-Authors Correlated with Higher Quality Reported Search Strategies in General Internal Medicine Systematic Reviews"
     },
     "Rethlefsen et al., 2021": {
       "aliases": [
@@ -191643,7 +191618,7 @@
         "Rhoades & Slaughter, 1991",
         "Rhoades & Slaughter (1991)"
       ],
-      "doi": "",
+      "doi": "10.2307/2112879",
       "identity_keys": [
         "Rhoades & Slaughter, 1991"
       ],
@@ -191651,7 +191626,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "Professors, Administrators, and Patents: The Negotiation of Technology Transfer"
     },
     "Rhoades & Sporn, 2002": {
       "aliases": [
@@ -196403,6 +196378,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
       "title": "A National Study on Midlevel Leaders in Higher Education: The Unsung Professionals in the Academy"
@@ -196947,21 +196923,6 @@
       "seen_in": [
         "wiki/arguments/journal-articles/New Zealand Journal of Educational Studies/Argument_Snook_2009_NZJES.md",
         "wiki/persons/new-zealand/Roy Nash.md"
-      ],
-      "title": ""
-    },
-    "Roy Suddaby, 2006": {
-      "aliases": [
-        "Roy Suddaby, 2006",
-        "Roy Suddaby (2006)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Roy Suddaby, 2006"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/theories/sociology-of-education/Institutional Work.md"
       ],
       "title": ""
     },
@@ -198305,7 +198266,7 @@
         "Ryttberg & Geschwind, 2019",
         "Ryttberg & Geschwind (2019)"
       ],
-      "doi": "",
+      "doi": "10.1007/s10734-019-00388-2",
       "identity_keys": [
         "Ryttberg & Geschwind, 2019"
       ],
@@ -198313,7 +198274,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "Professional Support Staff in Higher Education: Networks and Associations as Sense Givers"
     },
     "Ryttberg, 2020": {
       "aliases": [
@@ -200287,7 +200248,7 @@
         "Sanches, 2015",
         "Sanches (2015)"
       ],
-      "doi": "",
+      "doi": "10.1080/01930826.2015.1047273",
       "identity_keys": [
         "Sanches, 2015"
       ],
@@ -200295,7 +200256,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "From Tradition To Innovation: Exploring Administration Practices In Four Portuguese University Libraries"
     },
     "Sanchez et al., 2017": {
       "aliases": [
@@ -200822,7 +200783,7 @@
         "Sapir, 2020",
         "Sapir (2020)"
       ],
-      "doi": "",
+      "doi": "10.1080/1360080X.2020.1804657",
       "identity_keys": [
         "Sapir, 2020"
       ],
@@ -205245,7 +205206,7 @@
         "Sebalj et al., 2012",
         "Sebalj et al. (2012)"
       ],
-      "doi": "",
+      "doi": "10.1080/1360080X.2012.715994",
       "identity_keys": [
         "Sebalj et al., 2012"
       ],
@@ -205253,7 +205214,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "The Rise of 'Professional Staff' and Demise of the 'non-Academic': A Study of University Staffing Nomenclature Preferences"
     },
     "Sebba et al., 2012": {
       "aliases": [
@@ -206720,6 +206681,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md",
         "wiki/concepts/science-policy/Ghost Authorship.md"
       ],
@@ -207711,7 +207673,7 @@
         "Shields & Watermeyer, 2020",
         "Shields & Watermeyer (2020)"
       ],
-      "doi": "",
+      "doi": "10.1080/03075079.2018.1504910",
       "identity_keys": [
         "Shields & Watermeyer, 2020"
       ],
@@ -207720,7 +207682,7 @@
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
         "wiki/theories/sociology-of-education/Institutional Logics.md"
       ],
-      "title": ""
+      "title": "Competing Institutional Logics in Universities in the United Kingdom: Schism in the Church of Reason"
     },
     "Shields, 1996": {
       "aliases": [
@@ -213933,6 +213895,21 @@
       ],
       "title": ""
     },
+    "Sprague, 1994": {
+      "aliases": [
+        "Sprague, 1994",
+        "Sprague (1994)"
+      ],
+      "doi": "10.1016/0099-1333(94)90030-2",
+      "identity_keys": [
+        "Sprague, 1994"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
+      ],
+      "title": "Information-seeking Patterns of University Administrators and Nonfaculty Professional Staff Members"
+    },
     "Spratt, 2013": {
       "aliases": [
         "Spratt, 2013",
@@ -217875,7 +217852,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md",
-        "wiki/concepts/sociology-of-education/Tracking.md",
         "wiki/facts/global/PIRLS.md"
       ],
       "title": "Der Übergang von der Primar- in die Sekundarstufe"
@@ -218243,7 +218219,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "Challenges for Institutional Theory"
     },
     "Sudhirkumar & Pinalben, 2012": {
       "aliases": [
@@ -219810,7 +219786,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "Faculty Managers: A Constantly Changing Role"
     },
     "Szekeres, 2004": {
       "aliases": [
@@ -220301,7 +220277,7 @@
         "Takagi, 2015",
         "Takagi (2015)"
       ],
-      "doi": "",
+      "doi": "10.1007/BF03397089",
       "identity_keys": [
         "Takagi, 2015"
       ],
@@ -220309,7 +220285,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "Blurring Boundaries and Changing University Staff: The Case of the University of Hong Kong"
     },
     "Takahiro & Xingxi, 2009": {
       "aliases": [
@@ -220575,21 +220551,6 @@
       "isbn": "",
       "seen_in": [],
       "title": "Meta-Analysis of Cognitive Preferences and Learning"
-    },
-    "Tammar B. Zilber, 2013": {
-      "aliases": [
-        "Tammar B. Zilber, 2013",
-        "Tammar B. Zilber (2013)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Tammar B. Zilber, 2013"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/theories/sociology-of-education/Institutional Work.md"
-      ],
-      "title": ""
     },
     "Tamnes et al., 2013": {
       "aliases": [
@@ -223611,7 +223572,7 @@
         "Thornton & Ocasio, 1999",
         "Thornton & Ocasio (1999)"
       ],
-      "doi": "",
+      "doi": "10.1086/210361",
       "identity_keys": [
         "Thornton & Ocasio, 1999"
       ],
@@ -223620,7 +223581,7 @@
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
         "wiki/theories/sociology-of-education/Institutional Logics.md"
       ],
-      "title": ""
+      "title": "Institutional Logics and the Historical Contingency of Power in Organizations: Executive Succession in the Higher Education Publishing Industry, 1958–1990"
     },
     "Thornton et al., 2012": {
       "aliases": [
@@ -223633,9 +223594,10 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
+        "wiki/theories/sociology-of-education/Institutional Logics.md"
       ],
-      "title": ""
+      "title": "The Institutional Logics Perspective: A New Approach to Culture, Structure and Process"
     },
     "Thoutenhoofd, 2018": {
       "aliases": [
@@ -230755,6 +230717,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
       "title": "Imagining a Future: Changing the Landscape for Third Space Professionals in Australian Higher Education Institutions"
@@ -233596,7 +233559,7 @@
         "Wang & Jones, 2021",
         "Wang & Jones (2021)"
       ],
-      "doi": "",
+      "doi": "10.1080/1360080X.2020.1747958",
       "identity_keys": [
         "Wang & Jones, 2021"
       ],
@@ -233604,7 +233567,7 @@
       "seen_in": [
         "wiki/theories/sociology-of-education/Institutional Logics.md"
       ],
-      "title": ""
+      "title": "Competing Institutional Logics of Academic Personnel System Reforms in Leading Chinese Universities"
     },
     "Wang & Wu, 2023": {
       "aliases": [
@@ -236405,7 +236368,7 @@
         "Whetten, 1989",
         "Whetten (1989)"
       ],
-      "doi": "",
+      "doi": "10.2307/258554",
       "identity_keys": [
         "Whetten, 1989"
       ],
@@ -236413,7 +236376,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "What Constitutes a Theoretical Contribution?"
     },
     "Whicker, 1997": {
       "aliases": [
@@ -236455,7 +236418,7 @@
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
         "wiki/theories/sociology-of-education/Institutional Logics.md"
       ],
-      "title": ""
+      "title": "Academic and Professional Identities in Higher Education: The Challenges of a Diversifying Workforce"
     },
     "Whitchurch & Law, 2010": {
       "aliases": [
@@ -236483,7 +236446,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "Changing Professional and Academic Identities"
     },
     "Whitchurch, 2006": {
       "aliases": [
@@ -236535,7 +236498,7 @@
         "Whitchurch, 2010",
         "Whitchurch (2010)"
       ],
-      "doi": "",
+      "doi": "10.1007/s10734-010-9320-z",
       "identity_keys": [
         "Whitchurch, 2010"
       ],
@@ -236543,7 +236506,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "Some Implications of 'Public/Private' Space for Professional Identities in Higher Education"
     },
     "Whitchurch, 2015": {
       "aliases": [
@@ -236558,7 +236521,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "The Rise of Third Space Professionals: Paradoxes and Dilemmas"
     },
     "Whitchurch, 2020": {
       "aliases": [
@@ -236923,7 +236886,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
-      "title": ""
+      "title": "The Intellectual and Social Organization of the Sciences"
     },
     "Whitty & Edwards, 1994": {
       "aliases": [
@@ -237717,6 +237680,21 @@
       ],
       "title": ""
     },
+    "Wilkins & Leckie, 1997": {
+      "aliases": [
+        "Wilkins & Leckie, 1997",
+        "Wilkins & Leckie (1997)"
+      ],
+      "doi": "10.5860/crl.58.6.561",
+      "identity_keys": [
+        "Wilkins & Leckie, 1997"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
+      ],
+      "title": "University Professional and Managerial Staff: Information Needs and Seeking"
+    },
     "Wilkins, 1969": {
       "aliases": [
         "Wilkins, 1969",
@@ -238376,7 +238354,7 @@
         "Willmott, 2011",
         "Willmott (2011)"
       ],
-      "doi": "",
+      "doi": "10.1177/1056492610387224",
       "identity_keys": [
         "Willmott, 2011"
       ],
@@ -238385,7 +238363,7 @@
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
         "wiki/theories/sociology-of-education/Institutional Work.md"
       ],
-      "title": ""
+      "title": "\"Institutional Work\" for What? Problems and Prospects of Institutional Theory"
     },
     "Willower, 1983": {
       "aliases": [

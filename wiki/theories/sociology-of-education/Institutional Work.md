@@ -59,7 +59,7 @@ updated: 2026-11-26
 > - **解释对象** 组织成员嵌入日常实践与惯例中的微观行动如何积极创设、维持或破坏[[Institutional Logics|制度逻辑]]，进而引发渐进或结构性的制度变迁。
 > - **理论问题** 解答缺乏正式顶层权威的普通或边缘行动者（非高层管理者），如何通过日常工作程序与人际互动塑造组织规范并实现制度影响力。
 > - **理论类型** 组织社会学过程导向[[Analytic Framework|分析框架]]与微观制度实践视角。
-> - **知识位置** 由托马斯·劳伦斯（Thomas B. Lawrence）与罗伊·萨达比（Roy Suddaby, 2006）系统提出，植根于组织制度主义转向，在理论谱系上与侧重蓄意宏大变革的“制度创业”（institutional entrepreneurship）相区隔，并与[[Institutional Maintenance|制度维护]]概念及[[Institutional Logics|制度逻辑]]理论直接衔接。[[Argument_DeJong_2024_SHE|(de Jong & del Junco, 2024, p. 1057)]]
+> - **知识位置** 由托马斯·劳伦斯（Thomas B. Lawrence）与罗伊·萨达比（Roy Suddaby）系统提出（Lawrence & Suddaby, 2006），植根于组织制度主义转向，在理论谱系上与侧重蓄意宏大变革的“制度创业”（institutional entrepreneurship）相区隔，并与[[Institutional Maintenance|制度维护]]概念及[[Institutional Logics|制度逻辑]]理论直接衔接。[[Argument_DeJong_2024_SHE|(de Jong & del Junco, 2024, p. 1057)]]
 
 > [!claim] 核心判断
 > 制度逻辑的创设、维持与破坏不仅取决于高层决策者的蓄意变革设计，更通过行动者嵌入日常工作惯例、战略文本起草、资源管理与互动协商中的微观实践（即制度工作）持续发生；边缘行动者借此能够影响乃至重塑既有制度规范。[[Argument_DeJong_2024_SHE|(de Jong & del Junco, 2024)]]
@@ -67,7 +67,7 @@ updated: 2026-11-26
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 托马斯·劳伦斯与罗伊·萨达比于 2006 年在《组织研究手册》（*Handbook of Organization Studies*）第二版发表《制度与制度工作》（*Institutions and Institutional Work*），系统建构该分析框架，随后劳伦斯、萨达比与贝尔纳·莱卡（Bernard Leca, 2009, 2013）及伊娃·齐尔伯（Tammar B. Zilber, 2013）进一步拓展了非高层执行者制度工作的研究议程（[[Primary and Secondary Documents|原始文献]]尚未入库，以下据二手[[Document|文献]]整理）。
+> - **提出者与原始文本** 托马斯·劳伦斯与罗伊·萨达比于 2006 年在《组织研究手册》（*Handbook of Organization Studies*）第二版发表《制度与制度工作》（*Institutions and Institutional Work*），系统建构该分析框架，随后劳伦斯、萨达比、贝尔纳·莱卡（Bernard Leca）及伊娃·齐尔伯（Tammar B. Zilber）进一步拓展了非高层执行者制度工作的研究议程（Lawrence et al., 2009, 2013；原始[[Primary and Secondary Documents|文献]]尚未入库，相关介绍均据二手[[Document|文献]]整理）。
 > - **原初问题** 既有制度理论往往只关注宏观制度趋同或少数强势“制度创业者”的蓄意改革，难以捕捉普通从业者在日常惯例中如何悄然维系或改写制度规则。
 > - **理论资源与材料** 整合组织制度分析对结构合法性的关注与实践理论对日常微观行动的重视，强调日常例行活动而非单纯的戏剧性突破（Willmott, 2011；据二手文献引述）。
 > - **形成路径** 将行动者围绕制度展开的微观活动归类为创设（creating）、维护（maintaining）与破坏（disrupting）三类基本工作形态，把分析焦点从静态制度结果转向过程与贡献导向的日常实践。[[Argument_DeJong_2024_SHE|(de Jong & del Junco, 2024, p. 1057)]]
