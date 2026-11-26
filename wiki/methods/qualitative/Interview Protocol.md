@@ -64,7 +64,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-11-25
+updated: 2026-11-26
 ---
 
 ---
@@ -81,7 +81,7 @@ updated: 2026-11-25
 > [!citation-card] [[Variable|变量]]操作化与问题构建
 > 访谈提纲的构建涉及将研究目标转化为具体问题。第一步是写下要研究的[[Variable|变量]]，变量告诉研究者从哪里开始（Tuckman, 1972）。构建时需系统权衡问题格式、回答模式、提示与追问。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|(Cohen et al., 2011, pp. 418–420)]]
 >
-> *The first [[Skills Toward Employment and Productivity|step]] in constructing interview questions is to specify your variables by name. Your variables are what you are trying to measure. They tell you where to begin. (Tuckman, 1972)*
+> *The first step in constructing interview questions is to specify your variables by name. Your variables are what you are trying to measure. They tell you where to begin. (Tuckman, 1972)*
 
 ---
 
@@ -213,7 +213,7 @@ updated: 2026-11-25
 
 > [!method-limits] 方法局限
 > - **偏误来源** 过于刻板地机械对照提纲逐字提问会破坏交流的自然流畅感；提纲预设的问题分类可能投射研究者自身的文化偏见与认知盲区。
-> - **适用边界** 协议效用取决于访谈设计的结构化取向：高度[[Semi-structured Interview|半结构化访谈]]中协议起骨架支撑作用，而在纯非结构化漫谈中协议仅作为松散的反思备忘备忘录。
+> - **适用边界** 协议效用取决于访谈设计的结构化取向：高度[[Semi-structured Interview|半结构化访谈]]中协议起骨架支撑作用，而在纯非结构化漫谈中协议仅作为松散的反思备忘录。
 > - **误用风险** 初学者常陷入“问题清单过长”误区（试图罗列数十个细碎问题），挤压受访者自由展开与深度追问的宝贵时间。
 > - **补救方式** 必须实施严密的[[Pilot Testing|预测试]]以淘汰敏感、晦涩或无效问题；访谈者应在进场前熟化提纲核心线索，结合[[Probes|追问提示]]灵活引导。
 
@@ -237,3 +237,4 @@ updated: 2026-11-25
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al. (2011)]] — 全面解构访谈提纲的项目类型、问题格式、回答模式与提示追问体系，建构半结构化提纲设计的操作标准（Ch. 21）。
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 系统构建包含引言、内容问题、追问提示与结束说明的四部分标准化访谈协议框架（Ch. 9）。
 > - [[Argument_Hippach-Schneider_Rieder_2022_RCIE|Hippach-Schneider and Rieder (2022)]] — 针对德瑞两国 16 位核心行动者编制开放式半结构化访谈提纲，围绕治理结构与制度张力开展引导，捕捉数字化进程中未预期的制度摩擦（p. 625）。
+> - [[Argument_DeJong_2026_SHE|de Jong (2026)]] — 基于 Spradley (1979) 原则设计非引导式双主问访谈提纲（聚焦日常工作内容与自认工作成就），配合即时笔记追问与口头总结核验以避免强加预设理论概念（p. 1243）。

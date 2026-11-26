@@ -10,9 +10,9 @@ summary: "一种通过系统评估文献的真实性、可靠性、意义和语�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 99
-method_related_level: 9
-method_related_stars: "💎💎💎"
+method_related_count: 103
+method_related_level: 10
+method_related_stars: "💎💎💎⭐"
 method_related_color: "#dbeafe"
 cssclasses:
   - method-manual
@@ -39,13 +39,13 @@ related_concepts:
   - "[[Market Fundamentalism]]"
   - "[[Champ]]"
   - "[[Policy Translation]]"
-  - "[[Critical Thinking]]"
-  - "[[Construct Validity]]"
   - "[[Creativity]]"
   - "[[Critical Thinking Assessment]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Evidence Standards]]"
   - "[[Rationalized Myth]]"
+  - "[[Critical Thinking]]"
+  - "[[Construct Validity]]"
   - "[[Research Utilization]]"
   - "[[Research Universities]]"
   - "[[Technology Transfer]]"
@@ -74,12 +74,14 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12]]"
   - "[[Argument_Block_2008_PS]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
+  - "[[Argument_DeJong_2024_SHE]]"
   - "[[Argument_King_2007_CE]]"
   - "[[Argument_Alexiadou_Rambla_2023_EERJ]]"
-  - "[[Argument_Hughes_2014_JRIE]]"
   - "[[Argument_Bouckaert_2023_OECD]]"
   - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
   - "[[Argument_Helgetun_2022_JEdPolicy]]"
+  - "[[Argument_Hippach-Schneider_Rieder_2022_RCIE]]"
+  - "[[Argument_Hughes_2014_JRIE]]"
   - "[[Argument_Kelly_2025_ROE]]"
   - "[[Argument_Edmondson_2005_EPAA]]"
   - "[[Argument_Reynolds_2024_JICT]]"
@@ -120,9 +122,11 @@ related_facts:
   - "[[World Bank]]"
   - "[[ASEAN]]"
 related_theories:
+  - "[[Institutional Logics]]"
   - "[[Beech's Model of Discourse Circulation]]"
   - "[[Developmental Network State]]"
   - "[[Integrated Marketing Communications Theory]]"
+  - "[[Institutional Work]]"
 related_persons:
   - "[[Karl Marx]]"
   - "[[Fred Block]]"
@@ -130,7 +134,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-11-21
+updated: 2026-11-26
 ---
 
 ---
@@ -184,7 +188,7 @@ updated: 2026-11-21
 > 1. **文本搜集与谱系建构** 系统搜集国家母法、部委规章、中央与地方课程指南或国际组织白皮书，建立自上而下的政策指令链条并完成法案编目。
 > 2. **编码与制度功能解构** 提取法定赋权条款、关键概念定义与指标规定（如专利下放、反垄断豁免、[[Cooperative Research and Development Agreement|CRADA]] 授权），解构政策方案中的工具配置与微观干预机制。
 > 3. **意识形态与[[Discourse|话语]]反思** 细致比对文本表层的现代化修辞（如“市场化改革”、“跨学科综合”、“[[Country Ownership|国家自主拥有]]”）与其深层知识架构和排他性预设，识别两党政治妥协或外部规训机制。
-> 4. **多源材料[[Triangulation|三角互证]]与校准** 将政策法规文献与纵向实证数据（如资金流向、项目成果转移）、商业衍生出版物或[[Qualitative Interview|质性访谈]]进行交叉比对，检验文本承诺与实践落地的真实距离，避免落入将政策文字误当作教育现实的文献实证主义陷阱。[[Argument_Block_2008_PS|(Block, 2008, pp. 176–188)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–355)]]
+> 4. **多源材料[[Triangulation|三角互证]]与校准** 将政策法规文献与纵向实证数据（如资金流向、项目成果转移）、商业衍生出版物或[[Qualitative Interview|质性访谈]]进行交叉比对，检验文本承诺与实践落地的真实距离，避免落入将政策文字误当作教育现实的文献实证主义陷阱；在组织制度分析中，还可通过对比培训大纲、专业协会会议摘要、岗位招聘启事以及追踪战略政策从初稿到定稿的连续修订文本，识别日常制度工作与[[Institutional Logics|制度逻辑]]的变迁痕迹。[[Argument_Block_2008_PS|(Block, 2008, pp. 176–188)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–355)]]; [[Argument_DeJong_2024_SHE|(de Jong & del Junco, 2024, pp. 1056–1057)]]
 
 > [!dimension] 文献分析的三种理论传统（Jupp & Norris, 1993）
 > - **实证主义传统（positivist approach）** 主张客观、系统、理性和量化的研究，寻求文本中的客观事实与频率证据（如 Halstead, 1988 对媒体文献的量化考察）。
@@ -247,3 +251,4 @@ updated: 2026-11-21
 > - [[Argument_Yang_2023_ICE|杨明全和邓丽 (2023)]] — 系统梳理芬兰[[Nation Branding|国家品牌]]代表团报告、教育出口战略与海外媒体文本，运用[[Integrated Marketing Communications Theory|整合营销传播]]分析框架解构国家教育品牌形象建构与传播策略（pp. 3–9）。
 > - [[Argument_Chua_2011_CILP|Chua (2011)]] — 综合运用政策文本分析、课程大纲与官方统计数据，系统解构新加坡自上而下的语言教育规划体系，揭示懂英语[[Bilingual Education Policy|双语政策]]的运行机制与成效局限（pp. 125–142）。
 > - [[Argument_Natario_2025_IndHE|Natário and Oliveira (2025)]] — 依托政府、创新署及高校官方平台与社会经济组织一手文献，结合学术数据库定向检索，系统分析葡萄牙理工学院四个区域创新与共创案例。
+> - [[Argument_DeJong_2024_SHE|de Jong and del Junco (2024)]] — 提出通过对比职业协会大纲、会议摘要与岗位招聘启事识别制度逻辑变迁，并追踪专业支持人员撰写的战略政策连续修订草案以捕捉日常[[Institutional Work|制度工作]]（pp. 1056–1057）。

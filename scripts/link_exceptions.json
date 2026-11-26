@@ -1699,12 +1699,28 @@
     {
       "sentence": "**话语误读与体制对照**",
       "target": "wiki/concepts/research-methodology/Discourse.md"
+    },
+    {
+      "sentence": "**个体责任（Individual Accountability）** 每个人不仅要对自身的学习进程负责，还要对小组工作进程和最终共同完成的作业成果负责，防止搭便车。",
+      "target": "wiki/concepts/instruction-pedagogy/Homework.md"
     }
   ],
   "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md": [
     {
       "sentence": "54 篇英语实证文献显示，高校专业支持人员学历越来越高，拥有企业与私营部门经验的人正在取代传统公共或学术背景者。",
       "target": "wiki/concepts/research-methodology/Document.md"
+    }
+  ],
+  "wiki/methods/qualitative/Ethnography.md": [
+    {
+      "sentence": "玛格丽特·勒孔特与朱迪思·普赖斯尔（Margaret D.",
+      "target": "wiki/persons/us/Derek de Solla Price.md"
+    }
+  ],
+  "wiki/methods/qualitative/Open Coding.md": [
+    {
+      "sentence": "乌韦·弗里克（Uwe Flick, 2009, p.",
+      "target": "wiki/persons/uk/Miranda Fricker.md"
     }
   ]
 }

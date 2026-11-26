@@ -7,7 +7,7 @@ summary: "通过明确的纳入标准和系统搜索策略识别、筛选与评�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 92
+method_related_count: 91
 method_related_level: 9
 method_related_stars: "💎💎💎"
 method_related_color: "#dbeafe"
@@ -43,14 +43,12 @@ related_concepts:
   - "[[Chain of Evidence]]"
   - "[[Ecological Validity]]"
   - "[[Visible Learning]]"
-  - "[[The Sublime]]"
   - "[[Research Utilization]]"
   - "[[Profession-Sensitive Conceptualisations of Research Use]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Counterfactual]]"
   - "[[Evaluation Research]]"
   - "[[Test-Based Accountability]]"
-  - "[[Alienation]]"
 related_theories:
   - "[[Critical Realism]]"
   - "[[Realist Evaluation]]"
@@ -81,7 +79,9 @@ related_methods:
 related_persons: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
+  - "[[Argument_Brugelmann_2014_LocalPractice]]"
   - "[[Argument_Higgins_2016_ROE]]"
+  - "[[Argument_DeJong_2024_SHE]]"
   - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
   - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
@@ -96,7 +96,6 @@ related_arguments:
   - "[[Argument_Ginsberg_2024_EducPolicy]]"
   - "[[Argument_Verger_2019_Discourse]]"
   - "[[Argument_Volmari_2025_CE]]"
-  - "[[Argument_Brugelmann_2014_LocalPractice]]"
 related_facts:
   - "[[EPPI-Centre]]"
   - "[[Education Resources Information Center]]"
@@ -171,7 +170,7 @@ updated: 2026-11-26
 
 > [!proc] 通用程序
 > 1. **界定[[Research Question|研究问题]]与拟定注册协议（Protocol）** 运用 [[PICO Framework|PICO]]（人群、干预、对照、产出）或 SPIDER 框架精准界定研究边界，明确界定纳入与排除标准；在 PROSPERO 或 Open Science Framework（[[Open Society Institute|OSF]]）公开[[Preregistration|预注册]]研究方案，锁定方法学设计以规避事后数据窥探。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 32)]]
-> 2. **系统与穷尽式[[Literature Search|文献检索]]** 研制布尔逻辑检索式，联合受控词表（MeSH/Thesaurus）与自由文本关键词，横跨多个国际数据库执行全样本检索；严密记录检索时间、语法与命中篇数，补充灰色文献与未发表报告以遏制[[Publication Bias|发表偏倚]]。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 43)]]
+> 2. **系统与穷尽式[[Literature Search|文献检索]]** 研制布尔逻辑检索式，联合受控词表（MeSH/Thesaurus）与自由文本关键词，横跨多个国际数据库执行全样本检索；严密记录检索时间、语法与命中篇数，补充灰色文献与未发表报告以遏制[[Publication Bias|发表偏倚]]。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 43)]] 面对跨国岗位称谓或术语高度分散的领域，单一数据库关键词检索易遗漏相关文献，需结合宽口径篇名检索、多轮前后向引文滚雪球追踪直至饱和，并测试替代词条检验盲区。[[Argument_DeJong_2024_SHE|(de Jong & del Junco, 2024, pp. 1045–1047, 1060)]]
 > 3. **双人独立筛选与质量风险评估** 至少两位独立评审员基于标题/摘要开展初筛，随后获取全文进行二阶深筛，计算[[Intercoder Agreement|编码一致性]]系数（Cohen's Kappa）；随后运用公认评估工具针对选择偏倚、实施偏倚、测量偏倚与损耗偏倚进行方法学质量评级。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 38)]]
 > 4. **结构化数据提取与证据综合** 提取样本特征、干预剂量、控制条件、测量工具及[[Effect Size|效应量]]数据；依据研究问题的认识论属性，选择开展定量[[Meta-analysis|元分析]]统计合并，或开展[[Thematic Synthesis|质性主题综合]]与实在论机制提炼。
 > 5. **提炼结论、评估确定性与编制报告** 运用 GRADE 等工具对证据体的整体确定性进行分级判定，清晰指出方法学局限，严谨推导政策与实践启示，严格对照 [[PRISMA]] 检查清单撰写规范技术报告。
@@ -208,7 +207,7 @@ updated: 2026-11-26
 ---
 
 > [!method-limits] 方法局限
-> - **偏误来源与“垃圾进，垃圾出”困境** 检索策略漏检未公开发表成果将直接引发严重的[[Publication Bias|发表偏倚]]；纳入标准过严会导致有价值的[[Ecological Validity|生态效度]]研究被机械剔除，标准过宽则引入低质量研究污染证据体。Eysenck 针对元分析提出的“垃圾进，垃圾出”（Garbage in, garbage out）批评对系统综述同样构成挑战。[[Argument_Higgins_2016_ROE|(Higgins, 2016, pp. 35, 38)]]
+> - **偏误来源与“垃圾进，垃圾出”困境** 检索策略漏检未公开发表成果将直接引发严重的[[Publication Bias|发表偏倚]]；纳入标准过严会导致有价值的[[Ecological Validity|生态效度]]研究被机械剔除，标准过宽则引入低质量研究污染证据体。Eysenck 针对元分析提出的“垃圾进，垃圾出”（Garbage in, garbage out）批评对系统综述同样构成挑战。[[Argument_Higgins_2016_ROE|(Higgins, 2016, pp. 35, 38)]] 此外，在专业实务高度活跃的组织治理领域，仅收录英语索引期刊与专著而排除灰色与行业报告，可能遗漏从业人员直接书写的内部实践视角；同时需制定明确的对象剥离标准，剔除将目标群体与其他人员混同统计而无法单列识别的文献。[[Argument_DeJong_2024_SHE|(de Jong & del Junco, 2024, pp. 1046, 1059–1060)]]
 > - **网络证据门户的“系统性标准塌陷”（Gough & White, 2018; [[Argument_Gough_2022_EvidenceOnEIPP|Gough et al., 2022]]）**
 >   [[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, pp. 154–155)]] 与 Gough and White (2018) 对全球 15 个代表性网络证据门户的方法学调查揭示了实证事实：仅有 40.0%（6 个）证据门户严格遵循系统综述标准，其余 60% 均不同程度地退化为单兵研究评定：
 >   - **打包方案类门户的全面塌陷（0% 综述率）** 面向具体商业干预方案（Packaged Programmes）的 5 个门户（如 [[Social Programs That Work]]）完全未设立系统综述要求（0% 综述率），其判定方案“有效”并授予顶级证据等级完全依据 1–2 项单兵试验（如 1–2 项高质量 [[Randomised Controlled Trials|RCT]]）。这种做法存在极高的挑选性偏倚风险，掩盖了同一干预在其他情境中可能存在的零效应或负效应；
@@ -255,6 +254,6 @@ updated: 2026-11-26
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 对《可见的学习》2,111 项元分析开展预注册审计，对照 PRISMA 与 MECCIR 规范发现仅 19.3% 满足 PICO 要求，并存在严重数据缺失。
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 追踪[[Swedish Schools Inspectorate|瑞典学校督察局]]在开展质量审计时对“知识综述”（Knowledge Review）的编制与使用机制，揭示官方如何依托单一片面范式组织综述并规训学术多元性（pp. 648–650）。
 > - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 基于 Scopus 数据库检索并筛选 158 篇教育治理实证文献，采用国别提取表聚合跨期碎片研究，系统分析国家评估与[[Test-Based Accountability|考试问责]]在全球三大行政传统下的扩散演进。（pp. 252–253）
-> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 实证揭示北欧教育改革起草中系统综述的差[[Alienation|异化]]动员机制：改革委员会在学习科学领域优先依托系统综述构筑政策合法性，而在课程领域则因跨国情境变异转向非经验分析与混合知识库（pp. 535–538）。
+> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 实证揭示北欧教育改革起草中系统综述的差异化动员机制：改革委员会在学习科学领域优先依托系统综述构筑政策合法性，而在课程领域则因跨国情境变异转向非经验分析与混合知识库（pp. 535–538）。
 > - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014)]] — 援引萨克特循证医学三维平衡模型，论证系统综述产出的外部统计证据仅构成实践探索假说，必须与一线教师专业专长及学生个体价值平起平坐，由累积性个案检验其实践适用性（pp. 45–47）。
-> - [[Argument_DeJong_2024_SHE|de Jong and del Junco (2024)]] — 联合 WoS 与 Scopus 篇名检索及多轮前后向引文追踪，从 2,917 篇去重记录中筛选 54 篇英语一手实证研究开展 Gioia 归纳编码。
+> - [[Argument_DeJong_2024_SHE|de Jong and del Junco (2024)]] — 联合 WoS 与 Scopus 篇名检索、多轮前后向引文滚雪球追踪及替代词补检测试，从 2,917 篇去重记录中筛选 54 篇英语一手实证研究开展 Gioia 归纳编码（pp. 1045–1047, 1059–1060）。

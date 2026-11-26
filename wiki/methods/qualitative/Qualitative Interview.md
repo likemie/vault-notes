@@ -102,7 +102,7 @@ updated: 2026-11-26
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** [[Interpretivism|诠释主义]]与[[Constructivist Paradigm|建构主义]]取向；认为知识是在研究者与受访者的言语互动中共同生产的，而非预先固化在受访者脑中等待被动提取。核心遵循[[Fitness for Purpose|适合目的]]原则：越追求标准化可比性，访谈越结构化；越追求捕捉复杂个体生活世界的独特性，访谈越开放和非结构化。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|(Cohen et al., 2011, p. 414)]]
 > - **研究者角色** 研究者即测量工具本身；需要兼备深厚的主题知识储备与敏锐的人际沟通技巧，在访谈中建立融洽关系、反思权力不对称，并全程保持[[Reflexivity|反思性]]。
-> - **有效性标准** 依靠资料收集与分析过程的严谨性、追问的深度与丰富性、受访者的投入程度与诚实性；通过[[Triangulation|三角互证]]、[[Member Checking|成员核查]]与[[Audit Trail|审计追踪]]实现可[[Reliability|信度]]。
+> - **有效性标准** 依靠资料收集与分析过程的严谨性、追问的深度与丰富性、受访者的投入程度与诚实性；通过[[Triangulation|三角互证]]、[[Member Checking|成员核查]]与[[Audit Trail|审计追踪]]实现可信度。
 > - **不声称回答的问题** 不能提供大样本总体的精确参数估计；单次访谈叙述无法直接作为外部客观事实的因果证明；不适合大规模标准化计量比较。
 
 > [!method-stack] 方法层级
@@ -147,7 +147,7 @@ updated: 2026-11-26
 > [!method-fit] 适用判断
 > - **适合使用** 适合探索参与者的主观经验、意义建构与生活世界；调查复杂制度变革中行动者的动机、策略与情感反应；探究尚未建立成熟理论的新现象；以及为微观教育实践提供丰富厚实的情境描述。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 9)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|(Cohen et al., 2011, Ch. 21)]]
 > - **谨慎使用** 在层级森严或存在显著利益冲突的组织中，受访者可能出于防御心理提供策略性陈述；跨文化访谈中需防范语言误译与文化假定；极度创伤或敏感议题须有充分的心理与伦理保护机制。
-> - **不适合使用** 寻求大样本总体参数概率推论的研究；需要严格控制混杂[[Variable|变量]]以验证因果假设的[[Experimental Research|实验设计]]；以及仅需标准化统计计[[Quantitative Research|量的研究]]问题。
+> - **不适合使用** 寻求大样本总体参数概率推论的研究；需要严格控制混杂[[Variable|变量]]以验证因果假设的[[Experimental Research|实验设计]]；以及仅需标准化统计计量的[[Quantitative Research|量化研究]]问题。
 
 ---
 
@@ -178,4 +178,4 @@ updated: 2026-11-26
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al. (2011, Ch. 21)]] — 全面阐述访谈的[[Epistemology|认识论]]定位、规划实施七阶段、转录数据损失挑战以及全流程伦理规范。
 > - [[Argument_ODwyer_Filieri_OMalley_2023_JTT|O'Dwyer et al. (2023)]] — 结合 10 次跨国企业与学术机构[[Semi-structured Interview|半结构化访谈]]，深入剖析产学研发合作网络的动态演化机制。
 > - [[Argument_Hogan_2013_ROE|Hogan et al. (2013)]] — 在大规模量化调查与课堂观察之余，对新加坡典型中学教师实施深度质性访谈，揭示教师面对考试锦标赛与课程创新双重压力时的叙事建构与应对机制（p. 89）。
-> - [[Argument_DeJong_2026_SHE|de Jong (2026)]] — 采用基于 Spradley (1979) 的非引导式双主问访谈协议，对美国精英研究型大学 22 名跨层级专业支持人员开展 50–60 分钟访谈。
+> - [[Argument_DeJong_2026_SHE|de Jong (2026)]] — 采用基于 Spradley (1979) 的非引导式双主问访谈协议，对美国研究型大学 22 名跨层级专业支持人员开展 50–60 分钟访谈（pp. 1243–1244）。

@@ -8,9 +8,9 @@ summary: "Bartlett 与 Vavrus 提出的突破传统封闭单元的比较研究�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 69
-method_related_level: 6
-method_related_stars: "💎💎"
+method_related_count: 71
+method_related_level: 7
+method_related_stars: "💎💎⭐"
 method_related_color: "#dbeafe"
 cssclasses:
   - method-manual
@@ -95,10 +95,12 @@ related_arguments:
   - "[[Argument_Castro_2009_MultilateralBanks]]"
   - "[[Argument_Morgan_Shahjahan_2014_CE]]"
   - "[[Argument_Chou_2017_PolSoc]]"
+  - "[[Argument_Maassen_Stensaker_2019_HEQ]]"
+  - "[[Argument_Ryttberg_Geschwind_2021_TEM]]"
 confidence: high
 status: active
 created: 2026-05-19
-updated: 2026-11-24
+updated: 2026-11-26
 ---
 
 ---
@@ -206,3 +208,4 @@ updated: 2026-11-24
 > - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] — 采用基于政策部门的跨区域比较案例研究设计，深度对比欧洲与东南亚高等教育区域治理的制度建构路径，揭示两地在政策理念、组织分工与知识话语吸纳机制上的类型差异（pp. 146–148）。
 > - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 采用比较案例研究设计，系统对比中国长三角、[[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]]与海南自贸港三个国际教育枢纽的办学形态、产学政合作机制与区域经济转型路径。
 > - [[Argument_Maassen_Stensaker_2019_HEQ|Maassen and Stensaker (2019)]] — 采用国际比较案例研究设计，深度对比 5 国领先研究型大学中 4 个学科院系的内部治理与管理实践，实证揭示科层强化下行政专门化与学术活动之间的脱钩机制（pp. 459–460）。
+> - [[Argument_Ryttberg_Geschwind_2021_TEM|Ryttberg and Geschwind (2021)]] — 基于相似性原则选取荷兰与挪威各一所研究型大学开展比较案例研究，在稳定财政与 NPM 契约治理背景下对比两校专业支持服务的集权重组路径（pp. 50–51）。

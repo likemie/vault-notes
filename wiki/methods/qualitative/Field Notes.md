@@ -42,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-11
-updated: 2026-11-19
+updated: 2026-11-26
 ---
 
 ---
@@ -133,3 +133,4 @@ updated: 2026-11-19
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011, Ch. 14)]] — 在个案研究中系统论述实地观察记录规程，汇集 Lofland 的七条记录原则与 Wolcott 及时完成笔记的核心戒律（pp. 295–296）；并在 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Ch. 23]] 深入辨析田野笔记的描述与反思双重面向、日志层级与分析单位。
 > - [[Argument_Xie_2017_PKUER|谢爱磊 (2017)]] — 在中部县域为期一年的教育民族志田野工作中，遵循民族志规范建立四级田野日志系统（基础信息略记、行程工作日志、日常感悟日记与完整深度田野笔记），扎实支撑底层生活史与教育观念重构。
+> - [[Argument_DeJong_2026_SHE|de Jong (2026)]] — 在每次访谈期间与结束后即时撰写日志记录要点及办公室物理象征物，并在资料收集期通过重读田野笔记归纳两大涌现主题以指导后续追问（pp. 1243–1244）。

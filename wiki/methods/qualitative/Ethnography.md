@@ -96,11 +96,11 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-30
-updated: 2026-11-19
+updated: 2026-11-26
 ---
 
 > [!def] Ethnography
-> 民族志（Ethnography）是一种源自人类学与社会学的[[Qualitative Research|质性研究]]设计。研究者在自然情境中长时间观察一个完整的文化群体（cultural group），系统考察其共享的行为模式、语言体系、价值信念与日常行动（Wolcott, 1994; Fetterman, 2010）。玛格丽特·勒孔特与朱迪思·[[Derek de Solla Price|普赖斯]]尔（Margaret D. LeCompte & Judith Preissle, 1993, p. 235）进一步将民族志界定为兼具**探究方法、探究结果与探究记录**的过程，旨在尽可能生动地重构所研究群体的文化全貌与生活世界（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011, pp. 405–406]]）。
+> 民族志（Ethnography）是一种源自人类学与社会学的[[Qualitative Research|质性研究]]设计。研究者在自然情境中长时间观察一个完整的文化群体（cultural group），系统考察其共享的行为模式、语言体系、价值信念与日常行动（Wolcott, 1994; Fetterman, 2010）。玛格丽特·勒孔特与朱迪思·普赖斯尔（Margaret D. LeCompte & Judith Preissle, 1993, p. 235）进一步将民族志界定为兼具**探究方法、探究结果与探究记录**的过程，旨在尽可能生动地重构所研究群体的文化全貌与生活世界（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011, pp. 405–406]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 自然情境中的完整文化群体、学校组织、班级社群与职业[[Communities of Practice|实践共同体]]的日常行为模式、语言体系、象征仪式与生活实践。
@@ -205,3 +205,4 @@ updated: 2026-11-19
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 评述多项比较教育人类学民族志经典（Demerath, 1999; Anderson-Levitt, 2003, 2004; Stacki, 1999），论证民族志作为揭示全球化微观运行机制的核心工具，并剖析单点田野与宏观体系分析之间的尺度张力。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 128, 130–131)]] — 考证比较教育学研究策略的演进，指出民族志等常规社会[[Scientific Method|科学方法]]的激增标志着学科摆脱[[Primary and Secondary Documents|二手文献]]综述；将民族志确立为打破战后单一功能主义霸权的 26 种重要[[Paradigm|范式]]传统之一。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, pp. 155–156)]] — 考证 20 世纪 80–90 年代课堂民族志（如 [[Robin Alexander]] 的教学研究）与人类学调查广泛进入比较教育学、终结功能主义垄断的历程，并警示其与学科“[[Historical Amnesia|历史健忘症]]”并存的史学悖论。
+> - [[Argument_DeJong_2026_SHE|de Jong (2026)]] — 借鉴 Spradley 民族志访谈与办公物理环境现场笔记考察大学专业支持人员工作实践，并指出未来须结合（参与式）民族志观察以捕捉受访者在单一访谈中不愿或无法言说的隐性规范与张力（pp. 1243, 1250）。

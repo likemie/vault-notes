@@ -89,9 +89,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-11-25
----
-
+updated: 2026-11-26
 ---
 
 > [!def] Problem Solving
@@ -154,11 +152,14 @@ updated: 2026-11-25
 > [!concept-proposition] 命题一｜复杂[[Wicked Problem|劣构问题]]解决高度依赖高质量的问题空间表征、[[Cognitive Activation|认知激活]]与[[Metacognition|元认知监控]]
 > **问题空间表征与认知激活支持** 探讨个体在面对非良构复杂问题时，如何通过准确表征初始状态与约束条件，避免陷入盲目试错的无序搜索，并借助教学中的认知激活与元认知监控实现自适应路径调整。
 
-> [!claim] Zhao et al.
-> **深层问题表征与逻辑推演机制** 复杂情境中的问题解决是学习者主动进行问题空间表征、边界约束分析与多路径方案构建的高阶认知探索，有别于被动的步骤[[Mimesis|模仿]]。优质的问题解决表现依赖于个体在头脑中构建清晰的[[Concept Mapping|概念图]]式，进而有效分配[[Working Memory|工作记忆]]资源以推演多种可行性解法。在此过程中，元认知监控发挥着核心导航作用，使解题者能够敏锐识别推理死胡同并及时调整搜索算子。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 7–8, 14)]]
+> [!claim] Zhao, L. et al.
+> **深层问题表征与逻辑推演机制** 复杂情境中的问题解决是学习者主动进行问题空间表征、边界约束分析与多路径方案构建的高阶认知探索，超越被动的步骤[[Mimesis|模仿]]。优质的问题解决表现依赖于个体在头脑中构建清晰的[[Concept Mapping|概念图]]式，进而有效分配[[Working Memory|工作记忆]]资源以推演多种可行性解法。在此过程中，元认知监控发挥着核心导航作用，使解题者能够敏锐识别推理死胡同并及时调整搜索算子。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 7–8, 14)]]
 
-> [!claim] [[Argument_Koller_2014_WhatWorks|Köller (2014)]]
-> **认知激活驱动深层问题解决** 依据课堂[[Three Basic Dimensions of Teaching Quality|教学质量三大基准维度]]理论，问题解决作为高阶思维表现，无法仅通过调整学校外部组织结构自发形成，而取决于课堂教学内部的[[Cognitive Activation|认知激活]]（Kognitive Aktivierung）。教师通过概念图绘制、[[Peer-Supported Learning|同伴互助]]与[[Reciprocal Teaching|互惠教学]]等策略，引导学生进行概念网络重构与逻辑推演，构成激发深层问题解决能力的核心教学机制。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, p. 35)]]
+> [!claim] Köller, O.
+> **认知激活驱动深层问题解决** 依据课堂[[Three Basic Dimensions of Teaching Quality|教学质量三大基准维度]]理论，问题解决作为高阶思维表现，依赖课堂教学内部的[[Cognitive Activation|认知激活]]（Kognitive Aktivierung），超出学校外部组织结构调整所能单独引发的范围。教师通过概念图绘制、[[Peer-Supported Learning|同伴互助]]与[[Reciprocal Teaching|互惠教学]]等策略，引导学生进行概念网络重构与逻辑推演，构成激发深层问题解决能力的核心教学机制。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, p. 35)]]
+
+> [!claim] Kremers, T.
+> **高同伴卷入的合作学习对问题解决与兴趣的优先促进** 托马斯·克雷默斯（Thomas Kremers）梳理哈蒂关于[[Cooperative Learning|合作学习]]的元分析综合（Hattie, 2013, pp. 251–252）指出，合作学习相比个体独立学习或竞争学习更能促进学业表现；当课堂实施伴随高度的同伴卷入（hohe Peer-Beteiligung）时，合作安排优先激发学生的学习兴趣并增强其问题解决能力。高校小组研究亦表明，此类增益以小组合作事前引导、专门合作策略应用及精干的小组规模为前提（Hattie, 2013, p. 113）。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, pp. 82–83)]]
 
 ---
 
@@ -181,7 +182,7 @@ updated: 2026-11-25
 > [!contrast-table|notitle] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **问题表征与认知激活** | 优质表征、课堂认知激活与反思导航是克服劣构阻碍的前提 | 复杂工程任务、数学建模、课堂[[Surface and Deep Learning\|深层学习]] | Zhao et al.; [[Herbert A. Simon\|Simon, H. A.]]; [[Argument_Koller_2014_WhatWorks\|Köller (2014)]] |
+> | **问题表征与认知激活** | 优质表征、课堂认知激活、高同伴卷入合作与反思导航是克服劣构阻碍的前提 | 复杂工程任务、数学建模、课堂[[Surface and Deep Learning\|深层学习]]与[[Cooperative Learning\|合作学习]] | Zhao et al.; [[Herbert A. Simon\|Simon, H. A.]]; [[Argument_Koller_2014_WhatWorks\|Köller (2014)]]; [[Argument_Kremers_2014_CooperativeLearning\|Kremers (2014)]] |
 > | **智能协同与程序性支持** | 逻辑工具分担搜索负荷，但需警惕认知外包风险 | 编程教育、人机协同解题、[[Intelligent Tutoring Systems\|智能导师系统]] | Zhao et al. |
 > | **多约束权衡与现场排障** | 工程问题解决依赖物理多约束权衡与现场故障排除直觉 | [[Engineering Education\|工程教育]]、产线良率攻坚、尖端实验装置调试 | Kelly, G. J.; Licona, P. R.; Weiss, R.; [[Michael Kratsios\|Kratsios, M.]] |
 
@@ -196,7 +197,7 @@ updated: 2026-11-25
 
 ---
 
-> [!debates] 学术争议
+> [!debates|notitle] 学术争议
 >
 > > [!axis] 通用解题策略 vs. 领域专用知识的基础性争论
 > > 围绕高阶问题解决能力究竟是跨学科通用的[[Learning Strategies|认知策略]]，还是高度受制于具体学科领域的先验知识图式。
@@ -232,6 +233,7 @@ updated: 2026-11-25
 > |:-----|:-----|:-----|
 > | [[Higher-Order Thinking Skills]] | 概念 | 问题解决作为高阶思维能力体系中面向目标推进与障碍消除的核心支柱。 |
 > | [[Cognitive Activation]] | 概念 | 激发深层问题解决与高阶心智加工的核心课堂教学质量维度（[[Argument_Koller_2014_WhatWorks\|Köller, 2014]]）。 |
+> | [[Cooperative Learning]] | 概念 | 在高同伴卷入与专门策略引导下优先增强兴趣与问题解决能力的合作学习安排（[[Argument_Kremers_2014_CooperativeLearning\|Kremers, 2014]]）。 |
 > | [[Engineering Education]] | 概念 | 将多约束问题解决、原型迭代与车间排障作为核心培养目标的专门教育[[Paradigm\|范式]]。 |
 > | [[Epistemic Practices]] | 概念 | 问题解决在表征空间、搜索算子与多约束权衡中遵循的认知与实践规程。 |
 > | [[Process Knowledge]] | 概念 | 在物理设备与产线排障问题解决中积累的不可编码默会经验。 |
@@ -246,6 +248,7 @@ updated: 2026-11-25
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 在关于[[Generative Artificial Intelligence|生成式人工智能]]促进[[Higher-Order Thinking Skills|高阶思维]]的一阶[[Meta-analysis|元分析]]中，将问题解决能力作为首要[[Dependent Variable|因变量]]维度展开综合检验，发现其获得的促学增益最大（$g = 0.745$），并深入阐释了技术算法与程序性心智的高适配机制。
 > - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 基于教学质量三大基准维度理论，阐释认知激活策略（如概念图、互惠教学）对学生高阶问题解决能力的驱动机制，确立深层互动相较表层结构的决定性地位（p. 35）。
+> - [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014)]] — 援引哈蒂合作学习与高校小组元分析证实，在高同伴卷入与专门合作策略引导下，合作学习优先提升学生的学习兴趣与问题解决能力（pp. 82–83）。
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — 在 [[OECD]] 高等教育[[Learning Gain|增值评价]]研究中，将复杂问题解决界定为大学生跨学科通用[[21st Century Skills and Competencies Discourse|核心素养]]，系统评述了 [[Collegiate Learning Assessment|CLA+]]、[[ETS HEIghten Critical Thinking Assessment|HEIghten]] 及真实表现性任务对复杂问题解决能力的测量有效性与实施边界。
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]] — 从[[Epistemic Practices|认识论实践]]视角界定工程问题解决在多重约束权衡、原型设计迭代与数据决策中的独特规程。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，强调现场排障（Troubleshooting）手艺与默会[[Phronesis|实践智慧]]在现代科研与工程体系中的不可替代性。

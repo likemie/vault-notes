@@ -20,10 +20,14 @@ tags:
 related_concepts:
   - "[[Professional Support Staff]]"
   - "[[Research Universities]]"
+  - "[[Blended Professional]]"
   - "[[New Public Management]]"
+  - "[[New Managerialism]]"
   - "[[Paradigm]]"
+  - "[[Academic Freedom]]"
   - "[[Creativity]]"
   - "[[Reliability]]"
+  - "[[Bureaucracy]]"
   - "[[Alienation]]"
   - "[[Emergence]]"
   - "[[Necessary and Sufficient Conditions]]"
@@ -32,6 +36,7 @@ related_concepts:
 related_theories:
   - "[[Loosely Coupled Systems]]"
 related_methods:
+  - "[[Comparative Case Study]]"
   - "[[Semi-structured Interview]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Thematic Analysis]]"
@@ -47,16 +52,16 @@ sources:
 part_of:
 status: draft
 created: 2026-11-25
-updated: 2026-11-25
+updated: 2026-11-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Ryttberg_Geschwind_2021_TEM"
 argument_key: "Argument_Ryttberg_Geschwind_2021_TEM"
 argument_display_title: "Organising professional support staff at higher education institutions: A multidimensional, continuous balancing act"
 argument_kind: "journal-article"
-argument_related_count: 18
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 23
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Tertiary Education and Management"
 book_title: ""
@@ -74,7 +79,7 @@ issuing_organization: ""
 > 高校专业支持服务的组织结构不存在“一刀切”的最优解。集权化、标准化与数字化虽能削减行政成本并促进全校服务均等化，但过度集权会拉大支持人员与日常学术活动的距离，并通过自助系统将部分行政工作转嫁给学者；真正运转良好的支持结构是一场以学术人员与支持人员持续对话为基础的多维动态平衡，必须依据具体任务所需的专业胜任力与服务水准，在集权统筹与院系本地化贴近之间灵活配置。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 荷兰与挪威各一所[[Research Universities|研究型大学]]中具有管理或战略咨询职能的 18 名专业支持人员。
+> - **对象** 荷兰与挪威各一所[[Research Universities|研究型大学]]中具有管理或战略咨询职能的 18 名专业支持人员（既有文献亦称“高等教育专业人员”或“[[Blended Professional|第三空间专业人员]]”）。
 > - **张力** 集权标准化与数字化降本增效的组织趋势，与学术核心对本地即时响应、学科语境理解及[[Loosely Coupled Systems|松散耦合]]自治的持久需求之间的冲突。
 > - **贡献** 从专业支持人员自身的内部视角揭示了效率改革的隐性代价，提出将服务配置视为胜任力、服务水准、集权/分权及学政对话四维联动的新分析图式。
 
@@ -87,8 +92,8 @@ issuing_organization: ""
 > |---|---|
 > | **行政行为与效率理论**<br>[[Herbert A. Simon]] | 赫伯特·西蒙（Herbert A. Simon）在《行政行为》（*Administrative Behavior*，1997）中提出以有限资源最大化组织目标的效率观，并剖析集权（协调、专业化、问责）与分权（贴近一线决策信息、减少沟通时滞、保留人际协调）各自的结构诱因与隐性成本。 |
 > | **胜任力—服务—成本三角框架**<br>（Kivistö & Pekkola, 2017） | 将高校支持服务的组织界定为对“所需专业胜任力”“特定任务的精确服务水准”与“可接受成本”三者的权衡，并进一步叠加“集权或分权配置”的组织维度。 |
-> | **[[New Public Management\|新公共管理]]与后新公共管理**<br>（New Public Management，NPM） | NPM 引入私营部门的投入产出控制、绩效量化与客户导向机制，推动高校行政的集权化与标准化；后 NPM [[Paradigm\|范式]]则超越纯经济理性，强调支持人员与学术人员相互依赖的共享治理（Leach, 2008）。 |
-> | **[[Loosely Coupled Systems\|松散耦合系统]]**<br>[[Burton R. Clark]] | 描绘学术人员与校级中央管理层之间保持相对独立的结构特征。部分观点担忧行政外围扩张会侵蚀“学术腹地”（academic heartlands），而支持人员自身亦意识到维系适度松散耦合对保护大学[[Creativity\|创造力]]的重要性。 |
+> | **[[New Public Management\|新公共管理]]与后新公共管理**<br>（New Public Management，NPM） | [[New Managerialism\|新管理主义]]与 NPM 引入私营部门的投入产出控制、绩效量化与客户导向机制，推动高校行政的集权化与标准化；后 NPM [[Paradigm\|范式]]则超越纯经济理性，强调支持人员与学术人员相互依赖的共享治理（Leach, 2008）。 |
+> | **[[Loosely Coupled Systems\|松散耦合系统]]**<br>[[Burton R. Clark]] | 描绘学术人员与校级中央管理层之间保持相对独立、维系制度自治与[[Academic Freedom\|学术自由]]的结构特征。部分观点担忧行政外围扩张会侵蚀“学术腹地”（academic heartlands），而支持人员自身亦意识到维系适度松散耦合对保护大学[[Creativity\|创造力]]的重要性。 |
 > | **标准化与数字化概念**<br>（Standardisation & Digitalisation） | 标准化通过统一决策与执行程序实现简化与非人格化分工（Brunsson & Jacobsson, 2000）；数字化借助信息技术（Information Technology，IT）工具突破物理集权限制，以“一对多”门户或用户自助系统重塑服务边界（Susskind & Susskind, 2015）。 |
 
 > [!warrant]- 理论如何支撑论证
@@ -108,7 +113,7 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **案例选择**<br>Comparative Institutional Selection | 基于“相似性原则”选取荷兰与挪威各一所[[Research Universities\|研究型大学]]。两国在系统层面均实行目标清晰、稳定一致的绩效管理，向高校下放正式决策权，政府与高校间呈契约化关系（de Boer & van Vught, 2016; Gornitzka & Larsen, 2016）。两校均财政稳健、国内外地位稳定，且近期刚经历支持服务重组，避免了纯粹因经济危机导致裁员的极端干扰。 |
+> | **案例选择**<br>[[Comparative Case Study\|Comparative Institutional Selection]] | 基于“相似性原则”采用[[Comparative Case Study\|比较案例研究]]设计，选取荷兰与挪威各一所[[Research Universities\|研究型大学]]。两国在系统层面均实行目标清晰、稳定一致的绩效管理，向高校下放正式决策权，政府与高校间呈契约化关系（de Boer & van Vught, 2016; Gornitzka & Larsen, 2016）。两校均财政稳健、国内外地位稳定，且近期刚经历支持服务重组，避免了纯粹因经济危机导致裁员的极端干扰。 |
 > | **[[Semi-structured Interview\|半结构化访谈]]**<br>Semi-structured Interview | 2017 年秋季对 18 位具有管理或战略咨询角色的[[Professional Support Staff\|专业支持人员]]进行约 1 小时的半结构化访谈，使用瑞典语或英语录音并[[Transcription in Qualitative Research\|逐字转录]]，由研究者将引文译为英文。核心话题涵盖支持服务的当前组织方式及“良好支持”的构成要素。 |
 > | **[[Thematic Analysis\|主题分析]]**<br>Thematic Analysis | 参照 Braun and Clarke (2006) 六步主题分析法，使用[[Qualitative Computer Software\|质性数据分析软件]]对转录文本进行编码。先以“集权/分权”预设框架检索表述，再结合经验发现提炼标准化、数字化、批判声音与本地能力等主题，并精选引文例证。 |
 
@@ -165,7 +170,7 @@ issuing_organization: ""
 > [!sub-claim] 1. 两所受访高校呈现不同的集权化路径，但共同指向降本与均等化诉求
 
 > [!case] 双案例比较：HEI(a) 与 HEI(b) 的集权化路径与改革动因
-> - **HEI(a) 集中雇佣、分层派驻模式** 所有[[Professional Support Staff|专业支持人员]]均由校级中央统一雇佣，再分别派驻校级中央或学院、学系层面；在其中一所高校，政府提出的“去官僚化”（debureaucratisation）要求被内部转化为削减行政成本的压力，并成为赋予集权化合法性的关键依据。
+> - **HEI(a) 集中雇佣、分层派驻模式** 所有[[Professional Support Staff|专业支持人员]]均由校级中央统一雇佣，再分别派驻校级中央或学院、学系层面；在其中一所高校，政府提出的“去[[Bureaucracy|官僚化]]”（debureaucratisation）要求被内部转化为削减行政成本的压力，并成为赋予集权化合法性的关键依据。
 > - **HEI(b) 混合雇佣、渐进集中模式** 支持人员分别由校级、学院（faculty）与学系（department）雇佣，形成校级与院系人员并存的组合，但校方明确计划稳步将更多支持人员收归校级集中管理（participant 1）；校内形成“院系是大学骨干，预算削减必须指向行政支持”的导向（participant 9）。
 > - **服务均等化与对学者自主解决问题的纠偏** 两校受访者普遍对过去学者“未经咨询支持人员便自行其是”的自由度感到不满，主张通过全校统一标准消除院系差异，并将“均等支持”（equal support）直接等同于支持服务的质量与效率。
 

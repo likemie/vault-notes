@@ -128,9 +128,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-07
-updated: 2026-11-20
----
-
+updated: 2026-11-26
 ---
 
 > [!def] Lifelong Learning
@@ -194,7 +192,7 @@ updated: 2026-11-20
 > **社会文化基础设施与资本重塑** [[Scientific Literacy|科学素养]]的获取贯穿个体全生命历程；[[Informal Science Learning|非正式科学参与]]网络通过提供全生命周期的多感官探究与双向对话，持续重塑个体的科学认同与社会资本。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society (2026)]]
-> **非正式参与的社会基础设施定位与全周期累积机制** 科学探索中心、博物馆、科学节与[[Citizen Science|公民科学]]不仅是学校教育的课外补充，更是维系现代社会健康运行的核心社会与文化基础设施；全英代表性调查（PAS 2025）显示 62% 的成年公众渴求更多科学信息，非正式科学遭遇伴随正规教育所产生的[[Science Capital|科学资本]]重塑具有终身累积性，亟需国家建立长期队列追踪予以系统实证。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, pp. 42, 47, 50–52)]]
+> **非正式参与的社会基础设施定位与全周期累积机制** 科学探索中心、博物馆、科学节与[[Citizen Science|公民科学]]不仅是学校教育的课外补充，更是维系现代社会健康运行的核心社会与文化基础设施；全英代表性调查（PAS 2025）显示大多数成年公众渴求更多科学信息，非正式科学遭遇伴随正规教育所产生的[[Science Capital|科学资本]]重塑具有终身累积性，亟需国家建立长期队列追踪予以系统实证。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, pp. 42, 47, 50–52)]]
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026)]]
 > **全贯通素养基础与成年期技能跨界升级** 强调终身学习能力的形成依赖于基础教育阶段扎实宽广的通识素养，过早专门化分科会剥夺学生日后跨界转型所需的智力灵活性；必须通过宽口径大纲与贯穿性交叉素养（[[Data Literacy|数据素养]]、批判性 AI 素养与可持续发展素养），为未来公民在整个成年期持续学习与职业重塑奠定基石。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 31–34)]]
@@ -215,7 +213,7 @@ updated: 2026-11-20
 > [!claim] [[Fazal Rizvi|Rizvi, F.]] & [[Bob Lingard|Lingard, B.]] (2009)
 > **终身学习从福利权利向生产力生存命令与可测倾向的[[Paradigm|范式]]重塑** 里兹维与林加德结合[[Dominique Foray|多米尼克·福雷]]与本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（Foray & Lundvall, 1996）的研究指出，在[[Knowledge-Based Economy|知识经济]]中，静态的事实性与[[Theoretical Knowledge|理论性知识]]（knowing that）面临快速折旧，决定生产力与财富创造的是掌握实践操作诀窍（[[Procedural Knowledge|knowing how]]）、利用技术与他人沟通协作以及分享创新的动态能力。国家能否汲取新经济的红利，取决于其转型为学习型经济的速度；由此，学习必须打破正规学龄教育的垄断，演变为贯穿全生命周期的常态化实践。经合组织不仅将终身学习确立为新自由主义[[Social Imaginary|社会想象]]的支柱，更通过[[PISA|国际学生评估项目]]（[[PISA]]）将其制度化为跨国度量标准——宣称其测查的是学生在义务教育终点应对真实生活挑战时的“终身学习倾向”（dispositions for lifelong learning）。这一机制将教育的公共与文化目的彻底从属于经济目标，将终身适应劳动力市场转化为个体的绝对生存命令。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–447)]]
 
-> [!claim] Grek
+> [!claim] Grek, S.
 > **终身学习向义务教育阶段的前置投射与非认知自我规制测评** 索蒂里亚·格雷克（[[Sotiria Grek]]）指出，经济合作与发展组织（[[OECD]]）推行的[[PISA]]测评将终身学习要求提前嵌入义务教育终点阶段。PISA 脱离国家具体学科大纲，将测评基准设定为面向未来真实生活的通用胜任力；更将测评范畴拓展至学生的非认知维度，系统测查 15 岁学生的自主规制[[Learning Strategies|学习策略]]、[[Student Motivation|学习动机]]与[[Self-Efficacy|自我效能感]]。这一机制将终身学习从成人的职业技能重塑，向前延伸为向基础教育渗透的治理技术，把在校学生提前塑造成能够自主规制学习节奏与适应未来劳动力市场的终身学习主体[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 26–27, 35)]]。
 
 ---
@@ -262,7 +260,7 @@ updated: 2026-11-20
 > - **1990 年代末至 2000 年代初 [[Knowledge-Based Economy|知识经济]]主导与[[Policy Borrowing|政策借用]]转向** 伴随全球化进程，终身学习被[[World Bank|世界银行]]（[[World Bank]]）与 [[OECD]] 深度重塑为服务[[Knowledge-Based Economy|知识经济]]与劳动力市场[[Employability|就业能力]]的工具；各国政府亦频繁借用终身学习[[Discourse|话语]]作为[[Externalization|外部化]]国内矛盾的政策工具。[[Argument_Yan_2025_JCS|(Yan & Morris, 2025, p. 487)]]
 > - **2000 年代 [[OECD]] 依托 [[PISA]] 量化测查终身学习倾向** 经合组织启动国际学生评估项目（PISA），侧重评估义务教育结束阶段学生在应对真实生活挑战时的“终身学习倾向”（dispositions for lifelong learning），淡化对既定课程大纲知识记忆的静态考核，将终身学习理念全面融入跨国度量空间与排位竞争。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 447)]]
 > - **2006 年与 2018 年 [[EU|欧盟]][[21st Century Skills and Competencies Discourse|关键能力]]框架** 欧洲联盟（European Union, EU）发布并更新《终身学习核心素养建议书》（[[EU Key Competences for Lifelong Learning]]），确立了包括科学、数学、数字素养、公民素养及[[Learner Autonomy|自主学习]]在内的八大终身学习关键能力。
-> - **2007 年 欧盟“终身学习计划”（Lifelong Learning Programme, LLP）确立跨国流动支柱** 欧盟正式启动 2007–2013 综合性“终身学习计划”（LLP），将[[Erasmus Programme|伊拉斯谟计划]]（ERASMUS）、夸美纽斯计划（COMENIUS）、[[Leonardo da Vinci Programme|达芬奇计划]]（LEONARDO [[Dynamic Assessment|DA]] VINCI）及格伦特维计划（GRUNDTVIG）全面整合；将学生跨国流动（[[Student Mobility|学生流动性]]）确立为获取终身学习素养与提升个体就业胜任力的核心制度载体。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
+> - **2007 年 欧盟“终身学习计划”（Lifelong Learning Programme, LLP）确立跨国流动支柱** 欧盟正式启动 2007–2013 综合性“终身学习计划”（LLP），将[[Erasmus Programme|伊拉斯谟计划]]（ERASMUS）、夸美纽斯计划（COMENIUS）、[[Leonardo da Vinci Programme|达芬奇计划]]（LEONARDO DA VINCI）及格伦特维计划（GRUNDTVIG）全面整合；将学生跨国流动（[[Student Mobility|学生流动性]]）确立为获取终身学习素养与提升个体就业胜任力的核心制度载体。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 > - **2009 年 — PISA 测评将终身学习前置并嵌入义务教育治理** 索蒂里亚·格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009]]）论证指出，经合组织通过 PISA 测评将终身学习机制前置至 15 岁义务教育阶段；测评不仅脱离了具体国家课程，更系统测查学生的学习动机、[[Self-Efficacy|自我效能感]]与自我规制策略，将青年学生提前塑造为必须终身自负其责、持续自我规制的知识经济主体（pp. 26–27, 35）。
 > - **2009 年 — 全景敞视式软法监控批判解构** 帕西亚斯与鲁萨基斯运用福柯规训理论解构欧盟终身学习话语，揭示知识易耗品化与开放协调法如何将终身学习重塑为全景敞视式软法监控建筑。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 483, 492–493)]]
 > - **2017 年 — 瑞士《联邦继续教育法》（WeBiG）确立用人单位与国家终身培训协同责任** 瑞士全面实施《联邦继续教育法》（WeBiG），法定界定国家创设终身学习前提之义务与用人单位促进员工再培训之责任，并通过数字公约工程（digitalinform.swiss）实现继续培训创新成果跨行业迁移。[[Argument_Hippach-Schneider_Rieder_2022_RCIE|(Hippach-Schneider & Rieder, 2022)]]
