@@ -2975,6 +2975,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Higher Education Policy and Management/Argument_VanderKloet_Campisi_2023_JHEPM.md",
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
       "title": "‘Get yourself some nice, neat, matching box files!’ Research administrators and occupational identity work"
@@ -14275,6 +14276,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
       "title": "Professional and support staff in higher education: An introduction"
@@ -14950,6 +14952,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/International Journal of Leadership in Education/Argument_Keddie_2020_IJLE.md"
+      ],
+      "title": ""
+    },
+    "Boyatzis, 1982": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
       "title": ""
     },
@@ -16547,6 +16557,14 @@
       "seen_in": [],
       "title": "Spelling skills of children in whole language and phonics classrooms"
     },
+    "Bruckmann & Carvalho, 2018": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
+      ],
+      "title": ""
+    },
     "Brudnick, 2024": {
       "doi": "",
       "isbn": "",
@@ -16952,7 +16970,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md"
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md",
+        "wiki/concepts/educational-philosophy/Democratic Education.md"
       ],
       "title": "Erfolgreich unterrichten durch Kooperatives Lernen Bd. 2 – Neue Strategien zur Schüleraktivierung – Individualisierung – Leistungsbewertung – Schulentwicklung"
     },
@@ -18520,6 +18539,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
         "wiki/theories/sociology-of-education/Institutional Logics.md"
       ],
       "title": ""
@@ -28892,6 +28912,7 @@
       "doi": "10.1080/03054980500117827",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
       "title": "Management as Ideology: The Case of ‘New Managerialism’ in Higher Education"
@@ -45813,7 +45834,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md"
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md",
+        "wiki/concepts/educational-philosophy/Democratic Education.md"
       ],
       "title": "Kooperatives Lernen im Klassenraum und im Kollegium"
     },
@@ -46898,6 +46920,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
       "title": "A Case of Bureaucratic Accretion: Context and Consequences"
@@ -51416,6 +51439,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "A meta-analysis of the effect of notetaking on learning from lecture"
+    },
+    "Henkin & Persson, 1992": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
+      ],
+      "title": ""
     },
     "Henri-Jean Martin, 1976": {
       "doi": "",
@@ -59234,14 +59265,6 @@
       "seen_in": [],
       "title": "Tutoring Adolescents in Literacy: A Meta-Analysis"
     },
-    "Junco, 2024": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/theories/sociology-of-education/Institutional Work.md"
-      ],
-      "title": ""
-    },
     "Junemann, 2012": {
       "doi": "",
       "isbn": "",
@@ -59801,10 +59824,19 @@
       "seen_in": [],
       "title": "An Examination of the Effects of Technology Use in Music Education and Training on Academic Achievement: A Meta-Analysis Study."
     },
+    "Kallenberg, 2016": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
+      ],
+      "title": ""
+    },
     "Kallenberg, 2020": {
       "doi": "10.1007/s11233-020-09058-w",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
       "title": "Differences in Influence: Different Types of University Employees Compared"
@@ -61317,6 +61349,14 @@
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
       "title": "The influence of new higher education professionals on academic work"
+    },
+    "Kehm, 2015a": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
+      ],
+      "title": ""
     },
     "Kehm, 2015b": {
       "doi": "",
@@ -67364,6 +67404,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
         "wiki/theories/sociology-of-education/Institutional Logics.md"
       ],
       "title": ""
@@ -67924,7 +67965,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
+        "wiki/theories/sociology-of-education/Institutional Work.md"
       ],
       "title": ""
     },
@@ -78126,6 +78168,7 @@
       "doi": "10.1080/1360080980200204",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
       "title": "Academics and Professional Administrators in Australian Universities: Dissolving Boundaries and new Tensions"
@@ -88970,6 +89013,14 @@
       "seen_in": [],
       "title": "Integrating the 6 + 1 writing traits model with cross-age tutoring  An investigation of elementary students' writing development"
     },
+    "Paradeise & Thoenig, 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
+      ],
+      "title": ""
+    },
     "Paradeise & Thoenig, 2015": {
       "doi": "",
       "isbn": "",
@@ -96146,6 +96197,14 @@
       ],
       "title": ""
     },
+    "Rethlefsen et al., 2015": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
+      ],
+      "title": ""
+    },
     "Rethlefsen et al., 2021": {
       "doi": "",
       "isbn": "",
@@ -96327,6 +96386,7 @@
       "doi": "10.1080/13583883.2002.9967066",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
       "title": "New models of management and shifting modes and costs of production: Europe and the United States"
@@ -96335,6 +96395,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md",
         "wiki/concepts/higher-education/Enabling Bureaucracy.md",
         "wiki/concepts/higher-education/Professional Support Staff.md"
@@ -100251,6 +100312,14 @@
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
       "title": "Professional support staff at higher education institutions in Sweden: Roles and success factors for the job"
+    },
+    "Ryttberg & Geschwind, 2019": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
+      ],
+      "title": ""
     },
     "Ryttberg, 2020": {
       "doi": "https://doi.org/10.1057/s41307-020-00206-w",
@@ -104382,6 +104451,14 @@
       ],
       "title": ""
     },
+    "Sebalj et al., 2012": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
+      ],
+      "title": ""
+    },
     "Sebba et al., 2012": {
       "doi": "",
       "isbn": "",
@@ -105857,6 +105934,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
         "wiki/theories/sociology-of-education/Institutional Logics.md"
       ],
       "title": ""
@@ -109635,14 +109713,6 @@
       ],
       "title": ""
     },
-    "Sprague, 1994": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
-      ],
-      "title": ""
-    },
     "Spratt, 2013": {
       "datasets": [
         "eef:phonics"
@@ -112204,6 +112274,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Self Concept & Mathematics Achievement: A Meta-analysis."
+    },
+    "Suddaby, 2010": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
+      ],
+      "title": ""
     },
     "Sudhirkumar & Pinalben, 2012": {
       "datasets": [
@@ -123190,6 +123268,14 @@
       "seen_in": [],
       "title": "Use of a cognitive tutoring system in the improvement of the abstract reasoning component of word problem solving"
     },
+    "Whetten, 1989": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
+      ],
+      "title": ""
+    },
     "Whicker, 1997": {
       "datasets": [
         "eef:collaborative-learning-approaches"
@@ -123212,6 +123298,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
         "wiki/theories/sociology-of-education/Institutional Logics.md"
       ],
       "title": ""
@@ -123221,6 +123308,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Optimising the potential of third space professionals in UK higher education"
+    },
+    "Whitchurch & Schneijderberg, 2017": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
+      ],
+      "title": ""
     },
     "Whitchurch, 2006": {
       "doi": "10.1080/13600800600751002",
@@ -123252,6 +123347,14 @@
       ],
       "title": "Shifting identities and blurring boundaries: The emergence of third space professionals in UK higher education"
     },
+    "Whitchurch, 2010": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
+      ],
+      "title": ""
+    },
     "Whitchurch, 2015": {
       "doi": "",
       "isbn": "",
@@ -123264,6 +123367,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
       "title": "Professional Staff Identities in Higher Education"
@@ -123967,14 +124071,6 @@
       ],
       "title": ""
     },
-    "Wilkins & Leckie, 1997": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
-      ],
-      "title": ""
-    },
     "Wilkins, 1969": {
       "doi": "",
       "isbn": "",
@@ -124370,6 +124466,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
         "wiki/theories/sociology-of-education/Institutional Work.md"
       ],
       "title": ""
@@ -124876,6 +124973,7 @@
       "doi": "10.1080/13600800802155192",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
       ],
       "title": "‘Sleeping with the Enemy’: How far are you Prepared to go to Make a Difference? A Look at the Divide Between Academic and Allied Staff"

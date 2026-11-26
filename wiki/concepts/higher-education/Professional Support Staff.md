@@ -7,7 +7,7 @@ aliases:
   - higher education professionals
   - support staff
   - non-academic professionals
-summary: "高等教育机构中承担行政管理、技术服务与战略支撑等非教学科研专业职能的雇员群体；其岗位分化、学术合法性建构以及通过资源管理介入知识生产与跨层风控的赋能角色，是当代大学治理研究的核心议题"
+summary: "高等教育机构中负责开发、维护与变革教育、科研及知识交流基础设施的高学历专业雇员群体；其能力高学历化与私营履历转向、四重网络中介定位，以及通过战略管理、资源转化与合规风控影响知识生产与学术趋同的机制，是当代大学治理研究的核心议题"
 type: concept
 domain: "higher-education"
 related_count: 33

@@ -103,7 +103,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-25
-updated: 2026-11-25
+updated: 2026-11-26
 ---
 
 > [!def] Tracking
@@ -162,7 +162,7 @@ updated: 2026-11-25
 > **微观组织与文化心理维度的认知锁定机制** 探讨教育者内化的智力固定假设如何将学校课程重组为适应性轨道，迫使低轨学生经历个人降级并主动放弃努力。
 
 > [!claim] Oakes & Guiton; Li
-> **适应逻辑与自我贬抑预言的制度生产** 在西方固定自我观与天赋论假设支配下，学校将分轨的目的定位于被动适应学生已显现的特征，而非改变和发展其认知潜能。被归入低轨的学生直接吸收了能力固化信念，认为低轨身份证明自己缺乏智识才能、努力亦属徒劳，从而产生深刻的个人降级（Personal Downgrading）并撤回学业努力；教师的低期望与学生的低投入相互强化，使分轨成为自我实现的失败预言。[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 98–99)]]
+> **适应逻辑与自我贬抑预言的制度生产** 在西方固定自我观与天赋论假设支配下，学校将分轨定位于被动适应学生已显现的特征，限制了通过持续教学促进潜能转化的空间。被归入低轨的学生直接吸收能力固化信念，将低轨身份视作自身缺乏智识才能的证明，从而经历个人降级（Personal Downgrading）并撤回学业努力；教师的低期望与学生的低投入相互强化，使分轨演变为自我实现的失败预言。[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 98–99)]]
 
 ---
 
@@ -186,7 +186,7 @@ updated: 2026-11-25
 > **动态学制通透对早期分轨错配的纠偏效能** 探讨早期分轨体系若内置健全的后期升降轨通道，能否阻断早期环境剥夺对边缘学生长期劳动力市场与教育资质的因果惩罚。
 
 > [!claim] Dustmann, C.; Puhani, P. A.; Schönberg, U.
-> **转轨弹性对早期分轨长期因果惩罚的中和效应** 德国利用法定小学入学截止日构建的[[Regression Discontinuity Design|模糊断点回归]]（RDD）证实，10 岁早期分选虽使 7 月出生学生在 14 岁就读高级轨道（文法中学）概率净增 5.2 个百分点，并在初中 5 年内经历显著的环境锁定（年均跨轨率仅 2%）；但初中毕业后，学制通过专科高级中学（Fachoberschule）等通道提供了大规模的逆向转轨机制，使两组边缘学生在 22 岁获得大学准入资格的落差归零（-0.001），且对 30 岁以上成人经验校正对数日薪（-0.0010 至 0.0003）及就业稳定性均无显著因果影响，证实评估分轨体制的真实福利成本应结合中后期转轨弹性综合审视。[[Argument_Dustmann_2017_EconJ|(Dustmann et al., 2017, pp. 1348–1352, 1373–1376)]]
+> **转轨弹性对早期分轨长期因果惩罚的中和效应** 德国利用法定小学入学截止日构建的[[Regression Discontinuity Design|模糊断点回归]]（RDD）表明，10 岁早期分选虽会在初中阶段造成显著的环境锁定与低跨轨流动，但初中毕业后借助专科高级中学（Fachoberschule）等渠道的大规模逆向转轨机制，彻底消解了边缘学生成年后获得大学准入资格、成人经验校正日薪及就业稳定性的长期落差；因此，评估分轨体制的真实福利成本须将其与中后期[[Educational Permeability|学制通透性]]结合审视。[[Argument_Dustmann_2017_EconJ|(Dustmann et al., 2017, pp. 1348–1352, 1373–1376)]]
 
 ---
 
@@ -221,11 +221,11 @@ updated: 2026-11-25
 > - **1985 — 冲突论视角的系统实证批判确立** 珍妮·奥克斯（Jeannie Oakes）出版著作 *Keeping Track: How Schools Structure Inequality*，开创了对校内分轨（Tracking）的系统实证批判，论证分轨如何剥夺有色人种与工人阶级子弟的优质知识获取权。[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 98)]]
 > - **2000 年代初 — 文化心理学与微观认知机制深化** [[Jin Li\|李瑾]]将分轨制置于西方文化“固定自我观”与[[Talent Assumption\|天赋假设]]框架下展开跨文化解构，揭示其引发个人降级与自我实现预言的心理微观发生学机制。[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 98–99, 109–110)]]
 > - **2006 — 德国后 PISA 分轨辩护与结构改革禁忌** [[Argument_Ertl_2006_ORE|Ertl (2006)]] 考证德国三轨制（Gymnasium / Realschule / Hauptschule）在 10 岁过早分选如何将社会经济背景转化为学力隔离；PISA 2000 中家庭 SES 对阅读成绩的方差解释力高达 17%（经合组织均值仅 8%），且 PISA 2003 成绩微升仅由 Gymnasium 独占而 Hauptschule 陷于停滞，反向拉大分轨差距；决策层将综合学校结构改革列为政治禁忌，转而以产出标准与全日制学校回避分轨弊端。[[Argument_Ertl_2006_ORE|(Ertl, 2006, pp. 620–625)]]
-> - **2004–2014 — 德国早期分轨的双重实证揭露：推荐偏误与预构环境锁定** [[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]] 梳理实证指出，德国早期分轨在入口与过程两个维度锁定不平等：在制度入口处，IGLU/PIRLS 追踪研究（Bos et al., 2004; Stubbe et al., 2012）证实即使阅读成绩与认知能力完全相同，上层阶级子女获得文法中学推荐的几率仍为底层子女的 2.68 倍（高管白领）与 1.76 倍（中产白领）；在分流完成后，PISA 2000（Deutsches PISA-Konsortium, 2001）测得中学生数学方差的 43% 归因于不同培养轨道，在同等家庭背景与智力下文法中学成绩净高出主要中学整整 49 分，证明多轨制形成了差异化的预构学习环境。
+> - **2004–2014 — 德国早期分轨的双重实证揭露与样本迁移批判** [[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]] 梳理实证指出，德国早期分轨在推荐偏误与学习环境两个维度锁定不平等：在入口处上层阶级子女获文法中学推荐的几率显著更高；在分流完成后不同培养轨道形成了差异化的预构学习环境。针对德语区援引《[[Visible Learning|可见的学习]]》宣称“仅教师重要、学校形式无关紧要”的话语误读，[[Argument_Rolff_2014_SchoolStructure|Rolff (2014, pp. 67–72)]] 与 [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014, p. 79)]] 一致指出，哈蒂整合的元分析高度集中于英语国家一体化综合学制（相当于德国[[Gesamtschule|综合中学]]），将该结论外推至德国早期分化多轨学制并据此取消学制结构讨论缺乏样本基础。
 > - **2012–2018 — 跨国量化实证与政策政治学解构** [[OECD]] 通过 [[PISA]] 跨国大样本实证确立了分轨与教育公平的负相关定律，推动去分轨综合化改革；[[Paul Morris]] 与 Sue Grey 则进一步揭示英格兰政客在[[Mediatised Governance\|媒介化治理]]中如何策略性过滤分轨负面证据并强行逆流推行选拔制度。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 114, 117–118)]]
 > - **2015 — [[Curricular Form|课程形态]]与分轨才能误认批判** [[Argument_Lim_2015_CurricInq|Lim and Apple (2015)]] 揭示新加坡分轨制（快捷轨 vs 普通轨）在微观课堂中如何依托强控制的教学代码将思维技能降格为应试技术，而精英学校则通过弱控制探究课程培育支配性特权理性，使结构性分轨不平等被系统性误认为个人才能差异。
 > - **2014–2021 — 因果试验招募挫败与准实验方法转向** [[Education Endowment Foundation\|EEF]] 资助的能力分班大规模 [[Randomised Controlled Trials\|RCT]] 因学校拒绝[[Random Assignment\|随机化]]而招募失败（Roy et al., 2014）；EEF [[EEF Teaching and Learning Toolkit\|教学与学习工具包]]（Toolkit）实证定性能力分班对弱势学童带来净损失（$-1$ 个月），加剧阶层固化；2019 年 EEF 正式设立“研究[[School Choice\|学校选择]]”资助序列，确立利用自然变异与[[Quasi-Experimental Designs\|准实验设计]]（QEDs）评估能力分组政策的因果研究新[[Paradigm\|范式]]。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 55–56)]]
-- **2017 — 早期分轨长期因果效应识别与通透性评估框架** Dustmann et al. 利用断点回归设计（RDD）证实，德国三轨制初中后的逆向转轨消解了 10 岁早期分选对边缘学生成人日薪与学历的长期惩罚，确立了将中后期[[Educational Permeability|学制通透性]]作为评估分轨制优劣的核心维度。[[Argument_Dustmann_2017_EconJ|(Dustmann et al., 2017)]]
+> - **2017 — 早期分轨长期因果效应识别与通透性评估框架** Dustmann et al. 利用断点回归设计（RDD）证实，德国三轨制初中后的逆向转轨消解了 10 岁早期分选对边缘学生成人日薪与学历的长期惩罚，确立了将中后期[[Educational Permeability|学制通透性]]作为评估分轨制优劣的核心维度。[[Argument_Dustmann_2017_EconJ|(Dustmann et al., 2017)]]
 
 ---
 
@@ -244,7 +244,7 @@ updated: 2026-11-25
 > > - **延迟分轨与全纳综合模式** 如北欧及波兰改革经验，主张将综合义务教育至少延续至 15–16 岁，通过推迟分流保障全体学生的共同知识基线与发展可能性。
 
 > [!warning|limits] 适用局限
-> 跨国评估对分轨制的批判聚焦于其早期不可逆的行政定轨与阶层隔离效应，有别于彻底否定在特定学科内基于动态诊断的个别化辅导或弹性走班教学；评估分轨政策需紧密结合具体国家的福利体制、劳动力市场资格认证及高中衔接机制。
+> 跨国评估对分轨制的批判聚焦于早期不可逆的行政定轨与阶层隔离效应，专门针对制度化分轨而非特定学科内基于动态诊断的弹性分层教学；同时，依托英语综合制学校数据的元分析（如 Hattie 汇总的学校类型效应）不能直接外推用以评估德国等早期分流多轨体制的结构效应（[[Argument_Kremers_2014_CooperativeLearning|Kremers, 2014, p. 79]]；[[Argument_Rolff_2014_SchoolStructure|Rolff, 2014, pp. 67–72]]），评估分轨政策必须结合具体国家的学制通透性、资格认证及高中衔接机制。
 
 ---
 
@@ -418,13 +418,14 @@ updated: 2026-11-25
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Silova_2009_EE|Silova (2009)]] — 考证施普林格对战后西欧中等教育分流、追踪与课程改革的多国主题比较（pp. 22–24）。
-> - [[Argument_Deng_2016_CE\|Deng and Gopinathan (2016)]] — 系统考证新加坡自 1979 年《[[Goh Report|吴庆瑞报告]]》建立的中小学能力分轨分流机制（Streaming），揭示其在将早期高辍学流失率降至 1% 以下的同时，如何固化了差[[Alienation|异化]]课程大纲与高利害考试竞争。
-> - [[Argument_Lim_2015_CurricInq|Lim and Apple (2015)]] — 考察新加坡中学分轨体制（快捷轨与普通轨）与独立精英学校的微观课程形态分异，揭示差异化教学代码如何将分轨再生产转化为中立才能差异的合法化功能。
-> - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 基于 [[PISA]] 跨国大样本数据实证揭示分轨制对教育公平与学生动机的系统性损害，并深度解构英格兰执政精英在[[Mediatised Governance\|媒介化治理]]中对[[OECD\|经合组织]]分轨警告的“遗漏[[Discourse|话语]]”策略。
-> - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 从东西方文化心理与自我观差异切入，批判西方分轨制的实体能力论与被动适应逻辑，揭示低轨学生遭遇的“个人降级”与自我实现的失败预言。
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 记录[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）在能力分组因果试验招募失败（Roy et al., 2014）后，转向利用自然变异与[[Quasi-Experimental Designs\|准实验设计]]（QEDs）评估学校内生组织选择的方法学制度转型。
-> - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 系统考证德国三轨制（Gymnasium / Realschule / Hauptschule）在 10 岁早期分选如何固化家庭 SES 差距，实证揭示 PISA 2003 成绩增益被文法中学独占的轨间不平等加剧，以及决策层将综合中学改革列为政治禁忌的话语规避机制。
-> - [[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]] — 指出哈蒂基于综合制英语国家的能力分组低效应结论不能用于否定德国多轨制结构影响，援引 PISA 与 IGLU 证实早期分流加剧社会选择性与学习环境分化（pp. 67–72）。
-> - [[Argument_Dustmann_2017_EconJ|Dustmann et al. (2017)]] — 利用德国小学入学截止日断点回归设计证实，初中后制度化转轨彻底消除了 10 岁早期分轨对边缘学生长期工资与学历的因果惩罚。
+> - [[Argument_Silova_2009_EE|Silova (2009)]] — 考证施普林格对战后西欧中等教育分流与课程改革的多国主题比较（pp. 22–24）。
+> - [[Argument_Deng_2016_CE\|Deng and Gopinathan (2016)]] — 考证新加坡《[[Goh Report|吴庆瑞报告]]》建立的中小学分流机制，说明其在降低流失率的同时如何固化差异化课程大纲。
+> - [[Argument_Lim_2015_CurricInq|Lim and Apple (2015)]] — 考察新加坡分轨制与精英学校的微观课程形态分异，揭示强弱教学代码如何合法化才能差异判断。
+> - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 基于 [[PISA]] 数据揭示分轨制对公平与动机的损害，并分析英格兰政治话语对 [[OECD]] 分轨警告的选择性遗漏。
+> - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 比较东西方自我观差异，批判西方分轨制的实体能力假设诱发低轨学生的个人降级与自我实现预言（pp. 98–99, 109–110）。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 记录 [[Education Endowment Foundation|EEF]] 能力分组 [[Randomised Controlled Trials|RCT]] 招募挫败后转向自然变异 [[Quasi-Experimental Designs|QED]] 评估的因果范式转型（pp. 55–56）。
+> - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 考证德国三轨制 10 岁早期分选对家庭背景差距的固化及后 PISA 改革对综合化结构的政治回避（pp. 620–625）。
+> - [[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]] — 指出综合制英语国家能力分组结论不可否定德国多轨结构效应，援引 PISA 与 IGLU 证实早期分流加剧选择性（pp. 67–72）。
+> - [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014)]] — 辨析《[[Visible Learning|可见的学习]]》英语综合制学校样本边界，驳斥“教师决定论下德国分轨体制无关紧要”的简化推论（p. 79）。
+> - [[Argument_Dustmann_2017_EconJ|Dustmann et al. (2017)]] — 依托德国入学截止日断点回归设计，证实初中后逆向转轨机制消解了边缘学生长期工资与学历惩罚。
 
