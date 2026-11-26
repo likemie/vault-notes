@@ -161,6 +161,7 @@ app.post('/api/chat', requirePassword, async (req, res) => {
     typeof req.body?.outputMode === 'string' && req.body.outputMode
       ? (req.body.outputMode as 'qa' | 'synthesis' | 'report' | 'ppt')
       : undefined;
+  const allowWebSearch = Boolean(req.body?.allowWebSearch);
 
   try {
     const result = await answerWithKnowledgeBase(
@@ -172,7 +173,7 @@ app.post('/api/chat', requirePassword, async (req, res) => {
         vaultWikiDir: fs.existsSync(VAULT_WIKI_DIR) ? VAULT_WIKI_DIR : undefined,
       },
       wikiEntries,
-      { message, history, typeFilter, model, outputMode },
+      { message, history, typeFilter, model, outputMode, allowWebSearch },
     );
     res.json(result);
   } catch (err) {

@@ -31,6 +31,11 @@ export interface IndexMatchDTO {
   quartzUrl?: string;
 }
 
+export interface WebSourceItem {
+  title: string;
+  uri: string;
+}
+
 export interface ChatResponsePayload {
   answer: string;
   mode: 'file-search' | 'local-preview' | 'index-only';
@@ -38,6 +43,9 @@ export interface ChatResponsePayload {
   usedIndexQueries: Array<{ query: string; type?: string; hitCount: number }>;
   indexMatches: IndexMatchDTO[];
   citations: CitationItem[];
+  webSupplement?: string;
+  webSources?: WebSourceItem[];
+  webSearchQueries?: string[];
 }
 
 export interface RagConfig {
@@ -261,10 +269,73 @@ function buildVaultUseSystemInstruction(outputMode: OutputMode = 'qa'): string {
   ].join('\n');
 }
 
+async function runWebSupplement(
+  ai: GoogleGenAI,
+  model: string,
+  userMessage: string,
+  vaultAnswer: string,
+): Promise<{
+  webSupplement?: string;
+  webSources: WebSourceItem[];
+  webSearchQueries: string[];
+}> {
+  const prompt = [
+    '用户开启了“允许外部联网补充”。下面先给出用户问题以及内部学术知识库（已检索）的回答摘要。',
+    '请你使用 Google Search 检索外部公开信息，仅补充：',
+    '1. 知识库尚未覆盖的缺口或最新政策/研究动态；',
+    '2. 若有直接可核对的官方文件、时间节点或统计来源，请简要说明；',
+    '3. 若知识库回答已充分或网上无可靠补充，请简短说明“无额外必要外部补充”。',
+    '写作保持严谨质朴学术语态，禁用夸张评价词和套话。',
+    '',
+    `【用户问题】\n${userMessage}`,
+    '',
+    `【内部知识库已有回答摘要】\n${vaultAnswer.slice(0, 2200)}`,
+  ].join('\n');
+
+  try {
+    const resp = await ai.models.generateContent({
+      model,
+      contents: prompt,
+      config: {
+        tools: [{ googleSearch: {} }],
+        temperature: 0.2,
+      },
+    });
+
+    const gm = resp.candidates?.[0]?.groundingMetadata;
+    const webSources: WebSourceItem[] = [];
+    const seen = new Set<string>();
+    for (const chunk of gm?.groundingChunks ?? []) {
+      const w = chunk.web;
+      if (!w?.uri) continue;
+      if (seen.has(w.uri)) continue;
+      seen.add(w.uri);
+      webSources.push({
+        title: w.title || w.uri,
+        uri: w.uri,
+      });
+    }
+
+    return {
+      webSupplement: resp.text ?? undefined,
+      webSources,
+      webSearchQueries: gm?.webSearchQueries ?? [],
+    };
+  } catch (err) {
+    console.warn('[rag] web supplement error:', err instanceof Error ? err.message : err);
+    return {
+      webSupplement: `外部联网检索调用失败：${err instanceof Error ? err.message : '未知错误'}`,
+      webSources: [],
+      webSearchQueries: [],
+    };
+  }
+}
+
 /**
- * Execute two-stage RAG:
+ * Execute two-stage RAG (plus optional sequential Google Search web supplement):
  * 1) Resolve canonical wiki/index.json entries via function calling.
  * 2) Answer with Gemini File Search Store (or local wiki preview if store is unset locally).
+ * 3) Optionally supplement external gaps via Google Search in a separate turn.
  */
 export async function answerWithKnowledgeBase(
   config: RagConfig,
@@ -275,6 +346,7 @@ export async function answerWithKnowledgeBase(
     typeFilter?: string;
     model?: string;
     outputMode?: OutputMode;
+    allowWebSearch?: boolean;
   },
 ): Promise<ChatResponsePayload> {
   const ai = new GoogleGenAI({ apiKey: config.apiKey });
@@ -364,13 +436,19 @@ export async function answerWithKnowledgeBase(
       });
     }
 
+    const vaultAnswer = response.text ?? '未生成有效回答，请尝试换一种表述或放宽类型过滤。';
+    const webExtra = params.allowWebSearch
+      ? await runWebSupplement(ai, activeModel, params.message, vaultAnswer)
+      : undefined;
+
     return {
-      answer: response.text ?? '未生成有效回答，请尝试换一种表述或放宽类型过滤。',
+      answer: vaultAnswer,
       mode: 'file-search',
       model: activeModel,
       usedIndexQueries: usedQueries,
       indexMatches: indexMatchesDTO,
       citations,
+      ...(webExtra ?? {}),
     };
   }
 
@@ -408,23 +486,35 @@ export async function answerWithKnowledgeBase(
       },
     });
 
+    const vaultAnswer = response.text ?? '未生成有效回答。';
+    const webExtra = params.allowWebSearch
+      ? await runWebSupplement(ai, activeModel, params.message, vaultAnswer)
+      : undefined;
+
     return {
-      answer: response.text ?? '未生成有效回答。',
+      answer: vaultAnswer,
       mode: 'local-preview',
       model: activeModel,
       usedIndexQueries: usedQueries,
       indexMatches: indexMatchesDTO,
       citations,
+      ...(webExtra ?? {}),
     };
   }
 
+  const fallbackAnswer =
+    '已完成 `wiki/index.json` 索引检索，但尚未配置 `FILE_SEARCH_STORE_NAME`，且当前运行环境未挂载本地 `wiki/` 目录。请先运行 `npm run sync` 建立 Gemini File Search Store 并填入 `.env` 中的 `FILE_SEARCH_STORE_NAME`。';
+  const webExtra = params.allowWebSearch
+    ? await runWebSupplement(ai, activeModel, params.message, fallbackAnswer)
+    : undefined;
+
   return {
-    answer:
-      '已完成 `wiki/index.json` 索引检索，但尚未配置 `FILE_SEARCH_STORE_NAME`，且当前运行环境未挂载本地 `wiki/` 目录。请先运行 `npm run sync` 建立 Gemini File Search Store 并填入 `.env` 中的 `FILE_SEARCH_STORE_NAME`。',
+    answer: fallbackAnswer,
     mode: 'index-only',
     model: activeModel,
     usedIndexQueries: usedQueries,
     indexMatches: indexMatchesDTO,
     citations: [],
+    ...(webExtra ?? {}),
   };
 }
