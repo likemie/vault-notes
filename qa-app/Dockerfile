@@ -13,6 +13,6 @@ ENV NODE_ENV=production
 COPY package*.json ./
 RUN npm ci --omit=dev
 COPY --from=builder /app/dist ./dist
-COPY data/wiki-index.json ./data/wiki-index.json
+COPY data/wiki-index.json data/app-config.json ./data/
 EXPOSE 8080
 CMD ["node", "dist/server/index.js"]

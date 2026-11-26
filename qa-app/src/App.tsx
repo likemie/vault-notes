@@ -65,6 +65,13 @@ const MODEL_OPTIONS = [
   { value: 'gemini-3.1-pro-preview', label: 'Gemini 3.1 Pro Preview' },
 ];
 
+const OUTPUT_MODE_OPTIONS = [
+  { value: 'qa', label: '常规研究问答' },
+  { value: 'synthesis', label: '文献综合 / 写作底稿' },
+  { value: 'report', label: '主题 / 政策报告' },
+  { value: 'ppt', label: 'PPT 叙事结构' },
+];
+
 export default function App() {
   const [health, setHealth] = useState<HealthInfo | null>(null);
   const [password, setPassword] = useState(() => localStorage.getItem('qa_password') || '');
@@ -73,6 +80,7 @@ export default function App() {
 
   const [typeFilter, setTypeFilter] = useState('');
   const [model, setModel] = useState('gemini-3.8-flash');
+  const [outputMode, setOutputMode] = useState('qa');
 
   const [indexQuery, setIndexQuery] = useState('');
   const [indexResults, setIndexResults] = useState<IndexEntry[]>([]);
@@ -193,6 +201,7 @@ export default function App() {
           history: nextHistory,
           typeFilter: typeFilter || undefined,
           model,
+          outputMode,
         }),
       });
 
@@ -271,6 +280,17 @@ export default function App() {
           <label className="field-label">推理模型</label>
           <select value={model} onChange={(e) => setModel(e.target.value)}>
             {MODEL_OPTIONS.map((opt) => (
+              <option key={opt.value} value={opt.value}>
+                {opt.label}
+              </option>
+            ))}
+          </select>
+        </div>
+
+        <div className="panel-section">
+          <label className="field-label">回答组织模式（Vault Use）</label>
+          <select value={outputMode} onChange={(e) => setOutputMode(e.target.value)}>
+            {OUTPUT_MODE_OPTIONS.map((opt) => (
               <option key={opt.value} value={opt.value}>
                 {opt.label}
               </option>

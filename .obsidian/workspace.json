@@ -317,6 +317,8 @@
   },
   "active": "3643ff474ee79da9",
   "lastOpenFiles": [
+    "qa-app/dist/client/assets/index-wu7dgWdC.js",
+    "qa-app/data/app-config.json",
     "qa-app/data/sync-state.json",
     "qa-app/package-lock.json",
     "qa-app/dist/client/assets/index-DK7s8rtn.css",
@@ -326,8 +328,6 @@
     "qa-app/dist/server/index.js",
     "qa-app/dist/client/index.html",
     "qa-app/dist/client/assets",
-    "qa-app/dist/server",
-    "qa-app/dist/client",
     "qa-app/node_modules/send/node_modules/debug/node_modules/ms/readme.md",
     "qa-app/node_modules/send/node_modules/debug/node_modules/ms/license.md",
     "qa-app/node_modules/vite/node_modules/@esbuild/darwin-arm64/README.md",

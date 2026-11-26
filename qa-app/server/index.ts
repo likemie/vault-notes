@@ -21,12 +21,33 @@ const APP_DIR = path.basename(path.dirname(__dirname)) === 'dist'
 
 dotenv.config({ path: path.join(APP_DIR, '.env') });
 
+interface AppConfigFile {
+  fileSearchStoreName?: string;
+  quartzBaseUrl?: string;
+  defaultModel?: string;
+}
+
+function loadAppConfig(appDir: string): AppConfigFile {
+  const cfgPath = path.join(appDir, 'data', 'app-config.json');
+  if (!fs.existsSync(cfgPath)) return {};
+  try {
+    return JSON.parse(fs.readFileSync(cfgPath, 'utf-8')) as AppConfigFile;
+  } catch {
+    return {};
+  }
+}
+
+const appConfig = loadAppConfig(APP_DIR);
+
 const PORT = Number(process.env.PORT || 3000);
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY || '';
-const FILE_SEARCH_STORE_NAME = process.env.FILE_SEARCH_STORE_NAME || '';
-const DEFAULT_MODEL = process.env.GEMINI_MODEL || 'gemini-3.8-flash';
+const FILE_SEARCH_STORE_NAME =
+  process.env.FILE_SEARCH_STORE_NAME || appConfig.fileSearchStoreName || '';
+const DEFAULT_MODEL =
+  process.env.GEMINI_MODEL || appConfig.defaultModel || 'gemini-3.8-flash';
 const APP_ACCESS_PASSWORD = process.env.APP_ACCESS_PASSWORD || '';
-const QUARTZ_BASE_URL = process.env.QUARTZ_BASE_URL || '';
+const QUARTZ_BASE_URL =
+  process.env.QUARTZ_BASE_URL || appConfig.quartzBaseUrl || '';
 
 const VAULT_WIKI_DIR = path.resolve(APP_DIR, '..', 'wiki');
 const INDEX_PATH = resolveIndexPath(APP_DIR);
@@ -136,6 +157,10 @@ app.post('/api/chat', requirePassword, async (req, res) => {
       : undefined;
   const model =
     typeof req.body?.model === 'string' && req.body.model ? req.body.model : undefined;
+  const outputMode =
+    typeof req.body?.outputMode === 'string' && req.body.outputMode
+      ? (req.body.outputMode as 'qa' | 'synthesis' | 'report' | 'ppt')
+      : undefined;
 
   try {
     const result = await answerWithKnowledgeBase(
@@ -147,7 +172,7 @@ app.post('/api/chat', requirePassword, async (req, res) => {
         vaultWikiDir: fs.existsSync(VAULT_WIKI_DIR) ? VAULT_WIKI_DIR : undefined,
       },
       wikiEntries,
-      { message, history, typeFilter, model },
+      { message, history, typeFilter, model, outputMode },
     );
     res.json(result);
   } catch (err) {
