@@ -50,7 +50,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-31
-updated: 2026-11-26
+updated: 2026-11-28
 ---
 
 ---
@@ -121,7 +121,7 @@ updated: 2026-11-26
 > **范围收窄与变量化陈述机制** 缺乏经验的研究者易陷入泛化的问题领域，必须依托[[Literature Review|文献回顾]]识别知识空白，将粗略问题转化为具备两个以上变量、语言清晰明了且容许多元可能性的可检验陈述；在未明确问题内涵前盲目采集资料往往导致数据失效与分析混乱。[[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch. 1)]]
 
 > [!claim] [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al. (2011)]]
-> **[[Mixed Methods Question|混合方法研究问题]]的双重复杂性建构** Cohen et al. 转引 Onwuegbuzie 与 Leech（2006）指出，混合方法研究问题的界定难度显著高于单一范式，要求研究者在同一提问框架中兼顾量化变量相关（What）与质性质态探索（Why），通过将测验数值与感知叙事紧密咬合，实现探究深度的整体提升。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|(Cohen et al., 2011, Ch. 6; 引 Onwuegbuzie & Leech, 2006)]]
+> **[[Mixed Methods Question|混合方法研究问题]]的双重复杂性建构** Cohen et al. 转引 Onwuegbuzie and Leech (2006) 指出，混合方法研究问题的界定难度显著高于单一范式，要求研究者在同一提问框架中兼顾量化变量相关（What）与质性质态探索（Why），通过将测验数值与感知叙事紧密咬合，实现探究深度的整体提升。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|(Cohen et al., 2011, Ch. 6; 引 Onwuegbuzie & Leech, 2006)]]
 
 ---
 
@@ -143,10 +143,23 @@ updated: 2026-11-26
 ---
 
 > [!entry-map] 条目关联
-> - **上位目的与意图** — [[Research Purpose]]、[[Purpose Statement]]
-> - **起点与转化前件** — [[Research Problem]]、[[Literature Review]]、[[Deficiencies in Past Literature]]
-> - **平行预测与关键要素** — [[Hypothesis]]、[[Variable]]、[[Operationalization]]、[[Mixed Methods Question]]
-> - **关联方法路径** — [[Quantitative Research]]、[[Qualitative Research]]、[[Mixed Methods Research]]、[[Ethnography]]、[[Progressive Focussing]]
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Research Purpose]] | 概念 | 研究目的为研究问题提供上位意图，研究问题将其收窄为可回答的具体提问。 |
+> | [[Purpose Statement]] | 概念 | 目的陈述概括研究总目标，研究问题紧随其后将其转化为操作性疑问。 |
+> | [[Research Problem]] | 概念 | 研究议题界定现实困境或学术空白，构成提出研究问题的逻辑起点。 |
+> | [[Literature Review]] | 概念 | 文献回顾帮助研究者定位知识空白并收窄宽泛的研究问题。 |
+> | [[Deficiencies in Past Literature]] | 概念 | 既有文献缺口为确立研究问题的学术必要性提供直接依据。 |
+> | [[Hypothesis]] | 概念 | 量化假设对变量关系作出方向性预测，在量化设计中常与研究问题配套使用。 |
+> | [[Variable]] | 概念 | 解释性量化研究问题通常至少包含两个变量以界定待检关联。 |
+> | [[Operationalization]] | 概念 | 操作化将抽象研究问题转化为可收集经验证据的具体指标。 |
+> | [[Mixed Methods Question]] | 概念 | 混合方法研究问题是研究问题在混合方法范式下的专门形态，聚焦定性与定量数据整合。 |
+> | [[Quantitative Research]] | 方法 | 量化研究围绕变量差异与预测设立研究问题，并与统计假设检验衔接。 |
+> | [[Qualitative Research]] | 方法 | 质性研究仅采用开放性核心问题与子问题，排除方向性预设。 |
+> | [[Mixed Methods Research]] | 方法 | 混合方法研究同时设置量化、质性与整合三类研究问题。 |
+> | [[Ethnography]] | 方法 | 归纳式人种志常避免刚性预设研究问题，允许探究焦点在田野观察中涌现。 |
+> | [[Progressive Focussing]] | 方法 | 逐步聚焦刻画研究问题随田野推进不断收窄与明晰的动态过程。 |
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al. (2011)]] — 梳理研究问题六类谱系及混合方法问题特征，反思预设研究问题对民族志涌现性的限制（Ch. 6）。
