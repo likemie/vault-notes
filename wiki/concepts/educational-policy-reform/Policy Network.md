@@ -12,7 +12,7 @@ aliases:
 summary: "由政府部门、中介组织、智库、高校与私有资本等多元行动者交织构成的网状治理结构。在批判政策社会学中揭示国家作为市场缔造者与私营中介协同重构再分配与理念编排的异层治理，在实证治理中测度政务网络规模与互动深度的非线性脱节。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 92
+related_count: 94
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -50,6 +50,7 @@ related_concepts:
   - "[[Relational Space]]"
   - "[[Knowledge Production]]"
   - "[[Incommensurability]]"
+  - "[[Instrumental Rationality]]"
   - "[[Network Governance]]"
   - "[[Teacher Qualifications]]"
   - "[[Policy Ambassador]]"
@@ -88,6 +89,7 @@ related_persons:
   - "[[Walter J. M. Kickert]]"
   - "[[John O'Neill]]"
   - "[[John Hattie]]"
+  - "[[Gary Rhoades]]"
   - "[[Stephen Ball]]"
   - "[[Sir Kevan Collins]]"
   - "[[Michael Traill]]"
@@ -124,7 +126,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-17
-updated: 2026-11-19
+updated: 2026-11-28
 ---
 
 ---
@@ -266,7 +268,7 @@ updated: 2026-11-19
 
 > [!claim] [[Walter J. M. Kickert|Kickert, W. J. M.]]
 > **科层命令在多理性政策网络中的逻辑破产断言** 瓦尔特·基克特（[[Walter J. M. Kickert]]）指出，现代公共治理系统（尤其是高等教育与科研领域）本质上是由高度分工的专业人员相互依赖交织而成的政策网络，传统的韦伯科层命令假定在此面临根本性的逻辑破产：
-> 1. **异质专业理性的[[Incommensurability|不可通约性]]** 组织专业化导致不同行动者各自遵循其特定学科共同体或职业部门的异质理性与价值标准（如医学院、经济学院与工程学院），不存在能够统领全局的单一最高工具理性；
+> 1. **异质专业理性的[[Incommensurability|不可通约性]]** 组织专业化导致不同行动者各自遵循其特定学科共同体或职业部门的异质理性与价值标准（如医学院、经济学院与工程学院），不存在能够统领全局的单一最高[[Instrumental Rationality|工具理性]]；
 > 2. **绝对顶层权威的客观缺失** 政策网络内不存在拥有绝对控制力的单一权力中心（“网络中没有绝对顶层”）；在此拓扑结构下，自上而下的单边强制命令不仅无法实现预期协调目标，反而会诱发普遍的消极抵触与系统瘫痪；
 > 3. **[[Network Governance|网络治理]]向激励与协商对话的[[Paradigm|范式]]转移** 当强制命令失效时，国家必须调整调控工具，放弃微观事前干预，转向利用非强制性激励、事后质量信息反馈以及基于客观论据的理性协商对话。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 148–150)]]
 
@@ -308,7 +310,7 @@ updated: 2026-11-19
 
 > [!dev-timeline] 概念演变
 > - **1960s–1970s [[Pluralism|多元主义]]与执行网络奠基** 罗伯特·达尔（Robert Dahl, 1961）从多元主义视角将政府视作多元冲突利益行动者的谈判网络；普雷斯曼与瓦尔达夫斯基（Pressman & Wildavsky, 1975）及汉夫与夏普夫（Hanf & Scharpf, 1979）开创政策执行中的组织间[[Network Analysis|网络分析]]。
-> - **1980s–1990s 欧陆公共行政与[[Network Governance|网络治理]]理论成型** 莱姆布鲁赫与施密特（Lehmbruch & Schmitter, 1982）奠定[[Neocorporatism|新法团主义]]网络协调；[[Walter J. M. Kickert|瓦尔特·基克特]]（Kickert, 1991, 1995）与罗兹（Rhodes, 1996）系统论证政策网络的去中心化、多理性与相互依赖特征，确立“网络中无绝对顶层”与[[Steering at a Distance|间接调控]]治理[[Paradigm|范式]]。
+> - **1980s–1990s 欧陆公共行政与[[Network Governance|网络治理]]理论成型** 莱姆布鲁赫与施密特（Lehmbruch & Schmitter, 1982）奠定[[Neocorporatism|新法团主义]]网络协调；[[Walter J. M. Kickert|瓦尔特·基克特]]（Kickert, 1991, 1995）与[[Gary Rhoades|罗兹]]（Rhodes, 1996）系统论证政策网络的去中心化、多理性与相互依赖特征，确立“网络中无绝对顶层”与[[Steering at a Distance|间接调控]]治理[[Paradigm|范式]]。
 > - **2012 跨国政策网络转向** [[Stephen Ball\|斯蒂芬·鲍尔]]（[[Stephen Ball]]）提出全球政策网络与异质治理概念，指涉跨国中介公司、[[Venture Philanthropy\|风险慈善]]基金会以及[[Neoliberalism|新自由主义]]智库对主权国家公共政策的网状操纵。
 > - **2018 证据生态网络的合流** 以英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）实施全球[[Evidence Ecosystem\|证据生态系统]]计划为代表，政策网络披上“中立科学”外衣，在多国平移复制镜像证据组织（如[[Australian Education Research Organisation\|澳大利亚教育研究组织]]，Australian Education Research Organisation, AERO）。
 > - **2020 跨国市政网络与南南政策循环** 戴安娜·斯通等（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）阐发跨国政策网络超越北方单向输出通道，依托跨国城际网络、专业实务网络与政策大使，推动全球南方制度创新的反向扩散与多向跨国政策循环（pp. 2–6）。

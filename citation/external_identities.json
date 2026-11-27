@@ -471,7 +471,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
+        "wiki/theories/higher-education/System of Professions.md"
       ],
       "title": "The System of Professions: An Essay on the Division of Expert Labor"
     },
@@ -488,7 +489,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
+        "wiki/theories/higher-education/System of Professions.md"
       ],
       "title": "The System of Professions: An Essay on the Division of Expert Labor"
     },
@@ -2058,7 +2060,7 @@
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md",
         "wiki/concepts/competency-and-assessment/Problem Solving.md"
       ],
-      "title": ""
+      "title": "Mathematical problem solving"
     },
     "Alan Jacobs, 2009": {
       "doi": "",
@@ -13208,7 +13210,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
       ],
-      "title": ""
+      "title": "Lerngelegenheiten angehender Mathematiklehrkräfte für die Sekundarstufe I im internationalen Vergleich"
     },
     "Boardman & Woodruff, 2004": {
       "doi": "",
@@ -25196,7 +25198,7 @@
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md",
         "wiki/methods/qualitative/Systematic Review.md"
       ],
-      "title": ""
+      "title": "The handbook of research synthesis"
     },
     "Cooper & Koenka, 2012": {
       "doi": "",
@@ -29716,14 +29718,6 @@
       "seen_in": [],
       "title": "Effective differentiation practices: A systematic review and meta-analysis of studies on the cognitive effects of differentiation practices in primary education."
     },
-    "Deutsch, 1949": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/theories/instruction-pedagogy/Social Interdependence Theory.md"
-      ],
-      "title": ""
-    },
     "Deutscher Bundestag - wissenschaftliche Dienste, 2016": {
       "doi": "",
       "isbn": "",
@@ -29738,7 +29732,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
       ],
-      "title": ""
+      "title": "Schülerleistungen im internationalen Vergleich. Eine neue Rahmenkonzeption für die Erfassung von Wissen und Fähigkeiten"
     },
     "Deutsches PISA-Konsortium, 2001": {
       "doi": "",
@@ -42376,7 +42370,7 @@
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md",
         "wiki/concepts/competency-and-assessment/Problem Solving.md"
       ],
-      "title": ""
+      "title": "Schule des Denkens. Vom Lösen mathematischer Probleme"
     },
     "George Smith, 2000": {
       "doi": "",
@@ -42962,7 +42956,7 @@
         "wiki/concepts/research-methodology/Critique of Meta-analysis.md",
         "wiki/methods/quantitative/Effect Size Conversion.md"
       ],
-      "title": ""
+      "title": "Effects of problem-based learning. A meta-analysis from the angle of assessment"
     },
     "Gijbels et al., 2005a": {
       "datasets": [
@@ -50297,6 +50291,7 @@
         "wiki/concepts/instruction-pedagogy/Teacher Clarity.md",
         "wiki/concepts/learning-science-cognitive-science/Learning Strategies.md",
         "wiki/concepts/learning-science-cognitive-science/Surface and Deep Learning.md",
+        "wiki/concepts/teacher-education/Teacher Expectations.md",
         "wiki/methods/quantitative/Meta-meta-analysis.md"
       ],
       "title": "Lernen sichtbar machen"
@@ -52175,6 +52170,14 @@
         "wiki/arguments/journal-articles/Journal of Curriculum Studies/Argument_McPhail_2023_JCS.md"
       ],
       "title": ""
+    },
+    "Hilbert Meyer, 2004": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
+      ],
+      "title": "Was ist guter Unterricht?"
     },
     "Hildebrand, 1997": {
       "datasets": [
@@ -58435,8 +58438,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Current Psychology/Argument_Gungor_2026_CP.md",
-        "wiki/concepts/instruction-pedagogy/Cooperative Learning.md",
-        "wiki/theories/instruction-pedagogy/Social Interdependence Theory.md"
+        "wiki/concepts/instruction-pedagogy/Cooperative Learning.md"
       ],
       "title": ""
     },
@@ -66034,6 +66036,22 @@
       ],
       "title": "Bund und Länder wollen China-Kompetenz fördern"
     },
+    "Kultusministerkonferenz, 2003": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
+      ],
+      "title": "Bildungsstandards im Fach Mathematik für den Mittleren Schulabschluss"
+    },
+    "Kultusministerkonferenz, 2004": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
+      ],
+      "title": "Bildungsstandards im Fach Mathematik für den Primarbereich"
+    },
     "Kumar, 1991": {
       "datasets": [
         "metax:S0130"
@@ -66523,6 +66541,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md",
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md",
         "wiki/facts/germany/Gymnasium.md",
         "wiki/facts/global/PISA.md",
@@ -69388,7 +69407,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
-        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md",
+        "wiki/persons/us/Gary Rhoades.md"
       ],
       "title": "Rising Administrative Costs"
     },
@@ -69532,7 +69552,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
       ],
-      "title": ""
+      "title": "Die Problemlösekompetenz in den Ländern der Bundesrepublik Deutschland"
     },
     "Leuven & Oosterbeek, 2018": {
       "datasets": [
@@ -88031,7 +88051,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
       ],
-      "title": ""
+      "title": "Choreographies of teaching: Bridging instruction to learning"
     },
     "Osgood et al., 1957": {
       "doi": "",
@@ -89934,7 +89954,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
       ],
-      "title": ""
+      "title": "The heart of mathematics"
     },
     "Paul Romer, 1986": {
       "doi": "",
@@ -94220,6 +94240,14 @@
       ],
       "title": ""
     },
+    "Pólya, 1949": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
+      ],
+      "title": "Schule des Denkens. Vom Lösen mathematischer Probleme"
+    },
     "Pöggeler, 1974": {
       "doi": "",
       "isbn": "",
@@ -96069,7 +96097,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
       ],
-      "title": ""
+      "title": "Kompetenzstufenmodelle im Fach Mathematik"
     },
     "Reiter, 2019": {
       "doi": "",
@@ -96455,7 +96483,8 @@
       "doi": "10.2307/2112879",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
+        "wiki/persons/us/Gary Rhoades.md"
       ],
       "title": "Professors, Administrators, and Patents: The Negotiation of Technology Transfer"
     },
@@ -96475,7 +96504,8 @@
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md",
         "wiki/concepts/higher-education/Enabling Bureaucracy.md",
-        "wiki/concepts/higher-education/Professional Support Staff.md"
+        "wiki/concepts/higher-education/Professional Support Staff.md",
+        "wiki/persons/us/Gary Rhoades.md"
       ],
       "title": "Managed Professionals"
     },
@@ -96484,7 +96514,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
-        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md"
+        "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md",
+        "wiki/persons/us/Gary Rhoades.md"
       ],
       "title": "Envisioning Invisible Workforces: Enhancing Intellectual Capital"
     },
@@ -96630,14 +96661,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/educational-philosophy/Phenomenology.md"
-      ],
-      "title": ""
-    },
-    "Richard J. Shavelson, 2007": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
       ],
       "title": ""
     },
@@ -98690,10 +98713,11 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md",
         "wiki/facts/global/PISA.md",
         "wiki/facts/global/TIMSS.md"
       ],
-      "title": ""
+      "title": "Der Ländervergleich im Fach Mathematik"
     },
     "Rorty, 1979": {
       "doi": "",
@@ -102875,7 +102899,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
       ],
-      "title": ""
+      "title": "Mathematikunterricht in Deutschland: Befunde aus PISA 2012"
     },
     "Schifano, 2011": {
       "datasets": [
@@ -108052,8 +108076,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/instruction-pedagogy/Cooperative Learning.md",
-        "wiki/persons/us/Mark Schneider.md",
-        "wiki/theories/instruction-pedagogy/Social Interdependence Theory.md"
+        "wiki/persons/us/Mark Schneider.md"
       ],
       "title": ""
     },
@@ -111603,7 +111626,7 @@
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md",
         "wiki/facts/global/TIMSS.md"
       ],
-      "title": ""
+      "title": "The TIMSS videotape classroom study. Methods and findings from an exploratory research project on eighth-grade mathematics instruction in Germany, Japan, and the United States"
     },
     "Stiglitz, 2002": {
       "doi": "",
@@ -113444,6 +113467,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Impact of a multicomponent physical activity intervention on cognitive performance  The MOVI‐KIDS study"
+    },
+    "Sälzer et al., 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
+      ],
+      "title": "Zwischen Grundlagenwissen und Anwendungsbezug. Mathematische Kompetenz im internationalen Vergleich"
     },
     "Sénéchal & Young, 2008": {
       "datasets": [
@@ -130322,14 +130353,6 @@
       ],
       "title": ""
     },
-    "初中, 2003": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/facts/germany/KMK-Bildungsstandards.md"
-      ],
-      "title": ""
-    },
     "利奥塔, 1979": {
       "doi": "",
       "isbn": "",
@@ -130870,14 +130893,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/comparative-education/National Character.md"
-      ],
-      "title": ""
-    },
-    "小学, 2004": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
       ],
       "title": ""
     },
@@ -133019,14 +133034,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/us/James Mahoney.md"
-      ],
-      "title": ""
-    },
-    "高中毕业, 2012": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/facts/germany/KMK-Bildungsstandards.md"
       ],
       "title": ""
     },

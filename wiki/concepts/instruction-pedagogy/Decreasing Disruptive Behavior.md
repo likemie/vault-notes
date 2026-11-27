@@ -2,27 +2,67 @@
 title: Decreasing Disruptive Behavior
 aliases:
   - 减少扰乱行为
-summary: "Visible Learning MetaX 因素减少扰乱行为的条目，归属课堂 › 课堂管理；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
+summary: "减少课堂扰乱与干扰学习行为的教学管理与行为干预构念，涵盖早期识别潜在行为问题、预防性常规设计与建设性行为引导。在可见学习排名体系中位列前列，也是保障合作学习小组秩序的关联因子。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - metax
   - eef
-related_concepts: []
+  - theme/classroom-management
+related_concepts:
+  - "[[Visible Learning]]"
+  - "[[Classroom Management]]"
+  - "[[Cooperative Learning]]"
+  - "[[Student-Teacher Relationship]]"
+  - "[[Document]]"
+  - "[[Heterogeneity]]"
+  - "[[Cognitive Activation]]"
+  - "[[Strong Classroom Cohesion]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[Education Endowment Foundation]]"
+related_arguments:
+  - "[[Argument_Kremers_2014_CooperativeLearning]]"
 confidence: medium
-status: draft
+status: active
 created: 2026-10-22
-updated: 2026-10-26
+updated: 2026-11-28
+---
+
+> [!def] Decreasing Disruptive Behavior
+> 减少扰乱行为（Decreasing Disruptive Behavior，德语译名：Beeinflussung von Verhalten in der Klasse）指教师及学校通过结构化常规、积极行为引导与针对性行为干预，及早识别并减少课堂干扰与违纪行为的实践机制。在[[Visible Learning\|可见的学习]]因素体系中归属[[Classroom Management\|课堂管理]]维度，并作为辅助保障要素支持[[Cooperative Learning\|合作学习]]小组秩序的稳定运行。[[Argument_Kremers_2014_CooperativeLearning\|(Kremers, 2014, pp. 85–87)]]
+
+> [!concept-lens|notitle] 概念透镜
+> - **含义** 聚焦预防与减少破坏课堂专注、打断同伴协作与侵蚀教学时间的显性扰乱行为。
+> - **用途** 解释课堂秩序管理与有针对性的行为支持如何为高质量学科学习与小组协作腾出稳定时空。
+> - **边界** 减少扰乱行为侧重针对行为干扰的预防与矫正干预，区别于统筹时间利用、目标清晰度与团队协作的广义[[Classroom Management\|课堂管理]]，亦不等同于惩罚性压制纪律。
+
+---
+
+> [!concept-proposition] 命题一｜早期识别与减少课堂扰乱行为配合课堂管理常规，支撑合作小组的有序学习
+> **秩序保障与协作前提** 探讨行为干扰控制与课堂管理如何共同托底合作课堂学习过程。
+
+> [!claim] Kremers, T.
+> **课堂行为调控与[[Classroom Management\|课堂管理]]协同保障合作学习秩序** 克雷默斯（援引《可见的学习》因子体系）将课堂行为调控列为[[Cooperative Learning\|合作学习]]的重要外围互补因素之一，并指出良好课堂管理的核心特征在于学习小组组织有序，以及教师能够及早识别潜在行为问题并妥善回应，从而显著降低课堂干扰；结合良好[[Student-Teacher Relationship|师生关系]]以及高主导性与高合作性，“个体—同伴—小组”三步合作结构方能稳健运转。[[Argument_Kremers_2014_CooperativeLearning\|(Kremers, 2014, pp. 85–87)]]
+
+---
+
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 关键机制与情境条件 | 代表[[Document\|文献]] |
+> |---|---|---|---|
+> | **行为调控保障协作** | 早期识别并减少行为干扰配合课堂管理支撑合作小组正常运转 | 提前预防与妥善应对 + 清晰目的与积极师生关系 | [[Argument_Kremers_2014_CooperativeLearning\|Kremers (2014)]] |
+
+> [!warning|limits] 适用局限
+> 1. **干预[[Heterogeneity|异质性]]显著** [[Education Endowment Foundation|教育捐赠基金会]]（EEF）“行为干预”证据汇总显示研究间异质性极高（$I^2 = 95\%$），干预成效高度依赖具体执行保真度与学校配套支持；
+> 2. **必要非充分秩序条件** 减少扰乱行为虽能保障课堂基本秩序与专注时间，本身不能自动促发深层[[Cognitive Activation|认知激活]]或高质量概念建构。
+
 ---
 
 > [!metax-divider]
@@ -135,3 +175,20 @@ updated: 2026-10-26
 > > | August (2006) | 期刊论文 | −0.25 | −0.51 ~ −0.00 | 1.1% |  |
 > > | Ford (2010) | 学位论文 | −0.31 | −0.75 ~ 0.12 | 0.7% |  |
 > > | Benner (2012) | 期刊论文 | −0.36 | −0.91 ~ 0.18 | 0.5% |  |
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |---|---|---|
+> | [[Classroom Management]] | 概念 | 上位机制，包含早期行为问题干预、时间统筹与结构化常规组织。 |
+> | [[Cooperative Learning]] | 概念 | 应用情境，课堂行为干扰控制与有序小组编排保障“个体—同伴—小组”协作开展。 |
+> | [[Strong Classroom Cohesion]] | 概念 | 氛围配套，积极工作气候与班级归属感有助于减少对抗与课堂违纪。 |
+> | [[Student-Teacher Relationship]] | 概念 | 情感前提，稳固信任的师生关系支撑非惩罚性行为引导。 |
+> | [[Visible Learning]] | 概念 | 宏观综合框架，将减少扰乱行为纳入课堂管理关键影响因素队列。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014)]] — 在合作学习协同因素分析中将课堂行为调控（Rank 6）列为高影响特征因子，并借助课堂管理说明早期识别潜在行为问题与减少干扰对合作课堂运行的前提作用（pp. 85–87）。

@@ -8,7 +8,7 @@ aliases:
 summary: "教师对学生未来学业成就、认知潜能与行为发展的预设判断与主观推断，能通过微观课堂互动与差异化教学行为转化为自我实现预言；在可见学习中以d=0.43稳居期望发展区，而给学生贴负面标签则产生d=-0.53的显著学业受损。"
 type: concept
 domain: "teacher-education"
-related_count: 13
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,29 +17,27 @@ tags:
   - teacher-education
   - instruction-pedagogy
 related_concepts:
-  - "[[Teacher Effects]]"
-  - "[[Effective Teaching]]"
-  - "[[Student-Teacher Relationship]]"
-  - "[[Academic Achievement]]"
-  - "[[Zone of Desired Effects]]"
-  - "[[Visible Learning]]"
   - "[[Self-Efficacy]]"
+  - "[[Explicit Teaching Strategies]]"
+  - "[[Student-Teacher Relationship]]"
+  - "[[Effective Teaching]]"
+  - "[[Zone of Desired Effects]]"
+  - "[[Teacher Effects]]"
+  - "[[Visible Learning]]"
 related_theories: []
-related_methods:
-  - "[[Meta-analysis]]"
-  - "[[Meta-meta-analysis]]"
-  - "[[Effect Size]]"
+related_methods: []
 related_instruments: []
 related_persons:
-  - "[[John Hattie]]"
   - "[[Ewald Terhart]]"
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Terhart_2014_HolyGrail]]"
+  - "[[Argument_Kremers_2014_CooperativeLearning]]"
 confidence: high
-status: completed
+status: active
 created: 2026-10-22
-updated: 2026-11-23
+updated: 2026-11-28
 ---
 
 ---
@@ -92,10 +90,10 @@ updated: 2026-11-23
 > **期望传递与自我实现机制** 心理学与实证教学研究系统证实，教师对学生认知潜能的积极期待能够通过微观教学行为有效内化为学生的自我效能感与学业抱负，推动学业成就的持续攀升。
 
 > [!claim] Rosenthal, R. & Rubin, D. B.
-> **实验性人际期望效应的广泛存在** 罗伯特·罗森塔尔（Robert Rosenthal）与唐纳德·鲁宾（Donald Rubin, 1978）汇总 345 项关于人际期望的实验研究，证实教师或实验者的预先期望能够对被试或学生的实际表现产生中等到高度的促进效应（$d = 0.70$），确立了期望作为行为塑造力量的经典心理学地位。
+> **实验性人际期望效应的广泛存在** 罗伯特·罗森塔尔（Robert Rosenthal）与唐纳德·鲁宾（Donald Rubin, 1978）汇总人际期望实验研究，证实教师或实验者的预先期望能够对被试或学生的实际表现产生中等到高度的促进效应，确立了期望作为行为塑造力量的经典心理学地位。
 
-> [!claim] [[Argument_Terhart_2014_HolyGrail|Terhart (2014, p. 19)]]
-> **教师期望的宏观效应定位** 特哈特在梳理《可见的学习》德译本核心实证数据时指出，在教师维度的影响因素中，教师期望汇总 8 项一阶元分析，获得 $d = 0.43$ 的平均效应量，稳居 $d \ge 0.40$ 的期望效应区；反之，若教师陷入对学生的负面定势甚至公开贴标签，将造成严重的反向抑制（$d = -0.53$）。这表明教师必须持有挑战性期望并避免固定型思维定势。
+> [!claim] [[Argument_Terhart_2014_HolyGrail|Terhart (2014, p. 19)]]; [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014, p. 85)]]
+> **教师期望与教学策略及师生关系的协同效应** 特哈特在梳理《可见的学习》德译本数据时指出，教师期望位于正向效应区，而若教师对学生陷入负面定势甚至公开贴标签则会造成学业受抑。克雷默斯进一步引述哈蒂（Hattie, 2013, p. 151）提醒，单一“教师个人”并不足以解释教学差异，真正产生超常学习成效的教师是把对全体学生怀抱高期望与[[Explicit Teaching Strategies|特定教学方法]]及积极[[Student-Teacher Relationship|师生关系]]结合运用的实践者。
 
 ---
 
@@ -103,15 +101,15 @@ updated: 2026-11-23
 > **标签效应与赤字定势的危害** 实证研究一致表明，基于学生先赋背景或学业挫折形成的负面标签不仅严重削弱学生的学习动机，更在微观课堂中诱发低水平机械教学，导致显著的学业受损。
 
 > [!claim] Fuchs, L. S. et al.
-> **学困生分类标签的负向拖拽** 林恩·富克斯（Lynn Fuchs）等学者在元分析中对比了未贴标签的低学业成就学生与被正式贴上学习障碍标签的学生在阅读发展上的差异，证实分类标签本身对学业成就具有显著的负面效应（$d = -0.61$），暴露出缺陷归因模型对学生潜能释放的体制性阻碍。
+> **学困生分类标签的负向拖拽** 林恩·富克斯（Lynn Fuchs）等学者在元分析中对比了未贴标签的低学业成就学生与被正式贴上学习障碍标签的学生在阅读发展上的差异，证实分类标签本身对学业成就具有显著的负面效应，暴露出缺陷归因模型对学生潜能释放的体制性阻碍。
 
 ---
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **期望动力命题** | 教师积极期望通过微观互动转化为自我实现预言，构成学业增益的有效动力（$d=0.43$） | 课堂师生互动、挑战性目标设置、潜能激发 | Rosenthal and Rubin (1978); [[Argument_Terhart_2014_HolyGrail\|Terhart (2014)]] |
-> | **反向标签命题** | 负面刻板标签直接挫伤自我效能感并导致显著学业受损（$d=-0.53$） | 学困生转化、特殊教育分流、班级管理 | Fuchs et al. (2002); [[Argument_Terhart_2014_HolyGrail\|Terhart (2014)]] |
+> | **期望动力与方法协同命题** | 教师积极期望转化为自我实现预言，并在与特定教学方法及积极师生关系配合下发挥最大效用 | 课堂师生互动、合作与结构化教学设计 | Rosenthal and Rubin (1978); [[Argument_Terhart_2014_HolyGrail\|Terhart (2014)]]; [[Argument_Kremers_2014_CooperativeLearning\|Kremers (2014)]] |
+> | **反向标签命题** | 负面刻板标签直接挫伤自我效能感并导致显著学业受损 | 学困生转化、特殊教育分流、班级管理 | Fuchs et al. (2002); [[Argument_Terhart_2014_HolyGrail\|Terhart (2014)]] |
 
 ---
 
@@ -212,6 +210,7 @@ updated: 2026-11-23
 > |---|---|---|
 > | [[Effective Teaching]] | 概念 | 教师积极期望作为创设支持性课堂生态与高标准挑战的核心要素。 |
 > | [[Student-Teacher Relationship]] | 概念 | 期望传递所依托的微观人际交往渠道与信任纽带。 |
+> | [[Explicit Teaching Strategies]] | 概念 | 协同实践条件，高期望须与特定教学方法和清晰支架配合方能拉高学习成效。 |
 > | [[Self-Efficacy]] | 概念 | 教师高期待所激活的学生内在学科学业自我效能感。 |
 > | [[Zone of Desired Effects]] | 概念 | 教师期望以 $d = 0.43$ 稳居期望效应区的实证基准。 |
 > | [[Teacher Effects]] | 概念 | 教师个体特质与信念对学生发展产生系统性分流效应的核心构成。 |
@@ -224,3 +223,4 @@ updated: 2026-11-23
 > [!evidence-grid-a|notitle] 相关研究索引
 > - Rosenthal and Rubin (1978) — 经典元分析汇总 345 项人际期望实验，确立教师期望对被试表现具有稳健促进效应（$d = 0.70$）。
 > - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 结合德译本梳理教师期望（$d = 0.43$）与避免贴标签（$d = 0.61$）在教师效能要素中的核心地位，警示负面标签的学业破坏力（p. 19）。
+> - [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014)]] — 援引 Hattie (2013, p. 151) 阐明高成效教学依托教师将高期望与特定教学策略及积极师生关系协同运用，破除“唯教师个人论”的片面解读（p. 85）。

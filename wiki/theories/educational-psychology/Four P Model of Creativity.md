@@ -9,10 +9,10 @@ aliases:
 summary: "由罗兹提出的经典创造力全域整合分析框架，将创造力系统解构为人（Person）、过程（Process）、产品（Product）与压力/环境（Press）四个交互维度，构成创造力心理学与教育实证研究的奠基性元理论。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 39
-theory_related_level: 3
-theory_related_stars: "💎"
-theory_related_color: "#ede9fe"
+theory_related_count: 40
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - field/educational-psychology
   - theme/creativity
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Wicked Problem]]"
   - "[[Open-Mindedness]]"
+  - "[[Instructional Design]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-11-15
+updated: 2026-11-28
 ---
 
 ---
@@ -168,7 +169,7 @@ updated: 2026-11-15
 > 2. **Person（主体激活）** 任务激活了不同学科背景学生的经验开放性与创造性[[Self-Efficacy\|自我效能感]]，破除了传统唯智商论的筛选门槛；
 > 3. **Process（认知重构）** 学生经历“[[Problem Finding\|问题发现]] → 多方案发散 → 原型迭代 → 方案评估”的全流程认知加工，而非孤立做发散练习；
 > 4. **Product（产品物化）** 最终小组产出实体设计原型，由跨学科专家采用[[Consensual Assessment Technique\|同感评估技术]]（CAT）进行盲评。
-> 该案例清晰展现了 4P 并非割裂拼盘，而是通过教学设计实现要素协同闭环。
+> 该案例清晰展现了 4P 并非割裂拼盘，而是通过[[Instructional Design|教学设计]]实现要素协同闭环。
 
 ---
 

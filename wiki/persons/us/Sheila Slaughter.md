@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: "us"
 person_region: "us"
-person_related_count: 23
+person_related_count: 24
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -48,11 +48,12 @@ related_arguments:
 related_methods:
   - "[[Analytic Framework]]"
 related_persons:
+  - "[[Gary Rhoades]]"
   - "[[James Madison]]"
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-11-19
+updated: 2026-11-28
 ---
 
 ---
@@ -60,7 +61,7 @@ updated: 2026-11-19
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代著名高等教育社会学家、佐治亚大学（University of Georgia）麦克比高等教育研究所荣休讲席教授，美国高等教育研究学会（ASHE）前主席。
 > - **核心角色** 现代高等教育研究中“[[Academic Capitalism|学术资本主义]]”（Academic Capitalism）理论的奠基领袖；战后美国高校科研政策与“[[Social Contract of Science|科学社会契约]]”演变的重要实证批判学者。
-> - **代表贡献** 与拉里·莱斯利（Larry L. Leslie）及加里·罗兹（Gary Rhoades）合作出版《学术资本主义》（1997）与《学术资本主义与新经济》（2004），实证揭示冷战后大学如何通过专利转让与商业化融入市场，并论证了后冷战时期联邦科研中“多重契约并存”的制度生态。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
+> - **代表贡献** 与拉里·莱斯利（Larry L. Leslie）及[[Gary Rhoades|加里·罗兹]]（Gary Rhoades）合作出版《学术资本主义》（1997）与《学术资本主义与新经济》（2004），实证揭示冷战后大学如何通过专利转让与商业化融入市场，并论证了后冷战时期联邦科研中“多重契约并存”的制度生态。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 
 > [!citation-card] 多重契约交叠与学术资本主义
 > 希拉·斯劳特（Sheila Slaughter）等学者的实证研究表明，冷战后实际形成了冷战遗产契约、经济[[Competitiveness|竞争力]]契约与健康研究专项契约交叠共存的复合生态，有别于从国防契约向经济契约的一刀切替换假设；大学科研人员主动利用市场化手段获取资源，重塑了科学社会契约的内部微观机制。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]

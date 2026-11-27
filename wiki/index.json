@@ -25874,6 +25874,16 @@
     ]
   },
   {
+    "title": "System of Professions",
+    "type": "theory",
+    "path": "wiki/theories/higher-education/System of Professions.md",
+    "aliases": [
+      "职业系统理论",
+      "职业分工与管辖权理论",
+      "专业系统理论"
+    ]
+  },
+  {
     "title": "Triangle of Coordination",
     "type": "theory",
     "path": "wiki/theories/higher-education/Triangle of Coordination.md",
@@ -28714,6 +28724,17 @@
       "框架综合",
       "框架式综合",
       "best fit framework synthesis"
+    ]
+  },
+  {
+    "title": "Gioia Methodology",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Gioia Methodology.md",
+    "aliases": [
+      "Gioia 归纳法",
+      "Gioia 方法论",
+      "Gioia 编码法",
+      "Gioia 数据结构法"
     ]
   },
   {
@@ -39091,6 +39112,15 @@
       "威廉·施坚雅",
       "G·威廉·施坚雅",
       "Skinner, G. W."
+    ]
+  },
+  {
+    "title": "Gary Rhoades",
+    "type": "person",
+    "path": "wiki/persons/us/Gary Rhoades.md",
+    "aliases": [
+      "加里·罗兹",
+      "Rhoades, G."
     ]
   },
   {

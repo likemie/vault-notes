@@ -7,7 +7,7 @@ title: "Argument_Rowe_2023_ECNUROE"
 argument_key: "Argument_Rowe_2023_ECNUROE"
 argument_display_title: "Philanthrocapitalism and the state: Mapping the rise of venture philanthropy in public education in Australia"
 argument_kind: "journal-article"
-argument_related_count: 52
+argument_related_count: 53
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -70,6 +70,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Michael Traill]]"
+  - "[[Gary Rhoades]]"
   - "[[Bruno Latour]]"
   - "[[Diana Crane]]"
   - "[[David Gonski]]"
@@ -93,7 +94,7 @@ sources:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-11-19
+updated: 2026-11-28
 ---
 ---
 
@@ -190,7 +191,7 @@ updated: 2026-11-19
 针对政策网络研究中关于国家治理空心化还是国家科层恒定主导的学术论争，澳大利亚的实证材料为超越二元对立提供了全新解释。
 
 > [!tension] 国家在政策网络中角色的学术[[Paradigm\|范式]]冲突
-> - **国家空心化范式（蓝方）** 罗兹（Rhodes, 1996）等学者主张无政府治理（governance without government），断言跨国咨询采购与政策网络已实质掏空民族国家的垂直主权与统治权威。
+> - **国家空心化范式（蓝方）** [[Gary Rhoades|罗兹]]（Rhodes, 1996）等学者主张无政府治理（governance without government），断言跨国咨询采购与政策网络已实质掏空民族国家的垂直主权与统治权威。
 > - **恒定科层国家范式（红方）** 传统国家学者（Han & Ye, 2017; Shiroma, 2014）坚持中央科层仍处于不可动摇的支配位置，政策网络仅是服从国家命令的工具性执行机制。
 
 澳大利亚的实证证据否定了单纯的国家空心化假说：国家并未退场，而是与[[Bureaucracy|科层制]]及市场机制相叠加，演化为鲍尔（Stephen J. Ball）所界定的异层治理（heterarchy）。

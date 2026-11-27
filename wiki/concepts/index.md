@@ -1218,7 +1218,7 @@ Total entries: **2254**
 > - [[Blended Learning]] — 有机结合面对面实体课堂教学与数字化在线学习环境的教学模式，通过整合物理临场交互、异步自主探究与自适应智能支架，重构学习时空并促进深层理解与高阶思维发展。
 > - [[Brainstorming]] — 由亚历克斯·奥斯本提出的经典发散构思与群体创造力技法，以“延迟评判、以量求质、自由畅想、搭便车改进”四大原则为基石。当代群体动力学研究揭示了面对面口头互动中的生产阻塞与评价顾虑，推动了书面脑力激荡与个体-群体混合模式的发展。
 > - [[Captions and Subtitles]] — Visible Learning MetaX 因素字幕的条目，归属教学策略 › 教学方法；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
-> - [[Class Climate Effects]] — Visible Learning MetaX 因素班级氛围的条目，归属课堂 › 课堂氛围；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
+> - [[Class Climate Effects]] — 班级内部共同感知的心理安全感、支持性工作气氛与人际氛围对学生学习过程及学业成就的影响机制。在合作学习中，安全课堂氛围依托先期师生关系建立，并经由班级凝聚力支撑积极学习环境；MetaX 元分析汇总亦显示其正向促进关联。
 > - [[Classroom Breaks]] — Visible Learning MetaX 因素课间休息的条目，归属课堂 › 课堂管理；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
 > - [[Classroom Debate]] — 一种以正反立场分配、举证责任、限时质询与反驳规则为特征的结构化对话教学策略，通过认知冲突与换位思考促进批判性思维与论证技能
 > - [[Classroom Discussion and Argumentation]] — Visible Learning MetaX 因素论证／课堂讨论的条目，归属教学策略 › 教学方法；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
@@ -1240,7 +1240,7 @@ Total entries: **2254**
 > - [[Cooperative, Competitive and Individualistic Learning]] — 戴维·约翰逊与罗杰·约翰逊基于目标互赖结构界定的三种合法课堂学习取向，在肯定合作学习四维能力优势的同时保留竞争与个体学习的适应功能，并借助元分析量化比较其学业成就效应差异。
 > - [[Counseling Effects]] — 由专业辅导员或学校教员提供的系统性心理支持与行为干预机制，涵盖情绪疏导、行为矫治、学习策略与认知发展，旨在通过改善学生心理状态与分担教师非教学负荷，促进身心健康与学业成就。
 > - [[Critiques of Visible Learning]] — 围绕 John Hattie Visible Learning 展开的批评谱系，集中讨论效应量排名、元-元分析、教学理论、教育哲学、可见性政治和商业化政策扩张等争议。
-> - [[Decreasing Disruptive Behavior]] — Visible Learning MetaX 因素减少扰乱行为的条目，归属课堂 › 课堂管理；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
+> - [[Decreasing Disruptive Behavior]] — 减少课堂扰乱与干扰学习行为的教学管理与行为干预构念，涵盖早期识别潜在行为问题、预防性常规设计与建设性行为引导。在可见学习排名体系中位列前列，也是保障合作学习小组秩序的关联因子。
 > - [[Design Thinking in Education]] — Visible Learning MetaX 因素设计思维的条目，归属教学策略 › 教学方法；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
 > - [[Devil's Advocate]] — 一种为检验论证而替不赞同立场辩护的说话实践，在西方家庭学习社会化中可用于训练儿童论证能力
 > - [[Direct Instruction]] — 由教师主动主导、以明确目标说明、分步示范、有指导练习、理解检查与即时反馈为核心的高结构化教学模式，在程序性知识与基础技能教学中成效显著，但在高阶思维培养中需与情境探究结合以避免教育副作用
@@ -1251,7 +1251,7 @@ Total entries: **2254**
 > - [[Epistemic Practices]] — 某一共同体成员在社会互动中提出、沟通、评估与合法化知识主张的组织化行动方式，强调认识论主体由笛卡尔孤立个体向微观社会协商群体的转向，具有交互生成、情境嵌入、历史互文与制度后果四大特征。
 > - [[Epistemic Scaffolding]] — 教学法与学习科学概念，指通过使学科认识论规范、评价标准与反思路径显性化以引导学习者评估知识、辩护主张并参与学科核心探究实践的教学支持机制。
 > - [[Evidence-Based Teaching]] — 源自英美实证教学研究的实践取向，主张依据元分析与效应量数据提炼通用教学原则与课堂行动步骤，但因缺乏目的论证、学校制度维度与课程内容关联而面临成为片面方面教学论的学理限制。
-> - [[Explicit Teaching Strategies]] — Visible Learning MetaX 因素显性教学策略的条目，归属教学策略 › 教学方法；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
+> - [[Explicit Teaching Strategies]] — 教师在课堂中有意识、有结构地选用、示范并组织实施特定教学方法与学习策略的教学构念。在可见学习体系中涵盖合作学习与明确支架等系统性策略安排，MetaX 元分析汇总显示其对学业成就具有显著促进作用。
 > - [[Explicit Teaching Strategies with LD]] — Visible Learning MetaX 因素面向学习障碍学生的显性教学的条目，归属教学策略 › 教学方法；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
 > - [[Feedback]] — 围绕学习表现、理解状态与改进行动的信息交互机制，包含目标、当前表现与未来路径三维度；在宏观循证综合中常被泛化并混杂行为强化、教师亲和力与测验提示，其实践效能深度依赖情境、元认知引导与主体间承认。
 > - [[Flipped Classrooms]] — Visible Learning MetaX 因素翻转课堂的条目，归属教学策略 › 教学方法；目前只收录 MetaX 元分析汇总数据，概念界定待补充。

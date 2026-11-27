@@ -11,10 +11,10 @@ aliases:
 summary: "学习者在课堂教学过程中实际专注投入于教师所提供学习活动的时间总量或比例。作为有效教学与学业成就的基础性前置条件，它反映了潜在教学机会向实质学习经历的转化效率；在世界银行Teach等工具中，通过瞬时定格快照操作化为教师提供学习活动与学生在轨人数的客观状态判定，但实证研究一致表明单纯增加在轨时间若缺乏高推论教学质量支撑，无法自发带来深层认知与社会情感技能发展。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 26
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - concept/pedagogy
   - theme/classroom-observation
@@ -36,11 +36,12 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Effective Teaching]]"
   - "[[Critical Thinking]]"
+  - "[[Cooperative Learning]]"
+  - "[[Teacher as Activator]]"
   - "[[Document]]"
   - "[[Reliability]]"
   - "[[Strategic Compliance]]"
   - "[[Class Size]]"
-  - "[[Alienation]]"
   - "[[Predictive Validity]]"
   - "[[Dependent Variable]]"
 related_theories:
@@ -50,15 +51,18 @@ related_methods:
   - "[[Standard Error]]"
 related_instruments:
   - "[[Stallings Classroom Observation System]]"
-related_persons: []
+related_persons:
+  - "[[Olaf Köller]]"
 related_facts:
   - "[[World Bank]]"
 related_arguments:
   - "[[Argument_WorldBank_2019_Teach]]"
+  - "[[Argument_Koller_2014_WhatWorks]]"
+  - "[[Argument_Kremers_2014_CooperativeLearning]]"
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-11-24
+updated: 2026-11-28
 ---
 
 > [!def] Time on Task
@@ -66,7 +70,7 @@ updated: 2026-11-24
 
 在微观[[Classroom Observation|课堂观察]]与教学质量评估框架中，任务在轨时间提供了穿透教学黑箱的客观测量支点。
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 聚焦微观课堂生态中分配时间（Allocated Time）向实质参与时间（Engaged Time）的转化机制，测量学生在具体时段内的认知聚焦状态。
 > - **用途** 帮助研究者和督导人员快速诊断[[Classroom Management|课堂管理]]效率、时间利用漏洞以及学生普遍注意力状态，识别因管理失序导致的[[Learning Crisis|学习贫困]]根源。
 > - **边界** 任务在轨时间仅反映外在行为参与和教学机会供给的最低门槛，不等于学生正在发生[[Higher-Order Thinking Skills|高阶思维]]建构或深层认知理解，无法独立替代对教学交互质量的评价。
@@ -91,7 +95,7 @@ updated: 2026-11-24
 
 为了厘清教育时间理论的发展脉络，需要将任务在轨时间置于课堂时间逐层衰减的分析矩阵中进行比较。
 
-> [!contrast-table] 课堂教学时间四层漏斗模型对比
+> [!contrast-table|notitle] 课堂教学时间四层漏斗模型对比
 > | 时间层级 | 核心定义 | 测量重点 | 典型流失环节 | 质量敏感性 |
 > |---|---|---|---|---|
 > | **分配时间**<br>（Allocated Time） | 课程表和教育行政规程正式划定的课时总长度（如每节课 45 分钟）。 | 名义制度时长，反映宏观教育资源供给。 | 教师迟到、早退、整堂缺课、极端天气停课。 | 零敏感（纯物理外在指标）。 |
@@ -141,7 +145,7 @@ updated: 2026-11-24
 > 探讨低推论时间投入与高推论师生互动之间的非线性关系，辨析时间在学习生产函数中的边界位置。
 
 > [!claim] [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]]
-> **时间维度的基石性与局限性** 任务在轨时间是保障学生获取学习机会的必要物理基座；然而，发展中国家大规模[[Classroom Observation|课堂观察]]数据显示，许多在轨时间极高的课堂依然陷入[[Rote Learning|机械记忆]]、照本宣科与思维钝化的困境。实证分析证实，只有当充足的在轨时间与高质量的教学指导（澄清反馈、启发[[Critical Thinking|批判性思维]]）及社会情感支持深度契合时，教师综合效能才能对学生标准化考试成绩产生显著的跨期预测效应（$\beta = 0.08\text{–}0.12$ SD）。单纯增加在轨时间若缺少高推论互动支持，边际学业增益迅速递减。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 3–5)]]
+> **时间维度的基石性与局限性** 任务在轨时间是保障学生获取学习机会的必要物理基座；然而，发展中国家大规模[[Classroom Observation|课堂观察]]数据显示，许多在轨时间极高的课堂依然陷入[[Rote Learning|机械记忆]]、照本宣科与思维钝化的困境。实证分析证实，只有当充足的在轨时间与高质量的教学指导（澄清反馈、启发[[Critical Thinking|批判性思维]]）及社会情感支持深度契合时，教师综合效能才能对学生标准化考试成绩产生显著的跨期预测效应。单纯增加在轨时间若缺少高推论互动支持，边际学业增益迅速递减。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 3–5)]]
 
 ---
 
@@ -149,26 +153,25 @@ updated: 2026-11-24
 
 在[[Classroom Management|课堂管理]]与微观生态学研究中，研究者聚焦于课堂组织环节对时间资产的隐性吞噬，揭示常规管理效能对在轨时间的决定性影响。
 
-> [!concept-lens] 课堂微观时空组织损耗
+> [!concept-lens|notitle] 课堂微观时空组织损耗
 > 剖析教学活动切换、指令下达与事务处理对学生注意力连续性的冲击机理。
 
 > [!claim] [[Olaf Köller|Köller, O.]]
-> **在任务时间作为有效班级管理基准的实证效应** 奥拉夫·克勒在审读二阶元分析时指出，在任务时间（Time on Task）的实证促学效应量为  = 0.38$，紧随直接教学与干扰预防之后。克勒强调，提高在任务时间的核心在于教师在课堂运行中将纯粹的行政管理与组织事务最大程度外置或精简，确保有限课时高密度聚焦于学科实质性认知加工。在教学质量三大基准维度中，在任务时间与教学清晰度、干扰预防共同构成了有效班级管理（Klassenführung）的核心支柱，为深层认知激活提供不可或缺的时间容器。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, pp. 31, 35)]]
+> **在任务时间作为有效班级管理基准的实证效应** 奥拉夫·克勒在审读二阶元分析时指出，在任务时间（Time on Task）对学业具有稳健的正向促学效应，紧随直接教学与干扰预防之后。克勒强调，提高在任务时间的核心在于教师在课堂运行中将纯粹的行政管理与组织事务最大程度外置或精简，确保有限课时高密度聚焦于学科实质性认知加工。在教学质量三大基准维度中，在任务时间与教学清晰度、干扰预防共同构成了有效班级管理（Klassenführung）的核心支柱，为深层认知激活提供不可或缺的时间容器。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, pp. 31, 35)]]
 
 > [!claim] [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]]
 > **活动切换与事务交叠的时间损耗机制** 发展中国家基础教育课堂中大量时间耗散于无序的课时过渡与行政事务。在任务在轨时间规程中，活动过渡只有在教师向绝大多数学生提供下一项明确学习活动时方告结束；若教师指令模糊或材料准备脱节，过渡期拖延将引发大面积隐性离轨。同时，当教师在课堂中并发处理点名、翻阅教案或批改[[Homework|作业]]等事务时，唯有通过事先设计结构化的学生自主/小组任务，才能阻断行政行为对学生在轨注意力的分散侵蚀。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 41–42)]]
 
+> [!claim] Kremers, T.
+> **紧凑时限与清晰结构保障[[Cooperative Learning|合作学习]]中的有效时间利用** 克雷默斯梳理哈蒂《可见的学习》对[[Teacher as Activator|激活型教师]]的界定指出，决定学生实际收获的关键因素之一在于教师能够有结构、有纪律、紧扣学科地组织课堂并高效利用学习时间；在合作学习任务中设定清晰的工作结构以及“紧凑而切合实际的时间限制”（knappe, aber realistische Zeitvorgaben），能够减少小组空转并促成高密度的有效在轨学习时间。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, p. 87)]]
+
 ---
-
-### 命题总览
-
-对上述关于任务在轨时间的核心命题进行横向系统归纳：
 
 > [!contrast-table] 任务在轨时间理论命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表[[Document\|文献]] |
 > |---|---|---|---|
 > | **认知生产必要前提命题** | 在轨时间是学业成就的基础保障，但其价值取决于教学指导与支持的质量水平。 | 基础教育全科课堂、教育生产函数建模、宏观教学效能诊断。 | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] |
-> | **微观组织损耗防范命题** | 清晰的过渡管理与结构化任务设计能够最大限度阻断行政事务对注意力的吞噬。 | 班级管理常规构建、职前教师技能训练、课堂低效诊断。 | 同上 |
+> | **微观组织损耗防范命题** | 清晰的过渡管理、结构化合作任务设计与紧凑时限能够减少时间损耗并保障学科聚焦。 | 班级管理常规构建、合作学习计时安排、课堂低效诊断。 | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]]; [[Argument_Koller_2014_WhatWorks\|Köller (2014)]]; [[Argument_Kremers_2014_CooperativeLearning\|Kremers (2014)]] |
 
 ---
 
@@ -195,8 +198,8 @@ updated: 2026-11-24
 > [!critique] 外部批评
 > - **超大[[Class Size|班额]]情境下的测量偏倚** 在部分发展中国家每班 60–100 人的极度拥挤课堂中，观察员在数秒横向扫视中难以辨别后排边缘学生的微观状态，前排学生的遮挡极易导致系统性高估真实在轨率。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, p. 5)]]
 
-> [!warning] 适用局限
-> 任务在轨时间指标严禁脱离高推论师生互动质量单独用作教师绩效评定与单向奖惩依据；脱离情境的唯时间论极易[[Alienation|异化]]为机械监控手段。
+> [!warning|limits] 适用局限
+> 任务在轨时间指标严禁脱离高推论师生互动质量单独用作教师绩效评定与单向奖惩依据；脱离情境的唯时间论极易沦为机械监控手段。
 
 ---
 
@@ -242,6 +245,23 @@ updated: 2026-11-24
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |---|---|---|
+> | [[Classroom Management]] | 概念 | 上位机制，通过预防干扰、紧凑计时与顺畅过渡保障学生在轨学习时间。 |
+> | [[Effective Teaching]] | 概念 | 核心维度，构成学习机会转化为实质认知加工的基础门槛。 |
+> | [[Cooperative Learning]] | 概念 | 实践情境，依托清晰任务结构与紧凑时间限制实现合作时间高效利用。 |
+> | [[Teacher as Activator]] | 概念 | 教师角色，以结构化、有纪律意识的方式把控学习时间并激活学生投入。 |
+> | [[Student Engagement]] | 概念 | 上位构念，覆盖行为投入之外的深层认知投入与情感投入。 |
+> | [[Classroom Observation]] | 方法 | 测量手段，借瞬时定格快照客观捕捉教师供学与学生在轨人数比例。 |
+> | [[Stallings Classroom Observation System]] | 工具 | 经典时间编码观察系统，测量教师教学时间分配与互动模式。 |
+> | [[Olaf Köller]] | 人物 | 论证在任务时间为德国班级管理质量维度核心支柱。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 确立任务在轨时间的定格快照[[Operationalization|操作化]]规程，证实其作为基础支柱对学生学业增益的联合预测力。
+> - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 梳理在任务时间作为班级管理基准维度的二阶元分析效应并强调精简行政事务（pp. 31, 35）。
+> - [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014)]] — 阐明激活型教师在[[Cooperative Learning|合作学习]]中凭借清晰结构与紧凑切合实际的时间限制促成有效学习时间利用（p. 87）。
 

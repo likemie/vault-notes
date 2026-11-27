@@ -7,7 +7,7 @@ title: "Argument_Kremers_2014_CooperativeLearning"
 argument_key: "Argument_Kremers_2014_CooperativeLearning"
 argument_display_title: "Wie lernwirksam ist das Kooperative Lernen? Lernen in kooperativen Strukturen auf dem Prüfstand der Hattie-Studie"
 argument_kind: "book-chapter"
-argument_related_count: 46
+argument_related_count: 49
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -42,8 +42,6 @@ related_concepts:
   - "[[Cooperative, Competitive and Individualistic Learning]]"
   - "[[Academic Achievement]]"
   - "[[Surface and Deep Learning]]"
-  - "[[Document]]"
-  - "[[Discourse]]"
   - "[[Study Population and Sample]]"
   - "[[Empirische Unterrichtsforschung]]"
   - "[[Tracking]]"
@@ -52,24 +50,29 @@ related_concepts:
   - "[[Peer-Supported Learning]]"
   - "[[Note-Taking]]"
   - "[[Lifelong Learning]]"
-  - "[[Homework]]"
   - "[[Professional Learning Community]]"
+  - "[[Evidence-Based School Development]]"
   - "[[Problem Solving]]"
   - "[[Reciprocal Teaching]]"
   - "[[Concept Mapping]]"
   - "[[Co-Teaching]]"
   - "[[Jigsaw]]"
+  - "[[Decreasing Disruptive Behavior]]"
   - "[[Self-reported Grades]]"
   - "[[Feedback]]"
   - "[[Metacognition]]"
+  - "[[Explicit Teaching Strategies]]"
   - "[[Mind Mapping]]"
   - "[[Graphic Organizer]]"
   - "[[Strong Classroom Cohesion]]"
   - "[[Classroom Management]]"
+  - "[[Teacher Expectations]]"
+  - "[[Class Climate Effects]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Time on Task]]"
   - "[[Teacher Collaboration]]"
 related_theories:
-  - "[[Knowledge Building Theory]]"
+  - "[[Social Interdependence Theory]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
@@ -87,7 +90,7 @@ sources:
   - "[[books/Terhart_2014_Kallmeyer/Ch06_Kremers_2014|Ch06_Kremers_2014]]"
 status: active
 created: 2026-11-26
-updated: 2026-11-26
+updated: 2026-11-28
 ---
 
 ---
@@ -108,8 +111,8 @@ updated: 2026-11-26
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
-> | **三类学习目标结构**<br>[[Cooperative, Competitive and Individualistic Learning]] | 源自戴维·约翰逊（David W. Johnson）与罗杰·约翰逊（Roger T. Johnson）的区分（Johnson & Johnson, 1994），肯定合作、竞争与个人学习各有正当位置，避免把[[Cooperative Learning\|合作学习]]绝对化为唯一方案（pp. 79–80）。 |
-> | **合作学习五大心理基石**<br>Five Basic Elements（Johnson et al., 2005） | 以积极互赖、个体责任、社交技能、过程反思与面对面互动为支柱，区分有效合作与形式化分组（pp. 80–81, 83–84）。 |
+> | **三类学习目标结构**<br>[[Cooperative, Competitive and Individualistic Learning]] | 源自戴维·约翰逊（David W. Johnson）与罗杰·约翰逊（Roger T. Johnson）基于[[Social Interdependence Theory\|社会互赖理论]]作出的区分（Johnson & Johnson, 1994），肯定合作、竞争与个人学习各有正当位置，避免把[[Cooperative Learning\|合作学习]]绝对化为唯一方案（pp. 79–80）。 |
+> | **合作学习五大心理基石**<br>Five Basic Elements（Johnson et al., 2005） | 植根于[[Social Interdependence Theory\|社会互赖理论]]，以积极互赖、个体责任、社交技能、过程反思与面对面互动为支柱，区分有效合作与形式化分组（pp. 80–81, 83–84）。 |
 > | **四维能力整合观** | 说明合作学习同时培养学科、社交、沟通与方法四类能力，点明[[John Hattie\|哈蒂]]只测[[Academic Achievement\|学业成绩]]的评估盲区（pp. 78–79, 81–82）。 |
 > | **强效因子束与交互增效**<br>Wirkstarkes Faktorenbündel（Beywl & Zierer, 2013） | 揭示教学因素之间相互增强、不能简单做加法，用来发掘合作学习内含的高成效机制（pp. 83–84）。 |
 > | **激活型教师与表深层学习平衡**<br>[[Teacher as Activator]] & [[Surface and Deep Learning]] | 界定教师搭结构、控时间、建关系的职责，说明独学打底加同伴讨论推动深层理解的规律（pp. 86–88）。 |
@@ -123,8 +126,8 @@ updated: 2026-11-26
 > | 模块 | 材料与处理方式 |
 > |---|---|
 > | **[[Meta-meta-analysis\|二阶元分析]]文献核查** | 核对 Hattie (2013, pp. 113, 250–254) 收录的四组[[Cooperative Learning\|合作学习]][[Meta-analysis\|元分析]]对比数据（其中四项汇总 774 项原始研究）以及两项大学小组学习元分析。 |
-> | **跨因子协同映射分析** | 依据 Beywl and Zierer (2013) 的因子束思路，从 Hattie (2013, pp. 433–439) 全表筛选十二项贴合合作过程的高排名因素，结合德语教学论[[Document\|文献]]（Köller et al., 2013; Brüning & Saum, 2006, 2007, 2009）拆解其持续或按需生效的机制。 |
-> | **[[Discourse\|话语]]误读与体制对照** | 把德国教师室口号对照《[[Visible Learning\|可见的学习]]》英文版（Hattie, 2009, 2012）与德译修订版（Hattie, 2013），并按德国多轨学制校验英语综合制样本的外推边界。 |
+> | **跨因子协同映射分析** | 依据 Beywl and Zierer (2013) 的因子束思路，从 Hattie (2013, pp. 433–439) 全表筛选十二项贴合合作过程的高排名因素，结合德语教学著作（Köller et al., 2013; Brüning & Saum, 2006, 2007, 2009）拆解其持续或按需生效的机制。 |
+> | **话语误读与体制对照** | 把德国教师室口号对照《[[Visible Learning\|可见的学习]]》英文版（Hattie, 2009, 2012）与德译修订版（Hattie, 2013），并按德国多轨学制校验英语综合制样本的外推边界。 |
 
 ---
 
@@ -169,7 +172,7 @@ updated: 2026-11-26
 > 倡导[[Cooperative Learning|合作学习]]的学者主张在合作结构里按独学—配对—小组三步稳扎稳打地练本领，靠五大心理学原则支撑，并把协作文化带进全校建设与[[Democratic Education|民主教育]]中，超越把它当作包治百病神药的简单理解（pp. 79–81）。
 
 > [!sub-claim] 1. 合作、竞争和个人学习各有价值，关键在搭建合作结构
-> 戴维·约翰逊（David W. Johnson）与罗杰·约翰逊（Roger T. Johnson）把课堂学习分成合作、竞争和个人学习三种，并认为这三种方式各有正当价值（Johnson & Johnson, 1994, p. 3 及以下）：
+> 戴维·约翰逊（David W. Johnson）与罗杰·约翰逊（Roger T. Johnson）立足[[Social Interdependence Theory|社会互赖理论]]把课堂学习分成合作、竞争和个人学习三种，并认为这三种方式各有正当价值（Johnson & Johnson, 1994, p. 3 及以下）：
 
 > [!term] 概念精度辨析：在合作结构中学习（p. 79，注 4）
 > 从概念界定严格推敲，学习终归是发生在每个学生头脑里的个人吸收过程，因此在合作结构中学习（Lernen in kooperativen Strukturen）比合作学习表述更准确；教育界习惯用合作学习指代一整套在合作结构里开展教学的理念。
@@ -182,7 +185,7 @@ updated: 2026-11-26
 > | **主要短板** | 光把学生凑坐在一起不会自动合作，必须靠教师带好群体互动 | 竞争机制决定了最后只有少数人能成为胜出者（p. 80，注 5） | 缺少同伴碰撞对兴趣激发与疑难突破的助力 |
 
 > [!sub-claim] 2. 合作能力必须按独学—配对—小组慢慢练，仓促分组做不成真合作
-> 戴维·约翰逊、罗杰·约翰逊与埃迪丝·约翰逊·霍卢贝克（Edythe Johnson Holubec）的研究证实（Johnson et al., 2005, pp. 85–101），合作学习能够调动学生积极性、促进深层沟通与[[Knowledge Building Theory|知识建构]]，但把学生随便编进小组并不会自动产生高效配合（p. 80）。与急躁冒进、一上来就让学生搞大组讨论的做法相比，踏实的合作教学呈现出由浅入深、小步推进的过程特征。
+> 戴维·约翰逊、罗杰·约翰逊与埃迪丝·约翰逊·霍卢贝克（Edythe Johnson Holubec）的研究证实（Johnson et al., 2005, pp. 85–101），合作学习能够调动学生积极性、促进深层沟通与知识建构，但把学生随便编进小组并不会自动产生高效配合（p. 80）。与急躁冒进、一上来就让学生搞大组讨论的做法相比，踏实的合作教学呈现出由浅入深、小步推进的过程特征。
 
 > [!proc] 合作能力三阶递进的课堂练兵规程（pp. 80–81）
 > 1. **先打牢独立学习基础** 合作学习从扎实的个人独学起步，要求每个学生先对自己的学习进程担起责任；只有先经过独立的思考积累，同伴交流才有实质内容。
@@ -194,13 +197,13 @@ updated: 2026-11-26
 
 > [!feature] 合作学习的五大心理基石（Johnson et al., 2005；pp. 80–81）
 > - **积极互赖（Positive Interdependence）** 组员切身体会到大家命运相连、彼此协作成就共同目标的必要性。
-> - **个体责任（Individual Accountability）** 每个人不仅要对自身的学习进程负责，还要对小组工作进程和最终共同完成的[[Homework|作业]]成果负责，防止搭便车。
+> - **个体责任（Individual Accountability）** 每个人不仅要对自身的学习进程负责，还要对小组工作进程和最终共同完成的作业成果负责，防止搭便车。
 > - **社交技能培养（Social Skills）** 在具体协作中习得倾听、表达与化解冲突等社交能力。
 > - **经常反思过程（Group Processing / Evaluation）** 小组高频回顾并评估学习与互动过程，借以持续改进协作效能（pp. 81, 83）。
 > - **面对面直接交流（Face-to-Face Interaction）** 组员当面开展高密度对话交流，把浅层讨论推向深层理解。
 
 > [!implication]- 超越课堂方法：全校协作共同体与民主教育延伸（p. 81）
-> - **教研组协作推动[[Professional Learning Community|专业学习共同体]]建设** 诺姆·格林与凯西·格林（Norm Green & Kathy Green；Green & Green, 2005, p. 27）以及卢德格尔·布吕宁与托比亚斯·绍姆（Ludger Brüning & Tobias Saum；Brüning & Saum, 2009, pp. 154–165）指出，伴随教师角色转型，教师团队协作能推动全校发展，把学校建造成民主的[[Professional Learning Community|专业学习共同体]]。
+> - **教研组协作推动[[Professional Learning Community|专业学习共同体]]建设与[[Evidence-Based School Development|循证学校发展]]** 诺姆·格林与凯西·格林（Norm Green & Kathy Green；Green & Green, 2005, p. 27）以及卢德格尔·布吕宁与托比亚斯·绍姆（Ludger Brüning & Tobias Saum；Brüning & Saum, 2009, pp. 154–165）指出，伴随教师角色转型，教师团队协作能推动全校层面的发展，把学校建造成民主的[[Professional Learning Community|专业学习共同体]]；这也与哈蒂数据拟为教学与学校发展提供实证支点的宗旨（p. 79）相呼应。
 > - **群体对话协商直接涵养民主素养** 大小组中的充分沟通、彼此尊重、包容异见与不同文化，以及学会为了共识作出妥协，使学生直接在群体协作体验中养成民主素养，超越抽象概念灌输。
 
 ---
@@ -250,7 +253,7 @@ updated: 2026-11-26
 > *„Sie fördern den Wissens- und Kompetenzzuwachs [...] und scheinen besonders erfolgreich zu sein, wenn sie durch klare Strukturen vorbereitet sind wie etwa beim Reciprocal Teaching (d = 0.74) oder Gruppenpuzzle, wo Schülerinnen und Schüler abwechselnd in die Lehrkraft- und Schülerrolle schlüpfen und dabei, wie Hattie schreibt, insbesondere dann profitieren, wenn Lehrkräfte den Schülerinnen und Schülern zeitnah kognitive Lernstrategien vermitteln wie Fragen zu stellen oder Zusammenfassungen komplexer Gegenstände zu erstellen.“*
 
 > [!sub-claim] 2. 有些因素一直起作用，有些按课型触发，哈蒂榜单里有十五项和合作学习相关
-> 只要教师把合作学习当成一个完整体系来用、不把它拆成零碎拼凑的方法库（Methodensteinbruch），就得区分两类作用：像小组反思那样在合作课堂里**一直都在发挥作用**的持久机制，以及像互惠阅读那样只有在用到特定课型时才**随情境被触发**的机制（p. 84）。下表按 Hattie（2013, pp. 433–439）列出三项合作学习直接条目与十二项特征因子；此外还可以把课堂行为调控（排名第 6）等其他高影响因素纳入考量（pp. 84–85）。
+> 只要教师把合作学习当成一个完整体系来用、不把它拆成零碎拼凑的方法库（Methodensteinbruch），就得区分两类作用：像小组反思那样在合作课堂里**一直都在发挥作用**的持久机制，以及像互惠阅读那样只有在用到特定课型时才**随情境被触发**的机制（p. 84）。下表按 Hattie（2013, pp. 433–439）列出三项合作学习直接条目与十二项特征因子；此外还可以把[[Decreasing Disruptive Behavior|减少扰乱行为]]（Beeinflussung von Verhalten in der Klasse，排名第 6）等其他高影响因素纳入考量（pp. 84–85）。
 
 > [!ref-table] 哈蒂效应量排序表中与合作学习相契合的十五项因素（p. 85）
 > | 排名 | 因素 | 中文对应与概念关联 | 因子类别 | 效应量 $d$ |
@@ -262,7 +265,7 @@ updated: 2026-11-26
 > | 11 | Lehrer-Schüler-Beziehung | [[Student-Teacher Relationship\|师生关系]]（安全学习环境前提） | 特征因子（斜体） | 0.72 |
 > | 13 | metakognitive Strategien | [[Metacognition\|元认知策略]]（调节深表层学习转换） | 特征因子（斜体） | 0.69 |
 > | 18 | Lautes Denken | 出声思考（外显认知推理过程） | 特征因子（斜体） | 0.64 |
-> | 23 | Lehrstrategien | 教学策略（涵盖显性合作学习安排） | 特征因子（斜体） | 0.60 |
+> | 23 | Lehrstrategien | [[Explicit Teaching Strategies\|显性教学策略]]（Lehrstrategien，涵盖合作学习安排） | 特征因子（斜体） | 0.60 |
 > | 24 | Kooperatives vs. individuelles Lernen | [[Cooperative, Competitive and Individualistic Learning\|合作学习对比个体学习]] | 直接条目（正体） | 0.59 |
 > | 33 | Concept Mapping | [[Concept Mapping\|概念图]]（与[[Mind Mapping\|思维导图]]同属[[Graphic Organizer\|图形组织器]]） | 特征因子（斜体） | 0.57 |
 > | 36 | Peer-Tutoring | [[Peer-Supported Learning\|同伴辅导]]（学习者间深度沟通） | 特征因子（斜体） | 0.55 |
@@ -276,8 +279,8 @@ updated: 2026-11-26
 
 > [!factors] 支撑合作学习成效的五组高排名特征因子（pp. 84–87）
 > 1. **过程反思与自我校准（排名 1，$d = 1.44$；反馈排名 10，$d = 0.73$）** 哈蒂反复指出，师生一起反思教与学能让学生看清自己的真实水平，而对学习水平的自我评估与期待正排全表首位；经过反思持续优化学习过程，学生就能实现更深入复杂的认知收获。合作学习既把小组反思列为五大基石之一，又在反思中借助高质量反馈推进优化，相当于日常自动用上榜首驱动力（pp. 84–85）。
-> 2. **教师清晰度与指令组织（排名 8，$d = 0.75$；教学策略排名 23，$d = 0.60$）** 没有教师把指令交代明白，有效小组合作与学业提升都无从谈起。按芬迪克（Fendick）界定（转引自 Hattie, 2013, p. 151），教师清晰度靠清楚语言完成组织任务、讲解说明、给出例子、带练辅导与评价表现五件事；哈蒂还提醒，一切全看教师这句口号易引发误解，真正拉高成绩的是采用特定教学方法、怀抱高期望并建立积极师生关系的教师。排名 23 的教学策略条目中也明确包含合作学习（Hattie, 2013, p. 239；p. 85）。
-> 3. **师生关系与班级凝聚力（排名 11，$d = 0.72$；班级凝聚力排名 39，$d = 0.53$）** 合作学习依托同伴辅导（排名 36，$d = 0.55$）与[[Reciprocal Teaching|互惠教学]]（排名 9，$d = 0.74$；Hattie, 2013, pp. 240–242）推进生生交流，改善小组气氛并提升班级凝聚力（Hattie, 2013, p. 123）。但因果顺序不能倒：教师和全班须先建立互信的师生关系，学生在安全放心的环境里合作才会真正见效（pp. 85–86）。
+> 2. **教师清晰度与指令组织（排名 8，$d = 0.75$；教学策略排名 23，$d = 0.60$）** 没有教师把指令交代明白，有效小组合作与学业提升都无从谈起。按芬迪克（Fendick）界定（转引自 Hattie, 2013, p. 151），教师清晰度靠清楚语言完成组织任务、讲解说明、给出例子、带练辅导与评价表现五件事；哈蒂还提醒，一切全看教师这句口号易引发误解，真正拉高成绩的是采用特定教学方法、怀抱[[Teacher Expectations|教师期望]]并建立积极师生关系的教师。排名 23 的教学策略条目中也明确包含合作学习（Hattie, 2013, p. 239；p. 85）。
+> 3. **师生关系与班级凝聚力（排名 11，$d = 0.72$；班级凝聚力排名 39，$d = 0.53$）** 合作学习依托同伴辅导（排名 36，$d = 0.55$）与[[Reciprocal Teaching|互惠教学]]（排名 9，$d = 0.74$；Hattie, 2013, pp. 240–242）推进生生交流，改善小组气氛、提升[[Strong Classroom Cohesion|班级凝聚力]]并塑造积极的[[Class Climate Effects|班级氛围]]（Hattie, 2013, p. 123）。但因果顺序不能倒：教师和全班须先建立互信的师生关系，学生在安全放心的环境里合作才会真正见效（pp. 85–86）。
 > 4. **图形工具与元认知调节（概念图排名 33，$d = 0.57$；元认知排名 13，$d = 0.69$）** 合作课堂常配备[[Graphic Organizer|图形组织器]]，包括[[Mind Mapping|思维导图]]（Brüning & Saum, 2007, p. 47 及以下）和让学生自主构建个性化结构的[[Concept Mapping|概念图]]。合作小组能达成[[Surface and Deep Learning|表层学习与深层学习]]的平衡（Hattie, 2013, p. 34）：先在独立环节掌握偏记忆复现的基础知识，再到配对与小组交流中贯通理解，而[[Metacognition|元认知]]策略正是完成这步跨越的[[Necessary and Sufficient Conditions|必要条件]]（p. 86）。
 > 5. **强引导与高配合的课堂管理（排名 42，$d = 0.52$，[[Robert Marzano|罗伯特·马扎诺]]）** 有效的课堂管理（转引自 Hattie, 2013, p. 122）能把小组安排得井井有条，及时察觉并处理潜在行为问题以减少课堂干扰。马扎诺（Robert J. Marzano）点明两项要诀：一是高主导性（hohe Dominanz），即学习目的清晰、教师有力引领进程；二是高合作性（hohe Kooperation），即留心同伴需要并愿作团队配合。缺了这两项条件，三步联动的合作课堂很难有效运转（pp. 86–87）。
 
@@ -287,10 +290,10 @@ updated: 2026-11-26
 > 不管在元分析总论还是面向一线教师的实践著作中，哈蒂都明确肯定合作学习是一股强有力的教学手段；他肯定[[Teacher as Activator|激活型教师]]，旨在要求教师既带好复杂合作，也在讲授时融入激活学生参与的设计，区别于过去满堂灌的传统讲授课（pp. 87–88）。
 
 > [!sub-claim] 1. 教师要主动卡紧时间和结构，只讲方法不讲原则会让效果打折扣
-> 哈蒂在写给中小学教师的实践指南《可见的学习：教师版》中直接写道：“Cooperative learning is certainly a powerful intervention”（Hattie, 2012, p. 78）（p. 87）。同时他反复强调教师作为激活者作用举足轻重：学生到底能学到多少，主要看教师能否以结构化、有纪律意识、紧扣学科的方式高效利用学习时间。放进合作课堂里，教师的做法直接决定成败：
+> 哈蒂在写给中小学教师的实践指南《可见的学习：教师版》中直接写道：“Cooperative learning is certainly a powerful intervention”（Hattie, 2012, p. 78）（p. 87）。同时他反复强调教师作为激活者作用举足轻重：学生到底能学到多少，主要看教师能否以结构化、有纪律意识、紧扣学科的方式提高[[Time on Task|任务在轨时间]]的利用效率。放进合作课堂里，教师的做法直接决定成败：
 
 > [!example] 激活型课堂实践示范：紧实时间限制与结构搭建（p. 87）
-> 教师通过搭建清楚的工作和学习结构、培养社交沟通与学科能力，并有意识地维护师生和组内关系，能大幅提高教学效果；例如在布置合作任务时给出**紧凑而切合实际的时间限制**，就能直接促成学习时间的高效利用。
+> 教师通过搭建清楚的工作和学习结构、培养社交沟通与学科能力，并有意识地维护师生和组内关系，能大幅提高教学效果；例如在布置合作任务时给出**紧凑而切合实际的时间限制**，就能直接提高学习时间的有效利用率。
 
 > [!warning] 表面化误区警示：剥离心理原则会直接拉低效应量（p. 87）
 > 如果教师对合作学习理解得太浅，只把表面方法操练摆在最前面、丢掉背后的心理学原则和教师引导，教学效应量就会明显下降。

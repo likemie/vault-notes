@@ -7,9 +7,9 @@ title: "Argument_DeJong_2024_SHE"
 argument_key: "Argument_DeJong_2024_SHE"
 argument_display_title: "How do professional staff influence academic knowledge development? A literature review and research agenda"
 argument_kind: "journal-article"
-argument_related_count: 38
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 40
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 authors:
   - "[[Stefan P. L. de Jong|de Jong, S. P. L.]]"
@@ -57,9 +57,11 @@ related_theories:
   - "[[Actor-Network Theory]]"
   - "[[Cycle of Credit]]"
   - "[[Institutional Isomorphism]]"
+  - "[[System of Professions]]"
 related_methods:
   - "[[Systematic Review]]"
   - "[[Qualitative Computer Software]]"
+  - "[[Gioia Methodology]]"
   - "[[Questionnaire]]"
   - "[[Mixed Methods Research]]"
   - "[[Documentary Analysis]]"
@@ -83,7 +85,7 @@ sources:
 part_of:
 status: draft
 created: 2026-11-26
-updated: 2026-11-27
+updated: 2026-11-28
 ---
 
 ---
@@ -108,7 +110,7 @@ updated: 2026-11-27
 > | **[[Institutional Work\|制度工作]]**<br>（Lawrence & Suddaby, 2006） | 聚焦嵌入日常惯例的微观行动（创设、维护与破坏制度逻辑）；阐明缺乏正式顶层权力的专业支持人员如何通过文本起草、资源管理与培训辅导重塑组织规范。 |
 > | **[[Actor-Network Theory\|行动者网络理论]]**<br>（Latour, 1987） | 将知识生产视作个体、机构与非人类实体互动结网并生成知识可接受性的过程；用于沿网络追踪具体研究项目如何被不同岗位的支持人员转译与修改。 |
 > | **[[Cycle of Credit\|信用循环]]**<br>（Latour & Woolgar, 1986） | 刻画声誉、资金、人员设备、数据、论据与出版物之间的循环转化；用于定位支持人员在提高转化率（量）或创造捷径跳过环节（质）上的具体介入点。 |
-> | **[[Institutional Isomorphism\|制度同构]]与职业分工**<br>（Abbott, 1988, 1998; DiMaggio & Powell, 1983） | 解释学者将低地位对外交互任务委托给支持人员的历史分工动因，并推导出支持人员专业网络如何催生跨校共享规范与知识生产趋同的假说。 |
+> | **[[Institutional Isomorphism\|制度同构]]与[[System of Professions\|职业分工]]**<br>（Abbott, 1988, 1998; DiMaggio & Powell, 1983） | 解释学者将低地位对外交互任务委托给支持人员的历史分工动因，并推导出支持人员专业网络如何催生跨校共享规范与知识生产趋同的假说。 |
 
 > [!warrant]- 为什么要串联这两派理论
 > 从职业分工来看，专业支持人员已从单纯应付校外杂务的边缘岗位，成长为拥有专属管辖领域、专门知识与跨校网络的成熟职业群体（Abbott, 1998; Liu, 2018）。然而在 54 篇实证文献中，33 篇未建构明确理论框架，另有 15 篇只借助身份认同、[[Neoliberalism|新自由主义]]或[[Third Space Discourse|第三空间]]框架（Whitchurch, 2008），极少触及知识生产本身。因此，研究框架采用两层搭接：宏观与中观层面借助[[Institutional Logics|制度逻辑]]与[[Institutional Work|制度工作]]，解释支持人员的能力变化与日常互动如何改变科研环境；微观知识生产层面接入[[Actor-Network Theory|行动者网络理论]]与[[Cycle of Credit|信用循环]]，追踪具体项目流经校园网络时如何被改写、资源转化速率与路径又如何变化，从而打通微观行政实践与宏观知识图景的因果链条。
@@ -121,7 +123,7 @@ updated: 2026-11-27
 > | **[[Systematic Review\|系统综述]]与数据库检索** | 于 2021 年 6 月 21 日在[[Web of Science\|科学引文核心数据库]]（Web of Science, WoS）与 7 月 13 日在[[Scopus]]以 `universit* AND (administrat* OR staff)` 检索篇名，纳入期刊文章、图书、图书章节、综述与在线优先发表文献，合并 1,136 篇与 2,219 篇记录并剔除 438 篇重复后，得 2,917 篇不重复文献（亦参照已有综述反思既有研究不足：Bossu et al., 2018; Derrick & Nickson, 2014）。 |
 > | **标题摘要初筛与引文追踪** | 按三项标准（英语撰写、明确研究专业支持人员而非校级高层领导且必要时查验全文、涉及科研工作中的直接或间接作用）初筛保留 42 篇；随后多轮前后向引文滚雪球追踪直至饱和（规避跨国职称差异带来的漏检，Acker et al., 2019），增补 103 篇至 145 篇。 |
 > | **同行推荐与补检增补** | 纳入学术报告期间同行推荐的文献、尚未入库的期刊文章、新近出版的图书章节（此步排除综述）以及针对特定职称词条的补检所得，合计增补 22 篇至 167 篇（含 Kirkland & Stackhouse, 2011; Stackhouse & Day, 2005）。 |
-> | **全文实证筛选与 Gioia 编码** | 剔除综述与观点评述，仅保留将专业支持人员单列统计（排除将其与教职人员混同报告的研究）且在能力、关系或影响中至少一个方面提供一手实证数据的文献，最终筛出 54 篇；依托[[Qualitative Computer Software\|质性计算机软件]] NVivo 12.6.1，参照 Gioia 归纳方法（Gioia et al., 2012）建立三层数据结构。 |
+> | **全文实证筛选与 Gioia 编码** | 剔除综述与观点评述，仅保留将专业支持人员单列统计（排除将其与教职人员混同报告的研究）且在能力、关系或影响中至少一个方面提供一手实证数据的文献，最终筛出 54 篇；依托[[Qualitative Computer Software\|质性计算机软件]] NVivo 12.6.1，参照 [[Gioia Methodology\|Gioia 归纳方法]]（Gioia et al., 2012）建立三层数据结构。 |
 > | **检索补漏核验与研究者背景** | 在 WoS 补充测试 `college*`（无新增有效文献）、`higher education`（8 篇有效文献均已在库）及 `manager* OR officer*`（无新增），并针对 `research administrators`、`accountants`、`human resource managers` 与 `business developer*` 补检仅新增 1 篇及其参考文献中的 1 篇，确认宽口径检索未造成重大遗漏；两位研究者此前分别担任过大学科研影响与资助顾问兼政策专员、大学图书馆员。 |
 
 > [!sample-panel]- 纳入文献的规模、理论与方法分布
