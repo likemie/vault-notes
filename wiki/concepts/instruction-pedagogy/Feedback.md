@@ -5,9 +5,9 @@ aliases:
 summary: "围绕学习表现、理解状态与改进行动的信息交互机制，包含目标、当前表现与未来路径三维度；在宏观循证综合中常被泛化并混杂行为强化、教师亲和力与测验提示，其实践效能深度依赖情境、元认知引导与主体间承认。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 68
-related_level: 6
-related_stars: "💎💎"
+related_count: 84
+related_level: 8
+related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
 tags:
   - feedback
@@ -17,7 +17,6 @@ tags:
   - metax
   - eef
 related_concepts:
-  - "[[International Education]]"
   - "[[Operationalization]]"
   - "[[Construct]]"
   - "[[Teacher Immediacy]]"
@@ -31,12 +30,15 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Heterogeneity]]"
   - "[[Learning Strategies]]"
+  - "[[Cooperative Learning]]"
+  - "[[Self-reported Grades]]"
   - "[[Intentionality]]"
   - "[[Alienation]]"
   - "[[Technical Rationality]]"
   - "[[Paradigm]]"
   - "[[Problem Solving]]"
   - "[[Construct Validity]]"
+  - "[[Category Mistake]]"
   - "[[Document]]"
   - "[[Dialogue in Education]]"
   - "[[Scaffolding]]"
@@ -48,6 +50,8 @@ related_concepts:
   - "[[Learning Analytics]]"
   - "[[Variable]]"
   - "[[Classroom Management]]"
+  - "[[Learning Intentions]]"
+  - "[[Teacher as Activator]]"
   - "[[Structured Teaching]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Critique of Meta-analysis]]"
@@ -70,30 +74,43 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Delphi Technique]]"
 related_persons:
-  - "[[Dylan Wiliam]]"
   - "[[Klaus Nielsen]]"
   - "[[John Hattie]]"
   - "[[B. F. Skinner]]"
   - "[[Robert Glaser]]"
   - "[[Axel Honneth]]"
+  - "[[Dylan Wiliam]]"
   - "[[Thomas Aastrup Rømer]]"
-related_facts: []
+related_facts:
+  - "[[Education Endowment Foundation]]"
+  - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments:
   - "[[Argument_Håkansson_2015_TT]]"
-  - "[[Argument_Kalmendal_2025_PsyArXiv]]"
   - "[[Argument_Nielsen_2021_NordPsych]]"
   - "[[Argument_Koller_2014_WhatWorks]]"
   - "[[Argument_Wiliam_2019_ERE]]"
+  - "[[Argument_Kremers_2014_CooperativeLearning]]"
+  - "[[Argument_Hattie_2015_Paideia]]"
+  - "[[Argument_Laursen_2015_Paideia]]"
+  - "[[Argument_Kalmendal_2025_PsyArXiv]]"
+  - "[[Argument_Wrigley_2018_BERJ]]"
+  - "[[Argument_Simpson_2019_ERE]]"
   - "[[Argument_Fredens_2015_Paideia]]"
   - "[[Argument_Rømer_2018_EPT]]"
   - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
   - "[[Argument_Hattie_2005_ACER]]"
+  - "[[Argument_Skipp_Tanner_2015_EEF]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
+  - "[[Argument_Knudsen_2017_NordSTEP]]"
   - "[[Argument_Brugelmann_2014_LocalPractice]]"
+  - "[[Argument_Nielsen_2021_IRTP]]"
   - "[[Argument_Barrenechea_2023_JEC]]"
+related_instruments:
+  - "[[Visible Classroom]]"
 confidence: high
-status: completed
+status: active
 created: 2026-05-04
-updated: 2026-11-27
+updated: 2026-11-28
 ---
 
 > [!def] Feedback
@@ -162,6 +179,9 @@ updated: 2026-11-27
 > [!claim] Kremers, T.
 > **合作学习过程反思中的常设校准工具** 托马斯·克雷默斯（Thomas Kremers）指出，高质量教学反馈在[[Cooperative Learning|合作学习]]的“过程反思（Reflexion）”基石中发挥决定性支架作用：通过把日常小组自我反思与教师及同伴的具体反馈相结合，能够引导学生形成对自身学习水平的现实自我评估（[[Self-reported Grades]]），并以此持续优化后续小组探究。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, pp. 84–85)]]
 
+> [!claim] Hattie, J.; Laursen, P. F.
+> **均值掩盖下的测试—反馈交互与测量口径敏感性** 哈蒂本人亦在后续方法论回应中承认，不能用“反馈有效”的笼统均值替代对反馈方向、接受方式与任务阶段的细粒度分析；以 [[Argument_Hattie_2015_Paideia|Hattie (2015b)]] 引述的 Rowland 测试效应 61 项研究综合为例，重复测试整体效应量为 $d = 0.50$，无反馈条件下仅为 $d = 0.03$，高反馈条件下则升至 $d = 0.73$。劳尔森（[[Argument_Laursen_2015_Paideia|Laursen, 2015]]）进一步指出，丹麦全国研究中反馈呈零效应，主要源于调查问项仅询问教师是否经常告知学生发展或表现如何，未能捕捉“帮助学生明确下一步怎样改进”这一形成性机制。
+
 ---
 
 > [!concept-proposition] 命题二｜将反馈还原为[[Behaviorism|行为主义]]刺激—纠错回路消解了学习者[[Intentionality|意向性]]与主体间承认
@@ -178,14 +198,17 @@ updated: 2026-11-27
 > [!claim] Nielsen, K. & Klitmøller, J.; Kalmendal, L. et al.
 > **支撑宏观反馈指标的底层构念名实不符** 尼尔森与克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）细读《可见的学习》反馈条目中占据绝大部分样本权重的五大核心一阶元分析发现，其中四项偏离了形成性教学反馈边界，将课堂奖励强化（Lysakowski & Walberg, 1980）、前置教学线索（Lysakowski & Walberg, 1982）、教师人际亲和力（Witt et al., 2004）及动态测验提示（Swanson & Lussier, 2001）混作一谈；真正契合教学反馈界定的 Kluger and DeNisi (1996) 呈现明显低于宏观宣称的谨慎效应。卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）的独立复现审计进一步证实全库数据链受损，所谓“普适高效”实为异质拼贴建构的统计假象。
 
+> [!claim] Wrigley, T.; Simpson, A.
+> **大类目语义空洞化与实验清晰度谬误** [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 指出，英国[[Education Endowment Foundation|教育捐赠基金会]]《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》将口头启发、书面纠错以及正负结果迥异的研究强行归入“反馈”大类目，计算出的高平均效应量削弱了具体操作指导价值，无法提示教师在特定课堂中何种反馈有效。[[Argument_Simpson_2019_ERE|Simpson (2019)]] 进一步论证，反馈与[[Metacognition|元认知]]居于排行榜前列主要反映二者在短周期、低噪声受控实验中更易取得高实验清晰度（experimental clarity），将实验信噪比优势直接等价为现实课堂中的更大教育影响力构成了[[Category Mistake|范畴错误]]。
+
 ---
 
 > [!contrast-table] 教学反馈核心命题归纳
 > | 命题类型 | 核心判断 | 实践机制与情境边界 | 代表学者与[[Document\|文献]] |
 > |---|---|---|---|
-> | **效应分布与心理敏感** | 反馈存在高比例负效应与注意转向风险；内容导向反馈与合作反思共同驱动实质增益 | 聚焦任务过程与策略（FT/FP/FR）及现实自我评估见效，指向自我评价（FS）引发抑制 | Kluger and DeNisi (1996); [[Argument_Wiliam_2019_ERE\|Wiliam (2019)]]; [[Argument_Koller_2014_WhatWorks\|Köller (2014)]]; [[Argument_Kremers_2014_CooperativeLearning\|Kremers (2014)]] |
+> | **效应分布与心理敏感** | 反馈存在高比例负效应与注意转向风险；内容导向反馈、测试交互与合作反思共同驱动实质增益 | 聚焦任务过程与策略（FT/FP/FR）及改进方向，区分反馈强度与测量口径 | Kluger and DeNisi (1996); [[Argument_Hattie_2015_Paideia\|Hattie (2015b)]]; [[Argument_Wiliam_2019_ERE\|Wiliam (2019)]]; [[Argument_Koller_2014_WhatWorks\|Köller (2014)]]; [[Argument_Kremers_2014_CooperativeLearning\|Kremers (2014)]]; [[Argument_Laursen_2015_Paideia\|Laursen (2015)]] |
 > | **主体意向与承认批判** | 行为主义回路将人异化为技术修正器，消解主体意向性 | 真正[[Dialogue in Education\|教育对话]]必须建立在平等互惠交往与主体间相互承认基础之上 | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]]; Honneth (1996) |
-> | **构念纯度与实证质检** | 宏观反馈超级指标由异质现象拼贴而成，底层缺乏构念效度 | 排除外在奖励、[[Teacher Immediacy\|教师即时性]]与测验诊断提示，还原本真教学反馈 | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]]; [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] |
+> | **构念纯度与实证质检** | 宏观反馈超级指标由异质现象拼贴而成，高排位亦受低噪声实验清晰度驱动 | 排除外在奖励、[[Teacher Immediacy\|教师即时性]]与测验诊断提示，区分实验清晰度与教育影响力 | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]]; [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]]; [[Argument_Simpson_2019_ERE\|Simpson (2019)]]; [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] |
 
 ---
 
@@ -513,6 +536,9 @@ updated: 2026-11-27
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[Classroom Management]] | 概念 | 课堂管理保障专注环境，使反馈能够持续嵌入教学互动（均获专家最高评级 $M=4.75$）。 |
+> | [[Learning Intentions]] | 概念 | 明确学习意图，为形成性反馈对照预期目标与指引改进方向提供前置锚点。 |
+> | [[Success Criteria]] | 概念 | 界定可视化的成功标准阶梯，使师生反馈能够精准定位当前表现与下一步策略。 |
+> | [[Teacher as Activator]] | 概念 | 哈蒂用以界定主动提供内容导向反馈与持续理解检查的高成效教师角色构念（$d=0.60$）。 |
 > | [[Structured Teaching]] | 概念 | 高结构化教学中不可或缺的理解检查与动态调整机制。 |
 > | [[Visible Learning]] | 概念 | 长期被塑造成顶级证据，但底层数据提取与[[Construct\|构念]]混杂遭受系统解构。 |
 > | [[Critiques of Visible Learning]] | 概念 | 系统审视反馈二阶元分析数据链缺陷与构念污染的反思谱系。 |
@@ -525,8 +551,9 @@ updated: 2026-11-27
 > | [[Cooperative Learning]] | 概念 | 借由常设小组反思基石与教学反馈联动，将过程优化嵌入日常协作（[[Argument_Kremers_2014_CooperativeLearning\|Kremers, 2014]]）。 |
 > | [[Self-reported Grades]] | 概念 | 在合作反思与反馈校准下形成对自身学业水平的现实评估与预期。 |
 > | [[Behaviorism]] | 理论 | 传统单向强化反馈背后的行为主义刺激-反应联结理论。 |
-> | [[Recognition Theory]] | 理论 | 霍耐特承认理论为抵御行为主义操纵、确立主体间对话反馈提供伦理基础。 |
+> | [[Recognition Theory]] | 理论 | 霍耐特揭示主体间社会承认如何维系学习者意向性与教育健康发展的批判社会理论。 |
 > | [[Three Basic Dimensions of Teaching Quality]] | 理论 | 涵盖认知激活、班级管理与建设性支持的教学质量框架；反馈构成建设性支持的核心（[[Argument_Koller_2014_WhatWorks\|Köller, 2014]]）。 |
+> | [[Visible Classroom]] | 测量工具 | 依托课堂实时语音转录与 16 项教学行为编码，为教师提问与课堂话语生成量化反馈的可见学习配套工具（[[Argument_Skipp_Tanner_2015_EEF\|Skipp & Tanner, 2015]]）。 |
 > | [[John Hattie]] | 人物 | 在可见学习中系统量化反馈效应量并强调教学交互的代表学者。 |
 > | [[Dylan Wiliam]] | 人物 | 聚焦课堂[[Formative Assessment\|形成性评价]]、反馈情境异质性与负效应分布的教学学者。 |
 > | [[Thomas Aastrup Rømer]] | 人物 | 批判可见学习反馈倒置与集权监控的丹麦教育哲学家。 |
@@ -539,11 +566,19 @@ updated: 2026-11-27
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 专家德尔菲评审确立反馈为中小学实践相关度最高的前 5 项因素之一（$M=4.75$），同时揭示其[[Meta-meta-analysis|二阶元分析]]汇总存在严重的底层提取失误与设计混杂。
 > - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 结合德语区教学质量三大基准维度，将反馈确立为建设性支持的核心支柱，实证辨析针对具体内容的方向性指导与空洞褒贬的本质区别，并阐明检测与形成性反馈联结的增益机制（pp. 33, 35）。
 > - [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014)]] — 论证高质量反馈在合作学习“过程反思”基石中校准学生现实自我评估并推动深度学习优化的核心作用（pp. 84–85）。
+> - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 审读德译本《让学习可见》中教师持续收集反馈以调控自身教学的核心原则，剖析双向注视模型的微权力规训隐忧（p. 16）。
+> - [[Argument_Hattie_2015_Paideia|Hattie (2015b)]] — 回应均值掩盖反馈变异性争议，结合 Rowland 61 项测试效应综合阐明无反馈（$d=0.03$）与高反馈（$d=0.73$）的实质分化。
+> - [[Argument_Laursen_2015_Paideia|Laursen (2015)]] — 分析丹麦全国调查反馈零效应的测量口径偏误，指出问项仅询问发展告知而遗漏“下一步怎样改进”的形成性核心机制。
+> - [[Argument_Skipp_Tanner_2015_EEF|Skipp and Tanner (2015)]] — 评估 EEF 资助的 [[Visible Classroom]] 试点，追踪实时课堂语音转录、16 项行为编码反馈及教师阅读时间与设备共享约束。
+> - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] — 考察可见学习在英格兰“反馈年”政策运动中向自上而下绩效话语转化的治理机制。
+> - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 批判 EEF 工具包将形式与方向迥异的研究强行归入“反馈”类目，导致高均值削弱具体课堂指导价值。
+> - [[Argument_Simpson_2019_ERE|Simpson (2019)]] — 论证排行榜中“反馈”高排位源于低噪声短周期实验的高实验清晰度，澄清实验信噪比与真实教育影响力的范畴区分。
 > - [[Argument_Wiliam_2019_ERE|Wiliam (2019)]] — 援引 Kluger and DeNisi (1996) 元分析，剖析反馈干预中高达 38% 负效应的分布真相，论证单一平均[[Effect Size|效应量]]的误导性。
 > - [[Argument_Håkansson_2015_TT|Håkansson (2015a)]] — 结合国际教学综合，阐明反馈与理解检查作为[[Classroom Management|课堂管理]]与[[Structured Teaching|结构化教学]]不可分割的核心机制。
 > - [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz and Klinge (2022)]] — 批判算法与数字化学习平台中的即时反馈、[[Gamification|游戏化]]代币对学生[[Metacognition|元认知]]反思间隙的压缩与[[Data Behaviorism|数据行为主义]]异化。
 > - [[Argument_Fredens_2015_Paideia|Fredens (2015)]] — 将反馈从单纯技巧升华为追问“Where to next?”的学校文化，连接[[Working Memory|工作记忆]]与元认知自我调节。
 > - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014)]] — 结合德语区小学读写实验，实证揭示即时口头反馈对开放学习的支架功能，批判二阶元综合混淆微观口头反馈与宏观测验反馈的异质拼贴（pp. 41–44）。
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 从教育哲学与政治治理视角批判哈蒂反馈倒置学说，揭示逆向数据捕获与[[Panopticism|全景敞视]]集权控制机制（pp. 9–10）。
+> - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 从批判理论审视技术理性下的反馈工程回路如何迎合现代教育系统的行政合法化需求。
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 结合课程规制理论范式，阐述中央集权课程体制如何依托统一教科书与常态化教学反馈维系系统各阶段的学业一致性。
 

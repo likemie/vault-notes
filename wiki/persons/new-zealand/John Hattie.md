@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 180
+person_related_count: 186
 person_related_level: 18
 person_related_stars: "💎💎💎💎💎💎"
 person_related_color: "#fef3c7"
@@ -88,6 +88,7 @@ related_concepts:
   - "[[Homophily]]"
   - "[[PICO Framework]]"
   - "[[Whole Language]]"
+  - "[[Floor and Ceiling Effects]]"
   - "[[Educational Management Organisation]]"
   - "[[Dual-Entity Legal Structure]]"
   - "[[Creativity]]"
@@ -171,12 +172,17 @@ related_arguments:
   - "[[Argument_Laursen_2015_Paideia]]"
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
   - "[[Argument_Golovchin_2019_ESC]]"
+  - "[[Argument_Skipp_Tanner_2015_EEF]]"
   - "[[Argument_Nielsen_2021_IRTP]]"
   - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Bergeron_2017_MJE]]"
   - "[[Argument_Snook_2010_NZJES]]"
   - "[[Argument_Allerup_2015_Paideia]]"
   - "[[Argument_OConnor_2020_AJLL]]"
+  - "[[Argument_Simpson_2017_JEdPolicy]]"
+  - "[[Argument_Wrigley_2018_BERJ]]"
+  - "[[Argument_Simpson_2019_ERE]]"
+  - "[[Argument_Wrigley_2019_ERE]]"
   - "[[Argument_Eacott_2017_SLM]]"
   - "[[Argument_ONeill_2012_NZJES]]"
   - "[[Argument_Johnson_2023_CritEduc]]"
@@ -211,7 +217,7 @@ related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
   - "[[Visible Classroom]]"
 confidence: high
-status: stable
+status: active
 created: '2026-05-02'
 updated: 2026-11-28
 ---
@@ -326,6 +332,7 @@ updated: 2026-11-28
 > - [[Argument_Qvortrup_2019_NordSTEP\|Qvortrup, 2019]] — 从[[Niklas Luhmann\|卢曼]]系统论与[[Structural Coupling\|结构耦合]]视角为 Hattie 辩护，批判意识形态解释社群。
 > - [[Argument_Golovchin_2019_ESC\|Golovchin, 2019]] — 变差系数（56.87%）与极端离散度检验：解构 $d=0.40$ 基准有效性，警示脱离教师地位与生源条件的机械实证排名风险。
 > - [[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022]] — 审视英国教育政策将 Hattie 列为官方认可证据来源的治理效应。
+> - [[Argument_Skipp_Tanner_2015_EEF\|Skipp & Tanner, 2015]] — 评估 EEF 资助的 [[Visible Classroom]] 试点项目，追踪实时语音转写与 16 项教学编码反馈在英国小学的实施约束与设备瓶颈。
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al., 2024]] — 揭示北欧五国政策咨询网络在法定规制阶段对 Hattie et al. 学术明星的海量引文过滤。
 > - [[Argument_Nielsen_2021_IRTP\|Nielsen & Klitmøller, 2021b]] — 从[[Critical Theory|批判理论]]视角剖析 Hattie 理论核心的[[Positivism|实证主义]][[Technical Rationality|技术理性]]，揭示其流行实质在于化解晚期现代教育系统的[[Legitimation Crisis|合法化危机]]。
 
@@ -401,6 +408,7 @@ updated: 2026-11-28
 > > - **Golovchin** 对 133 项正向效应量开展变差系数（$V_\sigma$）检验，发现总体变差系数高达 56.87%（学生特征 71.24%、学校环境 65.97%），证实效应量呈极端不均匀分布，$d=0.40$ 无法充当普遍有效的因果基准线。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 238–241)]]
 > > - **Kalmendal et al.** 开展针对全库 322 个影响因素的[[Preregistration|预注册]][[Metascience|元科学]]审计，证实仅 19% 满足 [[PICO Framework|PICO]] 纳入基准，仅 0.66%（2 项）可完全复现数据提取，44% 报告的效应量在所引文献中完全不存在，实证瓦解了聚合效应量的科学可[[Reliability|信度]]。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 1, 14–19)]]
 > > - **Allerup 与 O'Connor** 指出排名缺乏[[Statistical Significance|显著性检验]]且[[Societies of Control|控制社会]]背景后边际效应骤降，[[Whole Language|全语言]]案例审查揭示出分类错误与先验偏见驱动的单向修正。[[Argument_Allerup_2015_Paideia|(Allerup, 2015)]]; [[Argument_OConnor_2020_AJLL|(O'Connor, 2020)]]
+> > - **Simpson 与 Wrigley** 从循证工具包与三级聚合机制批判元-元分析在零干预对照组设置、窄化人群范围限制（[[Floor and Ceiling Effects|range restriction]]）与开发者自编测验（效应估计约为第三方标准化测验两倍）上的系统性偏差，通过匈牙利语 *oktatás* 思想实验论证高居榜首的“反馈”与“元认知”主要反映低噪声受控实验的测量清晰度（experimental clarity），而非更大的真实课堂影响力，并指出三阶平均掩盖持续时间、年龄递减与课程复杂性。[[Argument_Simpson_2017_JEdPolicy|(Simpson, 2017)]]; [[Argument_Wrigley_2018_BERJ|(Wrigley, 2018)]]; [[Argument_Simpson_2019_ERE|(Simpson, 2019)]]; [[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019)]]
 > > - **Terhart 提出[[Stability vs. Variability Dilemma|双重困境模型]]** 针对二阶元分析的累加逻辑提出“稳定性假说与变异性假说”双重困境：[[Effective Teaching|有效教学]]因素仅能渐近逼近教科书已知常识而缺乏知识增量，特定关键领域又因文献陈旧被最新实证（如 [[COACTIV]] 证实教师专业知识关键性）推翻，论证巨型综合陷入了修补金字塔困境。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 436–437)]]
 >
 > > [!axis] 文化政治批判：[[Cult of the Guru|大师崇拜]]、[[Neo-Taylorism|新泰勒主义]]与[[Policy Brokerage|政策中介]]制度落差
@@ -430,7 +438,11 @@ updated: 2026-11-28
 > - [[Argument_Allerup_2015_Paideia|Allerup, 2015]] — 效应量排名[[Sample Size Determination|样本量]]依赖、[[Confidence Interval|置信区间]]缺失与[[Socioeconomic Status|社会经济背景]]控制批评。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al., 2016]] — 推导两级固定效应代数等价性定理与六步规程，以 Eisenstaedt（10倍虚增）、Haas（权重削减53%）及 Olson & Wisher（93%重叠致排名雪崩）实证解构超级元分析可行性。
 > - [[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017]] — 统计学视角审查：CLES 负概率初等计算错误、基线反转致效应量解释颠覆、受控数值模拟证实三类有效公式排名彻底相反、相关向均值差换算极值爆炸（$r=0.196 \to d=0.40$ 仅解释 3.85% 方差）及伪科学定性。
+> - [[Argument_Simpson_2017_JEdPolicy|Simpson, 2017]] — 循证工具包偏差剖析：揭示零干预对照、窄化人群范围限制（[[Floor and Ceiling Effects|range restriction]]）与开发者自编测验（2 倍效应虚增）三大系统偏差。
 > - [[Argument_Eacott_2017_SLM|Eacott, 2017]] — 澳大利亚[[School Leadership|学校领导力]]屈从于大师崇拜与新泰勒主义批判。
+> - [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]] — 循证教育批判实在论审计：剖析从 RCT、元分析到元-元分析的三级统计简化与异质抹除，批判 0.40 关节点忽视时长与学龄差异。
+> - [[Argument_Simpson_2019_ERE|Simpson, 2019]] — 匈牙利语 *oktatás* 思想实验：论证榜首效应量反映低噪声实验清晰度，澄清信噪比与真实教育影响力的范畴混淆。
+> - [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]] — 统计聚合跨级失真审查：追踪 EEF 与 VL 均值如何掩盖内部异质性并挤压多元课程与民主教育讨论。
 > - [[Argument_Zhao_2017_JEC|Zhao, 2017]] — 直接教学（DI）效应量证据背后的创造力抑制与非生产性成功副作用。
 > - [[Argument_Rømer_2018_EPT|Rømer, 2018]] — 五线哲学批判：评价理论篡位教育、激进[[Constructivist Paradigm|建构主义]]消解教学与[[Dependent Variable|因变量]]不清。
 > - [[Argument_Larsen_2019_EducSci|Larsen, 2019]] — [[Phenomenology|现象学]]与自由哲学视角的“盲视”（Blindness）框架批判与 Bildung 替代。
@@ -456,6 +468,8 @@ updated: 2026-11-28
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Visible Learning]] | 概念 | 提出并构建以[[Effect Size\|效应量]]综合排名为基准的教学改进[[Analytic Framework\|分析框架]]。 |
+> | [[Feedback]] | 概念 | 构建 Feed Up / Feed Back / Feed Forward 形成性反馈模型并将其列为可见学习最高效核心要素之一。 |
+> | [[Effective Factor Bundle]] | 概念 | 德译修订版与德语教学论界围绕其实证条目提出的“强效因子束”协同解释构念。 |
 > | [[Direct Instruction]] | 概念 | 依据[[Meta-analysis\|元分析]]数据强力倡导教师作为“激活者”的显性教学与直接指导。 |
 > | [[Formative Assessment]] | 概念 | 将高影响反馈与可见学习转译为形成性评估与 [[Assessment Tools for Teaching and Learning\|asTTle]] 测评工具。 |
 > | [[Evidence-Based Education]] | 概念 | 作为全球循证教育运动的象征性人物，推动量化证据深度嵌入政策标准。 |
@@ -464,6 +478,7 @@ updated: 2026-11-28
 > | [[Governing by Numbers]] | 概念 | 其指标排序为国家与学区实施基于数字的学校绩效问责与远处规制提供了操作[[Scaffolding\|脚手架]]。 |
 > | [[Effect Size]] | 方法 | 确立 $d=0.40$ 关节点与影响气压计作为教育干预效果的通用比较标尺。 |
 > | [[Meta-meta-analysis]] | 方法 | 开创并将教育领域大规模元综合发展为系统化证据生产方法论。 |
+> | [[Visible Classroom]] | 测量工具 | 主导推出并获 EEF 资助试点的实时语音转录与教学行为编码课堂反馈应用。 |
 > | [[Visible Learning Meta-X]] | 事实 | 亲自创建并持续维护的底层[[Meta-meta-analysis\|二阶元分析]]数据库（收录 2,100+ 项[[Meta-analysis\|元分析]]），为可见的学习提供实证基础设施。 |
 > | [[Visible Learning Branding and Global Influences]] | 事实 | 记录其学术研究成果转化为跨国商业品牌、授权网络与全球政策采纳的制度化演变。 |
 > | [[Evidence for Learning]] | 事实 | 出任其学校专家咨询委员会主席，指导澳大利亚循证工具包与实践指南的[[Going Native\|本土化]]。 |

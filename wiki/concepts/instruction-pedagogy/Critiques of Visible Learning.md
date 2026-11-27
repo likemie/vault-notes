@@ -7,9 +7,9 @@ aliases:
 summary: "围绕 John Hattie Visible Learning 展开的批评谱系，集中讨论效应量排名、元-元分析、教学理论、教育哲学、可见性政治和商业化政策扩张等争议。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 191
-related_level: 19
-related_stars: "💎💎💎💎💎💎⭐"
+related_count: 207
+related_level: 20
+related_stars: "💎💎💎💎💎💎⭐⭐"
 related_color: "#ddd6fe"
 tags:
   - visible-learning
@@ -74,6 +74,11 @@ related_concepts:
   - "[[Writing Programs]]"
   - "[[Research Tool]]"
   - "[[Predictive Validity]]"
+  - "[[Floor and Ceiling Effects]]"
+  - "[[Feedback]]"
+  - "[[Metacognition]]"
+  - "[[Category Mistake]]"
+  - "[[Problem-Based Learning]]"
   - "[[General Purpose Technology]]"
   - "[[Epoché]]"
   - "[[Critical Thinking]]"
@@ -88,7 +93,6 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Incarnation-Extension Dialectics]]"
   - "[[Neuroplasticity]]"
-  - "[[Category Mistake]]"
   - "[[Discourse]]"
   - "[[The Sublime]]"
   - "[[Alienation]]"
@@ -118,6 +122,9 @@ related_concepts:
   - "[[Preregistration]]"
   - "[[International Schools]]"
   - "[[Evidence-Based Teaching]]"
+  - "[[Cooperative Learning]]"
+  - "[[Effective Factor Bundle]]"
+  - "[[Third Voice]]"
   - "[[Epistemic Governance]]"
   - "[[Streetlight Effect]]"
   - "[[Formative Assessment]]"
@@ -155,6 +162,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Internal Consistency]]"
   - "[[Quantitative Research]]"
+  - "[[Practitioner Enquiry]]"
   - "[[Philosophical Analysis in Education]]"
 related_persons:
   - "[[John Hattie]]"
@@ -200,6 +208,11 @@ related_arguments:
   - "[[Argument_OConnor_2020_AJLL]]"
   - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Allerup_2015_Paideia]]"
+  - "[[Argument_Simpson_2017_JEdPolicy]]"
+  - "[[Argument_Wrigley_2018_BERJ]]"
+  - "[[Argument_Simpson_2019_ERE]]"
+  - "[[Argument_Wrigley_2019_ERE]]"
+  - "[[Argument_Reiss_Bernhard_2014_MathematicsEducation]]"
   - "[[Argument_Qvortrup_2015_Paideia]]"
   - "[[Argument_Nielsen_2021_IRTP]]"
   - "[[Argument_Cowen_2019_ERE]]"
@@ -210,13 +223,16 @@ related_arguments:
   - "[[Argument_Knudsen_2017_NordSTEP]]"
   - "[[Argument_Brugelmann_2014_LocalPractice]]"
   - "[[Argument_Koller_2014_WhatWorks]]"
+  - "[[Argument_Kelly_2025_ROE]]"
+  - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
   - "[[Argument_Nielsen_2021_NordPsych]]"
   - "[[Argument_VonOlberg_2014_GeneralDidactics]]"
+  - "[[Argument_Kremers_2014_CooperativeLearning]]"
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
   - "[[Framework for Teaching]]"
 confidence: medium
-status: stable
+status: active
 created: 2026-05-21
 updated: 2026-11-28
 ---
@@ -518,6 +534,14 @@ updated: 2026-11-28
 > - **生态推广局限** 结论源自英语国家高度受限情境，无法无缝迁移至非西方国家或普通教师的微观课堂。
 > - **测量效度缺失** 缺乏对原始[[Research Tool|研究工具]]效度的审慎核查，未提供清晰的质量准入标准，缺乏实践[[Predictive Validity|预测效度]]。
 > - **文化政治从属** 框架与新自由主义绩效问责、能力主义及性别偏见形成隐秘意识形态结盟。
+
+> [!critique-method] 三级聚合失真、范围限制与实验清晰度谬误（[[Argument_Simpson_2017_JEdPolicy|Simpson, 2017]]; [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]]; [[Argument_Simpson_2019_ERE|Simpson, 2019]]; [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]]）
+> - **跨三层级逐级失真与课程窄化** 里格利揭示循证排位在从一阶 RCT（缺失安慰剂与对照组界定模糊）、二阶元分析（违背[[Gene Glass|格拉斯]]“结果应呈变异图表而非均值”的警示，强行合并“反馈”类目异质研究）走向三阶元-元分析过程中发生三重统计失真；哈蒂 $d=0.40$ 关节点忽视干预时长（短期密集干预高于长期项目）、学生年龄递减趋势及对照组基准差异，迫使学校课程重心向易量化测验领域倾斜。
+> - **排行榜三大系统偏差** 辛普森在工具包偏差分析中指出，零干预对照设计系统抬高效应量估计；将样本限定于窄化特异人群（范围限制，[[Floor and Ceiling Effects|range restriction]]）通过压缩分母标准差人为放大 $d$ 值；开发者自编测验测得的效应量约为第三方标准化测验的两倍。
+> - **实验清晰度（experimental clarity）与教育影响力范畴混淆** 辛普森在后续测量论研究中设计匈牙利语词汇 *oktatás* 教学思想实验，说明同一教学活动可因组间设计、噪声控制与测量对齐差异产生从 $0$ 至无穷大的效应量差距；结合[[Feedback|反馈]]与[[Metacognition|元认知]]居于榜首的现象论证，高排位主要反映在低噪声短周期实验中取得高信噪比的可行性，将其直接等同于真实课堂中更大的教育影响力构成了[[Category Mistake|范畴错误]]。
+
+> [!critique-method] 数学问题解决排名反差与关键词聚合遮蔽（[[Argument_Reiss_Bernhard_2014_MathematicsEducation|Reiss & Bernhard, 2014, pp. 89–98]]）
+> 赖斯与伯恩哈德以数学教育为例拆解可见学习中两类高度相近构念的排名鸿沟：“问题解决教学”（problem-solving teaching，$d=0.61$，第 21 名）与“基于问题的学习”（[[Problem-Based Learning|problem-based learning]]，$d=0.15$，第 118 名）。剖析表明，二阶归类依靠表面关键词聚合不同学段、学科目标与测验形式的一阶元分析，并用算术平均抹除底层差异；脱离学科认知理论与国别教育语境校准时，排行榜难以转化为课堂教学决策依据。
 
 > [!critique-fatal] 二阶元分析在科学上不可行的终审技术判定（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016, pp. 34–36]]；[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025, p. 23]]；[[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017, p. 245]]）
 > 跨学科系统计量审计确立了一致的技术结论：以往指出的统计与概念缺陷代表着整座数据大厦在概念界定、模型假设、样本重复、无权平均与数据提取各环节的系统性崩溃，超越了孤立笔误的范畴。可见学习二阶元分析在当前学术发表条件下在科学上是不可行的，其报告的效应量与有效性排名完全不可作为教育决策与政策制定的可靠依据。
@@ -839,8 +863,8 @@ updated: 2026-11-28
 > [!contrast-table] 六大核心批评命题与学术谱系归纳
 > | 命题类型 | 核心理论判定 | 关键分析机制与工具 | 代表学者 |
 > |---|---|---|---|
-> | **命题一：方法论假性精确与统计无效性** | 跨层二阶聚合与无加权简单平均制造了虚假的精确量化指标强制 | 6 步统计技术检验、Fisher $z$ 缺失、样本重叠 93%、数据复现率 <1% | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]；[[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]；[[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]]；[[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]；[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] |
-> | **命题二：教学理论空洞化与学科异质性抹杀** | 将复杂教学拆解为[[General Purpose Technology\|通用技术]]清单消解了学科教学理论与人文交往 | 教学论内容真空、常模工具表层偏向、外科手术与救援机械比附解构 | [[Argument_Terhart_2011_JCS\|Terhart (2011)]]；[[Argument_Brugelmann_2014_LocalPractice\|Brügelmann (2014)]]；[[Argument_Qvortrup_2015_Paideia\|Qvortrup (2015)]]；[[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] |
+> | **命题一：方法论假性精确与统计无效性** | 跨层二阶聚合与无加权简单平均制造了虚假的精确量化指标强制 | 6 步统计技术检验、Fisher $z$ 缺失、样本重叠 93%、范围限制与实验清晰度偏差、数据复现率 <1% | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]；[[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]；[[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]]；[[Argument_Simpson_2017_JEdPolicy\|Simpson (2017)]]；[[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]]；[[Argument_Simpson_2019_ERE\|Simpson (2019)]]；[[Argument_Wrigley_2019_ERE\|Wrigley and McCusker (2019)]]；[[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]；[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] |
+> | **命题二：教学理论空洞化与学科异质性抹杀** | 将复杂教学拆解为[[General Purpose Technology\|通用技术]]清单消解了学科教学理论与人文交往 | 教学论内容真空、数学问题解决关键词聚合掩盖、常模工具表层偏向、外科手术与救援机械比附解构 | [[Argument_Terhart_2011_JCS\|Terhart (2011)]]；[[Argument_Brugelmann_2014_LocalPractice\|Brügelmann (2014)]]；[[Argument_Reiss_Bernhard_2014_MathematicsEducation\|Reiss and Bernhard (2014)]]；[[Argument_Qvortrup_2015_Paideia\|Qvortrup (2015)]]；[[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] |
 > | **命题三：教育哲学偏狭与货物崇拜伪科学** | 技术理性与评价理论殖民教育目的，以封闭系统满足合法化危机 | 评价理论殖民、教养（Bildung）遮蔽、合法化危机、货物崇拜科学划界 | [[Argument_Rømer_2018_EPT\|Rømer (2018)]]；[[Argument_Larsen_2019_EducSci\|Larsen (2019)]]；[[Argument_Nielsen_2021_IRTP\|Nielsen and Klitmøller (2021b)]]；[[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] |
 > | **命题四：可见性全景监控与新泰勒制规训** | 可见性全景监控与标准化清单剥夺[[Teacher Professional Agency\|教师能动性]]并诱发表演性危机 | 福柯全景权力、新泰勒制三维同源性、asTTle 监控原型、HITS 白板板书形式主义核查 | [[Argument_Terhart_2011_JCS\|Terhart (2011)]]；[[Argument_Eacott_2019_IJLE\|Eacott (2019)]]；[[Argument_McKnight_2020_Discourse\|McKnight and Whitburn (2020)]]；[[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] |
 > | **命题五：政治经济学商业化与紧缩共谋** | 排除非学校因素与班额无效论精准迎合新自由主义财政削支与咨询牟利 | 70–80% 非学校方差排除、财政部证据断裂、86.9 万第三方酬金、GERM 循环 | [[Argument_Grace_2010_NZJES\|Grace (2010)]]；[[Argument_ONeill_2012_NZJES\|O'Neill (2012)]]；[[Argument_Bates_2017_CognitionEducationTrust\|Bates (2017)]]；[[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] |
@@ -850,9 +874,9 @@ updated: 2026-11-28
 
 > [!dev-timeline] 对可见学习批评的四个演进阶段
 > - **2009–2010 年 — 起源反弹与政策警示期** 《[[Visible Learning|可见的学习]]》出版同年，新西兰梅西大学[[Ivan Snook|伊万·斯努克]]（Ivan Snook）领衔的批判团队（[[Argument_Snook_2009_NZJES\|Snook et al., 2009]]）即从[[Meta-meta-analysis|二阶元分析]]缺乏底层质控导致粗糙输入诱发荒谬输出（GIGO）、0.40 截断值主观武断（医学阿司匹林 $d=0.07$ 反例）、单一均值抹杀学段学科差异，以及援引[[Roy Nash|罗伊·纳什]]（Roy Nash）与 Richard Harker et al. 方差分解证实 70%–80% 差异取决于家庭背景等维度系统敲响警钟，严厉警示宏观数据被滥用为削减生均投入与转嫁问责的危险；[[Argument_Grace_2010_NZJES\|Grace (2010)]] 从学者社会良知出发批判其排除贫困与社会不平等，预示了方法论与社会学批判的基本分野。
-> - **2011–2016 年 — 德语学理深化与逐步技术审计期** 德国教学论与制度研究学界（[[Argument_Terhart_2011_JCS\|Terhart, 2011]]; [[Argument_Terhart_2014_HolyGrail\|Terhart, 2014]]; [[Argument_Koller_2014_WhatWorks\|Köller, 2014]]; [[Argument_Brugelmann_2014_LocalPractice\|Brügelmann, 2014]]; [[Argument_Rolff_2014_SchoolStructure\|Rolff, 2014]]）对二阶元分析开展了系统反思与实证审读。布吕格尔曼从均值陷阱、课程测不准原理与[[Implementation Fidelity|实施保真度]]缺失系统解构教学法内容中立性神话；[[Hans-Günter Rolff|罗尔夫]]针砭政策界将哈蒂数据图当作罗夏墨迹测验（Rorschach-Test）按预设立场各取所需，揭露以“只需好教师而无需好结构”推卸系统责任并使个别教师沦为替罪羊的个体归咎倾向，指出哈蒂的结构无关论源于英语国家综合中学而无法适用于多轨制德意志语境；随后 [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] 开展了长达 6 步的全面统计技术审计，从[[Fixed-Effect Model\|固定效应]]违反、加权缺失到方差失控，实证判定该方法在科学上不可行。
-> - **2017–2020 年 — 数理统计审计、政治哲学批判与新泰勒制解构期** 加拿大统计学者伯杰龙与里瓦尔（[[Argument_Bergeron_2017_MJE\|Bergeron & Rivard, 2017]]）发表系统数理审计，受控模拟证实三类合法公式对同一数据得出完全相反排名，揭示普通语言[[Effect Size|效应量]]负概率与相关换算数学爆炸，将该体系定性为违背数理统计公理的违背数理统计公理的伪科学构架；同时丹麦与澳洲学者转向哲学与微观权力批判：[[Argument_Rømer_2018_EPT\|Rømer (2018)]] 论证评价理论殖民教育理论，[[Argument_Larsen_2019_EducSci\|Larsen (2019)]] 指出可见性遮蔽了不可见的深层育人价值；[[Argument_Eacott_2019_IJLE\|Eacott (2019)]] 与 [[Argument_McKnight_2020_Discourse\|McKnight and Whitburn (2020)]] 揭露[[Cult of the Guru|大师崇拜]]与新泰勒制监控；[[Argument_OConnor_2020_AJLL\|O'Connor (2020)]] 通过[[Whole Language|全语言]]案例实证揭露先验立场对数据提取的扭曲。
-> - **2021–2026 年 — 深度意识形态解构与[[Metascience|元科学]]可复现性审计期** 批判深化为整体性科学划界与实证审计：Nielsen and Klitmøller (2021) 揭示[[Technical Rationality|技术理性]]满足[[Legitimation Crisis|合法化危机]]；[[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] 系统运用[[Cargo Cult Science|货物崇拜科学]]、[[Neo-Taylorism|新泰勒主义]]、简单算术平均与商业利益追踪实施四位一体解构；[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] 开展首个[[Preregistration|预注册]]元科学全库审计，以不足 1% 的数据复现率在实证上彻底确立了其不可作为决策依据的定论。
+> - **2011–2016 年 — 德语学理深化与逐步技术审计期** 德国教学论与制度研究学界（[[Argument_Terhart_2011_JCS\|Terhart, 2011]]; [[Argument_Terhart_2014_HolyGrail\|Terhart, 2014]]; [[Argument_Koller_2014_WhatWorks\|Köller, 2014]]; [[Argument_Brugelmann_2014_LocalPractice\|Brügelmann, 2014]]; [[Argument_Rolff_2014_SchoolStructure\|Rolff, 2014]]; [[Argument_Reiss_Bernhard_2014_MathematicsEducation\|Reiss & Bernhard, 2014]]）对二阶元分析开展了系统反思与实证审读。布吕格尔曼从均值陷阱、课程测不准原理与[[Implementation Fidelity|实施保真度]]缺失系统解构教学法内容中立性神话；赖斯与伯恩哈德解剖数学问题解决排名反差背后的关键词聚合遮蔽；[[Hans-Günter Rolff|罗尔夫]]针砭政策界将哈蒂数据图当作罗夏墨迹测验（Rorschach-Test）按预设立场各取所需，揭露以“只需好教师而无需好结构”推卸系统责任并使个别教师沦为替罪羊的个体归咎倾向，指出哈蒂的结构无关论源于英语国家综合中学而无法适用于多轨制德意志语境；随后 [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] 开展了长达 6 步的全面统计技术审计，从[[Fixed-Effect Model\|固定效应]]违反、加权缺失到方差失控，实证判定该方法在科学上不可行。
+> - **2017–2020 年 — 数理统计审计、政治哲学批判与新泰勒制解构期** 加拿大统计学者伯杰龙与里瓦尔（[[Argument_Bergeron_2017_MJE\|Bergeron & Rivard, 2017]]）发表系统数理审计，受控模拟证实三类合法公式对同一数据得出完全相反排名，揭示普通语言[[Effect Size|效应量]]负概率与相关换算数学爆炸，将该体系定性为违背数理统计公理的伪科学构架；英国学者辛普森与里格利（[[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017]]; [[Argument_Wrigley_2018_BERJ\|Wrigley, 2018]]; [[Argument_Simpson_2019_ERE\|Simpson, 2019]]; [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019]]）进一步剖析对照组设计、范围限制、开发者自编测验两倍偏差与实验清晰度谬误，解构三阶聚合对课程复杂性与研究异质性的层层过滤；同时丹麦与澳洲学者转向哲学与微观权力批判：[[Argument_Rømer_2018_EPT\|Rømer (2018)]] 论证评价理论殖民教育理论，[[Argument_Larsen_2019_EducSci\|Larsen (2019)]] 指出可见性遮蔽了不可见的深层育人价值；[[Argument_Eacott_2019_IJLE\|Eacott (2019)]] 与 [[Argument_McKnight_2020_Discourse\|McKnight and Whitburn (2020)]] 揭露[[Cult of the Guru|大师崇拜]]与新泰勒制监控；[[Argument_OConnor_2020_AJLL\|O'Connor (2020)]] 通过[[Whole Language|全语言]]案例实证揭露先验立场对数据提取的扭曲。
+> - **2021–2026 年 — 深度意识形态解构、实践研究整合与[[Metascience|元科学]]可复现性审计期** 批判深化为整体性科学划界与实证审计：[[Argument_Nielsen_2021_IRTP\|Nielsen and Klitmøller (2021b)]] 揭示[[Technical Rationality|技术理性]]满足[[Legitimation Crisis|合法化危机]]；[[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] 系统运用[[Cargo Cult Science|货物崇拜科学]]、[[Neo-Taylorism|新泰勒主义]]、简单算术平均与商业利益追踪实施四位一体解构；[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] 开展首个[[Preregistration|预注册]]元科学全库审计，以不足 1% 的数据复现率在实证上彻底确立了其不可作为决策依据的定论；欧洲学校实证与研究使用综述（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025]]; [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026]]）则揭示自上而下推行循证指标容易退化为象征性合规，学校研究改进需要依托[[Practitioner Enquiry|实践者探究]]、信任与可持续结构展开集体专业整合。
 
 ---
 ## 争议与批评
@@ -914,16 +938,22 @@ updated: 2026-11-28
 > - [[Argument_ONeill_2012_NZJES|O'Neill (2012)]] — 政策[[Discourse Analysis|话语分析]]，以新西兰财政部简报为例解剖决策者如何刻意过滤学术警示、挪用[[Effect Size|效应量]]推行预算紧缩。
 > - [[Argument_VonOlberg_2014_GeneralDidactics|von Olberg (2014)]] — 从德语[[Didaktik|一般教学论]]审视哈蒂教师手册与[[Evidence-Based Teaching|循证教学]]，揭示其社会技术主义知识观及目标、制度与课程内容三重结构缺口。
 > - [[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]] — 指出哈蒂的学校结构低效应结论源自综合制英语国家，无法外推至德国多轨制，结合 PISA、IGLU 与 STAR 批评其忽视机会均等与学校系统属性。
+> - [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014)]] — 德语区[[Cooperative Learning|合作学习]]教学论审读：揭示孤立因子排名被误读为传统讲授复辟与社交测度盲区，提出高成效[[Effective Factor Bundle|强效因子束]]协同解释框架。
+> - [[Argument_Reiss_Bernhard_2014_MathematicsEducation|Reiss and Bernhard (2014)]] — 数学教育审读：拆解“问题解决教学（$d=0.61$）”与“[[Problem-Based Learning|基于问题的学习]]（$d=0.15$）”排名反差背后的关键词聚合与算术平均掩盖机制（pp. 89–98）。
 > - [[Argument_Allerup_2015_Paideia|Allerup (2015)]] — 统计学方法批判，推导 0.40 阈值与[[Sample Size Determination|样本量]]的统计依存性，揭示[[Confidence Interval|置信区间]]缺失及 [[TIMSS]] [[Variable|变量]]控制后边际效应崩溃。
 > - [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] — 支持者的概念反思，指出常模测验的表层技能偏向与[[Dependent Variable|因变量]][[Operationalization|操作化]]失焦。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 计量统计学 6 步严密审计，证实[[Fixed-Effect Model|固定效应]]假设违背、简单平均偏差与 93% 样本重叠，判定二阶元分析在科学上不可行。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 新西兰教育官方档案核查，披露[[Cognition Education|认知教育]]公司与[[John Hattie|哈蒂]]在 2011–2015 年间累计超 86.9 万新西兰元的第三方商业劳务报酬明细。
 > - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 数理统计审计与受控数值模拟反证，证实三类合法公式得出冲突排名、[[Common Language Effect Size|普通语言效应量]]概率违背公理与极值发散，定性为伪科学虚假构架。
+> - [[Argument_Simpson_2017_JEdPolicy|Simpson (2017)]] — 循证工具包系统偏差剖析：揭示零干预对照设计、窄化人群范围限制（[[Floor and Ceiling Effects|range restriction]]）与开发者自编测验两倍虚增三大机制。
 > - [[Argument_Bates_2017_CognitionEducationTrust|Bates (2017)]] — 政治经济学历史追踪，梳理公共教育服务中心私有化改制为商业咨询公司并孵化 [[Visible Learning Branding and Global Influences|VLplus]] 专营品牌的商业化轨迹。
 > - [[Argument_Eacott_2017_SLM|Eacott (2017)]] — [[Cult of Efficiency|效率崇拜]]与大师学术分析，结合教育行政焦虑与效应量[[Discourse|话语]]兴起，揭示[[Cult of the Guru|大师崇拜]]得以形成的社会历史条件。
 > - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] — 丹麦政策辩论，揭露 Qvortrup 系统论辩护与 Visible Learningplus 机械专营培训落地之间的尖锐现实脱节。
+> - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 批判实在论三级聚合审计：揭示从 RCT、元分析到元-元分析的统计简化与异质抹除，批判 0.40 关节点忽视干预时长、年龄特征与课程广度。
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — [[Philosophical Analysis in Education|哲学分析]]与概念批判，解构形而上学预设裂隙、评价理论压缩导致的[[Research Cage|研究牢笼]]、[[Radical Constructivism|激进建构主义]]双重瓦解与存在论控制悖论。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — [[Phenomenology|现象学]]与教化批判，解构 20% 可见性自反性陷阱、世俗化神学监控、脑神经还原论与陶冶之镜自恋，确立[[Participatory Sense-Making|参与式意义建构]]与教化作为批判免疫的[[Ontology|本体论]]防线。
+> - [[Argument_Simpson_2019_ERE|Simpson (2019)]] — 匈牙利语 *oktatás* 思想实验：论证“反馈”与“元认知”高排位主要反映低噪声受控实验的测量清晰度，澄清信噪比与真实教育影响力的[[Category Mistake|范畴错误]]。
+> - [[Argument_Wrigley_2019_ERE|Wrigley and McCusker (2019)]] — 跨级均值失真审查：追踪 EEF 与 VL 二阶/三阶平均如何掩盖实验异质性并挤压多元课程与民主教育讨论。
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 统计离散度检验与后发转型国家实证，证实 56.87% 变差系数击穿同质性门槛，以及持续数据生产在俄罗斯导致的师资流失危机。
 > - [[Argument_Eacott_2019_IJLE|Eacott (2019)]] — 劳动过程与新泰勒制批判，解构清单管理、消除得过且过与动作拆解对教师情境化[[Professional Judgment|专业判断]]的剥夺。
 > - [[Argument_Cowen_2019_ERE|Cowen (2019)]] — 公共选择与[[Tullock's Bureaucracy Theory|官僚制理论]]分析，揭示元分析工具如何为行政主权者提供透明过滤机制以满足治理需求。
@@ -933,7 +963,9 @@ updated: 2026-11-28
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 概念同质性实证解剖，逐项核验标志性高排名反馈效应最大贡献文献，证实其建立在混淆强化、即时性与考官提示的概念标签[[Heterogeneity|异质性]]之上。
 > - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — [[Critical Theory|批判理论]]与制度合法化分析，结合丹麦改革揭示[[Technical Rationality|技术理性]]如何以控制承诺填补现代学校的[[Legitimation Crisis|合法化危机]]。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 费曼科学哲学与政治经济学批判，从[[Cargo Cult Science|货物崇拜科学]]、简单平均无加权、[[Assessment Tools for Teaching and Learning|asTTle]] 监控原型与政商旋转门实施四位一体系统解构。
+> - [[Argument_Kelly_2025_ROE|Kelly et al. (2025)]] — 欧洲多国实证比较：记录苏格兰与德国一线学校领导者凭借[[Practitioner Enquiry|实践者探究]]与教研协同对 VL 等外部流行标签展开去魅与情境化校准（pp. 13–14, 20–21）。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — [[Preregistration|预注册]]全量[[Metascience|元科学]]系统审计，以 19% [[PICO Framework|PICO]] 合规率与不足 1% 的数据复现率在实证上彻底确立不可作为决策依据的定论。
+> - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — 基于 109 项研究框架综合批判个体缺陷归因与工具性问责，论证自上而下循证指令易退化为象征性合规，学校研究使用需转向信任、可持续结构与[[Third Voice|第三声音]]整合。
 
 ---
 

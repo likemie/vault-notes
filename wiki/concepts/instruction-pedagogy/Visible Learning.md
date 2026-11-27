@@ -5,9 +5,9 @@ aliases:
 summary: "John Hattie 发起的教育证据综合与学校改进框架，主张通过汇总海量元分析建立 d=0.40 关节点相对有效性判准，将教师确立为成就变异的核心因果枢纽（30%），依托学业进阶、显性成功标准与形成性反馈重塑教学评价性判断。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 196
-related_level: 19
-related_stars: "💎💎💎💎💎💎⭐"
+related_count: 209
+related_level: 20
+related_stars: "💎💎💎💎💎💎⭐⭐"
 related_color: "#ddd6fe"
 tags:
   - visible-learning
@@ -104,6 +104,8 @@ related_concepts:
   - "[[Research Scope]]"
   - "[[Learning Strategies]]"
   - "[[Falsification]]"
+  - "[[Floor and Ceiling Effects]]"
+  - "[[Third Voice]]"
   - "[[Critical Thinking]]"
   - "[[Criterion-Referenced Test]]"
   - "[[Primary and Secondary Documents]]"
@@ -212,13 +214,24 @@ related_arguments:
   - "[[Argument_Jansen_2026_EPR]]"
   - "[[Argument_Qvortrup_2015_Paideia]]"
   - "[[Argument_Sarbiewska_2019_KiW]]"
+  - "[[Argument_Simpson_2017_JEdPolicy]]"
+  - "[[Argument_Wrigley_2018_BERJ]]"
+  - "[[Argument_Simpson_2019_ERE]]"
+  - "[[Argument_Wrigley_2019_ERE]]"
+  - "[[Argument_Steiner-Khamsi_2024_CE]]"
+  - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
   - "[[Argument_ONeill_2016_Report]]"
+  - "[[Argument_Hattie_2015_Paideia]]"
+  - "[[Argument_Hansen_2015_Paideia]]"
+  - "[[Argument_Laursen_2015_Paideia]]"
+  - "[[Argument_ONeill_2012_NZJES]]"
   - "[[Argument_VonOlberg_2014_GeneralDidactics]]"
   - "[[Argument_Rolff_2014_SchoolStructure]]"
   - "[[Argument_Reiss_Bernhard_2014_MathematicsEducation]]"
+  - "[[Argument_Eacott_2017_SLM]]"
   - "[[Argument_Nielsen_2021_IRTP]]"
 confidence: high
-status: stable
+status: active
 created: 2026-05-02
 updated: 2026-11-28
 ---
@@ -439,6 +452,8 @@ updated: 2026-11-28
 > - **教育哲学与[[Pure Evaluation|纯粹评价]]解构** 罗默（[[Argument_Rømer_2018_EPT|Rømer, 2018]]）指出可见学习实质是教育屈从于简陋评价理论的产物，揭露其将反馈窄化为缩小差距的范畴错误，以及混淆波普尔实在论与[[Radical Constructivism|激进建构主义]]的认识论自相矛盾。
 > - **元科学审计与可复现性** 瑞典团队对全库开展独立复现，实证证实其底层数据链全面瓦解。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 18–19)]]
 > - **[[Technical Rationality|技术理性]]与思想史理论溯源** 尼尔森与克利特默勒从舍恩技术理性[[Paradigm|范式]]解构哈蒂的[[Behaviorism|行为主义]]学理渊源，实证指出其剔除 [[Socioeconomic Status|SES]] 制造阶级盲、自认 0.40 门槛属于叙事故事造成学段一刀切误导，并揭露核心反馈元分析掩盖 38% 负效应与[[Construct|构念]]拼贴缺陷。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a)]]
+> - **实验清晰度谬误、范围限制与三级聚合失真** 辛普森与里格利批判二阶/三阶排行榜在零干预对照、窄化人群范围限制（[[Floor and Ceiling Effects|range restriction]]）与开发者自编测验上的系统偏差，指出高排位因素主要反映低噪声受控实验的测量清晰度，三阶均值跨级过滤了时长、学段与课程上下文。[[Argument_Simpson_2017_JEdPolicy|(Simpson, 2017)]]; [[Argument_Wrigley_2018_BERJ|(Wrigley, 2018)]]; [[Argument_Simpson_2019_ERE|(Simpson, 2019)]]; [[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019)]]
+> - **政策引文过滤与学校研究整合限制** 北欧五国实证追踪显示学术明星引文在法定行政法令阶段被过滤超 95%；109 项研究系统综述进一步指出自上而下推行循证指标极易流于象征性合规，学校研究改进依赖信任、可持续结构与[[Third Voice|第三声音]]整合条件。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 547–548)]]; [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026)]]
 > - **[[Cargo Cult Science|货物崇拜科学]]与政治经济学** 约翰逊与詹森系统解构其方法论不透明、简单算术平均与政商旋转门机制。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023)]]
 > - **数据与文化局限** 原始元分析主要基于英语国家历史文献，直接跨语境迁移到非英语国家或不同社会文化体制中存在显著适应性障碍。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 232)]]
 
@@ -505,6 +520,11 @@ updated: 2026-11-28
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Hattie_2005_ACER\|Hattie (2005)]] — 奠定 VL 理论与统计框架，提出 $d=0.40$ 关节点、30% 教师方差贡献、[[Assessment Tools for Teaching and Learning\|asTTle]] 形成性三提问与[[Learning Progression\|学业进阶]]共享语言。
 > - [[Argument_Hattie_2015_SOTLP\|Hattie (2015a)]] — 提炼八项教师思维框架、DIE 教学循环及高等教育情境下的六项高影响条件。
+> - [[Argument_Hattie_2015_Paideia\|Hattie (2015b)]] — 回应方法学与学习层次质疑，阐明 $d=0.40$ 作为比较起点的语境条件、Rowland 测试反馈分化（$d=0.03$ 至 $0.73$）与三项民主问题化追问。
+> - [[Argument_Hansen_2015_Paideia\|Hansen et al. (2015)]] — 梳理北欧学界接受谱系，将 VL 核心压缩为教师持续评估自身教学影响的专业姿态。
+> - [[Argument_Laursen_2015_Paideia\|Laursen (2015)]] — 对照丹麦本土实证与国际教学综合，发现学生社会背景解释力显著强于国家文化，并指出频繁测试边际效应与反馈问项口径偏差。
+> - [[Argument_ONeill_2012_NZJES\|O'Neill (2012)]] — 解剖新西兰财政部 2011 年简报如何过滤原著警示，借混淆师生比与大学评教“教学质量”为削减教育投入辩护。
+> - [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] — 追踪公共研发与营利专营交织的政策创业网络，披露 2011–2015 年间累计超 86.9 万新西兰元第三方劳务报酬明细。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 从欧陆教学论与教化传统批判可见学习抽空学科实质内容与课程合法化反思的形式主义局限。
 > - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 编撰德语学界对话专著，评注德译本《让学习可见》，从过程-结果范式与“路灯效应”揭示其对不可度量育人维度的排斥，借助福柯权力视角解构双向注视隐喻的微观规训风险，将其定性为反思工具而非操作药方。
 > - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 立足德语区实证教育研究，区隔表层结构与深层结构，基于 [[COACTIV]] 等追踪数据直接驳斥哈蒂低估[[Teacher Subject Matter Knowledge|教师学科知识]]（$d=0.09$）的论断，提出以认知激活、有效班级管理与建设性支持为维度的循证教学改进规程。
@@ -515,11 +535,18 @@ updated: 2026-11-28
 > - [[Argument_Reiss_Bernhard_2014_MathematicsEducation|Reiss and Bernhard (2014)]] — 以数学问题解决为例拆解两类问题因子排名反差背后的关键词聚合与算术平均掩盖机制，论证理论模型与国别语境校准的必要性（pp. 89–98）。
 > - [[Argument_Fredens_2015_Paideia\|Fredens (2015)]] — 从学习科学与脑科学视角解读 VL，提出“使学校成为反馈文化”的组织转型主张。
 > - [[Argument_Nordahl_2015_Paideia\|Nordahl (2015)]] — 斯堪的纳维亚学派将 VL 重构为校本改进、[[Teacher Collaboration|教师协作]]研讨与能力建设的微观实践路径。
+> - [[Argument_Eacott_2017_SLM\|Eacott (2017)]] — 结合澳大利亚测试下滑恐慌与效率崇拜历史类比，剖析 [[School Leadership\|学校领导]]向[[Cult of the Guru\|大师崇拜]]与新泰勒主义规训的制度锁定条件。
+> - [[Argument_Simpson_2017_JEdPolicy\|Simpson (2017)]] — 揭示元分析工具包在零干预对照、窄化人群范围限制（[[Floor and Ceiling Effects\|range restriction]]）与开发者自编测验（2 倍效应虚增）上的系统偏差。
+> - [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] — 解构从 RCT、元分析到元-元分析的三级统计简化与异质抹除，指出 0.40 关节点忽视干预时长、学龄特征与课程广度。
 > - [[Argument_Eacott_2019_IJLE\|Eacott (2019)]] — 批判 VL 在行政与商业推广中异化为[[Neo-Taylorism\|新泰勒主义]]控制与[[Cult of the Guru\|大师崇拜]]的制度风险。
+> - [[Argument_Simpson_2019_ERE\|Simpson (2019)]] — 通过匈牙利语 *oktatás* 思想实验论证高排名主要反映低噪声实验清晰度，澄清信噪比与真实教育影响力的范畴混淆。
+> - [[Argument_Wrigley_2019_ERE\|Wrigley and McCusker (2019)]] — 检视 EEF 与 VL 跨级均值对实验异质性与窄化证据的放大，警示其对教育民主讨论与多元课程目标的挤压。
 > - [[Argument_Qvortrup_2015_Paideia\|Qvortrup (2015)]] — 批判 VL 测量工具对表层技能的偏向，倡导建立区分知识层次的动态学习模型。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 推导两级[[Fixed-Effect Model|固定效应模型]]代数等价性定理，基于 Eisenstaedt、Haas 及 Olson & Wisher 等案例实证揭示[[Meta-meta-analysis|二级元分析]]在当前学术发表体制下的不可行性。
+> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] — 比较北欧五国课程改革引用链，实证揭示法定行政法令阶段对个体学术明星引文过滤超 95%（pp. 547–548）。
 > - [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] — 比较英格兰、苏格兰与德国[[School Leadership\|学校领导]]者的[[Research Utilization\|证据使用]]经验，实证指出苏格兰校长面对 VL 等流行概念时，依托“[[Practitioner Enquiry\|实践者探究]]”（Practitioner Enquiry）与[[Contributory Expertise\|贡献型专长]]进行批判性审视与情境化校准。（pp. 20–21）
 > - [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] — 开展[[Preregistration|预注册]]全库[[Metascience|元科学]]审计，实证揭示 VL 体系仅 19% 满足 [[PICO Framework|PICO]] 标准且仅 2 项可复现数据提取，为学界彻底终结该体系的政策依赖提供了实证定论。
+> - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] — 基于 109 项实证研究的框架综合批判个体缺陷归因与工具性问责，论证学校研究使用需要转向依托信任与可持续结构的集体专业整合。
 > - [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] — 运用[[Cargo Cult Science|货物崇拜科学]]、劳动过程监控与政治经济学批判框架，系统解构 VL 的简单算术平均算法缺陷、对[[Class Size|班级规模]][[Meta-analysis|元分析]]的失真提取以及兼任商业咨询机构董事的高额版税收益链条。
 > - [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] — 运用精确变差系数（$V_\sigma = 56.87\%$）对 Hattie [[Effect Size|效应量]]数据集进行数学同质性检验，实证证实其严重离散不均；结合全俄教师面临 79% 报表重压与去专业化现实，全面评估了 VL 对俄罗斯教育政策的不可适用性。
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 从教育哲学与教学论视角展开概念审查，指出可见学习是教学屈从于简陋评价理论的产物，揭示反馈概念界定中的[[Category Mistake|范畴错误]]及挪用波普尔世界三理论时产生的[[Epistemology|认识论]]自相矛盾。
