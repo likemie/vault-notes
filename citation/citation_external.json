@@ -50340,7 +50340,8 @@
       ],
       "isbn": "9783834011909",
       "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md"
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md",
+        "wiki/concepts/instruction-pedagogy/Co-Teaching.md"
       ],
       "title": "Einleitung zu: Lernen sichtbar machen (pp. VI–XXVI)"
     },
@@ -91898,7 +91899,9 @@
         "Falchikov & Boud, 1989"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/educational-psychology/Self-reported Grades.md"
+      ],
       "title": "Student self assessment in higher education: a meta-analysis"
     },
     "Falchikov & Goldfinch, 2000": {
@@ -114688,6 +114691,9 @@
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md",
         "wiki/concepts/competency-and-assessment/Academic Achievement.md",
         "wiki/concepts/competency-and-assessment/Problem Solving.md",
+        "wiki/concepts/educational-psychology/Self-reported Grades.md",
+        "wiki/concepts/instruction-pedagogy/Co-Teaching.md",
+        "wiki/concepts/instruction-pedagogy/Concept Mapping.md",
         "wiki/concepts/instruction-pedagogy/Cooperative Learning.md",
         "wiki/concepts/instruction-pedagogy/Cooperative, Competitive and Individualistic Learning.md",
         "wiki/concepts/instruction-pedagogy/Peer-Supported Learning.md",
@@ -141749,6 +141755,7 @@
       "isbn": "9783486745108",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md",
+        "wiki/concepts/instruction-pedagogy/Jigsaw.md",
         "wiki/concepts/instruction-pedagogy/Reciprocal Teaching.md",
         "wiki/concepts/learning-science-cognitive-science/Learning Strategies.md"
       ],
@@ -153659,7 +153666,9 @@
         "Mabe & West, 1982"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/educational-psychology/Self-reported Grades.md"
+      ],
       "title": "Validity of self-evaluation of ability: A review and meta-analysis"
     },
     "Maber, 2014": {
@@ -168702,7 +168711,9 @@
         "Murawski & Swanson, 2001"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Co-Teaching.md"
+      ],
       "title": "A Meta-Analysis of Co-Teaching Research: Where Are the Data?"
     },
     "Murdoch, 2006": {
@@ -230833,7 +230844,9 @@
         "Vembye et al., 2022"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Co-Teaching.md"
+      ],
       "title": "The Effects of Co-Teaching and Related Collaborative Models of Instruction on Student Achievement: A Systematic Review and Meta-Analysis."
     },
     "Verburgh et al., 2014": {
