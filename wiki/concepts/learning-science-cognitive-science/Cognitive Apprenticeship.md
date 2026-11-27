@@ -6,7 +6,7 @@ aliases:
 summary: "学习科学中的经典教学范式，通过示范、辅导、支架、阐明、反思与探索六大方法将专家的隐性认知与问题解决过程外显化，使新手逐步获得高阶思维能力"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 15
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,14 +21,17 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Scaffolding]]"
   - "[[Wicked Problem]]"
+  - "[[Think-Aloud]]"
   - "[[Critical Thinking]]"
   - "[[Direct Instruction]]"
   - "[[Task Structure]]"
+  - "[[Mimesis]]"
   - "[[Concept Mapping]]"
   - "[[Inquisitive Mode of Governance]]"
   - "[[Mentorship]]"
   - "[[Authentic Instruction]]"
   - "[[Variable]]"
+  - "[[Instructional Design]]"
   - "[[Blind Spot in Observation]]"
 related_theories: []
 related_methods: []
@@ -40,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-11-03
+updated: 2026-11-28
 ---
 
 ---
@@ -49,7 +52,7 @@ updated: 2026-11-03
 > 认知[[Apprenticeship|学徒制]]（Cognitive Apprenticeship）是由 Collins, Brown, & Newman (1989) 提出的学习科学经典教学模式。它将传统手工业中的“师傅带徒弟”机制迁移至抽象认知与[[Higher-Order Thinking Skills\|高阶思维]]领域（如阅读理解、数学解题、科学探究与批判性论证），通过**使思维外显化（Making Thinking Visible）**，让导师（专家）在真实情境中示范并辅导复杂的认知与[[Metacognition\|元认知]]策略，引导新手在[[Scaffolding\|脚手架]]支持下逐步掌握独立解决[[Wicked Problem|劣构问题]]的专家能力。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 287–288)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 专家不仅示范显性的操作动作，更关键是通过出声思考（Think-aloud）展示隐蔽的元认知监控、假设权衡与错误修正策略。
+> - **含义** 专家不仅示范显性的操作动作，更关键是通过[[Think-Aloud|出声思考]]（Think-aloud）展示隐蔽的元认知监控、假设权衡与错误修正策略。
 > - **用途** 用于解决抽象知识脱离实际应用情境的“惰性知识”（Inert Knowledge）难题，为高级[[Critical Thinking\|批判性思维]]教学提供操作性流程。
 > - **边界** 必须植根于真实、复杂的应用情境；脱离真实任务的机械示范与重复练习不属于认知学徒制。
 
@@ -61,7 +64,7 @@ updated: 2026-11-03
 > | **学习对象** | 抽象认知策略、批判审证与[[Metacognition\|元认知]]监控 | 物理性操作技能与工艺流程 | 事实性知识、抽象概念与标准化公式 |
 > | **思维可见度** | 高（通过导师出声思考与辩论使思维外显） | 自然可见（物理动作直接可被观察） | 较低（聚焦知识结论而非探究过程） |
 > | **情境真实性** | 真实[[Task Structure\|劣构任务]]与专业文化情境 | 真实生产作坊 | 脱离情境的课本抽象例题 |
-> | **指导机制** | 示范、辅导、支架渐退与自主探索 | 观察、模仿与纠偏 | 讲解、板书、被动练习与打分 |
+> | **指导机制** | 示范、辅导、支架渐退与自主探索 | 观察、[[Mimesis\|模仿]]与纠偏 | 讲解、板书、被动练习与打分 |
 
 ---
 
@@ -96,7 +99,7 @@ updated: 2026-11-03
 
 ---
 
-> [!critique-method] 教学设计与规模化挑战
+> [!critique-method] [[Instructional Design|教学设计]]与规模化挑战
 > - **专家盲点（Expert [[Blind Spot in Observation|Blind Spot]]）** 资深导师的许多[[Higher-Order Thinking Skills\|高阶思维]]已高度自动化，难以完全意识到自身隐性推理步骤，导致示范不够详尽。
 > - **高师生比与资源成本** 认知[[Apprenticeship|学徒制]]依赖精准的实时观察与个性化支架撤退，在大班化常规教学中面临规模化落地难度。
 

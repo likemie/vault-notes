@@ -5,31 +5,44 @@ aliases:
 summary: "Visible Learning MetaX 因素合作／协同教学的条目，归属教学策略 › 教学方法；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 13
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - metax
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Based Education]]"
+  - "[[Construct]]"
+  - "[[Inclusive Education]]"
+  - "[[Visible Learning]]"
+  - "[[Effective Factor Bundle]]"
+  - "[[Cooperative Learning]]"
+  - "[[Academic Achievement]]"
+  - "[[Peer-Supported Learning]]"
+  - "[[Lesson Design]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Christian Wolff]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Kremers_2014_CooperativeLearning]]"
 confidence: medium
 status: draft
 created: 2026-10-22
-updated: 2026-11-27
+updated: 2026-11-28
 ---
 
 > [!def] Co-Teaching
-> **协同教学（Co-Teaching，又称合作教学或团队教学 / Team-Teaching）** 指两名或多名教师在同一教学空间与时段中共同规划、组织授课并承担面向全体或特定需要学生教学责任的协作教学安排。在循证教育综合中，该构念涵盖普通课堂团队授课、理科协同授课与融合教育中面向有特殊需求学生的合作授课等多元变式；单因素元分析汇总整体学业促进效应较弱，但德语教学论与《[[Visible Learning|可见的学习]]》因子束分析指出，协同教学的价值取决于其如何与[[Peer-Supported Learning|同伴辅导]]、[[Cooperative Learning|合作学习]]等高互动教学要素组合运转。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, p. 83)]]
+> **协同教学（Co-Teaching，又称合作教学或团队教学 / Team-Teaching）** 指两名或多名教师在同一教学空间与时段中共同规划、组织授课并承担面向全体或特定需要学生教学责任的协作教学安排。在[[Evidence-Based Education|循证教育]]综合中，该[[Construct|构念]]涵盖普通课堂团队授课、理科协同授课与[[Inclusive Education|融合教育]]中面向有特殊需求学生的合作授课等多元变式；单因素[[Meta-analysis|元分析]]汇总整体学业促进效应较弱，但德语教学论与《[[Visible Learning|可见的学习]]》[[Effective Factor Bundle|因子束]]分析指出，协同教学的价值取决于其如何与同伴辅导、[[Cooperative Learning|合作学习]]等高互动教学要素组合运转。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, p. 83)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 由多位教师共享课堂空间与授课职责，协同开展讲解、分组引导与个别支持的双师或多师教学组织形态。
-> - **用途** 揭示双师配备本身并不足以自动提升学业成绩，解释为何协同教学必须嵌套进具体的同伴互动与学习支架设计中。
+> - **用途** 揭示双师配备本身并不足以自动提升[[Academic Achievement|学业成绩]]，解释为何协同教学必须嵌套进具体的同伴互动与学习支架设计中。
 > - **边界** 协同教学关注课堂内的实时多师协作授课，不同于课外教研备课分工或仅配备行政观察员；其单独效应在常规科目与特殊需求融合课堂之间存在显著差异。
 
 ---
@@ -38,19 +51,19 @@ updated: 2026-11-27
 > **因子束协同增效与交互机制** 教育干预各要素的效应无法脱离整体教学安排进行简单的算术相加，弱单项与强互动因子结合可产生彼此放大的协同效果。
 
 > [!claim] Beywl, W. & Zierer, K.; Kremers, T.
-> **强效因子束对单因素弱效应的放大机理** 沃尔夫冈·贝夫尔与克劳斯·齐勒（Wolfgang Beywl & Klaus Zierer; Hattie, 2013, p. IX）及托马斯·克雷默斯（Thomas Kremers）警告，脱离课堂生态孤立地对照单个因素的[[Effect Size|效应量]]榜易误判其真实教学潜力。以协同教学为例，单独考察教师双师同堂时的平均学业增益相对微弱；然而当教师把协同教学与高度激活生生互动的[[Peer-Supported Learning|同伴辅导]]（Peer-Tutoring）有机构成一个“强效因子束（wirkstarkes Faktorenbündel）”时，两种做法之间的功能互补会引发一方或双方的协同放大，产出超越各单项效应机械相加的教学效能。Kremers 强调，真正有价值的因子束要求所组合因素的特质本身成为该教学方案的内在构成要件，而非任意拼凑。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, p. 83)]]
+> **强效因子束对单因素弱效应的放大机理** [[Christian Wolff|沃尔夫]]冈·贝夫尔与克劳斯·齐勒（Wolfgang Beywl & Klaus Zierer; Hattie, 2013, p. IX）及托马斯·克雷默斯（Thomas Kremers）警告，脱离课堂生态孤立地对照单个因素的[[Effect Size|效应量]]榜易误判其真实教学潜力。以协同教学为例，单独考察教师双师同堂时的平均学业增益相对微弱；然而当教师把协同教学与高度激活生生互动的同伴辅导（Peer-Tutoring）有机构成一个“强效因子束（wirkstarkes Faktorenbündel）”时，两种做法之间的功能互补会引发一方或双方的协同放大，产出超越各单项效应机械相加的教学效能。Kremers 强调，真正有价值的因子束要求所组合因素的特质本身成为该教学方案的内在构成要件，而非任意拼凑。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, p. 83)]]
 
 ---
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **因子束协同增效** | 协同教学单独实施增益有限，唯有与[[Peer-Supported Learning\|同伴辅导]]等高互动因子内在整合成因子束方可相互放大 | 双师课堂设计、合作学习配置与元分析解释 | Beywl and Zierer (2013); [[Argument_Kremers_2014_CooperativeLearning\|Kremers (2014)]] |
+> | **因子束协同增效** | 协同教学单独实施增益有限，唯有与[[Peer-Supported Learning\|同伴辅导]]等高互动因子内在整合成因子束方可相互放大 | 双师[[Lesson Design\|课堂设计]]、合作学习配置与元分析解释 | Beywl and Zierer (2013); [[Argument_Kremers_2014_CooperativeLearning\|Kremers (2014)]] |
 
 ---
 
 > [!case] 协同教学 × 同伴辅导因子束的课堂组合路径
-> 在《[[Visible Learning|可见的学习]]》德译本导言中，Beywl and Zierer（Hattie, 2013, p. IX）专文以协同教学说明因子束原理：单独采用团队教学（Team-Teaching）的效应量仅为 $d = 0.19$，而高效实施[[Peer-Supported Learning|同伴辅导]]的效应量为 $d = 0.55$；一旦在双师协同课堂中由两名教师分工巡回指导结构化生生同伴辅导与小组反思，协同教学得以释放对等互动潜能，使组合效能超越单一数值累加（[[Argument_Kremers_2014_CooperativeLearning|Kremers, 2014, p. 83]]）。
+> 在《[[Visible Learning|可见的学习]]》德译本导言中，Beywl and Zierer（Hattie, 2013, p. IX）专文以协同教学说明因子束原理：单独采用团队教学（Team-Teaching）的效应量仅为 $d = 0.19$，而高效实施同伴辅导的效应量为 $d = 0.55$；一旦在双师协同课堂中由两名教师分工巡回指导结构化生生同伴辅导与小组反思，协同教学得以释放对等互动潜能，使组合效能超越单一数值累加（[[Argument_Kremers_2014_CooperativeLearning|Kremers, 2014, p. 83]]）。
 
 ---
 

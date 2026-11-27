@@ -10,10 +10,10 @@ aliases:
 summary: "包含显式概念节点、指示连线、命题连接词与跨分支横向交叉连接，用于结构化表征复杂领域知识与语义命题关系的高阶认知建模与评价工具。在有意义学习与科学教育中，它为深层知识整合提供严密语法，既是促学支架亦是诊断认知结构的评价工具。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 39
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - theme/instruction
   - construct/cognitive-process
@@ -30,14 +30,20 @@ related_concepts:
   - "[[Divergent Thinking]]"
   - "[[Critical Thinking]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Cognitive Activation]]"
+  - "[[Externalization]]"
+  - "[[Working Memory]]"
   - "[[Rote Learning]]"
   - "[[Variable]]"
   - "[[Evaluative Validity]]"
-  - "[[Reliability]]"
   - "[[Causality]]"
+  - "[[Cooperative Learning]]"
   - "[[Graphic Organizer]]"
+  - "[[Metacognition]]"
+  - "[[Champ]]"
+  - "[[Surface and Deep Learning]]"
+  - "[[Effective Factor Bundle]]"
   - "[[Alienation]]"
-  - "[[Working Memory]]"
   - "[[Heterogeneity]]"
   - "[[Visible Learning]]"
   - "[[Scaffolding]]"
@@ -48,16 +54,21 @@ related_theories:
   - "[[Cognitive Load Theory]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Meta-meta-analysis]]"
   - "[[Multiple-Choice Questions]]"
   - "[[Prediction Interval]]"
-  - "[[Meta-meta-analysis]]"
   - "[[Effect Size]]"
 related_arguments:
   - "[[Argument_Lei_Ding_Chiu_2026_ERR]]"
+  - "[[Argument_Koller_2014_WhatWorks]]"
+  - "[[Argument_Kremers_2014_CooperativeLearning]]"
+related_persons:
+  - "[[Olaf Köller]]"
+  - "[[John Hattie]]"
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-11-27
+updated: 2026-11-28
 ---
 
 > [!def] Concept Mapping
@@ -123,8 +134,8 @@ updated: 2026-11-27
 > [!concept-proposition] 命题一｜概念图对[[Higher-Order Thinking Skills|高阶思维]]具有稳健促进作用但受网状结构认知负荷制约
 > **表征复杂度与视觉负荷的权衡** 交叉网状拓扑要求学习者在维护全局概念关系的同时标明局部命题语法，容易引发视觉拥挤并降低即时高阶加工的净效能。
 
-> [!claim] Köller, O.
-> **可视化图式构建对学业后进生的认知减负效应** 奥拉夫·克勒（Olaf Köller）在评述二阶元分析时指出，概念图作为极具促学成效的认知激活策略，对学业基础相对薄弱的后进学生具有尤为突出的扶助价值。通过引导学生自主将复杂的抽象文本转化为简化、具象的可视化概念层级图式，实质上帮助学生外化并结构化了认知信息，有效减轻了工作记忆的超额加工负荷，使弱势学生得以跨越长文本阅读与高阶概念理解的认知屏障。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, p. 34)]]
+> [!claim] [[Olaf Köller|Köller, O.]]
+> **可视化图式构建对学业后进生的认知减负效应** 奥拉夫·克勒（Olaf Köller）在评述[[Meta-meta-analysis|二阶元分析]]时指出，概念图作为极具促学成效的[[Cognitive Activation|认知激活]]策略，对学业基础相对薄弱的后进学生具有尤为突出的扶助价值。通过引导学生自主将复杂的抽象文本转化为简化、具象的可视化概念层级图式，实质上帮助学生[[Externalization|外化]]并结构化了认知信息，有效减轻了[[Working Memory|工作记忆]]的超额加工负荷，使弱势学生得以跨越长文本阅读与高阶概念理解的认知屏障。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, p. 34)]]
 
 > [!claim] Novak, J. D.; Nesbit, J. C. & Adesope, O. O.; Lei, S. et al.
 > **概念图效能与认知负荷权衡** 在[[Meta-analysis\|元分析]]比较中，概念图对学生[[Higher-Order Thinking Skills\|高阶思维]]展现出中等稳健的促进作用，同时因其多中心网络拓扑与严格命题连接词规范而伴生高于思维导图和论证图的外在认知负荷；学习者在绘制与阅读过程中需投入更多心智资源维持视觉注意与语法对齐，从而在一定程度上抵消了即时发散创新的净增益。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 4, 9–12)]]
@@ -143,7 +154,7 @@ updated: 2026-11-27
 > **评价功能（Outcome / Assessment [[Variable]]）与内隐模型显性化** [[Multiple-Choice Questions\|选择题]]和问答题常被机械记忆技巧蒙蔽；概念图通过命题连接词将学生的真实错误认知暴露无遗。
 
 > [!claim] Barta, A. et al.; Nesbit, J. C. & Adesope, O. O.; Schau, C. et al.
-> **形成性诊断评价效度** 当概念图作为评价工具使用时，让学生自主构建概念网络并依据命题有效性量规评分，能够以较高信效度检出核心[[Causality\|因果关系]]上的概念迷思（Misconceptions）。部分在客观测试中依靠公式套用取得高分的学生，在用命题连接词阐明因果关系时常暴露出理解断裂或逻辑倒错。Nesbit and Adesope (2006); Barta et al. (2022)
+> **形成性诊断[[Evaluative Validity|评价效度]]** 当概念图作为评价工具使用时，让学生自主构建概念网络并依据命题有效性量规评分，能够以较高信效度检出核心[[Causality\|因果关系]]上的概念迷思（Misconceptions）。部分在客观测试中依靠公式套用取得高分的学生，在用命题连接词阐明因果关系时常暴露出理解断裂或逻辑倒错。Nesbit and Adesope (2006); Barta et al. (2022)
 
 ---
 
@@ -155,11 +166,11 @@ updated: 2026-11-27
 
 ---
 
-> [!concept-proposition] 命题五｜合作学习中的个人概念图建构依托独学打底衔接同伴交流实现表深层平衡
-> **图形组织器在社会互动阶段中的分工定位** 德语合作教学论将概念图定位为个人认知结构化的高阶图形组织器，并与双人配对、小组研讨及元认知策略衔接。
+> [!concept-proposition] 命题五｜[[Cooperative Learning|合作学习]]中的个人概念图建构依托独学打底衔接同伴交流实现表深层平衡
+> **[[Graphic Organizer|图形组织器]]在社会互动阶段中的分工定位** 德语合作教学论将概念图定位为个人认知结构化的高阶图形组织器，并与双人配对、小组研讨及[[Metacognition|元认知]]策略衔接。
 
 > [!claim] Kremers, T.
-> **合作场域中个性表征与阶段平衡功能** 托马斯·克雷默斯（Thomas Kremers）指出，[[Graphic Organizer|图形组织器]]在[[Cooperative Learning|合作学习]]中占据核心地位，其中概念图较思维导图结构更复杂，能够让学习者以高度个性化的网络形式组织个人观点。援引哈蒂（Hattie, 2013, p. 34）关于[[Surface and Deep Learning|表层学习与深层学习]]平衡的论述，合作课堂先在独学阶段借助思维导图与概念图等工具整理基础事实信息，随后在配对与小组交流中借助[[Metacognition|元认知]]策略深化关联理解。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, pp. 85–86)]]
+> **合作[[Champ|场域]]中个性表征与阶段平衡功能** 托马斯·克雷默斯（Thomas Kremers）指出，[[Graphic Organizer|图形组织器]]在[[Cooperative Learning|合作学习]]中占据核心地位，其中概念图较思维导图结构更复杂，能够让学习者以高度个性化的网络形式组织个人观点。援引[[John Hattie|哈蒂]]（Hattie, 2013, p. 34）关于[[Surface and Deep Learning|表层学习与深层学习]]平衡的论述，合作课堂先在独学阶段借助思维导图与概念图等工具整理基础事实信息，随后在配对与小组交流中借助[[Metacognition|元认知]]策略深化关联理解。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, pp. 85–86)]]
 
 ---
 
@@ -179,7 +190,7 @@ updated: 2026-11-27
 > - **1984 年 — 确立命题语法与交叉连接评估体系** Novak & Gowin 出版专著《Learning How to Learn》，正式确立包含层级、命题、交叉连接与实例的标准四维评分规程。
 > - **2000 年代 — CmapTools 数字化建模平台普及** 佛罗里达人机认知研究所（IHMC）开发 CmapTools 软件，推动概念图在全球科学教育、医学培训与企业知识管理中大规模落地。
 > - **2006 年 — 系统性[[Meta-analysis\|元分析]]确立促学效应基准** Nesbit and Adesope (2006) 发表包含 55 项实证的元分析，确立概念图对知识保持与知识迁移的稳健促学效应。
-> - **2014 年 — 德语教学论与合作学习机制整合** [[Argument_Koller_2014_WhatWorks|Köller (2014, p. 34)]] 阐明概念图对学业薄弱生的工作记忆减负机制；[[Argument_Kremers_2014_CooperativeLearning|Kremers (2014, pp. 85–86)]] 则将其列入合作学习特征因子束，说明个性化概念图如何服务独学打底向小组深层理解的过渡。
+> - **2014 年 — 德语教学论与合作学习机制整合** [[Argument_Koller_2014_WhatWorks|Köller (2014, p. 34)]] 阐明概念图对学业薄弱生的工作记忆减负机制；[[Argument_Kremers_2014_CooperativeLearning|Kremers (2014, pp. 85–86)]] 则将其列入合作学习特征[[Effective Factor Bundle|因子束]]，说明个性化概念图如何服务独学打底向小组深层理解的过渡。
 > - **2020 年代 — [[Graphic Organizer\|图形组织器]]多维元分析与结构开销梯度** [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 实证确立概念图在[[Higher-Order Thinking Skills\|高阶思维]]干预中的稳健效能（$g = 0.548$），并清晰量化了其与[[Mind Mapping\|思维导图]]、[[Argument Mapping\|论证图]]的结构复杂度梯度。
 
 ---

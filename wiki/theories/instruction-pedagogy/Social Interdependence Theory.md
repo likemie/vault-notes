@@ -7,10 +7,10 @@ aliases:
 summary: "由 Kurt Lewin 开创、Morton Deutsch 提出核心命题并由 David 与 Roger Johnson 系统化发展的社会心理学与教学理论。该理论主张个体的目标实现结构决定其互动模式：积极互赖激发促进性互动，消极互赖激发阻碍性互动，无互赖导致个体孤立，由此构成合作学习的核心机制解释。"
 type: theory
 theory_field: "instruction-pedagogy"
-theory_related_count: 28
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 30
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 domain: "instruction-pedagogy"
 tags:
   - "theory/social-psychology"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Self-Efficacy]]"
   - "[[Operationalization]]"
   - "[[Cooperative, Competitive and Individualistic Learning]]"
+  - "[[Effective Factor Bundle]]"
   - "[[Visible Learning]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Instructional Design]]"
@@ -48,6 +49,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Kurt Lewin]]"
+  - "[[David W. Johnson]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Gungor_2026_CP]]"
@@ -64,7 +66,7 @@ updated: 2026-11-28
 > - **解释对象** 群体内部个体目标结构（积极互赖、消极互赖、无互赖）如何塑造人际互动过程，并进而决定群体的[[Academic Achievement\|学业成就]]、人际关系与心理健康产出。
 > - **理论问题** 回应课堂教学中传统个体竞争模式引发的学困生边缘化、学优生垄断与同伴[[Alienation|疏离]]难题，为[[Constructivist Paradigm\|建构主义]]与同伴合作提供微观社会动力学解释。
 > - **理论类型** 中层社会心理学与教育教学机制模型。
-> - **知识位置** 植根于格式塔心理学与群体动力学传统（[[Kurt Lewin]]），经 Morton Deutsch 提出合作与竞争理论，由 David Johnson & Roger Johnson 系统化为现代[[Cooperative Learning\|合作学习]]的理论基石。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 2)]]
+> - **知识位置** 植根于格式塔心理学与群体动力学传统（[[Kurt Lewin]]），经 Morton Deutsch 提出合作与竞争理论，由 [[David W. Johnson|David Johnson]] & Roger Johnson 系统化为现代[[Cooperative Learning\|合作学习]]的理论基石。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 2)]]
 
 > [!claim] 核心判断
 > 社会互赖理论主张：社会情境中的**目标结构决定了个体间的互动方式**，而互动方式直接决定了活动的结果。当个体感知到共同目标（积极互赖 / 合作）时，会产生相互鼓励、资源共享与深层解释等“促进性互动”，促进学业成就、积极社会关系与[[Self-Efficacy\|自我效能感]]提升；消极互赖（竞争）引发防守与阻碍性互动，无互赖（个别化）则导致孤立行动。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 2)]]
@@ -72,7 +74,7 @@ updated: 2026-11-28
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 莫顿·多伊奇（Morton Deutsch）于 1949 年提出合作与竞争的社会互赖理论原型；戴维·约翰逊（David W. Johnson）与罗杰·约翰逊（Roger T. Johnson）则自 20 世纪 90 年代起（1994, 2005, 2009）将其[[Operationalization|操作化]]为课堂合作学习的系统理论。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, p. 2)]]
+> - **提出者与原始文本** 莫顿·多伊奇（Morton Deutsch）于 1949 年提出合作与竞争的社会互赖理论原型；[[David W. Johnson|戴维·约翰逊]]（David W. Johnson）与罗杰·约翰逊（Roger T. Johnson）则自 20 世纪 90 年代起（1994, 2005, 2009）将其[[Operationalization|操作化]]为课堂合作学习的系统理论。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, p. 2)]]
 > - **理论资源与材料** 承继[[Kurt Lewin|库尔特·勒温]]（Kurt Lewin）的格式塔群体动力学，将“群体共同紧张状态与成员动力互赖”转化为目标互赖实验与课堂比较[[Meta-analysis|元分析]]。
 > - **形成路径** 从分辨积极互赖、消极互赖与无互赖三类互动机制出发，提炼出“五大基本心理基石”（积极互赖、个体责任、促进性面对面互动、社交技能与过程反思），将社会心理学原理转换为课堂可设计的合作、竞争与个人学习结构。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, pp. 79–81)]]
 
@@ -80,7 +82,7 @@ updated: 2026-11-28
 > - **1930s–1940s — 格式塔心理学与 Lewin 动力场理论** [[Kurt Lewin]] 提出群体是成员互赖的动力整体，群体紧张状态决定个体的动机与行为。
 > - **1949 — Morton Deutsch 合作与竞争理论** Deutsch 正式提出社会互赖理论原型，区分积极互赖（可替代性、吸引力、诱导性）与消极互赖的心理效应。
 > - **1970s–2005 — Johnson 兄弟教育学操作化** David Johnson 与 Roger Johnson（及 Edythe Johnson Holubec）将理论系统化为“[[Cooperative, Competitive and Individualistic Learning|合作、竞争与个体式学习]]”三类合法目标结构以及“五大基本要素”（积极互赖、个体责任、社交技能、过程反思、面对面互动），并开展多组对比元分析。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, pp. 79–82)]]
-> - **2014–2026 — 德语区因子束重读与[[Meta-meta-analysis|二阶元分析]]检验** [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014)]] 结合《[[Visible Learning|可见的学习]]》证实基于社会互赖理论的合作学习在学业成就上优于个体与竞争学习，并揭示需经“独学—配对—小组”阶梯练兵落实五大要素；[[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 通过二阶[[Meta-analysis\|元分析]]在多学科与[[Higher-Order Thinking Skills|高阶思维]]维度确证促进性互动机制的稳健效力。
+> - **2014–2026 — 德语区[[Effective Factor Bundle|因子束]]重读与[[Meta-meta-analysis|二阶元分析]]检验** [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014)]] 结合《[[Visible Learning|可见的学习]]》证实基于社会互赖理论的合作学习在学业成就上优于个体与竞争学习，并揭示需经“独学—配对—小组”阶梯练兵落实五大要素；[[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 通过二阶[[Meta-analysis\|元分析]]在多学科与[[Higher-Order Thinking Skills|高阶思维]]维度确证促进性互动机制的稳健效力。
 
 ---
 

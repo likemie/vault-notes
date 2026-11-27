@@ -11,7 +11,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -41,6 +41,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Gita Steiner-Khamsi]]"
+  - "[[David W. Johnson]]"
   - "[[Verna Masemann]]"
   - "[[Frances Vavrus]]"
   - "[[Lesley Bartlett]]"
@@ -53,13 +54,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-20
-updated: 2026-11-25
+updated: 2026-11-28
 ---
 
 ---
 
 > [!claim] 核心定性
-> 《相对而言：[[Comparative and International Education Society|比较与国际教育学会]]的前五十年》（*Comparatively Speaking: The First 50 Years of the Comparative and [[International Education]] Society*）是由哥伦比亚大学学者吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）与戴维·约翰逊（David Johnson）于 2006 年联合制作的历史纪录片。该项目作为 CIES 成立五十周年纪念的学术口述史工程，系统访谈了数十位学会前会长、资深先驱学者与实务专家，以一手视听档案客观记录了半个世纪以来比较教育与国际教育的建制分化、理论与实践的断裂以及方法论争端的深层[[Epistemology|认识论]]演变。[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, p. 95)]]
+> 《相对而言：[[Comparative and International Education Society|比较与国际教育学会]]的前五十年》（*Comparatively Speaking: The First 50 Years of the Comparative and [[International Education]] Society*）是由哥伦比亚大学学者吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）与[[David W. Johnson|戴维·约翰逊]]（David Johnson）于 2006 年联合制作的历史纪录片。该项目作为 CIES 成立五十周年纪念的学术口述史工程，系统访谈了数十位学会前会长、资深先驱学者与实务专家，以一手视听档案客观记录了半个世纪以来比较教育与国际教育的建制分化、理论与实践的断裂以及方法论争端的深层[[Epistemology|认识论]]演变。[[Argument_Vavrus_2006_CICE|(Vavrus & Bartlett, 2006, p. 95)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 2006 年完成制作并于美国夏威夷檀香山举办的 CIES 第五十届学术年会期间首映。

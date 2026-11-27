@@ -10,10 +10,10 @@ aliases:
 summary: "约翰·哈蒂在《可见的学习》中提出的有效教师行为构念，特指主动主导教学进程、设定高挑战目标、高频提供形成性反馈并透视学生认知进程的教师行为模式；与被动退隐的促进型教师相对立，其实证干预平均效应量达 d=0.60。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 17
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 41
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - teacher-as-activator
   - visible-learning
@@ -22,40 +22,64 @@ tags:
   - instructional-leadership
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Effective Teaching]]"
+  - "[[Construct]]"
+  - "[[Scaffolding]]"
   - "[[Direct Instruction]]"
-  - "[[Feedback]]"
+  - "[[Constructivist Paradigm]]"
   - "[[Reciprocal Teaching]]"
   - "[[Mastery Learning]]"
-  - "[[Teacher Clarity]]"
-  - "[[Constructivist Instruction]]"
-  - "[[Learning Intentions]]"
+  - "[[Metacognition]]"
+  - "[[Inquiry-Based Learning]]"
   - "[[Success Criteria]]"
+  - "[[Learning Strategies]]"
+  - "[[Think-Aloud]]"
+  - "[[Formative Assessment]]"
+  - "[[Student-Teacher Relationship]]"
+  - "[[Individualised Instruction]]"
+  - "[[Epistemology]]"
+  - "[[Paradigm]]"
+  - "[[International Education]]"
+  - "[[Cooperative Learning]]"
+  - "[[Lecturing]]"
+  - "[[Placemat]]"
+  - "[[Instructional Design]]"
+  - "[[Discourse]]"
+  - "[[Progressive Education]]"
+  - "[[Feedback]]"
+  - "[[Think-Pair-Share]]"
+  - "[[Constructivist Instruction]]"
+  - "[[Document]]"
 related_theories:
+  - "[[Radical Constructivism]]"
+  - "[[Creative Problem Solving]]"
   - "[[Process-Product Paradigm]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Classroom Observation]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Ewald Terhart]]"
 related_arguments:
   - "[[Argument_Terhart_2014_HolyGrail]]"
-  - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Hattie_2005_ACER]]"
+  - "[[Argument_Kremers_2014_CooperativeLearning]]"
+  - "[[Argument_Terhart_2011_JCS]]"
 confidence: high
 status: active
 created: 2026-11-24
-updated: 2026-11-26
+updated: 2026-11-28
 ---
 
 ---
 
 > [!def] Teacher as Activator
-> 激活型教师（Teacher as Activator）是新西兰教育学者约翰·哈蒂（John Hattie）在《可见的学习》中建构的有效教学行为模型。该构念特指主动设计教学支架、确立显性挑战目标、高频提供认知反馈并实时监控学生学习进程的教师形态。哈蒂通过汇总大规模元分析证实，激活型教师所主导的干预策略平均效应量达到 $d=0.60$，显著超越持放任退隐立场的促进型教师（Teacher as Facilitator, 平均 $d=0.17$）。[[Argument_Terhart_2014_HolyGrail|(Terhart, 2014, pp. 18–20)]]
+> 激活型教师（Teacher as Activator）是新西兰教育学者[[John Hattie|约翰·哈蒂]]（John Hattie）在《[[Visible Learning|可见的学习]]》中建构的[[Effective Teaching|有效教学]]行为模型。该[[Construct|构念]]特指主动设计[[Scaffolding|教学支架]]、确立显性挑战目标、高频提供认知反馈并实时监控学生学习进程的教师形态。哈蒂通过汇总大规模[[Meta-analysis|元分析]]证实，激活型教师所主导的干预策略平均[[Effect Size|效应量]]达到 $d=0.60$，显著超越持放任退隐立场的促进型教师（Teacher as Facilitator, 平均 $d=0.17$）。[[Argument_Terhart_2014_HolyGrail|(Terhart, 2014, pp. 18–20)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向教师在课堂教学中承担主动发起者、认知挑战者与效果评估者的结构化干预角色。
-> - **用途** 帮助研究者透视直接教学与探究教学的实证成效差异，纠正建构主义对教师主导角色的边缘化偏向。
+> - **用途** 帮助研究者透视[[Direct Instruction|直接教学]]与探究教学的实证成效差异，纠正[[Constructivist Paradigm|建构主义]]对教师主导角色的边缘化偏向。
 > - **边界** 聚焦微观课堂教学行为的效能差异，不代表传统威权式单向灌输，亦不否定学生自主建构认知的必要性。
 
 > [!citation-card|notitle] 关键表述
@@ -66,7 +90,7 @@ updated: 2026-11-26
 > [!boundary]- 概念边界
 > - 不等于 专断威权灌输（Authoritarian Transmission） — 专断灌输以教师单向输出和机械服从为特征，激活型教师则强调基于学生已有认知起点提供高频双向反馈，教师始终将学生的学习进程置于注视中心（[[Argument_Terhart_2014_HolyGrail|Terhart, 2014, p. 23]]）。
 > - 不等于 旁观型学习陪伴者（Passive Facilitator） — 促进型或陪伴型角色主张教师退居幕后、仅提供开放式环境让学生自主摸索，其实证成效平均仅为 $d=0.17$；激活型教师则强调教师的主动介入与认知干预。
-> - 不等于 单一教学方法（Single Teaching Method） — 激活型教师属于整合多类高影响教学策略的角色模型，涵盖交互式教学、掌握学习、显性指导与元认知策略训练等多元方法族群。
+> - 不等于 单一教学方法（Single Teaching Method） — 激活型教师属于整合多类高影响教学策略的角色模型，涵盖[[Reciprocal Teaching|交互式教学]]、[[Mastery Learning|掌握学习]]、显性指导与[[Metacognition|元认知]]策略训练等多元方法族群。
 
 ---
 
@@ -75,33 +99,33 @@ updated: 2026-11-26
 > |:---|:---|:---|
 > | **教学立场** | 教师主动主导课堂目标、进程与认知支架 | 教师退隐为学习环境的设计者与旁观辅导者 |
 > | **认知假设** | 学习是建构过程，需要显性指导与外部示范引导 | 学习是自然展开过程，学生通过自主探究建构意义 |
-> | **代表策略** | 相互教学（0.74）、反馈（0.73）、直接教学（0.59） | 纯模拟（0.33）、探究学习（0.31）、问题导向学习（0.15） |
+> | **代表策略** | 相互教学（0.74）、反馈（0.73）、直接教学（0.59） | 纯模拟（0.33）、[[Inquiry-Based Learning\|探究学习]]（0.31）、问题导向学习（0.15） |
 > | **综合效应** | 策略平均效应量高达 $d = 0.60$（强有效区） | 策略平均效应量仅为 $d = 0.17$（低发展区） |
 > | **德译争议** | 德译为挑战者（Herausforderer），突出认知激发 | 德译为促进者（Förderer），弱化了其在英语中的浪漫化色彩 |
 
 ---
 
 > [!feature] 核心要素
-> - **高阶挑战目标的显性确立** 教师主动设定跨越现有舒适区的认知目标，清晰界定成功标准，确保学生清楚预期达成的认知进阶（[[Argument_Hattie_2005_ACER|Hattie, 2005, p. 14]]）。
-> - **形成性反馈回路的即时建立** 教师将课堂观察视为对自身教学有效性的持续检验，依据学生理解落差高频提供任务级与过程级矫正线索（[[Argument_Terhart_2014_HolyGrail|Terhart, 2014, p. 16]]）。
-> - **认知策略的显性示范与交互对话** 借助相互教学（Reciprocal Teaching）与出声思考，将抽象解题思路转化为可见的操作步骤，随后逐步让渡控制权（[[Argument_Terhart_2014_HolyGrail|Terhart, 2014, p. 19]]）。
-> - **掌握学习标准的刚性保障** 结合形成性评估单元确保多数学生达成基准标准，及时对出现理解断层的群体开展针对性微格干预（[[Argument_Hattie_2005_ACER|Hattie, 2005, p. 15]]）。
+> - **高阶挑战目标的显性确立** 教师主动设定跨越现有舒适区的认知目标，清晰界定[[Success Criteria|成功标准]]，确保学生清楚预期达成的认知进阶（[[Argument_Hattie_2005_ACER|Hattie, 2005, p. 14]]）。
+> - **形成性反馈回路的即时建立** 教师将[[Classroom Observation|课堂观察]]视为对自身教学有效性的持续检验，依据学生理解落差高频提供任务级与过程级矫正线索（[[Argument_Terhart_2014_HolyGrail|Terhart, 2014, p. 16]]）。
+> - **[[Learning Strategies|认知策略]]的显性示范与交互对话** 借助相互教学（Reciprocal Teaching）与[[Think-Aloud|出声思考]]，将抽象解题思路转化为可见的操作步骤，随后逐步让渡控制权（[[Argument_Terhart_2014_HolyGrail|Terhart, 2014, p. 19]]）。
+> - **掌握学习标准的刚性保障** 结合[[Formative Assessment|形成性评估]]单元确保多数学生达成基准标准，及时对出现理解断层的群体开展针对性微格干预（[[Argument_Hattie_2005_ACER|Hattie, 2005, p. 15]]）。
 
 ---
 
 > [!concept-proposition] 命题一｜主动干预型教师的教学成效系统性优于放任式自主探究策略
 > **实证效应量断层** 大规模元分析综合表明，依赖教师显性架构的高结构化干预策略，其促进学生学业增值的效果远超学生自发探索。
 
-> [!claim] Hattie, J. & Terhart, E.
-> **干预层级对学业产出的决定性影响** 在哈蒂汇总的影响因素中，排名前列的教学策略均具有清晰的教师主导与高频互动特征。[[Reciprocal Teaching|相互教学]]、[[Feedback|反馈]]、[[Student-Teacher Relationship|师生关系]]、[[Metacognition|元认知策略]]与[[Direct Instruction|直接教学]]等激活型策略整体处于高成效区间；而探究式学习、[[Individualised Instruction|个别化教学]]与[[Problem-Based Learning|问题式学习]]均未能跨越相对有效性期望门槛。这表明缺乏教师主动介入的自主摸索容易导致认知负荷过载与学习效率低下。[[Argument_Terhart_2014_HolyGrail|(Terhart, 2014, pp. 19–20)]]
+> [!claim] Hattie, J. & [[Ewald Terhart|Terhart, E.]]
+> **干预层级对学业产出的决定性影响** 在哈蒂汇总的影响因素中，排名前列的教学策略均具有清晰的教师主导与高频互动特征。相互教学、反馈、[[Student-Teacher Relationship|师生关系]]、元认知策略与[[Direct Instruction|直接教学]]等激活型策略整体处于高成效区间；而探究式学习、[[Individualised Instruction|个别化教学]]与问题式学习均未能跨越相对有效性期望门槛。这表明缺乏教师主动介入的自主摸索容易导致认知负荷过载与学习效率低下。[[Argument_Terhart_2014_HolyGrail|(Terhart, 2014, pp. 19–20)]]
 
 ---
 
 > [!concept-proposition] 命题二｜认知建构的发生需要高强度教学干预而非教师权威退场
-> **认知理论与教学法的范畴厘清** 澄清建构主义属于说明人类如何理解世界的认识论范式，不可直接推导为降低教学干预密度的行动指南。
+> **认知理论与教学法的范畴厘清** 澄清建构主义属于说明人类如何理解世界的[[Epistemology|认识论]][[Paradigm|范式]]，不可直接推导为降低教学干预密度的行动指南。
 
 > [!claim] Terhart, E.
-> **建构主义认识论与直接教学的内在兼容** 针对国际教育界借建构主义之名推行教师边缘化与课堂放任的思潮，特哈特引述哈蒂论断指出，学习在心智本质上确实是主动建构的，然而这种内在建构恰恰需要结构严整的外在讲授、概念支架与即时反馈作为催化条件。将建构主义误读为教师退隐的放任教学，混淆了心理学习机制与学校教学工程的逻辑界限。[[Argument_Terhart_2014_HolyGrail|(Terhart, 2014, p. 20)]]
+> **建构主义认识论与直接教学的内在兼容** 针对[[International Education|国际教育]]界借建构主义之名推行教师边缘化与课堂放任的思潮，特哈特引述哈蒂论断指出，学习在心智本质上确实是主动建构的，然而这种内在建构恰恰需要结构严整的外在讲授、概念支架与即时反馈作为催化条件。将建构主义误读为教师退隐的放任教学，混淆了心理学习机制与学校教学工程的逻辑界限。[[Argument_Terhart_2014_HolyGrail|(Terhart, 2014, p. 20)]]
 
 ---
 
@@ -109,14 +133,14 @@ updated: 2026-11-26
 > **双轨课堂实践与拒绝独白讲授复辟** 阐明激活型教师在合作课堂中的结构职责，以及哈蒂肯定激活者角色为何指向嵌入激活元素的现代讲授，而非回到老式满堂灌。
 
 > [!claim] Kremers, T.
-> **时限结构引领与合作—讲授双轨激活路径** 托马斯·克雷默斯（Thomas Kremers）指出，教师作为激活者决定学习成效的关键在于能否以结构化、有纪律意识、紧扣学科的方式高效利用学习时间。在[[Cooperative Learning|合作学习]]中，激活型教师需搭建清晰的工作和学习结构、传授社交沟通与学科能力、维护积极的[[Student-Teacher Relationship|师生关系]]，并设定紧凑而切合实际的时间限制；反之，仅停留于表面方法操练而剥离心理学原则则会拉低教学成效。他同时援引斯皮瓦克（Spiewak, 2013, p. 4）说明，肯定激活型教师旨在区别于传统演讲式讲授名师（Studienrat）的单向课堂，要求在讲授教学（Frontalunterricht）中融入[[Think-Pair-Share|思考—配对—分享]]与[[Placemat|餐垫法]]等激活微策略，实现复杂合作学习与激活型讲授双轨并进。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, pp. 87–88)]]
+> **时限结构引领与合作—讲授双轨激活路径** 托马斯·克雷默斯（Thomas Kremers）指出，教师作为激活者决定学习成效的关键在于能否以结构化、有纪律意识、紧扣学科的方式高效利用学习时间。在[[Cooperative Learning|合作学习]]中，激活型教师需搭建清晰的工作和学习结构、传授社交沟通与学科能力、维护积极的[[Student-Teacher Relationship|师生关系]]，并设定紧凑而切合实际的时间限制；反之，仅停留于表面方法操练而剥离心理学原则则会拉低教学成效。他同时援引斯皮瓦克（Spiewak, 2013, p. 4）说明，肯定激活型教师旨在区别于传统演讲式讲授名师（Studienrat）的单向课堂，要求在讲授教学（Frontalunterricht）中融入思考—配对—分享与[[Placemat|餐垫法]]等激活微策略，实现复杂合作学习与激活型讲授双轨并进。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, pp. 87–88)]]
 
 ---
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **干预层级成效优势** | 显性示范、反馈与清晰引领等激活策略在整体学业成效上系统性超越放任式促进 | 课堂教学设计、循证策略选型 | [[John Hattie\|Hattie]]; [[Argument_Terhart_2014_HolyGrail\|Terhart (2014)]] |
+> | **干预层级成效优势** | 显性示范、反馈与清晰引领等激活策略在整体学业成效上系统性超越放任式促进 | 课堂[[Instructional Design\|教学设计]]、循证策略选型 | [[John Hattie\|Hattie]]; [[Argument_Terhart_2014_HolyGrail\|Terhart (2014)]] |
 > | **认知建构与直接指导兼容** | 心智主动建构同样依赖外部清晰支架、反馈与有序讲授催化 | 教学论范式辨析、反对放任教学 | [[Argument_Terhart_2014_HolyGrail\|Terhart (2014)]] |
 > | **时间结构与双轨微策略整合** | 激活者通过紧凑时限、关系维护与嵌入合作微策略兼顾合作结构与启发式讲授 | 合作学习课堂、讲授课堂激活改造 | [[Argument_Kremers_2014_CooperativeLearning\|Kremers (2014)]]; Spiewak (2013) |
 
@@ -124,7 +148,7 @@ updated: 2026-11-26
 
 > [!dev-timeline] 概念演变
 > - **2009 — 概念确立与效应量分化** 哈蒂在《可见的学习》首版中正式提出 Activator 与 Facilitator 的对立二分模型，通过元分析数据确立激活型教师的量化优势。
-> - **2011–2014 — 德语世界引介与话语商榷** 埃瓦尔德·特哈特（Ewald Terhart）主持德语专著讨论，剖析德译本将 Activator 译为 Herausforderer（挑战者）所蕴含的普通教学论意涵，肯定其对激进建构主义教学放任倾向的纠偏作用。
+> - **2011–2014 — 德语世界引介与[[Discourse|话语]]商榷** 埃瓦尔德·特哈特（Ewald Terhart）主持德语专著讨论，剖析德译本将 Activator 译为 Herausforderer（挑战者）所蕴含的普通教学论意涵，肯定其对[[Radical Constructivism|激进建构主义]]教学放任倾向的纠偏作用。
 > - **2016 至今 — 三阶段整合与情境化校准** 哈蒂与多诺霍（Hattie & Donoghue, 2016）对早期两分法做出修正，承认表层知识获取阶段直接激活最为有效，而在深层迁移与概念整合阶段，促进式探究具有不可替代的互补价值。
 
 ---
@@ -132,13 +156,13 @@ updated: 2026-11-26
 > [!debates|notitle] 学术争议
 >
 > > [!axis] 教学法范式纠偏 vs 教师中心威权复辟
-> > 围绕激活型教师模型究竟属于对有效教学经验法则的科学总结，还是对进步主义教育民主成果的技术官僚倒退展开论战。
+> > 围绕激活型教师模型究竟属于对有效教学经验法则的科学总结，还是对[[Progressive Education|进步主义教育]]民主成果的技术官僚倒退展开论战。
 > >
 > > - **John Hattie（2009, 2013）** 主张元分析证据客观表明显性直接教学具有最高效能，激活型教师是打破学业失败宿命、确保教育公平的最有力路径。[[Argument_Hattie_2005_ACER|(Hattie, 2005, pp. 14–16)]]
 > > - **Ewald [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]]** 肯定该模型对放任式伪建构主义的清算作用，但指出这一模型将教学牢牢锚定在教师主导视界内，存在强化微观行为规训的技术主义风险。[[Argument_Terhart_2014_HolyGrail|(Terhart, 2014, pp. 22–23)]]
 
 > [!warning|limits] 适用局限
-> 激活型教师模型所依托的效应量数据主要来自标准化测验能够度量的认知与技能目标；在培养学生批判性反思意识、审美情趣以及面对不确定情境的创造性问题解决方面，高密度结构化指导的解释力存在显著边界（[[Argument_Terhart_2014_HolyGrail|Terhart, 2014, p. 21]]）。
+> 激活型教师模型所依托的效应量数据主要来自标准化测验能够度量的认知与技能目标；在培养学生批判性反思意识、审美情趣以及面对不确定情境的[[Creative Problem Solving|创造性问题解决]]方面，高密度结构化指导的解释力存在显著边界（[[Argument_Terhart_2014_HolyGrail|Terhart, 2014, p. 21]]）。
 
 ---
 
@@ -156,7 +180,7 @@ updated: 2026-11-26
 > | [[Constructivist Instruction]] | 概念 | 激活型教师批判并予以纠偏的对立教学论立场。 |
 > | [[Process-Product Paradigm]] | 理论 | 支撑激活型教师有效性测量的实证研究方法论范式。 |
 > | [[John Hattie]] | 人物 | 概念提出者，首倡可见学习与激活者教师模型。 |
-> | [[Ewald Terhart]] | 人物 | 德语普通教学论学者，对激活者模型开展系统文献审计与概念史辨析。 |
+> | [[Ewald Terhart]] | 人物 | 德语普通教学论学者，对激活者模型开展系统[[Document\|文献]]审计与概念史辨析。 |
 
 ---
 

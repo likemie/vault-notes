@@ -10,7 +10,7 @@ aliases:
 summary: "由 Andy Clark 与 David Chalmers 于 1998 年创立、后经 Clark（2025）面向生成式 AI 深化的认知哲学理论，提出宇称原则与耦合系统观，主张认知过程可跨越颅骨与身体边界延展至外部环境人造物，为认知卸载与人机协同学习提供了本体论与功能主义合法性基石。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 35
+theory_related_count: 36
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Learning Analytics]]"
   - "[[Epistemic Agency]]"
+  - "[[Think-Aloud]]"
   - "[[Dialogue in Education]]"
   - "[[Externalization]]"
   - "[[Problem Solving]]"
@@ -57,7 +58,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-11-11
+updated: 2026-11-28
 ---
 
 ---
@@ -129,7 +130,7 @@ updated: 2026-11-11
 > [!theory-use] 框架入口
 > - **[[Research Question\|研究问题]]** 评估教育数字化技术（特别是大语言模型、[[Learning Analytics\|学习分析]]仪表板与智能导师）究竟是“扩展了学生的[[Cognitive Extent|认知广度]]”还是“剥夺了学生的[[Epistemic Agency\|认识主体性]]”。
 > - **分析对象与单位** 人机交互情境中的“人—机耦合单元”，分析物理界面、[[Cognitive Offloading\|认知卸载]]行为、反思调控与产出质量。
-> - **需要的材料** 学生人机交互操作日志、提示词追问记录、出声思考（Think-aloud）协议、独立闭卷迁移测验与[[Semi-structured Interview\|半结构化访谈]]。
+> - **需要的材料** 学生人机交互操作日志、提示词追问记录、[[Think-Aloud|出声思考]]（Think-aloud）协议、独立闭卷迁移测验与[[Semi-structured Interview\|半结构化访谈]]。
 > - **解释目标** 判定特定教育技术设计在功能上属于“生产性认知放大（Amplification）”还是“有害性心智外包（Atrophy）”。
 
 > [!theory-framework] 延展[[Theory of Mind\|心智理论]]在教育技术中的分析维度

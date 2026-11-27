@@ -10,7 +10,7 @@ aliases:
 summary: "教师在组织教学内容、阐明目标准则、解释概念逻辑与传达行动指令时所呈现的条理透彻与易于理解的专业沟通品质；在二阶元分析中以d=0.75位居教师实践效应量第二位，通过降低无关认知负荷促进学生对知识的表层吸收与深层思维建构。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 30
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -34,14 +34,22 @@ related_concepts:
   - "[[Lecturing]]"
   - "[[Concept Mapping]]"
   - "[[Advance Organizers]]"
+  - "[[Think-Aloud]]"
+  - "[[Instructional Design]]"
   - "[[Homework]]"
-  - "[[Paradigm]]"
   - "[[Effective Teaching]]"
   - "[[Microteaching]]"
+  - "[[Cooperative Learning]]"
+  - "[[Peer-Supported Learning]]"
+  - "[[Effective Factor Bundle]]"
   - "[[Operationalization]]"
   - "[[Structured Teaching]]"
   - "[[Direct Instruction]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Student-Teacher Relationship]]"
+  - "[[Heterogeneity]]"
+  - "[[Zone of Desired Effects]]"
+  - "[[Visible Learning]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -49,7 +57,6 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Scale Development]]"
   - "[[Classroom Observation]]"
-  - "[[Confidence Interval]]"
 related_instruments: []
 related_persons:
   - "[[Ewald Terhart]]"
@@ -57,11 +64,12 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Terhart_2011_JCS]]"
+  - "[[Argument_Kremers_2014_CooperativeLearning]]"
   - "[[Argument_Terhart_2014_HolyGrail]]"
 confidence: high
 status: completed
 created: 2026-10-17
-updated: 2026-11-26
+updated: 2026-11-28
 ---
 
 ---
@@ -99,7 +107,7 @@ updated: 2026-11-26
 > [!feature] 核心要素
 > - **目标与准则显性化（Clarity of Intentions & [[Success Criteria]]）** 明确宣告“本次课要学什么”以及“达到何种标准才算掌握”，使学习者从开端即拥有清晰的自我监控参照系。
 > - **概念阐释的结构严密性（Conceptual Structural Transparency）** 运用[[Concept Mapping|概念图]]、[[Advance Organizers|先行组织者]]与多维对比，清晰梳理新旧知识交汇点，揭示学科知识的深层内在网络。
-> - **分步示范与支架化指令（Explicit [[Scaffolding]] Instructions）** 将复杂任务拆解为阶段性子任务，通过“出声思考（Think-Aloud）”向学生全景展示解题专家的思维推理过程。
+> - **分步示范与支架化指令（Explicit [[Scaffolding]] Instructions）** 将复杂任务拆解为阶段性子任务，通过“[[Think-Aloud|出声思考]]（Think-Aloud）”向学生全景展示解题专家的思维推理过程。
 > - **理解核查与响应性澄清（Checking for Understanding）** 敏锐捕捉学生眼神与课堂沉默，通过高频精准提问诊断概念混淆，并即时开展重构解释。
 
 > [!logic-map]- 清晰度传导机制
@@ -114,7 +122,7 @@ updated: 2026-11-26
 ---
 
 > [!concept-proposition] 命题一｜教师清晰度通过剔除指令模糊性并降低无关认知负荷显著提升学生的表层理解与深层建构
-> **认知负荷控制与[[Concept Mapping|概念图]]式加工** 认知心理学与教学设计理论指出：学生的[[Working Memory|工作记忆]]容量极其有限；教学过程中的含混表达、跳跃式推理与模糊[[Homework|作业]]要求，构成了吞噬学生认知资源的无关负荷，直接阻碍深层知识图式的构建。
+> **认知负荷控制与[[Concept Mapping|概念图]]式加工** 认知心理学与[[Instructional Design|教学设计]]理论指出：学生的[[Working Memory|工作记忆]]容量极其有限；教学过程中的含混表达、跳跃式推理与模糊[[Homework|作业]]要求，构成了吞噬学生认知资源的无关负荷，直接阻碍深层知识图式的构建。
 
 > [!claim] Cruickshank, D.
 > **无关负荷的消减与认知释放** 唐纳德·克鲁克香克（Donald Cruickshank）系统论证指出：教师清晰度不仅是一项语言修辞技能，更是一种高级教学工程设计。清晰度高的教师善于剔除冗余干扰信息，提供层次分明的认知台阶，使学生能够将有限的工作记忆无损聚焦于高阶分析与[[Problem Solving|问题解决]]之中。
@@ -130,10 +138,10 @@ updated: 2026-11-26
 ---
 
 > [!concept-proposition] 命题三｜教师清晰度构成[[Cooperative Learning|合作学习]]与同伴互动产生实效的先决条件
-> **清晰指令与合作结构运作** 探讨教师清晰沟通与任务组织如何超出单向讲授课堂，成为小组协作与同伴互助得以取得学业成效的前提条件。
+> **清晰指令与合作结构运作** 探讨教师清晰沟通与任务组织如何超出单向讲授课堂，成为小组协作与[[Peer-Supported Learning|同伴互助]]得以取得学业成效的前提条件。
 
 > [!claim] Kremers, T.
-> **合作课堂中组织、讲解、示范、带练与评价的语言基础** 托马斯·克雷默斯（Thomas Kremers）结合哈蒂综合研究指出，合作学习作为强效因子束成员，高度依赖教师清晰度作为运作前提：缺乏教师明确的语言指令，有效的小组合作与学业提升都无从谈起。他援引芬迪克（Fendick）对教师清晰度的经典操作化界定（Hattie, 2013, p. 151），指出教师清晰度体现为通过清晰语言实施的五项教学行为，即组织任务、讲解说明、给出例子、带练辅导以及评价学习表现；在合作教学情境中，只有当教师以此搭建清晰的任务与沟通框架，小组成员才不会沦为无序闲聊。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, p. 85)]]
+> **合作课堂中组织、讲解、示范、带练与评价的语言基础** 托马斯·克雷默斯（Thomas Kremers）结合哈蒂综合研究指出，合作学习作为[[Effective Factor Bundle|强效因子束]]成员，高度依赖教师清晰度作为运作前提：缺乏教师明确的语言指令，有效的小组合作与学业提升都无从谈起。他援引芬迪克（Fendick）对教师清晰度的经典[[Operationalization|操作化]]界定（Hattie, 2013, p. 151），指出教师清晰度体现为通过清晰语言实施的五项教学行为，即组织任务、讲解说明、给出例子、带练辅导以及评价学习表现；在合作教学情境中，只有当教师以此搭建清晰的任务与沟通框架，小组成员才不会沦为无序闲聊。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, p. 85)]]
 
 ---
 
@@ -186,7 +194,7 @@ updated: 2026-11-26
 > [!ma-table]- 二阶元分析结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
-> | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
+> | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与 95% PI | 关键解释边界 |
 > |---|---|---|---|---|---|---|---|
 > | Hattie (2009); [[Argument_Terhart_2011_JCS\|Terhart (2011, p. 432)]]; [[Argument_Terhart_2014_HolyGrail\|Terhart (2014, p. 19)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.75"><span class="b15"></span></span>0.75 | — | Cohen's $d$；未报告具体合成模型 | $M = 7$ / $E = 240$ / $k = 240$ / $N = 31,649$ | 干预因素：教师教学清晰度对学生学业成就的总体促进效应 | — | 原始综合主要基于教师自我报告与学生评定等多源测量工具，未细分学科领域的异质性调节 |
 

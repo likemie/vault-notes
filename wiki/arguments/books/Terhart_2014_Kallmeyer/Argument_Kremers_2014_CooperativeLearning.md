@@ -7,10 +7,10 @@ title: "Argument_Kremers_2014_CooperativeLearning"
 argument_key: "Argument_Kremers_2014_CooperativeLearning"
 argument_display_title: "Wie lernwirksam ist das Kooperative Lernen? Lernen in kooperativen Strukturen auf dem Prüfstand der Hattie-Studie"
 argument_kind: "book-chapter"
-argument_related_count: 49
-argument_related_level: 4
-argument_related_stars: "💎⭐"
-argument_related_color: "#fef3c7"
+argument_related_count: 52
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 authors:
   - "Kremers, T."
 source_language: en
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Cooperative Learning]]"
   - "[[Teacher Clarity]]"
   - "[[Student-Teacher Relationship]]"
+  - "[[Effective Factor Bundle]]"
   - "[[Teacher as Activator]]"
   - "[[Think-Pair-Share]]"
   - "[[Placemat]]"
@@ -61,6 +62,7 @@ related_concepts:
   - "[[Self-reported Grades]]"
   - "[[Feedback]]"
   - "[[Metacognition]]"
+  - "[[Think-Aloud]]"
   - "[[Explicit Teaching Strategies]]"
   - "[[Mind Mapping]]"
   - "[[Graphic Organizer]]"
@@ -80,6 +82,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"
+  - "[[David W. Johnson]]"
   - "[[Ewald Terhart]]"
   - "[[Robert Marzano]]"
 related_facts:
@@ -99,7 +102,7 @@ updated: 2026-11-28
 > [[John Hattie|约翰·哈蒂]]（John Hattie）的《[[Visible Learning|可见的学习]]》（Hattie, 2009；德译修订版由沃尔夫冈·贝伊尔 [Wolfgang Beywl] 与克劳斯·齐勒 [Klaus Zierer] 编订为 Hattie, 2013）乍看似乎在替传统的教师[[Lecturing|讲授法]]（Frontalunterricht）辩护，德国中小学教师室中也常听到一种议论，称哈蒂已经证明老式讲授完全可行、教学成效全看教师个人，[[Cooperative Learning|合作学习]]起不到作用（p. 78）。托马斯·克雷默斯（Thomas Kremers）追问：哈蒂在二阶[[Meta-analysis|元分析]]中究竟如何评估合作学习的实际成效，合作学习又如何借助其他教学因素的配合发挥更大作用，当代教师据此应当怎样摆正合作学习与讲授教学的关系？（pp. 78–79, 83, 87–88）
 
 > [!claim] 核心主张
-> 哈蒂的研究从显性与隐性两方面证实了合作学习的效力：元分析直接对比显示合作学习相比个人学习[[Effect Size|效应量]]（Cohen's $d$，记作 $d$）达到 $0.59$，逼近高成效门槛；同时，合作课堂在日常运行中持续调动反思、[[Teacher Clarity|教师清晰度]]、反馈和[[Student-Teacher Relationship|师生关系]]等十二项高排名因素组成强效因子束（wirkstarkes Faktorenbündel），协同放大育人成效（pp. 78, 82–87）。因此，哈蒂支持的是发挥[[Teacher as Activator|激活者]]（Activator）作用的教师，这类教师既分阶段带好复杂的合作学习，也在优质的讲授课堂中穿插思考—配对—分享（[[Think-Pair-Share]]）与[[Placemat|餐垫法]]（Placemat）等激活学生参与的方法（pp. 87–88）。
+> 哈蒂的研究从显性与隐性两方面证实了合作学习的效力：元分析直接对比显示合作学习相比个人学习[[Effect Size|效应量]]（Cohen's $d$，记作 $d$）达到 $0.59$，逼近高成效门槛；同时，合作课堂在日常运行中持续调动反思、[[Teacher Clarity|教师清晰度]]、反馈和[[Student-Teacher Relationship|师生关系]]等十二项高排名因素组成[[Effective Factor Bundle|强效因子束]]（wirkstarkes Faktorenbündel），协同放大育人成效（pp. 78, 82–87）。因此，哈蒂支持的是发挥[[Teacher as Activator|激活者]]（Activator）作用的教师，这类教师既分阶段带好复杂的合作学习，也在优质的讲授课堂中穿插思考—配对—分享（[[Think-Pair-Share]]）与[[Placemat|餐垫法]]（Placemat）等激活学生参与的方法（pp. 87–88）。
 
 > [!concept-lens] 阅读透镜
 > - **对象** Hattie (2009, 2012, 2013) 中合作学习与小组学习的元分析数据、全因素排行榜，以及德国学校与教师室的简化误读。
@@ -111,10 +114,10 @@ updated: 2026-11-28
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
-> | **三类学习目标结构**<br>[[Cooperative, Competitive and Individualistic Learning]] | 源自戴维·约翰逊（David W. Johnson）与罗杰·约翰逊（Roger T. Johnson）基于[[Social Interdependence Theory\|社会互赖理论]]作出的区分（Johnson & Johnson, 1994），肯定合作、竞争与个人学习各有正当位置，避免把[[Cooperative Learning\|合作学习]]绝对化为唯一方案（pp. 79–80）。 |
+> | **三类学习目标结构**<br>[[Cooperative, Competitive and Individualistic Learning]] | 源自[[David W. Johnson\|戴维·约翰逊]]（David W. Johnson）与罗杰·约翰逊（Roger T. Johnson）基于[[Social Interdependence Theory\|社会互赖理论]]作出的区分（Johnson & Johnson, 1994），肯定合作、竞争与个人学习各有正当位置，避免把[[Cooperative Learning\|合作学习]]绝对化为唯一方案（pp. 79–80）。 |
 > | **合作学习五大心理基石**<br>Five Basic Elements（Johnson et al., 2005） | 植根于[[Social Interdependence Theory\|社会互赖理论]]，以积极互赖、个体责任、社交技能、过程反思与面对面互动为支柱，区分有效合作与形式化分组（pp. 80–81, 83–84）。 |
 > | **四维能力整合观** | 说明合作学习同时培养学科、社交、沟通与方法四类能力，点明[[John Hattie\|哈蒂]]只测[[Academic Achievement\|学业成绩]]的评估盲区（pp. 78–79, 81–82）。 |
-> | **强效因子束与交互增效**<br>Wirkstarkes Faktorenbündel（Beywl & Zierer, 2013） | 揭示教学因素之间相互增强、不能简单做加法，用来发掘合作学习内含的高成效机制（pp. 83–84）。 |
+> | **[[Effective Factor Bundle\|强效因子束]]与交互增效**<br>Wirkstarkes Faktorenbündel（Beywl & Zierer, 2013） | 揭示教学因素之间相互增强、不能简单做加法，用来发掘合作学习内含的高成效机制（pp. 83–84）。 |
 > | **激活型教师与表深层学习平衡**<br>[[Teacher as Activator]] & [[Surface and Deep Learning]] | 界定教师搭结构、控时间、建关系的职责，说明独学打底加同伴讨论推动深层理解的规律（pp. 86–88）。 |
 
 > [!warrant]- 理论如何支撑论证
@@ -172,7 +175,7 @@ updated: 2026-11-28
 > 倡导[[Cooperative Learning|合作学习]]的学者主张在合作结构里按独学—配对—小组三步稳扎稳打地练本领，靠五大心理学原则支撑，并把协作文化带进全校建设与[[Democratic Education|民主教育]]中，超越把它当作包治百病神药的简单理解（pp. 79–81）。
 
 > [!sub-claim] 1. 合作、竞争和个人学习各有价值，关键在搭建合作结构
-> 戴维·约翰逊（David W. Johnson）与罗杰·约翰逊（Roger T. Johnson）立足[[Social Interdependence Theory|社会互赖理论]]把课堂学习分成合作、竞争和个人学习三种，并认为这三种方式各有正当价值（Johnson & Johnson, 1994, p. 3 及以下）：
+> [[David W. Johnson|戴维·约翰逊]]（David W. Johnson）与罗杰·约翰逊（Roger T. Johnson）立足[[Social Interdependence Theory|社会互赖理论]]把课堂学习分成合作、竞争和个人学习三种，并认为这三种方式各有正当价值（Johnson & Johnson, 1994, p. 3 及以下）：
 
 > [!term] 概念精度辨析：在合作结构中学习（p. 79，注 4）
 > 从概念界定严格推敲，学习终归是发生在每个学生头脑里的个人吸收过程，因此在合作结构中学习（Lernen in kooperativen Strukturen）比合作学习表述更准确；教育界习惯用合作学习指代一整套在合作结构里开展教学的理念。
@@ -242,7 +245,7 @@ updated: 2026-11-28
 > 评价合作学习还有第二条分析路径：一方面看它和别的因素相互配合时能激发多大隐性效力（Hattie, 2013, p. X），另一方面看合作课堂在多大程度上自身具备这些高成效因素的品质（p. 83）。
 
 > [!example] 交互增效示例：[[Co-Teaching|协同教学]] × 同伴辅导因子束（Hattie, 2013, p. IX；p. 83）
-> Beywl and Zierer（Hattie, 2013, p. IX）提醒不要孤立地看单个数字：比如双师[[Co-Teaching|协同教学]]单看效应量只有 $d = 0.19$，一旦把它和高效的同伴辅导（$d = 0.55$）结合使用，就会合成一束强效因子束。这种配合通过两项做法彼此借力超越两个数字的简单相加，让其中一项或两项一起发挥更大威力。
+> Beywl and Zierer（Hattie, 2013, p. IX）提醒不要孤立地看单个数字：比如双师[[Co-Teaching|协同教学]]单看效应量只有 $d = 0.19$，一旦把它和高效的同伴辅导（$d = 0.55$）结合使用，就会合成一束[[Effective Factor Bundle|强效因子束]]。这种配合通过两项做法彼此借力超越两个数字的简单相加，让其中一项或两项一起发挥更大威力。
 
 > [!boundary]- 组束前提边界：高分因子须内生于教学结构，而非外部拼凑（p. 83）
 > 组建强效因子束同样要求所组合的高分品质原本就长在该教学法的有机结构里面，避免把互不相干的项目随意拼凑在一起。拿教学反思来说，反思固然可以往很多教法上挂，但在合作学习里，小组评价（Johnson et al., 2005, pp. 120–124）本来就是五大决定性条件之一，内生于合作流程之中。
@@ -264,7 +267,7 @@ updated: 2026-11-28
 > | 10 | [[Feedback]] | [[Feedback\|教学反馈]]（支撑学习过程反思） | 特征因子（斜体） | 0.73 |
 > | 11 | Lehrer-Schüler-Beziehung | [[Student-Teacher Relationship\|师生关系]]（安全学习环境前提） | 特征因子（斜体） | 0.72 |
 > | 13 | metakognitive Strategien | [[Metacognition\|元认知策略]]（调节深表层学习转换） | 特征因子（斜体） | 0.69 |
-> | 18 | Lautes Denken | 出声思考（外显认知推理过程） | 特征因子（斜体） | 0.64 |
+> | 18 | [[Think-Aloud\|Lautes Denken]] | [[Think-Aloud\|出声思考]]（外显认知推理过程） | 特征因子（斜体） | 0.64 |
 > | 23 | Lehrstrategien | [[Explicit Teaching Strategies\|显性教学策略]]（Lehrstrategien，涵盖合作学习安排） | 特征因子（斜体） | 0.60 |
 > | 24 | Kooperatives vs. individuelles Lernen | [[Cooperative, Competitive and Individualistic Learning\|合作学习对比个体学习]] | 直接条目（正体） | 0.59 |
 > | 33 | Concept Mapping | [[Concept Mapping\|概念图]]（与[[Mind Mapping\|思维导图]]同属[[Graphic Organizer\|图形组织器]]） | 特征因子（斜体） | 0.57 |

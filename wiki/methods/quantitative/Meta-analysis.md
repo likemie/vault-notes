@@ -6,7 +6,7 @@ summary: "通过汇总多项独立初级研究的效应量来综合定量证据�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 130
+method_related_count: 135
 method_related_level: 13
 method_related_stars: "💎💎💎💎⭐"
 method_related_color: "#dcfce7"
@@ -41,10 +41,10 @@ related_concepts:
   - "[[Document]]"
   - "[[Homophily]]"
   - "[[Paradigm]]"
+  - "[[Implementation Fidelity]]"
   - "[[Months of Progress]]"
   - "[[Variable]]"
   - "[[Independent Variable]]"
-  - "[[Implementation Fidelity]]"
   - "[[Dependent Variable]]"
   - "[[Access and Acceptance in Research]]"
   - "[[Business as Usual]]"
@@ -61,6 +61,8 @@ related_concepts:
   - "[[Intelligent Tutoring Systems]]"
   - "[[Reliability]]"
   - "[[Visible Learning]]"
+  - "[[Cooperative Learning]]"
+  - "[[Effective Factor Bundle]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Collaborative Learning]]"
@@ -116,13 +118,14 @@ related_methods:
 related_persons:
   - "[[Gene Glass]]"
   - "[[Karl Pearson]]"
-  - "[[Ewald Terhart]]"
   - "[[John Hattie]]"
+  - "[[Ewald Terhart]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Clearing House Unterricht]]"
   - "[[What Works Clearinghouse]]"
+  - "[[Gesamtschule]]"
 related_arguments:
   - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
@@ -130,6 +133,7 @@ related_arguments:
   - "[[Argument_Wrigley_2019_ERE]]"
   - "[[Argument_Berk_2011_EvalRev]]"
   - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Argument_Brugelmann_2014_LocalPractice]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Johnson_2023_CritEduc]]"
@@ -148,7 +152,8 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Knogler_2025_BB]]"
   - "[[Argument_Koller_2014_WhatWorks]]"
-  - "[[Argument_Brugelmann_2014_LocalPractice]]"
+  - "[[Argument_Rolff_2014_SchoolStructure]]"
+  - "[[Argument_Kremers_2014_CooperativeLearning]]"
   - "[[Argument_Zhao_2025_JIntell]]"
   - "[[Argument_Cartiff_2021_JEP]]"
   - "[[Argument_Volmari_2025_CE]]"
@@ -158,7 +163,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-11-27
+updated: 2026-11-28
 ---
 
 ---
@@ -200,7 +205,7 @@ updated: 2026-11-27
 > - **1979–1986 — 统计理论成形** Rosenthal (1979) 提出[[Fail-Safe N|失安全数]]；Hedges (1981) 给出效应量的抽样分布与小样本校正 $g$；Hedges (1983) 提出效应量的[[Random-Effects Model|随机效应模型]]；Orwin (1983) 提出基于效应量阈值的失安全数；Hedges and Olkin (1985) 出版系统的统计方法专著；DerSimonian and Laird (1986) 提出 $\tau^2$ 的矩估计。
 > - **1990s–2000s — 系统综述的制度化** Cochrane 协作网于 1993 年成立；QUOROM 声明 (1999) 及其后继 [[PRISMA]] 声明 (2009, 2020) 规范了[[Systematic Review|系统综述]]与元分析的报告；Higgins and Thompson (2002) 提出 $I^2$ 统计量。
 > - **2010s — 依赖效应量的建模** Hedges et al. (2010) 将[[Robust Variance Estimation|稳健方差估计]]（RVE）引入元分析；Van den Noortgate et al. (2013) 与 Cheung (2014) 建立[[Three-Level Meta-Analysis|三水平元分析]]；R 的 metafor 等软件形成完整计算生态。
-> - **2014 — 证据库历史断代与实施保真度反思** 汉斯·布吕格尔曼（[[Argument_Brugelmann_2014_LocalPractice|Brügelmann, 2014, pp. 42–45]]）在评析哈蒂证据库时指出，元分析若纳入跨越数十年历史断代的老旧文献（如计算机辅助教学中过半文献来自 2000 年前），将产生时代错位；且宏观粗线条标签抽空了课堂[[Implementation Fidelity|实施保真度]]，掩盖了干预内部的离散方差。
+> - **2014 — 证据库历史断代与[[Implementation Fidelity|实施保真度]]反思** 汉斯·布吕格尔曼（[[Argument_Brugelmann_2014_LocalPractice|Brügelmann, 2014, pp. 42–45]]）在评析[[John Hattie|哈蒂]]证据库时指出，元分析若纳入跨越数十年历史断代的老旧文献（如计算机辅助教学中过半文献来自 2000 年前），将产生时代错位；且宏观粗线条标签抽空了课堂[[Implementation Fidelity|实施保真度]]，掩盖了干预内部的离散方差。
 > - **2010s–2020s — 教育证据的转译与再编码** 英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）在《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》中以额外学习月数（[[Months of Progress]]）转译元分析结果，并对工具包底层的初级研究逐项再编码，建立可持续更新的数据库，以便按研究特征拆解[[Heterogeneity|异质性]] ([[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]])。
 
 ---
@@ -354,7 +359,7 @@ updated: 2026-11-27
 
 > [!method-limits] 方法局限
 > 1. **可比性（“苹果与橙子”）** 干预定义、测量工具、比较组与情境差异过大时，平均[[Effect Size|效应量]]缺乏明确含义 (Eysenck, 1978; [[Argument_Higgins_2016_ROE|Higgins, 2016]]; [[Argument_Simpson_2017_JEdPolicy|Simpson, 2017]])。
-> 2. **输入质量（“垃圾进，垃圾出”）** 合并有偏的初级研究得到的是更精确的有偏估计 (Eysenck, 1978; Slavin, 1984; [[Argument_Berk_2011_EvalRev|Berk, 2011]])。[[Ewald Terhart|特哈特]]（[[Argument_Terhart_2014_HolyGrail|Terhart, 2014, p. 14]]）指出，缺乏严格方法学准入质控门槛时，控制严谨的干预实验与宽泛粗疏的[[Questionnaire|问卷调查]]在计算中被一视同仁，导致底层证据库异质性失控。布吕格尔曼（[[Argument_Brugelmann_2014_LocalPractice|Brügelmann, 2014, pp. 42–44]]）进一步指出文献历史断代滞后（如计算机辅助教学底层文献过半早于 2000 年）与抽空微观课堂[[Implementation Fidelity|实施保真度]]会导致元分析表面标签与实际教学现实脱节。
+> 2. **输入质量（“垃圾进，垃圾出”）** 合并有偏的初级研究得到的是更精确的有偏估计 (Eysenck, 1978; Slavin, 1984; [[Argument_Berk_2011_EvalRev|Berk, 2011]])。[[Ewald Terhart|特哈特]]（[[Argument_Terhart_2014_HolyGrail|Terhart, 2014, p. 14]]）指出，缺乏严格方法学准入质控门槛时，控制严谨的干[[Pilot Testing|预实验]]与宽泛粗疏的[[Questionnaire|问卷调查]]在计算中被一视同仁，导致底层证据库异质性失控。布吕格尔曼（[[Argument_Brugelmann_2014_LocalPractice|Brügelmann, 2014, pp. 42–44]]）进一步指出文献历史断代滞后（如计算机辅助教学底层文献过半早于 2000 年）与抽空微观课堂[[Implementation Fidelity|实施保真度]]会导致元分析表面标签与实际教学现实脱节。
 > 3. **证据库偏倚** [[Publication Bias|发表偏倚]]、选择性报告与数据提取错误会系统扭曲合并结果 ([[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]; [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]])。
 > 4. **统计独立性** 同一研究的多个效应量相关，按独立处理会低估[[Standard Error|标准误]] (Cheung, 2014)。
 > 5. **平均效应掩盖[[Heterogeneity|异质性]]** 平均[[Effect Size|效应量]]不回答“对谁、在何种情境下有效”，Kluger and DeNisi (1996) 的反馈研究中约 38% 的效应为负 ([[Argument_Wiliam_2019_ERE|Wiliam, 2019]])。布吕格尔曼（[[Argument_Brugelmann_2014_LocalPractice|Brügelmann, 2014, pp. 44–45]]）强调教学方法内部的方差离散度远超方法之间的均值差异，且同质性分类标准的自相矛盾（如开放教学 $d = 0.01$ 对比非指导性教学 $d = 0.54$）进一步暴露宏观平均指标的局限。
@@ -406,8 +411,8 @@ updated: 2026-11-27
 > - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 审读元分析证据库关于学校宏观变量与课堂深层过程的效应量分化，评析班级规模元分析（Glass & Smith, 1978; von Saldern, 2006）并确立深层互动过程的决定性地位（pp. 24–36）。
 > - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014)]] — 批判元分析中忽视文献历史断代滞后、抽空微观实施保真度以及抹杀组内方差离散度的三大方法论缺陷，揭示指标内部评价自相矛盾（pp. 42–45）。
 > - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 审查[[John Hattie|哈蒂]]《[[Visible Learning|可见的学习]]》所纳 800 余项元分析的年代构成与质控门槛，指出底层数据年代跨代滞后及缺乏准入质控导致证据库异质性失控的方法学缺陷（pp. 13–14）。
-> - [[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]] — 检视 Hattie (2009) 中学校结构变量的元分析证据库，指出其几乎全采自实行综合中学体制的英语国家、缺乏早期分轨数据，论证跨体制外推元分析结论的制度边界（pp. 67–69）。
-> - [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014)]] — 审读《可见的学习》中合作学习与小组学习元分析数据（如 4 项元分析对比个人学习 $d = 0.59$），指出单一成就测度盲区与因子非加性交互（强效因子束）对元分析效应解读的制约（pp. 78–79, 82–84）。
+> - [[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]] — 检视 Hattie (2009) 中学校结构变量的元分析证据库，指出其几乎全采自实行[[Gesamtschule|综合中学]]体制的英语国家、缺乏早期分轨数据，论证跨体制外推元分析结论的制度边界（pp. 67–69）。
+> - [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014)]] — 审读《可见的学习》中[[Cooperative Learning|合作学习]]与小组学习元分析数据（如 4 项元分析对比个人学习 $d = 0.59$），指出单一成就测度盲区与因子非加性交互（[[Effective Factor Bundle|强效因子束]]）对元分析效应解读的制约（pp. 78–79, 82–84）。
 > - [[Argument_Knogler_2025_BB|Knogler et al. (2025)]] — 评析数字化数理教学元分析（$k = 92$），展示清算中心如何依据高信度元分析提炼决策参数并构建面向教师教育的循证中介转化范式。
 > - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 运用随机效应模型综合 29 项实验（$g = 0.609$），评估[[Generative Artificial Intelligence|生成式人工智能]]对[[Higher-Order Thinking Skills|高阶思维]]的促进效应并检验干预时长与学段调节效应。
 > - [[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] — 开展生成式人工智能[[Collaborative Learning|协作学习]]元分析（57 项实验），控制前测基线等效性评估综合效应并以剪补法校正发表偏倚。

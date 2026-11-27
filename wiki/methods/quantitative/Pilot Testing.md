@@ -13,7 +13,7 @@ summary: "在正式数据收集或评估工具发布前，通过小规模试运�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 40
+method_related_count: 42
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Study Population and Sample]]"
   - "[[Reliability]]"
   - "[[Paradigm]]"
+  - "[[Think-Aloud]]"
   - "[[Leading Questions]]"
   - "[[Professional Judgment]]"
   - "[[Heterogeneity]]"
@@ -63,6 +64,7 @@ related_persons:
 related_facts:
   - "[[World Bank]]"
   - "[[NIH R01 Grant]]"
+  - "[[PISA]]"
   - "[[National Institutes of Health]]"
   - "[[Howard Hughes Medical Institute]]"
 related_arguments:
@@ -76,7 +78,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-31
-updated: 2026-11-18
+updated: 2026-11-28
 ---
 
 ---
@@ -126,7 +128,7 @@ updated: 2026-11-18
 > [!method-stack] 实施[[Paradigm|范式]]与分析策略
 > - **质性诊断范式（问卷与测验题面审查）**
 >   - 样本与规模：5–15 名受试者或同行专家。
->   - 核心任务：聚焦题面覆盖度、措辞准确性与版面格式；通过出声思考法（Think-aloud）与口头追问，消除指导语歧义，排查[[Leading Questions|引导性问题]]与敏感侵入性表述。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, pp. 176–178)]]
+>   - 核心任务：聚焦题面覆盖度、措辞准确性与版面格式；通过[[Think-Aloud|出声思考]]法（Think-aloud）与口头追问，消除指导语歧义，排查[[Leading Questions|引导性问题]]与敏感侵入性表述。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, pp. 176–178)]]
 > - **统计缩减范式（题库编制与量表纯化）**
 >   - 样本与规模：50–100 人代表性样本（Kgaile & Morrison, 2006）。
 >   - 核心任务：从宽泛候选池出发，运行[[Item Analysis|项目分析]]（难度系数与区分度指数）、信度分析（剔除拉低 Cronbach's α 的题项）、多重共线性诊断及探索性因子分析；坚持[[Professional Judgment|专业判断]]优先于机械统计筛选。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, pp. 178–179)]]
@@ -155,7 +157,7 @@ updated: 2026-11-18
 > - **统计驱动剥离重要理论维度** 机械依据相关系数或因子载荷剔除题项，容易意外裁撤[[Construct|理论构念]]中的关键低频要素；必须确立理论与专业判断高于纯粹统计指标的原则。
 > - **受试者[[Hawthorne Effect|霍桑效应]]与观察员疲劳** 预试环境中的受试者因意识到处于测试状态容易改变日常表现，观察员高强度试测亦容易产生评分标准漂移。
 > - **科研资助生态的保守化[[Alienation|异化]]** 竞争性基金评审（如 [[NIH R01 Grant|NIH R01]]）若过度要求完备成熟的预实验数据，会形成排斥高风险颠覆性探索的准入门槛，迫使学者退缩至确定性高的渐进课题；跨学科或跨越原有研究领域的假说在早期萌芽阶段由于缺乏预实验支撑，极易在同行评议中被判定为过于投机而遭淘汰。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 28)]]; [[Argument_Azoulay_2011_RJE|(Azoulay et al., 2011, p. 532)]]; [[Argument_Heinze_2009_RP|(Heinze et al., 2009, pp. 620–621)]]
-> - **跨国测评试错性预试对学科与文化内涵的消解** 在大规模跨国标准化测验（如 PISA）题库开发中，过度依赖试错性预测试（trial-and-error piloting）筛选跨国普适题项，容易导致试题脱离具体的国家学科课程结构与深层文化语境，混淆统计可测性与实质课程有效性。[[Argument_Deng_2016_CE|(Hopmann, 2008, 引自 Deng & Gopinathan, 2016, p. 450)]]
+> - **跨国测评试错性预试对学科与文化内涵的消解** 在大规模跨国标准化测验（如 [[PISA]]）题库开发中，过度依赖试错性预测试（trial-and-error piloting）筛选跨国普适题项，容易导致试题脱离具体的国家学科课程结构与深层文化语境，混淆统计可测性与实质课程有效性。[[Argument_Deng_2016_CE|(Hopmann, 2008, 引自 Deng & Gopinathan, 2016, p. 450)]]
 
 ---
 

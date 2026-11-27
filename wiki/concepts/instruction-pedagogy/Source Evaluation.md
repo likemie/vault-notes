@@ -8,7 +8,7 @@ aliases:
 summary: "在多文本阅读与数字化探究中，学习者主动审验撰写者资质、出版机构意图、潜在利益冲突及文本可信度的批判性认知规程与教学框架；元分析证实显性教授信源评估对学业成就具有高度因果促进效应（d = 0.800）。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 40
+related_count: 44
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -33,18 +33,22 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Justificatory Standards]]"
   - "[[Construct]]"
+  - "[[Learning Strategies]]"
   - "[[Epistemological Theories]]"
   - "[[Epistemic Ideals]]"
+  - "[[Instructional Design]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Academic Achievement]]"
   - "[[Epistemic Cognition]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Scaffolding]]"
+  - "[[Student Attitude]]"
   - "[[Problem Solving]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Scientific Explanation]]"
   - "[[Critical Thinking]]"
+  - "[[Think-Aloud]]"
   - "[[Variable]]"
   - "[[Metacognition]]"
   - "[[Constructivist Instruction]]"
@@ -65,7 +69,7 @@ related_instruments:
   - "[[Framework for Teaching]]"
 confidence: high
 created: 2026-09-21
-updated: 2026-11-03
+updated: 2026-11-28
 ---
 
 ---
@@ -93,8 +97,8 @@ updated: 2026-11-03
 > [!contrast-table] [[Epistemological Beliefs\|认识论信念]]、阅读策略与信息评估维度对比
 > | 比较维度 | 信源评估（Source Evaluation） | [[Source of Knowledge\|知识来源（Source of Knowledge）]] | [[Justificatory Standards\|确证标准（Justificatory Standards）]] |
 > |---|---|---|
-> | **[[Construct\|构念]]性质** | 外显认知策略、批判性阅读技能与教学干预框架 | 内在认识论信念维度（个人[[Epistemological Theories\|认识论理论]]的核心成分） | 内在认知标准与[[Epistemic Ideals\|认识论理想]]（衡量何为主张成立的准则） |
-> | **学科归属** | 教学法与教学设计（instruction-pedagogy）、阅读心理学 | 教育心理学（educational-psychology）、发生[[Epistemology\|认识论]] | 教育心理学、认知哲学、科学教育 |
+> | **[[Construct\|构念]]性质** | 外显[[Learning Strategies\|认知策略]]、批判性阅读技能与教学干预框架 | 内在认识论信念维度（个人[[Epistemological Theories\|认识论理论]]的核心成分） | 内在认知标准与[[Epistemic Ideals\|认识论理想]]（衡量何为主张成立的准则） |
+> | **学科归属** | 教学法与[[Instructional Design\|教学设计]]（instruction-pedagogy）、阅读心理学 | 教育心理学（educational-psychology）、发生[[Epistemology\|认识论]] | 教育心理学、认知哲学、科学教育 |
 > | **探讨核心** | 如何甄别撰写者资质、机构背景与潜在利益冲突 | 知识驻留在全知外部权威中，还是由主体自主建构 | 依靠个人直觉、权威断言，还是逻辑与经验数据协调 |
 > | **干预成效** | 元分析显示显性策略教学产生极高学业促进（$d = 0.800$） | 传统抽象信念转变较慢，需经由信源评估等外显练习内化 | 随认识论干预显著升级，直接驱动论证表现提升（$d = 1.047$） |
 
@@ -113,7 +117,7 @@ updated: 2026-11-03
 > **[[Framework for Teaching|教学框架]]对干预[[Effect Size\|效应量]]的调节机制** 探讨不同类型的教学组织模式对学生认知与[[Academic Achievement\|学业成绩]]的因果促进效能。
 
 > [!claim] Cartiff, B. M.
-> **显性信源评估教学的高效应红利** 在对[[Epistemic Cognition\|认识论认知]]干预的一阶[[Meta-analysis\|元分析]]中，教学框架对学业表现展现出显著的调节作用。以显性讲授信源评估为核心框架的[[Intervention Research\|干预研究]]（如 Mason et al., 2014）录得了高达 $d = 0.800$ 的大效应量，与[[Inquiry-Based Learning\|指导式探究]]（$d = 0.808$）共同位列六类教学框架之首。实证表明，单纯让学生沉浸于海量网络信息进行自由探索，极易导致认知超载与盲从表面权威；相反，当教师明确示范并提供具体的信源查验清单（检查撰写者资历、核实发布机构意图、寻找数据支撑）时，学生能迅速掌握可操作的批判性[[Scaffolding\|脚手架]]，将抽象的怀疑态度转化为有条理的跨文本分析，显著提升深层学业表现。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 485–486, 492)]]
+> **显性信源评估教学的高效应红利** 在对[[Epistemic Cognition\|认识论认知]]干预的一阶[[Meta-analysis\|元分析]]中，教学框架对学业表现展现出显著的调节作用。以显性讲授信源评估为核心框架的[[Intervention Research\|干预研究]]（如 Mason et al., 2014）录得了高达 $d = 0.800$ 的大效应量，与[[Inquiry-Based Learning\|指导式探究]]（$d = 0.808$）共同位列六类教学框架之首。实证表明，单纯让学生沉浸于海量网络信息进行自由探索，极易导致认知超载与盲从表面权威；相反，当教师明确示范并提供具体的信源查验清单（检查撰写者资历、核实发布机构意图、寻找数据支撑）时，学生能迅速掌握可操作的批判性[[Scaffolding\|脚手架]]，将抽象的怀疑[[Student Attitude|态度]]转化为有条理的跨文本分析，显著提升深层学业表现。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 485–486, 492)]]
 
 ---
 
@@ -146,7 +150,7 @@ updated: 2026-11-03
 ---
 
 > [!dev-timeline] 概念演变
-> - **1991 — 历史学科专家阅读思维起源** 萨姆·温伯格（Sam Wineburg）首次通过出声思考法揭示历史学家在阅读冲突性文献时的三大核心启发式：信源评估（Sourcing）、情境化（Contextualization）与互证（Corroboration），确立了信源评估在学科素养中的奠基地位。
+> - **1991 — 历史学科专家阅读思维起源** 萨姆·温伯格（Sam Wineburg）首次通过[[Think-Aloud|出声思考]]法揭示历史学家在阅读冲突性文献时的三大核心启发式：信源评估（Sourcing）、情境化（Contextualization）与互证（Corroboration），确立了信源评估在学科素养中的奠基地位。
 > - **2008–2011 — 多文本阅读认知模型拓展** 鲁埃等学者（Rouet & Britt）提出多文本理解的文档模型与 MD-TRACE 架构，将信源节点（Source Node）确立为多文本心理表征的核心支柱。
 > - **2014–2018 — 数字化时代的显性策略干预** 梅森等学者（Mason et al., 2014）与斯坦福史学教育课题组（Wineburg & McGrew, 2018）将信源评估开发为标准化的教学策略（如[[Lateral Reading\|横向阅读法]]），证明短期显性指导即可显著纠正学生的网络盲信。
 > - **2021 — 因果[[Meta-analysis\|元分析]]确立高效应干预地位** [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 通过元分析量化证实，信源评估[[Framework for Teaching|教学框架]]在[[Epistemic Cognition\|认识论认知]]干预中录得 $d = 0.800$ 的大[[Effect Size\|效应量]]，确立了其作为高效能教学干预[[Paradigm\|范式]]的实证基准。

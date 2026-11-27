@@ -8,7 +8,7 @@ aliases:
 summary: "对科学作为独特知识生产体系的认识论属性、社会文化嵌入性及其生成机理的元认知理解，区别于陈述性事实记忆与孤立操作技能，构成公民科学素养的重要基石。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 45
+related_count: 46
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Justificatory Standards]]"
   - "[[Scientific Method]]"
   - "[[Variable]]"
+  - "[[Theoretical Knowledge]]"
   - "[[Construct]]"
   - "[[Control of Variables Strategy]]"
   - "[[Source Evaluation]]"
@@ -73,7 +74,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-11-15
+updated: 2026-11-28
 ---
 
 ---
@@ -94,7 +95,7 @@ updated: 2026-11-15
 > [!boundary]- 概念边界
 > - 不等于 **[[Epistemic Cognition\|认识论认知]]（Epistemic Cognition）** — 科学本质侧重于个体对科学作为宏观社会制度与学术共同体的认识论特征的元认知理解（如暂时性、实证性、理论负荷），传统测评倾向考察跨情境的陈述性共识原则；而认识论认知更侧重学习者在具体学术任务中识别[[Epistemic Aims\|认识论目标]]、激活[[Reliable Epistemic Processes\|可靠认识论过程]]与确立[[Justificatory Standards\|辩护标准]]的动态认知机制与即时监控。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, p. 480)]]
 > - 不等于 **[[Scientific Method\|科学方法]]（Scientific Method）** — 科学方法指具体的[[Experimental Research|实验设计]]、[[Variable\|变量]]控制与数据记录等程序性操作规程；科学本质则是审视这些规程为何有效、结论为何具有暂时性与解释性的元认识论反思。
-> - 不等于 **学科领域本体知识（Domain-Specific Content）** — 科学本质聚焦于跨越物理、化学、生物等具体学科的宏观认识论特征，不替代具体自然科学学科的事实性与概念性知识。
+> - 不等于 **学科领域本体知识（Domain-Specific Content）** — 科学本质聚焦于跨越物理、化学、生物等具体学科的宏观认识论特征，不替代具体自然科学学科的事实性与[[Theoretical Knowledge|概念性知识]]。
 
 ---
 

@@ -10,7 +10,7 @@ summary: "将口头访谈、焦点小组或人机交互有声思维等口语遭�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 41
+method_related_count: 46
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ tags:
   - data-processing
   - ai-in-education
 related_concepts:
+  - "[[Think-Aloud]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Discourse]]"
   - "[[Epoché]]"
@@ -37,11 +38,14 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Research Purpose]]"
   - "[[Epistemological Vigilance]]"
+  - "[[Student Attitude]]"
   - "[[Cognitive Offloading]]"
+  - "[[Professional Support Staff]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Focus Group]]"
   - "[[In-depth Interview]]"
+  - "[[Thematic Analysis]]"
   - "[[Grounded Theory]]"
   - "[[Multimodal Discourse Analysis]]"
   - "[[Theoretical Sampling]]"
@@ -60,29 +64,30 @@ related_persons: []
 related_facts:
   - "[[EU]]"
 related_arguments:
-  - "[[Argument_Nordtveit_2011_IJED]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21]]"
   - "[[Argument_Wu_2025_ER]]"
   - "[[Argument_Han_Gutierez_2026_IJSE]]"
   - "[[Argument_Alexiadou_Rambla_2023_EERJ]]"
+  - "[[Argument_Nordtveit_2011_IJED]]"
   - "[[Argument_Knudsen_2017_NordSTEP]]"
   - "[[Argument_Volmari_2025_CE]]"
+  - "[[Argument_DeJong_2026_SHE]]"
 related_theories:
   - "[[Phenomenology]]"
 confidence: high
 status: active
 created: 2026-07-22
-updated: 2026-11-26
+updated: 2026-11-28
 ---
 
 ---
 
 > [!def] Transcription in Qualitative Research
-> 转录（Transcription in [[Qualitative Research]]，通称“质性转录”或“逐字转录”）是将口头访谈、[[Focus Group|焦点小组]]研讨或人机交互有声思维（Think-Aloud Protocols）等即时口头经验转换为书面文本的过程。词源前缀 trans 昭示了状态与载体的根本性跨越；质性转录本质上是一项**选择性转换（Selective Transformation）**，对原始交流情境进行具有理论导向的符号重构。它代表着从口语及人际交往规则系统向书面语言和符号系统的理论化转换；在[[Generative Artificial Intelligence|生成式人工智能]]（GenAI）介入的研究情境中，转录进一步拓展为结合屏幕录制交互日志与即时口语表达的多模态数据对齐过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|(Kvale, 1996; Cohen et al., 2011, pp. 445–447)]]; [[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 363–364)]]
+> 转录（Transcription in [[Qualitative Research]]，通称“质性转录”或“逐字转录”）是将口头访谈、[[Focus Group|焦点小组]]研讨或人机交互[[Think-Aloud|有声思维]]（Think-Aloud Protocols）等即时口头经验转换为书面文本的过程。词源前缀 trans 昭示了状态与载体的根本性跨越；质性转录本质上是一项**选择性转换（Selective Transformation）**，对原始交流情境进行具有理论导向的符号重构。它代表着从口语及人际交往规则系统向书面语言和符号系统的理论化转换；在[[Generative Artificial Intelligence|生成式人工智能]]（GenAI）介入的研究情境中，转录进一步拓展为结合屏幕录制交互日志与即时口语表达的多模态数据对齐过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|(Kvale, 1996; Cohen et al., 2011, pp. 445–447)]]; [[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 363–364)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** [[In-depth Interview|深度访谈]]口语录音、焦点小组讨论音频、人机交互有声思维录音、课堂师生对话音视频以及配套的屏幕操作交互日志。
-> - **问题类型** 适合作为质性数据准备的基础环节，支撑后续的主题分析、[[Discourse|话语]]解构、[[Epoché|现象学还原]]、交互动态分析与[[Epistemic Stances|认识立场]]演化追踪。
+> - **问题类型** 适合作为质性数据准备的基础环节，支撑后续的[[Thematic Analysis|主题分析]]、[[Discourse|话语]]解构、[[Epoché|现象学还原]]、交互动态分析与[[Epistemic Stances|认识立场]]演化追踪。
 > - **[[Unit of Analysis|分析单位]]** 完整访谈对话、交互回合（Turns）、特定时间戳片段、单句有声思维话语单元或多模态对齐事件。
 > - **输出形式** 逐字文字转录稿、多模态时间戳对齐表格、副语言标记文本以及符合质性分析软件格式的标准数据包。
 
@@ -96,7 +101,7 @@ updated: 2026-11-26
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 采取解释学与[[Constructivist Paradigm|建构主义]]立场，认识到转录涉及语境抽离、非言语信息过滤与复杂性精简的理论化过程。语言与意义的关系依附于具体语境，转录本始终是研究者基于特定[[Research Question|研究问题]]进行意义建构的中介产物。
 > - **研究者角色** 研究者是转录文本的阐释者与认识论守护人；自动化工具的普及虽能降低手工输入负荷，但无法免除研究者对转录文本的语义失真、口音识别偏误与算法平滑承担最终的[[Epistemic Responsibility|认识论责任]]。
-> - **有效性标准** 遵循质性研究的可信度与保真度标准；通过多模态视听回溯、人工逐行校对、双人独立复核与规则一致性审计，保障转录文本的真实性与[[Interpretive Validity|解释效度]]。
+> - **有效性标准** 遵循质性研究的可[[Reliability|信度]]与保真度标准；通过多模态视听回溯、人工逐行校对、双人独立复核与规则一致性审计，保障转录文本的真实性与[[Interpretive Validity|解释效度]]。
 > - **不声称回答的问题** 转录本身是数据准备技术，不直接产出终极因果结论或理论模型；不能将静态的书面转录本简单等同于原始生动的现场社会遭遇全貌。
 
 > [!method-stack] 方法层级
@@ -134,7 +139,7 @@ updated: 2026-11-26
 ---
 
 > [!method-fit] 适用判断
-> - **适合使用** 需要深入解构行动者口语叙述、交互细节与微观话语策略的质性研究；探索学习者即时有声思维与人机交互动态的认知实验；追踪政策制定者闭门访谈中言语表述与态度取向的[[Case Study|案例研究]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|(Cohen et al., 2011, pp. 445–447)]]; [[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 363–364)]]
+> - **适合使用** 需要深入解构行动者口语叙述、交互细节与微观话语策略的质性研究；探索学习者即时有声思维与人机交互动态的认知实验；追踪政策制定者闭门访谈中言语表述与[[Student Attitude|态度]]取向的[[Case Study|案例研究]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|(Cohen et al., 2011, pp. 445–447)]]; [[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 363–364)]]
 > - **谨慎使用** 受访者方言极重、背景噪音极大或多人激烈重叠争辩的录音场景，算法初转错误率极高，需投入大量人工反复精听。
 > - **不适合使用** 仅需获取受访者标准化事实信息（如人口统计特征）的研究；大规模量化[[Questionnaire|问卷调查]]；无需质性文本呈现的纯行为[[Cohort Study|追踪研究]]。
 
@@ -168,4 +173,4 @@ updated: 2026-11-26
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al. (2011, Ch. 21 & Ch. 28)]] — 详述[[Qualitative Interview|质性访谈]]转录作为理论性选择转换的[[Epistemology|认识论]]本质（第 21 章），以及质性数据准备中的转录规范与管理操作规程（第 28 章）。
 > - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 对 9 位[[EU|欧盟]]高级决策官员的深度英文[[Semi-structured Interview|半结构化访谈]]进行完整录音并实施逐字转录与匿名编码，为后续的主题分析与话语权力解构奠定高保真文本基础。
 > - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 对丹麦、芬兰与挪威 15 位参与学校改革起草的核心官员与专家的半结构化访谈（每场 60–90 分钟）进行完整录音与逐字转录，赋予国家代号与匿名序号，为后续话语分类与制度分析奠定规范文本底库（p. 535）。
-> - [[Argument_DeJong_2026_SHE|de Jong (2026)]] — 采用 Microsoft Teams 与 Amberscript 对 22 场大学专业支持人员访谈进行自动逐字转录，并在 2 场自动转录质量不足时改回人工转录以保障语料准确（p. 1243）。
+> - [[Argument_DeJong_2026_SHE|de Jong (2026)]] — 采用 Microsoft Teams 与 Amberscript 对 22 场大学[[Professional Support Staff|专业支持人员]]访谈进行自动逐字转录，并在 2 场自动转录质量不足时改回人工转录以保障语料准确（p. 1243）。

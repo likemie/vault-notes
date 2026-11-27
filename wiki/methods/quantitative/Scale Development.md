@@ -12,7 +12,7 @@ summary: "在心理学与教育学中开发和验证测量不可直接观测潜�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 53
+method_related_count: 55
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ tags:
   - theme/scale-development
 related_concepts:
   - "[[Construct]]"
+  - "[[Student Attitude]]"
   - "[[Variable]]"
   - "[[Operationalization]]"
   - "[[Content Validity]]"
@@ -39,6 +40,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Paradigm]]"
   - "[[Literature Review]]"
+  - "[[Think-Aloud]]"
   - "[[External Validity]]"
   - "[[Homophily]]"
   - "[[Research Literacy]]"
@@ -85,13 +87,13 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-11-11
+updated: 2026-11-28
 ---
 
 ---
 
 > [!def] Scale Development
-> **量表编制与心理计量验证（Scale Development & Psychometric Validation）** 是心理学、教育学及社会科学中，依据[[Classical Test Theory\|经典测量理论]]（Classical Test Theory, CTT）或[[Item Response Theory\|项目反应理论]]（Item Response Theory, IRT），将抽象、复杂且不可直接观测的[[Construct\|理论构念]]（如态度、信念、素养、动机、效能感等潜[[Variable\|变量]]）[[Operationalization\|操作化]]为一组标准化、可量化测度的指标题项，并通过多阶段独立样本实证检验确立其构念维度、[[Content Validity\|内容效度]]、[[Construct Validity\|结构效度]]、[[Reliability\|信度]]体系及跨群体[[Measurement Invariance\|测量等值性]]的系统方法论体系。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, pp. 4–6)]]
+> **量表编制与心理计量验证（Scale Development & Psychometric Validation）** 是心理学、教育学及社会科学中，依据[[Classical Test Theory\|经典测量理论]]（Classical Test Theory, CTT）或[[Item Response Theory\|项目反应理论]]（Item Response Theory, IRT），将抽象、复杂且不可直接观测的[[Construct\|理论构念]]（如[[Student Attitude|态度]]、信念、素养、动机、效能感等潜[[Variable\|变量]]）[[Operationalization\|操作化]]为一组标准化、可量化测度的指标题项，并通过多阶段独立样本实证检验确立其构念维度、[[Content Validity\|内容效度]]、[[Construct Validity\|结构效度]]、[[Reliability\|信度]]体系及跨群体[[Measurement Invariance\|测量等值性]]的系统方法论体系。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, pp. 4–6)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 无法直接物理测量的个体心理特质、专业素养、认知图式、情感态度、行为意向或组织环境感知。
@@ -151,7 +153,7 @@ updated: 2026-11-11
 > |:---|:---|:---|:---|:---|
 > | **[[Content Validity Index\|内容效度指数（CVI / CVR）]]** | **专家[[Content Validity\|内容效度]]量化工具** | 将同行专家对题项适切性的定性判断转化为定量指标，解决初始题池主观随意性问题。 | Lynn 判定标准：6–10 位专家时，题项级 **$\text{I-CVI} \ge .78$**，量表级 **$\text{S-CVI/Ave} \ge .90$**；Lawshe CVR 达显著水平。 | 🔗 [[Content Validity Index]] |
 > | **[[Delphi Technique\|德尔菲法（Delphi Technique）]]** | **专家共识汇聚方法** | 解决不同专家对[[Construct\|构念]]维度与题项表述意见分歧的问题，通过多轮匿名函询形成稳定共识。 | 专家积极系数 $> 80\%$，专家权威系数 $Cr \ge 0.70$，肯德尔和谐系数（Kendall's $W$）检验显著（$p < .05$）。 | 🔗 [[Delphi Technique]] |
-> | **[[Pilot Testing\|预测试与认知访谈（Pilot Testing）]]** | **目标群体试读与质控** | 解决题项语言对一线被试晦涩难懂、存在双重否定或理解偏差的痛点。 | 收集 10–20 位目标被试的逐题出声思考（Think-aloud）反馈，消除所有歧义题项。 | 🔗 [[Pilot Testing]] |
+> | **[[Pilot Testing\|预测试与认知访谈（Pilot Testing）]]** | **目标群体试读与质控** | 解决题项语言对一线被试晦涩难懂、存在双重否定或理解偏差的痛点。 | 收集 10–20 位目标被试的逐题[[Think-Aloud\|出声思考]]（Think-aloud）反馈，消除所有歧义题项。 | 🔗 [[Pilot Testing]] |
 
 > [!proc] 阶段一核心操作规程与题池开发步骤
 > 1. **理论构念操作化与题池编制** 基于系统文献综述明确构念外延与内涵，编写 3–4 倍于目标题数的题项池（40–80 题），避免双重陈述与复杂双重否定，设定平衡的李克特计分点。
@@ -221,7 +223,7 @@ updated: 2026-11-11
 > - **一阶方程** 将观测题项向量 $\boldsymbol{X}$ 分解为由一阶潜变量 $\boldsymbol{\xi}$ 乘以因子载荷矩阵 $\boldsymbol{\Lambda}_x$ 加上测量残差 $\boldsymbol{\delta}$；
 > - **二阶方程** 将一阶因子向量 $\boldsymbol{\xi}$ 进一步回归到更高阶的统整潜变量 $\boldsymbol{\Xi}$ 上，由二阶载荷矩阵 $\boldsymbol{\Gamma}$ 统摄，残余变异为 $\boldsymbol{\zeta}$。
 >
-> **数学直觉** 二阶高阶模型检验各个一阶维度（如研究意识、态度、技能、使用）是否均隶属于一个统摄性的全局构念（如总体“[[Research Literacy\|研究素养]]”）。二阶拟合良好为研究者在实践中直接计算量表总分提供了坚实的心理测量学合法性。
+> **数学直觉** 二阶高阶模型检验各个一阶维度（如研究意识、[[Student Attitude|态度]]、技能、使用）是否均隶属于一个统摄性的全局构念（如总体“[[Research Literacy\|研究素养]]”）。二阶拟合良好为研究者在实践中直接计算量表总分提供了坚实的心理测量学合法性。
 
 > [!feature] 阶段三核心指标与判定门槛
 > - **模型拟合优良标准** $\chi^2/df < 3.0$、$\text{RMSEA} < 0.08$、$\text{SRMR} < 0.08$、$\text{CFI} \ge 0.90$、$\text{TLI} \ge 0.90$。

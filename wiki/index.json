@@ -12781,6 +12781,17 @@
     ]
   },
   {
+    "title": "Effective Factor Bundle",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Effective Factor Bundle.md",
+    "aliases": [
+      "强效因子束",
+      "Wirkstarkes Faktorenbündel",
+      "教学因子束",
+      "因子束"
+    ]
+  },
+  {
     "title": "Effective Teaching",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Effective Teaching.md",
@@ -13799,6 +13810,18 @@
     "path": "wiki/concepts/instruction-pedagogy/Testing Monitoring Tools.md",
     "aliases": [
       "测验监测工具"
+    ]
+  },
+  {
+    "title": "Think-Aloud",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Think-Aloud.md",
+    "aliases": [
+      "出声思考",
+      "有声思维",
+      "思维出声法",
+      "Lautes Denken",
+      "Think-Aloud Protocol"
     ]
   },
   {
@@ -38716,6 +38739,18 @@
     "path": "wiki/persons/us/David Tyack.md",
     "aliases": [
       "david-tyack"
+    ]
+  },
+  {
+    "title": "David W. Johnson",
+    "type": "person",
+    "path": "wiki/persons/us/David W. Johnson.md",
+    "aliases": [
+      "Johnson, D. W.",
+      "戴维·约翰逊",
+      "大卫·约翰逊",
+      "戴维·W. 约翰逊",
+      "David Johnson"
     ]
   },
   {

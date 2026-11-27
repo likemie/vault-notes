@@ -7,9 +7,9 @@ title: "Argument_Terhart_2014_Kallmeyer"
 argument_key: "Argument_Terhart_2014_Kallmeyer"
 argument_display_title: "Die Hattie-Studie in der Diskussion: Probleme sichtbar machen"
 argument_kind: "edited-volume"
-argument_related_count: 38
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 42
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#e5e7eb"
 authors: []
 editors:
@@ -38,6 +38,10 @@ related_concepts:
   - "[[Teacher-as-Researcher]]"
   - "[[Instructional Design]]"
   - "[[Evidence-Based Teaching]]"
+  - "[[Effective Factor Bundle]]"
+  - "[[Problem-Solving Teaching]]"
+  - "[[Problem-Based Learning]]"
+  - "[[Visible Learning]]"
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
@@ -70,7 +74,7 @@ related_facts:
   - "[[KMK-Bildungsstandards]]"
 status: "draft"
 created: "2026-10-17"
-updated: 2026-11-27
+updated: 2026-11-28
 ---
 
 > [!volume-profile] 阅读档案
@@ -101,9 +105,9 @@ updated: 2026-11-27
 
 > [!chapter-index] 篇章阅读入口
 > - **第 5 篇，学校结构因素真的不重要吗** [[Argument_Rolff_2014_SchoolStructure|Sind schulische Strukturfaktoren wirklich nicht so wichtig? Hattie und das deutsche Schulsystem]]。[[Hans-Günter Rolff]]，pp. 67–77。指出哈蒂基于综合制英语国家的数据无法外推至早期分流的德国多轨制，结合 [[PISA]]、[[PIRLS|IGLU]] 与 STAR 实证论证外部学制决定机会均等及校内系统变革的必要性。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch05_Rolff_School_Structural_Factors.txt)。已完成解读。
-> - **第 6 篇，[[Cooperative Learning|合作学习]]对学习有多大作用** [[Argument_Kremers_2014_CooperativeLearning|Wie lernwirksam ist das Kooperative Lernen? Lernen in kooperativen Strukturen auf dem Prüfstand der Hattie-Studie]]。Thomas Kremers，pp. 78–88。驳斥德国教师室借哈蒂研究否定合作学习并复辟传统讲授的误读，结合五大心理基石与四组元分析显性效应（对比个体学习 $d = 0.59$），借助十二项高排名特征因子构成的“强效因子束”论证合作学习的高成效及与激活型讲授结合的实践路径。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch06_Kremers_Cooperative_Learning.txt)。已完成解读。
-> - **第 7 篇，数学教学论中的可见学习与[[Problem Solving|问题解决]]** [[Argument_Reiss_Bernhard_2014_MathematicsEducation|Hatties Visible Learning im Kontext der Mathematikdidaktik: Das Beispiel Problemlösen]]。Kristina Reiss; Matthias Bernhard，pp. 89–100。以数学问题解决为例拆解“问题解决教学”（$d = 0.61$）与“问题本位学习”（$d = 0.15$）排名悬殊背后的关键词聚合与算术平均遮蔽机制，结合 [[PISA]]、[[TIMSS]] 与 [[KMK-Bildungsstandards]] 论证理论驱动元分析与国别制度校准的必要性。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch07_Reiss_Bernhard_Mathematics_Education.txt)。已完成解读。
-> - **第 8 篇，有效的学科教学，历史教学论的视角** Wirksamer Fachunterricht: Visible Learning in geschichtsdidaktischer Perspektive。Marko Demantowsky; Monika Waldis，pp. 101–116。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch08_Demantowsky_Waldis_History_Education.txt)。待解读。
+> - **第 6 篇，[[Cooperative Learning|合作学习]]对学习有多大作用** [[Argument_Kremers_2014_CooperativeLearning|Wie lernwirksam ist das Kooperative Lernen? Lernen in kooperativen Strukturen auf dem Prüfstand der Hattie-Studie]]。Thomas Kremers，pp. 78–88。驳斥德国教师室借哈蒂研究否定合作学习并复辟传统讲授的误读，结合五大心理基石与四组元分析显性效应（对比个体学习 $d = 0.59$），借助十二项高排名特征因子构成的“[[Effective Factor Bundle|强效因子束]]”论证合作学习的高成效及与激活型讲授结合的实践路径。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch06_Kremers_Cooperative_Learning.txt)。已完成解读。
+> - **第 7 篇，数学教学论中的可见学习与[[Problem Solving|问题解决]]** [[Argument_Reiss_Bernhard_2014_MathematicsEducation|Hatties Visible Learning im Kontext der Mathematikdidaktik: Das Beispiel Problemlösen]]。Kristina Reiss; Matthias Bernhard，pp. 89–100。以数学问题解决为例拆解“[[Problem-Solving Teaching|问题解决教学]]”（$d = 0.61$）与“[[Problem-Based Learning|问题本位学习]]”（$d = 0.15$）排名悬殊背后的关键词聚合与算术平均遮蔽机制，结合 [[PISA]]、[[TIMSS]] 与 [[KMK-Bildungsstandards]] 论证理论驱动元分析与国别制度校准的必要性。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch07_Reiss_Bernhard_Mathematics_Education.txt)。已完成解读。
+> - **第 8 篇，有效的学科教学，历史教学论的视角** Wirksamer Fachunterricht: [[Visible Learning]] in geschichtsdidaktischer Perspektive。Marko Demantowsky; Monika Waldis，pp. 101–116。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch08_Demantowsky_Waldis_History_Education.txt)。待解读。
 
 > [!chapter-index] 篇章阅读入口
 > - **第 9 篇，关键在教学，学习解释哈蒂的数据** Auf den Unterricht kommt es an! Hatties Daten deuten lernen。[[Hilbert Meyer]]，pp. 117–133。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch09_Meyer_Interpreting_Hatties_Data.txt)。待解读。

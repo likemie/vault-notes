@@ -9814,11 +9814,9 @@
     "Giedd et al., 1999": "Giedd et al., 1999",
     "Giere (1999)": "Giere, 1999",
     "Giere, 1999": "Giere, 1999",
-    "Gijbels et al. (2005a)": "Gijbels et al., 2005a",
-    "Gijbels et al. (2005b)": "Gijbels et al., 2005b",
-    "Gijbels et al., 2005": "Gijbels et al., 2005a",
-    "Gijbels et al., 2005a": "Gijbels et al., 2005b",
-    "Gijbels et al., 2005b": "Gijbels et al., 2005b",
+    "Gijbels et al. (2005)": "Gijbels et al., 2005",
+    "Gijbels et al., 2005": "Gijbels et al., 2005",
+    "Gijbels et al., 2005a": "Gijbels et al., 2005",
     "Gijselaers (1996)": "Gijselaers, 1996",
     "Gijselaers, 1996": "Gijselaers, 1996",
     "Gilbert & Troitzsch (2005)": "Gilbert & Troitzsch, 2005",
@@ -33968,7 +33966,7 @@
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md",
         "wiki/concepts/competency-and-assessment/Problem Solving.md"
       ],
-      "title": ""
+      "title": "Mathematical problem solving"
     },
     "Alan Jacobs, 2009": {
       "aliases": [
@@ -52716,7 +52714,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
       ],
-      "title": ""
+      "title": "Lerngelegenheiten angehender Mathematiklehrkräfte für die Sekundarstufe I im internationalen Vergleich"
     },
     "Boardman & Woodruff, 2004": {
       "aliases": [
@@ -72727,7 +72725,7 @@
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md",
         "wiki/methods/qualitative/Systematic Review.md"
       ],
-      "title": ""
+      "title": "The handbook of research synthesis"
     },
     "Cooper & Koenka, 2012": {
       "aliases": [
@@ -80358,7 +80356,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
       ],
-      "title": ""
+      "title": "Schülerleistungen im internationalen Vergleich. Eine neue Rahmenkonzeption für die Erfassung von Wissen und Fähigkeiten"
     },
     "Deutsches PISA-Konsortium, 2001": {
       "aliases": [
@@ -101555,7 +101553,7 @@
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md",
         "wiki/concepts/competency-and-assessment/Problem Solving.md"
       ],
-      "title": ""
+      "title": "Schule des Denkens. Vom Lösen mathematischer Probleme"
     },
     "George Smith, 2000": {
       "aliases": [
@@ -102528,14 +102526,15 @@
       ],
       "title": ""
     },
-    "Gijbels et al., 2005a": {
+    "Gijbels et al., 2005": {
       "aliases": [
-        "Gijbels et al., 2005a",
-        "Gijbels et al. (2005a)"
+        "Gijbels et al., 2005",
+        "Gijbels et al. (2005)"
       ],
       "doi": "",
       "identity_keys": [
-        "Gijbels et al., 2005"
+        "Gijbels et al., 2005",
+        "Gijbels et al., 2005a"
       ],
       "isbn": "",
       "seen_in": [
@@ -102545,20 +102544,7 @@
         "wiki/concepts/research-methodology/Critique of Meta-analysis.md",
         "wiki/methods/quantitative/Effect Size Conversion.md"
       ],
-      "title": ""
-    },
-    "Gijbels et al., 2005b": {
-      "aliases": [
-        "Gijbels et al., 2005b",
-        "Gijbels et al. (2005b)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Gijbels et al., 2005a"
-      ],
-      "isbn": "",
-      "seen_in": [],
-      "title": "Effects of problem-based learning: a meta-analysis from the angle of assessment"
+      "title": "Effects of problem-based learning. A meta-analysis from the angle of assessment"
     },
     "Gijselaers, 1996": {
       "aliases": [
@@ -107411,7 +107397,8 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md",
         "wiki/concepts/educational-philosophy/Democratic Education.md",
-        "wiki/concepts/teacher-education/Professional Learning Community.md"
+        "wiki/concepts/teacher-education/Professional Learning Community.md",
+        "wiki/persons/us/David W. Johnson.md"
       ],
       "title": "Kooperatives Lernen im Klassenraum und im Kollegium"
     },
@@ -117971,7 +117958,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
       ],
-      "title": ""
+      "title": "Was ist guter Unterricht?"
     },
     "Hildebrand, 1997": {
       "aliases": [
@@ -141035,7 +141022,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
       ],
-      "title": ""
+      "title": "Bildungsstandards im Fach Mathematik für den Mittleren Schulabschluss"
     },
     "Kultusministerkonferenz, 2004": {
       "aliases": [
@@ -141050,7 +141037,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
       ],
-      "title": ""
+      "title": "Bildungsstandards im Fach Mathematik für den Primarbereich"
     },
     "Kumar, 1991": {
       "aliases": [
@@ -146824,7 +146811,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
       ],
-      "title": ""
+      "title": "Die Problemlösekompetenz in den Ländern der Bundesrepublik Deutschland"
     },
     "Leuven & Oosterbeek, 2018": {
       "aliases": [
@@ -177640,7 +177627,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
       ],
-      "title": ""
+      "title": "Choreographies of teaching: Bridging instruction to learning"
     },
     "Osgood et al., 1957": {
       "aliases": [
@@ -180840,7 +180827,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
       ],
-      "title": ""
+      "title": "The heart of mathematics"
     },
     "Paul Romer, 1986": {
       "aliases": [
@@ -188086,7 +188073,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
       ],
-      "title": ""
+      "title": "Schule des Denkens. Vom Lösen mathematischer Probleme"
     },
     "Pöggeler, 1974": {
       "aliases": [
@@ -191168,7 +191155,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
       ],
-      "title": ""
+      "title": "Kompetenzstufenmodelle im Fach Mathematik"
     },
     "Reiter, 2019": {
       "aliases": [
@@ -195562,7 +195549,7 @@
         "wiki/facts/global/PISA.md",
         "wiki/facts/global/TIMSS.md"
       ],
-      "title": ""
+      "title": "Der Ländervergleich im Fach Mathematik"
     },
     "Rorty, 1979": {
       "aliases": [
@@ -202634,7 +202621,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
       ],
-      "title": ""
+      "title": "Mathematikunterricht in Deutschland: Befunde aus PISA 2012"
     },
     "Schifano, 2011": {
       "aliases": [
@@ -217145,7 +217132,7 @@
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md",
         "wiki/facts/global/TIMSS.md"
       ],
-      "title": ""
+      "title": "The TIMSS videotape classroom study. Methods and findings from an exploratory research project on eighth-grade mathematics instruction in Germany, Japan, and the United States"
     },
     "Stiglitz, 2002": {
       "aliases": [
@@ -220161,7 +220148,7 @@
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
       ],
-      "title": ""
+      "title": "Zwischen Grundlagenwissen und Anwendungsbezug. Mathematische Kompetenz im internationalen Vergleich"
     },
     "Sénéchal & Young, 2008": {
       "aliases": [

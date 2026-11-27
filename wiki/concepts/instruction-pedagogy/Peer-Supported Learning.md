@@ -12,10 +12,10 @@ aliases:
 summary: "涵盖学生间协同探究与教师间教研协作的双层互助学习范式；在学生层面通过认知外显与包容试错促进深度理解，在教师层面依托教研室信任文化与经验共享维系专业共同体，构成抵御新自由主义绩效工资零和竞争侵蚀的核心屏障。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 45
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 52
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - instruction
   - pedagogy
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Cooperative Learning]]"
   - "[[Learning Virtues]]"
   - "[[Humility]]"
+  - "[[Reciprocal Teaching]]"
   - "[[Effective Teaching]]"
   - "[[Alienation]]"
   - "[[New Public Management]]"
@@ -40,56 +41,62 @@ related_concepts:
   - "[[Task Structure]]"
   - "[[Zero-Sum Competition]]"
   - "[[Nerd]]"
+  - "[[Brain Drain]]"
   - "[[Metacognition]]"
   - "[[The Sublime]]"
   - "[[Learning Strategies]]"
   - "[[Homework]]"
+  - "[[Student Attitude]]"
   - "[[Academic Achievement]]"
   - "[[Visible Learning]]"
   - "[[School Leadership]]"
   - "[[Professional Judgment]]"
   - "[[Neoliberalism]]"
+  - "[[Effective Factor Bundle]]"
+  - "[[Problem Solving]]"
+  - "[[Co-Teaching]]"
+  - "[[Student-Teacher Relationship]]"
   - "[[Teacher Trust]]"
+  - "[[Think-Pair-Share]]"
   - "[[Professional Learning Community]]"
   - "[[Scaffolding]]"
   - "[[Mimesis]]"
   - "[[Cooperative Integrated Reading and Composition]]"
   - "[[Benevolence]]"
-  - "[[Chain of Evidence]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Longitudinal Study]]"
   - "[[Action Research]]"
+  - "[[Meta-meta-analysis]]"
   - "[[Fieldwork]]"
-  - "[[Effect Size]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Ivan Snook]]"
   - "[[Jin Li]]"
-  - "[[Ben Levin]]"
   - "[[Robert Slavin]]"
 related_facts:
   - "[[The Scott Report]]"
   - "[[Three Excellences]]"
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
+  - "[[Argument_Kremers_2014_CooperativeLearning]]"
   - "[[Argument_Snook_2009_NZJES]]"
 confidence: high
 status: active
 created: 2026-05-25
-updated: 2026-11-26
+updated: 2026-11-28
 ---
 
 > [!def] Peer-Supported Learning
 > **同伴互助学习（Peer-Supported Learning）** 是一种在教育[[Champ|场域]]中通过平权或准平权的人际互动、协作对话与经验共享来促进[[Knowledge Building Theory|知识建构]]与专业成长的系统性学习[[Paradigm|范式]]。该概念包含两个不可分割的核心实践维度：
-> 1. **微观学生维度（Student Peer Tutoring & [[Cooperative Learning]]）** 学生之间跨越能力阶差的结对辅导、小组协同解题与策略分享。在东亚文化脉络中，同伴关系根植于“同学”（一同学习的同道之人）的文化语义，优生帮扶后进生被视为践行慷慨与社会责任的[[Learning Virtues|学习美德]]，后进生则以[[Humility|谦逊]]求教，从而在集体互助中消解孤立竞争的焦虑（[[Argument_Li_2012_Cambridge|Li, 2012, pp. 200–208]]）。在西方循证[[Meta-analysis|元分析]]中，互惠教学与同伴辅导同样展现出稳定的学业促进效应（[[Argument_Kremers_2014_CooperativeLearning|Kremers, 2014, pp. 82–86]]）。
+> 1. **微观学生维度（Student Peer Tutoring & [[Cooperative Learning]]）** 学生之间跨越能力阶差的结对辅导、小组协同解题与策略分享。在东亚文化脉络中，同伴关系根植于“同学”（一同学习的同道之人）的文化语义，优生帮扶后进生被视为践行慷慨与社会责任的[[Learning Virtues|学习美德]]，后进生则以[[Humility|谦逊]]求教，从而在集体互助中消解孤立竞争的焦虑（[[Argument_Li_2012_Cambridge|Li, 2012, pp. 200–208]]）。在西方循证[[Meta-analysis|元分析]]中，[[Reciprocal Teaching|互惠教学]]与同伴辅导同样展现出稳定的学业促进效应（[[Argument_Kremers_2014_CooperativeLearning|Kremers, 2014, pp. 82–86]]）。
 > 2. **中观教师维度（Teacher Peer Collaboration & Learning Culture）** 教师团队在教研室与学校组织中形成的关怀、支持、包容试错以及彼此观摩研讨的专业同伴文化（Peer culture among teachers）。[[John Hattie|约翰·哈蒂]]（[[John Hattie]]）与新西兰学者[[Ivan Snook|斯努克]]等人指出，学校教育质量改进与[[Effective Teaching|有效教学]]的根本动力，在于教师之间基于互信与共同激情的同伴专业学习网络（[[Argument_Snook_2009_NZJES|Snook et al., 2009, pp. 103–104]]）。
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 揭示学习过程具有本质的社会性与关系性，无论是儿童认知发展还是教师专业成长，均深度依赖于去阶层化、充满心理安全感的人际对话网络。
-> - **用途** 用于指导差异化课堂小组合作、课代表与小先生制度设计，并作为反思学校组织气候、评估[[New Public Management|新公共管理]]（NPM）[[Performance Pay|绩效工资]]政策[[Side Effects|副作用]]的批判透镜。
+> - **用途** 用于指导差[[Alienation|异化]]课堂小组合作、课代表与小先生制度设计，并作为反思学校组织气候、评估[[New Public Management|新公共管理]]（NPM）[[Performance Pay|绩效工资]]政策[[Side Effects|副作用]]的批判透镜。
 > - **边界** 严格区别于无结构的放任小组闲聊，亦区别于外部行政强推的表面教研听课走过场；真正的同伴互助以**平权互信**与**包容错误（tolerance of errors as learning opportunities）** 为[[Ontology|本体论]]前提。
 
 > [!boundary]- 概念边界
@@ -106,7 +113,7 @@ updated: 2026-11-26
 > | **错误定位** | **宝贵的学习与反思契机** | 暴露短板的致命污点，极力掩饰 | 独立自纠或系统报错反馈 | 影响绩效考核的惩罚依据 |
 > | **互动动机** | 践行[[Learning Virtues\|学习美德]]、实现团队共同进阶 | 独占优质资源、维持排他优势 | 自我完成任务进度 | 追求外部经济激励、防范同行超越 |
 > | **典型场景** | 小组微型辅导、课代表制度、教师互信教研室 | 模考红黑榜排名、尖子生孤立封锁资料 | 自习单独立做题、软件单机操练 | 差额绩效考评、末位淘汰制 |
-> | **长远效应** | 激发深层动机、锻造高社会资本学习共同体 | 催生群体焦虑、学优生遭受污名（如 [[Nerd]]） | 社交技能孤立、缺乏协作素养 | 瓦解教师教研合作、引发防御性教学与人才流失 |
+> | **长远效应** | 激发深层动机、锻造高社会资本学习共同体 | 催生群体焦虑、学优生遭受污名（如 [[Nerd]]） | 社交技能孤立、缺乏协作素养 | 瓦解教师教研合作、引发防御性教学与[[Brain Drain\|人才流失]] |
 
 ---
 
@@ -114,7 +121,7 @@ updated: 2026-11-26
 > **认知重构与文化美德的协同效应** 给他人讲解是最高阶的[[Metacognition|元认知]]激活方式，而在集体互助文化中求助与施助被赋予了[[The Sublime|崇高]]道德价值。
 
 > [!claim] [[Jin Li|Li, J.]]; Chen et al.
-> **东亚“同学”伦理对零和博弈的制度性超越** 跨文化实证研究表明，在东亚学校文化中，同伴互助不仅是[[Learning Strategies|认知策略]]，更是深刻的道德实践。通过课代表制度、一对一结对帮扶（兵教兵）以及小组共同完成[[Homework|作业]]，高成就学生通过向同伴讲解深化学科理解，展现慷慨与社会责任；低成就学生则以[[Humility|谦逊]]态度寻求指导。由于教师的评价部分取决于全班整体进步幅度，学生群体自发形成了尊重榜样、渴望向高成就者看齐的同伴风尚，彻底改写了西方校园中将刻苦学者污名化为“[[Nerd|书呆子]]”（[[Nerd]]）的逆反亚文化。大规模[[Longitudinal Study|纵向研究]]进一步确证，加入互助型同伴群体的学生，其社交技能与[[Academic Achievement|学业成就]]呈现长周期的双向强化。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 200–208)]]
+> **东亚“同学”伦理对零和博弈的制度性超越** 跨文化实证研究表明，在东亚学校文化中，同伴互助不仅是[[Learning Strategies|认知策略]]，更是深刻的道德实践。通过课代表制度、一对一结对帮扶（兵教兵）以及小组共同完成[[Homework|作业]]，高成就学生通过向同伴讲解深化学科理解，展现慷慨与社会责任；低成就学生则以[[Humility|谦逊]][[Student Attitude|态度]]寻求指导。由于教师的评价部分取决于全班整体进步幅度，学生群体自发形成了尊重榜样、渴望向高成就者看齐的同伴风尚，彻底改写了西方校园中将刻苦学者污名化为“[[Nerd|书呆子]]”（[[Nerd]]）的逆反亚文化。大规模[[Longitudinal Study|纵向研究]]进一步确证，加入互助型同伴群体的学生，其社交技能与[[Academic Achievement|学业成就]]呈现长周期的双向强化。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 200–208)]]
 
 ---
 
@@ -134,11 +141,11 @@ updated: 2026-11-26
 
 ---
 
-> [!concept-proposition] 命题四｜高同伴参与度与结构化因子束协同决定同伴互助的教学增效边界
-> **元分析效应背后的组织与关系前提** 同伴互动对学习兴趣和问题解决的促进效应依赖充分的同伴卷入、事前训练、策略支架与稳定的师生信任前置条件。
+> [!concept-proposition] 命题四｜高同伴参与度与结构化[[Effective Factor Bundle|因子束]]协同决定同伴互助的教学增效边界
+> **元分析效应背后的组织与关系前提** 同伴互动对学习兴趣和[[Problem Solving|问题解决]]的促进效应依赖充分的同伴卷入、事前训练、策略支架与稳定的师生信任前置条件。
 
 > [!claim] Hattie, J.; Beywl, W. & Zierer, K.; Kremers, T.
-> **同伴权重、结构引导与因子束协同放大** [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014, pp. 82–86)]] 梳理哈蒂二阶元分析（Hattie, 2013, pp. 251–252）指出，无论是合作学习还是竞争学习均优于单纯个人学习，印证了同伴在学习进程中的决定性分量；当课堂具备高同伴卷入时，合作型同伴互动能优先拉升学生的学习兴趣与问题解决能力。而在高校小组学习元分析中（Hattie, 2013, p. 113），同伴互助只在学生具有小组训练或引导经验、应用专门合作策略且小组规模精干时才显现显著增益。贝夫尔与齐勒（Beywl & Zierer; Hattie, 2013, p. IX）更进一步提醒，同伴辅导（Peer-Tutoring）作为复杂合作安排的内在特征因子，若与单独作用偏弱的[[Co-Teaching|协同教学]]（Team-Teaching）等要素结合，能够形成超越单一效应相加的“强效因子束”，但这一互助机制仍须先有互信安全且积极赋能的[[Student-Teacher Relationship|师生关系]]打底才能顺利运转（pp. 83, 85–86）。
+> **同伴权重、结构引导与因子束协同放大** [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014, pp. 82–86)]] 梳理哈蒂[[Meta-meta-analysis|二阶元分析]]（Hattie, 2013, pp. 251–252）指出，无论是合作学习还是竞争学习均优于单纯个人学习，印证了同伴在学习进程中的决定性分量；当课堂具备高同伴卷入时，合作型同伴互动能优先拉升学生的学习兴趣与问题解决能力。而在高校小组学习元分析中（Hattie, 2013, p. 113），同伴互助只在学生具有小组训练或引导经验、应用专门合作策略且小组规模精干时才显现显著增益。贝夫尔与齐勒（Beywl & Zierer; Hattie, 2013, p. IX）更进一步提醒，同伴辅导（Peer-Tutoring）作为复杂合作安排的内在特征因子，若与单独作用偏弱的[[Co-Teaching|协同教学]]（Team-Teaching）等要素结合，能够形成超越单一效应相加的“强效因子束”，但这一互助机制仍须先有互信安全且积极赋能的[[Student-Teacher Relationship|师生关系]]打底才能顺利运转（pp. 83, 85–86）。
 
 ---
 
@@ -154,10 +161,10 @@ updated: 2026-11-26
 
 > [!dev-timeline] 概念演变历程
 > - **古代与近代初期 — 传统同道互学与导生制（Monitorial System）** 儒家“独学而无友，则孤陋而寡闻”确立同道互学伦理；19 世纪贝尔与兰卡斯特在英美推行导生制，利用大龄学生辅导幼童以应对师资匮乏。
-> - **1970–1980 年代 — [[Cooperative Learning|合作学习]]（Cooperative Learning）兴起** 罗伯特·斯拉文（[[Robert Slavin]]）与约翰逊兄弟（Johnson & Johnson）系统研发学生团队学习理论，确立积极互赖与个体责任原则。
+> - **1970–1980 年代 — [[Cooperative Learning|合作学习]]（Cooperative Learning）兴起** [[Robert Slavin|罗伯特·斯拉文]]（[[Robert Slavin]]）与约翰逊兄弟（Johnson & Johnson）系统研发学生团队学习理论，确立积极互赖与个体责任原则。
 > - **2000 年代初 — 东亚[[Learning Virtues|学习美德]]与文化同伴比较** [[Jin Li|李瑾]]（Jin Li, 2012）等学者系统揭示东亚学校在“同学”伦理下将同伴互助制度化为日常美德实践，与西方校园的零和欺凌文化形成鲜明对比。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 200–208)]]
 > - **2008–2009 年 — 教师同伴文化被确立为学校改进的核心命题** [[John Hattie|哈蒂]]出版《[[Visible Learning|可见的学习]]》，将教师间包容试错的同伴文化置于核心地位；[[Ivan Snook|斯努克]]等人（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）进一步将其拓展为批判新自由主义[[Performance Pay|绩效工资]]破坏专业互助的有力武器。
-> - **2013–2014 年 — 因子束协同与双人配对支架化整合** 哈蒂德译本序言提出协同教学与同伴辅导的因子束模型，[[Argument_Kremers_2014_CooperativeLearning|Kremers (2014, pp. 80–86)]] 则确立了“独学打底→双人配对（Think-Pair-Share）→小组互动”的同伴互助操作顺序，并界定同伴辅导在合作课堂与安全师生关系中的协同条件。
+> - **2013–2014 年 — 因子束协同与双人配对支架化整合** 哈蒂德译本序言提出协同教学与同伴辅导的因子束模型，[[Argument_Kremers_2014_CooperativeLearning|Kremers (2014, pp. 80–86)]] 则确立了“独学打底→双人配对（[[Think-Pair-Share]]）→小组互动”的同伴互助操作顺序，并界定同伴辅导在合作课堂与安全师生关系中的协同条件。
 > - **2010 年代至今 — [[Professional Learning Community|专业学习共同体]]（PLC）与教师合作深度发展** 全球教育界普遍倡导校本教研团队与跨校同伴研修，但在部分地区面临官僚化打卡与过度绩效考核的异化威胁。
 
 > [!debates|notitle] 学术争议

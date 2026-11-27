@@ -5,7 +5,7 @@ aliases:
 summary: "John Hattie 发起的教育证据综合与学校改进框架，主张通过汇总海量元分析建立 d=0.40 关节点相对有效性判准，将教师确立为成就变异的核心因果枢纽（30%），依托学业进阶、显性成功标准与形成性反馈重塑教学评价性判断。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 192
+related_count: 197
 related_level: 19
 related_stars: "💎💎💎💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -75,6 +75,11 @@ related_concepts:
   - "[[Intentionality]]"
   - "[[Constructivist Paradigm]]"
   - "[[Instructional Design]]"
+  - "[[Effective Factor Bundle]]"
+  - "[[Cooperative Learning]]"
+  - "[[Teacher Clarity]]"
+  - "[[Student-Teacher Relationship]]"
+  - "[[Teacher as Activator]]"
   - "[[Metascience]]"
   - "[[Evidence-Based Teaching]]"
   - "[[Critic and Conscience of Society]]"
@@ -104,10 +109,8 @@ related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Publication Bias]]"
   - "[[Teacher Immediacy]]"
-  - "[[Teacher as Activator]]"
   - "[[Data Infrastructure]]"
   - "[[Teacher Subject Matter Knowledge]]"
-  - "[[Cooperative Learning]]"
   - "[[Teacher Collaboration]]"
   - "[[Research Utilization]]"
   - "[[Science and Technology Studies]]"
@@ -160,6 +163,7 @@ related_persons:
   - "[[B. F. Skinner]]"
   - "[[Robert Glaser]]"
   - "[[Donald A. Schön]]"
+  - "[[Christian Wolff]]"
   - "[[Jürgen Habermas]]"
 related_facts:
   - "[[Visible Learning Branding and Global Influences]]"
@@ -200,6 +204,7 @@ related_arguments:
   - "[[Argument_Koller_2014_WhatWorks]]"
   - "[[Argument_Kelly_2025_ROE]]"
   - "[[Argument_Eacott_2019_IJLE]]"
+  - "[[Argument_Kremers_2014_CooperativeLearning]]"
   - "[[Argument_Bergeron_2017_MJE]]"
   - "[[Argument_Terhart_2014_HolyGrail]]"
   - "[[Argument_Bates_2017_CognitionEducationTrust]]"
@@ -211,12 +216,12 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
   - "[[Argument_VonOlberg_2014_GeneralDidactics]]"
   - "[[Argument_Rolff_2014_SchoolStructure]]"
-  - "[[Argument_Kremers_2014_CooperativeLearning]]"
+  - "[[Argument_Reiss_Bernhard_2014_MathematicsEducation]]"
   - "[[Argument_Nielsen_2021_IRTP]]"
 confidence: high
 status: stable
 created: 2026-05-02
-updated: 2026-11-26
+updated: 2026-11-28
 ---
 
 > [!tip] 知识网络与子条目维护分流指引
@@ -367,7 +372,7 @@ updated: 2026-11-26
 > **[[Positivism|实证主义]][[Technical Rationality|技术理性]]、[[Behaviorism|行为主义]]工程论与学习者[[Intentionality|意向性]]消解** 尼尔森与克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）从思想史与科学哲学维度揭示，哈蒂表面上自称为[[Constructivist Paradigm|建构主义]]者，其实质学理底色深深植根于[[B. F. Skinner|斯金纳]]（B.F. Skinner）操作性条件反射与[[Robert Glaser|格拉泽]]（Robert Glaser）[[Instructional Design|教学设计]]的行为主义工程学传统，遵循[[Donald A. Schön|唐纳德·舍恩]]（Donald Schön）所批判的[[Technical Rationality|技术理性]]（Technical Rationality）范式。该范式将复杂的师生互动还原为线性的“输入-产出”因果变量对应关系，试图将教学活动拆解为可量化、可预设的标准技术规程；其致命盲区在于彻底抽空了学习者的主观意向性（Intentionality）以及师生间的主体间性承认，把活生生的学生客体化为被动接受刺激的因果终端。这种将教育简化为原子化技术指标的架构，为自上而下的[[Neo-Taylorism|新泰勒主义]]管理与绩效控制提供了理论掩护。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 47–49, 56–58)]]
 
 > [!claim] Kremers, T.
-> **强效因子束视角打破孤立排行误读与传统讲授复辟** 托马斯·克雷默斯（Thomas Kremers）结合德译修订版编者沃尔夫冈·贝伊尔（Wolfgang Beywl）与克劳斯·齐勒（Klaus Zierer）提出的强效因子束（wirkstarkes Faktorenbündel）构想指出，德国教师室借《可见的学习》宣称只需传统讲授、合作学习无效，根源于脱离文本的孤立排位误读。在 VL 体系中评判一种教学模式，必须超越单一榜单条目去追踪协同运作且内嵌于该模式的高成效因子束；例如[[Cooperative Learning|合作学习]]既通过元分析直接证实有效，更在日常结构中持续调动反思评价、教师清晰度、反馈与师生关系等多项高排名因素协同增效，同时哈蒂支持的激活型教师（Activator）要求将启发式讲解与激活参与结合，拒斥老式独白满堂灌。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, pp. 78, 83–88)]]
+> **[[Effective Factor Bundle|强效因子束]]视角打破孤立排行误读与传统讲授复辟** 托马斯·克雷默斯（Thomas Kremers）结合德译修订版编者[[Christian Wolff|沃尔夫]]冈·贝伊尔（Wolfgang Beywl）与克劳斯·齐勒（Klaus Zierer）提出的强效因子束（wirkstarkes Faktorenbündel）构想指出，德国教师室借《可见的学习》宣称只需传统讲授、[[Cooperative Learning|合作学习]]无效，根源于脱离文本的孤立排位误读。在 VL 体系中评判一种教学模式，必须超越单一榜单条目去追踪协同运作且内嵌于该模式的高成效因子束；例如[[Cooperative Learning|合作学习]]既通过元分析直接证实有效，更在日常结构中持续调动反思评价、[[Teacher Clarity|教师清晰度]]、反馈与[[Student-Teacher Relationship|师生关系]]等多项高排名因素协同增效，同时哈蒂支持的[[Teacher as Activator|激活型教师]]（Activator）要求将启发式讲解与激活参与结合，拒斥老式独白满堂灌。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, pp. 78, 83–88)]]
 
 ---
 
@@ -506,6 +511,7 @@ updated: 2026-11-26
 > - [[Argument_VonOlberg_2014_GeneralDidactics|von Olberg (2014)]] — 审视《可见的学习：教师版》五步行动框架、八项心智框架与德语区简化误读，将其置于英美循证教学与一般教学论对话中定性为方面教学论（pp. 51–65）。
 > - [[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]] — 指出《可见的学习》的综合制英语国家样本无法外推至早期分流的德国多轨制，批评德国舆论将其作“罗夏测验”式挪用并忽视学校系统属性（pp. 67–77）。
 > - [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014)]] — 驳斥将《可见的学习》误读为传统讲授复辟的倾向，从显性效应量与强效因子束交互论证[[Cooperative Learning|合作学习]]的高成效与实践边界（pp. 78–88）。
+> - [[Argument_Reiss_Bernhard_2014_MathematicsEducation|Reiss and Bernhard (2014)]] — 以数学问题解决为例拆解两类问题因子排名反差背后的关键词聚合与算术平均掩盖机制，论证理论模型与国别语境校准的必要性（pp. 89–98）。
 > - [[Argument_Fredens_2015_Paideia\|Fredens (2015)]] — 从学习科学与脑科学视角解读 VL，提出“使学校成为反馈文化”的组织转型主张。
 > - [[Argument_Nordahl_2015_Paideia\|Nordahl (2015)]] — 斯堪的纳维亚学派将 VL 重构为校本改进、[[Teacher Collaboration|教师协作]]研讨与能力建设的微观实践路径。
 > - [[Argument_Eacott_2019_IJLE\|Eacott (2019)]] — 批判 VL 在行政与商业推广中异化为[[Neo-Taylorism\|新泰勒主义]]控制与[[Cult of the Guru\|大师崇拜]]的制度风险。

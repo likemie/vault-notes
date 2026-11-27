@@ -7,7 +7,7 @@ aliases:
 summary: "以异质性小组为基本组织形式，依托积极互赖、面对面互动与个体责任协同促进学生学业成就、高阶思维与社会情感发展的社会建构主义教学范式；二阶元分析证实其对多维产出具有稳健促进效应（ES = 0.71），在高阶思维技能上的提升最为突出（ES = 0.76），并受具体技术与学科情境显著调节。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 62
+related_count: 64
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Publication Bias]]"
   - "[[Cognitive Activation]]"
   - "[[Reciprocal Teaching]]"
+  - "[[Effective Factor Bundle]]"
   - "[[Teacher Clarity]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Metacognition]]"
@@ -47,6 +48,7 @@ related_concepts:
   - "[[Ecological Validity]]"
   - "[[Teacher Expertise]]"
   - "[[Scaffolding]]"
+  - "[[Classroom Management]]"
   - "[[Evidence-Based Teaching]]"
   - "[[Sampling Error]]"
   - "[[21st Century Skills and Competencies Discourse]]"
@@ -88,7 +90,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-11-26
+updated: 2026-11-28
 ---
 
 > [!def] Cooperative Learning
@@ -157,7 +159,7 @@ updated: 2026-11-26
 > **深层[[Cognitive Activation|认知激活]]与高效代表形态** 德语区实证教育研究对二阶元分析的审读显示，结构化合作学习呈现出稳健的促学效应（$d = 0.41$）。其促学潜能的充分释放有赖于高结构化的任务设计与深度认知投入；在具体技术形态中，以交互式研讨与轮流讲解为特征的[[Reciprocal Teaching|互惠教学]]（$d = 0.74$）表现出最突出的学业成效。在[[Three Basic Dimensions of Teaching Quality|教学质量三大基准维度]]框架下，合作学习系统归属于[[Cognitive Activation|认知激活]]维度，通过引导学生在相互解释与质询中开展深层认知建构，推动实质学业提升。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, pp. 31, 35)]]
 
 > [!claim] Kremers
-> **四维能力整合与隐性因子束协同机制** 托马斯·克雷默斯（Thomas Kremers）指出，合作学习同步整合学科知识、社会交往、沟通表达与方法运用四类能力；以认知学业产出为核心的二阶元分析仅显性测量了其中学科能力一维，低估了其整体育人效力。此外，完整的合作学习依托反思评估、[[Teacher Clarity|教师清晰度]]、反馈、[[Student-Teacher Relationship|师生关系]]与[[Metacognition|元认知]]策略等要素协同构成强效因子束（wirkstarkes Faktorenbündel），产生持久或情境性的隐性促学放大效应。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, pp. 79, 82–87)]]
+> **四维能力整合与隐性[[Effective Factor Bundle|因子束]]协同机制** 托马斯·克雷默斯（Thomas Kremers）指出，合作学习同步整合学科知识、社会交往、沟通表达与方法运用四类能力；以认知学业产出为核心的二阶元分析仅显性测量了其中学科能力一维，低估了其整体育人效力。此外，完整的合作学习依托反思评估、[[Teacher Clarity|教师清晰度]]、反馈、[[Student-Teacher Relationship|师生关系]]与[[Metacognition|元认知]]策略等要素协同构成[[Effective Factor Bundle|强效因子束]]（wirkstarkes Faktorenbündel），产生持久或情境性的隐性促学放大效应。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, pp. 79, 82–87)]]
 
 ---
 

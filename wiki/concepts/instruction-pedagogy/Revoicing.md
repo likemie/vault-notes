@@ -8,7 +8,7 @@ aliases:
 summary: "课堂话语策略，指教师重构并提升学生表述以明确观点署名权、提升认知层次并推动论证对话"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 20
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,8 +30,10 @@ related_concepts:
   - "[[Differentiated Instruction]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Alienation]]"
+  - "[[Dialogue in Education]]"
   - "[[Problem Solving]]"
   - "[[Variable]]"
+  - "[[Think-Aloud]]"
 related_theories:
   - "[[Cultural Models]]"
 related_arguments:
@@ -46,7 +48,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-11-15
+updated: 2026-11-28
 ---
 
 ---
@@ -139,7 +141,7 @@ updated: 2026-11-15
 > [!contrast-table] 话语重铸的核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **微观认知提升命题** | 教师通过重铸实现概念范畴升级并确认学生观点署名权 | 探究式科学与数学课堂对话 | O'Connor and Michaels (1993); [[Jin Li\|Li (2012)]] |
+> | **微观认知提升命题** | 教师通过重铸实现概念范畴升级并确认学生观点署名权 | 探究式科学与数学[[Dialogue in Education\|课堂对话]] | O'Connor and Michaels (1993); [[Jin Li\|Li (2012)]] |
 > | **文化制度契合命题** | 策略有效性依赖西方表达即思考的个体主义文化模型 | 跨文化教学比较与多文化课堂 | [[Argument_Li_2012_Cambridge\|Li (2012)]]; He (2001) |
 
 ---
@@ -175,7 +177,7 @@ updated: 2026-11-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Li_2012_Cambridge\|Kim (2002, 2008)]] | 欧裔美国大学生 vs 东亚亚裔大学生 | 说话条件下与沉默条件下的抽象推理[[Problem Solving\|问题解决]]实验及皮质醇测定 | 认知任务得分、唾液皮质醇浓度变化 | 欧裔学生在出声思考时任务成绩上升、皮质醇下降；东亚学生在出声思考时成绩显著下降、皮质醇升高 | 组间差异显著（$p < .05$） | 说明说话对不同文化个体的认知负荷具有相反生理效应，证实重铸等口语策略存在文化适应边界 |
+> | [[Argument_Li_2012_Cambridge\|Kim (2002, 2008)]] | 欧裔美国大学生 vs 东亚亚裔大学生 | 说话条件下与沉默条件下的抽象推理[[Problem Solving\|问题解决]]实验及皮质醇测定 | 认知任务得分、唾液皮质醇浓度变化 | 欧裔学生在[[Think-Aloud\|出声思考]]时任务成绩上升、皮质醇下降；东亚学生在出声思考时成绩显著下降、皮质醇升高 | 组间差异显著（$p < .05$） | 说明说话对不同文化个体的认知负荷具有相反生理效应，证实重铸等口语策略存在文化适应边界 |
 
 ---
 

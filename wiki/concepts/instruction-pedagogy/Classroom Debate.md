@@ -9,7 +9,7 @@ aliases:
 summary: "一种以正反立场分配、举证责任、限时质询与反驳规则为特征的结构化对话教学策略，通过认知冲突与换位思考促进批判性思维与论证技能"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 10
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,19 +25,21 @@ related_concepts:
   - "[[Brainstorming]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Reliability]]"
+  - "[[Student Attitude]]"
   - "[[Heterogeneity]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[David W. Johnson]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Abrami_2015_RER]]"
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-11-03
+updated: 2026-11-28
 ---
 
 ---
@@ -86,9 +88,9 @@ updated: 2026-11-03
 > **[[Meta-analysis\|元分析]]实证支持** [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 的元分析显示，课堂辩论（Debate）作为独立对话策略干预产生显著的正向效应（$k = 8, g+ = 0.32, 95\%\text{ CI} = [0.03, 0.61]$）。严格的对抗规则迫使学生不断评估主张[[Reliability\|可靠性]]并搜集对立信息，有效克服了思维懒惰与片面论证。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 286, 294)]]
 
 > [!concept-proposition] 命题二｜去角色化的辩后反思是实现认知综合的关键保障
-> **态度极化防护** 探讨如何避免辩论走向情绪化对立。
+> **[[Student Attitude|态度]]极化防护** 探讨如何避免辩论走向情绪化对立。
 
-> [!claim] Johnson, D. W., & Johnson, R. T.
+> [!claim] [[David W. Johnson|Johnson, D. W.]], & Johnson, R. T.
 > **结构化争议与共识寻求** 单纯的辩论可能加剧立场固化；只有在辩论后加入“立场互换”或“全班寻求最佳综合方案”的去角色化反思环节，学生才能将对抗中的认知冲突转化为更高阶的理性判断。
 
 ---

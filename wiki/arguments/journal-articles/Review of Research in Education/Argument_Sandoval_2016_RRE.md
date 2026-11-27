@@ -37,8 +37,10 @@ related_concepts:
   - "[[Epistemic Climate]]"
   - "[[Epistemological Beliefs]]"
   - "[[Heterogeneity]]"
+  - "[[Typicality]]"
   - "[[Predictive Validity]]"
   - "[[Epistemic Aims]]"
+  - "[[Think-Aloud]]"
   - "[[Metacognition]]"
   - "[[Discourse]]"
   - "[[Epistemic Commitments]]"
@@ -49,6 +51,7 @@ related_concepts:
   - "[[Epistemological Theories]]"
   - "[[Paradigm Wars]]"
   - "[[Reliability]]"
+  - "[[Verschulung]]"
   - "[[Deschooling]]"
   - "[[Source Evaluation]]"
 related_theories:
@@ -75,6 +78,7 @@ related_persons:
   - "[[Jean Piaget]]"
 related_facts:
   - "[[Web of Science]]"
+  - "[[AIMS Programme]]"
   - "[[Google Scholar]]"
 related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
@@ -83,16 +87,16 @@ sources:
 part_of: 
 status: draft
 created: 2026-08-18
-updated: 2026-11-11
+updated: 2026-11-28
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Sandoval_2016_RRE"
 argument_key: "Argument_Sandoval_2016_RRE"
 argument_display_title: "Understanding and promoting thinking about knowledge: Origins, issues, and future directions of research on epistemic cognition"
 argument_kind: "journal-article"
-argument_related_count: 57
-argument_related_level: 5
-argument_related_stars: "💎⭐⭐"
+argument_related_count: 61
+argument_related_level: 6
+argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
 journal: "Review of Research in Education"
 book_title: ""
@@ -208,7 +212,7 @@ issuing_organization: ""
 >   面对情境特异性的挑战，学者们呼吁彻底重构认识论认知的“颗粒度（grain size）”。Hammer and Elby (2002) 等人主张放弃宏大抽象的“维度信念”，转而提出“认识论框架（epistemological framing）”与细粒度的“认识论资源（epistemic resources）”。在此视角下，个体不再是被静态测试是否“拥有”某种信念，而是被动态观察如何根据当下的情境需求（situational demands）灵活激活、调配恰当的认知资源（例如在物理课上面对不同活动时，学生会在“常识推理”框架和“权威公式”框架间无缝切换）。
 
 > [!critique-logic] 理论反思 破除领域维度的假象
-> 仅仅承认“领域特殊性（domain-specificity）”仍远远不足。用“科学领域得分”这样宏大且抽象的维度分数，去掩盖学生在微观任务操作中展现出的极度动态的跳跃与框架切换，必然会导致极低的[[Predictive Validity\|预测效度]]。未来的研究必须从“测量学生头脑中拥有什么宏大信念”，下沉并转向“捕捉学生在何种微观任务情境中、出于何种认识论目的（[[Epistemic Aims]]）、激活了何种确证标准”。
+> 仅仅承认“领域[[Typicality|特殊性]]（domain-specificity）”仍远远不足。用“科学领域得分”这样宏大且抽象的维度分数，去掩盖学生在微观任务操作中展现出的极度动态的跳跃与框架切换，必然会导致极低的[[Predictive Validity\|预测效度]]。未来的研究必须从“测量学生头脑中拥有什么宏大信念”，下沉并转向“捕捉学生在何种微观任务情境中、出于何种认识论目的（[[Epistemic Aims]]）、激活了何种确证标准”。
 
 ---
 
@@ -235,7 +239,7 @@ issuing_organization: ""
 > - **链节一 自陈量表的脱域与缄默悖论**
 >   建构派大量使用标准化[[Likert Scale\|李克特量表]]（如 EQ），不仅在心理测量学的[[Confirmatory Factor Analysis\|验证性因子分析]]中常常不达标，更犯了严重的认识论错误：它要求受试者将日常实践中处于缄默（tacit）和无意识状态的隐性承诺，强行转化为脱离任何具体实践语境的显性陈述。这种测量根本无法反映个体在真实挑战下的行为逻辑。
 > - **链节二 访谈法的强迫表达**
->   为了弥补问卷的不足，学者采用出声思考（think-aloud）和临床访谈。但这些方法依然将学生从自然课堂中强行抽离，并且同样强迫受试者进行他们未必具备[[Metacognition\|元认知]]能力的“显性反思”。
+>   为了弥补问卷的不足，学者采用[[Think-Aloud|出声思考]]（think-aloud）和临床访谈。但这些方法依然将学生从自然课堂中强行抽离，并且同样强迫受试者进行他们未必具备[[Metacognition\|元认知]]能力的“显性反思”。
 > - **链节三 非侵入式观察的内部推论困境**
 >   情境派崇尚的[[Discourse Analysis\|话语分析]]（[[Discourse]] analysis）和课堂实地观察，完美保留了真实的活动情境与社会规范。但它们却面临着致命的“推论危机（inference problem）”：研究者仅靠观察表面行为流和对话，很难准确无误地推断出学生内心深层到底在运转何种隐蔽的[[Epistemic Commitments\|认识论承诺]]。
 
@@ -251,7 +255,7 @@ issuing_organization: ""
 > - **链节一 承认“多层级聚合”的解释合法性**
 >   作者指出，个体[[Constructivist Paradigm\|建构主义]]和情境主义的本体论之争，本质上是因为它们关注的是不同的“聚合层级（levels of aggregation）”。要实现理论和解，必须停止跨层级的盲目攻击，承认各范式在其特有层级上的合法性：
 >   1. **个体层级（Individual）** 聚焦学生头脑内部（如认知心理学），探讨个体如何调配内部的“认识论资源”。
->   2. **人际交互层级（Individual-in-interaction）** 聚焦微观的社会互动，探讨学生在小组合作中如何与他人动态协商、确立共同的[[Epistemic Ideals\|认识论标准]]（epistemic aims）。
+>   2. **人际交互层级（Individual-in-interaction）** 聚焦微观的社会互动，探讨学生在小组合作中如何与他人动态协商、确立共同的[[Epistemic Ideals\|认识论标准]]（epistemic [[AIMS Programme|aims]]）。
 >   3. **活动系统层级（Activity System）** 聚焦宏观的社会文化环境，探讨课堂、学校或科学共同体层面的制度规范与集体性的“认识论氛围（epistemic climate）”。
 > - **链节二 跨层级理论缝合与方法论匹配**
 >   整合并非简单的折中拼凑，而是要建立层级间的因果解释链条——探究宏观的课堂认识论氛围（层级三）如何影响学生的小组对话机制（层级二），进而重塑个体的认知资源（层级一）。在方法论上，严格遵循“测量工具与分析层级相匹配”的原则：对于个体层级的显性[[Metacognition\|元认知]]目标，可以优化访谈等自我报告；而对于系统层级的缄默实践，则必须深入真实活动进行多模态的[[Discourse Analysis\|话语分析]]。
@@ -281,7 +285,7 @@ issuing_organization: ""
 
 ---
 
-> [!implication]- 打通学校化与[[Deschooling|非学校化]]语境
+> [!implication]- 打通[[Verschulung|学校化]]与[[Deschooling|非学校化]]语境
 > [[Epistemology\|认识论]]认知的干预不应仅停留在提高学术成绩。最大的挑战在于跨语境迁移：学生在课堂中学会的评价相互冲突的主张的能力，很少能带入日常生活中。如何让具备高阶[[Epistemic Cognition\|认识论认知]]的公民，在离开学校后，面对网络上真假难辨的社会科学争议时，依然能自如地调用复杂的[[Source Evaluation\|来源评估]]（source evaluation）与证据质询技能，是教育设计必须正视的议题。这要求教师本身对科学实践具备极深的[[Epistemology\|认识论]]校准。
 
 ---
