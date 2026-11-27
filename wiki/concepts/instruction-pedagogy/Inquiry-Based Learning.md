@@ -103,7 +103,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-20
-updated: 2026-11-24
+updated: 2026-11-28
 ---
 
 > [!def] Inquiry-Based Learning
@@ -205,7 +205,7 @@ updated: 2026-11-24
 > [!contrast-table|notitle] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **指导协同增益** | 指导式探究在概念理解与迁移上优于单一直接讲授，显性支架防范认知超载，纯发现无效 | 中小学及大学理科概念与实验技能教学、认识论认知干预 | Alfieri et al. (2011); Lazonder and Harmsen (2016); [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 4–5)]]; [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021, pp. 485–486)]] |
+> | **指导协同增益** | 指导式探究在概念理解与迁移上优于单一直接讲授，显性支架防范认知超载，纯发现无效 | 中小学及大学理科概念与实验技能教学、认识论认知干预 | Alfieri et al. (2011); [[Argument_Lazonder_2016_RER\|Lazonder and Harmsen (2016)]]; [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 4–5)]]; [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021, pp. 485–486)]] |
 > | **时序动态整合** | 探究与直接讲授在不同节点互补嵌入（前置、即时或生产性失败），决定长效保持 | 科学探究课程单元设计与延迟迁移巩固 | [[Deanna Kuhn\|Dean & Kuhn (2007)]]; [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 8–10)]] |
 > | **目标与特质调节** | 依据教学目标层次、领域先验知识与抑制控制能力动态调整指导强度 | [[Differentiated Instruction\|差异化教学]]与智能化数字探究环境开发 | Frey et al. (2017); Gerard and Linn (2022); Homer and Plass (2014); [[Argument_Koller_2014_WhatWorks\|Köller (2014, pp. 31, 33–34)]] |
 
@@ -214,7 +214,7 @@ updated: 2026-11-24
 > [!dev-timeline] 概念演变
 > - **1960–1970 年代 — [[Discovery Learning\|纯发现学习]]兴起与早期受挫** 早期发现学习（Discovery Learning）主张学习者在无指导环境中自主探索自然规律，但因缺乏认知支持导致学生产生大量挫败感与知识迷失，引发教育界对极简指导教学的大规模反思。
 > - **1980–1990 年代 — [[Constructivist Paradigm\|建构主义]]转型与[[Inquiry Cycle\|探究循环]]规范化** 随着[[Cognitive Constructivism\|认知建构主义]]与社会建构主义兴起，科学教育研究将探究学习系统规范化为由问题驱动、假设设计、证据收集、模型建构与同伴论证构成的探究循环（Inquiry Cycle），[[Scaffolding\|教学支架]]（Scaffolding）理论被全面引入探究设计。
-> - **2000–2010 年代 — 认知负荷争论与指导式探究循证确立** [[Cognitive Load Theory\|认知负荷理论]]学者提出强力批评，宣扬最小指导彻底失效；学习科学界开展反驳，明确将有效探究界定为包含充分认知支架的指导式探究（Guided Inquiry），系列[[Meta-analysis\|元分析]]（Alfieri et al., 2011; Furtak et al., 2012; Lazonder & Harmsen, 2016）系统确立了指导式探究的实证优势。
+> - **2000–2010 年代 — 认知负荷争论与指导式探究循证确立** [[Cognitive Load Theory\|认知负荷理论]]学者提出强力批评，宣扬最小指导彻底失效；学习科学界开展反驳，明确将有效探究界定为包含充分认知支架的指导式探究（Guided Inquiry），系列[[Meta-analysis\|元分析]]（Alfieri et al., 2011; Furtak et al., 2012; [[Argument_Lazonder_2016_RER|Lazonder & Harmsen, 2016]]）系统确立了指导式探究的实证优势。
 > - **2014 年 — 可见学习德译本中探究学习的“协助者”效能定性** [[Ewald Terhart|埃瓦尔德·特哈特]]（[[Argument_Terhart_2014_HolyGrail\|Terhart, 2014, p. 19]]）在评析德译本实证归纳时指出，探究学习（inquiry-based learning）在宏观二阶元分析中仅获得 $d = 0.31$ 的微弱效应，归入平均效应仅 $d = 0.31$ 的“教师作为促进者/协助者（Facilitator）”角色范畴；这与平均效应达 $d = 0.60$ 的“教师作为挑战者/激活者（Activator）”实践形成鲜明对比，从宏观证据层面警示了脱离教师积极认知激活的探究教学的效能局限。
 > - **2021 年 — [[Epistemic Cognition\|认识论认知]]干预中的因果效应与支架必要性确立** [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 针对认识论认知干预展开首个元分析，证实提供实验[[Variable\|变量]]与记录支架的指导式探究成效突出，而缺乏支架的开放[[Problem Solving\|问题解决]]与自由辩论效果微弱，从干预设计层面确立了指导支架对探究转化的决定性意义。
 > - **2020 年代至今 — 多重调节[[Variable\|变量]]与时序协同模型** 面临[[Direct Instruction\|直接教学]]绝对优越论的再次抬头，以 [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 为代表的综述全面整合受控实验、[[PISA]] 跨国调查与课程级长周期项目，建构起结合先验知识、[[Inhibitory Control\|抑制控制]]与学习目标的探究与直接教学时序整合设计[[Paradigm\|范式]]。
@@ -254,7 +254,7 @@ updated: 2026-11-24
 > > | Shymansky et al. (1990) | Inquiry methods in science | 81 | NA | 320 | 0.27 |  |
 > > | Bangert-Drowns (1992) | Inquiry teaching effects on critical thinking | 21 | NA | 21 | 0.37 |  |
 > > | Smith (1997) | Inquiry method in science | 35 | 7,437 | 60 | 0.17 |  |
-> > | Lazonder & Harmsen (2016) | Inquiry learning | 72 | NA | 72 | 0.62 |  |
+> > | [[Argument_Lazonder_2016_RER\|Lazonder and Harmsen (2016)]] | Inquiry learning | 72 | NA | 72 | 0.62 |  |
 > > | Estrella et al. (2018) | Inquiry on ELL science | 23 | 8,291 | 23 | 0.28 |  |
 > > | Aktamis et al. (2016) | Inquiry learning in science | 16 | NA | 16 | 1.03 |  |
 > > | Furtak et al. (1998) | Inquiry method in science | 37 | NA | 37 | 0.50 |  |
@@ -270,7 +270,9 @@ updated: 2026-11-24
 >
 > | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, p. 5)]]<br>（引述 Lazonder & Harmsen, 2016） | <span class="mx-bar ef-bar" title="Cohen's d 0.50"><span class="b10"></span></span>0.50 | — | Cohen's $d$，随机效应模型 | $k = 72$ / — | 调节因素：评估不同类型指导支架对探究式[[Learnology\|学习学]]业成果的增益 | 六种指导类型无显著[[Interaction Effect\|调节效应]] | 涵盖[[Randomised Controlled Trials\|随机对照试验]]与准实验，表明各类指导支架对促进探究均有效 |
+> | [[Argument_Lazonder_2016_RER\|Lazonder and Harmsen (2016)]] | <span class="mx-bar ef-bar" title="SMD 0.50"><span class="b10"></span></span>0.50 | [0.37, 0.62] | 无偏标准化均数差 $d$（Hedges 校正），[[Random-Effects Model\|随机效应模型]] | $k = 60$ / $N = 5{,}629$ | 干预因素：探究学习中的教学指导对比无指导对事后学习成果的促进效应 | 指导类型 $Q_b(5) = 4.05, p = .542, I^2 = 0.00\%$；组内 $Q_w(54) = 62.73, p = .194$ | 涵盖 5–22 岁理科与数学实验及准实验；六类指导形式在学习成果上效能无显著差异，且跨年龄段一致 |
+> | [[Argument_Lazonder_2016_RER\|Lazonder and Harmsen (2016)]] | <span class="mx-bar ef-bar" title="SMD 0.71"><span class="b14"></span></span>0.71 | [0.52, 0.90] | 无偏标准化均数差 $d$（Hedges 校正），随机效应模型 | $k = 17$ / $N = 1{,}019$ | 干预因素：探究学习中的教学指导对比无指导对探究期间任务产品表现成功度的促进效应 | 指导类型 $Q_b(5) = 14.34, p = .014, I^2 = 65.13\%$；研究设计 $Q_b(1) = 5.91, p = .015, I^2 = 83.08\%$ | 更具体的指导关联更大效应（$r = .53, p = .030$）；随机实验效应（$d = 0.94$）显著高于准实验（$d = 0.54$） |
+> | [[Argument_Lazonder_2016_RER\|Lazonder and Harmsen (2016)]] | <span class="mx-bar ef-bar" title="SMD 0.66"><span class="b13"></span></span>0.66 | [0.44, 0.88] | 无偏标准化均数差 $d$（Hedges 校正），随机效应模型 | $k = 20$ / $N = 2{,}374$ | 干预因素：探究学习中的教学指导对比无指导对探究过程中学习活动表现的促进效应 | 指导类型 $Q_b(5) = 4.01, p = .547, I^2 = 0.00\%$；组内 $Q_w(14) = 24.50, p = .040$ | 组内存在显著变异，但受限于研究数较少，年龄相关亚组差异未达统计显著 |
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, p. 9)]]<br>（引述 Gerard et al., 2015） | <span class="mx-bar ef-bar" title="Hedges' g 0.34"><span class="b7"></span></span>0.34 | — | Hedges' $g$，随机效应模型 | $k = 41$（57 个效应量） / — | 干预措施：基础教育学段（K-12）科学探究环境中自动化自适应指导对比常规课堂指导 | — | 证实基于算法与自然语言处理的动态个性化支架能有效化解探究认知过载 |
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, p. 3)]]<br>（引述 Schwichow et al., 2016） | <span class="mx-bar ef-bar" title="Cohen's d 0.61"><span class="b12"></span></span>0.61 | — | Cohen's $d$，随机效应模型 | $k = 72$ / — | 干预措施：变量控制策略（CVS）教学中包含探究与指导的干预有效性 | — | 证实单纯提供动手操作不足以掌握科研逻辑，结合支架的探究才能确保技能内化 |
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.808"><span class="b16"></span></span>0.808 | [0.313, 1.302] | Cohen's $d$，[[Random-Effects Model\|随机效应模型]] | $k = 7$ / $N = 893$ | 干预措施：[[Epistemic Cognition\|认识论认知]]干预中指导式探究（Guided Inquiry）对学业成就的促进效应 | $Q(6) = 101.035, p < .001$；组间 $Q_b(5) = 17.491, p < .01$ | 元分析亚组检验；指导式探究效应显著高于无结构支架的问题导向学习（PBL, $d = 0.340$）与开放论证教学（$d = 0.134$） |
@@ -284,8 +286,8 @@ updated: 2026-11-24
 > |  |  | 无辅助纯发现组对比显性教学 |  | — | <span class="mx-bar ef-bar neg" title="Cohen's d −0.38"><span class="b8"></span></span>−0.38 | — | — |
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 4–5)]]<br>（引述 Furtak et al., 2012） | 结果变量 | 教师主导的探究（Teacher-led） | Hedges' $g$ | — | <span class="mx-bar ef-bar" title="Hedges' g 0.40"><span class="b8"></span></span>0.40 | — | 教师主导组效应显著高于全自主组 |
 > |  |  | 学生自主探究（Student-led） |  | — | <span class="mx-bar ef-bar" title="Hedges' g 0.25"><span class="b5"></span></span>0.25 | — | — |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, p. 5)]]<br>（引述 Lazonder & Harmsen, 2016） | 干预措施 | 探究技能与活动生成表现 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.66"><span class="b13"></span></span>0.66 | — | 两类结果均达中到大效应 |
-> |  |  | 概念知识掌握结果 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.44"><span class="b9"></span></span>0.44 | — | — |
+> | [[Argument_Lazonder_2016_RER\|Lazonder and Harmsen (2016)]] | 成果焦点（学习成果） | 探究技能（Inquiry skills） | 无偏标准化均数差 $d$ | 18 | <span class="mx-bar ef-bar" title="SMD 0.78"><span class="b16"></span></span>0.78 | [0.56, 1.00] | $Q_b(1) = 9.43, p = .002, I^2 = 89.39\%$ |
+> |  |  | 领域知识（Domain knowledge） |  | 42 | <span class="mx-bar ef-bar" title="SMD 0.37"><span class="b7"></span></span>0.37 | [0.23, 0.52] | — |
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 结果变量 | 指导式探究 | Cohen's $d$ | k = 7 | <span class="mx-bar ef-bar" title="Cohen's d 0.808"><span class="b16"></span></span>0.808 | — | $Q_b(5) = 17.491, p < .01$ |
 > |  |  | 认知支架 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.663"><span class="b13"></span></span>0.663 | — | — |
 > |  |  | 问题驱动学习 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.340"><span class="b7"></span></span>0.340 | — | — |
@@ -293,7 +295,7 @@ updated: 2026-11-24
 >
 > - **[[Argument_DeJong_2023_ERR|De Jong et al. (2023, p. 4)]]<br>（引述 Alfieri et al., 2011） · 结果变量** 证实探究教学的有效性完全取决于是否提供认知支架，不可将纯发现与探究混为一谈
 > - **[[Argument_DeJong_2023_ERR|De Jong et al. (2023, pp. 4–5)]]<br>（引述 Furtak et al., 2012） · 结果变量** 证实教师在探究过程中的显性引导与脚手架搭建能产生更高的教学效益
-> - **[[Argument_DeJong_2023_ERR|De Jong et al. (2023, p. 5)]]<br>（引述 Lazonder & Harmsen, 2016） · 干预措施** 证实支架不仅能直接帮助学生顺利完成实验活动，更能直接促进长时记忆中的概念理解
+> - **[[Argument_Lazonder_2016_RER|Lazonder and Harmsen (2016)]] · 成果焦点（学习成果）** 探究指导对科学探究技能后测的提升幅度超过领域知识的两倍，反映技能定向指导与知识归纳过程间的传导差异
 > - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 结果变量** 认识论认知干预中，显性讲授指导步骤与变量控制支架的探究设计显著优于缺乏支架的开放问题解决与论辩
 
 > [!ma-table]- 二阶元分析结果
@@ -301,7 +303,7 @@ updated: 2026-11-24
 >
 > | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Köller (2014)，引自 [[Argument_Koller_2014_WhatWorks\|Köller (2014, p. 31)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.33"><span class="b7"></span></span>0.33 | — | Cohen's $d$ / 二阶综合 | $M = —$；$E = —$；$k = —$；$N = —$ | 干预因素：探究学习对学业成就的二阶干预效应 | — | 德语区实证审读；激发学科兴趣与质疑意识，但在缺乏先备知识支持时事实知识巩固效应有限 |
+> | [[Argument_Koller_2014_WhatWorks\|Köller (2014)]]，引自 [[Argument_Koller_2014_WhatWorks\|Köller (2014, p. 31)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.33"><span class="b7"></span></span>0.33 | — | Cohen's $d$ / 二阶综合 | $M = —$；$E = —$；$k = —$；$N = —$ | 干预因素：探究学习对学业成就的二阶干预效应 | — | 德语区实证审读；激发学科兴趣与质疑意识，但在缺乏先备知识支持时事实知识巩固效应有限 |
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
@@ -329,6 +331,7 @@ updated: 2026-11-24
 > | [[Epistemic Agency]] | 概念 | 学习者在证据检验与模型建构中行使的自主反思与裁决权。 |
 > | [[Scaffolding]] | 概念 | 动态提供认知线索与过程约束以化解探究认知超载的关键手段。 |
 > | [[Control of Variables Strategy]] | 概念 | 探究学习中用于检验因果关系的经典科学实验策略。 |
+> | [[Scientific Reasoning]] | 概念 | 支撑探究式学习开展的假设生成、实验设计与证据评估核心思维能力。 |
 > | [[Inquiry Cycle]] | 理论 | 规范探究学习中问题提出、证据收集与模型修正的循环架构。 |
 > | [[Cognitive Load Theory]] | 理论 | 揭示探究过程中认知负荷的管理规律与支架的使能边界。 |
 > | [[John Hattie]] | 人物 | 在可见学习二阶元分析中量化探究学习效应量（$d = 0.31$）的代表学者。 |
@@ -341,6 +344,7 @@ updated: 2026-11-24
 > - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 分析新加坡能力导向课改中探究式教学的制度困境，指出高利害升学统考与绩效指标促使基层教师避险，导致探究实践退化为解题套路并受制于传统讲授规程（pp. 60–63）。
 > - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 考察新加坡高表现教育系统中探究式教学改革的制度现实，揭示跨国借用者将 PISA 高分误归因于探究式课改的修辞陷阱，实证表明常态课堂仍以高度结构化的直接教学为主导，探究活动多停留在表层或边缘。
 > - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 反驳 [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 的[[Direct Instruction|直接教学]]优越论，整合受控实验、[[PISA]] 与课程级证据，确立指导式探究在深层理解上的优势及两者的协同模型。
+> - [[Argument_Lazonder_2016_RER|Lazonder and Harmsen (2016)]] — 综合 72 项理科与数学研究开展元分析，证实教学指导显著提升探究活动、任务表现与学习成果，具体性仅调节任务表现，且跨年龄段效应一致。
 > - [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] — 针对 26 项实验与准实验[[Intervention Research|干预研究]]开展[[Meta-analysis|元分析]]，证实指导式探究（$d = 0.808$）是促进[[Epistemic Cognition|认识论认知]]发展与提升[[Academic Achievement|学业成就]]最有效的[[Framework for Teaching|教学框架]]，显著优于缺乏显性支架的问题驱动学习（$d = 0.340$）与开放辩论（$d = 0.134$）。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 德国学者对《[[Visible Learning|可见的学习]]》中探究式教学量化综合的计算审计，揭露通过对子研究[[Standard Error|标准误]]取简单算术平均得出伪标准误（$SE = 0.092$）的严重方法学缺陷（p. 30）。
 > - [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]] — 结合芬兰国家评估与 PISA 微观数据，实证检验 1990 年代建构主义大纲落地与学生中心探究教学普及对基础认知表现的负向因果效应，警示过早放弃教师主导讲授的教学风险（pp. 58–63）。

@@ -100,7 +100,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-11-15
+updated: 2026-11-28
 ---
 
 > [!def] Scaffolding
@@ -229,9 +229,9 @@ updated: 2026-11-15
 ---
 
 > [!dev-timeline] 脚手架概念的演变历程
-> - **1976 — 起源奠基阶段** David Wood, Jerome Bruner, & Gail Ross 首次提出“脚手架（Scaffolding）”概念隐喻，用以描述辅导者在儿童积木拼搭任务中控制超出儿童能力的要素、维持注意力并示范关键行动的互动过程。
+> - **1976 — 起源与概念提出阶段** David Wood, Jerome Bruner, & Gail Ross 首次提出“脚手架（Scaffolding）”概念隐喻，用以描述辅导者在儿童积木拼搭任务中控制超出儿童能力的要素、维持注意力并示范关键行动的互动过程。
 > - **1980s–1990s — [[Cognitive Apprenticeship\|认知学徒制]]与教学法推广** Allan Collins, John Seely Brown, & Susan Newman 将脚手架拓展为“示范—脚手架—渐隐”的认知[[Apprenticeship|学徒制]]三大支柱；学界正式将[[Lev Vygotsky\|维果茨基]]的[[Zone of Proximal Development\|最近发展区]]理论确立为脚手架的核心依托。
-> - **2000s–2016 — 数字化科学探究与指导等价性确立** Quintana 等人构建软件支架框架；Lazonder and Harmsen (2016) 针对 72 项研究的[[Meta-analysis\|元分析]]确立了指导支架使探究成效提升 $d = 0.50$ 以及六种支架类型促学等价性的实证规律。
+> - **2000s–2016 — 数字化科学探究与指导等价性确立** Quintana 等人构建软件支架框架；[[Argument_Lazonder_2016_RER|Lazonder and Harmsen (2016)]] 针对 72 项研究的[[Meta-analysis\|元分析]]确立了指导支架使探究成效提升 $d = 0.50$ 以及六种支架类型促学等价性的实证规律。
 > - **2020s–2024 — 智能自适应技术与分阶段渐隐策略** 随着大语言模型与[[AI Agent in Education\|智能体]]的普及，脚手架从静态规则提示发展为能够开展多轮启发式对话与实时[[Learning Analytics\|学习分析]]的动态认知伙伴；学界聚焦于分阶段渐隐策略与先验调节，防止技术环境下的心智外包与多重支架过载。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 14–15)]]; [[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 4, 8)]]
 > - **2025 — 双轨干预支架与[[Epistemic Stances\|认识立场]]演进模型确立** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 提出双轨干预矩阵（技术提示支架 + 教学法支架），系统阐明其在支持认识立场向评价主义演进与维系[[Epistemic Agency\|认识主体性]]中的必要机制。
 > - **2026 — 可抗辩性支持、认知安全与反驳型支架机制；Q-Tutor [[Virtue Epistemology|德性认识论]]框架下的[[Cognitive Deskilling|去技能化]]防范支架** [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] 拓展脚手架理论至安全关键人机决策领域，提出[[Defeater|反驳型击败者]]（Rebutting Defeaters）与反思机器（Reflection Machines）作为提供可抗辩性支持与审议所有权的认知安全脚手架，实现从单纯的"效率减负支架"向"批判性[[Trust Calibration|信任校准]]与防偏差支架"的深化。同年，[[Argument_Naeem_2026_Episteme|Naeem (2026)]] 从[[Virtue Epistemology|美德认识论]]责任论出发，提出以直接答案拦截规则与递进式提问序列为核心的提问型导师（Q-Tutor）架构，将脚手架的功能定位从"减负"拓展为"防止学习者被 AI 替代认知能力"的德性培育机制；其双模态架构（AI 主导[[Inquisitive Mode of Governance|探究模式]] → 学生主导练习模式）与渐隐原则形成了明确的理论呼应。
@@ -290,7 +290,7 @@ updated: 2026-11-15
 >
 > | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Lazonder and Harmsen (2016) (引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 4]]) | <span class="mx-bar ef-bar" title="Cohen's d 0.50"><span class="b10"></span></span>0.50 | [0.37, 0.63] | Cohen's $d$ / 随机效应模型 | $k = 72$ / $N = —$ | 干预因素：探究教学中的指导脚手架对比无指导探究 | 指导类型调节效应不显著（$p > .05$） | 涵盖六类指导支架（过程约束、提示、线索、脚手架、直接解释等），证实支架提升半个标准差且不同形态功能等价 |
+> | [[Argument_Lazonder_2016_RER\|Lazonder and Harmsen (2016)]] | <span class="mx-bar ef-bar" title="SMD 0.50"><span class="b10"></span></span>0.50 | [0.37, 0.62] | 无偏标准化均数差 $d$（Hedges 校正），随机效应模型 | $k = 60$ / $N = 5{,}629$ | 干预因素：探究学习中的教学指导对比无指导对学习成果的总体效应（其中脚手架亚组 $k = 19, d = 0.34$） | 指导类型调节不显著（$Q_b(5) = 4.05, p = .542, I^2 = 0.00\%$） | 涵盖六类指导形式；在任务表现维度上指导具体性调节显著（$Q_b(5) = 14.34, p = .014$，脚手架 $k = 6, d = 0.80$），但在学习成果与学习活动上各类型效能无显著差异 |
 > | Gerard et al. (2015) (引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 9]]) | <span class="mx-bar ef-bar" title="SMD 0.34"><span class="b7"></span></span>0.34 | — | 标准化均值差 $ES$ | $k = 41$ ($E = 57$) / $N = —$ | 干预因素：技术增强科学探究中的自动化自适应脚手架 | — | 针对动态虚拟实验室与可视化探究环境，确证自适应智能脚手架相比静态指导的额外增益 |
 
 > [!ma-table]- 亚组与调节分析
@@ -317,7 +317,8 @@ updated: 2026-11-15
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]双轨干预支架矩阵（技术提示支架 + 教学法支架），系统阐明支架在促进学习者[[Epistemic Stances\|认识立场]]从绝对主义向评价主义演进、防范算法幻觉与维系人类[[Epistemic Agency\|认识主体性]]中的决定性机制。
-> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — [[Systematic Review\|系统综述]][[Inquiry-Based Learning\|指导式探究]]的实证全景，引用 Lazonder and Harmsen (2016) 确证支架干预提升半个标准差及六类指导形式等价性，并辨析先验知识调节与多重支架过载边界。
+> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — [[Systematic Review\|系统综述]][[Inquiry-Based Learning\|指导式探究]]的实证全景，引用 [[Argument_Lazonder_2016_RER\|Lazonder and Harmsen (2016)]] 确证支架干预提升半个标准差及六类指导形式等价性，并辨析先验知识调节与多重支架过载边界。
+> - [[Argument_Lazonder_2016_RER\|Lazonder and Harmsen (2016)]] — 综合 72 项探究学习实验与准实验开展元分析，检验六类指导具体性及年龄调节效应，证实脚手架在学习活动、任务表现与学习成果上均具显著正效应。
 > - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — 在生成式 AI 赋能学生[[Higher-Order Thinking Skills\|高阶思维]]的[[Meta-analysis\|元分析]]中，证实技术作为外部认知脚手架具备中等显著效益（$g = 0.609$），并实证揭示 8–16 周倒 U 型周期所蕴含的支架渐隐必要性。
 > - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] — 元分析考察外部[[Graphic Organizer\|图形组织器]]作为认知脚手架对高阶思维的影响，实证对比中学生（$g = 1.113$）与大学生（$g = 0.659$）的效应断层。
 > - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] — 探讨生成式 AI [[AI Agent in Education\|智能体]]在[[Zone of Proximal Development\|最近发展区]]内充当自适应动态脚手架的机理，强调支架设计需与目标认知层级精准匹配。

@@ -14488,6 +14488,17 @@
     ]
   },
   {
+    "title": "Scientific Reasoning",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Scientific Reasoning.md",
+    "aliases": [
+      "科学推理",
+      "科学推理能力",
+      "科学思维",
+      "Scientific Thinking"
+    ]
+  },
+  {
     "title": "Seductive Details Effect",
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Seductive Details Effect.md",
@@ -58411,6 +58422,11 @@
     "title": "Argument_Hofer_1997_RER",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Review of Educational Research/Argument_Hofer_1997_RER.md"
+  },
+  {
+    "title": "Argument_Lazonder_2016_RER",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Review of Educational Research/Argument_Lazonder_2016_RER.md"
   },
   {
     "title": "Argument_Wadhwa_2024_RER",
