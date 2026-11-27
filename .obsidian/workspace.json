@@ -317,6 +317,7 @@
   },
   "active": "3643ff474ee79da9",
   "lastOpenFiles": [
+    "output/related-updates/Argument_DeJong_2024_SHE-4eeb1784/batch-011/result.json",
     "output/related-updates/Argument_DeJong_2024_SHE-4eeb1784/batch-010/result.json",
     "output/related-updates/Argument_DeJong_2024_SHE-4eeb1784/batch-009/result.json",
     "qa-app/dist/client/assets/index-DGRxzmuE.js",
@@ -327,7 +328,6 @@
     "qa-app/node_modules/functional-red-black-tree/test/test.js",
     "qa-app/node_modules/functional-red-black-tree/test",
     "qa-app/node_modules/functional-red-black-tree/bench/test.js",
-    "qa-app/node_modules/functional-red-black-tree/bench",
     "qa-app/node_modules/functional-red-black-tree/README.md",
     "qa-app/node_modules/@js-sdsl/ordered-map/README.zh-CN.md",
     "qa-app/node_modules/@js-sdsl/ordered-map/README.md",
