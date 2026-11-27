@@ -6,7 +6,7 @@ aliases:
 summary: "以经过选择的问题组织目标、学习活动与评估的教学系统，强调先备知识激活、协作探究、知识应用、模型修正和自我监控。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 65
+related_count: 67
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -57,6 +57,7 @@ related_concepts:
   - "[[Teacher Support for Students]]"
   - "[[Engineering Education]]"
   - "[[Lifelong Learning]]"
+  - "[[Visible Learning]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Knowledge Integration]]"
@@ -85,12 +86,13 @@ related_arguments:
   - "[[Argument_Cartiff_2021_JEP]]"
   - "[[Argument_Knudsen_2017_NordSTEP]]"
   - "[[Argument_Terhart_2014_HolyGrail]]"
+  - "[[Argument_Reiss_Bernhard_2014_MathematicsEducation]]"
 related_instruments:
   - "[[Framework for Teaching]]"
 confidence: medium
 status: active
 created: 2026-05-04
-updated: 2026-11-23
+updated: 2026-11-27
 ---
 
 > [!def] Problem-Based Learning
@@ -441,3 +443,4 @@ updated: 2026-11-23
 > - [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] 在[[Epistemic Cognition|认识论认知]]干预因果元分析中量化对比了基于问题的学习（PBL）与其他[[Framework for Teaching|教学框架]]的[[Effect Size|效应量]]，实证揭示了缺乏显性[[Scaffolding|认知支架]]时 PBL 的成效局限。
 > - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] 访谈记录[[John Hattie|哈蒂]]对 PBL 效应量偏低的认知解释，指出 90% 推行 PBL 的学校因缺乏表层知识铺垫过早引入探究，打乱认知进阶导致效能滑坡。
 > - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] 梳理可见学习德译本中问题导向教学效应量（$d = 0.15$）落入协助者低效区的成因，指出脱离显性指导的放任探究难以激活深层理解。
+> - [[Argument_Reiss_Bernhard_2014_MathematicsEducation|Reiss and Bernhard (2014)]] 对比哈蒂对问题本位学习的低排名（第 118 位，$d = 0.15$）与 Gijbels et al. (2005) 的分层发现，指出算术平均遮蔽了深层理解与浅层概念学习的效应分化（pp. 94–96）。

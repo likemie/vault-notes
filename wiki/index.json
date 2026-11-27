@@ -35946,6 +35946,17 @@
     ]
   },
   {
+    "title": "Stefan P. L. de Jong",
+    "type": "person",
+    "path": "wiki/persons/netherlands/Stefan P. L. de Jong.md",
+    "aliases": [
+      "斯特凡·德容",
+      "Stefan de Jong",
+      "de Jong, S. P. L.",
+      "S. P. L. de Jong"
+    ]
+  },
+  {
     "title": "Ton de Jong",
     "type": "person",
     "path": "wiki/persons/netherlands/Ton de Jong.md",
@@ -57070,6 +57081,11 @@
     "title": "Argument_Kremers_2014_CooperativeLearning",
     "type": "argument",
     "path": "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md"
+  },
+  {
+    "title": "Argument_Reiss_Bernhard_2014_MathematicsEducation",
+    "type": "argument",
+    "path": "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
   },
   {
     "title": "Argument_Rolff_2014_SchoolStructure",

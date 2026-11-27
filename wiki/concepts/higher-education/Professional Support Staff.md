@@ -10,7 +10,7 @@ aliases:
 summary: "高等教育机构中负责开发、维护与变革教育、科研及知识交流基础设施的高学历专业雇员群体；其能力高学历化与私营履历转向、四重网络中介定位，以及通过战略管理、资源转化与合规风控影响知识生产与学术趋同的机制，是当代大学治理研究的核心议题"
 type: concept
 domain: "higher-education"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -48,6 +48,7 @@ related_methods:
   - "[[Effect Size]]"
 related_instruments: []
 related_persons:
+  - "[[Stefan P. L. de Jong]]"
   - "[[Ton de Jong]]"
   - "[[Herbert A. Simon]]"
 related_facts:
@@ -61,13 +62,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-11-25
-updated: 2026-11-26
+updated: 2026-11-27
 ---
 
 ---
 
 > [!def] Professional Support Staff
-> 专业支持人员（Professional Support Staff, PS）指在高等教育机构（Higher Education Institutions, HEIs）中专门从事行政协调、技术服务与战略支撑等非教学科研工作的雇员群体。德容（Stefan P. L. de Jong）将其进一步界定为拥有学位、主要负责开发、维护和改变支撑教育、研究与[[Knowledge Exchange|知识交流]]的社会、物理及数字基础设施的大学雇员（de Jong, 2023; [[Argument_DeJong_2026_SHE|de Jong, 2026]]）。其职能跨度涵盖基础文秘、后勤维护，以及国际化事务、校企联络、科研支持、隐私与数据管理、安全合规、人力资源与财务控制等高技能专业岗位。学术[[Document|文献]]中亦常使用高等教育专业人员、[[Third Space Discourse|第三空间]]专业人员（[[Blended Professional|third-space professionals]]）或非学术管理人员等称谓指代该群体。[[Argument_Ryttberg_Geschwind_2021_TEM|(Ryttberg & Geschwind, 2021)]]; [[Argument_DeJong_2026_SHE|(de Jong, 2026, p. 1240)]]
+> 专业支持人员（Professional Support Staff, PS）指在高等教育机构（Higher Education Institutions, HEIs）中专门从事行政协调、技术服务与战略支撑等非教学科研工作的雇员群体。德容（[[Stefan P. L. de Jong]]）将其进一步界定为拥有学位、主要负责开发、维护和改变支撑教育、研究与[[Knowledge Exchange|知识交流]]的社会、物理及数字基础设施的大学雇员（de Jong, 2023; [[Argument_DeJong_2026_SHE|de Jong, 2026]]）。其职能跨度涵盖基础文秘、后勤维护，以及国际化事务、校企联络、科研支持、隐私与数据管理、安全合规、人力资源与财务控制等高技能专业岗位。学术[[Document|文献]]中亦常使用高等教育专业人员、[[Third Space Discourse|第三空间]]专业人员（[[Blended Professional|third-space professionals]]）或非学术管理人员等称谓指代该群体。[[Argument_Ryttberg_Geschwind_2021_TEM|(Ryttberg & Geschwind, 2021)]]; [[Argument_DeJong_2026_SHE|(de Jong, 2026, p. 1240)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 标识大学内部围绕教育和科研使命提供专业化、管理性及事务性支撑的非学术雇员群体。
@@ -134,7 +135,7 @@ updated: 2026-11-26
 > **资源管理赋能机制** 揭示专业支持人员作为赋能型官僚在资源流转链条中的实质作用，修正行政支撑仅处于学术外围或与教学科研相互脱节的判断。
 
 > [!claim] [[Argument_DeJong_2026_SHE|de Jong (2026)]]
-> **四维资源转化介入与跨层调解** 斯特凡·德容（Stefan P. L. de Jong）将[[Cycle of Credit|信用循环]]扩展至大学组织层级与广义公共传播渠道后论证指出，专业支持人员通过四条路径深度嵌入学术[[Knowledge Production|知识生产]]：借助校企撮合、伦理审查翻译与数据隐私合规使资源转化得以发生；通过安全培训、多元化博士生源培育与办公空间选址重塑转化内容；依托历史财务测算与专利价值甄别提高单位资源的转化率；以及利用媒介网络与跨校信息加速成果传播及大型设备立项。与此同时，支持人员在个体研究者循环与大学整体循环之间承担风险缓冲与声誉保护职能，证实行政工作与学术核心活动紧密相连。[[Argument_DeJong_2026_SHE|(de Jong, 2026, pp. 1245–1250)]]
+> **四维资源转化介入与跨层调解** 斯特凡·[[Ton de Jong|德容]]（Stefan P. L. de Jong）将[[Cycle of Credit|信用循环]]扩展至大学组织层级与广义公共传播渠道后论证指出，专业支持人员通过四条路径深度嵌入学术[[Knowledge Production|知识生产]]：借助校企撮合、伦理审查翻译与数据隐私合规使资源转化得以发生；通过安全培训、多元化博士生源培育与办公空间选址重塑转化内容；依托历史财务测算与专利价值甄别提高单位资源的转化率；以及利用媒介网络与跨校信息加速成果传播及大型设备立项。与此同时，支持人员在个体研究者循环与大学整体循环之间承担风险缓冲与声誉保护职能，证实行政工作与学术核心活动紧密相连。[[Argument_DeJong_2026_SHE|(de Jong, 2026, pp. 1245–1250)]]
 
 ---
 

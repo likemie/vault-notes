@@ -9311,6 +9311,42 @@
       "title": "Argument_Rappleye_2006_RCIE",
       "year": "2006"
     },
+    "Reiss & Bernhard, 2014": {
+      "aliases": [
+        "Reiss & Bernhard, 2014",
+        "Reiss and Bernhard (2014)"
+      ],
+      "argument": "Argument_Reiss_Bernhard_2014_MathematicsEducation",
+      "authors": [
+        "Reiss, K.",
+        "Bernhard, M."
+      ],
+      "citation": "Reiss, K., & Bernhard, M. (2014). Hatties Visible Learning im Kontext der Mathematikdidaktik: Das Beispiel Problemlösen. In E. Terhart (Hrsg.), Die Hattie-Studie in der Diskussion: Probleme sichtbar machen (pp. 89–100). Kallmeyer in Verbindung mit Klett.",
+      "doi": "",
+      "isbn": "9783780048042",
+      "path": "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md",
+      "source_language": "en",
+      "title": "Argument_Reiss_Bernhard_2014_MathematicsEducation",
+      "year": "2014"
+    },
+    "Reiss and Bernhard (2014)": {
+      "aliases": [
+        "Reiss & Bernhard, 2014",
+        "Reiss and Bernhard (2014)"
+      ],
+      "argument": "Argument_Reiss_Bernhard_2014_MathematicsEducation",
+      "authors": [
+        "Reiss, K.",
+        "Bernhard, M."
+      ],
+      "citation": "Reiss, K., & Bernhard, M. (2014). Hatties Visible Learning im Kontext der Mathematikdidaktik: Das Beispiel Problemlösen. In E. Terhart (Hrsg.), Die Hattie-Studie in der Diskussion: Probleme sichtbar machen (pp. 89–100). Kallmeyer in Verbindung mit Klett.",
+      "doi": "",
+      "isbn": "9783780048042",
+      "path": "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md",
+      "source_language": "en",
+      "title": "Argument_Reiss_Bernhard_2014_MathematicsEducation",
+      "year": "2014"
+    },
     "Reynolds (2024)": {
       "aliases": [
         "Reynolds, 2024",
@@ -13036,7 +13072,7 @@
       ],
       "argument": "Argument_DeJong_2024_SHE",
       "authors": [
-        "de Jong, S. P. L.",
+        "[[Stefan P. L. de Jong|de Jong, S. P. L.]]",
         "del Junco, C."
       ],
       "citation": "de Jong, S. P. L., & del Junco, C. (2024). How do professional staff influence academic knowledge development? A literature review and research agenda. Studies in Higher Education, 49(6), 1042–1065. https://doi.org/10.1080/03075079.2023.2258155",
@@ -13054,7 +13090,7 @@
       ],
       "argument": "Argument_DeJong_2024_SHE",
       "authors": [
-        "de Jong, S. P. L.",
+        "[[Stefan P. L. de Jong|de Jong, S. P. L.]]",
         "del Junco, C."
       ],
       "citation": "de Jong, S. P. L., & del Junco, C. (2024). How do professional staff influence academic knowledge development? A literature review and research agenda. Studies in Higher Education, 49(6), 1042–1065. https://doi.org/10.1080/03075079.2023.2258155",
@@ -13072,7 +13108,7 @@
       ],
       "argument": "Argument_DeJong_2026_SHE",
       "authors": [
-        "de Jong, S. P. L."
+        "[[Stefan P. L. de Jong|de Jong, S. P. L.]]"
       ],
       "citation": "de Jong, S. P. L. (2026). Invisible forces: The management of resources by professional staff as a contribution to knowledge development in universities. Studies in Higher Education, 51(6), 1240–1254. https://doi.org/10.1080/03075079.2025.2504446",
       "doi": "10.1080/03075079.2025.2504446",
@@ -13089,7 +13125,7 @@
       ],
       "argument": "Argument_DeJong_2026_SHE",
       "authors": [
-        "de Jong, S. P. L."
+        "[[Stefan P. L. de Jong|de Jong, S. P. L.]]"
       ],
       "citation": "de Jong, S. P. L. (2026). Invisible forces: The management of resources by professional staff as a contribution to knowledge development in universities. Studies in Higher Education, 51(6), 1240–1254. https://doi.org/10.1080/03075079.2025.2504446",
       "doi": "10.1080/03075079.2025.2504446",

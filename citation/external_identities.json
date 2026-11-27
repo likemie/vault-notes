@@ -2051,6 +2051,15 @@
       ],
       "title": ""
     },
+    "Alan H. Schoenfeld, 1985": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md",
+        "wiki/concepts/competency-and-assessment/Problem Solving.md"
+      ],
+      "title": ""
+    },
     "Alan Jacobs, 2009": {
       "doi": "",
       "isbn": "",
@@ -10276,6 +10285,7 @@
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md",
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2026_SHE.md",
         "wiki/concepts/higher-education/Enabling Bureaucracy.md",
+        "wiki/persons/netherlands/Stefan P. L. de Jong.md",
         "wiki/theories/science-policy/Cycle of Credit.md",
         "wiki/theories/sociology-of-education/Institutional Work.md"
       ],
@@ -13189,6 +13199,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/uk/Modernising Government.md"
+      ],
+      "title": ""
+    },
+    "Blömeke et al., 2010": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
       ],
       "title": ""
     },
@@ -25175,6 +25193,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17.md",
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md",
         "wiki/methods/qualitative/Systematic Review.md"
       ],
       "title": ""
@@ -29712,6 +29731,14 @@
         "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Hippach-Schneider_Rieder_2022_RCIE.md"
       ],
       "title": "Bund-Länder-Vereinbarungen nach Art. 91b GG"
+    },
+    "Deutsches PISA-Konsortium, 2000": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
+      ],
+      "title": ""
     },
     "Deutsches PISA-Konsortium, 2001": {
       "doi": "",
@@ -42342,6 +42369,15 @@
       ],
       "title": ""
     },
+    "George Pólya, 1949": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md",
+        "wiki/concepts/competency-and-assessment/Problem Solving.md"
+      ],
+      "title": ""
+    },
     "George Smith, 2000": {
       "doi": "",
       "isbn": "",
@@ -42920,7 +42956,9 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md",
         "wiki/arguments/journal-articles/Zeitschrift für Erziehungswissenschaft/Argument_Wecker_2016_ZfE.md",
+        "wiki/concepts/instruction-pedagogy/Problem-Based Learning.md",
         "wiki/concepts/research-methodology/Critique of Meta-analysis.md",
         "wiki/methods/quantitative/Effect Size Conversion.md"
       ],
@@ -50167,6 +50205,7 @@
       "isbn": "9780415479783",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md",
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md",
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md",
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md",
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md",
@@ -50204,8 +50243,7 @@
         "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md",
         "wiki/concepts/instruction-pedagogy/Direct Instruction.md",
         "wiki/concepts/instruction-pedagogy/Effective Teaching.md",
-        "wiki/concepts/instruction-pedagogy/Feedback.md",
-        "wiki/concepts/instruction-pedagogy/Homework.md"
+        "wiki/concepts/instruction-pedagogy/Feedback.md"
       ],
       "title": "Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement"
     },
@@ -50243,6 +50281,7 @@
       "isbn": "9783834011909",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md",
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md",
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md",
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md",
         "wiki/concepts/competency-and-assessment/Academic Achievement.md",
@@ -69487,6 +69526,14 @@
       "seen_in": [],
       "title": "An updated meta-analysis on the effect of peer tutoring on tutors' achievement."
     },
+    "Leutner et al., 2005": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
+      ],
+      "title": ""
+    },
     "Leuven & Oosterbeek, 2018": {
       "datasets": [
         "metax:S0651"
@@ -87978,6 +88025,14 @@
       "seen_in": [],
       "title": "Does perfectionism or pursuit of excellence contribute to successful learning? A meta-analytic review."
     },
+    "Oser & Baeriswyl, 2001": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
+      ],
+      "title": ""
+    },
     "Osgood et al., 1957": {
       "doi": "",
       "isbn": "",
@@ -89870,6 +89925,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/instruments/questionnaires/Course Experience Questionnaire.md"
+      ],
+      "title": ""
+    },
+    "Paul Richard Halmos, 1980": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
       ],
       "title": ""
     },
@@ -96000,6 +96063,14 @@
       "seen_in": [],
       "title": "Building quality, scale, and effectiveness in after-school programs  Summary report of the TASC evaluation"
     },
+    "Reiss et al., 2012": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
+      ],
+      "title": ""
+    },
     "Reiter, 2019": {
       "doi": "",
       "isbn": "",
@@ -96559,6 +96630,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/educational-philosophy/Phenomenology.md"
+      ],
+      "title": ""
+    },
+    "Richard J. Shavelson, 2007": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
       ],
       "title": ""
     },
@@ -102790,6 +102869,14 @@
       ],
       "title": ""
     },
+    "Schiepe-Tiska et al., 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
+      ],
+      "title": ""
+    },
     "Schifano, 2011": {
       "datasets": [
         "eef:behaviour-interventions"
@@ -104631,6 +104718,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Koller_2014_WhatWorks.md",
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md",
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_VonOlberg_2014_GeneralDidactics.md",
         "wiki/concepts/educational-policy-reform/Class Size.md",
         "wiki/persons/germany/Tina Seidel.md",
@@ -111505,6 +111593,15 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/teacher-education/Lesson Study.md"
+      ],
+      "title": ""
+    },
+    "Stigler et al., 1999": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md",
+        "wiki/facts/global/TIMSS.md"
       ],
       "title": ""
     },
@@ -130225,6 +130322,14 @@
       ],
       "title": ""
     },
+    "初中, 2003": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/germany/KMK-Bildungsstandards.md"
+      ],
+      "title": ""
+    },
     "利奥塔, 1979": {
       "doi": "",
       "isbn": "",
@@ -130765,6 +130870,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/comparative-education/National Character.md"
+      ],
+      "title": ""
+    },
+    "小学, 2004": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md"
       ],
       "title": ""
     },
@@ -132906,6 +133019,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/us/James Mahoney.md"
+      ],
+      "title": ""
+    },
+    "高中毕业, 2012": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/germany/KMK-Bildungsstandards.md"
       ],
       "title": ""
     },

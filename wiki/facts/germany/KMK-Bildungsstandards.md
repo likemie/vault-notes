@@ -15,7 +15,7 @@ subtype: policy
 region: germany
 fact_region: "germany"
 fact_kind: "policy"
-fact_related_count: 43
+fact_related_count: 44
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dbeafe"
@@ -79,10 +79,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Ertl_2006_ORE]]"
   - "[[Argument_Hartong_2018_GSE]]"
+  - "[[Argument_Reiss_Bernhard_2014_MathematicsEducation]]"
 confidence: high
 status: active
 created: 2026-11-21
-updated: 2026-11-21
+updated: 2026-11-27
 ---
 
 ---
@@ -197,3 +198,4 @@ updated: 2026-11-21
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 系统考证 KMK 颁布国家教育标准（七大特征）、重构各州课程大纲及引发教学论与胜任力冲突的历史过程（pp. 621–626, 632）。
 > - [[Argument_Hartong_2018_GSE|Hartong (2018)]] — 剖析 KMK 国家教育标准作为[[Data Infrastructure|数据基础设施]]核心，如何与 IQB 联动重塑德国跨州[[Center of Calculation|计算中心]]霸权（pp. 139–141）。
+> - [[Argument_Reiss_Bernhard_2014_MathematicsEducation|Reiss and Bernhard (2014)]] — 梳理 KMK 小学（2004）、初中（2003）与高中毕业（2012）数学教育标准将“数学地解决问题”确立为核心通用能力的要求（p. 92）。

@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 51
+fact_related_count: 52
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -82,10 +82,11 @@ related_arguments:
   - "[[Argument_Deng_2016_CE]]"
   - "[[Argument_Silova_2009_EE]]"
   - "[[Argument_Ertl_2006_ORE]]"
+  - "[[Argument_Reiss_Bernhard_2014_MathematicsEducation]]"
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-11-21
+updated: 2026-11-27
 ---
 
 ---
@@ -245,3 +246,4 @@ updated: 2026-11-21
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 援引 TIMSS 对 54 个教育系统的跨国课程轨迹比较（Cogan et al., 2001），论证中央集权型且流转对齐的课程体制在保障学生学业一致性上的制度优势（p. 8）。
 > - [[Argument_Silova_2009_EE|Silova (2009)]] — 批判 TIMSS 等大规模量化评价对教育制度的去情境化技术主义冲击，论证坚守深嵌历史文脉与制度生态之多案例质性比较的学科底线（pp. 28–29）。
 > - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 记录 TIMSS 作为德国在 1960 年代后长期孤立政策下少数参与的国际测评之一，及其在[[Empirische Unterrichtsforschung|实证教学研究]]取代传统普通教学论过程中充当技术诊断工具的定位。
+> - [[Argument_Reiss_Bernhard_2014_MathematicsEducation|Reiss and Bernhard (2014)]] — 援引 TIMSS 视频研究（Stigler et al., 1999）中日本课堂以问题解决和多元解法展示为核心的高效模式，对照论证数学课堂深层教学的价值（p. 93）。

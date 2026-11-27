@@ -7,7 +7,7 @@ title: "Argument_Terhart_2014_Kallmeyer"
 argument_key: "Argument_Terhart_2014_Kallmeyer"
 argument_display_title: "Die Hattie-Studie in der Diskussion: Probleme sichtbar machen"
 argument_kind: "edited-volume"
-argument_related_count: 36
+argument_related_count: 38
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#e5e7eb"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Teacher-as-Researcher]]"
   - "[[Instructional Design]]"
   - "[[Evidence-Based Teaching]]"
-  - "[[Visible Learning]]"
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
@@ -62,13 +61,16 @@ related_arguments:
   - "[[Argument_VonOlberg_2014_GeneralDidactics]]"
   - "[[Argument_Rolff_2014_SchoolStructure]]"
   - "[[Argument_Kremers_2014_CooperativeLearning]]"
+  - "[[Argument_Reiss_Bernhard_2014_MathematicsEducation]]"
 related_facts:
   - "[[Evidence-Based Teachers Network]]"
   - "[[PISA]]"
   - "[[PIRLS]]"
+  - "[[TIMSS]]"
+  - "[[KMK-Bildungsstandards]]"
 status: "draft"
 created: "2026-10-17"
-updated: 2026-11-26
+updated: 2026-11-27
 ---
 
 > [!volume-profile] 阅读档案
@@ -89,7 +91,7 @@ updated: 2026-11-26
 > [!chapter-roadmap] 阅读进度
 > - **准备完成** 十一篇文章已分别转换为十一个 TXT，原有脚注与参考[[Document|文献]]随文章保留。
 > - **阅读顺序** 按目录从第 1 篇开始推进。
-> - **当前进度** 已完成第 1 篇论证页（[[Argument_Terhart_2014_HolyGrail]]）、第 2 篇论证页（[[Argument_Koller_2014_WhatWorks]]）、第 3 篇论证页（[[Argument_Brugelmann_2014_LocalPractice]]）、第 4 篇论证页（[[Argument_VonOlberg_2014_GeneralDidactics]]）、第 5 篇论证页（[[Argument_Rolff_2014_SchoolStructure]]）与第 6 篇论证页（[[Argument_Kremers_2014_CooperativeLearning]]）；后续各篇具体主张、证据评价与跨篇综合留待逐篇推进。
+> - **当前进度** 已完成第 1 篇论证页（[[Argument_Terhart_2014_HolyGrail]]）、第 2 篇论证页（[[Argument_Koller_2014_WhatWorks]]）、第 3 篇论证页（[[Argument_Brugelmann_2014_LocalPractice]]）、第 4 篇论证页（[[Argument_VonOlberg_2014_GeneralDidactics]]）、第 5 篇论证页（[[Argument_Rolff_2014_SchoolStructure]]）、第 6 篇论证页（[[Argument_Kremers_2014_CooperativeLearning]]）与第 7 篇论证页（[[Argument_Reiss_Bernhard_2014_MathematicsEducation]]）；后续各篇具体主张、证据评价与跨篇综合留待逐篇推进。
 
 > [!chapter-index] 篇章阅读入口
 > - **第 1 篇，学校与教学研究的圣杯找到了吗** [[Argument_Terhart_2014_HolyGrail|Der Heilige Gral der Schul- und Unterrichtsforschung – gefunden? Eine Auseinandersetzung mit Visible Learning]]。[[Ewald Terhart]]，pp. 10–23。系统剖析二阶[[Meta-analysis|元分析]]的统计汇总方法、关键阈值与时效质控缺陷，解构激活型与促进型教师模型及对[[Constructivist Instruction|建构主义教学]]的批判，并从[[Process-Product Paradigm|过程-结果范式]]、[[Streetlight Effect|路灯效应]]、福柯式可见性规训与教育狂热修辞剖析其理论局限，终结终极圣杯神话。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch01_Terhart_Holy_Grail_of_Educational_Research.txt)。已完成解读。
@@ -100,7 +102,7 @@ updated: 2026-11-26
 > [!chapter-index] 篇章阅读入口
 > - **第 5 篇，学校结构因素真的不重要吗** [[Argument_Rolff_2014_SchoolStructure|Sind schulische Strukturfaktoren wirklich nicht so wichtig? Hattie und das deutsche Schulsystem]]。[[Hans-Günter Rolff]]，pp. 67–77。指出哈蒂基于综合制英语国家的数据无法外推至早期分流的德国多轨制，结合 [[PISA]]、[[PIRLS|IGLU]] 与 STAR 实证论证外部学制决定机会均等及校内系统变革的必要性。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch05_Rolff_School_Structural_Factors.txt)。已完成解读。
 > - **第 6 篇，[[Cooperative Learning|合作学习]]对学习有多大作用** [[Argument_Kremers_2014_CooperativeLearning|Wie lernwirksam ist das Kooperative Lernen? Lernen in kooperativen Strukturen auf dem Prüfstand der Hattie-Studie]]。Thomas Kremers，pp. 78–88。驳斥德国教师室借哈蒂研究否定合作学习并复辟传统讲授的误读，结合五大心理基石与四组元分析显性效应（对比个体学习 $d = 0.59$），借助十二项高排名特征因子构成的“强效因子束”论证合作学习的高成效及与激活型讲授结合的实践路径。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch06_Kremers_Cooperative_Learning.txt)。已完成解读。
-> - **第 7 篇，数学教学论中的可见学习与[[Problem Solving|问题解决]]** Hatties [[Visible Learning]] im Kontext der Mathematikdidaktik: Das Beispiel Problemlösen。Kristina Reiss; Matthias Bernhard，pp. 89–100。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch07_Reiss_Bernhard_Mathematics_Education.txt)。待解读。
+> - **第 7 篇，数学教学论中的可见学习与[[Problem Solving|问题解决]]** [[Argument_Reiss_Bernhard_2014_MathematicsEducation|Hatties Visible Learning im Kontext der Mathematikdidaktik: Das Beispiel Problemlösen]]。Kristina Reiss; Matthias Bernhard，pp. 89–100。以数学问题解决为例拆解“问题解决教学”（$d = 0.61$）与“问题本位学习”（$d = 0.15$）排名悬殊背后的关键词聚合与算术平均遮蔽机制，结合 [[PISA]]、[[TIMSS]] 与 [[KMK-Bildungsstandards]] 论证理论驱动元分析与国别制度校准的必要性。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch07_Reiss_Bernhard_Mathematics_Education.txt)。已完成解读。
 > - **第 8 篇，有效的学科教学，历史教学论的视角** Wirksamer Fachunterricht: Visible Learning in geschichtsdidaktischer Perspektive。Marko Demantowsky; Monika Waldis，pp. 101–116。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch08_Demantowsky_Waldis_History_Education.txt)。待解读。
 
 > [!chapter-index] 篇章阅读入口

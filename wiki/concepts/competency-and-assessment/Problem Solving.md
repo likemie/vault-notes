@@ -10,10 +10,10 @@ aliases:
 summary: "指个体在面对阻碍且无直接算法可用时，通过表征初始状态、搜索算子空间、在多重约束下权衡取舍、应用启发式策略与现场排障调试，以克服障碍并达成目标状态的高级认知与实践过程。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 59
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 62
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - theme/higher-order-thinking
   - theme/cognitive-science
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Working Memory]]"
   - "[[Peer-Supported Learning]]"
   - "[[Reciprocal Teaching]]"
+  - "[[Cooperative Learning]]"
   - "[[Cognitive Offloading]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Educational Affordances]]"
@@ -85,11 +86,13 @@ related_arguments:
   - "[[Argument_Kelly_Licona_2018_EpistemicPractices]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_Koller_2014_WhatWorks]]"
+  - "[[Argument_Kremers_2014_CooperativeLearning]]"
+  - "[[Argument_Reiss_Bernhard_2014_MathematicsEducation]]"
   - "[[Argument_Deng_2016_CE]]"
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-11-26
+updated: 2026-11-27
 ---
 
 > [!def] Problem Solving
@@ -160,6 +163,9 @@ updated: 2026-11-26
 
 > [!claim] Kremers, T.
 > **高同伴卷入的合作学习对问题解决与兴趣的优先促进** 托马斯·克雷默斯（Thomas Kremers）梳理哈蒂关于[[Cooperative Learning|合作学习]]的元分析综合（Hattie, 2013, pp. 251–252）指出，合作学习相比个体独立学习或竞争学习更能促进学业表现；当课堂实施伴随高度的同伴卷入（hohe Peer-Beteiligung）时，合作安排优先激发学生的学习兴趣并增强其问题解决能力。高校小组研究亦表明，此类增益以小组合作事前引导、专门合作策略应用及精干的小组规模为前提（Hattie, 2013, p. 113）。[[Argument_Kremers_2014_CooperativeLearning|(Kremers, 2014, pp. 82–83)]]
+
+> [!claim] Reiss, K. & Bernhard, M.
+> **数学问题解决的深层理解门槛与能力表征** 克里斯蒂娜·赖斯（Kristina Reiss）与马蒂亚斯·伯恩哈德（Matthias Bernhard）依据舍恩菲尔德（Alan H. Schoenfeld, 1985）与波利亚（George Pólya, 1949）的四阶段框架，指出德语区数学教学论仅将必须通过深入钻研内容方能求解的任务界定为问题，将其与常规练习区隔；实证数据中，[[PISA]] 2003 一般问题解决能力与数学素养的潜相关高达 $r = 0.89$（高于阅读 $r = 0.82$ 与科学 $r = 0.80$），德国小学数学能力阶梯模型亦将问题解决归入最高两级能力层级。[[Argument_Reiss_Bernhard_2014_MathematicsEducation|(Reiss & Bernhard, 2014, pp. 92–93, 96)]]
 
 ---
 
@@ -248,6 +254,7 @@ updated: 2026-11-26
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 在关于[[Generative Artificial Intelligence|生成式人工智能]]促进[[Higher-Order Thinking Skills|高阶思维]]的一阶[[Meta-analysis|元分析]]中，将问题解决能力作为首要[[Dependent Variable|因变量]]维度展开综合检验，发现其获得的促学增益最大（$g = 0.745$），并深入阐释了技术算法与程序性心智的高适配机制。
 > - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 基于教学质量三大基准维度理论，阐释认知激活策略（如概念图、互惠教学）对学生高阶问题解决能力的驱动机制，确立深层互动相较表层结构的决定性地位（p. 35）。
+> - [[Argument_Reiss_Bernhard_2014_MathematicsEducation|Reiss and Bernhard (2014)]] — 以数学问题解决为例剖析哈蒂二阶元分析在概念聚合与跨国迁移上的边界，结合 PISA 与德国能力阶梯模型论证深层理解与学科教学论的必要性（pp. 92–98）。
 > - [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014)]] — 援引哈蒂合作学习与高校小组元分析证实，在高同伴卷入与专门合作策略引导下，合作学习优先提升学生的学习兴趣与问题解决能力（pp. 82–83）。
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — 在 [[OECD]] 高等教育[[Learning Gain|增值评价]]研究中，将复杂问题解决界定为大学生跨学科通用[[21st Century Skills and Competencies Discourse|核心素养]]，系统评述了 [[Collegiate Learning Assessment|CLA+]]、[[ETS HEIghten Critical Thinking Assessment|HEIghten]] 及真实表现性任务对复杂问题解决能力的测量有效性与实施边界。
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]] — 从[[Epistemic Practices|认识论实践]]视角界定工程问题解决在多重约束权衡、原型设计迭代与数据决策中的独特规程。

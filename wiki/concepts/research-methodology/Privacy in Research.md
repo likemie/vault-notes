@@ -7,10 +7,10 @@ aliases:
 summary: "研究伦理中保护参与者个人信息的核心权利，涉及信息敏感性、观察场所私密性和信息传播三个维度，是参与者自决权和尊严保护的基础"
 type: concept
 domain: "research-methodology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 12
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - method/research-ethics
   - theme/research-governance
@@ -19,8 +19,10 @@ related_concepts:
   - "[[Anonymity in Research]]"
   - "[[Informed Consent]]"
   - "[[Rich and Thick Description]]"
+  - "[[Professional Support Staff]]"
   - "[[Sensitive Research]]"
-related_theories: []
+related_theories:
+  - "[[Cycle of Credit]]"
 related_methods:
   - "[[Questionnaire]]"
   - "[[Observation Method]]"
@@ -28,11 +30,12 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
+  - "[[Argument_DeJong_2026_SHE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 confidence: medium
 status: draft
 created: 2026-06-18
-updated: 2026-10-22
+updated: 2026-11-27
 ---
 
 > [!def] Privacy in Research
@@ -41,7 +44,7 @@ updated: 2026-10-22
 > [!concept-lens] 概念透镜
 > - **含义** 隐私指向个人对自身信息的控制权——决定什么信息、在什么条件下、以什么程度被他人知晓或收集。
 > - **用途** 帮助研究者在研究设计阶段识别信息敏感性、场所私密性和传播范围三者之间的风险，从而制定相应的保护措施。
-> - **边界** 隐私不等于保密——隐私是参与者有权不说、不被侵入的主动权利，保密是研究者不公开已知信息的承诺。隐私也不是绝对权利——参与者可自愿放弃隐私，且在某些公共利益的论证下隐私可被限制。
+> - **边界** 隐私不等于保密——隐私是参与者有权不说、不被侵入的主动权利，保密是研究者不公开已知信息的承诺。同时隐私受情境与同意条件约束：参与者可自愿放弃隐私，且在某些公共利益的论证下隐私权可被限制。
 
 > [!boundary]- 概念边界
 > - 不等于保密（[[Confidentiality]]）——隐私是参与者的权利（不参与、不回答、不被侵入），保密是研究者的义务（不披露已获得的信息）
@@ -81,6 +84,7 @@ updated: 2026-10-22
 ---
 
 > [!case] 应用案例索引
+> - 美国研究型大学中央级[[Professional Support Staff|专业支持人员]]在指导学者合规采集、存储与使用数据时，需同时对照法定条款与周边社区对隐私的期待；倘若个体项目引发社区隐私关切或被监管部门认定为大学制度性漏洞，将沿着学术[[Cycle of Credit|信用循环]]诱发居民拒绝参与后续研究、全校科研资助中断、实验室关停乃至顶尖师资招募受损（[[Argument_DeJong_2026_SHE|de Jong, 2026, pp. 1246–1247]]）
 > - 研究者在调查家庭教养方式时，在[[Questionnaire\|问卷]]中询问收入、宗教信仰和性取向等高度敏感信息——这些信息越敏感，保护措施应越多
 > - 课堂[[Observation Method\|观察研究]]——研究者应将观察限于公共行为，而非跟踪教师进入私人空间
 

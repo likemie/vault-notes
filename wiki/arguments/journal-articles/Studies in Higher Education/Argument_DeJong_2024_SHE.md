@@ -12,7 +12,7 @@ argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 authors:
-  - "de Jong, S. P. L."
+  - "[[Stefan P. L. de Jong|de Jong, S. P. L.]]"
   - "del Junco, C."
 source_language: en
 citation: "de Jong, S. P. L., & del Junco, C. (2024). How do professional staff influence academic knowledge development? A literature review and research agenda. Studies in Higher Education, 49(6), 1042–1065. https://doi.org/10.1080/03075079.2023.2258155"
@@ -35,9 +35,9 @@ tags:
   - theory/cycle-of-credit
 related_concepts:
   - "[[Professional Support Staff]]"
-  - "[[Document]]"
   - "[[Knowledge Production]]"
   - "[[Technology Transfer]]"
+  - "[[Document]]"
   - "[[Science and Technology Studies]]"
   - "[[Neoliberalism]]"
   - "[[Third Space Discourse]]"
@@ -83,7 +83,7 @@ sources:
 part_of:
 status: draft
 created: 2026-11-26
-updated: 2026-11-26
+updated: 2026-11-27
 ---
 
 ---
@@ -92,10 +92,10 @@ updated: 2026-11-26
 > 20 世纪末以来，欧美与澳洲高校中持有学位的[[Professional Support Staff|专业支持人员]]（Professional Staff, PS）已占教职工总数的 50%–60%。外界常将其批评为拖累学术的“行政膨胀”。抛开好坏对错的笼统争论不谈，这批人究竟掌握什么本事、身处怎样的关系网，又如何在改变科研的同时被科研改变？
 
 > [!claim] 核心主张
-> 54 篇英语实证[[Document|文献]]显示，高校专业支持人员学历越来越高，拥有企业与私营部门经验的人正在取代传统公共或学术背景者。他们站在同事、学者、校领导与校外机构之间，不仅借制定战略和日常管理间接设定科研条件，还靠撰改半数基金申请、培训竞争技巧和把关合规直接介入研究。要看清他们对高校[[Knowledge Production|知识生产]]的影响，研究重心须从雇员身份转向实践过程，结合[[Institutional Logics|制度逻辑]]、[[Institutional Work|制度工作]]、[[Actor-Network Theory|行动者网络理论]]（Actor-Network Theory, ANT）与[[Cycle of Credit|信用循环]]，检验他们是否在推高科研趋同的同时维护了大学的外部合法性。
+> 54 篇英语实证文献显示，高校专业支持人员学历越来越高，拥有企业与私营部门经验的人正在取代传统公共或学术背景者。他们站在同事、学者、校领导与校外机构之间，不仅借制定战略和日常管理间接设定科研条件，还靠撰改半数基金申请、培训竞争技巧和把关合规直接介入研究。要看清他们对高校[[Knowledge Production|知识生产]]的影响，研究重心须从雇员身份转向实践过程，结合[[Institutional Logics|制度逻辑]]、[[Institutional Work|制度工作]]、[[Actor-Network Theory|行动者网络理论]]（Actor-Network Theory, ANT）与[[Cycle of Credit|信用循环]]，检验他们是否在推高科研趋同的同时维护了大学的外部合法性。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 涵盖科研管理、图书馆、[[Technology Transfer|技术转移]]、国际化与院系行政等 54 篇关于高校专业支持人员的英语一手实证文献（1992–2021 年，含 46 篇期刊文章与 8 篇图书章节）。
+> - **对象** 涵盖科研管理、图书馆、[[Technology Transfer|技术转移]]、国际化与院系行政等 54 篇关于高校专业支持人员的英语一手实证[[Document|文献]]（1992–2021 年，含 46 篇期刊文章与 8 篇图书章节）。
 > - **张力** 外界批评高校行政膨胀（Ginsberg, 2011; Hedrick et al., 2009），学界也有观点认为行政与核心学术工作彼此脱钩（[[Argument_Maassen_Stensaker_2019_HEQ|Maassen & Stensaker, 2019]]）。与此同时，既有支持人员研究大多只关注工作满意度、职业认同或与学者的摩擦，很少追踪他们究竟怎样影响科研本身。
 > - **贡献** 梳理 18 个常见称谓后，以建设和改变科研教育基础条件为核心给出新定义，整合出能力、关系与影响三部分 10 项主题的实证图谱，并首次系统打通组织制度理论与科学技术学（[[Science and Technology Studies]], STS），形成可落地检验的研究方案。
 

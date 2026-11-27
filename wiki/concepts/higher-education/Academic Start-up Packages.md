@@ -9,7 +9,7 @@ aliases:
 summary: "研究型大学向新招聘理工科教职人员提供的专属科研启动资金包，用于实验室装修、昂贵科研仪器购置、研究生与博士后津贴及前三年日常运转，是学者在缺乏外部资助时获取预实验数据参与项目竞争的生存期资助工具。"
 type: concept
 domain: "higher-education"
-related_count: 23
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,8 @@ related_concepts:
   - "[[Shopping Mall Model of Research Universities]]"
   - "[[Star Scientists]]"
   - "[[Seed Funding]]"
+  - "[[Research Administrator]]"
+  - "[[Professional Support Staff]]"
   - "[[Competitiveness]]"
   - "[[Indirect Costs of Research]]"
   - "[[Early-Career Researchers]]"
@@ -47,11 +49,12 @@ related_facts:
   - "[[Bayh-Dole Act of 1980]]"
 related_arguments:
   - "[[Argument_Stephan_2013_NBER]]"
+  - "[[Argument_DeJong_2026_SHE]]"
   - "[[Argument_Atkinson_2008_TIS]]"
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-11-15
+updated: 2026-11-27
 ---
 
 ---
@@ -91,6 +94,7 @@ updated: 2026-11-15
 > - **学术廉价用工铺底（Graduate & Postdoc Personnel）** 用于资助尚未获得项目支持的研究生研究助理（GRA）津贴与博士后薪酬，迅速为实验室搭建基础实验生产流水线。
 > - **[[Pilot Testing|预实验]]探索缓冲（Pilot Data Runway）** 为新教师提供无需顾及短期外部评审指标的 3 年探索期，积累申请国家级基金所必需的初步概念验证数据。(pp. 23, 28)
 > - **明星学者转会溢价（Senior Recruitment Premium）** 针对已有成熟名望的正教授提供数倍于助理教授的超大规模配套金，成为大学通过挖角提升排名的关键武器。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 23–24)]]
+> - **基层行政幕后游说支持（Behind-the-Scenes Administrative Advocacy）** 系级[[Research Administrator|科研管理人员]]等[[Professional Support Staff|专业支持人员]]在教职招聘过程中往往居于幕后主动游说，推动校方为拟引进学者匹配足够规模的启动资源包与有竞争力的薪酬，从而打通大学招聘经费转化为高水平科研人力与后续产出的起始条件。[[Argument_DeJong_2026_SHE|(de Jong, 2026, p. 1244)]]
 
 > [!logic-map]- 启动配套金的微观运作与成本转嫁机制
 > ```mermaid
@@ -126,7 +130,7 @@ updated: 2026-11-15
 > **[[Early-Career Researchers|青年学者]]职业生存与避险选择** 探讨 3 年启动金窗口期如何重塑青年学者的科研选题偏好。
 
 > [!claim] Stephan, P.
-> **三年窗口期倒逼青年学者规避探索风险** 在商场模型下，大学提供的启动金仅能维持约 3 年的实验室运作。青年学者面临极其严酷的时间窗口：一旦启动金在 3 年内耗尽而未能斩获首个联邦项目，其实验室便面临人员解散与事实倒闭的危机。这种严酷的“自负盈亏倒计时”迫使青年学者在启动金阶段极力规避高风险、长周期的开创性研究，转而选择最容易产出[[Pilot Testing|预实验]]数据、最符合主流评审口味的渐进性题目。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 28, 30–32)]]
+> **三年窗口期迫使青年学者规避探索风险** 在商场模型下，大学提供的启动金仅能维持约 3 年的实验室运作。青年学者面临极其严酷的时间窗口：一旦启动金在 3 年内耗尽而未能斩获首个联邦项目，其实验室便面临人员解散与事实倒闭的危机。这种严酷的“自负盈亏倒计时”迫使青年学者在启动金阶段极力规避高风险、长周期的开创性研究，转而选择最容易产出[[Pilot Testing|预实验]]数据、最符合主流评审口味的渐进性题目。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 28, 30–32)]]
 
 > [!claim] [[Richard C. Atkinson|Atkinson, R. C.]]; Blanpied, W. A.
 > **长聘倒计时与资助率暴跌驱动学术成果平庸化** 理工科新聘青年教师通常享有大学提供的 3 年启动金以配置仪器并建立团队，但高校要求其必须在 3 年内斩获联邦竞争性课题，否则将在终身教职考评中被淘汰；加之联邦资助率低迷（青年博士中标率仅约 20%），迫使学者主动规避任何颠覆性高风险假说，转而选择稳妥平庸的安全项目，导致学术期刊充斥大量缺乏开创性价值的平庸[[Document|文献]]。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 44–45)]]
@@ -137,7 +141,7 @@ updated: 2026-11-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **机构财务与成本转嫁** | 启动金通胀推高大学内部科研自筹比重，驱动本科生学费上涨与生师比扩大 | 高额仪器与用工依赖的自然科学与医学教师招聘博弈 | Stephan, P.; Ehrenberg, R. |
-> | **考评重压与学术避险** | 3 年自负盈亏窗口与外部低中标率倒逼学者规避风险，诱发成果平庸化 | 处于长聘考核期的高校青年助理教授选题与基金申报 | Stephan, P.; Atkinson, R. C. & Blanpied, W. A. |
+> | **考评重压与学术避险** | 3 年自负盈亏窗口与外部低中标率迫使学者规避风险，诱发成果平庸化 | 处于长聘考核期的高校青年助理教授选题与基金申报 | Stephan, P.; Atkinson, R. C. & Blanpied, W. A. |
 
 ---
 
@@ -181,4 +185,5 @@ updated: 2026-11-15
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Stephan_2013_NBER|Stephan (2013)]] — 系统梳理启动配套金在商场模型中的微观功能，揭示其在仪器采购、生师比恶化及学费上涨中的制度传导链条。
 > - [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]] — 指出[[Research Universities|研究型大学]]为新进青年学者提供实验室装配启动经费，但后续三年若无法获得外部联邦项目资助则面临离职或退出学术界的严苛淘汰机制。
+> - [[Argument_DeJong_2026_SHE|de Jong (2026)]] — 依托美国研究型大学系级科研管理者的田野访谈，揭示专业支持人员在幕后为新聘教师争取足额启动资源包与薪酬配套的隐性协同机制（p. 1244）。
 

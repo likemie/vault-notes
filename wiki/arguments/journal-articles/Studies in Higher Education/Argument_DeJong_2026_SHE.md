@@ -7,12 +7,12 @@ title: "Argument_DeJong_2026_SHE"
 argument_key: "Argument_DeJong_2026_SHE"
 argument_display_title: "Invisible forces: The management of resources by professional staff as a contribution to knowledge development in universities"
 argument_kind: "journal-article"
-argument_related_count: 34
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 44
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 authors:
-  - "de Jong, S. P. L."
+  - "[[Stefan P. L. de Jong|de Jong, S. P. L.]]"
 source_language: en
 citation: "de Jong, S. P. L. (2026). Invisible forces: The management of resources by professional staff as a contribution to knowledge development in universities. Studies in Higher Education, 51(6), 1240–1254. https://doi.org/10.1080/03075079.2025.2504446"
 year: 2026
@@ -38,16 +38,23 @@ related_concepts:
   - "[[Enabling Bureaucracy]]"
   - "[[Bureaucracy]]"
   - "[[Research Administrator]]"
+  - "[[Informed Consent]]"
   - "[[Literature Review]]"
   - "[[Document]]"
   - "[[Knowledge Transfer]]"
+  - "[[New Public Management]]"
   - "[[Strategic Autonomy]]"
   - "[[Technology Transfer]]"
   - "[[Theoretical Standpoint]]"
+  - "[[Academic Start-up Packages]]"
   - "[[Institutional Review Board]]"
+  - "[[Privacy in Research]]"
   - "[[Professional Judgment]]"
+  - "[[Public Engagement with Science]]"
   - "[[Knowledge Mediation]]"
+  - "[[De-coupled Bureaucracy]]"
   - "[[Recommendations for Practice]]"
+  - "[[Indirect Costs of Research]]"
   - "[[Citation Distribution]]"
   - "[[Knowledge Exchange]]"
   - "[[Neoliberalism]]"
@@ -64,8 +71,11 @@ related_methods:
   - "[[Qualitative Computer Software]]"
   - "[[Qualitative Codebook]]"
 related_instruments: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Bruno Latour]]"
+  - "[[Stefan P. L. de Jong]]"
+related_facts:
+  - "[[Marie Skłodowska-Curie Actions]]"
 related_arguments:
   - "[[Argument_Maassen_Stensaker_2019_HEQ]]"
   - "[[Argument_VanderKloet_Campisi_2023_JHEPM]]"
@@ -75,7 +85,7 @@ sources:
 part_of:
 status: active
 created: 2026-11-26
-updated: 2026-11-26
+updated: 2026-11-27
 ---
 
 ---
@@ -96,7 +106,7 @@ updated: 2026-11-26
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
-> | **[[Cycle of Credit\|信用循环]]** | 改编自科学社会学模型（Latour & Woolgar, 1986），把知识发展刻画为声誉→资金→人员与设备→数据→论据→广义出版物→声誉的六节点循环，并将其延伸至大学组织层级与跨层传导链条，借此标定专业支持人员的介入环节。 |
+> | **[[Cycle of Credit\|信用循环]]** | 改编自[[Bruno Latour\|拉图尔]]与伍尔加的科学社会学模型（Latour & Woolgar, 1986），把知识发展刻画为声誉→资金→人员与设备→数据→论据→广义出版物→声誉的六节点循环，并将其延伸至大学组织层级与跨层传导链条，借此标定专业支持人员的介入环节。 |
 > | **[[Enabling Bureaucracy\|赋能型官僚制]]** | 区分强制型与赋能型[[Bureaucracy\|官僚制]]（Adler & Borys, 1996），阐明清晰的制度指引与权责边界如何减轻一线人员的角色压力、提升工作效能与胜任感，从而支撑学术生产。 |
 > | **[[Loosely Coupled Systems\|松散耦合系统]]** | 作为对照理论透镜，检视行政与学术领域之间交换有限的既定预设（Hüther & Krücken, 2018; [[Argument_Maassen_Stensaker_2019_HEQ\|Maassen & Stensaker, 2019]]），并以资源转化证据予以实证修正。 |
 
@@ -113,7 +123,7 @@ updated: 2026-11-26
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **抽样与伦理方案** | 涵盖高等教育特有岗位（如[[Research Administrator\|科研管理人员]]）与通用职能岗位（如财务控制官）；跨人文至自然科学 7 个学院及校级、系级单元抽样以抑制学科偏差。研究获蒂尔堡大学社会与行为科学学院伦理审查委员会批准（编号 RP248），全部受访者签署书面知情同意；为保护唯一岗位受访者匿名性，隐去学校名称、具体学科与真实职称。 |
+> | **抽样与伦理方案** | 涵盖高等教育特有岗位（如[[Research Administrator\|科研管理人员]]）与通用职能岗位（如财务控制官）；跨人文至自然科学 7 个学院及校级、系级单元抽样以抑制学科偏差。研究获蒂尔堡大学社会与行为科学学院伦理审查委员会批准（编号 RP248），全部受访者签署书面[[Informed Consent\|知情同意]]；为保护唯一岗位受访者匿名性，隐去学校名称、具体学科与真实职称。本研究受欧盟地平线 2020 [[Marie Skłodowska-Curie Actions\|玛丽·居里行动计划]]（Grant 883676）资助。 |
 > | **[[Qualitative Interview\|质性访谈]]** | 遵循[[Ethnography\|民族志]]访谈原则（Spradley, 1979）与系统[[Literature Review\|文献综述]]（de Jong & del Junco, 2024）编制非引导式[[Interview Protocol\|访谈提纲]]，避免先入为主强加预设概念。核心包含两大开放主问：（1）“能否说明您的工作包含哪些内容？”以此了解受访者的日常工作世界；（2）“您认为自己工作中的重要成就有哪些？”以此把握其工作实际成效，并明确只考察受访者自身视角，不作外部核证或绩效评估；收尾时还会询问是否有未谈及的话题，并确认对方是否希望获取研究成果。多数访谈持续 50–60 分钟（2 场因时间受限为 30–45 分钟），首问初始回答从不足 1 分钟至逾 10 分钟不等（多为 2–5 分钟），其间结合笔记以澄清式追问与口头总结核验理解。 |
 > | **[[Field Notes\|田野笔记]]与现场观察** | 受疫情期间居家办公影响，半数访谈（11 场）通过 Microsoft Teams 或 Zoom 线上面谈，另 11 场在受访者办公室或校园自选地点面谈；每次访谈结束均即时撰写日志梳理核心要点，线下访谈并记录办公陈设与科研象征物细节。 |
 > | **[[Open Coding\|开放编码]]与软件分析** | 录音借助 Teams 或 Amberscript 自动[[Transcription in Qualitative Research\|逐字转录]]（2 场因质量不足改为人工转录），依托[[Qualitative Computer Software\|质性计算机软件]] NVivo 12 分两阶段分析：第一阶段在资料收集同步进行，重读田野笔记归纳出社会外联期望管理与学术工作关联两大主题，并在后半程访谈中重点跟进追问；第二阶段在收集结束后建立[[Qualitative Codebook\|编码手册]]（Strauss & Corbin, 1998），依据信用循环归纳发生、内容、转化率与速度四类作用，另有 12 段相关引文未归入具体子主题（部分引文同时涉及多个子主题）。 |
@@ -190,7 +200,7 @@ updated: 2026-11-26
 
 > [!sub-claim] 1. 外部问责与教师减负共同催生了高学历的专业支持岗位
 > [!factors] 专业支持群体兴起的制度驱动因素
-> - **政府自主授权与严密绩效问责并行** 政府一方面扩大大学管理层在类市场环境中的[[Strategic Autonomy|战略自主]]权，另一方面以详尽绩效协议与监测工具追究公共资金使用责任（Braun, 2005; Pollitt & Bouckaert, 2004）。这既衍生出将资源引向管理目标的战略、法律与财务支撑需求，也带来向政府证明经费合规与绩效的举证负担（Gornitzka & Larsen, 2004; Kehm, 2015; Leslie & Rhoades, 1995; Rhoades, 2009; Scott, 1980）。
+> - **政府自主授权与严密绩效问责并行** 政府在[[New Public Management|新公共管理]]改革取向下，一方面扩大大学管理层在类市场环境中的[[Strategic Autonomy|战略自主]]权，另一方面以详尽绩效协议与监测工具追究公共资金使用责任（Braun, 2005; Pollitt & Bouckaert, 2004）。这既衍生出将资源引向管理目标的战略、法律与财务支撑需求，也带来向政府证明经费合规与绩效的举证负担（Gornitzka & Larsen, 2004; Kehm, 2015; Leslie & Rhoades, 1995; Rhoades, 2009; Scott, 1980）。
 > - **专任教师工作负荷转移与分工细化** 专任教师不愿独自承担旧任务加重与新问责职能的叠加负荷（Bleiklie et al., 2017; Paradeise et al., 2009），促成区别于传统文书、技术与体力岗位的新型专业群体形成；关于 “non-academic” 称谓的他者化争议及技术员不可见性讨论详见相关研究（Caldwell, 2024; Shapin, 1989）。
 >
 > [!feature] 专业支持人员的核心职业特征与扩张态势
@@ -218,13 +228,13 @@ updated: 2026-11-26
 
 > [!sub-claim] 1. 纳入学界之外的公开产出并贯通个人与大学两级循环
 > [!warrant]- 信用循环如何从个体科学家延伸至大学组织及支持岗位
-> 在第一阶段田野笔记分析中，系级科研管理者 Angela 在招聘新教师时幕后游说留住人选、配足启动经费并提高薪酬的叙事，已经显露支持工作与学术核心的紧密关联。第二阶段引入信用循环后进一步明确：（1）出版物节点不仅指期刊论著，还涵盖专利、政策报告与媒体传播等向社会公开论证成果的渠道（Smith et al., 2020），从而将外联传播与[[Technology Transfer|技术转移]]纳入知识生产链条；（2）学者个人的资源转化直接牵动大学组织层面的循环，例如荷兰社会心理学学术造假案中，个体省略人员与设备→数据环节直接编造数据，结果引发外界对所在机构监管程序乃至整个学科的信任危机（Enserink, 2012）。因此，保障这些转化合规、顺畅或避免停摆的支持工作，就是直接保障知识生产运转。
+> 在第一阶段田野笔记分析中，系级科研管理者 Angela 在招聘新教师时幕后游说留住人选、配足[[Academic Start-up Packages|启动经费]]并提高薪酬的叙事，已经显露支持工作与学术核心的紧密关联。第二阶段引入信用循环后进一步明确：（1）出版物节点不仅指期刊论著，还涵盖专利、政策报告与媒体传播等向社会公开论证成果的渠道（Smith et al., 2020），从而将外联传播与[[Technology Transfer|技术转移]]纳入知识生产链条；（2）学者个人的资源转化直接牵动大学组织层面的循环，例如荷兰社会心理学学术造假案中，个体省略人员与设备→数据环节直接编造数据，结果引发外界对所在机构监管程序乃至整个学科的信任危机（Enserink, 2012）。因此，保障这些转化合规、顺畅或避免停摆的支持工作，就是直接保障知识生产运转。
 
 > [!sub-claim] 2. 对接产业、翻译伦理条款与防范违规让研究环节得以启动
 > [!case] 案例组一｜促成资源转化发生（18 场访谈 / 59 段引文）
 > - **Julia（校级高级管理，5–10 年）— 撮合校企合作解锁资助转化** 负责推动大学与社会伙伴合作，把大学梳理成企业愿意对接的科研伙伴。由于联邦机构、基金会或个人资助方常要求项目具备企业参与，Julia 专门把“原本互无交集的人”拉到一起，协助学者回应资助要求，打通声誉→资金的转化渠道。
 > - **Rowan（学院科研管理，15–20 年）— 伦理审批与资助启动的中介翻译** 担任学校[[Institutional Review Board|伦理审查委员会]]与学者之间的桥梁，因为未经伦理批准项目便无法采集数据。Rowan 不仅熟稔表格与审批规程，更懂得把艰深的科学研究设计转译成非本领域评审委员能理解的语言；若缺乏她与同事的协助，研究者面对晦涩、磨人又讲究分寸的合规要求往往耗时更久、更容易心灰意冷甚至觉得项目启动无望，直接阻碍人员与设备→数据环节推进。
-> - **Aisha（校级隐私与数据管理，0–5 年）— 跨越个人与大学两级循环的系统风控（交叉路径详见下方链条与图示）** Aisha 负责搭建数据收集、存储与使用的制度框架，并在全校普及隐私意识（“确保教职人员分清哪些做法安全、哪些潜藏风险”），这既要求通晓法律法规，也要理解学者的数据使用意图。她工作中的核心考量是确保个体学者在采集数据时不违背社区隐私期待，从而在帮手头项目推进的同时保住下一个项目与全校声誉不受连带冲击（“既要帮手头这项研究顺利推进，也得保住下一个项目还能做成”）。
+> - **Aisha（校级隐私与数据管理，0–5 年）— 跨越个人与大学两级循环的系统风控（交叉路径详见下方链条与图示）** Aisha 负责搭建数据收集、存储与使用的制度框架，并在全校普及[[Privacy in Research|研究隐私]]意识（“确保教职人员分清哪些做法安全、哪些潜藏风险”），这既要求通晓法律法规，也要理解学者的数据使用意图。她工作中的核心考量是确保个体学者在采集数据时不违背社区隐私期待，从而在帮手头项目推进的同时保住下一个项目与全校声誉不受连带冲击（“既要帮手头这项研究顺利推进，也得保住下一个项目还能做成”）。
 
 > [!chain-link] 跨层连锁风险传导链：从个体数据违规到全校科研与招聘停摆
 > - **箭头 1：个体数据实践外溢至大学声誉**
@@ -261,7 +271,7 @@ updated: 2026-11-26
 
 > [!sub-claim] 2. 调动媒体名录与跨校网络缩短了成果传播和设备批复周期
 > [!case] 案例组四｜提升资源转化速度（6 场访谈 / 9 段引文）
-> - **Jennifer（学院传播与外联，5–10 年）— 记者名录加速研究成果公共传播** 凭借多年跨机构科学传播经验，Jennifer 一旦发掘适合回应公共关切的学者，便迅速依托团队手中成熟的记者通讯录，向报纸或广播媒体发出选题推介，大幅缩短学者将学术论据转化为报纸文章或广播专访等公共出版物的周期。
+> - **Jennifer（学院传播与外联，5–10 年）— 记者名录加速研究成果公共传播** 凭借多年跨机构[[Public Engagement with Science|科学传播]]经验，Jennifer 一旦发掘适合回应公共关切的学者，便迅速依托团队手中成熟的记者通讯录，向报纸或广播媒体发出选题推介，大幅缩短学者将学术论据转化为报纸文章或广播专访等公共出版物的周期。
 > - **Monica（学院科研管理，5–10 年）— 全国人脉加速前沿仪器立项批复** 曾任科研人员的 Monica 在学科教师反映“同行高校都已配齐前沿设备，本院缺设备即将落后”并向院长室申请采购时，立刻动用自己遍布全国的学术人脉，迅速查明其他研究型大学同行的配置情况，帮教师组织起扎实的立项说服材料，推动学院更快批准经费用于购置前沿设备。
 > - **机制区分补充** 在编码界定中，速度提升既包括缩短既有路径资源 A → 资源 B 的耗时（如上两例），也包括借助外部替代使学者直接从资源 A → 资源 C（跳过资源 B 环节）。
 
@@ -287,11 +297,11 @@ updated: 2026-11-26
 > |---|---|---|---|
 > | **个体与群体层** | 职业认同演化与职业发展路径 | （Gander, 2018a, 2018b; Smith et al., 2021; Yang-Yoshihara et al., 2023） | 揭示个体支持工作背后的系统级知识生产功能 |
 > | **人际关系层** | 专业支持人员与学术人员之间的互动与合作关系 | （Gibbs & Kharouf, 2020; Okotoni & Kugbayi, 2024; [[Argument_VanderKloet_Campisi_2023_JHEPM\|Vander Kloet & Campisi, 2023]]） | 证明互动通过具体资源转化链嵌入科研核心工作 |
-> | **大学组织层** | 校内支持职责的集权、分权与组织安排 | （[[Argument_Ryttberg_Geschwind_2021_TEM\|Ryttberg & Geschwind, 2021]]） | 通过组织—个体双层信用循环打通微观角色与机构声誉 |
+> | **大学组织层** | 校内支持职责的集权、分权与组织安排 | （[[Argument_Ryttberg_Geschwind_2021_TEM\|Ryttberg & Geschwind, 2021]]；涉及[[De-coupled Bureaucracy\|解耦型官僚制]]议题的 [[Argument_Maassen_Stensaker_2019_HEQ\|Maassen & Stensaker, 2019]]） | 通过组织—个体双层信用循环打通微观角色与机构声誉 |
 > | **科学系统层（新增）** | 专业支持人员在大学知识生产系统中的资源管理贡献 | 扩展版信用循环实证分析 | 确立把专业支持人员排除在外便无法真正看清科研与学术如何运转的方法论前提 |
 
 > [!implication]- 三项[[Recommendations for Practice|实践建议]]及其政策背景
-> - **紧缩时期的管理费（overhead）审慎裁员** 政府与大学董事会在推行财政紧缩时常将削减管理费用视为现成的节流方案（该建议源自德容 2024 年 9 月 26 日在荷兰全国性日报《忠信报》[*Trouw*] 发表的专栏文章），但专业支持人员正是归入管理费、却让大学能以更少资源产出更多成果的关键力量。因此，裁员前应先梳理任务优先级、识别完成任务所需的胜任力，再核实究竟由哪一群体（学术人员还是专业支持人员）持有该能力，最后决定裁撤对象。
+> - **紧缩时期的[[Indirect Costs of Research|管理费]]（overhead）审慎裁员** 政府与大学董事会在推行财政紧缩时常将削减[[Indirect Costs of Research|科研间接成本]]视为现成的节流方案（该建议源自[[Stefan P. L. de Jong|德容]] 2024 年 9 月 26 日在荷兰全国性日报《忠信报》[*Trouw*] 发表的专栏文章），但专业支持人员正是归入管理费、却让大学能以更少资源产出更多成果的关键力量。因此，裁员前应先梳理任务优先级、识别完成任务所需的胜任力，再核实究竟由哪一群体（学术人员还是专业支持人员）持有该能力，最后决定裁撤对象。
 > - **学者重构日常协作认知** 建议科研人员把专业支持人员视作帮助自己将声誉转化为经费、将论据转化为成果的合作伙伴，改变将其视为经费竞争对手的成见。
 > - **支持人员主动阐明知识贡献** 建议支持人员在介绍校内行政分工之余，有意识地从知识发展的资源管理者角度说明自身价值，从而赢得大学董事会与学者的实质认可。
 

@@ -8,7 +8,7 @@ aliases:
 summary: "布鲁诺·拉图尔与史蒂夫·伍尔加于 1986 年提出的科学社会学理论，刻画科研人员围绕声誉、资金与人员设备经数据、论据向出版物的循环转化；斯特凡·德容将该模型拓展至大学组织层级、广义公共传播与跨层风险调解，揭示专业支持人员参与学术知识生产的作用机制，适用于高校治理与科研政策分析。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 23
+theory_related_count: 27
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -27,30 +27,34 @@ related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Reliability]]"
   - "[[Document]]"
+  - "[[Technology Transfer]]"
   - "[[Early-Career Researchers]]"
   - "[[Research Universities]]"
   - "[[Research Question]]"
-  - "[[Technology Transfer]]"
   - "[[Unit of Analysis]]"
   - "[[Neoliberalism]]"
   - "[[Bureaucracy]]"
   - "[[Analytical Stance]]"
+  - "[[Discourse]]"
 related_theories:
   - "[[Loosely Coupled Systems]]"
+  - "[[Actor-Network Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Ethnography]]"
 related_instruments: []
 related_persons:
   - "[[Bruno Latour]]"
+  - "[[Stefan P. L. de Jong]]"
 related_facts:
   - "[[National Research Council]]"
 related_arguments:
   - "[[Argument_DeJong_2026_SHE]]"
+  - "[[Argument_DeJong_2024_SHE]]"
 confidence: medium
 status: draft
 created: 2026-11-26
-updated: 2026-11-26
+updated: 2026-11-27
 ---
 
 ---
@@ -74,9 +78,9 @@ updated: 2026-11-26
 
 > [!dev-timeline] 理论版本与贡献
 > - **1986 — 原初个体科学家信用循环模型** Latour 与 Woolgar 围绕个体科学家在科研实践中寻求专业承认的过程，建构了从声誉与资金出发，经人员设备、数据及论据通往科学出版物的单层循环模型（原始著作未核对，据转引整理）。[[Argument_DeJong_2026_SHE|(de Jong, 2026, pp. 1244–1245)]]
-> - **2011–2014 — 应用实践拓展研究** 劳伦斯·黑塞尔斯（Laurens K. Hessels）与哈罗·范伦特（Harro van Lente）在荷兰化学学界考察实际应用如何成为可信度来源，凯瑟琳·史密斯（Katherine E. Smith）将其用于健康不平等研究与政策互动分析（据二手文献引述，未独立入库）。[[Argument_DeJong_2026_SHE|(de Jong, 2026, p. 1250)]]
-> - **2024 — 引入高校专业支持人员研究议程** [[Argument_DeJong_2024_SHE|de Jong and del Junco (2024)]] 率先提出将信用循环与[[Actor-Network Theory|行动者网络理论]]（Actor-Network Theory, ANT）结合，连接高校非学术岗位活动与知识发展，区分改变转化速率（定量调节，如技术转移官暂缓发表以保护专利）与创造跳过环节的捷径（定性捷径，如协助把原始数据直接卖给企业以跳过论据、发表与学术声誉）两类路径，并将发展筹款、财务、人事、院校研究与传播等非近研岗位纳入分析视野（pp. 1058–1059）。
-> - **2026 — 组织层级整合与广义公共转化扩展** 斯特凡·德容（Stefan P. L. de Jong）将出版物拓展为包含专利、政策报告与媒体介入的广义公开论证渠道，提出个体循环与大学组织循环的跨层联结机制，并引入发生、内容、转化率与速度四类资源管理作用形态，将该框架从科研人员行为分析延伸至高校[[Professional Support Staff|专业支持人员]]的功能解释。[[Argument_DeJong_2026_SHE|(de Jong, 2026, pp. 1244–1245, 1250)]]
+> - **2011–2014 — 应用实践拓展研究** 劳伦斯·黑塞尔斯（Laurens K. Hessels）与哈罗·范伦特（Harro van Lente）在荷兰化学学界考察实际应用如何成为可[[Reliability|信度]]来源，凯瑟琳·史密斯（Katherine E. Smith）将其用于健康不平等研究与政策互动分析（据二手[[Document|文献]]引述，未独立入库）。[[Argument_DeJong_2026_SHE|(de Jong, 2026, p. 1250)]]
+> - **2024 — 引入高校专业支持人员研究议程** [[Argument_DeJong_2024_SHE|de Jong and del Junco (2024)]] 率先提出将信用循环与[[Actor-Network Theory|行动者网络理论]]（Actor-Network Theory, ANT）结合，连接高校非学术岗位活动与知识发展，区分改变转化速率（定量调节，如[[Technology Transfer|技术转移]]官暂缓发表以保护专利）与创造跳过环节的捷径（定性捷径，如协助把原始数据直接卖给企业以跳过论据、发表与学术声誉）两类路径，并将发展筹款、财务、人事、院校研究与传播等非近研岗位纳入分析视野（pp. 1058–1059）。
+> - **2026 — 组织层级整合与广义公共转化扩展** [[Stefan P. L. de Jong|斯特凡·德容]]（Stefan P. L. de Jong）将出版物拓展为包含专利、政策报告与媒体介入的广义公开论证渠道，提出个体循环与大学组织循环的跨层联结机制，并引入发生、内容、转化率与速度四类资源管理作用形态，将该框架从科研人员行为分析延伸至高校[[Professional Support Staff|专业支持人员]]的功能解释。[[Argument_DeJong_2026_SHE|(de Jong, 2026, pp. 1244–1245, 1250)]]
 
 ---
 
@@ -176,7 +180,7 @@ updated: 2026-11-26
 > > - **扩展资源管理视角（[[Argument_DeJong_2026_SHE|de Jong, 2026]]）** 主张纳入专利、政策报告与媒体传播等广义公开产出，并将[[Professional Support Staff|专业支持人员]]在个体与大学组织双层循环之间的协调机制纳入解释视野。[[Argument_DeJong_2026_SHE|(de Jong, 2026, pp. 1244–1245, 1249–1250)]]
 >
 > > [!axis] 资源转化支持效用：[[Enabling Bureaucracy|赋能型官僚制]]协同 vs [[Neoliberalism|新自由主义]]竞争导入张力
-> > 在肯定专业支持人员促进资源转化之外，学者提示循环协助过程中伴随的潜在价值引导与话语摩擦。
+> > 在肯定专业支持人员促进资源转化之外，学者提示循环协助过程中伴随的潜在价值引导与[[Discourse|话语]]摩擦。
 > >
 > > - **资源促进视角（[[Argument_DeJong_2026_SHE|de Jong, 2026]]）** 证明经费策划、伦理转译与财务预测直接消除学者启动阻滞、提升经费回报并保护大学整体声誉。[[Argument_DeJong_2026_SHE|(de Jong, 2026, pp. 1245–1250)]]
 > > - **批判高教治理提醒（Beime et al., 2021）** 指出资助顾问在协助将声誉转化为资金时，可能在不自觉间向学者传递充满争议的新自由主义竞争规范与绩效导向（转引自 [[Argument_DeJong_2026_SHE|de Jong, 2026, p. 1250]]）。

@@ -36,7 +36,7 @@ related_methods:
   - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
-  - "[[Ton de Jong]]"
+  - "[[Stefan P. L. de Jong]]"
 related_facts: []
 related_arguments:
   - "[[Argument_DeJong_2026_SHE]]"
@@ -44,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-11-26
-updated: 2026-11-26
+updated: 2026-11-27
 ---
 
 ---
@@ -101,7 +101,7 @@ updated: 2026-11-26
 > **学术赋能与紧密联结** 阐明大学行政与支撑体系不仅具有程序管控面相，更能作为赋能型官僚嵌入学术资源循环。
 
 > [!claim] [[Argument_DeJong_2026_SHE|de Jong (2026)]]
-> **资源管理驱动的学术赋能机制** 斯特凡·德容（Stefan P. L. de Jong）引入赋能型官僚制视角分析美国[[Research Universities|研究型大学]]的[[Professional Support Staff|专业支持人员]]后指出，支持人员在[[Cycle of Credit|信用循环]]的各个环节发挥实质性推动作用：他们通过搭桥合作、幕后倡导师资启动资源包与代办伦理审查促成资源转化发生，通过安全培训、多元化博士生源项目与校园办公空间选址塑造转化内容，通过十年离职财务测算与专利价值甄别提升转化率，并借助媒体关系与跨校网络加快成果传播及大型设备立项速度。这一经验证据直接回应了行政与学术领域仅呈[[Loosely Coupled Systems|松散耦合]]且交互有限的判断，表明学术工作与支持人员工作高度相互关联。[[Argument_DeJong_2026_SHE|(de Jong, 2026, pp. 1244–1250)]]
+> **资源管理驱动的学术赋能机制** [[Stefan P. L. de Jong|斯特凡·德容]]（Stefan P. L. de Jong）引入赋能型官僚制视角分析美国[[Research Universities|研究型大学]]的[[Professional Support Staff|专业支持人员]]后指出，支持人员在[[Cycle of Credit|信用循环]]的各个环节发挥实质性推动作用：他们通过搭桥合作、幕后倡导师资启动资源包与代办伦理审查促成资源转化发生，通过安全培训、多元化博士生源项目与校园办公空间选址塑造转化内容，通过十年离职财务测算与专利价值甄别提升转化率，并借助媒体关系与跨校网络加快成果传播及大型设备立项速度。这一经验证据直接回应了行政与学术领域仅呈[[Loosely Coupled Systems|松散耦合]]且交互有限的判断，表明学术工作与支持人员工作高度相互关联。[[Argument_DeJong_2026_SHE|(de Jong, 2026, pp. 1244–1250)]]
 
 ---
 
