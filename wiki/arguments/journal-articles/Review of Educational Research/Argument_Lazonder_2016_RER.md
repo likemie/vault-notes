@@ -20,14 +20,76 @@ tags:
   - method/meta-analysis
   - level/k12
   - level/higher-education
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Inquiry-Based Learning]]"
+  - "[[Scaffolding]]"
+  - "[[Scientific Reasoning]]"
+  - "[[Working Memory]]"
+  - "[[Productive Failure]]"
+  - "[[Variable]]"
+  - "[[Operationalization]]"
+  - "[[Construct]]"
+  - "[[Control of Variables Strategy]]"
+  - "[[Reliability]]"
+  - "[[Discovery Learning]]"
+  - "[[Research Question]]"
+  - "[[Scientific Method]]"
+  - "[[Computer Simulation]]"
+  - "[[Direct Instruction]]"
+  - "[[Lecturing]]"
+  - "[[Homework]]"
+  - "[[Task Complexity]]"
+  - "[[STEM Education]]"
+  - "[[Research Utilization]]"
+  - "[[Document]]"
+  - "[[Reflexivity]]"
+  - "[[Experiential Learning]]"
+  - "[[Zone of Proximal Development]]"
+  - "[[Doctoral Dissertation]]"
+  - "[[Homophily]]"
+  - "[[Incommensurability]]"
+  - "[[Heterogeneity]]"
+  - "[[Interaction Effect]]"
+  - "[[Worked Examples]]"
+  - "[[Internal Validity]]"
+  - "[[Authentic Science Practices]]"
+  - "[[Epistemology]]"
+  - "[[Science Programs]]"
+  - "[[Familiarization]]"
+  - "[[Publication Bias]]"
+  - "[[Dependent Variable]]"
+related_theories:
+  - "[[Cognitive Load Theory]]"
+  - "[[Inquiry Cycle]]"
+related_methods:
+  - "[[Experimental Research]]"
+  - "[[Pre-test and Post-test]]"
+  - "[[Meta-analysis]]"
+  - "[[Design-Based Research]]"
+  - "[[Effect Size]]"
+  - "[[Random-Effects Model]]"
+  - "[[Fail-Safe N]]"
+  - "[[Random Assignment]]"
+  - "[[Journal Impact Factor]]"
+  - "[[Accounts]]"
 related_instruments: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Ton de Jong]]"
+  - "[[David Klahr]]"
+  - "[[John Dewey]]"
+  - "[[Deanna Kuhn]]"
+  - "[[John Sweller]]"
+  - "[[Hilda Taba]]"
+  - "[[Cindy E. Hmelo-Silver]]"
+  - "[[Clark A. Chinn]]"
+  - "[[Lev Vygotsky]]"
+related_facts:
+  - "[[National Science Foundation]]"
+  - "[[National Research Council]]"
+  - "[[Dimensions]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[sources/Lazonder_2016_RER|Lazonder_2016_RER]]"
 part_of:
 status: active
 created: 2026-11-28
@@ -38,10 +100,10 @@ title: "Argument_Lazonder_2016_RER"
 argument_key: "Argument_Lazonder_2016_RER"
 argument_display_title: "Meta-analysis of inquiry-based learning: Effects of guidance"
 argument_kind: "journal-article"
-argument_related_count: 0
-argument_related_level: 0
-argument_related_stars: "☆"
-argument_related_color: "#dbeafe"
+argument_related_count: 61
+argument_related_level: 6
+argument_related_stars: "💎💎"
+argument_related_color: "#fecdd3"
 journal: "Review of Educational Research"
 book_title: ""
 publication_place: ""
@@ -58,18 +120,18 @@ issuing_organization: ""
 > 教学指导对探究式学习的学习活动（$d = 0.66$）、表现成功度（$d = 0.71$）与事后学习成果（$d = 0.50$）均产生中等至较大的显著正向效应；指导具体性仅显著调节探究过程中的任务表现成功度（$r = .53$），撤除教学情境后在学习成果上归于等效；且六类指导的促学效能在儿童、少年与青少年间保持一致，表明充分指导无需等同于高具体性指导，教师选型亦无需受制于学生年龄。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 1993–2013 年间 72 项面向 5–22 岁学习者的科学（93%）与数学（7%）探究式学习实验及准实验研究。
-> - **张力** 围绕探究式学习的争论焦点已从方法本身是否有效转向何种指导使其有效，但既有综述多局限于事后知识后测、采用事后归类且缺乏跨年龄段的指导具体性比较。
-> - **贡献** 首次将先验六级指导具体性分类框架应用于过程（学习活动）、即时产出（表现成功度）与事后习得（学习成果）三维度元分析，厘清强指导与高具体性指导的区别并检验年龄适配假设。
+> - **对象** 1993–2013 年间 72 项面向 5–22 岁学习者的科学（93%）与数学（7%）探究式学习实验及准[[Experimental Research|实验研究]]。
+> - **张力** 围绕探究式学习的争论焦点已从方法本身是否有效转向何种指导使其有效，但既有综述多局限于事后知识[[Pre-test and Post-test|后测]]、采用事后归类且缺乏跨年龄段的指导具体性比较。
+> - **贡献** 首次将先验六级指导具体性分类框架应用于过程（学习活动）、即时产出（表现成功度）与事后习得（学习成果）三维度[[Meta-analysis|元分析]]，厘清强指导与高具体性指导的区别并检验年龄适配假设。
 
 ---
 
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
-> | **探究学习指导类型学（Typology of Inquiry Learning Guidance）**<br>[[Scaffolding]] | 依据托恩·德容（Ton de Jong）与阿德·拉宗德（Ard W. Lazonder）的分类框架（T. De Jong & Lazonder, 2014），按具体性由低到高划分过程约束、状态概览、提示、启发线索、脚手架与解释六类指导，将命名混杂的干预统一映射至单一维度以检验具体性调节假设。 |
-> | **双空间搜索科学发现模型（Scientific Discovery as Dual Search, SDDS）**<br>[[Scientific Reasoning]] | 依据大卫·克拉尔（David Klahr）与凯文·邓巴（Kevin Dunbar）的模型（Klahr & Dunbar, 1988），将科学推理拆解为假设生成、实验设计与证据评估三个迭代过程，刻画各年龄段学习者的推理能力基线与指导需求。 |
-> | **[[Cognitive Load Theory\|认知负荷理论]]与工作记忆限制**<br>[[Cognitive Load Theory]] | 解释无指导探究为何易耗尽工作记忆容量而阻碍长时记忆编码（Kirschner et al., 2006），并构成检验高具体性指导是否必然带来更大促学效应这一隐含假设的理论对照。 |
+> | **探究学习指导类型学（Typology of Inquiry Learning Guidance）**<br>[[Scaffolding]] | 依据托恩·[[Ton de Jong\|德容]]（Ton de Jong）与阿德·拉宗德（Ard W. Lazonder）的分类框架（T. De Jong & Lazonder, 2014），按具体性由低到高划分过程约束、状态概览、提示、启发线索、脚手架与解释六类指导，将命名混杂的干预统一映射至单一维度以检验具体性调节假设。 |
+> | **双空间搜索科学发现模型（Scientific Discovery as Dual Search, SDDS）**<br>[[Scientific Reasoning]] | 依据[[David Klahr\|大卫·克拉尔]]（David Klahr）与凯文·邓巴（Kevin Dunbar）的模型（Klahr & Dunbar, 1988），将科学推理拆解为假设生成、实验设计与证据评估三个迭代过程，刻画各年龄段学习者的推理能力基线与指导需求。 |
+> | **[[Cognitive Load Theory\|认知负荷理论]]与工作记忆限制**<br>[[Cognitive Load Theory]] | 解释无指导探究为何易耗尽[[Working Memory\|工作记忆]]容量而阻碍长时记忆编码（Kirschner et al., 2006），并构成检验高具体性指导是否必然带来更大促学效应这一隐含假设的理论对照。 |
 > | **表现与学习的不对等（Incommensurability between Learning and Performance）**<br>[[Productive Failure]] | 援引马努·卡普尔（Manu Kapur）与尼古拉·鲁梅尔（Nikol Rummel）的区分（Kapur & Rummel, 2012），解释为何高具体性指导能即时提升探究任务期的产品表现，却在撤除教学情境后的事后测验中未能转化为更高的长期学习优势。 |
 
 > [!warrant]- 理论如何支撑论证
@@ -77,10 +139,10 @@ issuing_organization: ""
 
 ### 核心变量与操作化编码表
 
-> [!index-table] 核心变量操作化定义与编码规程
+> [!coding-frame] 核心[[Variable|变量]][[Operationalization|操作化]]定义与编码规程
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
-> | **学习活动（Learning Activities, LA）**<br>结果变量 | 学习者在探究过程中实际执行的技能操作，涵盖规划流程、生成假设、设计实验与反思结果；成果焦点限于探究技能或调节技能。 | 依据实验观察记录、学习者口头或书面陈述、计算机日志文件计分；纳入 20 项研究（$N = 2{,}374$），代表案例见 Gijlers and De Jong (2009, 2013)、Hagemans et al. (2013)、Lorch et al. (2010, 2014)。 |
+> | **学习活动（Learning Activities, LA）**<br>结果变量 | 学习者在探究过程中实际执行的技能操作，涵盖规划流程、生成假设、[[Design-Based Research\|设计实验]]与反思结果；成果焦点限于探究技能或调节技能。 | 依据实验观察记录、学习者口头或书面陈述、计算机日志文件计分；纳入 20 项研究（$N = 2{,}374$），代表案例见 Gijlers and De Jong (2009, 2013)、Hagemans et al. (2013)、Lorch et al. (2010, 2014)。 |
 > | **表现成功度（Performance Success, PS）**<br>结果变量 | 学习者在探究过程中实际达成的任务产出质量，成果焦点均指向学习者在任务中展现的领域知识。 | 典型指标包括有效推论数量、概念图质量、正确完成任务比例；纳入 17 项研究（$N = 1{,}019$），代表案例见 Davis (2000)、Manlove et al. (2006, 2007)、Mulder et al. (2011, 2012)。 |
 > | **学习成果（Learning Outcomes, LO）**<br>结果变量 | 探究结束后立即或短期内施测的习得结果，成果焦点涵盖探究技能、调节技能或领域知识。 | 采用后测、标准任务、访谈或问卷评估，优先使用增益分数计算效应量；纳入 60 项研究（$N = 5{,}629$），代表案例见 Chen and Klahr (1999)、Moreno (2004)、Zohar and Ben David (2008)。 |
 > | **指导类型：过程约束（Process Constraints）**<br>调节变量（具体性 1 级） | 具体性最低；不给显性操作指示，通过限制任务综合性将复杂探究拆分为可管理的子任务。 | 如模型递进（model progression）、分步增加待考察元素、仿真保真度或可控特征；案例见 Swaak et al. (1998)、Mulder et al. (2011, 2012)、Lazonder and Kamp (2012)。 |
@@ -100,9 +162,9 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |---|---|
 > | **系统检索与准入筛选** | 2014 年 1 月检索教育资源信息中心数据库（Education Resources Information Center, ERIC）、PsycINFO（限定摘要字段）与 Web of Science（限定社会科学引文索引（Social Sciences Citation Index, SSCI）与社会科学与人文科学会议录引文索引（Conference Proceedings Citation Index – Social Science & Humanities, CPI-SSH），1993–2013 年），并补充欧洲学习与教学研究协会（European Association for Research on Learning and Instruction, EARLI）、美国全国科学教学研究协会（National Association for Research in Science Teaching, NARST）与美国教育研究协会（American Educational Research Association, AERA）会议记录。使用三组检索式：`("inquiry learning" OR "discovery learning" OR "control of variables") AND ("students" OR "support" OR "instruction")`、`scaffold* AND inquiry`、`("scientific thinking" OR "scientific reasoning") AND ("learning" OR "instruction")`。执行四项纳入标准：① 5–22 岁数理探究；② 含特定指导组与无该指导对照组（不论两组是否共享基础支持）；③ 随机分配、前测等价检验或主分析控制前测差异；④ 报告定量描述或推断统计。统计不足者联系原研究团队索取，无果则剔除。 |
-> | **双人编码与信度控制** | 两位编码者独立阅读 213 篇全文并讨论确定纳入 68 篇文献（72 项独立研究），并对全部研究的结局提取达成高一致性（Cohen's $\kappa = .91$）。客观特征（发表类型、学科、设计、时长）由第二编码者评定并在存疑时协商；主观调节变量随机抽取 33 项研究双人独立编码（指导类型 $\kappa = .83$、年龄组 $\kappa = .91$、成果焦点 $\kappa = .91$），消解分歧后由第二编码者完成余项。 |
-> | **效应量计算与依赖处理** | 以组间均值差除以合并标准差计算标准化均数差（缺失均值与标准差时由 $t$、$\chi^2$、$F$ 或原始数据换算）；学习成果优先用 Lipsey and Wilson (2001) 公式由前后测转换增益分数，以补偿先验差异；全部效应量经 Hedges and Olkin (1985) 小样本偏倚校正记为 $d$，并报告标准误（Standard Error, SE）与 95% 置信区间（Confidence Interval, CI）。按 Borenstein et al. (2009) 处理四种依赖：① 独立子群（如男女分报）先还原条件汇总统计再算效应量；② 同类指导多实验组取均值并纳入相关计算方差；③ 异类指导多实验组选取最契合研究目标者（无法判定时随机择一）；④ 单结局多指标优先计入相关合成效应量，缺相关时选最相关指标或随机择一。 |
-> | **随机效应模型与调节分析** | 采用转换分析单位法（shifting-unit-of-analysis; Cooper, 1998）对三类结局分别以 Wilson (2005) 社会科学统计软件包（Statistical Package for the Social Sciences, SPSS）宏拟合逆方差加权[[Random-Effects Model\|随机效应模型]]（$Y_i = \mu + \xi_i + \epsilon_i$，权重 $W_i = 1 / (\operatorname{Var}(Y_i) + \tau^2)$，$\tau^2 = [Q - (k - 1)] / c$）。以 $z$ 检验与 Rosenthal (1979) [[Fail-Safe N\|失安全数]]检验总效应；以单因素方差分析式 $Q_b$ 与 Higgins et al. (2003) $I^2$ 评估调节效应，并以 Hochberg (1988) 步升程序将族系一类错误率控制在 $\alpha = .05$。 |
+> | **双人编码与[[Reliability\|信度]]控制** | 两位编码者独立阅读 213 篇全文并讨论确定纳入 68 篇文献（72 项独立研究），并对全部研究的结局提取达成高一致性（Cohen's $\kappa = .91$）。客观特征（发表类型、学科、设计、时长）由第二编码者评定并在存疑时协商；主观调节变量随机抽取 33 项研究双人独立编码（指导类型 $\kappa = .83$、年龄组 $\kappa = .91$、成果焦点 $\kappa = .91$），消解分歧后由第二编码者完成余项。 |
+> | **[[Effect Size\|效应量]]计算与依赖处理** | 以组间均值差除以合并标准差计算标准化均数差（缺失均值与标准差时由 $t$、$\chi^2$、$F$ 或原始数据换算）；学习成果优先用 Lipsey and Wilson (2001) 公式由前后测转换增益分数，以补偿先验差异；全部效应量经 Hedges and Olkin (1985) 小样本偏倚校正记为 $d$，并报告标准误（Standard Error, SE）与 95% 置信区间（Confidence Interval, CI）。按 Borenstein et al. (2009) 处理四种依赖：① 独立子群（如男女分报）先还原条件汇总统计再算效应量；② 同类指导多实验组取均值并纳入相关计算方差；③ 异类指导多实验组选取最契合研究目标者（无法判定时随机择一）；④ 单结局多指标优先计入相关合成效应量，缺相关时选最相关指标或随机择一。 |
+> | **[[Random-Effects Model\|随机效应模型]]与调节分析** | 采用转换分析单位法（shifting-unit-of-analysis; Cooper, 1998）对三类结局分别以 Wilson (2005) 社会科学统计软件包（Statistical Package for the Social Sciences, SPSS）宏拟合逆方差加权[[Random-Effects Model\|随机效应模型]]（$Y_i = \mu + \xi_i + \epsilon_i$，权重 $W_i = 1 / (\operatorname{Var}(Y_i) + \tau^2)$，$\tau^2 = [Q - (k - 1)] / c$）。以 $z$ 检验与 Rosenthal (1979) [[Fail-Safe N\|失安全数]]检验总效应；以单因素方差分析式 $Q_b$ 与 Higgins et al. (2003) $I^2$ 评估调节效应，并以 Hochberg (1988) 步升程序将族系一类错误率控制在 $\alpha = .05$。 |
 > | **计划对比与组内年龄检验** | 指导类型的 Hochberg 校正 $Q_b$ 显著时，按 Hedges and Pigott (2004) 开展计划对比检验具体性层级差异；随后以组内同质性检验 $Q_w$ 评估同类指导内部是否存在显著异质性，仅在同质性假设被拒绝时进一步开展年龄组计划对比。 |
 
 > [!sample-panel]- 样本与材料快照
@@ -147,25 +209,26 @@ issuing_organization: ""
 
 > [!phase] 探究式学习在科学教育中的演进脉络
 >
-> - **20 世纪前半叶：杜威奠定科学思维取向**
+> - **20 世纪前半叶：[[John Dewey|杜威]]奠定科学思维取向**
 >
 >   约翰·杜威（John Dewey, 1859–1952）反对科学教育停留在事实记忆，主张引导学生像科学家一样思考与行动（National Research Council, 2000），为探究式学习确立了思想渊源。
 >
-> - **1960 年代：发现学习运动聚焦科学内容习得**
+> - **1960 年代：[[Discovery Learning|发现学习]]运动聚焦科学内容习得**
 >
 >   受杰罗姆·布鲁纳（Jerome S. Bruner）影响（Bruner, 1961; Bruner et al., 1956），探究方法在发现学习运动中得到大规模推广，当时主要被视作习得学科概念内容的有效途径。
 >
 > - **2000 年代以来：科学过程技能培养重新居于核心**
 >
->   在迪安娜·库恩（Deanna Kuhn）与大卫·克拉尔（David Klahr）推动下（Kuhn, 2005; Klahr, 2000），科学过程技能的培养重新受到重视；多国课程标准均同时纳入科学内容与科学过程（Abd-El-Khalick et al., 2004; Achieve, 2010）。
+>   在[[Deanna Kuhn|迪安娜·库恩]]（Deanna Kuhn）与大卫·克拉尔（David Klahr）推动下（Kuhn, 2005; Klahr, 2000），科学过程技能的培养重新受到重视；多国课程标准均同时纳入科学内容与科学过程（Abd-El-Khalick et al., 2004; Achieve, 2010）。
 
-鉴于学界对探究学习尚无统一定义（Alfieri et al., 2011; Klahr & Nigam, 2004; Strike, 1975），此处将其操作化界定为学习者通过开展实验、进行观察或收集信息以推断主题或领域底层原理的教学方法。该调查由教师提供或学生自拟的一个或多个研究问题主导，大致遵循科学方法阶段，并可依托计算机模拟、虚拟实验室、实体教具或既有数据库开展，与美国国家科学基金会（National Science Foundation, 2000）及美国国家研究委员会（National Research Council, 2012）的界定一致。
+> [!def] 探究式学习的操作化界定
+> 鉴于学界对探究学习尚无统一定义（Alfieri et al., 2011; Klahr & Nigam, 2004; Strike, 1975），此处将其操作化界定为学习者通过开展实验、进行观察或收集信息以推断主题或领域底层原理的教学方法。该调查由教师提供或学生自拟的一个或多个[[Research Question|研究问题]]主导，大致遵循[[Scientific Method|科学方法]]阶段，并可依托[[Computer Simulation|计算机模拟]]、虚拟实验室、实体教具或既有数据库开展，与[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, 2000）及美国[[National Research Council|国家研究委员会]]（National Research Council, 2012）的界定一致。
 
 > [!sub-claim] 2. 学术争论已转向探究学习如何获得有效指导
 
 > [!tension] 探究式学习有效性的跨世纪理论对立
-> - **直接讲授与认知负荷派（蓝方）** 大卫·奥苏贝尔（David Ausubel）认为探究仅适合具体运算阶段学习者，一旦进入形式运算阶段，通过讲授法直接传授抽象原理更有效且更高效（Ausubel, 1962）。保罗·基尔施纳（Paul A. Kirschner）、约翰·斯威勒（John Sweller）与理查德·克拉克（Richard E. Clark）进一步从人类认知架构出发指出，探究操作本身消耗了绝大部分有限的工作记忆容量，几乎不留余量将新知编码存入长时记忆，因而无指导或最小指导的探究难以奏效（Kirschner et al., 2006）。
-> - **认知过程与脚手架探究派（红方）** 希尔达·塔巴（Hilda Taba）虽承认不可能也不宜用探究教授全部主题，但强调探究能强化学生的认知过程能力，并主张探明使探究有效的教学策略条件（Taba, 1963）。辛迪·赫梅洛-西尔弗（Cindy E. Hmelo-Silver）、拉维特·戈兰·邓肯（Ravit Golan Duncan）与克拉克·钦恩（Clark A. Chinn）反驳指出，当代探究式教学普遍部署了广泛的脚手架支持，属于强有力的有效学习模式（Hmelo-Silver et al., 2007）。
+> - **[[Direct Instruction|直接讲授]]与认知负荷派（蓝方）** 大卫·奥苏贝尔（David Ausubel）认为探究仅适合具体运算阶段学习者，一旦进入形式运算阶段，通过[[Lecturing|讲授法]]直接传授抽象原理更有效且更高效（Ausubel, 1962）。保罗·基尔施纳（Paul A. Kirschner）、[[John Sweller|约翰·斯威勒]]（John Sweller）与理查德·克拉克（Richard E. Clark）进一步从人类认知架构出发指出，探究操作本身消耗了绝大部分有限的工作记忆容量，几乎不留余量将新知编码存入长时记忆，因而无指导或最小指导的探究难以奏效（Kirschner et al., 2006）。
+> - **认知过程与脚手架探究派（红方）** [[Hilda Taba|希尔达·塔巴]]（Hilda Taba）虽承认不可能也不宜用探究教授全部主题，但强调探究能强化学生的认知过程能力，并主张探明使探究有效的教学策略条件（Taba, 1963）。[[Cindy E. Hmelo-Silver|辛迪·赫梅洛-西尔弗]]（Cindy E. Hmelo-Silver）、拉维特·戈兰·邓肯（Ravit Golan Duncan）与[[Clark A. Chinn|克拉克·钦]]恩（Clark A. Chinn）反驳指出，当代探究式教学普遍部署了广泛的脚手架支持，属于强有力的有效学习模式（Hmelo-Silver et al., 2007）。
 
 > [!sub-claim] 3. 既有研究忽视探究过程且混用指导名称
 
@@ -173,16 +236,16 @@ issuing_organization: ""
 > | 综述／元分析 | 覆盖范围与比较基准 | 核心量化或定性发现 | 局限与未解缺口 |
 > |---|---|---|---|
 > | Bittinger (1968); Hermann (1969) | 早期发现／探究学习对比讲授法 | 探究在知识迁移上优势最显著（讲授法在保持上常占优）；实验室与常规课堂均有效，但常规课堂效应较弱；部分研究内比较显示适度指导优于低指导。 | 跨研究指导数量与类型差异极大，缺乏统计合成与类型划分。 |
-> | T. De Jong and Van Joolingen (1998) | 科学领域计算机模拟探究综述 | 附加教学措施的模拟优于无指导模拟；三类有效措施为探究中提供领域信息、提供结构化任务作业、通过模型递进约束任务复杂度。 | 限于计算机模拟环境，未作量化效应合并。 |
+> | T. De Jong and Van Joolingen (1998) | 科学领域计算机模拟探究综述 | 附加教学措施的模拟优于无指导模拟；三类有效措施为探究中提供领域信息、提供结构化任务[[Homework\|作业]]、通过模型递进约束[[Task Complexity\|任务复杂度]]。 | 限于计算机模拟环境，未作量化效应合并。 |
 > | T. De Jong et al. (2013) | 实体实验对比技术增强探究（模拟／在线实验室） | 在概念知识习得上，实体材料调查与计算机模拟或在线实验室调查具有同等有效性，提示模拟指导优势可推广至其他教学情境。 | 未检验不同具体性指导的相对效应。 |
-> | D’Angelo et al. (2014) | 科学、技术、工程与数学（Science, Technology, Engineering, and Mathematics, STEM）模拟探究元分析 | 模拟优于非模拟教学（$d = 0.62$），但对学习活动无显著影响（$d = 0.26$）；附加指导促进学习成果（$d = 0.49$）与探究技能（$d = 0.41$），且独立于指导类型；五年级生未能从模拟指导中获益而年长者获益，且数学领域指导无效、科学领域显著有效。 | 非模拟组涵盖“其他某种教学处理”，易将模拟效应与教学法混淆；限于模拟环境且指导归类偏事后。 |
+> | D’Angelo et al. (2014) | 科学、技术、工程与数学（Science, Technology, Engineering, and Mathematics, [[STEM Education\|STEM]]）模拟探究元分析 | 模拟优于非模拟教学（$d = 0.62$），但对学习活动无显著影响（$d = 0.26$）；附加指导促进学习成果（$d = 0.49$）与探究技能（$d = 0.41$），且独立于指导类型；五年级生未能从模拟指导中获益而年长者获益，且数学领域指导无效、科学领域显著有效。 | 非模拟组涵盖“其他某种教学处理”，易将模拟效应与教学法混淆；限于模拟环境且指导归类偏事后。 |
 > | Alfieri et al. (2011) | 跨领域无指导／指导发现对比显性教学 | 无指导或最小指导探究显著劣于显性教学（$d = -0.38$）；辅以充分指导的探究则显著优于显性教学（$d = 0.30$）。 | 聚焦探究与讲授的方法间对比，未按理论维度细分探究内部指导类型。 |
 > | Furtak et al. (2012) | 科学探究教学对比传统讲授 | 教师最小指导的探究略优于传统讲授（$d = 0.25$）；教师引导的探究教学总体效应升至 $d = 0.65$。 | 侧重事后学科知识后测，忽略过程活动与即时任务产出。 |
 > | Carolan et al. (2014) | 成人模拟探索与学习者控制训练元分析 | 高指导探究相较于低指导探究呈现小幅但显著的总体优势（$g = 0.15$）。 | 限于成人教育与模拟训练，未覆盖 K-12 跨年龄比较。 |
 
 > [!case] 既有实证研究中的术语混乱与跨龄单指导错配案例
 > - **重结果轻过程导致机制黑箱** 多数实证研究仅凭事后知识后测推断指导效果，极少像 Burns and Vollmeyer (2002)、Chinn and Malhotra (2002a)、Lazonder et al. (2010) 或 Toth et al. (2000) 那样同步测量探究过程与事后成果，难以直接检验指导是否按预期促进了推理活动。
-> - **异名同指与同名异指引发无谓争论** 部分研究使用无法传达指导实质的名称，如系统科学教学（Samarapungavan et al., 2008）、信息小贴士（Hulshof & De Jong, 2006）与机制线索（Kaplan & Black, 2003）。同一项提醒学生使用变量控制策略的指导，在不同文献中分别被称为机制线索（Kaplan & Black, 2003）、提示（Marschner et al., 2012）、启发法（Veermans et al., 2006）与暗示（Rey, 2011）。反过来，Puntambekar and Hubscher (2005) 指出脚手架一词被泛化用于缺乏持续诊断、动态校准与渐隐特征的支持工具，导致操作定义缺失并引发不必要的学术分歧（Klahr, 2013）。
+> - **异名同指与同名异指引发无谓争论** 部分[[Research Utilization|研究使用]]无法传达指导实质的名称，如系统科学教学（Samarapungavan et al., 2008）、信息小贴士（Hulshof & De Jong, 2006）与机制线索（Kaplan & Black, 2003）。同一项提醒学生使用变量控制策略的指导，在不同[[Document|文献]]中分别被称为机制线索（Kaplan & Black, 2003）、提示（Marschner et al., 2012）、启发法（Veermans et al., 2006）与暗示（Rey, 2011）。反过来，Puntambekar and Hubscher (2005) 指出脚手架一词被泛化用于缺乏持续诊断、动态校准与渐隐特征的支持工具，导致操作定义缺失并引发不必要的学术分歧（Klahr, 2013）。
 > - **指导具体性选择独立于学习者年龄** 单项研究多限于单一指导与单一年龄组，且研究者选用高具体性或低具体性指导并未依循年龄规律：变量控制策略直接讲授既成功应用于儿童（Klahr & Nigam, 2004; Varma, 2014），也同样惠及年长学习者（Sao Pedro et al., 2009）；反之，低具体性的模型递进则在儿童（White, 1993）、少年（Wichmann & Timpe, 2013）与青少年（Mulder et al., 2011）中均显现促学效果。
 
 ---
@@ -202,7 +265,18 @@ issuing_organization: ""
 
 > [!sub-claim] 2. 检验年龄差异须按指导具体性高低重新分类
 
-既有文献常按探究活动划分指导，例如 T. De Jong (2006) 按探究循环阶段、Lazonder (2014) 按三类科学推理过程、Reid et al. (2003) 区分解释性／实验性／反思性支持，以及 Quintana et al. (2004) 围绕意义建构、过程管理与表达反思提出软件支架原则。这些分类虽被广泛引用，却无法直接检验低龄低经验学习者是否需要更显性指导的发展假设，因此采用 T. De Jong and Lazonder (2014) 按具体性递增排列的六类指导框架。
+> [!warrant]- 为何改用按具体性递增的指导分类
+> 既有文献常按探究活动划分指导，例如 T. De Jong (2006) 按[[Inquiry Cycle|探究循环]]阶段、Lazonder (2014) 按三类科学推理过程、Reid et al. (2003) 区分解释性／实验性／[[Reflexivity|反思性]]支持，以及 Quintana et al. (2004) 围绕意义建构、过程管理与表达反思提出软件支架原则。这些分类虽被广泛引用，却无法直接检验低龄低[[Experiential Learning|经验学习]]者是否需要更显性指导的发展假设，因此采用 T. De Jong and Lazonder (2014) 按具体性递增排列的六类指导框架。
+
+> [!spectrum] 探究学习指导具体性六级谱系（T. De Jong & Lazonder, 2014）
+> **← 最低具体性（学习者主导）**　·　**最高具体性（明确示范） →**
+>
+> - **过程约束** 拆分任务复杂度，不给操作指示
+> - **状态概览** 可视化任务进度，自主决定调整
+> - **提示** 定时提醒做什么，不告知怎么做
+> - **启发线索** 提醒做什么并建议可能做法
+> - **脚手架** 接管或简化行动中的困难环节
+> - **解释** 精确规定每一步如何执行
 
 > [!row-contrast] 探究学习指导类型学（T. De Jong & Lazonder, 2014）
 > | 指导类型 | 核心理念 | 预设适用受众 | 具体性层级 |
@@ -221,7 +295,7 @@ issuing_organization: ""
 > - **状态概览（可视化状态，决策权全归学习者）** 在线协作探究中的参与度工具（Participation Tool）直观呈现小组各成员在在线讨论中的贡献量，是否据此调整参与行为完全由学生自行决定，实证表明该工具能促使沉默或低活跃学生提升参与度（Janssen et al., 2007）。
 > - **提示（定时提醒做什么，不告知怎么做）** 由教师口头给出或嵌入学习环境，在探究恰当时机触发线索，提醒学生执行特定操作（如检验变量或反思结论），但具体方法仍由学生自主调用。
 > - **启发线索（提醒做什么并建议怎么做）** 既可作为线索在预设探究节点弹出（Lee & Chen, 2009）或依学生操作自适应触发（Veermans et al., 2006），也可在探究开始前以一系列结构化任务作业或学生工作表上的过程指南形式完整提供（De Vries et al., 2008; Njoo & De Jong, 1993）。
-> - **脚手架（接管困难环节，短期探究可合理省略渐隐）** 呼应[[Lev Vygotsky|维果茨基]]（Vygotsky, 1978）的最近发展区理念，通过专用工具解释、结构化或简化高难度操作；在短期探究中因探究技能发展缓慢，往往且合理地不设置渐隐环节。典型案例如 Go-Lab 在线实验室联邦环境（T. De Jong et al., 2014），针对小学、初中与高中学习者在提出研究问题、生成假设与设计实验等关键阶段分别内置专用支架应用。
+> - **脚手架（接管困难环节，短期探究可合理省略渐隐）** 呼应[[Lev Vygotsky|维果茨基]]（Vygotsky, 1978）的[[Zone of Proximal Development|最近发展区]]理念，通过专用工具解释、结构化或简化高难度操作；在短期探究中因探究技能发展缓慢，往往且合理地不设置渐隐环节。典型案例如 Go-Lab 在线实验室联邦环境（T. De Jong et al., 2014），针对小学、初中与高中学习者在提出研究问题、生成假设与设计实验等关键阶段分别内置专用支架应用。
 > - **解释（最具体，支持前置训练或即时嵌入）** 区别于其他五类指导，解释可在探究前作为简短准备性训练提供，也可在探究中即时提供。最具代表性的案例是克拉尔团队开发的[[Control of Variables Strategy|变量控制策略]]直接教学（Klahr & Li, 2005）：通过简短的教师示范讲解、样例剖析与引导练习，不仅大幅提升儿童设计无混淆实验的能力，且促学效果在教学后 3 年仍持续保持（Strand-Cary & Klahr, 2008）；该原理后续被转化为嵌入式软件导师，在学生探究过程中即时推送变量控制讲解（Siler et al., 2009）。
 
 ---
@@ -241,7 +315,7 @@ issuing_organization: ""
 > | **发表类型** | — | — | — | — | 0.94 | 2 | .624 | 0.00 |
 > | 期刊文章（IF $\ge 1.5$） | 14 | 0.61 | .13 | [0.35, 0.88] | — | — | — | — |
 > | 期刊文章（IF $< 1.5$） | 5 | 0.70 | .22 | [0.26, 1.16] | — | — | — | — |
-> | 学位论文 | 1 | 1.13 | .52 | [0.10, 2.15] | — | — | — | — |
+> | [[Doctoral Dissertation\|学位论文]] | 1 | 1.13 | .52 | [0.10, 2.15] | — | — | — | — |
 > | **研究设计** | — | — | — | — | 0.00 | 1 | .973 | 0.00 |
 > | 随机实验 | 12 | 0.66 | .15 | [0.36, 0.96] | — | — | — | — |
 > | 准实验 | 8 | 0.66 | .17 | [0.32, 1.01] | — | — | — | — |
@@ -256,7 +330,8 @@ issuing_organization: ""
 > | 脚手架 | 6 | 0.77 | .23 | [0.31, 1.22] | — | — | — | — |
 > | 解释 | 5 | 0.70 | .19 | [0.34, 1.07] | — | — | — | — |
 
-20 项研究显示，指导使学习者在探究中更熟练地运用探究技能（$z = 5.85, p < .001$），按 Cohen (1988) 标准属中到大效应；Rosenthal 失安全数达 $1{,}419$，表明需额外纳入 1,419 项零效应研究方可推翻显著性。成果焦点、发表类型、研究设计、干预时长与指导类型均无显著调节效应。总体组内异质性显著（$Q_w(14) = 24.50, p = .040$），且两类指导在方向上与年龄假设吻合：具体性最低的过程约束在青少年组（$d = 0.94$）高于儿童组（$d = 0.78$），具体性较高的脚手架在少年组（$d = 3.62$）高于青少年组（$d = 0.70$）；但受限于研究数偏少，所有年龄对比均未达统计显著（$Q_w < 9.77, p > .062$）。
+> [!result-reading]- 学习活动结果解读与年龄趋势
+> 20 项研究显示，指导使学习者在探究中更熟练地运用探究技能（$z = 5.85, p < .001$），按 Cohen (1988) 标准属中到大效应；Rosenthal 失安全数达 $1{,}419$，表明需额外纳入 1,419 项零效应研究方可推翻显著性。成果焦点、发表类型、研究设计、干预时长与指导类型均无显著调节效应。总体组内异质性显著（$Q_w(14) = 24.50, p = .040$），且两类指导在方向上与年龄假设吻合：具体性最低的过程约束在青少年组（$d = 0.94$）高于儿童组（$d = 0.78$），具体性较高的脚手架在少年组（$d = 3.62$）高于青少年组（$d = 0.70$）；但受限于研究数偏少，所有年龄对比均未达统计显著（$Q_w < 9.77, p > .062$）。
 
 > [!sub-claim] 2. 指导越具体，学生探究期间的产出质量越高
 
@@ -281,8 +356,6 @@ issuing_organization: ""
 > | 脚手架 | 6 | 0.80 | .13 | [0.55, 1.05] | — | — | — | — |
 > | 解释 | 1 | 1.45 | .37 | [0.72, 2.18] | — | — | — | — |
 
-17 项研究显示，有指导组在探究产出物质量上领先无指导组逾半个标准差（$z = 7.30, p < .001$；Rosenthal 失安全数 $N_{\text{fs}} = 753$）。经 Hochberg 多重比较校正后，发表类型与时长不显著，两项调节变量显著：随机实验效应量（$d = 0.94$）接近准实验（$d = 0.54$）的两倍（$I^2 = 83.08\%$，按 Higgins et al., 2003 属高真实变异），提示方法学质量是效应分化的重要来源；指导类型亦显著调节效应量（$I^2 = 65.13\%$，属中等真实变异），且更高具体性与更大效应呈显著正相关（$r = .53, p = .030$）。
-
 > [!ref-table] 表现成功度中六类指导的 Hedges–Pigott 计划对比检验结果
 > | 对比组合 | 检验量 $z$ | 显著性 $p$ | 结论与样本边界 |
 > |---|---|---|---|
@@ -292,7 +365,8 @@ issuing_organization: ""
 > | **提示 vs. 状态概览与过程约束之和** | 0.25 | .401 | 效能无显著差异 |
 > | **状态概览 vs. 过程约束** | 2.01 | .023 | 状态概览显著弱于过程约束 |
 
-表现成功度的组内同质性检验不显著（$Q_w(11) = 15.42, p = .164$），说明同类指导对儿童、少年与青少年探究产出的促进效果一致。
+> [!result-reading]- 表现成功度结果解读与组内[[Homophily|同质性]]
+> 17 项研究显示，有指导组在探究产出物质量上领先无指导组逾半个标准差（$z = 7.30, p < .001$；Rosenthal 失安全数 $N_{\text{fs}} = 753$）。经 Hochberg 多重比较校正后，发表类型与时长不显著，两项调节变量显著：随机实验效应量（$d = 0.94$）接近准实验（$d = 0.54$）的两倍（$I^2 = 83.08\%$，按 Higgins et al., 2003 属高真实变异），提示方法学质量是效应分化的重要来源；指导类型亦显著调节效应量（$I^2 = 65.13\%$，属中等真实变异），且更高具体性与更大效应呈显著正相关（$r = .53, p = .030$）。组内同质性检验不显著（$Q_w(11) = 15.42, p = .164$），说明同类指导对儿童、少年与青少年探究产出的促进效果一致。
 
 > [!sub-claim] 3. 六类指导在事后测验上效果相当，且更利于习得探究技能
 
@@ -325,7 +399,8 @@ issuing_organization: ""
 > | 脚手架 | 19 | 0.34 | .12 | [0.11, 0.56] | — | — | — | — |
 > | 解释 | 25 | 0.61 | .10 | [0.42, 0.80] | — | — | — | — |
 
-60 项学习成果研究的合并效应达半个标准差（$z = 7.83, p < .001$；Rosenthal 失安全数 $N_{\text{fs}} = 6{,}379$），属中等效应。发表类型在校正前呈显著趋势（期刊效应高于会议报告与学位论文之和，且期刊影响因子与效应量正相关 $r = .31, p = .049$），但经 Hochberg 校正后转为不显著。唯一保持显著的调节变量为成果焦点（$I^2 = 89.39\%$）：评估探究技能的效应量（$d = 0.78$）超过领域知识（$d = 0.37$）的两倍。学科领域、研究设计、干预时长与指导类型均无显著调节效应，且组内方差分析确认儿童、少年与青少年从各类指导中的获益无显著差异（$Q_w(54) = 62.73, p = .194$）。
+> [!result-reading]- 学习成果结果解读与调节检验
+> 60 项学习成果研究的合并效应达半个标准差（$z = 7.83, p < .001$；Rosenthal 失安全数 $N_{\text{fs}} = 6{,}379$），属中等效应。发表类型在校正前呈显著趋势（期刊效应高于会议报告与学位论文之和，且期刊影响因子与效应量正相关 $r = .31, p = .049$），但经 Hochberg 校正后转为不显著。唯一保持显著的调节变量为成果焦点（$I^2 = 89.39\%$）：评估探究技能的效应量（$d = 0.78$）超过领域知识（$d = 0.37$）的两倍。学科领域、研究设计、干预时长与指导类型均无显著调节效应，且组内方差分析确认儿童、少年与青少年从各类指导中的获益无显著差异（$Q_w(54) = 62.73, p = .194$）。
 
 ---
 
@@ -335,20 +410,20 @@ issuing_organization: ""
 > [!sub-claim] 1. 撤除指导情境后，高具体性带来的成绩优势很快消退
 
 > [!warrant]- 为何高具体性指导提升即时任务表现却不提升事后学习成果
-> 首先，纳入的教学指导几乎全部指向探究技能本身，因此对探究技能后测（$d = 0.78$）的直接促进超过领域知识后测（$d = 0.37$）的两倍；经由执行探究技能去间接归纳领域知识虽属可行，却容易受到未被技能指导覆盖的推断误差干扰。其次，学习成果的 60 项研究中有 42 项聚焦领域知识，而表现成功度同样测量领域知识；高具体性指导虽能在探究进行时即时提升学生产出物中的领域知识质量，但一旦教学情境撤除，这种初始差异便迅速消退。这直接印证了 Kapur and Rummel (2012) 提出的表现与学习不对等规律（incommensurability between learning and performance）：专为抬高任务期表现设计的教学干预，在促进长期学习与迁移上往往并不具备同等优势。
+> 首先，纳入的教学指导几乎全部指向探究技能本身，因此对探究技能后测（$d = 0.78$）的直接促进超过领域知识后测（$d = 0.37$）的两倍；经由执行探究技能去间接归纳领域知识虽属可行，却容易受到未被技能指导覆盖的推断误差干扰。其次，学习成果的 60 项研究中有 42 项聚焦领域知识，而表现成功度同样测量领域知识；高具体性指导虽能在探究进行时即时提升学生产出物中的领域知识质量，但一旦教学情境撤除，这种初始差异便迅速消退。这直接印证了 Kapur and Rummel (2012) 提出的表现与学习不对等规律（[[Incommensurability|incommensurability]] between learning and performance）：专为抬高任务期表现设计的教学干预，在促进长期学习与迁移上往往并不具备同等优势。
 
 > [!sub-claim] 2. 各年龄段效果相近，或因实验已按年龄调低任务难度
 
 > [!tension] 为何儿童、少年与青少年从各类指导中的获益无显著差异
-> - **普遍适用解释（蓝方）** 除学习活动存在显著组内异质性但样本不足以确证外，表现成功度与学习成果的组内同质性检验均表明，不同年龄段从高、低具体性指导中获得的收益相近，低龄低技能学习者已能有效利用低具体性支持，年长高熟练学习者同样受益于脚手架与解释。
-> - **任务难度适配混淆解释（红方）** 实证研究者在设计实验时通常会针对目标年龄组调整探究任务难度，使低龄学生面对较简单任务、高龄学生面对较复杂任务，从而在跨研究层面抵消了年龄间的推理能力差距。要剥离这一混淆，亟需开展跨年龄同任务随机实验，让不同年龄段参与者完成完全相同的探究任务并随机分配至有指导或无指导条件（Penner & Klahr, 1996; Schauble, 1996; Tschirgi, 1980; Veenman et al., 2004）。
+> - **普遍适用解释（蓝方）** 除学习活动存在显著组内[[Heterogeneity|异质性]]但样本不足以确证外，表现成功度与学习成果的组内同质性检验均表明，不同年龄段从高、低具体性指导中获得的收益相近，低龄低技能学习者已能有效利用低具体性支持，年长高熟练学习者同样受益于脚手架与解释。
+> - **任务难度适配混淆解释（红方）** 实证研究者在设计实验时通常会针对目标年龄组调整探究任务难度，使低龄学生面对较简单任务、高龄学生面对较复杂任务，从而在跨研究层面抵消了年龄间的推理能力差距。要剥离这一混淆，亟需开展跨年龄同任务随机实验，让不同年龄段参与者完成完全相同的探究任务并[[Random Assignment|随机分配]]至有指导或无指导条件（Penner & Klahr, 1996; Schauble, 1996; Tschirgi, 1980; Veenman et al., 2004）。
 
 > [!sub-claim] 3. 短期课也能测出真实效果，数学与期刊等级均不影响结论
 
 > [!evidence-grid] 三项零调节发现对既有经验共识的修正
-> - **学科领域无调节（反驳数学探究指导无效论）** 尽管数学研究仅占样本 7%，但与数学同样代表性不足的 D’Angelo et al. (2014) 报告数学指导无效不同，数学与科学之间未出现显著调节效应，提示指导收益可跨数理学科泛化。
+> - **学科领域无调节（反驳数学探究指导无效论）** 尽管数学研究仅占样本 7%，但与数学同样代表性不足的 D’Angelo et al. (2014) 报告数学指导无效不同，数学与科学之间未出现显著[[Interaction Effect|调节效应]]，提示指导收益可跨数理学科泛化。
 > - **干预时长无调节（肯定短期研究的诊断效力）** 单次课与多次课效应无显著差异，呼应 D’Angelo et al. (2014) 并反驳了必须开展长周期干预方能测得真实探究指导效应的普遍担忧（T. De Jong & Lazonder, 2014; Kuhn et al., 1995）。短期研究已足以显现指导的真实影响，延长周期可维持该增益；但指导本身不能充当加速自然发展节奏的催化剂，证据评估等高阶技能仍需更长时间逐步养成（Zimmerman, 2007）。
-> - **发表类型校正后无调节（反驳高影响因子期刊必然刊登大效应的普遍假定）** 经 Hochberg 校正后，期刊等级、会议报告与学位论文间的效应差异未达显著，挑战了教育学界关于大效应研究更常发表于高声望期刊的普遍假定。
+> - **发表类型校正后无调节（反驳高[[Journal Impact Factor|影响因子]]期刊必然刊登大效应的普遍假定）** 经 Hochberg 校正后，期刊等级、会议报告与学位论文间的效应差异未达显著，挑战了教育学界关于大效应研究更常发表于高声望期刊的普遍假定。
 
 ---
 
@@ -359,14 +434,14 @@ issuing_organization: ""
 
 > [!implication]- 对指导类型学、认知负荷争论与未来研究的启示
 > - **修订指导类型学的受众适配预设** T. De Jong and Lazonder (2014) 框架成功实现了按单一具体性维度归类既往研究，但其关于指导具体性与学习者先验技能严格一一对应的预设被实证推翻，后续理论建构须重新界定各类型与学习者特征的关系。
-> - **区分强指导与高具体性指导** Kirschner et al. (2006) 呼吁高强度教学指导的隐含前提是越具体的指导带来越多学习，并重点推崇工作样例（worked examples）与过程工作表，两者均已成功应用于探究教学（De Vries et al., 2008; Mulder et al., 2014）。按上述分类框架，工作样例属高具体性的解释，过程工作表属中具体性的启发线索，二者却产生相近的正向学习与表现效应。这表明有效减轻工作记忆负荷的强指导未必依赖高具体性，指导的频率与持续时间等维度可能更为关键。
-> - **拓展至多类指导的组合编排** 单一类型指导的受控实验便于保证内部效度，但真实探究课堂往往同时组合多种支持，例如教师先以简短基准课开启探究，探究中按需给予暗示、反馈与解释，探究后组织讨论学生表现。不同指导如何最优组合以及组合是否优于单一指导，是亟待填补的实证空白。
+> - **区分强指导与高具体性指导** Kirschner et al. (2006) 呼吁高强度教学指导的隐含前提是越具体的指导带来越多学习，并重点推崇工作样例（[[Worked Examples|worked examples]]）与过程工作表，两者均已成功应用于探究教学（De Vries et al., 2008; Mulder et al., 2014）。按上述分类框架，工作样例属高具体性的解释，过程工作表属中具体性的启发线索，二者却产生相近的正向学习与表现效应。这表明有效减轻工作记忆负荷的强指导未必依赖高具体性，指导的频率与持续时间等维度可能更为关键。
+> - **拓展至多类指导的组合编排** 单一类型指导的受控实验便于保证[[Internal Validity|内部效度]]，但真实探究课堂往往同时组合多种支持，例如教师先以简短基准课开启探究，探究中按需给予暗示、反馈与解释，探究后组织讨论学生表现。不同指导如何最优组合以及组合是否优于单一指导，是亟待填补的实证空白。
 
 > [!sub-claim] 2. 日常教学可多用低具体性指导，竞赛展示才需详尽讲解
 
 > [!example] 面向日常促学、竞赛展示与跨学段课堂的指导选型案例
-> - **日常数理课堂：以低具体性指导保留真实探究空间** 凡开展探究教学（不论单节微探究还是跨多课时的综合项目）均须提供指导，但日常促学不必事无巨细。例如，数学教师无需逐步指令学生完成数学建模的每一个环节，提供传达各阶段要点的启发线索通常即已足够；小学科学教师既可在探究前教授实验设计基础（解释），也可通过在探究中逐一引入待考察变量（过程约束）达到同等的技能促学效果。此类设计有助于构建贴近真实科学实践的学校探究任务（Chinn & Malhotra, 2002b），使低龄儿童也能理解科学调查的方法与认识论。
-> - **高表现目标场景：采用高具体性解释以最大化产出质量** 教学目标若要求学生产出高质量探究成果（例如面向家长的科学项目展示，或提交全国科学竞赛的学生作品），则宜采用高具体性指导；效应量模式提示，对尚未掌握的探究技能作完整解释，在提升即时任务产出质量上最具优势。
+> - **日常数理课堂：以低具体性指导保留真实探究空间** 凡开展探究教学（不论单节微探究还是跨多课时的综合项目）均须提供指导，但日常促学不必事无巨细。例如，数学教师无需逐步指令学生完成数学建模的每一个环节，提供传达各阶段要点的启发线索通常即已足够；小学科学教师既可在探究前教授实验设计基础（解释），也可通过在探究中逐一引入待考察变量（过程约束）达到同等的技能促学效果。此类设计有助于构建贴近[[Authentic Science Practices|真实科学实践]]的学校探究任务（Chinn & Malhotra, 2002b），使低龄儿童也能理解科学调查的方法与[[Epistemology|认识论]]。
+> - **高表现目标场景：采用高具体性解释以最大化产出质量** 教学目标若要求学生产出高质量探究成果（例如面向家长的[[Science Programs|科学项目]]展示，或提交全国科学竞赛的学生作品），则宜采用高具体性指导；效应量模式提示，对尚未掌握的探究技能作完整解释，在提升即时任务产出质量上最具优势。
 > - **跨学段灵活选型：以先验知识与班级条件替代年龄标准** 由于儿童、少年与青少年间不存在一致的指导类型差异，教师无需以学生年龄决定具体性层级，而应依据主题先验知识、探究技能熟悉度与师生比综合权衡。因此，小学教师完全可向儿童提供简明提示而不必冗长讲解，初高中教师也可在探究伊始通过明确指令或微型讲授支持青少年。
 
 ---
@@ -399,18 +474,18 @@ issuing_organization: ""
 > [!citation-card] 强指导未必等于讲得越细越好
 > 工作样例属于解释，过程工作表属于启发线索，两者详略程度不同，却在学习成果和任务表现上都收效相近。这说明强指导未必等于讲得越细越好，指导的频率与持续时间等因素，或许才是减轻探究学习工作记忆负担的关键。
 >
-> *The results of the meta-analyses confirm that even though worked examples and process worksheets differ in specificity—they would be classified as explanations and heuristics, respectively—both would yield similar positive effects on learning and performance. This suggests that “strong guidance” does not necessarily mean “specific guidance;” other dimensions such as the frequency and duration of the guidance might be more imperative to help reduce the demands of inquiry-based learning on working memory.*
+> *The results of the meta-analyses confirm that even though worked examples and process worksheets differ in specificity—they would be classified as explanations and heuristics, respectively—both would yield similar positive effects on learning and performance. This suggests that “strong guidance” does not necessarily mean “specific guidance;” other [[Dimensions|dimensions]] such as the frequency and duration of the guidance might be more imperative to help reduce the demands of inquiry-based learning on working memory.*
 
 > [!citation-card] 挑选指导方式不必看学生年龄
 > 教师挑选指导方式时，不必把学生年龄当成硬杠杠。既然各年龄段的效果没有明显差别，教师更应根据学生对课题的已有知识、对探究技能的熟悉程度以及班级师生比来灵活选择。
 >
-> *Finally, teachers do not have to take the age of their students into account in selecting a particular type of guidance. ... In absence of any consistent age-related differences, teachers can base their choice of guidance on other factors such as the learners’ topical knowledge or familiarity with the inquiry skills, and the teacher–student ratio.*
+> *Finally, teachers do not have to take the age of their students into [[Accounts|account]] in selecting a particular type of guidance. ... In absence of any consistent age-related differences, teachers can base their choice of guidance on other factors such as the learners’ topical knowledge or [[Familiarization|familiarity]] with the inquiry skills, and the teacher–student ratio.*
 
 ---
 
 > [!warning] 自述局限
-> - **缺失统计数据导致技术性剔除与发表偏倚判断受限** 6 项设计良好的实证研究因报告统计信息不完整而被剔除，不仅降低了统计检验力，还进一步减少了本就代表性不足的二类期刊与会议报告数量，使发表偏倚评估混入了因统计缺失导致的技术性剔除，难以单纯归因于无显著结果。
-> - **过程与表现维度的研究数量偏少及跨元分析部分重叠** 学习活动（$k = 20$）与表现成功度（$k = 17$）的初级研究数相对有限，制约了表现成功度中具体性成对比较的推广力，也可能是学习活动中年龄差异未达统计显著的原因；此外，虽通过每项研究仅提取单一因变量与单一实验组并分三组元分析控制了大量依赖，仍有 28% 的研究同时进入两项或三项元分析（72% 仅进入一项），未能实现完全统计独立。
+> - **缺失统计数据导致技术性剔除与[[Publication Bias|发表偏倚]]判断受限** 6 项设计良好的实证研究因报告统计信息不完整而被剔除，不仅降低了统计检验力，还进一步减少了本就代表性不足的二类期刊与会议报告数量，使发表偏倚评估混入了因统计缺失导致的技术性剔除，难以单纯归因于无显著结果。
+> - **过程与表现维度的研究数量偏少及跨元分析部分重叠** 学习活动（$k = 20$）与表现成功度（$k = 17$）的初级研究数相对有限，制约了表现成功度中具体性成对比较的推广力，也可能是学习活动中年龄差异未达统计显著的原因；此外，虽通过每项研究仅提取单一[[Dependent Variable|因变量]]与单一实验组并分三组元分析控制了大量依赖，仍有 28% 的研究同时进入两项或三项元分析（72% 仅进入一项），未能实现完全统计独立。
 > - **多重调节检验校正引发假阴性风险** 在较小研究集合上执行多项调节分析时，先作总体异质性检验再以 Hochberg 步升程序控制 5% 族系一类错误率虽较 Bonferroni 校正温和，但任何多重比较校正均会提高假阴性（二类错误）风险并降低检验力，例如学习成果中发表类型的调节效应即在校正后转为不显著；相比事后删减调节变量以勉强维持显著性，完整呈现全部数据更有助于读者结合语境作出判断。
 > - **学科范围限于数学与科学，限制向完整 STEM 教育外推** 出于技术与工程学科在 K-12 课堂尚未普遍开设的现实考量，检索与纳入范围未包含技术与工程研究，从而限制了研究结论向广义 STEM 教育的直接推广。
 

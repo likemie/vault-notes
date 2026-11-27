@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "04 谢林",
-      "path": "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照/04 谢林.md"
+      "basename": "Argument_Hammermeister_2002_Cambridge_Ch03",
+      "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch03.md"
+    },
+    {
+      "basename": "Argument_Hammermeister_2002_Cambridge_Ch02",
+      "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch02.md"
     },
     {
       "basename": "03 席勒",
       "path": "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照/03 席勒.md"
+    },
+    {
+      "basename": "Argument_Hammermeister_2002_Cambridge_Ch01",
+      "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch01.md"
+    },
+    {
+      "basename": "04 谢林",
+      "path": "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照/04 谢林.md"
     },
     {
       "basename": "德国美学传统翻译（全文彭正梅）(1)",
@@ -67,10 +79,6 @@
     {
       "basename": "Argument_Natario_2025_IndHE",
       "path": "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Natario_2025_IndHE.md"
-    },
-    {
-      "basename": "Argument_Hammermeister_2002_Cambridge_Ch01",
-      "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch01.md"
     },
     {
       "basename": "人工智能时代的科研范式变革与人文社会科学的未来",
@@ -191,14 +199,6 @@
     {
       "basename": "掌阅最低购书成本算法-精简实施方案",
       "path": "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/掌阅最低购书成本算法-精简实施方案.md"
-    },
-    {
-      "basename": "ireader-work-access-master-plan-v4",
-      "path": "file:/Users/shaoyangwu/Documents/zhangyue/docs/ireader-work-access-master-plan-v4.md"
-    },
-    {
-      "basename": "Philosophical Aesthetics",
-      "path": "wiki/concepts/educational-philosophy/Philosophical Aesthetics.md"
     }
   ],
   "omittedPaths": [],

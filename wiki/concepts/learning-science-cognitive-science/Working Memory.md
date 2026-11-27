@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-24
+updated: 2026-11-28
 ---
 
 > [!def] Working Memory
@@ -150,6 +150,9 @@ updated: 2026-11-24
 
 > [!claim] [[Argument_Fredens_2015_Paideia\|Fredens (2015)]]; [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]
 > **支架卸载外在负荷与长时记忆图式的双轨解放机制** 脱离指导的自由探究常因工作记忆被过度塞满杂乱信息而陷入瘫痪（即所谓垃圾桶过载效应）。通过在探究中引入针对性的[[Scaffolding\|教学支架]]（如变量控制提示、状态看板、即时原理解释），能够将机械搜索与信息保持负担外包给学习环境，使有限的工作记忆容量完全集中于假设验证与证据协调。同时，长时记忆中积累的自动化图式能够将繁复的知识网络打包为单一复合单元调入工作记忆，彻底突破 3–4 组块的生理限制，为高水平自主探究创造认知空间。[[Argument_Fredens_2015_Paideia\|(Fredens, 2015, pp. 71–73)]]; [[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 3, 8)]]
+
+> [!claim] [[Argument_Lazonder_2016_RER\|Lazonder and Harmsen (2016)]]
+> **减轻工作记忆负荷不必依赖高具体性指导** 针对数理探究学习的元分析回应了 Kirschner et al. (2006) 关于探究加重工作记忆负荷的批评：工作样例（属高具体性解释）与过程工作表（属中具体性启发线索）在学习活动与事后学习成果上收效相近，说明有效分担工作记忆负担的强指导无需等同于高具体性指令，指导的频率与持续时间等维度可能更为关键。[[Argument_Lazonder_2016_RER\|(Lazonder & Harmsen, 2016)]]
 
 ---
 
@@ -276,6 +279,7 @@ updated: 2026-11-24
 > - [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]] — [[Systematic Review\|系统综述]]幼儿[[Executive Function\|执行功能]]的发展轨迹，界定工作记忆[[Updating and Monitoring\|更新与监控]]成分的测量[[Paradigm\|范式]]（自排序、面孔任务）及其 3–4 组块容量界限。
 > - [[Argument_Fredens_2015_Paideia\|Fredens (2015)]] — 结合脑神经科学与可见学习理论，揭示缺乏指导导致的工作记忆过载（垃圾桶效应）与前额叶 10 分钟专注极限及默认网络修复价值。
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 辨析[[Direct Instruction\|直接教学]]与探究教学中的工作记忆机制，实证确证[[Scaffolding\|认知支架]]对卸载工作记忆负担以及[[Inhibitory Control\|抑制控制]]对保护工作记忆资源的核心功能。
+> - [[Argument_Lazonder_2016_RER\|Lazonder and Harmsen (2016)]] — 通过 72 项探究学习元分析回应工作记忆负荷争论，指出工作样例与过程工作表促学等效，减轻工作记忆负担的强指导不必依赖高具体性指令。
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 提出人机中介学习中的[[Epistemic Dependence\|认识依赖]]与[[Cognitive Offloading\|认知卸载]][[Analytic Framework\|分析框架]]，阐明技术消除浪费性摩擦释放工作记忆资源与剥离生产性摩擦导致深层推理萎缩的深层机制。
 > - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 结合德语区实证教学研究与元分析数据，阐明概念图（$d = 0.57$）等可视化工具通过减轻工作记忆负担促进深层理解的认知机制（p. 34）。
 

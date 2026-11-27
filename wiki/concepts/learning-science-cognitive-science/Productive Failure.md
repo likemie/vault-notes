@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-11-11
+updated: 2026-11-28
 ---
 
 ## 定义
@@ -166,6 +166,9 @@ updated: 2026-11-11
 
 > [!claim] Vitale, J. M., McBride, E., & [[Marcia C. Linn\|Linn, M. C.]]
 > **即时成绩虚高与延迟[[Pre-test and Post-test\|后测]]衰退的实证反差** 在对比直接讲授与探究试错的严格课堂实验中，直接教学组在课堂当期测验中因严格套用步骤而表现出极低的错误率，容易制造教学极其成功的假象；然而在数周后的延迟后测中，直接教学组出现了断崖式的知识遗忘；而经历了前置探究、遭遇挫折并最终理解核心原理的学生，在延迟后测以及面对复杂陌生情境的知识远迁移中表现显著更优。（Vitale et al., 2016；引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 9]]）
+
+> [!claim] [[Argument_Lazonder_2016_RER\|Lazonder and Harmsen (2016)]]
+> **表现与学习不对等解释指导具体性优势的消退** 针对探究学习教学指导的元分析直接援引 Kapur and Rummel (2012) 关于表现与学习不对等的区分指出，高具体性指导虽能在探究进行时显著提升学生任务产出物的即时质量，但撤除教学情境后，这种初始领先在事后学习成果测验上迅速消退，各类指导归于等效，进一步从跨研究层面印证了专为抬高任务期表现设计的干预难以自动转化为更强的长期学习。[[Argument_Lazonder_2016_RER\|(Lazonder & Harmsen, 2016)]]
 
 ---
 
@@ -280,10 +283,11 @@ updated: 2026-11-11
 > | [[Problem Solving]] | 概念 | 前置[[Wicked Problem\|劣构问题]]解决是生产性失败激活先验图式的主要载体。 |
 > | [[Scaffolding]] | 概念 | 教师在探索后提供的显性统整以及探索中的自适应提示构成了核心教学支架。 |
 > | [[Epistemic Agency]] | 概念 | 允许学生试错并自主生成解法，极大地赋权了学生的认识能动性。 |
-> | [[Cognitive Load Theory]] | 理论 | 生产性失败对传统认知负荷理论提出了建设性挑战与时序修正。 |
 > | [[Control of Variables Strategy]] | 概念 | 变量控制策略的长期保持实验是验证前置探索优于显性[[Rote Learning\|死记硬背]]的典型案例。 |
+> | [[Cognitive Load Theory]] | 理论 | 生产性失败对传统认知负荷理论提出了建设性挑战与时序修正。 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 援引 Kapur（2016）、Schwartz and Bransford（1998）等研究，将生产性失败与未来学习准备视为探究与[[Direct Instruction\|直接教学]]的时序协同，并以延迟测试说明其长效优势。
+> - [[Argument_Lazonder_2016_RER\|Lazonder and Harmsen (2016)]] — 援引 Kapur and Rummel (2012) 的表现与学习不对等机制，解释高具体性探究指导仅提升任务期即时产出而在事后学习成果上与其他指导等效的元分析结果。

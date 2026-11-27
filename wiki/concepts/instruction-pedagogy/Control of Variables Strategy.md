@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-20
-updated: 2026-11-03
+updated: 2026-11-28
 ---
 
 ---
@@ -119,6 +119,9 @@ updated: 2026-11-03
 > [!claim] Lazonder & Egberink
 > **前置规则指导与过程中支架的等价性** 在学生开展科学探究之前显性讲授变量控制策略，与在探究进行过程中通过系统[[Scaffolding\|脚手架]]（如提示卡、引导性提问与即时反馈）引导学生发现并维持变量控制，对最终的探究技能发展具有完全同等的促进效果。教学设计的关键在于探究全周期中是否获得了精准的认知支持，有别于是否“前置讲授”。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 9)]]
 
+> [!claim] [[Argument_Lazonder_2016_RER\|Lazonder and Harmsen (2016)]]
+> **变量控制指导的具体性层级与跨年龄适用性** 在探究学习指导类型学中，克拉尔团队的变量控制策略直接教学（教师示范、样例剖析与引导练习，效果可持续长达 3 年；Klahr & Li, 2005; Strand-Cary & Klahr, 2008）及其嵌入式软件导师变体（Siler et al., 2009）是最高具体性“解释”类指导的典型代表，且在儿童与年长学习者中均显现促学效果；同时，探究中提醒学生使用变量控制策略的指导在文献中被混称为机制线索、提示、启发法与暗示，凸显了按指导具体性统一编码的必要性。[[Argument_Lazonder_2016_RER\|(Lazonder & Harmsen, 2016)]]
+
 ---
 
 > [!contrast-table] 所有命题归纳
@@ -164,3 +167,4 @@ updated: 2026-11-03
 
 > [!evidence-grid-a] 相关研究索引
 > - **[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]** 引用 Schwichow et al.（2016）的[[Meta-analysis|元分析]]反驳 [[Argument_Zhang_2022_SE|Zhang et al. (2022)]]：[[Variable\|变量]]控制策略的习得中，显性讲授（g = 0.58）与[[Inquiry-Based Learning\|探究式教学]]（g = 0.65）效果相当。
+> - [[Argument_Lazonder_2016_RER\|Lazonder and Harmsen (2016)]] — 将变量控制策略直接讲授与嵌入式软件导师归类为最高具体性解释类指导，指出其跨年龄段有效并梳理了相关提醒指导的术语混用问题。

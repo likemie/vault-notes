@@ -1,6 +1,7 @@
 ---
 citation: "Lazonder, A. W., & Harmsen, R. (2016). Meta-analysis of inquiry-based learning: Effects of guidance. Review of Educational Research. Advance online publication. https://doi.org/10.3102/0034654315627366"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Lazonder_2016_RER]]"
 processed_date: 2026-11-28
 ---
 
