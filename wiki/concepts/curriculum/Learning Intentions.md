@@ -8,7 +8,7 @@ aliases:
 summary: "教师与学生在教学活动前共同明确的核心认知理解与概念迁移目标；但在新泰勒主义问责与循证政策规训下，原本指向深层认知建构的学习意图容易异化为形式主义的白板打卡与管理监控指标。"
 type: concept
 domain: "curriculum"
-related_count: 43
+related_count: 45
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -65,12 +65,14 @@ related_facts:
 related_arguments:
   - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Hattie_2005_ACER]]"
+  - "[[Argument_VonOlberg_2014_GeneralDidactics]]"
   - "[[Argument_Knudsen_2017_NordSTEP]]"
   - "[[Argument_Nielsen_2021_IRTP]]"
   - "[[Argument_OConnor_2020_AJLL]]"
   - "[[Argument_Biesta_2010_SPE]]"
+  - "[[Argument_Hattie_2015_SOTLP]]"
 confidence: high
-status: completed
+status: active
 created: 2026-09-16
 updated: 2026-11-28
 ---
@@ -145,8 +147,8 @@ updated: 2026-11-28
 > [!concept-proposition] 命题二｜学习意图构成了形成性诊断与教学动态调整的根本认知参照系
 > **[[Formative Assessment|形成性评价]]与反馈锚定功能** 阐明学习意图如何为教师的三核心反馈提问（“去向何方”、“身在何处”、“下一步如何走”）提供基准坐标。
 
-> [!claim] [[Argument_Hattie_2005_ACER|Hattie (2005)]]
-> **反馈循环的首要锚点** 形成性评价的核心反馈提问完全建立在清晰的学习意图之上；缺乏学习意图，师生间的教学评价将退化为琐碎的纠错与等级打分，唯有以学习意图为标尺，评价数据才能转化为揭示认知差距并指导后续干预的有效证据。[[Argument_Hattie_2005_ACER|(Hattie, 2005, pp. 15–17)]]
+> [!claim] [[Argument_Hattie_2005_ACER|Hattie (2005)]]; von Olberg, H.-J.
+> **反馈循环锚点与教学准备五要素整合** 形成性评价的核心反馈提问完全建立在清晰的学习意图之上；缺乏学习意图，师生间的教学评价将退化为琐碎的纠错与等级打分（[[Argument_Hattie_2005_ACER|Hattie, 2005, pp. 15–17]]）。汉斯-约阿希姆·冯·奥尔贝格（Hans-Joachim von Olberg）在评述哈蒂 2012 年教师手册课堂五环节规程时指出，清晰设定教学意图与成功标准构成“教学准备”环节的核心，须同步嵌入适切挑战、自我目标引导与经验学情诊断；不过他同时警示，该体系偏重学习过程调控，对课程内容正当性论证仍缺乏一般教学论层面的充分交代。[[Argument_VonOlberg_2014_GeneralDidactics|(von Olberg, 2014, pp. 53–54, 62–65)]]
 
 ---
 
@@ -229,6 +231,8 @@ updated: 2026-11-28
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 从[[Critical Pedagogy|批判教育学]]视角剖析维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]] 政策落地过程中，学习意图如何被[[Neo-Taylorism|新泰勒主义]]行政规训异化为白板打卡与[[Performativity|表演性]]考核，摧毁[[Teacher Professional Agency|教师专业自主权]]。
 > - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 批判可见学习将教学目标封闭化与手段神圣化的[[Technical Rationality|技术理性]]逻辑，揭示其如何以心理学[[Variable|变量]]替换学生探索生活世界的[[Intentionality|主体意向性]]（pp. 86–89）。
 > - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017, pp. 256–257)]] — 记录哈蒂关于课堂教学中学习意图常被误用为低阶原子化任务的反思，指出孤立意图对求知欲的挫伤，并提出转向成功标准的纠偏主张。
+> - [[Argument_VonOlberg_2014_GeneralDidactics|von Olberg (2014)]] — 解析哈蒂教学准备环节设定教学意图与成功标准的五项要素，并从德语一般教学论指出其在课程内容合法化与制度分析上的局限（pp. 53–54, 62–65）。
+> - [[Argument_Hattie_2015_SOTLP|Hattie (2015a)]] — 论证明确传达目标意图与成功标准须以教师评估自身影响的思维框架为前提，有别于孤立的方法操作清单。
 
 ---
 
@@ -236,7 +240,9 @@ updated: 2026-11-28
 >
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
+> | [[Visible Learning]] | 概念 | 理论母体：学习意图与清晰教学共同构成可见学习课堂认知透明度的枢纽概念。 |
 > | [[Success Criteria]] | 概念 | 与学习意图互为表里的评价工具，界定达成该意图的质性标准与证据。 |
+> | [[Teacher Clarity]] | 概念 | 上位教学要素：通过明确陈述学习目标、示范讲解与核查达成认知清晰度。 |
 > | [[Formative Assessment]] | 概念 | 学习意图为形成性评价反馈循环提供了根本的认知锚点。 |
 > | [[Performativity]] | 概念 | 政策将学习意图强制化为白板板书指标后所引发的教师虚假表演与合规异化。 |
 > | [[Professional Judgment]] | 概念 | 教师专业直觉与现场裁量权，受到刚性学习意图清单核查的严重侵蚀。 |

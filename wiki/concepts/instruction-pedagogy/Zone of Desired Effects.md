@@ -9,7 +9,7 @@ aliases:
 summary: "John Hattie 在《可见学习》中设定的 d>=0.40 期望效应区阈值，将所有影响因素的简单算术均值假托为一年自然学业成长基准，被批判为缺乏物理实体基准与比率尺度属性的伪科学假象及政策规训工具。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 60
+related_count: 69
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -41,10 +41,6 @@ related_concepts:
   - "[[Socioeconomic Status]]"
   - "[[Evidence-Based Education]]"
   - "[[Construct Validity]]"
-  - "[[Artefact]]"
-  - "[[Neo-Taylorism]]"
-  - "[[Cargo Cult Science]]"
-  - "[[Nature of Science]]"
   - "[[Student Attitude]]"
   - "[[Implementation Fidelity]]"
   - "[[Preregistration]]"
@@ -54,6 +50,8 @@ related_concepts:
   - "[[Effective Teaching]]"
   - "[[Ecological Validity]]"
   - "[[Learner Autonomy]]"
+  - "[[Effective Factor Bundle]]"
+  - "[[Neo-Taylorism]]"
   - "[[Empirische Unterrichtsforschung]]"
 related_theories: []
 related_methods:
@@ -67,27 +65,38 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"
-  - "[[Ewald Terhart]]"
   - "[[Adrian Simpson]]"
+  - "[[Scott Eacott]]"
+  - "[[Ewald Terhart]]"
   - "[[Pierre-Jérôme Bergeron]]"
   - "[[Olaf Köller]]"
 related_facts:
   - "[[Cognition Education]]"
   - "[[Corwin Press]]"
   - "[[Visible Learning Branding and Global Influences]]"
+  - "[[NAPLAN]]"
 related_arguments:
   - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Hattie_2010_NZJES]]"
   - "[[Argument_Nielsen_2021_NordPsych]]"
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Bergeron_2017_MJE]]"
-  - "[[Argument_Terhart_2014_HolyGrail]]"
+  - "[[Argument_Simpson_2017_JEdPolicy]]"
+  - "[[Argument_Wrigley_2018_BERJ]]"
+  - "[[Argument_Hattie_2015_Paideia]]"
+  - "[[Argument_Hattie_2005_ACER]]"
+  - "[[Argument_Eacott_2017_SLM]]"
+  - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Koller_2014_WhatWorks]]"
-  - "[[Argument_Brugelmann_2014_LocalPractice]]"
+  - "[[Argument_Reiss_Bernhard_2014_MathematicsEducation]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
+  - "[[Argument_Terhart_2014_HolyGrail]]"
+  - "[[Argument_Brugelmann_2014_LocalPractice]]"
   - "[[Argument_Golovchin_2019_ESC]]"
+  - "[[Argument_Terhart_2011_JCS]]"
+  - "[[Argument_Sarbiewska_2019_KiW]]"
 confidence: high
-status: completed
+status: active
 created: "2026-10-16"
 updated: 2026-11-28
 ---
@@ -185,6 +194,17 @@ updated: 2026-11-28
 
 ---
 
+> [!concept-proposition] 命题五｜铰接点门槛忽略干预时长、学生年龄递减律与实验操控自由度，在管理主义下异化为校本投资回报账本
+> **设计敏感度偏误、学段分化承认与管理账本异化** 剖析 0.40 铰接点为何脱离实验设计差异与学段自然发展速率，以及它在校本管理中被化约为投资决策标尺的制度后果。
+
+> [!claim] [[Adrian Simpson|Simpson, A.]]; Wrigley, T.
+> **研究设计操纵度混同与时间—年龄参数缺失** [[Adrian Simpson|阿德里安·辛普森]]（Adrian Simpson）论证效应量实际反映的是“试验清晰度”（experimental clarity）：研究者在不同教育领域对比较组选取、样本范围控制和测量工具灵敏度拥有不对等的调节自由度，排名跨过所谓门槛往往体现实验设计的敏感度高低，有别于教育重要性本身。特里·瑞格利（Terry Wrigley）进一步指出，单一铰接点无视干预持续时间（短期强化干预在统计上系统性高于长期项目）、学生年龄导致的平均效应量非线性递减，以及对照组比较法与前—后测增值法的混算，从而使阈值裁决陷入方法学失真。[[Argument_Simpson_2017_JEdPolicy|(Simpson, 2017)]]; [[Argument_Wrigley_2018_BERJ|(Wrigley, 2018)]]
+
+> [!claim] [[Scott Eacott|Eacott, S.]]; [[Argument_Hattie_2015_Paideia|Hattie (2015b)]]
+> **管理投资回报账本与哈蒂晚期的学段分化自承** [[Scott Eacott|斯科特·伊科特]]（Scott Eacott）以澳大利亚公立学校为例指出，铰接点将高度情境化的教学实践降维为单一度量衡，使校长与行政官僚能够如同挑选股票般实施投资回报（ROI）审计，以此裁撤低于门槛的教学方式并强化新泰勒主义控制。面对学界质疑，[[John Hattie|哈蒂]]本人后期亦修正早年“低于门槛即耽误学生”的激进表述（[[Argument_Hattie_2005_ACER|Hattie, 2005, p. 16]]），转而承认小学与中学年均学业增幅存在显著差距，主张该参考线仅作对话起点，反对借其机械否定网络学习等低数值项目。[[Argument_Eacott_2017_SLM|(Eacott, 2017)]]; [[Argument_Hattie_2015_Paideia|(Hattie, 2015b)]]
+
+---
+
 > [!contrast-table] 围绕期望效应区形成的命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -192,15 +212,16 @@ updated: 2026-11-28
 > | **实践异质性掩盖批判** | 单一截断值抹杀了小学与高中的关键学段差异，导致政策制定全盘误判 | 宏观教育政策分析、课程与作业政策制定、班级编制预算评估 | Johnson & Janzen |
 > | **叙事修辞与决策扭曲** | 截断值纯属讲故事门槛，背离阿司匹林等临床低效应高价值常识并诱发异质拼贴 | [[Evidence-Based Education\|循证教育]]决策审查、[[Cost-Benefit Analysis\|成本效益分析]]、元分析[[Construct Validity\|构念效度]]检验 | Nielsen & Klitmøller; Snook et al. |
 > | **数理虚增与基准颠倒批判** | $r=0.196$（仅解释 3.85% 方差）即可虚增至 $d=0.40$；基准反转将低效干预直接逆转为有害因素 | [[Effect Size Conversion\|效应量换算]]边界审计、二阶元综合因果效度检验、教育政策优先级审查 | Bergeron & Rivard |
+> | **设计敏感度与 ROI 账本** | 阈值混同试验操控自由度与时长年龄变量，沦为管理主义学校审计工具 | 学校领导力批评、实验设计效度评估、学段常模校准 | [[Argument_Simpson_2017_JEdPolicy\|Simpson (2017)]]; [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]]; [[Argument_Eacott_2017_SLM\|Eacott (2017)]]; [[Argument_Hattie_2015_Paideia\|Hattie (2015b)]] |
 
 ---
 
 > [!dev-timeline] 概念演变
-> - **2009 年 — 铰接点创立与期望效应区提出** [[John Hattie]] 出版《[[Visible Learning|可见的学习]]》，综合 800 余项[[Meta-analysis|元分析]]，正式提出以 $d=0.40$ 为界的期望效应区，将其界定为值得在学校推广的高效教学标准。
-> - **2010–2018 年 — 商业化普及与治理工具化** 伴随 [[Cognition Education|认知教育]]与[[Corwin Press|考文出版社]]运营的 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 项目，期望效应区与[[Barometer of Achievement|成就气压计]]被打包为全球校长认证培训的标准化评级工具。
-> - **2014 年 — 德语区批判与合成[[Artefact|人工制品]]定性** [[Ewald Terhart|特哈特]]（2014）系统评述德语区对 $d=0.40$ 铰接点的学术审视，指出将未加权异质均值定格为自然成长基线纯属“合成人工制品”（synthetische Kunstprodukte），并批判其脱离实施成本排斥低效应高价值实践的偏颇。[[Argument_Terhart_2014_HolyGrail|(Terhart, 2014, pp. 14–16)]]
-> - **2017–2021 年 — 方法论与统计学质疑爆发** [[Adrian Simpson]]、Peter E. Lichtenberg 等学者指出[[Effect Size|效应量]]分布偏态、非比率尺度及简单算术平均的统计违规；[[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] 与斯诺克等（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）通过阿司匹林[[Clinical Trial|临床试验]]揭露其脱离成本效益的叙事本质。
-> - **2023 年 — 批判性解构与意识形态揭露** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] 从[[Neo-Taylorism|新泰勒主义]]与[[Cargo Cult Science|货物崇拜科学]]视角，系统拆解期望效应区的伪[[Nature of Science|科学本质]]，揭露其掩盖学段[[Heterogeneity|异质性]]并服务于新自由主义财政紧缩的治理功能。
+> - **1992–2005 年 — 通用连续体与关节点正式确立** [[John Hattie|哈蒂]]早于 1992 年汇总 134 项元分析提出以标准差为单位的“通用连续体”（均值 0.40，标准差 0.13；[[Argument_Higgins_2016_ROE|Higgins, 2016]]），并于 [[Argument_Hattie_2005_ACER|Hattie (2005)]] ACER 报告首次正式阐发以 $d=0.40$ 关节点评估“相对有效性”的系统模型。
+> - **2009 年 — 铰接点创立与期望效应区定型** [[John Hattie]] 出版《[[Visible Learning|可见的学习]]》，综合 800 余项[[Meta-analysis|元分析]]，正式提出以 $d=0.40$ 为界的期望效应区，将其界定为值得在学校推广的高效教学标准。
+> - **2010–2018 年 — 商业化普及与治理工具化** 伴随 [[Cognition Education|认知教育]]与[[Corwin Press|考文出版社]]运营的 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 项目，期望效应区与[[Barometer of Achievement|成就气压计]]被打包为全球校长认证培训与校本 ROI 审计的标准化评级工具（[[Argument_Eacott_2017_SLM|Eacott, 2017]]）。
+> - **2014–2015 年 — 德语区“合成人工制品”批判与哈蒂学段校准** [[Ewald Terhart|特哈特]]（2014）系统评述德语区对 $d=0.40$ 铰接点的审视，批评其为“合成人工制品”；克勒（[[Argument_Koller_2014_WhatWorks|Köller, 2014]]）结合德国常模予以有限辩护，赖斯与伯恩哈德（[[Argument_Reiss_Bernhard_2014_MathematicsEducation|Reiss & Bernhard, 2014]]）揭示数学问题双因子横跨阈值的编码假象；[[Argument_Hattie_2015_Paideia|Hattie (2015b)]] 在 *Paideia* 专刊改称 0.40 仅是谈话起点并区分小学与中学年增幅。
+> - **2017–2025 年 — 统计学、批判实在论与全库审计合围** [[Argument_Simpson_2017_JEdPolicy|Simpson (2017)]]、[[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 与 [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] 分别从设计操控自由度、时长年龄递减、非比率尺度与简单平均漏洞拆解阈值合法性；[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] 开展全库预注册元科学审计，动摇了底层数据链完整性。
 
 ---
 
@@ -251,6 +272,8 @@ updated: 2026-11-28
 > | **[[Class Size\|班级规模]]基准反转**<br>[[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]] | $d = -0.20$ | 逆效应区 | 将“小班相对于大班”（$+0.20$）对偶反转为“大班相对于小班” | 从平庸发展区直接跌入逆向有害区 | 证实期望效应区依赖人为单向基线，参照系改变则低效政策直接变为有害实践 |
 > | **[[Socioeconomic Status\|社会经济地位]]基准反转**<br>[[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]] | $d = -0.59$ | 极端破坏区 | 将“优渥相对于贫困”（$+0.59$）对偶反转为“贫困相对于优渥” | 成为全书最具摧毁力的负面因素 | 证实单向期望阈值掩盖了社会不平等的残酷压迫 |
 > | **规范反馈干预（FI）**<br>Kluger and DeNisi (1996) | $d = 0.38$ | 低于期望阈值 | 唯一符合严格反馈界定的[[Meta-analysis\|元分析]]，且 38% 的研究表现受损 | 处于 $0.40$ 阈值之下 | 因未达标促使哈蒂拼贴强化与即时亲和力等异质数据以虚构 $d = 0.73$ 虚假指标（[[Argument_Nielsen_2021_NordPsych\|Nielsen & Klitmøller, 2021a]]） |
+> | **澳大利亚 [[NAPLAN]] 年增幅对比**<br>[[Argument_Hattie_2015_Paideia\|Hattie (2015b)]] | $d = 0.40$（总） | — | 小学阶段年均增幅约 $0.55$；中学阶段年均增幅约 $0.25$ | 小学显著高于、中学低于 $0.40$ | 哈蒂本人后期据此说明 0.40 不可脱离学段与结果类型机械套用，例如网络学习综合 $d=0.18$ 应与同类比较 |
+> | **数学问题解决双因子反差**<br>[[Argument_Reiss_Bernhard_2014_MathematicsEducation\|Reiss and Bernhard (2014, pp. 93–96)]] | $0.61$ vs. $0.15$ | 第 20 位 vs. 第 118 位 | `problem-solving teaching`（$0.61$）依赖宽泛关键词聚合，`problem-based learning`（$0.15$）平均了深层大效应与浅层小效应 | 分别落入期望效应区与低效发展区 | 证明跨过 0.40 分界线与否高度受制于概念聚合粒度与算术平均掩盖，脱离理论模型易致误判 |
 
 ---
 
@@ -259,6 +282,8 @@ updated: 2026-11-28
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[Visible Learning]] | 概念 | 理论母体，期望效应区是《可见的学习》影响气压计与教育改进排序的核心标准 |
+> | [[Barometer of Achievement]] | 概念 | 视觉载体，将 $d=0.40$ 关节点可视化为表盘绿色区的核心图表工具 |
+> | [[Effective Factor Bundle]] | 概念 | 榜单纠偏视角，说明低于 $0.40$ 的单项因素可在合作结构中形成互嵌增效，不可孤立裁撤 |
 > | [[Class Size]] | 概念 | 批判实证，因效应量低于 $d=0.40$ 被贬为低效政策，基准反转后直接落入逆向有害区 |
 > | [[Socioeconomic Status]] | 概念 | 阶层遮蔽，单向报告正向效应量掩盖了贫困作为全书最大破坏因素（$-0.59$）的现实 |
 > | [[Homework]] | 概念 | 学段异质性，总体均值 $d=0.29$ 低于阈值，掩盖了高中作业 $d=0.64$ 的高效益 |
@@ -266,13 +291,17 @@ updated: 2026-11-28
 > | [[Effect Size Conversion]] | 方法 | 计算转换，相关系数向均值差的公式换算容易将微弱关联虚增至期望效应区 |
 > | [[John Hattie]] | 人物 | 构念创立，设立 $d=0.40$ 铰接点作为甄别教育策略推广价值的门槛 |
 > | [[Pierre-Jérôme Bergeron]] | 人物 | 数理审计，揭示 $r=0.196$ 虚增至期望区与基准反转导致的逻辑崩溃 |
-> | [[Adrian Simpson]] | 人物 | 统计解构，批判二阶元综合违反比率尺度与分布假定的统计学失范 |
+> | [[Adrian Simpson]] | 人物 | 统计解构，批判二阶元综合违反比率尺度与试验清晰度混淆 |
 > | [[Ewald Terhart]] | 人物 | 教学论审视，批判 $d=0.40$ 铰接点作为无量纲合成人工制品对教育决策的误导 |
 > | [[Olaf Köller]] | 人物 | 实证支持，指出 $d=0.40$ 对应常态学科教学年增量并用于区隔深层教学质量 |
+> | [[Scott Eacott]] | 人物 | 管理批判，揭示 0.40 铰接点如何转化为校本投资回报账本与新泰勒主义规训工具 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 奠定 $d=0.40$ 关节点“相对有效性”判准的系统阐述，主张高于该阈值的干预方具有超越常规教学的增值意义（pp. 16–19）。
+> - [[Argument_Hattie_2015_Paideia|Hattie (2015b)]] — 结合澳大利亚 NAPLAN 小学与中学自然增幅差异，修正将 $d=0.40$ 视为绝对戒律的解读，将其重新定位为比较讨论的起点。
+> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 汇总《可见的学习》六大领域均值为 $d=0.40$ 的分布结构，并剖析气压计四级区间的单维度局限（pp. 432–433）。
 > - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 数理审计揭示微弱相关（$r=0.196, R^2=3.85\%$）虚增至 $d=0.40$ 机制，并以基准反转证实期望效应区缺乏客观绝对分界性（pp. 240–242）。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 系统批判《可见学习》期望效应区与铰接点的统计学缺陷，揭示其作为[[Neo-Taylorism|新泰勒主义]]规训工具与财政紧缩借口的治理功能。
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 运用变差系数数理检验证实 Hattie [[Effect Size|效应量]]总体（$V_\sigma = 56.87\%$）与各来源维度的极端不均匀性，实证解构了 $d = 0.40$ 期望效应区作为决策基准的科学有效性。
@@ -280,4 +309,10 @@ updated: 2026-11-28
 > - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 评析德语区对可见的学习 0.40 期望效应区分水岭的方法学审视，批判其作为无量纲合成人工制品对教育决策的误导。
 > - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 结合德国[[Empirische Unterrichtsforschung|实证教学研究]]论证 $d=0.40$ 与常态学科教学年增长的对应关系，将其确立为甄别深层教学质量与表层组织干预的实践标尺（pp. 27–29）。
 > - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014)]] — 剖析二阶元分析抹杀测验格式与微观情境所导致的“均值陷阱”，实证揭示 0.40 刚性阈值对小学开放教学评价的内在排斥（pp. 38–47）。
+> - [[Argument_Reiss_Bernhard_2014_MathematicsEducation|Reiss and Bernhard (2014)]] — 以数学问题解决与问题本位学习效应量悬殊跨越 $0.40$ 门槛为例，揭示关键词聚合与平均化造成的判定假象（pp. 93–96）。
+> - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 追溯 $d=0.40$ 通用连续体溯自 1992 年元综合的演变脉络，指出反事实条件变化使跨时期效应阈值稳定性存疑。
+> - [[Argument_Simpson_2017_JEdPolicy|Simpson (2017)]] — 论证高效应量门槛实测试验清晰度与研究者操控自由度，不宜据此决定国家教育资源投放方向。
+> - [[Argument_Eacott_2017_SLM|Eacott (2017)]] — 剖析澳大利亚校长治理场景中 $d=0.40$ 如何被制度化为行政投资回报（ROI）账本与新泰勒主义规训工具。
+> - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 批判 0.40 铰链点无视干预时长、学生年龄递减律与对照基线差异，从批判实在论解构榜单修辞。
+> - [[Argument_Sarbiewska_2019_KiW|Sarbiewska (2019)]] — 梳理可见学习将 $d=0.40$ 划分作高期望有效教学基准的微观课堂解释定位。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 预注册全库元科学审计证实 Hattie 数据体系仅 19% 满足 PICO 标准且极低复现率，实证消解了期望效应区分水岭的数据基础。

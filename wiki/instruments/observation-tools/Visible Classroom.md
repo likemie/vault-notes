@@ -6,7 +6,7 @@ aliases:
 summary: "由墨尔本大学与 Ai-Media 联合研发的课堂移动端语音即时转录与自动编码系统，3 秒内生成言语记录并反馈师生互动指标，用于诊断教师课堂知觉盲区"
 type: instrument
 instrument_type: observation-tool
-instrument_related_count: 11
+instrument_related_count: 14
 instrument_related_level: 1
 instrument_related_stars: "⭐"
 instrument_related_color: "#cffafe"
@@ -28,6 +28,7 @@ tags:
   - classroom-talk
   - visible-learning
 related_concepts:
+  - "[[Learning Intentions]]"
   - "[[Success Criteria]]"
   - "[[Captions and Subtitles]]"
   - "[[Teacher Clarity]]"
@@ -38,17 +39,19 @@ related_methods:
   - "[[Implementation and Process Evaluation]]"
   - "[[Randomised Controlled Trials]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[John Hattie]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Visible Learning Branding and Global Influences]]"
 related_arguments:
   - "[[Argument_Skipp_Tanner_2015_EEF]]"
   - "[[Argument_Knudsen_2017_NordSTEP]]"
+  - "[[Argument_ONeill_2016_Report]]"
 confidence: high
-status: stable
+status: active
 created: 2026-10-19
-updated: 2026-10-30
+updated: 2026-11-28
 ---
 
 （可见课堂）
@@ -87,7 +90,7 @@ updated: 2026-10-30
 > | 13 | 资源 | 使用文字、视觉或声音资源支持学习。 |
 > | 14 | 重点 | 强调重要内容。 |
 > | 15 | 反馈 | 向学生或小组提供即时、具体且具有纠正作用的反馈。 |
-> | 16 | 目标与[[Success Criteria\|成功标准]] | 说明教学目的和预期结果，并在过程中回到目标。 |
+> | 16 | [[Learning Intentions\|目标]]与[[Success Criteria\|成功标准]] | 说明教学目的和预期结果，并在过程中回到目标。 |
 >
 > 各项以课堂行为出现频次进入数据库，包含课次、学科、时长与反馈前后标记；按项目分别统计频次，未报告等级总分。[[Argument_Skipp_Tanner_2015_EEF|(Skipp & Tanner, 2015, pp. 29–30)]]
 
@@ -158,3 +161,8 @@ updated: 2026-10-30
 > |---|---|---|---|---|---|
 > | 移动应用原型 | 英文（澳大利亚与新西兰） | 中小学教师 | — | 基于智能手机开发实时音频采集与 3 秒 ASR 极速[[Transcription in Qualitative Research\|转录]]编码系统 | [[Argument_Knudsen_2017_NordSTEP\|Knudsen (2017, p. 258)]] |
 > | [[Education Endowment Foundation\|EEF]] 英国评价版 | 英文（英国） | 中小学教师与学生 | — | 获英国教育捐赠基金会（EEF）资助开展大样本[[Randomised Controlled Trials\|随机对照试验]]（RCT）与效能评估 | [[Visible Learning Branding and Global Influences]] |
+
+---
+
+> [!warning] 工具商业化运作与制度边界
+> 政策与财务档案追踪显示，Visible Classroom 于 2013–2015 年间由墨尔本大学研究团队与商业转录机构 Ai-Media 合作推出，面向学校与教师以收费服务形式提供课堂录音反馈，构成了[[John Hattie|哈蒂]]学术出版、咨询培训与教育软件产品商业整合的关键一环（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 67–69]]）。此外，英国发展性试点期间主要采用人工转写编码且学生原声未进入文本，尚未检验对学生学业成绩的直接因果效应（[[Argument_Skipp_Tanner_2015_EEF|Skipp & Tanner, 2015, pp. 6, 35]]）。

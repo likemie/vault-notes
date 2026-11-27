@@ -8,7 +8,7 @@ aliases:
 summary: "伴随学习意图向学生显性呈现的具体质性表现指标、证据特征与进阶阶梯，用于判定学生在何种程度上达成了预期的认知理解与能力目标"
 type: concept
 domain: "competency-and-assessment"
-related_count: 30
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Learning Progression]]"
   - "[[Evidence-Based Teaching]]"
   - "[[Formative Assessment]]"
-  - "[[Paradigm]]"
   - "[[Creativity]]"
   - "[[Open-Mindedness]]"
   - "[[Alienation]]"
@@ -42,23 +41,28 @@ related_concepts:
   - "[[Visible Learning]]"
 related_theories: []
 related_methods:
-  - "[[Pre-test and Post-test]]"
-  - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Meta-meta-analysis]]"
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
+  - "[[Visible Classroom]]"
 related_persons:
-  - "[[Olaf Köller]]"
   - "[[John Hattie]]"
-related_facts: []
+  - "[[Olaf Köller]]"
+related_facts:
+  - "[[Visible Learning Branding and Global Influences]]"
 related_arguments:
   - "[[Argument_Hattie_2005_ACER]]"
   - "[[Argument_Koller_2014_WhatWorks]]"
+  - "[[Argument_VonOlberg_2014_GeneralDidactics]]"
+  - "[[Argument_Hattie_2015_SOTLP]]"
+  - "[[Argument_Hattie_2015_Paideia]]"
+  - "[[Argument_Skipp_Tanner_2015_EEF]]"
   - "[[Argument_Knudsen_2017_NordSTEP]]"
 confidence: high
-status: completed
+status: active
 created: 2026-09-16
-updated: 2026-11-25
+updated: 2026-11-28
 ---
 
 ---
@@ -137,8 +141,11 @@ updated: 2026-11-25
 > [!concept-proposition] 命题三｜成功标准是确立预期产出与落实[[Evidence-Based Teaching|循证教学]]改进规程的首要锚点
 > **教学目标与评价匹配的起点功能** 探讨在以学生为中心的教学质量改进中，清晰界定成功标准如何作为逆向设计与精准评价的基准。
 
-> [!claim] Köller
-> **循证教学改进规程的目标锚定** 德语区实证教育研究审读指出，学校教学改进必须建立在以学生为中心的循证行动链条之上，而该链条的第一步即是在教学单元伊始清晰界定学习目标与具体的成功标准（Hattie, 2012）。明确的成功标准不仅使预期的学业成果对学生透明可见，更为后续终结性核验的设计、形成性[[Pre-test and Post-test|前测]]诊断以及增值测量确立了客观锚点，避免教学滑入缺乏评价对齐的盲目活动。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, p. 35)]]
+> [!claim] Köller; von Olberg, H.-J.
+> **循证教学改进规程的目标锚定与五要素准备** 德语区实证教育研究审读指出，学校教学改进必须建立在以学生为中心的循证行动链条之上，而该链条的第一步即是在教学单元伊始清晰界定学习目标与具体的成功标准（[[Argument_Koller_2014_WhatWorks|Köller, 2014, p. 35]]）。汉斯-约阿希姆·冯·奥尔贝格（Hans-Joachim von Olberg）进一步拆解哈蒂课堂五环节设计规程中的“教学准备”指出，成功标准须与适切挑战、高期望、信心建构及学生自主设定目标协同配合，并依托常态化的经验学习诊断标定预期基准。[[Argument_VonOlberg_2014_GeneralDidactics|(von Olberg, 2014, pp. 53–54)]]
+
+> [!claim] [[Argument_Hattie_2015_SOTLP|Hattie (2015a)]]; [[Argument_Hattie_2015_Paideia|Hattie (2015b)]]
+> **开端明示成功标准与表层/深层认知平衡** [[John Hattie|哈蒂]]在基于大规模[[Meta-analysis|元分析]]综合的高校与基础教育教师影响模型中，将“在系列课程伊始即明确告知学生成功标准”确立为提升教学影响力的六项核心条件之一。成功标准与精准评估先前学习、匹配适切挑战以及保持表层与深层学习的合理比例相辅相成，使评价重点超越空洞的鼓励而落实为清晰可见的达成依据。[[Argument_Hattie_2015_SOTLP|(Hattie, 2015a)]]; [[Argument_Hattie_2015_Paideia|(Hattie, 2015b)]]
 
 ---
 
@@ -154,8 +161,8 @@ updated: 2026-11-25
 > [!dev-timeline] 概念演变
 > - **1980 年代 — [[Formative Assessment|形成性评价]]萌芽与目标显性化** 针对传统课堂评价标准模糊、学生处于被动猜测教师意图的弊端，学者提出在教学前出示具体表现标准以促进学生自我评估与同伴反思。
 > - **2003–2005 年 — 阶梯式进阶架构确立与 [[Assessment Tools for Teaching and Learning|asTTle]] 工具整合** Clarke, Timperley 与 Hattie 将成功标准操作化为贯穿单元始终的分层进阶阶梯，并系统整合入新西兰 [[Assessment Tools for Teaching and Learning|asTTle]] 形成性诊断评价平台。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 17)]]
-> - **2014 年 — 德语区实证审读与循证教学改进首要规程确立** [[Olaf Köller|奥拉夫·克勒]]在审读可见学习时，将单元伊始界定预期学习成果与成功标准确立为以学生为中心循证教学改进六步规程的首要环节。[[Argument_Koller_2014_WhatWorks|(Köller, 2014, p. 35)]]
-> - **2017 年 — 大周期卓越[[Paradigm|范式]]反思与深层认知整合** [[John Hattie|哈蒂]]反思指出实践中原子化学习意图容易流于形式，主张以 10 至 12 周大周期成功标准呈现优秀作品范式，整体引领表层知识向深层概念与迁移拓展。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 256–257)]]
+> - **2014–2015 年 — 德语区实证审读与六大教师影响条件整合** [[Olaf Köller|奥拉夫·克勒]]（[[Argument_Koller_2014_WhatWorks|Köller, 2014, p. 35]]）与冯·奥尔贝格（[[Argument_VonOlberg_2014_GeneralDidactics|von Olberg, 2014, pp. 53–54]]）将界定成功标准确立为教学准备与循证改进规程的首要步骤；[[Argument_Hattie_2015_SOTLP|Hattie (2015a)]] 与 [[Argument_Hattie_2015_Paideia|Hattie (2015b)]] 进一步将其列为提升教师影响力的六项核心条件之一。
+> - **2015–2017 年 — 课堂观察编码操作化与大周期卓越范式转向** 英国 [[Visible Classroom]] 试点将“说明并重访目标与成功标准”设为课堂行为编码准则第 16 项（[[Argument_Skipp_Tanner_2015_EEF|Skipp & Tanner, 2015]]）；[[John Hattie|哈蒂]]随后反思原子化学习意图易流于形式，主张以 10 至 12 周大周期成功标准呈现优秀作品范式（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, pp. 256–257]]）。
 
 ---
 
@@ -198,7 +205,7 @@ updated: 2026-11-25
 >
 > | 二阶[[Meta-analysis\|元分析]] | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与 95% PI | 关键解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Hattie (2009 / MetaX 2023) | <span class="mx-bar ef-bar" title="Cohen's d 0.64"><span class="b13"></span></span>0.64 | — | Cohen's $d$ / 二阶综合 | $M = 2$；$E = 163$；$k = 163$；$N = —$ | 干预因素：明晰成功标准对[[Academic Achievement\|学业成就]]的二阶干预效应 | — | 纳入自我评价标准设定与成功概览两项元分析，效应达显著加速级别 |
+> | Hattie (2009 / MetaX 2023) | <span class="mx-bar ef-bar" title="Cohen's d 0.64"><span class="b13"></span></span>0.64 | — | Cohen's $d$ / 二阶综合 | $M = 2$；$E = 163$；$k = 163$；$N = —$ | 干预因素：明晰成功标准对[[Academic Achievement\|学业成就]]的二阶干预效应 | — | 纳入自我评价标准设定与成功概览两项元分析；另见 [[Argument_Hattie_2015_SOTLP\|Hattie (2015a)]] / [[Argument_Hattie_2015_Paideia\|Hattie (2015b)]] 基于 1,200+ 项元分析所列“开端明确成功标准”点估计（$d = 0.77$） |
 
 ---
 
@@ -211,6 +218,8 @@ updated: 2026-11-25
 > | [[Scoring Rubrics]] | 概念 | 工具对照：区别于终结性打分量规，成功标准侧重于学习过程中的自我监控与进阶指引。 |
 > | [[Peer Assessment]] | 概念 | 实施载体：向学生公开并解析成功标准，是展开高质量同伴互评的前提基础。 |
 > | [[Higher-Order Thinking Skills]] | 概念 | 评价导向：因果证据链导向的成功标准能有效牵引高阶整合思维并抑制机械记忆。 |
+> | [[Visible Classroom]] | 测量工具 | 编码应用：英国试点观察准则第 16 项明确编码教师说明并重访教学目标与成功标准的课堂频次。 |
+> | [[Visible Learning Branding and Global Influences]] | 事实 | 全球扩散：成功标准作为可见学习核心模块随跨国培训网络嵌入多国学校改进流程。 |
 > | [[John Hattie]] | 人物 | 倡导将成功标准作为实现“[[Visible Learning\|可见的学习]]”与以学生为中心循证改进的关键学者。 |
 > | [[Olaf Köller]] | 人物 | 将清晰界定成功标准确立为以学生为中心循证教学改进规程首要步骤的德国实证学者。 |
 
@@ -218,5 +227,9 @@ updated: 2026-11-25
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 系统呈现毛利历史单元范例，论证分层成功标准与因果评估任务是消除课堂形式主义、达成可见学习的核心工具。
-> - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017, pp. 256–257)]] — 记录[[John Hattie|哈蒂]]对原子化[[Learning Intentions|学习意图]]误用的反思，主张以 10 至 12 周大周期成功标准呈现优秀样例，融合表层与深层认知进阶。
+> - [[Argument_VonOlberg_2014_GeneralDidactics|von Olberg (2014)]] — 梳理哈蒂教师版五环节教学规程中“教学准备”五要素，阐述成功标准与挑战目标及经验诊断的结合路径（pp. 53–54）。
 > - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 结合德语区实证教育研究审读可见学习，将制定预期成果与成功标准确立为以学生为中心循证教学改进规程的第一步（p. 35）。
+> - [[Argument_Hattie_2015_SOTLP|Hattie (2015a)]] — 基于 1,200 项元分析综合将课程开端明确成功标准列为提升教师教学影响力的核心条件。
+> - [[Argument_Hattie_2015_Paideia|Hattie (2015b)]] — 重申开端明示成功标准与平衡表层/深层学习的协同定位，反对将其缩水为空洞的“尽力而为”口号。
+> - [[Argument_Skipp_Tanner_2015_EEF|Skipp and Tanner (2015)]] — 在英国教育捐赠基金会 [[Visible Classroom]] 试点观察编码中将“说明并回到目标与成功标准”操作化为第 16 项核心指标（p. 30）。
+> - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017, pp. 256–257)]] — 记录[[John Hattie|哈蒂]]对原子化[[Learning Intentions|学习意图]]误用的反思，主张以 10 至 12 周大周期成功标准呈现优秀样例，融合表层与深层认知进阶。

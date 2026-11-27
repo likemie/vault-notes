@@ -9,10 +9,10 @@ aliases:
 summary: "John Hattie 在《可见学习》中用于直观展示效应量区间的半圆形仪表盘图表，直接移植自其此前主导开发的 asTTle 行政全网监控软件，被批判为将工业泰勒制控制逻辑与全景监视物化为教学图腾的伪科学视觉修辞。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 36
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 43
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - visible-learning
   - neo-taylorism
@@ -21,9 +21,9 @@ tags:
   - surveillance
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Zone of Desired Effects]]"
   - "[[Heterogeneity]]"
   - "[[Tracking]]"
-  - "[[Zone of Desired Effects]]"
   - "[[Learning Analytics]]"
   - "[[Document]]"
   - "[[Neo-Taylorism]]"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Performativity]]"
   - "[[Mimesis]]"
   - "[[Learning Intentions]]"
+  - "[[Effective Factor Bundle]]"
   - "[[Evidence-Based Education]]"
   - "[[Cargo Cult Science]]"
   - "[[Causality]]"
@@ -55,6 +56,8 @@ related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
 related_persons:
   - "[[John Hattie]]"
+  - "[[Ewald Terhart]]"
+  - "[[Adrian Simpson]]"
 related_facts:
   - "[[Thomas B. Fordham Institute]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
@@ -62,6 +65,10 @@ related_facts:
   - "[[Corwin Press]]"
 related_arguments:
   - "[[Argument_Johnson_2023_CritEduc]]"
+  - "[[Argument_Terhart_2011_JCS]]"
+  - "[[Argument_Simpson_2017_JEdPolicy]]"
+  - "[[Argument_Reiss_Bernhard_2014_MathematicsEducation]]"
+  - "[[Argument_Nielsen_2021_NordPsych]]"
 confidence: high
 status: active
 created: "2026-10-16"
@@ -71,7 +78,7 @@ updated: 2026-11-28
 ---
 
 > [!def] Barometer of Achievement
-> **成就气压计（Barometer of Achievement）** 是[[John Hattie|约翰·哈蒂]]（John Hattie）在《[[Visible Learning|可见的学习]]》全书中反复使用的标志性视觉图表，采用类似汽车速度表或工业压力表的半圆形仪表盘构造，用于将抽象的[[Effect Size|效应量]]（$d$）直观呈现在不同色彩区段内。该图表是直接脱胎于哈蒂此前为主管部门研制的 [[Assessment Tools for Teaching and Learning|asTTle]] 计算机化评估系统中的行政监控界面，旨在将教学成效规范为外显可读的仪表指针读数，有别于首创于教育学著作。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]
+> **成就气压计（Barometer of Achievement）** 是[[John Hattie|约翰·哈蒂]]（John Hattie）在《[[Visible Learning|可见的学习]]》全书中反复使用的标志性视觉图表，采用类似汽车速度表或工业压力表的半圆形仪表盘构造，将抽象的[[Effect Size|效应量]]（$d$）划分归入逆效应区、发展效应区、教师常规效应区与[[Zone of Desired Effects|期望效应区]]四个色彩区段。该图表直接脱胎于哈蒂此前为主管部门研制的 [[Assessment Tools for Teaching and Learning|asTTle]] 计算机化评估系统中的行政监控界面；国际学界指出其虽具视觉直观性，却易压缩异质研究设计、掩盖因素交互作用，并将教学成效简化为可读的仪表读数。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]; [[Argument_Terhart_2011_JCS|(Terhart, 2011, p. 433)]]; [[Argument_Simpson_2017_JEdPolicy|(Simpson, 2017)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向将教育干预[[Meta-analysis|元分析]]统计合成值封装为工业仪表盘造型的视觉表征工具。
@@ -115,6 +122,9 @@ updated: 2026-11-28
 >     D --> E["教师去专业化与表演性危机"]
 > ```
 
+> [!figure]- 影响气压计原型示例（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）
+> ![](https://img.mylikemie.icu/sources/Terhart_2011_JCS/figures/Terhart_2011_JCS_Fig1_Barometer_of_Influence.jpg)
+
 ---
 
 > [!concept-proposition] 命题一｜气压计图表源于行政问责与全景监控软件，将技术官僚的管理控制逻辑物化为教学图腾
@@ -138,6 +148,18 @@ updated: 2026-11-28
 > |---|---|---|---|
 > | **技术官僚监视溯源** | 气压计源于 asTTle 联网行政监控界面，承袭泰勒制剥夺教师主体性的控制逻辑 | 批判政策分析、教育软件治理研究、劳动过程理论 | Johnson & Janzen |
 > | **表演性与去专业化批判** | 表盘拟态制造物理精密假象，刚性落实诱发形式主义板书打卡与职业倦怠 | 教师专业发展评估、课程改革实效调查、表演性文化反思 | Johnson & Janzen; Ball |
+> | **单维压缩与清晰度错觉** | 单一表盘抹杀研究设计差异与[[Effective Factor Bundle\|因子交互]]，将试验清晰度误作教育影响力 | 学科教学论解读、循证资源分配与行政问责反思 | [[Argument_Terhart_2011_JCS\|Terhart (2011)]]; [[Argument_Simpson_2017_JEdPolicy\|Simpson (2017)]]; [[Argument_Reiss_Bernhard_2014_MathematicsEducation\|Reiss and Bernhard (2014)]]; [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] |
+
+---
+
+> [!concept-proposition] 命题三｜单维度气压计表盘压缩研究异质性与因素交互机制，仅反映试验清晰度与行政问责导向
+> **单维度量化压缩与试验清晰度错觉** 阐明气压计如何将方法异质的元分析与动态因素协同简化为单一刻度，导致测量内涵错位与行政规训强化。
+
+> [!claim] [[Ewald Terhart|Terhart, E.]]; Reiss, K. & Bernhard, S.
+> **异质经验参数丢失与因素协同遮蔽** [[Ewald Terhart|埃瓦尔德·特哈特]]（Ewald Terhart）在分析四级气压计区间时指出，尽管表盘视觉呈现直观，却将迥异的研究方法、测量工具与教学情境强行压缩至单一度量刻度，制造出客观确定性的量化假象并抹杀了具体的经验参数。克里斯蒂娜·赖斯与斯特凡·伯恩哈德（Kristina Reiss & Stefan Bernhard）在数学问题解决研究中进一步说明，脱离理论框架孤立阅读气压计式的排名与平均效应量，既无法揭示因素之间的配合规律，也难以为课堂教学设计提供可靠指引。[[Argument_Terhart_2011_JCS|(Terhart, 2011, p. 433)]]; [[Argument_Reiss_Bernhard_2014_MathematicsEducation|(Reiss & Bernhard, 2014, pp. 97–98)]]
+
+> [!claim] [[Adrian Simpson|Simpson, A.]]; Nielsen, K. & Klitmøller, J.
+> **试验清晰度混淆与行政控制标准化** [[Adrian Simpson|阿德里安·辛普森]]（Adrian Simpson）批判指出，用于构建影响气压计的数字摘要测量的实际上是研究设计的敏感度与“试验清晰度”（experimental clarity），有别于真实的教育影响力，不能据此指导国家教育资源分配。克劳斯·尼尔森与雅各布·克利特默勒（Klaus Nielsen & Jacob Klitmøller）亦补充论证，效应量气压计与相关干预清单为教育行政部门提供了可携带的量化问责技术，在实际推广中挤压了课堂对话与师生意向性探索的空间。[[Argument_Simpson_2017_JEdPolicy|(Simpson, 2017)]]; [[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a)]]
 
 ---
 
@@ -145,7 +167,8 @@ updated: 2026-11-28
 > - **2003 年 — [[Assessment Tools for Teaching and Learning|asTTle]] 监控界面创立** [[John Hattie|哈蒂]]领导的研发团队为新西兰教育部推出 [[Assessment Tools for Teaching and Learning|asTTle]] 软件系统，首次在管理端界面引入半圆表盘，用于实时汇总和监控教师在各学科的测验运用数据。
 > - **2009 年 — 跨界移植至《可见学习》** 《可见学习》将 asTTle 的管理表盘全面应用于正文排版，为 138 项教育影响因素逐一配备气压计插图，确立了以绿区（$d \ge 0.40$）为顶点的视觉标准。
 > - **2010–2018 年 — 商业化视觉品牌垄断** 在 [[Cognition Education|认知教育]]与[[Corwin Press|考文出版社]]的商业化推广中，成就气压计被注册并印制在各类咨询手册、学校认证奖章及培训海报上，成为全球最具辨识度的[[Evidence-Based Education|循证教育]]商业符号之一。
-> - **2023 年 — 批判解构与全景监视溯源揭露** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] 从技术哲学与政策批判视角，正式揭开气压计图表源于行政监控系统的真实历史，批判其为推行新泰勒制规训的伪科学装置。
+> - **2011–2017 年 — 教学论压缩批评与“试验清晰度”解构** [[Argument_Terhart_2011_JCS|Terhart (2011)]] 指出气压计单维度压缩隐藏了情境差异；[[Argument_Reiss_Bernhard_2014_MathematicsEducation|Reiss and Bernhard (2014)]] 主张超越气压计榜单而转向因素交互模型；[[Argument_Simpson_2017_JEdPolicy|Simpson (2017)]] 指出其摘要数值反映的实为实验操控敏感度，有别于真实教育影响力。
+> - **2021–2023 年 — 行政问责机制与全景监视溯源批判** [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] 揭示气压计为教育行政体系提供量化问责与标准化控制手段；[[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] 正式考证其源于行政监控软件的历史脉络。
 
 ---
 
@@ -194,12 +217,19 @@ updated: 2026-11-28
 > |:-----|:-----|:-----|
 > | [[Visible Learning]] | 概念 | 成就气压计所属的母理论框架与主要出版载体。 |
 > | [[Zone of Desired Effects]] | 概念 | 气压计表盘绿色区间所直观呈现的 $d \ge 0.40$ 期望效应门槛。 |
+> | [[Effective Factor Bundle]] | 概念 | 批评脱离交互因素关系、孤立照搬气压计排行与均值的方法论纠偏概念。 |
 > | [[Neo-Taylorism]] | 概念 | 解释气压计从管理监控软件迁移为课堂规范图腾的控制逻辑。 |
 > | [[Cargo Cult Science]] | 概念 | 揭示气压计以物理仪表拟态掩饰统计公式与异质性缺陷的科学哲学批判视角。 |
 > | [[Assessment Tools for Teaching and Learning]] | 测量工具 | 气压计图表的原始软件原型（asTTle 行政监控界面）。 |
 > | [[John Hattie]] | 人物 | 气压计图表的设计者与《可见的学习》著者。 |
+> | [[Ewald Terhart]] | 人物 | 拆解气压计四级分区并警示其单维度量化抹杀经验参数的德语教学论学者。 |
+> | [[Adrian Simpson]] | 人物 | 批判影响气压计所依附的数字摘要仅衡量试验清晰度而非教育有效性的统计学学者。 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 考证气压计图表源于 [[Assessment Tools for Teaching and Learning|asTTle]] 监控软件的制度史，系统批判其[[Neo-Taylorism|新泰勒主义]]控制逻辑及其对[[Teacher Professional Agency|教师专业自主权]]的侵蚀。
+> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 梳理影响气压计的四级区间构造，指出单维度表盘抹杀异质研究设计与经验参数的量化假象（p. 433）。
+> - [[Argument_Reiss_Bernhard_2014_MathematicsEducation|Reiss and Bernhard (2014)]] — 以数学问题解决为例批评气压计排行与均值的教学论局限，论证应转向因素交互与理论驱动解释（pp. 97–98）。
+> - [[Argument_Simpson_2017_JEdPolicy|Simpson (2017)]] — 指出《可见的学习》影响气压计的数字摘要衡量的是实验敏感度而非教育影响力，反对将其作为教育预算配置指南。
+> - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 剖析效应量气压计如何被行政体制转化为标准化治理与绩效问责工具，挤压课堂对话空间。
