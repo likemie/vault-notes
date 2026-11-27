@@ -244,7 +244,7 @@ updated: 2026-11-27
 > **元认知策略因果促学与个体沉浸反思优势** 准[[Experimental Research\|实验研究]]证实，接受显性元认知指导（教授规划、过程监控与自评反思策略）的学生，在创造性[[Problem Solving\|问题解决]]（CPS）任务与远距离概念重组（[[Remote Associates Test\|RAT]]）中表现出显著增益，元认知意识量表（MAI）得分明显提高。多层[[Meta-analysis\|元分析]]进一步表明，高校创造力训练中独立个体练习的[[Learning Gain\|学习增益]]高于松散的小组协作。其核心认知机制在于：个体独立探索能够减少同伴评价焦虑与“社会惰化”，促使学习者独自经历面对僵局、调用元认知监控调整策略并实现突破的完整调控过程，从而将外部启发式规则内化为稳定的个人元认知图式。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 6–7, 10)]]; Hargrove and Nietfeld (2015)
 
 > [!claim] Kremers, T.
-> **充足的元认知策略支撑[[Cooperative Learning\|合作学习]]达成表层与深层学习平衡** 克雷默斯（[[Argument_Kremers_2014_CooperativeLearning\|Kremers, 2014, pp. 85–86]]）在解析[[Cooperative Learning\|合作学习]]的效能结构时指出，富有成效的团队协作之所以能实现“表层学习与[[Surface and Deep Learning\|深层学习]]的平衡”，依赖先由学习者在个体阶段借助[[Graphic Organizer\|图形组织器]]等形式完成较为再现性的基础信息吸纳，再通过同伴配对或小组交流跃升至更高阶的认知加工层级；适切的元认知策略（metakognitive Strategien）正是串联个体知识梳理与合作深度加工、保障学生自主监控理解缺口并调整交流重点的必要前提。[[Argument_Kremers_2014_CooperativeLearning\|(Kremers, 2014, pp. 85–86)]]
+> **充足的元认知策略支撑[[Cooperative Learning\|合作学习]]达成表层与深层学习平衡** 克雷默斯在解析[[Cooperative Learning\|合作学习]]的效能结构时指出，富有成效的团队协作之所以能实现“表层学习与[[Surface and Deep Learning\|深层学习]]的平衡”，依赖先由学习者在个体阶段借助[[Graphic Organizer\|图形组织器]]等形式完成较为再现性的基础信息吸纳，再通过同伴配对或小组交流推进至更高阶的认知加工层级；适切的元认知策略（metakognitive Strategien）正是串联个体知识梳理与合作深度加工、保障学生自主监控理解缺口并调整交流重点的必要前提。[[Argument_Kremers_2014_CooperativeLearning\|(Kremers, 2014, pp. 85–86)]]
 
 ---
 

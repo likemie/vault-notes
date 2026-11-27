@@ -128,7 +128,7 @@ related_instruments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-11-25
+updated: 2026-11-27
 ---
 
 ---
@@ -240,17 +240,15 @@ updated: 2026-11-25
 
 > [!method-limits] 方法局限
 > - **偏误来源** 
->   1. **测量工具敏感性偏误** [[Developer-Made Measures|开发者自编测量]]比独立标准化统考产生高出 0.20–0.29 SD 的虚大效应量（[[Argument_Wolf_2020_JREE|Wolf et al., 2020]]）；
+>   1. **测量工具敏感性偏误** [[Developer-Made Measures|开发者自编测量]]比独立标准化统考产生高出 0.20–0.29 SD 的虚大效应量；且同一组元回归审计表明，开发者实施研究效应量约为独立评估的 1.8 倍（[[Argument_Wolf_2020_JREE|Wolf et al., 2020]]）；
 >   2. **[[Sample Size Determination|样本量]]倒挂偏误** 小样本（$<50$）效应量平均达 $+0.44$，超大样本（$>2,000$）平均仅 $+0.09$，小规模研究因[[Publication Bias|发表偏倚]]与质控差异产生虚假膨胀（Slavin & Smith, 2009）；
->   3. **开发者利益冲突偏倚** 开发者实施研究效应量约为独立评估的 1.8 倍（[[Argument_Wolf_2020_JREE|Wolf et al., 2020]]）；
->   4. **除数混淆灾难** 将[[Standard Error|标准误]]（$\text{SE}$）误作标准差（$\text{SD}$）导致效应量被虚假放大十倍（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）。
+>   3. **除数混淆灾难** 将[[Standard Error|标准误]]（$\text{SE}$）误作标准差（$\text{SD}$）导致效应量被虚假放大十倍（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）。
 > - **适用边界与微观[[Heterogeneity|异质性]]掩盖** 
->   1. **亚组异质性被抹杀** 单一宏观平均效应量掩盖微观情境差异，如[[Homework|家庭作业]][[Meta-analysis|元分析]]总体 $d = 0.29$，但按学段细分高中达 $0.64$ 而小学仅 $0.15$（处于自然成长区，几无实质增益；[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）；
->   2. **非线性门槛突破** [[Class Size|班级规模]]在常规区间微调（28人降至24人）效应量微弱（$0.10–0.20$），但在关键学段跨越临界物理阈值（STAR 试验降至 13–17 人）因果效应大幅提升至 $d = 0.62–0.66$（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）；
->   3. **同质性击穿** 《可见学习》133 项效应量变差系数高达 56.87%，极度离散数据集导致 $d = 0.40$ 关节点失去数理基准效力（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）。
+>   1. **亚组异质性被抹杀与机械门槛谬误** 单一宏观平均效应量掩盖微观情境差异，如[[Homework|家庭作业]][[Meta-analysis|元分析]]总体 $d = 0.29$，但按学段细分高中达 $0.64$ 而小学仅 $0.15$；此外，[[Class Size|班级规模]]微调效应微弱（$0.10–0.20$），而在关键学段跨越门槛（STAR 试验降至 13–17 人）则大幅提升至 $d = 0.62–0.66$；同样地，机械依据 $d = 0.40$ 门槛亦会误杀具有重大[[Public Value|公共价值]]的小效应量实践（如低剂量阿司匹林试验 $d = 0.07$ 每年每千人净挽救 34 条生命；[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）；
+>   2. **同质性击穿** 《可见学习》133 项效应量变差系数高达 56.87%，极度离散数据集导致 $d = 0.40$ 关节点失去数理基准效力（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）；
+>   3. **成果测度窄化与单因子叠加谬误** 宏观效应量聚焦可量化的学科认知成绩，难以涵盖合作教学等所培养的社交、沟通与方法能力；同时各教学因子在课堂实践中通过非加性相互强化构成“强效因子束”，无法以孤立单因子效应量的算术累加加以估算（[[Argument_Kremers_2014_CooperativeLearning|Kremers, 2014, pp. 78–79, 82–84]]）。
 > - **误用风险与[[Category Mistake|范畴错误]]批判** 
->   1. **机械门槛谬误** 机械依据 $d = 0.40$ 筛选政策会误杀具有重大[[Public Value|公共价值]]的小效应量实践（如阿司匹林试验 $d = 0.07$ 每年净挽救千分之三十四生命；[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）；
->   2. **[[Epistemology|认识论]]与存在论范畴错误** 将学习简化为可见的即时效应量快照，混淆了短期测验表现与长周期终身心智成长，演化为[[Cognitive Capitalism|认知资本主义]]对教师与学生的数字规训（[[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 1–4, 10]]；[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）。
+>   1. **[[Epistemology|认识论]]与存在论范畴错误** 将学习简化为可见的即时效应量快照，混淆了短期测验表现与长周期终身心智成长，演化为[[Cognitive Capitalism|认知资本主义]]对教师与学生的数字规训（[[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 1–4, 10]]；[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）。
 > - **补救方式** 采用[[EEF Padlock Security Rating|挂锁安全评级]]与效应量双轨呈现（[[Education Endowment Foundation|EEF]]）；采用因果 [[Randomised Controlled Trials|RCT]] 经验分布与失败频率作为政策解释基准（[[Argument_Kraft_2023_ER|Kraft, 2023]]）；选用高[[External Validity|外部效度]]、对接国家统考的标准化测验（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]]）；严格执行[[Baseline Standardized Mean Difference|基线等效性]]筛查（$|d_{\text{baseline}}| \le 0.25$）。
 
 > [!empirical-divider]
@@ -328,3 +326,4 @@ updated: 2026-11-25
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 从德意志教化传统、身体[[Phenomenology|现象学]]与二阶控制论解构将教育降维为即时效应量可见快照的[[Positivism|实证主义]]迷思，揭示其背后的[[Category Mistake|范畴错误]]与资本主义指标规训。
 > - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014)]] — 揭示干预内部高方差离散度远超干预间均值差异，指出哈蒂对开放教学（$d = 0.01$）与非指导性教学（$d = 0.54$）的数据评价自相矛盾（pp. 42, 44–45）。
 > - [[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]] — 剖析孤立变量效应量（如能力分流 $d = 0.11$、班级规模 $d = 0.21$）在制度语境、教育公平后果、学段阈值与学校系统协同效应上的解释盲区（pp. 68–76）。
+> - [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014)]] — 解析合作学习效应量（$d = 0.41\text{–}0.59$）在成就测度窄化下的解释局限，并论证单一因子效应量不可简单算术相加，须置于非加性“强效因子束”交互机制中理解（pp. 78–79, 82–84）。

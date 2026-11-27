@@ -168,7 +168,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-11-26
+updated: 2026-11-27
 ---
 
 ---
@@ -235,11 +235,11 @@ updated: 2026-11-26
 > [!org-evolution] 二阶[[Meta-analysis\|元分析]]的三代方法谱系演进
 > - **1980s–2000s** **第一代：粗放元综合**
 >
->   把各元分析报告的平均[[Effect Size\|效应量]]直接放到同一尺度上排序，追求规模与全景排行榜，但不加权、不统一测度、不处理初级研究重叠，也不报告[[Confidence Interval\|置信区间]]。[[Argument_Terhart_2011_JCS\|(Terhart, 2011)]]; [[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016)]]
+>   把各元分析报告的平均[[Effect Size\|效应量]]直接放到同一尺度上排序，追求规模与全景排行榜，但不加权、不统一测度、不处理初级研究重叠，也不报告[[Confidence Interval\|置信区间]]。[[Argument_Terhart_2011_JCS\|(Terhart, 2011, Table 1)]]; [[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016)]]
 >
 >   - **1987** Fraser et al. (1987) 综合 226 项元分析，检验[[Walberg's Educational Productivity Model\|教育生产力模型]]。
 >   - **1992** Hattie (1992) 汇总其中 134 项元分析，提出以标准差为单位的通用连续体。
->   - **2009** Hattie (2009)《[[Visible Learning\|可见的学习]]》扩展至 816 项元分析、52,649 项研究，建立 $d = 0.40$ 的影响气压计。[[Argument_Terhart_2011_JCS\|(Terhart, 2011, Table 1)]]
+>   - **2009** Hattie (2009)《[[Visible Learning\|可见的学习]]》扩展至 816 项元分析、52,649 项研究，建立 $d = 0.40$ 的影响气压计。
 >
 > - **1990s–至今** **第二代：规范化伞状二阶元分析**
 >
@@ -480,15 +480,15 @@ updated: 2026-11-26
 > | **一级主要研究层** | 教学主题、教师实施与学校情境高度异质，真实效应量变异极大。 | [[Fixed-Effect Model\|固定效应模型]]关于单一恒定真实效应的假设完全破产。 | 标准误被严重低估，虚增统计检验显著性。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 31–32)]] |
 > | **二级元分析层** | 继承了一级异质性，数学上必须采用随机效应模型估计 $\tau^2$。 | 每个因素平均仅约 5.8 项元分析，样本量过小无法可靠估计[[Between-Study Variance\|研究间方差]]。 | 随机效应建模崩溃，宏观统计推断失去立足之基。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 32–33)]] |
 
-> [!dimension] 影响因素[[Incommensurability|不可通约性]]的四大本体范畴（[[Category Mistake|德甲联赛隐喻]]与范畴错误）
+> [!dimension] 影响因素[[Incommensurability|不可通约性]]的四大本体范畴（[[Category Mistake|德甲联赛隐喻]]与范畴错误；[[Argument_Wecker_2016_ZfE\|Wecker et al., 2016, p. 34]]）
 > - **制度框架条件（Systemic and Institutional Conditions）**
->   宏观外部环境制约，属于既定教育制度背景，不构成微观课堂可直接操纵的教学决策选项。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, p. 34)]]
+>   宏观外部环境制约，属于既定教育制度背景，不构成微观课堂可直接操纵的教学决策选项。
 > - **个体心理特征（Student Individual Characteristics）**
->   学生自身身心发展与认知特质[[Variable|变量]]，其实证对照基准为无干预自然常模，而非不同教学法之间的替代。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, p. 34)]]
+>   学生自身身心发展与认知特质[[Variable|变量]]，其实证对照基准为无干预自然常模，而非不同教学法之间的替代。
 > - **综合教学方案（Comprehensive Pedagogical Programs）**
->   学校层面的宏观教学模式（如[[Direct Instruction|直接教学]]），比较基线为常态传统讲授，测试时间跨度常以学期或学年计。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, p. 34)]]
+>   学校层面的宏观教学模式（如[[Direct Instruction|直接教学]]），比较基线为常态传统讲授，测试时间跨度常以学期或学年计。
 > - **微观设计变体（Micro-Level Instructional Variations）**
->   相同教学法内部的特定参数调节（如[[Spaced Practice|分散练习]]），比较基线为另一种练习时距安排，无法脱离具体教学法单独实施。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, p. 34)]]
+>   相同教学法内部的特定参数调节（如[[Spaced Practice|分散练习]]），比较基线为另一种练习时距安排，无法脱离具体教学法单独实施。
 
 > [!critique] [[Argument_Terhart_2011_JCS|Terhart (2011)]] · 货币比附谬误与修补金字塔双重困境
 > 德国教育学者[[Ewald Terhart|埃瓦尔德·特哈特]][[Argument_Terhart_2011_JCS|(Terhart, 2011)]]从方法学审计与[[Epistemology|认识论]]哲学高度审视了二阶粗放综合（Mega-analysis）的推论困境：
@@ -561,16 +561,16 @@ updated: 2026-11-26
 > 4. **全库离散度超标与数理基准失效** 戈洛夫钦[[Argument_Golovchin_2019_ESC\|(Golovchin, 2019)]]采用变差系数对 133 项正值效应量进行系统检验，证实全库变差系数高达 $56.87\%$（远超 $33\%$ 安全同质性上限），各子领域（学生 $71.24\%$、学校 $65.97\%$、教师 $51.01\%$）全线超标；二阶综合在未经严格同质性控制下强行输出 $d=0.40$ 单一线性关节点缺乏数理稳健性；
 > 5. **因果机制距离与政策角色争议** 宏观抽象聚合远离了实在层面的因果机制，知识的局部性与临时性使其难以直接指导政策决策；[[Ewald Terhart|特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011]]; [[Argument_Terhart_2014_HolyGrail|Terhart, 2014, pp. 13–14]]）与汉斯·布吕格尔曼（[[Argument_Brugelmann_2014_LocalPractice|Brügelmann, 2014, pp. 42–45]]）指出底层文献年代跨代滞后（如计算机辅助教学过半文献早于 2000 年）、抹杀组内方差离散度以及缺乏[[Implementation Fidelity|实施保真度]]质控门槛导致证据库异质性失控且同类构念评价自相矛盾（开放教学 $d=0.01$ 对比非指导性教学 $d=0.54$）；其货币比附谬误与稳定性/[[Stability vs. Variability Dilemma|变异性假说]]双重困境进一步表明，二阶粗放综合无法消除教育实践的复杂性与时效滞后（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]; [[Argument_Wiliam_2019_ERE|Wiliam, 2019]]; [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]]）。
 >
-> [!bias-audit] 商业学术出版体制对知识综合的三重结构性阻碍[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016)]]
-> - **[[Publication Bias|发表偏倚]]与抽屉效应** 期刊倾向于发表统计上显著的结果，产生严重的发表偏倚（Publication Bias）与抽屉效应（File-drawer Problem），大量零效应或负效应被锁进抽屉，污染综合底册。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 34–35)]]
-> - **原始数据与参数矩阵隐匿** 版面限制导致关键的原始数据、每项研究的[[Sample Size Determination|样本量]]和标准差普遍被隐藏，形成不可查证的数据黑箱。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 34–35)]]
-> - **口径冲突与二阶拼凑脆弱** 各一阶元分析课题组在数据提取时口径不一，导致二级汇总变成了建立在流沙之上的粗放拼凑。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 34–35)]]
+> [!bias-audit] 商业学术出版体制对知识综合的三重结构性阻碍[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 34–35)]]
+> - **[[Publication Bias|发表偏倚]]与抽屉效应** 期刊倾向于发表统计上显著的结果，产生严重的发表偏倚（Publication Bias）与抽屉效应（File-drawer Problem），大量零效应或负效应被锁进抽屉，污染综合底册。
+> - **原始数据与参数矩阵隐匿** 版面限制导致关键的原始数据、每项研究的[[Sample Size Determination|样本量]]和标准差普遍被隐藏，形成不可查证的数据黑箱。
+> - **口径冲突与二阶拼凑脆弱** 各一阶元分析课题组在数据提取时口径不一，导致二级汇总变成了建立在流沙之上的粗放拼凑。
 
-> [!pathways] 中央标准化证据数据库与一级直接综合转型方案[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016)]]
-> 1. **脱离商业期刊的强制透明归档** 凡接受公共财政资助的研究，无论是否显著、是否见刊，均须强制上传原始数据。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 35–36)]]
-> 2. **统一全行业效应量指标** 全库统一采用无偏标准化的 Hedges' $g$，终结指标混杂。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 35–36)]]
-> 3. **公开主要研究完整数据矩阵** 全面披露样本量（$n_E, n_C$）、均值、标准差与情境[[Variable|变量]]，消除数据黑箱。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 35–36)]]
-> 4. **从二级拼凑转向一级大样本直接综合** 绕过有缺陷的中间元分析，直接基于全量原始数据开展一级直接元分析。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 35–36)]]
+> [!pathways] 中央标准化证据数据库与一级直接综合转型方案[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 35–36)]]
+> 1. **脱离商业期刊的强制透明归档** 凡接受公共财政资助的研究，无论是否显著、是否见刊，均须强制上传原始数据。
+> 2. **统一全行业效应量指标** 全库统一采用无偏标准化的 Hedges' $g$，终结指标混杂。
+> 3. **公开主要研究完整数据矩阵** 全面披露样本量（$n_E, n_C$）、均值、标准差与情境[[Variable|变量]]，消除数据黑箱。
+> 4. **从二级拼凑转向一级大样本直接综合** 绕过有缺陷的中间元分析，直接基于全量原始数据开展一级直接元分析。
 
 > 完整详尽的批判脉络、数学反例、透明度重构与案例剖析详见专门理论条目：
 > 🔗 **[[Critique of Meta-meta-analysis|元-元分析批判]]（Critique of Meta-meta-analysis）**。

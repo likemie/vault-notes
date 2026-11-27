@@ -158,7 +158,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-11-25
+updated: 2026-11-27
 ---
 
 ---
@@ -354,7 +354,7 @@ updated: 2026-11-25
 
 > [!method-limits] 方法局限
 > 1. **可比性（“苹果与橙子”）** 干预定义、测量工具、比较组与情境差异过大时，平均[[Effect Size|效应量]]缺乏明确含义 (Eysenck, 1978; [[Argument_Higgins_2016_ROE|Higgins, 2016]]; [[Argument_Simpson_2017_JEdPolicy|Simpson, 2017]])。
-> 2. **输入质量（“垃圾进，垃圾出”）** 合并有偏的初级研究得到的是更精确的有偏估计 (Eysenck, 1978; Slavin, 1984; [[Argument_Berk_2011_EvalRev|Berk, 2011]])。[[Ewald Terhart|特哈特]]（[[Argument_Terhart_2014_HolyGrail|Terhart, 2014, p. 14]]）指出，缺乏严格方法学准入质控门槛时，控制严谨的干[[Pilot Testing|预实验]]与宽泛粗疏的[[Questionnaire|问卷调查]]在计算中被一视同仁，导致底层证据库异质性失控。布吕格尔曼（[[Argument_Brugelmann_2014_LocalPractice|Brügelmann, 2014, pp. 42–44]]）进一步指出文献历史断代滞后（如计算机辅助教学底层文献过半早于 2000 年）与抽空微观课堂[[Implementation Fidelity|实施保真度]]会导致元分析表面标签与实际教学现实脱节。
+> 2. **输入质量（“垃圾进，垃圾出”）** 合并有偏的初级研究得到的是更精确的有偏估计 (Eysenck, 1978; Slavin, 1984; [[Argument_Berk_2011_EvalRev|Berk, 2011]])。[[Ewald Terhart|特哈特]]（[[Argument_Terhart_2014_HolyGrail|Terhart, 2014, p. 14]]）指出，缺乏严格方法学准入质控门槛时，控制严谨的干预实验与宽泛粗疏的[[Questionnaire|问卷调查]]在计算中被一视同仁，导致底层证据库异质性失控。布吕格尔曼（[[Argument_Brugelmann_2014_LocalPractice|Brügelmann, 2014, pp. 42–44]]）进一步指出文献历史断代滞后（如计算机辅助教学底层文献过半早于 2000 年）与抽空微观课堂[[Implementation Fidelity|实施保真度]]会导致元分析表面标签与实际教学现实脱节。
 > 3. **证据库偏倚** [[Publication Bias|发表偏倚]]、选择性报告与数据提取错误会系统扭曲合并结果 ([[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]; [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]])。
 > 4. **统计独立性** 同一研究的多个效应量相关，按独立处理会低估[[Standard Error|标准误]] (Cheung, 2014)。
 > 5. **平均效应掩盖[[Heterogeneity|异质性]]** 平均[[Effect Size|效应量]]不回答“对谁、在何种情境下有效”，Kluger and DeNisi (1996) 的反馈研究中约 38% 的效应为负 ([[Argument_Wiliam_2019_ERE|Wiliam, 2019]])。布吕格尔曼（[[Argument_Brugelmann_2014_LocalPractice|Brügelmann, 2014, pp. 44–45]]）强调教学方法内部的方差离散度远超方法之间的均值差异，且同质性分类标准的自相矛盾（如开放教学 $d = 0.01$ 对比非指导性教学 $d = 0.54$）进一步暴露宏观平均指标的局限。
@@ -407,6 +407,7 @@ updated: 2026-11-25
 > - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014)]] — 批判元分析中忽视文献历史断代滞后、抽空微观实施保真度以及抹杀组内方差离散度的三大方法论缺陷，揭示指标内部评价自相矛盾（pp. 42–45）。
 > - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 审查[[John Hattie|哈蒂]]《[[Visible Learning|可见的学习]]》所纳 800 余项元分析的年代构成与质控门槛，指出底层数据年代跨代滞后及缺乏准入质控导致证据库异质性失控的方法学缺陷（pp. 13–14）。
 > - [[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]] — 检视 Hattie (2009) 中学校结构变量的元分析证据库，指出其几乎全采自实行综合中学体制的英语国家、缺乏早期分轨数据，论证跨体制外推元分析结论的制度边界（pp. 67–69）。
+> - [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014)]] — 审读《可见的学习》中合作学习与小组学习元分析数据（如 4 项元分析对比个人学习 $d = 0.59$），指出单一成就测度盲区与因子非加性交互（强效因子束）对元分析效应解读的制约（pp. 78–79, 82–84）。
 > - [[Argument_Knogler_2025_BB|Knogler et al. (2025)]] — 评析数字化数理教学元分析（$k = 92$），展示清算中心如何依据高信度元分析提炼决策参数并构建面向教师教育的循证中介转化范式。
 > - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 运用随机效应模型综合 29 项实验（$g = 0.609$），评估[[Generative Artificial Intelligence|生成式人工智能]]对[[Higher-Order Thinking Skills|高阶思维]]的促进效应并检验干预时长与学段调节效应。
 > - [[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] — 开展生成式人工智能[[Collaborative Learning|协作学习]]元分析（57 项实验），控制前测基线等效性评估综合效应并以剪补法校正发表偏倚。
