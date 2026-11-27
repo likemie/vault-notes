@@ -497,22 +497,19 @@ updated: 2026-11-28
 ---
 
 > [!entry-map] Visible Learning 知识网络与子条目维护分流矩阵
-> 本条目定位为 Visible Learning [[Construct|理论构念]]、教学论主张与核心实证模型的中心枢纽，仅维护二阶元分析理论架构、30% 教师方差、形成性三提问与双向可见性教学论本体。关于细分教学机制、商业化网络、学理批判与底层数据库的知识扩充，必须依据下述 13 项核心分流边界执行，严禁将衍生细节直接堆砌于母条目中。
+> 本条目定位为 Visible Learning [[Construct|理论构念]]、教学论主张与核心实证模型的中心枢纽，仅维护二阶元分析理论架构、30% 教师方差、形成性三提问与双向可见性教学论本体。关于细分教学机制、商业化网络、学理批判与底层数据库的知识扩充，必须依据下述 10 项核心分流边界执行，严禁将衍生细节直接堆砌于母条目中。
 >
 > | 知识模块 | 条目 | 类型 | 核心关联与分流定位（分流维护指引） |
 > |:---|:---|:---|:---|
 > | **核心理论与教学论** | [[Zone of Desired Effects]] | 概念 | 期望效应区；维护 $d=0.40$ 关节点构念、常态成长分界与政策投资门槛。 |
 > | **核心理论与教学论** | [[Teacher as Activator]] | 概念 | 激活型教师角色构念；维护激活者 vs 促进者效应量分野（$d=0.60$ vs $d=0.17$）、直接教学实证印证与主动教学干预机制。 |
-> | **核心理论与教学论** | [[Feedback]] | 概念 | 形成性反馈；维护 $d=0.73$ 标杆效应量、任务/过程/自我调节三层级反馈交互机制。 |
 > | **核心理论与教学论** | [[Learning Intentions]] | 概念 | 显性学习意图；维护课堂教学目标敞开机制、认知透明度与师生目标共享。 |
 > | **核心理论与教学论** | [[Success Criteria]] | 概念 | 显性成功标准；维护分阶成就阶梯、评价标准共享与学生自我调节评价机制。 |
 > | **因子交互与榜单纠偏** | [[Effective Factor Bundle]] | 概念 | 强效因子束；维护德语教学论对孤立单因素排位误读的纠偏与多因子协同增效机制。 |
-> | **效应量视觉修辞** | [[Barometer of Achievement]] | 概念 | 效应量气压计视觉修辞；维护半圆形仪表盘、四象限区间划分、asTTle 行政监控图示渊源与伪科学视觉修辞批判。 |
-> | **外部学理批判总揽** | [[Critiques of Visible Learning]] | 概念 | 外部学理批评全景枢纽；承接所有关于二阶元分析算法、欧陆教学论、新泰勒制及[[Ideology Critique\|意识形态批判]]，下辖细分批评子矩阵。 |
-> | **测量与评估工具原型** | [[Assessment Tools for Teaching and Learning]] | 测量工具 | asTTle 计算机系统；承接形成性三提问软件原型、题库校准与测评管理功能。 |
-> | **课堂言语观察工具** | [[Visible Classroom]] | 测量工具 | 可见课堂移动端实时语音转录与编码工具；承接 80% 教师发言盲区测度与 EEF 试点评估证据。 |
+> | **效应量视觉修辞** | [[Barometer of Achievement]] | 概念 | 效应量气压计视觉修辞；维护半圆形仪表盘、四象限区间划分、[[Assessment Tools for Teaching and Learning\|asTTle]] 图示渊源与视觉修辞批判。 |
+> | **外部学理批判总揽** | [[Critiques of Visible Learning]] | 概念 | 外部学理批评全景枢纽；承接二阶元分析算法、欧陆教学论、新泰勒制及[[Ideology Critique\|意识形态批判]]，下辖细分批评子矩阵。 |
 > | **实证[[Data Infrastructure\|数据基础设施]]** | [[Visible Learning Meta-X]] | 事实 / 项目 | 底层数据库；承接 2,100+ 项一阶元分析收录、因素层加权计算口径及自动化提取质控。 |
-> | **商业化与全球政策扩散** | [[Visible Learning Branding and Global Influences]] | 事实 / 事件 | 全球商业化与跨国政策总枢纽；收口 VLplus 专营培训、考文收购、高额版税追踪与跨国采纳（如德国、丹麦、瑞典、俄罗斯接受与争鸣，下辖 [[Hattie på dansk]]、[[Visible Learning in Sweden]]、[[Russian Translation of Visible Learning]]）。 |
+> | **商业化与全球政策扩散** | [[Visible Learning Branding and Global Influences]] | 事实 / 事件 | 全球商业化与跨国政策总枢纽；收口 VLplus 专营培训、考文收购、高额版税追踪与跨国采纳（下辖 [[Hattie på dansk]]、[[Visible Learning in Sweden]]、[[Russian Translation of Visible Learning]] 及 [[Visible Classroom]] 商业产品线）。 |
 > | **核心人物** | [[John Hattie]] | 人物 | 理论开创者与首席研究员；承接学者生平、学术转向、机构任职及学术声誉变迁。 |
 
 ---
