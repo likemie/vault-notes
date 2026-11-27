@@ -68,7 +68,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-11-26
+updated: 2026-11-28
 ---
 
 ---
@@ -287,5 +287,6 @@ updated: 2026-11-26
 > - [[Argument_McPhail_2023_JCS\|McPhail et al. (2023)]] — 把深层学习转化为[[Knowledge-that and Know-how-to\|知其然]]与知其所用之间可展示、可阐述的连接，并用于诊断课程知识组织的连贯性。
 > - [[Argument_Knudsen_2017_NordSTEP\|Knudsen (2017)]] — 依据 [[SOLO Taxonomy\|SOLO]] 认知模型阐释表层知识向深层探究的进阶机制，指出全球约 90% 的学校因错位提前应用基于问题的学习导致效能滑坡。
 > - [[Argument_Kremers_2014_CooperativeLearning\|Kremers (2014)]] — 阐明[[Cooperative Learning\|合作学习]]依托独学打底、图形组织与元认知策略实现表层与深层学习的动态平衡（p. 86）。
+> - [[Argument_Reiss_Bernhard_2014_MathematicsEducation|Reiss and Bernhard (2014)]] — 剖析哈蒂对[[Problem-Based Learning|问题本位学习]]的算术平均如何抹平深层理解大效应与浅层概念记忆小效应的分化（pp. 94–96）。
 
 ---
