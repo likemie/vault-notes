@@ -9,7 +9,7 @@ aliases:
 summary: "John Hattie 在《可见学习》中设定的 d>=0.40 期望效应区阈值，将所有影响因素的简单算术均值假托为一年自然学业成长基准，被批判为缺乏物理实体基准与比率尺度属性的伪科学假象及政策规训工具。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 61
+related_count: 60
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -20,7 +20,6 @@ tags:
   - scientism
   - education-policy
 related_concepts:
-  - "[[Teacher Expectations]]"
   - "[[Visible Learning]]"
   - "[[School Leadership]]"
   - "[[Variable]]"
@@ -90,13 +89,13 @@ related_arguments:
 confidence: high
 status: completed
 created: "2026-10-16"
-updated: 2026-11-25
+updated: 2026-11-28
 ---
 
 ---
 
 > [!def] Zone of Desired Effects
-> **[[Teacher Expectations|期望效应]]区（Zone of Desired Effects）** 是新西兰学者[[John Hattie|约翰·哈蒂]]（John Hattie）在《[[Visible Learning|可见的学习]]》中构建的核心量化分界标准，指教育干预或影响因素的[[Effect Size|效应量]]达到或超过 $d \ge 0.40$ 的区间。哈蒂将 $d = 0.40$ 设定为**铰接点（Hinge Point）**，假托其代表学生在一整年中不加额外特殊干预时的典型学业成长与常态教师教学的复合平均进展，并以此作为甄别教育策略是否真正具备推广价值的刚性门槛。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 26)]]
+> **期望效应区（Zone of Desired Effects）** 是新西兰学者[[John Hattie|约翰·哈蒂]]（John Hattie）在《[[Visible Learning|可见的学习]]》中构建的核心量化分界标准，指教育干预或影响因素的[[Effect Size|效应量]]达到或超过 $d \ge 0.40$ 的区间。哈蒂将 $d = 0.40$ 设定为**铰接点（Hinge Point）**，假托其代表学生在一整年中不加额外特殊干预时的典型学业成长与常态教师教学的复合平均进展，并以此作为甄别教育策略是否真正具备推广价值的刚性门槛。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 26)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向依据[[Meta-meta-analysis|二阶元分析]]二分化剪裁教育干预措施的实证量化截断阈值。
@@ -131,7 +130,7 @@ updated: 2026-11-25
 ---
 
 > [!feature] 核心要素
-> - **铰接点（Hinge Point, $d = 0.40$）** [[John Hattie|哈蒂]]设定的核心分水岭，声称代表学生一年正常认知成熟与标准教学的基线进展，高于此数值方被视作对教学产生期望成效。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 26)]]
+> - **铰接点（Hinge Point, $d = 0.40$）** [[John Hattie|哈蒂]]设定的核心分水岭，声称代表学生一年正常认知成熟与标准教学的基线进展，高于此数值方被视作对教学产生期望成效。
 > - **四层效应区间划分** 哈蒂将教育影响因素分为四大区段：逆效应区（$< 0$）、发展效应区（$0 \le d < 0.15$，自然成熟）、教师效应区（$0.15 \le d < 0.40$，平庸教学）、期望效应区（$d \ge 0.40$，高效教学）。
 > - **简单算术平均本质** 该数值源自 2009 年全书 138 项影响因素未加权平均的数学产物，缺乏任何外在客观物理常数依据。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 26)]]
 > - **气压计视觉呈现** 期望效应区在可见学习体系中常与[[Barometer of Achievement|成就气压计]]结合，以绿色表盘区域直观标示，强化工业控制仪表板的视觉权威。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]

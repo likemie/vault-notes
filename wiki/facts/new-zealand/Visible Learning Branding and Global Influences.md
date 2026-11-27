@@ -10,9 +10,9 @@ subtype: event
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "event"
-fact_related_count: 81
-fact_related_level: 8
-fact_related_stars: "💎💎⭐⭐"
+fact_related_count: 79
+fact_related_level: 7
+fact_related_stars: "💎💎⭐"
 fact_related_color: "#fecdd3"
 tags:
   - visible-learning
@@ -76,7 +76,6 @@ related_persons:
   - "[[Michael Fullan]]"
   - "[[Ewald Terhart]]"
   - "[[Olaf Köller]]"
-  - "[[Charles Taylor]]"
 related_facts:
   - "[[Corwin Press]]"
   - "[[Cognition Education]]"
@@ -84,7 +83,6 @@ related_facts:
   - "[[Tomorrow's Schools Reforms]]"
   - "[[Integrated Programme]]"
   - "[[Education Endowment Foundation]]"
-  - "[[Institute of Education Sciences]]"
   - "[[The New Zealand Curriculum]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[PISA]]"
@@ -116,7 +114,7 @@ related_instruments:
 confidence: high
 status: stable
 created: '2026-05-04'
-updated: 2026-11-25
+updated: 2026-11-28
 ---
 
 > [!claim] 核心定性
@@ -192,7 +190,7 @@ Visible Learning 的跨国扩张依托轻资产区域特许授权和多层商业
 Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表，契合了各国政策制定者追求“低成本、课堂级速效修复”的治理诉求，在多国教育体系中实现了深度制度化嵌入。
 
 > [!dev-timeline] 各国政策制度化采纳
-> - **新西兰 — 课程改革、财政误用与“投资教育成功”（[[Institute of Education Sciences|IES]]）** 早期深度嵌入教育部《有效教师特征》与《[[The New Zealand Curriculum|新西兰课程]]》（2010），Hattie 出任国家标准技术顾问；新西兰财政部（The Treasury）2011 年甚至直接引用其效应量数据提出“[[Class Size|班级规模]]不重要”，建议削减师资编制以增加生师比，遭到学界与工会强烈反弹（[[Argument_ONeill_2012_NZJES|O'Neill, 2012, pp. 154–157]]）。2014 年国家党政府投入 **3.59 亿新西兰元** 启动“投资教育成功”（Investing in Educational Success, IES）旗舰计划，设立跨校“学习共同体”（Communities of Learning, CoL / Kāhui Ako）以分享[[Evidence-Based Teaching|循证教学]]实践；其核心政策蓝图直接源于 Hattie 的合作专业精神与可见学习理论框架；在 2015 年新西兰教育节（NZ Festival of Education）上，[[Cognition Education|认知教育信托]]出资赞助 Hattie 与 [[Michael Fullan]] 登台演讲，形成了公共政策重构、私营商业培训与学术领袖互为背书的协同同盟。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 13, 21–22, 89)]]
+> - **新西兰 — 课程改革、财政误用与“投资教育成功”（IES）** 早期深度嵌入教育部《有效教师特征》与《[[The New Zealand Curriculum|新西兰课程]]》（2010），Hattie 出任国家标准技术顾问；新西兰财政部（The Treasury）2011 年甚至直接引用其效应量数据提出“[[Class Size|班级规模]]不重要”，建议削减师资编制以增加生师比，遭到学界与工会强烈反弹（[[Argument_ONeill_2012_NZJES|O'Neill, 2012, pp. 154–157]]）。2014 年国家党政府投入 **3.59 亿新西兰元** 启动“投资教育成功”（Investing in Educational Success, IES）旗舰计划，设立跨校“学习共同体”（Communities of Learning, CoL / Kāhui Ako）以分享[[Evidence-Based Teaching|循证教学]]实践；其核心政策蓝图直接源于 Hattie 的合作专业精神与可见学习理论框架；在 2015 年新西兰教育节（NZ Festival of Education）上，[[Cognition Education|认知教育信托]]出资赞助 Hattie 与 [[Michael Fullan]] 登台演讲，形成了公共政策重构、私营商业培训与学术领袖互为背书的协同同盟。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 13, 21–22, 89)]]
 > - **澳大利亚 — 国家标准嵌入与官方背书** Hattie 出任 [[Australian Institute for Teaching and School Leadership|AITSL]] 董事会主席，将 VL 指标要求全面嵌入国家教师与校长专业标准及持续认证体系；维多利亚州教育部官方背书并将 10 项高影响教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]）以 VL 为首选参考；ABC 纪录片《革命学校》将其描绘为公共教育拯救者。[[Argument_Sarbiewska_2019_KiW|(Sarbiewska, 2019, pp. 126–128)]]
 > - **丹麦 — 公立学校法案采纳、[[Legitimation Crisis|合法化危机]]与激烈反弹** 丹麦在 2000 年代加入 [[PISA]] 后面临巨大的教育合法化压力；2014 年丹麦议会通过划时代的小学改革法案（Folkeskole Reform 2014），教育部与地方市镇协会（KL）斥巨资引进[[John Hattie|哈蒂]]模式，将办学宗旨明确改写为确保学生掌握尽可能多的知识，全盘吸纳哈蒂式产出效能叙事。然而，由于该法案将延长学生在校课时与强制剥夺教师备课时间、激化劳资停工对抗相绑定，政府反复将哈蒂的元分析包装为不可违背的“客观科学铁律”，以此压制一线教师与工会的合理抗议。[[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] 深刻揭示，丹麦政界对哈蒂品牌的狂热追捧实质上是将技术理性作为防御国家教育[[Legitimation Crisis|合法化危机]]的工具掩体。这一行政硬推不仅引发大批骨干教师辞职流失，更促成丹麦学者出版批判文集《[[Hattie på dansk]]》，激起全国性学术与政治大论战。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, pp. 3–5)]]; [[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 80, 86–87)]]
 > - **瑞典 — “科学基础”下的学校改进重塑** 瑞典依据学校法对“科学基础与实证证据”的要求，将 VL 转译为聚焦课堂近端策略、同伴观察与[[Teacher Collaboration|教师协作]]的校本改进工作流程（详见 [[Visible Learning in Sweden]]）。
@@ -212,7 +210,7 @@ Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表�
 > > [!axis] [[Cult of the Guru|大师崇拜]]与[[Neo-Taylorism|新泰勒主义]]规训
 > > [[Critical Pedagogy|批判教育学]]者警示 VL [[Alienation|异化]]为规训教师日常劳动的行政监控工具。
 > >
-> > - **大师崇拜与行政合谋（[[Argument_Eacott_2017_SLM|Eacott, 2017]], 2019）** 指出 VL 被行政机构包装为不可置疑的科学真理，将复杂教学矮化为可测量的最小单元，剥夺[[Teacher Professional Agency|教师专业能动性]]，沦为新时代的[[Charles Taylor|泰勒]]主义；学术期刊在两天内快速发表 Hattie 回应却多轮拖延批评者文章，反映出出版建制对大师地位的制度偏袒。[[Argument_Eacott_2019_IJLE|(Eacott, 2019, pp. 777–778)]]
+> > - **大师崇拜与行政合谋（[[Argument_Eacott_2017_SLM|Eacott, 2017]], 2019）** 指出 VL 被行政机构包装为不可置疑的科学真理，将复杂教学矮化为可测量的最小单元，剥夺[[Teacher Professional Agency|教师专业能动性]]，沦为新时代的泰勒主义；学术期刊在两天内快速发表 Hattie 回应却多轮拖延批评者文章，反映出出版建制对大师地位的制度偏袒。[[Argument_Eacott_2019_IJLE|(Eacott, 2019, pp. 777–778)]]
 > > - **持续数据生产的跨国组织病理（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）** 澳大利亚学者 Eacott 揭示的“持续数据生产”机制在国际传播中产生多米诺效应；[[Argument_Golovchin_2019_ESC|Golovchin (2019)]]结合俄罗斯转型期教育现状实证指出，将 VL 的排名逻辑引入公立系统极易演变为“人人监视人人”的新行政[[Panopticism|全景敞视]]，使教师淹没于合规自证的报表流水线中，加速了教师群体的职业倦怠与[[Brain Drain|人才流失]]。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 240–241)]]
 >
 > > [!axis] 政策误用、术语口号化与时效性脱节
@@ -256,20 +254,20 @@ Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表�
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Visible Learning]] | Concept | 品牌化运营所依托的学术母体与教育[[Research Synthesis\|证据综合]]框架。 |
-> | [[Learning Intentions]] | Concept | 可见学习商业培训包中被重点标准化的核心教学概念，后在维州沦为白板打卡指标。 |
-> | [[Critiques of Visible Learning]] | Concept | 汇总学界对 VL 统计方法、[[Neo-Taylorism\|新泰勒主义]]与商业化利益冲突的系统性学术批判入口。 |
-> | [[John Hattie]] | Person | 《可见的学习》专著著者、商业品牌核心人物与[[Policy Entrepreneur\|政策创业者]]。 |
-> | [[Assessment Tools for Teaching and Learning]] | Instrument | Hattie 主持开发的新西兰国家[[Formative Assessment\|形成性评估]]工具，构成 VL 的技术原型与商业化试验案例。 |
-> | [[Visible Learning Meta-X]] | Fact (Program) | 支撑整个 Visible Learning 商业与学术体系的底层[[Meta-meta-analysis\|二阶元分析]]数据库（收录 2,100+ 项[[Meta-analysis\|元分析]]）。 |
-> | [[Cognition Education]] | Fact (Organization) | 早期负责 VLplus 全球教师培训、商标持有与商业运营的核心[[Educational Management Organisation\|教育管理组织]]（EMO）。 |
-> | [[Education Endowment Foundation]] | Fact (Organization) | 资助 [[Visible Classroom]] 试点并将其实证研究纳入循证工具包的英国权威机构。 |
-> | [[Australian Institute for Teaching and School Leadership]] | Fact (Organization) | Hattie 曾任主席并将可见学习指标全面嵌入国家教师与校长专业标准的国家机构。 |
-> | [[Tomorrow's Schools Reforms]] | Fact (Policy) | 为新西兰教育服务外包与知识商业化提供制度温床的 1989 年宏观教育改革。 |
-> | [[Victorian HITS and Literacy Toolkit]] | Fact (Policy) | 澳大利亚维多利亚州全面采纳并制度化 VL 循证证据的官方教学策略政策。 |
-> | [[Hattie på dansk]] | Fact (Event) | 汇集丹麦学者批判公立学校法案机械照搬 VL 的标志性论争事件与文集。 |
-> | [[Visible Learning in Sweden]] | Fact (Event) | 记录瑞典学校法“科学基础”要求下 VL 转向课堂改进工作流程的实践历程。 |
-> | [[Russian Translation of Visible Learning]] | Fact (Event) | 记录 VL 俄文版翻译出版及俄罗斯学界关于跨文化适用性与方法论的学术争论。 |
+> | [[Visible Learning]] | 概念 | 品牌化运营所依托的学术母体与教育[[Research Synthesis\|证据综合]]框架。 |
+> | [[Learning Intentions]] | 概念 | 可见学习商业培训包中被重点标准化的核心教学概念，后在维州沦为白板打卡指标。 |
+> | [[Critiques of Visible Learning]] | 概念 | 汇总学界对 VL 统计方法、[[Neo-Taylorism\|新泰勒主义]]与商业化利益冲突的系统性学术批判入口。 |
+> | [[John Hattie]] | 人物 | 《可见的学习》专著著者、商业品牌核心人物与[[Policy Entrepreneur\|政策创业者]]。 |
+> | [[Assessment Tools for Teaching and Learning]] | 测量工具 | Hattie 主持开发的新西兰国家[[Formative Assessment\|形成性评估]]工具，构成 VL 的技术原型与商业化试验案例。 |
+> | [[Visible Learning Meta-X]] | 事实 | 支撑整个 Visible Learning 商业与学术体系的底层[[Meta-meta-analysis\|二阶元分析]]数据库（收录 2,100+ 项[[Meta-analysis\|元分析]]）。 |
+> | [[Cognition Education]] | 事实 | 早期负责 VLplus 全球教师培训、商标持有与商业运营的核心[[Educational Management Organisation\|教育管理组织]]（EMO）。 |
+> | [[Education Endowment Foundation]] | 事实 | 资助 [[Visible Classroom]] 试点并将其实证研究纳入循证工具包的英国权威机构。 |
+> | [[Australian Institute for Teaching and School Leadership]] | 事实 | Hattie 曾任主席并将可见学习指标全面嵌入国家教师与校长专业标准的国家机构。 |
+> | [[Tomorrow's Schools Reforms]] | 事实 | 为新西兰教育服务外包与知识商业化提供制度温床的 1989 年宏观教育改革。 |
+> | [[Victorian HITS and Literacy Toolkit]] | 事实 | 澳大利亚维多利亚州全面采纳并制度化 VL 循证证据的官方教学策略政策。 |
+> | [[Hattie på dansk]] | 事实 | 汇集丹麦学者批判公立学校法案机械照搬 VL 的标志性论争事件与文集。 |
+> | [[Visible Learning in Sweden]] | 事实 | 记录瑞典学校法“科学基础”要求下 VL 转向课堂改进工作流程的实践历程。 |
+> | [[Russian Translation of Visible Learning]] | 事实 | 记录 VL 俄文版翻译出版及俄罗斯学界关于跨文化适用性与方法论的学术争论。 |
 
 ---
 

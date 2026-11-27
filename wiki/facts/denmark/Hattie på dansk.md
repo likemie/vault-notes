@@ -52,7 +52,7 @@ related_arguments:
 confidence: medium
 status: active
 created: '2026-05-03'
-updated: 2026-11-25
+updated: 2026-11-28
 ---
 
 ---
@@ -79,7 +79,7 @@ updated: 2026-11-25
 > 拉森在《了解你的影响：约翰·哈蒂证据信条的盲区》一章中批评哈蒂的模型将复杂的师生互动退化为类似台球碰撞或机械清洁系统的[[Determinism|因果决定论]]，认为这种实证主义侵蚀令[[Theodor Adorno|阿多诺]]等[[Critical Theory|批判理论]]家难以接受。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, p. 4)]]
 
 > [!debates] 史学评价与关键学者交锋
-> - **[[Steen Nepper Larsen]] 论盲视与机械还原** 批评哈蒂模型以盲目性书写，将师生互动简化为机械因果链条。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, p. 4)]]
+> - **[[Steen Nepper Larsen]] 论盲视与机械还原** 批评哈蒂模型以盲目性书写，将师生互动简化为机械因果链条。
 > - **[[Thomas Aastrup Rømer]] 论集权化与计算机化有机体** 指出哈蒂反馈规程具有强烈的自上而下集权效应，将学校教育改组为层级化、计算机化的管理有机体，剥夺了教育哲学的人文关怀。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, p. 4)]]
 > - **[[Klaus Nielsen]] 论[[Technical Rationality|技术理性]]的合法化救济** 指出哈蒂在丹麦的广泛渗透迎合了政府面临的[[Legitimation Crisis|合法化危机]]，官僚机构借其技术承诺掩盖学校服务市场经济与维系公民教养之间的内在撕裂。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 86–88)]]
 > - **[[John Hattie]] 的对质回应与反驳** 哈蒂在访谈中称该书断言“[[Visible Learning|可见的学习]]在丹麦行不通”十分荒唐，坚称丹麦学校数据显示巨大成效，并将本土教师抗拒归因于其固守传统而不愿倾听学生声音。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 254)]]

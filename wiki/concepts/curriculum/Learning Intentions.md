@@ -8,7 +8,7 @@ aliases:
 summary: "教师与学生在教学活动前共同明确的核心认知理解与概念迁移目标；但在新泰勒主义问责与循证政策规训下，原本指向深层认知建构的学习意图容易异化为形式主义的白板打卡与管理监控指标。"
 type: concept
 domain: "curriculum"
-related_count: 44
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -57,7 +57,6 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"
-  - "[[Charles Taylor]]"
 related_facts:
   - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[NZ Curriculum Refresh 2021-2026]]"
@@ -73,7 +72,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-16
-updated: 2026-11-25
+updated: 2026-11-28
 ---
 
 ---
@@ -175,7 +174,7 @@ updated: 2026-11-25
 > |---|---|---|---|
 > | **命题一：认知透明与概念深化** | 显性共享学习意图能打破学生对任务外在形式的盲目依赖，激活深层因果理解 | 单元教学初始设计、探究任务解构 | Clarke, Timperley, & Hattie (2003) |
 > | **命题二：形成性反馈基准坐标** | 学习意图为识别[[Learning Gap\|学习差距]]与制定下一步教学行动提供首要参照基准 | [[Teacher Questioning\|课堂提问]]、练习诊断与形成性反馈循环 | [[Argument_Hattie_2005_ACER\|Hattie (2005)]]；Black and Wiliam (1998) |
-> | **命题三：管理主义清单异化** | 政策刚性推行将学习意图降格为课前白板打卡，滋生表演性合规与专业[[Cognitive Deskilling\|去技能化]] | 维州 HITS 落地、新[[Charles Taylor\|泰勒]]主义巡课、教师专业自主权批判 | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]；Lilley (2022) |
+> | **命题三：管理主义清单异化** | 政策刚性推行将学习意图降格为课前白板打卡，滋生表演性合规与专业[[Cognitive Deskilling\|去技能化]] | 维州 HITS 落地、新泰勒主义巡课、教师专业自主权批判 | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]；Lilley (2022) |
 > | **命题四：意向性置换与主体放逐** | 目标神圣化逻辑将学习窄化为机械控制，以心理学变量替换学生探索生活世界的主体意向 | 可见学习哲学批判、教育合法性危机反思 | [[Argument_Nielsen_2021_IRTP\|Nielsen and Klitmøller (2021b)]] |
 
 ---
@@ -233,15 +232,15 @@ updated: 2026-11-25
 
 ---
 
-> [!entry-map] 概念网络图
+> [!entry-map] 条目关联
 >
-> | 关联条目 | 类别 | 关联说明 |
+> | 条目 | 类型 | 关系 |
 > |---|---|---|
-> | [[Success Criteria]] | 核心概念 | 与学习意图互为表里的评价工具，界定达成该意图的质性标准与证据。 |
-> | [[Formative Assessment]] | 核心概念 | 学习意图为形成性评价反馈循环提供了根本的认知锚点。 |
-> | [[Performativity]] | 批判概念 | 政策将学习意图强制化为白板板书指标后所引发的教师虚假表演与合规异化。 |
-> | [[Professional Judgment]] | 核心概念 | 教师专业直觉与现场裁量权，受到刚性学习意图清单核查的严重侵蚀。 |
-> | [[Disciplina and Doctrina]] | 哲学[[Paradigm\|范式]] | 反映了管理主义技术规训（disciplina）对课堂生成性探究（doctrina）的压制。 |
-> | [[Technical Rationality]] | 哲学概念 | 审视学习意图被封闭为手段-目的因果工程背后的[[Positivism\|实证主义]]理性前提。 |
-> | [[Victorian HITS and Literacy Toolkit]] | 政策事实 | 澳大利亚维多利亚州推行 HITS、将白板书写学习意图硬性化的典型政策案例。 |
-> | [[Visible Learning Branding and Global Influences]] | 事实条目 | 记录了学习意图与清晰教学作为商业培训模块被推向全球的历史轨迹。 |
+> | [[Success Criteria]] | 概念 | 与学习意图互为表里的评价工具，界定达成该意图的质性标准与证据。 |
+> | [[Formative Assessment]] | 概念 | 学习意图为形成性评价反馈循环提供了根本的认知锚点。 |
+> | [[Performativity]] | 概念 | 政策将学习意图强制化为白板板书指标后所引发的教师虚假表演与合规异化。 |
+> | [[Professional Judgment]] | 概念 | 教师专业直觉与现场裁量权，受到刚性学习意图清单核查的严重侵蚀。 |
+> | [[Disciplina and Doctrina]] | 概念 | 反映了管理主义技术规训（disciplina）对课堂生成性探究（doctrina）的压制。 |
+> | [[Technical Rationality]] | 概念 | 审视学习意图被封闭为手段-目的因果工程背后的[[Positivism\|实证主义]]理性前提。 |
+> | [[Victorian HITS and Literacy Toolkit]] | 事实 | 澳大利亚维多利亚州推行 HITS、将白板书写学习意图硬性化的典型政策案例。 |
+> | [[Visible Learning Branding and Global Influences]] | 事实 | 记录了学习意图与清晰教学作为商业培训模块被推向全球的历史轨迹。 |

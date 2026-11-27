@@ -6,7 +6,7 @@ aliases:
 summary: "新西兰教育部委托奥克兰大学 John Hattie 团队开发的中小学读写与数学标准化形成性测评与报告系统，兼具诊断学情进阶与全网行政监控双重属性"
 type: instrument
 instrument_type: test
-instrument_related_count: 34
+instrument_related_count: 32
 instrument_related_level: 3
 instrument_related_stars: "💎"
 instrument_related_color: "#dbeafe"
@@ -51,7 +51,6 @@ related_methods:
   - "[[Multiple-Choice Questions]]"
   - "[[Time Series Design]]"
 related_facts:
-  - "[[Early Steps]]"
   - "[[Cognition Education]]"
 related_arguments:
   - "[[Argument_Hattie_2005_ACER]]"
@@ -60,7 +59,6 @@ related_arguments:
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Snook_2010_NZJES]]"
 related_persons:
-  - "[[Charles Taylor]]"
   - "[[John Hattie]]"
   - "[[John O'Neill]]"
   - "[[Ewald Terhart]]"
@@ -68,7 +66,7 @@ related_persons:
 confidence: high
 status: completed
 created: 2026-09-16
-updated: 2026-11-25
+updated: 2026-11-28
 ---
 
 ---
@@ -76,7 +74,7 @@ updated: 2026-11-25
 > [!instrument-profile] 教学与学习评估工具（asTTle）
 > - **工具类型** 标准化计算机辅助[[Formative Assessment|形成性评价]]与诊断测评系统。
 > - **开发者与年份** Hattie et al. (2002)。由新西兰教育部资助委托奥克兰大学研发。
-> - **测量目的** 官方宣称为中小学教师提供关于学生[[Academic Achievement|学业成就]]与认知进阶的诊断性证据，支持课堂目标设定、学情归因研判、校本教研以及多时点[[Learning Gain|增值评价]]；批判视角则揭示其同时具备支持管理层全网追踪教师软件使用与推行[[Charles Taylor|泰勒]]制监控的行政规训功能（[[Argument_Hattie_2005_ACER|Hattie, 2005, pp. 11]], 15; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 28]]）。
+> - **测量目的** 官方宣称为中小学教师提供关于学生[[Academic Achievement|学业成就]]与认知进阶的诊断性证据，支持课堂目标设定、学情归因研判、校本教研以及多时点[[Learning Gain|增值评价]]；批判视角则揭示其同时具备支持管理层全网追踪教师软件使用与推行泰勒制监控的行政规训功能（[[Argument_Hattie_2005_ACER|Hattie, 2005, pp. 11]], 15; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 28]]）。
 > - **实施方式** 基于[[Item Response Theory|项目反应理论]]（Item Response Theory, IRT）的自适应或标准化测评软件，支持教师自定义测试时长与考察模块，测试完成后系统即时自动生成多层级表现剖面图与气压计仪表盘。
 
 > [!citation-card] 赋权教师的形成性评价系统
@@ -112,7 +110,7 @@ updated: 2026-11-25
 > [!proc] asTTle 诊断与教学决策流程
 > 1. **目标设定与基线标定（Target Setting）** 教师录入或测试获取学生当前起点，系统根据全国常模和同类学校常模自动比对，促使教师与同伴研讨设定具有合理挑战性的增值目标。
 > 2. **差距识别与诊断分析（Gap Analysis）** 报告即时拆解班级与个体在具体知识点、认知深度（如 [[SOLO Taxonomy|SOLO]] 分类学水平）上的达标落差，识别共同迷思。
-> 3. **课程资源自适应匹配（[[Early Steps|Next Steps]] Linkage）** 软件依据学生当前的进阶台阶，自动推荐适切的新西兰国家课程教学材料与挑战任务。
+> 3. **课程资源自适应匹配（Next Steps Linkage）** 软件依据学生当前的进阶台阶，自动推荐适切的新西兰国家课程教学材料与挑战任务。
 > 4. **纵向时间序列增值评估（[[Time Series Design|interrupted time series]] [[Tracking]]）** 支持在学年内与跨学年开展多次测量，避免单次两点差分的假象，以时间序列趋势检验教师与学校干预的真实效能（[[Argument_Hattie_2005_ACER|Hattie, 2005, p. 15]]）。
 
 > [!mechanism] 行政监控架构与管理图表视觉迁移

@@ -9,7 +9,7 @@ aliases:
 summary: "John Hattie 在《可见学习》中用于直观展示效应量区间的半圆形仪表盘图表，直接移植自其此前主导开发的 asTTle 行政全网监控软件，被批判为将工业泰勒制控制逻辑与全景监视物化为教学图腾的伪科学视觉修辞。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 37
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -55,7 +55,6 @@ related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
 related_persons:
   - "[[John Hattie]]"
-  - "[[Charles Taylor]]"
 related_facts:
   - "[[Thomas B. Fordham Institute]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
@@ -66,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-16"
-updated: 2026-11-25
+updated: 2026-11-28
 ---
 
 ---
@@ -102,7 +101,7 @@ updated: 2026-11-25
 ---
 
 > [!feature] 核心要素
-> - **半圆表盘与指针（Dial and Needle）** 模拟物理压力表或汽车速度表构造，指针指示特定教学策略的汇总[[Effect Size|效应量]]点估计。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]
+> - **半圆表盘与指针（Dial and Needle）** 模拟物理压力表或汽车速度表构造，指针指示特定教学策略的汇总[[Effect Size|效应量]]点估计。
 > - **彩色分区（Color-Coded Zones）** 将表盘自左至右划分为负效应区（红色）、自然发展效应区（黄色）、典型[[Teacher Effects|教师效应]]区（蓝色）和[[Zone of Desired Effects|期望效应区]]（绿色），强化直观的情感评价倾向。
 > - **铰接点中线刻度（Hinge Point, $d = 0.40$）** 在表盘正上方或核心转折处显著标出 $0.40$ 刻度，作为衡量教学优劣的视觉分界。
 > - **行政全网监控基因（[[Assessment Tools for Teaching and Learning|asTTle]] Origin）** 继承自学校行政管理软件中监控 6 个学科测验进展的后台界面，内嵌[[Panopticism|全景敞视]]监视机制。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]
@@ -122,7 +121,7 @@ updated: 2026-11-25
 > **[[Neo-Taylorism|新泰勒主义]]管理逻辑与软件视觉迁移** 探讨气压计图表如何将最初用于行政层面对教师实施联网监视的技术界面，转化为指导日常课堂教学的规范性符号。
 
 > [!claim] Johnson & Janzen
-> **全景监视界面向课堂教学符号的[[Alienation|异化]]迁移** [[Charles Taylor|泰勒]]（Frederick Taylor）在 1911 年通过工时秒表拆解工人劳动节奏，开启了剥夺基层自主权的工业科学管理。[[John Hattie|哈蒂]]在出版《可见学习》前主持开发了 [[Assessment Tools for Teaching and Learning|asTTle]] 评估软件，其关键卖点在于向管理层提供能够全网实时监视全校 6 个科目教师软件使用情况的后台仪表盘。书中反复出现的气压计图表正是直接搬用自这一行政监控界面。这一视觉迁移将原本用于自上而下考核与问责的技术工具，神圣化为衡量教师专业成效的教学图腾，体现了典型的[[Neo-Taylorism|新泰勒主义]]管理诉求：把丰富的育人实践降格为仪表刻度，削弱教师的[[Professional Judgment|专业判断]]，迫使基层教师听令于外部技术指标。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]
+> **全景监视界面向课堂教学符号的[[Alienation|异化]]迁移** 泰勒（Frederick Taylor）在 1911 年通过工时秒表拆解工人劳动节奏，开启了剥夺基层自主权的工业科学管理。[[John Hattie|哈蒂]]在出版《可见学习》前主持开发了 [[Assessment Tools for Teaching and Learning|asTTle]] 评估软件，其关键卖点在于向管理层提供能够全网实时监视全校 6 个科目教师软件使用情况的后台仪表盘。书中反复出现的气压计图表正是直接搬用自这一行政监控界面。这一视觉迁移将原本用于自上而下考核与问责的技术工具，神圣化为衡量教师专业成效的教学图腾，体现了典型的[[Neo-Taylorism|新泰勒主义]]管理诉求：把丰富的育人实践降格为仪表刻度，削弱教师的[[Professional Judgment|专业判断]]，迫使基层教师听令于外部技术指标。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]
 
 ---
 

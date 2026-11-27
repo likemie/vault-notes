@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 182
+person_related_count: 180
 person_related_level: 18
 person_related_stars: "💎💎💎💎💎💎"
 person_related_color: "#fef3c7"
@@ -115,7 +115,6 @@ related_theories:
   - "[[Stability vs. Variability Dilemma]]"
   - "[[Phenomenology]]"
   - "[[Societies of Control]]"
-  - "[[Discursive Institutionalism]]"
   - "[[Process-Product Paradigm]]"
   - "[[Behaviorism]]"
 related_methods:
@@ -150,7 +149,6 @@ related_persons:
   - "[[Klaus Nielsen]]"
   - "[[Thomas Aastrup Rømer]]"
   - "[[Jürgen Habermas]]"
-  - "[[Charles Taylor]]"
 related_arguments:
   - "[[Argument_Knudsen_2017_NordSTEP]]"
   - "[[Argument_Higgins_2016_ROE]]"
@@ -416,7 +414,7 @@ updated: 2026-11-28
 > > 质询技术理性在教育系统中的合法化功能，以及对潜隐性、历时性非外显学习维度的系统性屏蔽。
 > >
 > > - **Nielsen 与 Klitmøller 以及 Rømer** 从[[Jürgen Habermas|哈贝马斯]][[Legitimation Crisis|合法化危机]]理论出发，指出《[[Visible Learning|可见的学习]]》之所以流行，在于其技术理性契合了教育行政系统的合法化需求而非凭借客观科学质量；批评评价理论篡位教育目的、[[Radical Constructivism|激进建构主义]]消解实质教学。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b)]]; [[Argument_Rømer_2018_EPT|(Rømer, 2018)]]
-> > - **Larsen 与 Zhao** 提出“观看盲视”（Blindness in Seeing）批判框架，强调主体的理解与教化具有潜在、历时与非线性特征，难以完全外显为即时测度指标，呼吁以 [[Bildung]]（教化）替代机械产出；警示直接教学（[[Discursive Institutionalism|DI]]）证据背后对[[Creativity|创造力]]与探索精神的[[Side Effects|副作用]]。[[Argument_Larsen_2019_EducSci|(Larsen, 2019)]]; [[Argument_Zhao_2017_JEC|(Zhao, 2017)]]
+> > - **Larsen 与 Zhao** 提出“观看盲视”（Blindness in Seeing）批判框架，强调主体的理解与教化具有潜在、历时与非线性特征，难以完全外显为即时测度指标，呼吁以 [[Bildung]]（教化）替代机械产出；警示直接教学（DI）证据背后对[[Creativity|创造力]]与探索精神的[[Side Effects|副作用]]。[[Argument_Larsen_2019_EducSci|(Larsen, 2019)]]; [[Argument_Zhao_2017_JEC|(Zhao, 2017)]]
 > > - **Terhart 提出教学论实质与全景规训审视** 从德语区教学论（[[Didaktik]]）与教化传统指出，形式化学习模型抽空了学科教学内容的教育学意义；双向可见性模型在福柯视角下展现为将外显行政强制转化为内化自我监控的全景规训技术。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431, 434)]]
 
 
@@ -432,7 +430,7 @@ updated: 2026-11-28
 > - [[Argument_Allerup_2015_Paideia|Allerup, 2015]] — 效应量排名[[Sample Size Determination|样本量]]依赖、[[Confidence Interval|置信区间]]缺失与[[Socioeconomic Status|社会经济背景]]控制批评。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al., 2016]] — 推导两级固定效应代数等价性定理与六步规程，以 Eisenstaedt（10倍虚增）、Haas（权重削减53%）及 Olson & Wisher（93%重叠致排名雪崩）实证解构超级元分析可行性。
 > - [[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017]] — 统计学视角审查：CLES 负概率初等计算错误、基线反转致效应量解释颠覆、受控数值模拟证实三类有效公式排名彻底相反、相关向均值差换算极值爆炸（$r=0.196 \to d=0.40$ 仅解释 3.85% 方差）及伪科学定性。
-> - [[Argument_Eacott_2017_SLM|Eacott, 2017]] — 澳大利亚[[School Leadership|学校领导力]]屈从于大师崇拜与新[[Charles Taylor|泰勒]]主义批判。
+> - [[Argument_Eacott_2017_SLM|Eacott, 2017]] — 澳大利亚[[School Leadership|学校领导力]]屈从于大师崇拜与新泰勒主义批判。
 > - [[Argument_Zhao_2017_JEC|Zhao, 2017]] — 直接教学（DI）效应量证据背后的创造力抑制与非生产性成功副作用。
 > - [[Argument_Rømer_2018_EPT|Rømer, 2018]] — 五线哲学批判：评价理论篡位教育、激进[[Constructivist Paradigm|建构主义]]消解教学与[[Dependent Variable|因变量]]不清。
 > - [[Argument_Larsen_2019_EducSci|Larsen, 2019]] — [[Phenomenology|现象学]]与自由哲学视角的“盲视”（Blindness）框架批判与 Bildung 替代。

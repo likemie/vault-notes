@@ -10,7 +10,7 @@ subtype: program
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "program"
-fact_related_count: 41
+fact_related_count: 40
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#ede9fe"
@@ -63,7 +63,6 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"
-  - "[[Charles Taylor]]"
 related_facts:
   - "[[Corwin Press]]"
   - "[[Visible Learning Branding and Global Influences]]"
@@ -75,7 +74,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-09-18
-updated: 2026-11-25
+updated: 2026-11-28
 ---
 
 > [!program-context] 项目背景
@@ -895,7 +894,7 @@ MetaX 现行分类扩展为 9 个领域、43 个子领域。下表用 2026 年 1
 > > 数据库收录文献从最初的 800 余项暴增至 2,100+ 项，考察的影响因素从 138 项膨胀至 350+ 项。批判学者指出，由于采用无权简单算术平均，向庞大分母中追加新 $d$ 值产生的边际影响极速递减；极具[[Paradigm|范式]]突破性的前沿研究在庞大分母中被严重稀释，且数据库完全缺乏对陈旧、低质或已被学界推翻文献的淘汰机制，只是新旧数据不加甄别的机械堆积，导致作为客观基准的[[Zone of Desired Effects|期望效应区分水岭]]（$d = 0.40$）随[[Variable|变量]]增加而任意漂移。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 27)]]
 >
 > > [!axis] [[Corporate R&D Labs|企业研发实验室]]异化与课堂非人化批判
-> > Meta-X 数据库呈现为典型科学数据集的外观，但对其具体数字的抽取情境缺乏阐释。批判研究指出，该数据库以冷酷非人化的方式将中小学课堂重新构想为数据生产车间，其运作形态契合了现代企业研发实验室（R&D Lab）体制与新[[Charles Taylor|泰勒]]制逻辑，向政策部门兜售廉价的提分技术处方，背离了教育丰富的人文育人宗旨。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 35–36)]]
+> > Meta-X 数据库呈现为典型科学数据集的外观，但对其具体数字的抽取情境缺乏阐释。批判研究指出，该数据库以冷酷非人化的方式将中小学课堂重新构想为数据生产车间，其运作形态契合了现代企业研发实验室（R&D Lab）体制与新泰勒制逻辑，向政策部门兜售廉价的提分技术处方，背离了教育丰富的人文育人宗旨。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 35–36)]]
 
 > [!method-limits] 方法学与使用局限
 > - **访问限制与复现壁垒** 完整底层字段数据库不公开，仅限合作机构[[Research Utilization|研究使用]]，阻碍独立复现与[[Metascience|元科学]]检验；公开出版物与网站提供的汇总数据不包含细粒度原始提取字段。

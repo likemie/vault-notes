@@ -5,7 +5,7 @@ aliases:
 summary: "John Hattie 发起的教育证据综合与学校改进框架，主张通过汇总海量元分析建立 d=0.40 关节点相对有效性判准，将教师确立为成就变异的核心因果枢纽（30%），依托学业进阶、显性成功标准与形成性反馈重塑教学评价性判断。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 197
+related_count: 196
 related_level: 19
 related_stars: "💎💎💎💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -158,7 +158,6 @@ related_persons:
   - "[[Thomas Nordahl]]"
   - "[[Olaf Köller]]"
   - "[[Scott Eacott]]"
-  - "[[Charles Taylor]]"
   - "[[John Dewey]]"
   - "[[B. F. Skinner]]"
   - "[[Robert Glaser]]"
@@ -225,7 +224,7 @@ updated: 2026-11-28
 ---
 
 > [!tip] 知识网络与子条目维护分流指引
-> 本条目定位为 Visible Learning [[Construct|理论构念]]、教学论主张与核心实证模型的中心枢纽。关于商业化运作网络、全球政策采纳、学理批判与底层[[Meta-analysis|元分析]]数据库的专门子条目维护分流矩阵，详见文末 [[#相关条目网络与维护指引|相关条目网络与维护指引]]。在更新本条目时，必须根据内容主题同步分流维护 [[Visible Learning Branding and Global Influences]]、[[Critiques of Visible Learning]]、[[Visible Learning Meta-X]] 与 [[Cargo Cult Science]] 等关联条目。
+> 本条目定位为 Visible Learning [[Construct|理论构念]]、教学论主张与核心实证模型的中心枢纽。关于细分教学机制、商业化运作网络、全球政策采纳、学理批判与底层[[Meta-analysis|元分析]]数据库的专门子条目维护分流矩阵，详见文末“Visible Learning 知识网络与子条目维护分流矩阵”。在更新本条目时，必须根据内容主题同步分流维护 [[Visible Learning Branding and Global Influences]]、[[Critiques of Visible Learning]]、[[Visible Learning Meta-X]] 与 [[Cargo Cult Science]] 等关联条目。
 
 ---
 
@@ -360,7 +359,7 @@ updated: 2026-11-28
 > **[[Practitioner Enquiry|实践者探究]]对流行概念的情境化校准** 欧洲跨国质性实证表明，苏格兰中小学领导者在接触 Visible Learning 等广受炒作的外部流行概念时，坚决抵制脱离本土情境的机械套用，转而依托教师专业标准中的“实践者探究”（Practitioner Enquiry），凭借扎根课堂的一线[[Contributory Expertise|贡献型专长]]对概念的本土适切性展开严格审视与校准；德国汉堡学校亦组建教学发展小组（Unterrichtsentwicklung）自主研读 Hattie 著作，将其作为校本同侪对话与形成性反思的专业参考坐标，展现了实践者对外部证据标签的主动去魅与反思性转化。[[Argument_Kelly_2025_ROE|(Kelly et al., 2025, pp. 13–14, 20–21)]]
 
 > [!claim] [[Scott Eacott|Eacott, S.]]
-> **[[Neo-Taylorism|新泰勒主义]]风险与[[Cult of the Guru|大师崇拜]]批判** 斯科特·伊科特（Scott Eacott）等批判学者指出，若将 VL [[Alienation|异化]]为行政当局追求[[Performance Indicators|绩效指标]]的标准化控制工具，试图通过量化排名拆解教学实践并寻找“唯一正确方法”，便会沦为“新时代的[[Charles Taylor|泰勒]]主义”（Neo-Taylorism），剥夺[[Teacher Professional Agency|教师专业能动性]]并诱发虚假的大师崇拜。[[Argument_Eacott_2019_IJLE|(Eacott, 2019, pp. 777–778)]]
+> **[[Neo-Taylorism|新泰勒主义]]风险与[[Cult of the Guru|大师崇拜]]批判** 斯科特·伊科特（Scott Eacott）等批判学者指出，若将 VL [[Alienation|异化]]为行政当局追求[[Performance Indicators|绩效指标]]的标准化控制工具，试图通过量化排名拆解教学实践并寻找“唯一正确方法”，便会沦为“新时代的泰勒主义”（Neo-Taylorism），剥夺[[Teacher Professional Agency|教师专业能动性]]并诱发虚假的大师崇拜。[[Argument_Eacott_2019_IJLE|(Eacott, 2019, pp. 777–778)]]
 
 > [!claim] Johnson, G. R. & Janzen, M. D.
 > **[[Cargo Cult Science|货物崇拜科学]]与行政监控的技术殖民** 约翰逊与詹森进一步从科学哲学与管理学视角指出，VL 具有披着实证外衣的[[Cargo Cult Science|货物崇拜科学]]（Cargo Cult Science）特征；其标志性的[[Barometer of Achievement|气压计图表]]直接脱胎于用于自上而下联网监控教师软件使用进度的 [[Assessment Tools for Teaching and Learning|asTTle]] 行政系统，体现了行政监控诉求对[[Feedback|教学反馈]]工具的规训重塑。通过将教学比附为外科手术或高山救援，文本贬抑教师专业判断为不成熟经验，在维多利亚州等地诱发了强行按清单板书打卡的[[Performativity|表演性]]异化。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–30, 34–36)]]
@@ -483,7 +482,7 @@ updated: 2026-11-28
 ---
 
 > [!entry-map] Visible Learning 知识网络与子条目维护分流矩阵
-> 本条目定位为 Visible Learning [[Construct|理论构念]]、教学论主张与核心实证模型的中心枢纽，仅维护二阶元分析理论架构、30% 教师方差、形成性三提问与双向可见性教学论本体。关于细分教学机制、商业化网络、学理批判与底层数据库的知识扩充，必须依据下述 11 项核心分流边界执行，严禁将衍生细节直接堆砌于母条目中。
+> 本条目定位为 Visible Learning [[Construct|理论构念]]、教学论主张与核心实证模型的中心枢纽，仅维护二阶元分析理论架构、30% 教师方差、形成性三提问与双向可见性教学论本体。关于细分教学机制、商业化网络、学理批判与底层数据库的知识扩充，必须依据下述 13 项核心分流边界执行，严禁将衍生细节直接堆砌于母条目中。
 >
 > | 知识模块 | 条目 | 类型 | 核心关联与分流定位（分流维护指引） |
 > |:---|:---|:---|:---|
@@ -492,11 +491,13 @@ updated: 2026-11-28
 > | **核心理论与教学论** | [[Feedback]] | 概念 | 形成性反馈；维护 $d=0.73$ 标杆效应量、任务/过程/自我调节三层级反馈交互机制。 |
 > | **核心理论与教学论** | [[Learning Intentions]] | 概念 | 显性学习意图；维护课堂教学目标敞开机制、认知透明度与师生目标共享。 |
 > | **核心理论与教学论** | [[Success Criteria]] | 概念 | 显性成功标准；维护分阶成就阶梯、评价标准共享与学生自我调节评价机制。 |
+> | **因子交互与榜单纠偏** | [[Effective Factor Bundle]] | 概念 | 强效因子束；维护德语教学论对孤立单因素排位误读的纠偏与多因子协同增效机制。 |
 > | **效应量视觉修辞** | [[Barometer of Achievement]] | 概念 | 效应量气压计视觉修辞；维护半圆形仪表盘、四象限区间划分、asTTle 行政监控图示渊源与伪科学视觉修辞批判。 |
 > | **外部学理批判总揽** | [[Critiques of Visible Learning]] | 概念 | 外部学理批评全景枢纽；承接所有关于二阶元分析算法、欧陆教学论、新泰勒制及[[Ideology Critique\|意识形态批判]]，下辖细分批评子矩阵。 |
-> | **测量与评估工具原型** | [[Assessment Tools for Teaching and Learning]] | 测量工具 | asTTle 计算机系统；承接形成性三提问软件原型、题库校准与测评管理功能（衍生课堂转录工具见 [[Visible Classroom]]）。 |
+> | **测量与评估工具原型** | [[Assessment Tools for Teaching and Learning]] | 测量工具 | asTTle 计算机系统；承接形成性三提问软件原型、题库校准与测评管理功能。 |
+> | **课堂言语观察工具** | [[Visible Classroom]] | 测量工具 | 可见课堂移动端实时语音转录与编码工具；承接 80% 教师发言盲区测度与 EEF 试点评估证据。 |
 > | **实证[[Data Infrastructure\|数据基础设施]]** | [[Visible Learning Meta-X]] | 事实 / 项目 | 底层数据库；承接 2,100+ 项一阶元分析收录、因素层加权计算口径及自动化提取质控。 |
-> | **商业化与全球政策扩散** | [[Visible Learning Branding and Global Influences]] | 事实 / 事件 | 全球商业化与跨国政策总枢纽；收口 VLplus 专营培训、考文收购、高额版税追踪与跨国采纳，下辖丹麦、瑞典、俄罗斯等国别落地子条目（如 [[Hattie på dansk]]、[[Visible Learning in Sweden]]、[[Russian Translation of Visible Learning]]）。 |
+> | **商业化与全球政策扩散** | [[Visible Learning Branding and Global Influences]] | 事实 / 事件 | 全球商业化与跨国政策总枢纽；收口 VLplus 专营培训、考文收购、高额版税追踪与跨国采纳（如德国、丹麦、瑞典、俄罗斯接受与争鸣，下辖 [[Hattie på dansk]]、[[Visible Learning in Sweden]]、[[Russian Translation of Visible Learning]]）。 |
 > | **核心人物** | [[John Hattie]] | 人物 | 理论开创者与首席研究员；承接学者生平、学术转向、机构任职及学术声誉变迁。 |
 
 ---

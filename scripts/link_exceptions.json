@@ -1722,5 +1722,85 @@
       "sentence": "乌韦·弗里克（Uwe Flick, 2009, p.",
       "target": "wiki/persons/uk/Miranda Fricker.md"
     }
+  ],
+  "wiki/concepts/instruction-pedagogy/Zone of Desired Effects.md": [
+    {
+      "sentence": "**期望效应区（Zone of Desired Effects）** 是新西兰学者约翰·哈蒂（John Hattie）在《可见的学习》中构建的核心量化分界标准，指教育干预或影响因素的效应量达到或超过 $d \\ge 0.40$ 的区间。",
+      "target": "wiki/concepts/teacher-education/Teacher Expectations.md"
+    }
+  ],
+  "wiki/concepts/curriculum/Learning Intentions.md": [
+    {
+      "sentence": "维州 HITS 落地、新泰勒主义巡课、教师专业自主权批判",
+      "target": "wiki/persons/canada/Charles Taylor.md"
+    }
+  ],
+  "wiki/concepts/instruction-pedagogy/Visible Learning.md": [
+    {
+      "sentence": "**新泰勒主义风险与大师崇拜批判** 斯科特·伊科特（Scott Eacott）等批判学者指出，若将 VL 异化为行政当局追求绩效指标的标准化控制工具，试图通过量化排名拆解教学实践并寻找“唯一正确方法”，便会沦为“新时代的泰勒主义”（Neo-Taylorism），剥夺教师专业能动性并诱发虚假的大师崇拜。",
+      "target": "wiki/persons/canada/Charles Taylor.md"
+    }
+  ],
+  "wiki/instruments/tests/Assessment Tools for Teaching and Learning.md": [
+    {
+      "sentence": "**测量目的** 官方宣称为中小学教师提供关于学生学业成就与认知进阶的诊断性证据，支持课堂目标设定、学情归因研判、校本教研以及多时点增值评价；批判视角则揭示其同时具备支持管理层全网追踪教师软件使用与推行泰勒制监控的行政规训功能（Hattie, 2005, pp.",
+      "target": "wiki/persons/canada/Charles Taylor.md"
+    },
+    {
+      "sentence": "**课程资源自适应匹配（Next Steps Linkage）** 软件依据学生当前的进阶台阶，自动推荐适切的新西兰国家课程教学材料与挑战任务。",
+      "target": "wiki/facts/us/Early Steps.md"
+    }
+  ],
+  "wiki/concepts/instruction-pedagogy/Barometer of Achievement.md": [
+    {
+      "sentence": "**全景监视界面向课堂教学符号的异化迁移** 泰勒（Frederick Taylor）在 1911 年通过工时秒表拆解工人劳动节奏，开启了剥夺基层自主权的工业科学管理。",
+      "target": "wiki/persons/canada/Charles Taylor.md"
+    }
+  ],
+  "wiki/persons/new-zealand/John Hattie.md": [
+    {
+      "sentence": "Eacott, 2017 — 澳大利亚学校领导力屈从于大师崇拜与新泰勒主义批判。",
+      "target": "wiki/persons/canada/Charles Taylor.md"
+    },
+    {
+      "sentence": "**Larsen 与 Zhao** 提出“观看盲视”（Blindness in Seeing）批判框架，强调主体的理解与教化具有潜在、历时与非线性特征，难以完全外显为即时测度指标，呼吁以 Bildung（教化）替代机械产出；警示直接教学（DI）证据背后对创造力与探索精神的副作用。",
+      "target": "wiki/theories/political-economy-geopolitics/Discursive Institutionalism.md"
+    }
+  ],
+  "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md": [
+    {
+      "sentence": "**可见性全景监控与新泰勒制规训（panoptic surveillance & Neo-Taylorism）**",
+      "target": "wiki/persons/canada/Charles Taylor.md"
+    },
+    {
+      "sentence": "Eacott (2019) — 劳动过程与新泰勒制批判，解构清单管理、消除得过且过与动作拆解对教师情境化专业判断的剥夺。",
+      "target": "wiki/persons/canada/Charles Taylor.md"
+    },
+    {
+      "sentence": "**期望效应分水岭**",
+      "target": "wiki/concepts/teacher-education/Teacher Expectations.md"
+    }
+  ],
+  "wiki/facts/new-zealand/Visible Learning Branding and Global Influences.md": [
+    {
+      "sentence": "**大师崇拜与行政合谋（Eacott, 2017, 2019）** 指出 VL 被行政机构包装为不可置疑的科学真理，将复杂教学矮化为可测量的最小单元，剥夺教师专业能动性，沦为新时代的泰勒主义；学术期刊在两天内快速发表 Hattie 回应却多轮拖延批评者文章，反映出出版建制对大师地位的制度偏袒。",
+      "target": "wiki/persons/canada/Charles Taylor.md"
+    },
+    {
+      "sentence": "**新西兰 — 课程改革、财政误用与“投资教育成功”（IES）** 早期深度嵌入教育部《有效教师特征》与《新西兰课程》（2010），Hattie 出任国家标准技术顾问；新西兰财政部（The Treasury）2011 年甚至直接引用其效应量数据提出“班级规模不重要”，建议削减师资编制以增加生师比，遭到学界与工会强烈反弹（O'Neill, 2012, pp.",
+      "target": "wiki/facts/us/Institute of Education Sciences.md"
+    }
+  ],
+  "wiki/facts/new-zealand/Visible Learning Meta-X.md": [
+    {
+      "sentence": "批判研究指出，该数据库以冷酷非人化的方式将中小学课堂重新构想为数据生产车间，其运作形态契合了现代企业研发实验室（R&D Lab）体制与新泰勒制逻辑，向政策部门兜售廉价的提分技术处方，背离了教育丰富的人文育人宗旨。",
+      "target": "wiki/persons/canada/Charles Taylor.md"
+    }
+  ],
+  "wiki/facts/russia/Russian Translation of Visible Learning.md": [
+    {
+      "sentence": "which CREATES a biased positive perception of Visible Learning.\"*",
+      "target": "wiki/facts/eu/CREATES Project.md"
+    }
   ]
 }

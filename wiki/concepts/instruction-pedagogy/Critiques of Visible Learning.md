@@ -7,7 +7,7 @@ aliases:
 summary: "围绕 John Hattie Visible Learning 展开的批评谱系，集中讨论效应量排名、元-元分析、教学理论、教育哲学、可见性政治和商业化政策扩张等争议。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 193
+related_count: 191
 related_level: 19
 related_stars: "💎💎💎💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -19,13 +19,13 @@ tags:
   - education-policy
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Neo-Taylorism]]"
   - "[[Cargo Cult Science]]"
   - "[[Critique of Meta-analysis]]"
   - "[[Didaktik]]"
   - "[[Positivism]]"
   - "[[Neoliberalism]]"
   - "[[Paradigm]]"
-  - "[[Neo-Taylorism]]"
   - "[[Professional Judgment]]"
   - "[[Epistemic Stances]]"
   - "[[Metascience]]"
@@ -54,7 +54,6 @@ related_concepts:
   - "[[Whole Language]]"
   - "[[Direct Instruction]]"
   - "[[Study Population and Sample]]"
-  - "[[Teacher Expectations]]"
   - "[[Variable]]"
   - "[[Homophily]]"
   - "[[Sampling Error]]"
@@ -118,6 +117,7 @@ related_concepts:
   - "[[Implementation Fidelity]]"
   - "[[Preregistration]]"
   - "[[International Schools]]"
+  - "[[Evidence-Based Teaching]]"
   - "[[Epistemic Governance]]"
   - "[[Streetlight Effect]]"
   - "[[Formative Assessment]]"
@@ -157,7 +157,6 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Philosophical Analysis in Education]]"
 related_persons:
-  - "[[Charles Taylor]]"
   - "[[John Hattie]]"
   - "[[Ivan Snook]]"
   - "[[Gene Glass]]"
@@ -169,9 +168,9 @@ related_persons:
   - "[[Peter Sloterdijk]]"
   - "[[Basil Bernstein]]"
   - "[[Roy Nash]]"
+  - "[[Hans-Günter Rolff]]"
   - "[[Ewald Terhart]]"
   - "[[Pierre-Jérôme Bergeron]]"
-  - "[[Hans-Günter Rolff]]"
 related_facts:
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[EVIPNet]]"
@@ -183,8 +182,6 @@ related_facts:
   - "[[The Scott Report]]"
   - "[[Corwin Press]]"
   - "[[Cognition Education]]"
-  - "[[Hauptschule]]"
-  - "[[Gymnasium]]"
 related_arguments:
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Terhart_2011_JCS]]"
@@ -208,23 +205,24 @@ related_arguments:
   - "[[Argument_Cowen_2019_ERE]]"
   - "[[Argument_Eacott_2017_SLM]]"
   - "[[Argument_ONeill_2012_NZJES]]"
+  - "[[Argument_Rolff_2014_SchoolStructure]]"
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
   - "[[Argument_Knudsen_2017_NordSTEP]]"
   - "[[Argument_Brugelmann_2014_LocalPractice]]"
   - "[[Argument_Koller_2014_WhatWorks]]"
   - "[[Argument_Nielsen_2021_NordPsych]]"
-  - "[[Argument_Rolff_2014_SchoolStructure]]"
+  - "[[Argument_VonOlberg_2014_GeneralDidactics]]"
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
   - "[[Framework for Teaching]]"
 confidence: medium
 status: stable
 created: 2026-05-21
-updated: 2026-11-25
+updated: 2026-11-28
 ---
 
 > [!tip] 知识网络与批评条目维护分流指引
-> 本条目定位为 [[Visible Learning]] 外部学理批评的系统全景枢纽，系统涵盖方法论假性精确、教学论空洞、教育哲学偏狭、可见性规训、新[[Charles Taylor|泰勒]]制监控与商业化扩张等六大批评脉络。在更新本条目时，必须注意与其他细分专用条目的分流与联动：宏观理论本体见 [[Visible Learning]]；商业化扩张与版税利益追踪见 [[Visible Learning Branding and Global Influences]]；哲学划界与[[Cargo Cult Science|货物崇拜科学]]深度批判见 [[Cargo Cult Science]]；[[Meta-analysis|元分析]]方法学争议见 [[Critique of Meta-analysis]] 与 [[Meta-analysis]]。子条目维护分流矩阵详见文末 [[#相关条目网络与维护指引|相关条目网络与维护指引]]。
+> 本条目定位为 [[Visible Learning]] 外部学理批评的系统全景枢纽，系统涵盖方法论假性精确、教学论空洞、教育哲学偏狭、可见性规训、[[Neo-Taylorism|新泰勒主义]]监控与商业化扩张等六大批评脉络。在更新本条目时，必须注意与其他细分专用条目的分流与联动：宏观理论本体见 [[Visible Learning]]；商业化扩张与版税利益追踪见 [[Visible Learning Branding and Global Influences]]；哲学划界与[[Cargo Cult Science|货物崇拜科学]]深度批判见 [[Cargo Cult Science]]；[[Meta-analysis|元分析]]方法学争议见 [[Critique of Meta-analysis]] 与 [[Meta-analysis]]。子条目维护分流矩阵详见文末“Critiques of Visible Learning 知识网络与子条目维护分流矩阵”。
 
 ---
 
@@ -264,7 +262,7 @@ updated: 2026-11-25
 >   批判其将丰富的课堂教学抽离出学科内容体系、教学法情境与师生主体意向，将育人过程矮化为投入产出的机械工序，陷入盲目的教育技术乐观主义与教师角色浪漫化。[[Argument_Terhart_2011_JCS|(Terhart, 2011)]]; [[Argument_Terhart_2014_HolyGrail|(Terhart, 2014)]]
 > - **教育哲学偏狭与自由教养遮蔽（Philosophical Reductionism & Colonization of [[Bildung]]）**
 >   揭示评价理论与[[Technical Rationality|技术理性]]对教育哲学的全面殖民：将教育目的彻底等同于可测量的考试分数，以[[Radical Constructivism|激进建构主义]]消解客观知识，以神经还原论抹杀中间存在者的身心复杂性，将课堂 80% 的不可见机制化为[[Autopoiesis|自创生]]盲视，系统遮蔽了学生作为道德与文化主体的自由教养（[[Bildung]]）以及[[Emergence|涌现]]的[[Participatory Sense-Making|参与式意义建构]]（[[Participatory Sense-Making]]）。[[Argument_Rømer_2018_EPT|(Rømer, 2018)]]; [[Argument_Larsen_2019_EducSci|(Larsen, 2019)]]
-> - **可见性全景监控与新[[Charles Taylor|泰勒]]制规训（[[Panopticism|panoptic surveillance]] & [[Neo-Taylorism]]）**
+> - **可见性全景监控与新泰勒制规训（[[Panopticism|panoptic surveillance]] & [[Neo-Taylorism]]）**
 >   揭露将教学比附为外科手术等流水线技术的工业管理逻辑：揭示将神圣全知凝视世俗化为持续全景监视与强迫性自我观察的微观机制，依托 [[Assessment Tools for Teaching and Learning|asTTle]] 监控软件与指标化气压计剥夺[[Teacher Professional Agency|教师专业能动性]]，推行白板板书形式主义核查等[[Performativity|表演性]]打卡，诱发基层教师严重的职业倦怠。[[Argument_Eacott_2019_IJLE|(Eacott, 2019)]]; [[Argument_McKnight_2020_Discourse|(McKnight & Whitburn, 2020)]]
 > - **[[Neoliberalism|新自由主义]]商业化与财政紧缩借口（Neoliberal Commercialization & Fiscal Austerity）**
 >   追踪其自诞生之初即深度嵌入的新西兰公共教育外包改制：学者身兼咨询机构董事并获取巨额版税，高频鼓吹“[[Class Size|班级规模]]不影响学业”，精准迎合了政府削减教育经费、推卸公共财政责任的紧缩政策诉求。[[Argument_Grace_2010_NZJES|(Grace, 2010)]]; [[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016)]]
@@ -331,7 +329,7 @@ updated: 2026-11-25
 > | 分析维度 | 汇总量化数值 | 细分层级的真实情况 | 对实践与政策的误导 |
 > |---|---|---|---|
 > | **家庭作业的学段差异** | 总体效应量：<br>$d=0.29$（排第 88 名） | 小学生课外作业：<br>$d=0.15$<br>高中生课外作业：<br>$d=0.64$ | 高中作业若单独列出可排在全书第 17 名；笼统的单一平均值容易诱导政策制定者全盘否定作业价值，或在小学阶段盲目推行。同时抹杀了数学（高效应）与科学、社会科（低效应）的学科差异。 |
-> | **[[Teacher Expectations\|期望效应]]分水岭** | 将 $d=0.40$ 设定为有效与平庸的分水岭（Zone of Desired Effects） | 该数值只是纳入的 138 项影响因素的**简单平均值** | 制造出如同物理仪器测量般的科学假象，实际上毫无客观基准，只要后续加入新[[Variable\|变量]]，该分水岭就会发生浮动。 |
+> | **期望效应分水岭** | 将 $d=0.40$ 设定为有效与平庸的分水岭（Zone of Desired Effects） | 该数值只是纳入的 138 项影响因素的**简单平均值** | 制造出如同物理仪器测量般的科学假象，实际上毫无客观基准，只要后续加入新[[Variable\|变量]]，该分水岭就会发生浮动。 |
 > | **数据库的机械追加** | Metax 扩充至逾 2,100 项元分析、350 项影响因素 | 均值稀释效应：新增重要研究在庞大分母中影响微弱 | 缺乏淘汰陈旧、低质或被推翻研究的清洗机制，只是新旧数据不加甄别的机械堆积。 |
 
 ---
@@ -927,7 +925,7 @@ updated: 2026-11-25
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — [[Philosophical Analysis in Education|哲学分析]]与概念批判，解构形而上学预设裂隙、评价理论压缩导致的[[Research Cage|研究牢笼]]、[[Radical Constructivism|激进建构主义]]双重瓦解与存在论控制悖论。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — [[Phenomenology|现象学]]与教化批判，解构 20% 可见性自反性陷阱、世俗化神学监控、脑神经还原论与陶冶之镜自恋，确立[[Participatory Sense-Making|参与式意义建构]]与教化作为批判免疫的[[Ontology|本体论]]防线。
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 统计离散度检验与后发转型国家实证，证实 56.87% 变差系数击穿同质性门槛，以及持续数据生产在俄罗斯导致的师资流失危机。
-> - [[Argument_Eacott_2019_IJLE|Eacott (2019)]] — 劳动过程与新[[Charles Taylor|泰勒]]制批判，解构清单管理、消除得过且过与动作拆解对教师情境化[[Professional Judgment|专业判断]]的剥夺。
+> - [[Argument_Eacott_2019_IJLE|Eacott (2019)]] — 劳动过程与新泰勒制批判，解构清单管理、消除得过且过与动作拆解对教师情境化[[Professional Judgment|专业判断]]的剥夺。
 > - [[Argument_Cowen_2019_ERE|Cowen (2019)]] — 公共选择与[[Tullock's Bureaucracy Theory|官僚制理论]]分析，揭示元分析工具如何为行政主权者提供透明过滤机制以满足治理需求。
 > - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] — 支持者的系统论辩护，提出解释社群假说、[[Epistemology|认识论]]互补论，运用鲁曼系统自操作理论为[[Bounded Rationality|有限理性]]下的专业判断辩护。
 > - [[Argument_McKnight_2020_Discourse|McKnight and Whitburn (2020)]] — 文化政治与微观权力批判，从视觉中心主义、[[Panopticism|全景敞视]]规训、情感边缘化解构白板板书形式主义核查等形式主义景观。

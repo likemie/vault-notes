@@ -10,7 +10,7 @@ subtype: event
 region: russia
 fact_region: "russia"
 fact_kind: "event"
-fact_related_count: 34
+fact_related_count: 33
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#fef3c7"
@@ -56,14 +56,13 @@ related_facts:
   - "[[National Education]]"
   - "[[Bologna Process]]"
   - "[[Teaching and Learning International Survey]]"
-  - "[[CREATES Project]]"
 related_arguments:
   - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Eacott_2017_SLM]]"
 confidence: medium
 status: active
 created: '2026-05-02'
-updated: 2026-11-25
+updated: 2026-11-28
 ---
 
 ---
@@ -73,7 +72,7 @@ updated: 2026-11-25
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 2017年出版，其思想争鸣与政策影响持续至2019年及以后；地理范围辐射全俄罗斯联邦及独联体俄语教育学术空间。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 229, 232)]]
-> - **核心当事主体** 莫斯科“[[National Education|国民教育]]”（Natsional'noe obrazovanie）出版社（隶属启蒙教育集团 Prosveshchenie）、[[John Hattie|约翰·哈蒂]]（John Hattie）、俄罗斯高等经济大学（HSE）主办刊物《教育研究》（*Voprosy obrazovaniya*）、俄罗斯学者（N.A. Borisenko、I.V. Vachkov、E.A. Sokolova、M.A. Golovchin）及广大中小学教师。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 232, 237)]]
+> - **核心当事主体** 莫斯科“[[National Education|国民教育]]”（Natsional'noe obrazovanie）出版社（隶属启蒙教育集团 Prosveshchenie）、[[John Hattie|约翰·哈蒂]]（John Hattie）、俄罗斯高等经济大学（HSE）主办刊物《教育研究》（*Voprosy obrazovaniya*）、俄罗斯学者（N.A. Borisenko、I.V. Vachkov、E.A. Sokolova、M.A. Golovchin）及广大中小学教师。
 > - **深层制度与社会背景** 俄罗斯国家项目“教育”（National Project "Education"）加速推进，力图构建现代数字与技术素养环境；但与此同时，盲目移植自西方的多项创新（如统一国家考试 USE、[[Bologna Process|博洛尼亚进程]]）在本土遭遇水土不服，USE 仅获三分之一教师认可，使教育改革深陷“制度陷阱”。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 229–230)]]
 > - **直接导火索 / 触发事件** 俄罗斯联邦国家教育标准（Federal State Educational Standards, FSES）要求全面培养学生的[[Critical Thinking|批判性思维]]与自主能力，促使俄教育界急切寻找具有量化实证支撑的教学效能与质量监控模型。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 232, 237)]]
 
@@ -81,7 +80,7 @@ updated: 2026-11-25
 
 > [!dev-timeline] 事件推进历程
 > - **2017 年 — 译本问世与初步热议** 莫斯科“国民教育”出版社推出 Hattie 专著俄文版 *Vidimoe obuchenie*（496页）。该书迅速在俄罗斯教育政策与实践圈传播，各大师资培训机构与出版社频繁组织面向中小学骨干教师的网络研讨会（webinars），将其包装为提升[[School Effectiveness|学校效能]]的“科学指南”。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 232)]]
->   - 2017-09 E.A. Sokolova 撰文率先从正面将 Hattie 的指标与 FSES 中关于培养学童[[Critical Thinking|批判性思维]]的条款挂钩。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 237)]]
+>   - 2017-09 E.A. Sokolova 撰文率先从正面将 Hattie 的指标与 FSES 中关于培养学童[[Critical Thinking|批判性思维]]的条款挂钩。
 > - **2018 年 — 学术推崇与循证方法论呼吁** 俄罗斯顶尖教育学术期刊密集出现高度肯定的评价。N.A. Borisenko 在权威期刊《教育研究》发表重磅书评，定性其为近年来俄罗斯翻译教育学术出版的“主要事件”；I.V. Vachkov 与 S.N. Vachkova（2018）明确呼吁全面引入[[Meta-analysis|元分析]]以检验本土教学创新的生产力。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 237)]]
 > - **2019 年 — 批判性反思与政策拒斥结论** 针对俄语学界对 Hattie 理论的单向赞美与批评声音的完全缺失，M.A. Golovchin 在《经济与社会变迁》发表系统检验。通过对 133 项正值[[Effect Size|效应量]]的离散度测算（变差系数高达 56.87%）与对教师报表负担的实证调查，正式向决策层提出“明确拒绝采纳 Hattie 方法”的政策结论。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 229, 238–241)]]
 
@@ -124,7 +123,7 @@ updated: 2026-11-25
 ---
 
 > [!indicators] 历史影响维度
-> - **制度创生与立法防范** 阻止了俄联邦盲目将 $d=0.40$ 等指标机械载入国家督导考核体系，警示决策层避免重蹈澳大利亚过度指标化的覆辙。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 240–241)]]
+> - **制度创生与立法防范** 阻止了俄联邦盲目将 $d=0.40$ 等指标机械载入国家督导考核体系，警示决策层避免重蹈澳大利亚过度指标化的覆辙。
 > - **思想[[Paradigm|范式]]变迁** 打破了俄罗斯教育界对西方证据“盲目崇拜”的信息差，促成从单纯概念引介转向对[[Meta-meta-analysis|二阶元分析]]统计底层与[[Ecological Validity|生态效度]]的审慎反思。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 229, 238)]]
 > - **社会结构重塑** 揭示了基层教师去专业化危机的深层机制，为维护[[Normal School|师范教育]]传统地位与减轻教师报表负担提供了学理支持。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 240–241)]]
 
@@ -134,7 +133,7 @@ updated: 2026-11-25
 > - **揭示[[Policy Borrowing|政策借用]]制度陷阱** 明确了外来循证模型与本土制度环境的冲突机理：在教师职业认同脆弱的土壤中叠加量化监控，将直接引爆集体转行离职的制度危机。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 240–241)]]
 
 > [!stat-cards]- 核心历史数据
-> - **56.87%** Hattie 纳入的 133 项正向[[Effect Size|效应量]]在数理检验中的总体变差系数，处于极度不均匀区间。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 239)]]
+> - **56.87%** Hattie 纳入的 133 项正向[[Effect Size|效应量]]在数理检验中的总体变差系数，处于极度不均匀区间。
 > - **79%** 俄罗斯总统行政学院（RANEPA 2018）全俄监测中反映报表文书显著增加、工作急剧加重的中学教师比例。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 240)]]
 > - **16% vs. 66%+** 全俄民调（VTsIOM 2018）中认为教师职业[[The Sublime|崇高]]受尊重的公民仅 16%，而[[Teaching and Learning International Survey|TALIS]]-2013 显示新加坡、韩国等亚洲国家超三分之二教师认同自身社会价值。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 239)]]
 > - **>25%** 沃洛格达州打算近期转行离职的教师中，将行政文书与官僚化压力作为首要退职动因的比例。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 240–241)]]
@@ -152,13 +151,13 @@ updated: 2026-11-25
 > > [!axis] 教师角色认同之争（组织调节者 vs. 学科知识权威）
 > > [[John Hattie|哈蒂]]将[[Teacher Subject Matter Knowledge|教师学科知识]]（$d=0.09$）与学历（$d=0.11$）贬低为次要、主张教师转变为学习调节者的观点，与俄罗斯传统教学论体系发生剧烈碰撞。
 > >
-> > - **亲西方新思潮视角** 契合以学生为中心的[[Inquiry-Based Learning|探究学习]]，瓦解传统教师专制，暗合 2016 年降低非师范门槛的开放政策。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 240)]]
+> > - **亲西方新思潮视角** 契合以学生为中心的[[Inquiry-Based Learning|探究学习]]，瓦解传统教师专制，暗合 2016 年降低非师范门槛的开放政策。
 > > - **教学论传统坚守视角** 盲目否定专业学科素养与高校[[Normal School|师范教育]]，是对教师天职认同的致命打击，导致严重的去专业化。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 240)]]
 
 > [!citation-card] Golovchin 论俄语文献批判缺位
 > 出于某种原因，西方批评者的论点在俄语文献中完全未被提及。……这导致俄罗斯教育界在面对外来循证方案时失去了必要的批判性反思与风险预警。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 229)]]
 >
-> *"For some reason, the arguments of critics have not been mentioned in Russian literature ... which [[CREATES Project|CREATES]] a biased positive perception of [[Visible Learning]]."*
+> *"For some reason, the arguments of critics have not been mentioned in Russian literature ... which CREATES a biased positive perception of [[Visible Learning]]."*
 
 ---
 
