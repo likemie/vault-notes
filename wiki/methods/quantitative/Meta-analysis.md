@@ -419,6 +419,7 @@ updated: 2026-11-28
 > - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] — 运用[[Random-Effects Model|随机效应模型]]综合 66 项实验与准[[Experimental Research|实验研究]]（72 个[[Effect Size|效应量]]，$N = 4{,}824$），评估[[Graphic Organizer|图形组织器]]对学生[[Higher-Order Thinking Skills|高阶思维]]的促进效应（$g = 0.778$），并结合 Wald 检验与[[Meta-regression|元回归]]系统考察导图类型、思维层级及学段等调节[[Variable|变量]]。
 > - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] — 采用随机效应模型综合 34 项实验研究（$g = 0.404$），评估 AI [[AI Agent in Education|智能体]]对认知成果的促进效应并检验学段与学科调节效应。
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 综合 341 项实验与准实验研究，运用随机效应模型与混合效应亚组调节检验，确立对话、[[Authentic Instruction|真实性教学]]与[[Mentorship|导师制]]对[[Critical Thinking|批判性思维]]的三维复合干预效应（$g+ = 0.57$）。
+> - [[Argument_Lazonder_2016_RER|Lazonder and Harmsen (2016)]] — 采用转换分析单位法与随机效应逆方差加权综合 72 项探究学习研究，结合 Hochberg 步升校正、组间 $Q_b$ 检验与计划对比分析六类指导的调节效应。
 > - [[Argument_Park_2026_TSC|Park et al. (2026)]] — 采用三水平随机效应元分析模型综合 51 个样本（$N = 12{,}548$），估计[[Creativity|创造力]]与批判性思维的整体相关（$r = 0.386$），并配合元回归检验测量类型等调节变量。
 > - [[Argument_Greene_2018_JEP|Greene et al. (2018)]] — 对 132 项非实验研究中的 752 个效应量执行随机效应元分析，系统考察[[Epistemic Cognition|认识论认知]]与[[Academic Achievement|学业成就]]的关联及调节变量。
 > - [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] — 运用随机效应模型综合 26 项实验评估认识论认知干预对学业成就的效应（$d = 0.509$），并检验[[Framework for Teaching|教学框架]]与学段调节变量。

@@ -191,7 +191,7 @@ updated: 2026-11-15
 > **支架形态等价性与先验知识调节** 探讨理科探究中多样化支架形式的效能机制，以及学习者个体背景对支架需求的边界约束。
 
 > [!claim] Lazonder & Harmsen; [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]
-> **六大指导支架类型的促学等价性** [[Meta-analysis\|元分析]]实证表明，在辅助科学[[Inquiry-Based Learning\|探究学习]]中，过程约束、状态概览、提示、启发线索、结构支架与直接解释等六种指导形式均能稳定提升成效（平均提升 $d = 0.50$），且指导类型之间并未呈现显著的[[Interaction Effect\|调节效应]]差异。这表明脚手架的核心功能在于适时分担[[Working Memory\|工作记忆]]的搜索与维护负荷，促成证据协调，而非必须依赖全盘[[Direct Instruction\|直接讲授]]。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 4)]]
+> **六大指导支架类型的促学等价性与表现分化** [[Meta-analysis\|元分析]]实证表明，在辅助科学[[Inquiry-Based Learning\|探究学习]]中，过程约束、状态概览、提示、启发线索、结构支架与直接解释等六种指导形式均能稳定提升学习活动与学习成果，且指导具体性在学习成果与学习活动上未呈现显著的[[Interaction Effect\|调节效应]]差异；仅在探究过程中的即时任务产品表现上，更具体的指导才展现出更大优势。这说明脚手架的核心功能在于适时分担[[Working Memory\|工作记忆]]的搜索与维护负荷，促成证据协调，有别于必须依赖全盘[[Direct Instruction\|直接讲授]]的单一路径。[[Argument_Lazonder_2016_RER\|(Lazonder & Harmsen, 2016)]]; [[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 4)]]
 
 > [!claim] Gerard & Linn; Eckhardt et al.
 > **先验知识调节与多重支架过载防范** 认知脚手架的有效性受到学习者先验知识的强烈调节：先验基础薄弱的学生在探究中从认知脚手架中获得的学业提升显著高于高先验学生，支架精准弥补了低先验群体的图式缺口。然而，教学设计必须警惕支架过载：同时向学习者施加多重、重叠的外部支架不仅无法带来叠加效应，反而可能因分散注意力与增加无关认知负荷而产生负面抵消。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 7–8)]]

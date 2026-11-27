@@ -93,7 +93,7 @@ related_instruments:
   - "[[Framework for Teaching]]"
 confidence: high
 created: 2026-09-21
-updated: 2026-11-23
+updated: 2026-11-28
 ---
 
 > [!def] Constructivist Instruction
@@ -274,6 +274,7 @@ updated: 2026-11-23
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 评述可见学习[[Meta-meta-analysis|元综合]]对建构主义教学角色的实证审计，量化提炼激活者（$d = 0.60$）与促进者（$d = 0.17$）效应分化，论证建构认知与显性指导的内在统一（pp. 431–434）。
 > - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 编撰德语学界对话专著，从教学论视阈严格区分认知认识论与放任教学模式，以实证激活型教学优势确证教师积极干预与学生建构的内在兼容性（pp. 16–17, 19–20）。
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 从教育哲学与教学论视角系统审视可见学习对[[Radical Constructivism|激进建构主义]]的折衷吸收，揭示文化客体蒸发与教学概念双重瓦解的[[Epistemology|认识论]]机制（pp. 6–8, 11–12）。
+> - [[Argument_Reiss_Bernhard_2014_MathematicsEducation|Reiss and Bernhard (2014)]] — 以数学问题解决为例化解《可见的学习》看似贬抑建构取向学习的表面矛盾，指出深层理解任务下问题本位学习仍具高成效（pp. 95–96）。
 
 ---
 

@@ -1802,5 +1802,15 @@
       "sentence": "which CREATES a biased positive perception of Visible Learning.\"*",
       "target": "wiki/facts/eu/CREATES Project.md"
     }
+  ],
+  "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md": [
+    {
+      "sentence": "step] 论证步骤二 问题解决是数学教学的核心，也是高成绩学生的关键能力",
+      "target": "wiki/concepts/educational-policy-reform/21st Century Skills and Competencies Discourse.md"
+    },
+    {
+      "sentence": "**归类标准宽泛与德译简化** 回溯该因子纳入的一级元分析可见，其涵盖研究主题相当松散，既包含考察语言与图形思维灵活性的研究，也包含探讨问题解决能力与数学等学科基础知识关联的研究，还纳入了针对教师的启发式训练；德文版《可见的学习》甚至将此项因子名称直接译作问题解决（Problemlösen），以迁就其宽泛的覆盖范围。",
+      "target": "wiki/concepts/research-methodology/Research Topic.md"
+    }
   ]
 }
