@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照/03 席勒.md",
+                "file": "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照/04 谢林.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "03 席勒"
+              "title": "04 谢林"
             }
           },
           {
@@ -315,8 +315,12 @@
       "ai-usage-float:显示或隐藏额度浮窗": false
     }
   },
-  "active": "3643ff474ee79da9",
+  "active": "1938c14344215b35",
   "lastOpenFiles": [
+    "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照/03 席勒.md",
+    "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照/04 谢林.md",
+    "output/德国美学传统翻译（全文彭正梅）(1).md",
+    "output/基础领域青年人才与科研资助文献摘要.md",
     "output/related-updates/Argument_Reiss_Bernhard_2014_MathematicsEducation-dfc6cc67/batch-001/result.json",
     "output/related-updates/Argument_Reiss_Bernhard_2014_MathematicsEducation-dfc6cc67/batch-008/prompt.md",
     "output/related-updates/Argument_Reiss_Bernhard_2014_MathematicsEducation-dfc6cc67/batch-012/batch-result.schema.json",
@@ -337,7 +341,6 @@
     "output/related-updates/Argument_Reiss_Bernhard_2014_MathematicsEducation-dfc6cc67/batch-003/prompt.md",
     "output/related-updates/Argument_Reiss_Bernhard_2014_MathematicsEducation-dfc6cc67/batch-003/batch-result.schema.json",
     "output/related-updates/Argument_Reiss_Bernhard_2014_MathematicsEducation-dfc6cc67/batch-004/prompt.md",
-    "output/related-updates/Argument_Reiss_Bernhard_2014_MathematicsEducation-dfc6cc67/batch-004/batch-result.schema.json",
     "output/related-updates/Argument_Reiss_Bernhard_2014_MathematicsEducation-dfc6cc67/batch-002/prompt.md",
     "output/related-updates/Argument_Reiss_Bernhard_2014_MathematicsEducation-dfc6cc67/batch-001/prompt.md",
     "wiki/concepts/instruction-pedagogy/Think-Aloud.md",
@@ -350,9 +353,6 @@
     "books/Terhart_2014_Kallmeyer/Ch07_Reiss_Bernhard_2014.md",
     "wiki/persons/netherlands/Stefan P. L. de Jong.md",
     "qa-app/node_modules/functional-red-black-tree/README.md",
-    "qa-app/node_modules/@js-sdsl/ordered-map/README.zh-CN.md",
-    "qa-app/node_modules/@js-sdsl/ordered-map/README.md",
-    "qa-app/node_modules/@js-sdsl/ordered-map/CHANGELOG.md",
     "qa-app/node_modules/cytoscape-fcose/node_modules/layout-base/layout-schema.png",
     "qa-app/node_modules/cytoscape-fcose/demo/incrementalConstraints.gif",
     "qa-app/node_modules/cytoscape-fcose/demo/demo.gif",

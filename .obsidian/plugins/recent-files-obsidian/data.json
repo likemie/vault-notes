@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "04 谢林",
+      "path": "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照/04 谢林.md"
+    },
+    {
       "basename": "03 席勒",
       "path": "output/美学翻译/Hammermeister_2002_Cambridge_英汉对照/03 席勒.md"
+    },
+    {
+      "basename": "德国美学传统翻译（全文彭正梅）(1)",
+      "path": "output/德国美学传统翻译（全文彭正梅）(1).md"
+    },
+    {
+      "basename": "基础领域青年人才与科研资助文献摘要",
+      "path": "output/基础领域青年人才与科研资助文献摘要.md"
     },
     {
       "basename": "Argument_Kratsios_2026_OSTP",
@@ -109,10 +121,6 @@
       "path": "file:/Users/shaoyangwu/Downloads/# 数智时代的科研范式变革：智体科研的兴起与人文社会科学的未来.md"
     },
     {
-      "basename": "基础领域青年人才与科研资助文献摘要",
-      "path": "output/基础领域青年人才与科研资助文献摘要.md"
-    },
-    {
       "basename": "Combined Weighting AHP-EWM",
       "path": "wiki/methods/quantitative/Combined Weighting AHP-EWM.md"
     },
@@ -165,10 +173,6 @@
       "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md"
     },
     {
-      "basename": "德国美学传统翻译（全文彭正梅）(1)",
-      "path": "output/德国美学传统翻译（全文彭正梅）(1).md"
-    },
-    {
       "basename": "宗白华_西方美学散文_风格",
       "path": "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/宗白华_西方美学散文_风格.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Philosophical Aesthetics",
       "path": "wiki/concepts/educational-philosophy/Philosophical Aesthetics.md"
-    },
-    {
-      "basename": "Cochran's Q Test",
-      "path": "wiki/methods/quantitative/Cochran's Q Test.md"
     }
   ],
   "omittedPaths": [],
