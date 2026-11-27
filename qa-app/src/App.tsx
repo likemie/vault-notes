@@ -50,6 +50,27 @@ interface ChatMessage {
   error?: boolean;
 }
 
+interface ConversationSummary {
+  id: string;
+  title: string;
+  createdAt: string;
+  updatedAt: string;
+  messageCount: number;
+}
+
+interface StoredConversation extends ConversationSummary {
+  messages: ChatMessage[];
+}
+
+interface StorageUsageStats {
+  count: number;
+  maxCount: number;
+  totalBytes: number;
+  maxBytes: number;
+}
+
+const LOCAL_STORAGE_KEY = 'qa_conversations_v1';
+
 const TYPE_OPTIONS = [
   { value: '', label: '全部类型' },
   { value: 'concept', label: '概念 Concept' },
@@ -92,11 +113,61 @@ const OUTPUT_MODE_OPTIONS = [
   { value: 'ppt', label: 'PPT 叙事结构' },
 ];
 
+function createConversationId(): string {
+  return `conv-${Date.now()}-${Math.random().toString(36).slice(2, 7)}`;
+}
+
+function deriveTitle(messages: ChatMessage[]): string {
+  const firstUser = messages.find((m) => m.role === 'user');
+  if (!firstUser) return '新研究对话';
+  const clean = firstUser.text.replace(/\s+/g, ' ').trim();
+  return clean.length > 32 ? `${clean.slice(0, 32)}…` : clean;
+}
+
+function readLocalConversations(): Record<string, StoredConversation> {
+  try {
+    const raw = localStorage.getItem(LOCAL_STORAGE_KEY);
+    if (!raw) return {};
+    const parsed = JSON.parse(raw);
+    return parsed && typeof parsed === 'object' ? parsed : {};
+  } catch {
+    return {};
+  }
+}
+
+function writeLocalConversations(map: Record<string, StoredConversation>) {
+  try {
+    localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(map));
+  } catch {
+    // Ignore storage quota errors
+  }
+}
+
+function formatShortTime(iso: string): string {
+  if (!iso) return '';
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return '';
+  const now = new Date();
+  const sameDay = d.toDateString() === now.toDateString();
+  return sameDay
+    ? d.toLocaleTimeString('zh-CN', { hour: '2-digit', minute: '2-digit' })
+    : d.toLocaleDateString('zh-CN', { month: 'numeric', day: 'numeric' });
+}
+
 export default function App() {
   const [health, setHealth] = useState<HealthInfo | null>(null);
   const [password, setPassword] = useState(() => localStorage.getItem('qa_password') || '');
   const [unlocked, setUnlocked] = useState(false);
   const [authError, setAuthError] = useState('');
+
+  const [sidebarTab, setSidebarTab] = useState<'history' | 'settings'>('history');
+  const [persistenceMode, setPersistenceMode] = useState<'firestore' | 'local' | 'checking'>(
+    'checking',
+  );
+  const [storageUsage, setStorageUsage] = useState<StorageUsageStats | null>(null);
+  const [conversations, setConversations] = useState<ConversationSummary[]>([]);
+  const [activeConvId, setActiveConvId] = useState<string>(() => createConversationId());
+  const [activeCreatedAt, setActiveCreatedAt] = useState<string>(() => new Date().toISOString());
 
   const [typeFilter, setTypeFilter] = useState('');
   const [model, setModel] = useState('gemini-3.8-flash');
@@ -148,6 +219,65 @@ export default function App() {
       });
   }, []);
 
+  // Load saved conversations once unlocked (Firestore primary, localStorage fallback)
+  useEffect(() => {
+    if (!unlocked) return;
+    let cancelled = false;
+
+    async function loadHistory() {
+      const localMap = readLocalConversations();
+      try {
+        const res = await fetch('/api/conversations', { headers: authHeaders() });
+        if (!res.ok) throw new Error('failed to load conversations');
+        const data = (await res.json()) as {
+          mode: 'firestore' | 'local';
+          conversations: ConversationSummary[];
+          usage?: StorageUsageStats;
+        };
+        if (cancelled) return;
+
+        setPersistenceMode(data.mode);
+        if (data.usage) setStorageUsage(data.usage);
+
+        if (data.mode === 'firestore') {
+          setConversations(data.conversations);
+          if (data.conversations.length > 0) {
+            await selectConversation(data.conversations[0].id, 'firestore');
+          }
+          return;
+        }
+      } catch {
+        if (!cancelled) setPersistenceMode('local');
+      }
+
+      const localList = Object.values(localMap)
+        .sort((a, b) => (b.updatedAt || '').localeCompare(a.updatedAt || ''))
+        .map(({ id, title, createdAt, updatedAt, messageCount }) => ({
+          id,
+          title,
+          createdAt,
+          updatedAt,
+          messageCount,
+        }));
+      if (!cancelled) {
+        setConversations(localList);
+        if (localList.length > 0) {
+          const latest = localMap[localList[0].id];
+          if (latest) {
+            setActiveConvId(latest.id);
+            setActiveCreatedAt(latest.createdAt);
+            setMessages(latest.messages);
+          }
+        }
+      }
+    }
+
+    loadHistory();
+    return () => {
+      cancelled = true;
+    };
+  }, [unlocked]);
+
   useEffect(() => {
     messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
   }, [messages, sending]);
@@ -171,6 +301,164 @@ export default function App() {
   async function handleUnlock(e: FormEvent) {
     e.preventDefault();
     await verifyStoredPassword(password);
+  }
+
+  async function persistConversation(
+    convId: string,
+    createdAt: string,
+    nextMessages: ChatMessage[],
+  ) {
+    const cleanMessages = nextMessages.filter((m) => !m.error);
+    if (cleanMessages.length === 0) return;
+
+    const now = new Date().toISOString();
+    const record: StoredConversation = {
+      id: convId,
+      title: deriveTitle(cleanMessages),
+      createdAt,
+      updatedAt: now,
+      messageCount: cleanMessages.length,
+      messages: cleanMessages,
+    };
+
+    // Always write local backup
+    const localMap = readLocalConversations();
+    localMap[convId] = record;
+    writeLocalConversations(localMap);
+
+    // Update sidebar summary list immediately
+    setConversations((prev) => {
+      const rest = prev.filter((c) => c.id !== convId);
+      const summary: ConversationSummary = {
+        id: record.id,
+        title: record.title,
+        createdAt: record.createdAt,
+        updatedAt: record.updatedAt,
+        messageCount: record.messageCount,
+      };
+      return [summary, ...rest];
+    });
+
+    // Persist to Firestore when enabled
+    try {
+      const res = await fetch(`/api/conversations/${encodeURIComponent(convId)}`, {
+        method: 'PUT',
+        headers: {
+          'Content-Type': 'application/json',
+          ...authHeaders(),
+        },
+        body: JSON.stringify(record),
+      });
+      if (res.ok) {
+        const data = await res.json();
+        if (data.mode === 'firestore') setPersistenceMode('firestore');
+        if (data.usage) setStorageUsage(data.usage);
+      }
+    } catch {
+      // Keep local backup silently
+    }
+  }
+
+  async function selectConversation(convId: string, modeOverride?: 'firestore' | 'local') {
+    const mode = modeOverride ?? persistenceMode;
+    if (mode === 'firestore') {
+      try {
+        const res = await fetch(`/api/conversations/${encodeURIComponent(convId)}`, {
+          headers: authHeaders(),
+        });
+        if (res.ok) {
+          const conv = (await res.json()) as StoredConversation;
+          setActiveConvId(conv.id);
+          setActiveCreatedAt(conv.createdAt || new Date().toISOString());
+          setMessages(conv.messages || []);
+          setSidebarOpen(false);
+          return;
+        }
+      } catch {
+        // Fall through to localStorage
+      }
+    }
+
+    const localMap = readLocalConversations();
+    const found = localMap[convId];
+    if (found) {
+      setActiveConvId(found.id);
+      setActiveCreatedAt(found.createdAt);
+      setMessages(found.messages);
+      setSidebarOpen(false);
+    }
+  }
+
+  function startNewConversation() {
+    setActiveConvId(createConversationId());
+    setActiveCreatedAt(new Date().toISOString());
+    setMessages([]);
+    setSidebarOpen(false);
+  }
+
+  async function removeConversation(convId: string) {
+    const localMap = readLocalConversations();
+    delete localMap[convId];
+    writeLocalConversations(localMap);
+
+    setConversations((prev) => prev.filter((c) => c.id !== convId));
+    if (convId === activeConvId) {
+      startNewConversation();
+    }
+
+    try {
+      await fetch(`/api/conversations/${encodeURIComponent(convId)}`, {
+        method: 'DELETE',
+        headers: authHeaders(),
+      });
+    } catch {
+      // Ignore remote delete error
+    }
+  }
+
+  function exportMarkdown() {
+    if (messages.length === 0) return;
+    const title = deriveTitle(messages);
+    const lines: string[] = [
+      `# ${title}`,
+      '',
+      `> 导出时间：${new Date().toLocaleString('zh-CN')}`,
+      '',
+    ];
+
+    for (const msg of messages) {
+      if (msg.error) continue;
+      if (msg.role === 'user') {
+        lines.push(`## 研究提问`, '', msg.text, '');
+      } else {
+        lines.push(`## 知识库回答`, '', msg.text, '');
+        if (msg.webSupplement) {
+          lines.push(`### 外部联网补充（非知识库来源）`, '', msg.webSupplement, '');
+          if (msg.webSources && msg.webSources.length > 0) {
+            lines.push(
+              ...msg.webSources.map((w) => `- [${w.title}](${w.uri})`),
+              '',
+            );
+          }
+        }
+        if (msg.citations && msg.citations.length > 0) {
+          lines.push(`### 检索命中条目`);
+          for (const c of msg.citations) {
+            lines.push(`- **${c.title}**${c.entryPath ? ` (\`${c.entryPath}\`)` : ''}`);
+          }
+          lines.push('');
+        }
+        lines.push('---', '');
+      }
+    }
+
+    const blob = new Blob([lines.join('\n')], { type: 'text/markdown;charset=utf-8' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `${title.replace(/[\\/:*?"<>|]/g, '_')}.md`;
+    a.click();
+    URL.revokeObjectURL(url);
   }
 
   useEffect(() => {
@@ -223,12 +511,16 @@ export default function App() {
       }
     }
     setIndexQuery(target);
+    setSidebarTab('settings');
     setSidebarOpen(true);
   }
 
   async function sendQuestion(questionText: string) {
     const trimmed = questionText.trim();
     if (!trimmed || sending) return;
+
+    const convId = activeConvId;
+    const createdAt = activeCreatedAt;
 
     const userMsg: ChatMessage = {
       id: `${Date.now()}-u`,
@@ -239,7 +531,8 @@ export default function App() {
       .filter((m) => !m.error)
       .map((m) => ({ role: m.role, text: m.text }));
 
-    setMessages((prev) => [...prev, userMsg]);
+    const afterUser = [...messages, userMsg];
+    setMessages(afterUser);
     setInput('');
     setSending(true);
 
@@ -278,7 +571,9 @@ export default function App() {
         webSources: data.webSources,
         webSearchQueries: data.webSearchQueries,
       };
-      setMessages((prev) => [...prev, modelMsg]);
+      const finalMessages = [...afterUser, modelMsg];
+      setMessages(finalMessages);
+      await persistConversation(convId, createdAt, finalMessages);
     } catch (err) {
       setMessages((prev) => [
         ...prev,
@@ -340,7 +635,24 @@ export default function App() {
             <div className="status-badges">
               <span className={`badge ${health.storeConfigured ? 'ok' : 'warn'}`}>
                 <span className="dot" />
-                {health.storeConfigured ? 'File Search 已连接' : '本地预览 / 未绑 Store'}
+                {health.storeConfigured ? 'File Search 已连接' : '未绑 Store'}
+              </span>
+              <span
+                className={`badge ${persistenceMode === 'firestore' ? 'ok' : 'warn'}`}
+                title={
+                  persistenceMode === 'firestore'
+                    ? '对话已保存至 Google Cloud Firestore（跨设备同步，总容量自动限制在 900 MB 以内）'
+                    : '当前保存于浏览器本地存储（开启 Firestore 后自动跨设备同步）'
+                }
+              >
+                <span className="dot" />
+                {persistenceMode === 'firestore'
+                  ? storageUsage
+                    ? `云端同步 · ${(storageUsage.totalBytes / (1024 * 1024)).toFixed(1)}/${Math.round(storageUsage.maxBytes / (1024 * 1024))} MB`
+                    : '云端同步'
+                  : persistenceMode === 'checking'
+                    ? '检查存储…'
+                    : '本地存储'}
               </span>
               {!health.apiKeyConfigured && (
                 <span className="badge err">未配置 GEMINI_API_KEY</span>
@@ -349,87 +661,156 @@ export default function App() {
           )}
         </div>
 
-        <div className="controls-grid">
-          <div className="panel-section">
-            <label className="field-label">推理模型</label>
-            <select value={model} onChange={(e) => setModel(e.target.value)}>
-              {MODEL_OPTIONS.map((opt) => (
-                <option key={opt.value} value={opt.value}>
-                  {opt.label}
-                </option>
-              ))}
-            </select>
-          </div>
-
-          <div className="panel-section">
-            <label className="field-label">回答组织模式（Vault Use）</label>
-            <select value={outputMode} onChange={(e) => setOutputMode(e.target.value)}>
-              {OUTPUT_MODE_OPTIONS.map((opt) => (
-                <option key={opt.value} value={opt.value}>
-                  {opt.label}
-                </option>
-              ))}
-            </select>
-          </div>
-
-          <div className="panel-section">
-            <label className="field-label">限定条目类型</label>
-            <select value={typeFilter} onChange={(e) => setTypeFilter(e.target.value)}>
-              {TYPE_OPTIONS.map((opt) => (
-                <option key={opt.value} value={opt.value}>
-                  {opt.label}
-                  {opt.value && health?.typeCounts[opt.value]
-                    ? ` (${health.typeCounts[opt.value]})`
-                    : ''}
-                </option>
-              ))}
-            </select>
-          </div>
+        <div className="sidebar-tabs">
+          <button
+            type="button"
+            className={`tab-btn ${sidebarTab === 'history' ? 'active' : ''}`}
+            onClick={() => setSidebarTab('history')}
+          >
+            历史对话 ({conversations.length})
+          </button>
+          <button
+            type="button"
+            className={`tab-btn ${sidebarTab === 'settings' ? 'active' : ''}`}
+            onClick={() => setSidebarTab('settings')}
+          >
+            索引与设置
+          </button>
         </div>
 
-        <div className="panel-section index-box">
-          <div className="field-header">
-            <label className="field-label">直查 wiki/index.json</label>
-            {indexResults.length > 0 && (
-              <span className="count-pill">{indexResults.length} 项</span>
-            )}
-          </div>
-          <input
-            type="search"
-            placeholder="搜中英文术语、别名或人名…"
-            value={indexQuery}
-            onChange={(e) => setIndexQuery(e.target.value)}
-          />
-          <div className="index-list">
-            {indexLoading && <div className="muted">正在检索索引…</div>}
-            {!indexLoading && !indexQuery.trim() && !typeFilter && (
-              <div className="muted tip-box">
-                输入中文术语（如“再情境化”）、英文缩写或学者姓名，可实时定位条目并预览详情。
-              </div>
-            )}
-            {!indexLoading && indexResults.length === 0 && (indexQuery.trim() || typeFilter) && (
-              <div className="muted">未找到匹配标题或别名</div>
-            )}
-            {indexResults.map((item) => (
-              <div key={item.path} className="index-item">
-                <div className="index-item-head">
-                  <span className={`type-pill type-${item.type}`}>{item.type}</span>
-                  <button
-                    type="button"
-                    className="link-btn"
-                    onClick={() => openEntryPreview(item.path)}
-                    title={item.path}
-                  >
-                    {item.title}
-                  </button>
+        {sidebarTab === 'history' ? (
+          <div className="history-pane">
+            <button
+              type="button"
+              className="new-chat-btn"
+              onClick={startNewConversation}
+              disabled={sending}
+            >
+              + 新建研究对话
+            </button>
+
+            <div className="history-list">
+              {conversations.length === 0 ? (
+                <div className="muted tip-box">
+                  暂无历史对话。提问后会自动保存到这里，方便随时回看或跨设备继续研究。
                 </div>
-                {item.aliases.length > 0 && (
-                  <div className="alias-line">{item.aliases.slice(0, 3).join(' · ')}</div>
+              ) : (
+                conversations.map((conv) => (
+                  <div
+                    key={conv.id}
+                    className={`history-item ${conv.id === activeConvId ? 'active' : ''}`}
+                  >
+                    <button
+                      type="button"
+                      className="history-select"
+                      onClick={() => selectConversation(conv.id)}
+                    >
+                      <div className="history-title">{conv.title}</div>
+                      <div className="history-meta">
+                        <span>{conv.messageCount} 条消息</span>
+                        <span>{formatShortTime(conv.updatedAt)}</span>
+                      </div>
+                    </button>
+                    <button
+                      type="button"
+                      className="history-del"
+                      title="删除这条对话"
+                      onClick={() => removeConversation(conv.id)}
+                    >
+                      ×
+                    </button>
+                  </div>
+                ))
+              )}
+            </div>
+          </div>
+        ) : (
+          <>
+            <div className="controls-grid">
+              <div className="panel-section">
+                <label className="field-label">推理模型</label>
+                <select value={model} onChange={(e) => setModel(e.target.value)}>
+                  {MODEL_OPTIONS.map((opt) => (
+                    <option key={opt.value} value={opt.value}>
+                      {opt.label}
+                    </option>
+                  ))}
+                </select>
+              </div>
+
+              <div className="panel-section">
+                <label className="field-label">回答组织模式（Vault Use）</label>
+                <select value={outputMode} onChange={(e) => setOutputMode(e.target.value)}>
+                  {OUTPUT_MODE_OPTIONS.map((opt) => (
+                    <option key={opt.value} value={opt.value}>
+                      {opt.label}
+                    </option>
+                  ))}
+                </select>
+              </div>
+
+              <div className="panel-section">
+                <label className="field-label">限定条目类型</label>
+                <select value={typeFilter} onChange={(e) => setTypeFilter(e.target.value)}>
+                  {TYPE_OPTIONS.map((opt) => (
+                    <option key={opt.value} value={opt.value}>
+                      {opt.label}
+                      {opt.value && health?.typeCounts[opt.value]
+                        ? ` (${health.typeCounts[opt.value]})`
+                        : ''}
+                    </option>
+                  ))}
+                </select>
+              </div>
+            </div>
+
+            <div className="panel-section index-box">
+              <div className="field-header">
+                <label className="field-label">直查 wiki/index.json</label>
+                {indexResults.length > 0 && (
+                  <span className="count-pill">{indexResults.length} 项</span>
                 )}
               </div>
-            ))}
-          </div>
-        </div>
+              <input
+                type="search"
+                placeholder="搜中英文术语、别名或人名…"
+                value={indexQuery}
+                onChange={(e) => setIndexQuery(e.target.value)}
+              />
+              <div className="index-list">
+                {indexLoading && <div className="muted">正在检索索引…</div>}
+                {!indexLoading && !indexQuery.trim() && !typeFilter && (
+                  <div className="muted tip-box">
+                    输入中文术语（如“再情境化”）、英文缩写或学者姓名，可实时定位条目并预览详情。
+                  </div>
+                )}
+                {!indexLoading &&
+                  indexResults.length === 0 &&
+                  (indexQuery.trim() || typeFilter) && (
+                    <div className="muted">未找到匹配标题或别名</div>
+                  )}
+                {indexResults.map((item) => (
+                  <div key={item.path} className="index-item">
+                    <div className="index-item-head">
+                      <span className={`type-pill type-${item.type}`}>{item.type}</span>
+                      <button
+                        type="button"
+                        className="link-btn"
+                        onClick={() => openEntryPreview(item.path)}
+                        title={item.path}
+                      >
+                        {item.title}
+                      </button>
+                    </div>
+                    {item.aliases.length > 0 && (
+                      <div className="alias-line">{item.aliases.slice(0, 3).join(' · ')}</div>
+                    )}
+                  </div>
+                ))}
+              </div>
+            </div>
+          </>
+        )}
       </aside>
 
       <main className="main">
@@ -439,9 +820,9 @@ export default function App() {
               type="button"
               className="menu-btn"
               onClick={() => setSidebarOpen(true)}
-              aria-label="打开索引侧栏"
+              aria-label="打开历史与设置侧栏"
             >
-              ☰ 索引与设置
+              ☰ 对话与设置
             </button>
             <div className="topbar-chips">
               <span className="topbar-chip">模式：{currentModeLabel}</span>
@@ -461,14 +842,19 @@ export default function App() {
               </a>
             )}
             {messages.length > 0 && (
-              <button
-                type="button"
-                className="ghost-btn"
-                onClick={() => setMessages([])}
-                disabled={sending}
-              >
-                清空对话
-              </button>
+              <>
+                <button type="button" className="ghost-btn" onClick={exportMarkdown}>
+                  导出 Markdown
+                </button>
+                <button
+                  type="button"
+                  className="ghost-btn"
+                  onClick={startNewConversation}
+                  disabled={sending}
+                >
+                  + 新对话
+                </button>
+              </>
             )}
           </div>
         </header>
@@ -481,7 +867,7 @@ export default function App() {
               <p>
                 系统默认严格限定在你的 <strong>{health?.indexCount.toLocaleString() ?? '5,600+'}</strong>{' '}
                 条知识条目内检索作答，自动调用 <code>wiki/index.json</code> 解析双语术语，并遵循《Vault
-                Use》的论证综合与 APA 引用规范。如需补充外部最新动态，可在下方开启“允许联网补充”。
+                Use》的段落论证与 APA 引用规范。对话记录自动保存，可随时回看或导出为 Markdown。
               </p>
               <div className="starters">
                 {STARTER_PROMPTS.map((q) => (

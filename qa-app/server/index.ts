@@ -3,6 +3,12 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import dotenv from 'dotenv';
 import express, { type NextFunction, type Request, type Response } from 'express';
+import {
+  deleteRemoteConversation,
+  getRemoteConversation,
+  listRemoteConversations,
+  saveRemoteConversation,
+} from './conversations.js';
 import { answerWithKnowledgeBase } from './rag.js';
 import {
   buildQuartzUrl,
@@ -180,6 +186,54 @@ app.post('/api/chat', requirePassword, async (req, res) => {
     console.error('[api/chat] error:', err);
     const msg = err instanceof Error ? err.message : '生成回答时发生未知错误';
     res.status(500).json({ error: msg });
+  }
+});
+
+app.get('/api/conversations', requirePassword, async (_req, res) => {
+  const result = await listRemoteConversations();
+  res.json(result);
+});
+
+app.get('/api/conversations/:id', requirePassword, async (req, res) => {
+  try {
+    const conv = await getRemoteConversation(String(req.params.id));
+    if (!conv) {
+      res.status(404).json({ error: '未找到该对话记录' });
+      return;
+    }
+    res.json(conv);
+  } catch (err) {
+    res.status(400).json({ error: err instanceof Error ? err.message : '读取对话失败' });
+  }
+});
+
+app.put('/api/conversations/:id', requirePassword, async (req, res) => {
+  try {
+    const id = String(req.params.id);
+    const messages = Array.isArray(req.body?.messages) ? req.body.messages : [];
+    const title = String(req.body?.title ?? '新研究对话');
+    const createdAt = typeof req.body?.createdAt === 'string' ? req.body.createdAt : undefined;
+    const updatedAt = typeof req.body?.updatedAt === 'string' ? req.body.updatedAt : undefined;
+
+    const result = await saveRemoteConversation({
+      id,
+      title,
+      createdAt,
+      updatedAt,
+      messages,
+    });
+    res.json(result);
+  } catch (err) {
+    res.status(400).json({ error: err instanceof Error ? err.message : '保存对话失败' });
+  }
+});
+
+app.delete('/api/conversations/:id', requirePassword, async (req, res) => {
+  try {
+    const result = await deleteRemoteConversation(String(req.params.id));
+    res.json(result);
+  } catch (err) {
+    res.status(400).json({ error: err instanceof Error ? err.message : '删除对话失败' });
   }
 });
 
