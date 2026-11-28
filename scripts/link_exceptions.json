@@ -1853,6 +1853,28 @@
     {
       "sentence": "学习者在探究过程中实际执行的技能操作，涵盖规划流程、生成假设、设计实验与反思结果；成果焦点限于探究技能或调节技能。",
       "target": "wiki/methods/mixed/Design-Based Research.md"
+    },
+    {
+      "sentence": "*Finally, teachers do not have to take the age of their students into account in selecting a particular type of guidance.",
+      "target": "wiki/methods/qualitative/Accounts.md"
+    }
+  ],
+  "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md": [
+    {
+      "sentence": "**直面隐含历史观与实证悲观现状** 博多·冯·博里斯（Bodo von Borries; von Borries, 1995, 1999）的代表性大型调查以及方法上虽可商榷但基调一致的后续研究（Schroeder, 2012）显示，迄今尚无研究可靠证明学校历史课的长期教学成效，令学界回到历史课所获甚微的现实困境。",
+      "target": "wiki/concepts/science-policy/Cumulative Innovation.md"
+    },
+    {
+      "sentence": "面对哈蒂刻意悬置学科内容引发的“实质内容何在”（Where is the beef?",
+      "target": "wiki/concepts/educational-philosophy/Epoché.md"
+    },
+    {
+      "sentence": "Für die geschichtsdidaktische Forschung und die unterrichtliche Praxis stellt Hattie eine positive Provokation dar, die dazu anregt, für selbstverständlich gehaltene Tatsachen zu reflektieren.*",
+      "target": "wiki/concepts/educational-philosophy/Praxis.md"
+    },
+    {
+      "sentence": "**聚焦因子比较，淡化微观设计差异** 作为对 800 余项元分析的综合，其核心旨趣在于横向比较各类学校与教学影响因子的相对效力，难以刻画单一教学设计特征的细致形态。",
+      "target": "wiki/methods/quantitative/Journal Impact Factor.md"
     }
   ]
 }
