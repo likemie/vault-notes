@@ -413,6 +413,7 @@ updated: 2026-11-28
 > - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 审查[[John Hattie|哈蒂]]《[[Visible Learning|可见的学习]]》所纳 800 余项元分析的年代构成与质控门槛，指出底层数据年代跨代滞后及缺乏准入质控导致证据库异质性失控的方法学缺陷（pp. 13–14）。
 > - [[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]] — 检视 Hattie (2009) 中学校结构变量的元分析证据库，指出其几乎全采自实行[[Gesamtschule|综合中学]]体制的英语国家、缺乏早期分轨数据，论证跨体制外推元分析结论的制度边界（pp. 67–69）。
 > - [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014)]] — 审读《可见的学习》中[[Cooperative Learning|合作学习]]与小组学习元分析数据（如 4 项元分析对比个人学习 $d = 0.59$），指出单一成就测度盲区与因子非加性交互（[[Effective Factor Bundle|强效因子束]]）对元分析效应解读的制约（pp. 78–79, 82–84）。
+> - [[Argument_Reiss_Bernhard_2014_MathematicsEducation|Reiss and Bernhard (2014)]] — 批判单纯依赖文献关键词聚合的元分析盲区，对照 Seidel and Shavelson (2007) 论证理论模型驱动合成的解释优势（pp. 97–98）。
 > - [[Argument_Knogler_2025_BB|Knogler et al. (2025)]] — 评析数字化数理教学元分析（$k = 92$），展示清算中心如何依据高信度元分析提炼决策参数并构建面向教师教育的循证中介转化范式。
 > - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 运用随机效应模型综合 29 项实验（$g = 0.609$），评估[[Generative Artificial Intelligence|生成式人工智能]]对[[Higher-Order Thinking Skills|高阶思维]]的促进效应并检验干预时长与学段调节效应。
 > - [[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] — 开展生成式人工智能[[Collaborative Learning|协作学习]]元分析（57 项实验），控制前测基线等效性评估综合效应并以剪补法校正发表偏倚。

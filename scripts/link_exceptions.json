@@ -1811,6 +1811,36 @@
     {
       "sentence": "**归类标准宽泛与德译简化** 回溯该因子纳入的一级元分析可见，其涵盖研究主题相当松散，既包含考察语言与图形思维灵活性的研究，也包含探讨问题解决能力与数学等学科基础知识关联的研究，还纳入了针对教师的启发式训练；德文版《可见的学习》甚至将此项因子名称直接译作问题解决（Problemlösen），以迁就其宽泛的覆盖范围。",
       "target": "wiki/concepts/research-methodology/Research Topic.md"
+    },
+    {
+      "sentence": "区分事实性表层知识获取与理解导向的深层知识建构，解释问题本位学习效应量在不同结果变量上的分化。",
+      "target": "wiki/theories/learning-science-cognitive-science/Knowledge Building Theory.md"
+    },
+    {
+      "sentence": "因此，德国数学教学论在借鉴哈蒂研究、希尔伯特·迈尔（Hilbert Meyer, 2004）的好课特征总结以及 PISA 2012 课堂发现（Schiepe-Tiska et al., 2013）时，需着重考察多因素在真实课堂中的协同交互作用（Oser & Baeriswyl, 2001, pp.",
+      "target": "wiki/persons/germany/Georg Friedrich Meier.md"
+    }
+  ],
+  "wiki/arguments/journal-articles/Review of Educational Research/Argument_Lazonder_2016_RER.md": [
+    {
+      "sentence": "附加教学措施的模拟优于无指导模拟；三类有效措施为探究中提供领域信息、提供结构化任务作业、通过模型递进约束任务复杂度。",
+      "target": "wiki/concepts/instruction-pedagogy/Homework.md"
+    },
+    {
+      "sentence": "**异名同指与同名异指引发无谓争论** 部分研究使用无法传达指导实质的名称，如系统科学教学（Samarapungavan et al., 2008）、信息小贴士（Hulshof & De Jong, 2006）与机制线索（Kaplan & Black, 2003）。",
+      "target": "wiki/concepts/educational-policy-reform/Research Utilization.md"
+    },
+    {
+      "sentence": "(2003) 区分解释性／实验性／反思性支持，以及 Quintana et al.",
+      "target": "wiki/concepts/research-methodology/Reflexivity.md"
+    },
+    {
+      "sentence": "这些分类虽被广泛引用，却无法直接检验低龄低经验学习者是否需要更显性指导的发展假设，因此采用 T.",
+      "target": "wiki/concepts/educational-philosophy/Experiential Learning.md"
+    },
+    {
+      "sentence": "result-reading]- 表现成功度结果解读与组内同质性",
+      "target": "wiki/concepts/science-policy/Homophily.md"
     }
   ]
 }

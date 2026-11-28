@@ -435,6 +435,7 @@ updated: 2026-11-28
 > - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann, 2014]] — 德语区本土教学与方法论审读：批判二阶元分析抹杀教学干预内部方差离散度、文献历史断代滞后（如计算机辅助教学过半文献早于 2000 年）与微观实施保真度缺失，揭示哈蒂指标内部对开放教学（$d=0.01$）与非指导性教学（$d=0.54$）评价的自相矛盾，破除将统计均值硬化为课堂禁令的错误做法（pp. 38–50）。
 > - [[Argument_Rolff_2014_SchoolStructure|Rolff, 2014]] — 德语区学校发展研究审读：指出哈蒂九项结构因素与能力分流数据几乎全采自综合制英语国家，缺乏九年级前早期分轨样本；在学校内部层面对班级规模存在 15–25 人区间盲区，且孤立变量视角忽略要素协同与学校系统属性，导致其数据在德国被当作“罗夏测验”滥用（pp. 67–77）。
 > - [[Argument_Kremers_2014_CooperativeLearning|Kremers, 2014]] — 德语区[[Cooperative Learning|合作学习]]教学论审读：澄清德国教师室借《可见的学习》贬抑[[Cooperative Learning|合作学习]]的误读，指出哈蒂侧重认知学业成绩导致的社交与沟通能力测度盲区及孤立因子效应量不可简单累加，并借助十二项高成效[[Effective Factor Bundle|因子束]]揭示合作课堂与激活型讲授并行的协同机制（pp. 78–88）。
+> - [[Argument_Reiss_Bernhard_2014_MathematicsEducation|Reiss & Bernhard, 2014]] — 德语区数学教学论审读：以问题解决为例剖析 `problem-solving teaching`（$d = 0.61$）与 `problem-based learning`（$d = 0.15$）排名悬殊背后的关键词宽泛归类与算术平均抵消机制，指出英语国家师培样本排名难以直接外推至德国（pp. 89–98）。
 > - [[Argument_Allerup_2015_Paideia|Allerup, 2015]] — 效应量排名[[Sample Size Determination|样本量]]依赖、[[Confidence Interval|置信区间]]缺失与[[Socioeconomic Status|社会经济背景]]控制批评。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al., 2016]] — 推导两级固定效应代数等价性定理与六步规程，以 Eisenstaedt（10倍虚增）、Haas（权重削减53%）及 Olson & Wisher（93%重叠致排名雪崩）实证解构超级元分析可行性。
 > - [[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017]] — 统计学视角审查：CLES 负概率初等计算错误、基线反转致效应量解释颠覆、受控数值模拟证实三类有效公式排名彻底相反、相关向均值差换算极值爆炸（$r=0.196 \to d=0.40$ 仅解释 3.85% 方差）及伪科学定性。

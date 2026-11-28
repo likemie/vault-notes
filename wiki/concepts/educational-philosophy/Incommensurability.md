@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-11-14
+updated: 2026-11-28
 ---
 
 ---
@@ -240,4 +240,5 @@ updated: 2026-11-14
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 在量化、质性与混合方法的三元框架中阐释哲学世界观的不可通约性与[[Pragmatic Paradigm|实用主义]]调和策略。
 > - [[Argument_Brady_2023_EPR|Brady et al. (2023)]] — 通过历时文献计量揭示教育研究在走出绝对实证垄断后质性与多范式并存的发展态势。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 针对教育二阶综合全库审计，实证揭示忽视组间实验、组内前[[Pre-test and Post-test|后测]]与相关研究参数不可通约性（27% 混杂）所导致的因果解释力塌陷。
+> - [[Argument_Lazonder_2016_RER|Lazonder and Harmsen (2016)]] — 援引 Kapur and Rummel (2012) 区分表现与学习的不对等，元分析证实高具体性指导能即时抬升探究表现却未必转化为更高的长期学习成果。
 

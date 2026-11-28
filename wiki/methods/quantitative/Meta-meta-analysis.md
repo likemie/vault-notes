@@ -599,6 +599,7 @@ updated: 2026-11-28
 > - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 结合德语区教学实证研究评估二阶元分析核心发现，论证学校宏观结构变量效应微弱而深层教学变量具有实质促学成效（pp. 24–37）。
 > - [[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]] — 核查 Hattie (2009) 二阶元分析中九项学校结构因素的效应量（$d = 0.01\text{–}0.28$），指出英语国家综合制样本无法直接检验德国早期[[Tracking|分轨制]]，须结合 [[PISA]] 与 [[PIRLS]] 等本土及跨国调查研判（pp. 67–72）。
 > - [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014)]] — 审读 Hattie (2013) 二阶元分析中[[Cooperative Learning|合作学习]]的显性效应量（$d = 0.41\text{–}0.59$），并借助[[Effective Factor Bundle|因子束]]视角剖析其与十二项高成效教学因子的协同机制（pp. 78–88）。
+> - [[Argument_Reiss_Bernhard_2014_MathematicsEducation|Reiss and Bernhard (2014)]] — 以数学问题解决剖析二阶元分析在关键词宽泛归类、算术平均抵消及英语国家样本外推上的方法局限（pp. 93–98）。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 对二阶元分析开展方法学与统计计算审计，揭露伪标准误与 SE/SD 混淆等数学违规，提出构建中央标准化数据库的一级直接综合替代方案（pp. 29–36）。
 > - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 运用多水平稳健二阶元分析（SOMA）综合关于创造力与[[Divergent Thinking|发散思维]]的元分析，采用 CHE 模型与 RVE 控制效应量依赖性（pp. 2–5）。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 审计二阶元分析中跨研究设计聚合的数理有效性，实证检验组间与组内设计混杂带来的系统性参数扭曲。

@@ -331,3 +331,4 @@ updated: 2026-11-28
 > - [[Argument_Brugelmann_2014_LocalPractice|Brügelmann (2014)]] — 揭示干预内部高方差离散度远超干预间均值差异，指出哈蒂对开放教学（$d = 0.01$）与非指导性教学（$d = 0.54$）的数据评价自相矛盾（pp. 42, 44–45）。
 > - [[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]] — 剖析孤立变量效应量（如能力分流 $d = 0.11$、班级规模 $d = 0.21$）在制度语境、教育公平后果、学段阈值与学校系统协同效应上的解释盲区（pp. 68–76）。
 > - [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014)]] — 解析[[Cooperative Learning|合作学习]]效应量（$d = 0.41\text{–}0.59$）在成就测度窄化下的解释局限，并论证单一因子效应量不可简单算术相加，须置于非加性“强效因子束”交互机制中理解（pp. 78–79, 82–84）。
+> - [[Argument_Reiss_Bernhard_2014_MathematicsEducation|Reiss and Bernhard (2014)]] — 剖析算术平均汇总正负效应量如何掩盖问题本位学习在深层理解与浅层概念上的结果分化（pp. 90, 95–96）。
