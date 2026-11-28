@@ -1841,6 +1841,14 @@
     {
       "sentence": "result-reading]- 表现成功度结果解读与组内同质性",
       "target": "wiki/concepts/science-policy/Homophily.md"
+    },
+    {
+      "sentence": "**高表现目标场景：采用高具体性解释以最大化产出质量** 教学目标若要求学生产出高质量探究成果（例如面向家长的科学项目展示，或提交全国科学竞赛的学生作品），则宜采用高具体性指导；效应量模式提示，对尚未掌握的探究技能作完整解释，在提升即时任务产出质量上最具优势。",
+      "target": "wiki/concepts/curriculum/Science Programs.md"
+    },
+    {
+      "sentence": "In absence of any consistent age-related differences, teachers can base their choice of guidance on other factors such as the learners’ topical knowledge or familiarity with the inquiry skills, and the teacher–student ratio.*",
+      "target": "wiki/concepts/chinese-philosophy/Familiarization.md"
     }
   ]
 }

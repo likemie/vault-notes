@@ -575,6 +575,11 @@ updated: 2026-11-28
 > - **表层技能捕获偏向** 纸笔测试与标准化常模测验最容易测度孤立的知识点和操作技能，导致高居榜首的教学干预往往是能够在标准化测验中迅速提升分数的应试技能。
 > - **深层认知进阶被掩盖** 缺乏深层结构化理解（Deep Understanding）的评估设计，无法引导教师关注概念重构与[[Creative Problem Solving|创造性问题解决]]，导致学校改进方向产生系统性矮化。
 
+> [!critique-method] 学科教学论视角下的学科性缺席与数据采集滞后（[[Argument_Demantowsky_Waldis_2014_HistoryEducation|Demantowsky & Waldis, 2014, pp. 103–108]]）
+> - **实质学科质量特征在教学领域缺席** 将教学领域中效应量 $d \ge 0.40$ 的因子按潜在学科性重新归类后可见，内容连贯性、内容与学习目标的关联度、学科认知要求深度（如概念知识或复杂联系的建构）以及典范性等典型学科质量特征均未出现；仅在教师领域的 `teaching quality` 项下零星触及内容维度。
+> - **学段、学科与多变量控制缺失** 效应量未按学段（从学前到高等教育与成人教育）或学科加以区分，也难以核实底层元分析是否控制了学生个体背景、班级构成与制度条件，削弱了结论向具体学科课堂（如小学历史思维启蒙与文理中学批判反思之别）外推的解释力。
+> - **学科史主导权与数据时效滞后** 底层 50,000 项原始研究大多完成于 1985 至 2000 年间，正值英美教师效能研究由教育心理学主导、各门学科教学论（*Fachdidaktiken*）及其课堂实证研究尚未兴起的时期；加之英语国家样本占优，亚洲与欧洲高绩效教育体系代表性不足，跨文化移植面临显著局限。
+
 #### 机械职业清单比附与技术乐观主义对育人复杂性的矮化
 
 > [!row-contrast] 机械技术职业与学校育人实践的本质差异（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 29]]）
@@ -939,6 +944,7 @@ updated: 2026-11-28
 > - [[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]] — 指出哈蒂的学校结构低效应结论源自综合制英语国家，无法外推至德国多轨制，结合 PISA、IGLU 与 STAR 批评其忽视机会均等与学校系统属性。
 > - [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014)]] — 德语区[[Cooperative Learning|合作学习]]教学论审读：揭示孤立因子排名被误读为传统讲授复辟与社交测度盲区，提出高成效[[Effective Factor Bundle|强效因子束]]协同解释框架。
 > - [[Argument_Reiss_Bernhard_2014_MathematicsEducation|Reiss and Bernhard (2014)]] — 数学教育审读：拆解“问题解决教学（$d=0.61$）”与“[[Problem-Based Learning|基于问题的学习]]（$d=0.15$）”排名反差背后的关键词聚合与算术平均掩盖机制（pp. 89–98）。
+> - [[Argument_Demantowsky_Waldis_2014_HistoryEducation|Demantowsky and Waldis (2014)]] — [[History Didactics|历史教学论]]审读：指出教学领域高效因子缺失实质学科特征，归因于教育心理学主导与 1985–2000 年数据滞后，并剖析学段、学科及文化外推局限（pp. 103–108）。
 > - [[Argument_Allerup_2015_Paideia|Allerup (2015)]] — 统计学方法批判，推导 0.40 阈值与[[Sample Size Determination|样本量]]的统计依存性，揭示[[Confidence Interval|置信区间]]缺失及 [[TIMSS]] [[Variable|变量]]控制后边际效应崩溃。
 > - [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] — 支持者的概念反思，指出常模测验的表层技能偏向与[[Dependent Variable|因变量]][[Operationalization|操作化]]失焦。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 计量统计学 6 步严密审计，证实[[Fixed-Effect Model|固定效应]]假设违背、简单平均偏差与 93% 样本重叠，判定二阶元分析在科学上不可行。

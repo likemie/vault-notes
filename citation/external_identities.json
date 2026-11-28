@@ -5227,6 +5227,14 @@
       ],
       "title": ""
     },
+    "Arie Wilschut, 2009": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md"
+      ],
+      "title": ""
+    },
     "Arieli, 2007": {
       "datasets": [
         "eef:arts-participation"
@@ -9843,6 +9851,14 @@
       ],
       "title": ""
     },
+    "Beate Sodian, 1995": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md"
+      ],
+      "title": ""
+    },
     "Beaty & Johnson, 2021": {
       "doi": "",
       "isbn": "",
@@ -11856,6 +11872,7 @@
       "doi": "",
       "isbn": "9783834011909",
       "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md",
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md",
         "wiki/concepts/instruction-pedagogy/Co-Teaching.md"
       ],
@@ -13402,6 +13419,15 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ulrichsen_2025_UIR_Evolution.md"
+      ],
+      "title": ""
+    },
+    "Bodo von Borries, 1995": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md",
+        "wiki/concepts/instruction-pedagogy/History Didactics.md"
       ],
       "title": ""
     },
@@ -29262,6 +29288,22 @@
       "seen_in": [],
       "title": "A meta-analysis of the effects of Montessori education on five fields of development and learning in preschool and school-age children."
     },
+    "Demantowsky & Steenblock, 2011": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md"
+      ],
+      "title": ""
+    },
+    "Demantowsky, 2011": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md"
+      ],
+      "title": ""
+    },
     "Demerath, 1999": {
       "doi": "",
       "isbn": "",
@@ -29422,6 +29464,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/research-methodology/Ecological Validity.md"
+      ],
+      "title": ""
+    },
+    "Denis Shemilt, 2000": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md"
       ],
       "title": ""
     },
@@ -42090,6 +42140,15 @@
       ],
       "title": ""
     },
+    "Gautschi, 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md",
+        "wiki/concepts/instruction-pedagogy/History Didactics.md"
+      ],
+      "title": ""
+    },
     "Gavin Brown, 2004": {
       "doi": "",
       "isbn": "",
@@ -44633,11 +44692,12 @@
     },
     "Goodman, 1968": {
       "doi": "",
-      "isbn": "",
+      "isbn": "9780915144341",
       "seen_in": [
-        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch02.md"
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch02.md",
+        "wiki/concepts/educational-philosophy/Free Play.md"
       ],
-      "title": ""
+      "title": "Languages of Art: An Approach to a Theory of Symbols"
     },
     "Goodman, 1989": {
       "doi": "",
@@ -46370,6 +46430,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "A Meta-Analysis Examining the Efficacy of Flipped Instruction for STEM Academics."
+    },
+    "Grieshammer, 1976": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md"
+      ],
+      "title": ""
     },
     "Griffin, 1995": {
       "datasets": [
@@ -48384,6 +48452,14 @@
       "seen_in": [],
       "title": "Class size, cognitive abilities, bullying, and violent behavior  Evidence from West Bank schools"
     },
+    "Halldén, 1997": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md"
+      ],
+      "title": ""
+    },
     "Haller et al., 1988": {
       "datasets": [
         "metax:S1383"
@@ -50354,6 +50430,7 @@
       "doi": "",
       "isbn": "9780415479783",
       "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md",
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md",
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md",
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Rolff_2014_SchoolStructure.md",
@@ -50392,8 +50469,7 @@
         "wiki/concepts/instruction-pedagogy/Constructivist Instruction.md",
         "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md",
         "wiki/concepts/instruction-pedagogy/Direct Instruction.md",
-        "wiki/concepts/instruction-pedagogy/Effective Teaching.md",
-        "wiki/concepts/instruction-pedagogy/Feedback.md"
+        "wiki/concepts/instruction-pedagogy/Effective Teaching.md"
       ],
       "title": "Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement"
     },
@@ -50430,6 +50506,7 @@
       "doi": "",
       "isbn": "9783834011909",
       "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md",
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Kremers_2014_CooperativeLearning.md",
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Reiss_Bernhard_2014_MathematicsEducation.md",
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Terhart_2014_HolyGrail.md",
@@ -51439,6 +51516,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md",
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md",
         "wiki/arguments/journal-articles/Paideia/Argument_Qvortrup_2015_Paideia.md"
       ],
       "title": "Interview von Volker Reinhardt mit Prof. Andreas Helmke zur Hattie-Studie"
@@ -51944,6 +52022,14 @@
         "wiki/facts/germany/KMK-Bildungsstandards.md"
       ],
       "title": "Schule im Jahr IV nach PISA. Ein 10-Punkte-Programm gegen illusionäre Bildungsstandards"
+    },
+    "Herrmann, 2010": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md"
+      ],
+      "title": ""
     },
     "Herson, 1961": {
       "doi": "",
@@ -64260,6 +64346,14 @@
       "seen_in": [],
       "title": "Impact of the year-round calendar on student achievement in Alameda unified school district"
     },
+    "Kneile-Klenk, 2007": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md"
+      ],
+      "title": ""
+    },
     "Knight & Lightowler, 2010": {
       "doi": "10.1332/174426410X535891",
       "isbn": "",
@@ -65730,6 +65824,14 @@
       ],
       "title": ""
     },
+    "Kruppa & Wermes, 1975": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md"
+      ],
+      "title": ""
+    },
     "Kruse, 2007": {
       "datasets": [
         "eef-ey:extra-hours"
@@ -66857,6 +66959,15 @@
       "seen_in": [],
       "title": "Short- and long-term effects of a strategy intervention on school students’ text comprehension"
     },
+    "Kölbl, 2004": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md",
+        "wiki/concepts/instruction-pedagogy/History Didactics.md"
+      ],
+      "title": ""
+    },
     "Köller & Baumert, 2012": {
       "doi": "",
       "isbn": "9783621278140",
@@ -66944,6 +67055,15 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Revai_2022_ChangingLandscape.md"
+      ],
+      "title": ""
+    },
+    "Kübler et al., 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md",
+        "wiki/concepts/instruction-pedagogy/History Didactics.md"
       ],
       "title": ""
     },
@@ -75869,6 +75989,14 @@
       ],
       "title": ""
     },
+    "Marks, 2006": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md"
+      ],
+      "title": ""
+    },
     "Markus & Kitayama, 1991": {
       "doi": "",
       "isbn": "",
@@ -83591,6 +83719,15 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Beiträge zur Schulentwicklung/Argument_Manitius_vanHolt_2019_BzS.md"
+      ],
+      "title": ""
+    },
+    "Müller, 1972": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md",
+        "wiki/concepts/instruction-pedagogy/History Didactics.md"
       ],
       "title": ""
     },
@@ -93357,6 +93494,14 @@
       ],
       "title": ""
     },
+    "Popp et al., 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/History Didactics.md"
+      ],
+      "title": ""
+    },
     "Popper, 1945": {
       "doi": "",
       "isbn": "",
@@ -102678,6 +102823,14 @@
       ],
       "title": "Equality, Adequacy, and Education for Citizenship"
     },
+    "Sauer et al., 2014": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md"
+      ],
+      "title": ""
+    },
     "Saunders, 2014": {
       "datasets": [
         "eef:homework"
@@ -104252,6 +104405,14 @@
       "seen_in": [],
       "title": "Studying and constructing concept maps: A meta-analysis."
     },
+    "Schroeder, 2012": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md"
+      ],
+      "title": ""
+    },
     "Schröder & Wrana, 2022": {
       "doi": "",
       "isbn": "",
@@ -104793,6 +104954,14 @@
       ],
       "title": ""
     },
+    "Schönemann, 2003": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md"
+      ],
+      "title": ""
+    },
     "Schüll, 2014": {
       "doi": "",
       "isbn": "",
@@ -105306,6 +105475,14 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Beiträge zur Schulentwicklung/Argument_Manitius_vanHolt_2019_BzS.md",
         "wiki/facts/germany/Clearing House Unterricht.md"
+      ],
+      "title": ""
+    },
+    "Seidenfuss, 2014": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/History Didactics.md"
       ],
       "title": ""
     },
@@ -109391,6 +109568,14 @@
       ],
       "title": "Young children’s differentiation of hypothetical beliefs from evidence"
     },
+    "Sodian, 1995": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/History Didactics.md"
+      ],
+      "title": ""
+    },
     "Soe et al., 2000": {
       "datasets": [
         "metax:S1900"
@@ -110167,6 +110352,14 @@
         "wiki/concepts/educational-philosophy/Epistemological Vigilance.md",
         "wiki/concepts/instruction-pedagogy/Source Evaluation.md",
         "wiki/persons/france/Dan Sperber.md"
+      ],
+      "title": ""
+    },
+    "Sperisen & Schär, 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md"
       ],
       "title": ""
     },
@@ -111253,6 +111446,14 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Higher Education Research & Development/Argument_Biggs_1999_HERD.md",
         "wiki/concepts/educational-philosophy/Constructivist Paradigm.md"
+      ],
+      "title": ""
+    },
+    "Steffens & Höfer, 2012": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md"
       ],
       "title": ""
     },
@@ -125340,6 +125541,14 @@
       "seen_in": [],
       "title": "A meta-analysis of the relationship between science achievement and science attitude: Kindergarten through college"
     },
+    "Wilschut, 2009": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md"
+      ],
+      "title": ""
+    },
     "Wilson & McLean, 1994": {
       "doi": "",
       "isbn": "",
@@ -125510,6 +125719,22 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03.md"
+      ],
+      "title": ""
+    },
+    "Wineburg, 2001a": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md"
+      ],
+      "title": ""
+    },
+    "Wineburg, 2001b": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/History Didactics.md"
       ],
       "title": ""
     },

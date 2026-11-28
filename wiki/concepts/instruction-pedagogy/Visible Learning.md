@@ -530,6 +530,7 @@ updated: 2026-11-28
 > - [[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]] — 指出《可见的学习》的综合制英语国家样本无法外推至早期分流的德国多轨制，批评德国舆论将其作“罗夏测验”式挪用并忽视学校系统属性（pp. 67–77）。
 > - [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014)]] — 驳斥将《可见的学习》误读为传统讲授复辟的倾向，从显性效应量与强效因子束交互论证[[Cooperative Learning|合作学习]]的高成效与实践边界（pp. 78–88）。
 > - [[Argument_Reiss_Bernhard_2014_MathematicsEducation|Reiss and Bernhard (2014)]] — 以数学问题解决为例拆解两类问题因子排名反差背后的关键词聚合与算术平均掩盖机制，论证理论模型与国别语境校准的必要性（pp. 89–98）。
+> - [[Argument_Demantowsky_Waldis_2014_HistoryEducation|Demantowsky and Waldis (2014)]] — 从[[History Didactics|历史教学论]]审视可见学习的学科性缺口与文化边界，将可见性、教师专业化与学习策略转译为历史课堂的诊断与叙事框架（pp. 101–116）。
 > - [[Argument_Fredens_2015_Paideia\|Fredens (2015)]] — 从学习科学与脑科学视角解读 VL，提出“使学校成为反馈文化”的组织转型主张。
 > - [[Argument_Nordahl_2015_Paideia\|Nordahl (2015)]] — 斯堪的纳维亚学派将 VL 重构为校本改进、[[Teacher Collaboration|教师协作]]研讨与能力建设的微观实践路径。
 > - [[Argument_Eacott_2017_SLM\|Eacott (2017)]] — 结合澳大利亚测试下滑恐慌与效率崇拜历史类比，剖析 [[School Leadership\|学校领导]]向[[Cult of the Guru\|大师崇拜]]与新泰勒主义规训的制度锁定条件。

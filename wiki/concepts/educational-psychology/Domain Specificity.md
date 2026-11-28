@@ -87,7 +87,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-11-15
+updated: 2026-11-28
 ---
 
 ---
@@ -315,3 +315,4 @@ updated: 2026-11-15
 > - [[Argument_Song_Choi_2026_FPSYG\|Song and Choi (2026)]] — 多水平[[Meta-analysis\|元分析]]考察学生认识论发展在不同学习领域中的[[Interaction Effect\|调节效应]]。
 > - [[Argument_Park_2026_TSC\|Park et al. (2026)]] — 指出[[Creativity\|创造力]]与批判性思维均具领域特殊性，[[Creativity Assessment\|创造力测量]]依赖领域特定产出（发散流畅、自陈、领域产品），并提示任务特异技能重叠会抬高两[[Construct\|构念]]间的观察相关。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 认识论干预元分析，检验了干预与测验的特异性层级调节效应，证实主题特定与领域通用干预的“两极优势”，并揭示了[[Intervention Research\|干预研究]]在理工科上的过度集中。
+> - [[Argument_Demantowsky_Waldis_2014_HistoryEducation|Demantowsky and Waldis (2014)]] — 从[[History Didactics|历史教学论]]警示仓促宣称单一学科领域特异性的风险，强调人文学科共享的学科性以及 1995 年以来领域特异性发展心理学对历史师资培养的意义（pp. 108, 111–112）。

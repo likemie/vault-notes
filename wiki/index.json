@@ -12961,6 +12961,16 @@
     ]
   },
   {
+    "title": "History Didactics",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/History Didactics.md",
+    "aliases": [
+      "历史教学论",
+      "Geschichtsdidaktik",
+      "Didactics of History"
+    ]
+  },
+  {
     "title": "Homework",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Homework.md",
@@ -57149,6 +57159,11 @@
     "title": "Argument_Brugelmann_2014_LocalPractice",
     "type": "argument",
     "path": "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Brugelmann_2014_LocalPractice.md"
+  },
+  {
+    "title": "Argument_Demantowsky_Waldis_2014_HistoryEducation",
+    "type": "argument",
+    "path": "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md"
   },
   {
     "title": "Argument_Koller_2014_WhatWorks",
