@@ -1849,6 +1849,10 @@
     {
       "sentence": "In absence of any consistent age-related differences, teachers can base their choice of guidance on other factors such as the learners’ topical knowledge or familiarity with the inquiry skills, and the teacher–student ratio.*",
       "target": "wiki/concepts/chinese-philosophy/Familiarization.md"
+    },
+    {
+      "sentence": "学习者在探究过程中实际执行的技能操作，涵盖规划流程、生成假设、设计实验与反思结果；成果焦点限于探究技能或调节技能。",
+      "target": "wiki/methods/mixed/Design-Based Research.md"
     }
   ]
 }
