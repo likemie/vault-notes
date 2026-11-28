@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-26
+updated: 2026-11-28
 ---
 
 > [!def] Learning Strategies
@@ -161,7 +161,7 @@ updated: 2026-11-26
 > - **1990 年代 — 自主调节学习理论（SRL）成熟** 保罗·宾特里奇（Paul Pintrich）开发动机与学习策略问卷（MSLQ），巴里·齐默曼（Barry Zimmerman）构建自主调节循环模型，学习策略被拓展为涵盖动机、情感与环境管理的综合系统。
 > - **2009 年 — 可见学习元分析确立策略教学核心地位** 约翰·哈蒂（John Hattie）在《可见的学习》中综合数十项元分析，确立教授学习策略具有 $d = 0.72$ 的显著加速效应。
 > - **2013 年 — 结构方程实证确证与应试制度挤压揭示** [[Argument_Hogan_2013_ROE|Hogan et al. (2013)]] 基于大规模中小学课堂编码与 SEM 建模，实证确证共同调节学习策略对教师理解性教学的强路径依赖（$\beta = .73 \sim .77$），同时量化揭示了高利害考试对高阶策略的现实挤压。
-> - **2014 — 合作学习中的方法与元认知策略协同阐释** [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] 梳理德译本中元认知策略（$d = 0.67$）作为激活型教学的核心位置；[[Argument_Kremers_2014_CooperativeLearning|Kremers (2014, pp. 80, 82–86)]] 则系统论证学习策略能力既是合作学习的四大目标维度之一，也是决定小组合作能超越表面喧闹的关键机制。
+> - **2014 — 合作学习中的方法与元认知策略协同阐释，以及历史教学中的情境化练习议题** [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] 梳理德译本中元认知策略（$d = 0.67$）作为激活型教学的核心位置；[[Argument_Kremers_2014_CooperativeLearning|Kremers (2014, pp. 80, 82–86)]] 系统论证学习策略能力既是合作学习的四大目标维度之一，也是决定小组合作超越表面喧闹的关键机制；[[Argument_Demantowsky_Waldis_2014_HistoryEducation|Demantowsky and Waldis (2014, pp. 113–114)]] 则结合历史教学论指出练习唯有嵌入情境化学习策略才具实效，呼吁打破教法套路陷阱并补齐历史学科练习效果研究空白。
 
 ---
 
@@ -265,3 +265,4 @@ updated: 2026-11-26
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 跨文化考察东亚学生学习美德引导下的重复与精深加工策略，修正将重复直接等同于死记硬背的偏见。
 > - [[Argument_Terhart_2014_HolyGrail|Terhart (2014)]] — 梳理《可见的学习》德译本中元认知策略作为激活型高成效实践的核心地位，阐明自我监控对学业增益的支撑。
 > - [[Argument_Kremers_2014_CooperativeLearning|Kremers (2014)]] — 论述学习策略作为合作学习四大整合能力之一，剖析专门合作策略与即时提问摘要指导对小组增效的决定作用（pp. 80, 82–86）。
+> - [[Argument_Demantowsky_Waldis_2014_HistoryEducation|Demantowsky and Waldis (2014)]] — 结合历史教学论阐明练习须嵌入情境化学习策略方能生效，揭示该领域长期忽视练习效果研究的空白（pp. 113–114）。
