@@ -20137,9 +20137,9 @@
     "Onwuegbuzie & Leech (2007)": "Onwuegbuzie & Leech, 2007",
     "Onwuegbuzie & Leech, 2005": "Onwuegbuzie & Leech, 2005",
     "Onwuegbuzie & Leech, 2005a": "Onwuegbuzie & Leech, 2005",
-    "Onwuegbuzie & Leech, 2006": "Onwuegbuzie & Leech, 2006a",
-    "Onwuegbuzie & Leech, 2006a": "Onwuegbuzie & Leech, 2006b",
-    "Onwuegbuzie & Leech, 2006b": "Onwuegbuzie & Leech, 2006c",
+    "Onwuegbuzie & Leech, 2006": "Onwuegbuzie & Leech, 2006c",
+    "Onwuegbuzie & Leech, 2006a": "Onwuegbuzie & Leech, 2006a",
+    "Onwuegbuzie & Leech, 2006b": "Onwuegbuzie & Leech, 2006b",
     "Onwuegbuzie & Leech, 2006c": "Onwuegbuzie & Leech, 2006c",
     "Onwuegbuzie & Leech, 2007": "Onwuegbuzie & Leech, 2007",
     "Oostdam (2014)": "Oostdam, 2014",
@@ -178006,22 +178006,6 @@
       ],
       "doi": "",
       "identity_keys": [
-        "Onwuegbuzie & Leech, 2006"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/research-methodology/Research Question.md",
-        "wiki/methods/mixed/Convergent Design.md"
-      ],
-      "title": ""
-    },
-    "Onwuegbuzie & Leech, 2006b": {
-      "aliases": [
-        "Onwuegbuzie & Leech, 2006b",
-        "Onwuegbuzie & Leech (2006b)"
-      ],
-      "doi": "",
-      "identity_keys": [
         "Onwuegbuzie & Leech, 2006a"
       ],
       "isbn": "",
@@ -178030,10 +178014,10 @@
       ],
       "title": ""
     },
-    "Onwuegbuzie & Leech, 2006c": {
+    "Onwuegbuzie & Leech, 2006b": {
       "aliases": [
-        "Onwuegbuzie & Leech, 2006c",
-        "Onwuegbuzie & Leech (2006c)"
+        "Onwuegbuzie & Leech, 2006b",
+        "Onwuegbuzie & Leech (2006b)"
       ],
       "doi": "",
       "identity_keys": [
@@ -178048,6 +178032,22 @@
         "wiki/methods/qualitative/Negative Case Analysis.md"
       ],
       "title": ""
+    },
+    "Onwuegbuzie & Leech, 2006c": {
+      "aliases": [
+        "Onwuegbuzie & Leech, 2006c",
+        "Onwuegbuzie & Leech (2006c)"
+      ],
+      "doi": "10.46743/2160-3715/2006.1663",
+      "identity_keys": [
+        "Onwuegbuzie & Leech, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/research-methodology/Research Question.md",
+        "wiki/methods/mixed/Convergent Design.md"
+      ],
+      "title": "Linking research questions to mixed methods data analysis procedures"
     },
     "Onwuegbuzie & Leech, 2007": {
       "aliases": [
