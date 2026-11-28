@@ -11211,6 +11211,8 @@
     "Hans (1958)": "Hans, 1958",
     "Hans (1959)": "Hans, 1959",
     "Hans (1964)": "Hans, 1964",
+    "Hans Müller (1972)": "Hans Müller, 1972",
+    "Hans Müller, 1972": "Hans Müller, 1972",
     "Hans Reichenbach (1956)": "Hans Reichenbach, 1956",
     "Hans Reichenbach, 1956": "Hans Reichenbach, 1956",
     "Hans, 1949": "Hans, 1949",
@@ -12076,6 +12078,8 @@
     "Hochberg, 1988": "Hochberg, 1988",
     "Hockey & Allen-Collinson (2009)": "Hockey & Allen-Collinson, 2009",
     "Hockey & Allen-Collinson, 2009": "Hockey & Allen-Collinson, 2009",
+    "Hodel & Ziegler (2011)": "Hodel & Ziegler, 2011",
+    "Hodel & Ziegler, 2011": "Hodel & Ziegler, 2011",
     "Hodgen (2019)": "Hodgen, 2019",
     "Hodgen et al. (2019)": "Hodgen et al., 2019",
     "Hodgen et al., 2019": "Hodgen et al., 2019",
@@ -17369,10 +17373,8 @@
     "Marks & Hooghe, 2003": "Marks & Hooghe, 2003",
     "Marks (1989)": "Marks, 1989",
     "Marks (1993)": "Marks, 1993",
-    "Marks (2006)": "Marks, 2006",
     "Marks, 1989": "Marks, 1989",
     "Marks, 1993": "Marks, 1993",
-    "Marks, 2006": "Marks, 2006",
     "Markus & Kitayama (1991)": "Markus & Kitayama, 1991",
     "Markus & Kitayama, 1991": "Markus & Kitayama, 1991",
     "Markussen-Brown et al. (2017)": "Markussen-Brown et al., 2017",
@@ -20920,6 +20922,8 @@
     "Peter Evans' (1995)": "Peter Evans', 1995",
     "Peter Evans', 1995": "Peter Evans', 1995",
     "Peter Evans, 1995": "Peter Evans, 1995",
+    "Peter Gautschi (2013)": "Peter Gautschi, 2013",
+    "Peter Gautschi, 2013": "Peter Gautschi, 2013",
     "Peter Haas (1992)": "Peter Haas, 1992",
     "Peter Haas, 1992": "Peter Haas, 1992",
     "Peter Howitt (2000)": "Peter Howitt, 2000",
@@ -22390,6 +22394,8 @@
     "Robbins et al., 2009": "Robbins et al., 2009",
     "Robert Arnove (1980)": "Robert Arnove, 1980",
     "Robert Arnove, 1980": "Robert Arnove, 1980",
+    "Robert B. Marks (2006)": "Robert B. Marks, 2006",
+    "Robert B. Marks, 2006": "Robert B. Marks, 2006",
     "Robert Bogdan & Sari Biklen (1992)": "Robert Bogdan & Sari Biklen, 1992",
     "Robert Bogdan & Sari Biklen, 1992": "Robert Bogdan & Sari Biklen, 1992",
     "Robert Cowen & Andreas Kazamias (2009)": "Robert Cowen & Andreas Kazamias, 2009",
@@ -101417,7 +101423,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md",
         "wiki/concepts/instruction-pedagogy/History Didactics.md"
       ],
       "title": ""
@@ -113023,6 +113028,21 @@
       ],
       "title": ""
     },
+    "Hans Müller, 1972": {
+      "aliases": [
+        "Hans Müller, 1972",
+        "Hans Müller (1972)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hans Müller, 1972"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md"
+      ],
+      "title": ""
+    },
     "Hans Reichenbach, 1956": {
       "aliases": [
         "Hans Reichenbach, 1956",
@@ -119549,6 +119569,21 @@
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
       "title": "Occupational Knowledge and Practice Amongst UK University Research Administrators"
+    },
+    "Hodel & Ziegler, 2011": {
+      "aliases": [
+        "Hodel & Ziegler, 2011",
+        "Hodel & Ziegler (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hodel & Ziegler, 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md"
+      ],
+      "title": ""
     },
     "Hodgen et al., 2019": {
       "aliases": [
@@ -157827,21 +157862,6 @@
       ],
       "title": ""
     },
-    "Marks, 2006": {
-      "aliases": [
-        "Marks, 2006",
-        "Marks (2006)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Marks, 2006"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md"
-      ],
-      "title": ""
-    },
     "Markus & Kitayama, 1991": {
       "aliases": [
         "Markus & Kitayama, 1991",
@@ -183876,6 +183896,21 @@
       ],
       "title": ""
     },
+    "Peter Gautschi, 2013": {
+      "aliases": [
+        "Peter Gautschi, 2013",
+        "Peter Gautschi (2013)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Peter Gautschi, 2013"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md"
+      ],
+      "title": ""
+    },
     "Peter Haas, 1992": {
       "aliases": [
         "Peter Haas, 1992",
@@ -187123,6 +187158,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md",
         "wiki/concepts/instruction-pedagogy/History Didactics.md"
       ],
       "title": ""
@@ -194672,6 +194708,21 @@
       "seen_in": [
         "wiki/facts/global/World Bank.md",
         "wiki/persons/us/Immanuel Wallerstein.md"
+      ],
+      "title": ""
+    },
+    "Robert B. Marks, 2006": {
+      "aliases": [
+        "Robert B. Marks, 2006",
+        "Robert B. Marks (2006)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Robert B. Marks, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md"
       ],
       "title": ""
     },
@@ -207271,6 +207322,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md",
         "wiki/concepts/instruction-pedagogy/History Didactics.md"
       ],
       "title": ""
@@ -222061,7 +222113,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Review of Educational Research/Argument_Lazonder_2016_RER.md"
+        "wiki/arguments/journal-articles/Review of Educational Research/Argument_Lazonder_2016_RER.md",
+        "wiki/theories/instruction-pedagogy/Inquiry Cycle.md"
       ],
       "title": "Scaffolds for scientific discovery learning"
     },

@@ -10,9 +10,9 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 198
-fact_related_level: 19
-fact_related_stars: "💎💎💎💎💎💎⭐"
+fact_related_count: 202
+fact_related_level: 20
+fact_related_stars: "💎💎💎💎💎💎⭐⭐"
 fact_related_color: "#fecdd3"
 period: "2000–至今"
 initiator_organization: "[[OECD]]"
@@ -124,6 +124,7 @@ related_concepts:
   - "[[Learnification]]"
   - "[[Document]]"
   - "[[Tripartite School System]]"
+  - "[[Grade Retention]]"
 related_methods:
   - "[[Questionnaire]]"
   - "[[Random Sampling]]"
@@ -191,6 +192,7 @@ related_facts:
   - "[[Chilean Educational Reform of 1981]]"
   - "[[SNTE]]"
   - "[[2014 Open Letter on PISA]]"
+  - "[[Gymnasium]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[Academy Programme in England]]"
   - "[[European Commission]]"
@@ -220,6 +222,8 @@ related_arguments:
   - "[[Argument_Munch_2014_TCR]]"
   - "[[Argument_Ertl_2006_ORE]]"
   - "[[Argument_Koller_2014_WhatWorks]]"
+  - "[[Argument_Rolff_2014_SchoolStructure]]"
+  - "[[Argument_Reiss_Bernhard_2014_MathematicsEducation]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Governing at a Distance]]"
@@ -231,7 +235,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-05-17
-updated: 2026-11-26
+updated: 2026-11-28
 ---
 
 ---
@@ -409,7 +413,7 @@ updated: 2026-11-26
 > > 围绕 PISA 是否凭借跨国认知精英网络垄断了教育合法性定义，以及当通用技能测试嵌入深厚分科传统时引发的认识论冲突与制度失调。
 > >
 > > - **官方普适素养立场（经合组织）** 坚称 PISA 测评跨越狭隘的特定国家教学大纲，立足真实情境评估未来公民的关键通用素养，为破除传统经院式分科壁垒与促进社会公平流动提供了客观科学标尺。
-> > - **[[Institutional Isomorphism|制度同构]]与混杂病理批判（制度社会学视角）** 制度社会学者[[Richard Münch|理查德·明希]]（Richard Münch）指出，PISA 测评标志着跨国研究精英对教育合法性定义的垄断；通过对质 PISA 试题与德国文法中学及 [[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] 教学大纲，明希揭示 PISA 的情境化通用技能题型在认识论上同以形式逻辑证明、公理推导与经典文学释读为核心的洪堡教养传统存在深刻冲突；当去情境化的外来考核标准强行嵌入未触动的分流旧体制时，不仅未能提高效能，反而诱发了课程碎片化与应试操练，催生出功能失调的制度混杂体。[[Argument_Munch_2014_TCR|(Münch, 2014, pp. 2–4, 18–20)]]
+> > - **[[Institutional Isomorphism|制度同构]]与混杂病理批判（制度社会学视角）** 制度社会学者[[Richard Münch|理查德·明希]]（Richard Münch）指出，PISA 测评标志着跨国研究精英对教育合法性定义的垄断；通过对质 PISA 试题与[[Gymnasium|德国文法中学]]及 [[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] 教学大纲，明希揭示 PISA 的情境化通用技能题型在认识论上同以形式逻辑证明、公理推导与经典文学释读为核心的洪堡教养传统存在深刻冲突；当去情境化的外来考核标准强行嵌入未触动的分流旧体制时，不仅未能提高效能，反而诱发了课程碎片化与应试操练，催生出功能失调的制度混杂体。[[Argument_Munch_2014_TCR|(Münch, 2014, pp. 2–4, 18–20)]]
 
 > [!lessons] 经验教训与启示
 > - **实施教训** 跨国联赛排位极易引发狭隘的应试化倾向与国内政客的危机虚构，导致教学实践中动手实验与深层探究被纸笔刷题架空；过度依赖单一量化排名也会削弱对本土多元教育生态与教育正义的深层观照。
@@ -477,5 +481,6 @@ updated: 2026-11-26
 > - [[Argument_Silova_2009_EE|Silova (2009)]] — 批判 PISA 等大规模跨国测试带来的去情境化技术主义冲击，论证扎根历史文脉与制度生态的多案例质性比较对抵御均质化量化规训的学科价值（pp. 28–29）。
 > - [[Argument_Munch_2014_TCR|Münch (2014)]] — 结合新制度主义社会学制度同构与[[Pierre Bourdieu|布迪厄]]符号权力视角，系统解构经合组织如何依托 PISA 测评垄断教育合法性定义，并揭示其测评构念与德国本土深度分科传统之间的认识论冲突及制度混杂病理。
 > - [[Argument_Ertl_2006_ORE|Ertl (2006)]] — 系统剖析 PISA 2000 在德国引发的政治震荡与话语变迁，揭示统一国家标准建立背后的联邦跨州妥协与对[[Tripartite School System|三轨学制]]早期分流的回避。
-> - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 援引 PISA 2003 德国留级追踪实证（Ehmke et al., 2010），证实同等起点的留级生在后续数理素养发展中显著滞后于正常升学同伴，反思外在淘汰机制（p. 28）。
+> - [[Argument_Koller_2014_WhatWorks|Köller (2014)]] — 援引 PISA 2003 德国[[Grade Retention|留级]]追踪实证（Ehmke et al., 2010），证实同等起点的留级生在后续数理素养发展中显著滞后于正常升学同伴，反思外在淘汰机制（p. 28）。
 > - [[Argument_Rolff_2014_SchoolStructure|Rolff (2014)]] — 结合 PISA 2000 与 PISA 2009 德国数据反驳学制无关论，指出多轨制下社会背景与能力关联度仍居国际高位，且培养轨道可解释 43% 数学方差并造成同质学生间 49 分差距（pp. 70–72）。
+> - [[Argument_Reiss_Bernhard_2014_MathematicsEducation|Reiss and Bernhard (2014)]] — 援引 PISA 2000 数学素养框架及 PISA 2003 一般问题解决与数学潜相关（$r = 0.89$），论证数学问题解决的深层理解门槛（pp. 92, 96）。

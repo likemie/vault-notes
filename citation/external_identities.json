@@ -42144,7 +42144,6 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md",
         "wiki/concepts/instruction-pedagogy/History Didactics.md"
       ],
       "title": ""
@@ -49100,6 +49099,14 @@
       ],
       "title": ""
     },
+    "Hans Müller, 1972": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md"
+      ],
+      "title": ""
+    },
     "Hans Reichenbach, 1956": {
       "doi": "",
       "isbn": "",
@@ -52973,6 +52980,14 @@
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_DeJong_2024_SHE.md"
       ],
       "title": "Occupational Knowledge and Practice Amongst UK University Research Administrators"
+    },
+    "Hodel & Ziegler, 2011": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md"
+      ],
+      "title": ""
     },
     "Hodgen et al., 2019": {
       "doi": "",
@@ -75989,14 +76004,6 @@
       ],
       "title": ""
     },
-    "Marks, 2006": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md"
-      ],
-      "title": ""
-    },
     "Markus & Kitayama, 1991": {
       "doi": "",
       "isbn": "",
@@ -91584,6 +91591,14 @@
       ],
       "title": ""
     },
+    "Peter Gautschi, 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md"
+      ],
+      "title": ""
+    },
     "Peter Haas, 1992": {
       "doi": "",
       "isbn": "",
@@ -93498,6 +93513,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md",
         "wiki/concepts/instruction-pedagogy/History Didactics.md"
       ],
       "title": ""
@@ -98012,6 +98028,14 @@
       "seen_in": [
         "wiki/facts/global/World Bank.md",
         "wiki/persons/us/Immanuel Wallerstein.md"
+      ],
+      "title": ""
+    },
+    "Robert B. Marks, 2006": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md"
       ],
       "title": ""
     },
@@ -105482,6 +105506,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Terhart_2014_Kallmeyer/Argument_Demantowsky_Waldis_2014_HistoryEducation.md",
         "wiki/concepts/instruction-pedagogy/History Didactics.md"
       ],
       "title": ""
@@ -114411,7 +114436,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Review of Educational Research/Argument_Lazonder_2016_RER.md"
+        "wiki/arguments/journal-articles/Review of Educational Research/Argument_Lazonder_2016_RER.md",
+        "wiki/theories/instruction-pedagogy/Inquiry Cycle.md"
       ],
       "title": "Scaffolds for scientific discovery learning"
     },

@@ -7,7 +7,7 @@ aliases:
 summary: "由 John Sweller 于 1988 年创立的经典学习与教学设计理论，以人类工作记忆容量有限与长时记忆图式无限为核心架构，解构内在负荷、外在负荷与关联负荷，主张通过减少外在负荷、优化内在负荷以促进图式建构和自动化。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 51
+theory_related_count: 55
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Task Structure]]"
   - "[[Working Memory]]"
+  - "[[Instructional Design]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Scaffolding]]"
@@ -48,6 +49,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Research Question]]"
   - "[[Graphic Organizer]]"
+  - "[[Scientific Reasoning]]"
   - "[[Positivism]]"
   - "[[Initial Teacher Training]]"
   - "[[Policy Network]]"
@@ -61,6 +63,7 @@ related_theories:
 related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Questionnaire]]"
+  - "[[Meta-analysis]]"
   - "[[Effect Size]]"
 related_persons:
   - "[[John Sweller]]"
@@ -72,11 +75,12 @@ related_arguments:
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Lei_Ding_Chiu_2026_ERR]]"
   - "[[Argument_Skourdoumbis_2024_AER]]"
+  - "[[Argument_Lazonder_2016_RER]]"
   - "[[Argument_Liu_2026_CHBR]]"
 confidence: high
 status: active
 created: 2026-06-06
-updated: 2026-11-15
+updated: 2026-11-28
 ---
 
 ---
@@ -84,7 +88,7 @@ updated: 2026-11-15
 > [!theory-position] 理论定位
 > - **解释对象** 人类认知架构在处理新信息与复杂任务时的心智负荷分配机制，以及教学信息呈现与[[Task Structure\|任务结构]]对知识内化效能的影响。
 > - **理论问题** 传统教学往往忽视人类[[Working Memory\|工作记忆]]的物理容量限制，导致学习者面临认知超载（Cognitive Overload）；探究式自由探索如何影响初学者的认知建构；智能生成技术如何重塑心智负荷再分配。
-> - **理论类型** 认知心理学解释理论、学习科学机制模型与微观教学设计规范框架。
+> - **理论类型** 认知心理学解释理论、学习科学机制模型与微观[[Instructional Design|教学设计]]规范框架。
 > - **知识位置** 由澳大利亚认知心理学家 [[John Sweller]] 于 1988 年创立，后与 Fred Paas、Jeroen van Merriënboer 及 [[Richard E. Mayer]] 的多媒体学习理论深度融合，并在当代[[Generative Artificial Intelligence\|生成式人工智能]]（Artificial Intelligence, AI）[[Man-Computer Symbiosis|人机协同]]（[[Argument_Li_2026_CEAI\|Li et al., 2026]]）与科学探究教学论辩（[[Argument_DeJong_2023_ERR\|De Jong et al., 2023]]）中获得持续检验与理论拓展。
 
 > [!claim] 核心判断
@@ -98,16 +102,16 @@ updated: 2026-11-15
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 澳大利亚心理学家 [[John Sweller]] 于 1988 年在《认知科学》（*Cognitive Science*）发表奠基性论文《[[Problem Solving\|问题解决]]中的认知负荷：对教学设计的影响》（*Cognitive load during problem solving: Effects on learning*），正式确立理论雏形。
+> - **提出者与原始文本** 澳大利亚心理学家 [[John Sweller]] 于 1988 年在《认知科学》（*Cognitive Science*）发表早期代表作《[[Problem Solving\|问题解决]]中的认知负荷：对教学设计的影响》（*Cognitive load during problem solving: Effects on learning*），正式确立理论雏形。
 > - **原初问题** 当时传统认知心理学普遍将无指导的解题探索（如手段—目的分析 Means-Ends Analysis）视为培养通用问题解决能力的黄金[[Paradigm\|范式]]。然而实验观察表明，初学者在面对复杂物理或数学难题时，往往耗费大量时间盲目试错却并未真正习得底层解题原理。
 > - **理论资源与材料** 借鉴 [[Herbert A. Simon]] 等人的[[Bounded Rationality\|有限理性]]（Bounded Rationality）假说与人类问题空间搜索理论，结合 George A. Miller 的[[Working Memory\|工作记忆]]容量限制研究，以及 Chase & Simon 关于国际象棋大师长时记忆图式组块（Chunking）的经典实验。
 > - **形成路径** Sweller 通过严格受控的几何与代数解题实验，对比无目标问题（Goal-Free Problems）、工作样例（[[Worked Examples]]）与传统常规解题组的学习表现，发现手段—目的分析占用了初学者全部注意力通道，剥离了图式建构所需的认知资源，从而推导出工作记忆负荷直接制约学习效能的因果解释机制。
 
 > [!dev-timeline] 理论版本与贡献
-> - **1988 — 理论奠基阶段** Sweller 提出手段—目的分析引发工作记忆超载，确立工作样例效应优于盲目解题的实验范式。
+> - **1988 — 理论提出与初创阶段** Sweller 提出手段—目的分析引发工作记忆超载，确立工作样例效应优于盲目解题的实验范式。
 > - **1990 年代 — 三维负荷模型与主观测量标准化** Paas 与 van Merriënboer 提出内在负荷（Intrinsic）、外在负荷（Extraneous）与关联负荷（Germane）的三维负荷结构，并开发 9 点李克特主观心智负荷量表。
 > - **1998 — 经典综合与教学效应群确立** Sweller、van Merriënboer 与 Paas 联合发表经典[[Document|文献]]，系统总结分心效应、[[Modality Effect|通道效应]]、冗余效应与专业反转效应（Expertise Reversal Effect）。
-> - **2006 — 最小指导批判与教学论争** Kirschner、Sweller 与 Clark 发表争议论文，断言未加指导的[[Constructivist Paradigm\|建构主义]]与[[Inquiry-Based Learning\|探究学习]]因引发工作记忆超载而彻底无效，主张回归[[Direct Instruction\|显性直接教学]]（Direct Instruction, [[Discursive Institutionalism|DI]]）。
+> - **2006 — 最小指导批判与教学论争** Kirschner、Sweller 与 Clark 发表争议文章，断言未加指导的[[Constructivist Paradigm\|建构主义]]与[[Inquiry-Based Learning\|探究学习]]因引发工作记忆超载而彻底无效，主张回归[[Direct Instruction\|显性直接教学]]（Direct Instruction, [[Discursive Institutionalism|DI]]）。
 > - **2011 — 进化心理学基础整合** Sweller 结合 David C. Geary 进化心理学，提出生物初级知识与生物次级知识划分，论证次级学科知识必须依赖显性指导教学。
 > - **2023 — 学习科学边界审视与时序协同拓展** [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 系统反驳将探究等同于极简指导的狭隘解读，指出辅以支架的指导式探究能有效管理认知负荷，且探究前置（如[[Productive Failure\|生产性失败]]）能激活图式、提高后续讲授的认知接受度。
 > - **2026 — 生成式 AI 时代：负荷双向分化与[[Epistemic Friction\|认识论摩擦]]机制** [[Argument_Li_2026_CEAI\|Li et al. (2026)]] 揭示大语言模型（Large Language Model, LLM）在结构化设计中释放外在负荷赋能高阶探究，而在非结构化使用中切除关联负荷（认识论摩擦）导致认知侵蚀的双向分化机制。
@@ -135,7 +139,7 @@ updated: 2026-11-15
 ---
 
 > [!theory-proposition] 命题一｜人类认知架构的狭窄[[Working Memory\|工作记忆]]容量直接决定了新知识习得必须依赖图式建构与自动化
-> 新信息的意识加工必须经过工作记忆通道，而工作记忆的瞬时注意力资源极其受限，在无先验图式支持时只能处理极少离散元素；长时记忆则通过构建图式将多重复杂信息压缩打包为一个心理单元，一旦达到自动化提取，在执行时几乎不占用工作记忆资源。因此，教学设计的首要使命是防范初学者在图式建构前遭遇工作记忆超载。（Sweller, 1988, 1998）
+> 新信息的意识加工必须经过工作记忆通道，而工作记忆的瞬时注意力资源极其受限，在无先验图式支持时只能处理极少离散元素；长时记忆则通过构建图式将多重复杂信息压缩打包为一个心理单元，一旦达到自动化提取，在执行时几乎不占用工作记忆资源。因此，[[Instructional Design|教学设计]]的首要使命是防范初学者在图式建构前遭遇工作记忆超载。（Sweller, 1988, 1998）
 
 > [!example|notitle]
 > 在初中代数教学中，初学者计算二元一次方程组时必须同时监控消元规则、正负号法则和乘除算理（高元素交互性）；通过反复针对性分步练习促使基础算理自动化后，学生在解决复杂应用题时便能将全部工作记忆释放给方程建模本身。
@@ -162,7 +166,7 @@ updated: 2026-11-15
 > 生成式 AI 等智能技术具备极高的即时语义模式生成能力，能够高效代劳机械性文字重排与浅层信息汇编。若在教学中提供明确量规与反思提示（结构化路径），AI 能有效剥离机械外在负荷，促使学生将释放出的心智资源投入[[Metacognition\|元认知监控]]与深度概念审订；若缺乏结构化规制（非结构化路径），AI 的高流畅度会诱发破坏性[[Cognitive Offloading\|认知卸载]]，直接切除图式重组所必需的关联认知负荷（[[Epistemic Friction\|认识论摩擦]]），导致[[Higher-Order Thinking Skills\|高阶思维]]退化。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 9–11)]]
 
 > [!example|notitle]
-> 在大学学术论文综述写作中，若学生仅指令 AI 生成整篇[[Literature Review\|文献综述]]并直接提交，深层比较不同学术观点的反思过程被完全切除；而在设计了“[[Argument Mapping\|论证图]]谱[[Externalization\|外化]] + AI 寻找反例 + 人工辩驳审定”的结构化任务中，AI 代劳检索排版负荷，学生专注于权衡对立理论，达成了[[Critical Thinking\|批判性思维]]的显著增益。
+> 在大学学术[[Literature Review|文献综述]]写作中，若学生仅指令 AI 生成整篇[[Literature Review\|文献综述]]并直接提交，深层比较不同学术观点的反思过程被完全切除；而在设计了“[[Argument Mapping\|论证图]]谱[[Externalization\|外化]] + AI 寻找反例 + 人工辩驳审定”的结构化任务中，AI 代劳检索排版负荷，学生专注于权衡对立理论，达成了[[Critical Thinking\|批判性思维]]的显著增益。
 
 ---
 
@@ -198,7 +202,7 @@ updated: 2026-11-15
 > > 学界对初学者是否在任何情况下都不适宜开展探究式学习存在长期对立。
 > >
 > > - **认知负荷派（Sweller, Kirschner, Clark, Zhang）** 坚称人类[[Working Memory\|工作记忆]]瓶颈决定了任何缺乏显性示范的教学都是低效的，指责倡导探究的政策制定者引发了教育实证危机。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 1–2)]]
-> > - **学习科学与探究派（De Jong, Hmelo-Silver, Chinn）** 指出 Sweller 制造了纯发现假想敌；配备有效支架的指导式探究不仅不会超载，反而在深层概念建构、科学思维与长期记忆保持上显著超越单一直接教学；二者最优[[Paradigm\|范式]]在于时序互补（如[[Productive Failure\|生产性失败]]）。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 2–6)]]
+> > - **学习科学与探究派（De Jong, Hmelo-Silver, Chinn）** 指出 Sweller 制造了纯发现假想敌；配备有效支架的指导式探究不仅不会超载，反而在深层概念建构、[[Scientific Reasoning|科学思维]]与长期记忆保持上显著超越单一直接教学；二者最优[[Paradigm\|范式]]在于时序互补（如[[Productive Failure\|生产性失败]]）。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 2–6)]]
 >
 > > [!axis] 智能工具[[Cognitive Offloading\|认知卸载]]：是释放心智资源还是切除深度反思？
 > > 争论外部技术媒介究竟是优化了心智资源配置，还是消解了图式建构必需的认知挣扎。
@@ -213,13 +217,14 @@ updated: 2026-11-15
 > > - **批判政策社会学立场（Skourdoumbis & Rowe）** 批评其理论将生动的社会教育过程约化为机械的实验室数据，其非同行评审的智库报告被[[Policy Network\|政策网络]]强制推销，存在生物还原主义风险并压制了教师的专业自主反思。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, pp. 8–11)]]
 
 > [!critique] 批评索引
-> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统批评了认知负荷理论学者在 2022 年反探究论文中的[[Document|文献]]选择性偏差，确证辅以支架的探究教学不仅能有效调控负荷，而且在概念理解与跨情境迁移上显著优于单一直接讲授。
+> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统批评了认知负荷理论学者在 2022 年反探究文章中的[[Document|文献]]选择性偏差，确证辅以支架的探究教学不仅能有效调控负荷，而且在概念理解与跨情境迁移上显著优于单一直接讲授。
 > - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] — 批评认知负荷理论在澳大利亚教师教育改革中被保守智库工具化，指出其将学生学习差异简单还原为工作记忆负荷，屏蔽了教育的社会历史与文化关系维度。
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
 > - **[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]** — 检验并修正认知负荷理论在科学教育中的推论，确立辅以支架的[[Inquiry-Based Learning\|指导式探究]]能够有效管理[[Working Memory\|工作记忆]]负荷，并提出探究与[[Direct Instruction\|直接教学]]时序协同的动态整合模型。
+> - **[[Argument_Lazonder_2016_RER\|Lazonder and Harmsen (2016)]]** — [[Meta-analysis|元分析]]发现高具体性工作样例与中具体性过程工作表均能有效促学，提示减轻[[Working Memory\|工作记忆]]负荷未必依赖高具体性指导。
 > - **[[Argument_Li_2026_CEAI\|Li et al. (2026)]]** — 将认知负荷理论拓展至生成式 AI 时代，系统揭示大语言模型在[[Structured Teaching\|结构化教学]]中释放外在负荷、在非结构化使用中切除关联负荷（[[Epistemic Friction\|认识论摩擦]]）的双向分化机制。
 > - **[[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]]** — 依托认知负荷理论[[Argument Mapping\|论证图]]形组织器如何通过空间拓扑[[Externalization\|外化]]概念关系、降低瞬时工作记忆负荷，并证实其对[[Higher-Order Thinking Skills\|高阶思维]]的大[[Effect Size\|效应量]]促进（$g = 0.778$）。
 > - **[[Argument_Liu_2026_CHBR\|Liu et al. (2026)]]** — 借助认知负荷理论解释自适应 AI [[AI Agent in Education\|智能体]]对[[Procedural Skill\|程序技能]]（$g = 0.391$）与高阶思维（$g = 0.540$）的差[[Alienation|异化]]赋能机制。
